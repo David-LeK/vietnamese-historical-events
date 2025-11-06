@@ -404,6 +404,7 @@
 *   **Jan. 1887:** The Ba Dinh base fell after fierce attacks by French forces.
 *   **Nov. 1888:** King Ham Nghi was captured due to the betrayal of Truong Quang Ngoc and was later exiled to Algeria.
 *   **1889:** Nguyen Thien Thuat went to China, and the Bai Say Uprising weakened.
+*   **1891:** Hai Phong was considered the first city to have electric lights, even before Hanoi.
 *   **1892:** The Bai Say Uprising disintegrated. Tong Duy Tan (leader of the Hung Linh Uprising) was captured.
 *   **Nov. 1893:** Cao Thang was killed in an attack on the Nu fortress (Nghe An), a major loss for the Huong Khe Uprising.
 *   **Oct. 1894:** Hoang Hoa Tham made peace with the French for the first time to consolidate his forces in Yen The.
@@ -897,6 +898,7 @@
 *   **Jul. 1992:** Vietnam officially signed the Treaty of Amity and Cooperation in Southeast Asia (Bali Treaty) and became an observer of ASEAN.
 *   **Jun. 1993:** The 5th Conference of the Party Central Committee (7th tenure) issued a resolution on continuing the renewal and development of the rural socio-economy.
 *   **Jul. 2, 1993:** The US announced it no longer opposed other countries and international financial institutions lending to Vietnam to repay its debts, a crucial step towards lifting the embargo.
+*   **Early 1994:** Experimental internet connectivity activities began, in collaboration between Vietnamese and Australian scientists.
 *   **Jan. 20-25, 1994:** The Party's mid-term National Conference (7th tenure) identified four major risks facing the country and set out the task of promoting industrialization and modernization.
 *   **Feb. 3, 1994:** US President Bill Clinton announced the **complete lifting of the trade embargo** against Vietnam.
 *   **May 27, 1994:** The 500kV North-South high-voltage power transmission line officially became operational, unifying the power grids of the three regions and resolving the power shortage in the South and Central regions.
@@ -909,119 +911,123 @@
 *   **Jun. 1996:** The 8th National Congress of the Communist Party of Vietnam set out the task of **accelerating the country's industrialization and modernization**.
 *   **Jul. 1, 1997:** The Law on Cooperatives took effect, creating a legal basis for transforming agricultural cooperatives into new-style service models serving the household economy.
 *   **1997:** The **regional financial-monetary crisis** began, negatively affecting Vietnam's economy, reducing its growth rate and investment attraction.
+*   **Nov. 19, 1997:** Internet services were officially made widely available in Vietnam, with Vietnam Posts and Telecommunications Group (VNPT) and Netnam Joint Stock Company being among the first to implement them.
 *   **Dec. 1997:** The 4th Conference of the Party Central Committee (8th tenure) set out a policy of upholding the spirit of self-reliance and self-strengthening, and leveraging internal resources to overcome the difficulties and challenges from the crisis.
+*   **1998:** The Ho Chi Minh City Securities Trading Center was established by a decision of the Prime Minister.
 *   **Jul. 31, 1998:** The Prime Minister issued Decision 135/1998/QD-TTg on the socio-economic development program for especially difficult communes in mountainous, remote, and isolated areas (Program 135).
 *   **Nov. 1998:** The Politburo issued Resolution 06 on some issues of agriculture and the rural economy, for the first time officially recognizing and encouraging the development of the **farm economic model**.
 *   **Dec. 30, 1999:** Vietnam and China officially signed the **Land Border Treaty**.
 *   **Jan. 1, 2000:** The **Enterprise Law** officially took effect, creating a breakthrough in administrative procedure reform, abolishing many sub-licenses, and strongly promoting the development of the private economic sector.
 *   **Jun. 15, 2000:** The Government issued Resolution 09/NQ-CP on economic restructuring and consumption of agricultural products, creating a legal basis for developing commercial agriculture.
 *   **Jul. 14, 2000:** The **Vietnam-U.S. Bilateral Trade Agreement (BTA)** was signed in Washington D.C., completing the process of economic normalization and opening up great opportunities for Vietnamese goods to enter the US market.
+*   **Jul. 28, 2000:** The first stock exchange trading session was held with only two initial listed stocks: REE and SAM.
 *   **Dec. 25, 2000:** Vietnam and China signed the **Agreement on the Demarcation of the Tonkin Gulf** and the **Agreement on Fishery Cooperation**.
 
 ### **Period of BTA Integration and Overcoming the SARS Challenge** (2001 - 2006)
 
-* **Apr. 19 - 22, 2001:** The 9th National Congress of the Party, for the first time, affirmed the model of a socialist-oriented market economy.
-* **Nov. 28, 2001:** The National Assembly ratified the Vietnam - U.S. Bilateral Trade Agreement (BTA).
-* **Dec. 10, 2001:** The BTA officially came into effect.
-* **Feb. 26, 2003:** The first SARS infection case was recorded in Vietnam.
-* **May 2003:** The WHO recognized Vietnam as the first country to successfully control the SARS epidemic.
-* **Nov. 7, 2003:** Hue Royal Court Music (Nhã nhạc) was recognized by UNESCO as the first intangible heritage.
-* **Dec. 2003:** Vietnam hosted the 22nd SEA Games.
-* **Jun. 19 - 25, 2005:** Prime Minister Phan Van Khai paid an official visit to the United States, the first visit by a Vietnamese leader since the war.
-* **Nov. 25, 2005:** The Space of Gong Culture in the Central Highlands was recognized by UNESCO as a heritage.
-* **Jan. 2006:** The PMU 18 scandal (embezzlement of public funds at the Ministry of Transport) was investigated.
+*   **Apr. 19 - 22, 2001:** The 9th National Congress of the Party, for the first time, affirmed the model of a socialist-oriented market economy.
+*   **Nov. 28, 2001:** The National Assembly ratified the Vietnam - U.S. Bilateral Trade Agreement (BTA).
+*   **Dec. 10, 2001:** The BTA officially came into effect.
+*   **Feb. 26, 2003:** The first SARS infection case was recorded in Vietnam.
+*   **May 2003:** The WHO recognized Vietnam as the first country to successfully control the SARS epidemic.
+*   **Nov. 7, 2003:** Hue Royal Court Music (Nhã nhạc) was recognized by UNESCO as the first intangible heritage.
+*   **Dec. 2003:** Vietnam hosted the 22nd SEA Games.
+*   **Mar. 2005:** The Hanoi Stock Exchange (HNX) was established.
+*   **Jun. 19 - 25, 2005:** Prime Minister Phan Van Khai paid an official visit to the United States, the first visit by a Vietnamese leader since the war.
+*   **Nov. 25, 2005:** The Space of Gong Culture in the Central Highlands was recognized by UNESCO as a heritage.
+*   **Jan. 2006:** The PMU 18 scandal (embezzlement of public funds at the Ministry of Transport) was investigated.
 
 ### **Period of WTO Accession and Affirming International Position** (2006 - 2011)
 
-* **Apr. 18 - 25, 2006:** The 10th National Congress of the Party, considering the private economy as an important driving force.
-* **Nov. 7, 2006:** Vietnam signed the Protocol of Accession to the World Trade Organization (WTO).
-* **Jan. 11, 2007:** Vietnam officially became the 150th member of the WTO.
-* **Oct. 16, 2007:** Vietnam was elected for the first time as a non-permanent member of the UN Security Council (2008-2009 term).
-* **May 2008:** Upgraded relations to a Comprehensive Strategic Partnership with China.
-* **Sep. 30, 2009:** Quan Ho Bac Ninh Folk Songs were recognized by UNESCO as a heritage.
-* **Aug. 1, 2010:** The Central Sector of the Imperial Citadel of Thang Long was recognized by UNESCO as a heritage.
-* **Oct. 1 - 10, 2010:** Organized the Grand Celebration of the 1000th Anniversary of Thang Long - Hanoi.
-* **Nov. 24, 2011:** Xoan Singing of Phu Tho was recognized by UNESCO as a heritage.
+*   **Apr. 18 - 25, 2006:** The 10th National Congress of the Party, considering the private economy as an important driving force.
+*   **Nov. 7, 2006:** Vietnam signed the Protocol of Accession to the World Trade Organization (WTO).
+*   **Jan. 11, 2007:** Vietnam officially became the 150th member of the WTO.
+*   **Oct. 16, 2007:** Vietnam was elected for the first time as a non-permanent member of the UN Security Council (2008-2009 term).
+*   **May 2008:** Upgraded relations to a Comprehensive Strategic Partnership with China.
+*   **Sep. 30, 2009:** Quan Ho Bac Ninh Folk Songs were recognized by UNESCO as a heritage.
+*   **Aug. 1, 2010:** The Central Sector of the Imperial Citadel of Thang Long was recognized by UNESCO as a heritage.
+*   **Oct. 1 - 10, 2010:** Organized the Grand Celebration of the 1000th Anniversary of Thang Long - Hanoi.
+*   **Nov. 24, 2011:** Xoan Singing of Phu Tho was recognized by UNESCO as a heritage.
 
 ### **Period of Legal Consolidation, East Sea Tensions, and Environmental Fluctuations** (2011 - 2016)
 
-* **Jan. 12 - 19, 2011:** The 11th National Congress of the Party, adopted the Platform (supplemented and developed in 2011).
-* **Feb. 14, 2011:** The term "cultural diplomacy" was first included in Party documents.
-* **May 22, 2011:** Election of the 13th National Assembly.
-* **Oct. 14, 2011:** The hand, foot, and mouth disease epidemic spread to 63 provinces and cities.
-* **Nov. 2011:** The Draft Law on Demonstration was discussed at the National Assembly.
-* **Jun. 21, 2012:** The National Assembly passed the Law of the Sea of Vietnam.
-* **Jul. 2012:** Upgraded relations to a Comprehensive Strategic Partnership with the Russian Federation.
-* **Dec. 6, 2012:** The Worship of Hung Kings was recognized by UNESCO as a heritage.
-* **Oct. 4, 2013:** General Vo Nguyen Giap passed away at Central Military Hospital 108, Hanoi.
-* **Nov. 28, 2013:** The 2013 Constitution was promulgated.
-* **Dec. 5, 2013:** The Art of Don Ca Tai Tu Music and Song in Southern Vietnam was recognized by UNESCO as a heritage.
-* **2014:** Vietnam participated in UN peacekeeping forces for the first time.
-* **May 2, 2014:** China deployed the Hai Duong 981 oil rig in Vietnam's exclusive economic zone.
-* **Jun. 23, 2014:** The Trang An Landscape Complex was recognized by UNESCO as a heritage.
-* **Jul. 6 - 10, 2015:** General Secretary Nguyen Phu Trong paid his first official visit to the United States.
-* **Sep. 21, 2015:** Announced that 43 million Vietnamese people had escaped poverty (according to the Millennium Development Goals).
-* **Jan. 20 - 28, 2016:** The 12th National Congress of the Party, promoting the anti-corruption campaign ("blazing furnace").
-* **Feb. 4, 2016:** Vietnam signed the Trans-Pacific Partnership (TPP) Agreement.
-* **Apr. 6, 2016:** The marine environmental incident caused by Formosa began in 4 central provinces.
-* **May 22, 2016:** Election of the 14th National Assembly.
-* **Aug. 8, 2016:** The Government established the Vietnam Academy for Ethnic Minorities.
-* **Sep. 2 - 3, 2016:** Signed a joint statement upgrading relations to a Comprehensive Strategic Partnership with India.
-* **Sep. 29, 2016:** For the first time, the Government issued a Decision approving the *Project on statistics, monitoring, and evaluation of population changes of ethnic minorities.*
-* **Aug. 22 - 26, 2016:** General Secretary Nguyen Phu Trong first mentioned the idea of *bamboo* diplomacy at the 29th Diplomatic Conference. He used the image of bamboo to talk about the resilience, flexibility, and adaptability of Vietnam's foreign policy.
+*   **Jan. 12 - 19, 2011:** The 11th National Congress of the Party, adopted the Platform (supplemented and developed in 2011).
+*   **Feb. 14, 2011:** The term "cultural diplomacy" was first included in Party documents.
+*   **May 22, 2011:** Election of the 13th National Assembly.
+*   **Oct. 14, 2011:** The hand, foot, and mouth disease epidemic spread to 63 provinces and cities.
+*   **Nov. 2011:** The Draft Law on Demonstration was discussed at the National Assembly.
+*   **Jun. 21, 2012:** The National Assembly passed the Law of the Sea of Vietnam.
+*   **Jul. 2012:** Upgraded relations to a Comprehensive Strategic Partnership with the Russian Federation.
+*   **Dec. 6, 2012:** The Worship of Hung Kings was recognized by UNESCO as a heritage.
+*   **Oct. 4, 2013:** General Vo Nguyen Giap passed away at Central Military Hospital 108, Hanoi.
+*   **Nov. 28, 2013:** The 2013 Constitution was promulgated.
+*   **Dec. 5, 2013:** The Art of Don Ca Tai Tu Music and Song in Southern Vietnam was recognized by UNESCO as a heritage.
+*   **2014:** Vietnam participated in UN peacekeeping forces for the first time.
+*   **May 2, 2014:** China deployed the Hai Duong 981 oil rig in Vietnam's exclusive economic zone.
+*   **Jun. 23, 2014:** The Trang An Landscape Complex was recognized by UNESCO as a heritage.
+*   **Jul. 6 - 10, 2015:** General Secretary Nguyen Phu Trong paid his first official visit to the United States.
+*   **Sep. 21, 2015:** Announced that 43 million Vietnamese people had escaped poverty (according to the Millennium Development Goals).
+*   **Jan. 20 - 28, 2016:** The 12th National Congress of the Party, promoting the anti-corruption campaign ("blazing furnace").
+*   **Feb. 4, 2016:** Vietnam signed the Trans-Pacific Partnership (TPP) Agreement.
+*   **Apr. 6, 2016:** The marine environmental incident caused by Formosa began in 4 central provinces.
+*   **May 22, 2016:** Election of the 14th National Assembly.
+*   **Aug. 8, 2016:** The Government established the Vietnam Academy for Ethnic Minorities.
+*   **Sep. 2 - 3, 2016:** Signed a joint statement upgrading relations to a Comprehensive Strategic Partnership with India.
+*   **Sep. 29, 2016:** For the first time, the Government issued a Decision approving the *Project on statistics, monitoring, and evaluation of population changes of ethnic minorities.*
+*   **Aug. 22 - 26, 2016:** General Secretary Nguyen Phu Trong first mentioned the idea of *bamboo* diplomacy at the 29th Diplomatic Conference. He used the image of bamboo to talk about the resilience, flexibility, and adaptability of Vietnam's foreign policy.
 
 ### **Period of CPTPP & EVFTA Integration and Responding to the COVID-19 Pandemic** (2017 - 2021)
 
-* **Nov. 6 - 11, 2017:** Vietnam hosted the APEC 2017 Economic Leaders' Week in Da Nang.
-* **Jan. 27, 2018:** The Vietnam U23 national team reached the final of the AFC U23 Championship.
-* **Mar. 8, 2018:** Signed the CPTPP Agreement (replacing the TPP).
-* **Jan. 14, 2019:** The CPTPP Agreement officially took effect for Vietnam.
-* **Jun. 7, 2019:** Vietnam was elected as a non-permanent member of the UN Security Council (2020-2021 term).
-* **Jun. 30, 2019:** Signed the EVFTA and EVIPA Agreements with the European Union (EU).
-* **Jan. 1, 2020:** Vietnam assumed the roles of ASEAN Chair 2020 and non-permanent member of the UN Security Council.
-* **Jan. 23, 2020:** The first COVID-19 case was recorded in Vietnam.
-* **Aug. 1, 2020:** The EVFTA Agreement officially took effect.
-* **Oct. - Nov. 2020:** Historic floods and successive storms in the Central region.
-* **Dec. 28, 2020:** Vietnam successfully achieved the "dual goal" (epidemic control and economic growth).
-* **May 23, 2021:** Election of the 15th National Assembly.
+*   **Nov. 6 - 11, 2017:** Vietnam hosted the APEC 2017 Economic Leaders' Week in Da Nang.
+*   **Jan. 27, 2018:** The Vietnam U23 national team reached the final of the AFC U23 Championship.
+*   **Mar. 8, 2018:** Signed the CPTPP Agreement (replacing the TPP).
+*   **Jan. 14, 2019:** The CPTPP Agreement officially took effect for Vietnam.
+*   **Jun. 7, 2019:** Vietnam was elected as a non-permanent member of the UN Security Council (2020-2021 term).
+*   **Jun. 30, 2019:** Signed the EVFTA and EVIPA Agreements with the European Union (EU).
+*   **Jan. 1, 2020:** Vietnam assumed the roles of ASEAN Chair 2020 and non-permanent member of the UN Security Council.
+*   **Jan. 23, 2020:** The first COVID-19 case was recorded in Vietnam.
+*   **Aug. 1, 2020:** The EVFTA Agreement officially took effect.
+*   **Oct. - Nov. 2020:** Historic floods and successive storms in the Central region.
+*   **Dec. 28, 2020:** Vietnam successfully achieved the "dual goal" (epidemic control and economic growth).
+*   **May 23, 2021:** Election of the 15th National Assembly.
 
 ### **Period of Post-Pandemic Recovery and Elevating Strategic Position** (2021 - 2025)
 
-* **Jan. 25 - Feb. 2, 2021:** The 13th National Congress of the Party, set goals for 2030 and a vision to 2045.
-* **Apr. 27, 2021:** The fourth wave of the COVID-19 epidemic began (Delta variant), shifting the strategy to "safe adaptation."
-* **May 12 - 23, 2022:** Vietnam hosted the 31st SEA Games (postponed from 2021).
-* **Dec. 2022:** Upgraded relations to a Comprehensive Strategic Partnership with South Korea.
-* **Dec. 30, 2022:** Vietnam's GDP surpassed the $400 billion mark.
-* **Jan. 1, 2023:** Paper household registration books and temporary residence books were officially invalidated.
-* **Jan. 18, 2023:** The National Assembly dismissed State President Nguyen Xuan Phuc.
-* **Sep. 10, 2023:** U.S. President Joe Biden visited Vietnam, upgrading relations to a Comprehensive Strategic Partnership.
-* **Nov. 27, 2023:** Upgraded relations to a Comprehensive Strategic Partnership with Japan.
-* **Jan. 18, 2024:** The National Assembly passed the Land Law (amended).
-* **Mar. 7, 2024:** Upgraded relations to a Comprehensive Strategic Partnership with Australia.
-* **May 22, 2024:** Mr. To Lam was elected State President.
-* **At 13:38 on Jul. 19, 2024:** General Secretary Nguyen Phu Trong passed away at Central Military Hospital 108. He was 80 years old.
-* **Aug. 3, 2024:** General Secretary To Lam was elected at the Conference of the 13th Party Central Committee.
-* **Sep. 7, 2024:** Super Typhoon Yagi made landfall in Vietnam.
+*   **Jan. 25 - Feb. 2, 2021:** The 13th National Congress of the Party, set goals for 2030 and a vision to 2045.
+*   **Apr. 27, 2021:** The fourth wave of the COVID-19 epidemic began (Delta variant), shifting the strategy to "safe adaptation."
+*   **May 12 - 23, 2022:** Vietnam hosted the 31st SEA Games (postponed from 2021).
+*   **Dec. 2022:** Upgraded relations to a Comprehensive Strategic Partnership with South Korea.
+*   **Dec. 30, 2022:** Vietnam's GDP surpassed the $400 billion mark.
+*   **Jan. 1, 2023:** Paper household registration books and temporary residence books were officially invalidated.
+*   **Jan. 18, 2023:** The National Assembly dismissed State President Nguyen Xuan Phuc.
+*   **Sep. 10, 2023:** U.S. President Joe Biden visited Vietnam, upgrading relations to a Comprehensive Strategic Partnership.
+*   **Nov. 27, 2023:** Upgraded relations to a Comprehensive Strategic Partnership with Japan.
+*   **Jan. 18, 2024:** The National Assembly passed the Land Law (amended).
+*   **Mar. 7, 2024:** Upgraded relations to a Comprehensive Strategic Partnership with Australia.
+*   **May 22, 2024:** Mr. To Lam was elected State President.
+*   **At 13:38 on Jul. 19, 2024:** General Secretary Nguyen Phu Trong passed away at Central Military Hospital 108. He was 80 years old.
+*   **Aug. 3, 2024:** General Secretary To Lam was elected at the Conference of the 13th Party Central Committee.
+*   **Sep. 7, 2024:** Super Typhoon Yagi made landfall in Vietnam.
     * **Human losses:** About 345 people dead and missing, thousands injured.
     * **Economic damage:** Over 81.7 trillion VND, equivalent to about 0.62% of 2023 GDP.
     * **Impact:** Many northern provinces were severely devastated by the storm and subsequent floods.
-* **Oct. 7, 2024:** Upgraded relations to a Comprehensive Strategic Partnership with France.
-* **Oct. 21, 2024:** The National Assembly elected Mr. Luong Cuong as State President, replacing Mr. To Lam.
-* **Nov. 21, 2024:** Upgraded relations to a Comprehensive Strategic Partnership with Malaysia.
-* **Dec. 1, 2024:** General Secretary To Lam directed the acceleration of mergers and streamlining of the apparatus.
-* **2023 - 2024:** Many high-level personnel changes occurred (State President, National Assembly Chairman) in the context of the anti-corruption campaign.
-* **Jan. 5, 2025:** The Vietnam national men's football team won the AFF Cup.
-* **Feb. 26, 2025:** Upgraded relations to a Comprehensive Strategic Partnership with New Zealand.
-* **Mar. 10, 2025:** Upgraded relations to a Comprehensive Strategic Partnership with Indonesia.
-* **Mar. 12, 2025:** Upgraded relations to a Comprehensive Strategic Partnership with Singapore.
-* **Apr. 30, 2025:** Celebrated the 50th anniversary of the Complete Liberation of the South and National Reunification.
-* **May 16, 2025:** Upgraded relations to a Comprehensive Strategic Partnership with Thailand.
-* **Jun. 12, 2025:** The National Assembly officially passed Resolution 202/2025/QH15 on the reorganization of provincial-level administrative units, reducing the number from 63 to 34 provinces and cities. This resolution takes effect immediately upon passage.
-* **Jun. 16, 2025:** The National Assembly passed Resolution 203/2025/QH15, amending and supplementing a number of articles of the 2013 Constitution, regulating the two-level administrative unit organization in Vietnam:
+*   **Oct. 7, 2024:** Upgraded relations to a Comprehensive Strategic Partnership with France.
+*   **Oct. 21, 2024:** The National Assembly elected Mr. Luong Cuong as State President, replacing Mr. To Lam.
+*   **Nov. 21, 2024:** Upgraded relations to a Comprehensive Strategic Partnership with Malaysia.
+*   **Dec. 1, 2024:** General Secretary To Lam directed the acceleration of mergers and streamlining of the apparatus.
+*   **2023 - 2024:** Many high-level personnel changes occurred (State President, National Assembly Chairman) in the context of the anti-corruption campaign.
+*   **Jan. 5, 2025:** The Vietnam national men's football team won the AFF Cup.
+*   **Feb. 26, 2025:** Upgraded relations to a Comprehensive Strategic Partnership with New Zealand.
+*   **Mar. 10, 2025:** Upgraded relations to a Comprehensive Strategic Partnership with Indonesia.
+*   **Mar. 12, 2025:** Upgraded relations to a Comprehensive Strategic Partnership with Singapore.
+*   **Apr. 30, 2025:** Celebrated the 50th anniversary of the Complete Liberation of the South and National Reunification.
+*   **May 16, 2025:** Upgraded relations to a Comprehensive Strategic Partnership with Thailand.
+*   **Jun. 12, 2025:** The National Assembly officially passed Resolution 202/2025/QH15 on the reorganization of provincial-level administrative units, reducing the number from 63 to 34 provinces and cities. This resolution takes effect immediately upon passage.
+*   **Jun. 16, 2025:** The National Assembly passed Resolution 203/2025/QH15, amending and supplementing a number of articles of the 2013 Constitution, regulating the two-level administrative unit organization in Vietnam:
     * **Provincial level:** Provinces and centrally-run cities.
     * **Commune level:** Including communes (rural areas), wards (urban areas), and special zones.
-* **Jul. 1, 2025:** District-level governments, including urban districts, rural districts, city-level municipalities (under provinces), city-level municipalities (under centrally-run cities), and towns, officially ceased operations. The two-level model of provincial and commune governments officially began operation.
-* **Sep. 2025:** Vietnam officially waives tuition fees for students from preschool to public high schools.
-* **Oct. 25, 2025:** Organized the "Golden Autumn Fair" at VEC.
-* **Oct. 25 - 26, 2025:** Signing Ceremony of the United Nations Convention on Countering Cybercrime (Hanoi Convention).
-* **Oct. 29, 2025:** Upgraded relations to a Comprehensive Strategic Partnership with the United Kingdom (reaching 14 countries).
+*   **Jul. 1, 2025:** District-level governments, including urban districts, rural districts, city-level municipalities (under provinces), city-level municipalities (under centrally-run cities), and towns, officially ceased operations. The two-level model of provincial and commune governments officially began operation.
+*   **Sep. 2025:** Vietnam officially waives tuition fees for students from preschool to public high schools.
+*   **Oct. 25, 2025:** Organized the "Golden Autumn Fair" at VEC.
+*   **Oct. 25 - 26, 2025:** Signing Ceremony of the United Nations Convention on Countering Cybercrime (Hanoi Convention).
+*   **Oct. 29, 2025:** Upgraded relations to a Comprehensive Strategic Partnership with the United Kingdom (reaching 14 countries).

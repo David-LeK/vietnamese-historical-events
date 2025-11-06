@@ -404,6 +404,7 @@
 *   **01/1887:** Căn cứ Ba Đình thất thủ sau các cuộc tấn công ác liệt của quân Pháp.
 *   **11/1888:** Vua Hàm Nghi bị bắt do Trương Quang Ngọc phản bội, sau đó bị đày sang Algérie.
 *   **1889:** Nguyễn Thiện Thuật sang Trung Quốc, khởi nghĩa Bãi Sậy suy yếu.
+*   **1891:** Hải Phòng được coi là thành phố đầu tiên có đèn điện trước cả Hà Nội.
 *   **1892:** Khởi nghĩa Bãi Sậy tan rã. Tống Duy Tân (lãnh đạo khởi nghĩa Hùng Lĩnh) bị bắt.
 *   **11/1893:** Cao Thắng hy sinh trong trận tấn công đồn Nu (Nghệ An), một tổn thất lớn cho khởi nghĩa Hương Khê.
 *   **10/1894:** Hoàng Hoa Thám giảng hòa với Pháp lần thứ nhất để củng cố lực lượng Yên Thế.
@@ -897,6 +898,7 @@
 *   **07/1992:** Việt Nam chính thức ký Hiệp ước Thân thiện và Hợp tác ở Đông Nam Á (Hiệp ước Bali) và trở thành quan sát viên của ASEAN.
 *   **06/1993:** Hội nghị lần thứ 5 Ban Chấp hành Trung ương Đảng (khóa VII) ra nghị quyết về tiếp tục đổi mới và phát triển kinh tế - xã hội nông thôn.
 *   **02/07/1993:** Mỹ tuyên bố không còn phản đối các nước và tổ chức tài chính quốc tế cho Việt Nam vay vốn để trả nợ, một bước đi quan trọng tiến tới dỡ bỏ cấm vận.
+*   **Đầu 1994:** Các hoạt động thử nghiệm kết nối internet đã bắt đầu, với sự hợp tác giữa các nhà khoa học Việt Nam và Úc.
 *   **20-25/01/1994:** Hội nghị đại biểu toàn quốc giữa nhiệm kỳ của Đảng (khóa VII) xác định bốn nguy cơ lớn đối với đất nước và đề ra nhiệm vụ thúc đẩy công nghiệp hóa, hiện đại hóa.
 *   **03/02/1994:** Tổng thống Mỹ Bill Clinton tuyên bố **bãi bỏ hoàn toàn lệnh cấm vận thương mại** đối với Việt Nam.
 *   **27/05/1994:** Đường dây tải điện cao thế 500kV Bắc - Nam chính thức đi vào vận hành, hợp nhất hệ thống điện ba miền, giải quyết tình trạng thiếu điện ở miền Nam và miền Trung.
@@ -909,13 +911,16 @@
 *   **06/1996:** Đại hội đại biểu toàn quốc lần thứ VIII của Đảng Cộng sản Việt Nam đề ra nhiệm vụ **đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước**.
 *   **01/07/1997:** Luật Hợp tác xã có hiệu lực, tạo cơ sở pháp lý để chuyển đổi các hợp tác xã nông nghiệp sang mô hình dịch vụ kiểu mới, phục vụ kinh tế hộ.
 *   **1997:** **Cuộc khủng hoảng tài chính - tiền tệ khu vực** bắt đầu, gây ảnh hưởng tiêu cực đến nền kinh tế Việt Nam, làm suy giảm tốc độ tăng trưởng và thu hút đầu tư.
+*   **19/11/1997:** Dịch vụ internet chính thức được cung cấp rộng rãi tại Việt Nam, do Tập đoàn Bưu chính Viễn thông Việt Nam (VNPT) và Công ty Cổ phần Netnam là những đơn vị đầu tiên triển khai.
 *   **12/1997:** Hội nghị lần thứ 4 Ban Chấp hành Trung ương Đảng (khóa VIII) đề ra chủ trương nêu cao tinh thần tự lực, tự cường, phát huy nội lực để vượt qua khó khăn, thách thức từ cuộc khủng hoảng.
+*   **1998:** Trung tâm Giao dịch Chứng khoán TP. Hồ Chí Minh được thành lập theo quyết định của Thủ tướng Chính phủ
 *   **31/07/1998:** Thủ tướng Chính phủ ban hành Quyết định 135/1998/QĐ-TTg về chương trình phát triển kinh tế - xã hội các xã đặc biệt khó khăn miền núi và vùng sâu, vùng xa (Chương trình 135).
 *   **11/1998:** Bộ Chính trị ra Nghị quyết 06 về một số vấn đề nông nghiệp và kinh tế nông thôn, lần đầu tiên chính thức thừa nhận và khuyến khích phát triển **mô hình kinh tế trang trại**.
 *   **30/12/1999:** Việt Nam và Trung Quốc chính thức ký kết **Hiệp ước Biên giới trên đất liền**.
 *   **01/01/2000:** **Luật Doanh nghiệp** chính thức có hiệu lực, tạo ra một bước đột phá trong cải cách thủ tục hành chính, bãi bỏ nhiều giấy phép con, thúc đẩy mạnh mẽ sự phát triển của khu vực kinh tế tư nhân.
 *   **15/06/2000:** Chính phủ ban hành Nghị quyết 09/NQ-CP về chuyển dịch cơ cấu kinh tế và tiêu thụ sản phẩm nông nghiệp, tạo cơ sở pháp lý để phát triển nông nghiệp hàng hóa.
 *   **14/07/2000:** **Hiệp định Thương mại song phương Việt Nam - Hoa Kỳ (BTA)** được ký kết tại Washington D.C., hoàn tất quá trình bình thường hóa về kinh tế và mở ra cơ hội lớn cho hàng hóa Việt Nam vào thị trường Mỹ.
+*   **28/07/2000:** Phiên giao dịch chứng khoán đầu tiên được tổ chức với chỉ hai mã cổ phiếu niêm yết ban đầu là REE và SAM.
 *   **25/12/2000:** Việt Nam và Trung Quốc ký **Hiệp định phân định Vịnh Bắc Bộ** và **Hiệp định Hợp tác nghề cá**.
 
 ### **Thời kỳ Hội nhập BTA và Vượt qua Thử thách SARS** (2001 - 2006)
@@ -927,6 +932,7 @@
 *   **05/2003:** WHO công nhận Việt Nam là quốc gia đầu tiên khống chế thành công dịch SARS.
 *   **07/11/2003:** Nhã nhạc cung đình Huế được UNESCO công nhận là di sản phi vật thể đầu tiên.
 *   **12/2003:** Việt Nam đăng cai tổ chức SEA Games 22.
+*   **03/2005:** Sở Giao dịch Chứng khoán Hà Nội (HNX) được thành lập
 *   **19 - 25/06/2005:** Thủ tướng Phan Văn Khải thăm chính thức Hoa Kỳ, chuyến thăm đầu tiên của lãnh đạo Việt Nam sau chiến tranh.
 *   **25/11/2005:** Không gian Văn hóa Cồng chiêng Tây Nguyên được UNESCO công nhận là di sản.
 *   **01/2006:** Vụ PMU 18 (biển thủ công quỹ tại Bộ Giao thông Vận tải) bị điều tra.
