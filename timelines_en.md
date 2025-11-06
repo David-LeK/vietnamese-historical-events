@@ -99,6 +99,7 @@
 *   **1150:** The Do Anh Vu rebellion occurred in the royal court.
 *   **1175:** Ly Anh Tong passed away, Ly Long Can ascended the throne (Ly Cao Tong) at the age of 2.
 *   **1181:** A great famine occurred, causing nearly half the population to die.
+*   **13th century:** Italian explorer Marco Polo visited and described Con Dao Island in his memoirs.
 *   **1203:** King Ly Cao Tong ordered the construction of many lavish palaces, causing further misery to the people, and banditry arose.
 *   **Jan. 1209:** The Quach Boc rebellion broke out in the capital Thang Long, forcing King Ly Cao Tong to flee. Crown Prince Sam fled to Hai Ap (Thai Binh), was sheltered by the Tran clan, and married Tran Thi Dung.
 *   **1210:** Ly Cao Tong passed away, Ly Sam ascended the throne (Ly Hue Tong). The power of the Tran clan grew stronger.
@@ -250,7 +251,7 @@
 *   **Apr. 1599:** The Le king conferred upon Trinh Tung the title of Do Nguyen Suy, Thuong phu Binh An Vuong (Supreme Commander-in-Chief, Grand Preceptor, and Prince of Pacification), officially forming the Le King - Trinh Lord institution in Dang Ngoai (the North).
 *   **1600:** Nguyen Hoang returned to Thuan Quang from the North and began implementing new administrative policies, gradually breaking away from the control of the Trinh lords.
 *   **16th century:** Portuguese explorers referred to the Paracel Islands as "Ilhas do Pracel".
-*   **First half of the 17th century:** The Nguyen Lords sent the *Hoang Sa fleet* to the Spratly and Paracel Islands to exploit resources, collect salvaged goods, and assert sovereignty, including surveying sea routes, planting trees, and erecting markers.
+*   **First half of the 17th century:** The Nguyen Lords sent the *Hoang Sa fleet* to the Spratly and Paracel Islands to exploit resources, collect salvaged goods, and assert sovereignty, including surveying sea routes, planting trees, and erecting markers. Phu Quoc remained a wild and undeveloped land, subject to disputes between Chenla (Cambodia) and other powers.
 *   **1611:** The Nguyen army attacked Champa, taking the land south of the Cu Mong Pass and establishing Phu Yen Prefecture.
 *   **1614:** Nguyen Phuc Nguyen (son of Nguyen Hoang) succeeded him, reformed the administrative apparatus, appointed his own officials, and officially severed the subordinate relationship with the Trinh lords.
 *   **Around 1615 - 1620:** Western missionaries began recording the Vietnamese language using the Latin alphabet.
@@ -268,10 +269,11 @@
 *   **Late 1672:** The two sides agreed to a truce, taking the Gianh River as the demarcation line, officially dividing the country into Dang Trong and Dang Ngoai for over a century.
 *   **1677:** The last remnants of the Mac dynasty in Cao Bang were completely eliminated.
 *   **1679:** Two groups of loyalist former Ming officials, Yang Yandi and Chen Shangchuan, brought over 3,000 people to seek asylum and were allowed by the Nguyen lord to reclaim land in the My Tho and Bien Hoa regions.
-*   **1680:** Mac Cuu (also a former Ming official) arrived to develop the Ha Tien region.
+*   **1680:** Mac Cuu (also a former Ming official) arrived to develop the Ha Tien region, including Phu Quoc.
 *   **1693:** The Nguyen lord defeated the Champa king Ba Tranh, turning the remaining part of Champa into Thuan Thanh Prefecture (now Binh Thuan).
 *   **1697:** Binh Thuan Prefecture was officially established. The kingdom of Champa ceased to exist as an independent state.
 *   **1698:** The Nguyen lord sent Commander Nguyen Huu Canh to administer the Dong Nai region, establishing Gia Dinh Prefecture (comprising Tran Bien and Phien Tran garrisons). This was an important milestone in establishing Dai Viet's sovereignty in the South.
+*   **1702:** The British East India Company established a trading post on Con Dao Island but quickly withdrew due to failure.
 *   **1708:** Mac Cuu offered all the land he had developed in Ha Tien to the Nguyen lords.
 *   **1718:** In Dang Ngoai, Lord Trinh Cuong established the Six Bureaus (Luc phien) in the Lord's Palace, usurping all power, leaving the Le court's Six Ministries with only nominal authority.
 *   **1738 - 1770:** The uprising of Le Duy Mat (a Le royal relative) broke out, lasting over 30 years in the Thanh Hoa and Nghe An regions.
@@ -284,8 +286,10 @@
 
 ### **Tay Son Period (1771 - 1802)**
 
+*   **1771 - 1801:** Nguyen Anh repeatedly sought refuge on Phu Quoc Island when pursued by the Tay Son forces.
 *   **1771:** The three brothers Nguyen Nhac, Nguyen Hue, and Nguyen Lu raised the flag of rebellion in Tay Son Thuong dao (An Khe, Gia Lai) with the slogan "take from the rich and give to the poor."
 *   **1773:** The Tay Son righteous army captured Quy Nhon Citadel, expanding their base to the plains.
+*   **1773:** Nguyen Anh established three villages, An Hai, An Hoi, and Co Ong, and named the Con Dao archipelago Con Lon.
 *   **1774:** The Trinh army, commanded by Hoang Ngu Phuc, crossed the Gianh River and advanced south, capturing Phu Xuan. Lord Nguyen Phuc Thuan had to flee to Quang Nam.
 *   **May 1775:** The Trinh army continued to occupy Quang Nam. Nguyen Nhac had to temporarily surrender to the Trinh army to concentrate his forces on fighting the Nguyen lords.
 *   **1776:** Nguyen Nhac proclaimed himself Tay Son Vuong (King of Tay Son).
@@ -300,6 +304,7 @@
 *   **Jul. 21, 1786:** The Tay Son army entered Thang Long, quickly overthrowing the over 200-year rule of the Trinh lords.
 *   **Late 1786:** Nguyen Hue was given Princess Ngoc Han in marriage by the Le king. The Tay Son brothers divided the country to rule: Nguyen Nhac as the Central Emperor (from Quang Ngai to Binh Thuan), Nguyen Hue as the Northern Pacification King (from Hai Van Pass northwards), and Nguyen Lu as the Eastern Pacification King (Gia Dinh).
 *   **1787:** Conflict broke out between Nguyen Nhac and Nguyen Hue. Nguyen Hue led troops to besiege Hoang De Citadel, forcing Nguyen Nhac to cede more land in Quang Nam.
+*   **1787:** In the Treaty of Versailles, Nguyen Anh ceded Con Dao Island to France in exchange for support, but this treaty never materialized.
 *   **1788:** Nguyen Anh returned from Siam and, taking advantage of Nguyen Lu's weakness, recaptured Gia Dinh.
 *   **Late 1788:** King Le Chieu Thong fled to China to seek aid. 290,000 Manchu Qing troops led by Sun Shiyi poured into our country, occupying Thang Long.
 *   **Dec. 22, 1788:** In Phu Xuan, Nguyen Hue ascended the throne as Emperor, taking the era name Quang Trung, and immediately led a large army on a lightning march to the north.
@@ -370,6 +375,7 @@
 *   **Dec. 10, 1861:** The righteous army of Nguyen Trung Truc burned the French warship L'Espérance on the Nhat Tao River (Tan An).
 *   **Dec. 16, 1861:** French forces captured Bien Hoa Citadel.
 *   **Jan. 7, 1862:** French forces captured Ba Ria Citadel.
+*   **01/02/1862:** Governor Bonard of Cochinchina signed the decision to establish Con Dao prison. This marked the beginning of the systematic but also brutal exploitation of this island by the French colonialists.
 *   **Mar. 23, 1862:** French forces captured Vinh Long Citadel.
 *   **Jun. 5, 1862:** The Hue court signed the Treaty of Nham Tuat, officially ceding the three eastern provinces of Cochinchina (Gia Dinh, Dinh Tuong, Bien Hoa) and Con Lon island to France.
 *   **Aug. 1863:** The Hue court sent a delegation led by Phan Thanh Gian to France to negotiate the redemption of the three eastern provinces, but it failed.
@@ -414,6 +420,7 @@
 *   **Oct. 1894:** Hoang Hoa Tham made peace with the French for the first time to consolidate his forces in Yen The.
 *   **Dec. 28, 1895:** Phan Dinh Phung was killed, and the Huong Khe Uprising gradually disintegrated, marking the essential end of the organized, large-scale Can Vuong movement.
 *   **1896:** Hoa Lo Prison was built in Hanoi.
+*   **Late 19th century:** The French colonialists began exploiting resources on Phu Quoc Island, such as coconuts and pepper, and established a prison camp.
 
 ### **Period of Consolidating Rule and the First Colonial Exploitation (1897 - 1913)**
 
@@ -637,6 +644,7 @@
 *   **Dec. 22, 1947:** The main body of French forces withdrew from Viet Bac; the enemy's offensive campaign had completely failed.
 *   **Jan. 25, 1948:** The government issued a decree establishing Inter-zones to unify the command of the resistance.
 *   **Jun. 11, 1948:** President Ho Chi Minh issued an appeal for patriotic emulation.
+*   **1949:** France officially incorporated Phu Quoc and the islands in the southern part of the Gulf of Thailand into Vietnam.
 *   **Jan. 20, 1949:** The Lao Issara Army (precursor to the Lao People's Army) was founded.
 *   **Mar. 8, 1949:** The Élysée Accords were signed between French President Vincent Auriol and former emperor Bao Dai, establishing the "State of Vietnam" within the French Union.
 *   **Aug. 28, 1949:** The 308th Division (the Pioneer Division), the first main-force division of the Vietnam People's Army, was established.
@@ -710,6 +718,7 @@
 *   **Sep. 6, 1954:** The US formed the Southeast Asia Treaty Organization (SEATO) and placed South Vietnam, Laos, and Cambodia under its "protection."
 *   **Oct. 10, 1954:** The Vietnam People's Army entered to take over the capital city of Hanoi.
 *   **Dec. 29, 1954:** France signed a treaty transferring all administrative authority in South Vietnam to Ngo Dinh Diem.
+*   **1954:** The government of South Vietnam took over Con Dao Island and continued to use it as a prison, with its infamous and brutal "tiger cages." The South Vietnamese government also continued to develop Phu Quoc Island and built the largest prisoner-of-war camp at that time.
 *   **Mar. 1955:** The 7th Conference of the Central Committee of the Vietnam Workers' Party set out the tasks of consolidating the North and conducting political struggle in the South.
 *   **May 13, 1955:** The last French soldiers withdrew from Haiphong; the North was completely liberated.
 *   **Jul. 17, 1955:** Ngo Dinh Diem declared his refusal to hold consultations for a general election to reunify the country.
@@ -939,6 +948,7 @@
 *   **May 2003:** The WHO recognized Vietnam as the first country to successfully control the SARS epidemic.
 *   **Nov. 7, 2003:** Hue Royal Court Music (Nhã nhạc) was recognized by UNESCO as the first intangible heritage.
 *   **Dec. 2003:** Vietnam hosted the 22nd SEA Games.
+*   **2004:** The Prime Minister approved the overall development plan for Phu Quoc Island.
 *   **Mar. 2005:** The Hanoi Stock Exchange (HNX) was established.
 *   **Jun. 19 - 25, 2005:** Prime Minister Phan Van Khai paid an official visit to the United States, the first visit by a Vietnamese leader since the war.
 *   **Nov. 25, 2005:** The Space of Gong Culture in the Central Highlands was recognized by UNESCO as a heritage.

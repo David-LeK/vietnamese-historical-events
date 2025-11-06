@@ -99,6 +99,7 @@
 *   **1150:** Xảy ra vụ biến loạn Đỗ Anh Vũ trong triều đình.
 *   **1175:** Lý Anh Tông mất, Lý Long Cán lên ngôi (Lý Cao Tông) lúc mới 2 tuổi.
 *   **1181:** Nạn đói lớn xảy ra, khiến dân chúng chết gần một nửa.
+*   **Thế kỷ XIII:** Nhà thám hiểm người Ý Marco Polo ghé thăm và mô tả về Côn Đảo trong hồi ký của mình.
 *   **1203:** Vua Lý Cao Tông cho xây dựng nhiều cung điện xa hoa, khiến dân chúng càng thêm khốn khổ, giặc cướp nổi lên.
 *   **01/1209:** Loạn Quách Bốc nổ ra ở kinh thành Thăng Long, vua Lý Cao Tông phải bỏ chạy. Hoàng tử Sảm chạy về Hải Ấp (Thái Bình), được họ Trần che chở và lấy Trần Thị Dung làm vợ.
 *   **1210:** Lý Cao Tông mất, Lý Sảm lên ngôi (Lý Huệ Tông). Thế lực họ Trần ngày càng lớn mạnh.
@@ -250,7 +251,7 @@
 *   **04/1599:** Vua Lê tấn phong Trịnh Tùng làm Đô Nguyên súy, Thượng phụ Bình An vương, chính thức hình thành thể chế Vua Lê - Chúa Trịnh ở Đàng Ngoài.
 *   **1600:** Nguyễn Hoàng từ Bắc Hà trở về Thuận Quảng, bắt đầu thực hiện chính sách cai trị mới, từng bước tách khỏi sự ràng buộc của họ Trịnh.
 *   **Thế kỷ XVI:** Các nhà thám hiểm Bồ Đào Nha gọi Hoàng Sa là "Ilhas do Pracel".
-*   **Nửa đầu thế kỷ XVII:** Các Chúa Nguyễn đã cử *đội Hoàng Sa* ra hai quần đảo Hoàng Sa và Trường Sa để khai thác sản vật, thu lượm hàng hóa trôi dạt và thực thi chủ quyền, bao gồm đo vẽ hải trình, trồng cây và dựng mốc.
+*   **Nửa đầu thế kỷ XVII:** Các Chúa Nguyễn đã cử *đội Hoàng Sa* ra hai quần đảo Hoàng Sa và Trường Sa để khai thác sản vật, thu lượm hàng hóa trôi dạt và thực thi chủ quyền, bao gồm đo vẽ hải trình, trồng cây và dựng mốc. Phú Quốc vẫn là một vùng đất hoang vu, chịu sự tranh chấp giữa Chân Lạp (Campuchia) và các thế lực khác.
 *   **1611:** Quân Nguyễn đánh Chiêm Thành, lấy được vùng đất phía nam đèo Cù Mông và lập ra phủ Phú Yên.
 *   **1614:** Nguyễn Phúc Nguyên (con Nguyễn Hoàng) lên thay, cải tổ bộ máy hành chính, tự bổ dụng quan lại, chính thức cắt đứt quan hệ lệ thuộc với họ Trịnh.
 *   **Khoảng 1615 - 1620:*** Các giáo sĩ phương Tây bắt đầu ghi chép tiếng Việt bằng chữ Latinh.
@@ -268,10 +269,11 @@
 *   **Cuối 1672:** Hai bên đình chiến, lấy sông Gianh làm giới tuyến, chính thức chia cắt đất nước thành Đàng Trong và Đàng Ngoài trong hơn một thế kỷ.
 *   **1677:** Dư đảng cuối cùng của nhà Mạc ở Cao Bằng bị tiêu diệt hoàn toàn.
 *   **1679:** Hai nhóm cựu thần nhà Minh trung thành là Dương Ngạn Địch và Trần Thượng Xuyên đem hơn 3.000 người đến xin tị nạn, được chúa Nguyễn cho vào khai khẩn vùng Mỹ Tho và Biên Hòa.
-*   **1680:** Mạc Cửu (cũng là cựu thần nhà Minh) đến khai phá vùng đất Hà Tiên.
+*   **1680:** Mạc Cửu (cũng là cựu thần nhà Minh) đến khai phá vùng đất Hà Tiên, trong đó có Phú Quốc.
 *   **1693:** Chúa Nguyễn đánh bại vua Chiêm Thành là Bà Tranh, đổi phần đất còn lại của Chiêm Thành thành trấn Thuận Thành (nay là Bình Thuận).
 *   **1697:** Chính thức đặt phủ Bình Thuận. Vương quốc Champa chấm dứt sự tồn tại với tư cách một quốc gia độc lập.
 *   **1698:** Chúa Nguyễn cử Thống suất Nguyễn Hữu Cảnh vào kinh lược xứ Đồng Nai, lập phủ Gia Định (gồm dinh Trấn Biên và dinh Phiên Trấn). Đây là mốc quan trọng xác lập chủ quyền của Đại Việt ở Nam Bộ.
+*   **1702:** Công ty Đông Ấn Anh đến đặt thương điếm ở Côn Đảo nhưng nhanh chóng rút đi vì thất bại.
 *   **1708:** Mạc Cửu đem toàn bộ đất đai Hà Tiên do mình khai phá xin nội thuộc chúa Nguyễn.
 *   **1718:** Ở Đàng Ngoài, chúa Trịnh Cương lập ra Lục phiên ở phủ Chúa, thâu tóm toàn bộ quyền lực, Lục bộ của triều đình nhà Lê chỉ còn là hư vị.
 *   **1738 - 1770:** Cuộc khởi nghĩa của Lê Duy Mật (tôn thất nhà Lê) nổ ra, kéo dài hơn 30 năm ở vùng Thanh Hóa, Nghệ An.
@@ -284,8 +286,10 @@
 
 ### **Thời kỳ Tây Sơn (1771 - 1802)**
 
+*   **1771 - 1801:** Nguyễn Ánh nhiều lần chạy ra Phú Quốc ẩn náu khi bị quân Tây Sơn truy đuổi.
 *   **1771:** Ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ dựng cờ khởi nghĩa ở Tây Sơn Thượng đạo (An Khê, Gia Lai) với khẩu hiệu "lấy của người giàu chia cho người nghèo".
 *   **1773:** Nghĩa quân Tây Sơn hạ thành Quy Nhơn, mở rộng căn cứ ra đồng bằng.
+*   **1773:** Nguyễn Ánh thành lập 3 làng An Hải, An Hội, Cỏ Ống và đặt tên cho quần đảo Côn Đảo là Côn Lôn.
 *   **1774:** Quân Trịnh do Hoàng Ngũ Phúc chỉ huy vượt sông Gianh tiến vào Nam, chiếm được Phú Xuân. Chúa Nguyễn Phúc Thuần phải chạy vào Quảng Nam.
 *   **05/1775:** Quân Trịnh tiếp tục chiếm Quảng Nam. Nguyễn Nhạc phải tạm thời xin hàng quân Trịnh để tập trung lực lượng đánh chúa Nguyễn.
 *   **1776:** Nguyễn Nhạc tự xưng là Tây Sơn vương.
@@ -300,6 +304,7 @@
 *   **21/07/1786:** Quân Tây Sơn tiến vào Thăng Long, lật đổ nền thống trị hơn 200 năm của họ Trịnh một cách nhanh chóng.
 *   **Cuối 1786:** Nguyễn Huệ được vua Lê gả công chúa Ngọc Hân. Anh em Tây Sơn chia nhau cai quản đất nước: Nguyễn Nhạc là Trung ương Hoàng đế (từ Quảng Ngãi vào Bình Thuận), Nguyễn Huệ là Bắc Bình vương (từ Hải Vân ra Bắc), Nguyễn Lữ là Đông Định vương (Gia Định).
 *   **1787:** Mâu thuẫn giữa Nguyễn Nhạc và Nguyễn Huệ nổ ra. Nguyễn Huệ đem quân vây thành Hoàng Đế, buộc Nguyễn Nhạc phải nhượng thêm đất Quảng Nam.
+*   **1787:** Trong Hiệp ước Versailles, Nguyễn Ánh nhượng Côn Đảo cho Pháp để đổi lấy sự hỗ trợ, nhưng hiệp ước này không thành hiện thực.
 *   **1788:** Nguyễn Ánh từ Xiêm trở về, lợi dụng Nguyễn Lữ yếu kém, chiếm lại Gia Định.
 *   **Cuối 1788:** Vua Lê Chiêu Thống chạy sang Trung Quốc cầu viện. 29 vạn quân Mãn Thanh do Tôn Sĩ Nghị chỉ huy tràn vào xâm lược nước ta, chiếm Thăng Long.
 *   **22/12/1788:** Tại Phú Xuân, Nguyễn Huệ lên ngôi Hoàng đế, lấy niên hiệu Quang Trung, rồi lập tức chỉ huy đại quân thần tốc tiến ra Bắc.
@@ -370,6 +375,7 @@
 *   **10/12/1861:** Nghĩa quân của Nguyễn Trung Trực đốt cháy tàu chiến L'Espérance của Pháp trên sông Nhật Tảo (Tân An).
 *   **16/12/1861:** Quân Pháp chiếm thành Biên Hòa.
 *   **07/01/1862:** Quân Pháp chiếm thành Bà Rịa.
+*   **01/02/1862:** Thống đốc Nam Kỳ Bonard đã ký quyết định thành lập nhà tù Côn Đảo. Đây là thời điểm đánh dấu sự khai phá mang tính hệ thống nhưng cũng đầy tàn khốc của thực dân Pháp đối với hòn đảo này.
 *   **23/03/1862:** Quân Pháp chiếm thành Vĩnh Long.
 *   **05/06/1862:** Triều đình Huế ký Hòa ước Nhâm Tuất, chính thức nhượng 3 tỉnh miền Đông Nam Kỳ (Gia Định, Định Tường, Biên Hòa) và đảo Côn Lôn cho Pháp.
 *   **08/1863:** Triều đình Huế cử phái bộ do Phan Thanh Giản dẫn đầu sang Pháp thương lượng xin chuộc lại 3 tỉnh miền Đông nhưng thất bại.
@@ -414,6 +420,7 @@
 *   **10/1894:** Hoàng Hoa Thám giảng hòa với Pháp lần thứ nhất để củng cố lực lượng Yên Thế.
 *   **28/12/1895:** Phan Đình Phùng hy sinh, khởi nghĩa Hương Khê dần tan rã, đánh dấu sự kết thúc về cơ bản của phong trào Cần Vương có tổ chức trên quy mô lớn.
 *   **1896:** Nhà tù Hỏa Lò được xây dựng tại Hà Nội.
+*   **Cuối thế kỷ XIX:** Thực dân Pháp bắt đầu khai thác tài nguyên trên đảo Phú Quốc như dừa, hồ tiêu và thành lập một trại giam.
 
 ### **Giai đoạn Củng cố Thống trị và Khai thác Thuộc địa lần thứ nhất (1897 - 1913)**
 
@@ -637,6 +644,7 @@
 *   **22/12/1947:** Đại bộ phận quân Pháp rút khỏi Việt Bắc, chiến dịch tấn công của địch hoàn toàn thất bại.
 *   **25/01/1948:** Chính phủ ra sắc lệnh thành lập các Liên khu để thống nhất chỉ đạo kháng chiến.
 *   **11/06/1948:** Chủ tịch Hồ Chí Minh ra lời kêu gọi thi đua ái quốc.
+*   **1949:** Pháp chính thức sáp nhập Phú Quốc và các đảo phía Nam vịnh Thái Lan vào Việt Nam.
 *   **20/01/1949:** Quân đội Lào Ítxala (tiền thân của Quân đội Nhân dân Lào) được thành lập.
 *   **08/03/1949:** Hiệp ước Élysée được ký kết giữa Tổng thống Pháp Vincent Auriol và cựu hoàng Bảo Đại, thành lập "Quốc gia Việt Nam" trong khối Liên hiệp Pháp.
 *   **28/08/1949:** Đại đoàn 308 (Đại đoàn Quân Tiên phong), đại đoàn chủ lực đầu tiên của Quân đội nhân dân Việt Nam, được thành lập.
@@ -710,6 +718,7 @@
 *   **06/09/1954:** Mỹ thành lập khối quân sự Đông Nam Á (SEATO) và đặt miền Nam Việt Nam, Lào, Campuchia dưới sự "bảo hộ" của khối này.
 *   **10/10/1954:** Quân đội Nhân dân Việt Nam tiến vào tiếp quản Thủ đô Hà Nội.
 *   **29/12/1954:** Pháp ký hiệp ước trao toàn bộ quyền hành chính ở miền Nam Việt Nam cho Ngô Đình Diệm.
+*   **1954:** Chính quyền Việt Nam Cộng hòa tiếp quản Côn Đảo và tiếp tục sử dụng nơi đây làm nhà tù, với các "chuồng cọp" nổi tiếng tàn bạo. Chính quyền Việt Nam Cộng hòa cũng tiếp tục phát triển Phú Quốc và xây dựng trại giam tù binh lớn nhất lúc bấy giờ.
 *   **03/1955:** Hội nghị lần thứ 7 Ban Chấp hành Trung ương Đảng Lao động Việt Nam đề ra nhiệm vụ củng cố miền Bắc và đấu tranh chính trị ở miền Nam.
 *   **13/05/1955:** Những người lính Pháp cuối cùng rút khỏi Hải Phòng, miền Bắc được hoàn toàn giải phóng.
 *   **17/07/1955:** Ngô Đình Diệm tuyên bố từ chối hiệp thương tổng tuyển cử để thống nhất đất nước.
@@ -939,6 +948,7 @@
 *   **05/2003:** WHO công nhận Việt Nam là quốc gia đầu tiên khống chế thành công dịch SARS.
 *   **07/11/2003:** Nhã nhạc cung đình Huế được UNESCO công nhận là di sản phi vật thể đầu tiên.
 *   **12/2003:** Việt Nam đăng cai tổ chức SEA Games 22.
+*   **2004:** Thủ tướng Chính phủ phê duyệt đề án phát triển tổng thể đảo Phú Quốc.
 *   **03/2005:** Sở Giao dịch Chứng khoán Hà Nội (HNX) được thành lập
 *   **19 - 25/06/2005:** Thủ tướng Phan Văn Khải thăm chính thức Hoa Kỳ, chuyến thăm đầu tiên của lãnh đạo Việt Nam sau chiến tranh.
 *   **25/11/2005:** Không gian Văn hóa Cồng chiêng Tây Nguyên được UNESCO công nhận là di sản.
