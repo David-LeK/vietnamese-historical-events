@@ -249,6 +249,8 @@
 *   **1592:** Trinh Tung completely defeated the Mac dynasty, retook Thang Long, and restored the Le dynasty. The remnants of the Mac dynasty retreated to Cao Bang.
 *   **Apr. 1599:** The Le king conferred upon Trinh Tung the title of Do Nguyen Suy, Thuong phu Binh An Vuong (Supreme Commander-in-Chief, Grand Preceptor, and Prince of Pacification), officially forming the Le King - Trinh Lord institution in Dang Ngoai (the North).
 *   **1600:** Nguyen Hoang returned to Thuan Quang from the North and began implementing new administrative policies, gradually breaking away from the control of the Trinh lords.
+*   **16th century:** Portuguese explorers referred to the Paracel Islands as "Ilhas do Pracel".
+*   **First half of the 17th century:** The Nguyen Lords sent the *Hoang Sa fleet* to the Spratly and Paracel Islands to exploit resources, collect salvaged goods, and assert sovereignty, including surveying sea routes, planting trees, and erecting markers.
 *   **1611:** The Nguyen army attacked Champa, taking the land south of the Cu Mong Pass and establishing Phu Yen Prefecture.
 *   **1614:** Nguyen Phuc Nguyen (son of Nguyen Hoang) succeeded him, reformed the administrative apparatus, appointed his own officials, and officially severed the subordinate relationship with the Trinh lords.
 *   **Around 1615 - 1620:** Western missionaries began recording the Vietnamese language using the Latin alphabet.
@@ -328,6 +330,7 @@
 *   **Jan. 1811:** Emperor Gia Long ordered the compilation of an official law code for the dynasty.
 *   **Jul. 1812:** The law code *Hoang Viet luat le* (commonly known as the Gia Long Code) was completed.
 *   **1813:** The *Hoang Viet luat le* was carved, printed, and promulgated nationwide.
+*   **1816:** Emperor Gia Long officially dispatched naval forces to the Paracel Islands to conduct surveys and plant flags. The Nguyen Dynasty also established the *Bac Hai team* to continue asserting sovereignty over both the Paracel and Spratly Islands.
 *   **1817:** Emperor Gia Long established the "tap am" regulation (hereditary benefits for descendants of meritorious officials).
 *   **1818:** Emperor Gia Long promulgated official regulations on salaries and spring attire allowances for officials; implemented the "duong liem" (anti-corruption allowance) for prefectural and district officials.
 *   **1820:** Emperor Minh Mang ascended the throne, changing the Thi thu vien (Imperial Secretariat) to the Van thu phong (Chancellery).
@@ -392,6 +395,7 @@
 *   **Aug. 18-20, 1883:** A French fleet under Admiral Courbet attacked and captured the forts at the Thuan An estuary, threatening the capital city of Hue.
 *   **Aug. 25, 1883:** The Hue court signed the Treaty of Quy Mui (Harmand Treaty), officially recognizing the French protectorate over all of Vietnam.
 *   **Dec. 1883:** French forces attacked and captured Son Tay Citadel.
+*   **1884 - 1945:** France continued to administer the Spratly and Paracel Islands as territories of French Indochina.
 *   **Mar. 12, 1884:** French forces captured Bac Ninh Citadel.
 *   **May 11, 1884:** France and the Qing dynasty signed the Tientsin Accord, in which the Qing agreed to withdraw their troops from Tonkin.
 *   **Jun. 6, 1884:** The Hue court signed the Treaty of Giap Than (Patenôtre Treaty), which completely established the French protectorate over all of Vietnam.
@@ -625,6 +629,7 @@
 
 ### **Period of the Outbreak of Nationwide Resistance and the Viet Bac Victory (1947 - 1950)**
 
+*   **1947:** The Republic of China (Kuomintang) issued a map with an 11-dash line, which was later inherited and modified into a 9-dash line by the People's Republic of China. They based their claims to most of the South China Sea, including the Paracel and Spratly Islands, on what they called "historical sovereignty claims."
 *   **Feb. 17, 1947:** After 60 days and nights of fighting, the Capital Regiment withdrew from Hanoi to preserve its forces.
 *   **Oct. 7, 1947:** France launched a large-scale attack on the Viet Bac resistance base (Operation Léa).
 *   **Oct. 30, 1947:** Our forces won a major victory in an ambush at Bong Lau Pass on Route 4.
@@ -794,6 +799,7 @@
 
 *   **Mar. 29, 1973:** The last US combat unit withdrew from South Vietnam.
 *   **Jul. 1973:** The 21st Conference of the Party Central Committee (3rd tenure) affirmed that the path of the southern revolution was still the path of violence, preparing for the final stage of the resistance war.
+*   **Jan. 19, 1974:** Taking advantage of the US withdrawal from Vietnam following the 1973 Paris Agreement and the unstable situation in South Vietnam, China used force to attack the South Vietnamese Navy and seize the entire Paracel Islands.
 *   **Sep. 30 - Oct. 8, 1974:** The Politburo met (1st session) and set out a plan to completely liberate the South in two years, 1975-1976.
 *   **Dec. 18, 1974 - Jan. 8, 1975:** The Politburo met (2nd session), and after the victory of Phuoc Long, resolved to liberate the South within 1975 if the opportunity arose.
 *   **Jan. 6, 1975:** Our forces completely liberated Phuoc Long province, a crucial strategic reconnaissance strike.
@@ -881,6 +887,7 @@
 *   **Jul. 1987:** The 3rd Conference of the Party Central Committee (6th tenure) issued a resolution to shift the activities of state-owned economic units to socialist business accounting and to renew state management of the economy.
 *   **1987:** The National Assembly enacted the Law on Foreign Investment in Vietnam, creating the first legal framework to attract foreign direct investment (FDI).
 *   **Nov. 14, 1987:** The Council of Ministers (now the Government) issued Decision No. 217/HDBT, granting autonomy in production and business to state-owned enterprises.
+*   **Mar. 14, 1988:** China continued to use force to attack the Vietnamese Navy to seize Gac Ma Reef in the Spratly Islands, killing many Vietnamese soldiers.
 *   **Apr. 1988:** The Politburo issued **Resolution 10** ("Contract 10"), creating a breakthrough in agriculture by identifying the household as an autonomous economic unit and allocating land to farmers on a long-term basis.
 *   **May 20, 1988:** The Politburo issued Resolution 13 on foreign policy tasks and policies, advocating a strong shift in foreign affairs to serve the economy, "make more friends, fewer enemies," and diversify international relations.
 *   **Mar. 1989:** The 6th Conference of the Party Central Committee (6th tenure) specified and developed the policy of a multi-sector economy, acknowledging the long-term existence of private economic sectors.
@@ -959,6 +966,7 @@
 *   **Jun. 21, 2012:** The National Assembly passed the Law of the Sea of Vietnam.
 *   **Jul. 2012:** Upgraded relations to a Comprehensive Strategic Partnership with the Russian Federation.
 *   **Dec. 6, 2012:** The Worship of Hung Kings was recognized by UNESCO as a heritage.
+*   **2013:** China began accelerating the reclamation and construction of artificial islands in the Spratly Islands, transforming coral reefs into fortified military bases to strengthen its presence and control.
 *   **Oct. 4, 2013:** General Vo Nguyen Giap passed away at Central Military Hospital 108, Hanoi.
 *   **Nov. 28, 2013:** The 2013 Constitution was promulgated.
 *   **Dec. 5, 2013:** The Art of Don Ca Tai Tu Music and Song in Southern Vietnam was recognized by UNESCO as a heritage.

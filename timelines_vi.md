@@ -249,6 +249,8 @@
 *   **1592:** Trịnh Tùng đánh bại hoàn toàn nhà Mạc, chiếm lại Thăng Long, khôi phục triều Lê. Dư đảng nhà Mạc rút lên Cao Bằng.
 *   **04/1599:** Vua Lê tấn phong Trịnh Tùng làm Đô Nguyên súy, Thượng phụ Bình An vương, chính thức hình thành thể chế Vua Lê - Chúa Trịnh ở Đàng Ngoài.
 *   **1600:** Nguyễn Hoàng từ Bắc Hà trở về Thuận Quảng, bắt đầu thực hiện chính sách cai trị mới, từng bước tách khỏi sự ràng buộc của họ Trịnh.
+*   **Thế kỷ XVI:** Các nhà thám hiểm Bồ Đào Nha gọi Hoàng Sa là "Ilhas do Pracel".
+*   **Nửa đầu thế kỷ XVII:** Các Chúa Nguyễn đã cử *đội Hoàng Sa* ra hai quần đảo Hoàng Sa và Trường Sa để khai thác sản vật, thu lượm hàng hóa trôi dạt và thực thi chủ quyền, bao gồm đo vẽ hải trình, trồng cây và dựng mốc.
 *   **1611:** Quân Nguyễn đánh Chiêm Thành, lấy được vùng đất phía nam đèo Cù Mông và lập ra phủ Phú Yên.
 *   **1614:** Nguyễn Phúc Nguyên (con Nguyễn Hoàng) lên thay, cải tổ bộ máy hành chính, tự bổ dụng quan lại, chính thức cắt đứt quan hệ lệ thuộc với họ Trịnh.
 *   **Khoảng 1615 - 1620:*** Các giáo sĩ phương Tây bắt đầu ghi chép tiếng Việt bằng chữ Latinh.
@@ -328,6 +330,7 @@
 *   **01/1811:** Vua Gia Long ra lệnh biên soạn một bộ luật chính thức cho vương triều.
 *   **07/1812:** Hoàn thành bộ luật *Hoàng Việt luật lệ* (thường gọi là Luật Gia Long).
 *   **1813:** Bộ *Hoàng Việt luật lệ* được khắc in và ban hành trên toàn quốc.
+*   **1816:** Vua Gia Long chính thức cử thủy quân ra Hoàng Sa để đo đạc và cắm cờ. Nhà Nguyễn thành lập thêm *đội Bắc Hải* để tiếp tục thực thi chủ quyền tại cả Hoàng Sa và Trường Sa.
 *   **1817:** Vua Gia Long định lệ "tập ấm" (quyền lợi kế thừa cho con cháu công thần).
 *   **1818:** Vua Gia Long ban hành điển lệ chính thức về lương bổng và tiền xuân phục cho quan lại; thực thi lệ "dưỡng liêm" (phụ cấp chống tham nhũng) cho quan phủ, huyện.
 *   **1820:** Vua Minh Mệnh lên ngôi, đổi Thị thư viện thành Văn thư phòng.
@@ -392,6 +395,7 @@
 *   **18-20/08/1883:** Hạm đội Pháp do Đô đốc Courbet chỉ huy tấn công và chiếm các pháo đài ở cửa Thuận An, uy hiếp kinh thành Huế.
 *   **25/08/1883:** Triều đình Huế ký Hòa ước Quý Mùi (Hiệp ước Harmand), chính thức công nhận nền bảo hộ của Pháp trên toàn cõi Việt Nam.
 *   **12/1883:** Quân Pháp tấn công và chiếm thành Sơn Tây.
+*   **1884 - 1945:** Pháp tiếp tục quản lý hai quần đảo Hoàng Sa và Trường Sa với tư cách là lãnh thổ của Liên bang Đông Dương thuộc Pháp.
 *   **12/03/1884:** Quân Pháp chiếm thành Bắc Ninh.
 *   **11/05/1884:** Pháp và nhà Thanh ký Quy ước Thiên Tân, nhà Thanh đồng ý rút quân khỏi Bắc Kỳ.
 *   **06/06/1884:** Triều đình Huế ký Hòa ước Giáp Thân (Hiệp ước Patenôtre), xác lập một cách hoàn chỉnh nền bảo hộ của Pháp trên toàn Việt Nam.
@@ -625,6 +629,7 @@
 
 ### **Giai đoạn Toàn quốc Kháng chiến Bùng nổ và Chiến thắng Việt Bắc (1947 - 1950)**
 
+*   **1947:** Trung Hoa Dân Quốc (Trung Quốc Quốc dân Đảng) đã đưa ra bản đồ với đường 11 đoạn, sau này được Cộng hòa Nhân dân Trung Hoa kế thừa và sửa thành đường 9 đoạn. Họ dựa vào cái gọi là "tuyên bố chủ quyền lịch sử" để đòi hỏi hầu hết diện tích Biển Đông, bao gồm cả Hoàng Sa và Trường Sa.
 *   **17/02/1947:** Sau 60 ngày đêm chiến đấu, Trung đoàn Thủ đô rút khỏi Hà Nội để bảo toàn lực lượng.
 *   **07/10/1947:** Pháp mở cuộc tấn công quy mô lớn lên căn cứ địa Việt Bắc (Chiến dịch Léa).
 *   **30/10/1947:** Quân ta giành thắng lợi lớn trong trận phục kích ở đèo Bông Lau trên đường số 4.
@@ -794,6 +799,7 @@
 
 *   **29/03/1973:** Đơn vị lính chiến đấu cuối cùng của Mỹ rút khỏi miền Nam Việt Nam.
 *   **Tháng 07/1973:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ 21 (khóa III) khẳng định con đường cách mạng miền Nam vẫn là con đường bạo lực, chuẩn bị cho giai đoạn cuối của cuộc kháng chiến.
+*   **19/01/1974:** Nhân lúc Mỹ rút quân khỏi Việt Nam theo Hiệp định Paris 1973 và tình hình Việt Nam Cộng hòa đang bất ổn, Trung Quốc đã dùng vũ lực tấn công Hải quân Việt Nam Cộng hòa để chiếm toàn bộ quần đảo Hoàng Sa.
 *   **30/09 - 08/10/1974:** Bộ Chính trị họp (đợt 1), đề ra kế hoạch giải phóng hoàn toàn miền Nam trong hai năm 1975-1976.
 *   **18/12/1974 - 08/01/1975:** Bộ Chính trị họp (đợt 2), sau chiến thắng Phước Long, hạ quyết tâm giải phóng miền Nam ngay trong năm 1975 nếu thời cơ đến.
 *   **06/01/1975:** Quân ta giải phóng hoàn toàn tỉnh Phước Long, một đòn trinh sát chiến lược quan trọng.
@@ -881,6 +887,7 @@
 *   **07/1987:** Hội nghị lần thứ 3 Ban Chấp hành Trung ương Đảng (khóa VI) ra nghị quyết chuyển hoạt động của các đơn vị kinh tế quốc doanh sang kinh doanh xã hội chủ nghĩa và đổi mới quản lý nhà nước về kinh tế.
 *   **1987:** Quốc hội ban hành Luật Đầu tư nước ngoài tại Việt Nam, mở ra hành lang pháp lý đầu tiên để thu hút vốn đầu tư trực tiếp từ nước ngoài (FDI).
 *   **14/11/1987:** Hội đồng Bộ trưởng (nay là Chính phủ) ban hành Quyết định số 217/HĐBT, trao quyền tự chủ trong sản xuất, kinh doanh cho các doanh nghiệp nhà nước.
+*   **14/03/1988:** Trung Quốc tiếp tục dùng vũ lực tấn công Hải quân Việt Nam để chiếm bãi đá Gạc Ma thuộc quần đảo Trường Sa, giết hại nhiều chiến sĩ Việt Nam.
 *   **04/1988:** Bộ Chính trị ban hành **Nghị quyết 10** ("Khoán 10"), tạo ra bước đột phá trong nông nghiệp bằng cách xác định hộ gia đình là đơn vị kinh tế tự chủ, giao khoán ruộng đất lâu dài cho nông dân.
 *   **20/05/1988:** Bộ Chính trị ban hành Nghị quyết 13 về nhiệm vụ và chính sách đối ngoại, chủ trương chuyển mạnh hoạt động đối ngoại sang phục vụ kinh tế, "thêm bạn bớt thù", đa dạng hóa quan hệ quốc tế.
 *   **03/1989:** Hội nghị lần thứ 6 Ban Chấp hành Trung ương Đảng (khóa VI) cụ thể hóa và phát triển chính sách kinh tế nhiều thành phần, thừa nhận sự tồn tại lâu dài của các thành phần kinh tế tư nhân.
@@ -959,6 +966,7 @@
 *   **21/06/2012:** Quốc hội thông qua Luật Biển Việt Nam.
 *   **07/2012:** Nâng cấp quan hệ Đối tác chiến lược toàn diện với Liên bang Nga.
 *   **06/12/2012:** Tín ngưỡng thờ cúng Hùng Vương được UNESCO công nhận là di sản.
+*   **2013:** Trung Quốc bắt đầu đẩy mạnh việc bồi đắp và xây dựng các đảo nhân tạo ở Trường Sa, biến những rạn san hô thành các căn cứ quân sự kiên cố để tăng cường sự hiện diện và kiểm soát.
 *   **04/10/2013:** Đại tướng Võ Nguyên Giáp từ trần tại Bệnh viện Trung ương Quân đội 108, Hà Nội.
 *   **28/11/2013:** Ban hành Hiến pháp 2013.
 *   **05/12/2013:** Nghệ thuật Đờn ca tài tử Nam Bộ được UNESCO công nhận là di sản.
