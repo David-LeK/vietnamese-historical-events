@@ -243,12 +243,14 @@
 *   **1600:** Nguyễn Hoàng từ Bắc Hà trở về Thuận Quảng, bắt đầu thực hiện chính sách cai trị mới, từng bước tách khỏi sự ràng buộc của họ Trịnh.
 *   **1611:** Quân Nguyễn đánh Chiêm Thành, lấy được vùng đất phía nam đèo Cù Mông và lập ra phủ Phú Yên.
 *   **1614:** Nguyễn Phúc Nguyên (con Nguyễn Hoàng) lên thay, cải tổ bộ máy hành chính, tự bổ dụng quan lại, chính thức cắt đứt quan hệ lệ thuộc với họ Trịnh.
+*   **Khoảng 1615 - 1620:*** Các giáo sĩ phương Tây bắt đầu ghi chép tiếng Việt bằng chữ Latinh.
 *   **1620:** Mâu thuẫn Trịnh - Nguyễn trở nên gay gắt, chúa Nguyễn ngừng nộp thuế cống.
 *   **03/1627:** Nội chiến Trịnh-Nguyễn chính thức bùng nổ. Lần thứ nhất, quân Trịnh do Trịnh Tráng chỉ huy tiến vào Nam nhưng bị đánh bại ở cửa Nhật Lệ.
 *   **1630 - 1631:** Ở Đàng Trong, Đào Duy Từ cho xây dựng hệ thống Lũy Thầy (Lũy Trường Dục và Lũy Nhật Lệ) kiên cố để phòng thủ.
 *   **1633:** Cuộc chiến lần thứ hai, quân Trịnh tấn công nhưng không vượt qua được hệ thống phòng lũy và lại thất bại.
 *   **1643:** Cuộc chiến lần thứ ba, quân Trịnh vây đánh lũy Trung Hòa nhưng không hạ được, phải rút quân.
 *   **02/1648:** Cuộc chiến lần thứ tư, quân Nguyễn do Nguyễn Phúc Tần chỉ huy đại thắng ở Trường Dục, bắt sống 3 tướng và 3 vạn quân Trịnh.
+*   **1651:** Alexandre de Rhodes xuất bản từ điển Việt - Bồ - La, chuẩn hóa chữ viết.
 *   **1653:** Chúa Nguyễn đánh bại vua Chiêm Thành là Bà Tấm, lấy đất từ sông Phan Rang đến Phú Yên, lập ra dinh Thái Khang (nay là Khánh Hòa).
 *   **1655 - 1660:** Cuộc chiến lần thứ năm, đây là lần duy nhất quân Nguyễn chủ động tấn công ra Bắc, chiếm được 7 huyện ở Nghệ An. Tuy nhiên sau đó do nội bộ bất hòa phải rút lui.
 *   **1661 - 1662:** Cuộc chiến lần thứ sáu. Quân Trịnh tấn công nhưng không thành công và phải rút về.
@@ -352,6 +354,7 @@
 *   **23/03/1860:** Sau 19 tháng bị cầm chân và chịu nhiều tổn thất, quân Pháp rút toàn bộ khỏi Đà Nẵng để tập trung vào Gia Định.
 *   **24-25/02/1861:** Quân Pháp được tăng viện, tấn công và chiếm được Đại đồn Kỳ Hòa (Chí Hòa), phòng tuyến quan trọng nhất của triều đình ở Gia Định.
 *   **12/04/1861:** Quân Pháp chiếm thành Mỹ Tho (tỉnh lỵ Định Tường).
+*   **21/09/1861:** Đô đốc Charner ký nghị định thành lập trường thông ngôn Bá Đa Lộc.
 *   **10/12/1861:** Nghĩa quân của Nguyễn Trung Trực đốt cháy tàu chiến L'Espérance của Pháp trên sông Nhật Tảo (Tân An).
 *   **16/12/1861:** Quân Pháp chiếm thành Biên Hòa.
 *   **07/01/1862:** Quân Pháp chiếm thành Bà Rịa.
@@ -359,12 +362,19 @@
 *   **05/06/1862:** Triều đình Huế ký Hòa ước Nhâm Tuất, chính thức nhượng 3 tỉnh miền Đông Nam Kỳ (Gia Định, Định Tường, Biên Hòa) và đảo Côn Lôn cho Pháp.
 *   **08/1863:** Triều đình Huế cử phái bộ do Phan Thanh Giản dẫn đầu sang Pháp thương lượng xin chuộc lại 3 tỉnh miền Đông nhưng thất bại.
 *   **11/08/1863:** Pháp ký hiệp ước bảo hộ với vua Campuchia Norodom.
+*   **1864:** Trường học đầu tiên dạy chữ Quốc ngữ ở Việt Nam là Trường Thông ngôn Sài Gòn (Collège des interprètes), được thành lập chính thức.
+*   **15/04/1865:** Tờ báo tiếng Việt đầu tiên sử dụng chữ Quốc ngữ là *Gia Định báo*, được ra mắt tại Sài Gòn.
+*   **1867:** Tên gọi "chữ quốc ngữ" được dùng lần đầu tiên, với tiền thân là "chữ Tây quốc ngữ".
 *   **20-24/06/1867:** Thống đốc De Lagrandière đơn phương tuyên bố chiếm 3 tỉnh miền Tây Nam Kỳ (Vĩnh Long, An Giang, Hà Tiên) mà không tốn một viên đạn.
+*   **02/1869:** Chữ quốc ngữ được quy định dùng bắt buộc thay chữ Nho trong công văn ở Nam Kỳ, theo nghị định của Phó đô đốc Marie Gustave Hector Ohier.
 *   **11/1872:** Jean Dupuis, một lái buôn người Pháp, bắt đầu gây rối ở Bắc Kỳ, lấy cớ vận chuyển hàng hóa lên Vân Nam.
 *   **20/11/1873:** Lấy cớ giải quyết vụ Dupuis, Francis Garnier đem quân tấn công và chiếm thành Hà Nội lần thứ nhất.
 *   **21/12/1873:** Trận Cầu Giấy lần thứ nhất. Quân Cờ Đen của Lưu Vĩnh Phúc phối hợp với quân của Hoàng Tá Viêm phục kích, giết chết Francis Garnier.
 *   **02/1874:** Quân Pháp rút khỏi Hà Nội và các tỉnh thành đã chiếm ở Bắc Kỳ.
 *   **15/03/1874:** Triều đình Huế ký Hòa ước Giáp Tuất, công nhận chủ quyền vĩnh viễn của Pháp ở 6 tỉnh Nam Kỳ, chấp nhận để Pháp mở cửa thông thương ở Bắc Kỳ và đặt Lãnh sự.
+*   **6/4/1878:** Nghị định 82 do Thống đốc Nam Kỳ Lafont ký đã đề ra mốc hẹn bốn năm phải chuyển hẳn sang chữ quốc ngữ.
+*   **01/01/1882:** Mọi công văn, văn bản niêm yết đều phải viết bằng chữ quốc ngữ. Đồng thời, chỉ người biết chữ quốc ngữ mới được bổ nhiệm vào cơ quan cai trị (cấp phủ, huyện, tổng) hoặc được xét tăng trật.
+*   **30/01/1882:** Thống đốc Nam Kỳ ra nghị định buộc công văn phải viết bằng tiếng Pháp. Nếu dùng chữ quốc ngữ, bắt buộc phải kèm theo bản dịch tiếng Pháp.
 *   **03/04/1882:** Đại tá Henri Rivière đổ bộ lên Hà Nội, bắt đầu cuộc xâm lược Bắc Kỳ lần thứ hai.
 *   **25/04/1882:** Henri Rivière tấn công và chiếm thành Hà Nội lần thứ hai. Tổng đốc Hoàng Diệu tuẫn tiết.
 *   **27/03/1883:** Rivière đem quân đánh chiếm thành Nam Định.
@@ -526,6 +536,7 @@
 *   **01/01 - 14/03/1937:** Phái viên Justin Godart của chính phủ Pháp sang điều tra tình hình Đông Dương, làm dấy lên một phong trào quần chúng rầm rộ đón tiếp và đưa yêu sách.
 *   **03/1938:** Hội nghị Ban Chấp hành Trung ương Đảng quyết định đổi tên Mặt trận thành Mặt trận Dân chủ Đông Dương.
 *   **01/05/1938:** Cuộc mít tinh khổng lồ với 25.000 người tham gia được tổ chức công khai tại khu Đấu Xảo, Hà Nội để kỷ niệm ngày Quốc tế Lao động.
+*   **25/05/1938:** Hội Truyền bá quốc ngữ ra đời.
 *   **30/08/1938:** Chính phủ Pháp ban hành Sắc lệnh về tự do báo chí ở Nam Kỳ, cho phép xuất bản báo chí tiếng Việt mà không cần xin phép trước.
 
 ### **Thời kỳ Vận động Giải phóng Dân tộc và Cách mạng tháng Tám (1939 - 1945)**

@@ -243,12 +243,14 @@
 *   **1600:** Nguyen Hoang returned to Thuan Quang from the North and began implementing new administrative policies, gradually breaking away from the control of the Trinh lords.
 *   **1611:** The Nguyen army attacked Champa, taking the land south of the Cu Mong Pass and establishing Phu Yen Prefecture.
 *   **1614:** Nguyen Phuc Nguyen (son of Nguyen Hoang) succeeded him, reformed the administrative apparatus, appointed his own officials, and officially severed the subordinate relationship with the Trinh lords.
+*   **Around 1615 - 1620:** Western missionaries began recording the Vietnamese language using the Latin alphabet.
 *   **1620:** The Trinh-Nguyen conflict intensified; the Nguyen lord stopped paying tribute taxes.
 *   **Mar. 1627:** The Trinh-Nguyen civil war officially broke out. In the first campaign, the Trinh army led by Trinh Trang advanced south but was defeated at the Nhat Le gate.
 *   **1630 - 1631:** In Dang Trong (the South), Dao Duy Tu ordered the construction of a system of strong defensive walls, the Luy Thay (Truong Duc and Nhat Le walls).
 *   **1633:** In the second campaign, the Trinh army attacked but could not overcome the defensive walls and was again defeated.
 *   **1643:** In the third campaign, the Trinh army besieged the Trung Hoa wall but could not capture it and had to withdraw.
 *   **Feb. 1648:** In the fourth campaign, the Nguyen army under Nguyen Phuc Tan won a great victory at Truong Duc, capturing 3 generals and 30,000 Trinh troops alive.
+*   **1651:** Alexandre de Rhodes published the Vietnamese - Portuguese - Latin dictionary, standardizing the script.
 *   **1653:** The Nguyen lord defeated the Champa king Ba Tam, taking land from the Phan Rang River to Phu Yen and establishing the Thai Khang garrison (now Khanh Hoa).
 *   **1655 - 1660:** The fifth campaign, this was the only time the Nguyen army proactively attacked the North, capturing 7 districts in Nghe An. However, they later had to retreat due to internal discord.
 *   **1661 - 1662:** The sixth campaign. The Trinh army attacked but was unsuccessful and had to retreat.
@@ -352,6 +354,7 @@
 *   **Mar. 23, 1860:** After being pinned down for 19 months and suffering heavy losses, the French forces completely withdrew from Da Nang to concentrate on Gia Dinh.
 *   **Feb. 24-25, 1861:** With reinforcements, French forces attacked and captured the Ky Hoa (Chi Hoa) Grand Redoubt, the court's most important defense line in Gia Dinh.
 *   **Apr. 12, 1861:** French forces captured My Tho Citadel (the provincial capital of Dinh Tuong).
+*   **Sep. 21, 1861:** Admiral Charner signed a decree establishing the Bá Đa Lộc School of Interpreters.
 *   **Dec. 10, 1861:** The righteous army of Nguyen Trung Truc burned the French warship L'Espérance on the Nhat Tao River (Tan An).
 *   **Dec. 16, 1861:** French forces captured Bien Hoa Citadel.
 *   **Jan. 7, 1862:** French forces captured Ba Ria Citadel.
@@ -359,12 +362,19 @@
 *   **Jun. 5, 1862:** The Hue court signed the Treaty of Nham Tuat, officially ceding the three eastern provinces of Cochinchina (Gia Dinh, Dinh Tuong, Bien Hoa) and Con Lon island to France.
 *   **Aug. 1863:** The Hue court sent a delegation led by Phan Thanh Gian to France to negotiate the redemption of the three eastern provinces, but it failed.
 *   **Aug. 11, 1863:** France signed a protectorate treaty with the Cambodian King Norodom.
+*   **1864:** The first school in Vietnam to teach chữ Quốc ngữ (the romanized Vietnamese script), the Saigon School of Interpreters (Collège des interprètes), was officially established.
+*   **Apr. 15, 1865:** The first Vietnamese-language newspaper using chữ Quốc ngữ, the Gia Định báo, was launched in Saigon.
+*   **1867:** The name "chữ quốc ngữ" (national script) was used for the first time, evolving from its precursor "chữ Tây quốc ngữ" (Western national script).
 *   **Jun. 20-24, 1867:** Governor De Lagrandière unilaterally declared the annexation of the three western provinces of Cochinchina (Vinh Long, An Giang, Ha Tien) without firing a shot.
+*   **Feb. 1869:** Chữ Quốc ngữ was mandated for use in official documents in Cochinchina, replacing chữ Nho (classical Chinese characters), according to a decree by Vice Admiral Marie Gustave Hector Ohier.
 *   **Nov. 1872:** Jean Dupuis, a French merchant, began causing disturbances in Tonkin (Bac Ky), under the pretext of transporting goods to Yunnan.
 *   **Nov. 20, 1873:** Under the pretext of resolving the Dupuis affair, Francis Garnier led troops to attack and capture Hanoi Citadel for the first time.
 *   **Dec. 21, 1873:** First Battle of Cau Giay. The Black Flag Army of Liu Yongfu, in coordination with the troops of Hoang Ta Viem, ambushed and killed Francis Garnier.
 *   **Feb. 1874:** French forces withdrew from Hanoi and the other occupied cities in Tonkin.
 *   **Mar. 15, 1874:** The Hue court signed the Treaty of Giap Tuat, recognizing France's permanent sovereignty over the six provinces of Cochinchina and agreeing to open Tonkin to French trade and the stationing of a Consul.
+*   **Apr. 6, 1878:** Decree 82, signed by the Governor of Cochinchina Lafont, set a four-year deadline to fully transition to chữ Quốc ngữ.
+*   **Jan. 1, 1882:** All official dispatches and public notices were required to be written in chữ Quốc ngữ. Concurrently, only those literate in chữ Quốc ngữ could be appointed to administrative bodies (at the prefecture, district, and canton levels) or be considered for promotion.
+*   **Jan. 30, 1882:** The Governor of Cochinchina issued a decree requiring official documents to be written in French. If chữ Quốc ngữ was used, it had to be accompanied by a French translation.
 *   **Apr. 3, 1882:** Colonel Henri Rivière landed in Hanoi, beginning the second invasion of Tonkin.
 *   **Apr. 25, 1882:** Henri Rivière attacked and captured Hanoi Citadel for the second time. Governor-General Hoang Dieu committed suicide.
 *   **Mar. 27, 1883:** Rivière led troops to attack and capture Nam Dinh Citadel.
@@ -526,6 +536,7 @@
 *   **Jan. 1 - Mar. 14, 1937:** Justin Godart, an envoy from the French government, visited Indochina to investigate the situation, sparking a vigorous mass movement to welcome him and present demands.
 *   **Mar. 1938:** The Party Central Committee conference decided to change the name of the Front to the Indochinese Democratic Front.
 *   **May 1, 1938:** A huge rally with 25,000 participants was held openly at the Dau Xao area in Hanoi to celebrate International Workers' Day.
+*   **May 25, 1938:** The Association for the Propagation of Quốc ngữ (Hội Truyền bá quốc ngữ) was established.
 *   **Aug. 30, 1938:** The French government issued a decree on press freedom in Cochinchina, allowing the publication of Vietnamese-language newspapers without prior permission.
 
 ### **Period of National Liberation Mobilization and the August Revolution (1939 - 1945)**
