@@ -22,15 +22,18 @@
 *   **257 TCN:** An Dương Vương đổi quốc hiệu thành Âu Lạc, dời đô về Phong Khê (Cổ Loa).
 *   **218 - 208 TCN:** Cuộc kháng chiến của người Tây Âu và Lạc Việt chống lại cuộc xâm lược của nhà Tần.
 *   **206 TCN:** Triệu Đà thành lập nước Nam Việt.
-*   **179 TCN:** Triệu Đà thôn tính nước Âu Lạc.
+*   **179 TCN:** Triệu Đà thôn tính nước Âu Lạc. Sự kiện này gắn liền với truyền thuyết bi kịch về mối tình Trọng Thủy - Mỵ Châu.
 *   **111 TCN:** Nhà Hán chinh phục nước Nam Việt, bắt đầu thời kỳ đô hộ trực tiếp trên đất Âu Lạc cũ.
-*   **40 - 43:** Cuộc khởi nghĩa Hai Bà Trưng.
+*   **40:** Hai Bà Trưng dấy binh khởi nghĩa, giành lại độc lập. Trưng Trắc lên ngôi vua, đóng đô ở Mê Linh.
+*   **41:** Mã Viện mang 20 vạn quân sang xâm lược.
+*   **43:** Cuộc khởi nghĩa thất bại trước cuộc tấn công của tướng nhà Hán là Mã Viện. Hai Bà Trưng tuẫn tiết trên sông Hát.
 *   **137:** Cuộc khởi nghĩa của Khu Liên ở huyện Tượng Lâm, quận Nhật Nam.
 *   **192:** Khu Liên chính thức thành lập nước Lâm Ấp.
-*   **248:** Cuộc khởi nghĩa của Bà Triệu (Triệu Thị Trinh) ở Cửu Chân.
+*   **248:** Cuộc khởi nghĩa của Bà Triệu (Triệu Thị Trinh) ở Cửu Chân chống lại ách đô hộ của nhà Đông Ngô. Bà tự xưng là Đại Hải Bà Vương nhưng cuối cùng bị tướng Lục Dận đánh bại.
 *   **542:** Lý Bí lãnh đạo cuộc khởi nghĩa chống lại ách đô hộ của nhà Lương.
 *   **544:** Lý Bí xưng là Nam Việt Đế (Lý Nam Đế), lập ra nước Vạn Xuân, đặt niên hiệu Thiên Đức.
 *   **548:** Lý Nam Đế mất.
+*   **548 - 571:** Triệu Quang Phục (Triệu Việt Vương) lãnh đạo cuộc kháng chiến chống quân Lương thắng lợi, tiếp tục giữ nền độc lập cho đến khi bị Lý Phật Tử đánh bại.
 *   **603:** Nhà Tùy đem quân xâm lược, Lý Phật Tử (Hậu Lý Nam Đế) đầu hàng, nước Vạn Xuân kết thúc.
 *   **679:** Nhà Đường đổi Giao Châu thành An Nam Đô hộ phủ.
 *   **687:** Cuộc khởi nghĩa của Lý Tự Tiên và Đinh Kiến.
@@ -183,11 +186,12 @@
 
 ### **Thời kỳ Nhà Lê Sơ (1428 - 1527)**
 
-*   **29/04/1428:** Lê Lợi chính thức lên ngôi Hoàng đế (Lê Thái Tổ) tại Đông Đô, đặt niên hiệu Thuận Thiên, khôi phục quốc hiệu Đại Việt.
+*   **29/04/1428:** Lê Lợi chính thức lên ngôi Hoàng đế (Lê Thái Tổ) tại Đông Đô, đặt niên hiệu Thuận Thiên, khôi phục quốc hiệu Đại Việt. Thừa lệnh vua, Nguyễn Trãi viết "Bình Ngô đại cáo", bản tuyên ngôn độc lập thứ hai của dân tộc.
 *   **02/1429:** Lê Thái Tổ ra lệnh cho giải ngũ 25 vạn quân, chỉ giữ lại 10 vạn, thực hiện chính sách "ngụ binh ư nông".
 *   **05/10/1433:** Vua Lê Thái Tổ mất.
 *   **1434:** Lê Thái Tông lên ngôi. Bắt đầu quy định về khoa thi Tiến sĩ.
 *   **1442:** Triều Lê tổ chức khoa thi Tiến sĩ đầu tiên, lấy đỗ 33 người, trong đó có Trạng nguyên Nguyễn Trực. Bắt đầu cho dựng bia Tiến sĩ ở Văn Miếu.
+*   **1442:** Xảy ra Vụ án Lệ Chi Viên oan khốc khiến Nguyễn Trãi bị tru di tam tộc.
 *   **1443:** Lê Nhân Tông lên ngôi.
 *   **1460:** Nghi Dân cướp ngôi. Lần đầu tiên đặt ra Lục bộ (Lại, Hộ, Lễ, Binh, Hình, Công) và Lục khoa.
 *   **06/1460:** Các đại thần Nguyễn Xí, Đinh Liệt làm binh biến, lật đổ Nghi Dân, đưa Lê Tư Thành lên ngôi vua (Lê Thánh Tông).
@@ -282,6 +286,7 @@
 *   **1777:** Nguyễn Huệ tiến đánh Gia Định, tiêu diệt gần hết lực lượng của chúa Nguyễn. Chúa Nguyễn Phúc Thuần và Tân Chính vương Nguyễn Phúc Dương đều bị bắt và bị giết. Nguyễn Ánh (cháu chúa Nguyễn) chạy thoát ra đảo Thổ Châu.
 *   **1778:** Nguyễn Nhạc xưng là Trung ương Hoàng đế, đặt niên hiệu Thái Đức, xây dựng kinh đô ở thành Hoàng Đế (Đồ Bàn cũ).
 *   **1782:** Nguyễn Ánh chiếm lại được Gia Định.
+*   **1782:** Tại Đàng Ngoài, xảy ra "Loạn kiêu binh", quân lính kiêu binh nổi loạn làm triều chính họ Trịnh càng thêm suy yếu, tạo điều kiện cho quân Tây Sơn tiến ra Bắc sau này.
 *   **1783:** Nguyễn Huệ và Nguyễn Lữ đem quân vào đánh, Nguyễn Ánh lại thua trận, phải chạy sang Xiêm cầu viện.
 *   **07/1784:** 5 vạn quân Xiêm (2 vạn thủy, 3 vạn bộ) do Chiêu Tăng, Chiêu Sương chỉ huy cùng Nguyễn Ánh tiến vào xâm lược Gia Định.
 *   **19/01/1785:** Trận Rạch Gầm - Xoài Mút. Nguyễn Huệ tổ chức trận địa mai phục, đại phá quân Xiêm, tiêu diệt gần như toàn bộ quân xâm lược. Nguyễn Ánh lại phải chạy sang Xiêm.

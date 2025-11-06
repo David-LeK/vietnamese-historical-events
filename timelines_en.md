@@ -22,15 +22,18 @@
 *   **257 BC:** An Duong Vuong changed the national title to Au Lac, moving the capital to Phong Khe (Co Loa).
 *   **218 - 208 BC:** The resistance of the Tay Au and Lac Viet people against the invasion of the Qin dynasty.
 *   **206 BC:** Trieu Da (Zhao Tuo) established the Nanyue kingdom.
-*   **179 BC:** Trieu Da annexed the Au Lac nation.
+*   **179 BC:** Trieu Da conquered the Au Lac kingdom. This event is associated with the tragic legend of the love story of Trong Thuy and My Chau.
 *   **111 BC:** The Han dynasty conquered the Nanyue kingdom, beginning the period of direct domination over the former Au Lac territory.
-*   **40 - 43:** The uprising of the Trung Sisters.
+*   **40:** The Trung Sisters launched an uprising, regaining independence. Trung Trac ascended to the throne as queen, establishing the capital at Me Linh.
+*   **41:** Ma Yuan led an army of 200,000 to invade.
+*   **43:** The uprising failed following an attack by the Han general Ma Yuan. The Trung Sisters committed suicide in the Hat River.
 *   **137:** The uprising of Khu Lien in Tuong Lam district, Nhat Nam commandery.
 *   **192:** Khu Lien officially established the Lam Ap kingdom.
-*   **248:** The uprising of Lady Trieu (Trieu Thi Trinh) in Cuu Chan.
+*   **248:** The uprising of Lady Trieu (Trieu Thi Trinh) in Cuu Chan against the domination of the Eastern Wu dynasty. She proclaimed herself Dai Hai Ba Vuong but was ultimately defeated by general Lu Yin.
 *   **542:** Ly Bi led an uprising against the domination of the Liang dynasty.
 *   **544:** Ly Bi proclaimed himself the Southern Viet Emperor (Ly Nam De), founded the Van Xuan kingdom, and established the era name Thien Duc.
 *   **548:** Ly Nam De passed away.
+*   **548 - 571:** Trieu Quang Phuc (King Trieu Viet) led the resistance against the Liang army to victory, maintaining independence until he was defeated by Ly Phat Tu.
 *   **603:** The Sui dynasty sent troops to invade, Ly Phat Tu (Later Ly Nam De) surrendered, and the Van Xuan kingdom ended.
 *   **679:** The Tang dynasty changed Giao Chau to the Protectorate General of Annam.
 *   **687:** The uprising of Ly Tu Tien and Dinh Kien.
@@ -183,11 +186,12 @@
 
 ### **Early Le Dynasty Period (1428 - 1527)**
 
-*   **Apr. 29, 1428:** Le Loi officially ascended to the throne as Emperor (Le Thai To) in Dong Do, established the era name Thuan Thien, and restored the national name Dai Viet.
+*   **Apr. 29, 1428:** Le Loi officially ascended the throne as Emperor (Le Thai To) in Dong Do, adopting the era name Thuan Thien and restoring the national title of Dai Viet. Under the king's order, Nguyen Trai wrote the "Binh Ngo dai cao" (Great Proclamation upon the Pacification of the Wu), the nation's second declaration of independence.
 *   **Feb. 1429:** Le Thai To ordered the demobilization of 250,000 troops, keeping only 100,000, implementing the "combining military service with farming" policy.
 *   **Oct. 5, 1433:** King Le Thai To passed away.
 *   **1434:** Le Thai Tong ascended the throne. Regulations for the doctoral examination were established.
 *   **1442:** The Le court held the first doctoral examination, passing 33 people, including Trang Nguyen (First Laureate) Nguyen Truc. The practice of erecting doctoral stelae at the Temple of Literature began.
+*   **1442:** The tragic Le Chi Vien case occurred, leading to the execution of three generations of Nguyen Trai's family.
 *   **1443:** Le Nhan Tong ascended the throne.
 *   **1460:** Nghi Dan usurped the throne. The Six Ministries (Lại, Hộ, Lễ, Binh, Hình, Công - Personnel, Finance, Rites, War, Justice, Public Works) and Six Offices of Scrutiny were established for the first time.
 *   **Jun. 1460:** High-ranking officials Nguyen Xi and Dinh Liet staged a coup, overthrew Nghi Dan, and placed Le Tu Thanh on the throne (Le Thanh Tong).
@@ -282,6 +286,7 @@
 *   **1777:** Nguyen Hue advanced to attack Gia Dinh, annihilating almost all of the Nguyen lords' forces. Lord Nguyen Phuc Thuan and the new king Nguyen Phuc Duong were both captured and killed. Nguyen Anh (nephew of the Nguyen lord) escaped to Tho Chau island.
 *   **1778:** Nguyen Nhac proclaimed himself Central Emperor, established the era name Thai Duc, and built his capital at Hoang De Citadel (the former Do Ban).
 *   **1782:** Nguyen Anh recaptured Gia Dinh.
+*   **1782:** In Dang Ngoai (the North), the 'Revolt of the Palace Guards' broke out. The rebellious guards further weakened the Trinh lords' court, creating favorable conditions for the later advance of the Tay Son army to the North.
 *   **1783:** Nguyen Hue and Nguyen Lu led troops to attack; Nguyen Anh was again defeated and had to flee to Siam (Thailand) to seek aid.
 *   **Jul. 1784:** 50,000 Siamese troops (20,000 naval, 30,000 land) led by Chao Tseng and Chao Sương, along with Nguyen Anh, invaded Gia Dinh.
 *   **Jan. 19, 1785:** Battle of Rach Gam - Xoai Mut. Nguyen Hue set up an ambush, crushed the Siamese army, annihilating almost the entire invading force. Nguyen Anh had to flee to Siam again.
