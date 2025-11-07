@@ -158,6 +158,9 @@
 *   **06/12/1388:** Trần Phế Đế bị phế truất, sau đó bị giam tại chùa Tư Phúc và bị giết theo lệnh của Thượng hoàng Trần Nghệ Tông và Hồ Quý Ly.
 *   **16/12/1388:** Con trai Trần Nghệ Tông là Trần Ngung (sau là Trần Thuận Tông) lên ngôi.
 *   **1390:** Thượng tướng quân Trần Khát Chân chỉ huy trận đánh trên sông Hải Triều (sông Luộc), dùng súng thần cơ giết chết vua Champa là Chế Bồng Nga.
+*   **04/1396:** Dưới sự chủ trương của Hồ Quý Ly (khi còn là Tể tướng), triều đình phát hành tiền giấy "Thông bảo hội sao", lần đầu tiên tiền giấy được lưu hành ở Việt Nam.
+*   **01/1397:** Hồ Quý Ly ban hành chính sách hạn điền, quy định hạn chế số lượng ruộng đất tư hữu của các vương hầu, quý tộc (không quá 10 mẫu).
+*   **03/1397:** Hồ Quý Ly cho xây dựng kinh thành Tây Đô (Thành nhà Hồ, Vĩnh Lộc, Thanh Hóa) và chuẩn bị dời đô.
 *   **04/1397:** Dưới sự điều khiển của Hồ Quý Ly, triều đình tiến hành cải cách hành chính lớn, đổi các lộ thành trấn và chia lại các cấp phủ, châu, huyện.
 *   **1398:** Lần đầu tiên trong lịch sử, triều đình cho đo đạc ruộng đất trên toàn quốc.
 *   **04/1398:** Hồ Quý Ly ép vua Trần Thuận Tông nhường ngôi cho con trai mới 2 tuổi là Trần Thiếu Đế để lui về làm Thái thượng hoàng, rồi sau đó ép đi tu ở một nơi vắng vẻ tại Thanh Hóa.

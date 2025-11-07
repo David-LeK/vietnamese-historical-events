@@ -158,6 +158,9 @@
 *   **Jun. 12, 1388:** Emperor Trần Phế Đế was deposed, then imprisoned at Tư Phúc Pagoda and later killed on the orders of Emperor Emeritus Trần Nghệ Tông and Hồ Quý Ly.
 *   **Dec. 16, 1388:** Trần Nghệ Tông's son, Trần Ngung (later Emperor Trần Thuận Tông), ascended the throne.
 *   **1390:** General Tran Khat Chan commanded the battle on the Hai Trieu River (Luoc River), using firearms to kill the Champa king Che Bong Nga.
+*   **04/1396:** Under the policy led by Hồ Quý Ly (when he was Prime Minister), the royal court issued paper money called "Thông bảo hội sao." This was the first time paper money was circulated in Vietnam.
+*   **01/1397:** Hồ Quý Ly implemented the land limitation policy (hạn điền), restricting the amount of private land owned by princes and aristocrats (no more than 10 mẫu—a unit of area).
+*   **03/1397:** Hồ Quý Ly began constructing the Western Capital (Tây Đô) (Hồ Dynasty Citadel, Vĩnh Lộc, Thanh Hóa) and prepared to move the capital city.
 *   **Apr. 1397:** Under the direction of Ho Quy Ly, the court carried out major administrative reforms, changing routes (lo) to circuits (tran) and reorganizing the levels of prefectures (phu), sub-prefectures (chau), and districts (huyen).
 *   **1398:** For the first time in history, the court ordered a nationwide land survey.
 *   **April 1398:** Ho Quy Ly forced Emperor Tran Thuan Tong to abdicate in favor of his two-year-old son, Tran Thieu De, and then forced him to retire to a secluded place in Thanh Hoa.
