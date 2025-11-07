@@ -985,6 +985,7 @@
 *   **03/07/2003:** Phong Nha - Ke Bang National Park was first recognized by UNESCO for its geological and geomorphological features.
 *   **Nov. 7, 2003:** Hue Royal Court Music (Nhã nhạc) was recognized by UNESCO as the first intangible heritage.
 *   **Dec. 2003:** Vietnam hosted the 22nd SEA Games.
+*   **2004:** Vietnam was awarded a Guinness World Record for the largest banh tet (Vietnamese sticky rice cake) in the world.
 *   **2004:** The Prime Minister approved the overall development plan for Phu Quoc Island.
 *   **Mar. 2005:** The Hanoi Stock Exchange (HNX) was established.
 *   **Jun. 19 - 25, 2005:** Prime Minister Phan Van Khai paid an official visit to the United States, the first visit by a Vietnamese leader since the war.
@@ -1003,6 +1004,7 @@
 *   **Oct. 1, 2009:** Ca trù was recognized by UNESCO as an Intangible Cultural Heritage in Need of Urgent Safeguarding.
 *   **09/03/2010:** The doctoral steles at the Temple of Literature - Imperial Academy were recognized by UNESCO as a World Documentary Heritage.
 *   **Aug. 1, 2010:** The Central Sector of the Imperial Citadel of Thang Long was recognized by UNESCO as a heritage.
+*   **Sep. 10, 2010:** The "Ceramic Road" along the Red River (Hanoi) was recognized as the longest ceramic mosaic mural in the world.
 *   **Oct. 1 - 10, 2010:** Organized the Grand Celebration of the 1000th Anniversary of Thang Long - Hanoi.
 *   **Nov. 16, 2010:** The Giong Festival at Phu Dong Temple and Soc Son Temple was recognized as a Representative List of the Intangible Cultural Heritage of Humanity by UNESCO.
 *   **Jun. 27, 2011:** The Ho Dynasty Citadel was recognized as a World Cultural Heritage Site.
@@ -1019,6 +1021,8 @@
 *   **Jul. 2012:** Upgraded relations to a Comprehensive Strategic Partnership with the Russian Federation.
 *   **Dec. 6, 2012:** The Worship of Hung Kings was recognized by UNESCO as a heritage.
 *   **2013:** China began accelerating the reclamation and construction of artificial islands in the Spratly Islands, transforming coral reefs into fortified military bases to strengthen its presence and control.
+*   **Feb. 2013:** Ba Na Hills Cable Car (Da Nang) was recognized by the Guinness World Records organization for 4 world records.
+*   **Apr. 30, 2013:** The Guinness World Records organization officially recognized Son Doong Cave as the largest cave in the world.
 *   **Oct. 4, 2013:** General Vo Nguyen Giap passed away at Central Military Hospital 108, Hanoi.
 *   **Nov. 28, 2013:** The 2013 Constitution was promulgated.
 *   **Dec. 5, 2013:** The Art of Don Ca Tai Tu Music and Song in Southern Vietnam was recognized by UNESCO as a heritage.
@@ -1054,6 +1058,7 @@
 *   **Jan. 1, 2020:** Vietnam assumed the roles of ASEAN Chair 2020 and non-permanent member of the UN Security Council.
 *   **Jan. 23, 2020:** The first COVID-19 case was recorded in Vietnam.
 *   **Aug. 1, 2020:** The EVFTA Agreement officially took effect.
+*   **Sep. 6, 2020:** Vietnamese cuisine has set 5 world records.
 *   **Oct. - Nov. 2020:** Historic floods and successive storms in the Central region.
 *   **Dec. 28, 2020:** Vietnam successfully achieved the "dual goal" (epidemic control and economic growth).
 *   **May 23, 2021:** Election of the 15th National Assembly.
@@ -1064,6 +1069,7 @@
 *   **Apr. 27, 2021:** The fourth wave of the COVID-19 epidemic began (Delta variant), shifting the strategy to "safe adaptation."
 *   **Dec. 15, 2021:** The Xoe Thai dance art form was recognized as a heritage by UNESCO.
 *   **May 12 - 23, 2022:** Vietnam hosted the 31st SEA Games (postponed from 2021).
+*   **May 2022:** The Bach Long glass bridge (Son La province) was recognized as the world's longest glass-bottomed bridge.
 *   **Dec. 1, 2022:** The Ba Chua Xu Festival at Sam Mountain was recognized as a heritage site by UNESCO.
 *   **Dec. 2022:** Upgraded relations to a Comprehensive Strategic Partnership with South Korea.
 *   **Dec. 30, 2022:** Vietnam's GDP surpassed the $400 billion mark.
@@ -1098,6 +1104,7 @@
     * **Commune level:** Including communes (rural areas), wards (urban areas), and special zones.
 *   **Jul. 1, 2025:** District-level governments, including urban districts, rural districts, city-level municipalities (under provinces), city-level municipalities (under centrally-run cities), and towns, officially ceased operations. The two-level model of provincial and commune governments officially began operation.
 *   **Sep. 2025:** Vietnam officially waives tuition fees for students from preschool to public high schools.
-*   **Oct. 25, 2025:** Organized the "Golden Autumn Fair" at VEC.
+*   **Sep. 03, 2025:** The world's largest lacquer painting is "President Ho Chi Minh Reading the Declaration of Independence" by young artist Chu Nhat Quang, which has been recognized by the Guinness World Records organization.
+*   **Oct. 25, 2025:** Organized the "Golden Autumn Fair" at VEC. On the same day, the number 25 made from bread was awarded a Guinness World Record for "Largest number made from bread" at RMIT University Vietnam, to commemorate the 25th anniversary of KOTO.
 *   **Oct. 25 - 26, 2025:** Signing Ceremony of the United Nations Convention on Countering Cybercrime (Hanoi Convention).
 *   **Oct. 29, 2025:** Upgraded relations to a Comprehensive Strategic Partnership with the United Kingdom (reaching 14 countries).

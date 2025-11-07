@@ -985,6 +985,7 @@
 *   **03/07/2003:** Vườn Quốc gia Phong Nha - Kẻ Bàng được UNESCO công nhận lần đầu về địa chất, địa mạo.
 *   **07/11/2003:** Nhã nhạc cung đình Huế được UNESCO công nhận là di sản phi vật thể đầu tiên.
 *   **12/2003:** Việt Nam đăng cai tổ chức SEA Games 22.
+*   **2004:** Việt Nam được chứng nhận kỷ lục Guinness cho chiếc bánh tét lớn nhất thế giới.
 *   **2004:** Thủ tướng Chính phủ phê duyệt đề án phát triển tổng thể đảo Phú Quốc.
 *   **03/2005:** Sở Giao dịch Chứng khoán Hà Nội (HNX) được thành lập
 *   **19 - 25/06/2005:** Thủ tướng Phan Văn Khải thăm chính thức Hoa Kỳ, chuyến thăm đầu tiên của lãnh đạo Việt Nam sau chiến tranh.
@@ -1003,6 +1004,7 @@
 *   **01/10/2009:** Ca trù được UNESCO công nhận là Di sản Văn hóa Phi vật thể Cần Bảo vệ Khẩn cấp.
 *   **09/03/2010:** Bia Tiến sĩ Văn Miếu - Quốc Tử Giám được UNESCO công nhận là Di sản Tư liệu Thế giới.
 *   **01/08/2010:** Khu Trung tâm Hoàng thành Thăng Long được UNESCO công nhận là di sản.
+*   **10/09/2010:** "Con đường gốm sứ" ven sông Hồng (Hà Nội) được công nhận là bức tranh gốm sứ dài nhất thế giới.
 *   **01 - 10/10/2010:** Tổ chức Đại lễ 1000 năm Thăng Long - Hà Nội.
 *   **16/11/2010:** Hội Gióng ở đền Phù Đổng và đền Sóc Sơn đã được công nhận là Di sản văn hóa phi vật thể đại diện của nhân loại bởi UNESCO.
 *   **27/06/2011:** Thành nhà Hồ được công nhận là Di sản Văn hóa Thế giới.
@@ -1019,6 +1021,8 @@
 *   **07/2012:** Nâng cấp quan hệ Đối tác chiến lược toàn diện với Liên bang Nga.
 *   **06/12/2012:** Tín ngưỡng thờ cúng Hùng Vương được UNESCO công nhận là di sản.
 *   **2013:** Trung Quốc bắt đầu đẩy mạnh việc bồi đắp và xây dựng các đảo nhân tạo ở Trường Sa, biến những rạn san hô thành các căn cứ quân sự kiên cố để tăng cường sự hiện diện và kiểm soát.
+*   **02/2013:** Cáp treo Bà Nà Hills (Đà Nẵng) được Tổ chức Guinness World Records công nhận 4 kỷ lục thế giới.
+*   **30/04/2013:** Tổ chức Kỷ lục Guinness Thế giới chính thức công nhận Hang Sơn Đoòng là hang động lớn nhất thế giới.
 *   **04/10/2013:** Đại tướng Võ Nguyên Giáp từ trần tại Bệnh viện Trung ương Quân đội 108, Hà Nội.
 *   **28/11/2013:** Ban hành Hiến pháp 2013.
 *   **05/12/2013:** Nghệ thuật Đờn ca tài tử Nam Bộ được UNESCO công nhận là di sản.
@@ -1054,6 +1058,7 @@
 *   **01/01/2020:** Việt Nam đảm nhận vai trò Chủ tịch ASEAN 2020 và Ủy viên không thường trực HĐBA.
 *   **23/01/2020:** Ghi nhận ca bệnh COVID-19 đầu tiên tại Việt Nam.
 *   **01/08/2020:** Hiệp định EVFTA chính thức có hiệu lực.
+*   **06/09/2020:** Ẩm thực Việt Nam đã xác lập 5 kỷ lục thế giới.
 *   **10 - 11/2020:** Lũ lụt, bão chồng bão lịch sử tại miền Trung.
 *   **28/12/2020:** Việt Nam thực hiện thành công "mục tiêu kép" (chống dịch và tăng trưởng kinh tế).
 *   **23/05/2021:** Bầu cử Quốc hội khóa XV.
@@ -1064,6 +1069,7 @@
 *   **27/04/2021:** Bắt đầu Đợt dịch COVID-19 lần thứ tư (chủng Delta), chuyển chiến lược sang "thích ứng an toàn".
 *   **15/12/2021:** Nghệ thuật Xòe Thái được UNESCO công nhận là di sản.
 *   **12 - 23/05/2022:** Việt Nam tổ chức SEA Games 31 (bị hoãn từ 2021).
+*   **05/2022:** Cầu kính Bạch Long (Sơn La) được công nhận là cầu đáy kính dài nhất thế giới.
 *   **01/12/2022:** Lễ hội Vía Bà Chúa Xứ núi Sam được UNESCO công nhận là di sản.
 *   **12/2022:** Nâng cấp quan hệ Đối tác Chiến lược Toàn diện với Hàn Quốc.
 *   **30/12/2022:** GDP Việt Nam vượt mốc 400 tỷ USD.
@@ -1098,7 +1104,8 @@
     * **Cấp xã:** Bao gồm xã (khu vực nông thôn), phường (khu vực đô thị) và đặc khu.
 *   **01/07/2025:** Chính quyền cấp huyện, bao gồm quận, huyện, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc Trung ương, và thị xã chính thức chấm dứt hoạt động. Mô hình chính quyền hai cấp tỉnh và xã chính thức vận hành.
 *   **09/2025:** Việt Nam chính thức miễn học phí cho học sinh từ mầm non đến THPT công lập.
-*   **25/10/2025:** Tổ chức "Hội chợ Mùa thu Vàng" tại VEC.
+*   **03/09/2025:** Tác phẩm sơn mài lớn nhất thế giới là bức tranh "Bác Hồ đọc Tuyên ngôn Độc lập" của họa sĩ trẻ Chu Nhật Quang, được Tổ chức Kỷ lục Guinness Thế giới công nhận.
+*   **25/10/2025:** Tổ chức "Hội chợ Mùa thu Vàng" tại VEC. Cùng ngày, Hình số 25 làm từ bánh mì được xác lập kỷ lục Guinness là "Số lớn nhất làm từ bánh mì" (Largest number made from bread) tại Đại học RMIT Việt Nam, nhằm kỷ niệm 25 năm thành lập KOTO.
 *   **25 - 26/10/2025:** Lễ ký kết Công ước Liên Hợp Quốc về Chống tội phạm mạng (Công ước Hà Nội).
 *   **29/10/2025:** Nâng cấp quan hệ Đối tác chiến lược toàn diện với Vương quốc Anh (đạt 14 quốc gia).
 
