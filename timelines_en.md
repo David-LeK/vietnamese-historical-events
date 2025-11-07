@@ -48,6 +48,7 @@
 *   **931:** Duong Dinh Nghe drove out the Southern Han army, proclaiming himself Jiedushi.
 *   **937:** Kieu Cong Tien killed Duong Dinh Nghe to usurp the position.
 *   **938:** Ngo Quyen defeated the Southern Han army on the Bach Dang River, ending the period of Northern domination.
+*   **Around the 10th century:** The Nom script began to form after escaping from Northern domination, initially used to record people's names and place names.
 
 ### **Independence Period (Ngo - Dinh - Early Le)**
 
@@ -104,7 +105,7 @@
 *   **Jan. 1209:** The Quach Boc rebellion broke out in the capital Thang Long, forcing King Ly Cao Tong to flee. Crown Prince Sam fled to Hai Ap (Thai Binh), was sheltered by the Tran clan, and married Tran Thi Dung.
 *   **1210:** Ly Cao Tong passed away, Ly Sam ascended the throne (Ly Hue Tong). The power of the Tran clan grew stronger.
 *   **Jun. 1225:** Ly Hue Tong was ill and had no son, so he passed the throne to his second daughter, Ly Chieu Hoang (7 years old).
-*   **Jan. 10, 1226:** Under the arrangement of Tran Thu Do, Ly Chieu Hoang ceded the throne to her husband, Tran Canh. The Ly dynasty ended.
+*   **Jan. 10, 1226:** Under the arrangement of Tran Thu Do, Ly Chieu Hoang ceded the throne to her husband, Tran Canh (Tran Thai Tong). The Ly dynasty ended.
 
 ### **Dai Viet Period (Tran Dynasty, 1225 - 1400)**
 
@@ -120,6 +121,8 @@
 *   **Mar. 1258:** Tran Thai Tong ceded the throne to his son, Tran Hoang (Tran Thanh Tong).
 *   **1267:** The Yuan dynasty presented "six demands" to Dai Viet, including that the Tran king must pay tribute in person and allow the appointment of administrators.
 *   **1272:** Le Van Huu completed the *Dai Viet su ky*, the first national history of Vietnam.
+*   **Oct. 24, 1278:** Emperor Trần Thánh Tông abdicated the throne in favor of Crown Prince Trần Khâm (later known as Emperor Trần Nhân Tông).
+*   **1282:** The first work written in chữ Nôm (Vietnamese demotic script) was *Văn tế cá sấu* (Eulogy for the Crocodile) by Nguyễn Thuyên, composed during the Trần dynasty. This was a text commissioned by Emperor Trần Nhân Tông to drive away a crocodile that had appeared in the Red River.
 *   **Dec. 1282:** Yuan forces under the command of Sogetu attacked Champa, initiating the plan to invade Dai Viet from the south.
 *   **Mar. 19, 1283:** Yuan forces under Sogetu were defeated by the Champa army and had to retreat.
 *   **Dec. 1284:** King Tran convened the Dien Hong Conference, asking for the opinions of elders throughout the country on whether to make peace or fight.
@@ -129,17 +132,32 @@
 *   **Dec. 1287:** Yuan forces under the command of Toghon launched the third invasion of Dai Viet.
 *   **1288 (early year):** Tran Khanh Du commanded the Battle of Van Don, completely destroying the enemy's supply fleet led by Zhang Wenhu.
 *   **Apr. 9, 1288:** The historic Battle of Bach Dang. The Yuan navy was completely annihilated under the command of Hung Dao Vuong Tran Quoc Tuan. The third resistance war against the Mongol-Yuan invaders ended in a glorious victory.
+*   **Apr. 16, 1293:** Tran Nhan Tong abdicated the throne in favor of Crown Prince Tran Thuyen (later Tran Anh Tong).
 *   **Around the 14th century:** The legends of Lac Long Quan and Au Co, Phu Dong Thien Vuong (Saint Giong), and Son Tinh - Thuy Tinh were first recorded in the historical book **Lĩnh Nam chích quái**.
 *   **1306:** The Champa king Che Man (Jaya Simhavarman III) offered the two prefectures of O and Ly as a wedding gift to marry Princess Huyen Tran.
 *   **1307:** The Tran dynasty renamed the two prefectures of O and Ly to Thuan and Hoa, incorporating them into Dai Viet's territory.
-*   **Aug. 1341:** King Tran Du Tong ordered the compilation of the *Hoang trieu dai dien* and *Hinh thu*.
+*   **Jul. 4, 1314:** Tran Anh Tong abdicated the throne in favor of Crown Prince Tran Manh (later Tran Minh Tong).
+*   **Mar. 18, 1329:** Tran Minh Tong abdicated the throne in favor of Crown Prince Tran Vuong (later Tran Hien Tong).
+*   **Nov. 6, 1341:** Emperor Trần Hiến Tông died without an heir. The retired emperor Trần Minh Tông assumed power.
+*   **Sep. 24, 1341:** Emperor Emeritus Tran Minh Tong abdicated the throne in favor of Prince Tran Hao (later Tran Du Tong).
+*   **Oct. 1341:** King Tran Du Tong ordered the compilation of the *Hoang trieu dai dien* and *Hinh thu*.
 *   **1361:** Champa under King Che Bong Nga began attacks and raids on Dai Viet, starting a long period of conflict.
+*   **May 25, 1369:** Tran Du Tong died without an heir due to weakened health caused by excessive indulgence and intemperate lifestyle during his reign.
+*   **Jul. 18, 1369:** Duong Nhat Le (Tran Du Tong's adopted son) ascended the throne with the consent of Empress Dowager Hien Tu, following Du Tong's will.
+*   **Dec. 14, 1370:** Tran Phu (later Tran Nghe Tong) ascended the throne after Duong Nhat Le was deposed.
 *   **1371:** Champa forces led by Che Bong Nga attacked the capital Thang Long directly, plundering and burning down the palaces.
+*   **Dec. 14, 1372:** Tran Nghe Tong abdicated the throne in favor of his younger brother, Crown Prince Tran Kinh (later Tran Due Tong).
 *   **1374:** The court organized a doctoral examination, Dao Su Tich ranked as Trang Nguyen (First Laureate).
+*   **Apr. 4, 1377:** Emperor Trần Duệ Tông died in a battle against the Champa army. He personally commanded a large military campaign against Champa, but the campaign failed and he was killed in the Battle of Vijaya.
+*   **Mar. 1378:** Crown Prince Trần Hiệu (later Emperor Trần Phế Đế) ascended the throne.
 *   **1378:** The Tran dynasty began collecting a poll tax (3 quan/person) due to the depleted national treasury.
+*   **Jun. 12, 1388:** Emperor Trần Phế Đế was deposed, then imprisoned at Tư Phúc Pagoda and later killed on the orders of Emperor Emeritus Trần Nghệ Tông and Hồ Quý Ly.
+*   **Dec. 16, 1388:** Trần Nghệ Tông's son, Trần Ngung (later Emperor Trần Thuận Tông), ascended the throne.
 *   **1390:** General Tran Khat Chan commanded the battle on the Hai Trieu River (Luoc River), using firearms to kill the Champa king Che Bong Nga.
 *   **Apr. 1397:** Under the direction of Ho Quy Ly, the court carried out major administrative reforms, changing routes (lo) to circuits (tran) and reorganizing the levels of prefectures (phu), sub-prefectures (chau), and districts (huyen).
 *   **1398:** For the first time in history, the court ordered a nationwide land survey.
+*   **April 1398:** Ho Quy Ly forced Emperor Tran Thuan Tong to abdicate in favor of his two-year-old son, Tran Thieu De, and then forced him to retire to a secluded place in Thanh Hoa.
+*   **May 1399:** Ho Quy Ly sent his trusted general, Pham Kha Vinh, to the former emperor's residence. Pham Kha Vinh attempted to force Tran Thuan Tong to commit suicide by poison, but failed. Finally, Pham Kha Vinh strangled the former emperor to death. Tran Thuan Tong was buried at Yen Sinh mausoleum.
 
 ### **Ho Dynasty Period (1400 - 1407)**
 
@@ -328,6 +346,7 @@
 *   **1803:** Emperor Gia Long set the salary regulations for officials and soldiers in the Northern Citadel.
 *   **1804:** Emperor Gia Long ordered the casting of seals for the six ministries and promulgated the communal land allocation system.
 *   **1805:** Emperor Gia Long changed Phung Thien Prefecture to Hoai Duc Prefecture.
+*   **1805 - 1820:** The Tale of Kieu was composed by Nguyen Du in chữ Nôm (Vietnamese demotic script).
 *   **1807:** Emperor Gia Long organized the first regional examination (thi Huong).
 *   **1808:** Gia Long changed Gia Dinh Garrison to Gia Dinh Citadel.
 *   **1808 - 1819:** The uprising of the Tho chieftain Quach Tat Thuc in the Son Am region (now part of Ninh Binh, Hoa Binh).

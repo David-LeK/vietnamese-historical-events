@@ -48,6 +48,7 @@
 *   **931:** Dương Đình Nghệ đánh đuổi quân Nam Hán, tự xưng là Tiết độ sứ.
 *   **937:** Kiều Công Tiễn giết Dương Đình Nghệ để đoạt chức.
 *   **938:** Ngô Quyền đánh tan quân Nam Hán trên sông Bạch Đằng, kết thúc thời kỳ Bắc thuộc.
+*   **Khoảng thế kỷ X:** Chữ Nôm bắt đầu hình thành sau khi thoát khỏi ách đô hộ phương Bắc, ban đầu được dùng để ghi chép các tên người, địa danh.
 
 ### **Thời kỳ Độc lập (Ngô - Đinh - Tiền Lê)**
 
@@ -104,7 +105,7 @@
 *   **01/1209:** Loạn Quách Bốc nổ ra ở kinh thành Thăng Long, vua Lý Cao Tông phải bỏ chạy. Hoàng tử Sảm chạy về Hải Ấp (Thái Bình), được họ Trần che chở và lấy Trần Thị Dung làm vợ.
 *   **1210:** Lý Cao Tông mất, Lý Sảm lên ngôi (Lý Huệ Tông). Thế lực họ Trần ngày càng lớn mạnh.
 *   **06/1225:** Lý Huệ Tông bị bệnh, không có con trai, đã truyền ngôi cho con gái thứ là Lý Chiêu Hoàng (7 tuổi).
-*   **10/01/1226:** Dưới sự sắp đặt của Trần Thủ Độ, Lý Chiêu Hoàng nhường ngôi cho chồng là Trần Cảnh. Vương triều Lý kết thúc.
+*   **10/01/1226:** Dưới sự sắp đặt của Trần Thủ Độ, Lý Chiêu Hoàng nhường ngôi cho chồng là Trần Cảnh (Trần Thái Tông). Vương triều Lý kết thúc.
 
 ### **Thời kỳ Đại Việt (Triều Trần, 1225 - 1400)**
 
@@ -120,6 +121,8 @@
 *   **03/1258:** Trần Thái Tông nhường ngôi cho con là Trần Hoảng (Trần Thánh Tông).
 *   **1267:** Nhà Nguyên đưa ra "sáu việc" yêu sách đối với Đại Việt, bao gồm việc vua Trần phải sang chầu và đặt quan cai trị.
 *   **1272:** Lê Văn Hưu hoàn thành bộ *Đại Việt sử ký*, bộ quốc sử đầu tiên của Việt Nam.
+*   **24/10/1278:** Trần Thánh Tông nhường ngôi cho Thái tử Trần Khâm (sau là Trần Nhân Tông).
+*   **1282:** Tác phẩm đầu tiên viết bằng chữ Nôm là *Văn tế cá sấu* của Nguyễn Thuyên, sáng tác dưới triều đại nhà Trần. Đây là bài văn được vua Trần Nhân Tông sai viết để đuổi con cá sấu xuất hiện trên sông Hồng.
 *   **12/1282:** Quân Nguyên do Toa Đô chỉ huy tấn công Champa, mở đầu cho kế hoạch xâm lược Đại Việt từ phía Nam.
 *   **19/03/1283:** Quân Nguyên do Toa Đô chỉ huy bị quân Champa đánh bại, phải rút quân.
 *   **12/1284:** Vua Trần triệu tập Hội nghị Diên Hồng, hỏi ý kiến các bô lão trong cả nước về việc hòa hay đánh.
@@ -129,17 +132,32 @@
 *   **12/1287:** Quân Nguyên do Thoát Hoan chỉ huy tiến hành cuộc xâm lược Đại Việt lần thứ ba.
 *   **1288 (đầu năm):** Trần Khánh Dư chỉ huy trận Vân Đồn, tiêu diệt hoàn toàn đoàn thuyền lương của giặc do Trương Văn Hổ chỉ huy.
 *   **09/04/1288:** Trận Bạch Đằng lịch sử. Thủy quân Nguyên bị tiêu diệt hoàn toàn dưới sự chỉ huy của Hưng Đạo vương Trần Quốc Tuấn. Cuộc kháng chiến chống Mông-Nguyên lần thứ ba kết thúc thắng lợi vẻ vang.
+*   **16/04/1293:** Trần Nhân Tông nhường ngôi cho Thái tử Trần Thuyên (sau là Trần Anh Tông).
 *   **Khoảng thế kỷ XIV:** Truyền thuyết Lạc Long Quân và Âu Cơ, Phù Đổng Thiên Vương (Thánh Gióng), và Sơn Tinh - Thủy Tinh được ghi chép lần đầu tiên trong bộ sách sử **Lĩnh Nam chích quái**.
 *   **1306:** Vua Champa là Chế Mân dâng hai châu Ô và Lý để làm sính lễ cưới công chúa Huyền Trân.
 *   **1307:** Nhà Trần đổi tên hai châu Ô, Lý thành châu Thuận và châu Hóa, sáp nhập vào lãnh thổ Đại Việt.
-*   **08/1341:** Vua Trần Dụ Tông ra lệnh biên soạn bộ *Hoàng triều đại điển* và *Hình thư*.
+*   **07/04/1314:** Trần Anh Tông nhường ngôi cho Thái tử Trần Mạnh (sau là Trần Minh Tông).
+*   **18/03/1329:** Trần Minh Tông nhường ngôi cho Thái tử Trần Vượng (sau là Trần Hiến Tông).
+*   **11/06/1341:** Trần Hiến Tông băng hà mà không có con nối dõi. Thái thượng hoàng Trần Minh Tông nắm quyền.
+*   **24/09/1341:** Thái thượng hoàng Trần Minh Tông nhường ngôi cho Hoàng tử Trần Hạo (sau là Trần Dụ Tông).
+*   **10/1341:** Vua Trần Dụ Tông ra lệnh biên soạn bộ *Hoàng triều đại điển* và *Hình thư*.
 *   **1361:** Champa dưới thời vua Chế Bồng Nga bắt đầu các cuộc tấn công, cướp phá vào Đại Việt, mở đầu một thời kỳ xung đột kéo dài.
+*   **25/5/1369:** Trần Dụ Tông qua đời mà không có con nối dõi vì sức khỏe suy yếu do hưởng lạc và sinh hoạt không điều độ trong thời gian trị vì.
+*   **18/07/1369:** Dương Nhật Lễ (con nuôi của Trần Dụ Tông) lên ngôi trong bối cảnh Hoàng thái hậu Hiền Từ đã đồng ý theo di chiếu của Dụ Tông.
+*   **14/12/1370:** Trần Phủ (sau là Trần Nghệ Tông) lên ngôi sau khi Dương Nhật Lễ bị phế truất.
 *   **1371:** Quân Champa do Chế Bồng Nga chỉ huy đánh thẳng vào kinh thành Thăng Long, cướp phá và đốt trụi cung điện.
+*   **14/12/1372:** Trần Nghệ Tông nhường ngôi cho em trai là Thái tử Trần Kính (sau là Trần Duệ Tông).
 *   **1374:** Triều đình tổ chức khoa thi Đình, Đào Sư Tích đỗ Trạng nguyên.
+*   **04/03/1377:** Trần Duệ Tông mất trong một trận chiến với quân Chiêm Thành. Ông đã đích thân chỉ huy một chiến dịch quân sự lớn chống lại Chiêm Thành nhưng chiến dịch đã thất bại và ông đã bị giết ở trận Vijaya.
+*   **03/1378:** Thái tử Trần Hiệu (sau là Trần Phế Đế) lên ngôi.
 *   **1378:** Nhà Trần bắt đầu thu thuế thân (3 quan/người) do quốc khố cạn kiệt.
+*   **06/12/1388:** Trần Phế Đế bị phế truất, sau đó bị giam tại chùa Tư Phúc và bị giết theo lệnh của Thượng hoàng Trần Nghệ Tông và Hồ Quý Ly.
+*   **16/12/1388:** Con trai Trần Nghệ Tông là Trần Ngung (sau là Trần Thuận Tông) lên ngôi.
 *   **1390:** Thượng tướng quân Trần Khát Chân chỉ huy trận đánh trên sông Hải Triều (sông Luộc), dùng súng thần cơ giết chết vua Champa là Chế Bồng Nga.
 *   **04/1397:** Dưới sự điều khiển của Hồ Quý Ly, triều đình tiến hành cải cách hành chính lớn, đổi các lộ thành trấn và chia lại các cấp phủ, châu, huyện.
 *   **1398:** Lần đầu tiên trong lịch sử, triều đình cho đo đạc ruộng đất trên toàn quốc.
+*   **04/1398:** Hồ Quý Ly ép vua Trần Thuận Tông nhường ngôi cho con trai mới 2 tuổi là Trần Thiếu Đế để lui về làm Thái thượng hoàng, rồi sau đó ép đi tu ở một nơi vắng vẻ tại Thanh Hóa.
+*   **05/1399:** Hồ Quý Ly sai người tâm phúc là tướng Phạm Khả Vĩnh đến nơi ở của cựu hoàng đế. Phạm Khả Vĩnh đã ép Trần Thuận Tông tự tử bằng thuốc độc, nhưng không thành. Cuối cùng, chính Phạm Khả Vĩnh đã thắt cổ cựu hoàng đế đến chết. Trần Thuận Tông được chôn cất tại lăng Yên Sinh.
 
 ### **Thời kỳ Nhà Hồ (1400 - 1407)**
 
@@ -328,6 +346,7 @@
 *   **1803:** Vua Gia Long định lệ lương bổng cho quan và quân ở Bắc thành.
 *   **1804:** Vua Gia Long cho đúc ấn của 6 bộ và ban hành phép quân điền (chia ruộng).
 *   **1805:** Vua Gia Long cho đổi phủ Phụng Thiên thành phủ Hoài Đức.
+*   **1805 - 1820:** Truyện Kiều được Nguyễn Du sáng tác bằng chữ Nôm.
 *   **1807:** Vua Gia Long tổ chức khoa thi Hương đầu tiên.
 *   **1808:** Gia Long cho đổi Gia Định trấn thành Gia Định thành.
 *   **1808 - 1819:** Cuộc nổi dậy của Thổ tù Quách Tất Thúc ở vùng Sơn Âm (nay thuộc Ninh Bình, Hòa Bình).
