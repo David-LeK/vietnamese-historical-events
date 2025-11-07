@@ -1104,6 +1104,7 @@
     * **Commune level:** Including communes (rural areas), wards (urban areas), and special zones.
 *   **Jul. 1, 2025:** District-level governments, including urban districts, rural districts, city-level municipalities (under provinces), city-level municipalities (under centrally-run cities), and towns, officially ceased operations. The two-level model of provincial and commune governments officially began operation.
 *   **Sep. 2025:** Vietnam officially waives tuition fees for students from preschool to public high schools.
+*   **02/09/2025:** Commemoration of the 80th anniversary of the National Day of the Socialist Republic of Vietnam.
 *   **Sep. 03, 2025:** The world's largest lacquer painting is "President Ho Chi Minh Reading the Declaration of Independence" by young artist Chu Nhat Quang, which has been recognized by the Guinness World Records organization.
 *   **Oct. 25, 2025:** Organized the "Golden Autumn Fair" at VEC. On the same day, the number 25 made from bread was awarded a Guinness World Record for "Largest number made from bread" at RMIT University Vietnam, to commemorate the 25th anniversary of KOTO.
 *   **Oct. 25 - 26, 2025:** Signing Ceremony of the United Nations Convention on Countering Cybercrime (Hanoi Convention).
