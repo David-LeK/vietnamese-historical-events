@@ -13,6 +13,7 @@
 *   **Approximately late 3rd millennium BC - early 2nd millennium BC:** Phung Nguyen Culture period, marking the beginning of the Metal Age.
 *   **Approximately 2,000 - 1,500 BC (4,000 - 3,500 years ago):** Bau Tro Culture period.
 *   **Approximately 15th - 9th centuries BC:** Dong Dau Culture period.
+*   **Around the 3rd - 2nd century BC:** Buddhism was introduced to Vietnam by sea from India. This was the earliest religion to arrive and has been localized, becoming a dominant ideology in national culture throughout many historical periods.
 *   **Approximately 1,100 - 700 BC:** Go Mun Culture period.
 
 ### **Nation Building and Northern Domination Period**
@@ -104,7 +105,7 @@
 *   **1150:** The Do Anh Vu rebellion occurred in the royal court.
 *   **Aug. 14, 1175:** Ly Anh Tong passed away, Ly Long Can ascended the throne (Ly Cao Tong) at the age of 2.
 *   **1181:** A great famine occurred, causing nearly half the population to die.
-*   **13th century:** Italian explorer Marco Polo visited and described Con Dao Island in his memoirs.
+*   **13th century:** Italian explorer Marco Polo visited and described Con Dao Island in his memoirs. In the same century, Islam was also introduced, primarily through the Cham community.
 *   **1203:** King Ly Cao Tong ordered the construction of many lavish palaces, causing further misery to the people, and banditry arose.
 *   **Jan. 1209:** The Quach Boc rebellion broke out in the capital Thang Long, forcing King Ly Cao Tong to flee. Crown Prince Sam fled to Hai Ap (Thai Binh), was sheltered by the Tran clan, and married Tran Thi Dung.
 *   **1210:** Ly Cao Tong passed away, Ly Hao Sam ascended the throne (Ly Hue Tong). The power of the Tran clan grew stronger.
@@ -231,6 +232,7 @@
 *   **1483:** The court promulgated the *Quoc trieu hinh luat* (National Dynasty's Penal Code), commonly known as the Hong Duc Code.
 *   **1490:** The map of the 13 provinces of the country was redefined.
 *   **1497:** King Le Thanh Tong passed away. Le Hien Tong ascended the throne.
+*   **16th century:** Catholicism began to be introduced, with the arrival of Franciscan and Dominican missionaries.
 *   **1504:** Le Hien Tong passed away, Le Tuc Tong ascended the throne but passed away after 6 months.
 *   **1505:** Le Uy Muc ascended the throne. The court began to fall into disarray; the king was cruel, killed relatives, and power fell into the hands of the empress's family.
 *   **Dec. 19, 1509:** Gian Tu Cong Le Oanh (grandson of Le Thanh Tong) raised an army from Thanh Hoa, marched on Thang Long, killed Le Uy Muc, and proclaimed himself king (Le Tuong Duc).
@@ -475,6 +477,7 @@
 *   **Sep. 1908:** France and Japan signed a treaty, under which the Japanese government expelled Vietnamese patriots and students, leading to the collapse of the Dong Du Movement.
 *   **Dec. 1908:** The French colonialists ordered the closure of the Dong Kinh Nghia Thuc school and suppressed its participants.
 *   **Aug. 1909 - Jan. 1910:** The uprising of the Muong people in Hoa Binh, led by Doc Bang and Tong Kiem.
+*   **Nov. 18, 1911:** Protestantism established its first base in Da Nang, officially entering Vietnam.
 *   **Nov. 1911:** Albert Sarraut assumed the post of Governor-General, continuing to promote the "association" policy and demagogic reforms.
 *   **May 1912:** Phan Boi Chau founded the Viet Nam Quang Phuc Hoi (Vietnam Restoration League) in Guangzhou (China), shifting from a constitutional monarchy stance to a democratic republic.
 *   **1913:** The North-South railway line was basically completed, connecting Hanoi and Saigon.
@@ -510,6 +513,7 @@
 *   **Jun. 29, 1919:** A decree reorganized the Ministry of Colonies in France and established the General Representation of the Colonies, strengthening the metropole's control.
 *   **Aug. 1919:** The "Boycott of Resident Aliens" (Hoa kieu) movement broke out, starting in Saigon and spreading throughout the country, demonstrating the national economic consciousness of the Vietnamese bourgeoisie.
 *   **Sep. 1, 1919:** The newspaper *Hoc bao* was launched to guide the new French education system in Tonkin and Annam.
+*   **1920:** Cao Dai, an indigenous religion, was founded (specifically in 1926 in Tay Ninh).
 *   **Jul. 16-17, 1920:** The newspaper *L'Humanité* in France published the full text of V.I. Lenin's *Theses on the National and Colonial Questions*, which had a profound impact on Nguyen Ai Quoc.
 *   **Sep. 28, 1920:** A decree reorganized the High Council of the Colonies in France.
 *   **Dec. 25-30, 1920:** At the Tours Congress of the French Socialist Party, Nguyen Ai Quoc voted in favor of joining the Third International and became one of the founding members of the French Communist Party.
@@ -585,6 +589,7 @@
 *   **May 1, 1938:** A huge rally with 25,000 participants was held openly at the Dau Xao area in Hanoi to celebrate International Workers' Day.
 *   **May 25, 1938:** The Association for the Propagation of Quốc ngữ (Hội Truyền bá quốc ngữ) was established.
 *   **Aug. 30, 1938:** The French government issued a decree on press freedom in Cochinchina, allowing the publication of Vietnamese-language newspapers without prior permission.
+*   **Jul. 5, 1939:** Hoa Hao Buddhism, an indigenous religion, was founded by Mr. Huynh Phu So in An Giang province.
 
 ### **Period of National Liberation Mobilization and the August Revolution (1939 - 1945)**
 
@@ -610,7 +615,7 @@
 *   **Aug. 13-15, 1945:** The National Conference of the Indochinese Communist Party in Tan Trao decided to launch a General Uprising to seize power nationwide.
 *   **Aug. 13, 1945:** The National Uprising Committee issued "Military Order No. 1."
 *   **Aug. 16-17, 1945:** The National People's Congress met in Tan Trao, endorsed the policy of a General Uprising, and elected the Vietnam National Liberation Committee (i.e., the Provisional Government) with Ho Chi Minh as Chairman.
-*   **Aug. 19, 1945:** The General Uprising succeeded in Hanoi.
+*   **Aug. 19, 1945:** The General Uprising succeeded in Hanoi (August Revolution).
 *   **Aug. 23, 1945:** The uprising succeeded in Hue.
 *   **Aug. 25, 1945:** The uprising succeeded in Saigon.
 *   **Aug. 28, 1945:** The National Liberation Committee was reorganized into the Provisional Government of the Democratic Republic of Vietnam.
