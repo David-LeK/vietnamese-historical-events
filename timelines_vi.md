@@ -989,8 +989,10 @@
 *   **11/01/2007:** Việt Nam chính thức trở thành thành viên thứ 150 của WTO.
 *   **16/10/2007:** Việt Nam lần đầu được bầu làm Ủy viên không thường trực Hội đồng Bảo an LHQ (nhiệm kỳ 2008-2009).
 *   **05/2008:** Nâng cấp quan hệ Đối tác chiến lược toàn diện với Trung Quốc.
+*   **31/07/2009:** Mộc bản triều Nguyễn được UNESCO công nhận là Di sản Tư liệu Thế giới.
 *   **30/09/2009:** Dân ca Quan họ Bắc Ninh được UNESCO công nhận là di sản.
 *   **01/10/2009:** Ca trù được UNESCO công nhận là Di sản Văn hóa Phi vật thể Cần Bảo vệ Khẩn cấp.
+*   **09/03/2010:** Bia Tiến sĩ Văn Miếu - Quốc Tử Giám được UNESCO công nhận là Di sản Tư liệu Thế giới.
 *   **01/08/2010:** Khu Trung tâm Hoàng thành Thăng Long được UNESCO công nhận là di sản.
 *   **01 - 10/10/2010:** Tổ chức Đại lễ 1000 năm Thăng Long - Hà Nội.
 *   **16/11/2010:** Hội Gióng ở đền Phù Đổng và đền Sóc Sơn đã được công nhận là Di sản văn hóa phi vật thể đại diện của nhân loại bởi UNESCO.
@@ -1013,27 +1015,33 @@
 *   **05/12/2013:** Nghệ thuật Đờn ca tài tử Nam Bộ được UNESCO công nhận là di sản.
 *   **2014:** Việt Nam lần đầu tham gia lực lượng gìn giữ hòa bình LHQ.
 *   **02/05/2014:** Trung Quốc hạ đặt giàn khoan Hải Dương 981 trong vùng đặc quyền kinh tế của Việt Nam.
+*   **14/05/2014:** Châu bản triều Nguyễn được UNESCO công nhận là Di sản Tư liệu Thế giới.
 *   **23/06/2014:** Quần thể danh thắng Tràng An được UNESCO công nhận là di sản.
+*   **27/11/2014:** Dân ca Ví, Giặm Nghệ Tĩnh được UNESCO công nhận là di sản.
 *   **02/07/2015:** Vườn Quốc gia Phong Nha - Kẻ Bàng được UNESCO công nhận lần hai về đa dạng sinh học.
 *   **06 - 10/07/2015:** Tổng Bí thư Nguyễn Phú Trọng lần đầu thăm chính thức Hoa Kỳ.
 *   **21/09/2015:** Công bố 43 triệu người Việt Nam thoát nghèo (theo Mục tiêu Thiên niên kỷ).
 *   **20 - 28/01/2016:** Đại hội XII của Đảng, đẩy mạnh chiến dịch chống tham nhũng ("đốt lò").
 *   **04/02/2016:** Việt Nam ký kết Hiệp định Đối tác xuyên Thái Bình Dương (TPP).
 *   **06/04/2016:** Bắt đầu sự cố môi trường biển do Formosa gây ra tại 4 tỉnh miền Trung.
+*   **19/05/2016:** Thơ văn trên kiến trúc cung đình Huế được UNESCO công nhận là Di sản Tư liệu Thế giới.
 *   **22/05/2016:** Bầu cử Quốc hội khóa XIV.
 *   **08/08/2016:** Chính phủ thành lập Học viện Dân tộc.
 *   **02 - 03/09/2016:** Ký tuyên bố chung nâng cấp quan hệ Đối tác chiến lược toàn diện với Ấn Độ.
 *   **29/09/2016:** Lần đầu tiên Chính phủ ban hành Quyết định phê duyệt *Đề án thống kê, theo dõi và đánh giá biến động dân số các dân tộc thiểu số.*
 *   **22 - 26/08/2016:** Tổng Bí thư Nguyễn Phú Trọng lần đầu đề cập đến ý tưởng ngoại giao *cây tre* tại Hội nghị Ngoại giao lần thứ 29. Ông đã sử dụng hình ảnh cây tre để nói về sự kiên cường, mềm dẻo và linh hoạt trong chính sách đối ngoại của Việt Nam.
+*   **01/12/2016:** Thực hành Tín ngưỡng Thờ Mẫu Tam phủ của người Việt được UNESCO công nhận là di sản.
 
 ### **Thời kỳ Hội nhập CPTPP & EVFTA và Đối phó Đại dịch COVID-19** (2017 - 2021)
 
 *   **06 - 11/11/2017:** Việt Nam đăng cai Tuần lễ Cấp cao APEC 2017 tại Đà Nẵng.
+*   **07/12/2017:** Nghệ thuật Bài chòi Trung Bộ được UNESCO công nhận là di sản.
 *   **27/01/2018:** Đội tuyển U23 Việt Nam lọt vào chung kết U23 châu Á.
 *   **08/03/2018:** Ký kết Hiệp định CPTPP (thay thế TPP).
 *   **14/01/2019:** Hiệp định CPTPP chính thức có hiệu lực với Việt Nam.
 *   **07/06/2019:** Việt Nam trúng cử Ủy viên không thường trực HĐBA LHQ (nhiệm kỳ 2020-2021).
 *   **30/06/2019:** Ký Hiệp định EVFTA và EVIPA với Liên minh châu Âu (EU).
+*   **12/12/2019:** Thực hành Then của người Tày, Nùng, Thái được UNESCO công nhận là di sản.
 *   **01/01/2020:** Việt Nam đảm nhận vai trò Chủ tịch ASEAN 2020 và Ủy viên không thường trực HĐBA.
 *   **23/01/2020:** Ghi nhận ca bệnh COVID-19 đầu tiên tại Việt Nam.
 *   **01/08/2020:** Hiệp định EVFTA chính thức có hiệu lực.
@@ -1045,7 +1053,9 @@
 
 *   **25/01 - 02/02/2021:** Đại hội XIII của Đảng, đặt mục tiêu đến 2030 và tầm nhìn 2045.
 *   **27/04/2021:** Bắt đầu Đợt dịch COVID-19 lần thứ tư (chủng Delta), chuyển chiến lược sang "thích ứng an toàn".
+*   **15/12/2021:** Nghệ thuật Xòe Thái được UNESCO công nhận là di sản.
 *   **12 - 23/05/2022:** Việt Nam tổ chức SEA Games 31 (bị hoãn từ 2021).
+*   **01/12/2022:** Lễ hội Vía Bà Chúa Xứ núi Sam được UNESCO công nhận là di sản.
 *   **12/2022:** Nâng cấp quan hệ Đối tác Chiến lược Toàn diện với Hàn Quốc.
 *   **30/12/2022:** GDP Việt Nam vượt mốc 400 tỷ USD.
 *   **01/01/2023:** Sổ hộ khẩu, sổ tạm trú giấy chính thức hết giá trị sử dụng.

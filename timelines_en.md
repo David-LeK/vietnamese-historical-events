@@ -989,8 +989,10 @@
 *   **Jan. 11, 2007:** Vietnam officially became the 150th member of the WTO.
 *   **Oct. 16, 2007:** Vietnam was elected for the first time as a non-permanent member of the UN Security Council (2008-2009 term).
 *   **May 2008:** Upgraded relations to a Comprehensive Strategic Partnership with China.
+*   **Jul. 31, 2009:** The woodblocks of the Nguyen Dynasty were recognized by UNESCO as a World Documentary Heritage.
 *   **Sep. 30, 2009:** Quan Ho Bac Ninh Folk Songs were recognized by UNESCO as a heritage.
 *   **Oct. 1, 2009:** Ca trù was recognized by UNESCO as an Intangible Cultural Heritage in Need of Urgent Safeguarding.
+*   **09/03/2010:** The doctoral steles at the Temple of Literature - Imperial Academy were recognized by UNESCO as a World Documentary Heritage.
 *   **Aug. 1, 2010:** The Central Sector of the Imperial Citadel of Thang Long was recognized by UNESCO as a heritage.
 *   **Oct. 1 - 10, 2010:** Organized the Grand Celebration of the 1000th Anniversary of Thang Long - Hanoi.
 *   **Nov. 16, 2010:** The Giong Festival at Phu Dong Temple and Soc Son Temple was recognized as a Representative List of the Intangible Cultural Heritage of Humanity by UNESCO.
@@ -1013,27 +1015,33 @@
 *   **Dec. 5, 2013:** The Art of Don Ca Tai Tu Music and Song in Southern Vietnam was recognized by UNESCO as a heritage.
 *   **2014:** Vietnam participated in UN peacekeeping forces for the first time.
 *   **May 2, 2014:** China deployed the Hai Duong 981 oil rig in Vietnam's exclusive economic zone.
+*   **May 14, 2014:** The Nguyen Dynasty's imperial archives were recognized by UNESCO as a World Documentary Heritage.
 *   **Jun. 23, 2014:** The Trang An Landscape Complex was recognized by UNESCO as a heritage.
+*   **Nov. 27, 2014:** The Ví and Giặm folk songs of Nghe Tinh were recognized by UNESCO as a heritage.
 *   **Jul. 2, 2015:** Phong Nha - Ke Bang National Park was recognized by UNESCO for the second time for its biodiversity.
 *   **Jul. 6 - 10, 2015:** General Secretary Nguyen Phu Trong paid his first official visit to the United States.
 *   **Sep. 21, 2015:** Announced that 43 million Vietnamese people had escaped poverty (according to the Millennium Development Goals).
 *   **Jan. 20 - 28, 2016:** The 12th National Congress of the Party, promoting the anti-corruption campaign ("blazing furnace").
 *   **Feb. 4, 2016:** Vietnam signed the Trans-Pacific Partnership (TPP) Agreement.
 *   **Apr. 6, 2016:** The marine environmental incident caused by Formosa began in 4 central provinces.
+*   **May 19, 2016:** The poetry and literature inscribed on the architecture of the Hue imperial palace were recognized by UNESCO as a World Documentary Heritage.
 *   **May 22, 2016:** Election of the 14th National Assembly.
 *   **Aug. 8, 2016:** The Government established the Vietnam Academy for Ethnic Minorities.
 *   **Sep. 2 - 3, 2016:** Signed a joint statement upgrading relations to a Comprehensive Strategic Partnership with India.
 *   **Sep. 29, 2016:** For the first time, the Government issued a Decision approving the *Project on statistics, monitoring, and evaluation of population changes of ethnic minorities.*
 *   **Aug. 22 - 26, 2016:** General Secretary Nguyen Phu Trong first mentioned the idea of *bamboo* diplomacy at the 29th Diplomatic Conference. He used the image of bamboo to talk about the resilience, flexibility, and adaptability of Vietnam's foreign policy.
+*   **Dec. 1, 2016:** The practice of worshipping the Mother Goddesses of the Three Realms by the Vietnamese people was recognized by UNESCO as a heritage.
 
 ### **Period of CPTPP & EVFTA Integration and Responding to the COVID-19 Pandemic** (2017 - 2021)
 
 *   **Nov. 6 - 11, 2017:** Vietnam hosted the APEC 2017 Economic Leaders' Week in Da Nang.
+*   **Dec. 7, 2017:** The Bài Chòi art form of Central Vietnam was recognized as a heritage by UNESCO.
 *   **Jan. 27, 2018:** The Vietnam U23 national team reached the final of the AFC U23 Championship.
 *   **Mar. 8, 2018:** Signed the CPTPP Agreement (replacing the TPP).
 *   **Jan. 14, 2019:** The CPTPP Agreement officially took effect for Vietnam.
 *   **Jun. 7, 2019:** Vietnam was elected as a non-permanent member of the UN Security Council (2020-2021 term).
 *   **Jun. 30, 2019:** Signed the EVFTA and EVIPA Agreements with the European Union (EU).
+*   **Dec. 12, 2019:** The Then ritual practices of the Tay, Nung, and Thai ethnic groups were recognized by UNESCO as a heritage.
 *   **Jan. 1, 2020:** Vietnam assumed the roles of ASEAN Chair 2020 and non-permanent member of the UN Security Council.
 *   **Jan. 23, 2020:** The first COVID-19 case was recorded in Vietnam.
 *   **Aug. 1, 2020:** The EVFTA Agreement officially took effect.
@@ -1045,7 +1053,9 @@
 
 *   **Jan. 25 - Feb. 2, 2021:** The 13th National Congress of the Party, set goals for 2030 and a vision to 2045.
 *   **Apr. 27, 2021:** The fourth wave of the COVID-19 epidemic began (Delta variant), shifting the strategy to "safe adaptation."
+*   **Dec. 15, 2021:** The Xoe Thai dance art form was recognized as a heritage by UNESCO.
 *   **May 12 - 23, 2022:** Vietnam hosted the 31st SEA Games (postponed from 2021).
+*   **Dec. 1, 2022:** The Ba Chua Xu Festival at Sam Mountain was recognized as a heritage site by UNESCO.
 *   **Dec. 2022:** Upgraded relations to a Comprehensive Strategic Partnership with South Korea.
 *   **Dec. 30, 2022:** Vietnam's GDP surpassed the $400 billion mark.
 *   **Jan. 1, 2023:** Paper household registration books and temporary residence books were officially invalidated.
