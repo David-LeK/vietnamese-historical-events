@@ -82,29 +82,33 @@
 *   **1028:** Lý Thái Tổ mất, Lý Phật Mã lên ngôi (Lý Thái Tông). Xảy ra "Loạn Tam vương" nhưng bị dẹp yên.
 *   **1029:** Vua Lý Thái Tông dẹp loạn ở giáp Đãn Nãi (Thanh Hóa) và cho đào kênh Đãn Nãi.
 *   **02/1040:** Vua Lý Thái Tông dạy các cung nữ dệt gấm vóc, khuyến khích sản xuất trong nước.
-*   **1042:** Triều đình ban hành bộ Hình thư, bộ luật thành văn đầu tiên của Việt Nam.
+*   **1042:** Triều đình ban hành bộ *Hình thư*, bộ luật thành văn đầu tiên của Việt Nam.
 *   **01/1044:** Lý Thái Tông thân chinh đánh Champa, chém được vua Champa là Sạ Đẩu tại trận.
 *   **1049:** Vua Lý Thái Tông cho xây dựng chùa Diên Hựu (chùa Một Cột).
 *   **1054:** Lý Thái Tông mất, Lý Nhật Tôn lên ngôi (Lý Thánh Tông), đổi quốc hiệu từ Đại Cồ Việt thành Đại Việt.
 *   **1069:** Lý Thánh Tông thân chinh đánh Champa, bắt được vua Chế Củ. Champa phải cắt 3 châu Bố Chính, Địa Lý, Ma Linh để chuộc tội.
 *   **1070:** Xây dựng Văn Miếu ở Thăng Long để thờ Khổng Tử.
+*   **12/1072:** Lý Thánh Tông mất, Lý Càn Đức (Lý Nhân Tông) lên ngôi do được truyền ngôi theo di chiếu của vua cha Lý Thánh Tông (lúc mới 7 tuổi).
 *   **02/1075:** Mở khoa thi đầu tiên trong lịch sử (Minh kinh bác học và Nho học tam trường). Lê Văn Thịnh đỗ đầu.
 *   **10/1075:** Lý Thường Kiệt chủ động chỉ huy hơn 10 vạn quân thủy bộ tiến đánh các căn cứ xâm lược của nhà Tống ở Ung Châu, Khâm Châu, Liêm Châu.
 *   **01/1076:** Quân Lý hạ thành Ung Châu sau 42 ngày vây hãm.
 *   **02/1076:** Quân Lý hạ thành Liêm Châu.
 *   **1076:** Lập Quốc Tử Giám, trường đại học đầu tiên của Việt Nam.
 *   **1077:** Cuộc kháng chiến chống Tống lần thứ hai diễn ra. Quân Tống do Quách Quỳ chỉ huy bị chặn đứng trên phòng tuyến sông Như Nguyệt và cuối cùng phải rút quân về nước.
+*   **1086:** Vua Lý Nhân Tông cho phép mở khoa thi đầu tiên để tuyển chọn nhân tài.
 *   **1104:** Lý Thường Kiệt đánh bại quân Champa, buộc vua Chế Ma Na phải trả lại 3 châu đã chiếm trước đó.
 *   **1108:** Triều đình cho đắp đê Cơ Xá ở Thăng Long để phòng chống lũ lụt sông Hồng.
+*   **15/01/1128:** Lý Nhân Tông mất, Lý Dương Hoán (Lý Thần Tông) lên ngôi do được truyền ngôi theo di chiếu của vua Lý Nhân Tông (Lý Nhân Tông không có con nên nhận Lý Dương Hoán làm con nuôi và truyền ngôi).
+*   **11/1138:** Lý Thần Tông mất, Lý Thiên Tộ (Lý Anh Tông) lên ngôi do được truyền ngôi theo di chiếu của vua cha Lý Thần Tông (lúc mới 3 tuổi).
 *   **02/1149:** Lập trang Vân Đồn (Quảng Ninh) để làm nơi cho thuyền buôn các nước vào buôn bán, chính thức mở ra thương cảng quốc tế đầu tiên.
 *   **1150:** Xảy ra vụ biến loạn Đỗ Anh Vũ trong triều đình.
-*   **1175:** Lý Anh Tông mất, Lý Long Cán lên ngôi (Lý Cao Tông) lúc mới 2 tuổi.
+*   **14/08/1175:** Lý Anh Tông mất, Lý Long Cán lên ngôi (Lý Cao Tông) lúc mới 2 tuổi.
 *   **1181:** Nạn đói lớn xảy ra, khiến dân chúng chết gần một nửa.
 *   **Thế kỷ XIII:** Nhà thám hiểm người Ý Marco Polo ghé thăm và mô tả về Côn Đảo trong hồi ký của mình.
 *   **1203:** Vua Lý Cao Tông cho xây dựng nhiều cung điện xa hoa, khiến dân chúng càng thêm khốn khổ, giặc cướp nổi lên.
 *   **01/1209:** Loạn Quách Bốc nổ ra ở kinh thành Thăng Long, vua Lý Cao Tông phải bỏ chạy. Hoàng tử Sảm chạy về Hải Ấp (Thái Bình), được họ Trần che chở và lấy Trần Thị Dung làm vợ.
-*   **1210:** Lý Cao Tông mất, Lý Sảm lên ngôi (Lý Huệ Tông). Thế lực họ Trần ngày càng lớn mạnh.
-*   **06/1225:** Lý Huệ Tông bị bệnh, không có con trai, đã truyền ngôi cho con gái thứ là Lý Chiêu Hoàng (7 tuổi).
+*   **1210:** Lý Cao Tông mất, Lý Hạo Sảm lên ngôi (Lý Huệ Tông). Thế lực họ Trần ngày càng lớn mạnh.
+*   **06/1225:** Lý Huệ Tông bị bệnh, không có con trai, đã truyền ngôi cho con gái thứ là Lý Thiên Hinh, hay Lý Chiêu Hoàng (7 tuổi). Bà đã trở thành nữ hoàng đầu tiên và duy nhất trong lịch sử Việt Nam.
 *   **10/01/1226:** Dưới sự sắp đặt của Trần Thủ Độ, Lý Chiêu Hoàng nhường ngôi cho chồng là Trần Cảnh (Trần Thái Tông). Vương triều Lý kết thúc.
 
 ### **Thời kỳ Đại Việt (Triều Trần, 1225 - 1400)**

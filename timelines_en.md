@@ -88,23 +88,27 @@
 *   **1054:** Ly Thai Tong passed away, Ly Nhat Ton ascended the throne (Ly Thanh Tong), and changed the national name from Dai Co Viet to Dai Viet.
 *   **1069:** Ly Thanh Tong personally led a campaign against Champa, capturing King Che Cu (Rudravarman III). Champa had to cede the three provinces of Bo Chinh, Dia Ly, and Ma Linh as ransom.
 *   **1070:** The Temple of Literature was built in Thang Long to worship Confucius.
+*   **Dec. 1072:** Ly Thanh Tong died, and Ly Can Duc (Ly Nhan Tong) ascended the throne, inheriting it according to the will of his father, Emperor Ly Thanh Tong (at the age of only 7).
 *   **Feb. 1075:** The first civil service examination in history was held (Minh kinh bac hoc and Nho hoc tam truong). Le Van Thinh ranked first.
 *   **Oct. 1075:** Ly Thuong Kiet proactively commanded over 100,000 land and naval troops to attack the Song dynasty's invasion bases in Yong, Qin, and Lian prefectures.
 *   **Jan. 1076:** The Ly army captured Yongzhou Citadel after a 42-day siege.
 *   **Feb. 1076:** The Ly army captured Lianzhou Citadel.
 *   **1076:** The Quoc Tu Giam (Imperial Academy), the first university of Vietnam, was established.
 *   **1077:** The second resistance war against the Song took place. The Song army, commanded by Guo Kui, was halted at the Nhu Nguyet river defense line and eventually had to retreat.
+*   **1086:** King Ly Nhan Tong authorized the first imperial examination to select talented individuals.
 *   **1104:** Ly Thuong Kiet defeated the Champa army, forcing King Che Ma Na (Jaya Indravarman II) to return the three provinces he had previously occupied.
 *   **1108:** The court ordered the construction of the Co Xa dike in Thang Long to prevent floods from the Red River.
+*   **Jan. 15, 1128:** Ly Nhan Tong died, and Ly Duong Hoan (Ly Than Tong) ascended the throne, inheriting it according to the will of Emperor Ly Nhan Tong (Ly Nhan Tong had no children, so he adopted Ly Duong Hoan and passed the throne to him).
+*   **Nov. 1138:** Ly Than Tong died, and Ly Thien To (Ly Anh Tong) ascended the throne, inheriting it according to the will of his father, Emperor Ly Than Tong (at the age of only 3 years old).
 *   **Feb. 1149:** The Van Don trading post (Quang Ninh) was established as a place for merchant ships from other countries to trade, officially opening the first international trading port.
 *   **1150:** The Do Anh Vu rebellion occurred in the royal court.
-*   **1175:** Ly Anh Tong passed away, Ly Long Can ascended the throne (Ly Cao Tong) at the age of 2.
+*   **Aug. 14, 1175:** Ly Anh Tong passed away, Ly Long Can ascended the throne (Ly Cao Tong) at the age of 2.
 *   **1181:** A great famine occurred, causing nearly half the population to die.
 *   **13th century:** Italian explorer Marco Polo visited and described Con Dao Island in his memoirs.
 *   **1203:** King Ly Cao Tong ordered the construction of many lavish palaces, causing further misery to the people, and banditry arose.
 *   **Jan. 1209:** The Quach Boc rebellion broke out in the capital Thang Long, forcing King Ly Cao Tong to flee. Crown Prince Sam fled to Hai Ap (Thai Binh), was sheltered by the Tran clan, and married Tran Thi Dung.
-*   **1210:** Ly Cao Tong passed away, Ly Sam ascended the throne (Ly Hue Tong). The power of the Tran clan grew stronger.
-*   **Jun. 1225:** Ly Hue Tong was ill and had no son, so he passed the throne to his second daughter, Ly Chieu Hoang (7 years old).
+*   **1210:** Ly Cao Tong passed away, Ly Hao Sam ascended the throne (Ly Hue Tong). The power of the Tran clan grew stronger.
+*   **Jun. 1225:** Ly Hue Tong was ill and had no son, so he passed the throne to his second daughter, Ly Thien Hinh, or Ly Chieu Hoang (7 years old). She became the first and only female monarch in Vietnamese history.
 *   **Jan. 10, 1226:** Under the arrangement of Tran Thu Do, Ly Chieu Hoang ceded the throne to her husband, Tran Canh (Tran Thai Tong). The Ly dynasty ended.
 
 ### **Dai Viet Period (Tran Dynasty, 1225 - 1400)**
