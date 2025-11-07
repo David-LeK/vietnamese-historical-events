@@ -906,6 +906,7 @@
 *   **18/04/1979:** Vòng đàm phán cấp Thứ trưởng Ngoại giao Việt Nam - Trung Quốc lần thứ nhất bắt đầu tại Hà Nội.
 *   **08/1979:** Hội nghị lần thứ 6 Ban Chấp hành Trung ương Đảng (khóa IV) ra nghị quyết "Về tình hình và nhiệm vụ cấp bách", thừa nhận những khó khăn, yếu kém trong quản lý kinh tế và đề ra chủ trương "làm cho sản xuất bung ra".
 *   **01/10/1979:** Tiến hành cuộc Tổng điều tra dân số lần thứ hai trong cả nước.
+*   **23/07/1980:** Anh hùng Phạm Tuân cùng nhà du hành vũ trụ Liên Xô Viktor Vassilyevich Gorbatko thực hiện chuyến bay trên tàu vũ trụ Soyuz 37 trong chương trình Interkosmos của Liên Xô. Ông là người Việt Nam đầu tiên và cũng là người châu Á đầu tiên bay vào vũ trụ, đưa Việt Nam trở thành quốc gia thứ 10 trên thế giới có công dân bay vào không gian.
 *   **18/12/1980:** Quốc hội khóa VI thông qua Hiến pháp năm 1980, Hiến pháp của thời kỳ quá độ lên chủ nghĩa xã hội.
 *   **13/01/1981:** Ban Bí thư ra Chỉ thị số 100/CT-TƯ ("Khoán 100") về việc cải tiến công tác khoán, mở rộng khoán sản phẩm đến nhóm và người lao động trong hợp tác xã nông nghiệp.
 *   **21/01/1981:** Hội đồng Chính phủ ra Quyết định số 25-CP, nhằm phát huy quyền chủ động sản xuất kinh doanh và quyền tự chủ tài chính của các xí nghiệp quốc doanh.

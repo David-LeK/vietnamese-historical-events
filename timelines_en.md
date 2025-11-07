@@ -906,6 +906,7 @@
 *   **Apr. 18, 1979:** The first round of Vietnam-China negotiations at the Deputy Foreign Minister level began in Hanoi.
 *   **Aug. 1979:** The 6th Conference of the Party Central Committee (4th tenure) issued a resolution on "The urgent situation and tasks," acknowledging difficulties and weaknesses in economic management and proposing a policy to "unfetter production."
 *   **Oct. 1, 1979:** The second national Population Census was conducted.
+*   **Jul. 23, 1980:** Hero Pham Tuan, along with Soviet cosmonaut Viktor Vassilyevich Gorbatko, made a flight aboard the Soyuz 37 spacecraft as part of the Soviet Interkosmos program. He was the first Vietnamese person and also the first Asian person to fly into space. This made Vietnam the 10th country in the world to have a citizen fly into space.
 *   **Dec. 18, 1980:** The 6th National Assembly passed the 1980 Constitution, the constitution of the period of transition to socialism.
 *   **Jan. 13, 1981:** The Party Secretariat issued Directive No. 100/CT-TU ("Contract 100") on improving the contract system, extending product-based contracts to groups and individual laborers in agricultural cooperatives.
 *   **Jan. 21, 1981:** The Council of Government issued Decision No. 25-CP, aiming to promote the autonomy in production and business and financial self-management of state-owned enterprises.
