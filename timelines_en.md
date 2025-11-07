@@ -937,10 +937,12 @@
 *   **Jul. 1992:** Vietnam officially signed the Treaty of Amity and Cooperation in Southeast Asia (Bali Treaty) and became an observer of ASEAN.
 *   **Jun. 1993:** The 5th Conference of the Party Central Committee (7th tenure) issued a resolution on continuing the renewal and development of the rural socio-economy.
 *   **Jul. 2, 1993:** The US announced it no longer opposed other countries and international financial institutions lending to Vietnam to repay its debts, a crucial step towards lifting the embargo.
+*   **Dec. 11, 1993:** The complex of monuments of the former imperial capital of Hue was recognized as a World Cultural Heritage site.
 *   **Early 1994:** Experimental internet connectivity activities began, in collaboration between Vietnamese and Australian scientists.
 *   **Jan. 20-25, 1994:** The Party's mid-term National Conference (7th tenure) identified four major risks facing the country and set out the task of promoting industrialization and modernization.
 *   **Feb. 3, 1994:** US President Bill Clinton announced the **complete lifting of the trade embargo** against Vietnam.
 *   **May 27, 1994:** The 500kV North-South high-voltage power transmission line officially became operational, unifying the power grids of the three regions and resolving the power shortage in the South and Central regions.
+*   **Dec. 17, 1994:** Ha Long Bay was recognized by UNESCO based on the criteria of its unique and aesthetically important natural landscape value.
 *   **Jan. 1995:** The 8th Conference of the Party Central Committee (7th tenure) discussed "Continuing to build and perfect the State of the Socialist Republic of Vietnam."
 *   **Jul. 12, 1995:** US President Bill Clinton and Vietnamese Prime Minister Vo Van Kiet simultaneously announced the **normalization of diplomatic relations** between the two countries.
 *   **Jul. 28, 1995:** Vietnam was officially admitted as the **7th member** of the Association of Southeast Asian Nations (ASEAN) in Brunei.
@@ -955,11 +957,13 @@
 *   **1998:** The Ho Chi Minh City Securities Trading Center was established by a decision of the Prime Minister.
 *   **Jul. 31, 1998:** The Prime Minister issued Decision 135/1998/QD-TTg on the socio-economic development program for especially difficult communes in mountainous, remote, and isolated areas (Program 135).
 *   **Nov. 1998:** The Politburo issued Resolution 06 on some issues of agriculture and the rural economy, for the first time officially recognizing and encouraging the development of the **farm economic model**.
+*   **Dec. 4, 1999:** The ancient town of Hoi An and the My Son Sanctuary were recognized as World Cultural Heritage Sites.
 *   **Dec. 30, 1999:** Vietnam and China officially signed the **Land Border Treaty**.
 *   **Jan. 1, 2000:** The **Enterprise Law** officially took effect, creating a breakthrough in administrative procedure reform, abolishing many sub-licenses, and strongly promoting the development of the private economic sector.
 *   **Jun. 15, 2000:** The Government issued Resolution 09/NQ-CP on economic restructuring and consumption of agricultural products, creating a legal basis for developing commercial agriculture.
 *   **Jul. 14, 2000:** The **Vietnam-U.S. Bilateral Trade Agreement (BTA)** was signed in Washington D.C., completing the process of economic normalization and opening up great opportunities for Vietnamese goods to enter the US market.
 *   **Jul. 28, 2000:** The first stock exchange trading session was held with only two initial listed stocks: REE and SAM.
+*   **Dec. 2, 2000:** UNESCO extended its recognition of Ha Long Bay based on the criteria of outstanding global geological and geomorphological value.
 *   **Dec. 25, 2000:** Vietnam and China signed the **Agreement on the Demarcation of the Tonkin Gulf** and the **Agreement on Fishery Cooperation**.
 
 ### **Period of BTA Integration and Overcoming the SARS Challenge** (2001 - 2006)
@@ -969,6 +973,7 @@
 *   **Dec. 10, 2001:** The BTA officially came into effect.
 *   **Feb. 26, 2003:** The first SARS infection case was recorded in Vietnam.
 *   **May 2003:** The WHO recognized Vietnam as the first country to successfully control the SARS epidemic.
+*   **03/07/2003:** Phong Nha - Ke Bang National Park was first recognized by UNESCO for its geological and geomorphological features.
 *   **Nov. 7, 2003:** Hue Royal Court Music (Nhã nhạc) was recognized by UNESCO as the first intangible heritage.
 *   **Dec. 2003:** Vietnam hosted the 22nd SEA Games.
 *   **2004:** The Prime Minister approved the overall development plan for Phu Quoc Island.
@@ -985,8 +990,11 @@
 *   **Oct. 16, 2007:** Vietnam was elected for the first time as a non-permanent member of the UN Security Council (2008-2009 term).
 *   **May 2008:** Upgraded relations to a Comprehensive Strategic Partnership with China.
 *   **Sep. 30, 2009:** Quan Ho Bac Ninh Folk Songs were recognized by UNESCO as a heritage.
+*   **Oct. 1, 2009:** Ca trù was recognized by UNESCO as an Intangible Cultural Heritage in Need of Urgent Safeguarding.
 *   **Aug. 1, 2010:** The Central Sector of the Imperial Citadel of Thang Long was recognized by UNESCO as a heritage.
 *   **Oct. 1 - 10, 2010:** Organized the Grand Celebration of the 1000th Anniversary of Thang Long - Hanoi.
+*   **Nov. 16, 2010:** The Giong Festival at Phu Dong Temple and Soc Son Temple was recognized as a Representative List of the Intangible Cultural Heritage of Humanity by UNESCO.
+*   **Jun. 27, 2011:** The Ho Dynasty Citadel was recognized as a World Cultural Heritage Site.
 *   **Nov. 24, 2011:** Xoan Singing of Phu Tho was recognized by UNESCO as a heritage.
 
 ### **Period of Legal Consolidation, East Sea Tensions, and Environmental Fluctuations** (2011 - 2016)
@@ -1006,6 +1014,7 @@
 *   **2014:** Vietnam participated in UN peacekeeping forces for the first time.
 *   **May 2, 2014:** China deployed the Hai Duong 981 oil rig in Vietnam's exclusive economic zone.
 *   **Jun. 23, 2014:** The Trang An Landscape Complex was recognized by UNESCO as a heritage.
+*   **Jul. 2, 2015:** Phong Nha - Ke Bang National Park was recognized by UNESCO for the second time for its biodiversity.
 *   **Jul. 6 - 10, 2015:** General Secretary Nguyen Phu Trong paid his first official visit to the United States.
 *   **Sep. 21, 2015:** Announced that 43 million Vietnamese people had escaped poverty (according to the Millennium Development Goals).
 *   **Jan. 20 - 28, 2016:** The 12th National Congress of the Party, promoting the anti-corruption campaign ("blazing furnace").
@@ -1042,6 +1051,7 @@
 *   **Jan. 1, 2023:** Paper household registration books and temporary residence books were officially invalidated.
 *   **Jan. 18, 2023:** The National Assembly dismissed State President Nguyen Xuan Phuc.
 *   **Sep. 10, 2023:** U.S. President Joe Biden visited Vietnam, upgrading relations to a Comprehensive Strategic Partnership.
+*   **Sep. 16, 2023:** UNESCO recognized Ha Long Bay - Cat Ba Archipelago as an inter-provincial World Natural Heritage site.
 *   **Nov. 27, 2023:** Upgraded relations to a Comprehensive Strategic Partnership with Japan.
 *   **Jan. 18, 2024:** The National Assembly passed the Land Law (amended).
 *   **Mar. 7, 2024:** Upgraded relations to a Comprehensive Strategic Partnership with Australia.

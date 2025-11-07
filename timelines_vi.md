@@ -937,10 +937,12 @@
 *   **07/1992:** Việt Nam chính thức ký Hiệp ước Thân thiện và Hợp tác ở Đông Nam Á (Hiệp ước Bali) và trở thành quan sát viên của ASEAN.
 *   **06/1993:** Hội nghị lần thứ 5 Ban Chấp hành Trung ương Đảng (khóa VII) ra nghị quyết về tiếp tục đổi mới và phát triển kinh tế - xã hội nông thôn.
 *   **02/07/1993:** Mỹ tuyên bố không còn phản đối các nước và tổ chức tài chính quốc tế cho Việt Nam vay vốn để trả nợ, một bước đi quan trọng tiến tới dỡ bỏ cấm vận.
+*   **11/12/1993:** Quần thể di tích Cố đô Huế được công nhận là Di sản Văn hóa Thế giới.
 *   **Đầu 1994:** Các hoạt động thử nghiệm kết nối internet đã bắt đầu, với sự hợp tác giữa các nhà khoa học Việt Nam và Úc.
 *   **20-25/01/1994:** Hội nghị đại biểu toàn quốc giữa nhiệm kỳ của Đảng (khóa VII) xác định bốn nguy cơ lớn đối với đất nước và đề ra nhiệm vụ thúc đẩy công nghiệp hóa, hiện đại hóa.
 *   **03/02/1994:** Tổng thống Mỹ Bill Clinton tuyên bố **bãi bỏ hoàn toàn lệnh cấm vận thương mại** đối với Việt Nam.
 *   **27/05/1994:** Đường dây tải điện cao thế 500kV Bắc - Nam chính thức đi vào vận hành, hợp nhất hệ thống điện ba miền, giải quyết tình trạng thiếu điện ở miền Nam và miền Trung.
+*   **17/12/1994:** Vịnh Hạ Long được UNESCO công nhận dựa trên tiêu chí về giá trị cảnh quan thiên nhiên độc đáo và quan trọng về mặt thẩm mỹ.
 *   **01/1995:** Hội nghị lần thứ 8 Ban Chấp hành Trung ương Đảng (khóa VII) bàn về "Tiếp tục xây dựng và hoàn thiện Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam".
 *   **12/07/1995:** Tổng thống Mỹ Bill Clinton và Thủ tướng Việt Nam Võ Văn Kiệt đồng thời tuyên bố **bình thường hóa quan hệ ngoại giao** giữa hai nước.
 *   **28/07/1995:** Việt Nam chính thức được kết nạp làm **thành viên thứ 7** của Hiệp hội các quốc gia Đông Nam Á (ASEAN) tại Brunei.
@@ -955,11 +957,13 @@
 *   **1998:** Trung tâm Giao dịch Chứng khoán TP. Hồ Chí Minh được thành lập theo quyết định của Thủ tướng Chính phủ
 *   **31/07/1998:** Thủ tướng Chính phủ ban hành Quyết định 135/1998/QĐ-TTg về chương trình phát triển kinh tế - xã hội các xã đặc biệt khó khăn miền núi và vùng sâu, vùng xa (Chương trình 135).
 *   **11/1998:** Bộ Chính trị ra Nghị quyết 06 về một số vấn đề nông nghiệp và kinh tế nông thôn, lần đầu tiên chính thức thừa nhận và khuyến khích phát triển **mô hình kinh tế trang trại**.
+*   **04/12/1999:** Đô thị cổ Hội An và Thánh địa Mỹ Sơn được công nhận là Di sản Văn hóa Thế giới.
 *   **30/12/1999:** Việt Nam và Trung Quốc chính thức ký kết **Hiệp ước Biên giới trên đất liền**.
 *   **01/01/2000:** **Luật Doanh nghiệp** chính thức có hiệu lực, tạo ra một bước đột phá trong cải cách thủ tục hành chính, bãi bỏ nhiều giấy phép con, thúc đẩy mạnh mẽ sự phát triển của khu vực kinh tế tư nhân.
 *   **15/06/2000:** Chính phủ ban hành Nghị quyết 09/NQ-CP về chuyển dịch cơ cấu kinh tế và tiêu thụ sản phẩm nông nghiệp, tạo cơ sở pháp lý để phát triển nông nghiệp hàng hóa.
 *   **14/07/2000:** **Hiệp định Thương mại song phương Việt Nam - Hoa Kỳ (BTA)** được ký kết tại Washington D.C., hoàn tất quá trình bình thường hóa về kinh tế và mở ra cơ hội lớn cho hàng hóa Việt Nam vào thị trường Mỹ.
 *   **28/07/2000:** Phiên giao dịch chứng khoán đầu tiên được tổ chức với chỉ hai mã cổ phiếu niêm yết ban đầu là REE và SAM.
+*   **02/12/2000:** UNESCO mở rộng công nhận Vịnh Hạ Long dựa trên tiêu chí về giá trị địa chất, địa mạo nổi bật toàn cầu.
 *   **25/12/2000:** Việt Nam và Trung Quốc ký **Hiệp định phân định Vịnh Bắc Bộ** và **Hiệp định Hợp tác nghề cá**.
 
 ### **Thời kỳ Hội nhập BTA và Vượt qua Thử thách SARS** (2001 - 2006)
@@ -969,6 +973,7 @@
 *   **10/12/2001:** Hiệp định BTA chính thức có hiệu lực.
 *   **26/02/2003:** Ghi nhận ca nhiễm SARS đầu tiên tại Việt Nam.
 *   **05/2003:** WHO công nhận Việt Nam là quốc gia đầu tiên khống chế thành công dịch SARS.
+*   **03/07/2003:** Vườn Quốc gia Phong Nha - Kẻ Bàng được UNESCO công nhận lần đầu về địa chất, địa mạo.
 *   **07/11/2003:** Nhã nhạc cung đình Huế được UNESCO công nhận là di sản phi vật thể đầu tiên.
 *   **12/2003:** Việt Nam đăng cai tổ chức SEA Games 22.
 *   **2004:** Thủ tướng Chính phủ phê duyệt đề án phát triển tổng thể đảo Phú Quốc.
@@ -985,8 +990,11 @@
 *   **16/10/2007:** Việt Nam lần đầu được bầu làm Ủy viên không thường trực Hội đồng Bảo an LHQ (nhiệm kỳ 2008-2009).
 *   **05/2008:** Nâng cấp quan hệ Đối tác chiến lược toàn diện với Trung Quốc.
 *   **30/09/2009:** Dân ca Quan họ Bắc Ninh được UNESCO công nhận là di sản.
+*   **01/10/2009:** Ca trù được UNESCO công nhận là Di sản Văn hóa Phi vật thể Cần Bảo vệ Khẩn cấp.
 *   **01/08/2010:** Khu Trung tâm Hoàng thành Thăng Long được UNESCO công nhận là di sản.
 *   **01 - 10/10/2010:** Tổ chức Đại lễ 1000 năm Thăng Long - Hà Nội.
+*   **16/11/2010:** Hội Gióng ở đền Phù Đổng và đền Sóc Sơn đã được công nhận là Di sản văn hóa phi vật thể đại diện của nhân loại bởi UNESCO.
+*   **27/06/2011:** Thành nhà Hồ được công nhận là Di sản Văn hóa Thế giới.
 *   **24/11/2011:** Hát Xoan Phú Thọ được UNESCO công nhận là di sản.
 
 ### **Thời kỳ Củng cố Pháp lý, Căng thẳng Biển Đông và Biến động Môi trường** (2011 - 2016)
@@ -1006,6 +1014,7 @@
 *   **2014:** Việt Nam lần đầu tham gia lực lượng gìn giữ hòa bình LHQ.
 *   **02/05/2014:** Trung Quốc hạ đặt giàn khoan Hải Dương 981 trong vùng đặc quyền kinh tế của Việt Nam.
 *   **23/06/2014:** Quần thể danh thắng Tràng An được UNESCO công nhận là di sản.
+*   **02/07/2015:** Vườn Quốc gia Phong Nha - Kẻ Bàng được UNESCO công nhận lần hai về đa dạng sinh học.
 *   **06 - 10/07/2015:** Tổng Bí thư Nguyễn Phú Trọng lần đầu thăm chính thức Hoa Kỳ.
 *   **21/09/2015:** Công bố 43 triệu người Việt Nam thoát nghèo (theo Mục tiêu Thiên niên kỷ).
 *   **20 - 28/01/2016:** Đại hội XII của Đảng, đẩy mạnh chiến dịch chống tham nhũng ("đốt lò").
@@ -1042,6 +1051,7 @@
 *   **01/01/2023:** Sổ hộ khẩu, sổ tạm trú giấy chính thức hết giá trị sử dụng.
 *   **18/01/2023:** Quốc hội miễn nhiệm Chủ tịch nước Nguyễn Xuân Phúc.
 *   **10/09/2023:** Tổng thống Hoa Kỳ Joe Biden thăm Việt Nam, nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện.
+*   **16/09/2023:** UNESCO đã công nhận Vịnh Hạ Long - Quần đảo Cát Bà là Di sản Thiên nhiên Thế giới liên tỉnh.
 *   **27/11/2023:** Nâng cấp quan hệ Đối tác Chiến lược Toàn diện với Nhật Bản.
 *   **18/01/2024:** Quốc hội thông qua Luật Đất đai (sửa đổi).
 *   **07/03/2024:** Nâng cấp quan hệ Đối tác Chiến lược Toàn diện với Australia.
