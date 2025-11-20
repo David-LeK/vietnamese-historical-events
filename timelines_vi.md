@@ -281,7 +281,7 @@
 *   **Nửa đầu thế kỷ XVII:** Các Chúa Nguyễn đã cử *đội Hoàng Sa* ra hai quần đảo Hoàng Sa và Trường Sa để khai thác sản vật, thu lượm hàng hóa trôi dạt và thực thi chủ quyền, bao gồm đo vẽ hải trình, trồng cây và dựng mốc. Phú Quốc vẫn là một vùng đất hoang vu, chịu sự tranh chấp giữa Chân Lạp (Campuchia) và các thế lực khác.
 *   **1611:** Quân Nguyễn đánh Chiêm Thành, lấy được vùng đất phía nam đèo Cù Mông và lập ra phủ Phú Yên.
 *   **1614:** Nguyễn Phúc Nguyên (con Nguyễn Hoàng) lên thay, cải tổ bộ máy hành chính, tự bổ dụng quan lại, chính thức cắt đứt quan hệ lệ thuộc với họ Trịnh.
-*   **Khoảng 1615 - 1620:*** Các giáo sĩ phương Tây bắt đầu ghi chép tiếng Việt bằng chữ Latinh.
+*   **Khoảng 1615 - 1620:** Các giáo sĩ phương Tây bắt đầu ghi chép tiếng Việt bằng chữ Latinh.
 *   **1620:** Mâu thuẫn Trịnh - Nguyễn trở nên gay gắt, chúa Nguyễn ngừng nộp thuế cống.
 *   **03/1627:** Nội chiến Trịnh-Nguyễn chính thức bùng nổ. Lần thứ nhất, quân Trịnh do Trịnh Tráng chỉ huy tiến vào Nam nhưng bị đánh bại ở cửa Nhật Lệ.
 *   **1630 - 1631:** Ở Đàng Trong, Đào Duy Từ cho xây dựng hệ thống Lũy Thầy (Lũy Trường Dục và Lũy Nhật Lệ) kiên cố để phòng thủ.
