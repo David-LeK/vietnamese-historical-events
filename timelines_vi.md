@@ -325,13 +325,14 @@
 *   **1782:** Nguyễn Ánh chiếm lại được Gia Định.
 *   **1782:** Tại Đàng Ngoài, xảy ra "Loạn kiêu binh", quân lính kiêu binh nổi loạn làm triều chính họ Trịnh càng thêm suy yếu, tạo điều kiện cho quân Tây Sơn tiến ra Bắc sau này.
 *   **1783:** Nguyễn Huệ và Nguyễn Lữ đem quân vào đánh, Nguyễn Ánh lại thua trận, phải chạy sang Xiêm cầu viện.
+*   **03/1784:** Giám mục Pigneau de Béhaine (Bá Đa Lộc) thay mặt Nguyễn Ánh sang Pháp cầu viện.
 *   **07/1784:** 5 vạn quân Xiêm (2 vạn thủy, 3 vạn bộ) do Chiêu Tăng, Chiêu Sương chỉ huy cùng Nguyễn Ánh tiến vào xâm lược Gia Định.
 *   **19/01/1785:** Trận Rạch Gầm - Xoài Mút. Nguyễn Huệ tổ chức trận địa mai phục, đại phá quân Xiêm, tiêu diệt gần như toàn bộ quân xâm lược. Nguyễn Ánh lại phải chạy sang Xiêm.
 *   **06/1786:** Lấy danh nghĩa "phù Lê diệt Trịnh", Nguyễn Huệ chỉ huy đại quân Tây Sơn tiến ra Bắc.
 *   **21/07/1786:** Quân Tây Sơn tiến vào Thăng Long, lật đổ nền thống trị hơn 200 năm của họ Trịnh một cách nhanh chóng.
 *   **Cuối 1786:** Nguyễn Huệ được vua Lê gả công chúa Ngọc Hân. Anh em Tây Sơn chia nhau cai quản đất nước: Nguyễn Nhạc là Trung ương Hoàng đế (từ Quảng Ngãi vào Bình Thuận), Nguyễn Huệ là Bắc Bình vương (từ Hải Vân ra Bắc), Nguyễn Lữ là Đông Định vương (Gia Định).
 *   **1787:** Mâu thuẫn giữa Nguyễn Nhạc và Nguyễn Huệ nổ ra. Nguyễn Huệ đem quân vây thành Hoàng Đế, buộc Nguyễn Nhạc phải nhượng thêm đất Quảng Nam.
-*   **1787:** Trong Hiệp ước Versailles, Nguyễn Ánh nhượng Côn Đảo cho Pháp để đổi lấy sự hỗ trợ, nhưng hiệp ước này không thành hiện thực.
+*   **21/11/1787:** Trong Hiệp ước Versailles, Nguyễn Ánh nhượng Côn Đảo cho Pháp để đổi lấy sự hỗ trợ, nhưng hiệp ước này không thành hiện thực.
 *   **1788:** Nguyễn Ánh từ Xiêm trở về, lợi dụng Nguyễn Lữ yếu kém, chiếm lại Gia Định.
 *   **Cuối 1788:** Vua Lê Chiêu Thống chạy sang Trung Quốc cầu viện. 29 vạn quân Mãn Thanh do Tôn Sĩ Nghị chỉ huy tràn vào xâm lược nước ta, chiếm Thăng Long.
 *   **22/12/1788:** Tại Phú Xuân, Nguyễn Huệ lên ngôi Hoàng đế, lấy niên hiệu Quang Trung, rồi lập tức chỉ huy đại quân thần tốc tiến ra Bắc.

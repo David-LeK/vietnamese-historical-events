@@ -325,13 +325,14 @@
 *   **1782:** Nguyen Anh recaptured Gia Dinh.
 *   **1782:** In Dang Ngoai (the North), the 'Revolt of the Palace Guards' broke out. The rebellious guards further weakened the Trinh lords' court, creating favorable conditions for the later advance of the Tay Son army to the North.
 *   **1783:** Nguyen Hue and Nguyen Lu led troops to attack; Nguyen Anh was again defeated and had to flee to Siam (Thailand) to seek aid.
+*   **Mar. 1784:** Bishop Pigneau de Béhaine (Bá Đa Lộc) represented Nguyen Anh in going to France to ask for help.
 *   **Jul. 1784:** 50,000 Siamese troops (20,000 naval, 30,000 land) led by Chao Tseng and Chao Sương, along with Nguyen Anh, invaded Gia Dinh.
 *   **Jan. 19, 1785:** Battle of Rach Gam - Xoai Mut. Nguyen Hue set up an ambush, crushed the Siamese army, annihilating almost the entire invading force. Nguyen Anh had to flee to Siam again.
 *   **Jun. 1786:** Under the pretext of "supporting the Le, destroying the Trinh," Nguyen Hue commanded a large Tay Son army to advance north.
 *   **Jul. 21, 1786:** The Tay Son army entered Thang Long, quickly overthrowing the over 200-year rule of the Trinh lords.
 *   **Late 1786:** Nguyen Hue was given Princess Ngoc Han in marriage by the Le king. The Tay Son brothers divided the country to rule: Nguyen Nhac as the Central Emperor (from Quang Ngai to Binh Thuan), Nguyen Hue as the Northern Pacification King (from Hai Van Pass northwards), and Nguyen Lu as the Eastern Pacification King (Gia Dinh).
 *   **1787:** Conflict broke out between Nguyen Nhac and Nguyen Hue. Nguyen Hue led troops to besiege Hoang De Citadel, forcing Nguyen Nhac to cede more land in Quang Nam.
-*   **1787:** In the Treaty of Versailles, Nguyen Anh ceded Con Dao Island to France in exchange for support, but this treaty never materialized.
+*   **Nov. 21, 1787:** In the Treaty of Versailles, Nguyen Anh ceded Con Dao Island to France in exchange for support, but this treaty never materialized.
 *   **1788:** Nguyen Anh returned from Siam and, taking advantage of Nguyen Lu's weakness, recaptured Gia Dinh.
 *   **Late 1788:** King Le Chieu Thong fled to China to seek aid. 290,000 Manchu Qing troops led by Sun Shiyi poured into our country, occupying Thang Long.
 *   **Dec. 22, 1788:** In Phu Xuan, Nguyen Hue ascended the throne as Emperor, taking the era name Quang Trung, and immediately led a large army on a lightning march to the north.
