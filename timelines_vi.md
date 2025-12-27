@@ -1107,7 +1107,10 @@
 *   **09/2025:** Việt Nam chính thức miễn học phí cho học sinh từ mầm non đến THPT công lập.
 *   **02/09/2025:** Kỷ niệm 80 năm Ngày Quốc khánh nước Cộng hòa xã hội chủ nghĩa Việt Nam.
 *   **03/09/2025:** Tác phẩm sơn mài lớn nhất thế giới là bức tranh "Bác Hồ đọc Tuyên ngôn Độc lập" của họa sĩ trẻ Chu Nhật Quang, được Tổ chức Kỷ lục Guinness Thế giới công nhận.
+*   **25/09 - 06/12/2025:** Đợt "Đại hồng thủy 2025" tàn phá miền Bắc và miền Trung Việt Nam. Do ảnh hưởng của 5 cơn bão liên tiếp (số 9 đến số 13) và bão số 15, lũ lịch sử đã xuất hiện trên 20 con sông lớn. Đỉnh Bạch Mã (Huế) ghi nhận lượng mưa 24 giờ kỷ lục 1.739,6mm. Bộ Công an báo cáo năm 2025 thiên tai đã làm 415 người chết, mất tích, 728 người bị thương, thiệt hại hơn 91.000 tỷ đồng. "Chiến dịch Quang Trung" đang được đẩy mạnh để hỗ trợ xây dựng nhà ở cho người dân vùng lũ.
 *   **25/10/2025:** Tổ chức "Hội chợ Mùa thu Vàng" tại VEC. Cùng ngày, Hình số 25 làm từ bánh mì được xác lập kỷ lục Guinness là "Số lớn nhất làm từ bánh mì" (Largest number made from bread) tại Đại học RMIT Việt Nam, nhằm kỷ niệm 25 năm thành lập KOTO.
 *   **25 - 26/10/2025:** Lễ ký kết Công ước Liên Hợp Quốc về Chống tội phạm mạng (Công ước Hà Nội).
 *   **29/10/2025:** Nâng cấp quan hệ Đối tác chiến lược toàn diện với Vương quốc Anh (đạt 14 quốc gia).
-
+*   **29/10/2025:** Chủ tịch nước Lương Cường gặp Tổng thống Hoa Kỳ Donald Trump nhân dịp tham dự APEC.
+*   **19/12/2025:** Sân bay Long Thành chính thức khánh thành giai đoạn 1 và đón những chuyến bay nghi lễ đầu tiên.
+*   **24/12/2025:** Thủ tướng Phạm Minh Chính công bố chính thức thành lập Trung tâm Tài chính Quốc tế Việt Nam tại TP. HCM và Đà Nẵng.

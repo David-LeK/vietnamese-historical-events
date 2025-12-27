@@ -1107,6 +1107,10 @@
 *   **Sep. 2025:** Vietnam officially waives tuition fees for students from preschool to public high schools.
 *   **Sep. 02, 2025:** Commemoration of the 80th anniversary of the National Day of the Socialist Republic of Vietnam.
 *   **Sep. 03, 2025:** The world's largest lacquer painting is "President Ho Chi Minh Reading the Declaration of Independence" by young artist Chu Nhat Quang, which has been recognized by the Guinness World Records organization.
+*   **Sep. 25 - Dec. 6, 2025:** The "Great Flood of 2025" devastated Northern and Central Vietnam due to the impact of five consecutive typhoons (No. 9 to No. 13) and Typhoon No. 15. Historical flood records were broken on 20 major rivers. Notably, Bach Ma (Hue) recorded a 24-hour rainfall of 1,739.6 mm, the highest ever in Vietnam. The Ministry of Public Security reported that in 2025, natural disasters left 415 people dead or missing, 728 injured, and caused over 91 trillion VND in damage. The "Quang Trung Campaign" is actively being implemented to build homes for flood victims.
 *   **Oct. 25, 2025:** Organized the "Golden Autumn Fair" at VEC. On the same day, the number 25 made from bread was awarded a Guinness World Record for "Largest number made from bread" at RMIT University Vietnam, to commemorate the 25th anniversary of KOTO.
 *   **Oct. 25 - 26, 2025:** Signing Ceremony of the United Nations Convention on Countering Cybercrime (Hanoi Convention).
 *   **Oct. 29, 2025:** Upgraded relations to a Comprehensive Strategic Partnership with the United Kingdom (reaching 14 countries).
+*   **Oct. 29, 2025:** President Luong Cuong met with U.S. President Donald Trump on the sidelines of the APEC Summit.
+*   **Dec. 19, 2025:** Long Thanh International Airport officially inaugurated Phase 1 and welcomed the first ceremonial flights, preparing for commercial operations in 2026.
+*   **Dec. 24, 2025:** Prime Minister Pham Minh Chinh announced the official establishment of the Vietnam International Financial Centre in Ho Chi Minh City and Da Nang.
