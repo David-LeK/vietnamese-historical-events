@@ -4,10 +4,14 @@
 *   **Khoảng 300.000 năm trước:** Sự tồn tại của Người vượn thông qua các công cụ đá ở di chỉ Núi Đọ (Thanh Hóa).
 *   **Khoảng 250.000 - 140.000 năm trước:** Dấu tích Người tinh khôn (Homo Sapiens) sơ khai ở Thẩm Ôm (Nghệ An).
 *   **Khoảng 140.000 - 80.000 năm trước:** Dấu tích Người tinh khôn ở Hang Hùm (Yên Bái).
+*   **Khoảng 23.500 TCN (25.510 năm trước):** Thời kỳ Văn hóa Soi Nhụ (Quảng Ninh), nền văn hóa sớm cư trú trong hang động đá vôi ven biển.
+*   **Khoảng 21.000 TCN (23.000 năm trước):** Thời kỳ Văn hóa Tràng An (Ninh Bình), đặc trưng bởi sự thích ứng của người tiền sử với biến đổi khí hậu và biển tiến.
 *   **Khoảng 16.000 - 9.000 TCN (18.000 - 11.000 năm trước):** Thời kỳ Văn hóa Sơn Vi.
 *   **Khoảng 9.400 - 5.700 TCN (11.365 - 7.665 năm trước):** Thời kỳ Văn hóa Hòa Bình.
+*   **Khoảng 5.000 TCN (7.000 năm trước):** Thời kỳ Văn hóa Cái Bèo (Cát Bà, Hải Phòng), nền văn hóa tiền sử cư trú làng chài ven biển.
 *   **Khoảng 4.100 TCN (6.095 năm trước):** Niên đại của Văn hóa Đa Bút.
 *   **Khoảng 3.000 TCN (5.000 năm trước):** Niên đại của Văn hóa Quỳnh Văn.
+*   **Khoảng 3.000 TCN - 1.500 TCN:** Thời kỳ Văn hóa Hạ Long.
 *   **2879 TCN:** Theo thư tịch cổ, Kinh Dương Vương bắt đầu cai trị nước Xích Quỷ.
 *   **2879 - 258 TCN:** Giai đoạn 18 đời Hùng Vương trị vì. Đây cũng là khoảng thời gian mà truyền thuyết Lạc Long Quân và Âu Cơ, Phù Đổng Thiên Vương (Thánh Gióng), và Sơn Tinh - Thủy Tinh được cho là ra đời và truyền miệng.
 *   **Khoảng cuối thiên niên kỷ III TCN - đầu thiên niên kỷ II TCN:** Thời kỳ Văn hóa Phùng Nguyên, mở đầu thời đại kim khí.
@@ -15,6 +19,8 @@
 *   **Khoảng thế kỷ XV - IX TCN:** Thời kỳ Văn hóa Đồng Đậu.
 *   **Khoảng thế kỷ III - II TCN:** Phật giáo được du nhập vào bằng đường biển từ Ấn Độ. Đây là tôn giáo có mặt sớm nhất và đã được bản địa hóa, trở thành tư tưởng chủ đạo trong văn hóa dân tộc qua nhiều thời kỳ lịch sử.
 *   **Khoảng 1.100 - 700 TCN:** Thời kỳ Văn hóa Gò Mun.
+*   **Khoảng 1.000 TCN - 200 SCN:** Thời kỳ Văn hóa Sa Huỳnh (Miền Trung), nổi tiếng với táng tục mộ chum và kỹ thuật chế tác thủy tinh nhân tạo sớm.
+*   **Khoảng 500 TCN:** Thời kỳ Văn hóa Đồng Nai (Đông Nam Bộ), nền văn hóa kim khí kết nối giữa thời đại đồng thau và thời đại sắt sớm.
 
 ### **Thời kỳ Dựng nước và Bắc thuộc**
 
@@ -1067,6 +1073,7 @@
 *   **02/07/2015:** Vườn Quốc gia Phong Nha - Kẻ Bàng được UNESCO công nhận lần hai về đa dạng sinh học.
 *   **06 - 10/07/2015:** Tổng Bí thư Nguyễn Phú Trọng lần đầu thăm chính thức Hoa Kỳ.
 *   **21/09/2015:** Công bố 43 triệu người Việt Nam thoát nghèo (theo Mục tiêu Thiên niên kỷ).
+*   **31/12/2015:** Việt Nam chính thức tham gia thành lập Cộng đồng Kinh tế ASEAN (AEC).
 *   **20 - 28/01/2016:** Đại hội XII của Đảng, đẩy mạnh chiến dịch chống tham nhũng ("đốt lò").
 *   **04/02/2016:** Việt Nam ký kết Hiệp định Đối tác xuyên Thái Bình Dương (TPP).
 *   **06/04/2016:** Bắt đầu sự cố môi trường biển do Formosa gây ra tại 4 tỉnh miền Trung.
@@ -1120,6 +1127,7 @@
     * **Thiệt hại nhân mạng:** Khoảng 345 người chết và mất tích, hàng nghìn người bị thương.
     * **Thiệt hại kinh tế:** Hơn 81.700 tỷ đồng, tương đương khoảng 0,62% GDP năm 2023.
     * **Ảnh hưởng:** Nhiều tỉnh miền Bắc bị tàn phá nặng nề do bão và lũ lụt sau bão.
+*   **23/09/2024:** Tại Đại học Columbia (Mỹ), Tổng Bí thư Tô Lâm phát biểu về "Kỷ nguyên vươn mình" của dân tộc sau gần 80 năm lập nước và 40 năm Đổi mới.
 *   **07/10/2024:** Nâng cấp quan hệ Đối tác Chiến lược Toàn diện với Pháp.
 *   **21/10/2024:** Quốc hội bầu ông Lương Cường giữ chức Chủ tịch nước thay cho ông Tô Lâm.
 *   **21/11/2024:** Nâng cấp quan hệ Đối tác Chiến lược Toàn diện với Malaysia.

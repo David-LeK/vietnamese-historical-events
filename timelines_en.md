@@ -4,10 +4,14 @@
 *   **Approximately 300,000 years ago:** The existence of Ape-man is evidenced by stone tools at the Nui Do archaeological site (Thanh Hoa).
 *   **Approximately 250,000 - 140,000 years ago:** Traces of archaic Homo Sapiens in Tham Om (Nghe An).
 *   **Approximately 140,000 - 80,000 years ago:** Traces of Homo Sapiens in Hang Hum (Yen Bai).
+*   **Approximately 23,500 BC (25,510 years ago):** Soi Nhu Culture period (Quang Ninh), one of the earliest cultures with traces of human habitation in limestone caves near the sea.
+*   **Approximately 21,000 BC (23,000 years ago):** Trang An Culture period (Ninh Binh), characterized by cave dwelling adaptation to climate change and sea-level transgression.
 *   **Approximately 16,000 - 9,000 BC (18,000 - 11,000 years ago):** Son Vi Culture period.
 *   **Approximately 9,400 - 5,700 BC (11,365 - 7,665 years ago):** Hoa Binh Culture period.
+*   **Approximately 7,000 - 5,000 BC:** Cai Beo Culture period (Cat Ba, Hai Phong), a prehistoric culture residing in coastal fishing villages.
 *   **Approximately 4,100 BC (6,095 years ago):** Date of the Da But Culture.
 *   **Approximately 3,000 BC (5,000 years ago):** Date of the Quynh Van Culture.
+*   **Approximately 3,000 - 1,500 BC:** Ha Long Culture period.
 *   **2879 BC:** According to ancient texts, Kinh Duong Vuong began ruling the Xich Quy nation.
 *   **2879 - 258 BC:** The period of the 18 reigns of the Hung Kings. This was also the period when the legends of Lac Long Quan and Au Co, Phu Dong Thien Vuong (Saint Giong), and Son Tinh - Thuy Tinh are believed to have originated and been passed down orally.
 *   **Approximately late 3rd millennium BC - early 2nd millennium BC:** Phung Nguyen Culture period, marking the beginning of the Metal Age.
@@ -15,6 +19,8 @@
 *   **Approximately 15th - 9th centuries BC:** Dong Dau Culture period.
 *   **Around the 3rd - 2nd century BC:** Buddhism was introduced to Vietnam by sea from India. This was the earliest religion to arrive and has been localized, becoming a dominant ideology in national culture throughout many historical periods.
 *   **Approximately 1,100 - 700 BC:** Go Mun Culture period.
+*   **Approximately 1,000 BC - 200 AD:** Sa Huynh Culture period (Central Vietnam), famous for jar burials and early glass-making techniques.
+*   **Approximately 500 BC:** Dong Nai Culture period (Southeast region), a metallurgical culture connecting the Bronze and Iron Ages.
 
 ### **Nation Building and Northern Domination Period**
 
@@ -1067,6 +1073,7 @@
 *   **Jul. 2, 2015:** Phong Nha - Ke Bang National Park was recognized by UNESCO for the second time for its biodiversity.
 *   **Jul. 6 - 10, 2015:** General Secretary Nguyen Phu Trong paid his first official visit to the United States.
 *   **Sep. 21, 2015:** Announced that 43 million Vietnamese people had escaped poverty (according to the Millennium Development Goals).
+*   **Dec. 31, 2015:** Vietnam officially joined the establishment of the ASEAN Economic Community (AEC).
 *   **Jan. 20 - 28, 2016:** The 12th National Congress of the Party, promoting the anti-corruption campaign ("blazing furnace").
 *   **Feb. 4, 2016:** Vietnam signed the Trans-Pacific Partnership (TPP) Agreement.
 *   **Apr. 6, 2016:** The marine environmental incident caused by Formosa began in 4 central provinces.
@@ -1120,6 +1127,7 @@
     * **Human losses:** About 345 people dead and missing, thousands injured.
     * **Economic damage:** Over 81.7 trillion VND, equivalent to about 0.62% of 2023 GDP.
     * **Impact:** Many northern provinces were severely devastated by the storm and subsequent floods.
+*   **Sep. 23, 2024:** In a speech at Columbia University (USA), General Secretary To Lam mentioned the "Era of Rising" of the nation after nearly 80 years of founding the country and 40 years of Renovation.
 *   **Oct. 7, 2024:** Upgraded relations to a Comprehensive Strategic Partnership with France.
 *   **Oct. 21, 2024:** The National Assembly elected Mr. Luong Cuong as State President, replacing Mr. To Lam.
 *   **Nov. 21, 2024:** Upgraded relations to a Comprehensive Strategic Partnership with Malaysia.
