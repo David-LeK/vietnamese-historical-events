@@ -291,33 +291,46 @@
 *   **1614:** Nguyen Phuc Nguyen (son of Nguyen Hoang) succeeded him, reformed the administrative apparatus, appointed his own officials, and officially severed the subordinate relationship with the Trinh lords.
 *   **Around 1615 - 1620:** Western missionaries began recording the Vietnamese language using the Latin alphabet.
 *   **1620:** The Trinh-Nguyen conflict intensified; the Nguyen lord stopped paying tribute taxes.
+*   **1623:** Lord Trinh Tung passed away. His son, Trinh Trang, succeeded him as Lord (Thanh Do Vuong).
 *   **Mar. 1627:** The Trinh-Nguyen civil war officially broke out. In the first campaign, the Trinh army led by Trinh Trang advanced south but was defeated at the Nhat Le gate.
 *   **1630 - 1631:** In Dang Trong (the South), Dao Duy Tu ordered the construction of a system of strong defensive walls, the Luy Thay (Truong Duc and Nhat Le walls).
 *   **1633:** In the second campaign, the Trinh army attacked but could not overcome the defensive walls and was again defeated.
+*   **1635:** Lord Nguyen Phuc Nguyen passed away. His second son, Nguyen Phuc Lan, succeeded him.
 *   **1643:** In the third campaign, the Trinh army besieged the Trung Hoa wall but could not capture it and had to withdraw.
 *   **Feb. 1648:** In the fourth campaign, the Nguyen army under Nguyen Phuc Tan won a great victory at Truong Duc, capturing 3 generals and 30,000 Trinh troops alive.
+*   **1648:** Lord Nguyen Phuc Lan passed away. His son, Nguyen Phuc Tan (Lord Hien), succeeded him.
 *   **1651:** Alexandre de Rhodes published the Vietnamese - Portuguese - Latin dictionary, standardizing the script.
 *   **1653:** The Nguyen lord defeated the Champa king Ba Tam, taking land from the Phan Rang River to Phu Yen and establishing the Thai Khang garrison (now Khanh Hoa).
 *   **1655 - 1660:** The fifth campaign, this was the only time the Nguyen army proactively attacked the North, capturing 7 districts in Nghe An. However, they later had to retreat due to internal discord.
+*   **1657:** Lord Trinh Trang passed away. His son, Trinh Tac, succeeded him as Lord (Tay Dinh Vuong).
 *   **1661 - 1662:** The sixth campaign. The Trinh army attacked but was unsuccessful and had to retreat.
 *   **Jun. 1672:** The seventh and final campaign. The Trinh army launched an all-out attack but was still blocked by the strong defensive walls of the Nguyen army.
 *   **Late 1672:** The two sides agreed to a truce, taking the Gianh River as the demarcation line, officially dividing the country into Dang Trong and Dang Ngoai for over a century.
 *   **1677:** The last remnants of the Mac dynasty in Cao Bang were completely eliminated.
 *   **1679:** Two groups of loyalist former Ming officials, Yang Yandi and Chen Shangchuan, brought over 3,000 people to seek asylum and were allowed by the Nguyen lord to reclaim land in the My Tho and Bien Hoa regions.
 *   **1680:** Mac Cuu (also a former Ming official) arrived to develop the Ha Tien region, including Phu Quoc.
+*   **1682:** Lord Trinh Tac passed away. His grandson, Trinh Can, succeeded him as Lord (Dinh Nam Vuong).
+*   **1687:** Lord Nguyen Phuc Tan passed away. His son, Nguyen Phuc Tran (Lord Nghia), succeeded him.
+*   **1691:** Lord Nguyen Phuc Tran passed away. His son, Nguyen Phuc Chu (Lord Minh), succeeded him.
 *   **1693:** The Nguyen lord defeated the Champa king Ba Tranh, turning the remaining part of Champa into Thuan Thanh Prefecture (now Binh Thuan).
 *   **1697:** Binh Thuan Prefecture was officially established. The kingdom of Champa ceased to exist as an independent state.
 *   **1698:** The Nguyen lord sent Commander Nguyen Huu Canh to administer the Dong Nai region, establishing Gia Dinh Prefecture (comprising Tran Bien and Phien Tran garrisons). This was an important milestone in establishing Dai Viet's sovereignty in the South.
 *   **1702:** The British East India Company established a trading post on Con Dao Island but quickly withdrew due to failure.
 *   **1708:** Mac Cuu offered all the land he had developed in Ha Tien to the Nguyen lords.
+*   **1709:** Lord Trinh Can passed away. His great-grandson, Trinh Cuong, succeeded him as Lord (An Do Vuong).
 *   **1718:** In Dang Ngoai, Lord Trinh Cuong established the Six Bureaus (Luc phien) in the Lord's Palace, usurping all power, leaving the Le court's Six Ministries with only nominal authority.
+*   **1725:** Lord Nguyen Phuc Chu passed away. His son, Nguyen Phuc Chu (Lord Ninh), succeeded him.
+*   **1729:** Lord Trinh Cuong passed away. His son, Trinh Giang, succeeded him as Lord (Uy Nam Vuong).
 *   **1738 - 1770:** The uprising of Le Duy Mat (a Le royal relative) broke out, lasting over 30 years in the Thanh Hoa and Nghe An regions.
+*   **1738:** Lord Nguyen Phuc Chu (Lord Ninh) passed away. His son, Nguyen Phuc Khoat, succeeded him.
 *   **1739:** Major peasant uprisings erupted in Dang Ngoai, notably the uprisings of Nguyen Tuyen and Nguyen Cu in Hai Duong, and Hoang Cong Chat in Son Nam.
+*   **1740:** In Dang Ngoai, the abusive Lord Trinh Giang was deposed. His younger brother, Trinh Doanh, succeeded him as Lord (Minh Do Vuong).
 *   **1741 - 1751:** The uprising of Nguyen Huu Cau (Quan He) was very active in the coastal areas of Son Nam and Hai Duong, causing great difficulty for the Trinh army.
 *   **1744:** In Dang Trong, Nguyen Phuc Khoat proclaimed himself King (Vuong), reforming the government according to the statutes of an independent monarchy.
 *   **1756:** The Cambodian king Nặc Nguyên (Ang Snguon) ceded the two prefectures of Tam Bon and Loi Lap (now in Tan An, Go Cong) to the Nguyen lord.
 *   **1757:** The Cambodian king Nặc Tôn (Ang Ton II) ceded the land of Tam Phong Long (now in Chau Doc) and five prefectures in the Ha Tien region as a token of gratitude. The entire Southern region basically came under the sovereignty of the Nguyen lords.
 *   **1765:** Lord Nguyen Phuc Khoat passed away. The powerful mandarin Truong Phuc Loan abused his power, enthroning Nguyen Phuc Thuan (12 years old) and imprisoning Nguyen Phuc Luan. Society in Dang Trong began to enter a deep crisis.
+*   **1767:** Lord Trinh Doanh passed away. His son, Trinh Sam, succeeded him as Lord (Tinh Do Vuong).
 
 ### **Tay Son Period (1771 - 1802)**
 
@@ -332,12 +345,14 @@
 *   **1778:** Nguyen Nhac proclaimed himself Central Emperor, established the era name Thai Duc, and built his capital at Hoang De Citadel (the former Do Ban).
 *   **1782:** Nguyen Anh recaptured Gia Dinh.
 *   **1782:** In Dang Ngoai (the North), the 'Revolt of the Palace Guards' broke out. The rebellious guards further weakened the Trinh lords' court, creating favorable conditions for the later advance of the Tay Son army to the North.
+*   **Sep. 1782:** Lord Trinh Sam passed away. His young son Trinh Can succeeded him but was soon deposed by the kiêu binh (arrogant soldiers), who installed Trinh Tong (also known as Trinh Khai) as Lord (Doan Nam Vuong).
 *   **1783:** Nguyen Hue and Nguyen Lu led troops to attack; Nguyen Anh was again defeated and had to flee to Siam (Thailand) to seek aid.
 *   **Mar. 1784:** Bishop Pigneau de Béhaine (Bá Đa Lộc) represented Nguyen Anh in going to France to ask for help.
 *   **Jul. 1784:** 50,000 Siamese troops (20,000 naval, 30,000 land) led by Chao Tseng and Chao Sương, along with Nguyen Anh, invaded Gia Dinh.
 *   **Jan. 19, 1785:** Battle of Rach Gam - Xoai Mut. Nguyen Hue set up an ambush, crushed the Siamese army, annihilating almost the entire invading force. Nguyen Anh had to flee to Siam again.
 *   **Jun. 1786:** Under the pretext of "supporting the Le, destroying the Trinh," Nguyen Hue commanded a large Tay Son army to advance north.
 *   **Jul. 21, 1786:** The Tay Son army entered Thang Long, quickly overthrowing the over 200-year rule of the Trinh lords.
+*   **1786:** Lord Trinh Tong committed suicide after being captured by the Tay Son army. Trinh Bong succeeded as Lord (An Do Vuong) but fled shortly after, marking the end of the Trinh Lords' rule.
 *   **Late 1786:** Nguyen Hue was given Princess Ngoc Han in marriage by the Le king. The Tay Son brothers divided the country to rule: Nguyen Nhac as the Central Emperor (from Quang Ngai to Binh Thuan), Nguyen Hue as the Northern Pacification King (from Hai Van Pass northwards), and Nguyen Lu as the Eastern Pacification King (Gia Dinh).
 *   **1787:** Conflict broke out between Nguyen Nhac and Nguyen Hue. Nguyen Hue led troops to besiege Hoang De Citadel, forcing Nguyen Nhac to cede more land in Quang Nam.
 *   **Nov. 21, 1787:** In the Treaty of Versailles, Nguyen Anh ceded Con Dao Island to France in exchange for support, but this treaty never materialized.
@@ -436,13 +451,16 @@
 *   **Mar. 27, 1883:** Rivière led troops to attack and capture Nam Dinh Citadel.
 *   **May 19, 1883:** Second Battle of Cau Giay. The Black Flag Army and the troops of Hoang Ta Viem again ambushed and killed Henri Rivière.
 *   **Jul. 17, 1883:** Emperor Tu Duc passed away, and the Hue court fell into turmoil and disarray.
+*   **Jul. 1883:** Duc Duc was enthroned but was deposed and imprisoned by regents Nguyen Van Tuong and Ton That Thuyet after only 3 days. Hiep Hoa was enthroned as the new Emperor.
 *   **Aug. 18-20, 1883:** A French fleet under Admiral Courbet attacked and captured the forts at the Thuan An estuary, threatening the capital city of Hue.
 *   **Aug. 25, 1883:** The Hue court signed the Treaty of Quy Mui (Harmand Treaty), officially recognizing the French protectorate over all of Vietnam.
 *   **Dec. 1883:** French forces attacked and captured Son Tay Citadel.
+*   **Nov. 29, 1883:** Emperor Hiep Hoa was forced to commit suicide by the regents. Kien Phuc was enthroned.
 *   **1884 - 1945:** France continued to administer the Spratly and Paracel Islands as territories of French Indochina.
 *   **Mar. 12, 1884:** French forces captured Bac Ninh Citadel.
 *   **May 11, 1884:** France and the Qing dynasty signed the Tientsin Accord, in which the Qing agreed to withdraw their troops from Tonkin.
 *   **Jun. 6, 1884:** The Hue court signed the Treaty of Giap Than (Patenôtre Treaty), which completely established the French protectorate over all of Vietnam.
+*   **Aug. 1884:** Emperor Kien Phuc passed away (suspected poisoned). Ham Nghi was enthroned.
 *   **Jul. 4-5, 1885:** Ton That Thuyet organized an attack on the Mang Ca fortress and the French Resident Superior's office in Hue, but failed.
 *   **Jul. 5, 1885:** The capital city of Hue fell. Ton That Thuyet escorted King Ham Nghi to the mountain base of Tan So (Quang Tri).
 *   **Jul. 13, 1885:** King Ham Nghi issued the Can Vuong (Aid the King) Edict, calling on all people to resist the French.

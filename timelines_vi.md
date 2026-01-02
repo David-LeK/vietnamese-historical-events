@@ -291,33 +291,46 @@
 *   **1614:** Nguyễn Phúc Nguyên (con Nguyễn Hoàng) lên thay, cải tổ bộ máy hành chính, tự bổ dụng quan lại, chính thức cắt đứt quan hệ lệ thuộc với họ Trịnh.
 *   **Khoảng 1615 - 1620:** Các giáo sĩ phương Tây bắt đầu ghi chép tiếng Việt bằng chữ Latinh.
 *   **1620:** Mâu thuẫn Trịnh - Nguyễn trở nên gay gắt, chúa Nguyễn ngừng nộp thuế cống.
+*   **1623:** Chúa Trịnh Tùng mất, con là Trịnh Tráng lên nối ngôi (Thanh Đô Vương).
 *   **03/1627:** Nội chiến Trịnh-Nguyễn chính thức bùng nổ. Lần thứ nhất, quân Trịnh do Trịnh Tráng chỉ huy tiến vào Nam nhưng bị đánh bại ở cửa Nhật Lệ.
 *   **1630 - 1631:** Ở Đàng Trong, Đào Duy Từ cho xây dựng hệ thống Lũy Thầy (Lũy Trường Dục và Lũy Nhật Lệ) kiên cố để phòng thủ.
 *   **1633:** Cuộc chiến lần thứ hai, quân Trịnh tấn công nhưng không vượt qua được hệ thống phòng lũy và lại thất bại.
+*   **1635:** Chúa Nguyễn Phúc Nguyên mất, con thứ hai là Nguyễn Phúc Lan lên nối ngôi (Thượng Vương).
 *   **1643:** Cuộc chiến lần thứ ba, quân Trịnh vây đánh lũy Trung Hòa nhưng không hạ được, phải rút quân.
 *   **02/1648:** Cuộc chiến lần thứ tư, quân Nguyễn do Nguyễn Phúc Tần chỉ huy đại thắng ở Trường Dục, bắt sống 3 tướng và 3 vạn quân Trịnh.
+*   **1648:** Chúa Nguyễn Phúc Lan mất, con là Nguyễn Phúc Tần lên nối ngôi (Hiền Vương).
 *   **1651:** Alexandre de Rhodes xuất bản từ điển Việt - Bồ - La, chuẩn hóa chữ viết.
 *   **1653:** Chúa Nguyễn đánh bại vua Chiêm Thành là Bà Tấm, lấy đất từ sông Phan Rang đến Phú Yên, lập ra dinh Thái Khang (nay là Khánh Hòa).
 *   **1655 - 1660:** Cuộc chiến lần thứ năm, đây là lần duy nhất quân Nguyễn chủ động tấn công ra Bắc, chiếm được 7 huyện ở Nghệ An. Tuy nhiên sau đó do nội bộ bất hòa phải rút lui.
+*   **1657:** Chúa Trịnh Tráng mất, con là Trịnh Tạc lên nối ngôi (Tây Định Vương).
 *   **1661 - 1662:** Cuộc chiến lần thứ sáu. Quân Trịnh tấn công nhưng không thành công và phải rút về.
 *   **06/1672:** Cuộc chiến lần thứ bảy và cũng là cuối cùng. Quân Trịnh dốc toàn lực tấn công nhưng vẫn bị chặn lại ở các chiến lũy kiên cố của quân Nguyễn.
 *   **Cuối 1672:** Hai bên đình chiến, lấy sông Gianh làm giới tuyến, chính thức chia cắt đất nước thành Đàng Trong và Đàng Ngoài trong hơn một thế kỷ.
 *   **1677:** Dư đảng cuối cùng của nhà Mạc ở Cao Bằng bị tiêu diệt hoàn toàn.
 *   **1679:** Hai nhóm cựu thần nhà Minh trung thành là Dương Ngạn Địch và Trần Thượng Xuyên đem hơn 3.000 người đến xin tị nạn, được chúa Nguyễn cho vào khai khẩn vùng Mỹ Tho và Biên Hòa.
 *   **1680:** Mạc Cửu (cũng là cựu thần nhà Minh) đến khai phá vùng đất Hà Tiên, trong đó có Phú Quốc.
+*   **1682:** Chúa Trịnh Tạc mất, cháu đích tôn là Trịnh Căn lên nối ngôi (Định Nam Vương).
+*   **1687:** Chúa Nguyễn Phúc Tần mất, con là Nguyễn Phúc Trăn lên nối ngôi (Nghĩa Vương).
+*   **1691:** Chúa Nguyễn Phúc Trăn mất, con là Nguyễn Phúc Chu lên nối ngôi (Minh Vương).
 *   **1693:** Chúa Nguyễn đánh bại vua Chiêm Thành là Bà Tranh, đổi phần đất còn lại của Chiêm Thành thành trấn Thuận Thành (nay là Bình Thuận).
 *   **1697:** Chính thức đặt phủ Bình Thuận. Vương quốc Champa chấm dứt sự tồn tại với tư cách một quốc gia độc lập.
 *   **1698:** Chúa Nguyễn cử Thống suất Nguyễn Hữu Cảnh vào kinh lược xứ Đồng Nai, lập phủ Gia Định (gồm dinh Trấn Biên và dinh Phiên Trấn). Đây là mốc quan trọng xác lập chủ quyền của Đại Việt ở Nam Bộ.
 *   **1702:** Công ty Đông Ấn Anh đến đặt thương điếm ở Côn Đảo nhưng nhanh chóng rút đi vì thất bại.
 *   **1708:** Mạc Cửu đem toàn bộ đất đai Hà Tiên do mình khai phá xin nội thuộc chúa Nguyễn.
+*   **1709:** Chúa Trịnh Căn mất, chắt là Trịnh Cương lên nối ngôi (An Đô Vương).
 *   **1718:** Ở Đàng Ngoài, chúa Trịnh Cương lập ra Lục phiên ở phủ Chúa, thâu tóm toàn bộ quyền lực, Lục bộ của triều đình nhà Lê chỉ còn là hư vị.
+*   **1725:** Chúa Nguyễn Phúc Chu mất, con là Nguyễn Phúc Chú lên nối ngôi (Ninh Vương).
+*   **1729:** Chúa Trịnh Cương mất, con là Trịnh Giang lên nối ngôi (Uy Nam Vương).
 *   **1738 - 1770:** Cuộc khởi nghĩa của Lê Duy Mật (tôn thất nhà Lê) nổ ra, kéo dài hơn 30 năm ở vùng Thanh Hóa, Nghệ An.
+*   **1738:** Chúa Nguyễn Phúc Chú mất, con là Nguyễn Phúc Khoát lên nối ngôi.
 *   **1739:** Các cuộc khởi nghĩa nông dân lớn ở Đàng Ngoài bùng nổ, tiêu biểu là cuộc khởi nghĩa của Nguyễn Tuyển, Nguyễn Cừ ở Hải Dương và Hoàng Công Chất ở Sơn Nam.
+*   **1740:** Ở Đàng Ngoài, chúa Trịnh Giang bị phế truất, em là Trịnh Doanh lên nối ngôi (Minh Đô Vương).
 *   **1741 - 1751:** Cuộc khởi nghĩa của Nguyễn Hữu Cầu (Quận He) hoạt động mạnh mẽ ở vùng duyên hải Sơn Nam và Hải Dương, gây nhiều khó khăn cho quân Trịnh.
 *   **1744:** Ở Đàng Trong, Nguyễn Phúc Khoát xưng Vương, cải tổ lại chính quyền theo quy chế của một vương triều độc lập.
 *   **1756:** Vua Chân Lạp Nặc Nguyên dâng đất hai phủ Tầm Bôn và Lôi Lạp (nay thuộc Tân An, Gò Công) cho chúa Nguyễn.
 *   **1757:** Vua Chân Lạp Nặc Tôn dâng đất Tầm Phong Long (nay thuộc Châu Đốc) và 5 phủ ở vùng Hà Tiên để tạ ơn. Toàn bộ vùng đất Nam Bộ về cơ bản thuộc chủ quyền của các chúa Nguyễn.
 *   **1765:** Chúa Nguyễn Phúc Khoát mất. Quyền thần Trương Phúc Loan lộng hành, lập Nguyễn Phúc Thuần (12 tuổi) lên ngôi, bắt giam Nguyễn Phúc Luân. Xã hội Đàng Trong bắt đầu đi vào khủng hoảng sâu sắc.
+*   **1767:** Chúa Trịnh Doanh mất, con là Trịnh Sâm lên nối ngôi (Tĩnh Đô Vương).
 
 ### **Thời kỳ Tây Sơn (1771 - 1802)**
 
@@ -332,12 +345,14 @@
 *   **1778:** Nguyễn Nhạc xưng là Trung ương Hoàng đế, đặt niên hiệu Thái Đức, xây dựng kinh đô ở thành Hoàng Đế (Đồ Bàn cũ).
 *   **1782:** Nguyễn Ánh chiếm lại được Gia Định.
 *   **1782:** Tại Đàng Ngoài, xảy ra "Loạn kiêu binh", quân lính kiêu binh nổi loạn làm triều chính họ Trịnh càng thêm suy yếu, tạo điều kiện cho quân Tây Sơn tiến ra Bắc sau này.
+*   **09/1782:** Chúa Trịnh Sâm mất. Con nhỏ là Trịnh Cán nối ngôi nhưng bị kiêu binh phế truất, đưa Trịnh Tông (Trịnh Khải) lên thay (Đoan Nam Vương).
 *   **1783:** Nguyễn Huệ và Nguyễn Lữ đem quân vào đánh, Nguyễn Ánh lại thua trận, phải chạy sang Xiêm cầu viện.
 *   **03/1784:** Giám mục Pigneau de Béhaine (Bá Đa Lộc) thay mặt Nguyễn Ánh sang Pháp cầu viện.
 *   **07/1784:** 5 vạn quân Xiêm (2 vạn thủy, 3 vạn bộ) do Chiêu Tăng, Chiêu Sương chỉ huy cùng Nguyễn Ánh tiến vào xâm lược Gia Định.
 *   **19/01/1785:** Trận Rạch Gầm - Xoài Mút. Nguyễn Huệ tổ chức trận địa mai phục, đại phá quân Xiêm, tiêu diệt gần như toàn bộ quân xâm lược. Nguyễn Ánh lại phải chạy sang Xiêm.
 *   **06/1786:** Lấy danh nghĩa "phù Lê diệt Trịnh", Nguyễn Huệ chỉ huy đại quân Tây Sơn tiến ra Bắc.
 *   **21/07/1786:** Quân Tây Sơn tiến vào Thăng Long, lật đổ nền thống trị hơn 200 năm của họ Trịnh một cách nhanh chóng.
+*   **1786:** Chúa Trịnh Tông tự sát khi bị quân Tây Sơn bắt. Trịnh Bồng lên ngôi (Án Đô Vương) nhưng sau đó bỏ trốn, chấm dứt nghiệp chúa Trịnh.
 *   **Cuối 1786:** Nguyễn Huệ được vua Lê gả công chúa Ngọc Hân. Anh em Tây Sơn chia nhau cai quản đất nước: Nguyễn Nhạc là Trung ương Hoàng đế (từ Quảng Ngãi vào Bình Thuận), Nguyễn Huệ là Bắc Bình vương (từ Hải Vân ra Bắc), Nguyễn Lữ là Đông Định vương (Gia Định).
 *   **1787:** Mâu thuẫn giữa Nguyễn Nhạc và Nguyễn Huệ nổ ra. Nguyễn Huệ đem quân vây thành Hoàng Đế, buộc Nguyễn Nhạc phải nhượng thêm đất Quảng Nam.
 *   **21/11/1787:** Trong Hiệp ước Versailles, Nguyễn Ánh nhượng Côn Đảo cho Pháp để đổi lấy sự hỗ trợ, nhưng hiệp ước này không thành hiện thực.
@@ -436,13 +451,16 @@
 *   **27/03/1883:** Rivière đem quân đánh chiếm thành Nam Định.
 *   **19/05/1883:** Trận Cầu Giấy lần thứ hai. Quân Cờ Đen và quân của Hoàng Tá Viêm lại phục kích, giết chết Henri Rivière.
 *   **17/07/1883:** Vua Tự Đức qua đời, nội bộ triều đình Huế lục đục, rối loạn.
+*   **07/1883:** Dục Đức lên ngôi được 3 ngày thì bị các phụ chính đại thần phế truất và giam chết trong ngục. Hiệp Hoà được đưa lên ngôi vua.
 *   **18-20/08/1883:** Hạm đội Pháp do Đô đốc Courbet chỉ huy tấn công và chiếm các pháo đài ở cửa Thuận An, uy hiếp kinh thành Huế.
 *   **25/08/1883:** Triều đình Huế ký Hòa ước Quý Mùi (Hiệp ước Harmand), chính thức công nhận nền bảo hộ của Pháp trên toàn cõi Việt Nam.
 *   **12/1883:** Quân Pháp tấn công và chiếm thành Sơn Tây.
+*   **29/11/1883:** Vua Hiệp Hoà bị các quyền thần ép uống thuốc độc tự vẫn. Kiến Phúc được đưa lên ngôi vua.
 *   **1884 - 1945:** Pháp tiếp tục quản lý hai quần đảo Hoàng Sa và Trường Sa với tư cách là lãnh thổ của Liên bang Đông Dương thuộc Pháp.
 *   **12/03/1884:** Quân Pháp chiếm thành Bắc Ninh.
 *   **11/05/1884:** Pháp và nhà Thanh ký Quy ước Thiên Tân, nhà Thanh đồng ý rút quân khỏi Bắc Kỳ.
 *   **06/06/1884:** Triều đình Huế ký Hòa ước Giáp Thân (Hiệp ước Patenôtre), xác lập một cách hoàn chỉnh nền bảo hộ của Pháp trên toàn Việt Nam.
+*   **08/1884:** Vua Kiến Phúc qua đời (nghi bị đầu độc). Hàm Nghi được đưa lên ngôi vua.
 *   **04-05/07/1885:** Tôn Thất Thuyết tổ chức tấn công đồn Mang Cá và Tòa Khâm sứ Pháp tại Huế nhưng thất bại.
 *   **05/07/1885:** Kinh thành Huế thất thủ, Tôn Thất Thuyết phò vua Hàm Nghi chạy ra sơn phòng Tân Sở (Quảng Trị).
 *   **13/07/1885:** Vua Hàm Nghi ban bố Dụ Cần Vương, kêu gọi toàn dân kháng chiến chống Pháp.
