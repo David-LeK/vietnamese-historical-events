@@ -233,7 +233,8 @@
 *   **Jun. 1460:** High-ranking officials Nguyen Xi and Dinh Liet staged a coup, overthrew Nghi Dan, and placed Le Tu Thanh on the throne (Le Thanh Tong).
 *   **1463:** A doctoral examination was held, Luong The Vinh ranked as Trang Nguyen (First Laureate).
 *   **1466:** Le Thanh Tong divided the country into 12 Thua Tuyen provinces, reorganizing the administrative system.
-*   **1471:** Le Thanh Tong personally led a campaign against Champa, capturing Do Ban Citadel and King Tra Toan. The 13th Thua Tuyen province, Quang Nam, was added.
+*   **1469:** King Le Thanh Tong ordered the mapping of the 12 Thua Tuyen provinces. Thua Tuyen Nam Sach was renamed Thua Tuyen Hai Duong; this was the first time the name "Hai Duong" appeared.
+*   **Jun. 1471:** Le Thanh Tong personally led a campaign against Champa, capturing Do Ban Citadel and King Tra Toan. The 13th Thua Tuyen province, Quang Nam, was added.
 *   **1479:** The historical chronicle *Dai Viet sử ký toàn thư* (Complete History of Dai Viet) was first completed by Ngo Si Lien.
 *   **1483:** The court promulgated the *Quoc trieu hinh luat* (National Dynasty's Penal Code), commonly known as the Hong Duc Code.
 *   **1490:** The map of the 13 provinces of the country was redefined.
@@ -252,6 +253,7 @@
 
 ### **Mac Dynasty and North-South Dynasties War (1527 - 1592)**
 
+*   **1527:** Mac Dang Dung established Duong Kinh (Hai Duong) as the second capital, elevating the status of his hometown.
 *   **1528:** Mac Dang Dung minted Minh Duc thong bao coins and reorganized the army.
 *   **1529:** Mac Dang Dung ceded the throne to his son Mac Dang Doanh and retired as Retired Emperor.
 *   **1533:** In Ai Lao (Laos), Nguyen Kim (a former Le official) found Le Ninh (son of King Le Chieu Tong), established him as king (Le Trang Tong), and began the "support the Le, destroy the Mac" movement.
@@ -467,6 +469,7 @@
 *   **Sep. 1898:** Construction began on the Long Bien Bridge in Hanoi.
 *   **Dec. 30, 1898:** The French President issued a decree on the press regime in Indochina, tightening control and restricting the freedom of speech of the native people.
 *   **1899:** The Haiphong Portland Cement Plant was established; construction of Hoa Lo Prison began in Hanoi.
+*   **Apr. 11, 1900:** The province of Tuyen Quang was re-established.
 *   **1900:** Phan Boi Chau passed the regional examination in Nghe An with the highest honors, beginning his career as a professional revolutionary.
 *   **Sep. 1, 1901:** *Nong Co Min Dam*, one of the first important newspapers in the Quoc Ngu script, was launched in Saigon.
 *   **1902:** The Long Bien Bridge (Hanoi) and the Hanoi - Haiphong railway line were completed. The Indochina Medical School was founded.

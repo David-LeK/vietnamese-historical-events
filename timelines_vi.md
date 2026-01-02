@@ -233,7 +233,8 @@
 *   **06/1460:** Các đại thần Nguyễn Xí, Đinh Liệt làm binh biến, lật đổ Nghi Dân, đưa Lê Tư Thành lên ngôi vua (Lê Thánh Tông).
 *   **1463:** Mở khoa thi Tiến sĩ, Lương Thế Vinh đỗ Trạng nguyên.
 *   **1466:** Lê Thánh Tông chia cả nước thành 12 đạo Thừa tuyên, cải tổ lại bộ máy hành chính.
-*   **1471:** Lê Thánh Tông thân chinh đánh Champa, hạ thành Đồ Bàn, bắt vua Trà Toàn. Đặt thêm đạo Thừa tuyên thứ 13 là Quảng Nam.
+*   **1469:** Vua Lê Thánh Tông cho định bản đồ 12 thừa tuyên trong cả nước. Thừa tuyên Nam Sách đổi tên thành Thừa tuyên Hải Dương, danh xưng "Hải Dương" chính thức xuất hiện.
+*   **06/1471:** Lê Thánh Tông thân chinh đánh Champa, hạ thành Đồ Bàn, bắt vua Trà Toàn. Đặt thêm đạo Thừa tuyên thứ 13 là Quảng Nam.
 *   **1479:** Bộ sách *Đại Việt sử ký toàn thư* lần đầu được hoàn thành bởi Ngô Sĩ Liên.
 *   **1483:** Triều đình ban hành bộ luật *Quốc triều hình luật* (thường gọi là Luật Hồng Đức).
 *   **1490:** Định lại bản đồ 13 xứ trong cả nước.
@@ -252,6 +253,7 @@
 
 ### **Thời kỳ Nhà Mạc và Chiến tranh Nam - Bắc triều (1527 - 1592)**
 
+*   **1527:** Mạc Đăng Dung lập Dương Kinh (Hải Dương) làm kinh đô thứ hai, nâng cao vị thế quê hương nhà Mạc.
 *   **1528:** Mạc Đăng Dung cho đúc tiền Minh Đức thông bảo và tổ chức lại quân đội.
 *   **1529:** Mạc Đăng Dung nhường ngôi cho con là Mạc Đăng Doanh, lui về làm Thái thượng hoàng.
 *   **1533:** Tại Ai Lao, Nguyễn Kim (một cựu thần nhà Lê) tìm được Lê Ninh (con vua Lê Chiêu Tông), lập lên làm vua (Lê Trang Tông), bắt đầu công cuộc "phù Lê diệt Mạc".
@@ -467,6 +469,7 @@
 *   **09/1898:** Khởi công xây dựng cầu Long Biên tại Hà Nội.
 *   **30/12/1898:** Tổng thống Pháp ra sắc lệnh về chế độ báo chí ở Đông Dương, siết chặt kiểm soát và hạn chế quyền tự do ngôn luận của người bản xứ.
 *   **1899:** Nhà máy xi măng Portland Hải Phòng được thành lập; Nhà tù Hỏa Lò bắt đầu được xây dựng tại Hà Nội.
+*   **11/04/1900:** Tỉnh Tuyên Quang được tái lập.
 *   **1900:** Phan Bội Châu đỗ Giải nguyên trong kỳ thi Hương tại Nghệ An, bắt đầu con đường hoạt động cách mạng chuyên nghiệp.
 *   **01/09/1901:** Báo *Nông Cổ Mín Đàm*, một trong những tờ báo chữ Quốc ngữ quan trọng đầu tiên, ra đời tại Sài Gòn.
 *   **1902:** Cầu Long Biên (Hà Nội) và tuyến đường sắt Hà Nội - Hải Phòng hoàn thành. Trường Y khoa Đông Dương được thành lập.
