@@ -354,7 +354,7 @@
 *   **1802:** The Nguyen dynasty was established, with Emperor Gia Long ascending the throne.
 *   **Aug. 1802:** Emperor Gia Long ordered the compilation and promulgation of the first 15 laws regarding litigation.
 *   **1803:** Emperor Gia Long set the salary regulations for officials and soldiers in the Northern Citadel.
-*   **1804:** Emperor Gia Long ordered the casting of seals for the six ministries and promulgated the communal land allocation system.
+*   **1804:** Emperor Gia Long officially established the national title "Viet Nam" (after the Qing dynasty rejected "Nam Viet"). He also ordered the casting of seals for the six ministries and promulgated the communal land allocation system.
 *   **1805:** Emperor Gia Long changed Phung Thien Prefecture to Hoai Duc Prefecture.
 *   **1805 - 1820:** The Tale of Kieu was composed by Nguyen Du in chữ Nôm (Vietnamese demotic script).
 *   **1807:** Emperor Gia Long organized the first regional examination (thi Huong).
@@ -381,7 +381,7 @@
 *   **1833 - 1836:** The mutiny at Phien An Citadel (Gia Dinh) led by Le Van Khoi.
 *   **1833 - 1843:** The peasant uprising led by Ba Nhan and Tien Bot in the northern midlands.
 *   **1834:** Emperor Minh Mang established the Co mat vien (Privy Council).
-*   **1836:** The Privy Council was divided into two boards: Nam chuong kinh (Southern Affairs) and Bac chuong kinh (Northern Affairs).
+*   **1836:** The Ton Nhan Phu (Imperial Clan Court) was established to manage royal family affairs. The Privy Council was divided into two boards: Nam chuong kinh (Southern Affairs) and Bac chuong kinh (Northern Affairs).
 *   **1839:** Emperor Minh Mang reformed the salary system for officials; the first steamship built by Vietnamese was successfully constructed.
 *   **1841 - 1842:** The uprising of the Khmer people led by Lam Sam in Lac Hoa, Tra Vinh.
 *   **1841 - 1842:** Uprisings in the Ha Am - Ha Duong region (An Giang, Ha Tien).
@@ -420,6 +420,7 @@
 *   **Feb. 1874:** French forces withdrew from Hanoi and the other occupied cities in Tonkin.
 *   **Mar. 15, 1874:** The Hue court signed the Treaty of Giap Tuat, recognizing France's permanent sovereignty over the six provinces of Cochinchina and agreeing to open Tonkin to French trade and the stationing of a Consul.
 *   **Apr. 6, 1878:** Decree 82, signed by the Governor of Cochinchina Lafont, set a four-year deadline to fully transition to chữ Quốc ngữ.
+*   **1880:** The Hue court sent envoys to the Qing court to present tribute, maintaining diplomatic relations with China despite the 1874 Treaty with France.
 *   **Jan. 1, 1882:** All official dispatches and public notices were required to be written in chữ Quốc ngữ. Concurrently, only those literate in chữ Quốc ngữ could be appointed to administrative bodies (at the prefecture, district, and canton levels) or be considered for promotion.
 *   **Jan. 30, 1882:** The Governor of Cochinchina issued a decree requiring official documents to be written in French. If chữ Quốc ngữ was used, it had to be accompanied by a French translation.
 *   **Apr. 3, 1882:** Colonel Henri Rivière landed in Hanoi, beginning the second invasion of Tonkin.

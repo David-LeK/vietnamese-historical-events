@@ -354,7 +354,7 @@
 *   **1802:** Triều Nguyễn được thành lập, vua Gia Long lên ngôi.
 *   **08/1802:** Vua Gia Long sai biên soạn và ban hành 15 điều luật đầu tiên về kiện tụng.
 *   **1803:** Vua Gia Long định lệ lương bổng cho quan và quân ở Bắc thành.
-*   **1804:** Vua Gia Long cho đúc ấn của 6 bộ và ban hành phép quân điền (chia ruộng).
+*   **1804:** Vua Gia Long chính thức đặt quốc hiệu là Việt Nam (sau khi nhà Thanh không chấp thuận tên Nam Việt). Vua cũng cho đúc ấn của 6 bộ và ban hành phép quân điền (chia ruộng).
 *   **1805:** Vua Gia Long cho đổi phủ Phụng Thiên thành phủ Hoài Đức.
 *   **1805 - 1820:** Truyện Kiều được Nguyễn Du sáng tác bằng chữ Nôm.
 *   **1807:** Vua Gia Long tổ chức khoa thi Hương đầu tiên.
@@ -381,7 +381,7 @@
 *   **1833 - 1836:** Cuộc binh biến ở thành Phiên An (Gia Định) do Lê Văn Khôi lãnh đạo.
 *   **1833 - 1843:** Cuộc nổi dậy của nông dân do Ba Nhàn và Tiền Bột lãnh đạo ở vùng trung du Bắc Bộ.
 *   **1834:** Vua Minh Mệnh cho thành lập Cơ mật viện.
-*   **1836:** Cơ mật viện được chia làm hai ban: Nam chương kinh và Bắc chương kinh.
+*   **1836:** Thành lập Tôn Nhân Phủ để quản lý các việc trong hoàng tộc. Cơ mật viện được chia làm hai ban: Nam chương kinh và Bắc chương kinh.
 *   **1839:** Vua Minh Mệnh cải cách lại chế độ lương bổng cho quan lại; chiếc tàu máy hơi nước đầu tiên do người Việt Nam chế tạo thành công.
 *   **1841 - 1842:** Cuộc nổi dậy của người Khơme do Lâm Sâm lãnh đạo ở Lạc Hóa, Trà Vinh.
 *   **1841 - 1842:** Các cuộc nổi dậy ở vùng Hà Âm - Hà Dương (An Giang, Hà Tiên).
@@ -420,6 +420,7 @@
 *   **02/1874:** Quân Pháp rút khỏi Hà Nội và các tỉnh thành đã chiếm ở Bắc Kỳ.
 *   **15/03/1874:** Triều đình Huế ký Hòa ước Giáp Tuất, công nhận chủ quyền vĩnh viễn của Pháp ở 6 tỉnh Nam Kỳ, chấp nhận để Pháp mở cửa thông thương ở Bắc Kỳ và đặt Lãnh sự.
 *   **6/4/1878:** Nghị định 82 do Thống đốc Nam Kỳ Lafont ký đã đề ra mốc hẹn bốn năm phải chuyển hẳn sang chữ quốc ngữ.
+*   **1880:** Triều đình Huế sai sứ sang nhà Thanh dâng biểu xưng thần, tiếp tục quan hệ bang giao với Trung Quốc bất chấp Hòa ước 1874 với Pháp.
 *   **01/01/1882:** Mọi công văn, văn bản niêm yết đều phải viết bằng chữ quốc ngữ. Đồng thời, chỉ người biết chữ quốc ngữ mới được bổ nhiệm vào cơ quan cai trị (cấp phủ, huyện, tổng) hoặc được xét tăng trật.
 *   **30/01/1882:** Thống đốc Nam Kỳ ra nghị định buộc công văn phải viết bằng tiếng Pháp. Nếu dùng chữ quốc ngữ, bắt buộc phải kèm theo bản dịch tiếng Pháp.
 *   **03/04/1882:** Đại tá Henri Rivière đổ bộ lên Hà Nội, bắt đầu cuộc xâm lược Bắc Kỳ lần thứ hai.
