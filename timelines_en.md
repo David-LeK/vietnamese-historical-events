@@ -31,17 +31,21 @@
 *   **43:** The uprising failed following an attack by the Han general Ma Yuan. The Trung Sisters committed suicide in the Hat River.
 *   **137:** The uprising of Khu Lien in Tuong Lam district, Nhat Nam commandery.
 *   **192:** Khu Lien officially established the Lam Ap kingdom.
+*   **226:** The Eastern Wu dynasty divided Giao Chau into Guangzhou (Quang Chau) and Jiaozhou (Giao Chau).
 *   **248:** The uprising of Lady Trieu (Trieu Thi Trinh) in Cuu Chan against the domination of the Eastern Wu dynasty. She proclaimed herself Dai Hai Ba Vuong but was ultimately defeated by general Lu Yin.
+*   **264:** The Eastern Wu dynasty re-divided Guangzhou and Jiaozhou, establishing Long Bien as the capital of Jiaozhou.
 *   **542:** Ly Bi led an uprising against the domination of the Liang dynasty.
 *   **544:** Ly Bi proclaimed himself the Southern Viet Emperor (Ly Nam De), founded the Van Xuan kingdom, and established the era name Thien Duc.
 *   **548:** Ly Nam De passed away.
 *   **548 - 571:** Trieu Quang Phuc (King Trieu Viet) led the resistance against the Liang army to victory, maintaining independence until he was defeated by Ly Phat Tu.
 *   **603:** The Sui dynasty sent troops to invade, Ly Phat Tu (Later Ly Nam De) surrendered, and the Van Xuan kingdom ended.
+*   **622:** The Tang dynasty established the Giao Chau Grand Area Command (Dai Tong Quan Phu) to administer 10 prefectures.
 *   **679:** The Tang dynasty changed Giao Chau to the Protectorate General of Annam.
 *   **687:** The uprising of Ly Tu Tien and Dinh Kien.
 *   **713 - 722:** The uprising of Mai Thuc Loan (Mai Hac De).
 *   **766 - 791:** The uprising of Phung Hung (Bo Cai Dai Vuong).
 *   **819 - 820:** The uprising of Duong Thanh.
+*   **866:** After defeating Nanzhao, the Tang dynasty upgraded the An Nam Protectorate to the Jinghai Military Commission (Tinh Hai quan).
 *   **905:** Khuc Thua Du won autonomy, proclaiming himself Jiedushi (Military Governor).
 *   **907:** Khuc Hao succeeded his father, carrying out many important reforms.
 *   **917:** Khuc Thua My succeeded to the position.
@@ -153,6 +157,7 @@
 *   **1371:** Champa forces led by Che Bong Nga attacked the capital Thang Long directly, plundering and burning down the palaces.
 *   **Dec. 14, 1372:** Tran Nghe Tong abdicated the throne in favor of his younger brother, Crown Prince Tran Kinh (later Tran Due Tong).
 *   **1374:** The court organized a doctoral examination, Dao Su Tich ranked as Trang Nguyen (First Laureate).
+*   **1375:** King Tran Due Tong changed Lam Binh prefecture to Tan Binh prefecture.
 *   **Apr. 4, 1377:** Emperor Trần Duệ Tông died in a battle against the Champa army. He personally commanded a large military campaign against Champa, but the campaign failed and he was killed in the Battle of Vijaya.
 *   **Mar. 1378:** Crown Prince Trần Hiệu (later Emperor Trần Phế Đế) ascended the throne.
 *   **1378:** The Tran dynasty began collecting a poll tax (3 quan/person) due to the depleted national treasury.
@@ -216,6 +221,7 @@
 ### **Early Le Dynasty Period (1428 - 1527)**
 
 *   **Apr. 29, 1428:** Le Loi officially ascended the throne as Emperor (Le Thai To) in Dong Do, adopting the era name Thuan Thien and restoring the national title of Dai Viet. Under the king's order, Nguyen Trai wrote the "Binh Ngo dai cao" (Great Proclamation upon the Pacification of the Wu), the nation's second declaration of independence.
+*   **1428:** Le Thai To divided the country into 5 circuits (dao): South, North, East, West, and Hai Tay.
 *   **Feb. 1429:** Le Thai To ordered the demobilization of 250,000 troops, keeping only 100,000, implementing the "combining military service with farming" policy.
 *   **Oct. 5, 1433:** King Le Thai To passed away.
 *   **1434:** Le Thai Tong ascended the throne. Regulations for the doctoral examination were established.
