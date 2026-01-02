@@ -50,9 +50,11 @@
 *   **679:** Nhà Đường đổi Giao Châu thành An Nam Đô hộ phủ.
 *   **687:** Cuộc khởi nghĩa của Lý Tự Tiên và Đinh Kiến.
 *   **713 - 722:** Cuộc khởi nghĩa của Mai Thúc Loan (Mai Hắc Đế).
+*   **767:** Quân Srivijaya (Chà Và) và Côn Lôn xâm phạm Giao Châu, bị Kinh lược sứ Trương Bá Nghi đánh tan.
 *   **766 - 791:** Cuộc khởi nghĩa của Phùng Hưng (Bố Cái Đại Vương).
 *   **819 - 820:** Cuộc khởi nghĩa của Dương Thanh.
 *   **866:** Cao Biền đánh bại Nam Chiếu, nhà Đường đổi An Nam đô hộ phủ làm Tĩnh Hải quân.
+*   **875:** Vua Indravarman II của Champa lập triều đại mới tại Indrapura (Quảng Nam), Phật giáo Đại thừa phát triển cực thịnh (phong cách Đồng Dương).
 *   **905:** Khúc Thừa Dụ giành quyền tự chủ, tự xưng là Tiết độ sứ.
 *   **907:** Khúc Hạo nối nghiệp cha, tiến hành nhiều cải cách quan trọng.
 *   **917:** Khúc Thừa Mỹ kế vị.
@@ -157,6 +159,7 @@
 *   **11/06/1341:** Trần Hiến Tông băng hà mà không có con nối dõi. Thái thượng hoàng Trần Minh Tông nắm quyền.
 *   **24/09/1341:** Thái thượng hoàng Trần Minh Tông nhường ngôi cho Hoàng tử Trần Hạo (sau là Trần Dụ Tông).
 *   **10/1341:** Vua Trần Dụ Tông ra lệnh biên soạn bộ *Hoàng triều đại điển* và *Hình thư*.
+*   **1353:** Phà Ngừm thống nhất các mường Lào, lập nước Lan Xang (Vạn Tượng), mở ra thời kỳ bang giao quan trọng ở biên giới phía Tây.
 *   **1361:** Champa dưới thời vua Chế Bồng Nga bắt đầu các cuộc tấn công, cướp phá vào Đại Việt, mở đầu một thời kỳ xung đột kéo dài.
 *   **25/5/1369:** Trần Dụ Tông qua đời mà không có con nối dõi vì sức khỏe suy yếu do hưởng lạc và sinh hoạt không điều độ trong thời gian trị vì.
 *   **18/07/1369:** Dương Nhật Lễ (con nuôi của Trần Dụ Tông) lên ngôi trong bối cảnh Hoàng thái hậu Hiền Từ đã đồng ý theo di chiếu của Dụ Tông.
@@ -243,6 +246,7 @@
 *   **1469:** Vua Lê Thánh Tông cho định bản đồ 12 thừa tuyên trong cả nước. Thừa tuyên Nam Sách đổi tên thành Thừa tuyên Hải Dương, danh xưng "Hải Dương" chính thức xuất hiện.
 *   **06/1471:** Lê Thánh Tông thân chinh đánh Champa, hạ thành Đồ Bàn, bắt vua Trà Toàn. Đặt thêm đạo Thừa tuyên thứ 13 là Quảng Nam.
 *   **1479:** Bộ sách *Đại Việt sử ký toàn thư* lần đầu được hoàn thành bởi Ngô Sĩ Liên.
+*   **1479:** Trong cuộc chiến với Lan Xang (1478 - 1480), quân đội Đại Việt tiến sâu vào đất Lào, chiếm kinh đô Luang Prabang, đẩy lùi quân Lan Xang.
 *   **1483:** Triều đình ban hành bộ luật *Quốc triều hình luật* (thường gọi là Luật Hồng Đức).
 *   **1490:** Định lại bản đồ 13 xứ trong cả nước.
 *   **1497:** Vua Lê Thánh Tông mất. Lê Hiến Tông lên ngôi.
@@ -409,6 +413,7 @@
 *   **10/1831:** Vua Minh Mệnh tiến hành cuộc cải cách hành chính lớn, xóa bỏ các tổng trấn, đổi các dinh, trấn ở Bắc Hà thành 18 tỉnh.
 *   **1832:** Ty Đài hiến được đổi thành Đô sát viện; thành lập Tam pháp ty (gồm đại diện của Hình bộ, Đô sát viện và Đại lý tự).
 *   **10/1832:** Xóa bỏ Tổng trấn Gia Định thành, chia các trấn từ Quảng Nam vào Nam thành 12 tỉnh.
+*   **1832:** Vua Minh Mạng xóa bỏ quy chế tự trị của trấn Thuận Thành (phần lãnh thổ còn lại của Champa), đổi thành phủ Ninh Thuận, đặt quan lại cai trị trực tiếp. Vương quốc Champa chính thức chấm dứt tồn tại.
 *   **1833 - 1834:** Cuộc nổi dậy "phù Lê" do Lê Duy Lương lãnh đạo ở vùng Ninh Bình, Thanh Hóa, Hòa Bình.
 *   **1833 - 1835:** Cuộc nổi dậy của các dân tộc thiểu số phía Bắc do Nông Văn Vân lãnh đạo.
 *   **1833 - 1836:** Cuộc binh biến ở thành Phiên An (Gia Định) do Lê Văn Khôi lãnh đạo.

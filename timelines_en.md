@@ -50,9 +50,11 @@
 *   **679:** The Tang dynasty changed Giao Chau to the Protectorate General of Annam.
 *   **687:** The uprising of Ly Tu Tien and Dinh Kien.
 *   **713 - 722:** The uprising of Mai Thuc Loan (Mai Hac De).
+*   **767:** Srivijaya and Kunlun forces raided Giao Chau and were defeated by Military Commissioner Zhang Boyi.
 *   **766 - 791:** The uprising of Phung Hung (Bo Cai Dai Vuong).
 *   **819 - 820:** The uprising of Duong Thanh.
 *   **866:** After defeating Nanzhao, the Tang dynasty upgraded the An Nam Protectorate to the Jinghai Military Commission (Tinh Hai quan).
+*   **875:** King Indravarman II of Champa established the Indrapura dynasty (Quang Nam), marking a flourishing period of Mahayana Buddhism (Dong Duong style).
 *   **905:** Khuc Thua Du won autonomy, proclaiming himself Jiedushi (Military Governor).
 *   **907:** Khuc Hao succeeded his father, carrying out many important reforms.
 *   **917:** Khuc Thua My succeeded to the position.
@@ -157,6 +159,7 @@
 *   **Nov. 6, 1341:** Emperor Trần Hiến Tông died without an heir. The retired emperor Trần Minh Tông assumed power.
 *   **Sep. 24, 1341:** Emperor Emeritus Tran Minh Tong abdicated the throne in favor of Prince Tran Hao (later Tran Du Tong).
 *   **Oct. 1341:** King Tran Du Tong ordered the compilation of the *Hoang trieu dai dien* and *Hinh thu*.
+*   **1353:** Fa Ngum unified the Lao mueang and established the Kingdom of Lan Xang, initiating an important period of relations on the western border.
 *   **1361:** Champa under King Che Bong Nga began attacks and raids on Dai Viet, starting a long period of conflict.
 *   **May 25, 1369:** Tran Du Tong died without an heir due to weakened health caused by excessive indulgence and intemperate lifestyle during his reign.
 *   **Jul. 18, 1369:** Duong Nhat Le (Tran Du Tong's adopted son) ascended the throne with the consent of Empress Dowager Hien Tu, following Du Tong's will.
@@ -243,6 +246,7 @@
 *   **1469:** King Le Thanh Tong ordered the mapping of the 12 Thua Tuyen provinces. Thua Tuyen Nam Sach was renamed Thua Tuyen Hai Duong; this was the first time the name "Hai Duong" appeared.
 *   **Jun. 1471:** Le Thanh Tong personally led a campaign against Champa, capturing Do Ban Citadel and King Tra Toan. The 13th Thua Tuyen province, Quang Nam, was added.
 *   **1479:** The historical chronicle *Dai Viet sử ký toàn thư* (Complete History of Dai Viet) was first completed by Ngo Si Lien.
+*   **1479:** During the war with Lan Xang (1478 - 1480), Dai Viet forces advanced deep into Lao territory, capturing the capital Luang Prabang.
 *   **1483:** The court promulgated the *Quoc trieu hinh luat* (National Dynasty's Penal Code), commonly known as the Hong Duc Code.
 *   **1490:** The map of the 13 provinces of the country was redefined.
 *   **1497:** King Le Thanh Tong passed away. Le Hien Tong ascended the throne.
@@ -409,6 +413,7 @@
 *   **Oct. 1831:** Emperor Minh Mang carried out a major administrative reform, abolishing the governor-general positions and changing the garrisons and towns in the North into 18 provinces.
 *   **1832:** The Ty Dai hien (Censorate) was changed to the Do sat vien (Supreme Censorate); the Tam phap ty (Three Judicial Offices, comprising representatives from the Ministry of Justice, the Supreme Censorate, and the Court of Revision) was established.
 *   **Oct. 1832:** The Gia Dinh Governor-Generalship was abolished, and the garrisons from Quang Nam southwards were divided into 12 provinces.
+*   **1832:** Emperor Minh Mang abolished the autonomous status of Thuan Thanh town (remaining Champa territory), renaming it Ninh Thuan Prefecture. The Kingdom of Champa officially ceased to exist.
 *   **1833 - 1834:** The "support the Le" uprising led by Le Duy Luong in the Ninh Binh, Thanh Hoa, and Hoa Binh regions.
 *   **1833 - 1835:** The uprising of ethnic minorities in the north led by Nong Van Van.
 *   **1833 - 1836:** The mutiny at Phien An Citadel (Gia Dinh) led by Le Van Khoi.
