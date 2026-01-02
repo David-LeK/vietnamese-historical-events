@@ -29,6 +29,7 @@
 *   **40:** Hai Bà Trưng dấy binh khởi nghĩa, giành lại độc lập. Trưng Trắc lên ngôi vua, đóng đô ở Mê Linh.
 *   **41:** Mã Viện mang 20 vạn quân sang xâm lược.
 *   **43:** Cuộc khởi nghĩa thất bại trước cuộc tấn công của tướng nhà Hán là Mã Viện. Hai Bà Trưng tuẫn tiết trên sông Hát.
+*   **Thế kỷ I - VII:** Vương quốc Phù Nam hình thành và phát triển rực rỡ ở vùng đồng bằng sông Cửu Long. Gắn liền với đó là Văn hóa Óc Eo, một trung tâm thương mại quan trọng kết nối các tuyến hàng hải Đông - Tây.
 *   **137:** Cuộc khởi nghĩa của Khu Liên ở huyện Tượng Lâm, quận Nhật Nam.
 *   **192:** Khu Liên chính thức thành lập nước Lâm Ấp.
 *   **226:** Nhà Đông Ngô chia Giao Châu thành Quảng Châu và Giao Châu.
@@ -317,12 +318,15 @@
 *   **1698:** Chúa Nguyễn cử Thống suất Nguyễn Hữu Cảnh vào kinh lược xứ Đồng Nai, lập phủ Gia Định (gồm dinh Trấn Biên và dinh Phiên Trấn). Đây là mốc quan trọng xác lập chủ quyền của Đại Việt ở Nam Bộ.
 *   **1702:** Công ty Đông Ấn Anh đến đặt thương điếm ở Côn Đảo nhưng nhanh chóng rút đi vì thất bại.
 *   **1708:** Mạc Cửu đem toàn bộ đất đai Hà Tiên do mình khai phá xin nội thuộc chúa Nguyễn.
+*   **08/1708:** Chúa Nguyễn Phúc Chu phong cho Mạc Cửu làm **Tổng binh** trấn Hà Tiên, tước Cửu Ngọc hầu, chính thức sáp nhập vùng đất này vào lãnh thổ Đại Việt.
 *   **1709:** Chúa Trịnh Căn mất, chắt là Trịnh Cương lên nối ngôi (An Đô Vương).
 *   **1718:** Ở Đàng Ngoài, chúa Trịnh Cương lập ra Lục phiên ở phủ Chúa, thâu tóm toàn bộ quyền lực, Lục bộ của triều đình nhà Lê chỉ còn là hư vị.
 *   **1725:** Chúa Nguyễn Phúc Chu mất, con là Nguyễn Phúc Chú lên nối ngôi (Ninh Vương).
 *   **1729:** Chúa Trịnh Cương mất, con là Trịnh Giang lên nối ngôi (Uy Nam Vương).
+*   **1736:** Mạc Thiên Tích thành lập **Tao đàn Chiêu Anh Các** tại Hà Tiên, tập hợp các văn nhân thi sĩ, đánh dấu bước phát triển rực rỡ của văn hóa, văn học vùng đất phương Nam.
 *   **1738 - 1770:** Cuộc khởi nghĩa của Lê Duy Mật (tôn thất nhà Lê) nổ ra, kéo dài hơn 30 năm ở vùng Thanh Hóa, Nghệ An.
 *   **1738:** Chúa Nguyễn Phúc Chú mất, con là Nguyễn Phúc Khoát lên nối ngôi.
+*   **1739:** Mạc Thiên Tích lập thêm 4 huyện mới: Long Xuyên (Cà Mau), Kiên Giang (Rạch Giá), Trấn Giang (Cần Thơ) và Trấn Di (Bạc Liêu), mở rộng và hoàn thiện hệ thống hành chính vùng Tây Nam Bộ.
 *   **1739:** Các cuộc khởi nghĩa nông dân lớn ở Đàng Ngoài bùng nổ, tiêu biểu là cuộc khởi nghĩa của Nguyễn Tuyển, Nguyễn Cừ ở Hải Dương và Hoàng Công Chất ở Sơn Nam.
 *   **1740:** Ở Đàng Ngoài, chúa Trịnh Giang bị phế truất, em là Trịnh Doanh lên nối ngôi (Minh Đô Vương).
 *   **1741 - 1751:** Cuộc khởi nghĩa của Nguyễn Hữu Cầu (Quận He) hoạt động mạnh mẽ ở vùng duyên hải Sơn Nam và Hải Dương, gây nhiều khó khăn cho quân Trịnh.

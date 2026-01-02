@@ -29,6 +29,7 @@
 *   **40:** The Trung Sisters launched an uprising, regaining independence. Trung Trac ascended to the throne as queen, establishing the capital at Me Linh.
 *   **41:** Ma Yuan led an army of 200,000 to invade.
 *   **43:** The uprising failed following an attack by the Han general Ma Yuan. The Trung Sisters committed suicide in the Hat River.
+*   **1st - 7th century:** The Kingdom of Funan (Phu Nam) flourished in the Mekong Delta. Associated with the Oc Eo Culture, it was a major commercial center connecting maritime trade routes between the East and West.
 *   **137:** The uprising of Khu Lien in Tuong Lam district, Nhat Nam commandery.
 *   **192:** Khu Lien officially established the Lam Ap kingdom.
 *   **226:** The Eastern Wu dynasty divided Giao Chau into Guangzhou (Quang Chau) and Jiaozhou (Giao Chau).
@@ -317,12 +318,15 @@
 *   **1698:** The Nguyen lord sent Commander Nguyen Huu Canh to administer the Dong Nai region, establishing Gia Dinh Prefecture (comprising Tran Bien and Phien Tran garrisons). This was an important milestone in establishing Dai Viet's sovereignty in the South.
 *   **1702:** The British East India Company established a trading post on Con Dao Island but quickly withdrew due to failure.
 *   **1708:** Mac Cuu offered all the land he had developed in Ha Tien to the Nguyen lords.
+*   **Aug. 1708:** Lord Nguyen Phuc Chu appointed Mac Cuu as **Tong Binh** (General) of Ha Tien, officially incorporating this land into Dai Viet's territory.
 *   **1709:** Lord Trinh Can passed away. His great-grandson, Trinh Cuong, succeeded him as Lord (An Do Vuong).
 *   **1718:** In Dang Ngoai, Lord Trinh Cuong established the Six Bureaus (Luc phien) in the Lord's Palace, usurping all power, leaving the Le court's Six Ministries with only nominal authority.
 *   **1725:** Lord Nguyen Phuc Chu passed away. His son, Nguyen Phuc Chu (Lord Ninh), succeeded him.
 *   **1729:** Lord Trinh Cuong passed away. His son, Trinh Giang, succeeded him as Lord (Uy Nam Vuong).
+*   **1736:** Mac Thien Tich established the **Chieu Anh Cac** (Pavilion of Unadorned Beauty), a famous literary society in Ha Tien, promoting culture and literature in the newly developed southern lands.
 *   **1738 - 1770:** The uprising of Le Duy Mat (a Le royal relative) broke out, lasting over 30 years in the Thanh Hoa and Nghe An regions.
 *   **1738:** Lord Nguyen Phuc Chu (Lord Ninh) passed away. His son, Nguyen Phuc Khoat, succeeded him.
+*   **1739:** Mac Thien Tich established four new districts: Long Xuyen (Ca Mau), Kien Giang (Rach Gia), Tran Giang (Can Tho), and Tran Di (Bac Lieu), consolidating administrative control over the Mekong Delta.
 *   **1739:** Major peasant uprisings erupted in Dang Ngoai, notably the uprisings of Nguyen Tuyen and Nguyen Cu in Hai Duong, and Hoang Cong Chat in Son Nam.
 *   **1740:** In Dang Ngoai, the abusive Lord Trinh Giang was deposed. His younger brother, Trinh Doanh, succeeded him as Lord (Minh Do Vuong).
 *   **1741 - 1751:** The uprising of Nguyen Huu Cau (Quan He) was very active in the coastal areas of Son Nam and Hai Duong, causing great difficulty for the Trinh army.
