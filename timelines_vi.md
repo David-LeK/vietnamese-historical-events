@@ -349,12 +349,12 @@
 ### **Thời kỳ Tây Sơn (1771 - 1802)**
 
 *   **1771 - 1801:** Nguyễn Ánh nhiều lần chạy ra Phú Quốc ẩn náu khi bị quân Tây Sơn truy đuổi.
-*   **1771:** Ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ dựng cờ khởi nghĩa ở Tây Sơn Thượng đạo (An Khê, Gia Lai) với khẩu hiệu "lấy của người giàu chia cho người nghèo".
-*   **1773:** Nghĩa quân Tây Sơn hạ thành Quy Nhơn, mở rộng căn cứ ra đồng bằng.
+*   **1771:** Ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ dựng cờ khởi nghĩa ở Tây Sơn Thượng đạo (An Khê, Gia Lai) với khẩu hiệu "lấy của người giàu chia cho người nghèo". Nguyễn Nhạc được tôn làm **Tây Sơn Vương**.
+*   **1773:** Nghĩa quân Tây Sơn hạ thành Quy Nhơn nhờ mưu kế Nguyễn Nhạc tự ngồi trong cũi giả làm tù nhân để lọt vào thành.
 *   **1773:** Nguyễn Ánh thành lập 3 làng An Hải, An Hội, Cỏ Ống và đặt tên cho quần đảo Côn Đảo là Côn Lôn.
 *   **1774:** Quân Trịnh do Hoàng Ngũ Phúc chỉ huy vượt sông Gianh tiến vào Nam, chiếm được Phú Xuân. Chúa Nguyễn Phúc Thuần phải chạy vào Quảng Nam.
 *   **05/1775:** Quân Trịnh tiếp tục chiếm Quảng Nam. Nguyễn Nhạc phải tạm thời xin hàng quân Trịnh để tập trung lực lượng đánh chúa Nguyễn.
-*   **1776:** Nguyễn Nhạc tự xưng là Tây Sơn vương.
+*   **1776:** Nguyễn Nhạc cho sửa sang thành Đồ Bàn (Quy Nhơn) để làm căn cứ cho nhà Tây Sơn.
 *   **1777:** Nguyễn Huệ tiến đánh Gia Định, tiêu diệt gần hết lực lượng của chúa Nguyễn. Chúa Nguyễn Phúc Thuần và Tân Chính vương Nguyễn Phúc Dương đều bị bắt và bị giết. Nguyễn Ánh (cháu chúa Nguyễn) chạy thoát ra đảo Thổ Châu.
 *   **1778:** Nguyễn Nhạc lên ngôi Hoàng đế, xưng là Minh Đức Hoàng Đế, đặt niên hiệu Thái Đức. Ông cho mở rộng quy mô thành Đồ Bàn cũ, xây dựng tráng lệ và đổi tên thành **Hoàng Đế thành** để làm kinh đô.
 *   **1782:** Nguyễn Ánh chiếm lại được Gia Định.
@@ -376,18 +376,20 @@
 *   **22/12/1788:** Tại Phú Xuân, Nguyễn Huệ lên ngôi Hoàng đế, lấy niên hiệu Quang Trung, rồi lập tức chỉ huy đại quân thần tốc tiến ra Bắc.
 *   **28-30/01/1789 (Mồng 3-5 Tết Kỷ Dậu):** Trong một cuộc hành quân và tấn công chớp nhoáng, vua Quang Trung đại phá quân Thanh trong các trận Hà Hồi, Ngọc Hồi, Đống Đa, giải phóng Thăng Long. Tôn Sĩ Nghị bỏ chạy, Lê Chiêu Thống lưu vong.
 *   **1789:** Vua Quang Trung ban bố "Chiếu khuyến nông" để phục hồi sản xuất. Đồng thời, lần đầu tiên ban hành chế độ **"Tín bài"** (thẻ căn cước) để quản lý dân số và tuyển quân, phân chia dân thành các hạng tuổi để kiểm soát hộ tịch.
+*   **1790:** Phái đoàn sứ giả do "Vua giả" (Phạm Văn Trị đóng giả Nguyễn Huệ) dẫn đầu sang Trung Quốc cầu phong và dự lễ mừng thọ vua Càn Long, thực hiện thắng lợi đường lối ngoại giao mềm dẻo.
 *   **1790:** Ở Gia Định, Nguyễn Ánh cho xây dựng thành Gia Định (thành Bát Quái) làm căn cứ quân sự vững chắc.
 *   **1791:** Vua Quang Trung cho lập **Viện Sùng Chính** do La Sơn Phu Tử Nguyễn Thiếp đứng đầu. Đây là sự kiện quan trọng đánh dấu việc lần đầu tiên **chữ Nôm** được đưa lên làm văn tự chính thức của quốc gia dùng trong chiếu biểu, thi cử, thay thế vị trí độc tôn của chữ Hán.
 *   **1792:** Vua Quang Trung chuẩn bị đại binh để tấn công Gia Định, tiêu diệt hoàn toàn lực lượng Nguyễn Ánh, nhưng kế hoạch bị hủy bỏ do vua đột ngột băng hà.
-*   **16/09/1792:** Vua Quang Trung đột ngột qua đời ở tuổi 39. Con trai là Nguyễn Quang Toản (10 tuổi) lên kế vị, lấy niên hiệu là Cảnh Thịnh.
+*   **15/09/1792 (29 tháng 7 âm lịch):** Vua Quang Trung đột ngột qua đời ở tuổi 40 (theo sách *Nhà Tây Sơn*). Con trai là Nguyễn Quang Toản (10 tuổi) lên kế vị, lấy niên hiệu là Cảnh Thịnh.
 *   **1793:** Nguyễn Ánh tấn công Quy Nhơn. Nguyễn Nhạc cầu cứu Phú Xuân. Quân của Quang Toản vào giải vây rồi chiếm luôn thành Quy Nhơn. Nguyễn Nhạc uất hận mà chết.
 *   **1795:** Nội bộ triều Tây Sơn xảy ra biến loạn, các tướng lĩnh Bùi Đắc Tuyên, Ngô Văn Sở bị Vũ Văn Dũng giết hại, gây chia rẽ sâu sắc.
 *   **1799:** Nguyễn Ánh chiếm lại được thành Quy Nhơn, đổi tên là Bình Định.
 *   **1800:** Hai tướng chủ chốt của Tây Sơn là Trần Quang Diệu và Vũ Văn Dũng đem quân vào vây thành Bình Định.
 *   **02/1801:** **Trận Thị Nại** diễn ra ác liệt. Nguyễn Ánh dùng hỏa công lợi dụng gió nồm đốt cháy hoàn toàn hạm đội thủy quân Tây Sơn do Võ Văn Dũng chỉ huy. Đây được coi là trận thủy chiến lớn nhất trong lịch sử Việt Nam ("Đệ nhất vũ công").
 *   **06/1801:** Sau chiến thắng Thị Nại, Nguyễn Ánh đánh chiếm kinh đô Phú Xuân. Vua Cảnh Thịnh bỏ chạy ra Bắc.
+*   **01/1802:** Trận chiến ác liệt tại Trấn Ninh và Đâu Mâu (Quảng Bình). Nữ tướng Bùi Thị Xuân chỉ huy tượng binh chiến đấu dũng cảm nhưng quân Tây Sơn thất bại.
 *   **06/1802:** Sau khi thành Bình Định thất thủ, Nguyễn Ánh chính thức lên ngôi Hoàng đế ở Phú Xuân, đặt niên hiệu là Gia Long.
-*   **20/07/1802:** Quân Nguyễn tiến ra chiếm được Thăng Long, bắt được vua Cảnh Thịnh. Các danh tướng như Trần Quang Diệu, Bùi Thị Xuân cùng gia quyến bị hành quyết tàn khốc. Triều đại Tây Sơn chính thức sụp đổ.
+*   **20/07/1802:** Quân Nguyễn tiến ra chiếm được Thăng Long, bắt được vua Cảnh Thịnh. Các danh tướng như Trần Quang Diệu, Bùi Thị Xuân cùng gia quyến bị hành quyết tàn khốc (voi giày, lột da). Triều đại Tây Sơn chính thức sụp đổ.
 
 ### **Thời kỳ Nhà Nguyễn (1802 - 1858)**
 
