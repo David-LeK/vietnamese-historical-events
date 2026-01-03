@@ -349,9 +349,13 @@
 ### **Tay Son Period (1771 - 1802)**
 
 *   **1771 - 1801:** Nguyen Anh repeatedly sought refuge on Phu Quoc Island when pursued by the Tay Son forces.
+*   **Mid-17th Century (approx. 1653 - 1657):** Ho Phi Long, the ancestor of the Tay Son brothers, migrated from Nghe An to Quy Nhon to establish a career, laying the family's foundation in the region.
+*   **1765:** The regent Truong Phuc Loan usurped power, causing social turmoil. Teacher Truong Van Hien fled to An Thai and taught literature and martial arts to the three Tay Son brothers (Nguyen Nhac, Nguyen Hue, Nguyen Lu), preparing the intellectual and martial basis for the uprising.
 *   **1771:** The three brothers Nguyen Nhac, Nguyen Hue, and Nguyen Lu raised the flag of rebellion in Tay Son Thuong dao (An Khe, Gia Lai) with the slogan "take from the rich and give to the poor." Nguyen Nhac was proclaimed **Tay Son Vuong** (King of Tay Son).
 *   **1771:** Gaining strong support from ethnic minorities (Sedang, Bahnar) in the An Khe region, Nguyen Nhac was revered by them as the "King of Heaven", creating a solid initial base for the uprising.
-*   **1773:** The Tay Son righteous army captured Quy Nhon Citadel (Do Ban) using the stratagem of Nguyen Nhac hiding himself in a cage to enter the citadel as a prisoner.
+*   **Mid-Autumn 1773:** Nguyen Nhac held a flag-raising ceremony at An Khe Pass to officially launch the military campaign.
+*   **1773:** The Tay Son army captured Tuy Vien district and then Quy Nhon Citadel (using the stratagem of Nguyen Nhac hiding himself in a cage to enter the citadel as a prisoner).
+*   **Nov. 1773:** The Tay Son army won a victory at Ben Van (Quang Ngai) and built defensive sand ramparts.
 *   **1773:** Nguyen Anh established three villages, An Hai, An Hoi, and Co Ong, and named the Con Dao archipelago Con Lon.
 *   **1774:** The Trinh army, commanded by Hoang Ngu Phuc, crossed the Gianh River and advanced south, capturing Phu Xuan. Lord Nguyen Phuc Thuan had to flee to Quang Nam.
 *   **May 1775:** The Trinh army continued to occupy Quang Nam. Nguyen Nhac had to temporarily surrender to the Trinh army to concentrate his forces on fighting the Nguyen lords.
@@ -374,6 +378,7 @@
 *   **Late 1786:** Nguyen Hue was given Princess Ngoc Han in marriage by the Le king. The Tay Son brothers divided the country to rule: Nguyen Nhac as the Central Emperor (from Quang Nam to Binh Thuan), Nguyen Hue as the Northern Pacification King (Bac Binh Vuong - governing Thuan Hoa northwards), and Nguyen Lu as the Eastern Pacification King (Dong Dinh Vuong - governing Gia Dinh).
 *   **1787:** Conflict broke out between Nguyen Nhac and Nguyen Hue. Nguyen Hue led troops to besiege Hoang De Citadel, forcing Nguyen Nhac to cede more land in Quang Nam.
 *   **Nov. 21, 1787:** In the Treaty of Versailles, Nguyen Anh ceded Con Dao Island to France in exchange for support, but this treaty never materialized.
+*   **Apr. 1788:** Nguyen Hue marched to Thang Long to execute Vu Van Nham for arrogance and plotting rebellion after Nham had eliminated Nguyen Huu Chinh. This consolidated Tay Son's control over the North before the Qing invasion.
 *   **1788:** Nguyen Anh returned from Siam and, taking advantage of Nguyen Lu's weakness, recaptured Gia Dinh.
 *   **Late 1788:** King Le Chieu Thong fled to China to seek aid. 290,000 Manchu Qing troops led by Sun Shiyi poured into our country, occupying Thang Long.
 *   **Dec. 22, 1788:** In Phu Xuan, Nguyen Hue ascended the throne as Emperor, taking the era name Quang Trung, and immediately led a large army on a lightning march to the north.
