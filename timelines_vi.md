@@ -358,6 +358,7 @@
 *   **1777:** Nguyễn Huệ tiến đánh Gia Định, tiêu diệt gần hết lực lượng của chúa Nguyễn. Chúa Nguyễn Phúc Thuần và Tân Chính vương Nguyễn Phúc Dương đều bị bắt và bị giết. Nguyễn Ánh (cháu chúa Nguyễn) chạy thoát ra đảo Thổ Châu.
 *   **1778:** Nguyễn Nhạc lên ngôi Hoàng đế, xưng là Minh Đức Hoàng Đế, đặt niên hiệu Thái Đức. Ông cho mở rộng quy mô thành Đồ Bàn cũ, xây dựng tráng lệ và đổi tên thành **Hoàng Đế thành** để làm kinh đô.
 *   **1782:** Nguyễn Ánh chiếm lại được Gia Định.
+*   **03/1782:** Trận Thất Kỳ giang (Ngã Bảy, Sài Gòn). Quân Tây Sơn đánh bại thủy quân của Nguyễn Ánh và các tàu chiến phương Tây, giết chết chỉ huy Manuel (Mạn Hòe).
 *   **1782:** Tại Đàng Ngoài, xảy ra "Loạn kiêu binh", quân lính kiêu binh nổi loạn làm triều chính họ Trịnh càng thêm suy yếu, tạo điều kiện cho quân Tây Sơn tiến ra Bắc sau này.
 *   **09/1782:** Chúa Trịnh Sâm mất. Con nhỏ là Trịnh Cán nối ngôi nhưng bị kiêu binh phế truất, đưa Trịnh Tông (Trịnh Khải) lên thay (Đoan Nam Vương).
 *   **1783:** Nguyễn Huệ và Nguyễn Lữ đem quân vào đánh, Nguyễn Ánh lại thua trận, phải chạy sang Xiêm cầu viện.
@@ -377,6 +378,7 @@
 *   **1789:** Vua Quang Trung ban bố "Chiếu khuyến nông" để phục hồi sản xuất. Đồng thời, lần đầu tiên ban hành chế độ **"Tín bài"** (thẻ căn cước) để quản lý dân số và tuyển quân, phân chia dân thành các hạng tuổi để kiểm soát hộ tịch.
 *   **1790:** Ở Gia Định, Nguyễn Ánh cho xây dựng thành Gia Định (thành Bát Quái) làm căn cứ quân sự vững chắc.
 *   **1791:** Vua Quang Trung cho lập **Viện Sùng Chính** do La Sơn Phu Tử Nguyễn Thiếp đứng đầu. Đây là sự kiện quan trọng đánh dấu việc lần đầu tiên **chữ Nôm** được đưa lên làm văn tự chính thức của quốc gia dùng trong chiếu biểu, thi cử, thay thế vị trí độc tôn của chữ Hán.
+*   **1792:** Vua Quang Trung chuẩn bị đại binh để tấn công Gia Định, tiêu diệt hoàn toàn lực lượng Nguyễn Ánh, nhưng kế hoạch bị hủy bỏ do vua đột ngột băng hà.
 *   **16/09/1792:** Vua Quang Trung đột ngột qua đời ở tuổi 39. Con trai là Nguyễn Quang Toản (10 tuổi) lên kế vị, lấy niên hiệu là Cảnh Thịnh.
 *   **1793:** Nguyễn Ánh tấn công Quy Nhơn. Nguyễn Nhạc cầu cứu Phú Xuân. Quân của Quang Toản vào giải vây rồi chiếm luôn thành Quy Nhơn. Nguyễn Nhạc uất hận mà chết.
 *   **1795:** Nội bộ triều Tây Sơn xảy ra biến loạn, các tướng lĩnh Bùi Đắc Tuyên, Ngô Văn Sở bị Vũ Văn Dũng giết hại, gây chia rẽ sâu sắc.

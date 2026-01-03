@@ -359,6 +359,7 @@
 *   **1778:** Nguyen Nhac proclaimed himself Emperor Minh Duc (Thai Duc), establishing the era name Thai Duc. He expanded and reinforced the former Do Ban citadel, renaming it **Hoang De Citadel** (Imperial Citadel) to serve as the capital.
 *   **1782:** Nguyen Anh recaptured Gia Dinh.
 *   **1782:** In Dang Ngoai (the North), the 'Revolt of the Palace Guards' broke out. The rebellious guards further weakened the Trinh lords' court, creating favorable conditions for the later advance of the Tay Son army to the North.
+*   **Mar. 1782:** Battle of That Ky River (Nga Bay, Saigon). The Tay Son army defeated Nguyen Anh's navy and Western warships, killing the French commander Manuel.
 *   **Sep. 1782:** Lord Trinh Sam passed away. His young son Trinh Can succeeded him but was soon deposed by the kiêu binh (arrogant soldiers), who installed Trinh Tong (also known as Trinh Khai) as Lord (Doan Nam Vuong).
 *   **1783:** Nguyen Hue and Nguyen Lu led troops to attack; Nguyen Anh was again defeated and had to flee to Siam (Thailand) to seek aid.
 *   **Mar. 1784:** Bishop Pigneau de Béhaine (Bá Đa Lộc) represented Nguyen Anh in going to France to ask for help.
@@ -377,6 +378,7 @@
 *   **1789:** Emperor Quang Trung issued the "Edict on Encouraging Agriculture" to restore production. He also introduced the **"Tin Bai"** (Identity Card) system for the first time to manage the population and conscription, requiring citizens to carry an identification tag.
 *   **1790:** In Gia Dinh, Nguyen Anh ordered the construction of Gia Dinh Citadel (the Octagonal Citadel) as a strong military base.
 *   **1791:** Emperor Quang Trung established the **Institute for the Veneration of Orthodoxy** (Vien Sung Chinh), headed by Nguyen Thiep. This marked a significant cultural milestone as **Chu Nom** (Vietnamese demotic script) was elevated to the status of the national official script for documents and education, replacing Classical Chinese.
+*   **1792:** Emperor Quang Trung prepared a massive military campaign to attack Gia Dinh and destroy Nguyen Anh's forces, but the plan was cancelled due to his sudden death.
 *   **Sep. 16, 1792:** Emperor Quang Trung suddenly passed away at the age of 39. His son, Nguyen Quang Toan (10 years old), succeeded him, taking the era name Canh Thinh.
 *   **1793:** Nguyen Anh attacked Quy Nhon. Nguyen Nhac asked Phu Xuan for help. Quang Toan's army came to relieve the siege and then captured Quy Nhon Citadel. Nguyen Nhac died of indignation.
 *   **1795:** Turmoil occurred within the Tay Son court; generals Bui Dac Tuyen and Ngo Van So were killed by Vu Van Dung, causing deep divisions.
