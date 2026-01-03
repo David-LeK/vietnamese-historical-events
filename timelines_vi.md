@@ -91,11 +91,13 @@
 *   **21/11/1009:** Lê Long Đĩnh (Lê Ngọa Triều) mất. Lý Công Uẩn được tôn lên làm vua (Lý Thái Tổ), sáng lập ra vương triều Lý.
 *   **07/1010:** Lý Thái Tổ ra "Chiếu dời đô", chuyển kinh đô từ Hoa Lư về thành Đại La và đổi tên thành Thăng Long.
 *   **12/1010:** Lý Thái Tổ tiến hành cải cách hành chính, chia cả nước làm 24 lộ.
+*   **1013:** Lý Thái Tổ định ra các hạng thuế trong cả nước, bao gồm thuế bãi dâu, đánh dấu sự khuyến khích phát triển nghề trồng dâu nuôi tằm và tự chủ tài chính.
 *   **06/1018:** Triều đình cử sứ sang nhà Tống xin bộ kinh Tam Tạng.
 *   **12/1020:** Quân Lý dưới sự chỉ huy của Thái tử Lý Phật Mã đánh bại quân Chiêm Thành ở trại Bố Chính (Quảng Bình).
 *   **1028:** Lý Thái Tổ mất, Lý Phật Mã lên ngôi (Lý Thái Tông). Xảy ra "Loạn Tam vương" nhưng bị dẹp yên.
 *   **1029:** Vua Lý Thái Tông dẹp loạn ở giáp Đãn Nãi (Thanh Hóa) và cho đào kênh Đãn Nãi.
-*   **02/1040:** Vua Lý Thái Tông dạy các cung nữ dệt gấm vóc, khuyến khích sản xuất trong nước.
+*   **1038:** Vua Lý Thái Tông đích thân cày ruộng tịch điền ở Bố Hải Khẩu, tuyên bố coi trọng nông nghiệp để "thiên hạ noi theo".
+*   **02/1040:** Vua Lý Thái Tông dạy các cung nữ dệt gấm vóc, xuống chiếu phát hết gấm vóc của nước Tống trong kho ban cho các quan để tỏ ý dùng hàng nội, không dùng hàng Tống nữa.
 *   **1042:** Triều đình ban hành bộ *Hình thư*, bộ luật thành văn đầu tiên của Việt Nam.
 *   **01/1044:** Lý Thái Tông thân chinh đánh Champa, chém được vua Champa là Sạ Đẩu tại trận.
 *   **1049:** Vua Lý Thái Tông cho xây dựng chùa Diên Hựu (chùa Một Cột).
@@ -118,6 +120,7 @@
 *   **1150:** Xảy ra vụ biến loạn Đỗ Anh Vũ trong triều đình.
 *   **14/08/1175:** Lý Anh Tông mất, Lý Long Cán lên ngôi (Lý Cao Tông) lúc mới 2 tuổi.
 *   **1181:** Nạn đói lớn xảy ra, khiến dân chúng chết gần một nửa.
+*   **1198:** Vua Lý Cao Tông nghe lời Đàm Dĩ Mông, ra lệnh sa thải các tăng đồ không giữ giới luật, bắt hoàn tục để làm phu dịch, chấn chỉnh lại Phật giáo và xã hội.
 *   **Thế kỷ XIII:** Nhà thám hiểm người Ý Marco Polo ghé thăm và mô tả về Côn Đảo trong hồi ký của mình. Vào cùng thế kỷ, Hồi giáo cũng được du nhập vào chủ yếu thông qua cộng đồng người Chăm Pa.
 *   **1203:** Vua Lý Cao Tông cho xây dựng nhiều cung điện xa hoa, khiến dân chúng càng thêm khốn khổ, giặc cướp nổi lên.
 *   **01/1209:** Loạn Quách Bốc nổ ra ở kinh thành Thăng Long, vua Lý Cao Tông phải bỏ chạy. Hoàng tử Sảm chạy về Hải Ấp (Thái Bình), được họ Trần che chở và lấy Trần Thị Dung làm vợ.
@@ -132,6 +135,7 @@
 *   **1230:** Ban hành các bộ luật Quốc triều thông chế và Quốc triều thường lễ.
 *   **1237:** Xảy ra vụ loạn Trần Liễu do Trần Thủ Độ ép vua Trần Thái Tông lấy vợ của anh trai mình là Thuận Thiên công chúa.
 *   **1242:** Triều đình tiến hành cải cách hành chính, chia cả nước thành 12 lộ.
+*   **1250:** Vua Trần Thái Tông xuống chiếu cho thiên hạ gọi vua là "Quốc gia" để đề cao vị thế nhà vua và tính thống nhất của đất nước.
 *   **1252:** Trần Thái Tông thân chinh đánh Champa.
 *   **08/1257:** Sứ Mông Cổ đến Đại Việt lần đầu tiên để dụ hàng.
 *   **17/01/1258:** Trận Bình Lệ Nguyên. Vua Trần Thái Tông trực tiếp chỉ huy quân đội chống lại cuộc xâm lược của Mông Cổ do Ngột Lương Hợp Thai chỉ huy.

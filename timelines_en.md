@@ -91,11 +91,13 @@
 *   **Nov. 21, 1009:** Le Long Dinh (Le Ngoa Trieu) passed away. Ly Cong Uan was enthroned as king (Ly Thai To), founding the Ly dynasty.
 *   **Jul. 1010:** Ly Thai To issued the "Royal Edict on the Transfer of the Capital," moving the capital from Hoa Lu to Dai La Citadel and renaming it Thang Long.
 *   **Dec. 1010:** Ly Thai To carried out administrative reforms, dividing the country into 24 routes (lo).
+*   **1013:** Ly Thai To established a taxation system for the whole country, including taxes on mulberry fields, promoting sericulture and financial autonomy.
 *   **Jun. 1018:** The court sent an envoy to the Song dynasty to request the Tripitaka scriptures.
 *   **Dec. 1020:** The Ly army, under the command of Crown Prince Ly Phat Ma, defeated the Champa army at the Bo Chinh garrison (Quang Binh).
 *   **1028:** Ly Thai To passed away, Ly Phat Ma ascended the throne (Ly Thai Tong). The "Rebellion of the Three Princes" occurred but was suppressed.
 *   **1029:** King Ly Thai Tong suppressed a rebellion in the Dan Nai region (Thanh Hoa) and ordered the digging of the Dan Nai canal.
-*   **Feb. 1040:** King Ly Thai Tong taught the palace ladies to weave brocade, encouraging domestic production.
+*   **1038:** King Ly Thai Tong personally plowed the Tich Dien field at Bo Hai Khau, declaring the importance of agriculture for "the people to follow."
+*   **Feb. 1040:** King Ly Thai Tong taught palace maids to weave brocade and distributed all Song dynasty brocade from the treasury to officials to demonstrate the use of domestic goods and rejection of Song goods.
 *   **1042:** The court promulgated the Hinh Thu (Penal Code), the first written law code of Vietnam.
 *   **Jan. 1044:** Ly Thai Tong personally led a campaign against Champa, beheading the Champa king Sạ Đẩu (Jaya Simhavarman II) in battle.
 *   **1049:** King Ly Thai Tong ordered the construction of Dien Huu Pagoda (One Pillar Pagoda).
@@ -118,6 +120,7 @@
 *   **1150:** The Do Anh Vu rebellion occurred in the royal court.
 *   **Aug. 14, 1175:** Ly Anh Tong passed away, Ly Long Can ascended the throne (Ly Cao Tong) at the age of 2.
 *   **1181:** A great famine occurred, causing nearly half the population to die.
+*   **1198:** King Ly Cao Tong, following the advice of Dam Di Mong, ordered the dismissal of monks who did not strictly follow precepts, forcing them to return to secular life to perform corvee labor, reorganizing Buddhism and society.
 *   **13th century:** Italian explorer Marco Polo visited and described Con Dao Island in his memoirs. In the same century, Islam was also introduced, primarily through the Cham community.
 *   **1203:** King Ly Cao Tong ordered the construction of many lavish palaces, causing further misery to the people, and banditry arose.
 *   **Jan. 1209:** The Quach Boc rebellion broke out in the capital Thang Long, forcing King Ly Cao Tong to flee. Crown Prince Sam fled to Hai Ap (Thai Binh), was sheltered by the Tran clan, and married Tran Thi Dung.
@@ -132,6 +135,7 @@
 *   **1230:** The law codes Quoc trieu thong che and Quoc trieu thuong le were promulgated.
 *   **1237:** The Tran Lieu rebellion occurred after Tran Thu Do forced King Tran Thai Tong to marry his older brother's wife, Princess Thuan Thien.
 *   **1242:** The court carried out administrative reforms, dividing the country into 12 routes (lo).
+*   **1250:** King Tran Thai Tong issued a decree requiring the people to address the King as "Quoc gia" (The Nation/State) to elevate the King's position and national unity.
 *   **1252:** Tran Thai Tong personally led a campaign against Champa.
 *   **Aug. 1257:** A Mongol envoy came to Dai Viet for the first time to demand submission.
 *   **Jan. 17, 1258:** Battle of Binh Le Nguyen. King Tran Thai Tong directly commanded the army against the Mongol invasion led by Uriyangkhadai.
