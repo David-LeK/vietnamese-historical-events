@@ -350,13 +350,16 @@
 
 *   **1771 - 1801:** Nguyen Anh repeatedly sought refuge on Phu Quoc Island when pursued by the Tay Son forces.
 *   **1771:** The three brothers Nguyen Nhac, Nguyen Hue, and Nguyen Lu raised the flag of rebellion in Tay Son Thuong dao (An Khe, Gia Lai) with the slogan "take from the rich and give to the poor." Nguyen Nhac was proclaimed **Tay Son Vuong** (King of Tay Son).
+*   **1771:** Gaining strong support from ethnic minorities (Sedang, Bahnar) in the An Khe region, Nguyen Nhac was revered by them as the "King of Heaven", creating a solid initial base for the uprising.
 *   **1773:** The Tay Son righteous army captured Quy Nhon Citadel (Do Ban) using the stratagem of Nguyen Nhac hiding himself in a cage to enter the citadel as a prisoner.
 *   **1773:** Nguyen Anh established three villages, An Hai, An Hoi, and Co Ong, and named the Con Dao archipelago Con Lon.
 *   **1774:** The Trinh army, commanded by Hoang Ngu Phuc, crossed the Gianh River and advanced south, capturing Phu Xuan. Lord Nguyen Phuc Thuan had to flee to Quang Nam.
 *   **May 1775:** The Trinh army continued to occupy Quang Nam. Nguyen Nhac had to temporarily surrender to the Trinh army to concentrate his forces on fighting the Nguyen lords.
+*   **1775:** Two Chinese generals, Tap Dinh and Ly Tai, led their "Loyal" (Trung Nghia) and "Harmonious" (Hoa Nghia) regiments to join the Tay Son army, significantly boosting its military strength.
 *   **1776:** Nguyen Nhac repaired and expanded the Do Ban citadel to serve as the base for the Tay Son forces.
 *   **1777:** Nguyen Hue advanced to attack Gia Dinh, annihilating almost all of the Nguyen lords' forces. Lord Nguyen Phuc Thuan and the new king Nguyen Phuc Duong were both captured and killed. Nguyen Anh (nephew of the Nguyen lord) escaped to Tho Chau island.
 *   **1778:** Nguyen Nhac proclaimed himself Emperor Minh Duc (Thai Duc), establishing the era name Thai Duc. He expanded and reinforced the former Do Ban citadel, renaming it **Hoang De Citadel** (Imperial Citadel) to serve as the capital.
+*   **1778:** Female General Bui Thi Xuan organized and trained four brigades of female soldiers and an elite war elephant corps, contributing greatly to the Tay Son army's prowess.
 *   **1782:** Nguyen Anh recaptured Gia Dinh.
 *   **1782:** In Dang Ngoai (the North), the 'Revolt of the Palace Guards' broke out. The rebellious guards further weakened the Trinh lords' court, creating favorable conditions for the later advance of the Tay Son army to the North.
 *   **Mar. 1782:** Battle of That Ky River (Nga Bay, Saigon). The Tay Son army defeated Nguyen Anh's navy and Western warships, killing the French commander Manuel.
@@ -389,7 +392,7 @@
 *   **Jun. 1801:** Following the victory at Thi Nai, Nguyen Anh captured the capital Phu Xuan. King Canh Thinh fled to the North.
 *   **Jan. 1802:** The Battle of Tran Ninh and Dau Mau took place. General Bui Thi Xuan fought bravely commanding elephant troops, but the Tay Son forces were eventually defeated.
 *   **Jun. 1802:** After Binh Dinh Citadel fell, Nguyen Anh officially ascended the throne as Emperor in Phu Xuan, establishing the era name Gia Long.
-*   **Jul. 20, 1802:** The Nguyen army captured Thang Long. King Canh Thinh and prominent generals like Tran Quang Dieu and Bui Thi Xuan were captured and executed. The executions were carried out with extreme brutality, such as trampling by elephants. The Tay Son dynasty officially collapsed.
+*   **Jul. 20, 1802:** The Nguyen army captured Thang Long. King Canh Thinh and prominent generals were captured. According to the text *Nhà Tây Sơn*, General Tran Quang Dieu was skinned alive, while General Bui Thi Xuan was executed by "lighting the sky lantern" (wrapped in wax-soaked cloth and burned) after the war elephants refused to trample her. The Tay Son dynasty officially collapsed.
 
 ### **Nguyen Dynasty Period (1802 - 1858)**
 
