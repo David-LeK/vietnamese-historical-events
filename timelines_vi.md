@@ -356,7 +356,7 @@
 *   **05/1775:** Quân Trịnh tiếp tục chiếm Quảng Nam. Nguyễn Nhạc phải tạm thời xin hàng quân Trịnh để tập trung lực lượng đánh chúa Nguyễn.
 *   **1776:** Nguyễn Nhạc tự xưng là Tây Sơn vương.
 *   **1777:** Nguyễn Huệ tiến đánh Gia Định, tiêu diệt gần hết lực lượng của chúa Nguyễn. Chúa Nguyễn Phúc Thuần và Tân Chính vương Nguyễn Phúc Dương đều bị bắt và bị giết. Nguyễn Ánh (cháu chúa Nguyễn) chạy thoát ra đảo Thổ Châu.
-*   **1778:** Nguyễn Nhạc xưng là Trung ương Hoàng đế, đặt niên hiệu Thái Đức, xây dựng kinh đô ở thành Hoàng Đế (Đồ Bàn cũ).
+*   **1778:** Nguyễn Nhạc lên ngôi Hoàng đế, xưng là Minh Đức Hoàng Đế, đặt niên hiệu Thái Đức. Ông cho mở rộng quy mô thành Đồ Bàn cũ, xây dựng tráng lệ và đổi tên thành **Hoàng Đế thành** để làm kinh đô.
 *   **1782:** Nguyễn Ánh chiếm lại được Gia Định.
 *   **1782:** Tại Đàng Ngoài, xảy ra "Loạn kiêu binh", quân lính kiêu binh nổi loạn làm triều chính họ Trịnh càng thêm suy yếu, tạo điều kiện cho quân Tây Sơn tiến ra Bắc sau này.
 *   **09/1782:** Chúa Trịnh Sâm mất. Con nhỏ là Trịnh Cán nối ngôi nhưng bị kiêu binh phế truất, đưa Trịnh Tông (Trịnh Khải) lên thay (Đoan Nam Vương).
@@ -367,24 +367,25 @@
 *   **06/1786:** Lấy danh nghĩa "phù Lê diệt Trịnh", Nguyễn Huệ chỉ huy đại quân Tây Sơn tiến ra Bắc.
 *   **21/07/1786:** Quân Tây Sơn tiến vào Thăng Long, lật đổ nền thống trị hơn 200 năm của họ Trịnh một cách nhanh chóng.
 *   **1786:** Chúa Trịnh Tông tự sát khi bị quân Tây Sơn bắt. Trịnh Bồng lên ngôi (Án Đô Vương) nhưng sau đó bỏ trốn, chấm dứt nghiệp chúa Trịnh.
-*   **Cuối 1786:** Nguyễn Huệ được vua Lê gả công chúa Ngọc Hân. Anh em Tây Sơn chia nhau cai quản đất nước: Nguyễn Nhạc là Trung ương Hoàng đế (từ Quảng Ngãi vào Bình Thuận), Nguyễn Huệ là Bắc Bình vương (từ Hải Vân ra Bắc), Nguyễn Lữ là Đông Định vương (Gia Định).
+*   **Cuối 1786:** Nguyễn Huệ được vua Lê gả công chúa Ngọc Hân. Anh em Tây Sơn chia nhau cai quản đất nước: Nguyễn Nhạc là Trung ương Hoàng đế (từ Quảng Nam vào Bình Thuận), Nguyễn Huệ là Bắc Bình vương (cai quản Thuận Hóa từ đèo Hải Vân ra Bắc), Nguyễn Lữ là Đông Định vương (cai quản vùng Gia Định).
 *   **1787:** Mâu thuẫn giữa Nguyễn Nhạc và Nguyễn Huệ nổ ra. Nguyễn Huệ đem quân vây thành Hoàng Đế, buộc Nguyễn Nhạc phải nhượng thêm đất Quảng Nam.
 *   **21/11/1787:** Trong Hiệp ước Versailles, Nguyễn Ánh nhượng Côn Đảo cho Pháp để đổi lấy sự hỗ trợ, nhưng hiệp ước này không thành hiện thực.
 *   **1788:** Nguyễn Ánh từ Xiêm trở về, lợi dụng Nguyễn Lữ yếu kém, chiếm lại Gia Định.
 *   **Cuối 1788:** Vua Lê Chiêu Thống chạy sang Trung Quốc cầu viện. 29 vạn quân Mãn Thanh do Tôn Sĩ Nghị chỉ huy tràn vào xâm lược nước ta, chiếm Thăng Long.
 *   **22/12/1788:** Tại Phú Xuân, Nguyễn Huệ lên ngôi Hoàng đế, lấy niên hiệu Quang Trung, rồi lập tức chỉ huy đại quân thần tốc tiến ra Bắc.
 *   **28-30/01/1789 (Mồng 3-5 Tết Kỷ Dậu):** Trong một cuộc hành quân và tấn công chớp nhoáng, vua Quang Trung đại phá quân Thanh trong các trận Hà Hồi, Ngọc Hồi, Đống Đa, giải phóng Thăng Long. Tôn Sĩ Nghị bỏ chạy, Lê Chiêu Thống lưu vong.
-*   **1789:** Vua Quang Trung ban bố "Chiếu khuyến nông" để phục hồi sản xuất sau chiến tranh.
+*   **1789:** Vua Quang Trung ban bố "Chiếu khuyến nông" để phục hồi sản xuất. Đồng thời, lần đầu tiên ban hành chế độ **"Tín bài"** (thẻ căn cước) để quản lý dân số và tuyển quân, phân chia dân thành các hạng tuổi để kiểm soát hộ tịch.
 *   **1790:** Ở Gia Định, Nguyễn Ánh cho xây dựng thành Gia Định (thành Bát Quái) làm căn cứ quân sự vững chắc.
-*   **1791:** Vua Quang Trung cho lập Viện Sùng chính do Nguyễn Thiếp đứng đầu để chấn hưng giáo dục, đề cao chữ Nôm.
+*   **1791:** Vua Quang Trung cho lập **Viện Sùng Chính** do La Sơn Phu Tử Nguyễn Thiếp đứng đầu. Đây là sự kiện quan trọng đánh dấu việc lần đầu tiên **chữ Nôm** được đưa lên làm văn tự chính thức của quốc gia dùng trong chiếu biểu, thi cử, thay thế vị trí độc tôn của chữ Hán.
 *   **16/09/1792:** Vua Quang Trung đột ngột qua đời ở tuổi 39. Con trai là Nguyễn Quang Toản (10 tuổi) lên kế vị, lấy niên hiệu là Cảnh Thịnh.
 *   **1793:** Nguyễn Ánh tấn công Quy Nhơn. Nguyễn Nhạc cầu cứu Phú Xuân. Quân của Quang Toản vào giải vây rồi chiếm luôn thành Quy Nhơn. Nguyễn Nhạc uất hận mà chết.
 *   **1795:** Nội bộ triều Tây Sơn xảy ra biến loạn, các tướng lĩnh Bùi Đắc Tuyên, Ngô Văn Sở bị Vũ Văn Dũng giết hại, gây chia rẽ sâu sắc.
 *   **1799:** Nguyễn Ánh chiếm lại được thành Quy Nhơn, đổi tên là Bình Định.
 *   **1800:** Hai tướng chủ chốt của Tây Sơn là Trần Quang Diệu và Vũ Văn Dũng đem quân vào vây thành Bình Định.
-*   **06/1801:** Nguyễn Ánh bỏ qua thành Bình Định đang bị vây, bất ngờ đem thủy quân đánh thẳng ra Phú Xuân và chiếm được kinh đô.
+*   **02/1801:** **Trận Thị Nại** diễn ra ác liệt. Nguyễn Ánh dùng hỏa công lợi dụng gió nồm đốt cháy hoàn toàn hạm đội thủy quân Tây Sơn do Võ Văn Dũng chỉ huy. Đây được coi là trận thủy chiến lớn nhất trong lịch sử Việt Nam ("Đệ nhất vũ công").
+*   **06/1801:** Sau chiến thắng Thị Nại, Nguyễn Ánh đánh chiếm kinh đô Phú Xuân. Vua Cảnh Thịnh bỏ chạy ra Bắc.
 *   **06/1802:** Sau khi thành Bình Định thất thủ, Nguyễn Ánh chính thức lên ngôi Hoàng đế ở Phú Xuân, đặt niên hiệu là Gia Long.
-*   **20/07/1802:** Quân Nguyễn tiến ra chiếm được Thăng Long, bắt được vua Cảnh Thịnh và toàn bộ triều thần. Triều đại Tây Sơn chính thức sụp đổ.
+*   **20/07/1802:** Quân Nguyễn tiến ra chiếm được Thăng Long, bắt được vua Cảnh Thịnh. Các danh tướng như Trần Quang Diệu, Bùi Thị Xuân cùng gia quyến bị hành quyết tàn khốc. Triều đại Tây Sơn chính thức sụp đổ.
 
 ### **Thời kỳ Nhà Nguyễn (1802 - 1858)**
 

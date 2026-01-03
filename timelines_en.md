@@ -356,7 +356,7 @@
 *   **May 1775:** The Trinh army continued to occupy Quang Nam. Nguyen Nhac had to temporarily surrender to the Trinh army to concentrate his forces on fighting the Nguyen lords.
 *   **1776:** Nguyen Nhac proclaimed himself Tay Son Vuong (King of Tay Son).
 *   **1777:** Nguyen Hue advanced to attack Gia Dinh, annihilating almost all of the Nguyen lords' forces. Lord Nguyen Phuc Thuan and the new king Nguyen Phuc Duong were both captured and killed. Nguyen Anh (nephew of the Nguyen lord) escaped to Tho Chau island.
-*   **1778:** Nguyen Nhac proclaimed himself Central Emperor, established the era name Thai Duc, and built his capital at Hoang De Citadel (the former Do Ban).
+*   **1778:** Nguyen Nhac proclaimed himself Emperor Minh Duc (Thai Duc), establishing the era name Thai Duc. He expanded and reinforced the former Do Ban citadel, renaming it **Hoang De Citadel** (Imperial Citadel) to serve as the capital.
 *   **1782:** Nguyen Anh recaptured Gia Dinh.
 *   **1782:** In Dang Ngoai (the North), the 'Revolt of the Palace Guards' broke out. The rebellious guards further weakened the Trinh lords' court, creating favorable conditions for the later advance of the Tay Son army to the North.
 *   **Sep. 1782:** Lord Trinh Sam passed away. His young son Trinh Can succeeded him but was soon deposed by the kiêu binh (arrogant soldiers), who installed Trinh Tong (also known as Trinh Khai) as Lord (Doan Nam Vuong).
@@ -367,24 +367,25 @@
 *   **Jun. 1786:** Under the pretext of "supporting the Le, destroying the Trinh," Nguyen Hue commanded a large Tay Son army to advance north.
 *   **Jul. 21, 1786:** The Tay Son army entered Thang Long, quickly overthrowing the over 200-year rule of the Trinh lords.
 *   **1786:** Lord Trinh Tong committed suicide after being captured by the Tay Son army. Trinh Bong succeeded as Lord (An Do Vuong) but fled shortly after, marking the end of the Trinh Lords' rule.
-*   **Late 1786:** Nguyen Hue was given Princess Ngoc Han in marriage by the Le king. The Tay Son brothers divided the country to rule: Nguyen Nhac as the Central Emperor (from Quang Ngai to Binh Thuan), Nguyen Hue as the Northern Pacification King (from Hai Van Pass northwards), and Nguyen Lu as the Eastern Pacification King (Gia Dinh).
+*   **Late 1786:** Nguyen Hue was given Princess Ngoc Han in marriage by the Le king. The Tay Son brothers divided the country to rule: Nguyen Nhac as the Central Emperor (from Quang Nam to Binh Thuan), Nguyen Hue as the Northern Pacification King (Bac Binh Vuong - governing Thuan Hoa northwards), and Nguyen Lu as the Eastern Pacification King (Dong Dinh Vuong - governing Gia Dinh).
 *   **1787:** Conflict broke out between Nguyen Nhac and Nguyen Hue. Nguyen Hue led troops to besiege Hoang De Citadel, forcing Nguyen Nhac to cede more land in Quang Nam.
 *   **Nov. 21, 1787:** In the Treaty of Versailles, Nguyen Anh ceded Con Dao Island to France in exchange for support, but this treaty never materialized.
 *   **1788:** Nguyen Anh returned from Siam and, taking advantage of Nguyen Lu's weakness, recaptured Gia Dinh.
 *   **Late 1788:** King Le Chieu Thong fled to China to seek aid. 290,000 Manchu Qing troops led by Sun Shiyi poured into our country, occupying Thang Long.
 *   **Dec. 22, 1788:** In Phu Xuan, Nguyen Hue ascended the throne as Emperor, taking the era name Quang Trung, and immediately led a large army on a lightning march to the north.
 *   **Jan. 28-30, 1789 (3rd-5th day of the Tet of the Year of the Rooster):** In a lightning march and attack, Emperor Quang Trung crushed the Qing army in the battles of Ha Hoi, Ngoc Hoi, and Dong Da, liberating Thang Long. Sun Shiyi fled, and Le Chieu Thong went into exile.
-*   **1789:** Emperor Quang Trung issued the "Edict on Encouraging Agriculture" to restore production after the war.
+*   **1789:** Emperor Quang Trung issued the "Edict on Encouraging Agriculture" to restore production. He also introduced the **"Tin Bai"** (Identity Card) system for the first time to manage the population and conscription, requiring citizens to carry an identification tag.
 *   **1790:** In Gia Dinh, Nguyen Anh ordered the construction of Gia Dinh Citadel (the Octagonal Citadel) as a strong military base.
-*   **1791:** Emperor Quang Trung established the Institute for the Veneration of Orthodoxy (Vien Sung chinh), headed by Nguyen Thiep, to promote education and elevate the Nom script.
+*   **1791:** Emperor Quang Trung established the **Institute for the Veneration of Orthodoxy** (Vien Sung Chinh), headed by Nguyen Thiep. This marked a significant cultural milestone as **Chu Nom** (Vietnamese demotic script) was elevated to the status of the national official script for documents and education, replacing Classical Chinese.
 *   **Sep. 16, 1792:** Emperor Quang Trung suddenly passed away at the age of 39. His son, Nguyen Quang Toan (10 years old), succeeded him, taking the era name Canh Thinh.
 *   **1793:** Nguyen Anh attacked Quy Nhon. Nguyen Nhac asked Phu Xuan for help. Quang Toan's army came to relieve the siege and then captured Quy Nhon Citadel. Nguyen Nhac died of indignation.
 *   **1795:** Turmoil occurred within the Tay Son court; generals Bui Dac Tuyen and Ngo Van So were killed by Vu Van Dung, causing deep divisions.
 *   **1799:** Nguyen Anh recaptured Quy Nhon Citadel, renaming it Binh Dinh.
 *   **1800:** Two key Tay Son generals, Tran Quang Dieu and Vu Van Dung, led troops to besiege Binh Dinh Citadel.
-*   **Jun. 1801:** Nguyen Anh bypassed the besieged Binh Dinh Citadel and, in a surprise move, led his navy to attack Phu Xuan directly, capturing the capital.
+*   **Feb. 1801:** The decisive **Battle of Thi Nai** took place. Nguyen Anh's forces, leveraging wind direction and fire attacks, destroyed the entire Tay Son fleet commanded by Vo Van Dung. This is considered the largest naval battle in the history of the Vietnamese wars.
+*   **Jun. 1801:** Following the victory at Thi Nai, Nguyen Anh captured the capital Phu Xuan. King Canh Thinh fled to the North.
 *   **Jun. 1802:** After Binh Dinh Citadel fell, Nguyen Anh officially ascended the throne as Emperor in Phu Xuan, establishing the era name Gia Long.
-*   **Jul. 20, 1802:** The Nguyen army advanced north, captured Thang Long, and arrested King Canh Thinh and the entire court. The Tay Son dynasty officially collapsed.
+*   **Jul. 20, 1802:** The Nguyen army captured Thang Long. King Canh Thinh and prominent generals like Tran Quang Dieu and Bui Thi Xuan were captured and executed. The Tay Son dynasty officially collapsed.
 
 ### **Nguyen Dynasty Period (1802 - 1858)**
 
