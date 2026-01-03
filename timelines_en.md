@@ -353,17 +353,21 @@
 *   **1765:** The regent Truong Phuc Loan usurped power, causing social turmoil. Teacher Truong Van Hien fled to An Thai and taught literature and martial arts to the three Tay Son brothers (Nguyen Nhac, Nguyen Hue, Nguyen Lu), preparing the intellectual and martial basis for the uprising.
 *   **1771:** The three brothers Nguyen Nhac, Nguyen Hue, and Nguyen Lu raised the flag of rebellion in Tay Son Thuong dao (An Khe, Gia Lai) with the slogan "take from the rich and give to the poor." Nguyen Nhac was proclaimed **Tay Son Vuong** (King of Tay Son).
 *   **1771:** Gaining strong support from ethnic minorities (Sedang, Bahnar) in the An Khe region, Nguyen Nhac was revered by them as the "King of Heaven", creating a solid initial base for the uprising.
+*   **1771:** Prominent martial artists and strategists joined the uprising, including Tran Quang Dieu, Vo Van Dung, and Vo Dinh Tu. Legend has it that the female warrior Bui Thi Xuan saved Tran Quang Dieu from a tiger during this period, leading to their marriage and lifelong comradeship in the Tay Son army.
 *   **Mid-Autumn 1773:** Nguyen Nhac held a flag-raising ceremony at An Khe Pass to officially launch the military campaign.
+*   **1773:** Generals Le Van Hung, Tran Quang Dieu, and Vo Van Dung commanded Tay Son forces to capture Bong Son and Phu Ly, paving the way for the attack on Quy Nhon.
 *   **1773:** The Tay Son army captured Tuy Vien district and then Quy Nhon Citadel (using the stratagem of Nguyen Nhac hiding himself in a cage to enter the citadel as a prisoner).
 *   **Nov. 1773:** The Tay Son army won a victory at Ben Van (Quang Ngai) and built defensive sand ramparts.
 *   **1773:** Nguyen Anh established three villages, An Hai, An Hoi, and Co Ong, and named the Con Dao archipelago Con Lon.
 *   **1774:** The Trinh army, commanded by Hoang Ngu Phuc, crossed the Gianh River and advanced south, capturing Phu Xuan. Lord Nguyen Phuc Thuan had to flee to Quang Nam.
 *   **May 1775:** The Trinh army continued to occupy Quang Nam. Nguyen Nhac had to temporarily surrender to the Trinh army to concentrate his forces on fighting the Nguyen lords.
+*   **Jul. 1775:** Generals Bui Thi Xuan and Vo Dinh Tu were dispatched to attack Phu Yen, defeating the Nguyen forces commanded by Tong Phuc Hiep.
 *   **1775:** Two Chinese generals, Tap Dinh and Ly Tai, led their "Loyal" (Trung Nghia) and "Harmonious" (Hoa Nghia) regiments to join the Tay Son army, significantly boosting its military strength.
 *   **1776:** Nguyen Nhac repaired and expanded the Do Ban citadel to serve as the base for the Tay Son forces.
 *   **1777:** Nguyen Hue advanced to attack Gia Dinh, annihilating almost all of the Nguyen lords' forces. Lord Nguyen Phuc Thuan and the new king Nguyen Phuc Duong were both captured and killed. Nguyen Anh (nephew of the Nguyen lord) escaped to Tho Chau island.
 *   **1778:** Nguyen Nhac proclaimed himself Emperor Minh Duc (Thai Duc), establishing the era name Thai Duc. He expanded and reinforced the former Do Ban citadel, renaming it **Hoang De Citadel** (Imperial Citadel) to serve as the capital.
 *   **1778:** Female General Bui Thi Xuan organized and trained four brigades of female soldiers and an elite war elephant corps, contributing greatly to the Tay Son army's prowess.
+*   **1778:** Alongside Bui Thi Xuan, female generals Tran Thi Lan, Nguyen Thi Dung, and Huynh Thi Cuc commanded female brigades. General Le Van Hung defeated the Nguyen army led by Le Van Quan in Dien Khanh and Binh Thuan, earning the moniker "Le the Invincible".
 *   **1782:** Nguyen Anh recaptured Gia Dinh.
 *   **1782:** In Dang Ngoai (the North), the 'Revolt of the Palace Guards' broke out. The rebellious guards further weakened the Trinh lords' court, creating favorable conditions for the later advance of the Tay Son army to the North.
 *   **Mar. 1782:** Battle of That Ky River (Nga Bay, Saigon). The Tay Son army defeated Nguyen Anh's navy and Western warships, killing the French commander Manuel.
@@ -371,7 +375,7 @@
 *   **1783:** Nguyen Hue and Nguyen Lu led troops to attack; Nguyen Anh was again defeated and had to flee to Siam (Thailand) to seek aid.
 *   **Mar. 1784:** Bishop Pigneau de Béhaine (Bá Đa Lộc) represented Nguyen Anh in going to France to ask for help.
 *   **Jul. 1784:** 50,000 Siamese troops (20,000 naval, 30,000 land) led by Chao Tseng and Chao Sương, along with Nguyen Anh, invaded Gia Dinh.
-*   **Jan. 19, 1785:** Battle of Rach Gam - Xoai Mut. Nguyen Hue set up an ambush, crushed the Siamese army, annihilating almost the entire invading force. Nguyen Anh had to flee to Siam again.
+*   **Jan. 19, 1785:** Battle of Rach Gam - Xoai Mut. Nguyen Hue set up an ambush, crushed the Siamese army, annihilating almost the entire invading force. Generals Tran Quang Dieu and Bui Thi Xuan commanded the infantry, while General Le Van Hung captured the Nguyen general Nguyen Huynh Duc.
 *   **Jun. 1786:** Under the pretext of "supporting the Le, destroying the Trinh," Nguyen Hue commanded a large Tay Son army to advance north.
 *   **Jul. 21, 1786:** The Tay Son army entered Thang Long, quickly overthrowing the over 200-year rule of the Trinh lords.
 *   **1786:** Lord Trinh Tong committed suicide after being captured by the Tay Son army. Trinh Bong succeeded as Lord (An Do Vuong) but fled shortly after, marking the end of the Trinh Lords' rule.
@@ -379,25 +383,30 @@
 *   **1787:** Conflict broke out between Nguyen Nhac and Nguyen Hue. Nguyen Hue led troops to besiege Hoang De Citadel, forcing Nguyen Nhac to cede more land in Quang Nam.
 *   **Nov. 21, 1787:** In the Treaty of Versailles, Nguyen Anh ceded Con Dao Island to France in exchange for support, but this treaty never materialized.
 *   **Apr. 1788:** Nguyen Hue marched to Thang Long to execute Vu Van Nham for arrogance and plotting rebellion after Nham had eliminated Nguyen Huu Chinh. This consolidated Tay Son's control over the North before the Qing invasion.
+*   **May 1788:** After the execution of Vu Van Nham, General Nguyen Van Tuyet (Do Doc Tuyet) was entrusted by Nguyen Hue to remain in the North as a key aide to Ngo Van So.
 *   **1788:** Nguyen Anh returned from Siam and, taking advantage of Nguyen Lu's weakness, recaptured Gia Dinh.
-*   **Late 1788:** King Le Chieu Thong fled to China to seek aid. 290,000 Manchu Qing troops led by Sun Shiyi poured into our country, occupying Thang Long.
+*   **Late 1788:** King Le Chieu Thong fled to China to seek aid. 290,000 Manchu Qing troops led by Sun Shiyi poured into our country, occupying Thang Long. General Nguyen Van Tuyet rode urgently from the North to Phu Xuan to report the critical situation to Nguyen Hue.
 *   **Dec. 22, 1788:** In Phu Xuan, Nguyen Hue ascended the throne as Emperor, taking the era name Quang Trung, and immediately led a large army on a lightning march to the north.
-*   **Jan. 28-30, 1789 (3rd-5th day of the Tet of the Year of the Rooster):** In a lightning march and attack, Emperor Quang Trung crushed the Qing army in the battles of Ha Hoi, Ngoc Hoi, and Dong Da, liberating Thang Long. Sun Shiyi fled, and Le Chieu Thong went into exile.
+*   **Jan. 28-30, 1789 (3rd-5th day of the Tet of the Year of the Rooster):** In a lightning march and attack, Emperor Quang Trung crushed the Qing army in the battles of Ha Hoi, Ngoc Hoi, and Dong Da. General Bui Thi Xuan commanded the war elephants, General Vo Van Dung led the Rear Army, and Admiral Nguyen Van Loc (Do Doc Loc) commanded the Left Army/Navy, contributing decisively to the liberation of Thang Long.
 *   **1789:** Emperor Quang Trung issued the "Edict on Encouraging Agriculture" to restore production. He also introduced the **"Tin Bai"** (Identity Card) system for the first time to manage the population and conscription, requiring citizens to carry an identification tag.
+*   **1789:** General Vo Van Dung was sent as a special envoy to the Qing court, successfully fulfilling the mission of peace talks and even proposing a royal marriage and land requisition (two provinces of Guangdong and Guangxi) to test the Qing Emperor's attitude.
 *   **1790:** A diplomatic mission led by a "fake King" (Pham Van Tri impersonating Nguyen Hue) was sent to the Qing court in China to pay tribute and attend Emperor Qianlong's 80th birthday celebration, successfully securing peace.
 *   **1790:** In Gia Dinh, Nguyen Anh ordered the construction of Gia Dinh Citadel (the Octagonal Citadel) as a strong military base.
 *   **1791:** Emperor Quang Trung established the **Institute for the Veneration of Orthodoxy** (Vien Sung Chinh), headed by Nguyen Thiep. This marked a significant cultural milestone as **Chu Nom** (Vietnamese demotic script) was elevated to the status of the national official script for documents and education, replacing Classical Chinese.
 *   **1792:** Emperor Quang Trung prepared a massive military campaign to attack Gia Dinh and destroy Nguyen Anh's forces, but the plan was cancelled due to his sudden death.
 *   **Sep. 15, 1792 (29th of the 7th lunar month):** Emperor Quang Trung suddenly passed away at the age of 40 (according to the text *Nhà Tây Sơn*). His son, Nguyen Quang Toan (10 years old), succeeded him, taking the era name Canh Thinh.
 *   **1793:** Nguyen Anh attacked Quy Nhon. Nguyen Nhac asked Phu Xuan for help. Quang Toan's army came to relieve the siege and then captured Quy Nhon Citadel. Nguyen Nhac died of indignation.
-*   **1795:** Turmoil occurred within the Tay Son court; generals Bui Dac Tuyen and Ngo Van So were killed by Vu Van Dung, causing deep divisions.
+*   **1794:** General Le Van Hung captured Dien Khanh but was later recalled and executed due to slander by the powerful minister Bui Dac Tuyen.
+*   **1795:** Turmoil occurred within the Tay Son court; General Vo Van Dung staged a coup in Phu Xuan, arresting and executing the corrupt Grand Tutor Bui Dac Tuyen and his faction, causing deep internal divisions.
 *   **1799:** Nguyen Anh recaptured Quy Nhon Citadel, renaming it Binh Dinh.
+*   **Apr. 1799:** General Vo Dinh Tu, one of the "Seven Tigers of Tay Son" and a master of the staff, died in battle against Nguyen forces at Can Uc.
 *   **1800:** Two key Tay Son generals, Tran Quang Dieu and Vu Van Dung, led troops to besiege Binh Dinh Citadel.
 *   **Feb. 1801:** The decisive **Battle of Thi Nai** took place. Nguyen Anh's forces, leveraging wind direction and fire attacks, destroyed the entire Tay Son fleet commanded by Vo Van Dung. This is considered the largest naval battle in the history of the Vietnamese wars.
 *   **Jun. 1801:** Following the victory at Thi Nai, Nguyen Anh captured the capital Phu Xuan. King Canh Thinh fled to the North.
-*   **Jan. 1802:** The Battle of Tran Ninh and Dau Mau took place. General Bui Thi Xuan fought bravely commanding elephant troops, but the Tay Son forces were eventually defeated.
+*   **Jan. 1802:** The Battle of Tran Ninh and Dau Mau took place. General Bui Thi Xuan fought bravely commanding elephant troops. General Huynh Thi Cuc sacrificed herself in battle to allow the royal forces to retreat.
+*   **Jun. 16, 1802:** In the retreat to the North, General Nguyen Van Tuyet (Do Doc Tuyet) died in battle at Xuong Giang protecting King Canh Thinh. Empress Dowager Bui Thi Nhan, along with female generals Tran Thi Lan and Nguyen Thi Dung, committed suicide to avoid capture.
 *   **Jun. 1802:** After Binh Dinh Citadel fell, Nguyen Anh officially ascended the throne as Emperor in Phu Xuan, establishing the era name Gia Long.
-*   **Jul. 20, 1802:** The Nguyen army captured Thang Long. King Canh Thinh and prominent generals were captured. According to the text *Nhà Tây Sơn*, General Tran Quang Dieu was skinned alive, while General Bui Thi Xuan was executed by "lighting the sky lantern" (wrapped in wax-soaked cloth and burned) after the war elephants refused to trample her. The Tay Son dynasty officially collapsed.
+*   **Jul. 20, 1802:** The Nguyen army captured Thang Long. King Canh Thinh and prominent generals were captured. According to the text *Nhà Tây Sơn*, General Tran Quang Dieu was skinned alive, General Vo Van Dung was executed (beheaded), while General Bui Thi Xuan was executed by "lighting the sky lantern" (wrapped in wax-soaked cloth and burned) after the war elephants refused to trample her. The Tay Son dynasty officially collapsed.
 
 ### **Nguyen Dynasty Period (1802 - 1858)**
 
