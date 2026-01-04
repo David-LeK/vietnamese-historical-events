@@ -443,6 +443,7 @@
 *   **08/1802:** Vua Gia Long sai biên soạn và ban hành 15 điều luật đầu tiên về kiện tụng.
 *   **1803:** Vua Gia Long định lệ lương bổng cho quan và quân ở Bắc thành.
 *   **1804:** Vua Gia Long chính thức đặt quốc hiệu là Việt Nam (sau khi nhà Thanh không chấp thuận tên Nam Việt). Vua cũng cho đúc ấn của 6 bộ và ban hành phép quân điền (chia ruộng).
+*   **1804:** Vua Gia Long cho xây dựng **Cung Thành** (nơi ở của vua và hoàng gia) ở phía sau điện Thái Hòa, đến năm 1822 đổi tên là Tử Cấm Thành.
 *   **1805:** Vua Gia Long cho đổi phủ Phụng Thiên thành phủ Hoài Đức.
 *   **1805:** Vua Gia Long ra lệnh xây dựng lại Thành Hà Nội theo kiểu Vauban và xây dựng Cột cờ Hà Nội, củng cố trung tâm hành chính Bắc Thành.
 *   **1805 - 1820:** Truyện Kiều được Nguyễn Du sáng tác bằng chữ Nôm.
@@ -456,6 +457,7 @@
 *   **1813:** Bộ *Hoàng Việt luật lệ* được khắc in và ban hành trên toàn quốc.
 *   **1815:** Vụ án Nguyễn Văn Thành bắt đầu từ bài thơ của người con trai là Nguyễn Văn Thuyên. Vụ án này dẫn đến cái chết của đại công thần Nguyễn Văn Thành vào năm 1817, đánh dấu cuộc thanh trừng nội bộ để củng cố quyền lực của vua Gia Long.
 *   **1816:** Vua Gia Long chính thức cử thủy quân ra Hoàng Sa để đo đạc và cắm cờ. Nhà Nguyễn thành lập thêm *đội Bắc Hải* để tiếp tục thực thi chủ quyền tại cả Hoàng Sa và Trường Sa.
+*   **1816:** Vua Gia Long lập Hoàng tử Đảm làm Thái tử, xác lập ngôi vị kế thừa chính thống.
 *   **1817:** Vua Gia Long định lệ "tập ấm" (quyền lợi kế thừa cho con cháu công thần).
 *   **Cuối 1817 - Đầu 1818:** Khởi công đào kênh Thoại Hà (An Giang) dưới sự chỉ huy của Nguyễn Văn Thoại, phục vụ giao thông và quốc phòng.
 *   **1818:** Vua Gia Long ban hành điển lệ chính thức về lương bổng và tiền xuân phục cho quan lại; thực thi lệ "dưỡng liêm" (phụ cấp chống tham nhũng) cho quan phủ, huyện.
@@ -463,7 +465,9 @@
 *   **1820:** Vua Minh Mệnh lên ngôi, đổi Thị thư viện thành Văn thư phòng.
 *   **1821 - 1827:** Cuộc nổi dậy của nông dân do Phan Bá Vành lãnh đạo ở vùng đồng bằng ven biển Bắc Bộ.
 *   **1822:** Vua Minh Mệnh cho lập Hàn lâm viện, tổ chức kỳ thi Hội đầu tiên và đổi dinh Quảng Đức làm phủ Thừa Thiên.
+*   **1822:** Vua Minh Mạng đổi tên Cung Thành thành **Tử Cấm Thành**.
 *   **1823:** Vua Minh Mệnh cho lập Ty Bưu chính để chuyên việc truyền đưa công văn.
+*   **1826:** Vua Minh Mạng cho xây dựng **Duyệt Thị Đường** trong Tử Cấm Thành, đây là nhà hát cổ nhất còn lại của sân khấu cung đình.
 *   **08/1826:** Vua Minh Mệnh đặt thêm chức Tả - Hữu Thị lang trong Lục bộ.
 *   **1827:** Vua Minh Mạng cử quân sang hỗ trợ nước Vạn Tượng (Lào) của vua Châu A Nụ trong cuộc chiến chống lại quân Xiêm, nhằm bảo vệ an ninh biên giới phía Tây.
 *   **1828:** Thành lập huyện Tiền Hải (Thái Bình) theo chính sách Doanh điền của Nguyễn Công Trứ để khai hoang lấn biển.
@@ -472,14 +476,17 @@
 *   **10/1831:** Vua Minh Mệnh tiến hành cuộc cải cách hành chính lớn, xóa bỏ các tổng trấn, đổi các dinh, trấn ở Bắc Hà thành 18 tỉnh.
 *   **1832:** Ty Đài hiến được đổi thành Đô sát viện; thành lập Tam pháp ty (gồm đại diện của Hình bộ, Đô sát viện và Đại lý tự).
 *   **10/1832:** Xóa bỏ Tổng trấn Gia Định thành, chia các trấn từ Quảng Nam vào Nam thành 12 tỉnh.
+*   **1833:** Cửa Đại Cung (Đại Cung Môn), cửa chính vào Tử Cấm Thành, được xây dựng.
 *   **1832:** Vua Minh Mạng xóa bỏ quy chế tự trị của trấn Thuận Thành (phần lãnh thổ còn lại của Champa), đổi thành phủ Ninh Thuận, đặt quan lại cai trị trực tiếp. Vương quốc Champa chính thức chấm dứt tồn tại.
 *   **1833 - 1834:** Cuộc nổi dậy "phù Lê" do Lê Duy Lương lãnh đạo ở vùng Ninh Bình, Thanh Hóa, Hòa Bình.
 *   **1833 - 1835:** Cuộc nổi dậy của các dân tộc thiểu số phía Bắc do Nông Văn Vân lãnh đạo.
 *   **1833 - 1836:** Cuộc binh biến ở thành Phiên An (Gia Định) do Lê Văn Khôi lãnh đạo.
 *   **1833 - 1843:** Cuộc nổi dậy của nông dân do Ba Nhàn và Tiền Bột lãnh đạo ở vùng trung du Bắc Bộ.
 *   **1834:** Vua Minh Mệnh cho thành lập Cơ mật viện.
+*   **1835:** Vua Minh Mạng lần đầu tiên thực hiện lễ "ôm gối" để vinh danh các đại thần thắng trận trở về, tỏ ý thân yêu như tình cha con.
 *   **1836:** Thành lập Tôn Nhân Phủ để quản lý các việc trong hoàng tộc. Cơ mật viện được chia làm hai ban: Nam chương kinh và Bắc chương kinh.
 *   **1836:** Đúc Cửu Đỉnh (9 đỉnh đồng lớn) đặt trước Thế Miếu (Hoàng thành Huế) để biểu thị sự trường tồn và thống nhất của vương triều.
+*   **1836:** Vua Minh Mạng định lại quy chế nội cung (chia làm 9 bậc) và đặt ra các cấp bậc riêng cho thái giám để hạn chế quyền lực của họ.
 *   **1839:** Vua Minh Mệnh cải cách lại chế độ lương bổng cho quan lại; chiếc tàu máy hơi nước đầu tiên do người Việt Nam chế tạo thành công.
 *   **1841 - 1842:** Cuộc nổi dậy của người Khơme do Lâm Sâm lãnh đạo ở Lạc Hóa, Trà Vinh.
 *   **1841 - 1842:** Các cuộc nổi dậy ở vùng Hà Âm - Hà Dương (An Giang, Hà Tiên).
@@ -628,9 +635,11 @@
 *   **11/10/1921:** Toàn quyền Đông Dương ra nghị định phát hành công trái 6 triệu đồng để xây dựng đường sắt Vinh - Đông Hà.
 *   **17/10/1921:** Thành phố Nam Định được thành lập.
 *   **01/04/1922:** Báo *Le Paria* (Người cùng khổ), cơ quan của Hội Liên hiệp thuộc địa do Nguyễn Ái Quốc sáng lập, ra số đầu tiên tại Paris.
+*   **04/1922:** Lễ sách phong Đông cung Hoàng Thái tử Vĩnh Thụy (sau là vua Bảo Đại) được tổ chức long trọng tại điện Thái Hòa.
 *   **09/06/1922:** Sắc lệnh tái tổ chức Hội đồng thuộc địa Nam Kỳ.
 *   **15/07/1922:** Phan Châu Trinh viết "Thất điều trần" gửi vua Khải Định đang ở Pháp, lên án 7 tội lớn của nhà vua.
 *   **1923:** Tổ chức cách mạng Tâm Tâm xã được thành lập tại Quảng Châu, Trung Quốc.
+*   **1923:** Việc xây dựng **lầu Kiến Trung** (kết hợp kiến trúc Âu - Á) trong Tử Cấm Thành được hoàn thành.
 *   **1923:** Cơ quan Kiểm tra và Cứu trợ người bản xứ của các thuộc địa (C.A.I.) được thành lập tại Pháp để giám sát người Việt.
 *   **19/06/1924:** Phạm Hồng Thái thực hiện vụ mưu sát Toàn quyền Martial Merlin tại Sa Diện (Quảng Châu), tạo tiếng vang lớn.
 *   **18/09/1924:** Toàn quyền Merlin ký nghị định sửa đổi Bộ Học chính tổng quy, chủ trương phát triển giáo dục tiểu học ("giáo dục theo chiều ngang").

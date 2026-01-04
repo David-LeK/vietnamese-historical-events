@@ -443,6 +443,7 @@
 *   **Aug. 1802:** Emperor Gia Long ordered the compilation and promulgation of the first 15 laws regarding litigation.
 *   **1803:** Emperor Gia Long set the salary regulations for officials and soldiers in the Northern Citadel.
 *   **1804:** Emperor Gia Long officially established the national title "Viet Nam" (after the Qing dynasty rejected "Nam Viet"). He also ordered the casting of seals for the six ministries and promulgated the communal land allocation system.
+*   **1804:** Construction of the **Cung Thanh** (Palace City) began behind the Thai Hoa Palace, serving as the private residence for the Emperor and the royal family (renamed Purple Forbidden City in 1822).
 *   **1805:** Emperor Gia Long changed Phung Thien Prefecture to Hoai Duc Prefecture.
 *   **1805:** Emperor Gia Long ordered the construction of the Hanoi Citadel (Vauban style) and the Hanoi Flag Tower (Cot Co), reinforcing the administrative center of Northern Vietnam.
 *   **1805 - 1820:** The Tale of Kieu was composed by Nguyen Du in chữ Nôm (Vietnamese demotic script).
@@ -456,6 +457,7 @@
 *   **1813:** The *Hoang Viet luat le* was carved, printed, and promulgated nationwide.
 *   **1815:** The case of Nguyen Van Thanh began, involving a poem written by his son Nguyen Van Thuyen. This political purge led to the forced suicide of the meritorious official Nguyen Van Thanh in 1817, reflecting Gia Long's consolidation of absolute power.
 *   **1816:** Emperor Gia Long officially dispatched naval forces to the Paracel Islands to conduct surveys and plant flags. The Nguyen Dynasty also established the *Bac Hai team* to continue asserting sovereignty over both the Paracel and Spratly Islands.
+*   **1816:** Emperor Gia Long officially invested Prince Dam as Crown Prince, establishing the principle of succession to the throne.
 *   **1817:** Emperor Gia Long established the "tap am" regulation (hereditary benefits for descendants of meritorious officials).
 *   **Late 1817 - Early 1818:** Construction of the Thoai Ha Canal in An Giang began under the direction of Nguyen Van Thoai, serving both defense and agricultural irrigation in the Mekong Delta.
 *   **1818:** Emperor Gia Long promulgated official regulations on salaries and spring attire allowances for officials; implemented the "duong liem" (anti-corruption allowance) for prefectural and district officials.
@@ -463,7 +465,9 @@
 *   **1820:** Emperor Minh Mang ascended the throne, changing the Thi thu vien (Imperial Secretariat) to the Van thu phong (Chancellery).
 *   **1821 - 1827:** The peasant uprising led by Phan Ba Vanh in the northern coastal plains.
 *   **1822:** Emperor Minh Mang established the Han Lam Vien (Imperial Academy), organized the first metropolitan examination (thi Hoi), and changed Quang Duc garrison to Thua Thien Prefecture.
+*   **1822:** Emperor Minh Mang renamed the Palace City to **Tu Cam Thanh** (Purple Forbidden City).
 *   **1823:** Emperor Minh Mang established the Ty Buu chinh (Postal Service) to handle the transmission of official documents.
+*   **1826:** Emperor Minh Mang ordered the construction of the **Duyet Thi Duong** (Royal Theater) within the Purple Forbidden City, the oldest surviving court theater.
 *   **Aug. 1826:** Emperor Minh Mang added the positions of Left and Right Vice Ministers in the Six Ministries.
 *   **1827:** Emperor Minh Mang sent troops to support the Kingdom of Vientiane (under Chao Anou) against the Siamese invasion, asserting influence and protecting the western border.
 *   **1828:** Establishment of Tien Hai district (Thai Binh) under the "Doanh dien" (land reclamation) policy led by Nguyen Cong Tru.
@@ -472,14 +476,17 @@
 *   **Oct. 1831:** Emperor Minh Mang carried out a major administrative reform, abolishing the governor-general positions and changing the garrisons and towns in the North into 18 provinces.
 *   **1832:** The Ty Dai hien (Censorate) was changed to the Do sat vien (Supreme Censorate); the Tam phap ty (Three Judicial Offices, comprising representatives from the Ministry of Justice, the Supreme Censorate, and the Court of Revision) was established.
 *   **Oct. 1832:** The Gia Dinh Governor-Generalship was abolished, and the garrisons from Quang Nam southwards were divided into 12 provinces.
+*   **1833:** The **Dai Cung Mon** (Great Palace Gate), the main entrance to the Purple Forbidden City, was constructed.
 *   **1832:** Emperor Minh Mang abolished the autonomous status of Thuan Thanh town (remaining Champa territory), renaming it Ninh Thuan Prefecture. The Kingdom of Champa officially ceased to exist.
 *   **1833 - 1834:** The "support the Le" uprising led by Le Duy Luong in the Ninh Binh, Thanh Hoa, and Hoa Binh regions.
 *   **1833 - 1835:** The uprising of ethnic minorities in the north led by Nong Van Van.
 *   **1833 - 1836:** The mutiny at Phien An Citadel (Gia Dinh) led by Le Van Khoi.
 *   **1833 - 1843:** The peasant uprising led by Ba Nhan and Tien Bot in the northern midlands.
 *   **1834:** Emperor Minh Mang established the Co mat vien (Privy Council).
+*   **1835:** Emperor Minh Mang performed the "Om Goi" (Embracing Knees) ceremony for the first time to honor generals who returned victorious, treating them with the affection of a father to a son.
 *   **1836:** The Ton Nhan Phu (Imperial Clan Court) was established to manage royal family affairs. The Privy Council was divided into two boards: Nam chuong kinh (Southern Affairs) and Bac chuong kinh (Northern Affairs).
 *   **1836:** The Nine Dynastic Urns (Cuu Dinh) were cast and placed in front of the The Mieu (Ancestral Temple) in Hue, symbolizing the sovereignty and prosperity of the dynasty.
+*   **1836:** Emperor Minh Mang decreed a 9-rank system for the imperial harem (Nine Ranks of Imperial Concubines) and established specific ranks and regulations for eunuchs to limit their power.
 *   **1839:** Emperor Minh Mang reformed the salary system for officials; the first steamship built by Vietnamese was successfully constructed.
 *   **1841 - 1842:** The uprising of the Khmer people led by Lam Sam in Lac Hoa, Tra Vinh.
 *   **1841 - 1842:** Uprisings in the Ha Am - Ha Duong region (An Giang, Ha Tien).
@@ -628,9 +635,11 @@
 *   **Oct. 11, 1921:** The Governor-General of Indochina issued a decree to issue bonds worth 6 million piasters to build the Vinh - Dong Ha railway.
 *   **Oct. 17, 1921:** The city of Nam Dinh was established.
 *   **Apr. 1, 1922:** The newspaper *Le Paria* (The Pariah), the organ of the Intercolonial Union founded by Nguyen Ai Quoc, published its first issue in Paris.
+*   **Apr. 1922:** The investiture ceremony of Crown Prince Vinh Thuy (later Emperor Bao Dai) was solemnly held at the Thai Hoa Palace.
 *   **Jun. 9, 1922:** A decree reorganized the Colonial Council of Cochinchina.
 *   **Jul. 15, 1922:** Phan Chau Trinh wrote the "Seven-Point Petition" addressed to King Khai Dinh, who was in France, denouncing the king's seven great crimes.
 *   **1923:** The revolutionary organization Tam Tam Xa (Heart-to-Heart Association) was founded in Guangzhou, China.
+*   **1923:** Construction of the **Kien Trung Palace** was completed within the Purple Forbidden City, featuring a blend of European and Asian architectural styles.
 *   **1923:** The Service for the Control and Assistance of Natives of the Colonies (C.A.I.) was established in France to monitor the Vietnamese.
 *   **Jun. 19, 1924:** Pham Hong Thai carried out an assassination attempt on Governor-General Martial Merlin in Shamian (Guangzhou), creating a great sensation.
 *   **Sep. 18, 1924:** Governor-General Merlin signed a decree amending the General Code of Public Education, advocating for the development of primary education ("horizontal education").
