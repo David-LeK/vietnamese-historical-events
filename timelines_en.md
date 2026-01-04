@@ -138,6 +138,7 @@
 *   **1250:** King Tran Thai Tong issued a decree requiring the people to address the King as "Quoc gia" (The Nation/State) to elevate the King's position and national unity.
 *   **1252:** Tran Thai Tong personally led a campaign against Champa.
 *   **Aug. 1257:** A Mongol envoy came to Dai Viet for the first time to demand submission.
+*   **Sep. 1257:** King Tran Thai Tong issued a decree commanding generals to lead troops to guard the borders under the command of Tran Quoc Tuan (Tran Hung Dao).
 *   **Jan. 17, 1258:** Battle of Binh Le Nguyen. King Tran Thai Tong directly commanded the army against the Mongol invasion led by Uriyangkhadai.
 *   **Jan. 29, 1258:** The Tran army counter-attacked, winning a decisive victory at Dong Bo Dau and liberating Thang Long. The first resistance war against the Mongols ended in victory.
 *   **Mar. 1258:** Tran Thai Tong ceded the throne to his son, Tran Hoang (Tran Thanh Tong).
@@ -147,14 +148,18 @@
 *   **1282:** The first work written in chữ Nôm (Vietnamese demotic script) was *Văn tế cá sấu* (Eulogy for the Crocodile) by Nguyễn Thuyên, composed during the Trần dynasty. This was a text commissioned by Emperor Trần Nhân Tông to drive away a crocodile that had appeared in the Red River.
 *   **Dec. 1282:** Yuan forces under the command of Sogetu attacked Champa, initiating the plan to invade Dai Viet from the south.
 *   **Mar. 19, 1283:** Yuan forces under Sogetu were defeated by the Champa army and had to retreat.
+*   **Oct. 1283:** To prepare for the second resistance against the Yuan army, Tran Quoc Tuan was appointed by Emperor Emeritus Tran Thanh Tong and King Tran Nhan Tong as the Commander-in-Chief (Quoc cong tiet che) of the armed forces.
+*   **Aug. 1284:** Tran Hung Dao held a military review at Dong Bo Dau (Hanoi) and wrote the "Proclamation to the Officers" (Hich tuong si) to boost the morale of the soldiers.
 *   **Dec. 1284:** King Tran convened the Dien Hong Conference, asking for the opinions of elders throughout the country on whether to make peace or fight.
 *   **Jan. 1285:** Yuan forces under the command of Toghon began the second invasion of Dai Viet.
+*   **1285:** When King Tran Thanh Tong asked if he should surrender during the difficult early stages of the war, Tran Hung Dao famously replied: "Your Majesty, if you want to surrender, please cut off my head first."
 *   **May 1285:** The Tran army began a major counter-offensive, winning successive victories at Tay Ket, Chuong Duong, and Ham Tu.
 *   **Jun. 1285:** The second resistance war against the Mongol-Yuan invaders ended in victory.
 *   **Dec. 1287:** Yuan forces under the command of Toghon launched the third invasion of Dai Viet.
 *   **1288 (early year):** Tran Khanh Du commanded the Battle of Van Don, completely destroying the enemy's supply fleet led by Zhang Wenhu.
 *   **Apr. 9, 1288:** The historic Battle of Bach Dang. The Yuan navy was completely annihilated under the command of Hung Dao Vuong Tran Quoc Tuan. The third resistance war against the Mongol-Yuan invaders ended in a glorious victory.
 *   **Apr. 16, 1293:** Tran Nhan Tong abdicated the throne in favor of Crown Prince Tran Thuyen (later Tran Anh Tong).
+*   **Oct. 3, 1300:** Hung Dao Vuong Tran Quoc Tuan passed away. Before his death, he advised King Tran Anh Tong: "Ease the strength of the people to make a deep root and durable base," considering it the best strategy for national defense.
 *   **Around the 14th century:** The legends of Lac Long Quan and Au Co, Phu Dong Thien Vuong (Saint Giong), and Son Tinh - Thuy Tinh were first recorded in the historical book **Lĩnh Nam chích quái**.
 *   **1306:** The Champa king Che Man (Jaya Simhavarman III) offered the two prefectures of O and Ly as a wedding gift to marry Princess Huyen Tran.
 *   **1307:** The Tran dynasty renamed the two prefectures of O and Ly to Thuan and Hoa, incorporating them into Dai Viet's territory.

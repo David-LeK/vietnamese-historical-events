@@ -138,6 +138,7 @@
 *   **1250:** Vua Trần Thái Tông xuống chiếu cho thiên hạ gọi vua là "Quốc gia" để đề cao vị thế nhà vua và tính thống nhất của đất nước.
 *   **1252:** Trần Thái Tông thân chinh đánh Champa.
 *   **08/1257:** Sứ Mông Cổ đến Đại Việt lần đầu tiên để dụ hàng.
+*   **09/1257:** Vua Trần Thái Tông xuống chiếu, lệnh cho các tướng đem quân thủy bộ ra ngăn giữ biên giới phía Bắc dưới sự tiết chế của Quốc công Trần Quốc Tuấn (Trần Hưng Đạo).
 *   **17/01/1258:** Trận Bình Lệ Nguyên. Vua Trần Thái Tông trực tiếp chỉ huy quân đội chống lại cuộc xâm lược của Mông Cổ do Ngột Lương Hợp Thai chỉ huy.
 *   **29/01/1258:** Quân Trần phản công, giành thắng lợi quyết định ở Đông Bộ Đầu, giải phóng Thăng Long. Cuộc kháng chiến chống Mông Cổ lần thứ nhất kết thúc thắng lợi.
 *   **03/1258:** Trần Thái Tông nhường ngôi cho con là Trần Hoảng (Trần Thánh Tông).
@@ -147,14 +148,18 @@
 *   **1282:** Tác phẩm đầu tiên viết bằng chữ Nôm là *Văn tế cá sấu* của Nguyễn Thuyên, sáng tác dưới triều đại nhà Trần. Đây là bài văn được vua Trần Nhân Tông sai viết để đuổi con cá sấu xuất hiện trên sông Hồng.
 *   **12/1282:** Quân Nguyên do Toa Đô chỉ huy tấn công Champa, mở đầu cho kế hoạch xâm lược Đại Việt từ phía Nam.
 *   **19/03/1283:** Quân Nguyên do Toa Đô chỉ huy bị quân Champa đánh bại, phải rút quân.
+*   **10/1283:** Để chuẩn bị cho cuộc kháng chiến lần hai, Trần Quốc Tuấn được Thượng hoàng Trần Thánh Tông và vua Trần Nhân Tông phong làm Quốc công tiết chế thống lĩnh chư quân.
+*   **08/1284:** Hưng Đạo vương tổ chức duyệt binh ở bến Đông Bộ Đầu và công bố tác phẩm "Hịch tướng sĩ" để khích lệ tinh thần quân sĩ.
 *   **12/1284:** Vua Trần triệu tập Hội nghị Diên Hồng, hỏi ý kiến các bô lão trong cả nước về việc hòa hay đánh.
 *   **01/1285:** Quân Nguyên do Thoát Hoan chỉ huy bắt đầu cuộc xâm lược Đại Việt lần thứ hai.
+*   **1285:** Khi Thượng hoàng Trần Thánh Tông vờ hỏi có nên hàng không, Trần Hưng Đạo đã khẳng khái trả lời: "Bệ hạ chém đầu tôi trước rồi hãy hàng".
 *   **05/1285:** Quân Trần bắt đầu cuộc phản công lớn, giành thắng lợi liên tiếp ở Tây Kết, Chương Dương, Hàm Tử.
 *   **06/1285:** Cuộc kháng chiến chống quân xâm lược Mông-Nguyên lần thứ hai kết thúc thắng lợi.
 *   **12/1287:** Quân Nguyên do Thoát Hoan chỉ huy tiến hành cuộc xâm lược Đại Việt lần thứ ba.
 *   **1288 (đầu năm):** Trần Khánh Dư chỉ huy trận Vân Đồn, tiêu diệt hoàn toàn đoàn thuyền lương của giặc do Trương Văn Hổ chỉ huy.
 *   **09/04/1288:** Trận Bạch Đằng lịch sử. Thủy quân Nguyên bị tiêu diệt hoàn toàn dưới sự chỉ huy của Hưng Đạo vương Trần Quốc Tuấn. Cuộc kháng chiến chống Mông-Nguyên lần thứ ba kết thúc thắng lợi vẻ vang.
 *   **16/04/1293:** Trần Nhân Tông nhường ngôi cho Thái tử Trần Thuyên (sau là Trần Anh Tông).
+*   **03/10/1300:** Hưng Đạo Đại vương Trần Quốc Tuấn qua đời. Trước khi mất, ông dặn vua Trần Anh Tông: "Phải khoan thư sức dân để làm kế sâu rễ bền gốc", coi đó là thượng sách giữ nước.
 *   **Khoảng thế kỷ XIV:** Truyền thuyết Lạc Long Quân và Âu Cơ, Phù Đổng Thiên Vương (Thánh Gióng), và Sơn Tinh - Thủy Tinh được ghi chép lần đầu tiên trong bộ sách sử **Lĩnh Nam chích quái**.
 *   **1306:** Vua Champa là Chế Mân dâng hai châu Ô và Lý để làm sính lễ cưới công chúa Huyền Trân.
 *   **1307:** Nhà Trần đổi tên hai châu Ô, Lý thành châu Thuận và châu Hóa, sáp nhập vào lãnh thổ Đại Việt.
