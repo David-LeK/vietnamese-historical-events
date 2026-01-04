@@ -553,6 +553,7 @@
 *   **11/1888:** Vua Hàm Nghi bị bắt do Trương Quang Ngọc phản bội, sau đó bị đày sang Algérie.
 *   **13/01/1889:** Cựu hoàng Hàm Nghi đến thủ đô Algiers (Algérie), bắt đầu cuộc sống lưu đày; tại đây ông đã trở thành một họa sĩ và kết hôn với phụ nữ Pháp.
 *   **1889:** Nguyễn Thiện Thuật sang Trung Quốc, khởi nghĩa Bãi Sậy suy yếu.
+*   **19/05/1890:** Nguyễn Sinh Cung (tức Chủ tịch Hồ Chí Minh) sinh ra tại xã Kim Liên, huyện Nam Đàn, tỉnh Nghệ An.
 *   **1891:** Hải Phòng được coi là thành phố đầu tiên có đèn điện trước cả Hà Nội.
 *   **1892:** Khởi nghĩa Bãi Sậy tan rã. Tống Duy Tân (lãnh đạo khởi nghĩa Hùng Lĩnh) bị bắt.
 *   **11/1893:** Cao Thắng hy sinh trong trận tấn công đồn Nu (Nghệ An), một tổn thất lớn cho khởi nghĩa Hương Khê.
@@ -589,6 +590,7 @@
 *   **09/1908:** Pháp và Nhật ký hiệp ước, theo đó chính phủ Nhật trục xuất các nhà yêu nước và du học sinh Việt Nam, Phong trào Đông du tan rã.
 *   **12/1908:** Thực dân Pháp ra lệnh đóng cửa trường Đông Kinh Nghĩa thục và đàn áp những người tham gia.
 *   **08/1909 - 01/1910:** Cuộc khởi nghĩa của đồng bào Mường ở Hòa Bình do Đốc Bang và Tổng Kiêm lãnh đạo.
+*   **05/06/1911:** Từ Bến Nhà Rồng (Sài Gòn), người thanh niên Nguyễn Tất Thành (lấy tên Văn Ba) lên con tàu *Amiral Latouche-Tréville* ra đi tìm đường cứu nước.
 *   **18/11/1911:** Đạo Tin Lành đặt cơ sở đầu tiên tại Đà Nẵng, chính thức du nhập vào Việt Nam.
 *   **11/1911:** Albert Sarraut nhậm chức Toàn quyền, tiếp tục đẩy mạnh chính sách "hợp tác" và các cải cách mị dân.
 *   **05/1912:** Phan Bội Châu thành lập Hội Việt Nam Quang Phục tại Quảng Châu (Trung Quốc), chuyển từ chủ trương quân chủ lập hiến sang dân chủ cộng hòa.
@@ -618,6 +620,7 @@
 
 *   **05/1918:** Toàn quyền Albert Sarraut phác thảo "Chương trình 5 năm hoạt động chính trị và kinh tế", đặt nền móng cho cuộc khai thác thuộc địa lần thứ hai.
 *   **05/02/1919:** Thành lập Hội Khai trí - Tiến đức (AFIMA) tại Hà Nội, một tổ chức văn hóa do thực dân Pháp bảo trợ nhằm thực hiện chính sách "Pháp-Việt đề huề".
+*   **02/1919:** Nguyễn Ái Quốc gia nhập Đảng Xã hội Pháp.
 *   **18/04/1919:** Nghị định cho phép tuyển dụng nhân viên người Việt vào Văn phòng Phủ Toàn quyền.
 *   **19/05/1919:** Sắc lệnh cho phép Toàn quyền Đông Dương thay đổi hệ thống tư pháp ở Trung Kỳ và Lào.
 *   **14/06/1919:** Vua Khải Định ra Đạo dụ bãi bỏ các khoa thi và trường học chữ Hán, chấm dứt nền giáo dục khoa cử truyền thống.
@@ -631,6 +634,7 @@
 *   **25-30/12/1920:** Tại Đại hội Tours của Đảng Xã hội Pháp, Nguyễn Ái Quốc bỏ phiếu tán thành gia nhập Quốc tế thứ ba và trở thành một trong những người sáng lập Đảng Cộng sản Pháp.
 *   **12/04/1921:** Albert Sarraut, lúc này là Bộ trưởng Bộ Thuộc địa, trình "Dự luật khai thác thuộc địa" trước Quốc hội Pháp.
 *   **06/1921:** Ban Nghiên cứu thuộc địa được thành lập trong Đảng Cộng sản Pháp, Nguyễn Ái Quốc phụ trách tiểu ban Đông Dương.
+*   **1921:** Nguyễn Ái Quốc tham gia sáng lập Hội Liên hiệp các dân tộc thuộc địa tại Pháp.
 *   **12/08/1921:** Thống sứ Bắc Kỳ ra nghị định tiến hành "cải lương hương chính", cải tổ bộ máy hành chính cấp làng xã.
 *   **11/10/1921:** Toàn quyền Đông Dương ra nghị định phát hành công trái 6 triệu đồng để xây dựng đường sắt Vinh - Đông Hà.
 *   **17/10/1921:** Thành phố Nam Định được thành lập.
@@ -641,6 +645,8 @@
 *   **1923:** Tổ chức cách mạng Tâm Tâm xã được thành lập tại Quảng Châu, Trung Quốc.
 *   **1923:** Việc xây dựng **lầu Kiến Trung** (kết hợp kiến trúc Âu - Á) trong Tử Cấm Thành được hoàn thành.
 *   **1923:** Cơ quan Kiểm tra và Cứu trợ người bản xứ của các thuộc địa (C.A.I.) được thành lập tại Pháp để giám sát người Việt.
+*   **06/1923:** Nguyễn Ái Quốc sang Liên Xô học tập và làm việc tại Quốc tế Cộng sản.
+*   **10/1923:** Nguyễn Ái Quốc được bầu vào Đoàn Chủ tịch Quốc tế Nông dân.
 *   **19/06/1924:** Phạm Hồng Thái thực hiện vụ mưu sát Toàn quyền Martial Merlin tại Sa Diện (Quảng Châu), tạo tiếng vang lớn.
 *   **18/09/1924:** Toàn quyền Merlin ký nghị định sửa đổi Bộ Học chính tổng quy, chủ trương phát triển giáo dục tiểu học ("giáo dục theo chiều ngang").
 *   **27/10/1924:** Trường Mỹ thuật Đông Dương được thành lập tại Hà Nội.
@@ -648,6 +654,7 @@
 *   **01/1925:** Nguyễn Ái Quốc mở các lớp huấn luyện chính trị cho thanh niên yêu nước tại Quảng Châu.
 *   **06/1925:** Hội Việt Nam Cách mạng Thanh niên được thành lập tại Quảng Châu do Nguyễn Ái Quốc sáng lập và lãnh đạo.
 *   **21/06/1925:** Tuần báo *Thanh niên*, cơ quan ngôn luận của Hội Việt Nam Cách mạng Thanh niên, ra số đầu tiên.
+*   **1925:** Tác phẩm *Bản án chế độ thực dân Pháp* của Nguyễn Ái Quốc được xuất bản tại Paris.
 *   **30/06/1925:** Phan Bội Châu bị thực dân Pháp bắt cóc tại Thượng Hải.
 *   **08/1925:** Cuộc bãi công của hơn 1.000 công nhân xưởng Ba Son (Sài Gòn) do Tôn Đức Thắng lãnh đạo, trì hoãn việc sửa chữa chiến hạm Jules Michelet của Pháp.
 *   **23/11/1925:** Thực dân Pháp đưa Phan Bội Châu ra xét xử tại Hà Nội, làm dấy lên một phong trào quần chúng rộng lớn đòi thả ông.
@@ -686,8 +693,10 @@
 *   **14-31/10/1930:** Hội nghị lần thứ nhất Ban Chấp hành Trung ương Đảng họp tại Hương Cảng (Trung Quốc), thông qua Luận cương chính trị và đổi tên Đảng thành Đảng Cộng sản Đông Dương. Đồng chí Trần Phú được bầu làm Tổng Bí thư.
 *   **17/01/1931:** Chuyến bay bưu chính đầu tiên giữa Pháp và Đông Dương diễn ra.
 *   **19/04/1931:** Tổng Bí thư Trần Phú bị địch bắt.
+*   **06/1931:** Nguyễn Ái Quốc (với tên giả Tống Văn Sơ) bị chính quyền Anh bắt giam tại Hồng Kông.
 *   **06/09/1931:** Đồng chí Trần Phú hy sinh tại nhà thương Chợ Quán.
 *   **16/08/1932:** Vua Bảo Đại lên đường về nước để chấp chính sau thời gian du học tại Pháp.
+*   **28/12/1932:** Nguyễn Ái Quốc được trả tự do tại Hồng Kông.
 *   **02/05/1933:** Vua Bảo Đại ra đạo Dụ cải tổ bộ máy Nam triều, lập ra nội các mới gồm các Thượng thư như Phạm Quỳnh, Ngô Đình Diệm.
 *   **27-31/03/1935:** Đại hội đại biểu toàn quốc lần thứ nhất của Đảng Cộng sản Đông Dương được tổ chức tại Ma Cao (Trung Quốc).
 
@@ -699,6 +708,7 @@
 *   **13/11/1936:** Cuộc tổng bãi công của hơn 3 vạn công nhân mỏ vùng Hòn Gai, Cẩm Phả nổ ra và giành thắng lợi lớn.
 *   **30/12/1936:** Chính phủ Pháp ban hành Sắc lệnh về Luật Lao động ở Đông Dương, quy định một số chế độ cho người lao động.
 *   **01/01 - 14/03/1937:** Phái viên Justin Godart của chính phủ Pháp sang điều tra tình hình Đông Dương, làm dấy lên một phong trào quần chúng rầm rộ đón tiếp và đưa yêu sách.
+*   **1938:** Nguyễn Ái Quốc trở lại Trung Quốc, hoạt động trong Bát lộ quân.
 *   **03/1938:** Hội nghị Ban Chấp hành Trung ương Đảng quyết định đổi tên Mặt trận thành Mặt trận Dân chủ Đông Dương.
 *   **01/05/1938:** Cuộc mít tinh khổng lồ với 25.000 người tham gia được tổ chức công khai tại khu Đấu Xảo, Hà Nội để kỷ niệm ngày Quốc tế Lao động.
 *   **25/05/1938:** Hội Truyền bá quốc ngữ ra đời.
@@ -718,6 +728,8 @@
 *   **13/01/1941:** Cuộc binh biến Đô Lương do Đội Cung lãnh đạo nổ ra ở Nghệ An.
 *   **28/01/1941:** Lãnh tụ Nguyễn Ái Quốc trở về nước tại Pắc Bó (Cao Bằng) sau 30 năm hoạt động ở nước ngoài để trực tiếp lãnh đạo cách mạng.
 *   **10-19/05/1941:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ VIII tại Pắc Bó (Cao Bằng) do Nguyễn Ái Quốc chủ trì, hoàn chỉnh đường lối giải phóng dân tộc và quyết định thành lập Mặt trận Việt Nam Độc lập Đồng minh (Việt Minh).
+*   **08/1942:** Lấy tên Hồ Chí Minh, Người sang Trung Quốc tranh thủ sự ủng hộ quốc tế nhưng bị chính quyền địa phương bắt giam. Trong thời gian bị tù, Người viết tập thơ *Nhật ký trong tù*.
+*   **10/09/1943:** Hồ Chí Minh được trả tự do.
 *   **1943:** Đảng Cộng sản Đông Dương công bố bản *Đề cương về Văn hóa Việt Nam*.
 *   **22/12/1944:** Đội Việt Nam Tuyên truyền Giải phóng quân, tiền thân của Quân đội Nhân dân Việt Nam, được thành lập tại khu rừng Trần Hưng Đạo (Cao Bằng).
 *   **24-25/12/1944:** Đội Việt Nam Tuyên truyền Giải phóng quân đánh thắng hai trận đầu tiên tại Phay Khắt và Nà Ngần.
@@ -743,6 +755,7 @@
 *   **02/09/1945:** Tại Quảng trường Ba Đình, Chủ tịch Hồ Chí Minh đọc Tuyên ngôn độc lập, khai sinh nước Việt Nam Dân chủ Cộng hòa.
 *   **03/09/1945:** Trong phiên họp đầu tiên của Chính phủ lâm thời, Chủ tịch Hồ Chí Minh đề ra các nhiệm vụ cấp bách: chống giặc đói, giặc dốt và giặc ngoại xâm.
 *   **04/09/1945:** Chính phủ ra Sắc lệnh số 4/SL lập "Quỹ Độc lập".
+*   **09/1945:** Nhân ngày khai trường đầu tiên của nước Việt Nam Dân chủ Cộng hòa, Chủ tịch Hồ Chí Minh gửi thư cho học sinh.
 *   **07/09/1945:** Chủ tịch Hồ Chí Minh ra chỉ thị thành lập Bộ Tổng tham mưu quân đội.
 *   **08/09/1945:** Chủ tịch Hồ Chí Minh ký Sắc lệnh số 14-SL, ấn định sẽ tổ chức Tổng tuyển cử trong vòng hai tháng.
 *   **11/09/1945:** Tướng Gracey, chỉ huy quân đội Anh, đến Sài Gòn.
@@ -766,6 +779,7 @@
 *   **24/03/1946:** Chủ tịch Hồ Chí Minh và Cao ủy Pháp D'Argenlieu hội đàm tại Vịnh Hạ Long.
 *   **19/04/1946:** Hội nghị trù bị Đà Lạt khai mạc để chuẩn bị cho cuộc đàm phán chính thức tại Pháp.
 *   **11/05/1946:** Hội nghị trù bị Đà Lạt kết thúc mà không đạt được thỏa thuận về các vấn đề cơ bản.
+*   **19/05/1946:** Lần đầu tiên kỷ niệm ngày sinh Chủ tịch Hồ Chí Minh được tổ chức công khai nhằm biểu thị tinh thần đại đoàn kết dân tộc.
 *   **29/05/1946:** Hội Liên hiệp quốc dân Việt Nam (Liên Việt) được thành lập.
 *   **31/05/1946:** Chủ tịch Hồ Chí Minh lên đường sang Pháp để đàm phán chính thức.
 *   **01/06/1946:** Tại Sài Gòn, Cao ủy D'Argenlieu tuyên bố thành lập "Nước Cộng hòa tự trị Nam Kỳ".
@@ -1045,6 +1059,7 @@
 *   **04/1987:** Hội nghị lần thứ 2 Ban Chấp hành Trung ương Đảng (khóa VI) quyết định phương hướng giải quyết vấn đề lưu thông phân phối, xóa bỏ chế độ tập trung quan liêu, bao cấp và chính sách "ngăn sông cấm chợ".
 *   **07/1987:** Hội nghị lần thứ 3 Ban Chấp hành Trung ương Đảng (khóa VI) ra nghị quyết chuyển hoạt động của các đơn vị kinh tế quốc doanh sang kinh doanh xã hội chủ nghĩa và đổi mới quản lý nhà nước về kinh tế.
 *   **1987:** Quốc hội ban hành Luật Đầu tư nước ngoài tại Việt Nam, mở ra hành lang pháp lý đầu tiên để thu hút vốn đầu tư trực tiếp từ nước ngoài (FDI).
+*   **11/1987:** UNESCO ra Nghị quyết 24C/18.65 kỷ niệm 100 năm ngày sinh Chủ tịch Hồ Chí Minh, tôn vinh Người là "Anh hùng giải phóng dân tộc và Nhà văn hóa kiệt xuất của Việt Nam".
 *   **14/11/1987:** Hội đồng Bộ trưởng (nay là Chính phủ) ban hành Quyết định số 217/HĐBT, trao quyền tự chủ trong sản xuất, kinh doanh cho các doanh nghiệp nhà nước.
 *   **11/1987:** Trong chuyến thăm Liên Xô, Tổng Bí thư Nguyễn Văn Linh đã thẳng thắn cảnh báo lãnh đạo Liên Xô về sai lầm mang tính nguyên tắc khi xóa bỏ Điều 6 Hiến pháp.
 *   **14/03/1988:** Trung Quốc tiếp tục dùng vũ lực tấn công Hải quân Việt Nam để chiếm bãi đá Gạc Ma thuộc quần đảo Trường Sa, giết hại nhiều chiến sĩ Việt Nam.

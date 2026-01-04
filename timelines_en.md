@@ -553,6 +553,7 @@
 *   **Nov. 1888:** King Ham Nghi was captured due to the betrayal of Truong Quang Ngoc and was later exiled to Algeria.
 *   **Jan. 13, 1889:** King Ham Nghi arrived in Algiers (Algeria), beginning his long exile where he later became known as a painter and married a French woman.
 *   **1889:** Nguyen Thien Thuat went to China, and the Bai Say Uprising weakened.
+*   **May 19, 1890:** Nguyen Sinh Cung (later President Ho Chi Minh) was born in Kim Lien village, Nam Dan district, Nghe An province.
 *   **1891:** Hai Phong was considered the first city to have electric lights, even before Hanoi.
 *   **1892:** The Bai Say Uprising disintegrated. Tong Duy Tan (leader of the Hung Linh Uprising) was captured.
 *   **Nov. 1893:** Cao Thang was killed in an attack on the Nu fortress (Nghe An), a major loss for the Huong Khe Uprising.
@@ -589,6 +590,7 @@
 *   **Sep. 1908:** France and Japan signed a treaty, under which the Japanese government expelled Vietnamese patriots and students, leading to the collapse of the Dong Du Movement.
 *   **Dec. 1908:** The French colonialists ordered the closure of the Dong Kinh Nghia Thuc school and suppressed its participants.
 *   **Aug. 1909 - Jan. 1910:** The uprising of the Muong people in Hoa Binh, led by Doc Bang and Tong Kiem.
+*   **Jun. 5, 1911:** From Nha Rong Harbor (Saigon), Nguyen Tat Thanh (using the name Van Ba) departed on the ship *Amiral Latouche-Tréville*, beginning his journey to seek a path for national salvation.
 *   **Nov. 18, 1911:** Protestantism established its first base in Da Nang, officially entering Vietnam.
 *   **Nov. 1911:** Albert Sarraut assumed the post of Governor-General, continuing to promote the "association" policy and demagogic reforms.
 *   **May 1912:** Phan Boi Chau founded the Viet Nam Quang Phuc Hoi (Vietnam Restoration League) in Guangzhou (China), shifting from a constitutional monarchy stance to a democratic republic.
@@ -618,6 +620,7 @@
 
 *   **May 1918:** Governor-General Albert Sarraut drafted the "Five-Year Program for Political and Economic Activities," laying the foundation for the second colonial exploitation.
 *   **Feb. 5, 1919:** The Association for the Intellectual and Moral Formation of the Annamites (AFIMA) was established in Hanoi, a cultural organization sponsored by the French colonialists to implement the "Franco-Vietnamese collaboration" policy.
+*   **Feb. 1919:** Nguyen Ai Quoc joined the French Socialist Party.
 *   **Apr. 18, 1919:** A decree allowed the recruitment of Vietnamese staff into the Office of the Governor-General.
 *   **May 19, 1919:** A decree authorized the Governor-General of Indochina to change the judicial system in Annam and Laos.
 *   **Jun. 14, 1919:** King Khai Dinh issued a Royal Edict abolishing the examination system and Chinese-character schools, ending the traditional examination-based education system.
@@ -631,6 +634,7 @@
 *   **Dec. 25-30, 1920:** At the Tours Congress of the French Socialist Party, Nguyen Ai Quoc voted in favor of joining the Third International and became one of the founding members of the French Communist Party.
 *   **Apr. 12, 1921:** Albert Sarraut, then Minister of Colonies, presented the "Bill on Colonial Exploitation" to the French National Assembly.
 *   **Jun. 1921:** The Committee for Colonial Studies was established within the French Communist Party, with Nguyen Ai Quoc in charge of the Indochina subcommittee.
+*   **1921:** Nguyen Ai Quoc participated in founding the Intercolonial Union in France.
 *   **Aug. 12, 1921:** The Resident Superior of Tonkin issued a decree to carry out "reform of village administration," reorganizing the administrative apparatus at the village level.
 *   **Oct. 11, 1921:** The Governor-General of Indochina issued a decree to issue bonds worth 6 million piasters to build the Vinh - Dong Ha railway.
 *   **Oct. 17, 1921:** The city of Nam Dinh was established.
@@ -641,6 +645,8 @@
 *   **1923:** The revolutionary organization Tam Tam Xa (Heart-to-Heart Association) was founded in Guangzhou, China.
 *   **1923:** Construction of the **Kien Trung Palace** was completed within the Purple Forbidden City, featuring a blend of European and Asian architectural styles.
 *   **1923:** The Service for the Control and Assistance of Natives of the Colonies (C.A.I.) was established in France to monitor the Vietnamese.
+*   **Jun. 1923:** Nguyen Ai Quoc arrived in the Soviet Union to study and work at the Comintern.
+*   **Oct. 1923:** Nguyen Ai Quoc was elected to the Presidium of the Peasant International.
 *   **Jun. 19, 1924:** Pham Hong Thai carried out an assassination attempt on Governor-General Martial Merlin in Shamian (Guangzhou), creating a great sensation.
 *   **Sep. 18, 1924:** Governor-General Merlin signed a decree amending the General Code of Public Education, advocating for the development of primary education ("horizontal education").
 *   **Oct. 27, 1924:** The Indochina School of Fine Arts was established in Hanoi.
@@ -648,6 +654,7 @@
 *   **Jan. 1925:** Nguyen Ai Quoc opened political training classes for patriotic youth in Guangzhou.
 *   **Jun. 1925:** The Vietnamese Revolutionary Youth League was founded in Guangzhou by Nguyen Ai Quoc.
 *   **Jun. 21, 1925:** The weekly newspaper *Thanh nien* (Youth), the organ of the Vietnamese Revolutionary Youth League, published its first issue.
+*   **1925:** The work *Le Procès de la colonisation française* (French Colonialism on Trial) by Nguyen Ai Quoc was published in Paris.
 *   **Jun. 30, 1925:** Phan Boi Chau was kidnapped by French colonialists in Shanghai.
 *   **Aug. 1925:** A strike by over 1,000 workers at the Ba Son shipyard (Saigon), led by Ton Duc Thang, delayed the repair of the French battleship Jules Michelet.
 *   **Nov. 23, 1925:** The French colonialists put Phan Boi Chau on trial in Hanoi, sparking a large mass movement demanding his release.
@@ -686,8 +693,10 @@
 *   **Oct. 14-31, 1930:** The First Conference of the Party Central Committee was held in Hong Kong (China), approving the Political Theses and changing the Party's name to the Indochinese Communist Party. Comrade Tran Phu was elected General Secretary.
 *   **Jan. 17, 1931:** The first postal flight between France and Indochina took place.
 *   **Apr. 19, 1931:** General Secretary Tran Phu was arrested by the enemy.
+*   **Jun. 1931:** Nguyen Ai Quoc (under the alias Sung Man Cho) was arrested by British authorities in Hong Kong.
 *   **Sep. 6, 1931:** Comrade Tran Phu died in Cho Quan hospital.
 *   **Aug. 16, 1932:** Emperor Bao Dai returned to the country to take up his reign after studying in France.
+*   **Dec. 28, 1932:** Nguyen Ai Quoc was released from prison in Hong Kong.
 *   **May 2, 1933:** Emperor Bao Dai issued an edict to reform the Southern Court's apparatus, establishing a new cabinet with ministers such as Pham Quynh and Ngo Dinh Diem.
 *   **Mar. 27-31, 1935:** The First National Congress of the Indochinese Communist Party was held in Macau (China).
 
@@ -699,8 +708,9 @@
 *   **Nov. 13, 1936:** A general strike by over 30,000 miners in the Hon Gai and Cam Pha region broke out and achieved a major victory.
 *   **Dec. 30, 1936:** The French government issued a decree on the Labor Law in Indochina, regulating certain conditions for workers.
 *   **Jan. 1 - Mar. 14, 1937:** Justin Godart, an envoy from the French government, visited Indochina to investigate the situation, sparking a vigorous mass movement to welcome him and present demands.
+*   **1938:** Nguyen Ai Quoc returned to China and worked in the Eighth Route Army.
 *   **Mar. 1938:** The Party Central Committee conference decided to change the name of the Front to the Indochinese Democratic Front.
-*   **May 1, 1938:** A huge rally with 25,000 participants was held openly at the Dau Xao area in Hanoi to celebrate International Workers' Day.
+*   **May 1, 1938:** A huge rally with 25.000 participants was held openly at the Dau Xao area in Hanoi to celebrate International Workers' Day.
 *   **May 25, 1938:** The Association for the Propagation of Quốc ngữ (Hội Truyền bá quốc ngữ) was established.
 *   **Aug. 30, 1938:** The French government issued a decree on press freedom in Cochinchina, allowing the publication of Vietnamese-language newspapers without prior permission.
 *   **Jul. 5, 1939:** Hoa Hao Buddhism, an indigenous religion, was founded by Mr. Huynh Phu So in An Giang province.
@@ -718,6 +728,8 @@
 *   **Jan. 13, 1941:** The Do Luong Mutiny, led by Captain Cung, broke out in Nghe An.
 *   **Jan. 28, 1941:** Leader Nguyen Ai Quoc returned to the country at Pac Bo (Cao Bang) after 30 years of activities abroad to directly lead the revolution.
 *   **May 10-19, 1941:** The 8th Conference of the Party Central Committee in Pac Bo (Cao Bang), chaired by Nguyen Ai Quoc, completed the line of national liberation and decided to establish the League for the Independence of Vietnam (Viet Minh).
+*   **Aug. 1942:** Taking the name Ho Chi Minh, he went to China to seek international support but was arrested by the Chiang Kai-shek administration. During more than a year in prison, he wrote *Prison Diary*.
+*   **Sep. 10, 1943:** Ho Chi Minh was released from prison in China.
 *   **1943:** The Indochinese Communist Party published the *Theses on Vietnamese Culture*.
 *   **Dec. 22, 1944:** The Vietnam Propaganda and Liberation Army, the precursor to the Vietnam People's Army, was established in the Tran Hung Dao forest (Cao Bang).
 *   **Dec. 24-25, 1944:** The Vietnam Propaganda and Liberation Army won its first two battles at Phay Khat and Na Ngan.
@@ -743,6 +755,7 @@
 *   **Sep. 2, 1945:** At Ba Dinh Square, President Ho Chi Minh read the Declaration of Independence, giving birth to the Democratic Republic of Vietnam.
 *   **Sep. 3, 1945:** In the first meeting of the Provisional Government, President Ho Chi Minh set out urgent tasks: combating famine, illiteracy, and foreign invaders.
 *   **Sep. 4, 1945:** The government issued Decree No. 4/SL to establish the "Independence Fund."
+*   **Sep. 1945:** On the occasion of the first opening of school in the Democratic Republic of Vietnam, President Ho Chi Minh sent a letter to students.
 *   **Sep. 7, 1945:** President Ho Chi Minh issued a directive to establish the General Staff of the army.
 *   **Sep. 8, 1945:** President Ho Chi Minh signed Decree No. 14-SL, stipulating that a General Election would be held within two months.
 *   **Sep. 11, 1945:** General Gracey, commander of the British forces, arrived in Saigon.
@@ -766,6 +779,7 @@
 *   **Mar. 24, 1946:** President Ho Chi Minh and French High Commissioner D'Argenlieu held talks in Ha Long Bay.
 *   **Apr. 19, 1946:** The Da Lat Preparatory Conference opened to prepare for official negotiations in France.
 *   **May 11, 1946:** The Da Lat Preparatory Conference concluded without reaching agreement on fundamental issues.
+*   **May 19, 1946:** The birthday of President Ho Chi Minh was celebrated publicly for the first time, becoming a demonstration of national unity.
 *   **May 29, 1946:** The Vietnamese National Popular League (Lien Viet) was established.
 *   **May 31, 1946:** President Ho Chi Minh departed for France for official negotiations.
 *   **Jun. 1, 1946:** In Saigon, High Commissioner D'Argenlieu announced the establishment of the "Autonomous Republic of Cochinchina."
@@ -1045,6 +1059,7 @@
 *   **Apr. 1987:** The 2nd Conference of the Party Central Committee (6th tenure) decided on the direction for resolving issues of distribution and circulation, abolishing the centralized bureaucratic subsidy system and the policy of "blocking rivers, banning markets."
 *   **Jul. 1987:** The 3rd Conference of the Party Central Committee (6th tenure) issued a resolution to shift the activities of state-owned economic units to socialist business accounting and to renew state management of the economy.
 *   **1987:** The National Assembly enacted the Law on Foreign Investment in Vietnam, creating the first legal framework to attract foreign direct investment (FDI).
+*   **Nov. 1987:** UNESCO issued Resolution 24C/18.65 commemorating the 100th anniversary of the birth of President Ho Chi Minh, honoring him as a "Vietnamese Hero of National Liberation and Great Man of Culture".
 *   **Nov. 14, 1987:** The Council of Ministers (now the Government) issued Decision No. 217/HDBT, granting autonomy in production and business to state-owned enterprises.
 *   **Nov. 1987:** During a visit to the Soviet Union for the 70th anniversary of the October Revolution, General Secretary Nguyen Van Linh warned Soviet leaders about the dangers of removing Article 6 of the Constitution regarding the Party's leadership role.
 *   **Mar. 14, 1988:** China continued to use force to attack the Vietnamese Navy to seize Gac Ma Reef in the Spratly Islands, killing many Vietnamese soldiers.
