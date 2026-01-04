@@ -146,6 +146,7 @@
 *   **1272:** Le Van Huu completed the *Dai Viet su ky*, the first national history of Vietnam.
 *   **Oct. 24, 1278:** Emperor Trần Thánh Tông abdicated the throne in favor of Crown Prince Trần Khâm (later known as Emperor Trần Nhân Tông).
 *   **1282:** The first work written in chữ Nôm (Vietnamese demotic script) was *Văn tế cá sấu* (Eulogy for the Crocodile) by Nguyễn Thuyên, composed during the Trần dynasty. This was a text commissioned by Emperor Trần Nhân Tông to drive away a crocodile that had appeared in the Red River.
+*   **Oct. 1282:** King Tran Nhan Tong convened the **Binh Than Conference** to discuss strategies against the Yuan invasion. Hoai Van Hau **Tran Quoc Toan**, being too young (15 years old) to participate, crushed an orange in his hand out of frustration. He later mobilized over 1,000 domestic servants and relatives, raising a flag with six golden words: "**Pha cuong dich, bao hoang an**" (Destroy the strong enemy, repay the royal favor) to join the resistance.
 *   **Dec. 1282:** Yuan forces under the command of Sogetu attacked Champa, initiating the plan to invade Dai Viet from the south.
 *   **Mar. 19, 1283:** Yuan forces under Sogetu were defeated by the Champa army and had to retreat.
 *   **Oct. 1283:** To prepare for the second resistance against the Yuan army, Tran Quoc Tuan was appointed by Emperor Emeritus Tran Thanh Tong and King Tran Nhan Tong as the Commander-in-Chief (Quoc cong tiet che) of the armed forces.
@@ -155,6 +156,7 @@
 *   **1285:** When King Tran Thanh Tong asked if he should surrender during the difficult early stages of the war, Tran Hung Dao famously replied: "Your Majesty, if you want to surrender, please cut off my head first."
 *   **May 1285:** The Tran army began a major counter-offensive, winning successive victories at Tay Ket, Chuong Duong, and Ham Tu.
 *   **Jun. 1285:** The second resistance war against the Mongol-Yuan invaders ended in victory.
+*   **Jul. 15, 1285:** Hoai Van Hau Tran Quoc Toan sacrificed his life in battle at the age of 18 (according to some records). He became an enduring symbol of patriotism and the brave spirit of Vietnamese youth.
 *   **Dec. 1287:** Yuan forces under the command of Toghon launched the third invasion of Dai Viet.
 *   **1288 (early year):** Tran Khanh Du commanded the Battle of Van Don, completely destroying the enemy's supply fleet led by Zhang Wenhu.
 *   **Apr. 9, 1288:** The historic Battle of Bach Dang. The Yuan navy was completely annihilated under the command of Hung Dao Vuong Tran Quoc Tuan. The third resistance war against the Mongol-Yuan invaders ended in a glorious victory.

@@ -146,6 +146,7 @@
 *   **1272:** Lê Văn Hưu hoàn thành bộ *Đại Việt sử ký*, bộ quốc sử đầu tiên của Việt Nam.
 *   **24/10/1278:** Trần Thánh Tông nhường ngôi cho Thái tử Trần Khâm (sau là Trần Nhân Tông).
 *   **1282:** Tác phẩm đầu tiên viết bằng chữ Nôm là *Văn tế cá sấu* của Nguyễn Thuyên, sáng tác dưới triều đại nhà Trần. Đây là bài văn được vua Trần Nhân Tông sai viết để đuổi con cá sấu xuất hiện trên sông Hồng.
+*   **10/1282:** Vua Trần Nhân Tông mở **Hội nghị Bình Than** để bàn kế sách chống quân Nguyên. Hoài Văn hầu **Trần Quốc Toản** vì còn nhỏ tuổi (15 tuổi) không được dự bàn, đã bóp nát quả cam trong tay vì phẫn chí. Sau đó, ông về huy động gia nô và thân thuộc hơn nghìn người, sắm vũ khí, đóng chiến thuyền, thêu lên cờ sáu chữ vàng: "**Phá cường địch, báo hoàng ân**" (Phá giặc mạnh, báo ơn vua) để tham gia kháng chiến.
 *   **12/1282:** Quân Nguyên do Toa Đô chỉ huy tấn công Champa, mở đầu cho kế hoạch xâm lược Đại Việt từ phía Nam.
 *   **19/03/1283:** Quân Nguyên do Toa Đô chỉ huy bị quân Champa đánh bại, phải rút quân.
 *   **10/1283:** Để chuẩn bị cho cuộc kháng chiến lần hai, Trần Quốc Tuấn được Thượng hoàng Trần Thánh Tông và vua Trần Nhân Tông phong làm Quốc công tiết chế thống lĩnh chư quân.
@@ -155,6 +156,7 @@
 *   **1285:** Khi Thượng hoàng Trần Thánh Tông vờ hỏi có nên hàng không, Trần Hưng Đạo đã khẳng khái trả lời: "Bệ hạ chém đầu tôi trước rồi hãy hàng".
 *   **05/1285:** Quân Trần bắt đầu cuộc phản công lớn, giành thắng lợi liên tiếp ở Tây Kết, Chương Dương, Hàm Tử.
 *   **06/1285:** Cuộc kháng chiến chống quân xâm lược Mông-Nguyên lần thứ hai kết thúc thắng lợi.
+*   **15/07/1285:** Hoài Văn hầu Trần Quốc Toản hy sinh (theo một số tài liệu) ở tuổi 18. Tấm gương dũng cảm và lá cờ thêu sáu chữ vàng của ông đã trở thành biểu tượng bất diệt cho lòng yêu nước của tuổi trẻ Việt Nam.
 *   **12/1287:** Quân Nguyên do Thoát Hoan chỉ huy tiến hành cuộc xâm lược Đại Việt lần thứ ba.
 *   **1288 (đầu năm):** Trần Khánh Dư chỉ huy trận Vân Đồn, tiêu diệt hoàn toàn đoàn thuyền lương của giặc do Trương Văn Hổ chỉ huy.
 *   **09/04/1288:** Trận Bạch Đằng lịch sử. Thủy quân Nguyên bị tiêu diệt hoàn toàn dưới sự chỉ huy của Hưng Đạo vương Trần Quốc Tuấn. Cuộc kháng chiến chống Mông-Nguyên lần thứ ba kết thúc thắng lợi vẻ vang.
