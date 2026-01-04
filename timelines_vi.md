@@ -414,7 +414,7 @@
 *   **Tháng 4/1788:** Nguyễn Huệ ra Thăng Long giết Vũ Văn Nhậm (sau khi Nhậm diệt Nguyễn Hữu Chỉnh) để dẹp loạn và củng cố quyền lực phía Bắc trước khi quân Thanh sang.
 *   **05/1788:** Sau khi xử tử Vũ Văn Nhậm, Đô đốc Tuyết (Nguyễn Văn Tuyết) được Nguyễn Huệ giao trọng trách ở lại Bắc Hà làm phụ tá cho Ngô Văn Sở.
 *   **1788:** Nguyễn Ánh từ Xiêm trở về, lợi dụng Nguyễn Lữ yếu kém, chiếm lại Gia Định.
-*   **Cuối 1788:** Vua Lê Chiêu Thống chạy sang Trung Quốc cầu viện. 29 vạn quân Mãn Thanh do Tôn Sĩ Nghị chỉ huy tràn vào xâm lược nước ta, chiếm Thăng Long. Đô đốc Tuyết đã một mình một ngựa phi gấp từ Bắc Hà về Phú Xuân để cấp báo tình hình nguy cấp.
+*   **Cuối 1788:** Vua Lê Chiêu Thống chạy sang Trung Quốc cầu viện. 29 vạn quân Mãn Thanh do Tôn Sĩ Nghị chỉ huy tràn vào xâm lược Đại Việt, chiếm Thăng Long. Đô đốc Tuyết đã một mình một ngựa phi gấp từ Bắc Hà về Phú Xuân để cấp báo tình hình nguy cấp.
 *   **22/12/1788:** Tại Phú Xuân, Nguyễn Huệ lên ngôi Hoàng đế, lấy niên hiệu Quang Trung, rồi lập tức chỉ huy đại quân thần tốc tiến ra Bắc.
 *   **28-30/01/1789 (Mồng 3-5 Tết Kỷ Dậu):** Vua Quang Trung đại phá quân Thanh trong các trận Hà Hồi, Ngọc Hồi, Đống Đa. Nữ tướng Bùi Thị Xuân chỉ huy đội tượng binh, Đại Tư đồ Võ Văn Dũng đốc xuất hậu quân, và Đại Đô đốc Lộc (Nguyễn Văn Lộc) chỉ huy Tả quân thủy sư, góp phần quan trọng vào chiến thắng kỷ lục.
 *   **1789:** Vua Quang Trung ban bố "Chiếu khuyến nông" để phục hồi sản xuất. Đồng thời, lần đầu tiên ban hành chế độ **"Tín bài"** (thẻ căn cước) để quản lý dân số và tuyển quân, phân chia dân thành các hạng tuổi để kiểm soát hộ tịch.
@@ -784,7 +784,7 @@
 *   **1947:** Trung Hoa Dân Quốc (Trung Quốc Quốc dân Đảng) đã đưa ra bản đồ với đường 11 đoạn, sau này được Cộng hòa Nhân dân Trung Hoa kế thừa và sửa thành đường 9 đoạn. Họ dựa vào cái gọi là "tuyên bố chủ quyền lịch sử" để đòi hỏi hầu hết diện tích Biển Đông, bao gồm cả Hoàng Sa và Trường Sa.
 *   **17/02/1947:** Sau 60 ngày đêm chiến đấu, Trung đoàn Thủ đô rút khỏi Hà Nội để bảo toàn lực lượng.
 *   **07/10/1947:** Pháp mở cuộc tấn công quy mô lớn lên căn cứ địa Việt Bắc (Chiến dịch Léa).
-*   **30/10/1947:** Quân ta giành thắng lợi lớn trong trận phục kích ở đèo Bông Lau trên đường số 4.
+*   **30/10/1947:** Quân đội Việt Nam giành thắng lợi lớn trong trận phục kích ở đèo Bông Lau trên đường số 4.
 *   **20/11/1947:** Pháp mở giai đoạn hai của cuộc tấn công Việt Bắc (Chiến dịch Ceinture).
 *   **22/12/1947:** Đại bộ phận quân Pháp rút khỏi Việt Bắc, chiến dịch tấn công của địch hoàn toàn thất bại.
 *   **25/01/1948:** Chính phủ ra sắc lệnh thành lập các Liên khu để thống nhất chỉ đạo kháng chiến.
@@ -802,8 +802,8 @@
 *   **01/05/1950:** Tổng thống Mỹ Truman quyết định viện trợ quân sự trực tiếp 10 triệu USD cho Pháp ở Đông Dương.
 *   **06/1950:** Ban Thường vụ Trung ương Đảng quyết định mở chiến dịch Biên giới (Chiến dịch Lê Hồng Phong II).
 *   **16/09/1950:** Chiến dịch Biên giới bắt đầu bằng trận đánh tiêu diệt cứ điểm Đông Khê.
-*   **18/09/1950:** Quân ta hoàn toàn làm chủ Đông Khê.
-*   **01-08/10/1950:** Quân ta bao vây, tiêu diệt hoàn toàn hai binh đoàn tinh nhuệ của Pháp là binh đoàn Lepage và binh đoàn Charton tại khu vực Cốc Xá - điểm cao 477.
+*   **18/09/1950:** Quân đội Việt Nam hoàn toàn làm chủ Đông Khê.
+*   **01-08/10/1950:** Quân đội Việt Nam bao vây, tiêu diệt hoàn toàn hai binh đoàn tinh nhuệ của Pháp là binh đoàn Lepage và binh đoàn Charton tại khu vực Cốc Xá - điểm cao 477.
 *   **10-22/10/1950:** Trước nguy cơ bị tiêu diệt, quân Pháp hoảng loạn rút chạy khỏi hàng loạt vị trí trên đường số 4 như Thất Khê, Na Sầm, Lạng Sơn.
 *   **04/11/1950:** Quân Pháp rút khỏi Lào Cai và Sa Pa. Toàn bộ tuyến phòng thủ biên giới của Pháp bị đập tan.
 *   **12/1950:** Tướng De Lattre de Tassigny được cử sang Đông Dương làm Cao ủy kiêm Tổng tư lệnh, nắm toàn bộ quyền lực quân sự và dân sự.
@@ -812,7 +812,7 @@
 ### **Thời kỳ cuối cuộc kháng chiến chống Pháp (1951 - 1954)**
 
 *   **06/12/1950:** Tướng De Lattre de Tassigny được bổ nhiệm làm Cao ủy kiêm Tổng tư lệnh quân đội Pháp ở Đông Dương, bắt đầu triển khai kế hoạch quân sự mới.
-*   **25/12/1950 - 17/01/1951:** Quân ta mở Chiến dịch Trần Hưng Đạo (còn gọi là Chiến dịch Trung du) tiến công phòng tuyến địch ở khu vực Vĩnh Yên - Phúc Yên.
+*   **25/12/1950 - 17/01/1951:** Quân đội Việt Nam mở Chiến dịch Trần Hưng Đạo (còn gọi là Chiến dịch Trung du) tiến công phòng tuyến địch ở khu vực Vĩnh Yên - Phúc Yên.
 *   **11-19/02/1951:** Đại hội đại biểu toàn quốc lần thứ II của Đảng Cộng sản Đông Dương diễn ra tại xã Quang Vinh, huyện Chiêm Hóa, Tuyên Quang.
     *   Quyết định đưa Đảng ra hoạt động công khai với tên mới là **Đảng Lao động Việt Nam**.
     *   Thông qua Chính cương, Điều lệ mới và bầu Ban Chấp hành Trung ương. Hồ Chí Minh được bầu làm Chủ tịch Đảng, Trường Chinh làm Tổng Bí thư.
@@ -824,7 +824,7 @@
 *   **15/07/1951:** Bảo Đại ký dụ "Tổng động viên", thành lập cái gọi là "quân đội quốc gia" nhằm thực hiện âm mưu "dùng người Việt đánh người Việt" của Pháp.
 *   **27/09 - 05/10/1951:** Ban Chấp hành Trung ương họp Hội nghị lần thứ hai, đề ra ba nhiệm vụ lớn: tiêu diệt sinh lực địch, phá âm mưu "lấy chiến tranh nuôi chiến tranh" của địch, và bồi dưỡng sức dân.
 *   **29/09 - 31/10/1951:** Mở Chiến dịch Lý Thường Kiệt, tiến công địch ở khu vực Nghĩa Lộ (Yên Bái).
-*   **10/12/1951 - 25/02/1952:** Quân ta mở **Chiến dịch Hòa Bình**, tiến hành phản công, đập tan cuộc hành quân của địch, giải phóng hoàn toàn khu vực Hòa Bình - sông Đà.
+*   **10/12/1951 - 25/02/1952:** Quân đội Việt Nam mở **Chiến dịch Hòa Bình**, tiến hành phản công, đập tan cuộc hành quân của địch, giải phóng hoàn toàn khu vực Hòa Bình - sông Đà.
 *   **14/10 - 14/12/1952:** Mở **Chiến dịch Tây Bắc**, tiêu diệt nhiều sinh lực địch, giải phóng một vùng rộng lớn bao gồm tỉnh Sơn La (trừ Nà Sản), nối liền căn cứ địa Việt Bắc với Thượng Lào.
 *   **25-30/01/1953:** Ban Chấp hành Trung ương họp Hội nghị lần thứ tư, quyết định phát động quần chúng triệt để giảm tô, thực hiện giảm tức và chuẩn bị cho cải cách ruộng đất.
 *   **12/04/1953:** Chủ tịch Hồ Chí Minh ký các sắc lệnh về chính sách ruộng đất, làm cơ sở pháp lý cho việc phát động quần chúng đấu tranh.
@@ -834,13 +834,13 @@
 *   **20/11/1953:** Quân Pháp nhảy dù chiếm đóng Điện Biên Phủ, bắt đầu xây dựng nơi đây thành một tập đoàn cứ điểm mạnh nhất Đông Dương.
 *   **26/11/1953:** Chủ tịch Hồ Chí Minh trả lời phỏng vấn báo *Expressen* (Thụy Điển), nêu rõ thiện chí hòa bình và khẳng định lập trường đàm phán của Việt Nam.
 *   **06/12/1953:** Bộ Chính trị quyết định mở **Chiến dịch Điện Biên Phủ** với mật danh "Trần Đình", mục tiêu là tiêu diệt toàn bộ quân địch tại đây.
-*   **12/12/1953:** Quân ta tiến vào giải phóng thị xã Lai Châu sau khi quân Pháp rút chạy về Điện Biên Phủ.
+*   **12/12/1953:** Quân đội Việt Nam tiến vào giải phóng thị xã Lai Châu sau khi quân Pháp rút chạy về Điện Biên Phủ.
 *   **19/12/1953:** Chủ tịch Hồ Chí Minh ký sắc lệnh số 197-SL ban hành **Luật Cải cách ruộng đất**.
 *   **26/01/1954:** Tại mặt trận Điện Biên Phủ, Bộ Chỉ huy chiến dịch quyết định thay đổi phương châm tác chiến từ "đánh nhanh thắng nhanh" sang **"đánh chắc, tiến chắc"**.
-*   **13/03/1954:** Quân ta nổ súng mở màn Chiến dịch Điện Biên Phủ.
-*   **13-17/03/1954:** Đợt 1 của chiến dịch, ta tiêu diệt các cụm cứ điểm Him Lam và Độc Lập, bức hàng Bản Kéo, phá vỡ hệ thống phòng ngự vòng ngoài của địch.
-*   **30/03 - 26/04/1954:** Đợt 2 của chiến dịch, ta đồng loạt tiến công các cao điểm phía đông, thắt chặt vòng vây, khống chế sân bay và chia cắt địch.
-*   **01/05 - 07/05/1954:** Đợt 3 của chiến dịch, ta tiêu diệt các cứ điểm còn lại và tiến hành tổng công kích.
+*   **13/03/1954:** Quân đội Việt Nam nổ súng mở màn Chiến dịch Điện Biên Phủ.
+*   **13-17/03/1954:** Đợt 1 của chiến dịch, Quân đội Việt Nam tiêu diệt các cụm cứ điểm Him Lam và Độc Lập, bức hàng Bản Kéo, phá vỡ hệ thống phòng ngự vòng ngoài của địch.
+*   **30/03 - 26/04/1954:** Đợt 2 của chiến dịch, Quân đội Việt Nam đồng loạt tiến công các cao điểm phía đông, thắt chặt vòng vây, khống chế sân bay và chia cắt địch.
+*   **01/05 - 07/05/1954:** Đợt 3 của chiến dịch, Quân đội Việt Nam tiêu diệt các cứ điểm còn lại và tiến hành tổng công kích.
 *   **07/05/1954:** 17 giờ 30 phút, lá cờ "Quyết chiến quyết thắng" tung bay trên nóc hầm De Castries. Tướng De Castries cùng toàn bộ Bộ Tham mưu địch bị bắt sống. **Chiến dịch Điện Biên Phủ toàn thắng**.
 *   **08/05/1954:** **Hội nghị Giơnevơ** bắt đầu phiên họp đầu tiên bàn về vấn đề lập lại hòa bình ở Đông Dương.
 *   **20-21/07/1954:** **Hiệp định Giơnevơ** được ký kết, chấm dứt chiến tranh, lập lại hòa bình ở Đông Dương.
@@ -848,7 +848,7 @@
     *   Lấy vĩ tuyến 17 làm giới tuyến quân sự tạm thời chia Việt Nam thành hai vùng tập kết.
     *   Quân đội hai bên tập kết về hai miền Nam - Bắc trong vòng 300 ngày.
     *   Dự kiến tổ chức tổng tuyển cử tự do để thống nhất đất nước vào tháng 7/1956.
-*   **10/10/1954:** Quân ta tiến vào tiếp quản Thủ đô Hà Nội.
+*   **10/10/1954:** Quân đội Nhân dân Việt Nam tiến vào tiếp quản Thủ đô Hà Nội.
 *   **16/05/1955:** Quân Pháp rút khỏi Hải Phòng, miền Bắc hoàn toàn được giải phóng, kết thúc 9 năm kháng chiến chống Pháp.
 
 ### **Thời kỳ Chia cắt và Xây dựng Chủ nghĩa Xã hội ở Miền Bắc (1954 - 1960)**
@@ -917,7 +917,7 @@
 *   **25-27/03/1965:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ 11 (khóa III) xác định nhiệm vụ cấp bách là "chống Mỹ, cứu nước", chuyển miền Bắc sang thời chiến.
 *   **03-04/04/1965:** Không quân Nhân dân Việt Nam xuất trận lần đầu, cùng các lực lượng phòng không bắn rơi 57 máy bay Mỹ trong trận bảo vệ cầu Hàm Rồng và phà Ghép.
 *   **08/04/1965:** Chính phủ Việt Nam Dân chủ Cộng hòa công bố Lập trường 4 điểm làm cơ sở cho việc giải quyết vấn đề Việt Nam.
-*   **26/05/1965:** Trận Núi Thành (Quảng Nam), lần đầu tiên một đơn vị chủ lực của ta tiêu diệt gọn một đại đội lính thủy đánh bộ Mỹ, mở ra phong trào "Tìm Mỹ mà đánh, gặp Mỹ là diệt".
+*   **26/05/1965:** Trận Núi Thành (Quảng Nam), lần đầu tiên một đơn vị chủ lực của Quân Giải phóng tiêu diệt gọn một đại đội lính thủy đánh bộ Mỹ, mở ra phong trào "Tìm Mỹ mà đánh, gặp Mỹ là diệt".
 *   **18/08/1965:** Chiến thắng Vạn Tường (Quảng Ngãi). Quân Giải phóng đánh bại cuộc hành quân lớn đầu tiên của quân Mỹ, được xem như "Ấp Bắc đối với quân Mỹ".
 *   **19/10 - 26/11/1965:** Quân Giải phóng mở chiến dịch Plâyme - Ia Đrăng ở Tây Nguyên, đánh bại Sư đoàn kỵ binh không vận số 1 của Mỹ.
 *   **Tháng 12/1965:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ 12 (khóa III) hạ quyết tâm chiến lược "đánh thắng giặc Mỹ xâm lược".
@@ -940,14 +940,14 @@
 *   **18/03/1970:** Mỹ chỉ đạo cuộc đảo chính lật đổ chính phủ trung lập của Sihanouk ở Campuchia.
 *   **24-25/04/1970:** Hội nghị cấp cao nhân dân ba nước Đông Dương được tổ chức, củng cố liên minh chiến đấu chống kẻ thù chung.
 *   **30/04/1970:** 10 vạn quân Mỹ và quân đội Sài Gòn mở cuộc hành quân xâm lược Campuchia, mở rộng chiến tranh ra toàn Đông Dương.
-*   **Tháng 02-03/1971:** Quân và dân ta phối hợp với quân dân Lào đập tan cuộc hành quân "Lam Sơn 719" của Mỹ và quân đội Sài Gòn tại Đường 9 - Nam Lào, giữ vững tuyến chi viện chiến lược.
-*   **30/03/1972:** Quân ta mở cuộc **Tiến công chiến lược Xuân - Hè 1972** trên toàn miền Nam, với hướng chính là Trị - Thiên.
+*   **Tháng 02-03/1971:** Quân và dân Việt Nam phối hợp với quân dân Lào đập tan cuộc hành quân "Lam Sơn 719" của Mỹ và quân đội Sài Gòn tại Đường 9 - Nam Lào, giữ vững tuyến chi viện chiến lược.
+*   **30/03/1972:** Quân Giải phóng mở cuộc **Tiến công chiến lược Xuân - Hè 1972** trên toàn miền Nam, với hướng chính là Trị - Thiên.
 *   **06/04/1972:** Mỹ tiến hành cuộc chiến tranh phá hoại miền Bắc lần thứ hai (Chiến dịch Linebacker I).
-*   **01/05/1972:** Quân ta giải phóng hoàn toàn tỉnh Quảng Trị.
+*   **01/05/1972:** Quân Giải phóng giải phóng hoàn toàn tỉnh Quảng Trị.
 *   **08/05/1972:** Nixon ra lệnh thả mìn phong tỏa cảng Hải Phòng và các cửa sông miền Bắc.
 *   **28/06 - 16/09/1972:** Cuộc chiến đấu bảo vệ Thành cổ Quảng Trị diễn ra trong 81 ngày đêm vô cùng khốc liệt ("Mùa hè đỏ lửa"). Mỹ và quân đội Sài Gòn đã mở cuộc hành quân Lam Sơn 72, trút xuống thị xã Quảng Trị khối lượng bom đạn tương đương sức công phá của 7 quả bom nguyên tử. Quân Giải phóng đã chiến đấu quả cảm, chấp nhận hy sinh to lớn để giữ vững Thành cổ nhằm tạo lợi thế trên bàn đàm phán Paris. Tuy cuối cùng phải rút quân, sự kiện này đã góp phần quan trọng dẫn đến việc ký kết Hiệp định Paris.
 *   **20/10/1972:** Việt Nam Dân chủ Cộng hòa và Hoa Kỳ đạt được thỏa thuận về dự thảo "Hiệp định về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam".
-*   **18-29/12/1972:** Mỹ tiến hành cuộc tập kích chiến lược bằng máy bay B-52 vào Hà Nội, Hải Phòng (Chiến dịch Linebacker II). Quân và dân ta làm nên chiến thắng **"Điện Biên Phủ trên không"**, bắn rơi 81 máy bay, trong đó có 34 chiếc B-52.
+*   **18-29/12/1972:** Mỹ tiến hành cuộc tập kích chiến lược bằng máy bay B-52 vào Hà Nội, Hải Phòng (Chiến dịch Linebacker II). Quân và dân miền Bắc làm nên chiến thắng **"Điện Biên Phủ trên không"**, bắn rơi 81 máy bay, trong đó có 34 chiếc B-52.
 *   **30/12/1972:** Mỹ buộc phải tuyên bố ngừng ném bom miền Bắc từ vĩ tuyến 20 trở ra và chấp nhận nối lại đàm phán.
 *   **15/01/1973:** Mỹ chấm dứt hoàn toàn mọi hành động chiến tranh chống phá miền Bắc.
 *   **27/01/1973:** **Hiệp định Paris** về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam được ký kết. Mỹ cam kết tôn trọng độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Việt Nam và rút hết quân khỏi miền Nam.
@@ -959,12 +959,12 @@
 *   **19/01/1974:** Nhân lúc Mỹ rút quân khỏi Việt Nam theo Hiệp định Paris 1973 và tình hình Việt Nam Cộng hòa đang bất ổn, Trung Quốc đã dùng vũ lực tấn công Hải quân Việt Nam Cộng hòa để chiếm toàn bộ quần đảo Hoàng Sa.
 *   **30/09 - 08/10/1974:** Bộ Chính trị họp (đợt 1), đề ra kế hoạch giải phóng hoàn toàn miền Nam trong hai năm 1975-1976.
 *   **18/12/1974 - 08/01/1975:** Bộ Chính trị họp (đợt 2), sau chiến thắng Phước Long, hạ quyết tâm giải phóng miền Nam ngay trong năm 1975 nếu thời cơ đến.
-*   **06/01/1975:** Quân ta giải phóng hoàn toàn tỉnh Phước Long, một đòn trinh sát chiến lược quan trọng.
+*   **06/01/1975:** Quân Giải phóng giải phóng hoàn toàn tỉnh Phước Long, một đòn trinh sát chiến lược quan trọng.
 *   **04/03/1975:** **Chiến dịch Tây Nguyên** chính thức mở màn.
-*   **10/03/1975:** Quân ta tiến công, giải phóng thị xã Buôn Ma Thuột, trận đánh then chốt mở đầu cho sự sụp đổ của quân đội Sài Gòn.
+*   **10/03/1975:** Quân Giải phóng tiến công, giải phóng thị xã Buôn Ma Thuột, trận đánh then chốt mở đầu cho sự sụp đổ của quân đội Sài Gòn.
 *   **14/03/1975:** Tổng thống Nguyễn Văn Thiệu ra lệnh rút quân khỏi Tây Nguyên, dẫn đến sự tan rã của toàn bộ Quân đoàn 2 và Quân khu 2.
 *   **18/03/1975:** Bộ Chính trị hạ quyết tâm giải phóng miền Nam trước mùa mưa năm 1975.
-*   **19/03/1975:** Quân ta giải phóng hoàn toàn tỉnh Quảng Trị.
+*   **19/03/1975:** Quân Giải phóng giải phóng hoàn toàn tỉnh Quảng Trị.
 *   **24/03/1975:** Giải phóng các tỉnh Quảng Ngãi và Tam Kỳ (tỉnh lỵ Quảng Tín).
 *   **25/03/1975:** Giải phóng thành phố Huế và toàn tỉnh Thừa Thiên.
 *   **29/03/1975:** Giải phóng thành phố Đà Nẵng sau một cuộc tiến công thần tốc.
@@ -974,7 +974,7 @@
 *   **09/04 - 20/04/1975:** Diễn ra trận Xuân Lộc, "cánh cửa thép" cuối cùng phía Đông Sài Gòn bị đập tan.
 *   **14/04/1975:** Bộ Chính trị quyết định đặt tên chiến dịch giải phóng Sài Gòn - Gia Định là **"Chiến dịch Hồ Chí Minh"**.
 *   **21/04/1975:** Nguyễn Văn Thiệu từ chức tổng thống.
-*   **26/04/1975:** Chiến dịch Hồ Chí Minh bắt đầu. 5 cánh quân lớn của ta đồng loạt tiến công vào Sài Gòn.
+*   **26/04/1975:** Chiến dịch Hồ Chí Minh bắt đầu. 5 cánh quân lớn của Quân Giải phóng đồng loạt tiến công vào Sài Gòn.
 *   **30/04/1975:**
     *   **10 giờ 45 phút:** Xe tăng của Quân giải phóng húc đổ cổng Dinh Độc Lập.
     *   **11 giờ 30 phút:** Lá cờ giải phóng tung bay trên nóc Dinh Độc Lập. Tổng thống Dương Văn Minh tuyên bố đầu hàng không điều kiện.

@@ -414,7 +414,7 @@
 *   **Apr. 1788:** Nguyen Hue marched to Thang Long to execute Vu Van Nham for arrogance and plotting rebellion after Nham had eliminated Nguyen Huu Chinh. This consolidated Tay Son's control over the North before the Qing invasion.
 *   **May 1788:** After the execution of Vu Van Nham, General Nguyen Van Tuyet (Do Doc Tuyet) was entrusted by Nguyen Hue to remain in the North as a key aide to Ngo Van So.
 *   **1788:** Nguyen Anh returned from Siam and, taking advantage of Nguyen Lu's weakness, recaptured Gia Dinh.
-*   **Late 1788:** King Le Chieu Thong fled to China to seek aid. 290,000 Manchu Qing troops led by Sun Shiyi poured into our country, occupying Thang Long. General Nguyen Van Tuyet rode urgently from the North to Phu Xuan to report the critical situation to Nguyen Hue.
+*   **Late 1788:** King Le Chieu Thong fled to China to seek aid. 290,000 Manchu Qing troops led by Sun Shiyi poured into Dai Viet, occupying Thang Long. General Nguyen Van Tuyet rode urgently from the North to Phu Xuan to report the critical situation to Nguyen Hue.
 *   **Dec. 22, 1788:** In Phu Xuan, Nguyen Hue ascended the throne as Emperor, taking the era name Quang Trung, and immediately led a large army on a lightning march to the north.
 *   **Jan. 28-30, 1789 (3rd-5th day of the Tet of the Year of the Rooster):** In a lightning march and attack, Emperor Quang Trung crushed the Qing army in the battles of Ha Hoi, Ngoc Hoi, and Dong Da. General Bui Thi Xuan commanded the war elephants, General Vo Van Dung led the Rear Army, and Admiral Nguyen Van Loc (Do Doc Loc) commanded the Left Army/Navy, contributing decisively to the liberation of Thang Long.
 *   **1789:** Emperor Quang Trung issued the "Edict on Encouraging Agriculture" to restore production. He also introduced the **"Tin Bai"** (Identity Card) system for the first time to manage the population and conscription, requiring citizens to carry an identification tag.
@@ -784,7 +784,7 @@
 *   **1947:** The Republic of China (Kuomintang) issued a map with an 11-dash line, which was later inherited and modified into a 9-dash line by the People's Republic of China. They based their claims to most of the South China Sea, including the Paracel and Spratly Islands, on what they called "historical sovereignty claims."
 *   **Feb. 17, 1947:** After 60 days and nights of fighting, the Capital Regiment withdrew from Hanoi to preserve its forces.
 *   **Oct. 7, 1947:** France launched a large-scale attack on the Viet Bac resistance base (Operation Léa).
-*   **Oct. 30, 1947:** Our forces won a major victory in an ambush at Bong Lau Pass on Route 4.
+*   **Oct. 30, 1947:** The Vietnamese forces won a major victory in an ambush at Bong Lau Pass on Route 4.
 *   **Nov. 20, 1947:** France launched the second phase of the Viet Bac attack (Operation Ceinture).
 *   **Dec. 22, 1947:** The main body of French forces withdrew from Viet Bac; the enemy's offensive campaign had completely failed.
 *   **Jan. 25, 1948:** The government issued a decree establishing Inter-zones to unify the command of the resistance.
@@ -802,8 +802,8 @@
 *   **May 1, 1950:** US President Truman decided to provide $10 million in direct military aid to France in Indochina.
 *   **Jun. 1950:** The Party Central Standing Committee decided to launch the Border Campaign (Le Hong Phong II Campaign).
 *   **Sep. 16, 1950:** The Border Campaign began with the battle to annihilate the Dong Khe stronghold.
-*   **Sep. 18, 1950:** Our forces completely controlled Dong Khe.
-*   **Oct. 1-8, 1950:** Our forces besieged and completely annihilated two elite French mobile groups, the Lepage group and the Charton group, in the Coc Xa - Hill 477 area.
+*   **Sep. 18, 1950:** The Vietnamese forces completely controlled Dong Khe.
+*   **Oct. 1-8, 1950:** The Vietnamese forces besieged and completely annihilated two elite French mobile groups, the Lepage group and the Charton group, in the Coc Xa - Hill 477 area.
 *   **Oct. 10-22, 1950:** Facing the threat of annihilation, French troops panicked and fled from a series of positions on Route 4, such as That Khe, Na Sam, and Lang Son.
 *   **Nov. 4, 1950:** French forces withdrew from Lao Cai and Sa Pa. The entire French border defense line was shattered.
 *   **Dec. 1950:** General De Lattre de Tassigny was sent to Indochina as High Commissioner and Commander-in-Chief, holding all military and civilian power.
@@ -812,7 +812,7 @@
 ### **Final Period of the Resistance War Against France (1951 - 1954)**
 
 *   **Dec. 6, 1950:** General De Lattre de Tassigny was appointed High Commissioner and Commander-in-Chief of the French army in Indochina, beginning the implementation of a new military plan.
-*   **Dec. 25, 1950 - Jan. 17, 1951:** Our forces launched the Tran Hung Dao Campaign (also known as the Midlands Campaign), attacking the enemy's defense line in the Vinh Yen - Phuc Yen area.
+*   **Dec. 25, 1950 - Jan. 17, 1951:** The Vietnamese forces launched the Tran Hung Dao Campaign (also known as the Midlands Campaign), attacking the enemy's defense line in the Vinh Yen - Phuc Yen area.
 *   **Feb. 11-19, 1951:** The 2nd National Congress of the Indochinese Communist Party was held in Vinh Quang commune, Chiem Hoa district, Tuyen Quang.
     *   It was decided to bring the Party into open activity under the new name **Vietnam Workers' Party**.
     *   A new Political Platform and Party Statutes were approved, and a new Central Committee was elected. Ho Chi Minh was elected Party Chairman, and Truong Chinh as General Secretary.
@@ -824,7 +824,7 @@
 *   **Jul. 15, 1951:** Bao Dai signed a "General Mobilization" edict, establishing the so-called "national army" to implement France's "using Vietnamese to fight Vietnamese" scheme.
 *   **Sep. 27 - Oct. 5, 1951:** The Central Committee held its second conference, outlining three major tasks: annihilate enemy manpower, thwart the enemy's "using war to feed war" scheme, and nurture the people's strength.
 *   **Sep. 29 - Oct. 31, 1951:** The Ly Thuong Kiet Campaign was launched, attacking the enemy in the Nghia Lo area (Yen Bai).
-*   **Dec. 10, 1951 - Feb. 25, 1952:** Our forces launched the **Hoa Binh Campaign**, conducting a counter-offensive, shattering the enemy's operation, and completely liberating the Hoa Binh - Da River area.
+*   **Dec. 10, 1951 - Feb. 25, 1952:** The Vietnamese forces launched the **Hoa Binh Campaign**, conducting a counter-offensive, shattering the enemy's operation, and completely liberating the Hoa Binh - Da River area.
 *   **Oct. 14 - Dec. 14, 1952:** The **Northwest Campaign** was launched, annihilating a large amount of enemy manpower and liberating a vast area including Son La province (except Na San), connecting the Viet Bac resistance base with Upper Laos.
 *   **Jan. 25-30, 1953:** The Central Committee held its fourth conference, deciding to launch a mass mobilization for thorough rent reduction, implement interest rate reduction, and prepare for land reform.
 *   **Apr. 12, 1953:** President Ho Chi Minh signed decrees on land policy, providing the legal basis for launching the mass struggle.
@@ -834,13 +834,13 @@
 *   **Nov. 20, 1953:** French paratroopers occupied Dien Bien Phu, beginning to build it into the strongest fortified base complex in Indochina.
 *   **Nov. 26, 1953:** President Ho Chi Minh, in an interview with the Swedish newspaper *Expressen*, stated Vietnam's goodwill for peace and affirmed its negotiating stance.
 *   **Dec. 6, 1953:** The Politburo decided to launch the **Dien Bien Phu Campaign** under the code name "Tran Dinh," with the objective of annihilating the entire enemy force there.
-*   **Dec. 12, 1953:** Our forces advanced and liberated Lai Chau town after the French forces retreated to Dien Bien Phu.
+*   **Dec. 12, 1953:** The Vietnamese forces advanced and liberated Lai Chau town after the French forces retreated to Dien Bien Phu.
 *   **Dec. 19, 1953:** President Ho Chi Minh signed decree No. 197-SL promulgating the **Land Reform Law**.
 *   **Jan. 26, 1954:** At the Dien Bien Phu front, the Campaign Command decided to change the operational guideline from "swift attack, swift victory" to **"steady attack, steady advance."**
-*   **Mar. 13, 1954:** Our forces opened fire, launching the Dien Bien Phu Campaign.
-*   **Mar. 13-17, 1954:** In the first phase of the campaign, we annihilated the Him Lam and Doc Lap strongpoint clusters, forced the surrender of Ban Keo, and broke the enemy's outer defense system.
-*   **Mar. 30 - Apr. 26, 1954:** In the second phase of the campaign, we simultaneously attacked the eastern hills, tightened the siege, controlled the airfield, and cut off the enemy.
-*   **May 1 - May 7, 1954:** In the third phase of the campaign, we annihilated the remaining strongpoints and launched a general offensive.
+*   **Mar. 13, 1954:** The Vietnamese forces opened fire, launching the Dien Bien Phu Campaign.
+*   **Mar. 13-17, 1954:** In the first phase of the campaign, the Vietnamese forces annihilated the Him Lam and Doc Lap strongpoint clusters, forced the surrender of Ban Keo, and broke the enemy's outer defense system.
+*   **Mar. 30 - Apr. 26, 1954:** In the second phase of the campaign, the Vietnamese forces simultaneously attacked the eastern hills, tightened the siege, controlled the airfield, and cut off the enemy.
+*   **May 1 - May 7, 1954:** In the third phase of the campaign, the Vietnamese forces annihilated the remaining strongpoints and launched a general offensive.
 *   **May 7, 1954:** At 5:30 PM, the "Determined to Fight, Determined to Win" flag flew over the roof of De Castries' command bunker. General De Castries and his entire staff were captured alive. **The Dien Bien Phu Campaign was completely victorious.**
 *   **May 8, 1954:** The **Geneva Conference** began its first session to discuss the restoration of peace in Indochina.
 *   **Jul. 20-21, 1954:** The **Geneva Accords** were signed, ending the war and restoring peace in Indochina.
@@ -848,7 +848,7 @@
     *   The 17th parallel was established as a provisional military demarcation line, dividing Vietnam into two regroupment zones.
     *   The armies of both sides were to regroup to the South and North within 300 days.
     *   A free general election was scheduled to be held in July 1956 to unify the country.
-*   **Oct. 10, 1954:** Our forces entered to take over the capital city of Hanoi.
+*   **Oct. 10, 1954:** The Vietnam People's Army entered to take over the capital city of Hanoi.
 *   **May 16, 1955:** French forces withdrew from Haiphong, the North was completely liberated, ending the 9-year resistance war against France.
 
 ### **Period of Division and Building Socialism in the North (1954 - 1960)**
@@ -917,7 +917,7 @@
 *   **Mar. 25-27, 1965:** The 11th Conference of the Party Central Committee (3rd tenure) defined the urgent task as "resisting the US, saving the country" and shifting the North to a wartime footing.
 *   **Apr. 3-4, 1965:** The Vietnam People's Air Force flew its first combat mission, joining with air defense forces to shoot down 57 US aircraft in the battle to protect Ham Rong Bridge and Ghep Ferry.
 *   **Apr. 8, 1965:** The government of the Democratic Republic of Vietnam announced its 4-point position as a basis for resolving the Vietnam issue.
-*   **May 26, 1965:** Battle of Nui Thanh (Quang Nam), for the first time, a main-force unit of ours neatly wiped out a company of US Marines, initiating the "Find the Americans to fight, meet the Americans to destroy" movement.
+*   **May 26, 1965:** Battle of Nui Thanh (Quang Nam), for the first time, a main-force unit of the Liberation Army neatly wiped out a company of US Marines, initiating the "Find the Americans to fight, meet the Americans to destroy" movement.
 *   **Aug. 18, 1965:** The victory of Van Tuong (Quang Ngai). The Liberation Army defeated the first major operation by US troops, considered the "Ap Bac for the US military."
 *   **Oct. 19 - Nov. 26, 1965:** The Liberation Army launched the Pleime - Ia Drang campaign in the Central Highlands, defeating the US 1st Air Cavalry Division.
 *   **Dec. 1965:** The 12th Conference of the Party Central Committee (3rd tenure) made the strategic resolution to "defeat the US aggressors."
@@ -940,14 +940,14 @@
 *   **Mar. 18, 1970:** The US directed a coup to overthrow the neutral government of Sihanouk in Cambodia.
 *   **Apr. 24-25, 1970:** The Summit Conference of the Indochinese Peoples was held, strengthening the fighting alliance against the common enemy.
 *   **Apr. 30, 1970:** 100,000 US and Saigon troops launched an invasion of Cambodia, expanding the war throughout Indochina.
-*   **Feb. - Mar. 1971:** Our army and people, in coordination with the Lao army and people, crushed Operation "Lam Son 719" by the US and the Saigon army on Route 9 - Southern Laos, successfully defending the strategic supply line.
-*   **Mar. 30, 1972:** Our forces launched the **1972 Spring-Summer Strategic Offensive** across South Vietnam, with the main thrust on Tri-Thien.
+*   **Feb. - Mar. 1971:** The Vietnamese army and people, in coordination with the Lao army and people, crushed Operation "Lam Son 719" by the US and the Saigon army on Route 9 - Southern Laos, successfully defending the strategic supply line.
+*   **Mar. 30, 1972:** The Liberation Army launched the **1972 Spring-Summer Strategic Offensive** across South Vietnam, with the main thrust on Tri-Thien.
 *   **Apr. 6, 1972:** The US conducted its second war of destruction against the North (Operation Linebacker I).
-*   **May 1, 1972:** Our forces completely liberated Quang Tri province.
+*   **May 1, 1972:** The Liberation Army completely liberated Quang Tri province.
 *   **May 8, 1972:** Nixon ordered the mining of Haiphong harbor and the river mouths of the North.
 *   **Jun. 28 - Sep. 16, 1972:** The Battle of Quang Tri Citadel took place over 81 days and nights of extreme intensity. Facing Operation Lam Son 72 and a volume of bombs equivalent to seven atomic bombs dropped by the US, the Liberation Army fought heroically to hold the citadel, serving the diplomatic struggle at the Paris Conference. Although they eventually withdrew, this fierce defense significantly impacted the negotiation process leading to the Paris Peace Accords.
 *   **Oct. 20, 1972:** The Democratic Republic of Vietnam and the United States reached an agreement on the draft "Agreement on Ending the War and Restoring Peace in Vietnam."
-*   **Dec. 18-29, 1972:** The US conducted a strategic air raid using B-52s on Hanoi and Haiphong (Operation Linebacker II). Our army and people achieved the **"Dien Bien Phu in the Air"** victory, shooting down 81 aircraft, including 34 B-52s.
+*   **Dec. 18-29, 1972:** The US conducted a strategic air raid using B-52s on Hanoi and Haiphong (Operation Linebacker II). The Vietnamese army and people achieved the **"Dien Bien Phu in the Air"** victory, shooting down 81 aircraft, including 34 B-52s.
 *   **Dec. 30, 1972:** The US was forced to declare a halt to the bombing of the North from the 20th parallel northwards and agree to resume negotiations.
 *   **Jan. 15, 1973:** The US completely ended all acts of war against the North.
 *   **Jan. 27, 1973:** The **Paris Peace Accords** on ending the war and restoring peace in Vietnam were signed. The US pledged to respect the independence, sovereignty, unity, and territorial integrity of Vietnam and to withdraw all its troops from the South.
@@ -959,12 +959,12 @@
 *   **Jan. 19, 1974:** Taking advantage of the US withdrawal from Vietnam following the 1973 Paris Agreement and the unstable situation in South Vietnam, China used force to attack the South Vietnamese Navy and seize the entire Paracel Islands.
 *   **Sep. 30 - Oct. 8, 1974:** The Politburo met (1st session) and set out a plan to completely liberate the South in two years, 1975-1976.
 *   **Dec. 18, 1974 - Jan. 8, 1975:** The Politburo met (2nd session), and after the victory of Phuoc Long, resolved to liberate the South within 1975 if the opportunity arose.
-*   **Jan. 6, 1975:** Our forces completely liberated Phuoc Long province, a crucial strategic reconnaissance strike.
+*   **Jan. 6, 1975:** The Liberation Army completely liberated Phuoc Long province, a crucial strategic reconnaissance strike.
 *   **Mar. 4, 1975:** The **Tay Nguyen Campaign** officially began.
-*   **Mar. 10, 1975:** Our forces attacked and liberated Buon Ma Thuot town, the pivotal battle that initiated the collapse of the Saigon army.
+*   **Mar. 10, 1975:** The Liberation Army attacked and liberated Buon Ma Thuot town, the pivotal battle that initiated the collapse of the Saigon army.
 *   **Mar. 14, 1975:** President Nguyen Van Thieu ordered the withdrawal of troops from the Central Highlands, leading to the disintegration of the entire II Corps and Military Region 2.
 *   **Mar. 18, 1975:** The Politburo resolved to liberate the South before the 1975 rainy season.
-*   **Mar. 19, 1975:** Our forces completely liberated Quang Tri province.
+*   **Mar. 19, 1975:** The Liberation Army completely liberated Quang Tri province.
 *   **Mar. 24, 1975:** The provinces of Quang Ngai and Tam Ky (the capital of Quang Tin province) were liberated.
 *   **Mar. 25, 1975:** The city of Hue and the entire Thua Thien province were liberated.
 *   **Mar. 29, 1975:** The city of Da Nang was liberated after a lightning-fast offensive.
@@ -974,7 +974,7 @@
 *   **Apr. 9 - Apr. 20, 1975:** The Battle of Xuan Loc took place, and the final "steel door" east of Saigon was shattered.
 *   **Apr. 14, 1975:** The Politburo decided to name the campaign to liberate Saigon - Gia Dinh the **"Ho Chi Minh Campaign."**
 *   **Apr. 21, 1975:** Nguyen Van Thieu resigned as president.
-*   **Apr. 26, 1975:** The Ho Chi Minh Campaign began. Our five large army columns simultaneously attacked Saigon.
+*   **Apr. 26, 1975:** The Ho Chi Minh Campaign began. Five large columns of the Liberation Army simultaneously attacked Saigon.
 *   **Apr. 30, 1975:**
     *   **10:45 AM:** A Liberation Army tank crashed through the gates of the Independence Palace.
     *   **11:30 AM:** The liberation flag flew over the roof of the Independence Palace. President Duong Van Minh announced his unconditional surrender.
