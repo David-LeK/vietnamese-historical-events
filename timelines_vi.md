@@ -297,9 +297,12 @@
 *   **1545:** Nguyễn Kim bị một hàng tướng nhà Mạc đầu độc chết. Con rể là Trịnh Kiểm lên thay, nắm toàn bộ binh quyền, mâu thuẫn giữa hai dòng họ Trịnh-Nguyễn bắt đầu nảy sinh.
 *   **10/1558:** Trịnh Kiểm cử Nguyễn Hoàng (con trai thứ của Nguyễn Kim) vào trấn thủ Thuận Hóa để tránh sự đố kỵ. Nguyễn Hoàng bắt đầu xây dựng cơ sở cát cứ ở phương Nam.
 *   **1570:** Nguyễn Hoàng được giao kiêm trấn thủ cả hai xứ Thuận Hóa và Quảng Nam, quyền lực ngày càng lớn.
+*   **1578:** Hải tặc Nhật Bản (Wako) tấn công vùng biển Đàng Trong, cướp thuyền của thương nhân Trung Hoa.
+*   **1585:** Thế tử Nguyễn Phúc Nguyên chỉ huy thủy quân đánh tan đoàn thuyền của hải tặc Nhật Bản do Shirahama Kenchi chỉ huy tại Cửa Việt.
 *   **1592:** Trịnh Tùng đánh bại hoàn toàn nhà Mạc, chiếm lại Thăng Long, khôi phục triều Lê. Dư đảng nhà Mạc rút lên Cao Bằng.
 *   **04/1599:** Vua Lê tấn phong Trịnh Tùng làm Đô Nguyên súy, Thượng phụ Bình An vương, chính thức hình thành thể chế Vua Lê - Chúa Trịnh ở Đàng Ngoài.
 *   **1600:** Nguyễn Hoàng từ Bắc Hà trở về Thuận Quảng, bắt đầu thực hiện chính sách cai trị mới, từng bước tách khỏi sự ràng buộc của họ Trịnh.
+*   **1601:** Tướng quân Tokugawa Ieyasu gửi thư cho chúa Nguyễn Hoàng đề nghị thiết lập quan hệ giao thương và kiểm soát thương nhân Nhật Bản.
 *   **Thế kỷ XVI:** Các nhà thám hiểm Bồ Đào Nha gọi Hoàng Sa là "Ilhas do Pracel".
 *   **Nửa đầu thế kỷ XVII:** Các Chúa Nguyễn đã cử *đội Hoàng Sa* ra hai quần đảo Hoàng Sa và Trường Sa để khai thác sản vật, thu lượm hàng hóa trôi dạt và thực thi chủ quyền, bao gồm đo vẽ hải trình, trồng cây và dựng mốc. Phú Quốc vẫn là một vùng đất hoang vu, chịu sự tranh chấp giữa Chân Lạp (Campuchia) và các thế lực khác.
 *   **1611:** Quân Nguyễn đánh Chiêm Thành, lấy được vùng đất phía nam đèo Cù Mông và lập ra phủ Phú Yên.
@@ -308,6 +311,8 @@
 *   **1619:** Chúa Nguyễn Phúc Nguyên gả con gái cho thương nhân Nhật Bản Araki Sotaro, thắt chặt quan hệ thương mại với Nhật Bản.
 *   **1620:** Mâu thuẫn Trịnh - Nguyễn trở nên gay gắt, chúa Nguyễn ngừng nộp thuế cống.
 *   **1620:** Công chúa Nguyễn Phúc Ngọc Vạn được gả cho vua Chân Lạp là Chey Chetta II. Cuộc hôn nhân chính trị này mở đầu cho sự thâm nhập hòa bình của người Việt vào vùng Thủy Chân Lạp.
+*   **1621:** Giáo sĩ Christophoro Borri đến Đàng Trong và viết tác phẩm "Xứ Đàng Trong", ghi lại nhiều thông tin quý giá về kinh tế, xã hội.
+*   **1622:** Chúa Nguyễn Phúc Nguyên cho lập **Dinh Ai Lao** trên sông Hiếu để quản lý việc giao thương với Ai Lao.
 *   **1623:** Chúa Trịnh Tùng mất, con là Trịnh Tráng lên nối ngôi (Thanh Đô Vương).
 *   **1626:** Giáo sĩ Dòng Tên Juliano Baldinotti đến Đàng Ngoài (Kẻ Chợ), để lại những ghi chép quan trọng về tình hình xã hội thời bấy giờ.
 *   **03/1627:** Nội chiến Trịnh-Nguyễn chính thức bùng nổ. Lần thứ nhất, quân Trịnh do Trịnh Tráng chỉ huy tiến vào Nam nhưng bị đánh bại ở cửa Nhật Lệ.
@@ -315,6 +320,7 @@
 *   **1630 - 1631:** Ở Đàng Trong, Đào Duy Từ cho xây dựng hệ thống Lũy Thầy (Lũy Trường Dục và Lũy Nhật Lệ) kiên cố để phòng thủ.
 *   **1633:** Cuộc chiến lần thứ hai, quân Trịnh tấn công nhưng không vượt qua được hệ thống phòng lũy và lại thất bại.
 *   **1635:** Chúa Nguyễn Phúc Nguyên mất, con thứ hai là Nguyễn Phúc Lan lên nối ngôi (Thượng Vương).
+*   **1642:** Tiềm lực quân sự Đàng Trong gia tăng mạnh, sở hữu khoảng 200 khẩu đại bác và tăng lên 1.200 khẩu vào năm 1650 nhờ giao thương với phương Tây.
 *   **1643:** Cuộc chiến lần thứ ba, quân Trịnh vây đánh lũy Trung Hòa nhưng không hạ được, phải rút quân.
 *   **1643:** Thủy quân chúa Nguyễn giao chiến và bắn cháy tàu của Công ty Đông Ấn Hà Lan (VOC), khẳng định sức mạnh quân sự trước các thế lực phương Tây.
 *   **02/1648:** Cuộc chiến lần thứ tư, quân Nguyễn do Nguyễn Phúc Tần chỉ huy đại thắng ở Trường Dục, bắt sống 3 tướng và 3 vạn quân Trịnh.
@@ -342,6 +348,8 @@
 *   **1708:** Mạc Cửu đem toàn bộ đất đai Hà Tiên do mình khai phá xin nội thuộc chúa Nguyễn.
 *   **08/1708:** Chúa Nguyễn Phúc Chu phong cho Mạc Cửu làm **Tổng binh** trấn Hà Tiên, tước Cửu Ngọc hầu, chính thức sáp nhập vùng đất này vào lãnh thổ Đại Việt.
 *   **1709:** Chúa Trịnh Căn mất, chắt là Trịnh Cương lên nối ngôi (An Đô Vương).
+*   **1709:** Chúa Nguyễn Phúc Chu cho đúc ấn **"Đại Việt quốc Nguyễn chúa vĩnh trấn chi bảo"**, khẳng định quyền lực của dòng họ Nguyễn.
+*   **1714:** Chúa Nguyễn Phúc Chu cho trùng tu chùa Thiên Mụ và tự xưng là **"Đại Việt quốc vương"** trong bài minh khắc trên chuông.
 *   **1718:** Ở Đàng Ngoài, chúa Trịnh Cương lập ra Lục phiên ở phủ Chúa, thâu tóm toàn bộ quyền lực, Lục bộ của triều đình nhà Lê chỉ còn là hư vị.
 *   **1725:** Chúa Nguyễn Phúc Chu mất, con là Nguyễn Phúc Chú lên nối ngôi (Ninh Vương).
 *   **1729:** Chúa Trịnh Cương mất, con là Trịnh Giang lên nối ngôi (Uy Nam Vương).

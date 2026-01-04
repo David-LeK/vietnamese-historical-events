@@ -281,6 +281,8 @@
 *   **1551:** The rebellion of Pham Tu Nghi and Mac Chinh Trung was suppressed.
 *   **1558:** Trinh Kiem appointed Nguyen Hoang (son of Nguyen Kim) as governor of Thuan Hoa to expand his power and guard against Mac forces from the sea.
 *   **1570:** Trinh Kiem passed away. His sons, Trinh Coi and Trinh Tung, fought for power. Trinh Coi lost and surrendered to the Mac. Trinh Tung took power and continued the anti-Mac campaign.
+*   **1578:** Japanese pirates (Wako) raided the coast of Dang Trong, plundering merchant ships.
+*   **1585:** Prince Nguyen Phuc Nguyen commanded a naval force to defeat a fleet of Japanese pirates (Wako) led by Shirahama Kenchi at Cua Viet, destroying two ships.
 *   **1570 - 1583:** A period of strong Mac counter-offensives. Mac Kinh Dien led multiple campaigns into Thanh Hoa and Nghe An, causing many difficulties for the Le-Trinh forces.
 *   **Nov. 1580:** The Mac dynasty's key pillar, Mac Kinh Dien, passed away.
 *   **1583 - 1592:** A period of Le-Trinh counter-offensives. Trinh Tung launched successive major attacks to the North.
@@ -300,6 +302,7 @@
 *   **1592:** Trinh Tung completely defeated the Mac dynasty, retook Thang Long, and restored the Le dynasty. The remnants of the Mac dynasty retreated to Cao Bang.
 *   **Apr. 1599:** The Le king conferred upon Trinh Tung the title of Do Nguyen Suy, Thuong phu Binh An Vuong (Supreme Commander-in-Chief, Grand Preceptor, and Prince of Pacification), officially forming the Le King - Trinh Lord institution in Dang Ngoai (the North).
 *   **1600:** Nguyen Hoang returned to Thuan Quang from the North and began implementing new administrative policies, gradually breaking away from the control of the Trinh lords.
+*   **1601:** Shogun Tokugawa Ieyasu sent an official letter to Lord Nguyen Hoang to establish trade relations and control Japanese merchants (Red Seal ships).
 *   **16th century:** Portuguese explorers referred to the Paracel Islands as "Ilhas do Pracel".
 *   **First half of the 17th century:** The Nguyen Lords sent the *Hoang Sa fleet* to the Spratly and Paracel Islands to exploit resources, collect salvaged goods, and assert sovereignty, including surveying sea routes, planting trees, and erecting markers. Phu Quoc remained a wild and undeveloped land, subject to disputes between Chenla (Cambodia) and other powers.
 *   **1611:** The Nguyen army attacked Champa, taking the land south of the Cu Mong Pass and establishing Phu Yen Prefecture.
@@ -308,6 +311,8 @@
 *   **1619:** Lord Nguyen Phuc Nguyen married his daughter to the Japanese merchant Araki Sotaro, strengthening ties with Japanese merchants.
 *   **1620:** The Trinh-Nguyen conflict intensified; the Nguyen lord stopped paying tribute taxes.
 *   **1620:** Princess Nguyen Phuc Ngoc Van was married to the Cambodian King Chey Chetta II. This strategic marriage paved the way for Vietnamese influence and migration into the Mekong Delta.
+*   **1621:** Missionary Christophoro Borri arrived in Dang Trong and later wrote the book "Relatione della nuova missione..." providing detailed accounts of the region.
+*   **1622:** Lord Nguyen Phuc Nguyen established the **Dinh Ai Lao** (Ai Lao Bureau) on the Hieu River to manage trade relations with Laos.
 *   **1623:** Lord Trinh Tung passed away. His son, Trinh Trang, succeeded him as Lord (Thanh Do Vuong).
 *   **1626:** The Jesuit missionary Juliano Baldinotti arrived in Tonkin (Dang Ngoai), marking one of the earliest official Western accounts of the region.
 *   **Mar. 1627:** The Trinh-Nguyen civil war officially broke out. In the first campaign, the Trinh army led by Trinh Trang advanced south but was defeated at the Nhat Le gate.
@@ -315,6 +320,7 @@
 *   **1630 - 1631:** In Dang Trong (the South), Dao Duy Tu ordered the construction of a system of strong defensive walls, the Luy Thay (Truong Duc and Nhat Le walls).
 *   **1633:** In the second campaign, the Trinh army attacked but could not overcome the defensive walls and was again defeated.
 *   **1635:** Lord Nguyen Phuc Nguyen passed away. His second son, Nguyen Phuc Lan, succeeded him.
+*   **1642:** The military strength of Dang Trong increased significantly, possessing about 200 cannons, which rose to 1,200 by 1650 thanks to trade with the West.
 *   **1643:** In the third campaign, the Trinh army besieged the Trung Hoa wall but could not capture it and had to withdraw.
 *   **1643:** The Nguyen navy engaged in a battle with the Dutch East India Company (VOC) fleet, destroying Dutch ships and demonstrating the region's naval capabilities.
 *   **Feb. 1648:** In the fourth campaign, the Nguyen army under Nguyen Phuc Tan won a great victory at Truong Duc, capturing 3 generals and 30,000 Trinh troops alive.
@@ -342,6 +348,8 @@
 *   **1708:** Mac Cuu offered all the land he had developed in Ha Tien to the Nguyen lords.
 *   **Aug. 1708:** Lord Nguyen Phuc Chu appointed Mac Cuu as **Tong Binh** (General) of Ha Tien, officially incorporating this land into Dai Viet's territory.
 *   **1709:** Lord Trinh Can passed away. His great-grandson, Trinh Cuong, succeeded him as Lord (An Do Vuong).
+*   **1709:** Lord Nguyen Phuc Chu ordered the casting of the seal **"Dai Viet quoc Nguyen chua vinh tran chi bao"** (The Eternal Seal of the Nguyen Lord of the Kingdom of Dai Viet), asserting authority.
+*   **1714:** Lord Nguyen Phuc Chu renovated Thien Mu Pagoda and proclaimed himself **"Dai Viet Quoc Vuong"** (King of Dai Viet) in the bell inscription.
 *   **1718:** In Dang Ngoai, Lord Trinh Cuong established the Six Bureaus (Luc phien) in the Lord's Palace, usurping all power, leaving the Le court's Six Ministries with only nominal authority.
 *   **1725:** Lord Nguyen Phuc Chu passed away. His son, Nguyen Phuc Chu (Lord Ninh), succeeded him.
 *   **1729:** Lord Trinh Cuong passed away. His son, Trinh Giang, succeeded him as Lord (Uy Nam Vuong).
