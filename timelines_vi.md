@@ -305,20 +305,28 @@
 *   **1611:** Quân Nguyễn đánh Chiêm Thành, lấy được vùng đất phía nam đèo Cù Mông và lập ra phủ Phú Yên.
 *   **1614:** Nguyễn Phúc Nguyên (con Nguyễn Hoàng) lên thay, cải tổ bộ máy hành chính, tự bổ dụng quan lại, chính thức cắt đứt quan hệ lệ thuộc với họ Trịnh.
 *   **Khoảng 1615 - 1620:** Các giáo sĩ phương Tây bắt đầu ghi chép tiếng Việt bằng chữ Latinh.
+*   **1619:** Chúa Nguyễn Phúc Nguyên gả con gái cho thương nhân Nhật Bản Araki Sotaro, thắt chặt quan hệ thương mại với Nhật Bản.
 *   **1620:** Mâu thuẫn Trịnh - Nguyễn trở nên gay gắt, chúa Nguyễn ngừng nộp thuế cống.
+*   **1620:** Công chúa Nguyễn Phúc Ngọc Vạn được gả cho vua Chân Lạp là Chey Chetta II. Cuộc hôn nhân chính trị này mở đầu cho sự thâm nhập hòa bình của người Việt vào vùng Thủy Chân Lạp.
 *   **1623:** Chúa Trịnh Tùng mất, con là Trịnh Tráng lên nối ngôi (Thanh Đô Vương).
+*   **1626:** Giáo sĩ Dòng Tên Juliano Baldinotti đến Đàng Ngoài (Kẻ Chợ), để lại những ghi chép quan trọng về tình hình xã hội thời bấy giờ.
 *   **03/1627:** Nội chiến Trịnh-Nguyễn chính thức bùng nổ. Lần thứ nhất, quân Trịnh do Trịnh Tráng chỉ huy tiến vào Nam nhưng bị đánh bại ở cửa Nhật Lệ.
+*   **1627 - 1651:** Công chúa Nguyễn Phúc Ngọc Khoa được gả cho vua Champa là Po Rome, tiếp tục chính sách ngoại giao hôn nhân để mở rộng ảnh hưởng về phía Nam.
 *   **1630 - 1631:** Ở Đàng Trong, Đào Duy Từ cho xây dựng hệ thống Lũy Thầy (Lũy Trường Dục và Lũy Nhật Lệ) kiên cố để phòng thủ.
 *   **1633:** Cuộc chiến lần thứ hai, quân Trịnh tấn công nhưng không vượt qua được hệ thống phòng lũy và lại thất bại.
 *   **1635:** Chúa Nguyễn Phúc Nguyên mất, con thứ hai là Nguyễn Phúc Lan lên nối ngôi (Thượng Vương).
 *   **1643:** Cuộc chiến lần thứ ba, quân Trịnh vây đánh lũy Trung Hòa nhưng không hạ được, phải rút quân.
+*   **1643:** Thủy quân chúa Nguyễn giao chiến và bắn cháy tàu của Công ty Đông Ấn Hà Lan (VOC), khẳng định sức mạnh quân sự trước các thế lực phương Tây.
 *   **02/1648:** Cuộc chiến lần thứ tư, quân Nguyễn do Nguyễn Phúc Tần chỉ huy đại thắng ở Trường Dục, bắt sống 3 tướng và 3 vạn quân Trịnh.
 *   **1648:** Chúa Nguyễn Phúc Lan mất, con là Nguyễn Phúc Tần lên nối ngôi (Hiền Vương).
+*   **1650:** Chính quyền Lê - Trịnh ban hành quy định cụ thể về quản lý người nước ngoài (Hoa Lang, Ô Lang, Nhật Bản), chỉ định nơi cư trú tại Thanh Trì, Khuyến Lương và quy định nghi thức đi lại.
 *   **1651:** Alexandre de Rhodes xuất bản từ điển Việt - Bồ - La, chuẩn hóa chữ viết.
 *   **1653:** Chúa Nguyễn đánh bại vua Chiêm Thành là Bà Tấm, lấy đất từ sông Phan Rang đến Phú Yên, lập ra dinh Thái Khang (nay là Khánh Hòa).
 *   **1655 - 1660:** Cuộc chiến lần thứ năm, đây là lần duy nhất quân Nguyễn chủ động tấn công ra Bắc, chiếm được 7 huyện ở Nghệ An. Tuy nhiên sau đó do nội bộ bất hòa phải rút lui.
 *   **1657:** Chúa Trịnh Tráng mất, con là Trịnh Tạc lên nối ngôi (Tây Định Vương).
 *   **1661 - 1662:** Cuộc chiến lần thứ sáu. Quân Trịnh tấn công nhưng không thành công và phải rút về.
+*   **1663:** Chính quyền Lê - Trịnh ban lệnh cấm người dân theo đạo Hoa Lang (Thiên Chúa giáo), đồng thời ra lệnh rà soát, thống kê kỹ lưỡng lý lịch người nước ngoài cư trú tại Đàng Ngoài.
+*   **1667:** João da Cruz, một người Bồ Đào Nha phục vụ chúa Nguyễn, đã đúc thành công các loại súng thần công theo kỹ thuật phương Tây, gia tăng đáng kể tiềm lực quân sự cho Đàng Trong.
 *   **06/1672:** Cuộc chiến lần thứ bảy và cũng là cuối cùng. Quân Trịnh dốc toàn lực tấn công nhưng vẫn bị chặn lại ở các chiến lũy kiên cố của quân Nguyễn.
 *   **Cuối 1672:** Hai bên đình chiến, lấy sông Gianh làm giới tuyến, chính thức chia cắt đất nước thành Đàng Trong và Đàng Ngoài trong hơn một thế kỷ.
 *   **1677:** Dư đảng cuối cùng của nhà Mạc ở Cao Bằng bị tiêu diệt hoàn toàn.

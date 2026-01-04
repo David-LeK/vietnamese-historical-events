@@ -305,20 +305,28 @@
 *   **1611:** The Nguyen army attacked Champa, taking the land south of the Cu Mong Pass and establishing Phu Yen Prefecture.
 *   **1614:** Nguyen Phuc Nguyen (son of Nguyen Hoang) succeeded him, reformed the administrative apparatus, appointed his own officials, and officially severed the subordinate relationship with the Trinh lords.
 *   **Around 1615 - 1620:** Western missionaries began recording the Vietnamese language using the Latin alphabet.
+*   **1619:** Lord Nguyen Phuc Nguyen married his daughter to the Japanese merchant Araki Sotaro, strengthening ties with Japanese merchants.
 *   **1620:** The Trinh-Nguyen conflict intensified; the Nguyen lord stopped paying tribute taxes.
+*   **1620:** Princess Nguyen Phuc Ngoc Van was married to the Cambodian King Chey Chetta II. This strategic marriage paved the way for Vietnamese influence and migration into the Mekong Delta.
 *   **1623:** Lord Trinh Tung passed away. His son, Trinh Trang, succeeded him as Lord (Thanh Do Vuong).
+*   **1626:** The Jesuit missionary Juliano Baldinotti arrived in Tonkin (Dang Ngoai), marking one of the earliest official Western accounts of the region.
 *   **Mar. 1627:** The Trinh-Nguyen civil war officially broke out. In the first campaign, the Trinh army led by Trinh Trang advanced south but was defeated at the Nhat Le gate.
+*   **1627 - 1651:** Princess Nguyen Phuc Ngoc Khoa was married to the Cham King Po Rome, continuing the diplomatic marriage strategy to expand influence to the south.
 *   **1630 - 1631:** In Dang Trong (the South), Dao Duy Tu ordered the construction of a system of strong defensive walls, the Luy Thay (Truong Duc and Nhat Le walls).
 *   **1633:** In the second campaign, the Trinh army attacked but could not overcome the defensive walls and was again defeated.
 *   **1635:** Lord Nguyen Phuc Nguyen passed away. His second son, Nguyen Phuc Lan, succeeded him.
 *   **1643:** In the third campaign, the Trinh army besieged the Trung Hoa wall but could not capture it and had to withdraw.
+*   **1643:** The Nguyen navy engaged in a battle with the Dutch East India Company (VOC) fleet, destroying Dutch ships and demonstrating the region's naval capabilities.
 *   **Feb. 1648:** In the fourth campaign, the Nguyen army under Nguyen Phuc Tan won a great victory at Truong Duc, capturing 3 generals and 30,000 Trinh troops alive.
 *   **1648:** Lord Nguyen Phuc Lan passed away. His son, Nguyen Phuc Tan (Lord Hien), succeeded him.
+*   **1650:** The Le-Trinh court in Dang Ngoai promulgated specific regulations managing foreign merchants (Dutch, English, Japanese), designating residence areas in Thanh Tri and Khuyen Luong, and regulating their movement.
 *   **1651:** Alexandre de Rhodes published the Vietnamese - Portuguese - Latin dictionary, standardizing the script.
 *   **1653:** The Nguyen lord defeated the Champa king Ba Tam, taking land from the Phan Rang River to Phu Yen and establishing the Thai Khang garrison (now Khanh Hoa).
 *   **1655 - 1660:** The fifth campaign, this was the only time the Nguyen army proactively attacked the North, capturing 7 districts in Nghe An. However, they later had to retreat due to internal discord.
 *   **1657:** Lord Trinh Trang passed away. His son, Trinh Tac, succeeded him as Lord (Tay Dinh Vuong).
 *   **1661 - 1662:** The sixth campaign. The Trinh army attacked but was unsuccessful and had to retreat.
+*   **1663:** The Le-Trinh court issued a ban on Christianity ("Hoa Lang" religion) and ordered a strict census of all foreigners residing in the country to separate them from the local population.
+*   **1667:** Joao da Cruz, a Portuguese metalcaster serving the Nguyen Lord, cast European-style bronze cannons, significantly bolstering the military strength of Dang Trong.
 *   **Jun. 1672:** The seventh and final campaign. The Trinh army launched an all-out attack but was still blocked by the strong defensive walls of the Nguyen army.
 *   **Late 1672:** The two sides agreed to a truce, taking the Gianh River as the demarcation line, officially dividing the country into Dang Trong and Dang Ngoai for over a century.
 *   **1677:** The last remnants of the Mac dynasty in Cao Bang were completely eliminated.
