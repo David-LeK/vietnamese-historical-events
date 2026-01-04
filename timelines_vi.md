@@ -395,6 +395,8 @@
 *   **1778:** Nguyễn Nhạc lên ngôi Hoàng đế, xưng là Minh Đức Hoàng Đế, đặt niên hiệu Thái Đức. Ông cho mở rộng quy mô thành Đồ Bàn cũ, xây dựng tráng lệ và đổi tên thành **Hoàng Đế thành** để làm kinh đô.
 *   **1778:** Nữ tướng Bùi Thị Xuân tổ chức và huấn luyện 4 lữ đoàn nữ binh cùng đội tượng binh thiện chiến, đóng góp lớn vào sức mạnh quân đội Tây Sơn.
 *   **1778:** Cùng với Bùi Thị Xuân, các nữ tướng Trần Thị Lan, Nguyễn Thị Dung, Huỳnh Thị Cúc trực tiếp chỉ huy các lữ đoàn nữ binh. Tướng Lê Văn Hưng đánh bại quân Nguyễn do Lê Văn Quân chỉ huy tại Diên Khánh và Bình Thuận, khiến quân Nguyễn khiếp sợ gọi là "Lê Vô Địch".
+*   **1778:** Các tướng tôn Nguyễn Ánh làm Đại nguyên súy Nhiếp quốc chính, củng cố lực lượng chúa Nguyễn tại Gia Định để chống lại Tây Sơn.
+*   **01/1780:** Nguyễn Ánh xưng Vương (Nguyễn Vương), dùng niên hiệu Cảnh Hưng của nhà Lê và lấy ấn "Đại Việt quốc Nguyễn chúa vĩnh trấn chi bửu" làm ấn truyền quốc.
 *   **1782:** Nguyễn Ánh chiếm lại được Gia Định.
 *   **03/1782:** Trận Thất Kỳ giang (Ngã Bảy, Sài Gòn). Quân Tây Sơn đánh bại thủy quân của Nguyễn Ánh và các tàu chiến phương Tây, giết chết chỉ huy Manuel (Mạn Hòe).
 *   **1782:** Tại Đàng Ngoài, xảy ra "Loạn kiêu binh", quân lính kiêu binh nổi loạn làm triều chính họ Trịnh càng thêm suy yếu, tạo điều kiện cho quân Tây Sơn tiến ra Bắc sau này.
@@ -408,7 +410,7 @@
 *   **1786:** Chúa Trịnh Tông tự sát khi bị quân Tây Sơn bắt. Trịnh Bồng lên ngôi (Án Đô Vương) nhưng sau đó bỏ trốn, chấm dứt nghiệp chúa Trịnh.
 *   **Cuối 1786:** Nguyễn Huệ được vua Lê gả công chúa Ngọc Hân. Anh em Tây Sơn chia nhau cai quản đất nước: Nguyễn Nhạc là Trung ương Hoàng đế (từ Quảng Nam vào Bình Thuận), Nguyễn Huệ là Bắc Bình vương (cai quản Thuận Hóa từ đèo Hải Vân ra Bắc), Nguyễn Lữ là Đông Định vương (cai quản vùng Gia Định).
 *   **1787:** Mâu thuẫn giữa Nguyễn Nhạc và Nguyễn Huệ nổ ra. Nguyễn Huệ đem quân vây thành Hoàng Đế, buộc Nguyễn Nhạc phải nhượng thêm đất Quảng Nam.
-*   **21/11/1787:** Trong Hiệp ước Versailles, Nguyễn Ánh nhượng Côn Đảo cho Pháp để đổi lấy sự hỗ trợ, nhưng hiệp ước này không thành hiện thực.
+*   **21/11/1787:** Trong Hiệp ước Versailles, Nguyễn Ánh đồng ý nhường cửa biển Đà Nẵng và quần đảo Côn Lôn cho Pháp để đổi lấy sự hỗ trợ, nhưng hiệp ước này không thành hiện thực.
 *   **Tháng 4/1788:** Nguyễn Huệ ra Thăng Long giết Vũ Văn Nhậm (sau khi Nhậm diệt Nguyễn Hữu Chỉnh) để dẹp loạn và củng cố quyền lực phía Bắc trước khi quân Thanh sang.
 *   **05/1788:** Sau khi xử tử Vũ Văn Nhậm, Đô đốc Tuyết (Nguyễn Văn Tuyết) được Nguyễn Huệ giao trọng trách ở lại Bắc Hà làm phụ tá cho Ngô Văn Sở.
 *   **1788:** Nguyễn Ánh từ Xiêm trở về, lợi dụng Nguyễn Lữ yếu kém, chiếm lại Gia Định.
@@ -443,6 +445,7 @@
 *   **1804:** Vua Gia Long chính thức đặt quốc hiệu là Việt Nam (sau khi nhà Thanh không chấp thuận tên Nam Việt). Vua cũng cho đúc ấn của 6 bộ và ban hành phép quân điền (chia ruộng).
 *   **1805:** Vua Gia Long cho đổi phủ Phụng Thiên thành phủ Hoài Đức.
 *   **1805 - 1820:** Truyện Kiều được Nguyễn Du sáng tác bằng chữ Nôm.
+*   **1806:** Lê Quang Định hoàn thành bộ sách *Nhất thống địa dư chí*, ghi chép địa lý, chính trị của nước Việt Nam thống nhất. Vua Gia Long chính thức cử hành lễ lên ngôi Hoàng đế tại điện Thái Hòa.
 *   **1807:** Vua Gia Long tổ chức khoa thi Hương đầu tiên.
 *   **1808:** Gia Long cho đổi Gia Định trấn thành Gia Định thành.
 *   **1808 - 1819:** Cuộc nổi dậy của Thổ tù Quách Tất Thúc ở vùng Sơn Âm (nay thuộc Ninh Bình, Hòa Bình).
@@ -450,6 +453,7 @@
 *   **01/1811:** Vua Gia Long ra lệnh biên soạn một bộ luật chính thức cho vương triều.
 *   **07/1812:** Hoàn thành bộ luật *Hoàng Việt luật lệ* (thường gọi là Luật Gia Long).
 *   **1813:** Bộ *Hoàng Việt luật lệ* được khắc in và ban hành trên toàn quốc.
+*   **1815:** Vụ án Nguyễn Văn Thành bắt đầu từ bài thơ của người con trai là Nguyễn Văn Thuyên. Vụ án này dẫn đến cái chết của đại công thần Nguyễn Văn Thành vào năm 1817, đánh dấu cuộc thanh trừng nội bộ để củng cố quyền lực của vua Gia Long.
 *   **1816:** Vua Gia Long chính thức cử thủy quân ra Hoàng Sa để đo đạc và cắm cờ. Nhà Nguyễn thành lập thêm *đội Bắc Hải* để tiếp tục thực thi chủ quyền tại cả Hoàng Sa và Trường Sa.
 *   **1817:** Vua Gia Long định lệ "tập ấm" (quyền lợi kế thừa cho con cháu công thần).
 *   **1818:** Vua Gia Long ban hành điển lệ chính thức về lương bổng và tiền xuân phục cho quan lại; thực thi lệ "dưỡng liêm" (phụ cấp chống tham nhũng) cho quan phủ, huyện.

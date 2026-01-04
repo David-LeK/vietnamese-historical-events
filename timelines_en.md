@@ -395,6 +395,8 @@
 *   **1778:** Nguyen Nhac proclaimed himself Emperor Minh Duc (Thai Duc), establishing the era name Thai Duc. He expanded and reinforced the former Do Ban citadel, renaming it **Hoang De Citadel** (Imperial Citadel) to serve as the capital.
 *   **1778:** Female General Bui Thi Xuan organized and trained four brigades of female soldiers and an elite war elephant corps, contributing greatly to the Tay Son army's prowess.
 *   **1778:** Alongside Bui Thi Xuan, female generals Tran Thi Lan, Nguyen Thi Dung, and Huynh Thi Cuc commanded female brigades. General Le Van Hung defeated the Nguyen army led by Le Van Quan in Dien Khanh and Binh Thuan, earning the moniker "Le the Invincible".
+*   **1778:** Nguyen Anh was honored by his generals as Grand Marshal Regent (Dai Nguyen Suy Nhiep Quoc Chinh), consolidating the Nguyen forces in Gia Dinh to oppose the Tay Son.
+*   **Jan. 1780:** Nguyen Anh proclaimed himself King (Nguyen Vuong), using the era name Canh Hung of the Le dynasty and the seal "Dai Viet quoc Nguyen chua vinh tran chi bao" to assert legitimacy.
 *   **1782:** Nguyen Anh recaptured Gia Dinh.
 *   **1782:** In Dang Ngoai (the North), the 'Revolt of the Palace Guards' broke out. The rebellious guards further weakened the Trinh lords' court, creating favorable conditions for the later advance of the Tay Son army to the North.
 *   **Mar. 1782:** Battle of That Ky River (Nga Bay, Saigon). The Tay Son army defeated Nguyen Anh's navy and Western warships, killing the French commander Manuel.
@@ -408,7 +410,7 @@
 *   **1786:** Lord Trinh Tong committed suicide after being captured by the Tay Son army. Trinh Bong succeeded as Lord (An Do Vuong) but fled shortly after, marking the end of the Trinh Lords' rule.
 *   **Late 1786:** Nguyen Hue was given Princess Ngoc Han in marriage by the Le king. The Tay Son brothers divided the country to rule: Nguyen Nhac as the Central Emperor (from Quang Nam to Binh Thuan), Nguyen Hue as the Northern Pacification King (Bac Binh Vuong - governing Thuan Hoa northwards), and Nguyen Lu as the Eastern Pacification King (Dong Dinh Vuong - governing Gia Dinh).
 *   **1787:** Conflict broke out between Nguyen Nhac and Nguyen Hue. Nguyen Hue led troops to besiege Hoang De Citadel, forcing Nguyen Nhac to cede more land in Quang Nam.
-*   **Nov. 21, 1787:** In the Treaty of Versailles, Nguyen Anh ceded Con Dao Island to France in exchange for support, but this treaty never materialized.
+*   **Nov. 21, 1787:** In the Treaty of Versailles, Nguyen Anh ceded the port of Da Nang and Con Dao Island to France in exchange for support, but this treaty never materialized.
 *   **Apr. 1788:** Nguyen Hue marched to Thang Long to execute Vu Van Nham for arrogance and plotting rebellion after Nham had eliminated Nguyen Huu Chinh. This consolidated Tay Son's control over the North before the Qing invasion.
 *   **May 1788:** After the execution of Vu Van Nham, General Nguyen Van Tuyet (Do Doc Tuyet) was entrusted by Nguyen Hue to remain in the North as a key aide to Ngo Van So.
 *   **1788:** Nguyen Anh returned from Siam and, taking advantage of Nguyen Lu's weakness, recaptured Gia Dinh.
@@ -443,6 +445,7 @@
 *   **1804:** Emperor Gia Long officially established the national title "Viet Nam" (after the Qing dynasty rejected "Nam Viet"). He also ordered the casting of seals for the six ministries and promulgated the communal land allocation system.
 *   **1805:** Emperor Gia Long changed Phung Thien Prefecture to Hoai Duc Prefecture.
 *   **1805 - 1820:** The Tale of Kieu was composed by Nguyen Du in chữ Nôm (Vietnamese demotic script).
+*   **1806:** Le Quang Dinh completed the *Nhat thong dia du chi* (Geography of the Unified Realm), the first comprehensive geographical record of Vietnam under the Nguyen Dynasty. Emperor Gia Long officially held the coronation ceremony at the Thai Hoa Palace.
 *   **1807:** Emperor Gia Long organized the first regional examination (thi Huong).
 *   **1808:** Gia Long changed Gia Dinh Garrison to Gia Dinh Citadel.
 *   **1808 - 1819:** The uprising of the Tho chieftain Quach Tat Thuc in the Son Am region (now part of Ninh Binh, Hoa Binh).
@@ -450,6 +453,7 @@
 *   **Jan. 1811:** Emperor Gia Long ordered the compilation of an official law code for the dynasty.
 *   **Jul. 1812:** The law code *Hoang Viet luat le* (commonly known as the Gia Long Code) was completed.
 *   **1813:** The *Hoang Viet luat le* was carved, printed, and promulgated nationwide.
+*   **1815:** The case of Nguyen Van Thanh began, involving a poem written by his son Nguyen Van Thuyen. This political purge led to the forced suicide of the meritorious official Nguyen Van Thanh in 1817, reflecting Gia Long's consolidation of absolute power.
 *   **1816:** Emperor Gia Long officially dispatched naval forces to the Paracel Islands to conduct surveys and plant flags. The Nguyen Dynasty also established the *Bac Hai team* to continue asserting sovereignty over both the Paracel and Spratly Islands.
 *   **1817:** Emperor Gia Long established the "tap am" regulation (hereditary benefits for descendants of meritorious officials).
 *   **1818:** Emperor Gia Long promulgated official regulations on salaries and spring attire allowances for officials; implemented the "duong liem" (anti-corruption allowance) for prefectural and district officials.
