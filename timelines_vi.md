@@ -869,6 +869,7 @@
 *   **17/07/1955:** Ngô Đình Diệm tuyên bố từ chối hiệp thương tổng tuyển cử để thống nhất đất nước.
 *   **09/1955:** Đại hội Mặt trận Dân tộc thống nhất toàn quốc quyết định thành lập **Mặt trận Tổ quốc Việt Nam**.
 *   **23/10/1955:** Ngô Đình Diệm tổ chức "trưng cầu dân ý" phế truất Bảo Đại.
+*   **01/11/1955:** Nhóm Cố vấn Hỗ trợ Quân sự Hoa Kỳ (MAAG) tại Việt Nam chính thức được thành lập. Bộ Quốc phòng Mỹ chính thức coi đây là ngày bắt đầu cuộc "Chiến tranh Việt Nam".
 *   **04/03/1956:** Chính quyền Sài Gòn tổ chức bầu cử riêng rẽ để lập ra Quốc hội lập hiến.
 *   **28/04/1956:** Người lính Pháp cuối cùng rời khỏi miền Nam Việt Nam.
 *   **09/1956:** Hội nghị lần thứ 10 Ban Chấp hành Trung ương Đảng Lao động Việt Nam nghiêm khắc kiểm điểm và đề ra chủ trương sửa chữa những sai lầm trong Cải cách ruộng đất.
@@ -889,6 +890,7 @@
 *   **1961 - 1965:** Miền Bắc thực hiện **Kế hoạch 5 năm lần thứ nhất** nhằm xây dựng bước đầu cơ sở vật chất - kỹ thuật của chủ nghĩa xã hội.
 *   **01/1961:** Tổng thống Mỹ John F. Kennedy nhậm chức, đề ra chiến lược "Phản ứng linh hoạt", trong đó có hình thức **"Chiến tranh đặc biệt"** để áp dụng ở miền Nam Việt Nam.
 *   **15/02/1961:** Các lực lượng vũ trang cách mạng ở miền Nam được thống nhất thành **Quân Giải phóng miền Nam Việt Nam**.
+*   **1961:** Mỹ bắt đầu **Chiến dịch Ranch Hand**, rải chất độc hóa học (trong đó có chất độc màu da cam) xuống miền Nam Việt Nam nhằm phá hủy thảm thực vật và mùa màng, gây ra hậu quả nghiêm trọng và lâu dài về môi trường và sức khỏe con người.
 *   **05/1961:** Mỹ công bố **Kế hoạch Staley - Taylor** với mục tiêu "bình định" miền Nam trong vòng 18 tháng.
 *   **23/10/1961:** **Đoàn 759** được thành lập để mở tuyến đường vận tải chiến lược trên biển chi viện cho miền Nam (Đường Hồ Chí Minh trên biển).
 *   **08/02/1962:** Mỹ thành lập **Bộ Chỉ huy Viện trợ Quân sự tại Việt Nam (MACV)** do Tướng Paul Harkins chỉ huy để trực tiếp điều hành cuộc chiến.
@@ -900,7 +902,7 @@
 *   **03/1964:** Mỹ vạch ra **Kế hoạch Johnson - McNamara**, tăng cường viện trợ, đưa thêm cố vấn, đẩy mạnh các hoạt động phá hoại miền Bắc.
 *   **03/1964:** Chủ tịch Hồ Chí Minh triệu tập **Hội nghị Chính trị đặc biệt** tại Hà Nội, kêu gọi toàn dân đoàn kết chống Mỹ, cứu nước.
 *   **02-04/08/1964:** Mỹ dựng lên **"Sự kiện Vịnh Bắc Bộ"** làm cớ để leo thang chiến tranh.
-*   **05/08/1964:** Không quân Mỹ lần đầu tiên ném bom bắn phá một số nơi ở miền Bắc (chiến dịch Mũi tên xuyên - Pierce Arrow). Quân dân miền Bắc đánh trả quyết liệt, bắn rơi 8 máy bay Mỹ.
+*   **05/08/1964:** Không quân Mỹ lần đầu tiên ném bom bắn phá một số nơi ở miền Bắc (chiến dịch Mũi tên xuyên - Pierce Arrow). Quân dân miền Bắc đánh trả quyết liệt, bắn rơi 8 máy bay Mỹ, bắt sống phi công Everett Alvarez, tù binh phi công Mỹ đầu tiên tại miền Bắc.
 *   **12/1964 - 01/1965:** **Chiến dịch Bình Giã (Bà Rịa):** Quân Giải phóng tiêu diệt nhiều đơn vị chủ lực của quân đội Sài Gòn, đánh dấu sự phá sản về cơ bản của chiến lược "Chiến tranh đặc biệt".
 *   **02/1965:** Phong trào **"Ba sẵn sàng"** của thanh niên và **"Ba đảm đang"** (03/1965) của phụ nữ được phát động ở miền Bắc.
 *   **07/02/1965:** Mỹ bắt đầu cuộc chiến tranh phá hoại bằng không quân ra miền Bắc lần thứ nhất với chiến dịch **"Sấm Rền" (Rolling Thunder)**.

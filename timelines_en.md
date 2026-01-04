@@ -869,6 +869,7 @@
 *   **Jul. 17, 1955:** Ngo Dinh Diem declared his refusal to hold consultations for a general election to reunify the country.
 *   **Sep. 1955:** The National Congress of the National United Front decided to establish the **Vietnam Fatherland Front**.
 *   **Oct. 23, 1955:** Ngo Dinh Diem organized a "referendum" to depose Bao Dai.
+*   **Nov. 1, 1955:** The Military Assistance Advisory Group (MAAG) Vietnam was officially established. The US Department of Defense officially considers this date the start of the "Vietnam War".
 *   **Mar. 4, 1956:** The Saigon administration held separate elections to establish a Constituent Assembly.
 *   **Apr. 28, 1956:** The last French soldier left South Vietnam.
 *   **Sep. 1956:** The 10th Conference of the Central Committee of the Vietnam Workers' Party severely reviewed and set out policies to correct errors made during the Land Reform.
@@ -889,6 +890,7 @@
 *   **1961 - 1965:** The North implemented the **First Five-Year Plan** to build the initial material and technical foundations of socialism.
 *   **Jan. 1961:** US President John F. Kennedy took office and proposed the "Flexible Response" strategy, which included the "Special War" to be applied in South Vietnam.
 *   **Feb. 15, 1961:** The revolutionary armed forces in the South were unified into the **South Vietnam Liberation Army**.
+*   **1961:** The US launched **Operation Ranch Hand**, spraying herbicides (including Agent Orange) over South Vietnam to destroy foliage and crops, causing severe long-term environmental and health consequences.
 *   **May 1961:** The US announced the **Staley-Taylor Plan** with the goal of "pacifying" South Vietnam within 18 months.
 *   **Oct. 23, 1961:** **Group 759** was established to open a strategic sea transport route to supply the South (the Ho Chi Minh Trail at Sea).
 *   **Feb. 8, 1962:** The US established the **Military Assistance Command, Vietnam (MACV)**, commanded by General Paul Harkins, to directly manage the war.
@@ -900,7 +902,7 @@
 *   **Mar. 1964:** The US drew up the **Johnson-McNamara Plan**, increasing aid, sending more advisors, and stepping up sabotage activities against the North.
 *   **Mar. 1964:** President Ho Chi Minh convened a **Special Political Conference** in Hanoi, calling on all people to unite to resist the US and save the country.
 *   **Aug. 2-4, 1964:** The US fabricated the **"Gulf of Tonkin Incident"** as a pretext to escalate the war.
-*   **Aug. 5, 1964:** The US Air Force bombed and strafed several places in the North for the first time (Operation Pierce Arrow). The army and people of the North fought back fiercely, shooting down 8 US aircraft.
+*   **Aug. 5, 1964:** The US Air Force bombed and strafed several places in the North for the first time (Operation Pierce Arrow). The army and people of the North fought back fiercely, shooting down 8 US aircraft and capturing pilot Everett Alvarez, the first US prisoner of war in North Vietnam.
 *   **Dec. 1964 - Jan. 1965:** **Binh Gia Campaign (Ba Ria):** The Liberation Army annihilated many main-force units of the Saigon army, marking the basic bankruptcy of the "Special War" strategy.
 *   **Feb. 1965:** The **"Three Readies"** movement for youth and the **"Three Responsibilities"** (Mar. 1965) movement for women were launched in the North.
 *   **Feb. 7, 1965:** The US began its first air war of destruction against the North with Operation **"Rolling Thunder."**
