@@ -444,6 +444,7 @@
 *   **1803:** Emperor Gia Long set the salary regulations for officials and soldiers in the Northern Citadel.
 *   **1804:** Emperor Gia Long officially established the national title "Viet Nam" (after the Qing dynasty rejected "Nam Viet"). He also ordered the casting of seals for the six ministries and promulgated the communal land allocation system.
 *   **1805:** Emperor Gia Long changed Phung Thien Prefecture to Hoai Duc Prefecture.
+*   **1805:** Emperor Gia Long ordered the construction of the Hanoi Citadel (Vauban style) and the Hanoi Flag Tower (Cot Co), reinforcing the administrative center of Northern Vietnam.
 *   **1805 - 1820:** The Tale of Kieu was composed by Nguyen Du in chữ Nôm (Vietnamese demotic script).
 *   **1806:** Le Quang Dinh completed the *Nhat thong dia du chi* (Geography of the Unified Realm), the first comprehensive geographical record of Vietnam under the Nguyen Dynasty. Emperor Gia Long officially held the coronation ceremony at the Thai Hoa Palace.
 *   **1807:** Emperor Gia Long organized the first regional examination (thi Huong).
@@ -456,13 +457,18 @@
 *   **1815:** The case of Nguyen Van Thanh began, involving a poem written by his son Nguyen Van Thuyen. This political purge led to the forced suicide of the meritorious official Nguyen Van Thanh in 1817, reflecting Gia Long's consolidation of absolute power.
 *   **1816:** Emperor Gia Long officially dispatched naval forces to the Paracel Islands to conduct surveys and plant flags. The Nguyen Dynasty also established the *Bac Hai team* to continue asserting sovereignty over both the Paracel and Spratly Islands.
 *   **1817:** Emperor Gia Long established the "tap am" regulation (hereditary benefits for descendants of meritorious officials).
+*   **Late 1817 - Early 1818:** Construction of the Thoai Ha Canal in An Giang began under the direction of Nguyen Van Thoai, serving both defense and agricultural irrigation in the Mekong Delta.
 *   **1818:** Emperor Gia Long promulgated official regulations on salaries and spring attire allowances for officials; implemented the "duong liem" (anti-corruption allowance) for prefectural and district officials.
+*   **1819 - 1824:** The Vinh Te Canal was dug along the southwestern border (An Giang, Kien Giang), a massive project employing tens of thousands of workers to define the border and develop the region.
 *   **1820:** Emperor Minh Mang ascended the throne, changing the Thi thu vien (Imperial Secretariat) to the Van thu phong (Chancellery).
 *   **1821 - 1827:** The peasant uprising led by Phan Ba Vanh in the northern coastal plains.
 *   **1822:** Emperor Minh Mang established the Han Lam Vien (Imperial Academy), organized the first metropolitan examination (thi Hoi), and changed Quang Duc garrison to Thua Thien Prefecture.
 *   **1823:** Emperor Minh Mang established the Ty Buu chinh (Postal Service) to handle the transmission of official documents.
 *   **Aug. 1826:** Emperor Minh Mang added the positions of Left and Right Vice Ministers in the Six Ministries.
+*   **1827:** Emperor Minh Mang sent troops to support the Kingdom of Vientiane (under Chao Anou) against the Siamese invasion, asserting influence and protecting the western border.
+*   **1828:** Establishment of Tien Hai district (Thai Binh) under the "Doanh dien" (land reclamation) policy led by Nguyen Cong Tru.
 *   **1829:** Emperor Minh Mang changed the Van thu phong to the Noi cac (Grand Secretariat).
+*   **1829:** Establishment of Kim Son district (Ninh Binh) through land reclamation efforts led by Nguyen Cong Tru.
 *   **Oct. 1831:** Emperor Minh Mang carried out a major administrative reform, abolishing the governor-general positions and changing the garrisons and towns in the North into 18 provinces.
 *   **1832:** The Ty Dai hien (Censorate) was changed to the Do sat vien (Supreme Censorate); the Tam phap ty (Three Judicial Offices, comprising representatives from the Ministry of Justice, the Supreme Censorate, and the Court of Revision) was established.
 *   **Oct. 1832:** The Gia Dinh Governor-Generalship was abolished, and the garrisons from Quang Nam southwards were divided into 12 provinces.
@@ -473,6 +479,7 @@
 *   **1833 - 1843:** The peasant uprising led by Ba Nhan and Tien Bot in the northern midlands.
 *   **1834:** Emperor Minh Mang established the Co mat vien (Privy Council).
 *   **1836:** The Ton Nhan Phu (Imperial Clan Court) was established to manage royal family affairs. The Privy Council was divided into two boards: Nam chuong kinh (Southern Affairs) and Bac chuong kinh (Northern Affairs).
+*   **1836:** The Nine Dynastic Urns (Cuu Dinh) were cast and placed in front of the The Mieu (Ancestral Temple) in Hue, symbolizing the sovereignty and prosperity of the dynasty.
 *   **1839:** Emperor Minh Mang reformed the salary system for officials; the first steamship built by Vietnamese was successfully constructed.
 *   **1841 - 1842:** The uprising of the Khmer people led by Lam Sam in Lac Hoa, Tra Vinh.
 *   **1841 - 1842:** Uprisings in the Ha Am - Ha Duong region (An Giang, Ha Tien).
@@ -537,6 +544,7 @@
 *   **1886 - 1887:** The Ba Dinh Uprising (Thanh Hoa), led by Pham Banh and Dinh Cong Trang, took place.
 *   **Jan. 1887:** The Ba Dinh base fell after fierce attacks by French forces.
 *   **Nov. 1888:** King Ham Nghi was captured due to the betrayal of Truong Quang Ngoc and was later exiled to Algeria.
+*   **Jan. 13, 1889:** King Ham Nghi arrived in Algiers (Algeria), beginning his long exile where he later became known as a painter and married a French woman.
 *   **1889:** Nguyen Thien Thuat went to China, and the Bai Say Uprising weakened.
 *   **1891:** Hai Phong was considered the first city to have electric lights, even before Hanoi.
 *   **1892:** The Bai Say Uprising disintegrated. Tong Duy Tan (leader of the Hung Linh Uprising) was captured.

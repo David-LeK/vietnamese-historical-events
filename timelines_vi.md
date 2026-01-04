@@ -444,6 +444,7 @@
 *   **1803:** Vua Gia Long định lệ lương bổng cho quan và quân ở Bắc thành.
 *   **1804:** Vua Gia Long chính thức đặt quốc hiệu là Việt Nam (sau khi nhà Thanh không chấp thuận tên Nam Việt). Vua cũng cho đúc ấn của 6 bộ và ban hành phép quân điền (chia ruộng).
 *   **1805:** Vua Gia Long cho đổi phủ Phụng Thiên thành phủ Hoài Đức.
+*   **1805:** Vua Gia Long ra lệnh xây dựng lại Thành Hà Nội theo kiểu Vauban và xây dựng Cột cờ Hà Nội, củng cố trung tâm hành chính Bắc Thành.
 *   **1805 - 1820:** Truyện Kiều được Nguyễn Du sáng tác bằng chữ Nôm.
 *   **1806:** Lê Quang Định hoàn thành bộ sách *Nhất thống địa dư chí*, ghi chép địa lý, chính trị của nước Việt Nam thống nhất. Vua Gia Long chính thức cử hành lễ lên ngôi Hoàng đế tại điện Thái Hòa.
 *   **1807:** Vua Gia Long tổ chức khoa thi Hương đầu tiên.
@@ -456,13 +457,18 @@
 *   **1815:** Vụ án Nguyễn Văn Thành bắt đầu từ bài thơ của người con trai là Nguyễn Văn Thuyên. Vụ án này dẫn đến cái chết của đại công thần Nguyễn Văn Thành vào năm 1817, đánh dấu cuộc thanh trừng nội bộ để củng cố quyền lực của vua Gia Long.
 *   **1816:** Vua Gia Long chính thức cử thủy quân ra Hoàng Sa để đo đạc và cắm cờ. Nhà Nguyễn thành lập thêm *đội Bắc Hải* để tiếp tục thực thi chủ quyền tại cả Hoàng Sa và Trường Sa.
 *   **1817:** Vua Gia Long định lệ "tập ấm" (quyền lợi kế thừa cho con cháu công thần).
+*   **Cuối 1817 - Đầu 1818:** Khởi công đào kênh Thoại Hà (An Giang) dưới sự chỉ huy của Nguyễn Văn Thoại, phục vụ giao thông và quốc phòng.
 *   **1818:** Vua Gia Long ban hành điển lệ chính thức về lương bổng và tiền xuân phục cho quan lại; thực thi lệ "dưỡng liêm" (phụ cấp chống tham nhũng) cho quan phủ, huyện.
+*   **1819 - 1824:** Đào kênh Vĩnh Tế (chạy dọc biên giới An Giang - Kiên Giang), công trình thủy lợi và quốc phòng lớn nhất thời bấy giờ, huy động hàng vạn nhân lực.
 *   **1820:** Vua Minh Mệnh lên ngôi, đổi Thị thư viện thành Văn thư phòng.
 *   **1821 - 1827:** Cuộc nổi dậy của nông dân do Phan Bá Vành lãnh đạo ở vùng đồng bằng ven biển Bắc Bộ.
 *   **1822:** Vua Minh Mệnh cho lập Hàn lâm viện, tổ chức kỳ thi Hội đầu tiên và đổi dinh Quảng Đức làm phủ Thừa Thiên.
 *   **1823:** Vua Minh Mệnh cho lập Ty Bưu chính để chuyên việc truyền đưa công văn.
 *   **08/1826:** Vua Minh Mệnh đặt thêm chức Tả - Hữu Thị lang trong Lục bộ.
+*   **1827:** Vua Minh Mạng cử quân sang hỗ trợ nước Vạn Tượng (Lào) của vua Châu A Nụ trong cuộc chiến chống lại quân Xiêm, nhằm bảo vệ an ninh biên giới phía Tây.
+*   **1828:** Thành lập huyện Tiền Hải (Thái Bình) theo chính sách Doanh điền của Nguyễn Công Trứ để khai hoang lấn biển.
 *   **1829:** Vua Minh Mệnh đổi Văn thư phòng thành Nội các.
+*   **1829:** Thành lập huyện Kim Sơn (Ninh Bình) từ công cuộc khẩn hoang do Nguyễn Công Trứ chỉ đạo.
 *   **10/1831:** Vua Minh Mệnh tiến hành cuộc cải cách hành chính lớn, xóa bỏ các tổng trấn, đổi các dinh, trấn ở Bắc Hà thành 18 tỉnh.
 *   **1832:** Ty Đài hiến được đổi thành Đô sát viện; thành lập Tam pháp ty (gồm đại diện của Hình bộ, Đô sát viện và Đại lý tự).
 *   **10/1832:** Xóa bỏ Tổng trấn Gia Định thành, chia các trấn từ Quảng Nam vào Nam thành 12 tỉnh.
@@ -473,6 +479,7 @@
 *   **1833 - 1843:** Cuộc nổi dậy của nông dân do Ba Nhàn và Tiền Bột lãnh đạo ở vùng trung du Bắc Bộ.
 *   **1834:** Vua Minh Mệnh cho thành lập Cơ mật viện.
 *   **1836:** Thành lập Tôn Nhân Phủ để quản lý các việc trong hoàng tộc. Cơ mật viện được chia làm hai ban: Nam chương kinh và Bắc chương kinh.
+*   **1836:** Đúc Cửu Đỉnh (9 đỉnh đồng lớn) đặt trước Thế Miếu (Hoàng thành Huế) để biểu thị sự trường tồn và thống nhất của vương triều.
 *   **1839:** Vua Minh Mệnh cải cách lại chế độ lương bổng cho quan lại; chiếc tàu máy hơi nước đầu tiên do người Việt Nam chế tạo thành công.
 *   **1841 - 1842:** Cuộc nổi dậy của người Khơme do Lâm Sâm lãnh đạo ở Lạc Hóa, Trà Vinh.
 *   **1841 - 1842:** Các cuộc nổi dậy ở vùng Hà Âm - Hà Dương (An Giang, Hà Tiên).
@@ -537,6 +544,7 @@
 *   **1886 - 1887:** Diễn ra cuộc khởi nghĩa Ba Đình (Thanh Hóa) do Phạm Bành và Đinh Công Tráng lãnh đạo.
 *   **01/1887:** Căn cứ Ba Đình thất thủ sau các cuộc tấn công ác liệt của quân Pháp.
 *   **11/1888:** Vua Hàm Nghi bị bắt do Trương Quang Ngọc phản bội, sau đó bị đày sang Algérie.
+*   **13/01/1889:** Cựu hoàng Hàm Nghi đến thủ đô Algiers (Algérie), bắt đầu cuộc sống lưu đày; tại đây ông đã trở thành một họa sĩ và kết hôn với phụ nữ Pháp.
 *   **1889:** Nguyễn Thiện Thuật sang Trung Quốc, khởi nghĩa Bãi Sậy suy yếu.
 *   **1891:** Hải Phòng được coi là thành phố đầu tiên có đèn điện trước cả Hà Nội.
 *   **1892:** Khởi nghĩa Bãi Sậy tan rã. Tống Duy Tân (lãnh đạo khởi nghĩa Hùng Lĩnh) bị bắt.
