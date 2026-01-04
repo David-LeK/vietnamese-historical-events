@@ -1034,6 +1034,7 @@
 *   **21/01/1981:** Hội đồng Chính phủ ra Quyết định số 25-CP, nhằm phát huy quyền chủ động sản xuất kinh doanh và quyền tự chủ tài chính của các xí nghiệp quốc doanh.
 *   **03/1982:** Đại hội đại biểu toàn quốc lần thứ V của Đảng Cộng sản Việt Nam họp tại Hà Nội, đề ra Kế hoạch 5 năm lần thứ ba (1981-1985).
 *   **28/09/1982:** Hội đồng Bộ trưởng ra quyết định lấy ngày 20 tháng 11 hàng năm làm Ngày Nhà giáo Việt Nam.
+*   **11/03/1985:** Mikhail Gorbachev trở thành Tổng Bí thư Đảng Cộng sản Liên Xô, bắt đầu thực hiện đường lối "Cải tổ" (Perestroika) và "Công khai" (Glasnost).
 *   **06/1985:** Hội nghị lần thứ 8 Ban Chấp hành Trung ương (khóa V) ra nghị quyết về giá - lương - tiền, quyết định dứt khoát xóa bỏ cơ chế tập trung quan liêu, bao cấp.
 *   **14/09/1985:** Bắt đầu cuộc tổng điều chỉnh giá - lương - tiền trên phạm vi cả nước, thực hiện đổi tiền với tỷ lệ 10 đồng tiền cũ ăn 1 đồng tiền mới.
 *   **12/1986:** Đại hội đại biểu toàn quốc lần thứ VI của Đảng Cộng sản Việt Nam được tổ chức, chính thức khởi xướng đường lối Đổi mới toàn diện đất nước.
@@ -1045,19 +1046,27 @@
 *   **07/1987:** Hội nghị lần thứ 3 Ban Chấp hành Trung ương Đảng (khóa VI) ra nghị quyết chuyển hoạt động của các đơn vị kinh tế quốc doanh sang kinh doanh xã hội chủ nghĩa và đổi mới quản lý nhà nước về kinh tế.
 *   **1987:** Quốc hội ban hành Luật Đầu tư nước ngoài tại Việt Nam, mở ra hành lang pháp lý đầu tiên để thu hút vốn đầu tư trực tiếp từ nước ngoài (FDI).
 *   **14/11/1987:** Hội đồng Bộ trưởng (nay là Chính phủ) ban hành Quyết định số 217/HĐBT, trao quyền tự chủ trong sản xuất, kinh doanh cho các doanh nghiệp nhà nước.
+*   **11/1987:** Trong chuyến thăm Liên Xô, Tổng Bí thư Nguyễn Văn Linh đã thẳng thắn cảnh báo lãnh đạo Liên Xô về sai lầm mang tính nguyên tắc khi xóa bỏ Điều 6 Hiến pháp.
 *   **14/03/1988:** Trung Quốc tiếp tục dùng vũ lực tấn công Hải quân Việt Nam để chiếm bãi đá Gạc Ma thuộc quần đảo Trường Sa, giết hại nhiều chiến sĩ Việt Nam.
 *   **04/1988:** Bộ Chính trị ban hành **Nghị quyết 10** ("Khoán 10"), tạo ra bước đột phá trong nông nghiệp bằng cách xác định hộ gia đình là đơn vị kinh tế tự chủ, giao khoán ruộng đất lâu dài cho nông dân.
 *   **20/05/1988:** Bộ Chính trị ban hành Nghị quyết 13 về nhiệm vụ và chính sách đối ngoại, chủ trương chuyển mạnh hoạt động đối ngoại sang phục vụ kinh tế, "thêm bạn bớt thù", đa dạng hóa quan hệ quốc tế.
 *   **03/1989:** Hội nghị lần thứ 6 Ban Chấp hành Trung ương Đảng (khóa VI) cụ thể hóa và phát triển chính sách kinh tế nhiều thành phần, thừa nhận sự tồn tại lâu dài của các thành phần kinh tế tư nhân.
 *   **05/04/1989:** Chính phủ Việt Nam tuyên bố sẽ rút hết quân tình nguyện khỏi Campuchia vào cuối tháng 9/1989 dù có hay không có giải pháp chính trị.
 *   **09/1989:** Việt Nam hoàn thành việc rút toàn bộ quân tình nguyện khỏi Campuchia, tạo bước đột phá trong quan hệ đối ngoại, đặc biệt với các nước ASEAN và Trung Quốc.
+*   **15/03/1990:** Đại hội đại biểu nhân dân Liên Xô thông qua sửa đổi Điều 6 Hiến pháp, xóa bỏ vai trò lãnh đạo độc tôn của Đảng Cộng sản, chấp nhận đa nguyên chính trị.
+*   **22/04/1990:** Thiếu tướng Trần Công Mân, Tổng Biên tập Báo Quân đội nhân dân viết bài "Cuộc chiến đấu chưa kết thúc", cảnh báo về trào lưu phủ nhận Đảng và CNXH.
 *   **03-04/09/1990:** Diễn ra Hội nghị cấp cao không chính thức Việt Nam - Trung Quốc tại Thành Đô, đặt nền tảng cho việc bình thường hóa quan hệ giữa hai nước.
 *   **22/10/1990:** Cộng đồng châu Âu (EC), tiền thân của Liên minh châu Âu (EU), chính thức thiết lập quan hệ ngoại giao với Việt Nam.
 
 ### **Thời kỳ Đẩy mạnh Đổi mới - Thoát khỏi khủng hoảng (1991 - 1995)**
 
+*   **17/03/1991:** Cuộc trưng cầu dân ý toàn Liên bang Xô viết được tổ chức, với 76,4% cử tri ủng hộ việc duy trì Liên bang Xô viết.
 *   **24-27/06/1991:** Đại hội đại biểu toàn quốc lần thứ VII của Đảng Cộng sản Việt Nam thông qua **"Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội"** và **"Chiến lược ổn định và phát triển kinh tế - xã hội đến năm 2000"**.
+*   **19/08/1991:** Cuộc đảo chính tháng 8 nổ ra tại Liên Xô nhằm ngăn chặn sự tan rã của Liên bang nhưng thất bại, dẫn đến việc Đảng Cộng sản Liên Xô bị đình chỉ hoạt động.
 *   **25/11 - 04/12/1991:** Hội nghị lần thứ 2 Ban Chấp hành Trung ương Đảng (khóa VII) thông qua các nhiệm vụ và giải pháp phát triển kinh tế - xã hội cho giai đoạn 1992-1995, trong đó có mục tiêu kiên quyết đẩy lùi lạm phát.
+*   **08/12/1991:** Lãnh đạo Nga, Ukraina và Belarus ký Hiệp ước Belovezha, tuyên bố giải thể Liên Xô và thành lập Cộng đồng các Quốc gia Độc lập (SNG).
+*   **25/12/1991:** Mikhail Gorbachev từ chức Tổng thống Liên Xô. Lá cờ búa liềm trên đỉnh tháp Kremlin bị hạ xuống, đánh dấu sự sụp đổ hoàn toàn của Liên bang Xô viết. Sự kiện này tác động mạnh mẽ tới tư tưởng, tình cảm của cán bộ, đảng viên và nhân dân Việt Nam.
+*   **04/1992:** Đồng chí Nguyễn Phú Trọng có bài viết "Vì sao Đảng Cộng sản Liên Xô tan rã?" đăng trên Tạp chí Cộng sản, chỉ ra 5 nguyên nhân chủ yếu dẫn đến sự sụp đổ.
 *   **15/04/1992:** Quốc hội thông qua **Hiến pháp mới (Hiến pháp 1992)**, thể chế hóa đường lối Đổi mới của Đảng, đặt nền tảng pháp lý cho việc xây dựng Nhà nước pháp quyền.
 *   **19/07/1992:** Bầu cử Quốc hội khóa IX.
 *   **07/1992:** Việt Nam chính thức ký Hiệp ước Thân thiện và Hợp tác ở Đông Nam Á (Hiệp ước Bali) và trở thành quan sát viên của ASEAN.

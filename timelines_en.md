@@ -1034,6 +1034,7 @@
 *   **Jan. 21, 1981:** The Council of Government issued Decision No. 25-CP, aiming to promote the autonomy in production and business and financial self-management of state-owned enterprises.
 *   **Mar. 1982:** The 5th National Congress of the Communist Party of Vietnam was held in Hanoi, setting out the Third Five-Year Plan (1981-1985).
 *   **Sep. 28, 1982:** The Council of Ministers issued a decision to make November 20th an annual Vietnamese Teachers' Day.
+*   **Mar. 11, 1985:** Mikhail Gorbachev was elected General Secretary of the Communist Party of the Soviet Union, initiating the "Perestroika" (restructuring) and "Glasnost" (openness) policies.
 *   **Jun. 1985:** The 8th Conference of the Central Committee (5th tenure) issued a resolution on price-wage-money, deciding to definitively abolish the centralized bureaucratic subsidy mechanism.
 *   **Sep. 14, 1985:** A general adjustment of prices, wages, and money began nationwide, implementing a currency exchange at a rate of 10 old dong for 1 new dong.
 *   **Dec. 1986:** The 6th National Congress of the Communist Party of Vietnam was held, officially initiating the Doi Moi (Renovation) policy for the comprehensive renewal of the country.
@@ -1045,19 +1046,27 @@
 *   **Jul. 1987:** The 3rd Conference of the Party Central Committee (6th tenure) issued a resolution to shift the activities of state-owned economic units to socialist business accounting and to renew state management of the economy.
 *   **1987:** The National Assembly enacted the Law on Foreign Investment in Vietnam, creating the first legal framework to attract foreign direct investment (FDI).
 *   **Nov. 14, 1987:** The Council of Ministers (now the Government) issued Decision No. 217/HDBT, granting autonomy in production and business to state-owned enterprises.
+*   **Nov. 1987:** During a visit to the Soviet Union for the 70th anniversary of the October Revolution, General Secretary Nguyen Van Linh warned Soviet leaders about the dangers of removing Article 6 of the Constitution regarding the Party's leadership role.
 *   **Mar. 14, 1988:** China continued to use force to attack the Vietnamese Navy to seize Gac Ma Reef in the Spratly Islands, killing many Vietnamese soldiers.
 *   **Apr. 1988:** The Politburo issued **Resolution 10** ("Contract 10"), creating a breakthrough in agriculture by identifying the household as an autonomous economic unit and allocating land to farmers on a long-term basis.
 *   **May 20, 1988:** The Politburo issued Resolution 13 on foreign policy tasks and policies, advocating a strong shift in foreign affairs to serve the economy, "make more friends, fewer enemies," and diversify international relations.
 *   **Mar. 1989:** The 6th Conference of the Party Central Committee (6th tenure) specified and developed the policy of a multi-sector economy, acknowledging the long-term existence of private economic sectors.
 *   **Apr. 5, 1989:** The Vietnamese government announced it would withdraw all its volunteer troops from Cambodia by the end of September 1989, with or without a political solution.
 *   **Sep. 1989:** Vietnam completed the withdrawal of all its volunteer troops from Cambodia, creating a breakthrough in foreign relations, especially with ASEAN countries and China.
+*   **Mar. 15, 1990:** The Soviet Union amended Article 6 of its Constitution, abolishing the Communist Party's monopoly on power, establishing a multi-party system and the position of President of the USSR.
+*   **Apr. 22, 1990:** Major General Tran Cong Man, Editor-in-Chief of the People's Army Newspaper, published the article "The Battle is Not Over," warning about the trend of denying the Communist Party and Socialism in the Soviet Union and Eastern Europe.
 *   **Sep. 3-4, 1990:** An informal Vietnam-China high-level meeting was held in Chengdu, laying the foundation for the normalization of relations between the two countries.
 *   **Oct. 22, 1990:** The European Community (EC), the precursor to the European Union (EU), officially established diplomatic relations with Vietnam.
 
 ### **Period of Accelerating Doi Moi - Escaping Crisis (1991 - 1995)**
 
+*   **Mar. 17, 1991:** A referendum on the preservation of the USSR was held, with 76.4% of voters supporting the maintenance of the Union.
 *   **Jun. 24-27, 1991:** The 7th National Congress of the Communist Party of Vietnam approved the **"Platform for National Construction in the Period of Transition to Socialism"** and the **"Strategy for Socio-Economic Stability and Development until 2000."**
+*   **Aug. 19, 1991:** A coup attempt (the August Coup) took place in the Soviet Union aiming to prevent the signing of the New Union Treaty but failed, accelerating the disintegration of the USSR.
 *   **Nov. 25 - Dec. 4, 1991:** The 2nd Conference of the Party Central Committee (7th tenure) approved the tasks and solutions for socio-economic development for the 1992-1995 period, including the goal of decisively curbing inflation.
+*   **Dec. 8, 1991:** Leaders of Russia, Ukraine, and Belarus signed the Belavezha Accords, declaring the dissolution of the Soviet Union and establishing the Commonwealth of Independent States (CIS).
+*   **Dec. 25, 1991:** Mikhail Gorbachev resigned as President of the USSR. The Soviet flag was lowered at the Kremlin, marking the official collapse of the Soviet Union. This event had a profound impact on Vietnam, resulting in the loss of its most important traditional partner and aid source.
+*   **Apr. 1992:** Nguyen Phu Trong published the article "Why did the Communist Party of the Soviet Union disintegrate?" in the *Communist Review*, analyzing the causes of the collapse to draw lessons for the Communist Party of Vietnam.
 *   **Apr. 15, 1992:** The National Assembly passed the **new Constitution (1992 Constitution)**, institutionalizing the Party's Doi Moi policy and laying the legal foundation for building a rule-of-law state.
 *   **Jul. 19, 1992:** Election for the 9th National Assembly.
 *   **Jul. 1992:** Vietnam officially signed the Treaty of Amity and Cooperation in Southeast Asia (Bali Treaty) and became an observer of ASEAN.
