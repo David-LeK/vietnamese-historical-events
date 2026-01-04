@@ -943,6 +943,7 @@
 *   **Apr. 6, 1972:** The US conducted its second war of destruction against the North (Operation Linebacker I).
 *   **May 1, 1972:** Our forces completely liberated Quang Tri province.
 *   **May 8, 1972:** Nixon ordered the mining of Haiphong harbor and the river mouths of the North.
+*   **Jun. 28 - Sep. 16, 1972:** The Battle of Quang Tri Citadel took place over 81 days and nights of extreme intensity. Facing Operation Lam Son 72 and a volume of bombs equivalent to seven atomic bombs dropped by the US, the Liberation Army fought heroically to hold the citadel, serving the diplomatic struggle at the Paris Conference. Although they eventually withdrew, this fierce defense significantly impacted the negotiation process leading to the Paris Peace Accords.
 *   **Oct. 20, 1972:** The Democratic Republic of Vietnam and the United States reached an agreement on the draft "Agreement on Ending the War and Restoring Peace in Vietnam."
 *   **Dec. 18-29, 1972:** The US conducted a strategic air raid using B-52s on Hanoi and Haiphong (Operation Linebacker II). Our army and people achieved the **"Dien Bien Phu in the Air"** victory, shooting down 81 aircraft, including 34 B-52s.
 *   **Dec. 30, 1972:** The US was forced to declare a halt to the bombing of the North from the 20th parallel northwards and agree to resume negotiations.

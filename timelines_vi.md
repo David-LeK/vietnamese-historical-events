@@ -943,6 +943,7 @@
 *   **06/04/1972:** Mỹ tiến hành cuộc chiến tranh phá hoại miền Bắc lần thứ hai (Chiến dịch Linebacker I).
 *   **01/05/1972:** Quân ta giải phóng hoàn toàn tỉnh Quảng Trị.
 *   **08/05/1972:** Nixon ra lệnh thả mìn phong tỏa cảng Hải Phòng và các cửa sông miền Bắc.
+*   **28/06 - 16/09/1972:** Cuộc chiến đấu bảo vệ Thành cổ Quảng Trị diễn ra trong 81 ngày đêm vô cùng khốc liệt ("Mùa hè đỏ lửa"). Mỹ và quân đội Sài Gòn đã mở cuộc hành quân Lam Sơn 72, trút xuống thị xã Quảng Trị khối lượng bom đạn tương đương sức công phá của 7 quả bom nguyên tử. Quân Giải phóng đã chiến đấu quả cảm, chấp nhận hy sinh to lớn để giữ vững Thành cổ nhằm tạo lợi thế trên bàn đàm phán Paris. Tuy cuối cùng phải rút quân, sự kiện này đã góp phần quan trọng dẫn đến việc ký kết Hiệp định Paris.
 *   **20/10/1972:** Việt Nam Dân chủ Cộng hòa và Hoa Kỳ đạt được thỏa thuận về dự thảo "Hiệp định về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam".
 *   **18-29/12/1972:** Mỹ tiến hành cuộc tập kích chiến lược bằng máy bay B-52 vào Hà Nội, Hải Phòng (Chiến dịch Linebacker II). Quân và dân ta làm nên chiến thắng **"Điện Biên Phủ trên không"**, bắn rơi 81 máy bay, trong đó có 34 chiếc B-52.
 *   **30/12/1972:** Mỹ buộc phải tuyên bố ngừng ném bom miền Bắc từ vĩ tuyến 20 trở ra và chấp nhận nối lại đàm phán.
