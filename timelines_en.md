@@ -618,6 +618,7 @@
 *   **Feb. 17, 1859:** French forces attacked and captured Gia Dinh Citadel.
 *   **Mar. 8, 1859:** French forces destroyed Gia Dinh Citadel, keeping only a small fort, and withdrew most of their troops back to Da Nang.
 *   **Mar. 23, 1860:** After being pinned down for 19 months and suffering heavy losses, the French forces completely withdrew from Da Nang to concentrate on Gia Dinh.
+*   **Jul. 1860:** Nguyen Tri Phuong was appointed Imperial Commissioner of Gia Dinh to reorganize the defense against French forces.
 *   **Feb. 24-25, 1861:** With reinforcements, French forces attacked and captured the Ky Hoa (Chi Hoa) Grand Redoubt, the court's most important defense line in Gia Dinh.
 *   **Apr. 12, 1861:** French forces captured My Tho Citadel (the provincial capital of Dinh Tuong).
 *   **Sep. 21, 1861:** Admiral Charner signed a decree establishing the Bá Đa Lộc School of Interpreters.
@@ -626,13 +627,20 @@
 *   **Jan. 7, 1862:** French forces captured Ba Ria Citadel.
 *   **01/02/1862:** Governor Bonard of Cochinchina signed the decision to establish Con Dao prison. This marked the beginning of the systematic but also brutal exploitation of this island by the French colonialists.
 *   **Mar. 23, 1862:** French forces captured Vinh Long Citadel.
+*   **Apr. 1862:** The Cai Vang (Nguyen Thinh) Rebellion broke out in Bac Ninh, a major peasant uprising in Tonkin.
 *   **Jun. 5, 1862:** The Hue court signed the Treaty of Nham Tuat, officially ceding the three eastern provinces of Cochinchina (Gia Dinh, Dinh Tuong, Bien Hoa) and Con Lon island to France.
+*   **Feb. 1863:** Admiral Bonard and Colonel Palanca visited Hue to exchange the ratified Treaty of Nham Tuat.
 *   **Aug. 1863:** The Hue court sent a delegation led by Phan Thanh Gian to France to negotiate the redemption of the three eastern provinces, but it failed.
 *   **Aug. 11, 1863:** France signed a protectorate treaty with the Cambodian King Norodom.
 *   **1864:** The first school in Vietnam to teach chữ Quốc ngữ (the romanized Vietnamese script), the Saigon School of Interpreters (Collège des interprètes), was officially established.
 *   **Apr. 15, 1865:** The first Vietnamese-language newspaper using chữ Quốc ngữ, the Gia Định báo, was launched in Saigon.
+*   **May 1865:** The first Military Doctorate (Vo Tien si) examination was held to select military talents.
+*   **Nov. 1865:** The "Nha si" (Elegant Scholar) examination was held for the first time to recruit virtuous and learned scholars.
+*   **Sep. 1866:** The Doan Huu Trung Rebellion (Chay Voi Rebellion) broke out in the Imperial City of Hue, attempting a coup but failed.
 *   **1867:** The name "chữ quốc ngữ" (national script) was used for the first time, evolving from its precursor "chữ Tây quốc ngữ" (Western national script).
 *   **Jun. 20-24, 1867:** Governor De Lagrandière unilaterally declared the annexation of the three western provinces of Cochinchina (Vinh Long, An Giang, Ha Tien) without firing a shot.
+*   **Mar. 1868:** The Military Academy (Vo Hoc Duong) was established west of the Capital Citadel.
+*   **Jul. 1868:** The court purchased a large copper-clad steamship named "Man Thoa", marking efforts to adopt Western technology.
 *   **1868:** Emperor Tu Duc officially restored Le Van Duyet's titles as "Vong Cac Merit Official" and "Commander of the Left Army", allowing him to be worshipped in the Temple of Meritorious Officials, completing his rehabilitation.
 *   **Feb. 1869:** Chữ Quốc ngữ was mandated for use in official documents in Cochinchina, replacing chữ Nho (classical Chinese characters), according to a decree by Vice Admiral Marie Gustave Hector Ohier.
 *   **Nov. 1872:** Jean Dupuis, a French merchant, began causing disturbances in Tonkin (Bac Ky), under the pretext of transporting goods to Yunnan.

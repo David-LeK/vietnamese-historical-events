@@ -618,6 +618,7 @@
 *   **17/02/1859:** Quân Pháp tấn công và chiếm được thành Gia Định.
 *   **08/03/1859:** Quân Pháp cho phá hủy thành Gia Định, chỉ giữ lại một đồn nhỏ rồi rút phần lớn quân trở ra Đà Nẵng.
 *   **23/03/1860:** Sau 19 tháng bị cầm chân và chịu nhiều tổn thất, quân Pháp rút toàn bộ khỏi Đà Nẵng để tập trung vào Gia Định.
+*   **07/1860:** Nguyễn Tri Phương được bổ nhiệm làm Tổng thống quân vụ Gia Định để đối phó với quân Pháp.
 *   **24-25/02/1861:** Quân Pháp được tăng viện, tấn công và chiếm được Đại đồn Kỳ Hòa (Chí Hòa), phòng tuyến quan trọng nhất của triều đình ở Gia Định.
 *   **12/04/1861:** Quân Pháp chiếm thành Mỹ Tho (tỉnh lỵ Định Tường).
 *   **21/09/1861:** Đô đốc Charner ký nghị định thành lập trường thông ngôn Bá Đa Lộc.
@@ -626,13 +627,20 @@
 *   **07/01/1862:** Quân Pháp chiếm thành Bà Rịa.
 *   **01/02/1862:** Thống đốc Nam Kỳ Bonard đã ký quyết định thành lập nhà tù Côn Đảo. Đây là thời điểm đánh dấu sự khai phá mang tính hệ thống nhưng cũng đầy tàn khốc của thực dân Pháp đối với hòn đảo này.
 *   **23/03/1862:** Quân Pháp chiếm thành Vĩnh Long.
+*   **04/1862:** Cuộc khởi nghĩa Cai Vàng (Nguyễn Thịnh) bùng nổ ở Bắc Ninh, một trong những cuộc khởi nghĩa nông dân lớn ở Bắc Kỳ.
 *   **05/06/1862:** Triều đình Huế ký Hòa ước Nhâm Tuất, chính thức nhượng 3 tỉnh miền Đông Nam Kỳ (Gia Định, Định Tường, Biên Hòa) và đảo Côn Lôn cho Pháp.
+*   **02/1863:** Đô đốc Bonard và Đại tá Palanca (Tây Ban Nha) đến Huế để trao đổi việc phê chuẩn Hòa ước Nhâm Tuất.
 *   **08/1863:** Triều đình Huế cử phái bộ do Phan Thanh Giản dẫn đầu sang Pháp thương lượng xin chuộc lại 3 tỉnh miền Đông nhưng thất bại.
 *   **11/08/1863:** Pháp ký hiệp ước bảo hộ với vua Campuchia Norodom.
 *   **1864:** Trường học đầu tiên dạy chữ Quốc ngữ ở Việt Nam là Trường Thông ngôn Sài Gòn (Collège des interprètes), được thành lập chính thức.
 *   **15/04/1865:** Tờ báo tiếng Việt đầu tiên sử dụng chữ Quốc ngữ là *Gia Định báo*, được ra mắt tại Sài Gòn.
+*   **05/1865:** Triều đình mở khoa thi Tiến sĩ võ đầu tiên để tuyển chọn nhân tài quân sự.
+*   **11/1865:** Triều đình mở khoa thi Nhã sĩ để kén chọn những người văn học rộng rãi, phẩm hạnh thuần chính.
+*   **09/1866:** Cuộc nổi dậy của Đoàn Hữu Trưng (Loạn Chày Vôi) nổ ra tại Kinh thành Huế, mưu toan phế lập nhưng thất bại.
 *   **1867:** Tên gọi "chữ quốc ngữ" được dùng lần đầu tiên, với tiền thân là "chữ Tây quốc ngữ".
 *   **20-24/06/1867:** Thống đốc De Lagrandière đơn phương tuyên bố chiếm 3 tỉnh miền Tây Nam Kỳ (Vĩnh Long, An Giang, Hà Tiên) mà không tốn một viên đạn.
+*   **03/1868:** Dựng Võ học đường tại bên tây Kinh thành để đào tạo quan võ.
+*   **07/1868:** Triều đình mua chiếc tàu lớn bọc đồng chạy bằng hơi nước, đặt tên là Mẫn Thỏa, tăng cường trang bị kỹ thuật phương Tây.
 *   **1868:** Vua Tự Đức chính thức truy phục chức tước cho Lê Văn Duyệt làm "Vọng Các công thần", "Chưởng Tả quân", tước Quận công và cho thờ vào miếu Trung hưng công thần, hoàn tất việc minh oan cho ông.
 *   **02/1869:** Chữ quốc ngữ được quy định dùng bắt buộc thay chữ Nho trong công văn ở Nam Kỳ, theo nghị định của Phó đô đốc Marie Gustave Hector Ohier.
 *   **11/1872:** Jean Dupuis, một lái buôn người Pháp, bắt đầu gây rối ở Bắc Kỳ, lấy cớ vận chuyển hàng hóa lên Vân Nam.
