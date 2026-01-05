@@ -370,6 +370,7 @@
 *   **1744:** In Dang Trong, Nguyen Phuc Khoat proclaimed himself King (Vuong), reforming the government according to the statutes of an independent monarchy.
 *   **1756:** The Cambodian king Nặc Nguyên (Ang Snguon) ceded the two prefectures of Tam Bon and Loi Lap (now in Tan An, Go Cong) to the Nguyen lord.
 *   **1757:** The Cambodian king Nặc Tôn (Ang Ton II) ceded the land of Tam Phong Long (now in Chau Doc) and five prefectures in the Ha Tien region as a token of gratitude. The entire Southern region basically came under the sovereignty of the Nguyen lords.
+*   **1764:** Le Van Duyet was born in Dinh Tuong (originally from Quang Ngai). He would become a high-ranking mandarin, a brilliant general, and the Governor-General of Gia Dinh citadel, playing a crucial role in the development of Southern Vietnam.
 *   **1765:** Lord Nguyen Phuc Khoat passed away. The powerful mandarin Truong Phuc Loan abused his power, enthroning Nguyen Phuc Thuan (12 years old) and imprisoning Nguyen Phuc Luan. Society in Dang Trong began to enter a deep crisis.
 *   **1767:** Lord Trinh Doanh passed away. His son, Trinh Sam, succeeded him as Lord (Tinh Do Vuong).
 
@@ -437,7 +438,7 @@
 *   **Apr. 1799:** General Vo Dinh Tu, one of the "Seven Tigers of Tay Son" and a master of the staff, died in battle against Nguyen forces at Can Uc.
 *   **1800:** Two key Tay Son generals, Tran Quang Dieu and Vu Van Dung, led troops to besiege Binh Dinh Citadel.
 *   **Feb. 1801:** The decisive **Battle of Thi Nai** took place. Nguyen Anh's forces, leveraging wind direction and fire attacks, destroyed the entire Tay Son fleet commanded by Vo Van Dung. This is considered the largest naval battle in the history of the Vietnamese wars.
-*   **Feb. 1801:** During the fierce Battle of Thi Nai, General Vo Di Nguy was killed by cannon fire. General Le Van Duyet, ignoring orders to retreat due to heavy casualties, led a "death-defying" squad to burn the Tay Son fleet, securing the victory.
+*   **Feb. 1801:** During the fierce Battle of Thi Nai, General Vo Di Nguy was killed by cannon fire. General Le Van Duyet, ignoring orders to retreat due to heavy casualties, led a "death-defying" squad to burn the Tay Son fleet, securing the victory. This victory was praised as the "First Martial Achievement" (Võ công đệ nhất) of the Nguyen Dynasty.
 *   **May 1801:** In the campaign to capture Phu Xuan, Generals Le Van Duyet and Le Chat employed a surprise tactic at the Tu Dung estuary, dragging naval boats across sandbars to attack the Tay Son defensive line from the rear.
 *   **Jun. 1801:** Following the victory at Thi Nai and the capture of the Tu Hien and Thuan An estuaries (where Le Van Duyet and Le Chat led the vanguard), Nguyen Anh captured the capital Phu Xuan. King Canh Thinh fled to the North.
 *   **Jan. 1802:** The Battle of Tran Ninh and Dau Mau took place. General Bui Thi Xuan fought bravely commanding elephant troops. General Huynh Thi Cuc sacrificed herself in battle to allow the royal forces to retreat.
@@ -448,6 +449,7 @@
 ### **Nguyen Dynasty Period (1802 - 1858)**
 
 *   **1802:** The Nguyen dynasty was established, with Emperor Gia Long ascending the throne.
+*   **May 1802:** Le Van Duyet was appointed as *Imperial Commissioner, Commander of the Left Army* (Kham sai Chuong Ta quan), becoming one of the highest-ranking generals and a founding meritorious official of the dynasty.
 *   **Aug. 1802:** Emperor Gia Long ordered the compilation and promulgation of the first 15 laws regarding litigation.
 *   **1803:** Emperor Gia Long set the salary regulations for officials and soldiers in the Northern Citadel.
 *   **1803 - 1808:** General Le Van Duyet was dispatched to suppress the uprising of the "Thach Bich savages" (ethnic minorities) in the Quang Ngai region, stabilizing the border areas.
@@ -463,6 +465,7 @@
 *   **1809:** Emperor Gia Long appointed all official positions for the six ministries.
 *   **Jan. 1811:** Emperor Gia Long ordered the compilation of an official law code for the dynasty.
 *   **Jul. 1812:** The law code *Hoang Viet luat le* (commonly known as the Gia Long Code) was completed.
+*   **1812:** Le Van Duyet was appointed Governor-General of Gia Dinh Citadel (first term, 1812-1816), with authority over the entire Southern region. During this time, he established strict laws, eliminated banditry, and brought peace to the people.
 *   **1813:** Le Van Duyet and Nguyen Van Thuy escorted King Ang Chan II (Nac Ong Chan) back to Cambodia to restore his throne. Le Van Duyet oversaw the construction of the Nam Vang (Phnom Penh) Citadel and the La Lem Citadel to store grain and weapons.
 *   **1813:** The *Hoang Viet luat le* was carved, printed, and promulgated nationwide.
 *   **1815:** The case of Nguyen Van Thanh began, involving a poem written by his son Nguyen Van Thuyen. This political purge led to the forced suicide of the meritorious official Nguyen Van Thanh in 1817, reflecting Gia Long's consolidation of absolute power.
@@ -477,13 +480,16 @@
 *   **1820 - 1832:** During his tenure as Governor General of Gia Dinh, Le Van Duyet established a private classical opera (*Hát bội*) troupe, significantly contributing to the introduction and popularization of this art form in Southern Vietnam.
 *   **1820:** Emperor Minh Mang ascended the throne, changing the Thi thu vien (Imperial Secretariat) to the Van thu phong (Chancellery).
 *   **1820:** The "Monk Ke" rebellion (Giặc Sãi) broke out in Cambodia and the border region. Governor Le Van Duyet dispatched troops to suppress it, stabilizing the southwestern border.
+*   **Sep. 1820:** Le Van Duyet ordered the execution of Deputy Governor Huynh Cong Ly (Emperor Minh Mang's father-in-law) for corruption and oppressing the people during the digging of the Tau Hu canal. This event demonstrated the strict enforcement of the law regardless of royal connections but also deepened the rift between Le Van Duyet and Emperor Minh Mang.
 *   **1821 - 1827:** The peasant uprising led by Phan Ba Vanh in the northern coastal plains.
 *   **1822:** Emperor Minh Mang established the Han Lam Vien (Imperial Academy), organized the first metropolitan examination (thi Hoi), and changed Quang Duc garrison to Thua Thien Prefecture.
 *   **1822:** Emperor Minh Mang renamed the Palace City to **Tu Cam Thanh** (Purple Forbidden City).
+*   **Aug. 29, 1822:** John Crawfurd, an envoy of the British Governor-General of India, visited Saigon and had an audience with Governor-General Le Van Duyet. Le Van Duyet expressed openness to international trade but adhered to the court's protocol regarding diplomatic correspondence. Notably, he refused gifts from the British envoy to maintain impartiality in state affairs.
 *   **1823:** Emperor Minh Mang established the Ty Buu chinh (Postal Service) to handle the transmission of official documents.
 *   **1826:** Emperor Minh Mang ordered the construction of the **Duyet Thi Duong** (Royal Theater) within the Purple Forbidden City, the oldest surviving court theater.
 *   **Aug. 1826:** Emperor Minh Mang added the positions of Left and Right Vice Ministers in the Six Ministries.
 *   **1827:** Following Le Van Duyet's strategic proposal to create a buffer zone against Siam, Emperor Minh Mang sent troops to support the Kingdom of Vientiane (under Chao Anou) against the Siamese invasion, asserting influence and protecting the western border.
+*   **Dec. 1827:** Governor-General Le Van Duyet traveled to Hue to petition Emperor Minh Mang to stop the persecution of Catholic missionaries, recalling the help of Bishop Pigneau de Béhaine to the Nguyen dynasty. This temporarily eased tensions between the court and the Catholic community.
 *   **1828:** Establishment of Tien Hai district (Thai Binh) under the "Doanh dien" (land reclamation) policy led by Nguyen Cong Tru.
 *   **1829:** Emperor Minh Mang changed the Van thu phong to the Noi cac (Grand Secretariat).
 *   **1829:** Establishment of Kim Son district (Ninh Binh) through land reclamation efforts led by Nguyen Cong Tru.
@@ -504,6 +510,7 @@
 *   **1836:** The Ton Nhan Phu (Imperial Clan Court) was established to manage royal family affairs. The Privy Council was divided into two boards: Nam chuong kinh (Southern Affairs) and Bac chuong kinh (Northern Affairs).
 *   **1836:** The Nine Dynastic Urns (Cuu Dinh) were cast and placed in front of the The Mieu (Ancestral Temple) in Hue, symbolizing the sovereignty and prosperity of the dynasty.
 *   **1836:** Emperor Minh Mang decreed a 9-rank system for the imperial harem (Nine Ranks of Imperial Concubines) and established specific ranks and regulations for eunuchs to limit their power.
+*   **1838:** In the aftermath of the Le Van Khoi revolt, the court executed Le Van Duyet's descendants, Le Van Yen and Le Van Te, while other relatives were exiled, despite Le Van Duyet having passed away years prior.
 *   **1839:** Emperor Minh Mang reformed the salary system for officials; the first steamship built by Vietnamese was successfully constructed.
 *   **1841 - 1842:** The uprising of the Khmer people led by Lam Sam in Lac Hoa, Tra Vinh.
 *   **1841 - 1842:** Uprisings in the Ha Am - Ha Duong region (An Giang, Ha Tien).
@@ -537,6 +544,7 @@
 *   **Apr. 15, 1865:** The first Vietnamese-language newspaper using chữ Quốc ngữ, the Gia Định báo, was launched in Saigon.
 *   **1867:** The name "chữ quốc ngữ" (national script) was used for the first time, evolving from its precursor "chữ Tây quốc ngữ" (Western national script).
 *   **Jun. 20-24, 1867:** Governor De Lagrandière unilaterally declared the annexation of the three western provinces of Cochinchina (Vinh Long, An Giang, Ha Tien) without firing a shot.
+*   **1868:** Emperor Tu Duc officially restored Le Van Duyet's titles as "Vong Cac Merit Official" and "Commander of the Left Army", allowing him to be worshipped in the Temple of Meritorious Officials, completing his rehabilitation.
 *   **Feb. 1869:** Chữ Quốc ngữ was mandated for use in official documents in Cochinchina, replacing chữ Nho (classical Chinese characters), according to a decree by Vice Admiral Marie Gustave Hector Ohier.
 *   **Nov. 1872:** Jean Dupuis, a French merchant, began causing disturbances in Tonkin (Bac Ky), under the pretext of transporting goods to Yunnan.
 *   **Nov. 20, 1873:** Under the pretext of resolving the Dupuis affair, Francis Garnier led troops to attack and capture Hanoi Citadel for the first time.

@@ -370,6 +370,7 @@
 *   **1744:** Ở Đàng Trong, Nguyễn Phúc Khoát xưng Vương, cải tổ lại chính quyền theo quy chế của một vương triều độc lập.
 *   **1756:** Vua Chân Lạp Nặc Nguyên dâng đất hai phủ Tầm Bôn và Lôi Lạp (nay thuộc Tân An, Gò Công) cho chúa Nguyễn.
 *   **1757:** Vua Chân Lạp Nặc Tôn dâng đất Tầm Phong Long (nay thuộc Châu Đốc) và 5 phủ ở vùng Hà Tiên để tạ ơn. Toàn bộ vùng đất Nam Bộ về cơ bản thuộc chủ quyền của các chúa Nguyễn.
+*   **1764:** Lê Văn Duyệt sinh ra tại Định Tường (nguyên quán Quảng Ngãi). Ông sau này trở thành một danh tướng lẫy lừng, giữ chức Tổng trấn Gia Định thành và có công lớn trong việc khai phá, ổn định vùng đất Nam Bộ.
 *   **1765:** Chúa Nguyễn Phúc Khoát mất. Quyền thần Trương Phúc Loan lộng hành, lập Nguyễn Phúc Thuần (12 tuổi) lên ngôi, bắt giam Nguyễn Phúc Luân. Xã hội Đàng Trong bắt đầu đi vào khủng hoảng sâu sắc.
 *   **1767:** Chúa Trịnh Doanh mất, con là Trịnh Sâm lên nối ngôi (Tĩnh Đô Vương).
 
@@ -437,7 +438,7 @@
 *   **04/1799:** Võ Đình Tú, một trong "Tây Sơn thất hổ tướng" với cây thiết côn vô địch, tử trận tại Cần Úc khi giao chiến với quân Nguyễn.
 *   **1800:** Hai tướng chủ chốt của Tây Sơn là Trần Quang Diệu và Vũ Văn Dũng đem quân vào vây thành Bình Định.
 *   **02/1801:**   **Trận Thị Nại** diễn ra ác liệt. Nguyễn Ánh dùng hỏa công lợi dụng gió nồm đốt cháy hoàn toàn hạm đội thủy quân Tây Sơn do Võ Văn Dũng chỉ huy. Đây được coi là trận thủy chiến lớn nhất trong lịch sử Việt Nam ("Đệ nhất vũ công").
-*   **02/1801:** Trong trận đại chiến Thị Nại, tướng Võ Di Nguy trúng đạn tử trận. Tướng Lê Văn Duyệt bất chấp lệnh lui quân vì thương vong cao, đã tổ chức đội cảm tử dùng hỏa công đốt cháy hạm đội Tây Sơn, quyết định cục diện trận đánh.
+*   **02/1801:** Trong trận đại chiến Thị Nại, tướng Võ Di Nguy trúng đạn tử trận. Tướng Lê Văn Duyệt bất chấp lệnh lui quân vì thương vong cao, đã tổ chức đội cảm tử dùng hỏa công đốt cháy hạm đội Tây Sơn, quyết định cục diện trận đánh. Chiến công này được sử sách nhà Nguyễn xưng tụng là "Võ công đệ nhất".
 *   **05/1801:** Trong chiến dịch đánh chiếm Phú Xuân, Lê Văn Duyệt và Lê Chất đã dùng mưu kế bất ngờ tại cửa Tư Dung, cho quân khiêng thuyền chiến qua bãi cát để đánh úp phía sau phòng tuyến quân Tây Sơn.
 *   **06/1801:** Sau khi chọc thủng cửa Tư Dung và cửa Thuận An (do Lê Văn Duyệt và Lê Chất làm tiên phong), quân Nguyễn đánh chiếm kinh đô Phú Xuân. Vua Cảnh Thịnh bỏ chạy ra Bắc.
 *   **01/1802:** Trận chiến ác liệt tại Trấn Ninh và Đâu Mâu (Quảng Bình). Nữ tướng Bùi Thị Xuân chỉ huy tượng binh chiến đấu dũng cảm. Nữ tướng Huỳnh Thị Cúc đã hy sinh thân mình để chặn hậu cho vua Cảnh Thịnh rút lui.
@@ -448,6 +449,7 @@
 ### **Thời kỳ Nhà Nguyễn (1802 - 1858)**
 
 *   **1802:** Triều Nguyễn được thành lập, vua Gia Long lên ngôi.
+*   **05/1802:** Lê Văn Duyệt được phong làm *Khâm sai Chưởng Tả quân*, tước Quận công, trở thành một trong những đệ nhất khai quốc công thần của triều đại.
 *   **08/1802:** Vua Gia Long sai biên soạn và ban hành 15 điều luật đầu tiên về kiện tụng.
 *   **1803:** Vua Gia Long định lệ lương bổng cho quan và quân ở Bắc thành.
 *   **1803 - 1808:** Tả quân Lê Văn Duyệt được cử đi đánh dẹp cuộc nổi dậy của "Mọi Thạch Bích" (đồng bào dân tộc thiểu số) ở vùng Quảng Ngãi, ổn định biên giới.
@@ -463,6 +465,7 @@
 *   **1809:** Vua Gia Long đặt đủ các chức quan cho 6 bộ.
 *   **01/1811:** Vua Gia Long ra lệnh biên soạn một bộ luật chính thức cho vương triều.
 *   **07/1812:** Hoàn thành bộ luật *Hoàng Việt luật lệ* (thường gọi là Luật Gia Long).
+*   **1812:** Lê Văn Duyệt được cử làm Tổng trấn Gia Định thành (lần thứ nhất, 1812-1816), quản lý toàn bộ vùng Gia Định. Ông nổi tiếng với việc thiết lập trật tự, trị an nghiêm minh, khiến trộm cướp phải khiếp sợ và dân chúng được yên ổn.
 *   **1813:** Lê Văn Duyệt và Nguyễn Văn Thụy đưa vua Nặc Ông Chân về nước Chân Lạp (Campuchia) phục vị. Lê Văn Duyệt cho xây thành Nam Vang và thành La Lem để chứa lương thực, khí giới bảo hộ Chân Lạp.
 *   **1813:** Bộ *Hoàng Việt luật lệ* được khắc in và ban hành trên toàn quốc.
 *   **1815:** Vụ án Nguyễn Văn Thành bắt đầu từ bài thơ của người con trai là Nguyễn Văn Thuyên. Vụ án này dẫn đến cái chết của đại công thần Nguyễn Văn Thành vào năm 1817, đánh dấu cuộc thanh trừng nội bộ để củng cố quyền lực của vua Gia Long.
@@ -477,13 +480,16 @@
 *   **1820 - 1832:** Trong thời gian làm Tổng trấn Gia Định, Lê Văn Duyệt đã lập gánh Hát bội riêng, góp phần quan trọng vào việc du nhập và phát triển loại hình nghệ thuật này tại Nam Bộ.
 *   **1820:** Vua Minh Mệnh lên ngôi, đổi Thị thư viện thành Văn thư phòng.
 *   **1820:** Cuộc nổi dậy của **"Giặc Sãi"** (do một nhà sư tên Kế cầm đầu) nổ ra ở Chân Lạp và vùng biên giới. Tổng trấn Gia Định Lê Văn Duyệt đã cử quân dẹp tan, ổn định tình hình biên giới Tây Nam.
+*   **09/1820:** Tổng trấn Lê Văn Duyệt ra lệnh xử trảm Phó Tổng trấn Huỳnh Công Lý (cha vợ của vua Minh Mạng) vì tội tham nhũng và nhũng nhiễu dân chúng trong khi đào kênh Tàu Hủ. Sự kiện này thể hiện tính nghiêm minh "pháp bất vị thân" của Lê Văn Duyệt nhưng cũng làm gia tăng mâu thuẫn giữa ông và triều đình.
 *   **1821 - 1827:** Cuộc nổi dậy của nông dân do Phan Bá Vành lãnh đạo ở vùng đồng bằng ven biển Bắc Bộ.
 *   **1822:** Vua Minh Mệnh cho lập Hàn lâm viện, tổ chức kỳ thi Hội đầu tiên và đổi dinh Quảng Đức làm phủ Thừa Thiên.
 *   **1822:** Vua Minh Mạng đổi tên Cung Thành thành **Tử Cấm Thành**.
+*   **29/08/1822:** John Crawfurd, sứ giả của Toàn quyền Anh tại Ấn Độ, đến Sài Gòn và yết kiến Tổng trấn Lê Văn Duyệt. Lê Văn Duyệt tỏ thái độ cởi mở với việc giao thương quốc tế nhưng vẫn giữ nguyên tắc ngoại giao của triều đình. Đặc biệt, ông đã từ chối nhận quà biếu của phái đoàn Anh để giữ sự công tâm trong việc nước.
 *   **1823:** Vua Minh Mệnh cho lập Ty Bưu chính để chuyên việc truyền đưa công văn.
 *   **1826:** Vua Minh Mạng cho xây dựng **Duyệt Thị Đường** trong Tử Cấm Thành, đây là nhà hát cổ nhất còn lại của sân khấu cung đình.
 *   **08/1826:** Vua Minh Mệnh đặt thêm chức Tả - Hữu Thị lang trong Lục bộ.
 *   **1827:** Theo đề xuất chiến lược của Lê Văn Duyệt về việc tạo vùng đệm chống Xiêm, vua Minh Mạng cử quân sang hỗ trợ nước Vạn Tượng (Lào) của vua Châu A Nụ trong cuộc chiến chống lại quân Xiêm, bảo vệ an ninh biên giới phía Tây.
+*   **12/1827:** Tổng trấn Lê Văn Duyệt đích thân về kinh đô Huế tâu trình với vua Minh Mạng xin bảo vệ các giáo sĩ Công giáo, nhắc lại công ơn của Giám mục Bá Đa Lộc đối với nhà Nguyễn, giúp tình hình tôn giáo tạm thời lắng dịu.
 *   **1828:** Thành lập huyện Tiền Hải (Thái Bình) theo chính sách Doanh điền của Nguyễn Công Trứ để khai hoang lấn biển.
 *   **1829:** Vua Minh Mệnh đổi Văn thư phòng thành Nội các.
 *   **1829:** Thành lập huyện Kim Sơn (Ninh Bình) từ công cuộc khẩn hoang do Nguyễn Công Trứ chỉ đạo.
@@ -504,6 +510,7 @@
 *   **1836:** Thành lập Tôn Nhân Phủ để quản lý các việc trong hoàng tộc. Cơ mật viện được chia làm hai ban: Nam chương kinh và Bắc chương kinh.
 *   **1836:** Đúc Cửu Đỉnh (9 đỉnh đồng lớn) đặt trước Thế Miếu (Hoàng thành Huế) để biểu thị sự trường tồn và thống nhất của vương triều.
 *   **1836:** Vua Minh Mạng định lại quy chế nội cung (chia làm 9 bậc) và đặt ra các cấp bậc riêng cho thái giám để hạn chế quyền lực của họ.
+*   **1838:** Liên quan đến vụ án Lê Văn Khôi, triều đình ra lệnh xử trảm hai người cháu của Lê Văn Duyệt là Lê Văn Yên và Lê Văn Tễ, các thân thuộc khác bị phát phối đi đày.
 *   **1839:** Vua Minh Mệnh cải cách lại chế độ lương bổng cho quan lại; chiếc tàu máy hơi nước đầu tiên do người Việt Nam chế tạo thành công.
 *   **1841 - 1842:** Cuộc nổi dậy của người Khơme do Lâm Sâm lãnh đạo ở Lạc Hóa, Trà Vinh.
 *   **1841 - 1842:** Các cuộc nổi dậy ở vùng Hà Âm - Hà Dương (An Giang, Hà Tiên).
@@ -537,6 +544,7 @@
 *   **15/04/1865:** Tờ báo tiếng Việt đầu tiên sử dụng chữ Quốc ngữ là *Gia Định báo*, được ra mắt tại Sài Gòn.
 *   **1867:** Tên gọi "chữ quốc ngữ" được dùng lần đầu tiên, với tiền thân là "chữ Tây quốc ngữ".
 *   **20-24/06/1867:** Thống đốc De Lagrandière đơn phương tuyên bố chiếm 3 tỉnh miền Tây Nam Kỳ (Vĩnh Long, An Giang, Hà Tiên) mà không tốn một viên đạn.
+*   **1868:** Vua Tự Đức chính thức truy phục chức tước cho Lê Văn Duyệt làm "Vọng Các công thần", "Chưởng Tả quân", tước Quận công và cho thờ vào miếu Trung hưng công thần, hoàn tất việc minh oan cho ông.
 *   **02/1869:** Chữ quốc ngữ được quy định dùng bắt buộc thay chữ Nho trong công văn ở Nam Kỳ, theo nghị định của Phó đô đốc Marie Gustave Hector Ohier.
 *   **11/1872:** Jean Dupuis, một lái buôn người Pháp, bắt đầu gây rối ở Bắc Kỳ, lấy cớ vận chuyển hàng hóa lên Vân Nam.
 *   **20/11/1873:** Lấy cớ giải quyết vụ Dupuis, Francis Garnier đem quân tấn công và chiếm thành Hà Nội lần thứ nhất.
