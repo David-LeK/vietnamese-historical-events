@@ -537,23 +537,28 @@
 *   **1819:** Vua Gia Long ra lệnh đào **sông An Thông** (kênh Ruột Ngựa) tại Gia Định để thuận tiện cho giao thông đường thủy.
 *   **1819 - 1824:** Đào kênh Vĩnh Tế (chạy dọc biên giới An Giang - Kiên Giang), công trình thủy lợi và quốc phòng lớn nhất thời bấy giờ, huy động hàng vạn nhân lực.
 *   **1820 - 1832:** Trong thời gian làm Tổng trấn Gia Định, Lê Văn Duyệt đã lập gánh Hát bội riêng, góp phần quan trọng vào việc du nhập và phát triển loại hình nghệ thuật này tại Nam Bộ.
-*   **1820:** Vua Minh Mệnh lên ngôi, đổi Thị thư viện thành Văn thư phòng.
+*   **14/02/1820:** Vua Minh Mạng chính thức lên ngôi Hoàng đế tại điện Thái Hòa. Vua cho đổi Thị thư viện thành **Văn thư phòng** để quản lý giấy tờ, văn thư.
 *   **1820:** Cuộc nổi dậy của **"Giặc Sãi"** (do một nhà sư tên Kế cầm đầu) nổ ra ở Chân Lạp và vùng biên giới. Tổng trấn Gia Định Lê Văn Duyệt đã cử quân dẹp tan, ổn định tình hình biên giới Tây Nam.
 *   **09/1820:** Tổng trấn Lê Văn Duyệt ra lệnh xử trảm Phó Tổng trấn Huỳnh Công Lý (cha vợ của vua Minh Mạng) vì tội tham nhũng và nhũng nhiễu dân chúng trong khi đào kênh Tàu Hủ. Sự kiện này thể hiện tính nghiêm minh "pháp bất vị thân" của Lê Văn Duyệt nhưng cũng làm gia tăng mâu thuẫn giữa ông và triều đình.
 *   **1821 - 1827:** Cuộc nổi dậy của nông dân do Phan Bá Vành lãnh đạo ở vùng đồng bằng ven biển Bắc Bộ.
-*   **1822:** Vua Minh Mệnh cho lập Hàn lâm viện, tổ chức kỳ thi Hội đầu tiên và đổi dinh Quảng Đức làm phủ Thừa Thiên.
+*   **1821:** Vua Minh Mạng cho lập **Quốc Sử Quán**, chuyên trách việc biên soạn lịch sử của triều đại và đất nước.
+*   **1822:** Vua Minh Mạng cho lập Hàn lâm viện, tổ chức kỳ thi Hội đầu tiên và đổi dinh Quảng Đức làm phủ Thừa Thiên.
 *   **1822:** Vua Minh Mạng đổi tên Cung Thành thành **Tử Cấm Thành**.
 *   **29/08/1822:** John Crawfurd, sứ giả của Toàn quyền Anh tại Ấn Độ, đến Sài Gòn và yết kiến Tổng trấn Lê Văn Duyệt. Lê Văn Duyệt tỏ thái độ cởi mở với việc giao thương quốc tế nhưng vẫn giữ nguyên tắc ngoại giao của triều đình. Đặc biệt, ông đã từ chối nhận quà biếu của phái đoàn Anh để giữ sự công tâm trong việc nước.
-*   **1823:** Vua Minh Mệnh cho lập Ty Bưu chính để chuyên việc truyền đưa công văn.
-*   **1826:** Vua Minh Mạng cho xây dựng **Duyệt Thị Đường** trong Tử Cấm Thành, đây là nhà hát cổ nhất còn lại của sân khấu cung đình.
-*   **08/1826:** Vua Minh Mệnh đặt thêm chức Tả - Hữu Thị lang trong Lục bộ.
+*   **1823:** Vua Minh Mạng cho lập Ty Bưu chính để chuyên việc truyền đưa công văn.
+*   **1823:** Vua Minh Mạng ban hành **"Đế hệ thi"** và "Phiên hệ thi" để quy định cách đặt tên cho con cháu dòng dõi hoàng tộc, phân biệt rõ ràng tôn ti trật tự.
+*   **05/1824:** Công trình đào **kênh Vĩnh Tế** hoàn tất, góp phần quan trọng vào việc giao thông, thuỷ lợi và quốc phòng ở miền Tây Nam Bộ.
+*   **08/1826:** Vua Minh Mạng đặt thêm chức Tả - Hữu Thị lang trong Lục bộ.
+*   **10/1827:** Vua Minh Mạng cho xây dựng **Duyệt Thị Đường** (nhà hát duyệt thị) bên trong Tử Cấm Thành để làm nơi diễn xướng phục vụ cung đình.
 *   **1827:** Theo đề xuất chiến lược của Lê Văn Duyệt về việc tạo vùng đệm chống Xiêm, vua Minh Mạng cử quân sang hỗ trợ nước Vạn Tượng (Lào) của vua Châu A Nụ trong cuộc chiến chống lại quân Xiêm, bảo vệ an ninh biên giới phía Tây.
 *   **12/1827:** Tổng trấn Lê Văn Duyệt đích thân về kinh đô Huế tâu trình với vua Minh Mạng xin bảo vệ các giáo sĩ Công giáo, nhắc lại công ơn của Giám mục Bá Đa Lộc đối với nhà Nguyễn, giúp tình hình tôn giáo tạm thời lắng dịu.
+*   **05/1828:** Vua Minh Mạng đích thân làm lễ cày **Tịch điền** tại ruộng Tịch điền (được lập ở phường Hậu Sinh và An Trạch), nhằm khuyến khích nông nghiệp.
+*   **10/1828:** Đúc ấn vàng **"Hoàng Đế chi bảo"** dùng cho các chiếu văn khánh tiết, ban ơn.
 *   **1828:** Thành lập huyện Tiền Hải (Thái Bình) theo chính sách Doanh điền của Nguyễn Công Trứ để khai hoang lấn biển.
-*   **1829:** Vua Minh Mệnh đổi Văn thư phòng thành Nội các.
+*   **11/1829:** Vua Minh Mạng cải tổ Văn thư phòng thành **Nội các**, cơ quan tham mưu và giải quyết văn thư trọng yếu của triều đình.
 *   **1829:** Thành lập huyện Kim Sơn (Ninh Bình) từ công cuộc khẩn hoang do Nguyễn Công Trứ chỉ đạo.
 *   **1830:** Tổng trấn Lê Văn Duyệt tấu xin và đốc suất việc xây dựng lại thành Gia Định (thành Phiên An) bằng đá ong, mở rộng quy mô kiên cố bậc nhất miền Nam.
-*   **10/1831:** Vua Minh Mệnh tiến hành cuộc cải cách hành chính lớn, xóa bỏ các tổng trấn, đổi các dinh, trấn ở Bắc Hà thành 18 tỉnh.
+*   **10/1831:** Vua Minh Mạng tiến hành cuộc cải cách hành chính lớn, xóa bỏ các tổng trấn, đổi các dinh, trấn ở Bắc Hà thành 18 tỉnh.
 *   **30/07/1832:** Tả quân Lê Văn Duyệt, Tổng trấn Gia Định thành, qua đời, thọ 60 tuổi. Trước khi mất, ông đã dâng sớ xin chia đất Gia Định thành các tỉnh như ở Bắc Hà, nhưng vua Minh Mạng ban đầu không chấp thuận.
 *   **1832:** Ty Đài hiến được đổi thành Đô sát viện; thành lập Tam pháp ty (gồm đại diện của Hình bộ, Đô sát viện và Đại lý tự).
 *   **10/1832:** Xóa bỏ Tổng trấn Gia Định thành, chia các trấn từ Quảng Nam vào Nam thành 12 tỉnh.
@@ -564,13 +569,13 @@
 *   **1833 - 1836:** Cuộc binh biến ở thành Phiên An (Gia Định) do Lê Văn Khôi lãnh đạo.
 *   **1833 - 1843:** Cuộc nổi dậy của nông dân do Ba Nhàn và Tiền Bột lãnh đạo ở vùng trung du Bắc Bộ.
 *   **1835:** Sau khi dẹp xong loạn Lê Văn Khôi, vua Minh Mạng ra chỉ dụ kết tội Lê Văn Duyệt, sai san phẳng mộ, dựng bia đá khắc 8 chữ "Quyền yêm Lê Văn Duyệt phục pháp xứ" (Hoạn quan lộng quyền Lê Văn Duyệt chịu tội chết) và xiềng xích lại.
-*   **1834:** Vua Minh Mệnh cho thành lập Cơ mật viện.
+*   **1834:** Vua Minh Mạng cho thành lập Cơ mật viện.
 *   **1835:** Vua Minh Mạng lần đầu tiên thực hiện lễ "ôm gối" để vinh danh các đại thần thắng trận trở về, tỏ ý thân yêu như tình cha con.
 *   **1836:** Thành lập Tôn Nhân Phủ để quản lý các việc trong hoàng tộc. Cơ mật viện được chia làm hai ban: Nam chương kinh và Bắc chương kinh.
 *   **1836:** Đúc Cửu Đỉnh (9 đỉnh đồng lớn) đặt trước Thế Miếu (Hoàng thành Huế) để biểu thị sự trường tồn và thống nhất của vương triều.
 *   **1836:** Vua Minh Mạng định lại quy chế nội cung (chia làm 9 bậc) và đặt ra các cấp bậc riêng cho thái giám để hạn chế quyền lực của họ.
 *   **1838:** Liên quan đến vụ án Lê Văn Khôi, triều đình ra lệnh xử trảm hai người cháu của Lê Văn Duyệt là Lê Văn Yên và Lê Văn Tễ, các thân thuộc khác bị phát phối đi đày.
-*   **1839:** Vua Minh Mệnh cải cách lại chế độ lương bổng cho quan lại; chiếc tàu máy hơi nước đầu tiên do người Việt Nam chế tạo thành công.
+*   **1839:** Vua Minh Mạng cải cách lại chế độ lương bổng cho quan lại; chiếc tàu máy hơi nước đầu tiên do người Việt Nam chế tạo thành công.
 *   **1841 - 1842:** Cuộc nổi dậy của người Khơme do Lâm Sâm lãnh đạo ở Lạc Hóa, Trà Vinh.
 *   **1841 - 1842:** Các cuộc nổi dậy ở vùng Hà Âm - Hà Dương (An Giang, Hà Tiên).
 *   **1841:** Vua Thiệu Trị ban chiếu minh oan, phục hồi quan tước cho Lê Văn Duyệt, sai dỡ bỏ bia đá và xiềng xích tại mộ phần của ông.

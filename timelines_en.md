@@ -537,20 +537,25 @@
 *   **1819:** Emperor Gia Long ordered the digging of the **An Thong River** (Ruot Ngua Canal) in Gia Dinh to facilitate water transport.
 *   **1819 - 1824:** The Vinh Te Canal was dug along the southwestern border (An Giang, Kien Giang), a massive project employing tens of thousands of workers to define the border and develop the region.
 *   **1820 - 1832:** During his tenure as Governor General of Gia Dinh, Le Van Duyet established a private classical opera (*Hát bội*) troupe, significantly contributing to the introduction and popularization of this art form in Southern Vietnam.
-*   **1820:** Emperor Minh Mang ascended the throne, changing the Thi thu vien (Imperial Secretariat) to the Van thu phong (Chancellery).
+*   **Feb. 14, 1820:** Emperor Minh Mang officially ascended the throne at the Thai Hoa Palace. He established the *Van thu phong* (Chancellery) to handle administrative documents.
 *   **1820:** The "Monk Ke" rebellion (Giặc Sãi) broke out in Cambodia and the border region. Governor Le Van Duyet dispatched troops to suppress it, stabilizing the southwestern border.
 *   **Sep. 1820:** Le Van Duyet ordered the execution of Deputy Governor Huynh Cong Ly (Emperor Minh Mang's father-in-law) for corruption and oppressing the people during the digging of the Tau Hu canal. This event demonstrated the strict enforcement of the law regardless of royal connections but also deepened the rift between Le Van Duyet and Emperor Minh Mang.
 *   **1821 - 1827:** The peasant uprising led by Phan Ba Vanh in the northern coastal plains.
+*   **1821:** The **National History Office** (Quoc Su Quan) was established to compile the national history and veritable records of the dynasty.
 *   **1822:** Emperor Minh Mang established the Han Lam Vien (Imperial Academy), organized the first metropolitan examination (thi Hoi), and changed Quang Duc garrison to Thua Thien Prefecture.
 *   **1822:** Emperor Minh Mang renamed the Palace City to **Tu Cam Thanh** (Purple Forbidden City).
 *   **Aug. 29, 1822:** John Crawfurd, an envoy of the British Governor-General of India, visited Saigon and had an audience with Governor-General Le Van Duyet. Le Van Duyet expressed openness to international trade but adhered to the court's protocol regarding diplomatic correspondence. Notably, he refused gifts from the British envoy to maintain impartiality in state affairs.
 *   **1823:** Emperor Minh Mang established the Ty Buu chinh (Postal Service) to handle the transmission of official documents.
-*   **1826:** Emperor Minh Mang ordered the construction of the **Duyet Thi Duong** (Royal Theater) within the Purple Forbidden City, the oldest surviving court theater.
+*   **1823:** Emperor Minh Mang composed and promulgated the **Imperial Lineage Poem** (De He Thi) and Peerage Lineage Poems (Phien He Thi) to regulate the naming conventions for generations of the royal family.
+*   **May 1824:** The construction of the **Vinh Te Canal** was officially completed.
 *   **Aug. 1826:** Emperor Minh Mang added the positions of Left and Right Vice Ministers in the Six Ministries.
+*   **Oct. 1827:** Construction of the **Duyet Thi Duong** (Royal Theater) began within the Purple Forbidden City. It served as a venue for performing arts (Tuong opera, dance) for the royal court.
 *   **1827:** Following Le Van Duyet's strategic proposal to create a buffer zone against Siam, Emperor Minh Mang sent troops to support the Kingdom of Vientiane (under Chao Anou) against the Siamese invasion, asserting influence and protecting the western border.
 *   **Dec. 1827:** Governor-General Le Van Duyet traveled to Hue to petition Emperor Minh Mang to stop the persecution of Catholic missionaries, recalling the help of Bishop Pigneau de Béhaine to the Nguyen dynasty. This temporarily eased tensions between the court and the Catholic community.
+*   **May 1828:** Emperor Minh Mang personally performed the **Tich Dien** (Plowing) ceremony at the newly established field in the capital, reviving an ancient tradition to encourage agriculture.
+*   **Oct. 1828:** The golden seal **"Hoang De chi bao"** (Treasure of the Emperor) was cast.
 *   **1828:** Establishment of Tien Hai district (Thai Binh) under the "Doanh dien" (land reclamation) policy led by Nguyen Cong Tru.
-*   **1829:** Emperor Minh Mang changed the Van thu phong to the Noi cac (Grand Secretariat).
+*   **Nov. 1829:** Emperor Minh Mang reorganized the *Van thu phong* into the **Noi cac** (Grand Secretariat), enhancing its role in assisting the Emperor with state affairs.
 *   **1829:** Establishment of Kim Son district (Ninh Binh) through land reclamation efforts led by Nguyen Cong Tru.
 *   **1830:** Le Van Duyet requested and oversaw the reconstruction of the Gia Dinh Citadel (Phan An Citadel) using laterite stone, expanding it significantly to become a major defensive fortification in the South.
 *   **Oct. 1831:** Emperor Minh Mang carried out a major administrative reform, abolishing the governor-general positions and changing the garrisons and towns in the North into 18 provinces.
