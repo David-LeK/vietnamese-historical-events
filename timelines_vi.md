@@ -569,12 +569,17 @@
 *   **1833 - 1835:** Cuộc nổi dậy của các dân tộc thiểu số phía Bắc do Nông Văn Vân lãnh đạo.
 *   **1833 - 1836:** Cuộc binh biến ở thành Phiên An (Gia Định) do Lê Văn Khôi lãnh đạo.
 *   **Cuối 1833:** Quân Xiêm xâm lược Hà Tiên và An Giang, hỗ trợ cuộc nổi dậy của Lê Văn Khôi, mở đầu cuộc chiến tranh Việt - Xiêm (1833 - 1834).
+*   **1834:** Quân đội triều đình do Trương Minh Giảng và Nguyễn Xuân chỉ huy đánh bại quân Xiêm tại sông Cổ Hỗ và Thuận Cảng, thu hồi Hà Tiên, Châu Đốc và Nam Vang. Vua Minh Mạng cho đúc tiền bạc "Minh Mạng Phi Long".
 *   **1833 - 1843:** Cuộc nổi dậy của nông dân do Ba Nhàn và Tiền Bột lãnh đạo ở vùng trung du Bắc Bộ.
 *   **1835:** Sau khi dẹp xong loạn Lê Văn Khôi, vua Minh Mạng ra chỉ dụ kết tội Lê Văn Duyệt, sai san phẳng mộ, dựng bia đá khắc 8 chữ "Quyền yêm Lê Văn Duyệt phục pháp xứ" (Hoạn quan lộng quyền Lê Văn Duyệt chịu tội chết) và xiềng xích lại.
 *   **1834:** Vua Minh Mạng cho thành lập Cơ mật viện.
-*   **1835:** Vua Minh Mạng lần đầu tiên thực hiện lễ "ôm gối" để vinh danh các đại thần thắng trận trở về, tỏ ý thân yêu như tình cha con.
+*   **03/1835:** Thủ lĩnh Nông Văn Vân bị tiêu diệt tại núi Thẩm Bát (Tuyên Quang), chấm dứt cuộc nổi dậy ở vùng biên giới phía Bắc.
+*   **1835:** Vua Minh Mạng thực hiện lễ "bão tất" (ôm gối) để vinh danh các tướng lĩnh thắng trận trở về (Phạm Văn Điển, Tạ Quang Cự, Lê Văn Đức), tỏ ý thân yêu như tình cha con.
+*   **10/1835:** Bắt đầu đúc **Cửu Đỉnh** (9 đỉnh đồng lớn) để đặt trước Thế Miếu (hoàn thành vào tháng 5/1836).
 *   **1836:** Thành lập Tôn Nhân Phủ để quản lý các việc trong hoàng tộc. Cơ mật viện được chia làm hai ban: Nam chương kinh và Bắc chương kinh.
-*   **1836:** Đúc Cửu Đỉnh (9 đỉnh đồng lớn) đặt trước Thế Miếu (Hoàng thành Huế) để biểu thị sự trường tồn và thống nhất của vương triều.
+*   **1836:** Vua Minh Mạng phái Suất đội Thủy quân **Phạm Hữu Nhật** ra quần đảo **Hoàng Sa** để đo đạc thủy trình, vẽ bản đồ và cắm cọc gỗ ghi nhớ để khẳng định chủ quyền.
+*   **1836:** Kinh lược sứ Trương Đăng Quế và Tôn Thất Bạch thực hiện cuộc đạc điền quy mô lớn tại Lục tỉnh Nam Kỳ, lập sổ địa bạ để quản lý đất đai.
+*   **1836:** Thành lập phủ **Tây Ninh** (thuộc tỉnh Gia Định), kiêm lý huyện Tân Ninh và thống hạt huyện Quang Hóa.
 *   **1836:** Vua Minh Mạng định lại quy chế nội cung (chia làm 9 bậc) và đặt ra các cấp bậc riêng cho thái giám để hạn chế quyền lực của họ.
 *   **1838:** Liên quan đến vụ án Lê Văn Khôi, triều đình ra lệnh xử trảm hai người cháu của Lê Văn Duyệt là Lê Văn Yên và Lê Văn Tễ, các thân thuộc khác bị phát phối đi đày.
 *   **1839:** Vua Minh Mạng cải cách lại chế độ lương bổng cho quan lại; chiếc tàu máy hơi nước đầu tiên do người Việt Nam chế tạo thành công.

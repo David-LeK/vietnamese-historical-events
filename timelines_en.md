@@ -569,12 +569,17 @@
 *   **1833 - 1835:** The uprising of ethnic minorities in the north led by Nong Van Van.
 *   **1833 - 1836:** The mutiny at Phien An Citadel (Gia Dinh) led by Le Van Khoi.
 *   **Late 1833:** Siamese forces invaded Ha Tien and An Giang provinces, escalating the conflict into the Vietnamese-Siamese War (1833-1834).
+*   **1834:** The Vietnamese army, commanded by Truong Minh Giang and Nguyen Xuan, defeated the Siamese forces at the Co Ho River and Thuan Cang, recapturing Ha Tien, Chau Doc, and Nam Vang (Phnom Penh), successfully ending the war. Emperor Minh Mang ordered the minting of "Minh Mang Phi Long" silver coins.
 *   **1833 - 1843:** The peasant uprising led by Ba Nhan and Tien Bot in the northern midlands.
 *   **1835:** Following the suppression of the Le Van Khoi revolt, Emperor Minh Mang ordered the desecration of Le Van Duyet's tomb. The grave was leveled, a stone stele inscribed with "Here lies the eunuch who abused power" was erected, and the tomb was bound with iron chains.
 *   **1834:** Emperor Minh Mang established the Co mat vien (Privy Council).
-*   **1835:** Emperor Minh Mang performed the "Om Goi" (Embracing Knees) ceremony for the first time to honor generals who returned victorious, treating them with the affection of a father to a son.
+*   **Mar. 1835:** The uprising leader Nong Van Van was killed at Tham Bat mountain (Tuyen Quang), ending the rebellion in the northern border region.
+*   **1835:** Emperor Minh Mang performed the "Om Goi" (Embracing Knees) ceremony for the first time to honor victorious generals (Pham Van Dien, Ta Quang Cu, Le Van Duc) upon their return from the Northern campaign.
+*   **Oct. 1835:** The casting of the **Nine Dynastic Urns** (Cuu Dinh) began (completed in May 1836). They were placed in front of the The Mieu (Ancestral Temple) in Hue.
 *   **1836:** The Ton Nhan Phu (Imperial Clan Court) was established to manage royal family affairs. The Privy Council was divided into two boards: Nam chuong kinh (Southern Affairs) and Bac chuong kinh (Northern Affairs).
-*   **1836:** The Nine Dynastic Urns (Cuu Dinh) were cast and placed in front of the The Mieu (Ancestral Temple) in Hue, symbolizing the sovereignty and prosperity of the dynasty.
+*   **1836:** King Minh Mang sent Navy Captain **Pham Huu Nhat** to the **Hoang Sa Archipelago** (Paracel Islands) to survey sea routes, draw maps, and plant wooden markers to assert sovereignty.
+*   **1836:** A major land survey (*dia ba*) was conducted in the six provinces of Nam Ky (Cochinchina) under the direction of High Commissioners Truong Dang Que and Ton That Bach to establish land registers.
+*   **1836:** **Tay Ninh Prefecture** was established (part of Gia Dinh province).
 *   **1836:** Emperor Minh Mang decreed a 9-rank system for the imperial harem (Nine Ranks of Imperial Concubines) and established specific ranks and regulations for eunuchs to limit their power.
 *   **1838:** In the aftermath of the Le Van Khoi revolt, the court executed Le Van Duyet's descendants, Le Van Yen and Le Van Te, while other relatives were exiled, despite Le Van Duyet having passed away years prior.
 *   **1839:** Emperor Minh Mang reformed the salary system for officials; the first steamship built by Vietnamese was successfully constructed.
