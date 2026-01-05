@@ -677,12 +677,18 @@
 *   **Jul. 4-5, 1885:** Ton That Thuyet organized an attack on the Mang Ca fortress and the French Resident Superior's office in Hue, but failed.
 *   **Jul. 5, 1885:** The capital city of Hue fell. Ton That Thuyet escorted King Ham Nghi to the mountain base of Tan So (Quang Tri).
 *   **Jul. 13, 1885:** King Ham Nghi issued the Can Vuong (Aid the King) Edict, calling on all people to resist the French.
-*   **Sep. 1885:** Nguyen Ba Loan led the Quang Ngai Righteous Association in response to the Can Vuong Edict. The Dong Khanh court was established by the French in Hue.
+*   **Sep. 1885:** Nguyen Ba Loan led the Quang Ngai Righteous Association in response to the Can Vuong Edict.
+*   **Sep. 19, 1885:** Emperor Dong Khanh was enthroned at the Thai Hoa Palace.
+*   **Nov. 1885:** The Hue court established the **Dai Nam Cong Bao** (Dai Nam Official Gazette), the first official gazette in Vietnam, publishing government decrees and news every 10 days.
+*   **Feb. 23, 1886:** The Hue court and France exchanged the ratified Treaty of Giap Than (Patenôtre Treaty) and the Mining Treaty in Hue.
+*   **Mar. 1886:** Emperor Dong Khanh established the **Order of the Dragon of Annam** (Dai Nam Long Tinh Vien) to reward civil and military officials.
 *   **1885 - 1896:** The Huong Khe Uprising, led by Phan Dinh Phung and Cao Thang, took place, marking the peak of the Can Vuong movement.
 *   **1886 - 1887:** The Ba Dinh Uprising (Thanh Hoa), led by Pham Banh and Dinh Cong Trang, took place.
 *   **Jan. 1887:** The Ba Dinh base fell after fierce attacks by French forces.
+*   **May 1888:** The French authorities established the "Dai Nam Nhat Bao" bureau.
 *   **Nov. 1888:** King Ham Nghi was captured due to the betrayal of Truong Quang Ngoc and was later exiled to Algeria.
 *   **Jan. 13, 1889:** King Ham Nghi arrived in Algiers (Algeria), beginning his long exile where he later became known as a painter and married a French woman.
+*   **Jan. 28, 1889:** Emperor Dong Khanh passed away.
 *   **1889:** Nguyen Thien Thuat went to China, and the Bai Say Uprising weakened.
 *   **May 19, 1890:** Nguyen Sinh Cung (later President Ho Chi Minh) was born in Kim Lien village, Nam Dan district, Nghe An province.
 *   **1891:** Hai Phong was considered the first city to have electric lights, even before Hanoi.

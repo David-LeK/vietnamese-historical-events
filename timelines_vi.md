@@ -677,12 +677,18 @@
 *   **04-05/07/1885:** Tôn Thất Thuyết tổ chức tấn công đồn Mang Cá và Tòa Khâm sứ Pháp tại Huế nhưng thất bại.
 *   **05/07/1885:** Kinh thành Huế thất thủ, Tôn Thất Thuyết phò vua Hàm Nghi chạy ra sơn phòng Tân Sở (Quảng Trị).
 *   **13/07/1885:** Vua Hàm Nghi ban bố Dụ Cần Vương, kêu gọi toàn dân kháng chiến chống Pháp.
-*   **09/1885:** Nguyễn Bá Loan lãnh đạo Nghĩa hội Quảng Ngãi hưởng ứng Dụ Cần Vương. Triều đình Đồng Khánh được Pháp dựng lên ở Huế.
+*   **09/1885:** Nguyễn Bá Loan lãnh đạo Nghĩa hội Quảng Ngãi hưởng ứng Dụ Cần Vương.
+*   **19/09/1885:** Vua Đồng Khánh lên ngôi tại điện Thái Hòa.
+*   **11/1885:** Triều đình Huế thành lập cục **Đại Nam Công báo**, tờ công báo đầu tiên của Việt Nam, phát hành 10 ngày một kỳ.
+*   **23/02/1886:** Triều đình Huế và Pháp trao đổi bản Hòa ước Giáp Thân (Patenôtre) và Thương ước đã được phê chuẩn tại Huế.
+*   **03/1886:** Vua Đồng Khánh thành lập **Viện Long Tinh** (Đại Nam Long tinh) để khen thưởng cho các quan văn võ.
 *   **1885 - 1896:** Diễn ra cuộc khởi nghĩa Hương Khê do Phan Đình Phùng và Cao Thắng lãnh đạo, là đỉnh cao của phong trào Cần Vương.
 *   **1886 - 1887:** Diễn ra cuộc khởi nghĩa Ba Đình (Thanh Hóa) do Phạm Bành và Đinh Công Tráng lãnh đạo.
 *   **01/1887:** Căn cứ Ba Đình thất thủ sau các cuộc tấn công ác liệt của quân Pháp.
+*   **05/1888:** Người Pháp thành lập cục "Đại Nam nhật báo".
 *   **11/1888:** Vua Hàm Nghi bị bắt do Trương Quang Ngọc phản bội, sau đó bị đày sang Algérie.
 *   **13/01/1889:** Cựu hoàng Hàm Nghi đến thủ đô Algiers (Algérie), bắt đầu cuộc sống lưu đày; tại đây ông đã trở thành một họa sĩ và kết hôn với phụ nữ Pháp.
+*   **28/01/1889:** Vua Đồng Khánh băng hà.
 *   **1889:** Nguyễn Thiện Thuật sang Trung Quốc, khởi nghĩa Bãi Sậy suy yếu.
 *   **19/05/1890:** Nguyễn Sinh Cung (tức Chủ tịch Hồ Chí Minh) sinh ra tại xã Kim Liên, huyện Nam Đàn, tỉnh Nghệ An.
 *   **1891:** Hải Phòng được coi là thành phố đầu tiên có đèn điện trước cả Hà Nội.
