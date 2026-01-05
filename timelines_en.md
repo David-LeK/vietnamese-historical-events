@@ -558,15 +558,17 @@
 *   **Nov. 1829:** Emperor Minh Mang reorganized the *Van thu phong* into the **Noi cac** (Grand Secretariat), enhancing its role in assisting the Emperor with state affairs.
 *   **1829:** Establishment of Kim Son district (Ninh Binh) through land reclamation efforts led by Nguyen Cong Tru.
 *   **1830:** Le Van Duyet requested and oversaw the reconstruction of the Gia Dinh Citadel (Phan An Citadel) using laterite stone, expanding it significantly to become a major defensive fortification in the South.
+*   **Jan. 1830:** Emperor Minh Mang ordered the construction of the **Ho Quyen** (Tiger Arena) at Long Tho hill (Hue), a unique colosseum for elephant and tiger fights.
 *   **Oct. 1831:** Emperor Minh Mang carried out a major administrative reform, abolishing the governor-general positions and changing the garrisons and towns in the North into 18 provinces.
 *   **Jul. 30, 1832:** Marshall Le Van Duyet, Governor of Gia Dinh, passed away at the age of 60. Before his death, he had petitioned to divide the Gia Dinh region into provinces like in the North, but Emperor Minh Mang initially rejected the proposal.
 *   **1832:** The Ty Dai hien (Censorate) was changed to the Do sat vien (Supreme Censorate); the Tam phap ty (Three Judicial Offices, comprising representatives from the Ministry of Justice, the Supreme Censorate, and the Court of Revision) was established.
 *   **Oct. 1832:** The Gia Dinh Governor-Generalship was abolished, and the garrisons from Quang Nam southwards were divided into 12 provinces.
-*   **1833:** The **Dai Cung Mon** (Great Palace Gate), the main entrance to the Purple Forbidden City, was constructed.
+*   **1833:** The **Ngo Mon** (Meridian Gate) was constructed as the main entrance to the Imperial Citadel, and the **Thai Hoa Palace** was relocated to its current central position. The **Dai Cung Mon** (Great Palace Gate) was also built.
 *   **1832:** Emperor Minh Mang abolished the autonomous status of Thuan Thanh town (remaining Champa territory), renaming it Ninh Thuan Prefecture. The Kingdom of Champa officially ceased to exist.
 *   **1833 - 1834:** The "support the Le" uprising led by Le Duy Luong in the Ninh Binh, Thanh Hoa, and Hoa Binh regions.
 *   **1833 - 1835:** The uprising of ethnic minorities in the north led by Nong Van Van.
 *   **1833 - 1836:** The mutiny at Phien An Citadel (Gia Dinh) led by Le Van Khoi.
+*   **Late 1833:** Siamese forces invaded Ha Tien and An Giang provinces, escalating the conflict into the Vietnamese-Siamese War (1833-1834).
 *   **1833 - 1843:** The peasant uprising led by Ba Nhan and Tien Bot in the northern midlands.
 *   **1835:** Following the suppression of the Le Van Khoi revolt, Emperor Minh Mang ordered the desecration of Le Van Duyet's tomb. The grave was leveled, a stone stele inscribed with "Here lies the eunuch who abused power" was erected, and the tomb was bound with iron chains.
 *   **1834:** Emperor Minh Mang established the Co mat vien (Privy Council).

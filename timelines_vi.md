@@ -558,15 +558,17 @@
 *   **11/1829:** Vua Minh Mạng cải tổ Văn thư phòng thành **Nội các**, cơ quan tham mưu và giải quyết văn thư trọng yếu của triều đình.
 *   **1829:** Thành lập huyện Kim Sơn (Ninh Bình) từ công cuộc khẩn hoang do Nguyễn Công Trứ chỉ đạo.
 *   **1830:** Tổng trấn Lê Văn Duyệt tấu xin và đốc suất việc xây dựng lại thành Gia Định (thành Phiên An) bằng đá ong, mở rộng quy mô kiên cố bậc nhất miền Nam.
+*   **01/1830:** Vua Minh Mạng cho xây dựng **Hổ Quyền** tại gò Long Thọ (Huế), một đấu trường độc đáo dành cho các cuộc tử chiến giữa voi và hổ.
 *   **10/1831:** Vua Minh Mạng tiến hành cuộc cải cách hành chính lớn, xóa bỏ các tổng trấn, đổi các dinh, trấn ở Bắc Hà thành 18 tỉnh.
 *   **30/07/1832:** Tả quân Lê Văn Duyệt, Tổng trấn Gia Định thành, qua đời, thọ 60 tuổi. Trước khi mất, ông đã dâng sớ xin chia đất Gia Định thành các tỉnh như ở Bắc Hà, nhưng vua Minh Mạng ban đầu không chấp thuận.
 *   **1832:** Ty Đài hiến được đổi thành Đô sát viện; thành lập Tam pháp ty (gồm đại diện của Hình bộ, Đô sát viện và Đại lý tự).
 *   **10/1832:** Xóa bỏ Tổng trấn Gia Định thành, chia các trấn từ Quảng Nam vào Nam thành 12 tỉnh.
-*   **1833:** Cửa Đại Cung (Đại Cung Môn), cửa chính vào Tử Cấm Thành, được xây dựng.
+*   **1833:** Vua Minh Mạng cho xây dựng **Ngọ Môn**, cửa chính của Hoàng thành, và dời **điện Thái Hòa** về vị trí trung tâm hiện nay. Cửa Đại Cung cũng được xây dựng trong dịp này.
 *   **1832:** Vua Minh Mạng xóa bỏ quy chế tự trị của trấn Thuận Thành (phần lãnh thổ còn lại của Champa), đổi thành phủ Ninh Thuận, đặt quan lại cai trị trực tiếp. Vương quốc Champa chính thức chấm dứt tồn tại.
 *   **1833 - 1834:** Cuộc nổi dậy "phù Lê" do Lê Duy Lương lãnh đạo ở vùng Ninh Bình, Thanh Hóa, Hòa Bình.
 *   **1833 - 1835:** Cuộc nổi dậy của các dân tộc thiểu số phía Bắc do Nông Văn Vân lãnh đạo.
 *   **1833 - 1836:** Cuộc binh biến ở thành Phiên An (Gia Định) do Lê Văn Khôi lãnh đạo.
+*   **Cuối 1833:** Quân Xiêm xâm lược Hà Tiên và An Giang, hỗ trợ cuộc nổi dậy của Lê Văn Khôi, mở đầu cuộc chiến tranh Việt - Xiêm (1833 - 1834).
 *   **1833 - 1843:** Cuộc nổi dậy của nông dân do Ba Nhàn và Tiền Bột lãnh đạo ở vùng trung du Bắc Bộ.
 *   **1835:** Sau khi dẹp xong loạn Lê Văn Khôi, vua Minh Mạng ra chỉ dụ kết tội Lê Văn Duyệt, sai san phẳng mộ, dựng bia đá khắc 8 chữ "Quyền yêm Lê Văn Duyệt phục pháp xứ" (Hoạn quan lộng quyền Lê Văn Duyệt chịu tội chết) và xiềng xích lại.
 *   **1834:** Vua Minh Mạng cho thành lập Cơ mật viện.
