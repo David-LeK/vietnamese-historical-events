@@ -185,6 +185,7 @@
 *   **Jun. 12, 1388:** Emperor Trần Phế Đế was deposed, then imprisoned at Tư Phúc Pagoda and later killed on the orders of Emperor Emeritus Trần Nghệ Tông and Hồ Quý Ly.
 *   **Dec. 16, 1388:** Trần Nghệ Tông's son, Trần Ngung (later Emperor Trần Thuận Tông), ascended the throne.
 *   **1390:** General Tran Khat Chan commanded the battle on the Hai Trieu River (Luoc River), using firearms to kill the Champa king Che Bong Nga.
+*   **Sep. 10, 1385 (Aug. 6, Lunar Year of the Ox):** Le Loi was born in Lam Son (Thanh Hoa). According to legend, upon his birth, red light filled the house and a fragrance filled the village.
 *   **04/1396:** Under the policy led by Hồ Quý Ly (when he was Prime Minister), the royal court issued paper money called "Thông bảo hội sao." This was the first time paper money was circulated in Vietnam.
 *   **01/1397:** Hồ Quý Ly implemented the land limitation policy (hạn điền), restricting the amount of private land owned by princes and aristocrats (no more than 10 mẫu—a unit of area).
 *   **03/1397:** Hồ Quý Ly began constructing the Western Capital (Tây Đô) (Hồ Dynasty Citadel, Vĩnh Lộc, Thanh Hóa) and prepared to move the capital city.
@@ -225,26 +226,50 @@
 *   **Apr. 1414:** Zhang Fu captured Trung Quang De, Dang Dung, and Nguyen Suy. The resistance of the Later Tran dynasty failed.
 *   **Feb. 1416:** At Lung Nhai (Thanh Hoa), Le Loi and 18 close friends held an oath ceremony, determined to drive out the Ming army.
 *   **Feb. 7, 1418:** Le Loi raised the flag of rebellion at Lam Son (Thanh Hoa), proclaiming himself Binh Dinh Vuong (Pacification King).
+*   **Feb. 1418 (Jan. 9, Lunar Year of the Dog):** Facing enemy encirclement, Le Loi retreated to Lac Thuy and set up an ambush.
+*   **Feb. 1418 (Jan. 13, Lunar Year of the Dog):** The Ming army attacked Lac Thuy. The Lam Son forces ambushed them, killing over 3,000 enemy troops.
+*   **Feb. 1418 (Jan. 16, Lunar Year of the Dog):** A traitor named Ai led Ming troops to desecrate the grave of Le Loi's father at Phat Hoang. Generals Trinh Kha and Le Bi infiltrated the enemy camp to recover the remains.
 *   **1418:** During an encirclement at Chi Linh Mountain, Le Lai disguised himself as Le Loi, sacrificing himself to save his commander.
+*   **1420:** The Lam Son righteous army defeated the Ming troops at Ben Bong (during the Hour of the Goat) and Bo Thi Lang. The traitor Cam Lan led Ming forces to attack but was repelled.
 *   **Nov. 1420:** The Lam Son righteous army won a great victory in the Battle of Bo Mong, annihilating over 1,000 enemy troops.
-*   **May 1423:** Le Loi temporarily made a truce with the Ming army to consolidate his forces.
-*   **Oct. 24, 1424:** The Lam Son righteous army attacked the Da Cang fortress, beginning the strategic advance into Nghe An.
+*   **Dec. 14, 1421 (Nov. 20, Lunar Year of the Buffalo):** Ming general Tran Tri led over 100,000 troops to attack at Kinh Long Pass (Ba Lam). Le Loi utilized an ambush strategy to defeat them.
+*   **1421:** The Ming army advanced through the mountain path to attack. Le Loi ambushed them at Ung Pass, causing heavy losses to the enemy.
+*   **Late 1421:** The Ai Lao (Laos) army, allied with the Ming, feigned support but attacked the Lam Son forces. Le Loi counter-attacked, pursuing them for 4 days and nights. General Le Thach died in battle.
+*   **Early 1423 (Dec. 24, Lunar Year of the Tiger):** Ming and Ai Lao troops attacked Da Quan camp (Sach Khoi). Facing a "deadly ground" situation, Le Loi motivated his troops to fight to the death, defeating the enemy and killing general Phung Quy.
+*   **May 1423 (Apr. 10, Lunar Year of the Cat):** Le Loi returned to Lam Son. The two sides temporarily made a truce to consolidate forces.
+*   **1423:** Le Loi established Tran Thien Khanh (Cam Quy), a man claiming to be a descendant of the Tran dynasty, as King Thien Khanh to rally support and legitimize the uprising.
+*   **Oct. 12, 1424 (Sep. 20, Lunar Year of the Dragon):** The Lam Son righteous army attacked the Da Cang fortress, beginning the strategic advance into Nghe An.
 *   **1425:** The Lam Son righteous army liberated a large area from Thanh Hoa to Thuan Hoa.
+*   **Early 1425 (Jan. 25, Lunar Year of the Snake):** Le Loi marched his troops into Nghe An, issuing strict orders not to harm the populace ("not to take a single thread"), thereby gaining immense popular support.
+*   **Mar. 24, 1425 (Lunar):** According to the *Lam Son Thuc Luc*, Lady Tran Thi Ngoc Tran (mother of King Le Thai Tong) sacrificed herself to the river deity to pray for the army's victory.
+*   **May 1425 (Apr., Lunar Year of the Snake):** Ming general Ly An led naval troops to rescue Nghe An.
+*   **May 15, 1425 (Apr. 27, Lunar Year of the Snake):** The Lam Son army defeated Ly An's forces at Le Thiet camp, killing over 1,000 enemy troops.
+*   **1425:** Generals Le No and Le Da Bo led over 1,000 troops and war elephants to attack and liberate Tan Binh and Thuan Hoa.
+*   **Sep. 1426 (Aug. 20, Lunar Year of the Horse):** Battle of Ninh Kieu. Generals Le Trien and Le Bi ambushed and defeated the Ming army, chasing them to Nhan Muc.
 *   **Sep. 1426:** Le Loi divided his army into three columns to advance north, liberating the Red River Delta.
+*   **Oct. 1426 (Sep. 26, Lunar Year of the Horse):** Ming generals Phuong Chinh and Ly An abandoned Nghe An Citadel and fled by sea to Dong Quan.
 *   **Nov. 6, 1426:** Battle of Tot Dong - Chuc Dong. The Lam Son righteous army crushed 100,000 Ming troops under Wang Tong's command, annihilating over 50,000 enemy soldiers and achieving a decisive victory.
-*   **Nov. 10, 1426:** Le Loi moved his headquarters to Tay Phu Liet (Thanh Tri), beginning the siege of Dong Quan Citadel.
+*   **Dec. 1426 (Nov., Lunar Year of the Horse):** Le Loi advanced his main army to the Luong River bridge and besieged Dong Quan Citadel (Dong Do).
 *   **Sep. 28, 1427:** The Lam Son righteous army captured Xuong Giang Citadel (Bac Giang), an important stronghold.
-*   **Oct. 8, 1427:** The Chi Lang - Xuong Giang Campaign began. The Ming reinforcement army led by Liu Sheng was ambushed and annihilated at the Chi Lang Pass, and Liu Sheng was beheaded.
-*   **Nov. 3, 1427:** The remnants of Liu Sheng's army were completely annihilated at Xuong Giang. At the same time, the second reinforcement army under Mu Sheng from Yunnan was also defeated.
+*   **Jul. 1427 (Jun. 10, Lunar Year of the Goat):** Ming general Tran Vien Hau (Chen Yuanhou) with 50,000 troops from Guangxi attacked Pha Luy pass. Generals Le Luu and Le Boi defeated them, killing over 3,000.
+*   **Oct. 8, 1427 (Sep. 18, Lunar Year of the Goat):** The Chi Lang - Xuong Giang Campaign began. The Ming reinforcement army led by Liu Sheng was ambushed and annihilated at the Chi Lang Pass.
+*   **Oct. 1427 (Sep. 20, Lunar Year of the Goat):** Ming commander Liu Sheng was beheaded at Ma Yen Mountain.
+*   **Oct. 1427 (Sep. 25, Lunar Year of the Goat):** Ming general Liang Ming (Luong Minh) died in battle.
+*   **Oct. 1427 (Sep. 28, Lunar Year of the Goat):** Ming Minister Li Qing (Ly Khanh) committed suicide.
+*   **Nov. 3, 1427:** The remnants of Liu Sheng's army were completely annihilated at Xuong Giang. Le Loi used the captured seal and letters of Liu Sheng to trick the second reinforcement army under Mu Sheng, causing them to panic and flee, suffering heavy losses.
 *   **Dec. 10, 1427:** Le Loi and Wang Tong held the Oath Ceremony of Dong Quan, officially allowing the Ming army to withdraw.
+*   **Jan. 1428 (Dec. 16, Lunar Year of the Goat):** Ming generals Wang Tong, Ma Ying, and others formally surrendered and requested to withdraw their troops to China.
 *   **Jan. 3, 1428:** The last Ming soldiers withdrew from the country. The nation was completely liberated.
 
 ### **Early Le Dynasty Period (1428 - 1527)**
 
-*   **Apr. 29, 1428:** Le Loi officially ascended the throne as Emperor (Le Thai To) in Dong Do, adopting the era name Thuan Thien and restoring the national title of Dai Viet. Under the king's order, Nguyen Trai wrote the "Binh Ngo dai cao" (Great Proclamation upon the Pacification of the Wu), the nation's second declaration of independence.
-*   **1428:** Le Thai To divided the country into 5 circuits (dao): South, North, East, West, and Hai Tay.
+*   **Apr. 1428 (Mar., Lunar Year of the Monkey):** Le Loi reviewed his generals and officials, defining ranks, rewarding merits, and dividing the country into circuits (Dao).
+*   **May 1428 (Apr. 14, Lunar Year of the Monkey):** Le Loi officially ascended the throne as Emperor (Le Thai To) in Dong Do, adopting the era name Thuan Thien and restoring the national title of Dai Viet. Under the king's order, Nguyen Trai wrote the "Binh Ngo dai cao" (Great Proclamation upon the Pacification of the Wu), the nation's second declaration of independence.
+*   **1428:** Le Thai To divided the country into 5 circuits (dao): South, North, East, West, and Hai Tay. He established the position of Administrator (*Hành khiển*) in each circuit to manage military and civil records.
 *   **Feb. 1429:** Le Thai To ordered the demobilization of 250,000 troops, keeping only 100,000, implementing the "combining military service with farming" policy.
-*   **Oct. 5, 1433:** King Le Thai To passed away.
+*   **Late 1431 (Middle of Winter, Lunar Year of the Pig):** King Le Thai To wrote the preface for the book *Lam Son thuc luc* (Records of Lam Son), recording the history of the uprising.
+*   **Oct. 5, 1433 (Aug. 22, Leap Month, Lunar Year of the Buffalo):** King Le Thai To passed away.
+*   **Dec. 1433 (Oct. 23, Lunar Year of the Buffalo):** Le Thai To was buried at Vinh Lang, Lam Son. Nguyen Trai composed the inscription for the Vinh Lang Stele.
 *   **1434:** Le Thai Tong ascended the throne. Regulations for the doctoral examination were established.
 *   **1442:** The Le court held the first doctoral examination, passing 33 people, including Trang Nguyen (First Laureate) Nguyen Truc. The practice of erecting doctoral stelae at the Temple of Literature began.
 *   **1442:** The tragic Le Chi Vien case occurred, leading to the execution of three generations of Nguyen Trai's family.
@@ -342,6 +367,7 @@
 *   **1667:** Joao da Cruz, a Portuguese metalcaster serving the Nguyen Lord, cast European-style bronze cannons, significantly bolstering the military strength of Dang Trong.
 *   **Jun. 1672:** The seventh and final campaign. The Trinh army launched an all-out attack but was still blocked by the strong defensive walls of the Nguyen army.
 *   **Late 1672:** The two sides agreed to a truce, taking the Gianh River as the demarcation line, officially dividing the country into Dang Trong and Dang Ngoai for over a century.
+*   **Spring 1676:** The historical work *Lam Son thuc luc* was revised and reprinted under the order of the Le court (Vinh Tri era).
 *   **1677:** The last remnants of the Mac dynasty in Cao Bang were completely eliminated.
 *   **1679:** Two groups of loyalist former Ming officials, Yang Yandi and Chen Shangchuan, brought over 3,000 people to seek asylum and were allowed by the Nguyen lord to reclaim land in the My Tho and Bien Hoa regions.
 *   **1680:** Mac Cuu (also a former Ming official) arrived to develop the Ha Tien region, including Phu Quoc.

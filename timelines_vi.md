@@ -185,6 +185,7 @@
 *   **06/12/1388:** Trần Phế Đế bị phế truất, sau đó bị giam tại chùa Tư Phúc và bị giết theo lệnh của Thượng hoàng Trần Nghệ Tông và Hồ Quý Ly.
 *   **16/12/1388:** Con trai Trần Nghệ Tông là Trần Ngung (sau là Trần Thuận Tông) lên ngôi.
 *   **1390:** Thượng tướng quân Trần Khát Chân chỉ huy trận đánh trên sông Hải Triều (sông Luộc), dùng súng thần cơ giết chết vua Champa là Chế Bồng Nga.
+*   **10/09/1385 (06/08 năm Ất Sửu):** Lê Lợi chào đời tại Lam Sơn (Thanh Hóa). Tương truyền khi sinh có ánh sáng đỏ đầy nhà, mùi hương đầy xóm.
 *   **04/1396:** Dưới sự chủ trương của Hồ Quý Ly (khi còn là Tể tướng), triều đình phát hành tiền giấy "Thông bảo hội sao", lần đầu tiên tiền giấy được lưu hành ở Việt Nam.
 *   **01/1397:** Hồ Quý Ly ban hành chính sách hạn điền, quy định hạn chế số lượng ruộng đất tư hữu của các vương hầu, quý tộc (không quá 10 mẫu).
 *   **03/1397:** Hồ Quý Ly cho xây dựng kinh thành Tây Đô (Thành nhà Hồ, Vĩnh Lộc, Thanh Hóa) và chuẩn bị dời đô.
@@ -225,26 +226,50 @@
 *   **04/1414:** Trương Phụ bắt được Trùng Quang Đế, Đặng Dung, Nguyễn Súy. Cuộc kháng chiến của nhà Hậu Trần thất bại.
 *   **02/1416:** Tại Lũng Nhai (Thanh Hóa), Lê Lợi cùng 18 người bạn thân tổ chức hội thề, quyết tâm đánh đuổi quân Minh.
 *   **07/02/1418:** Lê Lợi dựng cờ khởi nghĩa ở Lam Sơn (Thanh Hóa), tự xưng là Bình Định vương.
+*   **02/1418 (09/01 năm Mậu Tuất):** Nghĩa quân bị địch vây bức, phải lui về đóng ở Lạc Thủy.
+*   **02/1418 (13/01 năm Mậu Tuất):** Quân Minh tấn công Lạc Thủy. Lê Lợi tung quân phục kích, chém hơn 3.000 đầu giặc.
+*   **02/1418 (16/01 năm Mậu Tuất):** Kẻ phản bội tên Ái dẫn quân Minh đào mả Phật Hoàng (mộ cha Lê Lợi). Trịnh Khả và Lê Bí lẻn vào trại giặc cướp lại hài cốt đem về.
 *   **1418:** Trong một lần bị vây khốn ở núi Chí Linh, Lê Lai đã đóng giả Lê Lợi, hy sinh thân mình để cứu chủ tướng.
+*   **1420:** Nghĩa quân Lam Sơn đánh bại quân Minh tại Bến Bồng (vào giờ Mùi) và Bồ Thi Lang. Phản tặc Cầm Lạn dẫn đường cho quân Minh tấn công nhưng bị đánh lui.
 *   **11/1420:** Nghĩa quân Lam Sơn giành thắng lợi lớn trong trận Bồ Mộng, tiêu diệt hơn 1.000 quân địch.
-*   **05/1423:** Lê Lợi tạm thời hòa hoãn với quân Minh để củng cố lực lượng.
-*   **24/10/1424:** Nghĩa quân Lam Sơn tấn công đồn Đa Căng, mở đầu cho cuộc tiến quân chiến lược vào Nghệ An.
+*   **12/1421 (20/11 năm Tân Sửu):** Tướng Minh là Trần Trí đem hơn 10 vạn quân tấn công ải Kinh Lộng (trại Ba Lầm). Lê Lợi dùng kế "lấy nhàn chống mệt", phục kích đánh bại địch.
+*   **1421:** Quân Minh mở đường núi tiến vào đánh úp. Lê Lợi phục binh ở ải Ũng đánh bại quân địch.
+*   **Cuối 1421:** Quân Ai Lao giả vờ sang giúp rồi bất ngờ đánh úp nghĩa quân. Lê Lợi đốc chiến đánh tan quân Ai Lao, truy kích tận sào huyệt. Tướng Lê Thạch hy sinh.
+*   **Đầu 1423 (24/12 năm Nhâm Dần):** Quân Minh và Ai Lao giáp công tại trại Đa Quan (Sách Khôi). Lê Lợi khích lệ tướng sĩ tử chiến nơi "đất chết", đánh tan quân địch, chém tướng Phùng Quý.
+*   **05/1423 (10/04 năm Quý Mão):** Lê Lợi đem quân về Lam Sơn. Hai bên tạm thời hòa hoãn để củng cố lực lượng.
+*   **1423:** Lê Lợi lập Cầm Quý (tự xưng là cháu ngoại họ Trần) làm vua, lấy hiệu là Thiên Khánh để danh chính ngôn thuận, tập hợp lòng dân.
+*   **12/10/1424 (20/09 năm Giáp Thìn):** Nghĩa quân Lam Sơn tấn công đồn Đa Căng, mở đầu cho cuộc tiến quân chiến lược vào Nghệ An.
 *   **1425:** Nghĩa quân Lam Sơn giải phóng một vùng rộng lớn từ Thanh Hóa vào đến Thuận Hóa.
+*   **Đầu 1425 (25/01 năm Ất Tỵ):** Lê Lợi dẫn quân tiến vào Nghệ An, ra lệnh nghiêm ngặt quân lính không được xâm phạm mảy may đến dân chúng (tơ hào không phạm).
+*   **24/03/1425 (Âm lịch):** Bà Trần Thị Ngọc Trần (mẹ vua Lê Thái Tông) hy sinh thân mình làm vợ thần để cầu trận thắng (theo *Lam Sơn thực lục*).
+*   **05/1425 (Tháng 4 năm Ất Tỵ):** Tướng Minh là Lý An đem thủy quân cứu viện Nghệ An.
+*   **15/05/1425 (27/04 năm Ất Tỵ):** Quân phục của Nhà vua đánh bại quân Minh do Lý An chỉ huy tại trại Lê Thiệt, chém hơn nghìn đầu.
+*   **1425:** Các tướng Lê Nỗ, Lê Đa Bồ đem hơn 1.000 quân và 1 voi chiến vào đánh và giải phóng Tân Bình, Thuận Hóa.
+*   **09/1426 (20/08 năm Bính Ngọ):** Trận Ninh Kiều. Các tướng Lê Triện, Lê Bí phục kích đánh bại quân Minh, đuổi địch đến tận Nhân Mục.
 *   **09/1426:** Lê Lợi chia quân làm 3 đạo tiến ra Bắc, giải phóng đồng bằng sông Hồng.
+*   **10/1426 (26/09 năm Bính Ngọ):** Tướng Minh là Phương Chính, Lý An bỏ thành Nghệ An, theo đường biển chạy về Đông Quan.
 *   **06/11/1426:** Trận Tốt Động - Chúc Động. Nghĩa quân Lam Sơn đại phá 10 vạn quân Minh do Vương Thông chỉ huy, tiêu diệt hơn 5 vạn quân địch, giành thắng lợi quyết định.
-*   **10/11/1426:** Lê Lợi chuyển đại bản doanh về Tây Phù Liệt (Thanh Trì), bắt đầu cuộc vây hãm thành Đông Quan.
+*   **12/1426 (Tháng 11 năm Bính Ngọ):** Lê Lợi tiến quân đến cầu sông Luống, hội quân vây hãm thành Đông Quan (Đông Đô).
 *   **28/09/1427:** Nghĩa quân Lam Sơn hạ thành Xương Giang (Bắc Giang), một cứ điểm quan trọng.
-*   **08/10/1427:** Trận Chi Lăng - Xương Giang bắt đầu. Đạo quân tiếp viện của nhà Minh do Liễu Thăng chỉ huy bị phục kích và tiêu diệt ở ải Chi Lăng, Liễu Thăng bị chém đầu.
-*   **03/11/1427:** Tàn quân của Liễu Thăng bị tiêu diệt hoàn toàn ở Xương Giang. Cùng lúc, đạo quân tiếp viện thứ hai của Mộc Thạnh ở Vân Nam cũng bị đánh tan.
+*   **07/1427 (10/06 năm Đinh Mùi):** Tướng Minh là Trần Viễn Hầu đem 5 vạn quân từ Quảng Tây sang cứu viện, bị các tướng Lê Lựu, Lê Bôi đánh bại tại ải Pha Lũy.
+*   **08/10/1427 (18/09 năm Đinh Mùi):** Trận Chi Lăng - Xương Giang bắt đầu. Đạo quân tiếp viện của nhà Minh do Liễu Thăng chỉ huy bị phục kích và tiêu diệt ở ải Chi Lăng.
+*   **10/1427 (20/09 năm Đinh Mùi):** Liễu Thăng bị chém đầu tại núi Mã Yên.
+*   **10/1427 (25/09 năm Đinh Mùi):** Tướng Minh là Lương Minh tử trận.
+*   **10/1427 (28/09 năm Đinh Mùi):** Thượng thư bộ Binh nhà Minh là Lý Khánh tự vẫn.
+*   **03/11/1427:** Tàn quân của Liễu Thăng bị tiêu diệt hoàn toàn ở Xương Giang. Lê Lợi dùng ấn tín và thư từ bắt được của Liễu Thăng gửi sang trại Mộc Thạnh, khiến quân Vân Nam hoảng sợ bỏ chạy và bị đánh tan.
 *   **10/12/1427:** Lê Lợi và Vương Thông tổ chức Hội thề Đông Quan, chính thức chấp nhận cho quân Minh rút về nước.
+*   **01/1428 (16/12 năm Đinh Mùi):** Các tướng Minh là Vương Thông, Mã Anh... chính thức xin hàng và xin rút quân về nước.
 *   **03/01/1428:** Những tên lính Minh cuối cùng rút khỏi bờ cõi. Đất nước hoàn toàn giải phóng.
 
 ### **Thời kỳ Nhà Lê Sơ (1428 - 1527)**
 
-*   **29/04/1428:** Lê Lợi chính thức lên ngôi Hoàng đế (Lê Thái Tổ) tại Đông Đô, đặt niên hiệu Thuận Thiên, khôi phục quốc hiệu Đại Việt. Thừa lệnh vua, Nguyễn Trãi viết "Bình Ngô đại cáo", bản tuyên ngôn độc lập thứ hai của dân tộc.
-*   **1428:** Lê Thái Tổ chia cả nước làm 5 đạo: Nam đạo, Bắc đạo, Đông đạo, Tây đạo và Hải Tây đạo.
+*   **03/1428 (tháng 3 năm Mậu Thân):** Nhà vua hội các tướng văn võ, định công ban thưởng, sắp đặt phẩm cấp và chia cả nước làm 5 đạo.
+*   **29/04/1428 (14/04 năm Mậu Thân):** Lê Lợi chính thức lên ngôi Hoàng đế (Lê Thái Tổ) tại Đông Đô, đặt niên hiệu Thuận Thiên, khôi phục quốc hiệu Đại Việt. Thừa lệnh vua, Nguyễn Trãi viết "Bình Ngô đại cáo", bản tuyên ngôn độc lập thứ hai của dân tộc.
+*   **1428:** Lê Thái Tổ chia cả nước làm 5 đạo: Nam đạo, Bắc đạo, Đông đạo, Tây đạo và Hải Tây đạo. Triều đình đặt thêm chức Hành khiển ở các đạo để chia giữ sổ sách quân và dân.
 *   **02/1429:** Lê Thái Tổ ra lệnh cho giải ngũ 25 vạn quân, chỉ giữ lại 10 vạn, thực hiện chính sách "ngụ binh ư nông".
-*   **05/10/1433:** Vua Lê Thái Tổ mất.
+*   **Cuối 1431 (Tháng Trọng Đông năm Tân Hợi):** Vua Lê Thái Tổ viết bài tựa cho cuốn *Lam Sơn thực lục*, ghi chép lại lịch sử cuộc khởi nghĩa.
+*   **05/10/1433 (22/08 nhuận năm Quý Sửu):** Vua Lê Thái Tổ băng hà.
+*   **11/1433 (23/10 năm Quý Sửu):** Táng vua Lê Thái Tổ tại Vĩnh Lăng, Lam Sơn. Nguyễn Trãi phụng sắc soạn văn bia Vĩnh Lăng.
 *   **1434:** Lê Thái Tông lên ngôi. Bắt đầu quy định về khoa thi Tiến sĩ.
 *   **1442:** Triều Lê tổ chức khoa thi Tiến sĩ đầu tiên, lấy đỗ 33 người, trong đó có Trạng nguyên Nguyễn Trực. Bắt đầu cho dựng bia Tiến sĩ ở Văn Miếu.
 *   **1442:** Xảy ra Vụ án Lệ Chi Viên oan khốc khiến Nguyễn Trãi bị tru di tam tộc.
@@ -342,6 +367,7 @@
 *   **1667:** João da Cruz, một người Bồ Đào Nha phục vụ chúa Nguyễn, đã đúc thành công các loại súng thần công theo kỹ thuật phương Tây, gia tăng đáng kể tiềm lực quân sự cho Đàng Trong.
 *   **06/1672:** Cuộc chiến lần thứ bảy và cũng là cuối cùng. Quân Trịnh dốc toàn lực tấn công nhưng vẫn bị chặn lại ở các chiến lũy kiên cố của quân Nguyễn.
 *   **Cuối 1672:** Hai bên đình chiến, lấy sông Gianh làm giới tuyến, chính thức chia cắt đất nước thành Đàng Trong và Đàng Ngoài trong hơn một thế kỷ.
+*   **Mùa Xuân 1676:** Bộ sách *Lam Sơn thực lục* được sửa chữa và khắc in lại theo lệnh của triều đình (niên hiệu Vĩnh Trị).
 *   **1677:** Dư đảng cuối cùng của nhà Mạc ở Cao Bằng bị tiêu diệt hoàn toàn.
 *   **1679:** Hai nhóm cựu thần nhà Minh trung thành là Dương Ngạn Địch và Trần Thượng Xuyên đem hơn 3.000 người đến xin tị nạn, được chúa Nguyễn cho vào khai khẩn vùng Mỹ Tho và Biên Hòa.
 *   **1680:** Mạc Cửu (cũng là cựu thần nhà Minh) đến khai phá vùng đất Hà Tiên, trong đó có Phú Quốc.
