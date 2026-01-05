@@ -506,18 +506,21 @@
 *   **1802:** Triều Nguyễn được thành lập, vua Gia Long lên ngôi.
 *   **05/1802:** Lê Văn Duyệt được phong làm *Khâm sai Chưởng Tả quân*, tước Quận công, trở thành một trong những đệ nhất khai quốc công thần của triều đại.
 *   **08/1802:** Vua Gia Long sai biên soạn và ban hành 15 điều luật đầu tiên về kiện tụng.
+*   **01/1803:** Vua Gia Long ra lệnh đúc **Cửu Vị Thần Công** từ các binh khí bằng đồng thu được, hoàn thành vào tháng 12/1804, đặt tên theo bốn mùa và ngũ hành.
 *   **1803:** Vua Gia Long định lệ lương bổng cho quan và quân ở Bắc thành.
 *   **1803 - 1808:** Tả quân Lê Văn Duyệt được cử đi đánh dẹp cuộc nổi dậy của "Mọi Thạch Bích" (đồng bào dân tộc thiểu số) ở vùng Quảng Ngãi, ổn định biên giới.
 *   **1804:** Vua Gia Long chính thức đặt quốc hiệu là Việt Nam (sau khi nhà Thanh không chấp thuận tên Nam Việt). Vua cũng cho đúc ấn của 6 bộ và ban hành phép quân điền (chia ruộng).
 *   **1804:** Vua Gia Long cho xây dựng **Cung Thành** (nơi ở của vua và hoàng gia) ở phía sau điện Thái Hòa, đến năm 1822 đổi tên là Tử Cấm Thành.
 *   **1805:** Vua Gia Long cho đổi phủ Phụng Thiên thành phủ Hoài Đức.
 *   **1805:** Vua Gia Long ra lệnh xây dựng lại Thành Hà Nội theo kiểu Vauban và xây dựng Cột cờ Hà Nội, củng cố trung tâm hành chính Bắc Thành.
+*   **05/1805:** Bắt đầu xây dựng **Kinh thành Huế**, công trình kiến trúc quân sự quy mô lớn kết hợp giữa phong thủy phương Đông và kiểu đồn lũy Vauban phương Tây.
 *   **1805 - 1820:** Truyện Kiều được Nguyễn Du sáng tác bằng chữ Nôm.
-*   **1806:** Lê Quang Định hoàn thành bộ sách *Nhất thống địa dư chí*, ghi chép địa lý, chính trị của nước Việt Nam thống nhất. Vua Gia Long chính thức cử hành lễ lên ngôi Hoàng đế tại điện Thái Hòa.
+*   **05/1806:** Vua Gia Long chính thức cử hành lễ lên ngôi **Hoàng đế** tại điện Thái Hòa, khẳng định vị thế độc tôn của vương triều.
 *   **1807:** Vua Gia Long tổ chức khoa thi Hương đầu tiên.
 *   **1808:** Gia Long cho đổi Gia Định trấn thành Gia Định thành.
 *   **1808 - 1819:** Cuộc nổi dậy của Thổ tù Quách Tất Thúc ở vùng Sơn Âm (nay thuộc Ninh Bình, Hòa Bình).
 *   **1809:** Vua Gia Long đặt đủ các chức quan cho 6 bộ.
+*   **1809:** Lê Quang Định dâng bộ sách *Nhất thống địa dư chí* đã hoàn thành, ghi chép chi tiết địa lý, chính trị của nước Việt Nam thống nhất.
 *   **01/1811:** Vua Gia Long ra lệnh biên soạn một bộ luật chính thức cho vương triều.
 *   **07/1812:** Hoàn thành bộ luật *Hoàng Việt luật lệ* (thường gọi là Luật Gia Long).
 *   **1812:** Lê Văn Duyệt được cử làm Tổng trấn Gia Định thành (lần thứ nhất, 1812-1816), quản lý toàn bộ vùng Gia Định. Ông nổi tiếng với việc thiết lập trật tự, trị an nghiêm minh, khiến trộm cướp phải khiếp sợ và dân chúng được yên ổn.
@@ -531,6 +534,7 @@
 *   **Cuối 1817 - Đầu 1818:** Khởi công đào kênh Thoại Hà (An Giang) dưới sự chỉ huy của Nguyễn Văn Thoại, phục vụ giao thông và quốc phòng.
 *   **1818:** Vua Gia Long ban hành điển lệ chính thức về lương bổng và tiền xuân phục cho quan lại; thực thi lệ "dưỡng liêm" (phụ cấp chống tham nhũng) cho quan phủ, huyện.
 *   **1819:** Lê Văn Duyệt được cử làm Kinh lược sứ vùng Thanh Hóa, Nghệ An để dẹp loạn trộm cướp và nạn đói. Ông thực hiện chính sách khoan hồng, cho phép trộm cướp ra đầu thú và sung vào quân đội (lập quân Thanh Thuận và An Thuận).
+*   **1819:** Vua Gia Long ra lệnh đào **sông An Thông** (kênh Ruột Ngựa) tại Gia Định để thuận tiện cho giao thông đường thủy.
 *   **1819 - 1824:** Đào kênh Vĩnh Tế (chạy dọc biên giới An Giang - Kiên Giang), công trình thủy lợi và quốc phòng lớn nhất thời bấy giờ, huy động hàng vạn nhân lực.
 *   **1820 - 1832:** Trong thời gian làm Tổng trấn Gia Định, Lê Văn Duyệt đã lập gánh Hát bội riêng, góp phần quan trọng vào việc du nhập và phát triển loại hình nghệ thuật này tại Nam Bộ.
 *   **1820:** Vua Minh Mệnh lên ngôi, đổi Thị thư viện thành Văn thư phòng.

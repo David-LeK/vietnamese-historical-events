@@ -506,18 +506,21 @@
 *   **1802:** The Nguyen dynasty was established, with Emperor Gia Long ascending the throne.
 *   **May 1802:** Le Van Duyet was appointed as *Imperial Commissioner, Commander of the Left Army* (Kham sai Chuong Ta quan), becoming one of the highest-ranking generals and a founding meritorious official of the dynasty.
 *   **Aug. 1802:** Emperor Gia Long ordered the compilation and promulgation of the first 15 laws regarding litigation.
+*   **Jan. 1803:** Emperor Gia Long ordered the casting of the **Nine Holy Cannons** (Cửu Vị Thần Công) from captured bronze weapons, completed in December 1804, symbolizing the power and longevity of the dynasty.
 *   **1803:** Emperor Gia Long set the salary regulations for officials and soldiers in the Northern Citadel.
 *   **1803 - 1808:** General Le Van Duyet was dispatched to suppress the uprising of the "Thach Bich savages" (ethnic minorities) in the Quang Ngai region, stabilizing the border areas.
 *   **1804:** Emperor Gia Long officially established the national title "Viet Nam" (after the Qing dynasty rejected "Nam Viet"). He also ordered the casting of seals for the six ministries and promulgated the communal land allocation system.
 *   **1804:** Construction of the **Cung Thanh** (Palace City) began behind the Thai Hoa Palace, serving as the private residence for the Emperor and the royal family (renamed Purple Forbidden City in 1822).
 *   **1805:** Emperor Gia Long changed Phung Thien Prefecture to Hoai Duc Prefecture.
 *   **1805:** Emperor Gia Long ordered the construction of the Hanoi Citadel (Vauban style) and the Hanoi Flag Tower (Cot Co), reinforcing the administrative center of Northern Vietnam.
+*   **May 1805:** Construction of the **Hue Citadel** (Kinh thành Huế) began, a massive fortification project combining Eastern geomancy and Western Vauban military architecture.
 *   **1805 - 1820:** The Tale of Kieu was composed by Nguyen Du in chữ Nôm (Vietnamese demotic script).
-*   **1806:** Le Quang Dinh completed the *Nhat thong dia du chi* (Geography of the Unified Realm), the first comprehensive geographical record of Vietnam under the Nguyen Dynasty. Emperor Gia Long officially held the coronation ceremony at the Thai Hoa Palace.
+*   **May 1806:** Emperor Gia Long officially held the coronation ceremony at the Thai Hoa Palace, taking the title of **Emperor** (Hoàng Đế).
 *   **1807:** Emperor Gia Long organized the first regional examination (thi Huong).
 *   **1808:** Gia Long changed Gia Dinh Garrison to Gia Dinh Citadel.
 *   **1808 - 1819:** The uprising of the Tho chieftain Quach Tat Thuc in the Son Am region (now part of Ninh Binh, Hoa Binh).
 *   **1809:** Emperor Gia Long appointed all official positions for the six ministries.
+*   **1809:** Le Quang Dinh completed the *Nhat thong dia du chi* (Geography of the Unified Realm), the first comprehensive geographical record of Vietnam under the Nguyen Dynasty.
 *   **Jan. 1811:** Emperor Gia Long ordered the compilation of an official law code for the dynasty.
 *   **Jul. 1812:** The law code *Hoang Viet luat le* (commonly known as the Gia Long Code) was completed.
 *   **1812:** Le Van Duyet was appointed Governor-General of Gia Dinh Citadel (first term, 1812-1816), with authority over the entire Southern region. During this time, he established strict laws, eliminated banditry, and brought peace to the people.
@@ -531,6 +534,7 @@
 *   **Late 1817 - Early 1818:** Construction of the Thoai Ha Canal in An Giang began under the direction of Nguyen Van Thoai, serving both defense and agricultural irrigation in the Mekong Delta.
 *   **1818:** Emperor Gia Long promulgated official regulations on salaries and spring attire allowances for officials; implemented the "duong liem" (anti-corruption allowance) for prefectural and district officials.
 *   **1819:** Le Van Duyet was appointed as the Imperial Commissioner (Kinh Luoc Su) to Thanh Hoa and Nghe An to suppress banditry and stabilize the region suffering from famine and unrest. He implemented policies to pardon surrendering bandits and recruit them into the army, forming the **Thanh Thuan** and **An Thuan** regiments.
+*   **1819:** Emperor Gia Long ordered the digging of the **An Thong River** (Ruot Ngua Canal) in Gia Dinh to facilitate water transport.
 *   **1819 - 1824:** The Vinh Te Canal was dug along the southwestern border (An Giang, Kien Giang), a massive project employing tens of thousands of workers to define the border and develop the region.
 *   **1820 - 1832:** During his tenure as Governor General of Gia Dinh, Le Van Duyet established a private classical opera (*Hát bội*) troupe, significantly contributing to the introduction and popularization of this art form in Southern Vietnam.
 *   **1820:** Emperor Minh Mang ascended the throne, changing the Thi thu vien (Imperial Secretariat) to the Van thu phong (Chancellery).
