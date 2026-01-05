@@ -408,6 +408,7 @@
 *   **1771:** Ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ dựng cờ khởi nghĩa ở Tây Sơn Thượng đạo (An Khê, Gia Lai) với khẩu hiệu "lấy của người giàu chia cho người nghèo". Nguyễn Nhạc được tôn làm **Tây Sơn Vương**.
 *   **1771:** Nhận được sự ủng hộ mạnh mẽ của các dân tộc thiểu số (người Xà Đàng, Ba Na) vùng An Khê, Nguyễn Nhạc được đồng bào tôn xưng là "Vua Trời", tạo dựng cơ sở vững chắc ban đầu cho cuộc khởi nghĩa.
 *   **1771:** Các nhân vật kiệt xuất như Trần Quang Diệu, Võ Văn Dũng, Võ Đình Tú gia nhập nghĩa quân. Tương truyền nữ tướng Bùi Thị Xuân đã đánh hổ cứu Trần Quang Diệu trong thời gian này, mở đầu cho mối lương duyên và sự nghiệp lẫy lừng của hai người.
+*   **Mùa xuân 1773:** Một toán quân nhỏ gồm các nhóm dân tộc vùng cao và nông dân vùng đồng bằng từ An Khê, dưới sự chỉ huy của Nguyễn Nhạc, đã tràn xuống tấn công thủ phủ Quy Nhơn.
 *   **Trung tuần tháng 9/1773:** Nghĩa quân Tây Sơn hạ thành Quy Nhơn, Tuần vũ Nguyễn Khắc Tuyên bỏ chạy. Sự kiện này gắn liền với giai thoại về mưu kế của Nguyễn Nhạc, người đã tự ngồi vào cũi giả làm tù nhân để lọt vào thành rồi phá cũi mở cổng cho quân tiến vào.
 *   **Rằm tháng 8/1773:** Nguyễn Nhạc làm lễ tế cờ xuất quân tại đèo An Khê.
 *   **1773:** Các tướng Lê Văn Hưng, Trần Quang Diệu và Võ Văn Dũng chỉ huy quân Tây Sơn đánh chiếm Bồng Sơn và Phù Ly, mở đường cho việc hạ thành Quy Nhơn.
@@ -415,9 +416,11 @@
 *   **01/11/1773:** Quân Tây Sơn giành chiến thắng trong trận Bến Đá (Quảng Ngãi).
 *   **22/12/1773:** Trận Bến Ván (Quảng Nam) diễn ra, quân chúa Nguyễn tạm thời đẩy lùi được quân Tây Sơn.
 *   **1773:** Nguyễn Ánh thành lập 3 làng An Hải, An Hội, Cỏ Ống và đặt tên cho quần đảo Côn Đảo là Côn Lôn.
+*   **Đầu năm 1774:** Quân Tây Sơn giết chết 1.600 lính của nhà Nguyễn trong các cuộc giao tranh, cho thấy sự khốc liệt ngày càng tăng của cuộc chiến.
 *   **1774:** Quân Trịnh do Hoàng Ngũ Phúc chỉ huy vượt sông Gianh tiến vào Nam, chiếm được Phú Xuân. Chúa Nguyễn Phúc Thuần phải chạy vào Quảng Nam.
 *   **22/04/1774:** Chúa Nguyễn Phúc Thuần ban hành sắc luật ân xá cho người theo đạo Thiên Chúa, một động thái nhằm thu phục lòng dân trước áp lực của phong trào Tây Sơn.
 *   **30/01/1775 (28 Tết Ất Mùi):** Quân Trịnh vây hãm thành Phú Xuân. Chúa Nguyễn Phúc Thuần buộc phải bỏ kinh thành, mang theo gia quyến và cậu bé Nguyễn Phúc Ánh chạy vào Quảng Nam rồi sau đó vào Gia Định (12/02/1775), đánh dấu sự sụp đổ của chính quyền trung ương chúa Nguyễn.
+*   **1775:** Nguyễn Nhạc áp đặt chỉ tiêu quân dịch nghiêm ngặt, cứ 5 người đàn ông ở mỗi làng thì 1 người phải đi lính, chuyển từ lực lượng tình nguyện sang nghĩa vụ bắt buộc để đối phó với chiến tranh.
 *   **05/1775:** Quân Trịnh tiếp tục chiếm Quảng Nam. Nguyễn Nhạc phải tạm thời xin hàng quân Trịnh để tập trung lực lượng đánh chúa Nguyễn.
 *   **10/1775:** Thống tướng quân Trịnh là Hoàng Ngũ Phúc qua đời trên đường rút quân về Bắc sau chiến dịch Nam tiến không thành công trọn vẹn do dịch bệnh và sự kháng cự dai dẳng.
 *   **07/1775:** Nguyễn Huệ cử nữ tướng Bùi Thị Xuân và tướng Võ Đình Tú đem quân đánh Phú Yên, đánh bại quân chúa Nguyễn do Tống Phúc Hiệp chỉ huy.
@@ -445,13 +448,15 @@
 *   **19/01/1785:** Trận Rạch Gầm - Xoài Mút. Nguyễn Huệ tổ chức trận địa mai phục, đại phá quân Xiêm. Tướng Trần Quang Diệu và Bùi Thị Xuân chỉ huy bộ binh, tướng Lê Văn Hưng lập công đầu bắt sống tướng Nguyễn Huỳnh Đức.
 *   **1785:** Trong cuộc rút lui hỗn loạn sau thất bại, Lê Văn Duyệt đã chiến đấu dũng cảm để bảo vệ Chúa Nguyễn Ánh, giúp ông thoát về Hà Tiên rồi sang Xiêm.
 *   **06/1786:** Lấy danh nghĩa "phù Lê diệt Trịnh", Nguyễn Huệ chỉ huy đại quân Tây Sơn tiến ra Bắc.
+*   **Mùa hè 1786:** Trong trận đánh chiếm Phú Xuân, khoảng 30.000 lính nhà Trịnh đã bị giết.
 *   **21/07/1786:** Quân Tây Sơn tiến vào Thăng Long, lật đổ nền thống trị hơn 200 năm của họ Trịnh một cách nhanh chóng.
 *   **1786:** Chúa Trịnh Tông tự sát khi bị quân Tây Sơn bắt. Trịnh Bồng lên ngôi (Án Đô Vương) nhưng sau đó bỏ trốn, chấm dứt nghiệp chúa Trịnh.
 *   **1786:** Trong thời gian lưu vong tại Xiêm, Lê Văn Duyệt tham gia cùng quân Xiêm đánh quân Miến Điện xâm lược tại Sài Nặc. Ông đã sử dụng chiến thuật dùng "ống phun lửa" để làm hoảng sợ voi và ngựa chiến của địch, góp phần vào chiến thắng.
 *   **Cuối 1786:** Nguyễn Huệ được vua Lê gả công chúa Ngọc Hân. Anh em Tây Sơn chia nhau cai quản đất nước: Nguyễn Nhạc là Trung ương Hoàng đế (từ Quảng Nam vào Bình Thuận), Nguyễn Huệ là Bắc Bình vương (cai quản Thuận Hóa từ đèo Hải Vân ra Bắc), Nguyễn Lữ là Đông Định vương (cai quản vùng Gia Định).
 *   **1787:** Mâu thuẫn giữa Nguyễn Nhạc và Nguyễn Huệ nổ ra. Nguyễn Huệ đem quân vây thành Hoàng Đế, buộc Nguyễn Nhạc phải nhượng thêm đất Quảng Nam.
-*   **21/02/1787:** Cuộc nội chiến "huynh đệ tương tàn" giữa Nguyễn Nhạc và Nguyễn Huệ bùng nổ. Nguyễn Huệ đem quân vây hãm anh trai tại thành Quy Nhơn (thành Hoàng Đế). Nguyễn Nhạc bị vây khốn, phải lên thành khóc lóc xin em giải vây. Sự kiện này, được gọi là "nồi da xáo thịt", đã làm suy yếu nghiêm trọng triều đại Tây Sơn.
+*   **21/02/1787:** Cuộc nội chiến "huynh đệ tương tàn" giữa Nguyễn Nhạc và Nguyễn Huệ bùng nổ. Nguyễn Huệ đem quân vây hãm anh trai tại thành Quy Nhơn. Trong cuộc xung đột này, Nguyễn Nhạc đã mất khoảng 40.000 quân. Nguyễn Nhạc bị vây khốn, phải lên thành khóc lóc xin em giải vây. Sự kiện này, được gọi là "nồi da xáo thịt", đã làm suy yếu nghiêm trọng triều đại Tây Sơn.
 *   **21/11/1787:** Trong Hiệp ước Versailles, Nguyễn Ánh đồng ý nhường cửa biển Đà Nẵng và quần đảo Côn Lôn cho Pháp để đổi lấy sự hỗ trợ, nhưng hiệp ước này không thành hiện thực.
+*   **Đầu năm 1788:** Dân chúng ở Đàng Ngoài (Bắc Hà) bắt đầu thể hiện sự bất mãn và căm ghét đối với các quan lại mới của chính quyền Tây Sơn.
 *   **Tháng 4/1788:** Nguyễn Huệ ra Thăng Long giết Vũ Văn Nhậm (sau khi Nhậm diệt Nguyễn Hữu Chỉnh) để dẹp loạn và củng cố quyền lực phía Bắc trước khi quân Thanh sang.
 *   **01/1788:** Tướng Tây Sơn Vũ Văn Nhậm tiến quân ra Bắc, bắt và giết Nguyễn Hữu Chỉnh tại Thăng Long, chấm dứt nỗ lực xây dựng quyền lực riêng của Chỉnh.
 *   **05/1788:** Nguyễn Huệ thần tốc tiến quân ra Bắc, xử tử Vũ Văn Nhậm vì tội chuyên quyền và có ý đồ phản loạn, củng cố sự kiểm soát của mình đối với Bắc Hà.
@@ -467,7 +472,8 @@
 *   **1790:** Phái đoàn sứ giả do "Vua giả" (Phạm Văn Trị đóng giả Nguyễn Huệ) dẫn đầu sang Trung Quốc cầu phong và dự lễ mừng thọ vua Càn Long, thực hiện thắng lợi đường lối ngoại giao mềm dẻo.
 *   **03/1790:** Dưới sự chỉ đạo của Nguyễn Ánh, các kỹ sư phương Tây là Olivier de Puynamel và Le Brun bắt đầu xây dựng **thành Gia Định** (thành Bát Quái) theo kiểu Vauban. Đây là một công trình phòng thủ kiên cố, đóng vai trò quan trọng trong việc bảo vệ căn cứ địa của quân Nguyễn.
 *   **1791:** Vua Quang Trung cho lập **Viện Sùng Chính** do La Sơn Phu Tử Nguyễn Thiếp đứng đầu. Đây là sự kiện quan trọng đánh dấu việc lần đầu tiên **chữ Nôm** được đưa lên làm văn tự chính thức của quốc gia dùng trong chiếu biểu, thi cử, thay thế vị trí độc tôn của chữ Hán.
-*   **1792:** Vua Quang Trung chuẩn bị đại binh để tấn công Gia Định, tiêu diệt hoàn toàn lực lượng Nguyễn Ánh, nhưng kế hoạch bị hủy bỏ do vua đột ngột băng hà.
+*   **1791:** Quân Tây Sơn thực hiện cuộc xâm lược quy mô lớn sang Lào. Cùng thời gian này, các ghi chép lịch sử cho thấy sự bất mãn ngày càng tăng của dân chúng ở cả vùng Tây Sơn kiểm soát và vùng Nguyễn Ánh kiểm soát do gánh nặng chiến tranh.
+*   **1792:** Vua Quang Trung chuẩn bị kế hoạch cho một chiến dịch quân sự lớn. Theo đó, trước hết sẽ tấn công Trung Quốc để thu hồi hai tỉnh Quảng Đông và Quảng Tây, sau đó sẽ dốc toàn lực tấn công tiêu diệt lực lượng Nguyễn Ánh. Tuy nhiên, kế hoạch bị hủy bỏ do vua đột ngột băng hà.
 *   **07/1792:** Thủy quân Nguyễn Ánh, với sự hỗ trợ của các tàu chiến và kỹ thuật phương Tây, đã thực hiện cuộc tấn công bất ngờ vào cửa **Thị Nại**, tiêu diệt nhiều thuyền chiến của Tây Sơn. Đây là thắng lợi quan trọng đầu tiên của thủy quân Nguyễn đã được hiện đại hóa.
 *   **16/09/1792 (29 tháng 7 âm lịch):** Vua Quang Trung đột ngột qua đời ở tuổi 40. Con trai là Nguyễn Quang Toản (10 tuổi) lên kế vị, lấy niên hiệu là Cảnh Thịnh.
 *   **1793:** Nguyễn Ánh tấn công Quy Nhơn. Nguyễn Nhạc cầu cứu Phú Xuân. Quân của Quang Toản vào giải vây rồi chiếm luôn thành Quy Nhơn. Nguyễn Nhạc uất hận mà chết.
@@ -489,7 +495,7 @@
 *   **01/1802:** Trận chiến ác liệt tại Trấn Ninh và Đâu Mâu (Quảng Bình). Nữ tướng Bùi Thị Xuân chỉ huy tượng binh chiến đấu dũng cảm. Nữ tướng Huỳnh Thị Cúc đã hy sinh thân mình để chặn hậu cho vua Cảnh Thịnh rút lui.
 *   **16/06/1802:** Trên đường rút chạy ra Bắc, tại Xương Giang, Đô đốc Tuyết (Nguyễn Văn Tuyết) tử trận khi bảo vệ vua Cảnh Thịnh. Thái hậu Bùi Thị Nhạn cùng các nữ tướng Trần Thị Lan, Nguyễn Thị Dung đều tự sát để giữ tròn khí tiết.
 *   **06/1802:** Sau khi thành Bình Định thất thủ, Nguyễn Ánh chính thức lên ngôi Hoàng đế ở Phú Xuân, đặt niên hiệu là Gia Long.
-*   **20/07/1802:** Quân Nguyễn tiến ra chiếm được Thăng Long, bắt được vua Cảnh Thịnh. Các danh tướng bị hành quyết tàn khốc. Theo sách *Nhà Tây Sơn*, Trần Quang Diệu bị lột da, Võ Văn Dũng bị xử trảm, còn nữ tướng Bùi Thị Xuân vì uy nghi khiến voi không dám giày nên bị hành hình bằng cách "điểm thiên đăng" (tẩm sáp đốt). Triều đại Tây Sơn chính thức sụp đổ.
+*   **20/07/1802:** Quân Nguyễn tiến ra chiếm được Thăng Long. Trước đó, quân Nguyễn đã bắt người dân Bắc Hà đóng góp nhiều khoản nặng nề, gây ra sự bất mãn ngay từ đầu. Vua Cảnh Thịnh bị bắt. Các danh tướng bị hành quyết tàn khốc. Theo sách *Nhà Tây Sơn*, Trần Quang Diệu bị lột da, Võ Văn Dũng bị xử trảm, còn nữ tướng Bùi Thị Xuân vì uy nghi khiến voi không dám giày nên bị hành hình bằng cách "điểm thiên đăng" (tẩm sáp đốt). Triều đại Tây Sơn chính thức sụp đổ.
 *   **20/07/1802:** Nguyễn Ánh tiến vào thành Thăng Long, hoàn thành việc thống nhất đất nước và chính thức chấm dứt triều đại Tây Sơn. Đây là sự kiện mở đầu cho triều đại nhà Nguyễn cai trị một nước Việt Nam thống nhất từ Bắc chí Nam.
 
 ### **Thời kỳ Nhà Nguyễn (1802 - 1858)**
