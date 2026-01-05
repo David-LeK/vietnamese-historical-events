@@ -137,6 +137,8 @@
 *   **1242:** The court carried out administrative reforms, dividing the country into 12 routes (lo).
 *   **1250:** King Tran Thai Tong issued a decree requiring the people to address the King as "Quoc gia" (The Nation/State) to elevate the King's position and national unity.
 *   **1252:** Tran Thai Tong personally led a campaign against Champa.
+*   **Jun. 1253:** King Tran Thai Tong established the **Quoc Hoc Vien** (National Academy) for scholars to lecture on the Classics.
+*   **Aug. 1253:** The **Giang Vo Duong** (Military Academy) was established to train in martial arts, marking a formalization of military education.
 *   **Aug. 1257:** A Mongol envoy came to Dai Viet for the first time to demand submission.
 *   **Sep. 1257:** King Tran Thai Tong issued a decree commanding generals to lead troops to guard the borders under the command of Tran Quoc Tuan (Tran Hung Dao).
 *   **Jan. 17, 1258:** Battle of Binh Le Nguyen. King Tran Thai Tong directly commanded the army against the Mongol invasion led by Uriyangkhadai.
@@ -277,13 +279,14 @@
 *   **1443 - 1459:** Phan Phu Tien compiled the *Đại Việt sử ký tục biên* (Continued History of Dai Viet) from Le Van Huu's *Đại Việt sử ký* (History of Dai Viet).
 *   **1460:** Nghi Dan usurped the throne. The Six Ministries (Lại, Hộ, Lễ, Binh, Hình, Công - Personnel, Finance, Rites, War, Justice, Public Works) and Six Offices of Scrutiny were established for the first time.
 *   **Jun. 1460:** High-ranking officials Nguyen Xi and Dinh Liet staged a coup, overthrew Nghi Dan, and placed Le Tu Thanh on the throne (Le Thanh Tong).
-*   **1463:** A doctoral examination was held, Luong The Vinh ranked as Trang Nguyen (First Laureate).
-*   **1466:** Le Thanh Tong divided the country into 12 Thua Tuyen provinces, reorganizing the administrative system.
+*   **1463:** A doctoral examination was held, Luong The Vinh ranked as Trang Nguyen (First Laureate). The triennial cycle for metropolitan examinations was officially established.
+*   **1466:** Le Thanh Tong divided the country into 12 Thua Tuyen provinces. He established the **Five Military Commissions** (Ngu Phu) and consolidated the Six Ministries system, reorganizing the administrative and military structure.
 *   **1469:** King Le Thanh Tong ordered the mapping of the 12 Thua Tuyen provinces. Thua Tuyen Nam Sach was renamed Thua Tuyen Hai Duong; this was the first time the name "Hai Duong" appeared.
 *   **Jun. 1471:** Le Thanh Tong personally led a campaign against Champa, capturing Do Ban Citadel and King Tra Toan. The 13th Thua Tuyen province, Quang Nam, was added.
 *   **1479:** The historical chronicle *Dai Viet sử ký toàn thư* (Complete History of Dai Viet) was first completed by Ngo Si Lien.
 *   **1479:** During the war with Lan Xang (1478 - 1480), Dai Viet forces advanced deep into Lao territory, capturing the capital Luang Prabang.
 *   **1483:** The court promulgated the *Quoc trieu hinh luat* (National Dynasty's Penal Code), commonly known as the Hong Duc Code.
+*   **1484:** King Le Thanh Tong ordered the erection of stone steles at the Temple of Literature to record the names of successful doctoral candidates, retroactively starting from the 1442 examination.
 *   **1490:** The map of the 13 provinces of the country was redefined.
 *   **1497:** King Le Thanh Tong passed away. Le Hien Tong ascended the throne.
 *   **16th century:** Catholicism began to be introduced, with the arrival of Franciscan and Dominican missionaries.

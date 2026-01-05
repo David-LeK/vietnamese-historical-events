@@ -137,6 +137,8 @@
 *   **1242:** Triều đình tiến hành cải cách hành chính, chia cả nước thành 12 lộ.
 *   **1250:** Vua Trần Thái Tông xuống chiếu cho thiên hạ gọi vua là "Quốc gia" để đề cao vị thế nhà vua và tính thống nhất của đất nước.
 *   **1252:** Trần Thái Tông thân chinh đánh Champa.
+*   **06/1253:** Vua Trần Thái Tông cho lập **Quốc học viện** để giảng dạy Tứ thư, Ngũ kinh cho các nho sĩ.
+*   **08/1253:** Vua Trần Thái Tông cho lập **Giảng võ đường** để đào tạo võ quan, đánh dấu sự chú trọng vào giáo dục quân sự.
 *   **08/1257:** Sứ Mông Cổ đến Đại Việt lần đầu tiên để dụ hàng.
 *   **09/1257:** Vua Trần Thái Tông xuống chiếu, lệnh cho các tướng đem quân thủy bộ ra ngăn giữ biên giới phía Bắc dưới sự tiết chế của Quốc công Trần Quốc Tuấn (Trần Hưng Đạo).
 *   **17/01/1258:** Trận Bình Lệ Nguyên. Vua Trần Thái Tông trực tiếp chỉ huy quân đội chống lại cuộc xâm lược của Mông Cổ do Ngột Lương Hợp Thai chỉ huy.
@@ -277,13 +279,14 @@
 *   **1443 - 1459:** Phan Phu Tiên biên soạn *Đại Việt sử ký tục biên* từ *Đại Việt sử ký* của Lê Văn Hưu.
 *   **1460:** Nghi Dân cướp ngôi. Lần đầu tiên đặt ra Lục bộ (Lại, Hộ, Lễ, Binh, Hình, Công) và Lục khoa.
 *   **06/1460:** Các đại thần Nguyễn Xí, Đinh Liệt làm binh biến, lật đổ Nghi Dân, đưa Lê Tư Thành lên ngôi vua (Lê Thánh Tông).
-*   **1463:** Mở khoa thi Tiến sĩ, Lương Thế Vinh đỗ Trạng nguyên.
-*   **1466:** Lê Thánh Tông chia cả nước thành 12 đạo Thừa tuyên, cải tổ lại bộ máy hành chính.
+*   **1463:** Mở khoa thi Tiến sĩ, Lương Thế Vinh đỗ Trạng nguyên. Bắt đầu định lệ 3 năm mở một khoa thi Hội.
+*   **1466:** Lê Thánh Tông chia cả nước thành 12 đạo Thừa tuyên. Bắt đầu đặt **Năm phủ** (Ngũ phủ quân) và kiện toàn Sáu bộ để thống nhất quản lý quân sự và hành chính.
 *   **1469:** Vua Lê Thánh Tông cho định bản đồ 12 thừa tuyên trong cả nước. Thừa tuyên Nam Sách đổi tên thành Thừa tuyên Hải Dương, danh xưng "Hải Dương" chính thức xuất hiện.
 *   **06/1471:** Lê Thánh Tông thân chinh đánh Champa, hạ thành Đồ Bàn, bắt vua Trà Toàn. Đặt thêm đạo Thừa tuyên thứ 13 là Quảng Nam.
 *   **1479:** Bộ sách *Đại Việt sử ký toàn thư* lần đầu được hoàn thành bởi Ngô Sĩ Liên.
 *   **1479:** Trong cuộc chiến với Lan Xang (1478 - 1480), quân đội Đại Việt tiến sâu vào đất Lào, chiếm kinh đô Luang Prabang, đẩy lùi quân Lan Xang.
 *   **1483:** Triều đình ban hành bộ luật *Quốc triều hình luật* (thường gọi là Luật Hồng Đức).
+*   **1484:** Vua Lê Thánh Tông ra lệnh dựng bia Tiến sĩ tại Văn Miếu để ghi danh các người đỗ đạt từ khoa thi năm 1442, tôn vinh nhân tài và khuyến khích sự học.
 *   **1490:** Định lại bản đồ 13 xứ trong cả nước.
 *   **1497:** Vua Lê Thánh Tông mất. Lê Hiến Tông lên ngôi.
 *   **Thế kỷ XVI:** Công giáo bắt đầu du nhập, với sự xuất hiện của các nhà truyền giáo Dòng Phan-Xi-Cô và Đa Minh.
