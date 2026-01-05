@@ -576,13 +576,17 @@
 *   **Mar. 1835:** The uprising leader Nong Van Van was killed at Tham Bat mountain (Tuyen Quang), ending the rebellion in the northern border region.
 *   **1835:** Emperor Minh Mang performed the "Om Goi" (Embracing Knees) ceremony for the first time to honor victorious generals (Pham Van Dien, Ta Quang Cu, Le Van Duc) upon their return from the Northern campaign.
 *   **Oct. 1835:** The casting of the **Nine Dynastic Urns** (Cuu Dinh) began (completed in May 1836). They were placed in front of the The Mieu (Ancestral Temple) in Hue.
+*   **Mar. 1837:** The **Nine Dynastic Urns** (Cuu Dinh) were officially placed in the courtyard of the The Mieu (Ancestral Temple) in the Imperial City of Hue.
 *   **1836:** The Ton Nhan Phu (Imperial Clan Court) was established to manage royal family affairs. The Privy Council was divided into two boards: Nam chuong kinh (Southern Affairs) and Bac chuong kinh (Northern Affairs).
 *   **1836:** King Minh Mang sent Navy Captain **Pham Huu Nhat** to the **Hoang Sa Archipelago** (Paracel Islands) to survey sea routes, draw maps, and plant wooden markers to assert sovereignty.
 *   **1836:** A major land survey (*dia ba*) was conducted in the six provinces of Nam Ky (Cochinchina) under the direction of High Commissioners Truong Dang Que and Ton That Bach to establish land registers.
 *   **1836:** **Tay Ninh Prefecture** was established (part of Gia Dinh province).
 *   **1836:** Emperor Minh Mang decreed a 9-rank system for the imperial harem (Nine Ranks of Imperial Concubines) and established specific ranks and regulations for eunuchs to limit their power.
 *   **1838:** In the aftermath of the Le Van Khoi revolt, the court executed Le Van Duyet's descendants, Le Van Yen and Le Van Te, while other relatives were exiled, despite Le Van Duyet having passed away years prior.
-*   **1839:** Emperor Minh Mang reformed the salary system for officials; the first steamship built by Vietnamese was successfully constructed.
+*   **Mar. 1838:** Emperor Minh Mang officially changed the national title to **Dai Nam**.
+*   **Apr. 1839:** The first steamship built by Vietnamese mechanics (Hoang Van Lich, Vu Huy Trinh) was successfully tested on the Perfume River.
+*   **Jun. 1839:** Emperor Minh Mang ordered the implementation of the **"Quan dien"** (Equal-field) land reform in Binh Dinh province, redistributing communal land to the people.
+*   **Jan. 20, 1841:** Emperor Minh Mang passed away.
 *   **1841 - 1842:** The uprising of the Khmer people led by Lam Sam in Lac Hoa, Tra Vinh.
 *   **1841 - 1842:** Uprisings in the Ha Am - Ha Duong region (An Giang, Ha Tien).
 *   **1841:** Emperor Thieu Tri issued a decree restoring the titles and honor of Le Van Duyet, ordering the removal of the humiliating stone stele and chains at his tomb.
