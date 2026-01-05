@@ -648,8 +648,14 @@
 *   **Dec. 21, 1873:** First Battle of Cau Giay. The Black Flag Army of Liu Yongfu, in coordination with the troops of Hoang Ta Viem, ambushed and killed Francis Garnier.
 *   **Feb. 1874:** French forces withdrew from Hanoi and the other occupied cities in Tonkin.
 *   **Mar. 15, 1874:** The Hue court signed the Treaty of Giap Tuat, recognizing France's permanent sovereignty over the six provinces of Cochinchina and agreeing to open Tonkin to French trade and the stationing of a Consul.
+*   **Aug. 31, 1874:** The Commercial Treaty was signed in Saigon, regulating trade duties and regulations at the newly opened ports of Thi Nai (Binh Dinh), Ninh Hai (Hai Duong), and Hanoi.
+*   **1874:** The uprising of Tran Tan and Dang Nhu Mai broke out in Nghe An and Ha Tinh with the slogan "Sat Ta" (Kill the Heretics), opposing the Treaty of Giap Tuat and the spread of Catholicism.
+*   **Late 1875:** The Hue court established the **Coastal Defense Office** (Nha Hai Phong) at Thuan An estuary and the **Patrol and Transport Office** (Nha Tuan Tai) to strengthen coastal defense and manage water transport.
+*   **Oct. 1876:** The **My Duc Circuit** (Dao My Duc) was established to reinforce defense and land reclamation in the Hanoi and Son Tay region.
 *   **Apr. 6, 1878:** Decree 82, signed by the Governor of Cochinchina Lafont, set a four-year deadline to fully transition to chữ Quốc ngữ.
+*   **Feb. 1880:** The **Lang Giang Circuit** (Bac Ninh) and **Doan Hung Circuit** (Son Tay/Tuyen Quang) were established to strengthen border defense.
 *   **1880:** The Hue court sent envoys to the Qing court to present tribute, maintaining diplomatic relations with China despite the 1874 Treaty with France.
+*   **Feb. 1881:** The **Ship Administration Bureau** (Cuc Thuyen Chinh) was established to manage state vessels and water transport.
 *   **Jan. 1, 1882:** All official dispatches and public notices were required to be written in chữ Quốc ngữ. Concurrently, only those literate in chữ Quốc ngữ could be appointed to administrative bodies (at the prefecture, district, and canton levels) or be considered for promotion.
 *   **Jan. 30, 1882:** The Governor of Cochinchina issued a decree requiring official documents to be written in French. If chữ Quốc ngữ was used, it had to be accompanied by a French translation.
 *   **Apr. 3, 1882:** Colonel Henri Rivière landed in Hanoi, beginning the second invasion of Tonkin.
@@ -662,6 +668,7 @@
 *   **Aug. 25, 1883:** The Hue court signed the Treaty of Quy Mui (Harmand Treaty), officially recognizing the French protectorate over all of Vietnam.
 *   **Dec. 1883:** French forces attacked and captured Son Tay Citadel.
 *   **Nov. 29, 1883:** Emperor Hiep Hoa was forced to commit suicide by the regents. Kien Phuc was enthroned.
+*   **Nov. 30, 1883:** Regents Nguyen Van Tuong and Ton That Thuyet ordered the execution of Regent Tran Tien Thanh due to disagreements over the royal succession and foreign policy.
 *   **1884 - 1945:** France continued to administer the Spratly and Paracel Islands as territories of French Indochina.
 *   **Mar. 12, 1884:** French forces captured Bac Ninh Citadel.
 *   **May 11, 1884:** France and the Qing dynasty signed the Tientsin Accord, in which the Qing agreed to withdraw their troops from Tonkin.

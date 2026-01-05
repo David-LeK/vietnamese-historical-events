@@ -647,9 +647,15 @@
 *   **20/11/1873:** Lấy cớ giải quyết vụ Dupuis, Francis Garnier đem quân tấn công và chiếm thành Hà Nội lần thứ nhất.
 *   **21/12/1873:** Trận Cầu Giấy lần thứ nhất. Quân Cờ Đen của Lưu Vĩnh Phúc phối hợp với quân của Hoàng Tá Viêm phục kích, giết chết Francis Garnier.
 *   **02/1874:** Quân Pháp rút khỏi Hà Nội và các tỉnh thành đã chiếm ở Bắc Kỳ.
-*   **15/03/1874:** Triều đình Huế ký Hòa ước Giáp Tuất, công nhận chủ quyền vĩnh viễn của Pháp ở 6 tỉnh Nam Kỳ, chấp nhận để Pháp mở cửa thông thương ở Bắc Kỳ và đặt Lãnh sự.
+*   **15/03/1874:** Triều đình Huế ký Hòa ước Giáp Tuất, công nhận chủ quyền vĩnh viễn của Pháp ở 6 tỉnh Nam Kỳ, chấp nhận để Pháp mở cửa thông thương ở Bắc Kỳ và đặt Lãnh sự. Chính thức mở các cửa biển Thị Nại (Bình Định), Ninh Hải (Hải Dương) và thành phố Hà Nội cho thương nhân nước ngoài.
+*   **31/08/1874:** Ký kết Thương ước giữa Đại Nam và Pháp tại Sài Gòn, quy định chi tiết về thuế quan và quy chế thương mại tại các cửa biển mới mở.
+*   **1874:** Cuộc khởi nghĩa của Trần Tấn và Đặng Như Mai nổ ra ở Nghệ An và Hà Tĩnh với khẩu hiệu "Sát Tả", phản đối Hòa ước Giáp Tuất và sự lan truyền của đạo Thiên Chúa.
+*   **Cuối 1875:** Triều đình thành lập **Nha Hải phòng** tại cửa biển Thuận An và **Nha Tuần tải** để tăng cường phòng thủ bờ biển và quản lý vận tải đường thủy.
+*   **10/1876:** Thành lập **đạo Mỹ Đức** (gồm các huyện Chương Đức, Hoài Yên, Mỹ Lương thuộc Hà Nội và Sơn Tây) để tăng cường phòng bị và khai khẩn.
 *   **6/4/1878:** Nghị định 82 do Thống đốc Nam Kỳ Lafont ký đã đề ra mốc hẹn bốn năm phải chuyển hẳn sang chữ quốc ngữ.
+*   **02/1880:** Thành lập **đạo Lạng Giang** (Bắc Ninh) và **đạo Đoan Hùng** (Sơn Tây/Tuyên Quang) để củng cố an ninh biên giới phía Bắc.
 *   **1880:** Triều đình Huế sai sứ sang nhà Thanh dâng biểu xưng thần, tiếp tục quan hệ bang giao với Trung Quốc bất chấp Hòa ước 1874 với Pháp.
+*   **02/1881:** Thành lập **Cục Thuyền chính** để chuyên trách quản lý tàu thuyền và vận tải đường thủy của nhà nước.
 *   **01/01/1882:** Mọi công văn, văn bản niêm yết đều phải viết bằng chữ quốc ngữ. Đồng thời, chỉ người biết chữ quốc ngữ mới được bổ nhiệm vào cơ quan cai trị (cấp phủ, huyện, tổng) hoặc được xét tăng trật.
 *   **30/01/1882:** Thống đốc Nam Kỳ ra nghị định buộc công văn phải viết bằng tiếng Pháp. Nếu dùng chữ quốc ngữ, bắt buộc phải kèm theo bản dịch tiếng Pháp.
 *   **03/04/1882:** Đại tá Henri Rivière đổ bộ lên Hà Nội, bắt đầu cuộc xâm lược Bắc Kỳ lần thứ hai.
@@ -662,6 +668,7 @@
 *   **25/08/1883:** Triều đình Huế ký Hòa ước Quý Mùi (Hiệp ước Harmand), chính thức công nhận nền bảo hộ của Pháp trên toàn cõi Việt Nam.
 *   **12/1883:** Quân Pháp tấn công và chiếm thành Sơn Tây.
 *   **29/11/1883:** Vua Hiệp Hoà bị các quyền thần ép uống thuốc độc tự vẫn. Kiến Phúc được đưa lên ngôi vua.
+*   **30/11/1883:** Hai Phụ chính đại thần Nguyễn Văn Tường và Tôn Thất Thuyết ra lệnh giết hại Phụ chính đại thần Trần Tiễn Thành do bất đồng chính kiến về việc phế lập vua và chủ trương đối ngoại.
 *   **1884 - 1945:** Pháp tiếp tục quản lý hai quần đảo Hoàng Sa và Trường Sa với tư cách là lãnh thổ của Liên bang Đông Dương thuộc Pháp.
 *   **12/03/1884:** Quân Pháp chiếm thành Bắc Ninh.
 *   **11/05/1884:** Pháp và nhà Thanh ký Quy ước Thiên Tân, nhà Thanh đồng ý rút quân khỏi Bắc Kỳ.
