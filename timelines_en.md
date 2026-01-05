@@ -587,9 +587,18 @@
 *   **Apr. 1839:** The first steamship built by Vietnamese mechanics (Hoang Van Lich, Vu Huy Trinh) was successfully tested on the Perfume River.
 *   **Jun. 1839:** Emperor Minh Mang ordered the implementation of the **"Quan dien"** (Equal-field) land reform in Binh Dinh province, redistributing communal land to the people.
 *   **Jan. 20, 1841:** Emperor Minh Mang passed away.
+*   **Feb. 11, 1841:** Emperor Thieu Tri ascended the throne at the Thai Hoa Palace.
 *   **1841 - 1842:** The uprising of the Khmer people led by Lam Sam in Lac Hoa, Tra Vinh.
 *   **1841 - 1842:** Uprisings in the Ha Am - Ha Duong region (An Giang, Ha Tien).
 *   **1841:** Emperor Thieu Tri issued a decree restoring the titles and honor of Le Van Duyet, ordering the removal of the humiliating stone stele and chains at his tomb.
+*   **1842:** Emperor Thieu Tri conducted the "Northern Inspection Tour" (Ngu gia Bac tuan) to Hanoi to assess the situation in the North and receive investiture from the Qing dynasty.
+*   **1843:** The province name **Thanh Hoa** was officially changed from "Thanh Hoa" (using the character for 'flower') to "Thanh Hoa" (using the character for 'transform') to avoid the naming taboo of Empress Ho Thi Hoa.
+*   **1845:** Official Dao Tri Phu returned from a diplomatic mission to the West and presented the steamship **"Dien Phi"** to Emperor Thieu Tri, marking an effort to modernize the navy.
+*   **Late 1845:** The Siamese-Vietnamese War (1841-1845) concluded; King Ang Duong of Cambodia submitted to the Nguyen court.
+*   **1846:** Emperor Thieu Tri officially invested Ang Duong as the King of Cambodia (Cao Mien Quoc Vuong).
+*   **Apr. 15, 1847:** French warships *Gloire* and *Victorieuse* bombarded the Vietnamese navy at Da Nang harbor, sinking 5 bronze ships. This was the first direct military clash between France and the Nguyen court.
+*   **Nov. 4, 1847:** Emperor Thieu Tri passed away.
+*   **Nov. 10, 1847:** Emperor Tu Duc ascended the throne.
 *   **1848:** Emperor Tu Duc ordered the reconstruction and expansion of Le Van Duyet's tomb and temple (Lang Ong Ba Chieu in Gia Dinh), restoring it to a dignified state.
 *   **1854 - 1855:** The uprising of scholars and peasants initiated by Cao Ba Quat in the Son Tay and Hanoi regions.
 *   **Sep. 1, 1858:** A French-Spanish coalition force opened fire on the Son Tra peninsula (Da Nang), officially beginning the invasion of Vietnam.

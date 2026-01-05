@@ -587,9 +587,18 @@
 *   **04/1839:** Chiếc tàu thủy chạy bằng hơi nước đầu tiên do người Việt Nam (Hoàng Văn Lịch, Vũ Huy Trinh) chế tạo được chạy thử nghiệm thành công trên sông Hương.
 *   **06/1839:** Vua Minh Mạng cho thực hiện phép **"Quân điền"** tại tỉnh Bình Định, chia lại ruộng đất công cho dân.
 *   **20/01/1841:** Vua Minh Mạng băng hà.
-*   **1841 - 1842:** Cuộc nổi dậy của người Khơme do Lâm Sâm lãnh đạo ở Lạc Hóa, Trà Vinh.
+*   **11/02/1841:** Vua Thiệu Trị chính thức lên ngôi Hoàng đế tại điện Thái Hòa.
+*   **1841 - 1842:** Cuộc khởi nghĩa của người Khơme do Lâm Sâm lãnh đạo ở Lạc Hóa, Trà Vinh.
 *   **1841 - 1842:** Các cuộc nổi dậy ở vùng Hà Âm - Hà Dương (An Giang, Hà Tiên).
 *   **1841:** Vua Thiệu Trị ban chiếu minh oan, phục hồi quan tước cho Lê Văn Duyệt, sai dỡ bỏ bia đá và xiềng xích tại mộ phần của ông.
+*   **1842:** Vua Thiệu Trị thực hiện chuyến "Ngự giá Bắc tuần" ra Hà Nội để xem xét tình hình Bắc Hà và làm lễ thụ phong của nhà Thanh.
+*   **1843:** Đổi tên tỉnh Thanh Hoa thành tỉnh **Thanh Hóa** để kiêng húy tên của Tá Thiên Nhân Hoàng hậu (Hồ Thị Hoa).
+*   **1845:** Quan Tham tri Đào Trí Phú đi sứ phương Tây trở về, dâng lên vua Thiệu Trị chiếc tàu chạy bằng hơi nước hiệu **"Điện Phi"**.
+*   **Cuối 1845:** Chiến tranh Việt - Xiêm (1841 - 1845) kết thúc; vua Chân Lạp là Nặc Ông Giun (Ang Duong) dâng biểu xin thần phục nhà Nguyễn.
+*   **1846:** Vua Thiệu Trị chính thức sắc phong Nặc Ông Giun làm Cao Miên Quốc vương, phong Ngọc Vân làm Cao Miên Quận chúa.
+*   **15/04/1847:** Hai chiến hạm Pháp là *Gloire* và *Victorieuse* gây hấn và nổ súng tấn công thủy quân nhà Nguyễn tại cửa biển Đà Nẵng, bắn chìm 5 tàu đồng. Đây là cuộc đụng độ quân sự trực tiếp đầu tiên giữa Pháp và triều đình Huế.
+*   **04/11/1847:** Vua Thiệu Trị băng hà.
+*   **10/11/1847:** Vua Tự Đức lên ngôi.
 *   **1848:** Vua Tự Đức ra lệnh xây đắp lại mộ phần và miếu thờ Lê Văn Duyệt (Lăng Ông Bà Chiểu) cho khang trang, rộng rãi hơn.
 *   **1854 - 1855:** Cuộc nổi dậy của sĩ phu và nông dân do Cao Bá Quát khởi xướng ở vùng Sơn Tây, Hà Nội.
 *   **01/09/1858:** Liên quân Pháp - Tây Ban Nha nổ súng tấn công bán đảo Sơn Trà (Đà Nẵng), chính thức bắt đầu cuộc xâm lược Việt Nam.
