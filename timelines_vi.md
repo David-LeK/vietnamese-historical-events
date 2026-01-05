@@ -600,7 +600,12 @@
 *   **04/11/1847:** Vua Thiệu Trị băng hà.
 *   **10/11/1847:** Vua Tự Đức lên ngôi.
 *   **1848:** Vua Tự Đức ra lệnh xây đắp lại mộ phần và miếu thờ Lê Văn Duyệt (Lăng Ông Bà Chiểu) cho khang trang, rộng rãi hơn.
+*   **02/1848:** Triều đình bắt đầu cho đúc tiền "Tự Đức thông bảo" và hoàn thành bộ sách *Thế Tổ Cao Hoàng đế thực lục chính biên*.
+*   **03/1850:** Vua Tự Đức cho mở tòa Kinh Diên (nơi vua nghe giảng sách) và thành lập viện Tập Hiền.
+*   **12/1852:** Vua Tự Đức ra lệnh biên soạn bộ quốc sử *Khâm định Việt sử thông giám cương mục*, do Phan Thanh Giản làm Tổng tài.
+*   **08/1854:** Thành lập Tụ Khuê thư viện tại Hoàng thành Huế để lưu trữ sách vở.
 *   **1854 - 1855:** Cuộc nổi dậy của sĩ phu và nông dân do Cao Bá Quát khởi xướng ở vùng Sơn Tây, Hà Nội.
+*   **1856:** Tàu chiến Pháp *Catinat* đến gây hấn tại cửa biển Đà Nẵng, bắn phá các pháo đài.
 *   **01/09/1858:** Liên quân Pháp - Tây Ban Nha nổ súng tấn công bán đảo Sơn Trà (Đà Nẵng), chính thức bắt đầu cuộc xâm lược Việt Nam.
 *   **02/09/1858:** Liên quân Pháp - Tây Ban Nha tấn công và chiếm được đồn Điện Hải.
 

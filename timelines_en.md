@@ -600,7 +600,12 @@
 *   **Nov. 4, 1847:** Emperor Thieu Tri passed away.
 *   **Nov. 10, 1847:** Emperor Tu Duc ascended the throne.
 *   **1848:** Emperor Tu Duc ordered the reconstruction and expansion of Le Van Duyet's tomb and temple (Lang Ong Ba Chieu in Gia Dinh), restoring it to a dignified state.
+*   **Feb. 1848:** The court began minting "Tu Duc Thong Bao" coins and completed the *Veritable Records of Emperor Gia Long*.
+*   **Mar. 1850:** Emperor Tu Duc established the **Kinh Dien** (Royal Lecture Hall) and the **Tap Hien Institute** for royal education and academic discussion.
+*   **Dec. 1852:** Emperor Tu Duc ordered the compilation of the **"Kham dinh Viet su thong giam cuong muc"** (The Imperially Ordered Mirror of Viet History Text and Commentary), appointing Phan Thanh Gian as the Chief Editor.
+*   **Aug. 1854:** The **Tu Khue Library** was established within the Imperial Citadel to store royal books and documents.
 *   **1854 - 1855:** The uprising of scholars and peasants initiated by Cao Ba Quat in the Son Tay and Hanoi regions.
+*   **1856:** The French warship *Catinat* arrived at Da Nang and bombarded Vietnamese forts.
 *   **Sep. 1, 1858:** A French-Spanish coalition force opened fire on the Son Tra peninsula (Da Nang), officially beginning the invasion of Vietnam.
 *   **Sep. 2, 1858:** The French-Spanish coalition force attacked and captured Dien Hai fortress.
 
