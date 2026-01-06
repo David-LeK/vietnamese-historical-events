@@ -440,6 +440,7 @@
 *   **19/09/1777:** Tân Chính vương Nguyễn Phúc Dương bị quân Tây Sơn bắt và giết tại Ba Vác.
 *   **18/10/1777:** Chúa Nguyễn Phúc Thuần (Duệ Tông) bị quân Tây Sơn bắt và giết tại Long Xuyên. Nguyễn Ánh may mắn thoát chết trong cuộc truy sát này, trở thành người kế thừa duy nhất của dòng họ Nguyễn để tiếp tục cuộc chiến.
 *   **1778:** Nguyễn Nhạc lên ngôi Hoàng đế, xưng là Minh Đức Hoàng Đế, đặt niên hiệu Thái Đức. Ông cho mở rộng quy mô thành Đồ Bàn cũ, xây dựng tráng lệ và đổi tên thành **Hoàng Đế thành** để làm kinh đô.
+*   **Mùa Xuân 1778:** Nguyễn Ánh được các tướng tôn làm **Đại Nguyên soái** tại Sài Gòn, tạm quyền coi việc nước.
 *   **1778:** Nữ tướng Bùi Thị Xuân tổ chức và huấn luyện 4 lữ đoàn nữ binh cùng đội tượng binh thiện chiến, đóng góp lớn vào sức mạnh quân đội Tây Sơn.
 *   **1778:** Cùng với Bùi Thị Xuân, các nữ tướng Trần Thị Lan, Nguyễn Thị Dung, Huỳnh Thị Cúc trực tiếp chỉ huy các lữ đoàn nữ binh. Tướng Lê Văn Hưng đánh bại quân Nguyễn do Lê Văn Quân chỉ huy tại Diên Khánh và Bình Thuận, khiến quân Nguyễn khiếp sợ gọi là "Lê Vô Địch".
 *   **13/07/1778:** Charles Chapman, phái viên của Công ty Đông Ấn Anh, đến Quy Nhơn để tìm kiếm quan hệ thương mại với nhà Tây Sơn, để lại những ghi chép quan trọng về tình hình Đàng Trong.
@@ -514,6 +515,7 @@
 *   **05/1802:** Lê Văn Duyệt được phong làm *Khâm sai Chưởng Tả quân*, tước Quận công, trở thành một trong những đệ nhất khai quốc công thần của triều đại.
 *   **08/1802:** Vua Gia Long sai biên soạn và ban hành 15 điều luật đầu tiên về kiện tụng.
 *   **01/1803:** Vua Gia Long ra lệnh đúc **Cửu Vị Thần Công** từ các binh khí bằng đồng thu được, hoàn thành vào tháng 12/1804, đặt tên theo bốn mùa và ngũ hành.
+*   **1803:** Vua Gia Long ra lệnh đắp lại **Thành Thăng Long** (Hà Nội).
 *   **1803:** Vua Gia Long định lệ lương bổng cho quan và quân ở Bắc thành.
 *   **1803 - 1808:** Tả quân Lê Văn Duyệt được cử đi đánh dẹp cuộc nổi dậy của "Mọi Thạch Bích" (đồng bào dân tộc thiểu số) ở vùng Quảng Ngãi, ổn định biên giới.
 *   **1804:** Vua Gia Long chính thức đặt quốc hiệu là Việt Nam (sau khi nhà Thanh không chấp thuận tên Nam Việt). Vua cũng cho đúc ấn của 6 bộ và ban hành phép quân điền (chia ruộng).
@@ -533,6 +535,7 @@
 *   **1812:** Lê Văn Duyệt được cử làm Tổng trấn Gia Định thành (lần thứ nhất, 1812-1816), quản lý toàn bộ vùng Gia Định. Ông nổi tiếng với việc thiết lập trật tự, trị an nghiêm minh, khiến trộm cướp phải khiếp sợ và dân chúng được yên ổn.
 *   **1813:** Lê Văn Duyệt và Nguyễn Văn Thụy đưa vua Nặc Ông Chân về nước Chân Lạp (Campuchia) phục vị. Lê Văn Duyệt cho xây thành Nam Vang và thành La Lem để chứa lương thực, khí giới bảo hộ Chân Lạp.
 *   **1813:** Bộ *Hoàng Việt luật lệ* được khắc in và ban hành trên toàn quốc.
+*   **08/1815:** Bộ **Hoàng Việt luật lệ** (Luật Gia Long) chính thức được ban hành.
 *   **1815:** Vụ án Nguyễn Văn Thành bắt đầu từ bài thơ của người con trai là Nguyễn Văn Thuyên. Vụ án này dẫn đến cái chết của đại công thần Nguyễn Văn Thành vào năm 1817, đánh dấu cuộc thanh trừng nội bộ để củng cố quyền lực của vua Gia Long.
 *   **1816:** Vua Gia Long chính thức cử thủy quân ra Hoàng Sa để đo đạc và cắm cờ. Nhà Nguyễn thành lập thêm *đội Bắc Hải* để tiếp tục thực thi chủ quyền tại cả Hoàng Sa và Trường Sa.
 *   **1816:** Vua Gia Long lập Hoàng tử Đảm làm Thái tử, xác lập ngôi vị kế thừa chính thống.
@@ -546,6 +549,7 @@
 *   **1820 - 1832:** Trong thời gian làm Tổng trấn Gia Định, Lê Văn Duyệt đã lập gánh Hát bội riêng, góp phần quan trọng vào việc du nhập và phát triển loại hình nghệ thuật này tại Nam Bộ.
 *   **14/02/1820:** Vua Minh Mạng chính thức lên ngôi Hoàng đế tại điện Thái Hòa. Vua cho đổi Thị thư viện thành **Văn thư phòng** để quản lý giấy tờ, văn thư.
 *   **1820:** Cuộc nổi dậy của **"Giặc Sãi"** (do một nhà sư tên Kế cầm đầu) nổ ra ở Chân Lạp và vùng biên giới. Tổng trấn Gia Định Lê Văn Duyệt đã cử quân dẹp tan, ổn định tình hình biên giới Tây Nam.
+*   **1820:** Bắt đầu chế độ **Châu bản** (các bản tấu sớ có bút phê của nhà vua bằng mực son).
 *   **09/1820:** Tổng trấn Lê Văn Duyệt ra lệnh xử trảm Phó Tổng trấn Huỳnh Công Lý (cha vợ của vua Minh Mạng) vì tội tham nhũng và nhũng nhiễu dân chúng trong khi đào kênh Tàu Hủ. Sự kiện này thể hiện tính nghiêm minh "pháp bất vị thân" của Lê Văn Duyệt nhưng cũng làm gia tăng mâu thuẫn giữa ông và triều đình.
 *   **1821 - 1827:** Cuộc nổi dậy của nông dân do Phan Bá Vành lãnh đạo ở vùng đồng bằng ven biển Bắc Bộ.
 *   **1821:** Vua Minh Mạng cho lập **Quốc Sử Quán**, chuyên trách việc biên soạn lịch sử của triều đại và đất nước.
@@ -557,6 +561,7 @@
 *   **05/1824:** Công trình đào **kênh Vĩnh Tế** hoàn tất, góp phần quan trọng vào việc giao thông, thuỷ lợi và quốc phòng ở miền Tây Nam Bộ.
 *   **08/1826:** Vua Minh Mạng đặt thêm chức Tả - Hữu Thị lang trong Lục bộ.
 *   **10/1827:** Vua Minh Mạng cho xây dựng **Duyệt Thị Đường** (nhà hát duyệt thị) bên trong Tử Cấm Thành để làm nơi diễn xướng phục vụ cung đình.
+*   **10/1827:** Vua Minh Mạng truyền lệnh đổi cách ăn mặc của nhân dân từ sông Gianh trở ra Bắc để thống nhất phong tục.
 *   **1827:** Theo đề xuất chiến lược của Lê Văn Duyệt về việc tạo vùng đệm chống Xiêm, vua Minh Mạng cử quân sang hỗ trợ nước Vạn Tượng (Lào) của vua Châu A Nụ trong cuộc chiến chống lại quân Xiêm, bảo vệ an ninh biên giới phía Tây.
 *   **12/1827:** Tổng trấn Lê Văn Duyệt đích thân về kinh đô Huế tâu trình với vua Minh Mạng xin bảo vệ các giáo sĩ Công giáo, nhắc lại công ơn của Giám mục Bá Đa Lộc đối với nhà Nguyễn, giúp tình hình tôn giáo tạm thời lắng dịu.
 *   **05/1828:** Vua Minh Mạng đích thân làm lễ cày **Tịch điền** tại ruộng Tịch điền (được lập ở phường Hậu Sinh và An Trạch), nhằm khuyến khích nông nghiệp.
@@ -600,6 +605,7 @@
 *   **1841:** Vua Thiệu Trị ban chiếu minh oan, phục hồi quan tước cho Lê Văn Duyệt, sai dỡ bỏ bia đá và xiềng xích tại mộ phần của ông.
 *   **1842:** Vua Thiệu Trị thực hiện chuyến "Ngự giá Bắc tuần" ra Hà Nội để xem xét tình hình Bắc Hà và làm lễ thụ phong của nhà Thanh.
 *   **1843:** Đổi tên tỉnh Thanh Hoa thành tỉnh **Thanh Hóa** để kiêng húy tên của Tá Thiên Nhân Hoàng hậu (Hồ Thị Hoa).
+*   **1843:** Vua Thiệu Trị sai biên soạn bộ **"Đại Nam hội điển sự lệ"**.
 *   **1845:** Quan Tham tri Đào Trí Phú đi sứ phương Tây trở về, dâng lên vua Thiệu Trị chiếc tàu chạy bằng hơi nước hiệu **"Điện Phi"**.
 *   **Cuối 1845:** Chiến tranh Việt - Xiêm (1841 - 1845) kết thúc; vua Chân Lạp là Nặc Ông Giun (Ang Duong) dâng biểu xin thần phục nhà Nguyễn.
 *   **1846:** Vua Thiệu Trị chính thức sắc phong Nặc Ông Giun làm Cao Miên Quốc vương, phong Ngọc Vân làm Cao Miên Quận chúa.

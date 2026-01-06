@@ -440,6 +440,7 @@
 *   **Sep. 19, 1777:** The new Nguyen King, Nguyen Phuc Duong (Tan Chinh Vuong), was captured and killed by Tay Son forces at Ba Vac.
 *   **Oct. 18, 1777:** Lord Nguyen Phuc Thuan (Due Tong) was captured and killed by Tay Son forces at Long Xuyen. This event effectively wiped out the direct leadership of the Nguyen Lords, leaving the young Nguyen Anh as the sole survivor to continue the struggle.
 *   **1778:** Nguyen Nhac proclaimed himself Emperor Minh Duc (Thai Duc), establishing the era name Thai Duc. He expanded and reinforced the former Do Ban citadel, renaming it **Hoang De Citadel** (Imperial Citadel) to serve as the capital.
+*   **Spring 1778:** Nguyen Anh was honored by his generals as **Grand Marshal** (Dai Nguyen Soai) in Saigon, acting as the head of state.
 *   **1778:** Female General Bui Thi Xuan organized and trained four brigades of female soldiers and an elite war elephant corps, contributing greatly to the Tay Son army's prowess.
 *   **1778:** Alongside Bui Thi Xuan, female generals Tran Thi Lan, Nguyen Thi Dung, and Huynh Thi Cuc commanded female brigades. General Le Van Hung defeated the Nguyen army led by Le Van Quan in Dien Khanh and Binh Thuan, earning the moniker "Le the Invincible".
 *   **Jul. 13, 1778:** Charles Chapman, an envoy of the British East India Company, arrived in Quy Nhon to seek trade relations with the Tay Son, recording valuable observations about the region's situation.
@@ -514,6 +515,7 @@
 *   **May 1802:** Le Van Duyet was appointed as *Imperial Commissioner, Commander of the Left Army* (Kham sai Chuong Ta quan), becoming one of the highest-ranking generals and a founding meritorious official of the dynasty.
 *   **Aug. 1802:** Emperor Gia Long ordered the compilation and promulgation of the first 15 laws regarding litigation.
 *   **Jan. 1803:** Emperor Gia Long ordered the casting of the **Nine Holy Cannons** (Cửu Vị Thần Công) from captured bronze weapons, completed in December 1804, symbolizing the power and longevity of the dynasty.
+*   **1803:** Emperor Gia Long ordered the reconstruction of the **Thang Long Citadel** (Hanoi Citadel).
 *   **1803:** Emperor Gia Long set the salary regulations for officials and soldiers in the Northern Citadel.
 *   **1803 - 1808:** General Le Van Duyet was dispatched to suppress the uprising of the "Thach Bich savages" (ethnic minorities) in the Quang Ngai region, stabilizing the border areas.
 *   **1804:** Emperor Gia Long officially established the national title "Viet Nam" (after the Qing dynasty rejected "Nam Viet"). He also ordered the casting of seals for the six ministries and promulgated the communal land allocation system.
@@ -533,6 +535,7 @@
 *   **1812:** Le Van Duyet was appointed Governor-General of Gia Dinh Citadel (first term, 1812-1816), with authority over the entire Southern region. During this time, he established strict laws, eliminated banditry, and brought peace to the people.
 *   **1813:** Le Van Duyet and Nguyen Van Thuy escorted King Ang Chan II (Nac Ong Chan) back to Cambodia to restore his throne. Le Van Duyet oversaw the construction of the Nam Vang (Phnom Penh) Citadel and the La Lem Citadel to store grain and weapons.
 *   **1813:** The *Hoang Viet luat le* was carved, printed, and promulgated nationwide.
+*   **Aug. 1815:** The **Hoang Viet luat le** (Gia Long Code) was officially promulgated nationwide.
 *   **1815:** The case of Nguyen Van Thanh began, involving a poem written by his son Nguyen Van Thuyen. This political purge led to the forced suicide of the meritorious official Nguyen Van Thanh in 1817, reflecting Gia Long's consolidation of absolute power.
 *   **1816:** Emperor Gia Long officially dispatched naval forces to the Paracel Islands to conduct surveys and plant flags. The Nguyen Dynasty also established the *Bac Hai team* to continue asserting sovereignty over both the Paracel and Spratly Islands.
 *   **1816:** Emperor Gia Long officially invested Prince Dam as Crown Prince, establishing the principle of succession to the throne.
@@ -546,6 +549,7 @@
 *   **1820 - 1832:** During his tenure as Governor General of Gia Dinh, Le Van Duyet established a private classical opera (*Hát bội*) troupe, significantly contributing to the introduction and popularization of this art form in Southern Vietnam.
 *   **Feb. 14, 1820:** Emperor Minh Mang officially ascended the throne at the Thai Hoa Palace. He established the *Van thu phong* (Chancellery) to handle administrative documents.
 *   **1820:** The "Monk Ke" rebellion (Giặc Sãi) broke out in Cambodia and the border region. Governor Le Van Duyet dispatched troops to suppress it, stabilizing the southwestern border.
+*   **1820:** The system of **Chau Ban** (Vermilion Records), official administrative documents with the Emperor's comments in red ink, was established.
 *   **Sep. 1820:** Le Van Duyet ordered the execution of Deputy Governor Huynh Cong Ly (Emperor Minh Mang's father-in-law) for corruption and oppressing the people during the digging of the Tau Hu canal. This event demonstrated the strict enforcement of the law regardless of royal connections but also deepened the rift between Le Van Duyet and Emperor Minh Mang.
 *   **1821 - 1827:** The peasant uprising led by Phan Ba Vanh in the northern coastal plains.
 *   **1821:** The **National History Office** (Quoc Su Quan) was established to compile the national history and veritable records of the dynasty.
@@ -557,6 +561,7 @@
 *   **May 1824:** The construction of the **Vinh Te Canal** was officially completed.
 *   **Aug. 1826:** Emperor Minh Mang added the positions of Left and Right Vice Ministers in the Six Ministries.
 *   **Oct. 1827:** Construction of the **Duyet Thi Duong** (Royal Theater) began within the Purple Forbidden City. It served as a venue for performing arts (Tuong opera, dance) for the royal court.
+*   **Oct. 1827:** Emperor Minh Mang issued a decree reforming the dress code in the territory north of the Gianh River to unify national customs.
 *   **1827:** Following Le Van Duyet's strategic proposal to create a buffer zone against Siam, Emperor Minh Mang sent troops to support the Kingdom of Vientiane (under Chao Anou) against the Siamese invasion, asserting influence and protecting the western border.
 *   **Dec. 1827:** Governor-General Le Van Duyet traveled to Hue to petition Emperor Minh Mang to stop the persecution of Catholic missionaries, recalling the help of Bishop Pigneau de Béhaine to the Nguyen dynasty. This temporarily eased tensions between the court and the Catholic community.
 *   **May 1828:** Emperor Minh Mang personally performed the **Tich Dien** (Plowing) ceremony at the newly established field in the capital, reviving an ancient tradition to encourage agriculture.
@@ -600,6 +605,7 @@
 *   **1841:** Emperor Thieu Tri issued a decree restoring the titles and honor of Le Van Duyet, ordering the removal of the humiliating stone stele and chains at his tomb.
 *   **1842:** Emperor Thieu Tri conducted the "Northern Inspection Tour" (Ngu gia Bac tuan) to Hanoi to assess the situation in the North and receive investiture from the Qing dynasty.
 *   **1843:** The province name **Thanh Hoa** was officially changed from "Thanh Hoa" (using the character for 'flower') to "Thanh Hoa" (using the character for 'transform') to avoid the naming taboo of Empress Ho Thi Hoa.
+*   **1843:** Emperor Thieu Tri ordered the compilation of the **"Dai Nam hoi dien su le"** (Collected Statutes and Precedents of Dai Nam).
 *   **1845:** Official Dao Tri Phu returned from a diplomatic mission to the West and presented the steamship **"Dien Phi"** to Emperor Thieu Tri, marking an effort to modernize the navy.
 *   **Late 1845:** The Siamese-Vietnamese War (1841-1845) concluded; King Ang Duong of Cambodia submitted to the Nguyen court.
 *   **1846:** Emperor Thieu Tri officially invested Ang Duong as the King of Cambodia (Cao Mien Quoc Vuong).
