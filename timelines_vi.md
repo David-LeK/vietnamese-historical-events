@@ -724,6 +724,7 @@
 *   **23/02/1886:** Triều đình Huế và Pháp trao đổi bản Hòa ước Giáp Thân (Patenôtre) và Thương ước đã được phê chuẩn tại Huế.
 *   **03/1886:** Vua Đồng Khánh thành lập **Viện Long Tinh** (Đại Nam Long tinh) để khen thưởng cho các quan văn võ.
 *   **04/1886:** Triều đình cho đúc tiền "Đồng Khánh thông bảo" (1 đồng ăn 10 đồng kẽm).
+*   **05/1886:** Vua Đồng Khánh ngự giá thân chinh ra Quảng Bình để phủ dụ dân chúng và dẹp loạn.
 *   **1885 - 1896:** Diễn ra cuộc khởi nghĩa Hương Khê do Phan Đình Phùng và Cao Thắng lãnh đạo, là đỉnh cao của phong trào Cần Vương.
 *   **1886 - 1887:** Diễn ra cuộc khởi nghĩa Ba Đình (Thanh Hóa) do Phạm Bành và Đinh Công Tráng lãnh đạo.
 *   **01/1887:** Căn cứ Ba Đình thất thủ sau các cuộc tấn công ác liệt của quân Pháp.
@@ -801,6 +802,7 @@
 ### **Giai đoạn tìm đường cứu nước và thành lập Đảng Cộng sản (1919 - 1930)**
 
 *   **05/1918:** Toàn quyền Albert Sarraut phác thảo "Chương trình 5 năm hoạt động chính trị và kinh tế", đặt nền móng cho cuộc khai thác thuộc địa lần thứ hai.
+*   **01/1919:** (Tháng Giêng năm Khải Định thứ 4) Chuẩn y lấy khoa thi Hội năm này làm "Ngự tứ ân khoa", đây là khoa thi Hội cuối cùng của triều đình.
 *   **05/02/1919:** Thành lập Hội Khai trí - Tiến đức (AFIMA) tại Hà Nội, một tổ chức văn hóa do thực dân Pháp bảo trợ nhằm thực hiện chính sách "Pháp-Việt đề huề".
 *   **02/1919:** Nguyễn Ái Quốc gia nhập Đảng Xã hội Pháp.
 *   **18/04/1919:** Nghị định cho phép tuyển dụng nhân viên người Việt vào Văn phòng Phủ Toàn quyền.
@@ -811,9 +813,11 @@
 *   **29/06/1919:** Sắc lệnh tái tổ chức Bộ Thuộc địa tại Pháp và thành lập Tổng Đại diện các thuộc địa, tăng cường sự kiểm soát của chính quốc.
 *   **08/1919:** Bùng nổ phong trào "Tẩy chay khách trú" (Hoa kiều) bắt đầu từ Sài Gòn rồi lan ra cả nước, thể hiện ý thức kinh tế dân tộc của giai cấp tư sản Việt Nam.
 *   **01/09/1919:** Tờ *Học báo* ra đời nhằm hướng dẫn hệ thống giáo dục mới của Pháp ở Bắc và Trung Kỳ.
+*   **09/1919:** (Tháng 9 năm Khải Định thứ 4) Triều đình ban hành tiền "Khải Định thông bảo" bằng đồng thau.
 *   **1920:** Đạo Cao Đài, một tôn giáo nội sinh, được thành lập (cụ thể là năm 1926 tại Tây Ninh).
-*   **09/1920:** Triều đình ban hành tiền "Khải Định thông bảo" bằng đồng thau; định tỷ giá 1 đồng tiền mới bằng 6 đồng tiền kẽm.
+*   **03/1920:** (Tháng 3 năm Khải Định thứ 5) Thiết lập Hội đồng Tư vấn Trung Kỳ (Chambre des Représentants du Peuple de l'Annam) để tư vấn các vấn đề lợi ích cho dân.
 *   **16-17/07/1920:** Báo *L'Humanité* (Nhân đạo) ở Pháp đăng toàn văn *Luận cương về các vấn đề dân tộc và vấn đề thuộc địa* của V.I. Lênin, tác động sâu sắc đến Nguyễn Ái Quốc.
+*   **09/1920:** Triều đình định tỷ giá 1 đồng tiền "Khải Định thông bảo" mới bằng 6 đồng tiền kẽm.
 *   **28/09/1920:** Sắc lệnh tái tổ chức Hội đồng cấp cao thuộc địa tại Pháp.
 *   **25-30/12/1920:** Tại Đại hội Tours của Đảng Xã hội Pháp, Nguyễn Ái Quốc bỏ phiếu tán thành gia nhập Quốc tế thứ ba và trở thành một trong những người sáng lập Đảng Cộng sản Pháp.
 *   **12/04/1921:** Albert Sarraut, lúc này là Bộ trưởng Bộ Thuộc địa, trình "Dự luật khai thác thuộc địa" trước Quốc hội Pháp.
@@ -828,6 +832,7 @@
 *   **06/1922:** Vua Khải Định đến Marseille và Paris (Pháp), trở thành vị vua đầu tiên của triều Nguyễn chính thức sang thăm Pháp (đưa Đông cung Thái tử Vĩnh Thụy đi du học).
 *   **09/06/1922:** Sắc lệnh tái tổ chức Hội đồng thuộc địa Nam Kỳ.
 *   **15/07/1922:** Phan Châu Trinh viết "Thất điều trần" gửi vua Khải Định đang ở Pháp, lên án 7 tội lớn của nhà vua.
+*   **09/1922:** (Tháng 9 năm Khải Định thứ 7) Đổi Sở Phiên dịch thành Viện Cổ học (thuộc Bộ Học).
 *   **1923:** Tổ chức cách mạng Tâm Tâm xã được thành lập tại Quảng Châu, Trung Quốc.
 *   **1923:** Việc xây dựng **lầu Kiến Trung** (kết hợp kiến trúc Âu - Á) trong Tử Cấm Thành được hoàn thành.
 *   **1923:** Cơ quan Kiểm tra và Cứu trợ người bản xứ của các thuộc địa (C.A.I.) được thành lập tại Pháp để giám sát người Việt.

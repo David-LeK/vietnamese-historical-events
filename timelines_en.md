@@ -724,6 +724,7 @@
 *   **Feb. 23, 1886:** The Hue court and France exchanged the ratified Treaty of Giap Than (Patenôtre Treaty) and the Mining Treaty in Hue.
 *   **Mar. 1886:** Emperor Dong Khanh established the **Order of the Dragon of Annam** (Dai Nam Long Tinh Vien) to reward civil and military officials.
 *   **Apr. 1886:** The court began minting "Dong Khanh Thong Bao" coins (10 zinc coins equal to 1 copper coin).
+*   **May 1886:** Emperor Dong Khanh personally led a military campaign ("Imperial Inspection") to Quang Binh to pacify the region and suppress the Can Vuong movement.
 *   **1885 - 1896:** The Huong Khe Uprising, led by Phan Dinh Phung and Cao Thang, took place, marking the peak of the Can Vuong movement.
 *   **1886 - 1887:** The Ba Dinh Uprising (Thanh Hoa), led by Pham Banh and Dinh Cong Trang, took place.
 *   **Jan. 1887:** The Ba Dinh base fell after fierce attacks by French forces.
@@ -801,6 +802,7 @@
 ### **Period of Seeking National Salvation and Founding the Communist Party (1919 - 1930)**
 
 *   **May 1918:** Governor-General Albert Sarraut drafted the "Five-Year Program for Political and Economic Activities," laying the foundation for the second colonial exploitation.
+*   **Jan. 1919:** Emperor Khai Dinh decreed the Metropolitan Examination of that year to be the "Imperial Grace Examination" (Ngu tu an khoa), which was the final Metropolitan Examination of the dynasty.
 *   **Feb. 5, 1919:** The Association for the Intellectual and Moral Formation of the Annamites (AFIMA) was established in Hanoi, a cultural organization sponsored by the French colonialists to implement the "Franco-Vietnamese collaboration" policy.
 *   **Feb. 1919:** Nguyen Ai Quoc joined the French Socialist Party.
 *   **Apr. 18, 1919:** A decree allowed the recruitment of Vietnamese staff into the Office of the Governor-General.
@@ -811,9 +813,11 @@
 *   **Jun. 29, 1919:** A decree reorganized the Ministry of Colonies in France and established the General Representation of the Colonies, strengthening the metropole's control.
 *   **Aug. 1919:** The "Boycott of Resident Aliens" (Hoa kieu) movement broke out, starting in Saigon and spreading throughout the country, demonstrating the national economic consciousness of the Vietnamese bourgeoisie.
 *   **Sep. 1, 1919:** The newspaper *Hoc bao* was launched to guide the new French education system in Tonkin and Annam.
+*   **Sep. 1919:** The court issued "Khai Dinh Thong Bao" brass coins.
 *   **1920:** Cao Dai, an indigenous religion, was founded (specifically in 1926 in Tay Ninh).
-*   **Sep. 1920:** The court issued "Khai Dinh Thong Bao" coins; a fixed exchange rate was established where 1 new coin equaled 6 zinc coins.
+*   **Mar. 1920:** The **Consultative Council of Annam** (Hội đồng Tư vấn Trung Kỳ) was established to advise on matters of public interest.
 *   **Jul. 16-17, 1920:** The newspaper *L'Humanité* in France published the full text of V.I. Lenin's *Theses on the National and Colonial Questions*, which had a profound impact on Nguyen Ai Quoc.
+*   **Sep. 1920:** A fixed exchange rate was established where 1 new "Khai Dinh Thong Bao" coin equaled 6 zinc coins.
 *   **Sep. 28, 1920:** A decree reorganized the High Council of the Colonies in France.
 *   **Dec. 25-30, 1920:** At the Tours Congress of the French Socialist Party, Nguyen Ai Quoc voted in favor of joining the Third International and became one of the founding members of the French Communist Party.
 *   **Apr. 12, 1921:** Albert Sarraut, then Minister of Colonies, presented the "Bill on Colonial Exploitation" to the French National Assembly.
@@ -828,6 +832,7 @@
 *   **Jun. 1922:** Emperor Khai Dinh arrived in Marseille and Paris, becoming the first reigning Vietnamese monarch to officially visit France (bringing Crown Prince Vinh Thuy for study).
 *   **Jun. 9, 1922:** A decree reorganized the Colonial Council of Cochinchina.
 *   **Jul. 15, 1922:** Phan Chau Trinh wrote the "Seven-Point Petition" addressed to King Khai Dinh, who was in France, denouncing the king's seven great crimes.
+*   **Sep. 1922:** The Translation Office was reorganized into the **Institute of Ancient Studies** (Vien Co Hoc) under the Ministry of Education.
 *   **1923:** The revolutionary organization Tam Tam Xa (Heart-to-Heart Association) was founded in Guangzhou, China.
 *   **1923:** Construction of the **Kien Trung Palace** was completed within the Purple Forbidden City, featuring a blend of European and Asian architectural styles.
 *   **1923:** The Service for the Control and Assistance of Natives of the Colonies (C.A.I.) was established in France to monitor the Vietnamese.
