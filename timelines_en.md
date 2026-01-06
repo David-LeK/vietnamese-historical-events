@@ -107,6 +107,7 @@
 *   **1049:** King Ly Thai Tong ordered the construction of Dien Huu Pagoda (One Pillar Pagoda).
 *   **1054:** Ly Thai Tong passed away, Ly Nhat Ton ascended the throne (Ly Thanh Tong), and changed the national name from Dai Co Viet to Dai Viet.
 *   **1059:** The Ly army attacked the Song dynasty's Qinzhou (Kham Chau) to demonstrate military strength.
+*   **1059:** King Ly Thanh Tong mandated that officials must wear hats and boots when attending court, establishing a formal dress code for the first time.
 *   **1069:** Ly Thanh Tong personally led a campaign against Champa, capturing King Che Cu (Rudravarman III). Champa had to cede the three provinces of Bo Chinh, Dia Ly, and Ma Linh as ransom.
 *   **1070:** The Temple of Literature was built in Thang Long to worship Confucius.
 *   **Dec. 1072:** Ly Thanh Tong died, and Ly Can Duc (Ly Nhan Tong) ascended the throne, inheriting it according to the will of his father, Emperor Ly Thanh Tong (at the age of only 7).
@@ -283,6 +284,7 @@
 *   **Oct. 5, 1433 (Aug. 22, Leap Month, Lunar Year of the Buffalo):** King Le Thai To passed away.
 *   **Dec. 1433 (Oct. 23, Lunar Year of the Buffalo):** Le Thai To was buried at Vinh Lang, Lam Son. Nguyen Trai composed the inscription for the Vinh Lang Stele.
 *   **1434:** Le Thai Tong ascended the throne. Regulations for the doctoral examination were established.
+*   **1437:** King Le Thai Tong commissioned Luong Dang to reform court rituals and music, establishing standards for ceremonial dress and instruments.
 *   **1442:** The Le court held the first doctoral examination, passing 33 people, including Trang Nguyen (First Laureate) Nguyen Truc. The practice of erecting doctoral stelae at the Temple of Literature began.
 *   **1442:** The tragic Le Chi Vien case occurred, leading to the execution of three generations of Nguyen Trai's family.
 *   **1443:** Le Nhan Tong ascended the throne.
@@ -379,6 +381,7 @@
 *   **1657:** Lord Trinh Trang passed away. His son, Trinh Tac, succeeded him as Lord (Tay Dinh Vuong).
 *   **1661 - 1662:** The sixth campaign. The Trinh army attacked but was unsuccessful and had to retreat.
 *   **1663:** The Le-Trinh court issued a ban on Christianity ("Hoa Lang" religion) and ordered a strict census of all foreigners residing in the country to separate them from the local population.
+*   **1663:** The Nam Giao Hall was constructed for the first time to perform Heaven worship ceremonies (previously performed on an open altar).
 *   **1667:** Joao da Cruz, a Portuguese metalcaster serving the Nguyen Lord, cast European-style bronze cannons, significantly bolstering the military strength of Dang Trong.
 *   **Jun. 1672:** The seventh and final campaign. The Trinh army launched an all-out attack but was still blocked by the strong defensive walls of the Nguyen army.
 *   **Late 1672:** The two sides agreed to a truce, taking the Gianh River as the demarcation line, officially dividing the country into Dang Trong and Dang Ngoai for over a century.
@@ -399,6 +402,7 @@
 *   **1709:** Lord Nguyen Phuc Chu ordered the casting of the seal **"Dai Viet quoc Nguyen chua vinh tran chi bao"** (The Eternal Seal of the Nguyen Lord of the Kingdom of Dai Viet), asserting authority.
 *   **1714:** Lord Nguyen Phuc Chu renovated Thien Mu Pagoda and proclaimed himself **"Dai Viet Quoc Vuong"** (King of Dai Viet) in the bell inscription.
 *   **1718:** In Dang Ngoai, Lord Trinh Cuong established the Six Bureaus (Luc phien) in the Lord's Palace, usurping all power, leaving the Le court's Six Ministries with only nominal authority.
+*   **1721:** The Le court (under Lord Trinh Cuong) revised and standardized the uniforms for civil and military officials, distinguishing ranks clearly.
 *   **1725:** Lord Nguyen Phuc Chu passed away. His son, Nguyen Phuc Chu (Lord Ninh), succeeded him.
 *   **1729:** Lord Trinh Cuong passed away. His son, Trinh Giang, succeeded him as Lord (Uy Nam Vuong).
 *   **1736:** Mac Thien Tich established the **Chieu Anh Cac** (Pavilion of Unadorned Beauty), a famous literary society in Ha Tien, promoting culture and literature in the newly developed southern lands.
@@ -473,6 +477,7 @@
 *   **Late 1786:** Nguyen Hue was given Princess Ngoc Han in marriage by the Le king. The Tay Son brothers divided the country to rule: Nguyen Nhac as the Central Emperor (from Quang Nam to Binh Thuan), Nguyen Hue as the Northern Pacification King (Bac Binh Vuong - governing Thuan Hoa northwards), and Nguyen Lu as the Eastern Pacification King (Dong Dinh Vuong - governing Gia Dinh).
 *   **1787:** Conflict broke out between Nguyen Nhac and Nguyen Hue. Nguyen Hue led troops to besiege Hoang De Citadel, forcing Nguyen Nhac to cede more land in Quang Nam.
 *   **Feb. 21, 1787:** A civil war broke out between the Tay Son brothers. Nguyen Hue, consolidating his power in the North and Phu Xuan, marched south to besiege his brother Nguyen Nhac at Quy Nhon. Nguyen Nhac lost approximately 40,000 troops in the conflict. Besieged and desperate, he wept from the city walls, invoking brotherly ties to ask for a truce. This internal conflict ("nồi da xáo thịt") severely weakened the dynasty.
+*   **1787:** King Le Chieu Thong abolished the Six Bureaus (Luc Phien - organs of the Trinh Lords) and restored administrative authority to the Six Ministries (Luc Bo), attempting to reform the court.
 *   **Nov. 28, 1787:** Bishop Pigneau de Béhaine (representing Nguyen Anh) signed the Treaty of Versailles with Count de Montmorin (France). Article II promised to cede the port of Hoi An and Con Lon Island to France in exchange for military support.
 *   **Early 1788:** The population in Tonkin (Dang Ngoai) began to show resentment towards the new Tay Son officials and desired a return to the old order.
 *   **Apr. 1788:** Nguyen Hue marched to Thang Long to execute Vu Van Nham for arrogance and plotting rebellion after Nham had eliminated Nguyen Huu Chinh. This consolidated Tay Son's control over the North before the Qing invasion.
@@ -537,6 +542,7 @@
 *   **1808 - 1819:** The uprising of the Tho chieftain Quach Tat Thuc in the Son Am region (now part of Ninh Binh, Hoa Binh).
 *   **1809:** Emperor Gia Long appointed all official positions for the six ministries.
 *   **1809:** Le Quang Dinh completed the *Nhat thong dia du chi* (Geography of the Unified Realm), the first comprehensive geographical record of Vietnam under the Nguyen Dynasty.
+*   **1809 - 1819:** Scholar Phan Huy Chu compiled the **"Lich Trieu Hien Chuong Loai Chi"** (Regulations of Successive Dynasties by Subject), a monumental encyclopedic work on Vietnam's institutions and history.
 *   **Jan. 1811:** Emperor Gia Long ordered the compilation of an official law code for the dynasty.
 *   **Jul. 1812:** The law code *Hoang Viet luat le* (commonly known as the Gia Long Code) was completed.
 *   **1812:** Le Van Duyet was appointed Governor-General of Gia Dinh Citadel (first term, 1812-1816), with authority over the entire Southern region. During this time, he established strict laws, eliminated banditry, and brought peace to the people.
@@ -558,6 +564,7 @@
 *   **1820:** The "Monk Ke" rebellion (Giặc Sãi) broke out in Cambodia and the border region. Governor Le Van Duyet dispatched troops to suppress it, stabilizing the southwestern border.
 *   **1820:** The system of **Chau Ban** (Vermilion Records), official administrative documents with the Emperor's comments in red ink, was established.
 *   **Sep. 1820:** Le Van Duyet ordered the execution of Deputy Governor Huynh Cong Ly (Emperor Minh Mang's father-in-law) for corruption and oppressing the people during the digging of the Tau Hu canal. This event demonstrated the strict enforcement of the law regardless of royal connections but also deepened the rift between Le Van Duyet and Emperor Minh Mang.
+*   **1821:** Phan Huy Chu presented his work **"Lich Trieu Hien Chuong Loai Chi"** to Emperor Minh Mang and was appointed as an editor at the Imperial Academy.
 *   **1821 - 1827:** The peasant uprising led by Phan Ba Vanh in the northern coastal plains.
 *   **1821:** The **National History Office** (Quoc Su Quan) was established to compile the national history and veritable records of the dynasty.
 *   **1822:** Emperor Minh Mang established the Han Lam Vien (Imperial Academy), organized the first metropolitan examination (thi Hoi), and changed Quang Duc garrison to Thua Thien Prefecture.
