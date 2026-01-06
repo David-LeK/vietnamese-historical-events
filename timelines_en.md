@@ -100,6 +100,7 @@
 *   **Dec. 1020:** The Ly army, under the command of Crown Prince Ly Phat Ma, defeated the Champa army at the Bo Chinh garrison (Quang Binh).
 *   **1028:** Ly Thai To passed away, Ly Phat Ma ascended the throne (Ly Thai Tong). The "Rebellion of the Three Princes" occurred but was suppressed.
 *   **1029:** King Ly Thai Tong suppressed a rebellion in the Dan Nai region (Thanh Hoa) and ordered the digging of the Dan Nai canal.
+*   **Apr. 1036:** King Ly Thai Tong established a hanh dinh (temporary palace) in Hoan Chau and renamed the chau to **Nghe An**.
 *   **1038:** King Ly Thai Tong personally plowed the Tich Dien field at Bo Hai Khau, declaring the importance of agriculture for "the people to follow."
 *   **Feb. 1040:** King Ly Thai Tong taught palace maids to weave brocade and distributed all Song dynasty brocade from the treasury to officials to demonstrate the use of domestic goods and rejection of Song goods.
 *   **1042:** The court promulgated the Hinh Thu (Penal Code), the first written law code of Vietnam. It included regulations prohibiting the sale of adult males (*hoang nam*) as slaves.
@@ -124,6 +125,7 @@
 *   **1089:** King Ly Nhan Tong established a defined hierarchy for civil and military officials, structuring the administrative system.
 *   **1104:** Ly Thuong Kiet defeated the Champa army, forcing King Che Ma Na (Jaya Indravarman II) to return the three provinces he had previously occupied.
 *   **1108:** The court ordered the construction of the Co Xa dike in Thang Long to prevent floods from the Red River.
+*   **1111:** The name **Thanh Hoa** appeared for the first time in historical records when the prefecture of Thanh Hoa offered a nine-trunked areca tree.
 *   **1116:** The famous monk Tu Dao Hanh passed away. According to legend and historical accounts, he was reincarnated as King Ly Than Tong.
 *   **Jan. 15, 1128:** Ly Nhan Tong died, and Ly Duong Hoan (Ly Than Tong) ascended the throne, inheriting it according to the will of Emperor Ly Nhan Tong (Ly Nhan Tong had no children, so he adopted Ly Duong Hoan and passed the throne to him).
 *   **1136:** Zen Master Nguyen Minh Khong successfully cured King Ly Than Tong of a strange illness (often described in legends as "tiger transformation"), subsequently being appointed National Preceptor.
@@ -363,6 +365,7 @@
 *   **Apr. 1599:** The Le king conferred upon Trinh Tung the title of Do Nguyen Suy, Thuong phu Binh An Vuong (Supreme Commander-in-Chief, Grand Preceptor, and Prince of Pacification), officially forming the Le King - Trinh Lord institution in Dang Ngoai (the North).
 *   **1600:** Nguyen Hoang returned to Thuan Quang from the North and began implementing new administrative policies, gradually breaking away from the control of the Trinh lords.
 *   **1601:** Shogun Tokugawa Ieyasu sent an official letter to Lord Nguyen Hoang to establish trade relations and control Japanese merchants (Red Seal ships).
+*   **1604:** Lord Nguyen Hoang renamed Tien Binh prefecture to **Quang Binh** prefecture.
 *   **16th century:** Portuguese explorers referred to the Paracel Islands as "Ilhas do Pracel".
 *   **First half of the 17th century:** The Nguyen Lords sent the *Hoang Sa fleet* to the Spratly and Paracel Islands to exploit resources, collect salvaged goods, and assert sovereignty, including surveying sea routes, planting trees, and erecting markers. Phu Quoc remained a wild and undeveloped land, subject to disputes between Chenla (Cambodia) and other powers.
 *   **1611:** The Nguyen army attacked Champa, taking the land south of the Cu Mong Pass and establishing Phu Yen Prefecture.
@@ -585,6 +588,7 @@
 *   **1821 - 1827:** The peasant uprising led by Phan Ba Vanh in the northern coastal plains.
 *   **1821:** The **National History Office** (Quoc Su Quan) was established to compile the national history and veritable records of the dynasty.
 *   **1822:** Emperor Minh Mang established the Han Lam Vien (Imperial Academy), organized the first metropolitan examination (thi Hoi), and changed Quang Duc garrison to Thua Thien Prefecture.
+*   **1822:** The shire of **Quang Duc** was renamed **Thua Thien** prefecture.
 *   **1822:** Several towns were renamed: Son Nam Thuong became Son Nam, Son Nam Ha became Nam Dinh, An Quang became Quang Yen, and Bac Giang became Bac Ninh.
 *   **1822:** Emperor Minh Mang renamed the Palace City to **Tu Cam Thanh** (Purple Forbidden City).
 *   **Aug. 29, 1822:** John Crawfurd, an envoy of the British Governor-General of India, visited Saigon and had an audience with Governor-General Le Van Duyet. Le Van Duyet expressed openness to international trade but adhered to the court's protocol regarding diplomatic correspondence. Notably, he refused gifts from the British envoy to maintain impartiality in state affairs.
@@ -604,6 +608,7 @@
 *   **1830:** Le Van Duyet requested and oversaw the reconstruction of the Gia Dinh Citadel (Phan An Citadel) using laterite stone, expanding it significantly to become a major defensive fortification in the South.
 *   **Jan. 1830:** Emperor Minh Mang ordered the construction of the **Ho Quyen** (Tiger Arena) at Long Tho hill (Hue), a unique colosseum for elephant and tiger fights.
 *   **Oct. 1831:** Emperor Minh Mang carried out a major administrative reform, abolishing the governor-general positions and changing the garrisons and towns in the North into 18 provinces.
+*   **1831 - 1832:** Administrative reform divided the country into provinces. The provinces of **Son Tay**, **Tuyen Quang**, **Hung Hoa**, **Ninh Binh**, **Thanh Hoa**, **Nghe An**, **Ha Tinh**, **Quang Binh**, and **Quang Tri** were officially established during this period.
 *   **Jul. 30, 1832:** Marshall Le Van Duyet, Governor of Gia Dinh, passed away at the age of 60. Before his death, he had petitioned to divide the Gia Dinh region into provinces like in the North, but Emperor Minh Mang initially rejected the proposal.
 *   **1832:** The Ty Dai hien (Censorate) was changed to the Do sat vien (Supreme Censorate); the Tam phap ty (Three Judicial Offices, comprising representatives from the Ministry of Justice, the Supreme Censorate, and the Court of Revision) was established.
 *   **Oct. 1832:** The Gia Dinh Governor-Generalship was abolished, and the garrisons from Quang Nam southwards were divided into 12 provinces.
@@ -637,6 +642,7 @@
 *   **1841 - 1842:** The uprising of the Khmer people led by Lam Sam in Lac Hoa, Tra Vinh.
 *   **1841 - 1842:** Uprisings in the Ha Am - Ha Duong region (An Giang, Ha Tien).
 *   **1841:** Emperor Thieu Tri issued a decree restoring the titles and honor of Le Van Duyet, ordering the removal of the humiliating stone stele and chains at his tomb.
+*   **1841:** Due to the naming taboo of Empress Ho Thi Hoa, the prefecture of Ha Hoa was renamed Ha Thanh, the district of Ky Hoa became Ky Anh, and the district of Hoa Xuyen became Cam Xuyen.
 *   **1842:** Emperor Thieu Tri conducted the "Northern Inspection Tour" (Ngu gia Bac tuan) to Hanoi to assess the situation in the North and receive investiture from the Qing dynasty.
 *   **1843:** The province name **Thanh Hoa** was officially changed from "Thanh Hoa" (using the character for 'flower') to "Thanh Hoa" (using the character for 'transform') to avoid the naming taboo of Empress Ho Thi Hoa.
 *   **1843:** Emperor Thieu Tri ordered the compilation of the **"Dai Nam hoi dien su le"** (Collected Statutes and Precedents of Dai Nam).
@@ -647,6 +653,7 @@
 *   **Nov. 4, 1847:** Emperor Thieu Tri passed away.
 *   **Nov. 10, 1847:** Emperor Tu Duc ascended the throne.
 *   **1848:** Emperor Tu Duc ordered the reconstruction and expansion of Le Van Duyet's tomb and temple (Lang Ong Ba Chieu in Gia Dinh), restoring it to a dignified state.
+*   **1853:** Emperor Tu Duc changed the province of Quang Tri to a "dao" (county) under the jurisdiction of Thua Thien prefecture, and merged the prefecture of Duc Tho (formerly of Ha Tinh) into Nghe An province.
 *   **Feb. 1848:** The court began minting "Tu Duc Thong Bao" coins and completed the *Veritable Records of Emperor Gia Long*.
 *   **Mar. 1850:** Emperor Tu Duc established the **Kinh Dien** (Royal Lecture Hall) and the **Tap Hien Institute** for royal education and academic discussion.
 *   **Dec. 1852:** Emperor Tu Duc ordered the compilation of the **"Kham dinh Viet su thong giam cuong muc"** (The Imperially Ordered Mirror of Viet History Text and Commentary), appointing Phan Thanh Gian as the Chief Editor.
@@ -680,6 +687,7 @@
 *   **Aug. 1863:** The Hue court sent a delegation led by Phan Thanh Gian to France to negotiate the redemption of the three eastern provinces, but it failed.
 *   **Aug. 11, 1863:** France signed a protectorate treaty with the Cambodian King Norodom.
 *   **1864:** The first school in Vietnam to teach chữ Quốc ngữ (the romanized Vietnamese script), the Saigon School of Interpreters (Collège des interprètes), was officially established.
+*   **1864:** **Ha Tinh** was re-established as a separate "dao" (county), independent from Nghe An.
 *   **Apr. 15, 1865:** The first Vietnamese-language newspaper using chữ Quốc ngữ, the Gia Định báo, was launched in Saigon.
 *   **May 1865:** The first Military Doctorate (Vo Tien si) examination was held to select military talents.
 *   **Nov. 1865:** The "Nha si" (Elegant Scholar) examination was held for the first time to recruit virtuous and learned scholars.
@@ -691,6 +699,7 @@
 *   **1868:** Emperor Tu Duc officially restored Le Van Duyet's titles as "Vong Cac Merit Official" and "Commander of the Left Army", allowing him to be worshipped in the Temple of Meritorious Officials, completing his rehabilitation.
 *   **Feb. 1869:** Chữ Quốc ngữ was mandated for use in official documents in Cochinchina, replacing chữ Nho (classical Chinese characters), according to a decree by Vice Admiral Marie Gustave Hector Ohier.
 *   **Nov. 1872:** Jean Dupuis, a French merchant, began causing disturbances in Tonkin (Bac Ky), under the pretext of transporting goods to Yunnan.
+*   **1873:** The administrative seat of Doan Hung prefecture (Son Tay province) was burned and destroyed by bandits.
 *   **Nov. 20, 1873:** Under the pretext of resolving the Dupuis affair, Francis Garnier led troops to attack and capture Hanoi Citadel for the first time.
 *   **Dec. 21, 1873:** First Battle of Cau Giay. The Black Flag Army of Liu Yongfu, in coordination with the troops of Hoang Ta Viem, ambushed and killed Francis Garnier.
 *   **Feb. 1874:** French forces withdrew from Hanoi and the other occupied cities in Tonkin.

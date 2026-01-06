@@ -100,6 +100,7 @@
 *   **12/1020:** Quân Lý dưới sự chỉ huy của Thái tử Lý Phật Mã đánh bại quân Chiêm Thành ở trại Bố Chính (Quảng Bình).
 *   **1028:** Lý Thái Tổ mất, Lý Phật Mã lên ngôi (Lý Thái Tông). Xảy ra "Loạn Tam vương" nhưng bị dẹp yên.
 *   **1029:** Vua Lý Thái Tông dẹp loạn ở giáp Đãn Nãi (Thanh Hóa) và cho đào kênh Đãn Nãi.
+*   **04/1036:** Vua Lý Thái Tông đến Hoan Châu, đặt hành dinh và đổi tên châu này thành châu **Nghệ An**.
 *   **1038:** Vua Lý Thái Tông đích thân cày ruộng tịch điền ở Bố Hải Khẩu, tuyên bố coi trọng nông nghiệp để "thiên hạ noi theo".
 *   **02/1040:** Vua Lý Thái Tông dạy các cung nữ dệt gấm vóc, xuống chiếu phát hết gấm vóc của nước Tống trong kho ban cho các quan để tỏ ý dùng hàng nội, không dùng hàng Tống nữa.
 *   **1042:** Triều đình ban hành bộ *Hình thư*, bộ luật thành văn đầu tiên của Việt Nam. Bộ luật có điều khoản nghiêm cấm bán hoàng nam làm nô bộc.
@@ -124,6 +125,7 @@
 *   **1089:** Vua Lý Nhân Tông định rõ các chức quan văn võ, phân định phẩm cấp quan lại trong triều đình.
 *   **1104:** Lý Thường Kiệt đánh bại quân Champa, buộc vua Chế Ma Na phải trả lại 3 châu đã chiếm trước đó.
 *   **1108:** Triều đình cho đắp đê Cơ Xá ở Thăng Long để phòng chống lũ lụt sông Hồng.
+*   **1111:** Danh xưng **Thanh Hóa** lần đầu tiên xuất hiện trong sử sách khi phủ Thanh Hóa dâng cây cau 9 gốc.
 *   **1116:** Thiền sư Từ Đạo Hạnh viên tịch. Tương truyền ông đầu thai thành vua Lý Thần Tông.
 *   **15/01/1128:** Lý Nhân Tông mất, Lý Dương Hoán (Lý Thần Tông) lên ngôi do được truyền ngôi theo di chiếu của vua Lý Nhân Tông (Lý Nhân Tông không có con nên nhận Lý Dương Hoán làm con nuôi và truyền ngôi).
 *   **1136:** Thiền sư Nguyễn Minh Không chữa khỏi bệnh lạ (hóa hổ) cho vua Lý Thần Tông, sau được phong làm Quốc sư.
@@ -363,6 +365,7 @@
 *   **04/1599:** Vua Lê tấn phong Trịnh Tùng làm Đô Nguyên súy, Thượng phụ Bình An vương, chính thức hình thành thể chế Vua Lê - Chúa Trịnh ở Đàng Ngoài.
 *   **1600:** Nguyễn Hoàng từ Bắc Hà trở về Thuận Quảng, bắt đầu thực hiện chính sách cai trị mới, từng bước tách khỏi sự ràng buộc của họ Trịnh.
 *   **1601:** Tướng quân Tokugawa Ieyasu gửi thư cho chúa Nguyễn Hoàng đề nghị thiết lập quan hệ giao thương và kiểm soát thương nhân Nhật Bản.
+*   **1604:** Chúa Nguyễn Hoàng đổi phủ Tiên Bình thành phủ **Quảng Bình**.
 *   **Thế kỷ XVI:** Các nhà thám hiểm Bồ Đào Nha gọi Hoàng Sa là "Ilhas do Pracel".
 *   **Nửa đầu thế kỷ XVII:** Các Chúa Nguyễn đã cử *đội Hoàng Sa* ra hai quần đảo Hoàng Sa và Trường Sa để khai thác sản vật, thu lượm hàng hóa trôi dạt và thực thi chủ quyền, bao gồm đo vẽ hải trình, trồng cây và dựng mốc. Phú Quốc vẫn là một vùng đất hoang vu, chịu sự tranh chấp giữa Chân Lạp (Campuchia) và các thế lực khác.
 *   **1611:** Quân Nguyễn đánh Chiêm Thành, lấy được vùng đất phía nam đèo Cù Mông và lập ra phủ Phú Yên.
@@ -585,6 +588,7 @@
 *   **1821 - 1827:** Cuộc nổi dậy của nông dân do Phan Bá Vành lãnh đạo ở vùng đồng bằng ven biển Bắc Bộ.
 *   **1821:** Vua Minh Mạng cho lập **Quốc Sử Quán**, chuyên trách việc biên soạn lịch sử của triều đại và đất nước.
 *   **1822:** Vua Minh Mạng cho lập Hàn lâm viện, tổ chức kỳ thi Hội đầu tiên và đổi dinh Quảng Đức làm phủ Thừa Thiên.
+*   **1822:** Đổi dinh Quảng Đức thành phủ **Thừa Thiên**.
 *   **1822 (Năm Minh Mạng thứ 3):** Đổi tên các trấn: Sơn Nam Thượng thành Sơn Nam, Sơn Nam Hạ thành Nam Định, An Quảng thành Quảng Yên, Bắc Giang thành Bắc Ninh.
 *   **1822:** Vua Minh Mạng đổi tên Cung Thành thành **Tử Cấm Thành**.
 *   **29/08/1822:** John Crawfurd, sứ giả của Toàn quyền Anh tại Ấn Độ, đến Sài Gòn và yết kiến Tổng trấn Lê Văn Duyệt. Lê Văn Duyệt tỏ thái độ cởi mở với việc giao thương quốc tế nhưng vẫn giữ nguyên tắc ngoại giao của triều đình. Đặc biệt, ông đã từ chối nhận quà biếu của phái đoàn Anh để giữ sự công tâm trong việc nước.
@@ -604,6 +608,7 @@
 *   **1830:** Tổng trấn Lê Văn Duyệt tấu xin và đốc suất việc xây dựng lại thành Gia Định (thành Phiên An) bằng đá ong, mở rộng quy mô kiên cố bậc nhất miền Nam.
 *   **01/1830:** Vua Minh Mạng cho xây dựng **Hổ Quyền** tại gò Long Thọ (Huế), một đấu trường độc đáo dành cho các cuộc tử chiến giữa voi và hổ.
 *   **10/1831:** Vua Minh Mạng tiến hành cuộc cải cách hành chính lớn, xóa bỏ các tổng trấn, đổi các dinh, trấn ở Bắc Hà thành 18 tỉnh.
+*   **1831 - 1832:** Cải cách hành chính chia định các tỉnh trong cả nước. Các tỉnh **Sơn Tây**, **Tuyên Quang**, **Hưng Hóa**, **Ninh Bình**, **Thanh Hóa**, **Nghệ An**, **Hà Tĩnh**, **Quảng Bình**, **Quảng Trị** chính thức được thành lập trong giai đoạn này.
 *   **30/07/1832:** Tả quân Lê Văn Duyệt, Tổng trấn Gia Định thành, qua đời, thọ 60 tuổi. Trước khi mất, ông đã dâng sớ xin chia đất Gia Định thành các tỉnh như ở Bắc Hà, nhưng vua Minh Mạng ban đầu không chấp thuận.
 *   **1832:** Ty Đài hiến được đổi thành Đô sát viện; thành lập Tam pháp ty (gồm đại diện của Hình bộ, Đô sát viện và Đại lý tự).
 *   **10/1832:** Xóa bỏ Tổng trấn Gia Định thành, chia các trấn từ Quảng Nam vào Nam thành 12 tỉnh.
@@ -637,6 +642,7 @@
 *   **1841 - 1842:** Cuộc khởi nghĩa của người Khơme do Lâm Sâm lãnh đạo ở Lạc Hóa, Trà Vinh.
 *   **1841 - 1842:** Các cuộc nổi dậy ở vùng Hà Âm - Hà Dương (An Giang, Hà Tiên).
 *   **1841:** Vua Thiệu Trị ban chiếu minh oan, phục hồi quan tước cho Lê Văn Duyệt, sai dỡ bỏ bia đá và xiềng xích tại mộ phần của ông.
+*   **1841:** Do kiêng húy tên Hoàng thái hậu Hồ Thị Hoa, phủ Hà Hoa đổi thành Hà Thanh, huyện Kỳ Hoa đổi thành Kỳ Anh, và huyện Hoa Xuyên đổi thành Cẩm Xuyên.
 *   **1842:** Vua Thiệu Trị thực hiện chuyến "Ngự giá Bắc tuần" ra Hà Nội để xem xét tình hình Bắc Hà và làm lễ thụ phong của nhà Thanh.
 *   **1843:** Đổi tên tỉnh Thanh Hoa thành tỉnh **Thanh Hóa** để kiêng húy tên của Tá Thiên Nhân Hoàng hậu (Hồ Thị Hoa).
 *   **1843:** Vua Thiệu Trị sai biên soạn bộ **"Đại Nam hội điển sự lệ"**.
@@ -647,6 +653,7 @@
 *   **04/11/1847:** Vua Thiệu Trị băng hà.
 *   **10/11/1847:** Vua Tự Đức lên ngôi.
 *   **1848:** Vua Tự Đức ra lệnh xây đắp lại mộ phần và miếu thờ Lê Văn Duyệt (Lăng Ông Bà Chiểu) cho khang trang, rộng rãi hơn.
+*   **1853:** Vua Tự Đức đổi tỉnh Quảng Trị thành đạo Quảng Trị (lệ thuộc phủ Thừa Thiên), và nhập phủ Đức Thọ (trước thuộc Hà Tĩnh) vào tỉnh Nghệ An.
 *   **02/1848:** Triều đình bắt đầu cho đúc tiền "Tự Đức thông bảo" và hoàn thành bộ sách *Thế Tổ Cao Hoàng đế thực lục chính biên*.
 *   **03/1850:** Vua Tự Đức cho mở tòa Kinh Diên (nơi vua nghe giảng sách) và thành lập viện Tập Hiền.
 *   **12/1852:** Vua Tự Đức ra lệnh biên soạn bộ quốc sử *Khâm định Việt sử thông giám cương mục*, do Phan Thanh Giản làm Tổng tài.
@@ -680,6 +687,7 @@
 *   **08/1863:** Triều đình Huế cử phái bộ do Phan Thanh Giản dẫn đầu sang Pháp thương lượng xin chuộc lại 3 tỉnh miền Đông nhưng thất bại.
 *   **11/08/1863:** Pháp ký hiệp ước bảo hộ với vua Campuchia Norodom.
 *   **1864:** Trường học đầu tiên dạy chữ Quốc ngữ ở Việt Nam là Trường Thông ngôn Sài Gòn (Collège des interprètes), được thành lập chính thức.
+*   **1864:** Đạo **Hà Tĩnh** được tách ra và đặt làm một đạo riêng biệt, không còn lệ thuộc vào Nghệ An.
 *   **15/04/1865:** Tờ báo tiếng Việt đầu tiên sử dụng chữ Quốc ngữ là *Gia Định báo*, được ra mắt tại Sài Gòn.
 *   **05/1865:** Triều đình mở khoa thi Tiến sĩ võ đầu tiên để tuyển chọn nhân tài quân sự.
 *   **11/1865:** Triều đình mở khoa thi Nhã sĩ để kén chọn những người văn học rộng rãi, phẩm hạnh thuần chính.
@@ -691,6 +699,7 @@
 *   **1868:** Vua Tự Đức chính thức truy phục chức tước cho Lê Văn Duyệt làm "Vọng Các công thần", "Chưởng Tả quân", tước Quận công và cho thờ vào miếu Trung hưng công thần, hoàn tất việc minh oan cho ông.
 *   **02/1869:** Chữ quốc ngữ được quy định dùng bắt buộc thay chữ Nho trong công văn ở Nam Kỳ, theo nghị định của Phó đô đốc Marie Gustave Hector Ohier.
 *   **11/1872:** Jean Dupuis, một lái buôn người Pháp, bắt đầu gây rối ở Bắc Kỳ, lấy cớ vận chuyển hàng hóa lên Vân Nam.
+*   **1873:** Phủ lỵ Đoan Hùng (tỉnh Sơn Tây) bị giặc cướp đốt phá, phải chuyển đến làm việc tại nhà dân.
 *   **20/11/1873:** Lấy cớ giải quyết vụ Dupuis, Francis Garnier đem quân tấn công và chiếm thành Hà Nội lần thứ nhất.
 *   **21/12/1873:** Trận Cầu Giấy lần thứ nhất. Quân Cờ Đen của Lưu Vĩnh Phúc phối hợp với quân của Hoàng Tá Viêm phục kích, giết chết Francis Garnier.
 *   **02/1874:** Quân Pháp rút khỏi Hà Nội và các tỉnh thành đã chiếm ở Bắc Kỳ.
