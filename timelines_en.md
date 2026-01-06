@@ -581,6 +581,7 @@
 *   **Jan. 1803:** Emperor Gia Long ordered the casting of the **Nine Holy Cannons** (Cửu Vị Thần Công) from captured bronze weapons, completed in December 1804, symbolizing the power and longevity of the dynasty.
 *   **1803:** Emperor Gia Long ordered the reconstruction of the **Thang Long Citadel** (Hanoi Citadel).
 *   **1803:** Emperor Gia Long set the salary regulations for officials and soldiers in the Northern Citadel.
+*   **1803:** The court established Trang Tien in Thang Long to mint "Gia Long Thong Bao" coins.
 *   **1803 - 1808:** General Le Van Duyet was dispatched to suppress the uprising of the "Thach Bich savages" (ethnic minorities) in the Quang Ngai region, stabilizing the border areas.
 *   **1804:** Emperor Gia Long officially established the national title "Viet Nam" (after the Qing dynasty rejected "Nam Viet"). He also ordered the casting of seals for the six ministries and promulgated the communal land allocation system.
 *   **1804:** Construction of the **Cung Thanh** (Palace City) began behind the Thai Hoa Palace, serving as the private residence for the Emperor and the royal family (renamed Purple Forbidden City in 1822).
@@ -598,6 +599,7 @@
 *   **1809 - 1819:** Scholar Phan Huy Chu compiled the **"Lich Trieu Hien Chuong Loai Chi"** (Regulations of Successive Dynasties by Subject), a monumental encyclopedic work on Vietnam's institutions and history.
 *   **Jan. 1811:** Emperor Gia Long ordered the compilation of an official law code for the dynasty.
 *   **Jul. 1812:** The law code *Hoang Viet luat le* (commonly known as the Gia Long Code) was completed.
+*   **Dec. 1812:** Emperor Gia Long issued an edict temporarily reusing the national title **Dai Viet**.
 *   **1812:** Le Van Duyet was appointed Governor-General of Gia Dinh Citadel (first term, 1812-1816), with authority over the entire Southern region. During this time, he established strict laws, eliminated banditry, and brought peace to the people.
 *   **1813:** Le Van Duyet and Nguyen Van Thuy escorted King Ang Chan II (Nac Ong Chan) back to Cambodia to restore his throne. Le Van Duyet oversaw the construction of the Nam Vang (Phnom Penh) Citadel and the La Lem Citadel to store grain and weapons.
 *   **1813:** The *Hoang Viet luat le* was carved, printed, and promulgated nationwide.
@@ -616,6 +618,7 @@
 *   **Feb. 14, 1820:** Emperor Minh Mang officially ascended the throne at the Thai Hoa Palace. He established the *Van thu phong* (Chancellery) to handle administrative documents.
 *   **1820:** The "Monk Ke" rebellion (Giặc Sãi) broke out in Cambodia and the border region. Governor Le Van Duyet dispatched troops to suppress it, stabilizing the southwestern border.
 *   **1820:** The system of **Chau Ban** (Vermilion Records), official administrative documents with the Emperor's comments in red ink, was established.
+*   **Jul. 1820:** Emperor Minh Mang issued an edict prohibiting opium, marking the first official ban on this drug due to its harmful effects on the administration and populace.
 *   **Sep. 1820:** Le Van Duyet ordered the execution of Deputy Governor Huynh Cong Ly (Emperor Minh Mang's father-in-law) for corruption and oppressing the people during the digging of the Tau Hu canal. This event demonstrated the strict enforcement of the law regardless of royal connections but also deepened the rift between Le Van Duyet and Emperor Minh Mang.
 *   **1821:** Phan Huy Chu presented his work **"Lich Trieu Hien Chuong Loai Chi"** to Emperor Minh Mang and was appointed as an editor at the Imperial Academy.
 *   **1821 - 1827:** The peasant uprising led by Phan Ba Vanh in the northern coastal plains.
