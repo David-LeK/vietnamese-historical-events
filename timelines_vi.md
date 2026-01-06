@@ -353,6 +353,7 @@
 *   **1545:** Nguyễn Kim bị một hàng tướng nhà Mạc đầu độc chết. Con rể là Trịnh Kiểm lên thay, nắm toàn bộ binh quyền, mâu thuẫn giữa hai dòng họ Trịnh-Nguyễn bắt đầu nảy sinh.
 *   **10/1558:** Trịnh Kiểm cử Nguyễn Hoàng (con trai thứ của Nguyễn Kim) vào trấn thủ Thuận Hóa để tránh sự đố kỵ. Nguyễn Hoàng bắt đầu xây dựng cơ sở cát cứ ở phương Nam.
 *   **1570:** Nguyễn Hoàng được giao kiêm trấn thủ cả hai xứ Thuận Hóa và Quảng Nam, quyền lực ngày càng lớn.
+*   **1572:** Đào Duy Từ, nhà quân sự và chính trị kiệt xuất của chúa Nguyễn sau này, sinh ra tại Thanh Hóa.
 *   **1578:** Hải tặc Nhật Bản (Wako) tấn công vùng biển Đàng Trong, cướp thuyền của thương nhân Trung Hoa.
 *   **1585:** Thế tử Nguyễn Phúc Nguyên chỉ huy thủy quân đánh tan đoàn thuyền của hải tặc Nhật Bản do Shirahama Kenchi chỉ huy tại Cửa Việt.
 *   **1585:** Nguyễn Bỉnh Khiêm qua đời tại quê nhà (28 tháng 11 năm Ất Dậu).
@@ -373,9 +374,13 @@
 *   **1623:** Chúa Trịnh Tùng mất, con là Trịnh Tráng lên nối ngôi (Thanh Đô Vương).
 *   **1626:** Giáo sĩ Dòng Tên Juliano Baldinotti đến Đàng Ngoài (Kẻ Chợ), để lại những ghi chép quan trọng về tình hình xã hội thời bấy giờ.
 *   **03/1627:** Nội chiến Trịnh-Nguyễn chính thức bùng nổ. Lần thứ nhất, quân Trịnh do Trịnh Tráng chỉ huy tiến vào Nam nhưng bị đánh bại ở cửa Nhật Lệ.
+*   **Mùa Đông 1627:** Đào Duy Từ trốn vào Đàng Trong, được Trần Đức Hòa tiến cử với chúa Nguyễn Phúc Nguyên, bắt đầu sự nghiệp phò tá chúa Nguyễn.
 *   **1627 - 1651:** Công chúa Nguyễn Phúc Ngọc Khoa được gả cho vua Champa là Po Rome, tiếp tục chính sách ngoại giao hôn nhân để mở rộng ảnh hưởng về phía Nam.
-*   **1630 - 1631:** Ở Đàng Trong, Đào Duy Từ cho xây dựng hệ thống Lũy Thầy (Lũy Trường Dục và Lũy Nhật Lệ) kiên cố để phòng thủ.
+*   **03/1630:** Theo lời khuyên của Đào Duy Từ, chúa Nguyễn cho đắp lũy Trường Dục (Quảng Bình) để ngăn chặn quân Trịnh.
+*   **09/1630:** Theo đề nghị của Đào Duy Từ, chúa Nguyễn Phúc Nguyên mở cuộc tấn công vào châu Nam Bố Chính và chiếm được vùng đất này.
+*   **1631:** Chúa Nguyễn cho đắp lũy Nhật Lệ (Lũy Thầy) kiên cố hơn, dài 18km, theo kế sách của Đào Duy Từ, tạo nên phòng tuyến vững chắc cho Đàng Trong.
 *   **1633:** Cuộc chiến lần thứ hai, quân Trịnh tấn công nhưng không vượt qua được hệ thống phòng lũy và lại thất bại.
+*   **10/1634:** Đào Duy Từ qua đời, thọ 63 tuổi. Ông được coi là đệ nhất khai quốc công thần của họ Nguyễn và được thờ ở Thái miếu.
 *   **1635:** Chúa Nguyễn Phúc Nguyên mất, con thứ hai là Nguyễn Phúc Lan lên nối ngôi (Thượng Vương).
 *   **1642:** Tiềm lực quân sự Đàng Trong gia tăng mạnh, sở hữu khoảng 200 khẩu đại bác và tăng lên 1.200 khẩu vào năm 1650 nhờ giao thương với phương Tây.
 *   **1643:** Cuộc chiến lần thứ ba, quân Trịnh vây đánh lũy Trung Hòa nhưng không hạ được, phải rút quân.

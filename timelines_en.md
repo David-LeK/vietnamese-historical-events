@@ -337,6 +337,7 @@
 *   **1551:** The rebellion of Pham Tu Nghi and Mac Chinh Trung was suppressed.
 *   **1558:** Trinh Kiem appointed Nguyen Hoang (son of Nguyen Kim) as governor of Thuan Hoa to expand his power and guard against Mac forces from the sea.
 *   **1570:** Trinh Kiem passed away. His sons, Trinh Coi and Trinh Tung, fought for power. Trinh Coi lost and surrendered to the Mac. Trinh Tung took power and continued the anti-Mac campaign.
+*   **1572:** Dao Duy Tu, a renowned scholar and military strategist who would later serve the Nguyen Lords, was born in Thanh Hoa.
 *   **1578:** Japanese pirates (Wako) raided the coast of Dang Trong, plundering merchant ships.
 *   **1585:** Prince Nguyen Phuc Nguyen commanded a naval force to defeat a fleet of Japanese pirates (Wako) led by Shirahama Kenchi at Cua Viet, destroying two ships.
 *   **1585:** The renowned scholar and prophet Nguyen Binh Khiem passed away.
@@ -373,9 +374,13 @@
 *   **1623:** Lord Trinh Tung passed away. His son, Trinh Trang, succeeded him as Lord (Thanh Do Vuong).
 *   **1626:** The Jesuit missionary Juliano Baldinotti arrived in Tonkin (Dang Ngoai), marking one of the earliest official Western accounts of the region.
 *   **Mar. 1627:** The Trinh-Nguyen civil war officially broke out. In the first campaign, the Trinh army led by Trinh Trang advanced south but was defeated at the Nhat Le gate.
+*   **Winter 1627:** Dao Duy Tu escaped to Dang Trong to avoid the Trinh administration and served Lord Nguyen Phuc Nguyen, later becoming a key strategist.
 *   **1627 - 1651:** Princess Nguyen Phuc Ngoc Khoa was married to the Cham King Po Rome, continuing the diplomatic marriage strategy to expand influence to the south.
-*   **1630 - 1631:** In Dang Trong (the South), Dao Duy Tu ordered the construction of a system of strong defensive walls, the Luy Thay (Truong Duc and Nhat Le walls).
+*   **Mar. 1630:** Following the advice of Dao Duy Tu, the Nguyen Lord ordered the construction of the Truong Duc defensive wall to block the Trinh army.
+*   **Sep. 1630:** Acting on Dao Duy Tu's strategy, Lord Nguyen Phuc Nguyen launched an attack on the Southern Bo Chinh prefecture and captured it.
+*   **1631:** Following Dao Duy Tu's plan, the Nguyen Lord constructed the Nhat Le Wall (also known as Luy Thay), an 18km long fortification crucial for defense.
 *   **1633:** In the second campaign, the Trinh army attacked but could not overcome the defensive walls and was again defeated.
+*   **Oct. 1634:** Dao Duy Tu passed away at the age of 63. He was honored as the foremost meritorious official in the founding of the Nguyen Lords' dominion.
 *   **1635:** Lord Nguyen Phuc Nguyen passed away. His second son, Nguyen Phuc Lan, succeeded him.
 *   **1642:** The military strength of Dang Trong increased significantly, possessing about 200 cannons, which rose to 1,200 by 1650 thanks to trade with the West.
 *   **1643:** In the third campaign, the Trinh army besieged the Trung Hoa wall but could not capture it and had to withdraw.
