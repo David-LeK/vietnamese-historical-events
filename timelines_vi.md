@@ -123,8 +123,11 @@
 *   **1089:** Vua Lý Nhân Tông định rõ các chức quan văn võ, phân định phẩm cấp quan lại trong triều đình.
 *   **1104:** Lý Thường Kiệt đánh bại quân Champa, buộc vua Chế Ma Na phải trả lại 3 châu đã chiếm trước đó.
 *   **1108:** Triều đình cho đắp đê Cơ Xá ở Thăng Long để phòng chống lũ lụt sông Hồng.
+*   **1116:** Thiền sư Từ Đạo Hạnh viên tịch. Tương truyền ông đầu thai thành vua Lý Thần Tông.
 *   **15/01/1128:** Lý Nhân Tông mất, Lý Dương Hoán (Lý Thần Tông) lên ngôi do được truyền ngôi theo di chiếu của vua Lý Nhân Tông (Lý Nhân Tông không có con nên nhận Lý Dương Hoán làm con nuôi và truyền ngôi).
+*   **1136:** Thiền sư Nguyễn Minh Không chữa khỏi bệnh lạ (hóa hổ) cho vua Lý Thần Tông, sau được phong làm Quốc sư.
 *   **11/1138:** Lý Thần Tông mất, Lý Thiên Tộ (Lý Anh Tông) lên ngôi do được truyền ngôi theo di chiếu của vua cha Lý Thần Tông (lúc mới 3 tuổi).
+*   **1141:** Quốc sư Nguyễn Minh Không viên tịch.
 *   **02/1149:** Lập trang Vân Đồn (Quảng Ninh) để làm nơi cho thuyền buôn các nước vào buôn bán, chính thức mở ra thương cảng quốc tế đầu tiên.
 *   **1150:** Xảy ra vụ biến loạn Đỗ Anh Vũ trong triều đình.
 *   **14/08/1175:** Lý Anh Tông mất, Lý Long Cán lên ngôi (Lý Cao Tông) lúc mới 2 tuổi.
@@ -144,6 +147,7 @@
 *   **1230:** Ban hành các bộ luật Quốc triều thông chế và Quốc triều thường lễ.
 *   **1237:** Xảy ra vụ loạn Trần Liễu do Trần Thủ Độ ép vua Trần Thái Tông lấy vợ của anh trai mình là Thuận Thiên công chúa.
 *   **1242:** Triều đình tiến hành cải cách hành chính, chia cả nước thành 12 lộ.
+*   **1247:** Nguyễn Hiền đỗ Trạng nguyên khi mới 12 tuổi, trở thành Trạng nguyên trẻ nhất trong lịch sử khoa bảng Việt Nam.
 *   **1250:** Vua Trần Thái Tông xuống chiếu cho thiên hạ gọi vua là "Quốc gia" để đề cao vị thế nhà vua và tính thống nhất của đất nước.
 *   **1252:** Trần Thái Tông thân chinh đánh Champa.
 *   **06/1253:** Vua Trần Thái Tông cho lập **Quốc học viện** để giảng dạy Tứ thư, Ngũ kinh cho các nho sĩ.
@@ -173,6 +177,7 @@
 *   **09/04/1288:** Trận Bạch Đằng lịch sử. Thủy quân Nguyên bị tiêu diệt hoàn toàn dưới sự chỉ huy của Hưng Đạo vương Trần Quốc Tuấn. Cuộc kháng chiến chống Mông-Nguyên lần thứ ba kết thúc thắng lợi vẻ vang.
 *   **16/04/1293:** Trần Nhân Tông nhường ngôi cho Thái tử Trần Thuyên (sau là Trần Anh Tông).
 *   **03/10/1300:** Hưng Đạo Đại vương Trần Quốc Tuấn qua đời. Trước khi mất, ông dặn vua Trần Anh Tông: "Phải khoan thư sức dân để làm kế sâu rễ bền gốc", coi đó là thượng sách giữ nước.
+*   **1304:** Mạc Đĩnh Chi đỗ Trạng nguyên. Ông nổi tiếng với tài năng và sự ứng đối khiến vua quan nhà Nguyên nể phục, được phong là "Lưỡng quốc Trạng nguyên".
 *   **Khoảng thế kỷ XIV:** Truyền thuyết Lạc Long Quân và Âu Cơ, Phù Đổng Thiên Vương (Thánh Gióng), và Sơn Tinh - Thủy Tinh được ghi chép lần đầu tiên trong bộ sách sử **Lĩnh Nam chích quái**.
 *   **1306:** Vua Champa là Chế Mân dâng hai châu Ô và Lý để làm sính lễ cưới công chúa Huyền Trân.
 *   **1307:** Nhà Trần đổi tên hai châu Ô, Lý thành châu Thuận và châu Hóa, sáp nhập vào lãnh thổ Đại Việt.
@@ -321,7 +326,9 @@
 *   **1529:** Mạc Đăng Dung nhường ngôi cho con là Mạc Đăng Doanh, lui về làm Thái thượng hoàng.
 *   **01/01/1530:** Mạc Đăng Doanh lên ngôi vua, lấy niên hiệu là Đại Chính.
 *   **1533:** Tại Ai Lao, Nguyễn Kim (một cựu thần nhà Lê) tìm được Lê Ninh (con vua Lê Chiêu Tông), lập lên làm vua (Lê Trang Tông), bắt đầu công cuộc "phù Lê diệt Mạc".
+*   **1535:** Nguyễn Bỉnh Khiêm (Trạng Trình), nhà văn hóa và nhà tiên tri lỗi lạc, đỗ Trạng nguyên dưới triều Mạc.
 *   **1537:** Nhà Minh lấy cớ "hỏi tội" họ Mạc, chuẩn bị quân đội ở biên giới, gây áp lực với triều Mạc.
+*   **1538:** Giáp Hải đỗ Trạng nguyên dưới triều Mạc.
 *   **03/11/1540:** Mạc Đăng Dung tự quấn dây vào cổ, đi chân đất đến cửa ải Nam Quan xin hàng tướng nhà Minh. Nhà Minh chấp nhận, nhưng hạ An Nam xuống làm Đô thống sứ ty, phong cho họ Mạc chức Đô thống sứ. Triều Mạc phải cắt đất 4 động ở biên giới cho nhà Minh.
 *   **27/08/1541:** Mạc Đăng Dung mất.
 *   **1543:** Quân Lê-Trịnh từ Ai Lao về, chiếm lại được thành Tây Đô (Thanh Hóa), chính thức lấy vùng Thanh - Nghệ làm căn cứ địa.
@@ -348,6 +355,7 @@
 *   **1570:** Nguyễn Hoàng được giao kiêm trấn thủ cả hai xứ Thuận Hóa và Quảng Nam, quyền lực ngày càng lớn.
 *   **1578:** Hải tặc Nhật Bản (Wako) tấn công vùng biển Đàng Trong, cướp thuyền của thương nhân Trung Hoa.
 *   **1585:** Thế tử Nguyễn Phúc Nguyên chỉ huy thủy quân đánh tan đoàn thuyền của hải tặc Nhật Bản do Shirahama Kenchi chỉ huy tại Cửa Việt.
+*   **1585:** Nguyễn Bỉnh Khiêm qua đời tại quê nhà (28 tháng 11 năm Ất Dậu).
 *   **1592:** Trịnh Tùng đánh bại hoàn toàn nhà Mạc, chiếm lại Thăng Long, khôi phục triều Lê. Dư đảng nhà Mạc rút lên Cao Bằng.
 *   **04/1599:** Vua Lê tấn phong Trịnh Tùng làm Đô Nguyên súy, Thượng phụ Bình An vương, chính thức hình thành thể chế Vua Lê - Chúa Trịnh ở Đàng Ngoài.
 *   **1600:** Nguyễn Hoàng từ Bắc Hà trở về Thuận Quảng, bắt đầu thực hiện chính sách cai trị mới, từng bước tách khỏi sự ràng buộc của họ Trịnh.
@@ -412,6 +420,7 @@
 *   **1739:** Các cuộc khởi nghĩa nông dân lớn ở Đàng Ngoài bùng nổ, tiêu biểu là cuộc khởi nghĩa của Nguyễn Tuyển, Nguyễn Cừ ở Hải Dương và Hoàng Công Chất ở Sơn Nam.
 *   **1740:** Ở Đàng Ngoài, chúa Trịnh Giang bị phế truất, em là Trịnh Doanh lên nối ngôi (Minh Đô Vương).
 *   **1741 - 1751:** Cuộc khởi nghĩa của Nguyễn Hữu Cầu (Quận He) hoạt động mạnh mẽ ở vùng duyên hải Sơn Nam và Hải Dương, gây nhiều khó khăn cho quân Trịnh.
+*   **1754:** Danh tướng Phạm Đình Trọng, người có công dẹp các cuộc nổi dậy của Nguyễn Hữu Cầu và Nguyễn Danh Phương, qua đời (Mùng 1 tháng 1 năm Giáp Tuất).
 *   **1744:** Ở Đàng Trong, Nguyễn Phúc Khoát xưng Vương, cải tổ lại chính quyền theo quy chế của một vương triều độc lập.
 *   **1744:** Chúa Nguyễn Phúc Khoát tiến hành đổi mới phong tục, bắt buộc quan dân thay đổi lối ăn mặc (theo kiểu Trung Quốc) và đổi tên các cơ quan hành chính (Phủ đổi thành Điện).
 *   **1756:** Vua Chân Lạp Nặc Nguyên dâng đất hai phủ Tầm Bôn và Lôi Lạp (nay thuộc Tân An, Gò Công) cho chúa Nguyễn.
@@ -514,7 +523,8 @@
 *   **28/02/1801:** Đại chiến thủy quân tại Thị Nại. Thủy quân Nguyễn Ánh, dưới sự hỗ trợ của các sĩ quan và kỹ thuật phương Tây, đã tiêu diệt hạm đội Tây Sơn. Tướng Võ Di Nguy tử trận, Lê Văn Duyệt dẫn đầu cuộc tấn công. Chiến thắng này được gọi là "Đệ nhất vũ công" của nhà Nguyễn và đã xóa sổ hoàn toàn sức mạnh thủy quân Tây Sơn.
 *   **05/1801:** Trong chiến dịch đánh chiếm Phú Xuân, Lê Văn Duyệt và Lê Chất đã dùng mưu kế bất ngờ tại cửa Tư Dung, cho quân khiêng thuyền chiến qua bãi cát để đánh úp phía sau phòng tuyến quân Tây Sơn.
 *   **06/1801:** Sau khi chọc thủng cửa Tư Dung và cửa Thuận An (do Lê Văn Duyệt và Lê Chất làm tiên phong), quân Nguyễn đánh chiếm kinh đô Phú Xuân. Vua Cảnh Thịnh bỏ chạy ra Bắc.
-*   **15/06/1801:** Quân Nguyễn Ánh tiến vào kinh thành Phú Xuân (Huế), buộc vua Cảnh Thịnh phải bỏ chạy ra Bắc. Sự kiện này đánh dấu sự sụp đổ của trung tâm quyền lực nhà Tây Sơn.
+*   **07/07/1801:** (27 tháng 5 âm lịch) Võ Tánh và Ngô Tùng Châu tuẫn tiết để giữ thành Bình Định, cầm chân quân Tây Sơn giúp quân Nguyễn rảnh tay đánh chiếm Phú Xuân.
+*   **Tháng 5 âm lịch năm 1801:** Quân Nguyễn Ánh tiến vào kinh thành Phú Xuân (Huế), buộc vua Cảnh Thịnh phải bỏ chạy ra Bắc. Sự kiện này đánh dấu sự sụp đổ của trung tâm quyền lực nhà Tây Sơn.
 *   **01/1802:** Trận chiến ác liệt tại Trấn Ninh và Đâu Mâu (Quảng Bình). Nữ tướng Bùi Thị Xuân chỉ huy tượng binh chiến đấu dũng cảm. Nữ tướng Huỳnh Thị Cúc đã hy sinh thân mình để chặn hậu cho vua Cảnh Thịnh rút lui.
 *   **16/06/1802:** Trên đường rút chạy ra Bắc, tại Xương Giang, Đô đốc Tuyết (Nguyễn Văn Tuyết) tử trận khi bảo vệ vua Cảnh Thịnh. Thái hậu Bùi Thị Nhạn cùng các nữ tướng Trần Thị Lan, Nguyễn Thị Dung đều tự sát để giữ tròn khí tiết.
 *   **06/1802:** Sau khi thành Bình Định thất thủ, Nguyễn Ánh chính thức lên ngôi Hoàng đế ở Phú Xuân, đặt niên hiệu là Gia Long.

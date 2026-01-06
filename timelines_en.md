@@ -123,8 +123,11 @@
 *   **1089:** King Ly Nhan Tong established a defined hierarchy for civil and military officials, structuring the administrative system.
 *   **1104:** Ly Thuong Kiet defeated the Champa army, forcing King Che Ma Na (Jaya Indravarman II) to return the three provinces he had previously occupied.
 *   **1108:** The court ordered the construction of the Co Xa dike in Thang Long to prevent floods from the Red River.
+*   **1116:** The famous monk Tu Dao Hanh passed away. According to legend and historical accounts, he was reincarnated as King Ly Than Tong.
 *   **Jan. 15, 1128:** Ly Nhan Tong died, and Ly Duong Hoan (Ly Than Tong) ascended the throne, inheriting it according to the will of Emperor Ly Nhan Tong (Ly Nhan Tong had no children, so he adopted Ly Duong Hoan and passed the throne to him).
+*   **1136:** Zen Master Nguyen Minh Khong successfully cured King Ly Than Tong of a strange illness (often described in legends as "tiger transformation"), subsequently being appointed National Preceptor.
 *   **Nov. 1138:** Ly Than Tong died, and Ly Thien To (Ly Anh Tong) ascended the throne, inheriting it according to the will of his father, Emperor Ly Than Tong (at the age of only 3 years old).
+*   **1141:** National Preceptor Nguyen Minh Khong passed away.
 *   **Feb. 1149:** The Van Don trading post (Quang Ninh) was established as a place for merchant ships from other countries to trade, officially opening the first international trading port.
 *   **1150:** The Do Anh Vu rebellion occurred in the royal court.
 *   **Aug. 14, 1175:** Ly Anh Tong passed away, Ly Long Can ascended the throne (Ly Cao Tong) at the age of 2.
@@ -144,6 +147,7 @@
 *   **1230:** The law codes Quoc trieu thong che and Quoc trieu thuong le were promulgated.
 *   **1237:** The Tran Lieu rebellion occurred after Tran Thu Do forced King Tran Thai Tong to marry his older brother's wife, Princess Thuan Thien.
 *   **1242:** The court carried out administrative reforms, dividing the country into 12 routes (lo).
+*   **1247:** Nguyen Hien passed the imperial examination as Trang Nguyen (First Laureate) at the age of 12, becoming the youngest First Laureate in Vietnamese history.
 *   **1250:** King Tran Thai Tong issued a decree requiring the people to address the King as "Quoc gia" (The Nation/State) to elevate the King's position and national unity.
 *   **1252:** Tran Thai Tong personally led a campaign against Champa.
 *   **Jun. 1253:** King Tran Thai Tong established the **Quoc Hoc Vien** (National Academy) for scholars to lecture on the Classics.
@@ -173,6 +177,7 @@
 *   **Apr. 9, 1288:** The historic Battle of Bach Dang. The Yuan navy was completely annihilated under the command of Hung Dao Vuong Tran Quoc Tuan. The third resistance war against the Mongol-Yuan invaders ended in a glorious victory.
 *   **Apr. 16, 1293:** Tran Nhan Tong abdicated the throne in favor of Crown Prince Tran Thuyen (later Tran Anh Tong).
 *   **Oct. 3, 1300:** Hung Dao Vuong Tran Quoc Tuan passed away. Before his death, he advised King Tran Anh Tong: "Ease the strength of the people to make a deep root and durable base," considering it the best strategy for national defense.
+*   **1304:** Mac Dinh Chi, known for his diplomatic wit which impressed the Yuan court (earning him the title "Two-Nation First Laureate"), passed the imperial examination as Trang Nguyen.
 *   **Around the 14th century:** The legends of Lac Long Quan and Au Co, Phu Dong Thien Vuong (Saint Giong), and Son Tinh - Thuy Tinh were first recorded in the historical book **Lĩnh Nam chích quái**.
 *   **1306:** The Champa king Che Man (Jaya Simhavarman III) offered the two prefectures of O and Ly as a wedding gift to marry Princess Huyen Tran.
 *   **1307:** The Tran dynasty renamed the two prefectures of O and Ly to Thuan and Hoa, incorporating them into Dai Viet's territory.
@@ -321,7 +326,9 @@
 *   **1529:** Mac Dang Dung ceded the throne to his son Mac Dang Doanh and retired as Retired Emperor.
 *   **Jan. 1, 1530:** Mac Dang Doanh ascended the throne, taking the era name Dai Chanh.
 *   **1533:** In Ai Lao (Laos), Nguyen Kim (a former Le official) found Le Ninh (son of King Le Chieu Tong), established him as king (Le Trang Tong), and began the "support the Le, destroy the Mac" movement.
+*   **1535:** Nguyen Binh Khiem, a renowned scholar, poet, and prophet (known as Trang Trinh), passed the imperial examination as Trang Nguyen under the Mac dynasty.
 *   **1537:** The Ming dynasty, under the pretext of "punishing" the Mac, prepared troops at the border, putting pressure on the Mac court.
+*   **1538:** Giap Hai passed the imperial examination as Trang Nguyen under the Mac dynasty.
 *   **Nov. 3, 1540:** Mac Dang Dung tied himself with rope, walked barefoot to the Nam Quan border gate, and surrendered to the Ming dynasty generals. The Ming accepted, but downgraded An Nam to a Command Commission and appointed the Mac as Command Commissioners. The Mac court had to cede four frontier regions to the Ming.
 *   **Aug. 27, 1541:** Mac Dang Dung passed away.
 *   **1543:** The Le-Trinh army returned from Ai Lao, recaptured Tay Do Citadel (Thanh Hoa), and officially established the Thanh-Nghe region as their base.
@@ -332,6 +339,7 @@
 *   **1570:** Trinh Kiem passed away. His sons, Trinh Coi and Trinh Tung, fought for power. Trinh Coi lost and surrendered to the Mac. Trinh Tung took power and continued the anti-Mac campaign.
 *   **1578:** Japanese pirates (Wako) raided the coast of Dang Trong, plundering merchant ships.
 *   **1585:** Prince Nguyen Phuc Nguyen commanded a naval force to defeat a fleet of Japanese pirates (Wako) led by Shirahama Kenchi at Cua Viet, destroying two ships.
+*   **1585:** The renowned scholar and prophet Nguyen Binh Khiem passed away.
 *   **1570 - 1583:** A period of strong Mac counter-offensives. Mac Kinh Dien led multiple campaigns into Thanh Hoa and Nghe An, causing many difficulties for the Le-Trinh forces.
 *   **Nov. 1580:** The Mac dynasty's key pillar, Mac Kinh Dien, passed away.
 *   **1583 - 1592:** A period of Le-Trinh counter-offensives. Trinh Tung launched successive major attacks to the North.
@@ -412,6 +420,7 @@
 *   **1739:** Major peasant uprisings erupted in Dang Ngoai, notably the uprisings of Nguyen Tuyen and Nguyen Cu in Hai Duong, and Hoang Cong Chat in Son Nam.
 *   **1740:** In Dang Ngoai, the abusive Lord Trinh Giang was deposed. His younger brother, Trinh Doanh, succeeded him as Lord (Minh Do Vuong).
 *   **1741 - 1751:** The uprising of Nguyen Huu Cau (Quan He) was very active in the coastal areas of Son Nam and Hai Duong, causing great difficulty for the Trinh army.
+*   **1754:** General Pham Dinh Trong, famous for suppressing the uprisings of Nguyen Huu Cau and Nguyen Danh Phuong, passed away.
 *   **1744:** In Dang Trong, Nguyen Phuc Khoat proclaimed himself King (Vuong), reforming the government according to the statutes of an independent monarchy.
 *   **1744:** Lord Nguyen Phuc Khoat implemented a dress code reform, requiring people to wear trousers and buttoned shirts (Chinese style), and reorganized administrative titles.
 *   **1756:** The Cambodian king Nặc Nguyên (Ang Snguon) ceded the two prefectures of Tam Bon and Loi Lap (now in Tan An, Go Cong) to the Nguyen lord.
@@ -514,7 +523,8 @@
 *   **Feb. 28, 1801:** The Great Naval Battle of Thi Nai took place. Nguyen Anh's navy, with the assistance of Western officers and tactics, destroyed the Tay Son fleet. General Vo Di Nguy was killed in action, and Le Van Duyet led the assault. This victory was hailed as the "First Martial Achievement" of the Nguyen dynasty and decimated the Tay Son's naval capabilities.
 *   **May 1801:** In the campaign to capture Phu Xuan, Generals Le Van Duyet and Le Chat employed a surprise tactic at the Tu Dung estuary, dragging naval boats across sandbars to attack the Tay Son defensive line from the rear.
 *   **Jun. 1801:** Following the victory at Thi Nai and the capture of the Tu Hien and Thuan An estuaries (where Le Van Duyet and Le Chat led the vanguard), Nguyen Anh captured the capital Phu Xuan. King Canh Thinh fled to the North.
-*   **Jun. 15, 1801:** Nguyen Anh's forces entered the citadel of Phu Xuan (Hue), forcing King Canh Thinh to flee north. This event marked the collapse of the Tay Son's central power base.
+*   **Jul. 7, 1801:** (27th of the 5th lunar month) Generals Vo Tinh and Ngo Tung Chau committed suicide to defend Binh Dinh Citadel, allowing the main Nguyen army to focus on capturing Phu Xuan.
+*   **May (Lunar), 1801:** Nguyen Anh's forces entered the citadel of Phu Xuan (Hue), forcing King Canh Thinh to flee north. This event marked the collapse of the Tay Son's central power base.
 *   **Jan. 1802:** The Battle of Tran Ninh and Dau Mau took place. General Bui Thi Xuan fought bravely commanding elephant troops. General Huynh Thi Cuc sacrificed herself in battle to allow the royal forces to retreat.
 *   **Jun. 16, 1802:** In the retreat to the North, General Nguyen Van Tuyet (Do Doc Tuyet) died in battle at Xuong Giang protecting King Canh Thinh. Empress Dowager Bui Thi Nhan, along with female generals Tran Thi Lan and Nguyen Thi Dung, committed suicide to avoid capture.
 *   **Jun. 1802:** After Binh Dinh Citadel fell, Nguyen Anh officially ascended the throne as Emperor in Phu Xuan, establishing the era name Gia Long.
