@@ -123,6 +123,7 @@
 *   **1049:** Vua Lý Thái Tông cho xây dựng chùa Diên Hựu (chùa Một Cột).
 *   **1054:** Lý Thái Tông mất, Lý Nhật Tôn lên ngôi (Lý Thánh Tông), đổi quốc hiệu từ Đại Cồ Việt thành Đại Việt.
 *   **1055:** Hoàng tử Lý Nhật Quang đánh dẹp giặc Ông Kệ, Lý Phủ, ổn định vùng Nghệ An.
+*   **1056:** Vua Lý Thánh Tông cho xây chùa Sùng Khánh Báo Thiên và đúc đại hồng chung, được coi là một trong "An Nam tứ đại khí".
 *   **1057 (Năm Long Thụy Thái Bình thứ 4):** Tháp Tường Long được xây dựng tại Đồ Sơn (Hải Phòng).
 *   **1057:** Vua Lý Thánh Tông cho xây dựng **Tháp Báo Thiên** (Đại Thắng Tư Thiên Bảo Tháp) tại Thăng Long. Tháp cao 12 tầng và được coi là một trong "An Nam tứ đại khí".
 *   **1059:** Quân nhà Lý tiến sang đất Tống (Khâm Châu) để diễu võ dương oai.
@@ -144,6 +145,7 @@
 *   **30/11/1096:** Thiền sư Mãn Giác viên tịch, để lại bài kệ nổi tiếng "Cáo tật thị chúng" (Xuân đi trăm hoa rụng...).
 *   **Mùa đông 1101:** Thái úy Lý Thường Kiệt, dù đã cao tuổi, vẫn đích thân cầm quân đi đánh dẹp cuộc nổi dậy của Lý Giác ở Diễn Châu.
 *   **1104:** Lý Thường Kiệt đánh bại quân Champa, buộc vua Chế Ma Na phải trả lại 3 châu đã chiếm trước đó.
+*   **06/1105:** Thái úy Lý Thường Kiệt qua đời, thọ 86 tuổi. Ông là trụ cột của nhà Lý qua ba triều vua.
 *   **1108:** Triều đình cho đắp đê Cơ Xá ở Thăng Long để phòng chống lũ lụt sông Hồng.
 *   **1111:** Danh xưng **Thanh Hóa** lần đầu tiên xuất hiện trong sử sách khi phủ Thanh Hóa dâng cây cau 9 gốc.
 *   **01/06/1113:** Ni sư Diệu Nhân, nữ thiền sư nổi tiếng thời Lý, viên tịch.
@@ -163,6 +165,7 @@
 *   **1203:** Vua Lý Cao Tông cho xây dựng nhiều cung điện xa hoa, khiến dân chúng càng thêm khốn khổ, giặc cướp nổi lên.
 *   **01/1209:** Loạn Quách Bốc nổ ra ở kinh thành Thăng Long, vua Lý Cao Tông phải bỏ chạy. Hoàng tử Sảm chạy về Hải Ấp (Thái Bình), được họ Trần che chở và lấy Trần Thị Dung làm vợ.
 *   **1210:** Lý Cao Tông mất, Lý Hạo Sảm lên ngôi (Lý Huệ Tông). Thế lực họ Trần ngày càng lớn mạnh.
+*   **1211:** Vua Lý Huệ Tông lập con gái thứ hai của họ Trần (Trần Thị Dung) làm Nguyên phi. Thế lực ngoại thích họ Trần bắt đầu chi phối triều đình.
 *   **06/1225:** Lý Huệ Tông bị bệnh, không có con trai, đã truyền ngôi cho con gái thứ là Lý Thiên Hinh, hay Lý Chiêu Hoàng (7 tuổi). Bà đã trở thành nữ hoàng đầu tiên và duy nhất trong lịch sử Việt Nam.
 *   **10/01/1226:** Dưới sự sắp đặt của Trần Thủ Độ, Lý Chiêu Hoàng nhường ngôi cho chồng là Trần Cảnh (Trần Thái Tông). Vương triều Lý kết thúc.
 

@@ -123,6 +123,7 @@
 *   **1049:** King Ly Thai Tong ordered the construction of Dien Huu Pagoda (One Pillar Pagoda).
 *   **1054:** Ly Thai Tong passed away, Ly Nhat Ton ascended the throne (Ly Thanh Tong), and changed the national name from Dai Co Viet to Dai Viet.
 *   **1055:** Prince Ly Nhat Quang suppressed the rebellion of Ong Ke and Ly Phu, ensuring stability in the Nghe An region.
+*   **1056:** King Ly Thanh Tong ordered the construction of Sung Khanh Bao Thien Pagoda and the casting of a great bell, considered one of the "Four Great Treasures of An Nam."
 *   **1057:** Tuong Long Tower was built in Do Son (Hai Phong), considered a major scenic spot of the ancient An Bang region.
 *   **1057:** Construction of the **Bao Thien Tower** (Dai Thang Tu Thien Bao Thap) began in Thang Long. Standing 12 stories high, it was considered one of the "Four Great Treasures of An Nam."
 *   **1059:** The Ly army attacked the Song dynasty's Qinzhou (Kham Chau) to demonstrate military strength.
@@ -144,6 +145,7 @@
 *   **Nov. 30, 1096:** Zen Master Man Giac passed away, leaving behind the famous poem "Cao tat thi chung".
 *   **Winter 1101:** General Ly Thuong Kiet, despite his old age, led troops to suppress the rebellion of Ly Giac in Dien Chau.
 *   **1104:** Ly Thuong Kiet defeated the Champa army, forcing King Che Ma Na (Jaya Indravarman II) to return the three provinces he had previously occupied.
+*   **Jun. 1105:** General Ly Thuong Kiet passed away at the age of 86. He was a brilliant strategist and a pillar of the Ly dynasty through three reigns.
 *   **1108:** The court ordered the construction of the Co Xa dike in Thang Long to prevent floods from the Red River.
 *   **1111:** The name **Thanh Hoa** appeared for the first time in historical records when the prefecture of Thanh Hoa offered a nine-trunked areca tree.
 *   **Jun. 1, 1113:** Nun Dieu Nhan, the earliest recorded female Zen Master of the Ly dynasty, passed away.
@@ -163,6 +165,7 @@
 *   **1203:** King Ly Cao Tong ordered the construction of many lavish palaces, causing further misery to the people, and banditry arose.
 *   **Jan. 1209:** The Quach Boc rebellion broke out in the capital Thang Long, forcing King Ly Cao Tong to flee. Crown Prince Sam fled to Hai Ap (Thai Binh), was sheltered by the Tran clan, and married Tran Thi Dung.
 *   **1210:** Ly Cao Tong passed away, Ly Hao Sam ascended the throne (Ly Hue Tong). The power of the Tran clan grew stronger.
+*   **1211:** Ly Hue Tong officially invested Tran Thi Dung as the Queen Consort (Nguyen Phi), marking the Tran clan's deep entrenchment in the royal court's power structure.
 *   **Jun. 1225:** Ly Hue Tong was ill and had no son, so he passed the throne to his second daughter, Ly Thien Hinh, or Ly Chieu Hoang (7 years old). She became the first and only female monarch in Vietnamese history.
 *   **Jan. 10, 1226:** Under the arrangement of Tran Thu Do, Ly Chieu Hoang ceded the throne to her husband, Tran Canh (Tran Thai Tong). The Ly dynasty ended.
 
