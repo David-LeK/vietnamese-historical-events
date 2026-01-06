@@ -41,6 +41,7 @@
 *   **Thế kỷ I - VII:** Vương quốc Phù Nam hình thành và phát triển rực rỡ ở vùng đồng bằng sông Cửu Long. Gắn liền với đó là Văn hóa Óc Eo, một trung tâm thương mại quan trọng kết nối các tuyến hàng hải Đông - Tây.
 *   **137:** Cuộc khởi nghĩa của Khu Liên ở huyện Tượng Lâm, quận Nhật Nam.
 *   **192:** Khu Liên chính thức thành lập nước Lâm Ấp.
+*   **Khoảng năm 200:** Sĩ Nhiếp (Shi Xie) cai trị Giao Châu. Ông được người Việt tôn vinh là "Sĩ Vương" vì có công truyền bá Nho học và duy trì sự ổn định trong thời kỳ Tam Quốc loạn lạc ở Trung Quốc.
 *   **226:** Nhà Đông Ngô chia Giao Châu thành Quảng Châu và Giao Châu.
 *   **248:** Cuộc khởi nghĩa của Bà Triệu (Triệu Thị Trinh) ở Cửu Chân chống lại ách đô hộ của nhà Đông Ngô. Bà tự xưng là Đại Hải Bà Vương nhưng cuối cùng bị tướng Lục Dận đánh bại.
 *   **264:** Nhà Đông Ngô tái chia tách Quảng Châu và Giao Châu, lấy Long Biên làm trị sở Giao Châu.
@@ -79,6 +80,7 @@
 *   **965 - 967:** Thời kỳ Loạn 12 sứ quân, đất nước bị chia cắt bởi các thế lực hào trưởng địa phương.
 *   **968:** Đinh Bộ Lĩnh dẹp yên Loạn 12 sứ quân, thống nhất đất nước, lên ngôi Hoàng đế (Đinh Tiên Hoàng), đặt quốc hiệu là Đại Cồ Việt, định đô ở Hoa Lư (Ninh Bình).
 *   **970:** Đinh Tiên Hoàng đặt niên hiệu là Thái Bình.
+*   **970:** Đinh Tiên Hoàng lập 5 hoàng hậu (Đan Gia, Trinh Minh, Kiểu Quốc, Cổ Quốc, Cao Ông), thiết lập quy chế hậu cung.
 *   **971:** Đinh Tiên Hoàng bắt đầu quy định cấp bậc cho quan lại văn, võ và tăng đạo.
 *   **974:** Đinh Tiên Hoàng chia cả nước làm 10 đạo.
 *   **10/979:** Đỗ Thích ám sát vua Đinh Tiên Hoàng và Nam Việt vương Đinh Liễn. Vệ vương Đinh Toàn (6 tuổi) lên ngôi. Lê Hoàn làm nhiếp chính.
@@ -86,6 +88,7 @@
 *   **03/981:** Quân Tống do Hầu Nhân Bảo chỉ huy xâm lược Đại Cồ Việt.
 *   **28/04/981:** Lê Đại Hành chỉ huy trận chiến trên sông Bạch Đằng, đánh tan quân Tống, giết chết Hầu Nhân Bảo. Cuộc kháng chiến chống Tống lần thứ nhất thắng lợi.
 *   **982:** Lê Đại Hành thân chinh đánh Champa, chiếm kinh đô Đồng Dương và giết vua Bề Mi Thuế.
+*   **983:** Lê Đại Hành ra lệnh đào kênh Bà Hòa (Thanh Hóa) và kênh Đa Cái (Nghệ An) để thuận tiện cho việc vận chuyển quân lương và giao thông đường thủy.
 *   **02/984:** Triều Tiền Lê cho đúc tiền Thiên Phúc.
 *   **987 (Mùa Xuân):** Lê Đại Hành lần đầu tiên cử hành lễ cày tịch điền ở Đọi Sơn để khuyến khích nông nghiệp.
 *   **1005:** Lê Đại Hành mất. Lê Long Đĩnh giết vua Lê Trung Tông (Lê Long Việt) để cướp ngôi.
@@ -107,7 +110,8 @@
 *   **01/1044:** Lý Thái Tông thân chinh đánh Champa, chém được vua Champa là Sạ Đẩu tại trận.
 *   **1049:** Vua Lý Thái Tông cho xây dựng chùa Diên Hựu (chùa Một Cột).
 *   **1054:** Lý Thái Tông mất, Lý Nhật Tôn lên ngôi (Lý Thánh Tông), đổi quốc hiệu từ Đại Cồ Việt thành Đại Việt.
-*   **1057 (Năm Long Thụy Thái Bình thứ 4):** Tháp Tường Long được xây dựng tại Đồ Sơn (Hải Phòng), được coi là danh thắng bậc nhất xứ An Bang xưa.
+*   **1057 (Năm Long Thụy Thái Bình thứ 4):** Tháp Tường Long được xây dựng tại Đồ Sơn (Hải Phòng).
+*   **1057:** Vua Lý Thánh Tông cho xây dựng **Tháp Báo Thiên** (Đại Thắng Tư Thiên Bảo Tháp) tại Thăng Long. Tháp cao 12 tầng và được coi là một trong "An Nam tứ đại khí".
 *   **1059:** Quân nhà Lý tiến sang đất Tống (Khâm Châu) để diễu võ dương oai.
 *   **1059:** Vua Lý Thánh Tông ra lệnh cho các quan vào chầu phải đội mũ, đi hia. Đây là quy định chính thức đầu tiên về triều phục.
 *   **1069:** Lý Thánh Tông thân chinh đánh Champa, bắt được vua Chế Củ. Champa phải cắt 3 châu Bố Chính, Địa Lý, Ma Linh để chuộc tội.
@@ -180,6 +184,7 @@
 *   **1288 (đầu năm):** Trần Khánh Dư chỉ huy trận Vân Đồn, tiêu diệt hoàn toàn đoàn thuyền lương của giặc do Trương Văn Hổ chỉ huy.
 *   **09/04/1288:** Trận Bạch Đằng lịch sử. Thủy quân Nguyên bị tiêu diệt hoàn toàn dưới sự chỉ huy của Hưng Đạo vương Trần Quốc Tuấn. Cuộc kháng chiến chống Mông-Nguyên lần thứ ba kết thúc thắng lợi vẻ vang.
 *   **16/04/1293:** Trần Nhân Tông nhường ngôi cho Thái tử Trần Thuyên (sau là Trần Anh Tông).
+*   **1294:** Thượng tướng quân Trần Quang Khải, nhà quân sự và nhà thơ lớn của dân tộc, qua đời.
 *   **03/10/1300:** Hưng Đạo Đại vương Trần Quốc Tuấn qua đời. Trước khi mất, ông dặn vua Trần Anh Tông: "Phải khoan thư sức dân để làm kế sâu rễ bền gốc", coi đó là thượng sách giữ nước.
 *   **1304:** Mạc Đĩnh Chi đỗ Trạng nguyên. Ông nổi tiếng với tài năng và sự ứng đối khiến vua quan nhà Nguyên nể phục, được phong là "Lưỡng quốc Trạng nguyên".
 *   **Khoảng thế kỷ XIV:** Truyền thuyết Lạc Long Quân và Âu Cơ, Phù Đổng Thiên Vương (Thánh Gióng), và Sơn Tinh - Thủy Tinh được ghi chép lần đầu tiên trong bộ sách sử **Lĩnh Nam chích quái**.
@@ -187,6 +192,7 @@
 *   **1307:** Nhà Trần đổi tên hai châu Ô, Lý thành châu Thuận và châu Hóa, sáp nhập vào lãnh thổ Đại Việt.
 *   **07/04/1314:** Trần Anh Tông nhường ngôi cho Thái tử Trần Mạnh (sau là Trần Minh Tông).
 *   **18/03/1329:** Trần Minh Tông nhường ngôi cho Thái tử Trần Vượng (sau là Trần Hiến Tông).
+*   **1330:** Chiêu Văn vương Trần Nhật Duật, danh tướng có công lớn trong kháng chiến chống Nguyên và là người am hiểu nhiều ngoại ngữ, phong tục các nước, qua đời.
 *   **11/06/1341:** Trần Hiến Tông băng hà mà không có con nối dõi. Thái thượng hoàng Trần Minh Tông nắm quyền.
 *   **24/09/1341:** Thái thượng hoàng Trần Minh Tông nhường ngôi cho Hoàng tử Trần Hạo (sau là Trần Dụ Tông).
 *   **10/1341:** Vua Trần Dụ Tông ra lệnh biên soạn bộ *Hoàng triều đại điển* và *Hình thư*.

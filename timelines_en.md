@@ -41,6 +41,7 @@
 *   **1st - 7th century:** The Kingdom of Funan (Phu Nam) flourished in the Mekong Delta. Associated with the Oc Eo Culture, it was a major commercial center connecting maritime trade routes between the East and West.
 *   **137:** The uprising of Khu Lien in Tuong Lam district, Nhat Nam commandery.
 *   **192:** Khu Lien officially established the Lam Ap kingdom.
+*   **Around 200:** Shi Xie (Si Nhiep) governed Giao Chau. He is credited with promoting Confucianism and maintaining stability during the chaotic Three Kingdoms period in China, later honored by the Vietnamese as "King Si" (Si Vuong).
 *   **226:** The Eastern Wu dynasty divided Giao Chau into Guangzhou (Quang Chau) and Jiaozhou (Giao Chau).
 *   **248:** The uprising of Lady Trieu (Trieu Thi Trinh) in Cuu Chan against the domination of the Eastern Wu dynasty. She proclaimed herself Dai Hai Ba Vuong but was ultimately defeated by general Lu Yin.
 *   **264:** The Eastern Wu dynasty re-divided Guangzhou and Jiaozhou, establishing Long Bien as the capital of Jiaozhou.
@@ -79,6 +80,7 @@
 *   **965 - 967:** The period of the Anarchy of the 12 Warlords, where the country was divided by local chieftains.
 *   **968:** Dinh Bo Linh pacified the 12 Warlords, unified the country, ascended to the throne as Emperor (Dinh Tien Hoang), named the country Dai Co Viet, and established the capital at Hoa Lu (Ninh Binh).
 *   **970:** Dinh Tien Hoang established the era name Thai Binh.
+*   **970:** Dinh Tien Hoang established five queens (Dan Gia, Trinh Minh, Kieu Quoc, Co Quoc, and Cao Ong), setting a precedent for the royal harem system.
 *   **971:** Dinh Tien Hoang began to regulate the ranks for civil, military, and monastic officials.
 *   **974:** Dinh Tien Hoang divided the country into 10 circuits (dao).
 *   **Oct. 979:** Do Thich assassinated Emperor Dinh Tien Hoang and Prince Nam Viet Vuong Dinh Lien. Prince Ve Vuong Dinh Toan (6 years old) ascended the throne. Le Hoan acted as regent.
@@ -86,6 +88,7 @@
 *   **Mar. 981:** The Song army, commanded by Hou Renbao, invaded Dai Co Viet.
 *   **Apr. 28, 981:** Le Dai Hanh commanded the battle on the Bach Dang River, defeating the Song army and killing Hou Renbao. The first resistance war against the Song was victorious.
 *   **982:** Le Dai Hanh personally led a campaign against Champa, capturing the capital Dong Duong and killing King Pe Mi Shuei (Paramesvaravarman I).
+*   **983:** King Le Dai Hanh ordered the digging of the Ba Hoa Canal (Thanh Hoa) and Da Cai Canal (Nghe An) to facilitate military and water transport.
 *   **Feb. 984:** The Early Le court minted Thien Phuc coins.
 *   **987 (Spring):** Le Dai Hanh performed the Tich Dien plowing ceremony for the first time at Doi Son to encourage agriculture.
 *   **1005:** Le Dai Hanh passed away. After internal strife, Le Long Dinh killed his brother Le Long Viet to seize the throne.
@@ -108,6 +111,7 @@
 *   **1049:** King Ly Thai Tong ordered the construction of Dien Huu Pagoda (One Pillar Pagoda).
 *   **1054:** Ly Thai Tong passed away, Ly Nhat Ton ascended the throne (Ly Thanh Tong), and changed the national name from Dai Co Viet to Dai Viet.
 *   **1057:** Tuong Long Tower was built in Do Son (Hai Phong), considered a major scenic spot of the ancient An Bang region.
+*   **1057:** Construction of the **Bao Thien Tower** (Dai Thang Tu Thien Bao Thap) began in Thang Long. Standing 12 stories high, it was considered one of the "Four Great Treasures of An Nam."
 *   **1059:** The Ly army attacked the Song dynasty's Qinzhou (Kham Chau) to demonstrate military strength.
 *   **1059:** King Ly Thanh Tong mandated that officials must wear hats and boots when attending court, establishing a formal dress code for the first time.
 *   **1069:** Ly Thanh Tong personally led a campaign against Champa, capturing King Che Cu (Rudravarman III). Champa had to cede the three provinces of Bo Chinh, Dia Ly, and Ma Linh as ransom.
@@ -180,6 +184,7 @@
 *   **1288 (early year):** Tran Khanh Du commanded the Battle of Van Don, completely destroying the enemy's supply fleet led by Zhang Wenhu.
 *   **Apr. 9, 1288:** The historic Battle of Bach Dang. The Yuan navy was completely annihilated under the command of Hung Dao Vuong Tran Quoc Tuan. The third resistance war against the Mongol-Yuan invaders ended in a glorious victory.
 *   **Apr. 16, 1293:** Tran Nhan Tong abdicated the throne in favor of Crown Prince Tran Thuyen (later Tran Anh Tong).
+*   **1294:** General Tran Quang Khai, a key figure in the resistance against the Mongols and a renowned poet, passed away.
 *   **Oct. 3, 1300:** Hung Dao Vuong Tran Quoc Tuan passed away. Before his death, he advised King Tran Anh Tong: "Ease the strength of the people to make a deep root and durable base," considering it the best strategy for national defense.
 *   **1304:** Mac Dinh Chi, known for his diplomatic wit which impressed the Yuan court (earning him the title "Two-Nation First Laureate"), passed the imperial examination as Trang Nguyen.
 *   **Around the 14th century:** The legends of Lac Long Quan and Au Co, Phu Dong Thien Vuong (Saint Giong), and Son Tinh - Thuy Tinh were first recorded in the historical book **Lĩnh Nam chích quái**.
@@ -187,6 +192,7 @@
 *   **1307:** The Tran dynasty renamed the two prefectures of O and Ly to Thuan and Hoa, incorporating them into Dai Viet's territory.
 *   **Jul. 4, 1314:** Tran Anh Tong abdicated the throne in favor of Crown Prince Tran Manh (later Tran Minh Tong).
 *   **Mar. 18, 1329:** Tran Minh Tong abdicated the throne in favor of Crown Prince Tran Vuong (later Tran Hien Tong).
+*   **1330:** Prince Tran Nhat Duat, a prominent general and diplomat known for his knowledge of foreign languages and cultures, passed away.
 *   **Nov. 6, 1341:** Emperor Trần Hiến Tông died without an heir. The retired emperor Trần Minh Tông assumed power.
 *   **Sep. 24, 1341:** Emperor Emeritus Tran Minh Tong abdicated the throne in favor of Prince Tran Hao (later Tran Du Tong).
 *   **Oct. 1341:** King Tran Du Tong ordered the compilation of the *Hoang trieu dai dien* and *Hinh thu*.
