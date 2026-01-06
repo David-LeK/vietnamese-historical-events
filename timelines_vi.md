@@ -17,6 +17,7 @@
 *   **Khoảng cuối thiên niên kỷ III TCN - đầu thiên niên kỷ II TCN:** Thời kỳ Văn hóa Phùng Nguyên, mở đầu thời đại kim khí.
 *   **Khoảng 2.000 - 1.500 TCN (4.000 - 3.500 năm trước):** Thời kỳ Văn hóa Bàu Tró.
 *   **Khoảng thế kỷ XV - IX TCN:** Thời kỳ Văn hóa Đồng Đậu.
+*   **1110 TCN:** Theo thư tịch cổ, sứ giả Việt Thường đem chim trĩ trắng dâng cho nhà Chu.
 *   **Khoảng thế kỷ III - II TCN:** Phật giáo được du nhập vào bằng đường biển từ Ấn Độ. Đây là tôn giáo có mặt sớm nhất và đã được bản địa hóa, trở thành tư tưởng chủ đạo trong văn hóa dân tộc qua nhiều thời kỳ lịch sử.
 *   **Khoảng 1.100 - 700 TCN:** Thời kỳ Văn hóa Gò Mun.
 *   **Khoảng 1.000 TCN - 200 SCN:** Thời kỳ Văn hóa Sa Huỳnh (Miền Trung), nổi tiếng với táng tục mộ chum và kỹ thuật chế tác thủy tinh nhân tạo sớm.
@@ -92,7 +93,7 @@
 ### **Thời kỳ Đại Việt (Triều Lý, 1009 - 1225)**
 
 *   **21/11/1009:** Lê Long Đĩnh (Lê Ngọa Triều) mất. Lý Công Uẩn được tôn lên làm vua (Lý Thái Tổ), sáng lập ra vương triều Lý.
-*   **07/1010:** Lý Thái Tổ ra "Chiếu dời đô", chuyển kinh đô từ Hoa Lư về thành Đại La và đổi tên thành Thăng Long.
+*   **07/1010:** Lý Thái Tổ ra "Chiếu dời đô", chuyển kinh đô từ Hoa Lư về thành Đại La và đổi tên thành Thăng Long. Đổi Hoa Lư làm phủ Trường Yên.
 *   **12/1010:** Lý Thái Tổ tiến hành cải cách hành chính, chia cả nước làm 24 lộ.
 *   **1013:** Lý Thái Tổ định ra các hạng thuế trong cả nước, bao gồm thuế bãi dâu, đánh dấu sự khuyến khích phát triển nghề trồng dâu nuôi tằm và tự chủ tài chính.
 *   **06/1018:** Triều đình cử sứ sang nhà Tống xin bộ kinh Tam Tạng.
@@ -101,7 +102,7 @@
 *   **1029:** Vua Lý Thái Tông dẹp loạn ở giáp Đãn Nãi (Thanh Hóa) và cho đào kênh Đãn Nãi.
 *   **1038:** Vua Lý Thái Tông đích thân cày ruộng tịch điền ở Bố Hải Khẩu, tuyên bố coi trọng nông nghiệp để "thiên hạ noi theo".
 *   **02/1040:** Vua Lý Thái Tông dạy các cung nữ dệt gấm vóc, xuống chiếu phát hết gấm vóc của nước Tống trong kho ban cho các quan để tỏ ý dùng hàng nội, không dùng hàng Tống nữa.
-*   **1042:** Triều đình ban hành bộ *Hình thư*, bộ luật thành văn đầu tiên của Việt Nam.
+*   **1042:** Triều đình ban hành bộ *Hình thư*, bộ luật thành văn đầu tiên của Việt Nam. Bộ luật có điều khoản nghiêm cấm bán hoàng nam làm nô bộc.
 *   **01/1044:** Lý Thái Tông thân chinh đánh Champa, chém được vua Champa là Sạ Đẩu tại trận.
 *   **1049:** Vua Lý Thái Tông cho xây dựng chùa Diên Hựu (chùa Một Cột).
 *   **1054:** Lý Thái Tông mất, Lý Nhật Tôn lên ngôi (Lý Thánh Tông), đổi quốc hiệu từ Đại Cồ Việt thành Đại Việt.
@@ -117,6 +118,7 @@
 *   **1077:** Cuộc kháng chiến chống Tống lần thứ hai diễn ra. Quân Tống do Quách Quỳ chỉ huy bị chặn đứng trên phòng tuyến sông Như Nguyệt và cuối cùng phải rút quân về nước.
 *   **1084:** Lê Văn Thịnh sang nhà Tống bàn việc cương giới, đòi lại được 6 huyện và 3 động.
 *   **1086:** Vua Lý Nhân Tông cho phép mở khoa thi đầu tiên để tuyển chọn nhân tài.
+*   **1089:** Vua Lý Nhân Tông định rõ các chức quan văn võ, phân định phẩm cấp quan lại trong triều đình.
 *   **1104:** Lý Thường Kiệt đánh bại quân Champa, buộc vua Chế Ma Na phải trả lại 3 châu đã chiếm trước đó.
 *   **1108:** Triều đình cho đắp đê Cơ Xá ở Thăng Long để phòng chống lũ lụt sông Hồng.
 *   **15/01/1128:** Lý Nhân Tông mất, Lý Dương Hoán (Lý Thần Tông) lên ngôi do được truyền ngôi theo di chiếu của vua Lý Nhân Tông (Lý Nhân Tông không có con nên nhận Lý Dương Hoán làm con nuôi và truyền ngôi).

@@ -17,6 +17,7 @@
 *   **Approximately late 3rd millennium BC - early 2nd millennium BC:** Phung Nguyen Culture period, marking the beginning of the Metal Age.
 *   **Approximately 2,000 - 1,500 BC (4,000 - 3,500 years ago):** Bau Tro Culture period.
 *   **Approximately 15th - 9th centuries BC:** Dong Dau Culture period.
+*   **1110 BC:** According to ancient records, Viet Thuong envoys offered white pheasants to the Zhou dynasty.
 *   **Around the 3rd - 2nd century BC:** Buddhism was introduced to Vietnam by sea from India. This was the earliest religion to arrive and has been localized, becoming a dominant ideology in national culture throughout many historical periods.
 *   **Approximately 1,100 - 700 BC:** Go Mun Culture period.
 *   **Approximately 1,000 BC - 200 AD:** Sa Huynh Culture period (Central Vietnam), famous for jar burials and early glass-making techniques.
@@ -92,7 +93,7 @@
 ### **Dai Viet Period (Ly Dynasty, 1009 - 1225)**
 
 *   **Nov. 21, 1009:** Le Long Dinh (Le Ngoa Trieu) passed away. Ly Cong Uan was enthroned as king (Ly Thai To), founding the Ly dynasty.
-*   **Jul. 1010:** Ly Thai To issued the "Royal Edict on the Transfer of the Capital," moving the capital from Hoa Lu to Dai La Citadel and renaming it Thang Long.
+*   **Jul. 1010:** Ly Thai To issued the "Royal Edict on the Transfer of the Capital," moving the capital from Hoa Lu to Dai La Citadel and renaming it Thang Long. Hoa Lu was renamed Truong Yen prefecture.
 *   **Dec. 1010:** Ly Thai To carried out administrative reforms, dividing the country into 24 routes (lo).
 *   **1013:** Ly Thai To established a taxation system for the whole country, including taxes on mulberry fields, promoting sericulture and financial autonomy.
 *   **Jun. 1018:** The court sent an envoy to the Song dynasty to request the Tripitaka scriptures.
@@ -101,7 +102,7 @@
 *   **1029:** King Ly Thai Tong suppressed a rebellion in the Dan Nai region (Thanh Hoa) and ordered the digging of the Dan Nai canal.
 *   **1038:** King Ly Thai Tong personally plowed the Tich Dien field at Bo Hai Khau, declaring the importance of agriculture for "the people to follow."
 *   **Feb. 1040:** King Ly Thai Tong taught palace maids to weave brocade and distributed all Song dynasty brocade from the treasury to officials to demonstrate the use of domestic goods and rejection of Song goods.
-*   **1042:** The court promulgated the Hinh Thu (Penal Code), the first written law code of Vietnam.
+*   **1042:** The court promulgated the Hinh Thu (Penal Code), the first written law code of Vietnam. It included regulations prohibiting the sale of adult males (*hoang nam*) as slaves.
 *   **Jan. 1044:** Ly Thai Tong personally led a campaign against Champa, beheading the Champa king Sạ Đẩu (Jaya Simhavarman II) in battle.
 *   **1049:** King Ly Thai Tong ordered the construction of Dien Huu Pagoda (One Pillar Pagoda).
 *   **1054:** Ly Thai Tong passed away, Ly Nhat Ton ascended the throne (Ly Thanh Tong), and changed the national name from Dai Co Viet to Dai Viet.
@@ -117,6 +118,7 @@
 *   **1077:** The second resistance war against the Song took place. The Song army, commanded by Guo Kui, was halted at the Nhu Nguyet river defense line and eventually had to retreat.
 *   **1084:** Le Van Thinh negotiated with the Song dynasty to define the border, reclaiming 6 districts and 3 grottoes.
 *   **1086:** King Ly Nhan Tong authorized the first imperial examination to select talented individuals.
+*   **1089:** King Ly Nhan Tong established a defined hierarchy for civil and military officials, structuring the administrative system.
 *   **1104:** Ly Thuong Kiet defeated the Champa army, forcing King Che Ma Na (Jaya Indravarman II) to return the three provinces he had previously occupied.
 *   **1108:** The court ordered the construction of the Co Xa dike in Thang Long to prevent floods from the Red River.
 *   **Jan. 15, 1128:** Ly Nhan Tong died, and Ly Duong Hoan (Ly Than Tong) ascended the throne, inheriting it according to the will of Emperor Ly Nhan Tong (Ly Nhan Tong had no children, so he adopted Ly Duong Hoan and passed the throne to him).
