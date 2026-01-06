@@ -28,13 +28,15 @@
 *   **Thế kỷ VII TCN:** Theo *Việt sử lược*, nước Văn Lang ra đời.
 *   **258 TCN:** An Dương Vương (Thục Phán) thôn tính nước Văn Lang, kết thúc thời đại Hùng Vương.
 *   **257 TCN:** An Dương Vương đổi quốc hiệu thành Âu Lạc, dời đô về Phong Khê (Cổ Loa).
+*   **255 TCN:** An Dương Vương cho xây dựng Loa Thành (Cổ Loa).
 *   **218 - 208 TCN:** Cuộc kháng chiến của người Tây Âu và Lạc Việt chống lại cuộc xâm lược của nhà Tần.
+*   **208 TCN:** Triệu Đà xâm lược, An Dương Vương thất bại, nước Âu Lạc mất.
 *   **206 TCN:** Triệu Đà thành lập nước Nam Việt.
 *   **179 TCN:** Triệu Đà thôn tính nước Âu Lạc. Sự kiện này gắn liền với truyền thuyết bi kịch về mối tình Trọng Thủy - Mỵ Châu.
 *   **111 TCN:** Nhà Hán chinh phục nước Nam Việt, bắt đầu thời kỳ đô hộ trực tiếp trên đất Âu Lạc cũ.
 *   **40:** Hai Bà Trưng dấy binh khởi nghĩa, giành lại độc lập. Trưng Trắc lên ngôi vua, đóng đô ở Mê Linh.
 *   **41:** Mã Viện mang 20 vạn quân sang xâm lược.
-*   **43:** Cuộc khởi nghĩa thất bại trước cuộc tấn công của tướng nhà Hán là Mã Viện. Hai Bà Trưng tuẫn tiết trên sông Hát.
+*   **43:** Cuộc khởi nghĩa thất bại trước cuộc tấn công của tướng nhà Hán là Mã Viện. Hai Bà Trưng tuẫn tiết trên sông Hát. Mã Viện dựng cột đồng để ghi địa giới.
 *   **Thế kỷ I - VII:** Vương quốc Phù Nam hình thành và phát triển rực rỡ ở vùng đồng bằng sông Cửu Long. Gắn liền với đó là Văn hóa Óc Eo, một trung tâm thương mại quan trọng kết nối các tuyến hàng hải Đông - Tây.
 *   **137:** Cuộc khởi nghĩa của Khu Liên ở huyện Tượng Lâm, quận Nhật Nam.
 *   **192:** Khu Liên chính thức thành lập nước Lâm Ấp.
@@ -45,7 +47,7 @@
 *   **544:** Lý Bí xưng là Nam Việt Đế (Lý Nam Đế), lập ra nước Vạn Xuân, đặt niên hiệu Thiên Đức.
 *   **548:** Lý Nam Đế mất.
 *   **548 - 571:** Triệu Quang Phục (Triệu Việt Vương) lãnh đạo cuộc kháng chiến chống quân Lương thắng lợi, tiếp tục giữ nền độc lập cho đến khi bị Lý Phật Tử đánh bại.
-*   **603:** Nhà Tùy đem quân xâm lược, Lý Phật Tử (Hậu Lý Nam Đế) đầu hàng, nước Vạn Xuân kết thúc.
+*   **602:** Nhà Tùy sai Lưu Phương đem quân xâm lược, Lý Phật Tử (Hậu Lý Nam Đế) đầu hàng, nước Vạn Xuân kết thúc.
 *   **622:** Nhà Đường đặt Giao Châu đại tổng quản phủ, quản lĩnh 10 châu.
 *   **679:** Nhà Đường đổi Giao Châu thành An Nam Đô hộ phủ.
 *   **687:** Cuộc khởi nghĩa của Lý Tự Tiên và Đinh Kiến.
@@ -53,7 +55,7 @@
 *   **767:** Quân Srivijaya (Chà Và) và Côn Lôn xâm phạm Giao Châu, bị Kinh lược sứ Trương Bá Nghi đánh tan.
 *   **766 - 791:** Cuộc khởi nghĩa của Phùng Hưng (Bố Cái Đại Vương).
 *   **819 - 820:** Cuộc khởi nghĩa của Dương Thanh.
-*   **866:** Cao Biền đánh bại Nam Chiếu, nhà Đường đổi An Nam đô hộ phủ làm Tĩnh Hải quân.
+*   **866:** Cao Biền đánh bại Nam Chiếu, nhà Đường đổi An Nam đô hộ phủ làm Tĩnh Hải quân. Cao Biền cho xây đắp lại thành Đại La.
 *   **875:** Vua Indravarman II của Champa lập triều đại mới tại Indrapura (Quảng Nam), Phật giáo Đại thừa phát triển cực thịnh (phong cách Đồng Dương).
 *   **905:** Khúc Thừa Dụ giành quyền tự chủ, tự xưng là Tiết độ sứ.
 *   **907:** Khúc Hạo nối nghiệp cha, tiến hành nhiều cải cách quan trọng.
@@ -85,6 +87,7 @@
 *   **982:** Lê Đại Hành thân chinh đánh Champa, chiếm kinh đô Đồng Dương và giết vua Bề Mi Thuế.
 *   **02/984:** Triều Tiền Lê cho đúc tiền Thiên Phúc.
 *   **987 (Mùa Xuân):** Lê Đại Hành lần đầu tiên cử hành lễ cày tịch điền ở Đọi Sơn để khuyến khích nông nghiệp.
+*   **1005:** Lê Đại Hành mất. Lê Long Đĩnh giết vua Lê Trung Tông (Lê Long Việt) để cướp ngôi.
 
 ### **Thời kỳ Đại Việt (Triều Lý, 1009 - 1225)**
 
@@ -102,6 +105,7 @@
 *   **01/1044:** Lý Thái Tông thân chinh đánh Champa, chém được vua Champa là Sạ Đẩu tại trận.
 *   **1049:** Vua Lý Thái Tông cho xây dựng chùa Diên Hựu (chùa Một Cột).
 *   **1054:** Lý Thái Tông mất, Lý Nhật Tôn lên ngôi (Lý Thánh Tông), đổi quốc hiệu từ Đại Cồ Việt thành Đại Việt.
+*   **1059:** Quân nhà Lý tiến sang đất Tống (Khâm Châu) để diễu võ dương oai.
 *   **1069:** Lý Thánh Tông thân chinh đánh Champa, bắt được vua Chế Củ. Champa phải cắt 3 châu Bố Chính, Địa Lý, Ma Linh để chuộc tội.
 *   **1070:** Xây dựng Văn Miếu ở Thăng Long để thờ Khổng Tử.
 *   **12/1072:** Lý Thánh Tông mất, Lý Càn Đức (Lý Nhân Tông) lên ngôi do được truyền ngôi theo di chiếu của vua cha Lý Thánh Tông (lúc mới 7 tuổi).
@@ -111,6 +115,7 @@
 *   **02/1076:** Quân Lý hạ thành Liêm Châu.
 *   **1076:** Lập Quốc Tử Giám, trường đại học đầu tiên của Việt Nam.
 *   **1077:** Cuộc kháng chiến chống Tống lần thứ hai diễn ra. Quân Tống do Quách Quỳ chỉ huy bị chặn đứng trên phòng tuyến sông Như Nguyệt và cuối cùng phải rút quân về nước.
+*   **1084:** Lê Văn Thịnh sang nhà Tống bàn việc cương giới, đòi lại được 6 huyện và 3 động.
 *   **1086:** Vua Lý Nhân Tông cho phép mở khoa thi đầu tiên để tuyển chọn nhân tài.
 *   **1104:** Lý Thường Kiệt đánh bại quân Champa, buộc vua Chế Ma Na phải trả lại 3 châu đã chiếm trước đó.
 *   **1108:** Triều đình cho đắp đê Cơ Xá ở Thăng Long để phòng chống lũ lụt sông Hồng.

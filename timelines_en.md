@@ -28,13 +28,15 @@
 *   **7th century BC:** According to *Viet su luoc*, the Van Lang nation was born.
 *   **258 BC:** An Duong Vuong (Thuc Phan) annexed the Van Lang nation, ending the era of the Hung Kings.
 *   **257 BC:** An Duong Vuong changed the national title to Au Lac, moving the capital to Phong Khe (Co Loa).
+*   **255 BC:** An Duong Vuong constructed the Loa Thanh (Co Loa Citadel).
 *   **218 - 208 BC:** The resistance of the Tay Au and Lac Viet people against the invasion of the Qin dynasty.
+*   **208 BC:** Trieu Da invaded Au Lac; An Duong Vuong was defeated, marking the end of the Thuc dynasty.
 *   **206 BC:** Trieu Da (Zhao Tuo) established the Nanyue kingdom.
 *   **179 BC:** Trieu Da conquered the Au Lac kingdom. This event is associated with the tragic legend of the love story of Trong Thuy and My Chau.
 *   **111 BC:** The Han dynasty conquered the Nanyue kingdom, beginning the period of direct domination over the former Au Lac territory.
 *   **40:** The Trung Sisters launched an uprising, regaining independence. Trung Trac ascended to the throne as queen, establishing the capital at Me Linh.
 *   **41:** Ma Yuan led an army of 200,000 to invade.
-*   **43:** The uprising failed following an attack by the Han general Ma Yuan. The Trung Sisters committed suicide in the Hat River.
+*   **43:** The uprising failed following an attack by the Han general Ma Yuan. The Trung Sisters committed suicide in the Hat River. Ma Yuan erected bronze pillars to mark the border.
 *   **1st - 7th century:** The Kingdom of Funan (Phu Nam) flourished in the Mekong Delta. Associated with the Oc Eo Culture, it was a major commercial center connecting maritime trade routes between the East and West.
 *   **137:** The uprising of Khu Lien in Tuong Lam district, Nhat Nam commandery.
 *   **192:** Khu Lien officially established the Lam Ap kingdom.
@@ -45,7 +47,7 @@
 *   **544:** Ly Bi proclaimed himself the Southern Viet Emperor (Ly Nam De), founded the Van Xuan kingdom, and established the era name Thien Duc.
 *   **548:** Ly Nam De passed away.
 *   **548 - 571:** Trieu Quang Phuc (King Trieu Viet) led the resistance against the Liang army to victory, maintaining independence until he was defeated by Ly Phat Tu.
-*   **603:** The Sui dynasty sent troops to invade, Ly Phat Tu (Later Ly Nam De) surrendered, and the Van Xuan kingdom ended.
+*   **602:** The Sui dynasty sent troops commanded by Liu Fang to invade; Ly Phat Tu (Later Ly Nam De) surrendered, and the Van Xuan kingdom ended.
 *   **622:** The Tang dynasty established the Giao Chau Grand Area Command (Dai Tong Quan Phu) to administer 10 prefectures.
 *   **679:** The Tang dynasty changed Giao Chau to the Protectorate General of Annam.
 *   **687:** The uprising of Ly Tu Tien and Dinh Kien.
@@ -53,7 +55,7 @@
 *   **767:** Srivijaya and Kunlun forces raided Giao Chau and were defeated by Military Commissioner Zhang Boyi.
 *   **766 - 791:** The uprising of Phung Hung (Bo Cai Dai Vuong).
 *   **819 - 820:** The uprising of Duong Thanh.
-*   **866:** After defeating Nanzhao, the Tang dynasty upgraded the An Nam Protectorate to the Jinghai Military Commission (Tinh Hai quan).
+*   **866:** After defeating Nanzhao, the Tang dynasty upgraded the An Nam Protectorate to the Jinghai Military Commission (Tinh Hai quan). Cao Bien rebuilt the Dai La Citadel.
 *   **875:** King Indravarman II of Champa established the Indrapura dynasty (Quang Nam), marking a flourishing period of Mahayana Buddhism (Dong Duong style).
 *   **905:** Khuc Thua Du won autonomy, proclaiming himself Jiedushi (Military Governor).
 *   **907:** Khuc Hao succeeded his father, carrying out many important reforms.
@@ -85,6 +87,7 @@
 *   **982:** Le Dai Hanh personally led a campaign against Champa, capturing the capital Dong Duong and killing King Pe Mi Shuei (Paramesvaravarman I).
 *   **Feb. 984:** The Early Le court minted Thien Phuc coins.
 *   **987 (Spring):** Le Dai Hanh performed the Tich Dien plowing ceremony for the first time at Doi Son to encourage agriculture.
+*   **1005:** Le Dai Hanh passed away. After internal strife, Le Long Dinh killed his brother Le Long Viet to seize the throne.
 
 ### **Dai Viet Period (Ly Dynasty, 1009 - 1225)**
 
@@ -102,6 +105,7 @@
 *   **Jan. 1044:** Ly Thai Tong personally led a campaign against Champa, beheading the Champa king Sạ Đẩu (Jaya Simhavarman II) in battle.
 *   **1049:** King Ly Thai Tong ordered the construction of Dien Huu Pagoda (One Pillar Pagoda).
 *   **1054:** Ly Thai Tong passed away, Ly Nhat Ton ascended the throne (Ly Thanh Tong), and changed the national name from Dai Co Viet to Dai Viet.
+*   **1059:** The Ly army attacked the Song dynasty's Qinzhou (Kham Chau) to demonstrate military strength.
 *   **1069:** Ly Thanh Tong personally led a campaign against Champa, capturing King Che Cu (Rudravarman III). Champa had to cede the three provinces of Bo Chinh, Dia Ly, and Ma Linh as ransom.
 *   **1070:** The Temple of Literature was built in Thang Long to worship Confucius.
 *   **Dec. 1072:** Ly Thanh Tong died, and Ly Can Duc (Ly Nhan Tong) ascended the throne, inheriting it according to the will of his father, Emperor Ly Thanh Tong (at the age of only 7).
@@ -111,6 +115,7 @@
 *   **Feb. 1076:** The Ly army captured Lianzhou Citadel.
 *   **1076:** The Quoc Tu Giam (Imperial Academy), the first university of Vietnam, was established.
 *   **1077:** The second resistance war against the Song took place. The Song army, commanded by Guo Kui, was halted at the Nhu Nguyet river defense line and eventually had to retreat.
+*   **1084:** Le Van Thinh negotiated with the Song dynasty to define the border, reclaiming 6 districts and 3 grottoes.
 *   **1086:** King Ly Nhan Tong authorized the first imperial examination to select talented individuals.
 *   **1104:** Ly Thuong Kiet defeated the Champa army, forcing King Che Ma Na (Jaya Indravarman II) to return the three provinces he had previously occupied.
 *   **1108:** The court ordered the construction of the Co Xa dike in Thang Long to prevent floods from the Red River.
