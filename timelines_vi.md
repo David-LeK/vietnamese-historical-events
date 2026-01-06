@@ -111,6 +111,7 @@
 *   **1070:** Xây dựng Văn Miếu ở Thăng Long để thờ Khổng Tử.
 *   **12/1072:** Lý Thánh Tông mất, Lý Càn Đức (Lý Nhân Tông) lên ngôi do được truyền ngôi theo di chiếu của vua cha Lý Thánh Tông (lúc mới 7 tuổi).
 *   **02/1075:** Mở khoa thi đầu tiên trong lịch sử (Minh kinh bác học và Nho học tam trường). Lê Văn Thịnh đỗ đầu.
+*   **1075:** Lý Thường Kiệt đi tuần hành biên giới phía nam, vẽ bản đồ hình thế núi sông và đổi châu Địa Lý làm châu Lâm Bình, châu Ma Linh làm châu Minh Linh.
 *   **10/1075:** Lý Thường Kiệt chủ động chỉ huy hơn 10 vạn quân thủy bộ tiến đánh các căn cứ xâm lược của nhà Tống ở Ung Châu, Khâm Châu, Liêm Châu.
 *   **01/1076:** Quân Lý hạ thành Ung Châu sau 42 ngày vây hãm.
 *   **02/1076:** Quân Lý hạ thành Liêm Châu.
@@ -212,6 +213,7 @@
 *   **07/1402:** Triều Hồ đem quân đánh Chiêm Thành. Vua Chiêm là Ba Đích Lại phải dâng đất Chiêm Động và Cổ Lũy (nay là Quảng Nam, Quảng Ngãi). Triều Hồ chia vùng đất này làm 4 châu: Thăng, Hoa, Tư, Nghĩa.
 *   **1403:** Triều Minh bắt đầu chuẩn bị xâm lược Đại Ngu.
 *   **02/1404:** Hồ Hán Thương quy định lại cách thức thi cử, lần đầu tiên đưa môn toán vào nội dung thi chính thức.
+*   **1404:** Hồ Hán Thương hạ lệnh đào Liên Cảng (kênh Sen) từ Tân Bình đến Thuận Hóa, nhưng do đất cát đùn lên nên không thành.
 *   **1405:** Triều Minh yêu sách đòi lại đất châu Lộc (Lạng Sơn), triều Hồ phải cắt 59 thôn trả lại.
 *   **04/1406:** Nhà Minh lấy cớ đưa Trần Thiêm Bình về nước, sai Hàn Quan và Hoàng Trung đem 10 vạn quân xâm lược Đại Ngu.
 *   **08/04/1406:** Quân Hồ ban đầu thua trận ở cửa Lãnh Kinh nhưng sau đó đánh úp, buộc quân Minh phải giao nộp Trần Thiêm Bình và rút lui. Trần Thiêm Bình bị xử lăng trì.
@@ -291,6 +293,7 @@
 *   **1466:** Lê Thánh Tông chia cả nước thành 12 đạo Thừa tuyên. Bắt đầu đặt **Năm phủ** (Ngũ phủ quân) và kiện toàn Sáu bộ để thống nhất quản lý quân sự và hành chính.
 *   **1469:** Vua Lê Thánh Tông cho định bản đồ 12 thừa tuyên trong cả nước. Thừa tuyên Nam Sách đổi tên thành Thừa tuyên Hải Dương, danh xưng "Hải Dương" chính thức xuất hiện.
 *   **06/1471:** Lê Thánh Tông thân chinh đánh Champa, hạ thành Đồ Bàn, bắt vua Trà Toàn. Đặt thêm đạo Thừa tuyên thứ 13 là Quảng Nam.
+*   **1471:** Thiết lập hệ thống Tam ty (Đô ty, Thừa ty, Hiến ty) tại Thuận Hóa và Quảng Nam để cai quản.
 *   **1479:** Bộ sách *Đại Việt sử ký toàn thư* lần đầu được hoàn thành bởi Ngô Sĩ Liên.
 *   **1479:** Trong cuộc chiến với Lan Xang (1478 - 1480), quân đội Đại Việt tiến sâu vào đất Lào, chiếm kinh đô Luang Prabang, đẩy lùi quân Lan Xang.
 *   **1483:** Triều đình ban hành bộ luật *Quốc triều hình luật* (thường gọi là Luật Hồng Đức).
@@ -406,6 +409,7 @@
 *   **1740:** Ở Đàng Ngoài, chúa Trịnh Giang bị phế truất, em là Trịnh Doanh lên nối ngôi (Minh Đô Vương).
 *   **1741 - 1751:** Cuộc khởi nghĩa của Nguyễn Hữu Cầu (Quận He) hoạt động mạnh mẽ ở vùng duyên hải Sơn Nam và Hải Dương, gây nhiều khó khăn cho quân Trịnh.
 *   **1744:** Ở Đàng Trong, Nguyễn Phúc Khoát xưng Vương, cải tổ lại chính quyền theo quy chế của một vương triều độc lập.
+*   **1744:** Chúa Nguyễn Phúc Khoát tiến hành đổi mới phong tục, bắt buộc quan dân thay đổi lối ăn mặc (theo kiểu Trung Quốc) và đổi tên các cơ quan hành chính (Phủ đổi thành Điện).
 *   **1756:** Vua Chân Lạp Nặc Nguyên dâng đất hai phủ Tầm Bôn và Lôi Lạp (nay thuộc Tân An, Gò Công) cho chúa Nguyễn.
 *   **1757:** Vua Chân Lạp Nặc Tôn dâng đất Tầm Phong Long (nay thuộc Châu Đốc) và 5 phủ ở vùng Hà Tiên để tạ ơn. Toàn bộ vùng đất Nam Bộ về cơ bản thuộc chủ quyền của các chúa Nguyễn.
 *   **1764:** Lê Văn Duyệt sinh ra tại Định Tường (nguyên quán Quảng Ngãi). Ông sau này trở thành một danh tướng lẫy lừng, giữ chức Tổng trấn Gia Định thành và có công lớn trong việc khai phá, ổn định vùng đất Nam Bộ.
@@ -438,6 +442,7 @@
 *   **07/1775:** Nguyễn Huệ cử nữ tướng Bùi Thị Xuân và tướng Võ Đình Tú đem quân đánh Phú Yên, đánh bại quân chúa Nguyễn do Tống Phúc Hiệp chỉ huy.
 *   **1775:** Hai tướng người Hoa là Tập Đình và Lý Tài đem quân "Trung nghĩa" và "Hòa nghĩa" gia nhập nghĩa quân Tây Sơn, tăng cường đáng kể sức mạnh quân sự.
 *   **1776:** Nguyễn Nhạc cho sửa sang thành Đồ Bàn (Quy Nhơn) để làm căn cứ cho nhà Tây Sơn.
+*   **Đầu 1776:** Lê Quý Đôn được triều đình Lê - Trịnh cử làm Hiệp trấn tham tán quân cơ trấn Thuận Hóa, tại đây ông đã biên soạn bộ sách *Phủ Biên Tạp Lục*.
 *   **1777:** Nguyễn Huệ tiến đánh Gia Định, tiêu diệt gần hết lực lượng của chúa Nguyễn. Chúa Nguyễn Phúc Thuần và Tân Chính vương Nguyễn Phúc Dương đều bị bắt và bị giết. Nguyễn Ánh (cháu chúa Nguyễn) chạy thoát ra đảo Thổ Châu.
 *   **19/09/1777:** Tân Chính vương Nguyễn Phúc Dương bị quân Tây Sơn bắt và giết tại Ba Vác.
 *   **18/10/1777:** Chúa Nguyễn Phúc Thuần (Duệ Tông) bị quân Tây Sơn bắt và giết tại Long Xuyên. Nguyễn Ánh may mắn thoát chết trong cuộc truy sát này, trở thành người kế thừa duy nhất của dòng họ Nguyễn để tiếp tục cuộc chiến.

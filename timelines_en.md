@@ -111,6 +111,7 @@
 *   **1070:** The Temple of Literature was built in Thang Long to worship Confucius.
 *   **Dec. 1072:** Ly Thanh Tong died, and Ly Can Duc (Ly Nhan Tong) ascended the throne, inheriting it according to the will of his father, Emperor Ly Thanh Tong (at the age of only 7).
 *   **Feb. 1075:** The first civil service examination in history was held (Minh kinh bac hoc and Nho hoc tam truong). Le Van Thinh ranked first.
+*   **1075:** Ly Thuong Kiet inspected the southern border, drawing maps and renaming Dia Ly district to Lam Binh and Ma Linh district to Minh Linh.
 *   **Oct. 1075:** Ly Thuong Kiet proactively commanded over 100,000 land and naval troops to attack the Song dynasty's invasion bases in Yong, Qin, and Lian prefectures.
 *   **Jan. 1076:** The Ly army captured Yongzhou Citadel after a 42-day siege.
 *   **Feb. 1076:** The Ly army captured Lianzhou Citadel.
@@ -212,6 +213,7 @@
 *   **Jul. 1402:** The Ho court sent troops to attack Champa. The Champa king, Ba Dich Lai, had to cede the lands of Chiem Dong and Co Luy (now Quang Nam, Quang Ngai). The Ho court divided this area into four prefectures: Thang, Hoa, Tu, and Nghia.
 *   **1403:** The Ming dynasty began preparing to invade Dai Ngu.
 *   **Feb. 1404:** Ho Han Thuong revised the examination system, for the first time including mathematics as an official examination subject.
+*   **1404:** Ho Han Thuong ordered the digging of the Lien Cang canal connecting Tan Binh and Thuan Hoa, but the project was abandoned due to constant sand silting.
 *   **1405:** The Ming dynasty demanded the return of Loc prefecture (Lang Son), and the Ho court had to cede 59 villages.
 *   **Apr. 1406:** The Ming dynasty, under the pretext of escorting Tran Thiem Binh back to the country, sent Han Guan and Huang Zhong with 100,000 troops to invade Dai Ngu.
 *   **Aug. 4, 1406:** The Ho army initially lost a battle at the Lanh Kinh pass but later launched a surprise attack, forcing the Ming army to hand over Tran Thiem Binh and retreat. Tran Thiem Binh was executed by lingchi (death by a thousand cuts).
@@ -291,6 +293,7 @@
 *   **1466:** Le Thanh Tong divided the country into 12 Thua Tuyen provinces. He established the **Five Military Commissions** (Ngu Phu) and consolidated the Six Ministries system, reorganizing the administrative and military structure.
 *   **1469:** King Le Thanh Tong ordered the mapping of the 12 Thua Tuyen provinces. Thua Tuyen Nam Sach was renamed Thua Tuyen Hai Duong; this was the first time the name "Hai Duong" appeared.
 *   **Jun. 1471:** Le Thanh Tong personally led a campaign against Champa, capturing Do Ban Citadel and King Tra Toan. The 13th Thua Tuyen province, Quang Nam, was added.
+*   **1471:** The "Tam Ty" (Three Offices: Commander, Administration, Surveillance) system was established in Thuan Hoa and Quang Nam.
 *   **1479:** The historical chronicle *Dai Viet sử ký toàn thư* (Complete History of Dai Viet) was first completed by Ngo Si Lien.
 *   **1479:** During the war with Lan Xang (1478 - 1480), Dai Viet forces advanced deep into Lao territory, capturing the capital Luang Prabang.
 *   **1483:** The court promulgated the *Quoc trieu hinh luat* (National Dynasty's Penal Code), commonly known as the Hong Duc Code.
@@ -406,6 +409,7 @@
 *   **1740:** In Dang Ngoai, the abusive Lord Trinh Giang was deposed. His younger brother, Trinh Doanh, succeeded him as Lord (Minh Do Vuong).
 *   **1741 - 1751:** The uprising of Nguyen Huu Cau (Quan He) was very active in the coastal areas of Son Nam and Hai Duong, causing great difficulty for the Trinh army.
 *   **1744:** In Dang Trong, Nguyen Phuc Khoat proclaimed himself King (Vuong), reforming the government according to the statutes of an independent monarchy.
+*   **1744:** Lord Nguyen Phuc Khoat implemented a dress code reform, requiring people to wear trousers and buttoned shirts (Chinese style), and reorganized administrative titles.
 *   **1756:** The Cambodian king Nặc Nguyên (Ang Snguon) ceded the two prefectures of Tam Bon and Loi Lap (now in Tan An, Go Cong) to the Nguyen lord.
 *   **1757:** The Cambodian king Nặc Tôn (Ang Ton II) ceded the land of Tam Phong Long (now in Chau Doc) and five prefectures in the Ha Tien region as a token of gratitude. The entire Southern region basically came under the sovereignty of the Nguyen lords.
 *   **1764:** Le Van Duyet was born in Dinh Tuong (originally from Quang Ngai). He would become a high-ranking mandarin, a brilliant general, and the Governor-General of Gia Dinh citadel, playing a crucial role in the development of Southern Vietnam.
@@ -438,6 +442,7 @@
 *   **Jul. 1775:** Generals Bui Thi Xuan and Vo Dinh Tu were dispatched to attack Phu Yen, defeating the Nguyen forces commanded by Tong Phuc Hiep.
 *   **1775:** Two Chinese generals, Tap Dinh and Ly Tai, led their "Loyal" (Trung Nghia) and "Harmonious" (Hoa Nghia) regiments to join the Tay Son army, significantly boosting its military strength.
 *   **1776:** Nguyen Nhac repaired and expanded the Do Ban citadel to serve as the base for the Tay Son forces.
+*   **Early 1776:** Le Quy Don was appointed Vice Governor (Hiep Tran) of Thuan Hoa and Quang Nam by the Trinh court, where he compiled the *Phu Bien Tap Luc*.
 *   **1777:** Nguyen Hue advanced to attack Gia Dinh, annihilating almost all of the Nguyen lords' forces. Lord Nguyen Phuc Thuan and the new king Nguyen Phuc Duong were both captured and killed. Nguyen Anh (nephew of the Nguyen lord) escaped to Tho Chau island.
 *   **Sep. 19, 1777:** The new Nguyen King, Nguyen Phuc Duong (Tan Chinh Vuong), was captured and killed by Tay Son forces at Ba Vac.
 *   **Oct. 18, 1777:** Lord Nguyen Phuc Thuan (Due Tong) was captured and killed by Tay Son forces at Long Xuyen. This event effectively wiped out the direct leadership of the Nguyen Lords, leaving the young Nguyen Anh as the sole survivor to continue the struggle.
