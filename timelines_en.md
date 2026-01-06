@@ -723,6 +723,7 @@
 *   **Nov. 1885:** The Hue court established the **Dai Nam Cong Bao** (Dai Nam Official Gazette), the first official gazette in Vietnam, publishing government decrees and news every 10 days.
 *   **Feb. 23, 1886:** The Hue court and France exchanged the ratified Treaty of Giap Than (Patenôtre Treaty) and the Mining Treaty in Hue.
 *   **Mar. 1886:** Emperor Dong Khanh established the **Order of the Dragon of Annam** (Dai Nam Long Tinh Vien) to reward civil and military officials.
+*   **Apr. 1886:** The court began minting "Dong Khanh Thong Bao" coins (10 zinc coins equal to 1 copper coin).
 *   **1885 - 1896:** The Huong Khe Uprising, led by Phan Dinh Phung and Cao Thang, took place, marking the peak of the Can Vuong movement.
 *   **1886 - 1887:** The Ba Dinh Uprising (Thanh Hoa), led by Pham Banh and Dinh Cong Trang, took place.
 *   **Jan. 1887:** The Ba Dinh base fell after fierce attacks by French forces.
@@ -786,10 +787,13 @@
 *   **Sep. 2, 1915:** Political prisoners at Lao Bao Prison, led by Ho Ba Kien and Lieu Thanh, rebelled and broke out of the prison.
 *   **Feb. 15, 1916:** Secret societies in Cochinchina organized a major riot in Saigon, attempting to break into the Central Prison to rescue Phan Xich Long, but it failed.
 *   **May 3, 1916:** The uprising led by King Duy Tan along with Thai Phien and Tran Cao Van was discovered and failed. King Duy Tan was arrested and exiled to Réunion Island.
+*   **Aug. 1916:** Emperor Khai Dinh issued a ban on commoners wearing yellow clothing and colors resembling yellow to maintain distinction from royalty.
 *   **Aug. 30, 1917:** The Thai Nguyen Uprising broke out, led by Trinh Van Can (Doi Can) and Luong Ngoc Quyen. The rebels controlled the provincial capital for six days.
 *   **Sep. 5, 1917:** French forces counter-attacked and recaptured the provincial capital of Thai Nguyen.
 *   **Jan. 11, 1918:** Doi Can committed suicide after being surrounded, and the Thai Nguyen Uprising disintegrated.
 *   **1918:** The last regional examination was held in Annam.
+*   **Mar. 1918:** Emperor Khai Dinh conducted the "Northern Inspection Tour" (Ngu gia Bac tuan), visiting provinces from Quang Tri to Lang Son and Hai Phong.
+*   **May 2, 1918:** The "Khanh niem Hung Quoc" (National Restoration Commemoration) holiday was established to celebrate the unification of the country by Emperor Gia Long, set annually on the 2nd day of the 5th lunar month.
 *   **Jul. 1918:** An uprising of the Hmong people in Lai Chau, led by Giang Ta Chay, broke out, spreading to the Northwest provinces and Upper Laos.
 *   **Nov. 11, 1918:** World War I ended.
 *   **Nov. 16, 1918:** A mutiny broke out at the Binh Lieu post (Quang Ninh), led by Tham Cam Say and Chinese and Vietnamese soldiers, lasting until June 1919.
@@ -800,6 +804,7 @@
 *   **Feb. 5, 1919:** The Association for the Intellectual and Moral Formation of the Annamites (AFIMA) was established in Hanoi, a cultural organization sponsored by the French colonialists to implement the "Franco-Vietnamese collaboration" policy.
 *   **Feb. 1919:** Nguyen Ai Quoc joined the French Socialist Party.
 *   **Apr. 18, 1919:** A decree allowed the recruitment of Vietnamese staff into the Office of the Governor-General.
+*   **Apr. 1919:** The final Metropolitan Examination (Hoi exam) was held, designated as the "Imperial Grace Examination" (Ngu tu an khoa), marking the end of the traditional Confucian examination system before its official abolition.
 *   **May 19, 1919:** A decree authorized the Governor-General of Indochina to change the judicial system in Annam and Laos.
 *   **Jun. 14, 1919:** King Khai Dinh issued a Royal Edict abolishing the examination system and Chinese-character schools, ending the traditional examination-based education system.
 *   **Jun. 18, 1919:** Nguyen Ai Quoc, on behalf of the Association of Vietnamese Patriots in France, sent the *Demands of the Annamite People* to the Versailles Conference.
@@ -807,6 +812,7 @@
 *   **Aug. 1919:** The "Boycott of Resident Aliens" (Hoa kieu) movement broke out, starting in Saigon and spreading throughout the country, demonstrating the national economic consciousness of the Vietnamese bourgeoisie.
 *   **Sep. 1, 1919:** The newspaper *Hoc bao* was launched to guide the new French education system in Tonkin and Annam.
 *   **1920:** Cao Dai, an indigenous religion, was founded (specifically in 1926 in Tay Ninh).
+*   **Sep. 1920:** The court issued "Khai Dinh Thong Bao" coins; a fixed exchange rate was established where 1 new coin equaled 6 zinc coins.
 *   **Jul. 16-17, 1920:** The newspaper *L'Humanité* in France published the full text of V.I. Lenin's *Theses on the National and Colonial Questions*, which had a profound impact on Nguyen Ai Quoc.
 *   **Sep. 28, 1920:** A decree reorganized the High Council of the Colonies in France.
 *   **Dec. 25-30, 1920:** At the Tours Congress of the French Socialist Party, Nguyen Ai Quoc voted in favor of joining the Third International and became one of the founding members of the French Communist Party.
@@ -814,10 +820,12 @@
 *   **Jun. 1921:** The Committee for Colonial Studies was established within the French Communist Party, with Nguyen Ai Quoc in charge of the Indochina subcommittee.
 *   **1921:** Nguyen Ai Quoc participated in founding the Intercolonial Union in France.
 *   **Aug. 12, 1921:** The Resident Superior of Tonkin issued a decree to carry out "reform of village administration," reorganizing the administrative apparatus at the village level.
+*   **Sep. 1921:** The Civil Code (*Dan Luat*) was promulgated for application in Tonkin (Bac Ky), drafted with the assistance of French legal experts.
 *   **Oct. 11, 1921:** The Governor-General of Indochina issued a decree to issue bonds worth 6 million piasters to build the Vinh - Dong Ha railway.
 *   **Oct. 17, 1921:** The city of Nam Dinh was established.
 *   **Apr. 1, 1922:** The newspaper *Le Paria* (The Pariah), the organ of the Intercolonial Union founded by Nguyen Ai Quoc, published its first issue in Paris.
 *   **Apr. 1922:** The investiture ceremony of Crown Prince Vinh Thuy (later Emperor Bao Dai) was solemnly held at the Thai Hoa Palace.
+*   **Jun. 1922:** Emperor Khai Dinh arrived in Marseille and Paris, becoming the first reigning Vietnamese monarch to officially visit France (bringing Crown Prince Vinh Thuy for study).
 *   **Jun. 9, 1922:** A decree reorganized the Colonial Council of Cochinchina.
 *   **Jul. 15, 1922:** Phan Chau Trinh wrote the "Seven-Point Petition" addressed to King Khai Dinh, who was in France, denouncing the king's seven great crimes.
 *   **1923:** The revolutionary organization Tam Tam Xa (Heart-to-Heart Association) was founded in Guangzhou, China.

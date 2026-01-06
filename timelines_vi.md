@@ -723,6 +723,7 @@
 *   **11/1885:** Triều đình Huế thành lập cục **Đại Nam Công báo**, tờ công báo đầu tiên của Việt Nam, phát hành 10 ngày một kỳ.
 *   **23/02/1886:** Triều đình Huế và Pháp trao đổi bản Hòa ước Giáp Thân (Patenôtre) và Thương ước đã được phê chuẩn tại Huế.
 *   **03/1886:** Vua Đồng Khánh thành lập **Viện Long Tinh** (Đại Nam Long tinh) để khen thưởng cho các quan văn võ.
+*   **04/1886:** Triều đình cho đúc tiền "Đồng Khánh thông bảo" (1 đồng ăn 10 đồng kẽm).
 *   **1885 - 1896:** Diễn ra cuộc khởi nghĩa Hương Khê do Phan Đình Phùng và Cao Thắng lãnh đạo, là đỉnh cao của phong trào Cần Vương.
 *   **1886 - 1887:** Diễn ra cuộc khởi nghĩa Ba Đình (Thanh Hóa) do Phạm Bành và Đinh Công Tráng lãnh đạo.
 *   **01/1887:** Căn cứ Ba Đình thất thủ sau các cuộc tấn công ác liệt của quân Pháp.
@@ -786,10 +787,13 @@
 *   **02/09/1915:** Tù nhân chính trị ở nhà tù Lao Bảo do Hồ Bá Kiện và Liêu Thanh lãnh đạo nổi dậy phá ngục.
 *   **15/02/1916:** Các hội kín ở Nam Kỳ tổ chức cuộc bạo động lớn tại Sài Gòn, mưu đồ phá Khám lớn để giải cứu Phan Xích Long nhưng thất bại.
 *   **03/05/1916:** Cuộc khởi nghĩa do vua Duy Tân cùng Thái Phiên, Trần Cao Vân lãnh đạo bị bại lộ và thất bại. Vua Duy Tân bị bắt và bị đày sang đảo Réunion.
+*   **08/1916:** Vua Khải Định ra lệnh cấm dân chúng mặc quần áo màu vàng và các màu gần với màu vàng để phân biệt tôn ti.
 *   **30/08/1917:** Cuộc khởi nghĩa Thái Nguyên bùng nổ do Trịnh Văn Cấn (Đội Cấn) và Lương Ngọc Quyến lãnh đạo. Nghĩa quân làm chủ tỉnh lỵ trong 6 ngày.
 *   **05/09/1917:** Quân Pháp phản công và chiếm lại tỉnh lỵ Thái Nguyên.
 *   **11/01/1918:** Đội Cấn tự sát sau khi bị vây ráp, cuộc khởi nghĩa Thái Nguyên tan rã.
 *   **1918:** Kỳ thi Hương cuối cùng được tổ chức ở Trung Kỳ.
+*   **03/1918:** Vua Khải Định thực hiện chuyến "Ngự giá Bắc tuần" đi thăm các tỉnh từ Quảng Trị ra đến Lạng Sơn, Hải Phòng.
+*   **02/05/1918:** (Âm lịch) Triều đình định lệ lấy ngày 2 tháng 5 làm lễ "Khánh niệm Hưng Quốc" (kỷ niệm ngày Thế Tổ Cao Hoàng đế Gia Long thống nhất đất nước), quan lại binh lính và nhân dân được nghỉ ngơi vui chơi.
 *   **07/1918:** Cuộc khởi nghĩa của đồng bào HMông ở Lai Châu do Giàng Tả Chay lãnh đạo bùng nổ, lan rộng sang các tỉnh Tây Bắc và Thượng Lào.
 *   **11/11/1918:** Chiến tranh Thế giới thứ nhất kết thúc.
 *   **16/11/1918:** Nổ ra cuộc binh biến ở đồn Bình Liêu (Quảng Ninh) do Thàm Cam Say và các binh lính người Hoa, người Việt lãnh đạo, kéo dài đến tháng 6/1919.
@@ -800,6 +804,7 @@
 *   **05/02/1919:** Thành lập Hội Khai trí - Tiến đức (AFIMA) tại Hà Nội, một tổ chức văn hóa do thực dân Pháp bảo trợ nhằm thực hiện chính sách "Pháp-Việt đề huề".
 *   **02/1919:** Nguyễn Ái Quốc gia nhập Đảng Xã hội Pháp.
 *   **18/04/1919:** Nghị định cho phép tuyển dụng nhân viên người Việt vào Văn phòng Phủ Toàn quyền.
+*   **04/1919:** Kỳ thi Hội cuối cùng được tổ chức (gọi là Ngự tứ ân khoa) trước khi chế độ khoa cử chính thức bị bãi bỏ.
 *   **19/05/1919:** Sắc lệnh cho phép Toàn quyền Đông Dương thay đổi hệ thống tư pháp ở Trung Kỳ và Lào.
 *   **14/06/1919:** Vua Khải Định ra Đạo dụ bãi bỏ các khoa thi và trường học chữ Hán, chấm dứt nền giáo dục khoa cử truyền thống.
 *   **18/06/1919:** Nguyễn Ái Quốc, thay mặt Hội Những người Việt Nam yêu nước tại Pháp, gửi bản *Yêu sách của nhân dân An Nam* đến Hội nghị Versailles.
@@ -807,6 +812,7 @@
 *   **08/1919:** Bùng nổ phong trào "Tẩy chay khách trú" (Hoa kiều) bắt đầu từ Sài Gòn rồi lan ra cả nước, thể hiện ý thức kinh tế dân tộc của giai cấp tư sản Việt Nam.
 *   **01/09/1919:** Tờ *Học báo* ra đời nhằm hướng dẫn hệ thống giáo dục mới của Pháp ở Bắc và Trung Kỳ.
 *   **1920:** Đạo Cao Đài, một tôn giáo nội sinh, được thành lập (cụ thể là năm 1926 tại Tây Ninh).
+*   **09/1920:** Triều đình ban hành tiền "Khải Định thông bảo" bằng đồng thau; định tỷ giá 1 đồng tiền mới bằng 6 đồng tiền kẽm.
 *   **16-17/07/1920:** Báo *L'Humanité* (Nhân đạo) ở Pháp đăng toàn văn *Luận cương về các vấn đề dân tộc và vấn đề thuộc địa* của V.I. Lênin, tác động sâu sắc đến Nguyễn Ái Quốc.
 *   **28/09/1920:** Sắc lệnh tái tổ chức Hội đồng cấp cao thuộc địa tại Pháp.
 *   **25-30/12/1920:** Tại Đại hội Tours của Đảng Xã hội Pháp, Nguyễn Ái Quốc bỏ phiếu tán thành gia nhập Quốc tế thứ ba và trở thành một trong những người sáng lập Đảng Cộng sản Pháp.
@@ -814,10 +820,12 @@
 *   **06/1921:** Ban Nghiên cứu thuộc địa được thành lập trong Đảng Cộng sản Pháp, Nguyễn Ái Quốc phụ trách tiểu ban Đông Dương.
 *   **1921:** Nguyễn Ái Quốc tham gia sáng lập Hội Liên hiệp các dân tộc thuộc địa tại Pháp.
 *   **12/08/1921:** Thống sứ Bắc Kỳ ra nghị định tiến hành "cải lương hương chính", cải tổ bộ máy hành chính cấp làng xã.
+*   **09/1921:** Chuẩn y cho thi hành Bộ Dân luật tại Bắc Kỳ (quyển thứ nhất về người và tài sản).
 *   **11/10/1921:** Toàn quyền Đông Dương ra nghị định phát hành công trái 6 triệu đồng để xây dựng đường sắt Vinh - Đông Hà.
 *   **17/10/1921:** Thành phố Nam Định được thành lập.
 *   **01/04/1922:** Báo *Le Paria* (Người cùng khổ), cơ quan của Hội Liên hiệp thuộc địa do Nguyễn Ái Quốc sáng lập, ra số đầu tiên tại Paris.
 *   **04/1922:** Lễ sách phong Đông cung Hoàng Thái tử Vĩnh Thụy (sau là vua Bảo Đại) được tổ chức long trọng tại điện Thái Hòa.
+*   **06/1922:** Vua Khải Định đến Marseille và Paris (Pháp), trở thành vị vua đầu tiên của triều Nguyễn chính thức sang thăm Pháp (đưa Đông cung Thái tử Vĩnh Thụy đi du học).
 *   **09/06/1922:** Sắc lệnh tái tổ chức Hội đồng thuộc địa Nam Kỳ.
 *   **15/07/1922:** Phan Châu Trinh viết "Thất điều trần" gửi vua Khải Định đang ở Pháp, lên án 7 tội lớn của nhà vua.
 *   **1923:** Tổ chức cách mạng Tâm Tâm xã được thành lập tại Quảng Châu, Trung Quốc.
