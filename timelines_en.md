@@ -31,6 +31,7 @@
 *   **257 BC:** An Duong Vuong changed the national title to Au Lac, moving the capital to Phong Khe (Co Loa).
 *   **255 BC:** An Duong Vuong constructed the Loa Thanh (Co Loa Citadel).
 *   **218 - 208 BC:** The resistance of the Tay Au and Lac Viet people against the invasion of the Qin dynasty.
+*   **214 BC:** The Qin dynasty established the commanderies of Guilin, Nanhai, and Xiang (Tuong Quan) in the region.
 *   **208 BC:** Trieu Da invaded Au Lac; An Duong Vuong was defeated, marking the end of the Thuc dynasty.
 *   **206 BC:** Trieu Da (Zhao Tuo) established the Nanyue kingdom.
 *   **179 BC:** Trieu Da conquered the Au Lac kingdom. This event is associated with the tragic legend of the love story of Trong Thuy and My Chau.
@@ -44,12 +45,14 @@
 *   **Around 200:** Shi Xie (Si Nhiep) governed Giao Chau. He is credited with promoting Confucianism and maintaining stability during the chaotic Three Kingdoms period in China, later honored by the Vietnamese as "King Si" (Si Vuong).
 *   **226:** The Eastern Wu dynasty divided Giao Chau into Guangzhou (Quang Chau) and Jiaozhou (Giao Chau).
 *   **248:** The uprising of Lady Trieu (Trieu Thi Trinh) in Cuu Chan against the domination of the Eastern Wu dynasty. She proclaimed herself Dai Hai Ba Vuong but was ultimately defeated by general Lu Yin.
+*   **269:** The Eastern Wu dynasty sent generals Xue Xu and Tao Huang to retake Giao Chi (Jiaozhou).
 *   **264:** The Eastern Wu dynasty re-divided Guangzhou and Jiaozhou, establishing Long Bien as the capital of Jiaozhou.
 *   **542:** Ly Bi led an uprising against the domination of the Liang dynasty.
 *   **544:** Ly Bi proclaimed himself the Southern Viet Emperor (Ly Nam De), founded the Van Xuan kingdom, and established the era name Thien Duc.
 *   **548:** Ly Nam De passed away.
 *   **548 - 571:** Trieu Quang Phuc (King Trieu Viet) led the resistance against the Liang army to victory, maintaining independence until he was defeated by Ly Phat Tu.
 *   **602:** The Sui dynasty sent troops commanded by Liu Fang to invade; Ly Phat Tu (Later Ly Nam De) surrendered, and the Van Xuan kingdom ended.
+*   **605:** Sui general Liu Fang attacked Champa (Lam Ap), sacking the capital.
 *   **622:** The Tang dynasty established the Giao Chau Grand Area Command (Dai Tong Quan Phu) to administer 10 prefectures.
 *   **679:** The Tang dynasty changed Giao Chau to the Protectorate General of Annam.
 *   **687:** The uprising of Ly Tu Tien and Dinh Kien.
@@ -59,6 +62,7 @@
 *   **819 - 820:** The uprising of Duong Thanh.
 *   **822:** Protector General Li Yuanxi moved the administrative seat to the To Lich River area and built the Dai La Citadel. This event is closely tied to the legends of the To Lich River God recorded in *Viet Dien U Linh Tap*.
 *   **866:** After defeating Nanzhao, the Tang dynasty upgraded the An Nam Protectorate to the Jinghai Military Commission (Tinh Hai quan). Cao Bien rebuilt the Dai La Citadel.
+*   **868:** Cao Bien organized the digging of the Thien Oai Canal to facilitate water transport.
 *   **875:** King Indravarman II of Champa established the Indrapura dynasty (Quang Nam), marking a flourishing period of Mahayana Buddhism (Dong Duong style).
 *   **905:** Khuc Thua Du won autonomy, proclaiming himself Jiedushi (Military Governor).
 *   **907:** Khuc Hao succeeded his father, carrying out many important reforms.
@@ -141,6 +145,7 @@
 *   **1141:** National Preceptor Nguyen Minh Khong passed away.
 *   **Feb. 1149:** The Van Don trading post (Quang Ninh) was established as a place for merchant ships from other countries to trade, officially opening the first international trading port.
 *   **1150:** The Do Anh Vu rebellion occurred in the royal court.
+*   **1164:** The Song dynasty officially invested King Ly Anh Tong as the **King of An Nam** (An Nam Quoc Vuong); the name "An Nam" was officially used as the national title in diplomatic relations from this point.
 *   **Aug. 14, 1175:** Ly Anh Tong passed away, Ly Long Can ascended the throne (Ly Cao Tong) at the age of 2.
 *   **1181:** A great famine occurred, causing nearly half the population to die.
 *   **1198:** King Ly Cao Tong, following the advice of Dam Di Mong, ordered the dismissal of monks who did not strictly follow precepts, forcing them to return to secular life to perform corvee labor, reorganizing Buddhism and society.
@@ -164,6 +169,7 @@
 *   **Jun. 1253:** King Tran Thai Tong established the **Quoc Hoc Vien** (National Academy) for scholars to lecture on the Classics.
 *   **Aug. 1253:** The **Giang Vo Duong** (Military Academy) was established to train in martial arts, marking a formalization of military education.
 *   **Aug. 1257:** A Mongol envoy came to Dai Viet for the first time to demand submission.
+*   **Dec. 1257:** Mongol forces commanded by Uriyangkhadai attacked the border; the Battle of No Nguyen took place.
 *   **Sep. 1257:** King Tran Thai Tong issued a decree commanding generals to lead troops to guard the borders under the command of Tran Quoc Tuan (Tran Hung Dao).
 *   **Jan. 17, 1258:** Battle of Binh Le Nguyen. King Tran Thai Tong directly commanded the army against the Mongol invasion led by Uriyangkhadai.
 *   **Jan. 29, 1258:** The Tran army counter-attacked, winning a decisive victory at Dong Bo Dau and liberating Thang Long. The first resistance war against the Mongols ended in victory.
@@ -181,6 +187,7 @@
 *   **Dec. 1284:** King Tran convened the Dien Hong Conference, asking for the opinions of elders throughout the country on whether to make peace or fight.
 *   **Jan. 1285:** Yuan forces under the command of Toghon began the second invasion of Dai Viet.
 *   **1285:** When King Tran Thanh Tong asked if he should surrender during the difficult early stages of the war, Tran Hung Dao famously replied: "Your Majesty, if you want to surrender, please cut off my head first."
+*   **Mar. 1285:** Prince Chieu Quoc Vuong Tran Ich Tac surrendered to the Yuan army.
 *   **May 1285:** The Tran army began a major counter-offensive, winning successive victories at Tay Ket, Chuong Duong, and Ham Tu.
 *   **Jun. 1285:** The second resistance war against the Mongol-Yuan invaders ended in victory.
 *   **Jul. 15, 1285:** Hoai Van Hau Tran Quoc Toan sacrificed his life in battle at the age of 18 (according to some records). He became an enduring symbol of patriotism and the brave spirit of Vietnamese youth.
@@ -188,12 +195,14 @@
 *   **1288 (early year):** Tran Khanh Du commanded the Battle of Van Don, completely destroying the enemy's supply fleet led by Zhang Wenhu.
 *   **Apr. 9, 1288:** The historic Battle of Bach Dang. The Yuan navy was completely annihilated under the command of Hung Dao Vuong Tran Quoc Tuan. The third resistance war against the Mongol-Yuan invaders ended in a glorious victory.
 *   **Apr. 16, 1293:** Tran Nhan Tong abdicated the throne in favor of Crown Prince Tran Thuyen (later Tran Anh Tong).
+*   **1294:** The Yuan dynasty officially issued an edict to end the war with Dai Viet after Emperor Temur Khan ascended the throne.
 *   **1294:** General Tran Quang Khai, a key figure in the resistance against the Mongols and a renowned poet, passed away.
 *   **Oct. 3, 1300:** Hung Dao Vuong Tran Quoc Tuan passed away. Before his death, he advised King Tran Anh Tong: "Ease the strength of the people to make a deep root and durable base," considering it the best strategy for national defense.
 *   **1304:** Mac Dinh Chi, known for his diplomatic wit which impressed the Yuan court (earning him the title "Two-Nation First Laureate"), passed the imperial examination as Trang Nguyen.
 *   **Around the 14th century:** The legends of Lac Long Quan and Au Co, Phu Dong Thien Vuong (Saint Giong), and Son Tinh - Thuy Tinh were first recorded in the historical book **Lĩnh Nam chích quái**.
 *   **1306:** The Champa king Che Man (Jaya Simhavarman III) offered the two prefectures of O and Ly as a wedding gift to marry Princess Huyen Tran.
 *   **1307:** The Tran dynasty renamed the two prefectures of O and Ly to Thuan and Hoa, incorporating them into Dai Viet's territory.
+*   **1312:** King Tran Anh Tong led a campaign against Champa, capturing the Champa King Che Chi.
 *   **Jul. 4, 1314:** Tran Anh Tong abdicated the throne in favor of Crown Prince Tran Manh (later Tran Minh Tong).
 *   **Mar. 18, 1329:** Tran Minh Tong abdicated the throne in favor of Crown Prince Tran Vuong (later Tran Hien Tong).
 *   **1329:** Scholar Ly Te Xuyen completed the *Viet Dien U Linh Tap* (Collection of the Potent Spirits of the Viet Realm), preserving key historical legends and spiritual heritage of Vietnam.

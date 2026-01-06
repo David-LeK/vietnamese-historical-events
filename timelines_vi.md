@@ -31,6 +31,7 @@
 *   **257 TCN:** An Dương Vương đổi quốc hiệu thành Âu Lạc, dời đô về Phong Khê (Cổ Loa).
 *   **255 TCN:** An Dương Vương cho xây dựng Loa Thành (Cổ Loa).
 *   **218 - 208 TCN:** Cuộc kháng chiến của người Tây Âu và Lạc Việt chống lại cuộc xâm lược của nhà Tần.
+*   **214 TCN:** Nhà Tần thiết lập các quận Quế Lâm, Nam Hải và Tượng Quận.
 *   **208 TCN:** Triệu Đà xâm lược, An Dương Vương thất bại, nước Âu Lạc mất.
 *   **206 TCN:** Triệu Đà thành lập nước Nam Việt.
 *   **179 TCN:** Triệu Đà thôn tính nước Âu Lạc. Sự kiện này gắn liền với truyền thuyết bi kịch về mối tình Trọng Thủy - Mỵ Châu.
@@ -44,12 +45,14 @@
 *   **Khoảng năm 200:** Sĩ Nhiếp (Shi Xie) cai trị Giao Châu. Ông được người Việt tôn vinh là "Sĩ Vương" vì có công truyền bá Nho học và duy trì sự ổn định trong thời kỳ Tam Quốc loạn lạc ở Trung Quốc.
 *   **226:** Nhà Đông Ngô chia Giao Châu thành Quảng Châu và Giao Châu.
 *   **248:** Cuộc khởi nghĩa của Bà Triệu (Triệu Thị Trinh) ở Cửu Chân chống lại ách đô hộ của nhà Đông Ngô. Bà tự xưng là Đại Hải Bà Vương nhưng cuối cùng bị tướng Lục Dận đánh bại.
+*   **269:** Nhà Đông Ngô sai các tướng Tiết Hủ, Đào Hoàng sang lấy lại Giao Chỉ.
 *   **264:** Nhà Đông Ngô tái chia tách Quảng Châu và Giao Châu, lấy Long Biên làm trị sở Giao Châu.
 *   **542:** Lý Bí lãnh đạo cuộc khởi nghĩa chống lại ách đô hộ của nhà Lương.
 *   **544:** Lý Bí xưng là Nam Việt Đế (Lý Nam Đế), lập ra nước Vạn Xuân, đặt niên hiệu Thiên Đức.
 *   **548:** Lý Nam Đế mất.
 *   **548 - 571:** Triệu Quang Phục (Triệu Việt Vương) lãnh đạo cuộc kháng chiến chống quân Lương thắng lợi, tiếp tục giữ nền độc lập cho đến khi bị Lý Phật Tử đánh bại.
 *   **602:** Nhà Tùy sai Lưu Phương đem quân xâm lược, Lý Phật Tử (Hậu Lý Nam Đế) đầu hàng, nước Vạn Xuân kết thúc.
+*   **605:** Tướng Tùy là Lưu Phương đem quân đánh Lâm Ấp (Champa), cướp phá kinh thành.
 *   **622:** Nhà Đường đặt Giao Châu đại tổng quản phủ, quản lĩnh 10 châu.
 *   **679:** Nhà Đường đổi Giao Châu thành An Nam Đô hộ phủ.
 *   **687:** Cuộc khởi nghĩa của Lý Tự Tiên và Đinh Kiến.
@@ -59,6 +62,7 @@
 *   **819 - 820:** Cuộc khởi nghĩa của Dương Thanh.
 *   **822:** Đô hộ Lý Nguyên Hỷ dời phủ trị đến khu vực sông Tô Lịch và cho xây dựng thành Đại La. Sự kiện này gắn liền với các truyền thuyết về thần sông Tô Lịch được ghi chép trong *Việt Điện U Linh Tập*.
 *   **866:** Cao Biền đánh bại Nam Chiếu, nhà Đường đổi An Nam đô hộ phủ làm Tĩnh Hải quân. Cao Biền cho xây đắp lại thành Đại La.
+*   **868:** Cao Biền tổ chức đào kênh Thiên Uy để thuận tiện cho việc vận chuyển đường thủy.
 *   **875:** Vua Indravarman II của Champa lập triều đại mới tại Indrapura (Quảng Nam), Phật giáo Đại thừa phát triển cực thịnh (phong cách Đồng Dương).
 *   **905:** Khúc Thừa Dụ giành quyền tự chủ, tự xưng là Tiết độ sứ.
 *   **907:** Khúc Hạo nối nghiệp cha, tiến hành nhiều cải cách quan trọng.
@@ -141,6 +145,7 @@
 *   **1141:** Quốc sư Nguyễn Minh Không viên tịch.
 *   **02/1149:** Lập trang Vân Đồn (Quảng Ninh) để làm nơi cho thuyền buôn các nước vào buôn bán, chính thức mở ra thương cảng quốc tế đầu tiên.
 *   **1150:** Xảy ra vụ biến loạn Đỗ Anh Vũ trong triều đình.
+*   **1164:** Nhà Tống chính thức phong vua Lý Anh Tông làm **An Nam Quốc Vương**; tên nước "An Nam" bắt đầu được dùng làm quốc hiệu trong bang giao từ đây.
 *   **14/08/1175:** Lý Anh Tông mất, Lý Long Cán lên ngôi (Lý Cao Tông) lúc mới 2 tuổi.
 *   **1181:** Nạn đói lớn xảy ra, khiến dân chúng chết gần một nửa.
 *   **1198:** Vua Lý Cao Tông nghe lời Đàm Dĩ Mông, ra lệnh sa thải các tăng đồ không giữ giới luật, bắt hoàn tục để làm phu dịch, chấn chỉnh lại Phật giáo và xã hội.
@@ -164,6 +169,7 @@
 *   **06/1253:** Vua Trần Thái Tông cho lập **Quốc học viện** để giảng dạy Tứ thư, Ngũ kinh cho các nho sĩ.
 *   **08/1253:** Vua Trần Thái Tông cho lập **Giảng võ đường** để đào tạo võ quan, đánh dấu sự chú trọng vào giáo dục quân sự.
 *   **08/1257:** Sứ Mông Cổ đến Đại Việt lần đầu tiên để dụ hàng.
+*   **12/1257:** Quân Mông Cổ do Ngột Lương Hợp Thai chỉ huy tiến đánh biên giới; diễn ra trận Nổ Nguyên.
 *   **09/1257:** Vua Trần Thái Tông xuống chiếu, lệnh cho các tướng đem quân thủy bộ ra ngăn giữ biên giới phía Bắc dưới sự tiết chế của Quốc công Trần Quốc Tuấn (Trần Hưng Đạo).
 *   **17/01/1258:** Trận Bình Lệ Nguyên. Vua Trần Thái Tông trực tiếp chỉ huy quân đội chống lại cuộc xâm lược của Mông Cổ do Ngột Lương Hợp Thai chỉ huy.
 *   **29/01/1258:** Quân Trần phản công, giành thắng lợi quyết định ở Đông Bộ Đầu, giải phóng Thăng Long. Cuộc kháng chiến chống Mông Cổ lần thứ nhất kết thúc thắng lợi.
@@ -181,6 +187,7 @@
 *   **12/1284:** Vua Trần triệu tập Hội nghị Diên Hồng, hỏi ý kiến các bô lão trong cả nước về việc hòa hay đánh.
 *   **01/1285:** Quân Nguyên do Thoát Hoan chỉ huy bắt đầu cuộc xâm lược Đại Việt lần thứ hai.
 *   **1285:** Khi Thượng hoàng Trần Thánh Tông vờ hỏi có nên hàng không, Trần Hưng Đạo đã khẳng khái trả lời: "Bệ hạ chém đầu tôi trước rồi hãy hàng".
+*   **03/1285:** Chiêu Quốc vương Trần Ích Tắc đem gia quyến đầu hàng quân Nguyên.
 *   **05/1285:** Quân Trần bắt đầu cuộc phản công lớn, giành thắng lợi liên tiếp ở Tây Kết, Chương Dương, Hàm Tử.
 *   **06/1285:** Cuộc kháng chiến chống quân xâm lược Mông-Nguyên lần thứ hai kết thúc thắng lợi.
 *   **15/07/1285:** Hoài Văn hầu Trần Quốc Toản hy sinh (theo một số tài liệu) ở tuổi 18. Tấm gương dũng cảm và lá cờ thêu sáu chữ vàng của ông đã trở thành biểu tượng bất diệt cho lòng yêu nước của tuổi trẻ Việt Nam.
@@ -188,12 +195,14 @@
 *   **1288 (đầu năm):** Trần Khánh Dư chỉ huy trận Vân Đồn, tiêu diệt hoàn toàn đoàn thuyền lương của giặc do Trương Văn Hổ chỉ huy.
 *   **09/04/1288:** Trận Bạch Đằng lịch sử. Thủy quân Nguyên bị tiêu diệt hoàn toàn dưới sự chỉ huy của Hưng Đạo vương Trần Quốc Tuấn. Cuộc kháng chiến chống Mông-Nguyên lần thứ ba kết thúc thắng lợi vẻ vang.
 *   **16/04/1293:** Trần Nhân Tông nhường ngôi cho Thái tử Trần Thuyên (sau là Trần Anh Tông).
+*   **1294:** Nhà Nguyên (đời vua Thành Tông - Temur Khan) chính thức xuống chiếu bãi binh, chấm dứt chiến tranh với Đại Việt.
 *   **1294:** Thượng tướng quân Trần Quang Khải, nhà quân sự và nhà thơ lớn của dân tộc, qua đời.
 *   **03/10/1300:** Hưng Đạo Đại vương Trần Quốc Tuấn qua đời. Trước khi mất, ông dặn vua Trần Anh Tông: "Phải khoan thư sức dân để làm kế sâu rễ bền gốc", coi đó là thượng sách giữ nước.
 *   **1304:** Mạc Đĩnh Chi đỗ Trạng nguyên. Ông nổi tiếng với tài năng và sự ứng đối khiến vua quan nhà Nguyên nể phục, được phong là "Lưỡng quốc Trạng nguyên".
 *   **Khoảng thế kỷ XIV:** Truyền thuyết Lạc Long Quân và Âu Cơ, Phù Đổng Thiên Vương (Thánh Gióng), và Sơn Tinh - Thủy Tinh được ghi chép lần đầu tiên trong bộ sách sử **Lĩnh Nam chích quái**.
 *   **1306:** Vua Champa là Chế Mân dâng hai châu Ô và Lý để làm sính lễ cưới công chúa Huyền Trân.
 *   **1307:** Nhà Trần đổi tên hai châu Ô, Lý thành châu Thuận và châu Hóa, sáp nhập vào lãnh thổ Đại Việt.
+*   **1312:** Vua Trần Anh Tông thân chinh đi đánh Chiêm Thành, bắt được vua Chiêm là Chế Chí.
 *   **07/04/1314:** Trần Anh Tông nhường ngôi cho Thái tử Trần Mạnh (sau là Trần Minh Tông).
 *   **18/03/1329:** Trần Minh Tông nhường ngôi cho Thái tử Trần Vượng (sau là Trần Hiến Tông).
 *   **1329:** Lý Tế Xuyên hoàn thành biên soạn bộ sách *Việt Điện U Linh Tập*, một tác phẩm văn học - lịch sử quan trọng ghi lại sự tích các vị thần và nhân vật lịch sử của Việt Nam.
