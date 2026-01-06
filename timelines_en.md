@@ -275,6 +275,7 @@
 *   **Apr. 1428 (Mar., Lunar Year of the Monkey):** Le Loi reviewed his generals and officials, defining ranks, rewarding merits, and dividing the country into circuits (Dao).
 *   **May 1428 (Apr. 14, Lunar Year of the Monkey):** Le Loi officially ascended the throne as Emperor (Le Thai To) in Dong Do, adopting the era name Thuan Thien and restoring the national title of Dai Viet. Under the king's order, Nguyen Trai wrote the "Binh Ngo dai cao" (Great Proclamation upon the Pacification of the Wu), the nation's second declaration of independence.
 *   **1428:** Le Thai To divided the country into 5 circuits (dao): South, North, East, West, and Hai Tay. He established the position of Administrator (*Hành khiển*) in each circuit to manage military and civil records.
+*   **Jan. 7, 1429:** King Le Thai To established his eldest son Tu Te as King of the Nation (Quoc Vuong) to temporarily manage state affairs, and his second son Nguyen Long as Crown Prince.
 *   **Feb. 1429:** Le Thai To ordered the demobilization of 250,000 troops, keeping only 100,000, implementing the "combining military service with farming" policy.
 *   **Late 1431 (Middle of Winter, Lunar Year of the Pig):** King Le Thai To wrote the preface for the book *Lam Son thuc luc* (Records of Lam Son), recording the history of the uprising.
 *   **Oct. 5, 1433 (Aug. 22, Leap Month, Lunar Year of the Buffalo):** King Le Thai To passed away.
@@ -306,17 +307,18 @@
 *   **1516:** The major uprising of Tran Cao broke out in Dong Trieu (Quang Ninh). The rebels shaved their heads, earning them the name "three-tuft army," and at one point captured Thang Long.
 *   **1522:** Mac Dang Dung, a powerful military general, forced King Le Chieu Tong to flee Thang Long.
 *   **1526:** Mac Dang Dung sent someone to secretly assassinate King Le Chieu Tong.
-*   **Jun. 1527:** Mac Dang Dung forced King Le Cung Hoang to abdicate, establishing the Mac dynasty. The Early Le dynasty collapsed.
+*   **Jun. 15, 1527:** Mac Dang Dung forced King Le Cung Hoang to abdicate, usurping the throne and establishing the Mac dynasty. The Early Le dynasty collapsed.
 
 ### **Mac Dynasty and North-South Dynasties War (1527 - 1592)**
 
 *   **1527:** Mac Dang Dung established Duong Kinh (Hai Duong) as the second capital, elevating the status of his hometown.
 *   **1528:** Mac Dang Dung minted Minh Duc thong bao coins and reorganized the army.
 *   **1529:** Mac Dang Dung ceded the throne to his son Mac Dang Doanh and retired as Retired Emperor.
+*   **Jan. 1, 1530:** Mac Dang Doanh ascended the throne, taking the era name Dai Chanh.
 *   **1533:** In Ai Lao (Laos), Nguyen Kim (a former Le official) found Le Ninh (son of King Le Chieu Tong), established him as king (Le Trang Tong), and began the "support the Le, destroy the Mac" movement.
 *   **1537:** The Ming dynasty, under the pretext of "punishing" the Mac, prepared troops at the border, putting pressure on the Mac court.
-*   **Jan. 3, 1540:** Mac Dang Dung had to tie himself up, walk barefoot to the Nam Quan border gate, and surrender to the Ming dynasty. The Ming accepted, but downgraded An Nam to a Command Commission and appointed the Mac as Command Commissioners. The Mac court had to cede four frontier regions to the Ming.
-*   **Aug. 22, 1541:** Mac Dang Dung passed away.
+*   **Nov. 3, 1540:** Mac Dang Dung tied himself with rope, walked barefoot to the Nam Quan border gate, and surrendered to the Ming dynasty generals. The Ming accepted, but downgraded An Nam to a Command Commission and appointed the Mac as Command Commissioners. The Mac court had to cede four frontier regions to the Ming.
+*   **Aug. 27, 1541:** Mac Dang Dung passed away.
 *   **1543:** The Le-Trinh army returned from Ai Lao, recaptured Tay Do Citadel (Thanh Hoa), and officially established the Thanh-Nghe region as their base.
 *   **1545:** Nguyen Kim was poisoned to death by a surrendered Mac general named Duong Chap Nhat. His son-in-law, Trinh Kiem, took over, seizing all military power.
 *   **1546:** Mac Phuc Hai passed away, Mac Phuc Nguyen succeeded him. The Mac court experienced internal conflict between the faction of Mac Kinh Dien (supporting Phuc Nguyen) and Pham Tu Nghi (supporting Mac Chinh Trung).
@@ -330,7 +332,7 @@
 *   **1583 - 1592:** A period of Le-Trinh counter-offensives. Trinh Tung launched successive major attacks to the North.
 *   **Jan. 1592:** Trinh Tung entered and liberated Thang Long. Mac Mau Hop abandoned the capital and fled.
 *   **Early 1592:** Trinh Tung led a large army north, defeating the main force of the Mac army in a decisive battle.
-*   **Late 1592:** Trinh Tung captured and killed Mac Mau Hop. The Mac dynasty in Thang Long officially collapsed.
+*   **Dec. 1592:** Trinh Tung captured Mac Mau Hop. Mau Hop was hung alive for three days and then beheaded at Bo De sandbank. The Mac dynasty in Thang Long officially collapsed.
 *   **Early 1593:** Descendants of the Mac (Mac Kinh Chi) continued to rise up in Hai Duong but were quickly suppressed. The remnants of the Mac dynasty retreated to Cao Bang and continued to hold out. The North-South Dynasties War essentially ended.
 *   **Apr. 16, 1593:** The Le king returned to Thang Long. The Le dynasty was restored.
 

@@ -275,6 +275,7 @@
 *   **03/1428 (tháng 3 năm Mậu Thân):** Nhà vua hội các tướng văn võ, định công ban thưởng, sắp đặt phẩm cấp và chia cả nước làm 5 đạo.
 *   **29/04/1428 (14/04 năm Mậu Thân):** Lê Lợi chính thức lên ngôi Hoàng đế (Lê Thái Tổ) tại Đông Đô, đặt niên hiệu Thuận Thiên, khôi phục quốc hiệu Đại Việt. Thừa lệnh vua, Nguyễn Trãi viết "Bình Ngô đại cáo", bản tuyên ngôn độc lập thứ hai của dân tộc.
 *   **1428:** Lê Thái Tổ chia cả nước làm 5 đạo: Nam đạo, Bắc đạo, Đông đạo, Tây đạo và Hải Tây đạo. Triều đình đặt thêm chức Hành khiển ở các đạo để chia giữ sổ sách quân và dân.
+*   **07/01/1429:** Vua Lê Thái Tổ lập con trưởng là Tư Tề làm Quốc vương tạm coi việc nước, và con thứ Nguyên Long làm Hoàng Thái tử.
 *   **02/1429:** Lê Thái Tổ ra lệnh cho giải ngũ 25 vạn quân, chỉ giữ lại 10 vạn, thực hiện chính sách "ngụ binh ư nông".
 *   **Cuối 1431 (Tháng Trọng Đông năm Tân Hợi):** Vua Lê Thái Tổ viết bài tựa cho cuốn *Lam Sơn thực lục*, ghi chép lại lịch sử cuộc khởi nghĩa.
 *   **05/10/1433 (22/08 nhuận năm Quý Sửu):** Vua Lê Thái Tổ băng hà.
@@ -306,17 +307,18 @@
 *   **1516:** Nổ ra cuộc khởi nghĩa lớn của Trần Cảo ở Đông Triều (Quảng Ninh). Nghĩa quân cạo trọc đầu, được gọi là "quân ba chỏm", có lúc chiếm được cả Thăng Long.
 *   **1522:** Mạc Đăng Dung, một võ tướng có nhiều quyền lực, ép vua Lê Chiêu Tông phải chạy khỏi Thăng Long.
 *   **1526:** Mạc Đăng Dung sai người bí mật giết vua Lê Chiêu Tông.
-*   **06/1527:** Mạc Đăng Dung ép vua Lê Cung Hoàng nhường ngôi, lập ra triều Mạc. Nhà Lê Sơ sụp đổ.
+*   **15/06/1527:** Mạc Đăng Dung ép vua Lê Cung Hoàng nhường ngôi, lập ra triều Mạc. Nhà Lê Sơ sụp đổ.
 
 ### **Thời kỳ Nhà Mạc và Chiến tranh Nam - Bắc triều (1527 - 1592)**
 
 *   **1527:** Mạc Đăng Dung lập Dương Kinh (Hải Dương) làm kinh đô thứ hai, nâng cao vị thế quê hương nhà Mạc.
 *   **1528:** Mạc Đăng Dung cho đúc tiền Minh Đức thông bảo và tổ chức lại quân đội.
 *   **1529:** Mạc Đăng Dung nhường ngôi cho con là Mạc Đăng Doanh, lui về làm Thái thượng hoàng.
+*   **01/01/1530:** Mạc Đăng Doanh lên ngôi vua, lấy niên hiệu là Đại Chính.
 *   **1533:** Tại Ai Lao, Nguyễn Kim (một cựu thần nhà Lê) tìm được Lê Ninh (con vua Lê Chiêu Tông), lập lên làm vua (Lê Trang Tông), bắt đầu công cuộc "phù Lê diệt Mạc".
 *   **1537:** Nhà Minh lấy cớ "hỏi tội" họ Mạc, chuẩn bị quân đội ở biên giới, gây áp lực với triều Mạc.
-*   **03/01/1540:** Mạc Đăng Dung phải tự trói mình, đi chân đất đến ải Nam Quan xin hàng nhà Minh. Nhà Minh chấp nhận, nhưng hạ An Nam xuống làm Đô thống sứ ty, phong cho họ Mạc chức Đô thống sứ. Triều Mạc phải cắt đất 4 động ở biên giới cho nhà Minh.
-*   **22/08/1541:** Mạc Đăng Dung mất.
+*   **03/11/1540:** Mạc Đăng Dung tự quấn dây vào cổ, đi chân đất đến cửa ải Nam Quan xin hàng tướng nhà Minh. Nhà Minh chấp nhận, nhưng hạ An Nam xuống làm Đô thống sứ ty, phong cho họ Mạc chức Đô thống sứ. Triều Mạc phải cắt đất 4 động ở biên giới cho nhà Minh.
+*   **27/08/1541:** Mạc Đăng Dung mất.
 *   **1543:** Quân Lê-Trịnh từ Ai Lao về, chiếm lại được thành Tây Đô (Thanh Hóa), chính thức lấy vùng Thanh - Nghệ làm căn cứ địa.
 *   **1545:** Nguyễn Kim bị một hàng tướng nhà Mạc là Dương Chấp Nhất đầu độc chết. Con rể là Trịnh Kiểm lên thay, nắm toàn bộ binh quyền.
 *   **1546:** Mạc Phúc Hải mất, Mạc Phúc Nguyên lên kế vị. Nội bộ triều Mạc xảy ra tranh chấp giữa phe Mạc Kính Điển (ủng hộ Phúc Nguyên) và Phạm Tử Nghi (ủng hộ Mạc Chính Trung).
@@ -328,7 +330,7 @@
 *   **1583 - 1592:** Giai đoạn quân Lê-Trịnh phản công. Trịnh Tùng liên tiếp mở các cuộc tấn công lớn ra Bắc.
 *   **01/1592:** Trịnh Tùng tiến vào giải phóng Thăng Long. Mạc Mậu Hợp bỏ kinh thành chạy.
 *   **Đầu 1592:** Trịnh Tùng thống lĩnh đại quân tiến ra Bắc, đánh bại quân chủ lực của nhà Mạc trong một trận quyết định.
-*   **Cuối 1592:** Trịnh Tùng bắt và giết Mạc Mậu Hợp. Vương triều Mạc ở Thăng Long chính thức sụp đổ.
+*   **12/1592:** Trịnh Tùng bắt được Mạc Mậu Hợp. Mậu Hợp bị treo sống 3 ngày rồi bị chém đầu tại bãi cát Bồ Đề. Vương triều Mạc ở Thăng Long chính thức sụp đổ.
 *   **Đầu 1593:** Con cháu nhà Mạc (Mạc Kính Chỉ) tiếp tục nổi dậy ở Hải Dương nhưng nhanh chóng bị dẹp tan. Dư đảng nhà Mạc rút lên Cao Bằng, tiếp tục cát cứ. Cuộc chiến tranh Nam - Bắc triều về cơ bản kết thúc.
 *   **16/04/1593:** Vua Lê trở về Thăng Long. Triều Lê được khôi phục.
 
