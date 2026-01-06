@@ -458,7 +458,7 @@
 *   **Late 1786:** Nguyen Hue was given Princess Ngoc Han in marriage by the Le king. The Tay Son brothers divided the country to rule: Nguyen Nhac as the Central Emperor (from Quang Nam to Binh Thuan), Nguyen Hue as the Northern Pacification King (Bac Binh Vuong - governing Thuan Hoa northwards), and Nguyen Lu as the Eastern Pacification King (Dong Dinh Vuong - governing Gia Dinh).
 *   **1787:** Conflict broke out between Nguyen Nhac and Nguyen Hue. Nguyen Hue led troops to besiege Hoang De Citadel, forcing Nguyen Nhac to cede more land in Quang Nam.
 *   **Feb. 21, 1787:** A civil war broke out between the Tay Son brothers. Nguyen Hue, consolidating his power in the North and Phu Xuan, marched south to besiege his brother Nguyen Nhac at Quy Nhon. Nguyen Nhac lost approximately 40,000 troops in the conflict. Besieged and desperate, he wept from the city walls, invoking brotherly ties to ask for a truce. This internal conflict ("nồi da xáo thịt") severely weakened the dynasty.
-*   **Nov. 21, 1787:** In the Treaty of Versailles, Nguyen Anh ceded the port of Da Nang and Con Dao Island to France in exchange for support, but this treaty never materialized.
+*   **Nov. 28, 1787:** Bishop Pigneau de Béhaine (representing Nguyen Anh) signed the Treaty of Versailles with Count de Montmorin (France). Article II promised to cede the port of Hoi An and Con Lon Island to France in exchange for military support.
 *   **Early 1788:** The population in Tonkin (Dang Ngoai) began to show resentment towards the new Tay Son officials and desired a return to the old order.
 *   **Apr. 1788:** Nguyen Hue marched to Thang Long to execute Vu Van Nham for arrogance and plotting rebellion after Nham had eliminated Nguyen Huu Chinh. This consolidated Tay Son's control over the North before the Qing invasion.
 *   **Jan. 1788:** Tay Son General Vu Van Nham captured and executed Nguyen Huu Chinh in Thang Long, ending Chinh's attempt to build his own power base in the North.
@@ -498,7 +498,7 @@
 *   **Jan. 1802:** The Battle of Tran Ninh and Dau Mau took place. General Bui Thi Xuan fought bravely commanding elephant troops. General Huynh Thi Cuc sacrificed herself in battle to allow the royal forces to retreat.
 *   **Jun. 16, 1802:** In the retreat to the North, General Nguyen Van Tuyet (Do Doc Tuyet) died in battle at Xuong Giang protecting King Canh Thinh. Empress Dowager Bui Thi Nhan, along with female generals Tran Thi Lan and Nguyen Thi Dung, committed suicide to avoid capture.
 *   **Jun. 1802:** After Binh Dinh Citadel fell, Nguyen Anh officially ascended the throne as Emperor in Phu Xuan, establishing the era name Gia Long.
-*   **Jul. 20, 1802:** The Nguyen army captured Thang Long. Before the capture, the advancing Nguyen forces had already imposed heavy contributions on the northern population, sparking early discontent. King Canh Thinh and prominent generals were captured. According to the text *Nhà Tây Sơn*, General Tran Quang Dieu was skinned alive, General Vo Van Dung was executed (beheaded), while General Bui Thi Xuan was executed by "lighting the sky lantern" (wrapped in wax-soaked cloth and burned) after the war elephants refused to trample her. The Tay Son dynasty officially collapsed.
+*   **Jul. 20, 1802:** The Nguyen army captured Thang Long. Before the capture, the advancing Nguyen forces had already imposed heavy contributions on the northern population, sparking early discontent. King Canh Thinh and prominent generals were captured. According to the text *Nhà Tây Sơn*, General Tran Quang Dieu was skinned alive, General Vo Van Dung was executed (beheaded), while General Bui Thi Xuan was executed by "lighting the sky lantern" (wrapped in wax-soaked cloth and burned). Gia Long also ordered the exhumation of the graves of Nguyen Nhac and Nguyen Hue, pounding their bones into powder and imprisoning their skulls in a dungeon. The Tay Son dynasty officially collapsed.
 *   **Jul. 20, 1802:** Nguyen Anh entered Thang Long citadel, completing the unification of the country and officially ending the Tay Son dynasty. This marked the beginning of the Nguyen Dynasty's rule over a unified Vietnam stretching from the North to the South.
 
 ### **Nguyen Dynasty Period (1802 - 1858)**
@@ -628,7 +628,7 @@
 *   **01/02/1862:** Governor Bonard of Cochinchina signed the decision to establish Con Dao prison. This marked the beginning of the systematic but also brutal exploitation of this island by the French colonialists.
 *   **Mar. 23, 1862:** French forces captured Vinh Long Citadel.
 *   **Apr. 1862:** The Cai Vang (Nguyen Thinh) Rebellion broke out in Bac Ninh, a major peasant uprising in Tonkin.
-*   **Jun. 5, 1862:** The Hue court signed the Treaty of Nham Tuat, officially ceding the three eastern provinces of Cochinchina (Gia Dinh, Dinh Tuong, Bien Hoa) and Con Lon island to France.
+*   **Jun. 5, 1862:** The Hue court (represented by Phan Thanh Gian and Lam Duy Hiep) signed the Treaty of Nham Tuat with France (represented by Admiral Bonard), officially ceding the three eastern provinces of Cochinchina (Gia Dinh, Dinh Tuong, Bien Hoa) and Con Lon island to France.
 *   **Feb. 1863:** Admiral Bonard and Colonel Palanca visited Hue to exchange the ratified Treaty of Nham Tuat.
 *   **Aug. 1863:** The Hue court sent a delegation led by Phan Thanh Gian to France to negotiate the redemption of the three eastern provinces, but it failed.
 *   **Aug. 11, 1863:** France signed a protectorate treaty with the Cambodian King Norodom.
@@ -647,7 +647,7 @@
 *   **Nov. 20, 1873:** Under the pretext of resolving the Dupuis affair, Francis Garnier led troops to attack and capture Hanoi Citadel for the first time.
 *   **Dec. 21, 1873:** First Battle of Cau Giay. The Black Flag Army of Liu Yongfu, in coordination with the troops of Hoang Ta Viem, ambushed and killed Francis Garnier.
 *   **Feb. 1874:** French forces withdrew from Hanoi and the other occupied cities in Tonkin.
-*   **Mar. 15, 1874:** The Hue court signed the Treaty of Giap Tuat, recognizing France's permanent sovereignty over the six provinces of Cochinchina and agreeing to open Tonkin to French trade and the stationing of a Consul.
+*   **Mar. 15, 1874:** The Hue court (represented by Le Tuan and Nguyen Van Tuong) signed the Treaty of Giap Tuat with France (represented by Rear Admiral Dupré), recognizing France's permanent sovereignty over the six provinces of Cochinchina and agreeing to open Tonkin to French trade and the stationing of a Consul.
 *   **Aug. 31, 1874:** The Commercial Treaty was signed in Saigon, regulating trade duties and regulations at the newly opened ports of Thi Nai (Binh Dinh), Ninh Hai (Hai Duong), and Hanoi.
 *   **1874:** The uprising of Tran Tan and Dang Nhu Mai broke out in Nghe An and Ha Tinh with the slogan "Sat Ta" (Kill the Heretics), opposing the Treaty of Giap Tuat and the spread of Catholicism.
 *   **Late 1875:** The Hue court established the **Coastal Defense Office** (Nha Hai Phong) at Thuan An estuary and the **Patrol and Transport Office** (Nha Tuan Tai) to strengthen coastal defense and manage water transport.
@@ -661,7 +661,7 @@
 *   **Apr. 3, 1882:** Colonel Henri Rivière landed in Hanoi, beginning the second invasion of Tonkin.
 *   **Apr. 25, 1882:** Henri Rivière attacked and captured Hanoi Citadel for the second time. Governor-General Hoang Dieu committed suicide.
 *   **Mar. 27, 1883:** Rivière led troops to attack and capture Nam Dinh Citadel.
-*   **May 19, 1883:** Second Battle of Cau Giay. The Black Flag Army and the troops of Hoang Ta Viem again ambushed and killed Henri Rivière.
+*   **May 19, 1883:** Second Battle of Cau Giay. The Black Flag Army and the troops of Hoang Ta Viem again ambushed and killed Henri Rivière. Emperor Tu Duc, hoping for negotiations, issued an edict stating: "Those who discuss peace are meritorious, those who discuss war are guilty," preventing further attacks.
 *   **Jul. 17, 1883:** Emperor Tu Duc passed away, and the Hue court fell into turmoil and disarray.
 *   **Jul. 1883:** Duc Duc was enthroned but was deposed and imprisoned by regents Nguyen Van Tuong and Ton That Thuyet after only 3 days. Hiep Hoa was enthroned as the new Emperor.
 *   **Aug. 18-20, 1883:** A French fleet under Admiral Courbet attacked and captured the forts at the Thuan An estuary, threatening the capital city of Hue.
@@ -672,7 +672,7 @@
 *   **1884 - 1945:** France continued to administer the Spratly and Paracel Islands as territories of French Indochina.
 *   **Mar. 12, 1884:** French forces captured Bac Ninh Citadel.
 *   **May 11, 1884:** France and the Qing dynasty signed the Tientsin Accord, in which the Qing agreed to withdraw their troops from Tonkin.
-*   **Jun. 6, 1884:** The Hue court signed the Treaty of Giap Than (Patenôtre Treaty), which completely established the French protectorate over all of Vietnam.
+*   **Jun. 6, 1884:** The Hue court (represented by Pham Than Duat, Nguyen Van Tuong, and Ton That Phan) signed the Treaty of Giap Than (Patenôtre Treaty) with France (represented by Minister Patenôtre), which completely established the French protectorate over all of Vietnam.
 *   **Aug. 1884:** Emperor Kien Phuc passed away (suspected poisoned). Ham Nghi was enthroned.
 *   **Jul. 4-5, 1885:** Ton That Thuyet organized an attack on the Mang Ca fortress and the French Resident Superior's office in Hue, but failed.
 *   **Jul. 5, 1885:** The capital city of Hue fell. Ton That Thuyet escorted King Ham Nghi to the mountain base of Tan So (Quang Tri).

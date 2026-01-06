@@ -446,7 +446,7 @@
 *   **1782:** Tại Đàng Ngoài, xảy ra "Loạn kiêu binh", quân lính kiêu binh nổi loạn làm triều chính họ Trịnh càng thêm suy yếu, tạo điều kiện cho quân Tây Sơn tiến ra Bắc sau này.
 *   **09/1782:** Chúa Trịnh Sâm mất. Con nhỏ là Trịnh Cán nối ngôi nhưng bị kiêu binh phế truất, đưa Trịnh Tông (Trịnh Khải) lên thay (Đoan Nam Vương).
 *   **1783:** Nguyễn Huệ và Nguyễn Lữ đem quân vào đánh, Nguyễn Ánh lại thua trận, phải chạy sang Xiêm cầu viện.
-*   **03/1784:** Giám mục Pigneau de Béhaine (Bá Đa Lộc) thay mặt Nguyễn Ánh sang Pháp cầu viện.
+*   **Mùa đông 1784:** Nguyễn Ánh cử Hoàng tử Cảnh đi cùng Giám mục Pigneau de Béhaine (Bá Đa Lộc) sang Pháp cầu viện.
 *   **25/07/1784:** 5 vạn quân Xiêm (2 vạn thủy, 3 vạn bộ) do Chiêu Tăng, Chiêu Sương chỉ huy cùng Nguyễn Ánh tiến vào xâm lược Gia Định.
 *   **19/01/1785:** Trận Rạch Gầm - Xoài Mút. Nguyễn Huệ tổ chức trận địa mai phục, đại phá quân Xiêm. Tướng Trần Quang Diệu và Bùi Thị Xuân chỉ huy bộ binh, tướng Lê Văn Hưng lập công đầu bắt sống tướng Nguyễn Huỳnh Đức.
 *   **1785:** Trong cuộc rút lui hỗn loạn sau thất bại, Lê Văn Duyệt đã chiến đấu dũng cảm để bảo vệ Chúa Nguyễn Ánh, giúp ông thoát về Hà Tiên rồi sang Xiêm.
@@ -458,7 +458,7 @@
 *   **Cuối 1786:** Nguyễn Huệ được vua Lê gả công chúa Ngọc Hân. Anh em Tây Sơn chia nhau cai quản đất nước: Nguyễn Nhạc là Trung ương Hoàng đế (từ Quảng Nam vào Bình Thuận), Nguyễn Huệ là Bắc Bình vương (cai quản Thuận Hóa từ đèo Hải Vân ra Bắc), Nguyễn Lữ là Đông Định vương (cai quản vùng Gia Định).
 *   **1787:** Mâu thuẫn giữa Nguyễn Nhạc và Nguyễn Huệ nổ ra. Nguyễn Huệ đem quân vây thành Hoàng Đế, buộc Nguyễn Nhạc phải nhượng thêm đất Quảng Nam.
 *   **21/02/1787:** Cuộc nội chiến "huynh đệ tương tàn" giữa Nguyễn Nhạc và Nguyễn Huệ bùng nổ. Nguyễn Huệ đem quân vây hãm anh trai tại thành Quy Nhơn. Trong cuộc xung đột này, Nguyễn Nhạc đã mất khoảng 40.000 quân. Nguyễn Nhạc bị vây khốn, phải lên thành khóc lóc xin em giải vây. Sự kiện này, được gọi là "nồi da xáo thịt", đã làm suy yếu nghiêm trọng triều đại Tây Sơn.
-*   **21/11/1787:** Trong Hiệp ước Versailles, Nguyễn Ánh đồng ý nhường cửa biển Đà Nẵng và quần đảo Côn Lôn cho Pháp để đổi lấy sự hỗ trợ, nhưng hiệp ước này không thành hiện thực.
+*   **28/11/1787:** Giám mục Bá Đa Lộc (đại diện Nguyễn Ánh) ký Hiệp ước Versailles với Bá tước De Montmorin (Pháp). Điều II của Hiệp ước hứa nhường cảng Hội An và đảo Côn Lôn cho Pháp.
 *   **Đầu năm 1788:** Dân chúng ở Đàng Ngoài (Bắc Hà) bắt đầu thể hiện sự bất mãn và căm ghét đối với các quan lại mới của chính quyền Tây Sơn.
 *   **Tháng 4/1788:** Nguyễn Huệ ra Thăng Long giết Vũ Văn Nhậm (sau khi Nhậm diệt Nguyễn Hữu Chỉnh) để dẹp loạn và củng cố quyền lực phía Bắc trước khi quân Thanh sang.
 *   **01/1788:** Tướng Tây Sơn Vũ Văn Nhậm tiến quân ra Bắc, bắt và giết Nguyễn Hữu Chỉnh tại Thăng Long, chấm dứt nỗ lực xây dựng quyền lực riêng của Chỉnh.
@@ -498,7 +498,7 @@
 *   **01/1802:** Trận chiến ác liệt tại Trấn Ninh và Đâu Mâu (Quảng Bình). Nữ tướng Bùi Thị Xuân chỉ huy tượng binh chiến đấu dũng cảm. Nữ tướng Huỳnh Thị Cúc đã hy sinh thân mình để chặn hậu cho vua Cảnh Thịnh rút lui.
 *   **16/06/1802:** Trên đường rút chạy ra Bắc, tại Xương Giang, Đô đốc Tuyết (Nguyễn Văn Tuyết) tử trận khi bảo vệ vua Cảnh Thịnh. Thái hậu Bùi Thị Nhạn cùng các nữ tướng Trần Thị Lan, Nguyễn Thị Dung đều tự sát để giữ tròn khí tiết.
 *   **06/1802:** Sau khi thành Bình Định thất thủ, Nguyễn Ánh chính thức lên ngôi Hoàng đế ở Phú Xuân, đặt niên hiệu là Gia Long.
-*   **20/07/1802:** Quân Nguyễn tiến ra chiếm được Thăng Long. Trước đó, quân Nguyễn đã bắt người dân Bắc Hà đóng góp nhiều khoản nặng nề, gây ra sự bất mãn ngay từ đầu. Vua Cảnh Thịnh bị bắt. Các danh tướng bị hành quyết tàn khốc. Theo sách *Nhà Tây Sơn*, Trần Quang Diệu bị lột da, Võ Văn Dũng bị xử trảm, còn nữ tướng Bùi Thị Xuân vì uy nghi khiến voi không dám giày nên bị hành hình bằng cách "điểm thiên đăng" (tẩm sáp đốt). Triều đại Tây Sơn chính thức sụp đổ.
+*   **20/07/1802:** Quân Nguyễn tiến ra chiếm được Thăng Long. Trước đó, quân Nguyễn đã bắt người dân Bắc Hà đóng góp nhiều khoản nặng nề, gây ra sự bất mãn ngay từ đầu. Vua Cảnh Thịnh bị bắt. Các danh tướng bị hành quyết tàn khốc. Theo sách *Nhà Tây Sơn*, Trần Quang Diệu bị lột da, Võ Văn Dũng bị xử trảm, còn nữ tướng Bùi Thị Xuân vì uy nghi khiến voi không dám giày nên bị hành hình bằng cách "điểm thiên đăng" (tẩm sáp đốt). Gia Long còn ra lệnh đào mộ Nguyễn Nhạc, Nguyễn Huệ, giã nát hài cốt rồi vứt đi, còn xương đầu thì bỏ vào ngục tối (gọi là Ông Vò). Triều đại Tây Sơn chính thức sụp đổ.
 *   **20/07/1802:** Nguyễn Ánh tiến vào thành Thăng Long, hoàn thành việc thống nhất đất nước và chính thức chấm dứt triều đại Tây Sơn. Đây là sự kiện mở đầu cho triều đại nhà Nguyễn cai trị một nước Việt Nam thống nhất từ Bắc chí Nam.
 
 ### **Thời kỳ Nhà Nguyễn (1802 - 1858)**
@@ -628,7 +628,7 @@
 *   **01/02/1862:** Thống đốc Nam Kỳ Bonard đã ký quyết định thành lập nhà tù Côn Đảo. Đây là thời điểm đánh dấu sự khai phá mang tính hệ thống nhưng cũng đầy tàn khốc của thực dân Pháp đối với hòn đảo này.
 *   **23/03/1862:** Quân Pháp chiếm thành Vĩnh Long.
 *   **04/1862:** Cuộc khởi nghĩa Cai Vàng (Nguyễn Thịnh) bùng nổ ở Bắc Ninh, một trong những cuộc khởi nghĩa nông dân lớn ở Bắc Kỳ.
-*   **05/06/1862:** Triều đình Huế ký Hòa ước Nhâm Tuất, chính thức nhượng 3 tỉnh miền Đông Nam Kỳ (Gia Định, Định Tường, Biên Hòa) và đảo Côn Lôn cho Pháp.
+*   **05/06/1862:** Triều đình Huế (đại diện là Phan Thanh Giản và Lâm Duy Hiệp) ký Hòa ước Nhâm Tuất với Pháp (đại diện là Thiếu tướng Bonard), chính thức nhượng 3 tỉnh miền Đông Nam Kỳ (Gia Định, Định Tường, Biên Hòa) và đảo Côn Lôn cho Pháp.
 *   **02/1863:** Đô đốc Bonard và Đại tá Palanca (Tây Ban Nha) đến Huế để trao đổi việc phê chuẩn Hòa ước Nhâm Tuất.
 *   **08/1863:** Triều đình Huế cử phái bộ do Phan Thanh Giản dẫn đầu sang Pháp thương lượng xin chuộc lại 3 tỉnh miền Đông nhưng thất bại.
 *   **11/08/1863:** Pháp ký hiệp ước bảo hộ với vua Campuchia Norodom.
@@ -647,7 +647,7 @@
 *   **20/11/1873:** Lấy cớ giải quyết vụ Dupuis, Francis Garnier đem quân tấn công và chiếm thành Hà Nội lần thứ nhất.
 *   **21/12/1873:** Trận Cầu Giấy lần thứ nhất. Quân Cờ Đen của Lưu Vĩnh Phúc phối hợp với quân của Hoàng Tá Viêm phục kích, giết chết Francis Garnier.
 *   **02/1874:** Quân Pháp rút khỏi Hà Nội và các tỉnh thành đã chiếm ở Bắc Kỳ.
-*   **15/03/1874:** Triều đình Huế ký Hòa ước Giáp Tuất, công nhận chủ quyền vĩnh viễn của Pháp ở 6 tỉnh Nam Kỳ, chấp nhận để Pháp mở cửa thông thương ở Bắc Kỳ và đặt Lãnh sự. Chính thức mở các cửa biển Thị Nại (Bình Định), Ninh Hải (Hải Dương) và thành phố Hà Nội cho thương nhân nước ngoài.
+*   **15/03/1874:** Triều đình Huế (đại diện là Lê Tuấn và Nguyễn Văn Tường) ký Hòa ước Giáp Tuất với Pháp (đại diện là Thiếu tướng Dupré), công nhận chủ quyền vĩnh viễn của Pháp ở 6 tỉnh Nam Kỳ, chấp nhận để Pháp mở cửa thông thương ở Bắc Kỳ và đặt Lãnh sự. Chính thức mở các cửa biển Thị Nại (Bình Định), Ninh Hải (Hải Dương) và thành phố Hà Nội cho thương nhân nước ngoài.
 *   **31/08/1874:** Ký kết Thương ước giữa Đại Nam và Pháp tại Sài Gòn, quy định chi tiết về thuế quan và quy chế thương mại tại các cửa biển mới mở.
 *   **1874:** Cuộc khởi nghĩa của Trần Tấn và Đặng Như Mai nổ ra ở Nghệ An và Hà Tĩnh với khẩu hiệu "Sát Tả", phản đối Hòa ước Giáp Tuất và sự lan truyền của đạo Thiên Chúa.
 *   **Cuối 1875:** Triều đình thành lập **Nha Hải phòng** tại cửa biển Thuận An và **Nha Tuần tải** để tăng cường phòng thủ bờ biển và quản lý vận tải đường thủy.
@@ -661,7 +661,7 @@
 *   **03/04/1882:** Đại tá Henri Rivière đổ bộ lên Hà Nội, bắt đầu cuộc xâm lược Bắc Kỳ lần thứ hai.
 *   **25/04/1882:** Henri Rivière tấn công và chiếm thành Hà Nội lần thứ hai. Tổng đốc Hoàng Diệu tuẫn tiết.
 *   **27/03/1883:** Rivière đem quân đánh chiếm thành Nam Định.
-*   **19/05/1883:** Trận Cầu Giấy lần thứ hai. Quân Cờ Đen và quân của Hoàng Tá Viêm lại phục kích, giết chết Henri Rivière.
+*   **19/05/1883:** Trận Cầu Giấy lần thứ hai. Quân Cờ Đen và quân của Hoàng Tá Viêm lại phục kích, giết chết Henri Rivière. Vua Tự Đức hạ lệnh thương lượng, không cho quân đánh tiếp, ra chiếu dụ: "Bàn hòa là người có công, bàn chiến là kẻ có tội".
 *   **17/07/1883:** Vua Tự Đức qua đời, nội bộ triều đình Huế lục đục, rối loạn.
 *   **07/1883:** Dục Đức lên ngôi được 3 ngày thì bị các phụ chính đại thần phế truất và giam chết trong ngục. Hiệp Hoà được đưa lên ngôi vua.
 *   **18-20/08/1883:** Hạm đội Pháp do Đô đốc Courbet chỉ huy tấn công và chiếm các pháo đài ở cửa Thuận An, uy hiếp kinh thành Huế.
@@ -672,7 +672,7 @@
 *   **1884 - 1945:** Pháp tiếp tục quản lý hai quần đảo Hoàng Sa và Trường Sa với tư cách là lãnh thổ của Liên bang Đông Dương thuộc Pháp.
 *   **12/03/1884:** Quân Pháp chiếm thành Bắc Ninh.
 *   **11/05/1884:** Pháp và nhà Thanh ký Quy ước Thiên Tân, nhà Thanh đồng ý rút quân khỏi Bắc Kỳ.
-*   **06/06/1884:** Triều đình Huế ký Hòa ước Giáp Thân (Hiệp ước Patenôtre), xác lập một cách hoàn chỉnh nền bảo hộ của Pháp trên toàn Việt Nam.
+*   **06/06/1884:** Triều đình Huế (đại diện là Phạm Thận Duật, Nguyễn Văn Tường, Tôn Thất Phan) ký Hòa ước Giáp Thân (Hiệp ước Patenôtre) với Pháp (đại diện là Công sứ Patenôtre), xác lập một cách hoàn chỉnh nền bảo hộ của Pháp trên toàn Việt Nam.
 *   **08/1884:** Vua Kiến Phúc qua đời (nghi bị đầu độc). Hàm Nghi được đưa lên ngôi vua.
 *   **04-05/07/1885:** Tôn Thất Thuyết tổ chức tấn công đồn Mang Cá và Tòa Khâm sứ Pháp tại Huế nhưng thất bại.
 *   **05/07/1885:** Kinh thành Huế thất thủ, Tôn Thất Thuyết phò vua Hàm Nghi chạy ra sơn phòng Tân Sở (Quảng Trị).
