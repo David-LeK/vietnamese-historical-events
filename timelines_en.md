@@ -106,6 +106,7 @@
 *   **Jan. 1044:** Ly Thai Tong personally led a campaign against Champa, beheading the Champa king Sạ Đẩu (Jaya Simhavarman II) in battle.
 *   **1049:** King Ly Thai Tong ordered the construction of Dien Huu Pagoda (One Pillar Pagoda).
 *   **1054:** Ly Thai Tong passed away, Ly Nhat Ton ascended the throne (Ly Thanh Tong), and changed the national name from Dai Co Viet to Dai Viet.
+*   **1057:** Tuong Long Tower was built in Do Son (Hai Phong), considered a major scenic spot of the ancient An Bang region.
 *   **1059:** The Ly army attacked the Song dynasty's Qinzhou (Kham Chau) to demonstrate military strength.
 *   **1059:** King Ly Thanh Tong mandated that officials must wear hats and boots when attending court, establishing a formal dress code for the first time.
 *   **1069:** Ly Thanh Tong personally led a campaign against Champa, capturing King Che Cu (Rudravarman III). Champa had to cede the three provinces of Bo Chinh, Dia Ly, and Ma Linh as ransom.
@@ -157,6 +158,7 @@
 *   **Jan. 17, 1258:** Battle of Binh Le Nguyen. King Tran Thai Tong directly commanded the army against the Mongol invasion led by Uriyangkhadai.
 *   **Jan. 29, 1258:** The Tran army counter-attacked, winning a decisive victory at Dong Bo Dau and liberating Thang Long. The first resistance war against the Mongols ended in victory.
 *   **Mar. 1258:** Tran Thai Tong ceded the throne to his son, Tran Hoang (Tran Thanh Tong).
+*   **1262:** King Tran Thanh Tong elevated Tuc Mac village to Thien Truong prefecture, and built the Trung Quang Palace and Pho Minh Tower (Nam Dinh).
 *   **1267:** The Yuan dynasty presented "six demands" to Dai Viet, including that the Tran king must pay tribute in person and allow the appointment of administrators.
 *   **1272:** Le Van Huu completed the *Dai Viet su ky*, the first national history of Vietnam.
 *   **Oct. 24, 1278:** Emperor Trần Thánh Tông abdicated the throne in favor of Crown Prince Trần Khâm (later known as Emperor Trần Nhân Tông).
@@ -546,6 +548,7 @@
 *   **1803 - 1808:** General Le Van Duyet was dispatched to suppress the uprising of the "Thach Bich savages" (ethnic minorities) in the Quang Ngai region, stabilizing the border areas.
 *   **1804:** Emperor Gia Long officially established the national title "Viet Nam" (after the Qing dynasty rejected "Nam Viet"). He also ordered the casting of seals for the six ministries and promulgated the communal land allocation system.
 *   **1804:** Construction of the **Cung Thanh** (Palace City) began behind the Thai Hoa Palace, serving as the private residence for the Emperor and the royal family (renamed Purple Forbidden City in 1822).
+*   **1804:** The administrative center of An Quang was moved to Quynh Lau (Quang Yen). Tuong Long Tower was dismantled to provide bricks for the construction of Hai Duong Citadel.
 *   **1805:** Emperor Gia Long changed Phung Thien Prefecture to Hoai Duc Prefecture.
 *   **1805:** Emperor Gia Long ordered the construction of the Hanoi Citadel (Vauban style) and the Hanoi Flag Tower (Cot Co), reinforcing the administrative center of Northern Vietnam.
 *   **May 1805:** Construction of the **Hue Citadel** (Kinh thành Huế) began, a massive fortification project combining Eastern geomancy and Western Vauban military architecture.
@@ -582,6 +585,7 @@
 *   **1821 - 1827:** The peasant uprising led by Phan Ba Vanh in the northern coastal plains.
 *   **1821:** The **National History Office** (Quoc Su Quan) was established to compile the national history and veritable records of the dynasty.
 *   **1822:** Emperor Minh Mang established the Han Lam Vien (Imperial Academy), organized the first metropolitan examination (thi Hoi), and changed Quang Duc garrison to Thua Thien Prefecture.
+*   **1822:** Several towns were renamed: Son Nam Thuong became Son Nam, Son Nam Ha became Nam Dinh, An Quang became Quang Yen, and Bac Giang became Bac Ninh.
 *   **1822:** Emperor Minh Mang renamed the Palace City to **Tu Cam Thanh** (Purple Forbidden City).
 *   **Aug. 29, 1822:** John Crawfurd, an envoy of the British Governor-General of India, visited Saigon and had an audience with Governor-General Le Van Duyet. Le Van Duyet expressed openness to international trade but adhered to the court's protocol regarding diplomatic correspondence. Notably, he refused gifts from the British envoy to maintain impartiality in state affairs.
 *   **1823:** Emperor Minh Mang established the Ty Buu chinh (Postal Service) to handle the transmission of official documents.
@@ -612,6 +616,7 @@
 *   **1834:** The Vietnamese army, commanded by Truong Minh Giang and Nguyen Xuan, defeated the Siamese forces at the Co Ho River and Thuan Cang, recapturing Ha Tien, Chau Doc, and Nam Vang (Phnom Penh), successfully ending the war. Emperor Minh Mang ordered the minting of "Minh Mang Phi Long" silver coins.
 *   **1833 - 1843:** The peasant uprising led by Ba Nhan and Tien Bot in the northern midlands.
 *   **1835:** Following the suppression of the Le Van Khoi revolt, Emperor Minh Mang ordered the desecration of Le Van Duyet's tomb. The grave was leveled, a stone stele inscribed with "Here lies the eunuch who abused power" was erected, and the tomb was bound with iron chains.
+*   **1835:** The Cuu Yen River was excavated in Hung Yen to divert Red River floods (it was later filled in 1842 due to causing floods in Khoai Chau).
 *   **1834:** Emperor Minh Mang established the Co mat vien (Privy Council).
 *   **Mar. 1835:** The uprising leader Nong Van Van was killed at Tham Bat mountain (Tuyen Quang), ending the rebellion in the northern border region.
 *   **1835:** Emperor Minh Mang performed the "Om Goi" (Embracing Knees) ceremony for the first time to honor victorious generals (Pham Van Dien, Ta Quang Cu, Le Van Duc) upon their return from the Northern campaign.
@@ -628,6 +633,7 @@
 *   **Jun. 1839:** Emperor Minh Mang ordered the implementation of the **"Quan dien"** (Equal-field) land reform in Binh Dinh province, redistributing communal land to the people.
 *   **Jan. 20, 1841:** Emperor Minh Mang passed away.
 *   **Feb. 11, 1841:** Emperor Thieu Tri ascended the throne at the Thai Hoa Palace.
+*   **1841:** Established Dien Bien Prefecture (Hung Hoa) by separating Ninh Bien, Tuan Giao, and Lai Chau prefectures.
 *   **1841 - 1842:** The uprising of the Khmer people led by Lam Sam in Lac Hoa, Tra Vinh.
 *   **1841 - 1842:** Uprisings in the Ha Am - Ha Duong region (An Giang, Ha Tien).
 *   **1841:** Emperor Thieu Tri issued a decree restoring the titles and honor of Le Van Duyet, ordering the removal of the humiliating stone stele and chains at his tomb.
@@ -724,6 +730,7 @@
 *   **Feb. 23, 1886:** The Hue court and France exchanged the ratified Treaty of Giap Than (Patenôtre Treaty) and the Mining Treaty in Hue.
 *   **Mar. 1886:** Emperor Dong Khanh established the **Order of the Dragon of Annam** (Dai Nam Long Tinh Vien) to reward civil and military officials.
 *   **Apr. 1886:** The court began minting "Dong Khanh Thong Bao" coins (10 zinc coins equal to 1 copper coin).
+*   **1886 - 1888:** The *Descriptive Geography of the Emperor Dong Khanh* (Dong Khanh Dia Du Chi) was compiled by the National History Office, detailing the geography, customs, and products of northern provinces.
 *   **May 1886:** Emperor Dong Khanh personally led a military campaign ("Imperial Inspection") to Quang Binh to pacify the region and suppress the Can Vuong movement.
 *   **1885 - 1896:** The Huong Khe Uprising, led by Phan Dinh Phung and Cao Thang, took place, marking the peak of the Can Vuong movement.
 *   **1886 - 1887:** The Ba Dinh Uprising (Thanh Hoa), led by Pham Banh and Dinh Cong Trang, took place.

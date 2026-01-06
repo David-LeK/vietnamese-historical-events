@@ -106,6 +106,7 @@
 *   **01/1044:** Lý Thái Tông thân chinh đánh Champa, chém được vua Champa là Sạ Đẩu tại trận.
 *   **1049:** Vua Lý Thái Tông cho xây dựng chùa Diên Hựu (chùa Một Cột).
 *   **1054:** Lý Thái Tông mất, Lý Nhật Tôn lên ngôi (Lý Thánh Tông), đổi quốc hiệu từ Đại Cồ Việt thành Đại Việt.
+*   **1057 (Năm Long Thụy Thái Bình thứ 4):** Tháp Tường Long được xây dựng tại Đồ Sơn (Hải Phòng), được coi là danh thắng bậc nhất xứ An Bang xưa.
 *   **1059:** Quân nhà Lý tiến sang đất Tống (Khâm Châu) để diễu võ dương oai.
 *   **1059:** Vua Lý Thánh Tông ra lệnh cho các quan vào chầu phải đội mũ, đi hia. Đây là quy định chính thức đầu tiên về triều phục.
 *   **1069:** Lý Thánh Tông thân chinh đánh Champa, bắt được vua Chế Củ. Champa phải cắt 3 châu Bố Chính, Địa Lý, Ma Linh để chuộc tội.
@@ -157,6 +158,7 @@
 *   **17/01/1258:** Trận Bình Lệ Nguyên. Vua Trần Thái Tông trực tiếp chỉ huy quân đội chống lại cuộc xâm lược của Mông Cổ do Ngột Lương Hợp Thai chỉ huy.
 *   **29/01/1258:** Quân Trần phản công, giành thắng lợi quyết định ở Đông Bộ Đầu, giải phóng Thăng Long. Cuộc kháng chiến chống Mông Cổ lần thứ nhất kết thúc thắng lợi.
 *   **03/1258:** Trần Thái Tông nhường ngôi cho con là Trần Hoảng (Trần Thánh Tông).
+*   **1262 (Năm Thiệu Long thứ 5):** Nhà Trần đổi hương Tức Mặc làm phủ Thiên Trường, dựng hành cung Trùng Quang và tháp Phổ Minh (Nam Định).
 *   **1267:** Nhà Nguyên đưa ra "sáu việc" yêu sách đối với Đại Việt, bao gồm việc vua Trần phải sang chầu và đặt quan cai trị.
 *   **1272:** Lê Văn Hưu hoàn thành bộ *Đại Việt sử ký*, bộ quốc sử đầu tiên của Việt Nam.
 *   **24/10/1278:** Trần Thánh Tông nhường ngôi cho Thái tử Trần Khâm (sau là Trần Nhân Tông).
@@ -546,6 +548,7 @@
 *   **1803 - 1808:** Tả quân Lê Văn Duyệt được cử đi đánh dẹp cuộc nổi dậy của "Mọi Thạch Bích" (đồng bào dân tộc thiểu số) ở vùng Quảng Ngãi, ổn định biên giới.
 *   **1804:** Vua Gia Long chính thức đặt quốc hiệu là Việt Nam (sau khi nhà Thanh không chấp thuận tên Nam Việt). Vua cũng cho đúc ấn của 6 bộ và ban hành phép quân điền (chia ruộng).
 *   **1804:** Vua Gia Long cho xây dựng **Cung Thành** (nơi ở của vua và hoàng gia) ở phía sau điện Thái Hòa, đến năm 1822 đổi tên là Tử Cấm Thành.
+*   **1804 (Năm Gia Long thứ 3):** Triều Nguyễn dời trấn sở An Quảng về xã Quỳnh Lâu (Quảng Yên); phá tháp Tường Long lấy gạch đá xây thành Hải Dương.
 *   **1805:** Vua Gia Long cho đổi phủ Phụng Thiên thành phủ Hoài Đức.
 *   **1805:** Vua Gia Long ra lệnh xây dựng lại Thành Hà Nội theo kiểu Vauban và xây dựng Cột cờ Hà Nội, củng cố trung tâm hành chính Bắc Thành.
 *   **05/1805:** Bắt đầu xây dựng **Kinh thành Huế**, công trình kiến trúc quân sự quy mô lớn kết hợp giữa phong thủy phương Đông và kiểu đồn lũy Vauban phương Tây.
@@ -582,6 +585,7 @@
 *   **1821 - 1827:** Cuộc nổi dậy của nông dân do Phan Bá Vành lãnh đạo ở vùng đồng bằng ven biển Bắc Bộ.
 *   **1821:** Vua Minh Mạng cho lập **Quốc Sử Quán**, chuyên trách việc biên soạn lịch sử của triều đại và đất nước.
 *   **1822:** Vua Minh Mạng cho lập Hàn lâm viện, tổ chức kỳ thi Hội đầu tiên và đổi dinh Quảng Đức làm phủ Thừa Thiên.
+*   **1822 (Năm Minh Mạng thứ 3):** Đổi tên các trấn: Sơn Nam Thượng thành Sơn Nam, Sơn Nam Hạ thành Nam Định, An Quảng thành Quảng Yên, Bắc Giang thành Bắc Ninh.
 *   **1822:** Vua Minh Mạng đổi tên Cung Thành thành **Tử Cấm Thành**.
 *   **29/08/1822:** John Crawfurd, sứ giả của Toàn quyền Anh tại Ấn Độ, đến Sài Gòn và yết kiến Tổng trấn Lê Văn Duyệt. Lê Văn Duyệt tỏ thái độ cởi mở với việc giao thương quốc tế nhưng vẫn giữ nguyên tắc ngoại giao của triều đình. Đặc biệt, ông đã từ chối nhận quà biếu của phái đoàn Anh để giữ sự công tâm trong việc nước.
 *   **1823:** Vua Minh Mạng cho lập Ty Bưu chính để chuyên việc truyền đưa công văn.
@@ -612,6 +616,7 @@
 *   **1834:** Quân đội triều đình do Trương Minh Giảng và Nguyễn Xuân chỉ huy đánh bại quân Xiêm tại sông Cổ Hỗ và Thuận Cảng, thu hồi Hà Tiên, Châu Đốc và Nam Vang. Vua Minh Mạng cho đúc tiền bạc "Minh Mạng Phi Long".
 *   **1833 - 1843:** Cuộc nổi dậy của nông dân do Ba Nhàn và Tiền Bột lãnh đạo ở vùng trung du Bắc Bộ.
 *   **1835:** Sau khi dẹp xong loạn Lê Văn Khôi, vua Minh Mạng ra chỉ dụ kết tội Lê Văn Duyệt, sai san phẳng mộ, dựng bia đá khắc 8 chữ "Quyền yêm Lê Văn Duyệt phục pháp xứ" (Hoạn quan lộng quyền Lê Văn Duyệt chịu tội chết) và xiềng xích lại.
+*   **1835 (Năm Minh Mạng thứ 16):** Đào sông Cửu Yên (Hưng Yên) để giảm thế nước sông Hồng (sau bị lấp bỏ vào năm 1842 do gây ngập lụt).
 *   **1834:** Vua Minh Mạng cho thành lập Cơ mật viện.
 *   **03/1835:** Thủ lĩnh Nông Văn Vân bị tiêu diệt tại núi Thẩm Bát (Tuyên Quang), chấm dứt cuộc nổi dậy ở vùng biên giới phía Bắc.
 *   **1835:** Vua Minh Mạng thực hiện lễ "bão tất" (ôm gối) để vinh danh các tướng lĩnh thắng trận trở về (Phạm Văn Điển, Tạ Quang Cự, Lê Văn Đức), tỏ ý thân yêu như tình cha con.
@@ -628,6 +633,7 @@
 *   **06/1839:** Vua Minh Mạng cho thực hiện phép **"Quân điền"** tại tỉnh Bình Định, chia lại ruộng đất công cho dân.
 *   **20/01/1841:** Vua Minh Mạng băng hà.
 *   **11/02/1841:** Vua Thiệu Trị chính thức lên ngôi Hoàng đế tại điện Thái Hòa.
+*   **1841 (Năm Thiệu Trị thứ 1):** Tách các châu Ninh Biên, Tuân Giáo và Lai Châu thành lập phủ Điện Biên (thuộc Hưng Hóa).
 *   **1841 - 1842:** Cuộc khởi nghĩa của người Khơme do Lâm Sâm lãnh đạo ở Lạc Hóa, Trà Vinh.
 *   **1841 - 1842:** Các cuộc nổi dậy ở vùng Hà Âm - Hà Dương (An Giang, Hà Tiên).
 *   **1841:** Vua Thiệu Trị ban chiếu minh oan, phục hồi quan tước cho Lê Văn Duyệt, sai dỡ bỏ bia đá và xiềng xích tại mộ phần của ông.
@@ -724,6 +730,7 @@
 *   **23/02/1886:** Triều đình Huế và Pháp trao đổi bản Hòa ước Giáp Thân (Patenôtre) và Thương ước đã được phê chuẩn tại Huế.
 *   **03/1886:** Vua Đồng Khánh thành lập **Viện Long Tinh** (Đại Nam Long tinh) để khen thưởng cho các quan văn võ.
 *   **04/1886:** Triều đình cho đúc tiền "Đồng Khánh thông bảo" (1 đồng ăn 10 đồng kẽm).
+*   **1886 - 1888:** Quốc sử quán triều Nguyễn biên soạn bộ *Đồng Khánh địa dư chí*, ghi chép chi tiết về địa lý, phong tục, sản vật các tỉnh phía Bắc.
 *   **05/1886:** Vua Đồng Khánh ngự giá thân chinh ra Quảng Bình để phủ dụ dân chúng và dẹp loạn.
 *   **1885 - 1896:** Diễn ra cuộc khởi nghĩa Hương Khê do Phan Đình Phùng và Cao Thắng lãnh đạo, là đỉnh cao của phong trào Cần Vương.
 *   **1886 - 1887:** Diễn ra cuộc khởi nghĩa Ba Đình (Thanh Hóa) do Phạm Bành và Đinh Công Tráng lãnh đạo.
