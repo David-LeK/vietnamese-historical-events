@@ -51,6 +51,7 @@
 *   **544:** Lý Bí xưng là Nam Việt Đế (Lý Nam Đế), lập ra nước Vạn Xuân, đặt niên hiệu Thiên Đức.
 *   **548:** Lý Nam Đế mất.
 *   **548 - 571:** Triệu Quang Phục (Triệu Việt Vương) lãnh đạo cuộc kháng chiến chống quân Lương thắng lợi, tiếp tục giữ nền độc lập cho đến khi bị Lý Phật Tử đánh bại.
+*   **03/580:** Thiền sư Tỳ Ni Đa Lưu Chi (Vinitaruci) đến Giao Châu (Việt Nam), cư trú tại chùa Pháp Vân và dịch kinh *Tổng trì*, sáng lập thiền phái Tỳ Ni Đa Lưu Chi.
 *   **602:** Nhà Tùy sai Lưu Phương đem quân xâm lược, Lý Phật Tử (Hậu Lý Nam Đế) đầu hàng, nước Vạn Xuân kết thúc.
 *   **605:** Tướng Tùy là Lưu Phương đem quân đánh Lâm Ấp (Champa), cướp phá kinh thành.
 *   **622:** Nhà Đường đặt Giao Châu đại tổng quản phủ, quản lĩnh 10 châu.
@@ -60,6 +61,7 @@
 *   **767:** Quân Srivijaya (Chà Và) và Côn Lôn xâm phạm Giao Châu, bị Kinh lược sứ Trương Bá Nghi đánh tan.
 *   **766 - 791:** Cuộc khởi nghĩa của Phùng Hưng (Bố Cái Đại Vương).
 *   **819 - 820:** Cuộc khởi nghĩa của Dương Thanh.
+*   **09/820:** Thiền sư Vô Ngôn Thông đến chùa Kiến Sơ, sáng lập thiền phái Vô Ngôn Thông.
 *   **822:** Đô hộ Lý Nguyên Hỷ dời phủ trị đến khu vực sông Tô Lịch và cho xây dựng thành Đại La. Sự kiện này gắn liền với các truyền thuyết về thần sông Tô Lịch được ghi chép trong *Việt Điện U Linh Tập*.
 *   **866:** Cao Biền đánh bại Nam Chiếu, nhà Đường đổi An Nam đô hộ phủ làm Tĩnh Hải quân. Cao Biền cho xây đắp lại thành Đại La.
 *   **868:** Cao Biền tổ chức đào kênh Thiên Uy để thuận tiện cho việc vận chuyển đường thủy.
@@ -86,7 +88,7 @@
 *   **968:** Đinh Bộ Lĩnh dẹp yên Loạn 12 sứ quân, thống nhất đất nước, lên ngôi Hoàng đế (Đinh Tiên Hoàng), đặt quốc hiệu là Đại Cồ Việt, định đô ở Hoa Lư (Ninh Bình).
 *   **970:** Đinh Tiên Hoàng đặt niên hiệu là Thái Bình.
 *   **970:** Đinh Tiên Hoàng lập 5 hoàng hậu (Đan Gia, Trinh Minh, Kiểu Quốc, Cổ Quốc, Cao Ông), thiết lập quy chế hậu cung.
-*   **971:** Đinh Tiên Hoàng bắt đầu quy định cấp bậc cho quan lại văn, võ và tăng đạo.
+*   **971:** Đinh Tiên Hoàng bắt đầu quy định cấp bậc cho quan lại văn, võ và tăng đạo. Ngô Chân Lưu được phong làm Khuông Việt Đại sư (chức Tăng thống).
 *   **974:** Đinh Tiên Hoàng chia cả nước làm 10 đạo.
 *   **10/979:** Đỗ Thích ám sát vua Đinh Tiên Hoàng và Nam Việt vương Đinh Liễn. Vệ vương Đinh Toàn (6 tuổi) lên ngôi. Lê Hoàn làm nhiếp chính.
 *   **07/980:** Trước nguy cơ xâm lược của nhà Tống, Lê Hoàn được Thái hậu Dương Vân Nga và quân sĩ tôn lên làm vua, lập ra nhà Tiền Lê.
@@ -96,18 +98,22 @@
 *   **983:** Lê Đại Hành ra lệnh đào kênh Bà Hòa (Thanh Hóa) và kênh Đa Cái (Nghệ An) để thuận tiện cho việc vận chuyển quân lương và giao thông đường thủy.
 *   **02/984:** Triều Tiền Lê cho đúc tiền Thiên Phúc.
 *   **987 (Mùa Xuân):** Lê Đại Hành lần đầu tiên cử hành lễ cày tịch điền ở Đọi Sơn để khuyến khích nông nghiệp.
+*   **987:** Sứ giả nhà Tống là Lý Giác sang nước ta. Thiền sư Đỗ Pháp Thuận giả làm người chèo đò đón sứ, xướng họa thơ văn, khiến Lý Giác nể phục khí tiết nước Nam.
 *   **1005:** Lê Đại Hành mất. Lê Long Đĩnh giết vua Lê Trung Tông (Lê Long Việt) để cướp ngôi.
 
 ### **Thời kỳ Đại Việt (Triều Lý, 1009 - 1225)**
 
 *   **21/11/1009:** Lê Long Đĩnh (Lê Ngọa Triều) mất. Lý Công Uẩn được tôn lên làm vua (Lý Thái Tổ), sáng lập ra vương triều Lý.
+*   **1009:** Thiền sư Vạn Hạnh đưa ra các sấm ngữ báo hiệu nhà Lê suy vong và nhà Lý hưng thịnh, tích cực ủng hộ Lý Công Uẩn lên ngôi.
 *   **07/1010:** Lý Thái Tổ ra "Chiếu dời đô", chuyển kinh đô từ Hoa Lư về thành Đại La và đổi tên thành Thăng Long. Đổi Hoa Lư làm phủ Trường Yên.
 *   **12/1010:** Lý Thái Tổ tiến hành cải cách hành chính, chia cả nước làm 24 lộ.
 *   **1013:** Lý Thái Tổ định ra các hạng thuế trong cả nước, bao gồm thuế bãi dâu, đánh dấu sự khuyến khích phát triển nghề trồng dâu nuôi tằm và tự chủ tài chính.
 *   **06/1018:** Triều đình cử sứ sang nhà Tống xin bộ kinh Tam Tạng.
 *   **12/1020:** Quân Lý dưới sự chỉ huy của Thái tử Lý Phật Mã đánh bại quân Chiêm Thành ở trại Bố Chính (Quảng Bình).
+*   **15/05/1025:** Thiền sư Vạn Hạnh, cố vấn quan trọng của vua Lý Thái Tổ, viên tịch.
 *   **1028:** Lý Thái Tổ mất, Lý Phật Mã lên ngôi (Lý Thái Tông). Xảy ra "Loạn Tam vương" nhưng bị dẹp yên.
 *   **1029:** Vua Lý Thái Tông dẹp loạn ở giáp Đãn Nãi (Thanh Hóa) và cho đào kênh Đãn Nãi.
+*   **04/1034:** Hai thiền sư Nghiêm Bảo Tính và Phạm Minh Tâm tự thiêu tại triều. Vua Lý Thái Tông đổi niên hiệu thành Thông Thụy.
 *   **04/1036:** Vua Lý Thái Tông đến Hoan Châu, đặt hành dinh và đổi tên châu này thành châu **Nghệ An**.
 *   **1038:** Vua Lý Thái Tông đích thân cày ruộng tịch điền ở Bố Hải Khẩu, tuyên bố coi trọng nông nghiệp để "thiên hạ noi theo".
 *   **1039:** Hoàng tử Lý Nhật Quang (Lý Hoảng) được cử vào quản lý châu Nghệ An, thực hiện việc thu thuế và ổn định vùng biên viễn phía Nam.
@@ -121,7 +127,7 @@
 *   **1057:** Vua Lý Thánh Tông cho xây dựng **Tháp Báo Thiên** (Đại Thắng Tư Thiên Bảo Tháp) tại Thăng Long. Tháp cao 12 tầng và được coi là một trong "An Nam tứ đại khí".
 *   **1059:** Quân nhà Lý tiến sang đất Tống (Khâm Châu) để diễu võ dương oai.
 *   **1059:** Vua Lý Thánh Tông ra lệnh cho các quan vào chầu phải đội mũ, đi hia. Đây là quy định chính thức đầu tiên về triều phục.
-*   **1069:** Lý Thánh Tông thân chinh đánh Champa, bắt được vua Chế Củ. Champa phải cắt 3 châu Bố Chính, Địa Lý, Ma Linh để chuộc tội.
+*   **1069:** Lý Thánh Tông thân chinh đánh Champa, bắt được vua Chế Củ. Champa phải cắt 3 châu Bố Chính, Địa Lý, Ma Linh để chuộc tội. Thiền sư Thảo Đường bị bắt trong chiến dịch này, sau được phong Quốc sư và sáng lập thiền phái Thảo Đường.
 *   **1070:** Xây dựng Văn Miếu ở Thăng Long để thờ Khổng Tử.
 *   **12/1072:** Lý Thánh Tông mất, Lý Càn Đức (Lý Nhân Tông) lên ngôi do được truyền ngôi theo di chiếu của vua cha Lý Thánh Tông (lúc mới 7 tuổi).
 *   **02/1075:** Mở khoa thi đầu tiên trong lịch sử (Minh kinh bác học và Nho học tam trường). Lê Văn Thịnh đỗ đầu.
@@ -134,16 +140,20 @@
 *   **1084:** Lê Văn Thịnh sang nhà Tống bàn việc cương giới, đòi lại được 6 huyện và 3 động.
 *   **1086:** Vua Lý Nhân Tông cho phép mở khoa thi đầu tiên để tuyển chọn nhân tài.
 *   **1089:** Vua Lý Nhân Tông định rõ các chức quan văn võ, phân định phẩm cấp quan lại trong triều đình.
+*   **1090:** Thiền sư Viên Chiếu, tác giả sách *Tham đồ hiển quyết*, viên tịch.
+*   **30/11/1096:** Thiền sư Mãn Giác viên tịch, để lại bài kệ nổi tiếng "Cáo tật thị chúng" (Xuân đi trăm hoa rụng...).
 *   **Mùa đông 1101:** Thái úy Lý Thường Kiệt, dù đã cao tuổi, vẫn đích thân cầm quân đi đánh dẹp cuộc nổi dậy của Lý Giác ở Diễn Châu.
 *   **1104:** Lý Thường Kiệt đánh bại quân Champa, buộc vua Chế Ma Na phải trả lại 3 châu đã chiếm trước đó.
 *   **1108:** Triều đình cho đắp đê Cơ Xá ở Thăng Long để phòng chống lũ lụt sông Hồng.
 *   **1111:** Danh xưng **Thanh Hóa** lần đầu tiên xuất hiện trong sử sách khi phủ Thanh Hóa dâng cây cau 9 gốc.
+*   **01/06/1113:** Ni sư Diệu Nhân, nữ thiền sư nổi tiếng thời Lý, viên tịch.
 *   **1116:** Thiền sư Từ Đạo Hạnh viên tịch. Tương truyền ông đầu thai thành vua Lý Thần Tông.
 *   **15/01/1128:** Lý Nhân Tông mất, Lý Dương Hoán (Lý Thần Tông) lên ngôi do được truyền ngôi theo di chiếu của vua Lý Nhân Tông (Lý Nhân Tông không có con nên nhận Lý Dương Hoán làm con nuôi và truyền ngôi).
 *   **1136:** Thiền sư Nguyễn Minh Không chữa khỏi bệnh lạ (hóa hổ) cho vua Lý Thần Tông, sau được phong làm Quốc sư.
 *   **11/1138:** Lý Thần Tông mất, Lý Thiên Tộ (Lý Anh Tông) lên ngôi do được truyền ngôi theo di chiếu của vua cha Lý Thần Tông (lúc mới 3 tuổi).
 *   **1141:** Quốc sư Nguyễn Minh Không viên tịch.
 *   **02/1149:** Lập trang Vân Đồn (Quảng Ninh) để làm nơi cho thuyền buôn các nước vào buôn bán, chính thức mở ra thương cảng quốc tế đầu tiên.
+*   **21/04/1151:** Quốc sư Viên Thông viên tịch.
 *   **1150:** Xảy ra vụ biến loạn Đỗ Anh Vũ trong triều đình.
 *   **1164:** Nhà Tống chính thức phong vua Lý Anh Tông làm **An Nam Quốc Vương**; tên nước "An Nam" bắt đầu được dùng làm quốc hiệu trong bang giao từ đây.
 *   **14/08/1175:** Lý Anh Tông mất, Lý Long Cán lên ngôi (Lý Cao Tông) lúc mới 2 tuổi.

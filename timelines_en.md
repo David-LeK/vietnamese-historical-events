@@ -51,6 +51,7 @@
 *   **544:** Ly Bi proclaimed himself the Southern Viet Emperor (Ly Nam De), founded the Van Xuan kingdom, and established the era name Thien Duc.
 *   **548:** Ly Nam De passed away.
 *   **548 - 571:** Trieu Quang Phuc (King Trieu Viet) led the resistance against the Liang army to victory, maintaining independence until he was defeated by Ly Phat Tu.
+*   **Mar. 580:** Zen Master Vinitaruci arrived in Giao Chau (Vietnam), residing at Phap Van Pagoda and establishing the Vinitaruci Zen sect.
 *   **602:** The Sui dynasty sent troops commanded by Liu Fang to invade; Ly Phat Tu (Later Ly Nam De) surrendered, and the Van Xuan kingdom ended.
 *   **605:** Sui general Liu Fang attacked Champa (Lam Ap), sacking the capital.
 *   **622:** The Tang dynasty established the Giao Chau Grand Area Command (Dai Tong Quan Phu) to administer 10 prefectures.
@@ -60,6 +61,7 @@
 *   **767:** Srivijaya and Kunlun forces raided Giao Chau and were defeated by Military Commissioner Zhang Boyi.
 *   **766 - 791:** The uprising of Phung Hung (Bo Cai Dai Vuong).
 *   **819 - 820:** The uprising of Duong Thanh.
+*   **Sep. 820:** Zen Master Vo Ngon Thong arrived at Kien So Pagoda, establishing the Vo Ngon Thong Zen sect.
 *   **822:** Protector General Li Yuanxi moved the administrative seat to the To Lich River area and built the Dai La Citadel. This event is closely tied to the legends of the To Lich River God recorded in *Viet Dien U Linh Tap*.
 *   **866:** After defeating Nanzhao, the Tang dynasty upgraded the An Nam Protectorate to the Jinghai Military Commission (Tinh Hai quan). Cao Bien rebuilt the Dai La Citadel.
 *   **868:** Cao Bien organized the digging of the Thien Oai Canal to facilitate water transport.
@@ -86,7 +88,7 @@
 *   **968:** Dinh Bo Linh pacified the 12 Warlords, unified the country, ascended to the throne as Emperor (Dinh Tien Hoang), named the country Dai Co Viet, and established the capital at Hoa Lu (Ninh Binh).
 *   **970:** Dinh Tien Hoang established the era name Thai Binh.
 *   **970:** Dinh Tien Hoang established five queens (Dan Gia, Trinh Minh, Kieu Quoc, Co Quoc, and Cao Ong), setting a precedent for the royal harem system.
-*   **971:** Dinh Tien Hoang began to regulate the ranks for civil, military, and monastic officials.
+*   **971:** Dinh Tien Hoang began to regulate the ranks for civil, military, and monastic officials. Ngo Chan Luu was appointed as the first Sangha Overseer (Tang thong) with the title Grand Master Khuong Viet.
 *   **974:** Dinh Tien Hoang divided the country into 10 circuits (dao).
 *   **Oct. 979:** Do Thich assassinated Emperor Dinh Tien Hoang and Prince Nam Viet Vuong Dinh Lien. Prince Ve Vuong Dinh Toan (6 years old) ascended the throne. Le Hoan acted as regent.
 *   **Jul. 980:** Facing the threat of invasion from the Song dynasty, Le Hoan was enthroned as king by Empress Dowager Duong Van Nga and the army, establishing the Early Le dynasty.
@@ -96,18 +98,22 @@
 *   **983:** King Le Dai Hanh ordered the digging of the Ba Hoa Canal (Thanh Hoa) and Da Cai Canal (Nghe An) to facilitate military and water transport.
 *   **Feb. 984:** The Early Le court minted Thien Phuc coins.
 *   **987 (Spring):** Le Dai Hanh performed the Tich Dien plowing ceremony for the first time at Doi Son to encourage agriculture.
+*   **987:** Song envoy Li Jue visited Dai Co Viet. Zen Master Do Phap Thuan, disguised as a ferryman, engaged in a famous poetry exchange with the envoy, demonstrating the nation's literary culture.
 *   **1005:** Le Dai Hanh passed away. After internal strife, Le Long Dinh killed his brother Le Long Viet to seize the throne.
 
 ### **Dai Viet Period (Ly Dynasty, 1009 - 1225)**
 
 *   **Nov. 21, 1009:** Le Long Dinh (Le Ngoa Trieu) passed away. Ly Cong Uan was enthroned as king (Ly Thai To), founding the Ly dynasty.
+*   **1009:** Before Ly Cong Uan's ascension, Zen Master Van Hanh issued prophecies regarding the fall of the Le dynasty and the rise of the Ly dynasty.
 *   **Jul. 1010:** Ly Thai To issued the "Royal Edict on the Transfer of the Capital," moving the capital from Hoa Lu to Dai La Citadel and renaming it Thang Long. Hoa Lu was renamed Truong Yen prefecture.
 *   **Dec. 1010:** Ly Thai To carried out administrative reforms, dividing the country into 24 routes (lo).
 *   **1013:** Ly Thai To established a taxation system for the whole country, including taxes on mulberry fields, promoting sericulture and financial autonomy.
 *   **Jun. 1018:** The court sent an envoy to the Song dynasty to request the Tripitaka scriptures.
 *   **Dec. 1020:** The Ly army, under the command of Crown Prince Ly Phat Ma, defeated the Champa army at the Bo Chinh garrison (Quang Binh).
+*   **May 15, 1025:** Zen Master Van Hanh, a key advisor to King Ly Thai To, passed away.
 *   **1028:** Ly Thai To passed away, Ly Phat Ma ascended the throne (Ly Thai Tong). The "Rebellion of the Three Princes" occurred but was suppressed.
 *   **1029:** King Ly Thai Tong suppressed a rebellion in the Dan Nai region (Thanh Hoa) and ordered the digging of the Dan Nai canal.
+*   **Apr. 1034:** Zen Masters Nghiem Bao Tinh and Pham Minh Tam self-immolated at the court. King Ly Thai Tong changed the era name to Thong Thuy.
 *   **Apr. 1036:** King Ly Thai Tong established a hanh dinh (temporary palace) in Hoan Chau and renamed the chau to **Nghe An**.
 *   **1038:** King Ly Thai Tong personally plowed the Tich Dien field at Bo Hai Khau, declaring the importance of agriculture for "the people to follow."
 *   **1039:** Prince Ly Nhat Quang (Ly Hoang) was appointed to administer Nghe An, where he successfully managed tax collection and stabilized the southern frontier.
@@ -121,7 +127,7 @@
 *   **1057:** Construction of the **Bao Thien Tower** (Dai Thang Tu Thien Bao Thap) began in Thang Long. Standing 12 stories high, it was considered one of the "Four Great Treasures of An Nam."
 *   **1059:** The Ly army attacked the Song dynasty's Qinzhou (Kham Chau) to demonstrate military strength.
 *   **1059:** King Ly Thanh Tong mandated that officials must wear hats and boots when attending court, establishing a formal dress code for the first time.
-*   **1069:** Ly Thanh Tong personally led a campaign against Champa, capturing King Che Cu (Rudravarman III). Champa had to cede the three provinces of Bo Chinh, Dia Ly, and Ma Linh as ransom.
+*   **1069:** Ly Thanh Tong personally led a campaign against Champa, capturing King Che Cu (Rudravarman III). Champa had to cede the three provinces of Bo Chinh, Dia Ly, and Ma Linh as ransom. Zen Master Thao Duong was captured during this campaign, later appointed National Preceptor and established the Thao Duong Zen sect.
 *   **1070:** The Temple of Literature was built in Thang Long to worship Confucius.
 *   **Dec. 1072:** Ly Thanh Tong died, and Ly Can Duc (Ly Nhan Tong) ascended the throne, inheriting it according to the will of his father, Emperor Ly Thanh Tong (at the age of only 7).
 *   **Feb. 1075:** The first civil service examination in history was held (Minh kinh bac hoc and Nho hoc tam truong). Le Van Thinh ranked first.
@@ -134,16 +140,20 @@
 *   **1084:** Le Van Thinh negotiated with the Song dynasty to define the border, reclaiming 6 districts and 3 grottoes.
 *   **1086:** King Ly Nhan Tong authorized the first imperial examination to select talented individuals.
 *   **1089:** King Ly Nhan Tong established a defined hierarchy for civil and military officials, structuring the administrative system.
+*   **1090:** Zen Master Vien Chieu, author of the work *Tham Do Hien Quyet*, passed away.
+*   **Nov. 30, 1096:** Zen Master Man Giac passed away, leaving behind the famous poem "Cao tat thi chung".
 *   **Winter 1101:** General Ly Thuong Kiet, despite his old age, led troops to suppress the rebellion of Ly Giac in Dien Chau.
 *   **1104:** Ly Thuong Kiet defeated the Champa army, forcing King Che Ma Na (Jaya Indravarman II) to return the three provinces he had previously occupied.
 *   **1108:** The court ordered the construction of the Co Xa dike in Thang Long to prevent floods from the Red River.
 *   **1111:** The name **Thanh Hoa** appeared for the first time in historical records when the prefecture of Thanh Hoa offered a nine-trunked areca tree.
+*   **Jun. 1, 1113:** Nun Dieu Nhan, the earliest recorded female Zen Master of the Ly dynasty, passed away.
 *   **1116:** The famous monk Tu Dao Hanh passed away. According to legend and historical accounts, he was reincarnated as King Ly Than Tong.
 *   **Jan. 15, 1128:** Ly Nhan Tong died, and Ly Duong Hoan (Ly Than Tong) ascended the throne, inheriting it according to the will of Emperor Ly Nhan Tong (Ly Nhan Tong had no children, so he adopted Ly Duong Hoan and passed the throne to him).
 *   **1136:** Zen Master Nguyen Minh Khong successfully cured King Ly Than Tong of a strange illness (often described in legends as "tiger transformation"), subsequently being appointed National Preceptor.
 *   **Nov. 1138:** Ly Than Tong died, and Ly Thien To (Ly Anh Tong) ascended the throne, inheriting it according to the will of his father, Emperor Ly Than Tong (at the age of only 3 years old).
 *   **1141:** National Preceptor Nguyen Minh Khong passed away.
 *   **Feb. 1149:** The Van Don trading post (Quang Ninh) was established as a place for merchant ships from other countries to trade, officially opening the first international trading port.
+*   **Apr. 21, 1151:** National Preceptor Vien Thong passed away.
 *   **1150:** The Do Anh Vu rebellion occurred in the royal court.
 *   **1164:** The Song dynasty officially invested King Ly Anh Tong as the **King of An Nam** (An Nam Quoc Vuong); the name "An Nam" was officially used as the national title in diplomatic relations from this point.
 *   **Aug. 14, 1175:** Ly Anh Tong passed away, Ly Long Can ascended the throne (Ly Cao Tong) at the age of 2.
