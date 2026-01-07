@@ -515,7 +515,8 @@
 *   **Mar. 1782:** Battle of That Ky River (Nga Bay, Saigon). The Tay Son army defeated Nguyen Anh's navy and Western warships, killing the French commander Manuel.
 *   **Jul. 7, 1782:** In retaliation for the death of his prominent general Pham Ngan at Tham Luong bridge, Nguyen Nhac ordered a massacre of the Chinese community in Gia Dinh (settlers and merchants), whom he accused of supporting the Nguyen. Thousands were killed, and bodies clogged the river, causing a massive disruption to trade and the economy.
 *   **1782:** In Dang Ngoai (the North), the 'Revolt of the Palace Guards' broke out. The rebellious guards further weakened the Trinh lords' court, creating favorable conditions for the later advance of the Tay Son army to the North.
-*   **Sep. 1782:** Lord Trinh Sam passed away. His young son Trinh Can succeeded him but was soon deposed by the kiêu binh (arrogant soldiers), who installed Trinh Tong (also known as Trinh Khai) as Lord (Doan Nam Vuong).
+*   **Sep. 13, 1782:** Lord Trinh Sam passed away. His young son Trinh Can succeeded him (Dien Do Vuong).
+*   **Oct. 25, 1782:** The "Revolt of the Palace Guards" (Loạn kiêu binh) reached its peak. The soldiers killed Regent Hoang Dinh Bao, deposed Trinh Can, and installed Trinh Tong as Lord (Doan Nam Vuong).
 *   **1783:** Nguyen Hue and Nguyen Lu led troops to attack; Nguyen Anh was again defeated and had to flee to Siam (Thailand) to seek aid.
 *   **Mar. 1784:** Bishop Pigneau de Béhaine (Bá Đa Lộc) represented Nguyen Anh in going to France to ask for help.
 *   **Jul. 25, 1784:** 50,000 Siamese troops (20,000 naval, 30,000 land) led by Chao Tseng and Chao Sương, along with Nguyen Anh, invaded Gia Dinh.
@@ -524,12 +525,16 @@
 *   **Jun. 1786:** Under the pretext of "supporting the Le, destroying the Trinh," Nguyen Hue commanded a large Tay Son army to advance north.
 *   **Summer 1786:** In the battle for the capture of Phu Xuan, approximately 30,000 Trinh soldiers were killed.
 *   **Jul. 21, 1786:** The Tay Son army entered Thang Long, quickly overthrowing the over 200-year rule of the Trinh lords.
-*   **1786:** Lord Trinh Tong committed suicide after being captured by the Tay Son army. Trinh Bong succeeded as Lord (An Do Vuong) but fled shortly after, marking the end of the Trinh Lords' rule.
+*   **Jun. 27, 1786:** Lord Trinh Tong committed suicide after being captured by the Tay Son army.
+*   **Jul. 17, 1786:** King Le Hien Tong passed away. Le Duy Ky (Le Chieu Thong) succeeded him.
+*   **1786:** Trinh Bong succeeded as Lord (An Do Vuong) but fled shortly after.
+*   **Dec. 8, 1786:** King Le Chieu Thong ordered the burning of the Lord's Palace (Phủ Chúa) after Trinh Bong fled, marking the physical end of the Trinh Lords' rule.
 *   **1786:** While in exile in Siam, Le Van Duyet participated in the Siamese army's battle against Burmese invaders at Sai-Nac. He employed "fire tubes" tactics to frighten the enemy's war elephants and horses, contributing to the victory.
 *   **Late 1786:** Nguyen Hue was given Princess Ngoc Han in marriage by the Le king. The Tay Son brothers divided the country to rule: Nguyen Nhac as the Central Emperor (from Quang Nam to Binh Thuan), Nguyen Hue as the Northern Pacification King (Bac Binh Vuong - governing Thuan Hoa northwards), and Nguyen Lu as the Eastern Pacification King (Dong Dinh Vuong - governing Gia Dinh).
 *   **1787:** Conflict broke out between Nguyen Nhac and Nguyen Hue. Nguyen Hue led troops to besiege Hoang De Citadel, forcing Nguyen Nhac to cede more land in Quang Nam.
 *   **Feb. 21, 1787:** A civil war broke out between the Tay Son brothers. Nguyen Hue, consolidating his power in the North and Phu Xuan, marched south to besiege his brother Nguyen Nhac at Quy Nhon. Nguyen Nhac lost approximately 40,000 troops in the conflict. Besieged and desperate, he wept from the city walls, invoking brotherly ties to ask for a truce. This internal conflict ("nồi da xáo thịt") severely weakened the dynasty.
 *   **1787:** King Le Chieu Thong abolished the Six Bureaus (Luc Phien - organs of the Trinh Lords) and restored administrative authority to the Six Ministries (Luc Bo), attempting to reform the court.
+*   **Apr. 11, 1787:** A diplomatic delegation led by Tran Cong Xan, sent by King Le Chieu Thong to negotiate with the Tay Son regarding Nghe An, was drowned at sea by Tay Son generals.
 *   **Nov. 28, 1787:** Bishop Pigneau de Béhaine (representing Nguyen Anh) signed the Treaty of Versailles with Count de Montmorin (France). Article II promised to cede the port of Hoi An and Con Lon Island to France in exchange for military support.
 *   **Early 1788:** The population in Tonkin (Dang Ngoai) began to show resentment towards the new Tay Son officials and desired a return to the old order.
 *   **Apr. 1788:** Nguyen Hue marched to Thang Long to execute Vu Van Nham for arrogance and plotting rebellion after Nham had eliminated Nguyen Huu Chinh. This consolidated Tay Son's control over the North before the Qing invasion.
@@ -540,6 +545,7 @@
 *   **Sep. 7, 1788:** Nguyen Anh's forces successfully recaptured Saigon (Gia Dinh), ending the Tay Son's control over the South and establishing a firm base for the Nguyen restoration.
 *   **Late 1788:** King Le Chieu Thong fled to China to seek aid. 290,000 Manchu Qing troops led by Sun Shiyi poured into Dai Viet, occupying Thang Long. General Nguyen Van Tuyet rode urgently from the North to Phu Xuan to report the critical situation to Nguyen Hue.
 *   **Dec. 18, 1788:** The Qing commander Sun Shiyi entered Thang Long, marking the beginning of the Qing occupation of the capital.
+*   **Nov. 22, 1788:** The Qing commander Sun Shiyi held a ceremony in Thang Long to officially invest Le Chieu Thong as the King of An Nam (using the Qing calendar date).
 *   **Dec. 22, 1788:** In Phu Xuan, Nguyen Hue ascended the throne as Emperor, taking the era name Quang Trung, and immediately led a large army on a lightning march to the north.
 *   **Jan. 28-30, 1789 (3rd-5th day of the Tet of the Year of the Rooster):** In a lightning march and attack, Emperor Quang Trung crushed the Qing army in the battles of Ha Hoi, Ngoc Hoi, and Dong Da. General Bui Thi Xuan commanded the war elephants, General Vo Van Dung led the Rear Army, and Admiral Nguyen Van Loc (Do Doc Loc) commanded the Left Army/Navy, contributing decisively to the liberation of Thang Long.
 *   **1789:** Emperor Quang Trung issued the "Edict on Encouraging Agriculture" to restore production. He also introduced the **"Tin Bai"** (Identity Card) system for the first time to manage the population and conscription, requiring citizens to carry an identification tag.
@@ -552,6 +558,7 @@
 *   **Jul. 1792:** The Nguyen navy, utilizing Western-style ships and tactics, launched a surprise attack on the Tay Son navy at **Thi Nai** port, destroying many vessels. This was a significant initial victory for the modernized Nguyen navy.
 *   **Sep. 15, 1792 (29th of the 7th lunar month):** Emperor Quang Trung suddenly passed away at the age of 40 (according to the text *Nhà Tây Sơn*). His son, Nguyen Quang Toan (10 years old), succeeded him, taking the era name Canh Thinh.
 *   **1793:** Nguyen Anh attacked Quy Nhon. Nguyen Nhac asked Phu Xuan for help. Quang Toan's army came to relieve the siege and then captured Quy Nhon Citadel. Nguyen Nhac died of indignation.
+*   **Oct. 16, 1793:** The exiled King Le Chieu Thong passed away in Beijing, China, after failing to secure Qing support to restore his throne.
 *   **Dec. 13, 1793:** Nguyen Nhac (Emperor Thai Duc) passed away, reportedly from grief and humiliation after his capital Quy Nhon was taken over by his nephew's forces from Phu Xuan.
 *   **May 1793:** Le Van Duyet, commanding the Dieu Vo regiment, captured the **Uc Son** stronghold (Phu Yen). This victory was crucial in linking the naval and land routes for the Nguyen army.
 *   **May 1794:** The Tay Son army, led by Tran Quang Dieu, besieged the Dien Khanh citadel. Inside, Prince Canh (Nguyen Anh's son) and Bishop Pigneau de Béhaine led the defense. This siege demonstrated the effectiveness of the new Vauban-style fortifications built by the Nguyen.
@@ -559,6 +566,7 @@
 *   **1795:** During the siege of Dien Khanh, Le Van Duyet and Nguyen Duc Xuyen employed a diversionary tactic to capture the **Lo Cuong** fort, a key enemy position, relieving pressure on the besieged citadel.
 *   **Feb. 1799:** Le Van Duyet commanded the attack on Sa Lung fort (Dam Thuy), using fire tactics to destroy the enemy's food and ammunition depots, killing Tay Son General Doan Luyen Giang.
 *   **1799:** Nguyen Anh recaptured Quy Nhon Citadel, renaming it Binh Dinh.
+*   **Oct. 11, 1799:** The Queen Mother (mother of King Le Chieu Thong) passed away in Beijing.
 *   **Jun. 1799:** Nguyen Anh successfully captured the strategic Quy Nhon citadel from the Tay Son. He renamed it **Binh Dinh** citadel, marking a major turning point in the war as the Nguyen forces began to dominate the central region.
 *   **Apr. 1799:** General Vo Dinh Tu, one of the "Seven Tigers of Tay Son" and a master of the staff, died in battle against Nguyen forces at Can Uc.
 *   **1800:** Two key Tay Son generals, Tran Quang Dieu and Vu Van Dung, led troops to besiege Binh Dinh Citadel.
@@ -581,6 +589,8 @@
 *   **Jan. 1803:** Emperor Gia Long ordered the casting of the **Nine Holy Cannons** (Cửu Vị Thần Công) from captured bronze weapons, completed in December 1804, symbolizing the power and longevity of the dynasty.
 *   **1803:** Emperor Gia Long ordered the reconstruction of the **Thang Long Citadel** (Hanoi Citadel).
 *   **1803:** Emperor Gia Long set the salary regulations for officials and soldiers in the Northern Citadel.
+*   **Aug. 13, 1804:** The remains of King Le Chieu Thong, the Queen Mother, and the Crown Prince were returned to Vietnam from China.
+*   **Oct. 13, 1804:** Imperial Concubine Nguyen Thi Kim committed suicide by poison to follow King Le Chieu Thong, after his remains were brought back to Thang Long.
 *   **1803:** The court established Trang Tien in Thang Long to mint "Gia Long Thong Bao" coins.
 *   **1803 - 1808:** General Le Van Duyet was dispatched to suppress the uprising of the "Thach Bich savages" (ethnic minorities) in the Quang Ngai region, stabilizing the border areas.
 *   **1804:** Emperor Gia Long officially established the national title "Viet Nam" (after the Qing dynasty rejected "Nam Viet"). He also ordered the casting of seals for the six ministries and promulgated the communal land allocation system.
