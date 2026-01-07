@@ -199,6 +199,7 @@
 *   **1242:** The court carried out administrative reforms, dividing the country into 12 routes (lo).
 *   **1247:** Nguyen Hien passed the imperial examination as Trang Nguyen (First Laureate) at the age of 12, becoming the youngest First Laureate in Vietnamese history.
 *   **1250:** King Tran Thai Tong issued a decree requiring the people to address the King as "Quoc gia" (The Nation/State) to elevate the King's position and national unity.
+*   **Spring 1251:** Tran Quoc Tuan (later Tran Hung Dao) boldly infiltrated the residence of Nhan Dao Vuong to marry Princess Thien Thanh, who was betrothed to another. King Tran Thai Tong ultimately sanctioned their marriage to avoid conflict.
 *   **1252:** Tran Thai Tong personally led a campaign against Champa.
 *   **Jun. 1253:** King Tran Thai Tong established the **Quoc Hoc Vien** (National Academy) for scholars to lecture on the Classics.
 *   **Aug. 1253:** The **Giang Vo Duong** (Military Academy) was established to train in martial arts, marking a formalization of military education.
@@ -351,6 +352,7 @@
 *   **1442:** The Le court held the first doctoral examination, passing 33 people, including Trang Nguyen (First Laureate) Nguyen Truc. The practice of erecting doctoral stelae at the Temple of Literature began.
 *   **1442:** The tragic Le Chi Vien case occurred, leading to the execution of three generations of Nguyen Trai's family.
 *   **1443:** Le Nhan Tong ascended the throne.
+*   **Nov. 1448:** King Le Nhan Tong married his eldest sister, Princess Ve Quoc (who suffered from mutism), to Le Quat, son of Grand Commander Le Thu. Le Thu used this wedding to solicit bribes from local officials, causing public resentment.
 *   **1443 - 1459:** Phan Phu Tien compiled the *Đại Việt sử ký tục biên* (Continued History of Dai Viet) from Le Van Huu's *Đại Việt sử ký* (History of Dai Viet).
 *   **1460:** Nghi Dan usurped the throne. The Six Ministries (Lại, Hộ, Lễ, Binh, Hình, Công - Personnel, Finance, Rites, War, Justice, Public Works) and Six Offices of Scrutiny were established for the first time.
 *   **Jun. 1460:** High-ranking officials Nguyen Xi and Dinh Liet staged a coup, overthrew Nghi Dan, and placed Le Tu Thanh on the throne (Le Thanh Tong).
@@ -363,6 +365,7 @@
 *   **1479:** During the war with Lan Xang (1478 - 1480), Dai Viet forces advanced deep into Lao territory, capturing the capital Luang Prabang.
 *   **1483:** The court promulgated the *Quoc trieu hinh luat* (National Dynasty's Penal Code), commonly known as the Hong Duc Code.
 *   **1484:** King Le Thanh Tong ordered the erection of stone steles at the Temple of Literature to record the names of successful doctoral candidates, retroactively starting from the 1442 examination.
+*   **May 1488:** Imperial Concubine Nguyen Thi Can (Chieu Nhan), formerly a palace slave, gave birth to Prince Le Tuan (later Emperor Le Uy Muc).
 *   **1490:** The map of the 13 provinces of the country was redefined.
 *   **1497:** King Le Thanh Tong passed away. Le Hien Tong ascended the throne.
 *   **16th century:** Catholicism began to be introduced, with the arrival of Franciscan and Dominican missionaries.
@@ -394,6 +397,7 @@
 *   **1546:** Mac Phuc Hai passed away, Mac Phuc Nguyen succeeded him. The Mac court experienced internal conflict between the faction of Mac Kinh Dien (supporting Phuc Nguyen) and Pham Tu Nghi (supporting Mac Chinh Trung).
 *   **1551:** The rebellion of Pham Tu Nghi and Mac Chinh Trung was suppressed.
 *   **1558:** Trinh Kiem appointed Nguyen Hoang (son of Nguyen Kim) as governor of Thuan Hoa to expand his power and guard against Mac forces from the sea.
+*   **Early 1564:** Mac Kinh Chi, eldest son of Mac Kinh Dien, was demoted to commoner status for committing adultery with his father's concubine.
 *   **1570:** Trinh Kiem passed away. His sons, Trinh Coi and Trinh Tung, fought for power. Trinh Coi lost and surrendered to the Mac. Trinh Tung took power and continued the anti-Mac campaign.
 *   **1570 - 1583:** A period of strong Mac counter-offensives. Mac Kinh Dien led multiple campaigns into Thanh Hoa and Nghe An, causing many difficulties for the Le-Trinh forces.
 *   **Nov. 1580:** The Mac dynasty's key pillar, Mac Kinh Dien, passed away.
@@ -550,6 +554,7 @@
 *   **Jul. 25, 1784:** 50,000 Siamese troops (20,000 naval, 30,000 land) led by Chao Tseng and Chao Sương, along with Nguyen Anh, invaded Gia Dinh.
 *   **Jan. 19, 1785:** Battle of Rach Gam - Xoai Mut. Nguyen Hue set up an ambush, crushed the Siamese army, annihilating almost the entire invading force. Generals Tran Quang Dieu and Bui Thi Xuan commanded the infantry, while General Le Van Hung captured the Nguyen general Nguyen Huynh Duc.
 *   **1785:** In the chaotic retreat after the defeat, Le Van Duyet fought bravely to protect Lord Nguyen Anh, ensuring his safe escape to Ha Tien and then Siam.
+*   **1785:** The An Son Temple was established on Con Dao Island to worship Lady Phi Yen (Le Thi Ram), a concubine of Nguyen Anh. According to legend, she was imprisoned for dissuading Nguyen Anh from seeking French military aid.
 *   **Jun. 1786:** Under the pretext of "supporting the Le, destroying the Trinh," Nguyen Hue commanded a large Tay Son army to advance north.
 *   **Jun. 10, 1786 (14th of the 5th lunar month):** The Tay Son army captured Phu Xuan. In this battle, the Trinh commander Hoang Dinh The died in battle, and Pham Ngo Cau surrendered.
 *   **Jul. 21, 1786:** The Tay Son army entered Thang Long, quickly overthrowing the over 200-year rule of the Trinh lords.
@@ -681,6 +686,7 @@
 *   **Aug. 29, 1822:** John Crawfurd, an envoy of the British Governor-General of India, visited Saigon and had an audience with Governor-General Le Van Duyet. Le Van Duyet expressed openness to international trade but adhered to the court's protocol regarding diplomatic correspondence. Notably, he refused gifts from the British envoy to maintain impartiality in state affairs.
 *   **1823:** Emperor Minh Mang established the Ty Buu chinh (Postal Service) to handle the transmission of official documents.
 *   **1823:** Emperor Minh Mang composed and promulgated the **Imperial Lineage Poem** (De He Thi) and Peerage Lineage Poems (Phien He Thi) to regulate the naming conventions for generations of the royal family.
+*   **Nov. 1823:** Princess Nguyen Thi Ngoc Anh (Emperor Gia Long's third daughter) committed suicide at Dai Giac Pagoda (Bien Hoa) following the self-immolation of High Monk Lieu Dat Thiet Thanh, ending a tragic unrequited love story.
 *   **May 1824:** The construction of the **Vinh Te Canal** was officially completed.
 *   **Aug. 1826:** Emperor Minh Mang added the positions of Left and Right Vice Ministers in the Six Ministries.
 *   **Oct. 1827:** Construction of the **Duyet Thi Duong** (Royal Theater) began within the Purple Forbidden City. It served as a venue for performing arts (Tuong opera, dance) for the royal court.
