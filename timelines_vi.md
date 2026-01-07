@@ -140,10 +140,18 @@
 *   **28/04/981:** Lê Đại Hành dùng kế trá hàng để dụ địch, sau đó tung quân mai phục đánh tan quân Tống trên sông Bạch Đằng, giết chết chủ tướng Hầu Nhân Bảo.
 *   **982:** Lê Đại Hành thân chinh đánh Champa, chiếm kinh đô Đồng Dương và giết vua Bề Mi Thuế.
 *   **983:** Lê Đại Hành ra lệnh đào kênh Bà Hòa (Thanh Hóa) và kênh Đa Cái (Nghệ An) để thuận tiện cho việc vận chuyển quân lương và giao thông đường thủy.
+*   **983:** Vua Lê Đại Hành rút đại quân về Hoa Lư, lưu lại một đạo quân trú phòng tại miền bắc Chiêm Thành (từ Hoành Sơn đến mũi Varella) do Quản giáp **Lưu Kế Tông** chỉ huy.
 *   **02/984:** Triều Tiền Lê cho đúc tiền Thiên Phúc.
+*   **986:** Sau khi vua Chiêm Indravarman IV mất, **Lưu Kế Tông** tự lập làm vua Chiêm Thành và cử sứ giả sang cầu phong nhà Tống. Người Chiêm Thành nổi dậy chống đối và bỏ chạy sang Hải Nam, Quảng Châu.
 *   **987 (Mùa Xuân):** Lê Đại Hành lần đầu tiên cử hành lễ cày tịch điền ở Đọi Sơn để khuyến khích nông nghiệp.
 *   **987:** Sứ giả nhà Tống là Lý Giác sang nước ta. Thiền sư Đỗ Pháp Thuận giả làm người chèo đò đón sứ, xướng họa thơ văn, khiến Lý Giác nể phục khí tiết nước Nam.
+*   **988:** Người Chiêm Thành nổi dậy chiếm lại miền Vijaya, tôn Ku Sri Harivarman II lên làm vua tại thành Phật Thệ (Bình Định).
+*   **989:** **Lưu Kế Tông** qua đời. Vua Chiêm Harivarman II khôi phục lại vùng Amaravati và bắc bộ Nhật Nam đến tận châu Địa Lý.
+*   **989:** Quản giáp Dương Tiến Lộc làm phản, đem người châu Hoan, châu Ái chạy sang Chiêm Thành xin quy phụ nhưng không được vua Chiêm Harivarman II thu nhận.
 *   **990 (Canh Dần):** Lê Đại Hành tiếp sứ Tống là Tống Cảo, bày chiến cụ để thị uy và không lạy chiếu thư.
+*   **990:** Vua Lê Đại Hành sai quân đánh châu Địa Lý, bắt nhiều tù binh. Sau khi vua Tống đứng ra hòa giải, vua Lê chấp nhận bãi binh, rút khỏi châu Địa Lý nhưng vẫn giữ châu **Bố Chính**.
+*   **992:** Vua Lê Đại Hành trao trả cho Chiêm Thành 360 người bị bắt tại châu Địa Lý trong trận đánh năm 990.
+*   **992:** Nhà vua sai Phụ quốc Ngô Tử An đem 3 vạn người mở đường bộ từ cửa Nam Giới (Hà Tĩnh) qua đèo Ngang đến châu Địa Lý (Quảng Bình).
 *   **996 (Bính Thân):** Lê Đại Hành tiếp sứ Tống là Lý Nhược Chuyết, dùng lời lẽ cứng rắn để bác bỏ trách nhiệm về các vụ cướp biên giới.
 *   **1005:** Lê Đại Hành mất. Lê Long Đĩnh giết vua Lê Trung Tông (Lê Long Việt) để cướp ngôi.
 

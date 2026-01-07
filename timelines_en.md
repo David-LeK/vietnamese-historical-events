@@ -140,10 +140,18 @@
 *   **Apr. 28, 981:** Le Dai Hanh commanded the decisive battle on the Bach Dang River. Feigning defeat to lure the enemy into an ambush, the Dai Co Viet army crushed the Song forces, killing Commander Hou Renbao. The first resistance war against the Song was victorious.
 *   **982:** Le Dai Hanh personally led a campaign against Champa, capturing the capital Dong Duong and killing King Pe Mi Shuei (Paramesvaravarman I).
 *   **983:** King Le Dai Hanh ordered the digging of the Ba Hoa Canal (Thanh Hoa) and Da Cai Canal (Nghe An) to facilitate military and water transport.
+*   **983:** King Le Dai Hanh withdrew the main army to Hoa Lu, leaving a garrison in northern Champa (from Hoanh Son to Varella cape) under the command of *Quan giap* **Luu Ke Tong**.
 *   **Feb. 984:** The Early Le court minted Thien Phuc coins.
+*   **986:** Following the death of King Indravarman IV, **Luu Ke Tong** proclaimed himself King of Champa and sent envoys to the Song court to seek investiture. Many Champa people rebelled against his rule and fled to Hainan and Guangzhou.
 *   **987 (Spring):** Le Dai Hanh performed the Tich Dien plowing ceremony for the first time at Doi Son to encourage agriculture.
 *   **987:** Song envoy Li Jue visited Dai Co Viet. Zen Master Do Phap Thuan, disguised as a ferryman, engaged in a famous poetry exchange with the envoy, demonstrating the nation's literary culture.
+*   **988:** The people of Champa rose up to retake the Vijaya region and enthroned Ku Sri Harivarman II at Phat The citadel (Binh Dinh).
+*   **989:** **Luu Ke Tong** passed away. King Harivarman II recovered the Amaravati region and northern Nhat Nam up to Dia Ly prefecture.
+*   **989:** *Quan giap* Duong Tien Loc rebelled against the Early Le court, leading people from Hoan and Ai provinces to flee to Champa to submit, but was refused entry by King Harivarman II.
 *   **990:** Le Dai Hanh received the Song envoy Song Cao. He displayed military might and refused to kowtow to the imperial decree, asserting national prestige.
+*   **990:** King Le Dai Hanh sent troops to attack Dia Ly prefecture. Following mediation by the Song Emperor, Le Dai Hanh withdrew from Dia Ly but retained **Bo Chinh** prefecture.
+*   **992:** King Le Dai Hanh returned 360 prisoners captured in Dia Ly to Champa.
+*   **992:** King Le Dai Hanh ordered *Phu quoc* Ngo Tu An to open a land route from Nam Gioi port (Ha Tinh) through Ngang Pass to Dia Ly prefecture (Quang Binh).
 *   **996:** Le Dai Hanh received Song envoy Li Ruozhuo, continuing to assert independence and dismissing responsibility for border raids.
 *   **1005:** Le Dai Hanh passed away. After internal strife, Le Long Dinh killed his brother Le Long Viet to seize the throne.
 
