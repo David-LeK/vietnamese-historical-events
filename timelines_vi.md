@@ -510,31 +510,32 @@
 *   **1778:** Các tướng tôn Nguyễn Ánh làm Đại nguyên súy Nhiếp quốc chính, củng cố lực lượng chúa Nguyễn tại Gia Định để chống lại Tây Sơn.
 *   **01/1780:** Nguyễn Ánh xưng Vương (Nguyễn Vương), dùng niên hiệu Cảnh Hưng của nhà Lê và lấy ấn "Đại Việt quốc Nguyễn chúa vĩnh trấn chi bửu" làm ấn truyền quốc.
 *   **1780:** Lê Văn Duyệt (khi đó 17 tuổi) gia nhập lực lượng của Nguyễn Ánh, bắt đầu sự nghiệp của một danh tướng lừng lẫy và một đại công thần của nhà Nguyễn.
+*   **13/09/1780 (15/08 năm Canh Tý):** Chúa Trịnh Sâm bắt giam Thế tử Trịnh Tông vì mưu đồ mua vũ khí và chiêu mộ binh lính, giáng xuống làm con út.
 *   **05/1781:** Nguyễn Ánh ra lệnh giết Đỗ Thanh Nhân, một tướng lĩnh quyền lực và kiêu ngạo. Sự kiện này dẫn đến việc binh lính Đông Sơn của Đỗ Thanh Nhân nổi loạn, làm suy yếu đáng kể lực lượng của Nguyễn Ánh.
 *   **1782:** Nguyễn Ánh chiếm lại được Gia Định.
 *   **03/1782:** Trận Thất Kỳ giang (Ngã Bảy, Sài Gòn). Quân Tây Sơn đánh bại thủy quân của Nguyễn Ánh và các tàu chiến phương Tây, giết chết chỉ huy Manuel (Mạn Hòe).
 *   **07/07/1782:** Để trả thù cho cái chết của Hộ giá Phạm Ngạn tại cầu Tham Lương, Nguyễn Nhạc đã ra lệnh tàn sát hàng ngàn người Hoa (thương nhân và binh lính) tại Gia Định, gây nên sự đình trệ nghiêm trọng về thương mại và kinh tế trong vùng.
 *   **1782:** Tại Đàng Ngoài, xảy ra "Loạn kiêu binh", quân lính kiêu binh nổi loạn làm triều chính họ Trịnh càng thêm suy yếu, tạo điều kiện cho quân Tây Sơn tiến ra Bắc sau này.
-*   **13/09/1782:** Chúa Trịnh Sâm mất. Con nhỏ là Trịnh Cán nối ngôi (Điện Đô Vương).
-*   **25/10/1782:** "Loạn kiêu binh" lên đến đỉnh điểm. Quân lính giết Quận huy Hoàng Đình Bảo, phế truất Trịnh Cán và đưa Trịnh Tông (Trịnh Khải) lên thay (Đoan Nam Vương).
+*   **19/10/1782 (13/09 năm Nhâm Dần):** Chúa Trịnh Sâm mất. Con nhỏ là Trịnh Cán nối ngôi (Điện Đô Vương).
+*   **28/11/1782 (24/10 năm Nhâm Dần):** "Loạn kiêu binh" bùng nổ. Quân lính giết Quận huy Hoàng Đình Bảo, phế truất Trịnh Cán và đưa Trịnh Tông (Trịnh Khải) lên thay (Đoan Nam Vương).
 *   **1783:** Nguyễn Huệ và Nguyễn Lữ đem quân vào đánh, Nguyễn Ánh lại thua trận, phải chạy sang Xiêm cầu viện.
 *   **Mùa đông 1784:** Nguyễn Ánh cử Hoàng tử Cảnh đi cùng Giám mục Pigneau de Béhaine (Bá Đa Lộc) sang Pháp cầu viện.
 *   **25/07/1784:** 5 vạn quân Xiêm (2 vạn thủy, 3 vạn bộ) do Chiêu Tăng, Chiêu Sương chỉ huy cùng Nguyễn Ánh tiến vào xâm lược Gia Định.
 *   **19/01/1785:** Trận Rạch Gầm - Xoài Mút. Nguyễn Huệ tổ chức trận địa mai phục, đại phá quân Xiêm. Tướng Trần Quang Diệu và Bùi Thị Xuân chỉ huy bộ binh, tướng Lê Văn Hưng lập công đầu bắt sống tướng Nguyễn Huỳnh Đức.
 *   **1785:** Trong cuộc rút lui hỗn loạn sau thất bại, Lê Văn Duyệt đã chiến đấu dũng cảm để bảo vệ Chúa Nguyễn Ánh, giúp ông thoát về Hà Tiên rồi sang Xiêm.
 *   **06/1786:** Lấy danh nghĩa "phù Lê diệt Trịnh", Nguyễn Huệ chỉ huy đại quân Tây Sơn tiến ra Bắc.
-*   **Mùa hè 1786:** Trong trận đánh chiếm Phú Xuân, khoảng 30.000 lính nhà Trịnh đã bị giết.
+*   **10/06/1786 (14/05 năm Bính Ngọ):** Quân Tây Sơn hạ thành Phú Xuân. Trong trận này, tướng Trịnh là Hoàng Đình Thể tử trận, Phạm Ngô Cầu xin hàng.
 *   **21/07/1786:** Quân Tây Sơn tiến vào Thăng Long, lật đổ nền thống trị hơn 200 năm của họ Trịnh một cách nhanh chóng.
-*   **27/06/1786:** Chúa Trịnh Tông tự sát sau khi bị quân Tây Sơn bắt.
-*   **17/07/1786:** Vua Lê Hiển Tông băng hà. Lê Duy Kỳ (Lê Chiêu Thống) lên nối ngôi.
-*   **1786:** Trịnh Bồng lên ngôi (Án Đô Vương) nhưng sau đó bỏ trốn.
-*   **08/12/1786:** Vua Lê Chiêu Thống sai người phóng hỏa đốt Phủ Chúa sau khi Trịnh Bồng bỏ trốn, chấm dứt biểu tượng quyền lực của họ Trịnh.
+*   **22/07/1786 (27/06 năm Bính Ngọ):** Chúa Trịnh Tông tự sát sau khi bị quân Tây Sơn bắt.
+*   **10/08/1786 (17/07 năm Bính Ngọ):** Vua Lê Hiển Tông băng hà. Lê Duy Kỳ (Lê Chiêu Thống) lên nối ngôi.
+*   **10/10/1786 (19/09 năm Bính Ngọ):** Trịnh Bồng được lập làm Án Đô Vương nhưng vấp phải sự chống đối của vua Lê Chiêu Thống và các phe phái.
+*   **26/01/1787 (08/12 năm Bính Ngọ):** Vua Lê Chiêu Thống sai người phóng hỏa đốt Phủ Chúa sau khi Trịnh Bồng bỏ trốn, chấm dứt biểu tượng quyền lực của họ Trịnh.
 *   **1786:** Trong thời gian lưu vong tại Xiêm, Lê Văn Duyệt tham gia cùng quân Xiêm đánh quân Miến Điện xâm lược tại Sài Nặc. Ông đã sử dụng chiến thuật dùng "ống phun lửa" để làm hoảng sợ voi và ngựa chiến của địch, góp phần vào chiến thắng.
 *   **Cuối 1786:** Nguyễn Huệ được vua Lê gả công chúa Ngọc Hân. Anh em Tây Sơn chia nhau cai quản đất nước: Nguyễn Nhạc là Trung ương Hoàng đế (từ Quảng Nam vào Bình Thuận), Nguyễn Huệ là Bắc Bình vương (cai quản Thuận Hóa từ đèo Hải Vân ra Bắc), Nguyễn Lữ là Đông Định vương (cai quản vùng Gia Định).
 *   **1787:** Mâu thuẫn giữa Nguyễn Nhạc và Nguyễn Huệ nổ ra. Nguyễn Huệ đem quân vây thành Hoàng Đế, buộc Nguyễn Nhạc phải nhượng thêm đất Quảng Nam.
 *   **21/02/1787:** Cuộc nội chiến "huynh đệ tương tàn" giữa Nguyễn Nhạc và Nguyễn Huệ bùng nổ. Nguyễn Huệ đem quân vây hãm anh trai tại thành Quy Nhơn. Trong cuộc xung đột này, Nguyễn Nhạc đã mất khoảng 40.000 quân. Nguyễn Nhạc bị vây khốn, phải lên thành khóc lóc xin em giải vây. Sự kiện này, được gọi là "nồi da xáo thịt", đã làm suy yếu nghiêm trọng triều đại Tây Sơn.
 *   **1787:** Vua Lê Chiêu Thống bãi bỏ Lục phiên (cơ quan của phủ Chúa), trả lại quyền hành cho Lục bộ, cố gắng chấn chỉnh lại triều cương.
-*   **11/04/1787:** Phái bộ do Trần Công Xán dẫn đầu, được vua Lê Chiêu Thống cử vào Nam thương thuyết với nhà Tây Sơn về đất Nghệ An, đã bị tướng Tây Sơn là Vũ Văn Nguyệt dìm chết ngoài biển.
+*   **27/05/1787 (11/04 năm Đinh Vị):** Phái bộ do Trần Công Xán dẫn đầu, được vua Lê Chiêu Thống cử vào Nam thương thuyết với nhà Tây Sơn về đất Nghệ An, đã bị tướng Tây Sơn là Vũ Văn Nguyệt dìm chết ngoài biển.
 *   **28/11/1787:** Giám mục Bá Đa Lộc (đại diện Nguyễn Ánh) ký Hiệp ước Versailles với Bá tước De Montmorin (Pháp). Điều II của Hiệp ước hứa nhường cảng Hội An và đảo Côn Lôn cho Pháp.
 *   **Đầu năm 1788:** Dân chúng ở Đàng Ngoài (Bắc Hà) bắt đầu thể hiện sự bất mãn và căm ghét đối với các quan lại mới của chính quyền Tây Sơn.
 *   **Tháng 4/1788:** Nguyễn Huệ ra Thăng Long giết Vũ Văn Nhậm (sau khi Nhậm diệt Nguyễn Hữu Chỉnh) để dẹp loạn và củng cố quyền lực phía Bắc trước khi quân Thanh sang.
@@ -546,7 +547,7 @@
 *   **Cuối 1788:** Vua Lê Chiêu Thống chạy sang Trung Quốc cầu viện. 29 vạn quân Mãn Thanh do Tôn Sĩ Nghị chỉ huy tràn vào xâm lược Đại Việt, chiếm Thăng Long. Đô đốc Tuyết đã một mình một ngựa phi gấp từ Bắc Hà về Phú Xuân để cấp báo tình hình nguy cấp.
 *   **18/12/1788:** Tôn Sĩ Nghị dẫn quân Thanh tiến vào Thăng Long, bắt đầu thời kỳ chiếm đóng ngắn ngủi của quân Thanh tại kinh đô.
 *   **22/11/1788:** Tôn Sĩ Nghị tổ chức lễ tuyên phong cho Lê Chiêu Thống làm An Nam Quốc vương tại Thăng Long (theo lịch nhà Thanh).
-*   **22/12/1788:** Tại Phú Xuân, Nguyễn Huệ lên ngôi Hoàng đế, lấy niên hiệu Quang Trung, rồi lập tức chỉ huy đại quân thần tốc tiến ra Bắc.
+*   **22/12/1788 (25 tháng Chạp năm Mậu Thân):** Tại Phú Xuân, Nguyễn Huệ lên ngôi Hoàng đế, lấy niên hiệu Quang Trung, rồi lập tức chỉ huy đại quân thần tốc tiến ra Bắc.
 *   **28-30/01/1789 (Mồng 3-5 Tết Kỷ Dậu):** Vua Quang Trung đại phá quân Thanh trong các trận Hà Hồi, Ngọc Hồi, Đống Đa. Nữ tướng Bùi Thị Xuân chỉ huy đội tượng binh, Đại Tư đồ Võ Văn Dũng đốc xuất hậu quân, và Đại Đô đốc Lộc (Nguyễn Văn Lộc) chỉ huy Tả quân thủy sư, góp phần quan trọng vào chiến thắng kỷ lục.
 *   **1789:** Vua Quang Trung ban bố "Chiếu khuyến nông" để phục hồi sản xuất. Đồng thời, lần đầu tiên ban hành chế độ **"Tín bài"** (thẻ căn cước) để quản lý dân số và tuyển quân, phân chia dân thành các hạng tuổi để kiểm soát hộ tịch.
 *   **1789:** Võ Văn Dũng được cử đi sứ sang nhà Thanh, thực hiện thắng lợi nhiệm vụ cầu hòa và thậm chí còn đặt vấn đề cầu hôn công chúa cũng như xin lại đất Lưỡng Quảng để thăm dò thái độ của vua Càn Long.
@@ -558,7 +559,7 @@
 *   **07/1792:** Thủy quân Nguyễn Ánh, với sự hỗ trợ của các tàu chiến và kỹ thuật phương Tây, đã thực hiện cuộc tấn công bất ngờ vào cửa **Thị Nại**, tiêu diệt nhiều thuyền chiến của Tây Sơn. Đây là thắng lợi quan trọng đầu tiên của thủy quân Nguyễn đã được hiện đại hóa.
 *   **16/09/1792 (29 tháng 7 âm lịch):** Vua Quang Trung đột ngột qua đời ở tuổi 40. Con trai là Nguyễn Quang Toản (10 tuổi) lên kế vị, lấy niên hiệu là Cảnh Thịnh.
 *   **1793:** Nguyễn Ánh tấn công Quy Nhơn. Nguyễn Nhạc cầu cứu Phú Xuân. Quân của Quang Toản vào giải vây rồi chiếm luôn thành Quy Nhơn. Nguyễn Nhạc uất hận mà chết.
-*   **16/10/1793:** Vua lưu vong Lê Chiêu Thống qua đời tại Yên Kinh, Trung Quốc sau nhiều năm cầu viện nhà Thanh bất thành.
+*   **18/11/1793 (16/10 năm Quý Sửu):** Vua lưu vong Lê Chiêu Thống qua đời tại Yên Kinh, Trung Quốc sau nhiều năm cầu viện nhà Thanh bất thành.
 *   **13/12/1793:** Nguyễn Nhạc (Thái Đức Hoàng đế) qua đời, được cho là vì uất ức sau khi thành Quy Nhơn bị quân của cháu ruột (Quang Toản) chiếm đoạt.
 *   **05/1793:** Lê Văn Duyệt, chỉ huy vệ Diệu Võ, đánh chiếm đồn **Úc Sơn** (Phú Yên). Chiến thắng này giúp quân Nguyễn khai thông đường thủy bộ.
 *   **05/1794:** Quân Tây Sơn do Trần Quang Diệu chỉ huy vây hãm thành Diên Khánh. Bên trong, Hoàng tử Cảnh và Giám mục Bá Đa Lộc chỉ huy phòng thủ. Cuộc vây hãm này đã chứng minh hiệu quả phòng thủ của tòa thành kiểu Vauban do Nguyễn Ánh xây dựng.
@@ -566,7 +567,7 @@
 *   **1795:** Trong cuộc giải vây thành Diên Khánh, Lê Văn Duyệt và Nguyễn Đức Xuyên dùng kế nghi binh hạ đồn **Lò Cương**, giảm bớt áp lực cho quân giữ thành.
 *   **02/1799:** Lê Văn Duyệt chỉ huy quân đánh đồn Sa Lung (Đạm Thủy), dùng hỏa công đốt cháy kho lương và đạn dược của địch, chém chết tướng Tây Sơn là Đoàn Luyện Giảng.
 *   **1799:** Nguyễn Ánh chiếm lại được thành Quy Nhơn, đổi tên là Bình Định.
-*   **11/10/1799:** Hoàng Thái hậu (mẹ vua Lê Chiêu Thống) qua đời tại Yên Kinh, Trung Quốc.
+*   **07/11/1799 (11/10 năm Kỷ Mùi):** Hoàng Thái hậu (mẹ vua Lê Chiêu Thống) qua đời tại Yên Kinh, Trung Quốc.
 *   **06/1799:** Nguyễn Ánh chiếm được thành Quy Nhơn, một vị trí chiến lược quan trọng của Tây Sơn. Ông đổi tên thành là **thành Bình Định**, đánh dấu bước ngoặt lớn trong cuộc chiến tranh khi quân Nguyễn bắt đầu chiếm ưu thế ở miền Trung.
 *   **04/1799:** Võ Đình Tú, một trong "Tây Sơn thất hổ tướng" với cây thiết côn vô địch, tử trận tại Cần Úc khi giao chiến với quân Nguyễn.
 *   **1800:** Hai tướng chủ chốt của Tây Sơn là Trần Quang Diệu và Vũ Văn Dũng đem quân vào vây thành Bình Định.
@@ -589,8 +590,9 @@
 *   **01/1803:** Vua Gia Long ra lệnh đúc **Cửu Vị Thần Công** từ các binh khí bằng đồng thu được, hoàn thành vào tháng 12/1804, đặt tên theo bốn mùa và ngũ hành.
 *   **1803:** Vua Gia Long ra lệnh đắp lại **Thành Thăng Long** (Hà Nội).
 *   **1803:** Vua Gia Long định lệ lương bổng cho quan và quân ở Bắc thành.
-*   **13/08/1804:** Hài cốt của vua Lê Chiêu Thống, Hoàng Thái hậu và Thái tử được đưa từ Trung Quốc về đến cửa ải.
-*   **13/10/1804:** Hoàng phi Nguyễn Thị Kim uống thuốc độc tự tử để theo vua Lê Chiêu Thống, sau khi linh cữu vua được đưa về Thăng Long.
+*   **16/09/1804 (13/08 năm Giáp Tý):** Hài cốt của vua Lê Chiêu Thống, Hoàng Thái hậu và Thái tử được đưa từ Trung Quốc về đến cửa ải.
+*   **14/11/1804 (13/10 năm Giáp Tý):** Hoàng phi Nguyễn Thị Kim uống thuốc độc tự tử để theo vua Lê Chiêu Thống, sau khi linh cữu vua được đưa về Thăng Long và làm lễ tế.
+*   **25/12/1804 (24/11 năm Giáp Tý):** Lễ an táng vua Lê và hoàng quyến được tổ chức tại núi Bàn Thạch (Thanh Hóa), cạnh lăng vua Lê Hiển Tông.
 *   **1803:** Triều đình thiết lập Tràng Tiền tại Thăng Long để đúc tiền "Gia Long thông bảo".
 *   **1803 - 1808:** Tả quân Lê Văn Duyệt được cử đi đánh dẹp cuộc nổi dậy của "Mọi Thạch Bích" (đồng bào dân tộc thiểu số) ở vùng Quảng Ngãi, ổn định biên giới.
 *   **1804:** Vua Gia Long chính thức đặt quốc hiệu là Việt Nam (sau khi nhà Thanh không chấp thuận tên Nam Việt). Vua cũng cho đúc ấn của 6 bộ và ban hành phép quân điền (chia ruộng).
