@@ -125,6 +125,7 @@
 *   **Dec. 1010:** Ly Thai To carried out administrative reforms, dividing the country into 24 routes (lo).
 *   **1013:** Ly Thai To established a taxation system for the whole country, including taxes on mulberry fields, promoting sericulture and financial autonomy.
 *   **Jun. 1018:** The court sent an envoy to the Song dynasty to request the Tripitaka scriptures.
+*   **1019:** The "Heavenly Book" (Thien Thu) was completed by the Song court (under Chancellor Wang Qinruo) to claim divine mandate. This document later became the target of Ly Thuong Kiet's psychological warfare in his famous poem.
 *   **Dec. 1020:** The Ly army, under the command of Crown Prince Ly Phat Ma, defeated the Champa army at the Bo Chinh garrison (Quang Binh).
 *   **May 15, 1025:** Zen Master Van Hanh, a key advisor to King Ly Thai To, passed away.
 *   **1028:** Ly Thai To passed away, Ly Phat Ma ascended the throne (Ly Thai Tong). The "Rebellion of the Three Princes" occurred but was suppressed.
@@ -137,23 +138,27 @@
 *   **1042:** The court promulgated the Hinh Thu (Penal Code), the first written law code of Vietnam. It included regulations prohibiting the sale of adult males (*hoang nam*) as slaves.
 *   **Jan. 1044:** Ly Thai Tong personally led a campaign against Champa, beheading the Champa king Sạ Đẩu (Jaya Simhavarman II) in battle.
 *   **1049:** King Ly Thai Tong ordered the construction of Dien Huu Pagoda (One Pillar Pagoda).
+*   **1053:** Under the leadership of Khai Quoc Vuong, the Ly army launched a campaign to assist Nung Tri Cao in establishing the Kingdom of Dai Nam in the Guangdong-Guangxi region.
 *   **1054:** Ly Thai Tong passed away, Ly Nhat Ton ascended the throne (Ly Thanh Tong), and changed the national name from Dai Co Viet to Dai Viet.
 *   **1055:** Prince Ly Nhat Quang suppressed the rebellion of Ong Ke and Ly Phu, ensuring stability in the Nghe An region.
 *   **1056:** King Ly Thanh Tong ordered the construction of Sung Khanh Bao Thien Pagoda and the casting of a great bell, considered one of the "Four Great Treasures of An Nam."
 *   **1057:** Tuong Long Tower was built in Do Son (Hai Phong), considered a major scenic spot of the ancient An Bang region.
 *   **1057:** Construction of the **Bao Thien Tower** (Dai Thang Tu Thien Bao Thap) began in Thang Long. Standing 12 stories high, it was considered one of the "Four Great Treasures of An Nam."
-*   **1059:** The Ly army attacked the Song dynasty's Qinzhou (Kham Chau) to demonstrate military strength.
+*   **1059 - 1060:** Princess Binh Duong and Consort Than Thieu Thai commanded a northern campaign, attacking the Song dynasty's Zuo Jiang and You Jiang regions and capturing over 10 passes to reclaim border lands.
 *   **1059:** King Ly Thanh Tong mandated that officials must wear hats and boots when attending court, establishing a formal dress code for the first time.
 *   **1069:** Ly Thanh Tong personally led a campaign against Champa, capturing King Che Cu (Rudravarman III). Champa had to cede the three provinces of Bo Chinh, Dia Ly, and Ma Linh as ransom. Zen Master Thao Duong was captured during this campaign, later appointed National Preceptor and established the Thao Duong Zen sect.
 *   **1070:** The Temple of Literature was built in Thang Long to worship Confucius.
 *   **Dec. 1072:** Ly Thanh Tong died, and Ly Can Duc (Ly Nhan Tong) ascended the throne, inheriting it according to the will of his father, Emperor Ly Thanh Tong (at the age of only 7).
 *   **Feb. 1075:** The first civil service examination in history was held (Minh kinh bac hoc and Nho hoc tam truong). Le Van Thinh ranked first.
 *   **1075:** Ly Thuong Kiet inspected the southern border, drawing maps and renaming Dia Ly district to Lam Binh and Ma Linh district to Minh Linh.
+*   **1075:** Regent Empress Dowager Linh Nhan (Y Lan) directed the pre-emptive strike strategy against the Song. She organized a "special court" of female advisors, including Princess Thien Ninh (in charge of logistics, later worshipped as "Ba Chua Kho"), to manage the rear and supplies.
 *   **Oct. 1075:** Ly Thuong Kiet proactively commanded over 100,000 land and naval troops to attack the Song dynasty's invasion bases in Yong, Qin, and Lian prefectures.
 *   **Jan. 1076:** The Ly army captured Yongzhou Citadel after a 42-day siege.
 *   **Feb. 1076:** The Ly army captured Lianzhou Citadel.
 *   **1076:** The Quoc Tu Giam (Imperial Academy), the first university of Vietnam, was established.
 *   **1077:** The second resistance war against the Song took place. The Song army, commanded by Guo Kui, was halted at the Nhu Nguyet river defense line and eventually had to retreat.
+*   **1076:** In the battle at Nhu Nguyet River, Ly Thuong Kiet composed the poem *Nam Quoc Son Ha*. The term "Thien Thu" (Book of Heaven) in the poem specifically alluded to the "Divine Book" fabricated by the Song court, using the enemy's own superstition to break their morale.
+*   **1077:** During the fierce defense against the Song army commanded by Guo Kui, many prominent generals sacrificed their lives, including Princes Ly Hoang Chan and Ly Chieu Van, and Generals Nguyen Can, Hoang Kien, along with their wives who served as commanders on the battlefield.
 *   **1084:** Le Van Thinh negotiated with the Song dynasty to define the border, reclaiming 6 districts and 3 grottoes.
 *   **1086:** King Ly Nhan Tong authorized the first imperial examination to select talented individuals.
 *   **1089:** King Ly Nhan Tong established a defined hierarchy for civil and military officials, structuring the administrative system.

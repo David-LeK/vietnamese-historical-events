@@ -125,6 +125,7 @@
 *   **12/1010:** Lý Thái Tổ tiến hành cải cách hành chính, chia cả nước làm 24 lộ.
 *   **1013:** Lý Thái Tổ định ra các hạng thuế trong cả nước, bao gồm thuế bãi dâu, đánh dấu sự khuyến khích phát triển nghề trồng dâu nuôi tằm và tự chủ tài chính.
 *   **06/1018:** Triều đình cử sứ sang nhà Tống xin bộ kinh Tam Tạng.
+*   **1019 (Kỷ Mùi):** Bộ sách "Thiên thư" do Tể tướng nhà Tống Vương Khâm Nhược chủ trì biên soạn được hoàn thành để thần thánh hóa vương triều. Đây là đối tượng mà Lý Thường Kiệt nhắm tới trong bài thơ *Nam quốc sơn hà* sau này.
 *   **12/1020:** Quân Lý dưới sự chỉ huy của Thái tử Lý Phật Mã đánh bại quân Chiêm Thành ở trại Bố Chính (Quảng Bình).
 *   **15/05/1025:** Thiền sư Vạn Hạnh, cố vấn quan trọng của vua Lý Thái Tổ, viên tịch.
 *   **1028:** Lý Thái Tổ mất, Lý Phật Mã lên ngôi (Lý Thái Tông). Xảy ra "Loạn Tam vương" nhưng bị dẹp yên.
@@ -137,23 +138,27 @@
 *   **1042:** Triều đình ban hành bộ *Hình thư*, bộ luật thành văn đầu tiên của Việt Nam. Bộ luật có điều khoản nghiêm cấm bán hoàng nam làm nô bộc.
 *   **01/1044:** Lý Thái Tông thân chinh đánh Champa, chém được vua Champa là Sạ Đẩu tại trận.
 *   **1049:** Vua Lý Thái Tông cho xây dựng chùa Diên Hựu (chùa Một Cột).
+*   **1053:** Khai Quốc Vương lãnh đạo quân đội Đại Việt tiến hành cuộc Bắc phạt, hỗ trợ Nùng Trí Cao lập nước Đại Nam tại vùng Lưỡng Quảng.
 *   **1054:** Lý Thái Tông mất, Lý Nhật Tôn lên ngôi (Lý Thánh Tông), đổi quốc hiệu từ Đại Cồ Việt thành Đại Việt.
 *   **1055:** Hoàng tử Lý Nhật Quang đánh dẹp giặc Ông Kệ, Lý Phủ, ổn định vùng Nghệ An.
 *   **1056:** Vua Lý Thánh Tông cho xây chùa Sùng Khánh Báo Thiên và đúc đại hồng chung, được coi là một trong "An Nam tứ đại khí".
 *   **1057 (Năm Long Thụy Thái Bình thứ 4):** Tháp Tường Long được xây dựng tại Đồ Sơn (Hải Phòng).
 *   **1057:** Vua Lý Thánh Tông cho xây dựng **Tháp Báo Thiên** (Đại Thắng Tư Thiên Bảo Tháp) tại Thăng Long. Tháp cao 12 tầng và được coi là một trong "An Nam tứ đại khí".
-*   **1059:** Quân nhà Lý tiến sang đất Tống (Khâm Châu) để diễu võ dương oai.
+*   **1059 - 1060:** Công chúa Bình Dương và Phò mã Thân Thiệu Thái chỉ huy cuộc Bắc phạt, tiến đánh vùng Tả Giang, Hữu Giang của nhà Tống, chiếm lại hơn 10 cửa ải.
 *   **1059:** Vua Lý Thánh Tông ra lệnh cho các quan vào chầu phải đội mũ, đi hia. Đây là quy định chính thức đầu tiên về triều phục.
 *   **1069:** Lý Thánh Tông thân chinh đánh Champa, bắt được vua Chế Củ. Champa phải cắt 3 châu Bố Chính, Địa Lý, Ma Linh để chuộc tội. Thiền sư Thảo Đường bị bắt trong chiến dịch này, sau được phong Quốc sư và sáng lập thiền phái Thảo Đường.
 *   **1070:** Xây dựng Văn Miếu ở Thăng Long để thờ Khổng Tử.
 *   **12/1072:** Lý Thánh Tông mất, Lý Càn Đức (Lý Nhân Tông) lên ngôi do được truyền ngôi theo di chiếu của vua cha Lý Thánh Tông (lúc mới 7 tuổi).
 *   **02/1075:** Mở khoa thi đầu tiên trong lịch sử (Minh kinh bác học và Nho học tam trường). Lê Văn Thịnh đỗ đầu.
 *   **1075:** Lý Thường Kiệt đi tuần hành biên giới phía nam, vẽ bản đồ hình thế núi sông và đổi châu Địa Lý làm châu Lâm Bình, châu Ma Linh làm châu Minh Linh.
+*   **1075:** Linh Nhân Hoàng thái hậu (Ỷ Lan) nhiếp chính, quyết định chủ trương "Tiên phát chế nhân" đánh sang đất Tống. Bà tổ chức một bộ máy hậu cần đặc biệt với các nữ quan như Công chúa Thiên Ninh (Bà Chúa Kho) để đảm bảo lương thảo.
 *   **10/1075:** Lý Thường Kiệt chủ động chỉ huy hơn 10 vạn quân thủy bộ tiến đánh các căn cứ xâm lược của nhà Tống ở Ung Châu, Khâm Châu, Liêm Châu.
 *   **01/1076:** Quân Lý hạ thành Ung Châu sau 42 ngày vây hãm.
 *   **02/1076:** Quân Lý hạ thành Liêm Châu.
 *   **1076:** Lập Quốc Tử Giám, trường đại học đầu tiên của Việt Nam.
 *   **1077:** Cuộc kháng chiến chống Tống lần thứ hai diễn ra. Quân Tống do Quách Quỳ chỉ huy bị chặn đứng trên phòng tuyến sông Như Nguyệt và cuối cùng phải rút quân về nước.
+*   **1076:** Lý Thường Kiệt công bố bài thơ *Nam quốc sơn hà* trên phòng tuyến sông Như Nguyệt. Chữ "Thiên thư" được cho là ám chỉ bộ sách ngụy tạo của vua quan nhà Tống, dùng chính niềm tin của địch để đánh vào tinh thần địch.
+*   **1077:** Trong các trận chiến ác liệt tại Kháo Túc, Phú Lương, nhiều tướng lĩnh và hoàng thân đã anh dũng hy sinh, bao gồm Trung Thành vương Lý Hoằng Chân, Tín Nghĩa vương Lý Chiêu Văn, Phò mã Hoàng Kiện, tướng Nguyễn Căn, cùng các phu nhân trực tiếp cầm quân.
 *   **1084:** Lê Văn Thịnh sang nhà Tống bàn việc cương giới, đòi lại được 6 huyện và 3 động.
 *   **1086:** Vua Lý Nhân Tông cho phép mở khoa thi đầu tiên để tuyển chọn nhân tài.
 *   **1089:** Vua Lý Nhân Tông định rõ các chức quan văn võ, phân định phẩm cấp quan lại trong triều đình.
