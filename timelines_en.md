@@ -497,13 +497,14 @@
 *   **Oct. 1775:** The Trinh commander Hoang Ngu Phuc died on his way back to the North after an unsuccessful campaign to completely subdue the South due to disease and exhaustion within his army.
 *   **Jul. 1775:** Generals Bui Thi Xuan and Vo Dinh Tu were dispatched to attack Phu Yen, defeating the Nguyen forces commanded by Tong Phuc Hiep.
 *   **1775:** Two Chinese generals, Tap Dinh and Ly Tai, led their "Loyal" (Trung Nghia) and "Harmonious" (Hoa Nghia) regiments to join the Tay Son army, significantly boosting its military strength.
+*   **Mar. 1776:** Nguyen Nhac proclaimed himself King of Tay Son (Tay Son Vuong) at Quy Nhon Citadel.
 *   **1776:** Nguyen Nhac repaired and expanded the Do Ban citadel to serve as the base for the Tay Son forces.
 *   **Early 1776:** Le Quy Don was appointed Vice Governor (Hiep Tran) of Thuan Hoa and Quang Nam by the Trinh court, where he compiled the *Phu Bien Tap Luc*.
 *   **1777:** Nguyen Hue advanced to attack Gia Dinh, annihilating almost all of the Nguyen lords' forces. Lord Nguyen Phuc Thuan and the new king Nguyen Phuc Duong were both captured and killed. Nguyen Anh (nephew of the Nguyen lord) escaped to Tho Chau island.
 *   **Sep. 19, 1777:** The new Nguyen King, Nguyen Phuc Duong (Tan Chinh Vuong), was captured and killed by Tay Son forces at Ba Vac.
 *   **Oct. 18, 1777:** Lord Nguyen Phuc Thuan (Due Tong) was captured and killed by Tay Son forces at Long Xuyen. This event effectively wiped out the direct leadership of the Nguyen Lords, leaving the young Nguyen Anh as the sole survivor to continue the struggle.
 *   **1778:** Nguyen Nhac proclaimed himself Emperor Minh Duc (Thai Duc), establishing the era name Thai Duc. He expanded and reinforced the former Do Ban citadel, renaming it **Hoang De Citadel** (Imperial Citadel) to serve as the capital.
-*   **Spring 1778:** Nguyen Anh was honored by his generals as **Grand Marshal** (Dai Nguyen Soai) in Saigon, acting as the head of state.
+*   **Jan. 1778:** Nguyen Anh was honored by his generals as **Grand Marshal** (Dai Nguyen Soai) in Gia Dinh.
 *   **1778:** Female General Bui Thi Xuan organized and trained four brigades of female soldiers and an elite war elephant corps, contributing greatly to the Tay Son army's prowess.
 *   **1778:** Alongside Bui Thi Xuan, female generals Tran Thi Lan, Nguyen Thi Dung, and Huynh Thi Cuc commanded female brigades. General Le Van Hung defeated the Nguyen army led by Le Van Quan in Dien Khanh and Binh Thuan, earning the moniker "Le the Invincible".
 *   **Jul. 13, 1778:** Charles Chapman, an envoy of the British East India Company, arrived in Quy Nhon to seek trade relations with the Tay Son, recording valuable observations about the region's situation.
@@ -518,6 +519,7 @@
 *   **1782:** In Dang Ngoai (the North), the 'Revolt of the Palace Guards' broke out. The rebellious guards further weakened the Trinh lords' court, creating favorable conditions for the later advance of the Tay Son army to the North.
 *   **Oct. 19, 1782 (13th of the 9th lunar month):** Lord Trinh Sam passed away. His young son Trinh Can succeeded him (Dien Do Vuong).
 *   **Nov. 28, 1782 (24th of the 10th lunar month):** The "Revolt of the Palace Guards" (Loạn kiêu binh) erupted. Soldiers killed Regent Hoang Dinh Bao (Huy Quan Cong), deposed Trinh Can, and installed Trinh Tong as Lord (Doan Nam Vuong).
+*   **Feb. 24, 1783:** In a naval battle against the Tay Son at Gia Dinh, the Nguyen army attempted a fire attack but failed due to a sudden change in wind direction, resulting in the destruction of their own fleet. Nguyen Anh was forced to flee to Phu Quoc Island.
 *   **1783:** Nguyen Hue and Nguyen Lu led troops to attack; Nguyen Anh was again defeated and had to flee to Siam (Thailand) to seek aid.
 *   **Mar. 1784:** Bishop Pigneau de Béhaine (Bá Đa Lộc) represented Nguyen Anh in going to France to ask for help.
 *   **Jul. 25, 1784:** 50,000 Siamese troops (20,000 naval, 30,000 land) led by Chao Tseng and Chao Sương, along with Nguyen Anh, invaded Gia Dinh.
@@ -561,6 +563,7 @@
 *   **1793:** Nguyen Anh attacked Quy Nhon. Nguyen Nhac asked Phu Xuan for help. Quang Toan's army came to relieve the siege and then captured Quy Nhon Citadel. Nguyen Nhac died of indignation.
 *   **Nov. 18, 1793 (16th of the 10th lunar month):** The exiled King Le Chieu Thong passed away in Beijing, China, after failing to secure Qing support to restore his throne.
 *   **Dec. 13, 1793:** Nguyen Nhac (Emperor Thai Duc) passed away, reportedly from grief and humiliation after his capital Quy Nhon was taken over by his nephew's forces from Phu Xuan.
+*   **Apr. 1793:** Prince Canh was officially invested as Crown Prince (Dong Cung).
 *   **May 1793:** Le Van Duyet, commanding the Dieu Vo regiment, captured the **Uc Son** stronghold (Phu Yen). This victory was crucial in linking the naval and land routes for the Nguyen army.
 *   **May 1794:** The Tay Son army, led by Tran Quang Dieu, besieged the Dien Khanh citadel. Inside, Prince Canh (Nguyen Anh's son) and Bishop Pigneau de Béhaine led the defense. This siege demonstrated the effectiveness of the new Vauban-style fortifications built by the Nguyen.
 *   **1795:** Turmoil occurred within the Tay Son court; General Vo Van Dung staged a coup in Phu Xuan, arresting and executing the corrupt Grand Tutor Bui Dac Tuyen and his faction, causing deep internal divisions.
@@ -579,6 +582,7 @@
 *   **Jan. 1802:** The Battle of Tran Ninh and Dau Mau took place. General Bui Thi Xuan fought bravely commanding elephant troops. General Huynh Thi Cuc sacrificed herself in battle to allow the royal forces to retreat.
 *   **Jun. 16, 1802:** In the retreat to the North, General Nguyen Van Tuyet (Do Doc Tuyet) died in battle at Xuong Giang protecting King Canh Thinh. Empress Dowager Bui Thi Nhan, along with female generals Tran Thi Lan and Nguyen Thi Dung, committed suicide to avoid capture.
 *   **Jun. 1802:** After Binh Dinh Citadel fell, Nguyen Anh officially ascended the throne as Emperor in Phu Xuan, establishing the era name Gia Long.
+*   **May 31, 1802:** Nguyen Anh officially established the era name **Gia Long** and issued a general amnesty.
 *   **Jul. 20, 1802:** The Nguyen army captured Thang Long. Before the capture, the advancing Nguyen forces had already imposed heavy contributions on the northern population, sparking early discontent. King Canh Thinh and prominent generals were captured. According to the text *Nhà Tây Sơn*, General Tran Quang Dieu was skinned alive, General Vo Van Dung was executed (beheaded), while General Bui Thi Xuan was executed by "lighting the sky lantern" (wrapped in wax-soaked cloth and burned). Gia Long also ordered the exhumation of the graves of Nguyen Nhac and Nguyen Hue, pounding their bones into powder and imprisoning their skulls in a dungeon. The Tay Son dynasty officially collapsed.
 *   **Jul. 20, 1802:** Nguyen Anh entered Thang Long citadel, completing the unification of the country and officially ending the Tay Son dynasty. This marked the beginning of the Nguyen Dynasty's rule over a unified Vietnam stretching from the North to the South.
 
@@ -603,6 +607,7 @@
 *   **May 1805:** Construction of the **Hue Citadel** (Kinh thành Huế) began, a massive fortification project combining Eastern geomancy and Western Vauban military architecture.
 *   **1805 - 1820:** The Tale of Kieu was composed by Nguyen Du in chữ Nôm (Vietnamese demotic script).
 *   **May 1806:** Emperor Gia Long officially held the coronation ceremony at the Thai Hoa Palace, taking the title of **Emperor** (Hoàng Đế).
+*   **Sep. 1811:** Empress Dowager Hieu Khang (mother of Emperor Gia Long) passed away.
 *   **1807:** Emperor Gia Long organized the first regional examination (thi Huong).
 *   **1808:** Gia Long changed Gia Dinh Garrison to Gia Dinh Citadel.
 *   **1808 - 1819:** The uprising of the Tho chieftain Quach Tat Thuc in the Son Am region (now part of Ninh Binh, Hoa Binh).
@@ -615,16 +620,18 @@
 *   **1812:** Le Van Duyet was appointed Governor-General of Gia Dinh Citadel (first term, 1812-1816), with authority over the entire Southern region. During this time, he established strict laws, eliminated banditry, and brought peace to the people.
 *   **1813:** Le Van Duyet and Nguyen Van Thuy escorted King Ang Chan II (Nac Ong Chan) back to Cambodia to restore his throne. Le Van Duyet oversaw the construction of the Nam Vang (Phnom Penh) Citadel and the La Lem Citadel to store grain and weapons.
 *   **1813:** The *Hoang Viet luat le* was carved, printed, and promulgated nationwide.
+*   **Feb. 1814:** Empress Thua Thien (wife of Emperor Gia Long) passed away.
 *   **Aug. 1815:** The **Hoang Viet luat le** (Gia Long Code) was officially promulgated nationwide.
 *   **1815:** The case of Nguyen Van Thanh began, involving a poem written by his son Nguyen Van Thuyen. This political purge led to the forced suicide of the meritorious official Nguyen Van Thanh in 1817, reflecting Gia Long's consolidation of absolute power.
 *   **1816:** Emperor Gia Long officially dispatched naval forces to the Paracel Islands to conduct surveys and plant flags. The Nguyen Dynasty also established the *Bac Hai team* to continue asserting sovereignty over both the Paracel and Spratly Islands.
-*   **1816:** Emperor Gia Long officially invested Prince Dam as Crown Prince, establishing the principle of succession to the throne.
+*   **Jun. 11, 1816:** Emperor Gia Long officially invested Prince Dam as Crown Prince, establishing the principle of succession to the throne.
 *   **1816:** Le Van Duyet ordered the construction of the **Binh Man Dao** (Pacification Wall), a defensive line stretching from Quang Nam to Binh Dinh, to prevent raids from mountain tribes and stabilize the western border.
 *   **1817:** Emperor Gia Long established the "tap am" regulation (hereditary benefits for descendants of meritorious officials).
 *   **Late 1817 - Early 1818:** Construction of the Thoai Ha Canal in An Giang began under the direction of Nguyen Van Thoai, serving both defense and agricultural irrigation in the Mekong Delta.
 *   **1818:** Emperor Gia Long promulgated official regulations on salaries and spring attire allowances for officials; implemented the "duong liem" (anti-corruption allowance) for prefectural and district officials.
 *   **1819:** Le Van Duyet was appointed as the Imperial Commissioner (Kinh Luoc Su) to Thanh Hoa and Nghe An to suppress banditry and stabilize the region suffering from famine and unrest. He implemented policies to pardon surrendering bandits and recruit them into the army, forming the **Thanh Thuan** and **An Thuan** regiments.
 *   **1819:** Emperor Gia Long ordered the digging of the **An Thong River** (Ruot Ngua Canal) in Gia Dinh to facilitate water transport.
+*   **Feb. 3, 1820:** Emperor Gia Long passed away.
 *   **1819 - 1824:** The Vinh Te Canal was dug along the southwestern border (An Giang, Kien Giang), a massive project employing tens of thousands of workers to define the border and develop the region.
 *   **1820 - 1832:** During his tenure as Governor General of Gia Dinh, Le Van Duyet established a private classical opera (*Hát bội*) troupe, significantly contributing to the introduction and popularization of this art form in Southern Vietnam.
 *   **Feb. 14, 1820:** Emperor Minh Mang officially ascended the throne at the Thai Hoa Palace. He established the *Van thu phong* (Chancellery) to handle administrative documents.

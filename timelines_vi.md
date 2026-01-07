@@ -497,13 +497,14 @@
 *   **10/1775:** Thống tướng quân Trịnh là Hoàng Ngũ Phúc qua đời trên đường rút quân về Bắc sau chiến dịch Nam tiến không thành công trọn vẹn do dịch bệnh và sự kháng cự dai dẳng.
 *   **07/1775:** Nguyễn Huệ cử nữ tướng Bùi Thị Xuân và tướng Võ Đình Tú đem quân đánh Phú Yên, đánh bại quân chúa Nguyễn do Tống Phúc Hiệp chỉ huy.
 *   **1775:** Hai tướng người Hoa là Tập Đình và Lý Tài đem quân "Trung nghĩa" và "Hòa nghĩa" gia nhập nghĩa quân Tây Sơn, tăng cường đáng kể sức mạnh quân sự.
+*   **03/1776:** Nguyễn Nhạc tự xưng là Tây Sơn Vương tại thành Quy Nhơn.
 *   **1776:** Nguyễn Nhạc cho sửa sang thành Đồ Bàn (Quy Nhơn) để làm căn cứ cho nhà Tây Sơn.
 *   **Đầu 1776:** Lê Quý Đôn được triều đình Lê - Trịnh cử làm Hiệp trấn tham tán quân cơ trấn Thuận Hóa, tại đây ông đã biên soạn bộ sách *Phủ Biên Tạp Lục*.
 *   **1777:** Nguyễn Huệ tiến đánh Gia Định, tiêu diệt gần hết lực lượng của chúa Nguyễn. Chúa Nguyễn Phúc Thuần và Tân Chính vương Nguyễn Phúc Dương đều bị bắt và bị giết. Nguyễn Ánh (cháu chúa Nguyễn) chạy thoát ra đảo Thổ Châu.
 *   **19/09/1777:** Tân Chính vương Nguyễn Phúc Dương bị quân Tây Sơn bắt và giết tại Ba Vác.
 *   **18/10/1777:** Chúa Nguyễn Phúc Thuần (Duệ Tông) bị quân Tây Sơn bắt và giết tại Long Xuyên. Nguyễn Ánh may mắn thoát chết trong cuộc truy sát này, trở thành người kế thừa duy nhất của dòng họ Nguyễn để tiếp tục cuộc chiến.
 *   **1778:** Nguyễn Nhạc lên ngôi Hoàng đế, xưng là Minh Đức Hoàng Đế, đặt niên hiệu Thái Đức. Ông cho mở rộng quy mô thành Đồ Bàn cũ, xây dựng tráng lệ và đổi tên thành **Hoàng Đế thành** để làm kinh đô.
-*   **Mùa Xuân 1778:** Nguyễn Ánh được các tướng tôn làm **Đại Nguyên soái** tại Sài Gòn, tạm quyền coi việc nước.
+*   **01/1778:** Nguyễn Ánh được các tướng tôn làm **Đại Nguyên soái** tại Gia Định.
 *   **1778:** Nữ tướng Bùi Thị Xuân tổ chức và huấn luyện 4 lữ đoàn nữ binh cùng đội tượng binh thiện chiến, đóng góp lớn vào sức mạnh quân đội Tây Sơn.
 *   **1778:** Cùng với Bùi Thị Xuân, các nữ tướng Trần Thị Lan, Nguyễn Thị Dung, Huỳnh Thị Cúc trực tiếp chỉ huy các lữ đoàn nữ binh. Tướng Lê Văn Hưng đánh bại quân Nguyễn do Lê Văn Quân chỉ huy tại Diên Khánh và Bình Thuận, khiến quân Nguyễn khiếp sợ gọi là "Lê Vô Địch".
 *   **13/07/1778:** Charles Chapman, phái viên của Công ty Đông Ấn Anh, đến Quy Nhơn để tìm kiếm quan hệ thương mại với nhà Tây Sơn, để lại những ghi chép quan trọng về tình hình Đàng Trong.
@@ -518,6 +519,7 @@
 *   **1782:** Tại Đàng Ngoài, xảy ra "Loạn kiêu binh", quân lính kiêu binh nổi loạn làm triều chính họ Trịnh càng thêm suy yếu, tạo điều kiện cho quân Tây Sơn tiến ra Bắc sau này.
 *   **19/10/1782 (13/09 năm Nhâm Dần):** Chúa Trịnh Sâm mất. Con nhỏ là Trịnh Cán nối ngôi (Điện Đô Vương).
 *   **28/11/1782 (24/10 năm Nhâm Dần):** "Loạn kiêu binh" bùng nổ. Quân lính giết Quận huy Hoàng Đình Bảo, phế truất Trịnh Cán và đưa Trịnh Tông (Trịnh Khải) lên thay (Đoan Nam Vương).
+*   **24/02/1783:** Trận thủy chiến tại sông Gia Định (khu vực Vàm Cỏ - Cá Trê), quân Nguyễn dùng hỏa công nhưng gặp gió đông bắc thổi mạnh ngược lại, tự thiêu rụi thuyền bè. Nguyễn Ánh phải chạy ra đảo Côn Lôn rồi Phú Quốc.
 *   **1783:** Nguyễn Huệ và Nguyễn Lữ đem quân vào đánh, Nguyễn Ánh lại thua trận, phải chạy sang Xiêm cầu viện.
 *   **Mùa đông 1784:** Nguyễn Ánh cử Hoàng tử Cảnh đi cùng Giám mục Pigneau de Béhaine (Bá Đa Lộc) sang Pháp cầu viện.
 *   **25/07/1784:** 5 vạn quân Xiêm (2 vạn thủy, 3 vạn bộ) do Chiêu Tăng, Chiêu Sương chỉ huy cùng Nguyễn Ánh tiến vào xâm lược Gia Định.
@@ -561,6 +563,7 @@
 *   **1793:** Nguyễn Ánh tấn công Quy Nhơn. Nguyễn Nhạc cầu cứu Phú Xuân. Quân của Quang Toản vào giải vây rồi chiếm luôn thành Quy Nhơn. Nguyễn Nhạc uất hận mà chết.
 *   **18/11/1793 (16/10 năm Quý Sửu):** Vua lưu vong Lê Chiêu Thống qua đời tại Yên Kinh, Trung Quốc sau nhiều năm cầu viện nhà Thanh bất thành.
 *   **13/12/1793:** Nguyễn Nhạc (Thái Đức Hoàng đế) qua đời, được cho là vì uất ức sau khi thành Quy Nhơn bị quân của cháu ruột (Quang Toản) chiếm đoạt.
+*   **04/1793:** Hoàng tử Cảnh được sách lập làm Đông Cung Thái tử.
 *   **05/1793:** Lê Văn Duyệt, chỉ huy vệ Diệu Võ, đánh chiếm đồn **Úc Sơn** (Phú Yên). Chiến thắng này giúp quân Nguyễn khai thông đường thủy bộ.
 *   **05/1794:** Quân Tây Sơn do Trần Quang Diệu chỉ huy vây hãm thành Diên Khánh. Bên trong, Hoàng tử Cảnh và Giám mục Bá Đa Lộc chỉ huy phòng thủ. Cuộc vây hãm này đã chứng minh hiệu quả phòng thủ của tòa thành kiểu Vauban do Nguyễn Ánh xây dựng.
 *   **1795:** Nội bộ triều Tây Sơn xảy ra biến loạn; Đại Tư đồ Võ Văn Dũng làm binh biến tại Phú Xuân, bắt và giết Thái sư Bùi Đắc Tuyên cùng phe cánh, gây ra sự chia rẽ sâu sắc trong triều đình.
@@ -579,6 +582,7 @@
 *   **01/1802:** Trận chiến ác liệt tại Trấn Ninh và Đâu Mâu (Quảng Bình). Nữ tướng Bùi Thị Xuân chỉ huy tượng binh chiến đấu dũng cảm. Nữ tướng Huỳnh Thị Cúc đã hy sinh thân mình để chặn hậu cho vua Cảnh Thịnh rút lui.
 *   **16/06/1802:** Trên đường rút chạy ra Bắc, tại Xương Giang, Đô đốc Tuyết (Nguyễn Văn Tuyết) tử trận khi bảo vệ vua Cảnh Thịnh. Thái hậu Bùi Thị Nhạn cùng các nữ tướng Trần Thị Lan, Nguyễn Thị Dung đều tự sát để giữ tròn khí tiết.
 *   **06/1802:** Sau khi thành Bình Định thất thủ, Nguyễn Ánh chính thức lên ngôi Hoàng đế ở Phú Xuân, đặt niên hiệu là Gia Long.
+*   **31/05/1802 (01/05 năm Nhâm Tuất):** Nguyễn Ánh chính thức đặt niên hiệu là **Gia Long**, ban chiếu đại xá thiên hạ.
 *   **20/07/1802:** Quân Nguyễn tiến ra chiếm được Thăng Long. Trước đó, quân Nguyễn đã bắt người dân Bắc Hà đóng góp nhiều khoản nặng nề, gây ra sự bất mãn ngay từ đầu. Vua Cảnh Thịnh bị bắt. Các danh tướng bị hành quyết tàn khốc. Theo sách *Nhà Tây Sơn*, Trần Quang Diệu bị lột da, Võ Văn Dũng bị xử trảm, còn nữ tướng Bùi Thị Xuân vì uy nghi khiến voi không dám giày nên bị hành hình bằng cách "điểm thiên đăng" (tẩm sáp đốt). Gia Long còn ra lệnh đào mộ Nguyễn Nhạc, Nguyễn Huệ, giã nát hài cốt rồi vứt đi, còn xương đầu thì bỏ vào ngục tối (gọi là Ông Vò). Triều đại Tây Sơn chính thức sụp đổ.
 *   **20/07/1802:** Nguyễn Ánh tiến vào thành Thăng Long, hoàn thành việc thống nhất đất nước và chính thức chấm dứt triều đại Tây Sơn. Đây là sự kiện mở đầu cho triều đại nhà Nguyễn cai trị một nước Việt Nam thống nhất từ Bắc chí Nam.
 
@@ -603,6 +607,7 @@
 *   **05/1805:** Bắt đầu xây dựng **Kinh thành Huế**, công trình kiến trúc quân sự quy mô lớn kết hợp giữa phong thủy phương Đông và kiểu đồn lũy Vauban phương Tây.
 *   **1805 - 1820:** Truyện Kiều được Nguyễn Du sáng tác bằng chữ Nôm.
 *   **05/1806:** Vua Gia Long chính thức cử hành lễ lên ngôi **Hoàng đế** tại điện Thái Hòa, khẳng định vị thế độc tôn của vương triều.
+*   **09/1811:** Hiếu Khang Hoàng thái hậu (mẹ vua Gia Long) băng hà.
 *   **1807:** Vua Gia Long tổ chức khoa thi Hương đầu tiên.
 *   **1808:** Gia Long cho đổi Gia Định trấn thành Gia Định thành.
 *   **1808 - 1819:** Cuộc nổi dậy của Thổ tù Quách Tất Thúc ở vùng Sơn Âm (nay thuộc Ninh Bình, Hòa Bình).
@@ -615,16 +620,18 @@
 *   **1812:** Lê Văn Duyệt được cử làm Tổng trấn Gia Định thành (lần thứ nhất, 1812-1816), quản lý toàn bộ vùng Gia Định. Ông nổi tiếng với việc thiết lập trật tự, trị an nghiêm minh, khiến trộm cướp phải khiếp sợ và dân chúng được yên ổn.
 *   **1813:** Lê Văn Duyệt và Nguyễn Văn Thụy đưa vua Nặc Ông Chân về nước Chân Lạp (Campuchia) phục vị. Lê Văn Duyệt cho xây thành Nam Vang và thành La Lem để chứa lương thực, khí giới bảo hộ Chân Lạp.
 *   **1813:** Bộ *Hoàng Việt luật lệ* được khắc in và ban hành trên toàn quốc.
+*   **02/1814:** Thừa Thiên Cao Hoàng hậu (Tống Thị Lan) băng hà.
 *   **08/1815:** Bộ **Hoàng Việt luật lệ** (Luật Gia Long) chính thức được ban hành.
 *   **1815:** Vụ án Nguyễn Văn Thành bắt đầu từ bài thơ của người con trai là Nguyễn Văn Thuyên. Vụ án này dẫn đến cái chết của đại công thần Nguyễn Văn Thành vào năm 1817, đánh dấu cuộc thanh trừng nội bộ để củng cố quyền lực của vua Gia Long.
 *   **1816:** Vua Gia Long chính thức cử thủy quân ra Hoàng Sa để đo đạc và cắm cờ. Nhà Nguyễn thành lập thêm *đội Bắc Hải* để tiếp tục thực thi chủ quyền tại cả Hoàng Sa và Trường Sa.
-*   **1816:** Vua Gia Long lập Hoàng tử Đảm làm Thái tử, xác lập ngôi vị kế thừa chính thống.
+*   **11/06/1816:** Vua Gia Long lập Hoàng tử thứ tư (Nguyễn Phúc Đảm) làm Hoàng Thái tử.
 *   **1816:** Lê Văn Duyệt cho đắp **"Bình Man đạo"** (lũy Bình Man) dài từ Quảng Nam đến Bình Định, có trồng tre và đào hào, để ngăn chặn sự xâm lấn của các bộ tộc miền núi, ổn định biên giới phía Tây.
 *   **1817:** Vua Gia Long định lệ "tập ấm" (quyền lợi kế thừa cho con cháu công thần).
 *   **Cuối 1817 - Đầu 1818:** Khởi công đào kênh Thoại Hà (An Giang) dưới sự chỉ huy của Nguyễn Văn Thoại, phục vụ giao thông và quốc phòng.
 *   **1818:** Vua Gia Long ban hành điển lệ chính thức về lương bổng và tiền xuân phục cho quan lại; thực thi lệ "dưỡng liêm" (phụ cấp chống tham nhũng) cho quan phủ, huyện.
 *   **1819:** Lê Văn Duyệt được cử làm Kinh lược sứ vùng Thanh Hóa, Nghệ An để dẹp loạn trộm cướp và nạn đói. Ông thực hiện chính sách khoan hồng, cho phép trộm cướp ra đầu thú và sung vào quân đội (lập quân Thanh Thuận và An Thuận).
 *   **1819:** Vua Gia Long ra lệnh đào **sông An Thông** (kênh Ruột Ngựa) tại Gia Định để thuận tiện cho giao thông đường thủy.
+*   **03/02/1820 (19/12 năm Kỷ Mão):** Vua Gia Long băng hà.
 *   **1819 - 1824:** Đào kênh Vĩnh Tế (chạy dọc biên giới An Giang - Kiên Giang), công trình thủy lợi và quốc phòng lớn nhất thời bấy giờ, huy động hàng vạn nhân lực.
 *   **1820 - 1832:** Trong thời gian làm Tổng trấn Gia Định, Lê Văn Duyệt đã lập gánh Hát bội riêng, góp phần quan trọng vào việc du nhập và phát triển loại hình nghệ thuật này tại Nam Bộ.
 *   **14/02/1820:** Vua Minh Mạng chính thức lên ngôi Hoàng đế tại điện Thái Hòa. Vua cho đổi Thị thư viện thành **Văn thư phòng** để quản lý giấy tờ, văn thư.
