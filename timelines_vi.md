@@ -1212,6 +1212,7 @@
 *   **01/05/1972:** Quân Giải phóng giải phóng hoàn toàn tỉnh Quảng Trị.
 *   **08/05/1972:** Nixon ra lệnh thả mìn phong tỏa cảng Hải Phòng và các cửa sông miền Bắc.
 *   **28/06 - 16/09/1972:** Cuộc chiến đấu bảo vệ Thành cổ Quảng Trị diễn ra trong 81 ngày đêm vô cùng khốc liệt ("Mùa hè đỏ lửa"). Mỹ và quân đội Sài Gòn đã mở cuộc hành quân Lam Sơn 72, trút xuống thị xã Quảng Trị khối lượng bom đạn tương đương sức công phá của 7 quả bom nguyên tử. Quân Giải phóng đã chiến đấu quả cảm, chấp nhận hy sinh to lớn để giữ vững Thành cổ nhằm tạo lợi thế trên bàn đàm phán Paris. Tuy cuối cùng phải rút quân, sự kiện này đã góp phần quan trọng dẫn đến việc ký kết Hiệp định Paris.
+*   **12/10/1972:** Bí thư thứ nhất Lê Duẩn gửi điện cho Trung ương Cục miền Nam về "Nhiệm vụ cấp bách khi công bố Hiệp định Pari", chỉ đạo tranh thủ thời cơ giành quyền làm chủ ở nông thôn và các vùng ven đô thị, hình thành thế "da báo" có lợi cho cách mạng.
 *   **20/10/1972:** Việt Nam Dân chủ Cộng hòa và Hoa Kỳ đạt được thỏa thuận về dự thảo "Hiệp định về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam".
 *   **18-29/12/1972:** Mỹ tiến hành cuộc tập kích chiến lược bằng máy bay B-52 vào Hà Nội, Hải Phòng (Chiến dịch Linebacker II). Quân và dân miền Bắc làm nên chiến thắng **"Điện Biên Phủ trên không"**, bắn rơi 81 máy bay, trong đó có 34 chiếc B-52.
 *   **30/12/1972:** Mỹ buộc phải tuyên bố ngừng ném bom miền Bắc từ vĩ tuyến 20 trở ra và chấp nhận nối lại đàm phán.
@@ -1233,6 +1234,7 @@
 *   **19/03/1975:** Quân Giải phóng giải phóng hoàn toàn tỉnh Quảng Trị.
 *   **24/03/1975:** Giải phóng các tỉnh Quảng Ngãi và Tam Kỳ (tỉnh lỵ Quảng Tín).
 *   **25/03/1975:** Giải phóng thành phố Huế và toàn tỉnh Thừa Thiên.
+*   **27/03/1975:** Bộ Chính trị gửi điện (18 giờ) chỉ đạo Anh Năm Công (Võ Chí Công) và Hai Mạnh (Chu Huy Mân) về kế hoạch giải phóng Đà Nẵng, yêu cầu hành động táo bạo, bất ngờ để tiêu diệt sinh lực địch, không cho chúng rút về Sài Gòn.
 *   **29/03/1975:** Giải phóng thành phố Đà Nẵng sau một cuộc tiến công thần tốc.
 *   **01/04/1975:** Giải phóng các tỉnh Bình Định, Phú Yên.
 *   **03/04/1975:** Giải phóng các tỉnh Khánh Hòa, Cam Ranh.
@@ -1241,6 +1243,7 @@
 *   **14/04/1975:** Bộ Chính trị quyết định đặt tên chiến dịch giải phóng Sài Gòn - Gia Định là **"Chiến dịch Hồ Chí Minh"**.
 *   **21/04/1975:** Nguyễn Văn Thiệu từ chức tổng thống.
 *   **26/04/1975:** Chiến dịch Hồ Chí Minh bắt đầu. 5 cánh quân lớn của Quân Giải phóng đồng loạt tiến công vào Sài Gòn.
+*   **29/04/1975:** Vào lúc 10 giờ, Bộ Chính trị gửi điện cho Bộ Chỉ huy Chiến dịch Hồ Chí Minh chỉ thị tiếp tục tiến công vào Sài Gòn theo kế hoạch, không vì lệnh ngừng bắn của Dương Văn Minh mà dừng lại, nhằm đập tan hoàn toàn sự kháng cự của địch và giải tán chính quyền ngụy.
 *   **30/04/1975:**
     *   **10 giờ 45 phút:** Xe tăng của Quân giải phóng húc đổ cổng Dinh Độc Lập.
     *   **11 giờ 30 phút:** Lá cờ giải phóng tung bay trên nóc Dinh Độc Lập. Tổng thống Dương Văn Minh tuyên bố đầu hàng không điều kiện.
@@ -1255,7 +1258,7 @@
 *   **04/05/1975:** Quân Pôn Pốt đổ bộ lên đảo Phú Quốc.
 *   **10/05/1975:** Quân Pôn Pốt đổ bộ lên quần đảo Thổ Chu, bắt đi 515 người dân.
 *   **14/05/1975:** Chính phủ Mỹ ra lệnh cấm vận thương mại đối với Việt Nam.
-*   **15/05/1975:** Lễ mừng chiến thắng được tổ chức long trọng trên khắp cả nước.
+*   **15/05/1975:** Lễ mừng chiến thắng được tổ chức long trọng trên khắp cả nước. Tại Hà Nội, Bí thư thứ nhất Lê Duẩn đọc diễn văn chào mừng kỷ nguyên mới của nước Việt Nam hòa bình, độc lập, thống nhất và đi lên chủ nghĩa xã hội.
 *   **13/06/1975:** Toàn miền Nam bắt đầu sử dụng giờ Đông Dương, thống nhất múi giờ với miền Bắc.
 *   **29/08/1975:** Lễ khánh thành Lăng Chủ tịch Hồ Chí Minh tại Hà Nội.
 *   **04/09/1975:** Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam quyết định tiến hành đợt cải tạo tư sản mại bản lần thứ nhất.

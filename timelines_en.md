@@ -1212,6 +1212,7 @@
 *   **May 1, 1972:** The Liberation Army completely liberated Quang Tri province.
 *   **May 8, 1972:** Nixon ordered the mining of Haiphong harbor and the river mouths of the North.
 *   **Jun. 28 - Sep. 16, 1972:** The Battle of Quang Tri Citadel took place over 81 days and nights of extreme intensity. Facing Operation Lam Son 72 and a volume of bombs equivalent to seven atomic bombs dropped by the US, the Liberation Army fought heroically to hold the citadel, serving the diplomatic struggle at the Paris Conference. Although they eventually withdrew, this fierce defense significantly impacted the negotiation process leading to the Paris Peace Accords.
+*   **Oct. 12, 1972:** First Secretary Le Duan sent a telegram to the Central Office for South Vietnam (COSVN) outlining urgent tasks upon the potential announcement of a peace agreement, emphasizing the need to seize control of rural areas, establish local revolutionary administrations, and combine political and military struggles to secure a favorable position ("land grab and flag planting").
 *   **Oct. 20, 1972:** The Democratic Republic of Vietnam and the United States reached an agreement on the draft "Agreement on Ending the War and Restoring Peace in Vietnam."
 *   **Dec. 18-29, 1972:** The US conducted a strategic air raid using B-52s on Hanoi and Haiphong (Operation Linebacker II). The Vietnamese army and people achieved the **"Dien Bien Phu in the Air"** victory, shooting down 81 aircraft, including 34 B-52s.
 *   **Dec. 30, 1972:** The US was forced to declare a halt to the bombing of the North from the 20th parallel northwards and agree to resume negotiations.
@@ -1233,6 +1234,7 @@
 *   **Mar. 19, 1975:** The Liberation Army completely liberated Quang Tri province.
 *   **Mar. 24, 1975:** The provinces of Quang Ngai and Tam Ky (the capital of Quang Tin province) were liberated.
 *   **Mar. 25, 1975:** The city of Hue and the entire Thua Thien province were liberated.
+*   **Mar. 27, 1975:** The Politburo sent a directive to the Zone 5 Command regarding the plan to liberate Da Nang, emphasizing the need for bold, unexpected action to destroy enemy forces before they could retreat to Saigon.
 *   **Mar. 29, 1975:** The city of Da Nang was liberated after a lightning-fast offensive.
 *   **Apr. 1, 1975:** The provinces of Binh Dinh and Phu Yen were liberated.
 *   **Apr. 3, 1975:** The provinces of Khanh Hoa and Cam Ranh were liberated.
@@ -1241,6 +1243,7 @@
 *   **Apr. 14, 1975:** The Politburo decided to name the campaign to liberate Saigon - Gia Dinh the **"Ho Chi Minh Campaign."**
 *   **Apr. 21, 1975:** Nguyen Van Thieu resigned as president.
 *   **Apr. 26, 1975:** The Ho Chi Minh Campaign began. Five large columns of the Liberation Army simultaneously attacked Saigon.
+*   **Apr. 29, 1975:** At 10:00 AM, the Politburo sent a directive to the Ho Chi Minh Campaign Command ordering the continuation of the attack on Saigon according to the plan, ignoring Duong Van Minh's ceasefire order, to secure total victory and dissolve the enemy administration.
 *   **Apr. 30, 1975:**
     *   **10:45 AM:** A Liberation Army tank crashed through the gates of the Independence Palace.
     *   **11:30 AM:** The liberation flag flew over the roof of the Independence Palace. President Duong Van Minh announced his unconditional surrender.
@@ -1255,7 +1258,7 @@
 *   **May 4, 1975:** Pol Pot's forces landed on Phu Quoc island.
 *   **May 10, 1975:** Pol Pot's forces landed on the Tho Chu archipelago, abducting 515 civilians.
 *   **May 14, 1975:** The US government ordered a trade embargo against Vietnam.
-*   **May 15, 1975:** Victory celebration ceremonies were held solemnly across the country.
+*   **May 15, 1975:** Victory celebration ceremonies were held solemnly across the country. In Hanoi, First Secretary Le Duan delivered a speech hailing the complete victory and the beginning of a new era of independence, unity, and socialism.
 *   **Jun. 13, 1975:** The entire South began using Indochina Time, unifying the time zone with the North.
 *   **Aug. 29, 1975:** The inauguration ceremony of the Ho Chi Minh Mausoleum was held in Hanoi.
 *   **Sep. 4, 1975:** The Provisional Revolutionary Government of the Republic of South Vietnam decided to carry out the first wave of reform of the comprador bourgeoisie.
