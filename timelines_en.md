@@ -154,6 +154,7 @@
 *   **992:** King Le Dai Hanh ordered *Phu quoc* Ngo Tu An to open a land route from Nam Gioi port (Ha Tinh) through Ngang Pass to Dia Ly prefecture (Quang Binh).
 *   **996:** Le Dai Hanh received Song envoy Li Ruozhuo, continuing to assert independence and dismissing responsibility for border raids.
 *   **1005:** Le Dai Hanh passed away. After internal strife, Le Long Dinh killed his brother Le Long Viet to seize the throne.
+*   **1009:** King Le Long Dinh ordered the digging of canals, road construction, and the erection of milestones to mark distances in the Chau Ai region (Thanh Hoa), facilitating transport.
 
 ### **Dai Viet Period (Ly Dynasty, 1009 - 1225)**
 
@@ -175,6 +176,7 @@
 *   **1039:** Prince Ly Nhat Quang (Ly Hoang) was appointed to administer Nghe An, where he successfully managed tax collection and stabilized the southern frontier.
 *   **Feb. 1040:** King Ly Thai Tong taught palace maids to weave brocade and distributed all Song dynasty brocade from the treasury to officials to demonstrate the use of domestic goods and rejection of Song goods.
 *   **1042:** The court promulgated the Hinh Thu (Penal Code), the first written law code of Vietnam. It included regulations prohibiting the sale of adult males (*hoang nam*) as slaves.
+*   **Nov. 1042:** King Ly Thai Tong ordered the erection of road signs and distance markers to assist travelers, marking an early development in public infrastructure.
 *   **Jan. 1044:** Ly Thai Tong personally led a campaign against Champa, beheading the Champa king Sạ Đẩu (Jaya Simhavarman II) in battle.
 *   **1049:** King Ly Thai Tong ordered the construction of Dien Huu Pagoda (One Pillar Pagoda).
 *   **1053:** Under the leadership of Khai Quoc Vuong, the Ly army launched a campaign to assist Nung Tri Cao in establishing the Kingdom of Dai Nam in the Guangdong-Guangxi region.
@@ -218,23 +220,28 @@
 *   **Feb. 1149:** The Van Don trading post (Quang Ninh) was established as a place for merchant ships from other countries to trade, officially opening the first international trading port.
 *   **Apr. 21, 1151:** National Preceptor Vien Thong passed away.
 *   **1150:** The Do Anh Vu rebellion occurred in the royal court.
+*   **Nov. 1161:** King Ly Anh Tong sent To Hien Thanh to patrol the southwestern coastal borders to maintain security.
 *   **1164:** The Song dynasty officially invested King Ly Anh Tong as the **King of An Nam** (An Nam Quoc Vuong); the name "An Nam" was officially used as the national title in diplomatic relations from this point.
+*   **1171 - 1172:** King Ly Anh Tong personally patrolled the islands and coastal areas, surveying the terrain and documenting local customs and geography to compile the *Nam Bac Phien Gioi Dia Do* (Map of Northern and Southern Frontiers).
 *   **Aug. 14, 1175:** Ly Anh Tong passed away, Ly Long Can ascended the throne (Ly Cao Tong) at the age of 2.
 *   **1181:** A great famine occurred, causing nearly half the population to die.
 *   **1198:** King Ly Cao Tong, following the advice of Dam Di Mong, ordered the dismissal of monks who did not strictly follow precepts, forcing them to return to secular life to perform corvee labor, reorganizing Buddhism and society.
 *   **13th century:** Italian explorer Marco Polo visited and described Con Dao Island in his memoirs. In the same century, Islam was also introduced, primarily through the Cham community.
 *   **1203:** King Ly Cao Tong ordered the construction of many lavish palaces, causing further misery to the people, and banditry arose.
+*   **Aug. 1207:** King Ly Cao Tong issued a royal edict apologizing to the people for his negligence and mistakes in governance that led to hardships, promising reforms.
 *   **Jan. 1209:** The Quach Boc rebellion broke out in the capital Thang Long, forcing King Ly Cao Tong to flee. Crown Prince Sam fled to Hai Ap (Thai Binh), was sheltered by the Tran clan, and married Tran Thi Dung.
 *   **1210:** Ly Cao Tong passed away, Ly Hao Sam ascended the throne (Ly Hue Tong). The power of the Tran clan grew stronger.
 *   **1211:** Ly Hue Tong officially invested Tran Thi Dung as the Queen Consort (Nguyen Phi), marking the Tran clan's deep entrenchment in the royal court's power structure.
 *   **Jun. 1225:** Ly Hue Tong was ill and had no son, so he passed the throne to his second daughter, Ly Thien Hinh, or Ly Chieu Hoang (7 years old). She became the first and only female monarch in Vietnamese history.
 *   **Jan. 10, 1226:** Under the arrangement of Tran Thu Do, Ly Chieu Hoang ceded the throne to her husband, Tran Canh (Tran Thai Tong). The Ly dynasty ended.
+*   **1226:** Prince Ly Long Tuong, a son of King Ly Anh Tong, left the country with his followers to seek refuge in Goryeo (Korea), becoming the ancestor of the Ly clan in Korea.
 
 ### **Dai Viet Period (Tran Dynasty, 1225 - 1400)**
 
 *   **Aug. 1226:** Tran Thu Do forced Ly Hue Tong (who had become a monk) to commit suicide at Chan Giao Pagoda.
 *   **1229:** The Song dynasty officially recognized Tran Thai Tong as the King of An Nam.
 *   **1230:** The law codes Quoc trieu thong che and Quoc trieu thuong le were promulgated.
+*   **Apr. 1232:** The Tran court, under Tran Thu Do's directive, ordered the descendants of the Ly clan to change their surname to "Nguyen" to prevent any attempts to restore the former dynasty.
 *   **1237:** The Tran Lieu rebellion occurred after Tran Thu Do forced King Tran Thai Tong to marry his older brother's wife, Princess Thuan Thien.
 *   **1242:** The court carried out administrative reforms, dividing the country into 12 routes (lo).
 *   **1247:** Nguyen Hien passed the imperial examination as Trang Nguyen (First Laureate) at the age of 12, becoming the youngest First Laureate in Vietnamese history.
@@ -289,6 +296,7 @@
 *   **Oct. 1341:** King Tran Du Tong ordered the compilation of the *Hoang trieu dai dien* and *Hinh thu*.
 *   **1353:** Fa Ngum unified the Lao mueang and established the Kingdom of Lan Xang, initiating an important period of relations on the western border.
 *   **1361:** Champa under King Che Bong Nga began attacks and raids on Dai Viet, starting a long period of conflict.
+*   **Jun. 1366:** King Tran Du Tong was robbed of his imperial seal and sword while on a pleasure trip to Me So, reflecting the decline in royal authority and security.
 *   **May 25, 1369:** Tran Du Tong died without an heir due to weakened health caused by excessive indulgence and intemperate lifestyle during his reign.
 *   **Jul. 18, 1369:** Duong Nhat Le (Tran Du Tong's adopted son) ascended the throne with the consent of Empress Dowager Hien Tu, following Du Tong's will.
 *   **Dec. 14, 1370:** Tran Phu (later Tran Nghe Tong) ascended the throne after Duong Nhat Le was deposed.
@@ -309,6 +317,7 @@
 *   **Apr. 1397:** Under the direction of Ho Quy Ly, the court carried out major administrative reforms, changing routes (lo) to circuits (tran) and reorganizing the levels of prefectures (phu), sub-prefectures (chau), and districts (huyen).
 *   **1398:** For the first time in history, the court ordered a nationwide land survey.
 *   **April 1398:** Ho Quy Ly forced Emperor Tran Thuan Tong to abdicate in favor of his two-year-old son, Tran Thieu De, and then forced him to retire to a secluded place in Thanh Hoa.
+*   **Jun. 1399:** Ho Quy Ly proclaimed himself *Quoc To Chuong Hoang De*, adopting imperial regalia and using a gold parasol, foreshadowing his usurpation.
 *   **May 1399:** Ho Quy Ly sent his trusted general, Pham Kha Vinh, to the former emperor's residence. Pham Kha Vinh attempted to force Tran Thuan Tong to commit suicide by poison, but failed. Finally, Pham Kha Vinh strangled the former emperor to death. Tran Thuan Tong was buried at Yen Sinh mausoleum.
 
 ### **Ho Dynasty Period (1400 - 1407)**
@@ -318,6 +327,7 @@
 *   **Dec. 1400:** Ho Quy Ly ceded the throne to his son Ho Han Thuong, proclaiming himself Retired Emperor. Ho Han Thuong began taxing merchant ships.
 *   **Mar. 1401:** Ho Han Thuong issued a decree "limiting household slaves," regulating the number of slaves allowed based on official rank.
 *   **Jul. 1402:** The Ho court sent troops to attack Champa. The Champa king, Ba Dich Lai, had to cede the lands of Chiem Dong and Co Luy (now Quang Nam, Quang Ngai). The Ho court divided this area into four prefectures: Thang, Hoa, Tu, and Nghia.
+*   **Sep. 1403:** King Ho Han Thuong established the **Quang Te** office, a state-run medical service using acupuncture and moxibustion to treat diseases for the people.
 *   **1403:** The Ming dynasty began preparing to invade Dai Ngu.
 *   **Feb. 1404:** Ho Han Thuong revised the examination system, for the first time including mathematics as an official examination subject.
 *   **1404:** Ho Han Thuong ordered the digging of the Lien Cang canal connecting Tan Binh and Thuan Hoa, but the project was abandoned due to constant sand silting.
@@ -399,6 +409,8 @@
 *   **1443 - 1459:** Phan Phu Tien compiled the *Đại Việt sử ký tục biên* (Continued History of Dai Viet) from Le Van Huu's *Đại Việt sử ký* (History of Dai Viet).
 *   **1460:** Nghi Dan usurped the throne. The Six Ministries (Lại, Hộ, Lễ, Binh, Hình, Công - Personnel, Finance, Rites, War, Justice, Public Works) and Six Offices of Scrutiny were established for the first time.
 *   **Jun. 1460:** High-ranking officials Nguyen Xi and Dinh Liet staged a coup, overthrew Nghi Dan, and placed Le Tu Thanh on the throne (Le Thanh Tong).
+*   **Aug. 1460:** King Le Thanh Tong issued an edict requiring people with the surname "Tran" to change it to "Trinh" to avoid a naming taboo involving his grandmother, Pham Ngoc Tran.
+*   **Oct. 1462:** King Le Thanh Tong set the retirement age for officials at 65 and for clerks and scholars at 60.
 *   **1463:** A doctoral examination was held, Luong The Vinh ranked as Trang Nguyen (First Laureate). The triennial cycle for metropolitan examinations was officially established.
 *   **1466:** Le Thanh Tong divided the country into 12 Thua Tuyen provinces. He established the **Five Military Commissions** (Ngu Phu) and consolidated the Six Ministries system, reorganizing the administrative and military structure.
 *   **1469:** King Le Thanh Tong ordered the mapping of the 12 Thua Tuyen provinces. Thua Tuyen Nam Sach was renamed Thua Tuyen Hai Duong; this was the first time the name "Hai Duong" appeared.
@@ -407,7 +419,9 @@
 *   **1479:** The historical chronicle *Dai Viet sử ký toàn thư* (Complete History of Dai Viet) was first completed by Ngo Si Lien.
 *   **1479:** During the war with Lan Xang (1478 - 1480), Dai Viet forces advanced deep into Lao territory, capturing the capital Luang Prabang.
 *   **1483:** The court promulgated the *Quoc trieu hinh luat* (National Dynasty's Penal Code), commonly known as the Hong Duc Code.
+*   **Mar. 1484:** King Le Thanh Tong issued strict edicts prohibiting abortion, classifying it as a crime damaging to ethics and life, with severe penalties for husbands who failed to prevent it.
 *   **1484:** King Le Thanh Tong ordered the erection of stone steles at the Temple of Literature to record the names of successful doctoral candidates, retroactively starting from the 1442 examination.
+*   **Feb. 1496:** King Le Thanh Tong composed a poem praying for rain at the Hoang Huu temple; it rained heavily shortly after.
 *   **May 1488:** Imperial Concubine Nguyen Thi Can (Chieu Nhan), formerly a palace slave, gave birth to Prince Le Tuan (later Emperor Le Uy Muc).
 *   **1490:** The map of the 13 provinces of the country was redefined.
 *   **1497:** King Le Thanh Tong passed away. Le Hien Tong ascended the throne.
@@ -430,6 +444,7 @@
 *   **1529:** Mac Dang Dung ceded the throne to his son Mac Dang Doanh and retired as Retired Emperor.
 *   **Jan. 1, 1530:** Mac Dang Doanh ascended the throne, taking the era name Dai Chanh.
 *   **1533:** In Ai Lao (Laos), Nguyen Kim (a former Le official) found Le Ninh (son of King Le Chieu Tong), established him as king (Le Trang Tong), and began the "support the Le, destroy the Mac" movement.
+*   **1533:** Dutch peas (Dau Ha Lan) were introduced to Vietnam for the first time by Dutch merchants arriving in the Southern region (under Le Trang Tong) and later spreading to the North.
 *   **1535:** Nguyen Binh Khiem, a renowned scholar, poet, and prophet (known as Trang Trinh), passed the imperial examination as Trang Nguyen under the Mac dynasty.
 *   **1537:** The Ming dynasty, under the pretext of "punishing" the Mac, prepared troops at the border, putting pressure on the Mac court.
 *   **1538:** Giap Hai passed the imperial examination as Trang Nguyen under the Mac dynasty.
@@ -450,6 +465,7 @@
 *   **Dec. 1592:** Trinh Tung captured Mac Mau Hop. Mau Hop was hung alive for three days and then beheaded at Bo De sandbank. The Mac dynasty in Thang Long officially collapsed.
 *   **Early 1593:** Descendants of the Mac (Mac Kinh Chi) continued to rise up in Hai Duong but were quickly suppressed. The remnants of the Mac dynasty retreated to Cao Bang and continued to hold out. The North-South Dynasties War essentially ended.
 *   **Apr. 16, 1593:** The Le king returned to Thang Long. The Le dynasty was restored.
+*   **Apr. 1597:** King Le The Tong personally traveled to the Nam Quan border gate to meet with Ming dynasty officials for diplomatic negotiations, asserting the legitimacy of the Le dynasty.
 
 ### **Period of Division: Dang Trong - Dang Ngoai (1527 - 1771)**
 
@@ -881,6 +897,7 @@
 *   **Feb. 23, 1886:** The Hue court and France exchanged the ratified Treaty of Giap Than (Patenôtre Treaty) and the Mining Treaty in Hue.
 *   **Mar. 1886:** Emperor Dong Khanh established the **Order of the Dragon of Annam** (Dai Nam Long Tinh Vien) to reward civil and military officials.
 *   **Apr. 1886:** The court began minting "Dong Khanh Thong Bao" coins (10 zinc coins equal to 1 copper coin).
+*   **Jan. 1886 (Dec. Year of the Rooster):** King Dong Khanh permitted French photographers to take his portrait, becoming the first Vietnamese monarch to be photographed.
 *   **1886 - 1888:** The *Descriptive Geography of the Emperor Dong Khanh* (Dong Khanh Dia Du Chi) was compiled by the National History Office, detailing the geography, customs, and products of northern provinces.
 *   **May 1886:** Emperor Dong Khanh personally led a military campaign ("Imperial Inspection") to Quang Binh to pacify the region and suppress the Can Vuong movement.
 *   **1885 - 1896:** The Huong Khe Uprising, led by Phan Dinh Phung and Cao Thang, took place, marking the peak of the Can Vuong movement.
@@ -1074,6 +1091,7 @@
 *   **Mar. 1938:** The Party Central Committee conference decided to change the name of the Front to the Indochinese Democratic Front.
 *   **May 1, 1938:** A huge rally with 25.000 participants was held openly at the Dau Xao area in Hanoi to celebrate International Workers' Day.
 *   **May 25, 1938:** The Association for the Propagation of Quốc ngữ (Hội Truyền bá quốc ngữ) was established.
+*   **Feb. 29, 1938:** King Bao Dai issued Imperial Decree No. 10, separating the Paracel Islands (Hoang Sa) from Nam Ngai province and placing them under the administration of Thua Thien province.
 *   **Aug. 30, 1938:** The French government issued a decree on press freedom in Cochinchina, allowing the publication of Vietnamese-language newspapers without prior permission.
 *   **Jul. 5, 1939:** Hoa Hao Buddhism, an indigenous religion, was founded by Mr. Huynh Phu So in An Giang province.
 

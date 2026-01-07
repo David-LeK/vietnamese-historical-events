@@ -154,6 +154,7 @@
 *   **992:** Nhà vua sai Phụ quốc Ngô Tử An đem 3 vạn người mở đường bộ từ cửa Nam Giới (Hà Tĩnh) qua đèo Ngang đến châu Địa Lý (Quảng Bình).
 *   **996 (Bính Thân):** Lê Đại Hành tiếp sứ Tống là Lý Nhược Chuyết, dùng lời lẽ cứng rắn để bác bỏ trách nhiệm về các vụ cướp biên giới.
 *   **1005:** Lê Đại Hành mất. Lê Long Đĩnh giết vua Lê Trung Tông (Lê Long Việt) để cướp ngôi.
+*   **1009 (Kỷ Dậu):** Vua Lê Long Đĩnh ra lệnh đào kênh, đắp đường và dựng cột bia ghi số dặm (cột mốc) ở châu Ái (Thanh Hóa) để tiện cho việc đi lại.
 
 ### **Thời kỳ Đại Việt (Triều Lý, 1009 - 1225)**
 
@@ -175,6 +176,7 @@
 *   **1039:** Hoàng tử Lý Nhật Quang (Lý Hoảng) được cử vào quản lý châu Nghệ An, thực hiện việc thu thuế và ổn định vùng biên viễn phía Nam.
 *   **02/1040:** Vua Lý Thái Tông dạy các cung nữ dệt gấm vóc, xuống chiếu phát hết gấm vóc của nước Tống trong kho ban cho các quan để tỏ ý dùng hàng nội, không dùng hàng Tống nữa.
 *   **1042:** Triều đình ban hành bộ *Hình thư*, bộ luật thành văn đầu tiên của Việt Nam. Bộ luật có điều khoản nghiêm cấm bán hoàng nam làm nô bộc.
+*   **11/1042:** Vua Lý Thái Tông xuống chiếu cho đắp đất làm ụ, cắm biển gỗ chỉ dẫn đường đi để thuận tiện cho người dân đi lại bốn phương.
 *   **01/1044:** Lý Thái Tông thân chinh đánh Champa, chém được vua Champa là Sạ Đẩu tại trận.
 *   **1049:** Vua Lý Thái Tông cho xây dựng chùa Diên Hựu (chùa Một Cột).
 *   **1053:** Khai Quốc Vương lãnh đạo quân đội Đại Việt tiến hành cuộc Bắc phạt, hỗ trợ Nùng Trí Cao lập nước Đại Nam tại vùng Lưỡng Quảng.
@@ -218,23 +220,28 @@
 *   **02/1149:** Lập trang Vân Đồn (Quảng Ninh) để làm nơi cho thuyền buôn các nước vào buôn bán, chính thức mở ra thương cảng quốc tế đầu tiên.
 *   **21/04/1151:** Quốc sư Viên Thông viên tịch.
 *   **1150:** Xảy ra vụ biến loạn Đỗ Anh Vũ trong triều đình.
+*   **11/1161:** Vua Lý Anh Tông sai Tô Hiến Thành đi tuần tra các nơi ven biển miền Tây Nam để giữ yên bờ cõi.
 *   **1164:** Nhà Tống chính thức phong vua Lý Anh Tông làm **An Nam Quốc Vương**; tên nước "An Nam" bắt đầu được dùng làm quốc hiệu trong bang giao từ đây.
+*   **1171 - 1172:** Vua Lý Anh Tông đích thân đi tuần tra các hải đảo ngoài biển, vẽ bản đồ hình thế núi sông và ghi chép phong vật để biên soạn sách *Nam Bắc phiên giới địa đồ*.
 *   **14/08/1175:** Lý Anh Tông mất, Lý Long Cán lên ngôi (Lý Cao Tông) lúc mới 2 tuổi.
 *   **1181:** Nạn đói lớn xảy ra, khiến dân chúng chết gần một nửa.
 *   **1198:** Vua Lý Cao Tông nghe lời Đàm Dĩ Mông, ra lệnh sa thải các tăng đồ không giữ giới luật, bắt hoàn tục để làm phu dịch, chấn chỉnh lại Phật giáo và xã hội.
 *   **Thế kỷ XIII:** Nhà thám hiểm người Ý Marco Polo ghé thăm và mô tả về Côn Đảo trong hồi ký của mình. Vào cùng thế kỷ, Hồi giáo cũng được du nhập vào chủ yếu thông qua cộng đồng người Chăm Pa.
 *   **1203:** Vua Lý Cao Tông cho xây dựng nhiều cung điện xa hoa, khiến dân chúng càng thêm khốn khổ, giặc cướp nổi lên.
+*   **08/1207:** Vua Lý Cao Tông hạ chiếu nhận lỗi trước muôn dân vì chính sự bê trễ dẫn đến đói kém và loạn lạc, hứa sẽ sửa đổi.
 *   **01/1209:** Loạn Quách Bốc nổ ra ở kinh thành Thăng Long, vua Lý Cao Tông phải bỏ chạy. Hoàng tử Sảm chạy về Hải Ấp (Thái Bình), được họ Trần che chở và lấy Trần Thị Dung làm vợ.
 *   **1210:** Lý Cao Tông mất, Lý Hạo Sảm lên ngôi (Lý Huệ Tông). Thế lực họ Trần ngày càng lớn mạnh.
 *   **1211:** Vua Lý Huệ Tông lập con gái thứ hai của họ Trần (Trần Thị Dung) làm Nguyên phi. Thế lực ngoại thích họ Trần bắt đầu chi phối triều đình.
 *   **06/1225:** Lý Huệ Tông bị bệnh, không có con trai, đã truyền ngôi cho con gái thứ là Lý Thiên Hinh, hay Lý Chiêu Hoàng (7 tuổi). Bà đã trở thành nữ hoàng đầu tiên và duy nhất trong lịch sử Việt Nam.
 *   **10/01/1226:** Dưới sự sắp đặt của Trần Thủ Độ, Lý Chiêu Hoàng nhường ngôi cho chồng là Trần Cảnh (Trần Thái Tông). Vương triều Lý kết thúc.
+*   **1226:** Hoàng tử Lý Long Tường (con thứ vua Lý Anh Tông) cùng tùy tùng vượt biển sang Cao Ly (Hàn Quốc) lánh nạn, trở thành ông tổ của dòng họ Lý Hoa Sơn tại Hàn Quốc.
 
 ### **Thời kỳ Đại Việt (Triều Trần, 1225 - 1400)**
 
 *   **08/1226:** Trần Thủ Độ ép Lý Huệ Tông (lúc này đã đi tu) tự tử tại chùa Chân Giáo.
 *   **1229:** Nhà Tống chính thức công nhận Trần Thái Tông là An Nam Quốc vương.
 *   **1230:** Ban hành các bộ luật Quốc triều thông chế và Quốc triều thường lễ.
+*   **04/1232 (Nhâm Thìn):** Trần Thủ Độ nhân việc ban chữ húy về tổ tiên họ Trần (Trần Lý) đã ép con cháu họ Lý phải đổi sang họ Nguyễn.
 *   **1237:** Xảy ra vụ loạn Trần Liễu do Trần Thủ Độ ép vua Trần Thái Tông lấy vợ của anh trai mình là Thuận Thiên công chúa.
 *   **1242:** Triều đình tiến hành cải cách hành chính, chia cả nước thành 12 lộ.
 *   **1247:** Nguyễn Hiền đỗ Trạng nguyên khi mới 12 tuổi, trở thành Trạng nguyên trẻ nhất trong lịch sử khoa bảng Việt Nam.
@@ -289,6 +296,7 @@
 *   **10/1341:** Vua Trần Dụ Tông ra lệnh biên soạn bộ *Hoàng triều đại điển* và *Hình thư*.
 *   **1353:** Phà Ngừm thống nhất các mường Lào, lập nước Lan Xang (Vạn Tượng), mở ra thời kỳ bang giao quan trọng ở biên giới phía Tây.
 *   **1361:** Champa dưới thời vua Chế Bồng Nga bắt đầu các cuộc tấn công, cướp phá vào Đại Việt, mở đầu một thời kỳ xung đột kéo dài.
+*   **06/1366:** Vua Trần Dụ Tông đi chơi ở hương Mễ Sở, đến bãi Chử Gia bị cướp mất ấn báu và gươm báu, báo hiệu sự suy vi của triều đại.
 *   **25/5/1369:** Trần Dụ Tông qua đời mà không có con nối dõi vì sức khỏe suy yếu do hưởng lạc và sinh hoạt không điều độ trong thời gian trị vì.
 *   **18/07/1369:** Dương Nhật Lễ (con nuôi của Trần Dụ Tông) lên ngôi trong bối cảnh Hoàng thái hậu Hiền Từ đã đồng ý theo di chiếu của Dụ Tông.
 *   **14/12/1370:** Trần Phủ (sau là Trần Nghệ Tông) lên ngôi sau khi Dương Nhật Lễ bị phế truất.
@@ -309,6 +317,7 @@
 *   **04/1397:** Dưới sự điều khiển của Hồ Quý Ly, triều đình tiến hành cải cách hành chính lớn, đổi các lộ thành trấn và chia lại các cấp phủ, châu, huyện.
 *   **1398:** Lần đầu tiên trong lịch sử, triều đình cho đo đạc ruộng đất trên toàn quốc.
 *   **04/1398:** Hồ Quý Ly ép vua Trần Thuận Tông nhường ngôi cho con trai mới 2 tuổi là Trần Thiếu Đế để lui về làm Thái thượng hoàng, rồi sau đó ép đi tu ở một nơi vắng vẻ tại Thanh Hóa.
+*   **06/1399:** Hồ Quý Ly tự xưng là Quốc Tổ Chương Hoàng đế, dùng nghi vệ thiên tử, chuẩn bị cho việc cướp ngôi.
 *   **05/1399:** Hồ Quý Ly sai người tâm phúc là tướng Phạm Khả Vĩnh đến nơi ở của cựu hoàng đế. Phạm Khả Vĩnh đã ép Trần Thuận Tông tự tử bằng thuốc độc, nhưng không thành. Cuối cùng, chính Phạm Khả Vĩnh đã thắt cổ cựu hoàng đế đến chết. Trần Thuận Tông được chôn cất tại lăng Yên Sinh.
 
 ### **Thời kỳ Nhà Hồ (1400 - 1407)**
@@ -318,6 +327,7 @@
 *   **12/1400:** Hồ Quý Ly nhường ngôi cho con là Hồ Hán Thương, tự xưng là Thái thượng hoàng. Hồ Hán Thương bắt đầu đánh thuế thuyền buôn.
 *   **03/1401:** Hồ Hán Thương ra chiếu "hạn chế gia nô", quy định số lượng nô tỳ được phép sở hữu theo phẩm cấp quan lại.
 *   **07/1402:** Triều Hồ đem quân đánh Chiêm Thành. Vua Chiêm là Ba Đích Lại phải dâng đất Chiêm Động và Cổ Lũy (nay là Quảng Nam, Quảng Ngãi). Triều Hồ chia vùng đất này làm 4 châu: Thăng, Hoa, Tư, Nghĩa.
+*   **09/1403:** Vua Hồ Hán Thương cho lập cơ quan **Quảng Tế** (Quảng Tế thự), dùng phương pháp châm cứu chữa bệnh cho dân. Đây là cơ quan y tế công cộng đầu tiên được ghi nhận.
 *   **1403:** Triều Minh bắt đầu chuẩn bị xâm lược Đại Ngu.
 *   **02/1404:** Hồ Hán Thương quy định lại cách thức thi cử, lần đầu tiên đưa môn toán vào nội dung thi chính thức.
 *   **1404:** Hồ Hán Thương hạ lệnh đào Liên Cảng (kênh Sen) từ Tân Bình đến Thuận Hóa, nhưng do đất cát đùn lên nên không thành.
@@ -399,6 +409,8 @@
 *   **1443 - 1459:** Phan Phu Tiên biên soạn *Đại Việt sử ký tục biên* từ *Đại Việt sử ký* của Lê Văn Hưu.
 *   **1460:** Nghi Dân cướp ngôi. Lần đầu tiên đặt ra Lục bộ (Lại, Hộ, Lễ, Binh, Hình, Công) và Lục khoa.
 *   **06/1460:** Các đại thần Nguyễn Xí, Đinh Liệt làm binh biến, lật đổ Nghi Dân, đưa Lê Tư Thành lên ngôi vua (Lê Thánh Tông).
+*   **08/1460:** Vua Lê Thánh Tông ra lệnh đổi các họ "Trần" trong dân gian thành họ "Trình" do kỵ húy bà Phạm Ngọc Trần (bà nội của vua).
+*   **10/1462:** Vua Lê Thánh Tông ban sắc chỉ quy định tuổi nghỉ hưu (trí sĩ) cho quan lại là 65 tuổi, lại điển và nho sinh là 60 tuổi.
 *   **1463:** Mở khoa thi Tiến sĩ, Lương Thế Vinh đỗ Trạng nguyên. Bắt đầu định lệ 3 năm mở một khoa thi Hội.
 *   **1466:** Lê Thánh Tông chia cả nước thành 12 đạo Thừa tuyên. Bắt đầu đặt **Năm phủ** (Ngũ phủ quân) và kiện toàn Sáu bộ để thống nhất quản lý quân sự và hành chính.
 *   **1469:** Vua Lê Thánh Tông cho định bản đồ 12 thừa tuyên trong cả nước. Thừa tuyên Nam Sách đổi tên thành Thừa tuyên Hải Dương, danh xưng "Hải Dương" chính thức xuất hiện.
@@ -407,7 +419,9 @@
 *   **1479:** Bộ sách *Đại Việt sử ký toàn thư* lần đầu được hoàn thành bởi Ngô Sĩ Liên.
 *   **1479:** Trong cuộc chiến với Lan Xang (1478 - 1480), quân đội Đại Việt tiến sâu vào đất Lào, chiếm kinh đô Luang Prabang, đẩy lùi quân Lan Xang.
 *   **1483:** Triều đình ban hành bộ luật *Quốc triều hình luật* (thường gọi là Luật Hồng Đức).
+*   **03/1484:** Vua Lê Thánh Tông ban lệnh nghiêm cấm phá thai, coi đó là hành vi thương tổn tính mệnh và hại luân thường, quy định hình phạt cho cả người chồng nếu không biết răn cấm.
 *   **1484:** Vua Lê Thánh Tông ra lệnh dựng bia Tiến sĩ tại Văn Miếu để ghi danh các người đỗ đạt từ khoa thi năm 1442, tôn vinh nhân tài và khuyến khích sự học.
+*   **02/1496:** Vua Lê Thánh Tông làm thơ cầu đảo tại miếu Hoàng Hựu sau nhiều ngày không mưa; đêm đó trời đổ mưa lớn.
 *   **05/1488:** Cung nhân Nguyễn Thị Cận (vốn xuất thân là nô tỳ) sinh hạ hoàng tử Lê Tuấn (sau là vua Lê Uy Mục).
 *   **1490:** Định lại bản đồ 13 xứ trong cả nước.
 *   **1497:** Vua Lê Thánh Tông mất. Lê Hiến Tông lên ngôi.
@@ -430,6 +444,7 @@
 *   **1529:** Mạc Đăng Dung nhường ngôi cho con là Mạc Đăng Doanh, lui về làm Thái thượng hoàng.
 *   **01/01/1530:** Mạc Đăng Doanh lên ngôi vua, lấy niên hiệu là Đại Chính.
 *   **1533:** Tại Ai Lao, Nguyễn Kim (một cựu thần nhà Lê) tìm được Lê Ninh (con vua Lê Chiêu Tông), lập lên làm vua (Lê Trang Tông), bắt đầu công cuộc "phù Lê diệt Mạc".
+*   **1533:** Đậu Hà Lan lần đầu tiên được người Hà Lan mang đến buôn bán tại vùng Gia Định và Sơn Nam, bắt đầu du nhập vào Việt Nam.
 *   **1535:** Nguyễn Bỉnh Khiêm (Trạng Trình), nhà văn hóa và nhà tiên tri lỗi lạc, đỗ Trạng nguyên dưới triều Mạc.
 *   **1537:** Nhà Minh lấy cớ "hỏi tội" họ Mạc, chuẩn bị quân đội ở biên giới, gây áp lực với triều Mạc.
 *   **1538:** Giáp Hải đỗ Trạng nguyên dưới triều Mạc.
@@ -450,6 +465,7 @@
 *   **12/1592:** Trịnh Tùng bắt được Mạc Mậu Hợp. Mậu Hợp bị treo sống 3 ngày rồi bị chém đầu tại bãi cát Bồ Đề. Vương triều Mạc ở Thăng Long chính thức sụp đổ.
 *   **Đầu 1593:** Con cháu nhà Mạc (Mạc Kính Chỉ) tiếp tục nổi dậy ở Hải Dương nhưng nhanh chóng bị dẹp tan. Dư đảng nhà Mạc rút lên Cao Bằng, tiếp tục cát cứ. Cuộc chiến tranh Nam - Bắc triều về cơ bản kết thúc.
 *   **16/04/1593:** Vua Lê trở về Thăng Long. Triều Lê được khôi phục.
+*   **04/1597:** Vua Lê Thế Tông đích thân đến ải Nam Quan để hội kiến với quan lại nhà Minh, đấu tranh ngoại giao khẳng định vị thế chính thống của nhà Lê.
 
 ### **Thời kỳ Phân liệt Đàng Trong - Đàng Ngoài (1527 - 1771)**
 
@@ -881,6 +897,7 @@
 *   **23/02/1886:** Triều đình Huế và Pháp trao đổi bản Hòa ước Giáp Thân (Patenôtre) và Thương ước đã được phê chuẩn tại Huế.
 *   **03/1886:** Vua Đồng Khánh thành lập **Viện Long Tinh** (Đại Nam Long tinh) để khen thưởng cho các quan văn võ.
 *   **04/1886:** Triều đình cho đúc tiền "Đồng Khánh thông bảo" (1 đồng ăn 10 đồng kẽm).
+*   **01/1886 (Tháng Chạp năm Ất Dậu):** Vua Đồng Khánh cho phép các quan Pháp chụp ảnh chân dung mình, trở thành vị vua Việt Nam đầu tiên được chụp ảnh.
 *   **1886 - 1888:** Quốc sử quán triều Nguyễn biên soạn bộ *Đồng Khánh địa dư chí*, ghi chép chi tiết về địa lý, phong tục, sản vật các tỉnh phía Bắc.
 *   **05/1886:** Vua Đồng Khánh ngự giá thân chinh ra Quảng Bình để phủ dụ dân chúng và dẹp loạn.
 *   **1885 - 1896:** Diễn ra cuộc khởi nghĩa Hương Khê do Phan Đình Phùng và Cao Thắng lãnh đạo, là đỉnh cao của phong trào Cần Vương.
@@ -1074,8 +1091,9 @@
 *   **03/1938:** Hội nghị Ban Chấp hành Trung ương Đảng quyết định đổi tên Mặt trận thành Mặt trận Dân chủ Đông Dương.
 *   **01/05/1938:** Cuộc mít tinh khổng lồ với 25.000 người tham gia được tổ chức công khai tại khu Đấu Xảo, Hà Nội để kỷ niệm ngày Quốc tế Lao động.
 *   **25/05/1938:** Hội Truyền bá quốc ngữ ra đời.
+*   **29/02/1938:** Vua Bảo Đại ra Dụ số 10, tách quần đảo Hoàng Sa khỏi địa hạt tỉnh Nam Ngãi và sáp nhập vào tỉnh Thừa Thiên để thuận tiện quản lý.
 *   **30/08/1938:** Chính phủ Pháp ban hành Sắc lệnh về tự do báo chí ở Nam Kỳ, cho phép xuất bản báo chí tiếng Việt mà không cần xin phép trước.
-*   **05/07/1939:** Phật giáo Hòa Hảo, một tôn giáo nội sinh, được ông Huỳnh Phú Sổ sáng lập tại tỉnh An Giang. 
+*   **05/07/1939:** Phật giáo Hòa Hảo, một tôn giáo nội sinh, được ông Huỳnh Phú Sổ sáng lập tại tỉnh An Giang.
 
 ### **Thời kỳ Vận động Giải phóng Dân tộc và Cách mạng tháng Tám (1939 - 1945)**
 
