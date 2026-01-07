@@ -269,6 +269,7 @@
 *   **08/1284:** Hưng Đạo vương tổ chức duyệt binh ở bến Đông Bộ Đầu và công bố tác phẩm "Hịch tướng sĩ" để khích lệ tinh thần quân sĩ.
 *   **12/1284:** Vua Trần triệu tập Hội nghị Diên Hồng, hỏi ý kiến các bô lão trong cả nước về việc hòa hay đánh.
 *   **01/1285:** Quân Nguyên do Thoát Hoan chỉ huy bắt đầu cuộc xâm lược Đại Việt lần thứ hai.
+*   **03/1285:** Vua Trần Thánh Tông dùng kế mỹ nhân, sai người đưa Công chúa **An Tư** (em gái út của vua) đến trại quân Nguyên dâng cho Thoát Hoan để làm chậm tốc độ tiến quân của giặc, tạo thời gian quý báu cho quân Trần rút lui và củng cố lực lượng.
 *   **1285:** Khi Thượng hoàng Trần Thánh Tông vờ hỏi có nên hàng không, Trần Hưng Đạo đã khẳng khái trả lời: "Bệ hạ chém đầu tôi trước rồi hãy hàng".
 *   **03/1285:** Chiêu Quốc vương Trần Ích Tắc đem gia quyến đầu hàng quân Nguyên.
 *   **05/1285:** Quân Trần bắt đầu cuộc phản công lớn, giành thắng lợi liên tiếp ở Tây Kết, Chương Dương, Hàm Tử.
@@ -495,12 +496,13 @@
 *   **1621:** Giáo sĩ Christophoro Borri đến Đàng Trong và viết tác phẩm "Xứ Đàng Trong", ghi lại nhiều thông tin quý giá về kinh tế, xã hội.
 *   **1622:** Chúa Nguyễn Phúc Nguyên cho lập **Dinh Ai Lao** trên sông Hiếu để quản lý việc giao thương với Ai Lao.
 *   **1623:** Chúa Trịnh Tùng mất, con là Trịnh Tráng lên nối ngôi (Thanh Đô Vương).
+*   **1623:** Chúa Sãi (Nguyễn Phúc Nguyên) cử sứ bộ sang Chân Lạp yêu cầu vua Chey Chetta II nhượng lại khu dinh điền **Mô Xoài** (Bà Rịa) và cho phép người Việt đến khai khẩn, làm ăn.
 *   **1626:** Giáo sĩ Dòng Tên Juliano Baldinotti đến Đàng Ngoài (Kẻ Chợ), để lại những ghi chép quan trọng về tình hình xã hội thời bấy giờ.
 *   **03/1627:** Nội chiến Trịnh-Nguyễn chính thức bùng nổ. Lần thứ nhất, quân Trịnh do Trịnh Tráng chỉ huy tiến vào Nam nhưng bị đánh bại ở cửa Nhật Lệ.
 *   **Mùa Đông 1627:** Đào Duy Từ trốn vào Đàng Trong, được Trần Đức Hòa tiến cử với chúa Nguyễn Phúc Nguyên, bắt đầu sự nghiệp phò tá chúa Nguyễn.
-*   **1627 - 1651:** Công chúa Nguyễn Phúc Ngọc Khoa được gả cho vua Champa là Po Rome, tiếp tục chính sách ngoại giao hôn nhân để mở rộng ảnh hưởng về phía Nam.
 *   **03/1630:** Theo lời khuyên của Đào Duy Từ, chúa Nguyễn cho đắp lũy Trường Dục (Quảng Bình) để ngăn chặn quân Trịnh.
 *   **09/1630:** Theo đề nghị của Đào Duy Từ, chúa Nguyễn Phúc Nguyên mở cuộc tấn công vào châu Nam Bố Chính và chiếm được vùng đất này.
+*   **1631:** (Năm Tân Mùi) Chúa Sãi gả con gái là Công chúa **Ngọc Khoa** cho vua Champa là Po Rome. Cuộc hôn nhân này giúp quan hệ Việt - Chiêm trở nên tốt đẹp, tạo điều kiện cho người Việt mở rộng xuống phía Nam.
 *   **1631:** Chúa Nguyễn cho đắp lũy Nhật Lệ (Lũy Thầy) kiên cố hơn, dài 18km, theo kế sách của Đào Duy Từ, tạo nên phòng tuyến vững chắc cho Đàng Trong.
 *   **1633:** Cuộc chiến lần thứ hai, quân Trịnh tấn công nhưng không vượt qua được hệ thống phòng lũy và lại thất bại.
 *   **10/1634:** Đào Duy Từ qua đời, thọ 63 tuổi. Ông được coi là đệ nhất khai quốc công thần của họ Nguyễn và được thờ ở Thái miếu.
@@ -515,6 +517,7 @@
 *   **1653:** Chúa Nguyễn đánh bại vua Chiêm Thành là Bà Tấm, lấy đất từ sông Phan Rang đến Phú Yên, lập ra dinh Thái Khang (nay là Khánh Hòa).
 *   **1655 - 1660:** Cuộc chiến lần thứ năm, đây là lần duy nhất quân Nguyễn chủ động tấn công ra Bắc, chiếm được 7 huyện ở Nghệ An. Tuy nhiên sau đó do nội bộ bất hòa phải rút lui.
 *   **1657:** Chúa Trịnh Tráng mất, con là Trịnh Tạc lên nối ngôi (Tây Định Vương).
+*   **1658:** Chúa Hiền (Nguyễn Phúc Tần) cử quân sang giúp vua Chân Lạp là Batom Reachea (Ponhea So - con của bà Ngọc Vạn) dẹp loạn. Để tạ ơn, triều đình Chân Lạp đã hợp thức hóa chủ quyền của người Việt tại vùng đất **Đồng Nai**.
 *   **1661 - 1662:** Cuộc chiến lần thứ sáu. Quân Trịnh tấn công nhưng không thành công và phải rút về.
 *   **1663:** Chính quyền Lê - Trịnh ban lệnh cấm người dân theo đạo Hoa Lang (Thiên Chúa giáo), đồng thời ra lệnh rà soát, thống kê kỹ lưỡng lý lịch người nước ngoài cư trú tại Đàng Ngoài.
 *   **1663:** Vua Lê Huyền Tông cho xây dựng điện Nam Giao (trước đây chỉ đắp đàn tế).
@@ -678,6 +681,7 @@
 *   **06/1799:** Nguyễn Ánh chiếm được thành Quy Nhơn, một vị trí chiến lược quan trọng của Tây Sơn. Ông đổi tên thành là **thành Bình Định**, đánh dấu bước ngoặt lớn trong cuộc chiến tranh khi quân Nguyễn bắt đầu chiếm ưu thế ở miền Trung.
 *   **04/1799:** Võ Đình Tú, một trong "Tây Sơn thất hổ tướng" với cây thiết côn vô địch, tử trận tại Cần Úc khi giao chiến với quân Nguyễn.
 *   **1800:** Hai tướng chủ chốt của Tây Sơn là Trần Quang Diệu và Vũ Văn Dũng đem quân vào vây thành Bình Định.
+*   **1800:** (Năm Canh Thân) Công nữ **Ngọc Huyên** (bà vãi Vân Dương), hoạt động tình báo cho Nguyễn Ánh tại Phú Xuân, đã bí mật cho người khảo sát và vẽ bản đồ bố phòng của quân Tây Sơn tại cửa biển Tư Hiền và Thuận An, giúp quân Nguyễn chuẩn bị cho cuộc tấn công quyết định.
 *   **02/1801:**   **Trận Thị Nại** diễn ra ác liệt. Nguyễn Ánh dùng hỏa công lợi dụng gió nồm đốt cháy hoàn toàn hạm đội thủy quân Tây Sơn do Võ Văn Dũng chỉ huy. Đây được coi là trận thủy chiến lớn nhất trong lịch sử Việt Nam ("Đệ nhất vũ công").
 *   **28/02/1801:** Đại chiến thủy quân tại Thị Nại. Thủy quân Nguyễn Ánh, dưới sự hỗ trợ của các sĩ quan và kỹ thuật phương Tây, đã tiêu diệt hạm đội Tây Sơn. Tướng Võ Di Nguy tử trận, Lê Văn Duyệt dẫn đầu cuộc tấn công. Chiến thắng này được gọi là "Đệ nhất vũ công" của nhà Nguyễn và đã xóa sổ hoàn toàn sức mạnh thủy quân Tây Sơn.
 *   **05/1801:** Trong chiến dịch đánh chiếm Phú Xuân, Lê Văn Duyệt và Lê Chất đã dùng mưu kế bất ngờ tại cửa Tư Dung, cho quân khiêng thuyền chiến qua bãi cát để đánh úp phía sau phòng tuyến quân Tây Sơn.
@@ -687,8 +691,9 @@
 *   **16/06/1802:** Trên đường rút chạy ra Bắc, tại Xương Giang, Đô đốc Tuyết (Nguyễn Văn Tuyết) tử trận khi bảo vệ vua Cảnh Thịnh. Thái hậu Bùi Thị Nhạn cùng các nữ tướng Trần Thị Lan, Nguyễn Thị Dung đều tự sát để giữ tròn khí tiết.
 *   **06/1802:** Sau khi thành Bình Định thất thủ, Nguyễn Ánh chính thức lên ngôi Hoàng đế ở Phú Xuân, đặt niên hiệu là Gia Long.
 *   **31/05/1802 (01/05 năm Nhâm Tuất):** Nguyễn Ánh chính thức đặt niên hiệu là **Gia Long**, ban chiếu đại xá thiên hạ.
-*   **20/07/1802:** Quân Nguyễn tiến ra chiếm được Thăng Long. Trước đó, quân Nguyễn đã bắt người dân Bắc Hà đóng góp nhiều khoản nặng nề, gây ra sự bất mãn ngay từ đầu. Vua Cảnh Thịnh bị bắt. Các danh tướng bị hành quyết tàn khốc. Theo sách *Nhà Tây Sơn*, Trần Quang Diệu bị lột da, Võ Văn Dũng bị xử trảm, còn nữ tướng Bùi Thị Xuân vì uy nghi khiến voi không dám giày nên bị hành hình bằng cách "điểm thiên đăng" (tẩm sáp đốt). Gia Long còn ra lệnh đào mộ Nguyễn Nhạc, Nguyễn Huệ, giã nát hài cốt rồi vứt đi, còn xương đầu thì bỏ vào ngục tối (gọi là Ông Vò). Triều đại Tây Sơn chính thức sụp đổ.
+*   **20/07/1802:** Quân Nguyễn tiến ra chiếm được Thăng Long. Trước đó, quân Nguyễn đã bắt người dân Bắc Hà đóng góp nhiều khoản nặng nề, gây ra sự bất mãn ngay từ đầu. Vua Cảnh Thịnh bị bắt. Gia Long ra lệnh đào mộ Nguyễn Nhạc, Nguyễn Huệ, giã nát hài cốt rồi vứt đi, còn xương đầu thì bỏ vào ngục tối (gọi là Ông Vò). Triều đại Tây Sơn chính thức sụp đổ.
 *   **20/07/1802:** Nguyễn Ánh tiến vào thành Thăng Long, hoàn thành việc thống nhất đất nước và chính thức chấm dứt triều đại Tây Sơn. Đây là sự kiện mở đầu cho triều đại nhà Nguyễn cai trị một nước Việt Nam thống nhất từ Bắc chí Nam.
+*   **20/11/1802 (06/11 năm Nhâm Tuất):** Vua Gia Long cho hành quyết các tướng lĩnh Tây Sơn tại Phú Xuân. **Trần Quang Diệu** bị lột da, nữ tướng **Bùi Thị Xuân** và con gái 15 tuổi bị voi giày. Sự kiện này đánh dấu sự trả thù tàn khốc đối với triều đại cũ.
 
 ### **Thời kỳ Nhà Nguyễn (1802 - 1858)**
 
@@ -929,6 +934,7 @@
 *   **02/1897:** Paul Doumer được bổ nhiệm làm Toàn quyền Đông Dương, bắt đầu một giai đoạn mới với chính sách cai trị tập trung và khai thác kinh tế quy mô lớn.
 *   **13/08/1897:** Triều đình Huế ra dụ bãi bỏ chức Kinh lược sứ Bắc Kỳ, trao toàn bộ quyền cai trị ở Bắc Kỳ cho Thống sứ Pháp.
 *   **27/09/1897:** Vua Thành Thái ra Dụ cải tổ Chính phủ Nam triều, bãi bỏ Hội đồng Phụ chính và Hội đồng Thượng thư, thành lập Hội đồng Cơ mật do Khâm sứ Trung Kỳ đứng đầu, thâu tóm quyền lực của triều Nguyễn.
+*   **1898:** (Năm Mậu Tuất) Khoa thi Hương tại trường thi Thừa Thiên có 5 sĩ tử người Quảng Nam cùng đỗ đại khoa (3 Tiến sĩ, 2 Phó bảng). Vua Thành Thái đã ban tặng danh hiệu **"Ngũ Phụng Tề Phi"**, tôn vinh truyền thống hiếu học của vùng đất Quảng Nam.
 *   **1898:** Thực dân Pháp bắt đầu xây dựng hàng loạt công trình hạ tầng lớn, bao gồm các tuyến đường sắt Hà Nội - Nam Định - Vinh, Đà Nẵng - Huế, Sài Gòn - Khánh Hòa...
 *   **09/1898:** Khởi công xây dựng cầu Long Biên tại Hà Nội.
 *   **30/12/1898:** Tổng thống Pháp ra sắc lệnh về chế độ báo chí ở Đông Dương, siết chặt kiểm soát và hạn chế quyền tự do ngôn luận của người bản xứ.

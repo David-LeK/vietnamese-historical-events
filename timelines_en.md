@@ -269,6 +269,7 @@
 *   **Aug. 1284:** Tran Hung Dao held a military review at Dong Bo Dau (Hanoi) and wrote the "Proclamation to the Officers" (Hich tuong si) to boost the morale of the soldiers.
 *   **Dec. 1284:** King Tran convened the Dien Hong Conference, asking for the opinions of elders throughout the country on whether to make peace or fight.
 *   **Jan. 1285:** Yuan forces under the command of Toghon began the second invasion of Dai Viet.
+*   **Mar. 1285:** To delay the Mongol advance and buy time for the army to retreat and regroup, Princess **An Tu** (youngest sister of King Tran Thanh Tong) was sent to the Mongol general Toghon as part of a "beauty trap" stratagem.
 *   **1285:** When King Tran Thanh Tong asked if he should surrender during the difficult early stages of the war, Tran Hung Dao famously replied: "Your Majesty, if you want to surrender, please cut off my head first."
 *   **Mar. 1285:** Prince Chieu Quoc Vuong Tran Ich Tac surrendered to the Yuan army.
 *   **May 1285:** The Tran army began a major counter-offensive, winning successive victories at Tay Ket, Chuong Duong, and Ham Tu.
@@ -495,12 +496,13 @@
 *   **1621:** Missionary Christophoro Borri arrived in Dang Trong and later wrote the book "Relatione della nuova missione..." providing detailed accounts of the region.
 *   **1622:** Lord Nguyen Phuc Nguyen established the **Dinh Ai Lao** (Ai Lao Bureau) on the Hieu River to manage trade relations with Laos.
 *   **1623:** Lord Trinh Tung passed away. His son, Trinh Trang, succeeded him as Lord (Thanh Do Vuong).
+*   **1623:** Lord Nguyen Phuc Nguyen sent an envoy to King Chey Chetta II of Cambodia, requesting to establish a tax collection station at **Mo Xoai** (Ba Ria) and allowing Vietnamese settlers to cultivate land in the area.
 *   **1626:** The Jesuit missionary Juliano Baldinotti arrived in Tonkin (Dang Ngoai), marking one of the earliest official Western accounts of the region.
 *   **Mar. 1627:** The Trinh-Nguyen civil war officially broke out. In the first campaign, the Trinh army led by Trinh Trang advanced south but was defeated at the Nhat Le gate.
 *   **Winter 1627:** Dao Duy Tu escaped to Dang Trong to avoid the Trinh administration and served Lord Nguyen Phuc Nguyen, later becoming a key strategist.
-*   **1627 - 1651:** Princess Nguyen Phuc Ngoc Khoa was married to the Cham King Po Rome, continuing the diplomatic marriage strategy to expand influence to the south.
 *   **Mar. 1630:** Following the advice of Dao Duy Tu, the Nguyen Lord ordered the construction of the Truong Duc defensive wall to block the Trinh army.
 *   **Sep. 1630:** Acting on Dao Duy Tu's strategy, Lord Nguyen Phuc Nguyen launched an attack on the Southern Bo Chinh prefecture and captured it.
+*   **1631:** Princess Nguyen Phuc **Ngoc Khoa** was married to the Cham King Po Rome. This diplomatic marriage solidified peaceful relations between Dai Viet and Champa, facilitating further southward expansion.
 *   **1631:** Following Dao Duy Tu's plan, the Nguyen Lord constructed the Nhat Le Wall (also known as Luy Thay), an 18km long fortification crucial for defense.
 *   **1633:** In the second campaign, the Trinh army attacked but could not overcome the defensive walls and was again defeated.
 *   **Oct. 1634:** Dao Duy Tu passed away at the age of 63. He was honored as the foremost meritorious official in the founding of the Nguyen Lords' dominion.
@@ -515,6 +517,7 @@
 *   **1653:** The Nguyen lord defeated the Champa king Ba Tam, taking land from the Phan Rang River to Phu Yen and establishing the Thai Khang garrison (now Khanh Hoa).
 *   **1655 - 1660:** The fifth campaign, this was the only time the Nguyen army proactively attacked the North, capturing 7 districts in Nghe An. However, they later had to retreat due to internal discord.
 *   **1657:** Lord Trinh Trang passed away. His son, Trinh Tac, succeeded him as Lord (Tay Dinh Vuong).
+*   **1658:** Lord Nguyen Phuc Tan sent troops to assist King Batom Reachea (Ponhea So, son of Princess Ngoc Van) in stabilizing his throne against usurpers. In return, the Cambodian court officially recognized Vietnamese sovereignty over the **Dong Nai** region.
 *   **1661 - 1662:** The sixth campaign. The Trinh army attacked but was unsuccessful and had to retreat.
 *   **1663:** The Le-Trinh court issued a ban on Christianity ("Hoa Lang" religion) and ordered a strict census of all foreigners residing in the country to separate them from the local population.
 *   **1663:** The Nam Giao Hall was constructed for the first time to perform Heaven worship ceremonies (previously performed on an open altar).
@@ -678,6 +681,7 @@
 *   **Jun. 1799:** Nguyen Anh successfully captured the strategic Quy Nhon citadel from the Tay Son. He renamed it **Binh Dinh** citadel, marking a major turning point in the war as the Nguyen forces began to dominate the central region.
 *   **Apr. 1799:** General Vo Dinh Tu, one of the "Seven Tigers of Tay Son" and a master of the staff, died in battle against Nguyen forces at Can Uc.
 *   **1800:** Two key Tay Son generals, Tran Quang Dieu and Vu Van Dung, led troops to besiege Binh Dinh Citadel.
+*   **1800:** Princess **Ngoc Huyen** (daughter of Lord Nguyen Phuc Khoat, known as Nun Van Duong), operating a spy network for Nguyen Anh in Phu Xuan, sent critical maps of the Tay Son defenses at Tu Hien and Thuan An estuaries, aiding the upcoming Nguyen offensive.
 *   **Feb. 1801:** The decisive **Battle of Thi Nai** took place. Nguyen Anh's forces, leveraging wind direction and fire attacks, destroyed the entire Tay Son fleet commanded by Vo Van Dung. This is considered the largest naval battle in the history of the Vietnamese wars.
 *   **Feb. 28, 1801:** The Great Naval Battle of Thi Nai took place. Nguyen Anh's navy, with the assistance of Western officers and tactics, destroyed the Tay Son fleet. General Vo Di Nguy was killed in action, and Le Van Duyet led the assault. This victory was hailed as the "First Martial Achievement" of the Nguyen dynasty and decimated the Tay Son's naval capabilities.
 *   **May 1801:** In the campaign to capture Phu Xuan, Generals Le Van Duyet and Le Chat employed a surprise tactic at the Tu Dung estuary, dragging naval boats across sandbars to attack the Tay Son defensive line from the rear.
@@ -687,8 +691,9 @@
 *   **Jun. 16, 1802:** In the retreat to the North, General Nguyen Van Tuyet (Do Doc Tuyet) died in battle at Xuong Giang protecting King Canh Thinh. Empress Dowager Bui Thi Nhan, along with female generals Tran Thi Lan and Nguyen Thi Dung, committed suicide to avoid capture.
 *   **Jun. 1802:** After Binh Dinh Citadel fell, Nguyen Anh officially ascended the throne as Emperor in Phu Xuan, establishing the era name Gia Long.
 *   **May 31, 1802:** Nguyen Anh officially established the era name **Gia Long** and issued a general amnesty.
-*   **Jul. 20, 1802:** The Nguyen army captured Thang Long. Before the capture, the advancing Nguyen forces had already imposed heavy contributions on the northern population, sparking early discontent. King Canh Thinh and prominent generals were captured. According to the text *Nhà Tây Sơn*, General Tran Quang Dieu was skinned alive, General Vo Van Dung was executed (beheaded), while General Bui Thi Xuan was executed by "lighting the sky lantern" (wrapped in wax-soaked cloth and burned). Gia Long also ordered the exhumation of the graves of Nguyen Nhac and Nguyen Hue, pounding their bones into powder and imprisoning their skulls in a dungeon. The Tay Son dynasty officially collapsed.
+*   **Jul. 20, 1802:** The Nguyen army captured Thang Long. Before the capture, the advancing Nguyen forces had already imposed heavy contributions on the northern population, sparking early discontent. King Canh Thinh and prominent generals were captured. Gia Long also ordered the exhumation of the graves of Nguyen Nhac and Nguyen Hue, pounding their bones into powder and imprisoning their skulls in a dungeon. The Tay Son dynasty officially collapsed.
 *   **Jul. 20, 1802:** Nguyen Anh entered Thang Long citadel, completing the unification of the country and officially ending the Tay Son dynasty. This marked the beginning of the Nguyen Dynasty's rule over a unified Vietnam stretching from the North to the South.
+*   **Nov. 20, 1802 (Nov. 6, Lunar Year of the Dog):** Captured Tay Son generals were executed in Phu Xuan. **Tran Quang Dieu** was skinned alive, while female general **Bui Thi Xuan** and her 15-year-old daughter were trampled by elephants (or burned in some accounts). Bui Thi Xuan famously declared before her death: "If there were another female general like me, the Nhat Le gate wouldn't be cold."
 
 ### **Nguyen Dynasty Period (1802 - 1858)**
 
@@ -929,6 +934,7 @@
 *   **Feb. 1897:** Paul Doumer was appointed Governor-General of Indochina, beginning a new period of centralized rule and large-scale economic exploitation.
 *   **Aug. 13, 1897:** The Hue court issued an edict abolishing the position of Imperial Commissioner of Tonkin, transferring all administrative power in Tonkin to the French Resident Superior.
 *   **Sep. 27, 1897:** King Thanh Thai issued an edict to reform the Southern Court's government, abolishing the Council of Regents and the Council of Ministers, and establishing a Privy Council headed by the Resident Superior of Annam, thus usurping the power of the Nguyen court.
+*   **1898:** In the Metropolitan Examination of the Mau Tuat year, five candidates from Quang Nam province passed with high honors (3 Doctors, 2 Junior Doctors). King Thanh Thai bestowed upon them the title **"Ngu Phung Te Phi"** (Five Phoenixes Flying Together), celebrating the region's academic excellence.
 *   **1898:** The French colonialists began constructing numerous large-scale infrastructure projects, including the Hanoi - Nam Dinh - Vinh, Da Nang - Hue, and Saigon - Khanh Hoa railway lines.
 *   **Sep. 1898:** Construction began on the Long Bien Bridge in Hanoi.
 *   **Dec. 30, 1898:** The French President issued a decree on the press regime in Indochina, tightening control and restricting the freedom of speech of the native people.
