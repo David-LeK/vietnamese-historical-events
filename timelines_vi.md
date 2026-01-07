@@ -43,14 +43,17 @@
 *   **137:** Cuộc khởi nghĩa của Khu Liên ở huyện Tượng Lâm, quận Nhật Nam.
 *   **192:** Khu Liên chính thức thành lập nước Lâm Ấp.
 *   **Khoảng năm 200:** Sĩ Nhiếp (Shi Xie) cai trị Giao Châu. Ông được người Việt tôn vinh là "Sĩ Vương" vì có công truyền bá Nho học và duy trì sự ổn định trong thời kỳ Tam Quốc loạn lạc ở Trung Quốc.
+*   **Năm 200 (Canh Thìn):** Lý Tiến dâng sớ lên vua Hán xin cho người Giao Châu được bổ nhiệm chức quan như người Hán, đánh dấu sự đấu tranh cho quyền bình đẳng chính trị.
 *   **226:** Nhà Đông Ngô chia Giao Châu thành Quảng Châu và Giao Châu.
 *   **248:** Cuộc khởi nghĩa của Bà Triệu (Triệu Thị Trinh) ở Cửu Chân chống lại ách đô hộ của nhà Đông Ngô. Bà tự xưng là Đại Hải Bà Vương nhưng cuối cùng bị tướng Lục Dận đánh bại.
 *   **269:** Nhà Đông Ngô sai các tướng Tiết Hủ, Đào Hoàng sang lấy lại Giao Chỉ.
 *   **264:** Nhà Đông Ngô tái chia tách Quảng Châu và Giao Châu, lấy Long Biên làm trị sở Giao Châu.
+*   **10/490 (Canh Ngọ):** Phòng Pháp Thặng được cử làm Thứ sử Giao Châu, nhưng vì mê đọc sách nên bị thuộc hạ là Phục Đăng Chi lật đổ.
 *   **542:** Lý Bí lãnh đạo cuộc khởi nghĩa chống lại ách đô hộ của nhà Lương.
 *   **544:** Lý Bí xưng là Nam Việt Đế (Lý Nam Đế), lập ra nước Vạn Xuân, đặt niên hiệu Thiên Đức.
 *   **548:** Lý Nam Đế mất.
 *   **548 - 571:** Triệu Quang Phục (Triệu Việt Vương) lãnh đạo cuộc kháng chiến chống quân Lương thắng lợi, tiếp tục giữ nền độc lập cho đến khi bị Lý Phật Tử đánh bại.
+*   **570 (Canh Dần):** Lý Phật Tử bất ngờ đem quân đánh úp Triệu Việt Vương. Triệu Việt Vương thua trận, tự vẫn ở cửa biển Đại Nha.
 *   **03/580:** Thiền sư Tỳ Ni Đa Lưu Chi (Vinitaruci) đến Giao Châu (Việt Nam), cư trú tại chùa Pháp Vân và dịch kinh *Tổng trì*, sáng lập thiền phái Tỳ Ni Đa Lưu Chi.
 *   **602:** Nhà Tùy sai Lưu Phương đem quân xâm lược, Lý Phật Tử (Hậu Lý Nam Đế) đầu hàng, nước Vạn Xuân kết thúc.
 *   **605:** Tướng Tùy là Lưu Phương đem quân đánh Lâm Ấp (Champa), cướp phá kinh thành.
@@ -60,9 +63,13 @@
 *   **713 - 722:** Cuộc khởi nghĩa của Mai Thúc Loan (Mai Hắc Đế).
 *   **767:** Quân Srivijaya (Chà Và) và Côn Lôn xâm phạm Giao Châu, bị Kinh lược sứ Trương Bá Nghi đánh tan.
 *   **766 - 791:** Cuộc khởi nghĩa của Phùng Hưng (Bố Cái Đại Vương).
+*   **780 (Canh Thân):** Khương Công Phụ thi đỗ Tiến sĩ tại nhà Đường, làm quan đến chức Gián nghị Đại phu.
+*   **789 (Kỷ Tỵ):** Phùng Hưng qua đời. Con là Phùng An nối ngôi, tôn cha là Bố Cái Đại Vương.
 *   **819 - 820:** Cuộc khởi nghĩa của Dương Thanh.
 *   **09/820:** Thiền sư Vô Ngôn Thông đến chùa Kiến Sơ, sáng lập thiền phái Vô Ngôn Thông.
-*   **822:** Đô hộ Lý Nguyên Hỷ dời phủ trị đến khu vực sông Tô Lịch và cho xây dựng thành Đại La. Sự kiện này gắn liền với các truyền thuyết về thần sông Tô Lịch được ghi chép trong *Việt Điện U Linh Tập*.
+*   **822:** Đô hộ Lý Nguyên Gia (Lý Nguyên Hỷ) dời phủ trị đến khu vực sông Tô Lịch và cho xây dựng thành Đại La. Sự kiện này gắn liền với các truyền thuyết về thần sông Tô Lịch được ghi chép trong *Việt Điện U Linh Tập*.
+*   **862 - 863:** Sái Kinh ghen ghét hãm hại Sái Tập khiến Sái Tập bị cô lập. Quân Nam Chiếu vây đánh, Sái Tập tử trận khi thành thất thủ vào tháng 1 năm 863.
+*   **07/865 (Ất Dậu):** Cao Biền chuẩn bị quân ở Hải Môn để phản công quân Nam Chiếu.
 *   **866:** Cao Biền đánh bại Nam Chiếu, nhà Đường đổi An Nam đô hộ phủ làm Tĩnh Hải quân. Cao Biền cho xây đắp lại thành Đại La.
 *   **868:** Cao Biền tổ chức đào kênh Thiên Uy để thuận tiện cho việc vận chuyển đường thủy.
 *   **875:** Vua Indravarman II của Champa lập triều đại mới tại Indrapura (Quảng Nam), Phật giáo Đại thừa phát triển cực thịnh (phong cách Đồng Dương).
@@ -72,6 +79,7 @@
 *   **923:** Quân Nam Hán xâm lược, bắt được Khúc Thừa Mỹ.
 *   **931:** Dương Đình Nghệ đánh đuổi quân Nam Hán, tự xưng là Tiết độ sứ.
 *   **937:** Kiều Công Tiễn giết Dương Đình Nghệ để đoạt chức.
+*   **12/937:** Ngô Quyền từ Ái Châu kéo quân ra Bắc để hỏi tội Kiều Công Tiễn.
 *   **938:** Ngô Quyền đánh tan quân Nam Hán trên sông Bạch Đằng, kết thúc thời kỳ Bắc thuộc.
 *   **Khoảng thế kỷ X:** Chữ Nôm bắt đầu hình thành sau khi thoát khỏi ách đô hộ phương Bắc, ban đầu được dùng để ghi chép các tên người, địa danh.
 
@@ -81,6 +89,7 @@
 *   **944:** Ngô Quyền mất. Em vợ là Dương Tam Kha cướp ngôi của con trai Ngô Quyền là Ngô Xương Ngập.
 *   **945:** Dương Tam Kha tự xưng là Bình Vương.
 *   **950:** Ngô Xương Văn (con thứ của Ngô Quyền) lật đổ Dương Tam Kha, giành lại ngôi báu và xưng là Nam Tấn Vương.
+*   **950:** Dương Tam Kha bị giáng xuống làm Chương Dương Công chứ không bị giết, do ơn nuôi dưỡng Ngô Xương Văn trước đó.
 *   **951 - 954:** Giai đoạn "Hai Vương" cùng trị vì, khi Ngô Xương Văn đón anh trai là Ngô Xương Ngập về cùng cai quản đất nước (Xương Ngập xưng là Thiên Sách Vương).
 *   **954:** Thiên Sách vương Ngô Xương Ngập mất. Nam Tấn vương Ngô Xương Văn một mình nắm quyền.
 *   **965:** Nam Tấn vương Ngô Xương Văn tử trận khi đi dẹp loạn ở hai thôn Đường - Nguyễn. Nhà Ngô kết thúc.
@@ -90,8 +99,11 @@
 *   **970:** Đinh Tiên Hoàng lập 5 hoàng hậu (Đan Gia, Trinh Minh, Kiểu Quốc, Cổ Quốc, Cao Ông), thiết lập quy chế hậu cung.
 *   **971:** Đinh Tiên Hoàng bắt đầu quy định cấp bậc cho quan lại văn, võ và tăng đạo. Ngô Chân Lưu được phong làm Khuông Việt Đại sư (chức Tăng thống).
 *   **974:** Đinh Tiên Hoàng chia cả nước làm 10 đạo.
-*   **10/979:** Đỗ Thích ám sát vua Đinh Tiên Hoàng và Nam Việt vương Đinh Liễn. Vệ vương Đinh Toàn (6 tuổi) lên ngôi. Lê Hoàn làm nhiếp chính.
-*   **07/980:** Trước nguy cơ xâm lược của nhà Tống, Lê Hoàn được Thái hậu Dương Vân Nga và quân sĩ tôn lên làm vua, lập ra nhà Tiền Lê.
+*   **Mùa xuân 978 (Mậu Dần):** Đinh Tiên Hoàng lập con út Hạng Lang làm Thái tử, bỏ qua con trưởng Đinh Liễn.
+*   **Mùa xuân 979 (Kỷ Mão):** Nam Việt Vương Đinh Liễn giết chết Thái tử Hạng Lang.
+*   **10/979 (Kỷ Mão):** Đỗ Thích ám sát vua Đinh Tiên Hoàng và Nam Việt vương Đinh Liễn. Vệ vương Đinh Toàn (6 tuổi) lên ngôi. Lê Hoàn làm nhiếp chính.
+*   **Cuối năm 979:** Đinh Điền và Nguyễn Bặc dấy binh chống Lê Hoàn và bị giết. Phò mã Ngô Nhật Khánh dẫn quân Chiêm Thành định tấn công nhưng bị bão đánh chìm và chết đuối.
+*   **07/980 (Canh Thìn):** Trước nguy cơ xâm lược của nhà Tống, Phạm Cự Lượng cùng các tướng sĩ tôn Lê Hoàn lên làm vua. Lê Hoàn lên ngôi (Lê Đại Hành), lập ra nhà Tiền Lê.
 *   **03/981:** Quân Tống do Hầu Nhân Bảo chỉ huy xâm lược Đại Cồ Việt.
 *   **28/04/981:** Lê Đại Hành chỉ huy trận chiến trên sông Bạch Đằng, đánh tan quân Tống, giết chết Hầu Nhân Bảo. Cuộc kháng chiến chống Tống lần thứ nhất thắng lợi.
 *   **982:** Lê Đại Hành thân chinh đánh Champa, chiếm kinh đô Đồng Dương và giết vua Bề Mi Thuế.
@@ -99,11 +111,14 @@
 *   **02/984:** Triều Tiền Lê cho đúc tiền Thiên Phúc.
 *   **987 (Mùa Xuân):** Lê Đại Hành lần đầu tiên cử hành lễ cày tịch điền ở Đọi Sơn để khuyến khích nông nghiệp.
 *   **987:** Sứ giả nhà Tống là Lý Giác sang nước ta. Thiền sư Đỗ Pháp Thuận giả làm người chèo đò đón sứ, xướng họa thơ văn, khiến Lý Giác nể phục khí tiết nước Nam.
+*   **990 (Canh Dần):** Lê Đại Hành tiếp sứ Tống là Tống Cảo, bày chiến cụ để thị uy và không lạy chiếu thư.
+*   **996 (Bính Thân):** Lê Đại Hành tiếp sứ Tống là Lý Nhược Chuyết, dùng lời lẽ cứng rắn để bác bỏ trách nhiệm về các vụ cướp biên giới.
 *   **1005:** Lê Đại Hành mất. Lê Long Đĩnh giết vua Lê Trung Tông (Lê Long Việt) để cướp ngôi.
 
 ### **Thời kỳ Đại Việt (Triều Lý, 1009 - 1225)**
 
 *   **21/11/1009:** Lê Long Đĩnh (Lê Ngọa Triều) mất. Lý Công Uẩn được tôn lên làm vua (Lý Thái Tổ), sáng lập ra vương triều Lý.
+*   **06/1006 (Bính Ngọ):** Vua Tống từ chối lời thỉnh cầu của Lăng Sách về việc đem quân đánh Đại Cồ Việt nhân lúc nội bộ triều Lê rối ren.
 *   **1009:** Thiền sư Vạn Hạnh đưa ra các sấm ngữ báo hiệu nhà Lê suy vong và nhà Lý hưng thịnh, tích cực ủng hộ Lý Công Uẩn lên ngôi.
 *   **07/1010:** Lý Thái Tổ ra "Chiếu dời đô", chuyển kinh đô từ Hoa Lư về thành Đại La và đổi tên thành Thăng Long. Đổi Hoa Lư làm phủ Trường Yên.
 *   **12/1010:** Lý Thái Tổ tiến hành cải cách hành chính, chia cả nước làm 24 lộ.

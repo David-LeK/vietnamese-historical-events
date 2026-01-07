@@ -43,14 +43,17 @@
 *   **137:** The uprising of Khu Lien in Tuong Lam district, Nhat Nam commandery.
 *   **192:** Khu Lien officially established the Lam Ap kingdom.
 *   **Around 200:** Shi Xie (Si Nhiep) governed Giao Chau. He is credited with promoting Confucianism and maintaining stability during the chaotic Three Kingdoms period in China, later honored by the Vietnamese as "King Si" (Si Vuong).
+*   **200 (Canh Thin year):** Ly Tien, a native of Giao Chau, petitioned the Han Emperor to allow Giao Chau scholars to be appointed as officials in the inner provinces. This marked an early struggle for equal political rights.
 *   **226:** The Eastern Wu dynasty divided Giao Chau into Guangzhou (Quang Chau) and Jiaozhou (Giao Chau).
 *   **248:** The uprising of Lady Trieu (Trieu Thi Trinh) in Cuu Chan against the domination of the Eastern Wu dynasty. She proclaimed herself Dai Hai Ba Vuong but was ultimately defeated by general Lu Yin.
 *   **269:** The Eastern Wu dynasty sent generals Xue Xu and Tao Huang to retake Giao Chi (Jiaozhou).
 *   **264:** The Eastern Wu dynasty re-divided Guangzhou and Jiaozhou, establishing Long Bien as the capital of Jiaozhou.
+*   **Oct. 490:** Phong Phap Thang was appointed Governor. He was later overthrown by Phuc Dang Chi due to his excessive obsession with reading books and neglecting administrative duties.
 *   **542:** Ly Bi led an uprising against the domination of the Liang dynasty.
 *   **544:** Ly Bi proclaimed himself the Southern Viet Emperor (Ly Nam De), founded the Van Xuan kingdom, and established the era name Thien Duc.
 *   **548:** Ly Nam De passed away.
 *   **548 - 571:** Trieu Quang Phuc (King Trieu Viet) led the resistance against the Liang army to victory, maintaining independence until he was defeated by Ly Phat Tu.
+*   **570 (Canh Dan year):** Ly Phat Tu launched a surprise attack on Trieu Viet Vuong. Trieu Viet Vuong was defeated and committed suicide at Dai Nha seaport.
 *   **Mar. 580:** Zen Master Vinitaruci arrived in Giao Chau (Vietnam), residing at Phap Van Pagoda and establishing the Vinitaruci Zen sect.
 *   **602:** The Sui dynasty sent troops commanded by Liu Fang to invade; Ly Phat Tu (Later Ly Nam De) surrendered, and the Van Xuan kingdom ended.
 *   **605:** Sui general Liu Fang attacked Champa (Lam Ap), sacking the capital.
@@ -60,9 +63,13 @@
 *   **713 - 722:** The uprising of Mai Thuc Loan (Mai Hac De).
 *   **767:** Srivijaya and Kunlun forces raided Giao Chau and were defeated by Military Commissioner Zhang Boyi.
 *   **766 - 791:** The uprising of Phung Hung (Bo Cai Dai Vuong).
+*   **780 (Canh Than year):** Khuong Cong Phu passed the doctoral examination (Jinshi) in the Tang Dynasty, later rising to high positions in the Tang court.
+*   **789:** Phung Hung passed away. His son Phung An succeeded him and honored him as Bo Cai Dai Vuong.
 *   **819 - 820:** The uprising of Duong Thanh.
 *   **Sep. 820:** Zen Master Vo Ngon Thong arrived at Kien So Pagoda, establishing the Vo Ngon Thong Zen sect.
-*   **822:** Protector General Li Yuanxi moved the administrative seat to the To Lich River area and built the Dai La Citadel. This event is closely tied to the legends of the To Lich River God recorded in *Viet Dien U Linh Tap*.
+*   **822:** Protector General Li Yuanxi moved the administrative seat to the To Lich River area and built the Dai La Citadel. This event is closely tied to the legends of the To Lich River God (To Lich Dai Vuong) recorded in *Viet Dien U Linh Tap*.
+*   **862 - 863:** Internal conflict between Tang officials Sai Kinh and Sai Tap weakened defenses. In Jan 863, Nanzhao forces captured the citadel, killing Sai Tap.
+*   **865 (Autumn):** Cao Bien prepared troops at Hai Mon to counterattack Nanzhao forces.
 *   **866:** After defeating Nanzhao, the Tang dynasty upgraded the An Nam Protectorate to the Jinghai Military Commission (Tinh Hai quan). Cao Bien rebuilt the Dai La Citadel.
 *   **868:** Cao Bien organized the digging of the Thien Oai Canal to facilitate water transport.
 *   **875:** King Indravarman II of Champa established the Indrapura dynasty (Quang Nam), marking a flourishing period of Mahayana Buddhism (Dong Duong style).
@@ -72,6 +79,7 @@
 *   **923:** The Southern Han army invaded and captured Khuc Thua My.
 *   **931:** Duong Dinh Nghe drove out the Southern Han army, proclaiming himself Jiedushi.
 *   **937:** Kieu Cong Tien killed Duong Dinh Nghe to usurp the position.
+*   **Dec. 937:** Ngo Quyen marched from Ai Chau to the North to punish Kieu Cong Tien.
 *   **938:** Ngo Quyen defeated the Southern Han army on the Bach Dang River, ending the period of Northern domination.
 *   **Around the 10th century:** The Nom script began to form after escaping from Northern domination, initially used to record people's names and place names.
 
@@ -81,6 +89,7 @@
 *   **944:** Ngo Quyen passed away. His brother-in-law, Duong Tam Kha, usurped the throne from Ngo Quyen's son, Ngo Xuong Ngap.
 *   **945:** Duong Tam Kha proclaimed himself Binh Vuong (Pacification King).
 *   **950:** Ngo Xuong Van (Ngo Quyen's second son) overthrew Duong Tam Kha, reclaimed the throne, and proclaimed himself Nam Tan Vuong.
+*   **950:** Duong Tam Kha was demoted to Chuong Duong Cong by Ngo Xuong Van instead of being executed, acknowledging his role in raising Xuong Van.
 *   **951 - 954:** The "Two Kings" co-reigned, as Ngo Xuong Van welcomed his older brother, Ngo Xuong Ngap, to rule the country together (Xuong Ngap proclaimed himself Thien Sach Vuong).
 *   **954:** Thien Sach Vuong Ngo Xuong Ngap passed away. Nam Tan Vuong Ngo Xuong Van ruled alone.
 *   **965:** Nam Tan Vuong Ngo Xuong Van was killed in battle while suppressing a rebellion in the two hamlets of Duong and Nguyen. The Ngo dynasty ended.
@@ -90,8 +99,11 @@
 *   **970:** Dinh Tien Hoang established five queens (Dan Gia, Trinh Minh, Kieu Quoc, Co Quoc, and Cao Ong), setting a precedent for the royal harem system.
 *   **971:** Dinh Tien Hoang began to regulate the ranks for civil, military, and monastic officials. Ngo Chan Luu was appointed as the first Sangha Overseer (Tang thong) with the title Grand Master Khuong Viet.
 *   **974:** Dinh Tien Hoang divided the country into 10 circuits (dao).
-*   **Oct. 979:** Do Thich assassinated Emperor Dinh Tien Hoang and Prince Nam Viet Vuong Dinh Lien. Prince Ve Vuong Dinh Toan (6 years old) ascended the throne. Le Hoan acted as regent.
-*   **Jul. 980:** Facing the threat of invasion from the Song dynasty, Le Hoan was enthroned as king by Empress Dowager Duong Van Nga and the army, establishing the Early Le dynasty.
+*   **Spring 978:** Dinh Tien Hoang established his younger son Hang Lang as Crown Prince, bypassing his eldest son Dinh Lien.
+*   **Spring 979:** Nam Viet Vuong Dinh Lien killed Crown Prince Hang Lang.
+*   **Oct. 979:** Do Thich assassinated Emperor Dinh Tien Hoang and Dinh Lien. Prince Ve Vuong Dinh Toan (6 years old) ascended the throne. Le Hoan acted as regent.
+*   **Late 979:** Dinh Dien and Nguyen Bac raised troops to oppose Le Hoan's regency but were defeated and killed. Ngo Nhat Khanh, allied with Champa, attempted an invasion but died in a storm.
+*   **Jul. 980:** Facing the threat of invasion from the Song dynasty, General Pham Cu Luong and the army proclaimed Le Hoan as Emperor. Le Hoan ascended the throne (Le Dai Hanh), establishing the Early Le dynasty.
 *   **Mar. 981:** The Song army, commanded by Hou Renbao, invaded Dai Co Viet.
 *   **Apr. 28, 981:** Le Dai Hanh commanded the battle on the Bach Dang River, defeating the Song army and killing Hou Renbao. The first resistance war against the Song was victorious.
 *   **982:** Le Dai Hanh personally led a campaign against Champa, capturing the capital Dong Duong and killing King Pe Mi Shuei (Paramesvaravarman I).
@@ -99,11 +111,14 @@
 *   **Feb. 984:** The Early Le court minted Thien Phuc coins.
 *   **987 (Spring):** Le Dai Hanh performed the Tich Dien plowing ceremony for the first time at Doi Son to encourage agriculture.
 *   **987:** Song envoy Li Jue visited Dai Co Viet. Zen Master Do Phap Thuan, disguised as a ferryman, engaged in a famous poetry exchange with the envoy, demonstrating the nation's literary culture.
+*   **990:** Le Dai Hanh received the Song envoy Song Cao. He displayed military might and refused to kowtow to the imperial decree, asserting national prestige.
+*   **996:** Le Dai Hanh received Song envoy Li Ruozhuo, continuing to assert independence and dismissing responsibility for border raids.
 *   **1005:** Le Dai Hanh passed away. After internal strife, Le Long Dinh killed his brother Le Long Viet to seize the throne.
 
 ### **Dai Viet Period (Ly Dynasty, 1009 - 1225)**
 
 *   **Nov. 21, 1009:** Le Long Dinh (Le Ngoa Trieu) passed away. Ly Cong Uan was enthroned as king (Ly Thai To), founding the Ly dynasty.
+*   **Jun. 1006:** The Song Emperor refused a petition by local official Ling Ce (Lang Sach) to invade Vietnam during the turmoil of Le Long Dinh's reign, preferring to maintain peace.
 *   **1009:** Before Ly Cong Uan's ascension, Zen Master Van Hanh issued prophecies regarding the fall of the Le dynasty and the rise of the Ly dynasty.
 *   **Jul. 1010:** Ly Thai To issued the "Royal Edict on the Transfer of the Capital," moving the capital from Hoa Lu to Dai La Citadel and renaming it Thang Long. Hoa Lu was renamed Truong Yen prefecture.
 *   **Dec. 1010:** Ly Thai To carried out administrative reforms, dividing the country into 24 routes (lo).
