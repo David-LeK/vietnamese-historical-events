@@ -823,19 +823,23 @@
 *   **20/12/1902:** Toàn quyền Đông Dương ra nghị định chính thức thực hiện chế độ độc quyền về rượu trên toàn cõi Việt Nam.
 *   **1904:** Cuộc "cải lương hương chính" đầu tiên được Pháp thí điểm ở Nam Kỳ nhằm kiểm soát chặt chẽ hơn bộ máy hành chính làng xã.
 *   **1904:** Phan Bội Châu thành lập Hội Duy tân với mục đích đánh đuổi giặc Pháp, khôi phục Việt Nam, lập ra chính phủ độc lập.
-*   **1905:** Phong trào Đông du do Phan Bội Châu khởi xướng bắt đầu, đưa các thanh niên yêu nước sang Nhật Bản học tập. Phan Bội Châu viết tác phẩm *Việt Nam vong quốc sử*.
-*   **14/11/1905:** Sắc lệnh thành lập Tổng Nha học chính Đông Dương, khởi đầu cuộc cải cách giáo dục lần thứ nhất.
+*   **1905:** Phong trào Đông du do Phan Bội Châu khởi xướng bắt đầu, đưa thanh niên yêu nước sang Nhật Bản học tập. Phan Bội Châu viết tác phẩm *Việt Nam vong quốc sử*.
+*   **1905:** Huỳnh Thúc Kháng, Phan Châu Trinh và Trần Quý Cáp thực hiện chuyến "Nam du" vào Bình Định để quan sát tình hình và cổ động duy tân, sáng tác các tác phẩm như *Chí thành thông thánh* và *Lương ngọc danh sơn*.
+*   **1906 - 1908:** Tại làng Phú Lâm (Quảng Nam), Lý trưởng Lê Cơ tiên phong thực hiện cải cách: lập trường học (có trường nữ học đầu tiên trong vùng), hội buôn, đồn điền, trở thành mô hình thực tế của phong trào Duy Tân.
+*   **14/11/1905:** Sắc lệnh thành lập Nha Học chính Đông Dương, bắt đầu cuộc cải cách giáo dục lần thứ nhất.
 *   **1906:** Phong trào Duy tân do Phan Châu Trinh, Huỳnh Thúc Kháng, Trần Quý Cáp khởi xướng lan rộng ở Trung Kỳ, chủ trương "khai dân trí, chấn dân khí, hậu dân sinh".
 *   **16/05/1906:** Toàn quyền Paul Beau ký Nghị định thành lập Đại học Đông Dương.
 *   **03/1907:** Phong trào Đông Kinh Nghĩa thục được thành lập tại Hà Nội do Lương Văn Can, Nguyễn Quyền lãnh đạo, mở trường dạy học miễn phí, truyền bá tư tưởng mới.
 *   **07/04/1907:** Lê Duẩn sinh ra tại Triệu Phong, Quảng Trị. Ông sau này trở thành Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, nhà lãnh đạo kiệt xuất của cách mạng Việt Nam.
 *   **10/11/1907:** Đại học Đông Dương khai giảng khóa đầu tiên.
-*   **03/1908:** Phong trào chống sưu thuế của nông dân bùng nổ ở Quảng Nam rồi lan rộng khắp các tỉnh Trung Kỳ.
+*   **Đầu năm 1908:** Phong trào "xin xâu" (chống sưu thuế) khởi phát từ huyện **Đại Lộc** (Quảng Nam) do dân chúng bức xúc vì chế độ lao dịch nặng nề, sau đó lan rộng khắp các tỉnh Trung Kỳ (Quảng Ngãi, Bình Định, Phú Yên...).
+*   **1908:** Thực dân Pháp và Nam triều đàn áp đẫm máu phong trào. Tiến sĩ **Trần Quý Cáp** bị xử chém tại Khánh Hòa; **Lê Khiết** và **Nguyễn Bá Loan** bị xử chém tại Quảng Ngãi. **Phan Châu Trinh** bị bắt, kết án tử hình rồi giảm án thành đày ra Côn Đảo.
 *   **27/06/1908:** Vụ "Hà thành đầu độc" nổ ra, một nhóm binh lính người Việt và các nhà yêu nước mưu đồ đầu độc binh lính Pháp ở Hà Nội và khởi nghĩa nhưng thất bại.
 *   **09/1908:** Pháp và Nhật ký hiệp ước, theo đó chính phủ Nhật trục xuất các nhà yêu nước và du học sinh Việt Nam, Phong trào Đông du tan rã.
 *   **12/1908:** Thực dân Pháp ra lệnh đóng cửa trường Đông Kinh Nghĩa thục và đàn áp những người tham gia.
 *   **08/1909 - 01/1910:** Cuộc khởi nghĩa của đồng bào Mường ở Hòa Bình do Đốc Bang và Tổng Kiêm lãnh đạo.
 *   **05/06/1911:** Từ Bến Nhà Rồng (Sài Gòn), người thanh niên Nguyễn Tất Thành (lấy tên Văn Ba) lên con tàu *Amiral Latouche-Tréville* ra đi tìm đường cứu nước.
+*   **1911:** Phan Châu Trinh được trả tự do từ Côn Đảo nhờ sự can thiệp của Hội Nhân quyền Pháp, sau đó ông cùng con trai sang Pháp và viết tác phẩm *Trung Kỳ dân biến thỉ mạt ký*.
 *   **18/11/1911:** Đạo Tin Lành đặt cơ sở đầu tiên tại Đà Nẵng, chính thức du nhập vào Việt Nam.
 *   **11/1911:** Albert Sarraut nhậm chức Toàn quyền, tiếp tục đẩy mạnh chính sách "hợp tác" và các cải cách mị dân.
 *   **05/1912:** Phan Bội Châu thành lập Hội Việt Nam Quang Phục tại Quảng Châu (Trung Quốc), chuyển từ chủ trương quân chủ lập hiến sang dân chủ cộng hòa.

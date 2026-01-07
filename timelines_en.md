@@ -824,18 +824,22 @@
 *   **1904:** The first "reform of village administration" was piloted by the French in Cochinchina to tighten control over the village administrative apparatus.
 *   **1904:** Phan Boi Chau founded the Duy Tan Hoi (Modernization Society) with the aim of driving out the French invaders, restoring Vietnam, and establishing an independent government.
 *   **1905:** The Dong Du (Go East) Movement, initiated by Phan Boi Chau, began, sending patriotic youth to Japan to study. Phan Boi Chau wrote the work *Viet Nam vong quoc su* (History of the Loss of Vietnam).
+*   **1905:** Huynh Thuc Khang, Phan Chau Trinh, and Tran Qui Cap undertook a "Southern Trip" (Nam du) to South Central Vietnam to observe the situation and promote modernization ideas, composing famous works like *Chi thanh thong thanh* and *Luong ngoc danh son*.
+*   **1906 - 1908:** Village Chief Le Co implemented comprehensive reforms in Phu Lam village (Quang Nam), establishing schools (including the first girls' school in the region), commercial associations, and plantations, serving as a practical model for the Duy Tan movement.
 *   **Nov. 14, 1905:** A decree established the General Directorate of Public Education of Indochina, initiating the first educational reform.
 *   **1906:** The Duy Tan (Modernization) Movement, initiated by Phan Chau Trinh, Huynh Thuc Khang, and Tran Quy Cap, spread throughout Annam, advocating for "enlightening the people's minds, strengthening the people's spirit, improving the people's livelihood."
 *   **May 16, 1906:** Governor-General Paul Beau signed a decree establishing the University of Indochina.
 *   **Mar. 1907:** The Dong Kinh Nghia Thuc (Tonkin Free School) was founded in Hanoi, led by Luong Van Can and Nguyen Quyen, opening a free school to disseminate new ideas.
 *   **Apr. 7, 1907:** Le Duan was born in Trieu Phong, Quang Tri. He later became the General Secretary of the Communist Party of Vietnam, a prominent leader of the Party and the Vietnamese revolution.
 *   **Nov. 10, 1907:** The University of Indochina opened its first academic year.
-*   **Mar. 1908:** The anti-tax movement of peasants erupted in Quang Nam and then spread throughout the provinces of Annam.
+*   **Early 1908:** The "Xin xau" (anti-tax) movement originated in **Dai Loc district** (Quang Nam) due to excessive corvée labor demands and rapidly spread throughout Central Vietnam (Quang Ngai, Binh Dinh, Phu Yen, etc.).
+*   **1908:** The colonial administration brutally suppressed the Duy Tan movement. Dr. **Tran Qui Cap** was executed in Khanh Hoa; **Le Khiet** and **Nguyen Ba Loan** were executed in Quang Ngai. **Phan Chau Trinh** was arrested, sentenced to death, but later commuted to exile in Con Dao.
 *   **Jun. 27, 1908:** The "Hanoi Poisoning Plot" broke out, in which a group of Vietnamese soldiers and patriots attempted to poison French soldiers in Hanoi and launch an uprising, but it failed.
 *   **Sep. 1908:** France and Japan signed a treaty, under which the Japanese government expelled Vietnamese patriots and students, leading to the collapse of the Dong Du Movement.
 *   **Dec. 1908:** The French colonialists ordered the closure of the Dong Kinh Nghia Thuc school and suppressed its participants.
 *   **Aug. 1909 - Jan. 1910:** The uprising of the Muong people in Hoa Binh, led by Doc Bang and Tong Kiem.
 *   **Jun. 5, 1911:** From Nha Rong Harbor (Saigon), Nguyen Tat Thanh (using the name Van Ba) departed on the ship *Amiral Latouche-Tréville*, beginning his journey to seek a path for national salvation.
+*   **1911:** Following intervention by the French League for Human Rights, Phan Chau Trinh was released from Con Dao prison and subsequently traveled to France, where he wrote the *Trung Ky dan bien thi mat ki* (A Complete Account of the Peasants' Uprising in the Central Region).
 *   **Nov. 18, 1911:** Protestantism established its first base in Da Nang, officially entering Vietnam.
 *   **Nov. 1911:** Albert Sarraut assumed the post of Governor-General, continuing to promote the "association" policy and demagogic reforms.
 *   **May 1912:** Phan Boi Chau founded the Viet Nam Quang Phuc Hoi (Vietnam Restoration League) in Guangzhou (China), shifting from a constitutional monarchy stance to a democratic republic.
