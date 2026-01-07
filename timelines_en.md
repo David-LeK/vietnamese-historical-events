@@ -134,8 +134,10 @@
 *   **Oct. 979:** Do Thich assassinated Emperor Dinh Tien Hoang and Dinh Lien. Prince Ve Vuong Dinh Toan (6 years old) ascended the throne. Le Hoan acted as regent.
 *   **Late 979:** Dinh Dien and Nguyen Bac raised troops to oppose Le Hoan's regency but were defeated and killed. Ngo Nhat Khanh, allied with Champa, attempted an invasion but died in a storm.
 *   **Jul. 980:** Facing the threat of invasion from the Song dynasty, General Pham Cu Luong and the army proclaimed Le Hoan as Emperor. Le Hoan ascended the throne (Le Dai Hanh), establishing the Early Le dynasty.
-*   **Mar. 981:** The Song army, commanded by Hou Renbao, invaded Dai Co Viet.
-*   **Apr. 28, 981:** Le Dai Hanh commanded the battle on the Bach Dang River, defeating the Song army and killing Hou Renbao. The first resistance war against the Song was victorious.
+*   **Aug. 19, 980:** The Song Emperor issued an edict to invade Dai Co Viet, appointing Hou Renbao as the commander.
+*   **Jan. 24, 981:** The Song naval forces commanded by Hou Renbao entered the Bach Dang River. The Dai Co Viet army engaged them but had to retreat with losses.
+*   **Mar. 981:**   **Battle of Luc Giang:** The Song army was defeated by the Dai Co Viet forces at the Binh Lo citadel (Luc Giang), forcing them to retreat to Bach Dang.
+*   **Apr. 28, 981:** Le Dai Hanh commanded the decisive battle on the Bach Dang River. Feigning defeat to lure the enemy into an ambush, the Dai Co Viet army crushed the Song forces, killing Commander Hou Renbao. The first resistance war against the Song was victorious.
 *   **982:** Le Dai Hanh personally led a campaign against Champa, capturing the capital Dong Duong and killing King Pe Mi Shuei (Paramesvaravarman I).
 *   **983:** King Le Dai Hanh ordered the digging of the Ba Hoa Canal (Thanh Hoa) and Da Cai Canal (Nghe An) to facilitate military and water transport.
 *   **Feb. 984:** The Early Le court minted Thien Phuc coins.
@@ -181,9 +183,10 @@
 *   **Feb. 1075:** The first civil service examination in history was held (Minh kinh bac hoc and Nho hoc tam truong). Le Van Thinh ranked first.
 *   **1075:** Ly Thuong Kiet inspected the southern border, drawing maps and renaming Dia Ly district to Lam Binh and Ma Linh district to Minh Linh.
 *   **1075:** Regent Empress Dowager Linh Nhan (Y Lan) directed the pre-emptive strike strategy against the Song. She organized a "special court" of female advisors, including Princess Thien Ninh (in charge of logistics, later worshipped as "Ba Chua Kho"), to manage the rear and supplies.
-*   **Oct. 1075:** Ly Thuong Kiet proactively commanded over 100,000 land and naval troops to attack the Song dynasty's invasion bases in Yong, Qin, and Lian prefectures.
-*   **Jan. 1076:** The Ly army captured Yongzhou Citadel after a 42-day siege.
+*   **Oct. 27, 1075:** The Ly land army, led by chieftains Than Canh Phuc and Ton Dan, crossed the border to attack Song positions (Ung Chau campaign).
+*   **Dec. 30, 1075:** The main Ly naval force, commanded by Ly Thuong Kiet, crossed the sea to attack Kham Chau and Liem Chau.
 *   **Feb. 1076:** The Ly army captured Lianzhou Citadel.
+*   **Mar. 1, 1076:** After a 42-day siege, the Ly army captured Yongzhou (Ung Chau) Citadel.
 *   **1076:** The Quoc Tu Giam (Imperial Academy), the first university of Vietnam, was established.
 *   **1077:** The second resistance war against the Song took place. The Song army, commanded by Guo Kui, was halted at the Nhu Nguyet river defense line and eventually had to retreat.
 *   **1076:** In the battle at Nhu Nguyet River, Ly Thuong Kiet composed the poem *Nam Quoc Son Ha*. The term "Thien Thu" (Book of Heaven) in the poem specifically alluded to the "Divine Book" fabricated by the Song court, using the enemy's own superstition to break their morale.
@@ -235,8 +238,8 @@
 *   **Aug. 1257:** A Mongol envoy came to Dai Viet for the first time to demand submission.
 *   **Dec. 1257:** Mongol forces commanded by Uriyangkhadai attacked the border; the Battle of No Nguyen took place.
 *   **Sep. 1257:** King Tran Thai Tong issued a decree commanding generals to lead troops to guard the borders under the command of Tran Quoc Tuan (Tran Hung Dao).
-*   **Jan. 17, 1258:** Battle of Binh Le Nguyen. King Tran Thai Tong directly commanded the army against the Mongol invasion led by Uriyangkhadai.
-*   **Jan. 29, 1258:** The Tran army counter-attacked, winning a decisive victory at Dong Bo Dau and liberating Thang Long. The first resistance war against the Mongols ended in victory.
+*   **Jan. 17, 1258:**   **Battle of Binh Le Nguyen.** King Tran Thai Tong directly commanded the army against the Mongol invasion led by Uriyangkhadai. Following the advice of Le Tan, the King ordered a strategic retreat to Phu Lo to preserve forces, avoiding the enemy's initial fervor.
+*   **Jan. 29, 1258:**   **Battle of Dong Bo Dau.** Under the command of Tran Khanh Du and the King, the Tran army launched a surprise night attack, winning a decisive victory and liberating Thang Long. The first resistance war against the Mongols ended in victory.
 *   **Mar. 1258:** Tran Thai Tong ceded the throne to his son, Tran Hoang (Tran Thanh Tong).
 *   **1262:** King Tran Thanh Tong elevated Tuc Mac village to Thien Truong prefecture, and built the Trung Quang Palace and Pho Minh Tower (Nam Dinh).
 *   **1267:** The Yuan dynasty presented "six demands" to Dai Viet, including that the Tran king must pay tribute in person and allow the appointment of administrators.
@@ -253,6 +256,8 @@
 *   **1285:** When King Tran Thanh Tong asked if he should surrender during the difficult early stages of the war, Tran Hung Dao famously replied: "Your Majesty, if you want to surrender, please cut off my head first."
 *   **Mar. 1285:** Prince Chieu Quoc Vuong Tran Ich Tac surrendered to the Yuan army.
 *   **May 1285:** The Tran army began a major counter-offensive, winning successive victories at Tay Ket, Chuong Duong, and Ham Tu.
+*   **Jun. 5, 1285:**   **Battle of Chuong Duong - Thang Long.** The Tran army launched a counter-offensive to liberate the capital. General Pham Ngu Lao commanded the flanking attack.
+*   **Jun. 24, 1285:**   **Battle of Tay Ket.** The Tran army defeated the Yuan forces commanded by Sogetu (Toa Do). Toa Do was beheaded in battle.
 *   **Jun. 1285:** The second resistance war against the Mongol-Yuan invaders ended in victory.
 *   **Jul. 15, 1285:** Hoai Van Hau Tran Quoc Toan sacrificed his life in battle at the age of 18 (according to some records). He became an enduring symbol of patriotism and the brave spirit of Vietnamese youth.
 *   **Dec. 1287:** Yuan forces under the command of Toghon launched the third invasion of Dai Viet.
@@ -312,8 +317,9 @@
 *   **Apr. 1406:** The Ming dynasty, under the pretext of escorting Tran Thiem Binh back to the country, sent Han Guan and Huang Zhong with 100,000 troops to invade Dai Ngu.
 *   **Aug. 4, 1406:** The Ho army initially lost a battle at the Lanh Kinh pass but later launched a surprise attack, forcing the Ming army to hand over Tran Thiem Binh and retreat. Tran Thiem Binh was executed by lingchi (death by a thousand cuts).
 *   **Sep. 1406:** The Ming dynasty sent a large army of 800,000 (as claimed) under the command of Zhang Fu and Mu Sheng, advancing in two columns to invade.
-*   **Dec. 12, 1406:** The Ming army attacked and captured Da Bang Citadel, an important defense line of the Ho dynasty. The Ho army was heavily defeated and had to retreat.
-*   **Dec. 14, 1406:** The Ming army entered Dong Do (Thang Long).
+*   **Nov. 19, 1406:** The Ming army attacked the Pha Luy pass.
+*   **Jan. 17, 1407:** Ming general Zhang Fu launched a surprise night attack on the Moc Hoan mudflat.
+*   **Jan. 20, 1407:** The Ming army captured Da Bang Citadel after a fierce siege. The Ho army was heavily defeated.
 *   **Mar. 30, 1407:** Battle of Ham Tu, the Ho army was completely defeated, losing almost all its boats and food supplies.
 *   **Nov. 1407:** The Ming army captured Ho Quy Ly at the Chay rapids (Ha Tinh).
 *   **Nov. 12, 1407:** The Ming army captured Ho Han Thuong and Crown Prince Nhue at Cao Vong Mountain (Ha Tinh). The Ho dynasty collapsed, and Vietnam fell under the yoke of Ming domination.
@@ -353,7 +359,7 @@
 *   **Sep. 1426 (Aug. 20, Lunar Year of the Horse):** Battle of Ninh Kieu. Generals Le Trien and Le Bi ambushed and defeated the Ming army, chasing them to Nhan Muc.
 *   **Sep. 1426:** Le Loi divided his army into three columns to advance north, liberating the Red River Delta.
 *   **Oct. 1426 (Sep. 26, Lunar Year of the Horse):** Ming generals Phuong Chinh and Ly An abandoned Nghe An Citadel and fled by sea to Dong Quan.
-*   **Nov. 6, 1426:** Battle of Tot Dong - Chuc Dong. The Lam Son righteous army crushed 100,000 Ming troops under Wang Tong's command, annihilating over 50,000 enemy soldiers and achieving a decisive victory.
+*   **Nov. 7, 1426:**   **Battle of Tot Dong - Chuc Dong.** The Lam Son army, utilizing a false signal flare tactic to trick the enemy, crushed the Ming army under Wang Tong, annihilating over 50,000 enemy troops.
 *   **Dec. 1426 (Nov., Lunar Year of the Horse):** Le Loi advanced his main army to the Luong River bridge and besieged Dong Quan Citadel (Dong Do).
 *   **Sep. 28, 1427:** The Lam Son righteous army captured Xuong Giang Citadel (Bac Giang), an important stronghold.
 *   **Jul. 1427 (Jun. 10, Lunar Year of the Goat):** Ming general Tran Vien Hau (Chen Yuanhou) with 50,000 troops from Guangxi attacked Pha Luy pass. Generals Le Luu and Le Boi defeated them, killing over 3,000.

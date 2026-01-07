@@ -134,8 +134,10 @@
 *   **10/979 (Kỷ Mão):** Đỗ Thích ám sát vua Đinh Tiên Hoàng và Nam Việt vương Đinh Liễn. Vệ vương Đinh Toàn (6 tuổi) lên ngôi. Lê Hoàn làm nhiếp chính.
 *   **Cuối năm 979:** Đinh Điền và Nguyễn Bặc dấy binh chống Lê Hoàn và bị giết. Phò mã Ngô Nhật Khánh dẫn quân Chiêm Thành định tấn công nhưng bị bão đánh chìm và chết đuối.
 *   **07/980 (Canh Thìn):** Trước nguy cơ xâm lược của nhà Tống, Phạm Cự Lượng cùng các tướng sĩ tôn Lê Hoàn lên làm vua. Lê Hoàn lên ngôi (Lê Đại Hành), lập ra nhà Tiền Lê.
-*   **03/981:** Quân Tống do Hầu Nhân Bảo chỉ huy xâm lược Đại Cồ Việt.
-*   **28/04/981:** Lê Đại Hành chỉ huy trận chiến trên sông Bạch Đằng, đánh tan quân Tống, giết chết Hầu Nhân Bảo. Cuộc kháng chiến chống Tống lần thứ nhất thắng lợi.
+*   **19/08/980:** Vua Tống xuống chiếu phát binh xâm lược Đại Cồ Việt, cử Hầu Nhân Bảo làm tổng chỉ huy.
+*   **24/01/981:** Đạo thủy quân Tống do Hầu Nhân Bảo chỉ huy tiến vào sông Bạch Đằng. Quân Đại Cồ Việt ra chặn đánh nhưng phải rút lui.
+*   **03/981:**   **Trận Lục Giang:** Quân Tống bị quân Đại Cồ Việt đánh bại tại thành Bình Lỗ, buộc phải rút về sông Bạch Đằng.
+*   **28/04/981:** Lê Đại Hành dùng kế trá hàng để dụ địch, sau đó tung quân mai phục đánh tan quân Tống trên sông Bạch Đằng, giết chết chủ tướng Hầu Nhân Bảo.
 *   **982:** Lê Đại Hành thân chinh đánh Champa, chiếm kinh đô Đồng Dương và giết vua Bề Mi Thuế.
 *   **983:** Lê Đại Hành ra lệnh đào kênh Bà Hòa (Thanh Hóa) và kênh Đa Cái (Nghệ An) để thuận tiện cho việc vận chuyển quân lương và giao thông đường thủy.
 *   **02/984:** Triều Tiền Lê cho đúc tiền Thiên Phúc.
@@ -181,9 +183,10 @@
 *   **02/1075:** Mở khoa thi đầu tiên trong lịch sử (Minh kinh bác học và Nho học tam trường). Lê Văn Thịnh đỗ đầu.
 *   **1075:** Lý Thường Kiệt đi tuần hành biên giới phía nam, vẽ bản đồ hình thế núi sông và đổi châu Địa Lý làm châu Lâm Bình, châu Ma Linh làm châu Minh Linh.
 *   **1075:** Linh Nhân Hoàng thái hậu (Ỷ Lan) nhiếp chính, quyết định chủ trương "Tiên phát chế nhân" đánh sang đất Tống. Bà tổ chức một bộ máy hậu cần đặc biệt với các nữ quan như Công chúa Thiên Ninh (Bà Chúa Kho) để đảm bảo lương thảo.
-*   **10/1075:** Lý Thường Kiệt chủ động chỉ huy hơn 10 vạn quân thủy bộ tiến đánh các căn cứ xâm lược của nhà Tống ở Ung Châu, Khâm Châu, Liêm Châu.
-*   **01/1076:** Quân Lý hạ thành Ung Châu sau 42 ngày vây hãm.
+*   **27/10/1075:** Đạo quân bộ của nhà Lý do các tù trưởng Thân Cảnh Phúc, Tôn Đản chỉ huy vượt biên giới tấn công Ung Châu.
+*   **30/12/1075:** Đạo quân thủy chủ lực do Lý Thường Kiệt chỉ huy vượt biển tấn công Khâm Châu và Liêm Châu.
 *   **02/1076:** Quân Lý hạ thành Liêm Châu.
+*   **01/03/1076:** Sau 42 ngày vây hãm ác liệt, quân Lý hạ thành Ung Châu.
 *   **1076:** Lập Quốc Tử Giám, trường đại học đầu tiên của Việt Nam.
 *   **1077:** Cuộc kháng chiến chống Tống lần thứ hai diễn ra. Quân Tống do Quách Quỳ chỉ huy bị chặn đứng trên phòng tuyến sông Như Nguyệt và cuối cùng phải rút quân về nước.
 *   **1076:** Lý Thường Kiệt công bố bài thơ *Nam quốc sơn hà* trên phòng tuyến sông Như Nguyệt. Chữ "Thiên thư" được cho là ám chỉ bộ sách ngụy tạo của vua quan nhà Tống, dùng chính niềm tin của địch để đánh vào tinh thần địch.
@@ -235,8 +238,8 @@
 *   **08/1257:** Sứ Mông Cổ đến Đại Việt lần đầu tiên để dụ hàng.
 *   **12/1257:** Quân Mông Cổ do Ngột Lương Hợp Thai chỉ huy tiến đánh biên giới; diễn ra trận Nổ Nguyên.
 *   **09/1257:** Vua Trần Thái Tông xuống chiếu, lệnh cho các tướng đem quân thủy bộ ra ngăn giữ biên giới phía Bắc dưới sự tiết chế của Quốc công Trần Quốc Tuấn (Trần Hưng Đạo).
-*   **17/01/1258:** Trận Bình Lệ Nguyên. Vua Trần Thái Tông trực tiếp chỉ huy quân đội chống lại cuộc xâm lược của Mông Cổ do Ngột Lương Hợp Thai chỉ huy.
-*   **29/01/1258:** Quân Trần phản công, giành thắng lợi quyết định ở Đông Bộ Đầu, giải phóng Thăng Long. Cuộc kháng chiến chống Mông Cổ lần thứ nhất kết thúc thắng lợi.
+*   **17/01/1258:**   **Trận Bình Lệ Nguyên.** Vua Trần Thái Tông trực tiếp chỉ huy quân đội chống lại cuộc xâm lược của Mông Cổ do Ngột Lương Hợp Thai chỉ huy. Nghe theo lời khuyên của Lê Tần, nhà vua quyết định lui quân về Phủ Lỗ để tránh thế giặc mạnh ban đầu, bảo toàn lực lượng.
+*   **29/01/1258:**   **Trận Đông Bộ Đầu.** Tướng Trần Khánh Dư và quân nhà Trần tổ chức tập kích ban đêm, giành thắng lợi quyết định, giải phóng Thăng Long.
 *   **03/1258:** Trần Thái Tông nhường ngôi cho con là Trần Hoảng (Trần Thánh Tông).
 *   **1262 (Năm Thiệu Long thứ 5):** Nhà Trần đổi hương Tức Mặc làm phủ Thiên Trường, dựng hành cung Trùng Quang và tháp Phổ Minh (Nam Định).
 *   **1267:** Nhà Nguyên đưa ra "sáu việc" yêu sách đối với Đại Việt, bao gồm việc vua Trần phải sang chầu và đặt quan cai trị.
@@ -253,6 +256,8 @@
 *   **1285:** Khi Thượng hoàng Trần Thánh Tông vờ hỏi có nên hàng không, Trần Hưng Đạo đã khẳng khái trả lời: "Bệ hạ chém đầu tôi trước rồi hãy hàng".
 *   **03/1285:** Chiêu Quốc vương Trần Ích Tắc đem gia quyến đầu hàng quân Nguyên.
 *   **05/1285:** Quân Trần bắt đầu cuộc phản công lớn, giành thắng lợi liên tiếp ở Tây Kết, Chương Dương, Hàm Tử.
+*   **05/06/1285:**   **Trận Chương Dương - Thăng Long:** Quân Trần tổ chức phản công lớn, Phạm Ngũ Lão chỉ huy cánh quân đánh vu hồi giải phóng kinh thành.
+*   **24/06/1285:**   **Trận Tây Kết:** Quân Trần tiêu diệt đạo quân của Toa Đô, chém đầu chủ tướng giặc tại trận.
 *   **06/1285:** Cuộc kháng chiến chống quân xâm lược Mông-Nguyên lần thứ hai kết thúc thắng lợi.
 *   **15/07/1285:** Hoài Văn hầu Trần Quốc Toản hy sinh (theo một số tài liệu) ở tuổi 18. Tấm gương dũng cảm và lá cờ thêu sáu chữ vàng của ông đã trở thành biểu tượng bất diệt cho lòng yêu nước của tuổi trẻ Việt Nam.
 *   **12/1287:** Quân Nguyên do Thoát Hoan chỉ huy tiến hành cuộc xâm lược Đại Việt lần thứ ba.
@@ -312,8 +317,9 @@
 *   **04/1406:** Nhà Minh lấy cớ đưa Trần Thiêm Bình về nước, sai Hàn Quan và Hoàng Trung đem 10 vạn quân xâm lược Đại Ngu.
 *   **08/04/1406:** Quân Hồ ban đầu thua trận ở cửa Lãnh Kinh nhưng sau đó đánh úp, buộc quân Minh phải giao nộp Trần Thiêm Bình và rút lui. Trần Thiêm Bình bị xử lăng trì.
 *   **09/1406:** Nhà Minh cử đại quân 80 vạn (theo tuyên bố) do Trương Phụ và Mộc Thạnh chỉ huy, chia làm 2 đường tiến vào xâm lược.
-*   **12/12/1406:** Quân Minh tấn công và hạ được thành Đa Bang, một phòng tuyến quan trọng của nhà Hồ. Quân Hồ thua to, phải rút lui.
-*   **14/12/1406:** Quân Minh tiến vào Đông Đô (Thăng Long).
+*   **19/11/1406:** Quân Minh tấn công cửa ải Pha Lũy.
+*   **17/01/1407:** Trương Phụ đánh úp bãi Mộc Hoàn.
+*   **20/01/1407:** Thành Đa Bang thất thủ sau cuộc tấn công ác liệt của quân Minh. Quân nhà Hồ tan vỡ.
 *   **30/03/1407:** Trận Hàm Tử, quân nhà Hồ đại bại, thuyền bè và lương thực bị mất gần hết.
 *   **11/1407:** Quân Minh bắt được Hồ Quý Ly ở ghềnh Chảy (Hà Tĩnh).
 *   **12/11/1407:** Quân Minh bắt được Hồ Hán Thương và Thái tử Nhuế ở núi Cao Vọng (Hà Tĩnh). Triều Hồ sụp đổ, Việt Nam rơi vào ách đô hộ của nhà Minh.
@@ -353,7 +359,7 @@
 *   **09/1426 (20/08 năm Bính Ngọ):** Trận Ninh Kiều. Các tướng Lê Triện, Lê Bí phục kích đánh bại quân Minh, đuổi địch đến tận Nhân Mục.
 *   **09/1426:** Lê Lợi chia quân làm 3 đạo tiến ra Bắc, giải phóng đồng bằng sông Hồng.
 *   **10/1426 (26/09 năm Bính Ngọ):** Tướng Minh là Phương Chính, Lý An bỏ thành Nghệ An, theo đường biển chạy về Đông Quan.
-*   **06/11/1426:** Trận Tốt Động - Chúc Động. Nghĩa quân Lam Sơn đại phá 10 vạn quân Minh do Vương Thông chỉ huy, tiêu diệt hơn 5 vạn quân địch, giành thắng lợi quyết định.
+*   **07/11/1426:**   **Trận Tốt Động - Chúc Động:** Nghĩa quân Lam Sơn dùng kế bắn pháo hiệu giả để lừa địch, đại phá 10 vạn quân Minh do Vương Thông chỉ huy, tiêu diệt hơn 5 vạn tên.
 *   **12/1426 (Tháng 11 năm Bính Ngọ):** Lê Lợi tiến quân đến cầu sông Luống, hội quân vây hãm thành Đông Quan (Đông Đô).
 *   **28/09/1427:** Nghĩa quân Lam Sơn hạ thành Xương Giang (Bắc Giang), một cứ điểm quan trọng.
 *   **07/1427 (10/06 năm Đinh Mùi):** Tướng Minh là Trần Viễn Hầu đem 5 vạn quân từ Quảng Tây sang cứu viện, bị các tướng Lê Lựu, Lê Bôi đánh bại tại ải Pha Lũy.
