@@ -833,18 +833,23 @@
 *   **1902:** Cầu Long Biên (Hà Nội) và tuyến đường sắt Hà Nội - Hải Phòng hoàn thành. Trường Y khoa Đông Dương được thành lập.
 *   **01/07/1902:** Paul Beau nhậm chức Toàn quyền, thay thế Paul Doumer và bắt đầu thực thi chính sách "hợp tác với người bản xứ".
 *   **20/12/1902:** Toàn quyền Đông Dương ra nghị định chính thức thực hiện chế độ độc quyền về rượu trên toàn cõi Việt Nam.
+*   **1903:** Phan Bội Châu gặp Nguyễn Thành (Tiểu La) tại Quảng Nam để bàn định phương lược cứu nước, thống nhất liên kết dư đảng Cần Vương và cầu ngoại viện.
 *   **1904:** Cuộc "cải lương hương chính" đầu tiên được Pháp thí điểm ở Nam Kỳ nhằm kiểm soát chặt chẽ hơn bộ máy hành chính làng xã.
 *   **1904:** Phan Bội Châu thành lập Hội Duy tân với mục đích đánh đuổi giặc Pháp, khôi phục Việt Nam, lập ra chính phủ độc lập.
+*   **Cuối năm 1904:** Phan Châu Trinh, Trần Quý Cáp và Huỳnh Thúc Kháng cùng nhau Nam du. Tại Bình Định, các ông mượn kỳ thi hạch để làm bài thơ *Chí thành thông thánh* và bài phú *Lương ngọc danh sơn*, đả kích lối học từ chương.
 *   **1905:** Phong trào Đông du do Phan Bội Châu khởi xướng bắt đầu, đưa thanh niên yêu nước sang Nhật Bản học tập. Phan Bội Châu viết tác phẩm *Việt Nam vong quốc sử*.
-*   **1905:** Huỳnh Thúc Kháng, Phan Châu Trinh và Trần Quý Cáp thực hiện chuyến "Nam du" vào Bình Định để quan sát tình hình và cổ động duy tân, sáng tác các tác phẩm như *Chí thành thông thánh* và *Lương ngọc danh sơn*.
+*   **1905:** Ông Nguyễn Trọng Lợi mở hội Thanh niên thể dục và trường Dục Anh tại Bình Thuận để dạy học theo tinh thần mới.
 *   **1906 - 1908:** Tại làng Phú Lâm (Quảng Nam), Lý trưởng Lê Cơ tiên phong thực hiện cải cách: lập trường học (có trường nữ học đầu tiên trong vùng), hội buôn, đồn điền, trở thành mô hình thực tế của phong trào Duy Tân.
 *   **14/11/1905:** Sắc lệnh thành lập Nha Học chính Đông Dương, bắt đầu cuộc cải cách giáo dục lần thứ nhất.
 *   **1906:** Phong trào Duy tân do Phan Châu Trinh, Huỳnh Thúc Kháng, Trần Quý Cáp khởi xướng lan rộng ở Trung Kỳ, chủ trương "khai dân trí, chấn dân khí, hậu dân sinh".
 *   **16/05/1906:** Toàn quyền Paul Beau ký Nghị định thành lập Đại học Đông Dương.
-*   **03/1907:** Phong trào Đông Kinh Nghĩa thục được thành lập tại Hà Nội do Lương Văn Can, Nguyễn Quyền lãnh đạo, mở trường dạy học miễn phí, truyền bá tư tưởng mới.
+*   **03/1907:** Đông Kinh Nghĩa Thục bắt đầu mở lớp dạy chữ Quốc ngữ cho cả nam và nữ tại số 4 Hàng Đào (Hà Nội) trước khi có giấy phép chính thức.
 *   **07/04/1907:** Lê Duẩn sinh ra tại Triệu Phong, Quảng Trị. Ông sau này trở thành Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, nhà lãnh đạo kiệt xuất của cách mạng Việt Nam.
+*   **05/1907:** Đông Kinh Nghĩa Thục chính thức được cấp giấy phép, mở rộng quy mô dạy học, diễn thuyết và cổ động thực nghiệp.
 *   **10/11/1907:** Đại học Đông Dương khai giảng khóa đầu tiên.
+*   **01/1908:** Thực dân Pháp thu giấy phép của Đông Kinh Nghĩa Thục vì lo ngại phong trào làm náo động lòng dân.
 *   **Đầu năm 1908:** Phong trào "xin xâu" (chống sưu thuế) khởi phát từ huyện **Đại Lộc** (Quảng Nam) do dân chúng bức xúc vì chế độ lao dịch nặng nề, sau đó lan rộng khắp các tỉnh Trung Kỳ (Quảng Ngãi, Bình Định, Phú Yên...).
+*   **1908:** Bài *Thiết tiền ca* của Nguyễn Phan Lăng (Đoàn Xuyên) được phổ biến, kêu gọi tẩy chay tiền sắt của Pháp, gây ảnh hưởng lớn đến chính sách kinh tế của thực dân.
 *   **1908:** Thực dân Pháp và Nam triều đàn áp đẫm máu phong trào. Tiến sĩ **Trần Quý Cáp** bị xử chém tại Khánh Hòa; **Lê Khiết** và **Nguyễn Bá Loan** bị xử chém tại Quảng Ngãi. **Phan Châu Trinh** bị bắt, kết án tử hình rồi giảm án thành đày ra Côn Đảo.
 *   **27/06/1908:** Vụ "Hà thành đầu độc" nổ ra, một nhóm binh lính người Việt và các nhà yêu nước mưu đồ đầu độc binh lính Pháp ở Hà Nội và khởi nghĩa nhưng thất bại.
 *   **09/1908:** Pháp và Nhật ký hiệp ước, theo đó chính phủ Nhật trục xuất các nhà yêu nước và du học sinh Việt Nam, Phong trào Đông du tan rã.
@@ -937,6 +942,7 @@
 *   **1927:** Tác phẩm *Đường Kách mệnh* của Nguyễn Ái Quốc được xuất bản.
 *   **25/02/1927:** Thống sứ Bắc Kỳ Robin ra nghị định sửa đổi cuộc cải lương hương chính, cho phép Hội đồng kỳ mục cũ tồn tại song song với Hội đồng tộc biểu.
 *   **03/1927:** Đại hội đồng Giáo hội Tin Lành được tổ chức tại Đà Nẵng.
+*   **13/06/1927:** Cụ Lương Văn Can, Thục trưởng Đông Kinh Nghĩa Thục, qua đời tại Hà Nội. Đám tang của cụ trở thành sự kiện biểu dương lòng yêu nước của học sinh và thợ thuyền.
 *   **14/07/1927:** Hội Việt Nam Cách mệnh đồng chí Hội (tiền thân của Tân Việt) được thành lập.
 *   **19/07/1927:** Thành lập Tổng Thanh tra lao động Đông Dương.
 *   **30/10/1927:** Nghị định tái tổ chức bộ máy hành chính cấp làng xã ở Nam Kỳ.

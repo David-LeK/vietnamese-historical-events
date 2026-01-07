@@ -833,18 +833,23 @@
 *   **1902:** The Long Bien Bridge (Hanoi) and the Hanoi - Haiphong railway line were completed. The Indochina Medical School was founded.
 *   **Jul. 1, 1902:** Paul Beau assumed the post of Governor-General, replacing Paul Doumer, and began implementing a policy of "association with the natives."
 *   **Dec. 20, 1902:** The Governor-General of Indochina issued a decree officially implementing a monopoly on alcohol throughout Vietnam.
+*   **1903:** Phan Boi Chau met Nguyen Thanh (Tieu La) in Quang Nam to discuss revolutionary strategies, agreeing to unite former Can Vuong members, support Prince Cuong De, and seek foreign aid.
 *   **1904:** The first "reform of village administration" was piloted by the French in Cochinchina to tighten control over the village administrative apparatus.
 *   **1904:** Phan Boi Chau founded the Duy Tan Hoi (Modernization Society) with the aim of driving out the French invaders, restoring Vietnam, and establishing an independent government.
+*   **Late 1904:** Phan Chau Trinh, Tran Qui Cap, and Huynh Thuc Khang undertook a "Southern Trip" (Nam du). In Binh Dinh, they wrote *Chi thanh thong thanh* and *Luong ngoc danh son* to criticize the obsolete examination system.
 *   **1905:** The Dong Du (Go East) Movement, initiated by Phan Boi Chau, began, sending patriotic youth to Japan to study. Phan Boi Chau wrote the work *Viet Nam vong quoc su* (History of the Loss of Vietnam).
-*   **1905:** Huynh Thuc Khang, Phan Chau Trinh, and Tran Qui Cap undertook a "Southern Trip" (Nam du) to South Central Vietnam to observe the situation and promote modernization ideas, composing famous works like *Chi thanh thong thanh* and *Luong ngoc danh son*.
+*   **1905:** Nguyen Trong Loi established the Youth Physical Education Association and the Duc Anh School in Binh Thuan to promote modern education.
 *   **1906 - 1908:** Village Chief Le Co implemented comprehensive reforms in Phu Lam village (Quang Nam), establishing schools (including the first girls' school in the region), commercial associations, and plantations, serving as a practical model for the Duy Tan movement.
 *   **Nov. 14, 1905:** A decree established the General Directorate of Public Education of Indochina, initiating the first educational reform.
 *   **1906:** The Duy Tan (Modernization) Movement, initiated by Phan Chau Trinh, Huynh Thuc Khang, and Tran Quy Cap, spread throughout Annam, advocating for "enlightening the people's minds, strengthening the people's spirit, improving the people's livelihood."
 *   **May 16, 1906:** Governor-General Paul Beau signed a decree establishing the University of Indochina.
-*   **Mar. 1907:** The Dong Kinh Nghia Thuc (Tonkin Free School) was founded in Hanoi, led by Luong Van Can and Nguyen Quyen, opening a free school to disseminate new ideas.
+*   **Mar. 1907:** Dong Kinh Nghia Thuc (Tonkin Free School) began holding Quoc Ngu classes for both men and women at 4 Hang Dao Street (Hanoi) before receiving an official license.
 *   **Apr. 7, 1907:** Le Duan was born in Trieu Phong, Quang Tri. He later became the General Secretary of the Communist Party of Vietnam, a prominent leader of the Party and the Vietnamese revolution.
+*   **May 1907:** Dong Kinh Nghia Thuc was officially granted a license, expanding its activities in teaching, public speaking, and promoting industry and commerce.
 *   **Nov. 10, 1907:** The University of Indochina opened its first academic year.
+*   **Jan. 1908:** The French colonial administration revoked the license of Dong Kinh Nghia Thuc due to fears of its growing influence.
 *   **Early 1908:** The "Xin xau" (anti-tax) movement originated in **Dai Loc district** (Quang Nam) due to excessive corvée labor demands and rapidly spread throughout Central Vietnam (Quang Ngai, Binh Dinh, Phu Yen, etc.).
+*   **1908:** The poem *Thiet tien ca* (Iron Money Song) by Nguyen Phan Lang was circulated, calling for a boycott of French iron coins, causing significant economic disruption for the colonial administration.
 *   **1908:** The colonial administration brutally suppressed the Duy Tan movement. Dr. **Tran Qui Cap** was executed in Khanh Hoa; **Le Khiet** and **Nguyen Ba Loan** were executed in Quang Ngai. **Phan Chau Trinh** was arrested, sentenced to death, but later commuted to exile in Con Dao.
 *   **Jun. 27, 1908:** The "Hanoi Poisoning Plot" broke out, in which a group of Vietnamese soldiers and patriots attempted to poison French soldiers in Hanoi and launch an uprising, but it failed.
 *   **Sep. 1908:** France and Japan signed a treaty, under which the Japanese government expelled Vietnamese patriots and students, leading to the collapse of the Dong Du Movement.
@@ -937,6 +942,7 @@
 *   **1927:** Nguyen Ai Quoc's work *Duong Kach menh* (The Revolutionary Path) was published.
 *   **Feb. 25, 1927:** The Resident Superior of Tonkin, Robin, issued a decree amending the reform of village administration, allowing the old council of village notables to exist alongside the council of representatives.
 *   **Mar. 1927:** The General Assembly of the Protestant Church was held in Da Nang.
+*   **Jun. 13, 1927:** Luong Van Can, the Principal of Dong Kinh Nghia Thuc, passed away in Hanoi. His funeral turned into a mass demonstration of patriotism by students and workers.
 *   **Jul. 14, 1927:** The Vietnamese Revolutionary Comrades' Association (precursor to Tan Viet) was founded.
 *   **Jul. 19, 1927:** The General Inspectorate of Labor of Indochina was established.
 *   **Oct. 30, 1927:** A decree reorganized the administrative apparatus at the village level in Cochinchina.
