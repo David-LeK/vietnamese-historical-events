@@ -454,6 +454,7 @@
 *   **1714:** Lord Nguyen Phuc Chu renovated Thien Mu Pagoda and proclaimed himself **"Dai Viet Quoc Vuong"** (King of Dai Viet) in the bell inscription.
 *   **1718:** In Dang Ngoai, Lord Trinh Cuong established the Six Bureaus (Luc phien) in the Lord's Palace, usurping all power, leaving the Le court's Six Ministries with only nominal authority.
 *   **1721:** The Le court (under Lord Trinh Cuong) revised and standardized the uniforms for civil and military officials, distinguishing ranks clearly.
+*   **1721:** Hai Thuong Lan Ong Le Huu Trac, a celebrated traditional physician and writer, was born in Hung Yen.
 *   **1725:** Lord Nguyen Phuc Chu passed away. His son, Nguyen Phuc Chu (Lord Ninh), succeeded him.
 *   **1729:** Lord Trinh Cuong passed away. His son, Trinh Giang, succeeded him as Lord (Uy Nam Vuong).
 *   **1736:** Mac Thien Tich established the **Chieu Anh Cac** (Pavilion of Unadorned Beauty), a famous literary society in Ha Tien, promoting culture and literature in the newly developed southern lands.
@@ -514,11 +515,14 @@
 *   **Sep. 13, 1780 (15th of the 8th lunar month):** Lord Trinh Sam imprisoned Crown Prince Trinh Tong due to a plot to buy weapons and recruit soldiers, demoting him to the youngest son.
 *   **May 1781:** Nguyen Anh executed the powerful General Do Thanh Nhan due to his arrogance and overbearing power. This act led to the rebellion of Nhan's Dong Son army, significantly weakening Nguyen Anh's forces.
 *   **1782:** Nguyen Anh recaptured Gia Dinh.
+*   **Feb. 1782 (Jan., Lunar Year of the Tiger):** Physician Le Huu Trac traveled to the capital Thang Long to treat Crown Prince Trinh Can under royal summons. He recorded observations of the capital's political and social situation in his memoir *Thuong Kinh Ky Su* (Chronicles of a Journey to the Capital).
 *   **Mar. 1782:** Battle of That Ky River (Nga Bay, Saigon). The Tay Son army defeated Nguyen Anh's navy and Western warships, killing the French commander Manuel.
 *   **Jul. 7, 1782:** In retaliation for the death of his prominent general Pham Ngan at Tham Luong bridge, Nguyen Nhac ordered a massacre of the Chinese community in Gia Dinh (settlers and merchants), whom he accused of supporting the Nguyen. Thousands were killed, and bodies clogged the river, causing a massive disruption to trade and the economy.
 *   **1782:** In Dang Ngoai (the North), the 'Revolt of the Palace Guards' broke out. The rebellious guards further weakened the Trinh lords' court, creating favorable conditions for the later advance of the Tay Son army to the North.
 *   **Oct. 19, 1782 (13th of the 9th lunar month):** Lord Trinh Sam passed away. His young son Trinh Can succeeded him (Dien Do Vuong).
 *   **Nov. 28, 1782 (24th of the 10th lunar month):** The "Revolt of the Palace Guards" (Loạn kiêu binh) erupted. Soldiers killed Regent Hoang Dinh Bao (Huy Quan Cong), deposed Trinh Can, and installed Trinh Tong as Lord (Doan Nam Vuong).
+*   **Dec. 1782 (Nov., Lunar Year of the Tiger):** Le Huu Trac returned to his hometown in Huong Son after his trip to the capital.
+*   **1783:** Le Huu Trac completed the memoir *Thuong Kinh Ky Su* (Chronicles of a Journey to the Capital), providing a vivid account of the chaotic society and the luxurious but decaying life of the Le-Trinh court.
 *   **Feb. 24, 1783:** In a naval battle against the Tay Son at Gia Dinh, the Nguyen army attempted a fire attack but failed due to a sudden change in wind direction, resulting in the destruction of their own fleet. Nguyen Anh was forced to flee to Phu Quoc Island.
 *   **1783:** Nguyen Hue and Nguyen Lu led troops to attack; Nguyen Anh was again defeated and had to flee to Siam (Thailand) to seek aid.
 *   **Mar. 1784:** Bishop Pigneau de Béhaine (Bá Đa Lộc) represented Nguyen Anh in going to France to ask for help.
@@ -557,6 +561,7 @@
 *   **Mar. 1790:** Under the direction of Nguyen Anh, Western engineers Olivier de Puynamel and Le Brun began the construction of the **Gia Dinh Citadel** following the Vauban architectural style. This octagonal citadel became a strategic military stronghold for the Nguyen forces in the South.
 *   **1791:** Emperor Quang Trung established the **Institute for the Veneration of Orthodoxy** (Vien Sung Chinh), headed by Nguyen Thiep. This marked a significant cultural milestone as **Chu Nom** (Vietnamese demotic script) was elevated to the status of the national official script for documents and education, replacing Classical Chinese.
 *   **1791:** The Tay Son launched a large-scale invasion of Laos. Meanwhile, historical records indicate growing dissatisfaction among the populace in both Tay Son-controlled central regions and Nguyen-controlled southern regions due to war burdens and taxes.
+*   **1791:** Le Huu Trac passed away.
 *   **1792:** Emperor Quang Trung prepared a massive military campaign. His plan involved first attacking China to recover the "lost" provinces of Guangdong and Guangxi, and subsequently launching a major campaign to destroy Nguyen Anh's forces. However, these plans were cancelled due to his sudden death.
 *   **Jul. 1792:** The Nguyen navy, utilizing Western-style ships and tactics, launched a surprise attack on the Tay Son navy at **Thi Nai** port, destroying many vessels. This was a significant initial victory for the modernized Nguyen navy.
 *   **Sep. 15, 1792 (29th of the 7th lunar month):** Emperor Quang Trung suddenly passed away at the age of 40 (according to the text *Nhà Tây Sơn*). His son, Nguyen Quang Toan (10 years old), succeeded him, taking the era name Canh Thinh.

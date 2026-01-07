@@ -454,6 +454,7 @@
 *   **1714:** Chúa Nguyễn Phúc Chu cho trùng tu chùa Thiên Mụ và tự xưng là **"Đại Việt quốc vương"** trong bài minh khắc trên chuông.
 *   **1718:** Ở Đàng Ngoài, chúa Trịnh Cương lập ra Lục phiên ở phủ Chúa, thâu tóm toàn bộ quyền lực, Lục bộ của triều đình nhà Lê chỉ còn là hư vị.
 *   **1721:** Vua Lê Dụ Tông (thực chất là chúa Trịnh Cương) định lại quy chế phẩm phục quan lại văn võ, phân biệt cấp bậc rõ ràng.
+*   **1721:** Hải Thượng Lãn Ông Lê Hữu Trác, danh y và nhà văn lớn của Việt Nam, sinh ra tại xã Liêu Xá, huyện Đường Hào, trấn Hải Dương (nay thuộc Hưng Yên).
 *   **1725:** Chúa Nguyễn Phúc Chu mất, con là Nguyễn Phúc Chú lên nối ngôi (Ninh Vương).
 *   **1729:** Chúa Trịnh Cương mất, con là Trịnh Giang lên nối ngôi (Uy Nam Vương).
 *   **1736:** Mạc Thiên Tích thành lập **Tao đàn Chiêu Anh Các** tại Hà Tiên, tập hợp các văn nhân thi sĩ, đánh dấu bước phát triển rực rỡ của văn hóa, văn học vùng đất phương Nam.
@@ -514,11 +515,14 @@
 *   **13/09/1780 (15/08 năm Canh Tý):** Chúa Trịnh Sâm bắt giam Thế tử Trịnh Tông vì mưu đồ mua vũ khí và chiêu mộ binh lính, giáng xuống làm con út.
 *   **05/1781:** Nguyễn Ánh ra lệnh giết Đỗ Thanh Nhân, một tướng lĩnh quyền lực và kiêu ngạo. Sự kiện này dẫn đến việc binh lính Đông Sơn của Đỗ Thanh Nhân nổi loạn, làm suy yếu đáng kể lực lượng của Nguyễn Ánh.
 *   **1782:** Nguyễn Ánh chiếm lại được Gia Định.
+*   **02/1782 (Tháng Giêng năm Nhâm Dần):** Danh y Lê Hữu Trác nhận chỉ triệu ra kinh đô Thăng Long chữa bệnh cho Thế tử Trịnh Cán. Chuyến đi này được ông ghi lại trong tác phẩm *Thượng Kinh ký sự*.
 *   **03/1782:** Trận Thất Kỳ giang (Ngã Bảy, Sài Gòn). Quân Tây Sơn đánh bại thủy quân của Nguyễn Ánh và các tàu chiến phương Tây, giết chết chỉ huy Manuel (Mạn Hòe).
 *   **07/07/1782:** Để trả thù cho cái chết của Hộ giá Phạm Ngạn tại cầu Tham Lương, Nguyễn Nhạc đã ra lệnh tàn sát hàng ngàn người Hoa (thương nhân và binh lính) tại Gia Định, gây nên sự đình trệ nghiêm trọng về thương mại và kinh tế trong vùng.
 *   **1782:** Tại Đàng Ngoài, xảy ra "Loạn kiêu binh", quân lính kiêu binh nổi loạn làm triều chính họ Trịnh càng thêm suy yếu, tạo điều kiện cho quân Tây Sơn tiến ra Bắc sau này.
 *   **19/10/1782 (13/09 năm Nhâm Dần):** Chúa Trịnh Sâm mất. Con nhỏ là Trịnh Cán nối ngôi (Điện Đô Vương).
 *   **28/11/1782 (24/10 năm Nhâm Dần):** "Loạn kiêu binh" bùng nổ. Quân lính giết Quận huy Hoàng Đình Bảo, phế truất Trịnh Cán và đưa Trịnh Tông (Trịnh Khải) lên thay (Đoan Nam Vương).
+*   **12/1782 (Tháng 11 năm Nhâm Dần):** Lê Hữu Trác về đến quê nhà Hương Sơn sau chuyến đi ra kinh đô.
+*   **1783:** Lê Hữu Trác hoàn thành tác phẩm *Thượng Kinh ký sự*, ghi chép chân thực về cảnh sống xa hoa nhưng suy tàn của phủ chúa Trịnh và xã hội Đàng Ngoài đương thời.
 *   **24/02/1783:** Trận thủy chiến tại sông Gia Định (khu vực Vàm Cỏ - Cá Trê), quân Nguyễn dùng hỏa công nhưng gặp gió đông bắc thổi mạnh ngược lại, tự thiêu rụi thuyền bè. Nguyễn Ánh phải chạy ra đảo Côn Lôn rồi Phú Quốc.
 *   **1783:** Nguyễn Huệ và Nguyễn Lữ đem quân vào đánh, Nguyễn Ánh lại thua trận, phải chạy sang Xiêm cầu viện.
 *   **Mùa đông 1784:** Nguyễn Ánh cử Hoàng tử Cảnh đi cùng Giám mục Pigneau de Béhaine (Bá Đa Lộc) sang Pháp cầu viện.
@@ -557,6 +561,7 @@
 *   **03/1790:** Dưới sự chỉ đạo của Nguyễn Ánh, các kỹ sư phương Tây là Olivier de Puynamel và Le Brun bắt đầu xây dựng **thành Gia Định** (thành Bát Quái) theo kiểu Vauban. Đây là một công trình phòng thủ kiên cố, đóng vai trò quan trọng trong việc bảo vệ căn cứ địa của quân Nguyễn.
 *   **1791:** Vua Quang Trung cho lập **Viện Sùng Chính** do La Sơn Phu Tử Nguyễn Thiếp đứng đầu. Đây là sự kiện quan trọng đánh dấu việc lần đầu tiên **chữ Nôm** được đưa lên làm văn tự chính thức của quốc gia dùng trong chiếu biểu, thi cử, thay thế vị trí độc tôn của chữ Hán.
 *   **1791:** Quân Tây Sơn thực hiện cuộc xâm lược quy mô lớn sang Lào. Cùng thời gian này, các ghi chép lịch sử cho thấy sự bất mãn ngày càng tăng của dân chúng ở cả vùng Tây Sơn kiểm soát và vùng Nguyễn Ánh kiểm soát do gánh nặng chiến tranh.
+*   **1791:** Hải Thượng Lãn Ông Lê Hữu Trác qua đời.
 *   **1792:** Vua Quang Trung chuẩn bị kế hoạch cho một chiến dịch quân sự lớn. Theo đó, trước hết sẽ tấn công Trung Quốc để thu hồi hai tỉnh Quảng Đông và Quảng Tây, sau đó sẽ dốc toàn lực tấn công tiêu diệt lực lượng Nguyễn Ánh. Tuy nhiên, kế hoạch bị hủy bỏ do vua đột ngột băng hà.
 *   **07/1792:** Thủy quân Nguyễn Ánh, với sự hỗ trợ của các tàu chiến và kỹ thuật phương Tây, đã thực hiện cuộc tấn công bất ngờ vào cửa **Thị Nại**, tiêu diệt nhiều thuyền chiến của Tây Sơn. Đây là thắng lợi quan trọng đầu tiên của thủy quân Nguyễn đã được hiện đại hóa.
 *   **16/09/1792 (29 tháng 7 âm lịch):** Vua Quang Trung đột ngột qua đời ở tuổi 40. Con trai là Nguyễn Quang Toản (10 tuổi) lên kế vị, lấy niên hiệu là Cảnh Thịnh.
