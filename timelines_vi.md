@@ -250,6 +250,7 @@
 *   **1252:** Trần Thái Tông thân chinh đánh Champa.
 *   **06/1253:** Vua Trần Thái Tông cho lập **Quốc học viện** để giảng dạy Tứ thư, Ngũ kinh cho các nho sĩ.
 *   **08/1253:** Vua Trần Thái Tông cho lập **Giảng võ đường** để đào tạo võ quan, đánh dấu sự chú trọng vào giáo dục quân sự.
+*   **1256:** Triều Trần lần đầu tiên chia Trạng nguyên thành "Kinh Trạng nguyên" (người từ Ninh Bình trở ra) và "Trại Trạng nguyên" (người từ Thanh Hóa trở vào) để khuyến khích nhân tài các vùng. Trần Quốc Lặc và Trương Xán lần lượt đỗ đầu.
 *   **08/1257:** Sứ Mông Cổ đến Đại Việt lần đầu tiên để dụ hàng.
 *   **12/1257:** Quân Mông Cổ do Ngột Lương Hợp Thai chỉ huy tiến đánh biên giới; diễn ra trận Nổ Nguyên.
 *   **09/1257:** Vua Trần Thái Tông xuống chiếu, lệnh cho các tướng đem quân thủy bộ ra ngăn giữ biên giới phía Bắc dưới sự tiết chế của Quốc công Trần Quốc Tuấn (Trần Hưng Đạo).
@@ -627,6 +628,7 @@
 *   **Cuối 1786:** Nguyễn Huệ được vua Lê gả công chúa Ngọc Hân. Anh em Tây Sơn chia nhau cai quản đất nước: Nguyễn Nhạc là Trung ương Hoàng đế (từ Quảng Nam vào Bình Thuận), Nguyễn Huệ là Bắc Bình vương (cai quản Thuận Hóa từ đèo Hải Vân ra Bắc), Nguyễn Lữ là Đông Định vương (cai quản vùng Gia Định).
 *   **1787:** Mâu thuẫn giữa Nguyễn Nhạc và Nguyễn Huệ nổ ra. Nguyễn Huệ đem quân vây thành Hoàng Đế, buộc Nguyễn Nhạc phải nhượng thêm đất Quảng Nam.
 *   **21/02/1787:** Cuộc nội chiến "huynh đệ tương tàn" giữa Nguyễn Nhạc và Nguyễn Huệ bùng nổ. Nguyễn Huệ đem quân vây hãm anh trai tại thành Quy Nhơn. Trong cuộc xung đột này, Nguyễn Nhạc đã mất khoảng 40.000 quân. Nguyễn Nhạc bị vây khốn, phải lên thành khóc lóc xin em giải vây. Sự kiện này, được gọi là "nồi da xáo thịt", đã làm suy yếu nghiêm trọng triều đại Tây Sơn.
+*   **05/05/1787:** Hoàng tử Cảnh (con trai Nguyễn Ánh), cùng Giám mục Bá Đa Lộc, đã có buổi yết kiến Vua Louis XVI của Pháp tại Cung điện Versailles để cầu viện.
 *   **1787:** Vua Lê Chiêu Thống bãi bỏ Lục phiên (cơ quan của phủ Chúa), trả lại quyền hành cho Lục bộ, cố gắng chấn chỉnh lại triều cương.
 *   **27/05/1787 (11/04 năm Đinh Vị):** Phái bộ do Trần Công Xán dẫn đầu, được vua Lê Chiêu Thống cử vào Nam thương thuyết với nhà Tây Sơn về đất Nghệ An, đã bị tướng Tây Sơn là Vũ Văn Nguyệt dìm chết ngoài biển.
 *   **28/11/1787:** Giám mục Bá Đa Lộc (đại diện Nguyễn Ánh) ký Hiệp ước Versailles với Bá tước De Montmorin (Pháp). Điều II của Hiệp ước hứa nhường cảng Hội An và đảo Côn Lôn cho Pháp.
@@ -729,6 +731,7 @@
 *   **11/06/1816:** Vua Gia Long lập Hoàng tử thứ tư (Nguyễn Phúc Đảm) làm Hoàng Thái tử.
 *   **1816:** Lê Văn Duyệt cho đắp **"Bình Man đạo"** (lũy Bình Man) dài từ Quảng Nam đến Bình Định, có trồng tre và đào hào, để ngăn chặn sự xâm lấn của các bộ tộc miền núi, ổn định biên giới phía Tây.
 *   **1817:** Vua Gia Long định lệ "tập ấm" (quyền lợi kế thừa cho con cháu công thần).
+*   **06/1817:** Một thuyền buôn Ma Cao cập bến Đà Nẵng và dâng bản đồ quần đảo Hoàng Sa lên vua Gia Long. Nhà vua đã ban thưởng, khẳng định sự quan tâm của triều đình đối với chủ quyền biển đảo.
 *   **Cuối 1817 - Đầu 1818:** Khởi công đào kênh Thoại Hà (An Giang) dưới sự chỉ huy của Nguyễn Văn Thoại, phục vụ giao thông và quốc phòng.
 *   **1818:** Vua Gia Long ban hành điển lệ chính thức về lương bổng và tiền xuân phục cho quan lại; thực thi lệ "dưỡng liêm" (phụ cấp chống tham nhũng) cho quan phủ, huyện.
 *   **1819:** Lê Văn Duyệt được cử làm Kinh lược sứ vùng Thanh Hóa, Nghệ An để dẹp loạn trộm cướp và nạn đói. Ông thực hiện chính sách khoan hồng, cho phép trộm cướp ra đầu thú và sung vào quân đội (lập quân Thanh Thuận và An Thuận).
@@ -737,6 +740,7 @@
 *   **1819 - 1824:** Đào kênh Vĩnh Tế (chạy dọc biên giới An Giang - Kiên Giang), công trình thủy lợi và quốc phòng lớn nhất thời bấy giờ, huy động hàng vạn nhân lực.
 *   **1820 - 1832:** Trong thời gian làm Tổng trấn Gia Định, Lê Văn Duyệt đã lập gánh Hát bội riêng, góp phần quan trọng vào việc du nhập và phát triển loại hình nghệ thuật này tại Nam Bộ.
 *   **14/02/1820:** Vua Minh Mạng chính thức lên ngôi Hoàng đế tại điện Thái Hòa. Vua cho đổi Thị thư viện thành **Văn thư phòng** để quản lý giấy tờ, văn thư.
+*   **05/1820:** Vua Minh Mạng ra lệnh đặt tên các đường phố trong Kinh thành (Huế) và cho dựng biển ghi tên, đánh dấu nỗ lực sớm trong quy hoạch và quản lý đô thị.
 *   **1820:** Cuộc nổi dậy của **"Giặc Sãi"** (do một nhà sư tên Kế cầm đầu) nổ ra ở Chân Lạp và vùng biên giới. Tổng trấn Gia Định Lê Văn Duyệt đã cử quân dẹp tan, ổn định tình hình biên giới Tây Nam.
 *   **1820:** Bắt đầu chế độ **Châu bản** (các bản tấu sớ có bút phê của nhà vua bằng mực son).
 *   **07/1820:** Vua Minh Mạng xuống chiếu nghiêm cấm thuốc phiện. Đây là lần đầu tiên triều đình ban hành lệnh cấm này do tác hại của nó đối với quan lại và dân chúng.
@@ -794,6 +798,7 @@
 *   **03/1838:** Vua Minh Mạng chính thức đổi quốc hiệu nước ta thành **Đại Nam**.
 *   **04/1839:** Chiếc tàu thủy chạy bằng hơi nước đầu tiên do người Việt Nam (Hoàng Văn Lịch, Vũ Huy Trinh) chế tạo được chạy thử nghiệm thành công trên sông Hương.
 *   **06/1839:** Vua Minh Mạng cho thực hiện phép **"Quân điền"** tại tỉnh Bình Định, chia lại ruộng đất công cho dân.
+*   **1840:** Vua Minh Mạng tổ chức cuộc tập trận thủy quân có bắn đạn thật vào mục tiêu giả định trên biển, thể hiện sự chú trọng vào khả năng sẵn sàng chiến đấu của hải quân.
 *   **20/01/1841:** Vua Minh Mạng băng hà.
 *   **11/02/1841:** Vua Thiệu Trị chính thức lên ngôi Hoàng đế tại điện Thái Hòa.
 *   **1841 (Năm Thiệu Trị thứ 1):** Tách các châu Ninh Biên, Tuân Giáo và Lai Châu thành lập phủ Điện Biên (thuộc Hưng Hóa).
@@ -883,6 +888,8 @@
 *   **12/1883:** Quân Pháp tấn công và chiếm thành Sơn Tây.
 *   **29/11/1883:** Vua Hiệp Hoà bị các quyền thần ép uống thuốc độc tự vẫn. Kiến Phúc được đưa lên ngôi vua.
 *   **30/11/1883:** Hai Phụ chính đại thần Nguyễn Văn Tường và Tôn Thất Thuyết ra lệnh giết hại Phụ chính đại thần Trần Tiễn Thành do bất đồng chính kiến về việc phế lập vua và chủ trương đối ngoại.
+*   **01/1884:** Vua Kiến Phúc ra lệnh cho chế tạo thử súng kiểu phương Tây và dệt thử các loại vải theo kỹ thuật phương Tây.
+*   **02/1884:** Vua Kiến Phúc xuống dụ buộc tất cả những người có khoa bảng (Tiến sĩ, Cử nhân...) phải ra làm quan để phục vụ đất nước, ai trốn tránh sẽ bị tước bằng sắc.
 *   **1884 - 1945:** Pháp tiếp tục quản lý hai quần đảo Hoàng Sa và Trường Sa với tư cách là lãnh thổ của Liên bang Đông Dương thuộc Pháp.
 *   **12/03/1884:** Quân Pháp chiếm thành Bắc Ninh.
 *   **11/05/1884:** Pháp và nhà Thanh ký Quy ước Thiên Tân, nhà Thanh đồng ý rút quân khỏi Bắc Kỳ.
@@ -1004,6 +1011,7 @@
 *   **16-17/07/1920:** Báo *L'Humanité* (Nhân đạo) ở Pháp đăng toàn văn *Luận cương về các vấn đề dân tộc và vấn đề thuộc địa* của V.I. Lênin, tác động sâu sắc đến Nguyễn Ái Quốc.
 *   **09/1920:** Triều đình định tỷ giá 1 đồng tiền "Khải Định thông bảo" mới bằng 6 đồng tiền kẽm.
 *   **28/09/1920:** Sắc lệnh tái tổ chức Hội đồng cấp cao thuộc địa tại Pháp.
+*   **11/1920:** Vua Khải Định phong hàm tước cho doanh nhân Bạch Thái Bưởi và người thợ Nguyễn Văn Phúc vì thành tích chế tạo thành công tàu thủy *Bình Chuẩn*, khuyến khích năng lực công nghiệp của người Việt.
 *   **25-30/12/1920:** Tại Đại hội Tours của Đảng Xã hội Pháp, Nguyễn Ái Quốc bỏ phiếu tán thành gia nhập Quốc tế thứ ba và trở thành một trong những người sáng lập Đảng Cộng sản Pháp.
 *   **12/04/1921:** Albert Sarraut, lúc này là Bộ trưởng Bộ Thuộc địa, trình "Dự luật khai thác thuộc địa" trước Quốc hội Pháp.
 *   **06/1921:** Ban Nghiên cứu thuộc địa được thành lập trong Đảng Cộng sản Pháp, Nguyễn Ái Quốc phụ trách tiểu ban Đông Dương.
@@ -1028,6 +1036,7 @@
 *   **27/10/1924:** Trường Mỹ thuật Đông Dương được thành lập tại Hà Nội.
 *   **12/1924:** Nguyễn Ái Quốc đến Quảng Châu (Trung Quốc), bắt đầu giai đoạn chuẩn bị thành lập Đảng.
 *   **01/1925:** Nguyễn Ái Quốc mở các lớp huấn luyện chính trị cho thanh niên yêu nước tại Quảng Châu.
+*   **03/03/1925:** Thượng thư Bộ Binh Thân Trọng Huề gửi văn thư cho Khâm sứ Pháp, khẳng định "Các đảo Hoàng Sa bao giờ cũng thuộc về nước An Nam", xác nhận chủ quyền trước các tranh chấp gia tăng.
 *   **06/1925:** Hội Việt Nam Cách mạng Thanh niên được thành lập tại Quảng Châu do Nguyễn Ái Quốc sáng lập và lãnh đạo.
 *   **21/06/1925:** Tuần báo *Thanh niên*, cơ quan ngôn luận của Hội Việt Nam Cách mạng Thanh niên, ra số đầu tiên.
 *   **1925:** Tác phẩm *Bản án chế độ thực dân Pháp* của Nguyễn Ái Quốc được xuất bản tại Paris.

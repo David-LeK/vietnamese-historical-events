@@ -250,6 +250,7 @@
 *   **1252:** Tran Thai Tong personally led a campaign against Champa.
 *   **Jun. 1253:** King Tran Thai Tong established the **Quoc Hoc Vien** (National Academy) for scholars to lecture on the Classics.
 *   **Aug. 1253:** The **Giang Vo Duong** (Military Academy) was established to train in martial arts, marking a formalization of military education.
+*   **1256:** The Tran court distinguished for the first time between "Kinh Trang Nguyen" (for candidates from Ninh Binh northwards) and "Trai Trang Nguyen" (for candidates from Thanh Hoa southwards) to encourage talent from different regions. Tran Quoc Lac and Truong Xan were the respective laureates.
 *   **Aug. 1257:** A Mongol envoy came to Dai Viet for the first time to demand submission.
 *   **Dec. 1257:** Mongol forces commanded by Uriyangkhadai attacked the border; the Battle of No Nguyen took place.
 *   **Sep. 1257:** King Tran Thai Tong issued a decree commanding generals to lead troops to guard the borders under the command of Tran Quoc Tuan (Tran Hung Dao).
@@ -627,6 +628,7 @@
 *   **Late 1786:** Nguyen Hue was given Princess Ngoc Han in marriage by the Le king. The Tay Son brothers divided the country to rule: Nguyen Nhac as the Central Emperor (from Quang Nam to Binh Thuan), Nguyen Hue as the Northern Pacification King (Bac Binh Vuong - governing Thuan Hoa northwards), and Nguyen Lu as the Eastern Pacification King (Dong Dinh Vuong - governing Gia Dinh).
 *   **1787:** Conflict broke out between Nguyen Nhac and Nguyen Hue. Nguyen Hue led troops to besiege Hoang De Citadel, forcing Nguyen Nhac to cede more land in Quang Nam.
 *   **Feb. 21, 1787:** A civil war broke out between the Tay Son brothers. Nguyen Hue, consolidating his power in the North and Phu Xuan, marched south to besiege his brother Nguyen Nhac at Quy Nhon. Nguyen Nhac lost approximately 40,000 troops in the conflict. Besieged and desperate, he wept from the city walls, invoking brotherly ties to ask for a truce. This internal conflict ("nồi da xáo thịt") severely weakened the dynasty.
+*   **May 5, 1787:** Prince Canh (son of Nguyen Anh), accompanied by Bishop Pigneau de Béhaine, had an audience with King Louis XVI of France at the Palace of Versailles seeking military aid.
 *   **1787:** King Le Chieu Thong abolished the Six Bureaus (Luc Phien - organs of the Trinh Lords) and restored administrative authority to the Six Ministries (Luc Bo), attempting to reform the court.
 *   **May 27, 1787 (11th of the 4th lunar month):** A diplomatic delegation led by Tran Cong Xan, sent by King Le Chieu Thong to negotiate with the Tay Son regarding Nghe An, was drowned at sea by Tay Son generals.
 *   **Nov. 28, 1787:** Bishop Pigneau de Béhaine (representing Nguyen Anh) signed the Treaty of Versailles with Count de Montmorin (France). Article II promised to cede the port of Hoi An and Con Lon Island to France in exchange for military support.
@@ -729,6 +731,7 @@
 *   **Jun. 11, 1816:** Emperor Gia Long officially invested Prince Dam as Crown Prince, establishing the principle of succession to the throne.
 *   **1816:** Le Van Duyet ordered the construction of the **Binh Man Dao** (Pacification Wall), a defensive line stretching from Quang Nam to Binh Dinh, to prevent raids from mountain tribes and stabilize the western border.
 *   **1817:** Emperor Gia Long established the "tap am" regulation (hereditary benefits for descendants of meritorious officials).
+*   **Jun. 1817:** A merchant ship from Macau arrived in Da Nang and presented a map of the Paracel Islands (Hoang Sa) to Emperor Gia Long, who rewarded them, further affirming the court's attention to these islands.
 *   **Late 1817 - Early 1818:** Construction of the Thoai Ha Canal in An Giang began under the direction of Nguyen Van Thoai, serving both defense and agricultural irrigation in the Mekong Delta.
 *   **1818:** Emperor Gia Long promulgated official regulations on salaries and spring attire allowances for officials; implemented the "duong liem" (anti-corruption allowance) for prefectural and district officials.
 *   **1819:** Le Van Duyet was appointed as the Imperial Commissioner (Kinh Luoc Su) to Thanh Hoa and Nghe An to suppress banditry and stabilize the region suffering from famine and unrest. He implemented policies to pardon surrendering bandits and recruit them into the army, forming the **Thanh Thuan** and **An Thuan** regiments.
@@ -737,6 +740,7 @@
 *   **1819 - 1824:** The Vinh Te Canal was dug along the southwestern border (An Giang, Kien Giang), a massive project employing tens of thousands of workers to define the border and develop the region.
 *   **1820 - 1832:** During his tenure as Governor General of Gia Dinh, Le Van Duyet established a private classical opera (*Hát bội*) troupe, significantly contributing to the introduction and popularization of this art form in Southern Vietnam.
 *   **Feb. 14, 1820:** Emperor Minh Mang officially ascended the throne at the Thai Hoa Palace. He established the *Van thu phong* (Chancellery) to handle administrative documents.
+*   **May 1820:** Emperor Minh Mang ordered the naming of streets in the Capital (Hue) and the erection of stone signposts, marking an early effort in urban planning and management.
 *   **1820:** The "Monk Ke" rebellion (Giặc Sãi) broke out in Cambodia and the border region. Governor Le Van Duyet dispatched troops to suppress it, stabilizing the southwestern border.
 *   **1820:** The system of **Chau Ban** (Vermilion Records), official administrative documents with the Emperor's comments in red ink, was established.
 *   **Jul. 1820:** Emperor Minh Mang issued an edict prohibiting opium, marking the first official ban on this drug due to its harmful effects on the administration and populace.
@@ -794,6 +798,7 @@
 *   **Mar. 1838:** Emperor Minh Mang officially changed the national title to **Dai Nam**.
 *   **Apr. 1839:** The first steamship built by Vietnamese mechanics (Hoang Van Lich, Vu Huy Trinh) was successfully tested on the Perfume River.
 *   **Jun. 1839:** Emperor Minh Mang ordered the implementation of the **"Quan dien"** (Equal-field) land reform in Binh Dinh province, redistributing communal land to the people.
+*   **1840:** Emperor Minh Mang organized a naval live-fire exercise with dummy targets at sea, demonstrating the focus on naval combat readiness.
 *   **Jan. 20, 1841:** Emperor Minh Mang passed away.
 *   **Feb. 11, 1841:** Emperor Thieu Tri ascended the throne at the Thai Hoa Palace.
 *   **1841:** Established Dien Bien Prefecture (Hung Hoa) by separating Ninh Bien, Tuan Giao, and Lai Chau prefectures.
@@ -883,6 +888,8 @@
 *   **Dec. 1883:** French forces attacked and captured Son Tay Citadel.
 *   **Nov. 29, 1883:** Emperor Hiep Hoa was forced to commit suicide by the regents. Kien Phuc was enthroned.
 *   **Nov. 30, 1883:** Regents Nguyen Van Tuong and Ton That Thuyet ordered the execution of Regent Tran Tien Thanh due to disagreements over the royal succession and foreign policy.
+*   **Jan. 1884:** Emperor Kien Phuc ordered the study and manufacturing of Western-style guns and the testing of Western textile techniques.
+*   **Feb. 1884:** Emperor Kien Phuc issued a decree requiring all degree holders (Doctors, Bachelors) to accept government posts to serve the country, penalizing those who refused.
 *   **1884 - 1945:** France continued to administer the Spratly and Paracel Islands as territories of French Indochina.
 *   **Mar. 12, 1884:** French forces captured Bac Ninh Citadel.
 *   **May 11, 1884:** France and the Qing dynasty signed the Tientsin Accord, in which the Qing agreed to withdraw their troops from Tonkin.
@@ -1004,6 +1011,7 @@
 *   **Jul. 16-17, 1920:** The newspaper *L'Humanité* in France published the full text of V.I. Lenin's *Theses on the National and Colonial Questions*, which had a profound impact on Nguyen Ai Quoc.
 *   **Sep. 1920:** A fixed exchange rate was established where 1 new "Khai Dinh Thong Bao" coin equaled 6 zinc coins.
 *   **Sep. 28, 1920:** A decree reorganized the High Council of the Colonies in France.
+*   **Nov. 1920:** Emperor Khai Dinh conferred honorary titles on businessman Bach Thai Buoi and mechanic Nguyen Van Phuc for successfully building the ship *Binh Chuan*, promoting Vietnamese industrial capability.
 *   **Dec. 25-30, 1920:** At the Tours Congress of the French Socialist Party, Nguyen Ai Quoc voted in favor of joining the Third International and became one of the founding members of the French Communist Party.
 *   **Apr. 12, 1921:** Albert Sarraut, then Minister of Colonies, presented the "Bill on Colonial Exploitation" to the French National Assembly.
 *   **Jun. 1921:** The Committee for Colonial Studies was established within the French Communist Party, with Nguyen Ai Quoc in charge of the Indochina subcommittee.
@@ -1028,6 +1036,7 @@
 *   **Oct. 27, 1924:** The Indochina School of Fine Arts was established in Hanoi.
 *   **Dec. 1924:** Nguyen Ai Quoc arrived in Guangzhou (China), beginning the preparatory phase for the founding of the Party.
 *   **Jan. 1925:** Nguyen Ai Quoc opened political training classes for patriotic youth in Guangzhou.
+*   **Mar. 3, 1925:** Minister of War Than Trong Hue sent a formal letter to the French Resident Superior, affirming that "The Paracel Islands have always belonged to Vietnam," asserting sovereignty amidst rising disputes.
 *   **Jun. 1925:** The Vietnamese Revolutionary Youth League was founded in Guangzhou by Nguyen Ai Quoc.
 *   **Jun. 21, 1925:** The weekly newspaper *Thanh nien* (Youth), the organ of the Vietnamese Revolutionary Youth League, published its first issue.
 *   **1925:** The work *Le Procès de la colonisation française* (French Colonialism on Trial) by Nguyen Ai Quoc was published in Paris.
