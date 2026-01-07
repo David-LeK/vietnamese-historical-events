@@ -40,7 +40,11 @@
 *   **41:** Ma Yuan led an army of 200,000 to invade.
 *   **43:** The uprising failed following an attack by the Han general Ma Yuan. The Trung Sisters committed suicide in the Hat River. Ma Yuan erected bronze pillars to mark the border.
 *   **1st - 7th century:** The Kingdom of Funan (Phu Nam) flourished in the Mekong Delta. Associated with the Oc Eo Culture, it was a major commercial center connecting maritime trade routes between the East and West.
-*   **137:** The uprising of Khu Lien in Tuong Lam district, Nhat Nam commandery.
+*   **100:** More than 2,000 people in Tuong Lam district (Nhat Nam commandery) rose up against Han rule.
+*   **137:** The people of Tuong Lam district rose up, attacking the Han administrative seat and killing the chief official.
+*   **144:** The people of Nhat Nam and Cuu Chan commanderies rose up against the Han dynasty.
+*   **157:** Chu Dat led an uprising in Cuu Chan, killing the commandery governor.
+*   **178:** Luong Long led an uprising in Giao Chi, attracting participation from people in Cuu Chan and Nhat Nam.
 *   **192:** Khu Lien officially established the Lam Ap kingdom.
 *   **Around 200:** Shi Xie (Si Nhiep) governed Giao Chau. He is credited with promoting Confucianism and maintaining stability during the chaotic Three Kingdoms period in China, later honored by the Vietnamese as "King Si" (Si Vuong).
 *   **200 (Canh Thin year):** Ly Tien, a native of Giao Chau, petitioned the Han Emperor to allow Giao Chau scholars to be appointed as officials in the inner provinces. This marked an early struggle for equal political rights.
@@ -48,12 +52,17 @@
 *   **210:** Shi Xie sent his son as a hostage and paid tribute to Sun Quan, marking the beginning of Eastern Wu's influence over Jiaozhou.
 *   **226:** Shi Xie passed away. Sun Quan of Eastern Wu divided Giao Chau into Guangzhou (North) and Jiaozhou (South).
 *   **227:** Shi Hui (Shi Xie's son) rebelled against Eastern Wu's new appointments but was defeated and executed. Eastern Wu reunified Guangzhou and Jiaozhou to facilitate suppression.
-*   **248:** The uprising of Lady Trieu (Trieu Thi Trinh) broke out in Cuu Chan, shaking the whole Jiaozhou. She proclaimed herself Dai Hai Ba Vuong. Eastern Wu general Lu Yin suppressed the rebellion using both military force and bribery; Lady Trieu eventually sacrificed herself on Mount Tung.
+*   **248:** The uprising of Lady Trieu (Trieu Thi Trinh) broke out in Cuu Chan, shaking the whole Jiaozhou. She famously declared: "I only want to ride the strong wind, tread the rough waves, slay the whale in the East Sea, drive out the Wu army, reclaim the country, and unyoke the slavery, not bend my back to be a concubine for anyone!" Eastern Wu general Lu Yin suppressed the rebellion; Lady Trieu sacrificed herself on Mount Tung.
 *   **263:** Lu Xing (La Hung) rebelled in Giao Chi, killing the Eastern Wu Governor and submitting to the Cao Wei dynasty. Jiaozhou temporarily escaped Eastern Wu's control.
 *   **264:** The Eastern Wu dynasty re-divided Guangzhou and Jiaozhou, establishing Long Bien as the capital of Jiaozhou.
 *   **265:** The Western Jin dynasty was established (replacing Cao Wei), and Jiaozhou nominally came under its jurisdiction.
 *   **268 - 271:** Eastern Wu launched multiple campaigns to retake Jiaozhou. In 271, Wu general Tao Huang successfully recaptured the region from the Western Jin.
 *   **280:** The Western Jin dynasty destroyed Eastern Wu, unifying China. Jiaozhou officially became a direct territory of the Western Jin.
+*   **299:** Trieu Chi led soldiers in Cuu Chan to rebel against the Jin dynasty, besieging the commandery citadel.
+*   **317:** Luong Thac, a local military commander, killed Governor Gu Shou and opposed the Jin dynasty's appointees, controlling Giao Chau for several years before being defeated in 323.
+*   **353 - 359:** Wars between Giao Chau (Jin dynasty) and Lam Ap (Champa).
+*   **446:** The Liu Song dynasty general Tan He Zhi attacked Lam Ap, capturing the capital Khu Lat.
+*   **468:** Ly Truong Nhan, a local leader, rose up and declared himself Governor (Thu Su), resisting the Liu Song dynasty's appointees.
 *   **Oct. 490:** Phong Phap Thang was appointed Governor. He was later overthrown by Phuc Dang Chi due to his excessive obsession with reading books and neglecting administrative duties.
 *   **542:** Ly Bi led an uprising against the domination of the Liang dynasty.
 *   **544:** Ly Bi proclaimed himself the Southern Viet Emperor (Ly Nam De), founded the Van Xuan kingdom, and established the era name Thien Duc.

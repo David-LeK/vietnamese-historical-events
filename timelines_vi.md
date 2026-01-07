@@ -40,7 +40,11 @@
 *   **41:** Mã Viện mang 20 vạn quân sang xâm lược.
 *   **43:** Cuộc khởi nghĩa thất bại trước cuộc tấn công của tướng nhà Hán là Mã Viện. Hai Bà Trưng tuẫn tiết trên sông Hát. Mã Viện dựng cột đồng để ghi địa giới.
 *   **Thế kỷ I - VII:** Vương quốc Phù Nam hình thành và phát triển rực rỡ ở vùng đồng bằng sông Cửu Long. Gắn liền với đó là Văn hóa Óc Eo, một trung tâm thương mại quan trọng kết nối các tuyến hàng hải Đông - Tây.
-*   **137:** Cuộc khởi nghĩa của Khu Liên ở huyện Tượng Lâm, quận Nhật Nam.
+*   **100:** Hơn 2.000 dân huyện Tượng Lâm (quận Nhật Nam) nổi dậy chống lại ách cai trị của nhà Hán.
+*   **137:** Người huyện Tượng Lâm nổi dậy đánh phá trị sở, giết trưởng lại rồi đánh rộng ra toàn quận Nhật Nam.
+*   **144:** Dân Nhật Nam và Cửu Chân cùng nổi lên chống lại nhà Hán.
+*   **157:** Chu Đạt nổi dậy ở Cửu Chân, giết chết Thái thú.
+*   **178:** Lương Long nổi dậy ở Giao Chỉ, lôi kéo dân các quận Cửu Chân và Nhật Nam hưởng ứng.
 *   **192:** Khu Liên chính thức thành lập nước Lâm Ấp.
 *   **Khoảng năm 200:** Sĩ Nhiếp (Shi Xie) cai trị Giao Châu. Ông được người Việt tôn vinh là "Sĩ Vương" vì có công truyền bá Nho học và duy trì sự ổn định trong thời kỳ Tam Quốc loạn lạc ở Trung Quốc.
 *   **Năm 200 (Canh Thìn):** Lý Tiến dâng sớ lên vua Hán xin cho người Giao Châu được bổ nhiệm chức quan như người Hán, đánh dấu sự đấu tranh cho quyền bình đẳng chính trị.
@@ -48,12 +52,17 @@
 *   **210:** Sĩ Nhiếp chính thức gửi con sang làm con tin và nộp cống phẩm cho Tôn Quyền, đánh dấu việc Giao Châu bắt đầu chịu ảnh hưởng của nước Đông Ngô.
 *   **226:** Sĩ Nhiếp mất. Tôn Quyền quyết định chia Giao Châu làm hai: Quảng Châu (phía Bắc) và Giao Châu (phía Nam).
 *   **227:** Sĩ Huy (con Sĩ Nhiếp) nổi dậy chống lại việc bổ nhiệm quan lại mới của nhà Ngô nhưng thất bại và bị xử tử. Đông Ngô tái thống nhất hai châu thành Giao Châu như cũ để dễ bề đàn áp.
-*   **248:** Cuộc khởi nghĩa Bà Triệu bùng nổ tại quận Cửu Chân (Thanh Hóa), khiến "toàn thể Giao Châu chấn động". Nhà Ngô phải cử danh tướng Lục Dận sang đàn áp bằng cả quân sự và mua chuộc, Bà Triệu cuối cùng hy sinh trên núi Tùng.
+*   **248:** Cuộc khởi nghĩa Bà Triệu bùng nổ tại Cửu Chân, khiến "toàn thể Giao Châu chấn động". Bà nổi tiếng với câu nói: "Tôi chỉ muốn cưỡi cơn gió mạnh, đạp luồng sóng dữ, chém cá kình ở biển Đông, đánh đuổi quân Ngô, giành lại giang sơn, cởi ách nô lệ, chứ không chịu khom lưng làm tì thiếp cho người!". Nhà Ngô cử Lục Dận sang đàn áp, Bà Triệu tuẫn tiết trên núi Tùng.
 *   **263:** Tào Ngụy diệt Thục Hán. Tại Giao Chỉ, Lã Hưng nổi dậy giết chết Thái thú của nhà Ngô và xin thần phục nhà Ngụy. Giao Châu tạm thời thoát khỏi quyền kiểm soát của Đông Ngô.
 *   **264:** Nhà Đông Ngô tái chia tách Quảng Châu và Giao Châu, lấy Long Biên làm trị sở Giao Châu.
 *   **265:** Nhà Tây Tấn thành lập (thay thế nhà Ngụy). Giao Châu lúc này thuộc về nhà Tấn.
 *   **268 - 271:** Đông Ngô nhiều lần cử binh đi đánh chiếm lại Giao Châu. Năm 271, tướng Đào Hoàng của Đông Ngô chiếm lại được toàn bộ vùng đất này.
 *   **280:** Nhà Tây Tấn tiêu diệt hoàn toàn nước Đông Ngô, thống nhất Trung Hoa. Giao Châu chính thức chuyển sang thời kỳ trực thuộc nhà Tây Tấn.
+*   **299:** Thú binh ở quận Cửu Chân do Triệu Chỉ cầm đầu nổi dậy chống nhà Tấn, vây hãm quận thành.
+*   **317:** Đốc quân Lương Thạc nổi dậy giết Thứ sử Cố Thọ, chiếm giữ Giao Châu và chống lại nhà Tấn trong nhiều năm.
+*   **353 - 359:** Các cuộc chiến tranh giữa Giao Châu (nhà Tấn) và Lâm Ấp.
+*   **446:** Tướng nhà Lưu Tống là Đàn Hòa Chi đem quân đánh Lâm Ấp, hạ thành Khu Lật.
+*   **468:** Lý Trường Nhân nổi dậy, tự xưng là Thứ sử, chống lại sự cai trị của nhà Lưu Tống.
 *   **10/490 (Canh Ngọ):** Phòng Pháp Thặng được cử làm Thứ sử Giao Châu, nhưng vì mê đọc sách nên bị thuộc hạ là Phục Đăng Chi lật đổ.
 *   **542:** Lý Bí lãnh đạo cuộc khởi nghĩa chống lại ách đô hộ của nhà Lương.
 *   **544:** Lý Bí xưng là Nam Việt Đế (Lý Nam Đế), lập ra nước Vạn Xuân, đặt niên hiệu Thiên Đức.
