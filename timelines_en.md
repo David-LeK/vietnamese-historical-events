@@ -42,10 +42,13 @@
 *   **1st - 7th century:** The Kingdom of Funan (Phu Nam) flourished in the Mekong Delta. Associated with the Oc Eo Culture, it was a major commercial center connecting maritime trade routes between the East and West.
 *   **100:** More than 2,000 people in Tuong Lam district (Nhat Nam commandery) rose up against Han rule.
 *   **137:** The people of Tuong Lam district rose up, attacking the Han administrative seat and killing the chief official.
+*   **138:** The Han dynasty, following Li Gu's strategy, replaced governors and used bribery to cause internal division among the rebels in Nhat Nam, eventually suppressing the uprising.
 *   **144:** The people of Nhat Nam and Cuu Chan commanderies rose up against the Han dynasty.
 *   **157:** Chu Dat led an uprising in Cuu Chan, killing the commandery governor.
+*   **160:** The uprising of Chu Dat was completely suppressed by Han forces.
 *   **166:** Envoys sent by Roman Emperor Marcus Aurelius Antoninus arrived in Nhat Nam to present gifts of ivory and rhinoceros horn to the Han court. This marks the first recorded direct contact between Rome and the Chinese empire via Vietnam.
 *   **178:** Luong Long led an uprising in Giao Chi, attracting participation from people in Cuu Chan and Nhat Nam.
+*   **181:** The Han dynasty dispatched troops to suppress the rebellion, killing Luong Long.
 *   **192:** Khu Lien officially established the Lam Ap kingdom.
 *   **Around 200:** Shi Xie (Si Nhiep) governed Giao Chau. He is credited with promoting Confucianism and maintaining stability during the chaotic Three Kingdoms period in China, later honored by the Vietnamese as "King Si" (Si Vuong).
 *   **200 (Canh Thin year):** Ly Tien, a native of Giao Chau, petitioned the Han Emperor to allow Giao Chau scholars to be appointed as officials in the inner provinces. This marked an early struggle for equal political rights.
@@ -53,14 +56,14 @@
 *   **210:** Shi Xie sent his son as a hostage and paid tribute to Sun Quan, marking the beginning of Eastern Wu's influence over Jiaozhou.
 *   **226:** Shi Xie passed away. Sun Quan of Eastern Wu divided Giao Chau into Guangzhou (North) and Jiaozhou (South).
 *   **227:** Shi Hui (Shi Xie's son) rebelled against Eastern Wu's new appointments but was defeated and executed. Eastern Wu reunified Guangzhou and Jiaozhou to facilitate suppression.
-*   **248:** The uprising of Lady Trieu (Trieu Thi Trinh) broke out in Cuu Chan, shaking the whole Jiaozhou. She famously declared: "I only want to ride the strong wind, tread the rough waves, slay the whale in the East Sea, drive out the Wu army, reclaim the country, and unyoke the slavery, not bend my back to be a concubine for anyone!" Eastern Wu general Lu Yin suppressed the rebellion; Lady Trieu sacrificed herself on Mount Tung.
+*   **248:** The uprising of Lady Trieu (Trieu Thi Trinh) and her brother Trieu Quoc Dat broke out in Cuu Chan, shaking the whole Jiaozhou. She famously declared: "I only want to ride the strong wind, tread the rough waves, slay the whale in the East Sea, drive out the Wu army, reclaim the country, and unyoke the slavery, not bend my back to be a concubine for anyone!" Eastern Wu general Lu Yin led 8,000 troops to suppress the rebellion; Lady Trieu sacrificed herself on Mount Tung.
 *   **263:** Lu Xing (La Hung) rebelled in Giao Chi, killing the Eastern Wu Governor and submitting to the Cao Wei dynasty. Jiaozhou temporarily escaped Eastern Wu's control.
 *   **264:** The Eastern Wu dynasty re-divided Guangzhou and Jiaozhou, establishing Long Bien as the capital of Jiaozhou.
 *   **265:** The Western Jin dynasty was established (replacing Cao Wei), and Jiaozhou nominally came under its jurisdiction.
 *   **268 - 271:** Eastern Wu launched multiple campaigns to retake Jiaozhou. In 271, Wu general Tao Huang successfully recaptured the region from the Western Jin.
 *   **280:** The Western Jin dynasty destroyed Eastern Wu, unifying China. Jiaozhou officially became a direct territory of the Western Jin.
-*   **299:** Trieu Chi led soldiers in Cuu Chan to rebel against the Jin dynasty, besieging the commandery citadel.
-*   **317:** Luong Thac, a local military commander, killed Governor Gu Shou and opposed the Jin dynasty's appointees, controlling Giao Chau for several years before being defeated in 323.
+*   **299:** Trieu Chi led soldiers in Cuu Chan to rebel against the Jin dynasty, killing the governor and besieging the commandery citadel. The rebellion was suppressed shortly after.
+*   **317:** Luong Thac, a local military commander, killed Governor Gu Shou, installed Dao Tuy, and opposed the Jin dynasty's appointees (killing Wang Ji and Wang Liang). He controlled Giao Chau until being defeated by General Tao Kan in 323.
 *   **323:** The Jin dynasty sent General Tao Kan to suppress the rebellion. Luong Thac was defeated and executed, returning Giao Chau to Jin control.
 *   **351:** Governor Duong Binh of Giao Chi and Governor Hoan Toai of Cuu Chan defeated an invasion by the Lam Ap King Pham Phat.
 *   **353 - 359:** Wars between Giao Chau (Jin dynasty) and Lam Ap (Champa).
@@ -70,11 +73,12 @@
 *   **413:** Governor Do Tue Do (son of Do Vien) defeated Lam Ap forces invading Cuu Chan, killing two princes of Lam Ap.
 *   **420:** Do Tue Do launched a campaign against Lam Ap, inflicting heavy casualties. Lam Ap surrendered and resumed paying tribute.
 *   **446:** The Liu Song dynasty general Tan He Zhi attacked Lam Ap, capturing the capital Khu Lat.
-*   **468:** Ly Truong Nhan, a local leader, rose up and declared himself Governor (Thu Su), resisting the Liu Song dynasty's appointees.
+*   **468:** Ly Truong Nhan, a local leader, rose up and declared himself Governor (Thu Su), resisting the Liu Song dynasty's appointees. After his death, his cousin Ly Thuc Hien succeeded him and continued to resist the new appointee Shen Huan.
 *   **479:** The Southern Qi dynasty replaced the Liu Song dynasty in China. Ly Thuc Hien (successor to Ly Truong Nhan) maintained autonomy in Giao Chau and refused to submit to the new dynasty.
 *   **485:** The Southern Qi Emperor sent General Liu Kai to invade. Ly Thuc Hien surrendered to avoid bloodshed, ending the period of local autonomy.
 *   **Oct. 490:** Phong Phap Thang was appointed Governor. He was later overthrown by Phuc Dang Chi due to his excessive obsession with reading books and neglecting administrative duties.
-*   **542:** Ly Bi led an uprising against the domination of the Liang dynasty.
+*   **541:** Ly Bi raised troops against the Liang dynasty. Governor Xiao Zi fled to the north.
+*   **542:** The Liang dynasty sent troops to suppress the uprising but were defeated.
 *   **544:** Ly Bi proclaimed himself the Southern Viet Emperor (Ly Nam De), founded the Van Xuan kingdom, and established the era name Thien Duc.
 *   **Aug. 546 (Binh Dan year):** The Battle of Dien Triet Lake took place. Liang general Chen Baxian used a water attack strategy when the river water rose, defeating Ly Nam De's forces. Ly Nam De had to retreat to Khuat Lao cave.
 *   **548:** Ly Nam De passed away.

@@ -42,10 +42,13 @@
 *   **Thế kỷ I - VII:** Vương quốc Phù Nam hình thành và phát triển rực rỡ ở vùng đồng bằng sông Cửu Long. Gắn liền với đó là Văn hóa Óc Eo, một trung tâm thương mại quan trọng kết nối các tuyến hàng hải Đông - Tây.
 *   **100:** Hơn 2.000 dân huyện Tượng Lâm (quận Nhật Nam) nổi dậy chống lại ách cai trị của nhà Hán.
 *   **137:** Người huyện Tượng Lâm nổi dậy đánh phá trị sở, giết trưởng lại rồi đánh rộng ra toàn quận Nhật Nam.
+*   **138:** Nhà Hán theo kế của Lý Cố, thay thái thú và dùng kế lấy vàng lụa mua chuộc, ly gián các thủ lĩnh quận Nhật Nam, khiến quân nổi dậy bị dẹp.
 *   **144:** Dân Nhật Nam và Cửu Chân cùng nổi lên chống lại nhà Hán.
 *   **157:** Chu Đạt nổi dậy ở Cửu Chân, giết chết Thái thú.
+*   **160:** Cuộc khởi nghĩa của Chu Đạt bị quân Hán dẹp hẳn.
 *   **166:** Sứ giả của Hoàng đế La Mã Marcus Aurelius Antoninus đã đến quận Nhật Nam để dâng ngà voi và sừng tê cho nhà Hán. Đây là lần đầu tiên La Mã thông thương với Trung Quốc qua đường Giao Châu (Việt Nam).
 *   **178:** Lương Long nổi dậy ở Giao Chỉ, lôi kéo dân các quận Cửu Chân và Nhật Nam hưởng ứng.
+*   **181:** Nhà Hán điều quân sang giết chết Lương Long, dẹp tan cuộc khởi nghĩa.
 *   **192:** Khu Liên chính thức thành lập nước Lâm Ấp.
 *   **Khoảng năm 200:** Sĩ Nhiếp (Shi Xie) cai trị Giao Châu. Ông được người Việt tôn vinh là "Sĩ Vương" vì có công truyền bá Nho học và duy trì sự ổn định trong thời kỳ Tam Quốc loạn lạc ở Trung Quốc.
 *   **Năm 200 (Canh Thìn):** Lý Tiến dâng sớ lên vua Hán xin cho người Giao Châu được bổ nhiệm chức quan như người Hán, đánh dấu sự đấu tranh cho quyền bình đẳng chính trị.
@@ -53,14 +56,14 @@
 *   **210:** Sĩ Nhiếp chính thức gửi con sang làm con tin và nộp cống phẩm cho Tôn Quyền, đánh dấu việc Giao Châu bắt đầu chịu ảnh hưởng của nước Đông Ngô.
 *   **226:** Sĩ Nhiếp mất. Tôn Quyền quyết định chia Giao Châu làm hai: Quảng Châu (phía Bắc) và Giao Châu (phía Nam).
 *   **227:** Sĩ Huy (con Sĩ Nhiếp) nổi dậy chống lại việc bổ nhiệm quan lại mới của nhà Ngô nhưng thất bại và bị xử tử. Đông Ngô tái thống nhất hai châu thành Giao Châu như cũ để dễ bề đàn áp.
-*   **248:** Cuộc khởi nghĩa Bà Triệu bùng nổ tại Cửu Chân, khiến "toàn thể Giao Châu chấn động". Bà nổi tiếng với câu nói: "Tôi chỉ muốn cưỡi cơn gió mạnh, đạp luồng sóng dữ, chém cá kình ở biển Đông, đánh đuổi quân Ngô, giành lại giang sơn, cởi ách nô lệ, chứ không chịu khom lưng làm tì thiếp cho người!". Nhà Ngô cử Lục Dận sang đàn áp, Bà Triệu tuẫn tiết trên núi Tùng.
+*   **248:** Cuộc khởi nghĩa của Triệu Thị Trinh cùng anh là Triệu Quốc Đạt bùng nổ tại Cửu Chân, khiến "toàn thể Giao Châu chấn động". Bà nổi tiếng với câu nói: "Tôi chỉ muốn cưỡi cơn gió mạnh, đạp luồng sóng dữ, chém cá kình ở biển Đông, đánh đuổi quân Ngô, giành lại giang sơn, cởi ách nô lệ, chứ không chịu khom lưng làm tì thiếp cho người!". Tôn Quyền sai Lục Dận mang 8.000 quân sang đánh và dẹp được cuộc nổi dậy; Bà Triệu tuẫn tiết trên núi Tùng.
 *   **263:** Tào Ngụy diệt Thục Hán. Tại Giao Chỉ, Lã Hưng nổi dậy giết chết Thái thú của nhà Ngô và xin thần phục nhà Ngụy. Giao Châu tạm thời thoát khỏi quyền kiểm soát của Đông Ngô.
 *   **264:** Nhà Đông Ngô tái chia tách Quảng Châu và Giao Châu, lấy Long Biên làm trị sở Giao Châu.
 *   **265:** Nhà Tây Tấn thành lập (thay thế nhà Ngụy). Giao Châu lúc này thuộc về nhà Tấn.
 *   **268 - 271:** Đông Ngô nhiều lần cử binh đi đánh chiếm lại Giao Châu. Năm 271, tướng Đào Hoàng của Đông Ngô chiếm lại được toàn bộ vùng đất này.
 *   **280:** Nhà Tây Tấn tiêu diệt hoàn toàn nước Đông Ngô, thống nhất Trung Hoa. Giao Châu chính thức chuyển sang thời kỳ trực thuộc nhà Tây Tấn.
-*   **299:** Thú binh ở quận Cửu Chân do Triệu Chỉ cầm đầu nổi dậy chống nhà Tấn, vây hãm quận thành.
-*   **317:** Đốc quân Lương Thạc nổi dậy giết Thứ sử Cố Thọ, chiếm giữ Giao Châu và chống lại nhà Tấn trong nhiều năm.
+*   **299:** Thú binh ở quận Cửu Chân do Triệu Chỉ cầm đầu nổi dậy giết thái thú nhà Tấn và vây quận thành. Không lâu sau lực lượng này bị dẹp.
+*   **317:** Đốc quân Lương Thạc nổi dậy giết Thứ sử Cố Thọ, lập Đào Tuy lên thay, chống lại nhà Tấn (giết Vương Cơ, Vương Lượng). Đến năm 323, danh tướng Đào Khản sang đánh, Lương Thạc mới bị giết.
 *   **323:** Nhà Tấn cử danh tướng Đào Khản sang đánh dẹp. Lương Thạc bị giết, Giao Châu trở lại quyền kiểm soát của nhà Tấn.
 *   **351:** Thái thú Giao Chỉ là Dương Bình và Thái thú Cửu Chân là Hoan Toại đánh bại quân Lâm Ấp do vua Phạm Phật chỉ huy.
 *   **353 - 359:** Các cuộc chiến tranh giữa Giao Châu (nhà Tấn) và Lâm Ấp.
@@ -70,11 +73,12 @@
 *   **413:** Đỗ Tuệ Độ (con Đỗ Viện) đánh bại quân Lâm Ấp xâm lấn Cửu Chân, giết chết hai hoàng tử của Lâm Ấp.
 *   **420:** Đỗ Tuệ Độ nhân lúc Lâm Ấp suy yếu đã mang quân nam tiến, đánh thiệt hại nặng quân Lâm Ấp. Nước Lâm Ấp phải xin hàng và nộp cống.
 *   **446:** Tướng nhà Lưu Tống là Đàn Hòa Chi đem quân đánh Lâm Ấp, hạ thành Khu Lật.
-*   **468:** Lý Trường Nhân nổi dậy, tự xưng là Thứ sử, chống lại sự cai trị của nhà Lưu Tống.
+*   **468:** Tướng lĩnh bản địa Lý Trường Nhân nổi dậy giết thuộc hạ của Thứ sử Lưu Mục, tự xưng Thứ sử, chống lại nhà Lưu Tống. Sau khi ông mất, em họ là Lý Thúc Hiến lên thay, tiếp tục ngăn cản quan lại phương Bắc (Lưu Bột, Thẩm Hoán).
 *   **479:** Nhà Nam Tề thay thế nhà Lưu Tống ở Trung Quốc. Lý Thúc Hiến (người kế tục Lý Trường Nhân) tiếp tục giữ quyền tự trị ở Giao Châu, không chịu phục tùng nhà Tề.
 *   **485:** Nhà Nam Tề cử Lưu Khải đem quân sang đánh. Lý Thúc Hiến liệu thế không chống nổi nên xin hàng, chấm dứt giai đoạn tự trị của người bản địa.
 *   **10/490 (Canh Ngọ):** Phòng Pháp Thặng được cử làm Thứ sử Giao Châu, nhưng vì mê đọc sách nên bị thuộc hạ là Phục Đăng Chi lật đổ.
-*   **542:** Lý Bí lãnh đạo cuộc khởi nghĩa chống lại ách đô hộ của nhà Lương.
+*   **541:** Lý Bí khởi binh chống nhà Lương. Thứ sử Tiêu Tư bỏ chạy về bắc.
+*   **542:** Nhà Lương cử binh sang dẹp nhưng đều bị nghĩa quân Lý Bí đánh bại.
 *   **544:** Lý Bí xưng là Nam Việt Đế (Lý Nam Đế), lập ra nước Vạn Xuân, đặt niên hiệu Thiên Đức.
 *   **08/546 (Bính Dần):** Trận hồ Điển Triệt diễn ra. Tướng Lương là Trần Bá Tiên lợi dụng nước sông dâng cao đánh úp, quân Lý Nam Đế tan vỡ, vua phải lui vào động Khuất Lão.
 *   **548:** Lý Nam Đế mất.
