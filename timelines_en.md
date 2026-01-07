@@ -44,6 +44,7 @@
 *   **137:** The people of Tuong Lam district rose up, attacking the Han administrative seat and killing the chief official.
 *   **144:** The people of Nhat Nam and Cuu Chan commanderies rose up against the Han dynasty.
 *   **157:** Chu Dat led an uprising in Cuu Chan, killing the commandery governor.
+*   **166:** Envoys sent by Roman Emperor Marcus Aurelius Antoninus arrived in Nhat Nam to present gifts of ivory and rhinoceros horn to the Han court. This marks the first recorded direct contact between Rome and the Chinese empire via Vietnam.
 *   **178:** Luong Long led an uprising in Giao Chi, attracting participation from people in Cuu Chan and Nhat Nam.
 *   **192:** Khu Lien officially established the Lam Ap kingdom.
 *   **Around 200:** Shi Xie (Si Nhiep) governed Giao Chau. He is credited with promoting Confucianism and maintaining stability during the chaotic Three Kingdoms period in China, later honored by the Vietnamese as "King Si" (Si Vuong).
@@ -60,9 +61,18 @@
 *   **280:** The Western Jin dynasty destroyed Eastern Wu, unifying China. Jiaozhou officially became a direct territory of the Western Jin.
 *   **299:** Trieu Chi led soldiers in Cuu Chan to rebel against the Jin dynasty, besieging the commandery citadel.
 *   **317:** Luong Thac, a local military commander, killed Governor Gu Shou and opposed the Jin dynasty's appointees, controlling Giao Chau for several years before being defeated in 323.
+*   **323:** The Jin dynasty sent General Tao Kan to suppress the rebellion. Luong Thac was defeated and executed, returning Giao Chau to Jin control.
+*   **351:** Governor Duong Binh of Giao Chi and Governor Hoan Toai of Cuu Chan defeated an invasion by the Lam Ap King Pham Phat.
 *   **353 - 359:** Wars between Giao Chau (Jin dynasty) and Lam Ap (Champa).
+*   **353:** Governor Nguyen Phu attacked Lam Ap, destroying over 50 fortifications.
+*   **359:** Governor On Phong Chi led an army to attack the Lam Ap capital in the Quang Nam region.
+*   **399:** Lam Ap forces led by Pham Ho Dat attacked Nhat Nam and Cuu Duc, capturing the local governors. Governor Do Vien of Giao Chi defeated them, forcing a retreat. Do Vien was subsequently appointed Governor of Giao Chau.
+*   **413:** Governor Do Tue Do (son of Do Vien) defeated Lam Ap forces invading Cuu Chan, killing two princes of Lam Ap.
+*   **420:** Do Tue Do launched a campaign against Lam Ap, inflicting heavy casualties. Lam Ap surrendered and resumed paying tribute.
 *   **446:** The Liu Song dynasty general Tan He Zhi attacked Lam Ap, capturing the capital Khu Lat.
 *   **468:** Ly Truong Nhan, a local leader, rose up and declared himself Governor (Thu Su), resisting the Liu Song dynasty's appointees.
+*   **479:** The Southern Qi dynasty replaced the Liu Song dynasty in China. Ly Thuc Hien (successor to Ly Truong Nhan) maintained autonomy in Giao Chau and refused to submit to the new dynasty.
+*   **485:** The Southern Qi Emperor sent General Liu Kai to invade. Ly Thuc Hien surrendered to avoid bloodshed, ending the period of local autonomy.
 *   **Oct. 490:** Phong Phap Thang was appointed Governor. He was later overthrown by Phuc Dang Chi due to his excessive obsession with reading books and neglecting administrative duties.
 *   **542:** Ly Bi led an uprising against the domination of the Liang dynasty.
 *   **544:** Ly Bi proclaimed himself the Southern Viet Emperor (Ly Nam De), founded the Van Xuan kingdom, and established the era name Thien Duc.

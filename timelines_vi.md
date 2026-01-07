@@ -44,6 +44,7 @@
 *   **137:** Người huyện Tượng Lâm nổi dậy đánh phá trị sở, giết trưởng lại rồi đánh rộng ra toàn quận Nhật Nam.
 *   **144:** Dân Nhật Nam và Cửu Chân cùng nổi lên chống lại nhà Hán.
 *   **157:** Chu Đạt nổi dậy ở Cửu Chân, giết chết Thái thú.
+*   **166:** Sứ giả của Hoàng đế La Mã Marcus Aurelius Antoninus đã đến quận Nhật Nam để dâng ngà voi và sừng tê cho nhà Hán. Đây là lần đầu tiên La Mã thông thương với Trung Quốc qua đường Giao Châu (Việt Nam).
 *   **178:** Lương Long nổi dậy ở Giao Chỉ, lôi kéo dân các quận Cửu Chân và Nhật Nam hưởng ứng.
 *   **192:** Khu Liên chính thức thành lập nước Lâm Ấp.
 *   **Khoảng năm 200:** Sĩ Nhiếp (Shi Xie) cai trị Giao Châu. Ông được người Việt tôn vinh là "Sĩ Vương" vì có công truyền bá Nho học và duy trì sự ổn định trong thời kỳ Tam Quốc loạn lạc ở Trung Quốc.
@@ -60,9 +61,18 @@
 *   **280:** Nhà Tây Tấn tiêu diệt hoàn toàn nước Đông Ngô, thống nhất Trung Hoa. Giao Châu chính thức chuyển sang thời kỳ trực thuộc nhà Tây Tấn.
 *   **299:** Thú binh ở quận Cửu Chân do Triệu Chỉ cầm đầu nổi dậy chống nhà Tấn, vây hãm quận thành.
 *   **317:** Đốc quân Lương Thạc nổi dậy giết Thứ sử Cố Thọ, chiếm giữ Giao Châu và chống lại nhà Tấn trong nhiều năm.
+*   **323:** Nhà Tấn cử danh tướng Đào Khản sang đánh dẹp. Lương Thạc bị giết, Giao Châu trở lại quyền kiểm soát của nhà Tấn.
+*   **351:** Thái thú Giao Chỉ là Dương Bình và Thái thú Cửu Chân là Hoan Toại đánh bại quân Lâm Ấp do vua Phạm Phật chỉ huy.
 *   **353 - 359:** Các cuộc chiến tranh giữa Giao Châu (nhà Tấn) và Lâm Ấp.
+*   **353:** Thứ sử Giao Châu là Nguyễn Phu đem quân đánh Lâm Ấp, phá được hơn 50 lũy.
+*   **359:** Thứ sử Ôn Phóng Chi đánh vào tận kinh đô Lâm Ấp (vùng Quảng Nam ngày nay).
+*   **399:** Quân Lâm Ấp do Phạm Hồ Đạt chỉ huy tấn công Nhật Nam và Cửu Đức, bắt sống các Thái thú. Thái thú Giao Chỉ là Đỗ Viện đem quân đánh tan quân địch, được phong làm Thứ sử Giao Châu.
+*   **413:** Đỗ Tuệ Độ (con Đỗ Viện) đánh bại quân Lâm Ấp xâm lấn Cửu Chân, giết chết hai hoàng tử của Lâm Ấp.
+*   **420:** Đỗ Tuệ Độ nhân lúc Lâm Ấp suy yếu đã mang quân nam tiến, đánh thiệt hại nặng quân Lâm Ấp. Nước Lâm Ấp phải xin hàng và nộp cống.
 *   **446:** Tướng nhà Lưu Tống là Đàn Hòa Chi đem quân đánh Lâm Ấp, hạ thành Khu Lật.
 *   **468:** Lý Trường Nhân nổi dậy, tự xưng là Thứ sử, chống lại sự cai trị của nhà Lưu Tống.
+*   **479:** Nhà Nam Tề thay thế nhà Lưu Tống ở Trung Quốc. Lý Thúc Hiến (người kế tục Lý Trường Nhân) tiếp tục giữ quyền tự trị ở Giao Châu, không chịu phục tùng nhà Tề.
+*   **485:** Nhà Nam Tề cử Lưu Khải đem quân sang đánh. Lý Thúc Hiến liệu thế không chống nổi nên xin hàng, chấm dứt giai đoạn tự trị của người bản địa.
 *   **10/490 (Canh Ngọ):** Phòng Pháp Thặng được cử làm Thứ sử Giao Châu, nhưng vì mê đọc sách nên bị thuộc hạ là Phục Đăng Chi lật đổ.
 *   **542:** Lý Bí lãnh đạo cuộc khởi nghĩa chống lại ách đô hộ của nhà Lương.
 *   **544:** Lý Bí xưng là Nam Việt Đế (Lý Nam Đế), lập ra nước Vạn Xuân, đặt niên hiệu Thiên Đức.
