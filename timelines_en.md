@@ -44,10 +44,16 @@
 *   **192:** Khu Lien officially established the Lam Ap kingdom.
 *   **Around 200:** Shi Xie (Si Nhiep) governed Giao Chau. He is credited with promoting Confucianism and maintaining stability during the chaotic Three Kingdoms period in China, later honored by the Vietnamese as "King Si" (Si Vuong).
 *   **200 (Canh Thin year):** Ly Tien, a native of Giao Chau, petitioned the Han Emperor to allow Giao Chau scholars to be appointed as officials in the inner provinces. This marked an early struggle for equal political rights.
-*   **226:** The Eastern Wu dynasty divided Giao Chau into Guangzhou (Quang Chau) and Jiaozhou (Giao Chau).
-*   **248:** The uprising of Lady Trieu (Trieu Thi Trinh) in Cuu Chan against the domination of the Eastern Wu dynasty. She proclaimed herself Dai Hai Ba Vuong but was ultimately defeated by general Lu Yin.
-*   **269:** The Eastern Wu dynasty sent generals Xue Xu and Tao Huang to retake Giao Chi (Jiaozhou).
+*   **203:** Upon the request of Shi Xie and Governor Zhang Jin, the Eastern Han dynasty officially established **Jiaozhou** (Giao Chau), upgrading it from Jiaozhi circuit, with the capital at Luy Lau (Bac Ninh).
+*   **210:** Shi Xie sent his son as a hostage and paid tribute to Sun Quan, marking the beginning of Eastern Wu's influence over Jiaozhou.
+*   **226:** Shi Xie passed away. Sun Quan of Eastern Wu divided Giao Chau into Guangzhou (North) and Jiaozhou (South).
+*   **227:** Shi Hui (Shi Xie's son) rebelled against Eastern Wu's new appointments but was defeated and executed. Eastern Wu reunified Guangzhou and Jiaozhou to facilitate suppression.
+*   **248:** The uprising of Lady Trieu (Trieu Thi Trinh) broke out in Cuu Chan, shaking the whole Jiaozhou. She proclaimed herself Dai Hai Ba Vuong. Eastern Wu general Lu Yin suppressed the rebellion using both military force and bribery; Lady Trieu eventually sacrificed herself on Mount Tung.
+*   **263:** Lu Xing (La Hung) rebelled in Giao Chi, killing the Eastern Wu Governor and submitting to the Cao Wei dynasty. Jiaozhou temporarily escaped Eastern Wu's control.
 *   **264:** The Eastern Wu dynasty re-divided Guangzhou and Jiaozhou, establishing Long Bien as the capital of Jiaozhou.
+*   **265:** The Western Jin dynasty was established (replacing Cao Wei), and Jiaozhou nominally came under its jurisdiction.
+*   **268 - 271:** Eastern Wu launched multiple campaigns to retake Jiaozhou. In 271, Wu general Tao Huang successfully recaptured the region from the Western Jin.
+*   **280:** The Western Jin dynasty destroyed Eastern Wu, unifying China. Jiaozhou officially became a direct territory of the Western Jin.
 *   **Oct. 490:** Phong Phap Thang was appointed Governor. He was later overthrown by Phuc Dang Chi due to his excessive obsession with reading books and neglecting administrative duties.
 *   **542:** Ly Bi led an uprising against the domination of the Liang dynasty.
 *   **544:** Ly Bi proclaimed himself the Southern Viet Emperor (Ly Nam De), founded the Van Xuan kingdom, and established the era name Thien Duc.

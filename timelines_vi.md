@@ -44,10 +44,16 @@
 *   **192:** Khu Liên chính thức thành lập nước Lâm Ấp.
 *   **Khoảng năm 200:** Sĩ Nhiếp (Shi Xie) cai trị Giao Châu. Ông được người Việt tôn vinh là "Sĩ Vương" vì có công truyền bá Nho học và duy trì sự ổn định trong thời kỳ Tam Quốc loạn lạc ở Trung Quốc.
 *   **Năm 200 (Canh Thìn):** Lý Tiến dâng sớ lên vua Hán xin cho người Giao Châu được bổ nhiệm chức quan như người Hán, đánh dấu sự đấu tranh cho quyền bình đẳng chính trị.
-*   **226:** Nhà Đông Ngô chia Giao Châu thành Quảng Châu và Giao Châu.
-*   **248:** Cuộc khởi nghĩa của Bà Triệu (Triệu Thị Trinh) ở Cửu Chân chống lại ách đô hộ của nhà Đông Ngô. Bà tự xưng là Đại Hải Bà Vương nhưng cuối cùng bị tướng Lục Dận đánh bại.
-*   **269:** Nhà Đông Ngô sai các tướng Tiết Hủ, Đào Hoàng sang lấy lại Giao Chỉ.
+*   **203:** Theo lời xin của Sĩ Nhiếp và Thứ sử Trương Tân, nhà Đông Hán chính thức thành lập **Giao Châu** (nâng cấp từ Giao Chỉ bộ), thủ phủ đặt tại Luy Lâu (nay thuộc Thuận Thành, Bắc Ninh).
+*   **210:** Sĩ Nhiếp chính thức gửi con sang làm con tin và nộp cống phẩm cho Tôn Quyền, đánh dấu việc Giao Châu bắt đầu chịu ảnh hưởng của nước Đông Ngô.
+*   **226:** Sĩ Nhiếp mất. Tôn Quyền quyết định chia Giao Châu làm hai: Quảng Châu (phía Bắc) và Giao Châu (phía Nam).
+*   **227:** Sĩ Huy (con Sĩ Nhiếp) nổi dậy chống lại việc bổ nhiệm quan lại mới của nhà Ngô nhưng thất bại và bị xử tử. Đông Ngô tái thống nhất hai châu thành Giao Châu như cũ để dễ bề đàn áp.
+*   **248:** Cuộc khởi nghĩa Bà Triệu bùng nổ tại quận Cửu Chân (Thanh Hóa), khiến "toàn thể Giao Châu chấn động". Nhà Ngô phải cử danh tướng Lục Dận sang đàn áp bằng cả quân sự và mua chuộc, Bà Triệu cuối cùng hy sinh trên núi Tùng.
+*   **263:** Tào Ngụy diệt Thục Hán. Tại Giao Chỉ, Lã Hưng nổi dậy giết chết Thái thú của nhà Ngô và xin thần phục nhà Ngụy. Giao Châu tạm thời thoát khỏi quyền kiểm soát của Đông Ngô.
 *   **264:** Nhà Đông Ngô tái chia tách Quảng Châu và Giao Châu, lấy Long Biên làm trị sở Giao Châu.
+*   **265:** Nhà Tây Tấn thành lập (thay thế nhà Ngụy). Giao Châu lúc này thuộc về nhà Tấn.
+*   **268 - 271:** Đông Ngô nhiều lần cử binh đi đánh chiếm lại Giao Châu. Năm 271, tướng Đào Hoàng của Đông Ngô chiếm lại được toàn bộ vùng đất này.
+*   **280:** Nhà Tây Tấn tiêu diệt hoàn toàn nước Đông Ngô, thống nhất Trung Hoa. Giao Châu chính thức chuyển sang thời kỳ trực thuộc nhà Tây Tấn.
 *   **10/490 (Canh Ngọ):** Phòng Pháp Thặng được cử làm Thứ sử Giao Châu, nhưng vì mê đọc sách nên bị thuộc hạ là Phục Đăng Chi lật đổ.
 *   **542:** Lý Bí lãnh đạo cuộc khởi nghĩa chống lại ách đô hộ của nhà Lương.
 *   **544:** Lý Bí xưng là Nam Việt Đế (Lý Nam Đế), lập ra nước Vạn Xuân, đặt niên hiệu Thiên Đức.
