@@ -517,6 +517,7 @@
 *   **Mid-Autumn 1773:** Nguyen Nhac held a flag-raising ceremony at An Khe Pass to officially launch the military campaign.
 *   **1773:** Generals Le Van Hung, Tran Quang Dieu, and Vo Van Dung commanded Tay Son forces to capture Bong Son and Phu Ly, paving the way for the attack on Quy Nhon.
 *   **1773:** The Tay Son army captured Tuy Vien district and then Quy Nhon Citadel (using the stratagem of Nguyen Nhac hiding himself in a cage to enter the citadel as a prisoner).
+*   **Winter 1773:** Generals Nguyen Van Loc and Le Van Hung, under the command of General Ngo Van So, attacked and captured the three prefectures of Phu Yen, Dien Khanh, and Binh Thuan.
 *   **Nov. 1, 1773:** The Tay Son army won a victory at Ben Da (Quang Ngai).
 *   **Dec. 22, 1773:** The Battle of Ben Van (Quang Nam) took place, where the Nguyen army temporarily repelled the Tay Son forces.
 *   **1773:** Nguyen Anh established three villages, An Hai, An Hoi, and Co Ong, and named the Con Dao archipelago Con Lon.
@@ -556,6 +557,7 @@
 *   **1783:** Le Huu Trac completed the memoir *Thuong Kinh Ky Su* (Chronicles of a Journey to the Capital), providing a vivid account of the chaotic society and the luxurious but decaying life of the Le-Trinh court.
 *   **Feb. 24, 1783:** In a naval battle against the Tay Son at Gia Dinh, the Nguyen army attempted a fire attack but failed due to a sudden change in wind direction, resulting in the destruction of their own fleet. Nguyen Anh was forced to flee to Phu Quoc Island.
 *   **1783:** Nguyen Hue and Nguyen Lu led troops to attack; Nguyen Anh was again defeated and had to flee to Siam (Thailand) to seek aid.
+*   **Early 1783:** General Le Van Hung attacked the Dac Ngu naval post (Gia Dinh), killing the defending Nguyen general Ton That Mau.
 *   **Mar. 1784:** Bishop Pigneau de Béhaine (Bá Đa Lộc) represented Nguyen Anh in going to France to ask for help.
 *   **Jul. 25, 1784:** 50,000 Siamese troops (20,000 naval, 30,000 land) led by Chao Tseng and Chao Sương, along with Nguyen Anh, invaded Gia Dinh.
 *   **Jan. 19, 1785:** Battle of Rach Gam - Xoai Mut. Nguyen Hue set up an ambush, crushed the Siamese army, annihilating almost the entire invading force. Generals Tran Quang Dieu and Bui Thi Xuan commanded the infantry, while General Le Van Hung captured the Nguyen general Nguyen Huynh Duc.
@@ -590,6 +592,7 @@
 *   **Nov. 1788 (Lunar):** **Battle of Phu Luong River:** Qing forces crossed the Red River (Phu Luong). Tay Son forces withdrew to preserve their strength.
 *   **Dec. 18, 1788:** The Qing commander Sun Shiyi entered Thang Long, marking the beginning of the Qing occupation of the capital.
 *   **Nov. 22, 1788:** The Qing commander Sun Shiyi held a ceremony in Thang Long to officially invest Le Chieu Thong as the King of An Nam (using the Qing calendar date).
+*   **Jan. 29, 1789 (4th day of the Lunar New Year):** Grand Admiral Nguyen Van Tuyet commanded the attack on the Qing army stationed in Hai Duong, destroying the enemy camp and causing them to flee.
 *   **Dec. 22, 1788 (25th of the 12th lunar month):** In Phu Xuan, Nguyen Hue ascended the throne as Emperor, taking the era name Quang Trung, and immediately led a large army on a lightning march to the north.
 *   **Jan. 28-30, 1789 (3rd-5th day of the Tet of the Year of the Rooster):** In a lightning march and attack, Emperor Quang Trung crushed the Qing army in the battles of Ha Hoi, Ngoc Hoi, and Dong Da. General Bui Thi Xuan commanded the war elephants, General Vo Van Dung led the Rear Army, and Admiral Nguyen Van Loc (Do Doc Loc) commanded the Left Army/Navy, contributing decisively to the liberation of Thang Long.
 *   **1789:** Emperor Quang Trung issued the "Edict on Encouraging Agriculture" to restore production. He also introduced the **"Tin Bai"** (Identity Card) system for the first time to manage the population and conscription, requiring citizens to carry an identification tag.
@@ -597,6 +600,9 @@
 *   **Autumn 1789:** Emperor Quang Trung sent his nephew **Nguyen Quang Hien** to Beijing to pay tribute and attend Emperor Qianlong's birthday celebration at the Mountain Resort (Jehol). Emperor Qianlong accepted the peace and officially invested Nguyen Hue as the King of An Nam.
 *   **1790:** A diplomatic mission led by a "fake King" (Pham Van Tri impersonating Nguyen Hue) was sent to the Qing court in China to pay tribute and attend Emperor Qianlong's 80th birthday celebration, successfully securing peace.
 *   **Mar. 1790:** Under the direction of Nguyen Anh, Western engineers Olivier de Puynamel and Le Brun began the construction of the **Gia Dinh Citadel** following the Vauban architectural style. This octagonal citadel became a strategic military stronghold for the Nguyen forces in the South.
+*   **Jun. 1790 (Canh Tuat):** General Tran Quang Dieu captured Tran Ninh, capturing tribal leaders Cheo Nan and Cheo Kieu.
+*   **Oct. 1790:** Tran Quang Dieu attacked Vientiane (Van Tuong), forcing the leader to flee, then advanced to the Siamese border, defeating Siamese generals Phan Dung and Phan Sieu.
+*   **Spring 1791 (Tan Hoi):** Tran Quang Dieu and Bui Thi Xuan led troops to chastise the King of Ai Lao (Laos) for refusing tribute, forcing them to surrender.
 *   **1791:** Emperor Quang Trung established the **Institute for the Veneration of Orthodoxy** (Vien Sung Chinh), headed by Nguyen Thiep. This marked a significant cultural milestone as **Chu Nom** (Vietnamese demotic script) was elevated to the status of the national official script for documents and education, replacing Classical Chinese.
 *   **1791:** The Tay Son launched a large-scale invasion of Laos. Meanwhile, historical records indicate growing dissatisfaction among the populace in both Tay Son-controlled central regions and Nguyen-controlled southern regions due to war burdens and taxes.
 *   **1791:** Le Huu Trac passed away.

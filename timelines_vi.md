@@ -517,6 +517,7 @@
 *   **Rằm tháng 8/1773:** Nguyễn Nhạc làm lễ tế cờ xuất quân tại đèo An Khê.
 *   **1773:** Các tướng Lê Văn Hưng, Trần Quang Diệu và Võ Văn Dũng chỉ huy quân Tây Sơn đánh chiếm Bồng Sơn và Phù Ly, mở đường cho việc hạ thành Quy Nhơn.
 *   **1773:** Nghĩa quân Tây Sơn chiếm huyện lỵ Tuy Viễn và hạ thành Quy Nhơn (dùng mưu Nguyễn Nhạc ngồi trong cũi giả làm tù nhân).
+*   **Mùa Đông 1773:** Các tướng Nguyễn Văn Lộc và Lê Văn Hưng theo lệnh của Chinh Nam Đại tướng quân Ngô Văn Sở vào đánh chiếm ba phủ Phú Yên, Diên Khánh, Bình Thuận.
 *   **01/11/1773:** Quân Tây Sơn giành chiến thắng trong trận Bến Đá (Quảng Ngãi).
 *   **22/12/1773:** Trận Bến Ván (Quảng Nam) diễn ra, quân chúa Nguyễn tạm thời đẩy lùi được quân Tây Sơn.
 *   **1773:** Nguyễn Ánh thành lập 3 làng An Hải, An Hội, Cỏ Ống và đặt tên cho quần đảo Côn Đảo là Côn Lôn.
@@ -556,6 +557,7 @@
 *   **1783:** Lê Hữu Trác hoàn thành tác phẩm *Thượng Kinh ký sự*, ghi chép chân thực về cảnh sống xa hoa nhưng suy tàn của phủ chúa Trịnh và xã hội Đàng Ngoài đương thời.
 *   **24/02/1783:** Trận thủy chiến tại sông Gia Định (khu vực Vàm Cỏ - Cá Trê), quân Nguyễn dùng hỏa công nhưng gặp gió đông bắc thổi mạnh ngược lại, tự thiêu rụi thuyền bè. Nguyễn Ánh phải chạy ra đảo Côn Lôn rồi Phú Quốc.
 *   **1783:** Nguyễn Huệ và Nguyễn Lữ đem quân vào đánh, Nguyễn Ánh lại thua trận, phải chạy sang Xiêm cầu viện.
+*   **Đầu năm 1783:** Tướng Lê Văn Hưng tấn công đồn thủy binh Dác Ngư (Gia Định), giết chết tướng Tôn Thất Mậu của chúa Nguyễn.
 *   **Mùa đông 1784:** Nguyễn Ánh cử Hoàng tử Cảnh đi cùng Giám mục Pigneau de Béhaine (Bá Đa Lộc) sang Pháp cầu viện.
 *   **25/07/1784:** 5 vạn quân Xiêm (2 vạn thủy, 3 vạn bộ) do Chiêu Tăng, Chiêu Sương chỉ huy cùng Nguyễn Ánh tiến vào xâm lược Gia Định.
 *   **19/01/1785:** Trận Rạch Gầm - Xoài Mút. Nguyễn Huệ tổ chức trận địa mai phục, đại phá quân Xiêm. Tướng Trần Quang Diệu và Bùi Thị Xuân chỉ huy bộ binh, tướng Lê Văn Hưng lập công đầu bắt sống tướng Nguyễn Huỳnh Đức.
@@ -590,6 +592,7 @@
 *   **Tháng 11/1788 (Âm lịch):** **Trận sông Phú Lương:** Quân Thanh vượt sông Hồng (Phú Lương). Quân Tây Sơn rút lui để bảo toàn lực lượng.
 *   **18/12/1788:** Tôn Sĩ Nghị dẫn quân Thanh tiến vào Thăng Long, bắt đầu thời kỳ chiếm đóng ngắn ngủi của quân Thanh tại kinh đô.
 *   **22/11/1788:** Tôn Sĩ Nghị tổ chức lễ tuyên phong cho Lê Chiêu Thống làm An Nam Quốc vương tại Thăng Long (theo lịch nhà Thanh).
+*   **04/01/1789 (Mồng 4 Tết Kỷ Dậu):** Phối hợp với các cánh quân khác, Đại Đô đốc Nguyễn Văn Tuyết chỉ huy mũi tấn công đạo quân Thanh đóng ở Hải Dương. Trại giặc vỡ tan, quân Thanh bị tiêu diệt và bỏ chạy hỗn loạn.
 *   **22/12/1788 (25 tháng Chạp năm Mậu Thân):** Tại Phú Xuân, Nguyễn Huệ lên ngôi Hoàng đế, lấy niên hiệu Quang Trung, rồi lập tức chỉ huy đại quân thần tốc tiến ra Bắc.
 *   **28-30/01/1789 (Mồng 3-5 Tết Kỷ Dậu):** Vua Quang Trung đại phá quân Thanh trong các trận Hà Hồi, Ngọc Hồi, Đống Đa. Nữ tướng Bùi Thị Xuân chỉ huy đội tượng binh, Đại Tư đồ Võ Văn Dũng đốc xuất hậu quân, và Đại Đô đốc Lộc (Nguyễn Văn Lộc) chỉ huy Tả quân thủy sư, góp phần quan trọng vào chiến thắng kỷ lục.
 *   **1789:** Vua Quang Trung ban bố "Chiếu khuyến nông" để phục hồi sản xuất. Đồng thời, lần đầu tiên ban hành chế độ **"Tín bài"** (thẻ căn cước) để quản lý dân số và tuyển quân, phân chia dân thành các hạng tuổi để kiểm soát hộ tịch.
@@ -597,6 +600,9 @@
 *   **Mùa thu 1789:** Vua Quang Trung cử cháu là **Nguyễn Quang Hiển** sang Yên Kinh (Bắc Kinh) chầu vua Càn Long và dự lễ Vạn Thọ tại Nhiệt Hà. Vua Càn Long chấp nhận giảng hòa và phong Nguyễn Huệ làm An Nam Quốc vương.
 *   **1790:** Phái đoàn sứ giả do "Vua giả" (Phạm Văn Trị đóng giả Nguyễn Huệ) dẫn đầu sang Trung Quốc cầu phong và dự lễ mừng thọ vua Càn Long, thực hiện thắng lợi đường lối ngoại giao mềm dẻo.
 *   **03/1790:** Dưới sự chỉ đạo của Nguyễn Ánh, các kỹ sư phương Tây là Olivier de Puynamel và Le Brun bắt đầu xây dựng **thành Gia Định** (thành Bát Quái) theo kiểu Vauban. Đây là một công trình phòng thủ kiên cố, đóng vai trò quan trọng trong việc bảo vệ căn cứ địa của quân Nguyễn.
+*   **Tháng 6/1790 (Canh Tuất):** Trần Quang Diệu và Lê Trung đem binh đi tảo trừ biên giới, lấy được Trấn Ninh, bắt được tù trưởng Cheo Nan và Cheo Kiêu.
+*   **Tháng 10/1790:** Trần Quang Diệu tấn công Vạn Tượng, buộc thủ lĩnh bỏ thành chạy trốn; sau đó đánh thẳng đến biên giới Xiêm La, chém được Tả súy Phan Dung và Hữu súy Phan Siêu.
+*   **Mùa xuân 1791 (Tân Hợi):** Trần Quang Diệu và nữ tướng Bùi Thị Xuân đem binh sang vấn tội vua Ai Lao vì không chịu triều cống, quân Ai Lao xin hàng.
 *   **1791:** Vua Quang Trung cho lập **Viện Sùng Chính** do La Sơn Phu Tử Nguyễn Thiếp đứng đầu. Đây là sự kiện quan trọng đánh dấu việc lần đầu tiên **chữ Nôm** được đưa lên làm văn tự chính thức của quốc gia dùng trong chiếu biểu, thi cử, thay thế vị trí độc tôn của chữ Hán.
 *   **1791:** Quân Tây Sơn thực hiện cuộc xâm lược quy mô lớn sang Lào. Cùng thời gian này, các ghi chép lịch sử cho thấy sự bất mãn ngày càng tăng của dân chúng ở cả vùng Tây Sơn kiểm soát và vùng Nguyễn Ánh kiểm soát do gánh nặng chiến tranh.
 *   **1791:** Hải Thượng Lãn Ông Lê Hữu Trác qua đời.
