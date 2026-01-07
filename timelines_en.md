@@ -51,6 +51,7 @@
 *   **Oct. 490:** Phong Phap Thang was appointed Governor. He was later overthrown by Phuc Dang Chi due to his excessive obsession with reading books and neglecting administrative duties.
 *   **542:** Ly Bi led an uprising against the domination of the Liang dynasty.
 *   **544:** Ly Bi proclaimed himself the Southern Viet Emperor (Ly Nam De), founded the Van Xuan kingdom, and established the era name Thien Duc.
+*   **Aug. 546 (Binh Dan year):** The Battle of Dien Triet Lake took place. Liang general Chen Baxian used a water attack strategy when the river water rose, defeating Ly Nam De's forces. Ly Nam De had to retreat to Khuat Lao cave.
 *   **548:** Ly Nam De passed away.
 *   **548 - 571:** Trieu Quang Phuc (King Trieu Viet) led the resistance against the Liang army to victory, maintaining independence until he was defeated by Ly Phat Tu.
 *   **570 (Canh Dan year):** Ly Phat Tu launched a surprise attack on Trieu Viet Vuong. Trieu Viet Vuong was defeated and committed suicide at Dai Nha seaport.

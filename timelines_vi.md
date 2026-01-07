@@ -51,6 +51,7 @@
 *   **10/490 (Canh Ngọ):** Phòng Pháp Thặng được cử làm Thứ sử Giao Châu, nhưng vì mê đọc sách nên bị thuộc hạ là Phục Đăng Chi lật đổ.
 *   **542:** Lý Bí lãnh đạo cuộc khởi nghĩa chống lại ách đô hộ của nhà Lương.
 *   **544:** Lý Bí xưng là Nam Việt Đế (Lý Nam Đế), lập ra nước Vạn Xuân, đặt niên hiệu Thiên Đức.
+*   **08/546 (Bính Dần):** Trận hồ Điển Triệt diễn ra. Tướng Lương là Trần Bá Tiên lợi dụng nước sông dâng cao đánh úp, quân Lý Nam Đế tan vỡ, vua phải lui vào động Khuất Lão.
 *   **548:** Lý Nam Đế mất.
 *   **548 - 571:** Triệu Quang Phục (Triệu Việt Vương) lãnh đạo cuộc kháng chiến chống quân Lương thắng lợi, tiếp tục giữ nền độc lập cho đến khi bị Lý Phật Tử đánh bại.
 *   **570 (Canh Dần):** Lý Phật Tử bất ngờ đem quân đánh úp Triệu Việt Vương. Triệu Việt Vương thua trận, tự vẫn ở cửa biển Đại Nha.
