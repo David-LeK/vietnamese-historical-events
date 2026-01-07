@@ -816,6 +816,7 @@
 *   **1906:** Phong trào Duy tân do Phan Châu Trinh, Huỳnh Thúc Kháng, Trần Quý Cáp khởi xướng lan rộng ở Trung Kỳ, chủ trương "khai dân trí, chấn dân khí, hậu dân sinh".
 *   **16/05/1906:** Toàn quyền Paul Beau ký Nghị định thành lập Đại học Đông Dương.
 *   **03/1907:** Phong trào Đông Kinh Nghĩa thục được thành lập tại Hà Nội do Lương Văn Can, Nguyễn Quyền lãnh đạo, mở trường dạy học miễn phí, truyền bá tư tưởng mới.
+*   **07/04/1907:** Lê Duẩn sinh ra tại Triệu Phong, Quảng Trị. Ông sau này trở thành Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, nhà lãnh đạo kiệt xuất của cách mạng Việt Nam.
 *   **10/11/1907:** Đại học Đông Dương khai giảng khóa đầu tiên.
 *   **03/1908:** Phong trào chống sưu thuế của nông dân bùng nổ ở Quảng Nam rồi lan rộng khắp các tỉnh Trung Kỳ.
 *   **27/06/1908:** Vụ "Hà thành đầu độc" nổ ra, một nhóm binh lính người Việt và các nhà yêu nước mưu đồ đầu độc binh lính Pháp ở Hà Nội và khởi nghĩa nhưng thất bại.
@@ -913,6 +914,7 @@
 *   **30/10/1927:** Nghị định tái tổ chức bộ máy hành chính cấp làng xã ở Nam Kỳ.
 *   **25/12/1927:** Việt Nam Quốc dân Đảng được thành lập tại Hà Nội.
 *   **25/01/1928:** Triều đình Huế ra chỉ dụ cấm truyền bá đạo Tin Lành và đạo Cao Đài ở Trung Kỳ.
+*   **1928:** Lê Duẩn tham gia Hội Việt Nam Cách mạng Thanh niên, bắt đầu cuộc đời hoạt động cách mạng sôi nổi gần 60 năm.
 *   **14/07/1928:** Hội nghị Ban Chấp hành Trung ương Việt Nam Cách mệnh đồng chí Hội quyết định đổi tên thành Tân Việt Cách mạng Đảng.
 *   **04/11/1928:** Sắc lệnh thành lập Đại Hội đồng kinh tế và tài chính Đông Dương.
 *   **09/02/1929:** Trùm mộ phu Bazin bị đảng viên Việt Nam Quốc dân Đảng ám sát tại Hà Nội, dẫn đến một đợt khủng bố trắng.
@@ -951,6 +953,7 @@
 *   **13/11/1936:** Cuộc tổng bãi công của hơn 3 vạn công nhân mỏ vùng Hòn Gai, Cẩm Phả nổ ra và giành thắng lợi lớn.
 *   **30/12/1936:** Chính phủ Pháp ban hành Sắc lệnh về Luật Lao động ở Đông Dương, quy định một số chế độ cho người lao động.
 *   **01/01 - 14/03/1937:** Phái viên Justin Godart của chính phủ Pháp sang điều tra tình hình Đông Dương, làm dấy lên một phong trào quần chúng rầm rộ đón tiếp và đưa yêu sách.
+*   **1936:** Rời nhà tù Côn Đảo trở về, Lê Duẩn hoạt động ở Trung Kỳ. Trên cương vị Bí thư Xứ ủy Trung Kỳ, ông đã lãnh đạo phong trào Mặt trận Dân chủ (1936 - 1939), đấu tranh đòi quyền dân sinh, dân chủ.
 *   **1938:** Nguyễn Ái Quốc trở lại Trung Quốc, hoạt động trong Bát lộ quân.
 *   **03/1938:** Hội nghị Ban Chấp hành Trung ương Đảng quyết định đổi tên Mặt trận thành Mặt trận Dân chủ Đông Dương.
 *   **01/05/1938:** Cuộc mít tinh khổng lồ với 25.000 người tham gia được tổ chức công khai tại khu Đấu Xảo, Hà Nội để kỷ niệm ngày Quốc tế Lao động.
@@ -1021,6 +1024,7 @@
 
 *   **24/03/1946:** Chủ tịch Hồ Chí Minh và Cao ủy Pháp D'Argenlieu hội đàm tại Vịnh Hạ Long.
 *   **19/04/1946:** Hội nghị trù bị Đà Lạt khai mạc để chuẩn bị cho cuộc đàm phán chính thức tại Pháp.
+*   **05/1946:** Hội nghị Thường vụ Trung ương Đảng chỉ định đồng chí Lê Duẩn làm Bí thư Xứ ủy lâm thời Nam Bộ để củng cố và tăng cường sự lãnh đạo của Đảng trong cuộc kháng chiến ở miền Nam.
 *   **11/05/1946:** Hội nghị trù bị Đà Lạt kết thúc mà không đạt được thỏa thuận về các vấn đề cơ bản.
 *   **19/05/1946:** Lần đầu tiên kỷ niệm ngày sinh Chủ tịch Hồ Chí Minh được tổ chức công khai nhằm biểu thị tinh thần đại đoàn kết dân tộc.
 *   **29/05/1946:** Hội Liên hiệp quốc dân Việt Nam (Liên Việt) được thành lập.
@@ -1043,6 +1047,7 @@
 *   **07/10/1947:** Pháp mở cuộc tấn công quy mô lớn lên căn cứ địa Việt Bắc (Chiến dịch Léa).
 *   **30/10/1947:** Quân đội Việt Nam giành thắng lợi lớn trong trận phục kích ở đèo Bông Lau trên đường số 4.
 *   **20/11/1947:** Pháp mở giai đoạn hai của cuộc tấn công Việt Bắc (Chiến dịch Ceinture).
+*   **Cuối năm 1947:** Tại Đại hội Đảng bộ Xứ ủy Nam Bộ, đồng chí Lê Duẩn được bầu làm Bí thư Xứ ủy. Ông đã đề ra nhiều chủ trương quan trọng về mở rộng chiến tranh nhân dân, thực hiện dân chủ ở nông thôn và tăng cường công tác xây dựng Đảng.
 *   **22/12/1947:** Đại bộ phận quân Pháp rút khỏi Việt Bắc, chiến dịch tấn công của địch hoàn toàn thất bại.
 *   **25/01/1948:** Chính phủ ra sắc lệnh thành lập các Liên khu để thống nhất chỉ đạo kháng chiến.
 *   **11/06/1948:** Chủ tịch Hồ Chí Minh ra lời kêu gọi thi đua ái quốc.
@@ -1073,6 +1078,7 @@
 *   **11-19/02/1951:** Đại hội đại biểu toàn quốc lần thứ II của Đảng Cộng sản Đông Dương diễn ra tại xã Quang Vinh, huyện Chiêm Hóa, Tuyên Quang.
     *   Quyết định đưa Đảng ra hoạt động công khai với tên mới là **Đảng Lao động Việt Nam**.
     *   Thông qua Chính cương, Điều lệ mới và bầu Ban Chấp hành Trung ương. Hồ Chí Minh được bầu làm Chủ tịch Đảng, Trường Chinh làm Tổng Bí thư.
+    *   Đồng chí Lê Duẩn được bầu vào Ban Chấp hành Trung ương và Bộ Chính trị. Với cương vị Bí thư Trung ương Cục miền Nam, ông trực tiếp lãnh đạo cuộc kháng chiến ở Nam Bộ.
 *   **03-07/03/1951:** Đại hội toàn quốc thống nhất Việt Minh - Liên Việt, thành lập **Mặt trận Liên hiệp quốc dân Việt Nam** (gọi tắt là Mặt trận Liên Việt).
 *   **11/03/1951:** Hội nghị đại biểu Mặt trận ba nước Việt Nam - Khơme - Lào họp tại Việt Bắc, quyết định thành lập **khối Liên minh nhân dân Việt - Miên - Lào** để cùng chống kẻ thù chung.
 *   **23/03 - 07/04/1951:** Mở Chiến dịch Hoàng Hoa Thám (còn gọi là Chiến dịch đường số 18), tiến công phòng tuyến địch ở khu vực từ Phả Lại đến Uông Bí, Mạo Khê.
@@ -1129,9 +1135,11 @@
 *   **01/11/1955:** Nhóm Cố vấn Hỗ trợ Quân sự Hoa Kỳ (MAAG) tại Việt Nam chính thức được thành lập. Bộ Quốc phòng Mỹ chính thức coi đây là ngày bắt đầu cuộc "Chiến tranh Việt Nam".
 *   **04/03/1956:** Chính quyền Sài Gòn tổ chức bầu cử riêng rẽ để lập ra Quốc hội lập hiến.
 *   **28/04/1956:** Người lính Pháp cuối cùng rời khỏi miền Nam Việt Nam.
+*   **08/1956:** Đồng chí Lê Duẩn hoàn thành văn kiện **"Đề cương cách mạng miền Nam"**. Văn kiện đã phân tích sâu sắc tình hình, xác định kẻ thù và nhiệm vụ của cách mạng miền Nam, khẳng định con đường bạo lực cách mạng để chống Mỹ - Diệm. Đây là cơ sở cho Nghị quyết 15 của Trung ương Đảng.
 *   **09/1956:** Hội nghị lần thứ 10 Ban Chấp hành Trung ương Đảng Lao động Việt Nam nghiêm khắc kiểm điểm và đề ra chủ trương sửa chữa những sai lầm trong Cải cách ruộng đất.
 *   **26/10/1956:** Ngô Đình Diệm ban hành hiến pháp, chính thức thành lập chính thể "Việt Nam Cộng hòa".
 *   **1958 - 1960:** Miền Bắc thực hiện **Kế hoạch 3 năm** cải tạo và phát triển kinh tế, văn hóa.
+*   **Giữa năm 1957:** Trung ương điều động đồng chí Lê Duẩn ra Hà Nội công tác bên cạnh Chủ tịch Hồ Chí Minh để chuẩn bị cho Đại hội III của Đảng và hoạch định chiến lược cách mạng cả nước.
 *   **01/1959:** Hội nghị lần thứ 15 Ban Chấp hành Trung ương Đảng Lao động Việt Nam ra nghị quyết lịch sử, xác định con đường cách mạng miền Nam là sử dụng bạo lực cách mạng, kết hợp đấu tranh chính trị với đấu tranh vũ trang để giành chính quyền.
 *   **05/1959:** Chính quyền Ngô Đình Diệm ban hành **Luật 10/59**, lê máy chém đi khắp miền Nam để đàn áp khốc liệt phong trào cách mạng.
 *   **19/05/1959:** **Đoàn 559** được thành lập, có nhiệm vụ mở đường vận tải chiến lược chi viện cho miền Nam (sau này là Đường mòn Hồ Chí Minh).
@@ -1140,6 +1148,7 @@
 *   **09/1960:** **Đại hội đại biểu toàn quốc lần thứ III** của Đảng Lao động Việt Nam họp tại Hà Nội, đề ra hai nhiệm vụ chiến lược:
     *   Tiến hành cách mạng xã hội chủ nghĩa ở miền Bắc.
     *   Giải phóng miền Nam, thực hiện thống nhất đất nước.
+    *   Đồng chí Lê Duẩn được bầu làm Bí thư Thứ nhất Ban Chấp hành Trung ương Đảng.
 *   **20/12/1960:** **Mặt trận Dân tộc Giải phóng miền Nam Việt Nam** được thành lập.
 
 ### **Thời kỳ Chống Chiến tranh Đặc biệt (1961 - 1965)**
@@ -1294,6 +1303,7 @@
 *   **11/03/1985:** Mikhail Gorbachev trở thành Tổng Bí thư Đảng Cộng sản Liên Xô, bắt đầu thực hiện đường lối "Cải tổ" (Perestroika) và "Công khai" (Glasnost).
 *   **06/1985:** Hội nghị lần thứ 8 Ban Chấp hành Trung ương (khóa V) ra nghị quyết về giá - lương - tiền, quyết định dứt khoát xóa bỏ cơ chế tập trung quan liêu, bao cấp.
 *   **14/09/1985:** Bắt đầu cuộc tổng điều chỉnh giá - lương - tiền trên phạm vi cả nước, thực hiện đổi tiền với tỷ lệ 10 đồng tiền cũ ăn 1 đồng tiền mới.
+*   **10/07/1986:** Tổng Bí thư Lê Duẩn từ trần. Ông là nhà lãnh đạo lỗi lạc, người chiến sĩ cộng sản kiên cường, người học trò xuất sắc của Chủ tịch Hồ Chí Minh, đã cống hiến trọn đời cho sự nghiệp giải phóng dân tộc và thống nhất Tổ quốc.
 *   **12/1986:** Đại hội đại biểu toàn quốc lần thứ VI của Đảng Cộng sản Việt Nam được tổ chức, chính thức khởi xướng đường lối Đổi mới toàn diện đất nước.
 
 ### **Thời kỳ đầu Đổi mới - Từng bước khắc phục khủng hoảng (1986 - 1990)**

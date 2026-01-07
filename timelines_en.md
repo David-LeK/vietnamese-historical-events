@@ -816,6 +816,7 @@
 *   **1906:** The Duy Tan (Modernization) Movement, initiated by Phan Chau Trinh, Huynh Thuc Khang, and Tran Quy Cap, spread throughout Annam, advocating for "enlightening the people's minds, strengthening the people's spirit, improving the people's livelihood."
 *   **May 16, 1906:** Governor-General Paul Beau signed a decree establishing the University of Indochina.
 *   **Mar. 1907:** The Dong Kinh Nghia Thuc (Tonkin Free School) was founded in Hanoi, led by Luong Van Can and Nguyen Quyen, opening a free school to disseminate new ideas.
+*   **Apr. 7, 1907:** Le Duan was born in Trieu Phong, Quang Tri. He later became the General Secretary of the Communist Party of Vietnam, a prominent leader of the Party and the Vietnamese revolution.
 *   **Nov. 10, 1907:** The University of Indochina opened its first academic year.
 *   **Mar. 1908:** The anti-tax movement of peasants erupted in Quang Nam and then spread throughout the provinces of Annam.
 *   **Jun. 27, 1908:** The "Hanoi Poisoning Plot" broke out, in which a group of Vietnamese soldiers and patriots attempted to poison French soldiers in Hanoi and launch an uprising, but it failed.
@@ -913,6 +914,7 @@
 *   **Oct. 30, 1927:** A decree reorganized the administrative apparatus at the village level in Cochinchina.
 *   **Dec. 25, 1927:** The Viet Nam Quoc Dan Dang (Vietnamese Nationalist Party) was founded in Hanoi.
 *   **Jan. 25, 1928:** The Hue court issued an edict banning the propagation of Protestantism and Cao Daiism in Annam.
+*   **1928:** Le Duan joined the Vietnamese Revolutionary Youth League, marking the beginning of his nearly 60-year revolutionary career.
 *   **Jul. 14, 1928:** The Central Executive Committee of the Vietnamese Revolutionary Comrades' Association decided to change its name to the Tan Viet Cach mang Dang (New Vietnamese Revolutionary Party).
 *   **Nov. 4, 1928:** A decree established the Grand Council of Economic and Financial Interests of Indochina.
 *   **Feb. 9, 1929:** The labor recruiter Bazin was assassinated in Hanoi by a member of the Vietnamese Nationalist Party, leading to a wave of white terror.
@@ -951,6 +953,7 @@
 *   **Nov. 13, 1936:** A general strike by over 30,000 miners in the Hon Gai and Cam Pha region broke out and achieved a major victory.
 *   **Dec. 30, 1936:** The French government issued a decree on the Labor Law in Indochina, regulating certain conditions for workers.
 *   **Jan. 1 - Mar. 14, 1937:** Justin Godart, an envoy from the French government, visited Indochina to investigate the situation, sparking a vigorous mass movement to welcome him and present demands.
+*   **1936:** Returning from Con Dao prison, Le Duan operated in Central Vietnam. As Secretary of the Party Committee of Central Vietnam (Xu uy Trung Ky), he led the Democratic Front movement (1936-1939), initiating struggles for livelihood and democratic rights.
 *   **1938:** Nguyen Ai Quoc returned to China and worked in the Eighth Route Army.
 *   **Mar. 1938:** The Party Central Committee conference decided to change the name of the Front to the Indochinese Democratic Front.
 *   **May 1, 1938:** A huge rally with 25.000 participants was held openly at the Dau Xao area in Hanoi to celebrate International Workers' Day.
@@ -1021,6 +1024,7 @@
 
 *   **Mar. 24, 1946:** President Ho Chi Minh and French High Commissioner D'Argenlieu held talks in Ha Long Bay.
 *   **Apr. 19, 1946:** The Da Lat Preparatory Conference opened to prepare for official negotiations in France.
+*   **May 1946:** The Standing Committee of the Party Central Committee appointed Le Duan as Secretary of the Provisional Party Committee of Nam Bo to consolidate and strengthen the Party's leadership in the South.
 *   **May 11, 1946:** The Da Lat Preparatory Conference concluded without reaching agreement on fundamental issues.
 *   **May 19, 1946:** The birthday of President Ho Chi Minh was celebrated publicly for the first time, becoming a demonstration of national unity.
 *   **May 29, 1946:** The Vietnamese National Popular League (Lien Viet) was established.
@@ -1043,6 +1047,7 @@
 *   **Oct. 7, 1947:** France launched a large-scale attack on the Viet Bac resistance base (Operation Léa).
 *   **Oct. 30, 1947:** The Vietnamese forces won a major victory in an ambush at Bong Lau Pass on Route 4.
 *   **Nov. 20, 1947:** France launched the second phase of the Viet Bac attack (Operation Ceinture).
+*   **Late 1947:** At the Party Congress of Nam Bo, Le Duan was elected Secretary of the Party Committee of Nam Bo. In this position, he proposed important policies on expanding people's war, implementing democracy in rural areas, and strengthening the National United Front.
 *   **Dec. 22, 1947:** The main body of French forces withdrew from Viet Bac; the enemy's offensive campaign had completely failed.
 *   **Jan. 25, 1948:** The government issued a decree establishing Inter-zones to unify the command of the resistance.
 *   **Jun. 11, 1948:** President Ho Chi Minh issued an appeal for patriotic emulation.
@@ -1073,6 +1078,7 @@
 *   **Feb. 11-19, 1951:** The 2nd National Congress of the Indochinese Communist Party was held in Vinh Quang commune, Chiem Hoa district, Tuyen Quang.
     *   It was decided to bring the Party into open activity under the new name **Vietnam Workers' Party**.
     *   A new Political Platform and Party Statutes were approved, and a new Central Committee was elected. Ho Chi Minh was elected Party Chairman, and Truong Chinh as General Secretary.
+    *   Le Duan was elected to the Central Committee and the Politburo. As Secretary of the Central Office for South Vietnam (COSVN), he directly led the resistance in Nam Bo.
 *   **Mar. 3-7, 1951:** The National Congress for the unification of Viet Minh and Lien Viet was held, establishing the **United Vietnam National Front** (Lien Viet Front for short).
 *   **Mar. 11, 1951:** A conference of delegates from the fronts of the three countries Vietnam-Khmer-Laos met in Viet Bac, deciding to form the **Vietnam-Mien-Lao People's Alliance bloc** to jointly fight the common enemy.
 *   **Mar. 23 - Apr. 7, 1951:** The Hoang Hoa Tham Campaign (also known as the Route 18 Campaign) was launched, attacking the enemy's defense line in the area from Pha Lai to Uong Bi and Mao Khe.
@@ -1129,9 +1135,11 @@
 *   **Nov. 1, 1955:** The Military Assistance Advisory Group (MAAG) Vietnam was officially established. The US Department of Defense officially considers this date the start of the "Vietnam War".
 *   **Mar. 4, 1956:** The Saigon administration held separate elections to establish a Constituent Assembly.
 *   **Apr. 28, 1956:** The last French soldier left South Vietnam.
+*   **Aug. 1956:** Le Duan completed the document **"The Path of Revolution in the South"** (De cuong cach mang mien Nam). This document analyzed the situation in the South, defined the tasks and objects of the revolution, and asserted that there was no other path but revolution to overthrow the US-Diem regime. It served as a theoretical basis for the Party's 15th Resolution (1959).
 *   **Sep. 1956:** The 10th Conference of the Central Committee of the Vietnam Workers' Party severely reviewed and set out policies to correct errors made during the Land Reform.
 *   **Oct. 26, 1956:** Ngo Dinh Diem promulgated a constitution, officially establishing the "Republic of Vietnam" government.
 *   **1958 - 1960:** The North implemented the **Three-Year Plan** for economic and cultural transformation and development.
+*   **Mid-1957:** The Central Committee transferred Le Duan to Hanoi to work alongside President Ho Chi Minh in preparing for the 3rd Party Congress and making strategic decisions for the revolution nationwide.
 *   **Jan. 1959:** The 15th Conference of the Central Committee of the Vietnam Workers' Party issued a historic resolution, defining the path of the southern revolution as using revolutionary violence, combining political struggle with armed struggle to seize power.
 *   **May 1959:** The Ngo Dinh Diem administration enacted **Law 10/59**, dragging guillotines across South Vietnam to brutally suppress the revolutionary movement.
 *   **May 19, 1959:** **Group 559** was established, tasked with opening a strategic transportation route to supply the South (later known as the Ho Chi Minh Trail).
@@ -1140,6 +1148,7 @@
 *   **Sep. 1960:** The **3rd National Congress** of the Vietnam Workers' Party was held in Hanoi, setting out two strategic tasks:
     *   Carry out the socialist revolution in the North.
     *   Liberate the South and achieve national reunification.
+    *   Le Duan was elected First Secretary of the Party Central Committee.
 *   **Dec. 20, 1960:** The **National Liberation Front for South Vietnam** was established.
 
 ### **Period of Resisting the "Special War" (1961 - 1965)**
@@ -1294,6 +1303,7 @@
 *   **Mar. 11, 1985:** Mikhail Gorbachev was elected General Secretary of the Communist Party of the Soviet Union, initiating the "Perestroika" (restructuring) and "Glasnost" (openness) policies.
 *   **Jun. 1985:** The 8th Conference of the Central Committee (5th tenure) issued a resolution on price-wage-money, deciding to definitively abolish the centralized bureaucratic subsidy mechanism.
 *   **Sep. 14, 1985:** A general adjustment of prices, wages, and money began nationwide, implementing a currency exchange at a rate of 10 old dong for 1 new dong.
+*   **Jul. 10, 1986:** General Secretary Le Duan passed away. He was an outstanding leader of the Party, a resilient communist fighter who made great contributions to the revolutionary cause of national liberation and reunification.
 *   **Dec. 1986:** The 6th National Congress of the Communist Party of Vietnam was held, officially initiating the Doi Moi (Renovation) policy for the comprehensive renewal of the country.
 
 ### **Early Doi Moi Period - Gradually Overcoming Crisis (1986 - 1990)**
