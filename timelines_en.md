@@ -118,8 +118,7 @@
 *   **939 (Spring):** Ngo Quyen proclaimed himself king, established the Ngo dynasty, and set the capital at Co Loa (Dong Anh, Hanoi), officially ushering in an era of independence and autonomy.
 *   **944:** Ngo Quyen passed away. His brother-in-law, Duong Tam Kha, usurped the throne from Ngo Quyen's son, Ngo Xuong Ngap.
 *   **945:** Duong Tam Kha proclaimed himself Binh Vuong (Pacification King).
-*   **950:** Ngo Xuong Van (Ngo Quyen's second son) overthrew Duong Tam Kha, reclaimed the throne, and proclaimed himself Nam Tan Vuong.
-*   **950:** Duong Tam Kha was demoted to Chuong Duong Cong by Ngo Xuong Van instead of being executed, acknowledging his role in raising Xuong Van.
+*   **950:** Ngo Xuong Van (Ngo Quyen's second son) overthrew Duong Tam Kha, reclaimed the throne, and proclaimed himself Nam Tan Vuong. Duong Tam Kha was demoted to Chuong Duong Cong by Ngo Xuong Van instead of being executed, acknowledging his role in raising Xuong Van.
 *   **951 - 954:** The "Two Kings" co-reigned, as Ngo Xuong Van welcomed his older brother, Ngo Xuong Ngap, to rule the country together (Xuong Ngap proclaimed himself Thien Sach Vuong).
 *   **954:** Thien Sach Vuong Ngo Xuong Ngap passed away. Nam Tan Vuong Ngo Xuong Van ruled alone.
 *   **965:** Nam Tan Vuong Ngo Xuong Van was killed in battle while suppressing a rebellion in the two hamlets of Duong and Nguyen. The Ngo dynasty ended.
@@ -139,8 +138,7 @@
 *   **Mar. 981:**   **Battle of Luc Giang:** The Song army was defeated by the Dai Co Viet forces at the Binh Lo citadel (Luc Giang), forcing them to retreat to Bach Dang.
 *   **Apr. 28, 981:** Le Dai Hanh commanded the decisive battle on the Bach Dang River. Feigning defeat to lure the enemy into an ambush, the Dai Co Viet army crushed the Song forces, killing Commander Hou Renbao. The first resistance war against the Song was victorious.
 *   **982:** Le Dai Hanh personally led a campaign against Champa, capturing the capital Dong Duong and killing King Pe Mi Shuei (Paramesvaravarman I).
-*   **983:** King Le Dai Hanh ordered the digging of the Ba Hoa Canal (Thanh Hoa) and Da Cai Canal (Nghe An) to facilitate military and water transport.
-*   **983:** King Le Dai Hanh withdrew the main army to Hoa Lu, leaving a garrison in northern Champa (from Hoanh Son to Varella cape) under the command of *Quan giap* **Luu Ke Tong**.
+*   **983:** King Le Dai Hanh ordered the digging of the Ba Hoa Canal (Thanh Hoa) and Da Cai Canal (Nghe An) to facilitate military and water transport. He withdrew the main army to Hoa Lu, leaving a garrison in northern Champa (from Hoanh Son to Varella cape) under the command of *Quan giap* **Luu Ke Tong**.
 *   **Feb. 984:** The Early Le court minted Thien Phuc coins.
 *   **986:** Following the death of King Indravarman IV, **Luu Ke Tong** proclaimed himself King of Champa and sent envoys to the Song court to seek investiture. Many Champa people rebelled against his rule and fled to Hainan and Guangzhou.
 *   **987 (Spring):** Le Dai Hanh performed the Tich Dien plowing ceremony for the first time at Doi Son to encourage agriculture.
@@ -148,10 +146,8 @@
 *   **988:** The people of Champa rose up to retake the Vijaya region and enthroned Ku Sri Harivarman II at Phat The citadel (Binh Dinh).
 *   **989:** **Luu Ke Tong** passed away. King Harivarman II recovered the Amaravati region and northern Nhat Nam up to Dia Ly prefecture.
 *   **989:** *Quan giap* Duong Tien Loc rebelled against the Early Le court, leading people from Hoan and Ai provinces to flee to Champa to submit, but was refused entry by King Harivarman II.
-*   **990:** Le Dai Hanh received the Song envoy Song Cao. He displayed military might and refused to kowtow to the imperial decree, asserting national prestige.
-*   **990:** King Le Dai Hanh sent troops to attack Dia Ly prefecture. Following mediation by the Song Emperor, Le Dai Hanh withdrew from Dia Ly but retained **Bo Chinh** prefecture.
-*   **992:** King Le Dai Hanh returned 360 prisoners captured in Dia Ly to Champa.
-*   **992:** King Le Dai Hanh ordered *Phu quoc* Ngo Tu An to open a land route from Nam Gioi port (Ha Tinh) through Ngang Pass to Dia Ly prefecture (Quang Binh).
+*   **990:** Le Dai Hanh received the Song envoy Song Cao. He displayed military might and refused to kowtow to the imperial decree, asserting national prestige. King Le Dai Hanh sent troops to attack Dia Ly prefecture. Following mediation by the Song Emperor, Le Dai Hanh withdrew from Dia Ly but retained **Bo Chinh** prefecture.
+*   **992:** King Le Dai Hanh returned 360 prisoners captured in Dia Ly to Champa. He ordered *Phu quoc* Ngo Tu An to open a land route from Nam Gioi port (Ha Tinh) through Ngang Pass to Dia Ly prefecture (Quang Binh).
 *   **996:** Le Dai Hanh received Song envoy Li Ruozhuo, continuing to assert independence and dismissing responsibility for border raids.
 *   **1005:** Le Dai Hanh passed away. After internal strife, Le Long Dinh killed his brother Le Long Viet to seize the throne.
 *   **Jun. 1006:** The Song Emperor refused a petition by local official Ling Ce (Lang Sach) to invade Vietnam during the turmoil of Le Long Dinh's reign, preferring to maintain peace.
@@ -566,18 +562,14 @@
 *   **Mid-17th Century (approx. 1653 - 1657):** Ho Phi Long, the ancestor of the Tay Son brothers, migrated from Nghe An to Quy Nhon to establish a career, laying the family's foundation in the region.
 *   **1765:** The regent Truong Phuc Loan usurped power, causing social turmoil. Teacher Truong Van Hien fled to An Thai and taught literature and martial arts to the three Tay Son brothers (Nguyen Nhac, Nguyen Hue, Nguyen Lu), preparing the intellectual and martial basis for the uprising.
 *   **1771 - 1801:** Nguyen Anh repeatedly sought refuge on Phu Quoc Island when pursued by the Tay Son forces.
-*   **1771:** The three brothers Nguyen Nhac, Nguyen Hue, and Nguyen Lu raised the flag of rebellion in Tay Son Thuong dao (An Khe, Gia Lai) with the slogan "take from the rich and give to the poor." Nguyen Nhac was proclaimed **Tay Son Vuong** (King of Tay Son).
-*   **1771:** Gaining strong support from ethnic minorities (Sedang, Bahnar) in the An Khe region, Nguyen Nhac was revered by them as the "King of Heaven", creating a solid initial base for the uprising.
-*   **1771:** Prominent martial artists and strategists joined the uprising, including Tran Quang Dieu, Vo Van Dung, and Vo Dinh Tu. Legend has it that the female warrior Bui Thi Xuan saved Tran Quang Dieu from a tiger during this period, leading to their marriage and lifelong comradeship in the Tay Son army.
+*   **1771:** The three brothers Nguyen Nhac, Nguyen Hue, and Nguyen Lu raised the flag of rebellion in Tay Son Thuong dao (An Khe, Gia Lai) with the slogan "take from the rich and give to the poor." Nguyen Nhac was proclaimed **Tay Son Vuong** (King of Tay Son). They gained strong support from ethnic minorities (Sedang, Bahnar) in the An Khe region, where Nguyen Nhac was revered as the "King of Heaven", creating a solid initial base for the uprising. Prominent martial artists and strategists joined the uprising, including Tran Quang Dieu, Vo Van Dung, and Vo Dinh Tu. Legend has it that the female warrior Bui Thi Xuan saved Tran Quang Dieu from a tiger during this period, leading to their marriage and lifelong comradeship in the Tay Son army.
 *   **Spring 1773:** A small army comprising highland ethnic groups and lowland peasants from the An Khe plateau, led by Nguyen Nhac, descended to attack the provincial capital of Quy Nhon.
 *   **Mid-Sep. 1773:** The Tay Son army captured Quy Nhon Citadel from Governor Nguyen Khac Tuyen. This event involves the famous stratagem where Nguyen Nhac allegedly hid himself in a cage to enter the citadel as a prisoner, then broke out to open the gates for his troops (though some historians debate the specifics, it remains a popular account of the victory).
 *   **Mid-Autumn 1773:** Nguyen Nhac held a flag-raising ceremony at An Khe Pass to officially launch the military campaign.
-*   **1773:** Generals Le Van Hung, Tran Quang Dieu, and Vo Van Dung commanded Tay Son forces to capture Bong Son and Phu Ly, paving the way for the attack on Quy Nhon.
-*   **1773:** The Tay Son army captured Tuy Vien district and then Quy Nhon Citadel (using the stratagem of Nguyen Nhac hiding himself in a cage to enter the citadel as a prisoner).
+*   **1773:** Generals Le Van Hung, Tran Quang Dieu, and Vo Van Dung commanded Tay Son forces to capture Bong Son and Phu Ly, paving the way for the attack on Quy Nhon. The Tay Son army captured Tuy Vien district and then Quy Nhon Citadel (using the stratagem of Nguyen Nhac hiding himself in a cage to enter the citadel as a prisoner). Nguyen Anh established three villages, An Hai, An Hoi, and Co Ong, and named the Con Dao archipelago Con Lon.
 *   **Winter 1773:** Generals Nguyen Van Loc and Le Van Hung, under the command of General Ngo Van So, attacked and captured the three prefectures of Phu Yen, Dien Khanh, and Binh Thuan.
 *   **Nov. 1, 1773:** The Tay Son army won a victory at Ben Da (Quang Ngai).
 *   **Dec. 22, 1773:** The Battle of Ben Van (Quang Nam) took place, where the Nguyen army temporarily repelled the Tay Son forces.
-*   **1773:** Nguyen Anh established three villages, An Hai, An Hoi, and Co Ong, and named the Con Dao archipelago Con Lon.
 *   **Early 1774:** The Tay Son army killed 1,600 soldiers of the Nguyen lords in battle, demonstrating the ferocity of the rising conflict.
 *   **1774:** The Trinh army, commanded by Hoang Ngu Phuc, crossed the Gianh River and advanced south, capturing Phu Xuan. Lord Nguyen Phuc Thuan had to flee to Quang Nam.
 *   **Apr. 22, 1774:** Lord Nguyen Phuc Thuan issued a decree granting amnesty to Catholics, a move influenced by the rising pressure from the Tay Son uprising.
@@ -593,12 +585,9 @@
 *   **1777:** Nguyen Hue advanced to attack Gia Dinh, annihilating almost all of the Nguyen lords' forces. Lord Nguyen Phuc Thuan and the new king Nguyen Phuc Duong were both captured and killed. Nguyen Anh (nephew of the Nguyen lord) escaped to Tho Chau island.
 *   **Sep. 19, 1777:** The new Nguyen King, Nguyen Phuc Duong (Tan Chinh Vuong), was captured and killed by Tay Son forces at Ba Vac.
 *   **Oct. 18, 1777:** Lord Nguyen Phuc Thuan (Due Tong) was captured and killed by Tay Son forces at Long Xuyen. This event effectively wiped out the direct leadership of the Nguyen Lords, leaving the young Nguyen Anh as the sole survivor to continue the struggle.
-*   **1778:** Nguyen Nhac proclaimed himself Emperor Minh Duc (Thai Duc), establishing the era name Thai Duc. He expanded and reinforced the former Do Ban citadel, renaming it **Hoang De Citadel** (Imperial Citadel) to serve as the capital.
 *   **Jan. 1778:** Nguyen Anh was honored by his generals as **Grand Marshal** (Dai Nguyen Soai) in Gia Dinh.
-*   **1778:** Female General Bui Thi Xuan organized and trained four brigades of female soldiers and an elite war elephant corps, contributing greatly to the Tay Son army's prowess.
-*   **1778:** Alongside Bui Thi Xuan, female generals Tran Thi Lan, Nguyen Thi Dung, and Huynh Thi Cuc commanded female brigades. General Le Van Hung defeated the Nguyen army led by Le Van Quan in Dien Khanh and Binh Thuan, earning the moniker "Le the Invincible".
+*   **1778:** Nguyen Nhac proclaimed himself Emperor Minh Duc (Thai Duc), establishing the era name Thai Duc. He expanded and reinforced the former Do Ban citadel, renaming it **Hoang De Citadel** (Imperial Citadel) to serve as the capital. Female General Bui Thi Xuan organized and trained four brigades of female soldiers and an elite war elephant corps, contributing greatly to the Tay Son army's prowess. Alongside Bui Thi Xuan, female generals Tran Thi Lan, Nguyen Thi Dung, and Huynh Thi Cuc commanded female brigades. General Le Van Hung defeated the Nguyen army led by Le Van Quan in Dien Khanh and Binh Thuan, earning the moniker "Le the Invincible". Nguyen Anh was honored by his generals as Grand Marshal Regent (Dai Nguyen Suy Nhiep Quoc Chinh), consolidating the Nguyen forces in Gia Dinh to oppose the Tay Son.
 *   **Jul. 13, 1778:** Charles Chapman, an envoy of the British East India Company, arrived in Quy Nhon to seek trade relations with the Tay Son, recording valuable observations about the region's situation.
-*   **1778:** Nguyen Anh was honored by his generals as Grand Marshal Regent (Dai Nguyen Suy Nhiep Quoc Chinh), consolidating the Nguyen forces in Gia Dinh to oppose the Tay Son.
 *   **Jan. 1780:** Nguyen Anh proclaimed himself King (Nguyen Vuong), using the era name Canh Hung of the Le dynasty and the seal "Dai Viet quoc Nguyen chua vinh tran chi bao" to assert legitimacy.
 *   **1780:** Le Van Duyet (at the age of 17) joined Nguyen Anh's forces, beginning his career as a distinguished general and a key figure in the Nguyen Dynasty's establishment.
 *   **Sep. 13, 1780 (15th of the 8th lunar month):** Lord Trinh Sam imprisoned Crown Prince Trinh Tong due to a plot to buy weapons and recruit soldiers, demoting him to the youngest son.
@@ -607,13 +596,11 @@
 *   **Feb. 1782 (Jan., Lunar Year of the Tiger):** Physician Le Huu Trac traveled to the capital Thang Long to treat Crown Prince Trinh Can under royal summons. He recorded observations of the capital's political and social situation in his memoir *Thuong Kinh Ky Su* (Chronicles of a Journey to the Capital).
 *   **Mar. 1782:** Battle of That Ky River (Nga Bay, Saigon). The Tay Son army defeated Nguyen Anh's navy and Western warships, killing the French commander Manuel.
 *   **Jul. 7, 1782:** In retaliation for the death of his prominent general Pham Ngan at Tham Luong bridge, Nguyen Nhac ordered a massacre of the Chinese community in Gia Dinh (settlers and merchants), whom he accused of supporting the Nguyen. Thousands were killed, and bodies clogged the river, causing a massive disruption to trade and the economy.
-*   **1782:** In Dang Ngoai (the North), the 'Revolt of the Palace Guards' broke out. The rebellious guards further weakened the Trinh lords' court, creating favorable conditions for the later advance of the Tay Son army to the North.
 *   **Oct. 19, 1782 (13th of the 9th lunar month):** Lord Trinh Sam passed away. His young son Trinh Can succeeded him (Dien Do Vuong).
-*   **Nov. 28, 1782 (24th of the 10th lunar month):** The "Revolt of the Palace Guards" (Loạn kiêu binh) erupted. Soldiers killed Regent Hoang Dinh Bao (Huy Quan Cong), deposed Trinh Can, and installed Trinh Tong as Lord (Doan Nam Vuong).
+*   **Nov. 28, 1782 (24th of the 10th lunar month):** The "Revolt of the Palace Guards" (Loạn kiêu binh) erupted in Dang Ngoai. Soldiers killed Regent Hoang Dinh Bao (Huy Quan Cong), deposed Trinh Can, and installed Trinh Tong as Lord (Doan Nam Vuong). The rebellious guards further weakened the Trinh lords' court, creating favorable conditions for the later advance of the Tay Son army to the North.
 *   **Dec. 1782 (Nov., Lunar Year of the Tiger):** Le Huu Trac returned to his hometown in Huong Son after his trip to the capital.
-*   **1783:** Le Huu Trac completed the memoir *Thuong Kinh Ky Su* (Chronicles of a Journey to the Capital), providing a vivid account of the chaotic society and the luxurious but decaying life of the Le-Trinh court.
+*   **1783:** Le Huu Trac completed the memoir *Thuong Kinh Ky Su* (Chronicles of a Journey to the Capital), providing a vivid account of the chaotic society and the luxurious but decaying life of the Le-Trinh court. Nguyen Hue and Nguyen Lu led troops to attack; Nguyen Anh was again defeated and had to flee to Siam (Thailand) to seek aid.
 *   **Feb. 24, 1783:** In a naval battle against the Tay Son at Gia Dinh, the Nguyen army attempted a fire attack but failed due to a sudden change in wind direction, resulting in the destruction of their own fleet. Nguyen Anh was forced to flee to Phu Quoc Island.
-*   **1783:** Nguyen Hue and Nguyen Lu led troops to attack; Nguyen Anh was again defeated and had to flee to Siam (Thailand) to seek aid.
 *   **Early 1783:** General Le Van Hung attacked the Dac Ngu naval post (Gia Dinh), killing the defending Nguyen general Ton That Mau.
 *   **Mar. 1784:** Bishop Pigneau de Béhaine (Bá Đa Lộc) represented Nguyen Anh in going to France to ask for help.
 *   **Jul. 25, 1784:** 50,000 Siamese troops (20,000 naval, 30,000 land) led by Chao Tseng and Chao Sương, along with Nguyen Anh, invaded Gia Dinh.
@@ -637,9 +624,7 @@
 *   **Nov. 28, 1787:** Bishop Pigneau de Béhaine (representing Nguyen Anh) signed the Treaty of Versailles with Count de Montmorin (France). Article II promised to cede the port of Hoi An and Con Lon Island to France in exchange for military support.
 *   **Early 1788:** The population in Tonkin (Dang Ngoai) began to show resentment towards the new Tay Son officials and desired a return to the old order.
 *   **Jan. 1788:** Tay Son General Vu Van Nham captured and executed Nguyen Huu Chinh in Thang Long, ending Chinh's attempt to build his own power base in the North.
-*   **Apr. 1788:** Nguyen Hue marched to Thang Long to execute Vu Van Nham for arrogance and plotting rebellion after Nham had eliminated Nguyen Huu Chinh. This consolidated Tay Son's control over the North before the Qing invasion.
-*   **May 1788:** Nguyen Hue marched swiftly to Thang Long and executed his own general, Vu Van Nham, for arrogance and potential rebellion, further consolidating his control over the North.
-*   **May 1788:** After the execution of Vu Van Nham, General Nguyen Van Tuyet (Do Doc Tuyet) was entrusted by Nguyen Hue to remain in the North as a key aide to Ngo Van So.
+*   **May 1788:** Nguyen Hue marched swiftly to Thang Long and executed his own general, Vu Van Nham, for arrogance and potential rebellion (after Nham had eliminated Nguyen Huu Chinh), further consolidating his control over the North. After the execution of Vu Van Nham, General Nguyen Van Tuyet (Do Doc Tuyet) was entrusted by Nguyen Hue to remain in the North as a key aide to Ngo Van So.
 *   **1788:** Nguyen Anh returned from Siam and, taking advantage of Nguyen Lu's weakness, recaptured Gia Dinh.
 *   **May 1788 (Lunar):** The family of King Le Chieu Thong fled to Longzhou (Guangxi) to seek aid from the Qing dynasty.
 *   **Sep. 7, 1788:** Nguyen Anh's forces successfully recaptured Saigon (Gia Dinh), ending the Tay Son's control over the South and establishing a firm base for the Nguyen restoration.
@@ -653,8 +638,7 @@
 *   **Dec. 22, 1788 (25th of the 12th lunar month):** In Phu Xuan, Nguyen Hue ascended the throne as Emperor, taking the era name Quang Trung, and immediately led a large army on a lightning march to the north.
 *   **Jan. 29, 1789 (4th day of the Lunar New Year):** Grand Admiral Nguyen Van Tuyet commanded the attack on the Qing army stationed in Hai Duong, destroying the enemy camp and causing them to flee.
 *   **Jan. 28-30, 1789 (3rd-5th day of the Tet of the Year of the Rooster):** In a lightning march and attack, Emperor Quang Trung crushed the Qing army in the battles of Ha Hoi, Ngoc Hoi, and Dong Da. General Bui Thi Xuan commanded the war elephants, General Vo Van Dung led the Rear Army, and Admiral Nguyen Van Loc (Do Doc Loc) commanded the Left Army/Navy, contributing decisively to the liberation of Thang Long.
-*   **1789:** Emperor Quang Trung issued the "Edict on Encouraging Agriculture" to restore production. He also introduced the **"Tin Bai"** (Identity Card) system for the first time to manage the population and conscription, requiring citizens to carry an identification tag.
-*   **1789:** General Vo Van Dung was sent as a special envoy to the Qing court, successfully fulfilling the mission of peace talks and even proposing a royal marriage and land requisition (two provinces of Guangdong and Guangxi) to test the Qing Emperor's attitude.
+*   **1789:** Emperor Quang Trung issued the "Edict on Encouraging Agriculture" to restore production. He also introduced the **"Tin Bai"** (Identity Card) system for the first time to manage the population and conscription, requiring citizens to carry an identification tag. General Vo Van Dung was sent as a special envoy to the Qing court, successfully fulfilling the mission of peace talks and even proposing a royal marriage and land requisition (two provinces of Guangdong and Guangxi) to test the Qing Emperor's attitude.
 *   **Autumn 1789:** Emperor Quang Trung sent his nephew **Nguyen Quang Hien** to Beijing to pay tribute and attend Emperor Qianlong's birthday celebration at the Mountain Resort (Jehol). Emperor Qianlong accepted the peace and officially invested Nguyen Hue as the King of An Nam.
 *   **1790:** A diplomatic mission led by a "fake King" (Pham Van Tri impersonating Nguyen Hue) was sent to the Qing court in China to pay tribute and attend Emperor Qianlong's 80th birthday celebration, successfully securing peace.
 *   **Mar. 1790:** Under the direction of Nguyen Anh, Western engineers Olivier de Puynamel and Le Brun began the construction of the **Gia Dinh Citadel** following the Vauban architectural style. This octagonal citadel became a strategic military stronghold for the Nguyen forces in the South.
@@ -678,21 +662,17 @@
 *   **Feb. 1799:** Le Van Duyet commanded the attack on Sa Lung fort (Dam Thuy), using fire tactics to destroy the enemy's food and ammunition depots, killing Tay Son General Doan Luyen Giang.
 *   **Apr. 1799:** General Vo Dinh Tu, one of the "Seven Tigers of Tay Son" and a master of the staff, died in battle against Nguyen forces at Can Uc.
 *   **Jun. 1799:** Nguyen Anh successfully captured the strategic Quy Nhon citadel from the Tay Son. He renamed it **Binh Dinh** citadel, marking a major turning point in the war as the Nguyen forces began to dominate the central region.
-*   **1799:** Nguyen Anh recaptured Quy Nhon Citadel, renaming it Binh Dinh.
 *   **Nov. 7, 1799 (11th of the 10th lunar month):** The Queen Mother (mother of King Le Chieu Thong) passed away in Beijing.
 *   **1800:** Two key Tay Son generals, Tran Quang Dieu and Vu Van Dung, led troops to besiege Binh Dinh Citadel.
 *   **1800:** Princess **Ngoc Huyen** (daughter of Lord Nguyen Phuc Khoat, known as Nun Van Duong), operating a spy network for Nguyen Anh in Phu Xuan, sent critical maps of the Tay Son defenses at Tu Hien and Thuan An estuaries, aiding the upcoming Nguyen offensive.
-*   **Feb. 1801:** The decisive **Battle of Thi Nai** took place. Nguyen Anh's forces, leveraging wind direction and fire attacks, destroyed the entire Tay Son fleet commanded by Vo Van Dung. This is considered the largest naval battle in the history of the Vietnamese wars.
-*   **Feb. 28, 1801:** The Great Naval Battle of Thi Nai took place. Nguyen Anh's navy, with the assistance of Western officers and tactics, destroyed the Tay Son fleet. General Vo Di Nguy was killed in action, and Le Van Duyet led the assault. This victory was hailed as the "First Martial Achievement" of the Nguyen dynasty and decimated the Tay Son's naval capabilities.
-*   **May 1801:** In the campaign to capture Phu Xuan, Generals Le Van Duyet and Le Chat employed a surprise tactic at the Tu Dung estuary, dragging naval boats across sandbars to attack the Tay Son defensive line from the rear.
-*   **May (Lunar), 1801:** Nguyen Anh's forces entered the citadel of Phu Xuan (Hue), after breaching the Tu Hien and Thuan An estuaries (where Le Van Duyet and Le Chat led the vanguard), forcing King Canh Thinh to flee north. This event marked the collapse of the Tay Son's central power base.
+*   **Feb. 28, 1801:** The Great Naval Battle of Thi Nai took place. Nguyen Anh's navy, with the assistance of Western officers and tactics, leveraging wind direction and fire attacks, destroyed the entire Tay Son fleet. General Vo Di Nguy was killed in action, and Le Van Duyet led the assault. This victory was hailed as the "First Martial Achievement" of the Nguyen dynasty and decimated the Tay Son's naval capabilities.
+*   **May 1801:** In the campaign to capture Phu Xuan, Generals Le Van Duyet and Le Chat employed a surprise tactic at the Tu Dung estuary, dragging naval boats across sandbars to attack the Tay Son defensive line from the rear. Nguyen Anh's forces entered the citadel of Phu Xuan (Hue), forcing King Canh Thinh to flee north. This event marked the collapse of the Tay Son's central power base.
 *   **Jul. 7, 1801:** (27th of the 5th lunar month) Generals Vo Tinh and Ngo Tung Chau committed suicide to defend Binh Dinh Citadel, allowing the main Nguyen army to focus on capturing Phu Xuan.
 *   **Jan. 1802:** The Battle of Tran Ninh and Dau Mau took place. General Bui Thi Xuan fought bravely commanding elephant troops. General Huynh Thi Cuc sacrificed herself in battle to allow the royal forces to retreat.
 *   **Jun. 16, 1802:** In the retreat to the North, General Nguyen Van Tuyet (Do Doc Tuyet) died in battle at Xuong Giang protecting King Canh Thinh. Empress Dowager Bui Thi Nhan, along with female generals Tran Thi Lan and Nguyen Thi Dung, committed suicide to avoid capture.
 *   **May 31, 1802:** Nguyen Anh officially established the era name **Gia Long** and issued a general amnesty.
 *   **Jun. 1802:** After Binh Dinh Citadel fell, Nguyen Anh officially ascended the throne as Emperor in Phu Xuan, establishing the era name Gia Long.
-*   **Jul. 20, 1802:** The Nguyen army captured Thang Long. Before the capture, the advancing Nguyen forces had already imposed heavy contributions on the northern population, sparking early discontent. King Canh Thinh and prominent generals were captured. Gia Long also ordered the exhumation of the graves of Nguyen Nhac and Nguyen Hue, pounding their bones into powder and imprisoning their skulls in a dungeon. The Tay Son dynasty officially collapsed.
-*   **Jul. 20, 1802:** Nguyen Anh entered Thang Long citadel, completing the unification of the country and officially ending the Tay Son dynasty. This marked the beginning of the Nguyen Dynasty's rule over a unified Vietnam stretching from the North to the South.
+*   **Jul. 20, 1802:** Nguyen Anh entered Thang Long citadel, completing the unification of the country and officially ending the Tay Son dynasty. Before the capture, the advancing Nguyen forces had already imposed heavy contributions on the northern population. King Canh Thinh and prominent generals were captured. Gia Long also ordered the exhumation of the graves of Nguyen Nhac and Nguyen Hue, pounding their bones into powder and imprisoning their skulls in a dungeon. This marked the beginning of the Nguyen Dynasty's rule over a unified Vietnam stretching from the North to the South.
 *   **Nov. 20, 1802 (Nov. 6, Lunar Year of the Dog):** Captured Tay Son generals were executed in Phu Xuan. **Tran Quang Dieu** was skinned alive, while female general **Bui Thi Xuan** and her 15-year-old daughter were trampled by elephants (or burned in some accounts). Bui Thi Xuan famously declared before her death: "If there were another female general like me, the Nhat Le gate wouldn't be cold."
 
 ### **Nguyen Dynasty Period (1802 - 1858)**
@@ -701,16 +681,12 @@
 *   **May 1802:** Le Van Duyet was appointed as *Imperial Commissioner, Commander of the Left Army* (Kham sai Chuong Ta quan), becoming one of the highest-ranking generals and a founding meritorious official of the dynasty.
 *   **Aug. 1802:** Emperor Gia Long ordered the compilation and promulgation of the first 15 laws regarding litigation.
 *   **Jan. 1803:** Emperor Gia Long ordered the casting of the **Nine Holy Cannons** (Cửu Vị Thần Công) from captured bronze weapons, completed in December 1804, symbolizing the power and longevity of the dynasty.
-*   **1803:** Emperor Gia Long ordered the reconstruction of the **Thang Long Citadel** (Hanoi Citadel).
-*   **1803:** Emperor Gia Long set the salary regulations for officials and soldiers in the Northern Citadel.
-*   **1803:** The court established Trang Tien in Thang Long to mint "Gia Long Thong Bao" coins.
+*   **1803:** Emperor Gia Long ordered the reconstruction of the **Thang Long Citadel** (Hanoi Citadel). He set the salary regulations for officials and soldiers in the Northern Citadel. The court established Trang Tien in Thang Long to mint "Gia Long Thong Bao" coins.
 *   **1803 - 1808:** General Le Van Duyet was dispatched to suppress the uprising of the "Thach Bich savages" (ethnic minorities) in the Quang Ngai region, stabilizing the border areas.
 *   **Sep. 16, 1804 (13th of the 8th lunar month):** The remains of King Le Chieu Thong, the Queen Mother, and the Crown Prince were returned to the Vietnamese border from China.
 *   **Nov. 14, 1804 (13th of the 10th lunar month):** Imperial Concubine Nguyen Thi Kim committed suicide by poison to follow King Le Chieu Thong, after his remains were brought back to Thang Long and a funeral ceremony was held.
 *   **Dec. 25, 1804 (24th of the 11th lunar month):** The remains of the Le royals were buried at Ban Thach mountain (Thanh Hoa), next to the mausoleum of King Le Hien Tong.
-*   **1804:** Emperor Gia Long officially established the national title "Viet Nam" (after the Qing dynasty rejected "Nam Viet"). He also ordered the casting of seals for the six ministries and promulgated the communal land allocation system.
-*   **1804:** Construction of the **Cung Thanh** (Palace City) began behind the Thai Hoa Palace, serving as the private residence for the Emperor and the royal family (renamed Purple Forbidden City in 1822).
-*   **1804:** The administrative center of An Quang was moved to Quynh Lau (Quang Yen). Tuong Long Tower was dismantled to provide bricks for the construction of Hai Duong Citadel.
+*   **1804:** Emperor Gia Long officially established the national title "Viet Nam" (after the Qing dynasty rejected "Nam Viet"). He also ordered the casting of seals for the six ministries and promulgated the communal land allocation system. Construction of the **Cung Thanh** (Palace City) began behind the Thai Hoa Palace, serving as the private residence for the Emperor and the royal family (renamed Purple Forbidden City in 1822). The administrative center of An Quang was moved to Quynh Lau (Quang Yen). Tuong Long Tower was dismantled to provide bricks for the construction of Hai Duong Citadel.
 *   **1805:** Emperor Gia Long changed Phung Thien Prefecture to Hoai Duc Prefecture.
 *   **1805:** Emperor Gia Long ordered the construction of the Hanoi Citadel (Vauban style) and the Hanoi Flag Tower (Cot Co), reinforcing the administrative center of Northern Vietnam.
 *   **May 1805:** Construction of the **Hue Citadel** (Kinh thành Huế) began, a massive fortification project combining Eastern geomancy and Western Vauban military architecture.
@@ -753,10 +729,7 @@
 *   **1821:** Phan Huy Chu presented his work **"Lich Trieu Hien Chuong Loai Chi"** to Emperor Minh Mang and was appointed as an editor at the Imperial Academy.
 *   **1821 - 1827:** The peasant uprising led by Phan Ba Vanh in the northern coastal plains.
 *   **1821:** The **National History Office** (Quoc Su Quan) was established to compile the national history and veritable records of the dynasty.
-*   **1822:** Emperor Minh Mang established the Han Lam Vien (Imperial Academy), organized the first metropolitan examination (thi Hoi), and changed Quang Duc garrison to Thua Thien Prefecture.
-*   **1822:** The shire of **Quang Duc** was renamed **Thua Thien** prefecture.
-*   **1822:** Several towns were renamed: Son Nam Thuong became Son Nam, Son Nam Ha became Nam Dinh, An Quang became Quang Yen, and Bac Giang became Bac Ninh.
-*   **1822:** Emperor Minh Mang renamed the Palace City to **Tu Cam Thanh** (Purple Forbidden City).
+*   **1822:** Emperor Minh Mang established the Han Lam Vien (Imperial Academy), organized the first metropolitan examination (thi Hoi), and changed Quang Duc garrison to Thua Thien Prefecture. Several towns were renamed: Son Nam Thuong became Son Nam, Son Nam Ha became Nam Dinh, An Quang became Quang Yen, and Bac Giang became Bac Ninh. Emperor Minh Mang renamed the Palace City to **Tu Cam Thanh** (Purple Forbidden City).
 *   **Aug. 29, 1822:** John Crawfurd, an envoy of the British Governor-General of India, visited Saigon and had an audience with Governor-General Le Van Duyet. Le Van Duyet expressed openness to international trade but adhered to the court's protocol regarding diplomatic correspondence. Notably, he refused gifts from the British envoy to maintain impartiality in state affairs.
 *   **1823:** Emperor Minh Mang established the Ty Buu chinh (Postal Service) to handle the transmission of official documents.
 *   **1823:** Emperor Minh Mang composed and promulgated the **Imperial Lineage Poem** (De He Thi) and Peerage Lineage Poems (Phien He Thi) to regulate the naming conventions for generations of the royal family.
@@ -793,11 +766,7 @@
 *   **Mar. 1835:** The uprising leader Nong Van Van was killed at Tham Bat mountain (Tuyen Quang), ending the rebellion in the northern border region.
 *   **1835:** Emperor Minh Mang performed the "Om Goi" (Embracing Knees) ceremony for the first time to honor victorious generals (Pham Van Dien, Ta Quang Cu, Le Van Duc) upon their return from the Northern campaign.
 *   **Oct. 1835:** The casting of the **Nine Dynastic Urns** (Cuu Dinh) began (completed in May 1836). They were placed in front of the The Mieu (Ancestral Temple) in Hue.
-*   **1836:** The Ton Nhan Phu (Imperial Clan Court) was established to manage royal family affairs. The Privy Council was divided into two boards: Nam chuong kinh (Southern Affairs) and Bac chuong kinh (Northern Affairs).
-*   **1836:** King Minh Mang sent Navy Captain **Pham Huu Nhat** to the **Hoang Sa Archipelago** (Paracel Islands) to survey sea routes, draw maps, and plant wooden markers to assert sovereignty.
-*   **1836:** A major land survey (*dia ba*) was conducted in the six provinces of Nam Ky (Cochinchina) under the direction of High Commissioners Truong Dang Que and Ton That Bach to establish land registers.
-*   **1836:** **Tay Ninh Prefecture** was established (part of Gia Dinh province).
-*   **1836:** Emperor Minh Mang decreed a 9-rank system for the imperial harem (Nine Ranks of Imperial Concubines) and established specific ranks and regulations for eunuchs to limit their power.
+*   **1836:** The Ton Nhan Phu (Imperial Clan Court) was established to manage royal family affairs. The Privy Council was divided into two boards: Nam chuong kinh (Southern Affairs) and Bac chuong kinh (Northern Affairs). King Minh Mang sent Navy Captain **Pham Huu Nhat** to the **Hoang Sa Archipelago** (Paracel Islands) to survey sea routes, draw maps, and plant wooden markers to assert sovereignty. A major land survey (*dia ba*) was conducted in the six provinces of Nam Ky (Cochinchina) under the direction of High Commissioners Truong Dang Que and Ton That Bach to establish land registers. **Tay Ninh Prefecture** was established (part of Gia Dinh province). Emperor Minh Mang decreed a 9-rank system for the imperial harem (Nine Ranks of Imperial Concubines) and established specific ranks and regulations for eunuchs to limit their power.
 *   **Mar. 1837:** The **Nine Dynastic Urns** (Cuu Dinh) were officially placed in the courtyard of the The Mieu (Ancestral Temple) in the Imperial City of Hue.
 *   **1838:** In the aftermath of the Le Van Khoi revolt, the court executed Le Van Duyet's descendants, Le Van Yen and Le Van Te, while other relatives were exiled, despite Le Van Duyet having passed away years prior.
 *   **Mar. 1838:** Emperor Minh Mang officially changed the national title to **Dai Nam**.
@@ -806,11 +775,9 @@
 *   **1840:** Emperor Minh Mang organized a naval live-fire exercise with dummy targets at sea, demonstrating the focus on naval combat readiness.
 *   **Jan. 20, 1841:** Emperor Minh Mang passed away.
 *   **Feb. 11, 1841:** Emperor Thieu Tri ascended the throne at the Thai Hoa Palace.
-*   **1841:** Established Dien Bien Prefecture (Hung Hoa) by separating Ninh Bien, Tuan Giao, and Lai Chau prefectures.
 *   **1841 - 1842:** The uprising of the Khmer people led by Lam Sam in Lac Hoa, Tra Vinh.
 *   **1841 - 1842:** Uprisings in the Ha Am - Ha Duong region (An Giang, Ha Tien).
-*   **1841:** Emperor Thieu Tri issued a decree restoring the titles and honor of Le Van Duyet, ordering the removal of the humiliating stone stele and chains at his tomb.
-*   **1841:** Due to the naming taboo of Empress Ho Thi Hoa, the prefecture of Ha Hoa was renamed Ha Thanh, the district of Ky Hoa became Ky Anh, and the district of Hoa Xuyen became Cam Xuyen.
+*   **1841:** Established Dien Bien Prefecture (Hung Hoa) by separating Ninh Bien, Tuan Giao, and Lai Chau prefectures. Emperor Thieu Tri issued a decree restoring the titles and honor of Le Van Duyet, ordering the removal of the humiliating stone stele and chains at his tomb. Due to the naming taboo of Empress Ho Thi Hoa, the prefecture of Ha Hoa was renamed Ha Thanh, the district of Ky Hoa became Ky Anh, and the district of Hoa Xuyen became Cam Xuyen.
 *   **1842:** Emperor Thieu Tri conducted the "Northern Inspection Tour" (Ngu gia Bac tuan) to Hanoi to assess the situation in the North and receive investiture from the Qing dynasty.
 *   **1843:** The province name **Thanh Hoa** was officially changed from "Thanh Hoa" (using the character for 'flower') to "Thanh Hoa" (using the character for 'transform') to avoid the naming taboo of Empress Ho Thi Hoa.
 *   **1843:** Emperor Thieu Tri ordered the compilation of the **"Dai Nam hoi dien su le"** (Collected Statutes and Precedents of Dai Nam).
@@ -1184,7 +1151,6 @@
 
 *   **Jul. 17 - Aug. 2, 1945:** The Potsdam Conference decided that Allied forces would enter Vietnam to disarm the Japanese army.
 *   **Aug. 28, 1945:** 200,000 Chiang Kai-shek troops, led by Lu Han, began to enter northern Vietnam (from the 16th parallel northwards).
-*   **Sep. 2, 1945:** At Ba Dinh Square, President Ho Chi Minh read the Declaration of Independence, giving birth to the Democratic Republic of Vietnam.
 *   **Sep. 3, 1945:** In the first meeting of the Provisional Government, President Ho Chi Minh set out urgent tasks: combating famine, illiteracy, and foreign invaders.
 *   **Sep. 4, 1945:** The government issued Decree No. 4/SL to establish the "Independence Fund."
 *   **Sep. 5, 1945:** The Provisional Government issued a decree dissolving the Dai Viet National Socialist Party and the Dai Viet Nationalist Party.
@@ -1234,9 +1200,8 @@
 *   **Nov. 22, 1946:** French troops opened fire and occupied Haiphong after sending an ultimatum.
 *   **Dec. 16, 1946:** French colonial leaders held a conference in Haiphong to plan further aggression. On the same day, French High Commissioner d'Argenlieu blatantly declared that Hanoi, Haiphong, and Da Nang were French territory.
 *   **Dec. 17, 1946:** French troops staged a provocation and massacre in Lo Duc, Hang Bun, and Yen Ninh streets in Hanoi.
-*   **Dec. 18-19, 1946:** French troops repeatedly sent ultimatums demanding the disarmament of Vietnamese self-defense forces in Hanoi.
 *   **Dec. 18, 1946:** French troops occupied the headquarters of the Ministry of Finance and the Ministry of Transport and Public Works. General Morlière issued an ultimatum demanding the disarmament of Vietnamese self-defense forces, stating that French troops would take action by the morning of Dec. 20 if demands were not met.
-*   **Dec. 18-19, 1946:** The Standing Bureau of the Party Central Committee met at Van Phuc village (Ha Dong) under the chair of President Ho Chi Minh, deciding to launch the nationwide resistance.
+*   **Dec. 18-19, 1946:** French troops repeatedly sent ultimatums demanding the disarmament of Vietnamese self-defense forces in Hanoi. The Standing Bureau of the Party Central Committee met at Van Phuc village (Ha Dong) under the chair of President Ho Chi Minh, deciding to launch the nationwide resistance.
 *   **8:00 PM, Dec. 19, 1946:** The sound of resistance gunfire began in Hanoi. President Ho Chi Minh issued the Appeal for Nationwide Resistance.
 
 ### **Period of the Outbreak of Nationwide Resistance and the Viet Bac Victory (1947 - 1950)**
@@ -1319,13 +1284,7 @@
 *   **May 1 - May 7, 1954:** In the third phase of the campaign, the Vietnamese forces annihilated the remaining strongpoints and launched a general offensive.
 *   **May 7, 1954:** At 5:30 PM, the "Determined to Fight, Determined to Win" flag flew over the roof of De Castries' command bunker. General De Castries and his entire staff were captured alive. **The Dien Bien Phu Campaign was completely victorious.**
 *   **May 8, 1954:** The **Geneva Conference** began its first session to discuss the restoration of peace in Indochina.
-*   **Jul. 20-21, 1954:** The **Geneva Accords** were signed, ending the war and restoring peace in Indochina.
-    *   The participating countries pledged to respect the independence, sovereignty, unity, and territorial integrity of Vietnam, Laos, and Cambodia.
-    *   The 17th parallel was established as a provisional military demarcation line, dividing Vietnam into two regroupment zones.
-    *   The armies of both sides were to regroup to the South and North within 300 days.
-    *   A free general election was scheduled to be held in July 1956 to unify the country.
 *   **Aug. 8, 1954:** The Can Lao Nhan Vi Party (Personalist Labor Revolutionary Party) officially debuted in the South, founded by Ngo Dinh Nhu.
-*   **Oct. 10, 1954:** The Vietnam People's Army entered to take over the capital city of Hanoi.
 *   **May 16, 1955:** French forces withdrew from Haiphong, the North was completely liberated, ending the 9-year resistance war against France.
 
 ### **Period of Division and Building Socialism in the North (1954 - 1960)**
