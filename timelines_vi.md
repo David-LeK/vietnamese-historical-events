@@ -1633,16 +1633,16 @@
 *   **10/09/2010:** "Con đường gốm sứ" ven sông Hồng (Hà Nội) được công nhận là bức tranh gốm sứ dài nhất thế giới.
 *   **01 - 10/10/2010:** Tổ chức Đại lễ 1000 năm Thăng Long - Hà Nội.
 *   **16/11/2010:** Hội Gióng ở đền Phù Đổng và đền Sóc Sơn đã được công nhận là Di sản văn hóa phi vật thể đại diện của nhân loại bởi UNESCO.
-*   **27/06/2011:** Thành nhà Hồ được công nhận là Di sản Văn hóa Thế giới.
-*   **24/11/2011:** Hát Xoan Phú Thọ được UNESCO công nhận là di sản.
 
 ### **Thời kỳ Củng cố Pháp lý, Căng thẳng Biển Đông và Biến động Môi trường** (2011 - 2016)
 
 *   **12 - 19/01/2011:** Đại hội XI của Đảng, thông qua Cương lĩnh (bổ sung, phát triển 2011).
 *   **14/02/2011:** Cụm từ "ngoại giao văn hóa" lần đầu được đưa vào văn kiện Đảng.
 *   **22/05/2011:** Bầu cử Quốc hội khóa XIII.
+*   **27/06/2011:** Thành nhà Hồ được công nhận là Di sản Văn hóa Thế giới.
 *   **14/10/2011:** Dịch bệnh tay chân miệng lan rộng 63 tỉnh, thành.
 *   **11/2011:** Dự thảo Luật Biểu tình được đưa ra thảo luận tại Quốc hội.
+*   **24/11/2011:** Hát Xoan Phú Thọ được UNESCO công nhận là di sản.
 *   **21/06/2012:** Quốc hội thông qua Luật Biển Việt Nam.
 *   **07/2012:** Nâng cấp quan hệ Đối tác chiến lược toàn diện với Liên bang Nga.
 *   **06/12/2012:** Tín ngưỡng thờ cúng Hùng Vương được UNESCO công nhận là di sản.
@@ -1691,12 +1691,12 @@
 *   **06/09/2020:** Ẩm thực Việt Nam đã xác lập 5 kỷ lục thế giới.
 *   **10 - 11/2020:** Lũ lụt, bão chồng bão lịch sử tại miền Trung.
 *   **28/12/2020:** Việt Nam thực hiện thành công "mục tiêu kép" (chống dịch và tăng trưởng kinh tế).
-*   **23/05/2021:** Bầu cử Quốc hội khóa XV.
 
 ### **Thời kỳ Phục hồi hậu Đại dịch và Nâng tầm Vị thế Chiến lược** (2021 - 2025)
 
 *   **25/01 - 02/02/2021:** Đại hội XIII của Đảng, đặt mục tiêu đến 2030 và tầm nhìn 2045.
 *   **27/04/2021:** Bắt đầu Đợt dịch COVID-19 lần thứ tư (chủng Delta), chuyển chiến lược sang "thích ứng an toàn".
+*   **23/05/2021:** Bầu cử Quốc hội khóa XV.
 *   **15/12/2021:** Nghệ thuật Xòe Thái được UNESCO công nhận là di sản.
 *   **12 - 23/05/2022:** Việt Nam tổ chức SEA Games 31 (bị hoãn từ 2021).
 *   **05/2022:** Cầu kính Bạch Long (Sơn La) được công nhận là cầu đáy kính dài nhất thế giới.

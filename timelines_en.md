@@ -1633,16 +1633,16 @@
 *   **Sep. 10, 2010:** The "Ceramic Road" along the Red River (Hanoi) was recognized as the longest ceramic mosaic mural in the world.
 *   **Oct. 1 - 10, 2010:** Organized the Grand Celebration of the 1000th Anniversary of Thang Long - Hanoi.
 *   **Nov. 16, 2010:** The Giong Festival at Phu Dong Temple and Soc Son Temple was recognized as a Representative List of the Intangible Cultural Heritage of Humanity by UNESCO.
-*   **Jun. 27, 2011:** The Ho Dynasty Citadel was recognized as a World Cultural Heritage Site.
-*   **Nov. 24, 2011:** Xoan Singing of Phu Tho was recognized by UNESCO as a heritage.
 
 ### **Period of Legal Consolidation, East Sea Tensions, and Environmental Fluctuations** (2011 - 2016)
 
 *   **Jan. 12 - 19, 2011:** The 11th National Congress of the Party, adopted the Platform (supplemented and developed in 2011).
 *   **Feb. 14, 2011:** The term "cultural diplomacy" was first included in Party documents.
 *   **May 22, 2011:** Election of the 13th National Assembly.
+*   **Jun. 27, 2011:** The Ho Dynasty Citadel was recognized as a World Cultural Heritage Site.
 *   **Oct. 14, 2011:** The hand, foot, and mouth disease epidemic spread to 63 provinces and cities.
 *   **Nov. 2011:** The Draft Law on Demonstration was discussed at the National Assembly.
+*   **Nov. 24, 2011:** Xoan Singing of Phu Tho was recognized by UNESCO as a heritage.
 *   **Jun. 21, 2012:** The National Assembly passed the Law of the Sea of Vietnam.
 *   **Jul. 2012:** Upgraded relations to a Comprehensive Strategic Partnership with the Russian Federation.
 *   **Dec. 6, 2012:** The Worship of Hung Kings was recognized by UNESCO as a heritage.
@@ -1691,12 +1691,12 @@
 *   **Sep. 6, 2020:** Vietnamese cuisine has set 5 world records.
 *   **Oct. - Nov. 2020:** Historic floods and successive storms in the Central region.
 *   **Dec. 28, 2020:** Vietnam successfully achieved the "dual goal" (epidemic control and economic growth).
-*   **May 23, 2021:** Election of the 15th National Assembly.
 
 ### **Period of Post-Pandemic Recovery and Elevating Strategic Position** (2021 - 2025)
 
 *   **Jan. 25 - Feb. 2, 2021:** The 13th National Congress of the Party, set goals for 2030 and a vision to 2045.
 *   **Apr. 27, 2021:** The fourth wave of the COVID-19 epidemic began (Delta variant), shifting the strategy to "safe adaptation."
+*   **May 23, 2021:** Election of the 15th National Assembly.
 *   **Dec. 15, 2021:** The Xoe Thai dance art form was recognized as a heritage by UNESCO.
 *   **May 12 - 23, 2022:** Vietnam hosted the 31st SEA Games (postponed from 2021).
 *   **May 2022:** The Bach Long glass bridge (Son La province) was recognized as the world's longest glass-bottomed bridge.
