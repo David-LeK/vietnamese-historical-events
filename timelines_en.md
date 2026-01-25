@@ -1111,6 +1111,7 @@
 ### **Democratic Front Period (1936 - 1939)**
 
 *   **1936:** The Dai Viet National Socialist Party was founded.
+*   **1936:** The Vietnam Independence Motion Alliance Association (Viet Nam Doc Lap Van Dong Dong Minh Hoi), a precursor organization with a similar name to the Viet Minh, was established in Nanjing (China) by Vietnamese anti-imperialist activists.
 *   **May 3, 1936:** The French Popular Front, led by Léon Blum, won the election, opening a favorable period for the democratic movement in the colonies.
 *   **Jul. 1936:** The Party Central Committee conference in Shanghai (China), chaired by Comrade Le Hong Phong, decided to establish the Indochinese Anti-Imperialist People's Unified Front.
 *   **Aug. 1936:** The "Indochinese Congress" movement began vigorously, aiming to collect "people's aspirations" to send to the French Parliament's investigation delegation. Hundreds of "Action Committees" were formed across the country.
@@ -1127,6 +1128,7 @@
 *   **May 1, 1938:** A huge rally with 25.000 participants was held openly at the Dau Xao area in Hanoi to celebrate International Workers' Day.
 *   **May 25, 1938:** The Association for the Propagation of Quốc ngữ (Hội Truyền bá quốc ngữ) was established.
 *   **Aug. 30, 1938:** The French government issued a decree on press freedom in Cochinchina, allowing the publication of Vietnamese-language newspapers without prior permission.
+*   **Dec. 10, 1938:** Truong Tu Anh announced the theory of "Survivalism" (Chu nghia Dan toc Sinh ton), which later served as the ideological foundation for the Dai Viet Nationalist Party.
 *   **Mar. 12, 1939:** The Vietnam Restoration League (Phuc Quoc Hoi) was officially launched in Shanghai.
 *   **1939:** General Secretary Nguyen Van Cu published the work *Self-Criticism* (Tu chi trich).
 *   **Jul. 5, 1939:** Hoa Hao Buddhism, an indigenous religion, was founded by Mr. Huynh Phu So in An Giang province.
@@ -1153,18 +1155,22 @@
 *   **Early 1943:** The Dai Viet Restoration Association was established.
 *   **Sep. 10, 1943:** Ho Chi Minh was released from prison in China.
 *   **1943:** The Indochinese Communist Party published the *Theses on Vietnamese Culture*.
+*   **Early 1944:** The Dai Viet National Alliance (Dai Viet Quoc Gia Lien Minh) was formed, comprised of various nationalist parties such as the Dai Viet National Socialist Party, Dai Viet Nationalist Party, and Dai Viet Democratic Party.
 *   **Jun. 30, 1944:** The Vietnam Democratic Party was founded, gathering intellectuals and national bourgeoisie to join the Viet Minh Front.
 *   **Dec. 22, 1944:** The Vietnam Propaganda and Liberation Army, the precursor to the Vietnam People's Army, was established in the Tran Hung Dao forest (Cao Bang).
 *   **Dec. 24-25, 1944:** The Vietnam Propaganda and Liberation Army won its first two battles at Phay Khat and Na Ngan.
 *   **Mar. 10, 1945:** The Vietnam National Independence Party was founded.
 *   **Mar. 9, 1945:** Japan staged a coup against the French throughout Indochina.
 *   **Mar. 9-12, 1945:** The Party Central Standing Committee met and issued the historic directive "The Japanese-French Clash and Our Actions," launching the anti-Japanese national salvation high tide.
+*   **Mar. 29, 1945:** Ho Chi Minh met with Major General Claire Lee Chennault, Commander of the 14th Air Force of the US Army Air Forces, in Kunming (China), establishing initial contact between the Viet Minh and the US.
 *   **Apr. 17, 1945:** The puppet government of Tran Trong Kim was established under Japanese protection.
 *   **Apr. 21, 1945:** The Vanguard Youth (Thanh Nien Tien Phong) was established.
+*   **May 1945:** In Chongqing (China), the Vietnam Nationalist Party (Viet Quoc) merged with the Dai Viet Nationalist Party and the Dai Viet Democratic Party to form a new organization (called the Nationalist Party of Vietnam in China and Dai Viet Nationalist Party in Vietnam).
 *   **May 15, 1945:** The revolutionary armed forces were unified into the Vietnam Liberation Army.
 *   **Jun. 4, 1945:** The Viet Bac Liberated Zone was officially established.
 *   **Aug. 13-15, 1945:** The National Conference of the Indochinese Communist Party in Tan Trao decided to launch a General Uprising to seize power nationwide.
 *   **Aug. 13, 1945:** The National Uprising Committee issued "Military Order No. 1."
+*   **Aug. 14, 1945:** The United National Front (Mat tran Quoc gia Thong nhat) was established in Southern Vietnam, comprised of various nationalist parties and religious groups like Cao Dai and Hoa Hao.
 *   **Aug. 16-17, 1945:** The National People's Congress met in Tan Trao, endorsed the policy of a General Uprising, and elected the Vietnam National Liberation Committee (i.e., the Provisional Government) with Ho Chi Minh as Chairman.
 *   **Aug. 19, 1945:** The General Uprising succeeded in Hanoi (August Revolution).
 *   **Aug. 23, 1945:** The uprising succeeded in Hue.
@@ -1208,6 +1214,7 @@
 
 *   **Mar. 24, 1946:** President Ho Chi Minh and French High Commissioner D'Argenlieu held talks in Ha Long Bay.
 *   **Apr. 19, 1946:** The Da Lat Preparatory Conference opened to prepare for official negotiations in France.
+*   **Apr. 20, 1946:** The United National Front (Mat tran Quoc gia Lien hiep) was established in the South, initially with an anti-French stance but later divided.
 *   **May 1946:** The Standing Committee of the Party Central Committee appointed Le Duan as Secretary of the Provisional Party Committee of Nam Bo to consolidate and strengthen the Party's leadership in the South.
 *   **May 11, 1946:** The Da Lat Preparatory Conference concluded without reaching agreement on fundamental issues.
 *   **May 19, 1946:** The birthday of President Ho Chi Minh was celebrated publicly for the first time, becoming a demonstration of national unity.
@@ -1219,6 +1226,7 @@
 *   **Jul. 22, 1946:** The Vietnam Socialist Party was founded, aiming to unite patriotic intellectuals.
 *   **Aug. 1, 1946:** D'Argenlieu convened the Conference of the Indochinese Federation in Da Lat, sabotaging the Fontainebleau Conference.
 *   **Sep. 14, 1946:** President Ho Chi Minh signed a Modus Vivendi with the French Minister of Overseas France, Marius Moutet, in Paris.
+*   **Sep. 21, 1946:** The Vietnam Democratic Social Party (Dan Chu Xa Hoi Dang or Dan Xa) was founded by Huynh Phu So, the founder of Hoa Hao Buddhism.
 *   **Oct. 20, 1946:** President Ho Chi Minh returned to Haiphong port.
 *   **Oct. 28 - Nov. 9, 1946:** The 1st National Assembly held its second session, approving the first Constitution of the Democratic Republic of Vietnam.
 *   **Nov. 20, 1946:** A major conflict broke out in Haiphong (the Haiphong Incident) when French troops demanded control of customs.
@@ -1236,8 +1244,10 @@
 *   **1947:** The Republic of China (Kuomintang) issued a map with an 11-dash line, which was later inherited and modified into a 9-dash line by the People's Republic of China. They based their claims to most of the South China Sea, including the Paracel and Spratly Islands, on what they called "historical sovereignty claims."
 *   **Jan. 16, 1947:** Vietnamese forces launched an attack on Gia Lam airport.
 *   **Feb. 17, 1947:** After 60 days and nights of resilient fighting (pinning down the enemy to allow central agencies to evacuate to the safe zone), the Hanoi army and people fought nearly 200 battles and eliminated over 2,000 enemy troops. The Capital Regiment withdrew from Hanoi to preserve its forces.
+*   **Feb. 17, 1947:** The National United Front (Mat tran Thong nhat Quoc gia Lien hiep) was established in Nanjing (China) by leaders of Viet Cach and Viet Quoc to support Bao Dai.
 *   **Mar. - Apr. 1947:** Vietnamese forces launched counter-attacks against French positions in Hai Phong (Mar. 22), Ha Dong (Mar. 20 and Apr. 13), and the Vietnam Student Quarter (Viet Nam Hoc Xa) in Hanoi (Apr. 20).
 *   **Apr. 15, 1947:** French paratroopers landed in Hoa Binh.
+*   **Apr. 16, 1947:** Hoa Hao founder Huynh Phu So disappeared (believed to be killed) in the Plain of Reeds, leading to armed conflict between Hoa Hao forces and the Viet Minh.
 *   **Oct. 7, 1947:** France launched a large-scale attack on the Viet Bac resistance base (Operation Léa).
 *   **Oct. 30, 1947:** The Vietnamese forces won a major victory in an ambush at Bong Lau Pass on Route 4.
 *   **Nov. 20, 1947:** France launched the second phase of the Viet Bac attack (Operation Ceinture).
@@ -1314,6 +1324,7 @@
     *   The 17th parallel was established as a provisional military demarcation line, dividing Vietnam into two regroupment zones.
     *   The armies of both sides were to regroup to the South and North within 300 days.
     *   A free general election was scheduled to be held in July 1956 to unify the country.
+*   **Aug. 8, 1954:** The Can Lao Nhan Vi Party (Personalist Labor Revolutionary Party) officially debuted in the South, founded by Ngo Dinh Nhu.
 *   **Oct. 10, 1954:** The Vietnam People's Army entered to take over the capital city of Hanoi.
 *   **May 16, 1955:** French forces withdrew from Haiphong, the North was completely liberated, ending the 9-year resistance war against France.
 
@@ -1352,6 +1363,7 @@
 *   **May 17, 1957:** The Politburo decided to merge the Southern Committee and the Unification Committee into the Central Unification Committee (*Ban Thong Nhat Trung Uong*) to assist the Central Committee in leading the struggle for national reunification.
 *   **Dec. 1957:** The 13th Conference of the Party Central Committee identified two strategic tasks: the socialist revolution in the North and the national people's democratic revolution in the South.
 *   **1958 - 1960:** The North implemented the **Three-Year Plan** for economic and cultural transformation and development.
+*   **May 1, 1958:** The BAJARAKA movement was founded by ethnic minority intellectuals in the Central Highlands to demand rights and fight discrimination.
 *   **Dec. 1, 1958:** The Phu Loi massacre occurred where the US-Diem regime poisoned over 1,000 political prisoners. This event sparked widespread outrage and became a catalyst for the revolutionary movement in the South.
 *   **Jan. 1959:** The 15th Conference of the Central Committee of the Vietnam Workers' Party issued a historic resolution, defining the path of the southern revolution as using revolutionary violence, combining political struggle with armed struggle to seize power.
 *   **04/1959:** The 16th Conference of the Central Committee of the Vietnam Workers' Party issued policies on the socialist transformation of capitalist industry and commerce in the North.
@@ -1399,6 +1411,7 @@
 *   **Mar. 1964:** President Ho Chi Minh convened a **Special Political Conference** in Hanoi, calling on all people to unite to resist the US and save the country.
 *   **Aug. 2-4, 1964:** The US fabricated the **"Gulf of Tonkin Incident"** as a pretext to escalate the war.
 *   **Aug. 5, 1964:** The US Air Force bombed and strafed several places in the North for the first time (Operation Pierce Arrow). The army and people of the North fought back fiercely, shooting down 8 US aircraft and capturing pilot Everett Alvarez, the first US prisoner of war in North Vietnam.
+*   **Sep. 20, 1964:** The United Front for the Liberation of Oppressed Races (FULRO) was founded in Camp Le Rolland (Cambodia), uniting ethnic minority movements.
 *   **Nov. 14, 1964:** The Tan Dai Viet Party was founded.
 *   **Dec. 1964 - Jan. 1965:** **Binh Gia Campaign (Ba Ria):** The Liberation Army annihilated many main-force units of the Saigon army, marking the basic bankruptcy of the "Special War" strategy.
 *   **1965:** Madame **Nguyen Thi Dinh** was appointed Deputy Commander of the South Vietnam Liberation Army.
@@ -1440,6 +1453,7 @@
 *   **Jan. 1968:** The 14th Conference of the Party Central Committee (3rd tenure) passed the resolution on the General Offensive and Uprising (Tet Mau Than) to deal a decisive blow to the US will of aggression.
 *   **Night of Jan. 30-31, 1968:** The 1968 Tet General Offensive and Uprising broke out simultaneously across South Vietnam, attacking cities, towns, and the enemy's command centers, shaking the US's will to aggression.
 *   **Mar. 31, 1968:** US President Johnson announced a limited bombing halt of the North (from the 20th parallel northwards) and agreed to negotiations.
+*   **Apr. 20, 1968:** The Alliance of National, Democratic, and Peace Forces of Vietnam was established in the liberated zone of Tay Ninh to gather intellectuals and the urban bourgeoisie.
 *   **May 13, 1968:** Official negotiations between the delegations of the Democratic Republic of Vietnam and the US began in Paris.
 *   **Aug. 1968:** The Central Office for South Vietnam decided to re-establish the Saigon - Gia Dinh City Party Committee (code name Binh Gia). The City Party Committee's base was moved to Ba Thu (border area).
 *   **Nov. 1, 1968:** The US was forced to completely and unconditionally end the bombing and strafing of the North. The North defeated the first war of destruction, shooting down 3,234 US aircraft.
@@ -1448,6 +1462,7 @@
 
 *   **Jan. 20, 1969:** Richard Nixon was inaugurated as US President and implemented the "Vietnamization of the war" strategy and the "Nixon Doctrine."
 *   **Jan. 25, 1969:** The first plenary session of the four-party conference on Vietnam opened in Paris.
+*   **May 25, 1969:** President Nguyen Van Thieu established the National Social Democratic Front to consolidate political power in the South.
 *   **Jun. 6-8, 1969:** The National Congress of Southern Delegates convened, establishing the **Provisional Revolutionary Government of the Republic of South Vietnam**, with Architect **Huynh Tan Phat** as President, Lawyer **Nguyen Huu Tho** as Chairman of the Consultative Council, and Lawyer **Truong Nhu Tang** as Minister of Justice.
 *   **Sep. 2, 1969:** President Ho Chi Minh passed away. The entire Party, people, and army turned grief into revolutionary action, determined to implement his testament.
 *   **Mar. 6, 1970:** The Politburo issued a resolution on the campaign to improve the quality of Party members and recruit new members (Ho Chi Minh Class).
@@ -1604,6 +1619,7 @@
 *   **Nov. 25 - Dec. 4, 1991:** The 2nd Conference of the Party Central Committee (7th tenure) approved the tasks and solutions for socio-economic development for the 1992-1995 period, including the goal of decisively curbing inflation.
 *   **Dec. 8, 1991:** Leaders of Russia, Ukraine, and Belarus signed the Belavezha Accords, declaring the dissolution of the Soviet Union and establishing the Commonwealth of Independent States (CIS).
 *   **Dec. 25, 1991:** Mikhail Gorbachev resigned as President of the USSR. The Soviet flag was lowered at the Kremlin, marking the official collapse of the Soviet Union. This event had a profound impact on Vietnam, resulting in the loss of its most important traditional partner and aid source.
+*   **1992:** The remaining armed forces of FULRO in Cambodia officially surrendered to the UN Peacekeeping Forces (UNTAC), marking the end of the organization's armed activities.
 *   **Apr. 1992:** Nguyen Phu Trong published the article "Why did the Communist Party of the Soviet Union disintegrate?" in the *Communist Review*, analyzing the causes of the collapse to draw lessons for the Communist Party of Vietnam.
 *   **Apr. 15, 1992:** The National Assembly passed the **new Constitution (1992 Constitution)**, institutionalizing the Party's Doi Moi policy and laying the legal foundation for building a rule-of-law state.
 *   **Jul. 19, 1992:** Election for the 9th National Assembly.
