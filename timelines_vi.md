@@ -1468,17 +1468,14 @@
 *   **23/04/1975:** Ban Bí thư gửi điện chỉ đạo chuẩn bị xuất bản ngay báo "Cờ giải phóng" khi Sài Gòn được giải phóng.
 *   **26/04/1975:** Chiến dịch Hồ Chí Minh bắt đầu. 5 cánh quân lớn của Quân Giải phóng đồng loạt tiến công vào Sài Gòn.
 *   **29/04/1975:** Vào lúc 10 giờ, Bộ Chính trị gửi điện cho Bộ Chỉ huy Chiến dịch Hồ Chí Minh chỉ thị tiếp tục tiến công vào Sài Gòn theo kế hoạch, không vì lệnh ngừng bắn của Dương Văn Minh mà dừng lại, nhằm đập tan hoàn toàn sự kháng cự của địch và giải tán chính quyền ngụy.
-*   **30/04/1975:**
+*   **30/04/1975:** Miền Nam hoàn toàn giải phóng, kết thúc cuộc kháng chiến chống Mỹ, cứu nước. Đất nước thống nhất về mặt lãnh thổ.
     *   **10 giờ 45 phút:** Xe tăng của Quân giải phóng húc đổ cổng Dinh Độc Lập.
     *   **11 giờ 30 phút:** Lá cờ giải phóng tung bay trên nóc Dinh Độc Lập. Tổng thống Dương Văn Minh tuyên bố đầu hàng không điều kiện.
-*   **01/05/1975:** Toàn bộ các tỉnh còn lại ở miền Nam được giải phóng.
-*   **01/05/1975:** Ban Bí thư gửi điện số 602 chỉ thị giải phóng Côn Đảo (Côn Lôn) và Phú Quốc.
 *   **Cuộc kháng chiến chống Mỹ, cứu nước kết thúc thắng lợi hoàn toàn.**
 
 ### **Thời kỳ hậu chiến, thống nhất và tìm đường Đổi mới (1975 - 1986)**
 
-*   **30/04/1975:** Miền Nam hoàn toàn giải phóng, kết thúc cuộc kháng chiến chống Mỹ, cứu nước. Đất nước thống nhất về mặt lãnh thổ.
-*   **01/05/1975:** Quân Pôn Pốt (Campuchia Dân chủ) bắt đầu các cuộc tấn công, xâm phạm lãnh thổ Việt Nam từ Hà Tiên đến Tây Ninh.
+*   **01/05/1975:** Toàn bộ các tỉnh còn lại ở miền Nam được giải phóng. Ban Bí thư gửi điện số 602 chỉ thị giải phóng Côn Đảo (Côn Lôn) và Phú Quốc. Quân Pôn Pốt (Campuchia Dân chủ) bắt đầu các cuộc tấn công, xâm phạm lãnh thổ Việt Nam từ Hà Tiên đến Tây Ninh.
 *   **03/05/1975:** Thành lập Ủy ban Quân quản thành phố Sài Gòn - Gia Định do Thượng tướng Trần Văn Trà làm chủ tịch.
 *   **04/05/1975:** Quân Pôn Pốt đổ bộ lên đảo Phú Quốc.
 *   **10/05/1975:** Quân Pôn Pốt đổ bộ lên quần đảo Thổ Chu, bắt đi 515 người dân.

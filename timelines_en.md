@@ -1468,17 +1468,14 @@
 *   **Apr. 23, 1975:** The Secretariat sent a telegram directing the immediate preparation for publishing the "Co Giai Phong" (Liberation Flag) newspaper upon the liberation of Saigon.
 *   **Apr. 26, 1975:** The Ho Chi Minh Campaign began. Five large columns of the Liberation Army simultaneously attacked Saigon.
 *   **Apr. 29, 1975:** At 10:00 AM, the Politburo sent a directive to the Ho Chi Minh Campaign Command ordering the continuation of the attack on Saigon according to the plan, ignoring Duong Van Minh's ceasefire order, to secure total victory and dissolve the enemy administration.
-*   **Apr. 30, 1975:**
+*   **Apr. 30, 1975:** The South was completely liberated, ending the resistance war against the US to save the nation. The country was unified in terms of territory.
     *   **10:45 AM:** A Liberation Army tank crashed through the gates of the Independence Palace.
     *   **11:30 AM:** The liberation flag flew over the roof of the Independence Palace. President Duong Van Minh announced his unconditional surrender.
-*   **May 1, 1975:** All remaining provinces in the South were liberated.
-*   **May 1, 1975:** The Secretariat sent Telegram No. 602 ordering the liberation of Con Dao (Con Lon) and Phu Quoc.
 *   **The resistance war against the US to save the nation ended in complete victory.**
 
 ### **Post-war, Unification, and the Path to Renovation (1975 - 1986)**
 
-*   **Apr. 30, 1975:** The South was completely liberated, ending the resistance war against the US to save the nation. The country was unified in terms of territory.
-*   **May 1, 1975:** Pol Pot's forces (Democratic Kampuchea) began attacks, violating Vietnamese territory from Ha Tien to Tay Ninh.
+*   **May 1, 1975:** All remaining provinces in the South were liberated. The Secretariat sent Telegram No. 602 ordering the liberation of Con Dao (Con Lon) and Phu Quoc. Pol Pot's forces (Democratic Kampuchea) began attacks, violating Vietnamese territory from Ha Tien to Tay Ninh.
 *   **May 3, 1975:** The Military Management Committee of Saigon - Gia Dinh city was established, with Senior General Tran Van Tra as chairman.
 *   **May 4, 1975:** Pol Pot's forces landed on Phu Quoc island.
 *   **May 10, 1975:** Pol Pot's forces landed on the Tho Chu archipelago, abducting 515 civilians.
