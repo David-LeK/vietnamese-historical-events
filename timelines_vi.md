@@ -467,6 +467,9 @@
 
 ### **Thời kỳ Phân liệt Đàng Trong - Đàng Ngoài (1527 - 1771)**
 
+*   **1527:** Mạc Đăng Dung cướp ngôi nhà Lê Sơ, lập ra nhà Mạc.
+*   **1533:** Nguyễn Kim (cựu thần nhà Lê) tìm được Lê Ninh (con vua Lê Chiêu Tông), lập lên làm vua (Lê Trang Tông) ở Ai Lao, bắt đầu công cuộc "phù Lê diệt Mạc".
+*   **1545:** Nguyễn Kim bị một hàng tướng nhà Mạc đầu độc chết. Con rể là Trịnh Kiểm lên thay, nắm toàn bộ binh quyền, mâu thuẫn giữa hai dòng họ Trịnh-Nguyễn bắt đầu nảy sinh.
 *   **10/1558:** Trịnh Kiểm cử Nguyễn Hoàng (con trai thứ của Nguyễn Kim) vào trấn thủ Thuận Hóa để tránh sự đố kỵ. Nguyễn Hoàng bắt đầu xây dựng cơ sở cát cứ ở phương Nam.
 *   **1570:** Nguyễn Hoàng được giao kiêm trấn thủ cả hai xứ Thuận Hóa và Quảng Nam, quyền lực ngày càng lớn.
 *   **1572:** Đào Duy Từ, nhà quân sự và chính trị kiệt xuất của chúa Nguyễn sau này, sinh ra tại Thanh Hóa.
@@ -563,7 +566,7 @@
 *   **Mùa xuân 1773:** Một toán quân nhỏ gồm các nhóm dân tộc vùng cao và nông dân vùng đồng bằng từ An Khê, dưới sự chỉ huy của Nguyễn Nhạc, đã tràn xuống tấn công thủ phủ Quy Nhơn.
 *   **Trung tuần tháng 9/1773:** Nghĩa quân Tây Sơn hạ thành Quy Nhơn, Tuần vũ Nguyễn Khắc Tuyên bỏ chạy. Sự kiện này gắn liền với giai thoại về mưu kế của Nguyễn Nhạc, người đã tự ngồi vào cũi giả làm tù nhân để lọt vào thành rồi phá cũi mở cổng cho quân tiến vào.
 *   **Rằm tháng 8/1773:** Nguyễn Nhạc làm lễ tế cờ xuất quân tại đèo An Khê.
-*   **1773:** Các tướng Lê Văn Hưng, Trần Quang Diệu và Võ Văn Dũng chỉ huy quân Tây Sơn đánh chiếm Bồng Sơn và Phù Ly, mở đường cho việc hạ thành Quy Nhơn. Nguyễn Ánh thành lập 3 làng An Hải, An Hội, Cỏ Ống và đặt tên cho quần đảo Côn Đảo là Côn Lôn.
+*   **1773:** Các tướng Lê Văn Hưng, Trần Quang Diệu và Võ Văn Dũng chỉ huy quân Tây Sơn đánh chiếm Bồng Sơn và Phù Ly, mở đường cho việc hạ thành Quy Nhơn. Nghĩa quân Tây Sơn chiếm huyện lỵ Tuy Viễn và hạ thành Quy Nhơn (dùng mưu Nguyễn Nhạc ngồi trong cũi giả làm tù nhân). Nguyễn Ánh thành lập 3 làng An Hải, An Hội, Cỏ Ống và đặt tên cho quần đảo Côn Đảo là Côn Lôn.
 *   **Mùa Đông 1773:** Các tướng Nguyễn Văn Lộc và Lê Văn Hưng theo lệnh của Chinh Nam Đại tướng quân Ngô Văn Sở vào đánh chiếm ba phủ Phú Yên, Diên Khánh, Bình Thuận.
 *   **01/11/1773:** Quân Tây Sơn giành chiến thắng trong trận Bến Đá (Quảng Ngãi).
 *   **22/12/1773:** Trận Bến Ván (Quảng Nam) diễn ra, quân chúa Nguyễn tạm thời đẩy lùi được quân Tây Sơn.
@@ -792,6 +795,8 @@
 *   **08/1854:** Thành lập Tụ Khuê thư viện tại Hoàng thành Huế để lưu trữ sách vở.
 *   **1854 - 1855:** Cuộc nổi dậy của sĩ phu và nông dân do Cao Bá Quát khởi xướng ở vùng Sơn Tây, Hà Nội.
 *   **1856:** Tàu chiến Pháp *Catinat* đến gây hấn tại cửa biển Đà Nẵng, bắn phá các pháo đài.
+*   **01/09/1858:** Liên quân Pháp - Tây Ban Nha nổ súng tấn công bán đảo Sơn Trà (Đà Nẵng), chính thức bắt đầu cuộc xâm lược Việt Nam.
+*   **02/09/1858:** Liên quân Pháp - Tây Ban Nha tấn công và chiếm được đồn Điện Hải.
 
 ### **Thời kỳ Pháp xâm lược và phong trào kháng chiến (1858 - 1896)**
 
@@ -1370,7 +1375,9 @@
 *   **12/1964 - 01/1965:** **Chiến dịch Bình Giã (Bà Rịa):** Quân Giải phóng tiêu diệt nhiều đơn vị chủ lực của quân đội Sài Gòn, đánh dấu sự phá sản về cơ bản của chiến lược "Chiến tranh đặc biệt".
 *   **1965:** Bà **Nguyễn Thị Định** được bổ nhiệm làm Phó Tư lệnh Quân Giải phóng miền Nam Việt Nam.
 *   **02/1965:** Phong trào **"Ba sẵn sàng"** của thanh niên và **"Ba đảm đang"** (03/1965) của phụ nữ được phát động ở miền Bắc.
+*   **07/02/1965:** Mỹ bắt đầu cuộc chiến tranh phá hoại bằng không quân ra miền Bắc lần thứ nhất với chiến dịch **"Sấm Rền" (Rolling Thunder)**.
 *   **01 - 09/03/1965:** Hội nghị nhân dân ba nước Đông Dương họp tại Phnôm Pênh (Campuchia), biểu thị tình đoàn kết chiến đấu chống kẻ thù chung là đế quốc Mỹ.
+*   **08/03/1965:** Lữ đoàn 9 Thủy quân Lục chiến Mỹ đổ bộ vào Đà Nẵng, đánh dấu việc Mỹ trực tiếp đưa quân chiến đấu vào tham chiến, mở đầu cho chiến lược **"Chiến tranh cục bộ"**.
 
 ### **Thời kỳ đánh bại chiến lược "Chiến tranh cục bộ" (1965-1968)**
 

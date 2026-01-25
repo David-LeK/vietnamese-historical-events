@@ -467,6 +467,9 @@
 
 ### **Period of Division: Dang Trong - Dang Ngoai (1527 - 1771)**
 
+*   **1527:** Mac Dang Dung usurped the throne of the Early Le dynasty, establishing the Mac dynasty.
+*   **1533:** Nguyen Kim (a former Le official) found Le Ninh (son of King Le Chieu Tong), established him as king (Le Trang Tong) in Ai Lao (Laos), and began the "support the Le, destroy the Mac" movement.
+*   **1545:** Nguyen Kim was poisoned to death by a surrendered Mac general. His son-in-law, Trinh Kiem, took over, seizing all military power, and conflicts between the Trinh and Nguyen clans began to arise.
 *   **Oct. 1558:** Trinh Kiem appointed Nguyen Hoang (second son of Nguyen Kim) as governor of Thuan Hoa to avoid jealousy. Nguyen Hoang began building a base for his separate domain in the South.
 *   **1570:** Nguyen Hoang was assigned to govern both Thuan Hoa and Quang Nam, and his power grew.
 *   **1572:** Dao Duy Tu, a renowned scholar and military strategist who would later serve the Nguyen Lords, was born in Thanh Hoa.
@@ -563,7 +566,7 @@
 *   **Spring 1773:** A small army comprising highland ethnic groups and lowland peasants from the An Khe plateau, led by Nguyen Nhac, descended to attack the provincial capital of Quy Nhon.
 *   **Mid-Sep. 1773:** The Tay Son army captured Quy Nhon Citadel from Governor Nguyen Khac Tuyen. This event involves the famous stratagem where Nguyen Nhac allegedly hid himself in a cage to enter the citadel as a prisoner, then broke out to open the gates for his troops (though some historians debate the specifics, it remains a popular account of the victory).
 *   **Mid-Autumn 1773:** Nguyen Nhac held a flag-raising ceremony at An Khe Pass to officially launch the military campaign.
-*   **1773:** Generals Le Van Hung, Tran Quang Dieu, and Vo Van Dung commanded Tay Son forces to capture Bong Son and Phu Ly, paving the way for the attack on Quy Nhon. Nguyen Anh established three villages, An Hai, An Hoi, and Co Ong, and named the Con Dao archipelago Con Lon.
+*   **1773:** Generals Le Van Hung, Tran Quang Dieu, and Vo Van Dung commanded Tay Son forces to capture Bong Son and Phu Ly, paving the way for the attack on Quy Nhon. The Tay Son army captured Tuy Vien district and then Quy Nhon Citadel (using the stratagem of Nguyen Nhac hiding himself in a cage to enter the citadel as a prisoner). Nguyen Anh established three villages, An Hai, An Hoi, and Co Ong, and named the Con Dao archipelago Con Lon.
 *   **Winter 1773:** Generals Nguyen Van Loc and Le Van Hung, under the command of General Ngo Van So, attacked and captured the three prefectures of Phu Yen, Dien Khanh, and Binh Thuan.
 *   **Nov. 1, 1773:** The Tay Son army won a victory at Ben Da (Quang Ngai).
 *   **Dec. 22, 1773:** The Battle of Ben Van (Quang Nam) took place, where the Nguyen army temporarily repelled the Tay Son forces.
@@ -792,6 +795,8 @@
 *   **Aug. 1854:** The **Tu Khue Library** was established within the Imperial Citadel to store royal books and documents.
 *   **1854 - 1855:** The uprising of scholars and peasants initiated by Cao Ba Quat in the Son Tay and Hanoi regions.
 *   **1856:** The French warship *Catinat* arrived at Da Nang and bombarded Vietnamese forts.
+*   **Sep. 1, 1858:** A French-Spanish coalition force opened fire on the Son Tra peninsula (Da Nang), officially beginning the invasion of Vietnam.
+*   **Sep. 2, 1858:** The French-Spanish coalition force attacked and captured Dien Hai fortress.
 
 ### **Period of French Invasion and Resistance Movements (1858 - 1896)**
 
@@ -1370,7 +1375,9 @@
 *   **Dec. 1964 - Jan. 1965:** **Binh Gia Campaign (Ba Ria):** The Liberation Army annihilated many main-force units of the Saigon army, marking the basic bankruptcy of the "Special War" strategy.
 *   **1965:** Madame **Nguyen Thi Dinh** was appointed Deputy Commander of the South Vietnam Liberation Army.
 *   **Feb. 1965:** The **"Three Readies"** movement for youth and the **"Three Responsibilities"** (Mar. 1965) movement for women were launched in the North.
+*   **Feb. 7, 1965:** The US began its first air war of destruction against the North with Operation **"Rolling Thunder."**
 *   **Mar. 1-9, 1965:** The Indochinese People's Conference was held in Phnom Penh, demonstrating the solidarity of the three nations against the US imperialists.
+*   **Mar. 8, 1965:** The 9th Marine Expeditionary Brigade landed in Da Nang, marking the direct deployment of US combat troops and the beginning of the **"Local War"** strategy.
 
 ### **Period of Defeating the "Local War" Strategy (1965-1968)**
 
