@@ -1300,7 +1300,6 @@
 *   **Sep. 6, 1954:** The US formed the Southeast Asia Treaty Organization (SEATO) and placed South Vietnam, Laos, and Cambodia under its "protection."
 *   **Sep. 5-7, 1954:** The Politburo of the Vietnam Workers' Party passed a resolution on "The new situation, new tasks and new policy", marking the transition of the revolutionary struggle from war to peace, shifting the focus in the South to political struggle to demand the implementation of the Geneva Accords.
 *   **Sep. 1954:** The Saigon - Cho Lon Zone was established (previously the Saigon - Cho Lon Special Zone) to suit the revolutionary leadership in the new situation.
-*   **Oct. 10, 1954:** The Vietnam People's Army entered to take over the capital city of Hanoi.
 *   **Dec. 29, 1954:** France signed a treaty transferring all administrative authority in South Vietnam to Ngo Dinh Diem.
 *   **1954:** The government of South Vietnam took over Con Dao Island and continued to use it as a prison, with its infamous and brutal "tiger cages." The South Vietnamese government also continued to develop Phu Quoc Island and built the largest prisoner-of-war camp at that time.
 *   **Jan. 8, 1955:** The Ngo Dinh Diem administration issued Ordinance No. 2 and Ordinance No. 7 (Feb. 3, 1955) regarding land reform, aiming to reclaim land distributed to peasants during the resistance.
