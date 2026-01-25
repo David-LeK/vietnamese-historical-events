@@ -987,7 +987,7 @@
 *   **1915 - 1916:** The French colonial administration began a large-scale "volunteer" recruitment (forced conscription) campaign in Indochina for World War I.
 *   **1915:** The last regional examination was held in Tonkin, marking the end of the Confucian civil service examination system there.
 *   **Mar. 13, 1915:** The righteous army of the Vietnam Restoration League attacked the Ta Lung post (Lang Son) but failed.
-*   **Sep. 2, 1915:** Political prisoners at Lao Bao Prison, led by Ho Ba Kien and Lieu Thanh, rebelled and broke out of the prison.
+*   **Sep. 28, 1915:** Political prisoners at Lao Bao Prison, led by Ho Ba Kien and Lieu Thanh, rebelled and broke out of the prison.
 *   **Feb. 15, 1916:** Secret societies in Cochinchina organized a major riot in Saigon, attempting to break into the Central Prison to rescue Phan Xich Long, but it failed.
 *   **May 3, 1916:** The uprising led by King Duy Tan along with Thai Phien and Tran Cao Van was discovered and failed. King Duy Tan was arrested and exiled to Réunion Island.
 *   **Aug. 1916:** Emperor Khai Dinh issued a ban on commoners wearing yellow clothing and colors resembling yellow to maintain distinction from royalty.
@@ -1059,9 +1059,11 @@
 *   **Aug. 1925:** A strike by over 1,000 workers at the Ba Son shipyard (Saigon), led by Ton Duc Thang, delayed the repair of the French battleship Jules Michelet.
 *   **Nov. 23, 1925:** The French colonialists put Phan Boi Chau on trial in Hanoi, sparking a large mass movement demanding his release.
 *   **Dec. 24, 1925:** Governor-General Varenne signed an order "pardoning" and placing Phan Boi Chau under house arrest in Hue.
+*   **Mar. 21, 1926:** The Jeune Annam (Youth Party) was established.
 *   **Mar. 24, 1926:** Phan Chau Trinh passed away in Saigon.
 *   **Apr. 4, 1926:** The funeral of Phan Chau Trinh was held solemnly in Saigon with the participation of about 140,000 people, turning into a mass demonstration.
 *   **Sep. 4, 1926:** A decree established the People's Agricultural Credit Banks in Tonkin.
+*   **Nov. 12, 1926:** The Indochinese Labor Party was founded in Saigon.
 *   **1927:** Nguyen Ai Quoc's work *Duong Kach menh* (The Revolutionary Path) was published.
 *   **Feb. 25, 1927:** The Resident Superior of Tonkin, Robin, issued a decree amending the reform of village administration, allowing the old council of village notables to exist alongside the council of representatives.
 *   **Mar. 1927:** The General Assembly of the Protestant Church was held in Da Nang.
@@ -1078,8 +1080,8 @@
 *   **Mar. 1929:** The first Communist cell was established at 5D Ham Long Street, Hanoi.
 *   **May 1-9, 1929:** The first congress of the Vietnamese Revolutionary Youth League was held in Hong Kong.
 *   **Jun. 17, 1929:** The Indochinese Communist Party was founded in Hanoi.
-*   **Sep. 1929:** The Annamese Communist Party was founded in Cochinchina.
-*   **Dec. 1929:** The Indochinese Communist League was formed from progressive members of Tan Viet.
+*   **Nov. 15, 1929:** The Annamese Communist Party was founded in Cochinchina.
+*   **Jan. 1, 1930:** The Indochinese Communist League was officially established in Ha Tinh.
 *   **Feb. 3, 1930:** A conference to unify the communist organizations was held in Kowloon (Hong Kong) under the chairmanship of Nguyen Ai Quoc, establishing the Communist Party of Vietnam.
 *   **Feb. 10, 1930:** The Yen Bai Uprising, led by the Vietnamese Nationalist Party, broke out but was quickly defeated.
 *   **Jun. 17, 1930:** Nguyen Thai Hoc and 12 other comrades of the Vietnamese Nationalist Party were executed in Yen Bai.
@@ -1108,22 +1110,27 @@
 
 ### **Democratic Front Period (1936 - 1939)**
 
+*   **1936:** The Dai Viet National Socialist Party was founded.
 *   **May 3, 1936:** The French Popular Front, led by Léon Blum, won the election, opening a favorable period for the democratic movement in the colonies.
 *   **Jul. 1936:** The Party Central Committee conference in Shanghai (China), chaired by Comrade Le Hong Phong, decided to establish the Indochinese Anti-Imperialist People's Unified Front.
 *   **Aug. 1936:** The "Indochinese Congress" movement began vigorously, aiming to collect "people's aspirations" to send to the French Parliament's investigation delegation. Hundreds of "Action Committees" were formed across the country.
 *   **Nov. 13, 1936:** A general strike by over 30,000 miners in the Hon Gai and Cam Pha region broke out and achieved a major victory.
 *   **Dec. 30, 1936:** The French government issued a decree on the Labor Law in Indochina, regulating certain conditions for workers.
 *   **1936:** Returning from Con Dao prison, Le Duan operated in Central Vietnam. As Secretary of the Party Committee of Central Vietnam (Xu uy Trung Ky), he led the Democratic Front movement (1936-1939), initiating struggles for livelihood and democratic rights.
+*   **1937:** The Indochinese Democratic Party was established.
 *   **Jan. 1 - Mar. 14, 1937:** Justin Godart, an envoy from the French government, visited Indochina to investigate the situation, sparking a vigorous mass movement to welcome him and present demands.
 *   **May 5, 1937:** General Secretary Ha Huy Tap (alias Thanh Huong) published the book *Trotsky and Counter-Revolution*.
 *   **1938:** Nguyen Ai Quoc returned to China and worked in the Eighth Route Army.
+*   **Feb. 1938:** The Dai Viet Democratic Party was founded.
 *   **Feb. 29, 1938:** King Bao Dai issued Imperial Decree No. 10, separating the Paracel Islands (Hoang Sa) from Nam Ngai province and placing them under the administration of Thua Thien province.
 *   **Mar. 29-30, 1938:** The Party Central Committee conference decided to change the name of the Front to the Indochinese Democratic Front and elected Comrade Nguyen Van Cu as General Secretary.
 *   **May 1, 1938:** A huge rally with 25.000 participants was held openly at the Dau Xao area in Hanoi to celebrate International Workers' Day.
 *   **May 25, 1938:** The Association for the Propagation of Quốc ngữ (Hội Truyền bá quốc ngữ) was established.
 *   **Aug. 30, 1938:** The French government issued a decree on press freedom in Cochinchina, allowing the publication of Vietnamese-language newspapers without prior permission.
+*   **Mar. 12, 1939:** The Vietnam Restoration League (Phuc Quoc Hoi) was officially launched in Shanghai.
 *   **1939:** General Secretary Nguyen Van Cu published the work *Self-Criticism* (Tu chi trich).
 *   **Jul. 5, 1939:** Hoa Hao Buddhism, an indigenous religion, was founded by Mr. Huynh Phu So in An Giang province.
+*   **Dec. 10, 1939:** The Dai Viet Nationalist Party was founded.
 
 ### **Period of National Liberation Mobilization and the August Revolution (1939 - 1945)**
 
@@ -1132,6 +1139,7 @@
 *   **Nov. 6-8, 1939:** The 6th Conference of the Party Central Committee in Ba Diem (Hoc Mon) decided to shift the strategic direction, prioritizing the task of national liberation and establishing the Indochinese Anti-Imperialist National United Front.
 *   **Jun. 22, 1940:** The French government surrendered to Nazi Germany.
 *   **1940:** Architect **Huynh Tan Phat** opened the first private architectural office by a Vietnamese in Saigon.
+*   **Sep. 1940:** The Vietnam National Construction Army (military wing of Phuc Quoc Hoi) attacked Lang Son.
 *   **Sep. 22, 1940:** Japanese troops crossed the border and attacked Lang Son. The French colonialists quickly signed a surrender agreement, allowing Japan to enter Indochina.
 *   **Sep. 27, 1940:** The Bac Son Uprising broke out.
 *   **Nov. 6-9, 1940:** The 7th Conference of the Party Central Committee in Dinh Bang (Bac Ninh) decided to maintain the Bac Son armed forces and postpone the Nam Ky Uprising.
@@ -1141,14 +1149,18 @@
 *   **May 10-19, 1941:** The 8th Conference of the Party Central Committee in Pac Bo (Cao Bang), chaired by Nguyen Ai Quoc, completed the line of national liberation and decided to establish the League for the Independence of Vietnam (Viet Minh).
 *   **Aug. 1942:** Taking the name Ho Chi Minh, he went to China to seek international support but was arrested by the Chiang Kai-shek administration. During more than a year in prison, he wrote *Prison Diary*.
 *   **Oct. 1, 1942:** The Vietnam Revolutionary League (Viet Cach) was founded in Liuzhou, China, gathering various patriotic groups.
+*   **Jan. 1, 1943:** The Dai Viet Populist Revolutionary Party was founded.
+*   **Early 1943:** The Dai Viet Restoration Association was established.
 *   **Sep. 10, 1943:** Ho Chi Minh was released from prison in China.
 *   **1943:** The Indochinese Communist Party published the *Theses on Vietnamese Culture*.
 *   **Jun. 30, 1944:** The Vietnam Democratic Party was founded, gathering intellectuals and national bourgeoisie to join the Viet Minh Front.
 *   **Dec. 22, 1944:** The Vietnam Propaganda and Liberation Army, the precursor to the Vietnam People's Army, was established in the Tran Hung Dao forest (Cao Bang).
 *   **Dec. 24-25, 1944:** The Vietnam Propaganda and Liberation Army won its first two battles at Phay Khat and Na Ngan.
+*   **Mar. 10, 1945:** The Vietnam National Independence Party was founded.
 *   **Mar. 9, 1945:** Japan staged a coup against the French throughout Indochina.
 *   **Mar. 9-12, 1945:** The Party Central Standing Committee met and issued the historic directive "The Japanese-French Clash and Our Actions," launching the anti-Japanese national salvation high tide.
 *   **Apr. 17, 1945:** The puppet government of Tran Trong Kim was established under Japanese protection.
+*   **Apr. 21, 1945:** The Vanguard Youth (Thanh Nien Tien Phong) was established.
 *   **May 15, 1945:** The revolutionary armed forces were unified into the Vietnam Liberation Army.
 *   **Jun. 4, 1945:** The Viet Bac Liberated Zone was officially established.
 *   **Aug. 13-15, 1945:** The National Conference of the Indochinese Communist Party in Tan Trao decided to launch a General Uprising to seize power nationwide.
@@ -1169,6 +1181,7 @@
 *   **Sep. 2, 1945:** At Ba Dinh Square, President Ho Chi Minh read the Declaration of Independence, giving birth to the Democratic Republic of Vietnam.
 *   **Sep. 3, 1945:** In the first meeting of the Provisional Government, President Ho Chi Minh set out urgent tasks: combating famine, illiteracy, and foreign invaders.
 *   **Sep. 4, 1945:** The government issued Decree No. 4/SL to establish the "Independence Fund."
+*   **Sep. 5, 1945:** The Provisional Government issued a decree dissolving the Dai Viet National Socialist Party and the Dai Viet Nationalist Party.
 *   **Sep. 1945:** On the occasion of the first opening of school in the Democratic Republic of Vietnam, President Ho Chi Minh sent a letter to students.
 *   **Sep. 7, 1945:** President Ho Chi Minh issued a directive to establish the General Staff of the army.
 *   **Sep. 8, 1945:** President Ho Chi Minh signed Decree No. 14-SL, stipulating that a General Election would be held within two months.
@@ -1268,6 +1281,7 @@
 *   **Mar. 23 - Apr. 7, 1951:** The Hoang Hoa Tham Campaign (also known as the Route 18 Campaign) was launched, attacking the enemy's defense line in the area from Pha Lai to Uong Bi and Mao Khe.
 *   **May 6, 1951:** President Ho Chi Minh signed decree No. 15/SL to establish the **National Bank of Vietnam**.
 *   **May 28 - Jun. 20, 1951:** The Quang Trung Campaign was launched in the Ha Nam - Nam Dinh - Ninh Binh area to break the enemy's Day River defense line.
+*   **Jun. 28, 1951:** The Kampuchean People's Revolutionary Party was established.
 *   **Jul. 15, 1951:** Bao Dai signed a "General Mobilization" edict, establishing the so-called "national army" to implement France's "using Vietnamese to fight Vietnamese" scheme.
 *   **Sep. 1951:** The US signed the Economic Cooperation Treaty with the Bao Dai government.
 *   **Sep. 27 - Oct. 5, 1951:** The Central Committee held its second conference, outlining three major tasks: annihilate enemy manpower, thwart the enemy's "using war to feed war" scheme, and nurture the people's strength.
@@ -1320,6 +1334,7 @@
 *   **1954:** The government of South Vietnam took over Con Dao Island and continued to use it as a prison, with its infamous and brutal "tiger cages." The South Vietnamese government also continued to develop Phu Quoc Island and built the largest prisoner-of-war camp at that time.
 *   **Jan. 8, 1955:** The Ngo Dinh Diem administration issued Ordinance No. 2 and Ordinance No. 7 (Feb. 3, 1955) regarding land reform, aiming to reclaim land distributed to peasants during the resistance.
 *   **Mar. 1955:** The 7th Conference of the Central Committee of the Vietnam Workers' Party set out the tasks of consolidating the North and conducting political struggle in the South.
+*   **Mar. 22, 1955:** The Lao People's Revolutionary Party was established.
 *   **May 13, 1955:** The last French soldiers withdrew from Haiphong; the North was completely liberated.
 *   **July 1955:** President Ho Chi Minh led a government delegation to visit socialist countries (China, USSR) to seek international support for the struggle to implement the Geneva Accords.
 *   **Jul. 17, 1955:** Ngo Dinh Diem declared his refusal to hold consultations for a general election to reunify the country.
@@ -1384,6 +1399,7 @@
 *   **Mar. 1964:** President Ho Chi Minh convened a **Special Political Conference** in Hanoi, calling on all people to unite to resist the US and save the country.
 *   **Aug. 2-4, 1964:** The US fabricated the **"Gulf of Tonkin Incident"** as a pretext to escalate the war.
 *   **Aug. 5, 1964:** The US Air Force bombed and strafed several places in the North for the first time (Operation Pierce Arrow). The army and people of the North fought back fiercely, shooting down 8 US aircraft and capturing pilot Everett Alvarez, the first US prisoner of war in North Vietnam.
+*   **Nov. 14, 1964:** The Tan Dai Viet Party was founded.
 *   **Dec. 1964 - Jan. 1965:** **Binh Gia Campaign (Ba Ria):** The Liberation Army annihilated many main-force units of the Saigon army, marking the basic bankruptcy of the "Special War" strategy.
 *   **1965:** Madame **Nguyen Thi Dinh** was appointed Deputy Commander of the South Vietnam Liberation Army.
 *   **Feb. 1965:** The **"Three Readies"** movement for youth and the **"Three Responsibilities"** (Mar. 1965) movement for women were launched in the North.
@@ -1403,6 +1419,7 @@
 *   **May 26, 1965:** Battle of Nui Thanh (Quang Nam), for the first time, a main-force unit of the Liberation Army neatly wiped out a company of US Marines, initiating the "Find the Americans to fight, meet the Americans to destroy" movement.
 *   **Aug. 18, 1965:** The victory of Van Tuong (Quang Ngai). The Liberation Army defeated the first major operation by US troops, considered the "Ap Bac for the US military."
 *   **Oct. 19 - Nov. 26, 1965:** The Liberation Army launched the Pleime - Ia Drang campaign in the Central Highlands, defeating the US 1st Air Cavalry Division.
+*   **Dec. 25, 1965:** The Dai Viet Revolutionary Party was founded.
 *   **Dec. 1965:** The 12th Conference of the Party Central Committee (3rd tenure) made the strategic resolution to "defeat the US aggressors" and foresaw the strategy of "fighting while negotiating".
 *   **Jan. 16, 1966:** President Ho Chi Minh spoke at a high-level cadre conference studying the 12th Central Committee Resolution, affirming the determination to defeat the US aggressors regardless of troop numbers.
 *   **Jan. 8 - Jan. 19, 1966:** The US and allied forces launched **Operation Crimp** with 12,000 troops, tanks, and B-52 support targeting the "Iron Triangle" (Cu Chi) to destroy the headquarters of the Saigon - Gia Dinh Military Zone. The revolutionary forces relied on the tunnel system to counterattack and preserve their forces.

@@ -976,7 +976,7 @@
 *   **11/1911:** Albert Sarraut nhậm chức Toàn quyền, tiếp tục đẩy mạnh chính sách "hợp tác" và các cải cách mị dân.
 *   **05/1912:** Phan Bội Châu thành lập Hội Việt Nam Quang Phục tại Quảng Châu (Trung Quốc), chuyển từ chủ trương quân chủ lập hiến sang dân chủ cộng hòa.
 *   **1913:** Tuyến đường sắt Bắc - Nam về cơ bản được hoàn thành, nối liền Hà Nội và Sài Gòn.
-*   **12/04/1913:** Thành viên của Việt Nam Quang Phục Hội ám sát Tuần phủ Thái Bình Nguyễn Duy Hàn.
+*   **19/04/1913:** Thành viên của Việt Nam Quang Phục Hội (Phạm Văn Tráng) ám sát Tuần phủ Thái Bình Nguyễn Duy Hàn.
 *   **26/04/1913:** Một vụ ném bom khác xảy ra tại Khách sạn Hà Nội, giết chết 2 sĩ quan Pháp.
 *   **24/12/1913:** Phan Bội Châu bị bắt tại Quảng Đông, Trung Quốc.
 
@@ -987,7 +987,7 @@
 *   **1915 - 1916:** Thực dân Pháp bắt đầu chế độ "lính tình nguyện" (bắt lính) quy mô lớn ở Đông Dương để phục vụ cho Chiến tranh thế giới thứ nhất.
 *   **1915:** Kỳ thi Hương cuối cùng được tổ chức ở Bắc Kỳ, đánh dấu sự kết thúc của nền khoa cử Nho học tại đây.
 *   **13/03/1915:** Nghĩa quân của Hội Việt Nam Quang Phục tấn công đồn Tà Lùng (Lạng Sơn) nhưng thất bại.
-*   **02/09/1915:** Tù nhân chính trị ở nhà tù Lao Bảo do Hồ Bá Kiện và Liêu Thanh lãnh đạo nổi dậy phá ngục.
+*   **28/09/1915:** Tù nhân chính trị ở nhà tù Lao Bảo do Hồ Bá Kiện và Liêu Thanh lãnh đạo nổi dậy phá ngục.
 *   **15/02/1916:** Các hội kín ở Nam Kỳ tổ chức cuộc bạo động lớn tại Sài Gòn, mưu đồ phá Khám lớn để giải cứu Phan Xích Long nhưng thất bại.
 *   **03/05/1916:** Cuộc khởi nghĩa do vua Duy Tân cùng Thái Phiên, Trần Cao Vân lãnh đạo bị bại lộ và thất bại. Vua Duy Tân bị bắt và bị đày sang đảo Réunion.
 *   **08/1916:** Vua Khải Định ra lệnh cấm dân chúng mặc quần áo màu vàng và các màu gần với màu vàng để phân biệt tôn ti.
@@ -1059,9 +1059,11 @@
 *   **08/1925:** Cuộc bãi công của hơn 1.000 công nhân xưởng Ba Son (Sài Gòn) do Tôn Đức Thắng lãnh đạo, trì hoãn việc sửa chữa chiến hạm Jules Michelet của Pháp.
 *   **23/11/1925:** Thực dân Pháp đưa Phan Bội Châu ra xét xử tại Hà Nội, làm dấy lên một phong trào quần chúng rộng lớn đòi thả ông.
 *   **24/12/1925:** Toàn quyền Varenne ký lệnh "ân xá" và an trí Phan Bội Châu tại Huế.
+*   **21/03/1926:** Đảng Thanh niên Việt Nam (Jeune Annam) được thành lập.
 *   **24/03/1926:** Phan Châu Trinh qua đời tại Sài Gòn.
 *   **04/04/1926:** Đám tang Phan Châu Trinh được tổ chức long trọng tại Sài Gòn với sự tham gia của khoảng 14 vạn người, biến thành một cuộc biểu dương lực lượng quần chúng.
 *   **04/09/1926:** Nghị định thành lập các Ngân hàng Nông phố bình dân (Tín dụng nông nghiệp) ở Bắc Kỳ.
+*   **12/11/1926:** Đông Dương Lao động Đảng được thành lập tại Sài Gòn.
 *   **1927:** Tác phẩm *Đường Kách mệnh* của Nguyễn Ái Quốc được xuất bản.
 *   **25/02/1927:** Thống sứ Bắc Kỳ Robin ra nghị định sửa đổi cuộc cải lương hương chính, cho phép Hội đồng kỳ mục cũ tồn tại song song với Hội đồng tộc biểu.
 *   **03/1927:** Đại hội đồng Giáo hội Tin Lành được tổ chức tại Đà Nẵng.
@@ -1078,8 +1080,8 @@
 *   **03/1929:** Chi bộ Cộng sản đầu tiên được thành lập tại số nhà 5D Hàm Long, Hà Nội.
 *   **01-09/05/1929:** Đại hội lần thứ nhất của Hội Việt Nam Cách mạng Thanh niên diễn ra tại Hương Cảng.
 *   **17/06/1929:** Đông Dương Cộng sản Đảng được thành lập tại Hà Nội.
-*   **09/1929:** An Nam Cộng sản Đảng được thành lập tại Nam Kỳ.
-*   **12/1929:** Đông Dương Cộng sản Liên đoàn được thành lập từ các đảng viên tiên tiến của Tân Việt.
+*   **15/11/1929:** An Nam Cộng sản Đảng được thành lập tại Sài Gòn.
+*   **01/01/1930:** Đông Dương Cộng sản Liên đoàn chính thức thành lập tại Hà Tĩnh.
 *   **03/02/1930:** Hội nghị hợp nhất các tổ chức cộng sản diễn ra tại Cửu Long (Hương Cảng) dưới sự chủ trì của Nguyễn Ái Quốc, thành lập Đảng Cộng sản Việt Nam.
 *   **10/02/1930:** Cuộc khởi nghĩa Yên Bái do Việt Nam Quốc dân Đảng lãnh đạo bùng nổ nhưng nhanh chóng thất bại.
 *   **17/06/1930:** Nguyễn Thái Học cùng 12 đồng chí khác của Việt Nam Quốc dân Đảng bị hành quyết tại Yên Bái.
@@ -1108,22 +1110,27 @@
 
 ### **Thời kỳ Mặt trận Dân chủ (1936 - 1939)**
 
+*   **1936:** Đại Việt Quốc gia Xã hội Đảng được thành lập.
 *   **03/05/1936:** Mặt trận Nhân dân Pháp do Léon Blum đứng đầu thắng cử, mở ra một thời kỳ thuận lợi cho phong trào dân chủ ở các thuộc địa.
 *   **07/1936:** Hội nghị Ban Chấp hành Trung ương Đảng tại Thượng Hải (Trung Quốc) do đồng chí Lê Hồng Phong chủ trì, quyết định thành lập Mặt trận Thống nhất Nhân dân Phản đế Đông Dương.
 *   **08/1936:** Phong trào "Đông Dương Đại hội" bắt đầu sôi nổi, nhằm thu thập "dân nguyện" để gửi cho phái đoàn điều tra của Quốc hội Pháp. Hàng trăm "Ủy ban hành động" được thành lập trên cả nước.
 *   **13/11/1936:** Cuộc tổng bãi công của hơn 3 vạn công nhân mỏ vùng Hòn Gai, Cẩm Phả nổ ra và giành thắng lợi lớn.
 *   **30/12/1936:** Chính phủ Pháp ban hành Sắc lệnh về Luật Lao động ở Đông Dương, quy định một số chế độ cho người lao động.
 *   **1936:** Rời nhà tù Côn Đảo trở về, Lê Duẩn hoạt động ở Trung Kỳ. Trên cương vị Bí thư Xứ ủy Trung Kỳ, ông đã lãnh đạo phong trào Mặt trận Dân chủ (1936 - 1939), đấu tranh đòi quyền dân sinh, dân chủ.
+*   **1937:** Đảng Dân chủ Đông Dương được thành lập.
 *   **01/01 - 14/03/1937:** Phái viên Justin Godart của chính phủ Pháp sang điều tra tình hình Đông Dương, làm dấy lên một phong trào quần chúng rầm rộ đón tiếp và đưa yêu sách.
 *   **05/05/1937:** Tổng Bí thư Hà Huy Tập (bút danh Thanh Hương) xuất bản tác phẩm *Tờrốtxky và phản cách mạng*.
 *   **1938:** Nguyễn Ái Quốc trở lại Trung Quốc, hoạt động trong Bát lộ quân.
+*   **02/1938:** Đại Việt Dân chính Đảng được thành lập.
 *   **29/02/1938:** Vua Bảo Đại ra Dụ số 10, tách quần đảo Hoàng Sa khỏi địa hạt tỉnh Nam Ngãi và sáp nhập vào tỉnh Thừa Thiên để thuận tiện quản lý.
 *   **29-30/03/1938:** Hội nghị Ban Chấp hành Trung ương Đảng quyết định đổi tên Mặt trận thành Mặt trận Dân chủ Đông Dương và bầu đồng chí Nguyễn Văn Cừ làm Tổng Bí thư.
 *   **01/05/1938:** Cuộc mít tinh khổng lồ với 25.000 người tham gia được tổ chức công khai tại khu Đấu Xảo, Hà Nội để kỷ niệm ngày Quốc tế Lao động.
 *   **25/05/1938:** Hội Truyền bá quốc ngữ ra đời.
 *   **30/08/1938:** Chính phủ Pháp ban hành Sắc lệnh về tự do báo chí ở Nam Kỳ, cho phép xuất bản báo chí tiếng Việt mà không cần xin phép trước.
+*   **12/03/1939:** Việt Nam Phục quốc Đồng minh Hội chính thức ra mắt tại Thượng Hải.
 *   **1939:** Tổng Bí thư Nguyễn Văn Cừ xuất bản tác phẩm *Tự chỉ trích*.
 *   **05/07/1939:** Phật giáo Hòa Hảo, một tôn giáo nội sinh, được ông Huỳnh Phú Sổ sáng lập tại tỉnh An Giang.
+*   **10/12/1939:** Đại Việt Quốc dân Đảng được thành lập.
 
 ### **Thời kỳ Vận động Giải phóng Dân tộc và Cách mạng tháng Tám (1939 - 1945)**
 
@@ -1132,6 +1139,7 @@
 *   **06-08/11/1939:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ VI tại Bà Điểm (Hóc Môn), quyết định chuyển hướng chiến lược, đặt nhiệm vụ giải phóng dân tộc lên hàng đầu và thành lập Mặt trận Dân tộc Thống nhất Phản đế Đông Dương.
 *   **22/06/1940:** Chính phủ Pháp đầu hàng phát xít Đức.
 *   **1940:** Kiến trúc sư **Huỳnh Tấn Phát** mở văn phòng kiến trúc sư tư đầu tiên của người Việt ở Sài Gòn.
+*   **09/1940:** Việt Nam Kiến quốc quân (lực lượng vũ trang của Phục quốc Hội) tiến đánh Lạng Sơn.
 *   **22/09/1940:** Quân Nhật vượt biên giới, tấn công Lạng Sơn. Thực dân Pháp nhanh chóng ký hiệp định đầu hàng, chấp nhận cho Nhật vào Đông Dương.
 *   **27/09/1940:** Cuộc khởi nghĩa Bắc Sơn nổ ra.
 *   **06-09/11/1940:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ VII tại Đình Bảng (Bắc Ninh), quyết định duy trì lực lượng vũ trang Bắc Sơn và hoãn cuộc khởi nghĩa Nam Kỳ.
@@ -1141,14 +1149,18 @@
 *   **10-19/05/1941:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ VIII tại Pắc Bó (Cao Bằng) do Nguyễn Ái Quốc chủ trì, hoàn chỉnh đường lối giải phóng dân tộc và quyết định thành lập Mặt trận Việt Nam Độc lập Đồng minh (Việt Minh).
 *   **08/1942:** Lấy tên Hồ Chí Minh, Người sang Trung Quốc tranh thủ sự ủng hộ quốc tế nhưng bị chính quyền địa phương bắt giam. Trong thời gian bị tù, Người viết tập thơ *Nhật ký trong tù*.
 *   **01/10/1942:** Việt Nam Cách mệnh Đồng minh Hội (Việt Cách) được thành lập tại Liễu Châu (Trung Quốc), tập hợp nhiều đảng phái yêu nước.
+*   **01/01/1943:** Đại Việt Duy dân Cách mệnh Đảng được thành lập.
+*   **Đầu năm 1943:** Đại Việt Phục hưng Hội được thành lập.
 *   **10/09/1943:** Hồ Chí Minh được trả tự do.
 *   **1943:** Đảng Cộng sản Đông Dương công bố bản *Đề cương về Văn hóa Việt Nam*.
 *   **30/06/1944:** Đảng Dân chủ Việt Nam được thành lập, tập hợp tầng lớp tư sản dân tộc và trí thức yêu nước tham gia Mặt trận Việt Minh.
 *   **22/12/1944:** Đội Việt Nam Tuyên truyền Giải phóng quân, tiền thân của Quân đội Nhân dân Việt Nam, được thành lập tại khu rừng Trần Hưng Đạo (Cao Bằng).
 *   **24-25/12/1944:** Đội Việt Nam Tuyên truyền Giải phóng quân đánh thắng hai trận đầu tiên tại Phay Khắt và Nà Ngần.
+*   **10/03/1945:** Việt Nam Quốc gia Độc lập Đảng được thành lập.
 *   **09/03/1945:** Nhật đảo chính Pháp trên toàn cõi Đông Dương.
 *   **09-12/03/1945:** Ban Thường vụ Trung ương Đảng họp và ra chỉ thị lịch sử "Nhật - Pháp bắn nhau và hành động của chúng ta", phát động cao trào kháng Nhật cứu nước.
 *   **17/04/1945:** Chính phủ bù nhìn Trần Trọng Kim được thành lập dưới sự bảo hộ của Nhật.
+*   **21/04/1945:** Thanh niên Tiền phong được thành lập.
 *   **15/05/1945:** Các lực lượng vũ trang cách mạng thống nhất thành Việt Nam Giải phóng quân.
 *   **04/06/1945:** Khu Giải phóng Việt Bắc chính thức được thành lập.
 *   **13-15/08/1945:** Hội nghị toàn quốc của Đảng Cộng sản Đông Dương tại Tân Trào, quyết định phát động Tổng khởi nghĩa giành chính quyền trên cả nước.
@@ -1169,6 +1181,7 @@
 *   **02/09/1945:** Tại Quảng trường Ba Đình, Chủ tịch Hồ Chí Minh đọc Tuyên ngôn độc lập, khai sinh nước Việt Nam Dân chủ Cộng hòa.
 *   **03/09/1945:** Trong phiên họp đầu tiên của Chính phủ lâm thời, Chủ tịch Hồ Chí Minh đề ra các nhiệm vụ cấp bách: chống giặc đói, giặc dốt và giặc ngoại xâm.
 *   **04/09/1945:** Chính phủ ra Sắc lệnh số 4/SL lập "Quỹ Độc lập".
+*   **05/09/1945:** Chính phủ lâm thời ra sắc lệnh giải thể Đại Việt Quốc gia Xã hội Đảng và Đại Việt Quốc dân Đảng.
 *   **09/1945:** Nhân ngày khai trường đầu tiên của nước Việt Nam Dân chủ Cộng hòa, Chủ tịch Hồ Chí Minh gửi thư cho học sinh.
 *   **07/09/1945:** Chủ tịch Hồ Chí Minh ra chỉ thị thành lập Bộ Tổng tham mưu quân đội.
 *   **08/09/1945:** Chủ tịch Hồ Chí Minh ký Sắc lệnh số 14-SL, ấn định sẽ tổ chức Tổng tuyển cử trong vòng hai tháng.
@@ -1268,6 +1281,7 @@
 *   **23/03 - 07/04/1951:** Mở Chiến dịch Hoàng Hoa Thám (còn gọi là Chiến dịch đường số 18), tiến công phòng tuyến địch ở khu vực từ Phả Lại đến Uông Bí, Mạo Khê.
 *   **06/05/1951:** Chủ tịch Hồ Chí Minh ký sắc lệnh số 15/SL thành lập **Ngân hàng Quốc gia Việt Nam**.
 *   **28/05 - 20/06/1951:** Mở Chiến dịch Quang Trung ở khu vực Hà Nam - Nam Định - Ninh Bình nhằm phá vỡ phòng tuyến sông Đáy của địch.
+*   **28/06/1951:** Đảng Nhân dân Cách mạng Campuchia được thành lập.
 *   **15/07/1951:** Bảo Đại ký dụ "Tổng động viên", thành lập cái gọi là "quân đội quốc gia" nhằm thực hiện âm mưu "dùng người Việt đánh người Việt" của Pháp.
 *   **09/1951:** Mỹ ký Hiệp ước hợp tác kinh tế Việt - Mỹ với chính phủ Bảo Đại.
 *   **27/09 - 05/10/1951:** Ban Chấp hành Trung ương họp Hội nghị lần thứ hai, đề ra ba nhiệm vụ lớn: tiêu diệt sinh lực địch, phá âm mưu "lấy chiến tranh nuôi chiến tranh" của địch, và bồi dưỡng sức dân.
@@ -1320,6 +1334,7 @@
 *   **1954:** Chính quyền Việt Nam Cộng hòa tiếp quản Côn Đảo và tiếp tục sử dụng nơi đây làm nhà tù, với các "chuồng cọp" nổi tiếng tàn bạo. Chính quyền Việt Nam Cộng hòa cũng tiếp tục phát triển Phú Quốc và xây dựng trại giam tù binh lớn nhất lúc bấy giờ.
 *   **08/01/1955:** Chính quyền Ngô Đình Diệm ban hành Dụ số 2 và Dụ số 7 (03/02/1955) về cải cách điền địa, thực chất là cướp lại ruộng đất mà cách mạng đã chia cho nông dân, khôi phục giai cấp địa chủ.
 *   **03/1955:** Hội nghị lần thứ 7 Ban Chấp hành Trung ương Đảng Lao động Việt Nam đề ra nhiệm vụ củng cố miền Bắc và đấu tranh chính trị ở miền Nam.
+*   **22/03/1955:** Đảng Nhân dân Cách mạng Lào được thành lập.
 *   **08/1955:** Hội nghị lần thứ 8 Ban Chấp hành Trung ương Đảng Lao động Việt Nam khẳng định miền Bắc phải tiến lên chủ nghĩa xã hội.
 *   **13/05/1955:** Những người lính Pháp cuối cùng rút khỏi Hải Phòng, miền Bắc được hoàn toàn giải phóng.
 *   **07/1955:** Chủ tịch Hồ Chí Minh dẫn đầu đoàn đại biểu Chính phủ Việt Nam Dân chủ Cộng hòa đi thăm các nước xã hội chủ nghĩa để tranh thủ sự ủng hộ quốc tế.
@@ -1384,6 +1399,7 @@
 *   **03/1964:** Chủ tịch Hồ Chí Minh triệu tập **Hội nghị Chính trị đặc biệt** tại Hà Nội, kêu gọi toàn dân đoàn kết chống Mỹ, cứu nước.
 *   **02-04/08/1964:** Mỹ dựng lên **"Sự kiện Vịnh Bắc Bộ"** làm cớ để leo thang chiến tranh.
 *   **05/08/1964:** Không quân Mỹ lần đầu tiên ném bom bắn phá một số nơi ở miền Bắc (chiến dịch Mũi tên xuyên - Pierce Arrow). Quân dân miền Bắc đánh trả quyết liệt, bắn rơi 8 máy bay Mỹ, bắt sống phi công Everett Alvarez, tù binh phi công Mỹ đầu tiên tại miền Bắc.
+*   **14/11/1964:** Đảng Tân Đại Việt được thành lập.
 *   **12/1964 - 01/1965:** **Chiến dịch Bình Giã (Bà Rịa):** Quân Giải phóng tiêu diệt nhiều đơn vị chủ lực của quân đội Sài Gòn, đánh dấu sự phá sản về cơ bản của chiến lược "Chiến tranh đặc biệt".
 *   **1965:** Bà **Nguyễn Thị Định** được bổ nhiệm làm Phó Tư lệnh Quân Giải phóng miền Nam Việt Nam.
 *   **02/1965:** Phong trào **"Ba sẵn sàng"** của thanh niên và **"Ba đảm đang"** (03/1965) của phụ nữ được phát động ở miền Bắc.
@@ -1403,6 +1419,7 @@
 *   **26/05/1965:** Trận Núi Thành (Quảng Nam), lần đầu tiên một đơn vị chủ lực của Quân Giải phóng tiêu diệt gọn một đại đội lính thủy đánh bộ Mỹ, mở ra phong trào "Tìm Mỹ mà đánh, gặp Mỹ là diệt".
 *   **18/08/1965:** Chiến thắng Vạn Tường (Quảng Ngãi). Quân Giải phóng đánh bại cuộc hành quân lớn đầu tiên của quân Mỹ, được xem như "Ấp Bắc đối với quân Mỹ".
 *   **19/10 - 26/11/1965:** Quân Giải phóng mở chiến dịch Plâyme - Ia Đrăng ở Tây Nguyên, đánh bại Sư đoàn kỵ binh không vận số 1 của Mỹ.
+*   **25/12/1965:** Đảng Đại Việt Cách mạng được thành lập.
 *   **Tháng 12/1965:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ 12 (khóa III) hạ quyết tâm chiến lược "đánh thắng giặc Mỹ xâm lược", đồng thời dự kiến chiến lược "vừa đánh vừa đàm".
 *   **16/01/1966:** Chủ tịch Hồ Chí Minh phát biểu tại Hội nghị cán bộ cao cấp nghiên cứu Nghị quyết Trung ương 12, khẳng định quyết tâm đánh thắng giặc Mỹ xâm lược bất kể chúng đưa vào bao nhiêu quân.
 *   **08/01 - 19/01/1966:** Mỹ và quân đồng minh mở cuộc hành quân **Crimp** với 12.000 quân, xe tăng và B-52 yểm trợ đánh vào vùng "Tam giác sắt" (Củ Chi) nhằm tiêu diệt cơ quan đầu não Quân khu Sài Gòn - Gia Định. Lực lượng cách mạng dựa vào hệ thống địa đạo để phản kích, bảo toàn lực lượng.
