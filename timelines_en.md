@@ -1366,14 +1366,13 @@
 *   **Dec. 1964 - Jan. 1965:** **Binh Gia Campaign (Ba Ria):** The Liberation Army annihilated many main-force units of the Saigon army, marking the basic bankruptcy of the "Special War" strategy.
 *   **1965:** Madame **Nguyen Thi Dinh** was appointed Deputy Commander of the South Vietnam Liberation Army.
 *   **Feb. 1965:** The **"Three Readies"** movement for youth and the **"Three Responsibilities"** (Mar. 1965) movement for women were launched in the North.
-*   **Feb. 7, 1965:** The US began its first air war of destruction against the North with Operation **"Rolling Thunder."**
+*   **Feb. 7, 1965:** The US launched Operation "Flaming Dart I," bombing Vinh Linh and Dong Hoi, officially beginning the war of destruction against the North.
 *   **Mar. 1-9, 1965:** The Indochinese People's Conference was held in Phnom Penh, demonstrating the solidarity of the three nations against the US imperialists.
+*   **Mar. 2, 1965:** The US began the "Rolling Thunder" air campaign, systematically bombing the North.
 *   **Mar. 8, 1965:** The 9th Marine Expeditionary Brigade landed in Da Nang, marking the direct deployment of US combat troops and the beginning of the **"Local War"** strategy.
 
 ### **Period of Defeating the "Local War" Strategy (1965-1968)**
 
-*   **Feb. 7, 1965:** The US launched Operation "Flaming Dart I," bombing Vinh Linh and Dong Hoi, officially beginning the war of destruction against the North.
-*   **Mar. 2, 1965:** The US began the "Rolling Thunder" air campaign, systematically bombing the North.
 *   **Mar. 8, 1965:** Two battalions of US Marines landed in Da Nang, officially beginning the "Local War" strategy, directly deploying US combat troops to South Vietnam.
 *   **Mar. 22, 1965:** The National Liberation Front for South Vietnam issued a 5-point statement, affirming its determination to drive out the US imperialists.
 *   **Mar. 25-27, 1965:** The 11th Conference of the Party Central Committee (3rd tenure) defined the urgent task as "resisting the US, saving the country" and shifting the North to a wartime footing.

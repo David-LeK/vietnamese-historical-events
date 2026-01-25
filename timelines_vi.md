@@ -1366,14 +1366,13 @@
 *   **12/1964 - 01/1965:** **Chiến dịch Bình Giã (Bà Rịa):** Quân Giải phóng tiêu diệt nhiều đơn vị chủ lực của quân đội Sài Gòn, đánh dấu sự phá sản về cơ bản của chiến lược "Chiến tranh đặc biệt".
 *   **1965:** Bà **Nguyễn Thị Định** được bổ nhiệm làm Phó Tư lệnh Quân Giải phóng miền Nam Việt Nam.
 *   **02/1965:** Phong trào **"Ba sẵn sàng"** của thanh niên và **"Ba đảm đang"** (03/1965) của phụ nữ được phát động ở miền Bắc.
-*   **07/02/1965:** Mỹ bắt đầu cuộc chiến tranh phá hoại bằng không quân ra miền Bắc lần thứ nhất với chiến dịch **"Sấm Rền" (Rolling Thunder)**.
+*   **07/02/1965:** Mỹ mở chiến dịch "Mũi lao lửa 1", ném bom Vĩnh Linh, Đồng Hới, chính thức bắt đầu gây chiến tranh phá hoại miền Bắc.
 *   **01 - 09/03/1965:** Hội nghị nhân dân ba nước Đông Dương họp tại Phnôm Pênh (Campuchia), biểu thị tình đoàn kết chiến đấu chống kẻ thù chung là đế quốc Mỹ.
+*   **02/03/1965:** Mỹ bắt đầu chiến dịch không kích "Sấm rền" (Rolling Thunder) đánh phá miền Bắc một cách có hệ thống.
 *   **08/03/1965:** Lữ đoàn 9 Thủy quân Lục chiến Mỹ đổ bộ vào Đà Nẵng, đánh dấu việc Mỹ trực tiếp đưa quân chiến đấu vào tham chiến, mở đầu cho chiến lược **"Chiến tranh cục bộ"**.
 
 ### **Thời kỳ đánh bại chiến lược "Chiến tranh cục bộ" (1965-1968)**
 
-*   **07/02/1965:** Mỹ mở chiến dịch "Mũi lao lửa 1", ném bom Vĩnh Linh, Đồng Hới, chính thức bắt đầu gây chiến tranh phá hoại miền Bắc.
-*   **02/03/1965:** Mỹ bắt đầu chiến dịch không kích "Sấm rền" (Rolling Thunder) đánh phá miền Bắc một cách có hệ thống.
 *   **08/03/1965:** Hai tiểu đoàn lính thủy đánh bộ Mỹ đổ bộ vào Đà Nẵng, chính thức mở đầu chiến lược "Chiến tranh cục bộ", trực tiếp đưa quân chiến đấu của Mỹ vào miền Nam.
 *   **22/03/1965:** Mặt trận Dân tộc giải phóng miền Nam Việt Nam ra Tuyên bố 5 điểm, khẳng định quyết tâm đánh đuổi đế quốc Mỹ.
 *   **25-27/03/1965:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ 11 (khóa III) xác định nhiệm vụ cấp bách là "chống Mỹ, cứu nước", chuyển miền Bắc sang thời chiến.
