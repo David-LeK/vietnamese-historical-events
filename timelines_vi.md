@@ -506,6 +506,7 @@
 *   **1650:** Chính quyền Lê - Trịnh ban hành quy định cụ thể về quản lý người nước ngoài (Hoa Lang, Ô Lang, Nhật Bản), chỉ định nơi cư trú tại Thanh Trì, Khuyến Lương và quy định nghi thức đi lại.
 *   **1651:** Alexandre de Rhodes xuất bản từ điển Việt - Bồ - La, chuẩn hóa chữ viết.
 *   **1653:** Chúa Nguyễn đánh bại vua Chiêm Thành là Bà Tấm, lấy đất từ sông Phan Rang đến Phú Yên, lập ra dinh Thái Khang (nay là Khánh Hòa).
+*   **Khoảng 1653 - 1657:** Ông cố của anh em Tây Sơn là Hồ Phi Long từ Nghệ An vào lập nghiệp tại Quy Nhơn, đặt nền móng cho dòng họ tại vùng đất này.
 *   **1655 - 1660:** Cuộc chiến lần thứ năm, đây là lần duy nhất quân Nguyễn chủ động tấn công ra Bắc, chiếm được 7 huyện ở Nghệ An. Tuy nhiên sau đó do nội bộ bất hòa phải rút lui.
 *   **1657:** Chúa Trịnh Tráng mất, con là Trịnh Tạc lên nối ngôi (Tây Định Vương).
 *   **1658:** Chúa Hiền (Nguyễn Phúc Tần) cử quân sang giúp vua Chân Lạp là Batom Reachea (Ponhea So - con của bà Ngọc Vạn) dẹp loạn. Để tạ ơn, triều đình Chân Lạp đã hợp thức hóa chủ quyền của người Việt tại vùng đất **Đồng Nai**.
@@ -550,12 +551,11 @@
 *   **1757:** Vua Chân Lạp Nặc Tôn dâng đất Tầm Phong Long (nay thuộc Châu Đốc) và 5 phủ ở vùng Hà Tiên để tạ ơn. Toàn bộ vùng đất Nam Bộ về cơ bản thuộc chủ quyền của các chúa Nguyễn.
 *   **1764:** Lê Văn Duyệt sinh ra tại Định Tường (nguyên quán Quảng Ngãi). Ông sau này trở thành một danh tướng lẫy lừng, giữ chức Tổng trấn Gia Định thành và có công lớn trong việc khai phá, ổn định vùng đất Nam Bộ.
 *   **1765:** Chúa Nguyễn Phúc Khoát mất. Quyền thần Trương Phúc Loan lộng hành, lập Nguyễn Phúc Thuần (12 tuổi) lên ngôi, bắt giam Nguyễn Phúc Luân. Xã hội Đàng Trong bắt đầu đi vào khủng hoảng sâu sắc.
+*   **1765:** Quyền thần Trương Phúc Loan chuyên quyền, gây cảnh loạn lạc. Thầy giáo Trương Văn Hiến trốn vào An Thái dạy văn võ cho ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ, chuẩn bị nền tảng mưu lược cho cuộc khởi nghĩa.
 *   **1767:** Chúa Trịnh Doanh mất, con là Trịnh Sâm lên nối ngôi (Tĩnh Đô Vương).
 
 ### **Thời kỳ Tây Sơn (1771 - 1802)**
 
-*   **Khoảng 1653 - 1657:** Ông cố của anh em Tây Sơn là Hồ Phi Long từ Nghệ An vào lập nghiệp tại Quy Nhơn, đặt nền móng cho dòng họ tại vùng đất này.
-*   **1765:** Quyền thần Trương Phúc Loan chuyên quyền, gây cảnh loạn lạc. Thầy giáo Trương Văn Hiến trốn vào An Thái dạy văn võ cho ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ, chuẩn bị nền tảng mưu lược cho cuộc khởi nghĩa.
 *   **1771 - 1801:** Nguyễn Ánh nhiều lần chạy ra Phú Quốc ẩn náu khi bị quân Tây Sơn truy đuổi.
 *   **1771:** Ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ dựng cờ khởi nghĩa ở Tây Sơn Thượng đạo (An Khê, Gia Lai) với khẩu hiệu "lấy của người giàu chia cho người nghèo". Nguyễn Nhạc được tôn làm **Tây Sơn Vương**. Nhận được sự ủng hộ mạnh mẽ của các dân tộc thiểu số (người Xà Đàng, Ba Na) vùng An Khê, Nguyễn Nhạc được đồng bào tôn xưng là "Vua Trời", tạo dựng cơ sở vững chắc ban đầu cho cuộc khởi nghĩa. Các nhân vật kiệt xuất như Trần Quang Diệu, Võ Văn Dũng, Võ Đình Tú gia nhập nghĩa quân. Tương truyền nữ tướng Bùi Thị Xuân đã đánh hổ cứu Trần Quang Diệu trong thời gian này, mở đầu cho mối lương duyên và sự nghiệp lẫy lừng của hai người.
 *   **Mùa xuân 1773:** Một toán quân nhỏ gồm các nhóm dân tộc vùng cao và nông dân vùng đồng bằng từ An Khê, dưới sự chỉ huy của Nguyễn Nhạc, đã tràn xuống tấn công thủ phủ Quy Nhơn.

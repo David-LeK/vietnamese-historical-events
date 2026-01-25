@@ -506,6 +506,7 @@
 *   **1650:** The Le-Trinh court in Dang Ngoai promulgated specific regulations managing foreign merchants (Dutch, English, Japanese), designating residence areas in Thanh Tri and Khuyen Luong, and regulating their movement.
 *   **1651:** Alexandre de Rhodes published the Vietnamese - Portuguese - Latin dictionary, standardizing the script.
 *   **1653:** The Nguyen lord defeated the Champa king Ba Tam, taking land from the Phan Rang River to Phu Yen and establishing the Thai Khang garrison (now Khanh Hoa).
+*   **Mid-17th Century (approx. 1653 - 1657):** Ho Phi Long, the ancestor of the Tay Son brothers, migrated from Nghe An to Quy Nhon to establish a career, laying the family's foundation in the region.
 *   **1655 - 1660:** The fifth campaign, this was the only time the Nguyen army proactively attacked the North, capturing 7 districts in Nghe An. However, they later had to retreat due to internal discord.
 *   **1657:** Lord Trinh Trang passed away. His son, Trinh Tac, succeeded him as Lord (Tay Dinh Vuong).
 *   **1658:** Lord Nguyen Phuc Tan sent troops to assist King Batom Reachea (Ponhea So, son of Princess Ngoc Van) in stabilizing his throne against usurpers. In return, the Cambodian court officially recognized Vietnamese sovereignty over the **Dong Nai** region.
@@ -550,12 +551,11 @@
 *   **1757:** The Cambodian king Nặc Tôn (Ang Ton II) ceded the land of Tam Phong Long (now in Chau Doc) and five prefectures in the Ha Tien region as a token of gratitude. The entire Southern region basically came under the sovereignty of the Nguyen lords.
 *   **1764:** Le Van Duyet was born in Dinh Tuong (originally from Quang Ngai). He would become a high-ranking mandarin, a brilliant general, and the Governor-General of Gia Dinh citadel, playing a crucial role in the development of Southern Vietnam.
 *   **1765:** Lord Nguyen Phuc Khoat passed away. The powerful mandarin Truong Phuc Loan abused his power, enthroning Nguyen Phuc Thuan (12 years old) and imprisoning Nguyen Phuc Luan. Society in Dang Trong began to enter a deep crisis.
+*   **1765:** The regent Truong Phuc Loan usurped power, causing social turmoil. Teacher Truong Van Hien fled to An Thai and taught literature and martial arts to the three Tay Son brothers (Nguyen Nhac, Nguyen Hue, Nguyen Lu), preparing the intellectual and martial basis for the uprising.
 *   **1767:** Lord Trinh Doanh passed away. His son, Trinh Sam, succeeded him as Lord (Tinh Do Vuong).
 
 ### **Tay Son Period (1771 - 1802)**
 
-*   **Mid-17th Century (approx. 1653 - 1657):** Ho Phi Long, the ancestor of the Tay Son brothers, migrated from Nghe An to Quy Nhon to establish a career, laying the family's foundation in the region.
-*   **1765:** The regent Truong Phuc Loan usurped power, causing social turmoil. Teacher Truong Van Hien fled to An Thai and taught literature and martial arts to the three Tay Son brothers (Nguyen Nhac, Nguyen Hue, Nguyen Lu), preparing the intellectual and martial basis for the uprising.
 *   **1771 - 1801:** Nguyen Anh repeatedly sought refuge on Phu Quoc Island when pursued by the Tay Son forces.
 *   **1771:** The three brothers Nguyen Nhac, Nguyen Hue, and Nguyen Lu raised the flag of rebellion in Tay Son Thuong dao (An Khe, Gia Lai) with the slogan "take from the rich and give to the poor." Nguyen Nhac was proclaimed **Tay Son Vuong** (King of Tay Son). They gained strong support from ethnic minorities (Sedang, Bahnar) in the An Khe region, where Nguyen Nhac was revered as the "King of Heaven", creating a solid initial base for the uprising. Prominent martial artists and strategists joined the uprising, including Tran Quang Dieu, Vo Van Dung, and Vo Dinh Tu. Legend has it that the female warrior Bui Thi Xuan saved Tran Quang Dieu from a tiger during this period, leading to their marriage and lifelong comradeship in the Tay Son army.
 *   **Spring 1773:** A small army comprising highland ethnic groups and lowland peasants from the An Khe plateau, led by Nguyen Nhac, descended to attack the provincial capital of Quy Nhon.
