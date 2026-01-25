@@ -449,15 +449,20 @@
 *   **Nov. 3, 1540:** Mac Dang Dung tied himself with rope, walked barefoot to the Nam Quan border gate, and surrendered to the Ming dynasty generals. The Ming accepted, but downgraded An Nam to a Command Commission and appointed the Mac as Command Commissioners. The Mac court had to cede four frontier regions to the Ming.
 *   **Aug. 27, 1541:** Mac Dang Dung passed away.
 *   **1543:** The Le-Trinh army returned from Ai Lao, recaptured Tay Do Citadel (Thanh Hoa), and officially established the Thanh-Nghe region as their base.
-*   **1545:** Nguyen Kim was poisoned to death by a surrendered Mac general named Duong Chap Nhat. His son-in-law, Trinh Kiem, took over, seizing all military power.
+*   **1545:** Nguyen Kim was poisoned to death by a surrendered Mac general. His son-in-law, Trinh Kiem, took over, seizing all military power, and conflicts between the Trinh and Nguyen clans began to arise.
 *   **1546:** Mac Phuc Hai passed away, Mac Phuc Nguyen succeeded him. The Mac court experienced internal conflict between the faction of Mac Kinh Dien (supporting Phuc Nguyen) and Pham Tu Nghi (supporting Mac Chinh Trung).
 *   **1551:** The rebellion of Pham Tu Nghi and Mac Chinh Trung was suppressed.
-*   **1558:** Trinh Kiem appointed Nguyen Hoang (son of Nguyen Kim) as governor of Thuan Hoa to expand his power and guard against Mac forces from the sea.
+*   **1558:** Trinh Kiem appointed Nguyen Hoang (son of Nguyen Kim) as governor of Thuan Hoa to expand his power and guard against Mac forces from the sea. Nguyen Hoang began building a base for his separate domain in the South.
 *   **Early 1564:** Mac Kinh Chi, eldest son of Mac Kinh Dien, was demoted to commoner status for committing adultery with his father's concubine.
 *   **1570:** Trinh Kiem passed away. His sons, Trinh Coi and Trinh Tung, fought for power. Trinh Coi lost and surrendered to the Mac. Trinh Tung took power and continued the anti-Mac campaign.
+*   **1570:** Nguyen Hoang was assigned to govern both Thuan Hoa and Quang Nam, and his power grew.
 *   **1570 - 1583:** A period of strong Mac counter-offensives. Mac Kinh Dien led multiple campaigns into Thanh Hoa and Nghe An, causing many difficulties for the Le-Trinh forces.
+*   **1572:** Dao Duy Tu, a renowned scholar and military strategist who would later serve the Nguyen Lords, was born in Thanh Hoa.
+*   **1578:** Japanese pirates (Wako) raided the coast of Dang Trong, plundering merchant ships.
 *   **Nov. 1580:** The Mac dynasty's key pillar, Mac Kinh Dien, passed away.
 *   **1583 - 1592:** A period of Le-Trinh counter-offensives. Trinh Tung launched successive major attacks to the North.
+*   **1585:** Prince Nguyen Phuc Nguyen commanded a naval force to defeat a fleet of Japanese pirates (Wako) led by Shirahama Kenchi at Cua Viet, destroying two ships.
+*   **1585:** The renowned scholar and prophet Nguyen Binh Khiem passed away.
 *   **Jan. 1592:** Trinh Tung entered and liberated Thang Long. Mac Mau Hop abandoned the capital and fled.
 *   **Early 1592:** Trinh Tung led a large army north, defeating the main force of the Mac army in a decisive battle.
 *   **Dec. 1592:** Trinh Tung captured Mac Mau Hop. Mau Hop was hung alive for three days and then beheaded at Bo De sandbank. The Mac dynasty in Thang Long officially collapsed.
@@ -467,16 +472,6 @@
 
 ### **Period of Division: Dang Trong - Dang Ngoai (1527 - 1771)**
 
-*   **1527:** Mac Dang Dung usurped the throne of the Early Le dynasty, establishing the Mac dynasty.
-*   **1533:** Nguyen Kim (a former Le official) found Le Ninh (son of King Le Chieu Tong), established him as king (Le Trang Tong) in Ai Lao (Laos), and began the "support the Le, destroy the Mac" movement.
-*   **1545:** Nguyen Kim was poisoned to death by a surrendered Mac general. His son-in-law, Trinh Kiem, took over, seizing all military power, and conflicts between the Trinh and Nguyen clans began to arise.
-*   **Oct. 1558:** Trinh Kiem appointed Nguyen Hoang (second son of Nguyen Kim) as governor of Thuan Hoa to avoid jealousy. Nguyen Hoang began building a base for his separate domain in the South.
-*   **1570:** Nguyen Hoang was assigned to govern both Thuan Hoa and Quang Nam, and his power grew.
-*   **1572:** Dao Duy Tu, a renowned scholar and military strategist who would later serve the Nguyen Lords, was born in Thanh Hoa.
-*   **1578:** Japanese pirates (Wako) raided the coast of Dang Trong, plundering merchant ships.
-*   **1585:** Prince Nguyen Phuc Nguyen commanded a naval force to defeat a fleet of Japanese pirates (Wako) led by Shirahama Kenchi at Cua Viet, destroying two ships.
-*   **1585:** The renowned scholar and prophet Nguyen Binh Khiem passed away.
-*   **1592:** Trinh Tung completely defeated the Mac dynasty, retook Thang Long, and restored the Le dynasty. The remnants of the Mac dynasty retreated to Cao Bang.
 *   **Apr. 1599:** The Le king conferred upon Trinh Tung the title of Do Nguyen Suy, Thuong phu Binh An Vuong (Supreme Commander-in-Chief, Grand Preceptor, and Prince of Pacification), officially forming the Le King - Trinh Lord institution in Dang Ngoai (the North).
 *   **1600:** Nguyen Hoang returned to Thuan Quang from the North and began implementing new administrative policies, gradually breaking away from the control of the Trinh lords.
 *   **1601:** Shogun Tokugawa Ieyasu sent an official letter to Lord Nguyen Hoang to establish trade relations and control Japanese merchants (Red Seal ships).

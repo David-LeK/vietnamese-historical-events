@@ -449,15 +449,20 @@
 *   **03/11/1540:** Mạc Đăng Dung tự quấn dây vào cổ, đi chân đất đến cửa ải Nam Quan xin hàng tướng nhà Minh. Nhà Minh chấp nhận, nhưng hạ An Nam xuống làm Đô thống sứ ty, phong cho họ Mạc chức Đô thống sứ. Triều Mạc phải cắt đất 4 động ở biên giới cho nhà Minh.
 *   **27/08/1541:** Mạc Đăng Dung mất.
 *   **1543:** Quân Lê-Trịnh từ Ai Lao về, chiếm lại được thành Tây Đô (Thanh Hóa), chính thức lấy vùng Thanh - Nghệ làm căn cứ địa.
-*   **1545:** Nguyễn Kim bị một hàng tướng nhà Mạc là Dương Chấp Nhất đầu độc chết. Con rể là Trịnh Kiểm lên thay, nắm toàn bộ binh quyền.
+*   **1545:** Nguyễn Kim bị một hàng tướng nhà Mạc đầu độc chết. Con rể là Trịnh Kiểm lên thay, nắm toàn bộ binh quyền, mâu thuẫn giữa hai dòng họ Trịnh-Nguyễn bắt đầu nảy sinh.
 *   **1546:** Mạc Phúc Hải mất, Mạc Phúc Nguyên lên kế vị. Nội bộ triều Mạc xảy ra tranh chấp giữa phe Mạc Kính Điển (ủng hộ Phúc Nguyên) và Phạm Tử Nghi (ủng hộ Mạc Chính Trung).
 *   **1551:** Cuộc nổi loạn của Phạm Tử Nghi và Mạc Chính Trung bị dẹp yên.
-*   **1558:** Trịnh Kiểm cử Nguyễn Hoàng (con trai Nguyễn Kim) vào trấn thủ Thuận Hóa để mở rộng thế lực và phòng bị quân Mạc từ phía biển.
+*   **1558:** Trịnh Kiểm cử Nguyễn Hoàng (con trai Nguyễn Kim) vào trấn thủ Thuận Hóa để mở rộng thế lực và phòng bị quân Mạc từ phía biển. Nguyễn Hoàng bắt đầu xây dựng cơ sở cát cứ ở phương Nam.
 *   **Đầu năm 1564:** Mạc Kinh Chỉ (con trưởng Mạc Kính Điển) tư thông với vợ lẽ của cha, bị giáng làm thứ dân.
 *   **1570:** Trịnh Kiểm mất. Con trai là Trịnh Cối và Trịnh Tùng tranh giành quyền lực. Trịnh Cối thua, đem quân hàng Mạc. Trịnh Tùng lên nắm quyền, tiếp tục sự nghiệp chống Mạc.
+*   **1570:** Nguyễn Hoàng được giao kiêm trấn thủ cả hai xứ Thuận Hóa và Quảng Nam, quyền lực ngày càng lớn.
 *   **1570 - 1583:** Giai đoạn quân Mạc phản công mạnh mẽ. Mạc Kính Điển nhiều lần đem quân vào đánh Thanh Hóa, Nghệ An, gây nhiều khó khăn cho quân Lê-Trịnh.
+*   **1572:** Đào Duy Từ, nhà quân sự và chính trị kiệt xuất của chúa Nguyễn sau này, sinh ra tại Thanh Hóa.
+*   **1578:** Hải tặc Nhật Bản (Wako) tấn công vùng biển Đàng Trong, cướp thuyền của thương nhân Trung Hoa.
 *   **11/1580:** Tướng trụ cột của nhà Mạc là Mạc Kính Điển mất.
 *   **1583 - 1592:** Giai đoạn quân Lê-Trịnh phản công. Trịnh Tùng liên tiếp mở các cuộc tấn công lớn ra Bắc.
+*   **1585:** Thế tử Nguyễn Phúc Nguyên chỉ huy thủy quân đánh tan đoàn thuyền của hải tặc Nhật Bản do Shirahama Kenchi chỉ huy tại Cửa Việt.
+*   **1585:** Nguyễn Bỉnh Khiêm qua đời tại quê nhà (28 tháng 11 năm Ất Dậu).
 *   **01/1592:** Trịnh Tùng tiến vào giải phóng Thăng Long. Mạc Mậu Hợp bỏ kinh thành chạy.
 *   **Đầu 1592:** Trịnh Tùng thống lĩnh đại quân tiến ra Bắc, đánh bại quân chủ lực của nhà Mạc trong một trận quyết định.
 *   **12/1592:** Trịnh Tùng bắt được Mạc Mậu Hợp. Mậu Hợp bị treo sống 3 ngày rồi bị chém đầu tại bãi cát Bồ Đề. Vương triều Mạc ở Thăng Long chính thức sụp đổ.
@@ -467,16 +472,6 @@
 
 ### **Thời kỳ Phân liệt Đàng Trong - Đàng Ngoài (1527 - 1771)**
 
-*   **1527:** Mạc Đăng Dung cướp ngôi nhà Lê Sơ, lập ra nhà Mạc.
-*   **1533:** Nguyễn Kim (cựu thần nhà Lê) tìm được Lê Ninh (con vua Lê Chiêu Tông), lập lên làm vua (Lê Trang Tông) ở Ai Lao, bắt đầu công cuộc "phù Lê diệt Mạc".
-*   **1545:** Nguyễn Kim bị một hàng tướng nhà Mạc đầu độc chết. Con rể là Trịnh Kiểm lên thay, nắm toàn bộ binh quyền, mâu thuẫn giữa hai dòng họ Trịnh-Nguyễn bắt đầu nảy sinh.
-*   **10/1558:** Trịnh Kiểm cử Nguyễn Hoàng (con trai thứ của Nguyễn Kim) vào trấn thủ Thuận Hóa để tránh sự đố kỵ. Nguyễn Hoàng bắt đầu xây dựng cơ sở cát cứ ở phương Nam.
-*   **1570:** Nguyễn Hoàng được giao kiêm trấn thủ cả hai xứ Thuận Hóa và Quảng Nam, quyền lực ngày càng lớn.
-*   **1572:** Đào Duy Từ, nhà quân sự và chính trị kiệt xuất của chúa Nguyễn sau này, sinh ra tại Thanh Hóa.
-*   **1578:** Hải tặc Nhật Bản (Wako) tấn công vùng biển Đàng Trong, cướp thuyền của thương nhân Trung Hoa.
-*   **1585:** Thế tử Nguyễn Phúc Nguyên chỉ huy thủy quân đánh tan đoàn thuyền của hải tặc Nhật Bản do Shirahama Kenchi chỉ huy tại Cửa Việt.
-*   **1585:** Nguyễn Bỉnh Khiêm qua đời tại quê nhà (28 tháng 11 năm Ất Dậu).
-*   **1592:** Trịnh Tùng đánh bại hoàn toàn nhà Mạc, chiếm lại Thăng Long, khôi phục triều Lê. Dư đảng nhà Mạc rút lên Cao Bằng.
 *   **04/1599:** Vua Lê tấn phong Trịnh Tùng làm Đô Nguyên súy, Thượng phụ Bình An vương, chính thức hình thành thể chế Vua Lê - Chúa Trịnh ở Đàng Ngoài.
 *   **1600:** Nguyễn Hoàng từ Bắc Hà trở về Thuận Quảng, bắt đầu thực hiện chính sách cai trị mới, từng bước tách khỏi sự ràng buộc của họ Trịnh.
 *   **1601:** Tướng quân Tokugawa Ieyasu gửi thư cho chúa Nguyễn Hoàng đề nghị thiết lập quan hệ giao thương và kiểm soát thương nhân Nhật Bản.
