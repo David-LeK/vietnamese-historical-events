@@ -790,14 +790,12 @@
 *   **08/1854:** Thành lập Tụ Khuê thư viện tại Hoàng thành Huế để lưu trữ sách vở.
 *   **1854 - 1855:** Cuộc nổi dậy của sĩ phu và nông dân do Cao Bá Quát khởi xướng ở vùng Sơn Tây, Hà Nội.
 *   **1856:** Tàu chiến Pháp *Catinat* đến gây hấn tại cửa biển Đà Nẵng, bắn phá các pháo đài.
-*   **01/09/1858:** Liên quân Pháp - Tây Ban Nha nổ súng tấn công bán đảo Sơn Trà (Đà Nẵng), chính thức bắt đầu cuộc xâm lược Việt Nam.
-*   **02/09/1858:** Liên quân Pháp - Tây Ban Nha tấn công và chiếm được đồn Điện Hải.
 
 ### **Thời kỳ Pháp xâm lược và phong trào kháng chiến (1858 - 1896)**
 
 *   **31/08/1858:** Liên quân Pháp - Tây Ban Nha dàn trận tại cửa biển Đà Nẵng.
-*   **01/09/1858:** Liên quân Pháp - Tây Ban Nha gửi tối hậu thư và nổ súng tấn công các đồn quân triều đình ở Đà Nẵng, chính thức bắt đầu cuộc xâm lược Việt Nam.
-*   **02/09/1858:** Quân Pháp chiếm được bán đảo Sơn Trà.
+*   **01/09/1858:** Liên quân Pháp - Tây Ban Nha nổ súng tấn công bán đảo Sơn Trà (Đà Nẵng), chính thức bắt đầu cuộc xâm lược Việt Nam.
+*   **02/09/1858:** Liên quân Pháp - Tây Ban Nha tấn công và chiếm được đồn Điện Hải. Quân Pháp chiếm được bán đảo Sơn Trà.
 *   **02/02/1859:** Liên quân Pháp - Tây Ban Nha do de Genouilly chỉ huy chuyển hướng, tiến vào Gia Định.
 *   **17/02/1859:** Quân Pháp tấn công và chiếm được thành Gia Định.
 *   **08/03/1859:** Quân Pháp cho phá hủy thành Gia Định, chỉ giữ lại một đồn nhỏ rồi rút phần lớn quân trở ra Đà Nẵng.

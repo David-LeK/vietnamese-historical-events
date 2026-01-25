@@ -790,14 +790,12 @@
 *   **Aug. 1854:** The **Tu Khue Library** was established within the Imperial Citadel to store royal books and documents.
 *   **1854 - 1855:** The uprising of scholars and peasants initiated by Cao Ba Quat in the Son Tay and Hanoi regions.
 *   **1856:** The French warship *Catinat* arrived at Da Nang and bombarded Vietnamese forts.
-*   **Sep. 1, 1858:** A French-Spanish coalition force opened fire on the Son Tra peninsula (Da Nang), officially beginning the invasion of Vietnam.
-*   **Sep. 2, 1858:** The French-Spanish coalition force attacked and captured Dien Hai fortress.
 
 ### **Period of French Invasion and Resistance Movements (1858 - 1896)**
 
 *   **Aug. 31, 1858:** A French-Spanish coalition force deployed at the Da Nang estuary.
-*   **Sep. 1, 1858:** The French-Spanish coalition force sent an ultimatum and opened fire on the court's military posts in Da Nang, officially beginning the invasion of Vietnam.
-*   **Sep. 2, 1858:** French forces occupied the Son Tra peninsula.
+*   **Sep. 1, 1858:** A French-Spanish coalition force opened fire on the Son Tra peninsula (Da Nang), officially beginning the invasion of Vietnam.
+*   **Sep. 2, 1858:** The French-Spanish coalition force attacked and captured Dien Hai fortress. French forces occupied the Son Tra peninsula.
 *   **Feb. 2, 1859:** The French-Spanish coalition force, led by de Genouilly, changed course and advanced on Gia Dinh.
 *   **Feb. 17, 1859:** French forces attacked and captured Gia Dinh Citadel.
 *   **Mar. 8, 1859:** French forces destroyed Gia Dinh Citadel, keeping only a small fort, and withdrew most of their troops back to Da Nang.
