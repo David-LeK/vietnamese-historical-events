@@ -1241,11 +1241,11 @@
 *   **Oct. 10-22, 1950:** Facing the threat of annihilation, French troops panicked and fled from a series of positions on Route 4, such as That Khe, Na Sam, and Lang Son.
 *   **Nov. 4, 1950:** French forces withdrew from Lao Cai and Sa Pa. The entire French border defense line was shattered.
 *   **Dec. 1950:** General De Lattre de Tassigny was sent to Indochina as High Commissioner and Commander-in-Chief, holding all military and civilian power.
-*   **Dec. 23, 1950:** The Mutual Defense Agreement for Indochina was signed between the US, France, and the puppet governments (Vietnam, Laos, Cambodia), formalizing US intervention.
 
 ### **Final Period of the Resistance War Against France (1951 - 1954)**
 
 *   **Dec. 6, 1950:** General De Lattre de Tassigny was appointed High Commissioner and Commander-in-Chief of the French army in Indochina, beginning the implementation of a new military plan.
+*   **Dec. 23, 1950:** The Mutual Defense Agreement for Indochina was signed between the US, France, and the puppet governments (Vietnam, Laos, Cambodia), formalizing US intervention.
 *   **Dec. 25, 1950 - Jan. 17, 1951:** The Vietnamese forces launched the Tran Hung Dao Campaign (also known as the Midlands Campaign), attacking the enemy's defense line in the Vinh Yen - Phuc Yen area.
 *   **Feb. 11-19, 1951:** The 2nd National Congress of the Indochinese Communist Party was held in Vinh Quang commune, Chiem Hoa district, Tuyen Quang.
     *   It was decided to bring the Party into open activity under the new name **Vietnam Workers' Party**.

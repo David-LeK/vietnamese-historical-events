@@ -1241,11 +1241,11 @@
 *   **10-22/10/1950:** Trước nguy cơ bị tiêu diệt, quân Pháp hoảng loạn rút chạy khỏi hàng loạt vị trí trên đường số 4 như Thất Khê, Na Sầm, Lạng Sơn.
 *   **04/11/1950:** Quân Pháp rút khỏi Lào Cai và Sa Pa. Toàn bộ tuyến phòng thủ biên giới của Pháp bị đập tan.
 *   **12/1950:** Tướng De Lattre de Tassigny được cử sang Đông Dương làm Cao ủy kiêm Tổng tư lệnh, nắm toàn bộ quyền lực quân sự và dân sự.
-*   **23/12/1950:** Hiệp định phòng thủ chung Đông Dương được ký kết giữa Mỹ, Pháp và các chính phủ bù nhìn (Việt Nam, Lào, Campuchia), chính thức hóa sự can thiệp của Mỹ.
 
 ### **Thời kỳ cuối cuộc kháng chiến chống Pháp (1951 - 1954)**
 
 *   **06/12/1950:** Tướng De Lattre de Tassigny được bổ nhiệm làm Cao ủy kiêm Tổng tư lệnh quân đội Pháp ở Đông Dương, bắt đầu triển khai kế hoạch quân sự mới.
+*   **23/12/1950:** Hiệp định phòng thủ chung Đông Dương được ký kết giữa Mỹ, Pháp và các chính phủ bù nhìn (Việt Nam, Lào, Campuchia), chính thức hóa sự can thiệp của Mỹ.
 *   **25/12/1950 - 17/01/1951:** Quân đội Việt Nam mở Chiến dịch Trần Hưng Đạo (còn gọi là Chiến dịch Trung du) tiến công phòng tuyến địch ở khu vực Vĩnh Yên - Phúc Yên.
 *   **11-19/02/1951:** Đại hội đại biểu toàn quốc lần thứ II của Đảng Cộng sản Đông Dương diễn ra tại xã Quang Vinh, huyện Chiêm Hóa, Tuyên Quang.
     *   Quyết định đưa Đảng ra hoạt động công khai với tên mới là **Đảng Lao động Việt Nam**.
