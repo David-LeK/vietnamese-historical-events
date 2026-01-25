@@ -1163,15 +1163,15 @@
 *   **02/03/1946:** Quốc hội khóa I họp kỳ đầu tiên, bầu ra Chính phủ liên hiệp kháng chiến do Hồ Chí Minh làm Chủ tịch.
 *   **06/03/1946:** Chủ tịch Hồ Chí Minh và Vũ Hồng Khanh thay mặt Chính phủ Việt Nam ký với J. Sainteny, đại diện Chính phủ Pháp, bản Hiệp định Sơ bộ.
 *   **09/03/1946:** Ban Thường vụ Trung ương Đảng ra Chỉ thị "Hòa để tiến".
+*   **24/03/1946:** Chủ tịch Hồ Chí Minh và Cao ủy Pháp D'Argenlieu hội đàm tại Vịnh Hạ Long.
 *   **06/04/1946:** Tướng Pháp Valluy ra chỉ thị bí mật cho Đại tá Vicaire về kế hoạch đánh chiếm xứ Nùng (Hải Ninh).
 *   **18/04/1946:** Tướng Valluy ra chỉ thị số 11 về kế hoạch an toàn và chiếm đóng các vị trí then chốt ở các thành phố.
+*   **19/04/1946:** Hội nghị trù bị Đà Lạt khai mạc để chuẩn bị cho cuộc đàm phán chính thức tại Pháp.
+*   **20/04/1946:** Mặt trận Quốc gia Liên hiệp được thành lập tại miền Nam, ban đầu chủ trương chống Pháp nhưng sau bị phân hóa.
 *   **21/04/1946:** Đại tá Vicaire báo cáo với Valluy về kế hoạch chiếm đóng tam giác Hà Nội - Hải Dương - Hòn Gai - Móng Cái và Lạng Sơn.
 
 ### **Giai đoạn Hòa hoãn và Chuẩn bị Toàn quốc Kháng chiến (1946)**
 
-*   **24/03/1946:** Chủ tịch Hồ Chí Minh và Cao ủy Pháp D'Argenlieu hội đàm tại Vịnh Hạ Long.
-*   **19/04/1946:** Hội nghị trù bị Đà Lạt khai mạc để chuẩn bị cho cuộc đàm phán chính thức tại Pháp.
-*   **20/04/1946:** Mặt trận Quốc gia Liên hiệp được thành lập tại miền Nam, ban đầu chủ trương chống Pháp nhưng sau bị phân hóa.
 *   **05/1946:** Hội nghị Thường vụ Trung ương Đảng chỉ định đồng chí Lê Duẩn làm Bí thư Xứ ủy lâm thời Nam Bộ để củng cố và tăng cường sự lãnh đạo của Đảng trong cuộc kháng chiến ở miền Nam.
 *   **11/05/1946:** Hội nghị trù bị Đà Lạt kết thúc mà không đạt được thỏa thuận về các vấn đề cơ bản.
 *   **19/05/1946:** Lần đầu tiên kỷ niệm ngày sinh Chủ tịch Hồ Chí Minh được tổ chức công khai nhằm biểu thị tinh thần đại đoàn kết dân tộc.

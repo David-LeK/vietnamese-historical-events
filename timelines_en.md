@@ -1163,15 +1163,15 @@
 *   **Mar. 2, 1946:** The 1st National Assembly held its first session, electing the Coalition Resistance Government with Ho Chi Minh as President.
 *   **Mar. 6, 1946:** President Ho Chi Minh and Vu Hong Khanh, on behalf of the Vietnamese Government, signed the Preliminary Agreement with J. Sainteny, representative of the French Government.
 *   **Mar. 9, 1946:** The Party Central Standing Committee issued the directive "Peace to Advance."
+*   **Mar. 24, 1946:** President Ho Chi Minh and French High Commissioner D'Argenlieu held talks in Ha Long Bay.
 *   **Apr. 6, 1946:** French General Valluy issued secret instructions to Colonel Vicaire regarding plans to occupy the Nung territory (Hai Ninh).
 *   **Apr. 18, 1946:** General Valluy issued Instruction No. 11 outlining plans to occupy key positions in cities and stage coups.
+*   **Apr. 19, 1946:** The Da Lat Preparatory Conference opened to prepare for official negotiations in France.
+*   **Apr. 20, 1946:** The United National Front (Mat tran Quoc gia Lien hiep) was established in the South, initially with an anti-French stance but later divided.
 *   **Apr. 21, 1946:** Colonel Vicaire reported to Valluy on plans to occupy the strategic triangle of Hanoi - Hai Duong - Hon Gai - Mong Cai and Lang Son.
 
 ### **Period of Détente and Preparation for Nationwide Resistance (1946)**
 
-*   **Mar. 24, 1946:** President Ho Chi Minh and French High Commissioner D'Argenlieu held talks in Ha Long Bay.
-*   **Apr. 19, 1946:** The Da Lat Preparatory Conference opened to prepare for official negotiations in France.
-*   **Apr. 20, 1946:** The United National Front (Mat tran Quoc gia Lien hiep) was established in the South, initially with an anti-French stance but later divided.
 *   **May 1946:** The Standing Committee of the Party Central Committee appointed Le Duan as Secretary of the Provisional Party Committee of Nam Bo to consolidate and strengthen the Party's leadership in the South.
 *   **May 11, 1946:** The Da Lat Preparatory Conference concluded without reaching agreement on fundamental issues.
 *   **May 19, 1946:** The birthday of President Ho Chi Minh was celebrated publicly for the first time, becoming a demonstration of national unity.
