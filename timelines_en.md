@@ -1284,6 +1284,7 @@
 *   **May 1 - May 7, 1954:** In the third phase of the campaign, the Vietnamese forces annihilated the remaining strongpoints and launched a general offensive.
 *   **May 7, 1954:** At 5:30 PM, the "Determined to Fight, Determined to Win" flag flew over the roof of De Castries' command bunker. General De Castries and his entire staff were captured alive. **The Dien Bien Phu Campaign was completely victorious.**
 *   **May 8, 1954:** The **Geneva Conference** began its first session to discuss the restoration of peace in Indochina.
+*   **Oct. 10, 1954:** The Vietnam People's Army marched into and took over the capital city of Hanoi.
 *   **May 16, 1955:** French forces withdrew from Haiphong, the North was completely liberated, ending the 9-year resistance war against France.
 
 ### **Period of Division and Building Socialism in the North (1954 - 1960)**
@@ -1295,8 +1296,8 @@
     *   The 17th parallel was established as a provisional military demarcation line.
     *   The armies of both sides were to regroup to the North and South.
     *   A free general election was scheduled to be held in July 1956 to unify the country.
-*   **Sep. 6, 1954:** The US formed the Southeast Asia Treaty Organization (SEATO) and placed South Vietnam, Laos, and Cambodia under its "protection."
 *   **Aug. 8, 1954:** The Can Lao Nhan Vi Party (Personalist Labor Revolutionary Party) officially debuted in the South, founded by Ngo Dinh Nhu.
+*   **Sep. 6, 1954:** The US formed the Southeast Asia Treaty Organization (SEATO) and placed South Vietnam, Laos, and Cambodia under its "protection."
 *   **Sep. 5-7, 1954:** The Politburo of the Vietnam Workers' Party passed a resolution on "The new situation, new tasks and new policy", marking the transition of the revolutionary struggle from war to peace, shifting the focus in the South to political struggle to demand the implementation of the Geneva Accords.
 *   **Sep. 1954:** The Saigon - Cho Lon Zone was established (previously the Saigon - Cho Lon Special Zone) to suit the revolutionary leadership in the new situation.
 *   **Oct. 10, 1954:** The Vietnam People's Army entered to take over the capital city of Hanoi.
