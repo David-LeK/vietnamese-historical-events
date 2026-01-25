@@ -1041,18 +1041,17 @@
 *   **01-09/05/1929:** Đại hội lần thứ nhất của Hội Việt Nam Cách mạng Thanh niên diễn ra tại Hương Cảng.
 *   **17/06/1929:** Đông Dương Cộng sản Đảng được thành lập tại Hà Nội.
 *   **15/11/1929:** An Nam Cộng sản Đảng được thành lập tại Sài Gòn.
-*   **01/01/1930:** Đông Dương Cộng sản Liên đoàn chính thức thành lập tại Hà Tĩnh.
-*   **03/02/1930:** Hội nghị hợp nhất các tổ chức cộng sản diễn ra tại Cửu Long (Hương Cảng) dưới sự chủ trì của Nguyễn Ái Quốc, thành lập Đảng Cộng sản Việt Nam.
-*   **10/02/1930:** Cuộc khởi nghĩa Yên Bái do Việt Nam Quốc dân Đảng lãnh đạo bùng nổ nhưng nhanh chóng thất bại.
-*   **17/06/1930:** Nguyễn Thái Học cùng 12 đồng chí khác của Việt Nam Quốc dân Đảng bị hành quyết tại Yên Bái.
 
 ### **Thời kỳ Khủng hoảng Kinh tế và Cao trào Cách mạng (1930 - 1935)**
 
-*   **02/1930:** Đảng Cộng sản Việt Nam được thành lập (sau đổi tên thành Đảng Cộng sản Đông Dương).
+*   **01/01/1930:** Đông Dương Cộng sản Liên đoàn chính thức thành lập tại Hà Tĩnh.
 *   **02/1930:** Cuộc khởi nghĩa Yên Bái do Việt Nam Quốc dân Đảng lãnh đạo nổ ra và thất bại.
+*   **03/02/1930:** Hội nghị hợp nhất các tổ chức cộng sản diễn ra tại Cửu Long (Hương Cảng) dưới sự chủ trì của Nguyễn Ái Quốc, thành lập Đảng Cộng sản Việt Nam.
+*   **10/02/1930:** Cuộc khởi nghĩa Yên Bái do Việt Nam Quốc dân Đảng lãnh đạo bùng nổ nhưng nhanh chóng thất bại.
 *   **09/03/1930:** Chuyến bay đầu tiên nối liền Paris - Sài Gòn được thực hiện, đánh dấu sự phát triển giao thông hàng không.
 *   **01/05/1930:** Lần đầu tiên, các cuộc đấu tranh của công nhân và nông dân nổ ra rầm rộ trên cả nước để kỷ niệm ngày Quốc tế Lao động, mở đầu cho cao trào cách mạng 1930-1931.
 *   **31/05/1930:** Chính phủ Pháp ra sắc lệnh xác nhận chế độ kim bản vị (Gold Standard) cho đồng bạc Đông Dương, chấm dứt bản vị bạc.
+*   **17/06/1930:** Nguyễn Thái Học cùng 12 đồng chí khác của Việt Nam Quốc dân Đảng bị hành quyết tại Yên Bái.
 *   **09/1930:** Phong trào Xô viết Nghệ - Tĩnh lên đến đỉnh cao, chính quyền cách mạng được thành lập ở nhiều làng xã tại Nghệ An và Hà Tĩnh.
 *   **12/09/1930:** Máy bay Pháp ném bom xuống đoàn biểu tình của nông dân Hưng Nguyên (Nghệ An), làm 171 người chết, sự kiện đỉnh cao trong cao trào Xô viết Nghệ - Tĩnh.
 *   **14-31/10/1930:** Hội nghị lần thứ nhất Ban Chấp hành Trung ương Đảng họp tại Hương Cảng (Trung Quốc), thông qua Luận cương chính trị và đổi tên Đảng thành Đảng Cộng sản Đông Dương. Đồng chí Trần Phú được bầu làm Tổng Bí thư.
@@ -1089,16 +1088,16 @@
 *   **25/05/1938:** Hội Truyền bá quốc ngữ ra đời.
 *   **30/08/1938:** Chính phủ Pháp ban hành Sắc lệnh về tự do báo chí ở Nam Kỳ, cho phép xuất bản báo chí tiếng Việt mà không cần xin phép trước.
 *   **10/12/1938:** Trương Tử Anh công bố chủ thuyết "Chủ nghĩa Dân tộc Sinh tồn", làm nền tảng tư tưởng cho Đại Việt Quốc dân Đảng sau này.
-*   **12/03/1939:** Việt Nam Phục quốc Đồng minh Hội chính thức ra mắt tại Thượng Hải.
 *   **1939:** Tổng Bí thư Nguyễn Văn Cừ xuất bản tác phẩm *Tự chỉ trích*.
+*   **12/03/1939:** Việt Nam Phục quốc Đồng minh Hội chính thức ra mắt tại Thượng Hải.
 *   **05/07/1939:** Phật giáo Hòa Hảo, một tôn giáo nội sinh, được ông Huỳnh Phú Sổ sáng lập tại tỉnh An Giang.
-*   **10/12/1939:** Đại Việt Quốc dân Đảng được thành lập.
 
 ### **Thời kỳ Vận động Giải phóng Dân tộc và Cách mạng tháng Tám (1939 - 1945)**
 
 *   **01/09/1939:** Chiến tranh Thế giới thứ hai bùng nổ, Pháp tham chiến.
 *   **28/09/1939:** Toàn quyền Đông Dương ra nghị định đặt Đảng Cộng sản Đông Dương ra ngoài vòng pháp luật, bắt đầu thời kỳ khủng bố trắng.
 *   **06-08/11/1939:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ VI tại Bà Điểm (Hóc Môn), quyết định chuyển hướng chiến lược, đặt nhiệm vụ giải phóng dân tộc lên hàng đầu và thành lập Mặt trận Dân tộc Thống nhất Phản đế Đông Dương.
+*   **10/12/1939:** Đại Việt Quốc dân Đảng được thành lập.
 *   **22/06/1940:** Chính phủ Pháp đầu hàng phát xít Đức.
 *   **1940:** Kiến trúc sư **Huỳnh Tấn Phát** mở văn phòng kiến trúc sư tư đầu tiên của người Việt ở Sài Gòn.
 *   **09/1940:** Việt Nam Kiến quốc quân (lực lượng vũ trang của Phục quốc Hội) tiến đánh Lạng Sơn.

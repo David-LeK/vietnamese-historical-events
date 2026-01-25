@@ -1041,18 +1041,17 @@
 *   **May 1-9, 1929:** The first congress of the Vietnamese Revolutionary Youth League was held in Hong Kong.
 *   **Jun. 17, 1929:** The Indochinese Communist Party was founded in Hanoi.
 *   **Nov. 15, 1929:** The Annamese Communist Party was founded in Cochinchina.
-*   **Jan. 1, 1930:** The Indochinese Communist League was officially established in Ha Tinh.
-*   **Feb. 3, 1930:** A conference to unify the communist organizations was held in Kowloon (Hong Kong) under the chairmanship of Nguyen Ai Quoc, establishing the Communist Party of Vietnam.
-*   **Feb. 10, 1930:** The Yen Bai Uprising, led by the Vietnamese Nationalist Party, broke out but was quickly defeated.
-*   **Jun. 17, 1930:** Nguyen Thai Hoc and 12 other comrades of the Vietnamese Nationalist Party were executed in Yen Bai.
 
 ### **Period of Economic Crisis and Revolutionary High Tide (1930 - 1935)**
 
-*   **Feb. 1930:** The Communist Party of Vietnam was founded (later renamed the Indochinese Communist Party).
+*   **Jan. 1, 1930:** The Indochinese Communist League was officially established in Ha Tinh.
 *   **Feb. 1930:** The Yen Bai Uprising, led by the Vietnamese Nationalist Party, broke out and was defeated.
+*   **Feb. 3, 1930:** A conference to unify the communist organizations was held in Kowloon (Hong Kong) under the chairmanship of Nguyen Ai Quoc, establishing the Communist Party of Vietnam.
+*   **Feb. 10, 1930:** The Yen Bai Uprising, led by the Vietnamese Nationalist Party, broke out but was quickly defeated.
 *   **Mar. 9, 1930:** The first flight connecting Paris and Saigon was completed, marking the development of air transportation.
 *   **May 1, 1930:** For the first time, widespread struggles of workers and peasants broke out across the country to celebrate International Workers' Day, marking the beginning of the 1930-1931 revolutionary high tide.
 *   **May 31, 1930:** The French government issued a decree confirming the gold standard for the Indochinese piaster, ending the silver standard.
+*   **Jun. 17, 1930:** Nguyen Thai Hoc and 12 other comrades of the Vietnamese Nationalist Party were executed in Yen Bai.
 *   **Sep. 1930:** The Nghe-Tinh Soviets movement reached its peak, with revolutionary governments established in many villages in Nghe An and Ha Tinh provinces.
 *   **Sep. 12, 1930:** French planes bombed a demonstration of peasants in Hung Nguyen (Nghe An), killing 171 people, a peak event in the Nghe-Tinh Soviets movement.
 *   **Oct. 14-31, 1930:** The First Conference of the Party Central Committee was held in Hong Kong (China), approving the Political Theses and changing the Party's name to the Indochinese Communist Party. Comrade Tran Phu was elected General Secretary.
@@ -1089,16 +1088,16 @@
 *   **May 25, 1938:** The Association for the Propagation of Quốc ngữ (Hội Truyền bá quốc ngữ) was established.
 *   **Aug. 30, 1938:** The French government issued a decree on press freedom in Cochinchina, allowing the publication of Vietnamese-language newspapers without prior permission.
 *   **Dec. 10, 1938:** Truong Tu Anh announced the theory of "Survivalism" (Chu nghia Dan toc Sinh ton), which later served as the ideological foundation for the Dai Viet Nationalist Party.
-*   **Mar. 12, 1939:** The Vietnam Restoration League (Phuc Quoc Hoi) was officially launched in Shanghai.
 *   **1939:** General Secretary Nguyen Van Cu published the work *Self-Criticism* (Tu chi trich).
+*   **Mar. 12, 1939:** The Vietnam Restoration League (Phuc Quoc Hoi) was officially launched in Shanghai.
 *   **Jul. 5, 1939:** Hoa Hao Buddhism, an indigenous religion, was founded by Mr. Huynh Phu So in An Giang province.
-*   **Dec. 10, 1939:** The Dai Viet Nationalist Party was founded.
 
 ### **Period of National Liberation Mobilization and the August Revolution (1939 - 1945)**
 
 *   **Sep. 1, 1939:** World War II broke out, and France entered the war.
 *   **Sep. 28, 1939:** The Governor-General of Indochina issued a decree outlawing the Indochinese Communist Party, beginning a period of white terror.
 *   **Nov. 6-8, 1939:** The 6th Conference of the Party Central Committee in Ba Diem (Hoc Mon) decided to shift the strategic direction, prioritizing the task of national liberation and establishing the Indochinese Anti-Imperialist National United Front.
+*   **Dec. 10, 1939:** The Dai Viet Nationalist Party was founded.
 *   **Jun. 22, 1940:** The French government surrendered to Nazi Germany.
 *   **1940:** Architect **Huynh Tan Phat** opened the first private architectural office by a Vietnamese in Saigon.
 *   **Sep. 1940:** The Vietnam National Construction Army (military wing of Phuc Quoc Hoi) attacked Lang Son.
