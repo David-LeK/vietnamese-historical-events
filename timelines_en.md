@@ -1140,8 +1140,10 @@
 *   **Jan. 28, 1941:** Leader Nguyen Ai Quoc returned to the country at Pac Bo (Cao Bang) after 30 years of activities abroad to directly lead the revolution.
 *   **May 10-19, 1941:** The 8th Conference of the Party Central Committee in Pac Bo (Cao Bang), chaired by Nguyen Ai Quoc, completed the line of national liberation and decided to establish the League for the Independence of Vietnam (Viet Minh).
 *   **Aug. 1942:** Taking the name Ho Chi Minh, he went to China to seek international support but was arrested by the Chiang Kai-shek administration. During more than a year in prison, he wrote *Prison Diary*.
+*   **Oct. 1, 1942:** The Vietnam Revolutionary League (Viet Cach) was founded in Liuzhou, China, gathering various patriotic groups.
 *   **Sep. 10, 1943:** Ho Chi Minh was released from prison in China.
 *   **1943:** The Indochinese Communist Party published the *Theses on Vietnamese Culture*.
+*   **Jun. 30, 1944:** The Vietnam Democratic Party was founded, gathering intellectuals and national bourgeoisie to join the Viet Minh Front.
 *   **Dec. 22, 1944:** The Vietnam Propaganda and Liberation Army, the precursor to the Vietnam People's Army, was established in the Tran Hung Dao forest (Cao Bang).
 *   **Dec. 24-25, 1944:** The Vietnam Propaganda and Liberation Army won its first two battles at Phay Khat and Na Ngan.
 *   **Mar. 9, 1945:** Japan staged a coup against the French throughout Indochina.
@@ -1200,6 +1202,8 @@
 *   **May 31, 1946:** President Ho Chi Minh departed for France for official negotiations.
 *   **Jun. 1, 1946:** In Saigon, High Commissioner D'Argenlieu announced the establishment of the "Autonomous Republic of Cochinchina."
 *   **Jul. 6, 1946:** The Fontainebleau Conference opened.
+*   **Jul. 12, 1946:** The "On Nhu Hau Street Affair" occurred. The police forces of the Democratic Republic of Vietnam raided the headquarters of the Vietnam Nationalist Party (VNQDD), dismantling a plot to overthrow the government.
+*   **Jul. 22, 1946:** The Vietnam Socialist Party was founded, aiming to unite patriotic intellectuals.
 *   **Aug. 1, 1946:** D'Argenlieu convened the Conference of the Indochinese Federation in Da Lat, sabotaging the Fontainebleau Conference.
 *   **Sep. 14, 1946:** President Ho Chi Minh signed a Modus Vivendi with the French Minister of Overseas France, Marius Moutet, in Paris.
 *   **Oct. 20, 1946:** President Ho Chi Minh returned to Haiphong port.
@@ -1565,6 +1569,8 @@
 *   **Mar. 14, 1988:** China continued to use force to attack the Vietnamese Navy to seize Gac Ma Reef in the Spratly Islands, killing many Vietnamese soldiers.
 *   **Apr. 1988:** The Politburo issued **Resolution 10** ("Contract 10"), creating a breakthrough in agriculture by identifying the household as an autonomous economic unit and allocating land to farmers on a long-term basis.
 *   **May 20, 1988:** The Politburo issued Resolution 13 on foreign policy tasks and policies, advocating a strong shift in foreign affairs to serve the economy, "make more friends, fewer enemies," and diversify international relations.
+*   **Jul. 22, 1988:** The Vietnam Socialist Party announced its dissolution.
+*   **Oct. 20, 1988:** The Vietnam Democratic Party announced its dissolution after completing its historical mission.
 *   **Mar. 1989:** The 6th Conference of the Party Central Committee (6th tenure) specified and developed the policy of a multi-sector economy, acknowledging the long-term existence of private economic sectors.
 *   **Apr. 5, 1989:** The Vietnamese government announced it would withdraw all its volunteer troops from Cambodia by the end of September 1989, with or without a political solution.
 *   **Sep. 1989:** Vietnam completed the withdrawal of all its volunteer troops from Cambodia, creating a breakthrough in foreign relations, especially with ASEAN countries and China.

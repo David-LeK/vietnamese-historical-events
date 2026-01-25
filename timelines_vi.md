@@ -1140,8 +1140,10 @@
 *   **28/01/1941:** Lãnh tụ Nguyễn Ái Quốc trở về nước tại Pắc Bó (Cao Bằng) sau 30 năm hoạt động ở nước ngoài để trực tiếp lãnh đạo cách mạng.
 *   **10-19/05/1941:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ VIII tại Pắc Bó (Cao Bằng) do Nguyễn Ái Quốc chủ trì, hoàn chỉnh đường lối giải phóng dân tộc và quyết định thành lập Mặt trận Việt Nam Độc lập Đồng minh (Việt Minh).
 *   **08/1942:** Lấy tên Hồ Chí Minh, Người sang Trung Quốc tranh thủ sự ủng hộ quốc tế nhưng bị chính quyền địa phương bắt giam. Trong thời gian bị tù, Người viết tập thơ *Nhật ký trong tù*.
+*   **01/10/1942:** Việt Nam Cách mệnh Đồng minh Hội (Việt Cách) được thành lập tại Liễu Châu (Trung Quốc), tập hợp nhiều đảng phái yêu nước.
 *   **10/09/1943:** Hồ Chí Minh được trả tự do.
 *   **1943:** Đảng Cộng sản Đông Dương công bố bản *Đề cương về Văn hóa Việt Nam*.
+*   **30/06/1944:** Đảng Dân chủ Việt Nam được thành lập, tập hợp tầng lớp tư sản dân tộc và trí thức yêu nước tham gia Mặt trận Việt Minh.
 *   **22/12/1944:** Đội Việt Nam Tuyên truyền Giải phóng quân, tiền thân của Quân đội Nhân dân Việt Nam, được thành lập tại khu rừng Trần Hưng Đạo (Cao Bằng).
 *   **24-25/12/1944:** Đội Việt Nam Tuyên truyền Giải phóng quân đánh thắng hai trận đầu tiên tại Phay Khắt và Nà Ngần.
 *   **09/03/1945:** Nhật đảo chính Pháp trên toàn cõi Đông Dương.
@@ -1200,6 +1202,8 @@
 *   **31/05/1946:** Chủ tịch Hồ Chí Minh lên đường sang Pháp để đàm phán chính thức.
 *   **01/06/1946:** Tại Sài Gòn, Cao ủy D'Argenlieu tuyên bố thành lập "Nước Cộng hòa tự trị Nam Kỳ".
 *   **06/07/1946:** Hội nghị Fontainebleau khai mạc.
+*   **12/07/1946:** Vụ án phố Ôn Như Hầu xảy ra. Công an xung phong đã khám xét trụ sở của Việt Nam Quốc dân Đảng, phá tan âm mưu lật đổ chính quyền của các thế lực đối lập.
+*   **22/07/1946:** Đảng Xã hội Việt Nam được thành lập, nhằm mục đích đoàn kết giới trí thức yêu nước và dân chủ.
 *   **01/08/1946:** D'Argenlieu triệu tập Hội nghị Liên bang Đông Dương tại Đà Lạt, phá hoại Hội nghị Fontainebleau.
 *   **14/09/1946:** Chủ tịch Hồ Chí Minh ký Tạm ước (Modus Vivendi) với Bộ trưởng Pháp quốc Hải ngoại Marius Moutet tại Paris.
 *   **20/10/1946:** Chủ tịch Hồ Chí Minh về đến cảng Hải Phòng.
@@ -1565,6 +1569,8 @@
 *   **14/03/1988:** Trung Quốc tiếp tục dùng vũ lực tấn công Hải quân Việt Nam để chiếm bãi đá Gạc Ma thuộc quần đảo Trường Sa, giết hại nhiều chiến sĩ Việt Nam.
 *   **04/1988:** Bộ Chính trị ban hành **Nghị quyết 10** ("Khoán 10"), tạo ra bước đột phá trong nông nghiệp bằng cách xác định hộ gia đình là đơn vị kinh tế tự chủ, giao khoán ruộng đất lâu dài cho nông dân.
 *   **20/05/1988:** Bộ Chính trị ban hành Nghị quyết 13 về nhiệm vụ và chính sách đối ngoại, chủ trương chuyển mạnh hoạt động đối ngoại sang phục vụ kinh tế, "thêm bạn bớt thù", đa dạng hóa quan hệ quốc tế.
+*   **22/07/1988:** Đảng Xã hội Việt Nam tuyên bố giải thể.
+*   **20/10/1988:** Đảng Dân chủ Việt Nam tuyên bố giải thể sau khi hoàn thành sứ mệnh lịch sử.
 *   **03/1989:** Hội nghị lần thứ 6 Ban Chấp hành Trung ương Đảng (khóa VI) cụ thể hóa và phát triển chính sách kinh tế nhiều thành phần, thừa nhận sự tồn tại lâu dài của các thành phần kinh tế tư nhân.
 *   **05/04/1989:** Chính phủ Việt Nam tuyên bố sẽ rút hết quân tình nguyện khỏi Campuchia vào cuối tháng 9/1989 dù có hay không có giải pháp chính trị.
 *   **09/1989:** Việt Nam hoàn thành việc rút toàn bộ quân tình nguyện khỏi Campuchia, tạo bước đột phá trong quan hệ đối ngoại, đặc biệt với các nước ASEAN và Trung Quốc.
