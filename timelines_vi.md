@@ -337,14 +337,14 @@
 *   **17/01/1407:** Trương Phụ đánh úp bãi Mộc Hoàn.
 *   **20/01/1407:** Thành Đa Bang thất thủ sau cuộc tấn công ác liệt của quân Minh. Quân nhà Hồ tan vỡ.
 *   **30/03/1407:** Trận Hàm Tử, quân nhà Hồ đại bại, thuyền bè và lương thực bị mất gần hết.
-*   **11/1407:** Quân Minh bắt được Hồ Quý Ly ở ghềnh Chảy (Hà Tĩnh).
-*   **12/11/1407:** Quân Minh bắt được Hồ Hán Thương và Thái tử Nhuế ở núi Cao Vọng (Hà Tĩnh). Triều Hồ sụp đổ, Việt Nam rơi vào ách đô hộ của nhà Minh.
 
 ### **Thời kỳ Bắc thuộc lần thứ tư và các cuộc kháng chiến (1407 - 1427)**
 
 *   **07/1407:** Vua Minh Thành Tổ hạ chiếu đổi An Nam thành quận Giao Chỉ, thiết lập bộ máy cai trị đô hộ.
 *   **01/11/1407:** Trần Ngỗi được tôn làm vua (Giản Định Đế), lập ra nhà Hậu Trần, bắt đầu cuộc kháng chiến chống Minh.
+*   **11/1407:** Quân Minh bắt được Hồ Quý Ly ở ghềnh Chảy (Hà Tĩnh).
 *   **11/1407:** Các cuộc khởi nghĩa của nhân dân nổ ra ở nhiều nơi như Đông Lan, Trà Thanh (Diễn Châu), Thất Nguyên (Lạng Sơn), Bình Than.
+*   **12/11/1407:** Quân Minh bắt được Hồ Hán Thương và Thái tử Nhuế ở núi Cao Vọng (Hà Tĩnh). Triều Hồ sụp đổ, Việt Nam rơi vào ách đô hộ của nhà Minh.
 *   **Đầu 1409:** Trận Bô Cô (Ý Yên, Nam Định), quân Hậu Trần do Giản Định Đế và Đặng Tất chỉ huy đại phá quân Minh do Mộc Thạnh chỉ huy.
 *   **02/1409:** Giản Định Đế nghe lời gièm pha, giết hai tướng Đặng Tất và Nguyễn Cảnh Chân, gây chia rẽ trong nội bộ.
 *   **02/04/1409:** Đặng Dung và Nguyễn Cảnh Dị (con của hai tướng bị giết) tôn Trần Quý Khoáng lên làm vua (Trùng Quang Đế) ở Nghệ An để tiếp tục kháng chiến.

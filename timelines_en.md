@@ -337,14 +337,14 @@
 *   **Jan. 17, 1407:** Ming general Zhang Fu launched a surprise night attack on the Moc Hoan mudflat.
 *   **Jan. 20, 1407:** The Ming army captured Da Bang Citadel after a fierce siege. The Ho army was heavily defeated.
 *   **Mar. 30, 1407:** Battle of Ham Tu, the Ho army was completely defeated, losing almost all its boats and food supplies.
-*   **Nov. 1407:** The Ming army captured Ho Quy Ly at the Chay rapids (Ha Tinh).
-*   **Nov. 12, 1407:** The Ming army captured Ho Han Thuong and Crown Prince Nhue at Cao Vong Mountain (Ha Tinh). The Ho dynasty collapsed, and Vietnam fell under the yoke of Ming domination.
 
 ### **Fourth Northern Domination Period and Resistance Wars (1407 - 1427)**
 
 *   **Jul. 1407:** The Ming Emperor Yongle issued an edict changing An Nam to Giao Chi Commandery, establishing a colonial administrative apparatus.
 *   **Nov. 1, 1407:** Tran Ngoi was enthroned as king (Gian Dinh De), establishing the Later Tran dynasty and starting the resistance war against the Ming.
+*   **Nov. 1407:** The Ming army captured Ho Quy Ly at the Chay rapids (Ha Tinh).
 *   **Nov. 1407:** Popular uprisings broke out in many places such as Dong Lan, Tra Thanh (Dien Chau), That Nguyen (Lang Son), and Binh Than.
+*   **Nov. 12, 1407:** The Ming army captured Ho Han Thuong and Crown Prince Nhue at Cao Vong Mountain (Ha Tinh). The Ho dynasty collapsed, and Vietnam fell under the yoke of Ming domination.
 *   **Early 1409:** Battle of Bo Co (Y Yen, Nam Dinh), the Later Tran army under Gian Dinh De and Dang Tat crushed the Ming army led by Mu Sheng.
 *   **Feb. 1409:** Gian Dinh De, listening to slander, executed the two generals Dang Tat and Nguyen Canh Chan, causing internal division.
 *   **Apr. 2, 1409:** Dang Dung and Nguyen Canh Di (sons of the two executed generals) enthroned Tran Quy Khoang as king (Trung Quang De) in Nghe An to continue the resistance.
