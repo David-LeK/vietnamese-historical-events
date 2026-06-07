@@ -1359,13 +1359,14 @@
 *   **14/07/1949:** Chính phủ ban hành sắc lệnh giảm tô đầu tiên.
 *   **28/08/1949:** Đại đoàn 308 (Đại đoàn Quân Tiên phong), đại đoàn chủ lực đầu tiên của Quân đội nhân dân Việt Nam, được thành lập.
 *   **01/10/1949:** Nước Cộng hòa Nhân dân Trung Hoa được thành lập.
+*   **09/01/1950:** Hàng ngàn học sinh, sinh viên biểu tình tại Sài Gòn đòi trả tự do cho các học sinh bị bắt. Cuộc biểu tình bị đàn áp, học sinh Trần Văn Ơn trúng đạn hy sinh. Đám tang anh vào ngày 12/01 đã thu hút hàng chục vạn người từ khắp các tỉnh Nam Bộ tham gia, trở thành một cuộc biểu dương lực lượng khổng lồ chống thực dân Pháp và tay sai.
 *   **14/01/1950:** Chủ tịch Hồ Chí Minh ra Tuyên bố, sẵn sàng đặt quan hệ ngoại giao với các nước.
 *   **18/01/1950:** Trung Quốc công nhận và thiết lập quan hệ ngoại giao với nước Việt Nam Dân chủ Cộng hòa.
 *   **30/01/1950:** Liên Xô công nhận và thiết lập quan hệ ngoại giao với nước Việt Nam Dân chủ Cộng hòa.
 *   **02/1950:** Hàng loạt các nước dân chủ nhân dân ở Đông Âu công nhận Việt Nam Dân chủ Cộng hòa.
 *   **07/02/1950:** Mỹ và Anh công nhận chính phủ bù nhìn Bảo Đại.
+*   **19/03/1950:** Một cuộc biểu tình chống Mỹ và Pháp khổng lồ với khoảng nửa triệu người tham gia đã nổ ra tại Sài Gòn - Chợ Lớn. Dưới sự dẫn dắt của các trí thức như luật sư Nguyễn Hữu Thọ, cuộc biểu tình đã buộc hai tàu chiến Mỹ (soái hạm *Stickell* và khu trục hạm *Anderson*) phải nhổ neo rời khỏi cảng. Đây là cuộc biểu tình chống can thiệp Mỹ quy mô lớn đầu tiên tại Việt Nam.
 *   **04/1950:** Đơn vị đồn trú của quân đội Trung Hoa Dân quốc rút khỏi đảo Phú Lâm ở Hoàng Sa.
-*   **Cuối tháng 3/1950:** Hai tàu khu trục Mỹ đến cập bến Sài Gòn để thị uy và ủng hộ Pháp; học sinh sinh viên Sài Gòn biểu tình phản đối.
 *   **01/05/1950:** Tổng thống Mỹ Truman quyết định viện trợ quân sự trực tiếp 10 triệu USD cho Pháp ở Đông Dương.
 *   **06/1950:** Ban Thường vụ Trung ương Đảng quyết định mở chiến dịch Biên giới (Chiến dịch Lê Hồng Phong II).
 *   **16/09/1950:** Chiến dịch Biên giới bắt đầu bằng trận đánh tiêu diệt cứ điểm Đông Khê.
@@ -1596,7 +1597,7 @@
 *   **17/04/1969:** Lính Mỹ (lực lượng Tiger Force) gây ra vụ thảm sát Khánh Giang - Trường Lệ (Nghĩa Hành, Quảng Ngãi), sát hại 63 thường dân.
 *   **10 - 20/05/1969:** Trận chiến Đồi A Bia (Cao điểm 937), báo chí Mỹ gọi là "Đồi thịt băm" (Hamburger Hill), diễn ra ác liệt tại thung lũng A Sầu, A Lưới (Thừa Thiên). Quân đội Mỹ huy động lực lượng tương đương 2 sư đoàn (chủ công là Sư đoàn Không vận 101) cùng hỏa lực khổng lồ (ném 890 tấn bom nổ và 115 tấn bom napalm, bắn hơn 19.000 quả đạn pháo) nhằm chiếm đỉnh đồi do 2 tiểu đoàn Quân Giải phóng miền Nam Việt Nam chốt giữ. Dựa vào địa thế hiểm trở và công sự vững chắc, Quân Giải phóng kiên cường bám chốt, bẻ gãy hàng chục đợt tiến công bộ binh của Mỹ, gây thương vong lớn (Mỹ thừa nhận 72 chết, 372 bị thương). Đêm 18/05, sau khi hoàn thành mục tiêu tiêu diệt sinh lực địch, Quân Giải phóng chủ động rút lui. Đến chiều 20/05 quân Mỹ mới lên được đỉnh đồi nhưng rồi lại rút bỏ một tháng sau đó (05/06). Sự khốc liệt và vô nghĩa của trận đánh đã làm rung chuyển chính trường Mỹ, đẩy nhanh việc chính quyền Nixon chấm dứt chiến lược "áp lực tối đa", đẩy nhanh thực hiện "Việt Nam hóa chiến tranh" và rút quân viễn chinh.
 *   **25/05/1969:** Tổng thống Nguyễn Văn Thiệu thành lập Mặt trận Quốc gia Dân chủ Xã hội để tập hợp lực lượng chính trị tại miền Nam.
-*   **06-08/06/1969:** Đại hội đại biểu quốc dân miền Nam họp, thành lập **Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam**, bầu Kiến trúc sư **Huỳnh Tấn Phát** làm Chủ tịch, Luật sư **Nguyễn Hữu Thọ** làm Chủ tịch Hội đồng Cố vấn, và Luật sư **Trương Như Tảng** làm Bộ trưởng Bộ Tư pháp.
+*   **06-08/06/1969:** Đại hội đại biểu quốc dân miền Nam họp, thành lập **Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam**. Kiến trúc sư **Huỳnh Tấn Phát** được bầu làm Chủ tịch, Luật sư **Nguyễn Hữu Thọ** làm Chủ tịch Hội đồng Cố vấn, Luật sư **Trương Như Tảng** làm Bộ trưởng Bộ Tư pháp, và bà **Nguyễn Thị Bình** làm Bộ trưởng Bộ Ngoại giao. Bà Nguyễn Thị Bình sau đó trở thành Trưởng phái đoàn đàm phán của Chính phủ Cách mạng Lâm thời tại Hội nghị Paris.
 *   **02/09/1969:** Chủ tịch Hồ Chí Minh từ trần. Toàn Đảng, toàn dân, toàn quân biến đau thương thành hành động cách mạng, quyết tâm thực hiện Di chúc của Người.
 *   **21/10/1969:** Việt Nam Cộng hòa ban hành nghị định sáp nhập đơn vị hành chính Định Hải (quần đảo Hoàng Sa) vào xã Hòa Long, tiếp tục quản lý hành chính đối với quần đảo.
 *   **06/03/1970:** Bộ Chính trị ra Nghị quyết về cuộc vận động nâng cao chất lượng đảng viên và kết nạp đảng viên (Lớp Hồ Chí Minh).
@@ -1624,7 +1625,7 @@
 *   **18 - 30/12/1972:** Chiến dịch Linebacker II (Điện Biên Phủ trên không). Nhằm gây sức ép buộc Việt Nam Dân chủ Cộng hòa nhượng bộ các điều khoản cốt lõi của Hiệp định Paris, Mỹ huy động gần 50% số máy bay ném bom chiến lược B-52 (197 chiếc) và hàng ngàn máy bay chiến thuật ném bom rải thảm hủy diệt Hà Nội, Hải Phòng (phá sập phố Khâm Thiên, Bệnh viện Bạch Mai...). Lực lượng Phòng không - Không quân Việt Nam đã áp dụng chiến thuật sáng tạo (như cẩm nang "vạch nhiễu tìm thù"), bắn rơi 81 máy bay Mỹ, trong đó có 34 chiếc B-52 (16 chiếc rơi tại chỗ), vượt xa mức thiệt hại Mỹ có thể chịu đựng. Đòn giáng trả kinh rợn này đập tan uy thế của Không quân chiến lược Mỹ, buộc Tổng thống Nixon phải đơn phương ngừng ném bom vào ngày 30/12 và chấp nhận ký Hiệp định Paris theo nội dung dự thảo có lợi cho Việt Nam.
 *   **30/12/1972:** Mỹ buộc phải tuyên bố ngừng ném bom miền Bắc từ vĩ tuyến 20 trở ra và chấp nhận nối lại đàm phán.
 *   **15/01/1973:** Mỹ chấm dứt hoàn toàn mọi hành động chiến tranh chống phá miền Bắc.
-*   **27/01/1973:** **Hiệp định Paris** về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam được ký kết. Mỹ cam kết tôn trọng độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Việt Nam và rút hết quân khỏi miền Nam.
+*   **27/01/1973:** **Hiệp định Paris** về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam được ký kết. Mỹ cam kết tôn trọng độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Việt Nam và rút hết quân khỏi miền Nam. Đại diện cho Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam, Bộ trưởng Ngoại giao **Nguyễn Thị Bình** là người phụ nữ duy nhất tham gia ký kết hiệp định lịch sử này.
 
 ### **Tổng tiến công và nổi dậy Mùa Xuân 1975, giải phóng hoàn toàn miền Nam (1973 - 1975)**
 
@@ -1693,6 +1694,7 @@
     *   Thủ đô là Hà Nội, Quốc kỳ là cờ đỏ sao vàng, Quốc ca là bài *Tiến quân ca*.
     *   Đổi tên thành phố Sài Gòn - Gia Định thành **Thành phố Hồ Chí Minh**.
     *   Bầu các cơ quan và chức vụ lãnh đạo cao nhất của Nhà nước.
+*   **03/07/1976:** Bà Nguyễn Thị Bình được bổ nhiệm làm Bộ trưởng Bộ Giáo dục của nước Cộng hòa Xã hội chủ nghĩa Việt Nam thống nhất. Bà giữ chức vụ này đến năm 1987, chỉ đạo công cuộc hợp nhất hệ thống giáo dục hai miền Nam - Bắc và tiến hành các cuộc cải cách giáo dục thời hậu chiến.
 *   **12/1976:** Chính phủ tiến hành chiến dịch cải tạo công thương nghiệp tư bản tư doanh lần thứ hai ở miền Nam.
 *   **12/1976:** Đại hội đại biểu toàn quốc lần thứ IV của Đảng được tổ chức tại Hà Nội.
     *   Đổi tên Đảng Lao động Việt Nam thành **Đảng Cộng sản Việt Nam**.
@@ -1797,6 +1799,7 @@
 *   **08/07/1992:** Trung Quốc chiếm thêm một số đá ngầm tại quần đảo Trường Sa, củng cố sự hiện diện của mình sau khi thông qua luật lãnh hải bành trướng vào đầu năm đó.
 *   **19/07/1992:** Bầu cử Quốc hội khóa IX.
 *   **07/1992:** Việt Nam chính thức ký Hiệp ước Thân thiện và Hợp tác ở Đông Nam Á (Hiệp ước Bali) và trở thành quan sát viên của ASEAN.
+*   **23/09/1992:** Bà Nguyễn Thị Bình được Quốc hội khóa IX bầu làm Phó Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam. Bà đảm nhiệm cương vị này trong hai nhiệm kỳ liên tiếp (đến năm 2002) và là người phụ nữ thứ hai trong lịch sử Việt Nam giữ chức vụ phó nguyên thủ quốc gia.
 *   **06/1993:** Hội nghị lần thứ 5 Ban Chấp hành Trung ương Đảng (khóa VII) ra nghị quyết về tiếp tục đổi mới và phát triển kinh tế - xã hội nông thôn.
 *   **02/07/1993:** Mỹ tuyên bố không còn phản đối các nước và tổ chức tài chính quốc tế cho Việt Nam vay vốn để trả nợ, một bước đi quan trọng tiến tới dỡ bỏ cấm vận.
 *   **11/12/1993:** Quần thể di tích Cố đô Huế được công nhận là Di sản Văn hóa Thế giới.
@@ -1842,6 +1845,8 @@
 *   **03/07/2003:** Vườn Quốc gia Phong Nha - Kẻ Bàng được UNESCO công nhận lần đầu về địa chất, địa mạo.
 *   **07/11/2003:** Nhã nhạc cung đình Huế được UNESCO công nhận là di sản phi vật thể đầu tiên.
 *   **12/2003:** Việt Nam đăng cai tổ chức SEA Games 22.
+*   **10/01/2004:** Hội Nạn nhân Chất độc Da cam/Dioxin Việt Nam (VAVA) chính thức ra mắt, do Trung tướng Đặng Vũ Hiệp làm Chủ tịch và nguyên Phó Chủ tịch nước Nguyễn Thị Bình làm Chủ tịch danh dự.
+*   **30/01/2004:** Hội VAVA thay mặt các nạn nhân đệ đơn kiện 37 công ty hóa chất Hoa Kỳ đã sản xuất chất độc da cam/dioxin sử dụng trong chiến tranh tại Việt Nam lên tòa án liên bang Mỹ, nhằm đòi công lý và bồi thường cho hàng triệu nạn nhân.
 *   **2004:** Việt Nam được chứng nhận kỷ lục Guinness cho chiếc bánh tét lớn nhất thế giới.
 *   **2004:** Thủ tướng Chính phủ phê duyệt đề án phát triển tổng thể đảo Phú Quốc.
 *   **03/2005:** Sở Giao dịch Chứng khoán Hà Nội (HNX) được thành lập
@@ -1975,6 +1980,7 @@
     * **Cấp xã:** Bao gồm xã (khu vực nông thôn), phường (khu vực đô thị) và đặc khu.
 *   **01/07/2025:** Chính quyền cấp huyện, bao gồm quận, huyện, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc Trung ương, và thị xã chính thức chấm dứt hoạt động. Mô hình chính quyền hai cấp tỉnh và xã chính thức vận hành.
 *   **07/2025:** Các ông Nguyễn Xuân Phúc, Vương Đình Huệ bị cách hết các chức vụ đã đảm nhiệm.
+*   **25/08/2025:** Tại Lễ kỷ niệm 80 năm Ngày thành lập ngành Ngoại giao ở Hà Nội, Tổng Bí thư Tô Lâm đã trao tặng danh hiệu "Anh hùng Lao động" cho bà Nguyễn Thị Bình, nhằm vinh danh những cống hiến lịch sử của bà trên cương vị Trưởng phái đoàn đàm phán tại Hội nghị Paris và những đóng góp to lớn cho đất nước.
 *   **09/2025:** Việt Nam chính thức miễn học phí cho học sinh từ mầm non đến THPT công lập.
 *   **02/09/2025:** Kỷ niệm 80 năm Ngày Quốc khánh nước Cộng hòa xã hội chủ nghĩa Việt Nam.
 *   **03/09/2025:** Tác phẩm sơn mài lớn nhất thế giới là bức tranh "Bác Hồ đọc Tuyên ngôn Độc lập" của họa sĩ trẻ Chu Nhật Quang, được Tổ chức Kỷ lục Guinness Thế giới công nhận.

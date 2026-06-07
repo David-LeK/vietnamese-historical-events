@@ -1359,13 +1359,14 @@
 *   **Jul. 14, 1949:** The government issued the first decree on rent reduction.
 *   **Aug. 28, 1949:** The 308th Division (the Pioneer Division), the first main-force division of the Vietnam People's Army, was established.
 *   **Oct. 1, 1949:** The People's Republic of China was founded.
+*   **Jan. 9, 1950:** Thousands of students demonstrated in Saigon demanding the release of arrested peers. The protest was violently suppressed, and student Tran Van On was shot dead. His funeral on January 12 drew hundreds of thousands of people, turning into a massive show of anti-colonial resistance.
 *   **Jan. 14, 1950:** President Ho Chi Minh issued a statement, ready to establish diplomatic relations with all countries.
 *   **Jan. 18, 1950:** China recognized and established diplomatic relations with the Democratic Republic of Vietnam.
 *   **Jan. 30, 1950:** The Soviet Union recognized and established diplomatic relations with the Democratic Republic of Vietnam.
 *   **Feb. 1950:** A series of people's democratic countries in Eastern Europe recognized the Democratic Republic of Vietnam.
 *   **Feb. 7, 1950:** The US and UK recognized the puppet government of Bao Dai.
+*   **Mar. 19, 1950:** A massive anti-US and anti-French demonstration involving approximately half a million people erupted in Saigon-Cho Lon. Led by prominent figures including lawyer Nguyen Huu Tho, the protest successfully forced two US warships (the USS *Stickell* and USS *Anderson*) to leave the harbor. This merged with the ongoing student protests to become a major milestone in the urban resistance movement.
 *   **Apr. 1950:** The Republic of China's military garrison withdrew from Woody Island in the Paracels.
-*   **Late Mar. 1950:** Two US destroyers visited Saigon to show support for the French and the Bao Dai regime; this was met with student protests.
 *   **May 1, 1950:** US President Truman decided to provide $10 million in direct military aid to France in Indochina.
 *   **Jun. 1950:** The Party Central Standing Committee decided to launch the Border Campaign (Le Hong Phong II Campaign).
 *   **Sep. 16, 1950:** The Border Campaign began with the battle to annihilate the Dong Khe stronghold.
@@ -1596,7 +1597,7 @@
 *   **Apr. 17, 1969:** US troops (Tiger Force) massacred 63 civilians in Khanh Giang and Truong Le hamlets (Nghia Hanh, Quang Ngai).
 *   **May 10 - 20, 1969:** The Battle of A Bia Hill (Hill 937), widely known as the Battle of Hamburger Hill, took place in the A Shau and A Luoi valleys (Thua Thien). The US military mobilized forces equivalent to two divisions (led by the 101st Airborne Division) along with massive firepower (dropping 890 tons of explosive bombs, 115 tons of napalm, and firing over 19,000 artillery shells) to capture the peak defended by two battalions of the Liberation Army of South Vietnam. Utilizing the rugged terrain and solid fortifications, the Liberation Army fiercely held their positions, breaking dozens of US infantry assaults and inflicting heavy casualties (the US admitted 72 killed and 372 wounded). On the night of May 18, after achieving the objective of decimating enemy manpower, the Liberation Army strategically withdrew. US troops reached the peak on the afternoon of May 20, only to abandon it a month later (June 5). The extreme brutality and perceived futility of the battle caused a political shockwave in the US, accelerating the Nixon administration's shift away from "maximum pressure" towards the "Vietnamization" strategy and troop withdrawal.
 *   **May 25, 1969:** President Nguyen Van Thieu established the National Social Democratic Front to consolidate political power in the South.
-*   **Jun. 6-8, 1969:** The National Congress of Southern Delegates convened, establishing the **Provisional Revolutionary Government of the Republic of South Vietnam**, with Architect **Huynh Tan Phat** as President, Lawyer **Nguyen Huu Tho** as Chairman of the Consultative Council, and Lawyer **Truong Nhu Tang** as Minister of Justice.
+*   **Jun. 6-8, 1969:** The National Congress of Southern Delegates convened, establishing the **Provisional Revolutionary Government of the Republic of South Vietnam** (PRG RSV). Architect **Huynh Tan Phat** was elected President, Lawyer **Nguyen Huu Tho** as Chairman of the Consultative Council, Lawyer **Truong Nhu Tang** as Minister of Justice, and **Nguyen Thi Binh** as Minister of Foreign Affairs. Madame Binh subsequently led the PRG RSV delegation at the Paris Peace Talks.
 *   **Sep. 2, 1969:** President Ho Chi Minh passed away. The entire Party, people, and army turned grief into revolutionary action, determined to implement his testament.
 *   **Oct. 21, 1969:** The Republic of Vietnam issued a decree merging the Dinh Hai administrative unit (Paracel Islands) into Hoa Long commune, continuing its administrative management of the archipelago.
 *   **Mar. 6, 1970:** The Politburo issued a resolution on the campaign to improve the quality of Party members and recruit new members (Ho Chi Minh Class).
@@ -1624,7 +1625,7 @@
 *   **Dec. 18 - 30, 1972:** Operation Linebacker II ("Dien Bien Phu in the Air"). To pressure the Democratic Republic of Vietnam into conceding core terms of the Paris Agreement, the US mobilized nearly 50% of its strategic B-52 bomber fleet (197 aircraft) and thousands of tactical aircraft for devastating carpet bombings of Hanoi and Haiphong (destroying Kham Thien street, Bach Mai hospital, etc.). The Vietnam Air Defense - Air Force employed creative tactics (such as the "Red Cover Manual" for tracking through radar jamming) to shoot down 81 US aircraft, including 34 B-52s (16 crashing on the spot), far exceeding the loss rate the US could tolerate. This horrific counter-blow shattered the prestige of the US Strategic Air Command, forcing President Nixon to unilaterally halt the bombing on Dec. 30 and agree to sign the Paris Peace Accords based on the draft favorable to Vietnam.
 *   **Dec. 30, 1972:** The US was forced to declare a halt to the bombing of the North from the 20th parallel northwards and agree to resume negotiations.
 *   **Jan. 15, 1973:** The US completely ended all acts of war against the North.
-*   **Jan. 27, 1973:** The **Paris Peace Accords** on ending the war and restoring peace in Vietnam were signed. The US pledged to respect the independence, sovereignty, unity, and territorial integrity of Vietnam and to withdraw all its troops from the South.
+*   **Jan. 27, 1973:** The **Paris Peace Accords** on ending the war and restoring peace in Vietnam were signed. The US pledged to respect the independence, sovereignty, unity, and territorial integrity of Vietnam and to withdraw all its troops from the South. Representing the PRG RSV, Minister of Foreign Affairs **Nguyen Thi Binh** was the only woman among the signatories.
 
 ### **1975 Spring General Offensive and Uprising, Complete Liberation of the South (1973 - 1975)**
 
@@ -1693,6 +1694,7 @@
     *   The capital is Hanoi, the national flag is the red flag with a gold star, and the national anthem is the song *Tien quan ca*.
     *   Saigon - Gia Dinh city was renamed **Ho Chi Minh City**.
     *   The highest state bodies and leadership positions were elected.
+*   **Jul. 3, 1976:** Nguyen Thi Binh was appointed Minister of Education of the unified Socialist Republic of Vietnam. She held this position until 1987, directing the integration of the educational systems of the North and the South and overseeing major post-war educational reforms.
 *   **Dec. 1976:** The government launched the second campaign to reform private capitalist industry and commerce in the South.
 *   **Dec. 1976:** The 4th National Congress of the Party was held in Hanoi.
     *   The Vietnam Workers' Party was renamed the **Communist Party of Vietnam**.
@@ -1797,6 +1799,7 @@
 *   **Jul. 8, 1992:** China occupied several additional submerged reefs in the Spratly Islands, consolidating its presence after passing its expansive territorial sea law earlier that year.
 *   **Jul. 19, 1992:** Election for the 9th National Assembly.
 *   **Jul. 1992:** Vietnam officially signed the Treaty of Amity and Cooperation in Southeast Asia (Bali Treaty) and became an observer of ASEAN.
+*   **Sep. 23, 1992:** Nguyen Thi Binh was elected Vice President of the Socialist Republic of Vietnam by the 9th National Assembly. Serving two consecutive terms until 2002, she was the second female deputy head of state in Vietnamese history and played a significant role in domestic social affairs and expanding Vietnam's international diplomatic relations.
 *   **Jun. 1993:** The 5th Conference of the Party Central Committee (7th tenure) issued a resolution on continuing the renewal and development of the rural socio-economy.
 *   **Jul. 2, 1993:** The US announced it no longer opposed other countries and international financial institutions lending to Vietnam to repay its debts, a crucial step towards lifting the embargo.
 *   **Dec. 11, 1993:** The complex of monuments of the former imperial capital of Hue was recognized as a World Cultural Heritage site.
@@ -1842,6 +1845,8 @@
 *   **03/07/2003:** Phong Nha - Ke Bang National Park was first recognized by UNESCO for its geological and geomorphological features.
 *   **Nov. 7, 2003:** Hue Royal Court Music (Nhã nhạc) was recognized by UNESCO as the first intangible heritage.
 *   **Dec. 2003:** Vietnam hosted the 22nd SEA Games.
+*   **Jan. 10, 2004:** The Vietnam Association of Victims of Agent Orange/Dioxin (VAVA) was officially established, with Lieutenant General Dang Vu Hiep as President and former Vice President Nguyen Thi Binh as Honorary President.
+*   **Jan. 30, 2004:** VAVA filed a landmark class-action lawsuit in a US federal court against 37 US chemical companies for producing the toxic defoliants, including Agent Orange, used during the Vietnam War, seeking justice and compensation for millions of Vietnamese victims.
 *   **2004:** Vietnam was awarded a Guinness World Record for the largest banh tet (Vietnamese sticky rice cake) in the world.
 *   **2004:** The Prime Minister approved the overall development plan for Phu Quoc Island.
 *   **Mar. 2005:** The Hanoi Stock Exchange (HNX) was established.
@@ -1975,6 +1980,7 @@
     * **Commune level:** Including communes (rural areas), wards (urban areas), and special zones.
 *   **Jul. 1, 2025:** District-level governments, including urban districts, rural districts, city-level municipalities (under provinces), city-level municipalities (under centrally-run cities), and towns, officially ceased operations. The two-level model of provincial and commune governments officially began operation.
 *   **Jul. 2025:** Former leaders Nguyen Xuan Phuc and Vuong Dinh Hue were stripped of all past titles.
+*   **Aug. 25, 2025:** At the 80th-anniversary ceremony of the diplomatic sector in Hanoi, General Secretary To Lam awarded the "Hero of Labor" title to Nguyen Thi Binh, recognizing her historical contributions as the PRG RSV's chief negotiator at the Paris Peace Conference and her lifetime of service to the nation.
 *   **Sep. 2025:** Vietnam officially waives tuition fees for students from preschool to public high schools.
 *   **Sep. 02, 2025:** Commemoration of the 80th anniversary of the National Day of the Socialist Republic of Vietnam.
 *   **Sep. 03, 2025:** The world's largest lacquer painting is "President Ho Chi Minh Reading the Declaration of Independence" by young artist Chu Nhat Quang, which has been recognized by the Guinness World Records organization.
