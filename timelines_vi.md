@@ -1010,7 +1010,9 @@
 *   **1906:** Phong trào Duy tân do Phan Châu Trinh, Huỳnh Thúc Kháng, Trần Quý Cáp khởi xướng lan rộng ở Trung Kỳ, chủ trương "khai dân trí, chấn dân khí, hậu dân sinh".
 *   **1906 - 1908:** Tại làng Phú Lâm (Quảng Nam), Lý trưởng Lê Cơ tiên phong thực hiện cải cách: lập trường học (có trường nữ học đầu tiên trong vùng), hội buôn, đồn điền, trở thành mô hình thực tế của phong trào Duy Tân.
 *   **16/05/1906:** Toàn quyền Paul Beau ký Nghị định thành lập Đại học Đông Dương.
+*   **06/06/1906:** Liên Thành thương quán được sáu sĩ phu yêu nước thành lập tại Phan Thiết nhằm hưởng ứng phong trào Duy Tân. Ban đầu đăng ký là công ty nặc danh với thời hạn 10 năm, công ty sản xuất nước mắm để tạo nguồn quỹ cho các hoạt động yêu nước và tạo việc làm cho người lao động.
 *   **03/1907:** Đông Kinh Nghĩa Thục bắt đầu mở lớp dạy chữ Quốc ngữ cho cả nam và nữ tại số 4 Hàng Đào (Hà Nội) trước khi có giấy phép chính thức.
+*   **1907:** Dục Thanh học hiệu được các nhà sáng lập Liên Thành thương quán lập ra để dạy những tư tưởng tiến bộ yêu nước cho con em lao động nghèo.
 *   **07/04/1907:** Lê Duẩn sinh ra tại Triệu Phong, Quảng Trị. Ông sau này trở thành Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, nhà lãnh đạo kiệt xuất của cách mạng Việt Nam.
 *   **05/1907:** Đông Kinh Nghĩa Thục chính thức được cấp giấy phép, mở rộng quy mô dạy học, diễn thuyết và cổ động thực nghiệp.
 *   **10/11/1907:** Đại học Đông Dương khai giảng khóa đầu tiên.
@@ -1023,7 +1025,9 @@
 *   **12/1908:** Thực dân Pháp ra lệnh đóng cửa trường Đông Kinh Nghĩa thục và đàn áp những người tham gia.
 *   **08/1909 - 01/1910:** Cuộc khởi nghĩa của đồng bào Mường ở Hòa Bình do Đốc Bang và Tổng Kiêm lãnh đạo.
 *   **06/06/1909:** Tổng đốc Lưỡng Quảng (Trung Quốc) phái một đoàn thám hiểm ngắn ngày, do Thủy sư Đô đốc Lý Chuẩn chỉ huy, đổ bộ chớp nhoáng (24 giờ) lên vài đảo thuộc quần đảo Hoàng Sa để bắn đại bác và kéo cờ Trung Quốc. Pháp đã không có phản kháng chính thức nào vào thời điểm đó.
-*   **05/06/1911:** Từ Bến Nhà Rồng (Sài Gòn), người thanh niên Nguyễn Tất Thành (lấy tên Văn Ba) lên con tàu *Amiral Latouche-Tréville* ra đi tìm đường cứu nước.
+*   **09/1910:** Thầy giáo Nguyễn Tất Thành rời Dục Thanh học hiệu, đi ghe bầu của công ty Liên Thành vào Sài Gòn. Nguyễn Tất Thành lưu trú tại các cơ sở của công ty và làm việc tại Trường Cơ khí Á Châu (École des Mécaniciens) để chuẩn bị cho hành trình ra nước ngoài.
+*   **1911:** Dục Thanh học hiệu đóng cửa sau 5 năm hoạt động. Công ty Liên Thành đã hỗ trợ Nguyễn Tất Thành 18 đồng bạc Đông Dương làm lộ phí cho chuyến đi tìm đường cứu nước.
+*   **05/06/1911:** Từ Bến cảng Nhà Rồng (Sài Gòn), người thanh niên yêu nước Nguyễn Tất Thành lên con tàu Pháp *Amiral Latouche-Tréville* với tên gọi Văn Ba, làm phụ bếp, bắt đầu hành trình 30 năm bôn ba qua các châu lục tìm đường cứu nước, giải phóng dân tộc.
 *   **1911:** Phan Châu Trinh được trả tự do từ Côn Đảo nhờ sự can thiệp của Hội Nhân quyền Pháp, sau đó ông cùng con trai sang Pháp và viết tác phẩm *Trung Kỳ dân biến thỉ mạt ký*.
 *   **18/11/1911:** Đạo Tin Lành đặt cơ sở đầu tiên tại Đà Nẵng, chính thức du nhập vào Việt Nam.
 *   **11/1911:** Albert Sarraut nhậm chức Toàn quyền, tiếp tục đẩy mạnh chính sách "hợp tác" và các cải cách mị dân.
@@ -1032,6 +1036,7 @@
 *   **19/04/1913:** Thành viên của Việt Nam Quang Phục Hội (Phạm Văn Tráng) ám sát Tuần phủ Thái Bình Nguyễn Duy Hàn.
 *   **26/04/1913:** Một vụ ném bom khác xảy ra tại Khách sạn Hà Nội, giết chết 2 sĩ quan Pháp.
 *   **24/12/1913:** Phan Bội Châu bị bắt tại Quảng Đông, Trung Quốc.
+*   **1913:** Trong hành trình tìm đường cứu nước, Nguyễn Tất Thành làm phụ bếp tại khách sạn Carlton ở nước Anh.
 
 ### **Giai đoạn Chiến tranh Thế giới thứ nhất (1914 - 1918)**
 
@@ -1101,6 +1106,7 @@
 *   **1923:** Cơ quan Kiểm tra và Cứu trợ người bản xứ của các thuộc địa (C.A.I.) được thành lập tại Pháp để giám sát người Việt.
 *   **06/1923:** Nguyễn Ái Quốc sang Liên Xô học tập và làm việc tại Quốc tế Cộng sản.
 *   **10/1923:** Nguyễn Ái Quốc được bầu vào Đoàn Chủ tịch Quốc tế Nông dân.
+*   **17/06 - 08/07/1924:** Nguyễn Ái Quốc tham dự Đại hội lần thứ V Quốc tế Cộng sản tại Moskva.
 *   **19/06/1924:** Phạm Hồng Thái thực hiện vụ mưu sát Toàn quyền Martial Merlin tại Sa Diện (Quảng Châu), tạo tiếng vang lớn.
 *   **18/09/1924:** Toàn quyền Merlin ký nghị định sửa đổi Bộ Học chính tổng quy, chủ trương phát triển giáo dục tiểu học ("giáo dục theo chiều ngang").
 *   **27/10/1924:** Trường Mỹ thuật Đông Dương được thành lập tại Hà Nội.

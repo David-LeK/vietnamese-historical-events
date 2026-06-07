@@ -1010,7 +1010,9 @@
 *   **1906:** The Duy Tan (Modernization) Movement, initiated by Phan Chau Trinh, Huynh Thuc Khang, and Tran Quy Cap, spread throughout Annam, advocating for "enlightening the people's minds, strengthening the people's spirit, improving the people's livelihood."
 *   **1906 - 1908:** Village Chief Le Co implemented comprehensive reforms in Phu Lam village (Quang Nam), establishing schools (including the first girls' school in the region), commercial associations, and plantations, serving as a practical model for the Duy Tan movement.
 *   **May 16, 1906:** Governor-General Paul Beau signed a decree establishing the University of Indochina.
+*   **June 6, 1906:** Lien Thanh Thuong Quan (Lien Thanh Commercial House) was established in Phan Thiet by six patriotic scholars to respond to the Duy Tan movement. Initially registered as an anonymous company for 10 years, it produced traditional fish sauce to fund patriotic activities and provide employment.
 *   **Mar. 1907:** Dong Kinh Nghia Thuc (Tonkin Free School) began holding Quoc Ngu classes for both men and women at 4 Hang Dao Street (Hanoi) before receiving an official license.
+*   **1907:** Duc Thanh Hoc Hieu (Duc Thanh School) was established by the founders of Lien Thanh to teach progressive patriotic ideas to the children of poor laborers.
 *   **Apr. 7, 1907:** Le Duan was born in Trieu Phong, Quang Tri. He later became the General Secretary of the Communist Party of Vietnam, a prominent leader of the Party and the Vietnamese revolution.
 *   **May 1907:** Dong Kinh Nghia Thuc was officially granted a license, expanding its activities in teaching, public speaking, and promoting industry and commerce.
 *   **Nov. 10, 1907:** The University of Indochina opened its first academic year.
@@ -1023,7 +1025,9 @@
 *   **Dec. 1908:** The French colonialists ordered the closure of the Dong Kinh Nghia Thuc school and suppressed its participants.
 *   **Aug. 1909 - Jan. 1910:** The uprising of the Muong people in Hoa Binh, led by Doc Bang and Tong Kiem.
 *   **Jun. 6, 1909:** The Viceroy of Liangguang (China) sent a brief expedition, commanded by Admiral Li Chun, for a 24-hour landing on several islands of the Paracels to fire cannons and raise the Chinese flag. France made no official protest at the time.
-*   **Jun. 5, 1911:** From Nha Rong Harbor (Saigon), Nguyen Tat Thanh (using the name Van Ba) departed on the ship *Amiral Latouche-Tréville*, beginning his journey to seek a path for national salvation.
+*   **September 1910:** Teacher Nguyen Tat Thanh (later Ho Chi Minh) left Duc Thanh School and traveled to Saigon on a boat owned by Lien Thanh Company. He stayed at the company's facilities in Saigon and worked at École des Mécaniciens to prepare for his journey abroad.
+*   **1911:** Duc Thanh School closed after five years of operation. Lien Thanh Company supported Nguyen Tat Thanh with 18 Indochinese piastres for his travel expenses to seek a path for national salvation.
+*   **June 5, 1911:** From Nha Rong Harbor (Saigon), young patriot Nguyen Tat Thanh departed on the French ship *Amiral Latouche-Tréville* under the name Van Ba, working as a kitchen assistant. He began a 30-year journey across continents to seek a path to liberate the nation.
 *   **1911:** Following intervention by the French League for Human Rights, Phan Chau Trinh was released from Con Dao prison and subsequently traveled to France, where he wrote the *Trung Ky dan bien thi mat ki* (A Complete Account of the Peasants' Uprising in the Central Region).
 *   **Nov. 18, 1911:** Protestantism established its first base in Da Nang, officially entering Vietnam.
 *   **Nov. 1911:** Albert Sarraut assumed the post of Governor-General, continuing to promote the "association" policy and demagogic reforms.
@@ -1032,6 +1036,7 @@
 *   **Apr. 12, 1913:** A member of the Vietnam Restoration League assassinated the governor of Thai Binh, Nguyen Duy Han.
 *   **Apr. 26, 1913:** Another bombing occurred at the Hanoi Hotel, killing two French officers.
 *   **Dec. 24, 1913:** Phan Boi Chau was arrested in Guangdong, China.
+*   **1913:** During his journey to find a way to save the country, Nguyen Tat Thanh worked as a kitchen assistant at the Carlton Hotel in England.
 
 ### **Period of the First World War (1914 - 1918)**
 
@@ -1101,6 +1106,7 @@
 *   **1923:** The Service for the Control and Assistance of Natives of the Colonies (C.A.I.) was established in France to monitor the Vietnamese.
 *   **Jun. 1923:** Nguyen Ai Quoc arrived in the Soviet Union to study and work at the Comintern.
 *   **Oct. 1923:** Nguyen Ai Quoc was elected to the Presidium of the Peasant International.
+*   **June 17 - July 8, 1924:** Nguyen Ai Quoc attended the 5th Congress of the Communist International in Moscow.
 *   **Jun. 19, 1924:** Pham Hong Thai carried out an assassination attempt on Governor-General Martial Merlin in Shamian (Guangzhou), creating a great sensation.
 *   **Sep. 18, 1924:** Governor-General Merlin signed a decree amending the General Code of Public Education, advocating for the development of primary education ("horizontal education").
 *   **Oct. 27, 1924:** The Indochina School of Fine Arts was established in Hanoi.
