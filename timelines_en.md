@@ -1286,6 +1286,7 @@
 *   **Jan. 31, 1946:** The government issued a decree allowing the issuance of Vietnamese banknotes in the free zones of South-Central Vietnam.
 *   **Feb. 28, 1946:** The Chongqing Agreement was signed between France and the Chiang Kai-shek government, agreeing to allow French troops to enter the North to replace Chiang's troops.
 *   **Mar. 2, 1946:** The 1st National Assembly held its first session, electing the Coalition Resistance Government with Ho Chi Minh as President.
+*   **Mar. 1946:** During the 1st National Assembly, delegate Huynh Van Tieng reportedly proposed renaming Saigon to Ho Chi Minh City, reflecting the early sentiments of the Southern people towards President Ho Chi Minh.
 *   **Mar. 6, 1946:** President Ho Chi Minh and Vu Hong Khanh, on behalf of the Vietnamese Government, signed the Preliminary Agreement with J. Sainteny, representative of the French Government.
 *   **Mar. 9, 1946:** The Party Central Standing Committee issued the directive "Peace to Advance."
 *   **Mar. 24, 1946:** President Ho Chi Minh and French High Commissioner D'Argenlieu held talks in Ha Long Bay.
@@ -1308,6 +1309,8 @@
 *   **Jul. 12, 1946:** The "On Nhu Hau Street Affair" occurred. The police forces of the Democratic Republic of Vietnam raided the headquarters of the Vietnam Nationalist Party (VNQDD), dismantling a plot to overthrow the government.
 *   **Jul. 22, 1946:** The Vietnam Socialist Party was founded, aiming to unite patriotic intellectuals.
 *   **Aug. 1, 1946:** D'Argenlieu convened the Conference of the Indochinese Federation in Da Lat, sabotaging the Fontainebleau Conference.
+*   **Aug. 25, 1946:** At a gathering of Southern compatriots in Hanoi, professor, doctor, and People's Teacher Tran Huu Nghiep, representing Southern intellectuals, formally proposed renaming Saigon to Ho Chi Minh City to honor President Ho Chi Minh's great contributions and to express the Southern people's aspiration for national reunification. This historic proposal was supported and signed by 57 Southern intellectuals present at the meeting.
+*   **Aug. 27, 1946:** The proposal and resolution by the 57 Southern intellectuals to rename Saigon to Ho Chi Minh City were published in the *Cuu Quoc* (National Salvation) newspaper, transforming an individual initiative into a widespread reflection of the people's aspirations in Saigon - Gia Dinh and the South.
 *   **Sep. 14, 1946:** President Ho Chi Minh signed a Modus Vivendi with the French Minister of Overseas France, Marius Moutet, in Paris.
 *   **Sep. 21, 1946:** The Vietnam Democratic Social Party (Dan Chu Xa Hoi Dang or Dan Xa) was founded by Huynh Phu So, the founder of Hoa Hao Buddhism.
 *   **Oct. 20, 1946:** President Ho Chi Minh returned to Haiphong port.
@@ -1692,7 +1695,7 @@
 *   **Jun. 24 - Jul. 2, 1976:** The first session of the 6th National Assembly (the unified National Assembly) was held in Hanoi.
     *   It decided to name the country the **Socialist Republic of Vietnam**.
     *   The capital is Hanoi, the national flag is the red flag with a gold star, and the national anthem is the song *Tien quan ca*.
-    *   Saigon - Gia Dinh city was renamed **Ho Chi Minh City**.
+    *   On July 2, it officially passed a resolution to rename Saigon - Gia Dinh city to **Ho Chi Minh City**, realizing a nearly 30-year aspiration since the initial proposal in 1946.
     *   The highest state bodies and leadership positions were elected.
 *   **Jul. 3, 1976:** Nguyen Thi Binh was appointed Minister of Education of the unified Socialist Republic of Vietnam. She held this position until 1987, directing the integration of the educational systems of the North and the South and overseeing major post-war educational reforms.
 *   **Dec. 1976:** The government launched the second campaign to reform private capitalist industry and commerce in the South.
