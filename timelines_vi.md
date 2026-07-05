@@ -1611,6 +1611,7 @@
 *   **30/04 - 30/06/1970:** Hơn 10 vạn quân Mỹ và quân đội Sài Gòn mở Chiến dịch Campuchia, thực hiện 23 cuộc hành quân ồ ạt đánh sâu vào đất Campuchia từ 30 đến 80 km nhằm truy tìm và tiêu diệt cơ quan đầu não Trung ương Cục miền Nam.
 *   **02/07/1970:** Bộ Chính trị ra Nghị quyết số 200-NQ/TW thành lập Hội đồng chi viện tiền tuyến ở Trung ương để huy động sức người, sức của đáp ứng yêu cầu của chiến trường.
 *   **08/02 - 24/03/1971:** Chiến dịch Đường 9 - Nam Lào (Lam Sơn 719). Quân lực Việt Nam Cộng hòa, yểm trợ bởi 10.000 quân Mỹ cùng 1.200 máy bay và pháo binh hạng nặng, huy động hơn 21.000 quân tinh nhuệ nhất (Dù, Thủy quân lục chiến, Thiết giáp) tiến công sang Hạ Lào nhằm cắt đứt đường mòn Hồ Chí Minh tại Xê-pôn. Quân Giải phóng miền Nam Việt Nam (với 60.000 quân) đã thực hiện chiến dịch phản công hiệp đồng binh chủng quy mô lớn chưa từng có. Nổi bật là trận đại phá Bản Đông (12/03 - 20/03), Quân Giải phóng đập tan Lữ đoàn 1 Dù và 2 thiết đoàn VNCH. Chiến dịch kết thúc với thất bại thảm hại của quân đội Sài Gòn (thương vong trên 1.500 người, hàng trăm bị bắt; mất 71 xe tăng, 163 xe thiết giáp, hơn 100 trực thăng bị phá hủy và hơn 600 chiếc bị bắn hỏng). Thắng lợi này đánh dấu sự trưởng thành vượt bậc của Quân Giải phóng, làm phá sản mục tiêu cắt đứt đường Trường Sơn và giáng đòn chí mạng vào chiến lược "Việt Nam hóa chiến tranh" của Mỹ.
+*   **1971:** Bà Nguyễn Thị Bình, Trưởng đoàn đàm phán của Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam tại Hội nghị Paris, sang thăm Iraq và được chính phủ cùng nhân dân Iraq đón tiếp hết sức trọng thị.
 *   **20/04/1971:** Bộ Ngoại giao Việt Nam Cộng hòa đưa ra lời phản kháng đối với Malaysia về các vấn đề lãnh thổ, đồng thời nhân dịp này khẳng định lại chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa.
 *   **01/07/1971:** Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam đưa ra lập trường 7 điểm tại Hội nghị Paris.
 *   **11/07/1971:** Tổng thống Philippin công bố việc quân đội Trung Hoa Dân quốc (Đài Loan) đã chiếm đóng và củng cố đảo Ba Bình (Itu Aba) thuộc Trường Sa, mặc dù ông không bày tỏ yêu sách nào của Philippin đối với hòn đảo này vào thời điểm đó.
@@ -1629,6 +1630,7 @@
 *   **30/12/1972:** Mỹ buộc phải tuyên bố ngừng ném bom miền Bắc từ vĩ tuyến 20 trở ra và chấp nhận nối lại đàm phán.
 *   **15/01/1973:** Mỹ chấm dứt hoàn toàn mọi hành động chiến tranh chống phá miền Bắc.
 *   **27/01/1973:** **Hiệp định Paris** về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam được ký kết. Mỹ cam kết tôn trọng độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Việt Nam và rút hết quân khỏi miền Nam. Đại diện cho Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam, Bộ trưởng Ngoại giao **Nguyễn Thị Bình** là người phụ nữ duy nhất tham gia ký kết hiệp định lịch sử này.
+*   **1973:** Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam mở Đại sứ quán tại Iraq. Chính phủ Iraq đã hào phóng đài thọ toàn bộ chi phí hoạt động, từ trụ sở, xe cộ (bao gồm chiếc xe Citroen mới tinh do Tổng thống Ahmed Hassan Al-Bakr tặng) đến tiền mặt trang trải chi tiêu hàng ngày để hỗ trợ Việt Nam trong bối cảnh chiến tranh khó khăn.
 
 ### **Tổng tiến công và nổi dậy Mùa Xuân 1975, giải phóng hoàn toàn miền Nam (1973 - 1975)**
 
@@ -1684,6 +1686,7 @@
 *   **10/09/1975:** Cộng hòa Nhân dân Trung Hoa gửi một công hàm cho nước Việt Nam Dân chủ Cộng hòa nhấn mạnh lập trường rằng hai quần đảo Hoàng Sa và Trường Sa luôn luôn là một bộ phận của lãnh thổ Trung Quốc.
 *   **24/09/1975:** Trong chuyến thăm của một phái đoàn Việt Nam đến Trung Quốc, Phó Thủ tướng Trung Quốc Đặng Tiểu Bình đã tuyên bố rằng vấn đề các quần đảo "tất nhiên sẽ được đưa ra thảo luận trong tương lai".
 *   **09/1975:** Hội nghị lần thứ 24 Ban Chấp hành Trung ương Đảng Lao động Việt Nam đề ra nhiệm vụ hoàn thành thống nhất đất nước về mặt Nhà nước.
+*   **10/1975:** Bà Nguyễn Thị Bình thăm Iraq với nhiệm vụ vận động vay dầu. Phó Chủ tịch Hội đồng Chỉ huy Cách mạng Saddam Hussein đã quyết định tặng Việt Nam 400.000 tấn dầu và cho vay thêm 1,5 triệu tấn. Cùng thời điểm, Thứ trưởng Ngoại giao miền Bắc Nguyễn Cơ Thạch cũng sang thăm, và Saddam Hussein đã quyết định cho miền Bắc vay 2 triệu tấn dầu không tính lãi.
 *   **22/09/1975:** Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam tổ chức cuộc đổi tiền trên quy mô toàn miền Nam, phát hành "Tiền Ngân hàng Việt Nam" (còn gọi là tiền Giải phóng).
 *   **15-21/11/1975:** Hội nghị Hiệp thương Chính trị giữa hai miền Nam - Bắc được tổ chức tại Sài Gòn, bàn về việc thống nhất nước nhà về mặt Nhà nước.
 *   **22-27/12/1975:** Quốc hội khóa V (miền Bắc) họp kỳ thứ hai, phê chuẩn kết quả Hội nghị Hiệp thương và quyết định hợp nhất một số tỉnh.
@@ -1698,6 +1701,7 @@
     *   Ngày 02/07, chính thức thông qua quyết nghị đặt tên thành phố Sài Gòn - Gia Định là **Thành phố Hồ Chí Minh**, hiện thực hóa hành trình gần 30 năm ấp ủ kể từ lần đề xuất năm 1946.
     *   Bầu các cơ quan và chức vụ lãnh đạo cao nhất của Nhà nước.
 *   **03/07/1976:** Bà Nguyễn Thị Bình được bổ nhiệm làm Bộ trưởng Bộ Giáo dục của nước Cộng hòa Xã hội chủ nghĩa Việt Nam thống nhất. Bà giữ chức vụ này đến năm 1987, chỉ đạo công cuộc hợp nhất hệ thống giáo dục hai miền Nam - Bắc và tiến hành các cuộc cải cách giáo dục thời hậu chiến.
+*   **1976:** Sau khi đất nước thống nhất, chính phủ Iraq đã cử các chuyên gia luật pháp và dầu khí giỏi nhất sang giúp đỡ Việt Nam trong việc thăm dò, khai thác dầu khí và chia sẻ kinh nghiệm đàm phán hợp đồng với các công ty nước ngoài.
 *   **12/1976:** Chính phủ tiến hành chiến dịch cải tạo công thương nghiệp tư bản tư doanh lần thứ hai ở miền Nam.
 *   **12/1976:** Đại hội đại biểu toàn quốc lần thứ IV của Đảng được tổ chức tại Hà Nội.
     *   Đổi tên Đảng Lao động Việt Nam thành **Đảng Cộng sản Việt Nam**.
@@ -1725,6 +1729,7 @@
 *   **30/12/1978 - 11/08/1980:** Cộng hòa Xã hội Chủ nghĩa Việt Nam đã liên tiếp đưa ra nhiều lời phản kháng (vào các ngày 30/12/1978, 07/08/1979, 05/02/1980 và 11/08/1980) chống lại các hành vi vi phạm chủ quyền của CHND Trung Hoa, Đài Loan và các quốc gia khác đối với các quần đảo.
 *   **07/01/1979:** Quân tình nguyện Việt Nam phối hợp cùng lực lượng vũ trang cách mạng Campuchia giải phóng Thủ đô Phnôm Pênh, chính thức lật đổ chế độ diệt chủng Pôn Pốt.
 *   **17/01/1979:** Toàn bộ đất nước Campuchia được giải phóng khỏi ách thống trị của Khmer Đỏ.
+*   **1979:** Theo hiệp định vay nợ, Việt Nam bắt đầu phải trả đợt nợ đầu tiên cho Iraq. Tuy nhiên, do đất nước vừa ra khỏi chiến tranh và phải đối phó với chiến tranh biên giới Tây Nam và phía Bắc, Việt Nam không có khả năng trả nợ. Trong chuyến thăm của Thủ tướng Phạm Văn Đồng, chính phủ của Tổng thống Saddam Hussein đã quyết định cho Việt Nam vay 100 triệu USD để trả số nợ đến hạn cho chính Iraq, một quyết định có một không hai trong quan hệ quốc tế.
 *   **08/01/1979:** Hội đồng Nhân dân Cách mạng Campuchia do Heng Samrin làm Chủ tịch được thành lập với sự hậu thuẫn của Việt Nam sau khi Phnôm Pênh được giải phóng.
 *   **17/02/1979:** Trung Quốc huy động lực lượng khổng lồ (lên tới hơn 30 vạn quân) đồng loạt tấn công 6 tỉnh biên giới phía Bắc Việt Nam (Chiến tranh biên giới Việt - Trung). Quân Trung Quốc sử dụng chiến thuật "biển người" và pháo binh hạng nặng, tàn phá triệt để cơ sở hạ tầng tại các thị xã như Lào Cai, Cao Bằng, Lạng Sơn, nhưng đã vấp phải sự kháng cự quyết liệt của bộ đội địa phương và dân quân tự vệ Việt Nam.
 *   **18/02/1979:** Việt Nam và Campuchia ký Hiệp ước hòa bình, hữu nghị và hợp tác.
@@ -1735,6 +1740,7 @@
 *   **08/1979:** Hội nghị lần thứ 6 Ban Chấp hành Trung ương Đảng (khóa IV) ra nghị quyết "Về tình hình và nhiệm vụ cấp bách", thừa nhận những khó khăn, yếu kém trong quản lý kinh tế và đề ra chủ trương "làm cho sản xuất bung ra".
 *   **01/10/1979:** Tiến hành cuộc Tổng điều tra dân số lần thứ hai trong cả nước.
 *   **30/03/1980:** Chủ tịch nước Tôn Đức Thắng qua đời. Phó Chủ tịch nước **Nguyễn Hữu Thọ** giữ Quyền Chủ tịch nước (đến tháng 7/1981).
+*   **Những năm 1980:** Bất chấp những khó khăn to lớn do cuộc chiến tranh Iran - Iraq, chính phủ Iraq vẫn đồng ý với đề nghị của Việt Nam cho hoãn nợ và nhận trả nợ bằng hàng hóa (gạo, chè, quần áo) cùng lao động. Hàng ngàn lao động Việt Nam đã sang Iraq làm việc, trích một nửa tiền lương để trả nợ cho nước bạn.
 *   **23/07/1980:** Anh hùng Phạm Tuân cùng nhà du hành vũ trụ Liên Xô Viktor Vassilyevich Gorbatko thực hiện chuyến bay trên tàu vũ trụ Soyuz 37 trong chương trình Interkosmos của Liên Xô. Ông là người Việt Nam đầu tiên và cũng là người châu Á đầu tiên bay vào vũ trụ, đưa Việt Nam trở thành quốc gia thứ 10 trên thế giới có công dân bay vào không gian.
 *   **18/12/1980:** Quốc hội khóa VI thông qua Hiến pháp năm 1980, Hiến pháp của thời kỳ quá độ lên chủ nghĩa xã hội.
 *   **13/01/1981:** Ban Bí thư ra Chỉ thị số 100/CT-TƯ ("Khoán 100") về việc cải tiến công tác khoán, mở rộng khoán sản phẩm đến nhóm và người lao động trong hợp tác xã nông nghiệp.
@@ -1817,6 +1823,7 @@
 *   **09/02/1995:** Philippin chính thức phản đối việc Cộng hòa Nhân dân Trung Hoa chiếm đóng và xây dựng nơi trú ẩn trên đá Vành Khăn (Mischief Reef) ở quần đảo Trường Sa.
 *   **12/07/1995:** Tổng thống Mỹ Bill Clinton và Thủ tướng Việt Nam Võ Văn Kiệt đồng thời tuyên bố **bình thường hóa quan hệ ngoại giao** giữa hai nước.
 *   **28/07/1995:** Việt Nam chính thức được kết nạp làm **thành viên thứ 7** của Hiệp hội các quốc gia Đông Nam Á (ASEAN) tại Brunei.
+*   **1995:** Trong bối cảnh Iraq bị Mỹ và quốc tế cấm vận nghiêm ngặt, Đại sứ Việt Nam tại Iraq Nguyễn Quang Khai đã thuyết phục Công ty Lương thực miền Bắc (Vinafood 1) bán chịu một tàu gạo (25.000 - 30.000 tấn) cho Iraq. Sự kiện này mở đầu cho việc Việt Nam trở thành nhà cung cấp gạo chủ chốt cho Iraq thông qua chương trình "Đổi dầu lấy lương thực" của Liên Hợp Quốc.
 
 ### **Thời kỳ Đẩy mạnh Công nghiệp hóa, Hiện đại hóa (1996 - 2000)**
 
@@ -1829,6 +1836,7 @@
 *   **1998:** Trung tâm Giao dịch Chứng khoán TP. Hồ Chí Minh được thành lập theo quyết định của Thủ tướng Chính phủ
 *   **31/07/1998:** Thủ tướng Chính phủ ban hành Quyết định 135/1998/QĐ-TTg về chương trình phát triển kinh tế - xã hội các xã đặc biệt khó khăn miền núi và vùng sâu, vùng xa (Chương trình 135).
 *   **11/1998:** Bộ Chính trị ra Nghị quyết 06 về một số vấn đề nông nghiệp và kinh tế nông thôn, lần đầu tiên chính thức thừa nhận và khuyến khích phát triển **mô hình kinh tế trang trại**.
+*   **Cuối năm 1998:** Trong lúc Mỹ nã tên lửa vào thủ đô Baghdad, một đoàn doanh nghiệp Việt Nam gồm 25 người do Thứ trưởng Bộ Công nghiệp Lê Huy Côn dẫn đầu vẫn bám trụ và trú ẩn tại Đại sứ quán Việt Nam. Cảm động trước sự gắn bó trong lúc hoạn nạn, Chính phủ Iraq sau đó đã ưu tiên dành nhiều hợp đồng thương mại lớn cho các doanh nghiệp Việt Nam.
 *   **04/12/1999:** Đô thị cổ Hội An và Thánh địa Mỹ Sơn được công nhận là Di sản Văn hóa Thế giới.
 *   **30/12/1999:** Việt Nam và Trung Quốc chính thức ký kết **Hiệp ước Biên giới trên đất liền**.
 *   **01/01/2000:** **Luật Doanh nghiệp** chính thức có hiệu lực, tạo ra một bước đột phá trong cải cách thủ tục hành chính, bãi bỏ nhiều giấy phép con, thúc đẩy mạnh mẽ sự phát triển của khu vực kinh tế tư nhân.
@@ -1843,6 +1851,7 @@
 *   **19 - 22/04/2001:** Đại hội IX của Đảng, lần đầu khẳng định mô hình kinh tế thị trường định hướng XHCN.
 *   **28/11/2001:** Quốc hội phê chuẩn Hiệp định Thương mại Việt Nam - Hoa Kỳ (BTA).
 *   **10/12/2001:** Hiệp định BTA chính thức có hiệu lực.
+*   **2002:** Phó Chủ tịch nước Nguyễn Thị Bình sang thăm Iraq để gặp Tổng thống Saddam Hussein nhằm giải quyết khoản nợ kéo dài hơn 20 năm chưa trả xong. Dù Iraq đang bị cấm vận và vô vàn khó khăn, Tổng thống Saddam Hussein đã quyết định xóa toàn bộ số nợ cho Việt Nam. Bản thỏa thuận xóa nợ được Phó Tổng thống Iraq Taha Yassin Ramadan ký kết.
 *   **26/02/2003:** Ghi nhận ca nhiễm SARS đầu tiên tại Việt Nam.
 *   **05/2003:** WHO công nhận Việt Nam là quốc gia đầu tiên khống chế thành công dịch SARS.
 *   **03/07/2003:** Vườn Quốc gia Phong Nha - Kẻ Bàng được UNESCO công nhận lần đầu về địa chất, địa mạo.

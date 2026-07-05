@@ -1611,6 +1611,7 @@
 *   **Apr. 30 - Jun. 30, 1970:** Over 100,000 US and Saigon troops launched the Cambodian Campaign, conducting 23 large-scale operations up to 80 kilometers deep into Cambodian territory to seek and destroy the COSVN headquarters.
 *   **Jul. 2, 1970:** The Politburo issued Resolution No. 200-NQ/TW establishing the Central Council for Frontline Supply to mobilize manpower and resources for the battlefield.
 *   **Feb. 8 - Mar. 24, 1971:** Route 9 - Southern Laos Campaign (Operation Lam Son 719). The Republic of Vietnam forces, heavily supported by 10,000 US troops, 1,200 aircraft, and heavy artillery, mobilized over 21,000 of their most elite troops (Airborne, Marines, Armor) to invade southern Laos to sever the Ho Chi Minh Trail at Tchepone. The Liberation Army of South Vietnam (with 60,000 troops) launched an unprecedented large-scale combined-arms counter-offensive. Highlighting the campaign was the decisive victory at Ban Dong (Mar. 12 - 20), where the Liberation Army shattered the ARVN 1st Airborne Brigade and two armored regiments. The campaign ended in a disastrous defeat for the Saigon army (suffering over 1,500 casualties and hundreds captured; losing 71 tanks, 163 armored vehicles, and having over 100 helicopters destroyed and 600 damaged). This victory marked a profound maturation of the Liberation Army, completely thwarted the goal of cutting the Truong Son trail, and dealt a fatal blow to the US "Vietnamization" strategy.
+*   **1971:** Nguyen Thi Binh, Head of the negotiating delegation of the Provisional Revolutionary Government of the Republic of South Vietnam at the Paris Conference, visited Iraq and was welcomed with great honor by the Iraqi government and people.
 *   **Apr. 20, 1971:** The Republic of Vietnam's Ministry of Foreign Affairs issued a formal protest against Malaysia regarding territorial issues and took the opportunity to strongly reaffirm Vietnamese sovereignty over both the Paracel and Spratly archipelagos.
 *   **Jul. 1, 1971:** The Provisional Revolutionary Government of the Republic of South Vietnam put forward a 7-point peace proposal at the Paris Conference.
 *   **Jul. 11, 1971:** The Philippine President publicly announced that Republic of China (Taiwanese) troops had occupied and fortified Itu Aba Island (Ba Binh) in the Spratlys, although he did not express any specific Philippine claims to that particular island at the time.
@@ -1629,6 +1630,7 @@
 *   **Dec. 30, 1972:** The US was forced to declare a halt to the bombing of the North from the 20th parallel northwards and agree to resume negotiations.
 *   **Jan. 15, 1973:** The US completely ended all acts of war against the North.
 *   **Jan. 27, 1973:** The **Paris Peace Accords** on ending the war and restoring peace in Vietnam were signed. The US pledged to respect the independence, sovereignty, unity, and territorial integrity of Vietnam and to withdraw all its troops from the South. Representing the PRG RSV, Minister of Foreign Affairs **Nguyen Thi Binh** was the only woman among the signatories.
+*   **1973:** The Provisional Revolutionary Government of the Republic of South Vietnam opened an Embassy in Iraq. The Iraqi government generously covered all operational expenses, including providing the headquarters, vehicles (including a new Citroen gifted by President Ahmed Hassan Al-Bakr), and daily living expenses to support Vietnam during the war.
 
 ### **1975 Spring General Offensive and Uprising, Complete Liberation of the South (1973 - 1975)**
 
@@ -1684,6 +1686,7 @@
 *   **Sep. 10, 1975:** The People's Republic of China sent a formal diplomatic note to the Democratic Republic of Vietnam emphasizing its stance that the Paracel and Spratly archipelagos had always been part of Chinese territory.
 *   **Sep. 24, 1975:** During a visit by a Vietnamese delegation to China, Chinese Vice Premier Deng Xiaoping stated that the issue of the archipelagos "will of course be discussed in the future."
 *   **Sep. 1975:** The 24th Conference of the Central Committee of the Vietnam Workers' Party set out the task of completing the unification of the country in terms of state administration.
+*   **Oct. 1975:** Nguyen Thi Binh visited Iraq to request an oil loan. Vice President Saddam Hussein decided to gift Vietnam 400,000 tons of oil and provide an interest-free loan of 1.5 million tons. Around the same time, Deputy Foreign Minister of North Vietnam Nguyen Co Thach also visited Iraq, and Saddam Hussein approved an interest-free loan of 2 million tons of oil for North Vietnam.
 *   **Sep. 22, 1975:** The Provisional Revolutionary Government of the Republic of South Vietnam organized a currency exchange across the entire South, issuing the "Bank of Vietnam Currency" (also known as Liberation currency).
 *   **Nov. 15-21, 1975:** A Political Consultative Conference between the North and South was held in Saigon to discuss the unification of the country in terms of state administration.
 *   **Dec. 22-27, 1975:** The 5th National Assembly (of the North) held its second session, ratifying the results of the Consultative Conference and deciding to merge several provinces.
@@ -1698,6 +1701,7 @@
     *   On July 2, it officially passed a resolution to rename Saigon - Gia Dinh city to **Ho Chi Minh City**, realizing a nearly 30-year aspiration since the initial proposal in 1946.
     *   The highest state bodies and leadership positions were elected.
 *   **Jul. 3, 1976:** Nguyen Thi Binh was appointed Minister of Education of the unified Socialist Republic of Vietnam. She held this position until 1987, directing the integration of the educational systems of the North and the South and overseeing major post-war educational reforms.
+*   **1976:** Following the reunification of Vietnam, the Iraqi government dispatched its top legal and oil experts to assist Vietnam in exploring and exploiting oil and gas, providing crucial guidance for negotiating and signing contracts with foreign companies.
 *   **Dec. 1976:** The government launched the second campaign to reform private capitalist industry and commerce in the South.
 *   **Dec. 1976:** The 4th National Congress of the Party was held in Hanoi.
     *   The Vietnam Workers' Party was renamed the **Communist Party of Vietnam**.
@@ -1725,6 +1729,7 @@
 *   **Dec. 30, 1978 - Aug. 11, 1980:** The Socialist Republic of Vietnam issued multiple formal protests (on Dec. 30, 1978, Aug. 7, 1979, Feb. 5, 1980, and Aug. 11, 1980) against actions taken by the PRC, Taiwan, and other nations violating Vietnamese sovereignty over the archipelagos.
 *   **Jan. 7, 1979:** Vietnamese volunteer troops, coordinating with the Kampuchean revolutionary armed forces, liberated the capital Phnom Penh, officially overthrowing the Pol Pot genocidal regime.
 *   **Jan. 17, 1979:** The entirety of Cambodia was liberated from the Khmer Rouge.
+*   **1979:** According to the loan agreement, Vietnam was scheduled to make its first debt repayment to Iraq. However, facing immense post-war difficulties and new border conflicts (against Pol Pot and the Chinese invasion), Vietnam was unable to pay. During a visit by Prime Minister Pham Van Dong, President Saddam Hussein's government made an unprecedented decision to loan Vietnam an additional 100 million USD to pay off the due debt to Iraq itself.
 *   **Jan. 8, 1979:** The People's Revolutionary Council of Cambodia, led by Heng Samrin, was established with the backing of Vietnam following the liberation of Phnom Penh.
 *   **Feb. 17, 1979:** China launched a massive invasion across the six northern border provinces of Vietnam (Sino-Vietnamese War) with a force ultimately exceeding 300,000 troops. The Chinese military employed "human wave" tactics and heavy artillery, causing extensive destruction to infrastructure in border towns like Lao Cai, Cao Bang, and Lang Son before meeting fierce resistance from Vietnamese local forces and militias.
 *   **Feb. 18, 1979:** Vietnam and Cambodia signed a Treaty of Peace, Friendship, and Cooperation.
@@ -1735,6 +1740,7 @@
 *   **Aug. 1979:** The 6th Conference of the Party Central Committee (4th tenure) issued a resolution on "The urgent situation and tasks," acknowledging difficulties and weaknesses in economic management and proposing a policy to "unfetter production."
 *   **Oct. 1, 1979:** The second national Population Census was conducted.
 *   **Mar. 30, 1980:** President Ton Duc Thang passed away. Vice President **Nguyen Huu Tho** served as Acting President (until July 1981).
+*   **1980s:** Despite facing significant difficulties due to the Iran-Iraq War, the Iraqi government agreed to Vietnam's proposal to defer its debt and accept repayment in the form of goods (rice, tea, clothing) and labor. Thousands of Vietnamese workers were sent to Iraq, contributing half of their salaries to debt repayment while helping their families.
 *   **Jul. 23, 1980:** Hero Pham Tuan, along with Soviet cosmonaut Viktor Vassilyevich Gorbatko, made a flight aboard the Soyuz 37 spacecraft as part of the Soviet Interkosmos program. He was the first Vietnamese person and also the first Asian person to fly into space. This made Vietnam the 10th country in the world to have a citizen fly into space.
 *   **Dec. 18, 1980:** The 6th National Assembly passed the 1980 Constitution, the constitution of the period of transition to socialism.
 *   **Jan. 13, 1981:** The Party Secretariat issued Directive No. 100/CT-TU ("Contract 100") on improving the contract system, extending product-based contracts to groups and individual laborers in agricultural cooperatives.
@@ -1817,6 +1823,7 @@
 *   **Feb. 9, 1995:** The Philippines formally protested the People's Republic of China's occupation and construction of shelters on Mischief Reef (Vanh Khan) in the Spratly Islands.
 *   **Jul. 12, 1995:** US President Bill Clinton and Vietnamese Prime Minister Vo Van Kiet simultaneously announced the **normalization of diplomatic relations** between the two countries.
 *   **Jul. 28, 1995:** Vietnam was officially admitted as the **7th member** of the Association of Southeast Asian Nations (ASEAN) in Brunei.
+*   **1995:** During the severe US and international embargo against Iraq, Vietnamese Ambassador to Iraq Nguyen Quang Khai successfully persuaded Vinafood 1 to deliver a ship carrying 25,000 - 30,000 tons of rice to Iraq on credit. This marked the beginning of Vietnam becoming a major rice supplier to Iraq under the UN's "Oil for Food" program.
 
 ### **Period of Accelerating Industrialization and Modernization (1996 - 2000)**
 
@@ -1829,6 +1836,7 @@
 *   **1998:** The Ho Chi Minh City Securities Trading Center was established by a decision of the Prime Minister.
 *   **Jul. 31, 1998:** The Prime Minister issued Decision 135/1998/QD-TTg on the socio-economic development program for especially difficult communes in mountainous, remote, and isolated areas (Program 135).
 *   **Nov. 1998:** The Politburo issued Resolution 06 on some issues of agriculture and the rural economy, for the first time officially recognizing and encouraging the development of the **farm economic model**.
+*   **Late 1998:** During a US missile attack on Baghdad, a Vietnamese business delegation of 25 people, led by Deputy Minister of Industry Le Huy Con, chose to stay and shelter at the Vietnamese Embassy. Deeply moved by this solidarity during a time of danger, the Iraqi government subsequently awarded numerous large commercial contracts to Vietnamese enterprises.
 *   **Dec. 4, 1999:** The ancient town of Hoi An and the My Son Sanctuary were recognized as World Cultural Heritage Sites.
 *   **Dec. 30, 1999:** Vietnam and China officially signed the **Land Border Treaty**.
 *   **Jan. 1, 2000:** The **Enterprise Law** officially took effect, creating a breakthrough in administrative procedure reform, abolishing many sub-licenses, and strongly promoting the development of the private economic sector.
@@ -1843,6 +1851,7 @@
 *   **Apr. 19 - 22, 2001:** The 9th National Congress of the Party, for the first time, affirmed the model of a socialist-oriented market economy.
 *   **Nov. 28, 2001:** The National Assembly ratified the Vietnam - U.S. Bilateral Trade Agreement (BTA).
 *   **Dec. 10, 2001:** The BTA officially came into effect.
+*   **2002:** Vice President of Vietnam Nguyen Thi Binh visited Iraq to meet with President Saddam Hussein regarding the debt that had remained unpaid for over 20 years. In an extraordinary gesture of friendship, despite Iraq being under severe international embargo, President Saddam Hussein ordered the cancellation of Vietnam's entire debt. An agreement to this effect was signed by Iraqi Vice President Taha Yassin Ramadan.
 *   **Feb. 26, 2003:** The first SARS infection case was recorded in Vietnam.
 *   **May 2003:** The WHO recognized Vietnam as the first country to successfully control the SARS epidemic.
 *   **03/07/2003:** Phong Nha - Ke Bang National Park was first recognized by UNESCO for its geological and geomorphological features.
