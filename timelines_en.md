@@ -1291,6 +1291,7 @@
 *   **Mar. 9, 1946:** The Party Central Standing Committee issued the directive "Peace to Advance."
 *   **Mar. 24, 1946:** President Ho Chi Minh and French High Commissioner D'Argenlieu held talks in Ha Long Bay.
 *   **Apr. 6, 1946:** French General Valluy issued secret instructions to Colonel Vicaire regarding plans to occupy the Nung territory (Hai Ninh).
+*   **Apr. 6, 1946:** Kostas Sarantidis (later given the Vietnamese name Nguyễn Văn Lập), a Greek soldier in the French Foreign Legion, defected to the Viet Minh in Binh Thuan. He brought weapons with him, rescued 25 prisoners, and officially joined the Vietnam People's Army. He later became the only foreigner to be awarded the title Hero of the People's Armed Forces of Vietnam.
 *   **Apr. 18, 1946:** General Valluy issued Instruction No. 11 outlining plans to occupy key positions in cities and stage coups.
 *   **Apr. 19, 1946:** The Da Lat Preparatory Conference opened to prepare for official negotiations in France.
 *   **Apr. 20, 1946:** The United National Front (Mat tran Quoc gia Lien hiep) was established in the South, initially with an anti-French stance but later divided.
@@ -1370,6 +1371,7 @@
 *   **Feb. 1950:** A series of people's democratic countries in Eastern Europe recognized the Democratic Republic of Vietnam.
 *   **Feb. 7, 1950:** The US and UK recognized the puppet government of Bao Dai.
 *   **Early Feb. 1950:** President Ho Chi Minh had a secret meeting with Soviet leader Joseph Stalin and Chinese leader Mao Zedong in the Soviet Union to request military aid. The Soviet Union and China agreed to provide significant material and military support for Vietnam's anti-French resistance.
+*   **Feb. 23, 1950:** Raymonde Dien, a young French Communist Party member, lay down on the train tracks at the Saint-Pierre-des-Corps station (Tours, France) to block a train carrying weapons destined for the war in Indochina. She was arrested the same day, but her courageous act became a powerful symbol of the international anti-war movement supporting Vietnam.
 *   **Mar. 19, 1950:** A massive anti-US and anti-French demonstration involving approximately half a million people erupted in Saigon-Cho Lon. Led by prominent figures including lawyer Nguyen Huu Tho, the protest successfully forced two US warships (the USS *Stickell* and USS *Anderson*) to leave the harbor. This merged with the ongoing student protests to become a major milestone in the urban resistance movement.
 *   **Apr. 1950:** The Republic of China's military garrison withdrew from Woody Island in the Paracels.
 *   **May 1, 1950:** US President Truman decided to provide $10 million in direct military aid to France in Indochina.
@@ -1385,6 +1387,7 @@
 ### **Final Period of the Resistance War Against France (1951 - 1954)**
 
 *   **Dec. 6, 1950:** General De Lattre de Tassigny was appointed High Commissioner and Commander-in-Chief of the French army in Indochina, beginning the implementation of a new military plan.
+*   **Dec. 23, 1950:** After 10 months of imprisonment and widespread protests in France and internationally demanding her release, Raymonde Dien was freed.
 *   **Dec. 23, 1950:** The Mutual Defense Agreement for Indochina was signed between the US, France, and the puppet governments (Vietnam, Laos, Cambodia), formalizing US intervention.
 *   **Dec. 25, 1950 - Jan. 18, 1951:** The Vietnamese forces launched the Tran Hung Dao Campaign (also known as the Midlands Campaign), attacking the enemy's defense line in the Vinh Yen - Phuc Yen area. During this campaign, on January 15, 1951, the French military used napalm bombs for the first time in Vietnam.
 *   **Feb. 11-19, 1951:** The 2nd National Congress of the Indochinese Communist Party was held in Vinh Quang commune, Chiem Hoa district, Tuyen Quang.
@@ -1465,6 +1468,7 @@
 *   **Mar. 15, 1956:** Thomas Cloma, a Philippine citizen, landed on several islands of the Spratlys and claimed them as "Freedomland", sparking diplomatic reactions.
 *   **Apr. 1956:** As the French expeditionary force withdrew from Indochina, South Vietnamese forces replaced French units on Pattle Island (Paracels). Concurrently, the People's Republic of China secretly landed troops and occupied the eastern part of the Paracel Islands (Amphitrite group).
 *   **Apr. 28, 1956:** The last French soldier left South Vietnam.
+*   **1956:** Raymonde Dien and Henri Martin made their first visit to Vietnam, attending a Youth Congress in Hanoi where they had a deeply moving meeting with President Ho Chi Minh.
 *   **May 19, 1956:** During a press conference in Manila, the Philippine Foreign Minister used the argument of geographic proximity to assert Philippine rights over the Spratly Islands, following the actions of Thomas Cloma.
 *   **May 31, 1956:** The Government of Beijing issued a communiqué declaring it would not tolerate any violation of its rights over the Spratly Islands.
 *   **Jun. 1, 1956:** South Vietnamese Foreign Minister Vu Van Mau reaffirmed Vietnamese rights over the two archipelagos.
@@ -1566,6 +1570,8 @@
 *   **Jul. 6, 1965:** The Soviet Council of Ministers decided to establish a Military Expert Delegation in Vietnam to assist the Vietnam People's Army's air defense and air force. By July 24, a Soviet expert combat crew directly operated a SAM-2 missile system to shoot down an American F-4C aircraft, marking a new phase in air defense capabilities.
 *   **Aug. 18, 1965:** **Battle of Van Tuong (Quang Ngai):** The United States launched Operation Starlite, deploying around 9,000 Marines supported by armor, air, and naval gunfire to search and destroy the Liberation Army's 1st Regiment (Ba Gia Regiment). This was the first major ground engagement between US forces and the Liberation Army. Despite absolute superiority in firepower, the US Marines were intercepted and ambushed by approximately 2,000 Liberation Army troops utilizing fortified trenches and anti-tank weapons. Both sides claimed victory, but the battle proved that the Liberation Army could successfully engage and withstand large-scale US conventional forces, earning it the title "the Ap Bac against the US military."
 *   **Oct. 19 - Nov. 26, 1965:** **Plei Me Campaign and Battle of Ia Drang (Central Highlands):** The Liberation Army launched the Plei Me Campaign to lure and destroy US and ARVN forces. After a successful siege of the Plei Me camp (Oct 19 - 25), the US 1st Cavalry Division launched counter-operations, leading to the historic **Battle of Ia Drang (Nov 14 - 18)** at Landing Zones X-Ray and Albany. This was the first major conventional clash between the US Army and the regular forces of the Vietnam People's Army. Utilizing "grab the enemy by the belt" close-quarters combat tactics to neutralize US air and artillery superiority (including B-52 carpet bombings), the Liberation Army inflicted severe casualties on the US Cavalry battalions. The battle profoundly altered the US perception of the war, ending early optimism for a swift victory.
+*   **Nov. 2, 1965:** Norman Morrison, an American Quaker and pacifist, self-immolated in front of the Pentagon (USA) to protest the United States' involvement in the Vietnam War. He brought his one-year-old daughter Emily with him before committing the act. His ultimate sacrifice deeply moved the Vietnamese people and anti-war activists worldwide.
+*   **1965:** Kostas Sarantidis (Nguyễn Văn Lập) and his family returned to Greece after living and serving in North Vietnam since 1954. He continued to actively support Vietnam and campaign for aid from his homeland.
 *   **Dec. 25, 1965:** The Dai Viet Revolutionary Party was founded.
 *   **Dec. 1965:** The 12th Conference of the Party Central Committee (3rd tenure) made the strategic resolution to "defeat the US aggressors" and foresaw the strategy of "fighting while negotiating".
 *   **Jan. 16, 1966:** President Ho Chi Minh spoke at a high-level cadre conference studying the 12th Central Committee Resolution, affirming the determination to defeat the US aggressors regardless of troop numbers.
@@ -1588,6 +1594,7 @@
 *   **Jan. 1967:** The 13th Conference of the Party Central Committee (3rd tenure) decided to step up the diplomatic struggle, opening up a "fighting while negotiating" situation.
 *   **Jan. 27, 1967:** The Politburo issued Resolution No. 155-NQ/TW on stepping up the diplomatic struggle, actively attacking the enemy, and coordinating with military and political struggles.
 *   **Jan. 28, 1967:** Foreign Minister Nguyen Duy Trinh declared: "After the US unconditionally stops the bombing... talks with the US can be held."
+*   **May 9, 1967:** Protesters held a vigil for Norman Morrison in the United States, which culminated in a four-day occupation of the Pentagon to protest the Vietnam War.
 *   **May 16, 1967:** Buddhist nun **Nhat Chi Mai** self-immolated at Tu Nghiem Pagoda (Saigon) to pray for peace.
 *   **Sep. 17, 1967:** At the second Congress of Emulation Heroes and Soldiers of the South, the National Liberation Front for South Vietnam awarded the title "Cu Chi - Iron Land, Bronze Rampart" (Củ Chi đất thép thành đồng) to honor the persistent fighting spirit of the army and people of Cu Chi.
 *   **Sep. 29, 1967:** US President Lyndon B. Johnson declared the "San Antonio Formula," expressing willingness to stop bombing North Vietnam in exchange for productive discussions.
@@ -1855,6 +1862,7 @@
 *   **Jul. 31, 1998:** The Prime Minister issued Decision 135/1998/QD-TTg on the socio-economic development program for especially difficult communes in mountainous, remote, and isolated areas (Program 135).
 *   **Nov. 1998:** The Politburo issued Resolution 06 on some issues of agriculture and the rural economy, for the first time officially recognizing and encouraging the development of the **farm economic model**.
 *   **Late 1998:** During a US missile attack on Baghdad, a Vietnamese business delegation of 25 people, led by Deputy Minister of Industry Le Huy Con, chose to stay and shelter at the Vietnamese Embassy. Deeply moved by this solidarity during a time of danger, the Iraqi government subsequently awarded numerous large commercial contracts to Vietnamese enterprises.
+*   **1999:** Ann Morrison Welsh (widow of Norman Morrison) and her daughters visited Vietnam. During this trip, they met with poet To Huu, who had written the famous poem "Emily, con" honoring Morrison's sacrifice.
 *   **Dec. 4, 1999:** The ancient town of Hoi An and the My Son Sanctuary were recognized as World Cultural Heritage Sites.
 *   **Dec. 30, 1999:** Vietnam and China officially signed the **Land Border Treaty**.
 *   **Jan. 1, 2000:** The **Enterprise Law** officially took effect, creating a breakthrough in administrative procedure reform, abolishing many sub-licenses, and strongly promoting the development of the private economic sector.
@@ -1879,6 +1887,7 @@
 *   **Jan. 30, 2004:** VAVA filed a landmark class-action lawsuit in a US federal court against 37 US chemical companies for producing the toxic defoliants, including Agent Orange, used during the Vietnam War, seeking justice and compensation for millions of Vietnamese victims.
 *   **2004:** Vietnam was awarded a Guinness World Record for the largest banh tet (Vietnamese sticky rice cake) in the world.
 *   **2004:** The Prime Minister approved the overall development plan for Phu Quoc Island.
+*   **Sep. 2, 2004:** Raymonde Dien and Henri Martin were awarded the Friendship Order by the Vietnamese State for their lifelong dedication to peace and their unwavering support for Vietnam.
 *   **Mar. 2005:** The Hanoi Stock Exchange (HNX) was established.
 *   **Jun. 19 - 25, 2005:** Prime Minister Phan Van Khai paid an official visit to the United States, the first visit by a Vietnamese leader since the war.
 *   **Nov. 25, 2005:** The Space of Gong Culture in the Central Highlands was recognized by UNESCO as a heritage.
@@ -1899,6 +1908,7 @@
 *   **Aug. 1, 2010:** The Central Sector of the Imperial Citadel of Thang Long was recognized by UNESCO as a heritage.
 *   **Sep. 10, 2010:** The "Ceramic Road" along the Red River (Hanoi) was recognized as the longest ceramic mosaic mural in the world.
 *   **Oct. 1 - 10, 2010:** Organized the Grand Celebration of the 1000th Anniversary of Thang Long - Hanoi.
+*   **Nov. 9, 2010:** Kostas Sarantidis (Nguyễn Văn Lập) was officially granted Vietnamese citizenship by the President of Vietnam.
 *   **Nov. 16, 2010:** The Giong Festival at Phu Dong Temple and Soc Son Temple was recognized as a Representative List of the Intangible Cultural Heritage of Humanity by UNESCO.
 
 ### **Period of Legal Consolidation, East Sea Tensions, and Environmental Fluctuations** (2011 - 2016)
@@ -1918,6 +1928,7 @@
 *   **Jan. 22, 2013:** The Philippines officially filed a case against China at the Permanent Court of Arbitration (PCA) in The Hague, challenging the legality of the "nine-dash line" and China's activities in the South China Sea under UNCLOS.
 *   **Feb. 2013:** Ba Na Hills Cable Car (Da Nang) was recognized by the Guinness World Records organization for 4 world records.
 *   **Apr. 30, 2013:** The Guinness World Records organization officially recognized Son Doong Cave as the largest cave in the world.
+*   **May 2013:** Kostas Sarantidis (Nguyễn Văn Lập) was awarded the title Hero of the People's Armed Forces, becoming the first and only foreigner to receive this noble honor from the Vietnamese State.
 *   **Oct. 4, 2013:** General Vo Nguyen Giap passed away at Central Military Hospital 108, Hanoi.
 *   **Nov. 28, 2013:** The 2013 Constitution was promulgated.
 *   **Dec. 5, 2013:** The Art of Don Ca Tai Tu Music and Song in Southern Vietnam was recognized by UNESCO as a heritage.
@@ -1968,9 +1979,12 @@
 *   **Jan. 25 - Feb. 2, 2021:** The 13th National Congress of the Party, set goals for 2030 and a vision to 2045.
 *   **Apr. 27, 2021:** The fourth wave of the COVID-19 epidemic began (Delta variant), shifting the strategy to "safe adaptation."
 *   **May 23, 2021:** Election of the 15th National Assembly.
+*   **Jun. 24, 2021:** Kostas Sarantidis (Nguyễn Văn Lập), the Greek-Vietnamese soldier and Hero of the People's Armed Forces, passed away in Athens, Greece, at the age of 94.
 *   **Dec. 15, 2021:** The Xoe Thai dance art form was recognized as a heritage by UNESCO.
 *   **May 12 - 23, 2022:** Vietnam hosted the 31st SEA Games (postponed from 2021).
 *   **May 2022:** The Bach Long glass bridge (Son La province) was recognized as the world's longest glass-bottomed bridge.
+*   **Aug. 2, 2022:** Fulfilling his final wish, the ashes of Kostas Sarantidis (Nguyễn Văn Lập) were brought back to Vietnam and solemnly buried at the Military Region 5 Cemetery in Da Nang, resting alongside his former comrades.
+*   **Aug. 19, 2022:** Raymonde Dien, a great friend of Vietnam and a symbol of the international movement against the French colonial war in Indochina, passed away at the age of 93.
 *   **Dec. 1, 2022:** The Ba Chua Xu Festival at Sam Mountain was recognized as a heritage site by UNESCO.
 *   **Dec. 2022:** Upgraded relations to a Comprehensive Strategic Partnership with South Korea.
 *   **Dec. 30, 2022:** Vietnam's GDP surpassed the $400 billion mark.

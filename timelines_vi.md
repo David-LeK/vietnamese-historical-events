@@ -1291,6 +1291,7 @@
 *   **09/03/1946:** Ban Thường vụ Trung ương Đảng ra Chỉ thị "Hòa để tiến".
 *   **24/03/1946:** Chủ tịch Hồ Chí Minh và Cao ủy Pháp D'Argenlieu hội đàm tại Vịnh Hạ Long.
 *   **06/04/1946:** Tướng Pháp Valluy ra chỉ thị bí mật cho Đại tá Vicaire về kế hoạch đánh chiếm xứ Nùng (Hải Ninh).
+*   **06/04/1946:** Kostas Sarantidis (được đặt tên Việt Nam là Nguyễn Văn Lập), một lính lê dương người Hy Lạp thuộc quân đội viễn chinh Pháp, đã đào ngũ sang hàng ngũ Việt Minh tại Bình Thuận. Ông mang theo vũ khí, giải thoát 25 tù nhân và chính thức gia nhập Quân đội Nhân dân Việt Nam. Ông là người nước ngoài duy nhất cho đến nay được phong tặng danh hiệu Anh hùng Lực lượng Vũ trang Nhân dân.
 *   **18/04/1946:** Tướng Valluy ra chỉ thị số 11 về kế hoạch an toàn và chiếm đóng các vị trí then chốt ở các thành phố.
 *   **19/04/1946:** Hội nghị trù bị Đà Lạt khai mạc để chuẩn bị cho cuộc đàm phán chính thức tại Pháp.
 *   **20/04/1946:** Mặt trận Quốc gia Liên hiệp được thành lập tại miền Nam, ban đầu chủ trương chống Pháp nhưng sau bị phân hóa.
@@ -1370,6 +1371,7 @@
 *   **02/1950:** Hàng loạt các nước dân chủ nhân dân ở Đông Âu công nhận Việt Nam Dân chủ Cộng hòa.
 *   **07/02/1950:** Mỹ và Anh công nhận chính phủ bù nhìn Bảo Đại.
 *   **Đầu tháng 02/1950:** Chủ tịch Hồ Chí Minh có cuộc hội kiến bí mật với lãnh đạo Liên Xô Joseph Stalin và lãnh đạo Trung Quốc Mao Trạch Đông tại Liên Xô để đề nghị viện trợ quân sự. Liên Xô và Trung Quốc đã nhất trí cung cấp sự ủng hộ to lớn về vật chất và trang bị quân sự cho cuộc kháng chiến chống Pháp của Việt Nam.
+*   **23/02/1950:** Raymonde Dien, một đảng viên trẻ của Đảng Cộng sản Pháp, đã nằm xoài trên đường ray tại nhà ga Saint-Pierre-des-Corps (Tours, Pháp) để chặn một đoàn tàu chở vũ khí sang Đông Dương. Bà bị bắt ngay trong ngày, nhưng hành động quả cảm này đã trở thành biểu tượng của phong trào quốc tế chống chiến tranh, ủng hộ Việt Nam.
 *   **19/03/1950:** Một cuộc biểu tình chống Mỹ và Pháp khổng lồ với khoảng nửa triệu người tham gia đã nổ ra tại Sài Gòn - Chợ Lớn. Dưới sự dẫn dắt của các trí thức như luật sư Nguyễn Hữu Thọ, cuộc biểu tình đã buộc hai tàu chiến Mỹ (soái hạm *Stickell* và khu trục hạm *Anderson*) phải nhổ neo rời khỏi cảng. Đây là cuộc biểu tình chống can thiệp Mỹ quy mô lớn đầu tiên tại Việt Nam.
 *   **04/1950:** Đơn vị đồn trú của quân đội Trung Hoa Dân quốc rút khỏi đảo Phú Lâm ở Hoàng Sa.
 *   **01/05/1950:** Tổng thống Mỹ Truman quyết định viện trợ quân sự trực tiếp 10 triệu USD cho Pháp ở Đông Dương.
@@ -1385,6 +1387,7 @@
 ### **Thời kỳ cuối cuộc kháng chiến chống Pháp (1951 - 1954)**
 
 *   **06/12/1950:** Tướng De Lattre de Tassigny được bổ nhiệm làm Cao ủy kiêm Tổng tư lệnh quân đội Pháp ở Đông Dương, bắt đầu triển khai kế hoạch quân sự mới.
+*   **23/12/1950:** Sau 10 tháng bị giam cầm và trải qua nhiều cuộc đấu tranh, biểu tình đòi trả tự do của nhân dân Pháp và quốc tế, Raymonde Dien đã được thả tự do.
 *   **23/12/1950:** Hiệp định phòng thủ chung Đông Dương được ký kết giữa Mỹ, Pháp và các chính phủ bù nhìn (Việt Nam, Lào, Campuchia), chính thức hóa sự can thiệp của Mỹ.
 *   **25/12/1950 - 18/01/1951:** Quân đội Việt Nam mở Chiến dịch Trần Hưng Đạo (còn gọi là Chiến dịch Trung du) tiến công phòng tuyến địch ở khu vực Vĩnh Yên - Phúc Yên. Trong chiến dịch này, ngày 15/01/1951, Pháp lần đầu tiên sử dụng bom napalm tại Việt Nam.
 *   **11-19/02/1951:** Đại hội đại biểu toàn quốc lần thứ II của Đảng Cộng sản Đông Dương diễn ra tại xã Quang Vinh, huyện Chiêm Hóa, Tuyên Quang.
@@ -1465,6 +1468,7 @@
 *   **15/03/1956:** Thomas Cloma, một công dân Philippin, đã đổ bộ lên một số đảo thuộc quần đảo Trường Sa và yêu sách chúng với tên gọi "Vùng đất Tự do" (Freedomland), gây ra những phản ứng ngoại giao.
 *   **04/1956:** Khi lực lượng viễn chinh Pháp rút khỏi Đông Dương, lực lượng Việt Nam Cộng hòa đã vào thay thế các đơn vị Pháp trên đảo Hoàng Sa (Pattle). Cùng thời gian đó, Cộng hòa Nhân dân Trung Hoa đã bí mật đổ bộ và chiếm đóng khu vực phía Đông quần đảo Hoàng Sa (nhóm An Vĩnh).
 *   **28/04/1956:** Người lính Pháp cuối cùng rời khỏi miền Nam Việt Nam.
+*   **1956:** Raymonde Dien cùng Henri Martin lần đầu tiên sang thăm Việt Nam, tham dự Đại hội Thanh niên tại Hà Nội và có cuộc gặp gỡ xúc động với Chủ tịch Hồ Chí Minh.
 *   **19/05/1956:** Trong một cuộc họp báo ở Manila, Bộ trưởng Ngoại giao Philippin lại dựa vào lập luận kế cận địa lý để đưa ra ý kiến về các quyền của Philippin trên quần đảo Trường Sa, sau sự kiện Thomas Cloma. Ngày 31/5, Bắc Kinh đã ra thông cáo phản đối mạnh mẽ.
 *   **31/05/1956:** Chính phủ Bắc Kinh ra thông cáo tuyên bố sẽ không dung thứ bất kỳ sự vi phạm nào đối với các quyền của họ trên quần đảo Trường Sa.
 *   **01/06/1956:** Bộ trưởng Ngoại giao Việt Nam Cộng hòa Vũ Văn Mẫu tái khẳng định các quyền của Việt Nam đối với hai quần đảo.
@@ -1566,6 +1570,8 @@
 *   **06/07/1965:** Hội đồng Bộ trưởng Liên Xô quyết định thành lập Đoàn chuyên gia quân sự tại Việt Nam để giúp đỡ lực lượng phòng không và không quân. Ngày 24/07, kíp chiến đấu của chuyên gia Liên Xô đã trực tiếp vận hành hệ thống tên lửa SAM-2 bắn rơi một máy bay F-4C của Mỹ, mở ra giai đoạn tác chiến phòng không hiện đại.
 *   **18/08/1965:** **Trận Vạn Tường (Quảng Ngãi):** Quân đội Mỹ mở cuộc hành quân Starlite, huy động khoảng 9.000 lính Thủy quân lục chiến cùng hỏa lực yểm trợ mạnh mẽ từ không quân và pháo hạm nhằm tiêu diệt Trung đoàn 1 (Trung đoàn Ba Gia) của Quân Giải phóng. Đây là trận đánh trên bộ quy mô lớn đầu tiên giữa quân Mỹ và Quân Giải phóng. Dù áp đảo về hỏa lực, quân Mỹ đã bị gần 2.000 Quân Giải phóng chặn đánh quyết liệt bằng chiến hào và vũ khí chống tăng. Hai bên đều tuyên bố chiến thắng, song trận đánh chứng minh Quân Giải phóng hoàn toàn có khả năng đương đầu với quân chính quy Mỹ, được mệnh danh là "Ấp Bắc đối với quân Mỹ".
 *   **19/10 - 26/11/1965:** **Chiến dịch Plei Me và Trận Ia Đrăng (Tây Nguyên):** Mặt trận B3 của Quân Giải phóng mở chiến dịch Plei Me nhằm kéo địch ra khỏi căn cứ để tiêu diệt. Sau khi vây hãm đồn Plei Me và đánh bại viện binh VNCH (19/10 - 25/10), Sư đoàn 1 Không kỵ của Mỹ mở cuộc hành quân phản kích, dẫn đến **Trận Ia Đrăng lịch sử (14 - 18/11)** tại bãi đáp X-Ray và Albany. Đây là cuộc đụng độ quy mô lớn đầu tiên giữa quân chủ lực Mỹ và Quân Giải phóng. Bằng chiến thuật "nắm thắt lưng địch mà đánh" (cận chiến áp sát để vô hiệu hóa ưu thế hỏa lực phi pháo và B-52 của Mỹ), Quân Giải phóng đã gây thương vong nặng nề cho các tiểu đoàn Không kỵ Mỹ. Trận đánh làm thay đổi nhận thức chiến lược của giới lãnh đạo quân sự Mỹ, dập tắt hy vọng về một chiến thắng dễ dàng.
+*   **02/11/1965:** Norman Morrison, một tín hữu Quaker người Mỹ yêu chuộng hòa bình, đã tự thiêu trước Lầu Năm Góc (Mỹ) để phản đối cuộc chiến tranh xâm lược của Mỹ tại Việt Nam. Ông đã bế theo con gái một tuổi Emily trước khi hành động. Sự hy sinh của ông đã gây chấn động và làm xúc động sâu sắc nhân dân Việt Nam cũng như phong trào phản chiến trên toàn thế giới.
+*   **1965:** Kostas Sarantidis (Nguyễn Văn Lập) cùng gia đình trở về Hy Lạp sau nhiều năm sinh sống và công tác tại miền Bắc Việt Nam (từ năm 1954). Dù ở quê hương, ông vẫn tiếp tục vận động, quyên góp ủng hộ cho Việt Nam.
 *   **25/12/1965:** Đảng Đại Việt Cách mạng được thành lập.
 *   **Tháng 12/1965:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ 12 (khóa III) hạ quyết tâm chiến lược "đánh thắng giặc Mỹ xâm lược", đồng thời dự kiến chiến lược "vừa đánh vừa đàm".
 *   **16/01/1966:** Chủ tịch Hồ Chí Minh phát biểu tại Hội nghị cán bộ cao cấp nghiên cứu Nghị quyết Trung ương 12, khẳng định quyết tâm đánh thắng giặc Mỹ xâm lược bất kể chúng đưa vào bao nhiêu quân.
@@ -1588,6 +1594,7 @@
 *   **Tháng 01/1967:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ 13 (khóa III) quyết định đẩy mạnh đấu tranh ngoại giao, mở ra cục diện "vừa đánh vừa đàm".
 *   **27/01/1967:** Bộ Chính trị ban hành Nghị quyết số 155-NQ/TW về đẩy mạnh đấu tranh ngoại giao, chủ động tiến công địch, phối hợp với đấu tranh quân sự và chính trị.
 *   **28/01/1967:** Bộ trưởng Ngoại giao Nguyễn Duy Trinh tuyên bố: "Sau khi Mỹ chấm dứt không điều kiện ném bom... có thể nói chuyện với Mỹ".
+*   **09/05/1967:** Những người biểu tình phản chiến tại Mỹ đã tổ chức lễ thức tưởng niệm Norman Morrison, sau đó xông vào chiếm giữ Lầu Năm Góc trong 4 ngày để phản đối chiến tranh tại Việt Nam.
 *   **16/05/1967:** Nhất Chi Mai (Phan Thị Mai) tự thiêu tại chùa Từ Nghiêm (Sài Gòn) để cầu nguyện cho hòa bình.
 *   **17/09/1967:** Tại Đại hội anh hùng chiến sĩ thi đua toàn Miền lần thứ hai, Mặt trận Dân tộc Giải phóng miền Nam Việt Nam đã phong tặng danh hiệu "Củ Chi đất thép thành đồng" để vinh danh tinh thần chiến đấu kiên cường của quân dân Củ Chi.
 *   **29/09/1967:** Tổng thống Mỹ Lyndon B. Johnson tuyên bố "Công thức San Antonio", sẵn sàng ngưng ném bom miền Bắc nếu Việt Nam Dân chủ Cộng hòa chấp nhận đàm phán.
@@ -1855,6 +1862,7 @@
 *   **31/07/1998:** Thủ tướng Chính phủ ban hành Quyết định 135/1998/QĐ-TTg về chương trình phát triển kinh tế - xã hội các xã đặc biệt khó khăn miền núi và vùng sâu, vùng xa (Chương trình 135).
 *   **11/1998:** Bộ Chính trị ra Nghị quyết 06 về một số vấn đề nông nghiệp và kinh tế nông thôn, lần đầu tiên chính thức thừa nhận và khuyến khích phát triển **mô hình kinh tế trang trại**.
 *   **Cuối năm 1998:** Trong lúc Mỹ nã tên lửa vào thủ đô Baghdad, một đoàn doanh nghiệp Việt Nam gồm 25 người do Thứ trưởng Bộ Công nghiệp Lê Huy Côn dẫn đầu vẫn bám trụ và trú ẩn tại Đại sứ quán Việt Nam. Cảm động trước sự gắn bó trong lúc hoạn nạn, Chính phủ Iraq sau đó đã ưu tiên dành nhiều hợp đồng thương mại lớn cho các doanh nghiệp Việt Nam.
+*   **1999:** Bà Ann Morrison Welsh (vợ góa của Norman Morrison) cùng các con gái đến thăm Việt Nam. Trong chuyến đi này, họ đã có cuộc gặp gỡ cảm động với nhà thơ Tố Hữu, tác giả bài thơ nổi tiếng "Ê-mi-li, con" viết về sự hy sinh của Morrison.
 *   **04/12/1999:** Đô thị cổ Hội An và Thánh địa Mỹ Sơn được công nhận là Di sản Văn hóa Thế giới.
 *   **30/12/1999:** Việt Nam và Trung Quốc chính thức ký kết **Hiệp ước Biên giới trên đất liền**.
 *   **01/01/2000:** **Luật Doanh nghiệp** chính thức có hiệu lực, tạo ra một bước đột phá trong cải cách thủ tục hành chính, bãi bỏ nhiều giấy phép con, thúc đẩy mạnh mẽ sự phát triển của khu vực kinh tế tư nhân.
@@ -1879,6 +1887,7 @@
 *   **30/01/2004:** Hội VAVA thay mặt các nạn nhân đệ đơn kiện 37 công ty hóa chất Hoa Kỳ đã sản xuất chất độc da cam/dioxin sử dụng trong chiến tranh tại Việt Nam lên tòa án liên bang Mỹ, nhằm đòi công lý và bồi thường cho hàng triệu nạn nhân.
 *   **2004:** Việt Nam được chứng nhận kỷ lục Guinness cho chiếc bánh tét lớn nhất thế giới.
 *   **2004:** Thủ tướng Chính phủ phê duyệt đề án phát triển tổng thể đảo Phú Quốc.
+*   **02/09/2004:** Raymonde Dien và Henri Martin vinh dự được Nhà nước Việt Nam trao tặng Huân chương Hữu nghị vì những cống hiến không mệt mỏi cho hòa bình và sự ủng hộ kiên định dành cho Việt Nam.
 *   **03/2005:** Sở Giao dịch Chứng khoán Hà Nội (HNX) được thành lập
 *   **19 - 25/06/2005:** Thủ tướng Phan Văn Khải thăm chính thức Hoa Kỳ, chuyến thăm đầu tiên của lãnh đạo Việt Nam sau chiến tranh.
 *   **25/11/2005:** Không gian Văn hóa Cồng chiêng Tây Nguyên được UNESCO công nhận là di sản.
@@ -1899,6 +1908,7 @@
 *   **01/08/2010:** Khu Trung tâm Hoàng thành Thăng Long được UNESCO công nhận là di sản.
 *   **10/09/2010:** "Con đường gốm sứ" ven sông Hồng (Hà Nội) được công nhận là bức tranh gốm sứ dài nhất thế giới.
 *   **01 - 10/10/2010:** Tổ chức Đại lễ 1000 năm Thăng Long - Hà Nội.
+*   **09/11/2010:** Kostas Sarantidis (Nguyễn Văn Lập) chính thức được Chủ tịch nước công nhận quốc tịch Việt Nam theo nguyện vọng của ông.
 *   **16/11/2010:** Hội Gióng ở đền Phù Đổng và đền Sóc Sơn đã được công nhận là Di sản văn hóa phi vật thể đại diện của nhân loại bởi UNESCO.
 
 ### **Thời kỳ Củng cố Pháp lý, Căng thẳng Biển Đông và Biến động Môi trường** (2011 - 2016)
@@ -1918,6 +1928,7 @@
 *   **22/01/2013:** Philippines chính thức đệ đơn kiện Trung Quốc lên Tòa Trọng tài Thường trực (PCA) tại La Haye, phản đối tính hợp pháp của "đường 9 đoạn" và các hoạt động của Trung Quốc trên Biển Đông theo Công ước UNCLOS.
 *   **02/2013:** Cáp treo Bà Nà Hills (Đà Nẵng) được Tổ chức Guinness World Records công nhận 4 kỷ lục thế giới.
 *   **30/04/2013:** Tổ chức Kỷ lục Guinness Thế giới chính thức công nhận Hang Sơn Đoòng là hang động lớn nhất thế giới.
+*   **05/2013:** Kostas Sarantidis (Nguyễn Văn Lập) được Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng Vũ trang Nhân dân, trở thành người nước ngoài đầu tiên và duy nhất nhận được vinh dự cao quý này.
 *   **04/10/2013:** Đại tướng Võ Nguyên Giáp từ trần tại Bệnh viện Trung ương Quân đội 108, Hà Nội.
 *   **28/11/2013:** Ban hành Hiến pháp 2013.
 *   **05/12/2013:** Nghệ thuật Đờn ca tài tử Nam Bộ được UNESCO công nhận là di sản.
@@ -1968,9 +1979,12 @@
 *   **25/01 - 02/02/2021:** Đại hội XIII của Đảng, đặt mục tiêu đến 2030 và tầm nhìn 2045.
 *   **27/04/2021:** Bắt đầu Đợt dịch COVID-19 lần thứ tư (chủng Delta), chuyển chiến lược sang "thích ứng an toàn".
 *   **23/05/2021:** Bầu cử Quốc hội khóa XV.
+*   **24/06/2021:** Kostas Sarantidis (Nguyễn Văn Lập), người chiến sĩ mang hai quốc tịch Hy Lạp - Việt Nam, Anh hùng Lực lượng Vũ trang Nhân dân, từ trần tại Athens, Hy Lạp, hưởng thọ 94 tuổi.
 *   **15/12/2021:** Nghệ thuật Xòe Thái được UNESCO công nhận là di sản.
 *   **12 - 23/05/2022:** Việt Nam tổ chức SEA Games 31 (bị hoãn từ 2021).
 *   **05/2022:** Cầu kính Bạch Long (Sơn La) được công nhận là cầu đáy kính dài nhất thế giới.
+*   **02/08/2022:** Thể theo di nguyện của ông và gia đình, tro cốt của Kostas Sarantidis (Nguyễn Văn Lập) được đưa về Việt Nam và tổ chức an táng trọng thể tại Nghĩa trang Quân khu 5, thành phố Đà Nẵng, để ông được nằm cạnh những đồng đội năm xưa.
+*   **19/08/2022:** Raymonde Dien, người bạn lớn của nhân dân Việt Nam, biểu tượng của tinh thần chống cuộc chiến tranh phi nghĩa của thực dân Pháp ở Đông Dương, qua đời tại Pháp, hưởng thọ 93 tuổi.
 *   **01/12/2022:** Lễ hội Vía Bà Chúa Xứ núi Sam được UNESCO công nhận là di sản.
 *   **12/2022:** Nâng cấp quan hệ Đối tác Chiến lược Toàn diện với Hàn Quốc.
 *   **30/12/2022:** GDP Việt Nam vượt mốc 400 tỷ USD.
