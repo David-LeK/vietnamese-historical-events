@@ -1263,6 +1263,7 @@
 *   **25/08/1945:** Khởi nghĩa thắng lợi ở Sài Gòn.
 *   **28/08/1945:** Ủy ban Dân tộc Giải phóng cải tổ thành Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa. 20 vạn quân Tưởng Giới Thạch do Lư Hán chỉ huy bắt đầu kéo vào miền Bắc Việt Nam (từ vĩ tuyến 16 trở ra).
 *   **30/08/1945:** Vua Bảo Đại đọc Chiếu thoái vị tại Huế, chấm dứt chế độ phong kiến ở Việt Nam.
+*   **01/09/1945:** Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa ban hành Sắc lệnh số 01/SL tuyên bố lấy múi giờ 7 làm giờ chính thức. Từ đó, miền Bắc và miền Trung sử dụng múi giờ 7.
 *   **02/09/1945:** Tại Quảng trường Ba Đình (Hà Nội), Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn Độc lập, khai sinh nước Việt Nam Dân chủ Cộng hòa.
 
 ### **Giai đoạn Thiết lập Chính quyền và Kháng chiến ở Nam Bộ (1945 - 1946)**
@@ -1498,6 +1499,7 @@
 *   **19/05/1959:** **Đoàn 559** được thành lập, có nhiệm vụ mở đường vận tải chiến lược chi viện cho miền Nam (sau này là Đường mòn Hồ Chí Minh).
 *   **1959 - 1960:** Phong trào **"Đồng khởi"** bùng nổ mạnh mẽ ở các vùng nông thôn miền Nam, bắt đầu từ Bến Tre, phá vỡ từng mảng lớn bộ máy cai trị của địch ở cơ sở.
 *   **Cuối 1959 - Đầu 1960:** Xứ ủy Nam Bộ sáp nhập Khu Sài Gòn - Chợ Lớn và tỉnh Gia Định thành Khu Sài Gòn - Gia Định (Khu 4/T4). Võ Văn Kiệt được phân công làm Bí thư Khu ủy.
+*   **01/01/1960:** Theo Sắc lệnh số 362-TTP (ban hành ngày 30/12/1959), chính quyền Sài Gòn chính thức quy định giờ của miền Nam Việt Nam nhanh hơn 60 phút so với múi giờ 7 (tức múi giờ 8). Do đó, Việt Nam sử dụng hai múi giờ khác nhau trong thời kỳ chia cắt.
 *   **17/01/1960:** Cuộc Đồng khởi nổ ra tại ba xã Định Thủy, Phước Hiệp, Bình Khánh thuộc huyện Mỏ Cày, tỉnh Bến Tre, dưới sự lãnh đạo trực tiếp của bà **Nguyễn Thị Định**, sau đó lan rộng ra toàn tỉnh và khắp Nam Bộ.
 *   **23/02/1960:** Thực hiện nghị quyết của Xứ ủy, Quận ủy Củ Chi phát động đồng khởi với lời kêu gọi "nhất tề đứng dậy, diệt tề phá kềm, giải phóng nông thôn".
 *   **09/1960:** **Đại hội đại biểu toàn quốc lần thứ III** của Đảng Lao động Việt Nam họp tại Hà Nội, đề ra hai nhiệm vụ chiến lược:
@@ -1596,6 +1598,7 @@
 *   **28/01/1967:** Bộ trưởng Ngoại giao Nguyễn Duy Trinh tuyên bố: "Sau khi Mỹ chấm dứt không điều kiện ném bom... có thể nói chuyện với Mỹ".
 *   **09/05/1967:** Những người biểu tình phản chiến tại Mỹ đã tổ chức lễ thức tưởng niệm Norman Morrison, sau đó xông vào chiếm giữ Lầu Năm Góc trong 4 ngày để phản đối chiến tranh tại Việt Nam.
 *   **16/05/1967:** Nhất Chi Mai (Phan Thị Mai) tự thiêu tại chùa Từ Nghiêm (Sài Gòn) để cầu nguyện cho hòa bình.
+*   **08/08/1967:** Chính phủ Việt Nam Dân chủ Cộng hòa ra Quyết định số 121/QĐ-CP, quy định giờ pháp định của miền Bắc là múi giờ 7 quốc tế, kể từ 0 giờ ngày 01/01/1968.
 *   **17/09/1967:** Tại Đại hội anh hùng chiến sĩ thi đua toàn Miền lần thứ hai, Mặt trận Dân tộc Giải phóng miền Nam Việt Nam đã phong tặng danh hiệu "Củ Chi đất thép thành đồng" để vinh danh tinh thần chiến đấu kiên cường của quân dân Củ Chi.
 *   **29/09/1967:** Tổng thống Mỹ Lyndon B. Johnson tuyên bố "Công thức San Antonio", sẵn sàng ngưng ném bom miền Bắc nếu Việt Nam Dân chủ Cộng hòa chấp nhận đàm phán.
 *   **10/1967:** Trung ương Cục miền Nam quyết định giải thể Khu 7 và Quân khu Sài Gòn - Gia Định, lập ra **Khu Trọng điểm** gồm Sài Gòn - Gia Định và các vùng phụ cận, chia làm 6 Phân khu để chuẩn bị cho Tổng tiến công.
@@ -1705,7 +1708,7 @@
 *   **10/05/1975:** Quân Pôn Pốt đổ bộ lên quần đảo Thổ Chu, bắt và thảm sát hơn 500 thường dân Việt Nam.
 *   **14/05/1975:** Chính phủ Mỹ ra lệnh cấm vận thương mại đối với Việt Nam.
 *   **15/05/1975:** Lễ mừng chiến thắng được tổ chức long trọng trên khắp cả nước. Tại Hà Nội, Bí thư thứ nhất Lê Duẩn đọc diễn văn chào mừng kỷ nguyên mới của nước Việt Nam hòa bình, độc lập, thống nhất và đi lên chủ nghĩa xã hội.
-*   **13/06/1975:** Toàn miền Nam bắt đầu sử dụng giờ Đông Dương, thống nhất múi giờ với miền Bắc.
+*   **13/06/1975:** Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam ra quyết định chính thức trở lại múi giờ 7. Giờ Sài Gòn và toàn miền Nam được vặn chậm lại 1 giờ, thống nhất múi giờ với miền Bắc.
 *   **29/08/1975:** Lễ khánh thành Lăng Chủ tịch Hồ Chí Minh tại Hà Nội.
 *   **04/09/1975:** Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam quyết định tiến hành đợt cải tạo tư sản mại bản lần thứ nhất.
 *   **10/09/1975:** Cộng hòa Nhân dân Trung Hoa gửi một công hàm cho nước Việt Nam Dân chủ Cộng hòa nhấn mạnh lập trường rằng hai quần đảo Hoàng Sa và Trường Sa luôn luôn là một bộ phận của lãnh thổ Trung Quốc.
@@ -1878,6 +1881,7 @@
 *   **28/11/2001:** Quốc hội phê chuẩn Hiệp định Thương mại Việt Nam - Hoa Kỳ (BTA).
 *   **10/12/2001:** Hiệp định BTA chính thức có hiệu lực.
 *   **2002:** Phó Chủ tịch nước Nguyễn Thị Bình sang thăm Iraq để gặp Tổng thống Saddam Hussein nhằm giải quyết khoản nợ kéo dài hơn 20 năm chưa trả xong. Dù Iraq đang bị cấm vận và vô vàn khó khăn, Tổng thống Saddam Hussein đã quyết định xóa toàn bộ số nợ cho Việt Nam. Bản thỏa thuận xóa nợ được Phó Tổng thống Iraq Taha Yassin Ramadan ký kết.
+*   **14/10/2002:** Thủ tướng Chính phủ nước Cộng hòa Xã hội chủ nghĩa Việt Nam ra Quyết định số 132/2002/QĐ-TTg, chính thức "lấy múi giờ thứ 7 theo hệ thống múi giờ quốc tế làm giờ chính thức của Việt Nam".
 *   **26/02/2003:** Ghi nhận ca nhiễm SARS đầu tiên tại Việt Nam.
 *   **05/2003:** WHO công nhận Việt Nam là quốc gia đầu tiên khống chế thành công dịch SARS.
 *   **03/07/2003:** Vườn Quốc gia Phong Nha - Kẻ Bàng được UNESCO công nhận lần đầu về địa chất, địa mạo.

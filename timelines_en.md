@@ -1263,6 +1263,7 @@
 *   **Aug. 25, 1945:** The uprising succeeded in Saigon.
 *   **Aug. 28, 1945:** The National Liberation Committee was reorganized into the Provisional Government of the Democratic Republic of Vietnam. 200,000 Chiang Kai-shek troops, led by Lu Han, began to enter northern Vietnam (from the 16th parallel northwards).
 *   **Aug. 30, 1945:** Emperor Bao Dai read the Abdication Edict in Hue, ending the feudal regime in Vietnam.
+*   **Sep. 1, 1945:** The provisional government of the Democratic Republic of Vietnam issued Decree No. 01/SL, declaring time zone 7 as the official time. From then on, the North and Central regions used time zone 7.
 *   **Sep. 2, 1945:** At Ba Dinh Square (Hanoi), President Ho Chi Minh read the Declaration of Independence, giving birth to the Democratic Republic of Vietnam.
 
 ### **Period of Establishing Government and Resistance in the South (1945 - 1946)**
@@ -1498,6 +1499,7 @@
 *   **May 30, 1959:** The Gia Dinh Provincial Party Committee established Unit C13 (the first armed unit of the province) in Cu Chi, initially consisting of about 20 cadres and party members.
 *   **1959 - 1960:** The **"Concerted Uprising"** movement erupted strongly in the rural areas of the South, starting in Ben Tre, shattering large segments of the enemy's administrative apparatus at the grassroots level.
 *   **Late 1959 - Early 1960:** The Party Committee of Nam Bo merged the Saigon - Cho Lon Zone and Gia Dinh province to form the Saigon - Gia Dinh Zone (Zone 4/T4). Vo Van Kiet was assigned as the Secretary of the Zone Party Committee.
+*   **Jan. 1, 1960:** Following Decree No. 362-TTP (issued on December 30, 1959), the Saigon administration officially changed the time of South Vietnam to be 60 minutes faster than time zone 7 (i.e., time zone 8). Consequently, Vietnam used two different time zones during the partition period.
 *   **Jan. 17, 1960:** The Concerted Uprising broke out in the three communes of Dinh Thuy, Phuoc Hiep, and Binh Khanh in Mo Cay district, Ben Tre province, under the direct leadership of Madame **Nguyen Thi Dinh**, then spread throughout the province and across the South.
 *   **Feb. 23, 1960:** Implementing the resolution of the Nam Bo Party Committee, the Cu Chi District Party Committee launched a concerted uprising with the call to "rise up together, destroy tyrants, break the grip, and liberate the countryside."
 *   **Sep. 1960:** The **3rd National Congress** of the Vietnam Workers' Party was held in Hanoi, setting out two strategic tasks:
@@ -1596,6 +1598,7 @@
 *   **Jan. 28, 1967:** Foreign Minister Nguyen Duy Trinh declared: "After the US unconditionally stops the bombing... talks with the US can be held."
 *   **May 9, 1967:** Protesters held a vigil for Norman Morrison in the United States, which culminated in a four-day occupation of the Pentagon to protest the Vietnam War.
 *   **May 16, 1967:** Buddhist nun **Nhat Chi Mai** self-immolated at Tu Nghiem Pagoda (Saigon) to pray for peace.
+*   **Aug. 8, 1967:** The Government of the Democratic Republic of Vietnam issued Decision No. 121/QD-CP, reaffirming that the legal time of North Vietnam is international time zone 7, effective from January 1, 1968.
 *   **Sep. 17, 1967:** At the second Congress of Emulation Heroes and Soldiers of the South, the National Liberation Front for South Vietnam awarded the title "Cu Chi - Iron Land, Bronze Rampart" (Củ Chi đất thép thành đồng) to honor the persistent fighting spirit of the army and people of Cu Chi.
 *   **Sep. 29, 1967:** US President Lyndon B. Johnson declared the "San Antonio Formula," expressing willingness to stop bombing North Vietnam in exchange for productive discussions.
 *   **Oct. 1967:** The Central Office for South Vietnam decided to dissolve Zone 7 and the Saigon - Gia Dinh Zone to establish the **Key Zone** (Khu Trọng điểm) consisting of Saigon - Gia Dinh and surrounding areas, divided into 6 Sub-zones to prepare for the General Offensive.
@@ -1705,7 +1708,7 @@
 *   **May 10, 1975:** Pol Pot's forces landed on the Tho Chu archipelago, capturing and massacring over 500 Vietnamese civilians.
 *   **May 14, 1975:** The US government ordered a trade embargo against Vietnam.
 *   **May 15, 1975:** Victory celebration ceremonies were held solemnly across the country. In Hanoi, First Secretary Le Duan delivered a speech hailing the complete victory and the beginning of a new era of independence, unity, and socialism.
-*   **Jun. 13, 1975:** The entire South began using Indochina Time, unifying the time zone with the North.
+*   **Jun. 13, 1975:** The Provisional Revolutionary Government of the Republic of South Vietnam issued an official decision to return to time zone 7. Clocks in Saigon and the entire South were turned back by 1 hour to unify the time zone with the North.
 *   **Aug. 29, 1975:** The inauguration ceremony of the Ho Chi Minh Mausoleum was held in Hanoi.
 *   **Sep. 4, 1975:** The Provisional Revolutionary Government of the Republic of South Vietnam decided to carry out the first wave of reform of the comprador bourgeoisie.
 *   **Sep. 10, 1975:** The People's Republic of China sent a formal diplomatic note to the Democratic Republic of Vietnam emphasizing its stance that the Paracel and Spratly archipelagos had always been part of Chinese territory.
@@ -1878,6 +1881,7 @@
 *   **Nov. 28, 2001:** The National Assembly ratified the Vietnam - U.S. Bilateral Trade Agreement (BTA).
 *   **Dec. 10, 2001:** The BTA officially came into effect.
 *   **2002:** Vice President of Vietnam Nguyen Thi Binh visited Iraq to meet with President Saddam Hussein regarding the debt that had remained unpaid for over 20 years. In an extraordinary gesture of friendship, despite Iraq being under severe international embargo, President Saddam Hussein ordered the cancellation of Vietnam's entire debt. An agreement to this effect was signed by Iraqi Vice President Taha Yassin Ramadan.
+*   **Oct. 14, 2002:** The Prime Minister of the Socialist Republic of Vietnam issued Decision No. 132/2002/QD-TTg, officially taking the 7th time zone according to the international time zone system as the official time of Vietnam.
 *   **Feb. 26, 2003:** The first SARS infection case was recorded in Vietnam.
 *   **May 2003:** The WHO recognized Vietnam as the first country to successfully control the SARS epidemic.
 *   **03/07/2003:** Phong Nha - Ke Bang National Park was first recognized by UNESCO for its geological and geomorphological features.
