@@ -1011,6 +1011,7 @@
 *   **1906 - 1908:** Tại làng Phú Lâm (Quảng Nam), Lý trưởng Lê Cơ tiên phong thực hiện cải cách: lập trường học (có trường nữ học đầu tiên trong vùng), hội buôn, đồn điền, trở thành mô hình thực tế của phong trào Duy Tân.
 *   **16/05/1906:** Toàn quyền Paul Beau ký Nghị định thành lập Đại học Đông Dương.
 *   **06/06/1906:** Liên Thành thương quán được sáu sĩ phu yêu nước thành lập tại Phan Thiết nhằm hưởng ứng phong trào Duy Tân. Ban đầu đăng ký là công ty nặc danh với thời hạn 10 năm, công ty sản xuất nước mắm để tạo nguồn quỹ cho các hoạt động yêu nước và tạo việc làm cho người lao động.
+*   **1906 (hoặc 4 tháng 8 năm 1908):** Nguyễn Thị Suốt, thường được biết đến với tên gọi Mẹ Suốt, sinh ra tại Bảo Ninh, Đồng Hới, Quảng Bình. Bà sau này trở thành một Nữ Anh hùng Lao động tiêu biểu và là biểu tượng cho sự dũng cảm của người phụ nữ Việt Nam trong Chiến tranh Việt Nam.
 *   **03/1907:** Đông Kinh Nghĩa Thục bắt đầu mở lớp dạy chữ Quốc ngữ cho cả nam và nữ tại số 4 Hàng Đào (Hà Nội) trước khi có giấy phép chính thức.
 *   **1907:** Dục Thanh học hiệu được các nhà sáng lập Liên Thành thương quán lập ra để dạy những tư tưởng tiến bộ yêu nước cho con em lao động nghèo.
 *   **07/04/1907:** Lê Duẩn sinh ra tại Triệu Phong, Quảng Trị. Ông sau này trở thành Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, nhà lãnh đạo kiệt xuất của cách mạng Việt Nam.
@@ -1556,10 +1557,13 @@
 *   **14/11/1964:** Đảng Tân Đại Việt được thành lập.
 *   **25 - 28/11/1964:** Theo sáng kiến của Liên hiệp Công đoàn thế giới, Hội nghị quốc tế "Nhân dân thế giới đoàn kết với nhân dân Việt Nam chống đế quốc Mỹ xâm lược, bảo vệ hòa bình" được tổ chức tại Hà Nội với sự tham dự của 64 đoàn đại biểu đến từ 52 nước.
 *   **28/12/1964 - 01/01/1965:** **Trận Bình Giã (Phước Tuy):** Quân Giải phóng miền Nam Việt Nam mở cuộc tấn công lớn vào làng Bình Giã, liên tục phục kích và đánh thiệt hại nặng nhiều tiểu đoàn tinh nhuệ (Biệt động quân, Thủy quân lục chiến) của Việt Nam Cộng hòa được cử đến ứng cứu. Quân Giải phóng đã bắn rơi 21 trực thăng và 1 máy bay trinh sát, đánh gục chiến thuật "trực thăng vận" và "thiết xa vận" của đối phương, đánh dấu sự phát triển nghệ thuật chiến tranh và đẩy nhanh sự phá sản của chiến lược "Chiến tranh đặc biệt".
+*   **1964 - 1967:** Sau Sự kiện Vịnh Bắc Bộ, dù đã gần 60 tuổi, Mẹ Suốt vẫn xung phong chèo đò ngang qua sông Nhật Lệ (Quảng Bình) dưới làn mưa bom bão đạn của không quân Mỹ. Bà đã vận chuyển an toàn hàng ngàn lượt cán bộ, thương binh và vũ khí, ước tính mỗi năm thực hiện tới 1.400 chuyến đò.
 *   **1965:** Bà **Nguyễn Thị Định** được bổ nhiệm làm Phó Tư lệnh Quân Giải phóng miền Nam Việt Nam.
 *   **Đầu tháng 02/1965:** Chủ tịch Hội đồng Bộ trưởng Liên Xô Alexei Kosygin sang thăm Việt Nam. Chuyến thăm diễn ra đúng lúc Mỹ bắt đầu ném bom miền Bắc; ông Kosygin đã lên án mạnh mẽ hành động của Mỹ và cam kết sự ủng hộ to lớn của Liên Xô. Ngày 08/02, nhân dân thủ đô Mát-xcơ-va đã tổ chức mít-tinh khổng lồ ủng hộ Việt Nam.
 *   **02/1965:** Phong trào **"Ba sẵn sàng"** của thanh niên và **"Ba đảm đang"** (03/1965) của phụ nữ được phát động ở miền Bắc.
 *   **07/02/1965:** Mỹ mở chiến dịch "Mũi lao lửa 1", ném bom Vĩnh Linh, Đồng Hới, chính thức bắt đầu gây chiến tranh phá hoại miền Bắc.
+*   **07/02/1965:** Không lực Hoa Kỳ huy động 160 lần chiếc máy bay phản lực ồ ạt ném bom thị xã Đồng Hới. Giữa lúc đạn bom ác liệt, Mẹ Suốt vẫn hiên ngang chèo đò đưa bộ đội sang sông và vận chuyển đạn dược. Trong hai ngày 7 và 8 tháng 2, quân và dân Đồng Hới đã bắn rơi 14 máy bay Mỹ.
+*   **14/02 - 28/04/1965:** 5 tàu chiến Mỹ bị bắn chìm và bắn cháy tại vùng biển Nhật Lệ bởi quân và dân Quảng Bình.
 *   **01 - 09/03/1965:** Hội nghị nhân dân ba nước Đông Dương họp tại Phnôm Pênh (Campuchia), biểu thị tình đoàn kết chiến đấu chống kẻ thù chung là đế quốc Mỹ.
 *   **02/03/1965:** Mỹ bắt đầu chiến dịch không kích "Sấm rền" (Rolling Thunder) đánh phá miền Bắc một cách có hệ thống.
 *   **08/03/1965:** Lữ đoàn 9 Thủy quân Lục chiến Mỹ đổ bộ vào Đà Nẵng, đánh dấu việc Mỹ trực tiếp đưa quân chiến đấu vào tham chiến, mở đầu cho chiến lược **"Chiến tranh cục bộ"**.
@@ -1581,6 +1585,7 @@
 *   **18/08/1965:** **Trận Vạn Tường (Quảng Ngãi):** Quân đội Mỹ mở cuộc hành quân Starlite, huy động khoảng 9.000 lính Thủy quân lục chiến cùng hỏa lực yểm trợ mạnh mẽ từ không quân và pháo hạm nhằm tiêu diệt Trung đoàn 1 (Trung đoàn Ba Gia) của Quân Giải phóng. Đây là trận đánh trên bộ quy mô lớn đầu tiên giữa quân Mỹ và Quân Giải phóng. Dù áp đảo về hỏa lực, quân Mỹ đã bị gần 2.000 Quân Giải phóng chặn đánh quyết liệt bằng chiến hào và vũ khí chống tăng. Hai bên đều tuyên bố chiến thắng, song trận đánh chứng minh Quân Giải phóng hoàn toàn có khả năng đương đầu với quân chính quy Mỹ, được mệnh danh là "Ấp Bắc đối với quân Mỹ".
 *   **19/10 - 26/11/1965:** **Chiến dịch Plei Me và Trận Ia Đrăng (Tây Nguyên):** Mặt trận B3 của Quân Giải phóng mở chiến dịch Plei Me nhằm kéo địch ra khỏi căn cứ để tiêu diệt. Sau khi vây hãm đồn Plei Me và đánh bại viện binh VNCH (19/10 - 25/10), Sư đoàn 1 Không kỵ của Mỹ mở cuộc hành quân phản kích, dẫn đến **Trận Ia Đrăng lịch sử (14 - 18/11)** tại bãi đáp X-Ray và Albany. Đây là cuộc đụng độ quy mô lớn đầu tiên giữa quân chủ lực Mỹ và Quân Giải phóng. Bằng chiến thuật "nắm thắt lưng địch mà đánh" (cận chiến áp sát để vô hiệu hóa ưu thế hỏa lực phi pháo và B-52 của Mỹ), Quân Giải phóng đã gây thương vong nặng nề cho các tiểu đoàn Không kỵ Mỹ. Trận đánh làm thay đổi nhận thức chiến lược của giới lãnh đạo quân sự Mỹ, dập tắt hy vọng về một chiến thắng dễ dàng.
 *   **02/11/1965:** Norman Morrison, một tín hữu Quaker người Mỹ yêu chuộng hòa bình, đã tự thiêu trước Lầu Năm Góc (Mỹ) để phản đối cuộc chiến tranh xâm lược của Mỹ tại Việt Nam. Ông đã bế theo con gái một tuổi Emily trước khi hành động. Sự hy sinh của ông đã gây chấn động và làm xúc động sâu sắc nhân dân Việt Nam cũng như phong trào phản chiến trên toàn thế giới.
+*   **04/11/1965:** Nhà thơ Tố Hữu đến Đồng Hới và có cuộc trò chuyện với Mẹ Suốt. Lấy cảm hứng từ lòng quả cảm của bà, ông đã sáng tác bài thơ nổi tiếng "Mẹ Suốt", khắc họa thành công hình ảnh người mẹ anh hùng trong văn học Việt Nam hiện đại.
 *   **1965:** Kostas Sarantidis (Nguyễn Văn Lập) cùng gia đình trở về Hy Lạp sau nhiều năm sinh sống và công tác tại miền Bắc Việt Nam (từ năm 1954). Dù ở quê hương, ông vẫn tiếp tục vận động, quyên góp ủng hộ cho Việt Nam.
 *   **25/12/1965:** Đảng Đại Việt Cách mạng được thành lập.
 *   **Tháng 12/1965:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ 12 (khóa III) hạ quyết tâm chiến lược "đánh thắng giặc Mỹ xâm lược", đồng thời dự kiến chiến lược "vừa đánh vừa đàm".
@@ -1592,6 +1597,7 @@
 *   **09 - 10/03/1966:** Trận A Sầu diễn ra tại Căn cứ Đặc biệt A Sầu nằm trong thung lũng A Sầu (tỉnh Thừa Thiên). Căn cứ do quân đội Mỹ thiết lập nhằm ngăn chặn tuyến đường mòn Hồ Chí Minh, được phòng thủ bởi Lực lượng Đặc biệt Mỹ và Dân sự Chiến đấu (CIDG). Sau các đợt pháo kích và tấn công bộ binh dữ dội của Quân Giải phóng, cộng với thời tiết xấu làm hạn chế không kích yểm trợ, căn cứ đã thất thủ. Lực lượng Mỹ và đồng minh chịu thương vong nặng nề và buộc phải triệt thoái vào ngày 10 tháng 3, giúp Quân Giải phóng kiểm soát được một cứ điểm yết hầu trên tuyến vận tải chiến lược.
 *   **Mùa khô 1965-1966:** Quân và dân miền Nam đánh bại cuộc phản công chiến lược mùa khô lần thứ nhất của Mỹ.
 *   **1966:** Chiến sĩ biệt động Trần Văn Lai bí mật xây dựng một căn hầm nổi tại một ngôi nhà ở Bà Chiểu, làm căn cứ chỉ huy dự bị cho cuộc Tổng tiến công Tết Mậu Thân 1968.
+*   **1966:** Mẹ Suốt được mời tham dự Đại hội Anh hùng, chiến sĩ thi đua toàn quốc tổ chức ở miền Bắc.
 *   **17/07/1966:** Chủ tịch Hồ Chí Minh ra Lời kêu gọi lịch sử: "Không có gì quý hơn độc lập, tự do".
 *   **Mùa khô 1966-1967:** Quân và dân miền Nam đánh bại cuộc phản công chiến lược mùa khô lần thứ hai của Mỹ.
 *   **09 - 10/08/1966:** **Trận Đức Cơ (Gia Lai):** Một trận đánh ban đêm ác liệt diễn ra khi Tiểu đoàn 5, Trung đoàn 33 Quân Giải phóng tập kích vào căn cứ chiến lược do Tiểu đoàn 3, Trung đoàn Kỵ binh Đệ Nhất của quân đội Hàn Quốc chốt giữ gần biên giới Campuchia. Dựa vào ưu thế hỏa lực pháo binh, thiết giáp và không quân yểm trợ khổng lồ, quân Hàn Quốc với quân số ít hơn đã đẩy lùi được đợt tấn công của Quân Giải phóng. Trận đánh được ghi nhận là một "chiến thắng của hỏa lực", minh chứng cho chiến thuật sử dụng hỏa lực áp đảo bảo vệ vành đai phòng thủ của liên quân Mỹ - Hàn.
@@ -1601,6 +1607,7 @@
 *   **11/1966:** Hơn ba vạn công nhân thủ đô La Habana, Cuba tổ chức mít-tinh rầm rộ nhằm biểu thị tình đoàn kết và ủng hộ nhân dân Việt Nam kháng chiến chống Mỹ.
 *   **03 - 06/12/1966:** Lính Nam Triều Tiên gây ra vụ thảm sát Bình Hòa (Quảng Ngãi), giết hại hơn 400 thường dân, chủ yếu là người già, phụ nữ và trẻ em.
 *   **Cuối 1966:** Liên Xô cử thêm các nhóm chuyên gia quân sự về khoa học tên lửa, công nghiệp quốc phòng và tác chiến điện tử sang giúp Việt Nam nghiên cứu, đối phó hiệu quả với các thủ đoạn và chiến thuật mới của không quân Mỹ.
+*   **01/01/1967:** Nguyễn Thị Suốt được Đảng và Nhà nước Việt Nam chính thức phong tặng danh hiệu Anh hùng ngành Giao thông vận tải trong chống Mỹ cứu nước.
 *   **08/01 - 26/01/1967:** Quân đội Mỹ mở cuộc hành quân **Cedar Falls** đánh vào vùng "Tam giác sắt" (Củ Chi - Trảng Bàng - Bến Cát) nhằm "bóc vỏ trái đất", phá hủy hệ thống địa đạo. Sau 18 ngày đêm, lực lượng cách mạng đã đánh bại cuộc hành quân, bảo vệ được vùng căn cứ.
 *   **Tháng 01/1967:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ 13 (khóa III) quyết định đẩy mạnh đấu tranh ngoại giao, mở ra cục diện "vừa đánh vừa đàm".
 *   **27/01/1967:** Bộ Chính trị ban hành Nghị quyết số 155-NQ/TW về đẩy mạnh đấu tranh ngoại giao, chủ động tiến công địch, phối hợp với đấu tranh quân sự và chính trị.
@@ -1624,6 +1631,7 @@
 *   **20/04/1968:** Liên minh các Lực lượng Dân tộc, Dân chủ và Hòa bình Việt Nam được thành lập tại vùng giải phóng Tây Ninh, tập hợp trí thức và tư sản dân tộc ở đô thị.
 *   **13/05/1968:** Cuộc đàm phán chính thức giữa phái đoàn Việt Nam Dân chủ Cộng hòa và Mỹ bắt đầu tại Paris.
 *   **08/1968:** Trung ương Cục quyết định thành lập lại Thành ủy Sài Gòn - Gia Định (mật danh là Bình Giã). Căn cứ Thành ủy chuyển lên Ba Thu (vùng biên giới).
+*   **11/10/1968 (hoặc 13/10/1968):** Mẹ Suốt anh dũng hy sinh trong một trận bom bi oanh tạc của không quân Mỹ tại bến đò Bảo Ninh khi đang làm nhiệm vụ vận chuyển lương thực. Sau đó, bà được Nhà nước công nhận là liệt sĩ.
 *   **01/11/1968:** Mỹ buộc phải chấm dứt hoàn toàn và không điều kiện việc ném bom, bắn phá miền Bắc. Miền Bắc đánh thắng cuộc chiến tranh phá hoại lần thứ nhất, bắn rơi 3.234 máy bay Mỹ.
 
 ### **Thời kỳ đánh bại chiến lược "Việt Nam hóa chiến tranh" (1969 - 1973)**
@@ -1780,6 +1788,7 @@
 *   **01/10/1979:** Tiến hành cuộc Tổng điều tra dân số lần thứ hai trong cả nước.
 *   **30/03/1980:** Chủ tịch nước Tôn Đức Thắng qua đời. Phó Chủ tịch nước **Nguyễn Hữu Thọ** giữ Quyền Chủ tịch nước (đến tháng 7/1981).
 *   **Những năm 1980:** Bất chấp những khó khăn to lớn do cuộc chiến tranh Iran - Iraq, chính phủ Iraq vẫn đồng ý với đề nghị của Việt Nam cho hoãn nợ và nhận trả nợ bằng hàng hóa (gạo, chè, quần áo) cùng lao động. Hàng ngàn lao động Việt Nam đã sang Iraq làm việc, trích một nửa tiền lương để trả nợ cho nước bạn.
+*   **1980:** Ủy ban Nhân dân thị xã Đồng Hới cho xây dựng bia đài tưởng niệm Mẹ Suốt nằm giữa trung tâm bến đò cũ bên sông Nhật Lệ nhằm tri ân sự hy sinh anh hùng của bà.
 *   **23/07/1980:** Anh hùng Phạm Tuân cùng nhà du hành vũ trụ Liên Xô Viktor Vassilyevich Gorbatko thực hiện chuyến bay trên tàu vũ trụ Soyuz 37 trong chương trình Interkosmos của Liên Xô. Ông là người Việt Nam đầu tiên và cũng là người châu Á đầu tiên bay vào vũ trụ, đưa Việt Nam trở thành quốc gia thứ 10 trên thế giới có công dân bay vào không gian.
 *   **18/12/1980:** Quốc hội khóa VI thông qua Hiến pháp năm 1980, Hiến pháp của thời kỳ quá độ lên chủ nghĩa xã hội.
 *   **13/01/1981:** Ban Bí thư ra Chỉ thị số 100/CT-TƯ ("Khoán 100") về việc cải tiến công tác khoán, mở rộng khoán sản phẩm đến nhóm và người lao động trong hợp tác xã nông nghiệp.
@@ -1897,6 +1906,7 @@
 *   **26/02/2003:** Ghi nhận ca nhiễm SARS đầu tiên tại Việt Nam.
 *   **05/2003:** WHO công nhận Việt Nam là quốc gia đầu tiên khống chế thành công dịch SARS.
 *   **03/07/2003:** Vườn Quốc gia Phong Nha - Kẻ Bàng được UNESCO công nhận lần đầu về địa chất, địa mạo.
+*   **02/09/2003:** Tượng đài Mẹ Suốt (cao 7m) và quần thể khu tưởng niệm do nhà điêu khắc Phan Đình Tiến sáng tác được cắt băng khánh thành bên dòng sông Nhật Lệ, Đồng Hới, Quảng Bình.
 *   **07/11/2003:** Nhã nhạc cung đình Huế được UNESCO công nhận là di sản phi vật thể đầu tiên.
 *   **12/2003:** Việt Nam đăng cai tổ chức SEA Games 22.
 *   **10/01/2004:** Hội Nạn nhân Chất độc Da cam/Dioxin Việt Nam (VAVA) chính thức ra mắt, do Trung tướng Đặng Vũ Hiệp làm Chủ tịch và nguyên Phó Chủ tịch nước Nguyễn Thị Bình làm Chủ tịch danh dự.
