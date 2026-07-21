@@ -1234,6 +1234,7 @@
 *   **Oct. 1, 1942:** The Vietnam Revolutionary League (Viet Cach) was founded in Liuzhou, China, gathering various patriotic groups.
 *   **Jan. 1, 1943:** The Dai Viet Populist Revolutionary Party was founded.
 *   **Early 1943:** The Dai Viet Restoration Association was established.
+*   **Oct. 27, 1943:** Doctor Tran Van Lai was arrested by the French colonial administration and imprisoned in Hoa Lo, then Son La prison, for his patriotic activities.
 *   **Dec. 1, 1943:** The Cairo Declaration was issued by the US, UK, and China, affirming the intention to force Japan to return territories stolen from the Republic of China (Manchuria, Taiwan, Penghu). Notably, the Paracel and Spratly Islands were not mentioned in this declaration for return to China.
 *   **Sep. 10, 1943:** Ho Chi Minh was released from prison in China.
 *   **1943:** The Indochinese Communist Party published the *Theses on Vietnamese Culture*.
@@ -1252,6 +1253,7 @@
 *   **May 15, 1945:** The revolutionary armed forces were unified into the Vietnam Liberation Army.
 *   **Jun. 4, 1945:** The Viet Bac Liberated Zone was officially established.
 *   **Jul. 17 - Aug. 2, 1945:** The Potsdam Conference decided that Allied forces would enter Vietnam to disarm the Japanese army.
+*   **Jul. 20, 1945:** Doctor Tran Van Lai officially took office as the first Vietnamese Mayor of Hanoi under the Empire of Vietnam. During his brief tenure of less than a month, he enacted significant reforms: making Vietnamese the official administrative language, renaming streets after Vietnamese historical figures, pulling down French colonial statues, and naming Ba Dinh Square (formerly Puginier Park), which later became the site of the Declaration of Independence.
 *   **Jul. 26, 1945:** The Potsdam Declaration was issued, outlining the terms for Japan's unconditional surrender, which mandated the relinquishment of territories seized by force.
 *   **Aug. 13-15, 1945:** The National Conference of the Indochinese Communist Party in Tan Trao decided to launch a General Uprising to seize power nationwide.
 *   **Aug. 13, 1945:** The National Uprising Committee issued "Military Order No. 1."
@@ -1326,6 +1328,8 @@
 *   **Dec. 18, 1946:** French troops occupied the headquarters of the Ministry of Finance and the Ministry of Transport and Public Works. General Morlière issued an ultimatum demanding the disarmament of Vietnamese self-defense forces, stating that French troops would take action by the morning of Dec. 20 if demands were not met.
 *   **Dec. 18 - 19, 1946:** French troops repeatedly sent ultimatums demanding the disarmament of Vietnamese self-defense forces in Hanoi. The Standing Bureau of the Party Central Committee met at Van Phuc village (Ha Dong) under the chair of President Ho Chi Minh, deciding to launch the nationwide resistance.
 *   **8:03 PM, Dec. 19, 1946:** The city's electricity was cut off, and the Lang fortress fired the signal shot for a general offensive, officially marking the beginning of the nationwide resistance. By 8:30 PM, the Vietnamese government issued the Appeal for Nationwide Resistance.
+*   **Dec. 22, 1946:** Former Mayor of Hanoi Tran Van Lai was arrested for the second time by the French colonialists right after the outbreak of the Nationwide Resistance, under the pretext of "ensuring safety for intellectuals," and was imprisoned in Hoa Lo.
+*   **Jan. 3, 1947:** French Minister of Overseas Marius Moutet visited Hoa Lo prison in an attempt to persuade and bribe imprisoned Vietnamese intellectuals, including Tran Van Lai. The intellectuals responded with absolute silence, demonstrating their unwavering patriotism and contempt for the colonialists.
 *   **Jan. 6, 1947:** The Capital Regiment was officially established from the defenders of Inter-zone 1 in Hanoi.
 *   **Jan. 15, 1947:** A ceasefire was agreed upon to allow Chinese nationals to evacuate Hanoi. Vietnamese forces utilized this opportunity to withdraw some cadres and civilians to the rear.
 *   **Feb. 14, 1947:** French forces fiercely attacked Dong Xuan Market, where Vietnamese defenders fought tenaciously to hold their ground.
@@ -1414,6 +1418,7 @@
 *   **Jan. 11, 1952:** French Commander-in-Chief General Jean de Lattre de Tassigny died of illness in France.
 *   **Mar. 26, 1952:** Maurice Faure, the rapporteur on the ratification of the San Francisco Peace Treaty in the French Parliament, reported that the Japanese renunciation of the Paracel and Spratly Islands essentially rendered them *terra derelictae* (abandoned land), a view that contradicted other French statements affirming the islands belonged to the French Union.
 *   **May 1 - 6, 1952:** The First National Congress of Emulation Fighters and Model Cadres was held to honor achievements in the patriotic emulation movement.
+*   **1952:** The Ngu Xa bronze casting village requested permission from Hanoi authorities to use the bronze recovered from the French colonial statues (pulled down by Mayor Tran Van Lai in 1945) to cast a 12,300 kg Amitabha Buddha statue at Phuc Long pagoda.
 *   **Oct. 14 - Dec. 10, 1952:** The **Northwest Campaign** was launched. Key victories included the capture of Nghia Lo (Oct. 18) and the ambush at Chan Mong - Tram Than (Nov. 17) which defeated the French Operation Lorraine. The campaign liberated a vast area including Dien Bien Phu (Nov. 30) and Son La province (except Na San), connecting the Viet Bac resistance base with Upper Laos.
 *   **Jan. 25-30, 1953:** The Central Committee held its fourth conference, deciding to launch a mass mobilization for thorough rent reduction, implement interest rate reduction, and prepare for land reform.
 *   **Apr. 12, 1953:** President Ho Chi Minh signed a decree mobilizing the masses for thorough rent reduction.
@@ -1430,6 +1435,7 @@
 *   **Dec. 10 - 12, 1953:** Vietnamese forces wiped out a retreating French column at Muong Pon (Dec. 10) and advanced to liberate Lai Chau town (Dec. 12) after the French forces retreated to Dien Bien Phu.
 *   **Dec. 19, 1953:** President Ho Chi Minh signed decree No. 197-SL promulgating the **Land Reform Law**.
 *   **Jan. 26, 1954:** At the Dien Bien Phu front, the Campaign Command decided to change the operational guideline from "swift attack, swift victory" to **"steady attack, steady advance."**
+*   **Early 1954:** During the Dien Bien Phu campaign, former Mayor Tran Van Lai contributed to and was the first to sign a peace petition by Hanoi intellectuals ("Les Notabilités"). The petition was sent to Paris and published in *Le Monde* and *L'Humanité*, creating significant diplomatic pressure in France.
 *   **Mar. 13 - 17, 1954:** In the first phase of the Dien Bien Phu Campaign, the Vietnamese forces opened fire at 5:05 PM on March 13. They rapidly annihilated the Him Lam (Mar. 13) and Doc Lap (Mar. 15) strongpoints, forcing the French artillery commander Piroth to commit suicide. Ban Keo surrendered on March 17, breaking the enemy's northern defense system. During this phase, on March 14, the first French aircraft was shot down by Vietnamese anti-aircraft fire.
 *   **Mar. 30 - Apr. 26, 1954:** In the second phase of the campaign, the Vietnamese forces simultaneously attacked the eastern hills, capturing crucial points like C1, D1, and E, tightened the siege with an extensive trench system, controlled the airfield, and cut off the enemy's supply lines.
 *   **May 1 - 7, 1954:** In the third phase of the campaign, the Vietnamese forces annihilated the remaining strongpoints. During the final general attack on May 6, the Vietnamese army utilized DKZ 75mm guns and 12 Katyusha 6-barrel rocket launchers provided by China and the Soviet Union, significantly contributing to the victory. A massive 1-ton explosive charge was detonated under Hill A1 on the night of May 6, leading to its capture.
@@ -1530,11 +1536,13 @@
 *   **Feb. 18, 1962:** The DRV Government issued a statement condemning the establishment of MACV and increased US aggression in the South.
 *   **Feb. 16 - Mar. 3, 1962:** The First Congress of the National Liberation Front for South Vietnam was held, electing an official Central Committee headed by Lawyer Nguyen Huu Tho.
 *   **1962:** The US and the Saigon administration vigorously implemented the program of herding people into **"Strategic Hamlets,"** considering it the "backbone" of the "Special War" strategy.
+*   **1962:** Saigon commando Tran Van Lai (alias Mai Hong Que) purchased three adjacent houses on Nguyen Dinh Chieu Street (Saigon) to secretly construct underground bunkers, later storing over 2.5 tons of weapons for the 1968 Tet Offensive.
 *   **Jan. 2, 1963:** **Battle of Ap Bac (My Tho):** A force of approximately 350 troops from the Liberation Army of South Vietnam defeated a major sweep operation ("Duc Thang 01-1963") by nearly 1,800 Republic of Vietnam troops commanded by US advisors. Utilizing modern tactics like helicopterborne and armored assaults, the US-ARVN forces suffered heavy casualties (over 80 killed, 5 helicopters shot down, and several M-113 armored vehicles destroyed). This marked the first major victory of the Liberation Army against regular ARVN forces, signaling the potential defeat of the US "Special War" strategy.
 *   **May 8, 1963:** The Hue Vesak shootings occurred when government forces fired into a crowd of Buddhists protesting a ban on the Buddhist flag, killing nine people. This event triggered the **Buddhist crisis**, leading to widespread protests in urban areas against the repression of the Ngo Dinh Diem government.
 *   **Jun. 11, 1963:** Mahayana Buddhist monk **Thich Quang Duc** burned himself to death at the intersection of Phan Dinh Phung and Le Van Duyet streets (Saigon) to protest the persecution of Buddhists. The event was captured in a world-famous photograph by Malcolm Browne, generating massive international pressure on the Diem regime.
 *   **Aug. 21, 1963:** Special Forces loyal to Ngo Dinh Nhu raided Xa Loi Pagoda and other Buddhist temples across South Vietnam, arresting monks and nuns, which further alienated the regime from the population and its US allies.
 *   **Aug. 25, 1963:** Student **Quach Thi Trang** (15 years old) was shot dead by police at the Ben Thanh Market roundabout during a protest against the repression of Buddhists.
+*   **1963 - 1968:** Tran Van Lai operated as a commando in Saigon under the guise of a wealthy contractor. He infiltrated key enemy institutions like the Independence Palace and USOM, gathering critical intelligence and secretly mapping the entire Saigon sewer system for the Liberation Army's use.
 *   **Nov. 1, 1963:** A group of generals led by Duong Van Minh, with US backing, staged a coup to overthrow and kill the brothers Ngo Dinh Diem and Ngo Dinh Nhu.
 *   **Nov. 22, 1963:** US President Kennedy was assassinated, and Vice President Lyndon B. Johnson succeeded him, advocating for an escalation of the war in Vietnam.
 *   **Jan. 30, 1964:** General Nguyen Khanh staged a coup ("Rectification") overthrowing the military junta of Duong Van Minh, signaling continued political instability in the Saigon regime.
@@ -1583,6 +1591,7 @@
 *   **Feb. 9, 1966:** The Party Committee and the Command of the Saigon - Gia Dinh Military Zone directed the establishment of an "Anti-American Belt" surrounding the Dong Du base (Cu Chi).
 *   **Mar. 9 - 10, 1966:** The Battle of A Shau (Trận A Sầu) took place at the A Shau Special Forces Camp in the A Shau Valley (Thua Thien province). Established by the US to interdict the Ho Chi Minh Trail, the camp was defended by US Special Forces and Civilian Irregular Defense Group (CIDG) personnel. Following intense artillery bombardments and infantry assaults by the Liberation Army, combined with severe weather conditions that limited air support, the camp was overrun. US and allied forces suffered heavy casualties and were forced to evacuate on March 10, allowing the Liberation Army to secure a crucial strategic point on the supply route.
 *   **1965-1966 Dry Season:** The army and people of the South defeated the first dry-season strategic counter-offensive of the US.
+*   **1966:** Saigon commando Tran Van Lai secretly built a floating bunker in a house in Ba Chieu, serving as a reserve command post for the 1968 Tet Offensive.
 *   **Jul. 17, 1966:** President Ho Chi Minh issued the historic appeal: "Nothing is more precious than independence and freedom."
 *   **1966-1967 Dry Season:** The army and people of the South defeated the second dry-season strategic counter-offensive of the US.
 *   **Aug. 9 - 10, 1966:** **Battle of Duc Co (Gia Lai):** A fierce night engagement occurred when the 5th Battalion, 33rd Regiment of the Liberation Army attacked a strategic base defended by the 3rd Battalion, 1st Cavalry Regiment of the South Korean Army near the Cambodian border. Utilizing massive artillery, armored support, and air strikes, the outnumbered South Korean defenders repelled the Liberation Army's assault. The battle was noted for the staggering volume of artillery and machine-gun fire deployed by US and South Korean forces to defend the perimeter.
@@ -1636,6 +1645,7 @@
 *   **Apr. 24-25, 1970:** The Summit Conference of the Indochinese Peoples was held, strengthening the fighting alliance against the common enemy.
 *   **Apr. 30 - Jun. 30, 1970:** Over 100,000 US and Saigon troops launched the Cambodian Campaign, conducting 23 large-scale operations up to 80 kilometers deep into Cambodian territory to seek and destroy the COSVN headquarters.
 *   **Jul. 2, 1970:** The Politburo issued Resolution No. 200-NQ/TW establishing the Central Council for Frontline Supply to mobilize manpower and resources for the battlefield.
+*   **1970 - 1974:** Saigon commando Tran Van Lai was arrested and brutally tortured twice by the enemy in Quang Ngai. Using a fake identity, he maintained absolute secrecy, protecting his mission and the revolutionary network.
 *   **Feb. 8 - Mar. 24, 1971:** Route 9 - Southern Laos Campaign (Operation Lam Son 719). The Republic of Vietnam forces, heavily supported by 10,000 US troops, 1,200 aircraft, and heavy artillery, mobilized over 21,000 of their most elite troops (Airborne, Marines, Armor) to invade southern Laos to sever the Ho Chi Minh Trail at Tchepone. The Liberation Army of South Vietnam (with 60,000 troops) launched an unprecedented large-scale combined-arms counter-offensive. Highlighting the campaign was the decisive victory at Ban Dong (Mar. 12 - 20), where the Liberation Army shattered the ARVN 1st Airborne Brigade and two armored regiments. The campaign ended in a disastrous defeat for the Saigon army (suffering over 1,500 casualties and hundreds captured; losing 71 tanks, 163 armored vehicles, and having over 100 helicopters destroyed and 600 damaged). This victory marked a profound maturation of the Liberation Army, completely thwarted the goal of cutting the Truong Son trail, and dealt a fatal blow to the US "Vietnamization" strategy.
 *   **1971:** Nguyen Thi Binh, Head of the negotiating delegation of the Provisional Revolutionary Government of the Republic of South Vietnam at the Paris Conference, visited Iraq and was welcomed with great honor by the Iraqi government and people.
 *   **Apr. 20, 1971:** The Republic of Vietnam's Ministry of Foreign Affairs issued a formal protest against Malaysia regarding territorial issues and took the opportunity to strongly reaffirm Vietnamese sovereignty over both the Paracel and Spratly archipelagos.
@@ -1716,6 +1726,7 @@
 *   **Sep. 1975:** The 24th Conference of the Central Committee of the Vietnam Workers' Party set out the task of completing the unification of the country in terms of state administration.
 *   **Oct. 1975:** Nguyen Thi Binh visited Iraq to request an oil loan. Vice President Saddam Hussein decided to gift Vietnam 400,000 tons of oil and provide an interest-free loan of 1.5 million tons. Around the same time, Deputy Foreign Minister of North Vietnam Nguyen Co Thach also visited Iraq, and Saddam Hussein approved an interest-free loan of 2 million tons of oil for North Vietnam.
 *   **Sep. 22, 1975:** The Provisional Revolutionary Government of the Republic of South Vietnam organized a currency exchange across the entire South, issuing the "Bank of Vietnam Currency" (also known as Liberation currency).
+*   **Nov. 5, 1975:** Former Mayor of Hanoi, Doctor Tran Van Lai, passed away at the age of 81.
 *   **Nov. 15-21, 1975:** A Political Consultative Conference between the North and South was held in Saigon to discuss the unification of the country in terms of state administration.
 *   **Dec. 22-27, 1975:** The 5th National Assembly (of the North) held its second session, ratifying the results of the Consultative Conference and deciding to merge several provinces.
 *   **Jan. 3, 1976:** The Politburo issued Directive 228 on leading the General Election for a unified National Assembly.
@@ -1880,6 +1891,7 @@
 *   **Apr. 19 - 22, 2001:** The 9th National Congress of the Party, for the first time, affirmed the model of a socialist-oriented market economy.
 *   **Nov. 28, 2001:** The National Assembly ratified the Vietnam - U.S. Bilateral Trade Agreement (BTA).
 *   **Dec. 10, 2001:** The BTA officially came into effect.
+*   **2002:** Tran Van Lai, the legendary Saigon commando who made massive contributions during the Tet Offensive, passed away.
 *   **2002:** Vice President of Vietnam Nguyen Thi Binh visited Iraq to meet with President Saddam Hussein regarding the debt that had remained unpaid for over 20 years. In an extraordinary gesture of friendship, despite Iraq being under severe international embargo, President Saddam Hussein ordered the cancellation of Vietnam's entire debt. An agreement to this effect was signed by Iraqi Vice President Taha Yassin Ramadan.
 *   **Oct. 14, 2002:** The Prime Minister of the Socialist Republic of Vietnam issued Decision No. 132/2002/QD-TTg, officially taking the 7th time zone according to the international time zone system as the official time of Vietnam.
 *   **Feb. 26, 2003:** The first SARS infection case was recorded in Vietnam.
@@ -1925,6 +1937,7 @@
 *   **Oct. 14, 2011:** The hand, foot, and mouth disease epidemic spread to 63 provinces and cities.
 *   **Nov. 2011:** The Draft Law on Demonstration was discussed at the National Assembly.
 *   **Nov. 24, 2011:** Xoan Singing of Phu Tho was recognized by UNESCO as a heritage.
+*   **Dec. 2011:** The Hanoi People's Council officially named a street after former Mayor Tran Van Lai in Nam Tu Liem district to honor his historic contributions to the capital's urban identity.
 *   **Jun. 21, 2012:** The National Assembly passed the Law of the Sea of Vietnam.
 *   **Jul. 2012:** Upgraded relations to a Comprehensive Strategic Partnership with the Russian Federation.
 *   **Dec. 6, 2012:** The Worship of Hung Kings was recognized by UNESCO as a heritage.
@@ -1944,6 +1957,7 @@
 *   **Jul. 2, 2015:** Phong Nha - Ke Bang National Park was recognized by UNESCO for the second time for its biodiversity.
 *   **Jul. 6 - 10, 2015:** General Secretary Nguyen Phu Trong paid his first official visit to the United States.
 *   **Sep. 21, 2015:** Announced that 43 million Vietnamese people had escaped poverty (according to the Millennium Development Goals).
+*   **2015:** Saigon commando Tran Van Lai was posthumously awarded the title Hero of the People's Armed Forces for his outstanding contributions and sacrifices.
 *   **Oct. 29, 2015:** The Permanent Court of Arbitration (PCA) ruled that it had jurisdiction to hear 7 of the 15 submissions in the case brought by the Philippines against China regarding the South China Sea.
 *   **Dec. 31, 2015:** Vietnam officially joined the establishment of the ASEAN Economic Community (AEC).
 *   **Jan. 20 - 28, 2016:** The 12th National Congress of the Party, promoting the anti-corruption campaign ("blazing furnace").

@@ -1234,6 +1234,7 @@
 *   **01/10/1942:** Việt Nam Cách mệnh Đồng minh Hội (Việt Cách) được thành lập tại Liễu Châu (Trung Quốc), tập hợp nhiều đảng phái yêu nước.
 *   **01/01/1943:** Đại Việt Duy dân Cách mệnh Đảng được thành lập.
 *   **Đầu năm 1943:** Đại Việt Phục hưng Hội được thành lập.
+*   **27/10/1943:** Bác sĩ Trần Văn Lai bị chính quyền thực dân Pháp bắt giam tại Hỏa Lò, sau đó đày lên nhà tù Sơn La vì các hoạt động yêu nước.
 *   **01/12/1943:** Tuyên cáo Cairo được công bố bởi Mỹ, Anh và Trung Quốc, khẳng định ý định buộc Nhật Bản trả lại các lãnh thổ đã chiếm đoạt của Trung Hoa Dân quốc (Mãn Châu, Đài Loan, Bành Hồ). Đáng chú ý, quần đảo Hoàng Sa và Trường Sa không được nhắc đến trong bản tuyên cáo này để trả lại cho Trung Quốc.
 *   **10/09/1943:** Hồ Chí Minh được trả tự do.
 *   **1943:** Đảng Cộng sản Đông Dương công bố bản *Đề cương về Văn hóa Việt Nam*.
@@ -1252,6 +1253,7 @@
 *   **15/05/1945:** Các lực lượng vũ trang cách mạng thống nhất thành Việt Nam Giải phóng quân.
 *   **04/06/1945:** Khu Giải phóng Việt Bắc chính thức được thành lập.
 *   **17/07 - 02/08/1945:** Hội nghị Pôtxđam quyết định quân Đồng minh sẽ vào Việt Nam giải giáp quân đội Nhật.
+*   **20/07/1945:** Bác sĩ Trần Văn Lai chính thức nhậm chức, trở thành Thị trưởng người Việt đầu tiên của Hà Nội dưới thời Đế quốc Việt Nam. Trong chưa đầy một tháng tại vị, ông đã thực hiện các cải cách lịch sử: dùng tiếng Việt làm ngôn ngữ hành chính, đổi tên các đường phố sang tên danh nhân Việt Nam, giật đổ các tượng đài thực dân Pháp, và đặt tên Quảng trường Ba Đình (nơi sau này diễn ra Lễ Độc lập).
 *   **26/07/1945:** Tuyên ngôn Potsdam được công bố, phác thảo các điều kiện đầu hàng vô điều kiện của Nhật Bản, trong đó buộc Nhật Bản phải từ bỏ các vùng lãnh thổ đã chiếm đoạt bằng vũ lực.
 *   **13-15/08/1945:** Hội nghị toàn quốc của Đảng Cộng sản Đông Dương tại Tân Trào, quyết định phát động Tổng khởi nghĩa giành chính quyền trên cả nước.
 *   **13/08/1945:** Ủy ban Khởi nghĩa toàn quốc ra "Quân lệnh số 1".
@@ -1326,6 +1328,8 @@
 *   **18/12/1946:** Quân Pháp chiếm trụ sở Bộ Tài chính và Bộ Giao thông Công chính. Tướng Morlière gửi tối hậu thư đòi tước vũ khí của lực lượng tự vệ, tuyên bố nếu không đáp ứng thì chậm nhất sáng 20/12/1946 quân Pháp sẽ hành động.
 *   **18 - 19/12/1946:** Quân Pháp liên tiếp gửi tối hậu thư đòi tước vũ khí của lực lượng tự vệ Việt Nam tại Hà Nội. Ban Thường vụ Trung ương Đảng họp hội nghị mở rộng tại làng Vạn Phúc (Hà Đông) dưới sự chủ trì của Chủ tịch Hồ Chí Minh, quyết định phát động toàn quốc kháng chiến.
 *   **20:03, 19/12/1946:** Điện trong toàn thành phố phụt tắt, pháo đài Láng nổ phát súng lệnh tổng công kích, chính thức báo hiệu toàn quốc kháng chiến. Tới 20:30, chính phủ Việt Nam đã phát đi lời kêu gọi toàn quốc kháng chiến.
+*   **22/12/1946:** Cựu Thị trưởng Hà Nội Trần Văn Lai bị thực dân Pháp bắt giam lần thứ hai tại Hỏa Lò ngay sau khi Toàn quốc kháng chiến bùng nổ, với lý do "đảm bảo an toàn cho trí thức".
+*   **03/01/1947:** Bộ trưởng Bộ Thuộc địa Pháp Marius Moutet đến nhà tù Hỏa Lò hòng mua chuộc các trí thức Việt Nam đang bị giam giữ, trong đó có bác sĩ Trần Văn Lai. Các trí thức đã đáp lại bằng sự im lặng, thể hiện sự khinh bỉ và lòng yêu nước kiên định.
 *   **06/01/1947:** Trung đoàn Thủ đô chính thức được thành lập từ lực lượng bảo vệ Liên khu 1 ở Hà Nội.
 *   **15/01/1947:** Lệnh ngừng bắn được thực hiện để Hoa kiều tản cư khỏi Hà Nội. Việt Minh tận dụng cơ hội rút một số cán bộ và lực lượng chiến đấu ra ngoài an toàn.
 *   **14/02/1947:** Quân Pháp mở cuộc tấn công ác liệt vào chợ Đồng Xuân, nơi các chiến sĩ quyết tử Việt Nam chiến đấu kiên cường để giữ từng tấc đất.
@@ -1414,6 +1418,7 @@
 *   **11/01/1952:** Tổng chỉ huy Pháp Tướng Jean de Lattre de Tassigny qua đời vì bạo bệnh tại Pháp.
 *   **26/03/1952:** Maurice Faure, báo cáo viên về luật phê chuẩn Hiệp ước Hòa bình San Francisco tại Quốc hội Pháp, cho rằng việc Nhật Bản từ bỏ quần đảo Hoàng Sa và Trường Sa khiến các đảo này trở thành *terra derelictae* (đất đai bị bỏ rơi). Quan điểm này mâu thuẫn với các tuyên bố khác của Pháp khẳng định các quần đảo thuộc Liên hiệp Pháp.
 *   **01 - 06/05/1952:** Đại hội toàn quốc các chiến sĩ thi đua và cán bộ gương mẫu lần thứ nhất được tổ chức để tổng kết và biểu dương phong trào thi đua ái quốc.
+*   **1952:** Làng đúc đồng Ngũ Xã xin phép chính quyền Hà Nội dùng số đồng thu được từ các pho tượng thực dân Pháp (do Thị trưởng Trần Văn Lai cho giật đổ năm 1945) để đúc bức tượng Phật A Di Đà nặng 12.300 kg đặt tại chùa Phúc Long.
 *   **14/10 - 10/12/1952:** Mở **Chiến dịch Tây Bắc**. Các chiến thắng quan trọng gồm việc hạ phân khu Nghĩa Lộ (18/10), và đánh bại cuộc hành quân Lorraine của Pháp bằng trận phục kích Chân Mộng - Trạm Thản (17/11). Chiến dịch giải phóng một vùng rộng lớn bao gồm Điện Biên Phủ (30/11) và toàn tỉnh Sơn La (trừ Nà Sản), nối liền căn cứ địa Việt Bắc với Thượng Lào.
 *   **25-30/01/1953:** Ban Chấp hành Trung ương họp Hội nghị lần thứ tư, quyết định phát động quần chúng triệt để giảm tô, thực hiện giảm tức và chuẩn bị cho cải cách ruộng đất.
 *   **12/04/1953:** Chủ tịch Hồ Chí Minh ký sắc lệnh phát động quần chúng triệt để giảm tô.
@@ -1430,6 +1435,7 @@
 *   **10 - 12/12/1953:** Bộ đội Việt Nam tiêu diệt nhóm tàn quân Thái rút chạy tại Mường Pồn (10/12) và tiến vào giải phóng thị xã Lai Châu (12/12) sau khi quân Pháp rút về Điện Biên Phủ.
 *   **19/12/1953:** Chủ tịch Hồ Chí Minh ký sắc lệnh số 197-SL ban hành **Luật Cải cách ruộng đất**.
 *   **26/01/1954:** Tại mặt trận Điện Biên Phủ, Bộ Chỉ huy chiến dịch quyết định thay đổi phương châm tác chiến từ "đánh nhanh thắng nhanh" sang **"đánh chắc, tiến chắc"**.
+*   **Đầu năm 1954:** Trong chiến dịch Điện Biên Phủ, cựu Thị trưởng Trần Văn Lai đã góp ý và là người đầu tiên ký tên vào bản kiến nghị đòi hòa bình của nhân sĩ, trí thức Hà Nội ("Les Notabilites"). Bản kiến nghị được gửi sang Pháp và đăng trên các báo lớn, tạo tiếng vang và áp lực ngoại giao.
 *   **13 - 17/03/1954:** Trong đợt 1 của chiến dịch Điện Biên Phủ, bộ đội Việt Nam nổ súng vào lúc 17h05 ngày 13/03. Nhanh chóng tiêu diệt cứ điểm Him Lam (13/03) và Độc Lập (15/03), khiến chỉ huy pháo binh Pháp Piroth phải tự sát. Bản Kéo xin hàng vào ngày 17/03. Trong đợt này, ngày 14/03, chiếc máy bay đầu tiên của Pháp đã bị cao xạ Việt Nam bắn rơi.
 *   **30/03 - 26/04/1954:** Đợt 2 của chiến dịch bắt đầu lúc 18h00 ngày 30/03. Bộ đội Việt Nam đồng loạt tiến công các cao điểm phía đông (như C1, D1, E), thắt chặt vòng vây bằng hệ thống giao thông hào chằng chịt, khống chế hoàn toàn sân bay và cắt đứt nguồn tiếp tế của địch.
 *   **01/05 - 07/05/1954:** Đợt 3 của chiến dịch, bộ đội tiêu diệt các cứ điểm còn lại. Trong đợt tổng công kích cuối cùng (ngày 06/05), bộ đội Việt Nam đã sử dụng pháo ĐKZ 75mm và 12 dàn hỏa tiễn 6 nòng (Cachiusa) do Trung Quốc và Liên Xô viện trợ, phát huy sức mạnh hỏa lực to lớn. Đêm 06/05, khối bộc phá 1 tấn được điểm hỏa làm nổ tung hầm ngầm trên đồi A1, giúp quân ta làm chủ hoàn toàn cao điểm then chốt này.
@@ -1530,11 +1536,13 @@
 *   **18/02/1962:** Chính phủ Việt Nam Dân chủ Cộng hòa ra tuyên bố lên án việc Mỹ tăng cường can thiệp và xâm lược miền Nam Việt Nam.
 *   **16/02 - 03/03/1962:** Đại hội lần thứ nhất Mặt trận Dân tộc Giải phóng miền Nam Việt Nam được tổ chức, bầu ra Ủy ban Trung ương chính thức do Luật sư Nguyễn Hữu Thọ làm Chủ tịch.
 *   **1962:** Mỹ và chính quyền Sài Gòn ráo riết thực hiện chương trình dồn dân, lập **"Ấp chiến lược"**, coi đây là "xương sống" của chiến lược "Chiến tranh đặc biệt".
+*   **1962:** Chiến sĩ biệt động Sài Gòn Trần Văn Lai (bí danh Mai Hồng Quế) mua ba căn nhà liền kề trên đường Nguyễn Đình Chiểu (Sài Gòn) để bí mật đào hầm ngầm, sau này cất giấu hơn 2,5 tấn vũ khí phục vụ Tổng tiến công Tết Mậu Thân 1968.
 *   **02/01/1963:** **Trận Ấp Bắc (Mỹ Tho):** Khoảng 350 quân của Quân Giải phóng miền Nam Việt Nam đã đánh bại cuộc hành quân càn quét quy mô lớn "Đức Thắng 01-1963" của gần 1.800 quân lực Việt Nam Cộng hòa do cố vấn Mỹ chỉ huy. Dù đối phương sử dụng chiến thuật "trực thăng vận" và "thiết xa vận" tân kỳ, Quân Giải phóng đã gây thiệt hại nặng nề (hơn 80 lính Sài Gòn chết, bắn rơi 5 trực thăng, bắn cháy nhiều xe thiết giáp M113). Đây là chiến thắng lớn đầu tiên của Quân Giải phóng trước quân chính quy VNCH, đánh dấu sự thất bại bước đầu của chiến lược "Chiến tranh đặc biệt".
 *   **08/05/1963:** Sự kiện Đài phát thanh Huế: Quân đội chính phủ nổ súng vào đoàn người biểu tình phản đối lệnh cấm treo cờ Phật giáo nhân lễ Phật Đản, làm 9 người thiệt mạng. Sự kiện này châm ngòi cho **cuộc khủng hoảng Phật giáo** và phong trào đấu tranh ở các đô thị miền Nam.
 *   **11/06/1963:** Hòa thượng **Thích Quảng Đức** tẩm xăng tự thiêu tại ngã tư đường Phan Đình Phùng và Lê Văn Duyệt (Sài Gòn) để phản đối chính sách đàn áp Phật giáo của chính quyền Ngô Đình Diệm. Hình ảnh này đã gây xúc động mạnh trên toàn thế giới, trở thành biểu tượng của cuộc khủng hoảng Phật giáo và góp phần dẫn đến sự sụp đổ của chế độ.
 *   **21/08/1963:** Lực lượng Đặc biệt của Ngô Đình Nhu đồng loạt tấn công chùa Xá Lợi và các chùa chiền khác trên toàn miền Nam (Chiến dịch Nước lũ), bắt giữ hàng ngàn tăng ni, dẫn đến sự phản đối gay gắt của dư luận trong nước và quốc tế.
 *   **25/08/1963:** Nữ sinh **Quách Thị Trang** (15 tuổi) bị cảnh sát bắn chết tại bùng binh Chợ Bến Thành trong cuộc biểu tình chống chính sách đàn áp Phật giáo.
+*   **1963 - 1968:** Trần Văn Lai hoạt động biệt động tại Sài Gòn dưới vỏ bọc nhà thầu khoán. Ông xâm nhập các cơ quan đầu não như Dinh Độc Lập và cơ quan viện trợ hậu cần Mỹ (USOM), thu thập tình báo và bí mật vẽ bản đồ hệ thống cống ngầm Sài Gòn cho Quân Giải phóng.
 *   **01/11/1963:** Nhóm tướng lĩnh do Dương Văn Minh cầm đầu, được Mỹ hậu thuẫn, tiến hành đảo chính lật đổ và giết chết anh em Ngô Đình Diệm - Ngô Đình Nhu.
 *   **22/11/1963:** Tổng thống Mỹ Kennedy bị ám sát, Phó Tổng thống Lyndon B. Johnson lên thay, chủ trương đẩy mạnh chiến tranh ở Việt Nam.
 *   **30/01/1964:** Tướng Nguyễn Khánh thực hiện cuộc "Chỉnh lý" lật đổ chính quyền quân sự của Dương Văn Minh, tiếp tục gây bất ổn chính trị tại Sài Gòn.
@@ -1583,6 +1591,7 @@
 *   **09/02/1966:** Khu ủy và Bộ chỉ huy Quân khu Sài Gòn - Gia Định chỉ đạo thiết lập "Vành đai diệt Mỹ" bao vây căn cứ Đồng Dù (Củ Chi).
 *   **09 - 10/03/1966:** Trận A Sầu diễn ra tại Căn cứ Đặc biệt A Sầu nằm trong thung lũng A Sầu (tỉnh Thừa Thiên). Căn cứ do quân đội Mỹ thiết lập nhằm ngăn chặn tuyến đường mòn Hồ Chí Minh, được phòng thủ bởi Lực lượng Đặc biệt Mỹ và Dân sự Chiến đấu (CIDG). Sau các đợt pháo kích và tấn công bộ binh dữ dội của Quân Giải phóng, cộng với thời tiết xấu làm hạn chế không kích yểm trợ, căn cứ đã thất thủ. Lực lượng Mỹ và đồng minh chịu thương vong nặng nề và buộc phải triệt thoái vào ngày 10 tháng 3, giúp Quân Giải phóng kiểm soát được một cứ điểm yết hầu trên tuyến vận tải chiến lược.
 *   **Mùa khô 1965-1966:** Quân và dân miền Nam đánh bại cuộc phản công chiến lược mùa khô lần thứ nhất của Mỹ.
+*   **1966:** Chiến sĩ biệt động Trần Văn Lai bí mật xây dựng một căn hầm nổi tại một ngôi nhà ở Bà Chiểu, làm căn cứ chỉ huy dự bị cho cuộc Tổng tiến công Tết Mậu Thân 1968.
 *   **17/07/1966:** Chủ tịch Hồ Chí Minh ra Lời kêu gọi lịch sử: "Không có gì quý hơn độc lập, tự do".
 *   **Mùa khô 1966-1967:** Quân và dân miền Nam đánh bại cuộc phản công chiến lược mùa khô lần thứ hai của Mỹ.
 *   **09 - 10/08/1966:** **Trận Đức Cơ (Gia Lai):** Một trận đánh ban đêm ác liệt diễn ra khi Tiểu đoàn 5, Trung đoàn 33 Quân Giải phóng tập kích vào căn cứ chiến lược do Tiểu đoàn 3, Trung đoàn Kỵ binh Đệ Nhất của quân đội Hàn Quốc chốt giữ gần biên giới Campuchia. Dựa vào ưu thế hỏa lực pháo binh, thiết giáp và không quân yểm trợ khổng lồ, quân Hàn Quốc với quân số ít hơn đã đẩy lùi được đợt tấn công của Quân Giải phóng. Trận đánh được ghi nhận là một "chiến thắng của hỏa lực", minh chứng cho chiến thuật sử dụng hỏa lực áp đảo bảo vệ vành đai phòng thủ của liên quân Mỹ - Hàn.
@@ -1636,6 +1645,7 @@
 *   **24-25/04/1970:** Hội nghị cấp cao nhân dân ba nước Đông Dương được tổ chức, củng cố liên minh chiến đấu chống kẻ thù chung.
 *   **30/04 - 30/06/1970:** Hơn 10 vạn quân Mỹ và quân đội Sài Gòn mở Chiến dịch Campuchia, thực hiện 23 cuộc hành quân ồ ạt đánh sâu vào đất Campuchia từ 30 đến 80 km nhằm truy tìm và tiêu diệt cơ quan đầu não Trung ương Cục miền Nam.
 *   **02/07/1970:** Bộ Chính trị ra Nghị quyết số 200-NQ/TW thành lập Hội đồng chi viện tiền tuyến ở Trung ương để huy động sức người, sức của đáp ứng yêu cầu của chiến trường.
+*   **1970 - 1974:** Chiến sĩ biệt động Trần Văn Lai bị địch bắt và tra tấn dã man hai lần ở Quảng Ngãi. Dưới căn cước giả, ông vẫn kiên trung giữ vững bí mật, bảo vệ an toàn mạng lưới cách mạng.
 *   **08/02 - 24/03/1971:** Chiến dịch Đường 9 - Nam Lào (Lam Sơn 719). Quân lực Việt Nam Cộng hòa, yểm trợ bởi 10.000 quân Mỹ cùng 1.200 máy bay và pháo binh hạng nặng, huy động hơn 21.000 quân tinh nhuệ nhất (Dù, Thủy quân lục chiến, Thiết giáp) tiến công sang Hạ Lào nhằm cắt đứt đường mòn Hồ Chí Minh tại Xê-pôn. Quân Giải phóng miền Nam Việt Nam (với 60.000 quân) đã thực hiện chiến dịch phản công hiệp đồng binh chủng quy mô lớn chưa từng có. Nổi bật là trận đại phá Bản Đông (12/03 - 20/03), Quân Giải phóng đập tan Lữ đoàn 1 Dù và 2 thiết đoàn VNCH. Chiến dịch kết thúc với thất bại thảm hại của quân đội Sài Gòn (thương vong trên 1.500 người, hàng trăm bị bắt; mất 71 xe tăng, 163 xe thiết giáp, hơn 100 trực thăng bị phá hủy và hơn 600 chiếc bị bắn hỏng). Thắng lợi này đánh dấu sự trưởng thành vượt bậc của Quân Giải phóng, làm phá sản mục tiêu cắt đứt đường Trường Sơn và giáng đòn chí mạng vào chiến lược "Việt Nam hóa chiến tranh" của Mỹ.
 *   **1971:** Bà Nguyễn Thị Bình, Trưởng đoàn đàm phán của Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam tại Hội nghị Paris, sang thăm Iraq và được chính phủ cùng nhân dân Iraq đón tiếp hết sức trọng thị.
 *   **20/04/1971:** Bộ Ngoại giao Việt Nam Cộng hòa đưa ra lời phản kháng đối với Malaysia về các vấn đề lãnh thổ, đồng thời nhân dịp này khẳng định lại chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa.
@@ -1716,6 +1726,7 @@
 *   **09/1975:** Hội nghị lần thứ 24 Ban Chấp hành Trung ương Đảng Lao động Việt Nam đề ra nhiệm vụ hoàn thành thống nhất đất nước về mặt Nhà nước.
 *   **10/1975:** Bà Nguyễn Thị Bình thăm Iraq với nhiệm vụ vận động vay dầu. Phó Chủ tịch Hội đồng Chỉ huy Cách mạng Saddam Hussein đã quyết định tặng Việt Nam 400.000 tấn dầu và cho vay thêm 1,5 triệu tấn. Cùng thời điểm, Thứ trưởng Ngoại giao miền Bắc Nguyễn Cơ Thạch cũng sang thăm, và Saddam Hussein đã quyết định cho miền Bắc vay 2 triệu tấn dầu không tính lãi.
 *   **22/09/1975:** Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam tổ chức cuộc đổi tiền trên quy mô toàn miền Nam, phát hành "Tiền Ngân hàng Việt Nam" (còn gọi là tiền Giải phóng).
+*   **05/11/1975:** Cựu Thị trưởng Hà Nội, Bác sĩ Trần Văn Lai qua đời, hưởng thọ 81 tuổi.
 *   **15-21/11/1975:** Hội nghị Hiệp thương Chính trị giữa hai miền Nam - Bắc được tổ chức tại Sài Gòn, bàn về việc thống nhất nước nhà về mặt Nhà nước.
 *   **22-27/12/1975:** Quốc hội khóa V (miền Bắc) họp kỳ thứ hai, phê chuẩn kết quả Hội nghị Hiệp thương và quyết định hợp nhất một số tỉnh.
 *   **03/01/1976:** Bộ Chính trị ra Chỉ thị 228 về việc lãnh đạo cuộc Tổng tuyển cử bầu Quốc hội chung.
@@ -1880,6 +1891,7 @@
 *   **19 - 22/04/2001:** Đại hội IX của Đảng, lần đầu khẳng định mô hình kinh tế thị trường định hướng XHCN.
 *   **28/11/2001:** Quốc hội phê chuẩn Hiệp định Thương mại Việt Nam - Hoa Kỳ (BTA).
 *   **10/12/2001:** Hiệp định BTA chính thức có hiệu lực.
+*   **2002:** Trần Văn Lai, chiến sĩ biệt động Sài Gòn huyền thoại với những đóng góp to lớn trong Tết Mậu Thân, qua đời do di chứng từ những đòn tra tấn trong nhà tù Mỹ - ngụy.
 *   **2002:** Phó Chủ tịch nước Nguyễn Thị Bình sang thăm Iraq để gặp Tổng thống Saddam Hussein nhằm giải quyết khoản nợ kéo dài hơn 20 năm chưa trả xong. Dù Iraq đang bị cấm vận và vô vàn khó khăn, Tổng thống Saddam Hussein đã quyết định xóa toàn bộ số nợ cho Việt Nam. Bản thỏa thuận xóa nợ được Phó Tổng thống Iraq Taha Yassin Ramadan ký kết.
 *   **14/10/2002:** Thủ tướng Chính phủ nước Cộng hòa Xã hội chủ nghĩa Việt Nam ra Quyết định số 132/2002/QĐ-TTg, chính thức "lấy múi giờ thứ 7 theo hệ thống múi giờ quốc tế làm giờ chính thức của Việt Nam".
 *   **26/02/2003:** Ghi nhận ca nhiễm SARS đầu tiên tại Việt Nam.
@@ -1925,6 +1937,7 @@
 *   **14/10/2011:** Dịch bệnh tay chân miệng lan rộng 63 tỉnh, thành.
 *   **11/2011:** Dự thảo Luật Biểu tình được đưa ra thảo luận tại Quốc hội.
 *   **24/11/2011:** Hát Xoan Phú Thọ được UNESCO công nhận là di sản.
+*   **12/2011:** Hội đồng Nhân dân Thành phố Hà Nội chính thức đặt tên đường Trần Văn Lai tại quận Nam Từ Liêm nhằm tri ân những đóng góp lịch sử của cố Thị trưởng đối với diện mạo Thủ đô.
 *   **21/06/2012:** Quốc hội thông qua Luật Biển Việt Nam.
 *   **07/2012:** Nâng cấp quan hệ Đối tác chiến lược toàn diện với Liên bang Nga.
 *   **06/12/2012:** Tín ngưỡng thờ cúng Hùng Vương được UNESCO công nhận là di sản.
@@ -1944,6 +1957,7 @@
 *   **02/07/2015:** Vườn Quốc gia Phong Nha - Kẻ Bàng được UNESCO công nhận lần hai về đa dạng sinh học.
 *   **06 - 10/07/2015:** Tổng Bí thư Nguyễn Phú Trọng lần đầu thăm chính thức Hoa Kỳ.
 *   **21/09/2015:** Công bố 43 triệu người Việt Nam thoát nghèo (theo Mục tiêu Thiên niên kỷ).
+*   **2015:** Chiến sĩ biệt động Trần Văn Lai được Đảng và Nhà nước truy tặng danh hiệu Anh hùng Lực lượng Vũ trang Nhân dân vì những cống hiến và hy sinh xuất sắc.
 *   **29/10/2015:** Tòa Trọng tài Thường trực (PCA) ra phán quyết xác định có thẩm quyền xét xử đối với 7 trong số 15 đệ trình của Philippines trong vụ kiện Trung Quốc về vấn đề Biển Đông.
 *   **31/12/2015:** Việt Nam chính thức tham gia thành lập Cộng đồng Kinh tế ASEAN (AEC).
 *   **20 - 28/01/2016:** Đại hội XII của Đảng, đẩy mạnh chiến dịch chống tham nhũng ("đốt lò").
