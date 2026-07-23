@@ -1514,17 +1514,20 @@
     *   Giải phóng miền Nam, thực hiện thống nhất đất nước.
     *   Đồng chí Lê Duẩn được bầu làm Bí thư Thứ nhất Ban Chấp hành Trung ương Đảng.
 *   **11/11/1960:** Cuộc đảo chính của nhóm sĩ quan dù do Nguyễn Chánh Thi cầm đầu nhằm lật đổ Ngô Đình Diệm bị thất bại, phản ánh mâu thuẫn nội bộ sâu sắc của chế độ Sài Gòn.
+*   **02/12/1960:** Việt Nam và Cuba chính thức thiết lập quan hệ ngoại giao sau chuyến thăm của Thứ trưởng Ngoại giao Cuba Héctor Rodríguez Llompart. Cuba trở thành quốc gia châu Mỹ đầu tiên công nhận và thiết lập quan hệ ngoại giao với nước Việt Nam Dân chủ Cộng hòa.
 *   **20/12/1960:** **Mặt trận Dân tộc Giải phóng miền Nam Việt Nam** được thành lập.
 
 ### **Thời kỳ Chống Chiến tranh Đặc biệt (1961 - 1965)**
 
 *   **1961:** Tổng thống Hàn Quốc Park Chung-hee đề nghị gửi quân sang Việt Nam để hỗ trợ Mỹ, nhưng Tổng thống Mỹ John F. Kennedy ban đầu từ chối. Cùng năm, Liên Xô đã viện trợ cho Hải quân Việt Nam 12 tàu phóng ngư lôi và 4 tàu chống ngầm nhằm tăng cường khả năng phòng thủ bờ biển.
 *   **1961 - 1965:** Miền Bắc thực hiện **Kế hoạch 5 năm lần thứ nhất** nhằm xây dựng bước đầu cơ sở vật chất - kỹ thuật của chủ nghĩa xã hội.
+*   **1961 - 1975:** Trong suốt cuộc kháng chiến chống Mỹ, Cuba đều đặn viện trợ cho Việt Nam khoảng 50.000 tấn đường mỗi năm và cử bác sĩ sang chăm sóc thương binh. Gần một triệu sinh viên Việt Nam được cho là đã học tập tại Cuba trong giai đoạn này.
 *   **01/1961:** Tổng thống Mỹ John F. Kennedy nhậm chức, đề ra chiến lược "Phản ứng linh hoạt", trong đó có hình thức **"Chiến tranh đặc biệt"** để áp dụng ở miền Nam Việt Nam.
 *   **01/1961:** Hội nghị Trung ương Đảng lần thứ 3 quyết định thành lập Trung ương Cục miền Nam thay cho Xứ ủy Nam Bộ để trực tiếp lãnh đạo cách mạng miền Nam.
 *   **24/01/1961:** Bộ Chính trị ra Chỉ thị về phương hướng và nhiệm vụ công tác trước mắt của cách mạng miền Nam, chuyển phương châm từ đấu tranh chính trị là chủ yếu sang đẩy mạnh đấu tranh vũ trang song song với đấu tranh chính trị.
 *   **28/01/1961:** Quân đội Việt Nam Cộng hòa tổ chức càn quét vào rừng Bào Trăng (Nhuận Đức, Củ Chi), nơi đóng căn cứ của Khu ủy Sài Gòn - Gia Định. Lực lượng cách mạng phải rút lui, mất mát một số tài liệu và trang bị.
 *   **15/02/1961:** Các lực lượng vũ trang cách mạng ở miền Nam được thống nhất thành **Quân Giải phóng miền Nam Việt Nam**.
+*   **03/1961:** Chính phủ nước Việt Nam có chuyến thăm chính thức đầu tiên đến Cuba do Bộ trưởng Văn hóa Hoàng Minh Giám làm Trưởng đoàn. Trong chuyến thăm, Fidel Castro đã gợi ý cử thanh niên Việt Nam sang Cuba học tiếng Tây Ban Nha.
 *   **20/09/1961:** Khu ủy Sài Gòn - Gia Định mở Hội nghị Quân sự lần thứ nhất, phân chia chiến trường thành 3 vùng: vùng căn cứ giải phóng (lấy vũ trang làm chính), vùng tranh chấp ven đô (kết hợp chính trị và vũ trang) và vùng nội thành (lấy đấu tranh chính trị làm chính).
 *   **1961:** Mỹ bắt đầu **Chiến dịch Ranch Hand**, rải chất độc hóa học (trong đó có chất độc màu da cam) xuống miền Nam Việt Nam nhằm phá hủy thảm thực vật và mùa màng, gây ra hậu quả nghiêm trọng và lâu dài về môi trường và sức khỏe con người.
 *   **05/1961:** Mỹ công bố **Kế hoạch Staley - Taylor** với mục tiêu "bình định" miền Nam trong vòng 18 tháng.
@@ -1532,6 +1535,7 @@
 *   **13/07/1961:** Tổng thống Việt Nam Cộng hòa ký nghị định thành lập đơn vị hành chính Định Hải bao gồm quần đảo Hoàng Sa, chính thức khẳng định quyền quản lý hành chính.
 *   **23/10/1961:** **Đoàn 759** được thành lập để mở tuyến đường vận tải chiến lược trên biển chi viện cho miền Nam (Đường Hồ Chí Minh trên biển).
 *   **30/10/1961:** Bộ Ngoại giao Việt Nam Dân chủ Cộng hòa gửi công hàm cho 103 quốc gia trên thế giới tố cáo hành động phá hoại Hiệp định Giơnevơ của Mỹ.
+*   **11/1961:** Nhóm 23 học viên Việt Nam đầu tiên, được tuyển chọn từ các cơ quan chủ chốt của nhà nước, đã có mặt tại La Habana để học tiếng Tây Ban Nha, đặt nền móng cho đội ngũ cán bộ ngoại giao sau này.
 *   **1962:** Các cố vấn quân sự Úc chính thức có mặt tại Việt Nam để hỗ trợ quân đội Việt Nam Cộng hòa.
 *   **08/02/1962:** Mỹ thành lập **Bộ Chỉ huy Viện trợ Quân sự tại Việt Nam (MACV)** do Tướng Paul Harkins chỉ huy để trực tiếp điều hành cuộc chiến.
 *   **18/02/1962:** Chính phủ Việt Nam Dân chủ Cộng hòa ra tuyên bố lên án việc Mỹ tăng cường can thiệp và xâm lược miền Nam Việt Nam.
@@ -1543,9 +1547,11 @@
 *   **11/06/1963:** Hòa thượng **Thích Quảng Đức** tẩm xăng tự thiêu tại ngã tư đường Phan Đình Phùng và Lê Văn Duyệt (Sài Gòn) để phản đối chính sách đàn áp Phật giáo của chính quyền Ngô Đình Diệm. Hình ảnh này đã gây xúc động mạnh trên toàn thế giới, trở thành biểu tượng của cuộc khủng hoảng Phật giáo và góp phần dẫn đến sự sụp đổ của chế độ.
 *   **21/08/1963:** Lực lượng Đặc biệt của Ngô Đình Nhu đồng loạt tấn công chùa Xá Lợi và các chùa chiền khác trên toàn miền Nam (Chiến dịch Nước lũ), bắt giữ hàng ngàn tăng ni, dẫn đến sự phản đối gay gắt của dư luận trong nước và quốc tế.
 *   **25/08/1963:** Nữ sinh **Quách Thị Trang** (15 tuổi) bị cảnh sát bắn chết tại bùng binh Chợ Bến Thành trong cuộc biểu tình chống chính sách đàn áp Phật giáo.
+*   **23/09/1963:** Cuba là nước đầu tiên thành lập Ủy ban Cuba đoàn kết với miền Nam Việt Nam do nữ anh hùng Melba Hernandez sáng lập. Cuba cũng là nước đầu tiên công nhận Mặt trận Dân tộc Giải phóng miền Nam Việt Nam và mời đặt cơ quan đại diện thường trú tại La Habana.
 *   **1963 - 1968:** Trần Văn Lai hoạt động biệt động tại Sài Gòn dưới vỏ bọc nhà thầu khoán. Ông xâm nhập các cơ quan đầu não như Dinh Độc Lập và cơ quan viện trợ hậu cần Mỹ (USOM), thu thập tình báo và bí mật vẽ bản đồ hệ thống cống ngầm Sài Gòn cho Quân Giải phóng.
 *   **01/11/1963:** Nhóm tướng lĩnh do Dương Văn Minh cầm đầu, được Mỹ hậu thuẫn, tiến hành đảo chính lật đổ và giết chết anh em Ngô Đình Diệm - Ngô Đình Nhu.
 *   **22/11/1963:** Tổng thống Mỹ Kennedy bị ám sát, Phó Tổng thống Lyndon B. Johnson lên thay, chủ trương đẩy mạnh chiến tranh ở Việt Nam.
+*   **1964:** Anh hùng Núp (Đinh Núp) sang thăm Cuba. Lãnh tụ Fidel Castro đã gửi tặng Chủ tịch Hồ Chí Minh một hộp xì gà Cuba và nhờ Anh hùng Núp chuyển lời khẳng định Cuba luôn sát cánh cùng Việt Nam.
 *   **30/01/1964:** Tướng Nguyễn Khánh thực hiện cuộc "Chỉnh lý" lật đổ chính quyền quân sự của Dương Văn Minh, tiếp tục gây bất ổn chính trị tại Sài Gòn.
 *   **03/1964:** Mỹ vạch ra **Kế hoạch Johnson - McNamara**, tăng cường viện trợ, đưa thêm cố vấn, đẩy mạnh các hoạt động phá hoại miền Bắc.
 *   **03/1964:** Chủ tịch Hồ Chí Minh triệu tập **Hội nghị Chính trị đặc biệt** tại Hà Nội, kêu gọi toàn dân đoàn kết chống Mỹ, cứu nước.
@@ -1581,6 +1587,7 @@
 *   **28/05 - 20/07/1965:** **Chiến dịch Ba Gia (Quảng Ngãi):** Quân Giải phóng miền Nam Việt Nam (Quân khu 5) mở chiến dịch tiến công quân lực Việt Nam Cộng hòa. Trong giai đoạn 1 (28/05 - 31/05), bằng chiến thuật vận động phục kích và bao vây, Quân Giải phóng đã lần đầu tiên tiêu diệt gọn một chiến đoàn hỗn hợp (gồm Bộ binh, Biệt động quân, Thủy quân lục chiến) của quân đội Sài Gòn, loại khỏi vòng chiến đấu hơn 900 lính. Chiến thắng này góp phần làm phá sản hoàn toàn chiến lược "Chiến tranh đặc biệt".
 *   **06/1965 - 09/1966:** Thể theo yêu cầu của Việt Nam, Trung Quốc cử bộ đội công trình đến vùng Đông Bắc giúp đỡ xây dựng các công trình bố phòng trên 13 đảo và 8 địa điểm đất liền ven biển. Trong giai đoạn 1965-1968, Trung Quốc đã cử 346 chuyên gia và hơn 31 vạn bộ đội (cao xạ, công trình, làm đường) sang giúp Việt Nam, trực tiếp tham gia chiến đấu và bắn rơi nhiều máy bay Mỹ.
 *   **09 - 13/06/1965:** **Trận Đồng Xoài (Phước Long):** Nằm trong khuôn khổ Chiến dịch Đồng Xoài (10/05 - 22/07), Quân Giải phóng mở cuộc tấn công quy mô lớn vào chi khu Đồng Xoài do Lực lượng Đặc biệt Việt Nam Cộng hòa và cố vấn Mỹ phòng thủ. Sau nhiều ngày đêm, Quân Giải phóng đã làm chủ cứ điểm và đánh thiệt hại nặng các tiểu đoàn viện binh (trong đó có Tiểu đoàn Dù 7 tinh nhuệ). Toàn chiến dịch đã loại khỏi vòng chiến đấu gần 4.500 lính đối phương, đánh dấu sự trưởng thành vượt bậc về tác chiến tập trung của Quân Giải phóng.
+*   **26/06/1965:** Lãnh tụ Fidel Castro phát biểu trước Đoàn đại biểu thanh niên Cuba tại La Habana, khẳng định sự ủng hộ tuyệt đối dành cho cuộc đấu tranh giành độc lập của nhân dân Việt Nam.
 *   **06/07/1965:** Hội đồng Bộ trưởng Liên Xô quyết định thành lập Đoàn chuyên gia quân sự tại Việt Nam để giúp đỡ lực lượng phòng không và không quân. Ngày 24/07, kíp chiến đấu của chuyên gia Liên Xô đã trực tiếp vận hành hệ thống tên lửa SAM-2 bắn rơi một máy bay F-4C của Mỹ, mở ra giai đoạn tác chiến phòng không hiện đại.
 *   **18/08/1965:** **Trận Vạn Tường (Quảng Ngãi):** Quân đội Mỹ mở cuộc hành quân Starlite, huy động khoảng 9.000 lính Thủy quân lục chiến cùng hỏa lực yểm trợ mạnh mẽ từ không quân và pháo hạm nhằm tiêu diệt Trung đoàn 1 (Trung đoàn Ba Gia) của Quân Giải phóng. Đây là trận đánh trên bộ quy mô lớn đầu tiên giữa quân Mỹ và Quân Giải phóng. Dù áp đảo về hỏa lực, quân Mỹ đã bị gần 2.000 Quân Giải phóng chặn đánh quyết liệt bằng chiến hào và vũ khí chống tăng. Hai bên đều tuyên bố chiến thắng, song trận đánh chứng minh Quân Giải phóng hoàn toàn có khả năng đương đầu với quân chính quy Mỹ, được mệnh danh là "Ấp Bắc đối với quân Mỹ".
 *   **19/10 - 26/11/1965:** **Chiến dịch Plei Me và Trận Ia Đrăng (Tây Nguyên):** Mặt trận B3 của Quân Giải phóng mở chiến dịch Plei Me nhằm kéo địch ra khỏi căn cứ để tiêu diệt. Sau khi vây hãm đồn Plei Me và đánh bại viện binh VNCH (19/10 - 25/10), Sư đoàn 1 Không kỵ của Mỹ mở cuộc hành quân phản kích, dẫn đến **Trận Ia Đrăng lịch sử (14 - 18/11)** tại bãi đáp X-Ray và Albany. Đây là cuộc đụng độ quy mô lớn đầu tiên giữa quân chủ lực Mỹ và Quân Giải phóng. Bằng chiến thuật "nắm thắt lưng địch mà đánh" (cận chiến áp sát để vô hiệu hóa ưu thế hỏa lực phi pháo và B-52 của Mỹ), Quân Giải phóng đã gây thương vong nặng nề cho các tiểu đoàn Không kỵ Mỹ. Trận đánh làm thay đổi nhận thức chiến lược của giới lãnh đạo quân sự Mỹ, dập tắt hy vọng về một chiến thắng dễ dàng.
@@ -1590,6 +1597,7 @@
 *   **25/12/1965:** Đảng Đại Việt Cách mạng được thành lập.
 *   **Tháng 12/1965:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ 12 (khóa III) hạ quyết tâm chiến lược "đánh thắng giặc Mỹ xâm lược", đồng thời dự kiến chiến lược "vừa đánh vừa đàm".
 *   **16/01/1966:** Chủ tịch Hồ Chí Minh phát biểu tại Hội nghị cán bộ cao cấp nghiên cứu Nghị quyết Trung ương 12, khẳng định quyết tâm đánh thắng giặc Mỹ xâm lược bất kể chúng đưa vào bao nhiêu quân.
+*   **02/01/1966:** Tại cuộc mít tinh của hơn 1 triệu người ở La Habana kỷ niệm 7 năm Cách mạng Cuba, Fidel Castro đã có câu nói bất hủ: "Vì Việt Nam, Cuba sẵn sàng hiến dâng cả máu của mình". Hàng nghìn thanh niên Cuba sau đó đã viết đơn tình nguyện xin đến Việt Nam chiến đấu.
 *   **08/01 - 19/01/1966:** Mỹ và quân đồng minh mở cuộc hành quân **Crimp** với 12.000 quân, xe tăng và B-52 yểm trợ đánh vào vùng "Tam giác sắt" (Củ Chi) nhằm tiêu diệt cơ quan đầu não Quân khu Sài Gòn - Gia Định. Lực lượng cách mạng dựa vào hệ thống địa đạo để phản kích, bảo toàn lực lượng.
 *   **09/01/1966:** Lính Nam Triều Tiên càn quét và gây ra vụ thảm sát tại thôn Kim Tài (Nhơn Phong, Bình Định), sát hại 37 thường dân.
 *   **25/01/1966:** Bộ tư lệnh Quân khu Sài Gòn - Gia Định tổ chức hội nghị tổng kết chiến đấu, đánh giá hiệu quả to lớn của hệ thống địa đạo trong "địa đạo chiến".
@@ -1648,6 +1656,7 @@
 *   **25/05/1969:** Tổng thống Nguyễn Văn Thiệu thành lập Mặt trận Quốc gia Dân chủ Xã hội để tập hợp lực lượng chính trị tại miền Nam.
 *   **06-08/06/1969:** Đại hội đại biểu quốc dân miền Nam họp, thành lập **Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam**. Kiến trúc sư **Huỳnh Tấn Phát** được bầu làm Chủ tịch, Luật sư **Nguyễn Hữu Thọ** làm Chủ tịch Hội đồng Cố vấn, Luật sư **Trương Như Tảng** làm Bộ trưởng Bộ Tư pháp, và bà **Nguyễn Thị Bình** làm Bộ trưởng Bộ Ngoại giao. Bà Nguyễn Thị Bình sau đó trở thành Trưởng phái đoàn đàm phán của Chính phủ Cách mạng Lâm thời tại Hội nghị Paris.
 *   **02/09/1969:** Chủ tịch Hồ Chí Minh từ trần. Toàn Đảng, toàn dân, toàn quân biến đau thương thành hành động cách mạng, quyết tâm thực hiện Di chúc của Người.
+*   **04/09/1969:** Sau khi Chủ tịch Hồ Chí Minh từ trần, Fidel Castro và Chủ tịch nước Cuba Osvaldo Dorticós Torrado đã gửi bức điện chia buồn đánh giá rất cao những phẩm chất cách mạng và tài năng lãnh đạo của Người.
 *   **21/10/1969:** Việt Nam Cộng hòa ban hành nghị định sáp nhập đơn vị hành chính Định Hải (quần đảo Hoàng Sa) vào xã Hòa Long, tiếp tục quản lý hành chính đối với quần đảo.
 *   **06/03/1970:** Bộ Chính trị ra Nghị quyết về cuộc vận động nâng cao chất lượng đảng viên và kết nạp đảng viên (Lớp Hồ Chí Minh).
 *   **12/03/1970:** Thủ tướng Campuchia Lon Nol ra lệnh đóng cửa cảng Sihanoukville và gửi tối hậu thư yêu cầu toàn bộ lực lượng quân đội Việt Nam phải rút khỏi Campuchia trong vòng 72 giờ.
@@ -1657,6 +1666,7 @@
 *   **30/04 - 30/06/1970:** Hơn 10 vạn quân Mỹ và quân đội Sài Gòn mở Chiến dịch Campuchia, thực hiện 23 cuộc hành quân ồ ạt đánh sâu vào đất Campuchia từ 30 đến 80 km nhằm truy tìm và tiêu diệt cơ quan đầu não Trung ương Cục miền Nam.
 *   **02/07/1970:** Bộ Chính trị ra Nghị quyết số 200-NQ/TW thành lập Hội đồng chi viện tiền tuyến ở Trung ương để huy động sức người, sức của đáp ứng yêu cầu của chiến trường.
 *   **1970 - 1974:** Chiến sĩ biệt động Trần Văn Lai bị địch bắt và tra tấn dã man hai lần ở Quảng Ngãi. Dưới căn cước giả, ông vẫn kiên trung giữ vững bí mật, bảo vệ an toàn mạng lưới cách mạng.
+*   **Những năm 1970:** Cuba bắt đầu dành nhiều học bổng đào tạo bác sĩ, dược sĩ, kỹ sư nông nghiệp cho Việt Nam. Hàng nghìn sinh viên Việt Nam đã được đào tạo tại Cuba, trong đó nhiều người trở thành chuyên gia đầu ngành.
 *   **08/02 - 24/03/1971:** Chiến dịch Đường 9 - Nam Lào (Lam Sơn 719). Quân lực Việt Nam Cộng hòa, yểm trợ bởi 10.000 quân Mỹ cùng 1.200 máy bay và pháo binh hạng nặng, huy động hơn 21.000 quân tinh nhuệ nhất (Dù, Thủy quân lục chiến, Thiết giáp) tiến công sang Hạ Lào nhằm cắt đứt đường mòn Hồ Chí Minh tại Xê-pôn. Quân Giải phóng miền Nam Việt Nam (với 60.000 quân) đã thực hiện chiến dịch phản công hiệp đồng binh chủng quy mô lớn chưa từng có. Nổi bật là trận đại phá Bản Đông (12/03 - 20/03), Quân Giải phóng đập tan Lữ đoàn 1 Dù và 2 thiết đoàn VNCH. Chiến dịch kết thúc với thất bại thảm hại của quân đội Sài Gòn (thương vong trên 1.500 người, hàng trăm bị bắt; mất 71 xe tăng, 163 xe thiết giáp, hơn 100 trực thăng bị phá hủy và hơn 600 chiếc bị bắn hỏng). Thắng lợi này đánh dấu sự trưởng thành vượt bậc của Quân Giải phóng, làm phá sản mục tiêu cắt đứt đường Trường Sơn và giáng đòn chí mạng vào chiến lược "Việt Nam hóa chiến tranh" của Mỹ.
 *   **1971:** Bà Nguyễn Thị Bình, Trưởng đoàn đàm phán của Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam tại Hội nghị Paris, sang thăm Iraq và được chính phủ cùng nhân dân Iraq đón tiếp hết sức trọng thị.
 *   **20/04/1971:** Bộ Ngoại giao Việt Nam Cộng hòa đưa ra lời phản kháng đối với Malaysia về các vấn đề lãnh thổ, đồng thời nhân dịp này khẳng định lại chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa.
@@ -1686,6 +1696,8 @@
 *   **05/1973:** Bộ Chính trị ra Nghị quyết về đấu tranh thi hành Hiệp định Paris, kết hợp đấu tranh ngoại giao với quân sự và chính trị để buộc đối phương thi hành hiệp định.
 *   **Tháng 07/1973:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ 21 (khóa III) khẳng định con đường cách mạng miền Nam vẫn là con đường bạo lực, chuẩn bị cho giai đoạn cuối của cuộc kháng chiến.
 *   **06/09/1973:** Bộ Nội vụ Việt Nam Cộng hòa ban hành nghị định sáp nhập các đảo trên quần đảo Trường Sa vào xã Phước Hải, quận Đất Đỏ, tỉnh Phước Tuy, sửa đổi quy định hành chính năm 1956.
+*   **12 - 15/09/1973:** Lãnh tụ Fidel Castro có chuyến thăm lịch sử lần đầu tiên tới Việt Nam. Ngày 12/09, ông phát biểu tại Hà Nội ca ngợi cuộc đấu tranh anh hùng của nhân dân Việt Nam. Ngày 15/09, ông đến thăm vùng giải phóng Quảng Trị, đứng trên cao điểm 241, trở thành nguyên thủ quốc gia nước ngoài đầu tiên và duy nhất thăm vùng giải phóng miền Nam trước năm 1975. Tại đây, ông đã chỉ thị bác sĩ riêng cấp cứu kịp thời cho cô nữ dân công 17 tuổi Nguyễn Thị Hương bị thương do bom mìn.
+*   **1973:** Trong chuyến thăm của Fidel Castro, Cuba đã tặng Việt Nam 5 công trình kinh tế - xã hội quy mô lớn trị giá khoảng 80 triệu USD, bao gồm: Khách sạn Thắng Lợi (Hà Nội), Bệnh viện Việt Nam - Cuba (Đồng Hới), đường Xuân Mai, Trại bò giống Ba Vì và Xí nghiệp gà Lương Mỹ.
 *   **06/10/1973:** Tính đến thời điểm này, Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam đã được 34 nước công nhận và thiết lập quan hệ ngoại giao.
 *   **13/10/1973:** Ban Chấp hành Trung ương Đảng ban hành Nghị quyết số 227-NQ/TW (Hội nghị lần thứ 21), xác định nhiệm vụ cơ bản của cách mạng miền Nam trong giai đoạn mới là tiếp tục thực hiện chiến lược cách mạng dân tộc dân chủ nhân dân, dùng bạo lực cách mạng để giành chính quyền.
 *   **03/12/1973:** 8 chiến sĩ đặc công thuộc Đội 5 (Đoàn 10 Rừng Sác) tập kích kho xăng Nhà Bè, thiêu hủy 35 triệu gallon xăng dầu và nhiều cơ sở vật chất của địch.
@@ -1696,6 +1708,7 @@
 *   **02/07/1974:** Phái đoàn Việt Nam Cộng hòa tại Hội nghị Liên Hợp Quốc về Luật Biển ở Caracas chính thức tuyên bố chủ quyền đối với các quần đảo.
 *   **07/1974:** Trung ương Đảng chỉ đạo Bộ Tổng Tham mưu xây dựng kế hoạch chiến lược giải phóng miền Nam trong 2 năm 1975 - 1976.
 *   **30/09 - 08/10/1974:** Bộ Chính trị họp (đợt 1), đề ra kế hoạch giải phóng hoàn toàn miền Nam trong hai năm 1975-1976.
+*   **Cuối 1974:** Cuba cử kỹ sư, công nhân kỹ thuật bậc cao sang phối hợp với bộ đội công binh Việt Nam thi công đường 42 (từ Bến Tắt đi Cam Lộ) và nâng cấp quốc lộ 14. Cuba cũng gửi tặng bộ đội Trường Sơn dàn xe và máy móc làm đường hiện đại trị giá 6 triệu USD.
 *   **Cuối 1974:** Liên Xô quyết định chuyển chế độ của các nhân sự tại Việt Nam từ "chuyên gia quân sự" sang "cố vấn quân sự", tập trung chủ yếu vào công tác hướng dẫn biên soạn giáo trình, điều lệnh huấn luyện chiến đấu cho lực lượng phòng không, không quân Việt Nam khi lực lượng này đã có thể tự chủ tác chiến hoàn toàn.
 *   **18/12/1974 - 08/01/1975:** Bộ Chính trị họp (đợt 2), sau chiến thắng Phước Long, hạ quyết tâm giải phóng miền Nam ngay trong năm 1975 nếu thời cơ đến.
 *   **13/12/1974 - 06/01/1975:** Chiến dịch Đường 14 - Phước Long. Quân đoàn 4 (Quân Giải phóng miền Nam Việt Nam) tiến công tiêu diệt toàn bộ hệ thống phòng ngự của Quân lực Việt Nam Cộng hòa tại tỉnh Phước Long. Quân Giải phóng chiếm được một lượng lớn đạn pháo (17.000 viên) và làm chủ toàn bộ tỉnh vào ngày 06/01/1975. Đây là đòn trinh sát chiến lược quan trọng, thử sức phản ứng của quân đội Sài Gòn và đặc biệt là thăm dò khả năng can thiệp trở lại của Hoa Kỳ. Sự thất thủ của Phước Long cùng với việc Mỹ chỉ phản ứng bằng lời nói mà không có hành động quân sự đã củng cố quyết tâm của Bộ Chính trị hạ lệnh Tổng tiến công giải phóng hoàn toàn miền Nam trong năm 1975.
@@ -1791,6 +1804,7 @@
 *   **01/10/1979:** Tiến hành cuộc Tổng điều tra dân số lần thứ hai trong cả nước.
 *   **30/03/1980:** Chủ tịch nước Tôn Đức Thắng qua đời. Phó Chủ tịch nước **Nguyễn Hữu Thọ** giữ Quyền Chủ tịch nước (đến tháng 7/1981).
 *   **Những năm 1980:** Bất chấp những khó khăn to lớn do cuộc chiến tranh Iran - Iraq, chính phủ Iraq vẫn đồng ý với đề nghị của Việt Nam cho hoãn nợ và nhận trả nợ bằng hàng hóa (gạo, chè, quần áo) cùng lao động. Hàng ngàn lao động Việt Nam đã sang Iraq làm việc, trích một nửa tiền lương để trả nợ cho nước bạn.
+*   **Những năm 1980 - 1990:** Cuba hỗ trợ Việt Nam trong lĩnh vực y tế dự phòng bằng cách viện trợ các loại vaccine phòng viêm màng não, bại liệt, uốn ván cho trẻ em Việt Nam.
 *   **1980:** Ủy ban Nhân dân thị xã Đồng Hới cho xây dựng bia đài tưởng niệm Mẹ Suốt nằm giữa trung tâm bến đò cũ bên sông Nhật Lệ nhằm tri ân sự hy sinh anh hùng của bà.
 *   **23/07/1980:** Anh hùng Phạm Tuân cùng nhà du hành vũ trụ Liên Xô Viktor Vassilyevich Gorbatko thực hiện chuyến bay trên tàu vũ trụ Soyuz 37 trong chương trình Interkosmos của Liên Xô. Ông là người Việt Nam đầu tiên và cũng là người châu Á đầu tiên bay vào vũ trụ, đưa Việt Nam trở thành quốc gia thứ 10 trên thế giới có công dân bay vào không gian.
 *   **18/12/1980:** Quốc hội khóa VI thông qua Hiến pháp năm 1980, Hiến pháp của thời kỳ quá độ lên chủ nghĩa xã hội.
@@ -1836,6 +1850,7 @@
 *   **08/1989:** Việt Nam hoàn thành việc xây dựng một cụm dịch vụ - kinh tế - khoa học kỹ thuật tại Trường Sa, nằm trên thềm lục địa của Việt Nam.
 *   **26/09/1989:** Những đơn vị Quân tình nguyện và chuyên gia quân sự Việt Nam cuối cùng chính thức hoàn thành việc rút toàn bộ quân khỏi Campuchia, kết thúc 10 năm thực hiện nghĩa vụ quốc tế giúp nước bạn hồi sinh sau thảm họa diệt chủng Khmer Đỏ.
 *   **1989:** Huyện Trường Sa được đặt dưới sự quản lý hành chính của tỉnh Khánh Hòa mới được tái lập (trước đó thuộc tỉnh Phú Khánh).
+*   **1990 - 1993:** Khi Cuba rơi vào "Thời kỳ đặc biệt" với khủng hoảng kinh tế trầm trọng sau khi Liên Xô và khối xã hội chủ nghĩa Đông Âu sụp đổ, Việt Nam đã mở các chiến dịch ủng hộ Cuba, quyên góp 50.000 tấn gạo, quần áo, đồ dùng học tập, thể hiện tình đoàn kết thủy chung.
 *   **15/03/1990:** Đại hội đại biểu nhân dân Liên Xô thông qua sửa đổi Điều 6 Hiến pháp, xóa bỏ vai trò lãnh đạo độc tôn của Đảng Cộng sản, chấp nhận đa nguyên chính trị.
 *   **22/04/1990:** Thiếu tướng Trần Công Mân, Tổng Biên tập Báo Quân đội nhân dân viết bài "Cuộc chiến đấu chưa kết thúc", cảnh báo về trào lưu phủ nhận Đảng và CNXH.
 *   **08/1990:** Thủ tướng Trung Quốc Lý Bằng đề nghị cùng khai thác khu vực quần đảo Trường Sa.
@@ -1866,12 +1881,15 @@
 *   **Đầu 1994:** Các hoạt động thử nghiệm kết nối internet đã bắt đầu, với sự hợp tác giữa các nhà khoa học Việt Nam và Úc.
 *   **20-25/01/1994:** Hội nghị đại biểu toàn quốc giữa nhiệm kỳ của Đảng (khóa VII) xác định bốn nguy cơ lớn đối với đất nước và đề ra nhiệm vụ thúc đẩy công nghiệp hóa, hiện đại hóa.
 *   **03/02/1994:** Tổng thống Mỹ Bill Clinton tuyên bố **bãi bỏ hoàn toàn lệnh cấm vận thương mại** đối với Việt Nam.
+*   **03/1994:** Việt Nam tặng Cuba 15.000 tấn gạo để giúp nước bạn vượt qua khó khăn kinh tế.
 *   **04/1994:** Xảy ra cuộc chạm trán trên biển khi Hải quân Việt Nam ra lệnh cho một tàu nghiên cứu của Trung Quốc (đang thăm dò địa chấn cho Crestone) phải rời khỏi vùng biển thuộc quyền tài phán của Việt Nam, và tàu Trung Quốc đã tuân thủ.
 *   **27/05/1994:** Đường dây tải điện cao thế 500kV Bắc - Nam chính thức đi vào vận hành, hợp nhất hệ thống điện ba miền, giải quyết tình trạng thiếu điện ở miền Nam và miền Trung.
 *   **23/06/1994:** Quốc hội Việt Nam ủy quyền cho chính phủ phê chuẩn Công ước của Liên Hợp Quốc về Luật Biển (UNCLOS).
 *   **17/12/1994:** Vịnh Hạ Long được UNESCO công nhận dựa trên tiêu chí về giá trị cảnh quan thiên nhiên độc đáo và quan trọng về mặt thẩm mỹ.
 *   **01/1995:** Hội nghị lần thứ 8 Ban Chấp hành Trung ương Đảng (khóa VII) bàn về "Tiếp tục xây dựng và hoàn thiện Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam".
 *   **09/02/1995:** Philippin chính thức phản đối việc Cộng hòa Nhân dân Trung Hoa chiếm đóng và xây dựng nơi trú ẩn trên đá Vành Khăn (Mischief Reef) ở quần đảo Trường Sa.
+*   **05/1995:** Việt Nam tiếp tục viện trợ thêm 20.000 tấn gạo cho Cuba.
+*   **1995:** Lãnh tụ Fidel Castro thăm Việt Nam lần thứ hai và xúc động khi nhận được những món quà từ Quảng Trị (bức ảnh thăm vùng giải phóng năm 1973 và hạt tiêu) như minh chứng cho sự hồi sinh của vùng đất này.
 *   **12/07/1995:** Tổng thống Mỹ Bill Clinton và Thủ tướng Việt Nam Võ Văn Kiệt đồng thời tuyên bố **bình thường hóa quan hệ ngoại giao** giữa hai nước.
 *   **28/07/1995:** Việt Nam chính thức được kết nạp làm **thành viên thứ 7** của Hiệp hội các quốc gia Đông Nam Á (ASEAN) tại Brunei.
 *   **1995:** Trong bối cảnh Iraq bị Mỹ và quốc tế cấm vận nghiêm ngặt, Đại sứ Việt Nam tại Iraq Nguyễn Quang Khai đã thuyết phục Công ty Lương thực miền Bắc (Vinafood 1) bán chịu một tàu gạo (25.000 - 30.000 tấn) cho Iraq. Sự kiện này mở đầu cho việc Việt Nam trở thành nhà cung cấp gạo chủ chốt cho Iraq thông qua chương trình "Đổi dầu lấy lương thực" của Liên Hợp Quốc.
@@ -1905,6 +1923,7 @@
 *   **10/12/2001:** Hiệp định BTA chính thức có hiệu lực.
 *   **2002:** Trần Văn Lai, chiến sĩ biệt động Sài Gòn huyền thoại với những đóng góp to lớn trong Tết Mậu Thân, qua đời do di chứng từ những đòn tra tấn trong nhà tù Mỹ - ngụy.
 *   **2002:** Phó Chủ tịch nước Nguyễn Thị Bình sang thăm Iraq để gặp Tổng thống Saddam Hussein nhằm giải quyết khoản nợ kéo dài hơn 20 năm chưa trả xong. Dù Iraq đang bị cấm vận và vô vàn khó khăn, Tổng thống Saddam Hussein đã quyết định xóa toàn bộ số nợ cho Việt Nam. Bản thỏa thuận xóa nợ được Phó Tổng thống Iraq Taha Yassin Ramadan ký kết.
+*   **2002 - 2005:** Việt Nam đã viện trợ cho Cuba tổng kinh phí hơn 50 triệu USD, bao gồm các dự án về sản xuất lúa gạo, ngô, đậu đỗ và nuôi trồng thủy sản.
 *   **14/10/2002:** Thủ tướng Chính phủ nước Cộng hòa Xã hội chủ nghĩa Việt Nam ra Quyết định số 132/2002/QĐ-TTg, chính thức "lấy múi giờ thứ 7 theo hệ thống múi giờ quốc tế làm giờ chính thức của Việt Nam".
 *   **26/02/2003:** Ghi nhận ca nhiễm SARS đầu tiên tại Việt Nam.
 *   **05/2003:** WHO công nhận Việt Nam là quốc gia đầu tiên khống chế thành công dịch SARS.
@@ -1984,6 +2003,7 @@
 *   **02 - 03/09/2016:** Ký tuyên bố chung nâng cấp quan hệ Đối tác chiến lược toàn diện với Ấn Độ.
 *   **29/09/2016:** Lần đầu tiên Chính phủ ban hành Quyết định phê duyệt *Đề án thống kê, theo dõi và đánh giá biến động dân số các dân tộc thiểu số.*
 *   **30/10/2016:** Hội nghị lần thứ tư Ban Chấp hành Trung ương Đảng khóa XII ban hành Nghị quyết về tăng cường xây dựng, chỉnh đốn Đảng; ngăn chặn, đẩy lùi sự suy thoái về tư tưởng chính trị, đạo đức, lối sống.
+*   **29/11/2016:** Tại Lễ tưởng niệm lãnh tụ Fidel Castro ở thủ đô La Habana, Chủ tịch Quốc hội Nguyễn Thị Kim Ngân đã tái khẳng định tình đoàn kết chiến đấu kiên định trước sau như một của Việt Nam với nhân dân Cuba anh em.
 *   **01/12/2016:** Thực hành Tín ngưỡng Thờ Mẫu Tam phủ của người Việt được UNESCO công nhận là di sản.
 
 ### **Thời kỳ Hội nhập CPTPP & EVFTA và Đối phó Đại dịch COVID-19** (2017 - 2021)
@@ -2000,6 +2020,7 @@
 *   **12/12/2019:** Thực hành Then của người Tày, Nùng, Thái được UNESCO công nhận là di sản.
 *   **01/01/2020:** Việt Nam đảm nhận vai trò Chủ tịch ASEAN 2020 và Ủy viên không thường trực HĐBA.
 *   **23/01/2020:** Ghi nhận ca bệnh COVID-19 đầu tiên tại Việt Nam.
+*   **Đầu năm 2020:** Trong bối cảnh đại dịch COVID-19 bùng phát, Cuba lập tức gửi tặng Việt Nam lô thuốc điều trị đủ cho 1.000 bệnh nhân và cử chuyên gia y tế sang hỗ trợ. Cuba cũng sẵn sàng chuyển giao công nghệ sản xuất vaccine COVID-19 cho Việt Nam.
 *   **01/08/2020:** Hiệp định EVFTA chính thức có hiệu lực.
 *   **06/09/2020:** Ẩm thực Việt Nam đã xác lập 5 kỷ lục thế giới.
 *   **10 - 11/2020:** Lũ lụt, bão chồng bão lịch sử tại miền Trung.
@@ -2012,6 +2033,7 @@
 *   **23/05/2021:** Bầu cử Quốc hội khóa XV.
 *   **24/06/2021:** Kostas Sarantidis (Nguyễn Văn Lập), người chiến sĩ mang hai quốc tịch Hy Lạp - Việt Nam, Anh hùng Lực lượng Vũ trang Nhân dân, từ trần tại Athens, Hy Lạp, hưởng thọ 94 tuổi.
 *   **15/12/2021:** Nghệ thuật Xòe Thái được UNESCO công nhận là di sản.
+*   **2021 - 2023:** Việt Nam củng cố vị thế là đối tác thương mại lớn thứ hai và đối tác đầu tư lớn nhất của Cuba từ khu vực châu Á. Kim ngạch thương mại song phương đạt 261,7 triệu USD năm 2021, 181,8 triệu USD năm 2022 và 57,33 triệu USD năm 2023.
 *   **12 - 23/05/2022:** Việt Nam tổ chức SEA Games 31 (bị hoãn từ 2021).
 *   **05/2022:** Cầu kính Bạch Long (Sơn La) được công nhận là cầu đáy kính dài nhất thế giới.
 *   **02/08/2022:** Thể theo di nguyện của ông và gia đình, tro cốt của Kostas Sarantidis (Nguyễn Văn Lập) được đưa về Việt Nam và tổ chức an táng trọng thể tại Nghĩa trang Quân khu 5, thành phố Đà Nẵng, để ông được nằm cạnh những đồng đội năm xưa.
@@ -2031,11 +2053,13 @@
 *   **22/05/2024:** Ông Tô Lâm được bầu giữ chức Chủ tịch nước.
 *   **03/2024:** Bộ Công an thông báo hai tổ chức Nhóm Hỗ trợ người Thượng (MSGI) và Người Thượng vì Công lý (MSFJ) là tổ chức khủng bố. Các tổ chức này bị cáo buộc đã tuyên truyền, lôi kéo và chỉ đạo vụ tấn công khủng bố tại Đắk Lắk năm 2023 nhằm đòi ly khai, thành lập "Nhà nước Đêga".
 *   **Hồi 13 giờ 38 phút 19/07/2024:** Tổng Bí thư Nguyễn Phú Trọng từ trần tại Bệnh viện Trung ương Quân đội 108. Ông hưởng thọ 80 tuổi.
+*   **20 - 22/07/2024:** Cuba tuyên bố Quốc tang ba ngày để tưởng niệm sự ra đi của Tổng Bí thư Nguyễn Phú Trọng. Trước đó, Quốc hội Cuba đã dành một phút mặc niệm vào ngày 19/07.
 *   **03/08/2024:** Tổng bí thư Tô Lâm được bầu tại Hội nghị Ban Chấp hành Trung ương Đảng khóa XIII.
 *   **07/09/2024:** Siêu bão Yagi đổ bộ vào Việt Nam.
     * **Thiệt hại nhân mạng:** Khoảng 345 người chết và mất tích, hàng nghìn người bị thương.
     * **Thiệt hại kinh tế:** Hơn 81.700 tỷ đồng, tương đương khoảng 0,62% GDP năm 2023.
     * **Ảnh hưởng:** Nhiều tỉnh miền Bắc bị tàn phá nặng nề do bão và lũ lụt sau bão.
+*   **09/2024:** Tổng Bí thư, Chủ tịch nước Tô Lâm cùng phu nhân đã có chuyến thăm cấp Nhà nước tới Cuba, nhấn mạnh mối quan hệ đặc biệt trong sáng, mẫu mực, thủy chung giữa hai dân tộc là biểu tượng của tình đoàn kết quốc tế.
 *   **23/09/2024:** Tại Đại học Columbia (Mỹ), Tổng Bí thư Tô Lâm phát biểu về "Kỷ nguyên vươn mình" của dân tộc sau gần 80 năm lập nước và 40 năm Đổi mới.
 *   **07/10/2024:** Nâng cấp quan hệ Đối tác Chiến lược Toàn diện với Pháp.
 *   **21/10/2024:** Quốc hội bầu ông Lương Cường giữ chức Chủ tịch nước thay cho ông Tô Lâm.

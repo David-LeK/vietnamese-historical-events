@@ -1514,17 +1514,20 @@
     *   Liberate the South and achieve national reunification.
     *   Le Duan was elected First Secretary of the Party Central Committee.
 *   **Nov. 11, 1960:** A coup attempt led by Colonel Nguyen Chanh Thi and Lieutenant Colonel Vuong Van Dong against Ngo Dinh Diem failed, exposing the internal contradictions and weakness of the Saigon regime.
+*   **Dec. 2, 1960:** Vietnam and Cuba officially established diplomatic relations following a visit by Cuban Deputy Foreign Minister Héctor Rodríguez Llompart. Cuba became the first country in the Americas to recognize and establish diplomatic relations with the Democratic Republic of Vietnam.
 *   **Dec. 20, 1960:** The **National Liberation Front for South Vietnam** was established.
 
 ### **Period of Resisting the "Special War" (1961 - 1965)**
 
 *   **1961:** South Korean President Park Chung-hee proposed sending troops to Vietnam to support the US, but US President John F. Kennedy initially declined. Concurrently, the Soviet Union provided the Vietnam Navy with 12 torpedo boats and 4 anti-submarine ships to enhance its defense capabilities.
 *   **1961 - 1965:** The North implemented the **First Five-Year Plan** to build the initial material and technical foundations of socialism.
+*   **1961 - 1975:** Throughout the resistance war against the US, Cuba consistently provided Vietnam with about 50,000 tons of sugar annually and sent doctors to care for wounded soldiers. Nearly one million Vietnamese students reportedly studied in Cuba during this period.
 *   **Jan. 1961:** US President John F. Kennedy took office and proposed the "Flexible Response" strategy, which included the "Special War" to be applied in South Vietnam.
 *   **Jan. 1961:** The 3rd Conference of the Party Central Committee decided to establish the Central Office for South Vietnam (COSVN) to replace the Nam Bo Party Committee and directly lead the southern revolution.
 *   **Jan. 24, 1961:** The Politburo issued a directive on the direction and tasks of the Southern revolution, shifting from mainly political struggle to combining political struggle with armed struggle.
 *   **Jan. 28, 1961:** The Republic of Vietnam army organized a raid into the Bao Trang forest (Nhuan Duc, Cu Chi), the base of the Saigon - Gia Dinh Zone Party Committee. The revolutionary forces had to withdraw, losing documents and equipment.
 *   **Feb. 15, 1961:** The revolutionary armed forces in the South were unified into the **South Vietnam Liberation Army**.
+*   **Mar. 1961:** The Government of Vietnam made its first official visit to Cuba, led by Minister of Culture Hoang Minh Giam. During the visit, Fidel Castro suggested sending Vietnamese youth to study Spanish in Cuba.
 *   **Sep. 20, 1961:** The Saigon - Gia Dinh Zone Party Committee held the first Military Conference, dividing the battlefield into three zones: the liberated base zone (focusing on armed struggle), the suburban disputed zone (combining political and armed struggle), and the urban zone (focusing on political struggle).
 *   **1961:** The US launched **Operation Ranch Hand**, spraying herbicides (including Agent Orange) over South Vietnam to destroy foliage and crops, causing severe long-term environmental and health consequences.
 *   **May 1961:** The US announced the **Staley-Taylor Plan** with the goal of "pacifying" South Vietnam within 18 months.
@@ -1532,6 +1535,7 @@
 *   **Jul. 13, 1961:** The President of the Republic of Vietnam signed a decree establishing the Dinh Hai administrative unit encompassing the Paracel Islands, officially asserting administrative control.
 *   **Oct. 23, 1961:** **Group 759** was established to open a strategic sea transport route to supply the South (the Ho Chi Minh Trail at Sea).
 *   **Oct. 30, 1961:** The Ministry of Foreign Affairs of the DRV sent a diplomatic note to 103 countries denouncing US interference and violation of the Geneva Accords.
+*   **Nov. 1961:** A group of 23 Vietnamese students, selected from key state agencies, arrived in La Habana to study Spanish, laying the foundation for future diplomatic cadres.
 *   **1962:** Australian military advisors officially arrived in Vietnam to support the Republic of Vietnam forces.
 *   **Feb. 8, 1962:** The US established the **Military Assistance Command, Vietnam (MACV)**, commanded by General Paul Harkins, to directly manage the war.
 *   **Feb. 18, 1962:** The DRV Government issued a statement condemning the establishment of MACV and increased US aggression in the South.
@@ -1543,9 +1547,11 @@
 *   **Jun. 11, 1963:** Mahayana Buddhist monk **Thich Quang Duc** burned himself to death at the intersection of Phan Dinh Phung and Le Van Duyet streets (Saigon) to protest the persecution of Buddhists. The event was captured in a world-famous photograph by Malcolm Browne, generating massive international pressure on the Diem regime.
 *   **Aug. 21, 1963:** Special Forces loyal to Ngo Dinh Nhu raided Xa Loi Pagoda and other Buddhist temples across South Vietnam, arresting monks and nuns, which further alienated the regime from the population and its US allies.
 *   **Aug. 25, 1963:** Student **Quach Thi Trang** (15 years old) was shot dead by police at the Ben Thanh Market roundabout during a protest against the repression of Buddhists.
+*   **Sep. 23, 1963:** Cuba became the first country to establish a Committee for Solidarity with South Vietnam, founded by heroine Melba Hernandez. Cuba was also the first nation to recognize the National Liberation Front of South Vietnam and invite it to establish a permanent representative office in La Habana.
 *   **1963 - 1968:** Tran Van Lai operated as a commando in Saigon under the guise of a wealthy contractor. He infiltrated key enemy institutions like the Independence Palace and USOM, gathering critical intelligence and secretly mapping the entire Saigon sewer system for the Liberation Army's use.
 *   **Nov. 1, 1963:** A group of generals led by Duong Van Minh, with US backing, staged a coup to overthrow and kill the brothers Ngo Dinh Diem and Ngo Dinh Nhu.
 *   **Nov. 22, 1963:** US President Kennedy was assassinated, and Vice President Lyndon B. Johnson succeeded him, advocating for an escalation of the war in Vietnam.
+*   **1964:** Hero Nup (Dinh Nup) visited Cuba. Fidel Castro sent a box of Cuban cigars as a gift to President Ho Chi Minh and conveyed a message of absolute support for Vietnam.
 *   **Jan. 30, 1964:** General Nguyen Khanh staged a coup ("Rectification") overthrowing the military junta of Duong Van Minh, signaling continued political instability in the Saigon regime.
 *   **Mar. 1964:** The US drew up the **Johnson-McNamara Plan**, increasing aid, sending more advisors, and stepping up sabotage activities against the North.
 *   **Mar. 1964:** President Ho Chi Minh convened a **Special Political Conference** in Hanoi, calling on all people to unite to resist the US and save the country.
@@ -1581,6 +1587,7 @@
 *   **May 28 - Jul. 20, 1965:** **Ba Gia Campaign (Quang Ngai):** The Liberation Army of South Vietnam (Military Region 5) launched a campaign against Republic of Vietnam forces. In the primary phase (May 28 - 31), through mobile ambush and encirclement tactics, the Liberation Army completely destroyed an ARVN mixed task force (comprising Infantry, Rangers, and Marines) for the first time, wiping out over 900 enemy troops. This victory further dismantled the "Special War" strategy.
 *   **Jun. 1965 - Sep. 1966:** At Vietnam's request, China sent engineering troops to northeastern Vietnam to help build defense works on 13 islands and 8 mainland locations. Between 1965 and 1968, China dispatched 346 experts and over 310,000 troops (anti-aircraft, engineers, railway builders) to assist Vietnam, fighting 1,659 battles and shooting down numerous US aircraft.
 *   **Jun. 9 - 13, 1965:** **Battle of Dong Xoai (Phuoc Long):** As part of the broader Dong Xoai Campaign (May 10 - Jul 22), the Liberation Army launched a massive assault on the Dong Xoai district headquarters, defended by ARVN Special Forces and US advisors. Over several days, the Liberation Army overran the base and heavily decimated multiple ARVN reinforcement battalions (including the elite 7th Airborne Battalion). The campaign concluded with nearly 4,500 ARVN troops neutralized, demonstrating the Liberation Army's advanced capacity for concentrated combat.
+*   **Jun. 26, 1965:** Fidel Castro affirmed absolute support for Vietnam's struggle for independence against the US invasion during a speech to a Cuban youth delegation in La Habana.
 *   **Jul. 6, 1965:** The Soviet Council of Ministers decided to establish a Military Expert Delegation in Vietnam to assist the Vietnam People's Army's air defense and air force. By July 24, a Soviet expert combat crew directly operated a SAM-2 missile system to shoot down an American F-4C aircraft, marking a new phase in air defense capabilities.
 *   **Aug. 18, 1965:** **Battle of Van Tuong (Quang Ngai):** The United States launched Operation Starlite, deploying around 9,000 Marines supported by armor, air, and naval gunfire to search and destroy the Liberation Army's 1st Regiment (Ba Gia Regiment). This was the first major ground engagement between US forces and the Liberation Army. Despite absolute superiority in firepower, the US Marines were intercepted and ambushed by approximately 2,000 Liberation Army troops utilizing fortified trenches and anti-tank weapons. Both sides claimed victory, but the battle proved that the Liberation Army could successfully engage and withstand large-scale US conventional forces, earning it the title "the Ap Bac against the US military."
 *   **Oct. 19 - Nov. 26, 1965:** **Plei Me Campaign and Battle of Ia Drang (Central Highlands):** The Liberation Army launched the Plei Me Campaign to lure and destroy US and ARVN forces. After a successful siege of the Plei Me camp (Oct 19 - 25), the US 1st Cavalry Division launched counter-operations, leading to the historic **Battle of Ia Drang (Nov 14 - 18)** at Landing Zones X-Ray and Albany. This was the first major conventional clash between the US Army and the regular forces of the Vietnam People's Army. Utilizing "grab the enemy by the belt" close-quarters combat tactics to neutralize US air and artillery superiority (including B-52 carpet bombings), the Liberation Army inflicted severe casualties on the US Cavalry battalions. The battle profoundly altered the US perception of the war, ending early optimism for a swift victory.
@@ -1590,6 +1597,7 @@
 *   **Dec. 25, 1965:** The Dai Viet Revolutionary Party was founded.
 *   **Dec. 1965:** The 12th Conference of the Party Central Committee (3rd tenure) made the strategic resolution to "defeat the US aggressors" and foresaw the strategy of "fighting while negotiating".
 *   **Jan. 16, 1966:** President Ho Chi Minh spoke at a high-level cadre conference studying the 12th Central Committee Resolution, affirming the determination to defeat the US aggressors regardless of troop numbers.
+*   **Jan. 2, 1966:** At a rally of over one million people in La Habana celebrating the 7th anniversary of the Cuban Revolution, Fidel Castro famously declared: "For Vietnam, Cuba is willing to give even its own blood." Following this, thousands of Cuban youth volunteered to go to Vietnam to fight.
 *   **Jan. 8 - Jan. 19, 1966:** The US and allied forces launched **Operation Crimp** with 12,000 troops, tanks, and B-52 support targeting the "Iron Triangle" (Cu Chi) to destroy the headquarters of the Saigon - Gia Dinh Military Zone. The revolutionary forces relied on the tunnel system to counterattack and preserve their forces.
 *   **Jan. 9, 1966:** South Korean troops conducted a raid and massacred 37 civilians in Kim Tai hamlet (Nhon Phong, Binh Dinh).
 *   **Jan. 25, 1966:** The Saigon - Gia Dinh Military Command held a conference to summarize the battle, evaluating the great effectiveness of the tunnel system in "tunnel warfare."
@@ -1648,6 +1656,7 @@
 *   **May 25, 1969:** President Nguyen Van Thieu established the National Social Democratic Front to consolidate political power in the South.
 *   **Jun. 6-8, 1969:** The National Congress of Southern Delegates convened, establishing the **Provisional Revolutionary Government of the Republic of South Vietnam** (PRG RSV). Architect **Huynh Tan Phat** was elected President, Lawyer **Nguyen Huu Tho** as Chairman of the Consultative Council, Lawyer **Truong Nhu Tang** as Minister of Justice, and **Nguyen Thi Binh** as Minister of Foreign Affairs. Madame Binh subsequently led the PRG RSV delegation at the Paris Peace Talks.
 *   **Sep. 2, 1969:** President Ho Chi Minh passed away. The entire Party, people, and army turned grief into revolutionary action, determined to implement his testament.
+*   **Sep. 4, 1969:** Following the death of President Ho Chi Minh, Fidel Castro and Cuban President Osvaldo Dorticós Torrado sent a condolence telegram highly praising his extraordinary revolutionary qualities and leadership.
 *   **Oct. 21, 1969:** The Republic of Vietnam issued a decree merging the Dinh Hai administrative unit (Paracel Islands) into Hoa Long commune, continuing its administrative management of the archipelago.
 *   **Mar. 6, 1970:** The Politburo issued a resolution on the campaign to improve the quality of Party members and recruit new members (Ho Chi Minh Class).
 *   **Mar. 12, 1970:** Cambodian Prime Minister Lon Nol closed the Sihanoukville port to North Vietnamese shipments and issued a 72-hour ultimatum for all Vietnamese forces to leave Cambodia.
@@ -1657,6 +1666,7 @@
 *   **Apr. 30 - Jun. 30, 1970:** Over 100,000 US and Saigon troops launched the Cambodian Campaign, conducting 23 large-scale operations up to 80 kilometers deep into Cambodian territory to seek and destroy the COSVN headquarters.
 *   **Jul. 2, 1970:** The Politburo issued Resolution No. 200-NQ/TW establishing the Central Council for Frontline Supply to mobilize manpower and resources for the battlefield.
 *   **1970 - 1974:** Saigon commando Tran Van Lai was arrested and brutally tortured twice by the enemy in Quang Ngai. Using a fake identity, he maintained absolute secrecy, protecting his mission and the revolutionary network.
+*   **1970s:** Cuba began granting numerous scholarships for Vietnamese students in medicine, agriculture, and science. Thousands of Vietnamese were trained in Cuba, with many becoming leading experts in Vietnam.
 *   **Feb. 8 - Mar. 24, 1971:** Route 9 - Southern Laos Campaign (Operation Lam Son 719). The Republic of Vietnam forces, heavily supported by 10,000 US troops, 1,200 aircraft, and heavy artillery, mobilized over 21,000 of their most elite troops (Airborne, Marines, Armor) to invade southern Laos to sever the Ho Chi Minh Trail at Tchepone. The Liberation Army of South Vietnam (with 60,000 troops) launched an unprecedented large-scale combined-arms counter-offensive. Highlighting the campaign was the decisive victory at Ban Dong (Mar. 12 - 20), where the Liberation Army shattered the ARVN 1st Airborne Brigade and two armored regiments. The campaign ended in a disastrous defeat for the Saigon army (suffering over 1,500 casualties and hundreds captured; losing 71 tanks, 163 armored vehicles, and having over 100 helicopters destroyed and 600 damaged). This victory marked a profound maturation of the Liberation Army, completely thwarted the goal of cutting the Truong Son trail, and dealt a fatal blow to the US "Vietnamization" strategy.
 *   **1971:** Nguyen Thi Binh, Head of the negotiating delegation of the Provisional Revolutionary Government of the Republic of South Vietnam at the Paris Conference, visited Iraq and was welcomed with great honor by the Iraqi government and people.
 *   **Apr. 20, 1971:** The Republic of Vietnam's Ministry of Foreign Affairs issued a formal protest against Malaysia regarding territorial issues and took the opportunity to strongly reaffirm Vietnamese sovereignty over both the Paracel and Spratly archipelagos.
@@ -1686,6 +1696,8 @@
 *   **May 1973:** The Politburo issued a Resolution on the struggle to implement the Paris Agreement, combining political, military, and diplomatic means to force the adversary to comply.
 *   **Jul. 1973:** The 21st Conference of the Party Central Committee (3rd tenure) affirmed that the path of the southern revolution was still the path of violence, preparing for the final stage of the resistance war.
 *   **Sep. 6, 1973:** The Republic of Vietnam's Ministry of Interior issued a decree annexing the Spratly Islands to Phuoc Hai commune, Dat Do district, Phuoc Tuy province, modifying the previous 1956 administrative arrangement.
+*   **Sep. 12 - 15, 1973:** Fidel Castro made his first historic visit to Vietnam. He delivered a speech in Hanoi on September 12 emphasizing the heroic struggle of the Vietnamese people. On September 15, he visited the liberated zone of Quang Tri, standing at Hill 241, becoming the first and only foreign head of state to visit South Vietnam's liberated zone before 1975. During this trip, he directed his personal medical team to save a 17-year-old female militia member, Nguyen Thi Huong, who was injured by unexploded ordnance at the Ben Hai River.
+*   **1973:** During Fidel Castro's visit, Cuba donated five major socio-economic projects to Vietnam worth approximately $80 million, including the Thang Loi Hotel (Hanoi), Vietnam - Cuba Hospital (Dong Hoi), Xuan Mai road, Ba Vi cattle breeding farm, and Luong My poultry enterprise.
 *   **Oct. 6, 1973:** By this date, the Provisional Revolutionary Government of the Republic of South Vietnam had been recognized by and established diplomatic relations with 34 countries.
 *   **Oct. 13, 1973:** The Party Central Committee issued Resolution No. 227-NQ/TW (21st Plenum), defining the basic task of the Southern revolution in the new stage as continuing the national people's democratic revolution and using revolutionary violence to seize power.
 *   **Dec. 3, 1973:** Eight commandos from Team 5 (Group 10 Rung Sac) attacked the Shell fuel depot at Nha Be, destroying 35 million gallons of gasoline and oil, and many facilities of the enemy.
@@ -1696,6 +1708,7 @@
 *   **Jul. 2, 1974:** The Republic of Vietnam delegation at the UN Conference on the Law of the Sea in Caracas formally declared sovereignty over the archipelagos.
 *   **Jul. 1974:** The Party Central Committee directed the General Staff to formulate a strategic plan to liberate the South in the two years 1975-1976.
 *   **Sep. 30 - Oct. 8, 1974:** The Politburo met (1st session) and set out a plan to completely liberate the South in two years, 1975-1976.
+*   **Late 1974:** Cuba sent high-level engineers and technical workers to coordinate with Vietnamese engineering troops to build Route 42 (from Ben Tat to Cam Lo) and upgrade Route 14. Cuba also donated a modern road-building machinery fleet worth $6 million to the Truong Son troops.
 *   **Late 1974:** The Soviet Union changed the status of its personnel in Vietnam from "military experts" to "military advisors," focusing primarily on compiling training manuals and combat regulations for the Vietnamese air defense and air force, reflecting Vietnam's growing self-reliance.
 *   **Dec. 18, 1974 - Jan. 8, 1975:** The Politburo met (2nd session), and after the victory of Phuoc Long, resolved to liberate the South within 1975 if the opportunity arose.
 *   **Dec. 13, 1974 - Jan. 6, 1975:** Route 14 - Phuoc Long Campaign. The 4th Corps (Liberation Army of South Vietnam) attacked and systematically dismantled the entire defense system of the Republic of Vietnam forces in Phuoc Long province. The Liberation Army captured a massive cache of artillery shells (17,000 rounds) and took full control of the province by January 6, 1975. This served as a crucial strategic reconnaissance strike, testing the reactions of the Saigon army and, particularly, probing the likelihood of renewed US military intervention. The fall of Phuoc Long, coupled with the US responding only with rhetoric rather than military action, solidified the Politburo's resolve to order the General Offensive to completely liberate the South in 1975.
@@ -1791,6 +1804,7 @@
 *   **Oct. 1, 1979:** The second national Population Census was conducted.
 *   **Mar. 30, 1980:** President Ton Duc Thang passed away. Vice President **Nguyen Huu Tho** served as Acting President (until July 1981).
 *   **1980s:** Despite facing significant difficulties due to the Iran-Iraq War, the Iraqi government agreed to Vietnam's proposal to defer its debt and accept repayment in the form of goods (rice, tea, clothing) and labor. Thousands of Vietnamese workers were sent to Iraq, contributing half of their salaries to debt repayment while helping their families.
+*   **1980s - 1990s:** Cuba supported Vietnam in preventive medicine by providing vaccines for meningitis, polio, and tetanus for Vietnamese children.
 *   **1980:** The People's Committee of Dong Hoi town built a memorial monument for Mother Suot in the center of the old ferry terminal on the Nhat Le River to honor her heroic sacrifice.
 *   **Jul. 23, 1980:** Hero Pham Tuan, along with Soviet cosmonaut Viktor Vassilyevich Gorbatko, made a flight aboard the Soyuz 37 spacecraft as part of the Soviet Interkosmos program. He was the first Vietnamese person and also the first Asian person to fly into space. This made Vietnam the 10th country in the world to have a citizen fly into space.
 *   **Dec. 18, 1980:** The 6th National Assembly passed the 1980 Constitution, the constitution of the period of transition to socialism.
@@ -1836,6 +1850,7 @@
 *   **Aug. 1989:** Vietnam completed the construction of an economic-scientific-technical service complex in the Spratlys, located on the Vietnamese continental shelf.
 *   **Sep. 26, 1989:** The last units of Vietnamese volunteer troops and military experts officially completed their withdrawal from Cambodia, concluding a 10-year international mission to help rebuild the country after the Khmer Rouge regime.
 *   **1989:** Truong Sa District (Spratly Islands) was placed under the administrative jurisdiction of the newly re-established Khanh Hoa province (formerly part of Phu Khanh province).
+*   **1990 - 1993:** As Cuba fell into the "Special Period" of severe economic crisis following the collapse of the Soviet Union and Eastern European socialist bloc, Vietnam launched campaigns to support Cuba, donating 50,000 tons of rice, clothing, and school supplies, demonstrating steadfast solidarity.
 *   **Mar. 15, 1990:** The Soviet Union amended Article 6 of its Constitution, abolishing the Communist Party's monopoly on power, establishing a multi-party system and the position of President of the USSR.
 *   **Apr. 22, 1990:** Major General Tran Cong Man, Editor-in-Chief of the People's Army Newspaper, published the article "The Battle is Not Over," warning about the trend of denying the Communist Party and Socialism in the Soviet Union and Eastern Europe.
 *   **Aug. 1990:** Chinese Premier Li Peng proposed the joint exploitation of the Spratly Islands area.
@@ -1866,12 +1881,15 @@
 *   **Early 1994:** Experimental internet connectivity activities began, in collaboration between Vietnamese and Australian scientists.
 *   **Jan. 20-25, 1994:** The Party's mid-term National Conference (7th tenure) identified four major risks facing the country and set out the task of promoting industrialization and modernization.
 *   **Feb. 3, 1994:** US President Bill Clinton announced the **complete lifting of the trade embargo** against Vietnam.
+*   **Mar. 1994:** Vietnam donated 15,000 tons of rice to Cuba to help alleviate its economic hardships.
 *   **Apr. 1994:** A naval encounter occurred when the Vietnamese Navy ordered a Chinese research vessel (conducting seismic surveys for Crestone) to leave Vietnam's jurisdictional waters, and the Chinese vessel complied.
 *   **May 27, 1994:** The 500kV North-South high-voltage power transmission line officially became operational, unifying the power grids of the three regions and resolving the power shortage in the South and Central regions.
 *   **Jun. 23, 1994:** The Vietnamese National Assembly authorized the government to ratify the United Nations Convention on the Law of the Sea (UNCLOS).
 *   **Dec. 17, 1994:** Ha Long Bay was recognized by UNESCO based on the criteria of its unique and aesthetically important natural landscape value.
 *   **Jan. 1995:** The 8th Conference of the Party Central Committee (7th tenure) discussed "Continuing to build and perfect the State of the Socialist Republic of Vietnam."
 *   **Feb. 9, 1995:** The Philippines formally protested the People's Republic of China's occupation and construction of shelters on Mischief Reef (Vanh Khan) in the Spratly Islands.
+*   **May 1995:** Vietnam donated an additional 20,000 tons of rice to Cuba.
+*   **1995:** Fidel Castro visited Vietnam for the second time, receiving gifts from Quang Tri (a photo of his 1973 visit and local pepper) that reminded him of the region's strong recovery.
 *   **Jul. 12, 1995:** US President Bill Clinton and Vietnamese Prime Minister Vo Van Kiet simultaneously announced the **normalization of diplomatic relations** between the two countries.
 *   **Jul. 28, 1995:** Vietnam was officially admitted as the **7th member** of the Association of Southeast Asian Nations (ASEAN) in Brunei.
 *   **1995:** During the severe US and international embargo against Iraq, Vietnamese Ambassador to Iraq Nguyen Quang Khai successfully persuaded Vinafood 1 to deliver a ship carrying 25,000 - 30,000 tons of rice to Iraq on credit. This marked the beginning of Vietnam becoming a major rice supplier to Iraq under the UN's "Oil for Food" program.
@@ -1905,6 +1923,7 @@
 *   **Dec. 10, 2001:** The BTA officially came into effect.
 *   **2002:** Tran Van Lai, the legendary Saigon commando who made massive contributions during the Tet Offensive, passed away.
 *   **2002:** Vice President of Vietnam Nguyen Thi Binh visited Iraq to meet with President Saddam Hussein regarding the debt that had remained unpaid for over 20 years. In an extraordinary gesture of friendship, despite Iraq being under severe international embargo, President Saddam Hussein ordered the cancellation of Vietnam's entire debt. An agreement to this effect was signed by Iraqi Vice President Taha Yassin Ramadan.
+*   **2002 - 2005:** Vietnam provided aid to Cuba totaling over $50 million, including projects on rice, corn, and bean production, as well as aquaculture.
 *   **Oct. 14, 2002:** The Prime Minister of the Socialist Republic of Vietnam issued Decision No. 132/2002/QD-TTg, officially taking the 7th time zone according to the international time zone system as the official time of Vietnam.
 *   **Feb. 26, 2003:** The first SARS infection case was recorded in Vietnam.
 *   **May 2003:** The WHO recognized Vietnam as the first country to successfully control the SARS epidemic.
@@ -1984,6 +2003,7 @@
 *   **Sep. 2 - 3, 2016:** Signed a joint statement upgrading relations to a Comprehensive Strategic Partnership with India.
 *   **Sep. 29, 2016:** For the first time, the Government issued a Decision approving the *Project on statistics, monitoring, and evaluation of population changes of ethnic minorities.*
 *   **Oct. 30, 2016:** The 4th Conference of the 12th Party Central Committee issued a Resolution on strengthening Party building and rectification; preventing and pushing back the deterioration of political ideology, morality, and lifestyle.
+*   **Nov. 29, 2016:** At the memorial service for Fidel Castro in La Habana, National Assembly Chairwoman Nguyen Thi Kim Ngan reaffirmed Vietnam's steadfast solidarity and loyal friendship with Cuba.
 *   **Dec. 1, 2016:** The practice of worshipping the Mother Goddesses of the Three Realms by the Vietnamese people was recognized by UNESCO as a heritage.
 
 ### **Period of CPTPP & EVFTA Integration and Responding to the COVID-19 Pandemic** (2017 - 2021)
@@ -2000,6 +2020,7 @@
 *   **Dec. 12, 2019:** The Then ritual practices of the Tay, Nung, and Thai ethnic groups were recognized by UNESCO as a heritage.
 *   **Jan. 1, 2020:** Vietnam assumed the roles of ASEAN Chair 2020 and non-permanent member of the UN Security Council.
 *   **Jan. 23, 2020:** The first COVID-19 case was recorded in Vietnam.
+*   **Early 2020:** During the initial outbreak of the COVID-19 pandemic, Cuba immediately donated medicine to treat 1,000 patients in Vietnam and sent medical experts to assist. Cuba also offered to transfer COVID-19 vaccine technology to Vietnam.
 *   **Aug. 1, 2020:** The EVFTA Agreement officially took effect.
 *   **Sep. 6, 2020:** Vietnamese cuisine has set 5 world records.
 *   **Oct. - Nov. 2020:** Historic floods and successive storms in the Central region.
@@ -2012,6 +2033,7 @@
 *   **May 23, 2021:** Election of the 15th National Assembly.
 *   **Jun. 24, 2021:** Kostas Sarantidis (Nguyễn Văn Lập), the Greek-Vietnamese soldier and Hero of the People's Armed Forces, passed away in Athens, Greece, at the age of 94.
 *   **Dec. 15, 2021:** The Xoe Thai dance art form was recognized as a heritage by UNESCO.
+*   **2021 - 2023:** Vietnam strengthened its position as Cuba's second-largest trading partner and largest Asian investor, with bilateral trade reaching $261.7 million in 2021, $181.8 million in 2022, and $57.33 million in 2023.
 *   **May 12 - 23, 2022:** Vietnam hosted the 31st SEA Games (postponed from 2021).
 *   **May 2022:** The Bach Long glass bridge (Son La province) was recognized as the world's longest glass-bottomed bridge.
 *   **Aug. 2, 2022:** Fulfilling his final wish, the ashes of Kostas Sarantidis (Nguyễn Văn Lập) were brought back to Vietnam and solemnly buried at the Military Region 5 Cemetery in Da Nang, resting alongside his former comrades.
@@ -2031,11 +2053,13 @@
 *   **May 22, 2024:** Mr. To Lam was elected State President.
 *   **Mar. 2024:** The Ministry of Public Security officially designated the Montagnard Support Group, Inc. (MSGI) and Montagnard Stand for Justice (MSFJ) as terrorist organizations based in the US, accusing them of recruiting, training, and directing the 2023 Dak Lak terrorist attack to establish a separate state.
 *   **At 13:38 on Jul. 19, 2024:** General Secretary Nguyen Phu Trong passed away at Central Military Hospital 108. He was 80 years old.
+*   **Jul. 20 - 22, 2024:** Cuba declared three days of National Mourning to commemorate the passing of General Secretary Nguyen Phu Trong. The Cuban National Assembly had previously held a minute of silence on July 19.
 *   **Aug. 3, 2024:** General Secretary To Lam was elected at the Conference of the 13th Party Central Committee.
 *   **Sep. 7, 2024:** Super Typhoon Yagi made landfall in Vietnam.
     * **Human losses:** About 345 people dead and missing, thousands injured.
     * **Economic damage:** Over 81.7 trillion VND, equivalent to about 0.62% of 2023 GDP.
     * **Impact:** Many northern provinces were severely devastated by the storm and subsequent floods.
+*   **Sep. 2024:** General Secretary and President To Lam and his spouse paid a state visit to Cuba, emphasizing the rare, pure, and loyal relationship between Vietnam and Cuba as a symbol of international solidarity.
 *   **Sep. 23, 2024:** In a speech at Columbia University (USA), General Secretary To Lam mentioned the "Era of Rising" of the nation after nearly 80 years of founding the country and 40 years of Renovation.
 *   **Oct. 7, 2024:** Upgraded relations to a Comprehensive Strategic Partnership with France.
 *   **Oct. 21, 2024:** The National Assembly elected Mr. Luong Cuong as State President, replacing Mr. To Lam.
