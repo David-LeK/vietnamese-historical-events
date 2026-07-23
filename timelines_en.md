@@ -37,9 +37,11 @@
 *   **179 BC:** Trieu Da conquered the Au Lac kingdom. This event is associated with the tragic legend of the love story of Trong Thuy and My Chau.
 *   **111 BC:** The Han dynasty conquered the Nanyue kingdom, beginning the period of direct domination over the former Au Lac territory.
 *   **1st - 7th century:** The Kingdom of Funan (Phu Nam) flourished in the Mekong Delta. Associated with the Oc Eo Culture, it was a major commercial center connecting maritime trade routes between the East and West.
+*   **34:** Han Emperor Guangwu appointed Su Ding as the governor of Jiaozhi. His cruel administration and heavy taxation burdened the local population, laying the groundwork for the Trung Sisters' uprising.
 *   **40:** The Trung Sisters launched an uprising, regaining independence. Trung Trac ascended to the throne as queen, establishing the capital at Me Linh.
 *   **41:** Ma Yuan led an army of 200,000 to invade.
 *   **43:** The uprising failed following an attack by the Han general Ma Yuan. The Trung Sisters committed suicide in the Hat River. Ma Yuan erected bronze pillars to mark the border.
+*   **78:** Truong Trong, a native of Nhat Nam commandery, traveled to Luoyang as an envoy. He boldly defended Vietnamese customs and dignity in front of the Han Emperor and court, later becoming the governor of Jincheng.
 *   **100:** More than 2,000 people in Tuong Lam district (Nhat Nam commandery) rose up against Han rule.
 *   **137:** The people of Tuong Lam district rose up, attacking the Han administrative seat and killing the chief official.
 *   **138:** The Han dynasty, following Li Gu's strategy, replaced governors and used bribery to cause internal division among the rebels in Nhat Nam, eventually suppressing the uprising.
@@ -47,6 +49,7 @@
 *   **157:** Chu Dat led an uprising in Cuu Chan, killing the commandery governor.
 *   **160:** The uprising of Chu Dat was completely suppressed by Han forces.
 *   **166:** Envoys sent by Roman Emperor Marcus Aurelius Antoninus arrived in Nhat Nam to present gifts of ivory and rhinoceros horn to the Han court. This marks the first recorded direct contact between Rome and the Chinese empire via Vietnam.
+*   **168 - 189:** During the reign of Emperor Ling of Han, Ly Tien and Ly Cam petitioned the court to abolish the restriction preventing Giao Chi scholars from holding office in the Chinese heartland. Consequently, Giao Chi scholars were appointed to administrative positions.
 *   **178:** Luong Long led an uprising in Giao Chi, attracting participation from people in Cuu Chan and Nhat Nam.
 *   **181:** The Han dynasty dispatched troops to suppress the rebellion, killing Luong Long.
 *   **192:** Khu Lien officially established the Lam Ap kingdom.
@@ -77,8 +80,10 @@
 *   **479:** The Southern Qi dynasty replaced the Liu Song dynasty in China. Ly Thuc Hien (successor to Ly Truong Nhan) maintained autonomy in Giao Chau and refused to submit to the new dynasty.
 *   **485:** The Southern Qi Emperor sent General Liu Kai to invade. Ly Thuc Hien surrendered to avoid bloodshed, ending the period of local autonomy.
 *   **Oct. 490:** Phong Phap Thang was appointed Governor. He was later overthrown by Phuc Dang Chi due to his excessive obsession with reading books and neglecting administrative duties.
+*   **October 17, 503:** Ly Bi (later Emperor Ly Nam De), the founder of the Van Xuan kingdom and a descendant of a family that had settled in Vietnam for seven generations, was born in Thai Binh district.
 *   **541:** Ly Bi raised troops against the Liang dynasty. Governor Xiao Zi fled to the north.
 *   **542:** The Liang dynasty sent troops to suppress the uprising but were defeated.
+*   **Early 543:** The Liang dynasty mobilized an army for another invasion. Ly Bi took the initiative, leading his forces to Hepu to intercept and decisively defeat the Liang army, inflicting severe casualties.
 *   **544:** Ly Bi proclaimed himself the Southern Viet Emperor (Ly Nam De), founded the Van Xuan kingdom, and established the era name Thien Duc.
 *   **May 545:** The Liang dynasty's Emperor Wu sent Duong Phieu, Tran Ba Tien (Chen Baxian), and Tieu Bot to invade Van Xuan. Ly Nam De led 30,000 troops to resist but was defeated at Chu Dien and the To Lich river mouth, where generals Tinh Thieu, Pham Tu, and Trieu Tuc died in battle. Ly Nam De retreated to Gia Ninh citadel (Phu Tho).
 *   **Jan. 546:** Liang general Tran Ba Tien captured Gia Ninh citadel. Ly Nam De fled to the territory of the Lao people in Tan Xuong.
@@ -94,9 +99,11 @@
 *   **Mar. 580:** Zen Master Vinitaruci arrived in Giao Chau (Vietnam), residing at Phap Van Pagoda and establishing the Vinitaruci Zen sect.
 *   **602:** The Sui dynasty sent troops commanded by Liu Fang to invade; Ly Phat Tu (Later Ly Nam De) surrendered, and the Van Xuan kingdom ended.
 *   **605:** Sui general Liu Fang attacked Champa (Lam Ap), sacking the capital.
+*   **621:** Tang Emperor Gaozu dispatched Qiu He to act as the Grand Governor of Giao Chau, strengthening Tang administrative control over the region.
 *   **622:** The Tang dynasty established the Giao Chau Grand Area Command (Dai Tong Quan Phu) to administer 10 prefectures.
 *   **679:** The Tang dynasty changed Giao Chau to the Protectorate General of Annam.
 *   **687:** The uprising of Ly Tu Tien and Dinh Kien.
+*   **711:** The Tang dynasty established the Phong Chau and Hoan Chau Area Commands to further decentralize and tighten their control over the mountainous and southern territories.
 *   **713 - 722:** The uprising of Mai Thuc Loan (Mai Hac De).
 *   **766 - 791:** The uprising of Phung Hung (Bo Cai Dai Vuong).
 *   **767:** Srivijaya and Kunlun forces raided Giao Chau and were defeated by Military Commissioner Zhang Boyi.
@@ -179,11 +186,14 @@
 *   **Apr. 1034:** Zen Masters Nghiem Bao Tinh and Pham Minh Tam self-immolated at the court. King Ly Thai Tong changed the era name to Thong Thuy.
 *   **Apr. 1036:** King Ly Thai Tong established a hanh dinh (temporary palace) in Hoan Chau and renamed the chau to **Nghe An**.
 *   **1038:** King Ly Thai Tong personally plowed the Tich Dien field at Bo Hai Khau, declaring the importance of agriculture for "the people to follow."
+*   **1038:** Nung Ton Phuc rebelled in Quang Nguyen (Lang Son), proclaiming himself the Emperor of the Truong Sinh kingdom. He was subsequently defeated and captured by King Ly Thai Tong in 1039.
 *   **1039:** Prince Ly Nhat Quang (Ly Hoang) was appointed to administer Nghe An, where he successfully managed tax collection and stabilized the southern frontier.
 *   **Feb. 1040:** King Ly Thai Tong taught palace maids to weave brocade and distributed all Song dynasty brocade from the treasury to officials to demonstrate the use of domestic goods and rejection of Song goods.
+*   **1041:** Nung Tri Cao (son of Nung Ton Phuc) seized the Thang Do region and established the state of Dai Lich. After being captured by King Ly Thai Tong, he was pardoned and appointed as the governor of Quang Nguyen.
 *   **1042:** The court promulgated the Hinh Thu (Penal Code), the first written law code of Vietnam. It included regulations prohibiting the sale of adult males (*hoang nam*) as slaves.
 *   **Nov. 1042:** King Ly Thai Tong ordered the erection of road signs and distance markers to assist travelers, marking an early development in public infrastructure.
 *   **Jan. 1044:** Ly Thai Tong personally led a campaign against Champa, beheading the Champa king Sạ Đẩu (Jaya Simhavarman II) in battle.
+*   **1048:** Nung Tri Cao rebelled again, proclaiming himself Nhan Hue Emperor and establishing the state of Dai Nam, continuing his defiance against both the Ly and Song dynasties.
 *   **1049:** King Ly Thai Tong ordered the construction of Dien Huu Pagoda (One Pillar Pagoda).
 *   **1053:** Under the leadership of Khai Quoc Vuong, the Ly army launched a campaign to assist Nung Tri Cao in establishing the Kingdom of Dai Nam in the Guangdong-Guangxi region.
 *   **1054:** Ly Thai Tong passed away, Ly Nhat Ton ascended the throne (Ly Thanh Tong), and changed the national name from Dai Co Viet to Dai Viet.
@@ -237,6 +247,7 @@
 *   **13th century:** Italian explorer Marco Polo visited and described Con Dao Island in his memoirs. In the same century, Islam was also introduced, primarily through the Cham community.
 *   **1203:** King Ly Cao Tong ordered the construction of many lavish palaces, causing further misery to the people, and banditry arose.
 *   **Aug. 1207:** King Ly Cao Tong issued a royal edict apologizing to the people for his negligence and mistakes in governance that led to hardships, promising reforms.
+*   **1208:** Pham Du rebelled in Nghe An. King Ly Cao Tong sent Pham Binh Di to suppress the rebellion, but later falsely accused and imprisoned Binh Di, triggering the Quach Boc rebellion in the capital.
 *   **Jan. 1209:** The Quach Boc rebellion broke out in the capital Thang Long, forcing King Ly Cao Tong to flee. Crown Prince Sam fled to Hai Ap (Thai Binh), was sheltered by the Tran clan, and married Tran Thi Dung.
 *   **1210:** Ly Cao Tong passed away, Ly Hao Sam ascended the throne (Ly Hue Tong). The power of the Tran clan grew stronger.
 *   **1211:** Ly Hue Tong officially invested Tran Thi Dung as the Queen Consort (Nguyen Phi), marking the Tran clan's deep entrenchment in the royal court's power structure.
@@ -302,6 +313,8 @@
 *   **1307:** The Tran dynasty renamed the two prefectures of O and Ly to Thuan and Hoa, incorporating them into Dai Viet's territory.
 *   **1312:** King Tran Anh Tong led a campaign against Champa, capturing the Champa King Che Chi.
 *   **Jul. 4, 1314:** Tran Anh Tong abdicated the throne in favor of Crown Prince Tran Manh (later Tran Minh Tong).
+*   **1315:** King Tran Minh Tong issued a law prohibiting relatives within the royal family from suing each other, aiming to maintain harmony and order within the dynasty.
+*   **1323:** King Tran Minh Tong opened the Thai hoc sinh examination to select talented individuals to serve the country, bringing capable scholars like Doan Nhu Hai, Pham Ngu Lao, and Chu Van An into the administration.
 *   **1329:** Scholar Ly Te Xuyen completed the *Viet Dien U Linh Tap* (Collection of the Potent Spirits of the Viet Realm), preserving key historical legends and spiritual heritage of Vietnam.
 *   **Mar. 18, 1329:** Tran Minh Tong abdicated the throne in favor of Crown Prince Tran Vuong (later Tran Hien Tong).
 *   **1330:** Prince Tran Nhat Duat, a prominent general and diplomat known for his knowledge of foreign languages and cultures, passed away.
@@ -448,6 +461,7 @@
 *   **1429:** Emperor Le Thai To organized the first civil service examination of the Le dynasty, known as the "Minh kinh bac hoc" examination.
 *   **Jan. 7, 1429:** King Le Thai To established his eldest son Tu Te as King of the Nation (Quoc Vuong) to temporarily manage state affairs, and his second son Nguyen Long as Crown Prince.
 *   **Feb. 1429:** Le Thai To ordered the demobilization of 250,000 troops, keeping only 100,000, implementing the "combining military service with farming" policy.
+*   **1430:** King Le Thai To ordered the deliberation and promulgation of the first set of laws and military regulations of the Le dynasty to govern the army and the people, establishing legal order after the liberation war.
 *   **Late 1431 (Middle of Winter, Lunar Year of the Pig):** King Le Thai To wrote the preface for the book *Lam Son thuc luc* (Records of Lam Son), recording the history of the uprising.
 *   **Oct. 5, 1433 (Aug. 22, Leap Month, Lunar Year of the Buffalo):** King Le Thai To passed away.
 *   **Dec. 1433 (Oct. 23, Lunar Year of the Buffalo):** Le Thai To was buried at Vinh Lang, Lam Son. Nguyen Trai composed the inscription for the Vinh Lang Stele.
@@ -485,6 +499,7 @@
 *   **1505:** Le Uy Muc ascended the throne. The court began to fall into disarray; the king was cruel, killed relatives, and power fell into the hands of the empress's family.
 *   **Dec. 19, 1509:** Gian Tu Cong Le Oanh (grandson of Le Thanh Tong) raised an army from Thanh Hoa, marched on Thang Long, killed Le Uy Muc, and proclaimed himself king (Le Tuong Duc).
 *   **1511:** Peasant uprisings began to break out, notably the uprising of Tran Tuan in Son Tay.
+*   **April 1511:** King Le Tuong Duc promulgated the "Tri binh bao pham" consisting of 50 articles, aiming to strengthen discipline, education, and legal penalties to overcome the chaos left by the previous reign.
 *   **1512:** Le Tuong Duc ordered the construction of the Nine-Storied Pavilion and many lavish palaces, causing public resentment.
 *   **1516:** The major uprising of Tran Cao broke out in Dong Trieu (Quang Ninh). The rebels shaved their heads, earning them the name "three-tuft army," and at one point captured Thang Long.
 *   **May 7, 1516:** Trinh Duy San staged a coup and killed King Le Tuong Duc.
@@ -519,6 +534,7 @@
 *   **1570 - 1583:** A period of strong Mac counter-offensives. Mac Kinh Dien led multiple campaigns into Thanh Hoa and Nghe An, causing many difficulties for the Le-Trinh forces.
 *   **1572:** Dao Duy Tu, a renowned scholar and military strategist who would later serve the Nguyen Lords, was born in Thanh Hoa.
 *   **1578:** Japanese pirates (Wako) raided the coast of Dang Trong, plundering merchant ships.
+*   **February 21, 1578:** Mac Mau Hop was struck by lightning in the palace and paralyzed on one side, which took a long time to heal. This event further demoralized the Mac court officials during a period of decline.
 *   **Nov. 1580:** The Mac dynasty's key pillar, Mac Kinh Dien, passed away.
 *   **1583 - 1592:** A period of Le-Trinh counter-offensives. Trinh Tung launched successive major attacks to the North.
 *   **1585:** Prince Nguyen Phuc Nguyen commanded a naval force to defeat a fleet of Japanese pirates (Wako) led by Shirahama Kenchi at Cua Viet, destroying two ships.
@@ -544,6 +560,7 @@
 *   **1617:** Jesuit priest Francisco de Pina arrived in Dang Trong (Cochinchina). He is considered the first European to become fluent in Vietnamese and the pioneer in creating Chữ Quốc ngữ (the romanized Vietnamese script).
 *   **1618:** Jesuit priest Cristoforo Borri arrived in Dang Trong. He quickly learned the language and later published a book containing early romanized Vietnamese words.
 *   **1619:** Lord Nguyen Phuc Nguyen married his daughter to the Japanese merchant Araki Sotaro, strengthening ties with Japanese merchants.
+*   **1619:** Lord Trinh Tung led an army to attack Lord Nguyen Phuc Nguyen in Thuan Quang. From this point on, the Nguyen lords officially ceased paying tribute to the Trinh court, formalizing the secession.
 *   **1620:** The Trinh-Nguyen conflict intensified; the Nguyen lord stopped paying tribute taxes.
 *   **1620:** Princess Nguyen Phuc Ngoc Van was married to the Cambodian King Chey Chetta II. This strategic marriage paved the way for Vietnamese influence and migration into the Mekong Delta.
 *   **1620:** Jesuit missionaries in Hoi An compiled a catechism in the local script (Chữ Nôm). This is believed to be one of the earliest texts potentially using a Latinized alphabet for the Vietnamese language, likely spearheaded by Francisco de Pina.
@@ -569,6 +586,7 @@
 *   **Oct. 1634:** Dao Duy Tu passed away at the age of 63. He was honored as the foremost meritorious official in the founding of the Nguyen Lords' dominion.
 *   **1635:** Lord Nguyen Phuc Nguyen passed away. His second son, Nguyen Phuc Lan, succeeded him.
 *   **1636:** Alexandre de Rhodes drafted "Tunchinensis Historiae libri duo", which included numerous romanized Vietnamese words, reflecting his evolving linguistic proficiency.
+*   **1640:** The Nguyen army, under the command of Nguyen Huu Dat, successfully captured the Northern Bo Chinh prefecture. Lord Trinh Trang demanded its return, and the Nguyen lord agreed to ease border tensions temporarily.
 *   **1642:** The military strength of Dang Trong increased significantly, possessing about 200 cannons, which rose to 1,200 by 1650 thanks to trade with the West.
 *   **1643:** In the third campaign, the Trinh army besieged the Trung Hoa wall but could not capture it and had to withdraw.
 *   **Jul. 7, 1643:** Battle of Eo Port (Thuan An). The Nguyen navy, personally commanded by Lord Nguyen Phuc Lan and Crown Prince Nguyen Phuc Tan, engaged a Dutch East India Company (VOC) fleet led by Pieter Baeck. Fifty small Nguyen galleys surrounded and destroyed three large Dutch warships (the *Wijdenes* exploded). This marked the first time the Vietnamese navy defeated a European naval force.
@@ -599,6 +617,7 @@
 *   **1679:** Two groups of loyalist former Ming officials, Yang Yandi and Chen Shangchuan, brought over 3,000 people to seek asylum and were allowed by the Nguyen lord to reclaim land in the My Tho and Bien Hoa regions.
 *   **1680:** Mac Cuu (also a former Ming official) arrived to develop the Ha Tien region, including Phu Quoc.
 *   **1682:** Lord Trinh Tac passed away. His grandson, Trinh Can, succeeded him as Lord (Dinh Nam Vuong).
+*   **1684:** Lord Trinh Can issued an order for officials to conduct inspection tours to understand the people's conditions, emphasizing that caring for the people was the top priority of governance and seeking to address local grievances.
 *   **1687:** Lord Nguyen Phuc Tan passed away. His son, Nguyen Phuc Tran (Lord Nghia), succeeded him.
 *   **1691:** Lord Nguyen Phuc Tran passed away. His son, Nguyen Phuc Chu (Lord Minh), succeeded him.
 *   **1693:** The Nguyen lord defeated the Champa king Ba Tranh, turning the remaining part of Champa into Thuan Thanh Prefecture (now Binh Thuan).
@@ -620,7 +639,9 @@
 *   **1718:** In Dang Ngoai, Lord Trinh Cuong established the Six Bureaus (Luc phien) in the Lord's Palace, usurping all power, leaving the Le court's Six Ministries with only nominal authority.
 *   **1721:** The Le court (under Lord Trinh Cuong) revised and standardized the uniforms for civil and military officials, distinguishing ranks clearly.
 *   **1721:** Hai Thuong Lan Ong Le Huu Trac, a celebrated traditional physician and writer, was born in Hung Yen.
+*   **1724:** Following the advice of Nguyen Cong Hang, Lord Trinh Cuong allowed citizens to post comments on public boards regarding local officials' performance, establishing an early mechanism for public feedback while punishing false accusations.
 *   **1725:** Lord Nguyen Phuc Chu passed away. His son, Nguyen Phuc Chu (Lord Ninh), succeeded him.
+*   **1726:** Addressing corruption in the examination system, Lord Trinh Cuong ordered a re-examination and failed 28 unqualified candidates from powerful families, severely punishing them to maintain the integrity of the civil service.
 *   **1729:** Lord Trinh Cuong passed away. His son, Trinh Giang, succeeded him as Lord (Uy Nam Vuong).
 *   **1736:** Mac Thien Tich established the **Chieu Anh Cac** (Pavilion of Unadorned Beauty), a famous literary society in Ha Tien, promoting culture and literature in the newly developed southern lands.
 *   **1738 - 1770:** The uprising of Le Duy Mat (a Le royal relative) broke out, lasting over 30 years in the Thanh Hoa and Nghe An regions.

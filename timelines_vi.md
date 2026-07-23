@@ -37,9 +37,11 @@
 *   **179 TCN:** Triệu Đà thôn tính nước Âu Lạc. Sự kiện này gắn liền với truyền thuyết bi kịch về mối tình Trọng Thủy - Mỵ Châu.
 *   **111 TCN:** Nhà Hán chinh phục nước Nam Việt, bắt đầu thời kỳ đô hộ trực tiếp trên đất Âu Lạc cũ.
 *   **Thế kỷ I - VII:** Vương quốc Phù Nam hình thành và phát triển rực rỡ ở vùng đồng bằng sông Cửu Long. Gắn liền với đó là Văn hóa Óc Eo, một trung tâm thương mại quan trọng kết nối các tuyến hàng hải Đông - Tây.
+*   **Năm 34:** Vua Quang Vũ nhà Hán sai Tô Định sang làm Thái thú quận Giao Chỉ. Sự cai trị tàn bạo và thuế khóa hà khắc của Tô Định là nguyên nhân trực tiếp dẫn đến cuộc khởi nghĩa của Hai Bà Trưng.
 *   **40:** Hai Bà Trưng dấy binh khởi nghĩa, giành lại độc lập. Trưng Trắc lên ngôi vua, đóng đô ở Mê Linh.
 *   **41:** Mã Viện mang 20 vạn quân sang xâm lược.
 *   **43:** Cuộc khởi nghĩa thất bại trước cuộc tấn công của tướng nhà Hán là Mã Viện. Hai Bà Trưng tuẫn tiết trên sông Hát. Mã Viện dựng cột đồng để ghi địa giới.
+*   **Năm 78:** Trương Trọng, người quận Nhật Nam, sang Lạc Dương (Trung Quốc) chầu vua Hán. Ông đã dũng cảm đối đáp cứng cỏi, bảo vệ phong tục và tôn nghiêm của người Việt trước triều đình phương Bắc, sau được phong làm Thái thú quận Kim Thành.
 *   **100:** Hơn 2.000 dân huyện Tượng Lâm (quận Nhật Nam) nổi dậy chống lại ách cai trị của nhà Hán.
 *   **137:** Người huyện Tượng Lâm nổi dậy đánh phá trị sở, giết trưởng lại rồi đánh rộng ra toàn quận Nhật Nam.
 *   **138:** Nhà Hán theo kế của Lý Cố, thay thái thú và dùng kế lấy vàng lụa mua chuộc, ly gián các thủ lĩnh quận Nhật Nam, khiến quân nổi dậy bị dẹp.
@@ -47,6 +49,7 @@
 *   **157:** Chu Đạt nổi dậy ở Cửu Chân, giết chết Thái thú.
 *   **160:** Cuộc khởi nghĩa của Chu Đạt bị quân Hán dẹp hẳn.
 *   **166:** Sứ giả của Hoàng đế La Mã Marcus Aurelius Antoninus đã đến quận Nhật Nam để dâng ngà voi và sừng tê cho nhà Hán. Đây là lần đầu tiên La Mã thông thương với Trung Quốc qua đường Giao Châu (Việt Nam).
+*   **Năm 168 - 189:** Dưới thời Hán Linh Đế, Lý Tiến và Lý Cầm đã dâng sớ yêu cầu bãi bỏ lệnh cấm, xin cho người Giao Châu thi đỗ được làm quan tại Trung Nguyên. Triều đình nhà Hán sau đó buộc phải chấp thuận bổ nhiệm người Giao Châu vào các chức vụ hành chính.
 *   **178:** Lương Long nổi dậy ở Giao Chỉ, lôi kéo dân các quận Cửu Chân và Nhật Nam hưởng ứng.
 *   **181:** Nhà Hán điều quân sang giết chết Lương Long, dẹp tan cuộc khởi nghĩa.
 *   **192:** Khu Liên chính thức thành lập nước Lâm Ấp.
@@ -77,8 +80,10 @@
 *   **479:** Nhà Nam Tề thay thế nhà Lưu Tống ở Trung Quốc. Lý Thúc Hiến (người kế tục Lý Trường Nhân) tiếp tục giữ quyền tự trị ở Giao Châu, không chịu phục tùng nhà Tề.
 *   **485:** Nhà Nam Tề cử Lưu Khải đem quân sang đánh. Lý Thúc Hiến liệu thế không chống nổi nên xin hàng, chấm dứt giai đoạn tự trị của người bản địa.
 *   **10/490 (Canh Ngọ):** Phòng Pháp Thặng được cử làm Thứ sử Giao Châu, nhưng vì mê đọc sách nên bị thuộc hạ là Phục Đăng Chi lật đổ.
+*   **17/10/503:** Lý Bí (sau là Lý Nam Đế), người sáng lập nước Vạn Xuân và là hậu duệ của một dòng họ đã định cư ở Việt Nam qua 7 đời, sinh ra tại huyện Thái Bình.
 *   **541:** Lý Bí khởi binh chống nhà Lương. Thứ sử Tiêu Tư bỏ chạy về bắc.
 *   **542:** Nhà Lương cử binh sang dẹp nhưng đều bị nghĩa quân Lý Bí đánh bại.
+*   **Đầu năm 543:** Nhà Lương huy động binh mã sang xâm lược lần nữa. Lý Bí chủ động xuất quân, đón đánh và tiêu diệt phần lớn quân Lương tại Hợp Phố.
 *   **544:** Lý Bí xưng là Nam Việt Đế (Lý Nam Đế), lập ra nước Vạn Xuân, đặt niên hiệu Thiên Đức.
 *   **05/545:** Lương Vũ Đế cử Dương Phiêu, Trần Bá Tiên và Tiêu Bột sang xâm lược Vạn Xuân. Lý Nam Đế đem 3 vạn quân ra chống cự nhưng bị thua ở Chu Diên và cửa sông Tô Lịch, các tướng Tinh Thiều, Phạm Tu, Triệu Túc tử trận. Lý Nam Đế phải lui về giữ thành Gia Ninh (Phú Thọ).
 *   **01/546:** Tướng Lương Trần Bá Tiên đánh lấy được thành Gia Ninh. Lý Nam Đế chạy vào đất người Lạo ở Tân Xương.
@@ -94,9 +99,11 @@
 *   **03/580:** Thiền sư Tỳ Ni Đa Lưu Chi (Vinitaruci) đến Giao Châu (Việt Nam), cư trú tại chùa Pháp Vân và dịch kinh *Tổng trì*, sáng lập thiền phái Tỳ Ni Đa Lưu Chi.
 *   **602:** Nhà Tùy sai Lưu Phương đem quân xâm lược, Lý Phật Tử (Hậu Lý Nam Đế) đầu hàng, nước Vạn Xuân kết thúc.
 *   **605:** Tướng Tùy là Lưu Phương đem quân đánh Lâm Ấp (Champa), cướp phá kinh thành.
+*   **Năm 621:** Đường Cao Tổ sai Khâu Hòa làm Đại Tổng quản sang cai trị Giao Châu, củng cố sự kiểm soát của nhà Đường.
 *   **622:** Nhà Đường đặt Giao Châu đại tổng quản phủ, quản lĩnh 10 châu.
 *   **679:** Nhà Đường đổi Giao Châu thành An Nam Đô hộ phủ.
 *   **687:** Cuộc khởi nghĩa của Lý Tự Tiên và Đinh Kiến.
+*   **Năm 711:** Nhà Đường lập Phong Châu đô đốc phủ và Hoan Châu đô đốc phủ để phân chia và siết chặt ách đô hộ đối với các khu vực miền núi và phía Nam.
 *   **713 - 722:** Cuộc khởi nghĩa của Mai Thúc Loan (Mai Hắc Đế).
 *   **766 - 791:** Cuộc khởi nghĩa của Phùng Hưng (Bố Cái Đại Vương).
 *   **767:** Quân Srivijaya (Chà Và) và Côn Lôn xâm phạm Giao Châu, bị Kinh lược sứ Trương Bá Nghi đánh tan.
@@ -179,11 +186,14 @@
 *   **04/1034:** Hai thiền sư Nghiêm Bảo Tính và Phạm Minh Tâm tự thiêu tại triều. Vua Lý Thái Tông đổi niên hiệu thành Thông Thụy.
 *   **04/1036:** Vua Lý Thái Tông đến Hoan Châu, đặt hành dinh và đổi tên châu này thành châu **Nghệ An**.
 *   **1038:** Vua Lý Thái Tông đích thân cày ruộng tịch điền ở Bố Hải Khẩu, tuyên bố coi trọng nông nghiệp để "thiên hạ noi theo".
+*   **Năm 1038:** Nùng Tồn Phúc làm phản ở châu Quảng Nguyên (Lạng Sơn), tự xưng là Chiêu Thánh hoàng đế, lập ra nước Trường Sinh. Cuộc nổi dậy bị vua Lý Thái Tông thân chinh dẹp yên vào năm 1039.
 *   **1039:** Hoàng tử Lý Nhật Quang (Lý Hoảng) được cử vào quản lý châu Nghệ An, thực hiện việc thu thuế và ổn định vùng biên viễn phía Nam.
 *   **02/1040:** Vua Lý Thái Tông dạy các cung nữ dệt gấm vóc, xuống chiếu phát hết gấm vóc của nước Tống trong kho ban cho các quan để tỏ ý dùng hàng nội, không dùng hàng Tống nữa.
+*   **Năm 1041:** Nùng Trí Cao (con Nùng Tồn Phúc) chiếm giữ châu Thảng Do, lập ra nước Đại Lịch. Sau khi bị bắt, Trí Cao được vua Lý Thái Tông tha tội và phong làm Quảng Nguyên mục.
 *   **1042:** Triều đình ban hành bộ *Hình thư*, bộ luật thành văn đầu tiên của Việt Nam. Bộ luật có điều khoản nghiêm cấm bán hoàng nam làm nô bộc.
 *   **11/1042:** Vua Lý Thái Tông xuống chiếu cho đắp đất làm ụ, cắm biển gỗ chỉ dẫn đường đi để thuận tiện cho người dân đi lại bốn phương.
 *   **01/1044:** Lý Thái Tông thân chinh đánh Champa, chém được vua Champa là Sạ Đẩu tại trận.
+*   **Năm 1048:** Nùng Trí Cao tiếp tục nổi dậy, tự xưng là Nhân Huệ hoàng đế, đặt quốc hiệu là Đại Nam, chống lại cả triều đình nhà Lý và nhà Tống.
 *   **1049:** Vua Lý Thái Tông cho xây dựng chùa Diên Hựu (chùa Một Cột).
 *   **1053:** Khai Quốc Vương lãnh đạo quân đội Đại Việt tiến hành cuộc Bắc phạt, hỗ trợ Nùng Trí Cao lập nước Đại Nam tại vùng Lưỡng Quảng.
 *   **1054:** Lý Thái Tông mất, Lý Nhật Tôn lên ngôi (Lý Thánh Tông), đổi quốc hiệu từ Đại Cồ Việt thành Đại Việt.
@@ -237,6 +247,7 @@
 *   **Thế kỷ XIII:** Nhà thám hiểm người Ý Marco Polo ghé thăm và mô tả về Côn Đảo trong hồi ký của mình. Vào cùng thế kỷ, Hồi giáo cũng được du nhập vào chủ yếu thông qua cộng đồng người Chăm Pa.
 *   **1203:** Vua Lý Cao Tông cho xây dựng nhiều cung điện xa hoa, khiến dân chúng càng thêm khốn khổ, giặc cướp nổi lên.
 *   **08/1207:** Vua Lý Cao Tông hạ chiếu nhận lỗi trước muôn dân vì chính sự bê trễ dẫn đến đói kém và loạn lạc, hứa sẽ sửa đổi.
+*   **Năm 1208:** Phạm Du làm phản ở Nghệ An. Vua Lý Cao Tông sai Phạm Bỉnh Di đi dẹp, nhưng sau đó lại nghe lời gièm pha mà bắt giam Bỉnh Di, dẫn đến việc bộ tướng Quách Bốc đem quân đánh phá kinh thành.
 *   **01/1209:** Loạn Quách Bốc nổ ra ở kinh thành Thăng Long, vua Lý Cao Tông phải bỏ chạy. Hoàng tử Sảm chạy về Hải Ấp (Thái Bình), được họ Trần che chở và lấy Trần Thị Dung làm vợ.
 *   **1210:** Lý Cao Tông mất, Lý Hạo Sảm lên ngôi (Lý Huệ Tông). Thế lực họ Trần ngày càng lớn mạnh.
 *   **1211:** Vua Lý Huệ Tông lập con gái thứ hai của họ Trần (Trần Thị Dung) làm Nguyên phi. Thế lực ngoại thích họ Trần bắt đầu chi phối triều đình.
@@ -302,6 +313,8 @@
 *   **1307:** Nhà Trần đổi tên hai châu Ô, Lý thành châu Thuận và châu Hóa, sáp nhập vào lãnh thổ Đại Việt.
 *   **1312:** Vua Trần Anh Tông thân chinh đi đánh Chiêm Thành, bắt được vua Chiêm là Chế Chí.
 *   **07/04/1314:** Trần Anh Tông nhường ngôi cho Thái tử Trần Mạnh (sau là Trần Minh Tông).
+*   **Năm 1315:** Vua Trần Minh Tông định lệ cấm người trong hoàng tộc không được kiện cáo lẫn nhau nhằm duy trì sự hòa thuận trong vương triều.
+*   **Năm 1323:** Vua Trần Minh Tông mở khoa thi Thái học sinh để chọn người tài ra giúp nước, đưa những hiền thần như Đoàn Nhữ Hài, Phạm Ngũ Lão, Chu Văn An vào triều đình.
 *   **1329:** Lý Tế Xuyên hoàn thành biên soạn bộ sách *Việt Điện U Linh Tập*, một tác phẩm văn học - lịch sử quan trọng ghi lại sự tích các vị thần và nhân vật lịch sử của Việt Nam.
 *   **18/03/1329:** Trần Minh Tông nhường ngôi cho Thái tử Trần Vượng (sau là Trần Hiến Tông).
 *   **1330:** Chiêu Văn vương Trần Nhật Duật, danh tướng có công lớn trong kháng chiến chống Nguyên và là người am hiểu nhiều ngoại ngữ, phong tục các nước, qua đời.
@@ -448,6 +461,7 @@
 *   **1429:** Vua Lê Thái Tổ tổ chức khoa thi đầu tiên của triều Lê, gọi là khoa thi "Minh kinh bác học".
 *   **07/01/1429:** Vua Lê Thái Tổ lập con trưởng là Tư Tề làm Quốc vương tạm coi việc nước, và con thứ Nguyên Long làm Hoàng Thái tử.
 *   **02/1429:** Lê Thái Tổ ra lệnh cho giải ngũ 25 vạn quân, chỉ giữ lại 10 vạn, thực hiện chính sách "ngụ binh ư nông".
+*   **Năm 1430:** Vua Lê Thái Tổ ra lệnh bàn định và ban hành các đạo luật, sắc lệnh đầu tiên của triều Lê để trị quân và dân, thiết lập trật tự pháp lý sau chiến tranh.
 *   **Cuối 1431 (Tháng Trọng Đông năm Tân Hợi):** Vua Lê Thái Tổ viết bài tựa cho cuốn *Lam Sơn thực lục*, ghi chép lại lịch sử cuộc khởi nghĩa.
 *   **05/10/1433 (22/08 nhuận năm Quý Sửu):** Vua Lê Thái Tổ băng hà.
 *   **11/1433 (23/10 năm Quý Sửu):** Táng vua Lê Thái Tổ tại Vĩnh Lăng, Lam Sơn. Nguyễn Trãi phụng sắc soạn văn bia Vĩnh Lăng.
@@ -485,6 +499,7 @@
 *   **1505:** Lê Uy Mục lên ngôi. Triều chính bắt đầu rối loạn, vua tàn bạo, giết hại tôn thất, quyền lực rơi vào tay ngoại thích.
 *   **19/12/1509:** Giản Tu công Lê Oanh (cháu Lê Thánh Tông) dấy binh từ Thanh Hóa tiến ra Thăng Long, giết Lê Uy Mục và tự lập làm vua (Lê Tương Dực).
 *   **1511:** Các cuộc khởi nghĩa nông dân bắt đầu nổ ra, tiêu biểu là cuộc khởi nghĩa của Trần Tuân ở Sơn Tây.
+*   **04/1511:** Vua Lê Tương Dực ban hành "Trị bình bảo phạm" gồm 50 điều, nhằm củng cố kỷ cương, giáo hóa và hình phạt để khắc phục tình trạng rối loạn do triều đại trước để lại.
 *   **1512:** Lê Tương Dực cho xây dựng Cửu Trùng Đài và nhiều cung điện xa hoa, khiến dân chúng oán thán.
 *   **1516:** Nổ ra cuộc khởi nghĩa lớn của Trần Cảo ở Đông Triều (Quảng Ninh). Nghĩa quân cạo trọc đầu, được gọi là "quân ba chỏm", có lúc chiếm được cả Thăng Long.
 *   **07/05/1516:** Trịnh Duy Sản làm binh biến, giết vua Lê Tương Dực.
@@ -519,6 +534,7 @@
 *   **1570 - 1583:** Giai đoạn quân Mạc phản công mạnh mẽ. Mạc Kính Điển nhiều lần đem quân vào đánh Thanh Hóa, Nghệ An, gây nhiều khó khăn cho quân Lê-Trịnh.
 *   **1572:** Đào Duy Từ, nhà quân sự và chính trị kiệt xuất của chúa Nguyễn sau này, sinh ra tại Thanh Hóa.
 *   **1578:** Hải tặc Nhật Bản (Wako) tấn công vùng biển Đàng Trong, cướp thuyền của thương nhân Trung Hoa.
+*   **21/02/1578:** Mạc Mậu Hợp bị sét đánh trúng trong cung, liệt nửa người và phải chữa trị rất lâu mới khỏi. Sự kiện này khiến nhiều quan lại nhà Mạc thêm hoang mang trong thời kỳ suy vi.
 *   **11/1580:** Tướng trụ cột của nhà Mạc là Mạc Kính Điển mất.
 *   **1583 - 1592:** Giai đoạn quân Lê-Trịnh phản công. Trịnh Tùng liên tiếp mở các cuộc tấn công lớn ra Bắc.
 *   **1585:** Thế tử Nguyễn Phúc Nguyên chỉ huy thủy quân đánh tan đoàn thuyền của hải tặc Nhật Bản do Shirahama Kenchi chỉ huy tại Cửa Việt.
@@ -544,6 +560,7 @@
 *   **1617:** Linh mục Dòng Tên Francisco de Pina đến Đàng Trong. Ông được coi là người châu Âu đầu tiên thông thạo tiếng Việt và là người đi tiên phong trong việc sáng tạo ra chữ Quốc ngữ.
 *   **1618:** Linh mục Cristoforo Borri đến Đàng Trong. Ông nhanh chóng học tiếng Việt và sau này xuất bản một cuốn sách chứa đựng những từ ngữ tiếng Việt được phiên âm bằng chữ Latinh sơ khai.
 *   **1619:** Chúa Nguyễn Phúc Nguyên gả con gái cho thương nhân Nhật Bản Araki Sotaro, thắt chặt quan hệ thương mại với Nhật Bản.
+*   **Năm 1619:** Chúa Trịnh Tùng đem quân vào đánh chúa Nguyễn Phúc Nguyên ở Thuận Quảng. Từ đó, chúa Nguyễn chính thức chấm dứt việc nộp thuế cống cho họ Trịnh, đánh dấu sự ly khai rõ rệt.
 *   **1620:** Mâu thuẫn Trịnh - Nguyễn trở nên gay gắt, chúa Nguyễn ngừng nộp thuế cống.
 *   **1620:** Công chúa Nguyễn Phúc Ngọc Vạn được gả cho vua Chân Lạp là Chey Chetta II. Cuộc hôn nhân chính trị này mở đầu cho sự thâm nhập hòa bình của người Việt vào vùng Thủy Chân Lạp.
 *   **1620:** Các giáo sĩ Dòng Tên tại Hội An biên soạn một cuốn giáo lý bằng chữ Nôm. Đây được xem là một trong những văn bản đầu tiên có khả năng sử dụng chữ cái Latinh để phiên âm tiếng Việt, dưới sự chủ trì của Francisco de Pina.
@@ -569,6 +586,7 @@
 *   **10/1634:** Đào Duy Từ qua đời, thọ 63 tuổi. Ông được coi là đệ nhất khai quốc công thần của họ Nguyễn và được thờ ở Thái miếu.
 *   **1635:** Chúa Nguyễn Phúc Nguyên mất, con thứ hai là Nguyễn Phúc Lan lên nối ngôi (Thượng Vương).
 *   **1636:** Alexandre de Rhodes soạn thảo bản thảo cuốn "Tunchinensis Historiae libri duo", bao gồm nhiều từ ngữ tiếng Việt được phiên âm, phản ánh sự thành thạo ngày càng tăng của ông về chữ Quốc ngữ.
+*   **Năm 1640:** Quân Nguyễn do Nguyễn Hữu Dật thống suất chiếm được châu Bắc Bố Chính. Chúa Trịnh Tráng viết thư đòi lại, chúa Nguyễn chấp thuận để tạm thời làm dịu tình hình biên giới.
 *   **1642:** Tiềm lực quân sự Đàng Trong gia tăng mạnh, sở hữu khoảng 200 khẩu đại bác và tăng lên 1.200 khẩu vào năm 1650 nhờ giao thương với phương Tây.
 *   **1643:** Cuộc chiến lần thứ ba, quân Trịnh vây đánh lũy Trung Hòa nhưng không hạ được, phải rút quân.
 *   **07/07/1643:** Trận cảng Eo (Thuận An). Thủy quân Đàng Trong do đích thân chúa Nguyễn Phúc Lan và Thế tử Nguyễn Phúc Tần chỉ huy với 50 thuyền chiến nhỏ đã bao vây tấn công 3 chiến hạm lớn của Công ty Đông Ấn Hà Lan (VOC) do Pieter Baeck chỉ huy. Tàu lớn nhất Wijdenes bị nổ tung. Đây là lần đầu tiên thủy quân Việt Nam đánh thắng một lực lượng thủy quân châu Âu.
@@ -599,6 +617,7 @@
 *   **1679:** Hai nhóm cựu thần nhà Minh trung thành là Dương Ngạn Địch và Trần Thượng Xuyên đem hơn 3.000 người đến xin tị nạn, được chúa Nguyễn cho vào khai khẩn vùng Mỹ Tho và Biên Hòa.
 *   **1680:** Mạc Cửu (cũng là cựu thần nhà Minh) đến khai phá vùng đất Hà Tiên, trong đó có Phú Quốc.
 *   **1682:** Chúa Trịnh Tạc mất, cháu đích tôn là Trịnh Căn lên nối ngôi (Định Nam Vương).
+*   **Năm 1684:** Chúa Trịnh Căn hạ lệnh cho quan lại đi tuần hành thị sát dân tình, nhấn mạnh việc thương yêu dân chúng là ưu tiên hàng đầu của chính sự và xử lý các oan ức.
 *   **1687:** Chúa Nguyễn Phúc Tần mất, con là Nguyễn Phúc Trăn lên nối ngôi (Nghĩa Vương).
 *   **1691:** Chúa Nguyễn Phúc Trăn mất, con là Nguyễn Phúc Chu lên nối ngôi (Minh Vương).
 *   **1693:** Chúa Nguyễn đánh bại vua Chiêm Thành là Bà Tranh, đổi phần đất còn lại của Chiêm Thành thành trấn Thuận Thành (nay là Bình Thuận).
@@ -620,7 +639,9 @@
 *   **1718:** Ở Đàng Ngoài, chúa Trịnh Cương lập ra Lục phiên ở phủ Chúa, thâu tóm toàn bộ quyền lực, Lục bộ của triều đình nhà Lê chỉ còn là hư vị.
 *   **1721:** Vua Lê Dụ Tông (thực chất là chúa Trịnh Cương) định lại quy chế phẩm phục quan lại văn võ, phân biệt cấp bậc rõ ràng.
 *   **1721:** Hải Thượng Lãn Ông Lê Hữu Trác, danh y và nhà văn lớn của Việt Nam, sinh ra tại xã Liêu Xá, huyện Đường Hào, trấn Hải Dương (nay thuộc Hưng Yên).
+*   **Năm 1724:** Theo lời bàn của Nguyễn Công Hãng, chúa Trịnh Cương cho phép dân chúng được yết bảng góp ý kiến về quan lại địa phương, tạo ra một cơ chế phản hồi sớm nhưng đồng thời nghiêm trị những kẻ vu cáo.
 *   **1725:** Chúa Nguyễn Phúc Chu mất, con là Nguyễn Phúc Chú lên nối ngôi (Ninh Vương).
+*   **Năm 1726:** Để chấn chỉnh gian lận thi cử, chúa Trịnh Cương hạ lệnh thi lại và đánh hỏng 28 người là con em quyền thế không có thực tài, giao cho pháp đình xét hỏi và trị tội nặng để duy trì kỷ cương.
 *   **1729:** Chúa Trịnh Cương mất, con là Trịnh Giang lên nối ngôi (Uy Nam Vương).
 *   **1736:** Mạc Thiên Tích thành lập **Tao đàn Chiêu Anh Các** tại Hà Tiên, tập hợp các văn nhân thi sĩ, đánh dấu bước phát triển rực rỡ của văn hóa, văn học vùng đất phương Nam.
 *   **1738 - 1770:** Cuộc khởi nghĩa của Lê Duy Mật (tôn thất nhà Lê) nổ ra, kéo dài hơn 30 năm ở vùng Thanh Hóa, Nghệ An.
