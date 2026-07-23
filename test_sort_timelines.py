@@ -58,12 +58,16 @@ class TestExtractDate(unittest.TestCase):
         self.check("Approximately 1,000 BC - 200 AD", -1000.0)
         self.check("Approximately 23,500 BC (25,510 years ago)", -23500.0)
         self.check("Approximately 534,000 - 400,000 years ago", -534000.0)
-        # New English date format tests
+        # Additional English date format tests
         self.check("Aug. 19, 980:", 980.57)
         self.check("Jan. 19 - 20, 1785:", 1785.10)
         self.check("Night of Sep. 22-23, 1945:", 1945.64)
         self.check("Apr. 11 - 12, 1884:", 1884.29)
         self.check("Dec. 25, 1950 - Jan. 18, 1951:", 1950.85)
+        self.check("Mid-17th Century (approx. 1653 - 1657)", 1653.0)
+        self.check("Jun. - Oct. 1949", 1949.40)
+        self.check("Feb. - Aug. 1677", 1677.13)
+        self.check("Oct. 1884 - Mar. 3, 1885", 1884.67)
 
     def test_chronological_ordering(self):
         go_mun = extract_date("Khoảng 1.100 - 700 TCN")
@@ -91,6 +95,8 @@ class TestExtractDate(unittest.TestCase):
                              f"Line count mismatch in {filename} after parsing blocks!")
             self.assertEqual(original_lines, reconstructed_lines,
                              f"Reconstructed lines do not match original lines in {filename}!")
+            self.assertEqual(sorted(original_lines), sorted(reconstructed_lines),
+                             f"Multiset of lines altered in {filename}!")
 
             # Verify event date ordering within each section
             sections = []
@@ -110,10 +116,38 @@ class TestExtractDate(unittest.TestCase):
                     t1, t2 = events[i]['time_str'], events[i+1]['time_str']
                     d1, d2 = extract_date(t1), extract_date(t2)
                     self.assertLessEqual(d1, d2,
-                        f"In {filename} section [{hdr}]: '{t1}' (date {d1}) must be <= '{t2}' (date {d2})")
+                        f"In {filename} section [{hdr}]: '{t1}' (date {d1:.4f}) must be <= '{t2}' (date {d2:.4f})")
+
+    def test_line_by_line_alignment(self):
+        with open("timelines_vi.md", "r", encoding="utf-8") as f:
+            lines_vi = f.readlines()
+        with open("timelines_en.md", "r", encoding="utf-8") as f:
+            lines_en = f.readlines()
+
+        self.assertEqual(len(lines_vi), len(lines_en), "Line count mismatch between VI and EN files!")
+
+        for idx in range(len(lines_vi)):
+            l_vi = lines_vi[idx].strip()
+            l_en = lines_en[idx].strip()
+
+            is_header_vi = l_vi.startswith("#")
+            is_header_en = l_en.startswith("#")
+            self.assertEqual(is_header_vi, is_header_en,
+                             f"Header mismatch at line {idx+1}: VI '{l_vi[:40]}' vs EN '{l_en[:40]}'")
+
+            is_event_vi = l_vi.startswith("*")
+            is_event_en = l_en.startswith("*")
+            self.assertEqual(is_event_vi, is_event_en,
+                             f"Event bullet mismatch at line {idx+1}: VI '{l_vi[:40]}' vs EN '{l_en[:40]}'")
+
+            is_empty_vi = (l_vi == "")
+            is_empty_en = (l_en == "")
+            self.assertEqual(is_empty_vi, is_empty_en,
+                             f"Empty line mismatch at line {idx+1}")
 
 
 if __name__ == '__main__':
     unittest.main()
+
 
 

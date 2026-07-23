@@ -12,6 +12,14 @@ def roman_to_int(s):
     return int_val
 
 def extract_date(time_str_orig):
+    # Pre-check: if parentheses contain an explicit approx year e.g. (approx. 1653 - 1657) or (approx. 1653)
+    # use that explicit year if present, otherwise strip parentheses.
+    time_str_check = time_str_orig.strip()
+    approx_match = re.search(r'\(\s*(?:approx\.?|khoảng)\s*(\d{3,4})', time_str_check, re.IGNORECASE)
+    if approx_match and ("CENTURY" in time_str_check.upper() or "THẾ KỶ" in time_str_check.upper()):
+        y_val = int(approx_match.group(1))
+        return float(y_val)
+
     # Remove contents in parentheses for main date extraction 
     # to avoid falsely matching lunar dates like (25/01 năm Ất Tỵ)
     time_str = re.sub(r'\(.*?\)', '', time_str_orig).strip().upper()
@@ -126,8 +134,8 @@ def extract_date(time_str_orig):
         if d_val == 0: d_val = int(d1)
         return finalize_val(int(y))
 
-    # Range format: Month1 YYYY1 - Month2 YYYY2 or Month1 YYYY1 - Month2 YYYY2 (e.g. Dec. 1898 - Jun. 1899)
-    match = re.search(rf'({month_regex})\.?\s+(\d{{2,4}})\s*-\s*({month_regex})\.?\s+(\d{{2,4}})(?!\d)', time_str)
+    # Range format: Month1 YYYY1 - Month2 (DD2, )YYYY2 (e.g. Oct. 1884 - Mar. 3, 1885)
+    match = re.search(rf'({month_regex})\.?\s+(\d{{2,4}})\s*-\s*({month_regex})\.?\s+(?:\d{{1,2}},?\s+)?(\d{{2,4}})(?!\d)', time_str)
     if match:
         m_str1, y1, m_str2, y2 = match.groups()
         if m_val == 0:
@@ -136,6 +144,17 @@ def extract_date(time_str_orig):
                     m_val = i + 1
                     break
         return finalize_val(int(y1))
+
+    # Range format: Month1 - Month2 YYYY (e.g. Feb. - Aug. 1677, Jun. - Oct. 1949)
+    match = re.search(rf'({month_regex})\.?\s*-\s*({month_regex})\.?\s+(\d{{2,4}})(?!\d)', time_str)
+    if match:
+        m_str1, m_str2, y = match.groups()
+        if m_val == 0:
+            for i, m in enumerate(months):
+                if m in m_str1:
+                    m_val = i + 1
+                    break
+        return finalize_val(int(y))
 
     # Range formats: DD/MM/YYYY - DD/MM/YYYY
     match = re.search(r'(\d{1,2})/(\d{1,2})/(\d{2,4})\s*-\s*\d{1,2}/\d{1,2}/\d{2,4}', time_str)
@@ -305,43 +324,87 @@ def parse_blocks(filename):
     return blocks
 
 
-def sort_file(filename):
-    print(f"Processing {filename}...")
-    blocks = parse_blocks(filename)
+def sort_timelines(vi_filename="timelines_vi.md", en_filename="timelines_en.md"):
+    print(f"Synchronized sorting for {vi_filename} and {en_filename}...")
+    blocks_vi = parse_blocks(vi_filename)
+    blocks_en = parse_blocks(en_filename)
     
-    sections = []
-    current_section = []
-    for b in blocks:
-        if b['type'] == 'header':
-            if current_section:
-                sections.append(current_section)
-            current_section = [b]
+    assert len(blocks_vi) == len(blocks_en), "Block count mismatch between VI and EN files!"
+    
+    events_vi = [b for b in blocks_vi if b['type'] == 'event']
+    events_en = [b for b in blocks_en if b['type'] == 'event']
+    
+    # Align true translated pairs for EN where original input had swapped indices
+    paired_events_en = list(events_en)
+    if len(paired_events_en) >= 625:
+        # Swap 525 & 526 in EN if needed to match VI topic alignment
+        if 'Ho Phi Long' in paired_events_en[525]['lines'][0] and 'Bà Tấm' in events_vi[525]['lines'][0]:
+            paired_events_en[525], paired_events_en[526] = paired_events_en[526], paired_events_en[525]
+        # Swap 623 & 624 in EN if needed to match VI topic alignment
+        if 'Béhaine' in paired_events_en[623]['lines'][0] and 'Xiêm' in events_vi[623]['lines'][0]:
+            paired_events_en[623], paired_events_en[624] = paired_events_en[624], paired_events_en[623]
+            
+    vi_event_idx = 0
+    repaired_blocks_en = []
+    for b in blocks_en:
+        if b['type'] == 'event':
+            repaired_blocks_en.append(paired_events_en[vi_event_idx])
+            vi_event_idx += 1
         else:
-            current_section.append(b)
+            repaired_blocks_en.append(b)
             
-    if current_section:
-        sections.append(current_section)
-        
-    new_blocks = []
-    for section in sections:
-        events = [b for b in section if b['type'] == 'event']
-        if events:
-            events_sorted = sorted(events, key=lambda b: extract_date(b['time_str']))
+    sections_vi = []
+    sections_en = []
+    curr_vi = []
+    curr_en = []
+    
+    for bv, be in zip(blocks_vi, repaired_blocks_en):
+        if bv['type'] == 'header':
+            if curr_vi:
+                sections_vi.append(curr_vi)
+                sections_en.append(curr_en)
+            curr_vi = [bv]
+            curr_en = [be]
+        else:
+            curr_vi.append(bv)
+            curr_en.append(be)
             
-            event_idx = 0
-            for i, b in enumerate(section):
-                if b['type'] == 'event':
-                    section[i] = events_sorted[event_idx]
-                    event_idx += 1
-                    
-        new_blocks.extend(section)
+    if curr_vi:
+        sections_vi.append(curr_vi)
+        sections_en.append(curr_en)
         
-    with open(filename, "w", encoding="utf-8") as f:
-        for b in new_blocks:
+    sorted_blocks_vi = []
+    sorted_blocks_en = []
+    
+    for sec_vi, sec_en in zip(sections_vi, sections_en):
+        event_indices = [i for i, b in enumerate(sec_vi) if b['type'] == 'event']
+        events_zipped = [(sec_vi[i], sec_en[i]) for i in event_indices]
+        
+        events_zipped_sorted = sorted(events_zipped, key=lambda pair: extract_date(pair[0]['time_str']))
+        
+        sorted_idx = 0
+        for i in range(len(sec_vi)):
+            if sec_vi[i]['type'] == 'event':
+                sec_vi[i] = events_zipped_sorted[sorted_idx][0]
+                sec_en[i] = events_zipped_sorted[sorted_idx][1]
+                sorted_idx += 1
+                
+        sorted_blocks_vi.extend(sec_vi)
+        sorted_blocks_en.extend(sec_en)
+        
+    with open(vi_filename, "w", encoding="utf-8") as f:
+        for b in sorted_blocks_vi:
             f.writelines(b['lines'])
             
-    print(f"Finished sorting {filename}.")
+    with open(en_filename, "w", encoding="utf-8") as f:
+        for b in sorted_blocks_en:
+            f.writelines(b['lines'])
+            
+    print("Finished synchronized sorting.")
+
+def sort_file(filename):
+    sort_timelines()
 
 if __name__ == "__main__":
-    sort_file("timelines_en.md")
-    sort_file("timelines_vi.md")
+    sort_timelines("timelines_vi.md", "timelines_en.md")
+
