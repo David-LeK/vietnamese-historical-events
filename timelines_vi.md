@@ -1114,6 +1114,7 @@
 *   **12/1924:** Nguyễn Ái Quốc đến Quảng Châu (Trung Quốc), bắt đầu giai đoạn chuẩn bị thành lập Đảng.
 *   **01/1925:** Nguyễn Ái Quốc mở các lớp huấn luyện chính trị cho thanh niên yêu nước tại Quảng Châu.
 *   **1925:** Một phái đoàn khoa học do Tiến sĩ A. Krempf, Giám đốc Viện Hải dương học Đông Dương dẫn đầu, đã tiến hành nghiên cứu trên quần đảo Hoàng Sa bằng tàu *De Lanessan*.
+*   **1925:** Lê Thị Riêng sinh ra tại làng Vĩnh Mỹ, huyện Giá Rai (Bạc Liêu). Bà sau này trở thành một nhà lãnh đạo cách mạng và nữ anh hùng kiên trung của miền Nam.
 *   **03/03/1925:** Thượng thư Bộ Binh Thân Trọng Huề gửi văn thư cho Khâm sứ Pháp, khẳng định "Các đảo Hoàng Sa bao giờ cũng thuộc về nước An Nam", xác nhận chủ quyền trước các tranh chấp gia tăng.
 *   **06/1925:** Hội Việt Nam Cách mạng Thanh niên được thành lập tại Quảng Châu do Nguyễn Ái Quốc sáng lập và lãnh đạo.
 *   **21/06/1925:** Tuần báo *Thanh niên*, cơ quan ngôn luận của Hội Việt Nam Cách mạng Thanh niên, ra số đầu tiên.
@@ -1168,6 +1169,7 @@
 *   **17/01/1931:** Chuyến bay bưu chính đầu tiên giữa Pháp và Đông Dương diễn ra.
 *   **1931:** Trung Quốc cho đấu thầu việc khai thác phân chim trên quần đảo Hoàng Sa.
 *   **11/04/1931:** Quốc tế Cộng sản ra nghị quyết công nhận Đảng Cộng sản Đông Dương là chi bộ độc lập.
+*   **19/04/1931:** Nguyễn Thị Út (Út Tịch) sinh ra tại làng Tích Thiện, quận Cầu Kè, tỉnh Cần Thơ (nay thuộc Tam Ngãi, Trà Vinh). Bà sau này trở thành một nữ anh hùng huyền thoại của Quân Giải phóng miền Nam Việt Nam.
 *   **19/04/1931:** Tổng Bí thư Trần Phú bị địch bắt.
 *   **06/1931:** Nguyễn Ái Quốc (với tên giả Tống Văn Sơ) bị chính quyền Anh bắt giam tại Hồng Kông.
 *   **06/09/1931:** Đồng chí Trần Phú hy sinh tại nhà thương Chợ Quán.
@@ -1240,6 +1242,7 @@
 *   **10/09/1943:** Hồ Chí Minh được trả tự do.
 *   **1943:** Đảng Cộng sản Đông Dương công bố bản *Đề cương về Văn hóa Việt Nam*.
 *   **Đầu năm 1944:** Đại Việt Quốc gia Liên minh được thành lập, bao gồm Đại Việt Quốc xã, Đại Việt Quốc dân Đảng và Đại Việt Dân chính Đảng.
+*   **1944:** Ở tuổi 13, sau khi cha mất, Nguyễn Thị Út (Út Tịch) với sự hỗ trợ của cán bộ Việt Minh đã chuộc thân khỏi gia đình địa chủ Hàm Giỏi, thoát khỏi cảnh nô tỳ.
 *   **30/06/1944:** Đảng Dân chủ Việt Nam được thành lập, tập hợp tầng lớp tư sản dân tộc và trí thức yêu nước tham gia Mặt trận Việt Minh.
 *   **22/12/1944:** Đội Việt Nam Tuyên truyền Giải phóng quân, tiền thân của Quân đội Nhân dân Việt Nam, được thành lập tại khu rừng Trần Hưng Đạo (Cao Bằng).
 *   **24-25/12/1944:** Đội Việt Nam Tuyên truyền Giải phóng quân đánh thắng hai trận đầu tiên tại Phay Khắt và Nà Ngần.
@@ -1260,6 +1263,7 @@
 *   **13/08/1945:** Ủy ban Khởi nghĩa toàn quốc ra "Quân lệnh số 1".
 *   **14/08/1945:** Mặt trận Quốc gia Thống nhất được thành lập tại Nam Bộ, gồm các đảng phái quốc gia và tôn giáo như Cao Đài, Hòa Hảo.
 *   **16-17/08/1945:** Quốc dân Đại hội họp tại Tân Trào, tán thành chủ trương Tổng khởi nghĩa và bầu ra Ủy ban Dân tộc Giải phóng Việt Nam (tức Chính phủ lâm thời) do Hồ Chí Minh làm Chủ tịch.
+*   **08/1945:** Lê Thị Riêng bắt đầu tham gia cách mạng từ những ngày đầu của Cách mạng tháng Tám, hoạt động dưới vỏ bọc thợ dệt ở xưởng dệt Láng Tròn.
 *   **19/08/1945:** Tổng khởi nghĩa thắng lợi ở Hà Nội (Cách mạng tháng Tám).
 *   **23/08/1945:** Khởi nghĩa thắng lợi ở Huế.
 *   **24/08/1945:** Huỳnh Tấn Phát thiết kế và chỉ đạo xây dựng Kỳ đài tại ngã tư Nguyễn Huệ - Lê Lợi (Sài Gòn) để ghi danh 11 ủy viên Lâm ủy Nam Bộ.
@@ -1291,6 +1295,7 @@
 *   **28/02/1946:** Hiệp ước Trùng Khánh được ký kết giữa Pháp và chính quyền Tưởng Giới Thạch, thỏa thuận cho quân Pháp ra miền Bắc thay thế quân Tưởng.
 *   **02/03/1946:** Quốc hội khóa I họp kỳ đầu tiên, bầu ra Chính phủ liên hiệp kháng chiến do Hồ Chí Minh làm Chủ tịch.
 *   **03/1946:** Tại Quốc hội khóa I, đại biểu Huỳnh Văn Tiểng được cho là đã lần đầu tiên đề xuất tên gọi Thành phố Hồ Chí Minh, phản ánh tình cảm đặc biệt của nhân dân Nam Bộ dành cho Chủ tịch Hồ Chí Minh từ rất sớm.
+*   **03/1946:** Lê Thị Riêng tham gia công tác phụ nữ huyện Giá Rai và Phụ nữ cứu quốc tỉnh Rạch Giá.
 *   **06/03/1946:** Chủ tịch Hồ Chí Minh và Vũ Hồng Khanh thay mặt Chính phủ Việt Nam ký với J. Sainteny, đại diện Chính phủ Pháp, bản Hiệp định Sơ bộ.
 *   **09/03/1946:** Ban Thường vụ Trung ương Đảng ra Chỉ thị "Hòa để tiến".
 *   **24/03/1946:** Chủ tịch Hồ Chí Minh và Cao ủy Pháp D'Argenlieu hội đàm tại Vịnh Hạ Long.
@@ -1361,7 +1366,9 @@
 *   **25/01/1948:** Chính phủ ra sắc lệnh thành lập các Liên khu để thống nhất chỉ đạo kháng chiến.
 *   **11/06/1948:** Chủ tịch Hồ Chí Minh ra lời kêu gọi thi đua ái quốc.
 *   **07/1948:** Hội nghị văn hóa toàn quốc lần thứ hai được tổ chức, xác định tính chất "dân tộc, khoa học, đại chúng" của nền văn hóa mới.
+*   **1948:** Lê Thị Riêng được kết nạp vào Đảng Cộng sản Việt Nam.
 *   **1949:** Pháp chính thức sáp nhập Phú Quốc và các đảo phía Nam vịnh Thái Lan vào Việt Nam.
+*   **1949:** Lê Thị Riêng trở thành Phó Hội trưởng Hội Phụ nữ cứu quốc Miền Đông (Ủy viên Ban Chấp hành Phụ nữ Nam Bộ).
 *   **20/01/1949:** Quân đội Lào Ítxala (tiền thân của Quân đội Nhân dân Lào) được thành lập.
 *   **08/03/1949:** Hiệp ước Élysée được ký kết giữa Tổng thống Pháp Vincent Auriol và cựu hoàng Bảo Đại, thành lập "Quốc gia Việt Nam" trong khối Liên hiệp Pháp.
 *   **04/1949:** Hoàng thân Bửu Lộc, Đổng lý văn phòng của Cựu hoàng Bảo Đại, đã công khai khẳng định lại các quyền của Việt Nam đối với quần đảo Trường Sa trong một cuộc họp báo tại Sài Gòn.
@@ -1370,6 +1377,8 @@
 *   **14/07/1949:** Chính phủ ban hành sắc lệnh giảm tô đầu tiên.
 *   **28/08/1949:** Đại đoàn 308 (Đại đoàn Quân Tiên phong), đại đoàn chủ lực đầu tiên của Quân đội nhân dân Việt Nam, được thành lập.
 *   **01/10/1949:** Nước Cộng hòa Nhân dân Trung Hoa được thành lập.
+*   **12/1949:** Lực lượng Việt Minh mở Chiến dịch Cầu Kè (chiến dịch công kích lớn đầu tiên ở Nam Bộ). Nguyễn Thị Út (Út Tịch) làm trinh sát, giao liên cho tổ chức Công an xung phong, góp phần gây nhiều tổn thất cho quân Pháp.
+*   **Đầu năm 1950:** Nguyễn Thị Út lập gia đình với Lâm Văn Tịch, một chiến sĩ Việt Minh địa phương. Từ đó bà có biệt danh "Út Tịch" ghép từ tên hai vợ chồng.
 *   **09/01/1950:** Hàng ngàn học sinh, sinh viên biểu tình tại Sài Gòn đòi trả tự do cho các học sinh bị bắt. Cuộc biểu tình bị đàn áp, học sinh Trần Văn Ơn trúng đạn hy sinh. Đám tang anh vào ngày 12/01 đã thu hút hàng chục vạn người từ khắp các tỉnh Nam Bộ tham gia, trở thành một cuộc biểu dương lực lượng khổng lồ chống thực dân Pháp và tay sai.
 *   **14/01/1950:** Chủ tịch Hồ Chí Minh ra Tuyên bố, sẵn sàng đặt quan hệ ngoại giao với các nước.
 *   **18/01/1950:** Trung Quốc công nhận và thiết lập quan hệ ngoại giao với nước Việt Nam Dân chủ Cộng hòa.
@@ -1425,6 +1434,7 @@
 *   **12/04/1953:** Chủ tịch Hồ Chí Minh ký sắc lệnh phát động quần chúng triệt để giảm tô.
 *   **13/04 - 18/05/1953:** Quân đội nhân dân Việt Nam phối hợp với lực lượng Pathet Lào mở Chiến dịch Thượng Lào, giải phóng tỉnh Sầm Nưa, một phần Xiêng Khoảng và Phongxalì, mở rộng căn cứ kháng chiến của Lào, nối liền với vùng Tây Bắc Việt Nam.
 *   **05/1953:** Tướng Henri Navarre được cử làm Tổng chỉ huy quân đội Pháp ở Đông Dương.
+*   **1953:** Lê Văn Ba trở về miền Nam chiến đấu và kết hôn với Lê Thị Riêng.
 *   **01/06/1953:** Thủ tướng Chính phủ ra Thông tư số 277-TTg quy định về việc xử lý ruộng đất phân tán của địa chủ.
 *   **24/07/1953:** **Kế hoạch Navarre**, với sự hậu thuẫn của Mỹ, được Hội đồng Quốc phòng Pháp thông qua nhằm giành thắng lợi quân sự quyết định trong vòng 18 tháng.
 *   **08/1953:** Tại Pháp, 82% người dân đồng tình chấm dứt "cuộc chiến tranh bẩn thỉu" xâm lược Đông Dương, phản ánh sức mạnh của Đảng Cộng sản Pháp và phong trào hòa bình quốc tế ủng hộ nhân dân Việt Nam.
@@ -1454,6 +1464,7 @@
     *   Lấy vĩ tuyến 17 làm giới tuyến quân sự tạm thời.
     *   Quân đội hai bên tập kết về hai miền Nam - Bắc.
     *   Dự kiến tổ chức Tổng tuyển cử tự do để thống nhất đất nước vào tháng 7/1956.
+*   **1954:** Sau Hiệp định Genève, vợ chồng Út Tịch được phân công ở lại miền Nam. Bị chính quyền Ngô Đình Diệm đàn áp, bà cùng nhiều phụ nữ khác đã đấu tranh buộc chính quyền thả chồng và bạn chiến đấu. Trong khi đó, Lê Thị Riêng cũng tiếp tục tham gia các phong trào cách mạng chống Mỹ - Diệm tại miền Nam.
 *   **08/08/1954:** Cần lao Nhân vị Cách mạng Đảng (Đảng Cần lao) chính thức ra mắt tại miền Nam, do Ngô Đình Nhu sáng lập.
 *   **06/09/1954:** Mỹ thành lập khối quân sự Đông Nam Á (SEATO) và đặt miền Nam Việt Nam, Lào, Campuchia dưới sự "bảo hộ" của khối này.
 *   **05-07/09/1954:** Bộ Chính trị họp và ra Nghị quyết về "Tình hình mới, nhiệm vụ mới và chính sách mới của Đảng", xác định chuyển hướng đấu tranh từ quân sự sang chính trị để đòi thi hành Hiệp định Giơnevơ.
@@ -1504,6 +1515,7 @@
 *   **05/1959:** Chính quyền Ngô Đình Diệm ban hành **Luật 10/59**, lê máy chém đi khắp miền Nam để đàn áp khốc liệt phong trào cách mạng.
 *   **30/05/1959:** Tỉnh ủy Gia Định thành lập đơn vị C13 (đơn vị vũ trang đầu tiên của tỉnh) tại Củ Chi, ban đầu gồm khoảng 20 cán bộ, đảng viên.
 *   **19/05/1959:** **Đoàn 559** được thành lập, có nhiệm vụ mở đường vận tải chiến lược chi viện cho miền Nam (sau này là Đường mòn Hồ Chí Minh).
+*   **Cuối năm 1959:** Gia đình Út Tịch trở về Tam Ngãi. Sau phong trào Đồng khởi, bà tích cực tham gia hoạt động quân sự, du kích và binh vận của Mặt trận Dân tộc Giải phóng.
 *   **1959 - 1960:** Phong trào **"Đồng khởi"** bùng nổ mạnh mẽ ở các vùng nông thôn miền Nam, bắt đầu từ Bến Tre, phá vỡ từng mảng lớn bộ máy cai trị của địch ở cơ sở.
 *   **Cuối 1959 - Đầu 1960:** Xứ ủy Nam Bộ sáp nhập Khu Sài Gòn - Chợ Lớn và tỉnh Gia Định thành Khu Sài Gòn - Gia Định (Khu 4/T4). Võ Văn Kiệt được phân công làm Bí thư Khu ủy.
 *   **01/01/1960:** Theo Sắc lệnh số 362-TTP (ban hành ngày 30/12/1959), chính quyền Sài Gòn chính thức quy định giờ của miền Nam Việt Nam nhanh hơn 60 phút so với múi giờ 7 (tức múi giờ 8). Do đó, Việt Nam sử dụng hai múi giờ khác nhau trong thời kỳ chia cắt.
@@ -1515,6 +1527,8 @@
     *   Đồng chí Lê Duẩn được bầu làm Bí thư Thứ nhất Ban Chấp hành Trung ương Đảng.
 *   **11/11/1960:** Cuộc đảo chính của nhóm sĩ quan dù do Nguyễn Chánh Thi cầm đầu nhằm lật đổ Ngô Đình Diệm bị thất bại, phản ánh mâu thuẫn nội bộ sâu sắc của chế độ Sài Gòn.
 *   **02/12/1960:** Việt Nam và Cuba chính thức thiết lập quan hệ ngoại giao sau chuyến thăm của Thứ trưởng Ngoại giao Cuba Héctor Rodríguez Llompart. Cuba trở thành quốc gia châu Mỹ đầu tiên công nhận và thiết lập quan hệ ngoại giao với nước Việt Nam Dân chủ Cộng hòa.
+*   **1960:** Lê Thị Riêng được bầu làm Phó Hội trưởng Ban Chấp hành Trung ương Hội Liên hiệp phụ nữ giải phóng và Ủy viên Trung ương Mặt trận Dân tộc giải phóng miền Nam Việt Nam.
+*   **Cuối năm 1960:** Chồng của Lê Thị Riêng là Lê Văn Ba hy sinh trong một trận đánh ở Đông Yên (Dĩ An, Biên Hòa).
 *   **20/12/1960:** **Mặt trận Dân tộc Giải phóng miền Nam Việt Nam** được thành lập.
 
 ### **Thời kỳ Chống Chiến tranh Đặc biệt (1961 - 1965)**
@@ -1538,6 +1552,7 @@
 *   **11/1961:** Nhóm 23 học viên Việt Nam đầu tiên, được tuyển chọn từ các cơ quan chủ chốt của nhà nước, đã có mặt tại La Habana để học tiếng Tây Ban Nha, đặt nền móng cho đội ngũ cán bộ ngoại giao sau này.
 *   **1962:** Các cố vấn quân sự Úc chính thức có mặt tại Việt Nam để hỗ trợ quân đội Việt Nam Cộng hòa.
 *   **08/02/1962:** Mỹ thành lập **Bộ Chỉ huy Viện trợ Quân sự tại Việt Nam (MACV)** do Tướng Paul Harkins chỉ huy để trực tiếp điều hành cuộc chiến.
+*   **09/02/1962:** Vượt lên nỗi đau xót trước sự hy sinh của chồng, Lê Thị Riêng ghi vào nhật ký quyết tâm chiến đấu vì hạnh phúc không tan, vì hòa bình để không còn ai phải chịu cảnh tang tóc, chia ly.
 *   **18/02/1962:** Chính phủ Việt Nam Dân chủ Cộng hòa ra tuyên bố lên án việc Mỹ tăng cường can thiệp và xâm lược miền Nam Việt Nam.
 *   **16/02 - 03/03/1962:** Đại hội lần thứ nhất Mặt trận Dân tộc Giải phóng miền Nam Việt Nam được tổ chức, bầu ra Ủy ban Trung ương chính thức do Luật sư Nguyễn Hữu Thọ làm Chủ tịch.
 *   **1962:** Mỹ và chính quyền Sài Gòn ráo riết thực hiện chương trình dồn dân, lập **"Ấp chiến lược"**, coi đây là "xương sống" của chiến lược "Chiến tranh đặc biệt".
@@ -1555,6 +1570,7 @@
 *   **30/01/1964:** Tướng Nguyễn Khánh thực hiện cuộc "Chỉnh lý" lật đổ chính quyền quân sự của Dương Văn Minh, tiếp tục gây bất ổn chính trị tại Sài Gòn.
 *   **03/1964:** Mỹ vạch ra **Kế hoạch Johnson - McNamara**, tăng cường viện trợ, đưa thêm cố vấn, đẩy mạnh các hoạt động phá hoại miền Bắc.
 *   **03/1964:** Chủ tịch Hồ Chí Minh triệu tập **Hội nghị Chính trị đặc biệt** tại Hà Nội, kêu gọi toàn dân đoàn kết chống Mỹ, cứu nước.
+*   **1964:** Út Tịch được kết nạp vào Đảng Nhân dân cách mạng miền Nam.
 *   **19/05/1964:** Hưởng ứng phong trào phản đối bản án tử hình đối với người thanh niên yêu nước Nguyễn Văn Trỗi tại Sài Gòn, đội du kích Caracas (Venezuela) đã phát động chiến dịch giải cứu. Ngày 09/10/1964, họ bắt cóc sĩ quan Mỹ Michael Smolen để đổi mạng cho anh Trỗi. Dù du kích đã thả Smolen, Mỹ và chính quyền Sài Gòn vẫn lật lọng và xử tử Nguyễn Văn Trỗi.
 *   **02-04/08/1964:** Mỹ dựng lên **"Sự kiện Vịnh Bắc Bộ"** làm cớ để leo thang chiến tranh.
 *   **05/08/1964:** Không quân Mỹ lần đầu tiên ném bom bắn phá một số nơi ở miền Bắc (chiến dịch Mũi tên xuyên - Pierce Arrow). Quân dân miền Bắc đánh trả quyết liệt, bắn rơi 8 máy bay Mỹ, bắt sống phi công Everett Alvarez, tù binh phi công Mỹ đầu tiên tại miền Bắc.
@@ -1579,9 +1595,11 @@
 *   **08/03/1965:** Hai tiểu đoàn lính thủy đánh bộ Mỹ đổ bộ vào Đà Nẵng, chính thức mở đầu chiến lược "Chiến tranh cục bộ", trực tiếp đưa quân chiến đấu của Mỹ vào miền Nam.
 *   **22/03/1965:** Mặt trận Dân tộc giải phóng miền Nam Việt Nam ra Tuyên bố 5 điểm, khẳng định quyết tâm đánh đuổi đế quốc Mỹ.
 *   **25-27/03/1965:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ 11 (khóa III) xác định nhiệm vụ cấp bách là "chống Mỹ, cứu nước", chuyển miền Bắc sang thời chiến.
+*   **1965:** Lê Thị Riêng được phân công làm Trưởng ban Phụ vận khu Sài Gòn - Gia Định (T4), trực tiếp vào nội thành chỉ huy phong trào phụ nữ. Cùng năm, Út Tịch dự Đại hội anh hùng chiến sĩ thi đua lực lượng vũ trang toàn miền Nam, được bầu là nữ anh hùng và tặng thưởng Huân chương Quân công Giải phóng hạng Nhì vì thành tích tham gia 23 trận đánh.
 *   **03-04/04/1965:** Không quân Nhân dân Việt Nam xuất trận lần đầu, cùng các lực lượng phòng không bắn rơi 57 máy bay Mỹ trong trận bảo vệ cầu Hàm Rồng và phà Ghép.
 *   **08/04/1965:** Chính phủ Việt Nam Dân chủ Cộng hòa công bố Lập trường 4 điểm làm cơ sở cho việc giải quyết vấn đề Việt Nam.
 *   **04/1965:** Bí thư thứ nhất Lê Duẩn dẫn đầu đoàn đại biểu Việt Nam sang thăm Liên Xô và ký kết Hiệp định về việc Liên Xô viện trợ quân sự, mang lại nguồn lực vũ khí và trang bị lớn. Cùng thời gian này, những binh lính chiến đấu đầu tiên của Úc và New Zealand bắt đầu đổ bộ vào miền Nam Việt Nam để tham chiến cùng Mỹ.
+*   **05/05/1965:** Nguyễn Thị Út (Út Tịch) được Nhà nước tuyên dương danh hiệu Anh hùng lực lượng vũ trang nhân dân. Bà nổi tiếng với câu nói bất hủ: "Còn cái lai quần cũng đánh!".
 *   **09/05/1965:** Chính phủ Việt Nam Dân chủ Cộng hòa ra tuyên bố phản đối việc Mỹ ấn định "khu vực tác chiến" tại Việt Nam. Theo nguồn tin từ Trung Quốc, bản tuyên bố này có thể đã nhắc đến việc khu vực tác chiến của Mỹ bao gồm cả một phần vùng biển của CHND Trung Hoa ở "quần đảo Tây Sa" (Hoàng Sa).
 *   **26/05/1965:** Trận Núi Thành (Quảng Nam), lần đầu tiên một đơn vị chủ lực của Quân Giải phóng tiêu diệt gọn một đại đội lính thủy đánh bộ Mỹ, mở ra phong trào "Tìm Mỹ mà đánh, gặp Mỹ là diệt".
 *   **28/05 - 20/07/1965:** **Chiến dịch Ba Gia (Quảng Ngãi):** Quân Giải phóng miền Nam Việt Nam (Quân khu 5) mở chiến dịch tiến công quân lực Việt Nam Cộng hòa. Trong giai đoạn 1 (28/05 - 31/05), bằng chiến thuật vận động phục kích và bao vây, Quân Giải phóng đã lần đầu tiên tiêu diệt gọn một chiến đoàn hỗn hợp (gồm Bộ binh, Biệt động quân, Thủy quân lục chiến) của quân đội Sài Gòn, loại khỏi vòng chiến đấu hơn 900 lính. Chiến thắng này góp phần làm phá sản hoàn toàn chiến lược "Chiến tranh đặc biệt".
@@ -1624,6 +1642,7 @@
 *   **27/01/1967:** Bộ Chính trị ban hành Nghị quyết số 155-NQ/TW về đẩy mạnh đấu tranh ngoại giao, chủ động tiến công địch, phối hợp với đấu tranh quân sự và chính trị.
 *   **28/01/1967:** Bộ trưởng Ngoại giao Nguyễn Duy Trinh tuyên bố: "Sau khi Mỹ chấm dứt không điều kiện ném bom... có thể nói chuyện với Mỹ".
 *   **09/05/1967:** Những người biểu tình phản chiến tại Mỹ đã tổ chức lễ thức tưởng niệm Norman Morrison, sau đó xông vào chiếm giữ Lầu Năm Góc trong 4 ngày để phản đối chiến tranh tại Việt Nam.
+*   **09/05/1967:** Trên đường đi công tác tại khu vực chợ Đa Kao (Sài Gòn), Lê Thị Riêng bị kẻ phản bội chỉ điểm nên bị mật vụ bắt giữ. Dù chịu nhiều cực hình tra tấn dã man từ CIA và chính quyền Sài Gòn, bà vẫn kiên trung bất khuất.
 *   **16/05/1967:** Nhất Chi Mai (Phan Thị Mai) tự thiêu tại chùa Từ Nghiêm (Sài Gòn) để cầu nguyện cho hòa bình.
 *   **08/08/1967:** Chính phủ Việt Nam Dân chủ Cộng hòa ra Quyết định số 121/QĐ-CP, quy định giờ pháp định của miền Bắc là múi giờ 7 quốc tế, kể từ 0 giờ ngày 01/01/1968.
 *   **17/09/1967:** Tại Đại hội anh hùng chiến sĩ thi đua toàn Miền lần thứ hai, Mặt trận Dân tộc Giải phóng miền Nam Việt Nam đã phong tặng danh hiệu "Củ Chi đất thép thành đồng" để vinh danh tinh thần chiến đấu kiên cường của quân dân Củ Chi.
@@ -1634,6 +1653,7 @@
 *   **01/1968:** Hội nghị Trung ương lần thứ 14 thông qua nghị quyết về Tổng công kích và nổi dậy (Tết Mậu Thân), giáng đòn quyết định vào ý chí xâm lược của Mỹ.
 *   **20/01 - 15/07/1968:** Chiến dịch Đường 9 - Khe Sanh. Quân Giải phóng miền Nam Việt Nam tiến công tập đoàn phòng ngự Khe Sanh của Mỹ tại Quảng Trị. Nhằm mục đích nghi binh cho cuộc Tổng tiến công Tết Mậu Thân, Quân Giải phóng vây hãm chặt căn cứ Khe Sanh (với 17.000 quân bao vây), buộc Mỹ phải huy động không quân chiến lược ném hơn 114.000 tấn bom để chi viện. Lần đầu tiên, Quân Giải phóng đưa xe tăng PT-76 tham chiến, tiêu diệt cứ điểm Làng Vây (07/02). Dù chịu thương vong, chiến dịch đã giam chân một lực lượng lớn quân Mỹ, phá hủy trung tâm chỉ huy Hàng rào điện tử McNamara, và cuối cùng buộc quân Mỹ phải rút bỏ Khe Sanh vào tháng 7/1968. Đây là lần đầu tiên quân đội Mỹ phải rút bỏ một căn cứ quân sự trọng yếu do áp lực của đối phương.
 *   **Đêm 30 rạng 31/01/1968:** Cuộc Tổng tiến công và nổi dậy Tết Mậu Thân 1968 đồng loạt nổ ra trên toàn miền Nam, đánh vào các thành phố, thị xã và các cơ quan đầu não của địch, làm lung lay ý chí xâm lược của Mỹ.
+*   **31/01/1968 (Mùng 2 Tết Mậu Thân):** Nữ chiến sĩ cách mạng Lê Thị Riêng bị chính quyền Sài Gòn thủ tiêu tại bốt Bà Hòa (Chợ Lớn). Trong phút hy sinh, bà đã dũng cảm lấy thân mình che đạn cứu sống người đồng đội Phùng Ngọc Anh và hát vang bài Quốc tế ca.
 *   **31/01 - 24/02/1968:** Trận chiến tại Huế trong sự kiện Tết Mậu Thân. Mở màn vào rạng sáng mồng 2 Tết, Quân Giải phóng miền Nam Việt Nam bất ngờ tấn công và kiểm soát hầu hết thành phố Huế, giương cao lá cờ Mặt trận trên đỉnh Kỳ Đài. Quân đội Mỹ và Việt Nam Cộng hòa phải điều động lực lượng lớn phản công. Để tái chiếm thành phố, quân Mỹ đã sử dụng hỏa lực hạng nặng (bom, pháo hạm), gây tàn phá 80% nhà cửa ở Huế và khiến nhiều thường dân thiệt mạng. Sau 25 ngày đêm chiến đấu giằng co làm chủ thành phố, để bảo toàn lực lượng, Quân Giải phóng chủ động rút lui. Trận đánh mang lại sự đổ vỡ tâm lý và chính trị lớn nhất cho Hoa Kỳ, thể hiện khả năng kiểm soát đô thị dài ngày của Quân Giải phóng.
 *   **12/02/1968:** Lính Nam Triều Tiên gây ra vụ thảm sát Phong Nhất và Phong Nhị (Quảng Nam), sát hại từ 69 đến 79 thường dân.
 *   **21/02/1968:** Lính Nam Triều Tiên (Lữ đoàn Rồng Xanh) thảm sát 135 thường dân không có vũ khí tại làng Hà My (Điện Bàn, Quảng Nam).
@@ -1644,6 +1664,7 @@
 *   **08/1968:** Trung ương Cục quyết định thành lập lại Thành ủy Sài Gòn - Gia Định (mật danh là Bình Giã). Căn cứ Thành ủy chuyển lên Ba Thu (vùng biên giới).
 *   **11/10/1968 (hoặc 13/10/1968):** Mẹ Suốt anh dũng hy sinh trong một trận bom bi oanh tạc của không quân Mỹ tại bến đò Bảo Ninh khi đang làm nhiệm vụ vận chuyển lương thực. Sau đó, bà được Nhà nước công nhận là liệt sĩ.
 *   **01/11/1968:** Mỹ buộc phải chấm dứt hoàn toàn và không điều kiện việc ném bom, bắn phá miền Bắc. Miền Bắc đánh thắng cuộc chiến tranh phá hoại lần thứ nhất, bắn rơi 3.234 máy bay Mỹ.
+*   **27/11/1968:** Trong một trận rải thảm B-52 của Không lực Hoa Kỳ xuống vùng Tân Châu, Châu Đốc (nay thuộc An Giang), Út Tịch và người con gái thứ ba (Lâm Thị Thơ) bị thương nặng và anh dũng hy sinh.
 
 ### **Thời kỳ đánh bại chiến lược "Việt Nam hóa chiến tranh" (1969 - 1973)**
 
@@ -1704,6 +1725,7 @@
 *   **11/01/1974:** Bắc Kinh tuyên bố việc Việt Nam Cộng hòa sáp nhập hành chính quần đảo Trường Sa là một hành động lấn chiếm lãnh thổ Trung Quốc và hung hăng khẳng định lại các yêu sách của Trung Quốc đối với cả hai quần đảo Hoàng Sa và Trường Sa, dọn đường cho cuộc xung đột quân sự vài ngày sau đó.
 *   **15-20/01/1974:** Nhân lúc Mỹ rút quân, Cộng hòa Nhân dân Trung Hoa đã dùng vũ lực quân sự đổ bộ lên phần phía Tây quần đảo Hoàng Sa (nhóm Lưỡi Liềm) và giao tranh quyết liệt trên biển và trên bộ với lực lượng Việt Nam Cộng hòa. Trung Quốc sau đó chiếm quyền kiểm soát toàn bộ quần đảo Hoàng Sa. Chính quyền Việt Nam Cộng hòa phản đối kịch liệt và yêu cầu Hội đồng Bảo an Liên Hợp Quốc can thiệp.
 *   **18/01/1974:** Đại sứ Đài Loan tại Sài Gòn gửi công hàm ngoại giao khẳng định lại yêu sách của Trung Hoa Dân quốc đối với các quần đảo trong bối cảnh xung đột leo thang giữa Việt Nam Cộng hòa và Cộng hòa Nhân dân Trung Hoa ở Hoàng Sa.
+*   **14/05/1974:** Chồng của Út Tịch là ông Lâm Văn Tịch, một chiến sĩ kháng chiến kiên trung, đã hy sinh và được Nhà nước truy tặng danh hiệu Liệt sĩ.
 *   **1974:** Bà **Nguyễn Thị Định** được phong quân hàm Thiếu tướng, trở thành nữ tướng đầu tiên của Quân đội nhân dân Việt Nam.
 *   **02/07/1974:** Phái đoàn Việt Nam Cộng hòa tại Hội nghị Liên Hợp Quốc về Luật Biển ở Caracas chính thức tuyên bố chủ quyền đối với các quần đảo.
 *   **07/1974:** Trung ương Đảng chỉ đạo Bộ Tổng Tham mưu xây dựng kế hoạch chiến lược giải phóng miền Nam trong 2 năm 1975 - 1976.
@@ -1918,6 +1940,7 @@
 
 ### **Thời kỳ Hội nhập BTA và Vượt qua Thử thách SARS** (2001 - 2006)
 
+*   **10/04/2001:** Chủ tịch nước Trần Đức Lương ký quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân thời kỳ kháng chiến chống Mỹ cứu nước cho liệt sĩ Lê Thị Riêng.
 *   **19 - 22/04/2001:** Đại hội IX của Đảng, lần đầu khẳng định mô hình kinh tế thị trường định hướng XHCN.
 *   **28/11/2001:** Quốc hội phê chuẩn Hiệp định Thương mại Việt Nam - Hoa Kỳ (BTA).
 *   **10/12/2001:** Hiệp định BTA chính thức có hiệu lực.
@@ -1985,6 +2008,7 @@
 *   **02/05/2014:** Trung Quốc hạ đặt giàn khoan Hải Dương 981 trong vùng đặc quyền kinh tế của Việt Nam.
 *   **14/05/2014:** Châu bản triều Nguyễn được UNESCO công nhận là Di sản Tư liệu Thế giới.
 *   **23/06/2014:** Quần thể danh thắng Tràng An được UNESCO công nhận là di sản.
+*   **11/2014:** Khởi công xây dựng Khu tưởng niệm nữ Anh hùng liệt sĩ Nguyễn Thị Út (Út Tịch) tại xã Tam Ngãi, tỉnh Trà Vinh.
 *   **27/11/2014:** Dân ca Ví, Giặm Nghệ Tĩnh được UNESCO công nhận là di sản.
 *   **02/07/2015:** Vườn Quốc gia Phong Nha - Kẻ Bàng được UNESCO công nhận lần hai về đa dạng sinh học.
 *   **06 - 10/07/2015:** Tổng Bí thư Nguyễn Phú Trọng lần đầu thăm chính thức Hoa Kỳ.

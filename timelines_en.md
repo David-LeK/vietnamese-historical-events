@@ -1114,6 +1114,7 @@
 *   **Dec. 1924:** Nguyen Ai Quoc arrived in Guangzhou (China), beginning the preparatory phase for the founding of the Party.
 *   **Jan. 1925:** Nguyen Ai Quoc opened political training classes for patriotic youth in Guangzhou.
 *   **1925:** A scientific mission led by Dr. A. Krempf, Director of the Institute of Oceanography, was conducted on the Paracel Islands aboard the ship *De Lanessan*.
+*   **1925:** Le Thi Rieng was born in Vinh My village, Gia Rai district (Bac Lieu). She later became a prominent revolutionary leader and heroine of the South.
 *   **Mar. 3, 1925:** Minister of War Than Trong Hue sent a formal letter to the French Resident Superior, affirming that "The Paracel Islands have always belonged to Vietnam," asserting sovereignty amidst rising disputes.
 *   **Jun. 1925:** The Vietnamese Revolutionary Youth League was founded in Guangzhou by Nguyen Ai Quoc.
 *   **Jun. 21, 1925:** The weekly newspaper *Thanh nien* (Youth), the organ of the Vietnamese Revolutionary Youth League, published its first issue.
@@ -1168,6 +1169,7 @@
 *   **Jan. 17, 1931:** The first postal flight between France and Indochina took place.
 *   **1931:** China called for bids to exploit guano on the Paracel Islands.
 *   **Apr. 11, 1931:** The Communist International issued a resolution recognizing the Indochinese Communist Party as an independent section.
+*   **Apr. 19, 1931:** Nguyen Thi Ut (Ut Tich) was born in Tich Thien village, Cau Ke district, Can Tho (now Tam Ngai, Tra Vinh). She later became a legendary heroine of the Liberation Army of South Vietnam.
 *   **Apr. 19, 1931:** General Secretary Tran Phu was arrested by the enemy.
 *   **Jun. 1931:** Nguyen Ai Quoc (under the alias Sung Man Cho) was arrested by British authorities in Hong Kong.
 *   **Sep. 6, 1931:** Comrade Tran Phu died in Cho Quan hospital.
@@ -1240,6 +1242,7 @@
 *   **Sep. 10, 1943:** Ho Chi Minh was released from prison in China.
 *   **1943:** The Indochinese Communist Party published the *Theses on Vietnamese Culture*.
 *   **Early 1944:** The Dai Viet National Alliance (Dai Viet Quoc Gia Lien Minh) was formed, comprised of various nationalist parties such as the Dai Viet National Socialist Party, Dai Viet Nationalist Party, and Dai Viet Democratic Party.
+*   **1944:** At the age of 13, after her father's death, Nguyen Thi Ut (Ut Tich), with the support of Viet Minh cadres, redeemed herself from a local landlord, escaping her life as a servant.
 *   **Jun. 30, 1944:** The Vietnam Democratic Party was founded, gathering intellectuals and national bourgeoisie to join the Viet Minh Front.
 *   **Dec. 22, 1944:** The Vietnam Propaganda and Liberation Army, the precursor to the Vietnam People's Army, was established in the Tran Hung Dao forest (Cao Bang).
 *   **Dec. 24-25, 1944:** The Vietnam Propaganda and Liberation Army won its first two battles at Phay Khat and Na Ngan.
@@ -1260,6 +1263,7 @@
 *   **Aug. 13, 1945:** The National Uprising Committee issued "Military Order No. 1."
 *   **Aug. 14, 1945:** The United National Front (Mat tran Quoc gia Thong nhat) was established in Southern Vietnam, comprised of various nationalist parties and religious groups like Cao Dai and Hoa Hao.
 *   **Aug. 16-17, 1945:** The National People's Congress met in Tan Trao, endorsed the policy of a General Uprising, and elected the Vietnam National Liberation Committee (i.e., the Provisional Government) with Ho Chi Minh as Chairman.
+*   **Aug. 1945:** Le Thi Rieng began participating in the revolution during the August Revolution, operating under the guise of a weaver at the Lang Tron factory.
 *   **Aug. 19, 1945:** The General Uprising succeeded in Hanoi (August Revolution).
 *   **Aug. 23, 1945:** The uprising succeeded in Hue.
 *   **Aug. 24, 1945:** Huynh Tan Phat designed and directed the construction of the Monumental Flagpole at the Nguyen Hue - Le Loi intersection (Saigon) to honor the Provisional Committee of Nam Bo.
@@ -1291,6 +1295,7 @@
 *   **Feb. 28, 1946:** The Chongqing Agreement was signed between France and the Chiang Kai-shek government, agreeing to allow French troops to enter the North to replace Chiang's troops.
 *   **Mar. 2, 1946:** The 1st National Assembly held its first session, electing the Coalition Resistance Government with Ho Chi Minh as President.
 *   **Mar. 1946:** During the 1st National Assembly, delegate Huynh Van Tieng reportedly proposed renaming Saigon to Ho Chi Minh City, reflecting the early sentiments of the Southern people towards President Ho Chi Minh.
+*   **Mar. 1946:** Le Thi Rieng participated in women's affairs in Gia Rai district and the National Salvation Women's Association of Rach Gia province.
 *   **Mar. 6, 1946:** President Ho Chi Minh and Vu Hong Khanh, on behalf of the Vietnamese Government, signed the Preliminary Agreement with J. Sainteny, representative of the French Government.
 *   **Mar. 9, 1946:** The Party Central Standing Committee issued the directive "Peace to Advance."
 *   **Mar. 24, 1946:** President Ho Chi Minh and French High Commissioner D'Argenlieu held talks in Ha Long Bay.
@@ -1361,7 +1366,9 @@
 *   **Jan. 25, 1948:** The government issued a decree establishing Inter-zones to unify the command of the resistance.
 *   **Jun. 11, 1948:** President Ho Chi Minh issued an appeal for patriotic emulation.
 *   **Jul. 1948:** The Second National Cultural Conference was held, defining the "national, scientific, and mass" character of the new culture.
+*   **1948:** Le Thi Rieng joined the Communist Party of Vietnam.
 *   **1949:** France officially incorporated Phu Quoc and the islands in the southern part of the Gulf of Thailand into Vietnam.
+*   **1949:** Le Thi Rieng became Vice President of the National Salvation Women's Association of the Eastern Region (Member of the Executive Committee of Nam Bo Women).
 *   **Jan. 20, 1949:** The Lao Issara Army (precursor to the Lao People's Army) was founded.
 *   **Mar. 8, 1949:** The Élysée Accords were signed between French President Vincent Auriol and former emperor Bao Dai, establishing the "State of Vietnam" within the French Union.
 *   **Apr. 1949:** Prince Buu Loc, Chief of Cabinet to Emperor Bao Dai, publicly reaffirmed Vietnam's rights over the Spratly Islands during a press conference in Saigon.
@@ -1370,6 +1377,8 @@
 *   **Jul. 14, 1949:** The government issued the first decree on rent reduction.
 *   **Aug. 28, 1949:** The 308th Division (the Pioneer Division), the first main-force division of the Vietnam People's Army, was established.
 *   **Oct. 1, 1949:** The People's Republic of China was founded.
+*   **Dec. 1949:** During the Cau Ke Campaign (the first major offensive by the Viet Minh in Nam Bo), Nguyen Thi Ut (Ut Tich) served as a scout and liaison for the Vanguard Security unit, contributing to inflicting heavy losses on French forces.
+*   **Early 1950:** Nguyen Thi Ut married Lam Van Tich, a local Viet Minh soldier. From then on, she was known by the nickname "Ut Tich", combining her and her husband's names.
 *   **Jan. 9, 1950:** Thousands of students demonstrated in Saigon demanding the release of arrested peers. The protest was violently suppressed, and student Tran Van On was shot dead. His funeral on January 12 drew hundreds of thousands of people, turning into a massive show of anti-colonial resistance.
 *   **Jan. 14, 1950:** President Ho Chi Minh issued a statement, ready to establish diplomatic relations with all countries.
 *   **Jan. 18, 1950:** China recognized and established diplomatic relations with the Democratic Republic of Vietnam.
@@ -1425,6 +1434,7 @@
 *   **Apr. 12, 1953:** President Ho Chi Minh signed a decree mobilizing the masses for thorough rent reduction.
 *   **Apr. 13 - May 18, 1953:** The Vietnam People's Army, in coordination with the Pathet Lao forces, launched the Upper Laos Campaign, liberating Sam Neua province, a part of Xieng Khouang and Phongsaly, expanding the Lao resistance base and connecting it with the Northwest region of Vietnam.
 *   **May 1953:** General Henri Navarre was appointed Commander-in-Chief of the French army in Indochina.
+*   **1953:** Le Van Ba returned to the South to fight and married Le Thi Rieng.
 *   **Jun. 1, 1953:** The Prime Minister issued Circular No. 277-TTg regarding the handling of dispersed land of landlords.
 *   **Jul. 24, 1953:** The **Navarre Plan**, with US backing, was approved by the French National Defense Council to achieve a decisive military victory within 18 months.
 *   **Aug. 1953:** In France, 82% of the population expressed support for ending the "dirty war" of invasion in Indochina, demonstrating the strong impact of the French Communist Party and global peace movements.
@@ -1454,6 +1464,7 @@
     *   The 17th parallel was established as a provisional military demarcation line.
     *   The armies of both sides were to regroup to the North and South.
     *   A free general election was scheduled to be held in July 1956 to unify the country.
+*   **1954:** Following the Geneva Accords, Ut Tich and her husband stayed in the South. When her husband and comrades were arrested by the Ngo Dinh Diem regime, she successfully mobilized other women to pressure the government for their release. Meanwhile, Le Thi Rieng also continued participating in anti-US-Diem revolutionary movements in the South.
 *   **Aug. 8, 1954:** The Can Lao Nhan Vi Party (Personalist Labor Revolutionary Party) officially debuted in the South, founded by Ngo Dinh Nhu.
 *   **Sep. 6, 1954:** The US formed the Southeast Asia Treaty Organization (SEATO) and placed South Vietnam, Laos, and Cambodia under its "protection."
 *   **Sep. 5-7, 1954:** The Politburo of the Vietnam Workers' Party passed a resolution on "The new situation, new tasks and new policy", marking the transition of the revolutionary struggle from war to peace, shifting the focus in the South to political struggle to demand the implementation of the Geneva Accords.
@@ -1504,6 +1515,7 @@
 *   **May 1959:** The Ngo Dinh Diem administration enacted **Law 10/59**, dragging guillotines across South Vietnam to brutally suppress the revolutionary movement.
 *   **May 19, 1959:** **Group 559** was established, tasked with opening a strategic transportation route to supply the South (later known as the Ho Chi Minh Trail).
 *   **May 30, 1959:** The Gia Dinh Provincial Party Committee established Unit C13 (the first armed unit of the province) in Cu Chi, initially consisting of about 20 cadres and party members.
+*   **Late 1959:** Ut Tich's family returned to Tam Ngai. Following the Dong Khoi movement, she actively participated in military activities, guerrilla warfare, and troop proselytizing for the National Liberation Front.
 *   **1959 - 1960:** The **"Concerted Uprising"** movement erupted strongly in the rural areas of the South, starting in Ben Tre, shattering large segments of the enemy's administrative apparatus at the grassroots level.
 *   **Late 1959 - Early 1960:** The Party Committee of Nam Bo merged the Saigon - Cho Lon Zone and Gia Dinh province to form the Saigon - Gia Dinh Zone (Zone 4/T4). Vo Van Kiet was assigned as the Secretary of the Zone Party Committee.
 *   **Jan. 1, 1960:** Following Decree No. 362-TTP (issued on December 30, 1959), the Saigon administration officially changed the time of South Vietnam to be 60 minutes faster than time zone 7 (i.e., time zone 8). Consequently, Vietnam used two different time zones during the partition period.
@@ -1515,6 +1527,8 @@
     *   Le Duan was elected First Secretary of the Party Central Committee.
 *   **Nov. 11, 1960:** A coup attempt led by Colonel Nguyen Chanh Thi and Lieutenant Colonel Vuong Van Dong against Ngo Dinh Diem failed, exposing the internal contradictions and weakness of the Saigon regime.
 *   **Dec. 2, 1960:** Vietnam and Cuba officially established diplomatic relations following a visit by Cuban Deputy Foreign Minister Héctor Rodríguez Llompart. Cuba became the first country in the Americas to recognize and establish diplomatic relations with the Democratic Republic of Vietnam.
+*   **1960:** Le Thi Rieng was elected Vice President of the Central Committee of the Liberation Women's Union and a member of the Central Committee of the National Liberation Front of South Vietnam.
+*   **Late 1960:** Le Thi Rieng's husband, Le Van Ba, died in a battle in Dong Hoa (Di An, Bien Hoa).
 *   **Dec. 20, 1960:** The **National Liberation Front for South Vietnam** was established.
 
 ### **Period of Resisting the "Special War" (1961 - 1965)**
@@ -1538,6 +1552,7 @@
 *   **Nov. 1961:** A group of 23 Vietnamese students, selected from key state agencies, arrived in La Habana to study Spanish, laying the foundation for future diplomatic cadres.
 *   **1962:** Australian military advisors officially arrived in Vietnam to support the Republic of Vietnam forces.
 *   **Feb. 8, 1962:** The US established the **Military Assistance Command, Vietnam (MACV)**, commanded by General Paul Harkins, to directly manage the war.
+*   **Feb. 9, 1962:** Enduring immense grief over her husband's death, Le Thi Rieng wrote in her diary expressing her unyielding determination to fight for the nation's happiness and peace so that no one would suffer separation.
 *   **Feb. 18, 1962:** The DRV Government issued a statement condemning the establishment of MACV and increased US aggression in the South.
 *   **Feb. 16 - Mar. 3, 1962:** The First Congress of the National Liberation Front for South Vietnam was held, electing an official Central Committee headed by Lawyer Nguyen Huu Tho.
 *   **1962:** The US and the Saigon administration vigorously implemented the program of herding people into **"Strategic Hamlets,"** considering it the "backbone" of the "Special War" strategy.
@@ -1555,6 +1570,7 @@
 *   **Jan. 30, 1964:** General Nguyen Khanh staged a coup ("Rectification") overthrowing the military junta of Duong Van Minh, signaling continued political instability in the Saigon regime.
 *   **Mar. 1964:** The US drew up the **Johnson-McNamara Plan**, increasing aid, sending more advisors, and stepping up sabotage activities against the North.
 *   **Mar. 1964:** President Ho Chi Minh convened a **Special Political Conference** in Hanoi, calling on all people to unite to resist the US and save the country.
+*   **1964:** Ut Tich was admitted to the Southern People's Revolutionary Party.
 *   **May 19, 1964:** When Vietnamese patriot Nguyen Van Troi was arrested and sentenced to death in Saigon, Caracas guerrillas in Venezuela organized a campaign to save him. On October 9, 1964, they kidnapped US officer Michael Smolen to exchange for Troi's life. Although the guerrillas released Smolen upon false promises, the US and Saigon regime reneged and executed Troi.
 *   **Aug. 2-4, 1964:** The US fabricated the **"Gulf of Tonkin Incident"** as a pretext to escalate the war.
 *   **Aug. 5, 1964:** The US Air Force bombed and strafed several places in the North for the first time (Operation Pierce Arrow). The army and people of the North fought back fiercely, shooting down 8 US aircraft and capturing pilot Everett Alvarez, the first US prisoner of war in North Vietnam.
@@ -1579,9 +1595,11 @@
 *   **Mar. 8, 1965:** Two battalions of US Marines landed in Da Nang, officially beginning the "Local War" strategy, directly deploying US combat troops to South Vietnam.
 *   **Mar. 22, 1965:** The National Liberation Front for South Vietnam issued a 5-point statement, affirming its determination to drive out the US imperialists.
 *   **Mar. 25-27, 1965:** The 11th Conference of the Party Central Committee (3rd tenure) defined the urgent task as "resisting the US, saving the country" and shifting the North to a wartime footing.
+*   **1965:** Le Thi Rieng was appointed Head of the Women's Mobilization Department of the Saigon - Gia Dinh Zone (T4), directly entering the inner city to direct the women's movement. Ut Tich attended the Congress of Heroes and Emulation Fighters of the South Armed Forces, was elected a heroine, and awarded the Liberation Military Exploit Medal, Second Class for participating in 23 battles.
 *   **Apr. 3-4, 1965:** The Vietnam People's Air Force flew its first combat mission, joining with air defense forces to shoot down 57 US aircraft in the battle to protect Ham Rong Bridge and Ghep Ferry.
 *   **Apr. 8, 1965:** The government of the Democratic Republic of Vietnam announced its 4-point position as a basis for resolving the Vietnam issue.
 *   **Apr. 1965:** First Secretary Le Duan led a Vietnamese delegation to the Soviet Union and signed an agreement on Soviet military aid, ushering in massive military and economic support. Meanwhile, the first Australian and New Zealand combat troops began arriving in South Vietnam to support the US.
+*   **May 5, 1965:** Nguyen Thi Ut (Ut Tich) was awarded the title of Hero of the People's Armed Forces. She famously declared: "As long as there is a pant leg left, we will keep fighting!" ("Còn cái lai quần cũng đánh").
 *   **May 9, 1965:** The Government of the Democratic Republic of Vietnam issued a statement protesting the US designation of a "combat zone" in Vietnam. According to Chinese sources, the statement allegedly referred to the US combat zone encompassing a portion of the territorial waters of the PRC in the "Xisha Islands" (Paracels).
 *   **May 26, 1965:** Battle of Nui Thanh (Quang Nam), for the first time, a main-force unit of the Liberation Army neatly wiped out a company of US Marines, initiating the "Find the Americans to fight, meet the Americans to destroy" movement.
 *   **May 28 - Jul. 20, 1965:** **Ba Gia Campaign (Quang Ngai):** The Liberation Army of South Vietnam (Military Region 5) launched a campaign against Republic of Vietnam forces. In the primary phase (May 28 - 31), through mobile ambush and encirclement tactics, the Liberation Army completely destroyed an ARVN mixed task force (comprising Infantry, Rangers, and Marines) for the first time, wiping out over 900 enemy troops. This victory further dismantled the "Special War" strategy.
@@ -1624,6 +1642,7 @@
 *   **Jan. 27, 1967:** The Politburo issued Resolution No. 155-NQ/TW on stepping up the diplomatic struggle, actively attacking the enemy, and coordinating with military and political struggles.
 *   **Jan. 28, 1967:** Foreign Minister Nguyen Duy Trinh declared: "After the US unconditionally stops the bombing... talks with the US can be held."
 *   **May 9, 1967:** Protesters held a vigil for Norman Morrison in the United States, which culminated in a four-day occupation of the Pentagon to protest the Vietnam War.
+*   **May 9, 1967:** Betrayed by an informant, Le Thi Rieng was arrested by secret police near Da Kao market (Saigon). Despite suffering brutal torture by the CIA and the Saigon regime, she remained fiercely loyal to the revolution.
 *   **May 16, 1967:** Buddhist nun **Nhat Chi Mai** self-immolated at Tu Nghiem Pagoda (Saigon) to pray for peace.
 *   **Aug. 8, 1967:** The Government of the Democratic Republic of Vietnam issued Decision No. 121/QD-CP, reaffirming that the legal time of North Vietnam is international time zone 7, effective from January 1, 1968.
 *   **Sep. 17, 1967:** At the second Congress of Emulation Heroes and Soldiers of the South, the National Liberation Front for South Vietnam awarded the title "Cu Chi - Iron Land, Bronze Rampart" (Củ Chi đất thép thành đồng) to honor the persistent fighting spirit of the army and people of Cu Chi.
@@ -1634,6 +1653,7 @@
 *   **Jan. 1968:** The 14th Conference of the Party Central Committee (3rd tenure) passed the resolution on the General Offensive and Uprising (Tet Mau Than) to deal a decisive blow to the US will of aggression.
 *   **Jan. 20 - Jul. 15, 1968:** Battle of Khe Sanh (Route 9 - Khe Sanh Campaign). The Liberation Army of South Vietnam launched a massive offensive against the US defense complex at Khe Sanh in Quang Tri. Serving as a strategic diversion for the Tet Offensive, the Liberation Army closely besieged the base (with 17,000 troops), forcing the US to deploy strategic bombers to drop over 114,000 tons of bombs for support. For the first time, the Liberation Army deployed PT-76 tanks, overrunning the Lang Vei Special Forces camp (Feb. 7). Despite casualties from intense US firepower, the campaign successfully pinned down a large US force, destroyed the command center of the McNamara Line, and ultimately forced the US military to abandon Khe Sanh in July 1968. This marked the first time the US military had to abandon a major base due to enemy pressure.
 *   **Night of Jan. 30-31, 1968:** The 1968 Tet General Offensive and Uprising broke out simultaneously across South Vietnam, attacking cities, towns, and the enemy's command centers, shaking the US's will to aggression.
+*   **Jan. 31, 1968:** During the Tet Offensive (the 2nd day of the Lunar New Year), female revolutionary Le Thi Rieng was executed by the Saigon regime at Ba Hoa post in Cho Lon. In her final moments, she used her body to shield her comrade Phung Ngoc Anh from bullets and valiantly sang the Internationale.
 *   **Jan. 31 - Feb. 24, 1968:** Battle of Hue during the Tet Offensive. Commencing in the early hours of the Lunar New Year, the Liberation Army of South Vietnam launched a surprise attack and seized control of most of Hue city, raising the Front's flag over the Citadel. US and Republic of Vietnam forces mobilized massive reinforcements for a counterattack. To retake the city, the US military utilized heavy firepower (bombs and naval artillery), resulting in the severe destruction of 80% of Hue's structures and significant civilian casualties. After holding the city in fierce urban combat for 25 days, the Liberation Army proactively withdrew to preserve their forces. The battle dealt a colossal psychological and political blow to the United States, demonstrating the Liberation Army's ability to hold a major city for an extended period.
 *   **Feb. 12, 1968:** South Korean troops massacred 69-79 unarmed civilians in Phong Nhat and Phong Nhi villages (Dien Ban, Quang Nam).
 *   **Feb. 21, 1968:** South Korean troops (Blue Dragon Brigade) massacred 135 unarmed civilians in Ha My village (Dien Ban, Quang Nam).
@@ -1644,6 +1664,7 @@
 *   **Aug. 1968:** The Central Office for South Vietnam decided to re-establish the Saigon - Gia Dinh City Party Committee (code name Binh Gia). The City Party Committee's base was moved to Ba Thu (border area).
 *   **Oct. 11, 1968 (or Oct. 13, 1968):** Mother Suot heroically died in a US bombing raid near the Bao Ninh ferry crossing while carrying out a mission to transport food and supplies. She was later recognized as a national martyr.
 *   **Nov. 1, 1968:** The US was forced to completely and unconditionally end the bombing and strafing of the North. The North defeated the first war of destruction, shooting down 3,234 US aircraft.
+*   **Nov. 27, 1968:** During a devastating B-52 carpet bombing by the US Air Force in Tan Chau, Chau Doc (now An Giang), Ut Tich and her third daughter, Lam Thi Tho, were severely injured and subsequently sacrificed their lives.
 
 ### **Period of Defeating the "Vietnamization of the War" Strategy (1969 - 1973)**
 
@@ -1704,6 +1725,7 @@
 *   **Jan. 11, 1974:** Beijing declared the Republic of Vietnam's administrative integration of the Spratlys an encroachment on Chinese territory and aggressively reaffirmed its claims over both the Paracel and Spratly archipelagos, leading up to the military conflict days later.
 *   **Jan. 15 - 20, 1974:** Taking advantage of the US withdrawal, the People's Republic of China used military force to attack and occupy the western part of the Paracel Islands (Crescent group) defended by Republic of Vietnam forces. Following intense battles, China seized full control of the entire Paracel archipelago. The Republic of Vietnam strongly protested and requested UN Security Council intervention.
 *   **Jan. 18, 1974:** The Taiwanese Ambassador in Saigon submitted a diplomatic note reaffirming the Republic of China's claims over the archipelagos amidst the escalating conflict between South Vietnam and the People's Republic of China in the Paracels.
+*   **May 14, 1974:** Lam Van Tich, husband of Ut Tich and a dedicated resistance fighter, sacrificed his life in battle and was posthumously awarded the title of Martyr.
 *   **1974:** Madame **Nguyen Thi Dinh** was promoted to the rank of Major General, becoming the first female general of the Vietnam People's Army.
 *   **Jul. 2, 1974:** The Republic of Vietnam delegation at the UN Conference on the Law of the Sea in Caracas formally declared sovereignty over the archipelagos.
 *   **Jul. 1974:** The Party Central Committee directed the General Staff to formulate a strategic plan to liberate the South in the two years 1975-1976.
@@ -1918,6 +1940,7 @@
 
 ### **Period of BTA Integration and Overcoming the SARS Challenge** (2001 - 2006)
 
+*   **Apr. 10, 2001:** President Tran Duc Luong signed a decision posthumously awarding the title of Hero of the People's Armed Forces to the martyr Le Thi Rieng.
 *   **Apr. 19 - 22, 2001:** The 9th National Congress of the Party, for the first time, affirmed the model of a socialist-oriented market economy.
 *   **Nov. 28, 2001:** The National Assembly ratified the Vietnam - U.S. Bilateral Trade Agreement (BTA).
 *   **Dec. 10, 2001:** The BTA officially came into effect.
@@ -1985,6 +2008,7 @@
 *   **May 2, 2014:** China deployed the Hai Duong 981 oil rig in Vietnam's exclusive economic zone.
 *   **May 14, 2014:** The Nguyen Dynasty's imperial archives were recognized by UNESCO as a World Documentary Heritage.
 *   **Jun. 23, 2014:** The Trang An Landscape Complex was recognized by UNESCO as a heritage.
+*   **Nov. 2014:** Construction of the Memorial Area for the Heroine and Martyr Nguyen Thi Ut (Ut Tich) commenced in Tam Ngai, Tra Vinh.
 *   **Nov. 27, 2014:** The Ví and Giặm folk songs of Nghe Tinh were recognized by UNESCO as a heritage.
 *   **Jul. 2, 2015:** Phong Nha - Ke Bang National Park was recognized by UNESCO for the second time for its biodiversity.
 *   **Jul. 6 - 10, 2015:** General Secretary Nguyen Phu Trong paid his first official visit to the United States.
