@@ -927,22 +927,29 @@
 *   **Aug. 11, 1863:** France signed a protectorate treaty with the Cambodian King Norodom.
 *   **1864:** The first school in Vietnam to teach chữ Quốc ngữ (the romanized Vietnamese script), the Saigon School of Interpreters (Collège des interprètes), was officially established.
 *   **1864:** **Ha Tinh** was re-established as a separate "dao" (county), independent from Nghe An.
+*   **1864 (Tu Duc 17):** Bui Vien and his younger brother Bui Phung passed the Tu Tai (bachelor's) examination.
 *   **Apr. 15, 1865:** The first Vietnamese-language newspaper using chữ Quốc ngữ, the Gia Định báo, was launched in Saigon.
 *   **May 1865:** The first Military Doctorate (Vo Tien si) examination was held to select military talents.
 *   **Nov. 1865:** The "Nha si" (Elegant Scholar) examination was held for the first time to recruit virtuous and learned scholars.
 *   **Sep. 1866:** The Doan Huu Trung Rebellion (Chay Voi Rebellion) broke out in the Imperial City of Hue, attempting a coup but failed.
 *   **1867:** The name "chữ quốc ngữ" (national script) was used for the first time, evolving from its precursor "chữ Tây quốc ngữ" (Western national script).
+*   **1867 (Dinh Mao year, Tu Duc 20):** Bui Phung passed the Cu Nhan (master's) examination.
 *   **Jun. 20, 1867:** French forces led by De Lagrandière arrived at Vinh Long Citadel. Viceroy Phan Thanh Gian surrendered the citadel unconditionally to avoid bloodshed.
 *   **Jun. 21, 1867:** French forces captured An Giang province.
 *   **Jun. 24, 1867:** French forces captured Ha Tien province, unilaterally completing the annexation of the three western provinces of Cochinchina without firing a shot. All of Cochinchina became a French colony.
 *   **Aug. 4, 1867:** After fasting for 17 days, Phan Thanh Gian committed suicide by poison, having failed to defend the western provinces.
 *   **1868:** Emperor Tu Duc officially restored Le Van Duyet's titles as "Vong Cac Merit Official" and "Commander of the Left Army", allowing him to be worshipped in the Temple of Meritorious Officials, completing his rehabilitation.
+*   **1868 (Mau Thin year):** Bui Vien passed the Cu Nhan examination.
 *   **Mar. 1868:** The Military Academy (Vo Hoc Duong) was established west of the Capital Citadel.
 *   **Jun. 16 - 21, 1868:** Nguyen Trung Truc's righteous army successfully attacked and controlled Rach Gia Citadel for 5 days before being suppressed by French reinforcements.
 *   **Jul. 1868:** The court purchased a large copper-clad steamship named "Man Thoa", marking efforts to adopt Western technology.
 *   **Feb. 1869:** Chữ Quốc ngữ was mandated for use in official documents in Cochinchina, replacing chữ Nho (classical Chinese characters), according to a decree by Vice Admiral Marie Gustave Hector Ohier.
 *   **Nov. 1872:** Jean Dupuis, a French merchant, began causing disturbances in Tonkin (Bac Ky), under the pretext of transporting goods to Yunnan.
 *   **1873:** The administrative seat of Doan Hung prefecture (Son Tay province) was burned and destroyed by bandits.
+*   **1873:** French explorer Jean Dupuis arrived at Ninh Hai (Hai Phong) with small boats from Saigon, beginning his exploration of the Red River to find a trade route to Yunnan, China.
+*   **April and May 1873:** French Admiral Dupré sent reports to Paris detailing Jean Dupuis's "discovery" of the Red River route, proposing an urgent alliance with King Tu Duc to establish a French presence in Tonkin (Northern Vietnam).
+*   **April 12, 1873 (Quy Dau year):** While King Tu Duc was touring the Thuan An estuary, Chinese pirates (Tau O) brazenly attacked nine transport ships of the Nguyen court right off the coast. The pirates seized two ships, killed soldiers, and plundered wealth while the court's military officials watched helplessly, exposing the severe weakness of Vietnam's naval defenses.
+*   **July 1873 (Tu Duc 26):** Bui Vien departed from Thuy Van mountain (Hue) on a diplomatic and exploratory mission abroad, sanctioned by King Tu Duc. He traveled to Hong Kong, Japan, and the United States in an unprecedented effort to forge diplomatic ties, acquire modern technology, and seek support to preserve Vietnam's independence.
 *   **Nov. 20, 1873:** First Battle of Hanoi. Under the pretext of resolving a commercial dispute, French Captain Francis Garnier and merchant Jean Dupuis led an assault on the Hanoi Citadel. The citadel fell in less than an hour. Governor-General Nguyen Tri Phuong was severely wounded and captured, subsequently starving himself to death, while his son Nguyen Lam was killed. Over 2,000 Vietnamese troops were taken prisoner. Following this, Garnier unilaterally declared the Red River open to free trade.
 *   **Nov. 26 - Dec. 10, 1873:** French forces expanded control across the Tonkin Delta. Hautefeuille captured the Ninh Binh Citadel on December 5 with a tiny force, and Garnier captured the Nam Dinh Citadel on December 10 after fierce bombardments.
 *   **Dec. 21, 1873:** First Battle of Cau Giay. Vietnamese royal forces and the Black Flag Army, commanded by Luu Vinh Phuc, ambushed French troops outside Hanoi. Captain Francis Garnier and several officers were killed while pursuing the retreating forces. This significant victory for Vietnam temporarily halted French expansion in Tonkin.
@@ -951,11 +958,18 @@
 *   **Mar. 15, 1874:** The Hue court (represented by Le Tuan and Nguyen Van Tuong) signed the Treaty of Giap Tuat with France (represented by Rear Admiral Dupré), recognizing France's permanent sovereignty over the six provinces of Cochinchina and agreeing to open Tonkin to French trade and the stationing of a Consul.
 *   **Aug. 31, 1874:** The Commercial Treaty was signed in Saigon, regulating trade duties and regulations at the newly opened ports of Thi Nai (Binh Dinh), Ninh Hai (Hai Duong), and Hanoi.
 *   **Late 1875:** The Hue court established the **Coastal Defense Office** (Nha Hai Phong) at Thuan An estuary and the **Patrol and Transport Office** (Nha Tuan Tai) to strengthen coastal defense and manage water transport.
+*   **July 8, 1876 (Tu Duc 29):** Bui Vien submitted a comprehensive report to the Hue court proposing the establishment of a modernized naval force ("Tuan duong quan"). The force was designed to eradicate piracy, protect maritime trade, and secure the transport of state funds by integrating former pirates and fishermen into a professional navy.
 *   **Oct. 1876:** The **My Duc Circuit** (Dao My Duc) was established to reinforce defense and land reclamation in the Hanoi and Son Tay region.
+*   **April 1878 (Tu Duc 31):** The newly established Tuan duong quan, commanded by Bui Vien, engaged in a fierce naval battle against Chinese pirates (Tau O) in the waters of Ha Tinh. Using fire tactics, the Vietnamese navy forced the pirates to flee, capturing a ship, weapons, and 18 pirates.
 *   **Apr. 6, 1878:** Decree 82, signed by the Governor of Cochinchina Lafont, set a four-year deadline to fully transition to chữ Quốc ngữ.
+*   **May 1878 (Tu Duc 31):** Bui Vien's Tuan duong quan fought a second major battle against Chinese pirates off the coast of Thanh Hoa while defending a merchant ship. The Vietnamese navy pursued the pirates all the way to Hainan Island (China), forcing them to abandon a ship filled with weapons and supplies.
+*   **October 1878 (Tu Duc 31):** The Hue court issued a decree allowing children of mandarins, aged around twenty, to study abroad in Hong Kong and Western countries at the government's expense. Students were to study for over five years to learn foreign languages and technical skills like shipbuilding, mining, or military training.
+*   **Nov. 24th, 1878:** Bui Vien suddenly passed away at midnight in Hue due to severe body aches. His unexpected death left a massive void in the Nguyen court, leading to a mutiny among his naval troops, the loss of state funds, and severely impacting Vietnam's modernization efforts.
 *   **1880:** The Hue court sent envoys to the Qing court to present tribute, maintaining diplomatic relations with China despite the 1874 Treaty with France.
+*   **1880 (Tu Duc 33):** The Hue court dispatched a ninth-grade medical official to Hong Kong to learn the British method of smallpox vaccination, demonstrating efforts to acquire modern Western medical knowledge.
 *   **Feb. 1880:** The **Lang Giang Circuit** (Bac Ninh) and **Doan Hung Circuit** (Son Tay/Tuyen Quang) were established to strengthen border defense.
 *   **1881 - 1884:** Germany conducted systematic hydrographic research on the Paracel Islands without any accompanying sovereignty claims.
+*   **1881 (Tu Duc 34):** Vice Minister of Rites Pham Binh was sent to Hong Kong to sell two old ships (Loi Tai and Thuan Tiep) and commission a new one. He was also tasked with bringing 12 Vietnamese youths to enroll in an English school in Hong Kong.
 *   **Feb. 1881:** The **Ship Administration Bureau** (Cuc Thuyen Chinh) was established to manage state vessels and water transport.
 *   **Jan. 1, 1882:** All official dispatches and public notices were required to be written in chữ Quốc ngữ. Concurrently, only those literate in chữ Quốc ngữ could be appointed to administrative bodies (at the prefecture, district, and canton levels) or be considered for promotion.
 *   **Jan. 30, 1882:** The Governor of Cochinchina issued a decree requiring official documents to be written in French. If chữ Quốc ngữ was used, it had to be accompanied by a French translation.

@@ -927,22 +927,29 @@
 *   **11/08/1863:** Pháp ký hiệp ước bảo hộ với vua Campuchia Norodom.
 *   **1864:** Trường học đầu tiên dạy chữ Quốc ngữ ở Việt Nam là Trường Thông ngôn Sài Gòn (Collège des interprètes), được thành lập chính thức.
 *   **1864:** Đạo **Hà Tĩnh** được tách ra và đặt làm một đạo riêng biệt, không còn lệ thuộc vào Nghệ An.
+*   **Năm 1864 (Tự Đức thứ 17):** Bùi Viện và em trai là Bùi Phủng cùng thi đỗ tú tài.
 *   **15/04/1865:** Tờ báo tiếng Việt đầu tiên sử dụng chữ Quốc ngữ là *Gia Định báo*, được ra mắt tại Sài Gòn.
 *   **05/1865:** Triều đình mở khoa thi Tiến sĩ võ đầu tiên để tuyển chọn nhân tài quân sự.
 *   **11/1865:** Triều đình mở khoa thi Nhã sĩ để kén chọn những người văn học rộng rãi, phẩm hạnh thuần chính.
 *   **09/1866:** Cuộc nổi dậy của Đoàn Hữu Trưng (Loạn Chày Vôi) nổ ra tại Kinh thành Huế, mưu toan phế lập nhưng thất bại.
 *   **1867:** Tên gọi "chữ quốc ngữ" được dùng lần đầu tiên, với tiền thân là "chữ Tây quốc ngữ".
+*   **Năm 1867 (Đinh Mão, Tự Đức thứ 20):** Bùi Phủng thi đỗ cử nhân.
 *   **20/06/1867:** Quân Pháp do La Grandière chỉ huy tiến đến trước thành Vĩnh Long. Kinh lược sứ Phan Thanh Giản quyết định trao thành không điều kiện để tránh đổ máu.
 *   **21/06/1867:** Quân Pháp chiếm gọn tỉnh An Giang.
 *   **24/06/1867:** Quân Pháp chiếm Hà Tiên, hoàn tất việc chiếm đóng 3 tỉnh miền Tây Nam Kỳ mà không tốn một viên đạn. Toàn cõi Nam Kỳ chính thức trở thành thuộc địa của Pháp.
 *   **04/08/1867:** Kinh lược sứ Phan Thanh Giản tuyệt thực 17 ngày rồi uống thuốc độc tự tử sau khi không giữ được các tỉnh miền Tây.
 *   **1868:** Vua Tự Đức chính thức truy phục chức tước cho Lê Văn Duyệt làm "Vọng Các công thần", "Chưởng Tả quân", tước Quận công và cho thờ vào miếu Trung hưng công thần, hoàn tất việc minh oan cho ông.
+*   **Năm 1868 (Mậu Thìn):** Bùi Viện thi đỗ cử nhân.
 *   **03/1868:** Dựng Võ học đường tại bên tây Kinh thành để đào tạo quan võ.
 *   **16 - 21/06/1868:** Nghĩa quân Nguyễn Trung Trực đánh chiếm và làm chủ thành Rạch Giá trong 5 ngày trước khi bị quân Pháp tăng viện đàn áp.
 *   **07/1868:** Triều đình mua chiếc tàu lớn bọc đồng chạy bằng hơi nước, đặt tên là Mẫn Thỏa, tăng cường trang bị kỹ thuật phương Tây.
 *   **02/1869:** Chữ quốc ngữ được quy định dùng bắt buộc thay chữ Nho trong công văn ở Nam Kỳ, theo nghị định của Phó đô đốc Marie Gustave Hector Ohier.
 *   **11/1872:** Jean Dupuis, một lái buôn người Pháp, bắt đầu gây rối ở Bắc Kỳ, lấy cớ vận chuyển hàng hóa lên Vân Nam.
 *   **1873:** Phủ lỵ Đoan Hùng (tỉnh Sơn Tây) bị giặc cướp đốt phá, phải chuyển đến làm việc tại nhà dân.
+*   **Năm 1873:** Nhà thám hiểm người Pháp Jean Dupuis mang thuyền từ Sài Gòn ra bỏ neo ở Ninh Hải (Hải Phòng), bắt đầu cuộc thám hiểm sông Hồng để tìm đường giao thương sang Vân Nam (Trung Quốc).
+*   **Tháng 4 và tháng 5 năm 1873:** Đô đốc Pháp Dupré liên tục gửi báo cáo về Paris tường thuật việc Jean Dupuis tìm ra tuyến đường sông Hồng, đề xuất khẩn cấp việc liên minh với vua Tự Đức để thiết lập sự hiện diện của Pháp ở Bắc Kỳ.
+*   **Ngày 12/04/1873 (Năm Quý Dậu):** Khi vua Tự Đức đang ngự thuyền ra chơi cửa Thuận An, hải tặc Tàu Ô đã trắng trợn tấn công 9 chiếc thuyền vận tải của triều đình ngay ngoài khơi. Bọn cướp đã chiếm đoạt 2 chiếc thuyền, giết hại binh lính và cướp bóc tài sản trong khi các quan lại quân sự của triều đình bất lực đứng nhìn, phơi bày sự yếu kém nghiêm trọng của lực lượng phòng thủ trên biển của Việt Nam.
+*   **Tháng 07/1873 (Tự Đức thứ 26):** Bùi Viện xuất phát từ núi Thúy Vân (Huế) trong một chuyến công du và thám sát nước ngoài theo lệnh của vua Tự Đức. Ông đã hành trình đến Hương Cảng, Nhật Bản và Hoa Kỳ trong một nỗ lực chưa từng có nhằm thiết lập quan hệ ngoại giao, tiếp thu công nghệ hiện đại và tìm kiếm sự ủng hộ để bảo vệ nền độc lập của Việt Nam.
 *   **20/11/1873:** Trận thành Hà Nội lần thứ nhất. Lấy cớ giải quyết vụ tranh chấp thương mại của Jean Dupuis, Đại úy Pháp Francis Garnier bất ngờ nổ súng tấn công thành Hà Nội. Chỉ trong vòng chưa đầy một giờ, thành thất thủ. Khâm sai Nguyễn Tri Phương bị trọng thương, bị bắt và sau đó tuyệt thực đến chết, con trai ông là Nguyễn Lâm tử trận. Hơn 2.000 quân triều đình bị bắt làm tù binh. Sau khi chiếm thành, Garnier tự ý tuyên bố mở cửa thông thương sông Hồng.
 *   **26/11 - 10/12/1873:** Quân Pháp tiếp tục đánh chiếm các tỉnh lân cận. Ngày 05/12, Hautefeuille với một toán quân nhỏ đã hạ thành Ninh Bình. Ngày 10/12, Garnier đánh chiếm thành Nam Định sau các đợt pháo kích.
 *   **21/12/1873:** Trận Cầu Giấy lần thứ nhất. Quân Cờ Đen do Lưu Vĩnh Phúc chỉ huy phối hợp với quân triều đình đã tổ chức phục kích quân Pháp tại khu vực Cầu Giấy. Đại úy Francis Garnier cùng một số sĩ quan đã bị giết chết tại trận khi đang truy kích địch. Chiến thắng này khiến quân Pháp hoang mang và buộc phải rút quân khỏi Hà Nội.
@@ -951,11 +958,18 @@
 *   **15/03/1874:** Triều đình Huế (đại diện là Lê Tuấn và Nguyễn Văn Tường) ký Hòa ước Giáp Tuất với Pháp (đại diện là Thiếu tướng Dupré), công nhận chủ quyền vĩnh viễn của Pháp ở 6 tỉnh Nam Kỳ, chấp nhận để Pháp mở cửa thông thương ở Bắc Kỳ và đặt Lãnh sự. Chính thức mở các cửa biển Thị Nại (Bình Định), Ninh Hải (Hải Dương) và thành phố Hà Nội cho thương nhân nước ngoài.
 *   **31/08/1874:** Ký kết Thương ước giữa Đại Nam và Pháp tại Sài Gòn, quy định chi tiết về thuế quan và quy chế thương mại tại các cửa biển mới mở.
 *   **Cuối 1875:** Triều đình thành lập **Nha Hải phòng** tại cửa biển Thuận An và **Nha Tuần tải** để tăng cường phòng thủ bờ biển và quản lý vận tải đường thủy.
+*   **Ngày 08/07/1876 (Tự Đức thứ 29):** Bùi Viện dâng một bản tấu trình chi tiết lên triều đình Huế đề xuất thành lập lực lượng hải quân hiện đại mang tên "Tuần dương quân". Lực lượng này được thiết kế để tiêu diệt hải tặc, bảo vệ thương mại trên biển và đảm bảo an toàn cho việc vận chuyển ngân khố quốc gia bằng cách thu dụng những cựu hải tặc và ngư dân vào một lực lượng hải quân chuyên nghiệp.
 *   **10/1876:** Thành lập **đạo Mỹ Đức** (gồm các huyện Chương Đức, Hoài Yên, Mỹ Lương thuộc Hà Nội và Sơn Tây) để tăng cường phòng bị và khai khẩn.
+*   **Tháng 04/1878 (Tự Đức thứ 31):** Đội Tuần dương quân mới thành lập do Bùi Viện chỉ huy đã tham gia một trận hải chiến ác liệt chống lại hải tặc Tàu Ô tại vùng biển Hà Tĩnh. Sử dụng hỏa công, hải quân Việt Nam đã buộc bọn cướp biển phải bỏ chạy, thu giữ một chiếc thuyền, nhiều vũ khí và bắt sống 18 tên giặc.
 *   **6/4/1878:** Nghị định 82 do Thống đốc Nam Kỳ Lafont ký đã đề ra mốc hẹn bốn năm phải chuyển hẳn sang chữ quốc ngữ.
+*   **Tháng 05/1878 (Tự Đức thứ 31):** Tuần dương quân của Bùi Viện đã tiến hành trận đánh lớn thứ hai chống lại hải tặc Tàu Ô ở vùng biển Thanh Hóa khi đang bảo vệ một thuyền buôn. Hải quân Việt Nam đã truy kích bọn cướp biển đến tận đảo Hải Nam (Trung Quốc), buộc chúng phải bỏ lại một chiếc thuyền chứa đầy vũ khí và quân lương.
+*   **Tháng 10/1878 (Tự Đức thứ 31):** Triều đình Huế ban hành nghị định cho phép con em các quan chức khoảng 20 tuổi được đi du học ở Hương Cảng và các nước phương Tây bằng chi phí của nhà nước. Học sinh sẽ học tập trong hơn 5 năm để tiếp thu ngoại ngữ và các kỹ năng kỹ thuật như đóng tàu, khai mỏ hoặc huấn luyện quân sự.
+*   **24/11/1878:** Bùi Viện đột ngột qua đời vào nửa đêm tại Huế sau khi bị đau nhức khắp mình mẩy. Cái chết bất ngờ của ông để lại một khoảng trống lớn trong triều đình nhà Nguyễn, dẫn đến cuộc nổi loạn của binh lính dưới quyền và làm thất thoát ngân khố, ảnh hưởng nghiêm trọng đến công cuộc duy tân của Việt Nam.
 *   **1880:** Triều đình Huế sai sứ sang nhà Thanh dâng biểu xưng thần, tiếp tục quan hệ bang giao với Trung Quốc bất chấp Hòa ước 1874 với Pháp.
+*   **Năm 1880 (Tự Đức thứ 33):** Triều đình Huế phái một cửu phẩm y sinh sang Hương Cảng để học phương pháp chủng đậu (tiêm phòng đậu mùa) của người Anh, thể hiện nỗ lực tiếp thu kiến thức y học hiện đại của phương Tây.
 *   **02/1880:** Thành lập **đạo Lạng Giang** (Bắc Ninh) và **đạo Đoan Hùng** (Sơn Tây/Tuyên Quang) để củng cố an ninh biên giới phía Bắc.
 *   **1881 - 1884:** Người Đức tiến hành nghiên cứu có hệ thống tình hình thủy văn của quần đảo Hoàng Sa mà không đưa ra bất kỳ yêu sách nào về chủ quyền.
+*   **Năm 1881 (Tự Đức thứ 34):** Lễ bộ Thị lang Phạm Bính được cử sang Hương Cảng để bán hai chiếc tàu cũ (Lợi Tái và Thuận Tiệp) và đóng tàu mới. Ông cũng được giao nhiệm vụ đưa 12 thanh niên Việt Nam sang nhập học tại một ngôi trường của người Anh ở Hương Cảng.
 *   **02/1881:** Thành lập **Cục Thuyền chính** để chuyên trách quản lý tàu thuyền và vận tải đường thủy của nhà nước.
 *   **01/01/1882:** Mọi công văn, văn bản niêm yết đều phải viết bằng chữ quốc ngữ. Đồng thời, chỉ người biết chữ quốc ngữ mới được bổ nhiệm vào cơ quan cai trị (cấp phủ, huyện, tổng) hoặc được xét tăng trật.
 *   **30/01/1882:** Thống đốc Nam Kỳ ra nghị định buộc công văn phải viết bằng tiếng Pháp. Nếu dùng chữ quốc ngữ, bắt buộc phải kèm theo bản dịch tiếng Pháp.
