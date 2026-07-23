@@ -1047,6 +1047,7 @@
 *   **1915:** Kỳ thi Hương cuối cùng được tổ chức ở Bắc Kỳ, đánh dấu sự kết thúc của nền khoa cử Nho học tại đây.
 *   **13/03/1915:** Nghĩa quân của Hội Việt Nam Quang Phục tấn công đồn Tà Lùng (Lạng Sơn) nhưng thất bại.
 *   **28/09/1915:** Tù nhân chính trị ở nhà tù Lao Bảo do Hồ Bá Kiện và Liêu Thanh lãnh đạo nổi dậy phá ngục.
+*   **1916:** Đinh Thị Vân (tên thật là Đinh Thị Mậu) sinh ra tại làng Đông An, huyện Xuân Trường, tỉnh Nam Định. Bà sau này trở thành nữ đại tá tình báo huyền thoại và Anh hùng Lực lượng vũ trang nhân dân.
 *   **15/02/1916:** Các hội kín ở Nam Kỳ tổ chức cuộc bạo động lớn tại Sài Gòn, mưu đồ phá Khám lớn để giải cứu Phan Xích Long nhưng thất bại.
 *   **03/05/1916:** Cuộc khởi nghĩa do vua Duy Tân cùng Thái Phiên, Trần Cao Vân lãnh đạo bị bại lộ và thất bại. Vua Duy Tân bị bắt và bị đày sang đảo Réunion.
 *   **08/1916:** Vua Khải Định ra lệnh cấm dân chúng mặc quần áo màu vàng và các màu gần với màu vàng để phân biệt tôn ti.
@@ -1178,6 +1179,7 @@
 *   **15/06/1932:** Đảng Cộng sản Đông Dương công bố *Chương trình hành động* để khôi phục hệ thống tổ chức và phong trào cách mạng.
 *   **16/08/1932:** Vua Bảo Đại lên đường về nước để chấp chính sau thời gian du học tại Pháp.
 *   **28/12/1932:** Nguyễn Ái Quốc được trả tự do tại Hồng Kông.
+*   **1933:** Ở tuổi 17, Đinh Thị Vân tham gia hoạt động cách mạng, làm giao thông liên lạc, cất giữ tài liệu bí mật của Đảng và tham gia tổ chức nhóm "ái hữu tương tế", nuôi dưỡng, bảo vệ cán bộ cách mạng tại địa phương.
 *   **03/1933:** Hà Huy Tập (bút danh Hồng Thế Công) công bố tác phẩm *Sơ thảo lịch sử phong trào cộng sản Đông Dương*.
 *   **13/04/1933:** Một hạm đội nhỏ của Hải quân Pháp do Trung tá De Lattre chỉ huy rời Sài Gòn để chính thức chiếm hữu quần đảo Trường Sa với các nghi thức truyền thống.
 *   **02/05/1933:** Vua Bảo Đại ra đạo Dụ cải tổ bộ máy Nam triều, lập ra nội các mới gồm các Thượng thư như Phạm Quỳnh, Ngô Đình Diệm.
@@ -1264,6 +1266,7 @@
 *   **14/08/1945:** Mặt trận Quốc gia Thống nhất được thành lập tại Nam Bộ, gồm các đảng phái quốc gia và tôn giáo như Cao Đài, Hòa Hảo.
 *   **16-17/08/1945:** Quốc dân Đại hội họp tại Tân Trào, tán thành chủ trương Tổng khởi nghĩa và bầu ra Ủy ban Dân tộc Giải phóng Việt Nam (tức Chính phủ lâm thời) do Hồ Chí Minh làm Chủ tịch.
 *   **08/1945:** Lê Thị Riêng bắt đầu tham gia cách mạng từ những ngày đầu của Cách mạng tháng Tám, hoạt động dưới vỏ bọc thợ dệt ở xưởng dệt Láng Tròn.
+*   **08/1945:** Đinh Thị Vân, lúc này là cán bộ Việt Minh, đã tích cực vận động quần chúng tham gia tổng khởi nghĩa ở hai huyện Xuân Trường và Giao Thủy (Nam Định). Sau Cách mạng tháng Tám, bà tham gia công tác xây dựng chính quyền mới ở địa phương.
 *   **19/08/1945:** Tổng khởi nghĩa thắng lợi ở Hà Nội (Cách mạng tháng Tám).
 *   **23/08/1945:** Khởi nghĩa thắng lợi ở Huế.
 *   **24/08/1945:** Huỳnh Tấn Phát thiết kế và chỉ đạo xây dựng Kỳ đài tại ngã tư Nguyễn Huệ - Lê Lợi (Sài Gòn) để ghi danh 11 ủy viên Lâm ủy Nam Bộ.
@@ -1315,6 +1318,7 @@
 *   **29/05/1946:** Hội Liên hiệp quốc dân Việt Nam (Liên Việt) được thành lập.
 *   **31/05/1946:** Chủ tịch Hồ Chí Minh lên đường sang Pháp để đàm phán chính thức.
 *   **01/06/1946:** Tại Sài Gòn, Cao ủy D'Argenlieu tuyên bố thành lập "Nước Cộng hòa tự trị Nam Kỳ".
+*   **30/06/1946:** Đinh Thị Vân được kết nạp vào Đảng Cộng sản Đông Dương. Sau đó, bà giữ nhiều chức vụ lãnh đạo, bao gồm Hội trưởng Hội Liên hiệp phụ nữ tỉnh Nam Định (1951-1953).
 *   **06/07/1946:** Hội nghị Fontainebleau khai mạc.
 *   **12/07/1946:** Vụ án phố Ôn Như Hầu xảy ra. Công an xung phong đã khám xét trụ sở của Việt Nam Quốc dân Đảng, phá tan âm mưu lật đổ chính quyền của các thế lực đối lập.
 *   **22/07/1946:** Đảng Xã hội Việt Nam được thành lập, nhằm mục đích đoàn kết giới trí thức yêu nước và dân chủ.
@@ -1452,7 +1456,9 @@
 *   **01/05 - 07/05/1954:** Đợt 3 của chiến dịch, bộ đội tiêu diệt các cứ điểm còn lại. Trong đợt tổng công kích cuối cùng (ngày 06/05), bộ đội Việt Nam đã sử dụng pháo ĐKZ 75mm và 12 dàn hỏa tiễn 6 nòng (Cachiusa) do Trung Quốc và Liên Xô viện trợ, phát huy sức mạnh hỏa lực to lớn. Đêm 06/05, khối bộc phá 1 tấn được điểm hỏa làm nổ tung hầm ngầm trên đồi A1, giúp quân ta làm chủ hoàn toàn cao điểm then chốt này.
 *   **07/05/1954:** Đúng 17 giờ 30 phút, lá cờ "Quyết chiến quyết thắng" tung bay trên nóc hầm De Castries. Tướng De Castries cùng toàn bộ Bộ Tham mưu địch bị bắt sống. **Chiến dịch Điện Biên Phủ toàn thắng**, kết thúc sau 55 ngày đêm chiến đấu anh dũng.
 *   **08/05/1954:** **Hội nghị Giơnevơ** bắt đầu phiên họp đầu tiên bàn về vấn đề lập lại hòa bình ở Đông Dương.
+*   **06/1954:** Đinh Thị Vân được điều động lên công tác tại Cục Nghiên cứu Bộ Tổng tham mưu và được giao nhiệm vụ hoạt động bí mật tại Hà Nội. Bà đã xây dựng được cơ sở tin cậy và cung cấp nhiều tin tức quan trọng trong thời gian "300 ngày tập kết". Thể hiện sự hy sinh to lớn vì cách mạng, bà đã chủ động cưới vợ khác cho chồng để lo toan việc nhà, tạo điều kiện cho mình yên tâm hoàn thành nhiệm vụ.
 *   **10/10/1954:** Quân đội Nhân dân Việt Nam tiến vào tiếp quản Thủ đô Hà Nội.
+*   **10/1954:** Sau Hiệp định Giơnevơ, Đinh Thị Vân nhận lệnh bí mật vào Nam hoạt động, đóng vai "người đi buôn" để xây dựng mạng lưới tình báo ở Sài Gòn. Để tạo vỏ bọc an toàn, cấp trên đã phát thông báo giả rằng bà "phản Đảng, chạy trốn vào Nam" và "tuyên án tử hình vắng mặt".
 *   **16/05/1955:** Quân Pháp rút khỏi Hải Phòng, miền Bắc hoàn toàn được giải phóng, kết thúc 9 năm kháng chiến chống Pháp.
 
 ### **Thời kỳ Chia cắt và Xây dựng Chủ nghĩa Xã hội ở Miền Bắc (1954 - 1960)**
@@ -1518,6 +1524,7 @@
 *   **Cuối năm 1959:** Gia đình Út Tịch trở về Tam Ngãi. Sau phong trào Đồng khởi, bà tích cực tham gia hoạt động quân sự, du kích và binh vận của Mặt trận Dân tộc Giải phóng.
 *   **1959 - 1960:** Phong trào **"Đồng khởi"** bùng nổ mạnh mẽ ở các vùng nông thôn miền Nam, bắt đầu từ Bến Tre, phá vỡ từng mảng lớn bộ máy cai trị của địch ở cơ sở.
 *   **Cuối 1959 - Đầu 1960:** Xứ ủy Nam Bộ sáp nhập Khu Sài Gòn - Chợ Lớn và tỉnh Gia Định thành Khu Sài Gòn - Gia Định (Khu 4/T4). Võ Văn Kiệt được phân công làm Bí thư Khu ủy.
+*   **1959 - 1960:** Mạng lưới tình báo do Đinh Thị Vân phụ trách đã điều tra tỉ mỉ hệ thống phòng ngự của quân đội Sài Gòn ở nam vĩ tuyến 17, cung cấp thông tin quan trọng hỗ trợ cho việc mở đường Trường Sơn.
 *   **01/01/1960:** Theo Sắc lệnh số 362-TTP (ban hành ngày 30/12/1959), chính quyền Sài Gòn chính thức quy định giờ của miền Nam Việt Nam nhanh hơn 60 phút so với múi giờ 7 (tức múi giờ 8). Do đó, Việt Nam sử dụng hai múi giờ khác nhau trong thời kỳ chia cắt.
 *   **17/01/1960:** Cuộc Đồng khởi nổ ra tại ba xã Định Thủy, Phước Hiệp, Bình Khánh thuộc huyện Mỏ Cày, tỉnh Bến Tre, dưới sự lãnh đạo trực tiếp của bà **Nguyễn Thị Định**, sau đó lan rộng ra toàn tỉnh và khắp Nam Bộ.
 *   **23/02/1960:** Thực hiện nghị quyết của Xứ ủy, Quận ủy Củ Chi phát động đồng khởi với lời kêu gọi "nhất tề đứng dậy, diệt tề phá kềm, giải phóng nông thôn".
@@ -1651,6 +1658,7 @@
 *   **17/10/1967:** Trận Ông Thành. Cuộc đụng độ giữa Tiểu đoàn 2, Trung đoàn 28 (Sư tử đen) thuộc Sư đoàn 1 Bộ binh Hoa Kỳ và lực lượng Quân Giải phóng miền Nam Việt Nam (2 tiểu đoàn thuộc Trung đoàn 1, Sư đoàn 9) tại suối Ông Thành (Bình Dương). Quân Giải phóng tổ chức phòng thủ, phục kích và tấn công bất ngờ, tiêu diệt hoàn toàn Đại đội A và gây thiệt hại nặng Đại đội D của Mỹ, khiến 64 lính và sĩ quan Mỹ tử trận (bao gồm cả Trung tá tiểu đoàn trưởng Terry Allen). Trận đánh thể hiện hiệu quả của chiến thuật phòng thủ chủ động và phục kích của Quân Giải phóng, mặc dù phía Mỹ không công bố chi tiết trận đánh này đến công chúng cho đến năm 1991.
 *   **03 - 22/11/1967:** Chiến dịch Đăk Tô - Tân Cảnh. Cuộc đụng độ trực tiếp quy mô lớn giữa Quân Giải phóng miền Nam Việt Nam (chủ lực là Sư đoàn 1) và quân đội Mỹ cùng Việt Nam Cộng hòa tại Kon Tum. Bằng chiến thuật "điệu hổ ly sơn", Quân Giải phóng nhử Lữ đoàn 173 dù và Sư đoàn 4 Mỹ vào bẫy tại khu vực điểm cao 875. Bất chấp việc Mỹ huy động hỏa lực phi pháo cực lớn (hơn 150.000 viên đạn pháo và 10.000 tấn bom), Quân Giải phóng áp dụng chiến thuật "vận động tiến công kết hợp chốt", gây thương vong lớn cho Mỹ. Trận đánh chứng minh Quân Giải phóng hoàn toàn có khả năng đánh bại quân viễn chinh Mỹ, làm thất bại ý đồ chia cắt chiến dịch của đối phương và làm suy kiệt sinh lực lính Mỹ.
 *   **01/1968:** Hội nghị Trung ương lần thứ 14 thông qua nghị quyết về Tổng công kích và nổi dậy (Tết Mậu Thân), giáng đòn quyết định vào ý chí xâm lược của Mỹ.
+*   **1968:** Trong cuộc Tổng tiến công và nổi dậy Tết Mậu Thân, nữ tình báo Đinh Thị Vân trực tiếp hướng dẫn chuẩn bị kế hoạch "Vụ Mùa" ở Sài Gòn, chuẩn bị giao liên dẫn đường cho lực lượng bên ngoài vào, cung cấp tin tức kịp thời và giữ bí mật tuyệt đối mạng lưới tình báo.
 *   **20/01 - 15/07/1968:** Chiến dịch Đường 9 - Khe Sanh. Quân Giải phóng miền Nam Việt Nam tiến công tập đoàn phòng ngự Khe Sanh của Mỹ tại Quảng Trị. Nhằm mục đích nghi binh cho cuộc Tổng tiến công Tết Mậu Thân, Quân Giải phóng vây hãm chặt căn cứ Khe Sanh (với 17.000 quân bao vây), buộc Mỹ phải huy động không quân chiến lược ném hơn 114.000 tấn bom để chi viện. Lần đầu tiên, Quân Giải phóng đưa xe tăng PT-76 tham chiến, tiêu diệt cứ điểm Làng Vây (07/02). Dù chịu thương vong, chiến dịch đã giam chân một lực lượng lớn quân Mỹ, phá hủy trung tâm chỉ huy Hàng rào điện tử McNamara, và cuối cùng buộc quân Mỹ phải rút bỏ Khe Sanh vào tháng 7/1968. Đây là lần đầu tiên quân đội Mỹ phải rút bỏ một căn cứ quân sự trọng yếu do áp lực của đối phương.
 *   **Đêm 30 rạng 31/01/1968:** Cuộc Tổng tiến công và nổi dậy Tết Mậu Thân 1968 đồng loạt nổ ra trên toàn miền Nam, đánh vào các thành phố, thị xã và các cơ quan đầu não của địch, làm lung lay ý chí xâm lược của Mỹ.
 *   **31/01/1968 (Mùng 2 Tết Mậu Thân):** Nữ chiến sĩ cách mạng Lê Thị Riêng bị chính quyền Sài Gòn thủ tiêu tại bốt Bà Hòa (Chợ Lớn). Trong phút hy sinh, bà đã dũng cảm lấy thân mình che đạn cứu sống người đồng đội Phùng Ngọc Anh và hát vang bài Quốc tế ca.
@@ -1672,6 +1680,7 @@
 *   **25/01/1969:** Khai mạc phiên họp toàn thể đầu tiên của Hội nghị bốn bên về Việt Nam tại Paris.
 *   **25/02/1969:** Biệt kích SEAL của Mỹ do Bob Kerrey chỉ huy thảm sát 21 thường dân tại Thạnh Phong (Bến Tre).
 *   **18/03/1969 - 26/05/1970:** Mỹ tiến hành Chiến dịch Menu, sử dụng máy bay B-52 ném bom rải thảm bí mật vào sâu trong lãnh thổ Campuchia nhằm tiêu diệt căn cứ Trung ương Cục miền Nam.
+*   **03/1969:** Do sức khỏe giảm sút sau những năm tháng bị địch bắt giam, tra tấn dã man và hoạt động căng thẳng, Đinh Thị Vân được điều ra Hà Nội để điều trị và phân công làm công tác huấn luyện tình báo.
 *   **17/04/1969:** Lính Mỹ (lực lượng Tiger Force) gây ra vụ thảm sát Khánh Giang - Trường Lệ (Nghĩa Hành, Quảng Ngãi), sát hại 63 thường dân.
 *   **10 - 20/05/1969:** Trận chiến Đồi A Bia (Cao điểm 937), báo chí Mỹ gọi là "Đồi thịt băm" (Hamburger Hill), diễn ra ác liệt tại thung lũng A Sầu, A Lưới (Thừa Thiên). Quân đội Mỹ huy động lực lượng tương đương 2 sư đoàn (chủ công là Sư đoàn Không vận 101) cùng hỏa lực khổng lồ (ném 890 tấn bom nổ và 115 tấn bom napalm, bắn hơn 19.000 quả đạn pháo) nhằm chiếm đỉnh đồi do 2 tiểu đoàn Quân Giải phóng miền Nam Việt Nam chốt giữ. Dựa vào địa thế hiểm trở và công sự vững chắc, Quân Giải phóng kiên cường bám chốt, bẻ gãy hàng chục đợt tiến công bộ binh của Mỹ, gây thương vong lớn (Mỹ thừa nhận 72 chết, 372 bị thương). Đêm 18/05, sau khi hoàn thành mục tiêu tiêu diệt sinh lực địch, Quân Giải phóng chủ động rút lui. Đến chiều 20/05 quân Mỹ mới lên được đỉnh đồi nhưng rồi lại rút bỏ một tháng sau đó (05/06). Sự khốc liệt và vô nghĩa của trận đánh đã làm rung chuyển chính trường Mỹ, đẩy nhanh việc chính quyền Nixon chấm dứt chiến lược "áp lực tối đa", đẩy nhanh thực hiện "Việt Nam hóa chiến tranh" và rút quân viễn chinh.
 *   **25/05/1969:** Tổng thống Nguyễn Văn Thiệu thành lập Mặt trận Quốc gia Dân chủ Xã hội để tập hợp lực lượng chính trị tại miền Nam.
@@ -1687,6 +1696,7 @@
 *   **30/04 - 30/06/1970:** Hơn 10 vạn quân Mỹ và quân đội Sài Gòn mở Chiến dịch Campuchia, thực hiện 23 cuộc hành quân ồ ạt đánh sâu vào đất Campuchia từ 30 đến 80 km nhằm truy tìm và tiêu diệt cơ quan đầu não Trung ương Cục miền Nam.
 *   **02/07/1970:** Bộ Chính trị ra Nghị quyết số 200-NQ/TW thành lập Hội đồng chi viện tiền tuyến ở Trung ương để huy động sức người, sức của đáp ứng yêu cầu của chiến trường.
 *   **1970 - 1974:** Chiến sĩ biệt động Trần Văn Lai bị địch bắt và tra tấn dã man hai lần ở Quảng Ngãi. Dưới căn cước giả, ông vẫn kiên trung giữ vững bí mật, bảo vệ an toàn mạng lưới cách mạng.
+*   **25/08/1970:** Đinh Thị Vân được Nhà nước phong tặng danh hiệu cao quý: Anh hùng Lực lượng vũ trang nhân dân vì những cống hiến xuất sắc cho ngành tình báo quân sự Việt Nam.
 *   **Những năm 1970:** Cuba bắt đầu dành nhiều học bổng đào tạo bác sĩ, dược sĩ, kỹ sư nông nghiệp cho Việt Nam. Hàng nghìn sinh viên Việt Nam đã được đào tạo tại Cuba, trong đó nhiều người trở thành chuyên gia đầu ngành.
 *   **08/02 - 24/03/1971:** Chiến dịch Đường 9 - Nam Lào (Lam Sơn 719). Quân lực Việt Nam Cộng hòa, yểm trợ bởi 10.000 quân Mỹ cùng 1.200 máy bay và pháo binh hạng nặng, huy động hơn 21.000 quân tinh nhuệ nhất (Dù, Thủy quân lục chiến, Thiết giáp) tiến công sang Hạ Lào nhằm cắt đứt đường mòn Hồ Chí Minh tại Xê-pôn. Quân Giải phóng miền Nam Việt Nam (với 60.000 quân) đã thực hiện chiến dịch phản công hiệp đồng binh chủng quy mô lớn chưa từng có. Nổi bật là trận đại phá Bản Đông (12/03 - 20/03), Quân Giải phóng đập tan Lữ đoàn 1 Dù và 2 thiết đoàn VNCH. Chiến dịch kết thúc với thất bại thảm hại của quân đội Sài Gòn (thương vong trên 1.500 người, hàng trăm bị bắt; mất 71 xe tăng, 163 xe thiết giáp, hơn 100 trực thăng bị phá hủy và hơn 600 chiếc bị bắn hỏng). Thắng lợi này đánh dấu sự trưởng thành vượt bậc của Quân Giải phóng, làm phá sản mục tiêu cắt đứt đường Trường Sơn và giáng đòn chí mạng vào chiến lược "Việt Nam hóa chiến tranh" của Mỹ.
 *   **1971:** Bà Nguyễn Thị Bình, Trưởng đoàn đàm phán của Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam tại Hội nghị Paris, sang thăm Iraq và được chính phủ cùng nhân dân Iraq đón tiếp hết sức trọng thị.
@@ -1915,6 +1925,7 @@
 *   **12/07/1995:** Tổng thống Mỹ Bill Clinton và Thủ tướng Việt Nam Võ Văn Kiệt đồng thời tuyên bố **bình thường hóa quan hệ ngoại giao** giữa hai nước.
 *   **28/07/1995:** Việt Nam chính thức được kết nạp làm **thành viên thứ 7** của Hiệp hội các quốc gia Đông Nam Á (ASEAN) tại Brunei.
 *   **1995:** Trong bối cảnh Iraq bị Mỹ và quốc tế cấm vận nghiêm ngặt, Đại sứ Việt Nam tại Iraq Nguyễn Quang Khai đã thuyết phục Công ty Lương thực miền Bắc (Vinafood 1) bán chịu một tàu gạo (25.000 - 30.000 tấn) cho Iraq. Sự kiện này mở đầu cho việc Việt Nam trở thành nhà cung cấp gạo chủ chốt cho Iraq thông qua chương trình "Đổi dầu lấy lương thực" của Liên Hợp Quốc.
+*   **Cuối năm 1995:** Đại tá, Anh hùng tình báo Đinh Thị Vân từ trần tại Hà Nội, hưởng thọ 79 tuổi. Bà là một huyền thoại của ngành tình báo quốc phòng, người đã hy sinh hạnh phúc riêng tư vì Tổ quốc, và sau này được đặt tên cho các con đường tại Nam Định và Đà Nẵng.
 
 ### **Thời kỳ Đẩy mạnh Công nghiệp hóa, Hiện đại hóa (1996 - 2000)**
 
