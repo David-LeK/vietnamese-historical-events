@@ -1225,6 +1225,7 @@
 *   **28/09/1939:** Toàn quyền Đông Dương ra nghị định đặt Đảng Cộng sản Đông Dương ra ngoài vòng pháp luật, bắt đầu thời kỳ khủng bố trắng.
 *   **06-08/11/1939:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ VI tại Bà Điểm (Hóc Môn), quyết định chuyển hướng chiến lược, đặt nhiệm vụ giải phóng dân tộc lên hàng đầu và thành lập Mặt trận Dân tộc Thống nhất Phản đế Đông Dương.
 *   **10/12/1939:** Đại Việt Quốc dân Đảng được thành lập.
+*   **1939 - 1940:** Bùi Văn Thuyên (còn gọi là Hai Thiêng) sinh ra trong một gia đình nông dân nghèo tại Châu Thành, Tây Ninh. Xuất thân từ một gia đình giàu truyền thống yêu nước có cha và anh tham gia kháng chiến chống Pháp, ông sau này trở thành một chiến sĩ du kích huyền thoại, tham gia hơn 1.000 trận đánh và mang trên mình 72 vết thương trong suốt cuộc kháng chiến chống Mỹ.
 *   **01/02/1940:** Nguyễn Văn Trỗi sinh tại làng Thanh Quýt, huyện Điện Bàn, tỉnh Quảng Nam. Ông sau này trở thành chiến sĩ biệt động Sài Gòn quả cảm, người có khí tiết lẫm liệt trước pháp trường trở thành biểu tượng của lòng yêu nước.
 *   **22/06/1940:** Chính phủ Pháp đầu hàng phát xít Đức.
 *   **1940:** Kiến trúc sư **Huỳnh Tấn Phát** mở văn phòng kiến trúc sư tư đầu tiên của người Việt ở Sài Gòn.
@@ -1508,6 +1509,7 @@
 *   **22/10/1956:** Việt Nam Cộng hòa ban hành sắc lệnh sáp nhập quần đảo Hoàng Sa vào tỉnh Phước Tuy.
 *   **26/10/1956:** Ngô Đình Diệm ban hành hiến pháp, chính thức thành lập chính thể "Việt Nam Cộng hòa".
 *   **22/11/1956:** Thủ tướng Quốc vụ viện Trung Quốc Chu Ân Lai sang thăm chính thức Việt Nam, tuyên bố hoàn toàn ủng hộ cuộc đấu tranh của nhân dân miền Nam Việt Nam và lên án mạnh mẽ sự can thiệp của Mỹ.
+*   **1957:** Tỉnh đội Tây Ninh cài Bùi Văn Thuyên (khi đó 17 tuổi) vào làm điệp báo bên trong căn cứ Tua Hai của Việt Nam Cộng hòa. Bằng sự khôn khéo, ông đã lấy được lòng tin của viên trung tá đồn trưởng, trở thành con nuôi và nắm rõ toàn bộ cách bố trí hỏa lực, kho đạn và lối đi trong căn cứ.
 *   **20/03/1957:** Chính phủ Tiệp Khắc ra tuyên bố hoàn toàn ủng hộ lập trường của Chính phủ Việt Nam, đòi thi hành nghiêm chỉnh Hiệp định Giơ-ne-vơ. Tiếp theo đó, Chính phủ Ba Lan (06/04/1957) và CHDC Đức (21/01/1959) cũng ra các tuyên bố đoàn kết và ủng hộ tương tự.
 *   **Giữa năm 1957:** Trung ương điều động đồng chí Lê Duẩn ra Hà Nội công tác bên cạnh Chủ tịch Hồ Chí Minh để chuẩn bị cho Đại hội III của Đảng và hoạch định chiến lược cách mạng cả nước.
 *   **17/05/1957:** Bộ Chính trị quyết định sáp nhập Ban Miền Nam và Ban Thống nhất thành Ban Thống nhất Trung ương để giúp Trung ương chỉ đạo công tác đấu tranh thống nhất nước nhà.
@@ -1529,6 +1531,8 @@
 *   **1959 - 1960:** Mạng lưới tình báo do Đinh Thị Vân phụ trách đã điều tra tỉ mỉ hệ thống phòng ngự của quân đội Sài Gòn ở nam vĩ tuyến 17, cung cấp thông tin quan trọng hỗ trợ cho việc mở đường Trường Sơn.
 *   **01/01/1960:** Theo Sắc lệnh số 362-TTP (ban hành ngày 30/12/1959), chính quyền Sài Gòn chính thức quy định giờ của miền Nam Việt Nam nhanh hơn 60 phút so với múi giờ 7 (tức múi giờ 8). Do đó, Việt Nam sử dụng hai múi giờ khác nhau trong thời kỳ chia cắt.
 *   **17/01/1960:** Cuộc Đồng khởi nổ ra tại ba xã Định Thủy, Phước Hiệp, Bình Khánh thuộc huyện Mỏ Cày, tỉnh Bến Tre, dưới sự lãnh đạo trực tiếp của bà **Nguyễn Thị Định**, sau đó lan rộng ra toàn tỉnh và khắp Nam Bộ.
+*   **Đêm 25 rạng sáng 26/01/1960:** Dựa trên thông tin tình báo do Bùi Văn Thuyên cung cấp từ bên trong, lực lượng cách mạng (hơn một tiểu đoàn) đã bất ngờ tấn công và diệt gọn căn cứ Tua Hai (nơi đóng quân của Trung đoàn 3, Sư đoàn 21 VNCH). Quân cách mạng loại khỏi vòng chiến đấu hơn 500 tên địch, bắt sống trên 700 tên và thu 1.500 khẩu súng. Trận đánh lịch sử này là một trong những phát súng mở màn cho phong trào Đồng khởi ở Nam Bộ.
+*   **03/02/1960:** Bị địch nghi ngờ sau trận Tua Hai, Bùi Văn Thuyên rút ra vùng căn cứ cách mạng. Ông trở thành chiến sĩ đơn vị C40 và được cử đi học lớp huấn luyện đặc công.
 *   **23/02/1960:** Thực hiện nghị quyết của Xứ ủy, Quận ủy Củ Chi phát động đồng khởi với lời kêu gọi "nhất tề đứng dậy, diệt tề phá kềm, giải phóng nông thôn".
 *   **09/1960:** **Đại hội đại biểu toàn quốc lần thứ III** của Đảng Lao động Việt Nam họp tại Hà Nội, đề ra hai nhiệm vụ chiến lược:
     *   Tiến hành cách mạng xã hội chủ nghĩa ở miền Bắc.
@@ -1577,6 +1581,7 @@
 *   **1963 - 1968:** Trần Văn Lai hoạt động biệt động tại Sài Gòn dưới vỏ bọc nhà thầu khoán. Ông xâm nhập các cơ quan đầu não như Dinh Độc Lập và cơ quan viện trợ hậu cần Mỹ (USOM), thu thập tình báo và bí mật vẽ bản đồ hệ thống cống ngầm Sài Gòn cho Quân Giải phóng.
 *   **01/11/1963:** Nhóm tướng lĩnh do Dương Văn Minh cầm đầu, được Mỹ hậu thuẫn, tiến hành đảo chính lật đổ và giết chết anh em Ngô Đình Diệm - Ngô Đình Nhu.
 *   **22/11/1963:** Tổng thống Mỹ Kennedy bị ám sát, Phó Tổng thống Lyndon B. Johnson lên thay, chủ trương đẩy mạnh chiến tranh ở Việt Nam.
+*   **1964 - 1965:** Bùi Văn Thuyên được điều về công tác tại Xã đội Thái Bình, Tây Ninh (làm Xã đội phó năm 1964, sau là Xã đội trưởng). Giữa năm 1965, khi Mỹ ồ ạt đổ quân và xây dựng căn cứ Trảng Lớn, ông đã chỉ huy du kích đánh trận đầu diệt 8 lính Mỹ để xốc lại tinh thần quân dân. Với phương châm "bám sát nách Mỹ để đánh Mỹ", ông đã chỉ huy hàng trăm trận trong 6 năm bám trụ, phá hủy 21 xe bọc thép và bắn rơi 7 máy bay.
 *   **1964:** Anh hùng Núp (Đinh Núp) sang thăm Cuba. Lãnh tụ Fidel Castro đã gửi tặng Chủ tịch Hồ Chí Minh một hộp xì gà Cuba và nhờ Anh hùng Núp chuyển lời khẳng định Cuba luôn sát cánh cùng Việt Nam.
 *   **30/01/1964:** Tướng Nguyễn Khánh thực hiện cuộc "Chỉnh lý" lật đổ chính quyền quân sự của Dương Văn Minh, tiếp tục gây bất ổn chính trị tại Sài Gòn.
 *   **03/1964:** Mỹ vạch ra **Kế hoạch Johnson - McNamara**, tăng cường viện trợ, đưa thêm cố vấn, đẩy mạnh các hoạt động phá hoại miền Bắc.
@@ -1682,6 +1687,7 @@
 *   **31/03/1968:** Tổng thống Mỹ Johnson tuyên bố ngừng ném bom hạn chế miền Bắc (từ vĩ tuyến 20 trở ra) và chấp nhận đàm phán.
 *   **20/04/1968:** Liên minh các Lực lượng Dân tộc, Dân chủ và Hòa bình Việt Nam được thành lập tại vùng giải phóng Tây Ninh, tập hợp trí thức và tư sản dân tộc ở đô thị.
 *   **13/05/1968:** Cuộc đàm phán chính thức giữa phái đoàn Việt Nam Dân chủ Cộng hòa và Mỹ bắt đầu tại Paris.
+*   **19/08/1968:** Bùi Văn Thuyên chính thức được kết nạp vào Đảng Cộng sản Việt Nam.
 *   **08/1968:** Trung ương Cục quyết định thành lập lại Thành ủy Sài Gòn - Gia Định (mật danh là Bình Giã). Căn cứ Thành ủy chuyển lên Ba Thu (vùng biên giới).
 *   **11/10/1968 (hoặc 13/10/1968):** Mẹ Suốt anh dũng hy sinh trong một trận bom bi oanh tạc của không quân Mỹ tại bến đò Bảo Ninh khi đang làm nhiệm vụ vận chuyển lương thực. Sau đó, bà được Nhà nước công nhận là liệt sĩ.
 *   **01/11/1968:** Mỹ buộc phải chấm dứt hoàn toàn và không điều kiện việc ném bom, bắn phá miền Bắc. Miền Bắc đánh thắng cuộc chiến tranh phá hoại lần thứ nhất, bắn rơi 3.234 máy bay Mỹ.
@@ -1703,12 +1709,14 @@
 *   **Cuối tháng 7/1969:** Thiều Văn Chỏi cải trang quân phục lính bảo an tấn công đồn Vàm Bưng và đồn Mang Cá khi địch đang tiệc tùng, diệt 5 tên, làm bị thương 3 tên, thu 6 súng, khiến quân địch hoang mang lập miếu thờ "Ông Thần Chỏi".
 *   **02/09/1969:** Chủ tịch Hồ Chí Minh từ trần. Toàn Đảng, toàn dân, toàn quân biến đau thương thành hành động cách mạng, quyết tâm thực hiện Di chúc của Người.
 *   **04/09/1969:** Sau khi Chủ tịch Hồ Chí Minh từ trần, Fidel Castro và Chủ tịch nước Cuba Osvaldo Dorticós Torrado đã gửi bức điện chia buồn đánh giá rất cao những phẩm chất cách mạng và tài năng lãnh đạo của Người.
+*   **04/10/1969 (hoặc cuối 1969/tháng 10/1970 theo các tài liệu khác nhau):** **Trận Suối Sóc (bàu Sa Nghe).** Bùi Văn Thuyên cùng dân quân tên Chiến đụng độ lực lượng lớn quân Mỹ đi càn. Khi đồng đội bị thương, ông đã một mình chiến đấu từ sáng đến 5 giờ chiều. Luân phiên sử dụng 7 loại vũ khí khác nhau (như AK, B40, M79, đại liên), ông liên tục cơ động, bẻ gãy nhiều đợt tiến công và tiêu diệt hàng trăm lính Mỹ (được ghi nhận là 360 tên). Năm 1995, phái đoàn MIA của Mỹ khi trở lại chiến trường này đã thừa nhận tổn thất nặng nề và vô cùng kinh ngạc khi biết họ chỉ đối đầu với một người duy nhất.
 *   **21/10/1969:** Việt Nam Cộng hòa ban hành nghị định sáp nhập đơn vị hành chính Định Hải (quần đảo Hoàng Sa) vào xã Hòa Long, tiếp tục quản lý hành chính đối với quần đảo.
 *   **17/11/1969:** Vào lúc 8 giờ sáng, Thiều Văn Chỏi một mình phục kích và truy kích một trung đội địch 27 lính tại cánh đồng Bưng Sấu, tiêu diệt 13 tên (có 1 sĩ quan), làm bị thương 8 tên, bắt sống 2 tên. Trận đánh "1 chọi 27" lừng lẫy khiến lính đồn Vàm Bưng lập miếu thờ "Ông Thần Chỏi" ngay trước cửa đồn để cầu an.
 *   **06/03/1970:** Bộ Chính trị ra Nghị quyết về cuộc vận động nâng cao chất lượng đảng viên và kết nạp đảng viên (Lớp Hồ Chí Minh).
 *   **12/03/1970:** Thủ tướng Campuchia Lon Nol ra lệnh đóng cửa cảng Sihanoukville và gửi tối hậu thư yêu cầu toàn bộ lực lượng quân đội Việt Nam phải rút khỏi Campuchia trong vòng 72 giờ.
 *   **18/03/1970:** Tướng Lon Nol, được Mỹ hậu thuẫn, tiến hành đảo chính lật đổ chính phủ trung lập của Hoàng thân Norodom Sihanouk, chính thức kéo Campuchia vào vòng xoáy của cuộc Chiến tranh Đông Dương lần thứ hai.
 *   **04 - 05/1970:** Chính quyền Lon Nol tiến hành các cuộc thảm sát tàn bạo nhằm vào kiều dân Việt Nam tại Campuchia (ở Prasot, Takeo, Neak Loeang, Svay Rieng...). Hàng trăm đến hàng ngàn người Việt bị sát hại dã man, thi thể bị ném xuống sông Mê Kông trôi dạt về tận Đồng Tháp, An Giang. Chính quyền Sài Gòn có đưa tàu sang đón người tị nạn (13/5) nhưng hầu như không lên tiếng phản đối mạnh mẽ các vụ thảm sát.
+*   **04/1970:** **Trận Bàu Sen.** Bùi Văn Thuyên cùng hai đồng đội (anh Sơn và Mười Quảng) lập tổ "tam tam" đánh quân Mỹ. Bị thương nặng lòi ruột ra ngoài và bất tỉnh, khi tỉnh lại, ông tự tay nhét ruột vào, băng bó vết thương rồi dùng súng M79 tiêu diệt tại chỗ 3 tên lính Mỹ đang xông tới. Sau đó, ông dùng khẩu súng làm gậy chống để lết về đơn vị an toàn.
 *   **24-25/04/1970:** Hội nghị cấp cao nhân dân ba nước Đông Dương được tổ chức, củng cố liên minh chiến đấu chống kẻ thù chung.
 *   **30/04 - 30/06/1970:** Hơn 10 vạn quân Mỹ và quân đội Sài Gòn mở Chiến dịch Campuchia, thực hiện 23 cuộc hành quân ồ ạt đánh sâu vào đất Campuchia từ 30 đến 80 km nhằm truy tìm và tiêu diệt cơ quan đầu não Trung ương Cục miền Nam.
 *   **02/07/1970:** Bộ Chính trị ra Nghị quyết số 200-NQ/TW thành lập Hội đồng chi viện tiền tuyến ở Trung ương để huy động sức người, sức của đáp ứng yêu cầu của chiến trường.
@@ -1723,6 +1731,7 @@
 *   **13/07/1971:** Bộ trưởng Ngoại giao Việt Nam Cộng hòa Trần Văn Lắm tái khẳng định chủ quyền của Việt Nam đối với các quần đảo tại một hội nghị quốc tế ở Manila.
 *   **16/07/1971:** Tân Hoa Xã của Trung Quốc lên án mạnh mẽ việc Philippin chiếm đóng một số đảo ở quần đảo Trường Sa và tái khẳng định các yêu sách của Trung Quốc đối với khu vực này.
 *   **12/1971:** Đại hội lần thứ ba của Mặt trận Tổ quốc Việt Nam được tổ chức tại Hà Nội.
+*   **20/12/1971:** Tại Đại hội Anh hùng Lực lượng vũ trang nhân dân do Bộ Chỉ huy Miền tổ chức, Bùi Văn Thuyên được Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam tuyên dương danh hiệu Anh hùng Lực lượng vũ trang nhân dân vì những thành tích đặc biệt xuất sắc, mưu trí và dũng cảm trong chiến đấu.
 *   **30/03/1972 - 31/01/1973:** Chiến dịch Xuân - Hè 1972 nổ ra với ba đòn tiến công chiến lược hiệp đồng binh chủng quy mô lớn của Quân Giải phóng miền Nam Việt Nam trên ba hướng: Trị - Thiên, Bắc Tây Nguyên và miền Đông Nam Bộ (Chiến dịch Nguyễn Huệ). Quân Giải phóng huy động hơn 200.000 quân chính quy cùng hàng trăm xe tăng, đại bác. Tại Trị - Thiên, Quân Giải phóng chọc thủng phòng tuyến Đường 9, đánh tan Sư đoàn 3 VNCH, giải phóng tỉnh Quảng Trị (02/05). Tại Đông Nam Bộ, đánh chiếm Lộc Ninh (07/04), bao vây An Lộc và chốt chặn Đường 13. Cuộc tiến công giáng đòn nặng nề vào chiến lược "Việt Nam hóa chiến tranh", mở rộng 10-20% vùng kiểm soát của Chính phủ Cách mạng lâm thời, tạo vị thế lớn tại Hội nghị Paris.
 *   **06/04/1972:** Mỹ tiến hành cuộc chiến tranh phá hoại miền Bắc lần thứ hai (Chiến dịch Linebacker I).
 *   **23 - 24/04/1972:** Trận Đăk Tô - Tân Cảnh (trong khuôn khổ Chiến dịch Bắc Tây Nguyên). Mở màn chiến dịch, Quân Giải phóng sử dụng xe tăng T-54 và tên lửa chống tăng AT-3 Sagger (B-72) lần đầu tiên trên chiến trường Tây Nguyên. Bằng chiến thuật cơ động nghi binh lừa địch tập trung phòng ngự phía Tây, Quân Giải phóng bất ngờ thọc sâu tấn công từ phía Đông, nhanh chóng tiêu diệt Sở chỉ huy Sư đoàn 22 Quân lực Việt Nam Cộng hòa. Xe tăng 377 của Quân Giải phóng một mình bắn hạ 7 xe tăng M-41 của địch. Chiến thắng làm sụp đổ cụm phòng ngự mạnh nhất của đối phương ở Bắc Tây Nguyên, uy hiếp trực tiếp thị xã Kon Tum.
@@ -1929,6 +1938,7 @@
 *   **06/1993:** Hội nghị lần thứ 5 Ban Chấp hành Trung ương Đảng (khóa VII) ra nghị quyết về tiếp tục đổi mới và phát triển kinh tế - xã hội nông thôn.
 *   **02/07/1993:** Mỹ tuyên bố không còn phản đối các nước và tổ chức tài chính quốc tế cho Việt Nam vay vốn để trả nợ, một bước đi quan trọng tiến tới dỡ bỏ cấm vận.
 *   **11/12/1993:** Quần thể di tích Cố đô Huế được công nhận là Di sản Văn hóa Thế giới.
+*   **1994:** Mẹ của Bùi Văn Thuyên là bà Lê Thị Mới - người đã có 5 người con hy sinh trong các cuộc kháng chiến - được Nhà nước Việt Nam tuyên dương danh hiệu "Bà mẹ Việt Nam anh hùng" trong đợt đầu tiên.
 *   **Đầu 1994:** Các hoạt động thử nghiệm kết nối internet đã bắt đầu, với sự hợp tác giữa các nhà khoa học Việt Nam và Úc.
 *   **20-25/01/1994:** Hội nghị đại biểu toàn quốc giữa nhiệm kỳ của Đảng (khóa VII) xác định bốn nguy cơ lớn đối với đất nước và đề ra nhiệm vụ thúc đẩy công nghiệp hóa, hiện đại hóa.
 *   **03/02/1994:** Tổng thống Mỹ Bill Clinton tuyên bố **bãi bỏ hoàn toàn lệnh cấm vận thương mại** đối với Việt Nam.
