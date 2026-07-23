@@ -1,4 +1,4 @@
-### **Prehistoric and Protohistoric Period**
+### **Prehistoric and Protohistoric Period (Before 800 BC)**
 
 *   **Approximately 534,000 - 400,000 years ago:** Traces of Ape-man (Homo Erectus) existed in Vietnam, typically represented by tooth fossils found in Tham Khuyen and Tham Hai (Lang Son).
 *   **Approximately 300,000 years ago:** The existence of Ape-man is evidenced by stone tools at the Nui Do archaeological site (Thanh Hoa).
@@ -20,13 +20,13 @@
 *   **1110 BC:** According to ancient records, Viet Thuong envoys offered white pheasants to the Zhou dynasty.
 *   **Approximately 1,100 - 700 BC:** Go Mun Culture period.
 *   **Approximately 1,000 BC - 200 AD:** Sa Huynh Culture period (Central Vietnam), famous for jar burials and early glass-making techniques.
+*   **Approximately 8th century BC - 2nd century AD:** Dong Son Culture period.
+
+### **Nation Building and Northern Domination Period (800 BC - 938)**
+
+*   **7th century BC:** According to *Viet su luoc*, the Van Lang nation was born.
 *   **Approximately 500 BC:** Dong Nai Culture period (Southeast region), a metallurgical culture connecting the Bronze and Iron Ages.
 *   **Around the 3rd - 2nd century BC:** Buddhism was introduced to Vietnam by sea from India. This was the earliest religion to arrive and has been localized, becoming a dominant ideology in national culture throughout many historical periods.
-
-### **Nation Building and Northern Domination Period**
-
-*   **Approximately 8th century BC - 2nd century AD:** Dong Son Culture period.
-*   **7th century BC:** According to *Viet su luoc*, the Van Lang nation was born.
 *   **258 BC:** An Duong Vuong (Thuc Phan) annexed the Van Lang nation, ending the era of the Hung Kings.
 *   **257 BC:** An Duong Vuong changed the national title to Au Lac, moving the capital to Phong Khe (Co Loa).
 *   **255 BC:** An Duong Vuong constructed the Loa Thanh (Co Loa Citadel).
@@ -120,7 +120,7 @@
 *   **Dec. 937:** Ngo Quyen marched from Ai Chau to the North to punish Kieu Cong Tien.
 *   **Late Winter 938:** Battle of Bach Dang River. Ngo Quyen used iron-tipped stakes hidden under high tide to impale Southern Han ships when the tide receded. Southern Han commander Luu Hoang Thao was killed, and over half the 20,000 Han troops died. This decisive victory ended over 1000 years of Northern domination.
 
-### **Independence Period (Ngo - Dinh - Early Le)**
+### **Early Independence Period (Ngo - Dinh - Early Le, 939 - 1009)**
 
 *   **939 (Spring):** Ngo Quyen proclaimed himself king, established the Ngo dynasty, and set the capital at Co Loa, officially ushering in an era of independence and autonomy.
 *   **944:** Ngo Quyen passed away. His brother-in-law, Duong Tam Kha, usurped the throne from Ngo Quyen's son Ngo Xuong Ngap, proclaiming himself Binh Vuong.
@@ -161,10 +161,10 @@
 *   **996:** Le Dai Hanh received Song envoy Li Ruozhuo, continuing to assert independence and dismissing responsibility for border raids.
 *   **1005:** Le Dai Hanh passed away. After internal strife, Le Long Dinh killed his brother Le Long Viet to seize the throne.
 *   **Jun. 1006:** The Song Emperor refused a petition by local official Ling Ce (Lang Sach) to invade Vietnam during the turmoil of Le Long Dinh's reign, preferring to maintain peace.
+
+### **Dai Viet Period - Ly Dynasty (1009 - 1225)**
+
 *   **1009:** King Le Long Dinh ordered the digging of canals, road construction, and the erection of milestones to mark distances in the Chau Ai region (Thanh Hoa), facilitating transport.
-
-### **Dai Viet Period (Ly Dynasty, 1009 - 1225)**
-
 *   **1009:** Before Ly Cong Uan's ascension, Zen Master Van Hanh issued prophecies regarding the fall of the Le dynasty and the rise of the Ly dynasty.
 *   **Nov. 21, 1009:** Le Long Dinh (Le Ngoa Trieu) passed away. Ly Cong Uan was enthroned as king (Ly Thai To), founding the Ly dynasty.
 *   **Jul. 1010:** Ly Thai To issued the "Royal Edict on the Transfer of the Capital," moving the capital from Hoa Lu to Dai La Citadel and renaming it Thang Long. Hoa Lu was renamed Truong Yen prefecture.
@@ -241,18 +241,20 @@
 *   **1210:** Ly Cao Tong passed away, Ly Hao Sam ascended the throne (Ly Hue Tong). The power of the Tran clan grew stronger.
 *   **1211:** Ly Hue Tong officially invested Tran Thi Dung as the Queen Consort (Nguyen Phi), marking the Tran clan's deep entrenchment in the royal court's power structure.
 *   **Jun. 1225:** Ly Hue Tong was ill and had no son, so he passed the throne to his second daughter, Ly Thien Hinh, or Ly Chieu Hoang (7 years old). She became the first and only female monarch in Vietnamese history.
+
+### **Dai Viet Period - Tran Dynasty (1226 - 1400)**
+
 *   **1226:** Prince Ly Long Tuong, a son of King Ly Anh Tong, left the country with his followers to seek refuge in Goryeo (Korea), becoming the ancestor of the Ly clan in Korea.
 *   **Jan. 10, 1226:** Under the arrangement of Tran Thu Do, Ly Chieu Hoang ceded the throne to her husband, Tran Canh (Tran Thai Tong). The Ly dynasty ended.
-
-### **Dai Viet Period (Tran Dynasty, 1225 - 1400)**
-
 *   **Aug. 1226:** Tran Thu Do forced Ly Hue Tong (who had become a monk) to commit suicide at Chan Giao Pagoda.
 *   **1229:** The Song dynasty officially recognized Tran Thai Tong as the King of An Nam.
 *   **1230:** The law codes Quoc trieu thong che and Quoc trieu thuong le were promulgated.
+*   **1232:** The first Confucian civil service examination of the Tran dynasty was organized during the reign of Emperor Tran Thai Tong. The regulation dividing successful candidates into three tiers (Tam giap) was established for the first time.
 *   **Apr. 1232:** The Tran court, under Tran Thu Do's directive, ordered the descendants of the Ly clan to change their surname to "Nguyen" to prevent any attempts to restore the former dynasty.
 *   **1237:** The Tran Lieu rebellion occurred after Tran Thu Do forced King Tran Thai Tong to marry his older brother's wife, Princess Thuan Thien.
 *   **1242:** The court carried out administrative reforms, dividing the country into 12 routes (lo).
 *   **1247:** Nguyen Hien passed the imperial examination as Trang Nguyen (First Laureate) at the age of 12, becoming the youngest First Laureate in Vietnamese history.
+*   **1247:** During the Dinh Mui examination, the Tran court established the title "Tam khoi" (Three Laureates) for the first time to designate the three most outstanding successful candidates, ranked as Trang nguyen, Bang nhan, and Tham hoa.
 *   **1250:** King Tran Thai Tong issued a decree requiring the people to address the King as "Quoc gia" (The Nation/State) to elevate the King's position and national unity.
 *   **Spring 1251:** Tran Quoc Tuan (later Tran Hung Dao) boldly infiltrated the residence of Nhan Dao Vuong to marry Princess Thien Thanh, who was betrothed to another. King Tran Thai Tong ultimately sanctioned their marriage to avoid conflict.
 *   **1252:** Tran Thai Tong personally led a campaign against Champa.
@@ -291,9 +293,11 @@
 *   **Apr. 16, 1293:** Tran Nhan Tong abdicated the throne in favor of Crown Prince Tran Thuyen (later Tran Anh Tong).
 *   **1294:** The Yuan dynasty officially issued an edict to end the war with Dai Viet after Emperor Temur Khan ascended the throne.
 *   **1294:** General Tran Quang Khai, a key figure in the resistance against the Mongols and a renowned poet, passed away.
+*   **1299:** Emperor Tran Nhan Tong issued an edict requiring students nationwide to focus on their studies in preparation for upcoming civil service examinations.
 *   **Oct. 3, 1300:** Hung Dao Vuong Tran Quoc Tuan passed away. Before his death, he advised King Tran Anh Tong: "Ease the strength of the people to make a deep root and durable base," considering it the best strategy for national defense.
 *   **Around the 14th century:** The legends of Lac Long Quan and Au Co, Phu Dong Thien Vuong (Saint Giong), and Son Tinh - Thuy Tinh were first recorded in the historical book **Lĩnh Nam chích quái**.
 *   **1304:** Mac Dinh Chi, known for his diplomatic wit which impressed the Yuan court (earning him the title "Two-Nation First Laureate"), passed the imperial examination as Trang Nguyen.
+*   **1304:** The largest "Thai hoc sinh" (National University student) examination since the beginning of the Tran dynasty was held during the reign of Emperor Tran Anh Tong. The Emperor created the additional title "Hoang giap" to designate candidates who passed in the second tier (De nhi giap).
 *   **1306:** The Champa king Che Man (Jaya Simhavarman III) offered the two prefectures of O and Ly as a wedding gift to marry Princess Huyen Tran.
 *   **1307:** The Tran dynasty renamed the two prefectures of O and Ly to Thuan and Hoa, incorporating them into Dai Viet's territory.
 *   **1312:** King Tran Anh Tong led a campaign against Champa, capturing the Champa King Che Chi.
@@ -321,6 +325,7 @@
 *   **Jun. 12, 1388:** Emperor Trần Phế Đế was deposed, then imprisoned at Tư Phúc Pagoda and later killed on the orders of Emperor Emeritus Trần Nghệ Tông and Hồ Quý Ly.
 *   **Dec. 16, 1388:** Trần Nghệ Tông's son, Trần Ngung (later Emperor Trần Thuận Tông), ascended the throne.
 *   **1390:** General Tran Khat Chan commanded the battle on the Hai Trieu River (Luoc River), using firearms to kill the Champa king Che Bong Nga.
+*   **1396:** For the first time in the history of Vietnam's civil service examinations, Emperor Tran Thuan Tong established regulations for the "Cu nhan" (Bachelor) examination, officially decentralizing the system into regional examinations (thi Huong) and metropolitan examinations (thi Hoi).
 *   **04/1396:** Under the policy led by Hồ Quý Ly (when he was Prime Minister), the royal court issued paper money called "Thông bảo hội sao." This was the first time paper money was circulated in Vietnam.
 *   **01/1397:** Hồ Quý Ly implemented the land limitation policy (hạn điền), restricting the amount of private land owned by princes and aristocrats (no more than 10 mẫu—a unit of area).
 *   **03/1397:** Hồ Quý Ly began constructing the Western Capital (Tây Đô) (Hồ Dynasty Citadel, Vĩnh Lộc, Thanh Hóa) and prepared to move the capital city.
@@ -330,7 +335,7 @@
 *   **May 1399:** Ho Quy Ly sent his trusted general, Pham Kha Vinh, to the former emperor's residence. Pham Kha Vinh attempted to force Tran Thuan Tong to commit suicide by poison, but failed. Finally, Pham Kha Vinh strangled the former emperor to death. Tran Thuan Tong was buried at Yen Sinh mausoleum.
 *   **Jun. 1399:** Ho Quy Ly proclaimed himself *Quoc To Chuong Hoang De*, adopting imperial regalia and using a gold parasol, foreshadowing his usurpation.
 
-### **Ho Dynasty Period (1400 - 1407)**
+### **Ho Dynasty and Reforms Period (1400 - 1407)**
 
 *   **Feb. 28, 1400:** Ho Quy Ly forced King Tran Thieu De to abdicate, proclaimed himself king, established the era name Thanh Nguyen, changed the national name to Dai Ngu, and officially founded the Ho dynasty.
 *   **Aug. 1400:** The Ho dynasty attacked Champa with 150,000 troops led by Do Man and Tran Tung but failed due to starvation in the mountainous terrain.
@@ -341,6 +346,7 @@
 *   **1403:** The Ho dynasty attacked Champa for the third time with 200,000 troops. General Pham Nguyen Khoi besieged Cha Ban citadel for 9 months but failed due to lack of supplies. On the way back, the Ho navy encountered the Ming fleet sent to rescue Champa but avoided conflict. The Ming dynasty began preparing to invade Dai Ngu.
 *   **Sep. 1403:** King Ho Han Thuong established the **Quang Te** office, a state-run medical service using acupuncture and moxibustion to treat diseases for the people.
 *   **1404:** Ho Han Thuong ordered the digging of the Lien Cang canal connecting Tan Binh and Thuan Hoa, but the project was abandoned due to constant sand silting.
+*   **1404:** Emperor Ho Han Thuong issued an edict stipulating that the metropolitan examination (thi Hoi) be held every three years, establishing a regular cycle for selecting national talent.
 *   **Feb. 1404:** Ho Han Thuong revised the examination system, for the first time including mathematics as an official examination subject.
 *   **Jun. 1404:** Ho Han Thuong ordered the establishment of four armories and the construction of iron-clad ships to defend against the Ming.
 *   **Sep. 1404:** The Ho dynasty reorganized the army, establishing Nam ban and Bac ban, dividing the royal guards into regiments and companies under a Grand General.
@@ -361,7 +367,7 @@
 *   **Apr. 29, 1407 (lunar):** Ming forces attacked Dien Canh estuary, routing the Ho navy.
 *   **May 5, 1407 (lunar):** Ming forces attacked Ky La estuary.
 
-### **Fourth Northern Domination Period and Resistance Wars (1407 - 1427)**
+### **Fourth Northern Domination and Resistance Against Ming Period (1407 - 1427)**
 
 *   **Jun. 1407:** Taking advantage of Đại Ngu's defeat, the Champa king Ba Dich Lai marched north, reclaiming the lands of Tu, Nghia, Thang, and Hoa. Vietnamese general Dang Tat was forced to temporarily surrender to the Ming to halt the Champa advance.
 *   **Jun. 16, 1407 (lunar):** Ho Quy Ly was captured at Chay Chay rapids, and Ho Nguyen Trung was captured at Ky La.
@@ -429,15 +435,17 @@
 *   **Dec. 16, 1427:** The Dong Quan Oath Ceremony took place. Wang Tong and Ming generals formally surrendered and agreed to withdraw all troops.
 *   **Dec. 17, 1427:** Lam Son envoys traveled to Beijing to return captured Ming seals and formalize the peace agreement.
 *   **Dec. 29, 1427:** The Ming army officially began its withdrawal to China.
-*   **Jan. 1428 (Dec. 16, Lunar Year of the Goat):** Ming generals Wang Tong, Ma Ying, and others formally surrendered and requested to withdraw their troops to China.
-*   **Jan. 3, 1428:** The last Ming soldiers withdrew from the country. The nation was completely liberated.
-*   **Feb. 1428:** Tran Cao, the figurehead king installed by Le Loi to appease the Ming, died after attempting to flee to Ngoc Ma.
 
 ### **Early Le Dynasty Period (1428 - 1527)**
 
 *   **1428:** Le Thai To divided the country into 5 circuits (dao): South, North, East, West, and Hai Tay. He established the position of Administrator (*Hành khiển*) in each circuit to manage military and civil records.
+*   **1428:** Emperor Le Thai To issued an edict ordering the construction of schools across the country to educate talented individuals, rebuilding the educational infrastructure after the war of liberation.
+*   **Jan. 1428 (Dec. 16, Lunar Year of the Goat):** Ming generals Wang Tong, Ma Ying, and others formally surrendered and requested to withdraw their troops to China.
+*   **Jan. 3, 1428:** The last Ming soldiers withdrew from the country. The nation was completely liberated.
+*   **Feb. 1428:** Tran Cao, the figurehead king installed by Le Loi to appease the Ming, died after attempting to flee to Ngoc Ma.
 *   **Apr. 1428 (Mar., Lunar Year of the Monkey):** Le Loi reviewed his generals and officials, defining ranks, rewarding merits, and dividing the country into circuits (Dao).
 *   **May 1428 (Apr. 14, Lunar Year of the Monkey):** Le Loi officially ascended the throne as Emperor (Le Thai To) in Dong Do, adopting the era name Thuan Thien and restoring the national title of Dai Viet. Under the king's order, Nguyen Trai wrote the "Binh Ngo dai cao" (Great Proclamation upon the Pacification of the Wu), the nation's second declaration of independence.
+*   **1429:** Emperor Le Thai To organized the first civil service examination of the Le dynasty, known as the "Minh kinh bac hoc" examination.
 *   **Jan. 7, 1429:** King Le Thai To established his eldest son Tu Te as King of the Nation (Quoc Vuong) to temporarily manage state affairs, and his second son Nguyen Long as Crown Prince.
 *   **Feb. 1429:** Le Thai To ordered the demobilization of 250,000 troops, keeping only 100,000, implementing the "combining military service with farming" policy.
 *   **Late 1431 (Middle of Winter, Lunar Year of the Pig):** King Le Thai To wrote the preface for the book *Lam Son thuc luc* (Records of Lam Son), recording the history of the uprising.
@@ -447,14 +455,17 @@
 *   **1437:** King Le Thai Tong commissioned Luong Dang to reform court rituals and music, establishing standards for ceremonial dress and instruments.
 *   **1442:** The Le court held the first doctoral examination, passing 33 people, including Trang Nguyen (First Laureate) Nguyen Truc. The practice of erecting doctoral stelae at the Temple of Literature began.
 *   **1442:** The tragic Le Chi Vien case occurred, leading to the execution of three generations of Nguyen Trai's family.
+*   **1442:** The Le court standardized the titles of officials responsible for the metropolitan examinations (such as De dieu and Giam thi) and formally divided successful candidates into two lists: the primary list (Chinh bang) and the supplementary list. For the first time, new laureates were granted scholarly attire, attended royal banquets, and were provided with horses and escorts to return to their hometowns in honor (vinh quy bai to).
 *   **1443:** Le Nhan Tong ascended the throne.
 *   **1443 - 1459:** Phan Phu Tien compiled the *Đại Việt sử ký tục biên* (Continued History of Dai Viet) from Le Van Huu's *Đại Việt sử ký* (History of Dai Viet).
 *   **Nov. 1448:** King Le Nhan Tong married his eldest sister, Princess Ve Quoc (who suffered from mutism), to Le Quat, son of Grand Commander Le Thu. Le Thu used this wedding to solicit bribes from local officials, causing public resentment.
 *   **1460:** Nghi Dan usurped the throne. The Six Ministries (Lại, Hộ, Lễ, Binh, Hình, Công - Personnel, Finance, Rites, War, Justice, Public Works) and Six Offices of Scrutiny were established for the first time.
 *   **Jun. 1460:** High-ranking officials Nguyen Xi and Dinh Liet staged a coup, overthrew Nghi Dan, and placed Le Tu Thanh on the throne (Le Thanh Tong).
 *   **Aug. 1460:** King Le Thanh Tong issued an edict requiring people with the surname "Tran" to change it to "Trinh" to avoid a naming taboo involving his grandmother, Pham Ngoc Tran.
+*   **1462:** Emperor Le Thanh Tong ordered the opening of regional examinations (thi Huong) at examination compounds nationwide, stipulating a strict three-year cycle for organizing the exams.
 *   **Oct. 1462:** King Le Thanh Tong set the retirement age for officials at 65 and for clerks and scholars at 60.
 *   **1463:** A doctoral examination was held, Luong The Vinh ranked as Trang Nguyen (First Laureate). The triennial cycle for metropolitan examinations was officially established.
+*   **1463:** The first metropolitan examination under Emperor Le Thanh Tong took place on a massive scale with 4,400 candidates participating. This examination marked the first time the names of laureates were publicly called outside the Thai Hoc house and displayed on a golden board.
 *   **1466:** Le Thanh Tong divided the country into 12 Thua Tuyen provinces. He established the **Five Military Commissions** (Ngu Phu) and consolidated the Six Ministries system, reorganizing the administrative and military structure.
 *   **1469:** King Le Thanh Tong ordered the mapping of the 12 Thua Tuyen provinces. Thua Tuyen Nam Sach was renamed Thua Tuyen Hai Duong; this was the first time the name "Hai Duong" appeared.
 *   **1471:** The "Tam Ty" (Three Offices: Commander, Administration, Surveillance) system was established in Thuan Hoa and Quang Nam.
@@ -462,13 +473,14 @@
 *   **1479:** The historical chronicle *Dai Viet sử ký toàn thư* (Complete History of Dai Viet) was first completed by Ngo Si Lien.
 *   **1479:** During the war with Lan Xang (1478 - 1480), Dai Viet forces advanced deep into Lao territory, capturing the capital Luang Prabang.
 *   **1483:** The court promulgated the *Quoc trieu hinh luat* (National Dynasty's Penal Code), commonly known as the Hong Duc Code.
-*   **1484:** King Le Thanh Tong ordered the erection of stone steles at the Temple of Literature to record the names of successful doctoral candidates, retroactively starting from the 1442 examination.
+*   **1484 (15th of the 8th lunar month):** Under the order of Emperor Le Thanh Tong, the court officially held a ceremony to erect the first ten doctoral steles at the Temple of Literature in Thang Long, recording the names of laureates from the 1442 examination onwards to honor and encourage scholarly pursuit.
 *   **Mar. 1484:** King Le Thanh Tong issued strict edicts prohibiting abortion, classifying it as a crime damaging to ethics and life, with severe penalties for husbands who failed to prevent it.
 *   **May 1488:** Imperial Concubine Nguyen Thi Can (Chieu Nhan), formerly a palace slave, gave birth to Prince Le Tuan (later Emperor Le Uy Muc).
 *   **1490:** The map of the 13 provinces of the country was redefined.
 *   **Feb. 1496:** King Le Thanh Tong composed a poem praying for rain at the Hoang Huu temple; it rained heavily shortly after.
 *   **1497:** King Le Thanh Tong passed away. Le Hien Tong ascended the throne.
 *   **16th century:** Catholicism began to be introduced, with the arrival of Franciscan and Dominican missionaries.
+*   **16th century:** Portuguese explorers referred to the Paracel Islands as "Ilhas do Pracel".
 *   **1504:** Le Hien Tong passed away, Le Tuc Tong ascended the throne but passed away after 6 months.
 *   **1505:** Le Uy Muc ascended the throne. The court began to fall into disarray; the king was cruel, killed relatives, and power fell into the hands of the empress's family.
 *   **Dec. 19, 1509:** Gian Tu Cong Le Oanh (grandson of Le Thanh Tong) raised an army from Thanh Hoa, marched on Thang Long, killed Le Uy Muc, and proclaimed himself king (Le Tuong Duc).
@@ -478,13 +490,14 @@
 *   **May 7, 1516:** Trinh Duy San staged a coup and killed King Le Tuong Duc.
 *   **1522:** Mac Dang Dung, a powerful military general, forced King Le Chieu Tong to flee Thang Long.
 *   **1526:** Mac Dang Dung sent someone to secretly assassinate King Le Chieu Tong.
-*   **Jun. 15, 1527:** Mac Dang Dung forced King Le Cung Hoang to abdicate, usurping the throne and establishing the Mac dynasty. The Early Le dynasty collapsed.
 
-### **Mac Dynasty and North-South Dynasties War (1527 - 1592)**
+### **Mac Dynasty and North-South Dynasties War Period (1527 - 1592)**
 
 *   **1527:** Mac Dang Dung established Duong Kinh (Hai Duong) as the second capital, elevating the status of his hometown.
+*   **Jun. 15, 1527:** Mac Dang Dung forced King Le Cung Hoang to abdicate, usurping the throne and establishing the Mac dynasty. The Early Le dynasty collapsed.
 *   **1528:** Mac Dang Dung minted Minh Duc thong bao coins and reorganized the army.
 *   **1529:** Mac Dang Dung ceded the throne to his son Mac Dang Doanh and retired as Retired Emperor.
+*   **1529:** The Mac dynasty organized its first doctoral examination, passing 27 candidates, continuing the educational traditions of the preceding Le dynasty.
 *   **Jan. 1, 1530:** Mac Dang Doanh ascended the throne, taking the era name Dai Chanh.
 *   **1533:** In Ai Lao (Laos), Nguyen Kim (a former Le official) found Le Ninh (son of King Le Chieu Tong), established him as king (Le Trang Tong), and began the "support the Le, destroy the Mac" movement.
 *   **1533:** Dutch peas (Dau Ha Lan) were introduced to Vietnam for the first time by Dutch merchants arriving in the Southern region (under Le Trang Tong) and later spreading to the North.
@@ -497,6 +510,7 @@
 *   **1545:** Nguyen Kim was poisoned to death by a surrendered Mac general. His son-in-law, Trinh Kiem, took over, seizing all military power, and conflicts between the Trinh and Nguyen clans began to arise.
 *   **1546:** Mac Phuc Hai passed away, Mac Phuc Nguyen succeeded him. The Mac court experienced internal conflict between the faction of Mac Kinh Dien (supporting Phuc Nguyen) and Pham Tu Nghi (supporting Mac Chinh Trung).
 *   **1551:** The rebellion of Pham Tu Nghi and Mac Chinh Trung was suppressed.
+*   **1554:** The Restored Le dynasty held its first doctoral examination at the Yen Truong temporary palace (Thanh Hoa). This special examination was called a "Che khoa".
 *   **1558:** Trinh Kiem appointed Nguyen Hoang (son of Nguyen Kim) as governor of Thuan Hoa to expand his power and guard against Mac forces from the sea. Nguyen Hoang began building a base for his separate domain in the South.
 *   **Early 1564:** Mac Kinh Chi, eldest son of Mac Kinh Dien, was demoted to commoner status for committing adultery with his father's concubine.
 *   **March 7, 1568:** French navigators, departing from the port of La Rochelle along with Jesuit scholars, traveled to the Far East and visited the Paracel Islands (Hoang Sa).
@@ -512,13 +526,13 @@
 *   **Jan. 1592:** Trinh Tung entered and liberated Thang Long. Mac Mau Hop abandoned the capital and fled.
 *   **Early 1592:** Trinh Tung led a large army north, defeating the main force of the Mac army in a decisive battle.
 *   **Dec. 1592:** Trinh Tung captured Mac Mau Hop. Mau Hop was hung alive for three days and then beheaded at Bo De sandbank. The Mac dynasty in Thang Long officially collapsed.
+
+### **Period of Division: Dang Trong - Dang Ngoai (1593 - 1771)**
+
 *   **Early 1593:** Descendants of the Mac (Mac Kinh Chi) continued to rise up in Hai Duong but were quickly suppressed. The remnants of the Mac dynasty retreated to Cao Bang and continued to hold out. The North-South Dynasties War essentially ended.
 *   **Apr. 16, 1593:** The Le king returned to Thang Long. The Le dynasty was restored.
+*   **1595:** Following the recapture of the capital, the metropolitan examinations (thi Hoi) of the Restored Le dynasty resumed in Thang Long, and the palace examinations (thi Dinh) were reinstated as customary.
 *   **Apr. 1597:** King Le The Tong personally traveled to the Nam Quan border gate to meet with Ming dynasty officials for diplomatic negotiations, asserting the legitimacy of the Le dynasty.
-
-### **Period of Division: Dang Trong - Dang Ngoai (1527 - 1771)**
-
-*   **16th century:** Portuguese explorers referred to the Paracel Islands as "Ilhas do Pracel".
 *   **Apr. 1599:** The Le king conferred upon Trinh Tung the title of Do Nguyen Suy, Thuong phu Binh An Vuong (Supreme Commander-in-Chief, Grand Preceptor, and Prince of Pacification), officially forming the Le King - Trinh Lord institution in Dang Ngoai (the North).
 *   **1600:** Nguyen Hoang returned to Thuan Quang from the North and began implementing new administrative policies, gradually breaking away from the control of the Trinh lords.
 *   **1601:** Shogun Tokugawa Ieyasu sent an official letter to Lord Nguyen Hoang to establish trade relations and control Japanese merchants (Red Seal ships).
@@ -566,6 +580,7 @@
 *   **1651:** Alexandre de Rhodes published the first two books in Chữ Quốc ngữ: the "Dictionarium annamiticum, lusitanum, et latinum" (Vietnamese-Portuguese-Latin Dictionary) and the "Cathechismus" (Catechism divided into eight days) in Rome. This was a monumental milestone that formalized and standardized the Vietnamese romanized script.
 *   **1653:** The Nguyen lord defeated the Champa king Ba Tam, taking land from the Phan Rang River to Phu Yen and establishing the Thai Khang garrison (now Khanh Hoa).
 *   **Mid-17th Century (approx. 1653 - 1657):** Ho Phi Long, the ancestor of the Tay Son brothers, migrated from Nghe An to Quy Nhon to establish a career, laying the family's foundation in the region.
+*   **1653:** During the reign of Emperor Le Than Tong, the largest-scale stele erection project at the Temple of Literature took place, erecting steles for 25 previous doctoral examinations that lacked them.
 *   **1655 - 1660:** The fifth campaign, this was the only time the Nguyen army proactively attacked the North, capturing 7 districts in Nghe An. However, they later had to retreat due to internal discord.
 *   **1657:** Lord Trinh Trang passed away. His son, Trinh Tac, succeeded him as Lord (Tay Dinh Vuong).
 *   **1658:** Lord Nguyen Phuc Tan sent troops to assist King Batom Reachea (Ponhea So, son of Princess Ngoc Van) in stabilizing his throne against usurpers. In return, the Cambodian court officially recognized Vietnamese sovereignty over the **Dong Nai** region.
@@ -601,6 +616,7 @@
 *   **1709 - 1713:** Over a period of five years, the Hoang Sa team periodically collected tortoiseshell, sea cucumbers, porcelain bowls, and bronze cannons from the Paracel Islands.
 *   **1710 - 1712:** Wu Sheng, a naval vice-commander of Guangdong under the Qing dynasty, commanded a naval patrol. However, historical analysis indicates this patrol only circled Hainan Island and did not extend to the Paracel Islands, contrary to later Chinese claims.
 *   **1714:** Lord Nguyen Phuc Chu renovated Thien Mu Pagoda and proclaimed himself **"Dai Viet Quoc Vuong"** (King of Dai Viet) in the bell inscription.
+*   **1717:** The second largest stele erection campaign in the history of the Temple of Literature occurred, erecting 21 missing doctoral steles for the laureates of the Restored Le dynasty.
 *   **1718:** In Dang Ngoai, Lord Trinh Cuong established the Six Bureaus (Luc phien) in the Lord's Palace, usurping all power, leaving the Le court's Six Ministries with only nominal authority.
 *   **1721:** The Le court (under Lord Trinh Cuong) revised and standardized the uniforms for civil and military officials, distinguishing ranks clearly.
 *   **1721:** Hai Thuong Lan Ong Le Huu Trac, a celebrated traditional physician and writer, was born in Hung Yen.
@@ -625,7 +641,7 @@
 *   **1765:** The regent Truong Phuc Loan usurped power, causing social turmoil. Teacher Truong Van Hien fled to An Thai and taught literature and martial arts to the three Tay Son brothers (Nguyen Nhac, Nguyen Hue, Nguyen Lu), preparing the intellectual and martial basis for the uprising.
 *   **1767:** Lord Trinh Doanh passed away. His son, Trinh Sam, succeeded him as Lord (Tinh Do Vuong).
 
-### **Tay Son Period (1771 - 1802)**
+### **Tay Son Movement and Dynasty Period (1771 - 1802)**
 
 *   **1771 - 1801:** Nguyen Anh repeatedly sought refuge on Phu Quoc Island when pursued by the Tay Son forces.
 *   **1771:** The three brothers Nguyen Nhac, Nguyen Hue, and Nguyen Lu raised the flag of rebellion in Tay Son Thuong dao (An Khe, Gia Lai) with the slogan "take from the rich and give to the poor." Nguyen Nhac was proclaimed **Tay Son Vuong** (King of Tay Son). They gained strong support from ethnic minorities (Sedang, Bahnar) in the An Khe region, where Nguyen Nhac was revered as the "King of Heaven", creating a solid initial base for the uprising. Prominent martial artists and strategists joined the uprising, including Tran Quang Dieu, Vo Van Dung, and Vo Dinh Tu. Legend has it that the female warrior Bui Thi Xuan saved Tran Quang Dieu from a tiger during this period, leading to their marriage and lifelong comradeship in the Tay Son army.
@@ -736,8 +752,9 @@
 *   **Feb. 27, 1801:** The Great Naval Battle of Thi Nai took place. The Nguyen navy, commanded by Nguyen Anh and Le Van Duyet, launched a massive surprise attack against the Tay Son fleet defending the Thi Nai lagoon. Utilizing the wind and fire ships, the Nguyen forces completely destroyed the Tay Son naval capabilities, burning over 700 ships and capturing numerous cannons. This decisive victory, known as the "First Martial Achievement" of the Nguyen dynasty, decimated the Tay Son's naval forces and paved the way for the capture of Phu Xuan.
 *   **May 1801:** In the campaign to capture Phu Xuan, Generals Le Van Duyet and Le Chat employed a surprise tactic at the Tu Dung estuary, dragging naval boats across sandbars to attack the Tay Son defensive line from the rear. Nguyen Anh's forces entered the citadel of Phu Xuan (Hue), forcing King Canh Thinh to flee north. This event marked the collapse of the Tay Son's central power base.
 *   **Jul. 7, 1801:** (27th of the 5th lunar month) Generals Vo Tinh and Ngo Tung Chau committed suicide to defend Binh Dinh Citadel, allowing the main Nguyen army to focus on capturing Phu Xuan.
+*   **Late 19th century:** The French colonialists began exploiting resources on Phu Quoc Island, such as coconuts and pepper, and established a prison camp.
 
-### **Nguyen Dynasty Period (1802 - 1858)**
+### **Independent Nguyen Dynasty Period (1802 - 1858)**
 
 *   **1802:** The Nguyen dynasty was established, with Emperor Gia Long ascending the throne.
 *   **Feb. 3, 1802:** The Battle of Tran Ninh. The final major engagement between Tay Son and Nguyen forces. Despite the heroic and desperate charges led by female general Bui Thi Xuan atop her war elephant, the Tay Son army was ultimately defeated by the well-prepared Nguyen defenses at the Tran Ninh wall. Concurrently, the Tay Son naval fleet was destroyed at the Nhat Le estuary. This catastrophic defeat sealed the fate of the Tay Son dynasty.
@@ -813,6 +830,7 @@
 *   **May 1828:** Emperor Minh Mang personally performed the **Tich Dien** (Plowing) ceremony at the newly established field in the capital, reviving an ancient tradition to encourage agriculture.
 *   **Oct. 1828:** The golden seal **"Hoang De chi bao"** (Treasure of the Emperor) was cast.
 *   **1829:** Establishment of Kim Son district (Ninh Binh) through land reclamation efforts led by Nguyen Cong Tru.
+*   **1829:** The Nguyen dynasty introduced a new regulation for the metropolitan examinations, accepting additional candidates whose scores were close to the third tier (De tam giap) and placing them on a supplementary list known as "Pho bang".
 *   **Nov. 1829:** Emperor Minh Mang reorganized the *Van thu phong* into the **Noi cac** (Grand Secretariat), enhancing its role in assisting the Emperor with state affairs.
 *   **1830:** Le Van Duyet requested and oversaw the reconstruction of the Gia Dinh Citadel (Phan An Citadel) using laterite stone, expanding it significantly to become a major defensive fortification in the South.
 *   **Jan. 1830:** Emperor Minh Mang ordered the construction of the **Ho Quyen** (Tiger Arena) at Long Tho hill (Hue), a unique colosseum for elephant and tiger fights.
@@ -868,6 +886,7 @@
 *   **1848 - 1849:** Administrative management of the archipelagos was continuously maintained by the Nguyen court for geographical purposes to optimize sea routes, and for financial purposes to collect taxes from fishermen operating in the region.
 *   **Feb. 1848:** The court began minting "Tu Duc Thong Bao" coins and completed the *Veritable Records of Emperor Gia Long*.
 *   **Mar. 1850:** Emperor Tu Duc established the **Kinh Dien** (Royal Lecture Hall) and the **Tap Hien Institute** for royal education and academic discussion.
+*   **1851:** Emperor Tu Duc introduced a special examination called the "Che khoa Cat si" (Examination for Exceptional Scholars) alongside the regular civil service examination to recruit highly talented individuals for the state.
 *   **Dec. 1852:** Emperor Tu Duc ordered the compilation of the **"Kham dinh Viet su thong giam cuong muc"** (The Imperially Ordered Mirror of Viet History Text and Commentary), appointing Phan Thanh Gian as the Chief Editor.
 *   **1853:** Emperor Tu Duc changed the province of Quang Tri to a "dao" (county) under the jurisdiction of Thua Thien prefecture, and merged the prefecture of Duc Tho (formerly of Ha Tinh) into Nghe An province.
 *   **1854 - 1855:** The uprising of scholars and peasants initiated by Cao Ba Quat in the Son Tay and Hanoi regions.
@@ -878,7 +897,6 @@
 
 ### **Period of French Invasion and Resistance Movements (1858 - 1896)**
 
-*   **Late 19th century:** The French colonialists began exploiting resources on Phu Quoc Island, such as coconuts and pepper, and established a prison camp.
 *   **Aug. 31, 1858:** A French-Spanish coalition force deployed at the Da Nang estuary.
 *   **Sep. 1, 1858:** A French-Spanish coalition force opened fire on the Son Tra peninsula (Da Nang), capturing the Dong Fort and officially beginning the invasion of Vietnam.
 *   **Sep. 2, 1858:** The French-Spanish coalition force captured the Tay Fort, An Hai, and Dien Hai fortresses. French forces occupied the Son Tra peninsula.
@@ -998,7 +1016,7 @@
 *   **Dec. 28, 1895:** Phan Dinh Phung was killed, and the Huong Khe Uprising gradually disintegrated, marking the essential end of the organized, large-scale Can Vuong movement.
 *   **1896:** Hoa Lo Prison was built in Hanoi.
 
-### **Period of Consolidating Rule and the First Colonial Exploitation (1897 - 1913)**
+### **Period of First Colonial Exploitation and Patriotic Movements (1897 - 1913)**
 
 *   **Feb. 1897:** Paul Doumer was appointed Governor-General of Indochina, beginning a new period of centralized rule and large-scale economic exploitation.
 *   **Aug. 13, 1897:** The Hue court issued an edict abolishing the position of Imperial Commissioner of Tonkin, transferring all administrative power in Tonkin to the French Resident Superior.
@@ -1055,7 +1073,7 @@
 *   **Apr. 26, 1913:** Another bombing occurred at the Hanoi Hotel, killing two French officers.
 *   **Dec. 24, 1913:** Phan Boi Chau was arrested in Guangdong, China.
 
-### **Period of the First World War (1914 - 1918)**
+### **Period of World War I (1914 - 1918)**
 
 *   **Aug. 3, 1914:** France entered World War I, beginning to intensify the plunder of human and material resources in Indochina.
 *   **Nov. 10, 1914:** An uprising of ethnic minorities in the Northwest region and Upper Laos broke out, lasting until March 1916.
@@ -1078,7 +1096,7 @@
 *   **Nov. 11, 1918:** World War I ended.
 *   **Nov. 16, 1918:** A mutiny broke out at the Binh Lieu post (Quang Ninh), led by Tham Cam Say and Chinese and Vietnamese soldiers, lasting until June 1919.
 
-### **Period of Seeking National Salvation and Founding the Communist Party (1919 - 1930)**
+### **Period of Seeking National Salvation and Founding of the Party (1919 - 1930)**
 
 *   **Jan. 1919:** Emperor Khai Dinh decreed the Metropolitan Examination of that year to be the "Imperial Grace Examination" (Ngu tu an khoa), which was the final Metropolitan Examination of the dynasty.
 *   **Feb. 1919:** Nguyen Ai Quoc joined the French Socialist Party.
@@ -1165,9 +1183,6 @@
 *   **May 1-9, 1929:** The first congress of the Vietnamese Revolutionary Youth League was held in Hong Kong.
 *   **Jun. 17, 1929:** The Indochinese Communist Party was founded in Hanoi.
 *   **Nov. 15, 1929:** The Annamese Communist Party was founded in Cochinchina.
-
-### **Period of Economic Crisis and Revolutionary High Tide (1930 - 1935)**
-
 *   **1930 - 1932:** The French naval ships *Inconstant*, *Alerte*, *La Malicieuse*, and *De Lanessan* conducted successive patrols and sovereignty missions to the Paracel Islands.
 *   **Jan. 1, 1930:** The Indochinese Communist League was officially established in Ha Tinh.
 *   **Feb. 1930:** The Yen Bai Uprising, led by the Vietnamese Nationalist Party, broke out and was defeated.
@@ -1183,6 +1198,9 @@
 *   **Sep. 12, 1930:** French planes bombed a demonstration of peasants in Hung Nguyen (Nghe An), killing 171 people, a peak event in the Nghe-Tinh Soviets movement.
 *   **Sep. 23, 1930:** The French government issued a communiqué informing other powers of the French occupation of the Spratly Islands.
 *   **Oct. 14-31, 1930:** The First Conference of the Party Central Committee was held in Hong Kong (China), approving the Political Theses and changing the Party's name to the Indochinese Communist Party. Comrade Tran Phu was elected General Secretary.
+
+### **Period of Economic Crisis and Struggle to Restore Forces (1931 - 1935)**
+
 *   **1931:** China called for bids to exploit guano on the Paracel Islands.
 *   **Jan. 17, 1931:** The first postal flight between France and Indochina took place.
 *   **Apr. 11, 1931:** The Communist International issued a resolution recognizing the Indochinese Communist Party as an independent section.
@@ -1203,7 +1221,7 @@
 *   **Dec. 21, 1933:** The Governor of Cochinchina, J. Krautheimer, signed a decree officially annexing the Spratly Islands into Ba Ria Province.
 *   **Mar. 27-31, 1935:** The First National Congress of the Indochinese Communist Party was held in Macau (China).
 
-### **Democratic Front Period (1936 - 1939)**
+### **Democratic Front Period (1936 - 1938)**
 
 *   **1936:** The Dai Viet National Socialist Party was founded.
 *   **1936:** The Vietnam Independence Motion Alliance Association (Viet Nam Doc Lap Van Dong Dong Minh Hoi), a precursor organization with a similar name to the Viet Minh, was established in Nanjing (China) by Vietnamese anti-imperialist activists.
@@ -1229,15 +1247,15 @@
 *   **Jul. 18, 1938:** The Chinese Ambassador in Paris submitted a diplomatic note strongly affirming China's claims over the Paracel Islands. The note acknowledged the French Ministry of Foreign Affairs' assurance that the French occupation "had absolutely no intention of affecting the respective legal positions of China and France" and reserved the rights of both parties.
 *   **Aug. 30, 1938:** The French government issued a decree on press freedom in Cochinchina, allowing the publication of Vietnamese-language newspapers without prior permission.
 *   **Dec. 10, 1938:** Truong Tu Anh announced the theory of "Survivalism" (Chu nghia Dan toc Sinh ton), which later served as the ideological foundation for the Dai Viet Nationalist Party.
+
+### **Period of National Liberation Mobilization and August Revolution (1939 - 1945)**
+
 *   **1939:** General Secretary Nguyen Van Cu published the work *Self-Criticism* (Tu chi trich).
+*   **1939 - 1940:** Bui Van Thuyen (also known as Hai Thieng) was born in a poor peasant family in Chau Thanh, Tay Ninh. Coming from a patriotic family where his father and brother fought against the French, he would later become a legendary guerrilla fighter, participating in over 1,000 battles and sustaining 72 wounds throughout the resistance against the US.
 *   **Mar. 12, 1939:** The Vietnam Restoration League (Phuc Quoc Hoi) was officially launched in Shanghai.
 *   **Mar. 31, 1939:** The Japanese Government declared its control over the Spratly Islands. France protested this action on April 4.
 *   **May 5, 1939:** Governor-General Jules Brévié amended the 1938 decree to establish two separate administrative delegations for the Paracel Islands: the "Crescent and dependencies" and the "Amphitrite and dependencies".
 *   **Jul. 5, 1939:** Hoa Hao Buddhism, an indigenous religion, was founded by Mr. Huynh Phu So in An Giang province.
-
-### **Period of National Liberation Mobilization and the August Revolution (1939 - 1945)**
-
-*   **1939 - 1940:** Bui Van Thuyen (also known as Hai Thieng) was born in a poor peasant family in Chau Thanh, Tay Ninh. Coming from a patriotic family where his father and brother fought against the French, he would later become a legendary guerrilla fighter, participating in over 1,000 battles and sustaining 72 wounds throughout the resistance against the US.
 *   **Sep. 1, 1939:** World War II broke out, and France entered the war.
 *   **Sep. 28, 1939:** The Governor-General of Indochina issued a decree outlawing the Indochinese Communist Party, beginning a period of white terror.
 *   **Nov. 6-8, 1939:** The 6th Conference of the Party Central Committee in Ba Diem (Hoc Mon) decided to shift the strategic direction, prioritizing the task of national liberation and establishing the Indochinese Anti-Imperialist National United Front.
@@ -1291,12 +1309,12 @@
 *   **Aug. 25, 1945:** The uprising succeeded in Saigon.
 *   **Aug. 28, 1945:** The National Liberation Committee was reorganized into the Provisional Government of the Democratic Republic of Vietnam. 200,000 Chiang Kai-shek troops, led by Lu Han, began to enter northern Vietnam (from the 16th parallel northwards).
 *   **Aug. 30, 1945:** Emperor Bao Dai read the Abdication Edict in Hue, ending the feudal regime in Vietnam.
+*   **Sep. 1945:** On the occasion of the first opening of school in the Democratic Republic of Vietnam, President Ho Chi Minh sent a letter to students.
+
+### **Period of Establishing Government and Southern Resistance (Sep. 1945 - Feb. 1946)**
+
 *   **Sep. 1, 1945:** The provisional government of the Democratic Republic of Vietnam issued Decree No. 01/SL, declaring time zone 7 as the official time. From then on, the North and Central regions used time zone 7.
 *   **Sep. 2, 1945:** At Ba Dinh Square (Hanoi), President Ho Chi Minh read the Declaration of Independence, giving birth to the Democratic Republic of Vietnam.
-
-### **Period of Establishing Government and Resistance in the South (1945 - 1946)**
-
-*   **Sep. 1945:** On the occasion of the first opening of school in the Democratic Republic of Vietnam, President Ho Chi Minh sent a letter to students.
 *   **Sep. 3, 1945:** In the first meeting of the Provisional Government, President Ho Chi Minh set out urgent tasks: combating famine, illiteracy, and foreign invaders.
 *   **Sep. 4, 1945:** The government issued Decree No. 4/SL to establish the "Independence Fund."
 *   **Sep. 5, 1945:** The Provisional Government issued a decree dissolving the Dai Viet National Socialist Party and the Dai Viet Nationalist Party.
@@ -1316,6 +1334,9 @@
 *   **Feb. 28, 1946:** The Chongqing Agreement was signed between France and the Chiang Kai-shek government, agreeing to allow French troops to enter the North to replace Chiang's troops.
 *   **Mar. 1946:** During the 1st National Assembly, delegate Huynh Van Tieng reportedly proposed renaming Saigon to Ho Chi Minh City, reflecting the early sentiments of the Southern people towards President Ho Chi Minh.
 *   **Mar. 1946:** Le Thi Rieng participated in women's affairs in Gia Rai district and the National Salvation Women's Association of Rach Gia province.
+
+### **Period of Détente and Preparation for Nationwide Resistance (Mar. 1946 - Dec. 1946)**
+
 *   **Mar. 2, 1946:** The 1st National Assembly held its first session, electing the Coalition Resistance Government with Ho Chi Minh as President.
 *   **Mar. 6, 1946:** President Ho Chi Minh and Vu Hong Khanh, on behalf of the Vietnamese Government, signed the Preliminary Agreement with J. Sainteny, representative of the French Government.
 *   **Mar. 9, 1946:** The Party Central Standing Committee issued the directive "Peace to Advance."
@@ -1326,9 +1347,6 @@
 *   **Apr. 19, 1946:** The Da Lat Preparatory Conference opened to prepare for official negotiations in France.
 *   **Apr. 20, 1946:** The United National Front (Mat tran Quoc gia Lien hiep) was established in the South, initially with an anti-French stance but later divided.
 *   **Apr. 21, 1946:** Colonel Vicaire reported to Valluy on plans to occupy the strategic triangle of Hanoi - Hai Duong - Hon Gai - Mong Cai and Lang Son.
-
-### **Period of Détente and Preparation for Nationwide Resistance (1946)**
-
 *   **May 1946:** The Standing Committee of the Party Central Committee appointed Le Duan as Secretary of the Provisional Party Committee of Nam Bo to consolidate and strengthen the Party's leadership in the South.
 *   **May 11, 1946:** The Da Lat Preparatory Conference concluded without reaching agreement on fundamental issues.
 *   **May 19, 1946:** The birthday of President Ho Chi Minh was celebrated publicly for the first time, becoming a demonstration of national unity.
@@ -1357,19 +1375,19 @@
 *   **Dec. 18 - 19, 1946:** French troops repeatedly sent ultimatums demanding the disarmament of Vietnamese self-defense forces in Hanoi. The Standing Bureau of the Party Central Committee met at Van Phuc village (Ha Dong) under the chair of President Ho Chi Minh, deciding to launch the nationwide resistance.
 *   **8:03 PM, Dec. 19, 1946:** The city's electricity was cut off, and the Lang fortress fired the signal shot for a general offensive, officially marking the beginning of the nationwide resistance. By 8:30 PM, the Vietnamese government issued the Appeal for Nationwide Resistance.
 *   **Dec. 22, 1946:** Former Mayor of Hanoi Tran Van Lai was arrested for the second time by the French colonialists right after the outbreak of the Nationwide Resistance, under the pretext of "ensuring safety for intellectuals," and was imprisoned in Hoa Lo.
-*   **Jan. 3, 1947:** French Minister of Overseas Marius Moutet visited Hoa Lo prison in an attempt to persuade and bribe imprisoned Vietnamese intellectuals, including Tran Van Lai. The intellectuals responded with absolute silence, demonstrating their unwavering patriotism and contempt for the colonialists.
-*   **Jan. 6, 1947:** The Capital Regiment was officially established from the defenders of Inter-zone 1 in Hanoi.
-*   **Jan. 15, 1947:** A ceasefire was agreed upon to allow Chinese nationals to evacuate Hanoi. Vietnamese forces utilized this opportunity to withdraw some cadres and civilians to the rear.
-*   **Feb. 14, 1947:** French forces fiercely attacked Dong Xuan Market, where Vietnamese defenders fought tenaciously to hold their ground.
 
-### **Period of the Outbreak of Nationwide Resistance and the Viet Bac Victory (1947 - 1950)**
+### **Period of Nationwide Resistance, Viet Bac and Border Victories (1947 - 1950)**
 
 *   **1947:** Vietnam established its first liaison office in Yangon, Myanmar. It was upgraded to a Propaganda Information Office in 1948, expanding international propaganda and monitoring world news for the resistance.
 *   **1947:** The Republic of China (Kuomintang) issued a map with an 11-dash line, which was later inherited and modified into a 9-dash line by the People's Republic of China. They based their claims to most of the South China Sea, including the Paracel and Spratly Islands, on what they called "historical sovereignty claims."
+*   **Jan. 3, 1947:** French Minister of Overseas Marius Moutet visited Hoa Lo prison in an attempt to persuade and bribe imprisoned Vietnamese intellectuals, including Tran Van Lai. The intellectuals responded with absolute silence, demonstrating their unwavering patriotism and contempt for the colonialists.
+*   **Jan. 6, 1947:** The Capital Regiment was officially established from the defenders of Inter-zone 1 in Hanoi.
 *   **Jan. 7, 1947:** Republic of China troops occupied Woody Island (Phu Lam) in the Paracels. On the same day, the Chinese Ministry of Foreign Affairs held a press conference in Nanjing officially announcing the occupation, claiming the flag was flying over islands that "had never ceased to belong to China."
 *   **Jan. 13, 1947:** The French Ambassador in Nanjing handed a diplomatic note to the Chinese Ministry of Foreign Affairs making the "most categorical reservations regarding the legal consequences of the occupation of the Paracel Islands by Chinese troops," and reiterated previous proposals for amicable settlement or arbitration.
+*   **Jan. 15, 1947:** A ceasefire was agreed upon to allow Chinese nationals to evacuate Hanoi. Vietnamese forces utilized this opportunity to withdraw some cadres and civilians to the rear.
 *   **Jan. 16, 1947:** Vietnamese forces launched an attack on Gia Lam airport.
 *   **Jan. 17 - 19, 1947:** The French dispatch boat *Tonkinois* arrived at Woody Island (Phu Lam) and found Chinese troops stationed there. The French commander requested the Chinese commander to leave, but the request was refused. On January 19, the *Tonkinois* proceeded to Pattle Island (Hoang Sa), found it uninhabited, and landed a garrison of 20 French and Vietnamese soldiers to establish control.
+*   **Feb. 14, 1947:** French forces fiercely attacked Dong Xuan Market, where Vietnamese defenders fought tenaciously to hold their ground.
 *   **Night of Feb. 17, 1947:** After 60 days and nights of resilient fighting, the Capital Regiment miraculously withdrew from Hanoi by quietly crossing under the Long Bien bridge and traversing the Red and Duong rivers to preserve its forces for long-term resistance.
 *   **Feb. 17, 1947:** The National United Front (Mat tran Thong nhat Quoc gia Lien hiep) was established in Nanjing (China) by leaders of Viet Cach and Viet Quoc to support Bao Dai.
 *   **Feb. 25 - Jul. 4, 1947:** France and the Republic of China held negotiations in Paris regarding the sovereignty of the Paracel Islands. China demanded the withdrawal of French troops from Pattle Island as a precondition and strictly rejected France's proposal for international arbitration. The talks ended without a resolution.
@@ -1420,13 +1438,13 @@
 *   **Oct. 14, 1950:** The French government officially transferred the administrative control of the archipelagos to the Bao Dai government.
 *   **Nov. 4, 1950:** French forces withdrew from Lao Cai and Sa Pa. The entire French border defense line was shattered.
 *   **Dec. 1950:** General De Lattre de Tassigny was sent to Indochina as High Commissioner and Commander-in-Chief, holding all military and civilian power.
-
-### **Final Period of the Resistance War Against France (1951 - 1954)**
-
 *   **Dec. 6, 1950:** General De Lattre de Tassigny was appointed High Commissioner and Commander-in-Chief of the French army in Indochina, beginning the implementation of a new military plan.
 *   **Dec. 23, 1950:** After 10 months of imprisonment and widespread protests in France and internationally demanding her release, Raymonde Dien was freed.
 *   **Dec. 23, 1950:** The Mutual Defense Agreement for Indochina was signed between the US, France, and the puppet governments (Vietnam, Laos, Cambodia), formalizing US intervention.
 *   **Dec. 25, 1950 - Jan. 18, 1951:** The Vietnamese forces launched the Tran Hung Dao Campaign (also known as the Midlands Campaign), attacking the enemy's defense line in the Vinh Yen - Phuc Yen area. During this campaign, on January 15, 1951, the French military used napalm bombs for the first time in Vietnam.
+
+### **Final Period of the Resistance War Against France (1951 - Jul. 1954)**
+
 *   **Feb. 11-19, 1951:** The 2nd National Congress of the Indochinese Communist Party was held in Vinh Quang commune, Chiem Hoa district, Tuyen Quang.
     *   It was decided to bring the Party into open activity under the new name **Vietnam Workers' Party**.
     *   A new Political Platform and Party Statutes were approved, and a new Central Committee was elected. Ho Chi Minh was elected Party Chairman, and Truong Chinh as General Secretary.
@@ -1467,6 +1485,8 @@
 *   **Dec. 6, 1953:** The Politburo decided to launch the **Dien Bien Phu Campaign** under the code name "Tran Dinh," with the objective of annihilating the entire enemy force there.
 *   **Dec. 10 - 12, 1953:** Vietnamese forces wiped out a retreating French column at Muong Pon (Dec. 10) and advanced to liberate Lai Chau town (Dec. 12) after the French forces retreated to Dien Bien Phu.
 *   **Dec. 19, 1953:** President Ho Chi Minh signed decree No. 197-SL promulgating the **Land Reform Law**.
+*   **1954:** Following the Geneva Accords, Ut Tich and her husband stayed in the South. When her husband and comrades were arrested by the Ngo Dinh Diem regime, she successfully mobilized other women to pressure the government for their release. Meanwhile, Le Thi Rieng also continued participating in anti-US-Diem revolutionary movements in the South.
+*   **1954:** The government of South Vietnam took over Con Dao Island and continued to use it as a prison, with its infamous and brutal "tiger cages." The South Vietnamese government also continued to develop Phu Quoc Island and built the largest prisoner-of-war camp at that time.
 *   **Jan. 26, 1954:** At the Dien Bien Phu front, the Campaign Command decided to change the operational guideline from "swift attack, swift victory" to **"steady attack, steady advance."**
 *   **Early 1954:** During the Dien Bien Phu campaign, former Mayor Tran Van Lai contributed to and was the first to sign a peace petition by Hanoi intellectuals ("Les Notabilités"). The petition was sent to Paris and published in *Le Monde* and *L'Humanité*, creating significant diplomatic pressure in France.
 *   **Mar. 13 - 17, 1954:** In the first phase of the Dien Bien Phu Campaign, the Vietnamese forces opened fire at 5:05 PM on March 13. They rapidly annihilated the Him Lam (Mar. 13) and Doc Lap (Mar. 15) strongpoints, forcing the French artillery commander Piroth to commit suicide. Ban Keo surrendered on March 17, breaking the enemy's northern defense system. During this phase, on March 14, the first French aircraft was shot down by Vietnamese anti-aircraft fire.
@@ -1475,14 +1495,6 @@
 *   **May 7, 1954:** At 5:30 PM, the "Determined to Fight, Determined to Win" flag flew over the roof of De Castries' command bunker. General De Castries and his entire staff were captured alive. **The Dien Bien Phu Campaign was completely victorious**, concluding after 55 days and nights of heroic struggle.
 *   **May 8, 1954:** The **Geneva Conference** began its first session to discuss the restoration of peace in Indochina.
 *   **Jun. 1954:** Dinh Thi Van was assigned to the Research Department of the General Staff (Ministry of National Defense) and sent to operate covertly in Hanoi. She built reliable intelligence bases and gathered crucial information during the "300 days of assembly" period. Demonstrating immense personal sacrifice for the revolution, she arranged for her husband to marry another woman so he would be cared for while she dedicated herself to her secret missions.
-*   **Oct. 1954:** Following the Geneva Accords, Dinh Thi Van received orders to secretly relocate to the South to build an intelligence network in Saigon. To protect her cover as a refugee merchant, the revolutionary leadership issued a fake death sentence against her for "betraying the Party."
-*   **Oct. 10, 1954:** The Vietnam People's Army marched into and took over the capital city of Hanoi.
-*   **May 16, 1955:** French forces withdrew from Haiphong, the North was completely liberated, ending the 9-year resistance war against France.
-
-### **Period of Division and Building Socialism in the North (1954 - 1960)**
-
-*   **1954:** Following the Geneva Accords, Ut Tich and her husband stayed in the South. When her husband and comrades were arrested by the Ngo Dinh Diem regime, she successfully mobilized other women to pressure the government for their release. Meanwhile, Le Thi Rieng also continued participating in anti-US-Diem revolutionary movements in the South.
-*   **1954:** The government of South Vietnam took over Con Dao Island and continued to use it as a prison, with its infamous and brutal "tiger cages." The South Vietnamese government also continued to develop Phu Quoc Island and built the largest prisoner-of-war camp at that time.
 *   **Jun. 16, 1954:** Under US pressure, Bao Dai signed a decree appointing Ngo Dinh Diem as Prime Minister of the "State of Vietnam" government.
 *   **Jul. 7, 1954:** Ngo Dinh Diem officially took office as Prime Minister in Saigon.
 *   **Jul. 20-21, 1954:** The **Geneva Accords** were signed, ending the war in Indochina. Key points:
@@ -1491,14 +1503,20 @@
     *   The armies of both sides were to regroup to the North and South.
     *   A free general election was scheduled to be held in July 1956 to unify the country.
 *   **Aug. 8, 1954:** The Can Lao Nhan Vi Party (Personalist Labor Revolutionary Party) officially debuted in the South, founded by Ngo Dinh Nhu.
+
+### **Period of Building the North and the Dong Khoi Movement in the South (Aug. 1954 - 1960)**
+
 *   **Sep. 1954:** The Saigon - Cho Lon Zone was established (previously the Saigon - Cho Lon Special Zone) to suit the revolutionary leadership in the new situation.
 *   **Sep. 5-7, 1954:** The Politburo of the Vietnam Workers' Party passed a resolution on "The new situation, new tasks and new policy", marking the transition of the revolutionary struggle from war to peace, shifting the focus in the South to political struggle to demand the implementation of the Geneva Accords.
 *   **Sep. 6, 1954:** The US formed the Southeast Asia Treaty Organization (SEATO) and placed South Vietnam, Laos, and Cambodia under its "protection."
+*   **Oct. 1954:** Following the Geneva Accords, Dinh Thi Van received orders to secretly relocate to the South to build an intelligence network in Saigon. To protect her cover as a refugee merchant, the revolutionary leadership issued a fake death sentence against her for "betraying the Party."
+*   **Oct. 10, 1954:** The Vietnam People's Army marched into and took over the capital city of Hanoi.
 *   **Dec. 29, 1954:** France signed a treaty transferring all administrative authority in South Vietnam to Ngo Dinh Diem.
 *   **Jan. 8, 1955:** The Ngo Dinh Diem administration issued Ordinance No. 2 and Ordinance No. 7 (Feb. 3, 1955) regarding land reform, aiming to reclaim land distributed to peasants during the resistance.
 *   **Mar. 1955:** The 7th Conference of the Central Committee of the Vietnam Workers' Party set out the tasks of consolidating the North and conducting political struggle in the South.
 *   **Mar. 22, 1955:** The Lao People's Revolutionary Party was established.
 *   **May 13, 1955:** The last French soldiers withdrew from Haiphong; the North was completely liberated.
+*   **May 16, 1955:** French forces withdrew from Haiphong, the North was completely liberated, ending the 9-year resistance war against France.
 *   **July 1955:** President Ho Chi Minh led a government delegation to visit socialist countries (China, USSR) to seek international support for the struggle to implement the Geneva Accords.
 *   **Jul. 17, 1955:** Ngo Dinh Diem declared his refusal to hold consultations for a general election to reunify the country.
 *   **08/1955:** The 8th Conference of the Central Committee of the Vietnam Workers' Party affirmed that the North must advance to socialism.
@@ -1560,7 +1578,7 @@
 *   **Dec. 2, 1960:** Vietnam and Cuba officially established diplomatic relations following a visit by Cuban Deputy Foreign Minister Héctor Rodríguez Llompart. Cuba became the first country in the Americas to recognize and establish diplomatic relations with the Democratic Republic of Vietnam.
 *   **Dec. 20, 1960:** The **National Liberation Front for South Vietnam** was established.
 
-### **Period of Resisting the "Special War" (1961 - 1965)**
+### **Period of Resisting the Special War Strategy (1961 - 1964)**
 
 *   **1961:** South Korean President Park Chung-hee proposed sending troops to Vietnam to support the US, but US President John F. Kennedy initially declined. Concurrently, the Soviet Union provided the Vietnam Navy with 12 torpedo boats and 4 anti-submarine ships to enhance its defense capabilities.
 *   **1961 - 1965:** The North implemented the **First Five-Year Plan** to build the initial material and technical foundations of socialism.
@@ -1618,7 +1636,12 @@
 *   **Nov. 14, 1964:** The Tan Dai Viet Party was founded.
 *   **Nov. 25 - 28, 1964:** At the initiative of the World Federation of Trade Unions, an international conference titled "People of the world in solidarity with the people of Vietnam against the US imperialist aggressors, defending peace" was held in Hanoi, attended by 64 delegations from 52 countries.
 *   **Dec. 28, 1964 - Jan. 1, 1965:** **Battle of Binh Gia (Phuoc Tuy):** The Liberation Army of South Vietnam launched a major offensive against Binh Gia village, successfully ambushing and decimating several elite Republic of Vietnam battalions (including Rangers and Marines) sent as reinforcements. The Liberation Army shot down 21 helicopters and 1 reconnaissance plane, effectively countering the US-backed "helicopterborne" and "armored vehicle" tactics. This victory significantly escalated the conventional warfare capabilities of the Liberation Army and contributed to the bankruptcy of the "Special War" strategy.
+
+### **Period of Defeating the Local War Strategy (1965 - 1968)**
+
 *   **1965:** Madame **Nguyen Thi Dinh** was appointed Deputy Commander of the South Vietnam Liberation Army.
+*   **1965:** Le Thi Rieng was appointed Head of the Women's Mobilization Department of the Saigon - Gia Dinh Zone (T4), directly entering the inner city to direct the women's movement. Ut Tich attended the Congress of Heroes and Emulation Fighters of the South Armed Forces, was elected a heroine, and awarded the Liberation Military Exploit Medal, Second Class for participating in 23 battles.
+*   **1965:** Kostas Sarantidis (Nguyễn Văn Lập) and his family returned to Greece after living and serving in North Vietnam since 1954. He continued to actively support Vietnam and campaign for aid from his homeland.
 *   **Feb. 1965:** The **"Three Readies"** movement for youth and the **"Three Responsibilities"** (Mar. 1965) movement for women were launched in the North.
 *   **Early Feb. 1965:** Chairman of the USSR Council of Ministers Alexei Kosygin visited Vietnam. Coinciding with the start of the US bombing of North Vietnam, Kosygin strongly condemned the US actions and committed extensive Soviet support. On February 8, the people of Moscow held a massive rally in solidarity with Vietnam.
 *   **Feb. 7, 1965:** The US launched Operation "Flaming Dart I," bombing Vinh Linh and Dong Hoi, officially beginning the war of destruction against the North.
@@ -1627,11 +1650,6 @@
 *   **Mar. 1-9, 1965:** The Indochinese People's Conference was held in Phnom Penh, demonstrating the solidarity of the three nations against the US imperialists.
 *   **Mar. 2, 1965:** The US began the "Rolling Thunder" air campaign, systematically bombing the North.
 *   **Mar. 8, 1965:** The 9th Marine Expeditionary Brigade landed in Da Nang, marking the direct deployment of US combat troops and the beginning of the **"Local War"** strategy.
-
-### **Period of Defeating the "Local War" Strategy (1965-1968)**
-
-*   **1965:** Le Thi Rieng was appointed Head of the Women's Mobilization Department of the Saigon - Gia Dinh Zone (T4), directly entering the inner city to direct the women's movement. Ut Tich attended the Congress of Heroes and Emulation Fighters of the South Armed Forces, was elected a heroine, and awarded the Liberation Military Exploit Medal, Second Class for participating in 23 battles.
-*   **1965:** Kostas Sarantidis (Nguyễn Văn Lập) and his family returned to Greece after living and serving in North Vietnam since 1954. He continued to actively support Vietnam and campaign for aid from his homeland.
 *   **Mar. 8, 1965:** Two battalions of US Marines landed in Da Nang, officially beginning the "Local War" strategy, directly deploying US combat troops to South Vietnam.
 *   **Mar. 22, 1965:** The National Liberation Front for South Vietnam issued a 5-point statement, affirming its determination to drive out the US imperialists.
 *   **Mar. 25-27, 1965:** The 11th Conference of the Party Central Committee (3rd tenure) defined the urgent task as "resisting the US, saving the country" and shifting the North to a wartime footing.
@@ -1709,7 +1727,7 @@
 *   **Nov. 1, 1968:** The US was forced to completely and unconditionally end the bombing and strafing of the North. The North defeated the first war of destruction, shooting down 3,234 US aircraft.
 *   **Nov. 27, 1968:** During a devastating B-52 carpet bombing by the US Air Force in Tan Chau, Chau Doc (now An Giang), Ut Tich and her third daughter, Lam Thi Tho, were severely injured and subsequently sacrificed their lives.
 
-### **Period of Defeating the "Vietnamization of the War" Strategy (1969 - 1973)**
+### **Period of Defeating the Vietnamization of the War Strategy (1969 - 1972)**
 
 *   **Jan. 20, 1969:** Richard Nixon was inaugurated as US President and implemented the "Vietnamization of the war" strategy and the "Nixon Doctrine."
 *   **Jan. 25, 1969:** The first plenary session of the four-party conference on Vietnam opened in Paris.
@@ -1760,14 +1778,15 @@
 *   **Oct. 20, 1972:** The Democratic Republic of Vietnam and the United States reached an agreement on the draft "Agreement on Ending the War and Restoring Peace in Vietnam."
 *   **Dec. 18 - 30, 1972:** Operation Linebacker II ("Dien Bien Phu in the Air"). To pressure the Democratic Republic of Vietnam into conceding core terms of the Paris Agreement, the US mobilized nearly 50% of its strategic B-52 bomber fleet (197 aircraft) and thousands of tactical aircraft for devastating carpet bombings of Hanoi and Haiphong (destroying Kham Thien street, Bach Mai hospital, etc.). The Vietnam Air Defense - Air Force employed creative tactics (such as the "Red Cover Manual" for tracking through radar jamming) to shoot down 81 US aircraft, including 34 B-52s (16 crashing on the spot), far exceeding the loss rate the US could tolerate. This horrific counter-blow shattered the prestige of the US Strategic Air Command, forcing President Nixon to unilaterally halt the bombing on Dec. 30 and agree to sign the Paris Peace Accords based on the draft favorable to Vietnam.
 *   **Dec. 30, 1972:** The US was forced to declare a halt to the bombing of the North from the 20th parallel northwards and agree to resume negotiations.
-*   **1973:** The Provisional Revolutionary Government of the Republic of South Vietnam opened an Embassy in Iraq. The Iraqi government generously covered all operational expenses, including providing the headquarters, vehicles (including a new Citroen gifted by President Ahmed Hassan Al-Bakr), and daily living expenses to support Vietnam during the war.
-*   **Jan. 15, 1973:** The US completely ended all acts of war against the North.
-*   **Jan. 27, 1973:** The **Paris Peace Accords** on ending the war and restoring peace in Vietnam were signed. The US pledged to respect the independence, sovereignty, unity, and territorial integrity of Vietnam and to withdraw all its troops from the South. Representing the PRG RSV, Minister of Foreign Affairs **Nguyen Thi Binh** was the only woman among the signatories.
 
-### **1975 Spring General Offensive and Uprising, Complete Liberation of the South (1973 - 1975)**
+### **1975 Spring General Offensive and Uprising, Complete Liberation of the South (1973 - Apr. 1975)**
 
 *   **The resistance war against the US to save the nation ended in complete victory.**
+
+*   **1973:** The Provisional Revolutionary Government of the Republic of South Vietnam opened an Embassy in Iraq. The Iraqi government generously covered all operational expenses, including providing the headquarters, vehicles (including a new Citroen gifted by President Ahmed Hassan Al-Bakr), and daily living expenses to support Vietnam during the war.
 *   **1973:** During Fidel Castro's visit, Cuba donated five major socio-economic projects to Vietnam worth approximately $80 million, including the Thang Loi Hotel (Hanoi), Vietnam - Cuba Hospital (Dong Hoi), Xuan Mai road, Ba Vi cattle breeding farm, and Luong My poultry enterprise.
+*   **Jan. 15, 1973:** The US completely ended all acts of war against the North.
+*   **Jan. 27, 1973:** The **Paris Peace Accords** on ending the war and restoring peace in Vietnam were signed. The US pledged to respect the independence, sovereignty, unity, and territorial integrity of Vietnam and to withdraw all its troops from the South. Representing the PRG RSV, Minister of Foreign Affairs **Nguyen Thi Binh** was the only woman among the signatories.
 *   **Mar. 29, 1973:** The last US combat unit withdrew from South Vietnam.
 *   **May 1973:** The Politburo issued a Resolution on the struggle to implement the Paris Agreement, combining political, military, and diplomatic means to force the adversary to comply.
 *   **Jul. 1973:** The 21st Conference of the Party Central Committee (3rd tenure) affirmed that the path of the southern revolution was still the path of violence, preparing for the final stage of the resistance war.
@@ -1807,13 +1826,13 @@
 *   **Apr. 30, 1975:** The South was completely liberated, ending the resistance war against the US to save the nation. The country was unified in terms of territory.
     *   **10:45 AM:** A Liberation Army tank crashed through the gates of the Independence Palace.
     *   **11:30 AM:** The liberation flag flew over the roof of the Independence Palace. President Duong Van Minh announced his unconditional surrender.
-*   **May 5 - 6, 1975:** The Vietnam People's Navy regained control of the Spratly Islands from the Saigon troops following the liberation of the South.
-
-### **Post-war, Unification, and the Path to Renovation (1975 - 1986)**
-
 *   **May 1, 1975:** All remaining provinces in the South were liberated. The Secretariat sent Telegram No. 602 ordering the liberation of Con Dao (Con Lon) and Phu Quoc. Pol Pot's forces (Democratic Kampuchea) began attacks, violating Vietnamese territory from Ha Tien to Tay Ninh.
 *   **May 3, 1975:** The Military Management Committee of Saigon - Gia Dinh city was established, with Senior General Tran Van Tra as chairman.
+
+### **Post-war, Unification, and the Path to Renovation (May 1975 - 1985)**
+
 *   **May 4, 1975:** Pol Pot's forces landed on Phu Quoc island.
+*   **May 5 - 6, 1975:** The Vietnam People's Navy regained control of the Spratly Islands from the Saigon troops following the liberation of the South.
 *   **May 10, 1975:** Pol Pot's forces landed on the Tho Chu archipelago, capturing and massacring over 500 Vietnamese civilians.
 *   **May 14, 1975:** The US government ordered a trade embargo against Vietnam.
 *   **May 15, 1975:** Victory celebration ceremonies were held solemnly across the country. In Hanoi, First Secretary Le Duan delivered a speech hailing the complete victory and the beginning of a new era of independence, unity, and socialism.
@@ -1898,13 +1917,13 @@
 *   **Mar. 11, 1985:** Mikhail Gorbachev was elected General Secretary of the Communist Party of the Soviet Union, initiating the "Perestroika" (restructuring) and "Glasnost" (openness) policies.
 *   **Jun. 1985:** The 8th Conference of the Central Committee (5th tenure) issued a resolution on price-wage-money, deciding to definitively abolish the centralized bureaucratic subsidy mechanism.
 *   **Sep. 14, 1985:** A general adjustment of prices, wages, and money began nationwide, implementing a currency exchange at a rate of 10 old dong for 1 new dong.
+
+### **Early Doi Moi Period - Gradually Overcoming Crisis (1986 - 1990)**
+
 *   **Jan. 3, 1986:** *Thanh Nien* Weekly (precursor to Thanh Nien Newspaper) published its first issue, strongly promoted by Mr. **Le Quang Vinh** (Secretary of the Central Youth Union) to create a forum for renovation for the younger generation.
 *   **Jul. 10, 1986:** General Secretary Le Duan passed away. He was an outstanding leader of the Party, a resilient communist fighter who made great contributions to the revolutionary cause of national liberation and reunification.
 *   **Jul. 14, 1986:** The Party Central Committee held an extraordinary session to elect Comrade Truong Chinh as General Secretary.
 *   **Dec. 1986:** The 6th National Congress of the Communist Party of Vietnam was held, officially initiating the Doi Moi (Renovation) policy for the comprehensive renewal of the country.
-
-### **Early Doi Moi Period - Gradually Overcoming Crisis (1986 - 1990)**
-
 *   **Dec. 15-18, 1986:** The 6th National Congress of the Communist Party of Vietnam took place, officially setting forth the **Doi Moi (Renovation)** policy for the comprehensive renewal of the country with the viewpoint of "looking straight at the truth, correctly assessing the truth," with economic reform as the focus.
 *   **1987:** The National Assembly enacted the Law on Foreign Investment in Vietnam, creating the first legal framework to attract foreign direct investment (FDI).
 *   **Apr. 1987:** The 2nd Conference of the Party Central Committee (6th tenure) decided on the direction for resolving issues of distribution and circulation, abolishing the centralized bureaucratic subsidy system and the policy of "blocking rivers, banning markets."
@@ -1997,7 +2016,7 @@
 *   **Dec. 2, 2000:** UNESCO extended its recognition of Ha Long Bay based on the criteria of outstanding global geological and geomorphological value.
 *   **Dec. 25, 2000:** Vietnam and China signed the **Agreement on the Demarcation of the Tonkin Gulf** and the **Agreement on Fishery Cooperation**.
 
-### **Period of BTA Integration and Overcoming the SARS Challenge** (2001 - 2006)
+### **Period of BTA Integration and Overcoming the SARS Challenge (2001 - 2005)**
 
 *   **Apr. 10, 2001:** President Tran Duc Luong signed a decision posthumously awarding the title of Hero of the People's Armed Forces to the martyr Le Thi Rieng.
 *   **Apr. 19 - 22, 2001:** The 9th National Congress of the Party, for the first time, affirmed the model of a socialist-oriented market economy.
@@ -2022,10 +2041,10 @@
 *   **Mar. 2005:** The Hanoi Stock Exchange (HNX) was established.
 *   **Jun. 19 - 25, 2005:** Prime Minister Phan Van Khai paid an official visit to the United States, the first visit by a Vietnamese leader since the war.
 *   **Nov. 25, 2005:** The Space of Gong Culture in the Central Highlands was recognized by UNESCO as a heritage.
+
+### **Period of WTO Accession and Affirming International Position (2006 - 2010)**
+
 *   **Jan. 2006:** The PMU 18 scandal (embezzlement of public funds at the Ministry of Transport) was investigated.
-
-### **Period of WTO Accession and Affirming International Position** (2006 - 2011)
-
 *   **Apr. 18 - 25, 2006:** The 10th National Congress of the Party, considering the private economy as an important driving force.
 *   **Nov. 7, 2006:** Vietnam signed the Protocol of Accession to the World Trade Organization (WTO).
 *   **Jan. 11, 2007:** Vietnam officially became the 150th member of the WTO.
@@ -2042,7 +2061,7 @@
 *   **Nov. 9, 2010:** Kostas Sarantidis (Nguyễn Văn Lập) was officially granted Vietnamese citizenship by the President of Vietnam.
 *   **Nov. 16, 2010:** The Giong Festival at Phu Dong Temple and Soc Son Temple was recognized as a Representative List of the Intangible Cultural Heritage of Humanity by UNESCO.
 
-### **Period of Legal Consolidation, East Sea Tensions, and Environmental Fluctuations** (2011 - 2016)
+### **Period of Legal Consolidation, East Sea Tensions, and Environmental Fluctuations (2011 - 2016)**
 
 *   **2011:** The Philippines formally protested China's "nine-dash line" claim in the South China Sea.
 *   **Jan. 12 - 19, 2011:** The 11th National Congress of the Party, adopted the Platform (supplemented and developed in 2011).
@@ -2090,7 +2109,7 @@
 *   **Nov. 29, 2016:** At the memorial service for Fidel Castro in La Habana, National Assembly Chairwoman Nguyen Thi Kim Ngan reaffirmed Vietnam's steadfast solidarity and loyal friendship with Cuba.
 *   **Dec. 1, 2016:** The practice of worshipping the Mother Goddesses of the Three Realms by the Vietnamese people was recognized by UNESCO as a heritage.
 
-### **Period of CPTPP & EVFTA Integration and Responding to the COVID-19 Pandemic** (2017 - 2021)
+### **Period of CPTPP & EVFTA Integration and Responding to COVID-19 (2017 - 2020)**
 
 *   **Nov. 6 - 11, 2017:** Vietnam hosted the APEC 2017 Economic Leaders' Week in Da Nang.
 *   **Dec. 7, 2017:** The Bài Chòi art form of Central Vietnam was recognized as a heritage by UNESCO.
@@ -2111,7 +2130,7 @@
 *   **Oct. - Nov. 2020:** Historic floods and successive storms in the Central region.
 *   **Dec. 28, 2020:** Vietnam successfully achieved the "dual goal" (epidemic control and economic growth).
 
-### **Period of Post-Pandemic Recovery and Elevating Strategic Position** (2021 - present)
+### **Period of Post-Pandemic Recovery and Elevating Strategic Position (2021 - present)**
 
 *   **2021 - 2023:** Vietnam strengthened its position as Cuba's second-largest trading partner and largest Asian investor, with bilateral trade reaching $261.7 million in 2021, $181.8 million in 2022, and $57.33 million in 2023.
 *   **Jan. 25 - Feb. 2, 2021:** The 13th National Congress of the Party, set goals for 2030 and a vision to 2045.

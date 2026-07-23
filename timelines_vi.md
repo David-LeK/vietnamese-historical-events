@@ -1,4 +1,4 @@
-### **Thời kỳ Tiền sử và Sơ sử**
+### **Thời kỳ Tiền sử và Sơ sử (Trước năm 800 TCN)**
 
 *   **Khoảng 534.000 - 400.000 năm trước:** Dấu tích Người vượn (Homo Erectus) tồn tại ở Việt Nam, tiêu biểu là các di cốt răng tìm thấy ở Thẩm Khuyên, Thẩm Hai (Lạng Sơn).
 *   **Khoảng 300.000 năm trước:** Sự tồn tại của Người vượn thông qua các công cụ đá ở di chỉ Núi Đọ (Thanh Hóa).
@@ -20,13 +20,13 @@
 *   **1110 TCN:** Theo thư tịch cổ, sứ giả Việt Thường đem chim trĩ trắng dâng cho nhà Chu.
 *   **Khoảng 1.100 - 700 TCN:** Thời kỳ Văn hóa Gò Mun.
 *   **Khoảng 1.000 TCN - 200 SCN:** Thời kỳ Văn hóa Sa Huỳnh (Miền Trung), nổi tiếng với táng tục mộ chum và kỹ thuật chế tác thủy tinh nhân tạo sớm.
+*   **Khoảng thế kỷ VIII TCN - thế kỷ II SCN:** Thời kỳ Văn hóa Đông Sơn.
+
+### **Thời kỳ Dựng nước và Bắc thuộc (800 TCN - 938)**
+
+*   **Thế kỷ VII TCN:** Theo *Việt sử lược*, nước Văn Lang ra đời.
 *   **Khoảng 500 TCN:** Thời kỳ Văn hóa Đồng Nai (Đông Nam Bộ), nền văn hóa kim khí kết nối giữa thời đại đồng thau và thời đại sắt sớm.
 *   **Khoảng thế kỷ III - II TCN:** Phật giáo được du nhập vào bằng đường biển từ Ấn Độ. Đây là tôn giáo có mặt sớm nhất và đã được bản địa hóa, trở thành tư tưởng chủ đạo trong văn hóa dân tộc qua nhiều thời kỳ lịch sử.
-
-### **Thời kỳ Dựng nước và Bắc thuộc**
-
-*   **Khoảng thế kỷ VIII TCN - thế kỷ II SCN:** Thời kỳ Văn hóa Đông Sơn.
-*   **Thế kỷ VII TCN:** Theo *Việt sử lược*, nước Văn Lang ra đời.
 *   **258 TCN:** An Dương Vương (Thục Phán) thôn tính nước Văn Lang, kết thúc thời đại Hùng Vương.
 *   **257 TCN:** An Dương Vương đổi quốc hiệu thành Âu Lạc, dời đô về Phong Khê (Cổ Loa).
 *   **255 TCN:** An Dương Vương cho xây dựng Loa Thành (Cổ Loa).
@@ -120,7 +120,7 @@
 *   **12/937:** Ngô Quyền từ Ái Châu kéo quân ra Bắc để hỏi tội Kiều Công Tiễn.
 *   **Cuối đông 938:** Trận Bạch Đằng. Ngô Quyền dùng kế cắm cọc nhọn bọc sắt dưới lòng sông, dụ thủy quân Nam Hán do Lưu Hoằng Tháo chỉ huy vượt qua bãi cọc lúc triều dâng. Khi triều rút, thuyền Nam Hán mắc cạn và bị đâm thủng. Hơn một nửa trong số 2 vạn quân Nam Hán chết đuối, Lưu Hoằng Tháo tử trận. Chiến thắng chấm dứt hoàn toàn hơn 1000 năm Bắc thuộc.
 
-### **Thời kỳ Độc lập (Ngô - Đinh - Tiền Lê)**
+### **Thời kỳ Độc lập Xây dựng Quốc gia (Ngô - Đinh - Tiền Lê, 939 - 1009)**
 
 *   **939 (Mùa Xuân):** Ngô Quyền xưng vương, lập ra nhà Ngô, định đô ở Cổ Loa, chính thức mở ra thời kỳ độc lập tự chủ.
 *   **944:** Ngô Quyền mất. Em vợ là Dương Tam Kha cướp ngôi của con trai Ngô Quyền là Ngô Xương Ngập, xưng là Dương Bình Vương.
@@ -161,10 +161,10 @@
 *   **996 (Bính Thân):** Lê Đại Hành tiếp sứ Tống là Lý Nhược Chuyết, dùng lời lẽ cứng rắn để bác bỏ trách nhiệm về các vụ cướp biên giới.
 *   **1005:** Lê Đại Hành mất. Lê Long Đĩnh giết vua Lê Trung Tông (Lê Long Việt) để cướp ngôi.
 *   **06/1006 (Bính Ngọ):** Vua Tống từ chối lời thỉnh cầu của Lăng Sách về việc đem quân đánh Đại Cồ Việt nhân lúc nội bộ triều Lê rối ren.
+
+### **Thời kỳ Đại Việt - Triều Lý (1009 - 1225)**
+
 *   **1009 (Kỷ Dậu):** Vua Lê Long Đĩnh ra lệnh đào kênh, đắp đường và dựng cột bia ghi số dặm (cột mốc) ở châu Ái (Thanh Hóa) để tiện cho việc đi lại.
-
-### **Thời kỳ Đại Việt (Triều Lý, 1009 - 1225)**
-
 *   **1009:** Thiền sư Vạn Hạnh đưa ra các sấm ngữ báo hiệu nhà Lê suy vong và nhà Lý hưng thịnh, tích cực ủng hộ Lý Công Uẩn lên ngôi.
 *   **21/11/1009:** Lê Long Đĩnh (Lê Ngọa Triều) mất. Lý Công Uẩn được tôn lên làm vua (Lý Thái Tổ), sáng lập ra vương triều Lý.
 *   **07/1010:** Lý Thái Tổ ra "Chiếu dời đô", chuyển kinh đô từ Hoa Lư về thành Đại La và đổi tên thành Thăng Long. Đổi Hoa Lư làm phủ Trường Yên.
@@ -241,18 +241,20 @@
 *   **1210:** Lý Cao Tông mất, Lý Hạo Sảm lên ngôi (Lý Huệ Tông). Thế lực họ Trần ngày càng lớn mạnh.
 *   **1211:** Vua Lý Huệ Tông lập con gái thứ hai của họ Trần (Trần Thị Dung) làm Nguyên phi. Thế lực ngoại thích họ Trần bắt đầu chi phối triều đình.
 *   **06/1225:** Lý Huệ Tông bị bệnh, không có con trai, đã truyền ngôi cho con gái thứ là Lý Thiên Hinh, hay Lý Chiêu Hoàng (7 tuổi). Bà đã trở thành nữ hoàng đầu tiên và duy nhất trong lịch sử Việt Nam.
+
+### **Thời kỳ Đại Việt - Triều Trần (1226 - 1400)**
+
 *   **1226:** Hoàng tử Lý Long Tường (con thứ vua Lý Anh Tông) cùng tùy tùng vượt biển sang Cao Ly (Hàn Quốc) lánh nạn, trở thành ông tổ của dòng họ Lý Hoa Sơn tại Hàn Quốc.
 *   **10/01/1226:** Dưới sự sắp đặt của Trần Thủ Độ, Lý Chiêu Hoàng nhường ngôi cho chồng là Trần Cảnh (Trần Thái Tông). Vương triều Lý kết thúc.
-
-### **Thời kỳ Đại Việt (Triều Trần, 1225 - 1400)**
-
 *   **08/1226:** Trần Thủ Độ ép Lý Huệ Tông (lúc này đã đi tu) tự tử tại chùa Chân Giáo.
 *   **1229:** Nhà Tống chính thức công nhận Trần Thái Tông là An Nam Quốc vương.
 *   **1230:** Ban hành các bộ luật Quốc triều thông chế và Quốc triều thường lễ.
+*   **1232:** Khoa thi Nho học đầu tiên của triều Trần được tổ chức dưới thời vua Trần Thái Tông. Triều đình bắt đầu định lệ chia người trúng tuyển làm ba hạng (Tam giáp).
 *   **04/1232 (Nhâm Thìn):** Trần Thủ Độ nhân việc ban chữ húy về tổ tiên họ Trần (Trần Lý) đã ép con cháu họ Lý phải đổi sang họ Nguyễn.
 *   **1237:** Xảy ra vụ loạn Trần Liễu do Trần Thủ Độ ép vua Trần Thái Tông lấy vợ của anh trai mình là Thuận Thiên công chúa.
 *   **1242:** Triều đình tiến hành cải cách hành chính, chia cả nước thành 12 lộ.
 *   **1247:** Nguyễn Hiền đỗ Trạng nguyên khi mới 12 tuổi, trở thành Trạng nguyên trẻ nhất trong lịch sử khoa bảng Việt Nam.
+*   **1247:** Tại khoa thi Đinh Mùi, triều Trần lần đầu tiên đặt danh hiệu "Tam khôi" để chỉ ba người xuất sắc nhất trong số những người thi đỗ đại khoa, bao gồm Trạng nguyên, Bảng nhãn và Thám hoa.
 *   **1250:** Vua Trần Thái Tông xuống chiếu cho thiên hạ gọi vua là "Quốc gia" để đề cao vị thế nhà vua và tính thống nhất của đất nước.
 *   **Mùa xuân 1251:** Trần Quốc Tuấn (Trần Hưng Đạo) nửa đêm lẻn vào phủ Nhân Đạo vương để tư thông với công chúa Thiên Thành (người đã được hứa gả cho Trung Thành vương). Vua Trần Thái Tông sau đó phải xuống chiếu gả công chúa cho ông.
 *   **1252:** Trần Thái Tông thân chinh đánh Champa.
@@ -291,9 +293,11 @@
 *   **16/04/1293:** Trần Nhân Tông nhường ngôi cho Thái tử Trần Thuyên (sau là Trần Anh Tông).
 *   **1294:** Nhà Nguyên (đời vua Thành Tông - Temur Khan) chính thức xuống chiếu bãi binh, chấm dứt chiến tranh với Đại Việt.
 *   **1294:** Thượng tướng quân Trần Quang Khải, nhà quân sự và nhà thơ lớn của dân tộc, qua đời.
+*   **1299:** Vua Trần Nhân Tông xuống chiếu yêu cầu học trò trong cả nước phải tập trung học tập để chuẩn bị cho các khoa thi.
 *   **03/10/1300:** Hưng Đạo Đại vương Trần Quốc Tuấn qua đời. Trước khi mất, ông dặn vua Trần Anh Tông: "Phải khoan thư sức dân để làm kế sâu rễ bền gốc", coi đó là thượng sách giữ nước.
 *   **Khoảng thế kỷ XIV:** Truyền thuyết Lạc Long Quân và Âu Cơ, Phù Đổng Thiên Vương (Thánh Gióng), và Sơn Tinh - Thủy Tinh được ghi chép lần đầu tiên trong bộ sách sử **Lĩnh Nam chích quái**.
 *   **1304:** Mạc Đĩnh Chi đỗ Trạng nguyên. Ông nổi tiếng với tài năng và sự ứng đối khiến vua quan nhà Nguyên nể phục, được phong là "Lưỡng quốc Trạng nguyên".
+*   **1304:** Khoa thi Thái học sinh lớn nhất kể từ đầu thời Trần được tổ chức dưới triều vua Trần Anh Tông. Nhà vua đặt thêm danh hiệu "Hoàng giáp" để chỉ những người đỗ hàng Đệ nhị giáp.
 *   **1306:** Vua Champa là Chế Mân dâng hai châu Ô và Lý để làm sính lễ cưới công chúa Huyền Trân.
 *   **1307:** Nhà Trần đổi tên hai châu Ô, Lý thành châu Thuận và châu Hóa, sáp nhập vào lãnh thổ Đại Việt.
 *   **1312:** Vua Trần Anh Tông thân chinh đi đánh Chiêm Thành, bắt được vua Chiêm là Chế Chí.
@@ -321,6 +325,7 @@
 *   **06/12/1388:** Trần Phế Đế bị phế truất, sau đó bị giam tại chùa Tư Phúc và bị giết theo lệnh của Thượng hoàng Trần Nghệ Tông và Hồ Quý Ly.
 *   **16/12/1388:** Con trai Trần Nghệ Tông là Trần Ngung (sau là Trần Thuận Tông) lên ngôi.
 *   **1390:** Thượng tướng quân Trần Khát Chân chỉ huy trận đánh trên sông Hải Triều (sông Luộc), dùng súng thần cơ giết chết vua Champa là Chế Bồng Nga.
+*   **1396:** Lần đầu tiên trong lịch sử khoa cử Việt Nam, vua Trần Thuận Tông định lệ về việc thi Cử nhân, chính thức phân cấp hệ thống thi cử thành thi Hương (cấp địa phương) và thi Hội (cấp trung ương).
 *   **04/1396:** Dưới sự chủ trương của Hồ Quý Ly (khi còn là Tể tướng), triều đình phát hành tiền giấy "Thông bảo hội sao", lần đầu tiên tiền giấy được lưu hành ở Việt Nam.
 *   **01/1397:** Hồ Quý Ly ban hành chính sách hạn điền, quy định hạn chế số lượng ruộng đất tư hữu của các vương hầu, quý tộc (không quá 10 mẫu).
 *   **03/1397:** Hồ Quý Ly cho xây dựng kinh thành Tây Đô (Thành nhà Hồ, Vĩnh Lộc, Thanh Hóa) và chuẩn bị dời đô.
@@ -330,7 +335,7 @@
 *   **05/1399:** Hồ Quý Ly sai người tâm phúc là tướng Phạm Khả Vĩnh đến nơi ở của cựu hoàng đế. Phạm Khả Vĩnh đã ép Trần Thuận Tông tự tử bằng thuốc độc, nhưng không thành. Cuối cùng, chính Phạm Khả Vĩnh đã thắt cổ cựu hoàng đế đến chết. Trần Thuận Tông được chôn cất tại lăng Yên Sinh.
 *   **06/1399:** Hồ Quý Ly tự xưng là Quốc Tổ Chương Hoàng đế, dùng nghi vệ thiên tử, chuẩn bị cho việc cướp ngôi.
 
-### **Thời kỳ Nhà Hồ (1400 - 1407)**
+### **Thời kỳ Nhà Hồ và Cải cách (1400 - 1407)**
 
 *   **28/02/1400:** Hồ Quý Ly ép vua Trần Thiếu Đế nhường ngôi, tự lập làm vua, đặt niên hiệu là Thánh Nguyên, đổi quốc hiệu là Đại Ngu, chính thức lập ra triều Hồ.
 *   **08/1400:** Nhà Hồ đem 15 vạn quân do Đỗ Mãn và Trần Tùng chỉ huy đi đánh Chiêm Thành nhưng thất bại do thiếu lương thực trên đường núi.
@@ -341,6 +346,7 @@
 *   **1403:** Nhà Hồ đánh Chiêm Thành lần thứ ba với 20 vạn quân. Tướng Phạm Nguyên Khôi vây hãm thành Chà Bàn 9 tháng nhưng không hạ được do thiếu lương. Trên đường rút về, thủy quân nhà Hồ gặp hạm đội nhà Minh sang cứu Chiêm Thành nhưng tránh giao chiến. Triều Minh bắt đầu chuẩn bị xâm lược Đại Ngu.
 *   **09/1403:** Vua Hồ Hán Thương cho lập cơ quan **Quảng Tế** (Quảng Tế thự), dùng phương pháp châm cứu chữa bệnh cho dân. Đây là cơ quan y tế công cộng đầu tiên được ghi nhận.
 *   **1404:** Hồ Hán Thương hạ lệnh đào Liên Cảng (kênh Sen) từ Tân Bình đến Thuận Hóa, nhưng do đất cát đùn lên nên không thành.
+*   **1404:** Vua Hồ Hán Thương xuống chiếu quy định tổ chức thi Hội định kỳ ba năm một lần, tạo lập một chu kỳ tuyển chọn nhân tài thường xuyên cho đất nước.
 *   **02/1404:** Hồ Hán Thương quy định lại cách thức thi cử, lần đầu tiên đưa môn toán vào nội dung thi chính thức.
 *   **06/1404:** Hồ Hán Thương ra lệnh lập 4 kho quân khí và đóng thuyền đinh sắt để phòng bị quân Minh.
 *   **09/1404:** Nhà Hồ định lại biên chế quân đội, lập Nam ban và Bắc ban, chia cấm vệ quân thành các đội do Đại tướng quân thống lĩnh.
@@ -361,7 +367,7 @@
 *   **29/04/1407 (âm lịch):** Quân Minh đánh cửa biển Điển Canh, thủy quân nhà Hồ tan vỡ.
 *   **05/05/1407 (âm lịch):** Quân Minh đánh cửa biển Kỳ La.
 
-### **Thời kỳ Bắc thuộc lần thứ tư và các cuộc kháng chiến (1407 - 1427)**
+### **Thời kỳ Bắc thuộc lần thứ tư và Kháng chiến Minh (1407 - 1427)**
 
 *   **06/1407:** Lợi dụng Đại Ngu thất bại, vua Chiêm Thành Ba Đích Lại bắc tiến chiếm lại 4 châu Tư, Nghĩa, Thăng, Hoa. Tướng Việt Đặng Tất buộc phải tạm hàng quân Minh để chặn Chiêm Thành.
 *   **16/06/1407 (11 tháng 5 âm lịch):** Hồ Quý Ly bị quân Minh bắt ở ghềnh Chảy, và Hồ Nguyên Trừng bị bắt ở cửa biển Kỳ La.
@@ -429,15 +435,17 @@
 *   **16/12/1427:** Hội thề Đông Quan diễn ra. Vương Thông và các tướng Minh chính thức xin hàng, cam kết rút quân.
 *   **17/12/1427:** Sứ giả Lam Sơn sang Bắc Kinh trả lại ấn tín và dâng biểu cầu phong, hoàn tất thủ tục nghị hòa.
 *   **29/12/1427:** Quân Minh bắt đầu rút về nước.
-*   **01/1428 (16/12 năm Đinh Mùi):** Các tướng Minh là Vương Thông, Mã Anh... chính thức xin hàng và xin rút quân về nước.
-*   **03/01/1428:** Những tên lính Minh cuối cùng rút khỏi bờ cõi. Đất nước hoàn toàn giải phóng.
-*   **02/1428:** Vua bù nhìn Trần Cảo do Lê Lợi lập lên đã tự sát sau khi mưu trốn sang Ngọc Ma thất bại.
 
 ### **Thời kỳ Nhà Lê Sơ (1428 - 1527)**
 
 *   **1428:** Lê Thái Tổ chia cả nước làm 5 đạo: Nam đạo, Bắc đạo, Đông đạo, Tây đạo và Hải Tây đạo. Triều đình đặt thêm chức Hành khiển ở các đạo để chia giữ sổ sách quân và dân.
+*   **1428:** Vua Lê Thái Tổ hạ chiếu cho các địa phương trong cả nước dựng nhà học để dạy dỗ nhân tài, tái thiết cơ sở hạ tầng giáo dục sau cuộc chiến tranh giải phóng.
+*   **01/1428 (16/12 năm Đinh Mùi):** Các tướng Minh là Vương Thông, Mã Anh... chính thức xin hàng và xin rút quân về nước.
+*   **03/01/1428:** Những tên lính Minh cuối cùng rút khỏi bờ cõi. Đất nước hoàn toàn giải phóng.
+*   **02/1428:** Vua bù nhìn Trần Cảo do Lê Lợi lập lên đã tự sát sau khi mưu trốn sang Ngọc Ma thất bại.
 *   **03/1428 (tháng 3 năm Mậu Thân):** Nhà vua hội các tướng văn võ, định công ban thưởng, sắp đặt phẩm cấp và chia cả nước làm 5 đạo.
 *   **29/04/1428 (14/04 năm Mậu Thân):** Lê Lợi chính thức lên ngôi Hoàng đế (Lê Thái Tổ) tại Đông Đô, đặt niên hiệu Thuận Thiên, khôi phục quốc hiệu Đại Việt. Thừa lệnh vua, Nguyễn Trãi viết "Bình Ngô đại cáo", bản tuyên ngôn độc lập thứ hai của dân tộc.
+*   **1429:** Vua Lê Thái Tổ tổ chức khoa thi đầu tiên của triều Lê, gọi là khoa thi "Minh kinh bác học".
 *   **07/01/1429:** Vua Lê Thái Tổ lập con trưởng là Tư Tề làm Quốc vương tạm coi việc nước, và con thứ Nguyên Long làm Hoàng Thái tử.
 *   **02/1429:** Lê Thái Tổ ra lệnh cho giải ngũ 25 vạn quân, chỉ giữ lại 10 vạn, thực hiện chính sách "ngụ binh ư nông".
 *   **Cuối 1431 (Tháng Trọng Đông năm Tân Hợi):** Vua Lê Thái Tổ viết bài tựa cho cuốn *Lam Sơn thực lục*, ghi chép lại lịch sử cuộc khởi nghĩa.
@@ -447,14 +455,17 @@
 *   **1437:** Vua Lê Thái Tông giao cho Lương Đăng định ra quy chế lễ nhạc, mũ áo triều đình.
 *   **1442:** Triều Lê tổ chức khoa thi Tiến sĩ đầu tiên, lấy đỗ 33 người, trong đó có Trạng nguyên Nguyễn Trực. Bắt đầu cho dựng bia Tiến sĩ ở Văn Miếu.
 *   **1442:** Xảy ra Vụ án Lệ Chi Viên oan khốc khiến Nguyễn Trãi bị tru di tam tộc.
+*   **1442:** Triều Lê lần đầu tiên chuẩn hóa chức danh của các quan chịu trách nhiệm trong kỳ thi Hội (như Đề điệu, Giám thí) và chính thức chia người thi đỗ làm hai bảng: Chính bảng và Phụ bảng. Lần đầu tiên, các vị tân khoa được triều đình ban áo mũ, dự yến tiệc, và cấp ngựa cùng lính hầu để vinh quy bái tổ.
 *   **1443:** Lê Nhân Tông lên ngôi.
 *   **1443 - 1459:** Phan Phu Tiên biên soạn *Đại Việt sử ký tục biên* từ *Đại Việt sử ký* của Lê Văn Hưu.
 *   **11/1448:** Vua Lê Nhân Tông gả chị cả là Vệ Quốc Trưởng Công chúa (bị câm) cho Lê Quát, con trai Thái úy Lê Thụ. Lê Thụ nhân dịp này đã sách nhiễu, đòi hỏi lễ vật của các trấn, lộ khiến dư luận bất bình.
 *   **1460:** Nghi Dân cướp ngôi. Lần đầu tiên đặt ra Lục bộ (Lại, Hộ, Lễ, Binh, Hình, Công) và Lục khoa.
 *   **06/1460:** Các đại thần Nguyễn Xí, Đinh Liệt làm binh biến, lật đổ Nghi Dân, đưa Lê Tư Thành lên ngôi vua (Lê Thánh Tông).
 *   **08/1460:** Vua Lê Thánh Tông ra lệnh đổi các họ "Trần" trong dân gian thành họ "Trình" do kỵ húy bà Phạm Ngọc Trần (bà nội của vua).
+*   **1462:** Vua Lê Thánh Tông cho mở khoa thi Hương tại các trường thi trên toàn quốc, quy định chặt chẽ chu kỳ ba năm tổ chức một kỳ thi.
 *   **10/1462:** Vua Lê Thánh Tông ban sắc chỉ quy định tuổi nghỉ hưu (trí sĩ) cho quan lại là 65 tuổi, lại điển và nho sinh là 60 tuổi.
 *   **1463:** Mở khoa thi Tiến sĩ, Lương Thế Vinh đỗ Trạng nguyên. Bắt đầu định lệ 3 năm mở một khoa thi Hội.
+*   **1463:** Khoa thi Hội đầu tiên dưới thời vua Lê Thánh Tông diễn ra ở quy mô rất lớn với 4.400 sĩ tử dự thi. Khoa thi này đánh dấu lần đầu tiên triều đình xướng danh tân khoa ngoài cửa nhà Thái học và treo bảng vàng công bố.
 *   **1466:** Lê Thánh Tông chia cả nước thành 12 đạo Thừa tuyên. Bắt đầu đặt **Năm phủ** (Ngũ phủ quân) và kiện toàn Sáu bộ để thống nhất quản lý quân sự và hành chính.
 *   **1469:** Vua Lê Thánh Tông cho định bản đồ 12 thừa tuyên trong cả nước. Thừa tuyên Nam Sách đổi tên thành Thừa tuyên Hải Dương, danh xưng "Hải Dương" chính thức xuất hiện.
 *   **1471:** Thiết lập hệ thống Tam ty (Đô ty, Thừa ty, Hiến ty) tại Thuận Hóa và Quảng Nam để cai quản.
@@ -462,13 +473,14 @@
 *   **1479:** Bộ sách *Đại Việt sử ký toàn thư* lần đầu được hoàn thành bởi Ngô Sĩ Liên.
 *   **1479:** Trong cuộc chiến với Lan Xang (1478 - 1480), quân đội Đại Việt tiến sâu vào đất Lào, chiếm kinh đô Luang Prabang, đẩy lùi quân Lan Xang.
 *   **1483:** Triều đình ban hành bộ luật *Quốc triều hình luật* (thường gọi là Luật Hồng Đức).
-*   **1484:** Vua Lê Thánh Tông ra lệnh dựng bia Tiến sĩ tại Văn Miếu để ghi danh các người đỗ đạt từ khoa thi năm 1442, tôn vinh nhân tài và khuyến khích sự học.
+*   **1484 (15 tháng 8 âm lịch):** Dưới sự chỉ đạo của vua Lê Thánh Tông, triều đình chính thức làm lễ dựng 10 tấm bia Tiến sĩ đầu tiên tại Văn Miếu Thăng Long, ghi danh các nhà khoa bảng từ khoa thi năm 1442 trở đi nhằm tôn vinh và khuyến khích sự học.
 *   **03/1484:** Vua Lê Thánh Tông ban lệnh nghiêm cấm phá thai, coi đó là hành vi thương tổn tính mệnh và hại luân thường, quy định hình phạt cho cả người chồng nếu không biết răn cấm.
 *   **05/1488:** Cung nhân Nguyễn Thị Cận (vốn xuất thân là nô tỳ) sinh hạ hoàng tử Lê Tuấn (sau là vua Lê Uy Mục).
 *   **1490:** Định lại bản đồ 13 xứ trong cả nước.
 *   **02/1496:** Vua Lê Thánh Tông làm thơ cầu đảo tại miếu Hoàng Hựu sau nhiều ngày không mưa; đêm đó trời đổ mưa lớn.
 *   **1497:** Vua Lê Thánh Tông mất. Lê Hiến Tông lên ngôi.
 *   **Thế kỷ XVI:** Công giáo bắt đầu du nhập, với sự xuất hiện của các nhà truyền giáo Dòng Phan-Xi-Cô và Đa Minh.
+*   **Thế kỷ XVI:** Các nhà thám hiểm Bồ Đào Nha gọi Hoàng Sa là "Ilhas do Pracel".
 *   **1504:** Lê Hiến Tông mất, Lê Túc Tông lên ngôi được 6 tháng thì mất.
 *   **1505:** Lê Uy Mục lên ngôi. Triều chính bắt đầu rối loạn, vua tàn bạo, giết hại tôn thất, quyền lực rơi vào tay ngoại thích.
 *   **19/12/1509:** Giản Tu công Lê Oanh (cháu Lê Thánh Tông) dấy binh từ Thanh Hóa tiến ra Thăng Long, giết Lê Uy Mục và tự lập làm vua (Lê Tương Dực).
@@ -478,13 +490,14 @@
 *   **07/05/1516:** Trịnh Duy Sản làm binh biến, giết vua Lê Tương Dực.
 *   **1522:** Mạc Đăng Dung, một võ tướng có nhiều quyền lực, ép vua Lê Chiêu Tông phải chạy khỏi Thăng Long.
 *   **1526:** Mạc Đăng Dung sai người bí mật giết vua Lê Chiêu Tông.
-*   **15/06/1527:** Mạc Đăng Dung ép vua Lê Cung Hoàng nhường ngôi, lập ra triều Mạc. Nhà Lê Sơ sụp đổ.
 
 ### **Thời kỳ Nhà Mạc và Chiến tranh Nam - Bắc triều (1527 - 1592)**
 
 *   **1527:** Mạc Đăng Dung lập Dương Kinh (Hải Dương) làm kinh đô thứ hai, nâng cao vị thế quê hương nhà Mạc.
+*   **15/06/1527:** Mạc Đăng Dung ép vua Lê Cung Hoàng nhường ngôi, lập ra triều Mạc. Nhà Lê Sơ sụp đổ.
 *   **1528:** Mạc Đăng Dung cho đúc tiền Minh Đức thông bảo và tổ chức lại quân đội.
 *   **1529:** Mạc Đăng Dung nhường ngôi cho con là Mạc Đăng Doanh, lui về làm Thái thượng hoàng.
+*   **1529:** Vương triều Mạc tổ chức khoa thi Tiến sĩ đầu tiên, lấy đỗ 27 người, tiếp nối truyền thống giáo dục và khoa cử của triều Lê trước đó.
 *   **01/01/1530:** Mạc Đăng Doanh lên ngôi vua, lấy niên hiệu là Đại Chính.
 *   **1533:** Tại Ai Lao, Nguyễn Kim (một cựu thần nhà Lê) tìm được Lê Ninh (con vua Lê Chiêu Tông), lập lên làm vua (Lê Trang Tông), bắt đầu công cuộc "phù Lê diệt Mạc".
 *   **1533:** Đậu Hà Lan lần đầu tiên được người Hà Lan mang đến buôn bán tại vùng Gia Định và Sơn Nam, bắt đầu du nhập vào Việt Nam.
@@ -497,6 +510,7 @@
 *   **1545:** Nguyễn Kim bị một hàng tướng nhà Mạc đầu độc chết. Con rể là Trịnh Kiểm lên thay, nắm toàn bộ binh quyền, mâu thuẫn giữa hai dòng họ Trịnh-Nguyễn bắt đầu nảy sinh.
 *   **1546:** Mạc Phúc Hải mất, Mạc Phúc Nguyên lên kế vị. Nội bộ triều Mạc xảy ra tranh chấp giữa phe Mạc Kính Điển (ủng hộ Phúc Nguyên) và Phạm Tử Nghi (ủng hộ Mạc Chính Trung).
 *   **1551:** Cuộc nổi loạn của Phạm Tử Nghi và Mạc Chính Trung bị dẹp yên.
+*   **1554:** Triều Lê Trung hưng lần đầu tiên tổ chức khoa thi Tiến sĩ tại hành cung Yên Trường (Thanh Hóa). Khoa thi đặc biệt này được gọi là "Chế khoa".
 *   **1558:** Trịnh Kiểm cử Nguyễn Hoàng (con trai Nguyễn Kim) vào trấn thủ Thuận Hóa để mở rộng thế lực và phòng bị quân Mạc từ phía biển. Nguyễn Hoàng bắt đầu xây dựng cơ sở cát cứ ở phương Nam.
 *   **Đầu năm 1564:** Mạc Kinh Chỉ (con trưởng Mạc Kính Điển) tư thông với vợ lẽ của cha, bị giáng làm thứ dân.
 *   **07/03/1568:** Các nhà hàng hải Pháp rời cảng La Rochelle cùng với các học giả Dòng Tên đi Viễn Đông và đã đặt chân đến quần đảo Hoàng Sa.
@@ -512,13 +526,13 @@
 *   **01/1592:** Trịnh Tùng tiến vào giải phóng Thăng Long. Mạc Mậu Hợp bỏ kinh thành chạy.
 *   **Đầu 1592:** Trịnh Tùng thống lĩnh đại quân tiến ra Bắc, đánh bại quân chủ lực của nhà Mạc trong một trận quyết định.
 *   **12/1592:** Trịnh Tùng bắt được Mạc Mậu Hợp. Mậu Hợp bị treo sống 3 ngày rồi bị chém đầu tại bãi cát Bồ Đề. Vương triều Mạc ở Thăng Long chính thức sụp đổ.
+
+### **Thời kỳ Phân liệt Đàng Trong - Đàng Ngoài (1593 - 1771)**
+
 *   **Đầu 1593:** Con cháu nhà Mạc (Mạc Kính Chỉ) tiếp tục nổi dậy ở Hải Dương nhưng nhanh chóng bị dẹp tan. Dư đảng nhà Mạc rút lên Cao Bằng, tiếp tục cát cứ. Cuộc chiến tranh Nam - Bắc triều về cơ bản kết thúc.
 *   **16/04/1593:** Vua Lê trở về Thăng Long. Triều Lê được khôi phục.
+*   **1595:** Sau khi giành lại kinh đô, các khoa thi Hội của triều Lê Trung hưng được tiếp tục tổ chức tại Thăng Long và kỳ thi Đình được khôi phục như thường lệ.
 *   **04/1597:** Vua Lê Thế Tông đích thân đến ải Nam Quan để hội kiến với quan lại nhà Minh, đấu tranh ngoại giao khẳng định vị thế chính thống của nhà Lê.
-
-### **Thời kỳ Phân liệt Đàng Trong - Đàng Ngoài (1527 - 1771)**
-
-*   **Thế kỷ XVI:** Các nhà thám hiểm Bồ Đào Nha gọi Hoàng Sa là "Ilhas do Pracel".
 *   **04/1599:** Vua Lê tấn phong Trịnh Tùng làm Đô Nguyên súy, Thượng phụ Bình An vương, chính thức hình thành thể chế Vua Lê - Chúa Trịnh ở Đàng Ngoài.
 *   **1600:** Nguyễn Hoàng từ Bắc Hà trở về Thuận Quảng, bắt đầu thực hiện chính sách cai trị mới, từng bước tách khỏi sự ràng buộc của họ Trịnh.
 *   **1601:** Tướng quân Tokugawa Ieyasu gửi thư cho chúa Nguyễn Hoàng đề nghị thiết lập quan hệ giao thương và kiểm soát thương nhân Nhật Bản.
@@ -566,6 +580,7 @@
 *   **1651:** Alexandre de Rhodes xuất bản hai cuốn sách đầu tiên bằng chữ Quốc ngữ tại Rome: "Dictionarium annamiticum, lusitanum, et latinum" (Từ điển Việt - Bồ - La) và "Cathechismus" (Phép giảng tám ngày). Đây là một cột mốc vĩ đại giúp chính thức hóa và chuẩn hóa chữ Quốc ngữ.
 *   **1653:** Chúa Nguyễn đánh bại vua Chiêm Thành là Bà Tấm, lấy đất từ sông Phan Rang đến Phú Yên, lập ra dinh Thái Khang (nay là Khánh Hòa).
 *   **Khoảng 1653 - 1657:** Ông cố của anh em Tây Sơn là Hồ Phi Long từ Nghệ An vào lập nghiệp tại Quy Nhơn, đặt nền móng cho dòng họ tại vùng đất này.
+*   **1653:** Dưới thời vua Lê Thần Tông, đợt dựng bia có quy mô lớn nhất tại Văn Miếu được thực hiện, dựng bổ sung bia cho 25 khoa thi Tiến sĩ trước đó còn thiếu.
 *   **1655 - 1660:** Cuộc chiến lần thứ năm, đây là lần duy nhất quân Nguyễn chủ động tấn công ra Bắc, chiếm được 7 huyện ở Nghệ An. Tuy nhiên sau đó do nội bộ bất hòa phải rút lui.
 *   **1657:** Chúa Trịnh Tráng mất, con là Trịnh Tạc lên nối ngôi (Tây Định Vương).
 *   **1658:** Chúa Hiền (Nguyễn Phúc Tần) cử quân sang giúp vua Chân Lạp là Batom Reachea (Ponhea So - con của bà Ngọc Vạn) dẹp loạn. Để tạ ơn, triều đình Chân Lạp đã hợp thức hóa chủ quyền của người Việt tại vùng đất **Đồng Nai**.
@@ -601,6 +616,7 @@
 *   **1709 - 1713:** Trong khoảng 5 năm, Đội Hoàng Sa thỉnh thoảng thu lượm được đồi mồi, hải sâm, bát sành và súng đồng tại quần đảo Hoàng Sa.
 *   **1710 - 1712:** Phó tướng thủy quân Quảng Đông của nhà Thanh là Ngô Thăng chỉ huy một chuyến tuần biển. Tuy nhiên, phân tích lịch sử cho thấy hành trình này chỉ đi vòng quanh đảo Hải Nam chứ không hề tiến ra các vùng biển xa như quần đảo Hoàng Sa, trái ngược với những yêu sách sau này của Trung Quốc.
 *   **1714:** Chúa Nguyễn Phúc Chu cho trùng tu chùa Thiên Mụ và tự xưng là **"Đại Việt quốc vương"** trong bài minh khắc trên chuông.
+*   **1717:** Đợt dựng bia lớn thứ hai trong lịch sử Văn Miếu được tiến hành, dựng bổ sung 21 tấm bia Tiến sĩ còn thiếu cho các nhà khoa bảng triều Lê Trung hưng.
 *   **1718:** Ở Đàng Ngoài, chúa Trịnh Cương lập ra Lục phiên ở phủ Chúa, thâu tóm toàn bộ quyền lực, Lục bộ của triều đình nhà Lê chỉ còn là hư vị.
 *   **1721:** Vua Lê Dụ Tông (thực chất là chúa Trịnh Cương) định lại quy chế phẩm phục quan lại văn võ, phân biệt cấp bậc rõ ràng.
 *   **1721:** Hải Thượng Lãn Ông Lê Hữu Trác, danh y và nhà văn lớn của Việt Nam, sinh ra tại xã Liêu Xá, huyện Đường Hào, trấn Hải Dương (nay thuộc Hưng Yên).
@@ -625,7 +641,7 @@
 *   **1765:** Quyền thần Trương Phúc Loan chuyên quyền, gây cảnh loạn lạc. Thầy giáo Trương Văn Hiến trốn vào An Thái dạy văn võ cho ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ, chuẩn bị nền tảng mưu lược cho cuộc khởi nghĩa.
 *   **1767:** Chúa Trịnh Doanh mất, con là Trịnh Sâm lên nối ngôi (Tĩnh Đô Vương).
 
-### **Thời kỳ Tây Sơn (1771 - 1802)**
+### **Thời kỳ Phong trào và Triều đại Tây Sơn (1771 - 1802)**
 
 *   **1771 - 1801:** Nguyễn Ánh nhiều lần chạy ra Phú Quốc ẩn náu khi bị quân Tây Sơn truy đuổi.
 *   **1771:** Ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ dựng cờ khởi nghĩa ở Tây Sơn Thượng đạo (An Khê, Gia Lai) với khẩu hiệu "lấy của người giàu chia cho người nghèo". Nguyễn Nhạc được tôn làm **Tây Sơn Vương**. Nhận được sự ủng hộ mạnh mẽ của các dân tộc thiểu số (người Xà Đàng, Ba Na) vùng An Khê, Nguyễn Nhạc được đồng bào tôn xưng là "Vua Trời", tạo dựng cơ sở vững chắc ban đầu cho cuộc khởi nghĩa. Các nhân vật kiệt xuất như Trần Quang Diệu, Võ Văn Dũng, Võ Đình Tú gia nhập nghĩa quân. Tương truyền nữ tướng Bùi Thị Xuân đã đánh hổ cứu Trần Quang Diệu trong thời gian này, mở đầu cho mối lương duyên và sự nghiệp lẫy lừng của hai người.
@@ -736,8 +752,9 @@
 *   **27/02/1801:** Đại chiến thủy quân tại Thị Nại. Thủy quân nhà Nguyễn, do đích thân Nguyễn Ánh và Lê Văn Duyệt chỉ huy, đã mở cuộc tấn công bất ngờ và quy mô lớn vào hạm đội Tây Sơn đang phòng thủ đầm Thị Nại. Lợi dụng sức gió và hỏa công, quân Nguyễn đã tiêu diệt hoàn toàn lực lượng thủy quân Tây Sơn, thiêu rụi hơn 700 chiến thuyền và thu được nhiều súng ống. Thắng lợi mang tính quyết định này được vinh danh là "Đệ nhất vũ công" của triều Nguyễn, mở đường cho việc tiến đánh Phú Xuân.
 *   **Tháng 5 âm lịch năm 1801:** Trong chiến dịch đánh chiếm Phú Xuân, Lê Văn Duyệt và Lê Chất đã dùng mưu kế bất ngờ tại cửa Tư Dung, cho quân khiêng thuyền chiến qua bãi cát để đánh úp phía sau phòng tuyến quân Tây Sơn. Quân Nguyễn Ánh tiến vào kinh thành Phú Xuân (Huế), buộc vua Cảnh Thịnh phải bỏ chạy ra Bắc. Sự kiện này đánh dấu sự sụp đổ của trung tâm quyền lực nhà Tây Sơn.
 *   **07/07/1801:** (27 tháng 5 âm lịch) Võ Tánh và Ngô Tùng Châu tuẫn tiết để giữ thành Bình Định, cầm chân quân Tây Sơn giúp quân Nguyễn rảnh tay đánh chiếm Phú Xuân.
+*   **Cuối thế kỷ XIX:** Thực dân Pháp bắt đầu khai thác tài nguyên trên đảo Phú Quốc như dừa, hồ tiêu và thành lập một trại giam.
 
-### **Thời kỳ Nhà Nguyễn (1802 - 1858)**
+### **Thời kỳ Nhà Nguyễn Độc lập (1802 - 1858)**
 
 *   **1802:** Triều Nguyễn được thành lập, vua Gia Long lên ngôi.
 *   **03/02/1802:** Trận Trấn Ninh. Trận kịch chiến cuối cùng giữa quân Tây Sơn và quân chúa Nguyễn. Mặc dù nữ tướng Bùi Thị Xuân đã dũng cảm cưỡi voi chỉ huy những đợt tiến công quyết liệt, quân Tây Sơn cuối cùng vẫn bị đánh bại trước hệ thống phòng thủ vững chắc của quân Nguyễn tại lũy Trấn Ninh. Cùng lúc đó, thủy quân Tây Sơn cũng bị tiêu diệt tại cửa Nhật Lệ. Thất bại thảm hại này đã đánh dấu sự sụp đổ hoàn toàn của vương triều Tây Sơn.
@@ -813,6 +830,7 @@
 *   **05/1828:** Vua Minh Mạng đích thân làm lễ cày **Tịch điền** tại ruộng Tịch điền (được lập ở phường Hậu Sinh và An Trạch), nhằm khuyến khích nông nghiệp.
 *   **10/1828:** Đúc ấn vàng **"Hoàng Đế chi bảo"** dùng cho các chiếu văn khánh tiết, ban ơn.
 *   **1829:** Thành lập huyện Kim Sơn (Ninh Bình) từ công cuộc khẩn hoang do Nguyễn Công Trứ chỉ đạo.
+*   **1829:** Triều Nguyễn ban hành quy định mới cho các khoa thi Hội, lấy thêm những thí sinh có số điểm gần sát với hạng Đệ tam giáp và lập thành một bảng phụ gọi là "Phó bảng".
 *   **11/1829:** Vua Minh Mạng cải tổ Văn thư phòng thành **Nội các**, cơ quan tham mưu và giải quyết văn thư trọng yếu của triều đình.
 *   **1830:** Tổng trấn Lê Văn Duyệt tấu xin và đốc suất việc xây dựng lại thành Gia Định (thành Phiên An) bằng đá ong, mở rộng quy mô kiên cố bậc nhất miền Nam.
 *   **01/1830:** Vua Minh Mạng cho xây dựng **Hổ Quyền** tại gò Long Thọ (Huế), một đấu trường độc đáo dành cho các cuộc tử chiến giữa voi và hổ.
@@ -868,6 +886,7 @@
 *   **1848 - 1849:** Việc quản lý hành chính đối với các quần đảo tiếp tục được triều Nguyễn duy trì với mục đích địa lý nhằm nắm bắt tốt nhất các hải trình, đồng thời phục vụ mục đích tài chính thông qua việc thu thuế ngư dân hoạt động trong vùng.
 *   **02/1848:** Triều đình bắt đầu cho đúc tiền "Tự Đức thông bảo" và hoàn thành bộ sách *Thế Tổ Cao Hoàng đế thực lục chính biên*.
 *   **03/1850:** Vua Tự Đức cho mở tòa Kinh Diên (nơi vua nghe giảng sách) và thành lập viện Tập Hiền.
+*   **1851:** Vua Tự Đức cho mở thêm "Chế khoa Cát sĩ" (Khoa thi đặc biệt kén chọn bậc sĩ phu xuất chúng) bên cạnh khoa thi chính thức nhằm tuyển chọn nhân tài xuất sắc cho đất nước.
 *   **12/1852:** Vua Tự Đức ra lệnh biên soạn bộ quốc sử *Khâm định Việt sử thông giám cương mục*, do Phan Thanh Giản làm Tổng tài.
 *   **1853:** Vua Tự Đức đổi tỉnh Quảng Trị thành đạo Quảng Trị (lệ thuộc phủ Thừa Thiên), và nhập phủ Đức Thọ (trước thuộc Hà Tĩnh) vào tỉnh Nghệ An.
 *   **1854 - 1855:** Cuộc nổi dậy của sĩ phu và nông dân do Cao Bá Quát khởi xướng ở vùng Sơn Tây, Hà Nội.
@@ -876,9 +895,8 @@
 *   **23/01/1857:** Phái viên Pháp Montigny cập bến Đà Nẵng yêu cầu tự do truyền đạo và buôn bán nhưng bị triều đình Huế cự tuyệt.
 *   **07/1857:** Hoàng đế Pháp Napoleon III quyết định can thiệp vũ trang vào Việt Nam.
 
-### **Thời kỳ Pháp xâm lược và phong trào kháng chiến (1858 - 1896)**
+### **Thời kỳ Pháp xâm lược và Phong trào Kháng chiến (1858 - 1896)**
 
-*   **Cuối thế kỷ XIX:** Thực dân Pháp bắt đầu khai thác tài nguyên trên đảo Phú Quốc như dừa, hồ tiêu và thành lập một trại giam.
 *   **31/08/1858:** Liên quân Pháp - Tây Ban Nha dàn trận tại cửa biển Đà Nẵng.
 *   **01/09/1858:** Liên quân Pháp - Tây Ban Nha nổ súng tấn công bán đảo Sơn Trà (Đà Nẵng), đánh vỡ đồn Đông, chính thức bắt đầu cuộc xâm lược Việt Nam.
 *   **02/09/1858:** Liên quân Pháp - Tây Ban Nha chiếm đồn Tây, đồn An Hải và Điện Hải. Quân Pháp đổ bộ chiếm được bán đảo Sơn Trà.
@@ -998,7 +1016,7 @@
 *   **28/12/1895:** Phan Đình Phùng hy sinh, khởi nghĩa Hương Khê dần tan rã, đánh dấu sự kết thúc về cơ bản của phong trào Cần Vương có tổ chức trên quy mô lớn.
 *   **1896:** Nhà tù Hỏa Lò được xây dựng tại Hà Nội.
 
-### **Giai đoạn Củng cố Thống trị và Khai thác Thuộc địa lần thứ nhất (1897 - 1913)**
+### **Giai đoạn Khai thác Thuộc địa lần thứ nhất và Phong trào Yêu nước (1897 - 1913)**
 
 *   **02/1897:** Paul Doumer được bổ nhiệm làm Toàn quyền Đông Dương, bắt đầu một giai đoạn mới với chính sách cai trị tập trung và khai thác kinh tế quy mô lớn.
 *   **13/08/1897:** Triều đình Huế ra dụ bãi bỏ chức Kinh lược sứ Bắc Kỳ, trao toàn bộ quyền cai trị ở Bắc Kỳ cho Thống sứ Pháp.
@@ -1078,7 +1096,7 @@
 *   **11/11/1918:** Chiến tranh Thế giới thứ nhất kết thúc.
 *   **16/11/1918:** Nổ ra cuộc binh biến ở đồn Bình Liêu (Quảng Ninh) do Thàm Cam Say và các binh lính người Hoa, người Việt lãnh đạo, kéo dài đến tháng 6/1919.
 
-### **Giai đoạn tìm đường cứu nước và thành lập Đảng Cộng sản (1919 - 1930)**
+### **Giai đoạn Vận động Cứu nước và Thành lập Đảng (1919 - 1930)**
 
 *   **01/1919:** (Tháng Giêng năm Khải Định thứ 4) Chuẩn y lấy khoa thi Hội năm này làm "Ngự tứ ân khoa", đây là khoa thi Hội cuối cùng của triều đình.
 *   **02/1919:** Nguyễn Ái Quốc gia nhập Đảng Xã hội Pháp.
@@ -1165,9 +1183,6 @@
 *   **01-09/05/1929:** Đại hội lần thứ nhất của Hội Việt Nam Cách mạng Thanh niên diễn ra tại Hương Cảng.
 *   **17/06/1929:** Đông Dương Cộng sản Đảng được thành lập tại Hà Nội.
 *   **15/11/1929:** An Nam Cộng sản Đảng được thành lập tại Sài Gòn.
-
-### **Thời kỳ Khủng hoảng Kinh tế và Cao trào Cách mạng (1930 - 1935)**
-
 *   **1930 - 1932:** Các tàu chiến *Inconstant*, *Alerte*, *La Malicieuse* và *De Lanessan* của hải quân Pháp liên tiếp thực hiện các cuộc tuần tiễu và khẳng định chủ quyền tại quần đảo Hoàng Sa.
 *   **01/01/1930:** Đông Dương Cộng sản Liên đoàn chính thức thành lập tại Hà Tĩnh.
 *   **02/1930:** Cuộc khởi nghĩa Yên Bái do Việt Nam Quốc dân Đảng lãnh đạo nổ ra và thất bại.
@@ -1183,6 +1198,9 @@
 *   **12/09/1930:** Máy bay Pháp ném bom xuống đoàn biểu tình của nông dân Hưng Nguyên (Nghệ An), làm 171 người chết, sự kiện đỉnh cao trong cao trào Xô viết Nghệ - Tĩnh.
 *   **23/09/1930:** Chính phủ Pháp ra thông cáo báo cho các cường quốc khác biết việc Pháp chiếm đóng quần đảo Trường Sa.
 *   **14-31/10/1930:** Hội nghị lần thứ nhất Ban Chấp hành Trung ương Đảng họp tại Hương Cảng (Trung Quốc), thông qua Luận cương chính trị và đổi tên Đảng thành Đảng Cộng sản Đông Dương. Đồng chí Trần Phú được bầu làm Tổng Bí thư.
+
+### **Thời kỳ Khủng hoảng Kinh tế và Đấu tranh Phục hồi Lực lượng (1931 - 1935)**
+
 *   **1931:** Trung Quốc cho đấu thầu việc khai thác phân chim trên quần đảo Hoàng Sa.
 *   **17/01/1931:** Chuyến bay bưu chính đầu tiên giữa Pháp và Đông Dương diễn ra.
 *   **11/04/1931:** Quốc tế Cộng sản ra nghị quyết công nhận Đảng Cộng sản Đông Dương là chi bộ độc lập.
@@ -1203,7 +1221,7 @@
 *   **21/12/1933:** Thống đốc Nam Kỳ J. Krautheimer ký nghị định chính thức sáp nhập quần đảo Trường Sa vào tỉnh Bà Rịa.
 *   **27-31/03/1935:** Đại hội đại biểu toàn quốc lần thứ nhất của Đảng Cộng sản Đông Dương được tổ chức tại Ma Cao (Trung Quốc).
 
-### **Thời kỳ Mặt trận Dân chủ (1936 - 1939)**
+### **Thời kỳ Mặt trận Dân chủ (1936 - 1938)**
 
 *   **1936:** Đại Việt Quốc gia Xã hội Đảng được thành lập.
 *   **1936:** Việt Nam Độc lập Vận động Đồng minh Hội, một tổ chức có tên gọi tương tự Việt Minh, được thành lập tại Nam Kinh (Trung Quốc) bởi các nhà hoạt động chống đế quốc.
@@ -1229,15 +1247,15 @@
 *   **18/07/1938:** Đại sứ Trung Quốc tại Paris gửi một công hàm khẳng định mạnh mẽ các yêu sách của Trung Quốc đối với quần đảo Hoàng Sa. Công hàm ghi nhận bảo đảm của Bộ Ngoại giao Pháp rằng "hành động đó hoàn toàn không có ý tác động đến các lập trường pháp lý tương ứng của Trung Quốc và của Pháp", đồng thời bảo lưu quyền lợi của cả hai bên.
 *   **30/08/1938:** Chính phủ Pháp ban hành Sắc lệnh về tự do báo chí ở Nam Kỳ, cho phép xuất bản báo chí tiếng Việt mà không cần xin phép trước.
 *   **10/12/1938:** Trương Tử Anh công bố chủ thuyết "Chủ nghĩa Dân tộc Sinh tồn", làm nền tảng tư tưởng cho Đại Việt Quốc dân Đảng sau này.
+
+### **Thời kỳ Vận động Giải phóng Dân tộc và Cách mạng tháng Tám (1939 - 1945)**
+
 *   **1939:** Tổng Bí thư Nguyễn Văn Cừ xuất bản tác phẩm *Tự chỉ trích*.
+*   **1939 - 1940:** Bùi Văn Thuyên (còn gọi là Hai Thiêng) sinh ra trong một gia đình nông dân nghèo tại Châu Thành, Tây Ninh. Xuất thân từ một gia đình giàu truyền thống yêu nước có cha và anh tham gia kháng chiến chống Pháp, ông sau này trở thành một chiến sĩ du kích huyền thoại, tham gia hơn 1.000 trận đánh và mang trên mình 72 vết thương trong suốt cuộc kháng chiến chống Mỹ.
 *   **12/03/1939:** Việt Nam Phục quốc Đồng minh Hội chính thức ra mắt tại Thượng Hải.
 *   **31/03/1939:** Chính phủ Nhật Bản tuyên bố quyền kiểm soát đối với quần đảo Trường Sa. Pháp đã lên tiếng phản đối hành động này vào ngày 4 tháng 4.
 *   **05/05/1939:** Toàn quyền Jules Brévié sửa đổi nghị định năm 1938 để thành lập hai đại lý hành chính riêng biệt cho quần đảo Hoàng Sa: đại lý "Nhóm Lưỡi Liềm và các đảo phụ cận" và đại lý "Nhóm An Vĩnh và các đảo phụ cận".
 *   **05/07/1939:** Phật giáo Hòa Hảo, một tôn giáo nội sinh, được ông Huỳnh Phú Sổ sáng lập tại tỉnh An Giang.
-
-### **Thời kỳ Vận động Giải phóng Dân tộc và Cách mạng tháng Tám (1939 - 1945)**
-
-*   **1939 - 1940:** Bùi Văn Thuyên (còn gọi là Hai Thiêng) sinh ra trong một gia đình nông dân nghèo tại Châu Thành, Tây Ninh. Xuất thân từ một gia đình giàu truyền thống yêu nước có cha và anh tham gia kháng chiến chống Pháp, ông sau này trở thành một chiến sĩ du kích huyền thoại, tham gia hơn 1.000 trận đánh và mang trên mình 72 vết thương trong suốt cuộc kháng chiến chống Mỹ.
 *   **01/09/1939:** Chiến tranh Thế giới thứ hai bùng nổ, Pháp tham chiến.
 *   **28/09/1939:** Toàn quyền Đông Dương ra nghị định đặt Đảng Cộng sản Đông Dương ra ngoài vòng pháp luật, bắt đầu thời kỳ khủng bố trắng.
 *   **06-08/11/1939:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ VI tại Bà Điểm (Hóc Môn), quyết định chuyển hướng chiến lược, đặt nhiệm vụ giải phóng dân tộc lên hàng đầu và thành lập Mặt trận Dân tộc Thống nhất Phản đế Đông Dương.
@@ -1291,12 +1309,12 @@
 *   **25/08/1945:** Khởi nghĩa thắng lợi ở Sài Gòn.
 *   **28/08/1945:** Ủy ban Dân tộc Giải phóng cải tổ thành Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa. 20 vạn quân Tưởng Giới Thạch do Lư Hán chỉ huy bắt đầu kéo vào miền Bắc Việt Nam (từ vĩ tuyến 16 trở ra).
 *   **30/08/1945:** Vua Bảo Đại đọc Chiếu thoái vị tại Huế, chấm dứt chế độ phong kiến ở Việt Nam.
+*   **09/1945:** Nhân ngày khai trường đầu tiên của nước Việt Nam Dân chủ Cộng hòa, Chủ tịch Hồ Chí Minh gửi thư cho học sinh.
+
+### **Giai đoạn Thiết lập Chính quyền và Kháng chiến ở Nam Bộ (09/1945 - 02/1946)**
+
 *   **01/09/1945:** Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa ban hành Sắc lệnh số 01/SL tuyên bố lấy múi giờ 7 làm giờ chính thức. Từ đó, miền Bắc và miền Trung sử dụng múi giờ 7.
 *   **02/09/1945:** Tại Quảng trường Ba Đình (Hà Nội), Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn Độc lập, khai sinh nước Việt Nam Dân chủ Cộng hòa.
-
-### **Giai đoạn Thiết lập Chính quyền và Kháng chiến ở Nam Bộ (1945 - 1946)**
-
-*   **09/1945:** Nhân ngày khai trường đầu tiên của nước Việt Nam Dân chủ Cộng hòa, Chủ tịch Hồ Chí Minh gửi thư cho học sinh.
 *   **03/09/1945:** Trong phiên họp đầu tiên của Chính phủ lâm thời, Chủ tịch Hồ Chí Minh đề ra các nhiệm vụ cấp bách: chống giặc đói, giặc dốt và giặc ngoại xâm.
 *   **04/09/1945:** Chính phủ ra Sắc lệnh số 4/SL lập "Quỹ Độc lập".
 *   **05/09/1945:** Chính phủ lâm thời ra sắc lệnh giải thể Đại Việt Quốc gia Xã hội Đảng và Đại Việt Quốc dân Đảng.
@@ -1316,6 +1334,9 @@
 *   **28/02/1946:** Hiệp ước Trùng Khánh được ký kết giữa Pháp và chính quyền Tưởng Giới Thạch, thỏa thuận cho quân Pháp ra miền Bắc thay thế quân Tưởng.
 *   **03/1946:** Tại Quốc hội khóa I, đại biểu Huỳnh Văn Tiểng được cho là đã lần đầu tiên đề xuất tên gọi Thành phố Hồ Chí Minh, phản ánh tình cảm đặc biệt của nhân dân Nam Bộ dành cho Chủ tịch Hồ Chí Minh từ rất sớm.
 *   **03/1946:** Lê Thị Riêng tham gia công tác phụ nữ huyện Giá Rai và Phụ nữ cứu quốc tỉnh Rạch Giá.
+
+### **Giai đoạn Hòa hoãn và Chuẩn bị Toàn quốc Kháng chiến (03/1946 - 12/1946)**
+
 *   **02/03/1946:** Quốc hội khóa I họp kỳ đầu tiên, bầu ra Chính phủ liên hiệp kháng chiến do Hồ Chí Minh làm Chủ tịch.
 *   **06/03/1946:** Chủ tịch Hồ Chí Minh và Vũ Hồng Khanh thay mặt Chính phủ Việt Nam ký với J. Sainteny, đại diện Chính phủ Pháp, bản Hiệp định Sơ bộ.
 *   **09/03/1946:** Ban Thường vụ Trung ương Đảng ra Chỉ thị "Hòa để tiến".
@@ -1326,9 +1347,6 @@
 *   **19/04/1946:** Hội nghị trù bị Đà Lạt khai mạc để chuẩn bị cho cuộc đàm phán chính thức tại Pháp.
 *   **20/04/1946:** Mặt trận Quốc gia Liên hiệp được thành lập tại miền Nam, ban đầu chủ trương chống Pháp nhưng sau bị phân hóa.
 *   **21/04/1946:** Đại tá Vicaire báo cáo với Valluy về kế hoạch chiếm đóng tam giác Hà Nội - Hải Dương - Hòn Gai - Móng Cái và Lạng Sơn.
-
-### **Giai đoạn Hòa hoãn và Chuẩn bị Toàn quốc Kháng chiến (1946)**
-
 *   **05/1946:** Hội nghị Thường vụ Trung ương Đảng chỉ định đồng chí Lê Duẩn làm Bí thư Xứ ủy lâm thời Nam Bộ để củng cố và tăng cường sự lãnh đạo của Đảng trong cuộc kháng chiến ở miền Nam.
 *   **11/05/1946:** Hội nghị trù bị Đà Lạt kết thúc mà không đạt được thỏa thuận về các vấn đề cơ bản.
 *   **19/05/1946:** Lần đầu tiên kỷ niệm ngày sinh Chủ tịch Hồ Chí Minh được tổ chức công khai nhằm biểu thị tinh thần đại đoàn kết dân tộc.
@@ -1357,19 +1375,19 @@
 *   **18 - 19/12/1946:** Quân Pháp liên tiếp gửi tối hậu thư đòi tước vũ khí của lực lượng tự vệ Việt Nam tại Hà Nội. Ban Thường vụ Trung ương Đảng họp hội nghị mở rộng tại làng Vạn Phúc (Hà Đông) dưới sự chủ trì của Chủ tịch Hồ Chí Minh, quyết định phát động toàn quốc kháng chiến.
 *   **20:03, 19/12/1946:** Điện trong toàn thành phố phụt tắt, pháo đài Láng nổ phát súng lệnh tổng công kích, chính thức báo hiệu toàn quốc kháng chiến. Tới 20:30, chính phủ Việt Nam đã phát đi lời kêu gọi toàn quốc kháng chiến.
 *   **22/12/1946:** Cựu Thị trưởng Hà Nội Trần Văn Lai bị thực dân Pháp bắt giam lần thứ hai tại Hỏa Lò ngay sau khi Toàn quốc kháng chiến bùng nổ, với lý do "đảm bảo an toàn cho trí thức".
-*   **03/01/1947:** Bộ trưởng Bộ Thuộc địa Pháp Marius Moutet đến nhà tù Hỏa Lò hòng mua chuộc các trí thức Việt Nam đang bị giam giữ, trong đó có bác sĩ Trần Văn Lai. Các trí thức đã đáp lại bằng sự im lặng, thể hiện sự khinh bỉ và lòng yêu nước kiên định.
-*   **06/01/1947:** Trung đoàn Thủ đô chính thức được thành lập từ lực lượng bảo vệ Liên khu 1 ở Hà Nội.
-*   **15/01/1947:** Lệnh ngừng bắn được thực hiện để Hoa kiều tản cư khỏi Hà Nội. Việt Minh tận dụng cơ hội rút một số cán bộ và lực lượng chiến đấu ra ngoài an toàn.
-*   **14/02/1947:** Quân Pháp mở cuộc tấn công ác liệt vào chợ Đồng Xuân, nơi các chiến sĩ quyết tử Việt Nam chiến đấu kiên cường để giữ từng tấc đất.
 
-### **Giai đoạn Toàn quốc Kháng chiến Bùng nổ và Chiến thắng Việt Bắc (1947 - 1950)**
+### **Giai đoạn Kháng chiến Toàn quốc, Chiến thắng Việt Bắc và Biên giới (1947 - 1950)**
 
 *   **1947:** Việt Nam đặt cơ quan liên lạc đầu tiên tại Yangon, Miến Điện (Myanmar). Cơ quan này sau đó được nâng cấp thành Văn phòng Thông tin tuyên truyền vào năm 1948, giúp mở rộng tuyên truyền quốc tế và phục vụ công tác chỉ đạo kháng chiến.
 *   **1947:** Trung Hoa Dân Quốc (Trung Quốc Quốc dân Đảng) đã đưa ra bản đồ với đường 11 đoạn, sau này được Cộng hòa Nhân dân Trung Hoa kế thừa và sửa thành đường 9 đoạn. Họ dựa vào cái gọi là "tuyên bố chủ quyền lịch sử" để đòi hỏi hầu hết diện tích Biển Đông, bao gồm cả Hoàng Sa và Trường Sa.
+*   **03/01/1947:** Bộ trưởng Bộ Thuộc địa Pháp Marius Moutet đến nhà tù Hỏa Lò hòng mua chuộc các trí thức Việt Nam đang bị giam giữ, trong đó có bác sĩ Trần Văn Lai. Các trí thức đã đáp lại bằng sự im lặng, thể hiện sự khinh bỉ và lòng yêu nước kiên định.
+*   **06/01/1947:** Trung đoàn Thủ đô chính thức được thành lập từ lực lượng bảo vệ Liên khu 1 ở Hà Nội.
 *   **07/01/1947:** Quân đội Trung Hoa Dân quốc chiếm đóng đảo Phú Lâm (Woody Island) ở Hoàng Sa. Cùng ngày, Bộ Ngoại giao Trung Quốc tổ chức họp báo tại Nam Kinh chính thức thông báo việc chiếm đóng, tuyên bố cờ Trung Quốc đang tung bay trên các đảo "chưa bao giờ không thuộc về Trung Quốc".
 *   **13/01/1947:** Đại sứ Pháp tại Nam Kinh trao cho Bộ Ngoại giao Trung Quốc một công hàm đưa ra "những bảo lưu dứt khoát nhất về các hậu quả về pháp lý của việc chiếm đóng Hoàng Sa của quân đội Trung Quốc", đồng thời nhắc lại các đề nghị trước đây về việc dàn xếp hữu nghị hoặc trọng tài.
+*   **15/01/1947:** Lệnh ngừng bắn được thực hiện để Hoa kiều tản cư khỏi Hà Nội. Việt Minh tận dụng cơ hội rút một số cán bộ và lực lượng chiến đấu ra ngoài an toàn.
 *   **16/01/1947:** Quân đội Việt Nam tập kích sân bay Gia Lâm.
 *   **17 - 19/01/1947:** Thông báo hạm *Tonkinois* của Pháp đến đảo Phú Lâm và phát hiện quân đội Trung Quốc đang đồn trú. Chỉ huy Pháp đề nghị quân Trung Quốc rút đi nhưng bị từ chối. Ngày 19/1, tàu *Tonkinois* chuyển sang đảo Hoàng Sa (Pattle), nhận thấy đảo không người ở nên đã cho đổ bộ một đơn vị 20 lính Pháp và Việt Nam để thiết lập quyền kiểm soát.
+*   **14/02/1947:** Quân Pháp mở cuộc tấn công ác liệt vào chợ Đồng Xuân, nơi các chiến sĩ quyết tử Việt Nam chiến đấu kiên cường để giữ từng tấc đất.
 *   **Đêm 17/02/1947:** Sau 60 ngày đêm chiến đấu ngoan cường, Trung đoàn Thủ đô thực hiện cuộc rút quân thần kỳ bằng cách lặng lẽ đi dưới gầm cầu Long Biên và vượt sông Hồng, sông Đuống để rút khỏi Hà Nội, bảo toàn lực lượng phục vụ kháng chiến lâu dài.
 *   **17/02/1947:** Mặt trận Thống nhất Quốc gia Liên hiệp được thành lập tại Nam Kinh (Trung Quốc) bởi các lãnh đạo Việt Cách và Việt Quốc để ủng hộ giải pháp Bảo Đại.
 *   **25/02 - 04/07/1947:** Pháp và Trung Hoa Dân quốc tiến hành đàm phán tại Paris về chủ quyền quần đảo Hoàng Sa. Trung Quốc đưa ra điều kiện tiên quyết là Pháp phải rút quân khỏi đảo Hoàng Sa (Pattle) và kịch liệt bác bỏ đề nghị của Pháp về việc đưa ra trọng tài quốc tế. Các cuộc thảo luận kết thúc mà không đạt được thỏa thuận nào.
@@ -1420,13 +1438,13 @@
 *   **14/10/1950:** Chính phủ Pháp chính thức chuyển giao quyền quản lý hành chính các quần đảo cho chính phủ Bảo Đại.
 *   **04/11/1950:** Quân Pháp rút khỏi Lào Cai và Sa Pa. Toàn bộ tuyến phòng thủ biên giới của Pháp bị đập tan.
 *   **12/1950:** Tướng De Lattre de Tassigny được cử sang Đông Dương làm Cao ủy kiêm Tổng tư lệnh, nắm toàn bộ quyền lực quân sự và dân sự.
-
-### **Thời kỳ cuối cuộc kháng chiến chống Pháp (1951 - 1954)**
-
 *   **06/12/1950:** Tướng De Lattre de Tassigny được bổ nhiệm làm Cao ủy kiêm Tổng tư lệnh quân đội Pháp ở Đông Dương, bắt đầu triển khai kế hoạch quân sự mới.
 *   **23/12/1950:** Sau 10 tháng bị giam cầm và trải qua nhiều cuộc đấu tranh, biểu tình đòi trả tự do của nhân dân Pháp và quốc tế, Raymonde Dien đã được thả tự do.
 *   **23/12/1950:** Hiệp định phòng thủ chung Đông Dương được ký kết giữa Mỹ, Pháp và các chính phủ bù nhìn (Việt Nam, Lào, Campuchia), chính thức hóa sự can thiệp của Mỹ.
 *   **25/12/1950 - 18/01/1951:** Quân đội Việt Nam mở Chiến dịch Trần Hưng Đạo (còn gọi là Chiến dịch Trung du) tiến công phòng tuyến địch ở khu vực Vĩnh Yên - Phúc Yên. Trong chiến dịch này, ngày 15/01/1951, Pháp lần đầu tiên sử dụng bom napalm tại Việt Nam.
+
+### **Thời kỳ Cuộc kháng chiến chống Pháp bước vào Giai đoạn Kết thúc (1951 - 07/1954)**
+
 *   **11-19/02/1951:** Đại hội đại biểu toàn quốc lần thứ II của Đảng Cộng sản Đông Dương diễn ra tại xã Quang Vinh, huyện Chiêm Hóa, Tuyên Quang.
     *   Quyết định đưa Đảng ra hoạt động công khai với tên mới là **Đảng Lao động Việt Nam**.
     *   Thông qua Chính cương, Điều lệ mới và bầu Ban Chấp hành Trung ương. Hồ Chí Minh được bầu làm Chủ tịch Đảng, Trường Chinh làm Tổng Bí thư.
@@ -1467,6 +1485,8 @@
 *   **06/12/1953:** Bộ Chính trị quyết định mở **Chiến dịch Điện Biên Phủ** với mật danh "Trần Đình", mục tiêu là tiêu diệt toàn bộ quân địch tại đây.
 *   **10 - 12/12/1953:** Bộ đội Việt Nam tiêu diệt nhóm tàn quân Thái rút chạy tại Mường Pồn (10/12) và tiến vào giải phóng thị xã Lai Châu (12/12) sau khi quân Pháp rút về Điện Biên Phủ.
 *   **19/12/1953:** Chủ tịch Hồ Chí Minh ký sắc lệnh số 197-SL ban hành **Luật Cải cách ruộng đất**.
+*   **1954:** Sau Hiệp định Genève, vợ chồng Út Tịch được phân công ở lại miền Nam. Bị chính quyền Ngô Đình Diệm đàn áp, bà cùng nhiều phụ nữ khác đã đấu tranh buộc chính quyền thả chồng và bạn chiến đấu. Trong khi đó, Lê Thị Riêng cũng tiếp tục tham gia các phong trào cách mạng chống Mỹ - Diệm tại miền Nam.
+*   **1954:** Chính quyền Việt Nam Cộng hòa tiếp quản Côn Đảo và tiếp tục sử dụng nơi đây làm nhà tù, với các "chuồng cọp" nổi tiếng tàn bạo. Chính quyền Việt Nam Cộng hòa cũng tiếp tục phát triển Phú Quốc và xây dựng trại giam tù binh lớn nhất lúc bấy giờ.
 *   **26/01/1954:** Tại mặt trận Điện Biên Phủ, Bộ Chỉ huy chiến dịch quyết định thay đổi phương châm tác chiến từ "đánh nhanh thắng nhanh" sang **"đánh chắc, tiến chắc"**.
 *   **Đầu năm 1954:** Trong chiến dịch Điện Biên Phủ, cựu Thị trưởng Trần Văn Lai đã góp ý và là người đầu tiên ký tên vào bản kiến nghị đòi hòa bình của nhân sĩ, trí thức Hà Nội ("Les Notabilites"). Bản kiến nghị được gửi sang Pháp và đăng trên các báo lớn, tạo tiếng vang và áp lực ngoại giao.
 *   **13 - 17/03/1954:** Trong đợt 1 của chiến dịch Điện Biên Phủ, bộ đội Việt Nam nổ súng vào lúc 17h05 ngày 13/03. Nhanh chóng tiêu diệt cứ điểm Him Lam (13/03) và Độc Lập (15/03), khiến chỉ huy pháo binh Pháp Piroth phải tự sát. Bản Kéo xin hàng vào ngày 17/03. Trong đợt này, ngày 14/03, chiếc máy bay đầu tiên của Pháp đã bị cao xạ Việt Nam bắn rơi.
@@ -1475,14 +1495,6 @@
 *   **07/05/1954:** Đúng 17 giờ 30 phút, lá cờ "Quyết chiến quyết thắng" tung bay trên nóc hầm De Castries. Tướng De Castries cùng toàn bộ Bộ Tham mưu địch bị bắt sống. **Chiến dịch Điện Biên Phủ toàn thắng**, kết thúc sau 55 ngày đêm chiến đấu anh dũng.
 *   **08/05/1954:** **Hội nghị Giơnevơ** bắt đầu phiên họp đầu tiên bàn về vấn đề lập lại hòa bình ở Đông Dương.
 *   **06/1954:** Đinh Thị Vân được điều động lên công tác tại Cục Nghiên cứu Bộ Tổng tham mưu và được giao nhiệm vụ hoạt động bí mật tại Hà Nội. Bà đã xây dựng được cơ sở tin cậy và cung cấp nhiều tin tức quan trọng trong thời gian "300 ngày tập kết". Thể hiện sự hy sinh to lớn vì cách mạng, bà đã chủ động cưới vợ khác cho chồng để lo toan việc nhà, tạo điều kiện cho mình yên tâm hoàn thành nhiệm vụ.
-*   **10/1954:** Sau Hiệp định Giơnevơ, Đinh Thị Vân nhận lệnh bí mật vào Nam hoạt động, đóng vai "người đi buôn" để xây dựng mạng lưới tình báo ở Sài Gòn. Để tạo vỏ bọc an toàn, cấp trên đã phát thông báo giả rằng bà "phản Đảng, chạy trốn vào Nam" và "tuyên án tử hình vắng mặt".
-*   **10/10/1954:** Quân đội Nhân dân Việt Nam tiến vào tiếp quản Thủ đô Hà Nội.
-*   **16/05/1955:** Quân Pháp rút khỏi Hải Phòng, miền Bắc hoàn toàn được giải phóng, kết thúc 9 năm kháng chiến chống Pháp.
-
-### **Thời kỳ Chia cắt và Xây dựng Chủ nghĩa Xã hội ở Miền Bắc (1954 - 1960)**
-
-*   **1954:** Sau Hiệp định Genève, vợ chồng Út Tịch được phân công ở lại miền Nam. Bị chính quyền Ngô Đình Diệm đàn áp, bà cùng nhiều phụ nữ khác đã đấu tranh buộc chính quyền thả chồng và bạn chiến đấu. Trong khi đó, Lê Thị Riêng cũng tiếp tục tham gia các phong trào cách mạng chống Mỹ - Diệm tại miền Nam.
-*   **1954:** Chính quyền Việt Nam Cộng hòa tiếp quản Côn Đảo và tiếp tục sử dụng nơi đây làm nhà tù, với các "chuồng cọp" nổi tiếng tàn bạo. Chính quyền Việt Nam Cộng hòa cũng tiếp tục phát triển Phú Quốc và xây dựng trại giam tù binh lớn nhất lúc bấy giờ.
 *   **16/06/1954:** Dưới sức ép của Mỹ, Bảo Đại ký sắc lệnh chỉ định Ngô Đình Diệm làm Thủ tướng của chính thể "Quốc gia Việt Nam".
 *   **07/07/1954:** Ngô Đình Diệm chính thức nhậm chức Thủ tướng tại Sài Gòn.
 *   **20-21/07/1954:** **Hiệp định Giơnevơ** được ký kết, chấm dứt chiến tranh ở Đông Dương. Các điểm chính:
@@ -1491,14 +1503,20 @@
     *   Quân đội hai bên tập kết về hai miền Nam - Bắc.
     *   Dự kiến tổ chức Tổng tuyển cử tự do để thống nhất đất nước vào tháng 7/1956.
 *   **08/08/1954:** Cần lao Nhân vị Cách mạng Đảng (Đảng Cần lao) chính thức ra mắt tại miền Nam, do Ngô Đình Nhu sáng lập.
+
+### **Thời kỳ Xây dựng Miền Bắc và Phong trào Đồng khởi ở Miền Nam (08/1954 - 1960)**
+
 *   **09/1954:** Khu Sài Gòn - Chợ Lớn được thành lập (trước đó là Đặc khu Sài Gòn - Chợ Lớn) để phù hợp với công tác lãnh đạo cách mạng trong tình hình mới.
 *   **05-07/09/1954:** Bộ Chính trị họp và ra Nghị quyết về "Tình hình mới, nhiệm vụ mới và chính sách mới của Đảng", xác định chuyển hướng đấu tranh từ quân sự sang chính trị để đòi thi hành Hiệp định Giơnevơ.
 *   **06/09/1954:** Mỹ thành lập khối quân sự Đông Nam Á (SEATO) và đặt miền Nam Việt Nam, Lào, Campuchia dưới sự "bảo hộ" của khối này.
+*   **10/1954:** Sau Hiệp định Giơnevơ, Đinh Thị Vân nhận lệnh bí mật vào Nam hoạt động, đóng vai "người đi buôn" để xây dựng mạng lưới tình báo ở Sài Gòn. Để tạo vỏ bọc an toàn, cấp trên đã phát thông báo giả rằng bà "phản Đảng, chạy trốn vào Nam" và "tuyên án tử hình vắng mặt".
+*   **10/10/1954:** Quân đội Nhân dân Việt Nam tiến vào tiếp quản Thủ đô Hà Nội.
 *   **29/12/1954:** Pháp ký hiệp ước trao toàn bộ quyền hành chính ở miền Nam Việt Nam cho Ngô Đình Diệm.
 *   **08/01/1955:** Chính quyền Ngô Đình Diệm ban hành Dụ số 2 và Dụ số 7 (03/02/1955) về cải cách điền địa, thực chất là cướp lại ruộng đất mà cách mạng đã chia cho nông dân, khôi phục giai cấp địa chủ.
 *   **03/1955:** Hội nghị lần thứ 7 Ban Chấp hành Trung ương Đảng Lao động Việt Nam đề ra nhiệm vụ củng cố miền Bắc và đấu tranh chính trị ở miền Nam.
 *   **22/03/1955:** Đảng Nhân dân Cách mạng Lào được thành lập.
 *   **13/05/1955:** Những người lính Pháp cuối cùng rút khỏi Hải Phòng, miền Bắc được hoàn toàn giải phóng.
+*   **16/05/1955:** Quân Pháp rút khỏi Hải Phòng, miền Bắc hoàn toàn được giải phóng, kết thúc 9 năm kháng chiến chống Pháp.
 *   **07/1955:** Chủ tịch Hồ Chí Minh dẫn đầu đoàn đại biểu Chính phủ Việt Nam Dân chủ Cộng hòa đi thăm các nước xã hội chủ nghĩa để tranh thủ sự ủng hộ quốc tế.
 *   **17/07/1955:** Ngô Đình Diệm tuyên bố từ chối hiệp thương tổng tuyển cử để thống nhất đất nước.
 *   **08/1955:** Hội nghị lần thứ 8 Ban Chấp hành Trung ương Đảng Lao động Việt Nam khẳng định miền Bắc phải tiến lên chủ nghĩa xã hội.
@@ -1560,7 +1578,7 @@
 *   **02/12/1960:** Việt Nam và Cuba chính thức thiết lập quan hệ ngoại giao sau chuyến thăm của Thứ trưởng Ngoại giao Cuba Héctor Rodríguez Llompart. Cuba trở thành quốc gia châu Mỹ đầu tiên công nhận và thiết lập quan hệ ngoại giao với nước Việt Nam Dân chủ Cộng hòa.
 *   **20/12/1960:** **Mặt trận Dân tộc Giải phóng miền Nam Việt Nam** được thành lập.
 
-### **Thời kỳ Chống Chiến tranh Đặc biệt (1961 - 1965)**
+### **Thời kỳ Chống Chiến lược Chiến tranh Đặc biệt (1961 - 1964)**
 
 *   **1961:** Tổng thống Hàn Quốc Park Chung-hee đề nghị gửi quân sang Việt Nam để hỗ trợ Mỹ, nhưng Tổng thống Mỹ John F. Kennedy ban đầu từ chối. Cùng năm, Liên Xô đã viện trợ cho Hải quân Việt Nam 12 tàu phóng ngư lôi và 4 tàu chống ngầm nhằm tăng cường khả năng phòng thủ bờ biển.
 *   **1961 - 1965:** Miền Bắc thực hiện **Kế hoạch 5 năm lần thứ nhất** nhằm xây dựng bước đầu cơ sở vật chất - kỹ thuật của chủ nghĩa xã hội.
@@ -1618,7 +1636,12 @@
 *   **14/11/1964:** Đảng Tân Đại Việt được thành lập.
 *   **25 - 28/11/1964:** Theo sáng kiến của Liên hiệp Công đoàn thế giới, Hội nghị quốc tế "Nhân dân thế giới đoàn kết với nhân dân Việt Nam chống đế quốc Mỹ xâm lược, bảo vệ hòa bình" được tổ chức tại Hà Nội với sự tham dự của 64 đoàn đại biểu đến từ 52 nước.
 *   **28/12/1964 - 01/01/1965:** **Trận Bình Giã (Phước Tuy):** Quân Giải phóng miền Nam Việt Nam mở cuộc tấn công lớn vào làng Bình Giã, liên tục phục kích và đánh thiệt hại nặng nhiều tiểu đoàn tinh nhuệ (Biệt động quân, Thủy quân lục chiến) của Việt Nam Cộng hòa được cử đến ứng cứu. Quân Giải phóng đã bắn rơi 21 trực thăng và 1 máy bay trinh sát, đánh gục chiến thuật "trực thăng vận" và "thiết xa vận" của đối phương, đánh dấu sự phát triển nghệ thuật chiến tranh và đẩy nhanh sự phá sản của chiến lược "Chiến tranh đặc biệt".
+
+### **Thời kỳ Đánh bại Chiến lược Chiến tranh Cục bộ (1965 - 1968)**
+
 *   **1965:** Bà **Nguyễn Thị Định** được bổ nhiệm làm Phó Tư lệnh Quân Giải phóng miền Nam Việt Nam.
+*   **1965:** Lê Thị Riêng được phân công làm Trưởng ban Phụ vận khu Sài Gòn - Gia Định (T4), trực tiếp vào nội thành chỉ huy phong trào phụ nữ. Cùng năm, Út Tịch dự Đại hội anh hùng chiến sĩ thi đua lực lượng vũ trang toàn miền Nam, được bầu là nữ anh hùng và tặng thưởng Huân chương Quân công Giải phóng hạng Nhì vì thành tích tham gia 23 trận đánh.
+*   **1965:** Kostas Sarantidis (Nguyễn Văn Lập) cùng gia đình trở về Hy Lạp sau nhiều năm sinh sống và công tác tại miền Bắc Việt Nam (từ năm 1954). Dù ở quê hương, ông vẫn tiếp tục vận động, quyên góp ủng hộ cho Việt Nam.
 *   **02/1965:** Phong trào **"Ba sẵn sàng"** của thanh niên và **"Ba đảm đang"** (03/1965) của phụ nữ được phát động ở miền Bắc.
 *   **Đầu tháng 02/1965:** Chủ tịch Hội đồng Bộ trưởng Liên Xô Alexei Kosygin sang thăm Việt Nam. Chuyến thăm diễn ra đúng lúc Mỹ bắt đầu ném bom miền Bắc; ông Kosygin đã lên án mạnh mẽ hành động của Mỹ và cam kết sự ủng hộ to lớn của Liên Xô. Ngày 08/02, nhân dân thủ đô Mát-xcơ-va đã tổ chức mít-tinh khổng lồ ủng hộ Việt Nam.
 *   **07/02/1965:** Mỹ mở chiến dịch "Mũi lao lửa 1", ném bom Vĩnh Linh, Đồng Hới, chính thức bắt đầu gây chiến tranh phá hoại miền Bắc.
@@ -1627,11 +1650,6 @@
 *   **01 - 09/03/1965:** Hội nghị nhân dân ba nước Đông Dương họp tại Phnôm Pênh (Campuchia), biểu thị tình đoàn kết chiến đấu chống kẻ thù chung là đế quốc Mỹ.
 *   **02/03/1965:** Mỹ bắt đầu chiến dịch không kích "Sấm rền" (Rolling Thunder) đánh phá miền Bắc một cách có hệ thống.
 *   **08/03/1965:** Lữ đoàn 9 Thủy quân Lục chiến Mỹ đổ bộ vào Đà Nẵng, đánh dấu việc Mỹ trực tiếp đưa quân chiến đấu vào tham chiến, mở đầu cho chiến lược **"Chiến tranh cục bộ"**.
-
-### **Thời kỳ đánh bại chiến lược "Chiến tranh cục bộ" (1965-1968)**
-
-*   **1965:** Lê Thị Riêng được phân công làm Trưởng ban Phụ vận khu Sài Gòn - Gia Định (T4), trực tiếp vào nội thành chỉ huy phong trào phụ nữ. Cùng năm, Út Tịch dự Đại hội anh hùng chiến sĩ thi đua lực lượng vũ trang toàn miền Nam, được bầu là nữ anh hùng và tặng thưởng Huân chương Quân công Giải phóng hạng Nhì vì thành tích tham gia 23 trận đánh.
-*   **1965:** Kostas Sarantidis (Nguyễn Văn Lập) cùng gia đình trở về Hy Lạp sau nhiều năm sinh sống và công tác tại miền Bắc Việt Nam (từ năm 1954). Dù ở quê hương, ông vẫn tiếp tục vận động, quyên góp ủng hộ cho Việt Nam.
 *   **08/03/1965:** Hai tiểu đoàn lính thủy đánh bộ Mỹ đổ bộ vào Đà Nẵng, chính thức mở đầu chiến lược "Chiến tranh cục bộ", trực tiếp đưa quân chiến đấu của Mỹ vào miền Nam.
 *   **22/03/1965:** Mặt trận Dân tộc giải phóng miền Nam Việt Nam ra Tuyên bố 5 điểm, khẳng định quyết tâm đánh đuổi đế quốc Mỹ.
 *   **25-27/03/1965:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ 11 (khóa III) xác định nhiệm vụ cấp bách là "chống Mỹ, cứu nước", chuyển miền Bắc sang thời chiến.
@@ -1709,7 +1727,7 @@
 *   **01/11/1968:** Mỹ buộc phải chấm dứt hoàn toàn và không điều kiện việc ném bom, bắn phá miền Bắc. Miền Bắc đánh thắng cuộc chiến tranh phá hoại lần thứ nhất, bắn rơi 3.234 máy bay Mỹ.
 *   **27/11/1968:** Trong một trận rải thảm B-52 của Không lực Hoa Kỳ xuống vùng Tân Châu, Châu Đốc (nay thuộc An Giang), Út Tịch và người con gái thứ ba (Lâm Thị Thơ) bị thương nặng và anh dũng hy sinh.
 
-### **Thời kỳ đánh bại chiến lược "Việt Nam hóa chiến tranh" (1969 - 1973)**
+### **Thời kỳ Đánh bại Chiến lược Việt Nam hóa Chiến tranh (1969 - 1972)**
 
 *   **20/01/1969:** Richard Nixon nhậm chức Tổng thống Mỹ, triển khai chiến lược "Việt Nam hóa chiến tranh" và "Học thuyết Nixon".
 *   **25/01/1969:** Khai mạc phiên họp toàn thể đầu tiên của Hội nghị bốn bên về Việt Nam tại Paris.
@@ -1760,14 +1778,15 @@
 *   **20/10/1972:** Việt Nam Dân chủ Cộng hòa và Hoa Kỳ đạt được thỏa thuận về dự thảo "Hiệp định về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam".
 *   **18 - 30/12/1972:** Chiến dịch Linebacker II (Điện Biên Phủ trên không). Nhằm gây sức ép buộc Việt Nam Dân chủ Cộng hòa nhượng bộ các điều khoản cốt lõi của Hiệp định Paris, Mỹ huy động gần 50% số máy bay ném bom chiến lược B-52 (197 chiếc) và hàng ngàn máy bay chiến thuật ném bom rải thảm hủy diệt Hà Nội, Hải Phòng (phá sập phố Khâm Thiên, Bệnh viện Bạch Mai...). Lực lượng Phòng không - Không quân Việt Nam đã áp dụng chiến thuật sáng tạo (như cẩm nang "vạch nhiễu tìm thù"), bắn rơi 81 máy bay Mỹ, trong đó có 34 chiếc B-52 (16 chiếc rơi tại chỗ), vượt xa mức thiệt hại Mỹ có thể chịu đựng. Đòn giáng trả kinh rợn này đập tan uy thế của Không quân chiến lược Mỹ, buộc Tổng thống Nixon phải đơn phương ngừng ném bom vào ngày 30/12 và chấp nhận ký Hiệp định Paris theo nội dung dự thảo có lợi cho Việt Nam.
 *   **30/12/1972:** Mỹ buộc phải tuyên bố ngừng ném bom miền Bắc từ vĩ tuyến 20 trở ra và chấp nhận nối lại đàm phán.
-*   **1973:** Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam mở Đại sứ quán tại Iraq. Chính phủ Iraq đã hào phóng đài thọ toàn bộ chi phí hoạt động, từ trụ sở, xe cộ (bao gồm chiếc xe Citroen mới tinh do Tổng thống Ahmed Hassan Al-Bakr tặng) đến tiền mặt trang trải chi tiêu hàng ngày để hỗ trợ Việt Nam trong bối cảnh chiến tranh khó khăn.
-*   **15/01/1973:** Mỹ chấm dứt hoàn toàn mọi hành động chiến tranh chống phá miền Bắc.
-*   **27/01/1973:** **Hiệp định Paris** về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam được ký kết. Mỹ cam kết tôn trọng độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Việt Nam và rút hết quân khỏi miền Nam. Đại diện cho Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam, Bộ trưởng Ngoại giao **Nguyễn Thị Bình** là người phụ nữ duy nhất tham gia ký kết hiệp định lịch sử này.
 
-### **Tổng tiến công và nổi dậy Mùa Xuân 1975, giải phóng hoàn toàn miền Nam (1973 - 1975)**
+### **Tổng tiến công và Nổi dậy Mùa Xuân 1975, Giải phóng Hoàn toàn Miền Nam (1973 - 04/1975)**
 
 *   **Cuộc kháng chiến chống Mỹ, cứu nước kết thúc thắng lợi hoàn toàn.**
+
+*   **1973:** Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam mở Đại sứ quán tại Iraq. Chính phủ Iraq đã hào phóng đài thọ toàn bộ chi phí hoạt động, từ trụ sở, xe cộ (bao gồm chiếc xe Citroen mới tinh do Tổng thống Ahmed Hassan Al-Bakr tặng) đến tiền mặt trang trải chi tiêu hàng ngày để hỗ trợ Việt Nam trong bối cảnh chiến tranh khó khăn.
 *   **1973:** Trong chuyến thăm của Fidel Castro, Cuba đã tặng Việt Nam 5 công trình kinh tế - xã hội quy mô lớn trị giá khoảng 80 triệu USD, bao gồm: Khách sạn Thắng Lợi (Hà Nội), Bệnh viện Việt Nam - Cuba (Đồng Hới), đường Xuân Mai, Trại bò giống Ba Vì và Xí nghiệp gà Lương Mỹ.
+*   **15/01/1973:** Mỹ chấm dứt hoàn toàn mọi hành động chiến tranh chống phá miền Bắc.
+*   **27/01/1973:** **Hiệp định Paris** về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam được ký kết. Mỹ cam kết tôn trọng độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Việt Nam và rút hết quân khỏi miền Nam. Đại diện cho Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam, Bộ trưởng Ngoại giao **Nguyễn Thị Bình** là người phụ nữ duy nhất tham gia ký kết hiệp định lịch sử này.
 *   **29/03/1973:** Đơn vị lính chiến đấu cuối cùng của Mỹ rút khỏi miền Nam Việt Nam.
 *   **05/1973:** Bộ Chính trị ra Nghị quyết về đấu tranh thi hành Hiệp định Paris, kết hợp đấu tranh ngoại giao với quân sự và chính trị để buộc đối phương thi hành hiệp định.
 *   **Tháng 07/1973:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ 21 (khóa III) khẳng định con đường cách mạng miền Nam vẫn là con đường bạo lực, chuẩn bị cho giai đoạn cuối của cuộc kháng chiến.
@@ -1807,13 +1826,13 @@
 *   **30/04/1975:** Miền Nam hoàn toàn giải phóng, kết thúc cuộc kháng chiến chống Mỹ, cứu nước. Đất nước thống nhất về mặt lãnh thổ.
     *   **10 giờ 45 phút:** Xe tăng của Quân giải phóng húc đổ cổng Dinh Độc Lập.
     *   **11 giờ 30 phút:** Lá cờ giải phóng tung bay trên nóc Dinh Độc Lập. Tổng thống Dương Văn Minh tuyên bố đầu hàng không điều kiện.
-*   **05-06/05/1975:** Hải quân Nhân dân Việt Nam giành lại quyền kiểm soát quần đảo Trường Sa từ quân đội Sài Gòn sau khi giải phóng miền Nam.
-
-### **Thời kỳ hậu chiến, thống nhất và tìm đường Đổi mới (1975 - 1986)**
-
 *   **01/05/1975:** Toàn bộ các tỉnh còn lại ở miền Nam được giải phóng. Ban Bí thư gửi điện số 602 chỉ thị giải phóng Côn Đảo (Côn Lôn) và Phú Quốc. Quân Pôn Pốt (Campuchia Dân chủ) bắt đầu các cuộc tấn công, xâm phạm lãnh thổ Việt Nam từ Hà Tiên đến Tây Ninh.
 *   **03/05/1975:** Thành lập Ủy ban Quân quản thành phố Sài Gòn - Gia Định do Thượng tướng Trần Văn Trà làm chủ tịch.
+
+### **Thời kỳ Hậu chiến, Thống nhất và Tìm đường Đổi mới (05/1975 - 1985)**
+
 *   **04/05/1975:** Quân Pôn Pốt đổ bộ lên đảo Phú Quốc.
+*   **05-06/05/1975:** Hải quân Nhân dân Việt Nam giành lại quyền kiểm soát quần đảo Trường Sa từ quân đội Sài Gòn sau khi giải phóng miền Nam.
 *   **10/05/1975:** Quân Pôn Pốt đổ bộ lên quần đảo Thổ Chu, bắt và thảm sát hơn 500 thường dân Việt Nam.
 *   **14/05/1975:** Chính phủ Mỹ ra lệnh cấm vận thương mại đối với Việt Nam.
 *   **15/05/1975:** Lễ mừng chiến thắng được tổ chức long trọng trên khắp cả nước. Tại Hà Nội, Bí thư thứ nhất Lê Duẩn đọc diễn văn chào mừng kỷ nguyên mới của nước Việt Nam hòa bình, độc lập, thống nhất và đi lên chủ nghĩa xã hội.
@@ -1898,13 +1917,13 @@
 *   **11/03/1985:** Mikhail Gorbachev trở thành Tổng Bí thư Đảng Cộng sản Liên Xô, bắt đầu thực hiện đường lối "Cải tổ" (Perestroika) và "Công khai" (Glasnost).
 *   **06/1985:** Hội nghị lần thứ 8 Ban Chấp hành Trung ương (khóa V) ra nghị quyết về giá - lương - tiền, quyết định dứt khoát xóa bỏ cơ chế tập trung quan liêu, bao cấp.
 *   **14/09/1985:** Bắt đầu cuộc tổng điều chỉnh giá - lương - tiền trên phạm vi cả nước, thực hiện đổi tiền với tỷ lệ 10 đồng tiền cũ ăn 1 đồng tiền mới.
+
+### **Thời kỳ Đầu Đổi mới - Từng bước Khắc phục Khủng hoảng (1986 - 1990)**
+
 *   **03/01/1986:** Tuần tin *Thanh Niên* ra số đầu tiên, với sự thúc đẩy của đồng chí **Lê Quang Vịnh** (Bí thư Trung ương Đoàn) nhằm tạo diễn đàn đổi mới cho thế hệ trẻ.
 *   **10/07/1986:** Tổng Bí thư Lê Duẩn từ trần. Ông là nhà lãnh đạo lỗi lạc, người chiến sĩ cộng sản kiên cường, người học trò xuất sắc của Chủ tịch Hồ Chí Minh, đã cống hiến trọn đời cho sự nghiệp giải phóng dân tộc và thống nhất Tổ quốc.
 *   **14/07/1986:** Ban Chấp hành Trung ương Đảng họp Hội nghị bất thường bầu đồng chí Trường Chinh giữ chức Tổng Bí thư.
 *   **12/1986:** Đại hội đại biểu toàn quốc lần thứ VI của Đảng Cộng sản Việt Nam được tổ chức, chính thức khởi xướng đường lối Đổi mới toàn diện đất nước.
-
-### **Thời kỳ đầu Đổi mới - Từng bước khắc phục khủng hoảng (1986 - 1990)**
-
 *   **15-18/12/1986:** Đại hội đại biểu toàn quốc lần thứ VI của Đảng Cộng sản Việt Nam diễn ra, chính thức đề ra đường lối **Đổi mới** toàn diện đất nước với quan điểm "nhìn thẳng vào sự thật, đánh giá đúng sự thật", lấy đổi mới kinh tế làm trọng tâm.
 *   **1987:** Quốc hội ban hành Luật Đầu tư nước ngoài tại Việt Nam, mở ra hành lang pháp lý đầu tiên để thu hút vốn đầu tư trực tiếp từ nước ngoài (FDI).
 *   **04/1987:** Hội nghị lần thứ 2 Ban Chấp hành Trung ương Đảng (khóa VI) quyết định phương hướng giải quyết vấn đề lưu thông phân phối, xóa bỏ chế độ tập trung quan liêu, bao cấp và chính sách "ngăn sông cấm chợ".
@@ -1933,7 +1952,7 @@
 *   **03-04/09/1990:** Diễn ra Hội nghị cấp cao không chính thức Việt Nam - Trung Quốc tại Thành Đô, đặt nền tảng cho việc bình thường hóa quan hệ giữa hai nước.
 *   **22/10/1990:** Cộng đồng châu Âu (EC), tiền thân của Liên minh châu Âu (EU), chính thức thiết lập quan hệ ngoại giao với Việt Nam.
 
-### **Thời kỳ Đẩy mạnh Đổi mới - Thoát khỏi khủng hoảng (1991 - 1995)**
+### **Thời kỳ Đẩy mạnh Đổi mới - Thoát khỏi Khủng hoảng (1991 - 1995)**
 
 *   **17/03/1991:** Cuộc trưng cầu dân ý toàn Liên bang Xô viết được tổ chức, với 76,4% cử tri ủng hộ việc duy trì Liên bang Xô viết.
 *   **24-27/06/1991:** Đại hội đại biểu toàn quốc lần thứ VII của Đảng Cộng sản Việt Nam thông qua **"Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội"** và **"Chiến lược ổn định và phát triển kinh tế - xã hội đến năm 2000"**.
@@ -1997,7 +2016,7 @@
 *   **02/12/2000:** UNESCO mở rộng công nhận Vịnh Hạ Long dựa trên tiêu chí về giá trị địa chất, địa mạo nổi bật toàn cầu.
 *   **25/12/2000:** Việt Nam và Trung Quốc ký **Hiệp định phân định Vịnh Bắc Bộ** và **Hiệp định Hợp tác nghề cá**.
 
-### **Thời kỳ Hội nhập BTA và Vượt qua Thử thách SARS** (2001 - 2006)
+### **Thời kỳ Hội nhập BTA và Vượt qua Thử thách SARS (2001 - 2005)**
 
 *   **10/04/2001:** Chủ tịch nước Trần Đức Lương ký quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân thời kỳ kháng chiến chống Mỹ cứu nước cho liệt sĩ Lê Thị Riêng.
 *   **19 - 22/04/2001:** Đại hội IX của Đảng, lần đầu khẳng định mô hình kinh tế thị trường định hướng XHCN.
@@ -2022,10 +2041,10 @@
 *   **03/2005:** Sở Giao dịch Chứng khoán Hà Nội (HNX) được thành lập
 *   **19 - 25/06/2005:** Thủ tướng Phan Văn Khải thăm chính thức Hoa Kỳ, chuyến thăm đầu tiên của lãnh đạo Việt Nam sau chiến tranh.
 *   **25/11/2005:** Không gian Văn hóa Cồng chiêng Tây Nguyên được UNESCO công nhận là di sản.
+
+### **Thời kỳ Gia nhập WTO và Khẳng định Vị thế Quốc tế (2006 - 2010)**
+
 *   **01/2006:** Vụ PMU 18 (biển thủ công quỹ tại Bộ Giao thông Vận tải) bị điều tra.
-
-### **Thời kỳ Gia nhập WTO và Khẳng định Vị thế Quốc tế** (2006 - 2011)
-
 *   **18 - 25/04/2006:** Đại hội X của Đảng, coi kinh tế tư nhân là động lực quan trọng.
 *   **07/11/2006:** Việt Nam ký Nghị định thư gia nhập Tổ chức Thương mại Thế giới (WTO).
 *   **11/01/2007:** Việt Nam chính thức trở thành thành viên thứ 150 của WTO.
@@ -2042,7 +2061,7 @@
 *   **09/11/2010:** Kostas Sarantidis (Nguyễn Văn Lập) chính thức được Chủ tịch nước công nhận quốc tịch Việt Nam theo nguyện vọng của ông.
 *   **16/11/2010:** Hội Gióng ở đền Phù Đổng và đền Sóc Sơn đã được công nhận là Di sản văn hóa phi vật thể đại diện của nhân loại bởi UNESCO.
 
-### **Thời kỳ Củng cố Pháp lý, Căng thẳng Biển Đông và Biến động Môi trường** (2011 - 2016)
+### **Thời kỳ Củng cố Pháp lý, Căng thẳng Biển Đông và Biến động Môi trường (2011 - 2016)**
 
 *   **2011:** Philippines chính thức lên tiếng phản đối yêu sách "đường 9 đoạn" của Trung Quốc trên Biển Đông.
 *   **12 - 19/01/2011:** Đại hội XI của Đảng, thông qua Cương lĩnh (bổ sung, phát triển 2011).
@@ -2090,7 +2109,7 @@
 *   **29/11/2016:** Tại Lễ tưởng niệm lãnh tụ Fidel Castro ở thủ đô La Habana, Chủ tịch Quốc hội Nguyễn Thị Kim Ngân đã tái khẳng định tình đoàn kết chiến đấu kiên định trước sau như một của Việt Nam với nhân dân Cuba anh em.
 *   **01/12/2016:** Thực hành Tín ngưỡng Thờ Mẫu Tam phủ của người Việt được UNESCO công nhận là di sản.
 
-### **Thời kỳ Hội nhập CPTPP & EVFTA và Đối phó Đại dịch COVID-19** (2017 - 2021)
+### **Thời kỳ Hội nhập CPTPP & EVFTA và Đối phó Đại dịch COVID-19 (2017 - 2020)**
 
 *   **06 - 11/11/2017:** Việt Nam đăng cai Tuần lễ Cấp cao APEC 2017 tại Đà Nẵng.
 *   **07/12/2017:** Nghệ thuật Bài chòi Trung Bộ được UNESCO công nhận là di sản.
@@ -2111,7 +2130,7 @@
 *   **10 - 11/2020:** Lũ lụt, bão chồng bão lịch sử tại miền Trung.
 *   **28/12/2020:** Việt Nam thực hiện thành công "mục tiêu kép" (chống dịch và tăng trưởng kinh tế).
 
-### **Thời kỳ Phục hồi hậu Đại dịch và Nâng tầm Vị thế Chiến lược** (2021 - nay)
+### **Thời kỳ Phục hồi hậu Đại dịch và Nâng tầm Vị thế Chiến lược (2021 - nay)**
 
 *   **2021 - 2023:** Việt Nam củng cố vị thế là đối tác thương mại lớn thứ hai và đối tác đầu tư lớn nhất của Cuba từ khu vực châu Á. Kim ngạch thương mại song phương đạt 261,7 triệu USD năm 2021, 181,8 triệu USD năm 2022 và 57,33 triệu USD năm 2023.
 *   **25/01 - 02/02/2021:** Đại hội XIII của Đảng, đặt mục tiêu đến 2030 và tầm nhìn 2045.

@@ -118,6 +118,43 @@ class TestExtractDate(unittest.TestCase):
                     self.assertLessEqual(d1, d2,
                         f"In {filename} section [{hdr}]: '{t1}' (date {d1:.4f}) must be <= '{t2}' (date {d2:.4f})")
 
+    def test_cross_period_sorting(self):
+        from sort_timelines import parse_blocks, sort_timelines
+        # Run cross-period sorting
+        sort_timelines("timelines_vi.md", "timelines_en.md", across_periods=True)
+
+        for filename in ["timelines_vi.md", "timelines_en.md"]:
+            blocks = parse_blocks(filename)
+            sections = []
+            curr = []
+            for b in blocks:
+                if b['type'] == 'header':
+                    if curr: sections.append(curr)
+                    curr = [b]
+                else:
+                    curr.append(b)
+            if curr: sections.append(curr)
+
+            section_event_dates = []
+            for sec in sections:
+                hdr = sec[0]['lines'][0].strip() if sec[0]['type'] == 'header' else 'Top'
+                events = [b for b in sec if b['type'] == 'event']
+                dates = [extract_date(e['time_str']) for e in events]
+                
+                # Check intra-section order
+                for i in range(len(dates) - 1):
+                    self.assertLessEqual(dates[i], dates[i+1],
+                        f"In {filename} section [{hdr}]: '{events[i]['time_str']}' ({dates[i]:.4f}) > '{events[i+1]['time_str']}' ({dates[i+1]:.4f})")
+                if dates:
+                    section_event_dates.append(dates)
+
+            # Check inter-section global chronological order
+            for i in range(len(section_event_dates) - 1):
+                d_max_prev = max(section_event_dates[i])
+                d_min_next = min(section_event_dates[i+1])
+                self.assertLessEqual(d_max_prev, d_min_next,
+                    f"In {filename}: Section {i} max date ({d_max_prev:.4f}) exceeds Section {i+1} min date ({d_min_next:.4f})")
+
     def test_line_by_line_alignment(self):
         with open("timelines_vi.md", "r", encoding="utf-8") as f:
             lines_vi = f.readlines()
@@ -148,6 +185,7 @@ class TestExtractDate(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
 
 
 

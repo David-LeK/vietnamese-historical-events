@@ -324,8 +324,53 @@ def parse_blocks(filename):
     return blocks
 
 
-def sort_timelines(vi_filename="timelines_vi.md", en_filename="timelines_en.md"):
-    print(f"Synchronized sorting for {vi_filename} and {en_filename}...")
+SECTION_THRESHOLDS = [
+    -800.0,      # 0 -> 1: Tiền sử / Bắc thuộc (Trước năm 800 TCN)
+    938.9,       # 1 -> 2: Bắc thuộc / Độc lập (800 TCN - 938)
+    1008.9,      # 2 -> 3: Triều Lý (939 - 1009)
+    1225.99,     # 3 -> 4: Triều Trần (1009 - 1225)
+    1399.9,      # 4 -> 5: Nhà Hồ (1226 - 1400)
+    1407.39,     # 5 -> 6: Bắc thuộc 4 (1400 - 1407)
+    1427.99,     # 6 -> 7: Nhà Lê Sơ (1407 - 1427)
+    1526.99,     # 7 -> 8: Nhà Mạc (1428 - 1527)
+    1592.99,     # 8 -> 9: Phân liệt Đàng Trong - Đàng Ngoài (1527 - 1592)
+    1770.99,     # 9 -> 10: Tây Sơn (1593 - 1771)
+    1801.99,     # 10 -> 11: Nhà Nguyễn Độc lập (1771 - 1802)
+    1857.99,     # 11 -> 12: Pháp xâm lược (1802 - 1858)
+    1896.99,     # 12 -> 13: 1897 - 1913
+    1913.99,     # 13 -> 14: WWI (1914 - 1918)
+    1918.99,     # 14 -> 15: 1919 - 1930
+    1930.99,     # 15 -> 16: 1931 - 1935
+    1935.99,     # 16 -> 17: 1936 - 1938
+    1938.99,     # 17 -> 18: 1939 - 1945
+    1945.60,     # 18 -> 19: 09/1945 - 02/1946 (Nam Bộ)
+    1946.20,     # 19 -> 20: 03/1946 - 12/1946 (Hòa hoãn)
+    1946.99,     # 20 -> 21: 1947 - 1950 (Toàn quốc kháng chiến)
+    1950.99,     # 21 -> 22: 1951 - 07/1954 (Cuối kháng chiến chống Pháp)
+    1954.55,     # 22 -> 23: 08/1954 - 1960 (Chia cắt)
+    1960.99,     # 23 -> 24: 1961 - 1964 (Chống chiến tranh đặc biệt)
+    1964.99,     # 24 -> 25: 1965 - 1968 (Chiến tranh cục bộ)
+    1968.99,     # 25 -> 26: 1969 - 1972 (Việt Nam hóa)
+    1972.99,     # 26 -> 27: 1973 - 04/1975 (Mùa Xuân 1975)
+    1975.34,     # 27 -> 28: 05/1975 - 1985 (Hậu chiến, Đổi mới)
+    1985.99,     # 28 -> 29: 1986 - 1990 (Đầu Đổi mới)
+    1990.99,     # 29 -> 30: 1991 - 1995
+    1995.99,     # 30 -> 31: 1996 - 2000
+    2000.99,     # 31 -> 32: 2001 - 2005
+    2005.99,     # 32 -> 33: 2006 - 2010
+    2010.99,     # 33 -> 34: 2011 - 2016
+    2016.99,     # 34 -> 35: 2017 - 2020
+    2020.99,     # 35 -> 36: 2021-nay
+]
+
+def get_section_index(date_val):
+    for idx, t in enumerate(SECTION_THRESHOLDS):
+        if date_val <= t:
+            return idx
+    return len(SECTION_THRESHOLDS)
+
+def sort_timelines(vi_filename="timelines_vi.md", en_filename="timelines_en.md", across_periods=True):
+    print(f"Synchronized sorting for {vi_filename} and {en_filename} (across_periods={across_periods})...")
     blocks_vi = parse_blocks(vi_filename)
     blocks_en = parse_blocks(en_filename)
     
@@ -376,22 +421,66 @@ def sort_timelines(vi_filename="timelines_vi.md", en_filename="timelines_en.md")
     sorted_blocks_vi = []
     sorted_blocks_en = []
     
-    for sec_vi, sec_en in zip(sections_vi, sections_en):
-        event_indices = [i for i, b in enumerate(sec_vi) if b['type'] == 'event']
-        events_zipped = [(sec_vi[i], sec_en[i]) for i in event_indices]
-        
+    if across_periods:
+        events_zipped = list(zip(events_vi, paired_events_en))
         events_zipped_sorted = sorted(events_zipped, key=lambda pair: extract_date(pair[0]['time_str']))
         
-        sorted_idx = 0
-        for i in range(len(sec_vi)):
-            if sec_vi[i]['type'] == 'event':
-                sec_vi[i] = events_zipped_sorted[sorted_idx][0]
-                sec_en[i] = events_zipped_sorted[sorted_idx][1]
-                sorted_idx += 1
+        num_sections = len(sections_vi)
+        section_buckets = [[] for _ in range(num_sections)]
+        for pair in events_zipped_sorted:
+            d = extract_date(pair[0]['time_str'])
+            s_idx = get_section_index(d)
+            if s_idx >= num_sections:
+                s_idx = num_sections - 1
+            section_buckets[s_idx].append(pair)
+            
+        for sec_idx in range(num_sections):
+            sec_v = sections_vi[sec_idx]
+            sec_e = sections_en[sec_idx]
+            
+            non_events_v = [b for b in sec_v if b['type'] != 'event']
+            non_events_e = [b for b in sec_e if b['type'] != 'event']
+            
+            # Header block
+            sorted_blocks_vi.append(non_events_v[0])
+            sorted_blocks_en.append(non_events_e[0])
+            
+            # Additional text or non-event blocks
+            for b_v, b_e in zip(non_events_v[1:], non_events_e[1:]):
+                if b_v['type'] == 'text':
+                    sorted_blocks_vi.append({'type': 'empty', 'lines': ['\n']})
+                    sorted_blocks_en.append({'type': 'empty', 'lines': ['\n']})
+                    sorted_blocks_vi.append(b_v)
+                    sorted_blocks_en.append(b_e)
+                    
+            if section_buckets[sec_idx]:
+                sorted_blocks_vi.append({'type': 'empty', 'lines': ['\n']})
+                sorted_blocks_en.append({'type': 'empty', 'lines': ['\n']})
                 
-        sorted_blocks_vi.extend(sec_vi)
-        sorted_blocks_en.extend(sec_en)
-        
+            for pair in section_buckets[sec_idx]:
+                sorted_blocks_vi.append(pair[0])
+                sorted_blocks_en.append(pair[1])
+                
+            if sec_idx < num_sections - 1:
+                sorted_blocks_vi.append({'type': 'empty', 'lines': ['\n']})
+                sorted_blocks_en.append({'type': 'empty', 'lines': ['\n']})
+    else:
+        for sec_vi, sec_en in zip(sections_vi, sections_en):
+            event_indices = [i for i, b in enumerate(sec_vi) if b['type'] == 'event']
+            events_zipped = [(sec_vi[i], sec_en[i]) for i in event_indices]
+            
+            events_zipped_sorted = sorted(events_zipped, key=lambda pair: extract_date(pair[0]['time_str']))
+            
+            sorted_idx = 0
+            for i in range(len(sec_vi)):
+                if sec_vi[i]['type'] == 'event':
+                    sec_vi[i] = events_zipped_sorted[sorted_idx][0]
+                    sec_en[i] = events_zipped_sorted[sorted_idx][1]
+                    sorted_idx += 1
+                    
+            sorted_blocks_vi.extend(sec_vi)
+            sorted_blocks_en.extend(sec_en)
+            
     with open(vi_filename, "w", encoding="utf-8") as f:
         for b in sorted_blocks_vi:
             f.writelines(b['lines'])
@@ -406,5 +495,7 @@ def sort_file(filename):
     sort_timelines()
 
 if __name__ == "__main__":
-    sort_timelines("timelines_vi.md", "timelines_en.md")
+    across = "--by-period" not in sys.argv
+    sort_timelines("timelines_vi.md", "timelines_en.md", across_periods=across)
+
 
