@@ -526,37 +526,53 @@
 *   **1604:** Chúa Nguyễn Hoàng đổi phủ Tiên Bình thành phủ **Quảng Bình**.
 *   **1611:** Quân Nguyễn đánh Chiêm Thành, lấy được vùng đất phía nam đèo Cù Mông và lập ra phủ Phú Yên.
 *   **1614:** Nguyễn Phúc Nguyên (con Nguyễn Hoàng) lên thay, cải tổ bộ máy hành chính, tự bổ dụng quan lại, chính thức cắt đứt quan hệ lệ thuộc với họ Trịnh.
-*   **Khoảng 1615 - 1620:** Các giáo sĩ phương Tây bắt đầu ghi chép tiếng Việt bằng chữ Latinh.
+*   **18/01/1615:** Các tu sĩ Dòng Tên Francesco Buzomi, Diego Carvalho và Thầy Antonio Dias đến Cửa Hàn (Đà Nẵng), chính thức đánh dấu sự khởi đầu của sứ mệnh truyền giáo Dòng Tên tại Việt Nam.
+*   **1617:** Linh mục Dòng Tên Francisco de Pina đến Đàng Trong. Ông được coi là người châu Âu đầu tiên thông thạo tiếng Việt và là người đi tiên phong trong việc sáng tạo ra chữ Quốc ngữ.
+*   **1618:** Linh mục Cristoforo Borri đến Đàng Trong. Ông nhanh chóng học tiếng Việt và sau này xuất bản một cuốn sách chứa đựng những từ ngữ tiếng Việt được phiên âm bằng chữ Latinh sơ khai.
 *   **1619:** Chúa Nguyễn Phúc Nguyên gả con gái cho thương nhân Nhật Bản Araki Sotaro, thắt chặt quan hệ thương mại với Nhật Bản.
 *   **1620:** Mâu thuẫn Trịnh - Nguyễn trở nên gay gắt, chúa Nguyễn ngừng nộp thuế cống.
 *   **1620:** Công chúa Nguyễn Phúc Ngọc Vạn được gả cho vua Chân Lạp là Chey Chetta II. Cuộc hôn nhân chính trị này mở đầu cho sự thâm nhập hòa bình của người Việt vào vùng Thủy Chân Lạp.
-*   **1621:** Giáo sĩ Christophoro Borri đến Đàng Trong và viết tác phẩm "Xứ Đàng Trong", ghi lại nhiều thông tin quý giá về kinh tế, xã hội.
+*   **1620:** Các giáo sĩ Dòng Tên tại Hội An biên soạn một cuốn giáo lý bằng chữ Nôm. Đây được xem là một trong những văn bản đầu tiên có khả năng sử dụng chữ cái Latinh để phiên âm tiếng Việt, dưới sự chủ trì của Francisco de Pina.
+*   **20/11/1621:** Linh mục João Roiz viết bản tường trình hàng năm chứa đựng những cách ghi chép sơ khai các từ tiếng Việt bằng chữ cái Latinh, đánh dấu những bước đầu tiên của chữ Quốc ngữ.
 *   **1622:** Chúa Nguyễn Phúc Nguyên cho lập **Dinh Ai Lao** trên sông Hiếu để quản lý việc giao thương với Ai Lao.
 *   **1623:** Chúa Trịnh Tùng mất, con là Trịnh Tráng lên nối ngôi (Thanh Đô Vương).
 *   **1623:** Chúa Sãi (Nguyễn Phúc Nguyên) cử sứ bộ sang Chân Lạp yêu cầu vua Chey Chetta II nhượng lại khu dinh điền **Mô Xoài** (Bà Rịa) và cho phép người Việt đến khai khẩn, làm ăn.
+*   **12/1624:** Linh mục Alexandre de Rhodes (Đắc Lộ) đến Cửa Hàn (Đà Nẵng) và tới Thanh Chiêm (Quảng Nam) để học tiếng Việt dưới sự hướng dẫn của Francisco de Pina.
+*   **15/12/1625:** Linh mục Francisco de Pina, người tiên phong sáng tạo chữ Quốc ngữ, chết đuối ngoài khơi bờ biển Quảng Nam.
 *   **1626:** Giáo sĩ Dòng Tên Juliano Baldinotti đến Đàng Ngoài (Kẻ Chợ), để lại những ghi chép quan trọng về tình hình xã hội thời bấy giờ.
+*   **12/07/1626:** Linh mục Francesco Buzomi viết một bức thư cho thấy sự tiến bộ rõ rệt trong việc phiên âm tiếng Việt, bắt đầu biết tách từ và sử dụng dấu thanh.
 *   **03/1627:** Nội chiến Trịnh-Nguyễn chính thức bùng nổ. Lần thứ nhất, quân Trịnh do Trịnh Tráng chỉ huy tiến vào Nam nhưng bị đánh bại ở cửa Nhật Lệ.
+*   **19/03/1627:** Alexandre de Rhodes và Pedro Marques đến Cửa Bạng (Thanh Hóa), bắt đầu công cuộc truyền giáo tại Đàng Ngoài.
 *   **Mùa Đông 1627:** Đào Duy Từ trốn vào Đàng Trong, được Trần Đức Hòa tiến cử với chúa Nguyễn Phúc Nguyên, bắt đầu sự nghiệp phò tá chúa Nguyễn.
 *   **03/1630:** Theo lời khuyên của Đào Duy Từ, chúa Nguyễn Phúc Nguyên cho đắp lũy Trường Dục (Quảng Bình) để ngăn chặn quân Trịnh.
 *   **09/1630:** Theo đề nghị của Đào Duy Từ, chúa Nguyễn Phúc Nguyên mở cuộc tấn công vào châu Nam Bố Chính và chiếm được vùng đất này.
 *   **1631:** (Năm Tân Mùi) Chúa Sãi gả con gái là Công chúa **Ngọc Khoa** cho vua Champa là Po Rome. Cuộc hôn nhân này giúp quan hệ Việt - Chiêm trở nên tốt đẹp, tạo điều kiện cho người Việt mở rộng xuống phía Nam.
 *   **1631:** Dưới sự chỉ đạo của Đào Duy Từ, chúa Nguyễn tiếp tục cho đắp lũy Động Hải (lũy Trấn Ninh) dài hơn 12 km. Cùng với lũy Trường Dục, hệ thống này được nhân dân tôn kính gọi là Lũy Thầy.
+*   **1631:** Cristoforo Borri xuất bản cuốn sách "Relatione della nuova missione..." bằng tiếng Ý, giới thiệu những quan sát chi tiết về Đàng Trong và các từ vựng tiếng Việt được La tinh hóa sơ khai đến châu Âu.
+*   **31/12/1632:** Linh mục Gaspar d'Amaral viết bản tường trình hàng năm tại Thăng Long, thể hiện sự tiến bộ vượt bậc trong chữ Quốc ngữ với việc sử dụng dấu thanh và phân tách từ ngữ chính xác. Ông cũng đã biên soạn một cuốn từ điển Việt - Bồ - La sơ khai.
 *   **1633:** Cuộc chiến lần thứ hai, chúa Trịnh Tráng kéo quân đến cửa biển Nhật Lệ tấn công nhưng bị quân Nguyễn đánh cho đại bại, quân Trịnh hoảng loạn vứt bỏ xe pháo tháo chạy.
 *   **1634:** Tướng Nguyễn Hữu Dật chỉ huy đắp lũy Trường Sa (lũy Đồng Hới) dài 7 km dọc ven biển, hoàn thiện hệ thống phòng thủ Lũy Thầy.
 *   **10/1634:** Đào Duy Từ qua đời, thọ 63 tuổi. Ông được coi là đệ nhất khai quốc công thần của họ Nguyễn và được thờ ở Thái miếu.
 *   **1635:** Chúa Nguyễn Phúc Nguyên mất, con thứ hai là Nguyễn Phúc Lan lên nối ngôi (Thượng Vương).
+*   **1636:** Alexandre de Rhodes soạn thảo bản thảo cuốn "Tunchinensis Historiae libri duo", bao gồm nhiều từ ngữ tiếng Việt được phiên âm, phản ánh sự thành thạo ngày càng tăng của ông về chữ Quốc ngữ.
 *   **1642:** Tiềm lực quân sự Đàng Trong gia tăng mạnh, sở hữu khoảng 200 khẩu đại bác và tăng lên 1.200 khẩu vào năm 1650 nhờ giao thương với phương Tây.
 *   **1643:** Cuộc chiến lần thứ ba, quân Trịnh vây đánh lũy Trung Hòa nhưng không hạ được, phải rút quân.
 *   **07/07/1643:** Trận cảng Eo (Thuận An). Thủy quân Đàng Trong do đích thân chúa Nguyễn Phúc Lan và Thế tử Nguyễn Phúc Tần chỉ huy với 50 thuyền chiến nhỏ đã bao vây tấn công 3 chiến hạm lớn của Công ty Đông Ấn Hà Lan (VOC) do Pieter Baeck chỉ huy. Tàu lớn nhất Wijdenes bị nổ tung. Đây là lần đầu tiên thủy quân Việt Nam đánh thắng một lực lượng thủy quân châu Âu.
+*   **26/07/1644:** An Rê Phú Yên, một thầy giảng trẻ tuổi, bị xử tử tại Kẻ Chàm (Thanh Chiêm), trở thành vị tử đạo Công giáo đầu tiên ở Đàng Trong. Alexandre de Rhodes đã ghi lại sự kiện này trong bản báo cáo ngày 01/08/1644 bằng những câu văn chữ Quốc ngữ khá hoàn chỉnh.
+*   **1645:** Hội nghị gồm 45 linh mục Dòng Tên tại Áo Môn (Macao) đã thảo luận và chính thức xác nhận một mô thức Rửa tội bằng tiếng Việt ("Tau rữa mài nhân danh Cha, uà con, uà spirito santo"). Điều này làm nổi bật ứng dụng thực tế của chữ Quốc ngữ trong các nghi thức tôn giáo.
 *   **1648:** Chúa Nguyễn Phúc Lan mất, con là Nguyễn Phúc Tần lên nối ngôi (Hiền Vương).
 *   **02/1648:** Cuộc chiến lần thứ tư, chúa Trịnh Tráng sai Lê Văn Hiểu đem quân tấn công. Quân Nguyễn do Trương Phúc Phấn và Thế tử Nguyễn Phúc Tần chỉ huy đại thắng ở lũy Trường Dục, bắt sống 3 tướng và 3.000 quân Trịnh.
 *   **1650:** Chính quyền Lê - Trịnh ban hành quy định cụ thể về quản lý người nước ngoài (Hoa Lang, Ô Lang, Nhật Bản), chỉ định nơi cư trú tại Thanh Trì, Khuyến Lương và quy định nghi thức đi lại.
-*   **1651:** Alexandre de Rhodes xuất bản từ điển Việt - Bồ - La, chuẩn hóa chữ viết.
+*   **1651:** Alexandre de Rhodes xuất bản hai cuốn sách đầu tiên bằng chữ Quốc ngữ tại Rome: "Dictionarium annamiticum, lusitanum, et latinum" (Từ điển Việt - Bồ - La) và "Cathechismus" (Phép giảng tám ngày). Đây là một cột mốc vĩ đại giúp chính thức hóa và chuẩn hóa chữ Quốc ngữ.
 *   **1653:** Chúa Nguyễn đánh bại vua Chiêm Thành là Bà Tấm, lấy đất từ sông Phan Rang đến Phú Yên, lập ra dinh Thái Khang (nay là Khánh Hòa).
 *   **Khoảng 1653 - 1657:** Ông cố của anh em Tây Sơn là Hồ Phi Long từ Nghệ An vào lập nghiệp tại Quy Nhơn, đặt nền móng cho dòng họ tại vùng đất này.
 *   **1655 - 1660:** Cuộc chiến lần thứ năm, đây là lần duy nhất quân Nguyễn chủ động tấn công ra Bắc, chiếm được 7 huyện ở Nghệ An. Tuy nhiên sau đó do nội bộ bất hòa phải rút lui.
 *   **1657:** Chúa Trịnh Tráng mất, con là Trịnh Tạc lên nối ngôi (Tây Định Vương).
 *   **1658:** Chúa Hiền (Nguyễn Phúc Tần) cử quân sang giúp vua Chân Lạp là Batom Reachea (Ponhea So - con của bà Ngọc Vạn) dẹp loạn. Để tạ ơn, triều đình Chân Lạp đã hợp thức hóa chủ quyền của người Việt tại vùng đất **Đồng Nai**.
+*   **13/04/1658:** Linh mục Joseph Tissanier đến Đàng Ngoài. Dù nhận định tiếng Việt cực kỳ khó học, ông đã có thể giảng đạo bằng tiếng Việt chỉ trong vài tháng.
+*   **Đầu năm 1659:** Thầy giảng Bento Thiện viết tập "Lịch sử nước Annam" hoàn toàn bằng chữ Quốc ngữ. Tài liệu này cung cấp cái nhìn tổng quan về lịch sử, xã hội và địa lý Việt Nam, chứng minh rằng vào giữa thế kỷ XVII, người Việt đã sử dụng rất thành thạo chữ viết mới này.
+*   **12/09/1659:** Thầy giảng Igesico Văn Tín viết một bức thư bằng chữ Quốc ngữ gửi cho Linh mục Marini. Đây là một trong những văn bản sớm nhất còn tồn tại được viết hoàn toàn bằng chữ Quốc ngữ do một người Việt Nam chấp bút.
+*   **25/10/1659:** Thầy giảng Bento Thiện viết một bức thư chi tiết bằng chữ Quốc ngữ gửi cho Linh mục Marini, tiếp tục chứng minh sự sử dụng thành thạo chữ Quốc ngữ của người Công giáo Việt Nam.
 *   **1661 - 1662:** Cuộc chiến lần thứ sáu. Quân Trịnh tấn công nhưng không thành công và phải rút về.
 *   **1663:** Chính quyền Lê - Trịnh ban lệnh cấm người dân theo đạo Hoa Lang (Thiên Chúa giáo), đồng thời ra lệnh rà soát, thống kê kỹ lưỡng lý lịch người nước ngoài cư trú tại Đàng Ngoài.
 *   **1663:** Vua Lê Huyền Tông cho xây dựng điện Nam Giao (trước đây chỉ đắp đàn tế).

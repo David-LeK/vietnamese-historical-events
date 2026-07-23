@@ -526,37 +526,53 @@
 *   **1604:** Lord Nguyen Hoang renamed Tien Binh prefecture to **Quang Binh** prefecture.
 *   **1611:** The Nguyen army attacked Champa, taking the land south of the Cu Mong Pass and establishing Phu Yen Prefecture.
 *   **1614:** Nguyen Phuc Nguyen (son of Nguyen Hoang) succeeded him, reformed the administrative apparatus, appointed his own officials, and officially severed the subordinate relationship with the Trinh lords.
-*   **Around 1615 - 1620:** Western missionaries began recording the Vietnamese language using the Latin alphabet.
+*   **Jan. 18, 1615:** Jesuit priests Francesco Buzomi, Diego Carvalho, and Brother Antonio Dias arrived in Cua Han (Da Nang), marking the official beginning of the Jesuit mission in Vietnam.
+*   **1617:** Jesuit priest Francisco de Pina arrived in Dang Trong (Cochinchina). He is considered the first European to become fluent in Vietnamese and the pioneer in creating Chữ Quốc ngữ (the romanized Vietnamese script).
+*   **1618:** Jesuit priest Cristoforo Borri arrived in Dang Trong. He quickly learned the language and later published a book containing early romanized Vietnamese words.
 *   **1619:** Lord Nguyen Phuc Nguyen married his daughter to the Japanese merchant Araki Sotaro, strengthening ties with Japanese merchants.
 *   **1620:** The Trinh-Nguyen conflict intensified; the Nguyen lord stopped paying tribute taxes.
 *   **1620:** Princess Nguyen Phuc Ngoc Van was married to the Cambodian King Chey Chetta II. This strategic marriage paved the way for Vietnamese influence and migration into the Mekong Delta.
-*   **1621:** Missionary Christophoro Borri arrived in Dang Trong and later wrote the book "Relatione della nuova missione..." providing detailed accounts of the region.
+*   **1620:** Jesuit missionaries in Hoi An compiled a catechism in the local script (Chữ Nôm). This is believed to be one of the earliest texts potentially using a Latinized alphabet for the Vietnamese language, likely spearheaded by Francisco de Pina.
+*   **Nov. 20, 1621:** Father João Roiz wrote an annual report containing early transcriptions of Vietnamese words using Latin letters, marking the initial stages of Chữ Quốc ngữ.
 *   **1622:** Lord Nguyen Phuc Nguyen established the **Dinh Ai Lao** (Ai Lao Bureau) on the Hieu River to manage trade relations with Laos.
 *   **1623:** Lord Trinh Tung passed away. His son, Trinh Trang, succeeded him as Lord (Thanh Do Vuong).
 *   **1623:** Lord Nguyen Phuc Nguyen sent an envoy to King Chey Chetta II of Cambodia, requesting to establish a tax collection station at **Mo Xoai** (Ba Ria) and allowing Vietnamese settlers to cultivate land in the area.
+*   **Dec. 1624:** Jesuit priest Alexandre de Rhodes arrived in Cua Han (Da Nang) and traveled to Thanh Chiem (Quang Nam) to learn the Vietnamese language under the instruction of Francisco de Pina.
+*   **Dec. 15, 1625:** Father Francisco de Pina, the pioneer of Chữ Quốc ngữ, drowned off the coast of Quang Nam.
 *   **1626:** The Jesuit missionary Juliano Baldinotti arrived in Tonkin (Dang Ngoai), marking one of the earliest official Western accounts of the region.
+*   **Jul. 12, 1626:** Father Francesco Buzomi wrote a letter showing noticeable progress in the romanization of Vietnamese, beginning to separate words and use tone marks.
 *   **Mar. 1627:** The Trinh-Nguyen civil war officially broke out. In the first campaign, the Trinh army led by Trinh Trang advanced south but was defeated at the Nhat Le gate.
+*   **Mar. 19, 1627:** Alexandre de Rhodes and Pedro Marques arrived at Cua Bang (Thanh Hoa), beginning their missionary work in Tonkin.
 *   **Winter 1627:** Dao Duy Tu escaped to Dang Trong to avoid the Trinh administration and served Lord Nguyen Phuc Nguyen, later becoming a key strategist.
 *   **Mar. 1630:** Following the advice of Dao Duy Tu, the Nguyen Lord Nguyen Phuc Nguyen ordered the construction of the Truong Duc defensive wall (Luy Truong Duc) to block the Trinh army.
 *   **Sep. 1630:** Acting on Dao Duy Tu's strategy, Lord Nguyen Phuc Nguyen launched an attack on the Southern Bo Chinh prefecture and captured it.
 *   **1631:** Princess Nguyen Phuc **Ngoc Khoa** was married to the Cham King Po Rome. This diplomatic marriage solidified peaceful relations between Dai Viet and Champa, facilitating further southward expansion.
 *   **1631:** Following Dao Duy Tu's plan, the Nguyen Lord constructed the Dong Hai Wall (Luy Dong Hai or Tran Ninh Wall), extending over 12 km. Together with Truong Duc, these formed the formidable Luy Thay defensive system.
+*   **1631:** Cristoforo Borri published his book "Relatione della nuova missione..." in Italian, introducing detailed observations about Cochinchina and early romanized Vietnamese vocabulary to Europe.
+*   **Dec. 31, 1632:** Father Gaspar d'Amaral wrote an annual report in Thang Long that demonstrated significant advancement in Chữ Quốc ngữ, using tone marks and proper word separation. He also compiled an early Vietnamese-Portuguese-Latin dictionary.
 *   **1633:** In the second campaign, Lord Trinh Trang led the Trinh army to attack the Nhat Le estuary but could not overcome the defensive walls. They were heavily defeated by Lord Nguyen Phuc Nguyen's forces, fleeing in panic and abandoning their artillery.
 *   **1634:** General Nguyen Huu Dat directed the construction of the Truong Sa Wall (Luy Dong Hoi), a 7 km coastal fortification, further completing the Luy Thay system.
 *   **Oct. 1634:** Dao Duy Tu passed away at the age of 63. He was honored as the foremost meritorious official in the founding of the Nguyen Lords' dominion.
 *   **1635:** Lord Nguyen Phuc Nguyen passed away. His second son, Nguyen Phuc Lan, succeeded him.
+*   **1636:** Alexandre de Rhodes drafted "Tunchinensis Historiae libri duo", which included numerous romanized Vietnamese words, reflecting his evolving linguistic proficiency.
 *   **1642:** The military strength of Dang Trong increased significantly, possessing about 200 cannons, which rose to 1,200 by 1650 thanks to trade with the West.
 *   **1643:** In the third campaign, the Trinh army besieged the Trung Hoa wall but could not capture it and had to withdraw.
 *   **Jul. 7, 1643:** Battle of Eo Port (Thuan An). The Nguyen navy, personally commanded by Lord Nguyen Phuc Lan and Crown Prince Nguyen Phuc Tan, engaged a Dutch East India Company (VOC) fleet led by Pieter Baeck. Fifty small Nguyen galleys surrounded and destroyed three large Dutch warships (the *Wijdenes* exploded). This marked the first time the Vietnamese navy defeated a European naval force.
+*   **Jul. 26, 1644:** Andrew of Phu Yen (An Re Phu Yen), a young catechist, was martyred at Ke Cham (Thanh Chiem), becoming the first Christian martyr in Cochinchina. Alexandre de Rhodes recorded this event in a report on August 1, 1644, using fairly developed Chữ Quốc ngữ sentences.
+*   **1645:** A conference of 45 Jesuit priests in Macao debated and formally confirmed a baptismal formula in the Vietnamese language ("Tau rữa mài nhân danh Cha, uà con, uà spirito santo"). This highlighted the practical application of the romanized script in religious rites.
 *   **1648:** Lord Nguyen Phuc Lan passed away. His son, Nguyen Phuc Tan (Lord Hien), succeeded him.
 *   **Feb. 1648:** In the fourth campaign, Lord Trinh Trang sent Le Van Hieu to attack. The Nguyen army, under the command of Truong Phuc Phan and Crown Prince Nguyen Phuc Tan, won a great victory at Truong Duc, capturing 3 generals and 3,000 Trinh troops alive.
 *   **1650:** The Le-Trinh court in Dang Ngoai promulgated specific regulations managing foreign merchants (Dutch, English, Japanese), designating residence areas in Thanh Tri and Khuyen Luong, and regulating their movement.
-*   **1651:** Alexandre de Rhodes published the Vietnamese - Portuguese - Latin dictionary, standardizing the script.
+*   **1651:** Alexandre de Rhodes published the first two books in Chữ Quốc ngữ: the "Dictionarium annamiticum, lusitanum, et latinum" (Vietnamese-Portuguese-Latin Dictionary) and the "Cathechismus" (Catechism divided into eight days) in Rome. This was a monumental milestone that formalized and standardized the Vietnamese romanized script.
 *   **1653:** The Nguyen lord defeated the Champa king Ba Tam, taking land from the Phan Rang River to Phu Yen and establishing the Thai Khang garrison (now Khanh Hoa).
 *   **Mid-17th Century (approx. 1653 - 1657):** Ho Phi Long, the ancestor of the Tay Son brothers, migrated from Nghe An to Quy Nhon to establish a career, laying the family's foundation in the region.
 *   **1655 - 1660:** The fifth campaign, this was the only time the Nguyen army proactively attacked the North, capturing 7 districts in Nghe An. However, they later had to retreat due to internal discord.
 *   **1657:** Lord Trinh Trang passed away. His son, Trinh Tac, succeeded him as Lord (Tay Dinh Vuong).
 *   **1658:** Lord Nguyen Phuc Tan sent troops to assist King Batom Reachea (Ponhea So, son of Princess Ngoc Van) in stabilizing his throne against usurpers. In return, the Cambodian court officially recognized Vietnamese sovereignty over the **Dong Nai** region.
+*   **Apr. 13, 1658:** Father Joseph Tissanier arrived in Tonkin, later noting the extreme difficulty of the Vietnamese language but managing to preach in it within months.
+*   **Early 1659:** Catechist Bento Thien wrote the "History of Annam" entirely in Chữ Quốc ngữ. This document provided an overview of Vietnamese history, society, and geography, proving that by the mid-17th century, native Vietnamese were highly proficient in the new script.
+*   **Sep. 12, 1659:** Catechist Igesico Van Tin wrote a letter in Chữ Quốc ngữ to Father Marini. This is one of the earliest surviving documents written entirely in the romanized script by a Vietnamese person.
+*   **Oct. 25, 1659:** Catechist Bento Thien wrote a detailed letter in Chữ Quốc ngữ to Father Marini, further demonstrating the advanced use of the script among Vietnamese Catholics.
 *   **1661 - 1662:** The sixth campaign. The Trinh army attacked but was unsuccessful and had to retreat.
 *   **1663:** The Le-Trinh court issued a ban on Christianity ("Hoa Lang" religion) and ordered a strict census of all foreigners residing in the country to separate them from the local population.
 *   **1663:** The Nam Giao Hall was constructed for the first time to perform Heaven worship ceremonies (previously performed on an open altar).
