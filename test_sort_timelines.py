@@ -58,6 +58,12 @@ class TestExtractDate(unittest.TestCase):
         self.check("Approximately 1,000 BC - 200 AD", -1000.0)
         self.check("Approximately 23,500 BC (25,510 years ago)", -23500.0)
         self.check("Approximately 534,000 - 400,000 years ago", -534000.0)
+        # New English date format tests
+        self.check("Aug. 19, 980:", 980.57)
+        self.check("Jan. 19 - 20, 1785:", 1785.10)
+        self.check("Night of Sep. 22-23, 1945:", 1945.64)
+        self.check("Apr. 11 - 12, 1884:", 1884.29)
+        self.check("Dec. 25, 1950 - Jan. 18, 1951:", 1950.85)
 
     def test_chronological_ordering(self):
         go_mun = extract_date("Khoảng 1.100 - 700 TCN")
@@ -70,6 +76,44 @@ class TestExtractDate(unittest.TestCase):
         self.assertEqual(d1201, century13, "01/01/1201 and generic 13th Century date both map to start of 13th century (1201)")
         self.assertLess(century13, d1226, "Thế kỷ XIII (starts in 1201) must be ordered before 10/01/1226")
 
+    def test_timeline_integrity_and_sorting(self):
+        from sort_timelines import parse_blocks
+        for filename in ["timelines_vi.md", "timelines_en.md"]:
+            with open(filename, "r", encoding="utf-8") as f:
+                original_lines = f.readlines()
+
+            blocks = parse_blocks(filename)
+            reconstructed_lines = []
+            for b in blocks:
+                reconstructed_lines.extend(b['lines'])
+
+            self.assertEqual(len(original_lines), len(reconstructed_lines),
+                             f"Line count mismatch in {filename} after parsing blocks!")
+            self.assertEqual(original_lines, reconstructed_lines,
+                             f"Reconstructed lines do not match original lines in {filename}!")
+
+            # Verify event date ordering within each section
+            sections = []
+            curr = []
+            for b in blocks:
+                if b['type'] == 'header':
+                    if curr: sections.append(curr)
+                    curr = [b]
+                else:
+                    curr.append(b)
+            if curr: sections.append(curr)
+
+            for sec in sections:
+                hdr = sec[0]['lines'][0].strip() if sec[0]['type'] == 'header' else 'Top'
+                events = [b for b in sec if b['type'] == 'event']
+                for i in range(len(events) - 1):
+                    t1, t2 = events[i]['time_str'], events[i+1]['time_str']
+                    d1, d2 = extract_date(t1), extract_date(t2)
+                    self.assertLessEqual(d1, d2,
+                        f"In {filename} section [{hdr}]: '{t1}' (date {d1}) must be <= '{t2}' (date {d2})")
+
+
 if __name__ == '__main__':
     unittest.main()
+
 

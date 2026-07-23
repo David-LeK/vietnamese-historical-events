@@ -100,6 +100,42 @@ def extract_date(time_str_orig):
             return y + m/15.0 + d/500.0
             
     months = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"]
+    month_regex = r'\b(?:JAN|FEB|MAR|APR|MAY|JUN|JUL|AUG|SEP|OCT|NOV|DEC)[A-Z]*\b'
+
+    # Range format: Month1 DD1, YYYY1 - Month2 DD2, YYYY2 (e.g. Dec. 25, 1950 - Jan. 18, 1951)
+    match = re.search(rf'({month_regex})\.?\s+(\d{{1,2}}),?\s+(\d{{2,4}})\s*-\s*({month_regex})\.?\s+(\d{{1,2}}),?\s+(\d{{2,4}})(?!\d)', time_str)
+    if match:
+        m_str1, d1, y1, m_str2, d2, y2 = match.groups()
+        if m_val == 0:
+            for i, m in enumerate(months):
+                if m in m_str1:
+                    m_val = i + 1
+                    break
+        if d_val == 0: d_val = int(d1)
+        return finalize_val(int(y1))
+
+    # Range format: Month1 DD1 - Month2 DD2, YYYY (e.g. Jan. 18 - Feb. 28, 1077)
+    match = re.search(rf'({month_regex})\.?\s+(\d{{1,2}})\s*-\s*({month_regex})\.?\s+(\d{{1,2}}),?\s+(\d{{2,4}})(?!\d)', time_str)
+    if match:
+        m_str1, d1, m_str2, d2, y = match.groups()
+        if m_val == 0:
+            for i, m in enumerate(months):
+                if m in m_str1:
+                    m_val = i + 1
+                    break
+        if d_val == 0: d_val = int(d1)
+        return finalize_val(int(y))
+
+    # Range format: Month1 YYYY1 - Month2 YYYY2 or Month1 YYYY1 - Month2 YYYY2 (e.g. Dec. 1898 - Jun. 1899)
+    match = re.search(rf'({month_regex})\.?\s+(\d{{2,4}})\s*-\s*({month_regex})\.?\s+(\d{{2,4}})(?!\d)', time_str)
+    if match:
+        m_str1, y1, m_str2, y2 = match.groups()
+        if m_val == 0:
+            for i, m in enumerate(months):
+                if m in m_str1:
+                    m_val = i + 1
+                    break
+        return finalize_val(int(y1))
 
     # Range formats: DD/MM/YYYY - DD/MM/YYYY
     match = re.search(r'(\d{1,2})/(\d{1,2})/(\d{2,4})\s*-\s*\d{1,2}/\d{1,2}/\d{2,4}', time_str)
@@ -143,9 +179,20 @@ def extract_date(time_str_orig):
         if m_val == 0: m_val = int(m1)
         return finalize_val(int(y))
 
+    # Month DD - DD, YYYY or Month DD-DD, YYYY (e.g. Jan. 19 - 20, 1785, Night of Sep. 22-23, 1945)
+    match_range = re.search(rf'({month_regex})\.?\s+(\d{{1,2}})\s*-\s*\d{{1,2}},?\s+(\d{{2,4}})(?!\d)', time_str)
+    if match_range:
+        m_str, d, y = match_range.groups()
+        if m_val == 0:
+            for i, m in enumerate(months):
+                if m in m_str:
+                    m_val = i + 1
+                    break
+        if d_val == 0: d_val = int(d)
+        return finalize_val(int(y))
+
     # Check for Month DD, YYYY or Month DD YYYY
-    month_regex = r'\b(?:JAN|FEB|MAR|APR|MAY|JUN|JUL|AUG|SEP|OCT|NOV|DEC)[A-Z]*\b'
-    match = re.search(rf'({month_regex})\.?\s+(\d{1,2}),?\s+(\d{2,4})(?!\d)', time_str)
+    match = re.search(rf'({month_regex})\.?\s+(\d{{1,2}}),?\s+(\d{{2,4}})(?!\d)', time_str)
     if match:
         m_str, d, y = match.groups()
         if m_val == 0:
@@ -157,7 +204,7 @@ def extract_date(time_str_orig):
         return finalize_val(int(y))
 
     # Check for Month YYYY
-    match = re.search(rf'({month_regex})\.?\s+(\d{2,4})(?!\d)', time_str)
+    match = re.search(rf'({month_regex})\.?\s+(\d{{2,4}})(?!\d)', time_str)
     if match:
         m_str, y = match.groups()
         if m_val == 0:
@@ -232,10 +279,10 @@ def parse_blocks(filename):
                 blocks.append(current_block)
             blocks.append({'type': 'header', 'lines': [line]})
             current_block = None
-        elif re.match(r'^\*\s+\*\*.*?\*\*', line):
+        elif re.match(r'^\*\s+\*\*(.*?):\*\*', line):
             if current_block:
                 blocks.append(current_block)
-            match = re.match(r'^\*\s+\*\*(.*?)\*\*', line)
+            match = re.match(r'^\*\s+\*\*(.*?):\*\*', line)
             time_str = match.group(1) if match else ""
             current_block = {'type': 'event', 'time_str': time_str, 'lines': [line]}
         elif line.strip() == '':
