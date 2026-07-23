@@ -1225,6 +1225,7 @@
 *   **28/09/1939:** Toàn quyền Đông Dương ra nghị định đặt Đảng Cộng sản Đông Dương ra ngoài vòng pháp luật, bắt đầu thời kỳ khủng bố trắng.
 *   **06-08/11/1939:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ VI tại Bà Điểm (Hóc Môn), quyết định chuyển hướng chiến lược, đặt nhiệm vụ giải phóng dân tộc lên hàng đầu và thành lập Mặt trận Dân tộc Thống nhất Phản đế Đông Dương.
 *   **10/12/1939:** Đại Việt Quốc dân Đảng được thành lập.
+*   **01/02/1940:** Nguyễn Văn Trỗi sinh tại làng Thanh Quýt, huyện Điện Bàn, tỉnh Quảng Nam. Ông sau này trở thành chiến sĩ biệt động Sài Gòn quả cảm, người có khí tiết lẫm liệt trước pháp trường trở thành biểu tượng của lòng yêu nước.
 *   **22/06/1940:** Chính phủ Pháp đầu hàng phát xít Đức.
 *   **1940:** Kiến trúc sư **Huỳnh Tấn Phát** mở văn phòng kiến trúc sư tư đầu tiên của người Việt ở Sài Gòn.
 *   **09/1940:** Việt Nam Kiến quốc quân (lực lượng vũ trang của Phục quốc Hội) tiến đánh Lạng Sơn.
@@ -1494,6 +1495,7 @@
 *   **04/1956:** Khi lực lượng viễn chinh Pháp rút khỏi Đông Dương, lực lượng Việt Nam Cộng hòa đã vào thay thế các đơn vị Pháp trên đảo Hoàng Sa (Pattle). Cùng thời gian đó, Cộng hòa Nhân dân Trung Hoa đã bí mật đổ bộ và chiếm đóng khu vực phía Đông quần đảo Hoàng Sa (nhóm An Vĩnh).
 *   **28/04/1956:** Người lính Pháp cuối cùng rời khỏi miền Nam Việt Nam.
 *   **1956:** Raymonde Dien cùng Henri Martin lần đầu tiên sang thăm Việt Nam, tham dự Đại hội Thanh niên tại Hà Nội và có cuộc gặp gỡ xúc động với Chủ tịch Hồ Chí Minh.
+*   **1956:** Sau Hiệp định Giơnevơ và sự đàn áp ở Duy Xuyên, gia đình Nguyễn Văn Trỗi di cư vào Sài Gòn, định cư tại ấp Tân Ba, Phú Nhuận. Ông vừa làm thợ điện tại Nhà máy điện Chợ Quán vừa tham gia lực lượng biệt động nội thành Sài Gòn (Đại đội Quyết Tử 65).
 *   **19/05/1956:** Trong một cuộc họp báo ở Manila, Bộ trưởng Ngoại giao Philippin lại dựa vào lập luận kế cận địa lý để đưa ra ý kiến về các quyền của Philippin trên quần đảo Trường Sa, sau sự kiện Thomas Cloma. Ngày 31/5, Bắc Kinh đã ra thông cáo phản đối mạnh mẽ.
 *   **31/05/1956:** Chính phủ Bắc Kinh ra thông cáo tuyên bố sẽ không dung thứ bất kỳ sự vi phạm nào đối với các quyền của họ trên quần đảo Trường Sa.
 *   **01/06/1956:** Bộ trưởng Ngoại giao Việt Nam Cộng hòa Vũ Văn Mẫu tái khẳng định các quyền của Việt Nam đối với hai quần đảo.
@@ -1563,6 +1565,7 @@
 *   **18/02/1962:** Chính phủ Việt Nam Dân chủ Cộng hòa ra tuyên bố lên án việc Mỹ tăng cường can thiệp và xâm lược miền Nam Việt Nam.
 *   **16/02 - 03/03/1962:** Đại hội lần thứ nhất Mặt trận Dân tộc Giải phóng miền Nam Việt Nam được tổ chức, bầu ra Ủy ban Trung ương chính thức do Luật sư Nguyễn Hữu Thọ làm Chủ tịch.
 *   **1962:** Mỹ và chính quyền Sài Gòn ráo riết thực hiện chương trình dồn dân, lập **"Ấp chiến lược"**, coi đây là "xương sống" của chiến lược "Chiến tranh đặc biệt".
+*   **1962:** Thiều Văn Chỏi (Sáu Chỏi), sinh ra trong gia đình nông dân nghèo tại ấp 7, xã Ba Trinh, huyện Kế Sách, tỉnh Sóc Trăng, bắt đầu tham gia hoạt động cách mạng với vai trò chiến sĩ du kích địa phương.
 *   **1962:** Chiến sĩ biệt động Sài Gòn Trần Văn Lai (bí danh Mai Hồng Quế) mua ba căn nhà liền kề trên đường Nguyễn Đình Chiểu (Sài Gòn) để bí mật đào hầm ngầm, sau này cất giấu hơn 2,5 tấn vũ khí phục vụ Tổng tiến công Tết Mậu Thân 1968.
 *   **02/01/1963:** **Trận Ấp Bắc (Mỹ Tho):** Khoảng 350 quân của Quân Giải phóng miền Nam Việt Nam đã đánh bại cuộc hành quân càn quét quy mô lớn "Đức Thắng 01-1963" của gần 1.800 quân lực Việt Nam Cộng hòa do cố vấn Mỹ chỉ huy. Dù đối phương sử dụng chiến thuật "trực thăng vận" và "thiết xa vận" tân kỳ, Quân Giải phóng đã gây thiệt hại nặng nề (hơn 80 lính Sài Gòn chết, bắn rơi 5 trực thăng, bắn cháy nhiều xe thiết giáp M113). Đây là chiến thắng lớn đầu tiên của Quân Giải phóng trước quân chính quy VNCH, đánh dấu sự thất bại bước đầu của chiến lược "Chiến tranh đặc biệt".
 *   **08/05/1963:** Sự kiện Đài phát thanh Huế: Quân đội chính phủ nổ súng vào đoàn người biểu tình phản đối lệnh cấm treo cờ Phật giáo nhân lễ Phật Đản, làm 9 người thiệt mạng. Sự kiện này châm ngòi cho **cuộc khủng hoảng Phật giáo** và phong trào đấu tranh ở các đô thị miền Nam.
@@ -1570,6 +1573,7 @@
 *   **21/08/1963:** Lực lượng Đặc biệt của Ngô Đình Nhu đồng loạt tấn công chùa Xá Lợi và các chùa chiền khác trên toàn miền Nam (Chiến dịch Nước lũ), bắt giữ hàng ngàn tăng ni, dẫn đến sự phản đối gay gắt của dư luận trong nước và quốc tế.
 *   **25/08/1963:** Nữ sinh **Quách Thị Trang** (15 tuổi) bị cảnh sát bắn chết tại bùng binh Chợ Bến Thành trong cuộc biểu tình chống chính sách đàn áp Phật giáo.
 *   **23/09/1963:** Cuba là nước đầu tiên thành lập Ủy ban Cuba đoàn kết với miền Nam Việt Nam do nữ anh hùng Melba Hernandez sáng lập. Cuba cũng là nước đầu tiên công nhận Mặt trận Dân tộc Giải phóng miền Nam Việt Nam và mời đặt cơ quan đại diện thường trú tại La Habana.
+*   **1963:** Nguyễn Văn Trỗi chính thức gia nhập đội biệt động Sài Gòn, trở thành chiến sĩ xuất sắc trong các chiến dịch tiến công du kích nội thành.
 *   **1963 - 1968:** Trần Văn Lai hoạt động biệt động tại Sài Gòn dưới vỏ bọc nhà thầu khoán. Ông xâm nhập các cơ quan đầu não như Dinh Độc Lập và cơ quan viện trợ hậu cần Mỹ (USOM), thu thập tình báo và bí mật vẽ bản đồ hệ thống cống ngầm Sài Gòn cho Quân Giải phóng.
 *   **01/11/1963:** Nhóm tướng lĩnh do Dương Văn Minh cầm đầu, được Mỹ hậu thuẫn, tiến hành đảo chính lật đổ và giết chết anh em Ngô Đình Diệm - Ngô Đình Nhu.
 *   **22/11/1963:** Tổng thống Mỹ Kennedy bị ám sát, Phó Tổng thống Lyndon B. Johnson lên thay, chủ trương đẩy mạnh chiến tranh ở Việt Nam.
@@ -1578,11 +1582,17 @@
 *   **03/1964:** Mỹ vạch ra **Kế hoạch Johnson - McNamara**, tăng cường viện trợ, đưa thêm cố vấn, đẩy mạnh các hoạt động phá hoại miền Bắc.
 *   **03/1964:** Chủ tịch Hồ Chí Minh triệu tập **Hội nghị Chính trị đặc biệt** tại Hà Nội, kêu gọi toàn dân đoàn kết chống Mỹ, cứu nước.
 *   **1964:** Út Tịch được kết nạp vào Đảng Nhân dân cách mạng miền Nam.
-*   **19/05/1964:** Hưởng ứng phong trào phản đối bản án tử hình đối với người thanh niên yêu nước Nguyễn Văn Trỗi tại Sài Gòn, đội du kích Caracas (Venezuela) đã phát động chiến dịch giải cứu. Ngày 09/10/1964, họ bắt cóc sĩ quan Mỹ Michael Smolen để đổi mạng cho anh Trỗi. Dù du kích đã thả Smolen, Mỹ và chính quyền Sài Gòn vẫn lật lọng và xử tử Nguyễn Văn Trỗi.
+*   **Đầu năm 1964:** Nhân dịp Tết Nguyên Đán, Nguyễn Văn Trỗi ra căn cứ Rừng Thơm (huyện Đức Hòa, tỉnh Long An) học chính trị và nghệ thuật đánh biệt động nội thành.
+*   **21/04/1964:** Nguyễn Văn Trỗi chính thức kết hôn với bà Phan Thị Quyên tại Sài Gòn.
+*   **02 - 09/05/1964:** Kế hoạch cài mìn dưới chân cầu Công Lý (Sài Gòn) để tiêu diệt phái đoàn quân sự Mỹ do Bộ trưởng Quốc phòng Robert McNamara dẫn đầu được triển khai. Vào lúc 22 giờ đêm ngày 09/05/1964, kế hoạch bị bại lộ, Nguyễn Văn Trỗi cùng đồng đội bị địch bắt giữ.
 *   **02-04/08/1964:** Mỹ dựng lên **"Sự kiện Vịnh Bắc Bộ"** làm cớ để leo thang chiến tranh.
 *   **05/08/1964:** Không quân Mỹ lần đầu tiên ném bom bắn phá một số nơi ở miền Bắc (chiến dịch Mũi tên xuyên - Pierce Arrow). Quân dân miền Bắc đánh trả quyết liệt, bắn rơi 8 máy bay Mỹ, bắt sống phi công Everett Alvarez, tù binh phi công Mỹ đầu tiên tại miền Bắc.
 *   **07 - 11/08/1964:** Sau Sự kiện Vịnh Bắc Bộ, hơn 20 triệu người dân tại nhiều địa phương của Trung Quốc đã xuống đường tuần hành thị uy, mạnh mẽ ủng hộ Việt Nam chống đế quốc Mỹ.
+*   **10/08/1964:** Nguyễn Văn Trỗi bị Tòa án Quân sự chính quyền Sài Gòn kết án tử hình. Tại tòa, ông hiên ngang nhận hết trách nhiệm và khẳng định: "Tôi giết bọn cướp nước tôi" và "Tôi chỉ tiếc rằng chưa giết được McNamara".
 *   **20/09/1964:** Mặt trận Thống nhất Đấu tranh của các Sắc tộc bị Áp bức (FULRO) được thành lập tại Campuchia, liên kết các phong trào của người Thượng, Chăm và Khmer.
+*   **09/10/1964:** Đội du kích Caracas (Venezuela) bắt cóc Trung tá Mỹ Michael Smolen tại Caracas để đấu tranh đòi tự do cho Nguyễn Văn Trỗi, buộc chính quyền Mỹ - Sài Gòn tạm đình chỉ bản án tử hình. Tuy nhiên, sau khi Smolen được thả, địch đã lật lọng đưa Nguyễn Văn Trỗi ra xử bắn.
+*   **15/10/1964:** Vào lúc 9 giờ 45 phút (hoặc 9 giờ 59 phút), Nguyễn Văn Trỗi bị xử bắn tại Khám Chí Hòa (Sài Gòn) ở tuổi 24. Trước pháp trường, ông giật băng bịt mắt, từ chối rửa tội và dõng dạc hô lớn: "Hãy nhớ lấy lời tôi! Đả đảo đế quốc Mỹ! Đả đảo Nguyễn Khánh! Hồ Chí Minh muôn năm! Việt Nam muôn năm!", trở thành biểu tượng anh hùng cách mạng bất khuất.
+*   **17/10/1964:** Ủy ban Trung ương Mặt trận Dân tộc Giải phóng miền Nam Việt Nam họp phiên bất thường, quyết định truy tặng Nguyễn Văn Trỗi danh hiệu Anh hùng các Lực lượng Vũ trang Nhân dân Giải phóng và Huân chương Thành đồng hạng Nhất.
 *   **14/11/1964:** Đảng Tân Đại Việt được thành lập.
 *   **25 - 28/11/1964:** Theo sáng kiến của Liên hiệp Công đoàn thế giới, Hội nghị quốc tế "Nhân dân thế giới đoàn kết với nhân dân Việt Nam chống đế quốc Mỹ xâm lược, bảo vệ hòa bình" được tổ chức tại Hà Nội với sự tham dự của 64 đoàn đại biểu đến từ 52 nước.
 *   **28/12/1964 - 01/01/1965:** **Trận Bình Giã (Phước Tuy):** Quân Giải phóng miền Nam Việt Nam mở cuộc tấn công lớn vào làng Bình Giã, liên tục phục kích và đánh thiệt hại nặng nhiều tiểu đoàn tinh nhuệ (Biệt động quân, Thủy quân lục chiến) của Việt Nam Cộng hòa được cử đến ứng cứu. Quân Giải phóng đã bắn rơi 21 trực thăng và 1 máy bay trinh sát, đánh gục chiến thuật "trực thăng vận" và "thiết xa vận" của đối phương, đánh dấu sự phát triển nghệ thuật chiến tranh và đẩy nhanh sự phá sản của chiến lược "Chiến tranh đặc biệt".
@@ -1615,6 +1625,7 @@
 *   **26/06/1965:** Lãnh tụ Fidel Castro phát biểu trước Đoàn đại biểu thanh niên Cuba tại La Habana, khẳng định sự ủng hộ tuyệt đối dành cho cuộc đấu tranh giành độc lập của nhân dân Việt Nam.
 *   **06/07/1965:** Hội đồng Bộ trưởng Liên Xô quyết định thành lập Đoàn chuyên gia quân sự tại Việt Nam để giúp đỡ lực lượng phòng không và không quân. Ngày 24/07, kíp chiến đấu của chuyên gia Liên Xô đã trực tiếp vận hành hệ thống tên lửa SAM-2 bắn rơi một máy bay F-4C của Mỹ, mở ra giai đoạn tác chiến phòng không hiện đại.
 *   **18/08/1965:** **Trận Vạn Tường (Quảng Ngãi):** Quân đội Mỹ mở cuộc hành quân Starlite, huy động khoảng 9.000 lính Thủy quân lục chiến cùng hỏa lực yểm trợ mạnh mẽ từ không quân và pháo hạm nhằm tiêu diệt Trung đoàn 1 (Trung đoàn Ba Gia) của Quân Giải phóng. Đây là trận đánh trên bộ quy mô lớn đầu tiên giữa quân Mỹ và Quân Giải phóng. Dù áp đảo về hỏa lực, quân Mỹ đã bị gần 2.000 Quân Giải phóng chặn đánh quyết liệt bằng chiến hào và vũ khí chống tăng. Hai bên đều tuyên bố chiến thắng, song trận đánh chứng minh Quân Giải phóng hoàn toàn có khả năng đương đầu với quân chính quy Mỹ, được mệnh danh là "Ấp Bắc đối với quân Mỹ".
+*   **15/10/1965:** Tròn 1 năm ngày Nguyễn Văn Trỗi hy sinh, bà Phan Thị Quyên trao tặng bức ảnh cưới của hai vợ chồng cho ông Trần Độ (Chín Vinh), Ủy viên Trung ương Cục, Phó Bí thư Quân ủy Miền, Phó Chính ủy Quân Giải phóng miền Nam.
 *   **19/10 - 26/11/1965:** **Chiến dịch Plei Me và Trận Ia Đrăng (Tây Nguyên):** Mặt trận B3 của Quân Giải phóng mở chiến dịch Plei Me nhằm kéo địch ra khỏi căn cứ để tiêu diệt. Sau khi vây hãm đồn Plei Me và đánh bại viện binh VNCH (19/10 - 25/10), Sư đoàn 1 Không kỵ của Mỹ mở cuộc hành quân phản kích, dẫn đến **Trận Ia Đrăng lịch sử (14 - 18/11)** tại bãi đáp X-Ray và Albany. Đây là cuộc đụng độ quy mô lớn đầu tiên giữa quân chủ lực Mỹ và Quân Giải phóng. Bằng chiến thuật "nắm thắt lưng địch mà đánh" (cận chiến áp sát để vô hiệu hóa ưu thế hỏa lực phi pháo và B-52 của Mỹ), Quân Giải phóng đã gây thương vong nặng nề cho các tiểu đoàn Không kỵ Mỹ. Trận đánh làm thay đổi nhận thức chiến lược của giới lãnh đạo quân sự Mỹ, dập tắt hy vọng về một chiến thắng dễ dàng.
 *   **02/11/1965:** Norman Morrison, một tín hữu Quaker người Mỹ yêu chuộng hòa bình, đã tự thiêu trước Lầu Năm Góc (Mỹ) để phản đối cuộc chiến tranh xâm lược của Mỹ tại Việt Nam. Ông đã bế theo con gái một tuổi Emily trước khi hành động. Sự hy sinh của ông đã gây chấn động và làm xúc động sâu sắc nhân dân Việt Nam cũng như phong trào phản chiến trên toàn thế giới.
 *   **04/11/1965:** Nhà thơ Tố Hữu đến Đồng Hới và có cuộc trò chuyện với Mẹ Suốt. Lấy cảm hứng từ lòng quả cảm của bà, ông đã sáng tác bài thơ nổi tiếng "Mẹ Suốt", khắc họa thành công hình ảnh người mẹ anh hùng trong văn học Việt Nam hiện đại.
@@ -1653,6 +1664,7 @@
 *   **16/05/1967:** Nhất Chi Mai (Phan Thị Mai) tự thiêu tại chùa Từ Nghiêm (Sài Gòn) để cầu nguyện cho hòa bình.
 *   **08/08/1967:** Chính phủ Việt Nam Dân chủ Cộng hòa ra Quyết định số 121/QĐ-CP, quy định giờ pháp định của miền Bắc là múi giờ 7 quốc tế, kể từ 0 giờ ngày 01/01/1968.
 *   **17/09/1967:** Tại Đại hội anh hùng chiến sĩ thi đua toàn Miền lần thứ hai, Mặt trận Dân tộc Giải phóng miền Nam Việt Nam đã phong tặng danh hiệu "Củ Chi đất thép thành đồng" để vinh danh tinh thần chiến đấu kiên cường của quân dân Củ Chi.
+*   **1967:** Gia đình Nguyễn Văn Trỗi bí mật cải táng hài cốt ông về Nghĩa trang Văn Giáp (Quận 2, Sài Gòn), trồng cây xung quanh để che mắt chính quyền Sài Gòn.
 *   **29/09/1967:** Tổng thống Mỹ Lyndon B. Johnson tuyên bố "Công thức San Antonio", sẵn sàng ngưng ném bom miền Bắc nếu Việt Nam Dân chủ Cộng hòa chấp nhận đàm phán.
 *   **10/1967:** Trung ương Cục miền Nam quyết định giải thể Khu 7 và Quân khu Sài Gòn - Gia Định, lập ra **Khu Trọng điểm** gồm Sài Gòn - Gia Định và các vùng phụ cận, chia làm 6 Phân khu để chuẩn bị cho Tổng tiến công.
 *   **17/10/1967:** Trận Ông Thành. Cuộc đụng độ giữa Tiểu đoàn 2, Trung đoàn 28 (Sư tử đen) thuộc Sư đoàn 1 Bộ binh Hoa Kỳ và lực lượng Quân Giải phóng miền Nam Việt Nam (2 tiểu đoàn thuộc Trung đoàn 1, Sư đoàn 9) tại suối Ông Thành (Bình Dương). Quân Giải phóng tổ chức phòng thủ, phục kích và tấn công bất ngờ, tiêu diệt hoàn toàn Đại đội A và gây thiệt hại nặng Đại đội D của Mỹ, khiến 64 lính và sĩ quan Mỹ tử trận (bao gồm cả Trung tá tiểu đoàn trưởng Terry Allen). Trận đánh thể hiện hiệu quả của chiến thuật phòng thủ chủ động và phục kích của Quân Giải phóng, mặc dù phía Mỹ không công bố chi tiết trận đánh này đến công chúng cho đến năm 1991.
@@ -1661,6 +1673,7 @@
 *   **1968:** Trong cuộc Tổng tiến công và nổi dậy Tết Mậu Thân, nữ tình báo Đinh Thị Vân trực tiếp hướng dẫn chuẩn bị kế hoạch "Vụ Mùa" ở Sài Gòn, chuẩn bị giao liên dẫn đường cho lực lượng bên ngoài vào, cung cấp tin tức kịp thời và giữ bí mật tuyệt đối mạng lưới tình báo.
 *   **20/01 - 15/07/1968:** Chiến dịch Đường 9 - Khe Sanh. Quân Giải phóng miền Nam Việt Nam tiến công tập đoàn phòng ngự Khe Sanh của Mỹ tại Quảng Trị. Nhằm mục đích nghi binh cho cuộc Tổng tiến công Tết Mậu Thân, Quân Giải phóng vây hãm chặt căn cứ Khe Sanh (với 17.000 quân bao vây), buộc Mỹ phải huy động không quân chiến lược ném hơn 114.000 tấn bom để chi viện. Lần đầu tiên, Quân Giải phóng đưa xe tăng PT-76 tham chiến, tiêu diệt cứ điểm Làng Vây (07/02). Dù chịu thương vong, chiến dịch đã giam chân một lực lượng lớn quân Mỹ, phá hủy trung tâm chỉ huy Hàng rào điện tử McNamara, và cuối cùng buộc quân Mỹ phải rút bỏ Khe Sanh vào tháng 7/1968. Đây là lần đầu tiên quân đội Mỹ phải rút bỏ một căn cứ quân sự trọng yếu do áp lực của đối phương.
 *   **Đêm 30 rạng 31/01/1968:** Cuộc Tổng tiến công và nổi dậy Tết Mậu Thân 1968 đồng loạt nổ ra trên toàn miền Nam, đánh vào các thành phố, thị xã và các cơ quan đầu não của địch, làm lung lay ý chí xâm lược của Mỹ.
+*   **Đầu năm 1968:** Thiều Văn Chỏi được kết nạp vào Đảng Cộng sản Việt Nam.
 *   **31/01/1968 (Mùng 2 Tết Mậu Thân):** Nữ chiến sĩ cách mạng Lê Thị Riêng bị chính quyền Sài Gòn thủ tiêu tại bốt Bà Hòa (Chợ Lớn). Trong phút hy sinh, bà đã dũng cảm lấy thân mình che đạn cứu sống người đồng đội Phùng Ngọc Anh và hát vang bài Quốc tế ca.
 *   **31/01 - 24/02/1968:** Trận chiến tại Huế trong sự kiện Tết Mậu Thân. Mở màn vào rạng sáng mồng 2 Tết, Quân Giải phóng miền Nam Việt Nam bất ngờ tấn công và kiểm soát hầu hết thành phố Huế, giương cao lá cờ Mặt trận trên đỉnh Kỳ Đài. Quân đội Mỹ và Việt Nam Cộng hòa phải điều động lực lượng lớn phản công. Để tái chiếm thành phố, quân Mỹ đã sử dụng hỏa lực hạng nặng (bom, pháo hạm), gây tàn phá 80% nhà cửa ở Huế và khiến nhiều thường dân thiệt mạng. Sau 25 ngày đêm chiến đấu giằng co làm chủ thành phố, để bảo toàn lực lượng, Quân Giải phóng chủ động rút lui. Trận đánh mang lại sự đổ vỡ tâm lý và chính trị lớn nhất cho Hoa Kỳ, thể hiện khả năng kiểm soát đô thị dài ngày của Quân Giải phóng.
 *   **12/02/1968:** Lính Nam Triều Tiên gây ra vụ thảm sát Phong Nhất và Phong Nhị (Quảng Nam), sát hại từ 69 đến 79 thường dân.
@@ -1679,15 +1692,19 @@
 *   **20/01/1969:** Richard Nixon nhậm chức Tổng thống Mỹ, triển khai chiến lược "Việt Nam hóa chiến tranh" và "Học thuyết Nixon".
 *   **25/01/1969:** Khai mạc phiên họp toàn thể đầu tiên của Hội nghị bốn bên về Việt Nam tại Paris.
 *   **25/02/1969:** Biệt kích SEAL của Mỹ do Bob Kerrey chỉ huy thảm sát 21 thường dân tại Thạnh Phong (Bến Tre).
+*   **02/03/1969:** Thiều Văn Chỏi cùng 4 du kích tổ chức phục kích địch cách đồn Vàm Bưng (xã Ba Trinh, Kế Sách, Sóc Trăng) 300m, tiêu diệt 7 tên địch, thu 3 súng và 1 máy thông tin.
 *   **18/03/1969 - 26/05/1970:** Mỹ tiến hành Chiến dịch Menu, sử dụng máy bay B-52 ném bom rải thảm bí mật vào sâu trong lãnh thổ Campuchia nhằm tiêu diệt căn cứ Trung ương Cục miền Nam.
 *   **03/1969:** Do sức khỏe giảm sút sau những năm tháng bị địch bắt giam, tra tấn dã man và hoạt động căng thẳng, Đinh Thị Vân được điều ra Hà Nội để điều trị và phân công làm công tác huấn luyện tình báo.
+*   **Đêm 26 rạng sáng 27/03/1969:** Thiều Văn Chỏi cùng một chiến sĩ phục kích ngay trước đồn Vàm Bưng, tiêu diệt 2 tên và làm bị thương 1 tên địch.
 *   **17/04/1969:** Lính Mỹ (lực lượng Tiger Force) gây ra vụ thảm sát Khánh Giang - Trường Lệ (Nghĩa Hành, Quảng Ngãi), sát hại 63 thường dân.
 *   **10 - 20/05/1969:** Trận chiến Đồi A Bia (Cao điểm 937), báo chí Mỹ gọi là "Đồi thịt băm" (Hamburger Hill), diễn ra ác liệt tại thung lũng A Sầu, A Lưới (Thừa Thiên). Quân đội Mỹ huy động lực lượng tương đương 2 sư đoàn (chủ công là Sư đoàn Không vận 101) cùng hỏa lực khổng lồ (ném 890 tấn bom nổ và 115 tấn bom napalm, bắn hơn 19.000 quả đạn pháo) nhằm chiếm đỉnh đồi do 2 tiểu đoàn Quân Giải phóng miền Nam Việt Nam chốt giữ. Dựa vào địa thế hiểm trở và công sự vững chắc, Quân Giải phóng kiên cường bám chốt, bẻ gãy hàng chục đợt tiến công bộ binh của Mỹ, gây thương vong lớn (Mỹ thừa nhận 72 chết, 372 bị thương). Đêm 18/05, sau khi hoàn thành mục tiêu tiêu diệt sinh lực địch, Quân Giải phóng chủ động rút lui. Đến chiều 20/05 quân Mỹ mới lên được đỉnh đồi nhưng rồi lại rút bỏ một tháng sau đó (05/06). Sự khốc liệt và vô nghĩa của trận đánh đã làm rung chuyển chính trường Mỹ, đẩy nhanh việc chính quyền Nixon chấm dứt chiến lược "áp lực tối đa", đẩy nhanh thực hiện "Việt Nam hóa chiến tranh" và rút quân viễn chinh.
 *   **25/05/1969:** Tổng thống Nguyễn Văn Thiệu thành lập Mặt trận Quốc gia Dân chủ Xã hội để tập hợp lực lượng chính trị tại miền Nam.
 *   **06-08/06/1969:** Đại hội đại biểu quốc dân miền Nam họp, thành lập **Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam**. Kiến trúc sư **Huỳnh Tấn Phát** được bầu làm Chủ tịch, Luật sư **Nguyễn Hữu Thọ** làm Chủ tịch Hội đồng Cố vấn, Luật sư **Trương Như Tảng** làm Bộ trưởng Bộ Tư pháp, và bà **Nguyễn Thị Bình** làm Bộ trưởng Bộ Ngoại giao. Bà Nguyễn Thị Bình sau đó trở thành Trưởng phái đoàn đàm phán của Chính phủ Cách mạng Lâm thời tại Hội nghị Paris.
+*   **Cuối tháng 7/1969:** Thiều Văn Chỏi cải trang quân phục lính bảo an tấn công đồn Vàm Bưng và đồn Mang Cá khi địch đang tiệc tùng, diệt 5 tên, làm bị thương 3 tên, thu 6 súng, khiến quân địch hoang mang lập miếu thờ "Ông Thần Chỏi".
 *   **02/09/1969:** Chủ tịch Hồ Chí Minh từ trần. Toàn Đảng, toàn dân, toàn quân biến đau thương thành hành động cách mạng, quyết tâm thực hiện Di chúc của Người.
 *   **04/09/1969:** Sau khi Chủ tịch Hồ Chí Minh từ trần, Fidel Castro và Chủ tịch nước Cuba Osvaldo Dorticós Torrado đã gửi bức điện chia buồn đánh giá rất cao những phẩm chất cách mạng và tài năng lãnh đạo của Người.
 *   **21/10/1969:** Việt Nam Cộng hòa ban hành nghị định sáp nhập đơn vị hành chính Định Hải (quần đảo Hoàng Sa) vào xã Hòa Long, tiếp tục quản lý hành chính đối với quần đảo.
+*   **17/11/1969:** Vào lúc 8 giờ sáng, Thiều Văn Chỏi một mình phục kích và truy kích một trung đội địch 27 lính tại cánh đồng Bưng Sấu, tiêu diệt 13 tên (có 1 sĩ quan), làm bị thương 8 tên, bắt sống 2 tên. Trận đánh "1 chọi 27" lừng lẫy khiến lính đồn Vàm Bưng lập miếu thờ "Ông Thần Chỏi" ngay trước cửa đồn để cầu an.
 *   **06/03/1970:** Bộ Chính trị ra Nghị quyết về cuộc vận động nâng cao chất lượng đảng viên và kết nạp đảng viên (Lớp Hồ Chí Minh).
 *   **12/03/1970:** Thủ tướng Campuchia Lon Nol ra lệnh đóng cửa cảng Sihanoukville và gửi tối hậu thư yêu cầu toàn bộ lực lượng quân đội Việt Nam phải rút khỏi Campuchia trong vòng 72 giờ.
 *   **18/03/1970:** Tướng Lon Nol, được Mỹ hậu thuẫn, tiến hành đảo chính lật đổ chính phủ trung lập của Hoàng thân Norodom Sihanouk, chính thức kéo Campuchia vào vòng xoáy của cuộc Chiến tranh Đông Dương lần thứ hai.
@@ -1712,6 +1729,7 @@
 *   **08/05/1972:** Nixon ra lệnh thả mìn phong tỏa cảng Hải Phòng và các cửa sông miền Bắc.
 *   **01/06/1972:** Bộ Chính trị ra Nghị quyết số 220-NQ/TW về chuyển hướng và đẩy mạnh công tác ở miền Bắc, chuyển nền kinh tế sang thời chiến để tiếp tục đánh thắng giặc Mỹ.
 *   **28/06 - 16/09/1972:** Trận Thành cổ Quảng Trị diễn ra trong 81 ngày đêm vô cùng khốc liệt ("Mùa hè đỏ lửa"). Để mặc cả tại Hội nghị Paris, Mỹ và quân đội Sài Gòn mở cuộc hành quân Lam Sơn 72 huy động hơn 35.000 quân tinh nhuệ (Dù, Thủy quân lục chiến) cùng không lực Mỹ yểm trợ. Thị xã Quảng Trị (chưa đầy 3 km²) đã phải hứng chịu 120.000 tấn bom (tương đương 7 quả bom nguyên tử) và gần 1,6 triệu viên đạn pháo. Dưới hỏa lực hủy diệt, Quân Giải phóng miền Nam Việt Nam (hơn 14.000 quân) vẫn kiên cường bám trụ hầm hào, đánh bật vô số đợt xung phong, gây thương vong hơn 7.700 lính cho đối phương (riêng Sư đoàn Thủy quân lục chiến thương vong hơn 5.200 lính). Nửa đêm 15/09, sau khi hoàn thành mục tiêu chiến lược giữ vững ưu thế đàm phán, Quân Giải phóng chủ động rút quân qua sông Thạch Hãn.
+*   **27/09/1972:** Thiều Văn Chỏi, Huyện đội phó Huyện đội Kế Sách, lọt vào ổ phục kích của một trung đội bảo an thuộc Đại đội 555 tại ấp 7, xã Ba Trinh. Ông kiên cường chiến đấu một mình suốt 20 phút và anh dũng hy sinh. Từ năm 1968 đến 1972, ông đã trực tiếp tham gia 152 trận đánh, tiêu diệt hàng trăm tên địch.
 *   **Giữa năm 1972:** Theo đề nghị của Việt Nam, Trung Quốc cử người và phương tiện sang giúp rà mò, tháo gỡ thủy lôi và bom mìn do quân đội Mỹ thả phong tỏa trên các tuyến sông và vùng biển Việt Nam.
 *   **12/10/1972:** Bí thư thứ nhất Lê Duẩn gửi điện cho Trung ương Cục miền Nam về "Nhiệm vụ cấp bách khi công bố Hiệp định Pari", chỉ đạo tranh thủ thời cơ giành quyền làm chủ ở nông thôn và các vùng ven đô thị, hình thành thế "da báo" có lợi cho cách mạng.
 *   **20/10/1972:** Việt Nam Dân chủ Cộng hòa và Hoa Kỳ đạt được thỏa thuận về dự thảo "Hiệp định về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam".
@@ -1843,6 +1861,7 @@
 *   **13/01/1981:** Ban Bí thư ra Chỉ thị số 100/CT-TƯ ("Khoán 100") về việc cải tiến công tác khoán, mở rộng khoán sản phẩm đến nhóm và người lao động trong hợp tác xã nông nghiệp.
 *   **21/01/1981:** Hội đồng Chính phủ ra Quyết định số 25-CP, nhằm phát huy quyền chủ động sản xuất kinh doanh và quyền tự chủ tài chính của các xí nghiệp quốc doanh.
 *   **03/1982:** Đại hội đại biểu toàn quốc lần thứ V của Đảng Cộng sản Việt Nam họp tại Hà Nội, đề ra Kế hoạch 5 năm lần thứ ba (1981-1985).
+*   **1982:** Ban Chấp hành Thành đoàn TP. Hồ Chí Minh quyết định lấy ngày 15/10 (ngày hy sinh của Nguyễn Văn Trỗi) làm Ngày Truyền thống Thanh niên Công nhân TP. Hồ Chí Minh và thành lập Giải thưởng Nguyễn Văn Trỗi dành cho công nhân trẻ tiêu biểu.
 *   **06/1982:** Tân Hoa Xã của Trung Quốc đưa tin về việc hoàn thành một cảng lớn mới tại đảo Tri Tôn thuộc quần đảo Hoàng Sa, cho thấy quá trình quân sự hóa và phát triển cơ sở hạ tầng liên tục của Trung Quốc tại vùng lãnh thổ bị chiếm đóng.
 *   **1982:** Việt Nam thành lập huyện Hoàng Sa trực thuộc tỉnh Quảng Nam - Đà Nẵng để quản lý quần đảo Hoàng Sa.
 *   **28/09/1982:** Hội đồng Bộ trưởng ra quyết định lấy ngày 20 tháng 11 hàng năm làm Ngày Nhà giáo Việt Nam.
@@ -1923,12 +1942,14 @@
 *   **05/1995:** Việt Nam tiếp tục viện trợ thêm 20.000 tấn gạo cho Cuba.
 *   **1995:** Lãnh tụ Fidel Castro thăm Việt Nam lần thứ hai và xúc động khi nhận được những món quà từ Quảng Trị (bức ảnh thăm vùng giải phóng năm 1973 và hạt tiêu) như minh chứng cho sự hồi sinh của vùng đất này.
 *   **12/07/1995:** Tổng thống Mỹ Bill Clinton và Thủ tướng Việt Nam Võ Văn Kiệt đồng thời tuyên bố **bình thường hóa quan hệ ngoại giao** giữa hai nước.
+*   **1995:** Đảng và Nhà nước truy tặng danh hiệu Anh hùng Lực lượng Vũ trang Nhân dân cho liệt sĩ Nguyễn Văn Trỗi.
 *   **28/07/1995:** Việt Nam chính thức được kết nạp làm **thành viên thứ 7** của Hiệp hội các quốc gia Đông Nam Á (ASEAN) tại Brunei.
 *   **1995:** Trong bối cảnh Iraq bị Mỹ và quốc tế cấm vận nghiêm ngặt, Đại sứ Việt Nam tại Iraq Nguyễn Quang Khai đã thuyết phục Công ty Lương thực miền Bắc (Vinafood 1) bán chịu một tàu gạo (25.000 - 30.000 tấn) cho Iraq. Sự kiện này mở đầu cho việc Việt Nam trở thành nhà cung cấp gạo chủ chốt cho Iraq thông qua chương trình "Đổi dầu lấy lương thực" của Liên Hợp Quốc.
 *   **Cuối năm 1995:** Đại tá, Anh hùng tình báo Đinh Thị Vân từ trần tại Hà Nội, hưởng thọ 79 tuổi. Bà là một huyền thoại của ngành tình báo quốc phòng, người đã hy sinh hạnh phúc riêng tư vì Tổ quốc, và sau này được đặt tên cho các con đường tại Nam Định và Đà Nẵng.
 
 ### **Thời kỳ Đẩy mạnh Công nghiệp hóa, Hiện đại hóa (1996 - 2000)**
 
+*   **29/01/1996:** Đảng và Nhà nước truy tặng danh hiệu Anh hùng Lực lượng Vũ trang Nhân dân cho đồng chí Thiều Văn Chỏi vì những chiến công đặc biệt xuất sắc.
 *   **06/1996:** Đại hội đại biểu toàn quốc lần thứ VIII của Đảng Cộng sản Việt Nam đề ra nhiệm vụ **đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước**.
 *   **1996:** Sau khi chia tách tỉnh Quảng Nam - Đà Nẵng, huyện Hoàng Sa được đặt trực thuộc sự quản lý của thành phố trực thuộc trung ương Đà Nẵng.
 *   **01/07/1997:** Luật Hợp tác xã có hiệu lực, tạo cơ sở pháp lý để chuyển đổi các hợp tác xã nông nghiệp sang mô hình dịch vụ kiểu mới, phục vụ kinh tế hộ.
@@ -1943,6 +1964,7 @@
 *   **04/12/1999:** Đô thị cổ Hội An và Thánh địa Mỹ Sơn được công nhận là Di sản Văn hóa Thế giới.
 *   **30/12/1999:** Việt Nam và Trung Quốc chính thức ký kết **Hiệp ước Biên giới trên đất liền**.
 *   **01/01/2000:** **Luật Doanh nghiệp** chính thức có hiệu lực, tạo ra một bước đột phá trong cải cách thủ tục hành chính, bãi bỏ nhiều giấy phép con, thúc đẩy mạnh mẽ sự phát triển của khu vực kinh tế tư nhân.
+*   **Tháng 5/2000 - 22/12/2001:** UBND huyện Kế Sách xây dựng nhà bia tưởng niệm 573 liệt sĩ xã Ba Trinh và tượng đài Anh hùng LLVTND Thiều Văn Chỏi ngay tại vị trí đồn Vàm Bưng cũ, hoàn thành nhân kỷ niệm Ngày thành lập QĐND Việt Nam (22/12/2001).
 *   **15/06/2000:** Chính phủ ban hành Nghị quyết 09/NQ-CP về chuyển dịch cơ cấu kinh tế và tiêu thụ sản phẩm nông nghiệp, tạo cơ sở pháp lý để phát triển nông nghiệp hàng hóa.
 *   **14/07/2000:** **Hiệp định Thương mại song phương Việt Nam - Hoa Kỳ (BTA)** được ký kết tại Washington D.C., hoàn tất quá trình bình thường hóa về kinh tế và mở ra cơ hội lớn cho hàng hóa Việt Nam vào thị trường Mỹ.
 *   **28/07/2000:** Phiên giao dịch chứng khoán đầu tiên được tổ chức với chỉ hai mã cổ phiếu niêm yết ban đầu là REE và SAM.
@@ -1956,6 +1978,7 @@
 *   **28/11/2001:** Quốc hội phê chuẩn Hiệp định Thương mại Việt Nam - Hoa Kỳ (BTA).
 *   **10/12/2001:** Hiệp định BTA chính thức có hiệu lực.
 *   **2002:** Trần Văn Lai, chiến sĩ biệt động Sài Gòn huyền thoại với những đóng góp to lớn trong Tết Mậu Thân, qua đời do di chứng từ những đòn tra tấn trong nhà tù Mỹ - ngụy.
+*   **2002:** Cuốn bút ký *Sống như anh* của nhà báo Thái Duy ghi lại cuộc đời và sự nghiệp của Nguyễn Văn Trỗi được bình chọn là một trong ba cuốn sách có nội dung hay nhất năm 2002.
 *   **2002:** Phó Chủ tịch nước Nguyễn Thị Bình sang thăm Iraq để gặp Tổng thống Saddam Hussein nhằm giải quyết khoản nợ kéo dài hơn 20 năm chưa trả xong. Dù Iraq đang bị cấm vận và vô vàn khó khăn, Tổng thống Saddam Hussein đã quyết định xóa toàn bộ số nợ cho Việt Nam. Bản thỏa thuận xóa nợ được Phó Tổng thống Iraq Taha Yassin Ramadan ký kết.
 *   **2002 - 2005:** Việt Nam đã viện trợ cho Cuba tổng kinh phí hơn 50 triệu USD, bao gồm các dự án về sản xuất lúa gạo, ngô, đậu đỗ và nuôi trồng thủy sản.
 *   **14/10/2002:** Thủ tướng Chính phủ nước Cộng hòa Xã hội chủ nghĩa Việt Nam ra Quyết định số 132/2002/QĐ-TTg, chính thức "lấy múi giờ thứ 7 theo hệ thống múi giờ quốc tế làm giờ chính thức của Việt Nam".
@@ -2049,6 +2072,7 @@
 *   **27/02/2018:** Bộ Văn hóa - Thể thao và Du lịch ban hành công văn hạn chế đốt vàng mã tại các cơ sở thờ tự và lễ hội.
 *   **28/02/2018:** Bộ Giáo dục và Đào tạo ban hành Thông tư 04 sửa đổi quy chế thi THPT Quốc gia và xét công nhận tốt nghiệp.
 *   **08/03/2018:** Ký kết Hiệp định CPTPP (thay thế TPP).
+*   **15/04/2018:** Thành Đoàn và gia đình tổ chức Lễ cải táng hài cốt Anh hùng liệt sĩ Nguyễn Văn Trỗi từ Nghĩa trang Văn Giáp (Quận 2) về an nghỉ tại Nghĩa trang Liệt sĩ TP. Hồ Chí Minh (Quận 9), bên cạnh các liệt sĩ tiêu biểu như Trần Văn Ơn, Trần Bội Cơ, Quách Thị Trang.
 *   **14/01/2019:** Hiệp định CPTPP chính thức có hiệu lực với Việt Nam.
 *   **07/06/2019:** Việt Nam trúng cử Ủy viên không thường trực HĐBA LHQ (nhiệm kỳ 2020-2021).
 *   **30/06/2019:** Ký Hiệp định EVFTA và EVIPA với Liên minh châu Âu (EU).
@@ -2097,6 +2121,7 @@
 *   **09/2024:** Tổng Bí thư, Chủ tịch nước Tô Lâm cùng phu nhân đã có chuyến thăm cấp Nhà nước tới Cuba, nhấn mạnh mối quan hệ đặc biệt trong sáng, mẫu mực, thủy chung giữa hai dân tộc là biểu tượng của tình đoàn kết quốc tế.
 *   **23/09/2024:** Tại Đại học Columbia (Mỹ), Tổng Bí thư Tô Lâm phát biểu về "Kỷ nguyên vươn mình" của dân tộc sau gần 80 năm lập nước và 40 năm Đổi mới.
 *   **07/10/2024:** Nâng cấp quan hệ Đối tác Chiến lược Toàn diện với Pháp.
+*   **14 - 15/10/2024:** Việt Nam long trọng tổ chức Kỷ niệm 60 năm sự kiện du kích quân Venezuela bắt sĩ quan Mỹ Smolen để đòi tự do cho Nguyễn Văn Trỗi (09/10/1964 - 09/10/2024) và 60 năm Ngày Anh hùng Liệt sĩ Nguyễn Văn Trỗi hy sinh (15/10/1964 - 15/10/2024).
 *   **21/10/2024:** Quốc hội bầu ông Lương Cường giữ chức Chủ tịch nước thay cho ông Tô Lâm.
 *   **25/10/2024:** Trần Cẩm Tú được phân công giữ chức Thường trực Ban Bí thư Trung ương Đảng khóa XIII.
 *   **21/11/2024:** Nâng cấp quan hệ Đối tác Chiến lược Toàn diện với Malaysia.
