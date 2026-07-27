@@ -1221,6 +1221,7 @@
 *   **01-09/05/1929:** Đại hội lần thứ nhất của Hội Việt Nam Cách mạng Thanh niên diễn ra tại Hương Cảng.
 *   **17/06/1929:** Đông Dương Cộng sản Đảng được thành lập tại Hà Nội.
 *   **15/11/1929:** An Nam Cộng sản Đảng được thành lập tại Sài Gòn.
+*   **19/12/1929:** Đặng Thị Kim (tên thường gọi là Đặng Thị Oanh) sinh ra tại làng Hành Thiện, xã Xuân Hồng, huyện Xuân Trường, tỉnh Nam Định. Bà sau này trở thành nữ chiến sĩ cách mạng kiên trung và Anh hùng Lực lượng vũ trang nhân dân.
 *   **1930 - 1932:** Các tàu chiến *Inconstant*, *Alerte*, *La Malicieuse* và *De Lanessan* của hải quân Pháp liên tiếp thực hiện các cuộc tuần tiễu và khẳng định chủ quyền tại quần đảo Hoàng Sa.
 *   **01/01/1930:** Đông Dương Cộng sản Liên đoàn chính thức thành lập tại Hà Tĩnh.
 *   **02/1930:** Cuộc khởi nghĩa Yên Bái do Việt Nam Quốc dân Đảng lãnh đạo nổ ra và thất bại.
@@ -1397,6 +1398,7 @@
 *   **31/05/1946:** Chủ tịch Hồ Chí Minh lên đường sang Pháp để đàm phán chính thức.
 *   **01/06/1946:** Tại Sài Gòn, Cao ủy D'Argenlieu tuyên bố thành lập "Nước Cộng hòa tự trị Nam Kỳ".
 *   **30/06/1946:** Đinh Thị Vân được kết nạp vào Đảng Cộng sản Đông Dương. Sau đó, bà giữ nhiều chức vụ lãnh đạo, bao gồm Hội trưởng Hội Liên hiệp phụ nữ tỉnh Nam Định (1951-1953).
+*   **07/1946:** Đặng Thị Kim được cử vào Ban Chấp hành Hội Phụ nữ Cứu quốc Nha Trang. Ngày 30/10/1946, bà tham gia lãnh đạo cuộc biểu tình lớn đòi Chính phủ Pháp phải thi hành Hiệp định sơ bộ 6/3 và Tạm ước 14/9.
 *   **06/07/1946:** Hội nghị Fontainebleau khai mạc.
 *   **12/07/1946:** Vụ án phố Ôn Như Hầu xảy ra. Công an xung phong đã khám xét trụ sở của Việt Nam Quốc dân Đảng, phá tan âm mưu lật đổ chính quyền của các thế lực đối lập.
 *   **22/07/1946:** Đảng Xã hội Việt Nam được thành lập, nhằm mục đích đoàn kết giới trí thức yêu nước và dân chủ.
@@ -1412,6 +1414,7 @@
 *   **20/11/1946:** Xung đột lớn nổ ra tại Hải Phòng (Sự kiện Hải Phòng) khi quân Pháp đòi quyền kiểm soát thuế quan.
 *   **20/11/1946:** Quân Pháp cũng nổ súng vào nhân viên công an và thuế quan tại Lạng Sơn, chiếm đóng thị xã.
 *   **22/11/1946:** Quân Pháp nổ súng và chiếm đóng Hải Phòng sau khi gửi tối hậu thư.
+*   **12/1946:** Ở tuổi 17, Đặng Thị Kim vinh dự được kết nạp vào Đảng Cộng sản Đông Dương nhờ những thành tích xuất sắc trong công tác cách mạng tại Nha Trang.
 *   **16/12/1946:** Các trùm thực dân Pháp ở Đông Dương họp hội nghị tại Hải Phòng để bàn kế hoạch gây hấn. Cùng ngày, Cao ủy Pháp D'Argenlieu tuyên bố Hà Nội, Hải Phòng, Đà Nẵng là lãnh thổ của nước Pháp.
 *   **17/12/1946:** Quân Pháp gây ra vụ tàn sát ở phố Hàng Bún, phố Lò Đúc và khu Yên Ninh (Hà Nội).
 *   **18/12/1946:** Quân Pháp chiếm trụ sở Bộ Tài chính và Bộ Giao thông Công chính. Tướng Morlière gửi tối hậu thư đòi tước vũ khí của lực lượng tự vệ, tuyên bố nếu không đáp ứng thì chậm nhất sáng 20/12/1946 quân Pháp sẽ hành động.
@@ -1454,6 +1457,8 @@
 *   **25/01/1948:** Chính phủ ra sắc lệnh thành lập các Liên khu để thống nhất chỉ đạo kháng chiến.
 *   **11/06/1948:** Chủ tịch Hồ Chí Minh ra lời kêu gọi thi đua ái quốc.
 *   **07/1948:** Hội nghị văn hóa toàn quốc lần thứ hai được tổ chức, xác định tính chất "dân tộc, khoa học, đại chúng" của nền văn hóa mới.
+*   **08/1948:** Đặng Thị Kim, lúc này đang mang thai khoảng 3 tháng và là Ủy viên Ban Chấp hành lâm thời Thị ủy Nha Trang, bị địch bắt khi đang đi thuyền qua eo biển về chiến khu dự hội nghị. Bà phải chịu những đòn tra tấn tàn bạo nhưng nhất quyết không khai báo, bảo vệ an toàn cho cơ sở cách mạng.
+*   **Đầu tháng 09/1948:** Ở tuổi 19, Đặng Thị Kim bị giặc Pháp và tay sai bí mật chặt đầu tại khu vực sân bay Nha Trang cũ. Trước lúc hy sinh, bà đã khảng khái nói: "Chúng mày coi tao là có tội thì cứ giết tao, nhưng con tao trong bụng vô tội, hãy để tao sinh con rồi hãy giết". Khí phách lẫm liệt của bà đã khiến kẻ thù khiếp sợ và để lại một tấm gương hy sinh oanh liệt.
 *   **1949:** Pháp chính thức sáp nhập Phú Quốc và các đảo phía Nam vịnh Thái Lan vào Việt Nam.
 *   **1949:** Lê Thị Riêng trở thành Phó Hội trưởng Hội Phụ nữ cứu quốc Miền Đông (Ủy viên Ban Chấp hành Phụ nữ Nam Bộ).
 *   **1949 (hoặc 1952):** Bài thơ bốn chữ nổi tiếng "Lượm" được nhà thơ Tố Hữu sáng tác. Dù một số bản in ghi năm 1949 hoặc 1950, hồi ký sau này của Tố Hữu cho biết ông viết bài thơ vào năm 1952 sau khi nghe tin người cháu họ Nguyễn Văn Lượm anh dũng hy sinh trong lúc ông dự Hội nghị Trung ương lần thứ 3 (21/01/1952). Bài thơ đã khắc họa thành công hình tượng người chiến sĩ liên lạc nhỏ tuổi lạc quan, yêu đời và dũng cảm.
@@ -1597,6 +1602,7 @@
 *   **22/10/1956:** Việt Nam Cộng hòa ban hành sắc lệnh sáp nhập quần đảo Hoàng Sa vào tỉnh Phước Tuy.
 *   **26/10/1956:** Ngô Đình Diệm ban hành hiến pháp, chính thức thành lập chính thể "Việt Nam Cộng hòa".
 *   **22/11/1956:** Thủ tướng Quốc vụ viện Trung Quốc Chu Ân Lai sang thăm chính thức Việt Nam, tuyên bố hoàn toàn ủng hộ cuộc đấu tranh của nhân dân miền Nam Việt Nam và lên án mạnh mẽ sự can thiệp của Mỹ.
+*   **1957:** Liệt sĩ Đặng Thị Kim được Chính phủ cấp Bằng Tổ quốc ghi công nhằm ghi nhận sự hy sinh anh dũng của bà cho đất nước.
 *   **1957:** Tỉnh đội Tây Ninh cài Bùi Văn Thuyên (khi đó 17 tuổi) vào làm điệp báo bên trong căn cứ Tua Hai của Việt Nam Cộng hòa. Bằng sự khôn khéo, ông đã lấy được lòng tin của viên trung tá đồn trưởng, trở thành con nuôi và nắm rõ toàn bộ cách bố trí hỏa lực, kho đạn và lối đi trong căn cứ.
 *   **20/03/1957:** Chính phủ Tiệp Khắc ra tuyên bố hoàn toàn ủng hộ lập trường của Chính phủ Việt Nam, đòi thi hành nghiêm chỉnh Hiệp định Giơ-ne-vơ. Tiếp theo đó, Chính phủ Ba Lan (06/04/1957) và CHDC Đức (21/01/1959) cũng ra các tuyên bố đoàn kết và ủng hộ tương tự.
 *   **17/05/1957:** Bộ Chính trị quyết định sáp nhập Ban Miền Nam và Ban Thống nhất thành Ban Thống nhất Trung ương để giúp Trung ương chỉ đạo công tác đấu tranh thống nhất nước nhà.
@@ -1638,6 +1644,7 @@
 *   **1961:** Tổng thống Hàn Quốc Park Chung-hee đề nghị gửi quân sang Việt Nam để hỗ trợ Mỹ, nhưng Tổng thống Mỹ John F. Kennedy ban đầu từ chối. Cùng năm, Liên Xô đã viện trợ cho Hải quân Việt Nam 12 tàu phóng ngư lôi và 4 tàu chống ngầm nhằm tăng cường khả năng phòng thủ bờ biển.
 *   **1961 - 1965:** Miền Bắc thực hiện **Kế hoạch 5 năm lần thứ nhất** nhằm xây dựng bước đầu cơ sở vật chất - kỹ thuật của chủ nghĩa xã hội.
 *   **1961 - 1975:** Trong suốt cuộc kháng chiến chống Mỹ, Cuba đều đặn viện trợ cho Việt Nam khoảng 50.000 tấn đường mỗi năm và cử bác sĩ sang chăm sóc thương binh. Gần một triệu sinh viên Việt Nam được cho là đã học tập tại Cuba trong giai đoạn này.
+*   **1961:** Liệt sĩ Đặng Thị Kim được Nhà nước Việt Nam Dân chủ Cộng hòa truy tặng Huân chương Kháng chiến hạng Ba.
 *   **1961:** Mỹ bắt đầu **Chiến dịch Ranch Hand**, rải chất độc hóa học (trong đó có chất độc màu da cam) xuống miền Nam Việt Nam nhằm phá hủy thảm thực vật và mùa màng, gây ra hậu quả nghiêm trọng và lâu dài về môi trường và sức khỏe con người.
 *   **01/1961:** Tổng thống Mỹ John F. Kennedy nhậm chức, đề ra chiến lược "Phản ứng linh hoạt", trong đó có hình thức **"Chiến tranh đặc biệt"** để áp dụng ở miền Nam Việt Nam.
 *   **01/1961:** Hội nghị Trung ương Đảng lần thứ 3 quyết định thành lập Trung ương Cục miền Nam thay cho Xứ ủy Nam Bộ để trực tiếp lãnh đạo cách mạng miền Nam.
@@ -2123,6 +2130,7 @@
 *   **07/05/2009:** Trung Quốc gửi công hàm lên Tổng Thư ký Liên Hợp Quốc, lần đầu tiên đính kèm bản đồ "đường 9 đoạn" để chính thức yêu sách chủ quyền phi lý trên Biển Đông. Ngày 08/05, Việt Nam, Malaysia và Indonesia đã lên tiếng phản đối yêu sách này.
 *   **31/07/2009:** Mộc bản triều Nguyễn được UNESCO công nhận là Di sản Tư liệu Thế giới.
 *   **30/09/2009:** Dân ca Quan họ Bắc Ninh được UNESCO công nhận là di sản.
+*   **10/2009:** Trong quá trình thi công cải tạo mương thoát nước tại hẻm 74, đường Trần Phú (khu vực sân bay Nha Trang cũ), công nhân phát hiện ba bộ hài cốt. Nhờ sự giúp đỡ của nhà ngoại cảm và xét nghiệm ADN (xác nhận vào tháng 06/2010), một trong ba bộ hài cốt được xác định chính xác là của liệt sĩ Đặng Thị Kim, khép lại hành trình tìm kiếm hơn 60 năm của gia đình.
 *   **01/10/2009:** Ca trù được UNESCO công nhận là Di sản Văn hóa Phi vật thể Cần Bảo vệ Khẩn cấp.
 *   **09/03/2010:** Bia Tiến sĩ Văn Miếu - Quốc Tử Giám được UNESCO công nhận là Di sản Tư liệu Thế giới.
 *   **01/08/2010:** Khu Trung tâm Hoàng thành Thăng Long được UNESCO công nhận là di sản.
@@ -2142,6 +2150,7 @@
 *   **11/2011:** Dự thảo Luật Biểu tình được đưa ra thảo luận tại Quốc hội.
 *   **24/11/2011:** Hát Xoan Phú Thọ được UNESCO công nhận là di sản.
 *   **12/2011:** Hội đồng Nhân dân Thành phố Hà Nội chính thức đặt tên đường Trần Văn Lai tại quận Nam Từ Liêm nhằm tri ân những đóng góp lịch sử của cố Thị trưởng đối với diện mạo Thủ đô.
+*   **27/04/2012:** Chủ tịch nước ký Quyết định truy tặng danh hiệu cao quý Anh hùng Lực lượng vũ trang nhân dân cho liệt sĩ Đặng Thị Kim vì những cống hiến và sự hy sinh anh dũng tột cùng của bà.
 *   **21/06/2012:** Quốc hội thông qua Luật Biển Việt Nam.
 *   **07/2012:** Nâng cấp quan hệ Đối tác chiến lược toàn diện với Liên bang Nga.
 *   **06/12/2012:** Tín ngưỡng thờ cúng Hùng Vương được UNESCO công nhận là di sản.
@@ -2247,6 +2256,7 @@
 *   **26/02/2025:** Nâng cấp quan hệ Đối tác chiến lược toàn diện với New Zealand.
 *   **10/03/2025:** Nâng cấp quan hệ Đối tác chiến lược toàn diện với Indonesia.
 *   **12/03/2025:** Nâng cấp quan hệ Đối tác chiến lược toàn diện với Singapore.
+*   **29/03/2025:** Nhóm Skyline đã ứng dụng công nghệ AI phục dựng thành công và trao tặng di ảnh rõ nét của liệt sĩ Đặng Thị Kim cho gia đình, làm sống lại hình ảnh người nữ anh hùng sau hơn 7 thập kỷ.
 *   **30/04/2025:** Kỷ niệm 50 năm Ngày Giải phóng hoàn toàn miền Nam, thống nhất đất nước.
 *   **16/05/2025:** Nâng cấp quan hệ Đối tác chiến lược toàn diện với Thái Lan.
 *   **12/06/2025:** Quốc hội chính thức thông qua Nghị quyết 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh, giảm từ 63 xuống còn 34 tỉnh thành. Nghị quyết này có hiệu lực ngay sau khi được thông qua.

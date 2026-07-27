@@ -1221,6 +1221,7 @@
 *   **May 1-9, 1929:** The first congress of the Vietnamese Revolutionary Youth League was held in Hong Kong.
 *   **Jun. 17, 1929:** The Indochinese Communist Party was founded in Hanoi.
 *   **Nov. 15, 1929:** The Annamese Communist Party was founded in Cochinchina.
+*   **Dec. 19, 1929:** Đặng Thị Kim (also known as Đặng Thị Oanh) was born in Hành Thiện village, Xuân Trường district, Nam Định province. She would later become a prominent revolutionary and Hero of the People's Armed Forces, known for her unyielding spirit.
 *   **1930 - 1932:** The French naval ships *Inconstant*, *Alerte*, *La Malicieuse*, and *De Lanessan* conducted successive patrols and sovereignty missions to the Paracel Islands.
 *   **Jan. 1, 1930:** The Indochinese Communist League was officially established in Ha Tinh.
 *   **Feb. 1930:** The Yen Bai Uprising, led by the Vietnamese Nationalist Party, broke out and was defeated.
@@ -1397,6 +1398,7 @@
 *   **May 31, 1946:** President Ho Chi Minh departed for France for official negotiations.
 *   **Jun. 1, 1946:** In Saigon, High Commissioner D'Argenlieu announced the establishment of the "Autonomous Republic of Cochinchina."
 *   **Jun. 30, 1946:** Dinh Thi Van was admitted to the Indochinese Communist Party. She subsequently held various leadership roles, including President of the Women's Union of Nam Dinh province from 1951 to 1953.
+*   **Jul. 1946:** Đặng Thị Kim was appointed to the Executive Committee of the Nha Trang Women's National Salvation Association. On October 30, 1946, she co-led a major protest demanding the French government implement the March 6 Preliminary Accord and September 14 Modus Vivendi.
 *   **Jul. 6, 1946:** The Fontainebleau Conference opened.
 *   **Jul. 12, 1946:** The "On Nhu Hau Street Affair" occurred. The police forces of the Democratic Republic of Vietnam raided the headquarters of the Vietnam Nationalist Party (VNQDD), dismantling a plot to overthrow the government.
 *   **Jul. 22, 1946:** The Vietnam Socialist Party was founded, aiming to unite patriotic intellectuals.
@@ -1412,6 +1414,7 @@
 *   **Nov. 20, 1946:** A major conflict broke out in Haiphong (the Haiphong Incident) when French troops demanded control of customs.
 *   **Nov. 20, 1946:** French troops also fired on police and customs officers in Lang Son, occupying the town.
 *   **Nov. 22, 1946:** French troops opened fire and occupied Haiphong after sending an ultimatum.
+*   **Dec. 1946:** At the age of 17, Đặng Thị Kim was admitted to the Indochinese Communist Party for her outstanding revolutionary activities in Nha Trang.
 *   **Dec. 16, 1946:** French colonial leaders held a conference in Haiphong to plan further aggression. On the same day, French High Commissioner d'Argenlieu blatantly declared that Hanoi, Haiphong, and Da Nang were French territory.
 *   **Dec. 17, 1946:** French troops staged a provocation and massacre in Lo Duc, Hang Bun, and Yen Ninh streets in Hanoi.
 *   **Dec. 18, 1946:** French troops occupied the headquarters of the Ministry of Finance and the Ministry of Transport and Public Works. General Morlière issued an ultimatum demanding the disarmament of Vietnamese self-defense forces, stating that French troops would take action by the morning of Dec. 20 if demands were not met.
@@ -1454,6 +1457,8 @@
 *   **Jan. 25, 1948:** The government issued a decree establishing Inter-zones to unify the command of the resistance.
 *   **Jun. 11, 1948:** President Ho Chi Minh issued an appeal for patriotic emulation.
 *   **Jul. 1948:** The Second National Cultural Conference was held, defining the "national, scientific, and mass" character of the new culture.
+*   **Aug. 1948:** Đặng Thị Kim, pregnant and serving as a provisional Executive Committee member of the Nha Trang Town Party Committee, was arrested by the enemy while traveling by boat across the strait to a resistance zone conference. She endured brutal torture but fiercely protected the revolutionary bases and refused to confess.
+*   **Early Sep. 1948:** At the age of 19, Đặng Thị Kim was secretly beheaded by the French military at the old Nha Trang airport. Facing death, she famously declared: "If you consider me guilty, kill me, but my unborn child is innocent. Let me give birth before you kill me." Her extraordinary courage terrified the enemy and left an immortal legacy.
 *   **1949:** France officially incorporated Phu Quoc and the islands in the southern part of the Gulf of Thailand into Vietnam.
 *   **1949:** Le Thi Rieng became Vice President of the National Salvation Women's Association of the Eastern Region (Member of the Executive Committee of Nam Bo Women).
 *   **1949 (or 1952):** The famous four-word poem "Luom" was composed by poet To Huu. While some publications state it was written in 1949 or 1950, To Huu's later memoirs indicated it was written in 1952 after hearing of his nephew Nguyen Van Luom's heroic sacrifice during the 3rd Central Committee Conference (Jan. 21, 1952). The poem became a staple in Vietnamese education, portraying the optimistic and courageous spirit of young resistance fighters.
@@ -1597,6 +1602,7 @@
 *   **Oct. 22, 1956:** The Republic of Vietnam issued a presidential decree annexing the Paracel Islands to Phuoc Tuy province.
 *   **Oct. 26, 1956:** Ngo Dinh Diem promulgated a constitution, officially establishing the "Republic of Vietnam" government.
 *   **Nov. 22, 1956:** Chinese Premier Zhou Enlai paid an official visit to Vietnam, declaring full support for the struggle of the South Vietnamese people and condemning US interference.
+*   **1957:** Martyr Đặng Thị Kim was posthumously awarded the "Fatherland Acknowledges the Merit" certificate by the Government of Vietnam, recognizing her ultimate sacrifice for the nation.
 *   **1957:** The Tay Ninh Provincial Military Command planted the 17-year-old Bui Van Thuyen as an intelligence agent inside the Republic of Vietnam's Tua Hai base. By gaining the trust of the base commander and becoming his adopted son, Thuyen successfully mapped out the base's internal defenses, armories, and patrol routes.
 *   **Mar. 20, 1957:** The Czechoslovak Government issued a statement fully supporting the Vietnamese Government's stance and demanding strict implementation of the Geneva Accords. Subsequently, Poland (Apr. 6, 1957) and the German Democratic Republic (Jan. 21, 1959) issued similar declarations of solidarity.
 *   **May 17, 1957:** The Politburo decided to merge the Southern Committee and the Unification Committee into the Central Unification Committee (*Ban Thong Nhat Trung Uong*) to assist the Central Committee in leading the struggle for national reunification.
@@ -1638,6 +1644,7 @@
 *   **1961:** South Korean President Park Chung-hee proposed sending troops to Vietnam to support the US, but US President John F. Kennedy initially declined. Concurrently, the Soviet Union provided the Vietnam Navy with 12 torpedo boats and 4 anti-submarine ships to enhance its defense capabilities.
 *   **1961 - 1965:** The North implemented the **First Five-Year Plan** to build the initial material and technical foundations of socialism.
 *   **1961 - 1975:** Throughout the resistance war against the US, Cuba consistently provided Vietnam with about 50,000 tons of sugar annually and sent doctors to care for wounded soldiers. Nearly one million Vietnamese students reportedly studied in Cuba during this period.
+*   **1961:** Martyr Đặng Thị Kim was posthumously awarded the Resistance Order, Third Class by the State of the Democratic Republic of Vietnam.
 *   **1961:** The US launched **Operation Ranch Hand**, spraying herbicides (including Agent Orange) over South Vietnam to destroy foliage and crops, causing severe long-term environmental and health consequences.
 *   **Jan. 1961:** US President John F. Kennedy took office and proposed the "Flexible Response" strategy, which included the "Special War" to be applied in South Vietnam.
 *   **Jan. 1961:** The 3rd Conference of the Party Central Committee decided to establish the Central Office for South Vietnam (COSVN) to replace the Nam Bo Party Committee and directly lead the southern revolution.
@@ -2123,6 +2130,7 @@
 *   **May 7, 2009:** China submitted a diplomatic note to the United Nations Secretary-General, formally attaching the "nine-dash line" map for the first time to assert its expansive maritime claims in the South China Sea. On May 8, Vietnam, Malaysia, and Indonesia filed protests against this claim.
 *   **Jul. 31, 2009:** The woodblocks of the Nguyen Dynasty were recognized by UNESCO as a World Documentary Heritage.
 *   **Sep. 30, 2009:** Quan Ho Bac Ninh Folk Songs were recognized by UNESCO as a heritage.
+*   **Oct. 2009:** During drainage renovation at alley 74, Tran Phu street (former Nha Trang airport), construction workers discovered three sets of remains. Through psychic assistance and subsequent DNA testing (confirmed in June 2010), one of these was positively identified as martyr Đặng Thị Kim, solving a more than 60-year mystery for her family.
 *   **Oct. 1, 2009:** Ca trù was recognized by UNESCO as an Intangible Cultural Heritage in Need of Urgent Safeguarding.
 *   **09/03/2010:** The doctoral steles at the Temple of Literature - Imperial Academy were recognized by UNESCO as a World Documentary Heritage.
 *   **Aug. 1, 2010:** The Central Sector of the Imperial Citadel of Thang Long was recognized by UNESCO as a heritage.
@@ -2142,6 +2150,7 @@
 *   **Nov. 2011:** The Draft Law on Demonstration was discussed at the National Assembly.
 *   **Nov. 24, 2011:** Xoan Singing of Phu Tho was recognized by UNESCO as a heritage.
 *   **Dec. 2011:** The Hanoi People's Council officially named a street after former Mayor Tran Van Lai in Nam Tu Liem district to honor his historic contributions to the capital's urban identity.
+*   **Apr. 27, 2012:** The President of Vietnam signed a decision posthumously awarding the noble title of Hero of the People's Armed Forces to martyr Đặng Thị Kim for her extreme bravery and sacrifice.
 *   **Jun. 21, 2012:** The National Assembly passed the Law of the Sea of Vietnam.
 *   **Jul. 2012:** Upgraded relations to a Comprehensive Strategic Partnership with the Russian Federation.
 *   **Dec. 6, 2012:** The Worship of Hung Kings was recognized by UNESCO as a heritage.
@@ -2247,6 +2256,7 @@
 *   **Feb. 26, 2025:** Upgraded relations to a Comprehensive Strategic Partnership with New Zealand.
 *   **Mar. 10, 2025:** Upgraded relations to a Comprehensive Strategic Partnership with Indonesia.
 *   **Mar. 12, 2025:** Upgraded relations to a Comprehensive Strategic Partnership with Singapore.
+*   **Mar. 29, 2025:** The Skyline group, utilizing AI technology, successfully restored and presented the portraits of martyr Đặng Thị Kim to her family, bringing her historical image back to life after more than seven decades.
 *   **Apr. 30, 2025:** Celebrated the 50th anniversary of the Complete Liberation of the South and National Reunification.
 *   **May 16, 2025:** Upgraded relations to a Comprehensive Strategic Partnership with Thailand.
 *   **Jun. 12, 2025:** The National Assembly officially passed Resolution 202/2025/QH15 on the reorganization of provincial-level administrative units, reducing the number from 63 to 34 provinces and cities. This resolution takes effect immediately upon passage.
