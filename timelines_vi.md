@@ -1179,6 +1179,7 @@
 *   **1923:** Cơ quan Kiểm tra và Cứu trợ người bản xứ của các thuộc địa (C.A.I.) được thành lập tại Pháp để giám sát người Việt.
 *   **06/1923:** Nguyễn Ái Quốc sang Liên Xô học tập và làm việc tại Quốc tế Cộng sản.
 *   **10/1923:** Nguyễn Ái Quốc được bầu vào Đoàn Chủ tịch Quốc tế Nông dân.
+*   **1924:** Ngô Mây, người anh hùng tiêu biểu của Lực lượng Vũ trang Nhân dân Việt Nam nổi tiếng với chiến công ôm bom quyết tử đánh xe tăng Pháp, sinh ra tại xã Cát Chánh, huyện Phù Cát, tỉnh Bình Định.
 *   **17/06 - 08/07/1924:** Nguyễn Ái Quốc tham dự Đại hội lần thứ V Quốc tế Cộng sản tại Moskva.
 *   **19/06/1924:** Phạm Hồng Thái thực hiện vụ mưu sát Toàn quyền Martial Merlin tại Sa Diện (Quảng Châu), tạo tiếng vang lớn.
 *   **18/09/1924:** Toàn quyền Merlin ký nghị định sửa đổi Bộ Học chính tổng quy, chủ trương phát triển giáo dục tiểu học ("giáo dục theo chiều ngang").
@@ -1257,6 +1258,7 @@
 *   **02/05/1933:** Vua Bảo Đại ra đạo Dụ cải tổ bộ máy Nam triều, lập ra nội các mới gồm các Thượng thư như Phạm Quỳnh, Ngô Đình Diệm.
 *   **26/07/1933:** Chính phủ Pháp ban hành nghị định chính thức công bố việc Hải quân Pháp chiếm hữu quần đảo Trường Sa.
 *   **21/12/1933:** Thống đốc Nam Kỳ J. Krautheimer ký nghị định chính thức sáp nhập quần đảo Trường Sa vào tỉnh Bà Rịa.
+*   **12/09/1934:** Vừ A Dính, người thiếu niên anh hùng dũng cảm người dân tộc HMông trong kháng chiến chống Pháp, sinh ra tại xã Pú Nhung, huyện Tuần Giáo, tỉnh Điện Biên.
 *   **27-31/03/1935:** Đại hội đại biểu toàn quốc lần thứ nhất của Đảng Cộng sản Đông Dương được tổ chức tại Ma Cao (Trung Quốc).
 
 ### **Thời kỳ Mặt trận Dân chủ (1936 - 1938)**
@@ -1421,6 +1423,7 @@
 
 *   **1947:** Việt Nam đặt cơ quan liên lạc đầu tiên tại Yangon, Miến Điện (Myanmar). Cơ quan này sau đó được nâng cấp thành Văn phòng Thông tin tuyên truyền vào năm 1948, giúp mở rộng tuyên truyền quốc tế và phục vụ công tác chỉ đạo kháng chiến.
 *   **1947:** Trung Hoa Dân Quốc (Trung Quốc Quốc dân Đảng) đã đưa ra bản đồ với đường 11 đoạn, sau này được Cộng hòa Nhân dân Trung Hoa kế thừa và sửa thành đường 9 đoạn. Họ dựa vào cái gọi là "tuyên bố chủ quyền lịch sử" để đòi hỏi hầu hết diện tích Biển Đông, bao gồm cả Hoàng Sa và Trường Sa.
+*   **1947:** Ở tuổi 13, Vừ A Dính thoát ly gia đình, tham gia đội vũ trang Tuần Giáo, làm nhiệm vụ giao thông liên lạc cho lực lượng kháng chiến chống Pháp.
 *   **03/01/1947:** Bộ trưởng Bộ Thuộc địa Pháp Marius Moutet đến nhà tù Hỏa Lò hòng mua chuộc các trí thức Việt Nam đang bị giam giữ, trong đó có bác sĩ Trần Văn Lai. Các trí thức đã đáp lại bằng sự im lặng, thể hiện sự khinh bỉ và lòng yêu nước kiên định.
 *   **06/01/1947:** Trung đoàn Thủ đô chính thức được thành lập từ lực lượng bảo vệ Liên khu 1 ở Hà Nội.
 *   **07/01/1947:** Quân đội Trung Hoa Dân quốc chiếm đóng đảo Phú Lâm (Woody Island) ở Hoàng Sa. Cùng ngày, Bộ Ngoại giao Trung Quốc tổ chức họp báo tại Nam Kinh chính thức thông báo việc chiếm đóng, tuyên bố cờ Trung Quốc đang tung bay trên các đảo "chưa bao giờ không thuộc về Trung Quốc".
@@ -1433,6 +1436,7 @@
 *   **17/02/1947:** Mặt trận Thống nhất Quốc gia Liên hiệp được thành lập tại Nam Kinh (Trung Quốc) bởi các lãnh đạo Việt Cách và Việt Quốc để ủng hộ giải pháp Bảo Đại.
 *   **25/02 - 04/07/1947:** Pháp và Trung Hoa Dân quốc tiến hành đàm phán tại Paris về chủ quyền quần đảo Hoàng Sa. Trung Quốc đưa ra điều kiện tiên quyết là Pháp phải rút quân khỏi đảo Hoàng Sa (Pattle) và kịch liệt bác bỏ đề nghị của Pháp về việc đưa ra trọng tài quốc tế. Các cuộc thảo luận kết thúc mà không đạt được thỏa thuận nào.
 *   **03 - 04/1947:** Quân đội Việt Nam phản công tại Hải Phòng (22/03), Hà Đông (20/03 và 13/04), và khu Việt Nam Học xá ở Hà Nội (20/04).
+*   **04/1947:** Ngô Mây xung phong nhập ngũ và được biên chế vào Đại đội Quyết tử của Tiểu đoàn 50, Trung đoàn 94 (sau đổi thành Trung đoàn 108).
 *   **15/04/1947:** Quân nhảy dù Pháp đổ bộ xuống Hòa Bình.
 *   **15/04/1947:** Ở tuổi 14, Nguyễn Văn Lượm, với vai trò là đội viên du kích và giao liên, đã anh dũng hy sinh vì Tổ quốc trong khi chiến đấu với địch tại Thừa Thiên. Cậu bị trúng đạn khi đang đưa thư khẩn qua một cánh đồng. Sự dũng cảm và nét ngây thơ của cậu đã truyền cảm hứng cho người bác họ là nhà thơ Tố Hữu viết nên bài thơ "Lượm" bất hủ.
 *   **16/04/1947:** Giáo chủ Hòa Hảo Huỳnh Phú Sổ mất tích (được cho là bị thủ tiêu) tại Đồng Tháp Mười, dẫn đến xung đột vũ trang giữa Hòa Hảo và Việt Minh.
@@ -1442,6 +1446,7 @@
 *   **29/10/1947:** Quân đội Việt Nam giành thắng lợi lớn trong trận phục kích ở đèo Bông Lau trên đường số 4, phá hủy đoàn xe 30 chiếc và diệt khoảng 250 lính địch.
 *   **20/11/1947:** Pháp mở đợt tấn công mới mang tên Ceinture càn quét khu tứ giác Tuyên Quang - Thái Nguyên - Phủ Lạng Thương - Việt Trì.
 *   **Cuối năm 1947:** Tại Đại hội Đảng bộ Xứ ủy Nam Bộ, đồng chí Lê Duẩn được bầu làm Bí thư Xứ ủy. Ông đã đề ra nhiều chủ trương quan trọng về mở rộng chiến tranh nhân dân, thực hiện dân chủ ở nông thôn và tăng cường công tác xây dựng Đảng.
+*   **Cuối năm 1947 (20/10 hoặc 11/12):** Trận đánh tại cầu Suối Vối (An Khê, Bình Định). Anh hùng Ngô Mây đã hy sinh thân mình ôm bom lao thẳng vào xe thiết giáp của quân Pháp. Hành động quả cảm của ông đã phá hủy chiếc xe và tiêu diệt hơn một trung đội lính Âu Phi, làm xoay chuyển tình thế chiến đấu và mang lại thắng lợi cho quân đội Việt Nam.
 *   **30/11/1947:** Bộ đội Việt Nam tập kích đồn Phủ Thông. Đây là trận đầu tiên quân Pháp bị tiêu diệt ngay trong công sự.
 *   **01/12/1947:** Tưởng Giới Thạch ký một sắc lệnh đặt tên tiếng Trung cho hai quần đảo và tuyên bố chúng là lãnh thổ Trung Quốc.
 *   **19/12/1947:** Đại bộ phận quân Pháp rút khỏi Việt Bắc, chiến dịch tấn công của địch hoàn toàn thất bại.
@@ -1452,11 +1457,13 @@
 *   **1949:** Pháp chính thức sáp nhập Phú Quốc và các đảo phía Nam vịnh Thái Lan vào Việt Nam.
 *   **1949:** Lê Thị Riêng trở thành Phó Hội trưởng Hội Phụ nữ cứu quốc Miền Đông (Ủy viên Ban Chấp hành Phụ nữ Nam Bộ).
 *   **1949 (hoặc 1952):** Bài thơ bốn chữ nổi tiếng "Lượm" được nhà thơ Tố Hữu sáng tác. Dù một số bản in ghi năm 1949 hoặc 1950, hồi ký sau này của Tố Hữu cho biết ông viết bài thơ vào năm 1952 sau khi nghe tin người cháu họ Nguyễn Văn Lượm anh dũng hy sinh trong lúc ông dự Hội nghị Trung ương lần thứ 3 (21/01/1952). Bài thơ đã khắc họa thành công hình tượng người chiến sĩ liên lạc nhỏ tuổi lạc quan, yêu đời và dũng cảm.
+*   **1949:** Cha của Vừ A Dính là ông Vừ Chống Lầu bị thực dân Pháp thủ tiêu tại nhà tù Sơn La. Cùng năm, mẹ ông là bà Sùng Thị Plây cùng 8 người thân trong gia đình bị quân Pháp xử bắn sau khi bị phát hiện bí mật tiếp tế đạn dược cho lực lượng kháng chiến.
 *   **20/01/1949:** Quân đội Lào Ítxala (tiền thân của Quân đội Nhân dân Lào) được thành lập.
 *   **08/03/1949:** Hiệp ước Élysée được ký kết giữa Tổng thống Pháp Vincent Auriol và cựu hoàng Bảo Đại, thành lập "Quốc gia Việt Nam" trong khối Liên hiệp Pháp.
 *   **04/1949:** Hoàng thân Bửu Lộc, Đổng lý văn phòng của Cựu hoàng Bảo Đại, đã công khai khẳng định lại các quyền của Việt Nam đối với quần đảo Trường Sa trong một cuộc họp báo tại Sài Gòn.
 *   **23/04/1949:** Đại tướng Võ Nguyên Giáp ra bản Mệnh lệnh mở Chiến dịch Thập Vạn Đại Sơn nhằm phối hợp giúp Giải phóng quân Trung Quốc đánh tàn quân Quốc dân Đảng. Đây là nhiệm vụ quốc tế đầu tiên của Quân đội nhân dân Việt Nam. Trước khi lên đường, Chủ tịch Hồ Chí Minh đã căn dặn Tư lệnh chiến dịch Lê Quảng Ba: "Cẩn thận, bí mật, đoàn kết, hữu nghị, thắng lợi".
 *   **06 - 10/1949:** Chiến dịch Thập Vạn Đại Sơn diễn ra tại vùng biên khu Việt Quế - Điền Quế (biên giới Việt - Trung). Bộ đội Việt Nam chia làm hai mặt trận Khâm Châu và Long Châu, phối hợp với quân bạn liên tiếp đánh hạ các cứ điểm của quân Tưởng. Chiến dịch kết thúc thắng lợi vào tháng 10/1949, giúp cách mạng Trung Quốc mở rộng vùng giải phóng Ung - Long - Khâm, đồng thời củng cố vững chắc vùng biên giới Đông Bắc của Việt Nam.
+*   **15/06/1949:** Vừ A Dính bị thực dân Pháp sát hại dã man. Sau khi sa vào ổ phục kích của địch trong một đợt sương mù tại Pú Nhung và chịu nhiều đòn tra tấn tàn khốc (bị đánh gãy một bên ống chân), người thiếu niên 15 tuổi đã lừa quân Pháp khiêng mình đi cáng suốt nhiều ngày qua các cánh rừng đến một lán trại bỏ hoang. Tức giận vì bị lừa, quân Pháp đã xả súng bắn chết ông và treo xác lên cây đào.
 *   **14/07/1949:** Chính phủ ban hành sắc lệnh giảm tô đầu tiên.
 *   **28/08/1949:** Đại đoàn 308 (Đại đoàn Quân Tiên phong), đại đoàn chủ lực đầu tiên của Quân đội nhân dân Việt Nam, được thành lập.
 *   **01/10/1949:** Nước Cộng hòa Nhân dân Trung Hoa được thành lập.
@@ -1488,6 +1495,7 @@
 
 ### **Thời kỳ Cuộc kháng chiến chống Pháp bước vào Giai đoạn Kết thúc (1951 - 07/1954)**
 
+*   **1951:** Vừ A Dính được Đoàn thanh niên cứu quốc Việt Nam tuyên dương trong thiếu nhi toàn quốc vì tinh thần kiên cường, bất khuất.
 *   **11-19/02/1951:** Đại hội đại biểu toàn quốc lần thứ II của Đảng Cộng sản Đông Dương diễn ra tại xã Quang Vinh, huyện Chiêm Hóa, Tuyên Quang.
     *   Quyết định đưa Đảng ra hoạt động công khai với tên mới là **Đảng Lao động Việt Nam**.
     *   Thông qua Chính cương, Điều lệ mới và bầu Ban Chấp hành Trung ương. Hồ Chí Minh được bầu làm Chủ tịch Đảng, Trường Chinh làm Tổng Bí thư.
@@ -1508,6 +1516,7 @@
 *   **10 - 14/11/1951:** Quân Pháp mở cuộc hành quân Hoa Tuylíp (đánh chiếm Chợ Bến) và Hoa Sen (chiếm thị xã Hòa Bình) nhằm lập phòng tuyến ngăn chặn liên lạc của Việt Minh.
 *   **12/1951:** Mỹ ký Hiệp ước an ninh chung với chính phủ Bảo Đại, tăng cường can thiệp vào Đông Dương.
 *   **10/12/1951 - 25/02/1952:** Quân đội Việt Nam mở **Chiến dịch Hòa Bình**. Mở màn bằng trận tiêu diệt cứ điểm Tu Vũ (10/12). Ngày 13/12, anh hùng Cù Chính Lan dùng lựu đạn diệt xe tăng Pháp tại Dốc Giang Mỗ. Đến ngày 25/02, quân Pháp buộc phải rút chạy hoàn toàn khỏi Hòa Bình.
+*   **1952:** Vừ A Dính được Chính phủ truy tặng Huân chương Quân công hạng ba.
 *   **1952:** Làng đúc đồng Ngũ Xã xin phép chính quyền Hà Nội dùng số đồng thu được từ các pho tượng thực dân Pháp (do Thị trưởng Trần Văn Lai cho giật đổ năm 1945) để đúc bức tượng Phật A Di Đà nặng 12.300 kg đặt tại chùa Phúc Long.
 *   **11/01/1952:** Tổng chỉ huy Pháp Tướng Jean de Lattre de Tassigny qua đời vì bạo bệnh tại Pháp.
 *   **26/03/1952:** Maurice Faure, báo cáo viên về luật phê chuẩn Hiệp ước Hòa bình San Francisco tại Quốc hội Pháp, cho rằng việc Nhật Bản từ bỏ quần đảo Hoàng Sa và Trường Sa khiến các đảo này trở thành *terra derelictae* (đất đai bị bỏ rơi). Quan điểm này mâu thuẫn với các tuyên bố khác của Pháp khẳng định các quần đảo thuộc Liên hiệp Pháp.
@@ -1564,6 +1573,7 @@
 *   **07/1955:** Chủ tịch Hồ Chí Minh dẫn đầu đoàn đại biểu Chính phủ Việt Nam Dân chủ Cộng hòa đi thăm các nước xã hội chủ nghĩa để tranh thủ sự ủng hộ quốc tế.
 *   **17/07/1955:** Ngô Đình Diệm tuyên bố từ chối hiệp thương tổng tuyển cử để thống nhất đất nước.
 *   **08/1955:** Hội nghị lần thứ 8 Ban Chấp hành Trung ương Đảng Lao động Việt Nam khẳng định miền Bắc phải tiến lên chủ nghĩa xã hội.
+*   **31/08/1955:** Ngô Mây được Quốc hội truy tặng danh hiệu Anh hùng lực lượng vũ trang nhân dân.
 *   **09/1955:** Đại hội Mặt trận Dân tộc thống nhất toàn quốc quyết định thành lập **Mặt trận Tổ quốc Việt Nam**.
 *   **21/09 - 24/10/1955:** Quân đội Quốc gia Việt Nam, theo lệnh của Thủ tướng Ngô Đình Diệm, mở Chiến dịch Hoàng Diệu do Đại tá Dương Văn Minh chỉ huy nhằm truy kích và tiêu diệt tàn quân Bình Xuyên (khoảng 1.500 quân) ẩn náu tại đầm lầy Rừng Sát. Chiến dịch kết thúc với sự thất bại của quân Bình Xuyên (1.420 lính bị bắt, các chỉ huy Bảy Viễn, Lại Hữu Tài, Lại Văn Sang chạy trốn), khai thông giao thông trên sông Sài Gòn ra biển.
 *   **10/1955:** Tại cuộc họp của Tổ chức Hàng không Dân dụng Quốc tế (ICAO) ở Manila (Nghị quyết số 24), các nhà chức trách Đài Loan được yêu cầu tăng cường hoạt động quan sát khí tượng trên quần đảo Trường Sa (Nam Sa). Theo nguồn tin Trung Quốc, không có sự phản đối hay bảo lưu nào được đưa ra.
@@ -1675,8 +1685,10 @@
 *   **05/08/1964:** Không quân Mỹ lần đầu tiên ném bom bắn phá một số nơi ở miền Bắc (chiến dịch Mũi tên xuyên - Pierce Arrow). Quân dân miền Bắc đánh trả quyết liệt, bắn rơi 8 máy bay Mỹ, bắt sống phi công Everett Alvarez, tù binh phi công Mỹ đầu tiên tại miền Bắc.
 *   **07 - 11/08/1964:** Sau Sự kiện Vịnh Bắc Bộ, hơn 20 triệu người dân tại nhiều địa phương của Trung Quốc đã xuống đường tuần hành thị uy, mạnh mẽ ủng hộ Việt Nam chống đế quốc Mỹ.
 *   **10/08/1964:** Nguyễn Văn Trỗi bị Tòa án Quân sự chính quyền Sài Gòn kết án tử hình. Tại tòa, ông hiên ngang nhận hết trách nhiệm và khẳng định: "Tôi giết bọn cướp nước tôi" và "Tôi chỉ tiếc rằng chưa giết được McNamara".
+*   **05/09/1964:** Ông Vừ Chống Lầu (cha của Vừ A Dính) được Đảng và Nhà nước truy tặng danh hiệu Liệt sĩ.
 *   **20/09/1964:** Mặt trận Thống nhất Đấu tranh của các Sắc tộc bị Áp bức (FULRO) được thành lập tại Campuchia, liên kết các phong trào của người Thượng, Chăm và Khmer.
 *   **09/10/1964:** Đội du kích Caracas (Venezuela) bắt cóc Trung tá Mỹ Michael Smolen tại Caracas để đấu tranh đòi tự do cho Nguyễn Văn Trỗi, buộc chính quyền Mỹ - Sài Gòn tạm đình chỉ bản án tử hình. Tuy nhiên, sau khi Smolen được thả, địch đã lật lọng đưa Nguyễn Văn Trỗi ra xử bắn.
+*   **14/10/1964:** Bà Sùng Thị Plây (mẹ của Vừ A Dính) được Đảng và Nhà nước truy tặng danh hiệu Liệt sĩ.
 *   **15/10/1964:** Vào lúc 9 giờ 45 phút (hoặc 9 giờ 59 phút), Nguyễn Văn Trỗi bị xử bắn tại Khám Chí Hòa (Sài Gòn) ở tuổi 24. Trước pháp trường, ông giật băng bịt mắt, từ chối rửa tội và dõng dạc hô lớn: "Hãy nhớ lấy lời tôi! Đả đảo đế quốc Mỹ! Đả đảo Nguyễn Khánh! Hồ Chí Minh muôn năm! Việt Nam muôn năm!", trở thành biểu tượng anh hùng cách mạng bất khuất.
 *   **17/10/1964:** Ủy ban Trung ương Mặt trận Dân tộc Giải phóng miền Nam Việt Nam họp phiên bất thường, quyết định truy tặng Nguyễn Văn Trỗi danh hiệu Anh hùng các Lực lượng Vũ trang Nhân dân Giải phóng và Huân chương Thành đồng hạng Nhất.
 *   **14/11/1964:** Đảng Tân Đại Việt được thành lập.
@@ -2029,6 +2041,7 @@
 *   **24/07/1993:** Chủ tịch nước công bố Luật Đất đai, quy định chi tiết về chế độ quản lý, sử dụng đất đai, cũng như quyền và nghĩa vụ của người sử dụng đất tại Việt Nam.
 *   **11/12/1993:** Quần thể di tích Cố đô Huế được công nhận là Di sản Văn hóa Thế giới.
 *   **1994:** Mẹ của Bùi Văn Thuyên là bà Lê Thị Mới - người đã có 5 người con hy sinh trong các cuộc kháng chiến - được Nhà nước Việt Nam tuyên dương danh hiệu "Bà mẹ Việt Nam anh hùng" trong đợt đầu tiên.
+*   **1994:** Bà Sùng Thị Plây (mẹ của Vừ A Dính) được Nhà nước truy tặng danh hiệu Bà mẹ Việt Nam Anh hùng trong đợt đầu tiên vì đã có chồng, con và bản thân là liệt sĩ.
 *   **20-25/01/1994:** Hội nghị đại biểu toàn quốc giữa nhiệm kỳ của Đảng (khóa VII) xác định bốn nguy cơ lớn đối với đất nước và đề ra nhiệm vụ thúc đẩy công nghiệp hóa, hiện đại hóa.
 *   **03/02/1994:** Tổng thống Mỹ Bill Clinton tuyên bố **bãi bỏ hoàn toàn lệnh cấm vận thương mại** đối với Việt Nam.
 *   **Đầu 1994:** Các hoạt động thử nghiệm kết nối internet đã bắt đầu, với sự hợp tác giữa các nhà khoa học Việt Nam và Úc.
@@ -2069,6 +2082,7 @@
 *   **15/06/2000:** Chính phủ ban hành Nghị quyết 09/NQ-CP về chuyển dịch cơ cấu kinh tế và tiêu thụ sản phẩm nông nghiệp, tạo cơ sở pháp lý để phát triển nông nghiệp hàng hóa.
 *   **14/07/2000:** **Hiệp định Thương mại song phương Việt Nam - Hoa Kỳ (BTA)** được ký kết tại Washington D.C., hoàn tất quá trình bình thường hóa về kinh tế và mở ra cơ hội lớn cho hàng hóa Việt Nam vào thị trường Mỹ.
 *   **28/07/2000:** Phiên giao dịch chứng khoán đầu tiên được tổ chức với chỉ hai mã cổ phiếu niêm yết ban đầu là REE và SAM.
+*   **08/11/2000:** Vừ A Dính được truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân.
 *   **02/12/2000:** UNESCO mở rộng công nhận Vịnh Hạ Long dựa trên tiêu chí về giá trị địa chất, địa mạo nổi bật toàn cầu.
 *   **25/12/2000:** Việt Nam và Trung Quốc ký **Hiệp định phân định Vịnh Bắc Bộ** và **Hiệp định Hợp tác nghề cá**.
 

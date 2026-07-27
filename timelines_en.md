@@ -1179,6 +1179,7 @@
 *   **1923:** The Service for the Control and Assistance of Natives of the Colonies (C.A.I.) was established in France to monitor the Vietnamese.
 *   **Jun. 1923:** Nguyen Ai Quoc arrived in the Soviet Union to study and work at the Comintern.
 *   **Oct. 1923:** Nguyen Ai Quoc was elected to the Presidium of the Peasant International.
+*   **1924:** Ngo May, a prominent hero of the Vietnam People's Armed Forces known for his suicide bomb attack against French forces, was born in Cat Chanh commune, Phu Cat district, Binh Dinh province.
 *   **June 17 - July 8, 1924:** Nguyen Ai Quoc attended the 5th Congress of the Communist International in Moscow.
 *   **Jun. 19, 1924:** Pham Hong Thai carried out an assassination attempt on Governor-General Martial Merlin in Shamian (Guangzhou), creating a great sensation.
 *   **Sep. 18, 1924:** Governor-General Merlin signed a decree amending the General Code of Public Education, advocating for the development of primary education ("horizontal education").
@@ -1257,6 +1258,7 @@
 *   **May 2, 1933:** Emperor Bao Dai issued an edict to reform the Southern Court's apparatus, establishing a new cabinet with ministers such as Pham Quynh and Ngo Dinh Diem.
 *   **Jul. 26, 1933:** The French government issued a decree officially announcing the possession of the Spratly Islands by the French Navy.
 *   **Dec. 21, 1933:** The Governor of Cochinchina, J. Krautheimer, signed a decree officially annexing the Spratly Islands into Ba Ria Province.
+*   **Sep. 12, 1934:** Vu A Dinh, a courageous young hero of the Hmong ethnic group during the anti-French resistance, was born in Pu Nhung commune, Tuan Giao district, Dien Bien province.
 *   **Mar. 27-31, 1935:** The First National Congress of the Indochinese Communist Party was held in Macau (China).
 
 ### **Democratic Front Period (1936 - 1938)**
@@ -1421,6 +1423,7 @@
 
 *   **1947:** Vietnam established its first liaison office in Yangon, Myanmar. It was upgraded to a Propaganda Information Office in 1948, expanding international propaganda and monitoring world news for the resistance.
 *   **1947:** The Republic of China (Kuomintang) issued a map with an 11-dash line, which was later inherited and modified into a 9-dash line by the People's Republic of China. They based their claims to most of the South China Sea, including the Paracel and Spratly Islands, on what they called "historical sovereignty claims."
+*   **1947:** At the age of 13, Vu A Dinh escaped his family's imprisonment to join the Tuan Giao armed communication team, acting as a liaison for the resistance against the French.
 *   **Jan. 3, 1947:** French Minister of Overseas Marius Moutet visited Hoa Lo prison in an attempt to persuade and bribe imprisoned Vietnamese intellectuals, including Tran Van Lai. The intellectuals responded with absolute silence, demonstrating their unwavering patriotism and contempt for the colonialists.
 *   **Jan. 6, 1947:** The Capital Regiment was officially established from the defenders of Inter-zone 1 in Hanoi.
 *   **Jan. 7, 1947:** Republic of China troops occupied Woody Island (Phu Lam) in the Paracels. On the same day, the Chinese Ministry of Foreign Affairs held a press conference in Nanjing officially announcing the occupation, claiming the flag was flying over islands that "had never ceased to belong to China."
@@ -1433,6 +1436,7 @@
 *   **Feb. 17, 1947:** The National United Front (Mat tran Thong nhat Quoc gia Lien hiep) was established in Nanjing (China) by leaders of Viet Cach and Viet Quoc to support Bao Dai.
 *   **Feb. 25 - Jul. 4, 1947:** France and the Republic of China held negotiations in Paris regarding the sovereignty of the Paracel Islands. China demanded the withdrawal of French troops from Pattle Island as a precondition and strictly rejected France's proposal for international arbitration. The talks ended without a resolution.
 *   **Mar. - Apr. 1947:** Vietnamese forces launched counter-attacks against French positions in Hai Phong (Mar. 22), Ha Dong (Mar. 20 and Apr. 13), and the Vietnam Student Quarter (Viet Nam Hoc Xa) in Hanoi (Apr. 20).
+*   **Apr. 1947:** Ngo May volunteered for the army and was assigned to the "quyet tu" (death-defying) company of Battalion 50, Regiment 94 (later Regiment 108).
 *   **Apr. 15, 1947:** French paratroopers landed in Hoa Binh.
 *   **Apr. 15, 1947:** At the age of 14, Nguyen Van Luom, serving as a guerrilla member and messenger, heroically sacrificed his life while fighting the French in Thua Thien. He was shot while carrying an urgent dispatch across a rice field. His bravery and innocence inspired his uncle, the famous poet To Huu, to immortalize him in the poem "Luom".
 *   **Apr. 16, 1947:** Hoa Hao founder Huynh Phu So disappeared (believed to be killed) in the Plain of Reeds, leading to armed conflict between Hoa Hao forces and the Viet Minh.
@@ -1442,6 +1446,7 @@
 *   **Oct. 29, 1947:** The Vietnamese forces won a major victory in an ambush at Bong Lau Pass on Route 4, destroying a 30-vehicle convoy and capturing or killing about 250 enemy troops.
 *   **Nov. 20, 1947:** France launched the second phase of the Viet Bac attack (Operation Ceinture) targeting the Tuyen Quang - Thai Nguyen - Phu Lang Thuong - Viet Tri quadrangle.
 *   **Late 1947:** At the Party Congress of Nam Bo, Le Duan was elected Secretary of the Party Committee of Nam Bo. In this position, he proposed important policies on expanding people's war, implementing democracy in rural areas, and strengthening the National United Front.
+*   **Late 1947 (Oct. 20 or Dec. 11):** Battle of Suoi Voi bridge (An Khe, Binh Dinh). Hero Ngo May sacrificed his life by charging at a French armored vehicle with a bomb. His heroic action destroyed the vehicle and a platoon of enemy troops, turning the tide of the battle and securing a victory for the Vietnamese forces.
 *   **Nov. 30, 1947:** Vietnamese forces attacked the Phu Thong post, marking the first time French troops were destroyed from within their fortifications.
 *   **Dec. 1, 1947:** Chiang Kai-shek signed a decree assigning Chinese names to the two archipelagos and declaring them as Chinese territory.
 *   **Dec. 19, 1947:** The main body of French forces withdrew from Viet Bac; the enemy's offensive campaign had completely failed.
@@ -1452,11 +1457,13 @@
 *   **1949:** France officially incorporated Phu Quoc and the islands in the southern part of the Gulf of Thailand into Vietnam.
 *   **1949:** Le Thi Rieng became Vice President of the National Salvation Women's Association of the Eastern Region (Member of the Executive Committee of Nam Bo Women).
 *   **1949 (or 1952):** The famous four-word poem "Luom" was composed by poet To Huu. While some publications state it was written in 1949 or 1950, To Huu's later memoirs indicated it was written in 1952 after hearing of his nephew Nguyen Van Luom's heroic sacrifice during the 3rd Central Committee Conference (Jan. 21, 1952). The poem became a staple in Vietnamese education, portraying the optimistic and courageous spirit of young resistance fighters.
+*   **1949:** Vu A Dinh's father, Vu Chong Lau, was murdered in Son La prison by the French. In the same year, his mother, Sung Thi Play, and eight other family members were executed by the French after being discovered secretly supplying ammunition to the resistance forces.
 *   **Jan. 20, 1949:** The Lao Issara Army (precursor to the Lao People's Army) was founded.
 *   **Mar. 8, 1949:** The Élysée Accords were signed between French President Vincent Auriol and former emperor Bao Dai, establishing the "State of Vietnam" within the French Union.
 *   **Apr. 1949:** Prince Buu Loc, Chief of Cabinet to Emperor Bao Dai, publicly reaffirmed Vietnam's rights over the Spratly Islands during a press conference in Saigon.
 *   **Apr. 23, 1949:** General Vo Nguyen Giap issued the order to launch the Thap Van Dai Son Campaign to assist the Chinese People's Liberation Army in fighting Kuomintang forces. This marked the first international mission of the Vietnam People's Army. Prior to departure, President Ho Chi Minh advised the campaign commander, Le Quang Ba: "Careful, secret, united, friendly, victorious."
 *   **Jun. - Oct. 1949:** The Thap Van Dai Son Campaign took place in the Vietnam-Guangxi border region. Vietnamese forces, divided into two fronts (Kham Chau and Long Chau), coordinated with Chinese forces to attack Kuomintang strongholds. The campaign successfully expanded the liberated zone for the Chinese revolution, secured the northeastern border of Vietnam, and concluded when Vietnamese troops withdrew after linking up with the main Chinese army.
+*   **Jun. 15, 1949:** Vu A Dinh was brutally murdered by the French. After being captured in a dense fog during a massive sweep in Pu Nhung and enduring severe torture (including a broken leg), the 15-year-old boy tricked the French troops into carrying him through the forest for days, leading them to an abandoned camp. Enraged by the deception, the French shot him and hung his body on a peach tree.
 *   **Jul. 14, 1949:** The government issued the first decree on rent reduction.
 *   **Aug. 28, 1949:** The 308th Division (the Pioneer Division), the first main-force division of the Vietnam People's Army, was established.
 *   **Oct. 1, 1949:** The People's Republic of China was founded.
@@ -1488,6 +1495,7 @@
 
 ### **Final Period of the Resistance War Against France (1951 - Jul. 1954)**
 
+*   **1951:** Vu A Dinh was commended nationwide by the Vietnam Youth Federation for his indomitable spirit.
 *   **Feb. 11-19, 1951:** The 2nd National Congress of the Indochinese Communist Party was held in Vinh Quang commune, Chiem Hoa district, Tuyen Quang.
     *   It was decided to bring the Party into open activity under the new name **Vietnam Workers' Party**.
     *   A new Political Platform and Party Statutes were approved, and a new Central Committee was elected. Ho Chi Minh was elected Party Chairman, and Truong Chinh as General Secretary.
@@ -1508,6 +1516,7 @@
 *   **Nov. 10 - 14, 1951:** French forces launched Operation Tulipe (capturing Cho Ben) and Operation Lotus (capturing Hoa Binh town) in an attempt to cut off Vietnamese supply lines and force a pitched battle.
 *   **Dec. 1951:** The US signed the Mutual Security Treaty with the Bao Dai government.
 *   **Dec. 10, 1951 - Feb. 25, 1952:** The Vietnamese forces launched the **Hoa Binh Campaign**. On December 10, the opening battle successfully overran the Tu Vu strongpoint. On December 13, hero Cu Chinh Lan famously destroyed a French tank with a grenade at Giang Mo. By February 25, the French were forced to completely evacuate Hoa Binh.
+*   **1952:** Vu A Dinh was posthumously awarded the Third-class Military Exploit Order by the Government.
 *   **1952:** The Ngu Xa bronze casting village requested permission from Hanoi authorities to use the bronze recovered from the French colonial statues (pulled down by Mayor Tran Van Lai in 1945) to cast a 12,300 kg Amitabha Buddha statue at Phuc Long pagoda.
 *   **Jan. 11, 1952:** French Commander-in-Chief General Jean de Lattre de Tassigny died of illness in France.
 *   **Mar. 26, 1952:** Maurice Faure, the rapporteur on the ratification of the San Francisco Peace Treaty in the French Parliament, reported that the Japanese renunciation of the Paracel and Spratly Islands essentially rendered them *terra derelictae* (abandoned land), a view that contradicted other French statements affirming the islands belonged to the French Union.
@@ -1564,6 +1573,7 @@
 *   **July 1955:** President Ho Chi Minh led a government delegation to visit socialist countries (China, USSR) to seek international support for the struggle to implement the Geneva Accords.
 *   **Jul. 17, 1955:** Ngo Dinh Diem declared his refusal to hold consultations for a general election to reunify the country.
 *   **08/1955:** The 8th Conference of the Central Committee of the Vietnam Workers' Party affirmed that the North must advance to socialism.
+*   **Aug. 31, 1955:** Ngo May was posthumously awarded the title Hero of the People's Armed Forces by the National Assembly.
 *   **Sep. 1955:** The National Congress of the National United Front decided to establish the **Vietnam Fatherland Front**.
 *   **Sep. 21 - Oct. 24, 1955:** The Vietnamese National Army, under the orders of Prime Minister Ngo Dinh Diem, launched the Hoang Dieu Campaign commanded by Colonel Duong Van Minh to pursue and eliminate the remaining Binh Xuyen forces (around 1,500 troops) hiding in the Rung Sat swamp. The campaign ended with the defeat of the Binh Xuyen forces (1,420 captured; commanders Bay Vien, Lai Huu Tai, and Lai Van Sang escaped), clearing traffic on the Saigon River to the sea.
 *   **Oct. 1955:** During an International Civil Aviation Organization (ICAO) meeting in Manila (Resolution 24), Taiwanese authorities were reportedly requested to enhance meteorological observation activities on the Spratly Islands (Nansha). According to Chinese sources, no objections or reservations were raised at the time.
@@ -1675,8 +1685,10 @@
 *   **Aug. 5, 1964:** The US Air Force bombed and strafed several places in the North for the first time (Operation Pierce Arrow). The army and people of the North fought back fiercely, shooting down 8 US aircraft and capturing pilot Everett Alvarez, the first US prisoner of war in North Vietnam.
 *   **Aug. 7 - 11, 1964:** Following the Gulf of Tonkin Incident, over 20 million people across various regions of China took to the streets in massive rallies to support Vietnam and condemn US imperialist aggression.
 *   **Aug. 10, 1964:** Nguyễn Văn Trỗi was sentenced to death by the Saigon Military Court under Nguyễn Khánh's regime, declaring boldly at court: "I killed those who stole my country" and "I only regret that I have not yet killed McNamara."
+*   **Sep. 5, 1964:** Vu Chong Lau (Vu A Dinh's father) was posthumously recognized as a martyr.
 *   **Sep. 20, 1964:** The United Front for the Liberation of Oppressed Races (FULRO) was founded in Camp Le Rolland (Cambodia), uniting ethnic minority movements.
 *   **Oct. 9, 1964:** Venezuelan guerrillas (Caracas commando) kidnapped US military attaché Lieutenant Colonel Michael Smolen in Caracas to demand the release of Nguyễn Văn Trỗi, creating international pressure that temporarily suspended his execution until Smolen was released, after which US and Saigon authorities reneged on their promise.
+*   **Oct. 14, 1964:** Sung Thi Play (Vu A Dinh's mother) was posthumously recognized as a martyr.
 *   **Oct. 15, 1964:** At 09:45 AM, Nguyễn Văn Trỗi was executed by firing squad at Chi Hòa Prison in Saigon at age 24. Before his execution, he ripped off his blindfold and shouted: "Keep my words in mind! Down with US imperialism! Down with Nguyen Khanh! Long live Ho Chi Minh! Long live Vietnam!", becoming an enduring symbol of heroism.
 *   **Oct. 17, 1964:** The Central Committee of the National Liberation Front for South Vietnam held an extraordinary session and posthumously awarded Nguyễn Văn Trỗi the title Hero of the People's Liberation Armed Forces and the First Class Iron Fort Medal.
 *   **Nov. 14, 1964:** The Tan Dai Viet Party was founded.
@@ -2029,6 +2041,7 @@
 *   **Jul. 24, 1993:** The State President promulgated the Land Law, regulating the regime of land management and use, as well as the rights and obligations of land users in Vietnam.
 *   **Dec. 11, 1993:** The complex of monuments of the former imperial capital of Hue was recognized as a World Cultural Heritage site.
 *   **1994:** Bui Van Thuyen's mother, Le Thi Moi—who lost five sons in the resistance wars—was among the first group to be honored by the Vietnamese State with the noble title of "Vietnamese Heroic Mother".
+*   **1994:** Sung Thi Play (Vu A Dinh's mother) was posthumously awarded the title Vietnamese Heroic Mother in the first batch of recipients, having lost her husband, a son, and her own life to the resistance.
 *   **Jan. 20-25, 1994:** The Party's mid-term National Conference (7th tenure) identified four major risks facing the country and set out the task of promoting industrialization and modernization.
 *   **Feb. 3, 1994:** US President Bill Clinton announced the **complete lifting of the trade embargo** against Vietnam.
 *   **Early 1994:** Experimental internet connectivity activities began, in collaboration between Vietnamese and Australian scientists.
@@ -2069,6 +2082,7 @@
 *   **Jun. 15, 2000:** The Government issued Resolution 09/NQ-CP on economic restructuring and consumption of agricultural products, creating a legal basis for developing commercial agriculture.
 *   **Jul. 14, 2000:** The **Vietnam-U.S. Bilateral Trade Agreement (BTA)** was signed in Washington D.C., completing the process of economic normalization and opening up great opportunities for Vietnamese goods to enter the US market.
 *   **Jul. 28, 2000:** The first stock exchange trading session was held with only two initial listed stocks: REE and SAM.
+*   **Nov. 8, 2000:** Vu A Dinh was posthumously awarded the title Hero of the People's Armed Forces.
 *   **Dec. 2, 2000:** UNESCO extended its recognition of Ha Long Bay based on the criteria of outstanding global geological and geomorphological value.
 *   **Dec. 25, 2000:** Vietnam and China signed the **Agreement on the Demarcation of the Tonkin Gulf** and the **Agreement on Fishery Cooperation**.
 
