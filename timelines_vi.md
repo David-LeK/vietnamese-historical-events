@@ -1093,6 +1093,7 @@
 *   **27/06/1908:** Vụ "Hà thành đầu độc" nổ ra, một nhóm binh lính người Việt và các nhà yêu nước mưu đồ đầu độc binh lính Pháp ở Hà Nội và khởi nghĩa nhưng thất bại.
 *   **09/1908:** Pháp và Nhật ký hiệp ước, theo đó chính phủ Nhật trục xuất các nhà yêu nước và du học sinh Việt Nam, Phong trào Đông du tan rã.
 *   **12/1908:** Thực dân Pháp ra lệnh đóng cửa trường Đông Kinh Nghĩa thục và đàn áp những người tham gia.
+*   **27/03/1909:** Ông Nguyễn Tuất, cha đẻ của liệt sĩ "Lượm" (Nguyễn Thanh), sinh ra tại Lai Trung, xã Quảng Thọ, huyện Quảng Điền, tỉnh Bình Trị Thiên (nay là Thừa Thiên - Huế). Ông sau này làm hộ tống viên bưu điện và công tác ở nhiều nơi như Quy Nhơn, Nha Trang.
 *   **06/06/1909:** Tổng đốc Lưỡng Quảng (Trung Quốc) phái một đoàn thám hiểm ngắn ngày, do Thủy sư Đô đốc Lý Chuẩn chỉ huy, đổ bộ chớp nhoáng (24 giờ) lên vài đảo thuộc quần đảo Hoàng Sa để bắn đại bác và kéo cờ Trung Quốc. Pháp đã không có phản kháng chính thức nào vào thời điểm đó.
 *   **08/1909 - 01/1910:** Cuộc khởi nghĩa của đồng bào Mường ở Hòa Bình do Đốc Bang và Tổng Kiêm lãnh đạo.
 *   **09/1910:** Thầy giáo Nguyễn Tất Thành rời Dục Thanh học hiệu, đi ghe bầu của công ty Liên Thành vào Sài Gòn. Nguyễn Tất Thành lưu trú tại các cơ sở của công ty và làm việc tại Trường Cơ khí Á Châu (École des Mécaniciens) để chuẩn bị cho hành trình ra nước ngoài.
@@ -1248,6 +1249,7 @@
 *   **29/04/1932:** Pháp chính thức phản kháng các yêu sách của Trung Quốc, nêu rõ các danh nghĩa lịch sử và bằng chứng về sự chiếm hữu của An Nam đối với quần đảo Hoàng Sa. Cùng năm, Pháp đề nghị đưa vụ tranh chấp ra trọng tài quốc tế, nhưng Trung Quốc đã phản đối.
 *   **15/06/1932:** Đảng Cộng sản Đông Dương công bố *Chương trình hành động* để khôi phục hệ thống tổ chức và phong trào cách mạng.
 *   **16/08/1932:** Vua Bảo Đại lên đường về nước để chấp chính sau thời gian du học tại Pháp.
+*   **21/12/1932:** Nguyễn Thanh (tên thường gọi là Nguyễn Văn Lượm), nguyên mẫu lịch sử của bài thơ "Lượm" nổi tiếng do Tố Hữu sáng tác, sinh ra tại Quy Nhơn. Cậu sau này trở thành đội viên du kích và là biểu tượng bất tử của thế hệ thiếu niên liên lạc dũng cảm trong kháng chiến chống Pháp.
 *   **28/12/1932:** Nguyễn Ái Quốc được trả tự do tại Hồng Kông.
 *   **1933:** Ở tuổi 17, Đinh Thị Vân tham gia hoạt động cách mạng, làm giao thông liên lạc, cất giữ tài liệu bí mật của Đảng và tham gia tổ chức nhóm "ái hữu tương tế", nuôi dưỡng, bảo vệ cán bộ cách mạng tại địa phương.
 *   **03/1933:** Hà Huy Tập (bút danh Hồng Thế Công) công bố tác phẩm *Sơ thảo lịch sử phong trào cộng sản Đông Dương*.
@@ -1310,6 +1312,7 @@
 *   **08/1942:** Lấy tên Hồ Chí Minh, Người sang Trung Quốc tranh thủ sự ủng hộ quốc tế nhưng bị chính quyền địa phương bắt giam. Trong thời gian bị tù, Người viết tập thơ *Nhật ký trong tù*.
 *   **01/10/1942:** Việt Nam Cách mệnh Đồng minh Hội (Việt Cách) được thành lập tại Liễu Châu (Trung Quốc), tập hợp nhiều đảng phái yêu nước.
 *   **1943:** Đảng Cộng sản Đông Dương công bố bản *Đề cương về Văn hóa Việt Nam*.
+*   **1943:** Ông Nguyễn Tuất chuyển vào làm việc tại Bưu điện Nha Trang, đưa gia đình và cậu con trai 11 tuổi Nguyễn Văn Lượm đi theo. Lượm tiếp tục học tại đây 2 năm. Giấy căn cước bằng song ngữ Pháp - Việt của Lượm được cấp trong năm này để ứng thí các bằng cấp Pháp - Việt ở Trung Kỳ.
 *   **01/01/1943:** Đại Việt Duy dân Cách mệnh Đảng được thành lập.
 *   **Đầu năm 1943:** Đại Việt Phục hưng Hội được thành lập.
 *   **10/09/1943:** Hồ Chí Minh được trả tự do.
@@ -1320,6 +1323,7 @@
 *   **30/06/1944:** Đảng Dân chủ Việt Nam được thành lập, tập hợp tầng lớp tư sản dân tộc và trí thức yêu nước tham gia Mặt trận Việt Minh.
 *   **22/12/1944:** Đội Việt Nam Tuyên truyền Giải phóng quân, tiền thân của Quân đội Nhân dân Việt Nam, được thành lập tại khu rừng Trần Hưng Đạo (Cao Bằng).
 *   **24-25/12/1944:** Đội Việt Nam Tuyên truyền Giải phóng quân đánh thắng hai trận đầu tiên tại Phay Khắt và Nà Ngần.
+*   **1945 - 1946:** Nguyễn Văn Lượm (nguyên mẫu "chú bé Lượm") đi hoạt động cách mạng tại Nha Trang và thoát ly gia đình từ đó. Gia đình hoàn toàn bặt tin tức của cậu cho đến tận ngày miền Nam hoàn toàn giải phóng.
 *   **09/03/1945:** Nhật đảo chính Pháp trên toàn cõi Đông Dương.
 *   **09/03/1945:** Sau cuộc đảo chính của Nhật, đơn vị phòng vệ Đông Dương trên quần đảo Hoàng Sa đã bị hải quân Nhật bắt làm tù binh.
 *   **09-12/03/1945:** Ban Thường vụ Trung ương Đảng họp và ra chỉ thị lịch sử "Nhật - Pháp bắn nhau và hành động của chúng ta", phát động cao trào kháng Nhật cứu nước.
@@ -1430,6 +1434,7 @@
 *   **25/02 - 04/07/1947:** Pháp và Trung Hoa Dân quốc tiến hành đàm phán tại Paris về chủ quyền quần đảo Hoàng Sa. Trung Quốc đưa ra điều kiện tiên quyết là Pháp phải rút quân khỏi đảo Hoàng Sa (Pattle) và kịch liệt bác bỏ đề nghị của Pháp về việc đưa ra trọng tài quốc tế. Các cuộc thảo luận kết thúc mà không đạt được thỏa thuận nào.
 *   **03 - 04/1947:** Quân đội Việt Nam phản công tại Hải Phòng (22/03), Hà Đông (20/03 và 13/04), và khu Việt Nam Học xá ở Hà Nội (20/04).
 *   **15/04/1947:** Quân nhảy dù Pháp đổ bộ xuống Hòa Bình.
+*   **15/04/1947:** Ở tuổi 14, Nguyễn Văn Lượm, với vai trò là đội viên du kích và giao liên, đã anh dũng hy sinh vì Tổ quốc trong khi chiến đấu với địch tại Thừa Thiên. Cậu bị trúng đạn khi đang đưa thư khẩn qua một cánh đồng. Sự dũng cảm và nét ngây thơ của cậu đã truyền cảm hứng cho người bác họ là nhà thơ Tố Hữu viết nên bài thơ "Lượm" bất hủ.
 *   **16/04/1947:** Giáo chủ Hòa Hảo Huỳnh Phú Sổ mất tích (được cho là bị thủ tiêu) tại Đồng Tháp Mười, dẫn đến xung đột vũ trang giữa Hòa Hảo và Việt Minh.
 *   **07/10/1947:** Pháp mở cuộc tấn công quy mô lớn lên căn cứ địa Việt Bắc (Chiến dịch Léa), nhảy dù 800 quân xuống Bắc Kạn.
 *   **09/10/1947:** Bộ đội Việt Nam bắn rơi một máy bay Ju-52 của Pháp tại Cao Bằng, tiêu diệt 12 sĩ quan tham mưu và thu được bản kế hoạch tiến công Việt Bắc của địch.
@@ -1446,6 +1451,7 @@
 *   **07/1948:** Hội nghị văn hóa toàn quốc lần thứ hai được tổ chức, xác định tính chất "dân tộc, khoa học, đại chúng" của nền văn hóa mới.
 *   **1949:** Pháp chính thức sáp nhập Phú Quốc và các đảo phía Nam vịnh Thái Lan vào Việt Nam.
 *   **1949:** Lê Thị Riêng trở thành Phó Hội trưởng Hội Phụ nữ cứu quốc Miền Đông (Ủy viên Ban Chấp hành Phụ nữ Nam Bộ).
+*   **1949 (hoặc 1952):** Bài thơ bốn chữ nổi tiếng "Lượm" được nhà thơ Tố Hữu sáng tác. Dù một số bản in ghi năm 1949 hoặc 1950, hồi ký sau này của Tố Hữu cho biết ông viết bài thơ vào năm 1952 sau khi nghe tin người cháu họ Nguyễn Văn Lượm anh dũng hy sinh trong lúc ông dự Hội nghị Trung ương lần thứ 3 (21/01/1952). Bài thơ đã khắc họa thành công hình tượng người chiến sĩ liên lạc nhỏ tuổi lạc quan, yêu đời và dũng cảm.
 *   **20/01/1949:** Quân đội Lào Ítxala (tiền thân của Quân đội Nhân dân Lào) được thành lập.
 *   **08/03/1949:** Hiệp ước Élysée được ký kết giữa Tổng thống Pháp Vincent Auriol và cựu hoàng Bảo Đại, thành lập "Quốc gia Việt Nam" trong khối Liên hiệp Pháp.
 *   **04/1949:** Hoàng thân Bửu Lộc, Đổng lý văn phòng của Cựu hoàng Bảo Đại, đã công khai khẳng định lại các quyền của Việt Nam đối với quần đảo Trường Sa trong một cuộc họp báo tại Sài Gòn.
@@ -1589,6 +1595,7 @@
 *   **1958 - 1960:** Miền Bắc thực hiện **Kế hoạch 3 năm** cải tạo và phát triển kinh tế, văn hóa.
 *   **02/1958:** Ngư dân Trung Quốc cố gắng đến định cư ở phần phía Tây của quần đảo Hoàng Sa nhưng không thành công.
 *   **01/05/1958:** Phong trào BAJARAKA được thành lập bởi các trí thức dân tộc thiểu số tại Tây Nguyên để đấu tranh đòi quyền lợi và chống phân biệt đối xử.
+*   **05/05/1958:** Bằng Tổ quốc ghi công được cấp cho liệt sĩ Nguyễn Văn Lượm, chính thức ghi nhận sự hy sinh anh dũng của ông cho nền độc lập của đất nước.
 *   **04/09/1958:** Cộng hòa Nhân dân Trung Hoa ra tuyên bố thiết lập lãnh hải 12 hải lý, nói rõ điều này áp dụng cho cả quần đảo Hoàng Sa và Trường Sa.
 *   **14/09/1958:** Thủ tướng Chính phủ Việt Nam Dân chủ Cộng hòa Phạm Văn Đồng gửi công hàm cho Thủ tướng Trung Quốc Chu Ân Lai, ghi nhận và tán thành bản tuyên bố ngày 04/09/1958 của Trung Quốc về hải phận 12 hải lý. Mặc dù công hàm chỉ đề cập đến chiều rộng lãnh hải, Trung Quốc sau này thường xuyên vin vào đó để cho rằng Việt Nam Dân chủ Cộng hòa đã công nhận chủ quyền của Trung Quốc đối với Hoàng Sa và Trường Sa.
 *   **01/12/1958:** Vụ thảm sát Phú Lợi xảy ra, chế độ Mỹ - Diệm đầu độc hàng ngàn tù nhân chính trị, gây phẫn nộ lớn và thúc đẩy phong trào đấu tranh cách mạng.
@@ -1851,6 +1858,7 @@
 *   **Cuối 1974:** Liên Xô quyết định chuyển chế độ của các nhân sự tại Việt Nam từ "chuyên gia quân sự" sang "cố vấn quân sự", tập trung chủ yếu vào công tác hướng dẫn biên soạn giáo trình, điều lệnh huấn luyện chiến đấu cho lực lượng phòng không, không quân Việt Nam khi lực lượng này đã có thể tự chủ tác chiến hoàn toàn.
 *   **13/12/1974 - 06/01/1975:** Chiến dịch Đường 14 - Phước Long. Quân đoàn 4 (Quân Giải phóng miền Nam Việt Nam) tiến công tiêu diệt toàn bộ hệ thống phòng ngự của Quân lực Việt Nam Cộng hòa tại tỉnh Phước Long. Quân Giải phóng chiếm được một lượng lớn đạn pháo (17.000 viên) và làm chủ toàn bộ tỉnh vào ngày 06/01/1975. Đây là đòn trinh sát chiến lược quan trọng, thử sức phản ứng của quân đội Sài Gòn và đặc biệt là thăm dò khả năng can thiệp trở lại của Hoa Kỳ. Sự thất thủ của Phước Long cùng với việc Mỹ chỉ phản ứng bằng lời nói mà không có hành động quân sự đã củng cố quyết tâm của Bộ Chính trị hạ lệnh Tổng tiến công giải phóng hoàn toàn miền Nam trong năm 1975.
 *   **18/12/1974 - 08/01/1975:** Bộ Chính trị họp (đợt 2), sau chiến thắng Phước Long, hạ quyết tâm giải phóng miền Nam ngay trong năm 1975 nếu thời cơ đến.
+*   **1975:** Sau giải phóng miền Nam, ông Nguyễn Tuất mới nhận được tin con trai Nguyễn Văn Lượm đã hy sinh khi người em ruột Nguyễn Trọng Quảng mang Bằng Tổ quốc ghi công năm 1958 và giấy tờ của liệt sĩ Lượm về trao cho gia đình tại Phan Rang - Tháp Chàm.
 *   **04/03 - 03/04/1975:** Chiến dịch Tây Nguyên (Chiến dịch 275). Mở đầu bằng đòn nghi binh chiến dịch tài tình thu hút chủ lực địch về phía Kon Tum - Pleiku, Quân Giải phóng miền Nam Việt Nam bí mật điều động lực lượng áp đảo bất ngờ tập kích đánh chiếm thị xã Buôn Ma Thuột (10-11/03). Sự sụp đổ nhanh chóng của Buôn Ma Thuột và thất bại trong nỗ lực phản kích đã khiến Tổng thống Nguyễn Văn Thiệu hoảng loạn ra lệnh rút toàn bộ Quân đoàn II khỏi Tây Nguyên theo Đường số 7 (14/03). Cuộc rút quân vội vã, vô tổ chức đã biến thành thảm họa khi bị Quân Giải phóng truy kích chặn đánh tại Cheo Reo. Gần 60.000 quân Sài Gòn bị tiêu diệt hoặc tan rã, đánh dấu sự sụp đổ của tuyến phòng thủ chiến lược Tây Nguyên, tạo đột biến mở đường cho Tổng tiến công và nổi dậy Mùa Xuân 1975.
 *   **05 - 29/03/1975:** Chiến dịch Huế - Đà Nẵng. Lợi dụng sự rối loạn của Quân lực Việt Nam Cộng hòa sau thất bại ở Tây Nguyên, Quân Giải phóng (Quân đoàn 2 và lực lượng Quân khu Trị - Thiên, Quân khu 5) nhanh chóng hợp vây, cắt đứt giao thông. Ngày 19/03 giải phóng Quảng Trị, ngày 25/03 đánh chiếm cố đô Huế và toàn tỉnh Thừa Thiên. Tiếp đà thắng lợi, quân Giải phóng tiến công Đà Nẵng - căn cứ quân sự liên hợp lớn nhất miền Trung. Dưới sức ép tiến công thần tốc từ nhiều hướng, khoảng 14 vạn sĩ quan và binh lính Việt Nam Cộng hòa tại Đà Nẵng đã hoảng loạn tháo chạy và đầu hàng (29/03). Thắng lợi này làm thay đổi hoàn toàn cục diện chiến tranh, đẩy chính quyền Sài Gòn vào thế sụp đổ không thể đảo ngược.
 *   **18/03 - 01/04/1975:** Chiến dịch Đường 5 - Phú Yên. Đón lõng cuộc tháo chạy của Quân đoàn II (Việt Nam Cộng hòa) từ Tây Nguyên xuống đồng bằng theo Đường số 7, Quân Giải phóng tổ chức phục kích và làm chủ Đường số 5, tiêu diệt các cụm quân địch và tiến đánh thị xã Tuy Hòa. Lần lượt giải phóng Quảng Ngãi, Tam Kỳ (24/03), Bình Định và đến trưa 01/04, toàn bộ tỉnh Phú Yên được giải phóng.
@@ -1907,6 +1915,7 @@
 *   **12/1976:** Đại hội đại biểu toàn quốc lần thứ IV của Đảng được tổ chức tại Hà Nội.
     *   Đổi tên Đảng Lao động Việt Nam thành **Đảng Cộng sản Việt Nam**.
     *   Đề ra đường lối xây dựng chủ nghĩa xã hội trong cả nước và thông qua Kế hoạch 5 năm lần thứ hai (1976-1980).
+*   **12/04/1977:** Ông Nguyễn Tuất làm "Tờ nhận tự khai" để xin sao y bản chính Bằng Tổ quốc ghi công của con trai do bản gốc năm 1958 bị hư hại trong chiến tranh. Giấy tờ này được chính quyền địa phương tại Nha Trang xác nhận, chính thức minh chứng nhân thân và sự hy sinh của nguyên mẫu "chú bé Lượm".
 *   **30/04/1977:** Quân chính quy Khmer Đỏ bất ngờ tiến sâu 10 km vào lãnh thổ Việt Nam tại tỉnh An Giang, đánh vào các đồn biên phòng và xã, thảm sát nhiều thường dân.
 *   **12/05/1977:** Chính phủ nước Cộng hòa Xã hội Chủ nghĩa Việt Nam ra tuyên bố về các vùng biển của mình, khẳng định các đảo và quần đảo là bộ phận lãnh thổ của Việt Nam và có vùng biển riêng.
 *   **21/06/1977:** Để thoát khỏi các cuộc thanh trừng của Khmer Đỏ, ông Hun Sen (khi đó là chỉ huy trung đoàn) cùng đồng đội vượt biên giới sang xã Lộc Tấn, huyện Lộc Ninh, tỉnh Bình Phước, Việt Nam để tìm kiếm sự giúp đỡ nhằm lật đổ chế độ diệt chủng. Đoàn đã được nhân dân và quân đội Việt Nam tiếp đón, cưu mang một cách nhân đạo.
@@ -1929,6 +1938,7 @@
 *   **25/12/1978:** Việt Nam tiến hành cuộc phản công toàn diện vào Campuchia nhằm đánh đuổi quân xâm lược Khmer Đỏ và hỗ trợ lực lượng cách mạng Campuchia lật đổ chế độ diệt chủng.
 *   **30/12/1978 - 11/08/1980:** Cộng hòa Xã hội Chủ nghĩa Việt Nam đã liên tiếp đưa ra nhiều lời phản kháng (vào các ngày 30/12/1978, 07/08/1979, 05/02/1980 và 11/08/1980) chống lại các hành vi vi phạm chủ quyền của CHND Trung Hoa, Đài Loan và các quốc gia khác đối với các quần đảo.
 *   **1979:** Theo hiệp định vay nợ, Việt Nam bắt đầu phải trả đợt nợ đầu tiên cho Iraq. Tuy nhiên, do đất nước vừa ra khỏi chiến tranh và phải đối phó với chiến tranh biên giới Tây Nam và phía Bắc, Việt Nam không có khả năng trả nợ. Trong chuyến thăm của Thủ tướng Phạm Văn Đồng, chính phủ của Tổng thống Saddam Hussein đã quyết định cho Việt Nam vay 100 triệu USD để trả số nợ đến hạn cho chính Iraq, một quyết định có một không hai trong quan hệ quốc tế.
+*   **1979:** Ông Nguyễn Tuất, cha ruột của liệt sĩ Nguyễn Văn Lượm, qua đời tại Phan Rang - Tháp Chàm, thọ 70 tuổi.
 *   **07/01/1979:** Quân tình nguyện Việt Nam phối hợp cùng lực lượng vũ trang cách mạng Campuchia giải phóng Thủ đô Phnôm Pênh, chính thức lật đổ chế độ diệt chủng Pôn Pốt.
 *   **08/01/1979:** Hội đồng Nhân dân Cách mạng Campuchia do Heng Samrin làm Chủ tịch được thành lập với sự hậu thuẫn của Việt Nam sau khi Phnôm Pênh được giải phóng.
 *   **17/01/1979:** Toàn bộ đất nước Campuchia được giải phóng khỏi ách thống trị của Khmer Đỏ.
