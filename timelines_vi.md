@@ -2121,8 +2121,9 @@
 *   **2002:** Phó Chủ tịch nước Nguyễn Thị Bình sang thăm Iraq để gặp Tổng thống Saddam Hussein nhằm giải quyết khoản nợ kéo dài hơn 20 năm chưa trả xong. Dù Iraq đang bị cấm vận và vô vàn khó khăn, Tổng thống Saddam Hussein đã quyết định xóa toàn bộ số nợ cho Việt Nam. Bản thỏa thuận xóa nợ được Phó Tổng thống Iraq Taha Yassin Ramadan ký kết.
 *   **2002 - 2005:** Việt Nam đã viện trợ cho Cuba tổng kinh phí hơn 50 triệu USD, bao gồm các dự án về sản xuất lúa gạo, ngô, đậu đỗ và nuôi trồng thủy sản.
 *   **14/10/2002:** Thủ tướng Chính phủ nước Cộng hòa Xã hội chủ nghĩa Việt Nam ra Quyết định số 132/2002/QĐ-TTg, chính thức "lấy múi giờ thứ 7 theo hệ thống múi giờ quốc tế làm giờ chính thức của Việt Nam".
-*   **26/02/2003:** Ghi nhận ca nhiễm SARS đầu tiên tại Việt Nam.
-*   **05/2003:** WHO công nhận Việt Nam là quốc gia đầu tiên khống chế thành công dịch SARS.
+*   **26/02/2003:** Ghi nhận ca nhiễm SARS đầu tiên tại Việt Nam ở một thương gia người Mỹ (Johnny Chen) vừa nhập cảnh từ Hồng Kông. Bác sĩ Carlo Urbani, chuyên gia bệnh truyền nhiễm của WHO, được mời đến Bệnh viện Việt Pháp (Hà Nội) khám cho bệnh nhân. Ông là người đầu tiên nhận diện đây là một căn bệnh mới vô cùng nguy hiểm và lập tức báo động cho WHO, kích hoạt phản ứng toàn cầu. Ông cũng thuyết phục Chính phủ Việt Nam thực hiện các biện pháp cách ly nghiêm ngặt.
+*   **29/03/2003:** Bác sĩ Carlo Urbani qua đời ở tuổi 46 tại Bangkok, Thái Lan sau khi lây nhiễm SARS trong quá trình điều trị bệnh nhân tại Việt Nam. Trước khi mất, ông đề nghị các bác sĩ cắt lá phổi của mình làm tiêu bản nghiên cứu, giúp giới khoa học tìm ra chủng virus corona gây bệnh.
+*   **Cuối tháng 04 - 05/2003:** Việt Nam trở thành quốc gia đầu tiên trên thế giới khống chế thành công dịch SARS (được WHO chính thức công nhận vào tháng 5/2003) sau hơn 2 tuần không ghi nhận ca mới. Trong đợt dịch này, đã có 6 y bác sĩ tại Bệnh viện Việt Pháp (gồm 4 người Việt Nam và 2 người Pháp) anh dũng hy sinh khi chăm sóc bệnh nhân.
 *   **03/07/2003:** Vườn Quốc gia Phong Nha - Kẻ Bàng được UNESCO công nhận lần đầu về địa chất, địa mạo.
 *   **02/09/2003:** Tượng đài Mẹ Suốt (cao 7m) và quần thể khu tưởng niệm do nhà điêu khắc Phan Đình Tiến sáng tác được cắt băng khánh thành bên dòng sông Nhật Lệ, Đồng Hới, Quảng Bình.
 *   **07/11/2003:** Nhã nhạc cung đình Huế được UNESCO công nhận là di sản phi vật thể đầu tiên.
@@ -2246,6 +2247,7 @@
 *   **2023 - 2024:** Diễn ra nhiều biến động nhân sự cấp cao (Chủ tịch nước, Chủ tịch Quốc hội) trong bối cảnh chống tham nhũng.
 *   **01/01/2023:** Sổ hộ khẩu, sổ tạm trú giấy chính thức hết giá trị sử dụng.
 *   **18/01/2023:** Quốc hội miễn nhiệm Chủ tịch nước Nguyễn Xuân Phúc.
+*   **01/04/2023:** Bảo tàng Carlo Urbani được chính thức khánh thành tại quê hương Castelplanio của ông ở Ý. Sự kiện có sự tham dự của Tổng Giám đốc WHO và đại diện Việt Nam, nhằm tri ân những cống hiến to lớn và sự hy sinh cao cả của ông cho nền y tế công cộng toàn cầu.
 *   **11/06/2023:** Một nhóm đối tượng trang bị vũ khí đã tấn công trụ sở UBND hai xã Ea Tiêu và Ea Ktur (huyện Cư Kuin, Đắk Lắk), sát hại 9 người (gồm 4 công an, 1 Bí thư xã, 1 Chủ tịch xã và 3 người dân) và làm bị thương 2 người. Bộ Công an xác định đây là vụ khủng bố có tổ chức nhằm chống chính quyền nhân dân, do nhóm "Lính Đêga" thực hiện dưới sự chỉ đạo của các tổ chức phản động lưu vong (MSGI và MSFJ).
 *   **23/06/2023:** Cơ quan An ninh điều tra ra quyết định khởi tố vụ án "Khủng bố nhằm chống chính quyền nhân dân" tại Đắk Lắk, khởi tố 84 bị can về các tội danh liên quan.
 *   **24/07/2023:** Nhà văn Hoàng Phủ Ngọc Tường qua đời tại TP. Hồ Chí Minh, hưởng thọ 86 tuổi. Sinh năm 1937 tại Huế, ông là một cây bút giàu dấu ấn của văn học Việt Nam hiện đại, nổi tiếng với phong cách tài hoa, uyên bác qua các tác phẩm bút ký tiêu biểu như "Ai đã đặt tên cho dòng sông?".
