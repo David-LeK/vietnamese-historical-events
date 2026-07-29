@@ -1955,6 +1955,7 @@
 *   **03/05/1978:** Nhà nước tiến hành cuộc đổi tiền trên cả nước, thống nhất tiền tệ. Một đồng tiền mới của Ngân hàng Nhà nước Việt Nam được phát hành, thay thế cho hai loại tiền cũ ở hai miền.
 *   **29/06/1978:** Việt Nam được kết nạp làm thành viên chính thức của Hội đồng Tương trợ Kinh tế (khối SEV).
 *   **08/1978:** Nguyên Bộ trưởng Tư pháp Chính phủ Cách mạng Lâm thời **Trương Như Tảng** rời Việt Nam bằng thuyền do bất đồng quan điểm.
+*   **25/08/1978:** Lê Đình Chinh, người chiến sĩ 18 tuổi, đã bị sát hại bởi những kẻ côn đồ và lính Trung Quốc mặc thường phục, trở thành người lính đầu tiên ngã xuống trên mặt trận bảo vệ biên giới phía Bắc.
 *   **03/11/1978:** Việt Nam và Liên Xô ký kết Hiệp ước hữu nghị và hợp tác tại Matxcơva.
 *   **02/12/1978:** Với sự giúp đỡ của Việt Nam, Mặt trận Đoàn kết Dân tộc Cứu nước Campuchia được thành lập tại Snuol (Kratie), kêu gọi lật đổ chế độ diệt chủng Pol Pot và khẩn thiết kêu gọi sự giúp đỡ của quân tình nguyện Việt Nam.
 *   **13/12/1978:** Dưới sự hậu thuẫn từ bên ngoài, Khmer Đỏ huy động 19 sư đoàn (khoảng 8 vạn đến 10 vạn quân) tiến công xâm lược Việt Nam trên toàn tuyến biên giới, nhưng đã bị quân đội Việt Nam chặn đứng.
@@ -1963,19 +1964,23 @@
 *   **30/12/1978 - 11/08/1980:** Cộng hòa Xã hội Chủ nghĩa Việt Nam đã liên tiếp đưa ra nhiều lời phản kháng (vào các ngày 30/12/1978, 07/08/1979, 05/02/1980 và 11/08/1980) chống lại các hành vi vi phạm chủ quyền của CHND Trung Hoa, Đài Loan và các quốc gia khác đối với các quần đảo.
 *   **1979:** Theo hiệp định vay nợ, Việt Nam bắt đầu phải trả đợt nợ đầu tiên cho Iraq. Tuy nhiên, do đất nước vừa ra khỏi chiến tranh và phải đối phó với chiến tranh biên giới Tây Nam và phía Bắc, Việt Nam không có khả năng trả nợ. Trong chuyến thăm của Thủ tướng Phạm Văn Đồng, chính phủ của Tổng thống Saddam Hussein đã quyết định cho Việt Nam vay 100 triệu USD để trả số nợ đến hạn cho chính Iraq, một quyết định có một không hai trong quan hệ quốc tế.
 *   **1979:** Ông Nguyễn Tuất, cha ruột của liệt sĩ Nguyễn Văn Lượm, qua đời tại Phan Rang - Tháp Chàm, thọ 70 tuổi.
+*   **01/1979:** Trường Sĩ quan Chính trị cử 238 học viên và cán bộ đi thực tập tại các đơn vị ở Cao Bằng và Lạng Sơn. Khi chiến tranh biên giới nổ ra, 218 đồng chí đã trực tiếp tham gia chiến đấu và 22 người đã anh dũng hy sinh để bảo vệ bờ cõi.
 *   **07/01/1979:** Quân tình nguyện Việt Nam phối hợp cùng lực lượng vũ trang cách mạng Campuchia giải phóng Thủ đô Phnôm Pênh, chính thức lật đổ chế độ diệt chủng Pôn Pốt.
 *   **08/01/1979:** Hội đồng Nhân dân Cách mạng Campuchia do Heng Samrin làm Chủ tịch được thành lập với sự hậu thuẫn của Việt Nam sau khi Phnôm Pênh được giải phóng.
 *   **17/01/1979:** Toàn bộ đất nước Campuchia được giải phóng khỏi ách thống trị của Khmer Đỏ.
 *   **02/1979:** Tổng thống Philippin ban hành một sắc lệnh tuyên bố chủ quyền của Philippin đối với gần như toàn bộ quần đảo Trường Sa (ngoại trừ đảo Trường Sa lớn).
-*   **17/02/1979:** Trung Quốc huy động lực lượng khổng lồ (lên tới hơn 30 vạn quân) đồng loạt tấn công 6 tỉnh biên giới phía Bắc Việt Nam (Chiến tranh biên giới Việt - Trung). Quân Trung Quốc sử dụng chiến thuật "biển người" và pháo binh hạng nặng, tàn phá triệt để cơ sở hạ tầng tại các thị xã như Lào Cai, Cao Bằng, Lạng Sơn, nhưng đã vấp phải sự kháng cự quyết liệt của bộ đội địa phương và dân quân tự vệ Việt Nam.
+*   **17/02/1979:** Trung Quốc huy động lực lượng khổng lồ (ước tính từ 30 vạn đến hơn 60 vạn quân) đồng loạt tấn công 6 tỉnh biên giới phía Bắc Việt Nam (Chiến tranh biên giới Việt - Trung). Quân Trung Quốc sử dụng chiến thuật "biển người" và pháo binh hạng nặng, tàn phá cơ sở hạ tầng. Bộ đội địa phương và dân quân tự vệ Việt Nam đã kháng cự vô cùng quyết liệt. Tại Cao Bằng, Thiếu úy Nguyễn Hữu Quế đã anh dũng ngã xuống ngay trong ngày đầu tiên chiến đấu bảo vệ cao điểm 815.
 *   **18/02/1979:** Việt Nam và Campuchia ký Hiệp ước hòa bình, hữu nghị và hợp tác.
-*   **05/03/1979:** Việt Nam ra Lệnh Tổng động viên toàn quốc. Cùng ngày, Trung Quốc tuyên bố rút quân.
+*   **27/02/1979:** Khoảng 10 giờ sáng, quân Trung Quốc tràn ngập trận địa tại cao điểm 815 (Trà Lĩnh, Cao Bằng) sau các đợt pháo kích và bộ binh ồ ạt. Trung úy Phan Đình Linh, chỉ huy 4 người còn sống sót của đơn vị, đã bật lưỡi lê đánh giáp lá cà và hy sinh anh dũng cùng đồng đội.
+*   **05/03/1979:** Việt Nam ra Lệnh Tổng động viên toàn quốc, hàng vạn thanh niên cả nước đã hăng hái lên đường bảo vệ biên cương phía Bắc. Cùng ngày, Trung Quốc tuyên bố rút quân.
 *   **16/03/1979:** Trung Quốc chính thức tuyên bố hoàn tất việc rút quân khỏi Việt Nam, kết thúc giai đoạn khốc liệt của cuộc chiến tranh biên giới 1979, mặc dù các cuộc xung đột nhỏ vẫn tiếp diễn trong hơn một thập kỷ sau đó.
 *   **18/04/1979:** Vòng đàm phán cấp Thứ trưởng Ngoại giao Việt Nam - Trung Quốc lần thứ nhất bắt đầu tại Hà Nội.
 *   **08/1979:** Hội nghị lần thứ 6 Ban Chấp hành Trung ương Đảng (khóa IV) ra nghị quyết "Về tình hình và nhiệm vụ cấp bách", thừa nhận những khó khăn, yếu kém trong quản lý kinh tế và đề ra chủ trương "làm cho sản xuất bung ra".
 *   **01/10/1979:** Tiến hành cuộc Tổng điều tra dân số lần thứ hai trong cả nước.
+*   **20/12/1979:** Liệt sĩ Phan Đình Linh được Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân và Huân chương Chiến công hạng Ba vì sự hy sinh oanh liệt tại cao điểm 815.
 *   **Những năm 1980:** Bất chấp những khó khăn to lớn do cuộc chiến tranh Iran - Iraq, chính phủ Iraq vẫn đồng ý với đề nghị của Việt Nam cho hoãn nợ và nhận trả nợ bằng hàng hóa (gạo, chè, quần áo) cùng lao động. Hàng ngàn lao động Việt Nam đã sang Iraq làm việc, trích một nửa tiền lương để trả nợ cho nước bạn.
 *   **Những năm 1980 - 1990:** Cuba hỗ trợ Việt Nam trong lĩnh vực y tế dự phòng bằng cách viện trợ các loại vaccine phòng viêm màng não, bại liệt, uốn ván cho trẻ em Việt Nam.
+*   **Sau Tết 1980:** Các trận đánh quy mô nhỏ thỉnh thoảng vẫn xảy ra ở những điểm cao dọc đường biên giới Lạng Sơn.
 *   **1980:** Ủy ban Nhân dân thị xã Đồng Hới cho xây dựng bia đài tưởng niệm Mẹ Suốt nằm giữa trung tâm bến đò cũ bên sông Nhật Lệ nhằm tri ân sự hy sinh anh hùng của bà.
 *   **30/03/1980:** Chủ tịch nước Tôn Đức Thắng qua đời. Phó Chủ tịch nước **Nguyễn Hữu Thọ** giữ Quyền Chủ tịch nước (đến tháng 7/1981).
 *   **23/07/1980:** Anh hùng Phạm Tuân cùng nhà du hành vũ trụ Liên Xô Viktor Vassilyevich Gorbatko thực hiện chuyến bay trên tàu vũ trụ Soyuz 37 trong chương trình Interkosmos của Liên Xô. Ông là người Việt Nam đầu tiên và cũng là người châu Á đầu tiên bay vào vũ trụ, đưa Việt Nam trở thành quốc gia thứ 10 trên thế giới có công dân bay vào không gian.
@@ -1984,6 +1989,7 @@
 *   **21/01/1981:** Hội đồng Chính phủ ra Quyết định số 25-CP, nhằm phát huy quyền chủ động sản xuất kinh doanh và quyền tự chủ tài chính của các xí nghiệp quốc doanh.
 *   **1982:** Ban Chấp hành Thành đoàn TP. Hồ Chí Minh quyết định lấy ngày 15/10 (ngày hy sinh của Nguyễn Văn Trỗi) làm Ngày Truyền thống Thanh niên Công nhân TP. Hồ Chí Minh và thành lập Giải thưởng Nguyễn Văn Trỗi dành cho công nhân trẻ tiêu biểu.
 *   **1982:** Việt Nam thành lập huyện Hoàng Sa trực thuộc tỉnh Quảng Nam - Đà Nẵng để quản lý quần đảo Hoàng Sa.
+*   **Đầu năm 1982:** Bất chấp cơ sở hạ tầng bị tàn phá nặng nề sau cuộc chiến năm 1979, các đơn vị quân đội đóng quân tại biên giới Cao Bằng đã tích cực giúp nhân dân khôi phục sản xuất nông nghiệp và ổn định đời sống.
 *   **03/1982:** Đại hội đại biểu toàn quốc lần thứ V của Đảng Cộng sản Việt Nam họp tại Hà Nội, đề ra Kế hoạch 5 năm lần thứ ba (1981-1985).
 *   **06/1982:** Tân Hoa Xã của Trung Quốc đưa tin về việc hoàn thành một cảng lớn mới tại đảo Tri Tôn thuộc quần đảo Hoàng Sa, cho thấy quá trình quân sự hóa và phát triển cơ sở hạ tầng liên tục của Trung Quốc tại vùng lãnh thổ bị chiếm đóng.
 *   **28/09/1982:** Hội đồng Bộ trưởng ra quyết định lấy ngày 20 tháng 11 hàng năm làm Ngày Nhà giáo Việt Nam.
@@ -1991,7 +1997,10 @@
 *   **09/12/1982:** Hội đồng Bộ trưởng Việt Nam ra các quyết định tái cơ cấu việc quản lý hành chính đối với các quần đảo.
 *   **23/02/1983:** Malaysia chính thức nêu yêu sách chủ quyền đối với ba hòn đảo ở Trường Sa, Việt Nam đã chính thức phản kháng vào ngày 25 tháng 3.
 *   **06/1983:** Quân đội Malaysia chiếm đóng đá Hoa Lau (Swallow Reef) ở Trường Sa và xây dựng các công trình. Việt Nam đã chính thức phản đối hành động này.
+*   **Mùa hè 1983:** Chiến sự lại rộ lên và diễn ra ác liệt ở vùng biên giới Hoàng Liên Sơn (Lào Cai) và Hà Tuyên (Hà Giang).
+*   **Cuối năm 1983:** Lính Trung Quốc thường xuyên gài mìn và dùng súng B41 bắn lén các xe cơ giới của Việt Nam đi qua các tuyến đường biên giới ở Mường Khương (Lào Cai).
 *   **02/06/1984:** Quốc hội Trung Quốc quyết định thành lập một khu hành chính đặc biệt bao gồm đảo Hải Nam và hai quần đảo. Chính phủ Việt Nam đã phản đối kịch liệt.
+*   **12/07/1984:** Trong các trận chiến ác liệt tại Vị Xuyên (Hà Giang), mật độ pháo địch bắn sang trận địa Việt Nam dày đặc nhiều giờ liền, gây tổn thất lớn cho bộ đội đặc biệt là trên cao điểm 772, biến dãy núi đá nơi đây thành "Lò vôi thế kỷ". Tại đây, những người lính như anh hùng liệt sĩ Nguyễn Viết Ninh đã chiến đấu với lời thề khắc trên báng súng: "Sống bám đá, chết hóa đá, thành bất tử".
 *   **11/03/1985:** Mikhail Gorbachev trở thành Tổng Bí thư Đảng Cộng sản Liên Xô, bắt đầu thực hiện đường lối "Cải tổ" (Perestroika) và "Công khai" (Glasnost).
 *   **06/1985:** Hội nghị lần thứ 8 Ban Chấp hành Trung ương (khóa V) ra nghị quyết về giá - lương - tiền, quyết định dứt khoát xóa bỏ cơ chế tập trung quan liêu, bao cấp.
 *   **14/09/1985:** Bắt đầu cuộc tổng điều chỉnh giá - lương - tiền trên phạm vi cả nước, thực hiện đổi tiền với tỷ lệ 10 đồng tiền cũ ăn 1 đồng tiền mới.
@@ -2024,6 +2033,7 @@
 *   **08/1989:** Việt Nam hoàn thành việc xây dựng một cụm dịch vụ - kinh tế - khoa học kỹ thuật tại Trường Sa, nằm trên thềm lục địa của Việt Nam.
 *   **26/09/1989:** Những đơn vị Quân tình nguyện và chuyên gia quân sự Việt Nam cuối cùng chính thức hoàn thành việc rút toàn bộ quân khỏi Campuchia, kết thúc 10 năm thực hiện nghĩa vụ quốc tế giúp nước bạn hồi sinh sau thảm họa diệt chủng Khmer Đỏ.
 *   **1990 - 1993:** Khi Cuba rơi vào "Thời kỳ đặc biệt" với khủng hoảng kinh tế trầm trọng sau khi Liên Xô và khối xã hội chủ nghĩa Đông Âu sụp đổ, Việt Nam đã mở các chiến dịch ủng hộ Cuba, quyên góp 50.000 tấn gạo, quần áo, đồ dùng học tập, thể hiện tình đoàn kết thủy chung.
+*   **1990:** Khởi công xây dựng Nghĩa trang liệt sĩ quốc gia Vị Xuyên tại Hà Giang, nơi yên nghỉ của gần 2.000 liệt sĩ và là một địa chỉ đỏ giáo dục truyền thống cách mạng về cuộc chiến đấu bảo vệ biên giới phía Bắc.
 *   **15/03/1990:** Đại hội đại biểu nhân dân Liên Xô thông qua sửa đổi Điều 6 Hiến pháp, xóa bỏ vai trò lãnh đạo độc tôn của Đảng Cộng sản, chấp nhận đa nguyên chính trị.
 *   **22/04/1990:** Thiếu tướng Trần Công Mân, Tổng Biên tập Báo Quân đội nhân dân viết bài "Cuộc chiến đấu chưa kết thúc", cảnh báo về trào lưu phủ nhận Đảng và CNXH.
 *   **08/1990:** Thủ tướng Trung Quốc Lý Bằng đề nghị cùng khai thác khu vực quần đảo Trường Sa.
@@ -2079,6 +2089,7 @@
 *   **29/01/1996:** Đảng và Nhà nước truy tặng danh hiệu Anh hùng Lực lượng Vũ trang Nhân dân cho đồng chí Thiều Văn Chỏi vì những chiến công đặc biệt xuất sắc.
 *   **06/1996:** Đại hội đại biểu toàn quốc lần thứ VIII của Đảng Cộng sản Việt Nam đề ra nhiệm vụ **đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước**.
 *   **1997:** **Cuộc khủng hoảng tài chính - tiền tệ khu vực** bắt đầu, gây ảnh hưởng tiêu cực đến nền kinh tế Việt Nam, làm suy giảm tốc độ tăng trưởng và thu hút đầu tư.
+*   **1997:** Hài cốt của liệt sĩ Nguyễn Hữu Quế, người đã ngã xuống bảo vệ cao điểm 815 năm 1979, được gia đình tìm thấy tại Cốc Càng (Trà Lĩnh, Cao Bằng) và cất bốc đưa về quê nhà Thanh Hóa.
 *   **01/07/1997:** Luật Hợp tác xã có hiệu lực, tạo cơ sở pháp lý để chuyển đổi các hợp tác xã nông nghiệp sang mô hình dịch vụ kiểu mới, phục vụ kinh tế hộ.
 *   **19/11/1997:** Dịch vụ internet chính thức được cung cấp rộng rãi tại Việt Nam, do Tập đoàn Bưu chính Viễn thông Việt Nam (VNPT) và Công ty Cổ phần Netnam là những đơn vị đầu tiên triển khai.
 *   **12/1997:** Hội nghị lần thứ 4 Ban Chấp hành Trung ương Đảng (khóa VIII) đề ra chủ trương nêu cao tinh thần tự lực, tự cường, phát huy nội lực để vượt qua khó khăn, thách thức từ cuộc khủng hoảng.
@@ -2175,6 +2186,7 @@
 *   **11/2014:** Khởi công xây dựng Khu tưởng niệm nữ Anh hùng liệt sĩ Nguyễn Thị Út (Út Tịch) tại xã Tam Ngãi, tỉnh Trà Vinh.
 *   **27/11/2014:** Dân ca Ví, Giặm Nghệ Tĩnh được UNESCO công nhận là di sản.
 *   **2015:** Chiến sĩ biệt động Trần Văn Lai được Đảng và Nhà nước truy tặng danh hiệu Anh hùng Lực lượng Vũ trang Nhân dân vì những cống hiến và hy sinh xuất sắc.
+*   **09/01/2015:** Thủ tướng Chính phủ ban hành Chỉ thị số 01/CT-TTg về việc tổ chức phong trào toàn dân tham gia bảo vệ chủ quyền lãnh thổ, an ninh biên giới quốc gia trong tình hình mới.
 *   **02/07/2015:** Vườn Quốc gia Phong Nha - Kẻ Bàng được UNESCO công nhận lần hai về đa dạng sinh học.
 *   **06 - 10/07/2015:** Tổng Bí thư Nguyễn Phú Trọng lần đầu thăm chính thức Hoa Kỳ.
 *   **21/09/2015:** Công bố 43 triệu người Việt Nam thoát nghèo (theo Mục tiêu Thiên niên kỷ).
@@ -2203,6 +2215,7 @@
 *   **28/02/2018:** Bộ Giáo dục và Đào tạo ban hành Thông tư 04 sửa đổi quy chế thi THPT Quốc gia và xét công nhận tốt nghiệp.
 *   **08/03/2018:** Ký kết Hiệp định CPTPP (thay thế TPP).
 *   **15/04/2018:** Thành Đoàn và gia đình tổ chức Lễ cải táng hài cốt Anh hùng liệt sĩ Nguyễn Văn Trỗi từ Nghĩa trang Văn Giáp (Quận 2) về an nghỉ tại Nghĩa trang Liệt sĩ TP. Hồ Chí Minh (Quận 9), bên cạnh các liệt sĩ tiêu biểu như Trần Văn Ơn, Trần Bội Cơ, Quách Thị Trang.
+*   **2019:** Họa sĩ Mai Đại Lưu có chuyến đi thực tế đến trường mầm non vùng cao ở Hà Giang, qua đường Thanh Niên và trận địa Vị Xuyên, lấy cảm hứng thai nghén dự án hội họa "Hoa đêm - Tỉnh giấc bình minh" tri ân các anh hùng liệt sĩ.
 *   **14/01/2019:** Hiệp định CPTPP chính thức có hiệu lực với Việt Nam.
 *   **07/06/2019:** Việt Nam trúng cử Ủy viên không thường trực HĐBA LHQ (nhiệm kỳ 2020-2021).
 *   **30/06/2019:** Ký Hiệp định EVFTA và EVIPA với Liên minh châu Âu (EU).
@@ -2239,6 +2252,7 @@
 *   **10/09/2023:** Tổng thống Hoa Kỳ Joe Biden thăm Việt Nam, nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện.
 *   **16/09/2023:** UNESCO đã công nhận Vịnh Hạ Long - Quần đảo Cát Bà là Di sản Thiên nhiên Thế giới liên tỉnh.
 *   **27/11/2023:** Nâng cấp quan hệ Đối tác Chiến lược Toàn diện với Nhật Bản.
+*   **2024:** Tổng kim ngạch xuất nhập khẩu qua các cửa khẩu của tỉnh Cao Bằng đạt 952,18 triệu USD, thể hiện sự vươn lên phát triển kinh tế mạnh mẽ của vùng đất biên cương từng chịu nhiều tàn phá trong chiến tranh.
 *   **18/01/2024:** Quốc hội thông qua Luật Đất đai (sửa đổi).
 *   **03/2024:** Bộ Công an thông báo hai tổ chức Nhóm Hỗ trợ người Thượng (MSGI) và Người Thượng vì Công lý (MSFJ) là tổ chức khủng bố. Các tổ chức này bị cáo buộc đã tuyên truyền, lôi kéo và chỉ đạo vụ tấn công khủng bố tại Đắk Lắk năm 2023 nhằm đòi ly khai, thành lập "Nhà nước Đêga".
 *   **07/03/2024:** Nâng cấp quan hệ Đối tác Chiến lược Toàn diện với Australia.
@@ -2258,7 +2272,10 @@
 *   **25/10/2024:** Trần Cẩm Tú được phân công giữ chức Thường trực Ban Bí thư Trung ương Đảng khóa XIII.
 *   **21/11/2024:** Nâng cấp quan hệ Đối tác Chiến lược Toàn diện với Malaysia.
 *   **01/12/2024:** Tổng Bí thư Tô Lâm chỉ đạo đẩy mạnh sáp nhập, tinh gọn bộ máy.
+*   **2025 - 2026:** Họa sĩ Mai Đại Lưu sáng tác và hoàn thiện nhiều tác phẩm hội họa quy mô lớn (như "Cho những người đã ngã xuống", "Hoa vàng rực rỡ") sử dụng chất liệu acrylic, cát, lá vàng để tưởng nhớ những người lính đã ngã xuống trong cuộc chiến đấu bảo vệ biên giới phía Bắc 1979.
 *   **05/01/2025:** Đội tuyển bóng đá nam Việt Nam vô địch AFF Cup.
+*   **05/02/2025:** Tổng Bí thư Tô Lâm cùng đoàn công tác Trung ương đã đến Nghĩa trang liệt sĩ quốc gia Vị Xuyên (Hà Giang) thành kính dâng hương tưởng nhớ các anh hùng liệt sĩ đã hy sinh vì sự nghiệp bảo vệ an ninh biên giới.
+*   **14/02/2025:** Đoàn công tác của Quân ủy Trung ương, Bộ Quốc phòng đã đến dâng hương tại Khu di tích lịch sử quốc gia Pò Hèn (Quảng Ninh), tri ân 86 cán bộ, chiến sĩ và nhân viên thương nghiệp đã anh dũng hy sinh bảo vệ biên cương.
 *   **26/02/2025:** Nâng cấp quan hệ Đối tác chiến lược toàn diện với New Zealand.
 *   **10/03/2025:** Nâng cấp quan hệ Đối tác chiến lược toàn diện với Indonesia.
 *   **12/03/2025:** Nâng cấp quan hệ Đối tác chiến lược toàn diện với Singapore.

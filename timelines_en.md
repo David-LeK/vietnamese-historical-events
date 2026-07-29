@@ -1955,6 +1955,7 @@
 *   **May 3, 1978:** The state carried out a nationwide currency exchange, unifying the currency. A new currency from the State Bank of Vietnam was issued, replacing the two old currencies in the two regions.
 *   **Jun. 29, 1978:** Vietnam was admitted as an official member of the Council for Mutual Economic Assistance (Comecon bloc).
 *   **Aug. 1978:** Former PRG Minister of Justice **Truong Nhu Tang** left Vietnam by boat due to post-war disagreements.
+*   **Aug. 25, 1978:** Le Dinh Chinh, an 18-year-old soldier, was assassinated by enemy forces in civilian clothing, becoming the first Vietnamese soldier to sacrifice his life on the northern border front.
 *   **Nov. 3, 1978:** Vietnam and the Soviet Union signed a Treaty of Friendship and Cooperation in Moscow.
 *   **Dec. 2, 1978:** With Vietnam's assistance, the Kampuchean United Front for National Salvation was founded in Snuol, Kratie, calling for the overthrow of the Pol Pot genocidal regime and appealing for Vietnam's help.
 *   **Dec. 13, 1978:** Backed by foreign support, the Khmer Rouge mobilized 19 divisions (approximately 80,000 to 100,000 troops) to launch a full-scale invasion of Vietnam across the entire border, but their advance was fiercely halted by Vietnamese forces.
@@ -1963,19 +1964,23 @@
 *   **Dec. 30, 1978 - Aug. 11, 1980:** The Socialist Republic of Vietnam issued multiple formal protests (on Dec. 30, 1978, Aug. 7, 1979, Feb. 5, 1980, and Aug. 11, 1980) against actions taken by the PRC, Taiwan, and other nations violating Vietnamese sovereignty over the archipelagos.
 *   **1979:** According to the loan agreement, Vietnam was scheduled to make its first debt repayment to Iraq. However, facing immense post-war difficulties and new border conflicts (against Pol Pot and the Chinese invasion), Vietnam was unable to pay. During a visit by Prime Minister Pham Van Dong, President Saddam Hussein's government made an unprecedented decision to loan Vietnam an additional 100 million USD to pay off the due debt to Iraq itself.
 *   **1979:** Nguyen Tuat, the father of martyr Nguyen Van Luom, passed away in Phan Rang - Thap Cham.
+*   **Jan. 1979:** The Political Officer School sent 238 students and cadres for an internship at units in Cao Bang and Lang Son. When the border war broke out shortly after, 218 of them directly participated in combat, and 22 heroically sacrificed their lives defending the national border.
 *   **Jan. 7, 1979:** Vietnamese volunteer troops, coordinating with the Kampuchean revolutionary armed forces, liberated the capital Phnom Penh, officially overthrowing the Pol Pot genocidal regime.
 *   **Jan. 8, 1979:** The People's Revolutionary Council of Cambodia, led by Heng Samrin, was established with the backing of Vietnam following the liberation of Phnom Penh.
 *   **Jan. 17, 1979:** The entirety of Cambodia was liberated from the Khmer Rouge.
 *   **Feb. 1979:** The Philippine President issued a decree claiming almost the entire Spratly archipelago under Philippine sovereignty.
-*   **Feb. 17, 1979:** China launched a massive invasion across the six northern border provinces of Vietnam (Sino-Vietnamese War) with a force ultimately exceeding 300,000 troops. The Chinese military employed "human wave" tactics and heavy artillery, causing extensive destruction to infrastructure in border towns like Lao Cai, Cao Bang, and Lang Son before meeting fierce resistance from Vietnamese local forces and militias.
+*   **Feb. 17, 1979:** China launched a massive invasion across the six northern border provinces of Vietnam (Sino-Vietnamese War) with a force estimated between 300,000 and over 600,000 troops. The Chinese military employed "human wave" tactics and heavy artillery, causing extensive destruction to infrastructure in border towns like Lao Cai, Cao Bang, and Lang Son before meeting fierce resistance from Vietnamese local forces and militias. Numerous soldiers fought bravely to the death, such as Lieutenant Nguyen Huu Que, who fell on this first day defending Hill 815 (Tra Linh, Cao Bang).
 *   **Feb. 18, 1979:** Vietnam and Cambodia signed a Treaty of Peace, Friendship, and Cooperation.
-*   **Mar. 5, 1979:** Vietnam issued a General Mobilization Order nationwide. On the same day, China announced its withdrawal of troops.
+*   **Feb. 27, 1979:** Around 10:00 AM, Chinese forces overwhelmed the defenses at Hill 815 (Tra Linh, Cao Bang) after intense artillery and infantry assaults. Lieutenant Phan Dinh Linh, commanding the only four remaining survivors of his unit, engaged in hand-to-hand combat and heroically sacrificed his life.
+*   **Mar. 5, 1979:** Vietnam issued a General Mobilization Order nationwide, prompting tens of thousands of youths across the country to eagerly enlist to defend the northern border. On the same day, China announced its withdrawal of troops.
 *   **Mar. 16, 1979:** China officially declared the completion of its troop withdrawal from Vietnam, concluding the intense phase of the 1979 border war, though border skirmishes continued for another decade.
 *   **Apr. 18, 1979:** The first round of Vietnam-China negotiations at the Deputy Foreign Minister level began in Hanoi.
 *   **Aug. 1979:** The 6th Conference of the Party Central Committee (4th tenure) issued a resolution on "The urgent situation and tasks," acknowledging difficulties and weaknesses in economic management and proposing a policy to "unfetter production."
 *   **Oct. 1, 1979:** The second national Population Census was conducted.
+*   **Dec. 20, 1979:** Martyr Phan Dinh Linh was posthumously awarded the title Hero of the People's Armed Forces and the Third Class Victory Medal for his extraordinary bravery at Hill 815.
 *   **1980s:** Despite facing significant difficulties due to the Iran-Iraq War, the Iraqi government agreed to Vietnam's proposal to defer its debt and accept repayment in the form of goods (rice, tea, clothing) and labor. Thousands of Vietnamese workers were sent to Iraq, contributing half of their salaries to debt repayment while helping their families.
 *   **1980s - 1990s:** Cuba supported Vietnam in preventive medicine by providing vaccines for meningitis, polio, and tetanus for Vietnamese children.
+*   **After Tet 1980:** Skirmishes and small-scale battles continued to occur occasionally at high points along the Lang Son border.
 *   **1980:** The People's Committee of Dong Hoi town built a memorial monument for Mother Suot in the center of the old ferry terminal on the Nhat Le River to honor her heroic sacrifice.
 *   **Mar. 30, 1980:** President Ton Duc Thang passed away. Vice President **Nguyen Huu Tho** served as Acting President (until July 1981).
 *   **Jul. 23, 1980:** Hero Pham Tuan, along with Soviet cosmonaut Viktor Vassilyevich Gorbatko, made a flight aboard the Soyuz 37 spacecraft as part of the Soviet Interkosmos program. He was the first Vietnamese person and also the first Asian person to fly into space. This made Vietnam the 10th country in the world to have a citizen fly into space.
@@ -1984,6 +1989,7 @@
 *   **Jan. 21, 1981:** The Council of Government issued Decision No. 25-CP, aiming to promote the autonomy in production and business and financial self-management of state-owned enterprises.
 *   **1982:** The Executive Committee of the Ho Chi Minh City Youth Union designated October 15—the anniversary of Nguyễn Văn Trỗi's martyrdom—as the Traditional Day of Ho Chi Minh City Young Workers and established the Nguyễn Văn Trỗi Award for outstanding young workers.
 *   **1982:** Vietnam established Hoang Sa District under the administration of Quang Nam - Da Nang province to manage the Paracel Islands.
+*   **Early 1982:** Despite severe infrastructure destruction from the 1979 war, military units stationed at the Cao Bang border actively assisted local residents in restoring agricultural production and rebuilding schools.
 *   **Mar. 1982:** The 5th National Congress of the Communist Party of Vietnam was held in Hanoi, setting out the Third Five-Year Plan (1981-1985).
 *   **Jun. 1982:** China's Xinhua News Agency reported the completion of a major new harbor on Triton Island (Dao Tri Ton) in the Paracel Islands, highlighting China's ongoing militarization and infrastructure development in the occupied territory.
 *   **Sep. 28, 1982:** The Council of Ministers issued a decision to make November 20th an annual Vietnamese Teachers' Day.
@@ -1991,7 +1997,10 @@
 *   **Dec. 9, 1982:** The Council of Ministers of Vietnam issued decisions restructuring the administrative management of the archipelagos.
 *   **Feb. 23, 1983:** Malaysia officially raised sovereignty claims over three islands in the Spratlys, which Vietnam formally protested on March 25.
 *   **Jun. 1983:** Malaysian troops occupied Swallow Reef (Hoa Lau) in the Spratlys and constructed facilities. Vietnam officially protested this action.
+*   **Summer 1983:** Border clashes intensified again in the Hoang Lien Son (Lao Cai) and Ha Tuyen (Ha Giang) regions.
+*   **Late 1983:** Chinese troops frequently conducted ambushes using mines and B41 rockets against Vietnamese vehicles on the border roads of Muong Khuong (Lao Cai).
 *   **Jun. 2, 1984:** The Chinese National People's Congress decided to establish a special administrative region comprising Hainan Island and the two archipelagos. The Vietnamese government strongly protested.
+*   **Jul. 12, 1984:** During the fierce border conflict in Vi Xuyen (Ha Giang), a massive Chinese artillery barrage targeted Vietnamese positions, causing heavy casualties for the Vietnamese forces, particularly on Hill 772. The intensely bombarded area became known to soldiers as the "Century Lime Kiln" (Lò vôi thế kỷ). It was here that soldiers like Nguyen Viet Ninh fought with the immortal motto carved on their rifle butts: "Live clinging to the rock, die turning into stone, becoming immortal."
 *   **Mar. 11, 1985:** Mikhail Gorbachev was elected General Secretary of the Communist Party of the Soviet Union, initiating the "Perestroika" (restructuring) and "Glasnost" (openness) policies.
 *   **Jun. 1985:** The 8th Conference of the Central Committee (5th tenure) issued a resolution on price-wage-money, deciding to definitively abolish the centralized bureaucratic subsidy mechanism.
 *   **Sep. 14, 1985:** A general adjustment of prices, wages, and money began nationwide, implementing a currency exchange at a rate of 10 old dong for 1 new dong.
@@ -2024,6 +2033,7 @@
 *   **Aug. 1989:** Vietnam completed the construction of an economic-scientific-technical service complex in the Spratlys, located on the Vietnamese continental shelf.
 *   **Sep. 26, 1989:** The last units of Vietnamese volunteer troops and military experts officially completed their withdrawal from Cambodia, concluding a 10-year international mission to help rebuild the country after the Khmer Rouge regime.
 *   **1990 - 1993:** As Cuba fell into the "Special Period" of severe economic crisis following the collapse of the Soviet Union and Eastern European socialist bloc, Vietnam launched campaigns to support Cuba, donating 50,000 tons of rice, clothing, and school supplies, demonstrating steadfast solidarity.
+*   **1990:** Construction began on the Vi Xuyen National Martyrs Cemetery in Ha Giang province, which would become the resting place for nearly 2,000 martyrs and a mass grave of soldiers who sacrificed their lives defending the northern border.
 *   **Mar. 15, 1990:** The Soviet Union amended Article 6 of its Constitution, abolishing the Communist Party's monopoly on power, establishing a multi-party system and the position of President of the USSR.
 *   **Apr. 22, 1990:** Major General Tran Cong Man, Editor-in-Chief of the People's Army Newspaper, published the article "The Battle is Not Over," warning about the trend of denying the Communist Party and Socialism in the Soviet Union and Eastern Europe.
 *   **Aug. 1990:** Chinese Premier Li Peng proposed the joint exploitation of the Spratly Islands area.
@@ -2079,6 +2089,7 @@
 *   **Jan. 29, 1996:** The Party and State posthumously awarded Thiều Văn Chỏi the title Hero of the People's Armed Forces for his outstanding military exploits.
 *   **Jun. 1996:** The 8th National Congress of the Communist Party of Vietnam set out the task of **accelerating the country's industrialization and modernization**.
 *   **1997:** The **regional financial-monetary crisis** began, negatively affecting Vietnam's economy, reducing its growth rate and investment attraction.
+*   **1997:** The remains of martyr Nguyen Huu Que, who fell defending Hill 815 in 1979, were successfully located in Coc Cang (Tra Linh, Cao Bang) by his family and repatriated to Thanh Hoa.
 *   **Jul. 1, 1997:** The Law on Cooperatives took effect, creating a legal basis for transforming agricultural cooperatives into new-style service models serving the household economy.
 *   **Nov. 19, 1997:** Internet services were officially made widely available in Vietnam, with Vietnam Posts and Telecommunications Group (VNPT) and Netnam Joint Stock Company being among the first to implement them.
 *   **Dec. 1997:** The 4th Conference of the Party Central Committee (8th tenure) set out a policy of upholding the spirit of self-reliance and self-strengthening, and leveraging internal resources to overcome the difficulties and challenges from the crisis.
@@ -2175,6 +2186,7 @@
 *   **Nov. 2014:** Construction of the Memorial Area for the Heroine and Martyr Nguyen Thi Ut (Ut Tich) commenced in Tam Ngai, Tra Vinh.
 *   **Nov. 27, 2014:** The Ví and Giặm folk songs of Nghe Tinh were recognized by UNESCO as a heritage.
 *   **2015:** Saigon commando Tran Van Lai was posthumously awarded the title Hero of the People's Armed Forces for his outstanding contributions and sacrifices.
+*   **Jan. 9, 2015:** The Prime Minister of Vietnam issued Directive 01/CT-TTg on organizing the all-people movement to participate in protecting territorial sovereignty and national border security in the new situation.
 *   **Jul. 2, 2015:** Phong Nha - Ke Bang National Park was recognized by UNESCO for the second time for its biodiversity.
 *   **Jul. 6 - 10, 2015:** General Secretary Nguyen Phu Trong paid his first official visit to the United States.
 *   **Sep. 21, 2015:** Announced that 43 million Vietnamese people had escaped poverty (according to the Millennium Development Goals).
@@ -2203,6 +2215,7 @@
 *   **Feb. 28, 2018:** The Ministry of Education and Training issued Circular 04 amending regulations for the National High School Exam and graduation recognition.
 *   **Mar. 8, 2018:** Signed the CPTPP Agreement (replacing the TPP).
 *   **Apr. 15, 2018:** The Ho Chi Minh City Youth Union and the family of Nguyễn Văn Trỗi organized the solemn reburial of his remains from Văn Giáp Cemetery (District 2) to the Ho Chi Minh City Martyrs' Cemetery (District 9), resting alongside notable heroic martyrs.
+*   **2019:** Painter Mai Dai Luu visited the former Vi Xuyen battlefield (Ha Giang) and was inspired to begin the epic art project "Night Flowers - Waking up to Dawn" (Hoa đêm - Tỉnh giấc bình minh) to tribute the fallen soldiers of the border defense war.
 *   **Jan. 14, 2019:** The CPTPP Agreement officially took effect for Vietnam.
 *   **Jun. 7, 2019:** Vietnam was elected as a non-permanent member of the UN Security Council (2020-2021 term).
 *   **Jun. 30, 2019:** Signed the EVFTA and EVIPA Agreements with the European Union (EU).
@@ -2239,6 +2252,7 @@
 *   **Sep. 10, 2023:** U.S. President Joe Biden visited Vietnam, upgrading relations to a Comprehensive Strategic Partnership.
 *   **Sep. 16, 2023:** UNESCO recognized Ha Long Bay - Cat Ba Archipelago as an inter-provincial World Natural Heritage site.
 *   **Nov. 27, 2023:** Upgraded relations to a Comprehensive Strategic Partnership with Japan.
+*   **2024:** The total import-export turnover through Cao Bang's border gates reached 952.18 million USD, demonstrating the strong economic revitalization and development of the former border battlegrounds.
 *   **Jan. 18, 2024:** The National Assembly passed the Land Law (amended).
 *   **Mar. 2024:** The Ministry of Public Security officially designated the Montagnard Support Group, Inc. (MSGI) and Montagnard Stand for Justice (MSFJ) as terrorist organizations based in the US, accusing them of recruiting, training, and directing the 2023 Dak Lak terrorist attack to establish a separate state.
 *   **Mar. 7, 2024:** Upgraded relations to a Comprehensive Strategic Partnership with Australia.
@@ -2258,7 +2272,10 @@
 *   **Oct. 25, 2024:** Tran Cam Tu was assigned to hold the position of Permanent Secretary of the Secretariat of the 13th tenure.
 *   **Nov. 21, 2024:** Upgraded relations to a Comprehensive Strategic Partnership with Malaysia.
 *   **Dec. 1, 2024:** General Secretary To Lam directed the acceleration of mergers and streamlining of the apparatus.
+*   **2025 - 2026:** Painter Mai Dai Luu completed several monumental artworks (including "Cho những người đã ngã xuống" and "Hoa vàng rực rỡ") utilizing materials like sand, gold leaf, and acrylic to commemorate the soldiers who sacrificed their lives in the 1979 border war.
 *   **Jan. 5, 2025:** The Vietnam national men's football team won the AFF Cup.
+*   **Feb. 5, 2025:** General Secretary To Lam and a central working delegation visited the Vi Xuyen National Martyrs Cemetery (Ha Giang) to offer incense and pay profound tribute to the heroes who sacrificed their lives for national independence and border defense.
+*   **Feb. 14, 2025:** A delegation from the Central Military Commission and the Ministry of Defense paid tribute at the Po Hen National Historical Relic (Quang Ninh), honoring the 86 border guards and trade staff who died defending the border in 1979.
 *   **Feb. 26, 2025:** Upgraded relations to a Comprehensive Strategic Partnership with New Zealand.
 *   **Mar. 10, 2025:** Upgraded relations to a Comprehensive Strategic Partnership with Indonesia.
 *   **Mar. 12, 2025:** Upgraded relations to a Comprehensive Strategic Partnership with Singapore.
