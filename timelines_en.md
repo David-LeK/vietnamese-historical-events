@@ -1134,6 +1134,7 @@
 
 ### **Period of Seeking National Salvation and Founding of the Party (1919 - 1930)**
 
+*   **1919:** Lò Văn Giá was born in Cọ village, Chiềng An commune, Mường La district (now Chiềng An ward, Sơn La city) into a poor Thai ethnic family. He later became an outstanding revolutionary guide and a Hero of the People's Armed Forces, renowned for his intelligence, bravery, and absolute loyalty to the revolution.
 *   **Jan. 1919:** Emperor Khai Dinh decreed the Metropolitan Examination of that year to be the "Imperial Grace Examination" (Ngu tu an khoa), which was the final Metropolitan Examination of the dynasty.
 *   **Feb. 1919:** Nguyen Ai Quoc joined the French Socialist Party.
 *   **Feb. 5, 1919:** The Association for the Intellectual and Moral Formation of the Annamites (AFIMA) was established in Hanoi, a cultural organization sponsored by the French colonialists to implement the "Franco-Vietnamese collaboration" policy.
@@ -1318,12 +1319,15 @@
 *   **1943:** Nguyen Tuat was transferred to the Nha Trang Post Office, bringing his family, including the 11-year-old Nguyen Van Luom, with him. A bilingual (French-Vietnamese) identity card for Luom was issued this year to allow him to take the Franco-Vietnamese degree exams in Annam. Luom continued his studies in Nha Trang for two years.
 *   **Jan. 1, 1943:** The Dai Viet Populist Revolutionary Party was founded.
 *   **Early 1943:** The Dai Viet Restoration Association was established.
+*   **Early 1943:** Under the direction of the Son La Prison Party Cell, the "Thai Youth National Salvation" (Đoàn thanh niên Thái cứu quốc) organization was established to gather patriotic youth. Lò Văn Giá joined this organization, becoming an outstanding mass element supporting the revolution from outside the prison.
+*   **Aug. 1943:** The Son La Prison Party Cell organized a historic prison break for key political prisoners to prepare for the General Uprising. Lò Văn Giá, fluent in the Hmong language and familiar with the Northwest terrain, was chosen to guide four communist fighters: Tran Dang Ninh, Nguyen Luong Bang, Nguyen Van Tran, and Luu Duc Hieu. After a 5-day arduous journey, he successfully guided them to safety in the Suoi Rut area (Hoa Binh). Upon returning to Son La, Lo Van Gia was arrested by the French colonialists. Unable to extract any confessions and powerless against his absolute loyalty, they secretly assassinated him.
 *   **Sep. 10, 1943:** Ho Chi Minh was released from prison in China.
 *   **Oct. 27, 1943:** Doctor Tran Van Lai was arrested by the French colonial administration and imprisoned in Hoa Lo, then Son La prison, for his patriotic activities.
 *   **Dec. 1, 1943:** The Cairo Declaration was issued by the US, UK, and China, affirming the intention to force Japan to return territories stolen from the Republic of China (Manchuria, Taiwan, Penghu). Notably, the Paracel and Spratly Islands were not mentioned in this declaration for return to China.
 *   **1944:** At the age of 13, after her father's death, Nguyen Thi Ut (Ut Tich), with the support of Viet Minh cadres, redeemed herself from a local landlord, escaping her life as a servant.
 *   **Early 1944:** The Dai Viet National Alliance (Dai Viet Quoc Gia Lien Minh) was formed, comprised of various nationalist parties such as the Dai Viet National Socialist Party, Dai Viet Nationalist Party, and Dai Viet Democratic Party.
 *   **Jun. 30, 1944:** The Vietnam Democratic Party was founded, gathering intellectuals and national bourgeoisie to join the Viet Minh Front.
+*   **Late 1944 - Early 1945:** Continuing under the direction of the Tonkin Party Committee (Xu uy Bac Ky) and the Son La Prison Party Cell, the revolutionary movement in Son La expanded to 60 bases across the province. The "Thai National Salvation" Association (Con tay chat muong) was established, drawing strength from Lo Van Gia's heroic sacrifice.
 *   **Dec. 22, 1944:** The Vietnam Propaganda and Liberation Army, the precursor to the Vietnam People's Army, was established in the Tran Hung Dao forest (Cao Bang).
 *   **Dec. 24-25, 1944:** The Vietnam Propaganda and Liberation Army won its first two battles at Phay Khat and Na Ngan.
 *   **1945 - 1946:** Nguyen Van Luom (the real-life "Luom") left his family to participate in revolutionary activities in Nha Trang. His family lost contact with him from this point until after the country's reunification.
@@ -1350,6 +1354,7 @@
 *   **Aug. 23, 1945:** The uprising succeeded in Hue.
 *   **Aug. 24, 1945:** Huynh Tan Phat designed and directed the construction of the Monumental Flagpole at the Nguyen Hue - Le Loi intersection (Saigon) to honor the Provisional Committee of Nam Bo.
 *   **Aug. 25, 1945:** The uprising succeeded in Saigon.
+*   **Aug. 26, 1945:** Following the momentum of the August Revolution, the uprising to seize power was successfully carried out in Son La province.
 *   **Aug. 28, 1945:** The National Liberation Committee was reorganized into the Provisional Government of the Democratic Republic of Vietnam. 200,000 Chiang Kai-shek troops, led by Lu Han, began to enter northern Vietnam (from the 16th parallel northwards).
 *   **Aug. 30, 1945:** Emperor Bao Dai read the Abdication Edict in Hue, ending the feudal regime in Vietnam.
 *   **Sep. 1945:** On the occasion of the first opening of school in the Democratic Republic of Vietnam, President Ho Chi Minh sent a letter to students.
@@ -2057,6 +2062,7 @@
 *   **May 27, 1994:** The 500kV North-South high-voltage power transmission line officially became operational, unifying the power grids of the three regions and resolving the power shortage in the South and Central regions.
 *   **Jun. 23, 1994:** The Vietnamese National Assembly authorized the government to ratify the United Nations Convention on the Law of the Sea (UNCLOS).
 *   **Dec. 17, 1994:** Ha Long Bay was recognized by UNESCO based on the criteria of its unique and aesthetically important natural landscape value.
+*   **Dec. 20, 1994:** Lò Văn Giá was posthumously awarded the title Hero of the People's Armed Forces by the Party and State, acknowledging his immense contributions to the national liberation struggle.
 *   **1995:** Fidel Castro visited Vietnam for the second time, receiving gifts from Quang Tri (a photo of his 1973 visit and local pepper) that reminded him of the region's strong recovery.
 *   **1995:** The Party and State posthumously awarded Nguyễn Văn Trỗi the title Hero of the People's Armed Forces.
 *   **1995:** During the severe US and international embargo against Iraq, Vietnamese Ambassador to Iraq Nguyen Quang Khai successfully persuaded Vinafood 1 to deliver a ship carrying 25,000 - 30,000 tons of rice to Iraq on credit. This marked the beginning of Vietnam becoming a major rice supplier to Iraq under the UN's "Oil for Food" program.

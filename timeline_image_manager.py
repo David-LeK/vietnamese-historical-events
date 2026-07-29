@@ -43,12 +43,42 @@ class TimelineImageManager:
         self.selected_remove_indices = set()
         self.source_vars = {}
 
+        self._setup_dark_theme()
         self.git_commit_id = self.get_git_commit_id()
         self.load_timelines()
         self.load_json_with_migration()
         self.setup_ui()
         self.refresh_line_list()
         self.update_status()
+
+    def _setup_dark_theme(self):
+        self.root.configure(bg="#2b2b2b")
+        style = ttk.Style()
+        style.theme_use("clam")
+        c = {
+            "bg": "#2b2b2b",
+            "fg": "#ffffff",
+            "text_bg": "#1e1e1e",
+            "text_fg": "#d4d4d4",
+            "entry_bg": "#3c3c3c",
+            "button_bg": "#3c3c3c",
+            "select_bg": "#264f78",
+            "scrollbar_bg": "#3c3c3c",
+            "scrollbar_trough": "#2b2b2b",
+        }
+        style.configure("TFrame", background=c["bg"])
+        style.configure("TLabel", background=c["bg"], foreground=c["fg"])
+        style.configure("TButton", background=c["button_bg"], foreground=c["fg"], borderwidth=1, focusthickness=3, focuscolor="none")
+        style.map("TButton", background=[("active", "#505050"), ("pressed", "#404040")])
+        style.configure("TEntry", fieldbackground=c["entry_bg"], foreground=c["fg"], insertcolor=c["fg"], borderwidth=1)
+        style.configure("TLabelFrame", background=c["bg"], foreground=c["fg"], bordercolor="#555555", lightcolor="#555555", darkcolor="#555555")
+        style.configure("TLabelframe.Label", background=c["bg"], foreground=c["fg"])
+        style.configure("TNotebook", background=c["bg"], tabmargins=[2, 2, 2, 0])
+        style.configure("TNotebook.Tab", background=c["button_bg"], foreground=c["fg"], padding=[8, 2], borderwidth=1)
+        style.map("TNotebook.Tab", background=[("selected", c["bg"])], expand=[("selected", [1, 1, 1, 0])])
+        style.configure("TPanedwindow", background=c["bg"])
+        style.configure("Vertical.TScrollbar", background=c["scrollbar_bg"], troughcolor=c["scrollbar_trough"], arrowcolor=c["fg"], bordercolor=c["scrollbar_trough"], lightcolor=c["scrollbar_trough"], darkcolor=c["scrollbar_trough"])
+        style.configure("Horizontal.TScrollbar", background=c["scrollbar_bg"], troughcolor=c["scrollbar_trough"], arrowcolor=c["fg"], bordercolor=c["scrollbar_trough"], lightcolor=c["scrollbar_trough"], darkcolor=c["scrollbar_trough"])
 
     def _git_run(self, args):
         try:
@@ -344,7 +374,10 @@ class TimelineImageManager:
         self.line_listbox = tk.Listbox(
             list_frame, yscrollcommand=list_scroll.set,
             font=("Segoe UI", 10), selectmode=tk.SINGLE,
-            borderwidth=1, relief=tk.SOLID
+            borderwidth=1, relief=tk.SOLID,
+            bg="#1e1e1e", fg="#d4d4d4",
+            selectbackground="#264f78", selectforeground="#ffffff",
+            highlightbackground="#3c3c3c"
         )
         list_scroll.config(command=self.line_listbox.yview)
         list_scroll.pack(side=tk.RIGHT, fill=tk.Y)
@@ -364,7 +397,10 @@ class TimelineImageManager:
         vi_scroll = ttk.Scrollbar(vi_frame, orient=tk.VERTICAL)
         self.vi_text = tk.Text(
             vi_frame, wrap=tk.WORD, font=("Segoe UI", 10),
-            yscrollcommand=vi_scroll.set, borderwidth=1, relief=tk.SOLID
+            yscrollcommand=vi_scroll.set, borderwidth=1, relief=tk.SOLID,
+            bg="#1e1e1e", fg="#d4d4d4", insertbackground="#d4d4d4",
+            selectbackground="#264f78", selectforeground="#ffffff",
+            highlightbackground="#3c3c3c"
         )
         vi_scroll.config(command=self.vi_text.yview)
         vi_scroll.pack(side=tk.RIGHT, fill=tk.Y)
@@ -376,7 +412,10 @@ class TimelineImageManager:
         en_scroll = ttk.Scrollbar(en_frame, orient=tk.VERTICAL)
         self.en_text = tk.Text(
             en_frame, wrap=tk.WORD, font=("Segoe UI", 10),
-            yscrollcommand=en_scroll.set, borderwidth=1, relief=tk.SOLID
+            yscrollcommand=en_scroll.set, borderwidth=1, relief=tk.SOLID,
+            bg="#1e1e1e", fg="#d4d4d4", insertbackground="#d4d4d4",
+            selectbackground="#264f78", selectforeground="#ffffff",
+            highlightbackground="#3c3c3c"
         )
         en_scroll.config(command=self.en_text.yview)
         en_scroll.pack(side=tk.RIGHT, fill=tk.Y)
@@ -407,7 +446,7 @@ class TimelineImageManager:
 
         canvas_frame = ttk.Frame(img_area_frame)
         canvas_frame.pack(fill=tk.BOTH, expand=True)
-        self.img_canvas = tk.Canvas(canvas_frame, borderwidth=1, relief=tk.SOLID)
+        self.img_canvas = tk.Canvas(canvas_frame, borderwidth=1, relief=tk.SOLID, bg="#2b2b2b", highlightbackground="#3c3c3c")
         img_h_scroll = ttk.Scrollbar(canvas_frame, orient=tk.HORIZONTAL, command=self.img_canvas.xview)
         img_v_scroll = ttk.Scrollbar(canvas_frame, orient=tk.VERTICAL, command=self.img_canvas.yview)
         self.img_canvas.configure(
@@ -429,14 +468,14 @@ class TimelineImageManager:
         paste_hint = ttk.Label(
             img_area_frame,
             text="Tip: Copy an image from your browser, then Ctrl+V here to paste it.",
-            font=("Segoe UI", 8), foreground="gray"
+            font=("Segoe UI", 8), foreground="#888888"
         )
         paste_hint.pack(anchor=tk.W)
 
         legend_label = ttk.Label(
             img_area_frame,
             text="Click 'Select' on an image to mark it for removal. Selected images have a red border.",
-            font=("Segoe UI", 8), foreground="gray"
+            font=("Segoe UI", 8), foreground="#888888"
         )
         legend_label.pack(anchor=tk.W)
 
@@ -604,6 +643,18 @@ class TimelineImageManager:
             entry["source"] = new_text
             self.save_json(silent=True)
 
+    def _normalized_image_name(self, ext):
+        now = datetime.datetime.now()
+        base_name = now.strftime("event_%Y%m%d_%H%M%S")
+        fname = base_name + ext
+        dest = IMAGES_DIR / fname
+        counter = 1
+        while dest.exists():
+            fname = f"{base_name}_{counter}{ext}"
+            dest = IMAGES_DIR / fname
+            counter += 1
+        return dest
+
     def add_images(self):
         if self.current_line_num is None:
             self.show_info("Please select a line first.")
@@ -626,15 +677,26 @@ class TimelineImageManager:
             ext = src.suffix.lower()
             if ext not in (".jpg", ".jpeg", ".png", ".gif", ".bmp", ".webp"):
                 continue
-            new_name = src.name
-            dest = IMAGES_DIR / new_name
-            counter = 1
-            while dest.exists():
-                stem = src.stem
-                new_name = f"{stem}_{counter}{ext}"
-                dest = IMAGES_DIR / new_name
-                counter += 1
-            shutil.copy2(str(src), str(dest))
+            
+            try:
+                # Convert and compress existing images to WEBP
+                with Image.open(src) as img_to_add:
+                    dest = self._normalized_image_name(".webp")
+                    img_w, img_h = img_to_add.size
+                    if img_w > 1200:
+                        ratio = 1200 / img_w
+                        resample_filter = Image.Resampling.LANCZOS if hasattr(Image, "Resampling") else Image.LANCZOS
+                        img_to_add = img_to_add.resize((1200, int(img_h * ratio)), resample_filter)
+                    
+                    if img_to_add.mode in ("RGBA", "P"):
+                        img_to_add.save(str(dest), "WEBP", quality=80)
+                    else:
+                        img_to_add.convert("RGB").save(str(dest), "WEBP", quality=80)
+            except Exception:
+                # Fallback to direct copy if conversion fails
+                dest = self._normalized_image_name(ext)
+                shutil.copy2(str(src), str(dest))
+
             rel_path = str(dest.relative_to(BASE_DIR))
             existing = [e for e in self.images_per_line[self.current_line_num]
                         if (e["path"] if isinstance(e, dict) else e) == rel_path]
@@ -675,6 +737,7 @@ class TimelineImageManager:
         dialog.geometry("500x580")
         dialog.transient(self.root)
         dialog.grab_set()
+        dialog.configure(bg="#2b2b2b")
 
         preview_size = (460, 360)
         preview = img.copy()
@@ -695,7 +758,7 @@ class TimelineImageManager:
         source_entry.focus_set()
 
         original_w, original_h = img.size
-        ttk.Label(info_frame, text=f"Size: {original_w} x {original_h} px", foreground="gray").pack(anchor=tk.W)
+        ttk.Label(info_frame, text=f"Size: {original_w} x {original_h} px", foreground="#888888").pack(anchor=tk.W)
 
         btn_frame = ttk.Frame(dialog)
         btn_frame.pack(pady=15)
@@ -707,33 +770,22 @@ class TimelineImageManager:
                     messagebox.showerror("Error", "No line selected.", parent=dialog)
                     return
 
+                # Compress and resize to WEBP to save massive amounts of space
                 save_img = img
-                ext = ".png"
-                try:
-                    if save_img.mode == "RGBA":
-                        ext = ".png"
-                    elif save_img.mode == "RGB":
-                        ext = ".jpg"
-                    else:
-                        save_img = save_img.convert("RGB")
-                        ext = ".jpg"
-                except Exception:
-                    ext = ".png"
+                ext = ".webp"
+                
+                img_w, img_h = save_img.size
+                if img_w > 1200:
+                    ratio = 1200 / img_w
+                    resample_filter = Image.Resampling.LANCZOS if hasattr(Image, "Resampling") else Image.LANCZOS
+                    save_img = save_img.resize((1200, int(img_h * ratio)), resample_filter)
 
-                now = datetime.datetime.now()
-                base_name = now.strftime("pasted_%Y%m%d_%H%M%S")
-                fname = base_name + ext
-                dest = IMAGES_DIR / fname
-                counter = 1
-                while dest.exists():
-                    fname = f"{base_name}_{counter}{ext}"
-                    dest = IMAGES_DIR / fname
-                    counter += 1
+                dest = self._normalized_image_name(ext)
 
-                if ext == ".jpg":
-                    save_img.convert("RGB").save(str(dest), "JPEG", quality=92)
+                if save_img.mode in ("RGBA", "P"):
+                    save_img.save(str(dest), "WEBP", quality=80)
                 else:
-                    save_img.save(str(dest))
+                    save_img.convert("RGB").save(str(dest), "WEBP", quality=80)
 
                 rel_path = str(dest.relative_to(BASE_DIR))
                 src_text = source_text_var.get().strip()
@@ -745,7 +797,7 @@ class TimelineImageManager:
                 self.display_images(line)
                 self.refresh_line_list()
                 self.save_json(silent=True)
-                self.show_info(f"Pasted {fname}")
+                self.show_info(f"Pasted {dest.name}")
                 dialog.destroy()
             except Exception as e:
                 import traceback

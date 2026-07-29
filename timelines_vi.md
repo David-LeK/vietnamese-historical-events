@@ -1134,6 +1134,7 @@
 
 ### **Giai đoạn Vận động Cứu nước và Thành lập Đảng (1919 - 1930)**
 
+*   **1919:** Lò Văn Giá sinh ra tại bản Cọ, xã Chiềng An, châu Mường La (nay là phường Chiềng An, thành phố Sơn La) trong một gia đình dân tộc Thái nghèo. Ông sau này trở thành một người dẫn đường cách mạng xuất sắc và Anh hùng Lực lượng vũ trang nhân dân, nổi tiếng với sự thông minh, lòng dũng cảm và tinh thần trung thành tuyệt đối với cách mạng.
 *   **01/1919:** (Tháng Giêng năm Khải Định thứ 4) Chuẩn y lấy khoa thi Hội năm này làm "Ngự tứ ân khoa", đây là khoa thi Hội cuối cùng của triều đình.
 *   **02/1919:** Nguyễn Ái Quốc gia nhập Đảng Xã hội Pháp.
 *   **05/02/1919:** Thành lập Hội Khai trí - Tiến đức (AFIMA) tại Hà Nội, một tổ chức văn hóa do thực dân Pháp bảo trợ nhằm thực hiện chính sách "Pháp-Việt đề huề".
@@ -1318,12 +1319,15 @@
 *   **1943:** Ông Nguyễn Tuất chuyển vào làm việc tại Bưu điện Nha Trang, đưa gia đình và cậu con trai 11 tuổi Nguyễn Văn Lượm đi theo. Lượm tiếp tục học tại đây 2 năm. Giấy căn cước bằng song ngữ Pháp - Việt của Lượm được cấp trong năm này để ứng thí các bằng cấp Pháp - Việt ở Trung Kỳ.
 *   **01/01/1943:** Đại Việt Duy dân Cách mệnh Đảng được thành lập.
 *   **Đầu năm 1943:** Đại Việt Phục hưng Hội được thành lập.
+*   **Đầu năm 1943:** Dưới sự chỉ đạo của Chi bộ Nhà tù Sơn La, tổ chức "Đoàn thanh niên Thái cứu quốc" (hay Thanh niên cứu quốc Mường La) được thành lập nhằm tập hợp thanh niên tham gia cách mạng. Lò Văn Giá đã gia nhập tổ chức này, trở thành một quần chúng ưu tú bên ngoài nhà tù.
+*   **08/1943:** Chi bộ Nhà tù Sơn La tổ chức cuộc vượt ngục lịch sử cho các tù chính trị cốt cán để chuẩn bị cho Tổng khởi nghĩa. Lò Văn Giá, người thạo tiếng Mông và địa hình Tây Bắc, được chọn dẫn đường cho 4 chiến sĩ cộng sản: Trần Đăng Ninh, Nguyễn Lương Bằng, Nguyễn Văn Trân và Lưu Đức Hiểu. Sau 5 ngày gian khổ, ông đã đưa đoàn đến đích an toàn tại khu vực Suối Rút (Hòa Bình). Khi quay lại Sơn La, Lò Văn Giá bị thực dân Pháp bắt. Không khai thác được chứng cứ và bất lực trước lòng trung thành tuyệt đối của ông, giặc Pháp đã lén lút thủ tiêu ông.
 *   **10/09/1943:** Hồ Chí Minh được trả tự do.
 *   **27/10/1943:** Bác sĩ Trần Văn Lai bị chính quyền thực dân Pháp bắt giam tại Hỏa Lò, sau đó đày lên nhà tù Sơn La vì các hoạt động yêu nước.
 *   **01/12/1943:** Tuyên cáo Cairo được công bố bởi Mỹ, Anh và Trung Quốc, khẳng định ý định buộc Nhật Bản trả lại các lãnh thổ đã chiếm đoạt của Trung Hoa Dân quốc (Mãn Châu, Đài Loan, Bành Hồ). Đáng chú ý, quần đảo Hoàng Sa và Trường Sa không được nhắc đến trong bản tuyên cáo này để trả lại cho Trung Quốc.
 *   **1944:** Ở tuổi 13, sau khi cha mất, Nguyễn Thị Út (Út Tịch) với sự hỗ trợ của cán bộ Việt Minh đã chuộc thân khỏi gia đình địa chủ Hàm Giỏi, thoát khỏi cảnh nô tỳ.
 *   **Đầu năm 1944:** Đại Việt Quốc gia Liên minh được thành lập, bao gồm Đại Việt Quốc xã, Đại Việt Quốc dân Đảng và Đại Việt Dân chính Đảng.
 *   **30/06/1944:** Đảng Dân chủ Việt Nam được thành lập, tập hợp tầng lớp tư sản dân tộc và trí thức yêu nước tham gia Mặt trận Việt Minh.
+*   **Cuối năm 1944 - Đầu năm 1945:** Tiếp tục dưới sự chỉ đạo của Xứ ủy Bắc Kỳ và Chi bộ Nhà tù Sơn La, phong trào cách mạng tại Sơn La đã phát triển được 60 cơ sở trong toàn tỉnh. Hội "Người Thái cứu quốc" (Côn tay chất mương) được thành lập, lấy cảm hứng từ tấm gương hy sinh anh dũng của Lò Văn Giá.
 *   **22/12/1944:** Đội Việt Nam Tuyên truyền Giải phóng quân, tiền thân của Quân đội Nhân dân Việt Nam, được thành lập tại khu rừng Trần Hưng Đạo (Cao Bằng).
 *   **24-25/12/1944:** Đội Việt Nam Tuyên truyền Giải phóng quân đánh thắng hai trận đầu tiên tại Phay Khắt và Nà Ngần.
 *   **1945 - 1946:** Nguyễn Văn Lượm (nguyên mẫu "chú bé Lượm") đi hoạt động cách mạng tại Nha Trang và thoát ly gia đình từ đó. Gia đình hoàn toàn bặt tin tức của cậu cho đến tận ngày miền Nam hoàn toàn giải phóng.
@@ -1350,6 +1354,7 @@
 *   **23/08/1945:** Khởi nghĩa thắng lợi ở Huế.
 *   **24/08/1945:** Huỳnh Tấn Phát thiết kế và chỉ đạo xây dựng Kỳ đài tại ngã tư Nguyễn Huệ - Lê Lợi (Sài Gòn) để ghi danh 11 ủy viên Lâm ủy Nam Bộ.
 *   **25/08/1945:** Khởi nghĩa thắng lợi ở Sài Gòn.
+*   **26/08/1945:** Hòa cùng khí thế của Cách mạng tháng Tám, cuộc khởi nghĩa giành chính quyền ở Sơn La đã diễn ra thắng lợi.
 *   **28/08/1945:** Ủy ban Dân tộc Giải phóng cải tổ thành Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa. 20 vạn quân Tưởng Giới Thạch do Lư Hán chỉ huy bắt đầu kéo vào miền Bắc Việt Nam (từ vĩ tuyến 16 trở ra).
 *   **30/08/1945:** Vua Bảo Đại đọc Chiếu thoái vị tại Huế, chấm dứt chế độ phong kiến ở Việt Nam.
 *   **09/1945:** Nhân ngày khai trường đầu tiên của nước Việt Nam Dân chủ Cộng hòa, Chủ tịch Hồ Chí Minh gửi thư cho học sinh.
@@ -2057,6 +2062,7 @@
 *   **27/05/1994:** Đường dây tải điện cao thế 500kV Bắc - Nam chính thức đi vào vận hành, hợp nhất hệ thống điện ba miền, giải quyết tình trạng thiếu điện ở miền Nam và miền Trung.
 *   **23/06/1994:** Quốc hội Việt Nam ủy quyền cho chính phủ phê chuẩn Công ước của Liên Hợp Quốc về Luật Biển (UNCLOS).
 *   **17/12/1994:** Vịnh Hạ Long được UNESCO công nhận dựa trên tiêu chí về giá trị cảnh quan thiên nhiên độc đáo và quan trọng về mặt thẩm mỹ.
+*   **20/12/1994:** Lò Văn Giá được Đảng và Nhà nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân nhằm ghi nhận những công lao to lớn của ông trong sự nghiệp đấu tranh giải phóng dân tộc.
 *   **1995:** Lãnh tụ Fidel Castro thăm Việt Nam lần thứ hai và xúc động khi nhận được những món quà từ Quảng Trị (bức ảnh thăm vùng giải phóng năm 1973 và hạt tiêu) như minh chứng cho sự hồi sinh của vùng đất này.
 *   **1995:** Đảng và Nhà nước truy tặng danh hiệu Anh hùng Lực lượng Vũ trang Nhân dân cho liệt sĩ Nguyễn Văn Trỗi.
 *   **1995:** Trong bối cảnh Iraq bị Mỹ và quốc tế cấm vận nghiêm ngặt, Đại sứ Việt Nam tại Iraq Nguyễn Quang Khai đã thuyết phục Công ty Lương thực miền Bắc (Vinafood 1) bán chịu một tàu gạo (25.000 - 30.000 tấn) cho Iraq. Sự kiện này mở đầu cho việc Việt Nam trở thành nhà cung cấp gạo chủ chốt cho Iraq thông qua chương trình "Đổi dầu lấy lương thực" của Liên Hợp Quốc.
