@@ -1223,6 +1223,7 @@
 *   **17/06/1929:** Đông Dương Cộng sản Đảng được thành lập tại Hà Nội.
 *   **15/11/1929:** An Nam Cộng sản Đảng được thành lập tại Sài Gòn.
 *   **19/12/1929:** Đặng Thị Kim (tên thường gọi là Đặng Thị Oanh) sinh ra tại làng Hành Thiện, xã Xuân Hồng, huyện Xuân Trường, tỉnh Nam Định. Bà sau này trở thành nữ chiến sĩ cách mạng kiên trung và Anh hùng Lực lượng vũ trang nhân dân.
+*   **1930:** Cù Chính Lan, người sau này trở thành anh hùng diệt xe tăng huyền thoại, sinh ra trong một gia đình nông dân nghèo ở xã Quỳnh Đôi, huyện Quỳnh Lưu, tỉnh Nghệ An. Mồ côi mẹ từ năm 4 tuổi, ông lớn lên trong cảnh nghèo đói dưới ách bóc lột hà khắc của chế độ thực dân phong kiến, rèn luyện nên tính cách cần cù, nhẫn nại và kiên cường.
 *   **1930 - 1932:** Các tàu chiến *Inconstant*, *Alerte*, *La Malicieuse* và *De Lanessan* của hải quân Pháp liên tiếp thực hiện các cuộc tuần tiễu và khẳng định chủ quyền tại quần đảo Hoàng Sa.
 *   **01/01/1930:** Đông Dương Cộng sản Liên đoàn chính thức thành lập tại Hà Tĩnh.
 *   **02/1930:** Cuộc khởi nghĩa Yên Bái do Việt Nam Quốc dân Đảng lãnh đạo nổ ra và thất bại.
@@ -1376,6 +1377,7 @@
 *   **25/10/1945:** Xứ ủy Nam Bộ họp hội nghị cán bộ ở Thiên Hộ (Mỹ Tho), đề ra phương hướng kháng chiến lâu dài.
 *   **11/11/1945:** Đảng Cộng sản Đông Dương tuyên bố "tự giải tán", thực chất là rút vào hoạt động bí mật.
 *   **25/11/1945:** Ban Thường vụ Trung ương Đảng ra Chỉ thị "Kháng chiến kiến quốc", xác định kẻ thù chính và nhiệm vụ trước mắt của cách mạng.
+*   **1946:** Sau khi thực dân Pháp trở lại xâm lược Việt Nam, Cù Chính Lan trở thành thế hệ thanh niên đầu tiên trong xã tình nguyện nhập ngũ. Ông nhanh chóng nổi bật trong học tập, công tác và chiến đấu, được đồng đội hết lòng mến phục.
 *   **01/01/1946:** Chính phủ lâm thời cải tổ thành Chính phủ liên hiệp lâm thời, có thêm thành viên của Việt Quốc và Việt Cách.
 *   **06/01/1946:** Cuộc Tổng tuyển cử đầu tiên bầu Quốc hội khóa I diễn ra trên cả nước.
 *   **31/01/1946:** Chính phủ ra Sắc lệnh cho phép phát hành giấy bạc Việt Nam tại vùng tự do Nam Trung Bộ.
@@ -1515,7 +1517,7 @@
 *   **23/03 - 07/04/1951:** Mở Chiến dịch Hoàng Hoa Thám (còn gọi là Chiến dịch đường số 18), tiến công phòng tuyến địch ở khu vực từ Phả Lại đến Uông Bí, Mạo Khê.
 *   **06/05/1951:** Chủ tịch Hồ Chí Minh ký sắc lệnh số 15/SL thành lập **Ngân hàng Quốc gia Việt Nam**.
 *   **17/05/1951:** Tổng thống Philippin Elpidio Quirino lên tiếng đòi hỏi chủ quyền đối với quần đảo Trường Sa cho Philippin, dựa trên lập luận về tính kế cận địa lý.
-*   **28/05 - 20/06/1951:** Mở Chiến dịch Quang Trung (Hà Nam Ninh) ở khu vực Hà Nam - Nam Định - Ninh Bình nhằm phá vỡ phòng tuyến sông Đáy của địch. Trong các đợt tấn công mở màn, trung úy Bernard de Lattre de Tassigny (con trai duy nhất của Tổng chỉ huy Pháp) đã tử trận tại Ninh Bình.
+*   **28/05 - 20/06/1951:** Mở Chiến dịch Quang Trung (Hà Nam Ninh) ở khu vực Hà Nam - Nam Định - Ninh Bình nhằm phá vỡ phòng tuyến sông Đáy của địch. Trong các đợt tấn công mở màn, trung úy Bernard de Lattre de Tassigny (con trai duy nhất của Tổng chỉ huy Pháp) đã tử trận tại Ninh Bình. Trong chiến dịch này, Cù Chính Lan cùng đại đội của mình dù trang bị thiếu thốn đã dũng cảm chiến đấu với 5 đại đội địch, cướp súng địch để diệt địch. Sau trận đánh này, ông được tuyên dương là "anh hùng tay không giết giặc".
 *   **28/06/1951:** Đảng Nhân dân Cách mạng Campuchia được thành lập.
 *   **15/07/1951:** Bảo Đại ký dụ "Tổng động viên", thành lập cái gọi là "quân đội quốc gia" nhằm thực hiện âm mưu "dùng người Việt đánh người Việt" của Pháp.
 *   **15/08/1951:** Bộ trưởng Ngoại giao Cộng hòa Nhân dân Trung Hoa Chu Ân Lai ra tuyên bố khẳng định các quyền lịch sử của Trung Quốc đối với các quần đảo nhằm đáp trả dự thảo hiệp ước hòa bình với Nhật Bản.
@@ -1524,13 +1526,20 @@
 *   **27/09 - 05/10/1951:** Ban Chấp hành Trung ương họp Hội nghị lần thứ hai, đề ra ba nhiệm vụ lớn: tiêu diệt sinh lực địch, phá âm mưu "lấy chiến tranh nuôi chiến tranh" của địch, và bồi dưỡng sức dân.
 *   **29/09 - 31/10/1951:** Mở Chiến dịch Lý Thường Kiệt, tiến công địch ở khu vực Nghĩa Lộ (Yên Bái).
 *   **10 - 14/11/1951:** Quân Pháp mở cuộc hành quân Hoa Tuylíp (đánh chiếm Chợ Bến) và Hoa Sen (chiếm thị xã Hòa Bình) nhằm lập phòng tuyến ngăn chặn liên lạc của Việt Minh.
+*   **24/11/1951:** Tổng Quân ủy quyết định mở Chiến dịch Hòa Bình, sử dụng ba Đại đoàn 306, 312, 304 vây hãm và tiêu diệt quân cơ giới địch ở mặt trận Hòa Bình nhằm đập tan âm mưu lập "Xứ Mường tự trị" và cắt đứt liên lạc của lực lượng kháng chiến.
 *   **12/1951:** Mỹ ký Hiệp ước an ninh chung với chính phủ Bảo Đại, tăng cường can thiệp vào Đông Dương.
-*   **10/12/1951 - 25/02/1952:** Quân đội Việt Nam mở **Chiến dịch Hòa Bình**. Mở màn bằng trận tiêu diệt cứ điểm Tu Vũ (10/12). Ngày 13/12, anh hùng Cù Chính Lan dùng lựu đạn diệt xe tăng Pháp tại Dốc Giang Mỗ. Đến ngày 25/02, quân Pháp buộc phải rút chạy hoàn toàn khỏi Hòa Bình.
+*   **07/12/1951:** Trong trận Giang Mỗ lần thứ nhất, khi trận địa mai phục bị lộ và địch bắn trả dữ dội, có lệnh tạm thời rút lui. Cù Chính Lan đã dũng cảm đi sau cùng, dùng súng máy bắn kiềm chế địch cho đơn vị rút, rồi quay lại tìm và đưa được 3 đồng chí bị thương về đơn vị an toàn.
+*   **10/12/1951 - 25/02/1952:** Quân đội Việt Nam mở **Chiến dịch Hòa Bình**. Mở màn bằng trận tiêu diệt cứ điểm Tu Vũ (10/12). Đến ngày 25/02, quân Pháp buộc phải rút chạy hoàn toàn khỏi Hòa Bình.
+*   **13/12/1951:** Trận Giang Mỗ lần thứ hai diễn ra. Sau khi diệt gọn một đại đội địch, quân ta bị một xe tăng viện binh của Pháp (do Mỹ sản xuất mang số hiệu B2885498 USA) bắn dữ dội chặn đường rút. Cù Chính Lan dũng cảm nhảy lên xe tăng đang chạy. Khi tiểu liên bị hóc, ông gọi đồng đội đưa lựu đạn, nhảy lên xe lần nữa, giật nắp, chờ khói thuốc xì ra vài giây rồi ném lựu đạn vào buồng lái tiêu diệt toàn bộ lính trong xe. Chiến công oanh liệt này đã mở đầu phong trào đánh xe tăng và cơ giới địch bằng vũ khí thông thường trong toàn quân. Ông được tặng thưởng Huân chương Quân công hạng ba và danh hiệu "Anh hùng đánh xe tăng".
+*   **28 - 29/12/1951:** Cù Chính Lan tham gia trận đánh tiêu diệt đồn Cô Tô trong Chiến dịch Hòa Bình. Mặc dù bị thương rất nặng hai lần, ông vẫn dũng cảm xông lên phá liên tiếp 5 lớp hàng rào dây thép gai. Bị thương nặng lần thứ ba, ông kiên quyết không rời trận địa, tiếp tục chỉ huy và động viên tiểu đội tiến vào diệt địch. Ông đã anh dũng hy sinh ngay khi trận đánh vừa kết thúc thắng lợi. Năm đó ông tròn 20 tuổi, là tiểu đội trưởng bộ binh Đại đoàn 304, đảng viên Đảng Cộng sản Việt Nam.
 *   **1952:** Vừ A Dính được Chính phủ truy tặng Huân chương Quân công hạng ba.
 *   **1952:** Làng đúc đồng Ngũ Xã xin phép chính quyền Hà Nội dùng số đồng thu được từ các pho tượng thực dân Pháp (do Thị trưởng Trần Văn Lai cho giật đổ năm 1945) để đúc bức tượng Phật A Di Đà nặng 12.300 kg đặt tại chùa Phúc Long.
 *   **11/01/1952:** Tổng chỉ huy Pháp Tướng Jean de Lattre de Tassigny qua đời vì bạo bệnh tại Pháp.
 *   **26/03/1952:** Maurice Faure, báo cáo viên về luật phê chuẩn Hiệp ước Hòa bình San Francisco tại Quốc hội Pháp, cho rằng việc Nhật Bản từ bỏ quần đảo Hoàng Sa và Trường Sa khiến các đảo này trở thành *terra derelictae* (đất đai bị bỏ rơi). Quan điểm này mâu thuẫn với các tuyên bố khác của Pháp khẳng định các quần đảo thuộc Liên hiệp Pháp.
+*   **05/1952:** Tại Đại hội liên hoan Anh hùng và Chiến sĩ thi đua toàn quốc lần thứ nhất, Cù Chính Lan được Chính phủ và Chủ tịch Hồ Chí Minh truy tặng Huân chương Quân công hạng hai và Huân chương Kháng chiến hạng nhất vì tinh thần chủ nghĩa anh hùng cách mạng sáng ngời.
 *   **01 - 06/05/1952:** Đại hội toàn quốc các chiến sĩ thi đua và cán bộ gương mẫu lần thứ nhất được tổ chức để tổng kết và biểu dương phong trào thi đua ái quốc.
+*   **19/05/1952:** Liệt sĩ Cù Chính Lan được Chủ tịch nước Việt Nam Dân chủ Cộng hòa truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân. Ông là 1 trong 7 người đầu tiên trên toàn quốc được nhận danh hiệu cao quý này.
+*   **10/08/1952:** Tại buổi lễ Tuyên dương công trạng, khi nghe đọc báo cáo về Anh hùng Cù Chính Lan, từ trên Đoàn Chủ tịch, Bác Hồ đã đề nghị toàn thể hội trường đứng dậy mặc niệm người con ưu tú của dân tộc.
 *   **14/10 - 10/12/1952:** Mở **Chiến dịch Tây Bắc**. Các chiến thắng quan trọng gồm việc hạ phân khu Nghĩa Lộ (18/10), và đánh bại cuộc hành quân Lorraine của Pháp bằng trận phục kích Chân Mộng - Trạm Thản (17/11). Chiến dịch giải phóng một vùng rộng lớn bao gồm Điện Biên Phủ (30/11) và toàn tỉnh Sơn La (trừ Nà Sản), nối liền căn cứ địa Việt Bắc với Thượng Lào.
 *   **1953:** Lê Văn Ba trở về miền Nam chiến đấu và kết hôn với Lê Thị Riêng.
 *   **25-30/01/1953:** Ban Chấp hành Trung ương họp Hội nghị lần thứ tư, quyết định phát động quần chúng triệt để giảm tô, thực hiện giảm tức và chuẩn bị cho cải cách ruộng đất.
@@ -1687,6 +1696,7 @@
 *   **1964:** Anh hùng Núp (Đinh Núp) sang thăm Cuba. Lãnh tụ Fidel Castro đã gửi tặng Chủ tịch Hồ Chí Minh một hộp xì gà Cuba và nhờ Anh hùng Núp chuyển lời khẳng định Cuba luôn sát cánh cùng Việt Nam.
 *   **1964:** Út Tịch được kết nạp vào Đảng Nhân dân cách mạng miền Nam.
 *   **1964 - 1967:** Sau Sự kiện Vịnh Bắc Bộ, dù đã gần 60 tuổi, Mẹ Suốt vẫn xung phong chèo đò ngang qua sông Nhật Lệ (Quảng Bình) dưới làn mưa bom bão đạn của không quân Mỹ. Bà đã vận chuyển an toàn hàng ngàn lượt cán bộ, thương binh và vũ khí, ước tính mỗi năm thực hiện tới 1.400 chuyến đò.
+*   **1964:** Xưởng phim Hà Nội phối hợp cùng Điện ảnh Quân đội nhân dân Việt Nam sản xuất bộ phim "Người chiến sĩ trẻ", khắc họa chân thực và sinh động cuộc đời cũng như sự hy sinh anh dũng của Cù Chính Lan để giáo dục truyền thống cho thế hệ trẻ.
 *   **30/01/1964:** Tướng Nguyễn Khánh thực hiện cuộc "Chỉnh lý" lật đổ chính quyền quân sự của Dương Văn Minh, tiếp tục gây bất ổn chính trị tại Sài Gòn.
 *   **Đầu năm 1964:** Nhân dịp Tết Nguyên Đán, Nguyễn Văn Trỗi ra căn cứ Rừng Thơm (huyện Đức Hòa, tỉnh Long An) học chính trị và nghệ thuật đánh biệt động nội thành.
 *   **03/1964:** Mỹ vạch ra **Kế hoạch Johnson - McNamara**, tăng cường viện trợ, đưa thêm cố vấn, đẩy mạnh các hoạt động phá hoại miền Bắc.
@@ -1852,6 +1862,7 @@
 *   **12/10/1972:** Bí thư thứ nhất Lê Duẩn gửi điện cho Trung ương Cục miền Nam về "Nhiệm vụ cấp bách khi công bố Hiệp định Pari", chỉ đạo tranh thủ thời cơ giành quyền làm chủ ở nông thôn và các vùng ven đô thị, hình thành thế "da báo" có lợi cho cách mạng.
 *   **20/10/1972:** Việt Nam Dân chủ Cộng hòa và Hoa Kỳ đạt được thỏa thuận về dự thảo "Hiệp định về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam".
 *   **18 - 30/12/1972:** Chiến dịch Linebacker II (Điện Biên Phủ trên không). Nhằm gây sức ép buộc Việt Nam Dân chủ Cộng hòa nhượng bộ các điều khoản cốt lõi của Hiệp định Paris, Mỹ huy động gần 50% số máy bay ném bom chiến lược B-52 (197 chiếc) và hàng ngàn máy bay chiến thuật ném bom rải thảm hủy diệt Hà Nội, Hải Phòng (phá sập phố Khâm Thiên, Bệnh viện Bạch Mai...). Lực lượng Phòng không - Không quân Việt Nam đã áp dụng chiến thuật sáng tạo (như cẩm nang "vạch nhiễu tìm thù"), bắn rơi 81 máy bay Mỹ, trong đó có 34 chiếc B-52 (16 chiếc rơi tại chỗ), vượt xa mức thiệt hại Mỹ có thể chịu đựng. Đòn giáng trả kinh rợn này đập tan uy thế của Không quân chiến lược Mỹ, buộc Tổng thống Nixon phải đơn phương ngừng ném bom vào ngày 30/12 và chấp nhận ký Hiệp định Paris theo nội dung dự thảo có lợi cho Việt Nam.
+*   **22/12/1972:** Bộ phim "Người chiến sĩ trẻ" được chiếu cho các chiến sĩ trước giờ lên chốt Sơn Na, một điểm chốt khốc liệt trên mặt trận Thừa Thiên Huế. Hình tượng người anh hùng Cù Chính Lan đã gây xúc động mạnh mẽ, tiếp thêm động lực tinh thần to lớn cho bộ đội trước khi bước vào trận chiến.
 *   **30/12/1972:** Mỹ buộc phải tuyên bố ngừng ném bom miền Bắc từ vĩ tuyến 20 trở ra và chấp nhận nối lại đàm phán.
 
 ### **Tổng tiến công và Nổi dậy Mùa Xuân 1975, Giải phóng Hoàn toàn Miền Nam (1973 - 04/1975)**
@@ -2209,6 +2220,7 @@
 
 ### **Thời kỳ Hội nhập CPTPP & EVFTA và Đối phó Đại dịch COVID-19 (2017 - 2020)**
 
+*   **25/07/2017:** Khu tưởng niệm Anh hùng, liệt sĩ Cù Chính Lan tại xã Quỳnh Đôi, huyện Quỳnh Lưu, tỉnh Nghệ An chính thức được khánh thành, trở thành địa chỉ đỏ để tri ân và giáo dục truyền thống yêu nước cho các thế hệ mai sau.
 *   **06 - 11/11/2017:** Việt Nam đăng cai Tuần lễ Cấp cao APEC 2017 tại Đà Nẵng.
 *   **07/12/2017:** Nghệ thuật Bài chòi Trung Bộ được UNESCO công nhận là di sản.
 *   **27/01/2018:** Đội tuyển U23 Việt Nam lọt vào chung kết U23 châu Á.
