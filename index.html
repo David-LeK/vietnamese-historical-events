@@ -168,22 +168,22 @@
     
     <!-- Top Navigation Header -->
     <header class="sticky top-0 z-40 bg-[#F4EBD0]/95 backdrop-blur-md border-b-2 border-parchment-gold/40 shadow-sm transition-all duration-200">
-      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between gap-4">
+      <div class="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8 min-h-[4rem] py-2 sm:py-0 sm:h-20 flex items-center justify-between gap-2 sm:gap-4">
         
         <!-- Brand Title & Logo -->
-        <div class="flex items-center gap-3">
-          <div class="w-10 h-10 rounded-lg bg-parchment-accent text-parchment-bg flex items-center justify-center shadow-md border border-parchment-gold">
-            <svg class="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <div class="flex items-center gap-2 sm:gap-3 min-w-0 flex-1">
+          <div class="w-8 h-8 sm:w-10 sm:h-10 rounded-lg bg-parchment-accent text-parchment-bg flex items-center justify-center shadow-md border border-parchment-gold flex-shrink-0">
+            <svg class="w-5 h-5 sm:w-6 sm:h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
               <path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/>
               <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1-2.5-2.5Z"/>
             </svg>
           </div>
-          <div>
-            <h1 class="font-display font-bold text-xl sm:text-2xl text-parchment-accent tracking-tight flex items-center gap-2">
+          <div class="min-w-0 flex-1">
+            <h1 class="font-display font-bold text-sm sm:text-lg md:text-xl lg:text-2xl text-parchment-accent tracking-tight leading-snug truncate">
               <span id="header-title-en" class="hidden">Vietnamese Historical Timelines</span>
               <span id="header-title-vi">Dòng Thời Gian Lịch Sử Việt Nam</span>
             </h1>
-            <p class="text-xs text-parchment-subtle font-medium tracking-wide">
+            <p class="text-[10px] sm:text-xs text-parchment-subtle font-medium tracking-wide truncate">
               <span id="header-subtitle-en" class="hidden">500,000+ Years of History & Epochs</span>
               <span id="header-subtitle-vi">Hơn 500.000 Năm Lịch Sử & Các Thời Kỳ</span>
             </p>
@@ -191,10 +191,10 @@
         </div>
 
         <!-- Action Bar Buttons (Search, Random, Bookmarks, Contrast, i18n) -->
-        <div class="flex items-center gap-2 sm:gap-3">
+        <div class="flex items-center gap-1.5 sm:gap-2 md:gap-3 flex-shrink-0">
           
           <!-- Random Event Button -->
-          <button id="btn-random-event" title="Khám phá sự kiện ngẫu nhiên" class="p-2.5 sm:px-3 sm:py-2 rounded-lg bg-parchment-card hover:bg-parchment-gold/30 border border-parchment-gold/60 text-parchment-accent font-semibold text-xs sm:text-sm flex items-center gap-1.5 transition-all duration-200 hover:-translate-y-0.5 active:translate-y-0 shadow-sm">
+          <button id="btn-random-event" title="Khám phá sự kiện ngẫu nhiên" class="p-2 sm:px-3 sm:py-2 rounded-lg bg-parchment-card hover:bg-parchment-gold/30 border border-parchment-gold/60 text-parchment-accent font-semibold text-xs sm:text-sm flex items-center gap-1.5 transition-all duration-200 hover:-translate-y-0.5 active:translate-y-0 shadow-sm">
             <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
               <path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/>
             </svg>
@@ -202,16 +202,16 @@
           </button>
 
           <!-- Bookmarks Drawer Toggle Button -->
-          <button id="btn-toggle-bookmarks" title="Sự kiện đã lưu" class="relative p-2.5 sm:px-3 sm:py-2 rounded-lg bg-parchment-card hover:bg-parchment-gold/30 border border-parchment-gold/60 text-parchment-accent font-semibold text-xs sm:text-sm flex items-center gap-1.5 transition-all duration-200 hover:-translate-y-0.5 active:translate-y-0 shadow-sm">
+          <button id="btn-toggle-bookmarks" title="Sự kiện đã lưu" class="relative p-2 sm:px-3 sm:py-2 rounded-lg bg-parchment-card hover:bg-parchment-gold/30 border border-parchment-gold/60 text-parchment-accent font-semibold text-xs sm:text-sm flex items-center gap-1.5 transition-all duration-200 hover:-translate-y-0.5 active:translate-y-0 shadow-sm">
             <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
               <path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/>
             </svg>
             <span class="hidden md:inline" data-i18n="btnSaved">Đã Lưu</span>
-            <span id="bookmark-badge" class="hidden absolute -top-1.5 -right-1.5 w-5 h-5 bg-parchment-accent text-white text-[10px] font-bold rounded-full flex items-center justify-center">0</span>
+            <span id="bookmark-badge" class="hidden absolute -top-1.5 -right-1.5 w-4 h-4 sm:w-5 sm:h-5 bg-parchment-accent text-white text-[9px] sm:text-[10px] font-bold rounded-full flex items-center justify-center">0</span>
           </button>
 
           <!-- Accessibility High Contrast Toggle -->
-          <button id="btn-toggle-contrast" title="Chế độ tương phản cao WCAG AAA" class="p-2.5 rounded-lg bg-parchment-card hover:bg-parchment-gold/30 border border-parchment-gold/60 text-parchment-text font-semibold text-xs sm:text-sm flex items-center gap-1.5 transition-all duration-200 hover:-translate-y-0.5 active:translate-y-0 shadow-sm">
+          <button id="btn-toggle-contrast" title="Chế độ tương phản cao WCAG AAA" class="p-2 sm:p-2.5 rounded-lg bg-parchment-card hover:bg-parchment-gold/30 border border-parchment-gold/60 text-parchment-text font-semibold text-xs sm:text-sm flex items-center gap-1.5 transition-all duration-200 hover:-translate-y-0.5 active:translate-y-0 shadow-sm">
             <svg class="w-4 h-4 text-parchment-accent" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
               <circle cx="12" cy="12" r="10"/>
               <path d="M12 2a10 10 0 0 0 0 20z"/>
@@ -220,7 +220,7 @@
           </button>
 
           <!-- Language Switcher Toggle (EN/VI) -->
-          <button id="btn-toggle-lang" title="Đổi ngôn ngữ / Switch Language" class="px-3 py-2 rounded-lg bg-parchment-accent hover:bg-[#6b0000] text-parchment-bg font-bold text-xs sm:text-sm flex items-center gap-1.5 shadow-sm transition-all duration-200 hover:-translate-y-0.5">
+          <button id="btn-toggle-lang" title="Đổi ngôn ngữ / Switch Language" class="px-2.5 py-1.5 sm:px-3 sm:py-2 rounded-lg bg-parchment-accent hover:bg-[#6b0000] text-parchment-bg font-bold text-xs sm:text-sm flex items-center gap-1.5 shadow-sm transition-all duration-200 hover:-translate-y-0.5">
             <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
               <circle cx="12" cy="12" r="10"/>
               <line x1="2" y1="12" x2="22" y2="12"/>
@@ -631,6 +631,17 @@
       let isHighContrast = false;
       let activeModalEventId = null;
       let typewriterTimer = null;
+      let currentPage = 1;
+      const ITEMS_PER_PAGE = 35;
+
+      // Utility: Debounce for input performance
+      function debounce(func, wait = 150) {
+        let timeout;
+        return function(...args) {
+          clearTimeout(timeout);
+          timeout = setTimeout(() => func.apply(this, args), wait);
+        };
+      }
 
       // DOM Elements
       const eventsContainer = document.getElementById('events-container');
@@ -760,10 +771,12 @@
 
       // Event Listeners
       function setupEventListeners() {
+        const debouncedApplyFilters = debounce(applyFilters, 150);
+
         // Search & Filters Input
         searchInput.addEventListener('input', () => {
           btnClearSearch.classList.toggle('hidden', !searchInput.value);
-          applyFilters();
+          debouncedApplyFilters();
         });
 
         btnClearSearch.addEventListener('click', () => {
@@ -773,7 +786,7 @@
         });
 
         filterEra.addEventListener('change', applyFilters);
-        filterYear.addEventListener('input', applyFilters);
+        filterYear.addEventListener('input', debouncedApplyFilters);
         filterMonth.addEventListener('change', applyFilters);
         filterDay.addEventListener('change', applyFilters);
 
@@ -852,6 +865,7 @@
       // Filter Logic Engine
       function applyFilters() {
         if (!window.TIMELINE_EVENTS) return;
+        currentPage = 1;
 
         const query = searchInput.value.trim().toLowerCase();
         const eraVal = filterEra.value;
@@ -974,6 +988,74 @@
         return str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#039;");
       }
 
+      // Global Page Switcher
+      window.goToPage = function(page) {
+        const totalPages = Math.ceil(activeEvents.length / ITEMS_PER_PAGE);
+        if (page < 1 || page > totalPages || page === currentPage) return;
+        currentPage = page;
+        renderEvents();
+        const container = document.getElementById('events-container');
+        if (container) {
+          window.scrollTo({ top: container.offsetTop - 90, behavior: 'smooth' });
+        }
+      };
+
+      // Pagination Controls Component
+      function renderPagination(totalPages, eventsCount) {
+        if (totalPages <= 1) return '';
+
+        const from = ((currentPage - 1) * ITEMS_PER_PAGE) + 1;
+        const to = Math.min(eventsCount, currentPage * ITEMS_PER_PAGE);
+
+        let pageButtons = '';
+        const maxButtons = 5;
+        let startPage = Math.max(1, currentPage - 2);
+        let endPage = Math.min(totalPages, startPage + maxButtons - 1);
+
+        if (endPage - startPage + 1 < maxButtons) {
+          startPage = Math.max(1, endPage - maxButtons + 1);
+        }
+
+        for (let p = startPage; p <= endPage; p++) {
+          const isActive = p === currentPage;
+          pageButtons += `
+            <button onclick="goToPage(${p})" class="w-8 h-8 sm:w-9 sm:h-9 rounded-lg text-xs sm:text-sm font-bold transition-all ${isActive ? 'bg-parchment-accent text-white shadow-md border border-parchment-accent' : 'bg-parchment-card hover:bg-parchment-gold/40 border border-parchment-gold text-parchment-text'}">
+              ${p}
+            </button>
+          `;
+        }
+
+        return `
+          <div class="flex flex-col sm:flex-row items-center justify-between gap-3 my-6 py-4 border-t border-b border-parchment-gold/40 px-4 bg-parchment-card/50 rounded-lg shadow-sm">
+            <div class="text-xs font-semibold text-parchment-subtle">
+              ${currentLang === 'vi' 
+                ? `Hiển thị <span class="text-parchment-accent font-bold">${from} - ${to}</span> trên tổng <span class="text-parchment-accent font-bold">${eventsCount.toLocaleString()}</span> sự kiện (Trang ${currentPage}/${totalPages})`
+                : `Showing <span class="text-parchment-accent font-bold">${from} - ${to}</span> of <span class="text-parchment-accent font-bold">${eventsCount.toLocaleString()}</span> events (Page ${currentPage}/${totalPages})`}
+            </div>
+
+            <div class="flex items-center gap-1 sm:gap-1.5 select-none">
+              <button onclick="goToPage(1)" ${currentPage === 1 ? 'disabled class="opacity-40 cursor-not-allowed px-2 py-1 rounded bg-parchment-card border border-parchment-gold/40 text-xs"' : 'class="px-2 py-1 rounded bg-parchment-card hover:bg-parchment-gold/40 border border-parchment-gold text-xs font-bold text-parchment-accent transition-colors"'} title="Trang đầu">
+                «
+              </button>
+              
+              <button onclick="goToPage(${currentPage - 1})" ${currentPage === 1 ? 'disabled class="opacity-40 cursor-not-allowed px-2.5 py-1 rounded bg-parchment-card border border-parchment-gold/40 text-xs"' : 'class="px-2.5 py-1 rounded bg-parchment-card hover:bg-parchment-gold/40 border border-parchment-gold text-xs font-bold text-parchment-accent transition-colors"'} title="Trang trước">
+                ‹
+              </button>
+
+              ${pageButtons}
+
+              <button onclick="goToPage(${currentPage + 1})" ${currentPage === totalPages ? 'disabled class="opacity-40 cursor-not-allowed px-2.5 py-1 rounded bg-parchment-card border border-parchment-gold/40 text-xs"' : 'class="px-2.5 py-1 rounded bg-parchment-card hover:bg-parchment-gold/40 border border-parchment-gold text-xs font-bold text-parchment-accent transition-colors"'} title="Trang tiếp">
+                ›
+              </button>
+
+              <button onclick="goToPage(${totalPages})" ${currentPage === totalPages ? 'disabled class="opacity-40 cursor-not-allowed px-2 py-1 rounded bg-parchment-card border border-parchment-gold/40 text-xs"' : 'class="px-2 py-1 rounded bg-parchment-card hover:bg-parchment-gold/40 border border-parchment-gold text-xs font-bold text-parchment-accent transition-colors"'} title="Trang cuối">
+                »
+              </button>
+            </div>
+          </div>
+        `;
+      }
+
       // Render Events Matrix
       function renderEvents() {
         eventsContainer.innerHTML = '';
@@ -985,20 +1067,32 @@
           emptyState.classList.add('hidden');
         }
 
+        const totalPages = Math.ceil(activeEvents.length / ITEMS_PER_PAGE);
+        if (currentPage > totalPages) currentPage = Math.max(1, totalPages);
+
+        const paginatedEvents = activeEvents.slice((currentPage - 1) * ITEMS_PER_PAGE, currentPage * ITEMS_PER_PAGE);
+
+        const paginationHtml = renderPagination(totalPages, activeEvents.length);
+
         if (currentView === 'timeline') {
-          renderTimelineView();
+          renderTimelineView(paginatedEvents);
         } else if (currentView === 'grid') {
-          renderGridView();
+          renderGridView(paginatedEvents);
         } else {
-          renderTableView();
+          renderTableView(paginatedEvents);
+        }
+
+        if (paginationHtml) {
+          const pagDiv = document.createElement('div');
+          pagDiv.innerHTML = paginationHtml;
+          eventsContainer.appendChild(pagDiv);
         }
       }
 
       // 1. TIMELINE VIEW RENDERER
-      function renderTimelineView() {
-        // Group active events by Era
+      function renderTimelineView(eventsList) {
         const grouped = {};
-        activeEvents.forEach(ev => {
+        eventsList.forEach(ev => {
           if (!grouped[ev.eraIndex]) grouped[ev.eraIndex] = [];
           grouped[ev.eraIndex].push(ev);
         });
@@ -1009,7 +1103,6 @@
           const era = window.TIMELINE_ERAS[eraIdx];
           const eraTitle = currentLang === 'vi' ? era.titleVi : era.titleEn;
 
-          // Era Section Header Banner
           const eraHeader = document.createElement('div');
           eraHeader.className = 'sticky top-20 z-30 bg-[#F4EBD0] py-3 my-4 border-y-2 border-parchment-gold/60 flex items-center justify-between shadow-sm px-4 rounded-lg border-illuminated';
           eraHeader.innerHTML = `
@@ -1021,7 +1114,6 @@
           `;
           eventsContainer.appendChild(eraHeader);
 
-          // Timeline Tree Container
           const tree = document.createElement('div');
           tree.className = 'relative pl-6 sm:pl-8 border-l-2 border-parchment-gold/80 space-y-6 ml-3 sm:ml-4 my-4';
 
@@ -1034,17 +1126,14 @@
             card.className = 'relative bg-parchment-card/90 hover:bg-parchment-card border border-parchment-gold/70 hover:border-parchment-accent rounded-lg p-4 sm:p-5 shadow-parchment hover:shadow-elevated transition-all duration-200 group hover:-translate-y-0.5 cursor-pointer';
 
             card.innerHTML = `
-              <!-- Timeline Connector Node -->
               <div class="absolute -left-[31px] sm:-left-[39px] top-5 w-4 h-4 rounded-full bg-parchment-accent border-2 border-[#F4EBD0] shadow-sm group-hover:scale-125 transition-transform duration-200"></div>
               
               <div class="flex flex-col sm:flex-row sm:items-start justify-between gap-2 mb-2">
-                <!-- Date Badge Tag -->
                 <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-md bg-parchment-accent text-parchment-bg font-display font-bold text-xs shadow-sm self-start">
                   <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/></svg>
                   ${highlightText(dateStr, query)}
                 </span>
 
-                <!-- Action Controls -->
                 <div class="flex items-center gap-2 self-end sm:self-auto opacity-80 group-hover:opacity-100 transition-opacity">
                   <button class="btn-bookmark-item p-1.5 rounded-md hover:bg-parchment-gold/40 text-parchment-accent" title="Lưu sự kiện" data-id="${ev.id}">
                     <svg class="w-4 h-4 ${isBookmarked ? 'fill-parchment-accent' : ''}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>
@@ -1052,12 +1141,10 @@
                 </div>
               </div>
 
-              <!-- Main Event Description -->
               <p class="text-sm sm:text-base font-semibold text-parchment-text leading-relaxed">
                 ${highlightText(descStr, query)}
               </p>
 
-              <!-- Sub-bullet Items indicator if present -->
               ${ev.subsVi && ev.subsVi.length > 0 ? `
                 <div class="mt-3 pt-2 border-t border-parchment-gold/30 text-xs font-semibold text-parchment-accent flex items-center gap-1">
                   <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="8" x2="21" y1="6" y2="6"/><line x1="8" x2="21" y1="12" y2="12"/><line x1="8" x2="21" y1="18" y2="18"/><line x1="3" x2="3.01" y1="6" y2="6"/><line x1="3" x2="3.01" y1="12" y2="12"/><line x1="3" x2="3.01" y1="18" y2="18"/></svg>
@@ -1082,12 +1169,12 @@
       }
 
       // 2. GRID VIEW RENDERER
-      function renderGridView() {
+      function renderGridView(eventsList) {
         const grid = document.createElement('div');
         grid.className = 'grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5';
         const query = searchInput.value.trim().toLowerCase();
 
-        activeEvents.forEach(ev => {
+        eventsList.forEach(ev => {
           const dateStr = currentLang === 'vi' ? ev.dateVi : ev.dateEn;
           const descStr = currentLang === 'vi' ? ev.descVi : ev.descEn;
           const era = window.TIMELINE_ERAS[ev.eraIndex];
@@ -1134,7 +1221,7 @@
       }
 
       // 3. TABLE VIEW RENDERER
-      function renderTableView() {
+      function renderTableView(eventsList) {
         const query = searchInput.value.trim().toLowerCase();
         const tableCard = document.createElement('div');
         tableCard.className = 'bg-parchment-card border border-parchment-gold rounded-lg shadow-parchment overflow-x-auto';
@@ -1152,7 +1239,7 @@
             <tbody class="divide-y divide-parchment-gold/30">
         `;
 
-        activeEvents.forEach(ev => {
+        eventsList.forEach(ev => {
           const dateStr = currentLang === 'vi' ? ev.dateVi : ev.dateEn;
           const descStr = currentLang === 'vi' ? ev.descVi : ev.descEn;
           const era = window.TIMELINE_ERAS[ev.eraIndex];
