@@ -259,11 +259,11 @@
         <div class="pt-4 flex flex-wrap items-center justify-center gap-6 text-xs sm:text-sm font-semibold text-parchment-text">
           <div class="flex items-center gap-2 bg-parchment-card/80 px-3.5 py-1.5 rounded-lg border border-parchment-gold/50 shadow-sm">
             <span class="w-2 h-2 rounded-full bg-parchment-accent"></span>
-            <span id="stat-total-events">2,223</span> <span data-i18n="statEvents">Sự kiện lịch sử</span>
+            <span id="stat-total-events"></span> <span data-i18n="statEvents">Sự kiện lịch sử</span>
           </div>
           <div class="flex items-center gap-2 bg-parchment-card/80 px-3.5 py-1.5 rounded-lg border border-parchment-gold/50 shadow-sm">
             <span class="w-2 h-2 rounded-full bg-parchment-goldDark"></span>
-            <span>37</span> <span data-i18n="statEras">Thời kỳ lịch sử</span>
+            <span id="stat-total-eras"></span> <span data-i18n="statEras">Thời kỳ lịch sử</span>
           </div>
           <div class="flex items-center gap-2 bg-parchment-card/80 px-3.5 py-1.5 rounded-lg border border-parchment-gold/50 shadow-sm">
             <span class="w-2 h-2 rounded-full bg-emerald-700"></span>
@@ -389,17 +389,17 @@
 
           <!-- View Layout Switcher (Timeline, Cards, Table) -->
           <div class="flex items-center bg-[#F4EBD0] p-1 rounded-lg border border-parchment-gold">
-            <button id="view-timeline" title="Chế độ Dòng Thời Gian" data-i18n-title="titleTimeline" class="view-btn px-3 py-1 rounded-md text-xs font-bold bg-parchment-accent text-white transition-all duration-200 flex items-center gap-1">
+            <button id="view-timeline" title="Chế độ Dòng Thời Gian" data-i18n-title="titleTimeline" class="view-btn px-3 py-1 rounded-md text-xs font-bold bg-parchment-accent text-white shadow-sm transition-all duration-200 flex items-center gap-1">
               <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
               <span data-i18n="viewTimeline">Dòng Thời Gian</span>
             </button>
 
-            <button id="view-grid" title="Chế độ Thẻ Grid" data-i18n-title="titleGrid" class="view-btn px-3 py-1 rounded-md text-xs font-bold text-parchment-text hover:text-parchment-accent transition-all duration-200 flex items-center gap-1">
+            <button id="view-grid" title="Chế độ Thẻ Grid" data-i18n-title="titleGrid" class="view-btn px-3 py-1 rounded-md text-xs font-bold text-parchment-text hover:text-parchment-accent hover:bg-parchment-gold/20 transition-all duration-200 flex items-center gap-1">
               <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect width="7" height="7" x="3" y="3" rx="1"/><rect width="7" height="7" x="14" y="3" rx="1"/><rect width="7" height="7" x="14" y="14" rx="1"/><rect width="7" height="7" x="3" y="14" rx="1"/></svg>
               <span data-i18n="viewGrid">Lưới Thẻ</span>
             </button>
 
-            <button id="view-table" title="Chế độ Bảng Thu Gọn" data-i18n-title="titleTable" class="view-btn px-3 py-1 rounded-md text-xs font-bold text-parchment-text hover:text-parchment-accent transition-all duration-200 flex items-center gap-1">
+            <button id="view-table" title="Chế độ Bảng Thu Gọn" data-i18n-title="titleTable" class="view-btn px-3 py-1 rounded-md text-xs font-bold text-parchment-text hover:text-parchment-accent hover:bg-parchment-gold/20 transition-all duration-200 flex items-center gap-1">
               <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" x2="21" y1="6" y2="6"/><line x1="3" x2="21" y1="12" y2="12"/><line x1="3" x2="21" y1="18" y2="18"/></svg>
               <span data-i18n="viewTable">Bảng Thu Gọn</span>
             </button>
@@ -679,6 +679,12 @@
       let currentPage = 1;
       const ITEMS_PER_PAGE = 35;
 
+      // Utility: Format numbers according to locale ('.' for VI, ',' for EN)
+      function formatNumber(num) {
+        if (num === null || num === undefined) return '';
+        return num.toLocaleString(currentLang === 'vi' ? 'vi-VN' : 'en-US');
+      }
+
       // Utility: Debounce for input performance
       function debounce(func, wait = 150) {
         let timeout;
@@ -737,6 +743,7 @@
         populateMonthOptions();
         populateEraOptions();
         updateBookmarkBadge();
+        updateHeroStats();
         typewriterEffect();
 
         // Initial Data render
@@ -773,10 +780,27 @@
         filterMonth.value = selectedVal;
       }
 
+      // Update Dynamic Hero Stats Banner
+      function updateHeroStats() {
+        const statTotalEventsEl = document.getElementById('stat-total-events');
+        if (statTotalEventsEl && window.TIMELINE_EVENTS) {
+          statTotalEventsEl.textContent = formatNumber(window.TIMELINE_EVENTS.length);
+        }
+        const statTotalErasEl = document.getElementById('stat-total-eras');
+        if (statTotalErasEl && window.TIMELINE_ERAS) {
+          statTotalErasEl.textContent = formatNumber(window.TIMELINE_ERAS.length);
+        }
+      }
+
       // Populate Era Dropdown
       function populateEraOptions() {
         if (!window.TIMELINE_ERAS) return;
-        filterEra.innerHTML = `<option value="ALL">${i18n[currentLang].optAllEras}</option>`;
+        const eraCount = formatNumber(window.TIMELINE_ERAS.length);
+        const optAllText = currentLang === 'vi' 
+          ? `-- Tất cả ${eraCount} thời kỳ --` 
+          : `-- All ${eraCount} historical eras --`;
+        
+        filterEra.innerHTML = `<option value="ALL">${optAllText}</option>`;
         window.TIMELINE_ERAS.forEach(era => {
           const opt = document.createElement('option');
           opt.value = era.index;
@@ -838,6 +862,8 @@
         document.getElementById('header-subtitle-vi').classList.toggle('hidden', currentLang !== 'vi');
 
         langIndicator.textContent = currentLang.toUpperCase();
+        
+        updateHeroStats();
         populateEraOptions();
         populateMonthOptions();
         applyFilters();
@@ -910,19 +936,26 @@
 
       function setViewMode(mode) {
         currentView = mode;
-        const btns = [viewTimelineBtn, viewGridBtn, viewTableBtn];
-        btns.forEach(btn => {
-          btn.classList.remove('bg-parchment-accent', 'text-white');
-          btn.classList.add('text-parchment-text');
-        });
+        const activeClasses = ['bg-parchment-accent', 'text-white', 'shadow-sm'];
+        const inactiveClasses = ['text-parchment-text', 'hover:text-parchment-accent', 'hover:bg-parchment-gold/20'];
 
-        if (mode === 'timeline') {
-          viewTimelineBtn.classList.add('bg-parchment-accent', 'text-white');
-        } else if (mode === 'grid') {
-          viewGridBtn.classList.add('bg-parchment-accent', 'text-white');
-        } else {
-          viewTableBtn.classList.add('bg-parchment-accent', 'text-white');
-        }
+        const viewMap = {
+          timeline: viewTimelineBtn,
+          grid: viewGridBtn,
+          table: viewTableBtn
+        };
+
+        Object.keys(viewMap).forEach(key => {
+          const btn = viewMap[key];
+          if (!btn) return;
+          if (key === mode) {
+            btn.classList.remove(...inactiveClasses);
+            btn.classList.add(...activeClasses);
+          } else {
+            btn.classList.remove(...activeClasses);
+            btn.classList.add(...inactiveClasses);
+          }
+        });
 
         renderEvents();
       }
@@ -991,7 +1024,7 @@
         });
 
         updateFilterPills(query, eraVal, yearVal, monthVal, dayVal);
-        resultsCountEl.textContent = activeEvents.length.toLocaleString();
+        resultsCountEl.textContent = formatNumber(activeEvents.length);
 
         renderEvents();
       }
@@ -1105,8 +1138,8 @@
           <div class="flex flex-col sm:flex-row items-center justify-between gap-3 my-6 py-4 border-t border-b border-parchment-gold/40 px-4 bg-parchment-card/50 rounded-lg shadow-sm">
             <div class="text-xs font-semibold text-parchment-subtle">
               ${currentLang === 'vi' 
-                ? `Hiển thị <span class="text-parchment-accent font-bold">${from} - ${to}</span> trên tổng <span class="text-parchment-accent font-bold">${eventsCount.toLocaleString()}</span> sự kiện (Trang ${currentPage}/${totalPages})`
-                : `Showing <span class="text-parchment-accent font-bold">${from} - ${to}</span> of <span class="text-parchment-accent font-bold">${eventsCount.toLocaleString()}</span> events (Page ${currentPage}/${totalPages})`}
+                ? `Hiển thị <span class="text-parchment-accent font-bold">${formatNumber(from)} - ${formatNumber(to)}</span> trên tổng <span class="text-parchment-accent font-bold">${formatNumber(eventsCount)}</span> sự kiện (Trang ${currentPage}/${totalPages})`
+                : `Showing <span class="text-parchment-accent font-bold">${formatNumber(from)} - ${formatNumber(to)}</span> of <span class="text-parchment-accent font-bold">${formatNumber(eventsCount)}</span> events (Page ${currentPage}/${totalPages})`}
             </div>
 
             <div class="flex items-center gap-1 sm:gap-1.5 select-none">
@@ -1186,7 +1219,7 @@
               <span class="w-3 h-3 rounded-full bg-parchment-accent shadow-sm"></span>
               <h3 class="font-display font-bold text-base sm:text-lg text-parchment-accent tracking-tight">${escapeHtml(eraTitle)}</h3>
             </div>
-            <span class="text-xs font-bold text-parchment-subtle bg-parchment-card px-2.5 py-1 rounded-md border border-parchment-gold">${grouped[eraIdx].length} ${i18n[currentLang].statEvents}</span>
+            <span class="text-xs font-bold text-parchment-subtle bg-parchment-card px-2.5 py-1 rounded-md border border-parchment-gold">${formatNumber(grouped[eraIdx].length)} ${i18n[currentLang].statEvents}</span>
           `;
           eventsContainer.appendChild(eraHeader);
 
