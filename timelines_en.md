@@ -27,7 +27,7 @@
 
 ### **Nation Building and Northern Domination Period (800 BC - 938)**
 
-*   **7th century BC:** According to *Viet su luoc*, the Van Lang nation was born.
+*   **7th century BC (1st millennium BC):** According to *Viet su luoc*, the Van Lang nation was born. It was the first primitive state in Vietnam, formed on the basis of the Dong Son culture, bringing together 15 Lac Viet tribes in the plains and midlands. This state was later succeeded by the Au Lac kingdom.
 *   **5th century BC:** Regarded by some historians as the "century of the South" due to the widespread influence of ancient Southeast Asian cultures (including the ancestors of the Vietnamese) in agriculture, metallurgy, and mythology.
 *   **Approximately 500 BC:** Dong Nai Culture period (Southeast region), a metallurgical culture connecting the Bronze and Iron Ages.
 *   **Around the 3rd - 2nd century BC:** Buddhism was introduced to Vietnam by sea from India. This was the earliest religion to arrive and has been localized, becoming a dominant ideology in national culture throughout many historical periods.
@@ -173,6 +173,7 @@
 *   **992:** King Le Dai Hanh returned 360 prisoners captured in Dia Ly to Champa. He ordered *Phu quoc* Ngo Tu An to open a land route from Nam Gioi port (Ha Tinh) through Ngang Pass to Dia Ly prefecture (Quang Binh).
 *   **995:** Dai Co Viet naval forces (around 100 ships) attacked Nhu Hong (Qinzhou, Song dynasty) to capture fugitives. In the summer, 5,000 Dai Co Viet troops attacked Yongzhou (Song) but were repelled.
 *   **996:** Le Dai Hanh received Song envoy Li Ruozhuo, continuing to assert independence and dismissing responsibility for border raids.
+*   **11th century (Ly Dynasty):** The state implemented the "Ngu binh u nong" (lodging the military in agriculture) policy, maintaining a standing army that took turns returning to their villages for agricultural production. The dynasty also mandated regular performance evaluations (khao hach) for civil and military mandarins every 9 years to determine promotions or demotions.
 *   **1005:** Le Dai Hanh passed away. After internal strife, Le Long Dinh killed his brother Le Long Viet to seize the throne.
 *   **Jun. 1006:** The Song Emperor refused a petition by local official Ling Ce (Lang Sach) to invade Vietnam during the turmoil of Le Long Dinh's reign, preferring to maintain peace.
 
@@ -182,7 +183,7 @@
 *   **1009:** Before Ly Cong Uan's ascension, Zen Master Van Hanh issued prophecies regarding the fall of the Le dynasty and the rise of the Ly dynasty.
 *   **Nov. 21, 1009:** Le Long Dinh (Le Ngoa Trieu) passed away. Ly Cong Uan was enthroned as king (Ly Thai To), founding the Ly dynasty.
 *   **Jul. 1010:** Ly Thai To issued the "Royal Edict on the Transfer of the Capital," moving the capital from Hoa Lu to Dai La Citadel and renaming it Thang Long. Hoa Lu was renamed Truong Yen prefecture.
-*   **Dec. 1010:** Ly Thai To carried out administrative reforms, dividing the country into 24 routes (lo).
+*   **Dec. 1010:** Ly Thai To carried out administrative reforms, dividing the country into 24 routes (lo), below which were phu - chau, huyen - huong, and giap.
 *   **1013:** Ly Thai To established a taxation system for the whole country, including taxes on mulberry fields, promoting sericulture and financial autonomy.
 *   **Jun. 1018:** The court sent an envoy to the Song dynasty to request the Tripitaka scriptures.
 *   **1019:** The "Heavenly Book" (Thien Thu) was completed by the Song court (under Chancellor Wang Qinruo) to claim divine mandate. This document later became the target of Ly Thuong Kiet's psychological warfare in his famous poem.
@@ -252,6 +253,7 @@
 *   **1181:** A great famine occurred, causing nearly half the population to die.
 *   **1198:** King Ly Cao Tong, following the advice of Dam Di Mong, ordered the dismissal of monks who did not strictly follow precepts, forcing them to return to secular life to perform corvee labor, reorganizing Buddhism and society.
 *   **13th century:** Italian explorer Marco Polo visited and described Con Dao Island in his memoirs. In the same century, Islam was also introduced, primarily through the Cham community.
+*   **13th century (Tran Dynasty):** The state established the specialized positions of *Ha de su* (Dike Commissioner) and *Don dien su* (State Farm Commissioner) across routes (lo) to manage irrigation, dike construction, and agricultural expansion. The period for evaluating mandarins was set to 15 years.
 *   **1203:** King Ly Cao Tong ordered the construction of many lavish palaces, causing further misery to the people, and banditry arose.
 *   **Aug. 1207:** King Ly Cao Tong issued a royal edict apologizing to the people for his negligence and mistakes in governance that led to hardships, promising reforms.
 *   **1208:** Pham Du rebelled in Nghe An. King Ly Cao Tong sent Pham Binh Di to suppress the rebellion, but later falsely accused and imprisoned Binh Di, triggering the Quach Boc rebellion in the capital.
@@ -324,6 +326,7 @@
 *   **1299:** Emperor Tran Nhan Tong issued an edict requiring students nationwide to focus on their studies in preparation for upcoming civil service examinations.
 *   **Oct. 3, 1300 (15th of the 8th lunar month, Ky Hoi):** Hung Dao Vuong Tran Quoc Tuan passed away at his private residence in Van Kiep. Prior to his death, when King Tran Anh Tong personally visited him to ask for national defense strategies, he advised: "Ease the strength of the people to make a deep root and durable base," considering it the best strategy for national defense.
 *   **Around the 14th century:** The legends of Lac Long Quan and Au Co, Phu Dong Thien Vuong (Saint Giong), and Son Tinh - Thuy Tinh were first recorded in the historical book **Lĩnh Nam chích quái**.
+*   **Late 14th century - First half of the 19th century:** Vietnam witnessed broad social struggle movements. Unlike pure peasant uprisings against feudal landlords, these movements typically gathered diverse forces—including poor peasants, dissatisfied scholars, some landlords, and local officials—uniting against corrupt local despots and degenerated ruling cliques.
 *   **1304:** Mac Dinh Chi, known for his diplomatic wit which impressed the Yuan court (earning him the title "Two-Nation First Laureate"), passed the imperial examination as Trang Nguyen.
 *   **1304:** The largest "Thai hoc sinh" (National University student) examination since the beginning of the Tran dynasty was held during the reign of Emperor Tran Anh Tong. The Emperor created the additional title "Hoang giap" to designate candidates who passed in the second tier (De nhi giap).
 *   **1306:** The Champa king Che Man (Jaya Simhavarman III) offered the two prefectures of O and Ly as a wedding gift to marry Princess Huyen Tran.
@@ -445,6 +448,7 @@
 *   **Aug. 1400:** The Ho court organized the first Thai hoc sinh (National University student) examination, passing 20 people, including Nguyen Trai.
 *   **Dec. 1400:** Ho Quy Ly ceded the throne to his son Ho Han Thuong, proclaiming himself Retired Emperor but retaining absolute power. The court began taxing merchant ships according to three tiers.
 *   **1401:** The Ever-Normal Granary (Thuong binh) was established, using paper money to buy and store rice for famine relief and market price stabilization. The penal code of Dai Ngu was formulated.
+*   **15th century:** The monarchical regime shifted towards a Confucian bureaucratic and despotic model. The state divided communes (lang xa) into three categories (large, medium, and small), implementing regulations on population, commune head elections, and the "quan dien" (equal-field) system while maintaining the traditional commune structure. The method of training and recruiting mandarins shifted primarily to the examination system (regional and metropolitan exams), alongside the traditional hereditary privilege system (nhiem tu, tap am) for high-ranking nobles.
 *   **Mar. 1401:** Ho Han Thuong issued a decree "limiting household slaves," regulating the number of slaves allowed based on official rank.
 *   **Apr. 1401:** The Ho dynasty ordered the re-establishment of nationwide household registers, including all males from 2 years old and up, as a basis for military conscription.
 *   **1402:** Ho Han Thuong reformed the poll tax and land tax. The poll tax was levied based on land area; landless people, orphans, and widows were exempted. The Nam Giao sacrifice ceremony was re-established at Don Son. Royal court music was organized.
@@ -583,7 +587,8 @@
 *   **1463:** The first metropolitan examination under Emperor Le Thanh Tong took place on a massive scale with 4,400 candidates participating. This examination marked the first time the names of laureates were publicly called outside the Thai Hoc house and displayed on a golden board.
 *   **1466:** Le Thanh Tong divided the country into 12 Thua Tuyen provinces. He established the **Five Military Commissions** (Ngu Phu) and consolidated the Six Ministries system, reorganizing the administrative and military structure.
 *   **1469:** King Le Thanh Tong ordered the mapping of the 12 Thua Tuyen provinces. Thua Tuyen Nam Sach was renamed Thua Tuyen Hai Duong; this was the first time the name "Hai Duong" appeared.
-*   **1471:** The "Tam Ty" (Three Offices: Commander, Administration, Surveillance) system was established in Thuan Hoa and Quang Nam.
+*   **1470 - 1497 (Hong Duc Era):** Under Emperor Le Thanh Tong, the mandarin system was considered the most exemplary of the Le dynasty, enforcing strict discipline and preventing the abuse of power. The performance evaluation period (khao khoa) for mandarins was redefined to every 3 years. The *Quoc trieu hinh luat* (Hong Duc Code) was completed, uniquely featuring progressive laws that protected women's rights (e.g., equal inheritance, the right to divorce if abandoned for five months), respected ethnic minorities' customs, and protected vulnerable populations.
+*   **1471:** Emperor Le Thanh Tong issued the "Hieu dinh quan che" (Revision of the Mandarin System), a major political reform establishing principles of separation and mutual restraint among military, administrative, financial, judicial, and censorship bodies. The "Tam Ty" (Three Offices: Do Ty for military, Thua Ty for civil administration, Hien Ty for censorship/judicial) system was established at the 13 Thua Tuyen (provinces), including the newly annexed areas of Thuan Hoa and Quang Nam.
 *   **Jun. 1471:** Le Thanh Tong personally led a campaign against Champa, capturing Do Ban Citadel and King Tra Toan. The 13th Thua Tuyen province, Quang Nam, was added.
 *   **1479:** The historical chronicle *Dai Viet sử ký toàn thư* (Complete History of Dai Viet) was first completed by Ngo Si Lien.
 *   **1479:** During the war with Lan Xang (1478 - 1480), Dai Viet forces advanced deep into Lao territory, capturing the capital Luang Prabang.
@@ -878,6 +883,7 @@
 *   **Nov. 7, 1799 (11th of the 10th lunar month):** The Queen Mother (mother of King Le Chieu Thong) passed away in Beijing.
 *   **1800:** Two key Tay Son generals, Tran Quang Dieu and Vu Van Dung, led troops to besiege Binh Dinh Citadel.
 *   **1800:** Princess **Ngoc Huyen** (daughter of Lord Nguyen Phuc Khoat, known as Nun Van Duong), operating a spy network for Nguyen Anh in Phu Xuan, sent critical maps of the Tay Son defenses at Tu Hien and Thuan An estuaries, aiding the upcoming Nguyen offensive.
+*   **19th century:** Under the Nguyen Dynasty, out of nearly 4 million mau of registered land nationwide, private land accounted for 81%, while public and other types of land accounted for 19%.
 *   **Feb. 27, 1801:** The Great Naval Battle of Thi Nai took place. The Nguyen navy, commanded by Nguyen Anh and Le Van Duyet, launched a massive surprise attack against the Tay Son fleet defending the Thi Nai lagoon. Utilizing the wind and fire ships, the Nguyen forces completely destroyed the Tay Son naval capabilities, burning over 700 ships and capturing numerous cannons. This decisive victory, known as the "First Martial Achievement" of the Nguyen dynasty, decimated the Tay Son's naval forces and paved the way for the capture of Phu Xuan.
 *   **May 1801:** In the campaign to capture Phu Xuan, Generals Le Van Duyet and Le Chat employed a surprise tactic at the Tu Dung estuary, dragging naval boats across sandbars to attack the Tay Son defensive line from the rear. Nguyen Anh's forces entered the citadel of Phu Xuan (Hue), forcing King Canh Thinh to flee north. This event marked the collapse of the Tay Son's central power base.
 *   **Jul. 7, 1801:** (27th of the 5th lunar month) Generals Vo Tinh and Ngo Tung Chau committed suicide to defend Binh Dinh Citadel, allowing the main Nguyen army to focus on capturing Phu Xuan.
@@ -903,6 +909,7 @@
 *   **Sep. 16, 1804 (13th of the 8th lunar month):** The remains of King Le Chieu Thong, the Queen Mother, and the Crown Prince were returned to the Vietnamese border from China.
 *   **Nov. 14, 1804 (13th of the 10th lunar month):** Imperial Concubine Nguyen Thi Kim committed suicide by poison to follow King Le Chieu Thong, after his remains were brought back to Thang Long and a funeral ceremony was held.
 *   **Dec. 25, 1804 (24th of the 11th lunar month):** The remains of the Le royals were buried at Ban Thach mountain (Thanh Hoa), next to the mausoleum of King Le Hien Tong.
+*   **1805 (Year 4 of Gia Long's reign):** The compilation of national land registers (dia ba) revealed the socio-economic structure of rural Vietnam. Analysis of these registers (e.g., in Ha Dong and Tu Liem) showed that while private land accounted for a significant majority, ownership was highly fragmented among small independent farmers, demonstrating early and distinct social differentiation rather than acute class struggle.
 *   **1805:** Emperor Gia Long changed Phung Thien Prefecture to Hoai Duc Prefecture.
 *   **1805:** Emperor Gia Long ordered the construction of the Hanoi Citadel (Vauban style) and the Hanoi Flag Tower (Cot Co), reinforcing the administrative center of Northern Vietnam.
 *   **1805 - 1820:** The Tale of Kieu was composed by Nguyen Du in chữ Nôm (Vietnamese demotic script).
@@ -938,6 +945,7 @@
 *   **1820 - 1832:** During his tenure as Governor General of Gia Dinh, Le Van Duyet established a private classical opera (*Hát bội*) troupe, significantly contributing to the introduction and popularization of this art form in Southern Vietnam.
 *   **1820:** The "Monk Ke" rebellion (Giặc Sãi) broke out in Cambodia and the border region. Governor Le Van Duyet dispatched troops to suppress it, stabilizing the southwestern border.
 *   **1820:** The system of **Chau Ban** (Vermilion Records), official administrative documents with the Emperor's comments in red ink, was established.
+*   **1820 - 1840:** Under Emperor Minh Mang, the mandarin system was considered the most systematic and tightest of the Nguyen dynasty. Administrative reforms eventually divided the country into 29 provinces, eliminating intermediary levels like Bac Thanh and Gia Dinh Thanh to centralize power.
 *   **Feb. 3, 1820:** Emperor Gia Long passed away.
 *   **Feb. 14, 1820:** Emperor Minh Mang officially ascended the throne at the Thai Hoa Palace. He established the *Van thu phong* (Chancellery) to handle administrative documents.
 *   **May 1820:** Emperor Minh Mang ordered the naming of streets in the Capital (Hue) and the erection of stone signposts, marking an early effort in urban planning and management.
@@ -1340,6 +1348,7 @@
 *   **Jan. 1, 1930:** The Indochinese Communist League was officially established in Ha Tinh.
 *   **Feb. 1930:** The Yen Bai Uprising, led by the Vietnamese Nationalist Party, broke out and was defeated.
 *   **Feb. 3, 1930:** A conference to unify the communist organizations was held in Kowloon (Hong Kong) under the chairmanship of Nguyen Ai Quoc, establishing the Communist Party of Vietnam.
+*   **Early 1930s:** A land ownership survey by Yves Henry revealed severe polarization under French colonialism. Public land accounted for only 21% in Tonkin, 25% in Annam, and 3% in Cochinchina. For private land, 94.8% of landowners held less than 5 hectares (accounting for 28.5% of total land), while 0.30% of landowners held over 50 hectares (accounting for 31.5% of total private land).
 *   **Feb. 10, 1930:** The Yen Bai Uprising, led by the Vietnamese Nationalist Party, broke out but was quickly defeated.
 *   **Mar. 9, 1930:** The first flight connecting Paris and Saigon was completed, marking the development of air transportation.
 *   **Apr. 13, 1930:** The Governor-General of Indochina dispatched the dispatch boat *La Malicieuse* to the Spratly Islands, where the crew raised the French flag on a high point.

@@ -27,7 +27,7 @@
 
 ### **Thời kỳ Dựng nước và Bắc thuộc (800 TCN - 938)**
 
-*   **Thế kỷ VII TCN:** Theo *Việt sử lược*, nước Văn Lang ra đời.
+*   **Thế kỷ VII TCN (Thiên niên kỷ thứ 1 TCN):** Theo *Việt sử lược*, nước Văn Lang ra đời. Đây là nhà nước sơ khai đầu tiên ở Việt Nam, được hình thành trên cơ sở văn hóa Đông Sơn, tập hợp 15 bộ lạc người Lạc Việt ở vùng đồng bằng và trung du. Nước Âu Lạc sau này tiếp nối nước Văn Lang.
 *   **Thế kỷ V TCN:** Được nhiều học giả xem là "thế kỷ của phương Nam" do những ảnh hưởng to lớn của văn hóa Đông Nam Á cổ đại (bao gồm tổ tiên người Việt) về nông nghiệp và luyện kim vượt ra ngoài ranh giới khu vực.
 *   **Khoảng 500 TCN:** Thời kỳ Văn hóa Đồng Nai (Đông Nam Bộ), nền văn hóa kim khí kết nối giữa thời đại đồng thau và thời đại sắt sớm.
 *   **Khoảng thế kỷ III - II TCN:** Phật giáo được du nhập vào bằng đường biển từ Ấn Độ. Đây là tôn giáo có mặt sớm nhất và đã được bản địa hóa, trở thành tư tưởng chủ đạo trong văn hóa dân tộc qua nhiều thời kỳ lịch sử.
@@ -173,6 +173,7 @@
 *   **992:** Vua Lê Đại Hành trao trả cho Chiêm Thành 360 người bị bắt tại châu Địa Lý trong trận đánh năm 990. Nhà vua sai Phụ quốc Ngô Tử An đem 3 vạn người mở đường bộ từ cửa Nam Giới (Hà Tĩnh) qua đèo Ngang đến châu Địa Lý (Quảng Bình).
 *   **995:** Thủy quân Đại Cồ Việt (khoảng 100 chiến thuyền) tấn công trấn Như Hồng (Khâm Châu, nhà Tống). Mùa hè, 5.000 hương binh đánh vào Ung Châu của Tống nhưng bị đẩy lui.
 *   **996 (Bính Thân):** Lê Đại Hành tiếp sứ Tống là Lý Nhược Chuyết, dùng lời lẽ cứng rắn để bác bỏ trách nhiệm về các vụ cướp biên giới.
+*   **Thế kỷ XI (Triều Lý):** Nhà nước áp dụng chế độ "Ngụ binh ư nông" nhằm kết hợp phát triển nông nghiệp với quốc phòng, duy trì quân đội thường trực luân phiên về sản xuất. Triều đình cũng định lệ khảo hạch quan lại định kỳ 9 năm một lần để quyết định thăng giáng.
 *   **1005:** Lê Đại Hành mất. Lê Long Đĩnh giết vua Lê Trung Tông (Lê Long Việt) để cướp ngôi.
 *   **06/1006 (Bính Ngọ):** Vua Tống từ chối lời thỉnh cầu của Lăng Sách về việc đem quân đánh Đại Cồ Việt nhân lúc nội bộ triều Lê rối ren.
 
@@ -182,7 +183,7 @@
 *   **1009:** Thiền sư Vạn Hạnh đưa ra các sấm ngữ báo hiệu nhà Lê suy vong và nhà Lý hưng thịnh, tích cực ủng hộ Lý Công Uẩn lên ngôi.
 *   **21/11/1009:** Lê Long Đĩnh (Lê Ngọa Triều) mất. Lý Công Uẩn được tôn lên làm vua (Lý Thái Tổ), sáng lập ra vương triều Lý.
 *   **07/1010:** Lý Thái Tổ ra "Chiếu dời đô", chuyển kinh đô từ Hoa Lư về thành Đại La và đổi tên thành Thăng Long. Đổi Hoa Lư làm phủ Trường Yên.
-*   **12/1010:** Lý Thái Tổ tiến hành cải cách hành chính, chia cả nước làm 24 lộ.
+*   **12/1010:** Lý Thái Tổ tiến hành cải cách hành chính, chia cả nước làm 24 lộ, dưới lộ có: phủ - châu, huyện - hương, và giáp.
 *   **1013:** Lý Thái Tổ định ra các hạng thuế trong cả nước, bao gồm thuế bãi dâu, đánh dấu sự khuyến khích phát triển nghề trồng dâu nuôi tằm và tự chủ tài chính.
 *   **06/1018:** Triều đình cử sứ sang nhà Tống xin bộ kinh Tam Tạng.
 *   **1019 (Kỷ Mùi):** Bộ sách "Thiên thư" do Tể tướng nhà Tống Vương Khâm Nhược chủ trì biên soạn được hoàn thành để thần thánh hóa vương triều. Đây là đối tượng mà Lý Thường Kiệt nhắm tới trong bài thơ *Nam quốc sơn hà* sau này.
@@ -252,6 +253,7 @@
 *   **1181:** Nạn đói lớn xảy ra, khiến dân chúng chết gần một nửa.
 *   **1198:** Vua Lý Cao Tông nghe lời Đàm Dĩ Mông, ra lệnh sa thải các tăng đồ không giữ giới luật, bắt hoàn tục để làm phu dịch, chấn chỉnh lại Phật giáo và xã hội.
 *   **Thế kỷ XIII:** Nhà thám hiểm người Ý Marco Polo ghé thăm và mô tả về Côn Đảo trong hồi ký của mình. Vào cùng thế kỷ, Hồi giáo cũng được du nhập vào chủ yếu thông qua cộng đồng người Chăm Pa.
+*   **Thế kỷ XIII (Triều Trần):** Triều đình đặt chức Hà đê sứ và Đồn điền sứ ở các lộ để chuyên trách quản lý đê điều, thủy lợi và mở mang khẩn hoang. Thời hạn khảo khóa đánh giá quan lại được quy định là 15 năm một lần.
 *   **1203:** Vua Lý Cao Tông cho xây dựng nhiều cung điện xa hoa, khiến dân chúng càng thêm khốn khổ, giặc cướp nổi lên.
 *   **08/1207:** Vua Lý Cao Tông hạ chiếu nhận lỗi trước muôn dân vì chính sự bê trễ dẫn đến đói kém và loạn lạc, hứa sẽ sửa đổi.
 *   **Năm 1208:** Phạm Du làm phản ở Nghệ An. Vua Lý Cao Tông sai Phạm Bỉnh Di đi dẹp, nhưng sau đó lại nghe lời gièm pha mà bắt giam Bỉnh Di, dẫn đến việc bộ tướng Quách Bốc đem quân đánh phá kinh thành.
@@ -324,6 +326,7 @@
 *   **1299:** Vua Trần Nhân Tông xuống chiếu yêu cầu học trò trong cả nước phải tập trung học tập để chuẩn bị cho các khoa thi.
 *   **03/10/1300 (15 tháng 8 năm Kỷ Hợi):** Hưng Đạo Đại vương Trần Quốc Tuấn qua đời tại nhà riêng ở Vạn Kiếp. Trước khi mất, khi vua Trần Anh Tông đích thân đến thăm và hỏi về kế sách giữ nước, ông đã dặn: "Phải khoan thư sức dân để làm kế sâu rễ bền gốc", coi đó là thượng sách giữ nước không còn gì hơn.
 *   **Khoảng thế kỷ XIV:** Truyền thuyết Lạc Long Quân và Âu Cơ, Phù Đổng Thiên Vương (Thánh Gióng), và Sơn Tinh - Thủy Tinh được ghi chép lần đầu tiên trong bộ sách sử **Lĩnh Nam chích quái**.
+*   **Cuối thế kỷ XIV - Nửa đầu thế kỷ XIX:** Xã hội Việt Nam chứng kiến những phong trào đấu tranh rộng lớn. Điểm đặc thù là không có những cuộc khởi nghĩa thuần túy của nông dân chống lại địa chủ, mà phổ biến là sự tập hợp lực lượng của nông dân cùng các tầng lớp bất bình (nho sĩ, địa chủ, quan lại) chống lại bọn cường hào, quan lại gian ác và tập đoàn thống trị thoái hóa.
 *   **1304:** Mạc Đĩnh Chi đỗ Trạng nguyên. Ông nổi tiếng với tài năng và sự ứng đối khiến vua quan nhà Nguyên nể phục, được phong là "Lưỡng quốc Trạng nguyên".
 *   **1304:** Khoa thi Thái học sinh lớn nhất kể từ đầu thời Trần được tổ chức dưới triều vua Trần Anh Tông. Nhà vua đặt thêm danh hiệu "Hoàng giáp" để chỉ những người đỗ hàng Đệ nhị giáp.
 *   **1306:** Vua Champa là Chế Mân dâng hai châu Ô và Lý để làm sính lễ cưới công chúa Huyền Trân.
@@ -445,6 +448,7 @@
 *   **08/1400:** Triều Hồ tổ chức kỳ thi Thái học sinh đầu tiên, lấy đỗ 20 người, trong đó có Nguyễn Trãi.
 *   **12/1400:** Hồ Quý Ly nhường ngôi cho con là Hồ Hán Thương, tự xưng là Thái thượng hoàng nhưng vẫn thâu tóm quyền lực. Đánh thuế thuyền buôn theo 3 mức thượng, trung, hạ.
 *   **1401:** Lập kho Thường bình, dùng tiền giấy mua lúa thóc trữ để cứu đói và bình ổn giá cả thị trường. Định hình luật nước Đại Ngu.
+*   **Thế kỷ XV:** Thể chế quân chủ tập quyền chuyển mạnh sang mô hình Nho giáo với tính quan liêu và chuyên chế cao. Nhà nước phân loại xã thành ba bậc (lớn, vừa, nhỏ), quy định về nhân khẩu, bầu xã trưởng và chế độ quân điền trên nền tảng bảo tồn công xã. Phương thức đào tạo quan lại chủ yếu chuyển sang thi cử (thi Hương, thi Hội), song song với chế độ nhiệm tử, tập ấm của quý tộc.
 *   **03/1401:** Hồ Hán Thương ra chiếu "hạn chế gia nô", quy định số lượng nô tỳ được phép sở hữu theo phẩm cấp quan lại.
 *   **04/1401 (Tân Tỵ):** Nhà Hồ ra lệnh lập lại sổ hộ tịch toàn quốc, đưa cả đinh nam từ 2 tuổi trở lên vào sổ để làm cơ sở tuyển quân.
 *   **1402:** Hồ Hán Thương định lại thuế đinh và thuế điền. Thuế đinh đánh theo diện tích ruộng, người không có ruộng, trẻ mồ côi, góa phụ được miễn. Lập lại Lễ Tế Giao ở Đốn Sơn. Tổ chức nhã nhạc cung đình.
@@ -583,7 +587,8 @@
 *   **1463:** Khoa thi Hội đầu tiên dưới thời vua Lê Thánh Tông diễn ra ở quy mô rất lớn với 4.400 sĩ tử dự thi. Khoa thi này đánh dấu lần đầu tiên triều đình xướng danh tân khoa ngoài cửa nhà Thái học và treo bảng vàng công bố.
 *   **1466:** Lê Thánh Tông chia cả nước thành 12 đạo Thừa tuyên. Bắt đầu đặt **Năm phủ** (Ngũ phủ quân) và kiện toàn Sáu bộ để thống nhất quản lý quân sự và hành chính.
 *   **1469:** Vua Lê Thánh Tông cho định bản đồ 12 thừa tuyên trong cả nước. Thừa tuyên Nam Sách đổi tên thành Thừa tuyên Hải Dương, danh xưng "Hải Dương" chính thức xuất hiện.
-*   **1471:** Thiết lập hệ thống Tam ty (Đô ty, Thừa ty, Hiến ty) tại Thuận Hóa và Quảng Nam để cai quản.
+*   **1470 - 1497 (Thời Hồng Đức):** Dưới triều vua Lê Thánh Tông, quan chế được coi là hay nhất của đời Lê, phép tắc nghiêm minh, không có kẻ lộng quyền. Thời hạn khảo khóa quan lại được rút xuống còn 3 năm một lần. Bộ *Quốc triều hình luật* (Luật Hồng Đức) được hoàn chỉnh, chứa đựng nhiều giá trị tiến bộ như bảo vệ quyền lợi phụ nữ (chia tài sản bằng nhau, quyền bỏ chồng nếu bị ruồng rẫy 5 tháng), tôn trọng phong tục người dân tộc thiểu số và bảo vệ người yếu thế.
+*   **1471:** Vua Lê Thánh Tông ban hành "Hiệu định quan chế", một cuộc cải tổ thiết chế chính trị nhằm phân định và ràng buộc lẫn nhau giữa các hệ thống hành chính, quân sự, tài chính, tư pháp và giám sát. Hệ thống Tam ty (Đô ty, Thừa ty, Hiến ty) được thiết lập tại 13 đạo Thừa tuyên, trong đó có vùng đất mới Thuận Hóa và Quảng Nam.
 *   **06/1471:** Lê Thánh Tông thân chinh đánh Champa, hạ thành Đồ Bàn, bắt vua Trà Toàn. Đặt thêm đạo Thừa tuyên thứ 13 là Quảng Nam.
 *   **1479:** Bộ sách *Đại Việt sử ký toàn thư* lần đầu được hoàn thành bởi Ngô Sĩ Liên.
 *   **1479:** Trong cuộc chiến với Lan Xang (1478 - 1480), quân đội Đại Việt tiến sâu vào đất Lào, chiếm kinh đô Luang Prabang, đẩy lùi quân Lan Xang.
@@ -878,6 +883,7 @@
 *   **07/11/1799 (11/10 năm Kỷ Mùi):** Hoàng Thái hậu (mẹ vua Lê Chiêu Thống) qua đời tại Yên Kinh, Trung Quốc.
 *   **1800:** Hai tướng chủ chốt của Tây Sơn là Trần Quang Diệu và Vũ Văn Dũng đem quân vào vây thành Bình Định.
 *   **1800:** (Năm Canh Thân) Công nữ **Ngọc Huyên** (bà vãi Vân Dương), hoạt động tình báo cho Nguyễn Ánh tại Phú Xuân, đã bí mật cho người khảo sát và vẽ bản đồ bố phòng của quân Tây Sơn tại cửa biển Tư Hiền và Thuận An, giúp quân Nguyễn chuẩn bị cho cuộc tấn công quyết định.
+*   **Thế kỷ XIX:** Dưới triều Nguyễn, trong tổng số gần 4 triệu mẫu ruộng đất thực trưng trên toàn quốc, ruộng đất tư chiếm 81%, ruộng đất công và các loại khác chiếm 19%.
 *   **27/02/1801:** Đại chiến thủy quân tại Thị Nại. Thủy quân nhà Nguyễn, do đích thân Nguyễn Ánh và Lê Văn Duyệt chỉ huy, đã mở cuộc tấn công bất ngờ và quy mô lớn vào hạm đội Tây Sơn đang phòng thủ đầm Thị Nại. Lợi dụng sức gió và hỏa công, quân Nguyễn đã tiêu diệt hoàn toàn lực lượng thủy quân Tây Sơn, thiêu rụi hơn 700 chiến thuyền và thu được nhiều súng ống. Thắng lợi mang tính quyết định này được vinh danh là "Đệ nhất vũ công" của triều Nguyễn, mở đường cho việc tiến đánh Phú Xuân.
 *   **Tháng 5 âm lịch năm 1801:** Trong chiến dịch đánh chiếm Phú Xuân, Lê Văn Duyệt và Lê Chất đã dùng mưu kế bất ngờ tại cửa Tư Dung, cho quân khiêng thuyền chiến qua bãi cát để đánh úp phía sau phòng tuyến quân Tây Sơn. Quân Nguyễn Ánh tiến vào kinh thành Phú Xuân (Huế), buộc vua Cảnh Thịnh phải bỏ chạy ra Bắc. Sự kiện này đánh dấu sự sụp đổ của trung tâm quyền lực nhà Tây Sơn.
 *   **07/07/1801:** (27 tháng 5 âm lịch) Võ Tánh và Ngô Tùng Châu tuẫn tiết để giữ thành Bình Định, cầm chân quân Tây Sơn giúp quân Nguyễn rảnh tay đánh chiếm Phú Xuân.
@@ -903,6 +909,7 @@
 *   **16/09/1804 (13/08 năm Giáp Tý):** Hài cốt của vua Lê Chiêu Thống, Hoàng Thái hậu và Thái tử được đưa từ Trung Quốc về đến cửa ải.
 *   **14/11/1804 (13/10 năm Giáp Tý):** Hoàng phi Nguyễn Thị Kim uống thuốc độc tự tử để theo vua Lê Chiêu Thống, sau khi linh cữu vua được đưa về Thăng Long và làm lễ tế.
 *   **25/12/1804 (24/11 năm Giáp Tý):** Lễ an táng vua Lê và hoàng quyến được tổ chức tại núi Bàn Thạch (Thanh Hóa), cạnh lăng vua Lê Hiển Tông.
+*   **1805 (Năm Gia Long thứ 4):** Việc lập địa bạ trên toàn quốc cho phép nhìn nhận rõ sự phân hóa xã hội ở nông thôn. Phân tích địa bạ các làng xã (như ở Hà Đông, Từ Liêm) cho thấy ruộng đất tư hữu chiếm tỷ lệ cao nhưng tình trạng sở hữu lại rất phân tán, phổ biến là sở hữu nhỏ của nông dân, phản ánh sự phân hóa giai cấp chậm và mang nặng tính đẳng cấp ở phương Đông.
 *   **1805:** Vua Gia Long cho đổi phủ Phụng Thiên thành phủ Hoài Đức.
 *   **1805:** Vua Gia Long ra lệnh xây dựng lại Thành Hà Nội theo kiểu Vauban và xây dựng Cột cờ Hà Nội, củng cố trung tâm hành chính Bắc Thành.
 *   **1805 - 1820:** Truyện Kiều được Nguyễn Du sáng tác bằng chữ Nôm.
@@ -938,6 +945,7 @@
 *   **1820 - 1832:** Trong thời gian làm Tổng trấn Gia Định, Lê Văn Duyệt đã lập gánh Hát bội riêng, góp phần quan trọng vào việc du nhập và phát triển loại hình nghệ thuật này tại Nam Bộ.
 *   **1820:** Cuộc nổi dậy của **"Giặc Sãi"** (do một nhà sư tên Kế cầm đầu) nổ ra ở Chân Lạp và vùng biên giới. Tổng trấn Gia Định Lê Văn Duyệt đã cử quân dẹp tan, ổn định tình hình biên giới Tây Nam.
 *   **1820:** Bắt đầu chế độ **Châu bản** (các bản tấu sớ có bút phê của nhà vua bằng mực son).
+*   **1820 - 1840:** Dưới triều vua Minh Mạng, quan chế được coi là có quy củ và chặt chẽ nhất triều Nguyễn. Triều đình thống nhất hệ thống hành chính, giảm bớt cấp trung gian (xóa bỏ Bắc Thành và Gia Định Thành), chia cả nước thành 29 tỉnh.
 *   **03/02/1820 (19/12 năm Kỷ Mão):** Vua Gia Long băng hà.
 *   **14/02/1820:** Vua Minh Mạng chính thức lên ngôi Hoàng đế tại điện Thái Hòa. Vua cho đổi Thị thư viện thành **Văn thư phòng** để quản lý giấy tờ, văn thư.
 *   **05/1820:** Vua Minh Mạng ra lệnh đặt tên các đường phố trong Kinh thành (Huế) và cho dựng biển ghi tên, đánh dấu nỗ lực sớm trong quy hoạch và quản lý đô thị.
@@ -1340,6 +1348,7 @@
 *   **01/01/1930:** Đông Dương Cộng sản Liên đoàn chính thức thành lập tại Hà Tĩnh.
 *   **02/1930:** Cuộc khởi nghĩa Yên Bái do Việt Nam Quốc dân Đảng lãnh đạo nổ ra và thất bại.
 *   **03/02/1930:** Hội nghị hợp nhất các tổ chức cộng sản diễn ra tại Cửu Long (Hương Cảng) dưới sự chủ trì của Nguyễn Ái Quốc, thành lập Đảng Cộng sản Việt Nam.
+*   **Đầu những năm 1930:** Theo kết quả điều tra của Yves Henry, dưới tác động của chủ nghĩa thực dân Pháp, tình trạng sở hữu ruộng đất phân hóa cực kỳ sâu sắc. Ruộng đất công chỉ còn 21% ở Bắc Kỳ, 25% ở Trung Kỳ và 3% ở Nam Kỳ. Về ruộng đất tư hữu, 94,8% số chủ sở hữu dưới 5 ha (chiếm 28,5% diện tích), trong khi 0,30% chủ sở hữu trên 50 ha (chiếm tới 31,5% diện tích).
 *   **10/02/1930:** Cuộc khởi nghĩa Yên Bái do Việt Nam Quốc dân Đảng lãnh đạo bùng nổ nhưng nhanh chóng thất bại.
 *   **09/03/1930:** Chuyến bay đầu tiên nối liền Paris - Sài Gòn được thực hiện, đánh dấu sự phát triển giao thông hàng không.
 *   **13/04/1930:** Toàn quyền Đông Dương phái thông báo hạm *La Malicieuse* tới quần đảo Trường Sa, nơi thủy thủ đoàn đã kéo quốc kỳ Pháp trên một điểm cao.
