@@ -280,6 +280,16 @@
       <!-- Interactive Filter Controls Panel -->
       <section class="bg-parchment-card/90 border-2 border-parchment-gold rounded-lg p-5 sm:p-6 shadow-parchment space-y-5 transition-all duration-200">
         
+        <!-- Internet Source Disclaimer Notice -->
+        <div class="flex items-start sm:items-center gap-2.5 px-3.5 py-2.5 rounded-lg bg-amber-500/10 border border-amber-600/30 text-amber-900 text-xs sm:text-sm font-medium shadow-xs">
+          <svg class="w-4 h-4 sm:w-5 sm:h-5 text-amber-700 flex-shrink-0 mt-0.5 sm:mt-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/>
+            <line x1="12" y1="9" x2="12" y2="13"/>
+            <line x1="12" y1="17" x2="12.01" y2="17"/>
+          </svg>
+          <span data-i18n="disclaimerNote">Lưu ý: Đây là tài liệu được tổng hợp từ Internet, có thể có sai sót, vui lòng cẩn thận khi sử dụng.</span>
+        </div>
+
         <div class="flex items-center justify-between border-b border-parchment-gold/40 pb-3">
           <h3 class="font-display font-bold text-lg text-parchment-accent flex items-center gap-2">
             <svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -543,6 +553,7 @@
           statEvents: "Sự kiện lịch sử",
           statEras: "Thời kỳ lịch sử",
           statSearchReady: "Tra cứu Ngày / Tháng / Năm",
+          disclaimerNote: "Lưu ý: Đây là tài liệu được tổng hợp từ Internet, có thể có sai sót, vui lòng cẩn thận khi sử dụng.",
           filterTitle: "Bộ Lọc Tra Cứu Sự Kiện",
           btnReset: "Đặt Lại Bộ Lọc",
           lblKeyword: "Từ Khóa Lịch Sử",
@@ -604,6 +615,7 @@
           statEvents: "Historical events",
           statEras: "Historical eras",
           statSearchReady: "Search by Day / Month / Year",
+          disclaimerNote: "Note: This material is compiled from the Internet and may contain errors. Please use with caution.",
           filterTitle: "Historical Event Filters",
           btnReset: "Reset Filters",
           lblKeyword: "Keyword Search",
