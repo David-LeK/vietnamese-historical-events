@@ -138,7 +138,7 @@
 
 *   **939 (Spring):** Ngo Quyen proclaimed himself king, established the Ngo dynasty, and set the capital at Co Loa, officially ushering in an era of independence and autonomy.
 *   **944:** Ngo Quyen passed away. His brother-in-law, Duong Tam Kha, usurped the throne from Ngo Quyen's son Ngo Xuong Ngap, proclaiming himself Binh Vuong.
-*   **950:** Ngo Xuong Van overthrew Duong Tam Kha, demoted him to Chuong Duong Cong, and reclaimed the throne as Nam Tan Vuong. He co-ruled with his brother Ngo Xuong Ngap (Thien Sach Vuong).
+*   **950:** Ngo Xuong Van overthrew Duong Tam Kha, demoted him to Chuong Duong Cong, and granted him the land of Chuong Duong as an appanage (thực ấp). He reclaimed the throne as Nam Tan Vuong and co-ruled with his brother Ngo Xuong Ngap (Thien Sach Vuong).
 *   **951:** Hau Ngo Vuong (Ngo Xuong Van and Ngo Xuong Ngap) attacked Dinh Bo Linh at Hoa Lu for over a month but failed, taking Dinh Lien as hostage.
 *   **954:** Thien Sach Vuong Ngo Xuong Ngap passed away.
 *   **965:** Nam Tan Vuong Ngo Xuong Van was killed in battle while suppressing a rebellion in the hamlets of Duong and Nguyen. The Ngo dynasty ended.
@@ -164,9 +164,10 @@
 *   **983:** King Le Dai Hanh ordered the digging of the Ba Hoa Canal (Thanh Hoa) and Da Cai Canal (Nghe An) to facilitate military and water transport. He withdrew the main army to Hoa Lu, leaving a garrison in northern Champa (from Hoanh Son to Varella cape) under the command of *Quan giap* **Luu Ke Tong**.
 *   **Feb. 984:** The Early Le court minted Thien Phuc coins.
 *   **986:** Following the death of King Indravarman IV, **Luu Ke Tong** proclaimed himself King of Champa and sent envoys to the Song court to seek investiture. Many Champa people rebelled against his rule and fled to Hainan and Guangzhou.
-*   **987 (Spring):** Le Dai Hanh performed the Tich Dien plowing ceremony for the first time at Doi Son to encourage agriculture.
+*   **987 (Spring):** Le Dai Hanh performed the Tich Dien (royal ploughing) ceremony for the first time at Doi Son and later at Mount Ban Hai to encourage agriculture.
 *   **987:** Song envoy Li Jue visited Dai Co Viet. Zen Master Do Phap Thuan, disguised as a ferryman, engaged in a famous poetry exchange with the envoy, demonstrating the nation's literary culture.
 *   **988:** The people of Champa rose up to retake the Vijaya region and enthroned Ku Sri Harivarman II at Phat The citadel (Binh Dinh).
+*   **988:** Le Hoan (Le Dai Hanh) was enfeoffed as Khai Quoc Hau (Marquis of National Foundation) with an appanage of 3,000 households.
 *   **989:** **Luu Ke Tong** passed away. King Harivarman II recovered the Amaravati region and northern Nhat Nam up to Dia Ly prefecture.
 *   **989:** *Quan giap* Duong Tien Loc rebelled against the Early Le court, leading people from Hoan and Ai provinces to flee to Champa to submit, but was refused entry by King Harivarman II.
 *   **990:** Le Dai Hanh received the Song envoy Song Cao. He displayed military might and refused to kowtow to the imperial decree, asserting national prestige. King Le Dai Hanh sent troops to attack Dia Ly prefecture. Following mediation by the Song Emperor, Le Dai Hanh withdrew from Dia Ly but retained **Bo Chinh** prefecture.
@@ -182,35 +183,44 @@
 *   **1009:** King Le Long Dinh ordered the digging of canals, road construction, and the erection of milestones to mark distances in the Chau Ai region (Thanh Hoa), facilitating transport.
 *   **1009:** Before Ly Cong Uan's ascension, Zen Master Van Hanh issued prophecies regarding the fall of the Le dynasty and the rise of the Ly dynasty.
 *   **Nov. 21, 1009:** Le Long Dinh (Le Ngoa Trieu) passed away. Ly Cong Uan was enthroned as king (Ly Thai To), founding the Ly dynasty.
+*   **1010:** Emperor Ly Thai To visited Co Phap (Thien Duc) circuit to pay respects at the Queen Mother's tomb, ordering officials to survey several dozen li of land to designate as a royal tomb restricted zone.
 *   **Jul. 1010:** Ly Thai To issued the "Royal Edict on the Transfer of the Capital," moving the capital from Hoa Lu to Dai La Citadel and renaming it Thang Long. Hoa Lu was renamed Truong Yen prefecture.
 *   **Dec. 1010:** Ly Thai To carried out administrative reforms, dividing the country into 24 routes (lo), below which were phu - chau, huyen - huong, and giap.
-*   **1013:** Ly Thai To established a taxation system for the whole country, including taxes on mulberry fields, promoting sericulture and financial autonomy.
+*   **1013:** Ly Thai To established tax categories nationwide, including a mulberry field tax collected in grain and cash, officially recognizing and protecting sericulture and silk weaving.
 *   **Jun. 1018:** The court sent an envoy to the Song dynasty to request the Tripitaka scriptures.
 *   **1019:** The "Heavenly Book" (Thien Thu) was completed by the Song court (under Chancellor Wang Qinruo) to claim divine mandate. This document later became the target of Ly Thuong Kiet's psychological warfare in his famous poem.
 *   **Dec. 1020:** The Ly army, under the command of Crown Prince Ly Phat Ma, defeated the Champa army at the Bo Chinh garrison (Quang Binh).
 *   **May 15, 1025:** Zen Master Van Hanh, a key advisor to King Ly Thai To, passed away.
 *   **1028:** Ly Thai To passed away, Ly Phat Ma ascended the throne (Ly Thai Tong). The "Rebellion of the Three Princes" occurred but was suppressed.
+*   **1028:** Emperor Ly Thai To granted "thac dao dien" (throwing-dagger land) to general Le Phung Hieu in Da Mi (Thanh Hoa) as a hereditary estate to reward his merit.
 *   **1029:** King Ly Thai Tong suppressed a rebellion in the Dan Nai region (Thanh Hoa) and ordered the digging of the Dan Nai canal.
 *   **Apr. 1034:** Zen Masters Nghiem Bao Tinh and Pham Minh Tam self-immolated at the court. King Ly Thai Tong changed the era name to Thong Thuy.
+*   **1035:** Emperor Ly Thai Tong established Tay Nhai Market with long corridors, reflecting the growth of commerce and domestic trade.
 *   **Apr. 1036:** King Ly Thai Tong established a hanh dinh (temporary palace) in Hoan Chau and renamed the chau to **Nghe An**.
-*   **1038:** King Ly Thai Tong personally plowed the Tich Dien field at Bo Hai Khau, declaring the importance of agriculture for "the people to follow."
+*   **1038:** Emperor Ly Thai Tong personally performed sacrifices to Shennong and ploughed the Tich Dien field three times at Bo Hai Khau, declaring the importance of agriculture for "the realm to emulate."
 *   **1038:** Nung Ton Phuc rebelled in Quang Nguyen (Lang Son), proclaiming himself the Emperor of the Truong Sinh kingdom. He was subsequently defeated and captured by King Ly Thai Tong in 1039.
 *   **1039:** Prince Ly Nhat Quang (Ly Hoang) was appointed to administer Nghe An, where he successfully managed tax collection and stabilized the southern frontier.
 *   **Feb. 1040:** King Ly Thai Tong taught palace maids to weave brocade and distributed all Song dynasty brocade from the treasury to officials to demonstrate the use of domestic goods and rejection of Song goods.
 *   **1041:** Nung Tri Cao (son of Nung Ton Phuc) seized the Thang Do region and established the state of Dai Lich. After being captured by King Ly Thai Tong, he was pardoned and appointed as the governor of Quang Nguyen.
 *   **1042:** The court promulgated the Hinh Thu (Penal Code), the first written law code of Vietnam. It included regulations prohibiting the sale of adult males (*hoang nam*) as slaves.
+*   **1042:** Emperor Ly Thai Tong allowed elderly people and those of high merit to redeem offenses with money, reflecting the increasing role of currency.
 *   **Nov. 1042:** King Ly Thai Tong ordered the erection of road signs and distance markers to assist travelers, marking an early development in public infrastructure.
+*   **1043:** Emperor Ly Thai Tong issued a decree stipulating that anyone who sold adult males (free hoang nam) as household slaves would be beaten 100 lashes and tattooed with 20 characters on their face.
+*   **1044:** Emperor Ly Thai Tong set strict penalties for Quyen Kho ty (silk warehouse) officials taking bribes: receiving 1 chi of silk resulted in 100 lashes, while 1 to 10 rolls of silk resulted in 10 years of penal labor.
 *   **Jan. 1044:** Ly Thai Tong personally led a campaign against Champa, beheading the Champa king Sạ Đẩu (Jaya Simhavarman II) in battle.
 *   **1048:** Nung Tri Cao rebelled again, proclaiming himself Nhan Hue Emperor and establishing the state of Dai Nam, continuing his defiance against both the Ly and Song dynasties.
 *   **1049:** King Ly Thai Tong ordered the construction of Dien Huu Pagoda (One Pillar Pagoda).
+*   **Nov. 1051:** The Ly court ordered the excavation of the Lam River in Thanh Hoa.
 *   **1053:** Under the leadership of Khai Quoc Vuong, the Ly army launched a campaign to assist Nung Tri Cao in establishing the Kingdom of Dai Nam in the Guangdong-Guangxi region.
 *   **1054:** Ly Thai Tong passed away, Ly Nhat Ton ascended the throne (Ly Thanh Tong), and changed the national name from Dai Co Viet to Dai Viet.
 *   **1055:** Prince Ly Nhat Quang suppressed the rebellion of Ong Ke and Ly Phu, ensuring stability in the Nghe An region.
 *   **1056:** King Ly Thanh Tong ordered the construction of Sung Khanh Bao Thien Pagoda and the casting of a great bell, considered one of the "Four Great Treasures of An Nam."
+*   **1056:** Emperor Ly Thanh Tong issued an "Edict Encouraging Agriculture" (Chieu khuyen nong) to promote agricultural production.
 *   **1057:** Tuong Long Tower was built in Do Son (Hai Phong), considered a major scenic spot of the ancient An Bang region.
 *   **1057:** Construction of the **Bao Thien Tower** (Dai Thang Tu Thien Bao Thap) began in Thang Long. Standing 12 stories high, it was considered one of the "Four Great Treasures of An Nam."
 *   **1059 - 1060:** Princess Binh Duong and Consort Than Thieu Thai commanded a northern campaign, attacking the Song dynasty's Zuo Jiang and You Jiang regions and capturing over 10 passes to reclaim border lands.
-*   **1059:** King Ly Thanh Tong mandated that officials must wear hats and boots when attending court, establishing a formal dress code for the first time.
+*   **1059:** Emperor Ly Thanh Tong ordered officials attending court to wear "phac dau" caps and leather boots, establishing the first official court attire regulations.
+*   **1067:** Emperor Ly Thanh Tong established annual stipends for civil, military, and prison officials in money, grain, fish, and salt to "maintain integrity" (duong liem).
 *   **1069:** Ly Thanh Tong personally led a campaign against Champa, capturing King Che Cu (Rudravarman III). Champa had to cede the three provinces of Bo Chinh, Dia Ly, and Ma Linh as ransom. Zen Master Thao Duong was captured during this campaign, later appointed National Preceptor and established the Thao Duong Zen sect.
 *   **1070:** The Temple of Literature was built in Thang Long to worship Confucius.
 *   **Dec. 1072:** Ly Thanh Tong died, and Ly Can Duc (Ly Nhan Tong) ascended the throne, inheriting it according to the will of his father, Emperor Ly Thanh Tong (at the age of only 7).
@@ -227,30 +237,48 @@
 *   **Mar. 1, 1076:** After a 42-day siege, the Ly army captured Yongzhou Citadel. Song commander Su Jian committed suicide, and over 50,000 people inside were killed. Ly forces retreated in March 1076.
 *   **1077:** During the fierce defense against the Song army commanded by Guo Kui, many prominent generals sacrificed their lives, including Princes Ly Hoang Chan and Ly Chieu Van, and Generals Nguyen Can, Hoang Kien, along with their wives who served as commanders on the battlefield.
 *   **Jan. 18 - Feb. 28, 1077:** Battle of Nhu Nguyet River. The Song army (100,000 combat troops, 200,000 support) commanded by Guo Kui and Zhao Xie was halted at the Nhu Nguyet river defense line by Dai Viet forces. After Song attempts to cross failed, Dai Viet launched counter-attacks. Princes Hoang Chan and Chieu Van attacked Guo Kui's camp and died in battle, while Ly Thuong Kiet successfully ambushed Zhao Xie's camp. Song forces suffered 76,600 casualties and retreated, marking a decisive Dai Viet victory.
+*   **Sep. 1077:** Construction of the Nhu Nguyet River dike spanning 67,380 paces, a major state-led water management project.
 *   **1084:** Le Van Thinh negotiated with the Song dynasty to define the border, reclaiming 6 districts and 3 grottoes.
 *   **1086:** King Ly Nhan Tong authorized the first imperial examination to select talented individuals.
+*   **1088:** Emperor Ly Nhan Tong classified Buddhist pagodas into three ranks (large, medium, small) and assigned senior civil officials to oversee them due to their vast slave populations and extensive properties.
 *   **1089:** King Ly Nhan Tong established a defined hierarchy for civil and military officials, structuring the administrative system.
+*   **1089:** Excavation of the Lanh Kinh River to facilitate transportation and irrigation.
 *   **1090:** Zen Master Vien Chieu, author of the work *Tham Do Hien Quyet*, passed away.
+*   **1091:** Grand Marshal Ly Cong renovated Huong Nghiem Pagoda, purchased and distributed land to local sub-divisions (giap: Binh, Boi Ly, Vien Dam), reflecting land administration at the village level.
+*   **1096:** Fisherman Muc Than was granted land at West Lake as an appanage to reward him for saving Emperor Ly Nhan Tong from drowning.
 *   **Nov. 30, 1096:** Zen Master Man Giac passed away, leaving behind the famous poem "Cao tat thi chung".
 *   **Winter 1101:** General Ly Thuong Kiet, despite his old age, led troops to suppress the rebellion of Ly Giac in Dien Chau.
+*   **1103:** Empress Dowager Linh Nhan used royal treasury funds to ransom poor women sold into household servitude and marry them to widowed men.
+*   **Jan. 1103:** Emperor Ly Nhan Tong issued an edict to repair and construct dikes inside and outside the capital to prevent flooding.
 *   **1104:** Ly Thuong Kiet defeated the Champa army, forcing King Che Ma Na (Jaya Indravarman II) to return the three provinces he had previously occupied.
 *   **Jun. 1105:** General Ly Thuong Kiet passed away at the age of 86. He was a brilliant strategist and a pillar of the Ly dynasty through three reigns.
 *   **1108:** The court ordered the construction of the Co Xa dike in Thang Long to prevent floods from the Red River.
 *   **1111:** The name **Thanh Hoa** appeared for the first time in historical records when the prefecture of Thanh Hoa offered a nine-trunked areca tree.
 *   **Jun. 1, 1113:** Nun Dieu Nhan, the earliest recorded female Zen Master of the Ly dynasty, passed away.
 *   **1116:** The famous monk Tu Dao Hanh passed away. According to legend and historical accounts, he was reincarnated as King Ly Than Tong.
+*   **Jan. 1117:** Emperor Ly Nhan Tong issued an edict strictly forbidding the theft and illegal slaughter of cattle, crucial draft animals for agriculture, establishing severe punishments.
+*   **1118:** The court banned domestic servants of officials and nobility in the capital from tattooing dragon motifs on their chests and legs like royal guards.
+*   **1123:** The Ly court reiterated the ban on cattle slaughter, organizing households into "bao" (groups of three households) for mutual oversight.
+*   **1128:** Regulations prohibited household slaves and guards of officials from marrying daughters of commoner families.
 *   **Jan. 15, 1128:** Ly Nhan Tong died, and Ly Duong Hoan (Ly Than Tong) ascended the throne, inheriting it according to the will of Emperor Ly Nhan Tong (Ly Nhan Tong had no children, so he adopted Ly Duong Hoan and passed the throne to him).
+*   **1131:** Regulations prohibited household slaves of princes and princesses from marrying daughters of commoner families.
+*   **1135:** Emperor Ly Than Tong decreed that sellers of fields and ponds could not use higher prices to redeem them, legally protecting private land ownership rights.
 *   **1136:** Zen Master Nguyen Minh Khong successfully cured King Ly Than Tong of a strange illness (often described in legends as "tiger transformation"), subsequently being appointed National Preceptor.
 *   **Nov. 1138:** Ly Than Tong died, and Ly Thien To (Ly Anh Tong) ascended the throne, inheriting it according to the will of his father, Emperor Ly Than Tong (at the age of only 3 years old).
 *   **1141:** National Preceptor Nguyen Minh Khong passed away.
+*   **1142:** Emperor Ly Anh Tong established rules regarding land redemption and disputes, strictly prohibiting the redemption of outright sold land and barring lawsuits over disputes persisting 5 to 10 years.
+*   **1143:** Reiteration of the cattle slaughter ban, stipulating that neighbors failing to report violations would be punished equally.
 *   **Feb. 1149:** The Van Don trading post (Quang Ninh) was established as a place for merchant ships from other countries to trade, officially opening the first international trading port.
 *   **1150:** The Do Anh Vu rebellion occurred in the royal court.
+*   **1150:** Do Anh Vu was temporarily exiled to work as a "cao dien nhi" (state agricultural slave) in Cao village.
 *   **Apr. 21, 1151:** National Preceptor Vien Thong passed away.
+*   **1157:** The court prohibited all social classes from wearing plain blue/green single-layer garments.
 *   **Nov. 1161:** King Ly Anh Tong sent To Hien Thanh to patrol the southwestern coastal borders to maintain security.
 *   **1164:** The Song dynasty officially invested King Ly Anh Tong as the **King of An Nam** (An Nam Quoc Vuong); the name "An Nam" was officially used as the national title in diplomatic relations from this point.
 *   **1171 - 1172:** King Ly Anh Tong personally patrolled the islands and coastal areas, surveying the terrain and documenting local customs and geography to compile the *Nam Bac Phien Gioi Dia Do* (Map of Northern and Southern Frontiers).
 *   **Aug. 14, 1175:** Ly Anh Tong passed away, Ly Long Can ascended the throne (Ly Cao Tong) at the age of 2.
 *   **1181:** A great famine occurred, causing nearly half the population to die.
+*   **1192:** Excavation of the To Lich River to facilitate transportation and irrigation around the capital.
 *   **1198:** King Ly Cao Tong, following the advice of Dam Di Mong, ordered the dismissal of monks who did not strictly follow precepts, forcing them to return to secular life to perform corvee labor, reorganizing Buddhism and society.
 *   **13th century:** Italian explorer Marco Polo visited and described Con Dao Island in his memoirs. In the same century, Islam was also introduced, primarily through the Cham community.
 *   **13th century (Tran Dynasty):** The state established the specialized positions of *Ha de su* (Dike Commissioner) and *Don dien su* (State Farm Commissioner) across routes (lo) to manage irrigation, dike construction, and agricultural expansion. The period for evaluating mandarins was set to 15 years.
@@ -260,6 +288,8 @@
 *   **Jan. 1209:** The Quach Boc rebellion broke out in the capital Thang Long, forcing King Ly Cao Tong to flee. Crown Prince Sam fled to Hai Ap (Thai Binh), was sheltered by the Tran clan, and married Tran Thi Dung.
 *   **1210:** Ly Cao Tong passed away, Ly Hao Sam ascended the throne (Ly Hue Tong). The power of the Tran clan grew stronger.
 *   **1211:** Ly Hue Tong officially invested Tran Thi Dung as the Queen Consort (Nguyen Phi), marking the Tran clan's deep entrenchment in the royal court's power structure.
+*   **1218:** Ly Bat Nhiem was enfeoffed as a Marquis and granted 7,500 households as an appanage and 1,500 households as a fief.
+*   **1222:** Emperor Ly Hue Tong divided the country into 24 circuits, dispatching princesses to reside there and utilize local household slaves for corvée labor.
 *   **Jun. 1225:** Ly Hue Tong was ill and had no son, so he passed the throne to his second daughter, Ly Thien Hinh, or Ly Chieu Hoang (7 years old). She became the first and only female monarch in Vietnamese history.
 
 ### **Dai Viet Period - Tran Dynasty (1226 - 1400)**
@@ -268,24 +298,34 @@
 *   **1226 - 1229:** Tran Quoc Tuan (Tran Hung Dao) was born in Tuc Mac village, My Loc district, Nam Dinh province. He later became a brilliant military strategist and Commander-in-Chief of the Dai Viet army.
 *   **Jan. 10, 1226:** Under the arrangement of Tran Thu Do, Ly Chieu Hoang ceded the throne to her husband, Tran Canh (Tran Thai Tong). In January 1226, she was officially invested as Empress Chieu Thanh. The Ly dynasty ended.
 *   **Aug. 1226:** Tran Thu Do forced Ly Hue Tong (who had become a monk) to commit suicide at Chan Giao Pagoda.
+*   **1228:** The Tran court sent officials to review population registers in Thanh Hoa province.
 *   **1229:** The Song dynasty officially recognized Tran Thai Tong as the King of An Nam.
 *   **1230:** The law codes Quoc trieu thong che and Quoc trieu thuong le were promulgated.
+*   **1231:** Emperor Tran Thai Tong ordered eunuchs and soldiers to dig the Tram and Hao rivers in Thanh Hoa.
 *   **1232:** The first Confucian civil service examination of the Tran dynasty was organized during the reign of Emperor Tran Thai Tong. The regulation dividing successful candidates into three tiers (Tam giap) was established for the first time.
 *   **Apr. 1232:** The Tran court, under Tran Thu Do's directive, ordered the descendants of the Ly clan to change their surname to "Nguyen" to prevent any attempts to restore the former dynasty.
+*   **1233:** Population registers were reviewed in Nghe An.
 *   **1233:** Crown Prince Trinh, the first child of Emperor Tran Thai Tong, passed away shortly after birth.
 *   **Jan. 18, 1234:** Retired Emperor (Thuong hoang) Tran Thua passed away at the age of 51. He held the position of Retired Emperor for 8 years without ever officially reigning as Emperor.
+*   **1236:** King Tran Thai Tong ordered the re-dredging of the To Lich river and established regulations for paying salaries to civil and military officials by sharing tax revenue.
 *   **1237:** Tran Thu Do forced Emperor Tran Thai Tong to marry his older brother Tran Lieu's wife, Princess Thuan Thien, and invested her as Empress. Former Empress Chieu Thanh (Ly Chieu Hoang) was demoted to Princess due to her prolonged inability to bear an heir. Late that year, Thuan Thien gave birth to Tran Quoc Khang (who was actually Tran Lieu's son). This forced marriage triggered the Tran Lieu rebellion.
+*   **1237:** King Tran Thai Tong granted the lands of Yen Phu, Yen Duong, Yen Sinh, Yen Hung, and Yen Bang to his brother Tran Lieu as a "thang mộc ấp" (bathing appanage). He also formalized the procedure for making deeds for land sales and loans, requiring witnesses to fingerprint the first three lines and sellers the last four lines.
+*   **1238:** Population registers were reviewed in Thanh Hoa.
 *   **Sep. 25, 1240:** Prince Tran Hoang (later Emperor Tran Thanh Tong), the eldest legitimate son of Emperor Tran Thai Tong, was born and established as the Crown Prince (Dong Cung Thai tu).
 *   **Oct. 1241:** Prince Tran Quang Khai, a younger full brother of Crown Prince Tran Hoang, was born.
 *   **1242:** The court carried out administrative reforms, dividing the country into 12 routes (lo).
+*   **1242:** The Tran dynasty defined the "điền phú" tax system. Men with land paid money and rice based on acreage (1-2 mau paid 1 quan, 3-4 mau paid 2 quan, 5+ mau paid 3 quan), while those without land were exempt.
 *   **1247:** Nguyen Hien passed the imperial examination as Trang Nguyen (First Laureate) at the age of 12, becoming the youngest First Laureate in Vietnamese history.
 *   **1247:** During the Dinh Mui examination, the Tran court established the title "Tam khoi" (Three Laureates) for the first time to designate the three most outstanding successful candidates, ranked as Trang nguyen, Bang nhan, and Tham hoa.
+*   **1248:** Emperor Tran Thai Tong mobilized the populace to construct the "Dinh Nhi" dikes from river sources to the sea to prevent flooding, and ordered the excavation of the Le and Ma rivers in Thanh Hoa.
 *   **Jun. 1248:** Empress Thuan Thien passed away.
 *   **1250:** King Tran Thai Tong issued a decree requiring the people to address the King as "Quoc gia" (The Nation/State) to elevate the King's position and national unity.
 *   **Spring 1251:** Emperor Tran Thai Tong had betrothed his eldest daughter, Princess Thien Thanh, to Trung Thanh Vuong (son of Nhan Dao Vuong). However, Tran Quoc Tuan (later Tran Hung Dao), deeply in love with the Princess from childhood, boldly infiltrated her room at night. Princess Thuy Ba (the Emperor's sister, who raised Quoc Tuan) presented 10 trays of gold to the Emperor to request the marriage. To avoid punishing Quoc Tuan, Emperor Tran Thai Tong sanctioned their union and compensated Nhan Dao Vuong with 2,000 mau of land in Ung Thien prefecture. This marriage later produced four prominent generals (Hung Vu Vuong, Hung Tri Vuong, Hung Nhuong Vuong, Hung Hien Vuong) and two daughters (including Queen Kham Tu).
 *   **1252:** Tran Thai Tong personally led a campaign against Champa.
 *   **Jun. 1253:** King Tran Thai Tong established the **Quoc Hoc Vien** (National Academy) for scholars to lecture on the Classics.
 *   **Aug. 1253:** The **Giang Vo Duong** (Military Academy) was established to train in martial arts, marking a formalization of military education.
+*   **Jun. 1254:** Emperor Tran Thai Tong sold public land (quan dien) to commoners at 5 quan per mau to convert into private property, officially recognizing and promoting private land ownership.
+*   **1255:** Emperor Tran Thai Tong dispatched Luu Mien to supervise dike construction along rivers in Thanh Hoa.
 *   **1256:** The Tran court distinguished for the first time between "Kinh Trang Nguyen" (for candidates from Ninh Binh northwards) and "Trai Trang Nguyen" (for candidates from Thanh Hoa southwards) to encourage talent from different regions. Tran Quoc Lac and Truong Xan were the respective laureates.
 *   **Feb. 1257:** Emperor Tran Thai Tong took the daughter of Hoang Binh into the palace, investing her as Concubine Hue Tuc (Hue Tuc phu nhan).
 *   **Aug. 1257:** A Mongol envoy came to Dai Viet for the first time to demand submission.
@@ -295,15 +335,18 @@
 *   **Jan. 29, 1258:**   **Battle of Dong Bo Dau.** Under the command of Tran Khanh Du and the King, the Tran army launched a surprise night attack, winning a decisive victory and liberating Thang Long. The first resistance war against the Mongols ended in victory.
 *   **Mar. 1258:** Tran Thai Tong ceded the throne to his son, Tran Hoang (Tran Thanh Tong).
 *   **1262:** King Tran Thanh Tong elevated Tuc Mac village to Thien Truong prefecture, and built the Trung Quang Palace and Pho Minh Tower (Nam Dinh).
+*   **Oct. 1266:** Emperor Tran Thanh Tong issued an edict allowing princes, princesses, consorts, and royal relatives to recruit landless vagrants as household slaves to reclaim wasteland and establish private estates (dien trang).
 *   **1267:** The Yuan dynasty presented "six demands" to Dai Viet, including that the Tran king must pay tribute in person and allow the appointment of administrators.
-*   **1272:** Le Van Huu completed the *Dai Viet su ky*, the first national history of Vietnam.
+*   **1272:** Le Van Huu completed the *Dai Viet Su Ky* (Annals of Dai Viet), the first national history of Vietnam, comprising 30 volumes.
 *   **1278:** Former Empress Chieu Thanh (Ly Chieu Hoang) passed away at the age of 61. After her demotion, she had been married to General Le Phu Tran, with whom she had a son (Thuong Vi Hau Tong) and a daughter (Ung Thuy Cong chua Khue).
 *   **Oct. 24, 1278:** Emperor Trần Thánh Tông abdicated the throne in favor of Crown Prince Trần Khâm (later known as Emperor Trần Nhân Tông).
+*   **1281:** Schools were established in Thien Truong prefecture (Nam Dinh).
 *   **1282:** The first work written in chữ Nôm (Vietnamese demotic script) was *Văn tế cá sấu* (Eulogy for the Crocodile) by Nguyễn Thuyên, composed during the Trần dynasty. This was a text commissioned by Emperor Trần Nhân Tông to drive away a crocodile that had appeared in the Red River.
 *   **Oct. 1282:** King Tran Nhan Tong convened the **Binh Than Conference** to discuss strategies against the Yuan invasion. Hoai Van Hau **Tran Quoc Toan**, being too young (15 years old) to participate, crushed an orange in his hand out of frustration. He later mobilized over 1,000 domestic servants and relatives, raising a flag with six golden words: "**Pha cuong dich, bao hoang an**" (Destroy the strong enemy, repay the royal favor) to join the resistance.
 *   **Dec. 1282:** Yuan forces under the command of Sogetu attacked Champa, initiating the plan to invade Dai Viet from the south.
 *   **Mar. 19, 1283:** Yuan forces under Sogetu were defeated by the Champa army and had to retreat.
 *   **Oct. 1283:** To prepare for the second resistance against the Yuan army, Tran Quoc Tuan was appointed by Emperor Emeritus Tran Thanh Tong and King Tran Nhan Tong as the Commander-in-Chief (Quoc cong tiet che) of the armed forces.
+*   **1284:** Emperor Tran Nhan Tong ordered the re-dredging of the To Lich River.
 *   **Aug. 1284:** Tran Hung Dao held a military review at Dong Bo Dau (Hanoi) and wrote the "Proclamation to the Officers" (Hich tuong si) to boost the morale of the soldiers.
 *   **Dec. 1284:** King Tran convened the Dien Hong Conference, asking for the opinions of elders throughout the country on whether to make peace or fight.
 *   **1285:** When King Tran Thanh Tong asked if he should surrender during the difficult early stages of the war, Tran Hung Dao famously replied: "Your Majesty, if you want to surrender, please cut off my head first."
@@ -320,6 +363,7 @@
 *   **1288 (early year):** Tran Khanh Du commanded the Battle of Van Don, completely destroying the enemy's supply fleet led by Zhang Wenhu.
 *   **Apr. 9, 1288:** The historic Battle of Bach Dang. The Yuan navy was completely annihilated under the command of Hung Dao Vuong Tran Quoc Tuan. The third resistance war against the Mongol-Yuan invaders ended in a glorious victory.
 *   **Sep. 1288:** Nguyen Tu Quoc Mau (Princess Thien Thanh, wife of Tran Hung Dao) passed away after 37 years of marriage. While her husband fought on the front lines, she managed logistics in the rear. She was one of the only two women (along with Linh Tu Quoc Mau Tran Thi Dung) honored with the supreme title "Quoc Mau" (Mother of the Nation) for their immense contributions to the Tran dynasty.
+*   **1289:** Emperor Tran Nhan Tong enfeoffed Nguyen Khoai as a Marquis and granted Khoai Lo district as a "thang moc ap" (bathing appanage).
 *   **Apr. 16, 1293:** Tran Nhan Tong abdicated the throne in favor of Crown Prince Tran Thuyen (later Tran Anh Tong).
 *   **1294:** The Yuan dynasty officially issued an edict to end the war with Dai Viet after Emperor Temur Khan ascended the throne.
 *   **1294:** General Tran Quang Khai, a key figure in the resistance against the Mongols and a renowned poet, passed away.
@@ -331,10 +375,14 @@
 *   **1304:** The largest "Thai hoc sinh" (National University student) examination since the beginning of the Tran dynasty was held during the reign of Emperor Tran Anh Tong. The Emperor created the additional title "Hoang giap" to designate candidates who passed in the second tier (De nhi giap).
 *   **1306:** The Champa king Che Man (Jaya Simhavarman III) offered the two prefectures of O and Ly as a wedding gift to marry Princess Huyen Tran.
 *   **1307:** The Tran dynasty renamed the two prefectures of O and Ly to Thuan and Hoa, incorporating them into Dai Viet's territory.
+*   **1309:** Digging of the Thien Duc River (Duong River) to facilitate transport.
+*   **1310:** Emperor Tran Anh Tong granted 80 mau of land and agricultural laborers in An Dinh to Zen Master Phap Loa.
 *   **1312:** King Tran Anh Tong led a campaign against Champa, capturing the Champa King Che Chi.
 *   **Jul. 4, 1314:** Tran Anh Tong abdicated the throne in favor of Crown Prince Tran Manh (later Tran Minh Tong).
 *   **1315:** King Tran Minh Tong issued a law prohibiting relatives within the royal family from suing each other, aiming to maintain harmony and order within the dynasty.
+*   **1316:** The Tran court revised regulations on granting households as stipends to civil officials based on rank, and princes harvested Tich Dien fields.
 *   **1323:** King Tran Minh Tong opened the Thai hoc sinh examination to select talented individuals to serve the country, bringing capable scholars like Doan Nhu Hai, Pham Ngu Lao, and Chu Van An into the administration.
+*   **1324:** Minister Van Hue Vuong donated 300 mau of land in Gia Lam, over 1,000 mau in Dong Gia and An Lu, along with over 1,000 household slaves to Quynh Lam Pagoda.
 *   **1329:** Scholar Ly Te Xuyen completed the *Viet Dien U Linh Tap* (Collection of the Potent Spirits of the Viet Realm), preserving key historical legends and spiritual heritage of Vietnam.
 *   **Mar. 18, 1329:** Tran Minh Tong abdicated the throne in favor of Crown Prince Tran Vuong (later Tran Hien Tong).
 *   **1330:** Prince Tran Nhat Duat, a prominent general and diplomat known for his knowledge of foreign languages and cultures, passed away.
@@ -352,11 +400,13 @@
 *   **Jun. 1353:** Emperor Tran Du Tong dispatched troops to escort Che Mo back to his country, but they were defeated by Bo De's forces at Co Luy.
 *   **Sep. 1353:** Champa forces under Bo De attacked Hoa Chau but were repelled by Truong Han Sieu.
 *   **1354:** A severe famine occurred. A man named Te, claiming to be the maternal grandson of Tran Quoc Tuan, gathered runaway domestic slaves and rebelled from Lang Giang to Nam Sach.
+*   **1355:** Emperor Tran Du Tong mobilized the populace to dig rivers in Nghe An and Thanh Hoa.
+*   **1357:** Emperor Tran Du Tong ordered Thanh Hoa and Nghe An circuits to re-dredge old canals.
 *   **Feb. 1357:** Retired Emperor Tran Minh Tong passed away. Emperor Tran Du Tong began a life of debauchery and indulgence.
 *   **1358:** Ngo Be's forces recovered and rebelled again at Yen Phu mountain, occupying a large area from Thien Lieu to Chi Linh.
 *   **1360:** Che Bong Nga ascended the throne as the King of Champa.
 *   **Mar. 1360:** Ngo Be was captured and beheaded.
-*   **Dec. 1360:** Emperor Tran Du Tong issued an edict ordering all domestic slaves of nobles and princesses to be tattooed on their foreheads.
+*   **Dec. 1360:** Emperor Tran Du Tong ordered all household slaves of princes and princesses to be tattooed on their foreheads with their master's title to prevent escape or rebellion.
 *   **1361:** Champa under King Che Bong Nga began attacks and raids on Dai Viet, starting a long period of conflict.
 *   **Mar. 1361:** Champa forces crossed the sea and raided the Di Ly estuary (Quang Binh), but were defeated.
 *   **Jan. 1362:** Emperor Du Tong ordered nobles and princesses to present various forms of entertainment.
@@ -371,12 +421,14 @@
 *   **1370:** Le Quy Ly (later Ho Quy Ly) entered the Tran court with the title of Chief Commander of the Imperial Guards.
 *   **Dec. 14, 1370:** Tran Phu (later Tran Nghe Tong) ascended the throne after Duong Nhat Le was deposed.
 *   **1371:** Champa forces led by Che Bong Nga attacked the capital Thang Long directly, plundering and burning down the palaces.
+*   **1371:** Abolished the "sa chau tiet cuoc" custom (princes and nobility claiming newly formed sandbars as private estates) established by Empress Dowager Chieu Tu to limit private land expansion.
 *   **Mar. 1371:** Champa forces, led by Che Bong Nga, advanced by sea through the Dai An estuary and captured Thang Long for the first time.
 *   **May 1371:** Le Quy Ly was appointed as the Commissioner of the Privy Council.
 *   **Sep. 1371:** Le Quy Ly was granted the title of Marquis of Trung Tuyen Quoc.
 *   **Dec. 14, 1372:** Tran Nghe Tong abdicated the throne in favor of his younger brother, Crown Prince Tran Kinh (later Tran Due Tong).
 *   **Aug. 1373:** Bandits increasingly rebelled. Le Quy Ly ordered the construction of warships and began military reforms.
 *   **1374:** The court organized a doctoral examination, Dao Su Tich ranked as Trang Nguyen (First Laureate).
+*   **1374:** Emperor Tran Due Tong mobilized the populace to dig rivers reaching the Ha Hoa sea port.
 *   **Aug. 1374:** The Tran court recruited more troops and reorganized the army. Imperial guards had three black characters tattooed on their foreheads.
 *   **1375:** King Tran Due Tong changed Lam Binh prefecture to Tan Binh prefecture.
 *   **Jan. 1375:** Le Quy Ly was appointed by Emperor Tran Due Tong to concurrently hold the position of Military Advisor. He selected officials skilled in martial arts to serve as commanders regardless of whether they were royal family members.
@@ -394,6 +446,7 @@
 *   **Apr. 1381:** Taking advantage of Champa raids, Ho Thuat gathered people to rebel in Dien Chau but was beheaded.
 *   **May 1380:** Le Quy Ly commanded the navy to defeat the Champa forces led by Che Bong Nga at the Ngu Giang river (Thanh Hoa). Qui Ly beheaded General Nguyen Kim Ngao to maintain strict military discipline. He was later appointed as the Supreme Commander of Hai Tay.
 *   **1381:** The Tran dynasty ordered healthy monks to be conscripted into the army to fight Champa.
+*   **1382:** Ordered the digging of rivers in Nghe An, Tan Binh, and Thuan Hoa to improve transportation and irrigation.
 *   **Jun. 1381:** Retired Emperor Nghe Tong ordered the transfer of deity statues from various mausoleums to the grand mausoleum in Yen Sinh to avoid the Champa threat.
 *   **Feb. 1382:** Champa raided Thanh Hoa. The Dai Viet army defeated the Champa forces at the Than Dau estuary.
 *   **Jan. 1383:** Le Quy Ly commanded the naval fleet to attack Champa but encountered a storm, suffering damage to warships and forcing a retreat.
@@ -432,8 +485,10 @@
 *   **May 1397:** The Tran emperor issued an edict to reform education, appointing educational officials in prefectures and sub-prefectures in Son Nam, Kinh Bac, and Hai Dong, and granting school lands to cover educational expenses.
 *   **Nov. 1397:** Emperor Tran Thuan Tong was forced to move the capital to Tay Do (Thanh Hoa). Thang Long was renamed Dong Do.
 *   **1398:** For the first time in history, the court ordered a nationwide land survey.
+*   **1398:** King Tran Thuan Tong granted public land to educational officials in various prefectures of Son Nam and Hai Dong for educational expenses.
 *   **April 1398:** Le Quy Ly forced Emperor Tran Thuan Tong to abdicate in favor of his two-year-old son, Tran Thieu De, and then forced him to retire to a secluded place in Thanh Hoa.
 *   **Mar. 1398:** Emperor Thieu De ascended the throne at Bao Thanh Palace. The court conducted a nationwide land survey (lasting until 1403).
+*   **1399:** Ho Quy Ly ordered the digging of the Vi, Tram, and Hao canals reaching down to the Ha Hoa sea port.
 *   **May 1399:** Le Quy Ly sent his trusted general, Pham Kha Vinh, to the former emperor's residence. Pham Kha Vinh attempted to force Tran Thuan Tong to commit suicide by poison, but failed. Finally, Pham Kha Vinh strangled the former emperor to death. Tran Thuan Tong was buried at Yen Sinh mausoleum.
 *   **May 1399:** A mutiny occurred at the Don Son Oath Ceremony. Grand Tutor Tran Hang and Tran Khat Chan failed in their plot to assassinate Le Quy Ly. Over 370 people were executed.
 *   **Jun. 1399:** Le Quy Ly proclaimed himself *Quoc To Chuong Hoang De*, adopting imperial regalia and using a gold parasol, foreshadowing his usurpation.
@@ -592,6 +647,7 @@
 *   **Jun. 1471:** Le Thanh Tong personally led a campaign against Champa, capturing Do Ban Citadel and King Tra Toan. The 13th Thua Tuyen province, Quang Nam, was added.
 *   **1479:** The historical chronicle *Dai Viet sử ký toàn thư* (Complete History of Dai Viet) was first completed by Ngo Si Lien.
 *   **1479:** During the war with Lan Xang (1478 - 1480), Dai Viet forces advanced deep into Lao territory, capturing the capital Luang Prabang.
+*   **1481:** Emperor Le Thanh Tong designated Hong Mai village, Thanh Dam district, outside the capital, as the location for the Tich Dien ploughing ceremony.
 *   **1483:** The court promulgated the *Quoc trieu hinh luat* (National Dynasty's Penal Code), commonly known as the Hong Duc Code.
 *   **1484 (15th of the 8th lunar month):** Under the order of Emperor Le Thanh Tong, the court officially held a ceremony to erect the first ten doctoral steles at the Temple of Literature in Thang Long, recording the names of laureates from the 1442 examination onwards to honor and encourage scholarly pursuit.
 *   **Mar. 1484:** King Le Thanh Tong issued strict edicts prohibiting abortion, classifying it as a crime damaging to ethics and life, with severe penalties for husbands who failed to prevent it.
