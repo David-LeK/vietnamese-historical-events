@@ -8,10 +8,13 @@
 *   **Approximately 21,000 BC (23,000 years ago):** Trang An Culture period (Ninh Binh), characterized by cave dwelling adaptation to climate change and sea-level transgression.
 *   **Approximately 16,000 - 9,000 BC (18,000 - 11,000 years ago):** Son Vi Culture period.
 *   **Approximately 9,400 - 5,700 BC (11,365 - 7,665 years ago):** Hoa Binh Culture period.
+*   **Approximately 8,000 BC (10,000 years ago):** A Mongoloid population migrated from the Himalayas to Southeast Asia and interbred with indigenous Melanesians, forming the Indonesien (Ancient Malay) race, the ancestors of many Southeast Asian peoples.
 *   **Approximately 7,000 - 5,000 BC:** Cai Beo Culture period (Cat Ba, Hai Phong), a prehistoric culture residing in coastal fishing villages.
 *   **Approximately 4,100 BC (6,095 years ago):** Date of the Da But Culture.
 *   **Approximately 3,000 BC (5,000 years ago):** Date of the Quynh Van Culture.
 *   **Approximately 3,000 - 1,500 BC:** Ha Long Culture period.
+*   **Approximately 3,000 BC (5,000 years ago):** The Austroasiatic (Nam-Á / Bách Việt) race was formed in southern China and northern Indochina due to interactions between the indigenous Indonesien and northern Mongoloid populations.
+*   **3rd millennium BC:** The Van Lang - Au Lac period saw a brilliant cultural peak with the development of Bronze metallurgy, particularly the Dong Son bronze drums, alongside wet rice agriculture, exerting significant influence across Southeast Asia.
 *   **2879 BC:** According to ancient texts, Kinh Duong Vuong began ruling the Xich Quy nation.
 *   **2879 - 258 BC:** The period of the 18 reigns of the Hung Kings. This was also the period when the legends of Lac Long Quan and Au Co, Phu Dong Thien Vuong (Saint Giong), and Son Tinh - Thuy Tinh are believed to have originated and been passed down orally.
 *   **Approximately late 3rd millennium BC - early 2nd millennium BC:** Phung Nguyen Culture period, marking the beginning of the Metal Age.
@@ -25,6 +28,7 @@
 ### **Nation Building and Northern Domination Period (800 BC - 938)**
 
 *   **7th century BC:** According to *Viet su luoc*, the Van Lang nation was born.
+*   **5th century BC:** Regarded by some historians as the "century of the South" due to the widespread influence of ancient Southeast Asian cultures (including the ancestors of the Vietnamese) in agriculture, metallurgy, and mythology.
 *   **Approximately 500 BC:** Dong Nai Culture period (Southeast region), a metallurgical culture connecting the Bronze and Iron Ages.
 *   **Around the 3rd - 2nd century BC:** Buddhism was introduced to Vietnam by sea from India. This was the earliest religion to arrive and has been localized, becoming a dominant ideology in national culture throughout many historical periods.
 *   **258 BC:** An Duong Vuong (Thuc Phan) annexed the Van Lang nation, ending the era of the Hung Kings.
@@ -43,6 +47,7 @@
 *   **43:** The uprising failed following an attack by the Han general Ma Yuan. The Trung Sisters committed suicide in the Hat River. Ma Yuan erected bronze pillars to mark the border.
 *   **78:** Truong Trong, a native of Nhat Nam commandery, traveled to Luoyang as an envoy. He boldly defended Vietnamese customs and dignity in front of the Han Emperor and court, later becoming the governor of Jincheng.
 *   **100:** More than 2,000 people in Tuong Lam district (Nhat Nam commandery) rose up against Han rule.
+*   **2nd century:** Shi Xie (Si Nhiep) established schools to spread Chinese culture and attempted to eliminate the Vietnamese language and script. However, Confucianism did not take deep root in villages due to the strong indigenous culture.
 *   **137:** The people of Tuong Lam district rose up, attacking the Han administrative seat and killing the chief official.
 *   **138:** The Han dynasty, following Li Gu's strategy, replaced governors and used bribery to cause internal division among the rebels in Nhat Nam, eventually suppressing the uprising.
 *   **144:** The people of Nhat Nam and Cuu Chan commanderies rose up against the Han dynasty.
@@ -59,6 +64,7 @@
 *   **210:** Shi Xie sent his son as a hostage and paid tribute to Sun Quan, marking the beginning of Eastern Wu's influence over Jiaozhou.
 *   **226:** Shi Xie passed away. Sun Quan of Eastern Wu divided Giao Chau into Guangzhou (North) and Jiaozhou (South).
 *   **227:** Shi Hui (Shi Xie's son) rebelled against Eastern Wu's new appointments but was defeated and executed. Eastern Wu reunified Guangzhou and Jiaozhou to facilitate suppression.
+*   **231:** Xue Zong (Tiet Tong) submitted a memorial to the Eastern Wu emperor, highlighting that despite the Han dynasty's assimilation policies, the people of Giao Chau (Vietnam) maintained their distinct customs, reflecting their resistance against Sinicization.
 *   **248:** The uprising of Lady Trieu (Trieu Thi Trinh) and her brother Trieu Quoc Dat broke out in Cuu Chan, shaking the whole Jiaozhou. She famously declared: "I only want to ride the strong wind, tread the rough waves, slay the whale in the East Sea, drive out the Wu army, reclaim the country, and unyoke the slavery, not bend my back to be a concubine for anyone!" Eastern Wu general Lu Yin led 8,000 troops to suppress the rebellion; Lady Trieu sacrificed herself on Mount Tung.
 *   **263:** Lu Xing (La Hung) rebelled in Giao Chi, killing the Eastern Wu Governor and submitting to the Cao Wei dynasty. Jiaozhou temporarily escaped Eastern Wu's control.
 *   **264:** The Eastern Wu dynasty re-divided Guangzhou and Jiaozhou, establishing Long Bien as the capital of Jiaozhou.
@@ -97,6 +103,7 @@
 *   **557:** Ly Phat Tu led troops to Thai Binh district to attack Trieu Viet Vuong. After five inconclusive battles, Ly Phat Tu sought peace. Trieu Viet Vuong agreed, dividing the territory at the Quan Than boundary (Tu Liem, Hanoi), with Ly Phat Tu governing the west from O Dien citadel. To seal the peace, Ly Phat Tu's son, Nha Lang, married Trieu Viet Vuong's daughter, Cao Nuong.
 *   **571:** Ly Phat Tu launched a surprise attack on Trieu Viet Vuong (after allegedly uncovering military secrets via his son Nha Lang). Defeated and cornered at the Dai Nha estuary (Nam Dinh), Trieu Viet Vuong committed suicide. Ly Phat Tu took over the entire country, moving the capital to Phong Chau and absorbing the Da Nang state back into Van Xuan. He later became known as Hau Ly Nam De (Later Ly Nam De).
 *   **Mar. 580:** Zen Master Vinitaruci arrived in Giao Chau (Vietnam), residing at Phap Van Pagoda and establishing the Vinitaruci Zen sect.
+*   **7th - 8th century (late Northern Domination period):** The Viet (Kinh) people, who currently make up nearly 90% of Vietnam's population, began to distinctively separate from the common Viet-Muong ethnolinguistic block.
 *   **602:** The Sui dynasty sent troops commanded by Liu Fang to invade; Ly Phat Tu (Later Ly Nam De) surrendered, and the Van Xuan kingdom ended.
 *   **605:** Sui general Liu Fang attacked Champa (Lam Ap), sacking the capital.
 *   **621:** Tang Emperor Gaozu dispatched Qiu He to act as the Grand Governor of Giao Chau, strengthening Tang administrative control over the region.
@@ -587,7 +594,8 @@
 *   **1490:** The map of the 13 provinces of the country was redefined.
 *   **Feb. 1496:** King Le Thanh Tong composed a poem praying for rain at the Hoang Huu temple; it rained heavily shortly after.
 *   **1497:** King Le Thanh Tong passed away. Le Hien Tong ascended the throne.
-*   **16th century:** Catholicism began to be introduced, with the arrival of Franciscan and Dominican missionaries.
+*   **1497:** King Le Thanh Tong's funeral regulations stipulated that officials must wear white for 100 days, and black thereafter when attending court, reflecting the deep adoption of the Five Elements (Ngu hanh) color symbolism in Vietnamese mourning customs.
+*   **16th century:** Catholicism continued to be introduced, with the arrival of Franciscan and Dominican missionaries.
 *   **16th century:** Portuguese explorers referred to the Paracel Islands as "Ilhas do Pracel".
 *   **1504:** Le Hien Tong passed away, Le Tuc Tong ascended the throne but passed away after 6 months.
 *   **1505:** Le Uy Muc ascended the throne. The court began to fall into disarray; the king was cruel, killed relatives, and power fell into the hands of the empress's family.
@@ -608,6 +616,7 @@
 *   **1529:** Mac Dang Dung ceded the throne to his son Mac Dang Doanh and retired as Retired Emperor.
 *   **1529:** The Mac dynasty organized its first doctoral examination, passing 27 candidates, continuing the educational traditions of the preceding Le dynasty.
 *   **Jan. 1, 1530:** Mac Dang Doanh ascended the throne, taking the era name Dai Chanh.
+*   **1533:** According to historical records, a Westerner named Ignatio (I-ne-khu) secretly entered Ninh Cuong, Quan Anh, and Tra Vu villages (Nam Dinh) by sea to preach Catholicism. This marks the earliest officially recorded introduction of Christianity into Vietnam.
 *   **1533:** In Ai Lao (Laos), Nguyen Kim (a former Le official) found Le Ninh (son of King Le Chieu Tong), established him as king (Le Trang Tong), and began the "support the Le, destroy the Mac" movement.
 *   **1533:** Dutch peas (Dau Ha Lan) were introduced to Vietnam for the first time by Dutch merchants arriving in the Southern region (under Le Trang Tong) and later spreading to the North.
 *   **1535:** Nguyen Binh Khiem, a renowned scholar, poet, and prophet (known as Trang Trinh), passed the imperial examination as Trang Nguyen under the Mac dynasty.
@@ -639,6 +648,7 @@
 
 ### **Period of Division: Dang Trong - Dang Ngoai (1593 - 1771)**
 
+*   **1593:** According to Catholic church records, there were 12 fully Catholic villages established in Nghe An, indicating the early and rapid spread of Christianity in Vietnam.
 *   **Early 1593:** Descendants of the Mac (Mac Kinh Chi) continued to rise up in Hai Duong but were quickly suppressed. The remnants of the Mac dynasty retreated to Cao Bang and continued to hold out. The North-South Dynasties War essentially ended.
 *   **Apr. 16, 1593:** The Le king returned to Thang Long. The Le dynasty was restored.
 *   **1595:** Following the recapture of the capital, the metropolitan examinations (thi Hoi) of the Restored Le dynasty resumed in Thang Long, and the palace examinations (thi Dinh) were reinstated as customary.
@@ -647,6 +657,7 @@
 *   **1600:** Nguyen Hoang returned to Thuan Quang from the North and began implementing new administrative policies, gradually breaking away from the control of the Trinh lords.
 *   **1601:** Shogun Tokugawa Ieyasu sent an official letter to Lord Nguyen Hoang to establish trade relations and control Japanese merchants (Red Seal ships).
 *   **First half of the 17th century:** The Nguyen Lords sent the *Hoang Sa fleet* to the Spratly and Paracel Islands to exploit resources, collect salvaged goods, and assert sovereignty, including surveying sea routes, planting trees, and erecting markers. Phu Quoc remained a wild and undeveloped land, subject to disputes between Chenla (Cambodia) and other powers.
+*   **Late 17th century:** To politically and culturally differentiate themselves from Dang Ngoai (the North), the Nguyen Lords ordered men and women in Dang Trong (the South) to adopt Northern (Chinese-style) clothing.
 *   **1604:** Lord Nguyen Hoang renamed Tien Binh prefecture to **Quang Binh** prefecture.
 *   **1611:** The Nguyen army attacked Champa, taking the land south of the Cu Mong Pass and establishing Phu Yen Prefecture.
 *   **1614:** Nguyen Phuc Nguyen (son of Nguyen Hoang) succeeded him, reformed the administrative apparatus, appointed his own officials, and officially severed the subordinate relationship with the Trinh lords.
@@ -696,13 +707,16 @@
 *   **1655 - 1660:** The fifth campaign, this was the only time the Nguyen army proactively attacked the North, capturing 7 districts in Nghe An. However, they later had to retreat due to internal discord.
 *   **1657:** Lord Trinh Trang passed away. His son, Trinh Tac, succeeded him as Lord (Tay Dinh Vuong).
 *   **1658:** Lord Nguyen Phuc Tan sent troops to assist King Batom Reachea (Ponhea So, son of Princess Ngoc Van) in stabilizing his throne against usurpers. In return, the Cambodian court officially recognized Vietnamese sovereignty over the **Dong Nai** region.
+*   **1658:** The Pope appointed French missionaries Francois Pallu and Lambert de la Motte as bishops governing the dioceses of Dang Ngoai (Tonkin) and Dang Trong (Cochinchina), strengthening French religious influence.
 *   **Apr. 13, 1658:** Father Joseph Tissanier arrived in Tonkin, later noting the extreme difficulty of the Vietnamese language but managing to preach in it within months.
 *   **Early 1659:** Catechist Bento Thien wrote the "History of Annam" entirely in Chữ Quốc ngữ. This document provided an overview of Vietnamese history, society, and geography, proving that by the mid-17th century, native Vietnamese were highly proficient in the new script.
 *   **Sep. 12, 1659:** Catechist Igesico Van Tin wrote a letter in Chữ Quốc ngữ to Father Marini. This is one of the earliest surviving documents written entirely in the romanized script by a Vietnamese person.
 *   **Oct. 25, 1659:** Catechist Bento Thien wrote a detailed letter in Chữ Quốc ngữ to Father Marini, further demonstrating the advanced use of the script among Vietnamese Catholics.
 *   **1661 - 1662:** The sixth campaign. The Trinh army attacked but was unsuccessful and had to retreat.
+*   **1663:** King Le Huyen Tong issued 47 educational articles, including a warning against demanding excessive "cheo" (marriage tax) for women marrying outside their village. This tax served as an economic means to maintain the stability and autonomy of the Vietnamese village.
 *   **1663:** The Le-Trinh court issued a ban on Christianity ("Hoa Lang" religion) and ordered a strict census of all foreigners residing in the country to separate them from the local population.
 *   **1663:** The Nam Giao Hall was constructed for the first time to perform Heaven worship ceremonies (previously performed on an open altar).
+*   **1664:** The Paris Foreign Missions Society (Missions Étrangères de Paris, MEP) was established, paving the way for deeper French religious and eventual political involvement in Vietnam.
 *   **1667:** Joao da Cruz, a Portuguese metalcaster serving the Nguyen Lord, cast European-style bronze cannons, significantly bolstering the military strength of Dang Trong.
 *   **Jun. 1672:** The seventh and final Trinh-Nguyen campaign. The Trinh army, commanded by Trinh Can and Le Thi Hien, launched a massive attack on the Nhat Le wall. Nguyen forces, led by Nguyen Huu Hiep, Nguyen Huu Dat, and Nguyen My Duc, successfully defended the fortifications. The Trinh army failed to breach the wall and had to retreat to Bac Bo Chinh.
 *   **Late 1672:** The two sides agreed to a truce, taking the Gianh River as the demarcation line, officially dividing the country into Dang Trong and Dang Ngoai for over a century.
@@ -883,7 +897,9 @@
 *   **1803:** Emperor Gia Long ordered the reconstruction of the **Thang Long Citadel** (Hanoi Citadel). He set the salary regulations for officials and soldiers in the Northern Citadel. The court established Trang Tien in Thang Long to mint "Gia Long Thong Bao" coins.
 *   **1803 - 1808:** General Le Van Duyet was dispatched to suppress the uprising of the "Thach Bich savages" (ethnic minorities) in the Quang Ngai region, stabilizing the border areas.
 *   **Jan. 1803:** Emperor Gia Long ordered the casting of the **Nine Holy Cannons** (Cửu Vị Thần Công) from captured bronze weapons, completed in December 1804, symbolizing the power and longevity of the dynasty.
+*   **1804:** A formal regulation was issued standardizing the "cheo" (marriage tax) based on wealth (1 quan 5 tien for the rich, 6 tien for middle-class, 3 tien for the poor), and explicitly doubling the tax for marrying outside the village to preserve village cohesion.
 *   **1804:** Emperor Gia Long officially established the national title "Viet Nam" (after the Qing dynasty rejected "Nam Viet"). He also ordered the casting of seals for the six ministries and promulgated the communal land allocation system. Construction of the **Cung Thanh** (Palace City) began behind the Thai Hoa Palace, serving as the private residence for the Emperor and the royal family (renamed Purple Forbidden City in 1822). The administrative center of An Quang was moved to Quynh Lau (Quang Yen). Tuong Long Tower was dismantled to provide bricks for the construction of Hai Duong Citadel.
+*   **Jan. 1804:** Emperor Gia Long issued an edict forbidding the construction of new Catholic churches and requiring strict official permission for repairing ruined ones, reflecting the Nguyen dynasty's cautious policy towards Western religious influence to preserve traditional culture.
 *   **Sep. 16, 1804 (13th of the 8th lunar month):** The remains of King Le Chieu Thong, the Queen Mother, and the Crown Prince were returned to the Vietnamese border from China.
 *   **Nov. 14, 1804 (13th of the 10th lunar month):** Imperial Concubine Nguyen Thi Kim committed suicide by poison to follow King Le Chieu Thong, after his remains were brought back to Thang Long and a funeral ceremony was held.
 *   **Dec. 25, 1804 (24th of the 11th lunar month):** The remains of the Le royals were buried at Ban Thach mountain (Thanh Hoa), next to the mausoleum of King Le Hien Tong.
@@ -942,6 +958,7 @@
 *   **Oct. 1827:** Emperor Minh Mang issued a decree reforming the dress code in the territory north of the Gianh River to unify national customs.
 *   **Dec. 1827:** Governor-General Le Van Duyet traveled to Hue to petition Emperor Minh Mang to stop the persecution of Catholic missionaries, recalling the help of Bishop Pigneau de Béhaine to the Nguyen dynasty. This temporarily eased tensions between the court and the Catholic community.
 *   **1828:** Establishment of Tien Hai district (Thai Binh) under the "Doanh dien" (land reclamation) policy led by Nguyen Cong Tru.
+*   **1828:** Emperor Minh Mang issued a strict edict banning women from wearing traditional skirts (váy) and forcing them to wear trousers in a thorough emulation of Chinese customs, which provoked strong popular resistance expressed in folk songs.
 *   **May 1828:** Emperor Minh Mang personally performed the **Tich Dien** (Plowing) ceremony at the newly established field in the capital, reviving an ancient tradition to encourage agriculture.
 *   **Oct. 1828:** The golden seal **"Hoang De chi bao"** (Treasure of the Emperor) was cast.
 *   **1829:** Establishment of Kim Son district (Ninh Binh) through land reclamation efforts led by Nguyen Cong Tru.
@@ -1102,6 +1119,7 @@
 *   **Nov. 30, 1883:** Regents Nguyen Van Tuong and Ton That Thuyet ordered the execution of Regent Tran Tien Thanh due to disagreements over the royal succession and foreign policy.
 *   **Dec. 11 - 16, 1883:** Battle of Son Tay. French Admiral Amédée Courbet led a massive expeditionary force of 9,000 troops to attack the heavily fortified Son Tay Citadel, defended by the Black Flag Army alongside Vietnamese and Qing forces. After several days of bloody fighting, the French breached the western gate, forcing Luu Vinh Phuc to retreat. The capture of Son Tay was a devastating blow to the anti-French resistance.
 *   **1884 - 1945:** France continued to administer the Spratly and Paracel Islands as territories of French Indochina.
+*   **1884:** French researcher Julien recorded the distinct guild street organization in Hanoi (e.g., Hang Dong, Hang Tranh), highlighting the unique urban adaptation of rural village guild structures where each trade concentrated on a specific street.
 *   **Jan. 1884:** Emperor Kien Phuc ordered the study and manufacturing of Western-style guns and the testing of Western textile techniques.
 *   **Feb. 1884:** Emperor Kien Phuc issued a decree requiring all degree holders (Doctors, Bachelors) to accept government posts to serve the country, penalizing those who refused.
 *   **Mar. 6 - 12, 1884:** Battle of Bac Ninh. French forces under General Charles-Théodore Millot launched a massive campaign with over 16,000 troops to capture the highly strategic Bac Ninh Citadel, defended by 20,000 Qing and Black Flag troops. Utilizing superior artillery and a flanking maneuver across the Duong River, the French routed the defenders.

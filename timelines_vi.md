@@ -8,10 +8,13 @@
 *   **Khoảng 21.000 TCN (23.000 năm trước):** Thời kỳ Văn hóa Tràng An (Ninh Bình), đặc trưng bởi sự thích ứng của người tiền sử với biến đổi khí hậu và biển tiến.
 *   **Khoảng 16.000 - 9.000 TCN (18.000 - 11.000 năm trước):** Thời kỳ Văn hóa Sơn Vi.
 *   **Khoảng 9.400 - 5.700 TCN (11.365 - 7.665 năm trước):** Thời kỳ Văn hóa Hòa Bình.
+*   **Khoảng 8.000 TCN (10.000 năm trước):** Một dòng người thuộc đại chủng Mongoloid từ dãy Himalaya di cư về hướng Đông Nam, hợp chủng với cư dân Melanésien bản địa tạo thành chủng Indonésien (Cổ Mã Lai), tổ tiên của nhiều dân tộc Đông Nam Á.
 *   **Khoảng 5.000 TCN (7.000 năm trước):** Thời kỳ Văn hóa Cái Bèo (Cát Bà, Hải Phòng), nền văn hóa tiền sử cư trú làng chài ven biển.
 *   **Khoảng 4.100 TCN (6.095 năm trước):** Niên đại của Văn hóa Đa Bút.
 *   **Khoảng 3.000 TCN (5.000 năm trước):** Niên đại của Văn hóa Quỳnh Văn.
 *   **Khoảng 3.000 TCN - 1.500 TCN:** Thời kỳ Văn hóa Hạ Long.
+*   **Khoảng 3.000 TCN (5.000 năm trước):** Chủng Nam-Á (Bách Việt) được hình thành tại miền nam Trung Hoa và bắc Đông Dương do sự tiếp xúc giữa chủng Indonésien bản địa và chủng Mongoloid từ phía bắc.
+*   **Thiên niên kỷ III TCN:** Giai đoạn Văn Lang - Âu Lạc đạt đến đỉnh cao rực rỡ với nghề nông nghiệp lúa nước và nghề luyện kim đồng (tiêu biểu là trống đồng Đông Sơn), có ảnh hưởng lớn đến toàn khu vực Đông Nam Á.
 *   **2879 TCN:** Theo thư tịch cổ, Kinh Dương Vương bắt đầu cai trị nước Xích Quỷ.
 *   **2879 - 258 TCN:** Giai đoạn 18 đời Hùng Vương trị vì. Đây cũng là khoảng thời gian mà truyền thuyết Lạc Long Quân và Âu Cơ, Phù Đổng Thiên Vương (Thánh Gióng), và Sơn Tinh - Thủy Tinh được cho là ra đời và truyền miệng.
 *   **Khoảng cuối thiên niên kỷ III TCN - đầu thiên niên kỷ II TCN:** Thời kỳ Văn hóa Phùng Nguyên, mở đầu thời đại kim khí.
@@ -25,6 +28,7 @@
 ### **Thời kỳ Dựng nước và Bắc thuộc (800 TCN - 938)**
 
 *   **Thế kỷ VII TCN:** Theo *Việt sử lược*, nước Văn Lang ra đời.
+*   **Thế kỷ V TCN:** Được nhiều học giả xem là "thế kỷ của phương Nam" do những ảnh hưởng to lớn của văn hóa Đông Nam Á cổ đại (bao gồm tổ tiên người Việt) về nông nghiệp và luyện kim vượt ra ngoài ranh giới khu vực.
 *   **Khoảng 500 TCN:** Thời kỳ Văn hóa Đồng Nai (Đông Nam Bộ), nền văn hóa kim khí kết nối giữa thời đại đồng thau và thời đại sắt sớm.
 *   **Khoảng thế kỷ III - II TCN:** Phật giáo được du nhập vào bằng đường biển từ Ấn Độ. Đây là tôn giáo có mặt sớm nhất và đã được bản địa hóa, trở thành tư tưởng chủ đạo trong văn hóa dân tộc qua nhiều thời kỳ lịch sử.
 *   **258 TCN:** An Dương Vương (Thục Phán) thôn tính nước Văn Lang, kết thúc thời đại Hùng Vương.
@@ -43,6 +47,7 @@
 *   **43:** Cuộc khởi nghĩa thất bại trước cuộc tấn công của tướng nhà Hán là Mã Viện. Hai Bà Trưng tuẫn tiết trên sông Hát. Mã Viện dựng cột đồng để ghi địa giới.
 *   **Năm 78:** Trương Trọng, người quận Nhật Nam, sang Lạc Dương (Trung Quốc) chầu vua Hán. Ông đã dũng cảm đối đáp cứng cỏi, bảo vệ phong tục và tôn nghiêm của người Việt trước triều đình phương Bắc, sau được phong làm Thái thú quận Kim Thành.
 *   **100:** Hơn 2.000 dân huyện Tượng Lâm (quận Nhật Nam) nổi dậy chống lại ách cai trị của nhà Hán.
+*   **Thế kỷ II:** Sĩ Nhiếp ra sức mở trường dạy học để truyền bá văn hóa Trung Hoa và thủ tiêu văn tự, ngôn ngữ Việt. Tuy nhiên, Nho giáo vẫn không thể bám rễ sâu vào các làng xã do sức sống mạnh mẽ của văn hóa bản địa.
 *   **137:** Người huyện Tượng Lâm nổi dậy đánh phá trị sở, giết trưởng lại rồi đánh rộng ra toàn quận Nhật Nam.
 *   **138:** Nhà Hán theo kế của Lý Cố, thay thái thú và dùng kế lấy vàng lụa mua chuộc, ly gián các thủ lĩnh quận Nhật Nam, khiến quân nổi dậy bị dẹp.
 *   **144:** Dân Nhật Nam và Cửu Chân cùng nổi lên chống lại nhà Hán.
@@ -59,6 +64,7 @@
 *   **210:** Sĩ Nhiếp chính thức gửi con sang làm con tin và nộp cống phẩm cho Tôn Quyền, đánh dấu việc Giao Châu bắt đầu chịu ảnh hưởng của nước Đông Ngô.
 *   **226:** Sĩ Nhiếp mất. Tôn Quyền quyết định chia Giao Châu làm hai: Quảng Châu (phía Bắc) và Giao Châu (phía Nam).
 *   **227:** Sĩ Huy (con Sĩ Nhiếp) nổi dậy chống lại việc bổ nhiệm quan lại mới của nhà Ngô nhưng thất bại và bị xử tử. Đông Ngô tái thống nhất hai châu thành Giao Châu như cũ để dễ bề đàn áp.
+*   **231:** Tiết Tông dâng sớ lên vua Ngô Hoàng Võ, miêu tả về chính sách đồng hóa của nhà Hán và sự phản kháng văn hóa của người Việt, cho thấy họ vẫn giữ gìn phong tục tập quán riêng.
 *   **248:** Cuộc khởi nghĩa của Triệu Thị Trinh cùng anh là Triệu Quốc Đạt bùng nổ tại Cửu Chân, khiến "toàn thể Giao Châu chấn động". Bà nổi tiếng với câu nói: "Tôi chỉ muốn cưỡi cơn gió mạnh, đạp luồng sóng dữ, chém cá kình ở biển Đông, đánh đuổi quân Ngô, giành lại giang sơn, cởi ách nô lệ, chứ không chịu khom lưng làm tì thiếp cho người!". Tôn Quyền sai Lục Dận mang 8.000 quân sang đánh và dẹp được cuộc nổi dậy; Bà Triệu tuẫn tiết trên núi Tùng.
 *   **263:** Tào Ngụy diệt Thục Hán. Tại Giao Chỉ, Lã Hưng nổi dậy giết chết Thái thú của nhà Ngô và xin thần phục nhà Ngụy. Giao Châu tạm thời thoát khỏi quyền kiểm soát của Đông Ngô.
 *   **264:** Nhà Đông Ngô tái chia tách Quảng Châu và Giao Châu, lấy Long Biên làm trị sở Giao Châu.
@@ -97,6 +103,7 @@
 *   **557:** Lý Phật Tử đem quân xuống miền Đông đánh nhau với Triệu Việt Vương ở huyện Thái Bình. Trải qua 5 trận không phân thắng bại, Lý Phật Tử xin giảng hòa. Triệu Việt Vương chấp thuận, lấy bãi Quần Thần (Từ Liêm, Hà Nội) làm ranh giới, chia cho Lý Phật Tử cai quản phía Tây, đóng đô ở thành Ô Diên. Nhã Lang (con Lý Phật Tử) kết hôn với Cảo Nương (con gái Triệu Việt Vương) để thắt chặt hòa hiếu.
 *   **571:** Lý Phật Tử bất ngờ đem quân đánh úp Triệu Việt Vương (tương truyền do Nhã Lang đánh cắp bí mật móng rồng). Yếu thế không thể chống cự, Triệu Việt Vương đem con gái chạy về cửa biển Đại Nha (Nam Định) rồi nhảy xuống biển tự vẫn. Lý Phật Tử thu phục toàn bộ đất nước, dời đô về Phong Châu, xưng là Hậu Lý Nam Đế, sáp nhập nước Dã Năng trở lại Vạn Xuân.
 *   **03/580:** Thiền sư Tỳ Ni Đa Lưu Chi (Vinitaruci) đến Giao Châu (Việt Nam), cư trú tại chùa Pháp Vân và dịch kinh *Tổng trì*, sáng lập thiền phái Tỳ Ni Đa Lưu Chi.
+*   **Thế kỷ VII - VIII (Cuối thời Bắc thuộc):** Người Việt (Kinh), tộc người chiếm gần 90% dân số cả nước hiện nay, đã tách ra từ khối Việt - Mường chung để hình thành tộc người riêng biệt.
 *   **602:** Nhà Tùy sai Lưu Phương đem quân xâm lược, Lý Phật Tử (Hậu Lý Nam Đế) đầu hàng, nước Vạn Xuân kết thúc.
 *   **605:** Tướng Tùy là Lưu Phương đem quân đánh Lâm Ấp (Champa), cướp phá kinh thành.
 *   **Năm 621:** Đường Cao Tổ sai Khâu Hòa làm Đại Tổng quản sang cai trị Giao Châu, củng cố sự kiểm soát của nhà Đường.
@@ -587,7 +594,8 @@
 *   **1490:** Định lại bản đồ 13 xứ trong cả nước.
 *   **02/1496:** Vua Lê Thánh Tông làm thơ cầu đảo tại miếu Hoàng Hựu sau nhiều ngày không mưa; đêm đó trời đổ mưa lớn.
 *   **1497:** Vua Lê Thánh Tông mất. Lê Hiến Tông lên ngôi.
-*   **Thế kỷ XVI:** Công giáo bắt đầu du nhập, với sự xuất hiện của các nhà truyền giáo Dòng Phan-Xi-Cô và Đa Minh.
+*   **1497:** Lễ tang vua Lê Thánh Tông quy định các quan trong 100 ngày mặc đồ trắng, ngoài 100 ngày mặc đồ đen đến chầu, thể hiện sự ảnh hưởng sâu sắc của triết lý Ngũ hành về màu sắc trong phong tục tang ma.
+*   **Thế kỷ XVI:** Công giáo tiếp tục du nhập, với sự xuất hiện của các nhà truyền giáo Dòng Phan-Xi-Cô và Đa Minh.
 *   **Thế kỷ XVI:** Các nhà thám hiểm Bồ Đào Nha gọi Hoàng Sa là "Ilhas do Pracel".
 *   **1504:** Lê Hiến Tông mất, Lê Túc Tông lên ngôi được 6 tháng thì mất.
 *   **1505:** Lê Uy Mục lên ngôi. Triều chính bắt đầu rối loạn, vua tàn bạo, giết hại tôn thất, quyền lực rơi vào tay ngoại thích.
@@ -608,6 +616,7 @@
 *   **1529:** Mạc Đăng Dung nhường ngôi cho con là Mạc Đăng Doanh, lui về làm Thái thượng hoàng.
 *   **1529:** Vương triều Mạc tổ chức khoa thi Tiến sĩ đầu tiên, lấy đỗ 27 người, tiếp nối truyền thống giáo dục và khoa cử của triều Lê trước đó.
 *   **01/01/1530:** Mạc Đăng Doanh lên ngôi vua, lấy niên hiệu là Đại Chính.
+*   **1533 (Năm Nguyên Hòa thứ 1 đời vua Lê Trang Tông):** Theo Khâm định Việt sử thông giám cương mục, một người phương Tây tên là I-nê-khu (Ignatio) theo đường biển lẻn vào giảng đạo Gia Tô ở các làng Ninh Cường, Quần Anh, Trà Vũ (Nam Định). Đây là mốc ghi nhận sớm nhất về sự du nhập của Công giáo vào Việt Nam.
 *   **1533:** Tại Ai Lao, Nguyễn Kim (một cựu thần nhà Lê) tìm được Lê Ninh (con vua Lê Chiêu Tông), lập lên làm vua (Lê Trang Tông), bắt đầu công cuộc "phù Lê diệt Mạc".
 *   **1533:** Đậu Hà Lan lần đầu tiên được người Hà Lan mang đến buôn bán tại vùng Gia Định và Sơn Nam, bắt đầu du nhập vào Việt Nam.
 *   **1535:** Nguyễn Bỉnh Khiêm (Trạng Trình), nhà văn hóa và nhà tiên tri lỗi lạc, đỗ Trạng nguyên dưới triều Mạc.
@@ -639,6 +648,7 @@
 
 ### **Thời kỳ Phân liệt Đàng Trong - Đàng Ngoài (1593 - 1771)**
 
+*   **1593:** Theo tài liệu của giáo hội, tại Nghệ An đã có đến 12 làng Công giáo toàn tòng, cho thấy sự phát triển nhanh chóng của tôn giáo này trong giai đoạn đầu.
 *   **Đầu 1593:** Con cháu nhà Mạc (Mạc Kính Chỉ) tiếp tục nổi dậy ở Hải Dương nhưng nhanh chóng bị dẹp tan. Dư đảng nhà Mạc rút lên Cao Bằng, tiếp tục cát cứ. Cuộc chiến tranh Nam - Bắc triều về cơ bản kết thúc.
 *   **16/04/1593:** Vua Lê trở về Thăng Long. Triều Lê được khôi phục.
 *   **1595:** Sau khi giành lại kinh đô, các khoa thi Hội của triều Lê Trung hưng được tiếp tục tổ chức tại Thăng Long và kỳ thi Đình được khôi phục như thường lệ.
@@ -647,6 +657,7 @@
 *   **1600:** Nguyễn Hoàng từ Bắc Hà trở về Thuận Quảng, bắt đầu thực hiện chính sách cai trị mới, từng bước tách khỏi sự ràng buộc của họ Trịnh.
 *   **1601:** Tướng quân Tokugawa Ieyasu gửi thư cho chúa Nguyễn Hoàng đề nghị thiết lập quan hệ giao thương và kiểm soát thương nhân Nhật Bản.
 *   **Nửa đầu thế kỷ XVII:** Các Chúa Nguyễn đã cử *đội Hoàng Sa* ra hai quần đảo Hoàng Sa và Trường Sa để khai thác sản vật, thu lượm hàng hóa trôi dạt và thực thi chủ quyền, bao gồm đo vẽ hải trình, trồng cây và dựng mốc. Phú Quốc vẫn là một vùng đất hoang vu, chịu sự tranh chấp giữa Chân Lạp (Campuchia) và các thế lực khác.
+*   **Cuối thế kỷ XVII:** Để tạo sự đối lập chính trị và văn hóa với Đàng Ngoài, chúa Nguyễn ra lệnh cho trai gái Đàng Trong phải "dùng quần áo Bắc quốc" (kiểu Trung Hoa) để tỏ sự biến đổi.
 *   **1604:** Chúa Nguyễn Hoàng đổi phủ Tiên Bình thành phủ **Quảng Bình**.
 *   **1611:** Quân Nguyễn đánh Chiêm Thành, lấy được vùng đất phía nam đèo Cù Mông và lập ra phủ Phú Yên.
 *   **1614:** Nguyễn Phúc Nguyên (con Nguyễn Hoàng) lên thay, cải tổ bộ máy hành chính, tự bổ dụng quan lại, chính thức cắt đứt quan hệ lệ thuộc với họ Trịnh.
@@ -696,13 +707,16 @@
 *   **1655 - 1660:** Cuộc chiến lần thứ năm, đây là lần duy nhất quân Nguyễn chủ động tấn công ra Bắc, chiếm được 7 huyện ở Nghệ An. Tuy nhiên sau đó do nội bộ bất hòa phải rút lui.
 *   **1657:** Chúa Trịnh Tráng mất, con là Trịnh Tạc lên nối ngôi (Tây Định Vương).
 *   **1658:** Chúa Hiền (Nguyễn Phúc Tần) cử quân sang giúp vua Chân Lạp là Batom Reachea (Ponhea So - con của bà Ngọc Vạn) dẹp loạn. Để tạ ơn, triều đình Chân Lạp đã hợp thức hóa chủ quyền của người Việt tại vùng đất **Đồng Nai**.
+*   **1658:** Giáo hoàng phong cho hai giáo sĩ Pháp là Francois Pallu và Lambert de la Motte làm Giám mục cai quản hai địa phận Đàng Ngoài và Đàng Trong, củng cố ảnh hưởng của Công giáo Pháp tại Việt Nam.
 *   **13/04/1658:** Linh mục Joseph Tissanier đến Đàng Ngoài. Dù nhận định tiếng Việt cực kỳ khó học, ông đã có thể giảng đạo bằng tiếng Việt chỉ trong vài tháng.
 *   **Đầu năm 1659:** Thầy giảng Bento Thiện viết tập "Lịch sử nước Annam" hoàn toàn bằng chữ Quốc ngữ. Tài liệu này cung cấp cái nhìn tổng quan về lịch sử, xã hội và địa lý Việt Nam, chứng minh rằng vào giữa thế kỷ XVII, người Việt đã sử dụng rất thành thạo chữ viết mới này.
 *   **12/09/1659:** Thầy giảng Igesico Văn Tín viết một bức thư bằng chữ Quốc ngữ gửi cho Linh mục Marini. Đây là một trong những văn bản sớm nhất còn tồn tại được viết hoàn toàn bằng chữ Quốc ngữ do một người Việt Nam chấp bút.
 *   **25/10/1659:** Thầy giảng Bento Thiện viết một bức thư chi tiết bằng chữ Quốc ngữ gửi cho Linh mục Marini, tiếp tục chứng minh sự sử dụng thành thạo chữ Quốc ngữ của người Công giáo Việt Nam.
 *   **1661 - 1662:** Cuộc chiến lần thứ sáu. Quân Trịnh tấn công nhưng không thành công và phải rút về.
+*   **1663 (Năm Cảnh Trị thứ nhất):** Vua Lê Huyền Tông ban hành 47 điều giáo hóa, trong đó cấm việc đòi tiền cheo quá đáng khi phụ nữ lấy chồng làng khác. Tiền cheo là một công cụ kinh tế để duy trì sự ổn định và tính tự trị của làng xã Việt Nam.
 *   **1663:** Chính quyền Lê - Trịnh ban lệnh cấm người dân theo đạo Hoa Lang (Thiên Chúa giáo), đồng thời ra lệnh rà soát, thống kê kỹ lưỡng lý lịch người nước ngoài cư trú tại Đàng Ngoài.
 *   **1663:** Vua Lê Huyền Tông cho xây dựng điện Nam Giao (trước đây chỉ đắp đàn tế).
+*   **1664:** Hội thừa sai Paris (Missions Étrangères de Paris, MEP) được thành lập, mở đường cho sự can thiệp sâu hơn của Pháp vào Việt Nam về mặt tôn giáo và chính trị.
 *   **1667:** João da Cruz, một người Bồ Đào Nha phục vụ chúa Nguyễn, đã đúc thành công các loại súng thần công theo kỹ thuật phương Tây, gia tăng đáng kể tiềm lực quân sự cho Đàng Trong.
 *   **06/1672:** Cuộc chiến lần thứ bảy và cũng là lần ác liệt nhất. Quân Trịnh hùng hậu do Trịnh Căn và Lê Thì Hiến chỉ huy dốc toàn lực tấn công lũy Nhật Lệ. Tuy nhiên, quân Nguyễn do Nguyễn Hữu Hiệp, Nguyễn Hữu Dật và Nguyễn Mỹ Đức cố sức chống đỡ thành công, quân Trịnh không thắng nổi phải rút về Bắc Bố Chính.
 *   **Cuối 1672:** Hai bên đình chiến, lấy sông Gianh làm giới tuyến, chính thức chia cắt đất nước thành Đàng Trong và Đàng Ngoài trong hơn một thế kỷ.
@@ -883,7 +897,9 @@
 *   **1803:** Vua Gia Long ra lệnh đắp lại **Thành Thăng Long** (Hà Nội). Vua định lệ lương bổng cho quan và quân ở Bắc thành. Triều đình thiết lập Tràng Tiền tại Thăng Long để đúc tiền "Gia Long thông bảo".
 *   **1803 - 1808:** Tả quân Lê Văn Duyệt được cử đi đánh dẹp cuộc nổi dậy của "Mọi Thạch Bích" (đồng bào dân tộc thiểu số) ở vùng Quảng Ngãi, ổn định biên giới.
 *   **01/1803:** Vua Gia Long ra lệnh đúc **Cửu Vị Thần Công** từ các binh khí bằng đồng thu được, hoàn thành vào tháng 12/1804, đặt tên theo bốn mùa và ngũ hành.
+*   **1804 (Năm Gia Long thứ ba):** Triều đình quy định rõ mức tiền cheo (nhà giàu 1 quan 5 tiền, bậc trung 6 tiền, nhà nghèo 3 tiền) và bắt buộc nộp gấp đôi nếu lấy người làng khác, nhằm thắt chặt sự cố kết cộng đồng làng xã.
 *   **1804:** Vua Gia Long chính thức đặt quốc hiệu là Việt Nam (sau khi nhà Thanh không chấp thuận tên Nam Việt). Vua cũng cho đúc ấn của 6 bộ và ban hành phép quân điền (chia ruộng). Vua Gia Long cho xây dựng **Cung Thành** (nơi ở của vua và hoàng gia) ở phía sau điện Thái Hòa, đến năm 1822 đổi tên là Tử Cấm Thành. Triều Nguyễn dời trấn sở An Quảng về xã Quỳnh Lâu (Quảng Yên); phá tháp Tường Long lấy gạch đá xây thành Hải Dương.
+*   **01/1804:** Vua Gia Long ban chiếu cấm dựng nhà thờ Gia Tô mới và quy định nghiêm ngặt việc tu bổ nhà thờ cũ, thể hiện chính sách dè chừng đối với ảnh hưởng của tôn giáo phương Tây nhằm bảo vệ văn hóa truyền thống.
 *   **16/09/1804 (13/08 năm Giáp Tý):** Hài cốt của vua Lê Chiêu Thống, Hoàng Thái hậu và Thái tử được đưa từ Trung Quốc về đến cửa ải.
 *   **14/11/1804 (13/10 năm Giáp Tý):** Hoàng phi Nguyễn Thị Kim uống thuốc độc tự tử để theo vua Lê Chiêu Thống, sau khi linh cữu vua được đưa về Thăng Long và làm lễ tế.
 *   **25/12/1804 (24/11 năm Giáp Tý):** Lễ an táng vua Lê và hoàng quyến được tổ chức tại núi Bàn Thạch (Thanh Hóa), cạnh lăng vua Lê Hiển Tông.
@@ -942,6 +958,7 @@
 *   **10/1827:** Vua Minh Mạng truyền lệnh đổi cách ăn mặc của nhân dân từ sông Gianh trở ra Bắc để thống nhất phong tục.
 *   **12/1827:** Tổng trấn Lê Văn Duyệt đích thân về kinh đô Huế tâu trình với vua Minh Mạng xin bảo vệ các giáo sĩ Công giáo, nhắc lại công ơn của Giám mục Bá Đa Lộc đối với nhà Nguyễn, giúp tình hình tôn giáo tạm thời lắng dịu.
 *   **1828:** Thành lập huyện Tiền Hải (Thái Bình) theo chính sách Doanh điền của Nguyễn Công Trứ để khai hoang lấn biển.
+*   **1828:** Vua Minh Mạng ra chiếu chỉ cấm phụ nữ mặc váy, bắt buộc mặc quần ống chiên theo phong tục Trung Hoa. Lệnh này đã gây ra phản ứng mạnh mẽ trong nhân dân, được phản ánh qua các câu ca dao đương thời.
 *   **05/1828:** Vua Minh Mạng đích thân làm lễ cày **Tịch điền** tại ruộng Tịch điền (được lập ở phường Hậu Sinh và An Trạch), nhằm khuyến khích nông nghiệp.
 *   **10/1828:** Đúc ấn vàng **"Hoàng Đế chi bảo"** dùng cho các chiếu văn khánh tiết, ban ơn.
 *   **1829:** Thành lập huyện Kim Sơn (Ninh Bình) từ công cuộc khẩn hoang do Nguyễn Công Trứ chỉ đạo.
@@ -1102,6 +1119,7 @@
 *   **30/11/1883:** Hai Phụ chính đại thần Nguyễn Văn Tường và Tôn Thất Thuyết ra lệnh giết hại Phụ chính đại thần Trần Tiễn Thành do bất đồng chính kiến về việc phế lập vua và chủ trương đối ngoại.
 *   **11 - 16/12/1883:** Trận Sơn Tây. Đô đốc Courbet huy động 9.000 quân Pháp tấn công thành cổ Sơn Tây, trung tâm kháng chiến mạnh nhất do quân Cờ Đen, quân nhà Nguyễn và quân nhà Thanh phòng thủ. Trận chiến diễn ra đẫm máu với thương vong rất lớn. Quân Pháp dùng đại bác phá vỡ cửa Tây, buộc Lưu Vĩnh Phúc phải rút quân. Việc mất Sơn Tây là một đòn giáng nặng nề vào lực lượng kháng chiến.
 *   **1884 - 1945:** Pháp tiếp tục quản lý hai quần đảo Hoàng Sa và Trường Sa với tư cách là lãnh thổ của Liên bang Đông Dương thuộc Pháp.
+*   **1884:** Nhà nghiên cứu người Pháp Julien ghi nhận sự tổ chức các phố nghề (Hàng Bát Sứ, Hàng Đàn, Hàng Đồng...) tại Hà Nội, cho thấy sự chuyển hóa độc đáo của mô hình phường hội nông thôn vào không gian đô thị Việt Nam.
 *   **01/1884:** Vua Kiến Phúc ra lệnh cho chế tạo thử súng kiểu phương Tây và dệt thử các loại vải theo kỹ thuật phương Tây.
 *   **02/1884:** Vua Kiến Phúc xuống dụ buộc tất cả những người có khoa bảng (Tiến sĩ, Cử nhân...) phải ra làm quan để phục vụ đất nước, ai trốn tránh sẽ bị tước bằng sắc.
 *   **06 - 12/03/1884:** Trận Bắc Ninh. Trung tướng Charles-Théodore Millot chỉ huy 16.300 quân Pháp mở chiến dịch lớn đánh chiếm thành Bắc Ninh, nơi tập trung hơn 2 vạn quân Thanh. Quân Pháp sử dụng chiến thuật vu hồi qua sông Đuống và nã pháo dữ dội, khiến quân Thanh hoảng loạn tháo chạy. Pháp chiếm được Bắc Ninh, củng cố sự kiểm soát đồng bằng Bắc Bộ.
