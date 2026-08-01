@@ -1,0 +1,1380 @@
+<!DOCTYPE html>
+<html lang="vi" class="h-full scroll-smooth">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vietnamese Historical Timelines | Cuộn Thư Lịch Sử Việt Nam</title>
+  <meta name="description" content="Khám phá và tra cứu dòng thời gian lịch sử Việt Nam qua các thời kỳ từ tiền sử đến hiện đại. Search events by day, month, year, and historical era.">
+  
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  
+  <!-- Google Fonts: Lora, Be Vietnam Pro & Playfair Display (Full Vietnamese Diacritics Support) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Lora:ital,wght@0,500;0,600;0,700;1,400;1,600&family=Playfair+Display:ital,wght@0,600;0,700;1,400&display=swap" rel="stylesheet">
+
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            parchment: {
+              bg: '#F4EBD0',
+              card: '#EBDCA8',
+              border: '#D4AF37',
+              accent: '#8B0000',
+              text: '#2B1E10',
+              subtle: '#6B543E',
+              gold: '#C5A059',
+              goldDark: '#8B7335'
+            }
+          },
+          fontFamily: {
+            display: ['"Lora"', '"Playfair Display"', 'serif'],
+            body: ['"Be Vietnam Pro"', '"Plus Jakarta Sans"', 'sans-serif'],
+            serif: ['"Lora"', '"Playfair Display"', 'serif']
+          },
+          boxShadow: {
+            parchment: '0 4px 20px rgba(139, 0, 0, 0.08), 0 1px 3px rgba(43, 30, 16, 0.05)',
+            glow: '0 0 25px rgba(212, 175, 55, 0.25)',
+            elevated: '0 10px 30px -5px rgba(43, 30, 16, 0.15)'
+          }
+        }
+      }
+    }
+  </script>
+
+  <style type="text/css">
+    /* Custom Scrollbar */
+    ::-webkit-scrollbar {
+      width: 8px;
+      height: 8px;
+    }
+    ::-webkit-scrollbar-track {
+      background: #F4EBD0;
+    }
+    ::-webkit-scrollbar-thumb {
+      background: #C5A059;
+      border-radius: 4px;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+      background: #8B0000;
+    }
+
+    /* Illuminated Scroll Decorative Border Pattern */
+    .border-illuminated {
+      border: 2px solid #C5A059;
+      box-shadow: inset 0 0 12px rgba(197, 160, 89, 0.2);
+      position: relative;
+    }
+    .border-illuminated::before {
+      content: '';
+      position: absolute;
+      top: 3px; left: 3px; right: 3px; bottom: 3px;
+      border: 1px solid rgba(139, 0, 0, 0.25);
+      pointer-events: none;
+    }
+
+    /* Subtle Corner Ornaments */
+    .corner-ornament {
+      position: relative;
+    }
+    .corner-ornament::before, .corner-ornament::after {
+      content: '❖';
+      position: absolute;
+      font-size: 10px;
+      color: #8B0000;
+      opacity: 0.6;
+    }
+    .corner-ornament::before { top: 4px; left: 6px; }
+    .corner-ornament::after { bottom: 4px; right: 6px; }
+
+    /* High Contrast AAA Override Mode */
+    .high-contrast-mode {
+      background-color: #000000 !important;
+      color: #FFFFFF !important;
+    }
+    .high-contrast-mode .bg-parchment-bg,
+    .high-contrast-mode .bg-parchment-card,
+    .high-contrast-mode .bg-amber-50,
+    .high-contrast-mode .bg-amber-100/50 {
+      background-color: #121212 !important;
+      color: #FFFFFF !important;
+      border-color: #FFFFFF !important;
+    }
+    .high-contrast-mode text,
+    .high-contrast-mode p,
+    .high-contrast-mode h1,
+    .high-contrast-mode h2,
+    .high-contrast-mode h3,
+    .high-contrast-mode span,
+    .high-contrast-mode label {
+      color: #FFFFFF !important;
+    }
+    .high-contrast-mode .text-parchment-accent {
+      color: #FFD700 !important;
+    }
+    .high-contrast-mode button,
+    .high-contrast-mode input,
+    .high-contrast-mode select {
+      background-color: #1A1A1A !important;
+      color: #FFFFFF !important;
+      border-color: #FFD700 !important;
+    }
+
+    /* Typewriter animation */
+    .typewriter-cursor::after {
+      content: '|';
+      animation: blink 1s step-start infinite;
+      color: #8B0000;
+    }
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+
+    /* Highlight match */
+    mark.search-highlight {
+      background-color: rgba(212, 175, 55, 0.4);
+      color: #8B0000;
+      padding: 0 2px;
+      border-radius: 2px;
+      font-weight: 600;
+    }
+
+    /* Skeleton shimmer */
+    @keyframes skeleton-shimmer {
+      0% { background-position: -200% 0; }
+      100% { background-position: 200% 0; }
+    }
+    .skeleton-box {
+      background: linear-gradient(90deg, #EBDCA8 25%, #F4EBD0 50%, #EBDCA8 75%);
+      background-size: 200% 100%;
+      animation: skeleton-shimmer 1.5s infinite;
+    }
+  </style>
+
+  <!-- Pre-parsed data fallback -->
+  <script src="timelines_data.js"></script>
+</head>
+<body class="bg-[#F4EBD0] text-[#2B1E10] font-body min-h-full transition-colors duration-200 antialiased selection:bg-parchment-accent selection:text-white">
+
+  <!-- Toast Notification Container -->
+  <div id="toast-container" class="fixed bottom-5 right-5 z-50 flex flex-col gap-2 max-w-sm w-full pointer-events-none"></div>
+
+  <!-- Main Container -->
+  <div class="min-h-screen flex flex-col">
+    
+    <!-- Top Navigation Header -->
+    <header class="sticky top-0 z-40 bg-[#F4EBD0]/95 backdrop-blur-md border-b-2 border-parchment-gold/40 shadow-sm transition-all duration-200">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between gap-4">
+        
+        <!-- Brand Title & Logo -->
+        <div class="flex items-center gap-3">
+          <div class="w-10 h-10 rounded-lg bg-parchment-accent text-parchment-bg flex items-center justify-center shadow-md border border-parchment-gold">
+            <svg class="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/>
+              <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1-2.5-2.5Z"/>
+            </svg>
+          </div>
+          <div>
+            <h1 class="font-display font-bold text-xl sm:text-2xl text-parchment-accent tracking-tight flex items-center gap-2">
+              <span id="header-title-en" class="hidden">Vietnamese Historical Timelines</span>
+              <span id="header-title-vi">Dòng Thời Gian Lịch Sử Việt Nam</span>
+            </h1>
+            <p class="text-xs text-parchment-subtle font-medium tracking-wide">
+              <span id="header-subtitle-en" class="hidden">500,000+ Years of History & Epochs</span>
+              <span id="header-subtitle-vi">Hơn 500.000 Năm Lịch Sử & Các Thời Kỳ</span>
+            </p>
+          </div>
+        </div>
+
+        <!-- Action Bar Buttons (Search, Random, Bookmarks, Contrast, i18n) -->
+        <div class="flex items-center gap-2 sm:gap-3">
+          
+          <!-- Random Event Button -->
+          <button id="btn-random-event" title="Khám phá sự kiện ngẫu nhiên" class="p-2.5 sm:px-3 sm:py-2 rounded-lg bg-parchment-card hover:bg-parchment-gold/30 border border-parchment-gold/60 text-parchment-accent font-semibold text-xs sm:text-sm flex items-center gap-1.5 transition-all duration-200 hover:-translate-y-0.5 active:translate-y-0 shadow-sm">
+            <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/>
+            </svg>
+            <span class="hidden md:inline" data-i18n="btnRandom">Ngẫu Nhiên</span>
+          </button>
+
+          <!-- Bookmarks Drawer Toggle Button -->
+          <button id="btn-toggle-bookmarks" title="Sự kiện đã lưu" class="relative p-2.5 sm:px-3 sm:py-2 rounded-lg bg-parchment-card hover:bg-parchment-gold/30 border border-parchment-gold/60 text-parchment-accent font-semibold text-xs sm:text-sm flex items-center gap-1.5 transition-all duration-200 hover:-translate-y-0.5 active:translate-y-0 shadow-sm">
+            <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/>
+            </svg>
+            <span class="hidden md:inline" data-i18n="btnSaved">Đã Lưu</span>
+            <span id="bookmark-badge" class="hidden absolute -top-1.5 -right-1.5 w-5 h-5 bg-parchment-accent text-white text-[10px] font-bold rounded-full flex items-center justify-center">0</span>
+          </button>
+
+          <!-- Accessibility High Contrast Toggle -->
+          <button id="btn-toggle-contrast" title="Chế độ tương phản cao WCAG AAA" class="p-2.5 rounded-lg bg-parchment-card hover:bg-parchment-gold/30 border border-parchment-gold/60 text-parchment-text font-semibold text-xs sm:text-sm flex items-center gap-1.5 transition-all duration-200 hover:-translate-y-0.5 active:translate-y-0 shadow-sm">
+            <svg class="w-4 h-4 text-parchment-accent" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="10"/>
+              <path d="M12 2a10 10 0 0 0 0 20z"/>
+            </svg>
+            <span class="sr-only">High Contrast</span>
+          </button>
+
+          <!-- Language Switcher Toggle (EN/VI) -->
+          <button id="btn-toggle-lang" title="Đổi ngôn ngữ / Switch Language" class="px-3 py-2 rounded-lg bg-parchment-accent hover:bg-[#6b0000] text-parchment-bg font-bold text-xs sm:text-sm flex items-center gap-1.5 shadow-sm transition-all duration-200 hover:-translate-y-0.5">
+            <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="10"/>
+              <line x1="2" y1="12" x2="22" y2="12"/>
+              <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
+            </svg>
+            <span id="lang-indicator">VI</span>
+          </button>
+
+        </div>
+
+      </div>
+    </header>
+
+    <!-- Illuminated Hero Banner -->
+    <section class="relative bg-gradient-to-b from-[#EBDCA8]/60 to-[#F4EBD0] border-b border-parchment-gold/40 py-10 sm:py-14 px-4 overflow-hidden">
+      <div class="max-w-4xl mx-auto text-center space-y-4 relative z-10">
+        
+        <!-- Decorative Parchment Header Crest -->
+        <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-parchment-card border border-parchment-gold text-parchment-accent text-xs font-semibold uppercase tracking-widest shadow-sm">
+          <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
+          </svg>
+          <span data-i18n="heroBadge">Cuộn Thư Lịch Sử Việt Nam</span>
+        </div>
+
+        <!-- Dynamic Typewriter Title -->
+        <h2 class="text-3xl sm:text-4xl md:text-5xl font-display font-bold text-parchment-accent tracking-tight leading-tight">
+          <span id="hero-typewriter" class="typewriter-cursor"></span>
+        </h2>
+
+        <p class="text-sm sm:text-base text-parchment-subtle max-w-2xl mx-auto font-medium leading-relaxed" data-i18n="heroDesc">
+          Tra cứu, lọc sự kiện lịch sử theo Ngày, Tháng, Năm hoặc các Thời Kỳ Đại Việt & Hiện Đại.
+        </p>
+
+        <!-- Quick Stats Banner -->
+        <div class="pt-4 flex flex-wrap items-center justify-center gap-6 text-xs sm:text-sm font-semibold text-parchment-text">
+          <div class="flex items-center gap-2 bg-parchment-card/80 px-3.5 py-1.5 rounded-lg border border-parchment-gold/50 shadow-sm">
+            <span class="w-2 h-2 rounded-full bg-parchment-accent"></span>
+            <span id="stat-total-events">2,223</span> <span data-i18n="statEvents">Sự kiện lịch sử</span>
+          </div>
+          <div class="flex items-center gap-2 bg-parchment-card/80 px-3.5 py-1.5 rounded-lg border border-parchment-gold/50 shadow-sm">
+            <span class="w-2 h-2 rounded-full bg-parchment-goldDark"></span>
+            <span>37</span> <span data-i18n="statEras">Thời kỳ lịch sử</span>
+          </div>
+          <div class="flex items-center gap-2 bg-parchment-card/80 px-3.5 py-1.5 rounded-lg border border-parchment-gold/50 shadow-sm">
+            <span class="w-2 h-2 rounded-full bg-emerald-700"></span>
+            <span data-i18n="statSearchReady">Tra cứu Ngày / Tháng / Năm</span>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- Main Content Area: Controls + Timeline/Grid View -->
+    <main class="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-8 space-y-6">
+      
+      <!-- Interactive Filter Controls Panel -->
+      <section class="bg-parchment-card/90 border-2 border-parchment-gold rounded-lg p-5 sm:p-6 shadow-parchment space-y-5 transition-all duration-200">
+        
+        <div class="flex items-center justify-between border-b border-parchment-gold/40 pb-3">
+          <h3 class="font-display font-bold text-lg text-parchment-accent flex items-center gap-2">
+            <svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"/>
+            </svg>
+            <span data-i18n="filterTitle">Bộ Lọc Tra Cứu Sự Kiện</span>
+          </h3>
+
+          <button id="btn-reset-filters" class="text-xs font-bold text-parchment-accent hover:text-[#6b0000] flex items-center gap-1 underline underline-offset-2 transition-colors">
+            <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/>
+              <path d="M3 3v5h5"/>
+            </svg>
+            <span data-i18n="btnReset">Đặt Lại Bộ Lọc</span>
+          </button>
+        </div>
+
+        <!-- Filter Controls Grid -->
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-12 gap-4">
+          
+          <!-- Full Text Keyword Search Input -->
+          <div class="lg:col-span-4 flex flex-col gap-1.5">
+            <label for="search-input" class="text-xs font-bold text-parchment-text uppercase tracking-wider flex items-center gap-1">
+              <svg class="w-3.5 h-3.5 text-parchment-accent" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/>
+              </svg>
+              <span data-i18n="lblKeyword">Từ Khóa Lịch Sử</span>
+            </label>
+            <div class="relative">
+              <input type="text" id="search-input" placeholder="Nhập tên nhân vật, chiến dịch, địa danh..." 
+                class="w-full bg-[#F4EBD0] text-parchment-text placeholder:text-parchment-subtle/60 border border-parchment-gold focus:border-parchment-accent rounded-lg px-3.5 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-parchment-accent/20 transition-all">
+              <button id="btn-clear-search" class="hidden absolute right-2.5 top-2.5 text-parchment-subtle hover:text-parchment-accent">
+                <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6 6 18M6 6l12 12"/></svg>
+              </button>
+            </div>
+          </div>
+
+          <!-- Era Dropdown Select -->
+          <div class="lg:col-span-3 flex flex-col gap-1.5">
+            <label for="filter-era" class="text-xs font-bold text-parchment-text uppercase tracking-wider flex items-center gap-1">
+              <svg class="w-3.5 h-3.5 text-parchment-accent" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1-2.5-2.5Z"/>
+              </svg>
+              <span data-i18n="lblEra">Thời Kỳ Lịch Sử</span>
+            </label>
+            <select id="filter-era" class="w-full bg-[#F4EBD0] text-parchment-text border border-parchment-gold focus:border-parchment-accent rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-parchment-accent/20 transition-all cursor-pointer">
+              <option value="ALL" data-i18n="optAllEras">-- Tất cả 37 thời kỳ --</option>
+            </select>
+          </div>
+
+          <!-- Specific Year Search -->
+          <div class="lg:col-span-2 flex flex-col gap-1.5">
+            <label for="filter-year" class="text-xs font-bold text-parchment-text uppercase tracking-wider flex items-center gap-1">
+              <svg class="w-3.5 h-3.5 text-parchment-accent" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/>
+              </svg>
+              <span data-i18n="lblYear">Năm (Year)</span>
+            </label>
+            <input type="number" id="filter-year" placeholder="Vd: 1975, 938, 544" 
+              class="w-full bg-[#F4EBD0] text-parchment-text placeholder:text-parchment-subtle/60 border border-parchment-gold focus:border-parchment-accent rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-parchment-accent/20 transition-all">
+          </div>
+
+          <!-- Month Selector -->
+          <div class="lg:col-span-1.5 flex flex-col gap-1.5">
+            <label for="filter-month" class="text-xs font-bold text-parchment-text uppercase tracking-wider flex items-center gap-1">
+              <span data-i18n="lblMonth">Tháng</span>
+            </label>
+            <select id="filter-month" class="w-full bg-[#F4EBD0] text-parchment-text border border-parchment-gold focus:border-parchment-accent rounded-lg px-2.5 py-2 text-sm focus:outline-none cursor-pointer">
+              <option value="ALL" data-i18n="optAll">Tất cả</option>
+              <option value="1">Tháng 1</option>
+              <option value="2">Tháng 2</option>
+              <option value="3">Tháng 3</option>
+              <option value="4">Tháng 4</option>
+              <option value="5">Tháng 5</option>
+              <option value="6">Tháng 6</option>
+              <option value="7">Tháng 7</option>
+              <option value="8">Tháng 8</option>
+              <option value="9">Tháng 9</option>
+              <option value="10">Tháng 10</option>
+              <option value="11">Tháng 11</option>
+              <option value="12">Tháng 12</option>
+            </select>
+          </div>
+
+          <!-- Day Selector -->
+          <div class="lg:col-span-1.5 flex flex-col gap-1.5">
+            <label for="filter-day" class="text-xs font-bold text-parchment-text uppercase tracking-wider flex items-center gap-1">
+              <span data-i18n="lblDay">Ngày</span>
+            </label>
+            <select id="filter-day" class="w-full bg-[#F4EBD0] text-parchment-text border border-parchment-gold focus:border-parchment-accent rounded-lg px-2.5 py-2 text-sm focus:outline-none cursor-pointer">
+              <option value="ALL" data-i18n="optAll">Tất cả</option>
+              <!-- 1 to 31 populated via JS -->
+            </select>
+          </div>
+
+        </div>
+
+        <!-- Active Filter Pills & Layout Controls Bar -->
+        <div class="flex flex-wrap items-center justify-between gap-3 border-t border-parchment-gold/40 pt-3">
+          
+          <!-- Results Count & Pills -->
+          <div class="flex items-center gap-2 flex-wrap">
+            <span class="text-xs font-bold text-parchment-accent bg-parchment-bg px-2.5 py-1 rounded-md border border-parchment-gold">
+              <span id="results-count">0</span> <span data-i18n="lblResultsFound">kết quả</span>
+            </span>
+            <div id="active-filter-pills" class="flex flex-wrap items-center gap-1.5 text-xs"></div>
+          </div>
+
+          <!-- View Layout Switcher (Timeline, Cards, Table) -->
+          <div class="flex items-center bg-[#F4EBD0] p-1 rounded-lg border border-parchment-gold">
+            <button id="view-timeline" title="Chế độ Dòng Thời Gian" class="view-btn px-3 py-1 rounded-md text-xs font-bold bg-parchment-accent text-white transition-all duration-200 flex items-center gap-1">
+              <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+              <span data-i18n="viewTimeline">Dòng Thời Gian</span>
+            </button>
+
+            <button id="view-grid" title="Chế độ Thẻ Grid" class="view-btn px-3 py-1 rounded-md text-xs font-bold text-parchment-text hover:text-parchment-accent transition-all duration-200 flex items-center gap-1">
+              <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect width="7" height="7" x="3" y="3" rx="1"/><rect width="7" height="7" x="14" y="3" rx="1"/><rect width="7" height="7" x="14" y="14" rx="1"/><rect width="7" height="7" x="3" y="14" rx="1"/></svg>
+              <span data-i18n="viewGrid">Lưới Thẻ</span>
+            </button>
+
+            <button id="view-table" title="Chế độ Bảng Thu Gọn" class="view-btn px-3 py-1 rounded-md text-xs font-bold text-parchment-text hover:text-parchment-accent transition-all duration-200 flex items-center gap-1">
+              <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" x2="21" y1="6" y2="6"/><line x1="3" x2="21" y1="12" y2="12"/><line x1="3" x2="21" y1="18" y2="18"/></svg>
+              <span data-i18n="viewTable">Bảng Thu Gọn</span>
+            </button>
+          </div>
+
+        </div>
+
+      </section>
+
+      <!-- Skeleton Loading State Container -->
+      <div id="skeleton-container" class="hidden space-y-4">
+        <div class="p-6 bg-parchment-card rounded-lg border border-parchment-gold space-y-3">
+          <div class="h-5 w-48 skeleton-box rounded"></div>
+          <div class="h-4 w-full skeleton-box rounded"></div>
+          <div class="h-4 w-3/4 skeleton-box rounded"></div>
+        </div>
+        <div class="p-6 bg-parchment-card rounded-lg border border-parchment-gold space-y-3">
+          <div class="h-5 w-36 skeleton-box rounded"></div>
+          <div class="h-4 w-full skeleton-box rounded"></div>
+          <div class="h-4 w-2/3 skeleton-box rounded"></div>
+        </div>
+      </div>
+
+      <!-- Empty State Container -->
+      <div id="empty-state" class="hidden bg-parchment-card border-2 border-dashed border-parchment-gold rounded-lg p-10 text-center space-y-4 max-w-lg mx-auto">
+        <div class="w-16 h-16 rounded-full bg-parchment-gold/20 text-parchment-accent flex items-center justify-center mx-auto">
+          <svg class="w-8 h-8" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/><path d="M8 11h6"/>
+          </svg>
+        </div>
+        <h4 class="font-display font-bold text-xl text-parchment-accent" data-i18n="emptyTitle">Không tìm thấy sự kiện phù hợp</h4>
+        <p class="text-sm text-parchment-subtle" data-i18n="emptyDesc">Thử điều chỉnh lại mốc năm, ngày tháng hoặc từ khóa tìm kiếm của bạn.</p>
+        <button id="btn-empty-reset" class="px-4 py-2 rounded-lg bg-parchment-accent text-parchment-bg font-bold text-xs hover:bg-[#6b0000] transition-colors shadow-sm inline-flex items-center gap-1.5">
+          <span data-i18n="btnReset">Đặt Lại Bộ Lọc</span>
+        </button>
+      </div>
+
+      <!-- Main Events Container -->
+      <div id="events-container" class="space-y-8"></div>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-parchment-card/80 border-t-2 border-parchment-gold/50 py-8 px-4 text-center mt-12">
+      <div class="max-w-7xl mx-auto space-y-3">
+        <div class="flex items-center justify-center gap-2 text-parchment-accent font-display font-bold text-sm">
+          <span>❖</span>
+          <span data-i18n="footerTitle">Dòng Thời Gian Lịch Sử Việt Nam</span>
+          <span>❖</span>
+        </div>
+        <p class="text-xs text-parchment-subtle max-w-xl mx-auto" data-i18n="footerSub">
+          Tài liệu tổng hợp các mốc sự kiện quan trọng trong lịch sử dân tộc theo thứ tự thời gian.
+        </p>
+      </div>
+    </footer>
+
+  </div>
+
+  <!-- Event Detail Modal Drawer -->
+  <div id="modal-event-detail" class="hidden fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm transition-opacity duration-200">
+    <div class="bg-[#F4EBD0] border-2 border-parchment-gold rounded-lg shadow-elevated max-w-2xl w-full max-h-[85vh] flex flex-col overflow-hidden transform transition-all duration-200 border-illuminated">
+      
+      <!-- Modal Header -->
+      <div class="bg-parchment-card border-b border-parchment-gold p-4 flex items-center justify-between">
+        <div class="flex items-center gap-2">
+          <span class="w-2.5 h-2.5 rounded-full bg-parchment-accent"></span>
+          <span id="modal-era-title" class="font-display font-bold text-xs uppercase tracking-wider text-parchment-accent">Thời Kỳ</span>
+        </div>
+        <button id="btn-close-modal" class="text-parchment-subtle hover:text-parchment-accent p-1 rounded-md hover:bg-parchment-gold/30">
+          <svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6 6 18M6 6l12 12"/></svg>
+        </button>
+      </div>
+
+      <!-- Modal Body -->
+      <div class="p-6 overflow-y-auto space-y-4">
+        <div class="inline-block px-3 py-1 rounded-md bg-parchment-accent text-parchment-bg font-display font-bold text-sm shadow-sm" id="modal-date-badge">
+          Niên đại
+        </div>
+
+        <h3 id="modal-desc-main" class="text-lg sm:text-xl font-bold text-parchment-text leading-snug">
+          Mô tả sự kiện
+        </h3>
+
+        <!-- Sub Items / Details -->
+        <div id="modal-subs-container" class="hidden space-y-2 pt-2 border-t border-parchment-gold/40">
+          <h4 class="text-xs font-bold text-parchment-accent uppercase tracking-wider" data-i18n="lblSubDetails">Chi tiết liên quan:</h4>
+          <ul id="modal-subs-list" class="list-disc list-inside text-sm text-parchment-subtle space-y-1 pl-2"></ul>
+        </div>
+      </div>
+
+      <!-- Modal Footer -->
+      <div class="bg-parchment-card border-t border-parchment-gold p-4 flex items-center justify-between gap-3">
+        <button id="btn-modal-copy" class="px-3.5 py-2 rounded-lg bg-parchment-bg border border-parchment-gold hover:bg-parchment-gold/30 text-parchment-accent font-bold text-xs flex items-center gap-1.5 transition-colors">
+          <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect width="14" height="14" x="8" y="8" rx="2" ry="2"/><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"/></svg>
+          <span data-i18n="btnCopy">Sao Chép Trích Dẫn</span>
+        </button>
+
+        <button id="btn-modal-bookmark" class="px-4 py-2 rounded-lg bg-parchment-accent hover:bg-[#6b0000] text-parchment-bg font-bold text-xs flex items-center gap-1.5 transition-colors shadow-sm">
+          <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>
+          <span data-i18n="btnBookmark">Lưu Sự Kiện</span>
+        </button>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Bookmarks Drawer Modal -->
+  <div id="modal-bookmarks" class="hidden fixed inset-0 z-50 flex justify-end bg-black/50 backdrop-blur-sm transition-opacity duration-200">
+    <div class="bg-[#F4EBD0] border-l-2 border-parchment-gold w-full max-w-md h-full flex flex-col shadow-elevated transform transition-transform duration-300">
+      
+      <!-- Drawer Header -->
+      <div class="bg-parchment-card border-b border-parchment-gold p-4 flex items-center justify-between">
+        <div class="flex items-center gap-2 text-parchment-accent font-display font-bold">
+          <svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>
+          <span data-i18n="savedDrawerTitle">Sự Kiện Đã Lưu</span>
+        </div>
+        <button id="btn-close-bookmarks" class="text-parchment-subtle hover:text-parchment-accent p-1 rounded-md">
+          <svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6 6 18M6 6l12 12"/></svg>
+        </button>
+      </div>
+
+      <!-- Drawer Body -->
+      <div id="bookmarks-list" class="flex-1 p-4 overflow-y-auto space-y-3">
+        <!-- Dynamically rendered -->
+      </div>
+
+      <!-- Drawer Footer -->
+      <div class="bg-parchment-card border-t border-parchment-gold p-4">
+        <button id="btn-clear-bookmarks" class="w-full py-2 rounded-lg bg-parchment-accent/10 border border-parchment-accent text-parchment-accent font-bold text-xs hover:bg-parchment-accent hover:text-white transition-colors">
+          <span data-i18n="btnClearSaved">Xóa Tất Cả Sự Kiện Đã Lưu</span>
+        </button>
+      </div>
+
+    </div>
+  </div>
+
+
+  <!-- Application Javascript Engine -->
+  <script>
+    (function() {
+      // i18n Translations Dictionary
+      const i18n = {
+        vi: {
+          headerTitle: "Dòng Thời Gian Lịch Sử Việt Nam",
+          headerSubtitle: "Hơn 500.000 Năm Lịch Sử & Các Thời Kỳ",
+          heroBadge: "Cuộn Thư Lịch Sử Việt Nam",
+          heroTitle: "Dòng Thời Gian Lịch Sử Việt Nam",
+          heroDesc: "Tra cứu, lọc sự kiện lịch sử theo Ngày, Tháng, Năm hoặc các Thời Kỳ Đại Việt & Hiện Đại.",
+          btnRandom: "Ngẫu Nhiên",
+          btnSaved: "Đã Lưu",
+          statEvents: "Sự kiện lịch sử",
+          statEras: "Thời kỳ lịch sử",
+          statSearchReady: "Tra cứu Ngày / Tháng / Năm",
+          filterTitle: "Bộ Lọc Tra Cứu Sự Kiện",
+          btnReset: "Đặt Lại Bộ Lọc",
+          lblKeyword: "Từ Khóa Lịch Sử",
+          lblEra: "Thời Kỳ Lịch Sử",
+          optAllEras: "-- Tất cả 37 thời kỳ --",
+          lblYear: "Năm (Year)",
+          lblMonth: "Tháng",
+          lblDay: "Ngày",
+          optAll: "Tất cả",
+          lblResultsFound: "kết quả",
+          viewTimeline: "Dòng Thời Gian",
+          viewGrid: "Lưới Thẻ",
+          viewTable: "Bảng Thu Gọn",
+          emptyTitle: "Không tìm thấy sự kiện phù hợp",
+          emptyDesc: "Thử điều chỉnh lại mốc năm, ngày tháng hoặc từ khóa tìm kiếm của bạn.",
+          footerTitle: "Dòng Thời Gian Lịch Sử Việt Nam",
+          footerSub: "Tài liệu tổng hợp các mốc sự kiện quan trọng trong lịch sử dân tộc theo thứ tự thời gian.",
+          lblSubDetails: "Chi tiết liên quan:",
+          btnCopy: "Sao Chép Trích Dẫn",
+          btnBookmark: "Lưu Sự Kiện",
+          savedDrawerTitle: "Sự Kiện Đã Lưu",
+          btnClearSaved: "Xóa Tất Cả Sự Kiện Đã Lưu",
+          toastCopied: "Đã sao chép trích dẫn sự kiện!",
+          toastSaved: "Đã lưu sự kiện vào danh sách!",
+          toastRemoved: "Đã xóa sự kiện khỏi danh sách lưu!",
+          toastAllCleared: "Đã xóa toàn bộ danh sách lưu!",
+          toastLangSwitched: "Đã chuyển sang tiếng Việt"
+        },
+        en: {
+          headerTitle: "Vietnamese Historical Timelines",
+          headerSubtitle: "500,000+ Years of History & Epochs",
+          heroBadge: "Vietnamese Historical Illuminated Scroll",
+          heroTitle: "Vietnamese Historical Timelines",
+          heroDesc: "Search & filter historical events by Day, Month, Year, or Historical Eras from Prehistoric to Modern Age.",
+          btnRandom: "Random Event",
+          btnSaved: "Bookmarks",
+          statEvents: "Historical events",
+          statEras: "Historical eras",
+          statSearchReady: "Search by Day / Month / Year",
+          filterTitle: "Historical Event Filters",
+          btnReset: "Reset Filters",
+          lblKeyword: "Keyword Search",
+          lblEra: "Historical Era",
+          optAllEras: "-- All 37 Historical Eras --",
+          lblYear: "Year",
+          lblMonth: "Month",
+          lblDay: "Day",
+          optAll: "All",
+          lblResultsFound: "results found",
+          viewTimeline: "Timeline View",
+          viewGrid: "Grid Cards",
+          viewTable: "Compact Table",
+          emptyTitle: "No matching events found",
+          emptyDesc: "Try adjusting your year, date filters, or keyword query.",
+          footerTitle: "Vietnamese Historical Timelines",
+          footerSub: "Comprehensive historical record of key Vietnamese milestones in chronological order.",
+          lblSubDetails: "Related details:",
+          btnCopy: "Copy Citation",
+          btnBookmark: "Bookmark Event",
+          savedDrawerTitle: "Saved Bookmarks",
+          btnClearSaved: "Clear All Saved Events",
+          toastCopied: "Event citation copied to clipboard!",
+          toastSaved: "Event saved to bookmarks!",
+          toastRemoved: "Event removed from bookmarks!",
+          toastAllCleared: "All bookmarks cleared!",
+          toastLangSwitched: "Switched language to English"
+        }
+      };
+
+      // State Management
+      let currentLang = 'vi';
+      let currentView = 'timeline'; // 'timeline', 'grid', 'table'
+      let activeEvents = [];
+      let bookmarks = JSON.parse(localStorage.getItem('vn_timeline_bookmarks') || '[]');
+      let isHighContrast = false;
+      let activeModalEventId = null;
+      let typewriterTimer = null;
+
+      // DOM Elements
+      const eventsContainer = document.getElementById('events-container');
+      const searchInput = document.getElementById('search-input');
+      const btnClearSearch = document.getElementById('btn-clear-search');
+      const filterEra = document.getElementById('filter-era');
+      const filterYear = document.getElementById('filter-year');
+      const filterMonth = document.getElementById('filter-month');
+      const filterDay = document.getElementById('filter-day');
+      const btnResetFilters = document.getElementById('btn-reset-filters');
+      const btnEmptyReset = document.getElementById('btn-empty-reset');
+      const resultsCountEl = document.getElementById('results-count');
+      const activeFilterPills = document.getElementById('active-filter-pills');
+      const skeletonContainer = document.getElementById('skeleton-container');
+      const emptyState = document.getElementById('empty-state');
+      
+      const btnToggleLang = document.getElementById('btn-toggle-lang');
+      const langIndicator = document.getElementById('lang-indicator');
+      const btnToggleContrast = document.getElementById('btn-toggle-contrast');
+      const btnToggleBookmarks = document.getElementById('btn-toggle-bookmarks');
+      const bookmarkBadge = document.getElementById('bookmark-badge');
+      const btnRandomEvent = document.getElementById('btn-random-event');
+
+      // Modals
+      const modalDetail = document.getElementById('modal-event-detail');
+      const btnCloseModal = document.getElementById('btn-close-modal');
+      const modalEraTitle = document.getElementById('modal-era-title');
+      const modalDateBadge = document.getElementById('modal-date-badge');
+      const modalDescMain = document.getElementById('modal-desc-main');
+      const modalSubsContainer = document.getElementById('modal-subs-container');
+      const modalSubsList = document.getElementById('modal-subs-list');
+      const btnModalCopy = document.getElementById('btn-modal-copy');
+      const btnModalBookmark = document.getElementById('btn-modal-bookmark');
+
+      const modalBookmarks = document.getElementById('modal-bookmarks');
+      const btnCloseBookmarks = document.getElementById('btn-close-bookmarks');
+      const bookmarksList = document.getElementById('bookmarks-list');
+      const btnClearBookmarks = document.getElementById('btn-clear-bookmarks');
+
+      // View Buttons
+      const viewTimelineBtn = document.getElementById('view-timeline');
+      const viewGridBtn = document.getElementById('view-grid');
+      const viewTableBtn = document.getElementById('view-table');
+
+      // Initialize App
+      function init() {
+        populateDayOptions();
+        populateEraOptions();
+        updateBookmarkBadge();
+        typewriterEffect();
+
+        // Initial Data render
+        if (window.TIMELINE_EVENTS && window.TIMELINE_ERAS) {
+          applyFilters();
+        } else {
+          showToast('Data file loading...', 'info');
+        }
+
+        setupEventListeners();
+      }
+
+      // Populate Day Dropdown 1-31
+      function populateDayOptions() {
+        for (let i = 1; i <= 31; i++) {
+          const opt = document.createElement('option');
+          opt.value = i;
+          opt.textContent = i;
+          filterDay.appendChild(opt);
+        }
+      }
+
+      // Populate Era Dropdown
+      function populateEraOptions() {
+        if (!window.TIMELINE_ERAS) return;
+        filterEra.innerHTML = `<option value="ALL">${i18n[currentLang].optAllEras}</option>`;
+        window.TIMELINE_ERAS.forEach(era => {
+          const opt = document.createElement('option');
+          opt.value = era.index;
+          opt.textContent = (currentLang === 'vi' ? era.titleVi : era.titleEn);
+          filterEra.appendChild(opt);
+        });
+      }
+
+      // Typewriter Hero Animation
+      function typewriterEffect() {
+        if (typewriterTimer) {
+          clearInterval(typewriterTimer);
+          typewriterTimer = null;
+        }
+
+        const text = i18n[currentLang].heroTitle;
+        const el = document.getElementById('hero-typewriter');
+        if (!el) return;
+        el.textContent = '';
+        let i = 0;
+        typewriterTimer = setInterval(() => {
+          if (i < text.length) {
+            el.textContent += text.charAt(i);
+            i++;
+          } else {
+            clearInterval(typewriterTimer);
+            typewriterTimer = null;
+          }
+        }, 35);
+      }
+
+      // Update UI Translations
+      function updateLanguageUI() {
+        document.querySelectorAll('[data-i18n]').forEach(el => {
+          const key = el.getAttribute('data-i18n');
+          if (i18n[currentLang][key]) {
+            el.textContent = i18n[currentLang][key];
+          }
+        });
+
+        // Header titles
+        document.getElementById('header-title-en').classList.toggle('hidden', currentLang !== 'en');
+        document.getElementById('header-title-vi').classList.toggle('hidden', currentLang !== 'vi');
+        document.getElementById('header-subtitle-en').classList.toggle('hidden', currentLang !== 'en');
+        document.getElementById('header-subtitle-vi').classList.toggle('hidden', currentLang !== 'vi');
+
+        langIndicator.textContent = currentLang.toUpperCase();
+        populateEraOptions();
+        applyFilters();
+        typewriterEffect();
+      }
+
+      // Event Listeners
+      function setupEventListeners() {
+        // Search & Filters Input
+        searchInput.addEventListener('input', () => {
+          btnClearSearch.classList.toggle('hidden', !searchInput.value);
+          applyFilters();
+        });
+
+        btnClearSearch.addEventListener('click', () => {
+          searchInput.value = '';
+          btnClearSearch.classList.add('hidden');
+          applyFilters();
+        });
+
+        filterEra.addEventListener('change', applyFilters);
+        filterYear.addEventListener('input', applyFilters);
+        filterMonth.addEventListener('change', applyFilters);
+        filterDay.addEventListener('change', applyFilters);
+
+        btnResetFilters.addEventListener('click', resetFilters);
+        btnEmptyReset.addEventListener('click', resetFilters);
+
+        // Language Switcher
+        btnToggleLang.addEventListener('click', () => {
+          currentLang = currentLang === 'vi' ? 'en' : 'vi';
+          updateLanguageUI();
+          showToast(i18n[currentLang].toastLangSwitched);
+        });
+
+        // High Contrast Mode Toggle
+        btnToggleContrast.addEventListener('click', () => {
+          isHighContrast = !isHighContrast;
+          document.body.classList.toggle('high-contrast-mode', isHighContrast);
+          showToast(isHighContrast ? 'WCAG AAA High Contrast Enabled' : 'Standard Illuminated Theme Enabled');
+        });
+
+        // View Mode Switchers
+        viewTimelineBtn.addEventListener('click', () => setViewMode('timeline'));
+        viewGridBtn.addEventListener('click', () => setViewMode('grid'));
+        viewTableBtn.addEventListener('click', () => setViewMode('table'));
+
+        // Modals & Drawers
+        btnCloseModal.addEventListener('click', () => modalDetail.classList.add('hidden'));
+        modalDetail.addEventListener('click', (e) => {
+          if (e.target === modalDetail) modalDetail.classList.add('hidden');
+        });
+
+        btnToggleBookmarks.addEventListener('click', openBookmarksDrawer);
+        btnCloseBookmarks.addEventListener('click', () => modalBookmarks.classList.add('hidden'));
+        modalBookmarks.addEventListener('click', (e) => {
+          if (e.target === modalBookmarks) modalBookmarks.classList.add('hidden');
+        });
+        btnClearBookmarks.addEventListener('click', clearAllBookmarks);
+
+        // Modal Action Buttons
+        btnModalCopy.addEventListener('click', copyActiveEventCitation);
+        btnModalBookmark.addEventListener('click', toggleBookmarkActiveEvent);
+
+        // Random Event
+        btnRandomEvent.addEventListener('click', showRandomEvent);
+      }
+
+      function setViewMode(mode) {
+        currentView = mode;
+        const btns = [viewTimelineBtn, viewGridBtn, viewTableBtn];
+        btns.forEach(btn => {
+          btn.classList.remove('bg-parchment-accent', 'text-white');
+          btn.classList.add('text-parchment-text');
+        });
+
+        if (mode === 'timeline') {
+          viewTimelineBtn.classList.add('bg-parchment-accent', 'text-white');
+        } else if (mode === 'grid') {
+          viewGridBtn.classList.add('bg-parchment-accent', 'text-white');
+        } else {
+          viewTableBtn.classList.add('bg-parchment-accent', 'text-white');
+        }
+
+        renderEvents();
+      }
+
+      function resetFilters() {
+        searchInput.value = '';
+        btnClearSearch.classList.add('hidden');
+        filterEra.value = 'ALL';
+        filterYear.value = '';
+        filterMonth.value = 'ALL';
+        filterDay.value = 'ALL';
+        applyFilters();
+      }
+
+      // Filter Logic Engine
+      function applyFilters() {
+        if (!window.TIMELINE_EVENTS) return;
+
+        const query = searchInput.value.trim().toLowerCase();
+        const eraVal = filterEra.value;
+        const yearVal = filterYear.value ? parseInt(filterYear.value, 10) : null;
+        const monthVal = filterMonth.value !== 'ALL' ? parseInt(filterMonth.value, 10) : null;
+        const dayVal = filterDay.value !== 'ALL' ? parseInt(filterDay.value, 10) : null;
+
+        activeEvents = window.TIMELINE_EVENTS.filter(ev => {
+          // Filter by Era
+          if (eraVal !== 'ALL' && ev.eraIndex !== parseInt(eraVal, 10)) {
+            return false;
+          }
+
+          // Filter by Year
+          if (yearVal !== null) {
+            if (ev.year !== null) {
+              if (ev.yearEnd !== null) {
+                if (yearVal < ev.year || yearVal > ev.yearEnd) return false;
+              } else {
+                if (ev.year !== yearVal) return false;
+              }
+            } else {
+              return false;
+            }
+          }
+
+          // Filter by Month
+          if (monthVal !== null && ev.month !== monthVal) {
+            return false;
+          }
+
+          // Filter by Day
+          if (dayVal !== null && ev.day !== dayVal) {
+            return false;
+          }
+
+          // Full Text Keyword Search
+          if (query) {
+            const desc = (currentLang === 'vi' ? ev.descVi : ev.descEn).toLowerCase();
+            const dateStr = (currentLang === 'vi' ? ev.dateVi : ev.dateEn).toLowerCase();
+            const subsStr = (currentLang === 'vi' ? ev.subsVi : ev.subsEn).join(' ').toLowerCase();
+            if (!desc.includes(query) && !dateStr.includes(query) && !subsStr.includes(query)) {
+              return false;
+            }
+          }
+
+          return true;
+        });
+
+        updateFilterPills(query, eraVal, yearVal, monthVal, dayVal);
+        resultsCountEl.textContent = activeEvents.length.toLocaleString();
+
+        renderEvents();
+      }
+
+      // Render Active Filter Pills
+      function updateFilterPills(query, eraVal, yearVal, monthVal, dayVal) {
+        activeFilterPills.innerHTML = '';
+        const pills = [];
+
+        if (query) pills.push(`Từ khóa: "${query}"`);
+        if (eraVal !== 'ALL' && window.TIMELINE_ERAS[eraVal]) {
+          const eraTitle = currentLang === 'vi' ? window.TIMELINE_ERAS[eraVal].titleVi : window.TIMELINE_ERAS[eraVal].titleEn;
+          pills.push(`Thời kỳ: ${eraTitle.substring(0, 25)}...`);
+        }
+        if (yearVal !== null) pills.push(`Năm: ${yearVal}`);
+        if (monthVal !== null) pills.push(`Tháng: ${monthVal}`);
+        if (dayVal !== null) pills.push(`Ngày: ${dayVal}`);
+
+        pills.forEach(pillText => {
+          const pill = document.createElement('span');
+          pill.className = 'bg-parchment-gold/30 text-parchment-accent border border-parchment-gold px-2 py-0.5 rounded-md font-semibold flex items-center gap-1';
+          pill.innerHTML = `${pillText}`;
+          activeFilterPills.appendChild(pill);
+        });
+      }
+
+      // Inline Markdown Parser & Query Highlighting
+      function parseMarkdown(text, query = '') {
+        if (!text) return '';
+
+        // 1. Escape HTML special chars to prevent XSS
+        let html = text
+          .replace(/&/g, "&amp;")
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;")
+          .replace(/"/g, "&quot;")
+          .replace(/'/g, "&#039;");
+
+        // 2. Parse inline code: `code`
+        html = html.replace(/`([^`]+)`/g, '<code class="bg-parchment-gold/25 px-1 py-0.5 rounded font-mono text-xs text-parchment-accent">$1</code>');
+
+        // 3. Parse bold: **text** or __text__
+        html = html.replace(/\*\*([^*]+)\*\*/g, '<strong class="font-bold text-parchment-accent">$1</strong>');
+        html = html.replace(/__([^_]+)__/g, '<strong class="font-bold text-parchment-accent">$1</strong>');
+
+        // 4. Parse italic: *text* or _text_
+        html = html.replace(/\*([^*]+)\*/g, '<em class="italic text-parchment-accent/90">$1</em>');
+        html = html.replace(/_([^_]+)_/g, '<em class="italic text-parchment-accent/90">$1</em>');
+
+        // 5. Highlight search query if provided
+        if (query) {
+          const escapedQuery = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+          const regex = new RegExp(`(${escapedQuery})`, 'gi');
+          const parts = html.split(/(<[^>]+>)/g);
+          html = parts.map(part => {
+            if (part.startsWith('<') && part.endsWith('>')) return part;
+            return part.replace(regex, '<mark class="search-highlight">$1</mark>');
+          }).join('');
+        }
+
+        return html;
+      }
+
+      function highlightText(text, query) {
+        return parseMarkdown(text, query);
+      }
+
+      function escapeHtml(str) {
+        return str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#039;");
+      }
+
+      // Render Events Matrix
+      function renderEvents() {
+        eventsContainer.innerHTML = '';
+
+        if (activeEvents.length === 0) {
+          emptyState.classList.remove('hidden');
+          return;
+        } else {
+          emptyState.classList.add('hidden');
+        }
+
+        if (currentView === 'timeline') {
+          renderTimelineView();
+        } else if (currentView === 'grid') {
+          renderGridView();
+        } else {
+          renderTableView();
+        }
+      }
+
+      // 1. TIMELINE VIEW RENDERER
+      function renderTimelineView() {
+        // Group active events by Era
+        const grouped = {};
+        activeEvents.forEach(ev => {
+          if (!grouped[ev.eraIndex]) grouped[ev.eraIndex] = [];
+          grouped[ev.eraIndex].push(ev);
+        });
+
+        const query = searchInput.value.trim().toLowerCase();
+
+        Object.keys(grouped).forEach(eraIdx => {
+          const era = window.TIMELINE_ERAS[eraIdx];
+          const eraTitle = currentLang === 'vi' ? era.titleVi : era.titleEn;
+
+          // Era Section Header Banner
+          const eraHeader = document.createElement('div');
+          eraHeader.className = 'sticky top-20 z-30 bg-[#F4EBD0] py-3 my-4 border-y-2 border-parchment-gold/60 flex items-center justify-between shadow-sm px-4 rounded-lg border-illuminated';
+          eraHeader.innerHTML = `
+            <div class="flex items-center gap-2">
+              <span class="w-3 h-3 rounded-full bg-parchment-accent shadow-sm"></span>
+              <h3 class="font-display font-bold text-base sm:text-lg text-parchment-accent tracking-tight">${escapeHtml(eraTitle)}</h3>
+            </div>
+            <span class="text-xs font-bold text-parchment-subtle bg-parchment-card px-2.5 py-1 rounded-md border border-parchment-gold">${grouped[eraIdx].length} ${i18n[currentLang].statEvents}</span>
+          `;
+          eventsContainer.appendChild(eraHeader);
+
+          // Timeline Tree Container
+          const tree = document.createElement('div');
+          tree.className = 'relative pl-6 sm:pl-8 border-l-2 border-parchment-gold/80 space-y-6 ml-3 sm:ml-4 my-4';
+
+          grouped[eraIdx].forEach(ev => {
+            const dateStr = currentLang === 'vi' ? ev.dateVi : ev.dateEn;
+            const descStr = currentLang === 'vi' ? ev.descVi : ev.descEn;
+            const isBookmarked = bookmarks.includes(ev.id);
+
+            const card = document.createElement('div');
+            card.className = 'relative bg-parchment-card/90 hover:bg-parchment-card border border-parchment-gold/70 hover:border-parchment-accent rounded-lg p-4 sm:p-5 shadow-parchment hover:shadow-elevated transition-all duration-200 group hover:-translate-y-0.5 cursor-pointer';
+
+            card.innerHTML = `
+              <!-- Timeline Connector Node -->
+              <div class="absolute -left-[31px] sm:-left-[39px] top-5 w-4 h-4 rounded-full bg-parchment-accent border-2 border-[#F4EBD0] shadow-sm group-hover:scale-125 transition-transform duration-200"></div>
+              
+              <div class="flex flex-col sm:flex-row sm:items-start justify-between gap-2 mb-2">
+                <!-- Date Badge Tag -->
+                <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-md bg-parchment-accent text-parchment-bg font-display font-bold text-xs shadow-sm self-start">
+                  <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/></svg>
+                  ${highlightText(dateStr, query)}
+                </span>
+
+                <!-- Action Controls -->
+                <div class="flex items-center gap-2 self-end sm:self-auto opacity-80 group-hover:opacity-100 transition-opacity">
+                  <button class="btn-bookmark-item p-1.5 rounded-md hover:bg-parchment-gold/40 text-parchment-accent" title="Lưu sự kiện" data-id="${ev.id}">
+                    <svg class="w-4 h-4 ${isBookmarked ? 'fill-parchment-accent' : ''}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>
+                  </button>
+                </div>
+              </div>
+
+              <!-- Main Event Description -->
+              <p class="text-sm sm:text-base font-semibold text-parchment-text leading-relaxed">
+                ${highlightText(descStr, query)}
+              </p>
+
+              <!-- Sub-bullet Items indicator if present -->
+              ${ev.subsVi && ev.subsVi.length > 0 ? `
+                <div class="mt-3 pt-2 border-t border-parchment-gold/30 text-xs font-semibold text-parchment-accent flex items-center gap-1">
+                  <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="8" x2="21" y1="6" y2="6"/><line x1="8" x2="21" y1="12" y2="12"/><line x1="8" x2="21" y1="18" y2="18"/><line x1="3" x2="3.01" y1="6" y2="6"/><line x1="3" x2="3.01" y1="12" y2="12"/><line x1="3" x2="3.01" y1="18" y2="18"/></svg>
+                  <span>${ev.subsVi.length} ${i18n[currentLang].lblSubDetails}</span>
+                </div>
+              ` : ''}
+            `;
+
+            card.addEventListener('click', (e) => {
+              if (e.target.closest('.btn-bookmark-item')) {
+                toggleBookmark(ev.id);
+                return;
+              }
+              openEventDetail(ev.id);
+            });
+
+            tree.appendChild(card);
+          });
+
+          eventsContainer.appendChild(tree);
+        });
+      }
+
+      // 2. GRID VIEW RENDERER
+      function renderGridView() {
+        const grid = document.createElement('div');
+        grid.className = 'grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5';
+        const query = searchInput.value.trim().toLowerCase();
+
+        activeEvents.forEach(ev => {
+          const dateStr = currentLang === 'vi' ? ev.dateVi : ev.dateEn;
+          const descStr = currentLang === 'vi' ? ev.descVi : ev.descEn;
+          const era = window.TIMELINE_ERAS[ev.eraIndex];
+          const eraTitle = currentLang === 'vi' ? era.titleVi : era.titleEn;
+          const isBookmarked = bookmarks.includes(ev.id);
+
+          const card = document.createElement('div');
+          card.className = 'bg-parchment-card/90 hover:bg-parchment-card border border-parchment-gold/70 hover:border-parchment-accent rounded-lg p-5 shadow-parchment hover:shadow-elevated transition-all duration-200 flex flex-col justify-between group hover:-translate-y-1 cursor-pointer';
+
+          card.innerHTML = `
+            <div class="space-y-3">
+              <div class="flex items-start justify-between gap-2">
+                <span class="inline-block px-2.5 py-1 rounded-md bg-parchment-accent text-parchment-bg font-display font-bold text-xs shadow-sm">
+                  ${highlightText(dateStr, query)}
+                </span>
+                <button class="btn-bookmark-item p-1.5 rounded-md hover:bg-parchment-gold/40 text-parchment-accent" data-id="${ev.id}">
+                  <svg class="w-4 h-4 ${isBookmarked ? 'fill-parchment-accent' : ''}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>
+                </button>
+              </div>
+
+              <p class="text-sm font-semibold text-parchment-text line-clamp-4 leading-relaxed">
+                ${highlightText(descStr, query)}
+              </p>
+            </div>
+
+            <div class="mt-4 pt-3 border-t border-parchment-gold/30 flex items-center justify-between text-xs text-parchment-subtle">
+              <span class="truncate max-w-[200px]" title="${escapeHtml(eraTitle)}">${escapeHtml(eraTitle)}</span>
+              <span class="font-bold text-parchment-accent group-hover:translate-x-1 transition-transform">→</span>
+            </div>
+          `;
+
+          card.addEventListener('click', (e) => {
+            if (e.target.closest('.btn-bookmark-item')) {
+              toggleBookmark(ev.id);
+              return;
+            }
+            openEventDetail(ev.id);
+          });
+
+          grid.appendChild(card);
+        });
+
+        eventsContainer.appendChild(grid);
+      }
+
+      // 3. TABLE VIEW RENDERER
+      function renderTableView() {
+        const query = searchInput.value.trim().toLowerCase();
+        const tableCard = document.createElement('div');
+        tableCard.className = 'bg-parchment-card border border-parchment-gold rounded-lg shadow-parchment overflow-x-auto';
+
+        let html = `
+          <table class="w-full text-left text-sm border-collapse">
+            <thead>
+              <tr class="bg-parchment-gold/30 border-b border-parchment-gold text-parchment-accent font-display font-bold uppercase text-xs">
+                <th class="p-3.5">Mốc Thời Gian</th>
+                <th class="p-3.5">Nội Dung Sự Kiện</th>
+                <th class="p-3.5">Thời Kỳ</th>
+                <th class="p-3.5 text-right">Lưu</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-parchment-gold/30">
+        `;
+
+        activeEvents.forEach(ev => {
+          const dateStr = currentLang === 'vi' ? ev.dateVi : ev.dateEn;
+          const descStr = currentLang === 'vi' ? ev.descVi : ev.descEn;
+          const era = window.TIMELINE_ERAS[ev.eraIndex];
+          const eraTitle = currentLang === 'vi' ? era.titleVi : era.titleEn;
+          const isBookmarked = bookmarks.includes(ev.id);
+
+          html += `
+            <tr class="hover:bg-parchment-gold/20 transition-colors cursor-pointer" data-id="${ev.id}">
+              <td class="p-3.5 font-bold text-parchment-accent whitespace-nowrap align-top">${highlightText(dateStr, query)}</td>
+              <td class="p-3.5 font-medium text-parchment-text leading-relaxed align-top">${highlightText(descStr, query)}</td>
+              <td class="p-3.5 text-xs text-parchment-subtle whitespace-nowrap align-top">${escapeHtml(eraTitle.substring(0, 30))}...</td>
+              <td class="p-3.5 text-right align-top">
+                <button class="btn-bookmark-item p-1 rounded hover:bg-parchment-gold/40 text-parchment-accent" data-id="${ev.id}">
+                  <svg class="w-4 h-4 ${isBookmarked ? 'fill-parchment-accent' : ''}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>
+                </button>
+              </td>
+            </tr>
+          `;
+        });
+
+        html += `</tbody></table>`;
+        tableCard.innerHTML = html;
+
+        tableCard.querySelectorAll('tbody tr').forEach(tr => {
+          tr.addEventListener('click', (e) => {
+            const id = parseInt(tr.getAttribute('data-id'), 10);
+            if (e.target.closest('.btn-bookmark-item')) {
+              toggleBookmark(id);
+              return;
+            }
+            openEventDetail(id);
+          });
+        });
+
+        eventsContainer.appendChild(tableCard);
+      }
+
+      // Event Modal View
+      function openEventDetail(eventId) {
+        const ev = window.TIMELINE_EVENTS.find(e => e.id === eventId);
+        if (!ev) return;
+        activeModalEventId = eventId;
+
+        const era = window.TIMELINE_ERAS[ev.eraIndex];
+        const eraTitle = currentLang === 'vi' ? era.titleVi : era.titleEn;
+        const dateStr = currentLang === 'vi' ? ev.dateVi : ev.dateEn;
+        const descStr = currentLang === 'vi' ? ev.descVi : ev.descEn;
+        const subs = currentLang === 'vi' ? ev.subsVi : ev.subsEn;
+
+        modalEraTitle.textContent = eraTitle;
+        modalDateBadge.textContent = dateStr;
+        modalDescMain.innerHTML = parseMarkdown(descStr);
+
+        if (subs && subs.length > 0) {
+          modalSubsContainer.classList.remove('hidden');
+          modalSubsList.innerHTML = subs.map(s => `<li>${parseMarkdown(s)}</li>`).join('');
+        } else {
+          modalSubsContainer.classList.add('hidden');
+        }
+
+        updateModalBookmarkBtn(eventId);
+        modalDetail.classList.remove('hidden');
+      }
+
+      function updateModalBookmarkBtn(eventId) {
+        const isSaved = bookmarks.includes(eventId);
+        btnModalBookmark.innerHTML = `
+          <svg class="w-4 h-4 ${isSaved ? 'fill-parchment-bg' : ''}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>
+          <span>${isSaved ? 'Đã Lưu Sự Kiện' : i18n[currentLang].btnBookmark}</span>
+        `;
+      }
+
+      function copyActiveEventCitation() {
+        if (!activeModalEventId) return;
+        const ev = window.TIMELINE_EVENTS.find(e => e.id === activeModalEventId);
+        if (!ev) return;
+
+        const dateStr = currentLang === 'vi' ? ev.dateVi : ev.dateEn;
+        const descStr = currentLang === 'vi' ? ev.descVi : ev.descEn;
+        const citation = `[${dateStr}] ${descStr} (Nguồn: Dòng Thời Gian Lịch Sử Việt Nam)`;
+
+        navigator.clipboard.writeText(citation).then(() => {
+          showToast(i18n[currentLang].toastCopied);
+        });
+      }
+
+      function toggleBookmarkActiveEvent() {
+        if (!activeModalEventId) return;
+        toggleBookmark(activeModalEventId);
+        updateModalBookmarkBtn(activeModalEventId);
+      }
+
+      // Bookmark Logic
+      function toggleBookmark(eventId) {
+        const idx = bookmarks.indexOf(eventId);
+        if (idx >= 0) {
+          bookmarks.splice(idx, 1);
+          showToast(i18n[currentLang].toastRemoved);
+        } else {
+          bookmarks.push(eventId);
+          showToast(i18n[currentLang].toastSaved);
+        }
+        localStorage.setItem('vn_timeline_bookmarks', JSON.stringify(bookmarks));
+        updateBookmarkBadge();
+        renderEvents();
+        if (!modalBookmarks.classList.contains('hidden')) {
+          renderBookmarksList();
+        }
+      }
+
+      function updateBookmarkBadge() {
+        if (bookmarks.length > 0) {
+          bookmarkBadge.textContent = bookmarks.length;
+          bookmarkBadge.classList.remove('hidden');
+        } else {
+          bookmarkBadge.classList.add('hidden');
+        }
+      }
+
+      function openBookmarksDrawer() {
+        renderBookmarksList();
+        modalBookmarks.classList.remove('hidden');
+      }
+
+      function renderBookmarksList() {
+        bookmarksList.innerHTML = '';
+
+        if (bookmarks.length === 0) {
+          bookmarksList.innerHTML = `
+            <div class="text-center py-10 text-parchment-subtle text-sm">
+              <p>Chưa có sự kiện nào được lưu.</p>
+            </div>
+          `;
+          return;
+        }
+
+        bookmarks.forEach(id => {
+          const ev = window.TIMELINE_EVENTS.find(e => e.id === id);
+          if (!ev) return;
+
+          const dateStr = currentLang === 'vi' ? ev.dateVi : ev.dateEn;
+          const descStr = currentLang === 'vi' ? ev.descVi : ev.descEn;
+
+          const item = document.createElement('div');
+          item.className = 'bg-parchment-card p-3 rounded-lg border border-parchment-gold space-y-1 relative group hover:border-parchment-accent transition-colors';
+
+          item.innerHTML = `
+            <div class="flex items-center justify-between">
+              <span class="font-bold text-xs text-parchment-accent">${parseMarkdown(dateStr)}</span>
+              <button class="btn-remove-bk text-parchment-subtle hover:text-parchment-accent p-1" data-id="${ev.id}">
+                <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6 6 18M6 6l12 12"/></svg>
+              </button>
+            </div>
+            <p class="text-xs text-parchment-text line-clamp-2">${parseMarkdown(descStr)}</p>
+          `;
+
+          item.querySelector('.btn-remove-bk').addEventListener('click', (e) => {
+            e.stopPropagation();
+            toggleBookmark(ev.id);
+          });
+
+          item.addEventListener('click', () => {
+            modalBookmarks.classList.add('hidden');
+            openEventDetail(ev.id);
+          });
+
+          bookmarksList.appendChild(item);
+        });
+      }
+
+      function clearAllBookmarks() {
+        bookmarks = [];
+        localStorage.setItem('vn_timeline_bookmarks', JSON.stringify(bookmarks));
+        updateBookmarkBadge();
+        renderBookmarksList();
+        renderEvents();
+        showToast(i18n[currentLang].toastAllCleared);
+      }
+
+      // Random Event Feature
+      function showRandomEvent() {
+        if (!window.TIMELINE_EVENTS || window.TIMELINE_EVENTS.length === 0) return;
+        const randomIdx = Math.floor(Math.random() * window.TIMELINE_EVENTS.length);
+        const randomEv = window.TIMELINE_EVENTS[randomIdx];
+        openEventDetail(randomEv.id);
+      }
+
+      // Toast Notification System
+      function showToast(message, type = 'success') {
+        const toast = document.createElement('div');
+        toast.className = 'pointer-events-auto bg-parchment-accent text-parchment-bg font-semibold text-xs px-4 py-3 rounded-lg shadow-elevated border border-parchment-gold flex items-center justify-between gap-3 transform transition-all duration-300 translate-y-2 opacity-0';
+        
+        toast.innerHTML = `
+          <div class="flex items-center gap-2">
+            <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></svg>
+            <span>${escapeHtml(message)}</span>
+          </div>
+        `;
+
+        const container = document.getElementById('toast-container');
+        container.appendChild(toast);
+
+        // Animate In
+        setTimeout(() => {
+          toast.classList.remove('translate-y-2', 'opacity-0');
+        }, 10);
+
+        // Auto Dismiss
+        setTimeout(() => {
+          toast.classList.add('opacity-0', 'translate-y-2');
+          setTimeout(() => toast.remove(), 300);
+        }, 3000);
+      }
+
+      // Run on DOM ready
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', init);
+      } else {
+        init();
+      }
+
+    })();
+  </script>
+</body>
+</html>
