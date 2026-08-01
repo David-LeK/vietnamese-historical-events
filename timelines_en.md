@@ -1462,6 +1462,7 @@
 *   **Dec. 19, 1947:** The main body of French forces withdrew from Viet Bac; the enemy's offensive campaign had completely failed.
 *   **1948:** Le Thi Rieng joined the Communist Party of Vietnam.
 *   **Jan. 25, 1948:** The government issued a decree establishing Inter-zones to unify the command of the resistance.
+*   **Early 1948:** Georges Boudarel arrived in Saigon, Vietnam, with an introduction from the French Communist Party's Indochina Office. He initially taught philosophy at Yersin High School in Da Lat.
 *   **Jun. 11, 1948:** President Ho Chi Minh issued an appeal for patriotic emulation.
 *   **Jul. 1948:** The Second National Cultural Conference was held, defining the "national, scientific, and mass" character of the new culture.
 *   **Aug. 1948:** Đặng Thị Kim, pregnant and serving as a provisional Executive Committee member of the Nha Trang Town Party Committee, was arrested by the enemy while traveling by boat across the strait to a resistance zone conference. She endured brutal torture but fiercely protected the revolutionary bases and refused to confess.
@@ -1476,6 +1477,7 @@
 *   **Apr. 23, 1949:** General Vo Nguyen Giap issued the order to launch the Thap Van Dai Son Campaign to assist the Chinese People's Liberation Army in fighting Kuomintang forces. This marked the first international mission of the Vietnam People's Army. Prior to departure, President Ho Chi Minh advised the campaign commander, Le Quang Ba: "Careful, secret, united, friendly, victorious."
 *   **Jun. - Oct. 1949:** The Thap Van Dai Son Campaign took place in the Vietnam-Guangxi border region. Vietnamese forces, divided into two fronts (Kham Chau and Long Chau), coordinated with Chinese forces to attack Kuomintang strongholds. The campaign successfully expanded the liberated zone for the Chinese revolution, secured the northeastern border of Vietnam, and concluded when Vietnamese troops withdrew after linking up with the main Chinese army.
 *   **Jun. 15, 1949:** Vu A Dinh was brutally murdered by the French. After being captured in a dense fog during a massive sweep in Pu Nhung and enduring severe torture (including a broken leg), the 15-year-old boy tricked the French troops into carrying him through the forest for days, leading them to an abandoned camp. Enraged by the deception, the French shot him and hung his body on a peach tree.
+*   **Autumn 1949:** Georges Boudarel was transferred to teach in Laos but was expelled three months later. He returned to Saigon, worked as a French teacher at Marie Curie High School, and frequently associated with the French Marxist cultural group.
 *   **Jul. 14, 1949:** The government issued the first decree on rent reduction.
 *   **Aug. 28, 1949:** The 308th Division (the Pioneer Division), the first main-force division of the Vietnam People's Army, was established.
 *   **Oct. 1, 1949:** The People's Republic of China was founded.
@@ -1499,6 +1501,7 @@
 *   **Oct. 11-22, 1950:** Facing the threat of annihilation, French troops panicked and fled from a series of positions on Route 4, such as That Khe, Na Sam, and Lang Son. By October 22, the French were entirely cleared from Route 4.
 *   **Oct. 14, 1950:** The French government officially transferred the administrative control of the archipelagos to the Bao Dai government.
 *   **Nov. 4, 1950:** French forces withdrew from Lao Cai and Sa Pa. The entire French border defense line was shattered.
+*   **Late 1950:** Georges Boudarel left his teaching position to join the Viet Minh forces. A French military court in Saigon subsequently sentenced him to death in absentia for desertion. He was assigned to be a French announcer for the clandestine Voice of Free Saigon - Cho Lon in War Zone D, adopting the Vietnamese alias Đại Đồng (but widely known by his comrades as "Bu Đa" or Bouda).
 *   **Dec. 1950:** General De Lattre de Tassigny was sent to Indochina as High Commissioner and Commander-in-Chief, holding all military and civilian power.
 *   **Dec. 6, 1950:** General De Lattre de Tassigny was appointed High Commissioner and Commander-in-Chief of the French army in Indochina, beginning the implementation of a new military plan.
 *   **Dec. 23, 1950:** After 10 months of imprisonment and widespread protests in France and internationally demanding her release, Raymonde Dien was freed.
@@ -1539,6 +1542,7 @@
 *   **May 1952:** At the First National Congress of Emulation Fighters and Heroes, Cù Chính Lan was posthumously awarded the Military Exploit Order, Second Class, and the Resistance Order, First Class by the Government and President Ho Chi Minh for his exemplary revolutionary heroism.
 *   **May 1 - 6, 1952:** The First National Congress of Emulation Fighters and Model Cadres was held to honor achievements in the patriotic emulation movement.
 *   **May 19, 1952:** Martyr Cù Chính Lan was posthumously awarded the title Hero of the People's Armed Forces by the President of the Democratic Republic of Vietnam. He was one of the very first seven individuals nationwide to receive this noble title.
+*   **Mid-1952:** Georges Boudarel was assigned to march north to the Viet Bac resistance base, an arduous six-month journey on foot. In Viet Bac, he was assigned to teach politics at Camp 113, enduring severe privations to re-educate prisoners of war, primarily French and African officers, transforming many into peace advocates.
 *   **Aug. 10, 1952:** At the Commendation Ceremony, upon hearing the report on the heroic deeds of Cù Chính Lan, President Ho Chi Minh from the Presidium requested everyone present to stand up and observe a minute of silence to honor this outstanding son of the nation.
 *   **Oct. 14 - Dec. 10, 1952:** The **Northwest Campaign** was launched. Key victories included the capture of Nghia Lo (Oct. 18) and the ambush at Chan Mong - Tram Than (Nov. 17) which defeated the French Operation Lorraine. The campaign liberated a vast area including Dien Bien Phu (Nov. 30) and Son La province (except Na San), connecting the Viet Bac resistance base with Upper Laos.
 *   **1953:** Le Van Ba returned to the South to fight and married Le Thi Rieng.
@@ -1560,6 +1564,7 @@
 *   **1954:** Following the Geneva Accords, Ut Tich and her husband stayed in the South. When her husband and comrades were arrested by the Ngo Dinh Diem regime, she successfully mobilized other women to pressure the government for their release. Meanwhile, Le Thi Rieng also continued participating in anti-US-Diem revolutionary movements in the South.
 *   **1954:** The government of South Vietnam took over Con Dao Island and continued to use it as a prison, with its infamous and brutal "tiger cages." The South Vietnamese government also continued to develop Phu Quoc Island and built the largest prisoner-of-war camp at that time.
 *   **Jan. 26, 1954:** At the Dien Bien Phu front, the Campaign Command decided to change the operational guideline from "swift attack, swift victory" to **"steady attack, steady advance."**
+*   **Early 1954:** Georges Boudarel was placed in charge of escorting a group of prisoners of war being exchanged with the French. Following the closure of Camp 113, he returned to the Viet Bac Safe Zone to work for the revolutionary radio station's French program, broadcasting timely war news and sharp commentary during the Dien Bien Phu Campaign to inform the French public and the world.
 *   **Early 1954:** During the Dien Bien Phu campaign, former Mayor Tran Van Lai contributed to and was the first to sign a peace petition by Hanoi intellectuals ("Les Notabilités"). The petition was sent to Paris and published in *Le Monde* and *L'Humanité*, creating significant diplomatic pressure in France.
 *   **Mar. 13 - 17, 1954:** In the first phase of the Dien Bien Phu Campaign, the Vietnamese forces opened fire at 5:05 PM on March 13. They rapidly annihilated the Him Lam (Mar. 13) and Doc Lap (Mar. 15) strongpoints, forcing the French artillery commander Piroth to commit suicide. Ban Keo surrendered on March 17, breaking the enemy's northern defense system. During this phase, on March 14, the first French aircraft was shot down by Vietnamese anti-aircraft fire.
 *   **Mar. 30 - Apr. 26, 1954:** In the second phase of the campaign, the Vietnamese forces simultaneously attacked the eastern hills, capturing crucial points like C1, D1, and E, tightened the siege with an extensive trench system, controlled the airfield, and cut off the enemy's supply lines.
@@ -1583,6 +1588,7 @@
 *   **Sep. 6, 1954:** The US formed the Southeast Asia Treaty Organization (SEATO) and placed South Vietnam, Laos, and Cambodia under its "protection."
 *   **Oct. 1954:** Following the Geneva Accords, Dinh Thi Van received orders to secretly relocate to the South to build an intelligence network in Saigon. To protect her cover as a refugee merchant, the revolutionary leadership issued a fake death sentence against her for "betraying the Party."
 *   **Oct. 10, 1954:** The Vietnam People's Army marched into and took over the capital city of Hanoi.
+*   **Late 1954:** Following the restoration of peace in the North, Georges Boudarel moved to Hanoi. He served as the secretary of the Voice of Vietnam's French program and worked as an editor and translator for the Foreign Languages Publishing House (now Thế Giới Publishers). He passionately translated major Vietnamese literary works into French, including "Tắt đèn" (Ngô Tất Tố) and "Dế Mèn phiêu lưu ký" (Tô Hoài), introducing Vietnamese literature to international readers.
 *   **Dec. 29, 1954:** France signed a treaty transferring all administrative authority in South Vietnam to Ngo Dinh Diem.
 *   **Jan. 8, 1955:** The Ngo Dinh Diem administration issued Ordinance No. 2 and Ordinance No. 7 (Feb. 3, 1955) regarding land reform, aiming to reclaim land distributed to peasants during the resistance.
 *   **Mar. 1955:** The 7th Conference of the Central Committee of the Vietnam Workers' Party set out the tasks of consolidating the North and conducting political struggle in the South.
@@ -1697,6 +1703,7 @@
 *   **1964:** Ut Tich was admitted to the Southern People's Revolutionary Party.
 *   **1964 - 1967:** Following the Gulf of Tonkin incident, Mother Suot, despite being nearly 60 years old, volunteered to row a wooden boat across the Nhat Le River (Quang Binh) under fierce US bombing. She safely transported thousands of cadres, wounded soldiers, and weapons, making an estimated 1,400 trips per year.
 *   **1964:** The Hanoi Film Studio, in collaboration with the Vietnam People's Army Cinema, produced the film "Người chiến sĩ trẻ" (The Young Soldier), vividly bringing the life and heroic sacrifices of Cù Chính Lan to the screen to inspire future generations.
+*   **1964:** Georges Boudarel left Vietnam with his Vietnamese wife and daughter for Prague, Czechoslovakia, to work for the World Federation of Trade Unions (WFTU). He became a spokesperson for global workers through his French-language broadcasts.
 *   **Jan. 30, 1964:** General Nguyen Khanh staged a coup ("Rectification") overthrowing the military junta of Duong Van Minh, signaling continued political instability in the Saigon regime.
 *   **Early 1964:** During Lunar New Year, Nguyễn Văn Trỗi traveled to the Rừng Thơm base in Đức Hòa district, Long An province, to undergo training in politics and urban commando warfare.
 *   **Mar. 1964:** The US drew up the **Johnson-McNamara Plan**, increasing aid, sending more advisors, and stepping up sabotage activities against the North.
@@ -1755,6 +1762,7 @@
 *   **Dec. 25, 1965:** The Dai Viet Revolutionary Party was founded.
 *   **1966:** Saigon commando Tran Van Lai secretly built a floating bunker in a house in Ba Chieu, serving as a reserve command post for the 1968 Tet Offensive.
 *   **1966:** Mother Suot was invited to attend the National Congress of Heroes and Emulation Fighters in Northern Vietnam.
+*   **1966 - 1967:** The French Parliament passed an amnesty law (1966) for acts committed during the Indochina and Algerian wars, permanently erasing past convictions. Consequently, Georges Boudarel returned to France in 1967, commencing his academic career teaching and researching modern Vietnamese history at Denis Diderot University (Paris VII).
 *   **Jan. 2, 1966:** At a rally of over one million people in La Habana celebrating the 7th anniversary of the Cuban Revolution, Fidel Castro famously declared: "For Vietnam, Cuba is willing to give even its own blood." Following this, thousands of Cuban youth volunteered to go to Vietnam to fight.
 *   **Jan. 8 - Jan. 19, 1966:** The US and allied forces launched **Operation Crimp** with 12,000 troops, tanks, and B-52 support targeting the "Iron Triangle" (Cu Chi) to destroy the headquarters of the Saigon - Gia Dinh Military Zone. The revolutionary forces relied on the tunnel system to counterattack and preserve their forces.
 *   **Jan. 9, 1966:** South Korean troops conducted a raid and massacred 37 civilians in Kim Tai hamlet (Nhon Phong, Binh Dinh).
@@ -1817,6 +1825,7 @@
 
 ### **Period of Defeating the Vietnamization of the War Strategy (1969 - 1972)**
 
+*   **1969:** Georges Boudarel successfully defended his highly regarded doctoral thesis on the Vietnamese patriot Phan Boi Chau, officially becoming a university professor and a leading researcher on Vietnam.
 *   **Jan. 20, 1969:** Richard Nixon was inaugurated as US President and implemented the "Vietnamization of the war" strategy and the "Nixon Doctrine."
 *   **Jan. 25, 1969:** The first plenary session of the four-party conference on Vietnam opened in Paris.
 *   **Feb. 25, 1969:** A US Navy SEAL team led by Bob Kerrey killed 21 civilians in Thanh Phong (Ben Tre).
@@ -1847,6 +1856,7 @@
 *   **Jul. 2, 1970:** The Politburo issued Resolution No. 200-NQ/TW establishing the Central Council for Frontline Supply to mobilize manpower and resources for the battlefield.
 *   **Aug. 25, 1970:** Dinh Thi Van was awarded the noble title of Hero of the People's Armed Forces for her outstanding contributions to Vietnam's military intelligence.
 *   **1971:** Nguyen Thi Binh, Head of the negotiating delegation of the Provisional Revolutionary Government of the Republic of South Vietnam at the Paris Conference, visited Iraq and was welcomed with great honor by the Iraqi government and people.
+*   **1971:** Georges Boudarel published the influential book "Tradition and Revolution in Vietnam" (Truyền thống và cách mạng ở Việt Nam).
 *   **Feb. 8 - Mar. 24, 1971:** Route 9 - Southern Laos Campaign (Operation Lam Son 719). The Republic of Vietnam forces, heavily supported by 10,000 US troops, 1,200 aircraft, and heavy artillery, mobilized over 21,000 of their most elite troops (Airborne, Marines, Armor) to invade southern Laos to sever the Ho Chi Minh Trail at Tchepone. The Liberation Army of South Vietnam (with 60,000 troops) launched an unprecedented large-scale combined-arms counter-offensive. Highlighting the campaign was the decisive victory at Ban Dong (Mar. 12 - 20), where the Liberation Army shattered the ARVN 1st Airborne Brigade and two armored regiments. The campaign ended in a disastrous defeat for the Saigon army (suffering over 1,500 casualties and hundreds captured; losing 71 tanks, 163 armored vehicles, and having over 100 helicopters destroyed and 600 damaged). This victory marked a profound maturation of the Liberation Army, completely thwarted the goal of cutting the Truong Son trail, and dealt a fatal blow to the US "Vietnamization" strategy.
 *   **Apr. 20, 1971:** The Republic of Vietnam's Ministry of Foreign Affairs issued a formal protest against Malaysia regarding territorial issues and took the opportunity to strongly reaffirm Vietnamese sovereignty over both the Paracel and Spratly archipelagos.
 *   **Jul. 1, 1971:** The Provisional Revolutionary Government of the Republic of South Vietnam put forward a 7-point peace proposal at the Paris Conference.
@@ -1958,6 +1968,7 @@
 *   **Dec. 1976:** The 4th National Congress of the Party was held in Hanoi.
     *   The Vietnam Workers' Party was renamed the **Communist Party of Vietnam**.
     *   The line for building socialism nationwide was set out, and the Second Five-Year Plan (1976-1980) was approved.
+*   **1977:** Georges Boudarel published the book "Giáp", an acclaimed historical work about General Vo Nguyen Giap.
 *   **Apr. 12, 1977:** Nguyen Tuat wrote a "Self-Declaration Form" to request a certified copy of his son's "Fatherland Acknowledges the Merit" certificate, as the original 1958 document had been damaged during the war. Local authorities in Nha Trang certified the document, officially confirming the identity and sacrifice of the real-life "Luom".
 *   **Apr. 30, 1977:** Khmer Rouge regular forces invaded 10 kilometers deep into Vietnamese territory in An Giang province, attacking border guard posts and communes, and massacring civilians.
 *   **May 12, 1977:** The Government of the Socialist Republic of Vietnam issued a declaration on its maritime zones, stating that islands and archipelagos are part of Vietnamese territory and have their own maritime zones.
@@ -2061,11 +2072,13 @@
 
 ### **Period of Accelerating Doi Moi - Escaping Crisis (1991 - 1995)**
 
+*   **Early 1991:** During a seminar on Vietnam in the French Senate, Georges Boudarel was recognized and verbally abused by a former French prisoner of war (then a minister). Subsequently, a group of former POWs filed a lawsuit accusing him of "crimes against humanity" at Camp 113. A massive media campaign against him ensued, causing him to suffer two consecutive strokes. In response, his friends, led by mathematician Laurent Schwartz, formed the "Friends of Boudarel" association to defend him.
 *   **Mar. 17, 1991:** A referendum on the preservation of the USSR was held, with 76.4% of voters supporting the maintenance of the Union.
 *   **Jun. 24-27, 1991:** The 7th National Congress of the Communist Party of Vietnam approved the **"Platform for National Construction in the Period of Transition to Socialism"** and the **"Strategy for Socio-Economic Stability and Development until 2000."**
 *   **Jul. 15 - 18, 1991:** At the initiative of Indonesia, an international conference was held in Bandung with regional countries to discuss the Spratly Islands issue, issuing a final communiqué encouraging dialogue and negotiation.
 *   **Aug. 19, 1991:** A coup attempt (the August Coup) took place in the Soviet Union aiming to prevent the signing of the New Union Treaty but failed, accelerating the disintegration of the USSR.
 *   **Nov. 25 - Dec. 4, 1991:** The 2nd Conference of the Party Central Committee (7th tenure) approved the tasks and solutions for socio-economic development for the 1992-1995 period, including the goal of decisively curbing inflation.
+*   **Late 1991:** A French appellate court dismissed the "crimes against humanity" lawsuit against Georges Boudarel, citing the 1966 amnesty law. The plaintiffs appealed the decision.
 *   **Dec. 8, 1991:** Leaders of Russia, Ukraine, and Belarus signed the Belavezha Accords, declaring the dissolution of the Soviet Union and establishing the Commonwealth of Independent States (CIS).
 *   **Dec. 25, 1991:** Mikhail Gorbachev resigned as President of the USSR. The Soviet flag was lowered at the Kremlin, marking the official collapse of the Soviet Union. This event had a profound impact on Vietnam, resulting in the loss of its most important traditional partner and aid source.
 *   **1992:** The remaining armed forces of FULRO in Cambodia officially surrendered to the UN Peacekeeping Forces (UNTAC), marking the end of the organization's armed activities.
@@ -2077,6 +2090,7 @@
 *   **Jul. 8, 1992:** China occupied several additional submerged reefs in the Spratly Islands, consolidating its presence after passing its expansive territorial sea law earlier that year.
 *   **Jul. 19, 1992:** Election for the 9th National Assembly.
 *   **Sep. 23, 1992:** Nguyen Thi Binh was elected Vice President of the Socialist Republic of Vietnam by the 9th National Assembly. Serving two consecutive terms until 2002, she was the second female deputy head of state in Vietnamese history and played a significant role in domestic social affairs and expanding Vietnam's international diplomatic relations.
+*   **Mar. 1993:** The French Court of Cassation upheld the dismissal of the lawsuit against Georges Boudarel.
 *   **Jun. 1993:** The 5th Conference of the Party Central Committee (7th tenure) issued a resolution on continuing the renewal and development of the rural socio-economy.
 *   **Jul. 2, 1993:** The US announced it no longer opposed other countries and international financial institutions lending to Vietnam to repay its debts, a crucial step towards lifting the embargo.
 *   **Jul. 24, 1993:** The State President promulgated the Land Law, regulating the regime of land management and use, as well as the rights and obligations of land users in Vietnam.
@@ -2113,6 +2127,7 @@
 *   **Nov. 19, 1997:** Internet services were officially made widely available in Vietnam, with Vietnam Posts and Telecommunications Group (VNPT) and Netnam Joint Stock Company being among the first to implement them.
 *   **Dec. 1997:** The 4th Conference of the Party Central Committee (8th tenure) set out a policy of upholding the spirit of self-reliance and self-strengthening, and leveraging internal resources to overcome the difficulties and challenges from the crisis.
 *   **1998:** The Ho Chi Minh City Securities Trading Center was established by a decision of the Prime Minister.
+*   **1998:** The French Court of Cassation officially rejected the final appeals against Georges Boudarel, declaring that he could not be tried, definitively closing the "crimes against humanity" case.
 *   **Jul. 24, 1998:** The Vietnam Red Cross Society organized the launching ceremony of the Agent Orange Victims Protection Fund in Hanoi. Former Vice President Nguyen Thi Binh was invited as the Honorary President of the fund, aiming to mobilize social resources to care for the victims and their families.
 *   **Jul. 31, 1998:** The Prime Minister issued Decision 135/1998/QD-TTg on the socio-economic development program for especially difficult communes in mountainous, remote, and isolated areas (Program 135).
 *   **Nov. 1998:** The Politburo issued Resolution 06 on some issues of agriculture and the rural economy, for the first time officially recognizing and encouraging the development of the **farm economic model**.
@@ -2147,6 +2162,7 @@
 *   **Sep. 2, 2003:** A 7-meter-tall monument and memorial complex for Mother Suot, created by sculptor Phan Dinh Tien, was inaugurated by the Nhat Le River in Dong Hoi, Quang Binh.
 *   **Nov. 7, 2003:** Hue Royal Court Music (Nhã nhạc) was recognized by UNESCO as the first intangible heritage.
 *   **Dec. 2003:** Vietnam hosted the 22nd SEA Games.
+*   **Dec. 26, 2003:** Georges Boudarel passed away at the age of 77. Fulfilling his wishes, he was cremated, and a portion of his ashes was scattered off the coast of France. The remaining ashes were kept by his friends to be brought back to Vietnam.
 *   **2004:** Vietnam was awarded a Guinness World Record for the largest banh tet (Vietnamese sticky rice cake) in the world.
 *   **2004:** The Prime Minister approved the overall development plan for Phu Quoc Island.
 *   **Jan. 10, 2004:** The Vietnam Association of Victims of Agent Orange/Dioxin (VAVA) was officially established, with Lieutenant General Dang Vu Hiep as President and former Vice President Nguyen Thi Binh as Honorary President.
@@ -2243,6 +2259,7 @@
 *   **Dec. 12, 2019:** The Then ritual practices of the Tay, Nung, and Thai ethnic groups were recognized by UNESCO as a heritage.
 *   **Jan. 1, 2020:** Vietnam assumed the roles of ASEAN Chair 2020 and non-permanent member of the UN Security Council.
 *   **Jan. 23, 2020:** The first COVID-19 case was recorded in Vietnam.
+*   **Feb. 2020:** Fulfilling the dying wish of the devoted French scholar, Georges Boudarel's remaining ashes were brought to Vietnam by his friends and scattered into the Be River (former War Zone D) and the Red River (Hanoi), symbolizing his eternal bond with his "second homeland".
 *   **Early 2020:** During the initial outbreak of the COVID-19 pandemic, Cuba immediately donated medicine to treat 1,000 patients in Vietnam and sent medical experts to assist. Cuba also offered to transfer COVID-19 vaccine technology to Vietnam.
 *   **Aug. 1, 2020:** The EVFTA Agreement officially took effect.
 *   **Sep. 6, 2020:** Vietnamese cuisine has set 5 world records.

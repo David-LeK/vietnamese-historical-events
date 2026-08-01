@@ -1462,6 +1462,7 @@
 *   **19/12/1947:** Đại bộ phận quân Pháp rút khỏi Việt Bắc, chiến dịch tấn công của địch hoàn toàn thất bại.
 *   **1948:** Lê Thị Riêng được kết nạp vào Đảng Cộng sản Việt Nam.
 *   **25/01/1948:** Chính phủ ra sắc lệnh thành lập các Liên khu để thống nhất chỉ đạo kháng chiến.
+*   **Đầu năm 1948:** Georges Boudarel đến Sài Gòn, Việt Nam với thư giới thiệu của Văn phòng Đông Dương thuộc Đảng Cộng sản Pháp. Ban đầu, ông giảng dạy triết học tại Trường trung học Yersin ở Đà Lạt.
 *   **11/06/1948:** Chủ tịch Hồ Chí Minh ra lời kêu gọi thi đua ái quốc.
 *   **07/1948:** Hội nghị văn hóa toàn quốc lần thứ hai được tổ chức, xác định tính chất "dân tộc, khoa học, đại chúng" của nền văn hóa mới.
 *   **08/1948:** Đặng Thị Kim, lúc này đang mang thai khoảng 3 tháng và là Ủy viên Ban Chấp hành lâm thời Thị ủy Nha Trang, bị địch bắt khi đang đi thuyền qua eo biển về chiến khu dự hội nghị. Bà phải chịu những đòn tra tấn tàn bạo nhưng nhất quyết không khai báo, bảo vệ an toàn cho cơ sở cách mạng.
@@ -1476,6 +1477,7 @@
 *   **23/04/1949:** Đại tướng Võ Nguyên Giáp ra bản Mệnh lệnh mở Chiến dịch Thập Vạn Đại Sơn nhằm phối hợp giúp Giải phóng quân Trung Quốc đánh tàn quân Quốc dân Đảng. Đây là nhiệm vụ quốc tế đầu tiên của Quân đội nhân dân Việt Nam. Trước khi lên đường, Chủ tịch Hồ Chí Minh đã căn dặn Tư lệnh chiến dịch Lê Quảng Ba: "Cẩn thận, bí mật, đoàn kết, hữu nghị, thắng lợi".
 *   **06 - 10/1949:** Chiến dịch Thập Vạn Đại Sơn diễn ra tại vùng biên khu Việt Quế - Điền Quế (biên giới Việt - Trung). Bộ đội Việt Nam chia làm hai mặt trận Khâm Châu và Long Châu, phối hợp với quân bạn liên tiếp đánh hạ các cứ điểm của quân Tưởng. Chiến dịch kết thúc thắng lợi vào tháng 10/1949, giúp cách mạng Trung Quốc mở rộng vùng giải phóng Ung - Long - Khâm, đồng thời củng cố vững chắc vùng biên giới Đông Bắc của Việt Nam.
 *   **15/06/1949:** Vừ A Dính bị thực dân Pháp sát hại dã man. Sau khi sa vào ổ phục kích của địch trong một đợt sương mù tại Pú Nhung và chịu nhiều đòn tra tấn tàn khốc (bị đánh gãy một bên ống chân), người thiếu niên 15 tuổi đã lừa quân Pháp khiêng mình đi cáng suốt nhiều ngày qua các cánh rừng đến một lán trại bỏ hoang. Tức giận vì bị lừa, quân Pháp đã xả súng bắn chết ông và treo xác lên cây đào.
+*   **Mùa thu 1949:** Georges Boudarel được chuyển sang Lào giảng dạy nhưng bị trục xuất sau 3 tháng. Ông trở lại Sài Gòn làm giáo viên tiếng Pháp cho Trường nữ sinh Marie Curie và thường xuyên lui tới với Nhóm văn hóa Mác-xít Pháp.
 *   **14/07/1949:** Chính phủ ban hành sắc lệnh giảm tô đầu tiên.
 *   **28/08/1949:** Đại đoàn 308 (Đại đoàn Quân Tiên phong), đại đoàn chủ lực đầu tiên của Quân đội nhân dân Việt Nam, được thành lập.
 *   **01/10/1949:** Nước Cộng hòa Nhân dân Trung Hoa được thành lập.
@@ -1499,6 +1501,7 @@
 *   **11-22/10/1950:** Trước nguy cơ bị tiêu diệt, quân Pháp hoảng loạn rút chạy khỏi hàng loạt vị trí trên đường số 4 như Thất Khê, Na Sầm, Lạng Sơn. Đến ngày 22/10, quân Pháp phải rút bỏ hoàn toàn khỏi tuyến đường này.
 *   **14/10/1950:** Chính phủ Pháp chính thức chuyển giao quyền quản lý hành chính các quần đảo cho chính phủ Bảo Đại.
 *   **04/11/1950:** Quân Pháp rút khỏi Lào Cai và Sa Pa. Toàn bộ tuyến phòng thủ biên giới của Pháp bị đập tan.
+*   **Cuối năm 1950:** Georges Boudarel rời bỏ bục giảng để tham gia lực lượng Việt Minh. Tòa án quân sự Pháp tại Sài Gòn sau đó đã tuyên án tử hình vắng mặt ông vì tội đào ngũ. Ông được phân công làm phát thanh viên tiếng Pháp của Đài Tiếng nói Sài Gòn - Chợ Lớn tự do ở Chiến khu Đ, lấy bí danh tiếng Việt là Đại Đồng (được đồng chí gọi thân thương là "Bu Đa" hay Bouda).
 *   **12/1950:** Tướng De Lattre de Tassigny được cử sang Đông Dương làm Cao ủy kiêm Tổng tư lệnh, nắm toàn bộ quyền lực quân sự và dân sự.
 *   **06/12/1950:** Tướng De Lattre de Tassigny được bổ nhiệm làm Cao ủy kiêm Tổng tư lệnh quân đội Pháp ở Đông Dương, bắt đầu triển khai kế hoạch quân sự mới.
 *   **23/12/1950:** Sau 10 tháng bị giam cầm và trải qua nhiều cuộc đấu tranh, biểu tình đòi trả tự do của nhân dân Pháp và quốc tế, Raymonde Dien đã được thả tự do.
@@ -1539,6 +1542,7 @@
 *   **05/1952:** Tại Đại hội liên hoan Anh hùng và Chiến sĩ thi đua toàn quốc lần thứ nhất, Cù Chính Lan được Chính phủ và Chủ tịch Hồ Chí Minh truy tặng Huân chương Quân công hạng hai và Huân chương Kháng chiến hạng nhất vì tinh thần chủ nghĩa anh hùng cách mạng sáng ngời.
 *   **01 - 06/05/1952:** Đại hội toàn quốc các chiến sĩ thi đua và cán bộ gương mẫu lần thứ nhất được tổ chức để tổng kết và biểu dương phong trào thi đua ái quốc.
 *   **19/05/1952:** Liệt sĩ Cù Chính Lan được Chủ tịch nước Việt Nam Dân chủ Cộng hòa truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân. Ông là 1 trong 7 người đầu tiên trên toàn quốc được nhận danh hiệu cao quý này.
+*   **Giữa năm 1952:** Georges Boudarel được chỉ định hành quân ra căn cứ địa Việt Bắc, trải qua chặng đường đi bộ vô cùng gian khổ ròng rã 6 tháng. Tại Việt Bắc, ông được phân công giảng dạy chính trị tại trại tù binh 113 (thuộc Cục Địch vận), vượt qua nhiều thiếu thốn khắc nghiệt để cảm hóa các sĩ quan Pháp và châu Phi thành những chiến sĩ hòa bình.
 *   **10/08/1952:** Tại buổi lễ Tuyên dương công trạng, khi nghe đọc báo cáo về Anh hùng Cù Chính Lan, từ trên Đoàn Chủ tịch, Bác Hồ đã đề nghị toàn thể hội trường đứng dậy mặc niệm người con ưu tú của dân tộc.
 *   **14/10 - 10/12/1952:** Mở **Chiến dịch Tây Bắc**. Các chiến thắng quan trọng gồm việc hạ phân khu Nghĩa Lộ (18/10), và đánh bại cuộc hành quân Lorraine của Pháp bằng trận phục kích Chân Mộng - Trạm Thản (17/11). Chiến dịch giải phóng một vùng rộng lớn bao gồm Điện Biên Phủ (30/11) và toàn tỉnh Sơn La (trừ Nà Sản), nối liền căn cứ địa Việt Bắc với Thượng Lào.
 *   **1953:** Lê Văn Ba trở về miền Nam chiến đấu và kết hôn với Lê Thị Riêng.
@@ -1560,6 +1564,7 @@
 *   **1954:** Sau Hiệp định Genève, vợ chồng Út Tịch được phân công ở lại miền Nam. Bị chính quyền Ngô Đình Diệm đàn áp, bà cùng nhiều phụ nữ khác đã đấu tranh buộc chính quyền thả chồng và bạn chiến đấu. Trong khi đó, Lê Thị Riêng cũng tiếp tục tham gia các phong trào cách mạng chống Mỹ - Diệm tại miền Nam.
 *   **1954:** Chính quyền Việt Nam Cộng hòa tiếp quản Côn Đảo và tiếp tục sử dụng nơi đây làm nhà tù, với các "chuồng cọp" nổi tiếng tàn bạo. Chính quyền Việt Nam Cộng hòa cũng tiếp tục phát triển Phú Quốc và xây dựng trại giam tù binh lớn nhất lúc bấy giờ.
 *   **26/01/1954:** Tại mặt trận Điện Biên Phủ, Bộ Chỉ huy chiến dịch quyết định thay đổi phương châm tác chiến từ "đánh nhanh thắng nhanh" sang **"đánh chắc, tiến chắc"**.
+*   **Đầu năm 1954:** Georges Boudarel đảm nhiệm việc đưa một số tù binh được trao đổi với phía Pháp. Sau khi trại 113 đóng cửa, ông trở lại An toàn khu Việt Bắc, làm việc cho chương trình tiếng Pháp của đài tiếng nói cách mạng, kịp thời phát đi những tin tức chiến sự và bình luận sắc sảo trong suốt Chiến dịch Điện Biên Phủ để nhân dân Pháp và thế giới hiểu rõ thực chất cuộc chiến.
 *   **Đầu năm 1954:** Trong chiến dịch Điện Biên Phủ, cựu Thị trưởng Trần Văn Lai đã góp ý và là người đầu tiên ký tên vào bản kiến nghị đòi hòa bình của nhân sĩ, trí thức Hà Nội ("Les Notabilites"). Bản kiến nghị được gửi sang Pháp và đăng trên các báo lớn, tạo tiếng vang và áp lực ngoại giao.
 *   **13 - 17/03/1954:** Trong đợt 1 của chiến dịch Điện Biên Phủ, bộ đội Việt Nam nổ súng vào lúc 17h05 ngày 13/03. Nhanh chóng tiêu diệt cứ điểm Him Lam (13/03) và Độc Lập (15/03), khiến chỉ huy pháo binh Pháp Piroth phải tự sát. Bản Kéo xin hàng vào ngày 17/03. Trong đợt này, ngày 14/03, chiếc máy bay đầu tiên của Pháp đã bị cao xạ Việt Nam bắn rơi.
 *   **30/03 - 26/04/1954:** Đợt 2 của chiến dịch bắt đầu lúc 18h00 ngày 30/03. Bộ đội Việt Nam đồng loạt tiến công các cao điểm phía đông (như C1, D1, E), thắt chặt vòng vây bằng hệ thống giao thông hào chằng chịt, khống chế hoàn toàn sân bay và cắt đứt nguồn tiếp tế của địch.
@@ -1583,6 +1588,7 @@
 *   **06/09/1954:** Mỹ thành lập khối quân sự Đông Nam Á (SEATO) và đặt miền Nam Việt Nam, Lào, Campuchia dưới sự "bảo hộ" của khối này.
 *   **10/1954:** Sau Hiệp định Giơnevơ, Đinh Thị Vân nhận lệnh bí mật vào Nam hoạt động, đóng vai "người đi buôn" để xây dựng mạng lưới tình báo ở Sài Gòn. Để tạo vỏ bọc an toàn, cấp trên đã phát thông báo giả rằng bà "phản Đảng, chạy trốn vào Nam" và "tuyên án tử hình vắng mặt".
 *   **10/10/1954:** Quân đội Nhân dân Việt Nam tiến vào tiếp quản Thủ đô Hà Nội.
+*   **Cuối năm 1954:** Khi hòa bình lập lại ở miền Bắc, Georges Boudarel về Hà Nội. Ông làm thư ký chương trình tiếng Pháp của Đài Tiếng nói Việt Nam và công tác biên dịch, biên tập tại Nhà xuất bản Ngoại văn (nay là Nhà xuất bản Thế Giới). Ông đã nhiệt tình dịch nhiều tác phẩm văn học lớn của Việt Nam sang tiếng Pháp như "Tắt đèn" (Ngô Tất Tố), "Dế Mèn phiêu lưu ký" (Tô Hoài), góp phần đưa văn học Việt Nam ra thế giới.
 *   **29/12/1954:** Pháp ký hiệp ước trao toàn bộ quyền hành chính ở miền Nam Việt Nam cho Ngô Đình Diệm.
 *   **08/01/1955:** Chính quyền Ngô Đình Diệm ban hành Dụ số 2 và Dụ số 7 (03/02/1955) về cải cách điền địa, thực chất là cướp lại ruộng đất mà cách mạng đã chia cho nông dân, khôi phục giai cấp địa chủ.
 *   **03/1955:** Hội nghị lần thứ 7 Ban Chấp hành Trung ương Đảng Lao động Việt Nam đề ra nhiệm vụ củng cố miền Bắc và đấu tranh chính trị ở miền Nam.
@@ -1697,6 +1703,7 @@
 *   **1964:** Út Tịch được kết nạp vào Đảng Nhân dân cách mạng miền Nam.
 *   **1964 - 1967:** Sau Sự kiện Vịnh Bắc Bộ, dù đã gần 60 tuổi, Mẹ Suốt vẫn xung phong chèo đò ngang qua sông Nhật Lệ (Quảng Bình) dưới làn mưa bom bão đạn của không quân Mỹ. Bà đã vận chuyển an toàn hàng ngàn lượt cán bộ, thương binh và vũ khí, ước tính mỗi năm thực hiện tới 1.400 chuyến đò.
 *   **1964:** Xưởng phim Hà Nội phối hợp cùng Điện ảnh Quân đội nhân dân Việt Nam sản xuất bộ phim "Người chiến sĩ trẻ", khắc họa chân thực và sinh động cuộc đời cũng như sự hy sinh anh dũng của Cù Chính Lan để giáo dục truyền thống cho thế hệ trẻ.
+*   **1964:** Georges Boudarel cùng vợ (người Việt) và con gái rời Việt Nam sang Praha (Tiệp Khắc) làm việc cho Liên hiệp Công đoàn Thế giới (FSM), trở thành tiếng nói đại diện cho người lao động toàn cầu qua các chương trình tiếng Pháp.
 *   **30/01/1964:** Tướng Nguyễn Khánh thực hiện cuộc "Chỉnh lý" lật đổ chính quyền quân sự của Dương Văn Minh, tiếp tục gây bất ổn chính trị tại Sài Gòn.
 *   **Đầu năm 1964:** Nhân dịp Tết Nguyên Đán, Nguyễn Văn Trỗi ra căn cứ Rừng Thơm (huyện Đức Hòa, tỉnh Long An) học chính trị và nghệ thuật đánh biệt động nội thành.
 *   **03/1964:** Mỹ vạch ra **Kế hoạch Johnson - McNamara**, tăng cường viện trợ, đưa thêm cố vấn, đẩy mạnh các hoạt động phá hoại miền Bắc.
@@ -1755,6 +1762,7 @@
 *   **25/12/1965:** Đảng Đại Việt Cách mạng được thành lập.
 *   **1966:** Chiến sĩ biệt động Trần Văn Lai bí mật xây dựng một căn hầm nổi tại một ngôi nhà ở Bà Chiểu, làm căn cứ chỉ huy dự bị cho cuộc Tổng tiến công Tết Mậu Thân 1968.
 *   **1966:** Mẹ Suốt được mời tham dự Đại hội Anh hùng, chiến sĩ thi đua toàn quốc tổ chức ở miền Bắc.
+*   **1966 - 1967:** Quốc hội Pháp thông qua luật ân xá (1966) cho những người liên quan đến chiến tranh Đông Dương và Algérie, xóa vĩnh viễn các tội danh cũ. Nhờ đó, Georges Boudarel bình tĩnh trở về Pháp vào năm 1967, bắt đầu sự nghiệp học thuật: giảng dạy và nghiên cứu lịch sử Việt Nam hiện đại tại Trường đại học Denis Diderot (Paris VII).
 *   **02/01/1966:** Tại cuộc mít tinh của hơn 1 triệu người ở La Habana kỷ niệm 7 năm Cách mạng Cuba, Fidel Castro đã có câu nói bất hủ: "Vì Việt Nam, Cuba sẵn sàng hiến dâng cả máu của mình". Hàng nghìn thanh niên Cuba sau đó đã viết đơn tình nguyện xin đến Việt Nam chiến đấu.
 *   **08/01 - 19/01/1966:** Mỹ và quân đồng minh mở cuộc hành quân **Crimp** với 12.000 quân, xe tăng và B-52 yểm trợ đánh vào vùng "Tam giác sắt" (Củ Chi) nhằm tiêu diệt cơ quan đầu não Quân khu Sài Gòn - Gia Định. Lực lượng cách mạng dựa vào hệ thống địa đạo để phản kích, bảo toàn lực lượng.
 *   **09/01/1966:** Lính Nam Triều Tiên càn quét và gây ra vụ thảm sát tại thôn Kim Tài (Nhơn Phong, Bình Định), sát hại 37 thường dân.
@@ -1817,6 +1825,7 @@
 
 ### **Thời kỳ Đánh bại Chiến lược Việt Nam hóa Chiến tranh (1969 - 1972)**
 
+*   **1969:** Georges Boudarel bảo vệ thành công và được đánh giá rất cao luận án tiến sĩ về nhà yêu nước Phan Bội Châu, chính thức trở thành giáo sư đại học và nhà nghiên cứu hàng đầu về Việt Nam.
 *   **20/01/1969:** Richard Nixon nhậm chức Tổng thống Mỹ, triển khai chiến lược "Việt Nam hóa chiến tranh" và "Học thuyết Nixon".
 *   **25/01/1969:** Khai mạc phiên họp toàn thể đầu tiên của Hội nghị bốn bên về Việt Nam tại Paris.
 *   **25/02/1969:** Biệt kích SEAL của Mỹ do Bob Kerrey chỉ huy thảm sát 21 thường dân tại Thạnh Phong (Bến Tre).
@@ -1847,6 +1856,7 @@
 *   **02/07/1970:** Bộ Chính trị ra Nghị quyết số 200-NQ/TW thành lập Hội đồng chi viện tiền tuyến ở Trung ương để huy động sức người, sức của đáp ứng yêu cầu của chiến trường.
 *   **25/08/1970:** Đinh Thị Vân được Nhà nước phong tặng danh hiệu cao quý: Anh hùng Lực lượng vũ trang nhân dân vì những cống hiến xuất sắc cho ngành tình báo quân sự Việt Nam.
 *   **1971:** Bà Nguyễn Thị Bình, Trưởng đoàn đàm phán của Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam tại Hội nghị Paris, sang thăm Iraq và được chính phủ cùng nhân dân Iraq đón tiếp hết sức trọng thị.
+*   **1971:** Georges Boudarel xuất bản cuốn sách gây tiếng vang "Truyền thống và cách mạng ở Việt Nam".
 *   **08/02 - 24/03/1971:** Chiến dịch Đường 9 - Nam Lào (Lam Sơn 719). Quân lực Việt Nam Cộng hòa, yểm trợ bởi 10.000 quân Mỹ cùng 1.200 máy bay và pháo binh hạng nặng, huy động hơn 21.000 quân tinh nhuệ nhất (Dù, Thủy quân lục chiến, Thiết giáp) tiến công sang Hạ Lào nhằm cắt đứt đường mòn Hồ Chí Minh tại Xê-pôn. Quân Giải phóng miền Nam Việt Nam (với 60.000 quân) đã thực hiện chiến dịch phản công hiệp đồng binh chủng quy mô lớn chưa từng có. Nổi bật là trận đại phá Bản Đông (12/03 - 20/03), Quân Giải phóng đập tan Lữ đoàn 1 Dù và 2 thiết đoàn VNCH. Chiến dịch kết thúc với thất bại thảm hại của quân đội Sài Gòn (thương vong trên 1.500 người, hàng trăm bị bắt; mất 71 xe tăng, 163 xe thiết giáp, hơn 100 trực thăng bị phá hủy và hơn 600 chiếc bị bắn hỏng). Thắng lợi này đánh dấu sự trưởng thành vượt bậc của Quân Giải phóng, làm phá sản mục tiêu cắt đứt đường Trường Sơn và giáng đòn chí mạng vào chiến lược "Việt Nam hóa chiến tranh" của Mỹ.
 *   **20/04/1971:** Bộ Ngoại giao Việt Nam Cộng hòa đưa ra lời phản kháng đối với Malaysia về các vấn đề lãnh thổ, đồng thời nhân dịp này khẳng định lại chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa.
 *   **01/07/1971:** Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam đưa ra lập trường 7 điểm tại Hội nghị Paris.
@@ -1958,6 +1968,7 @@
 *   **12/1976:** Đại hội đại biểu toàn quốc lần thứ IV của Đảng được tổ chức tại Hà Nội.
     *   Đổi tên Đảng Lao động Việt Nam thành **Đảng Cộng sản Việt Nam**.
     *   Đề ra đường lối xây dựng chủ nghĩa xã hội trong cả nước và thông qua Kế hoạch 5 năm lần thứ hai (1976-1980).
+*   **1977:** Georges Boudarel xuất bản cuốn "Giáp", một công trình nghiên cứu lịch sử giá trị viết về Đại tướng Võ Nguyên Giáp.
 *   **12/04/1977:** Ông Nguyễn Tuất làm "Tờ nhận tự khai" để xin sao y bản chính Bằng Tổ quốc ghi công của con trai do bản gốc năm 1958 bị hư hại trong chiến tranh. Giấy tờ này được chính quyền địa phương tại Nha Trang xác nhận, chính thức minh chứng nhân thân và sự hy sinh của nguyên mẫu "chú bé Lượm".
 *   **30/04/1977:** Quân chính quy Khmer Đỏ bất ngờ tiến sâu 10 km vào lãnh thổ Việt Nam tại tỉnh An Giang, đánh vào các đồn biên phòng và xã, thảm sát nhiều thường dân.
 *   **12/05/1977:** Chính phủ nước Cộng hòa Xã hội Chủ nghĩa Việt Nam ra tuyên bố về các vùng biển của mình, khẳng định các đảo và quần đảo là bộ phận lãnh thổ của Việt Nam và có vùng biển riêng.
@@ -2061,11 +2072,13 @@
 
 ### **Thời kỳ Đẩy mạnh Đổi mới - Thoát khỏi Khủng hoảng (1991 - 1995)**
 
+*   **Đầu năm 1991:** Trong một hội thảo về Việt Nam tại Thượng viện Pháp, Georges Boudarel bị một cựu tù binh Pháp (lúc này là bộ trưởng) nhận ra và thóa mạ. Sau đó, một nhóm cựu tù binh đã đâm đơn kiện ông về "tội ác chống nhân loại" tại trại 113. Một chiến dịch bôi nhọ trên truyền thông nổ ra khiến ông đột quỵ hai lần liên tiếp. Bạn bè của ông, đứng đầu là nhà toán học Laurent Schwartz, đã thành lập "Hội những người bạn của Boudarel" để bảo vệ ông.
 *   **17/03/1991:** Cuộc trưng cầu dân ý toàn Liên bang Xô viết được tổ chức, với 76,4% cử tri ủng hộ việc duy trì Liên bang Xô viết.
 *   **24-27/06/1991:** Đại hội đại biểu toàn quốc lần thứ VII của Đảng Cộng sản Việt Nam thông qua **"Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội"** và **"Chiến lược ổn định và phát triển kinh tế - xã hội đến năm 2000"**.
 *   **15-18/07/1991:** Theo sáng kiến của Indonesia, một hội nghị quốc tế đã được tổ chức tại Bandung với các nước trong khu vực để thảo luận về vấn đề quần đảo Trường Sa, ra thông cáo chung khuyến khích đối thoại và đàm phán.
 *   **19/08/1991:** Cuộc đảo chính tháng 8 nổ ra tại Liên Xô nhằm ngăn chặn sự tan rã của Liên bang nhưng thất bại, dẫn đến việc Đảng Cộng sản Liên Xô bị đình chỉ hoạt động.
 *   **25/11 - 04/12/1991:** Hội nghị lần thứ 2 Ban Chấp hành Trung ương Đảng (khóa VII) thông qua các nhiệm vụ và giải pháp phát triển kinh tế - xã hội cho giai đoạn 1992-1995, trong đó có mục tiêu kiên quyết đẩy lùi lạm phát.
+*   **Cuối năm 1991:** Tòa thượng thẩm Pháp tuyên bố miễn tố đối với Georges Boudarel dựa trên đạo luật ân xá năm 1966. Nguyên đơn tiếp tục kháng án.
 *   **08/12/1991:** Lãnh đạo Nga, Ukraina và Belarus ký Hiệp ước Belovezha, tuyên bố giải thể Liên Xô và thành lập Cộng đồng các Quốc gia Độc lập (SNG).
 *   **25/12/1991:** Mikhail Gorbachev từ chức Tổng thống Liên Xô. Lá cờ búa liềm trên đỉnh tháp Kremlin bị hạ xuống, đánh dấu sự sụp đổ hoàn toàn của Liên bang Xô viết. Sự kiện này tác động mạnh mẽ tới tư tưởng, tình cảm của cán bộ, đảng viên và nhân dân Việt Nam.
 *   **1992:** Các lực lượng vũ trang còn lại của FULRO tại Campuchia chính thức ra hàng Lực lượng Gìn giữ Hòa bình Liên Hợp Quốc (UNTAC), chấm dứt hoạt động vũ trang.
@@ -2077,6 +2090,7 @@
 *   **08/07/1992:** Trung Quốc chiếm thêm một số đá ngầm tại quần đảo Trường Sa, củng cố sự hiện diện của mình sau khi thông qua luật lãnh hải bành trướng vào đầu năm đó.
 *   **19/07/1992:** Bầu cử Quốc hội khóa IX.
 *   **23/09/1992:** Bà Nguyễn Thị Bình được Quốc hội khóa IX bầu làm Phó Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam. Bà đảm nhiệm cương vị này trong hai nhiệm kỳ liên tiếp (đến năm 2002) và là người phụ nữ thứ hai trong lịch sử Việt Nam giữ chức vụ phó nguyên thủ quốc gia.
+*   **03/1993:** Tòa phá án Pháp lặp lại kết luận miễn tố đối với vụ kiện Georges Boudarel.
 *   **06/1993:** Hội nghị lần thứ 5 Ban Chấp hành Trung ương Đảng (khóa VII) ra nghị quyết về tiếp tục đổi mới và phát triển kinh tế - xã hội nông thôn.
 *   **02/07/1993:** Mỹ tuyên bố không còn phản đối các nước và tổ chức tài chính quốc tế cho Việt Nam vay vốn để trả nợ, một bước đi quan trọng tiến tới dỡ bỏ cấm vận.
 *   **24/07/1993:** Chủ tịch nước công bố Luật Đất đai, quy định chi tiết về chế độ quản lý, sử dụng đất đai, cũng như quyền và nghĩa vụ của người sử dụng đất tại Việt Nam.
@@ -2113,6 +2127,7 @@
 *   **19/11/1997:** Dịch vụ internet chính thức được cung cấp rộng rãi tại Việt Nam, do Tập đoàn Bưu chính Viễn thông Việt Nam (VNPT) và Công ty Cổ phần Netnam là những đơn vị đầu tiên triển khai.
 *   **12/1997:** Hội nghị lần thứ 4 Ban Chấp hành Trung ương Đảng (khóa VIII) đề ra chủ trương nêu cao tinh thần tự lực, tự cường, phát huy nội lực để vượt qua khó khăn, thách thức từ cuộc khủng hoảng.
 *   **1998:** Trung tâm Giao dịch Chứng khoán TP. Hồ Chí Minh được thành lập theo quyết định của Thủ tướng Chính phủ
+*   **1998:** Tòa án Pháp chính thức bác bỏ hoàn toàn đơn kiện, tuyên bố Georges Boudarel không thể bị xét xử, khép lại vụ án "tội ác chống nhân loại".
 *   **24/07/1998:** Trung ương Hội Chữ thập đỏ Việt Nam tổ chức lễ ra mắt Quỹ bảo trợ nạn nhân chất độc da cam tại Hà Nội. Nguyên Phó Chủ tịch nước Nguyễn Thị Bình được mời làm Chủ tịch danh dự của Quỹ, nhằm huy động nguồn lực xã hội chăm lo đời sống cho các nạn nhân và gia đình.
 *   **31/07/1998:** Thủ tướng Chính phủ ban hành Quyết định 135/1998/QĐ-TTg về chương trình phát triển kinh tế - xã hội các xã đặc biệt khó khăn miền núi và vùng sâu, vùng xa (Chương trình 135).
 *   **11/1998:** Bộ Chính trị ra Nghị quyết 06 về một số vấn đề nông nghiệp và kinh tế nông thôn, lần đầu tiên chính thức thừa nhận và khuyến khích phát triển **mô hình kinh tế trang trại**.
@@ -2147,6 +2162,7 @@
 *   **02/09/2003:** Tượng đài Mẹ Suốt (cao 7m) và quần thể khu tưởng niệm do nhà điêu khắc Phan Đình Tiến sáng tác được cắt băng khánh thành bên dòng sông Nhật Lệ, Đồng Hới, Quảng Bình.
 *   **07/11/2003:** Nhã nhạc cung đình Huế được UNESCO công nhận là di sản phi vật thể đầu tiên.
 *   **12/2003:** Việt Nam đăng cai tổ chức SEA Games 22.
+*   **26/12/2003:** Georges Boudarel từ trần, hưởng thọ 77 tuổi. Theo di nguyện của ông, thi hài được hỏa táng và một phần tro cốt được rải ngoài khơi nước Pháp. Phần di cốt còn lại được các bạn bè thân thiết giữ lại để chờ ngày đưa về Việt Nam.
 *   **2004:** Việt Nam được chứng nhận kỷ lục Guinness cho chiếc bánh tét lớn nhất thế giới.
 *   **2004:** Thủ tướng Chính phủ phê duyệt đề án phát triển tổng thể đảo Phú Quốc.
 *   **10/01/2004:** Hội Nạn nhân Chất độc Da cam/Dioxin Việt Nam (VAVA) chính thức ra mắt, do Trung tướng Đặng Vũ Hiệp làm Chủ tịch và nguyên Phó Chủ tịch nước Nguyễn Thị Bình làm Chủ tịch danh dự.
@@ -2243,6 +2259,7 @@
 *   **12/12/2019:** Thực hành Then của người Tày, Nùng, Thái được UNESCO công nhận là di sản.
 *   **01/01/2020:** Việt Nam đảm nhận vai trò Chủ tịch ASEAN 2020 và Ủy viên không thường trực HĐBA.
 *   **23/01/2020:** Ghi nhận ca bệnh COVID-19 đầu tiên tại Việt Nam.
+*   **02/2020:** Thực hiện di nguyện của nhà Việt học tận tụy, phần di cốt còn lại của Georges Boudarel được bạn bè đưa về Việt Nam và rải xuống dòng sông Bé (Chiến khu Đ cũ) và sông Hồng (Hà Nội), hòa quyện mãi mãi vào mảnh đất mà ông coi là quê hương thứ hai.
 *   **Đầu năm 2020:** Trong bối cảnh đại dịch COVID-19 bùng phát, Cuba lập tức gửi tặng Việt Nam lô thuốc điều trị đủ cho 1.000 bệnh nhân và cử chuyên gia y tế sang hỗ trợ. Cuba cũng sẵn sàng chuyển giao công nghệ sản xuất vaccine COVID-19 cho Việt Nam.
 *   **01/08/2020:** Hiệp định EVFTA chính thức có hiệu lực.
 *   **06/09/2020:** Ẩm thực Việt Nam đã xác lập 5 kỷ lục thế giới.
