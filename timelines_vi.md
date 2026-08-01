@@ -256,6 +256,7 @@
 ### **Thời kỳ Đại Việt - Triều Trần (1226 - 1400)**
 
 *   **1226:** Hoàng tử Lý Long Tường (con thứ vua Lý Anh Tông) cùng tùy tùng vượt biển sang Cao Ly (Hàn Quốc) lánh nạn, trở thành ông tổ của dòng họ Lý Hoa Sơn tại Hàn Quốc.
+*   **1226 - 1229:** Trần Quốc Tuấn (Trần Hưng Đạo) sinh ra tại làng Tức Mặc, huyện Mỹ Lộc, tỉnh Nam Định. Ông sau này trở thành một nhà quân sự kiệt xuất và Quốc công Tiết chế của quân đội Đại Việt.
 *   **10/01/1226:** Dưới sự sắp đặt của Trần Thủ Độ, Lý Chiêu Hoàng nhường ngôi cho chồng là Trần Cảnh (Trần Thái Tông). Tháng Giêng năm 1226, Lý Chiêu Hoàng được sách phong làm Hoàng hậu Chiêu Thánh. Vương triều Lý kết thúc.
 *   **08/1226:** Trần Thủ Độ ép Lý Huệ Tông (lúc này đã đi tu) tự tử tại chùa Chân Giáo.
 *   **1229:** Nhà Tống chính thức công nhận Trần Thái Tông là An Nam Quốc vương.
@@ -301,11 +302,12 @@
 *   **03/1285:** Vua Trần Thánh Tông dùng kế mỹ nhân, sai người đưa Công chúa **An Tư** (em gái út của vua) đến trại quân Nguyên dâng cho Thoát Hoan để làm chậm tốc độ tiến quân của giặc, tạo thời gian quý báu cho quân Trần rút lui và củng cố lực lượng.
 *   **03/1285:** Chiêu Quốc vương Trần Ích Tắc đem gia quyến đầu hàng quân Nguyên.
 *   **05/1285:** Quân Trần bắt đầu cuộc phản công lớn, giành thắng lợi liên tiếp ở Tây Kết, Chương Dương, Hàm Tử.
+*   **Đầu tháng 05/1285 (Âm lịch):** Quân đội nhà Trần đánh bại quân Nguyên do Toa Đô chỉ huy ở cửa Hàm Tử, buộc Toa Đô phải đem tàn quân chạy về cửa biển Thiên Trường.
 *   **06/1285:** Cuộc kháng chiến chống quân xâm lược Mông-Nguyên lần thứ hai kết thúc thắng lợi hoàn toàn.
 *   **05/06/1285:**   **Trận Chương Dương - Thăng Long:** Quân Trần tổ chức phản công lớn, Phạm Ngũ Lão chỉ huy cánh quân đánh vu hồi giải phóng kinh thành.
-*   **24/06/1285:**   **Trận Chương Dương độ và Tây Kết:** Quân Trần tập kích phá tan căn cứ thủy quân Nguyên tại Chương Dương. Tướng Nguyên Toa Đô (Sogetu) bị giết trong trận chiến.
+*   **24/06/1285 (Cuối tháng 5 năm Ất Dậu):**   **Trận Tây Kết:** Sau đại thắng ở Chương Dương, Trần Quốc Tuấn mang quân quay lại tiêu diệt lộ quân của Toa Đô ở Tây Kết. Nguyên soái Toa Đô bị chém đầu tại trận, Ô Mã Nhi sợ hãi bỏ chạy vào Thanh Hóa. Quân Trần thừa thắng truy kích, bắt sống mấy vạn quân Mông Cổ.
 *   **15/07/1285:** Hoài Văn hầu Trần Quốc Toản hy sinh (theo một số tài liệu) ở tuổi 18. Tấm gương dũng cảm và lá cờ thêu sáu chữ vàng của ông đã trở thành biểu tượng bất diệt cho lòng yêu nước của tuổi trẻ Việt Nam.
-*   **12/1287:** Quân Nguyên do Thoát Hoan chỉ huy tiến hành cuộc xâm lược Đại Việt lần thứ ba.
+*   **12/1287:** Quân Nguyên do Thoát Hoan chỉ huy theo hai đường thủy bộ tiến hành cuộc xâm lược Đại Việt lần thứ ba. Trước đó, Trần Quốc Tuấn đã tự tin tâu với vua: "Năm nay đánh giặc có phần dễ hơn trước", và chủ động ra lệnh cho quân đội rút lui chiến lược.
 *   **1288 (đầu năm):** Trần Khánh Dư chỉ huy trận Vân Đồn, tiêu diệt hoàn toàn đoàn thuyền lương của giặc do Trương Văn Hổ chỉ huy.
 *   **09/04/1288:** Trận Bạch Đằng lịch sử. Thủy quân Nguyên bị tiêu diệt hoàn toàn dưới sự chỉ huy của Hưng Đạo vương Trần Quốc Tuấn. Cuộc kháng chiến chống Mông-Nguyên lần thứ ba kết thúc thắng lợi vẻ vang.
 *   **09/1288:** Nguyên Từ Quốc Mẫu (Trưởng Công chúa Thiên Thành, phu nhân Trần Hưng Đạo) qua đời sau 37 năm chung sống. Trong khi chồng xông pha trận mạc, bà lo toan hậu cần ở hậu phương, trở thành một trong hai người phụ nữ (cùng Linh Từ Quốc Mẫu Trần Thị Dung) được triều đình phong đến bậc Quốc Mẫu vì công lao to lớn.
@@ -313,7 +315,7 @@
 *   **1294:** Nhà Nguyên (đời vua Thành Tông - Temur Khan) chính thức xuống chiếu bãi binh, chấm dứt chiến tranh với Đại Việt.
 *   **1294:** Thượng tướng quân Trần Quang Khải, nhà quân sự và nhà thơ lớn của dân tộc, qua đời.
 *   **1299:** Vua Trần Nhân Tông xuống chiếu yêu cầu học trò trong cả nước phải tập trung học tập để chuẩn bị cho các khoa thi.
-*   **03/10/1300:** Hưng Đạo Đại vương Trần Quốc Tuấn qua đời. Trước khi mất, ông dặn vua Trần Anh Tông: "Phải khoan thư sức dân để làm kế sâu rễ bền gốc", coi đó là thượng sách giữ nước.
+*   **03/10/1300 (15 tháng 8 năm Kỷ Hợi):** Hưng Đạo Đại vương Trần Quốc Tuấn qua đời tại nhà riêng ở Vạn Kiếp. Trước khi mất, khi vua Trần Anh Tông đích thân đến thăm và hỏi về kế sách giữ nước, ông đã dặn: "Phải khoan thư sức dân để làm kế sâu rễ bền gốc", coi đó là thượng sách giữ nước không còn gì hơn.
 *   **Khoảng thế kỷ XIV:** Truyền thuyết Lạc Long Quân và Âu Cơ, Phù Đổng Thiên Vương (Thánh Gióng), và Sơn Tinh - Thủy Tinh được ghi chép lần đầu tiên trong bộ sách sử **Lĩnh Nam chích quái**.
 *   **1304:** Mạc Đĩnh Chi đỗ Trạng nguyên. Ông nổi tiếng với tài năng và sự ứng đối khiến vua quan nhà Nguyên nể phục, được phong là "Lưỡng quốc Trạng nguyên".
 *   **1304:** Khoa thi Thái học sinh lớn nhất kể từ đầu thời Trần được tổ chức dưới triều vua Trần Anh Tông. Nhà vua đặt thêm danh hiệu "Hoàng giáp" để chỉ những người đỗ hàng Đệ nhị giáp.
@@ -624,7 +626,7 @@
 *   **1570:** Trịnh Kiểm mất. Con trai là Trịnh Cối và Trịnh Tùng tranh giành quyền lực. Trịnh Cối thua, đem quân hàng Mạc. Trịnh Tùng lên nắm quyền, tiếp tục sự nghiệp chống Mạc.
 *   **1570:** Nguyễn Hoàng được giao kiêm trấn thủ cả hai xứ Thuận Hóa và Quảng Nam, quyền lực ngày càng lớn.
 *   **1570 - 1583:** Giai đoạn quân Mạc phản công mạnh mẽ. Mạc Kính Điển nhiều lần đem quân vào đánh Thanh Hóa, Nghệ An, gây nhiều khó khăn cho quân Lê-Trịnh.
-*   **1572:** Đào Duy Từ, nhà quân sự và chính trị kiệt xuất của chúa Nguyễn sau này, sinh ra tại Thanh Hóa.
+*   **1572:** Đào Duy Từ, nhà quân sự và chính trị kiệt xuất của chúa Nguyễn sau này, sinh ra tại làng Hoa Trai, huyện Ngọc Sơn (nay là Tĩnh Gia, Thanh Hóa).
 *   **1578:** Hải tặc Nhật Bản (Wako) tấn công vùng biển Đàng Trong, cướp thuyền của thương nhân Trung Hoa.
 *   **21/02/1578:** Mạc Mậu Hợp bị sét đánh trúng trong cung, liệt nửa người và phải chữa trị rất lâu mới khỏi. Sự kiện này khiến nhiều quan lại nhà Mạc thêm hoang mang trong thời kỳ suy vi.
 *   **11/1580:** Tướng trụ cột của nhà Mạc là Mạc Kính Điển mất.
@@ -666,11 +668,11 @@
 *   **12/07/1626:** Linh mục Francesco Buzomi viết một bức thư cho thấy sự tiến bộ rõ rệt trong việc phiên âm tiếng Việt, bắt đầu biết tách từ và sử dụng dấu thanh.
 *   **03/1627:** Nội chiến Trịnh-Nguyễn chính thức bùng nổ. Lần thứ nhất, quân Trịnh do Trịnh Tráng chỉ huy tiến vào Nam nhưng bị đánh bại ở cửa Nhật Lệ.
 *   **19/03/1627:** Alexandre de Rhodes và Pedro Marques đến Cửa Bạng (Thanh Hóa), bắt đầu công cuộc truyền giáo tại Đàng Ngoài.
-*   **Mùa Đông 1627:** Đào Duy Từ trốn vào Đàng Trong, được Trần Đức Hòa tiến cử với chúa Nguyễn Phúc Nguyên, bắt đầu sự nghiệp phò tá chúa Nguyễn.
-*   **03/1630:** Theo lời khuyên của Đào Duy Từ, chúa Nguyễn Phúc Nguyên cho đắp lũy Trường Dục (Quảng Bình) để ngăn chặn quân Trịnh.
+*   **Mùa đông năm 1627 (Ất Sửu):** Đào Duy Từ trốn vào Đàng Trong sau khi bị gạch tên khỏi kỳ thi Hương ở Thanh Hóa do xuất thân từ gia đình làm nghề xướng ca. Ông sau đó dâng bài phú "Ngọa Long cương", được Trần Đức Hòa tiến cử lên chúa Nguyễn Phúc Nguyên và trở thành cố vấn quân sự quan trọng bậc nhất.
+*   **03/1630:** Theo lời khuyên của Đào Duy Từ, chúa Nguyễn Phúc Nguyên cho đắp lũy Trường Dục từ núi Trường Dục đến phá Hạc Hải nhằm ngăn chặn quân Trịnh ngược dòng sông Nhật Lệ vào đánh xứ Đàng Trong.
 *   **09/1630:** Theo đề nghị của Đào Duy Từ, chúa Nguyễn Phúc Nguyên mở cuộc tấn công vào châu Nam Bố Chính và chiếm được vùng đất này.
 *   **1631:** (Năm Tân Mùi) Chúa Sãi gả con gái là Công chúa **Ngọc Khoa** cho vua Champa là Po Rome. Cuộc hôn nhân này giúp quan hệ Việt - Chiêm trở nên tốt đẹp, tạo điều kiện cho người Việt mở rộng xuống phía Nam.
-*   **1631:** Dưới sự chỉ đạo của Đào Duy Từ, chúa Nguyễn tiếp tục cho đắp lũy Động Hải (lũy Trấn Ninh) dài hơn 12 km. Cùng với lũy Trường Dục, hệ thống này được nhân dân tôn kính gọi là Lũy Thầy.
+*   **1631:** Dưới sự chỉ đạo của Đào Duy Từ, chúa Nguyễn tiếp tục cho đắp lũy Đâu Mâu (lũy Động Hải hay Trấn Ninh) qua cửa biển Nhật Lệ, men theo sông Lệ Kỳ và sông Nhật Lệ tiến lên phía đông bắc đến làng Đông Hải. Cùng với lũy Trường Dục, hệ thống này được nhân dân tôn kính gọi là Lũy Thầy.
 *   **1631:** Cristoforo Borri xuất bản cuốn sách "Relatione della nuova missione..." bằng tiếng Ý, giới thiệu những quan sát chi tiết về Đàng Trong và các từ vựng tiếng Việt được La tinh hóa sơ khai đến châu Âu.
 *   **31/12/1632:** Linh mục Gaspar d'Amaral viết bản tường trình hàng năm tại Thăng Long, thể hiện sự tiến bộ vượt bậc trong chữ Quốc ngữ với việc sử dụng dấu thanh và phân tách từ ngữ chính xác. Ông cũng đã biên soạn một cuốn từ điển Việt - Bồ - La sơ khai.
 *   **1633:** Cuộc chiến lần thứ hai, chúa Trịnh Tráng kéo quân đến cửa biển Nhật Lệ tấn công nhưng bị quân Nguyễn đánh cho đại bại, quân Trịnh hoảng loạn vứt bỏ xe pháo tháo chạy.

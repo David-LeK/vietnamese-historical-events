@@ -256,6 +256,7 @@
 ### **Dai Viet Period - Tran Dynasty (1226 - 1400)**
 
 *   **1226:** Prince Ly Long Tuong, a son of King Ly Anh Tong, left the country with his followers to seek refuge in Goryeo (Korea), becoming the ancestor of the Ly clan in Korea.
+*   **1226 - 1229:** Tran Quoc Tuan (Tran Hung Dao) was born in Tuc Mac village, My Loc district, Nam Dinh province. He later became a brilliant military strategist and Commander-in-Chief of the Dai Viet army.
 *   **Jan. 10, 1226:** Under the arrangement of Tran Thu Do, Ly Chieu Hoang ceded the throne to her husband, Tran Canh (Tran Thai Tong). In January 1226, she was officially invested as Empress Chieu Thanh. The Ly dynasty ended.
 *   **Aug. 1226:** Tran Thu Do forced Ly Hue Tong (who had become a monk) to commit suicide at Chan Giao Pagoda.
 *   **1229:** The Song dynasty officially recognized Tran Thai Tong as the King of An Nam.
@@ -301,11 +302,12 @@
 *   **Mar. 1285:** To delay the Mongol advance and buy time for the army to retreat and regroup, Princess **An Tu** (youngest sister of King Tran Thanh Tong) was sent to the Mongol general Toghon as part of a "beauty trap" stratagem.
 *   **Mar. 1285:** Prince Chieu Quoc Vuong Tran Ich Tac surrendered to the Yuan army.
 *   **May 1285:** The Tran army began a major counter-offensive, winning successive victories at Tay Ket, Chuong Duong, and Ham Tu.
+*   **Early May 1285 (Lunar):** The Tran army defeated the Yuan forces led by Sogetu (Toa Do) at the Ham Tu estuary, forcing Sogetu to retreat with his remaining troops to the Thien Truong estuary.
 *   **Jun. 1285:** The second resistance war against the Mongol-Yuan invaders ended in a complete victory.
 *   **Jun. 5, 1285:**   **Battle of Chuong Duong - Thang Long.** The Tran army launched a counter-offensive to liberate the capital. General Pham Ngu Lao commanded the flanking attack.
-*   **Jun. 24, 1285:**   **Battle of Chuong Duong and Tay Ket.** Tran forces led by Tran Quoc Tuan and Tran Quang Khai attacked and destroyed the Yuan naval base at Chuong Duong. Yuan commander Sogetu (Toa Do) was killed in battle.
+*   **Jun. 24, 1285 (Late May, Lunar):**   **Battle of Tay Ket.** Following the victory at Chuong Duong, Tran forces led by Tran Quoc Tuan attacked the Yuan army at Tay Ket. Yuan commander Sogetu (Toa Do) was beheaded in battle. General Omar (O Ma Nhi) fled in panic to Thanh Hoa, and the Tran army captured tens of thousands of Mongol troops.
 *   **Jul. 15, 1285:** Hoai Van Hau Tran Quoc Toan sacrificed his life in battle at the age of 18 (according to some records). He became an enduring symbol of patriotism and the brave spirit of Vietnamese youth.
-*   **Dec. 1287:** Yuan forces under the command of Toghon launched the third invasion of Dai Viet.
+*   **Dec. 1287:** Yuan forces under the command of Toghon launched the third invasion of Dai Viet by land and water routes. Prior to this, Tran Quoc Tuan confidently advised the King: "This year, fighting the enemy will be somewhat easier than before," and ordered a strategic retreat.
 *   **1288 (early year):** Tran Khanh Du commanded the Battle of Van Don, completely destroying the enemy's supply fleet led by Zhang Wenhu.
 *   **Apr. 9, 1288:** The historic Battle of Bach Dang. The Yuan navy was completely annihilated under the command of Hung Dao Vuong Tran Quoc Tuan. The third resistance war against the Mongol-Yuan invaders ended in a glorious victory.
 *   **Sep. 1288:** Nguyen Tu Quoc Mau (Princess Thien Thanh, wife of Tran Hung Dao) passed away after 37 years of marriage. While her husband fought on the front lines, she managed logistics in the rear. She was one of the only two women (along with Linh Tu Quoc Mau Tran Thi Dung) honored with the supreme title "Quoc Mau" (Mother of the Nation) for their immense contributions to the Tran dynasty.
@@ -313,7 +315,7 @@
 *   **1294:** The Yuan dynasty officially issued an edict to end the war with Dai Viet after Emperor Temur Khan ascended the throne.
 *   **1294:** General Tran Quang Khai, a key figure in the resistance against the Mongols and a renowned poet, passed away.
 *   **1299:** Emperor Tran Nhan Tong issued an edict requiring students nationwide to focus on their studies in preparation for upcoming civil service examinations.
-*   **Oct. 3, 1300:** Hung Dao Vuong Tran Quoc Tuan passed away. Before his death, he advised King Tran Anh Tong: "Ease the strength of the people to make a deep root and durable base," considering it the best strategy for national defense.
+*   **Oct. 3, 1300 (15th of the 8th lunar month, Ky Hoi):** Hung Dao Vuong Tran Quoc Tuan passed away at his private residence in Van Kiep. Prior to his death, when King Tran Anh Tong personally visited him to ask for national defense strategies, he advised: "Ease the strength of the people to make a deep root and durable base," considering it the best strategy for national defense.
 *   **Around the 14th century:** The legends of Lac Long Quan and Au Co, Phu Dong Thien Vuong (Saint Giong), and Son Tinh - Thuy Tinh were first recorded in the historical book **Lĩnh Nam chích quái**.
 *   **1304:** Mac Dinh Chi, known for his diplomatic wit which impressed the Yuan court (earning him the title "Two-Nation First Laureate"), passed the imperial examination as Trang Nguyen.
 *   **1304:** The largest "Thai hoc sinh" (National University student) examination since the beginning of the Tran dynasty was held during the reign of Emperor Tran Anh Tong. The Emperor created the additional title "Hoang giap" to designate candidates who passed in the second tier (De nhi giap).
@@ -624,7 +626,7 @@
 *   **1570:** Trinh Kiem passed away. His sons, Trinh Coi and Trinh Tung, fought for power. Trinh Coi lost and surrendered to the Mac. Trinh Tung took power and continued the anti-Mac campaign.
 *   **1570:** Nguyen Hoang was assigned to govern both Thuan Hoa and Quang Nam, and his power grew.
 *   **1570 - 1583:** A period of strong Mac counter-offensives. Mac Kinh Dien led multiple campaigns into Thanh Hoa and Nghe An, causing many difficulties for the Le-Trinh forces.
-*   **1572:** Dao Duy Tu, a renowned scholar and military strategist who would later serve the Nguyen Lords, was born in Thanh Hoa.
+*   **1572:** Dao Duy Tu, a renowned scholar and military strategist who would later serve the Nguyen Lords, was born in Hoa Trai, Ngoc Son (now Tinh Gia, Thanh Hoa).
 *   **1578:** Japanese pirates (Wako) raided the coast of Dang Trong, plundering merchant ships.
 *   **February 21, 1578:** Mac Mau Hop was struck by lightning in the palace and paralyzed on one side, which took a long time to heal. This event further demoralized the Mac court officials during a period of decline.
 *   **Nov. 1580:** The Mac dynasty's key pillar, Mac Kinh Dien, passed away.
@@ -666,11 +668,11 @@
 *   **Jul. 12, 1626:** Father Francesco Buzomi wrote a letter showing noticeable progress in the romanization of Vietnamese, beginning to separate words and use tone marks.
 *   **Mar. 1627:** The Trinh-Nguyen civil war officially broke out. In the first campaign, the Trinh army led by Trinh Trang advanced south but was defeated at the Nhat Le gate.
 *   **Mar. 19, 1627:** Alexandre de Rhodes and Pedro Marques arrived at Cua Bang (Thanh Hoa), beginning their missionary work in Tonkin.
-*   **Winter 1627:** Dao Duy Tu escaped to Dang Trong to avoid the Trinh administration and served Lord Nguyen Phuc Nguyen, later becoming a key strategist.
-*   **Mar. 1630:** Following the advice of Dao Duy Tu, the Nguyen Lord Nguyen Phuc Nguyen ordered the construction of the Truong Duc defensive wall (Luy Truong Duc) to block the Trinh army.
+*   **Winter 1627 (At Suu):** Dao Duy Tu fled to Dang Trong (the South) after being barred from taking the regional exams in Thanh Hoa because of his family's background in the performing arts. He later presented his "Ngoa Long Cuong" poem to Tran Duc Hoa and was recommended to Lord Nguyen Phuc Nguyen, becoming a pivotal military advisor.
+*   **Mar. 1630:** Following the advice of Dao Duy Tu, the Nguyen Lord Nguyen Phuc Nguyen ordered the construction of the Truong Duc defensive wall (Luy Truong Duc) from Truong Duc mountain to Hac Hai lagoon to block the Trinh army from advancing up the Nhat Le river.
 *   **Sep. 1630:** Acting on Dao Duy Tu's strategy, Lord Nguyen Phuc Nguyen launched an attack on the Southern Bo Chinh prefecture and captured it.
 *   **1631:** Princess Nguyen Phuc **Ngoc Khoa** was married to the Cham King Po Rome. This diplomatic marriage solidified peaceful relations between Dai Viet and Champa, facilitating further southward expansion.
-*   **1631:** Following Dao Duy Tu's plan, the Nguyen Lord constructed the Dong Hai Wall (Luy Dong Hai or Tran Ninh Wall), extending over 12 km. Together with Truong Duc, these formed the formidable Luy Thay defensive system.
+*   **1631:** Following Dao Duy Tu's plan, the Nguyen Lord constructed the Dau Mau Wall (also known as Dong Hai Wall or Tran Ninh Wall), crossing the Nhat Le estuary and winding along the Le Ky and Nhat Le rivers to Dong Hai village. Together with Truong Duc, these formed the formidable Luy Thay defensive system.
 *   **1631:** Cristoforo Borri published his book "Relatione della nuova missione..." in Italian, introducing detailed observations about Cochinchina and early romanized Vietnamese vocabulary to Europe.
 *   **Dec. 31, 1632:** Father Gaspar d'Amaral wrote an annual report in Thang Long that demonstrated significant advancement in Chữ Quốc ngữ, using tone marks and proper word separation. He also compiled an early Vietnamese-Portuguese-Latin dictionary.
 *   **1633:** In the second campaign, Lord Trinh Trang led the Trinh army to attack the Nhat Le estuary but could not overcome the defensive walls. They were heavily defeated by Lord Nguyen Phuc Nguyen's forces, fleeing in panic and abandoning their artillery.
