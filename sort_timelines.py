@@ -145,8 +145,8 @@ def extract_date(time_str_orig):
                     break
         return finalize_val(int(y1))
 
-    # Range format: Month1 - Month2 YYYY (e.g. Feb. - Aug. 1677, Jun. - Oct. 1949)
-    match = re.search(rf'({month_regex})\.?\s*-\s*({month_regex})\.?\s+(\d{{2,4}})(?!\d)', time_str)
+    # Range format: Month1 - Month2 YYYY or Month1 and Month2 YYYY (e.g. Feb. - Aug. 1677, April and May 1873)
+    match = re.search(rf'({month_regex})\.?\s*(?:-|(?:AND|&))\s*({month_regex})\.?\s+(\d{{2,4}})(?!\d)', time_str)
     if match:
         m_str1, m_str2, y = match.groups()
         if m_val == 0:
@@ -211,7 +211,7 @@ def extract_date(time_str_orig):
         return finalize_val(int(y))
 
     # Check for Month DD, YYYY or Month DD YYYY
-    match = re.search(rf'({month_regex})\.?\s+(\d{{1,2}}),?\s+(\d{{2,4}})(?!\d)', time_str)
+    match = re.search(rf'({month_regex})\.?\s+(\d{{1,2}})(?:ST|ND|RD|TH)?,?\s+(\d{{2,4}})(?!\d)', time_str)
     if match:
         m_str, d, y = match.groups()
         if m_val == 0:

@@ -486,7 +486,7 @@
         <!-- Sub Items / Details -->
         <div id="modal-subs-container" class="hidden space-y-2 pt-2 border-t border-parchment-gold/40">
           <h4 class="text-xs font-bold text-parchment-accent uppercase tracking-wider" data-i18n="lblSubDetails">Chi tiết liên quan:</h4>
-          <ul id="modal-subs-list" class="list-disc list-inside text-sm text-parchment-subtle space-y-1 pl-2"></ul>
+          <ul id="modal-subs-list" class="list-disc text-sm text-parchment-text/90 space-y-1.5 pl-5"></ul>
         </div>
       </div>
 
@@ -1196,6 +1196,7 @@
           grouped[eraIdx].forEach(ev => {
             const dateStr = currentLang === 'vi' ? ev.dateVi : ev.dateEn;
             const descStr = currentLang === 'vi' ? ev.descVi : ev.descEn;
+            const subs = currentLang === 'vi' ? ev.subsVi : ev.subsEn;
             const isBookmarked = bookmarks.includes(ev.id);
 
             const card = document.createElement('div');
@@ -1221,11 +1222,10 @@
                 ${highlightText(descStr, query)}
               </p>
 
-              ${ev.subsVi && ev.subsVi.length > 0 ? `
-                <div class="mt-3 pt-2 border-t border-parchment-gold/30 text-xs font-semibold text-parchment-accent flex items-center gap-1">
-                  <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="8" x2="21" y1="6" y2="6"/><line x1="8" x2="21" y1="12" y2="12"/><line x1="8" x2="21" y1="18" y2="18"/><line x1="3" x2="3.01" y1="6" y2="6"/><line x1="3" x2="3.01" y1="12" y2="12"/><line x1="3" x2="3.01" y1="18" y2="18"/></svg>
-                  <span>${ev.subsVi.length} ${i18n[currentLang].lblSubDetails}</span>
-                </div>
+              ${subs && subs.length > 0 ? `
+                <ul class="mt-3 pt-2.5 border-t border-parchment-gold/40 space-y-1.5 pl-5 list-disc text-xs sm:text-sm font-medium text-parchment-text/90">
+                  ${subs.map(s => `<li>${highlightText(s, query)}</li>`).join('')}
+                </ul>
               ` : ''}
             `;
 
@@ -1253,6 +1253,7 @@
         eventsList.forEach(ev => {
           const dateStr = currentLang === 'vi' ? ev.dateVi : ev.dateEn;
           const descStr = currentLang === 'vi' ? ev.descVi : ev.descEn;
+          const subs = currentLang === 'vi' ? ev.subsVi : ev.subsEn;
           const era = window.TIMELINE_ERAS[ev.eraIndex];
           const eraTitle = currentLang === 'vi' ? era.titleVi : era.titleEn;
           const isBookmarked = bookmarks.includes(ev.id);
@@ -1271,9 +1272,15 @@
                 </button>
               </div>
 
-              <p class="text-sm font-semibold text-parchment-text line-clamp-4 leading-relaxed">
+              <p class="text-sm font-semibold text-parchment-text leading-relaxed">
                 ${highlightText(descStr, query)}
               </p>
+
+              ${subs && subs.length > 0 ? `
+                <ul class="mt-2 pt-2 border-t border-parchment-gold/30 space-y-1 pl-4 list-disc text-xs font-medium text-parchment-text/90">
+                  ${subs.map(s => `<li>${highlightText(s, query)}</li>`).join('')}
+                </ul>
+              ` : ''}
             </div>
 
             <div class="mt-4 pt-3 border-t border-parchment-gold/30 flex items-center justify-between text-xs text-parchment-subtle">
@@ -1318,6 +1325,7 @@
         eventsList.forEach(ev => {
           const dateStr = currentLang === 'vi' ? ev.dateVi : ev.dateEn;
           const descStr = currentLang === 'vi' ? ev.descVi : ev.descEn;
+          const subs = currentLang === 'vi' ? ev.subsVi : ev.subsEn;
           const era = window.TIMELINE_ERAS[ev.eraIndex];
           const eraTitle = currentLang === 'vi' ? era.titleVi : era.titleEn;
           const isBookmarked = bookmarks.includes(ev.id);
@@ -1325,7 +1333,14 @@
           html += `
             <tr class="hover:bg-parchment-gold/20 transition-colors cursor-pointer" data-id="${ev.id}">
               <td class="p-3.5 font-bold text-parchment-accent whitespace-nowrap align-top">${highlightText(dateStr, query)}</td>
-              <td class="p-3.5 font-medium text-parchment-text leading-relaxed align-top">${highlightText(descStr, query)}</td>
+              <td class="p-3.5 font-medium text-parchment-text leading-relaxed align-top">
+                ${highlightText(descStr, query)}
+                ${subs && subs.length > 0 ? `
+                  <ul class="mt-2 pt-1 border-t border-parchment-gold/30 space-y-1 pl-4 list-disc text-xs text-parchment-subtle">
+                    ${subs.map(s => `<li>${highlightText(s, query)}</li>`).join('')}
+                  </ul>
+                ` : ''}
+              </td>
               <td class="p-3.5 text-xs text-parchment-subtle whitespace-nowrap align-top">${escapeHtml(eraTitle.substring(0, 30))}...</td>
               <td class="p-3.5 text-right align-top">
                 <button class="btn-bookmark-item p-1 rounded hover:bg-parchment-gold/40 text-parchment-accent" data-id="${ev.id}">

@@ -14,26 +14,28 @@ def parse_md_file(filepath):
             l = line.strip()
             if not l:
                 continue
-            if l.startswith('###'):
-                sec_name = l.replace('###', '').replace('**', '').strip()
-                current_sec = {'title': sec_name, 'events': []}
-                sections.append(current_sec)
-            elif l.startswith('*   **') or l.startswith('* **'):
-                m = re.match(r'^\*\s+\*\*(.*?)\*\*:?\s*(.*)', l)
-                if m and current_sec is not None:
-                    date_str = m.group(1).strip()
-                    desc = m.group(2).strip()
-                    if date_str.endswith(':'):
-                        date_str = date_str[:-1].strip()
-                    current_event = {
-                        'dateStr': date_str,
-                        'desc': desc,
-                        'subItems': []
-                    }
-                    current_sec['events'].append(current_event)
-            elif l.startswith('*') and current_event is not None:
-                sub_text = re.sub(r'^\*\s*', '', l).strip()
-                current_event['subItems'].append(sub_text)
+            if not line.startswith((' ', '\t')):
+                if l.startswith('###'):
+                    sec_name = l.replace('###', '').replace('**', '').strip()
+                    current_sec = {'title': sec_name, 'events': []}
+                    sections.append(current_sec)
+                elif l.startswith('*'):
+                    m = re.match(r'^\*\s+\*\*(.*?)\*\*:?\s*(.*)', l)
+                    if m and current_sec is not None:
+                        date_str = m.group(1).strip()
+                        desc = m.group(2).strip()
+                        if date_str.endswith(':'):
+                            date_str = date_str[:-1].strip()
+                        current_event = {
+                            'dateStr': date_str,
+                            'desc': desc,
+                            'subItems': []
+                        }
+                        current_sec['events'].append(current_event)
+            else:
+                if l.startswith('*') and current_event is not None:
+                    sub_text = re.sub(r'^\*\s*', '', l).strip()
+                    current_event['subItems'].append(sub_text)
     return sections
 
 def extract_date_info(date_str_en, date_str_vi):
@@ -62,7 +64,7 @@ def extract_date_info(date_str_en, date_str_vi):
         year = int(m_slash.group(3))
     else:
         # Check English Month Day, Year
-        m_en_full = re.search(r'([A-Za-z]+)\.?\s+(\d{1,2}),?\s+(\d{1,4})', date_str_en)
+        m_en_full = re.search(r'([A-Za-z]+)\.?\s+(\d{1,2})(?:st|nd|rd|th)?,?\s+(\d{1,4})', date_str_en, re.IGNORECASE)
         if m_en_full and m_en_full.group(1).lower() in months_en:
             month = months_en[m_en_full.group(1).lower()]
             day = int(m_en_full.group(2))
