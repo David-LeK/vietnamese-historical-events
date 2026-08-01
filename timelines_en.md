@@ -256,22 +256,28 @@
 ### **Dai Viet Period - Tran Dynasty (1226 - 1400)**
 
 *   **1226:** Prince Ly Long Tuong, a son of King Ly Anh Tong, left the country with his followers to seek refuge in Goryeo (Korea), becoming the ancestor of the Ly clan in Korea.
-*   **Jan. 10, 1226:** Under the arrangement of Tran Thu Do, Ly Chieu Hoang ceded the throne to her husband, Tran Canh (Tran Thai Tong). The Ly dynasty ended.
+*   **Jan. 10, 1226:** Under the arrangement of Tran Thu Do, Ly Chieu Hoang ceded the throne to her husband, Tran Canh (Tran Thai Tong). In January 1226, she was officially invested as Empress Chieu Thanh. The Ly dynasty ended.
 *   **Aug. 1226:** Tran Thu Do forced Ly Hue Tong (who had become a monk) to commit suicide at Chan Giao Pagoda.
 *   **1229:** The Song dynasty officially recognized Tran Thai Tong as the King of An Nam.
 *   **1230:** The law codes Quoc trieu thong che and Quoc trieu thuong le were promulgated.
 *   **1232:** The first Confucian civil service examination of the Tran dynasty was organized during the reign of Emperor Tran Thai Tong. The regulation dividing successful candidates into three tiers (Tam giap) was established for the first time.
 *   **Apr. 1232:** The Tran court, under Tran Thu Do's directive, ordered the descendants of the Ly clan to change their surname to "Nguyen" to prevent any attempts to restore the former dynasty.
-*   **1237:** The Tran Lieu rebellion occurred after Tran Thu Do forced King Tran Thai Tong to marry his older brother's wife, Princess Thuan Thien.
+*   **1233:** Crown Prince Trinh, the first child of Emperor Tran Thai Tong, passed away shortly after birth.
+*   **Jan. 18, 1234:** Retired Emperor (Thuong hoang) Tran Thua passed away at the age of 51. He held the position of Retired Emperor for 8 years without ever officially reigning as Emperor.
+*   **1237:** Tran Thu Do forced Emperor Tran Thai Tong to marry his older brother Tran Lieu's wife, Princess Thuan Thien, and invested her as Empress. Former Empress Chieu Thanh (Ly Chieu Hoang) was demoted to Princess due to her prolonged inability to bear an heir. Late that year, Thuan Thien gave birth to Tran Quoc Khang (who was actually Tran Lieu's son). This forced marriage triggered the Tran Lieu rebellion.
+*   **Sep. 25, 1240:** Prince Tran Hoang (later Emperor Tran Thanh Tong), the eldest legitimate son of Emperor Tran Thai Tong, was born and established as the Crown Prince (Dong Cung Thai tu).
+*   **Oct. 1241:** Prince Tran Quang Khai, a younger full brother of Crown Prince Tran Hoang, was born.
 *   **1242:** The court carried out administrative reforms, dividing the country into 12 routes (lo).
 *   **1247:** Nguyen Hien passed the imperial examination as Trang Nguyen (First Laureate) at the age of 12, becoming the youngest First Laureate in Vietnamese history.
 *   **1247:** During the Dinh Mui examination, the Tran court established the title "Tam khoi" (Three Laureates) for the first time to designate the three most outstanding successful candidates, ranked as Trang nguyen, Bang nhan, and Tham hoa.
+*   **Jun. 1248:** Empress Thuan Thien passed away.
 *   **1250:** King Tran Thai Tong issued a decree requiring the people to address the King as "Quoc gia" (The Nation/State) to elevate the King's position and national unity.
-*   **Spring 1251:** Tran Quoc Tuan (later Tran Hung Dao) boldly infiltrated the residence of Nhan Dao Vuong to marry Princess Thien Thanh, who was betrothed to another. King Tran Thai Tong ultimately sanctioned their marriage to avoid conflict.
+*   **Spring 1251:** Emperor Tran Thai Tong had betrothed his eldest daughter, Princess Thien Thanh, to Trung Thanh Vuong (son of Nhan Dao Vuong). However, Tran Quoc Tuan (later Tran Hung Dao), deeply in love with the Princess from childhood, boldly infiltrated her room at night. Princess Thuy Ba (the Emperor's sister, who raised Quoc Tuan) presented 10 trays of gold to the Emperor to request the marriage. To avoid punishing Quoc Tuan, Emperor Tran Thai Tong sanctioned their union and compensated Nhan Dao Vuong with 2,000 mau of land in Ung Thien prefecture. This marriage later produced four prominent generals (Hung Vu Vuong, Hung Tri Vuong, Hung Nhuong Vuong, Hung Hien Vuong) and two daughters (including Queen Kham Tu).
 *   **1252:** Tran Thai Tong personally led a campaign against Champa.
 *   **Jun. 1253:** King Tran Thai Tong established the **Quoc Hoc Vien** (National Academy) for scholars to lecture on the Classics.
 *   **Aug. 1253:** The **Giang Vo Duong** (Military Academy) was established to train in martial arts, marking a formalization of military education.
 *   **1256:** The Tran court distinguished for the first time between "Kinh Trang Nguyen" (for candidates from Ninh Binh northwards) and "Trai Trang Nguyen" (for candidates from Thanh Hoa southwards) to encourage talent from different regions. Tran Quoc Lac and Truong Xan were the respective laureates.
+*   **Feb. 1257:** Emperor Tran Thai Tong took the daughter of Hoang Binh into the palace, investing her as Concubine Hue Tuc (Hue Tuc phu nhan).
 *   **Aug. 1257:** A Mongol envoy came to Dai Viet for the first time to demand submission.
 *   **Sep. 1257:** King Tran Thai Tong issued a decree commanding generals to lead troops to guard the borders under the command of Tran Quoc Tuan (Tran Hung Dao).
 *   **Dec. 1257:** Mongol forces commanded by Uriyangkhadai attacked the border; the Battle of No Nguyen took place.
@@ -281,6 +287,7 @@
 *   **1262:** King Tran Thanh Tong elevated Tuc Mac village to Thien Truong prefecture, and built the Trung Quang Palace and Pho Minh Tower (Nam Dinh).
 *   **1267:** The Yuan dynasty presented "six demands" to Dai Viet, including that the Tran king must pay tribute in person and allow the appointment of administrators.
 *   **1272:** Le Van Huu completed the *Dai Viet su ky*, the first national history of Vietnam.
+*   **1278:** Former Empress Chieu Thanh (Ly Chieu Hoang) passed away at the age of 61. After her demotion, she had been married to General Le Phu Tran, with whom she had a son (Thuong Vi Hau Tong) and a daughter (Ung Thuy Cong chua Khue).
 *   **Oct. 24, 1278:** Emperor Trần Thánh Tông abdicated the throne in favor of Crown Prince Trần Khâm (later known as Emperor Trần Nhân Tông).
 *   **1282:** The first work written in chữ Nôm (Vietnamese demotic script) was *Văn tế cá sấu* (Eulogy for the Crocodile) by Nguyễn Thuyên, composed during the Trần dynasty. This was a text commissioned by Emperor Trần Nhân Tông to drive away a crocodile that had appeared in the Red River.
 *   **Oct. 1282:** King Tran Nhan Tong convened the **Binh Than Conference** to discuss strategies against the Yuan invasion. Hoai Van Hau **Tran Quoc Toan**, being too young (15 years old) to participate, crushed an orange in his hand out of frustration. He later mobilized over 1,000 domestic servants and relatives, raising a flag with six golden words: "**Pha cuong dich, bao hoang an**" (Destroy the strong enemy, repay the royal favor) to join the resistance.
@@ -301,6 +308,7 @@
 *   **Dec. 1287:** Yuan forces under the command of Toghon launched the third invasion of Dai Viet.
 *   **1288 (early year):** Tran Khanh Du commanded the Battle of Van Don, completely destroying the enemy's supply fleet led by Zhang Wenhu.
 *   **Apr. 9, 1288:** The historic Battle of Bach Dang. The Yuan navy was completely annihilated under the command of Hung Dao Vuong Tran Quoc Tuan. The third resistance war against the Mongol-Yuan invaders ended in a glorious victory.
+*   **Sep. 1288:** Nguyen Tu Quoc Mau (Princess Thien Thanh, wife of Tran Hung Dao) passed away after 37 years of marriage. While her husband fought on the front lines, she managed logistics in the rear. She was one of the only two women (along with Linh Tu Quoc Mau Tran Thi Dung) honored with the supreme title "Quoc Mau" (Mother of the Nation) for their immense contributions to the Tran dynasty.
 *   **Apr. 16, 1293:** Tran Nhan Tong abdicated the throne in favor of Crown Prince Tran Thuyen (later Tran Anh Tong).
 *   **1294:** The Yuan dynasty officially issued an edict to end the war with Dai Viet after Emperor Temur Khan ascended the throne.
 *   **1294:** General Tran Quang Khai, a key figure in the resistance against the Mongols and a renowned poet, passed away.

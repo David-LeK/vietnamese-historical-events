@@ -256,22 +256,28 @@
 ### **Thời kỳ Đại Việt - Triều Trần (1226 - 1400)**
 
 *   **1226:** Hoàng tử Lý Long Tường (con thứ vua Lý Anh Tông) cùng tùy tùng vượt biển sang Cao Ly (Hàn Quốc) lánh nạn, trở thành ông tổ của dòng họ Lý Hoa Sơn tại Hàn Quốc.
-*   **10/01/1226:** Dưới sự sắp đặt của Trần Thủ Độ, Lý Chiêu Hoàng nhường ngôi cho chồng là Trần Cảnh (Trần Thái Tông). Vương triều Lý kết thúc.
+*   **10/01/1226:** Dưới sự sắp đặt của Trần Thủ Độ, Lý Chiêu Hoàng nhường ngôi cho chồng là Trần Cảnh (Trần Thái Tông). Tháng Giêng năm 1226, Lý Chiêu Hoàng được sách phong làm Hoàng hậu Chiêu Thánh. Vương triều Lý kết thúc.
 *   **08/1226:** Trần Thủ Độ ép Lý Huệ Tông (lúc này đã đi tu) tự tử tại chùa Chân Giáo.
 *   **1229:** Nhà Tống chính thức công nhận Trần Thái Tông là An Nam Quốc vương.
 *   **1230:** Ban hành các bộ luật Quốc triều thông chế và Quốc triều thường lễ.
 *   **1232:** Khoa thi Nho học đầu tiên của triều Trần được tổ chức dưới thời vua Trần Thái Tông. Triều đình bắt đầu định lệ chia người trúng tuyển làm ba hạng (Tam giáp).
 *   **04/1232 (Nhâm Thìn):** Trần Thủ Độ nhân việc ban chữ húy về tổ tiên họ Trần (Trần Lý) đã ép con cháu họ Lý phải đổi sang họ Nguyễn.
-*   **1237:** Xảy ra vụ loạn Trần Liễu do Trần Thủ Độ ép vua Trần Thái Tông lấy vợ của anh trai mình là Thuận Thiên công chúa.
+*   **1233:** Hoàng Thái tử Trịnh, con trai đầu của vua Trần Thái Tông, qua đời (có khả năng mất ngay sau khi sinh).
+*   **18/01/1234:** Thái thượng hoàng Trần Thừa qua đời, thọ 51 tuổi. Ông ở ngôi Thượng hoàng trong 8 năm nhưng thực tế chưa một ngày làm vua.
+*   **1237:** Trần Thủ Độ ép vua Trần Thái Tông lấy vợ của anh trai (Trần Liễu) là Công chúa Thuận Thiên và lập làm Hoàng hậu, giáng Chiêu Thánh làm Công chúa do bà chậm sinh nở. Cuối năm đó, Thuận Thiên sinh ra Trần Quốc Khang (thực chất là con Trần Liễu). Sự kiện ép buộc hôn nhân này đã dẫn đến vụ loạn Trần Liễu.
+*   **25/09/1240 (Canh Tý):** Hoàng đích Trưởng tử Trần Hoảng (sau là vua Trần Thánh Tông) sinh ra, được vua Trần Thái Tông lập làm Đông Cung Thái tử.
+*   **10/1241 (Tân Sửu):** Hoàng tử Trần Quang Khải (em cùng mẹ với Thái tử Trần Hoảng) sinh ra.
 *   **1242:** Triều đình tiến hành cải cách hành chính, chia cả nước thành 12 lộ.
 *   **1247:** Nguyễn Hiền đỗ Trạng nguyên khi mới 12 tuổi, trở thành Trạng nguyên trẻ nhất trong lịch sử khoa bảng Việt Nam.
 *   **1247:** Tại khoa thi Đinh Mùi, triều Trần lần đầu tiên đặt danh hiệu "Tam khôi" để chỉ ba người xuất sắc nhất trong số những người thi đỗ đại khoa, bao gồm Trạng nguyên, Bảng nhãn và Thám hoa.
+*   **06/1248:** Hoàng hậu Thuận Thiên qua đời.
 *   **1250:** Vua Trần Thái Tông xuống chiếu cho thiên hạ gọi vua là "Quốc gia" để đề cao vị thế nhà vua và tính thống nhất của đất nước.
-*   **Mùa xuân 1251:** Trần Quốc Tuấn (Trần Hưng Đạo) nửa đêm lẻn vào phủ Nhân Đạo vương để tư thông với công chúa Thiên Thành (người đã được hứa gả cho Trung Thành vương). Vua Trần Thái Tông sau đó phải xuống chiếu gả công chúa cho ông.
+*   **Mùa xuân 1251:** Vua Trần Thái Tông đã hứa gả Trưởng Công chúa Thiên Thành (con gái vua) cho Trung Thành vương (con trai Nhân Đạo vương). Tuy nhiên, Trần Quốc Tuấn (Trần Hưng Đạo) vì tình yêu sâu sắc từ nhỏ đã nửa đêm lẻn vào phòng Công chúa. Công chúa Thụy Bà (chị vua, người nhận nuôi Quốc Tuấn) đã dâng 10 mâm vàng xin cưới. Vua Trần Thái Tông cuối cùng chấp thuận hôn sự và phải cắt 2.000 mẫu ruộng ở phủ Ứng Thiên đền bù cho nhà Nhân Đạo vương. Cuộc hôn nhân này sau đó sinh ra 4 vị tướng tài (Hưng Vũ vương, Hưng Trí vương, Hưng Nhượng vương, Hưng Hiến vương) và 2 người con gái (trong đó có Khâm Từ Hoàng hậu).
 *   **1252:** Trần Thái Tông thân chinh đánh Champa.
 *   **06/1253:** Vua Trần Thái Tông cho lập **Quốc học viện** để giảng dạy Tứ thư, Ngũ kinh cho các nho sĩ.
 *   **08/1253:** Vua Trần Thái Tông cho lập **Giảng võ đường** để đào tạo võ quan, đánh dấu sự chú trọng vào giáo dục quân sự.
 *   **1256:** Triều Trần lần đầu tiên chia Trạng nguyên thành "Kinh Trạng nguyên" (người từ Ninh Bình trở ra) và "Trại Trạng nguyên" (người từ Thanh Hóa trở vào) để khuyến khích nhân tài các vùng. Trần Quốc Lặc và Trương Xán lần lượt đỗ đầu.
+*   **02/1257:** Vua Trần Thái Tông nhận con gái Hoàng Bính vào cung, sách phong làm Huệ Túc phu nhân.
 *   **08/1257:** Sứ Mông Cổ đến Đại Việt lần đầu tiên để dụ hàng.
 *   **09/1257:** Vua Trần Thái Tông xuống chiếu, lệnh cho các tướng đem quân thủy bộ ra ngăn giữ biên giới phía Bắc dưới sự tiết chế của Quốc công Trần Quốc Tuấn (Trần Hưng Đạo).
 *   **12/1257:** Quân Mông Cổ do Ngột Lương Hợp Thai chỉ huy tiến đánh biên giới; diễn ra trận Nổ Nguyên.
@@ -281,6 +287,7 @@
 *   **1262 (Năm Thiệu Long thứ 5):** Nhà Trần đổi hương Tức Mặc làm phủ Thiên Trường, dựng hành cung Trùng Quang và tháp Phổ Minh (Nam Định).
 *   **1267:** Nhà Nguyên đưa ra "sáu việc" yêu sách đối với Đại Việt, bao gồm việc vua Trần phải sang chầu và đặt quan cai trị.
 *   **1272:** Lê Văn Hưu hoàn thành bộ *Đại Việt sử ký*, bộ quốc sử đầu tiên của Việt Nam.
+*   **1278:** Cựu Hoàng hậu Chiêu Thánh (Lý Chiêu Hoàng) qua đời, thọ 61 tuổi. Sau khi bị giáng làm Công chúa, bà được gả cho Lê Phụ Trần và sinh được một con trai (Thượng Vị Hầu Tông), một con gái (Ứng Thụy Công chúa Khuê).
 *   **24/10/1278:** Trần Thánh Tông nhường ngôi cho Thái tử Trần Khâm (sau là Trần Nhân Tông).
 *   **1282:** Tác phẩm đầu tiên viết bằng chữ Nôm là *Văn tế cá sấu* của Nguyễn Thuyên, sáng tác dưới triều đại nhà Trần. Đây là bài văn được vua Trần Nhân Tông sai viết để đuổi con cá sấu xuất hiện trên sông Hồng.
 *   **10/1282:** Vua Trần Nhân Tông mở **Hội nghị Bình Than** để bàn kế sách chống quân Nguyên. Hoài Văn hầu **Trần Quốc Toản** vì còn nhỏ tuổi (15 tuổi) không được dự bàn, đã bóp nát quả cam trong tay vì phẫn chí. Sau đó, ông về huy động gia nô và thân thuộc hơn nghìn người, sắm vũ khí, đóng chiến thuyền, thêu lên cờ sáu chữ vàng: "**Phá cường địch, báo hoàng ân**" (Phá giặc mạnh, báo ơn vua) để tham gia kháng chiến.
@@ -301,6 +308,7 @@
 *   **12/1287:** Quân Nguyên do Thoát Hoan chỉ huy tiến hành cuộc xâm lược Đại Việt lần thứ ba.
 *   **1288 (đầu năm):** Trần Khánh Dư chỉ huy trận Vân Đồn, tiêu diệt hoàn toàn đoàn thuyền lương của giặc do Trương Văn Hổ chỉ huy.
 *   **09/04/1288:** Trận Bạch Đằng lịch sử. Thủy quân Nguyên bị tiêu diệt hoàn toàn dưới sự chỉ huy của Hưng Đạo vương Trần Quốc Tuấn. Cuộc kháng chiến chống Mông-Nguyên lần thứ ba kết thúc thắng lợi vẻ vang.
+*   **09/1288:** Nguyên Từ Quốc Mẫu (Trưởng Công chúa Thiên Thành, phu nhân Trần Hưng Đạo) qua đời sau 37 năm chung sống. Trong khi chồng xông pha trận mạc, bà lo toan hậu cần ở hậu phương, trở thành một trong hai người phụ nữ (cùng Linh Từ Quốc Mẫu Trần Thị Dung) được triều đình phong đến bậc Quốc Mẫu vì công lao to lớn.
 *   **16/04/1293:** Trần Nhân Tông nhường ngôi cho Thái tử Trần Thuyên (sau là Trần Anh Tông).
 *   **1294:** Nhà Nguyên (đời vua Thành Tông - Temur Khan) chính thức xuống chiếu bãi binh, chấm dứt chiến tranh với Đại Việt.
 *   **1294:** Thượng tướng quân Trần Quang Khải, nhà quân sự và nhà thơ lớn của dân tộc, qua đời.
