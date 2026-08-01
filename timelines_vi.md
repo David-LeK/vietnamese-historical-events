@@ -326,52 +326,136 @@
 *   **1329:** Lý Tế Xuyên hoàn thành biên soạn bộ sách *Việt Điện U Linh Tập*, một tác phẩm văn học - lịch sử quan trọng ghi lại sự tích các vị thần và nhân vật lịch sử của Việt Nam.
 *   **18/03/1329:** Trần Minh Tông nhường ngôi cho Thái tử Trần Vượng (sau là Trần Hiến Tông).
 *   **1330:** Chiêu Văn vương Trần Nhật Duật, danh tướng có công lớn trong kháng chiến chống Nguyên và là người am hiểu nhiều ngoại ngữ, phong tục các nước, qua đời.
+*   **1336:** Lê Quý Ly (sau đổi thành Hồ Quý Ly) chào đời tại Đại Lại, Vĩnh Lộc (nay thuộc Thanh Hóa), tự Lý Nguyên. Tổ tiên ông là Hồ Hưng Dật (gốc Triết Giang, làm Thái thú Châu Diễn thời Hậu Hán), đến đời cháu 12 là Hồ Liêm làm con nuôi Tuyên úy Lê Huấn mới đổi sang họ Lê, truyền 4 đời tới Lê Quý Ly.
+*   **1341 (Tân Tỵ):** Vua Trần Hiến Tông mất, Hoàng tử Trần Hạo lên nối ngôi (Trần Dụ Tông). Triều Trần bắt đầu suy vi.
 *   **11/06/1341:** Trần Hiến Tông băng hà mà không có con nối dõi. Thái thượng hoàng Trần Minh Tông nắm quyền.
 *   **24/09/1341:** Thái thượng hoàng Trần Minh Tông nhường ngôi cho Hoàng tử Trần Hạo (sau là Trần Dụ Tông).
 *   **10/1341:** Vua Trần Dụ Tông ra lệnh biên soạn bộ *Hoàng triều đại điển* và *Hình thư*.
+*   **1342:** Vua Chiêm Thành Chế A Nan qua đời. Trà Hoa Bố Đề tranh ngôi với Chế Mỗ, lên làm vua Chiêm Thành (đến 1360).
+*   **1343 (Quý Mùi):** Hạn hán, mất mùa, nhân dân đói khổ nổi dậy khắp nơi, nhất là gia nô của các vương hầu, quý tộc.
+*   **02/1344 (Giáp Thân):** Ngô Bệ đứng đầu một tổ chức cướp nổi lên ở núi Yên Phụ (Hải Hưng), bị dẹp tan năm sau.
+*   **05/1346 (Bính Tuất):** Ai Lao vào cướp ở biên giới.
+*   **1352 (Nhâm Thìn):** Chế Mỗ (Chiêm Thành) chạy sang nạp cống vật và xin Đại Việt giúp đỡ đánh Bố Đề.
 *   **1353:** Phà Ngừm thống nhất các mường Lào, lập nước Lan Xang (Vạn Tượng), mở ra thời kỳ bang giao quan trọng ở biên giới phía Tây.
+*   **06/1353 (Quý Tỵ):** Vua Trần Dụ Tông cho quân đưa Chế Mỗ về nước, nhưng bị quân Bố Đề đánh bại ở Cổ Lũy.
+*   **09/1353:** Quân Chiêm Thành (Bố Đề) đánh Hóa Châu nhưng bị Trương Hán Siêu đẩy lui.
+*   **1354 (Giáp Ngọ):** Đói lớn. Tề tự xưng là cháu ngoại Trần Quốc Tuấn, tụ tập gia nô bỏ trốn làm giặc từ Lạng Giang đến Nam Sách.
+*   **02/1357 (Đinh Dậu):** Thượng hoàng Trần Minh Tông qua đời. Vua Trần Dụ Tông bắt đầu sa đọa, trụy lạc.
+*   **1358 (Mậu Tuất):** Lực lượng của Ngô Bệ phục hồi, nổi lên ở núi Yên Phụ, chiếm giữ từ Thiên Liêu đến Chí Linh.
+*   **1360:** Chế Bồng Nga lên ngôi vua Chiêm Thành.
+*   **03/1360 (Canh Tý):** Ngô Bệ bị bắt và bị chém.
+*   **12/1360 (Canh Tý):** Vua Trần Dụ Tông xuống chiếu ra lệnh bắt các gia nô của vương hầu, công chúa đều phải xăm chữ vào trán.
 *   **1361:** Champa dưới thời vua Chế Bồng Nga bắt đầu các cuộc tấn công, cướp phá vào Đại Việt, mở đầu một thời kỳ xung đột kéo dài.
+*   **03/1361 (Tân Sửu):** Chiêm Thành vượt biển cướp phá ở cửa biển Di Lý (Quảng Bình), bị đánh tan.
+*   **01/1362 (Nhâm Dần):** Vua Dụ Tông ra lệnh cho các vương hầu, công chúa dâng các trò tạp hý.
+*   **03/1366 (Bính Ngọ):** Chiêm Thành tấn công Lâm Bình, bị đánh bại.
 *   **06/1366:** Vua Trần Dụ Tông đi chơi ở hương Mễ Sở, đến bãi Chử Gia bị cướp mất ấn báu và gươm báu, báo hiệu sự suy vi của triều đại.
+*   **12/1367 (Đinh Mùi):** Trần Thế Hưng và Đỗ Tử Bình thống lĩnh quân tiến công Chiêm Thành.
+*   **02/1368 (Mậu Thân):** Chiêm Thành sai sứ sang đòi lại đất cũ đã giao nộp năm 1069 và 1306. Triều đình nhà Trần từ chối.
+*   **04/1368 (Mậu Thân):** Đạo quân Trần lọt vào ổ phục kích ở Chiêm Động, Trần Thế Hưng bị bắt, Đỗ Tử Bình rút chạy.
 *   **25/5/1369:** Trần Dụ Tông qua đời mà không có con nối dõi vì sức khỏe suy yếu do hưởng lạc và sinh hoạt không điều độ trong thời gian trị vì.
 *   **18/07/1369:** Dương Nhật Lễ (con nuôi của Trần Dụ Tông) lên ngôi trong bối cảnh Hoàng thái hậu Hiền Từ đã đồng ý theo di chiếu của Dụ Tông.
+*   **01/1370 (Canh Tuất):** Vua Minh Thái Tổ tự làm bài chúc văn, sai đạo sĩ Diêm Nguyên Phục đem lễ vật sang tế thần núi Tản Viên và thủy thần sông Lô. (Việc tế xong vào tháng 4).
+*   **11/1370 (Canh Tuất):** Dương Nhật Lễ bị phế và giết. Trần Phủ lên ngôi (Trần Nghệ Tông). Lê Quý Ly bắt đầu có mặt ở triều đình với chức Chi hậu tứ cục Chánh chưởng.
 *   **14/12/1370:** Trần Phủ (sau là Trần Nghệ Tông) lên ngôi sau khi Dương Nhật Lễ bị phế truất.
 *   **1371:** Quân Champa do Chế Bồng Nga chỉ huy đánh thẳng vào kinh thành Thăng Long, cướp phá và đốt trụi cung điện.
+*   **03/1371 (Tân Hợi):** Quân Chiêm Thành do Chế Bồng Nga chỉ huy tiến theo đường biển vào cửa Đại An, tấn công và chiếm đóng kinh đô Thăng Long lần thứ nhất.
+*   **05/1371 (Tân Hợi):** Lê Quý Ly được phong chức Khu mật viện đại sứ.
+*   **09/1371 (Tân Hợi):** Lê Quý Ly được gia phong Trung tuyên quốc Thượng hầu.
 *   **14/12/1372:** Trần Nghệ Tông nhường ngôi cho em trai là Thái tử Trần Kính (sau là Trần Duệ Tông).
+*   **08/1373 (Quý Sửu):** Giặc cướp lại đua nhau nổi dậy. Lê Quý Ly đóng sửa chiến thuyền, cải cách quân sự.
 *   **1374:** Triều đình tổ chức khoa thi Đình, Đào Sư Tích đỗ Trạng nguyên.
+*   **08/1374 (Giáp Dần):** Tuyển bổ sung quân và xếp đặt lại tổ chức quân đội. Quân túc vệ bị xăm 3 chữ đen lên trán.
 *   **1375:** Vua Trần Duệ Tông đổi phủ Lâm Bình thành phủ Tân Bình.
+*   **01/1375 (Ất Mão):** Lê Quý Ly được vua Trần Duệ Tông cử kiêm chức Tham mưu quân sự. Chọn các quan viên biết luyện tập võ nghệ, không cứ là tôn thất, đều cho làm tướng coi quân.
+*   **08/1375 (Ất Mão):** Lê Quý Ly cải cách quân đội cơ bản, thải bớt người già yếu, lấy người khỏe bổ sung, những người làm thuê không có tên trong sổ hộ tịch đều phải sung vào quân ngũ.
+*   **12/1376 (Bính Thìn):** Vua Trần Duệ Tông thân chinh đem 12 vạn quân đi đánh Chiêm Thành. Lê Quý Ly phụ trách vận lương.
+*   **01/1377 (Đinh Tỵ):** Quân Trần đánh cửa Thị Nại. Vua Trần Duệ Tông trúng kế của Chế Bồng Nga, tử trận tại kinh thành Đồ Bàn. Lê Quý Ly bỏ trốn về nước. Thượng hoàng Trần Nghệ Tông lập Trần Phế Đế (Đế Hiện) lên ngôi.
 *   **04/03/1377:** Trần Duệ Tông mất trong một trận chiến với quân Chiêm Thành. Ông đã đích thân chỉ huy một chiến dịch quân sự lớn chống lại Chiêm Thành nhưng chiến dịch đã thất bại và ông đã bị giết ở trận Vijaya.
+*   **06/1377 (Đinh Tỵ):** Quân Chiêm Thành thừa thắng tiến công vào cửa Thần Phù, đánh thẳng vào Thăng Long (lần thứ hai).
 *   **1378:** Nhà Trần bắt đầu thu thuế thân (3 quan/người) do quốc khố cạn kiệt.
 *   **03/1378:** Thái tử Trần Hiệu (sau là Trần Phế Đế) lên ngôi.
+*   **05/1378 (Mậu Ngọ):** Chiêm Thành tấn công Nghệ An. Tháng 6 đánh vào Thăng Long (lần thứ ba).
+*   **02/1379 (Kỷ Mùi):** Lê Quý Ly được thăng chức Tiểu tư không kiêm hành Khu mật đại sứ. Nguyễn Bồ nổi dậy ở Bắc Giang (Đường Lang Tử Y) nhưng bị dập tắt nhanh chóng.
+*   **02/1380 (Canh Thân):** Quân Chiêm ra cướp phá Nghệ An, Diễn Châu, Thanh Hóa.
+*   **05/1380 (Canh Thân):** Lê Quý Ly chỉ huy quân thủy đánh tan quân Chiêm Thành do Chế Bồng Nga chỉ huy tại sông Ngu Giang (Thanh Hóa). Quý Ly chém tướng Nguyễn Kim Ngao để giữ nghiêm quân luật. Lĩnh chức Nguyên nhung hành Hải Tây đô thống chế.
+*   **1381:** Nhà Trần ra lệnh đốc suất tăng sư khỏe mạnh sung vào quân đội đánh Chiêm Thành.
+*   **04/1381 (Tân Dậu):** Nhân lúc Chiêm Thành cướp phá, Hồ Thuật chiêu tập nhân dân nổi dậy ở Diễn Châu, bị xử chém.
+*   **06/1381 (Tân Dậu):** Thượng hoàng Nghệ Tông ra lệnh rước thần tượng các lăng về lăng lớn Yên Sinh để lánh nạn Chiêm Thành.
+*   **02/1382 (Nhâm Tuất):** Chiêm Thành cướp phá Thanh Hóa. Quân Đại Việt đánh tan quân Chiêm tại cửa Thần Đầu.
+*   **01/1383 (Quý Hợi):** Lê Quý Ly thống lĩnh thủy quân đi đánh Chiêm Thành nhưng gặp bão, thiệt hại chiến thuyền phải rút lui.
+*   **06/1383 (Quý Hợi):** Chế Bồng Nga dẫn quân bộ đóng ở Quảng Oai, uy hiếp Thăng Long. Thượng hoàng và vua Trần chạy sang Đông Ngàn. Thăng Long bị cướp phá lần thứ tư.
+*   **09/1384 (Giáp Tý):** Nhà Minh sai sứ sang đòi Đại Việt nộp 5.000 thạch lương thực cung cấp cho quân lính ở Vân Nam.
+*   **03/1385 (Ất Sửu):** Nhà Minh đòi Đại Việt nộp 20 nhà sư.
 *   **10/09/1385 (06/08 năm Ất Sửu):** Lê Lợi chào đời tại Lam Sơn (Thanh Hóa). Tương truyền khi sinh có ánh sáng đỏ đầy nhà, mùi hương đầy xóm.
-*   **06/12/1388:** Trần Phế Đế bị phế truất, sau đó bị giam tại chùa Tư Phúc và bị giết theo lệnh của Thượng hoàng Trần Nghệ Tông và Hồ Quý Ly.
+*   **03/1386 (Bính Dần):** Nhà Minh sai sứ đòi nộp cây ăn quả giống ngon và mượn đường đánh Chiêm Thành, đòi 50 thớt voi.
+*   **03/1387 (Đinh Mão):** Lê Quý Ly được phong chức Đồng bình chương sự (Tướng quốc).
+*   **06/12/1388:** Trần Phế Đế bị phế truất, sau đó bị giam tại chùa Tư Phúc và bị giết theo lệnh của Thượng hoàng Trần Nghệ Tông và Lê Quý Ly.
 *   **16/12/1388:** Con trai Trần Nghệ Tông là Trần Ngung (sau là Trần Thuận Tông) lên ngôi.
+*   **01/1389 (Mậu Thìn):** Thượng hoàng Nghệ Tông truất ngôi và bức tử vua Trần Phế Đế theo lời xúi giục của Lê Quý Ly. Trần Thuận Tông (Trần Ngung) lên ngôi.
+*   **08/1389 (Kỷ Tỵ):** Nguyễn Thanh tự xưng là Linh Đức Vương, nổi dậy ở Lương Giang (Thanh Hóa). Tháng 9, Nguyễn Kỵ nổi dậy ở Nông Cống.
+*   **10/1389 (Kỷ Tỵ):** Chiêm Thành cướp phá Thanh Hóa. Quân Đại Việt do Lê Quý Ly chỉ huy bị đại bại, Quý Ly bỏ trốn về triều.
+*   **11/1389 (Kỷ Tỵ):** Trần Khát Chân được cử chỉ huy quân Long Tiệp đánh giặc Chiêm.
+*   **12/1389 (Kỷ Tỵ):** Phạm Sư Ôn khởi nghĩa ở Quốc Oai, đánh chiếm Thăng Long trong 3 ngày. Vua Trần phải bỏ chạy.
 *   **1390:** Thượng tướng quân Trần Khát Chân chỉ huy trận đánh trên sông Hải Triều (sông Luộc), dùng súng thần cơ giết chết vua Champa là Chế Bồng Nga.
+*   **Đầu năm 1390:** Lê Quý Ly gả con gái lớn là Thánh Ngâu cho vua Trần Thuận Tông làm Hoàng hậu (sau sinh ra Trần Thiếu Đế). Sau khi diệt mối đe dọa Chiêm Thành, ông được phong làm Nhập nội Phụ chính Thái sư, nắm giữ các vị trí then chốt trong triều đình và quân đội.
+*   **02/1391 (Tân Mùi):** Lê Quý Ly đi tuần Hóa Châu. Thái úy Trang Định vương Ngạc bị giết.
+*   **12/1392 (Nhâm Thân):** Lê Quý Ly soạn sách *Minh Đạo* gồm 14 thiên, đề cao Chu Công, hạ thấp Khổng Tử, phê phán tư tưởng Tống Nho. Đoàn Xuân Lôi phê phán bị đày.
+*   **02/1394 (Giáp Tuất):** Thượng hoàng Nghệ Tông sai thợ vẽ bức tranh "Tứ phụ" ban cho Quý Ly, mong Quý Ly hết lòng phò tá vua.
+*   **11/1394 (Giáp Tuất):** Thượng hoàng Trần Nghệ Tông qua đời.
+*   **1395:** Nhà Minh đem quân đánh người Mán ở Long Châu, đòi Đại Việt cấp 5 vạn quân, 50 voi và 50 vạn thạch lương. Vua Trần từ chối, chỉ nộp một ít gạo.
+*   **1395:** Lê Quý Ly tự phong Nhập nội Phụ chính Thái sư Bình chương quân quốc trọng sự, Tuyên trung vệ quốc Đại vương.
+*   **04/1395 (Ất Hợi):** Lê Quý Ly biên dịch thiên "Vô dật" trong Kinh Thư ra chữ Nôm để dạy vua Trần Thuận Tông.
+*   **06/1395 (Ất Hợi):** Quy định các quan không được dùng áo thụng tay, chỉ dùng áo hẹp tay.
 *   **1396:** Lần đầu tiên trong lịch sử khoa cử Việt Nam, vua Trần Thuận Tông định lệ về việc thi Cử nhân, chính thức phân cấp hệ thống thi cử thành thi Hương (cấp địa phương) và thi Hội (cấp trung ương).
-*   **04/1396:** Dưới sự chủ trương của Hồ Quý Ly (khi còn là Tể tướng), triều đình phát hành tiền giấy "Thông bảo hội sao", lần đầu tiên tiền giấy được lưu hành ở Việt Nam.
-*   **01/1397:** Hồ Quý Ly ban hành chính sách hạn điền, quy định hạn chế số lượng ruộng đất tư hữu của các vương hầu, quý tộc (không quá 10 mẫu).
-*   **03/1397:** Hồ Quý Ly cho xây dựng kinh thành Tây Đô (Thành nhà Hồ, Vĩnh Lộc, Thanh Hóa) và chuẩn bị dời đô.
-*   **04/1397:** Dưới sự điều khiển của Hồ Quý Ly, triều đình tiến hành cải cách hành chính lớn, đổi các lộ thành trấn và chia lại các cấp phủ, châu, huyện.
+*   **04/1396:** Dưới sự chủ trương của Lê Quý Ly (khi còn là Tể tướng), triều đình phát hành tiền giấy "Thông bảo hội sao", lần đầu tiên tiền giấy được lưu hành ở Việt Nam.
+*   **04/1396 (Bính Tý):** Cấm tuyệt đối tiêu tiền đồng. Cải cách thi cử: định thể văn 4 kỳ, bỏ ám tả cổ văn.
+*   **06/1396 (Bính Tý):** Cải cách trang phục quan lại văn võ, phân định màu sắc, kiểu dáng theo phẩm cấp.
+*   **08/1396 (Bính Tý):** Quân Trần tiến công Chiêm Thành, bắt tướng Bố Đông.
+*   **11/1396 (Bính Tý):** Lê Quý Ly biên soạn sách *Quốc ngữ Thi nghĩa* (dịch và giải thích Kinh Thi bằng chữ Nôm).
+*   **01/1397:** Lê Quý Ly ban hành chính sách hạn điền, quy định hạn chế số lượng ruộng đất tư hữu của các vương hầu, quý tộc (không quá 10 mẫu).
+*   **01/1397 (Đinh Sửu):** Lê Quý Ly sai Đỗ Tỉnh đi xem đất ở động An Tôn (Thanh Hóa) để xây dựng kinh thành Tây Đô.
+*   **03/1397:** Lê Quý Ly cho xây dựng kinh thành Tây Đô (Thành nhà Hồ, Vĩnh Lộc, Thanh Hóa) và chuẩn bị dời đô.
+*   **04/1397:** Dưới sự điều khiển của Lê Quý Ly, triều đình tiến hành cải cách hành chính lớn, đổi các lộ thành trấn và chia lại các cấp phủ, châu, huyện.
+*   **05/1397 (Đinh Sửu):** Vua Trần xuống chiếu cải cách giáo dục, đặt quan Giáo thụ ở các phủ, châu thuộc Sơn Nam, Kinh Bắc, Hải Đông và cấp ruộng học điền để chi dùng cho việc học.
+*   **11/1397 (Đinh Sửu):** Vua Trần Thuận Tông bị ép dời đô về Tây Đô (Thanh Hóa). Thăng Long đổi tên thành Đông Đô.
 *   **1398:** Lần đầu tiên trong lịch sử, triều đình cho đo đạc ruộng đất trên toàn quốc.
-*   **04/1398:** Hồ Quý Ly ép vua Trần Thuận Tông nhường ngôi cho con trai mới 2 tuổi là Trần Thiếu Đế để lui về làm Thái thượng hoàng, rồi sau đó ép đi tu ở một nơi vắng vẻ tại Thanh Hóa.
-*   **05/1399:** Hồ Quý Ly sai người tâm phúc là tướng Phạm Khả Vĩnh đến nơi ở của cựu hoàng đế. Phạm Khả Vĩnh đã ép Trần Thuận Tông tự tử bằng thuốc độc, nhưng không thành. Cuối cùng, chính Phạm Khả Vĩnh đã thắt cổ cựu hoàng đế đến chết. Trần Thuận Tông được chôn cất tại lăng Yên Sinh.
-*   **06/1399:** Hồ Quý Ly tự xưng là Quốc Tổ Chương Hoàng đế, dùng nghi vệ thiên tử, chuẩn bị cho việc cướp ngôi.
+*   **03/1398 (Mậu Dần):** Vua Thiếu Đế lên ngôi ở cung Bảo Thanh. Triều đình tổ chức đo đạc ruộng đất trên toàn quốc (kéo dài đến 1403).
+*   **04/1398:** Lê Quý Ly ép vua Trần Thuận Tông nhường ngôi cho con trai mới 2 tuổi là Trần Thiếu Đế để lui về làm Thái thượng hoàng, rồi sau đó ép đi tu ở một nơi vắng vẻ tại Thanh Hóa.
+*   **05/1399:** Lê Quý Ly sai người tâm phúc là tướng Phạm Khả Vĩnh đến nơi ở của cựu hoàng đế. Phạm Khả Vĩnh đã ép Trần Thuận Tông tự tử bằng thuốc độc, nhưng không thành. Cuối cùng, chính Phạm Khả Vĩnh đã thắt cổ cựu hoàng đế đến chết. Trần Thuận Tông được chôn cất tại lăng Yên Sinh.
+*   **05/1399 (Kỷ Mão):** Biến loạn tại Hội thề Đốn Sơn. Thái bảo Trần Hàng, Trần Khát Chân mưu giết Lê Quý Ly thất bại. Hơn 370 người bị xử tử.
+*   **06/1399:** Lê Quý Ly tự xưng là Quốc Tổ Chương Hoàng đế, dùng nghi vệ thiên tử, chuẩn bị cho việc cướp ngôi.
+*   **08/1399 (Kỷ Mão):** Nguyễn Nhữ Cái làm tiền giấy giả, tụ tập hơn vạn người nổi dậy ở Lập Thạch, sông Đáy, Ba Vì nhưng thất bại.
+*   **09/1399 (Kỷ Mão):** Lê Quý Ly sai trồng tre gai xung quanh làm vòng thành ngoài bảo vệ Tây Đô. Đặt sở tuần kiểm ở sông Đại Lại.
 
 ### **Thời kỳ Nhà Hồ và Cải cách (1400 - 1407)**
 
-*   **28/02/1400:** Hồ Quý Ly ép vua Trần Thiếu Đế nhường ngôi, tự lập làm vua, đặt niên hiệu là Thánh Nguyên, đổi quốc hiệu là Đại Ngu, chính thức lập ra triều Hồ.
+*   **28/02/1400 (Tháng 2 Canh Thìn):** Lê Quý Ly truất ngôi cháu ngoại là Trần Thiếu Đế, tự lập làm vua, đặt niên hiệu là Thánh Nguyên. Ông chính thức khôi phục họ gốc đổi tên lại thành **Hồ Quý Ly**, lập ra nhà Hồ và đổi quốc hiệu nước thành **Đại Ngu** (mang ý nghĩa "sự yên vui, hòa bình lớn", xuất phát từ truyền thuyết dòng họ Hồ là con cháu Ngu Thuấn - vị vua đem lại thái bình thịnh trị thời cổ đại).
+*   **Giữa năm 1400:** Vua Hồ lập mạng lưới an ninh hành chính "công an chìm", đặt chức Liêm phóng sứ ở các lộ để do thám quan lại và dân tình.
 *   **08/1400:** Nhà Hồ đem 15 vạn quân do Đỗ Mãn và Trần Tùng chỉ huy đi đánh Chiêm Thành nhưng thất bại do thiếu lương thực trên đường núi.
 *   **08/1400:** Triều Hồ tổ chức kỳ thi Thái học sinh đầu tiên, lấy đỗ 20 người, trong đó có Nguyễn Trãi.
-*   **12/1400:** Hồ Quý Ly nhường ngôi cho con là Hồ Hán Thương, tự xưng là Thái thượng hoàng. Hồ Hán Thương bắt đầu đánh thuế thuyền buôn.
+*   **12/1400:** Hồ Quý Ly nhường ngôi cho con là Hồ Hán Thương, tự xưng là Thái thượng hoàng nhưng vẫn thâu tóm quyền lực. Đánh thuế thuyền buôn theo 3 mức thượng, trung, hạ.
+*   **1401:** Lập kho Thường bình, dùng tiền giấy mua lúa thóc trữ để cứu đói và bình ổn giá cả thị trường. Định hình luật nước Đại Ngu.
 *   **03/1401:** Hồ Hán Thương ra chiếu "hạn chế gia nô", quy định số lượng nô tỳ được phép sở hữu theo phẩm cấp quan lại.
+*   **04/1401 (Tân Tỵ):** Nhà Hồ ra lệnh lập lại sổ hộ tịch toàn quốc, đưa cả đinh nam từ 2 tuổi trở lên vào sổ để làm cơ sở tuyển quân.
+*   **1402:** Hồ Hán Thương định lại thuế đinh và thuế điền. Thuế đinh đánh theo diện tích ruộng, người không có ruộng, trẻ mồ côi, góa phụ được miễn. Lập lại Lễ Tế Giao ở Đốn Sơn. Tổ chức nhã nhạc cung đình.
+*   **03/1402 (Nhâm Ngọ):** Đắp đường thiên lý từ Tây Đô đến Hóa Châu (Thừa Thiên), đặt phố xá và trạm truyền thư.
 *   **07/1402:** Nhà Hồ đánh Chiêm Thành lần thứ hai. Vua Chiêm Ba Đích Lại phải dâng đất Chiêm Động và Cổ Lũy để xin hòa. Nhà Hồ chia vùng này thành 4 châu: Thăng, Hoa, Tư, Nghĩa, ép người Chiêm dời về phía Nam và đưa người nghèo phía Bắc vào khai phá.
 *   **1403:** Nhà Hồ đánh Chiêm Thành lần thứ ba với 20 vạn quân. Tướng Phạm Nguyên Khôi vây hãm thành Chà Bàn 9 tháng nhưng không hạ được do thiếu lương. Trên đường rút về, thủy quân nhà Hồ gặp hạm đội nhà Minh sang cứu Chiêm Thành nhưng tránh giao chiến. Triều Minh bắt đầu chuẩn bị xâm lược Đại Ngu.
+*   **1403:** Xử lăng trì phù thủy Trần Đức Huy vì hành nghề mê tín dị đoan, trộm tên người đi tuần biên vào sổ quân. Đặt chức Thị giám quản lý chợ, chuẩn hóa công cụ đo lường và luật xử phạt người không tiêu tiền giấy.
 *   **09/1403:** Vua Hồ Hán Thương cho lập cơ quan **Quảng Tế** (Quảng Tế thự), dùng phương pháp châm cứu chữa bệnh cho dân. Đây là cơ quan y tế công cộng đầu tiên được ghi nhận.
+*   **10/1403 (Quý Mùi):** Nhà Hồ xử tử các thân thuộc của những hoạn quan (trước đây nộp cho nhà Minh) vì phát hiện họ hoạt động gián điệp, làm nội ứng cho quân Minh.
 *   **1404:** Hồ Hán Thương hạ lệnh đào Liên Cảng (kênh Sen) từ Tân Bình đến Thuận Hóa, nhưng do đất cát đùn lên nên không thành.
 *   **1404:** Vua Hồ Hán Thương xuống chiếu quy định tổ chức thi Hội định kỳ ba năm một lần, tạo lập một chu kỳ tuyển chọn nhân tài thường xuyên cho đất nước.
+*   **1404:** Đóng chiến thuyền lớn "Cổ Lâu thuyền tải lương" có hai tầng để chiến đấu và vận tải. Lệnh biên chế những người không có ruộng thành "đội cùng nhân" để khai khẩn đất hoang.
 *   **02/1404:** Hồ Hán Thương quy định lại cách thức thi cử, lần đầu tiên đưa môn toán vào nội dung thi chính thức.
 *   **06/1404:** Hồ Hán Thương ra lệnh lập 4 kho quân khí và đóng thuyền đinh sắt để phòng bị quân Minh.
 *   **09/1404:** Nhà Hồ định lại biên chế quân đội, lập Nam ban và Bắc ban, chia cấm vệ quân thành các đội do Đại tướng quân thống lĩnh.
 *   **1405:** Nhà Minh yêu sách đòi lại đất châu Lộc. Hồ Quý Ly phải cắt 59 thôn ở Cổ Lâu trả lại. Ngoài ra, các thổ quan do nhà Minh đặt bị nhà Hồ bí mật hạ độc giết chết. Tháng 7, sứ giả nhà Hồ sang Nam Kinh xin giảng hòa nhưng thất bại. Tháng 9, Hồ Hán Thương lệnh đóng cọc ở cửa sông Bạch Hạc để phòng quân Minh.
+*   **1405:** Hồ Quí Ly (70 tuổi) ban tước và tiền bạc cho các phụ lão từ 70 tuổi trở lên để tranh thủ lòng dân.
+*   **06/1405 (Ất Dậu):** Lập 4 kho chứa vũ khí và xưởng chế tạo vũ khí tại Tây Đô. Khuyến khích người dân tham gia chế tạo súng thần cơ (do Hồ Nguyên Trừng sáng chế).
+*   **07/1405 (Ất Dậu):** Hồ Quí Ly và Hồ Hán Thương đích thân đi tuần tra xem xét địa thế, núi sông, cửa biển để bố phòng chống quân Minh.
+*   **09/1405 (Ất Dậu):** Xây đắp thành Đa Bang (Sơn Tây) kiên cố và hệ thống chướng ngại vật dài gần 400km dọc các sông lớn. Quy định lại tổ chức biên chế quân đội thành 4 binh chủng.
 *   **04/1406:** Nhà Minh sai Hàn Quan và Hoàng Trung đem 10 vạn quân xâm lược Đại Ngu dưới danh nghĩa đưa Trần Thiêm Bình về nước. Ngày 8 tháng 4 (âm lịch), giặc đánh vào Lãnh Kinh. Quân nhà Hồ ban đầu tổn thất nặng, nhưng sau đó phản công bất ngờ từ Vũ Cao, buộc quân Minh lùi bước. Quân nhà Hồ chặn ở ải Chi Lăng, ép quân Minh giao nộp Trần Thiêm Bình rồi mới cho rút. Trần Thiêm Bình bị xử lăng trì.
 *   **07/1406:** Hồ Hán Thương lệnh đóng cọc ở phía nam sông Cái và chỉ thị nhân dân các lộ phía Bắc thực hiện "vườn không nhà trống" để triệt nguồn tiếp tế của quân Minh.
 *   **09/1406:** Nhà Minh cử đại quân (phao tin 80 vạn, thực tế khoảng 21,5 vạn) do Trương Phụ và Mộc Thạnh chỉ huy, tiến vào theo 2 đường. Nhiều người Việt bất mãn với nhà Hồ, trong đó có Mạc Thúy và Nguyễn Huân, đã ra hàng và làm hướng đạo cho quân Minh.

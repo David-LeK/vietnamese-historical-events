@@ -326,52 +326,136 @@
 *   **1329:** Scholar Ly Te Xuyen completed the *Viet Dien U Linh Tap* (Collection of the Potent Spirits of the Viet Realm), preserving key historical legends and spiritual heritage of Vietnam.
 *   **Mar. 18, 1329:** Tran Minh Tong abdicated the throne in favor of Crown Prince Tran Vuong (later Tran Hien Tong).
 *   **1330:** Prince Tran Nhat Duat, a prominent general and diplomat known for his knowledge of foreign languages and cultures, passed away.
+*   **1336:** Le Quy Ly (later Ho Quy Ly) was born in Dai Lai, Vinh Loc (now in Thanh Hoa), courtesy name Ly Nguyen. His ancestor was Ho Hung Dat (Magistrate of Chau Dien during the Later Han dynasty); his 12th-generation descendant Ho Liem was adopted by Le Huan and took the surname Le, which the family bore for 4 generations until restoring the Ho surname in 1400.
+*   **1341:** Emperor Tran Hien Tong passed away. Prince Tran Hao ascended the throne as Emperor Tran Du Tong. The Tran dynasty began to decline.
 *   **Sep. 24, 1341:** Emperor Emeritus Tran Minh Tong abdicated the throne in favor of Prince Tran Hao (later Tran Du Tong).
 *   **Oct. 1341:** King Tran Du Tong ordered the compilation of the *Hoang trieu dai dien* and *Hinh thu*.
 *   **Nov. 6, 1341:** Emperor Trần Hiến Tông died without an heir. The retired emperor Trần Minh Tông assumed power.
+*   **1342:** Champa King Che A Nan passed away. Tra Hoa Bo De fought for the throne with Che Mo and became the King of Champa (until 1360).
+*   **1343:** Due to drought and crop failure, people suffered from famine and rebelled everywhere, especially the domestic slaves of nobles and aristocrats.
+*   **Feb. 1344:** Ngo Be led a bandit organization and rebelled at Yen Phu mountain (Hai Hung), which was suppressed the following year.
+*   **May 1346:** Ai Lao forces raided the border areas.
+*   **1352:** Che Mo of Champa fled to Dai Viet to offer tributes and requested assistance to defeat Bo De.
 *   **1353:** Fa Ngum unified the Lao mueang and established the Kingdom of Lan Xang, initiating an important period of relations on the western border.
+*   **Jun. 1353:** Emperor Tran Du Tong dispatched troops to escort Che Mo back to his country, but they were defeated by Bo De's forces at Co Luy.
+*   **Sep. 1353:** Champa forces under Bo De attacked Hoa Chau but were repelled by Truong Han Sieu.
+*   **1354:** A severe famine occurred. A man named Te, claiming to be the maternal grandson of Tran Quoc Tuan, gathered runaway domestic slaves and rebelled from Lang Giang to Nam Sach.
+*   **Feb. 1357:** Retired Emperor Tran Minh Tong passed away. Emperor Tran Du Tong began a life of debauchery and indulgence.
+*   **1358:** Ngo Be's forces recovered and rebelled again at Yen Phu mountain, occupying a large area from Thien Lieu to Chi Linh.
+*   **1360:** Che Bong Nga ascended the throne as the King of Champa.
+*   **Mar. 1360:** Ngo Be was captured and beheaded.
+*   **Dec. 1360:** Emperor Tran Du Tong issued an edict ordering all domestic slaves of nobles and princesses to be tattooed on their foreheads.
 *   **1361:** Champa under King Che Bong Nga began attacks and raids on Dai Viet, starting a long period of conflict.
+*   **Mar. 1361:** Champa forces crossed the sea and raided the Di Ly estuary (Quang Binh), but were defeated.
+*   **Jan. 1362:** Emperor Du Tong ordered nobles and princesses to present various forms of entertainment.
+*   **Mar. 1366:** Champa forces attacked Lam Binh but were defeated.
 *   **Jun. 1366:** King Tran Du Tong was robbed of his imperial seal and sword while on a pleasure trip to Me So, reflecting the decline in royal authority and security.
+*   **Dec. 1367:** Tran The Hung and Do Tu Binh commanded an army to attack Champa.
+*   **Feb. 1368:** Champa sent envoys to demand the return of old territories ceded in 1069 and 1306. The Tran court refused.
+*   **Apr. 1368:** The Tran army fell into an ambush in Chiem Dong. Tran The Hung was captured, and Do Tu Binh fled.
 *   **May 25, 1369:** Tran Du Tong died without an heir due to weakened health caused by excessive indulgence and intemperate lifestyle during his reign.
 *   **Jul. 18, 1369:** Duong Nhat Le (Tran Du Tong's adopted son) ascended the throne with the consent of Empress Dowager Hien Tu, following Du Tong's will.
+*   **Jan. 1370:** Ming Emperor Hongwu sent an envoy, Daoist Yan Yuanfu, with offerings to sacrifice to the deity of Mount Tan Vien and the water deity of the Lo River (completed in April).
+*   **1370:** Le Quy Ly (later Ho Quy Ly) entered the Tran court with the title of Chief Commander of the Imperial Guards.
 *   **Dec. 14, 1370:** Tran Phu (later Tran Nghe Tong) ascended the throne after Duong Nhat Le was deposed.
 *   **1371:** Champa forces led by Che Bong Nga attacked the capital Thang Long directly, plundering and burning down the palaces.
+*   **Mar. 1371:** Champa forces, led by Che Bong Nga, advanced by sea through the Dai An estuary and captured Thang Long for the first time.
+*   **May 1371:** Le Quy Ly was appointed as the Commissioner of the Privy Council.
+*   **Sep. 1371:** Le Quy Ly was granted the title of Marquis of Trung Tuyen Quoc.
 *   **Dec. 14, 1372:** Tran Nghe Tong abdicated the throne in favor of his younger brother, Crown Prince Tran Kinh (later Tran Due Tong).
+*   **Aug. 1373:** Bandits increasingly rebelled. Le Quy Ly ordered the construction of warships and began military reforms.
 *   **1374:** The court organized a doctoral examination, Dao Su Tich ranked as Trang Nguyen (First Laureate).
+*   **Aug. 1374:** The Tran court recruited more troops and reorganized the army. Imperial guards had three black characters tattooed on their foreheads.
 *   **1375:** King Tran Due Tong changed Lam Binh prefecture to Tan Binh prefecture.
+*   **Jan. 1375:** Le Quy Ly was appointed by Emperor Tran Due Tong to concurrently hold the position of Military Advisor. He selected officials skilled in martial arts to serve as commanders regardless of whether they were royal family members.
+*   **Aug. 1375:** Le Quy Ly carried out fundamental military reforms, discharging old and weak soldiers, recruiting healthy ones, and forcing undocumented hired laborers into military service.
+*   **Dec. 1376:** Emperor Tran Due Tong personally led 120,000 troops to attack Champa. Le Quy Ly was in charge of transporting provisions.
+*   **Jan. 1377:** The Tran army attacked the Thi Nai estuary.
 *   **Apr. 4, 1377:** Emperor Trần Duệ Tông died in a battle against the Champa army. He personally commanded a large military campaign against Champa, but the campaign failed and he was killed in the Battle of Vijaya.
+*   **Apr. 1377:** Le Quy Ly fled back to Dai Viet. Retired Emperor Tran Nghe Tong placed Tran Phe De (De Hien) on the throne.
+*   **Jun. 1377:** Champa forces advanced to attack the Than Phu estuary and directly assaulted Thang Long for the second time.
+*   **May 1378:** Champa forces attacked Nghe An, and in June, they attacked Thang Long for the third time.
 *   **1378:** The Tran dynasty began collecting a poll tax (3 quan/person) due to the depleted national treasury.
 *   **Mar. 1378:** Crown Prince Trần Hiệu (later Emperor Trần Phế Đế) ascended the throne.
+*   **Feb. 1379:** Le Quy Ly was promoted to Deputy Minister of Works and concurrently acting Commissioner of the Privy Council. Nguyen Bo rebelled in Bac Giang but was quickly suppressed.
+*   **Feb. 1380:** Champa forces raided Nghe An, Dien Chau, and Thanh Hoa.
+*   **Apr. 1381:** Taking advantage of Champa raids, Ho Thuat gathered people to rebel in Dien Chau but was beheaded.
+*   **May 1380:** Le Quy Ly commanded the navy to defeat the Champa forces led by Che Bong Nga at the Ngu Giang river (Thanh Hoa). Qui Ly beheaded General Nguyen Kim Ngao to maintain strict military discipline. He was later appointed as the Supreme Commander of Hai Tay.
+*   **1381:** The Tran dynasty ordered healthy monks to be conscripted into the army to fight Champa.
+*   **Jun. 1381:** Retired Emperor Nghe Tong ordered the transfer of deity statues from various mausoleums to the grand mausoleum in Yen Sinh to avoid the Champa threat.
+*   **Feb. 1382:** Champa raided Thanh Hoa. The Dai Viet army defeated the Champa forces at the Than Dau estuary.
+*   **Jan. 1383:** Le Quy Ly commanded the naval fleet to attack Champa but encountered a storm, suffering damage to warships and forcing a retreat.
+*   **Jun. 1383:** Che Bong Nga led infantry troops to station in Quang Oai, threatening Thang Long. The Retired Emperor and the Emperor fled to Dong Ngan. Thang Long was plundered for the fourth time.
 *   **Sep. 10, 1385 (Aug. 6, Lunar Year of the Ox):** Le Loi was born in Lam Son (Thanh Hoa). According to legend, upon his birth, red light filled the house and a fragrance filled the village.
-*   **Jun. 12, 1388:** Emperor Trần Phế Đế was deposed, then imprisoned at Tư Phúc Pagoda and later killed on the orders of Emperor Emeritus Trần Nghệ Tông and Hồ Quý Ly.
-*   **Dec. 16, 1388:** Trần Nghệ Tông's son, Trần Ngung (later Emperor Trần Thuận Tông), ascended the throne.
+*   **Sep. 1384:** The Ming dynasty sent an envoy demanding Dai Viet supply 5,000 thach of provisions for its troops in Yunnan.
+*   **Mar. 1385:** The Ming dynasty demanded Dai Viet to hand over 20 monks.
+*   **Mar. 1386:** The Ming dynasty sent an envoy to demand high-quality fruit tree saplings, requested passage to attack Champa, and demanded 50 elephants.
+*   **Mar. 1387:** Le Quy Ly was granted the title of Dong binh chuong su (Prime Minister).
+*   **Jun. 12, 1388:** Emperor Trần Phế Đế was deposed, then imprisoned at Tư Phúc Pagoda and later killed on the orders of Emperor Emeritus Trần Nghệ Tông and Le Quy Ly.
+*   **Aug. 1389:** Nguyen Thanh proclaimed himself Linh Duc Vuong and rebelled in Luong Giang (Thanh Hoa). In September, Nguyen Ky rebelled in Nong Cong.
+*   **Oct. 1389:** Champa forces raided Thanh Hoa. The Dai Viet army commanded by Le Quy Ly suffered a heavy defeat, and Quy Ly fled back to the court.
+*   **Nov. 1389:** Tran Khat Chan was appointed to command the Long Tiep army to fight Champa.
+*   **Dec. 1389:** Pham Su On launched an uprising in Quoc Oai, capturing Thang Long for three days. The Tran emperor had to flee.
+*   **Early 1390:** Le Quy Ly married off his eldest daughter, Thanh Ngau, to Emperor Tran Thuan Tong as the Empress (who later gave birth to Tran Thieu De). After the Champa threat was neutralized, he was appointed Grand Preceptor and Regent (Nhap noi Phu chinh Thai su), dominating key positions in the court and military.
 *   **1390:** General Tran Khat Chan commanded the battle on the Hai Trieu River (Luoc River), using firearms to kill the Champa king Che Bong Nga.
+*   **Dec. 16, 1388:** Trần Nghệ Tông's son, Trần Ngung (later Emperor Trần Thuận Tông), ascended the throne.
+*   **Feb. 1391:** Le Quy Ly patrolled Hoa Chau. Grand Commandant Trang Dinh Vuong Ngac was killed.
+*   **Dec. 1392:** Le Quy Ly authored the book *Minh Dao* consisting of 14 chapters, elevating the Duke of Zhou, diminishing Confucius's role, and criticizing Neo-Confucian ideology. Doan Xuan Loi criticized it and was exiled.
+*   **Feb. 1394:** Retired Emperor Nghe Tong ordered artisans to paint the "Tu Phu" (Four Tutors) picture and presented it to Quy Ly, hoping he would wholeheartedly assist the emperor.
+*   **Nov. 1394:** Retired Emperor Tran Nghe Tong passed away.
+*   **1395:** The Ming dynasty sent troops to attack the Man people in Longzhou, demanding Dai Viet to provide 50,000 troops, 50 elephants, and 500,000 thach of provisions. The Tran emperor refused, only supplying a small amount of rice.
+*   **1395:** Le Quy Ly appointed himself as Regent Grand Preceptor and Prince of Tuyen Trung Ve Quoc.
+*   **Apr. 1395:** Le Quy Ly translated the "Wu Yi" (Against Leisure) chapter from the Book of Documents into Nom script to teach Emperor Tran Thuan Tong.
+*   **Jun. 1395:** A regulation was issued forbidding officials from wearing wide-sleeved robes, only allowing narrow-sleeved ones.
 *   **1396:** For the first time in the history of Vietnam's civil service examinations, Emperor Tran Thuan Tong established regulations for the "Cu nhan" (Bachelor) examination, officially decentralizing the system into regional examinations (thi Huong) and metropolitan examinations (thi Hoi).
-*   **04/1396:** Under the policy led by Hồ Quý Ly (when he was Prime Minister), the royal court issued paper money called "Thông bảo hội sao." This was the first time paper money was circulated in Vietnam.
-*   **01/1397:** Hồ Quý Ly implemented the land limitation policy (hạn điền), restricting the amount of private land owned by princes and aristocrats (no more than 10 mẫu—a unit of area).
-*   **03/1397:** Hồ Quý Ly began constructing the Western Capital (Tây Đô) (Hồ Dynasty Citadel, Vĩnh Lộc, Thanh Hóa) and prepared to move the capital city.
-*   **Apr. 1397:** Under the direction of Ho Quy Ly, the court carried out major administrative reforms, changing routes (lo) to circuits (tran) and reorganizing the levels of prefectures (phu), sub-prefectures (chau), and districts (huyen).
+*   **04/1396:** Under the policy led by Le Quy Ly (when he was Prime Minister), the royal court issued paper money called "Thông bảo hội sao." This was the first time paper money was circulated in Vietnam.
+*   **Apr. 1396:** A total ban on using copper coins was enforced. Examination reforms were implemented: defining a four-stage examination format and abolishing the recitation of classical prose.
+*   **Jun. 1396:** Reforms on the attire of civil and military officials were carried out, classifying colors and styles according to ranks.
+*   **Aug. 1396:** The Tran army attacked Champa, capturing General Bo Dong.
+*   **Nov. 1396:** Le Quy Ly compiled the book *Quoc ngu Thi nghia* (translating and explaining the Book of Odes in Nom script).
+*   **01/1397:** Le Quy Ly implemented the land limitation policy (hạn điền), restricting the amount of private land owned by princes and aristocrats (no more than 10 mẫu—a unit of area).
+*   **Jan. 1397:** Le Quy Ly ordered Do Tinh to survey the land at An Ton cave (Thanh Hoa) to build the Tay Do capital.
+*   **03/1397:** Le Quy Ly began constructing the Western Capital (Tây Đô) (Hồ Dynasty Citadel, Vĩnh Lộc, Thanh Hóa) and prepared to move the capital city.
+*   **Apr. 1397:** Under the direction of Le Quy Ly, the court carried out major administrative reforms, changing routes (lo) to circuits (tran) and reorganizing the levels of prefectures (phu), sub-prefectures (chau), and districts (huyen).
+*   **May 1397:** The Tran emperor issued an edict to reform education, appointing educational officials in prefectures and sub-prefectures in Son Nam, Kinh Bac, and Hai Dong, and granting school lands to cover educational expenses.
+*   **Nov. 1397:** Emperor Tran Thuan Tong was forced to move the capital to Tay Do (Thanh Hoa). Thang Long was renamed Dong Do.
 *   **1398:** For the first time in history, the court ordered a nationwide land survey.
-*   **April 1398:** Ho Quy Ly forced Emperor Tran Thuan Tong to abdicate in favor of his two-year-old son, Tran Thieu De, and then forced him to retire to a secluded place in Thanh Hoa.
-*   **May 1399:** Ho Quy Ly sent his trusted general, Pham Kha Vinh, to the former emperor's residence. Pham Kha Vinh attempted to force Tran Thuan Tong to commit suicide by poison, but failed. Finally, Pham Kha Vinh strangled the former emperor to death. Tran Thuan Tong was buried at Yen Sinh mausoleum.
-*   **Jun. 1399:** Ho Quy Ly proclaimed himself *Quoc To Chuong Hoang De*, adopting imperial regalia and using a gold parasol, foreshadowing his usurpation.
+*   **April 1398:** Le Quy Ly forced Emperor Tran Thuan Tong to abdicate in favor of his two-year-old son, Tran Thieu De, and then forced him to retire to a secluded place in Thanh Hoa.
+*   **Mar. 1398:** Emperor Thieu De ascended the throne at Bao Thanh Palace. The court conducted a nationwide land survey (lasting until 1403).
+*   **May 1399:** Le Quy Ly sent his trusted general, Pham Kha Vinh, to the former emperor's residence. Pham Kha Vinh attempted to force Tran Thuan Tong to commit suicide by poison, but failed. Finally, Pham Kha Vinh strangled the former emperor to death. Tran Thuan Tong was buried at Yen Sinh mausoleum.
+*   **May 1399:** A mutiny occurred at the Don Son Oath Ceremony. Grand Tutor Tran Hang and Tran Khat Chan failed in their plot to assassinate Le Quy Ly. Over 370 people were executed.
+*   **Jun. 1399:** Le Quy Ly proclaimed himself *Quoc To Chuong Hoang De*, adopting imperial regalia and using a gold parasol, foreshadowing his usurpation.
+*   **Aug. 1399:** Nguyen Nhu Cai counterfeited paper money and gathered over ten thousand people to rebel in Lap Thach, Day River, and Ba Vi, but failed.
+*   **Sep. 1399:** Le Quy Ly ordered the planting of thorny bamboos as an outer defensive wall protecting Tay Do. A patrol station was established on the Dai Lai River.
 
 ### **Ho Dynasty and Reforms Period (1400 - 1407)**
 
-*   **Feb. 28, 1400:** Ho Quy Ly forced King Tran Thieu De to abdicate, proclaimed himself king, established the era name Thanh Nguyen, changed the national name to Dai Ngu, and officially founded the Ho dynasty.
+*   **Feb. 28, 1400:** Le Quy Ly deposed his maternal grandson Emperor Tran Thieu De, proclaimed himself king, and established the era name Thanh Nguyen. He officially restored his original family surname to **Ho Quy Ly**, founded the Ho dynasty, and renamed the nation to **Dai Ngu** (meaning "Great Peace and Happiness", derived from the legend tracing the Ho lineage to Emperor Shun, a ruler renowned for bringing peace and prosperity).
+*   **Mid-1400:** The Ho emperor established a covert security network, appointing Censors (Liem phong su) in all routes to monitor officials and the populace.
 *   **Aug. 1400:** The Ho dynasty attacked Champa with 150,000 troops led by Do Man and Tran Tung but failed due to starvation in the mountainous terrain.
 *   **Aug. 1400:** The Ho court organized the first Thai hoc sinh (National University student) examination, passing 20 people, including Nguyen Trai.
-*   **Dec. 1400:** Ho Quy Ly ceded the throne to his son Ho Han Thuong, proclaiming himself Retired Emperor. Ho Han Thuong began taxing merchant ships.
+*   **Dec. 1400:** Ho Quy Ly ceded the throne to his son Ho Han Thuong, proclaiming himself Retired Emperor but retaining absolute power. The court began taxing merchant ships according to three tiers.
+*   **1401:** The Ever-Normal Granary (Thuong binh) was established, using paper money to buy and store rice for famine relief and market price stabilization. The penal code of Dai Ngu was formulated.
 *   **Mar. 1401:** Ho Han Thuong issued a decree "limiting household slaves," regulating the number of slaves allowed based on official rank.
+*   **Apr. 1401:** The Ho dynasty ordered the re-establishment of nationwide household registers, including all males from 2 years old and up, as a basis for military conscription.
+*   **1402:** Ho Han Thuong reformed the poll tax and land tax. The poll tax was levied based on land area; landless people, orphans, and widows were exempted. The Nam Giao sacrifice ceremony was re-established at Don Son. Royal court music was organized.
+*   **Mar. 1402:** A courier route was built from Tay Do to Hoa Chau (Thua Thien), establishing relay stations and trading posts along the way.
 *   **Jul. 1402:** The Ho dynasty attacked Champa for the second time. The Champa king Ba Dich Lai yielded Chiem Dong and Co Luy to seek peace. The Ho court divided this area into four prefectures: Thang, Hoa, Tu, and Nghia, forcing Champa people south and moving landless people from the north to settle the new lands.
 *   **1403:** The Ho dynasty attacked Champa for the third time with 200,000 troops. General Pham Nguyen Khoi besieged Cha Ban citadel for 9 months but failed due to lack of supplies. On the way back, the Ho navy encountered the Ming fleet sent to rescue Champa but avoided conflict. The Ming dynasty began preparing to invade Dai Ngu.
+*   **1403:** The sorcerer Tran Duc Huy was executed by lingchi for practicing superstitions and secretly adding names of border patrol guards to the military register. The position of Market Supervisor (Thi giam) was established, measurement tools were standardized, and laws penalizing those who refused paper money were enacted.
 *   **Sep. 1403:** King Ho Han Thuong established the **Quang Te** office, a state-run medical service using acupuncture and moxibustion to treat diseases for the people.
+*   **Oct. 1403:** The Ho dynasty executed the relatives of eunuchs (previously handed over to the Ming dynasty) after discovering they were acting as spies and insiders for the Ming forces.
 *   **1404:** Ho Han Thuong ordered the digging of the Lien Cang canal connecting Tan Binh and Thuan Hoa, but the project was abandoned due to constant sand silting.
 *   **1404:** Emperor Ho Han Thuong issued an edict stipulating that the metropolitan examination (thi Hoi) be held every three years, establishing a regular cycle for selecting national talent.
+*   **1404:** Large warships called "Co Lau thuyen tai luong" with two decks for combat and transport were built. Landless individuals were organized into "pauper squads" to reclaim wasteland.
 *   **Feb. 1404:** Ho Han Thuong revised the examination system, for the first time including mathematics as an official examination subject.
 *   **Jun. 1404:** Ho Han Thuong ordered the establishment of four armories and the construction of iron-clad ships to defend against the Ming.
 *   **Sep. 1404:** The Ho dynasty reorganized the army, establishing Nam ban and Bac ban, dividing the royal guards into regiments and companies under a Grand General.
 *   **1405:** The Ming dynasty demanded the return of Loc prefecture. Ho Quy Ly ceded 59 villages of Co Lau. Additionally, local Ming-appointed officials were secretly poisoned by the Ho dynasty. In July, Ho envoys failed to negotiate peace in Nanjing. In September, Ho Han Thuong ordered wooden stakes driven at the Bach Hac river mouth to defend against Ming invasion.
+*   **1405:** Ho Quy Ly (at age 70) bestowed titles and money upon elders aged 70 and above to win the people's hearts.
+*   **Jun. 1405:** Four armories and weapons manufacturing workshops were established in Tay Do. Citizens were encouraged to participate in manufacturing the "Than co" firearms (invented by Ho Nguyen Trung).
+*   **Jul. 1405:** Ho Quy Ly and Ho Han Thuong personally patrolled the terrain, rivers, and estuaries to deploy defenses against the Ming army.
+*   **Sep. 1405:** The heavily fortified Da Bang Citadel (Son Tay) and a nearly 400km-long obstacle system along major rivers were built. The military organization was restructured into four service branches.
 *   **Apr. 1406:** The Ming dynasty sent Han Guan and Huang Zhong with 100,000 troops to invade Dai Ngu, under the pretext of escorting Tran Thiem Binh. On April 8 (lunar), they attacked Lanh Kinh. The Ho army initially suffered heavy losses, but a surprise counterattack from Vu Cao forced the Ming army to retreat. The Ho army intercepted them at Chi Lang pass, forcing the Ming to hand over Tran Thiem Binh, who was later executed by lingchi.
 *   **Jul. 1406:** Ho Han Thuong ordered wooden stakes driven south of the Cai river and instructed people in northern regions to implement a "scorched earth" policy to deny supplies to the impending Ming invasion.
 *   **Sep. 1406:** The Ming dynasty sent a large army (claimed to be 800,000, realistically around 215,000) under Zhang Fu and Mu Sheng, advancing in two columns. Many disgruntled Vietnamese, including Mac Thuy and Nguyen Huan, surrendered and assisted the Ming.
