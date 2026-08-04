@@ -1400,6 +1400,7 @@
 *   **15/11/1929:** An Nam Cộng sản Đảng được thành lập tại Sài Gòn.
 *   **19/12/1929:** Đặng Thị Kim (tên thường gọi là Đặng Thị Oanh) sinh ra tại làng Hành Thiện, xã Xuân Hồng, huyện Xuân Trường, tỉnh Nam Định. Bà sau này trở thành nữ chiến sĩ cách mạng kiên trung và Anh hùng Lực lượng vũ trang nhân dân.
 *   **1930:** Cù Chính Lan, người sau này trở thành anh hùng diệt xe tăng huyền thoại, sinh ra trong một gia đình nông dân nghèo ở xã Quỳnh Đôi, huyện Quỳnh Lưu, tỉnh Nghệ An. Mồ côi mẹ từ năm 4 tuổi, ông lớn lên trong cảnh nghèo đói dưới ách bóc lột hà khắc của chế độ thực dân phong kiến, rèn luyện nên tính cách cần cù, nhẫn nại và kiên cường.
+*   **1930:** Lưu Tấn Phát gia nhập Đảng Cộng sản, tích cực tham gia các hoạt động cách mạng tại Mỹ Tho.
 *   **1930 - 1932:** Các tàu chiến *Inconstant*, *Alerte*, *La Malicieuse* và *De Lanessan* của hải quân Pháp liên tiếp thực hiện các cuộc tuần tiễu và khẳng định chủ quyền tại quần đảo Hoàng Sa.
 *   **01/01/1930:** Đông Dương Cộng sản Liên đoàn chính thức thành lập tại Hà Tĩnh.
 *   **02/1930:** Cuộc khởi nghĩa Yên Bái do Việt Nam Quốc dân Đảng lãnh đạo nổ ra và thất bại.
@@ -1433,6 +1434,7 @@
 *   **21/12/1932:** Nguyễn Thanh (tên thường gọi là Nguyễn Văn Lượm), nguyên mẫu lịch sử của bài thơ "Lượm" nổi tiếng do Tố Hữu sáng tác, sinh ra tại Quy Nhơn. Cậu sau này trở thành đội viên du kích và là biểu tượng bất tử của thế hệ thiếu niên liên lạc dũng cảm trong kháng chiến chống Pháp.
 *   **28/12/1932:** Nguyễn Ái Quốc được trả tự do tại Hồng Kông.
 *   **1933:** Ở tuổi 17, Đinh Thị Vân tham gia hoạt động cách mạng, làm giao thông liên lạc, cất giữ tài liệu bí mật của Đảng và tham gia tổ chức nhóm "ái hữu tương tế", nuôi dưỡng, bảo vệ cán bộ cách mạng tại địa phương.
+*   **1933:** Huỳnh Tấn Phát thi đỗ vào khoa Kiến trúc, Trường Cao đẳng Mỹ thuật Đông Dương.
 *   **03/1933:** Hà Huy Tập (bút danh Hồng Thế Công) công bố tác phẩm *Sơ thảo lịch sử phong trào cộng sản Đông Dương*.
 *   **13/04/1933:** Một hạm đội nhỏ của Hải quân Pháp do Trung tá De Lattre chỉ huy rời Sài Gòn để chính thức chiếm hữu quần đảo Trường Sa với các nghi thức truyền thống.
 *   **02/05/1933:** Vua Bảo Đại ra đạo Dụ cải tổ bộ máy Nam triều, lập ra nội các mới gồm các Thượng thư như Phạm Quỳnh, Ngô Đình Diệm.
@@ -1458,6 +1460,7 @@
 *   **28/02/1937:** Tuần dương hạm *Lamotte-Picquet* của Pháp tiến hành thăm dò quần đảo Hoàng Sa và nhận thấy các đảo đều hoang vắng. Nhà chức trách quân sự kết luận rằng Pháp không thể dung thứ cho bất kỳ sự chiếm đóng nào của nước ngoài tại đây.
 *   **05/05/1937:** Tổng Bí thư Hà Huy Tập (bút danh Thanh Hương) xuất bản tác phẩm *Tờrốtxky và phản cách mạng*.
 *   **1938:** Nguyễn Ái Quốc trở lại Trung Quốc, hoạt động trong Bát lộ quân.
+*   **1938:** Huỳnh Tấn Phát tốt nghiệp thủ khoa ngành Kiến trúc, Trường Cao đẳng Mỹ thuật Đông Dương.
 *   **02/1938:** Đại Việt Dân chính Đảng được thành lập.
 *   **29/02/1938:** Vua Bảo Đại ra Dụ số 10, tách quần đảo Hoàng Sa khỏi địa hạt tỉnh Nam Ngãi và sáp nhập vào tỉnh Thừa Thiên để thuận tiện quản lý.
 *   **29-30/03/1938:** Hội nghị Ban Chấp hành Trung ương Đảng quyết định đổi tên Mặt trận thành Mặt trận Dân chủ Đông Dương và bầu đồng chí Nguyễn Văn Cừ làm Tổng Bí thư.
@@ -1480,7 +1483,7 @@
 *   **28/09/1939:** Toàn quyền Đông Dương ra nghị định đặt Đảng Cộng sản Đông Dương ra ngoài vòng pháp luật, bắt đầu thời kỳ khủng bố trắng.
 *   **06-08/11/1939:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ VI tại Bà Điểm (Hóc Môn), quyết định chuyển hướng chiến lược, đặt nhiệm vụ giải phóng dân tộc lên hàng đầu và thành lập Mặt trận Dân tộc Thống nhất Phản đế Đông Dương.
 *   **10/12/1939:** Đại Việt Quốc dân Đảng được thành lập.
-*   **1940:** Kiến trúc sư **Huỳnh Tấn Phát** mở văn phòng kiến trúc sư tư đầu tiên của người Việt ở Sài Gòn.
+*   **1940:** Kiến trúc sư Huỳnh Tấn Phát mở văn phòng kiến trúc sư tư đầu tiên của người Việt ở Sài Gòn. Cùng năm, Lưu Tấn Phát là một trong những hạt nhân nòng cốt của Khởi nghĩa Nam Kỳ tại xã nhà ở Tiền Giang.
 *   **01/02/1940:** Nguyễn Văn Trỗi sinh tại làng Thanh Quýt, huyện Điện Bàn, tỉnh Quảng Nam. Ông sau này trở thành chiến sĩ biệt động Sài Gòn quả cảm, người có khí tiết lẫm liệt trước pháp trường trở thành biểu tượng của lòng yêu nước.
 *   **22/06/1940:** Chính phủ Pháp đầu hàng phát xít Đức.
 *   **09/1940:** Việt Nam Kiến quốc quân (lực lượng vũ trang của Phục quốc Hội) tiến đánh Lạng Sơn.
@@ -1488,12 +1491,15 @@
 *   **27/09/1940:** Cuộc khởi nghĩa Bắc Sơn nổ ra.
 *   **06-09/11/1940:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ VII tại Đình Bảng (Bắc Ninh), quyết định duy trì lực lượng vũ trang Bắc Sơn và hoãn cuộc khởi nghĩa Nam Kỳ.
 *   **23/11/1940:** Cuộc khởi nghĩa Nam Kỳ bùng nổ nhưng bị thực dân Pháp đàn áp dã man. Lá cờ đỏ sao vàng lần đầu tiên xuất hiện.
+*   **1941:** Kiến trúc sư Huỳnh Tấn Phát đoạt giải nhất cuộc thi thiết kế khu Trung tâm Hội chợ Triển lãm Đông Dương tại Sài Gòn.
 *   **13/01/1941:** Cuộc binh biến Đô Lương do Đội Cung lãnh đạo nổ ra ở Nghệ An.
 *   **28/01/1941:** Lãnh tụ Nguyễn Ái Quốc trở về nước tại Pắc Bó (Cao Bằng) sau 30 năm hoạt động ở nước ngoài để trực tiếp lãnh đạo cách mạng.
 *   **10-19/05/1941:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ VIII tại Pắc Bó (Cao Bằng) do Nguyễn Ái Quốc chủ trì, hoàn chỉnh đường lối giải phóng dân tộc và quyết định thành lập Mặt trận Việt Nam Độc lập Đồng minh (Việt Minh).
+*   **Giữa năm 1942:** Bị địch theo dõi, Lưu Tấn Phát nghỉ dạy học, trở về Mỹ Tho làm nghề sửa đồng hồ để làm vỏ bọc hoạt động cách mạng.
 *   **08/1942:** Lấy tên Hồ Chí Minh, Người sang Trung Quốc tranh thủ sự ủng hộ quốc tế nhưng bị chính quyền địa phương bắt giam. Trong thời gian bị tù, Người viết tập thơ *Nhật ký trong tù*.
 *   **01/10/1942:** Việt Nam Cách mệnh Đồng minh Hội (Việt Cách) được thành lập tại Liễu Châu (Trung Quốc), tập hợp nhiều đảng phái yêu nước.
 *   **1943:** Đảng Cộng sản Đông Dương công bố bản *Đề cương về Văn hóa Việt Nam*.
+*   **1943:** Lưu Tấn Phát mở tiệm đồng hồ "Tấn Phát" tại Mỹ Tho, nơi đây trở thành cơ sở bí mật để chắp nối với các đồng chí cách mạng.
 *   **1943:** Ông Nguyễn Tuất chuyển vào làm việc tại Bưu điện Nha Trang, đưa gia đình và cậu con trai 11 tuổi Nguyễn Văn Lượm đi theo. Lượm tiếp tục học tại đây 2 năm. Giấy căn cước bằng song ngữ Pháp - Việt của Lượm được cấp trong năm này để ứng thí các bằng cấp Pháp - Việt ở Trung Kỳ.
 *   **01/01/1943:** Đại Việt Duy dân Cách mệnh Đảng được thành lập.
 *   **Đầu năm 1943:** Đại Việt Phục hưng Hội được thành lập.
@@ -1503,12 +1509,14 @@
 *   **27/10/1943:** Bác sĩ Trần Văn Lai bị chính quyền thực dân Pháp bắt giam tại Hỏa Lò, sau đó đày lên nhà tù Sơn La vì các hoạt động yêu nước.
 *   **01/12/1943:** Tuyên cáo Cairo được công bố bởi Mỹ, Anh và Trung Quốc, khẳng định ý định buộc Nhật Bản trả lại các lãnh thổ đã chiếm đoạt của Trung Hoa Dân quốc (Mãn Châu, Đài Loan, Bành Hồ). Đáng chú ý, quần đảo Hoàng Sa và Trường Sa không được nhắc đến trong bản tuyên cáo này để trả lại cho Trung Quốc.
 *   **1944:** Ở tuổi 13, sau khi cha mất, Nguyễn Thị Út (Út Tịch) với sự hỗ trợ của cán bộ Việt Minh đã chuộc thân khỏi gia đình địa chủ Hàm Giỏi, thoát khỏi cảnh nô tỳ.
+*   **1944:** Huỳnh Tấn Phát làm Chủ nhiệm tuần báo *Thanh niên*, sử dụng tờ báo để tuyên truyền lòng yêu nước trong thanh niên.
 *   **Đầu năm 1944:** Đại Việt Quốc gia Liên minh được thành lập, bao gồm Đại Việt Quốc xã, Đại Việt Quốc dân Đảng và Đại Việt Dân chính Đảng.
 *   **30/06/1944:** Đảng Dân chủ Việt Nam được thành lập, tập hợp tầng lớp tư sản dân tộc và trí thức yêu nước tham gia Mặt trận Việt Minh.
 *   **Cuối năm 1944 - Đầu năm 1945:** Tiếp tục dưới sự chỉ đạo của Xứ ủy Bắc Kỳ và Chi bộ Nhà tù Sơn La, phong trào cách mạng tại Sơn La đã phát triển được 60 cơ sở trong toàn tỉnh. Hội "Người Thái cứu quốc" (Côn tay chất mương) được thành lập, lấy cảm hứng từ tấm gương hy sinh anh dũng của Lò Văn Giá.
 *   **22/12/1944:** Đội Việt Nam Tuyên truyền Giải phóng quân, tiền thân của Quân đội Nhân dân Việt Nam, được thành lập tại khu rừng Trần Hưng Đạo (Cao Bằng).
 *   **24-25/12/1944:** Đội Việt Nam Tuyên truyền Giải phóng quân đánh thắng hai trận đầu tiên tại Phay Khắt và Nà Ngần.
 *   **1945 - 1946:** Nguyễn Văn Lượm (nguyên mẫu "chú bé Lượm") đi hoạt động cách mạng tại Nha Trang và thoát ly gia đình từ đó. Gia đình hoàn toàn bặt tin tức của cậu cho đến tận ngày miền Nam hoàn toàn giải phóng.
+*   **03/1945:** Huỳnh Tấn Phát được kết nạp vào Đảng Cộng sản Đông Dương.
 *   **09/03/1945:** Nhật đảo chính Pháp trên toàn cõi Đông Dương.
 *   **09/03/1945:** Sau cuộc đảo chính của Nhật, đơn vị phòng vệ Đông Dương trên quần đảo Hoàng Sa đã bị hải quân Nhật bắt làm tù binh.
 *   **09-12/03/1945:** Ban Thường vụ Trung ương Đảng họp và ra chỉ thị lịch sử "Nhật - Pháp bắn nhau và hành động của chúng ta", phát động cao trào kháng Nhật cứu nước.
@@ -1522,6 +1530,7 @@
 *   **17/07 - 02/08/1945:** Hội nghị Pôtxđam quyết định quân Đồng minh sẽ vào Việt Nam giải giáp quân đội Nhật.
 *   **20/07/1945:** Bác sĩ Trần Văn Lai chính thức nhậm chức, trở thành Thị trưởng người Việt đầu tiên của Hà Nội dưới thời Đế quốc Việt Nam. Trong chưa đầy một tháng tại vị, ông đã thực hiện các cải cách lịch sử: dùng tiếng Việt làm ngôn ngữ hành chính, đổi tên các đường phố sang tên danh nhân Việt Nam, giật đổ các tượng đài thực dân Pháp, và đặt tên Quảng trường Ba Đình (nơi sau này diễn ra Lễ Độc lập).
 *   **26/07/1945:** Tuyên ngôn Potsdam được công bố, phác thảo các điều kiện đầu hàng vô điều kiện của Nhật Bản, trong đó buộc Nhật Bản phải từ bỏ các vùng lãnh thổ đã chiếm đoạt bằng vũ lực.
+*   **08/1945:** Lưu Tấn Phát nhiệt tình tham gia tổng khởi nghĩa ở Mỹ Tho và gia nhập lực lượng vũ trang, hiến toàn bộ tài sản cho cách mạng.
 *   **08/1945:** Lê Thị Riêng bắt đầu tham gia cách mạng từ những ngày đầu của Cách mạng tháng Tám, hoạt động dưới vỏ bọc thợ dệt ở xưởng dệt Láng Tròn.
 *   **08/1945:** Đinh Thị Vân, lúc này là cán bộ Việt Minh, đã tích cực vận động quần chúng tham gia tổng khởi nghĩa ở hai huyện Xuân Trường và Giao Thủy (Nam Định). Sau Cách mạng tháng Tám, bà tham gia công tác xây dựng chính quyền mới ở địa phương.
 *   **13-15/08/1945:** Hội nghị toàn quốc của Đảng Cộng sản Đông Dương tại Tân Trào, quyết định phát động Tổng khởi nghĩa giành chính quyền trên cả nước.
@@ -1531,6 +1540,7 @@
 *   **19/08/1945:** Tổng khởi nghĩa thắng lợi ở Hà Nội (Cách mạng tháng Tám).
 *   **23/08/1945:** Khởi nghĩa thắng lợi ở Huế.
 *   **24/08/1945:** Huỳnh Tấn Phát thiết kế và chỉ đạo xây dựng Kỳ đài tại ngã tư Nguyễn Huệ - Lê Lợi (Sài Gòn) để ghi danh 11 ủy viên Lâm ủy Nam Bộ.
+*   **25/08/1945:** Huỳnh Tấn Phát tham gia lãnh đạo cuộc khởi nghĩa giành chính quyền thắng lợi ở Sài Gòn.
 *   **25/08/1945:** Khởi nghĩa thắng lợi ở Sài Gòn.
 *   **26/08/1945:** Hòa cùng khí thế của Cách mạng tháng Tám, cuộc khởi nghĩa giành chính quyền ở Sơn La đã diễn ra thắng lợi.
 *   **28/08/1945:** Ủy ban Dân tộc Giải phóng cải tổ thành Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa. 20 vạn quân Tưởng Giới Thạch do Lư Hán chỉ huy bắt đầu kéo vào miền Bắc Việt Nam (từ vĩ tuyến 16 trở ra).
@@ -1549,12 +1559,15 @@
 *   **11/09/1945:** Tướng Gracey, chỉ huy quân đội Anh, đến Sài Gòn.
 *   **16/09/1945:** "Tuần lễ vàng" bắt đầu, vận động nhân dân đóng góp tài chính cho đất nước.
 *   **Đêm 22 rạng 23/09/1945:** Quân Pháp, được sự giúp đỡ của quân Anh, nổ súng đánh chiếm Sài Gòn.
-*   **23/09/1945:** Xứ ủy và Ủy ban nhân dân Nam Bộ họp tại đường Cây Mai (Chợ Lớn), quyết định phát động toàn dân kháng chiến. Cuộc kháng chiến ở Nam Bộ bắt đầu.
+*   **23/09/1945:** Xứ ủy và Ủy ban nhân dân Nam Bộ họp tại đường Cây Mai (Chợ Lớn), quyết định phát động toàn dân kháng chiến. Cuộc kháng chiến ở Nam Bộ bắt đầu. Cùng ngày, Huỳnh Tấn Phát bị quân Pháp bắt khi chúng chiếm lại Sài Gòn, nhưng ông được trả tự do sau 3 ngày do có uy tín lớn.
 *   **26/09/1945:** Chủ tịch Hồ Chí Minh ra Lời kêu gọi đồng bào Nam Bộ kháng chiến. Chi đội Nam tiến đầu tiên rời Hà Nội lên đường vào Nam chiến đấu.
+*   **10/1945:** Huỳnh Tấn Phát làm Trưởng đoàn đại biểu Thanh niên Nam Bộ ra Hà Nội dự Đại hội Thanh niên toàn quốc.
 *   **25/10/1945:** Xứ ủy Nam Bộ họp hội nghị cán bộ ở Thiên Hộ (Mỹ Tho), đề ra phương hướng kháng chiến lâu dài.
 *   **11/11/1945:** Đảng Cộng sản Đông Dương tuyên bố "tự giải tán", thực chất là rút vào hoạt động bí mật.
 *   **25/11/1945:** Ban Thường vụ Trung ương Đảng ra Chỉ thị "Kháng chiến kiến quốc", xác định kẻ thù chính và nhiệm vụ trước mắt của cách mạng.
 *   **1946:** Sau khi thực dân Pháp trở lại xâm lược Việt Nam, Cù Chính Lan trở thành thế hệ thanh niên đầu tiên trong xã tình nguyện nhập ngũ. Ông nhanh chóng nổi bật trong học tập, công tác và chiến đấu, được đồng đội hết lòng mến phục.
+*   **1946:** Huỳnh Tấn Phát bị thực dân Pháp bắt và kết án 2 năm tù tại Khám Lớn (Sài Gòn), nơi ông đóng vai trò quan trọng trong việc thành lập "Liên đoàn tù nhân".
+*   **01/1946:** Huỳnh Tấn Phát được bầu làm đại biểu Quốc hội khóa I nước Việt Nam Dân chủ Cộng hòa, đại diện cho tỉnh Mỹ Tho.
 *   **01/01/1946:** Chính phủ lâm thời cải tổ thành Chính phủ liên hiệp lâm thời, có thêm thành viên của Việt Quốc và Việt Cách.
 *   **06/01/1946:** Cuộc Tổng tuyển cử đầu tiên bầu Quốc hội khóa I diễn ra trên cả nước.
 *   **31/01/1946:** Chính phủ ra Sắc lệnh cho phép phát hành giấy bạc Việt Nam tại vùng tự do Nam Trung Bộ.
@@ -1632,6 +1645,7 @@
 *   **09/10/1947:** Bộ đội Việt Nam bắn rơi một máy bay Ju-52 của Pháp tại Cao Bằng, tiêu diệt 12 sĩ quan tham mưu và thu được bản kế hoạch tiến công Việt Bắc của địch.
 *   **24/10/1947:** Pháo binh Việt Nam phục kích bắn chìm 2 tàu chiến Pháp trên sông Lô tại Đoan Hùng, cắt đứt tuyến đường thủy của địch.
 *   **29/10/1947:** Quân đội Việt Nam giành thắng lợi lớn trong trận phục kích ở đèo Bông Lau trên đường số 4, phá hủy đoàn xe 30 chiếc và diệt khoảng 250 lính địch.
+*   **11/1947:** Sau khi ra tù, Huỳnh Tấn Phát tiếp tục hoạt động cách mạng tại Sài Gòn, phụ trách công tác trí vận và báo chí.
 *   **20/11/1947:** Pháp mở đợt tấn công mới mang tên Ceinture càn quét khu tứ giác Tuyên Quang - Thái Nguyên - Phủ Lạng Thương - Việt Trì.
 *   **Cuối năm 1947:** Tại Đại hội Đảng bộ Xứ ủy Nam Bộ, đồng chí Lê Duẩn được bầu làm Bí thư Xứ ủy. Ông đã đề ra nhiều chủ trương quan trọng về mở rộng chiến tranh nhân dân, thực hiện dân chủ ở nông thôn và tăng cường công tác xây dựng Đảng.
 *   **Cuối năm 1947 (20/10 hoặc 11/12):** Trận đánh tại cầu Suối Vối (An Khê, Bình Định). Anh hùng Ngô Mây đã hy sinh thân mình ôm bom lao thẳng vào xe thiết giáp của quân Pháp. Hành động quả cảm của ông đã phá hủy chiếc xe và tiêu diệt hơn một trung đội lính Âu Phi, làm xoay chuyển tình thế chiến đấu và mang lại thắng lợi cho quân đội Việt Nam.
@@ -1651,6 +1665,7 @@
 *   **1949 (hoặc 1952):** Bài thơ bốn chữ nổi tiếng "Lượm" được nhà thơ Tố Hữu sáng tác. Dù một số bản in ghi năm 1949 hoặc 1950, hồi ký sau này của Tố Hữu cho biết ông viết bài thơ vào năm 1952 sau khi nghe tin người cháu họ Nguyễn Văn Lượm anh dũng hy sinh trong lúc ông dự Hội nghị Trung ương lần thứ 3 (21/01/1952). Bài thơ đã khắc họa thành công hình tượng người chiến sĩ liên lạc nhỏ tuổi lạc quan, yêu đời và dũng cảm.
 *   **1949:** Cha của Vừ A Dính là ông Vừ Chống Lầu bị thực dân Pháp thủ tiêu tại nhà tù Sơn La. Cùng năm, mẹ ông là bà Sùng Thị Plây cùng 8 người thân trong gia đình bị quân Pháp xử bắn sau khi bị phát hiện bí mật tiếp tế đạn dược cho lực lượng kháng chiến.
 *   **20/01/1949:** Quân đội Lào Ítxala (tiền thân của Quân đội Nhân dân Lào) được thành lập.
+*   **Đầu năm 1949:** Huỳnh Tấn Phát thoát ly gia đình ra chiến khu Đồng Tháp để tiếp tục hoạt động cách mạng.
 *   **08/03/1949:** Hiệp ước Élysée được ký kết giữa Tổng thống Pháp Vincent Auriol và cựu hoàng Bảo Đại, thành lập "Quốc gia Việt Nam" trong khối Liên hiệp Pháp.
 *   **04/1949:** Hoàng thân Bửu Lộc, Đổng lý văn phòng của Cựu hoàng Bảo Đại, đã công khai khẳng định lại các quyền của Việt Nam đối với quần đảo Trường Sa trong một cuộc họp báo tại Sài Gòn.
 *   **23/04/1949:** Đại tướng Võ Nguyên Giáp ra bản Mệnh lệnh mở Chiến dịch Thập Vạn Đại Sơn nhằm phối hợp giúp Giải phóng quân Trung Quốc đánh tàn quân Quốc dân Đảng. Đây là nhiệm vụ quốc tế đầu tiên của Quân đội nhân dân Việt Nam. Trước khi lên đường, Chủ tịch Hồ Chí Minh đã căn dặn Tư lệnh chiến dịch Lê Quảng Ba: "Cẩn thận, bí mật, đoàn kết, hữu nghị, thắng lợi".
@@ -1661,6 +1676,7 @@
 *   **28/08/1949:** Đại đoàn 308 (Đại đoàn Quân Tiên phong), đại đoàn chủ lực đầu tiên của Quân đội nhân dân Việt Nam, được thành lập.
 *   **01/10/1949:** Nước Cộng hòa Nhân dân Trung Hoa được thành lập.
 *   **12/1949:** Lực lượng Việt Minh mở Chiến dịch Cầu Kè (chiến dịch công kích lớn đầu tiên ở Nam Bộ). Nguyễn Thị Út (Út Tịch) làm trinh sát, giao liên cho tổ chức Công an xung phong, góp phần gây nhiều tổn thất cho quân Pháp.
+*   **1950:** Huỳnh Tấn Phát được bầu làm Ủy viên Ban Chấp hành Đảng bộ Đặc khu Sài Gòn - Chợ Lớn, trực tiếp phụ trách Đài Phát thanh Tiếng nói Sài Gòn - Chợ Lớn tự do.
 *   **09/01/1950:** Hàng ngàn học sinh, sinh viên biểu tình tại Sài Gòn đòi trả tự do cho các học sinh bị bắt. Cuộc biểu tình bị đàn áp, học sinh Trần Văn Ơn trúng đạn hy sinh. Đám tang anh vào ngày 12/01 đã thu hút hàng chục vạn người từ khắp các tỉnh Nam Bộ tham gia, trở thành một cuộc biểu dương lực lượng khổng lồ chống thực dân Pháp và tay sai.
 *   **14/01/1950:** Chủ tịch Hồ Chí Minh ra Tuyên bố, sẵn sàng đặt quan hệ ngoại giao với các nước.
 *   **18/01/1950:** Trung Quốc công nhận và thiết lập quan hệ ngoại giao với nước Việt Nam Dân chủ Cộng hòa.
@@ -1747,6 +1763,7 @@
 *   **10 - 12/12/1953:** Bộ đội Việt Nam tiêu diệt nhóm tàn quân Thái rút chạy tại Mường Pồn (10/12) và tiến vào giải phóng thị xã Lai Châu (12/12) sau khi quân Pháp rút về Điện Biên Phủ.
 *   **19/12/1953:** Chủ tịch Hồ Chí Minh ký sắc lệnh số 197-SL ban hành **Luật Cải cách ruộng đất**.
 *   **1954:** Sau Hiệp định Genève, vợ chồng Út Tịch được phân công ở lại miền Nam. Bị chính quyền Ngô Đình Diệm đàn áp, bà cùng nhiều phụ nữ khác đã đấu tranh buộc chính quyền thả chồng và bạn chiến đấu. Trong khi đó, Lê Thị Riêng cũng tiếp tục tham gia các phong trào cách mạng chống Mỹ - Diệm tại miền Nam.
+*   **1954:** Sau Hiệp định Giơnevơ, cả Huỳnh Tấn Phát và Lưu Tấn Phát đều được phân công ở lại miền Nam để lãnh đạo cuộc đấu tranh chống chế độ Mỹ - ngụy.
 *   **1954:** Chính quyền Việt Nam Cộng hòa tiếp quản Côn Đảo và tiếp tục sử dụng nơi đây làm nhà tù, với các "chuồng cọp" nổi tiếng tàn bạo. Chính quyền Việt Nam Cộng hòa cũng tiếp tục phát triển Phú Quốc và xây dựng trại giam tù binh lớn nhất lúc bấy giờ.
 *   **1954:** Lê Thị Tuyết (Trà Cú) cùng chồng là Nguyễn Văn Nguy được đưa đi học chính trị tại Cà Mau.
 *   **26/01/1954:** Tại mặt trận Điện Biên Phủ, Bộ Chỉ huy chiến dịch quyết định thay đổi phương châm tác chiến từ "đánh nhanh thắng nhanh" sang **"đánh chắc, tiến chắc"**.
@@ -1808,6 +1825,7 @@
 *   **22/10/1956:** Việt Nam Cộng hòa ban hành sắc lệnh sáp nhập quần đảo Hoàng Sa vào tỉnh Phước Tuy.
 *   **26/10/1956:** Ngô Đình Diệm ban hành hiến pháp, chính thức thành lập chính thể "Việt Nam Cộng hòa".
 *   **22/11/1956:** Thủ tướng Quốc vụ viện Trung Quốc Chu Ân Lai sang thăm chính thức Việt Nam, tuyên bố hoàn toàn ủng hộ cuộc đấu tranh của nhân dân miền Nam Việt Nam và lên án mạnh mẽ sự can thiệp của Mỹ.
+*   **Cuối năm 1956:** Huỳnh Tấn Phát được bổ sung vào Khu ủy Sài Gòn - Chợ Lớn, phụ trách Ban Trí vận và Chính quyền vận.
 *   **1957:** Liệt sĩ Đặng Thị Kim được Chính phủ cấp Bằng Tổ quốc ghi công nhằm ghi nhận sự hy sinh anh dũng của bà cho đất nước.
 *   **1957:** Tỉnh đội Tây Ninh cài Bùi Văn Thuyên (khi đó 17 tuổi) vào làm điệp báo bên trong căn cứ Tua Hai của Việt Nam Cộng hòa. Bằng sự khôn khéo, ông đã lấy được lòng tin của viên trung tá đồn trưởng, trở thành con nuôi và nắm rõ toàn bộ cách bố trí hỏa lực, kho đạn và lối đi trong căn cứ.
 *   **20/03/1957:** Chính phủ Tiệp Khắc ra tuyên bố hoàn toàn ủng hộ lập trường của Chính phủ Việt Nam, đòi thi hành nghiêm chỉnh Hiệp định Giơ-ne-vơ. Tiếp theo đó, Chính phủ Ba Lan (06/04/1957) và CHDC Đức (21/01/1959) cũng ra các tuyên bố đoàn kết và ủng hộ tương tự.
@@ -1822,6 +1840,7 @@
 *   **14/09/1958:** Thủ tướng Chính phủ Việt Nam Dân chủ Cộng hòa Phạm Văn Đồng gửi công hàm cho Thủ tướng Trung Quốc Chu Ân Lai, ghi nhận và tán thành bản tuyên bố ngày 04/09/1958 của Trung Quốc về hải phận 12 hải lý. Mặc dù công hàm chỉ đề cập đến chiều rộng lãnh hải, Trung Quốc sau này thường xuyên vin vào đó để cho rằng Việt Nam Dân chủ Cộng hòa đã công nhận chủ quyền của Trung Quốc đối với Hoàng Sa và Trường Sa.
 *   **01/12/1958:** Vụ thảm sát Phú Lợi xảy ra, chế độ Mỹ - Diệm đầu độc hàng ngàn tù nhân chính trị, gây phẫn nộ lớn và thúc đẩy phong trào đấu tranh cách mạng.
 *   **1959 - 1960:** Phong trào **"Đồng khởi"** bùng nổ mạnh mẽ ở các vùng nông thôn miền Nam, bắt đầu từ Bến Tre, phá vỡ từng mảng lớn bộ máy cai trị của địch ở cơ sở.
+*   **1959:** Huỳnh Tấn Phát hoạt động tại vùng "Tam giác sắt" (Củ Chi - Trảng Bàng - Bến Cát).
 *   **1959 - 1960:** Mạng lưới tình báo do Đinh Thị Vân phụ trách đã điều tra tỉ mỉ hệ thống phòng ngự của quân đội Sài Gòn ở nam vĩ tuyến 17, cung cấp thông tin quan trọng hỗ trợ cho việc mở đường Trường Sơn.
 *   **01/1959:** Hội nghị lần thứ 15 Ban Chấp hành Trung ương Đảng Lao động Việt Nam ra nghị quyết lịch sử, xác định con đường cách mạng miền Nam là sử dụng bạo lực cách mạng, kết hợp đấu tranh chính trị với đấu tranh vũ trang để giành chính quyền.
 *   **04/1959:** Hội nghị lần thứ 16 Ban Chấp hành Trung ương Đảng Lao động Việt Nam ra nghị quyết về cải tạo xã hội chủ nghĩa đối với công thương nghiệp tư bản tư doanh ở miền Bắc.
@@ -1836,6 +1855,7 @@
 *   **17/01/1960:** Cuộc Đồng khởi nổ ra tại ba xã Định Thủy, Phước Hiệp, Bình Khánh thuộc huyện Mỏ Cày, tỉnh Bến Tre, dưới sự lãnh đạo trực tiếp của bà **Nguyễn Thị Định**, sau đó lan rộng ra toàn tỉnh và khắp Nam Bộ.
 *   **Đêm 25 rạng sáng 26/01/1960:** Dựa trên thông tin tình báo do Bùi Văn Thuyên cung cấp từ bên trong, lực lượng cách mạng (hơn một tiểu đoàn) đã bất ngờ tấn công và diệt gọn căn cứ Tua Hai (nơi đóng quân của Trung đoàn 3, Sư đoàn 21 VNCH). Quân cách mạng loại khỏi vòng chiến đấu hơn 500 tên địch, bắt sống trên 700 tên và thu 1.500 khẩu súng. Trận đánh lịch sử này là một trong những phát súng mở màn cho phong trào Đồng khởi ở Nam Bộ.
 *   **03/02/1960:** Bị địch nghi ngờ sau trận Tua Hai, Bùi Văn Thuyên rút ra vùng căn cứ cách mạng. Ông trở thành chiến sĩ đơn vị C40 và được cử đi học lớp huấn luyện đặc công.
+*   **Đầu năm 1960:** Lưu Tấn Phát được phân công làm Tỉnh đội phó Tỉnh đội Mỹ Tho, góp phần củng cố lực lượng vũ trang địa phương.
 *   **23/02/1960:** Thực hiện nghị quyết của Xứ ủy, Quận ủy Củ Chi phát động đồng khởi với lời kêu gọi "nhất tề đứng dậy, diệt tề phá kềm, giải phóng nông thôn".
 *   **09/1960:** **Đại hội đại biểu toàn quốc lần thứ III** của Đảng Lao động Việt Nam họp tại Hà Nội, đề ra hai nhiệm vụ chiến lược:
     *   Tiến hành cách mạng xã hội chủ nghĩa ở miền Bắc.
@@ -1853,6 +1873,7 @@
 *   **1961 - 1975:** Trong suốt cuộc kháng chiến chống Mỹ, Cuba đều đặn viện trợ cho Việt Nam khoảng 50.000 tấn đường mỗi năm và cử bác sĩ sang chăm sóc thương binh. Gần một triệu sinh viên Việt Nam được cho là đã học tập tại Cuba trong giai đoạn này.
 *   **1961:** Liệt sĩ Đặng Thị Kim được Nhà nước Việt Nam Dân chủ Cộng hòa truy tặng Huân chương Kháng chiến hạng Ba.
 *   **1961:** Mỹ bắt đầu **Chiến dịch Ranch Hand**, rải chất độc hóa học (trong đó có chất độc màu da cam) xuống miền Nam Việt Nam nhằm phá hủy thảm thực vật và mùa màng, gây ra hậu quả nghiêm trọng và lâu dài về môi trường và sức khỏe con người.
+*   **1961:** Huỳnh Tấn Phát làm Chủ tịch Ủy ban Mặt trận Dân tộc Giải phóng khu Sài Gòn - Gia Định.
 *   **01/1961:** Tổng thống Mỹ John F. Kennedy nhậm chức, đề ra chiến lược "Phản ứng linh hoạt", trong đó có hình thức **"Chiến tranh đặc biệt"** để áp dụng ở miền Nam Việt Nam.
 *   **01/1961:** Hội nghị Trung ương Đảng lần thứ 3 quyết định thành lập Trung ương Cục miền Nam thay cho Xứ ủy Nam Bộ để trực tiếp lãnh đạo cách mạng miền Nam.
 *   **24/01/1961:** Bộ Chính trị ra Chỉ thị về phương hướng và nhiệm vụ công tác trước mắt của cách mạng miền Nam, chuyển phương châm từ đấu tranh chính trị là chủ yếu sang đẩy mạnh đấu tranh vũ trang song song với đấu tranh chính trị.
@@ -1870,6 +1891,7 @@
 *   **1962:** Mỹ và chính quyền Sài Gòn ráo riết thực hiện chương trình dồn dân, lập **"Ấp chiến lược"**, coi đây là "xương sống" của chiến lược "Chiến tranh đặc biệt".
 *   **1962:** Thiều Văn Chỏi (Sáu Chỏi), sinh ra trong gia đình nông dân nghèo tại ấp 7, xã Ba Trinh, huyện Kế Sách, tỉnh Sóc Trăng, bắt đầu tham gia hoạt động cách mạng với vai trò chiến sĩ du kích địa phương.
 *   **1962:** Chiến sĩ biệt động Sài Gòn Trần Văn Lai (bí danh Mai Hồng Quế) mua ba căn nhà liền kề trên đường Nguyễn Đình Chiểu (Sài Gòn) để bí mật đào hầm ngầm, sau này cất giấu hơn 2,5 tấn vũ khí phục vụ Tổng tiến công Tết Mậu Thân 1968.
+*   **1962:** Huỳnh Tấn Phát được bầu làm Phó Chủ tịch đoàn Ủy ban Trung ương Mặt trận Dân tộc Giải phóng miền Nam Việt Nam.
 *   **08/02/1962:** Mỹ thành lập **Bộ Chỉ huy Viện trợ Quân sự tại Việt Nam (MACV)** do Tướng Paul Harkins chỉ huy để trực tiếp điều hành cuộc chiến.
 *   **09/02/1962:** Vượt lên nỗi đau xót trước sự hy sinh của chồng, Lê Thị Riêng ghi vào nhật ký quyết tâm chiến đấu vì hạnh phúc không tan, vì hòa bình để không còn ai phải chịu cảnh tang tóc, chia ly.
 *   **16/02 - 03/03/1962:** Đại hội lần thứ nhất Mặt trận Dân tộc Giải phóng miền Nam Việt Nam được tổ chức, bầu ra Ủy ban Trung ương chính thức do Luật sư Nguyễn Hữu Thọ làm Chủ tịch.
@@ -1952,6 +1974,7 @@
 *   **1966:** Chiến sĩ biệt động Trần Văn Lai bí mật xây dựng một căn hầm nổi tại một ngôi nhà ở Bà Chiểu, làm căn cứ chỉ huy dự bị cho cuộc Tổng tiến công Tết Mậu Thân 1968.
 *   **1966:** Mẹ Suốt được mời tham dự Đại hội Anh hùng, chiến sĩ thi đua toàn quốc tổ chức ở miền Bắc.
 *   **1966 - 1967:** Quốc hội Pháp thông qua luật ân xá (1966) cho những người liên quan đến chiến tranh Đông Dương và Algérie, xóa vĩnh viễn các tội danh cũ. Nhờ đó, Georges Boudarel bình tĩnh trở về Pháp vào năm 1967, bắt đầu sự nghiệp học thuật: giảng dạy và nghiên cứu lịch sử Việt Nam hiện đại tại Trường đại học Denis Diderot (Paris VII).
+*   **1966:** Lưu Tấn Phát, lúc này là Chủ nhiệm Hậu cần Quân khu 8, đã anh dũng hy sinh trên đường đi công tác tại Kiến Phong (nay thuộc Đồng Tháp).
 *   **02/01/1966:** Tại cuộc mít tinh của hơn 1 triệu người ở La Habana kỷ niệm 7 năm Cách mạng Cuba, Fidel Castro đã có câu nói bất hủ: "Vì Việt Nam, Cuba sẵn sàng hiến dâng cả máu của mình". Hàng nghìn thanh niên Cuba sau đó đã viết đơn tình nguyện xin đến Việt Nam chiến đấu.
 *   **08/01 - 19/01/1966:** Mỹ và quân đồng minh mở cuộc hành quân **Crimp** với 12.000 quân, xe tăng và B-52 yểm trợ đánh vào vùng "Tam giác sắt" (Củ Chi) nhằm tiêu diệt cơ quan đầu não Quân khu Sài Gòn - Gia Định. Lực lượng cách mạng dựa vào hệ thống địa đạo để phản kích, bảo toàn lực lượng.
 *   **09/01/1966:** Lính Nam Triều Tiên càn quét và gây ra vụ thảm sát tại thôn Kim Tài (Nhơn Phong, Bình Định), sát hại 37 thường dân.
@@ -2118,6 +2141,7 @@
 *   **07/04/1975:** Đại tướng Võ Nguyên Giáp ra mệnh lệnh lịch sử: "Thần tốc, thần tốc hơn nữa. Táo bạo, táo bạo hơn nữa...".
 *   **09 - 21/04/1975:** Trận Xuân Lộc - Long Khánh. Trận đánh có tổ chức cuối cùng của Quân lực Việt Nam Cộng hòa nhằm tử thủ "cánh cửa thép" bảo vệ ngõ phía Đông Sài Gòn. Sư đoàn 18 cùng các lực lượng dù, thiết giáp, biệt động quân dưới sự yểm trợ tàn khốc của không quân (ném khoảng 70.000 tấn bom, kể cả bom CBU-55) đã chống cự quyết liệt. Quân đoàn 4 Quân Giải phóng thay đổi chiến thuật đánh vu hồi, bao vây chia cắt, đánh chiếm ngã ba Dầu Giây, buộc quân Sài Gòn phải rút chạy vào ngày 21/04. Thất bại tại Xuân Lộc đánh dấu sự sụp đổ tuyến phòng thủ cuối cùng, dẫn đến việc Tổng thống Nguyễn Văn Thiệu từ chức cùng ngày và bỏ trốn khỏi đất nước (25/04).
 *   **10 - 29/04/1975:** Chiến dịch Trường Sa và các đảo trên Biển Đông. Theo chỉ đạo của Bộ Tổng tham mưu, Hải quân Nhân dân Việt Nam (Đoàn 126 đặc công và Tiểu đoàn 471) tổ chức tiến công giải phóng các đảo do quân đội Sài Gòn đóng giữ tại quần đảo Trường Sa. Bắt đầu từ đảo Song Tử Tây (14/04), quân Giải phóng lần lượt làm chủ các đảo Sơn Ca, Nam Yết, Sinh Tồn và Trường Sa Lớn (29/04), bảo vệ toàn vẹn chủ quyền biển đảo trong thời khắc lịch sử của dân tộc.
+*   **14/04/1975:** Huỳnh Tấn Phát, thay mặt Chính phủ Cách mạng Lâm thời, đọc diễn văn tại sân vận động Đà Lạt mừng thành phố được giải phóng.
 *   **14/04/1975:** Bộ Chính trị quyết định đặt tên chiến dịch giải phóng Sài Gòn - Gia Định là **"Chiến dịch Hồ Chí Minh"**.
 *   **17/04/1975:** Khmer Đỏ do Pol Pot cầm đầu chiếm được Phnôm Pênh, lật đổ chế độ Lon Nol và lập nên nước Campuchia Dân chủ. Khmer Đỏ lập tức lùa dân cư rời thành phố về nông thôn, mở đầu cho chế độ diệt chủng tàn bạo cướp đi sinh mạng của khoảng 1,7 triệu người Campuchia.
 *   **21/04/1975:** Nguyễn Văn Thiệu từ chức tổng thống.
@@ -2160,12 +2184,14 @@
     *   Thủ đô là Hà Nội, Quốc kỳ là cờ đỏ sao vàng, Quốc ca là bài *Tiến quân ca*.
     *   Ngày 02/07, chính thức thông qua quyết nghị đặt tên thành phố Sài Gòn - Gia Định là **Thành phố Hồ Chí Minh**, hiện thực hóa hành trình gần 30 năm ấp ủ kể từ lần đề xuất năm 1946.
     *   Bầu các cơ quan và chức vụ lãnh đạo cao nhất của Nhà nước.
+*   **07/1976:** Tại kỳ họp thứ nhất Quốc hội khóa VI, Huỳnh Tấn Phát được bầu làm Phó Thủ tướng Chính phủ của nước Việt Nam thống nhất.
 *   **03/07/1976:** Bà Nguyễn Thị Bình được bổ nhiệm làm Bộ trưởng Bộ Giáo dục của nước Cộng hòa Xã hội chủ nghĩa Việt Nam thống nhất. Bà giữ chức vụ này đến năm 1987, chỉ đạo công cuộc hợp nhất hệ thống giáo dục hai miền Nam - Bắc và tiến hành các cuộc cải cách giáo dục thời hậu chiến.
 *   **12/1976:** Chính phủ tiến hành chiến dịch cải tạo công thương nghiệp tư bản tư doanh lần thứ hai ở miền Nam.
 *   **12/1976:** Đại hội đại biểu toàn quốc lần thứ IV của Đảng được tổ chức tại Hà Nội.
     *   Đổi tên Đảng Lao động Việt Nam thành **Đảng Cộng sản Việt Nam**.
     *   Đề ra đường lối xây dựng chủ nghĩa xã hội trong cả nước và thông qua Kế hoạch 5 năm lần thứ hai (1976-1980).
 *   **1977:** Georges Boudarel xuất bản cuốn "Giáp", một công trình nghiên cứu lịch sử giá trị viết về Đại tướng Võ Nguyên Giáp.
+*   **1977:** Phó Thủ tướng Huỳnh Tấn Phát kiêm nhiệm chức vụ Trưởng Ban chỉ đạo Quy hoạch đô thị.
 *   **12/04/1977:** Ông Nguyễn Tuất làm "Tờ nhận tự khai" để xin sao y bản chính Bằng Tổ quốc ghi công của con trai do bản gốc năm 1958 bị hư hại trong chiến tranh. Giấy tờ này được chính quyền địa phương tại Nha Trang xác nhận, chính thức minh chứng nhân thân và sự hy sinh của nguyên mẫu "chú bé Lượm".
 *   **30/04/1977:** Quân chính quy Khmer Đỏ bất ngờ tiến sâu 10 km vào lãnh thổ Việt Nam tại tỉnh An Giang, đánh vào các đồn biên phòng và xã, thảm sát nhiều thường dân.
 *   **12/05/1977:** Chính phủ nước Cộng hòa Xã hội Chủ nghĩa Việt Nam ra tuyên bố về các vùng biển của mình, khẳng định các đảo và quần đảo là bộ phận lãnh thổ của Việt Nam và có vùng biển riêng.
@@ -2195,6 +2221,7 @@
 *   **07/01/1979:** Quân tình nguyện Việt Nam phối hợp cùng lực lượng vũ trang cách mạng Campuchia giải phóng Thủ đô Phnôm Pênh, chính thức lật đổ chế độ diệt chủng Pôn Pốt.
 *   **08/01/1979:** Hội đồng Nhân dân Cách mạng Campuchia do Heng Samrin làm Chủ tịch được thành lập với sự hậu thuẫn của Việt Nam sau khi Phnôm Pênh được giải phóng.
 *   **17/01/1979:** Toàn bộ đất nước Campuchia được giải phóng khỏi ách thống trị của Khmer Đỏ.
+*   **02/1979:** Phó Thủ tướng Huỳnh Tấn Phát kiêm nhiệm chức vụ Chủ nhiệm Ủy ban Xây dựng cơ bản Nhà nước và làm Đại diện thường trực của Việt Nam tại Hội đồng Tương trợ Kinh tế (SEV).
 *   **02/1979:** Tổng thống Philippin ban hành một sắc lệnh tuyên bố chủ quyền của Philippin đối với gần như toàn bộ quần đảo Trường Sa (ngoại trừ đảo Trường Sa lớn).
 *   **17/02/1979:** Trung Quốc huy động lực lượng khổng lồ (ước tính từ 30 vạn đến hơn 60 vạn quân) đồng loạt tấn công 6 tỉnh biên giới phía Bắc Việt Nam (Chiến tranh biên giới Việt - Trung). Quân Trung Quốc sử dụng chiến thuật "biển người" và pháo binh hạng nặng, tàn phá cơ sở hạ tầng. Bộ đội địa phương và dân quân tự vệ Việt Nam đã kháng cự vô cùng quyết liệt. Tại Cao Bằng, Thiếu úy Nguyễn Hữu Quế đã anh dũng ngã xuống ngay trong ngày đầu tiên chiến đấu bảo vệ cao điểm 815.
 *   **18/02/1979:** Việt Nam và Campuchia ký Hiệp ước hòa bình, hữu nghị và hợp tác.
@@ -2214,15 +2241,18 @@
 *   **18/12/1980:** Quốc hội khóa VI thông qua Hiến pháp năm 1980, Hiến pháp của thời kỳ quá độ lên chủ nghĩa xã hội.
 *   **13/01/1981:** Ban Bí thư ra Chỉ thị số 100/CT-TƯ ("Khoán 100") về việc cải tiến công tác khoán, mở rộng khoán sản phẩm đến nhóm và người lao động trong hợp tác xã nông nghiệp.
 *   **21/01/1981:** Hội đồng Chính phủ ra Quyết định số 25-CP, nhằm phát huy quyền chủ động sản xuất kinh doanh và quyền tự chủ tài chính của các xí nghiệp quốc doanh.
+*   **07/1981:** Huỳnh Tấn Phát được bầu làm Phó Chủ tịch Hội đồng Bộ trưởng (tương đương Phó Thủ tướng).
 *   **1982:** Ban Chấp hành Thành đoàn TP. Hồ Chí Minh quyết định lấy ngày 15/10 (ngày hy sinh của Nguyễn Văn Trỗi) làm Ngày Truyền thống Thanh niên Công nhân TP. Hồ Chí Minh và thành lập Giải thưởng Nguyễn Văn Trỗi dành cho công nhân trẻ tiêu biểu.
 *   **1982:** Việt Nam thành lập huyện Hoàng Sa trực thuộc tỉnh Quảng Nam - Đà Nẵng để quản lý quần đảo Hoàng Sa.
 *   **Đầu năm 1982:** Bất chấp cơ sở hạ tầng bị tàn phá nặng nề sau cuộc chiến năm 1979, các đơn vị quân đội đóng quân tại biên giới Cao Bằng đã tích cực giúp nhân dân khôi phục sản xuất nông nghiệp và ổn định đời sống.
 *   **03/1982:** Đại hội đại biểu toàn quốc lần thứ V của Đảng Cộng sản Việt Nam họp tại Hà Nội, đề ra Kế hoạch 5 năm lần thứ ba (1981-1985).
+*   **06/1982:** Huỳnh Tấn Phát được bầu làm Phó Chủ tịch Hội đồng Nhà nước.
 *   **06/1982:** Tân Hoa Xã của Trung Quốc đưa tin về việc hoàn thành một cảng lớn mới tại đảo Tri Tôn thuộc quần đảo Hoàng Sa, cho thấy quá trình quân sự hóa và phát triển cơ sở hạ tầng liên tục của Trung Quốc tại vùng lãnh thổ bị chiếm đóng.
 *   **28/09/1982:** Hội đồng Bộ trưởng ra quyết định lấy ngày 20 tháng 11 hàng năm làm Ngày Nhà giáo Việt Nam.
 *   **12/11/1982:** Cộng hòa Xã hội Chủ nghĩa Việt Nam ra tuyên bố xác định đường cơ sở dùng để tính chiều rộng lãnh hải, bao trùm cả các quần đảo.
 *   **09/12/1982:** Hội đồng Bộ trưởng Việt Nam ra các quyết định tái cơ cấu việc quản lý hành chính đối với các quần đảo.
 *   **23/02/1983:** Malaysia chính thức nêu yêu sách chủ quyền đối với ba hòn đảo ở Trường Sa, Việt Nam đã chính thức phản kháng vào ngày 25 tháng 3.
+*   **05/1983:** Huỳnh Tấn Phát được bầu làm Chủ tịch Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, đồng thời là Chủ tịch Hội Kiến trúc sư Việt Nam.
 *   **06/1983:** Quân đội Malaysia chiếm đóng đá Hoa Lau (Swallow Reef) ở Trường Sa và xây dựng các công trình. Việt Nam đã chính thức phản đối hành động này.
 *   **Mùa hè 1983:** Chiến sự lại rộ lên và diễn ra ác liệt ở vùng biên giới Hoàng Liên Sơn (Lào Cai) và Hà Tuyên (Hà Giang).
 *   **Cuối năm 1983:** Lính Trung Quốc thường xuyên gài mìn và dùng súng B41 bắn lén các xe cơ giới của Việt Nam đi qua các tuyến đường biên giới ở Mường Khương (Lào Cai).
@@ -2259,6 +2289,7 @@
 *   **05/1989:** Trung Quốc chiếm thêm một đảo nhỏ ở quần đảo Trường Sa, tiếp tục sự bành trướng kiểm soát sau cuộc đụng độ hải quân năm 1988.
 *   **08/1989:** Việt Nam hoàn thành việc xây dựng một cụm dịch vụ - kinh tế - khoa học kỹ thuật tại Trường Sa, nằm trên thềm lục địa của Việt Nam.
 *   **26/09/1989:** Những đơn vị Quân tình nguyện và chuyên gia quân sự Việt Nam cuối cùng chính thức hoàn thành việc rút toàn bộ quân khỏi Campuchia, kết thúc 10 năm thực hiện nghĩa vụ quốc tế giúp nước bạn hồi sinh sau thảm họa diệt chủng Khmer Đỏ.
+*   **30/09/1989:** Huỳnh Tấn Phát qua đời tại Thành phố Hồ Chí Minh.
 *   **1990 - 1993:** Khi Cuba rơi vào "Thời kỳ đặc biệt" với khủng hoảng kinh tế trầm trọng sau khi Liên Xô và khối xã hội chủ nghĩa Đông Âu sụp đổ, Việt Nam đã mở các chiến dịch ủng hộ Cuba, quyên góp 50.000 tấn gạo, quần áo, đồ dùng học tập, thể hiện tình đoàn kết thủy chung.
 *   **1990:** Khởi công xây dựng Nghĩa trang liệt sĩ quốc gia Vị Xuyên tại Hà Giang, nơi yên nghỉ của gần 2.000 liệt sĩ và là một địa chỉ đỏ giáo dục truyền thống cách mạng về cuộc chiến đấu bảo vệ biên giới phía Bắc.
 *   **15/03/1990:** Đại hội đại biểu nhân dân Liên Xô thông qua sửa đổi Điều 6 Hiến pháp, xóa bỏ vai trò lãnh đạo độc tôn của Đảng Cộng sản, chấp nhận đa nguyên chính trị.
@@ -2316,6 +2347,7 @@
 ### **Thời kỳ Đẩy mạnh Công nghiệp hóa, Hiện đại hóa (1996 - 2000)**
 
 *   **1996:** Sau khi chia tách tỉnh Quảng Nam - Đà Nẵng, huyện Hoàng Sa được đặt trực thuộc sự quản lý của thành phố trực thuộc trung ương Đà Nẵng.
+*   **1996:** Huỳnh Tấn Phát được truy tặng Giải thưởng Hồ Chí Minh về văn học, nghệ thuật (lĩnh vực kiến trúc) cho các tác phẩm quy hoạch thủ đô Hà Nội (1981) và nhiều công trình quan trọng khác.
 *   **29/01/1996:** Đảng và Nhà nước truy tặng danh hiệu Anh hùng Lực lượng Vũ trang Nhân dân cho đồng chí Thiều Văn Chỏi vì những chiến công đặc biệt xuất sắc.
 *   **06/1996:** Đại hội đại biểu toàn quốc lần thứ VIII của Đảng Cộng sản Việt Nam đề ra nhiệm vụ **đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước**.
 *   **1997:** **Cuộc khủng hoảng tài chính - tiền tệ khu vực** bắt đầu, gây ảnh hưởng tiêu cực đến nền kinh tế Việt Nam, làm suy giảm tốc độ tăng trưởng và thu hút đầu tư.
@@ -2408,6 +2440,7 @@
 *   **07/2012:** Nâng cấp quan hệ Đối tác chiến lược toàn diện với Liên bang Nga.
 *   **06/12/2012:** Tín ngưỡng thờ cúng Hùng Vương được UNESCO công nhận là di sản.
 *   **2013:** Trung Quốc bắt đầu đẩy mạnh việc bồi đắp và xây dựng các đảo nhân tạo ở Trường Sa, biến những rạn san hô thành các căn cứ quân sự kiên cố để tăng cường sự hiện diện và kiểm soát.
+*   **2013:** Huỳnh Tấn Phát được Đảng và Nhà nước truy tặng Huân chương Sao Vàng vì những cống hiến vĩ đại cho cách mạng.
 *   **22/01/2013:** Philippines chính thức đệ đơn kiện Trung Quốc lên Tòa Trọng tài Thường trực (PCA) tại La Haye, phản đối tính hợp pháp của "đường 9 đoạn" và các hoạt động của Trung Quốc trên Biển Đông theo Công ước UNCLOS.
 *   **02/2013:** Cáp treo Bà Nà Hills (Đà Nẵng) được Tổ chức Guinness World Records công nhận 4 kỷ lục thế giới.
 *   **30/04/2013:** Tổ chức Kỷ lục Guinness Thế giới chính thức công nhận Hang Sơn Đoòng là hang động lớn nhất thế giới.
