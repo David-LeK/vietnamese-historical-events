@@ -1618,6 +1618,7 @@
 *   **15/01/1947:** Lệnh ngừng bắn được thực hiện để Hoa kiều tản cư khỏi Hà Nội. Việt Minh tận dụng cơ hội rút một số cán bộ và lực lượng chiến đấu ra ngoài an toàn.
 *   **16/01/1947:** Quân đội Việt Nam tập kích sân bay Gia Lâm.
 *   **17 - 19/01/1947:** Thông báo hạm *Tonkinois* của Pháp đến đảo Phú Lâm và phát hiện quân đội Trung Quốc đang đồn trú. Chỉ huy Pháp đề nghị quân Trung Quốc rút đi nhưng bị từ chối. Ngày 19/1, tàu *Tonkinois* chuyển sang đảo Hoàng Sa (Pattle), nhận thấy đảo không người ở nên đã cho đổ bộ một đơn vị 20 lính Pháp và Việt Nam để thiết lập quyền kiểm soát.
+*   **Đầu năm 1947:** Nguyễn Thị Tuyết (quê ở xã Tô Hiệu, nay là Văn Tự, Thường Tín, Hà Nội) tham gia đội du kích và Hội Phụ nữ cứu quốc địa phương. Bà đã đào hầm bí mật ngay trong nhà để nuôi giấu cán bộ.
 *   **14/02/1947:** Quân Pháp mở cuộc tấn công ác liệt vào chợ Đồng Xuân, nơi các chiến sĩ quyết tử Việt Nam chiến đấu kiên cường để giữ từng tấc đất.
 *   **Đêm 17/02/1947:** Sau 60 ngày đêm chiến đấu ngoan cường, Trung đoàn Thủ đô thực hiện cuộc rút quân thần kỳ bằng cách lặng lẽ đi dưới gầm cầu Long Biên và vượt sông Hồng, sông Đuống để rút khỏi Hà Nội, bảo toàn lực lượng phục vụ kháng chiến lâu dài.
 *   **17/02/1947:** Mặt trận Thống nhất Quốc gia Liên hiệp được thành lập tại Nam Kinh (Trung Quốc) bởi các lãnh đạo Việt Cách và Việt Quốc để ủng hộ giải pháp Bảo Đại.
@@ -1635,6 +1636,7 @@
 *   **Cuối năm 1947:** Tại Đại hội Đảng bộ Xứ ủy Nam Bộ, đồng chí Lê Duẩn được bầu làm Bí thư Xứ ủy. Ông đã đề ra nhiều chủ trương quan trọng về mở rộng chiến tranh nhân dân, thực hiện dân chủ ở nông thôn và tăng cường công tác xây dựng Đảng.
 *   **Cuối năm 1947 (20/10 hoặc 11/12):** Trận đánh tại cầu Suối Vối (An Khê, Bình Định). Anh hùng Ngô Mây đã hy sinh thân mình ôm bom lao thẳng vào xe thiết giáp của quân Pháp. Hành động quả cảm của ông đã phá hủy chiếc xe và tiêu diệt hơn một trung đội lính Âu Phi, làm xoay chuyển tình thế chiến đấu và mang lại thắng lợi cho quân đội Việt Nam.
 *   **30/11/1947:** Bộ đội Việt Nam tập kích đồn Phủ Thông. Đây là trận đầu tiên quân Pháp bị tiêu diệt ngay trong công sự.
+*   **12/1947:** Đội du kích của Nguyễn Thị Tuyết cùng với bộ đội tỉnh Hà Đông chống càn 4 trận, phục kích đánh mìn 2 trận, diệt 2 toán hương dũng, cảm hóa 16 tên tề ngụy ra đầu hàng.
 *   **01/12/1947:** Tưởng Giới Thạch ký một sắc lệnh đặt tên tiếng Trung cho hai quần đảo và tuyên bố chúng là lãnh thổ Trung Quốc.
 *   **19/12/1947:** Đại bộ phận quân Pháp rút khỏi Việt Bắc, chiến dịch tấn công của địch hoàn toàn thất bại.
 *   **1948:** Lê Thị Riêng được kết nạp vào Đảng Cộng sản Việt Nam.
@@ -1670,6 +1672,7 @@
 *   **23/02/1950:** Raymonde Dien, một đảng viên trẻ của Đảng Cộng sản Pháp, đã nằm xoài trên đường ray tại nhà ga Saint-Pierre-des-Corps (Tours, Pháp) để chặn một đoàn tàu chở vũ khí sang Đông Dương. Bà bị bắt ngay trong ngày, nhưng hành động quả cảm này đã trở thành biểu tượng của phong trào quốc tế chống chiến tranh, ủng hộ Việt Nam.
 *   **19/03/1950:** Một cuộc biểu tình chống Mỹ và Pháp khổng lồ với khoảng nửa triệu người tham gia đã nổ ra tại Sài Gòn - Chợ Lớn. Dưới sự dẫn dắt của các trí thức như luật sư Nguyễn Hữu Thọ, cuộc biểu tình đã buộc hai tàu chiến Mỹ (soái hạm *Stickell* và khu trục hạm *Anderson*) phải nhổ neo rời khỏi cảng. Đây là cuộc biểu tình chống can thiệp Mỹ quy mô lớn đầu tiên tại Việt Nam.
 *   **04/1950:** Đơn vị đồn trú của quân đội Trung Hoa Dân quốc rút khỏi đảo Phú Lâm ở Hoàng Sa.
+*   **20/04/1950:** Thực dân Pháp dựng lên chi khu quân sự Tía (Thường Tín, Hà Nội) với một ủy ban chống cộng và nhiều đồn bốt vệ tinh, tăng cường càn quét làm cơ sở kháng chiến tổn thất nặng nề.
 *   **01/05/1950:** Tổng thống Mỹ Truman quyết định viện trợ quân sự trực tiếp 10 triệu USD cho Pháp ở Đông Dương.
 *   **06/1950:** Ban Thường vụ Trung ương Đảng quyết định mở chiến dịch Biên giới (Chiến dịch Lê Hồng Phong II).
 *   **16/09/1950:** Chiến dịch Biên giới bắt đầu bằng trận đánh tiêu diệt cứ điểm Đông Khê.
@@ -1714,6 +1717,8 @@
 *   **28 - 29/12/1951:** Cù Chính Lan tham gia trận đánh tiêu diệt đồn Cô Tô trong Chiến dịch Hòa Bình. Mặc dù bị thương rất nặng hai lần, ông vẫn dũng cảm xông lên phá liên tiếp 5 lớp hàng rào dây thép gai. Bị thương nặng lần thứ ba, ông kiên quyết không rời trận địa, tiếp tục chỉ huy và động viên tiểu đội tiến vào diệt địch. Ông đã anh dũng hy sinh ngay khi trận đánh vừa kết thúc thắng lợi. Năm đó ông tròn 20 tuổi, là tiểu đội trưởng bộ binh Đại đoàn 304, đảng viên Đảng Cộng sản Việt Nam.
 *   **1952:** Vừ A Dính được Chính phủ truy tặng Huân chương Quân công hạng ba.
 *   **1952:** Làng đúc đồng Ngũ Xã xin phép chính quyền Hà Nội dùng số đồng thu được từ các pho tượng thực dân Pháp (do Thị trưởng Trần Văn Lai cho giật đổ năm 1945) để đúc bức tượng Phật A Di Đà nặng 12.300 kg đặt tại chùa Phúc Long.
+*   **1952:** Nguyễn Thị Tuyết (Thường Tín) cùng bộ đội địa phương đánh địch ở bốt Tía, trực tiếp diệt 3 tên tề ngụy khét tiếng gian ác và làm bị thương 6 tên khác. Tính đến năm này, bà đã bị địch bắt 10 lần nhưng đều xử trí khôn khéo, một mực không khai báo cơ sở cách mạng.
+*   **1952:** Lê Thị Tuyết (sinh năm 1933 tại Thanh Sơn, Trà Cú, Trà Vinh) lập gia đình với ông Nguyễn Văn Nguy. Trong thời gian này, bà tích cực tham gia phong trào phụ nữ, hoạt động tải thương và hậu cần.
 *   **11/01/1952:** Tổng chỉ huy Pháp Tướng Jean de Lattre de Tassigny qua đời vì bạo bệnh tại Pháp.
 *   **26/03/1952:** Maurice Faure, báo cáo viên về luật phê chuẩn Hiệp ước Hòa bình San Francisco tại Quốc hội Pháp, cho rằng việc Nhật Bản từ bỏ quần đảo Hoàng Sa và Trường Sa khiến các đảo này trở thành *terra derelictae* (đất đai bị bỏ rơi). Quan điểm này mâu thuẫn với các tuyên bố khác của Pháp khẳng định các quần đảo thuộc Liên hiệp Pháp.
 *   **05/1952:** Tại Đại hội liên hoan Anh hùng và Chiến sĩ thi đua toàn quốc lần thứ nhất, Cù Chính Lan được Chính phủ và Chủ tịch Hồ Chí Minh truy tặng Huân chương Quân công hạng hai và Huân chương Kháng chiến hạng nhất vì tinh thần chủ nghĩa anh hùng cách mạng sáng ngời.
@@ -1724,13 +1729,16 @@
 *   **14/10 - 10/12/1952:** Mở **Chiến dịch Tây Bắc**. Các chiến thắng quan trọng gồm việc hạ phân khu Nghĩa Lộ (18/10), và đánh bại cuộc hành quân Lorraine của Pháp bằng trận phục kích Chân Mộng - Trạm Thản (17/11). Chiến dịch giải phóng một vùng rộng lớn bao gồm Điện Biên Phủ (30/11) và toàn tỉnh Sơn La (trừ Nà Sản), nối liền căn cứ địa Việt Bắc với Thượng Lào.
 *   **1953:** Lê Văn Ba trở về miền Nam chiến đấu và kết hôn với Lê Thị Riêng.
 *   **25-30/01/1953:** Ban Chấp hành Trung ương họp Hội nghị lần thứ tư, quyết định phát động quần chúng triệt để giảm tô, thực hiện giảm tức và chuẩn bị cho cải cách ruộng đất.
+*   **19/02/1953:** Nguyễn Thị Tuyết (Thường Tín) bị địch bắt lần thứ 11 và giam ở Nhà Tiền (Hà Nội). Bất chấp mọi đòn tra tấn dã man, bà vẫn giữ vững khí tiết và trốn thoát thành công một tháng sau đó để tiếp tục hoạt động.
 *   **12/04/1953:** Chủ tịch Hồ Chí Minh ký sắc lệnh phát động quần chúng triệt để giảm tô.
 *   **13/04 - 18/05/1953:** Quân đội nhân dân Việt Nam phối hợp với lực lượng Pathet Lào mở Chiến dịch Thượng Lào, giải phóng tỉnh Sầm Nưa, một phần Xiêng Khoảng và Phongxalì, mở rộng căn cứ kháng chiến của Lào, nối liền với vùng Tây Bắc Việt Nam.
 *   **05/1953:** Tướng Henri Navarre được cử làm Tổng chỉ huy quân đội Pháp ở Đông Dương.
 *   **01/06/1953:** Thủ tướng Chính phủ ra Thông tư số 277-TTg quy định về việc xử lý ruộng đất phân tán của địa chủ.
+*   **07/1953:** Trong lần nhận nhiệm vụ đưa Huyện đội trưởng Trần Quân về An Lãng, Nguyễn Thị Tuyết lọt vào ổ phục kích của địch và bị đưa về bốt Tía. Trước những lời dụ dỗ mua chuộc bằng tiền tài, danh vọng và các đòn tra tấn tàn bạo, bà vẫn kiên quyết không khuất phục.
 *   **24/07/1953:** **Kế hoạch Navarre**, với sự hậu thuẫn của Mỹ, được Hội đồng Quốc phòng Pháp thông qua nhằm giành thắng lợi quân sự quyết định trong vòng 18 tháng.
 *   **24/07/1953:** Bài viết "Xây dựng Đảng Lao động Việt Nam" của Chủ tịch Hồ Chí Minh được đăng trên Báo Cứu Quốc. Tác phẩm nhấn mạnh giáo dục và lãnh đạo tư tưởng là việc quan trọng nhất của Đảng, đồng thời cảnh báo kiên quyết chống lại khuynh hướng "tả" và "hữu".
 *   **08/1953:** Tại Pháp, 82% người dân đồng tình chấm dứt "cuộc chiến tranh bẩn thỉu" xâm lược Đông Dương, phản ánh sức mạnh của Đảng Cộng sản Pháp và phong trào hòa bình quốc tế ủng hộ nhân dân Việt Nam.
+*   **01/08/1953:** Khoảng 20 giờ, sau nhiều ngày bị tra tấn tàn bạo mà không khai thác được thông tin, quân địch đã chôn sống Nguyễn Thị Tuyết (Thường Tín) tại một hố cạnh bốt Tía.
 *   **09/1953:** Bộ Chính trị họp bàn về nhiệm vụ quân sự trong Đông - Xuân 1953-1954, đề ra phương châm chiến lược "Tích cực, chủ động, cơ động, linh hoạt".
 *   **14 - 23/11/1953:** Hội nghị toàn quốc lần thứ nhất của Đảng họp thảo luận và thông qua Cương lĩnh ruộng đất.
 *   **20/11/1953:** Quân Pháp nhảy dù chiếm đóng Điện Biên Phủ (Cuộc hành quân Castor), bắt đầu xây dựng nơi đây thành một tập đoàn cứ điểm mạnh nhất Đông Dương.
@@ -1740,6 +1748,7 @@
 *   **19/12/1953:** Chủ tịch Hồ Chí Minh ký sắc lệnh số 197-SL ban hành **Luật Cải cách ruộng đất**.
 *   **1954:** Sau Hiệp định Genève, vợ chồng Út Tịch được phân công ở lại miền Nam. Bị chính quyền Ngô Đình Diệm đàn áp, bà cùng nhiều phụ nữ khác đã đấu tranh buộc chính quyền thả chồng và bạn chiến đấu. Trong khi đó, Lê Thị Riêng cũng tiếp tục tham gia các phong trào cách mạng chống Mỹ - Diệm tại miền Nam.
 *   **1954:** Chính quyền Việt Nam Cộng hòa tiếp quản Côn Đảo và tiếp tục sử dụng nơi đây làm nhà tù, với các "chuồng cọp" nổi tiếng tàn bạo. Chính quyền Việt Nam Cộng hòa cũng tiếp tục phát triển Phú Quốc và xây dựng trại giam tù binh lớn nhất lúc bấy giờ.
+*   **1954:** Lê Thị Tuyết (Trà Cú) cùng chồng là Nguyễn Văn Nguy được đưa đi học chính trị tại Cà Mau.
 *   **26/01/1954:** Tại mặt trận Điện Biên Phủ, Bộ Chỉ huy chiến dịch quyết định thay đổi phương châm tác chiến từ "đánh nhanh thắng nhanh" sang **"đánh chắc, tiến chắc"**.
 *   **Đầu năm 1954:** Georges Boudarel đảm nhiệm việc đưa một số tù binh được trao đổi với phía Pháp. Sau khi trại 113 đóng cửa, ông trở lại An toàn khu Việt Bắc, làm việc cho chương trình tiếng Pháp của đài tiếng nói cách mạng, kịp thời phát đi những tin tức chiến sự và bình luận sắc sảo trong suốt Chiến dịch Điện Biên Phủ để nhân dân Pháp và thế giới hiểu rõ thực chất cuộc chiến.
 *   **Đầu năm 1954:** Trong chiến dịch Điện Biên Phủ, cựu Thị trưởng Trần Văn Lai đã góp ý và là người đầu tiên ký tên vào bản kiến nghị đòi hòa bình của nhân sĩ, trí thức Hà Nội ("Les Notabilites"). Bản kiến nghị được gửi sang Pháp và đăng trên các báo lớn, tạo tiếng vang và áp lực ngoại giao.
@@ -1821,6 +1830,7 @@
 *   **30/05/1959:** Tỉnh ủy Gia Định thành lập đơn vị C13 (đơn vị vũ trang đầu tiên của tỉnh) tại Củ Chi, ban đầu gồm khoảng 20 cán bộ, đảng viên.
 *   **Cuối năm 1959:** Gia đình Út Tịch trở về Tam Ngãi. Sau phong trào Đồng khởi, bà tích cực tham gia hoạt động quân sự, du kích và binh vận của Mặt trận Dân tộc Giải phóng.
 *   **Cuối 1959 - Đầu 1960:** Xứ ủy Nam Bộ sáp nhập Khu Sài Gòn - Chợ Lớn và tỉnh Gia Định thành Khu Sài Gòn - Gia Định (Khu 4/T4). Võ Văn Kiệt được phân công làm Bí thư Khu ủy.
+*   **1960:** Lê Thị Tuyết (Trà Cú) trở về xã Ngãi Xuyên, huyện Trà Cú, tham gia phong trào vận động thành lập lực lượng vũ trang và hoạt động liên tục đến năm 1975.
 *   **1960:** Lê Thị Riêng được bầu làm Phó Hội trưởng Ban Chấp hành Trung ương Hội Liên hiệp phụ nữ giải phóng và Ủy viên Trung ương Mặt trận Dân tộc giải phóng miền Nam Việt Nam.
 *   **01/01/1960:** Theo Sắc lệnh số 362-TTP (ban hành ngày 30/12/1959), chính quyền Sài Gòn chính thức quy định giờ của miền Nam Việt Nam nhanh hơn 60 phút so với múi giờ 7 (tức múi giờ 8). Do đó, Việt Nam sử dụng hai múi giờ khác nhau trong thời kỳ chia cắt.
 *   **17/01/1960:** Cuộc Đồng khởi nổ ra tại ba xã Định Thủy, Phước Hiệp, Bình Khánh thuộc huyện Mỏ Cày, tỉnh Bến Tre, dưới sự lãnh đạo trực tiếp của bà **Nguyễn Thị Định**, sau đó lan rộng ra toàn tỉnh và khắp Nam Bộ.
@@ -1887,6 +1897,7 @@
 *   **03/1964:** Chủ tịch Hồ Chí Minh triệu tập **Hội nghị Chính trị đặc biệt** tại Hà Nội, kêu gọi toàn dân đoàn kết chống Mỹ, cứu nước.
 *   **21/04/1964:** Nguyễn Văn Trỗi chính thức kết hôn với bà Phan Thị Quyên tại Sài Gòn.
 *   **02 - 09/05/1964:** Kế hoạch cài mìn dưới chân cầu Công Lý (Sài Gòn) để tiêu diệt phái đoàn quân sự Mỹ do Bộ trưởng Quốc phòng Robert McNamara dẫn đầu được triển khai. Vào lúc 22 giờ đêm ngày 09/05/1964, kế hoạch bị bại lộ, Nguyễn Văn Trỗi cùng đồng đội bị địch bắt giữ.
+*   **18/06/1964:** Ông Nguyễn Văn Nguy (chồng của bà Lê Thị Tuyết ở Trà Cú) hy sinh tại mặt trận xã Đôn Châu.
 *   **02-04/08/1964:** Mỹ dựng lên **"Sự kiện Vịnh Bắc Bộ"** làm cớ để leo thang chiến tranh.
 *   **05/08/1964:** Không quân Mỹ lần đầu tiên ném bom bắn phá một số nơi ở miền Bắc (chiến dịch Mũi tên xuyên - Pierce Arrow). Quân dân miền Bắc đánh trả quyết liệt, bắn rơi 8 máy bay Mỹ, bắt sống phi công Everett Alvarez, tù binh phi công Mỹ đầu tiên tại miền Bắc.
 *   **07 - 11/08/1964:** Sau Sự kiện Vịnh Bắc Bộ, hơn 20 triệu người dân tại nhiều địa phương của Trung Quốc đã xuống đường tuần hành thị uy, mạnh mẽ ủng hộ Việt Nam chống đế quốc Mỹ.
@@ -1906,6 +1917,7 @@
 *   **1965:** Bà **Nguyễn Thị Định** được bổ nhiệm làm Phó Tư lệnh Quân Giải phóng miền Nam Việt Nam.
 *   **1965:** Lê Thị Riêng được phân công làm Trưởng ban Phụ vận khu Sài Gòn - Gia Định (T4), trực tiếp vào nội thành chỉ huy phong trào phụ nữ. Cùng năm, Út Tịch dự Đại hội anh hùng chiến sĩ thi đua lực lượng vũ trang toàn miền Nam, được bầu là nữ anh hùng và tặng thưởng Huân chương Quân công Giải phóng hạng Nhì vì thành tích tham gia 23 trận đánh.
 *   **1965:** Kostas Sarantidis (Nguyễn Văn Lập) cùng gia đình trở về Hy Lạp sau nhiều năm sinh sống và công tác tại miền Bắc Việt Nam (từ năm 1954). Dù ở quê hương, ông vẫn tiếp tục vận động, quyên góp ủng hộ cho Việt Nam.
+*   **1965:** Khi mới 16 tuổi, Lê Thị Tuyết (Quảng Trị) đã thoát ly gia đình đi làm du kích hoạt động trong vành đai chiếm đóng của Mỹ - ngụy.
 *   **02/1965:** Phong trào **"Ba sẵn sàng"** của thanh niên và **"Ba đảm đang"** (03/1965) của phụ nữ được phát động ở miền Bắc.
 *   **Đầu tháng 02/1965:** Chủ tịch Hội đồng Bộ trưởng Liên Xô Alexei Kosygin sang thăm Việt Nam. Chuyến thăm diễn ra đúng lúc Mỹ bắt đầu ném bom miền Bắc; ông Kosygin đã lên án mạnh mẽ hành động của Mỹ và cam kết sự ủng hộ to lớn của Liên Xô. Ngày 08/02, nhân dân thủ đô Mát-xcơ-va đã tổ chức mít-tinh khổng lồ ủng hộ Việt Nam.
 *   **07/02/1965:** Mỹ mở chiến dịch "Mũi lao lửa 1", ném bom Vĩnh Linh, Đồng Hới, chính thức bắt đầu gây chiến tranh phá hoại miền Bắc.
@@ -1945,6 +1957,7 @@
 *   **09/01/1966:** Lính Nam Triều Tiên càn quét và gây ra vụ thảm sát tại thôn Kim Tài (Nhơn Phong, Bình Định), sát hại 37 thường dân.
 *   **16/01/1966:** Chủ tịch Hồ Chí Minh phát biểu tại Hội nghị cán bộ cao cấp nghiên cứu Nghị quyết Trung ương 12, khẳng định quyết tâm đánh thắng giặc Mỹ xâm lược bất kể chúng đưa vào bao nhiêu quân.
 *   **25/01/1966:** Bộ tư lệnh Quân khu Sài Gòn - Gia Định tổ chức hội nghị tổng kết chiến đấu, đánh giá hiệu quả to lớn của hệ thống địa đạo trong "địa đạo chiến".
+*   **1966 - Đầu 1967:** Lê Thị Tuyết (Quảng Trị) tham gia cùng lực lượng vũ trang huyện đánh chống càn ở cụm Xuân - Vĩnh, tiêu diệt 2 tên địch. Sau đó, bà được cử đi học lớp y tá.
 *   **09/02/1966:** Khu ủy và Bộ chỉ huy Quân khu Sài Gòn - Gia Định chỉ đạo thiết lập "Vành đai diệt Mỹ" bao vây căn cứ Đồng Dù (Củ Chi).
 *   **09 - 10/03/1966:** Trận A Sầu diễn ra tại Căn cứ Đặc biệt A Sầu nằm trong thung lũng A Sầu (tỉnh Thừa Thiên). Căn cứ do quân đội Mỹ thiết lập nhằm ngăn chặn tuyến đường mòn Hồ Chí Minh, được phòng thủ bởi Lực lượng Đặc biệt Mỹ và Dân sự Chiến đấu (CIDG). Sau các đợt pháo kích và tấn công bộ binh dữ dội của Quân Giải phóng, cộng với thời tiết xấu làm hạn chế không kích yểm trợ, căn cứ đã thất thủ. Lực lượng Mỹ và đồng minh chịu thương vong nặng nề và buộc phải triệt thoái vào ngày 10 tháng 3, giúp Quân Giải phóng kiểm soát được một cứ điểm yết hầu trên tuyến vận tải chiến lược.
 *   **17/07/1966:** Chủ tịch Hồ Chí Minh ra Lời kêu gọi lịch sử: "Không có gì quý hơn độc lập, tự do".
@@ -1960,6 +1973,7 @@
 *   **Cuối 1966:** Liên Xô cử thêm các nhóm chuyên gia quân sự về khoa học tên lửa, công nghiệp quốc phòng và tác chiến điện tử sang giúp Việt Nam nghiên cứu, đối phó hiệu quả với các thủ đoạn và chiến thuật mới của không quân Mỹ.
 *   **03 - 06/12/1966:** Lính Nam Triều Tiên gây ra vụ thảm sát Bình Hòa (Quảng Ngãi), giết hại hơn 400 thường dân, chủ yếu là người già, phụ nữ và trẻ em.
 *   **1967:** Gia đình Nguyễn Văn Trỗi bí mật cải táng hài cốt ông về Nghĩa trang Văn Giáp (Quận 2, Sài Gòn), trồng cây xung quanh để che mắt chính quyền Sài Gòn.
+*   **1967:** Lê Thị Tuyết (Quảng Trị) làm y tá Huyện đội Hải Lăng, thường xuyên hoạt động bí mật tại khu vực rú Thi Ông, rú Trà Lộc, nơi được coi là hậu cứ của bộ đội và du kích.
 *   **Tháng 01/1967:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ 13 (khóa III) quyết định đẩy mạnh đấu tranh ngoại giao, mở ra cục diện "vừa đánh vừa đàm".
 *   **01/01/1967:** Nguyễn Thị Suốt được Đảng và Nhà nước Việt Nam chính thức phong tặng danh hiệu Anh hùng ngành Giao thông vận tải trong chống Mỹ cứu nước.
 *   **08/01 - 26/01/1967:** Quân đội Mỹ mở cuộc hành quân **Cedar Falls** đánh vào vùng "Tam giác sắt" (Củ Chi - Trảng Bàng - Bến Cát) nhằm "bóc vỏ trái đất", phá hủy hệ thống địa đạo. Sau 18 ngày đêm, lực lượng cách mạng đã đánh bại cuộc hành quân, bảo vệ được vùng căn cứ.
@@ -1978,6 +1992,7 @@
 *   **03 - 22/11/1967:** Chiến dịch Đăk Tô - Tân Cảnh. Cuộc đụng độ trực tiếp quy mô lớn giữa Quân Giải phóng miền Nam Việt Nam (chủ lực là Sư đoàn 1) và quân đội Mỹ cùng Việt Nam Cộng hòa tại Kon Tum. Bằng chiến thuật "điệu hổ ly sơn", Quân Giải phóng nhử Lữ đoàn 173 dù và Sư đoàn 4 Mỹ vào bẫy tại khu vực điểm cao 875. Bất chấp việc Mỹ huy động hỏa lực phi pháo cực lớn (hơn 150.000 viên đạn pháo và 10.000 tấn bom), Quân Giải phóng áp dụng chiến thuật "vận động tiến công kết hợp chốt", gây thương vong lớn cho Mỹ. Trận đánh chứng minh Quân Giải phóng hoàn toàn có khả năng đánh bại quân viễn chinh Mỹ, làm thất bại ý đồ chia cắt chiến dịch của đối phương và làm suy kiệt sinh lực lính Mỹ.
 *   **1968:** Trong cuộc Tổng tiến công và nổi dậy Tết Mậu Thân, nữ tình báo Đinh Thị Vân trực tiếp hướng dẫn chuẩn bị kế hoạch "Vụ Mùa" ở Sài Gòn, chuẩn bị giao liên dẫn đường cho lực lượng bên ngoài vào, cung cấp tin tức kịp thời và giữ bí mật tuyệt đối mạng lưới tình báo.
 *   **01/1968:** Hội nghị Trung ương lần thứ 14 thông qua nghị quyết về Tổng công kích và nổi dậy (Tết Mậu Thân), giáng đòn quyết định vào ý chí xâm lược của Mỹ.
+*   **06/01/1968:** Nguyễn Văn Bạch, con trai lớn của bà Lê Thị Tuyết (Trà Cú), tham gia cách mạng. Ông sau này trở thành Trung đội trưởng thuộc Tiểu đoàn 306.
 *   **20/01 - 15/07/1968:** Chiến dịch Đường 9 - Khe Sanh. Quân Giải phóng miền Nam Việt Nam tiến công tập đoàn phòng ngự Khe Sanh của Mỹ tại Quảng Trị. Nhằm mục đích nghi binh cho cuộc Tổng tiến công Tết Mậu Thân, Quân Giải phóng vây hãm chặt căn cứ Khe Sanh (với 17.000 quân bao vây), buộc Mỹ phải huy động không quân chiến lược ném hơn 114.000 tấn bom để chi viện. Lần đầu tiên, Quân Giải phóng đưa xe tăng PT-76 tham chiến, tiêu diệt cứ điểm Làng Vây (07/02). Dù chịu thương vong, chiến dịch đã giam chân một lực lượng lớn quân Mỹ, phá hủy trung tâm chỉ huy Hàng rào điện tử McNamara, và cuối cùng buộc quân Mỹ phải rút bỏ Khe Sanh vào tháng 7/1968. Đây là lần đầu tiên quân đội Mỹ phải rút bỏ một căn cứ quân sự trọng yếu do áp lực của đối phương.
 *   **Đêm 30 rạng 31/01/1968:** Cuộc Tổng tiến công và nổi dậy Tết Mậu Thân 1968 đồng loạt nổ ra trên toàn miền Nam, đánh vào các thành phố, thị xã và các cơ quan đầu não của địch, làm lung lay ý chí xâm lược của Mỹ.
 *   **31/01/1968 (Mùng 2 Tết Mậu Thân):** Nữ chiến sĩ cách mạng Lê Thị Riêng bị chính quyền Sài Gòn thủ tiêu tại bốt Bà Hòa (Chợ Lớn). Trong phút hy sinh, bà đã dũng cảm lấy thân mình che đạn cứu sống người đồng đội Phùng Ngọc Anh và hát vang bài Quốc tế ca.
@@ -1993,6 +2008,7 @@
 *   **21 - 26/04/1968:** Điệp viên Tư Cang và Phạm Xuân Ẩn (cụm tình báo H63) đã mưu trí lấy được bản cung khai tuyệt mật của tên phản bội Tám Hà từ chính quyền Sài Gòn. Ngày 26/04, bản báo cáo mang tính sống còn này được gửi về Bộ Tham mưu Miền (B2), giúp ban lãnh đạo cách mạng đánh giá tình hình và quyết tâm mở đợt 2 để đánh gục ý chí xâm lược của Mỹ.
 *   **04/05/1968:** Đợt 2 của cuộc Tổng tiến công Mậu Thân nổ ra rền vang khắp Sài Gòn bất chấp kế hoạch bị lộ. Cú đánh bồi này đã giáng một đòn tâm lý tàn khốc, góp phần khiến tướng Westmoreland mất chức và Tổng thống Mỹ Lyndon B. Johnson từ bỏ ý định tái tranh cử, đẩy Mỹ vào bàn đàm phán hòa bình.
 *   **13/05/1968:** Cuộc đàm phán chính thức giữa phái đoàn Việt Nam Dân chủ Cộng hòa và Mỹ bắt đầu tại Paris.
+*   **05/07/1968:** Sáng ngày 5/7, Lê Thị Tuyết (Quảng Trị) bị lính thủy đánh bộ Tiểu đoàn 4 ngụy bắt tại bến Thi Ông và bị tra tấn tàn khốc bằng nước xà phòng pha ớt bột. Buổi chiều cùng ngày, do kiên quyết không khai báo, bà bị trói vào cây mít, chịu những đòn tra tấn man rợ (cắt vú, xẻo tai, mổ bụng, moi gan) và bị chôn sống hở đầu. 10 tên lính địch đã xẻ gan bà làm 11 miếng và ăn nhậu ngay trước mặt người dân. Bà thoi thóp suốt 2 ngày 2 đêm rồi mới trút hơi thở cuối cùng.
 *   **24/07/1968:** Lúc 16 giờ, 10 nữ thanh niên xung phong thuộc Tiểu đội 4, Đại đội 552, Tổng đội 55 đã anh dũng hy sinh tại Ngã ba Đồng Lộc (Hà Tĩnh). Khi các chị đang tránh bom trong căn hầm chữ A sau khi làm nhiệm vụ san lấp hố bom để bảo đảm mạch máu giao thông chi viện cho chiến trường miền Nam, một quả bom của không quân Mỹ đã nổ trúng hầm. Người trẻ nhất mới 17 tuổi, ba người lớn nhất 24 tuổi. Sự hy sinh của 10 cô gái đã dệt nên khúc tráng ca bất tử về tinh thần kiên cường, bất khuất của lực lượng thanh niên xung phong.
 *   **08/1968:** Trung ương Cục quyết định thành lập lại Thành ủy Sài Gòn - Gia Định (mật danh là Bình Giã). Căn cứ Thành ủy chuyển lên Ba Thu (vùng biên giới).
 *   **19/08/1968:** Bùi Văn Thuyên chính thức được kết nạp vào Đảng Cộng sản Việt Nam.
@@ -2036,6 +2052,7 @@
 *   **1971:** Georges Boudarel xuất bản cuốn sách gây tiếng vang "Truyền thống và cách mạng ở Việt Nam".
 *   **08/02 - 24/03/1971:** Chiến dịch Đường 9 - Nam Lào (Lam Sơn 719). Quân lực Việt Nam Cộng hòa, yểm trợ bởi 10.000 quân Mỹ cùng 1.200 máy bay và pháo binh hạng nặng, huy động hơn 21.000 quân tinh nhuệ nhất (Dù, Thủy quân lục chiến, Thiết giáp) tiến công sang Hạ Lào nhằm cắt đứt đường mòn Hồ Chí Minh tại Xê-pôn. Quân Giải phóng miền Nam Việt Nam (với 60.000 quân) đã thực hiện chiến dịch phản công hiệp đồng binh chủng quy mô lớn chưa từng có. Nổi bật là trận đại phá Bản Đông (12/03 - 20/03), Quân Giải phóng đập tan Lữ đoàn 1 Dù và 2 thiết đoàn VNCH. Chiến dịch kết thúc với thất bại thảm hại của quân đội Sài Gòn (thương vong trên 1.500 người, hàng trăm bị bắt; mất 71 xe tăng, 163 xe thiết giáp, hơn 100 trực thăng bị phá hủy và hơn 600 chiếc bị bắn hỏng). Thắng lợi này đánh dấu sự trưởng thành vượt bậc của Quân Giải phóng, làm phá sản mục tiêu cắt đứt đường Trường Sơn và giáng đòn chí mạng vào chiến lược "Việt Nam hóa chiến tranh" của Mỹ.
 *   **20/04/1971:** Bộ Ngoại giao Việt Nam Cộng hòa đưa ra lời phản kháng đối với Malaysia về các vấn đề lãnh thổ, đồng thời nhân dịp này khẳng định lại chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa.
+*   **16/06/1971:** Nguyễn Văn Bạch (con trai của bà Lê Thị Tuyết ở Trà Cú) hy sinh khi đang chỉ huy chiến đấu tại mặt trận xã Long Hiệp.
 *   **01/07/1971:** Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam đưa ra lập trường 7 điểm tại Hội nghị Paris.
 *   **11/07/1971:** Tổng thống Philippin công bố việc quân đội Trung Hoa Dân quốc (Đài Loan) đã chiếm đóng và củng cố đảo Ba Bình (Itu Aba) thuộc Trường Sa, mặc dù ông không bày tỏ yêu sách nào của Philippin đối với hòn đảo này vào thời điểm đó.
 *   **13/07/1971:** Bộ trưởng Ngoại giao Việt Nam Cộng hòa Trần Văn Lắm tái khẳng định chủ quyền của Việt Nam đối với các quần đảo tại một hội nghị quốc tế ở Manila.
@@ -2081,10 +2098,12 @@
 *   **15-20/01/1974:** Nhân lúc Mỹ rút quân, Cộng hòa Nhân dân Trung Hoa đã dùng vũ lực quân sự đổ bộ lên phần phía Tây quần đảo Hoàng Sa (nhóm Lưỡi Liềm) và giao tranh quyết liệt trên biển và trên bộ với lực lượng Việt Nam Cộng hòa. Trung Quốc sau đó chiếm quyền kiểm soát toàn bộ quần đảo Hoàng Sa. Chính quyền Việt Nam Cộng hòa phản đối kịch liệt và yêu cầu Hội đồng Bảo an Liên Hợp Quốc can thiệp.
 *   **18/01/1974:** Đại sứ Đài Loan tại Sài Gòn gửi công hàm ngoại giao khẳng định lại yêu sách của Trung Hoa Dân quốc đối với các quần đảo trong bối cảnh xung đột leo thang giữa Việt Nam Cộng hòa và Cộng hòa Nhân dân Trung Hoa ở Hoàng Sa.
 *   **14/05/1974:** Chồng của Út Tịch là ông Lâm Văn Tịch, một chiến sĩ kháng chiến kiên trung, đã hy sinh và được Nhà nước truy tặng danh hiệu Liệt sĩ.
+*   **06/1974:** Phan Thị Tuyết và Đoàn Tuân tổ chức đám cưới giản dị tại Lộc Hà, Hà Tĩnh. Bốn tháng sau, ông Tuân nhập ngũ và hành quân vào chiến trường miền Nam.
 *   **07/1974:** Trung ương Đảng chỉ đạo Bộ Tổng Tham mưu xây dựng kế hoạch chiến lược giải phóng miền Nam trong 2 năm 1975 - 1976.
 *   **02/07/1974:** Phái đoàn Việt Nam Cộng hòa tại Hội nghị Liên Hợp Quốc về Luật Biển ở Caracas chính thức tuyên bố chủ quyền đối với các quần đảo.
 *   **30/09 - 08/10/1974:** Bộ Chính trị họp (đợt 1), đề ra kế hoạch giải phóng hoàn toàn miền Nam trong hai năm 1975-1976.
 *   **Cuối 1974:** Cuba cử kỹ sư, công nhân kỹ thuật bậc cao sang phối hợp với bộ đội công binh Việt Nam thi công đường 42 (từ Bến Tắt đi Cam Lộ) và nâng cấp quốc lộ 14. Cuba cũng gửi tặng bộ đội Trường Sơn dàn xe và máy móc làm đường hiện đại trị giá 6 triệu USD.
+*   **Cuối năm 1974:** Phan Thị Tuyết nhận được lá thư đầu tiên và cũng là duy nhất từ chiến trường của chồng là Đoàn Tuân, kèm theo một số kỷ vật.
 *   **Cuối 1974:** Liên Xô quyết định chuyển chế độ của các nhân sự tại Việt Nam từ "chuyên gia quân sự" sang "cố vấn quân sự", tập trung chủ yếu vào công tác hướng dẫn biên soạn giáo trình, điều lệnh huấn luyện chiến đấu cho lực lượng phòng không, không quân Việt Nam khi lực lượng này đã có thể tự chủ tác chiến hoàn toàn.
 *   **13/12/1974 - 06/01/1975:** Chiến dịch Đường 14 - Phước Long. Quân đoàn 4 (Quân Giải phóng miền Nam Việt Nam) tiến công tiêu diệt toàn bộ hệ thống phòng ngự của Quân lực Việt Nam Cộng hòa tại tỉnh Phước Long. Quân Giải phóng chiếm được một lượng lớn đạn pháo (17.000 viên) và làm chủ toàn bộ tỉnh vào ngày 06/01/1975. Đây là đòn trinh sát chiến lược quan trọng, thử sức phản ứng của quân đội Sài Gòn và đặc biệt là thăm dò khả năng can thiệp trở lại của Hoa Kỳ. Sự thất thủ của Phước Long cùng với việc Mỹ chỉ phản ứng bằng lời nói mà không có hành động quân sự đã củng cố quyết tâm của Bộ Chính trị hạ lệnh Tổng tiến công giải phóng hoàn toàn miền Nam trong năm 1975.
 *   **18/12/1974 - 08/01/1975:** Bộ Chính trị họp (đợt 2), sau chiến thắng Phước Long, hạ quyết tâm giải phóng miền Nam ngay trong năm 1975 nếu thời cơ đến.
@@ -2104,6 +2123,7 @@
 *   **21/04/1975:** Nguyễn Văn Thiệu từ chức tổng thống.
 *   **23/04/1975:** Ban Bí thư gửi điện chỉ đạo chuẩn bị xuất bản ngay báo "Cờ giải phóng" khi Sài Gòn được giải phóng.
 *   **26/04/1975:** Chiến dịch Hồ Chí Minh bắt đầu. 5 cánh quân lớn của Quân Giải phóng đồng loạt tiến công vào Sài Gòn.
+*   **27/04/1975:** Ông Đoàn Tuân anh dũng hy sinh trên đường tiến quân, cách Sài Gòn khoảng 30km. Vợ ông, bà Phan Thị Tuyết, đã giữ trọn lời hứa "hãy đợi anh về", ở vậy thờ chồng suốt hơn 50 năm.
 *   **29/04/1975:** Vào lúc 10 giờ, Bộ Chính trị gửi điện cho Bộ Chỉ huy Chiến dịch Hồ Chí Minh chỉ thị tiếp tục tiến công vào Sài Gòn theo kế hoạch, không vì lệnh ngừng bắn của Dương Văn Minh mà dừng lại, nhằm đập tan hoàn toàn sự kháng cự của địch và giải tán chính quyền ngụy.
 *   **30/04/1975:** Miền Nam hoàn toàn giải phóng, kết thúc cuộc kháng chiến chống Mỹ, cứu nước. Đất nước thống nhất về mặt lãnh thổ.
     *   **10 giờ 45 phút:** Xe tăng của Quân giải phóng húc đổ cổng Dinh Độc Lập.
@@ -2301,6 +2321,7 @@
 *   **1997:** **Cuộc khủng hoảng tài chính - tiền tệ khu vực** bắt đầu, gây ảnh hưởng tiêu cực đến nền kinh tế Việt Nam, làm suy giảm tốc độ tăng trưởng và thu hút đầu tư.
 *   **1997:** Hài cốt của liệt sĩ Nguyễn Hữu Quế, người đã ngã xuống bảo vệ cao điểm 815 năm 1979, được gia đình tìm thấy tại Cốc Càng (Trà Lĩnh, Cao Bằng) và cất bốc đưa về quê nhà Thanh Hóa.
 *   **01/07/1997:** Luật Hợp tác xã có hiệu lực, tạo cơ sở pháp lý để chuyển đổi các hợp tác xã nông nghiệp sang mô hình dịch vụ kiểu mới, phục vụ kinh tế hộ.
+*   **23/07/1997:** Liệt sĩ Lê Thị Tuyết (Quảng Trị) được Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân.
 *   **19/11/1997:** Dịch vụ internet chính thức được cung cấp rộng rãi tại Việt Nam, do Tập đoàn Bưu chính Viễn thông Việt Nam (VNPT) và Công ty Cổ phần Netnam là những đơn vị đầu tiên triển khai.
 *   **12/1997:** Hội nghị lần thứ 4 Ban Chấp hành Trung ương Đảng (khóa VIII) đề ra chủ trương nêu cao tinh thần tự lực, tự cường, phát huy nội lực để vượt qua khó khăn, thách thức từ cuộc khủng hoảng.
 *   **1998:** Trung tâm Giao dịch Chứng khoán TP. Hồ Chí Minh được thành lập theo quyết định của Thủ tướng Chính phủ
@@ -2310,6 +2331,7 @@
 *   **11/1998:** Bộ Chính trị ra Nghị quyết 06 về một số vấn đề nông nghiệp và kinh tế nông thôn, lần đầu tiên chính thức thừa nhận và khuyến khích phát triển **mô hình kinh tế trang trại**.
 *   **Cuối năm 1998:** Trong lúc Mỹ nã tên lửa vào thủ đô Baghdad, một đoàn doanh nghiệp Việt Nam gồm 25 người do Thứ trưởng Bộ Công nghiệp Lê Huy Côn dẫn đầu vẫn bám trụ và trú ẩn tại Đại sứ quán Việt Nam. Cảm động trước sự gắn bó trong lúc hoạn nạn, Chính phủ Iraq sau đó đã ưu tiên dành nhiều hợp đồng thương mại lớn cho các doanh nghiệp Việt Nam.
 *   **1999:** Bà Ann Morrison Welsh (vợ góa của Norman Morrison) cùng các con gái đến thăm Việt Nam. Trong chuyến đi này, họ đã có cuộc gặp gỡ cảm động với nhà thơ Tố Hữu, tác giả bài thơ nổi tiếng "Ê-mi-li, con" viết về sự hy sinh của Morrison.
+*   **11/06/1999:** Liệt sĩ Nguyễn Thị Tuyết (Thường Tín) được Nhà nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân.
 *   **04/12/1999:** Đô thị cổ Hội An và Thánh địa Mỹ Sơn được công nhận là Di sản Văn hóa Thế giới.
 *   **30/12/1999:** Việt Nam và Trung Quốc chính thức ký kết **Hiệp ước Biên giới trên đất liền**.
 *   **01/01/2000:** **Luật Doanh nghiệp** chính thức có hiệu lực, tạo ra một bước đột phá trong cải cách thủ tục hành chính, bãi bỏ nhiều giấy phép con, thúc đẩy mạnh mẽ sự phát triển của khu vực kinh tế tư nhân.
@@ -2355,6 +2377,7 @@
 *   **18 - 25/04/2006:** Đại hội X của Đảng, coi kinh tế tư nhân là động lực quan trọng.
 *   **07/11/2006:** Việt Nam ký Nghị định thư gia nhập Tổ chức Thương mại Thế giới (WTO).
 *   **11/01/2007:** Việt Nam chính thức trở thành thành viên thứ 150 của WTO.
+*   **05/2007:** Đoàn cán bộ sưu tầm Bảo tàng Quân khu 4 đã sưu tầm chiếc xoong nhôm mà lính ngụy từng dùng để nấu gan của nữ anh hùng Lê Thị Tuyết năm 1968 làm kỷ vật trưng bày.
 *   **16/10/2007:** Việt Nam lần đầu được bầu làm Ủy viên không thường trực Hội đồng Bảo an LHQ (nhiệm kỳ 2008-2009).
 *   **05/2008:** Nâng cấp quan hệ Đối tác chiến lược toàn diện với Trung Quốc.
 *   **07/05/2009:** Trung Quốc gửi công hàm lên Tổng Thư ký Liên Hợp Quốc, lần đầu tiên đính kèm bản đồ "đường 9 đoạn" để chính thức yêu sách chủ quyền phi lý trên Biển Đông. Ngày 08/05, Việt Nam, Malaysia và Indonesia đã lên tiếng phản đối yêu sách này.

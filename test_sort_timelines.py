@@ -182,6 +182,37 @@ class TestExtractDate(unittest.TestCase):
             self.assertEqual(is_empty_vi, is_empty_en,
                              f"Empty line mismatch at line {idx+1}")
 
+    def test_diff_synchronization_after_sort(self):
+        import subprocess
+        from sort_timelines import sort_timelines
+
+        # Run sort_timelines
+        sort_timelines("timelines_vi.md", "timelines_en.md", across_periods=True)
+
+        def get_changed_lines(target_file):
+            try:
+                out = subprocess.check_output(["git", "diff", "-U0", target_file], encoding="utf-8")
+            except Exception:
+                return []
+            lines = []
+            for line in out.splitlines():
+                if line.startswith("@@"):
+                    parts = line.split()[2].lstrip("+")
+                    if "," in parts:
+                        start, count = map(int, parts.split(","))
+                        if count <= 1:
+                            lines.append(f"{start}")
+                        else:
+                            lines.append(f"{start}->{start+count-1}")
+                    else:
+                        lines.append(parts)
+            return lines
+
+        vi_lines = get_changed_lines("timelines_vi.md")
+        en_lines = get_changed_lines("timelines_en.md")
+        self.assertEqual(vi_lines, en_lines,
+                         f"Diff line mismatch after sort_timelines!\nVI diff lines: {vi_lines}\nEN diff lines: {en_lines}")
+
 
 if __name__ == '__main__':
     unittest.main()

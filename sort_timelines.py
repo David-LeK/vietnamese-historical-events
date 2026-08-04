@@ -378,6 +378,7 @@ def sort_timelines(vi_filename="timelines_vi.md", en_filename="timelines_en.md",
     
     events_vi = [b for b in blocks_vi if b['type'] == 'event']
     events_en = [b for b in blocks_en if b['type'] == 'event']
+    assert len(events_vi) == len(events_en), f"Event count mismatch between {vi_filename} ({len(events_vi)}) and {en_filename} ({len(events_en)})!"
     
     # Align true translated pairs for EN where original input had swapped indices
     paired_events_en = list(events_en)
@@ -423,7 +424,9 @@ def sort_timelines(vi_filename="timelines_vi.md", en_filename="timelines_en.md",
     
     if across_periods:
         events_zipped = list(zip(events_vi, paired_events_en))
-        events_zipped_sorted = sorted(events_zipped, key=lambda pair: extract_date(pair[0]['time_str']))
+        # Stable sort using (date, original_index) to guarantee deterministic tie-breaking
+        events_zipped_indexed = [(idx, pair) for idx, pair in enumerate(events_zipped)]
+        events_zipped_sorted = [item[1] for item in sorted(events_zipped_indexed, key=lambda item: (extract_date(item[1][0]['time_str']), item[0]))]
         
         num_sections = len(sections_vi)
         section_buckets = [[] for _ in range(num_sections)]
@@ -468,8 +471,8 @@ def sort_timelines(vi_filename="timelines_vi.md", en_filename="timelines_en.md",
         for sec_vi, sec_en in zip(sections_vi, sections_en):
             event_indices = [i for i, b in enumerate(sec_vi) if b['type'] == 'event']
             events_zipped = [(sec_vi[i], sec_en[i]) for i in event_indices]
-            
-            events_zipped_sorted = sorted(events_zipped, key=lambda pair: extract_date(pair[0]['time_str']))
+            events_zipped_indexed = [(idx, pair) for idx, pair in enumerate(events_zipped)]
+            events_zipped_sorted = [item[1] for item in sorted(events_zipped_indexed, key=lambda item: (extract_date(item[1][0]['time_str']), item[0]))]
             
             sorted_idx = 0
             for i in range(len(sec_vi)):
