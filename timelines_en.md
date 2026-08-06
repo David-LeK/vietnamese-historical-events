@@ -1750,6 +1750,7 @@
 *   **Oct. 14 - Dec. 10, 1952:** The **Northwest Campaign** was launched. Key victories included the capture of Nghia Lo (Oct. 18) and the ambush at Chan Mong - Tram Than (Nov. 17) which defeated the French Operation Lorraine. The campaign liberated a vast area including Dien Bien Phu (Nov. 30) and Son La province (except Na San), connecting the Viet Bac resistance base with Upper Laos.
 *   **1953:** Le Van Ba returned to the South to fight and married Le Thi Rieng.
 *   **Jan. 25-30, 1953:** The Central Committee held its fourth conference, deciding to launch a mass mobilization for thorough rent reduction, implement interest rate reduction, and prepare for land reform.
+*   **Early 1953:** The 333rd Engineer Battalion began constructing a fortified system of tunnels, shelters, and working quarters for President Ho Chi Minh, the Party Central Committee, and the Government Office at Nà Lơi Mountain in Kim Quan commune (Yên Sơn district, Tuyên Quang province).
 *   **February 19, 1953:** Nguyen Thi Tuyet (Thuong Tin) was captured for the 11th time and imprisoned at Nha Tien (Hanoi). Despite brutal torture, she remained steadfast and successfully escaped a month later to continue her revolutionary activities.
 *   **Apr. 12, 1953:** President Ho Chi Minh signed a decree mobilizing the masses for thorough rent reduction.
 *   **Apr. 13 - May 18, 1953:** The Vietnam People's Army, in coordination with the Pathet Lao forces, launched the Upper Laos Campaign, liberating Sam Neua province, a part of Xieng Khouang and Phongsaly, expanding the Lao resistance base and connecting it with the Northwest region of Vietnam.
@@ -1760,10 +1761,12 @@
 *   **Jul. 24, 1953:** President Ho Chi Minh's article "Building the Vietnam Workers' Party" was published in the *Cuu Quoc* (National Salvation) newspaper. The article emphasized that ideological education and leadership are the Party's most critical tasks and warned against "leftist" and "rightist" tendencies.
 *   **Aug. 1953:** In France, 82% of the population expressed support for ending the "dirty war" of invasion in Indochina, demonstrating the strong impact of the French Communist Party and global peace movements.
 *   **August 1, 1953:** At around 20:00, after days of brutal torture without obtaining any information, the enemy buried Nguyen Thi Tuyet (Thuong Tin) alive next to the Tia post.
+*   **09/1953:** The Party Central Committee Office, General Secretary Truong Chinh, Deputy Prime Minister Pham Van Dong, and key government agencies relocated to live and work at the Kim Quan Safe Zone (ATK Kim Quan) in Yên Sơn district, Tuyên Quang province.
 *   **Sep. 1953:** The Politburo met to discuss military tasks for the 1953-1954 Winter-Spring season, setting forth the strategic guideline "Active, proactive, mobile, flexible."
 *   **Nov. 14 - 23, 1953:** The First National Conference of the Party was held to discuss and approve the Land Reform Program.
 *   **Nov. 20, 1953:** French paratroopers occupied Dien Bien Phu (Operation Castor), beginning to build it into the strongest fortified base complex in Indochina.
 *   **Nov. 26, 1953:** President Ho Chi Minh, in an interview with the Swedish newspaper *Expressen*, stated Vietnam's goodwill for peace and affirmed its negotiating stance.
+*   **12/1953:** President Ho Chi Minh moved to reside and work at the Nà Lơi Mountain bunker and quarters in Kim Quan commune (Yên Sơn district, Tuyên Quang province), establishing ATK Kim Quan as the headquarters directly guiding the 1953–1954 Winter-Spring Campaign and the Điện Biên Phủ Campaign.
 *   **Dec. 6, 1953:** The Politburo decided to launch the **Dien Bien Phu Campaign** under the code name "Tran Dinh," with the objective of annihilating the entire enemy force there.
 *   **Dec. 10 - 12, 1953:** Vietnamese forces wiped out a retreating French column at Muong Pon (Dec. 10) and advanced to liberate Lai Chau town (Dec. 12) after the French forces retreated to Dien Bien Phu.
 *   **Dec. 19, 1953:** President Ho Chi Minh signed decree No. 197-SL promulgating the **Land Reform Law**.
@@ -1775,7 +1778,9 @@
 *   **Early 1954:** Georges Boudarel was placed in charge of escorting a group of prisoners of war being exchanged with the French. Following the closure of Camp 113, he returned to the Viet Bac Safe Zone to work for the revolutionary radio station's French program, broadcasting timely war news and sharp commentary during the Dien Bien Phu Campaign to inform the French public and the world.
 *   **Early 1954:** During the Dien Bien Phu campaign, former Mayor Tran Van Lai contributed to and was the first to sign a peace petition by Hanoi intellectuals ("Les Notabilités"). The petition was sent to Paris and published in *Le Monde* and *L'Humanité*, creating significant diplomatic pressure in France.
 *   **Mar. 13 - 17, 1954:** In the first phase of the Dien Bien Phu Campaign, the Vietnamese forces opened fire at 5:05 PM on March 13. They rapidly annihilated the Him Lam (Mar. 13) and Doc Lap (Mar. 15) strongpoints, forcing the French artillery commander Piroth to commit suicide. Ban Keo surrendered on March 17, breaking the enemy's northern defense system. During this phase, on March 14, the first French aircraft was shot down by Vietnamese anti-aircraft fire.
+*   **15/03/1954:** At the Kim Quan Safe Zone (Tuyên Quang), President Ho Chi Minh chaired a Government Council meeting to hear reports on preparations for the Geneva Conference and direct military affairs, state budget, and land reform.
 *   **Mar. 30 - Apr. 26, 1954:** In the second phase of the campaign, the Vietnamese forces simultaneously attacked the eastern hills, capturing crucial points like C1, D1, and E, tightened the siege with an extensive trench system, controlled the airfield, and cut off the enemy's supply lines.
+*   **04/1954:** At the Kim Quan Safe Zone (Tuyên Quang), the Politburo issued a resolution emphasizing the principle of "steady attack, steady advance" and raising determination to achieve complete victory in the Điện Biên Phủ Campaign.
 *   **May 1 - 7, 1954:** In the third phase of the campaign, the Vietnamese forces annihilated the remaining strongpoints. During the final general attack on May 6, the Vietnamese army utilized DKZ 75mm guns and 12 Katyusha 6-barrel rocket launchers provided by China and the Soviet Union, significantly contributing to the victory. A massive 1-ton explosive charge was detonated under Hill A1 on the night of May 6, leading to its capture.
 *   **May 7, 1954:** At 5:30 PM, the "Determined to Fight, Determined to Win" flag flew over the roof of De Castries' command bunker. General De Castries and his entire staff were captured alive. **The Dien Bien Phu Campaign was completely victorious**, concluding after 55 days and nights of heroic struggle.
 *   **May 8, 1954:** The **Geneva Conference** began its first session to discuss the restoration of peace in Indochina.
@@ -1787,6 +1792,7 @@
     *   The 17th parallel was established as a provisional military demarcation line.
     *   The armies of both sides were to regroup to the North and South.
     *   A free general election was scheduled to be held in July 1956 to unify the country.
+*   **08/1954:** Following the victory at Điện Biên Phủ and the signing of the Geneva Accords, President Ho Chi Minh, the Party Central Committee, and the Government departed the Kim Quan Safe Zone (Tuyên Quang) to return to take over Hanoi.
 *   **Aug. 8, 1954:** The Can Lao Nhan Vi Party (Personalist Labor Revolutionary Party) officially debuted in the South, founded by Ngo Dinh Nhu.
 
 ### **Period of Building the North and the Dong Khoi Movement in the South (Aug. 1954 - 1960)**
