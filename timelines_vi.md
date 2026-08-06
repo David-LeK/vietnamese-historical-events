@@ -1330,11 +1330,11 @@
 *   **1920:** Đạo Cao Đài, một tôn giáo nội sinh, được thành lập (cụ thể là năm 1926 tại Tây Ninh).
 *   **1920:** Công ty Nhật Bản Mitsui-Bussan Kaisha bắt đầu khai thác phốt phát trên một số đảo thuộc quần đảo Hoàng Sa sau khi liên hệ với nhà cầm quyền Pháp. Cùng năm, Pháp bắt đầu thực hiện việc kiểm soát trên biển và kiểm soát hải quan đối với quần đảo Hoàng Sa.
 *   **03/1920:** (Tháng 3 năm Khải Định thứ 5) Thiết lập Hội đồng Tư vấn Trung Kỳ (Chambre des Représentants du Peuple de l'Annam) để tư vấn các vấn đề lợi ích cho dân.
-*   **16-17/07/1920:** Báo *L'Humanité* (Nhân đạo) ở Pháp đăng toàn văn *Luận cương về các vấn đề dân tộc và vấn đề thuộc địa* của V.I. Lênin, tác động sâu sắc đến Nguyễn Ái Quốc.
+*   **16-17/07/1920:** Báo *L'Humanité* (Nhân đạo) ở Pháp đăng bản *Sơ thảo lần thứ nhất những luận đề về vấn đề dân tộc và vấn đề thuộc địa* của V.I. Lênin. Nguyễn Ái Quốc đọc tác phẩm này, tìm ra con đường giải phóng dân tộc và bước đầu khẳng định niềm tin theo chủ nghĩa Mác-Lênin.
 *   **09/1920:** Triều đình định tỷ giá 1 đồng tiền "Khải Định thông bảo" mới bằng 6 đồng tiền kẽm.
 *   **28/09/1920:** Sắc lệnh tái tổ chức Hội đồng cấp cao thuộc địa tại Pháp.
 *   **11/1920:** Vua Khải Định phong hàm tước cho doanh nhân Bạch Thái Bưởi và người thợ Nguyễn Văn Phúc vì thành tích chế tạo thành công tàu thủy *Bình Chuẩn*, khuyến khích năng lực công nghiệp của người Việt.
-*   **25-30/12/1920:** Tại Đại hội Tours của Đảng Xã hội Pháp, Nguyễn Ái Quốc bỏ phiếu tán thành gia nhập Quốc tế thứ ba và trở thành một trong những người sáng lập Đảng Cộng sản Pháp.
+*   **25-30/12/1920:** Tại Đại hội Tours (Đại hội XVIII) của Đảng Xã hội Pháp, Nguyễn Ái Quốc bỏ phiếu tán thành gia nhập Quốc tế III và trở thành một trong những người sáng lập Đảng Cộng sản Pháp, đánh dấu bước ngoặt từ chủ nghĩa yêu nước đến chủ nghĩa Mác-Lênin.
 *   **1921:** Nguyễn Ái Quốc tham gia sáng lập Hội Liên hiệp các dân tộc thuộc địa tại Pháp.
 *   **30/03/1921:** Chính phủ quân sự miền Nam tại Quảng Đông (không được chính quyền trung ương Trung Quốc hay các cường quốc công nhận) tuyên bố sáp nhập về mặt hành chính quần đảo Hoàng Sa vào huyện Nhai (Hải Nam). Pháp đã không phản đối chính thức để tránh kích động chủ nghĩa dân tộc Trung Quốc.
 *   **12/04/1921:** Albert Sarraut, lúc này là Bộ trưởng Bộ Thuộc địa, trình "Dự luật khai thác thuộc địa" trước Quốc hội Pháp.
@@ -1370,7 +1370,7 @@
 *   **1925:** Tác phẩm *Bản án chế độ thực dân Pháp* của Nguyễn Ái Quốc được xuất bản tại Paris.
 *   **01/1925:** Nguyễn Ái Quốc mở các lớp huấn luyện chính trị cho thanh niên yêu nước tại Quảng Châu.
 *   **03/03/1925:** Thượng thư Bộ Binh Thân Trọng Huề gửi văn thư cho Khâm sứ Pháp, khẳng định "Các đảo Hoàng Sa bao giờ cũng thuộc về nước An Nam", xác nhận chủ quyền trước các tranh chấp gia tăng.
-*   **06/1925:** Hội Việt Nam Cách mạng Thanh niên được thành lập tại Quảng Châu do Nguyễn Ái Quốc sáng lập và lãnh đạo.
+*   **06/1925:** Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng Thanh niên tại Quảng Châu (Trung Quốc), tổ chức các khóa đào tạo lý luận Mác-Lênin để chuẩn bị về tư tưởng và tổ chức cho sự ra đời của Đảng Cộng sản Việt Nam.
 *   **21/06/1925:** Tuần báo *Thanh niên*, cơ quan ngôn luận của Hội Việt Nam Cách mạng Thanh niên, ra số đầu tiên.
 *   **30/06/1925:** Phan Bội Châu bị thực dân Pháp bắt cóc tại Thượng Hải.
 *   **08/1925:** Cuộc bãi công của hơn 1.000 công nhân xưởng Ba Son (Sài Gòn) do Tôn Đức Thắng lãnh đạo, trì hoãn việc sửa chữa chiến hạm Jules Michelet của Pháp.
@@ -1381,8 +1381,8 @@
 *   **04/04/1926:** Đám tang Phan Châu Trinh được tổ chức long trọng tại Sài Gòn với sự tham gia của khoảng 14 vạn người, biến thành một cuộc biểu dương lực lượng quần chúng.
 *   **04/09/1926:** Nghị định thành lập các Ngân hàng Nông phố bình dân (Tín dụng nông nghiệp) ở Bắc Kỳ.
 *   **12/11/1926:** Đông Dương Lao động Đảng được thành lập tại Sài Gòn.
-*   **1927:** Tác phẩm *Đường Kách mệnh* của Nguyễn Ái Quốc được xuất bản.
 *   **1927:** Tổng Lãnh sự Nhật Bản tại Hà Nội, Kurosawa, đã yêu cầu các quan chức Pháp cung cấp thông tin về quy chế lãnh thổ của quần đảo Trường Sa.
+*   **02/1927:** Tác phẩm *Đường Kách mệnh* của Nguyễn Ái Quốc được xuất bản tại Quảng Châu, hệ thống hóa các bài giảng lý luận Mác-Lênin cho cán bộ cách mạng Việt Nam, đặt nền móng lý luận cho cách mạng Việt Nam.
 *   **25/02/1927:** Thống sứ Bắc Kỳ Robin ra nghị định sửa đổi cuộc cải lương hương chính, cho phép Hội đồng kỳ mục cũ tồn tại song song với Hội đồng tộc biểu.
 *   **03/1927:** Đại hội đồng Giáo hội Tin Lành được tổ chức tại Đà Nẵng.
 *   **13/06/1927:** Cụ Lương Văn Can, Thục trưởng Đông Kinh Nghĩa Thục, qua đời tại Hà Nội. Đám tang của cụ trở thành sự kiện biểu dương lòng yêu nước của học sinh và thợ thuyền.
@@ -1407,7 +1407,7 @@
 *   **1930 - 1932:** Các tàu chiến *Inconstant*, *Alerte*, *La Malicieuse* và *De Lanessan* của hải quân Pháp liên tiếp thực hiện các cuộc tuần tiễu và khẳng định chủ quyền tại quần đảo Hoàng Sa.
 *   **01/01/1930:** Đông Dương Cộng sản Liên đoàn chính thức thành lập tại Hà Tĩnh.
 *   **02/1930:** Cuộc khởi nghĩa Yên Bái do Việt Nam Quốc dân Đảng lãnh đạo nổ ra và thất bại.
-*   **03/02/1930:** Hội nghị hợp nhất các tổ chức cộng sản diễn ra tại Cửu Long (Hương Cảng) dưới sự chủ trì của Nguyễn Ái Quốc, thành lập Đảng Cộng sản Việt Nam.
+*   **03-07/02/1930:** Hội nghị hợp nhất các tổ chức cộng sản diễn ra tại Cửu Long (Hương Cảng, Trung Quốc) dưới sự chủ trì của Nguyễn Ái Quốc, quyết định thành lập Đảng Cộng sản Việt Nam và thông qua Chánh cương tắt, Sách lược tắt vận dụng sáng tạo chủ nghĩa Mác-Lênin.
 *   **Đầu những năm 1930:** Theo kết quả điều tra của Yves Henry, dưới tác động của chủ nghĩa thực dân Pháp, tình trạng sở hữu ruộng đất phân hóa cực kỳ sâu sắc. Ruộng đất công chỉ còn 21% ở Bắc Kỳ, 25% ở Trung Kỳ và 3% ở Nam Kỳ. Về ruộng đất tư hữu, 94,8% số chủ sở hữu dưới 5 ha (chiếm 28,5% diện tích), trong khi 0,30% chủ sở hữu trên 50 ha (chiếm tới 31,5% diện tích).
 *   **10/02/1930:** Cuộc khởi nghĩa Yên Bái do Việt Nam Quốc dân Đảng lãnh đạo bùng nổ nhưng nhanh chóng thất bại.
 *   **09/03/1930:** Chuyến bay đầu tiên nối liền Paris - Sài Gòn được thực hiện, đánh dấu sự phát triển giao thông hàng không.
@@ -1711,7 +1711,7 @@
 
 *   **1951:** Vừ A Dính được Đoàn thanh niên cứu quốc Việt Nam tuyên dương trong thiếu nhi toàn quốc vì tinh thần kiên cường, bất khuất.
 *   **11-19/02/1951:** Đại hội đại biểu toàn quốc lần thứ II của Đảng Cộng sản Đông Dương diễn ra tại xã Quang Vinh, huyện Chiêm Hóa, Tuyên Quang.
-    *   Quyết định đưa Đảng ra hoạt động công khai với tên mới là **Đảng Lao động Việt Nam**.
+    *   Quyết định đưa Đảng ra hoạt động công khai với tên mới là **Đảng Lao động Việt Nam**, khẳng định lấy chủ nghĩa Mác-Lênin làm nền tảng tư tưởng và kim chỉ nam cho mọi hành động.
     *   Thông qua Chính cương, Điều lệ mới và bầu Ban Chấp hành Trung ương. Hồ Chí Minh được bầu làm Chủ tịch Đảng, Trường Chinh làm Tổng Bí thư.
     *   Đồng chí Lê Duẩn được bầu vào Ban Chấp hành Trung ương và Bộ Chính trị. Với cương vị Bí thư Trung ương Cục miền Nam, ông trực tiếp lãnh đạo cuộc kháng chiến ở Nam Bộ.
 *   **03-07/03/1951:** Đại hội toàn quốc thống nhất Việt Minh - Liên Việt, thành lập **Mặt trận Liên hiệp quốc dân Việt Nam** (gọi tắt là Mặt trận Liên Việt).
@@ -2306,7 +2306,7 @@
 
 *   **Đầu năm 1991:** Trong một hội thảo về Việt Nam tại Thượng viện Pháp, Georges Boudarel bị một cựu tù binh Pháp (lúc này là bộ trưởng) nhận ra và thóa mạ. Sau đó, một nhóm cựu tù binh đã đâm đơn kiện ông về "tội ác chống nhân loại" tại trại 113. Một chiến dịch bôi nhọ trên truyền thông nổ ra khiến ông đột quỵ hai lần liên tiếp. Bạn bè của ông, đứng đầu là nhà toán học Laurent Schwartz, đã thành lập "Hội những người bạn của Boudarel" để bảo vệ ông.
 *   **17/03/1991:** Cuộc trưng cầu dân ý toàn Liên bang Xô viết được tổ chức, với 76,4% cử tri ủng hộ việc duy trì Liên bang Xô viết.
-*   **24-27/06/1991:** Đại hội đại biểu toàn quốc lần thứ VII của Đảng Cộng sản Việt Nam thông qua **"Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội"** và **"Chiến lược ổn định và phát triển kinh tế - xã hội đến năm 2000"**.
+*   **24-27/06/1991:** Đại hội đại biểu toàn quốc lần thứ VII của Đảng Cộng sản Việt Nam thông qua **"Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội"** và **"Chiến lược ổn định và phát triển kinh tế - xã hội đến năm 2000"**, chính thức khẳng định Đảng lấy chủ nghĩa Mác-Lênin và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng, kim chỉ nam cho hành động.
 *   **15-18/07/1991:** Theo sáng kiến của Indonesia, một hội nghị quốc tế đã được tổ chức tại Bandung với các nước trong khu vực để thảo luận về vấn đề quần đảo Trường Sa, ra thông cáo chung khuyến khích đối thoại và đàm phán.
 *   **19/08/1991:** Cuộc đảo chính tháng 8 nổ ra tại Liên Xô nhằm ngăn chặn sự tan rã của Liên bang nhưng thất bại, dẫn đến việc Đảng Cộng sản Liên Xô bị đình chỉ hoạt động.
 *   **25/11 - 04/12/1991:** Hội nghị lần thứ 2 Ban Chấp hành Trung ương Đảng (khóa VII) thông qua các nhiệm vụ và giải pháp phát triển kinh tế - xã hội cho giai đoạn 1992-1995, trong đó có mục tiêu kiên quyết đẩy lùi lạm phát.
@@ -2451,7 +2451,7 @@
 *   **30/04/2013:** Tổ chức Kỷ lục Guinness Thế giới chính thức công nhận Hang Sơn Đoòng là hang động lớn nhất thế giới.
 *   **05/2013:** Kostas Sarantidis (Nguyễn Văn Lập) được Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng Vũ trang Nhân dân, trở thành người nước ngoài đầu tiên và duy nhất nhận được vinh dự cao quý này.
 *   **04/10/2013:** Đại tướng Võ Nguyên Giáp từ trần tại Bệnh viện Trung ương Quân đội 108, Hà Nội.
-*   **28/11/2013:** Ban hành Hiến pháp 2013.
+*   **28/11/2013:** Quốc hội khóa XIII thông qua Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 2013, tại Điều 4 hiến định Đảng Cộng sản Việt Nam lấy chủ nghĩa Mác-Lênin và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng.
 *   **05/12/2013:** Nghệ thuật Đờn ca tài tử Nam Bộ được UNESCO công nhận là di sản.
 *   **2014:** Việt Nam lần đầu tham gia lực lượng gìn giữ hòa bình LHQ.
 *   **02/05/2014:** Trung Quốc hạ đặt giàn khoan Hải Dương 981 trong vùng đặc quyền kinh tế của Việt Nam.

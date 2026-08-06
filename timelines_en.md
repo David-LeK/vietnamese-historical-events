@@ -1330,11 +1330,11 @@
 *   **1920:** Cao Dai, an indigenous religion, was founded (specifically in 1926 in Tay Ninh).
 *   **1920:** The Japanese company Mitsui-Bussan Kaisha began exploiting phosphate on some islands of the Paracels after contacting French authorities. In the same year, France initiated maritime and customs control over the Paracel Islands.
 *   **Mar. 1920:** The **Consultative Council of Annam** (Hội đồng Tư vấn Trung Kỳ) was established to advise on matters of public interest.
-*   **Jul. 16-17, 1920:** The newspaper *L'Humanité* in France published the full text of V.I. Lenin's *Theses on the National and Colonial Questions*, which had a profound impact on Nguyen Ai Quoc.
+*   **Jul. 16-17, 1920:** The newspaper *L'Humanité* published V.I. Lenin's *First Draft of Theses on the National and Colonial Questions*. Nguyễn Ái Quốc read the work, identifying the path for national liberation and affirming his faith in Marxism-Leninism.
 *   **Sep. 1920:** A fixed exchange rate was established where 1 new "Khai Dinh Thong Bao" coin equaled 6 zinc coins.
 *   **Sep. 28, 1920:** A decree reorganized the High Council of the Colonies in France.
 *   **Nov. 1920:** Emperor Khai Dinh conferred honorary titles on businessman Bach Thai Buoi and mechanic Nguyen Van Phuc for successfully building the ship *Binh Chuan*, promoting Vietnamese industrial capability.
-*   **Dec. 25-30, 1920:** At the Tours Congress of the French Socialist Party, Nguyen Ai Quoc voted in favor of joining the Third International and became one of the founding members of the French Communist Party.
+*   **Dec. 25-30, 1920:** Nguyễn Ái Quốc attended the 18th Congress of the French Socialist Party in Tours, voted to join the Third International, and co-founded the French Communist Party, marking his transition from patriotism to Marxism-Leninism.
 *   **1921:** Nguyen Ai Quoc participated in founding the Intercolonial Union in France.
 *   **Mar. 30, 1921:** The Southern Military Government in Guangdong (not recognized by the central Chinese government or foreign powers) announced the administrative annexation of the Paracel Islands into Ya District (Hainan). France did not officially protest to avoid stimulating Chinese nationalism.
 *   **Apr. 12, 1921:** Albert Sarraut, then Minister of Colonies, presented the "Bill on Colonial Exploitation" to the French National Assembly.
@@ -1370,7 +1370,7 @@
 *   **1925:** The work *Le Procès de la colonisation française* (French Colonialism on Trial) by Nguyen Ai Quoc was published in Paris.
 *   **Jan. 1925:** Nguyen Ai Quoc opened political training classes for patriotic youth in Guangzhou.
 *   **Mar. 3, 1925:** Minister of War Than Trong Hue sent a formal letter to the French Resident Superior, affirming that "The Paracel Islands have always belonged to Vietnam," asserting sovereignty amidst rising disputes.
-*   **Jun. 1925:** The Vietnamese Revolutionary Youth League was founded in Guangzhou by Nguyen Ai Quoc.
+*   **Jun. 1925:** Nguyễn Ái Quốc established the Vietnamese Revolutionary Youth League in Guangzhou (China), organizing training courses on Marxist-Leninist theory to prepare ideologically and organizationally for the founding of the Communist Party of Vietnam.
 *   **Jun. 21, 1925:** The weekly newspaper *Thanh nien* (Youth), the organ of the Vietnamese Revolutionary Youth League, published its first issue.
 *   **Jun. 30, 1925:** Phan Boi Chau was kidnapped by French colonialists in Shanghai.
 *   **Aug. 1925:** A strike by over 1,000 workers at the Ba Son shipyard (Saigon), led by Ton Duc Thang, delayed the repair of the French battleship Jules Michelet.
@@ -1381,8 +1381,8 @@
 *   **Apr. 4, 1926:** The funeral of Phan Chau Trinh was held solemnly in Saigon with the participation of about 140,000 people, turning into a mass demonstration.
 *   **Sep. 4, 1926:** A decree established the People's Agricultural Credit Banks in Tonkin.
 *   **Nov. 12, 1926:** The Indochinese Labor Party was founded in Saigon.
-*   **1927:** Nguyen Ai Quoc's work *Duong Kach menh* (The Revolutionary Path) was published.
 *   **1927:** The Japanese Consul General in Hanoi, Kurosawa, requested information from French officials regarding the territorial status of the Spratly Islands.
+*   **Feb. 1927:** Nguyễn Ái Quốc's work *Đường Kách mệnh* (The Revolutionary Path) was published in Guangzhou, systemizing Marxist-Leninist lectures for Vietnamese revolutionaries and laying the theoretical foundation for the Vietnamese revolution.
 *   **Feb. 25, 1927:** The Resident Superior of Tonkin, Robin, issued a decree amending the reform of village administration, allowing the old council of village notables to exist alongside the council of representatives.
 *   **Mar. 1927:** The General Assembly of the Protestant Church was held in Da Nang.
 *   **Jun. 13, 1927:** Luong Van Can, the Principal of Dong Kinh Nghia Thuc, passed away in Hanoi. His funeral turned into a mass demonstration of patriotism by students and workers.
@@ -1407,7 +1407,7 @@
 *   **1930 - 1932:** The French naval ships *Inconstant*, *Alerte*, *La Malicieuse*, and *De Lanessan* conducted successive patrols and sovereignty missions to the Paracel Islands.
 *   **Jan. 1, 1930:** The Indochinese Communist League was officially established in Ha Tinh.
 *   **Feb. 1930:** The Yen Bai Uprising, led by the Vietnamese Nationalist Party, broke out and was defeated.
-*   **Feb. 3, 1930:** A conference to unify the communist organizations was held in Kowloon (Hong Kong) under the chairmanship of Nguyen Ai Quoc, establishing the Communist Party of Vietnam.
+*   **Feb. 3-7, 1930:** The Unification Conference of communist organizations took place in Kowloon (Hong Kong) chaired by Nguyễn Ái Quốc, deciding to establish the Communist Party of Vietnam and adopting the Brief Platform and Strategy creatively applying Marxism-Leninism.
 *   **Early 1930s:** A land ownership survey by Yves Henry revealed severe polarization under French colonialism. Public land accounted for only 21% in Tonkin, 25% in Annam, and 3% in Cochinchina. For private land, 94.8% of landowners held less than 5 hectares (accounting for 28.5% of total land), while 0.30% of landowners held over 50 hectares (accounting for 31.5% of total private land).
 *   **Feb. 10, 1930:** The Yen Bai Uprising, led by the Vietnamese Nationalist Party, broke out but was quickly defeated.
 *   **Mar. 9, 1930:** The first flight connecting Paris and Saigon was completed, marking the development of air transportation.
@@ -1711,7 +1711,7 @@
 
 *   **1951:** Vu A Dinh was commended nationwide by the Vietnam Youth Federation for his indomitable spirit.
 *   **Feb. 11-19, 1951:** The 2nd National Congress of the Indochinese Communist Party was held in Vinh Quang commune, Chiem Hoa district, Tuyen Quang.
-    *   It was decided to bring the Party into open activity under the new name **Vietnam Workers' Party**.
+    *   It was decided to bring the Party into open activity under the new name **Vietnam Workers' Party**, affirming Marxism-Leninism as its ideological foundation and compass for action.
     *   A new Political Platform and Party Statutes were approved, and a new Central Committee was elected. Ho Chi Minh was elected Party Chairman, and Truong Chinh as General Secretary.
     *   Le Duan was elected to the Central Committee and the Politburo. As Secretary of the Central Office for South Vietnam (COSVN), he directly led the resistance in Nam Bo.
 *   **Mar. 3-7, 1951:** The National Congress for the unification of Viet Minh and Lien Viet was held, establishing the **United Vietnam National Front** (Lien Viet Front for short).
@@ -2306,7 +2306,7 @@
 
 *   **Early 1991:** During a seminar on Vietnam in the French Senate, Georges Boudarel was recognized and verbally abused by a former French prisoner of war (then a minister). Subsequently, a group of former POWs filed a lawsuit accusing him of "crimes against humanity" at Camp 113. A massive media campaign against him ensued, causing him to suffer two consecutive strokes. In response, his friends, led by mathematician Laurent Schwartz, formed the "Friends of Boudarel" association to defend him.
 *   **Mar. 17, 1991:** A referendum on the preservation of the USSR was held, with 76.4% of voters supporting the maintenance of the Union.
-*   **Jun. 24-27, 1991:** The 7th National Congress of the Communist Party of Vietnam approved the **"Platform for National Construction in the Period of Transition to Socialism"** and the **"Strategy for Socio-Economic Stability and Development until 2000."**
+*   **Jun. 24-27, 1991:** The 7th National Congress of the Communist Party of Vietnam approved the **"Platform for National Construction in the Period of Transition to Socialism"** and the **"Strategy for Socio-Economic Stability and Development until 2000,"** officially affirming that the Party takes Marxism-Leninism and Ho Chi Minh Thought as its ideological foundation and compass for action.
 *   **Jul. 15 - 18, 1991:** At the initiative of Indonesia, an international conference was held in Bandung with regional countries to discuss the Spratly Islands issue, issuing a final communiqué encouraging dialogue and negotiation.
 *   **Aug. 19, 1991:** A coup attempt (the August Coup) took place in the Soviet Union aiming to prevent the signing of the New Union Treaty but failed, accelerating the disintegration of the USSR.
 *   **Nov. 25 - Dec. 4, 1991:** The 2nd Conference of the Party Central Committee (7th tenure) approved the tasks and solutions for socio-economic development for the 1992-1995 period, including the goal of decisively curbing inflation.
@@ -2451,7 +2451,7 @@
 *   **Apr. 30, 2013:** The Guinness World Records organization officially recognized Son Doong Cave as the largest cave in the world.
 *   **May 2013:** Kostas Sarantidis (Nguyễn Văn Lập) was awarded the title Hero of the People's Armed Forces, becoming the first and only foreigner to receive this noble honor from the Vietnamese State.
 *   **Oct. 4, 2013:** General Vo Nguyen Giap passed away at Central Military Hospital 108, Hanoi.
-*   **Nov. 28, 2013:** The 2013 Constitution was promulgated.
+*   **Nov. 28, 2013:** The 13th National Assembly adopted the 2013 Constitution of the Socialist Republic of Vietnam, with Article 4 constitutionally defining that the Communist Party of Vietnam takes Marxism-Leninism and Ho Chi Minh Thought as its ideological foundation.
 *   **Dec. 5, 2013:** The Art of Don Ca Tai Tu Music and Song in Southern Vietnam was recognized by UNESCO as a heritage.
 *   **2014:** Vietnam participated in UN peacekeeping forces for the first time.
 *   **May 2, 2014:** China deployed the Hai Duong 981 oil rig in Vietnam's exclusive economic zone.
