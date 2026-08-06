@@ -1370,7 +1370,7 @@
 *   **1925:** The work *Le Procès de la colonisation française* (French Colonialism on Trial) by Nguyen Ai Quoc was published in Paris.
 *   **Jan. 1925:** Nguyen Ai Quoc opened political training classes for patriotic youth in Guangzhou.
 *   **Mar. 3, 1925:** Minister of War Than Trong Hue sent a formal letter to the French Resident Superior, affirming that "The Paracel Islands have always belonged to Vietnam," asserting sovereignty amidst rising disputes.
-*   **Jun. 1925:** Nguyễn Ái Quốc established the Vietnamese Revolutionary Youth League in Guangzhou (China), organizing training courses on Marxist-Leninist theory to prepare ideologically and organizationally for the founding of the Communist Party of Vietnam.
+*   **Jun. 1925:** Nguyen Ai Quoc, alongside Ho Tung Mau and revolutionary comrades, founded the Vietnamese Revolutionary Youth League in Guangzhou (China), organizing theoretical training courses to prepare for the birth of the Communist Party of Vietnam.
 *   **Jun. 21, 1925:** The weekly newspaper *Thanh nien* (Youth), the organ of the Vietnamese Revolutionary Youth League, published its first issue.
 *   **Jun. 30, 1925:** Phan Boi Chau was kidnapped by French colonialists in Shanghai.
 *   **Aug. 1925:** A strike by over 1,000 workers at the Ba Son shipyard (Saigon), led by Ton Duc Thang, delayed the repair of the French battleship Jules Michelet.
@@ -1390,7 +1390,7 @@
 *   **Jul. 14, 1927:** The Vietnamese Revolutionary Comrades' Association (precursor to Tan Viet) was founded.
 *   **Jul. 19, 1927:** The General Inspectorate of Labor of Indochina was established.
 *   **Oct. 30, 1927:** A decree reorganized the administrative apparatus at the village level in Cochinchina.
-*   **Dec. 25, 1927:** The Viet Nam Quoc Dan Dang (Vietnamese Nationalist Party) was founded in Hanoi.
+*   **Dec. 25, 1927:** Nguyen Thai Hoc and his associates founded the Viet Nam Quoc Dan Dang (VNQDD) in Hanoi, and he was elected Chairman of the Central Executive Committee.
 *   **1928:** Le Duan joined the Vietnamese Revolutionary Youth League, marking the beginning of his nearly 60-year revolutionary career.
 *   **Jan. 25, 1928:** The Hue court issued an edict banning the propagation of Protestantism and Cao Daiism in Annam.
 *   **Jul. 14, 1928:** The Central Executive Committee of the Vietnamese Revolutionary Comrades' Association decided to change its name to the Tan Viet Cach mang Dang (New Vietnamese Revolutionary Party).
@@ -1407,6 +1407,7 @@
 *   **1930 - 1932:** The French naval ships *Inconstant*, *Alerte*, *La Malicieuse*, and *De Lanessan* conducted successive patrols and sovereignty missions to the Paracel Islands.
 *   **Jan. 1, 1930:** The Indochinese Communist League was officially established in Ha Tinh.
 *   **Feb. 1930:** The Yen Bai Uprising, led by the Vietnamese Nationalist Party, broke out and was defeated.
+*   **Feb. 2, 1930:** Tran Tu Binh led the uprising of over 5,000 rubber plantation workers in Phu Rieng ("Red Phu Rieng"), one of the first major strike movements of the working class led by a communist cell.
 *   **Feb. 3-7, 1930:** The Unification Conference of communist organizations took place in Kowloon (Hong Kong) chaired by Nguyễn Ái Quốc, deciding to establish the Communist Party of Vietnam and adopting the Brief Platform and Strategy creatively applying Marxism-Leninism.
 *   **Early 1930s:** A land ownership survey by Yves Henry revealed severe polarization under French colonialism. Public land accounted for only 21% in Tonkin, 25% in Annam, and 3% in Cochinchina. For private land, 94.8% of landowners held less than 5 hectares (accounting for 28.5% of total land), while 0.30% of landowners held over 50 hectares (accounting for 31.5% of total private land).
 *   **Feb. 10, 1930:** The Yen Bai Uprising, led by the Vietnamese Nationalist Party, broke out but was quickly defeated.
@@ -1425,11 +1426,13 @@
 
 *   **1931:** China called for bids to exploit guano on the Paracel Islands.
 *   **Jan. 17, 1931:** The first postal flight between France and Indochina took place.
+*   **Feb. 9, 1931:** Ly Tu Trong shot and killed the French secret agent Le Grand in Saigon to protect a speaking comrade, after which he was captured by the enemy.
 *   **Apr. 11, 1931:** The Communist International issued a resolution recognizing the Indochinese Communist Party as an independent section.
 *   **Apr. 19, 1931:** Nguyen Thi Ut (Ut Tich) was born in Tich Thien village, Cau Ke district, Can Tho (now Tam Ngai, Tra Vinh). She later became a legendary heroine of the Liberation Army of South Vietnam.
 *   **Apr. 19, 1931:** General Secretary Tran Phu was arrested by the enemy.
 *   **Jun. 1931:** Nguyen Ai Quoc (under the alias Sung Man Cho) was arrested by British authorities in Hong Kong.
 *   **Sep. 6, 1931:** Comrade Tran Phu died in Cho Quan hospital.
+*   **Nov. 20, 1931:** Ly Tu Trong heroically sacrificed his life at the Saigon Main Prison guillotine at the age of 17, leaving behind the immortal quote: "The path for youth can only be the revolutionary path, there is no other path."
 *   **Dec. 4, 1931:** The French government sent a diplomatic note to the Chinese legation in Paris officially claiming the Paracel Islands.
 *   **Apr. 29, 1932:** France issued a formal protest against Chinese claims, detailing historical evidence of Annam's possession of the Paracel Islands. In the same year, France proposed submitting the dispute to international arbitration, which China opposed.
 *   **Jun. 15, 1932:** The Indochinese Communist Party published its *Action Program* to restore the organizational system and revolutionary movement.
@@ -1443,8 +1446,10 @@
 *   **May 2, 1933:** Emperor Bao Dai issued an edict to reform the Southern Court's apparatus, establishing a new cabinet with ministers such as Pham Quynh and Ngo Dinh Diem.
 *   **Jul. 26, 1933:** The French government issued a decree officially announcing the possession of the Spratly Islands by the French Navy.
 *   **Dec. 21, 1933:** The Governor of Cochinchina, J. Krautheimer, signed a decree officially annexing the Spratly Islands into Ba Ria Province.
+*   **1934 - 1935:** Nguyen Son (Hong Thuy) became the only Vietnamese soldier to participate in the historic 10,000 km Long March of the Chinese People's Liberation Army.
 *   **Sep. 12, 1934:** Vu A Dinh, a courageous young hero of the Hmong ethnic group during the anti-French resistance, was born in Pu Nhung commune, Tuan Giao district, Dien Bien province.
-*   **Mar. 27-31, 1935:** The First National Congress of the Indochinese Communist Party was held in Macau (China).
+*   **Mar. 27 - 31, 1935:** The 1st National Congress of the Party met in Macao (China) and elected a Central Executive Committee with Comrade Le Hong Phong as General Secretary.
+*   **Jul. 25 - Aug. 20, 1935:** Nguyen Thi Minh Khai represented the Indochinese Communist Party, attending and addressing the 7th Congress of the Communist International in Moscow (USSR).
 
 ### **Democratic Front Period (1936 - 1938)**
 
@@ -1452,7 +1457,7 @@
 *   **1936:** The Vietnam Independence Motion Alliance Association (Viet Nam Doc Lap Van Dong Dong Minh Hoi), a precursor organization with a similar name to the Viet Minh, was established in Nanjing (China) by Vietnamese anti-imperialist activists.
 *   **1936:** Returning from Con Dao prison, Le Duan operated in Central Vietnam. As Secretary of the Party Committee of Central Vietnam (Xu uy Trung Ky), he led the Democratic Front movement (1936-1939), initiating struggles for livelihood and democratic rights.
 *   **May 3, 1936:** The French Popular Front, led by Léon Blum, won the election, opening a favorable period for the democratic movement in the colonies.
-*   **Jul. 1936:** The Party Central Committee conference in Shanghai (China), chaired by Comrade Le Hong Phong, decided to establish the Indochinese Anti-Imperialist People's Unified Front.
+*   **Jul. 26, 1936:** The Party Central Committee conference in Shanghai (China), chaired by Comrade Le Hong Phong, decided to establish the Indochinese Anti-Imperialist People's Unified Front and appointed Comrade Ha Huy Tap as General Secretary (serving until March 1938).
 *   **Aug. 1936:** The "Indochinese Congress" movement began vigorously, aiming to collect "people's aspirations" to send to the French Parliament's investigation delegation. Hundreds of "Action Committees" were formed across the country.
 *   **Nov. 13, 1936:** A general strike by over 30,000 miners in the Hon Gai and Cam Pha region broke out and achieved a major victory.
 *   **Dec. 30, 1936:** The French government issued a decree on the Labor Law in Indochina, regulating certain conditions for workers.
@@ -1478,6 +1483,7 @@
 
 *   **1939:** General Secretary Nguyen Van Cu published the work *Self-Criticism* (Tu chi trich).
 *   **1939 - 1940:** Bui Van Thuyen (also known as Hai Thieng) was born in a poor peasant family in Chau Thanh, Tay Ninh. Coming from a patriotic family where his father and brother fought against the French, he would later become a legendary guerrilla fighter, participating in over 1,000 battles and sustaining 72 wounds throughout the resistance against the US.
+*   **1939:** Dr. Ton That Tung published his research on liver anatomy, laying the foundation for the world-renowned "Ton That Tung liver resection method" (dry liver surgery).
 *   **Mar. 12, 1939:** The Vietnam Restoration League (Phuc Quoc Hoi) was officially launched in Shanghai.
 *   **Mar. 31, 1939:** The Japanese Government declared its control over the Spratly Islands. France protested this action on April 4.
 *   **May 5, 1939:** Governor-General Jules Brévié amended the 1938 decree to establish two separate administrative delegations for the Paracel Islands: the "Crescent and dependencies" and the "Amphitrite and dependencies".
@@ -1497,14 +1503,17 @@
 *   **1941:** Architect Huynh Tan Phat won first prize in the design competition for the Indochina Exhibition Center in Saigon.
 *   **Jan. 13, 1941:** The Do Luong Mutiny, led by Captain Cung, broke out in Nghe An.
 *   **Jan. 28, 1941:** Leader Nguyen Ai Quoc returned to the country at Pac Bo (Cao Bang) after 30 years of activities abroad to directly lead the revolution.
-*   **May 10-19, 1941:** The 8th Conference of the Party Central Committee in Pac Bo (Cao Bang), chaired by Nguyen Ai Quoc, completed the line of national liberation and decided to establish the League for the Independence of Vietnam (Viet Minh).
+*   **May 10-19, 1941:** The 8th Conference of the Party Central Committee in Pac Bo (Cao Bang), chaired by Nguyen Ai Quoc, completed the line of national liberation, decided to establish the League for the Independence of Vietnam (Viet Minh) and elected Comrade Truong Chinh as General Secretary.
+*   **Aug. 28, 1941:** French colonialists executed steadfast revolutionary leaders Nguyen Thi Minh Khai, Ha Huy Tap, and Nguyen Van Cu at Giong crossroads (Hoc Mon, Gia Dinh).
 *   **Mid-1942:** Luu Tan Phat left his teaching career due to enemy surveillance and returned to My Tho to work as a watch repairer, using it as a cover for revolutionary activities.
 *   **Aug. 1942:** Taking the name Ho Chi Minh, he went to China to seek international support but was arrested by the Chiang Kai-shek administration. During more than a year in prison, he wrote *Prison Diary*.
+*   **Sep. 6, 1942:** Former General Secretary Le Hong Phong heroically passed away at Con Dao Prison after years of brutal torture and imprisonment.
 *   **Oct. 1, 1942:** The Vietnam Revolutionary League (Viet Cach) was founded in Liuzhou, China, gathering various patriotic groups.
 *   **1943:** The Indochinese Communist Party published the *Theses on Vietnamese Culture*.
 *   **1943:** Luu Tan Phat opened the "Tan Phat" watch shop in My Tho, which served as a secret base for connecting with other revolutionaries.
 *   **1943:** Nguyen Tuat was transferred to the Nha Trang Post Office, bringing his family, including the 11-year-old Nguyen Van Luom, with him. A bilingual (French-Vietnamese) identity card for Luom was issued this year to allow him to take the Franco-Vietnamese degree exams in Annam. Luom continued his studies in Nha Trang for two years.
 *   **Jan. 1, 1943:** The Dai Viet Populist Revolutionary Party was founded.
+*   **Feb. 1943:** General Secretary Truong Chinh drafted the **"Outline of Vietnamese Culture"**, the Party's first official document on culture, defining three principles: Nationalization, Popularization, and Scientification.
 *   **Early 1943:** The Dai Viet Restoration Association was established.
 *   **Early 1943:** Under the direction of the Son La Prison Party Cell, the "Thai Youth National Salvation" (Đoàn thanh niên Thái cứu quốc) organization was established to gather patriotic youth. Lò Văn Giá joined this organization, becoming an outstanding mass element supporting the revolution from outside the prison.
 *   **Aug. 1943:** The Son La Prison Party Cell organized a historic prison break for key political prisoners to prepare for the General Uprising. Lò Văn Giá, fluent in the Hmong language and familiar with the Northwest terrain, was chosen to guide four communist fighters: Tran Dang Ninh, Nguyen Luong Bang, Nguyen Van Tran, and Luu Duc Hieu. After a 5-day arduous journey, he successfully guided them to safety in the Suoi Rut area (Hoa Binh). Upon returning to Son La, Lo Van Gia was arrested by the French colonialists. Unable to extract any confessions and powerless against his absolute loyalty, they secretly assassinated him.
@@ -1544,11 +1553,11 @@
 *   **Aug. 19, 1945:** The General Uprising succeeded in Hanoi (August Revolution).
 *   **Aug. 23, 1945:** The uprising succeeded in Hue.
 *   **Aug. 24, 1945:** Huynh Tan Phat designed and directed the construction of the Monumental Flagpole at the Nguyen Hue - Le Loi intersection (Saigon) to honor the Provisional Committee of Nam Bo.
-*   **Aug. 25, 1945:** Huynh Tan Phat participated in leading the successful uprising to seize power in Saigon.
-*   **Aug. 25, 1945:** The uprising succeeded in Saigon.
+*   **Aug. 25, 1945:** The uprising to seize power in Saigon succeeded, actively co-led by Huynh Tan Phat.
 *   **Aug. 26, 1945:** Following the momentum of the August Revolution, the uprising to seize power was successfully carried out in Son La province.
 *   **Aug. 28, 1945:** The National Liberation Committee was reorganized into the Provisional Government of the Democratic Republic of Vietnam. 200,000 Chiang Kai-shek troops, led by Lu Han, began to enter northern Vietnam (from the 16th parallel northwards).
 *   **Aug. 30, 1945:** Emperor Bao Dai read the Abdication Edict in Hue, ending the feudal regime in Vietnam.
+*   **Aug. 30, 1945:** Dr. Tran Duy Hung was assigned by President Ho Chi Minh to serve as Chairman of the Provisional Administrative Committee of Hanoi.
 *   **Sep. 1945:** On the occasion of the first opening of school in the Democratic Republic of Vietnam, President Ho Chi Minh sent a letter to students.
 
 ### **Period of Establishing Government and Southern Resistance (Sep. 1945 - Feb. 1946)**
@@ -1558,7 +1567,7 @@
 *   **Sep. 3, 1945:** In the first meeting of the Provisional Government, President Ho Chi Minh set out urgent tasks: combating famine, illiteracy, and foreign invaders.
 *   **Sep. 4, 1945:** The government issued Decree No. 4/SL to establish the "Independence Fund."
 *   **Sep. 5, 1945:** The Provisional Government issued a decree dissolving the Dai Viet National Socialist Party and the Dai Viet Nationalist Party.
-*   **Sep. 7, 1945:** President Ho Chi Minh issued a directive to establish the General Staff of the army.
+*   **Sep. 7, 1945:** President Ho Chi Minh directed the establishment of the General Staff of the Vietnam People's Army and appointed Comrade Hoang Van Thai as its first Chief of the General Staff.
 *   **Sep. 8, 1945:** President Ho Chi Minh signed Decree No. 14-SL, stipulating that a General Election would be held within two months.
 *   **Sep. 11, 1945:** General Gracey, commander of the British forces, arrived in Saigon.
 *   **Sep. 16, 1945:** The "Golden Week" began, mobilizing the people to contribute financially to the country.
@@ -1567,6 +1576,7 @@
 *   **Sep. 26, 1945:** President Ho Chi Minh issued an appeal to the people of the South to resist. The first Southward March detachment left Hanoi for the South to fight.
 *   **Sep. 28, 1945:** President Ho Chi Minh issued an urgent appeal to the nation for famine relief, launching the "Hunger Relief Rice Jar" (Hũ gạo cứu đói) movement and calling on citizens to skip one meal every ten days to share food with the needy.
 *   **Oct. 1945:** Huynh Tan Phat led the Southern Youth delegation to Hanoi to attend the National Youth Congress.
+*   **Oct. 1945:** Nguyen Binh was assigned by President Ho Chi Minh to Southern Vietnam as Commander of the Nam Bo Command, unifying the armed resistance forces in the South.
 *   **Oct. 25, 1945:** The Party Committee of the South held a cadres' conference in Thien Ho (My Tho), setting out the direction for a long-term resistance.
 *   **Nov. 11, 1945:** The Indochinese Communist Party announced its "self-dissolution," in reality going underground.
 *   **Nov. 25, 1945:** The Party Central Standing Committee issued the directive "Resistance and National Construction" (Khang chien kien quoc), identifying the main enemy and urgent tasks.
@@ -1629,6 +1639,7 @@
 *   **1947:** Vietnam established its first liaison office in Yangon, Myanmar. It was upgraded to a Propaganda Information Office in 1948, expanding international propaganda and monitoring world news for the resistance.
 *   **1947:** The Republic of China (Kuomintang) issued a map with an 11-dash line, which was later inherited and modified into a 9-dash line by the People's Republic of China. They based their claims to most of the South China Sea, including the Paracel and Spratly Islands, on what they called "historical sovereignty claims."
 *   **1947:** At the age of 13, Vu A Dinh escaped his family's imprisonment to join the Tuan Giao armed communication team, acting as a liaison for the resistance against the French.
+*   **1947 - 1950:** Lieutenant Colonel Dang Van Viet (Commander of Regiment 174) commanded a famed series of ambushes along Route 4, liberating Dong Khe and That Khe, earning the nickname "Gray Tiger of Route 4" from French forces.
 *   **Jan. 3, 1947:** French Minister of Overseas Marius Moutet visited Hoa Lo prison in an attempt to persuade and bribe imprisoned Vietnamese intellectuals, including Tran Van Lai. The intellectuals responded with absolute silence, demonstrating their unwavering patriotism and contempt for the colonialists.
 *   **Jan. 6, 1947:** The Capital Regiment was officially established from the defenders of Inter-zone 1 in Hanoi.
 *   **Jan. 7, 1947:** Republic of China troops occupied Woody Island (Phu Lam) in the Paracels. On the same day, the Chinese Ministry of Foreign Affairs held a press conference in Nanjing officially announcing the occupation, claiming the flag was flying over islands that "had never ceased to belong to China."
@@ -1642,10 +1653,12 @@
 *   **Feb. 17, 1947:** The National United Front (Mat tran Thong nhat Quoc gia Lien hiep) was established in Nanjing (China) by leaders of Viet Cach and Viet Quoc to support Bao Dai.
 *   **Feb. 25 - Jul. 4, 1947:** France and the Republic of China held negotiations in Paris regarding the sovereignty of the Paracel Islands. China demanded the withdrawal of French troops from Pattle Island as a precondition and strictly rejected France's proposal for international arbitration. The talks ended without a resolution.
 *   **Mar. - Apr. 1947:** Vietnamese forces launched counter-attacks against French positions in Hai Phong (Mar. 22), Ha Dong (Mar. 20 and Apr. 13), and the Vietnam Student Quarter (Viet Nam Hoc Xa) in Hanoi (Apr. 20).
+*   **Mar. 1947:** Director of the Ordnance Department Tran Dai Nghia successfully produced experimental Bazooka rounds at the Giang Tien workshop (Thai Nguyen), helping break French tank attacks in Ha Dong.
 *   **Apr. 1947:** Ngo May volunteered for the army and was assigned to the "quyet tu" (death-defying) company of Battalion 50, Regiment 94 (later Regiment 108).
 *   **Apr. 15, 1947:** French paratroopers landed in Hoa Binh.
 *   **Apr. 15, 1947:** At the age of 14, Nguyen Van Luom, serving as a guerrilla member and messenger, heroically sacrificed his life while fighting the French in Thua Thien. He was shot while carrying an urgent dispatch across a rice field. His bravery and innocence inspired his uncle, the famous poet To Huu, to immortalize him in the poem "Luom".
 *   **Apr. 16, 1947:** Hoa Hao founder Huynh Phu So disappeared (believed to be killed) in the Plain of Reeds, leading to armed conflict between Hoa Hao forces and the Viet Minh.
+*   **Aug. 1947 - Aug. 1948:** Professor Ta Quang Buu served as Minister of National Defense of the Democratic Republic of Vietnam.
 *   **Oct. 7, 1947:** France launched a large-scale attack on the Viet Bac resistance base (Operation Léa), dropping 800 paratroopers on Bac Kan town.
 *   **Oct. 9, 1947:** Vietnamese forces shot down a French Ju-52 transport plane in Cao Bang, killing 12 staff officers and capturing the French offensive plan for Viet Bac.
 *   **Oct. 24, 1947:** Vietnamese artillery ambushed a French naval convoy on the Lo River at Doan Hung, sinking two ships and cutting off the enemy's river supply route.
@@ -1659,6 +1672,7 @@
 *   **Dec. 1, 1947:** Chiang Kai-shek signed a decree assigning Chinese names to the two archipelagos and declaring them as Chinese territory.
 *   **Dec. 19, 1947:** The main body of French forces withdrew from Viet Bac; the enemy's offensive campaign had completely failed.
 *   **1948:** Le Thi Rieng joined the Communist Party of Vietnam.
+*   **Jan. 20, 1948:** President Ho Chi Minh signed a decree conferring the first general ranks of the VPA: Nguyen Binh was promoted to Lieutenant General; Nguyen Son, Tran Tu Binh, and other officers were promoted to Major General.
 *   **Jan. 25, 1948:** The government issued a decree establishing Inter-zones to unify the command of the resistance.
 *   **Early 1948:** Georges Boudarel arrived in Saigon, Vietnam, with an introduction from the French Communist Party's Indochina Office. He initially taught philosophy at Yersin High School in Da Lat.
 *   **Jun. 11, 1948:** President Ho Chi Minh issued an appeal for patriotic emulation.
@@ -1724,11 +1738,13 @@
 *   **May 28 - Jun. 20, 1951:** The Quang Trung (Ha Nam Ninh) Campaign was launched in the Ha Nam - Nam Dinh - Ninh Binh area to break the enemy's Day River defense line. In the opening attacks, Lieutenant Bernard de Lattre de Tassigny (the only son of French Commander-in-Chief Jean de Lattre de Tassigny) was killed in action at Ninh Binh. During this campaign, Cù Chính Lan and his company valiantly fought against five enemy companies despite severe equipment shortages, capturing weapons to destroy the enemy. For this feat, he was commended as the "hero who kills the enemy bare-handed".
 *   **Jun. 28, 1951:** The Kampuchean People's Revolutionary Party was established.
 *   **Jul. 15, 1951:** Bao Dai signed a "General Mobilization" edict, establishing the so-called "national army" to implement France's "using Vietnamese to fight Vietnamese" scheme.
+*   **Jul. 23, 1951:** Chairman of the Central Inspection Commission Ho Tung Mau heroically sacrificed his life while on an official mission in Thanh Hoa due to a French air strike.
 *   **Aug. 15, 1951:** The Foreign Minister of the People's Republic of China, Zhou Enlai, issued a statement asserting China's historical rights over the archipelagos in response to the draft peace treaty with Japan.
 *   **Sep. 1951:** The US signed the Economic Cooperation Treaty with the Bao Dai government.
 *   **Sep. 5 - 7, 1951:** At the San Francisco Peace Conference, a Soviet amendment proposing that Japan recognize the People's Republic of China's sovereignty over the Paracel and Spratly Islands was overwhelmingly rejected (48 to 3). On September 7, Tran Van Huu, Prime Minister of the Bao Dai government, solemnly declared the two archipelagos as Vietnamese territory, with no objections from any participating delegates.
 *   **Sep. 27 - Oct. 5, 1951:** The Central Committee held its second conference, outlining three major tasks: annihilate enemy manpower, thwart the enemy's "using war to feed war" scheme, and nurture the people's strength.
 *   **Sep. 29 - Oct. 31, 1951:** The Ly Thuong Kiet Campaign was launched, attacking the enemy in the Nghia Lo area (Yen Bai).
+*   **Sep. 29, 1951:** Lieutenant General Nguyen Binh was killed while traveling north to report on the situation to the Party Central Committee and President Ho Chi Minh.
 *   **Nov. 10 - 14, 1951:** French forces launched Operation Tulipe (capturing Cho Ben) and Operation Lotus (capturing Hoa Binh town) in an attempt to cut off Vietnamese supply lines and force a pitched battle.
 *   **Nov. 24, 1951:** The General Military Commission decided to open the Hoa Binh Campaign, deploying three divisions (306, 312, 304) to besiege and annihilate the enemy's mechanized forces on the Hoa Binh front. This aimed to counter the French plot to establish the "Muong Autonomous Region" and cut off Viet Minh communications.
 *   **Dec. 1951:** The US signed the Mutual Security Treaty with the Bao Dai government.
@@ -1763,6 +1779,7 @@
 *   **August 1, 1953:** At around 20:00, after days of brutal torture without obtaining any information, the enemy buried Nguyen Thi Tuyet (Thuong Tin) alive next to the Tia post.
 *   **09/1953:** The Party Central Committee Office, General Secretary Truong Chinh, Deputy Prime Minister Pham Van Dong, and key government agencies relocated to live and work at the Kim Quan Safe Zone (ATK Kim Quan) in Yên Sơn district, Tuyên Quang province.
 *   **Sep. 1953:** The Politburo met to discuss military tasks for the 1953-1954 Winter-Spring season, setting forth the strategic guideline "Active, proactive, mobile, flexible."
+*   **Nov. 1953:** Comrade Van Tien Dung was appointed Chief of the General Staff of the Vietnam People's Army, directing operational planning throughout the anti-US resistance war.
 *   **Nov. 14 - 23, 1953:** The First National Conference of the Party was held to discuss and approve the Land Reform Program.
 *   **Nov. 20, 1953:** French paratroopers occupied Dien Bien Phu (Operation Castor), beginning to build it into the strongest fortified base complex in Indochina.
 *   **Nov. 26, 1953:** President Ho Chi Minh, in an interview with the Swedish newspaper *Expressen*, stated Vietnam's goodwill for peace and affirmed its negotiating stance.
@@ -1792,6 +1809,7 @@
     *   The 17th parallel was established as a provisional military demarcation line.
     *   The armies of both sides were to regroup to the North and South.
     *   A free general election was scheduled to be held in July 1956 to unify the country.
+*   **Jul. 20, 1954:** Professor Ta Quang Buu, representing the High Command of the Vietnam People's Army, signed the Geneva Armistice Agreement in Switzerland.
 *   **08/1954:** Following the victory at Điện Biên Phủ and the signing of the Geneva Accords, President Ho Chi Minh, the Party Central Committee, and the Government departed the Kim Quan Safe Zone (Tuyên Quang) to return to take over Hanoi.
 *   **Aug. 8, 1954:** The Can Lao Nhan Vi Party (Personalist Labor Revolutionary Party) officially debuted in the South, founded by Ngo Dinh Nhu.
 
@@ -1801,6 +1819,7 @@
 *   **Sep. 5-7, 1954:** The Politburo of the Vietnam Workers' Party passed a resolution on "The new situation, new tasks and new policy", marking the transition of the revolutionary struggle from war to peace, shifting the focus in the South to political struggle to demand the implementation of the Geneva Accords.
 *   **Sep. 6, 1954:** The US formed the Southeast Asia Treaty Organization (SEATO) and placed South Vietnam, Laos, and Cambodia under its "protection."
 *   **Oct. 1954:** Following the Geneva Accords, Dinh Thi Van received orders to secretly relocate to the South to build an intelligence network in Saigon. To protect her cover as a refugee merchant, the revolutionary leadership issued a fake death sentence against her for "betraying the Party."
+*   **Oct. 10, 1954 - 1977:** Dr. Tran Duy Hung served as Chairman of the Hanoi Administrative Committee continuously for 23 years, becoming an endearing symbol of people-centered governance.
 *   **Oct. 10, 1954:** The Vietnam People's Army marched into and took over the capital city of Hanoi.
 *   **Late 1954:** Following the restoration of peace in the North, Georges Boudarel moved to Hanoi. He served as the secretary of the Voice of Vietnam's French program and worked as an editor and translator for the Foreign Languages Publishing House (now Thế Giới Publishers). He passionately translated major Vietnamese literary works into French, including "Tắt đèn" (Ngô Tất Tố) and "Dế Mèn phiêu lưu ký" (Tô Hoài), introducing Vietnamese literature to international readers.
 *   **Dec. 29, 1954:** France signed a treaty transferring all administrative authority in South Vietnam to Ngo Dinh Diem.
@@ -1813,6 +1832,7 @@
 *   **Jul. 17, 1955:** Ngo Dinh Diem declared his refusal to hold consultations for a general election to reunify the country.
 *   **08/1955:** The 8th Conference of the Central Committee of the Vietnam Workers' Party affirmed that the North must advance to socialism.
 *   **Aug. 31, 1955:** Ngo May was posthumously awarded the title Hero of the People's Armed Forces by the National Assembly.
+*   **Aug. 31, 1955:** Dinh Nup (Hero Nup) was awarded the title Hero of the Armed Forces, becoming the first hero from the ethnic minority groups in the Central Highlands.
 *   **Sep. 1955:** The National Congress of the National United Front decided to establish the **Vietnam Fatherland Front**.
 *   **Sep. 21 - Oct. 24, 1955:** The Vietnamese National Army, under the orders of Prime Minister Ngo Dinh Diem, launched the Hoang Dieu Campaign commanded by Colonel Duong Van Minh to pursue and eliminate the remaining Binh Xuyen forces (around 1,500 troops) hiding in the Rung Sat swamp. The campaign ended with the defeat of the Binh Xuyen forces (1,420 captured; commanders Bay Vien, Lai Huu Tai, and Lai Van Sang escaped), clearing traffic on the Saigon River to the sea.
 *   **Oct. 1955:** During an International Civil Aviation Organization (ICAO) meeting in Manila (Resolution 24), Taiwanese authorities were reportedly requested to enhance meteorological observation activities on the Spratly Islands (Nansha). According to Chinese sources, no objections or reservations were raised at the time.
@@ -1958,8 +1978,7 @@
 *   **Feb. 14 - Apr. 28, 1965:** Five US warships were sunk or set on fire at the Nhat Le sea by the armed forces and people of Quang Binh.
 *   **Mar. 1-9, 1965:** The Indochinese People's Conference was held in Phnom Penh, demonstrating the solidarity of the three nations against the US imperialists.
 *   **Mar. 2, 1965:** The US began the "Rolling Thunder" air campaign, systematically bombing the North.
-*   **Mar. 8, 1965:** The 9th Marine Expeditionary Brigade landed in Da Nang, marking the direct deployment of US combat troops and the beginning of the **"Local War"** strategy.
-*   **Mar. 8, 1965:** Two battalions of US Marines landed in Da Nang, officially beginning the "Local War" strategy, directly deploying US combat troops to South Vietnam.
+*   **Mar. 8, 1965:** The 9th US Marine Expeditionary Brigade landed at Da Nang, officially introducing US combat troops into the South and launching the **"Local War"** strategy.
 *   **Mar. 22, 1965:** The National Liberation Front for South Vietnam issued a 5-point statement, affirming its determination to drive out the US imperialists.
 *   **Mar. 25-27, 1965:** The 11th Conference of the Party Central Committee (3rd tenure) defined the urgent task as "resisting the US, saving the country" and shifting the North to a wartime footing.
 *   **Apr. 1965:** First Secretary Le Duan led a Vietnamese delegation to the Soviet Union and signed an agreement on Soviet military aid, ushering in massive military and economic support. Meanwhile, the first Australian and New Zealand combat troops began arriving in South Vietnam to support the US.
@@ -1968,17 +1987,19 @@
 *   **May 5, 1965:** Nguyen Thi Ut (Ut Tich) was awarded the title of Hero of the People's Armed Forces. She famously declared: "As long as there is a pant leg left, we will keep fighting!" ("Còn cái lai quần cũng đánh").
 *   **May 9, 1965:** The Government of the Democratic Republic of Vietnam issued a statement protesting the US designation of a "combat zone" in Vietnam. According to Chinese sources, the statement allegedly referred to the US combat zone encompassing a portion of the territorial waters of the PRC in the "Xisha Islands" (Paracels).
 *   **May 26, 1965:** Battle of Nui Thanh (Quang Nam), for the first time, a main-force unit of the Liberation Army neatly wiped out a company of US Marines, initiating the "Find the Americans to fight, meet the Americans to destroy" movement.
-*   **May 28 - Jul. 20, 1965:** **Ba Gia Campaign (Quang Ngai):** The Liberation Army of South Vietnam (Military Region 5) launched a campaign against Republic of Vietnam forces. In the primary phase (May 28 - 31), through mobile ambush and encirclement tactics, the Liberation Army completely destroyed an ARVN mixed task force (comprising Infantry, Rangers, and Marines) for the first time, wiping out over 900 enemy troops. This victory further dismantled the "Special War" strategy.
+*   **May 28 - Jul. 20, 1965:** **Ba Gia Campaign (Quang Ngai):** The Liberation Army of South Vietnam (Military Region 5) launched a campaign against Republic of Vietnam forces. In the primary phase (Battle of Ba Gia, May 28 - 31), through mobile ambush and encirclement tactics, Regiment 1 (2nd Division) commanded by Nguyen Chon completely destroyed an ARVN mixed task force (comprising Infantry, Rangers, and Marines) for the first time, wiping out over 900 enemy troops. This victory further dismantled the "Special War" strategy.
 *   **Jun. 1965 - Sep. 1966:** At Vietnam's request, China sent engineering troops to northeastern Vietnam to help build defense works on 13 islands and 8 mainland locations. Between 1965 and 1968, China dispatched 346 experts and over 310,000 troops (anti-aircraft, engineers, railway builders) to assist Vietnam, fighting 1,659 battles and shooting down numerous US aircraft.
 *   **Jun. 9 - 13, 1965:** **Battle of Dong Xoai (Phuoc Long):** As part of the broader Dong Xoai Campaign (May 10 - Jul 22), the Liberation Army launched a massive assault on the Dong Xoai district headquarters, defended by ARVN Special Forces and US advisors. Over several days, the Liberation Army overran the base and heavily decimated multiple ARVN reinforcement battalions (including the elite 7th Airborne Battalion). The campaign concluded with nearly 4,500 ARVN troops neutralized, demonstrating the Liberation Army's advanced capacity for concentrated combat.
 *   **Jun. 26, 1965:** Fidel Castro affirmed absolute support for Vietnam's struggle for independence against the US invasion during a speech to a Cuban youth delegation in La Habana.
 *   **Jul. 6, 1965:** The Soviet Council of Ministers decided to establish a Military Expert Delegation in Vietnam to assist the Vietnam People's Army's air defense and air force.
+*   **Jul. 16, 1965:** Strategic intelligence agent Pham Ngoc Thao heroically sacrificed his life in Saigon after being captured and brutally tortured by the Nguyen Van Thieu regime; he was posthumously awarded the title Hero of the Armed Forces and the rank of Major General.
 *   **Jul. 24, 1965:** Traditional Day of the Air Defense Missile Force. At 15:53, Missile Regiment 236 (the first main air defense unit of the Vietnam People's Army, assisted by Soviet experts) won its first battle by launching two missiles and shooting down an American F-4C aircraft at an altitude of 7,000 meters at the Suoi Hai base (Son Tay), capturing a pilot alive. This victory significantly boosted the morale of the Vietnamese people and armed forces and caused great dismay at the Pentagon.
 *   **Aug. 18, 1965:** **Battle of Van Tuong (Quang Ngai):** The United States launched Operation Starlite, deploying around 9,000 Marines supported by armor, air, and naval gunfire to search and destroy the Liberation Army's 1st Regiment (Ba Gia Regiment). This was the first major ground engagement between US forces and the Liberation Army. Despite absolute superiority in firepower, the US Marines were intercepted and ambushed by approximately 2,000 Liberation Army troops utilizing fortified trenches and anti-tank weapons. Both sides claimed victory, but the battle proved that the Liberation Army could successfully engage and withstand large-scale US conventional forces, earning it the title "the Ap Bac against the US military."
 *   **Oct. 15, 1965:** Exactly one year after Nguyễn Văn Trỗi's martyrdom, Phan Thị Quyên presented their wedding photograph to Trần Độ (Chín Vinh), Member of the Central Office for South Vietnam and Deputy Political Commissar of the Liberation Army.
 *   **Oct. 19 - Nov. 26, 1965:** **Plei Me Campaign and Battle of Ia Drang (Central Highlands):** The Liberation Army launched the Plei Me Campaign to lure and destroy US and ARVN forces. After a successful siege of the Plei Me camp (Oct 19 - 25), the US 1st Cavalry Division launched counter-operations, leading to the historic **Battle of Ia Drang (Nov 14 - 18)** at Landing Zones X-Ray and Albany. This was the first major conventional clash between the US Army and the regular forces of the Vietnam People's Army. Utilizing "grab the enemy by the belt" close-quarters combat tactics to neutralize US air and artillery superiority (including B-52 carpet bombings), the Liberation Army inflicted severe casualties on the US Cavalry battalions. The battle profoundly altered the US perception of the war, ending early optimism for a swift victory.
 *   **Nov. 2, 1965:** Norman Morrison, an American Quaker and pacifist, self-immolated in front of the Pentagon (USA) to protest the United States' involvement in the Vietnam War. He brought his one-year-old daughter Emily with him before committing the act. His ultimate sacrifice deeply moved the Vietnamese people and anti-war activists worldwide.
 *   **Nov. 4, 1965:** Poet To Huu visited Dong Hoi and conversed with Mother Suot. Inspired by her bravery, he composed the famous poem "Mẹ Suốt," which immortalized her image in modern Vietnamese literature.
+*   **Nov. 14 - 18, 1965:** Senior Colonel Nguyen Huu An directly commanded the Battle of Ia Drang Valley (Pleime Campaign), the first regiment-level engagement defeating the US 1st Cavalry Division in the Central Highlands.
 *   **1965-1966 Dry Season:** The army and people of the South defeated the first dry-season strategic counter-offensive of the US.
 *   **Dec. 1965:** The 12th Conference of the Party Central Committee (3rd tenure) made the strategic resolution to "defeat the US aggressors" and foresaw the strategy of "fighting while negotiating".
 *   **Dec. 25, 1965:** The Dai Viet Revolutionary Party was founded.
@@ -2008,8 +2029,10 @@
 *   **Dec. 3 - 6, 1966:** South Korean troops massacred over 400 civilians in Binh Hoa commune (Quang Ngai), mostly women, children, and the elderly.
 *   **1967:** The family of Nguyễn Văn Trỗi secretly exhumed and reinterred his remains at Văn Giáp Cemetery in District 2, Saigon, planting trees around the grave to conceal it from enemy authorities.
 *   **1967:** Le Thi Tuyet (Quang Tri) served as a nurse for the Hai Lang district military unit, operating secretly in ru Thi Ong and ru Tra Loc, areas considered as rear bases for guerrillas and wounded soldiers.
+*   **1967:** Trinh To Tam was awarded the title Hero of the Armed Forces at age 22, holding a record 53 times earning the title "American-Killing Hero" on the Route 9 - Quang Tri battlefield.
 *   **Jan. 1967:** The 13th Conference of the Party Central Committee (3rd tenure) decided to step up the diplomatic struggle, opening up a "fighting while negotiating" situation.
 *   **Jan. 1, 1967:** Nguyen Thi Suot was officially awarded the title of Hero of the Transport Sector in the anti-US resistance for national salvation by the Party and State.
+*   **Jan. 1, 1967:** MiG-17 fighter pilot Nguyen Van Bay (who shot down 7 US aircraft) was awarded the title Hero of the Armed Forces by President Ho Chi Minh.
 *   **Jan. 8 - Jan. 26, 1967:** The US military launched **Operation Cedar Falls** targeting the "Iron Triangle" (Cu Chi - Trang Bang - Ben Cat) to "peel the earth's crust" and destroy the tunnel system. After 18 days, the revolutionary forces defeated the operation, protecting the base.
 *   **Jan. 27, 1967:** The Politburo issued Resolution No. 155-NQ/TW on stepping up the diplomatic struggle, actively attacking the enemy, and coordinating with military and political struggles.
 *   **Jan. 28, 1967:** Foreign Minister Nguyen Duy Trinh declared: "After the US unconditionally stops the bombing... talks with the US can be held."
@@ -2068,6 +2091,7 @@
 *   **Late July 1969:** Thiều Văn Chỏi and a comrade disguised in civil guard uniforms attacked Vàm Bưng and Mang Cá posts during an enemy feast, killing 5 and wounding 3 enemy soldiers, leading terrified enemy troops to build a shrine to "Ông Thần Chỏi" (God Chỏi) at Vàm Bưng post.
 *   **Sep. 2, 1969:** President Ho Chi Minh passed away. The entire Party, people, and army turned grief into revolutionary action, determined to implement his testament.
 *   **Sep. 4, 1969:** Following the death of President Ho Chi Minh, Fidel Castro and Cuban President Osvaldo Dorticós Torrado sent a condolence telegram highly praising his extraordinary revolutionary qualities and leadership.
+*   **Sep. 23, 1969:** The 3rd National Assembly elected Comrade Ton Duc Thang as President and Comrade Nguyen Luong Bang as Vice President of the Democratic Republic of Vietnam.
 *   **Oct. 4, 1969 (or Oct. 7, 1970 according to varying accounts):** **Battle of Suoi Soc (Sa Nghe).** Bui Van Thuyen and a militiaman named Chien were ambushed by two US battalions. After Chien was wounded, Thuyen fought alone from morning until 5:00 PM. Utilizing seven different types of captured and existing weapons, he continuously maneuvered and repelled multiple enemy assaults, reportedly eliminating hundreds of US troops (recorded as 360). In 1995, a US MIA delegation visiting the battlefield acknowledged the severe casualties and expressed astonishment upon learning they had faced a single Vietnamese fighter.
 *   **Oct. 21, 1969:** The Republic of Vietnam issued a decree merging the Dinh Hai administrative unit (Paracel Islands) into Hoa Long commune, continuing its administrative management of the archipelago.
 *   **Nov. 17, 1969:** At 8:00 AM, Thiều Văn Chỏi single-handedly engaged an enemy platoon of 27 soldiers traversing Bưng Sấu field, killing 13 (including an officer), wounding 8, and capturing 2. This 1-versus-27 victory led enemy troops at Vàm Bưng post to erect a shrine to "Ông Thần Chỏi" in front of their base to pray for safety.
@@ -2118,13 +2142,14 @@
 *   **1973:** The Provisional Revolutionary Government of the Republic of South Vietnam opened an Embassy in Iraq. The Iraqi government generously covered all operational expenses, including providing the headquarters, vehicles (including a new Citroen gifted by President Ahmed Hassan Al-Bakr), and daily living expenses to support Vietnam during the war.
 *   **1973:** During Fidel Castro's visit, Cuba donated five major socio-economic projects to Vietnam worth approximately $80 million, including the Thang Loi Hotel (Hanoi), Vietnam - Cuba Hospital (Dong Hoi), Xuan Mai road, Ba Vi cattle breeding farm, and Luong My poultry enterprise.
 *   **Jan. 15, 1973:** The US completely ended all acts of war against the North.
-*   **Jan. 27, 1973:** The **Paris Peace Accords** on ending the war and restoring peace in Vietnam were signed. The US pledged to respect the independence, sovereignty, unity, and territorial integrity of Vietnam and to withdraw all its troops from the South. Representing the PRG RSV, Minister of Foreign Affairs **Nguyen Thi Binh** was the only woman among the signatories.
+*   **Jan. 27, 1973:** The **Paris Peace Accords** on ending the war and restoring peace in Vietnam were signed (negotiated by Special Advisor Le Duc Tho and signed by Foreign Ministers Nguyen Duy Trinh and Nguyen Thi Binh). The US committed to respecting Vietnam's independence, sovereignty, unity, and territorial integrity.
 *   **Mar. 29, 1973:** The last US combat unit withdrew from South Vietnam.
 *   **Apr. 1973:** The Saigon-based magazine *Đối Diện* published a memoir titled "Trong niềm hòa hợp" (In the Spirit of Harmony) authored by Pham Van Dinh, advocating for national reconciliation, love, and the elimination of hatred to resolve the Vietnam War.
 *   **May 1973:** The Politburo issued a Resolution on the struggle to implement the Paris Agreement, combining political, military, and diplomatic means to force the adversary to comply.
 *   **Jul. 1973:** The 21st Conference of the Party Central Committee (3rd tenure) affirmed that the path of the southern revolution was still the path of violence, preparing for the final stage of the resistance war.
 *   **Sep. 6, 1973:** The Republic of Vietnam's Ministry of Interior issued a decree annexing the Spratly Islands to Phuoc Hai commune, Dat Do district, Phuoc Tuy province, modifying the previous 1956 administrative arrangement.
 *   **Sep. 12 - 15, 1973:** Fidel Castro made his first historic visit to Vietnam. He delivered a speech in Hanoi on September 12 emphasizing the heroic struggle of the Vietnamese people. On September 15, he visited the liberated zone of Quang Tri, standing at Hill 241, becoming the first and only foreign head of state to visit South Vietnam's liberated zone before 1975. During this trip, he directed his personal medical team to save a 17-year-old female militia member, Nguyen Thi Huong, who was injured by unexploded ordnance at the Ben Hai River.
+*   **Oct. 1973:** Special Advisor Le Duc Tho declined the 1973 Nobel Peace Prize (awarded jointly with Henry Kissinger), affirming that real peace had not yet been restored in Vietnam while US forces continued intervention.
 *   **Oct. 6, 1973:** By this date, the Provisional Revolutionary Government of the Republic of South Vietnam had been recognized by and established diplomatic relations with 34 countries.
 *   **Oct. 13, 1973:** The Party Central Committee issued Resolution No. 227-NQ/TW (21st Plenum), defining the basic task of the Southern revolution in the new stage as continuing the national people's democratic revolution and using revolutionary violence to seize power.
 *   **Dec. 3, 1973:** Eight commandos from Team 5 (Group 10 Rung Sac) attacked the Shell fuel depot at Nha Be, destroying 35 million gallons of gasoline and oil, and many facilities of the enemy.
@@ -2148,7 +2173,8 @@
 *   **Mar. 18 - Apr. 1, 1975:** Route 5 - Phu Yen Campaign. Intercepting the chaotic retreat of the ARVN II Corps from the Central Highlands down to the coastal plains via Route 7, the Liberation Army organized ambushes and took control of Route 5, destroying enemy troop clusters and advancing on Tuy Hoa city. They successively liberated Quang Ngai, Tam Ky (Mar. 24), Binh Dinh, and by noon on April 1, the entire Phu Yen province was liberated.
 *   **Mar. 18, 1975:** The Politburo resolved to liberate the South before the 1975 rainy season.
 *   **Mar. 25, 1975:** The Politburo issued Resolution No. 241-NQ/TW establishing the Council for Support to the South at the Central level to meet the increasing demands of the battlefield.
-*   **Mar. 27, 1975:** The Politburo sent a directive to the Zone 5 Command regarding the plan to liberate Da Nang, emphasizing the need for bold, unexpected action to destroy enemy forces before they could retreat to Saigon.
+*   **Mar. 27, 1975:** The Politburo sent a directive to Nam Cong (Vo Chi Cong) and Hai Manh (Chu Huy Man) of the Zone 5 Command regarding the plan to liberate Da Nang, emphasizing the need for bold, unexpected action to destroy enemy forces before they could retreat to Saigon.
+*   **Apr. 1975:** General Van Tien Dung served as Commander of the Ho Chi Minh Campaign; Senior General Nguyen Huu An (Commander of 2nd Corps) and Major General Hoang Dan (Deputy Commander) directed the southeastern assault column advancing to capture Independence Palace on the noon of April 30, 1975.
 *   **Apr. 3, 1975:** The provinces of Khanh Hoa and Cam Ranh were liberated.
 *   **Apr. 7, 1975:** General Vo Nguyen Giap issued the historic order: "Lightning speed, more lightning speed. Boldness, more boldness...".
 *   **Apr. 9 - 21, 1975:** Battle of Xuan Loc - Long Khanh. The last organized battle by the Republic of Vietnam forces, attempting to defend the "steel door" guarding the eastern approach to Saigon. The ARVN 18th Division, along with airborne, armor, and ranger units, mounted a fierce resistance heavily supported by devastating airstrikes (dropping roughly 70,000 tons of bombs, including CBU-55 thermobaric bombs). The Liberation Army's 4th Corps shifted to flanking and encirclement tactics, capturing the Dau Giay intersection and forcing the Saigon troops to retreat on April 21. The defeat at Xuan Loc marked the collapse of the final defensive line, prompting President Nguyen Van Thieu to resign that same day and flee the country (April 25).
@@ -2198,6 +2224,7 @@
     *   The highest state bodies and leadership positions were elected.
 *   **Jul. 1976:** At the first session of the 6th National Assembly, Huynh Tan Phat was elected Vice Premier of the unified Government.
 *   **Jul. 3, 1976:** Nguyen Thi Binh was appointed Minister of Education of the unified Socialist Republic of Vietnam. She held this position until 1987, directing the integration of the educational systems of the North and the South and overseeing major post-war educational reforms.
+*   **Oct. 20, 1976:** Strategic intelligence agent Pham Xuan An (Hai Trung) was awarded the title Hero of the Armed Forces by the State.
 *   **Dec. 1976:** The government launched the second campaign to reform private capitalist industry and commerce in the South.
 *   **Dec. 1976:** The 4th National Congress of the Party was held in Hanoi.
     *   The Vietnam Workers' Party was renamed the **Communist Party of Vietnam**.
@@ -2222,6 +2249,7 @@
 *   **Aug. 1978:** Former PRG Minister of Justice **Truong Nhu Tang** left Vietnam by boat due to post-war disagreements.
 *   **Aug. 25, 1978:** Le Dinh Chinh, an 18-year-old soldier, was assassinated by enemy forces in civilian clothing, becoming the first Vietnamese soldier to sacrifice his life on the northern border front.
 *   **Nov. 3, 1978:** Vietnam and the Soviet Union signed a Treaty of Friendship and Cooperation in Moscow.
+*   **Nov. 6, 1978:** Strategic intelligence agent Dang Tran Duc (Ba Quoc) was awarded the title Hero of the Armed Forces by the State.
 *   **Dec. 2, 1978:** With Vietnam's assistance, the Kampuchean United Front for National Salvation was founded in Snuol, Kratie, calling for the overthrow of the Pol Pot genocidal regime and appealing for Vietnam's help.
 *   **Dec. 13, 1978:** Backed by foreign support, the Khmer Rouge mobilized 19 divisions (approximately 80,000 to 100,000 troops) to launch a full-scale invasion of Vietnam across the entire border, but their advance was fiercely halted by Vietnamese forces.
 *   **Dec. 23, 1978 - Jan. 17, 1979:** The Vietnamese military launched a strategic counter-offensive, successfully driving Pol Pot's forces out of Vietnamese territory and completely defending the southwestern border.
@@ -2279,10 +2307,11 @@
 *   **Jan. 3, 1986:** *Thanh Nien* Weekly (precursor to Thanh Nien Newspaper) published its first issue, strongly promoted by Mr. **Le Quang Vinh** (Secretary of the Central Youth Union) to create a forum for renovation for the younger generation.
 *   **Jul. 10, 1986:** General Secretary Le Duan passed away. He was an outstanding leader of the Party, a resilient communist fighter who made great contributions to the revolutionary cause of national liberation and reunification.
 *   **Jul. 14, 1986:** The Party Central Committee held an extraordinary session to elect Comrade Truong Chinh as General Secretary.
-*   **Dec. 1986:** The 6th National Congress of the Communist Party of Vietnam was held, officially initiating the Doi Moi (Renovation) policy for the comprehensive renewal of the country.
-*   **Dec. 15-18, 1986:** The 6th National Congress of the Communist Party of Vietnam took place, officially setting forth the **Doi Moi (Renovation)** policy for the comprehensive renewal of the country with the viewpoint of "looking straight at the truth, correctly assessing the truth," with economic reform as the focus.
+*   **Dec. 15 - 18, 1986:** The 6th National Congress of the Communist Party of Vietnam took place, electing Comrade Nguyen Van Linh as General Secretary and officially launching the comprehensive **Doi Moi** (Renovation) cause with the viewpoint of "looking straight at the truth, correctly assessing the truth," with economic reform as the focus.
 *   **1987:** The National Assembly enacted the Law on Foreign Investment in Vietnam, creating the first legal framework to attract foreign direct investment (FDI).
+*   **1987 - 1992:** Female General Nguyen Thi Dinh served as Vice President of the State Council of the Socialist Republic of Vietnam.
 *   **Apr. 1987:** The 2nd Conference of the Party Central Committee (6th tenure) decided on the direction for resolving issues of distribution and circulation, abolishing the centralized bureaucratic subsidy system and the policy of "blocking rivers, banning markets."
+*   **May 25, 1987:** General Secretary Nguyen Van Linh initiated the column "Things That Must Be Done Immediately" in *Nhan Dan* newspaper under the pen name N.V.L., sparking anti-corruption and public transparency efforts.
 *   **Jul. 1987:** The 3rd Conference of the Party Central Committee (6th tenure) issued a resolution to shift the activities of state-owned economic units to socialist business accounting and to renew state management of the economy.
 *   **Nov. 1987:** UNESCO issued Resolution 24C/18.65 commemorating the 100th anniversary of the birth of President Ho Chi Minh, honoring him as a "Vietnamese Hero of National Liberation and Great Man of Culture".
 *   **Nov. 1987:** During a visit to the Soviet Union for the 70th anniversary of the October Revolution, General Secretary Nguyen Van Linh warned Soviet leaders about the dangers of removing Article 6 of the Constitution regarding the Party's leadership role.

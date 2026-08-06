@@ -1370,7 +1370,7 @@
 *   **1925:** Tác phẩm *Bản án chế độ thực dân Pháp* của Nguyễn Ái Quốc được xuất bản tại Paris.
 *   **01/1925:** Nguyễn Ái Quốc mở các lớp huấn luyện chính trị cho thanh niên yêu nước tại Quảng Châu.
 *   **03/03/1925:** Thượng thư Bộ Binh Thân Trọng Huề gửi văn thư cho Khâm sứ Pháp, khẳng định "Các đảo Hoàng Sa bao giờ cũng thuộc về nước An Nam", xác nhận chủ quyền trước các tranh chấp gia tăng.
-*   **06/1925:** Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng Thanh niên tại Quảng Châu (Trung Quốc), tổ chức các khóa đào tạo lý luận Mác-Lênin để chuẩn bị về tư tưởng và tổ chức cho sự ra đời của Đảng Cộng sản Việt Nam.
+*   **06/1925:** Nguyễn Ái Quốc cùng Hồ Tùng Mậu và các chiến sĩ cách mạng thành lập Hội Việt Nam Cách mạng Thanh niên (Việt Nam Thanh niên Cách mạng Đồng chí Hội) tại Quảng Châu (Trung Quốc), tổ chức các khóa đào tạo lý luận Mác-Lênin chuẩn bị về tư tưởng và tổ chức cho sự ra đời của Đảng Cộng sản Việt Nam.
 *   **21/06/1925:** Tuần báo *Thanh niên*, cơ quan ngôn luận của Hội Việt Nam Cách mạng Thanh niên, ra số đầu tiên.
 *   **30/06/1925:** Phan Bội Châu bị thực dân Pháp bắt cóc tại Thượng Hải.
 *   **08/1925:** Cuộc bãi công của hơn 1.000 công nhân xưởng Ba Son (Sài Gòn) do Tôn Đức Thắng lãnh đạo, trì hoãn việc sửa chữa chiến hạm Jules Michelet của Pháp.
@@ -1390,7 +1390,7 @@
 *   **14/07/1927:** Hội Việt Nam Cách mệnh đồng chí Hội (tiền thân của Tân Việt) được thành lập.
 *   **19/07/1927:** Thành lập Tổng Thanh tra lao động Đông Dương.
 *   **30/10/1927:** Nghị định tái tổ chức bộ máy hành chính cấp làng xã ở Nam Kỳ.
-*   **25/12/1927:** Việt Nam Quốc dân Đảng được thành lập tại Hà Nội.
+*   **25/12/1927:** Nguyễn Thái Học cùng các cộng sự thành lập Việt Nam Quốc dân Đảng tại Hà Nội, ông được bầu làm Chủ tịch Ban Chấp hành Trung ương.
 *   **1928:** Lê Duẩn tham gia Hội Việt Nam Cách mạng Thanh niên, bắt đầu cuộc đời hoạt động cách mạng sôi nổi gần 60 năm.
 *   **25/01/1928:** Triều đình Huế ra chỉ dụ cấm truyền bá đạo Tin Lành và đạo Cao Đài ở Trung Kỳ.
 *   **14/07/1928:** Hội nghị Ban Chấp hành Trung ương Việt Nam Cách mệnh đồng chí Hội quyết định đổi tên thành Tân Việt Cách mạng Đảng.
@@ -1407,6 +1407,7 @@
 *   **1930 - 1932:** Các tàu chiến *Inconstant*, *Alerte*, *La Malicieuse* và *De Lanessan* của hải quân Pháp liên tiếp thực hiện các cuộc tuần tiễu và khẳng định chủ quyền tại quần đảo Hoàng Sa.
 *   **01/01/1930:** Đông Dương Cộng sản Liên đoàn chính thức thành lập tại Hà Tĩnh.
 *   **02/1930:** Cuộc khởi nghĩa Yên Bái do Việt Nam Quốc dân Đảng lãnh đạo nổ ra và thất bại.
+*   **02/02/1930:** Trần Tử Bình lãnh đạo cuộc khởi nghĩa của hơn 5.000 công nhân cao su Phú Riềng ("Phú Riềng Đỏ"), một trong những phong trào bãi công lớn đầu tiên của giai cấp công nhân do chi bộ cộng sản lãnh đạo.
 *   **03-07/02/1930:** Hội nghị hợp nhất các tổ chức cộng sản diễn ra tại Cửu Long (Hương Cảng, Trung Quốc) dưới sự chủ trì của Nguyễn Ái Quốc, quyết định thành lập Đảng Cộng sản Việt Nam và thông qua Chánh cương tắt, Sách lược tắt vận dụng sáng tạo chủ nghĩa Mác-Lênin.
 *   **Đầu những năm 1930:** Theo kết quả điều tra của Yves Henry, dưới tác động của chủ nghĩa thực dân Pháp, tình trạng sở hữu ruộng đất phân hóa cực kỳ sâu sắc. Ruộng đất công chỉ còn 21% ở Bắc Kỳ, 25% ở Trung Kỳ và 3% ở Nam Kỳ. Về ruộng đất tư hữu, 94,8% số chủ sở hữu dưới 5 ha (chiếm 28,5% diện tích), trong khi 0,30% chủ sở hữu trên 50 ha (chiếm tới 31,5% diện tích).
 *   **10/02/1930:** Cuộc khởi nghĩa Yên Bái do Việt Nam Quốc dân Đảng lãnh đạo bùng nổ nhưng nhanh chóng thất bại.
@@ -1425,11 +1426,13 @@
 
 *   **1931:** Trung Quốc cho đấu thầu việc khai thác phân chim trên quần đảo Hoàng Sa.
 *   **17/01/1931:** Chuyến bay bưu chính đầu tiên giữa Pháp và Đông Dương diễn ra.
+*   **09/02/1931:** Lý Tự Trọng bắn chết tên mật thám Le Grand tại Sài Gòn để bảo vệ đồng chí diễn thuyết, sau đó bị địch bắt.
 *   **11/04/1931:** Quốc tế Cộng sản ra nghị quyết công nhận Đảng Cộng sản Đông Dương là chi bộ độc lập.
 *   **19/04/1931:** Nguyễn Thị Út (Út Tịch) sinh ra tại làng Tích Thiện, quận Cầu Kè, tỉnh Cần Thơ (nay thuộc Tam Ngãi, Trà Vinh). Bà sau này trở thành một nữ anh hùng huyền thoại của Quân Giải phóng miền Nam Việt Nam.
 *   **19/04/1931:** Tổng Bí thư Trần Phú bị địch bắt.
 *   **06/1931:** Nguyễn Ái Quốc (với tên giả Tống Văn Sơ) bị chính quyền Anh bắt giam tại Hồng Kông.
 *   **06/09/1931:** Đồng chí Trần Phú hy sinh tại nhà thương Chợ Quán.
+*   **20/11/1931:** Lý Tự Trọng anh dũng hy sinh trên máy chém tại khám lớn Sài Gòn khi mới 17 tuổi, để lại câu nói bất hủ: "Con đường của thanh niên chỉ là con đường cách mạng, không thể có con đường nào khác".
 *   **04/12/1931:** Chính phủ Pháp gửi công hàm cho Công sứ quán Trung Quốc tại Paris chính thức yêu sách chủ quyền đối với quần đảo Hoàng Sa.
 *   **29/04/1932:** Pháp chính thức phản kháng các yêu sách của Trung Quốc, nêu rõ các danh nghĩa lịch sử và bằng chứng về sự chiếm hữu của An Nam đối với quần đảo Hoàng Sa. Cùng năm, Pháp đề nghị đưa vụ tranh chấp ra trọng tài quốc tế, nhưng Trung Quốc đã phản đối.
 *   **15/06/1932:** Đảng Cộng sản Đông Dương công bố *Chương trình hành động* để khôi phục hệ thống tổ chức và phong trào cách mạng.
@@ -1443,8 +1446,10 @@
 *   **02/05/1933:** Vua Bảo Đại ra đạo Dụ cải tổ bộ máy Nam triều, lập ra nội các mới gồm các Thượng thư như Phạm Quỳnh, Ngô Đình Diệm.
 *   **26/07/1933:** Chính phủ Pháp ban hành nghị định chính thức công bố việc Hải quân Pháp chiếm hữu quần đảo Trường Sa.
 *   **21/12/1933:** Thống đốc Nam Kỳ J. Krautheimer ký nghị định chính thức sáp nhập quần đảo Trường Sa vào tỉnh Bà Rịa.
+*   **1934 - 1935:** Nguyễn Sơn (Hồng Thủy) trở thành chiến sĩ người Việt duy nhất tham gia cuộc Vạn lý Trường chinh lịch sử 10.000 km của Quân giải phóng Nhân dân Trung Quốc.
 *   **12/09/1934:** Vừ A Dính, người thiếu niên anh hùng dũng cảm người dân tộc HMông trong kháng chiến chống Pháp, sinh ra tại xã Pú Nhung, huyện Tuần Giáo, tỉnh Điện Biên.
-*   **27-31/03/1935:** Đại hội đại biểu toàn quốc lần thứ nhất của Đảng Cộng sản Đông Dương được tổ chức tại Ma Cao (Trung Quốc).
+*   **27 - 31/03/1935:** Đại hội đại biểu toàn quốc lần thứ I của Đảng họp tại Ma Cao (Trung Quốc) bầu Ban Chấp hành Trung ương do đồng chí Lê Hồng Phong làm Tổng Bí thư.
+*   **25/07 - 20/08/1935:** Nguyễn Thị Minh Khai đại diện cho Đảng Cộng sản Đông Dương tham dự và phát biểu tại Đại hội lần thứ VII của Quốc tế Cộng sản tại Moskva (Liên Xô).
 
 ### **Thời kỳ Mặt trận Dân chủ (1936 - 1938)**
 
@@ -1452,7 +1457,7 @@
 *   **1936:** Việt Nam Độc lập Vận động Đồng minh Hội, một tổ chức có tên gọi tương tự Việt Minh, được thành lập tại Nam Kinh (Trung Quốc) bởi các nhà hoạt động chống đế quốc.
 *   **1936:** Rời nhà tù Côn Đảo trở về, Lê Duẩn hoạt động ở Trung Kỳ. Trên cương vị Bí thư Xứ ủy Trung Kỳ, ông đã lãnh đạo phong trào Mặt trận Dân chủ (1936 - 1939), đấu tranh đòi quyền dân sinh, dân chủ.
 *   **03/05/1936:** Mặt trận Nhân dân Pháp do Léon Blum đứng đầu thắng cử, mở ra một thời kỳ thuận lợi cho phong trào dân chủ ở các thuộc địa.
-*   **07/1936:** Hội nghị Ban Chấp hành Trung ương Đảng tại Thượng Hải (Trung Quốc) do đồng chí Lê Hồng Phong chủ trì, quyết định thành lập Mặt trận Thống nhất Nhân dân Phản đế Đông Dương.
+*   **26/07/1936:** Hội nghị Ban Chấp hành Trung ương Đảng tại Thượng Hải (Trung Quốc) do đồng chí Lê Hồng Phong chủ trì, quyết định thành lập Mặt trận Thống nhất Nhân dân Phản đế Đông Dương và cử đồng chí Hà Huy Tập làm Tổng Bí thư (đảm nhiệm đến tháng 3/1938).
 *   **08/1936:** Phong trào "Đông Dương Đại hội" bắt đầu sôi nổi, nhằm thu thập "dân nguyện" để gửi cho phái đoàn điều tra của Quốc hội Pháp. Hàng trăm "Ủy ban hành động" được thành lập trên cả nước.
 *   **13/11/1936:** Cuộc tổng bãi công của hơn 3 vạn công nhân mỏ vùng Hòn Gai, Cẩm Phả nổ ra và giành thắng lợi lớn.
 *   **30/12/1936:** Chính phủ Pháp ban hành Sắc lệnh về Luật Lao động ở Đông Dương, quy định một số chế độ cho người lao động.
@@ -1478,6 +1483,7 @@
 
 *   **1939:** Tổng Bí thư Nguyễn Văn Cừ xuất bản tác phẩm *Tự chỉ trích*.
 *   **1939 - 1940:** Bùi Văn Thuyên (còn gọi là Hai Thiêng) sinh ra trong một gia đình nông dân nghèo tại Châu Thành, Tây Ninh. Xuất thân từ một gia đình giàu truyền thống yêu nước có cha và anh tham gia kháng chiến chống Pháp, ông sau này trở thành một chiến sĩ du kích huyền thoại, tham gia hơn 1.000 trận đánh và mang trên mình 72 vết thương trong suốt cuộc kháng chiến chống Mỹ.
+*   **1939:** Bác sĩ Tôn Thất Tùng công bố công trình nghiên cứu về cấu trúc gan, đặt nền móng cho "Phương pháp mổ gan Tôn Thất Tùng" (mổ gan khô) nổi tiếng thế giới.
 *   **12/03/1939:** Việt Nam Phục quốc Đồng minh Hội chính thức ra mắt tại Thượng Hải.
 *   **31/03/1939:** Chính phủ Nhật Bản tuyên bố quyền kiểm soát đối với quần đảo Trường Sa. Pháp đã lên tiếng phản đối hành động này vào ngày 4 tháng 4.
 *   **05/05/1939:** Toàn quyền Jules Brévié sửa đổi nghị định năm 1938 để thành lập hai đại lý hành chính riêng biệt cho quần đảo Hoàng Sa: đại lý "Nhóm Lưỡi Liềm và các đảo phụ cận" và đại lý "Nhóm An Vĩnh và các đảo phụ cận".
@@ -1497,14 +1503,17 @@
 *   **1941:** Kiến trúc sư Huỳnh Tấn Phát đoạt giải nhất cuộc thi thiết kế khu Trung tâm Hội chợ Triển lãm Đông Dương tại Sài Gòn.
 *   **13/01/1941:** Cuộc binh biến Đô Lương do Đội Cung lãnh đạo nổ ra ở Nghệ An.
 *   **28/01/1941:** Lãnh tụ Nguyễn Ái Quốc trở về nước tại Pắc Bó (Cao Bằng) sau 30 năm hoạt động ở nước ngoài để trực tiếp lãnh đạo cách mạng.
-*   **10-19/05/1941:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ VIII tại Pắc Bó (Cao Bằng) do Nguyễn Ái Quốc chủ trì, hoàn chỉnh đường lối giải phóng dân tộc và quyết định thành lập Mặt trận Việt Nam Độc lập Đồng minh (Việt Minh).
+*   **10-19/05/1941:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ VIII tại Pắc Bó (Cao Bằng) do Nguyễn Ái Quốc chủ trì, hoàn chỉnh đường lối giải phóng dân tộc, quyết định thành lập Mặt trận Việt Nam Độc lập Đồng minh (Việt Minh) và bầu đồng chí Trường Chinh làm Tổng Bí thư.
+*   **28/08/1941:** Thực dân Pháp xử bắn các nhà lãnh đạo cách mạng kiên trung Nguyễn Thị Minh Khai, Hà Huy Tập và Nguyễn Văn Cừ tại ngã tư Giồng (Hóc Môn, Gia Định).
 *   **Giữa năm 1942:** Bị địch theo dõi, Lưu Tấn Phát nghỉ dạy học, trở về Mỹ Tho làm nghề sửa đồng hồ để làm vỏ bọc hoạt động cách mạng.
 *   **08/1942:** Lấy tên Hồ Chí Minh, Người sang Trung Quốc tranh thủ sự ủng hộ quốc tế nhưng bị chính quyền địa phương bắt giam. Trong thời gian bị tù, Người viết tập thơ *Nhật ký trong tù*.
+*   **06/09/1942:** Nguyên Tổng Bí thư Lê Hồng Phong kiên cường hy sinh tại nhà tù Côn Đảo sau nhiều năm bị tra tấn và giam cầm dã man.
 *   **01/10/1942:** Việt Nam Cách mệnh Đồng minh Hội (Việt Cách) được thành lập tại Liễu Châu (Trung Quốc), tập hợp nhiều đảng phái yêu nước.
 *   **1943:** Đảng Cộng sản Đông Dương công bố bản *Đề cương về Văn hóa Việt Nam*.
 *   **1943:** Lưu Tấn Phát mở tiệm đồng hồ "Tấn Phát" tại Mỹ Tho, nơi đây trở thành cơ sở bí mật để chắp nối với các đồng chí cách mạng.
 *   **1943:** Ông Nguyễn Tuất chuyển vào làm việc tại Bưu điện Nha Trang, đưa gia đình và cậu con trai 11 tuổi Nguyễn Văn Lượm đi theo. Lượm tiếp tục học tại đây 2 năm. Giấy căn cước bằng song ngữ Pháp - Việt của Lượm được cấp trong năm này để ứng thí các bằng cấp Pháp - Việt ở Trung Kỳ.
 *   **01/01/1943:** Đại Việt Duy dân Cách mệnh Đảng được thành lập.
+*   **02/1943:** Tổng Bí thư Trường Chinh khởi thảo bản **"Đề cương Văn hóa Việt Nam"**, văn kiện chính thức đầu tiên của Đảng về văn hóa, xác định ba nguyên tắc: Dân tộc hóa, Đại chúng hóa và Khoa học hóa.
 *   **Đầu năm 1943:** Đại Việt Phục hưng Hội được thành lập.
 *   **Đầu năm 1943:** Dưới sự chỉ đạo của Chi bộ Nhà tù Sơn La, tổ chức "Đoàn thanh niên Thái cứu quốc" (hay Thanh niên cứu quốc Mường La) được thành lập nhằm tập hợp thanh niên tham gia cách mạng. Lò Văn Giá đã gia nhập tổ chức này, trở thành một quần chúng ưu tú bên ngoài nhà tù.
 *   **08/1943:** Chi bộ Nhà tù Sơn La tổ chức cuộc vượt ngục lịch sử cho các tù chính trị cốt cán để chuẩn bị cho Tổng khởi nghĩa. Lò Văn Giá, người thạo tiếng Mông và địa hình Tây Bắc, được chọn dẫn đường cho 4 chiến sĩ cộng sản: Trần Đăng Ninh, Nguyễn Lương Bằng, Nguyễn Văn Trân và Lưu Đức Hiểu. Sau 5 ngày gian khổ, ông đã đưa đoàn đến đích an toàn tại khu vực Suối Rút (Hòa Bình). Khi quay lại Sơn La, Lò Văn Giá bị thực dân Pháp bắt. Không khai thác được chứng cứ và bất lực trước lòng trung thành tuyệt đối của ông, giặc Pháp đã lén lút thủ tiêu ông.
@@ -1544,11 +1553,11 @@
 *   **19/08/1945:** Tổng khởi nghĩa thắng lợi ở Hà Nội (Cách mạng tháng Tám).
 *   **23/08/1945:** Khởi nghĩa thắng lợi ở Huế.
 *   **24/08/1945:** Huỳnh Tấn Phát thiết kế và chỉ đạo xây dựng Kỳ đài tại ngã tư Nguyễn Huệ - Lê Lợi (Sài Gòn) để ghi danh 11 ủy viên Lâm ủy Nam Bộ.
-*   **25/08/1945:** Huỳnh Tấn Phát tham gia lãnh đạo cuộc khởi nghĩa giành chính quyền thắng lợi ở Sài Gòn.
-*   **25/08/1945:** Khởi nghĩa thắng lợi ở Sài Gòn.
+*   **25/08/1945:** Cuộc khởi nghĩa giành chính quyền thắng lợi ở Sài Gòn, có sự tham gia lãnh đạo tích cực của Huỳnh Tấn Phát.
 *   **26/08/1945:** Hòa cùng khí thế của Cách mạng tháng Tám, cuộc khởi nghĩa giành chính quyền ở Sơn La đã diễn ra thắng lợi.
 *   **28/08/1945:** Ủy ban Dân tộc Giải phóng cải tổ thành Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa. 20 vạn quân Tưởng Giới Thạch do Lư Hán chỉ huy bắt đầu kéo vào miền Bắc Việt Nam (từ vĩ tuyến 16 trở ra).
 *   **30/08/1945:** Vua Bảo Đại đọc Chiếu thoái vị tại Huế, chấm dứt chế độ phong kiến ở Việt Nam.
+*   **30/08/1945:** Bác sĩ Trần Duy Hưng được Chủ tịch Hồ Chí Minh giao nhiệm vụ và đảm nhiệm chức vụ Chủ tịch Ủy ban Hành chính lâm thời Thành phố Hà Nội.
 *   **09/1945:** Nhân ngày khai trường đầu tiên của nước Việt Nam Dân chủ Cộng hòa, Chủ tịch Hồ Chí Minh gửi thư cho học sinh.
 
 ### **Giai đoạn Thiết lập Chính quyền và Kháng chiến ở Nam Bộ (09/1945 - 02/1946)**
@@ -1558,7 +1567,7 @@
 *   **03/09/1945:** Trong phiên họp đầu tiên của Chính phủ lâm thời, Chủ tịch Hồ Chí Minh đề ra các nhiệm vụ cấp bách: chống giặc đói, giặc dốt và giặc ngoại xâm.
 *   **04/09/1945:** Chính phủ ra Sắc lệnh số 4/SL lập "Quỹ Độc lập".
 *   **05/09/1945:** Chính phủ lâm thời ra sắc lệnh giải thể Đại Việt Quốc gia Xã hội Đảng và Đại Việt Quốc dân Đảng.
-*   **07/09/1945:** Chủ tịch Hồ Chí Minh ra chỉ thị thành lập Bộ Tổng tham mưu quân đội.
+*   **07/09/1945:** Chủ tịch Hồ Chí Minh ra chỉ thị thành lập Bộ Tổng Tham mưu Quân đội nhân dân Việt Nam và chỉ định đồng chí Hoàng Văn Thái làm Tổng Tham mưu trưởng đầu tiên.
 *   **08/09/1945:** Chủ tịch Hồ Chí Minh ký Sắc lệnh số 14-SL, ấn định sẽ tổ chức Tổng tuyển cử trong vòng hai tháng.
 *   **11/09/1945:** Tướng Gracey, chỉ huy quân đội Anh, đến Sài Gòn.
 *   **16/09/1945:** "Tuần lễ vàng" bắt đầu, vận động nhân dân đóng góp tài chính cho đất nước.
@@ -1567,6 +1576,7 @@
 *   **26/09/1945:** Chủ tịch Hồ Chí Minh ra Lời kêu gọi đồng bào Nam Bộ kháng chiến. Chi đội Nam tiến đầu tiên rời Hà Nội lên đường vào Nam chiến đấu.
 *   **28/09/1945:** Chủ tịch Hồ Chí Minh ra "Lời kêu gọi sau nạn đói" (Thư gửi đồng bào toàn quốc về việc cứu đói), phát động phong trào "Hũ gạo cứu đói" và kêu gọi tinh thần nhường cơm sẻ áo ("10 ngày nhường ăn một bữa") để diệt giặc đói.
 *   **10/1945:** Huỳnh Tấn Phát làm Trưởng đoàn đại biểu Thanh niên Nam Bộ ra Hà Nội dự Đại hội Thanh niên toàn quốc.
+*   **10/1945:** Nguyễn Bình được Chủ tịch Hồ Chí Minh cử vào Nam Bộ làm Tư lệnh Bộ Tư lệnh Nam Bộ, thống nhất các lực lượng vũ trang kháng chiến tại Nam Bộ.
 *   **25/10/1945:** Xứ ủy Nam Bộ họp hội nghị cán bộ ở Thiên Hộ (Mỹ Tho), đề ra phương hướng kháng chiến lâu dài.
 *   **11/11/1945:** Đảng Cộng sản Đông Dương tuyên bố "tự giải tán", thực chất là rút vào hoạt động bí mật.
 *   **25/11/1945:** Ban Thường vụ Trung ương Đảng ra Chỉ thị "Kháng chiến kiến quốc", xác định kẻ thù chính và nhiệm vụ trước mắt của cách mạng.
@@ -1629,6 +1639,7 @@
 *   **1947:** Việt Nam đặt cơ quan liên lạc đầu tiên tại Yangon, Miến Điện (Myanmar). Cơ quan này sau đó được nâng cấp thành Văn phòng Thông tin tuyên truyền vào năm 1948, giúp mở rộng tuyên truyền quốc tế và phục vụ công tác chỉ đạo kháng chiến.
 *   **1947:** Trung Hoa Dân Quốc (Trung Quốc Quốc dân Đảng) đã đưa ra bản đồ với đường 11 đoạn, sau này được Cộng hòa Nhân dân Trung Hoa kế thừa và sửa thành đường 9 đoạn. Họ dựa vào cái gọi là "tuyên bố chủ quyền lịch sử" để đòi hỏi hầu hết diện tích Biển Đông, bao gồm cả Hoàng Sa và Trường Sa.
 *   **1947:** Ở tuổi 13, Vừ A Dính thoát ly gia đình, tham gia đội vũ trang Tuần Giáo, làm nhiệm vụ giao thông liên lạc cho lực lượng kháng chiến chống Pháp.
+*   **1947 - 1950:** Trung tá Đặng Văn Việt (Trung đoàn trưởng Trung đoàn 174) chỉ huy chuỗi trận phục kích lừng lẫy trên Đường số 4, giải phóng Đông Khê, Thất Khê, khiến quân Pháp gọi ông là "Hùm xám Đường 4".
 *   **03/01/1947:** Bộ trưởng Bộ Thuộc địa Pháp Marius Moutet đến nhà tù Hỏa Lò hòng mua chuộc các trí thức Việt Nam đang bị giam giữ, trong đó có bác sĩ Trần Văn Lai. Các trí thức đã đáp lại bằng sự im lặng, thể hiện sự khinh bỉ và lòng yêu nước kiên định.
 *   **06/01/1947:** Trung đoàn Thủ đô chính thức được thành lập từ lực lượng bảo vệ Liên khu 1 ở Hà Nội.
 *   **07/01/1947:** Quân đội Trung Hoa Dân quốc chiếm đóng đảo Phú Lâm (Woody Island) ở Hoàng Sa. Cùng ngày, Bộ Ngoại giao Trung Quốc tổ chức họp báo tại Nam Kinh chính thức thông báo việc chiếm đóng, tuyên bố cờ Trung Quốc đang tung bay trên các đảo "chưa bao giờ không thuộc về Trung Quốc".
@@ -1642,10 +1653,12 @@
 *   **17/02/1947:** Mặt trận Thống nhất Quốc gia Liên hiệp được thành lập tại Nam Kinh (Trung Quốc) bởi các lãnh đạo Việt Cách và Việt Quốc để ủng hộ giải pháp Bảo Đại.
 *   **25/02 - 04/07/1947:** Pháp và Trung Hoa Dân quốc tiến hành đàm phán tại Paris về chủ quyền quần đảo Hoàng Sa. Trung Quốc đưa ra điều kiện tiên quyết là Pháp phải rút quân khỏi đảo Hoàng Sa (Pattle) và kịch liệt bác bỏ đề nghị của Pháp về việc đưa ra trọng tài quốc tế. Các cuộc thảo luận kết thúc mà không đạt được thỏa thuận nào.
 *   **03 - 04/1947:** Quân đội Việt Nam phản công tại Hải Phòng (22/03), Hà Đông (20/03 và 13/04), và khu Việt Nam Học xá ở Hà Nội (20/04).
+*   **03/1947:** Cục trưởng Cục Quân giới Trần Đại Nghĩa chế tạo thành công đạn Bazooka thử nghiệm tại xưởng Giang Tiên (Thái Nguyên), góp phần bẻ gãy đợt tấn công của xe tăng Pháp tại Hà Đông.
 *   **04/1947:** Ngô Mây xung phong nhập ngũ và được biên chế vào Đại đội Quyết tử của Tiểu đoàn 50, Trung đoàn 94 (sau đổi thành Trung đoàn 108).
 *   **15/04/1947:** Quân nhảy dù Pháp đổ bộ xuống Hòa Bình.
 *   **15/04/1947:** Ở tuổi 14, Nguyễn Văn Lượm, với vai trò là đội viên du kích và giao liên, đã anh dũng hy sinh vì Tổ quốc trong khi chiến đấu với địch tại Thừa Thiên. Cậu bị trúng đạn khi đang đưa thư khẩn qua một cánh đồng. Sự dũng cảm và nét ngây thơ của cậu đã truyền cảm hứng cho người bác họ là nhà thơ Tố Hữu viết nên bài thơ "Lượm" bất hủ.
 *   **16/04/1947:** Giáo chủ Hòa Hảo Huỳnh Phú Sổ mất tích (được cho là bị thủ tiêu) tại Đồng Tháp Mười, dẫn đến xung đột vũ trang giữa Hòa Hảo và Việt Minh.
+*   **08/1947 - 08/1948:** Giáo sư Tạ Quang Bửu đảm nhiệm chức vụ Bộ trưởng Bộ Quốc phòng Việt Nam Dân chủ Cộng hòa.
 *   **07/10/1947:** Pháp mở cuộc tấn công quy mô lớn lên căn cứ địa Việt Bắc (Chiến dịch Léa), nhảy dù 800 quân xuống Bắc Kạn.
 *   **09/10/1947:** Bộ đội Việt Nam bắn rơi một máy bay Ju-52 của Pháp tại Cao Bằng, tiêu diệt 12 sĩ quan tham mưu và thu được bản kế hoạch tiến công Việt Bắc của địch.
 *   **24/10/1947:** Pháo binh Việt Nam phục kích bắn chìm 2 tàu chiến Pháp trên sông Lô tại Đoan Hùng, cắt đứt tuyến đường thủy của địch.
@@ -1659,6 +1672,7 @@
 *   **01/12/1947:** Tưởng Giới Thạch ký một sắc lệnh đặt tên tiếng Trung cho hai quần đảo và tuyên bố chúng là lãnh thổ Trung Quốc.
 *   **19/12/1947:** Đại bộ phận quân Pháp rút khỏi Việt Bắc, chiến dịch tấn công của địch hoàn toàn thất bại.
 *   **1948:** Lê Thị Riêng được kết nạp vào Đảng Cộng sản Việt Nam.
+*   **20/01/1948:** Chủ tịch Hồ Chí Minh ký sắc lệnh phong quân hàm đợt đầu tiên của QĐNDVN: Nguyễn Bình được phong Trung tướng; Nguyễn Sơn, Trần Tử Bình cùng các tướng lĩnh khác được phong Thiếu tướng.
 *   **25/01/1948:** Chính phủ ra sắc lệnh thành lập các Liên khu để thống nhất chỉ đạo kháng chiến.
 *   **Đầu năm 1948:** Georges Boudarel đến Sài Gòn, Việt Nam với thư giới thiệu của Văn phòng Đông Dương thuộc Đảng Cộng sản Pháp. Ban đầu, ông giảng dạy triết học tại Trường trung học Yersin ở Đà Lạt.
 *   **11/06/1948:** Chủ tịch Hồ Chí Minh ra lời kêu gọi thi đua ái quốc.
@@ -1724,11 +1738,13 @@
 *   **28/05 - 20/06/1951:** Mở Chiến dịch Quang Trung (Hà Nam Ninh) ở khu vực Hà Nam - Nam Định - Ninh Bình nhằm phá vỡ phòng tuyến sông Đáy của địch. Trong các đợt tấn công mở màn, trung úy Bernard de Lattre de Tassigny (con trai duy nhất của Tổng chỉ huy Pháp) đã tử trận tại Ninh Bình. Trong chiến dịch này, Cù Chính Lan cùng đại đội của mình dù trang bị thiếu thốn đã dũng cảm chiến đấu với 5 đại đội địch, cướp súng địch để diệt địch. Sau trận đánh này, ông được tuyên dương là "anh hùng tay không giết giặc".
 *   **28/06/1951:** Đảng Nhân dân Cách mạng Campuchia được thành lập.
 *   **15/07/1951:** Bảo Đại ký dụ "Tổng động viên", thành lập cái gọi là "quân đội quốc gia" nhằm thực hiện âm mưu "dùng người Việt đánh người Việt" của Pháp.
+*   **23/07/1951:** Chủ nhiệm Ủy ban Kiểm tra Trung ương Hồ Tùng Mậu anh dũng hy sinh trên đường đi công tác tại Thanh Hóa do máy bay Pháp bắn phá.
 *   **15/08/1951:** Bộ trưởng Ngoại giao Cộng hòa Nhân dân Trung Hoa Chu Ân Lai ra tuyên bố khẳng định các quyền lịch sử của Trung Quốc đối với các quần đảo nhằm đáp trả dự thảo hiệp ước hòa bình với Nhật Bản.
 *   **09/1951:** Mỹ ký Hiệp ước hợp tác kinh tế Việt - Mỹ với chính phủ Bảo Đại.
 *   **05-07/09/1951:** Tại Hội nghị Hòa bình San Francisco, một tu chính án của Liên Xô đề nghị Nhật Bản công nhận chủ quyền của Cộng hòa Nhân dân Trung Hoa đối với quần đảo Hoàng Sa và Trường Sa đã bị bác bỏ với tỷ lệ áp đảo (48 phiếu chống, 3 phiếu thuận). Ngày 7 tháng 9, Trần Văn Hữu, Thủ tướng chính phủ Bảo Đại, đã trịnh trọng tuyên bố hai quần đảo là lãnh thổ của Việt Nam mà không có sự phản đối nào từ các đại biểu tham dự.
 *   **27/09 - 05/10/1951:** Ban Chấp hành Trung ương họp Hội nghị lần thứ hai, đề ra ba nhiệm vụ lớn: tiêu diệt sinh lực địch, phá âm mưu "lấy chiến tranh nuôi chiến tranh" của địch, và bồi dưỡng sức dân.
 *   **29/09 - 31/10/1951:** Mở Chiến dịch Lý Thường Kiệt, tiến công địch ở khu vực Nghĩa Lộ (Yên Bái).
+*   **29/09/1951:** Trung tướng Nguyễn Bình hy sinh trên đường ra Bắc báo cáo tình hình với Trung ương Đảng và Chủ tịch Hồ Chí Minh.
 *   **10 - 14/11/1951:** Quân Pháp mở cuộc hành quân Hoa Tuylíp (đánh chiếm Chợ Bến) và Hoa Sen (chiếm thị xã Hòa Bình) nhằm lập phòng tuyến ngăn chặn liên lạc của Việt Minh.
 *   **24/11/1951:** Tổng Quân ủy quyết định mở Chiến dịch Hòa Bình, sử dụng ba Đại đoàn 306, 312, 304 vây hãm và tiêu diệt quân cơ giới địch ở mặt trận Hòa Bình nhằm đập tan âm mưu lập "Xứ Mường tự trị" và cắt đứt liên lạc của lực lượng kháng chiến.
 *   **12/1951:** Mỹ ký Hiệp ước an ninh chung với chính phủ Bảo Đại, tăng cường can thiệp vào Đông Dương.
@@ -1763,6 +1779,7 @@
 *   **01/08/1953:** Khoảng 20 giờ, sau nhiều ngày bị tra tấn tàn bạo mà không khai thác được thông tin, quân địch đã chôn sống Nguyễn Thị Tuyết (Thường Tín) tại một hố cạnh bốt Tía.
 *   **09/1953:** Văn phòng Trung ương Đảng, Tổng Bí thư Trường Chinh, Phó Thủ tướng Phạm Văn Đồng và các cơ quan đầu não của Chính phủ chuyển đến ở và làm việc tại an toàn khu (ATK) Kim Quan, huyện Yên Sơn, tỉnh Tuyên Quang.
 *   **09/1953:** Bộ Chính trị họp bàn về nhiệm vụ quân sự trong Đông - Xuân 1953-1954, đề ra phương châm chiến lược "Tích cực, chủ động, cơ động, linh hoạt".
+*   **11/1953:** Đồng chí Văn Tiến Dũng được cử giữ chức Tổng Tham mưu trưởng Quân đội nhân dân Việt Nam, chỉ đạo công tác tham mưu tác chiến trong suốt cuộc kháng chiến chống Mỹ.
 *   **14 - 23/11/1953:** Hội nghị toàn quốc lần thứ nhất của Đảng họp thảo luận và thông qua Cương lĩnh ruộng đất.
 *   **20/11/1953:** Quân Pháp nhảy dù chiếm đóng Điện Biên Phủ (Cuộc hành quân Castor), bắt đầu xây dựng nơi đây thành một tập đoàn cứ điểm mạnh nhất Đông Dương.
 *   **26/11/1953:** Chủ tịch Hồ Chí Minh trả lời phỏng vấn báo *Expressen* (Thụy Điển), nêu rõ thiện chí hòa bình và khẳng định lập trường đàm phán của Việt Nam.
@@ -1792,6 +1809,7 @@
     *   Lấy vĩ tuyến 17 làm giới tuyến quân sự tạm thời.
     *   Quân đội hai bên tập kết về hai miền Nam - Bắc.
     *   Dự kiến tổ chức Tổng tuyển cử tự do để thống nhất đất nước vào tháng 7/1956.
+*   **20/07/1954:** Giáo sư Tạ Quang Bửu, đại diện Bộ Tổng Tư lệnh Quân đội nhân dân Việt Nam, ký Hiệp định đình chiến Giơnevơ tại Thụy Sĩ.
 *   **08/1954:** Sau khi Chiến dịch Điện Biên Phủ toàn thắng và Hiệp định Giơnevơ được ký kết, Chủ tịch Hồ Chí Minh cùng các cơ quan Trung ương Đảng và Chính phủ rời ATK Kim Quan (Tuyên Quang) trở về tiếp quản Thủ đô Hà Nội.
 *   **08/08/1954:** Cần lao Nhân vị Cách mạng Đảng (Đảng Cần lao) chính thức ra mắt tại miền Nam, do Ngô Đình Nhu sáng lập.
 
@@ -1801,6 +1819,7 @@
 *   **05-07/09/1954:** Bộ Chính trị họp và ra Nghị quyết về "Tình hình mới, nhiệm vụ mới và chính sách mới của Đảng", xác định chuyển hướng đấu tranh từ quân sự sang chính trị để đòi thi hành Hiệp định Giơnevơ.
 *   **06/09/1954:** Mỹ thành lập khối quân sự Đông Nam Á (SEATO) và đặt miền Nam Việt Nam, Lào, Campuchia dưới sự "bảo hộ" của khối này.
 *   **10/1954:** Sau Hiệp định Giơnevơ, Đinh Thị Vân nhận lệnh bí mật vào Nam hoạt động, đóng vai "người đi buôn" để xây dựng mạng lưới tình báo ở Sài Gòn. Để tạo vỏ bọc an toàn, cấp trên đã phát thông báo giả rằng bà "phản Đảng, chạy trốn vào Nam" và "tuyên án tử hình vắng mặt".
+*   **10/10/1954 - 1977:** Bác sĩ Trần Duy Hưng đảm nhiệm chức vụ Chủ tịch Ủy ban Hành chính Thành phố Hà Nội suốt 23 năm liên tục, là biểu tượng thân thương của chính quyền vì dân.
 *   **10/10/1954:** Quân đội Nhân dân Việt Nam tiến vào tiếp quản Thủ đô Hà Nội.
 *   **Cuối năm 1954:** Khi hòa bình lập lại ở miền Bắc, Georges Boudarel về Hà Nội. Ông làm thư ký chương trình tiếng Pháp của Đài Tiếng nói Việt Nam và công tác biên dịch, biên tập tại Nhà xuất bản Ngoại văn (nay là Nhà xuất bản Thế Giới). Ông đã nhiệt tình dịch nhiều tác phẩm văn học lớn của Việt Nam sang tiếng Pháp như "Tắt đèn" (Ngô Tất Tố), "Dế Mèn phiêu lưu ký" (Tô Hoài), góp phần đưa văn học Việt Nam ra thế giới.
 *   **29/12/1954:** Pháp ký hiệp ước trao toàn bộ quyền hành chính ở miền Nam Việt Nam cho Ngô Đình Diệm.
@@ -1813,6 +1832,7 @@
 *   **17/07/1955:** Ngô Đình Diệm tuyên bố từ chối hiệp thương tổng tuyển cử để thống nhất đất nước.
 *   **08/1955:** Hội nghị lần thứ 8 Ban Chấp hành Trung ương Đảng Lao động Việt Nam khẳng định miền Bắc phải tiến lên chủ nghĩa xã hội.
 *   **31/08/1955:** Ngô Mây được Quốc hội truy tặng danh hiệu Anh hùng lực lượng vũ trang nhân dân.
+*   **31/08/1955:** Đinh Núp (Anh hùng Núp) được Nhà nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân, trở thành Anh hùng đầu tiên của các dân tộc thiểu số Tây Nguyên.
 *   **09/1955:** Đại hội Mặt trận Dân tộc thống nhất toàn quốc quyết định thành lập **Mặt trận Tổ quốc Việt Nam**.
 *   **21/09 - 24/10/1955:** Quân đội Quốc gia Việt Nam, theo lệnh của Thủ tướng Ngô Đình Diệm, mở Chiến dịch Hoàng Diệu do Đại tá Dương Văn Minh chỉ huy nhằm truy kích và tiêu diệt tàn quân Bình Xuyên (khoảng 1.500 quân) ẩn náu tại đầm lầy Rừng Sát. Chiến dịch kết thúc với sự thất bại của quân Bình Xuyên (1.420 lính bị bắt, các chỉ huy Bảy Viễn, Lại Hữu Tài, Lại Văn Sang chạy trốn), khai thông giao thông trên sông Sài Gòn ra biển.
 *   **10/1955:** Tại cuộc họp của Tổ chức Hàng không Dân dụng Quốc tế (ICAO) ở Manila (Nghị quyết số 24), các nhà chức trách Đài Loan được yêu cầu tăng cường hoạt động quan sát khí tượng trên quần đảo Trường Sa (Nam Sa). Theo nguồn tin Trung Quốc, không có sự phản đối hay bảo lưu nào được đưa ra.
@@ -1958,8 +1978,7 @@
 *   **14/02 - 28/04/1965:** 5 tàu chiến Mỹ bị bắn chìm và bắn cháy tại vùng biển Nhật Lệ bởi quân và dân Quảng Bình.
 *   **01 - 09/03/1965:** Hội nghị nhân dân ba nước Đông Dương họp tại Phnôm Pênh (Campuchia), biểu thị tình đoàn kết chiến đấu chống kẻ thù chung là đế quốc Mỹ.
 *   **02/03/1965:** Mỹ bắt đầu chiến dịch không kích "Sấm rền" (Rolling Thunder) đánh phá miền Bắc một cách có hệ thống.
-*   **08/03/1965:** Lữ đoàn 9 Thủy quân Lục chiến Mỹ đổ bộ vào Đà Nẵng, đánh dấu việc Mỹ trực tiếp đưa quân chiến đấu vào tham chiến, mở đầu cho chiến lược **"Chiến tranh cục bộ"**.
-*   **08/03/1965:** Hai tiểu đoàn lính thủy đánh bộ Mỹ đổ bộ vào Đà Nẵng, chính thức mở đầu chiến lược "Chiến tranh cục bộ", trực tiếp đưa quân chiến đấu của Mỹ vào miền Nam.
+*   **08/03/1965:** Lữ đoàn 9 Thủy quân Lục chiến Mỹ đổ bộ vào Đà Nẵng, chính thức đưa quân chiến đấu Mỹ vào miền Nam và mở đầu chiến lược **"Chiến tranh cục bộ"**.
 *   **22/03/1965:** Mặt trận Dân tộc giải phóng miền Nam Việt Nam ra Tuyên bố 5 điểm, khẳng định quyết tâm đánh đuổi đế quốc Mỹ.
 *   **25-27/03/1965:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ 11 (khóa III) xác định nhiệm vụ cấp bách là "chống Mỹ, cứu nước", chuyển miền Bắc sang thời chiến.
 *   **04/1965:** Bí thư thứ nhất Lê Duẩn dẫn đầu đoàn đại biểu Việt Nam sang thăm Liên Xô và ký kết Hiệp định về việc Liên Xô viện trợ quân sự, mang lại nguồn lực vũ khí và trang bị lớn. Cùng thời gian này, những binh lính chiến đấu đầu tiên của Úc và New Zealand bắt đầu đổ bộ vào miền Nam Việt Nam để tham chiến cùng Mỹ.
@@ -1968,17 +1987,19 @@
 *   **05/05/1965:** Nguyễn Thị Út (Út Tịch) được Nhà nước tuyên dương danh hiệu Anh hùng lực lượng vũ trang nhân dân. Bà nổi tiếng với câu nói bất hủ: "Còn cái lai quần cũng đánh!".
 *   **09/05/1965:** Chính phủ Việt Nam Dân chủ Cộng hòa ra tuyên bố phản đối việc Mỹ ấn định "khu vực tác chiến" tại Việt Nam. Theo nguồn tin từ Trung Quốc, bản tuyên bố này có thể đã nhắc đến việc khu vực tác chiến của Mỹ bao gồm cả một phần vùng biển của CHND Trung Hoa ở "quần đảo Tây Sa" (Hoàng Sa).
 *   **26/05/1965:** Trận Núi Thành (Quảng Nam), lần đầu tiên một đơn vị chủ lực của Quân Giải phóng tiêu diệt gọn một đại đội lính thủy đánh bộ Mỹ, mở ra phong trào "Tìm Mỹ mà đánh, gặp Mỹ là diệt".
-*   **28/05 - 20/07/1965:** **Chiến dịch Ba Gia (Quảng Ngãi):** Quân Giải phóng miền Nam Việt Nam (Quân khu 5) mở chiến dịch tiến công quân lực Việt Nam Cộng hòa. Trong giai đoạn 1 (28/05 - 31/05), bằng chiến thuật vận động phục kích và bao vây, Quân Giải phóng đã lần đầu tiên tiêu diệt gọn một chiến đoàn hỗn hợp (gồm Bộ binh, Biệt động quân, Thủy quân lục chiến) của quân đội Sài Gòn, loại khỏi vòng chiến đấu hơn 900 lính. Chiến thắng này góp phần làm phá sản hoàn toàn chiến lược "Chiến tranh đặc biệt".
+*   **28/05 - 20/07/1965:** **Chiến dịch Ba Gia (Quảng Ngãi):** Quân Giải phóng miền Nam Việt Nam (Quân khu 5) mở chiến dịch tiến công quân lực Việt Nam Cộng hòa. Trong giai đoạn 1 (Trận Ba Gia, 28/05 - 31/05), bằng chiến thuật vận động phục kích và bao vây, Trung đoàn 1 (Sư đoàn 2) do Nguyễn Chơn chỉ huy đã lần đầu tiên tiêu diệt gọn một chiến đoàn hỗn hợp (gồm Bộ binh, Biệt động quân, Thủy quân lục chiến) của quân đội Sài Gòn, loại khỏi vòng chiến đấu hơn 900 lính. Chiến thắng này góp phần làm phá sản hoàn toàn chiến lược "Chiến tranh đặc biệt".
 *   **06/1965 - 09/1966:** Thể theo yêu cầu của Việt Nam, Trung Quốc cử bộ đội công trình đến vùng Đông Bắc giúp đỡ xây dựng các công trình bố phòng trên 13 đảo và 8 địa điểm đất liền ven biển. Trong giai đoạn 1965-1968, Trung Quốc đã cử 346 chuyên gia và hơn 31 vạn bộ đội (cao xạ, công trình, làm đường) sang giúp Việt Nam, trực tiếp tham gia chiến đấu và bắn rơi nhiều máy bay Mỹ.
 *   **09 - 13/06/1965:** **Trận Đồng Xoài (Phước Long):** Nằm trong khuôn khổ Chiến dịch Đồng Xoài (10/05 - 22/07), Quân Giải phóng mở cuộc tấn công quy mô lớn vào chi khu Đồng Xoài do Lực lượng Đặc biệt Việt Nam Cộng hòa và cố vấn Mỹ phòng thủ. Sau nhiều ngày đêm, Quân Giải phóng đã làm chủ cứ điểm và đánh thiệt hại nặng các tiểu đoàn viện binh (trong đó có Tiểu đoàn Dù 7 tinh nhuệ). Toàn chiến dịch đã loại khỏi vòng chiến đấu gần 4.500 lính đối phương, đánh dấu sự trưởng thành vượt bậc về tác chiến tập trung của Quân Giải phóng.
 *   **26/06/1965:** Lãnh tụ Fidel Castro phát biểu trước Đoàn đại biểu thanh niên Cuba tại La Habana, khẳng định sự ủng hộ tuyệt đối dành cho cuộc đấu tranh giành độc lập của nhân dân Việt Nam.
 *   **06/07/1965:** Hội đồng Bộ trưởng Liên Xô quyết định thành lập Đoàn chuyên gia quân sự tại Việt Nam để giúp đỡ lực lượng phòng không và không quân.
+*   **16/07/1965:** Nhà tình báo chiến lược Phạm Ngọc Thảo anh dũng hy sinh tại Sài Gòn sau khi bị chính quyền Nguyễn Văn Thiệu bắt giữ và tra tấn dã man; ông sau đó được truy tặng danh hiệu Anh hùng LLVTND và quân hàm Thiếu tướng.
 *   **24/07/1965:** Ngày truyền thống Bộ đội Tên lửa Phòng không. Đúng 15 giờ 53 phút, Trung đoàn Tên lửa 236 (đơn vị chủ lực phòng không đầu tiên của Quân đội nhân dân Việt Nam, với sự hỗ trợ của chuyên gia Liên Xô) đã đánh thắng trận đầu khi phóng 2 quả tên lửa bắn rơi tại chỗ một chiếc máy bay F-4C của Mỹ ở độ cao 7.000m tại trận địa Suối Hai (Sơn Tây) và bắt sống phi công. Chiến công này đã làm nức lòng quân dân cả nước và khiến Lầu Năm Góc hết sức hoang mang.
 *   **18/08/1965:** **Trận Vạn Tường (Quảng Ngãi):** Quân đội Mỹ mở cuộc hành quân Starlite, huy động khoảng 9.000 lính Thủy quân lục chiến cùng hỏa lực yểm trợ mạnh mẽ từ không quân và pháo hạm nhằm tiêu diệt Trung đoàn 1 (Trung đoàn Ba Gia) của Quân Giải phóng. Đây là trận đánh trên bộ quy mô lớn đầu tiên giữa quân Mỹ và Quân Giải phóng. Dù áp đảo về hỏa lực, quân Mỹ đã bị gần 2.000 Quân Giải phóng chặn đánh quyết liệt bằng chiến hào và vũ khí chống tăng. Hai bên đều tuyên bố chiến thắng, song trận đánh chứng minh Quân Giải phóng hoàn toàn có khả năng đương đầu với quân chính quy Mỹ, được mệnh danh là "Ấp Bắc đối với quân Mỹ".
 *   **15/10/1965:** Tròn 1 năm ngày Nguyễn Văn Trỗi hy sinh, bà Phan Thị Quyên trao tặng bức ảnh cưới của hai vợ chồng cho ông Trần Độ (Chín Vinh), Ủy viên Trung ương Cục, Phó Bí thư Quân ủy Miền, Phó Chính ủy Quân Giải phóng miền Nam.
 *   **19/10 - 26/11/1965:** **Chiến dịch Plei Me và Trận Ia Đrăng (Tây Nguyên):** Mặt trận B3 của Quân Giải phóng mở chiến dịch Plei Me nhằm kéo địch ra khỏi căn cứ để tiêu diệt. Sau khi vây hãm đồn Plei Me và đánh bại viện binh VNCH (19/10 - 25/10), Sư đoàn 1 Không kỵ của Mỹ mở cuộc hành quân phản kích, dẫn đến **Trận Ia Đrăng lịch sử (14 - 18/11)** tại bãi đáp X-Ray và Albany. Đây là cuộc đụng độ quy mô lớn đầu tiên giữa quân chủ lực Mỹ và Quân Giải phóng. Bằng chiến thuật "nắm thắt lưng địch mà đánh" (cận chiến áp sát để vô hiệu hóa ưu thế hỏa lực phi pháo và B-52 của Mỹ), Quân Giải phóng đã gây thương vong nặng nề cho các tiểu đoàn Không kỵ Mỹ. Trận đánh làm thay đổi nhận thức chiến lược của giới lãnh đạo quân sự Mỹ, dập tắt hy vọng về một chiến thắng dễ dàng.
 *   **02/11/1965:** Norman Morrison, một tín hữu Quaker người Mỹ yêu chuộng hòa bình, đã tự thiêu trước Lầu Năm Góc (Mỹ) để phản đối cuộc chiến tranh xâm lược của Mỹ tại Việt Nam. Ông đã bế theo con gái một tuổi Emily trước khi hành động. Sự hy sinh của ông đã gây chấn động và làm xúc động sâu sắc nhân dân Việt Nam cũng như phong trào phản chiến trên toàn thế giới.
 *   **04/11/1965:** Nhà thơ Tố Hữu đến Đồng Hới và có cuộc trò chuyện với Mẹ Suốt. Lấy cảm hứng từ lòng quả cảm của bà, ông đã sáng tác bài thơ nổi tiếng "Mẹ Suốt", khắc họa thành công hình ảnh người mẹ anh hùng trong văn học Việt Nam hiện đại.
+*   **14 - 18/11/1965:** Thượng tá Nguyễn Hữu An trực tiếp chỉ huy Trận Thung lũng Ia Drăng (Chiến dịch Plơime), trận giao chiến cấp trung đoàn đầu tiên đánh bại Sư đoàn kỵ binh không vận 1 Mỹ tại Tây Nguyên.
 *   **Mùa khô 1965-1966:** Quân và dân miền Nam đánh bại cuộc phản công chiến lược mùa khô lần thứ nhất của Mỹ.
 *   **Tháng 12/1965:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ 12 (khóa III) hạ quyết tâm chiến lược "đánh thắng giặc Mỹ xâm lược", đồng thời dự kiến chiến lược "vừa đánh vừa đàm".
 *   **25/12/1965:** Đảng Đại Việt Cách mạng được thành lập.
@@ -2008,8 +2029,10 @@
 *   **03 - 06/12/1966:** Lính Nam Triều Tiên gây ra vụ thảm sát Bình Hòa (Quảng Ngãi), giết hại hơn 400 thường dân, chủ yếu là người già, phụ nữ và trẻ em.
 *   **1967:** Gia đình Nguyễn Văn Trỗi bí mật cải táng hài cốt ông về Nghĩa trang Văn Giáp (Quận 2, Sài Gòn), trồng cây xung quanh để che mắt chính quyền Sài Gòn.
 *   **1967:** Lê Thị Tuyết (Quảng Trị) làm y tá Huyện đội Hải Lăng, thường xuyên hoạt động bí mật tại khu vực rú Thi Ông, rú Trà Lộc, nơi được coi là hậu cứ của bộ đội và du kích.
+*   **1967:** Trịnh Tố Tâm được phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ở tuổi 22 với kỷ lục 53 lần đạt danh hiệu "Dũng sĩ diệt Mỹ" trên chiến trường Đường 9 - Quảng Trị.
 *   **Tháng 01/1967:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ 13 (khóa III) quyết định đẩy mạnh đấu tranh ngoại giao, mở ra cục diện "vừa đánh vừa đàm".
 *   **01/01/1967:** Nguyễn Thị Suốt được Đảng và Nhà nước Việt Nam chính thức phong tặng danh hiệu Anh hùng ngành Giao thông vận tải trong chống Mỹ cứu nước.
+*   **01/01/1967:** Phi công tiêm kích MiG-17 Nguyễn Văn Bảy (người đã bắn rơi 7 máy bay Mỹ) được Chủ tịch Hồ Chí Minh phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân.
 *   **08/01 - 26/01/1967:** Quân đội Mỹ mở cuộc hành quân **Cedar Falls** đánh vào vùng "Tam giác sắt" (Củ Chi - Trảng Bàng - Bến Cát) nhằm "bóc vỏ trái đất", phá hủy hệ thống địa đạo. Sau 18 ngày đêm, lực lượng cách mạng đã đánh bại cuộc hành quân, bảo vệ được vùng căn cứ.
 *   **27/01/1967:** Bộ Chính trị ban hành Nghị quyết số 155-NQ/TW về đẩy mạnh đấu tranh ngoại giao, chủ động tiến công địch, phối hợp với đấu tranh quân sự và chính trị.
 *   **28/01/1967:** Bộ trưởng Ngoại giao Nguyễn Duy Trinh tuyên bố: "Sau khi Mỹ chấm dứt không điều kiện ném bom... có thể nói chuyện với Mỹ".
@@ -2068,6 +2091,7 @@
 *   **Cuối tháng 7/1969:** Thiều Văn Chỏi cải trang quân phục lính bảo an tấn công đồn Vàm Bưng và đồn Mang Cá khi địch đang tiệc tùng, diệt 5 tên, làm bị thương 3 tên, thu 6 súng, khiến quân địch hoang mang lập miếu thờ "Ông Thần Chỏi".
 *   **02/09/1969:** Chủ tịch Hồ Chí Minh từ trần. Toàn Đảng, toàn dân, toàn quân biến đau thương thành hành động cách mạng, quyết tâm thực hiện Di chúc của Người.
 *   **04/09/1969:** Sau khi Chủ tịch Hồ Chí Minh từ trần, Fidel Castro và Chủ tịch nước Cuba Osvaldo Dorticós Torrado đã gửi bức điện chia buồn đánh giá rất cao những phẩm chất cách mạng và tài năng lãnh đạo của Người.
+*   **23/09/1969:** Quốc hội khóa III bầu đồng chí Tôn Đức Thắng giữ chức Chủ tịch nước và đồng chí Nguyễn Lương Bằng giữ chức Phó Chủ tịch nước Việt Nam Dân chủ Cộng hòa.
 *   **04/10/1969 (hoặc cuối 1969/tháng 10/1970 theo các tài liệu khác nhau):** **Trận Suối Sóc (bàu Sa Nghe).** Bùi Văn Thuyên cùng dân quân tên Chiến đụng độ lực lượng lớn quân Mỹ đi càn. Khi đồng đội bị thương, ông đã một mình chiến đấu từ sáng đến 5 giờ chiều. Luân phiên sử dụng 7 loại vũ khí khác nhau (như AK, B40, M79, đại liên), ông liên tục cơ động, bẻ gãy nhiều đợt tiến công và tiêu diệt hàng trăm lính Mỹ (được ghi nhận là 360 tên). Năm 1995, phái đoàn MIA của Mỹ khi trở lại chiến trường này đã thừa nhận tổn thất nặng nề và vô cùng kinh ngạc khi biết họ chỉ đối đầu với một người duy nhất.
 *   **21/10/1969:** Việt Nam Cộng hòa ban hành nghị định sáp nhập đơn vị hành chính Định Hải (quần đảo Hoàng Sa) vào xã Hòa Long, tiếp tục quản lý hành chính đối với quần đảo.
 *   **17/11/1969:** Vào lúc 8 giờ sáng, Thiều Văn Chỏi một mình phục kích và truy kích một trung đội địch 27 lính tại cánh đồng Bưng Sấu, tiêu diệt 13 tên (có 1 sĩ quan), làm bị thương 8 tên, bắt sống 2 tên. Trận đánh "1 chọi 27" lừng lẫy khiến lính đồn Vàm Bưng lập miếu thờ "Ông Thần Chỏi" ngay trước cửa đồn để cầu an.
@@ -2118,13 +2142,14 @@
 *   **1973:** Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam mở Đại sứ quán tại Iraq. Chính phủ Iraq đã hào phóng đài thọ toàn bộ chi phí hoạt động, từ trụ sở, xe cộ (bao gồm chiếc xe Citroen mới tinh do Tổng thống Ahmed Hassan Al-Bakr tặng) đến tiền mặt trang trải chi tiêu hàng ngày để hỗ trợ Việt Nam trong bối cảnh chiến tranh khó khăn.
 *   **1973:** Trong chuyến thăm của Fidel Castro, Cuba đã tặng Việt Nam 5 công trình kinh tế - xã hội quy mô lớn trị giá khoảng 80 triệu USD, bao gồm: Khách sạn Thắng Lợi (Hà Nội), Bệnh viện Việt Nam - Cuba (Đồng Hới), đường Xuân Mai, Trại bò giống Ba Vì và Xí nghiệp gà Lương Mỹ.
 *   **15/01/1973:** Mỹ chấm dứt hoàn toàn mọi hành động chiến tranh chống phá miền Bắc.
-*   **27/01/1973:** **Hiệp định Paris** về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam được ký kết. Mỹ cam kết tôn trọng độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Việt Nam và rút hết quân khỏi miền Nam. Đại diện cho Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam, Bộ trưởng Ngoại giao **Nguyễn Thị Bình** là người phụ nữ duy nhất tham gia ký kết hiệp định lịch sử này.
+*   **27/01/1973:** **Hiệp định Paris** về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam được ký kết (với sự đàm phán trực tiếp của Cố vấn đặc biệt Lê Đức Thọ và chữ ký đại diện của Bộ trưởng Nguyễn Duy Trinh và Bộ trưởng Ngoại giao Nguyễn Thị Bình). Mỹ cam kết tôn trọng độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ của Việt Nam.
 *   **29/03/1973:** Đơn vị lính chiến đấu cuối cùng của Mỹ rút khỏi miền Nam Việt Nam.
 *   **04/1973:** Tạp chí *Đối Diện* xuất bản ở Sài Gòn đăng hồi ký "Trong niềm hòa hợp" của Phạm Văn Đính, mang thông điệp kêu gọi xóa bỏ hận thù, dùng tình thương đại lượng để hòa hợp dân tộc và kết thúc chiến tranh.
 *   **05/1973:** Bộ Chính trị ra Nghị quyết về đấu tranh thi hành Hiệp định Paris, kết hợp đấu tranh ngoại giao với quân sự và chính trị để buộc đối phương thi hành hiệp định.
 *   **Tháng 07/1973:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ 21 (khóa III) khẳng định con đường cách mạng miền Nam vẫn là con đường bạo lực, chuẩn bị cho giai đoạn cuối của cuộc kháng chiến.
 *   **06/09/1973:** Bộ Nội vụ Việt Nam Cộng hòa ban hành nghị định sáp nhập các đảo trên quần đảo Trường Sa vào xã Phước Hải, quận Đất Đỏ, tỉnh Phước Tuy, sửa đổi quy định hành chính năm 1956.
 *   **12 - 15/09/1973:** Lãnh tụ Fidel Castro có chuyến thăm lịch sử lần đầu tiên tới Việt Nam. Ngày 12/09, ông phát biểu tại Hà Nội ca ngợi cuộc đấu tranh anh hùng của nhân dân Việt Nam. Ngày 15/09, ông đến thăm vùng giải phóng Quảng Trị, đứng trên cao điểm 241, trở thành nguyên thủ quốc gia nước ngoài đầu tiên và duy nhất thăm vùng giải phóng miền Nam trước năm 1975. Tại đây, ông đã chỉ thị bác sĩ riêng cấp cứu kịp thời cho cô nữ dân công 17 tuổi Nguyễn Thị Hương bị thương do bom mìn.
+*   **10/1973:** Cố vấn đặc biệt Lê Đức Thọ tuyên bố từ chối nhận Giải Nobel Hòa bình năm 1973 (được trao chung với Henry Kissinger), khẳng định hòa bình thực sự chưa được lập lại tại Việt Nam khi quân đội Mỹ vẫn can thiệp.
 *   **06/10/1973:** Tính đến thời điểm này, Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam đã được 34 nước công nhận và thiết lập quan hệ ngoại giao.
 *   **13/10/1973:** Ban Chấp hành Trung ương Đảng ban hành Nghị quyết số 227-NQ/TW (Hội nghị lần thứ 21), xác định nhiệm vụ cơ bản của cách mạng miền Nam trong giai đoạn mới là tiếp tục thực hiện chiến lược cách mạng dân tộc dân chủ nhân dân, dùng bạo lực cách mạng để giành chính quyền.
 *   **03/12/1973:** 8 chiến sĩ đặc công thuộc Đội 5 (Đoàn 10 Rừng Sác) tập kích kho xăng Nhà Bè, thiêu hủy 35 triệu gallon xăng dầu và nhiều cơ sở vật chất của địch.
@@ -2148,7 +2173,8 @@
 *   **18/03 - 01/04/1975:** Chiến dịch Đường 5 - Phú Yên. Đón lõng cuộc tháo chạy của Quân đoàn II (Việt Nam Cộng hòa) từ Tây Nguyên xuống đồng bằng theo Đường số 7, Quân Giải phóng tổ chức phục kích và làm chủ Đường số 5, tiêu diệt các cụm quân địch và tiến đánh thị xã Tuy Hòa. Lần lượt giải phóng Quảng Ngãi, Tam Kỳ (24/03), Bình Định và đến trưa 01/04, toàn bộ tỉnh Phú Yên được giải phóng.
 *   **18/03/1975:** Bộ Chính trị hạ quyết tâm giải phóng miền Nam trước mùa mưa năm 1975.
 *   **25/03/1975:** Bộ Chính trị ra Nghị quyết số 241-NQ/TW thành lập Hội đồng Chi viện miền Nam ở Trung ương để đáp ứng yêu cầu chi viện ngày càng lớn của chiến trường.
-*   **27/03/1975:** Bộ Chính trị gửi điện (18 giờ) chỉ đạo Anh Năm Công (Võ Chí Công) và Hai Mạnh (Chu Huy Mân) về kế hoạch giải phóng Đà Nẵng, yêu cầu hành động táo bạo, bất ngờ để tiêu diệt sinh lực địch, không cho chúng rút về Sài Gòn.
+*   **27/03/1975:** Bộ Chính trị gửi điện (18 giờ) chỉ đạo Anh Năm Công (Võ Chí Công) và Hai Mạnh (**Chu Huy Mân**) về kế hoạch giải phóng Đà Nẵng, yêu cầu hành động táo bạo, bất ngờ để tiêu diệt sinh lực địch, không cho chúng rút về Sài Gòn.
+*   **04/1975:** Đại tướng Văn Tiến Dũng làm Tư lệnh Chiến dịch Hồ Chí Minh; Thượng tướng Nguyễn Hữu An (Tư lệnh Quân đoàn 2) và Thiếu tướng Hoàng Đan (Phó Tư lệnh) chỉ đạo mũi tiến công hướng Đông Nam thọc sâu đánh chiếm Dinh Độc Lập trưa ngày 30/04/1975.
 *   **03/04/1975:** Giải phóng các tỉnh Khánh Hòa, Cam Ranh.
 *   **07/04/1975:** Đại tướng Võ Nguyên Giáp ra mệnh lệnh lịch sử: "Thần tốc, thần tốc hơn nữa. Táo bạo, táo bạo hơn nữa...".
 *   **09 - 21/04/1975:** Trận Xuân Lộc - Long Khánh. Trận đánh có tổ chức cuối cùng của Quân lực Việt Nam Cộng hòa nhằm tử thủ "cánh cửa thép" bảo vệ ngõ phía Đông Sài Gòn. Sư đoàn 18 cùng các lực lượng dù, thiết giáp, biệt động quân dưới sự yểm trợ tàn khốc của không quân (ném khoảng 70.000 tấn bom, kể cả bom CBU-55) đã chống cự quyết liệt. Quân đoàn 4 Quân Giải phóng thay đổi chiến thuật đánh vu hồi, bao vây chia cắt, đánh chiếm ngã ba Dầu Giây, buộc quân Sài Gòn phải rút chạy vào ngày 21/04. Thất bại tại Xuân Lộc đánh dấu sự sụp đổ tuyến phòng thủ cuối cùng, dẫn đến việc Tổng thống Nguyễn Văn Thiệu từ chức cùng ngày và bỏ trốn khỏi đất nước (25/04).
@@ -2198,6 +2224,7 @@
     *   Bầu các cơ quan và chức vụ lãnh đạo cao nhất của Nhà nước.
 *   **07/1976:** Tại kỳ họp thứ nhất Quốc hội khóa VI, Huỳnh Tấn Phát được bầu làm Phó Thủ tướng Chính phủ của nước Việt Nam thống nhất.
 *   **03/07/1976:** Bà Nguyễn Thị Bình được bổ nhiệm làm Bộ trưởng Bộ Giáo dục của nước Cộng hòa Xã hội chủ nghĩa Việt Nam thống nhất. Bà giữ chức vụ này đến năm 1987, chỉ đạo công cuộc hợp nhất hệ thống giáo dục hai miền Nam - Bắc và tiến hành các cuộc cải cách giáo dục thời hậu chiến.
+*   **20/10/1976:** Nhà tình báo chiến lược Phạm Xuân Ẩn (Hai Trung) được Nhà nước tuyên dương danh hiệu Anh hùng Lực lượng vũ trang nhân dân.
 *   **12/1976:** Chính phủ tiến hành chiến dịch cải tạo công thương nghiệp tư bản tư doanh lần thứ hai ở miền Nam.
 *   **12/1976:** Đại hội đại biểu toàn quốc lần thứ IV của Đảng được tổ chức tại Hà Nội.
     *   Đổi tên Đảng Lao động Việt Nam thành **Đảng Cộng sản Việt Nam**.
@@ -2222,6 +2249,7 @@
 *   **08/1978:** Nguyên Bộ trưởng Tư pháp Chính phủ Cách mạng Lâm thời **Trương Như Tảng** rời Việt Nam bằng thuyền do bất đồng quan điểm.
 *   **25/08/1978:** Lê Đình Chinh, người chiến sĩ 18 tuổi, đã bị sát hại bởi những kẻ côn đồ và lính Trung Quốc mặc thường phục, trở thành người lính đầu tiên ngã xuống trên mặt trận bảo vệ biên giới phía Bắc.
 *   **03/11/1978:** Việt Nam và Liên Xô ký kết Hiệp ước hữu nghị và hợp tác tại Matxcơva.
+*   **06/11/1978:** Nhà tình báo chiến lược Đặng Trần Đức (Ba Quốc) được Nhà nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân.
 *   **02/12/1978:** Với sự giúp đỡ của Việt Nam, Mặt trận Đoàn kết Dân tộc Cứu nước Campuchia được thành lập tại Snuol (Kratie), kêu gọi lật đổ chế độ diệt chủng Pol Pot và khẩn thiết kêu gọi sự giúp đỡ của quân tình nguyện Việt Nam.
 *   **13/12/1978:** Dưới sự hậu thuẫn từ bên ngoài, Khmer Đỏ huy động 19 sư đoàn (khoảng 8 vạn đến 10 vạn quân) tiến công xâm lược Việt Nam trên toàn tuyến biên giới, nhưng đã bị quân đội Việt Nam chặn đứng.
 *   **23/12/1978 - 17/01/1979:** Quân đội Việt Nam tiến hành cuộc tổng phản công chiến lược, đánh đuổi hoàn toàn quân Pol Pot ra khỏi lãnh thổ, bảo vệ thành công biên giới Tây Nam của Tổ quốc.
@@ -2279,10 +2307,11 @@
 *   **03/01/1986:** Tuần tin *Thanh Niên* ra số đầu tiên, với sự thúc đẩy của đồng chí **Lê Quang Vịnh** (Bí thư Trung ương Đoàn) nhằm tạo diễn đàn đổi mới cho thế hệ trẻ.
 *   **10/07/1986:** Tổng Bí thư Lê Duẩn từ trần. Ông là nhà lãnh đạo lỗi lạc, người chiến sĩ cộng sản kiên cường, người học trò xuất sắc của Chủ tịch Hồ Chí Minh, đã cống hiến trọn đời cho sự nghiệp giải phóng dân tộc và thống nhất Tổ quốc.
 *   **14/07/1986:** Ban Chấp hành Trung ương Đảng họp Hội nghị bất thường bầu đồng chí Trường Chinh giữ chức Tổng Bí thư.
-*   **12/1986:** Đại hội đại biểu toàn quốc lần thứ VI của Đảng Cộng sản Việt Nam được tổ chức, chính thức khởi xướng đường lối Đổi mới toàn diện đất nước.
-*   **15-18/12/1986:** Đại hội đại biểu toàn quốc lần thứ VI của Đảng Cộng sản Việt Nam diễn ra, chính thức đề ra đường lối **Đổi mới** toàn diện đất nước với quan điểm "nhìn thẳng vào sự thật, đánh giá đúng sự thật", lấy đổi mới kinh tế làm trọng tâm.
+*   **15 - 18/12/1986:** Đại hội đại biểu toàn quốc lần thứ VI của Đảng Cộng sản Việt Nam diễn ra, bầu đồng chí Nguyễn Văn Linh làm Tổng Bí thư, chính thức khởi xướng công cuộc **Đổi Mới** toàn diện đất nước với quan điểm "nhìn thẳng vào sự thật, đánh giá đúng sự thật", lấy đổi mới kinh tế làm trọng tâm.
 *   **1987:** Quốc hội ban hành Luật Đầu tư nước ngoài tại Việt Nam, mở ra hành lang pháp lý đầu tiên để thu hút vốn đầu tư trực tiếp từ nước ngoài (FDI).
+*   **1987 - 1992:** Nữ tướng Nguyễn Thị Định đảm nhiệm chức vụ Phó Chủ tịch Hội đồng Nhà nước Nước CHXHCN Việt Nam.
 *   **04/1987:** Hội nghị lần thứ 2 Ban Chấp hành Trung ương Đảng (khóa VI) quyết định phương hướng giải quyết vấn đề lưu thông phân phối, xóa bỏ chế độ tập trung quan liêu, bao cấp và chính sách "ngăn sông cấm chợ".
+*   **25/05/1987:** Tổng Bí thư Nguyễn Văn Linh bắt đầu mở mục "Những việc cần làm ngay" trên Báo *Nhân Dân* với bút danh N.V.L., tạo luồng sinh khí mới chống tiêu cực và công khai hóa đời sống xã hội.
 *   **07/1987:** Hội nghị lần thứ 3 Ban Chấp hành Trung ương Đảng (khóa VI) ra nghị quyết chuyển hoạt động của các đơn vị kinh tế quốc doanh sang kinh doanh xã hội chủ nghĩa và đổi mới quản lý nhà nước về kinh tế.
 *   **11/1987:** UNESCO ra Nghị quyết 24C/18.65 kỷ niệm 100 năm ngày sinh Chủ tịch Hồ Chí Minh, tôn vinh Người là "Anh hùng giải phóng dân tộc và Nhà văn hóa kiệt xuất của Việt Nam".
 *   **11/1987:** Trong chuyến thăm Liên Xô, Tổng Bí thư Nguyễn Văn Linh đã thẳng thắn cảnh báo lãnh đạo Liên Xô về sai lầm mang tính nguyên tắc khi xóa bỏ Điều 6 Hiến pháp.
