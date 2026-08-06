@@ -15,8 +15,11 @@
 *   **Khoảng 3.000 TCN - 1.500 TCN:** Thời kỳ Văn hóa Hạ Long.
 *   **Khoảng 3.000 TCN (5.000 năm trước):** Chủng Nam-Á (Bách Việt) được hình thành tại miền nam Trung Hoa và bắc Đông Dương do sự tiếp xúc giữa chủng Indonésien bản địa và chủng Mongoloid từ phía bắc.
 *   **Thiên niên kỷ III TCN:** Giai đoạn Văn Lang - Âu Lạc đạt đến đỉnh cao rực rỡ với nghề nông nghiệp lúa nước và nghề luyện kim đồng (tiêu biểu là trống đồng Đông Sơn), có ảnh hưởng lớn đến toàn khu vực Đông Nam Á.
-*   **2879 TCN:** Theo thư tịch cổ, Kinh Dương Vương bắt đầu cai trị nước Xích Quỷ.
+*   **Trước 2879 TCN:** Theo thư tịch cổ, Đế Minh (cháu 3 đời của Viêm Đế Thần Nông) đi tuần phương Nam đến núi Ngũ Lĩnh, kết duyên với Vụ Tiên nữ và sinh ra Lộc Tục. Đế Minh sau đó chia đôi cõi Bắc - Nam, phong cho con trưởng Đế Nghi làm vua phương Bắc và Lộc Tục làm vua phương Nam.
+*   **2879 TCN:** Lộc Tục lên ngôi vua xưng là Kinh Dương Vương, thành lập nước Xích Quỷ - quốc hiệu đầu tiên trong truyền thuyết lịch sử Việt Nam, mở đầu Kỷ Hồng Bàng. Kinh Dương Vương kết duyên với con gái Động Đình Quân (Thần Long), sinh ra Sùng Lẫm (Lạc Long Quân).
 *   **2879 - 258 TCN:** Giai đoạn 18 đời Hùng Vương trị vì. Đây cũng là khoảng thời gian mà truyền thuyết Lạc Long Quân và Âu Cơ, Phù Đổng Thiên Vương (Thánh Gióng), và Sơn Tinh - Thủy Tinh được cho là ra đời và truyền miệng.
+*   **2792 TCN:** Sùng Lẫm nối ngôi Kinh Dương Vương, xưng là Lạc Long Quân, tiếp tục cai trị nước Xích Quỷ. Lạc Long Quân có công trừ diệt các loài quái vật nguy hại (Ngư Tinh, Cửu Vĩ Hồ, Mộc Tinh), dạy nhân dân trồng lúa nước, dệt vải và cất dựng nhà cửa.
+*   **Khoảng 2524 TCN:** Lạc Long Quân kết duyên với Âu Cơ (con gái Đế Lai). Âu Cơ sinh bọc trăm trứng, nở thành 100 người con trai, hình thành cội nguồn truyền thuyết "Con Rồng cháu Tiên" và khái niệm "Đồng bào". Hai người sau đó chia 50 con theo mẹ lên núi, 50 con theo cha xuống biển để cai quản các vùng đất. Người con trưởng theo mẹ lên vùng Phong Châu lên ngôi xưng là Hùng Vương, đặt quốc hiệu là Văn Lang.
 *   **Khoảng cuối thiên niên kỷ III TCN - đầu thiên niên kỷ II TCN:** Thời kỳ Văn hóa Phùng Nguyên, mở đầu thời đại kim khí.
 *   **Khoảng 2.000 - 1.500 TCN (4.000 - 3.500 năm trước):** Thời kỳ Văn hóa Bàu Tró.
 *   **Khoảng thế kỷ XV - IX TCN:** Thời kỳ Văn hóa Đồng Đậu.
