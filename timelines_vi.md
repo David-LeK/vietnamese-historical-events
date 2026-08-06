@@ -1515,6 +1515,7 @@
 *   **1944:** Huỳnh Tấn Phát làm Chủ nhiệm tuần báo *Thanh niên*, sử dụng tờ báo để tuyên truyền lòng yêu nước trong thanh niên.
 *   **Đầu năm 1944:** Đại Việt Quốc gia Liên minh được thành lập, bao gồm Đại Việt Quốc xã, Đại Việt Quốc dân Đảng và Đại Việt Dân chính Đảng.
 *   **30/06/1944:** Đảng Dân chủ Việt Nam được thành lập, tập hợp tầng lớp tư sản dân tộc và trí thức yêu nước tham gia Mặt trận Việt Minh.
+*   **10/1944 - 05/1945:** Nạn đói năm Ất Dậu bùng phát dữ dội tại miền Bắc và Bắc Trung Bộ Việt Nam do chính sách vơ vét lương thực của thực dân Pháp và phát xít Nhật cùng thiên tai bão lũ, làm khoảng 2 triệu người dân tử vong.
 *   **Cuối năm 1944 - Đầu năm 1945:** Tiếp tục dưới sự chỉ đạo của Xứ ủy Bắc Kỳ và Chi bộ Nhà tù Sơn La, phong trào cách mạng tại Sơn La đã phát triển được 60 cơ sở trong toàn tỉnh. Hội "Người Thái cứu quốc" (Côn tay chất mương) được thành lập, lấy cảm hứng từ tấm gương hy sinh anh dũng của Lò Văn Giá.
 *   **22/12/1944:** Đội Việt Nam Tuyên truyền Giải phóng quân, tiền thân của Quân đội Nhân dân Việt Nam, được thành lập tại khu rừng Trần Hưng Đạo (Cao Bằng).
 *   **24-25/12/1944:** Đội Việt Nam Tuyên truyền Giải phóng quân đánh thắng hai trận đầu tiên tại Phay Khắt và Nà Ngần.
@@ -1522,7 +1523,7 @@
 *   **03/1945:** Huỳnh Tấn Phát được kết nạp vào Đảng Cộng sản Đông Dương.
 *   **09/03/1945:** Nhật đảo chính Pháp trên toàn cõi Đông Dương.
 *   **09/03/1945:** Sau cuộc đảo chính của Nhật, đơn vị phòng vệ Đông Dương trên quần đảo Hoàng Sa đã bị hải quân Nhật bắt làm tù binh.
-*   **09-12/03/1945:** Ban Thường vụ Trung ương Đảng họp và ra chỉ thị lịch sử "Nhật - Pháp bắn nhau và hành động của chúng ta", phát động cao trào kháng Nhật cứu nước.
+*   **09-12/03/1945:** Ban Thường vụ Trung ương Đảng họp và ra chỉ thị lịch sử "Nhật - Pháp bắn nhau và hành động của chúng ta", phát động cao trào kháng Nhật cứu nước với khẩu hiệu "Phá kho thóc, giải quyết nạn đói", dấy lên phong trào quần chúng phá các kho thóc của Nhật và tay sai để cứu đói cho hàng triệu nhân dân.
 *   **10/03/1945:** Việt Nam Quốc gia Độc lập Đảng được thành lập.
 *   **29/03/1945:** Hồ Chí Minh gặp Thiếu tướng Claire Lee Chennault, Chỉ huy trưởng Không đoàn 14 Không lực Lục quân Hoa Kỳ, tại Côn Minh (Trung Quốc), thiết lập mối quan hệ ban đầu giữa Việt Minh và Mỹ.
 *   **17/04/1945:** Chính phủ bù nhìn Trần Trọng Kim được thành lập dưới sự bảo hộ của Nhật.
@@ -1564,6 +1565,7 @@
 *   **Đêm 22 rạng 23/09/1945:** Quân Pháp, được sự giúp đỡ của quân Anh, nổ súng đánh chiếm Sài Gòn.
 *   **23/09/1945:** Xứ ủy và Ủy ban nhân dân Nam Bộ họp tại đường Cây Mai (Chợ Lớn), quyết định phát động toàn dân kháng chiến. Cuộc kháng chiến ở Nam Bộ bắt đầu. Cùng ngày, Huỳnh Tấn Phát bị quân Pháp bắt khi chúng chiếm lại Sài Gòn, nhưng ông được trả tự do sau 3 ngày do có uy tín lớn.
 *   **26/09/1945:** Chủ tịch Hồ Chí Minh ra Lời kêu gọi đồng bào Nam Bộ kháng chiến. Chi đội Nam tiến đầu tiên rời Hà Nội lên đường vào Nam chiến đấu.
+*   **28/09/1945:** Chủ tịch Hồ Chí Minh ra "Lời kêu gọi sau nạn đói" (Thư gửi đồng bào toàn quốc về việc cứu đói), phát động phong trào "Hũ gạo cứu đói" và kêu gọi tinh thần nhường cơm sẻ áo ("10 ngày nhường ăn một bữa") để diệt giặc đói.
 *   **10/1945:** Huỳnh Tấn Phát làm Trưởng đoàn đại biểu Thanh niên Nam Bộ ra Hà Nội dự Đại hội Thanh niên toàn quốc.
 *   **25/10/1945:** Xứ ủy Nam Bộ họp hội nghị cán bộ ở Thiên Hộ (Mỹ Tho), đề ra phương hướng kháng chiến lâu dài.
 *   **11/11/1945:** Đảng Cộng sản Đông Dương tuyên bố "tự giải tán", thực chất là rút vào hoạt động bí mật.

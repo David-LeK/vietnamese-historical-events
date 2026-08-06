@@ -1515,6 +1515,7 @@
 *   **1944:** Huynh Tan Phat became the director of the *Thanh Nien* (Youth) weekly magazine, using it to spread patriotism among the youth.
 *   **Early 1944:** The Dai Viet National Alliance (Dai Viet Quoc Gia Lien Minh) was formed, comprised of various nationalist parties such as the Dai Viet National Socialist Party, Dai Viet Nationalist Party, and Dai Viet Democratic Party.
 *   **Jun. 30, 1944:** The Vietnam Democratic Party was founded, gathering intellectuals and national bourgeoisie to join the Viet Minh Front.
+*   **Oct. 1944 - May 1945:** The 1944–1945 Ất Dậu Famine struck Northern and North-Central Vietnam due to harsh grain requisitions by French colonialists and Japanese forces alongside severe weather, resulting in approximately 2 million deaths.
 *   **Late 1944 - Early 1945:** Continuing under the direction of the Tonkin Party Committee (Xu uy Bac Ky) and the Son La Prison Party Cell, the revolutionary movement in Son La expanded to 60 bases across the province. The "Thai National Salvation" Association (Con tay chat muong) was established, drawing strength from Lo Van Gia's heroic sacrifice.
 *   **Dec. 22, 1944:** The Vietnam Propaganda and Liberation Army, the precursor to the Vietnam People's Army, was established in the Tran Hung Dao forest (Cao Bang).
 *   **Dec. 24-25, 1944:** The Vietnam Propaganda and Liberation Army won its first two battles at Phay Khat and Na Ngan.
@@ -1522,7 +1523,7 @@
 *   **Mar. 1945:** Huynh Tan Phat was admitted to the Indochinese Communist Party.
 *   **Mar. 9, 1945:** Japan staged a coup against the French throughout Indochina.
 *   **Mar. 9, 1945:** Following the Japanese coup, the Indochinese guard unit on the Paracel Islands was taken prisoner by the Japanese navy.
-*   **Mar. 9-12, 1945:** The Party Central Standing Committee met and issued the historic directive "The Japanese-French Clash and Our Actions," launching the anti-Japanese national salvation high tide.
+*   **Mar. 9-12, 1945:** The Party Central Standing Committee met and issued the historic directive "The Japanese-French Clash and Our Actions," launching the anti-Japanese national salvation high tide under the banner "Break open rice granaries to relieve hunger," sparking a nationwide movement seizing rice stores from Japanese forces to save millions from starvation.
 *   **Mar. 10, 1945:** The Vietnam National Independence Party was founded.
 *   **Mar. 29, 1945:** Ho Chi Minh met with Major General Claire Lee Chennault, Commander of the 14th Air Force of the US Army Air Forces, in Kunming (China), establishing initial contact between the Viet Minh and the US.
 *   **Apr. 17, 1945:** The puppet government of Tran Trong Kim was established under Japanese protection.
@@ -1564,6 +1565,7 @@
 *   **Night of Sep. 22-23, 1945:** French troops, with the help of British troops, opened fire and occupied Saigon.
 *   **Sep. 23, 1945:** The Party Committee and People's Committee of the South met on Cay Mai Street (Cho Lon) and decided to launch a nationwide resistance. The resistance in the South began. On the same day, Huynh Tan Phat was arrested when French troops reoccupied Saigon, but he was released after three days.
 *   **Sep. 26, 1945:** President Ho Chi Minh issued an appeal to the people of the South to resist. The first Southward March detachment left Hanoi for the South to fight.
+*   **Sep. 28, 1945:** President Ho Chi Minh issued an urgent appeal to the nation for famine relief, launching the "Hunger Relief Rice Jar" (Hũ gạo cứu đói) movement and calling on citizens to skip one meal every ten days to share food with the needy.
 *   **Oct. 1945:** Huynh Tan Phat led the Southern Youth delegation to Hanoi to attend the National Youth Congress.
 *   **Oct. 25, 1945:** The Party Committee of the South held a cadres' conference in Thien Ho (My Tho), setting out the direction for a long-term resistance.
 *   **Nov. 11, 1945:** The Indochinese Communist Party announced its "self-dissolution," in reality going underground.
