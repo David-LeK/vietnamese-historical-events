@@ -35,6 +35,7 @@ class TestExtractDate(unittest.TestCase):
         self.check("Khoảng 1.000 TCN - 200 SCN", -1000.0)
         self.check("Khoảng 23.500 TCN (25.510 năm trước)", -23500.0)
         self.check("Khoảng 534.000 - 400.000 năm trước", -534000.0)
+        self.check("10/10/1954 - 1977", 1954.6867)
 
     def test_english_formats(self):
         self.check("01/01/1201", 1201.07)
@@ -79,6 +80,10 @@ class TestExtractDate(unittest.TestCase):
         d1226 = extract_date("10/01/1226")
         self.assertEqual(d1201, century13, "01/01/1201 and generic 13th Century date both map to start of 13th century (1201)")
         self.assertLess(century13, d1226, "Thế kỷ XIII (starts in 1201) must be ordered before 10/01/1226")
+
+        jan1954 = extract_date("26/01/1954")
+        oct1954 = extract_date("10/10/1954 - 1977")
+        self.assertLess(jan1954, oct1954, "26/01/1954 must be ordered before 10/10/1954 - 1977")
 
     def test_timeline_integrity_and_sorting(self):
         from sort_timelines import parse_blocks

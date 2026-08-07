@@ -1611,6 +1611,7 @@
 *   **Jun. 1, 1946:** In Saigon, High Commissioner D'Argenlieu announced the establishment of the "Autonomous Republic of Cochinchina."
 *   **Jun. 30, 1946:** Dinh Thi Van was admitted to the Indochinese Communist Party. She subsequently held various leadership roles, including President of the Women's Union of Nam Dinh province from 1951 to 1953.
 *   **Jul. 1946:** Đặng Thị Kim was appointed to the Executive Committee of the Nha Trang Women's National Salvation Association. On October 30, 1946, she co-led a major protest demanding the French government implement the March 6 Preliminary Accord and September 14 Modus Vivendi.
+*   **Jul. 1946:** During his official visit to France for the Fontainebleau Conference, President Ho Chi Minh visited painter Pablo Picasso at his studio in Paris. The meeting reflected their friendship dating back to the 1920s in France, during which Picasso sketched a portrait of President Ho Chi Minh.
 *   **Jul. 6, 1946:** The Fontainebleau Conference opened.
 *   **Jul. 12, 1946:** The "On Nhu Hau Street Affair" occurred. The police forces of the Democratic Republic of Vietnam raided the headquarters of the Vietnam Nationalist Party (VNQDD), dismantling a plot to overthrow the government.
 *   **Jul. 22, 1946:** The Vietnam Socialist Party was founded, aiming to unite patriotic intellectuals.
@@ -1810,6 +1811,7 @@
     *   The armies of both sides were to regroup to the North and South.
     *   A free general election was scheduled to be held in July 1956 to unify the country.
 *   **Jul. 20, 1954:** Professor Ta Quang Buu, representing the High Command of the Vietnam People's Army, signed the Geneva Armistice Agreement in Switzerland.
+*   **Jul. 25, 1954:** Following the signing of the Geneva Accords restoring peace in Indochina, painter Pablo Picasso created the artwork "Vive la paix" (Long Live Peace) featuring his iconic peace dove and imagery of the Vietnamese people, expressing support for Vietnam's struggle for peace and independence.
 *   **08/1954:** Following the victory at Điện Biên Phủ and the signing of the Geneva Accords, President Ho Chi Minh, the Party Central Committee, and the Government departed the Kim Quan Safe Zone (Tuyên Quang) to return to take over Hanoi.
 *   **Aug. 8, 1954:** The Can Lao Nhan Vi Party (Personalist Labor Revolutionary Party) officially debuted in the South, founded by Ngo Dinh Nhu.
 

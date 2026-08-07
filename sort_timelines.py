@@ -177,10 +177,19 @@ def extract_date(time_str_orig):
             if m_val == 0: m_val = int(y1_or_m1)
             return finalize_val(int(y))
 
-    # Range formats: YYYY - YYYY
-    match = re.search(r'\b(\d{2,6})\s*-\s*\d{2,6}\b', time_str)
-    if match and len(match.group(1)) > 2:
-        y = match.group(1)
+    # Range formats: DD/MM/YYYY - YYYY
+    match = re.search(r'(\d{1,2})/(\d{1,2})/(\d{2,4})\s*-\s*\d{2,4}(?!\d)', time_str)
+    if match:
+        d, m, y = match.groups()
+        if m_val == 0: m_val = int(m)
+        if d_val == 0: d_val = int(d)
+        return finalize_val(int(y))
+
+    # Range formats: MM/YYYY - YYYY
+    match = re.search(r'(\d{1,2})/(\d{2,4})\s*-\s*\d{2,4}(?!\d)', time_str)
+    if match:
+        m, y = match.groups()
+        if m_val == 0: m_val = int(m)
         return finalize_val(int(y))
         
     # DD-DD/MM/YYYY
@@ -266,6 +275,12 @@ def extract_date(time_str_orig):
     if match:
         m, y = match.groups()
         if m_val == 0: m_val = int(m)
+        return finalize_val(int(y))
+
+    # Range formats: YYYY - YYYY
+    match = re.search(r'\b(\d{2,6})\s*-\s*\d{2,6}\b', time_str)
+    if match and len(match.group(1)) > 2:
+        y = match.group(1)
         return finalize_val(int(y))
 
     # Plain year with possible named month
