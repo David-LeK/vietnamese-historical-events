@@ -2033,6 +2033,7 @@
 *   **1967:** Gia đình Nguyễn Văn Trỗi bí mật cải táng hài cốt ông về Nghĩa trang Văn Giáp (Quận 2, Sài Gòn), trồng cây xung quanh để che mắt chính quyền Sài Gòn.
 *   **1967:** Lê Thị Tuyết (Quảng Trị) làm y tá Huyện đội Hải Lăng, thường xuyên hoạt động bí mật tại khu vực rú Thi Ông, rú Trà Lộc, nơi được coi là hậu cứ của bộ đội và du kích.
 *   **1967:** Trịnh Tố Tâm được phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ở tuổi 22 với kỷ lục 53 lần đạt danh hiệu "Dũng sĩ diệt Mỹ" trên chiến trường Đường 9 - Quảng Trị.
+*   **1967:** Tác phẩm *"Bất khuất"* - tập hồi ký của nhà cách mạng Nguyễn Đức Thuận (với sự hỗ trợ chấp bút của nhà báo Trần Đĩnh) được xuất bản lần đầu tại miền Bắc. Cuốn sách ghi lại hành trình kiên trung, bất khuất của ông qua 8 năm bị tù đày, tra tấn dã man tại các nhà tù thực dân và đế quốc (đặc biệt là Côn Đảo), trở thành một hiện tượng văn học - lịch sử gây xúc động sâu sắc và là biểu tượng cho khí tiết của người chiến sĩ cách mạng Việt Nam.
 *   **Tháng 01/1967:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ 13 (khóa III) quyết định đẩy mạnh đấu tranh ngoại giao, mở ra cục diện "vừa đánh vừa đàm".
 *   **01/01/1967:** Nguyễn Thị Suốt được Đảng và Nhà nước Việt Nam chính thức phong tặng danh hiệu Anh hùng ngành Giao thông vận tải trong chống Mỹ cứu nước.
 *   **01/01/1967:** Phi công tiêm kích MiG-17 Nguyễn Văn Bảy (người đã bắn rơi 7 máy bay Mỹ) được Chủ tịch Hồ Chí Minh phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân.
