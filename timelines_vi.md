@@ -1632,7 +1632,7 @@
 *   **17/12/1946:** Quân Pháp gây ra vụ tàn sát ở phố Hàng Bún, phố Lò Đúc và khu Yên Ninh (Hà Nội).
 *   **18/12/1946:** Quân Pháp chiếm trụ sở Bộ Tài chính và Bộ Giao thông Công chính. Tướng Morlière gửi tối hậu thư đòi tước vũ khí của lực lượng tự vệ, tuyên bố nếu không đáp ứng thì chậm nhất sáng 20/12/1946 quân Pháp sẽ hành động.
 *   **18 - 19/12/1946:** Quân Pháp liên tiếp gửi tối hậu thư đòi tước vũ khí của lực lượng tự vệ Việt Nam tại Hà Nội. Ban Thường vụ Trung ương Đảng họp hội nghị mở rộng tại làng Vạn Phúc (Hà Đông) dưới sự chủ trì của Chủ tịch Hồ Chí Minh, quyết định phát động toàn quốc kháng chiến.
-*   **20:03, 19/12/1946:** Điện trong toàn thành phố phụt tắt, pháo đài Láng nổ phát súng lệnh tổng công kích, chính thức báo hiệu toàn quốc kháng chiến. Tới 20:30, chính phủ Việt Nam đã phát đi lời kêu gọi toàn quốc kháng chiến.
+*   **20:03, 19/12/1946:** Điện trong toàn thành phố phụt tắt, pháo đài Láng nổ phát súng lệnh tổng công kích, chính thức báo hiệu toàn quốc kháng chiến. Tới 20:30, chính phủ Việt Nam đã phát đi **Lời kêu gọi Toàn quốc kháng chiến** của Chủ tịch Hồ Chí Minh với câu nói bất hủ: *"Chúng ta thà hy sinh tất cả, chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ."*
 *   **22/12/1946:** Cựu Thị trưởng Hà Nội Trần Văn Lai bị thực dân Pháp bắt giam lần thứ hai tại Hỏa Lò ngay sau khi Toàn quốc kháng chiến bùng nổ, với lý do "đảm bảo an toàn cho trí thức".
 
 ### **Giai đoạn Kháng chiến Toàn quốc, Chiến thắng Việt Bắc và Biên giới (1947 - 1950)**
