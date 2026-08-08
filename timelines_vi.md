@@ -1714,6 +1714,7 @@
 *   **04/1950:** Đơn vị đồn trú của quân đội Trung Hoa Dân quốc rút khỏi đảo Phú Lâm ở Hoàng Sa.
 *   **20/04/1950:** Thực dân Pháp dựng lên chi khu quân sự Tía (Thường Tín, Hà Nội) với một ủy ban chống cộng và nhiều đồn bốt vệ tinh, tăng cường càn quét làm cơ sở kháng chiến tổn thất nặng nề.
 *   **01/05/1950:** Tổng thống Mỹ Truman quyết định viện trợ quân sự trực tiếp 10 triệu USD cho Pháp ở Đông Dương.
+*   **15/05/1950:** Nữ chiến sĩ trinh sát Công an huyện Ân Thi (Hưng Yên) Bùi Thị Cúc (tên thật là Trần Thị Lan, sinh năm 1930) anh dũng hy sinh tại chợ Cảnh Lâm ở tuổi 20. Trước đó, bà hoạt động điệp báo trong lòng địch, mưu trí tiêu diệt tên đồn trưởng Cảnh Lâm khét tiếng ác ôn. Khi bị địch bắt và tra tấn tàn bạo, bà kiên trung giữ trọn khí tiết cách mạng, nhắn nhủ đồng đội: *"Tôi nhận cả về tôi rồi, đừng ai khai gì cả"* và *"Thế nào nó cũng giết tôi. Dù chết tôi cũng không khai ai cả, các đồng chí cứ yên tâm. Chúc các đồng chí ở lại mạnh khỏe. Có gặp mẹ tôi, nhờ các đồng chí động viên cụ giúp tôi."* Trước lúc hy sinh tại pháp trường, bà hiên ngang hô lớn *"Hồ Chủ tịch muôn năm!"*.
 *   **06/1950:** Ban Thường vụ Trung ương Đảng quyết định mở chiến dịch Biên giới (Chiến dịch Lê Hồng Phong II).
 *   **16/09/1950:** Chiến dịch Biên giới bắt đầu bằng trận đánh tiêu diệt cứ điểm Đông Khê.
 *   **16/09/1950:** Trong trận Đông Khê thuộc Chiến dịch Biên giới Thu Đông 1950, chiến sĩ La Văn Cầu dũng cảm nhờ đồng đội chặt đứt cánh tay phải bị thương để tiếp tục ôm bộc phá đánh phá lô kíp địch, mở đường cho đơn vị tiến công.
@@ -1763,6 +1764,7 @@
 *   **1952:** Nguyễn Thị Tuyết (Thường Tín) cùng bộ đội địa phương đánh địch ở bốt Tía, trực tiếp diệt 3 tên tề ngụy khét tiếng gian ác và làm bị thương 6 tên khác. Tính đến năm này, bà đã bị địch bắt 10 lần nhưng đều xử trí khôn khéo, một mực không khai báo cơ sở cách mạng.
 *   **1952:** Lê Thị Tuyết (sinh năm 1933 tại Thanh Sơn, Trà Cú, Trà Vinh) lập gia đình với ông Nguyễn Văn Nguy. Trong thời gian này, bà tích cực tham gia phong trào phụ nữ, hoạt động tải thương và hậu cần.
 *   **11/01/1952:** Tổng chỉ huy Pháp Tướng Jean de Lattre de Tassigny qua đời vì bạo bệnh tại Pháp.
+*   **15/01/1952:** Chủ tịch Hồ Chí Minh ký Sắc lệnh truy tặng Huân chương Độc lập hạng Ba cùng 6 chữ vàng: **"Sống anh dũng, chết vẻ vang"** cho nữ liệt sĩ Công an nhân dân Bùi Thị Cúc (Trần Thị Lan) nhằm tôn vinh tấm gương hy sinh kiên cường, bất khuất của bà trong cuộc kháng chiến chống Pháp.
 *   **23/01/1952:** Nữ du kích Võ Thị Sáu anh dũng hy sinh tại Côn Đảo ở tuổi 19 sau khi bị chính quyền thực dân Pháp thi hành án tử hình. Chị là người nữ tử tù đầu tiên tại nhà tù Côn Đảo, kiên cường giữ vững khí tiết cách mạng cho đến phút cuối cùng.
 *   **26/03/1952:** Maurice Faure, báo cáo viên về luật phê chuẩn Hiệp ước Hòa bình San Francisco tại Quốc hội Pháp, cho rằng việc Nhật Bản từ bỏ quần đảo Hoàng Sa và Trường Sa khiến các đảo này trở thành *terra derelictae* (đất đai bị bỏ rơi). Quan điểm này mâu thuẫn với các tuyên bố khác của Pháp khẳng định các quần đảo thuộc Liên hiệp Pháp.
 *   **05/1952:** Tại Đại hội liên hoan Anh hùng và Chiến sĩ thi đua toàn quốc lần thứ nhất, Cù Chính Lan được Chính phủ và Chủ tịch Hồ Chí Minh truy tặng Huân chương Quân công hạng hai và Huân chương Kháng chiến hạng nhất vì tinh thần chủ nghĩa anh hùng cách mạng sáng ngời.
@@ -2399,6 +2401,7 @@
 *   **05/1995:** Việt Nam tiếp tục viện trợ thêm 20.000 tấn gạo cho Cuba.
 *   **12/07/1995:** Tổng thống Mỹ Bill Clinton và Thủ tướng Việt Nam Võ Văn Kiệt đồng thời tuyên bố **bình thường hóa quan hệ ngoại giao** giữa hai nước.
 *   **28/07/1995:** Việt Nam chính thức được kết nạp làm **thành viên thứ 7** của Hiệp hội các quốc gia Đông Nam Á (ASEAN) tại Brunei.
+*   **03/08/1995:** Liệt sĩ Công an nhân dân Bùi Thị Cúc (Trần Thị Lan) được Nhà nước truy tặng danh hiệu **Anh hùng Lực lượng Vũ trang Nhân dân** vì những chiến công xuất sắc và sự hy sinh anh dũng trong cuộc kháng chiến chống thực dân Pháp.
 *   **Cuối năm 1995:** Đại tá, Anh hùng tình báo Đinh Thị Vân từ trần tại Hà Nội, hưởng thọ 79 tuổi. Bà là một huyền thoại của ngành tình báo quốc phòng, người đã hy sinh hạnh phúc riêng tư vì Tổ quốc, và sau này được đặt tên cho các con đường tại Nam Định và Đà Nẵng.
 
 ### **Thời kỳ Đẩy mạnh Công nghiệp hóa, Hiện đại hóa (1996 - 2000)**
