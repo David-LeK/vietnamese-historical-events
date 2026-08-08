@@ -384,6 +384,7 @@
 *   **07/04/1314:** Trần Anh Tông nhường ngôi cho Thái tử Trần Mạnh (sau là Trần Minh Tông).
 *   **Năm 1315:** Vua Trần Minh Tông định lệ cấm người trong hoàng tộc không được kiện cáo lẫn nhau nhằm duy trì sự hòa thuận trong vương triều.
 *   **1316:** Nhà Trần sửa đổi chế độ cấp hộ làm bổng lộc cho quan văn theo phẩm cấp, và các thân vương gặt ruộng Tịch điền.
+*   **11/1320:** Danh tướng Phạm Ngũ Lão qua đời ở tuổi 66. Ông là vị tướng kiệt xuất của nhà Trần, có công lớn trong hai lần đánh tan quân Nguyên-Mông xâm lược và mở cõi phía Nam.
 *   **Năm 1323:** Vua Trần Minh Tông mở khoa thi Thái học sinh để chọn người tài ra giúp nước, đưa những hiền thần như Đoàn Nhữ Hài, Phạm Ngũ Lão, Chu Văn An vào triều đình.
 *   **1324:** Tư đồ Văn Huệ vương cúng 300 mẫu ruộng ở Gia Lâm, hơn 1.000 mẫu ở Đông Gia và An Lưu cùng hơn 1.000 gia nô cho chùa Quỳnh Lâm.
 *   **1329:** Lý Tế Xuyên hoàn thành biên soạn bộ sách *Việt Điện U Linh Tập*, một tác phẩm văn học - lịch sử quan trọng ghi lại sự tích các vị thần và nhân vật lịch sử của Việt Nam.
@@ -1142,6 +1143,7 @@
 *   **03/1868:** Dựng Võ học đường tại bên tây Kinh thành để đào tạo quan võ.
 *   **16 - 21/06/1868:** Nghĩa quân Nguyễn Trung Trực đánh chiếm và làm chủ thành Rạch Giá trong 5 ngày trước khi bị quân Pháp tăng viện đàn áp.
 *   **07/1868:** Triều đình mua chiếc tàu lớn bọc đồng chạy bằng hơi nước, đặt tên là Mẫn Thỏa, tăng cường trang bị kỹ thuật phương Tây.
+*   **27/10/1868:** Anh hùng Nguyễn Trung Trực bị thực dân Pháp đưa đi hành quyết tại Rạch Giá (Kiên Giang), để lại câu nói bất hủ: *"Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây"*.
 *   **02/1869:** Chữ quốc ngữ được quy định dùng bắt buộc thay chữ Nho trong công văn ở Nam Kỳ, theo nghị định của Phó đô đốc Marie Gustave Hector Ohier.
 *   **11/1872:** Jean Dupuis, một lái buôn người Pháp, bắt đầu gây rối ở Bắc Kỳ, lấy cớ vận chuyển hàng hóa lên Vân Nam.
 *   **1873:** Phủ lỵ Đoan Hùng (tỉnh Sơn Tây) bị giặc cướp đốt phá, phải chuyển đến làm việc tại nhà dân.
@@ -1504,6 +1506,7 @@
 *   **13/01/1941:** Cuộc binh biến Đô Lương do Đội Cung lãnh đạo nổ ra ở Nghệ An.
 *   **28/01/1941:** Lãnh tụ Nguyễn Ái Quốc trở về nước tại Pắc Bó (Cao Bằng) sau 30 năm hoạt động ở nước ngoài để trực tiếp lãnh đạo cách mạng.
 *   **10-19/05/1941:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ VIII tại Pắc Bó (Cao Bằng) do Nguyễn Ái Quốc chủ trì, hoàn chỉnh đường lối giải phóng dân tộc, quyết định thành lập Mặt trận Việt Nam Độc lập Đồng minh (Việt Minh) và bầu đồng chí Trường Chinh làm Tổng Bí thư.
+*   **15/05/1941:** Đội Nhi đồng Cứu quốc (tiền thân của Đội Thiếu niên Tiền phong Hồ Chí Minh) được thành lập tại Nà Mạ (Cao Bằng), Kim Đồng (Nông Văn Dền) được bầu làm Đội trưởng đầu tiên.
 *   **28/08/1941:** Thực dân Pháp xử bắn các nhà lãnh đạo cách mạng kiên trung Nguyễn Thị Minh Khai, Hà Huy Tập và Nguyễn Văn Cừ tại ngã tư Giồng (Hóc Môn, Gia Định).
 *   **Giữa năm 1942:** Bị địch theo dõi, Lưu Tấn Phát nghỉ dạy học, trở về Mỹ Tho làm nghề sửa đồng hồ để làm vỏ bọc hoạt động cách mạng.
 *   **08/1942:** Lấy tên Hồ Chí Minh, Người sang Trung Quốc tranh thủ sự ủng hộ quốc tế nhưng bị chính quyền địa phương bắt giam. Trong thời gian bị tù, Người viết tập thơ *Nhật ký trong tù*.
@@ -1516,6 +1519,7 @@
 *   **02/1943:** Tổng Bí thư Trường Chinh khởi thảo bản **"Đề cương Văn hóa Việt Nam"**, văn kiện chính thức đầu tiên của Đảng về văn hóa, xác định ba nguyên tắc: Dân tộc hóa, Đại chúng hóa và Khoa học hóa.
 *   **Đầu năm 1943:** Đại Việt Phục hưng Hội được thành lập.
 *   **Đầu năm 1943:** Dưới sự chỉ đạo của Chi bộ Nhà tù Sơn La, tổ chức "Đoàn thanh niên Thái cứu quốc" (hay Thanh niên cứu quốc Mường La) được thành lập nhằm tập hợp thanh niên tham gia cách mạng. Lò Văn Giá đã gia nhập tổ chức này, trở thành một quần chúng ưu tú bên ngoài nhà tù.
+*   **15/02/1943:** Anh hùng Kim Đồng (Nông Văn Dền), Đội trưởng Đội Nhi đồng Cứu quốc, dũng cảm hy sinh ở tuổi 14 khi làm nhiệm vụ canh gác, đánh lạc hướng quân Pháp để bảo vệ cán bộ cách mạng tại Pắc Bó (Cao Bằng).
 *   **08/1943:** Chi bộ Nhà tù Sơn La tổ chức cuộc vượt ngục lịch sử cho các tù chính trị cốt cán để chuẩn bị cho Tổng khởi nghĩa. Lò Văn Giá, người thạo tiếng Mông và địa hình Tây Bắc, được chọn dẫn đường cho 4 chiến sĩ cộng sản: Trần Đăng Ninh, Nguyễn Lương Bằng, Nguyễn Văn Trân và Lưu Đức Hiểu. Sau 5 ngày gian khổ, ông đã đưa đoàn đến đích an toàn tại khu vực Suối Rút (Hòa Bình). Khi quay lại Sơn La, Lò Văn Giá bị thực dân Pháp bắt. Không khai thác được chứng cứ và bất lực trước lòng trung thành tuyệt đối của ông, giặc Pháp đã lén lút thủ tiêu ông.
 *   **10/09/1943:** Hồ Chí Minh được trả tự do.
 *   **27/10/1943:** Bác sĩ Trần Văn Lai bị chính quyền thực dân Pháp bắt giam tại Hỏa Lò, sau đó đày lên nhà tù Sơn La vì các hoạt động yêu nước.
@@ -1712,6 +1716,7 @@
 *   **01/05/1950:** Tổng thống Mỹ Truman quyết định viện trợ quân sự trực tiếp 10 triệu USD cho Pháp ở Đông Dương.
 *   **06/1950:** Ban Thường vụ Trung ương Đảng quyết định mở chiến dịch Biên giới (Chiến dịch Lê Hồng Phong II).
 *   **16/09/1950:** Chiến dịch Biên giới bắt đầu bằng trận đánh tiêu diệt cứ điểm Đông Khê.
+*   **16/09/1950:** Trong trận Đông Khê thuộc Chiến dịch Biên giới Thu Đông 1950, chiến sĩ La Văn Cầu dũng cảm nhờ đồng đội chặt đứt cánh tay phải bị thương để tiếp tục ôm bộc phá đánh phá lô kíp địch, mở đường cho đơn vị tiến công.
 *   **18/09/1950:** Quân đội Việt Nam hoàn toàn làm chủ Đông Khê sau 54 giờ chiến đấu ác liệt, cắt đôi phòng tuyến của Pháp trên đường số 4.
 *   **01-08/10/1950:** Quân đội Việt Nam bao vây, tiêu diệt hoàn toàn hai binh đoàn tinh nhuệ của Pháp là binh đoàn Lepage và binh đoàn Charton tại khu vực Cốc Xá - điểm cao 477.
 *   **11-22/10/1950:** Trước nguy cơ bị tiêu diệt, quân Pháp hoảng loạn rút chạy khỏi hàng loạt vị trí trên đường số 4 như Thất Khê, Na Sầm, Lạng Sơn. Đến ngày 22/10, quân Pháp phải rút bỏ hoàn toàn khỏi tuyến đường này.
@@ -1763,6 +1768,7 @@
 *   **05/1952:** Tại Đại hội liên hoan Anh hùng và Chiến sĩ thi đua toàn quốc lần thứ nhất, Cù Chính Lan được Chính phủ và Chủ tịch Hồ Chí Minh truy tặng Huân chương Quân công hạng hai và Huân chương Kháng chiến hạng nhất vì tinh thần chủ nghĩa anh hùng cách mạng sáng ngời.
 *   **01 - 06/05/1952:** Đại hội toàn quốc các chiến sĩ thi đua và cán bộ gương mẫu lần thứ nhất được tổ chức để tổng kết và biểu dương phong trào thi đua ái quốc.
 *   **19/05/1952:** Liệt sĩ Cù Chính Lan được Chủ tịch nước Việt Nam Dân chủ Cộng hòa truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân. Ông là 1 trong 7 người đầu tiên trên toàn quốc được nhận danh hiệu cao quý này.
+*   **19/05/1952:** Chủ tịch Hồ Chí Minh ký sắc lệnh phong tặng danh hiệu Anh hùng Lực lượng Vũ trang Nhân dân đợt đầu tiên cho La Văn Cầu cùng các chiến sĩ tiêu biểu tại Đại hội Thi đua Toàn quốc lần thứ nhất.
 *   **Giữa năm 1952:** Georges Boudarel được chỉ định hành quân ra căn cứ địa Việt Bắc, trải qua chặng đường đi bộ vô cùng gian khổ ròng rã 6 tháng. Tại Việt Bắc, ông được phân công giảng dạy chính trị tại trại tù binh 113 (thuộc Cục Địch vận), vượt qua nhiều thiếu thốn khắc nghiệt để cảm hóa các sĩ quan Pháp và châu Phi thành những chiến sĩ hòa bình.
 *   **10/08/1952:** Tại buổi lễ Tuyên dương công trạng, khi nghe đọc báo cáo về Anh hùng Cù Chính Lan, từ trên Đoàn Chủ tịch, Bác Hồ đã đề nghị toàn thể hội trường đứng dậy mặc niệm người con ưu tú của dân tộc.
 *   **14/10 - 10/12/1952:** Mở **Chiến dịch Tây Bắc**. Các chiến thắng quan trọng gồm việc hạ phân khu Nghĩa Lộ (18/10), và đánh bại cuộc hành quân Lorraine của Pháp bằng trận phục kích Chân Mộng - Trạm Thản (17/11). Chiến dịch giải phóng một vùng rộng lớn bao gồm Điện Biên Phủ (30/11) và toàn tỉnh Sơn La (trừ Nà Sản), nối liền căn cứ địa Việt Bắc với Thượng Lào.
@@ -1788,6 +1794,7 @@
 *   **12/1953:** Chủ tịch Hồ Chí Minh chuyển đến ở và làm việc tại lán và hầm an toàn núi Nà Lơi, xã Kim Quan (huyện Yên Sơn, tỉnh Tuyên Quang), biến ATK Kim Quan thành "tổng hành dinh" trực tiếp chỉ đạo Chiến dịch Đông Xuân 1953-1954 và Chiến dịch Điện Biên Phủ.
 *   **06/12/1953:** Bộ Chính trị quyết định mở **Chiến dịch Điện Biên Phủ** với mật danh "Trần Đình", mục tiêu là tiêu diệt toàn bộ quân địch tại đây.
 *   **10 - 12/12/1953:** Bộ đội Việt Nam tiêu diệt nhóm tàn quân Thái rút chạy tại Mường Pồn (10/12) và tiến vào giải phóng thị xã Lai Châu (12/12) sau khi quân Pháp rút về Điện Biên Phủ.
+*   **12/12/1953:** Trong Chiến dịch Đông Xuân 1953-1954 (trận Mường Pồn, Lai Châu), chiến sĩ Bế Văn Đàn dũng cảm lấy thân mình làm giá súng cho đồng đội bắn nát đợt phản công của quân Pháp và anh dũng hy sinh.
 *   **19/12/1953:** Chủ tịch Hồ Chí Minh ký sắc lệnh số 197-SL ban hành **Luật Cải cách ruộng đất**.
 *   **1954:** Sau Hiệp định Genève, vợ chồng Út Tịch được phân công ở lại miền Nam. Bị chính quyền Ngô Đình Diệm đàn áp, bà cùng nhiều phụ nữ khác đã đấu tranh buộc chính quyền thả chồng và bạn chiến đấu. Trong khi đó, Lê Thị Riêng cũng tiếp tục tham gia các phong trào cách mạng chống Mỹ - Diệm tại miền Nam.
 *   **1954:** Sau Hiệp định Giơnevơ, cả Huỳnh Tấn Phát và Lưu Tấn Phát đều được phân công ở lại miền Nam để lãnh đạo cuộc đấu tranh chống chế độ Mỹ - ngụy.
@@ -1797,6 +1804,7 @@
 *   **Đầu năm 1954:** Georges Boudarel đảm nhiệm việc đưa một số tù binh được trao đổi với phía Pháp. Sau khi trại 113 đóng cửa, ông trở lại An toàn khu Việt Bắc, làm việc cho chương trình tiếng Pháp của đài tiếng nói cách mạng, kịp thời phát đi những tin tức chiến sự và bình luận sắc sảo trong suốt Chiến dịch Điện Biên Phủ để nhân dân Pháp và thế giới hiểu rõ thực chất cuộc chiến.
 *   **Đầu năm 1954:** Trong chiến dịch Điện Biên Phủ, cựu Thị trưởng Trần Văn Lai đã góp ý và là người đầu tiên ký tên vào bản kiến nghị đòi hòa bình của nhân sĩ, trí thức Hà Nội ("Les Notabilites"). Bản kiến nghị được gửi sang Pháp và đăng trên các báo lớn, tạo tiếng vang và áp lực ngoại giao.
 *   **13 - 17/03/1954:** Trong đợt 1 của chiến dịch Điện Biên Phủ, bộ đội Việt Nam nổ súng vào lúc 17h05 ngày 13/03. Nhanh chóng tiêu diệt cứ điểm Him Lam (13/03) và Độc Lập (15/03), khiến chỉ huy pháo binh Pháp Piroth phải tự sát. Bản Kéo xin hàng vào ngày 17/03. Trong đợt này, ngày 14/03, chiếc máy bay đầu tiên của Pháp đã bị cao xạ Việt Nam bắn rơi.
+*   **13/03/1954:** Trong trận mở màn Chiến dịch Điện Biên Phủ đánh căn cứ Him Lam, anh hùng Phan Đình Giót dũng cảm lấy thân mình lấp lỗ châu mai của hỏa lực địch, mở đường cho đơn vị xông lên tiêu diệt căn cứ.
 *   **15/03/1954:** Tại căn cứ ATK Kim Quan (Tuyên Quang), Chủ tịch Hồ Chí Minh chủ trì phiên họp Hội đồng Chính phủ nhằm nghe báo cáo công tác chuẩn bị tham dự Hội nghị Giơnevơ và chỉ đạo các nhiệm vụ quân sự, ngân sách, cải cách ruộng đất.
 *   **30/03 - 26/04/1954:** Đợt 2 của chiến dịch bắt đầu lúc 18h00 ngày 30/03. Bộ đội Việt Nam đồng loạt tiến công các cao điểm phía đông (như C1, D1, E), thắt chặt vòng vây bằng hệ thống giao thông hào chằng chịt, khống chế hoàn toàn sân bay và cắt đứt nguồn tiếp tế của địch.
 *   **04/1954:** Tại ATK Kim Quan (Tuyên Quang), Bộ Chính trị ban hành Nghị quyết "Tiếp tục thấu triệt phương châm đánh chắc, đề cao quyết tâm, tích cực giành toàn thắng cho Chiến dịch Điện Biên Phủ".
@@ -1990,6 +1998,7 @@
 *   **05/05/1965:** Nguyễn Thị Út (Út Tịch) được Nhà nước tuyên dương danh hiệu Anh hùng lực lượng vũ trang nhân dân. Bà nổi tiếng với câu nói bất hủ: "Còn cái lai quần cũng đánh!".
 *   **09/05/1965:** Chính phủ Việt Nam Dân chủ Cộng hòa ra tuyên bố phản đối việc Mỹ ấn định "khu vực tác chiến" tại Việt Nam. Theo nguồn tin từ Trung Quốc, bản tuyên bố này có thể đã nhắc đến việc khu vực tác chiến của Mỹ bao gồm cả một phần vùng biển của CHND Trung Hoa ở "quần đảo Tây Sa" (Hoàng Sa).
 *   **26/05/1965:** Trận Núi Thành (Quảng Nam), lần đầu tiên một đơn vị chủ lực của Quân Giải phóng tiêu diệt gọn một đại đội lính thủy đánh bộ Mỹ, mở ra phong trào "Tìm Mỹ mà đánh, gặp Mỹ là diệt".
+*   **26/05/1965:** Tại Quảng Xương (Thanh Hóa), học sinh Nguyễn Bá Ngọc (13 tuổi) dũng cảm lấy thân mình che chở cứu sống 2 em nhỏ trong đợt ném bom dữ dội của máy bay Mỹ và dũng cảm hy sinh do vết thương quá nặng.
 *   **28/05 - 20/07/1965:** **Chiến dịch Ba Gia (Quảng Ngãi):** Quân Giải phóng miền Nam Việt Nam (Quân khu 5) mở chiến dịch tiến công quân lực Việt Nam Cộng hòa. Trong giai đoạn 1 (Trận Ba Gia, 28/05 - 31/05), bằng chiến thuật vận động phục kích và bao vây, Trung đoàn 1 (Sư đoàn 2) do Nguyễn Chơn chỉ huy đã lần đầu tiên tiêu diệt gọn một chiến đoàn hỗn hợp (gồm Bộ binh, Biệt động quân, Thủy quân lục chiến) của quân đội Sài Gòn, loại khỏi vòng chiến đấu hơn 900 lính. Chiến thắng này góp phần làm phá sản hoàn toàn chiến lược "Chiến tranh đặc biệt".
 *   **06/1965 - 09/1966:** Thể theo yêu cầu của Việt Nam, Trung Quốc cử bộ đội công trình đến vùng Đông Bắc giúp đỡ xây dựng các công trình bố phòng trên 13 đảo và 8 địa điểm đất liền ven biển. Trong giai đoạn 1965-1968, Trung Quốc đã cử 346 chuyên gia và hơn 31 vạn bộ đội (cao xạ, công trình, làm đường) sang giúp Việt Nam, trực tiếp tham gia chiến đấu và bắn rơi nhiều máy bay Mỹ.
 *   **09 - 13/06/1965:** **Trận Đồng Xoài (Phước Long):** Nằm trong khuôn khổ Chiến dịch Đồng Xoài (10/05 - 22/07), Quân Giải phóng mở cuộc tấn công quy mô lớn vào chi khu Đồng Xoài do Lực lượng Đặc biệt Việt Nam Cộng hòa và cố vấn Mỹ phòng thủ. Sau nhiều ngày đêm, Quân Giải phóng đã làm chủ cứ điểm và đánh thiệt hại nặng các tiểu đoàn viện binh (trong đó có Tiểu đoàn Dù 7 tinh nhuệ). Toàn chiến dịch đã loại khỏi vòng chiến đấu gần 4.500 lính đối phương, đánh dấu sự trưởng thành vượt bậc về tác chiến tập trung của Quân Giải phóng.
@@ -2109,6 +2118,7 @@
 *   **04/1970:** **Trận Bàu Sen.** Bùi Văn Thuyên cùng hai đồng đội (anh Sơn và Mười Quảng) lập tổ "tam tam" đánh quân Mỹ. Bị thương nặng lòi ruột ra ngoài và bất tỉnh, khi tỉnh lại, ông tự tay nhét ruột vào, băng bó vết thương rồi dùng súng M79 tiêu diệt tại chỗ 3 tên lính Mỹ đang xông tới. Sau đó, ông dùng khẩu súng làm gậy chống để lết về đơn vị an toàn.
 *   **24-25/04/1970:** Hội nghị cấp cao nhân dân ba nước Đông Dương được tổ chức, củng cố liên minh chiến đấu chống kẻ thù chung.
 *   **30/04 - 30/06/1970:** Hơn 10 vạn quân Mỹ và quân đội Sài Gòn mở Chiến dịch Campuchia, thực hiện 23 cuộc hành quân ồ ạt đánh sâu vào đất Campuchia từ 30 đến 80 km nhằm truy tìm và tiêu diệt cơ quan đầu não Trung ương Cục miền Nam.
+*   **22/06/1970:** Bác sĩ, liệt sĩ Đặng Thùy Trâm anh dũng hy sinh tại chiến trường Đức Phổ (Quảng Ngãi) khi mới 28 tuổi trong lúc một mình chiến đấu bảo vệ trạm xá và thương binh trước trận càn của quân Mỹ. Hai cuốn nhật ký của bà ("Nhật ký Đặng Thùy Trâm") sau đó được cựu sĩ quan quân báo Mỹ Frederic Whitehurst lưu giữ vì *"bản thân nó đã có lửa"*.
 *   **02/07/1970:** Bộ Chính trị ra Nghị quyết số 200-NQ/TW thành lập Hội đồng chi viện tiền tuyến ở Trung ương để huy động sức người, sức của đáp ứng yêu cầu của chiến trường.
 *   **25/08/1970:** Đinh Thị Vân được Nhà nước phong tặng danh hiệu cao quý: Anh hùng Lực lượng vũ trang nhân dân vì những cống hiến xuất sắc cho ngành tình báo quân sự Việt Nam. Trần Hữu Bào cũng được phong tặng danh hiệu này vì những chiến công đặc biệt xuất sắc tại cao điểm 595.
 *   **1971:** Bà Nguyễn Thị Bình, Trưởng đoàn đàm phán của Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam tại Hội nghị Paris, sang thăm Iraq và được chính phủ cùng nhân dân Iraq đón tiếp hết sức trọng thị.
@@ -2450,6 +2460,7 @@
 *   **03/2005:** Sở Giao dịch Chứng khoán Hà Nội (HNX) được thành lập
 *   **23/05/2005:** Liệt sĩ Lê Thị Ngọc Tiến được Nhà nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân vì thành tích đặc biệt xuất sắc và sự hy sinh kiên trung trong cuộc kháng chiến chống Mỹ cứu nước.
 *   **19 - 25/06/2005:** Thủ tướng Phan Văn Khải thăm chính thức Hoa Kỳ, chuyến thăm đầu tiên của lãnh đạo Việt Nam sau chiến tranh.
+*   **18/07/2005:** Cuốn sách *"Nhật ký Đặng Thùy Trâm"* do Nhà xuất bản Hội Nhà văn ấn hành chính thức ra mắt độc giả Việt Nam, sau khi được cựu sĩ quan quân báo Mỹ Frederic Whitehurst lưu giữ 35 năm và trao trả cho gia đình liệt sĩ. Cuốn nhật ký nhanh chóng tạo nên một hiện tượng văn hóa - xã hội sâu sắc, xúc động hàng triệu độc giả trong và ngoài nước về lòng yêu nước và lý tưởng sống của thế hệ trẻ Việt Nam.
 *   **25/11/2005:** Không gian Văn hóa Cồng chiêng Tây Nguyên được UNESCO công nhận là di sản.
 
 ### **Thời kỳ Gia nhập WTO và Khẳng định Vị thế Quốc tế (2006 - 2010)**
