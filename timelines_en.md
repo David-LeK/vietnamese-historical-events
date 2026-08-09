@@ -33,17 +33,30 @@
 *   **7th century BC (1st millennium BC):** According to *Viet su luoc*, the Van Lang nation was born. It was the first primitive state in Vietnam, formed on the basis of the Dong Son culture, bringing together 15 Lac Viet tribes in the plains and midlands. This state was later succeeded by the Au Lac kingdom.
 *   **5th century BC:** Regarded by some historians as the "century of the South" due to the widespread influence of ancient Southeast Asian cultures (including the ancestors of the Vietnamese) in agriculture, metallurgy, and mythology.
 *   **Approximately 500 BC:** Dong Nai Culture period (Southeast region), a metallurgical culture connecting the Bronze and Iron Ages.
+*   **Around 500 BC:** Dong Son bronze casting reached its artistic zenith with the creation of the Ngoc Lu and Hoang Ha bronze drums, reflecting spiritual life, agricultural production, and superior metallurgical technology of the ancient Vietnamese.
 *   **Around the 3rd - 2nd century BC:** Buddhism was introduced to Vietnam by sea from India. This was the earliest religion to arrive and has been localized, becoming a dominant ideology in national culture throughout many historical periods.
 *   **258 BC:** An Duong Vuong (Thuc Phan) annexed the Van Lang nation, ending the era of the Hung Kings.
 *   **257 BC:** An Duong Vuong changed the national title to Au Lac, moving the capital to Phong Khe (Co Loa).
+*   **257 BC:** Thuc Phan An Duong Vuong erected a sacred stone oath pillar on the peak of Nghia Linh Mountain (Phong Chau), swearing eternal preservation of the realm handed down by the Hung Kings.
 *   **255 BC:** An Duong Vuong constructed the Loa Thanh (Co Loa Citadel).
-*   **218 - 208 BC:** The resistance of the Tay Au and Lac Viet people against the invasion of the Qin dynasty.
-*   **214 BC:** The Qin dynasty established the commanderies of Guilin, Nanhai, and Xiang (Tuong Quan) in the region.
-*   **208 BC:** Trieu Da invaded Au Lac; An Duong Vuong was defeated, marking the end of the Thuc dynasty.
-*   **206 BC:** Trieu Da (Zhao Tuo) established the Nanyue kingdom.
+*   **Around 250 BC:** General Cao Lo (Cao Thong) successfully invented the "Lianzhou Crossbow" (Magic Crossbow), capable of firing multiple bronze arrows simultaneously, becoming a strategic defensive weapon for Co Loa Citadel of Au Lac.
+*   **218 BC:** Qin Shi Huang ordered Tu Shu as General-in-Chief and Ren Ao as Vice General to lead an army of 500,000 divided into 5 routes to invade Bach Viet (Tay Au and Lac Viet), beginning the 10-year resistance war of the Vietnamese people.
+*   **214 BC:** Qin general Tu Shu killed Yihuang (leader of Tay Au). The Tay Au and Lac Viet people retreated into deep forests, chose Thuc Phan as their unified leader, and waged resilient guerrilla warfare against Qin forces. In the same year, the Qin dynasty established the commanderies of Guilin, Nanhai, and Xiang.
+*   **208 BC:** The Tay Au and Lac Viet alliance under Thuc Phan launched a major counter-offensive, ambushing and killing General-in-Chief Tu Shu and crushing the 500,000 Qin army to defend national independence. Following the victory, Thuc Phan unified Tay Au and Lac Viet into Au Lac. Around the same time, Zhao Tuo began attacks against Au Lac.
+*   **207 BC:** Taking advantage of the fall of the Qin dynasty, Zhao Tuo severed transport links with the Central Plains, established the Nanyue kingdom with its capital at Panyu (Guangzhou), and proclaimed himself King Wu of Nanyue.
+*   **198 BC:** Zhao Tuo divided Nanyue into Jiaozhi and Jiuzhen commanderies, dispatching official superintendents (Dien lenh) to directly oversee administration and military affairs.
 *   **179 BC:** Trieu Da conquered the Au Lac kingdom. This event is associated with the tragic legend of the love story of Trong Thuy and My Chau.
-*   **111 BC:** The Han dynasty conquered the Nanyue kingdom, beginning the period of direct domination over the former Au Lac territory.
+*   **137 BC:** Zhao Tuo passed away at over 100 years old after nearly 70 years of reign. His grandson Zhao Mo succeeded him as King Wen of Nanyue (Trieu Van Vuong).
+*   **135 BC:** The Minyue kingdom invaded Nanyue. King Wen of Nanyue requested Emperor Wu of Han to intervene; the Han dynasty sent troops to attack Minyue, causing Nanyue to become increasingly subject to Han diplomatic influence.
+*   **113 BC:** Emperor Wu of Han sent An Guo Shaogui as an envoy to Nanyue to persuade Queen Dowager Cu and King Zhao Xing to submit Nanyue fully to the Han dynasty.
+*   **November 112 BC:** Prime Minister Lu Jia (Lua Gia) led an uprising with generals to protect sovereignty, executing Queen Dowager Cu, King Zhao Xing, and Han envoy An Guo Shaogui, enthroning Zhao Jiande as king (King Shuai of Nanyue) to resist annexation.
+*   **April 111 BC:** Han forces commanded by Lu Bode and Yang Pu numbering 100,000 troops captured Panyu. Lu Jia and Zhao Jiande were captured and executed. The Nanyue kingdom collapsed; the Han dynasty divided its territory into 9 commanderies (including Jiaozhi, Jiuzhen, and Yinan), starting the First Northern Domination period.
+*   **106 BC:** Emperor Wu of Han organized the southern commanderies into Jiaozhi Circuit (comprising 9 commanderies), appointing a Circuit Inspector (Thu su) based at Luy Lau to oversee administrative affairs.
+*   **2 BC:** The census under Emperor Ping of Han recorded over 143,000 households and nearly 1,000,000 inhabitants across Jiaozhi, Jiuzhen, and Rinan commanderies, demonstrating strong demographic and economic activity.
 *   **1st - 7th century:** The Kingdom of Funan (Phu Nam) flourished in the Mekong Delta. Associated with the Oc Eo Culture, it was a major commercial center connecting maritime trade routes between the East and West.
+*   **9 AD:** Wang Mang overthrew the Western Han to establish the Xin Dynasty. Inspector Dang Tuong maintained peace in Jiaozhi Circuit, making it a safe refuge for many northern scholars fleeing civil war.
+*   **25 AD:** Xi Guang became Governor of Jiaozhi and Ren Yan became Governor of Jiuzhen. They established schools, taught Chinese literacy, and introduced iron plow agriculture and irrigation techniques to the local population.
+*   **29 AD:** Xi Guang and Ren Yan sent envoys to Luoyang to submit to Emperor Guangwu of Eastern Han, officially bringing Jiaozhi under Eastern Han administration.
 *   **34:** Han Emperor Guangwu appointed Su Ding as the governor of Jiaozhi. His cruel administration and heavy taxation burdened the local population, laying the groundwork for the Trung Sisters' uprising.
 *   **40:** The Trung Sisters launched an uprising, regaining independence. Trung Trac ascended to the throne as queen, establishing the capital at Me Linh.
 *   **41:** Ma Yuan led an army of 200,000 to invade.

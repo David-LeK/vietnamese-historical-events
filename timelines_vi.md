@@ -33,17 +33,30 @@
 *   **Thế kỷ VII TCN (Thiên niên kỷ thứ 1 TCN):** Theo *Việt sử lược*, nước Văn Lang ra đời. Đây là nhà nước sơ khai đầu tiên ở Việt Nam, được hình thành trên cơ sở văn hóa Đông Sơn, tập hợp 15 bộ lạc người Lạc Việt ở vùng đồng bằng và trung du. Nước Âu Lạc sau này tiếp nối nước Văn Lang.
 *   **Thế kỷ V TCN:** Được nhiều học giả xem là "thế kỷ của phương Nam" do những ảnh hưởng to lớn của văn hóa Đông Nam Á cổ đại (bao gồm tổ tiên người Việt) về nông nghiệp và luyện kim vượt ra ngoài ranh giới khu vực.
 *   **Khoảng 500 TCN:** Thời kỳ Văn hóa Đồng Nai (Đông Nam Bộ), nền văn hóa kim khí kết nối giữa thời đại đồng thau và thời đại sắt sớm.
+*   **Khoảng 500 TCN:** Nghệ thuật đúc đồng Đông Sơn đạt tới đỉnh cao rực rỡ với việc chế tác Trống đồng Ngọc Lũ và Trống đồng Hoàng Hà, phản ánh đời sống tâm linh, sản xuất nông nghiệp và kỹ thuật luyện kim vượt trội của người Việt cổ.
 *   **Khoảng thế kỷ III - II TCN:** Phật giáo được du nhập vào bằng đường biển từ Ấn Độ. Đây là tôn giáo có mặt sớm nhất và đã được bản địa hóa, trở thành tư tưởng chủ đạo trong văn hóa dân tộc qua nhiều thời kỳ lịch sử.
 *   **258 TCN:** An Dương Vương (Thục Phán) thôn tính nước Văn Lang, kết thúc thời đại Hùng Vương.
 *   **257 TCN:** An Dương Vương đổi quốc hiệu thành Âu Lạc, dời đô về Phong Khê (Cổ Loa).
+*   **257 TCN:** Thục Phán An Dương Vương dựng cột đá thề trên đỉnh núi Nghĩa Lĩnh (Phong Châu), thề nguyện đời đời giữ gìn giang sơn gấm vóc mà các Hùng Vương đã trao lại.
 *   **255 TCN:** An Dương Vương cho xây dựng Loa Thành (Cổ Loa).
-*   **218 - 208 TCN:** Cuộc kháng chiến của người Tây Âu và Lạc Việt chống lại cuộc xâm lược của nhà Tần.
-*   **214 TCN:** Nhà Tần thiết lập các quận Quế Lâm, Nam Hải và Tượng Quận.
-*   **208 TCN:** Triệu Đà xâm lược, An Dương Vương thất bại, nước Âu Lạc mất.
-*   **206 TCN:** Triệu Đà thành lập nước Nam Việt.
+*   **Khoảng 250 TCN:** Tướng quân Cao Lỗ (Cao Thông) chế tạo thành công "Lạc Quang thần nỏ" (Nỏ Liên Châu / Nỏ thần), bắn ra nhiều mũi tên đồng cùng lúc, trở thành vũ khí chiến lược bảo vệ Loa Thành của nước Âu Lạc.
+*   **218 TCN:** Tần Thủy Hoàng sai Đồ Thư làm Tổng hiệu úy, Nhâm Ngao làm Hiệu úy, đem 50 vạn quân chia 5 đạo tiến đánh Bách Việt (Tây Âu và Lạc Việt), mở đầu cuộc kháng chiến chống Tần kéo dài 10 năm của người Việt.
+*   **214 TCN:** Tướng Tần là Đồ Thư giết chết Dịch Huống (thủ lĩnh Tây Âu). Cư dân Tây Âu và Lạc Việt rút vào rừng sâu, bầu Thục Phán làm thủ lĩnh chung, ngày ẩn đêm xuất tiến hành chiến tranh du kích kiên cường chống quân Tần. Cùng năm, nhà Tần thiết lập 3 quận Quế Lâm, Nam Hải và Tượng Quận.
+*   **208 TCN:** Liên quân Tây Âu - Lạc Việt dưới sự chỉ huy của Thục Phán mở cuộc phản công lớn, phục kích tiêu diệt Tổng hiệu úy Đồ Thư và đại phá 50 vạn quân Tần, bảo vệ độc lập dân tộc. Sau chiến thắng, Thục Phán hợp nhất Tây Âu và Lạc Việt thành nước Âu Lạc. Cùng thời gian, Triệu Đà bắt đầu các cuộc tấn công nhắm vào Âu Lạc.
+*   **207 TCN:** Triệu Đà nhân lúc nhà Tần suy vong đã cắt đứt giao thông với Trung Nguyên, lập ra nước Nam Việt, đóng đô ở Phiên Ngung (Quảng Châu) và xưng là Nam Việt Vũ Vương.
+*   **198 TCN:** Triệu Đà chia đất Nam Việt thành hai quận Giao Chỉ và Cửu Chân, cử quan Điển lệnh trực tiếp giám sát hành chính và quân sự.
 *   **179 TCN:** Triệu Đà thôn tính nước Âu Lạc. Sự kiện này gắn liền với truyền thuyết bi kịch về mối tình Trọng Thủy - Mỵ Châu.
-*   **111 TCN:** Nhà Hán chinh phục nước Nam Việt, bắt đầu thời kỳ đô hộ trực tiếp trên đất Âu Lạc cũ.
+*   **137 TCN:** Triệu Đà qua đời ở tuổi hơn 100 sau gần 70 năm trị vì. Cháu nội là Triệu Mạt lên nối ngôi, xưng là Triệu Văn Vương (Triệu Văn Đế).
+*   **135 TCN:** Nước Mân Việt tiến đánh Nam Việt. Triệu Văn Vương gửi thư xin Hán Vũ Đế can thiệp; nhà Hán cử quân đánh Mân Việt, khiến Nam Việt ngày càng chịu ảnh hưởng ngoại giao từ triều Hán.
+*   **113 TCN:** Hán Vũ Đế sai An Quốc Thiếu Quý sang Nam Việt dụ Cù Thái hậu và Triệu Hưng dâng Nam Việt phụ thuộc hoàn toàn vào nhà Hán.
+*   **Tháng 11/112 TCN:** Thừa tướng Lữ Gia (Lừa Gia) cùng các tướng lĩnh nổi dậy kiên quyết bảo vệ chủ quyền, giết Cù Thái hậu, vua Triệu Hưng và sứ Hán An Quốc Thiếu Quý, lập Triệu Kiến Đức làm vua (Triệu Thuật Vương) để chống lại nguy cơ sáp nhập.
+*   **Tháng 4/111 TCN:** Quân Hán do Lộ Bác Đức và Dương Bộc chỉ huy gồm 10 vạn quân đánh chiếm Phiên Ngung. Lữ Gia và Triệu Kiến Đức bị bắt và hy sinh. Nước Nam Việt sụp đổ; nhà Hán chia đất Nam Việt thành 9 quận (bao gồm Giao Chỉ, Cửu Chân và Nhật Nam), bắt đầu thời kỳ Bắc thuộc lần thứ nhất.
+*   **106 TCN:** Hán Vũ Đế chia các quận phương Nam thành Giao Chỉ bộ (gồm 9 quận), cử Thứ sử đứng đầu để kiểm soát và giám sát hành chính, đặt trị sở tại Luy Lâu (nay thuộc Thuận Thành, Bắc Ninh).
+*   **Năm 2 TCN:** Cuộc điều tra dân số thời Hán Bình Đế ghi nhận 3 quận Giao Chỉ, Cửu Chân và Nhật Nam có hơn 143.000 hộ gia đình với gần 1 triệu dân, chứng tỏ sự phát triển kinh tế và dân cư đông đúc của vùng đất Âu Lạc cũ.
 *   **Thế kỷ I - VII:** Vương quốc Phù Nam hình thành và phát triển rực rỡ ở vùng đồng bằng sông Cửu Long. Gắn liền với đó là Văn hóa Óc Eo, một trung tâm thương mại quan trọng kết nối các tuyến hàng hải Đông - Tây.
+*   **Năm 9:** Vương Mãng lật đổ nhà Tây Hán, lập ra nhà Tân. Thứ sử Giao Chỉ bộ là Đặng Tương giữ cho vùng đất Giao Châu được hòa bình, thành nơi tị nạn của nhiều sĩ phu, danh sĩ phương Bắc trốn tránh biến loạn.
+*   **Năm 25:** Tích Quang làm Thái thú quận Giao Chỉ, Nhâm Diên làm Thái thú quận Cửu Chân. Hai ông mở trường dạy học chữ Hán, truyền bá lễ nghi, kỹ thuật cày bằng phay sắt và xây dựng các công trình thủy lợi cho người Việt.
+*   **Năm 29:** Tích Quang và Nhâm Diên cử sứ giả sang Lạc Dương dâng sớ quy phục Hán Quang Vũ Đế (nhà Đông Hán), kết thúc thời kỳ gián đoạn và chính thức đưa Giao Châu thuộc quyền kiểm soát của Đông Hán.
 *   **Năm 34:** Vua Quang Vũ nhà Hán sai Tô Định sang làm Thái thú quận Giao Chỉ. Sự cai trị tàn bạo và thuế khóa hà khắc của Tô Định là nguyên nhân trực tiếp dẫn đến cuộc khởi nghĩa của Hai Bà Trưng.
 *   **40:** Hai Bà Trưng dấy binh khởi nghĩa, giành lại độc lập. Trưng Trắc lên ngôi vua, đóng đô ở Mê Linh.
 *   **41:** Mã Viện mang 20 vạn quân sang xâm lược.
