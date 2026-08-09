@@ -1,11 +1,13 @@
 ### **Thời kỳ Tiền sử và Sơ sử (Trước năm 800 TCN)**
 
+*   **Khoảng 800.000 năm trước:** Phát hiện tổ hợp di chỉ Thời đại Đá cũ An Khê (Gia Lai) với các công cụ đá ghè đẽo (rìu tay, công cụ chặt) của Người vượn đứng thẳng (*Homo erectus*), bằng chứng cổ xưa nhất về sự xuất hiện của con người trên lãnh thổ Việt Nam.
 *   **Khoảng 534.000 - 400.000 năm trước:** Dấu tích Người vượn (Homo Erectus) tồn tại ở Việt Nam, tiêu biểu là các di cốt răng tìm thấy ở Thẩm Khuyên, Thẩm Hai (Lạng Sơn).
 *   **Khoảng 300.000 năm trước:** Sự tồn tại của Người vượn thông qua các công cụ đá ở di chỉ Núi Đọ (Thanh Hóa).
 *   **Khoảng 250.000 - 140.000 năm trước:** Dấu tích Người tinh khôn (Homo Sapiens) sơ khai ở Thẩm Ôm (Nghệ An).
 *   **Khoảng 140.000 - 80.000 năm trước:** Dấu tích Người tinh khôn ở Hang Hùm (Yên Bái).
 *   **Khoảng 23.500 TCN (25.510 năm trước):** Thời kỳ Văn hóa Soi Nhụ (Quảng Ninh), nền văn hóa sớm cư trú trong hang động đá vôi ven biển.
 *   **Khoảng 21.000 TCN (23.000 năm trước):** Thời kỳ Văn hóa Tràng An (Ninh Bình), đặc trưng bởi sự thích ứng của người tiền sử với biến đổi khí hậu và biển tiến.
+*   **Khoảng 20.000 - 11.000 TCN (22.000 - 13.000 năm trước):** Thời kỳ Văn hóa Ngườm (Thái Nguyên), nền văn hóa đá cũ muộn đặc trưng bởi kỹ nghệ chế tác công cụ từ mảnh đá cuội, đánh dấu bước chuyển tiếp sang thời kỳ đá mới.
 *   **Khoảng 16.000 - 9.000 TCN (18.000 - 11.000 năm trước):** Thời kỳ Văn hóa Sơn Vi.
 *   **Khoảng 9.400 - 5.700 TCN (11.365 - 7.665 năm trước):** Thời kỳ Văn hóa Hòa Bình.
 *   **Khoảng 8.000 TCN (10.000 năm trước):** Một dòng người thuộc đại chủng Mongoloid từ dãy Himalaya di cư về hướng Đông Nam, hợp chủng với cư dân Melanésien bản địa tạo thành chủng Indonésien (Cổ Mã Lai), tổ tiên của nhiều dân tộc Đông Nam Á.
@@ -21,6 +23,7 @@
 *   **2792 TCN:** Sùng Lẫm nối ngôi Kinh Dương Vương, xưng là Lạc Long Quân, tiếp tục cai trị nước Xích Quỷ. Lạc Long Quân có công trừ diệt các loài quái vật nguy hại (Ngư Tinh, Cửu Vĩ Hồ, Mộc Tinh), dạy nhân dân trồng lúa nước, dệt vải và cất dựng nhà cửa.
 *   **Khoảng 2524 TCN:** Lạc Long Quân kết duyên với Âu Cơ (con gái Đế Lai). Âu Cơ sinh bọc trăm trứng, nở thành 100 người con trai, hình thành cội nguồn truyền thuyết "Con Rồng cháu Tiên" và khái niệm "Đồng bào". Hai người sau đó chia 50 con theo mẹ lên núi, 50 con theo cha xuống biển để cai quản các vùng đất. Người con trưởng theo mẹ lên vùng Phong Châu lên ngôi xưng là Hùng Vương, đặt quốc hiệu là Văn Lang.
 *   **Khoảng cuối thiên niên kỷ III TCN - đầu thiên niên kỷ II TCN:** Thời kỳ Văn hóa Phùng Nguyên, mở đầu thời đại kim khí.
+*   **Khoảng 2.000 TCN (4.000 năm trước):** Niên đại di chỉ Văn hóa Mãn Bạc (Ninh Bình), nơi phát hiện nhiều di cốt phản ánh quá trình hợp chủng giữa cư dân bản địa Đông Nam Á và cư dân di cư từ phía Bắc, mở đầu giai đoạn chuyển tiếp từ Văn hóa Đa Bút sang Văn hóa Phùng Nguyên.
 *   **Khoảng 2.000 - 1.500 TCN (4.000 - 3.500 năm trước):** Thời kỳ Văn hóa Bàu Tró.
 *   **Khoảng thế kỷ XV - IX TCN:** Thời kỳ Văn hóa Đồng Đậu.
 *   **1110 TCN:** Theo thư tịch cổ, sứ giả Việt Thường đem chim trĩ trắng dâng cho nhà Chu.
@@ -42,9 +45,12 @@
 *   **Khoảng 250 TCN:** Tướng quân Cao Lỗ (Cao Thông) chế tạo thành công "Lạc Quang thần nỏ" (Nỏ Liên Châu / Nỏ thần), bắn ra nhiều mũi tên đồng cùng lúc, trở thành vũ khí chiến lược bảo vệ Loa Thành của nước Âu Lạc.
 *   **218 TCN:** Tần Thủy Hoàng sai Đồ Thư làm Tổng hiệu úy, Nhâm Ngao làm Hiệu úy, đem 50 vạn quân chia 5 đạo tiến đánh Bách Việt (Tây Âu và Lạc Việt), mở đầu cuộc kháng chiến chống Tần kéo dài 10 năm của người Việt.
 *   **214 TCN:** Tướng Tần là Đồ Thư giết chết Dịch Huống (thủ lĩnh Tây Âu). Cư dân Tây Âu và Lạc Việt rút vào rừng sâu, bầu Thục Phán làm thủ lĩnh chung, ngày ẩn đêm xuất tiến hành chiến tranh du kích kiên cường chống quân Tần. Cùng năm, nhà Tần thiết lập 3 quận Quế Lâm, Nam Hải và Tượng Quận.
+*   **210 TCN:** Tần Thủy Hoàng qua đời. Triệu Đà nhân lúc triều Tần đại loạn đã cắt đứt tuyến giao thông với Trung Nguyên, phong tỏa các cửa ải phía bắc (Nhĩ Lăng, Hoành Sơn, Dương Sơn) và sát hại các quan lại nhà Tần ở Nam Hải, tạo tiền đề thành lập nước Nam Việt.
 *   **208 TCN:** Liên quân Tây Âu - Lạc Việt dưới sự chỉ huy của Thục Phán mở cuộc phản công lớn, phục kích tiêu diệt Tổng hiệu úy Đồ Thư và đại phá 50 vạn quân Tần, bảo vệ độc lập dân tộc. Sau chiến thắng, Thục Phán hợp nhất Tây Âu và Lạc Việt thành nước Âu Lạc. Cùng thời gian, Triệu Đà bắt đầu các cuộc tấn công nhắm vào Âu Lạc.
 *   **207 TCN:** Triệu Đà nhân lúc nhà Tần suy vong đã cắt đứt giao thông với Trung Nguyên, lập ra nước Nam Việt, đóng đô ở Phiên Ngung (Quảng Châu) và xưng là Nam Việt Vũ Vương.
 *   **198 TCN:** Triệu Đà chia đất Nam Việt thành hai quận Giao Chỉ và Cửu Chân, cử quan Điển lệnh trực tiếp giám sát hành chính và quân sự.
+*   **196 TCN:** Hán Cao Tổ Lưu Bang cử Lục Giả làm chánh sứ sang Phiên Ngung dâng chiếu thư và kim ấn, chính thức phong Triệu Đà làm Nam Việt Vương, mở đầu quan hệ ngoại giao chính thức giữa Nam Việt và nhà Hán.
+*   **183 TCN:** Lã Thái hậu (nhà Hán) ra lệnh cấm xuất khẩu sắt thép, gia súc sang Nam Việt. Triệu Đà tuyên bố ly khai, tự xưng là Nam Việt Vũ Đế (Triệu Vũ Đế) và cất quân đánh phá quận Trưởng Sa của nhà Hán.
 *   **179 TCN:** Triệu Đà thôn tính nước Âu Lạc. Sự kiện này gắn liền với truyền thuyết bi kịch về mối tình Trọng Thủy - Mỵ Châu.
 *   **137 TCN:** Triệu Đà qua đời ở tuổi hơn 100 sau gần 70 năm trị vì. Cháu nội là Triệu Mạt lên nối ngôi, xưng là Triệu Văn Vương (Triệu Văn Đế).
 *   **135 TCN:** Nước Mân Việt tiến đánh Nam Việt. Triệu Văn Vương gửi thư xin Hán Vũ Đế can thiệp; nhà Hán cử quân đánh Mân Việt, khiến Nam Việt ngày càng chịu ảnh hưởng ngoại giao từ triều Hán.

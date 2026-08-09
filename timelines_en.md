@@ -1,11 +1,13 @@
 ### **Prehistoric and Protohistoric Period (Before 800 BC)**
 
+*   **Approximately 800,000 years ago:** Discovery of the An Khe Paleolithic site complex (Gia Lai) with stone tools (hand axes, chopping tools) of *Homo erectus*, the earliest evidence of human presence in the territory of Vietnam.
 *   **Approximately 534,000 - 400,000 years ago:** Traces of Ape-man (Homo Erectus) existed in Vietnam, typically represented by tooth fossils found in Tham Khuyen and Tham Hai (Lang Son).
 *   **Approximately 300,000 years ago:** The existence of Ape-man is evidenced by stone tools at the Nui Do archaeological site (Thanh Hoa).
 *   **Approximately 250,000 - 140,000 years ago:** Traces of archaic Homo Sapiens in Tham Om (Nghe An).
 *   **Approximately 140,000 - 80,000 years ago:** Traces of Homo Sapiens in Hang Hum (Yen Bai).
 *   **Approximately 23,500 BC (25,510 years ago):** Soi Nhu Culture period (Quang Ninh), one of the earliest cultures with traces of human habitation in limestone caves near the sea.
 *   **Approximately 21,000 BC (23,000 years ago):** Trang An Culture period (Ninh Binh), characterized by cave dwelling adaptation to climate change and sea-level transgression.
+*   **Approximately 20,000 - 11,000 BC (22,000 - 13,000 years ago):** Nguom Culture period (Thai Nguyen), a Late Paleolithic culture characterized by pebble flake tool technology, marking a crucial transition toward the Neolithic Age.
 *   **Approximately 16,000 - 9,000 BC (18,000 - 11,000 years ago):** Son Vi Culture period.
 *   **Approximately 9,400 - 5,700 BC (11,365 - 7,665 years ago):** Hoa Binh Culture period.
 *   **Approximately 8,000 BC (10,000 years ago):** A Mongoloid population migrated from the Himalayas to Southeast Asia and interbred with indigenous Melanesians, forming the Indonesien (Ancient Malay) race, the ancestors of many Southeast Asian peoples.
@@ -21,6 +23,7 @@
 *   **2792 BC:** Sung Lam succeeded Kinh Duong Vuong as Lac Long Quan, taking over the rule of Xich Quy. Lac Long Quan was credited with slaying sea and forest monsters (Ngư Tinh, Cửu Vĩ Hồ, Mộc Tinh) and teaching the people wet rice cultivation, weaving, and house building.
 *   **Approximately 2524 BC:** Lac Long Quan married Au Co (daughter of De Lai). Au Co gave birth to a sac of one hundred eggs which hatched into 100 sons, forming the legendary origin of "Dragon and Fairy descendants" and the concept of "Dong bao" (compatriots). They later split their children, 50 following their mother to the mountains and 50 following their father to the sea. The eldest son followed his mother to Phong Chau and ascended the throne as Hung Vuong, founding the nation of Van Lang.
 *   **Approximately late 3rd millennium BC - early 2nd millennium BC:** Phung Nguyen Culture period, marking the beginning of the Metal Age.
+*   **Approximately 2,000 BC (4,000 years ago):** Date of the Man Bac Culture site (Ninh Binh), featuring human remains that reflect interbreeding between indigenous Southeast Asian and northern migratory populations, marking the transition from Da But to Phung Nguyen Culture.
 *   **Approximately 2,000 - 1,500 BC (4,000 - 3,500 years ago):** Bau Tro Culture period.
 *   **Approximately 15th - 9th centuries BC:** Dong Dau Culture period.
 *   **1110 BC:** According to ancient records, Viet Thuong envoys offered white pheasants to the Zhou dynasty.
@@ -42,9 +45,12 @@
 *   **Around 250 BC:** General Cao Lo (Cao Thong) successfully invented the "Lianzhou Crossbow" (Magic Crossbow), capable of firing multiple bronze arrows simultaneously, becoming a strategic defensive weapon for Co Loa Citadel of Au Lac.
 *   **218 BC:** Qin Shi Huang ordered Tu Shu as General-in-Chief and Ren Ao as Vice General to lead an army of 500,000 divided into 5 routes to invade Bach Viet (Tay Au and Lac Viet), beginning the 10-year resistance war of the Vietnamese people.
 *   **214 BC:** Qin general Tu Shu killed Yihuang (leader of Tay Au). The Tay Au and Lac Viet people retreated into deep forests, chose Thuc Phan as their unified leader, and waged resilient guerrilla warfare against Qin forces. In the same year, the Qin dynasty established the commanderies of Guilin, Nanhai, and Xiang.
+*   **210 BC:** Qin Shi Huang died. Taking advantage of the chaos in the Qin dynasty, Zhao Tuo severed communication lines with the Central Plains, blockaded northern mountain passes (Erling, Huangshan, Yangshan), and eliminated Qin officials in Nanhai, laying the groundwork for establishing Nanyue.
 *   **208 BC:** The Tay Au and Lac Viet alliance under Thuc Phan launched a major counter-offensive, ambushing and killing General-in-Chief Tu Shu and crushing the 500,000 Qin army to defend national independence. Following the victory, Thuc Phan unified Tay Au and Lac Viet into Au Lac. Around the same time, Zhao Tuo began attacks against Au Lac.
 *   **207 BC:** Taking advantage of the fall of the Qin dynasty, Zhao Tuo severed transport links with the Central Plains, established the Nanyue kingdom with its capital at Panyu (Guangzhou), and proclaimed himself King Wu of Nanyue.
 *   **198 BC:** Zhao Tuo divided Nanyue into Jiaozhi and Jiuzhen commanderies, dispatching official superintendents (Dien lenh) to directly oversee administration and military affairs.
+*   **196 BC:** Emperor Gaozu of Han sent Lu Jia as ambassador to Panyu to present an imperial edict and gold seal, officially investing Zhao Tuo as King of Nanyue and establishing formal diplomatic relations.
+*   **183 BC:** Empress Dowager Lü of the Han dynasty imposed a trade embargo prohibiting the export of iron weapons and livestock to Nanyue. Zhao Tuo retaliated by declaring independence, proclaiming himself Emperor Wu of Nanyue, and attacking Changsha Commandery.
 *   **179 BC:** Trieu Da conquered the Au Lac kingdom. This event is associated with the tragic legend of the love story of Trong Thuy and My Chau.
 *   **137 BC:** Zhao Tuo passed away at over 100 years old after nearly 70 years of reign. His grandson Zhao Mo succeeded him as King Wen of Nanyue (Trieu Van Vuong).
 *   **135 BC:** The Minyue kingdom invaded Nanyue. King Wen of Nanyue requested Emperor Wu of Han to intervene; the Han dynasty sent troops to attack Minyue, causing Nanyue to become increasingly subject to Han diplomatic influence.
