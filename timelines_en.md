@@ -1245,6 +1245,7 @@
 *   **1899:** The Haiphong Portland Cement Plant was established; construction of Hoa Lo Prison began in Hanoi.
 *   **1900:** Phan Boi Chau passed the regional examination in Nghe An with the highest honors, beginning his career as a professional revolutionary.
 *   **Apr. 11, 1900:** The province of Tuyen Quang was re-established.
+*   **May 18, 1901:** Phung Chi Kien (born Nguyen Vy) was born in Dien Yen commune, Dien Chau district, Nghe An province. He was a prominent early leader of the Communist Party, the first military commander of the Party, and the first general of the Vietnam People's Army.
 *   **Sep. 1, 1901:** *Nong Co Min Dam*, one of the first important newspapers in the Quoc Ngu script, was launched in Saigon.
 *   **1902:** The Long Bien Bridge (Hanoi) and the Hanoi - Haiphong railway line were completed. The Indochina Medical School was founded.
 *   **Jul. 1, 1902:** Paul Beau assumed the post of Governor-General, replacing Paul Doumer, and began implementing a policy of "association with the natives."
@@ -1382,6 +1383,7 @@
 *   **Mar. 24, 1926:** Phan Chau Trinh passed away in Saigon.
 *   **Apr. 4, 1926:** The funeral of Phan Chau Trinh was held solemnly in Saigon with the participation of about 140,000 people, turning into a mass demonstration.
 *   **Sep. 4, 1926:** A decree established the People's Agricultural Credit Banks in Tonkin.
+*   **Oct. 1926:** Phung Chi Kien and several members of the Vietnamese Revolutionary Youth League were sent to Guangzhou (China) to attend the first revolutionary training course organized by Nguyen Ai Quoc, subsequently enrolling in the Whampoa Military Academy.
 *   **Nov. 12, 1926:** The Indochinese Labor Party was founded in Saigon.
 *   **1927:** The Japanese Consul General in Hanoi, Kurosawa, requested information from French officials regarding the territorial status of the Spratly Islands.
 *   **Feb. 1927:** Nguyễn Ái Quốc's work *Đường Kách mệnh* (The Revolutionary Path) was published in Guangzhou, systemizing Marxist-Leninist lectures for Vietnamese revolutionaries and laying the theoretical foundation for the Vietnamese revolution.
@@ -1392,6 +1394,7 @@
 *   **Jul. 14, 1927:** The Vietnamese Revolutionary Comrades' Association (precursor to Tan Viet) was founded.
 *   **Jul. 19, 1927:** The General Inspectorate of Labor of Indochina was established.
 *   **Oct. 30, 1927:** A decree reorganized the administrative apparatus at the village level in Cochinchina.
+*   **Dec. 12, 1927:** Phung Chi Kien participated in the Guangzhou Uprising led by the Chinese Communist Party, serving as a Company Commander in the Chinese Workers' and Peasants' Red Army.
 *   **Dec. 25, 1927:** Nguyen Thai Hoc and his associates founded the Viet Nam Quoc Dan Dang (VNQDD) in Hanoi, and he was elected Chairman of the Central Executive Committee.
 *   **1928:** Le Duan joined the Vietnamese Revolutionary Youth League, marking the beginning of his nearly 60-year revolutionary career.
 *   **Jan. 25, 1928:** The Hue court issued an edict banning the propagation of Protestantism and Cao Daiism in Annam.
@@ -1450,7 +1453,7 @@
 *   **Dec. 21, 1933:** The Governor of Cochinchina, J. Krautheimer, signed a decree officially annexing the Spratly Islands into Ba Ria Province.
 *   **1934 - 1935:** Nguyen Son (Hong Thuy) became the only Vietnamese soldier to participate in the historic 10,000 km Long March of the Chinese People's Liberation Army.
 *   **Sep. 12, 1934:** Vu A Dinh, a courageous young hero of the Hmong ethnic group during the anti-French resistance, was born in Pu Nhung commune, Tuan Giao district, Dien Bien province.
-*   **Mar. 27 - 31, 1935:** The 1st National Congress of the Party met in Macao (China) and elected a Central Executive Committee with Comrade Le Hong Phong as General Secretary.
+*   **Mar. 27 - 31, 1935:** The 1st National Congress of the Party met in Macao (China), electing a Central Executive Committee with Comrade Le Hong Phong as General Secretary; Comrade Phung Chi Kien was elected to the Standing Committee of the Central Executive Committee, in charge of military affairs.
 *   **Jul. 25 - Aug. 20, 1935:** Nguyen Thi Minh Khai represented the Indochinese Communist Party, attending and addressing the 7th Congress of the Communist International in Moscow (USSR).
 
 ### **Democratic Front Period (1936 - 1938)**
@@ -1504,9 +1507,10 @@
 *   **Nov. 23, 1940:** The Nam Ky Uprising broke out but was brutally suppressed by the French colonialists. The red flag with a gold star appeared for the first time.
 *   **1941:** Architect Huynh Tan Phat won first prize in the design competition for the Indochina Exhibition Center in Saigon.
 *   **Jan. 13, 1941:** The Do Luong Mutiny, led by Captain Cung, broke out in Nghe An.
-*   **Jan. 28, 1941:** Leader Nguyen Ai Quoc returned to the country at Pac Bo (Cao Bang) after 30 years of activities abroad to directly lead the revolution.
-*   **May 10-19, 1941:** The 8th Conference of the Party Central Committee in Pac Bo (Cao Bang), chaired by Nguyen Ai Quoc, completed the line of national liberation, decided to establish the League for the Independence of Vietnam (Viet Minh) and elected Comrade Truong Chinh as General Secretary.
+*   **Jan. 28, 1941:** Leader Nguyen Ai Quoc accompanied by Comrade Phung Chi Kien crossed Marker 108 on the Sino-Vietnamese border to return to Pac Bo (Cao Bang) after 30 years abroad to directly lead the revolution, organize cadre training, and establish revolutionary bases.
+*   **May 10 - 19, 1941:** The 8th Conference of the Party Central Committee in Pac Bo (Cao Bang), chaired by Nguyen Ai Quoc, completed the national liberation line, established the Viet Minh Front, and elected Comrade Truong Chinh as General Secretary. At the conference, Comrade Phung Chi Kien was re-elected to the Central Committee and appointed Chief Commander of the Bac Son Base Area, forming and commanding National Rescue Army Unit 1 (Cứu quốc quân 1).
 *   **May 15, 1941:** The Children's Alliance for National Salvation (predecessor of the Ho Chi Minh Young Pioneer Organization) is established in Na Ma (Cao Bang), with Kim Dong (Nong Van Den) elected as its first leader.
+*   **Aug. 22, 1941:** Phung Chi Kien heroically sacrificed his life in Bang Duc commune (now Thuong On commune), Ngan Son district, Bac Kan province while covering his comrades' escape during a French siege. He was the first military leader of the Party to fall in the national liberation movement.
 *   **Aug. 28, 1941:** French colonialists executed steadfast revolutionary leaders Nguyen Thi Minh Khai, Ha Huy Tap, and Nguyen Van Cu at Giong crossroads (Hoc Mon, Gia Dinh).
 *   **Mid-1942:** Luu Tan Phat left his teaching career due to enemy surveillance and returned to My Tho to work as a watch repairer, using it as a cover for revolutionary activities.
 *   **Aug. 1942:** Taking the name Ho Chi Minh, he went to China to seek international support but was arrested by the Chiang Kai-shek administration. During more than a year in prison, he wrote *Prison Diary*.
@@ -1664,6 +1668,7 @@
 *   **Apr. 15, 1947:** At the age of 14, Nguyen Van Luom, serving as a guerrilla member and messenger, heroically sacrificed his life while fighting the French in Thua Thien. He was shot while carrying an urgent dispatch across a rice field. His bravery and innocence inspired his uncle, the famous poet To Huu, to immortalize him in the poem "Luom".
 *   **Apr. 16, 1947:** Hoa Hao founder Huynh Phu So disappeared (believed to be killed) in the Plain of Reeds, leading to armed conflict between Hoa Hao forces and the Viet Minh.
 *   **Aug. 1947 - Aug. 1948:** Professor Ta Quang Buu served as Minister of National Defense of the Democratic Republic of Vietnam.
+*   **Sep. 23, 1947:** President Ho Chi Minh signed Decree No. 89/SL posthumously conferring the rank of General on martyr Phung Chi Kien, making him the first general of the Vietnam People's Army.
 *   **Oct. 7, 1947:** France launched a large-scale attack on the Viet Bac resistance base (Operation Léa), dropping 800 paratroopers on Bac Kan town.
 *   **Oct. 9, 1947:** Vietnamese forces shot down a French Ju-52 transport plane in Cao Bang, killing 12 staff officers and capturing the French offensive plan for Viet Bac.
 *   **Oct. 24, 1947:** Vietnamese artillery ambushed a French naval convoy on the Lo River at Doan Hung, sinking two ships and cutting off the enemy's river supply route.
@@ -1811,8 +1816,9 @@
 *   **Mar. 30 - Apr. 26, 1954:** In the second phase of the campaign, the Vietnamese forces simultaneously attacked the eastern hills, capturing crucial points like C1, D1, and E, tightened the siege with an extensive trench system, controlled the airfield, and cut off the enemy's supply lines.
 *   **04/1954:** At the Kim Quan Safe Zone (Tuyên Quang), the Politburo issued a resolution emphasizing the principle of "steady attack, steady advance" and raising determination to achieve complete victory in the Điện Biên Phủ Campaign.
 *   **May 1 - 7, 1954:** In the third phase of the campaign, the Vietnamese forces annihilated the remaining strongpoints. During the final general attack on May 6, the Vietnamese army utilized DKZ 75mm guns and 12 Katyusha 6-barrel rocket launchers provided by China and the Soviet Union, significantly contributing to the victory. A massive 1-ton explosive charge was detonated under Hill A1 on the night of May 6, leading to its capture.
-*   **May 7, 1954:** At 5:30 PM, the "Determined to Fight, Determined to Win" flag flew over the roof of De Castries' command bunker. General De Castries and his entire staff were captured alive. **The Dien Bien Phu Campaign was completely victorious**, concluding after 55 days and nights of heroic struggle.
+*   **May 7, 1954:** At 5:30 PM, Company Captain Ta Quoc Luat (Company 360, Regiment 209, Division 312) led an assault squad into the command bunker, capturing General Christian de Castries and his entire staff alive and raising the "Determined to Fight, Determined to Win" flag overhead. **The Dien Bien Phu Campaign was completely victorious**, concluding after 55 days and nights of heroic struggle.
 *   **May 8, 1954:** The **Geneva Conference** began its first session to discuss the restoration of peace in Indochina.
+*   **May 19, 1954:** On the occasion of President Ho Chi Minh's 64th birthday at the Kim Quan Safe Zone (Tuyen Quang), Captain Ta Quoc Luat represented the Dien Bien Phu combatants to report victory achievements to Uncle Ho and presented Him with General De Castries' officer badge.
 *   **Jun. 1954:** Dinh Thi Van was assigned to the Research Department of the General Staff (Ministry of National Defense) and sent to operate covertly in Hanoi. She built reliable intelligence bases and gathered crucial information during the "300 days of assembly" period. Demonstrating immense personal sacrifice for the revolution, she arranged for her husband to marry another woman so he would be cared for while she dedicated herself to her secret missions.
 *   **Jun. 16, 1954:** Under US pressure, Bao Dai signed a decree appointing Ngo Dinh Diem as Prime Minister of the "State of Vietnam" government.
 *   **Jul. 7, 1954:** Ngo Dinh Diem officially took office as Prime Minister in Saigon.
@@ -2315,6 +2321,7 @@
 *   **Late 1983:** Chinese troops frequently conducted ambushes using mines and B41 rockets against Vietnamese vehicles on the border roads of Muong Khuong (Lao Cai).
 *   **Jun. 2, 1984:** The Chinese National People's Congress decided to establish a special administrative region comprising Hainan Island and the two archipelagos. The Vietnamese government strongly protested.
 *   **Jul. 12, 1984:** During the fierce border conflict in Vi Xuyen (Ha Giang), a massive Chinese artillery barrage targeted Vietnamese positions, causing heavy casualties for the Vietnamese forces, particularly on Hill 772. The intensely bombarded area became known to soldiers as the "Century Lime Kiln" (Lò vôi thế kỷ). It was here that soldiers like Nguyen Viet Ninh fought with the immortal motto carved on their rifle butts: "Live clinging to the rock, die turning into stone, becoming immortal."
+*   **1985:** Passing of Ta Quoc Luat (born 1925 in Thai Binh), the courageous company captain who led the assault squad (Company 360, Regiment 209, Division 312) capturing General Christian de Castries at the Dien Bien Phu command bunker on May 7, 1954.
 *   **Mar. 11, 1985:** Mikhail Gorbachev was elected General Secretary of the Communist Party of the Soviet Union, initiating the "Perestroika" (restructuring) and "Glasnost" (openness) policies.
 *   **Jun. 1985:** The 8th Conference of the Central Committee (5th tenure) issued a resolution on price-wage-money, deciding to definitively abolish the centralized bureaucratic subsidy mechanism.
 *   **Sep. 14, 1985:** A general adjustment of prices, wages, and money began nationwide, implementing a currency exchange at a rate of 10 old dong for 1 new dong.
@@ -2460,6 +2467,7 @@
 *   **Jan. 10, 2004:** The Vietnam Association of Victims of Agent Orange/Dioxin (VAVA) was officially established, with Lieutenant General Dang Vu Hiep as President and former Vice President Nguyen Thi Binh as Honorary President.
 *   **Jan. 30, 2004:** VAVA filed a landmark class-action lawsuit in a US federal court against 37 US chemical companies for producing the toxic defoliants, including Agent Orange, used during the Vietnam War, seeking justice and compensation for millions of Vietnamese victims.
 *   **Sep. 2, 2004:** Raymonde Dien and Henri Martin were awarded the Friendship Order by the Vietnamese State for their lifelong dedication to peace and their unwavering support for Vietnam.
+*   **Dec. 16, 2004:** Ta Quoc Luat (1925 – 1985), the company captain who led the assault squad capturing General De Castries at Dien Bien Phu, was posthumously conferred the title Hero of the People's Armed Forces by the State President.
 *   **Mar. 2005:** The Hanoi Stock Exchange (HNX) was established.
 *   **May 23, 2005:** Martyr Lê Thị Ngọc Tiến was posthumously awarded the title of Hero of the People's Armed Forces by the State for her exceptionally outstanding achievements and steadfast sacrifice in the anti-American resistance war.
 *   **Jun. 19 - 25, 2005:** Prime Minister Phan Van Khai paid an official visit to the United States, the first visit by a Vietnamese leader since the war.
