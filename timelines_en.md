@@ -1609,6 +1609,7 @@
 *   **Nov. 25, 1945:** The Party Central Standing Committee issued the directive "Resistance and National Construction" (Khang chien kien quoc), identifying the main enemy and urgent tasks.
 *   **1946:** Following the return of French colonialists to invade Vietnam, Cù Chính Lan became part of the first generation of youth in his commune to volunteer for the army. He quickly distinguished himself in training and combat, earning the admiration of his comrades.
 *   **1946:** Huynh Tan Phat was arrested by the French and sentenced to two years in the Kham Lon prison (Saigon), where he played a key role in establishing a prisoners' union.
+*   **1946:** Tran Thi Man (later Hero of the People's Armed Forces and Heroic Vietnamese Mother Tran Thi Quang Man) disguised herself as a man under the name Tran Quang Man to join the Viet Quoc Doan (National Guard) forces in Vinh Thuan (Kien Giang), fighting against French colonial forces.
 *   **Jan. 1946:** Huynh Tan Phat was elected as a representative for My Tho province in the First National Assembly of the Democratic Republic of Vietnam.
 *   **Jan. 1, 1946:** The Provisional Government was reformed into the Provisional Coalition Government, with added members from Viet Quoc and Viet Cach parties.
 *   **Jan. 6, 1946:** The first General Election to elect the 1st National Assembly was held nationwide.
@@ -1905,6 +1906,7 @@
 *   **Feb. 1958:** Chinese fishermen attempted to settle on the western part of the Paracel Islands but were unsuccessful.
 *   **May 1, 1958:** The BAJARAKA movement was founded by ethnic minority intellectuals in the Central Highlands to demand rights and fight discrimination.
 *   **May 5, 1958:** A "Fatherland Acknowledges the Merit" (Bang To quoc ghi cong) certificate was issued for the martyr Nguyen Van Luom, officially recognizing his sacrifice for the nation.
+*   **Jul. 19, 1958:** Tran Thi Quang Man executed a knife attack targeting Major Lam Quang Phong, Chief of An Phuoc District (Rach Gia). The attack severely wounded the enemy officer, while she was captured and sentenced to hard labor.
 *   **Sep. 4, 1958:** The People's Republic of China issued a declaration establishing a 12-nautical-mile territorial sea, explicitly stating that it applied to the Paracel and Spratly Islands.
 *   **Sep. 14, 1958:** Prime Minister of the Democratic Republic of Vietnam (DRV) Pham Van Dong sent a diplomatic note to Chinese Premier Zhou Enlai, recognizing and approving China's September 4 declaration regarding its 12-nautical-mile territorial sea. While the note strictly addressed the breadth of the territorial sea, China later frequently cited it to claim DRV recognition of Chinese sovereignty over the Paracel and Spratly Islands.
 *   **Dec. 1, 1958:** The Phu Loi massacre occurred where the US-Diem regime poisoned over 1,000 political prisoners. This event sparked widespread outrage and became a catalyst for the revolutionary movement in the South.
@@ -2070,6 +2072,7 @@
 *   **1967:** Le Thi Tuyet (Quang Tri) served as a nurse for the Hai Lang district military unit, operating secretly in ru Thi Ong and ru Tra Loc, areas considered as rear bases for guerrillas and wounded soldiers.
 *   **1967:** Trinh To Tam was awarded the title Hero of the Armed Forces at age 22, holding a record 53 times earning the title "American-Killing Hero" on the Route 9 - Quang Tri battlefield.
 *   **1967:** The memoir *"Bất khuất"* (Indomitable) by revolutionary fighter Nguyễn Đức Thuận (ghostwritten by journalist Trần Đĩnh) was first published in North Vietnam. Documenting his unflinching resilience through eight years of imprisonment and brutal torture in colonial and imperialist prisons (notably Con Dao Prison), the book became a profound literary-historical sensation and a symbol of the unyielding spirit of Vietnamese revolutionaries.
+*   **1967:** After being released from Saigon regime imprisonment, Tran Thi Quang Man was awarded the title of Hero of the Liberation Armed Forces, joined the Southern Heroes Delegation traveling to the North, and met with President Ho Chi Minh.
 *   **Jan. 1967:** The 13th Conference of the Party Central Committee (3rd tenure) decided to step up the diplomatic struggle, opening up a "fighting while negotiating" situation.
 *   **Jan. 1, 1967:** Nguyen Thi Suot was officially awarded the title of Hero of the Transport Sector in the anti-US resistance for national salvation by the Party and State.
 *   **Jan. 1, 1967:** MiG-17 fighter pilot Nguyen Van Bay (who shot down 7 US aircraft) was awarded the title Hero of the Armed Forces by President Ho Chi Minh.
@@ -2593,6 +2596,7 @@
 
 *   **2021 - 2023:** Vietnam strengthened its position as Cuba's second-largest trading partner and largest Asian investor, with bilateral trade reaching $261.7 million in 2021, $181.8 million in 2022, and $57.33 million in 2023.
 *   **Jan. 25 - Feb. 2, 2021:** The 13th National Congress of the Party, set goals for 2030 and a vision to 2045.
+*   **Mar. 23, 2021:** Heroic Vietnamese Mother and Hero of the People's Armed Forces Tran Thi Quang Man passed away in Ho Chi Minh City at the age of 95.
 *   **Apr. 27, 2021:** The fourth wave of the COVID-19 epidemic began (Delta variant), shifting the strategy to "safe adaptation."
 *   **May 23, 2021:** Election of the 15th National Assembly.
 *   **Jun. 24, 2021:** Kostas Sarantidis (Nguyễn Văn Lập), the Greek-Vietnamese soldier and Hero of the People's Armed Forces, passed away in Athens, Greece, at the age of 94.

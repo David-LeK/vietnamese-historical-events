@@ -1609,6 +1609,7 @@
 *   **25/11/1945:** Ban Thường vụ Trung ương Đảng ra Chỉ thị "Kháng chiến kiến quốc", xác định kẻ thù chính và nhiệm vụ trước mắt của cách mạng.
 *   **1946:** Sau khi thực dân Pháp trở lại xâm lược Việt Nam, Cù Chính Lan trở thành thế hệ thanh niên đầu tiên trong xã tình nguyện nhập ngũ. Ông nhanh chóng nổi bật trong học tập, công tác và chiến đấu, được đồng đội hết lòng mến phục.
 *   **1946:** Huỳnh Tấn Phát bị thực dân Pháp bắt và kết án 2 năm tù tại Khám Lớn (Sài Gòn), nơi ông đóng vai trò quan trọng trong việc thành lập "Liên đoàn tù nhân".
+*   **1946:** Cô gái Trần Thị Mẫn (sau này là Anh hùng Lực lượng vũ trang nhân dân, Bà mẹ Việt Nam anh hùng Trần Thị Quang Mẫn) cải trang nam nhi với tên gọi Trần Quang Mẫn để gia nhập lực lượng Vệ quốc đoàn tại Vĩnh Thuận (Kiên Giang), chiến đấu chống thực dân Pháp.
 *   **01/1946:** Huỳnh Tấn Phát được bầu làm đại biểu Quốc hội khóa I nước Việt Nam Dân chủ Cộng hòa, đại diện cho tỉnh Mỹ Tho.
 *   **01/01/1946:** Chính phủ lâm thời cải tổ thành Chính phủ liên hiệp lâm thời, có thêm thành viên của Việt Quốc và Việt Cách.
 *   **06/01/1946:** Cuộc Tổng tuyển cử đầu tiên bầu Quốc hội khóa I diễn ra trên cả nước.
@@ -1905,6 +1906,7 @@
 *   **02/1958:** Ngư dân Trung Quốc cố gắng đến định cư ở phần phía Tây của quần đảo Hoàng Sa nhưng không thành công.
 *   **01/05/1958:** Phong trào BAJARAKA được thành lập bởi các trí thức dân tộc thiểu số tại Tây Nguyên để đấu tranh đòi quyền lợi và chống phân biệt đối xử.
 *   **05/05/1958:** Bằng Tổ quốc ghi công được cấp cho liệt sĩ Nguyễn Văn Lượm, chính thức ghi nhận sự hy sinh anh dũng của ông cho nền độc lập của đất nước.
+*   **19/07/1958:** Trần Thị Quang Mẫn thực hiện trận đánh bằng dao tiêu diệt Thiếu tá Lâm Quang Phòng, Chi khu trưởng kiêm Quận trưởng An Phước (Rạch Giá). Trận đánh khiến sĩ quan đối phương bị trọng thương, còn bà bị bắt và kết án tù khổ sai.
 *   **04/09/1958:** Cộng hòa Nhân dân Trung Hoa ra tuyên bố thiết lập lãnh hải 12 hải lý, nói rõ điều này áp dụng cho cả quần đảo Hoàng Sa và Trường Sa.
 *   **14/09/1958:** Thủ tướng Chính phủ Việt Nam Dân chủ Cộng hòa Phạm Văn Đồng gửi công hàm cho Thủ tướng Trung Quốc Chu Ân Lai, ghi nhận và tán thành bản tuyên bố ngày 04/09/1958 của Trung Quốc về hải phận 12 hải lý. Mặc dù công hàm chỉ đề cập đến chiều rộng lãnh hải, Trung Quốc sau này thường xuyên vin vào đó để cho rằng Việt Nam Dân chủ Cộng hòa đã công nhận chủ quyền của Trung Quốc đối với Hoàng Sa và Trường Sa.
 *   **01/12/1958:** Vụ thảm sát Phú Lợi xảy ra, chế độ Mỹ - Diệm đầu độc hàng ngàn tù nhân chính trị, gây phẫn nộ lớn và thúc đẩy phong trào đấu tranh cách mạng.
@@ -2070,6 +2072,7 @@
 *   **1967:** Lê Thị Tuyết (Quảng Trị) làm y tá Huyện đội Hải Lăng, thường xuyên hoạt động bí mật tại khu vực rú Thi Ông, rú Trà Lộc, nơi được coi là hậu cứ của bộ đội và du kích.
 *   **1967:** Trịnh Tố Tâm được phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ở tuổi 22 với kỷ lục 53 lần đạt danh hiệu "Dũng sĩ diệt Mỹ" trên chiến trường Đường 9 - Quảng Trị.
 *   **1967:** Tác phẩm *"Bất khuất"* - tập hồi ký của nhà cách mạng Nguyễn Đức Thuận (với sự hỗ trợ chấp bút của nhà báo Trần Đĩnh) được xuất bản lần đầu tại miền Bắc. Cuốn sách ghi lại hành trình kiên trung, bất khuất của ông qua 8 năm bị tù đày, tra tấn dã man tại các nhà tù thực dân và đế quốc (đặc biệt là Côn Đảo), trở thành một hiện tượng văn học - lịch sử gây xúc động sâu sắc và là biểu tượng cho khí tiết của người chiến sĩ cách mạng Việt Nam.
+*   **1967:** Sau khi được trả tự do khỏi nhà tù ngụy quyền Sài Gòn, Trần Thị Quang Mẫn được phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân giải phóng, thuộc đoàn Dũng sĩ miền Nam ra Bắc và được tiếp kiến Chủ tịch Hồ Chí Minh.
 *   **Tháng 01/1967:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ 13 (khóa III) quyết định đẩy mạnh đấu tranh ngoại giao, mở ra cục diện "vừa đánh vừa đàm".
 *   **01/01/1967:** Nguyễn Thị Suốt được Đảng và Nhà nước Việt Nam chính thức phong tặng danh hiệu Anh hùng ngành Giao thông vận tải trong chống Mỹ cứu nước.
 *   **01/01/1967:** Phi công tiêm kích MiG-17 Nguyễn Văn Bảy (người đã bắn rơi 7 máy bay Mỹ) được Chủ tịch Hồ Chí Minh phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân.
@@ -2593,6 +2596,7 @@
 
 *   **2021 - 2023:** Việt Nam củng cố vị thế là đối tác thương mại lớn thứ hai và đối tác đầu tư lớn nhất của Cuba từ khu vực châu Á. Kim ngạch thương mại song phương đạt 261,7 triệu USD năm 2021, 181,8 triệu USD năm 2022 và 57,33 triệu USD năm 2023.
 *   **25/01 - 02/02/2021:** Đại hội XIII của Đảng, đặt mục tiêu đến 2030 và tầm nhìn 2045.
+*   **23/03/2021:** Bà mẹ Việt Nam anh hùng, Anh hùng Lực lượng vũ trang nhân dân Trần Thị Quang Mẫn từ trần tại Thành phố Hồ Chí Minh, hưởng thọ 95 tuổi.
 *   **27/04/2021:** Bắt đầu Đợt dịch COVID-19 lần thứ tư (chủng Delta), chuyển chiến lược sang "thích ứng an toàn".
 *   **23/05/2021:** Bầu cử Quốc hội khóa XV.
 *   **24/06/2021:** Kostas Sarantidis (Nguyễn Văn Lập), người chiến sĩ mang hai quốc tịch Hy Lạp - Việt Nam, Anh hùng Lực lượng Vũ trang Nhân dân, từ trần tại Athens, Hy Lạp, hưởng thọ 94 tuổi.
