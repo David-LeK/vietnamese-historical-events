@@ -1618,6 +1618,7 @@
 *   **01/1946:** Huỳnh Tấn Phát được bầu làm đại biểu Quốc hội khóa I nước Việt Nam Dân chủ Cộng hòa, đại diện cho tỉnh Mỹ Tho.
 *   **01/01/1946:** Chính phủ lâm thời cải tổ thành Chính phủ liên hiệp lâm thời, có thêm thành viên của Việt Quốc và Việt Cách.
 *   **06/01/1946:** Cuộc Tổng tuyển cử đầu tiên bầu Quốc hội khóa I diễn ra trên cả nước.
+*   **14/01/1946:** Chủ tịch Hồ Chí Minh thay mặt Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa gửi công thư tới Đại hội đồng Liên Hợp Quốc và chính phủ các nước thành viên, khẳng định nền độc lập của Việt Nam và đề nghị được gia nhập Liên Hợp Quốc.
 *   **31/01/1946:** Chính phủ ra Sắc lệnh cho phép phát hành giấy bạc Việt Nam tại vùng tự do Nam Trung Bộ.
 *   **28/02/1946:** Hiệp ước Trùng Khánh được ký kết giữa Pháp và chính quyền Tưởng Giới Thạch, thỏa thuận cho quân Pháp ra miền Bắc thay thế quân Tưởng.
 *   **03/1946:** Tại Quốc hội khóa I, đại biểu Huỳnh Văn Tiểng được cho là đã lần đầu tiên đề xuất tên gọi Thành phố Hồ Chí Minh, phản ánh tình cảm đặc biệt của nhân dân Nam Bộ dành cho Chủ tịch Hồ Chí Minh từ rất sớm.
@@ -2102,6 +2103,7 @@
 *   **03/1964:** Chủ tịch Hồ Chí Minh triệu tập **Hội nghị Chính trị đặc biệt** tại Hà Nội, kêu gọi toàn dân đoàn kết chống Mỹ, cứu nước.
 *   **21/04/1964:** Nguyễn Văn Trỗi chính thức kết hôn với bà Phan Thị Quyên tại Sài Gòn.
 *   **02 - 09/05/1964:** Kế hoạch cài mìn dưới chân cầu Công Lý (Sài Gòn) để tiêu diệt phái đoàn quân sự Mỹ do Bộ trưởng Quốc phòng Robert McNamara dẫn đầu được triển khai. Vào lúc 22 giờ đêm ngày 09/05/1964, kế hoạch bị bại lộ, Nguyễn Văn Trỗi cùng đồng đội bị địch bắt giữ.
+*   **05/05/1964:** Bộ Thương mại Hoa Kỳ ban hành lệnh cấm vận thương mại toàn diện đối với Việt Nam Dân chủ Cộng hòa theo Đạo luật Giao dịch với Kẻ thù (Trading with the Enemy Act), đóng băng các giao dịch thương mại và tài chính.
 *   **18/06/1964:** Ông Nguyễn Văn Nguy (chồng của bà Lê Thị Tuyết ở Trà Cú) hy sinh tại mặt trận xã Đôn Châu.
 *   **02-04/08/1964:** Mỹ dựng lên **"Sự kiện Vịnh Bắc Bộ"** làm cớ để leo thang chiến tranh.
 *   **05/08/1964:** Không quân Mỹ lần đầu tiên ném bom bắn phá một số nơi ở miền Bắc (chiến dịch Mũi tên xuyên - Pierce Arrow). Quân dân miền Bắc đánh trả quyết liệt, bắn rơi 8 máy bay Mỹ, bắt sống phi công Everett Alvarez, tù binh phi công Mỹ đầu tiên tại miền Bắc.
@@ -2556,9 +2558,10 @@
 *   **04/05/1975:** Quân Pôn Pốt đổ bộ lên đảo Phú Quốc.
 *   **05-06/05/1975:** Hải quân Nhân dân Việt Nam giành lại quyền kiểm soát quần đảo Trường Sa từ ngụy quân Sài Gòn sau khi giải phóng miền Nam.
 *   **10/05/1975:** Quân Pôn Pốt đổ bộ lên quần đảo Thổ Chu, bắt và thảm sát hơn 500 thường dân Việt Nam.
-*   **14/05/1975:** Chính phủ Mỹ ra lệnh cấm vận thương mại đối với Việt Nam.
 *   **15/05/1975:** Lễ mừng chiến thắng được tổ chức long trọng trên khắp cả nước. Tại Hà Nội, Bí thư thứ nhất Lê Duẩn đọc diễn văn chào mừng kỷ nguyên mới của nước Việt Nam hòa bình, độc lập, thống nhất và đi lên chủ nghĩa xã hội.
+*   **16/05/1975:** Bộ Tài chính Hoa Kỳ mở rộng lệnh cấm vận thương mại theo Đạo luật Giao dịch với Kẻ thù và phong tỏa toàn bộ tài sản của Việt Nam, áp dụng trên phạm vi toàn bộ lãnh thổ nước Việt Nam thống nhất sau khi chiến tranh kết thúc.
 *   **13/06/1975:** Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam ra quyết định chính thức trở lại múi giờ 7. Giờ Sài Gòn và toàn miền Nam được vặn chậm lại 1 giờ, thống nhất múi giờ với miền Bắc.
+*   **11/08/1975:** Hoa Kỳ sử dụng quyền phủ quyết tại Hội đồng Bảo an Liên Hợp Quốc để ngăn cản việc kết nạp Việt Nam Dân chủ Cộng hòa và Cộng hòa miền Nam Việt Nam vào Liên Hợp Quốc.
 * **28/08/1975:** Liệt sĩ Kpă KLơng (Thượng úy, Tham mưu phó Tỉnh đội Gia Lai, dũng sĩ diệt Mỹ với tài bắn tỉa) anh dũng hy sinh trong khi làm nhiệm vụ truy quét tàn quân FULRO.
 *   **29/08/1975:** Lễ khánh thành Lăng Chủ tịch Hồ Chí Minh tại Hà Nội.
 *   **09/1975:** Hội nghị lần thứ 24 Ban Chấp hành Trung ương Đảng Lao động Việt Nam đề ra nhiệm vụ hoàn thành thống nhất đất nước về mặt Nhà nước.
@@ -2590,6 +2593,7 @@
 *   **20/10/1976:** Nhà tình báo chiến lược Phạm Xuân Ẩn (Hai Trung) được Nhà nước tuyên dương danh hiệu Anh hùng Lực lượng vũ trang nhân dân.
 * **20/10/1976:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phạm Văn Trà (Đại tướng Quân đội Nhân dân Việt Nam, Bộ trưởng Quốc phòng).
 * **20/10/1976:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hoàng Văn Quyết (Nguyên xạ thủ A72, Đại đội 3, Tiểu đoàn 172, Trung đoàn tên lửa 64, Sư đoàn Phòng không 361, Quân chủng Phòng không - Không quân Việt Nam).
+*   **15/11/1976:** Hoa Kỳ tiếp tục dùng quyền phủ quyết tại Hội đồng Bảo an Liên Hợp Quốc để bác bỏ đơn xin gia nhập Liên Hợp Quốc của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam.
 *   **12/1976:** Chính phủ tiến hành chiến dịch cải tạo công thương nghiệp tư bản tư doanh lần thứ hai ở miền Nam.
 *   **12/1976:** Đại hội đại biểu toàn quốc lần thứ IV của Đảng được tổ chức tại Hà Nội.
     *   Đổi tên Đảng Lao động Việt Nam thành **Đảng Cộng sản Việt Nam**.
@@ -2601,7 +2605,8 @@
 *   **30/04/1977:** Quân chính quy Khmer Đỏ bất ngờ tiến sâu 10 km vào lãnh thổ Việt Nam tại tỉnh An Giang, đánh vào các đồn biên phòng và xã, thảm sát nhiều thường dân.
 *   **12/05/1977:** Chính phủ nước Cộng hòa Xã hội Chủ nghĩa Việt Nam ra tuyên bố về các vùng biển của mình, khẳng định các đảo và quần đảo là bộ phận lãnh thổ của Việt Nam và có vùng biển riêng.
 *   **21/06/1977:** Để thoát khỏi các cuộc thanh trừng của Khmer Đỏ, ông Hun Sen (khi đó là chỉ huy trung đoàn) cùng đồng đội vượt biên giới sang xã Lộc Tấn, huyện Lộc Ninh, tỉnh Bình Phước, Việt Nam để tìm kiếm sự giúp đỡ nhằm lật đổ chế độ diệt chủng. Đoàn đã được nhân dân và quân đội Việt Nam tiếp đón, cưu mang một cách nhân đạo.
-*   **20/09/1977:** Việt Nam trở thành thành viên thứ 149 của Liên hợp quốc.
+*   **20/07/1977:** Hội đồng Bảo an Liên Hợp Quốc thông qua Nghị quyết 413 khuyến nghị Đại hội đồng kết nạp Việt Nam vào Liên Hợp Quốc sau khi Hoa Kỳ quyết định từ bỏ quyền phủ quyết.
+*   **20/09/1977:** Đại hội đồng Liên Hợp Quốc khóa 32 nhất trí thông qua Nghị quyết 32/2, chính thức kết nạp nước Cộng hòa Xã hội Chủ nghĩa Việt Nam làm thành viên thứ 149 của Liên Hợp Quốc. Lễ thượng cờ Việt Nam diễn ra trang trọng tại trụ sở Liên Hợp Quốc ở New York.
 *   **25/09/1977:** 9 sư đoàn chủ lực Khmer Đỏ mở cuộc tiến công lớn qua biên giới vào các tỉnh An Giang, Kiên Giang, Long An, Đồng Tháp và Tây Ninh, giết hại và làm bị thương hàng trăm thường dân.
 *   **31/12/1977 - 05/01/1978:** Quân đội Nhân dân Việt Nam mở đợt phản công sâu 20-30 km vào đất Campuchia đến tận Neak Luong như một lời cảnh cáo đối với Khmer Đỏ. Cùng ngày 31/12/1977, Pol Pot đơn phương cắt đứt quan hệ ngoại giao với Việt Nam.
 * **1978:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Thanh Sơn (Thiếu tá - tham mưu trưởng trung đoàn e163) từ trần.
@@ -2646,6 +2651,7 @@
 *   **23/12/1978 - 17/01/1979:** Quân đội Việt Nam tiến hành cuộc tổng phản công chiến lược, đánh đuổi hoàn toàn quân Pol Pot ra khỏi lãnh thổ, bảo vệ thành công biên giới Tây Nam của Tổ quốc.
 *   **25/12/1978:** Việt Nam tiến hành cuộc phản công toàn diện vào Campuchia nhằm đánh đuổi quân xâm lược Khmer Đỏ và hỗ trợ lực lượng cách mạng Campuchia lật đổ chế độ diệt chủng.
 *   **30/12/1978 - 11/08/1980:** Cộng hòa Xã hội Chủ nghĩa Việt Nam đã liên tiếp đưa ra nhiều lời phản kháng (vào các ngày 30/12/1978, 07/08/1979, 05/02/1980 và 11/08/1980) chống lại các hành vi vi phạm chủ quyền của CHND Trung Hoa, Đài Loan và các quốc gia khác đối với các quần đảo.
+*   **1979:** Sau khi Việt Nam đưa quân tình nguyện sang lật đổ chế độ diệt chủng Khmer Đỏ tại Campuchia, Hoa Kỳ, Trung Quốc và một số quốc gia phương Tây siết chặt bao vây cấm vận kinh tế - ngoại giao đối với Việt Nam, đồng thời phong tỏa các nguồn viện trợ và cản trở Việt Nam tiếp cận các khoản vay từ WB, IMF và ADB.
 *   **1979:** Theo hiệp định vay nợ, Việt Nam bắt đầu phải trả đợt nợ đầu tiên cho Iraq. Tuy nhiên, do đất nước vừa ra khỏi chiến tranh và phải đối phó với chiến tranh biên giới Tây Nam và phía Bắc, Việt Nam không có khả năng trả nợ. Trong chuyến thăm của Thủ tướng Phạm Văn Đồng, chính phủ của Tổng thống Saddam Hussein đã quyết định cho Việt Nam vay 100 triệu USD để trả số nợ đến hạn cho chính Iraq, một quyết định có một không hai trong quan hệ quốc tế.
 *   **1979:** Ông Nguyễn Tuất, cha ruột của liệt sĩ Nguyễn Văn Lượm, qua đời tại Phan Rang - Tháp Chàm, thọ 70 tuổi.
 * **1979:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Thuần (Trung đoàn phó bộ binh, Trung đoàn 209, Đại đoàn 312) từ trần.
@@ -2796,7 +2802,8 @@
 * **1994:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Ngô Thất Sơn (Chiến sĩ du kích thời chống Pháp).
 * **1994:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Vũ Xuân Thiều (Thượng úy Quân đội Nhân dân Việt Nam, phi công MiG-21).
 *   **20-25/01/1994:** Hội nghị đại biểu toàn quốc giữa nhiệm kỳ của Đảng (khóa VII) xác định bốn nguy cơ lớn đối với đất nước và đề ra nhiệm vụ thúc đẩy công nghiệp hóa, hiện đại hóa.
-*   **03/02/1994:** Tổng thống Mỹ Bill Clinton tuyên bố **bãi bỏ hoàn toàn lệnh cấm vận thương mại** đối với Việt Nam.
+*   **27/01/1994:** Thượng viện Hoa Kỳ thông qua sửa đổi với tỷ lệ 62-38 do hai thượng nghị sĩ John Kerry và John McCain bảo trợ, kêu gọi Tổng thống Bill Clinton chấm dứt lệnh cấm vận thương mại kéo dài đối với Việt Nam.
+*   **03/02/1994:** Tổng thống Hoa Kỳ Bill Clinton tuyên bố **bãi bỏ hoàn toàn lệnh cấm vận thương mại** kéo dài 19 năm đối với Việt Nam (có hiệu lực từ ngày 04/02/1994), mở đường cho tiến trình bình thường hóa quan hệ song phương.
 *   **Đầu 1994:** Các hoạt động thử nghiệm kết nối internet đã bắt đầu, với sự hợp tác giữa các nhà khoa học Việt Nam và Úc.
 *   **03/1994:** Việt Nam tặng Cuba 15.000 tấn gạo để giúp nước bạn vượt qua khó khăn kinh tế.
 *   **04/1994:** Xảy ra cuộc chạm trán trên biển khi Hải quân Việt Nam ra lệnh cho một tàu nghiên cứu của Trung Quốc (đang thăm dò địa chấn cho Crestone) phải rời khỏi vùng biển thuộc quyền tài phán của Việt Nam, và tàu Trung Quốc đã tuân thủ.
@@ -2812,6 +2819,7 @@
 * **1995:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hà Văn Chúc (Phi công Không quân Nhân dân Việt Nam).
 * **1995:** Anh hùng Lực lượng vũ trang nhân dân Hoàng Thế Thiện (Cấp bậc, chức vụ đề nghị Chủ tịch nước xét truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân: Thiếu tướng, Chính ủy Quân đoàn 4, Bộ Quốc phòng trong Kháng chiến chống Mỹ) từ trần.
 *   **01/1995:** Hội nghị lần thứ 8 Ban Chấp hành Trung ương Đảng (khóa VII) bàn về "Tiếp tục xây dựng và hoàn thiện Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam".
+*   **28/01/1995:** Việt Nam và Hoa Kỳ chính thức khai trương Văn phòng Liên lạc (Liaison Office) tại thủ đô mỗi nước, đánh dấu bước phát triển quan trọng tiến tới bình thường hóa hoàn toàn quan hệ ngoại giao.
 *   **09/02/1995:** Philippin chính thức phản đối việc Cộng hòa Nhân dân Trung Hoa chiếm đóng và xây dựng nơi trú ẩn trên đá Vành Khăn (Mischief Reef) ở quần đảo Trường Sa.
 *   **05/1995:** Việt Nam tiếp tục viện trợ thêm 20.000 tấn gạo cho Cuba.
 *   **12/07/1995:** Tổng thống Mỹ Bill Clinton và Thủ tướng Việt Nam Võ Văn Kiệt đồng thời tuyên bố **bình thường hóa quan hệ ngoại giao** giữa hai nước.
@@ -2948,7 +2956,7 @@
 *   **07/11/2006:** Việt Nam ký Nghị định thư gia nhập Tổ chức Thương mại Thế giới (WTO).
 *   **11/01/2007:** Việt Nam chính thức trở thành thành viên thứ 150 của WTO.
 *   **05/2007:** Đoàn cán bộ sưu tầm Bảo tàng Quân khu 4 đã sưu tầm chiếc xoong nhôm mà lính ngụy từng dùng để nấu gan của nữ anh hùng Lê Thị Tuyết năm 1968 làm kỷ vật trưng bày.
-*   **16/10/2007:** Việt Nam lần đầu được bầu làm Ủy viên không thường trực Hội đồng Bảo an LHQ (nhiệm kỳ 2008-2009).
+*   **16/10/2007:** Việt Nam lần đầu tiên trúng cử làm Ủy viên không thường trực Hội đồng Bảo an Liên Hợp Quốc (nhiệm kỳ 2008-2009) tại Khóa họp thứ 62 Đại hội đồng LHQ với 183/190 phiếu tán thành.
 * **2008:** Anh hùng Lực lượng vũ trang nhân dân Lưu Viết Thoảng (Đại tá, khi tuyên dương là Chính trị viên phó Đại đội thuộc Đoàn 151, Cục Công binh. Chỉ huy đào đường hầm đưa khối thuốc nổ ngàn cân vào lòng đồi A1 trong chiến dịch Điện Biên Phủ) từ trần.
 * **2008:** Anh hùng Lực lượng vũ trang nhân dân Lê Văn Vĩnh (Đại tá, Cụm trưởng Cụm H67 thuộc Phòng Tình báo B2) từ trần.
 * **2008:** Anh hùng Lực lượng vũ trang nhân dân Trần Công An (Đại tá công binh) từ trần.
@@ -2959,6 +2967,7 @@
 * **2008:** Anh hùng Lực lượng vũ trang nhân dân Đặng Vũ Hiệp (Thượng tướng, nguyên Thứ trưởng Bộ Quốc phòng, nguyên Chủ nhiệm Chính trị, nguyên Chính ủy Mặt trận Tây Nguyên, nguyên Chính ủy Quân đoàn 3) từ trần.
 * **2008:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lâm Thị Phấn (Thiếu tá, nhà hoạt động tình báo xuất sắc tại miền Tây Nam Bộ, nguyên mẫu nhân vật Bạch Cúc trong bộ phim "Người đẹp Tây Đô").
 *   **05/2008:** Nâng cấp quan hệ Đối tác chiến lược toàn diện với Trung Quốc.
+*   **07/2008:** Việt Nam lần đầu tiên đảm nhiệm cương vị Chủ tịch luân phiên Hội đồng Bảo an Liên Hợp Quốc, chủ trì thành công nhiều phiên thảo luận quan trọng về an ninh và hòa bình thế giới.
 * **2009:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lâm Viết Hữu (Tham gia Chiến dịch Điện Biên Phủ).
 *   **07/05/2009:** Trung Quốc gửi công hàm lên Tổng Thư ký Liên Hợp Quốc, lần đầu tiên đính kèm bản đồ "đường 9 đoạn" để chính thức yêu sách chủ quyền phi lý trên Biển Đông. Ngày 08/05, Việt Nam, Malaysia và Indonesia đã lên tiếng phản đối yêu sách này.
 *   **31/07/2009:** Mộc bản triều Nguyễn được UNESCO công nhận là Di sản Tư liệu Thế giới.
@@ -3033,13 +3042,14 @@
 * **30/10/2013:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Duy Ứng (Đại tá, họa sĩ, nhà điêu khắc; nguyên Trợ lý Phòng Tuyên huấn, Cục Chính trị, Quân đoàn 2. Người đã vẽ chân dung chủ tịch Hồ Chí Minh bằng máu của mình khi bị thương mù cả hai mắt ngay trên chiến trường năm 1975).
 * **30/10/2013:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phạm Hồng Lợi (Trung tướng, nguyên Phó Tổng tham mưu trưởng, nguyên Đại đội trưởng Đại đội súng máy Phòng không 12,7mm, Trung đoàn 1, Sư đoàn 330, Quân khu 9).
 * **30/10/2013:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Thanh Dũng (Thiếu tướng, nguyên Ủy viên Thường trực Ủy ban Kiểm tra Quân ủy Trung ương, nguyên Chủ nhiệm Chính trị Quân khu 9, nguyên Chính trị viên Đại đội 6, Trung đoàn 1, Sư đoàn 330, Quân khu 9).
+*   **12/11/2013:** Tại Khóa họp thứ 68 của Đại hội đồng Liên Hợp Quốc, Việt Nam lần đầu tiên trúng cử vào Hội đồng Nhân quyền Liên Hợp Quốc (UNHRC) nhiệm kỳ 2014-2016 với số phiếu cao nhất (184/192 phiếu).
 *   **28/11/2013:** Quốc hội khóa XIII thông qua Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 2013, tại Điều 4 hiến định Đảng Cộng sản Việt Nam lấy chủ nghĩa Mác-Lênin và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng.
 *   **05/12/2013:** Nghệ thuật Đờn ca tài tử Nam Bộ được UNESCO công nhận là di sản.
-*   **2014:** Việt Nam lần đầu tham gia lực lượng gìn giữ hòa bình LHQ.
 * **2014:** Anh hùng Lực lượng vũ trang nhân dân Hồ Văn Bé (Trung đội trưởng đặc công huyện Chợ Gạo. Sau là Đại tá, Phó Sư đoàn trưởng Sư đoàn 8, Quân khu 9) từ trần.
 * **2014:** Anh hùng Lực lượng vũ trang nhân dân Phan Hoan (Trung tướng, Tư lệnh Quân Khu 5) từ trần.
 *   **02/05/2014:** Trung Quốc hạ đặt giàn khoan Hải Dương 981 trong vùng đặc quyền kinh tế của Việt Nam.
 *   **14/05/2014:** Châu bản triều Nguyễn được UNESCO công nhận là Di sản Tư liệu Thế giới.
+*   **27/05/2014:** Bộ Quốc phòng thành lập Trung tâm Gìn giữ hòa bình Việt Nam và chính thức cử 2 sĩ quan đầu tiên đi làm nhiệm vụ tại Phái bộ Gìn giữ hòa bình Liên Hợp Quốc tại Nam Sudan (UNMISS), đánh dấu bước khởi đầu tham gia hoạt động gìn giữ hòa bình Liên Hợp Quốc.
 *   **23/06/2014:** Quần thể danh thắng Tràng An được UNESCO công nhận là di sản.
 * **23/07/2014:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trịnh Văn Huyền (Thanh niên xung phong (TNXP) tham gia phục vụ Chiến dịch Điện Biên Phủ tại ngã ba Cò Nòi, đèo Pha Đin. Có nhiều sáng kiến, dũng cảm, gan gạ. Nhiều lần được Chủ tịch Hồ Chí Minh khen ngợi).
 * **23/07/2014:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Cao Xuân Thọ (Đội trưởng Đội phá bom, Đại đội 404 (thuộc Đội 40 TNXP), phụ trách phá bom, thông đường tại ngã ba Cò Nòi và đường ngầm Hát Lót (Sơn La) phục vụ Chiến dịch Điện Biên Phủ).
@@ -3084,6 +3094,7 @@
 *   **06/04/2016:** Bắt đầu sự cố môi trường biển do Formosa gây ra tại 4 tỉnh miền Trung.
 *   **19/05/2016:** Thơ văn trên kiến trúc cung đình Huế được UNESCO công nhận là Di sản Tư liệu Thế giới.
 *   **22/05/2016:** Bầu cử Quốc hội khóa XIV.
+*   **23/05/2016:** Trong chuyến thăm chính thức Việt Nam, Tổng thống Hoa Kỳ Barack Obama tuyên bố **dỡ bỏ hoàn toàn lệnh cấm vận vũ khí sát thương** đối với Việt Nam, chính thức xóa bỏ rào cản cấm vận cuối cùng từ thời Chiến tranh Lạnh.
 *   **12/07/2016:** Tòa Trọng tài Thường trực (PCA) đưa ra phán quyết cuối cùng trong vụ kiện giữa Philippines và Trung Quốc, bác bỏ hoàn toàn yêu sách "đường 9 đoạn" và các quyền lịch sử vô căn cứ của Trung Quốc. Tòa phán quyết các thực thể ở quần đảo Trường Sa chỉ là "đảo đá", không tạo ra vùng đặc quyền kinh tế (EEZ). Trung Quốc tuyên bố không tuân thủ, trong khi Việt Nam và cộng đồng quốc tế ủng hộ phán quyết này.
 *   **08/08/2016:** Chính phủ thành lập Học viện Dân tộc.
 *   **22 - 26/08/2016:** Tổng Bí thư Nguyễn Phú Trọng lần đầu đề cập đến ý tưởng ngoại giao *cây tre* tại Hội nghị Ngoại giao lần thứ 29. Ông đã sử dụng hình ảnh cây tre để nói về sự kiên cường, mềm dẻo và linh hoạt trong chính sách đối ngoại của Việt Nam.
@@ -3122,13 +3133,14 @@
 *   **08/03/2018:** Ký kết Hiệp định CPTPP (thay thế TPP).
 *   **15/04/2018:** Thành Đoàn và gia đình tổ chức Lễ cải táng hài cốt Anh hùng liệt sĩ Nguyễn Văn Trỗi từ Nghĩa trang Văn Giáp (Quận 2) về an nghỉ tại Nghĩa trang Liệt sĩ TP. Hồ Chí Minh (Quận 9), bên cạnh các liệt sĩ tiêu biểu như Trần Văn Ơn, Trần Bội Cơ, Quách Thị Trang.
 * **30/08/2018:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Mạnh Hùng (Đại tá, nguyên Lữ đoàn trưởng Lữ đoàn Đặc công 198. Tham gia chiến đấu lập nhiều thành tích trong các chiến dịch Tây Nguyên, chiến dịch Hồ Chí Minh).
+*   **01/10/2018:** Việt Nam tổ chức Lễ xuất quân Bệnh viện dã chiến cấp 2 số 1 gồm 63 cán bộ, chiến sĩ và nhân viên y tế lên đường làm nhiệm vụ tại Phái bộ Gìn giữ hòa bình Liên Hợp Quốc tại Nam Sudan (UNMISS), đánh dấu lần đầu tiên triển khai một đơn vị độc lập tham gia lực lượng mũ nồi xanh.
 *   **2019:** Họa sĩ Mai Đại Lưu có chuyến đi thực tế đến trường mầm non vùng cao ở Hà Giang, qua đường Thanh Niên và trận địa Vị Xuyên, lấy cảm hứng thai nghén dự án hội họa "Hoa đêm - Tỉnh giấc bình minh" tri ân các anh hùng liệt sĩ.
 * **2019:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Bảy (A) (Thượng úy, Đại đội phó Đại đội 1 Không quân, Trung đoàn không quân 923. Phi công cấp Ace của Không quân nhân dân Việt Nam, bắn hạ 7 máy bay Mỹ. Sau là Đại tá, Phó Tham mưu trưởng Không quân nhân dân Việt Nam) từ trần.
 * **2019:** Anh hùng Lực lượng vũ trang nhân dân Mùa A Páo (Thượng úy, bộ đội tình nguyện tại Lào. Tham gia công tác dân tộc, địch vận tại Lào, kêu gọi được 300 tên phỉ ra đầu hàng. Sau là Đại tá, Phó chỉ huy trưởng về Chính trị, Bộ Chỉ huy Quân sự tỉnh Lai Châu) từ trần.
 * **2019:** Anh hùng Lực lượng vũ trang nhân dân Mai Năng (Chiến sĩ Đặc công nước, chỉ huy chiến dịch giải phóng Trường Sa năm 1975) từ trần.
 * **2019:** Anh hùng Lực lượng vũ trang nhân dân Đặng Kinh (Trung tướng, nguyên Tỉnh đội trưởng Tỉnh đội Kiến An, nguyên Tư lệnh Quân khu 3, nguyên Phó Tổng tham mưu trưởng) từ trần.
 *   **14/01/2019:** Hiệp định CPTPP chính thức có hiệu lực với Việt Nam.
-*   **07/06/2019:** Việt Nam trúng cử Ủy viên không thường trực HĐBA LHQ (nhiệm kỳ 2020-2021).
+*   **07/06/2019:** Việt Nam trúng cử Ủy viên không thường trực Hội đồng Bảo an Liên Hợp Quốc (nhiệm kỳ 2020-2021) với số phiếu kỷ lục 192/193 phiếu tại Khóa họp thứ 73 Đại hội đồng LHQ.
 *   **30/06/2019:** Ký Hiệp định EVFTA và EVIPA với Liên minh châu Âu (EU).
 *   **12/12/2019:** Thực hành Then của người Tày, Nùng, Thái được UNESCO công nhận là di sản.
 * **2020:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Chánh (Trung tá, nguyên Phó chỉ huy trưởng động viên, Ban chỉ huy quân sự quận Thủ Đức. Tham gia trận đánh sân bay Biên Hòa, tiêu diệt nhiều sinh lực địch, phá hủy nhiều xe quân sự) từ trần.
@@ -3155,6 +3167,7 @@
 * **2021:** Anh hùng Lực lượng vũ trang nhân dân Trần Thận (Nguyên Ủy viên Khu ủy Khu 5, nguyên Bí thư Tỉnh ủy Quảng Nam) từ trần.
 *   **25/01 - 02/02/2021:** Đại hội XIII của Đảng, đặt mục tiêu đến 2030 và tầm nhìn 2045.
 *   **23/03/2021:** Bà mẹ Việt Nam anh hùng, Anh hùng Lực lượng vũ trang nhân dân Trần Thị Quang Mẫn từ trần tại Thành phố Hồ Chí Minh, hưởng thọ 95 tuổi.
+*   **27/04/2021:** Hội đồng Bảo an Liên Hợp Quốc nhất trí thông qua Nghị quyết 2573 về bảo vệ cơ sở hạ tầng thiết yếu đối với sự sống của người dân trong xung đột vũ trang – nghị quyết mang dấu ấn do Việt Nam chủ trì soạn thảo và thúc đẩy trong tháng đảm nhiệm vai trò Chủ tịch Hội đồng Bảo an.
 *   **27/04/2021:** Bắt đầu Đợt dịch COVID-19 lần thứ tư (chủng Delta), chuyển chiến lược sang "thích ứng an toàn".
 *   **23/05/2021:** Bầu cử Quốc hội khóa XV.
 *   **24/06/2021:** Kostas Sarantidis (Nguyễn Văn Lập), người chiến sĩ mang hai quốc tịch Hy Lạp - Việt Nam, Anh hùng Lực lượng Vũ trang Nhân dân, từ trần tại Athens, Hy Lạp, hưởng thọ 94 tuổi.
@@ -3171,6 +3184,7 @@
 *   **12 - 23/05/2022:** Việt Nam tổ chức SEA Games 31 (bị hoãn từ 2021).
 *   **02/08/2022:** Thể theo di nguyện của ông và gia đình, tro cốt của Kostas Sarantidis (Nguyễn Văn Lập) được đưa về Việt Nam và tổ chức an táng trọng thể tại Nghĩa trang Quân khu 5, thành phố Đà Nẵng, để ông được nằm cạnh những đồng đội năm xưa.
 *   **19/08/2022:** Raymonde Dien, người bạn lớn của nhân dân Việt Nam, biểu tượng của tinh thần chống cuộc chiến tranh phi nghĩa của thực dân Pháp ở Đông Dương, qua đời tại Pháp, hưởng thọ 93 tuổi.
+*   **11/10/2022:** Tại Khóa họp thứ 77 của Đại hội đồng Liên Hợp Quốc ở New York, Việt Nam được bầu làm thành viên Hội đồng Nhân quyền Liên Hợp Quốc (UNHRC) nhiệm kỳ 2023-2025.
 *   **12/2022:** Nâng cấp quan hệ Đối tác Chiến lược Toàn diện với Hàn Quốc.
 *   **01/12/2022:** Lễ hội Vía Bà Chúa Xứ núi Sam được UNESCO công nhận là di sản.
 *   **30/12/2022:** GDP Việt Nam vượt mốc 400 tỷ USD.

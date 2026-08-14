@@ -1618,6 +1618,7 @@
 *   **Jan. 1946:** Huynh Tan Phat was elected as a representative for My Tho province in the First National Assembly of the Democratic Republic of Vietnam.
 *   **Jan. 1, 1946:** The Provisional Government was reformed into the Provisional Coalition Government, with added members from Viet Quoc and Viet Cach parties.
 *   **Jan. 6, 1946:** The first General Election to elect the 1st National Assembly was held nationwide.
+*   **Jan. 14, 1946:** On behalf of the Provisional Government of the Democratic Republic of Vietnam, President Ho Chi Minh sent an official message to the United Nations General Assembly and member states, affirming Vietnam's independence and expressing the desire to join the United Nations.
 *   **Jan. 31, 1946:** The government issued a decree allowing the issuance of Vietnamese banknotes in the free zones of South-Central Vietnam.
 *   **Feb. 28, 1946:** The Chongqing Agreement was signed between France and the Chiang Kai-shek government, agreeing to allow French troops to enter the North to replace Chiang's troops.
 *   **Mar. 1946:** During the 1st National Assembly, delegate Huynh Van Tieng reportedly proposed renaming Saigon to Ho Chi Minh City, reflecting the early sentiments of the Southern people towards President Ho Chi Minh.
@@ -2102,6 +2103,7 @@
 *   **Mar. 1964:** President Ho Chi Minh convened a **Special Political Conference** in Hanoi, calling on all people to unite to resist the US and save the country.
 *   **Apr. 21, 1964:** Nguyễn Văn Trỗi married Phan Thị Quyên in Saigon.
 *   **May 2 - 9, 1964:** Following news of an upcoming inspection tour to Saigon by US Secretary of Defense Robert McNamara, Nguyễn Văn Trỗi volunteered for a mission to plant electric mines beneath Công Lý Bridge. At 22:00 on May 9, 1964, the plan was exposed and he was captured by enemy forces.
+*   **May 5, 1964:** The US Department of Commerce imposed a comprehensive trade embargo against the Democratic Republic of Vietnam under the Trading with the Enemy Act, freezing all commercial and financial transactions.
 *   **June 18, 1964:** Nguyen Van Nguy (husband of Le Thi Tuyet from Tra Cu) died in battle at the Don Chau front.
 *   **Aug. 2-4, 1964:** The US fabricated the **"Gulf of Tonkin Incident"** as a pretext to escalate the war.
 *   **Aug. 5, 1964:** The US Air Force bombed and strafed several places in the North for the first time (Operation Pierce Arrow). The army and people of the North fought back fiercely, shooting down 8 US aircraft and capturing pilot Everett Alvarez, the first US prisoner of war in North Vietnam.
@@ -2556,9 +2558,10 @@
 *   **May 4, 1975:** Pol Pot's forces landed on Phu Quoc island.
 *   **May 5 - 6, 1975:** The Vietnam People's Navy regained control of the Spratly Islands from the Saigon troops following the liberation of the South.
 *   **May 10, 1975:** Pol Pot's forces landed on the Tho Chu archipelago, capturing and massacring over 500 Vietnamese civilians.
-*   **May 14, 1975:** The US government ordered a trade embargo against Vietnam.
 *   **May 15, 1975:** Victory celebration ceremonies were held solemnly across the country. In Hanoi, First Secretary Le Duan delivered a speech hailing the complete victory and the beginning of a new era of independence, unity, and socialism.
+*   **May 16, 1975:** The US Department of the Treasury extended the trade embargo under the Trading with the Enemy Act and froze all Vietnamese assets, applying to the entire territory of unified Vietnam following the end of the war.
 *   **Jun. 13, 1975:** The Provisional Revolutionary Government of the Republic of South Vietnam issued an official decision to return to time zone 7. Clocks in Saigon and the entire South were turned back by 1 hour to unify the time zone with the North.
+*   **Aug. 11, 1975:** The United States used its veto power in the UN Security Council to block the admission of the Democratic Republic of Vietnam and the Republic of South Vietnam to the United Nations.
 * **28/08/1975:** Martyr Kpa Klong (Senior Lieutenant, Deputy Chief of Staff of Gia Lai Military Command, hero renowned for sniping skills) heroically sacrificed his life while clearing FULRO remnants.
 *   **Aug. 29, 1975:** The inauguration ceremony of the Ho Chi Minh Mausoleum was held in Hanoi.
 *   **Sep. 1975:** The 24th Conference of the Central Committee of the Vietnam Workers' Party set out the task of completing the unification of the country in terms of state administration.
@@ -2590,6 +2593,7 @@
 *   **Oct. 20, 1976:** Strategic intelligence agent Pham Xuan An (Hai Trung) was awarded the title Hero of the Armed Forces by the State.
 * **20/10/1976:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Phạm Văn Trà (Đại tướng Quân đội Nhân dân Việt Nam, Bộ trưởng Quốc phòng).
 * **20/10/1976:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Hoàng Văn Quyết (Nguyên xạ thủ A72, Đại đội 3, Tiểu đoàn 172, Trung đoàn tên lửa 64, Sư đoàn Phòng không 361, Quân chủng Phòng không - Không quân Việt Nam).
+*   **Nov. 15, 1976:** The United States once again exercised its veto power in the UN Security Council to reject the application for United Nations membership submitted by the Socialist Republic of Vietnam.
 *   **Dec. 1976:** The government launched the second campaign to reform private capitalist industry and commerce in the South.
 *   **Dec. 1976:** The 4th National Congress of the Party was held in Hanoi.
     *   The Vietnam Workers' Party was renamed the **Communist Party of Vietnam**.
@@ -2601,7 +2605,8 @@
 *   **Apr. 30, 1977:** Khmer Rouge regular forces invaded 10 kilometers deep into Vietnamese territory in An Giang province, attacking border guard posts and communes, and massacring civilians.
 *   **May 12, 1977:** The Government of the Socialist Republic of Vietnam issued a declaration on its maritime zones, stating that islands and archipelagos are part of Vietnamese territory and have their own maritime zones.
 *   **Jun. 21, 1977:** Fleeing the Khmer Rouge purges, Hun Sen (then a regiment commander) and his comrades crossed the border into Loc Ninh, Binh Phuoc province, Vietnam, to seek assistance in liberating Cambodia from the genocidal regime. They were humanely welcomed and supported by the Vietnamese people and military.
-*   **Sep. 20, 1977:** Vietnam became the 149th member of the United Nations.
+*   **Jul. 20, 1977:** The UN Security Council adopted Resolution 413 recommending that the General Assembly admit Vietnam to the United Nations after the United States abandoned its veto.
+*   **Sep. 20, 1977:** The 32nd Session of the United Nations General Assembly unanimously adopted Resolution 32/2, officially admitting the Socialist Republic of Vietnam as the 149th member of the United Nations, followed by a flag-raising ceremony at the UN headquarters in New York.
 *   **Sep. 25, 1977:** Nine Khmer Rouge divisions launched a massive attack across the border into An Giang, Kien Giang, Long An, Dong Thap, and Tay Ninh provinces, killing and injuring hundreds of civilians.
 *   **Dec. 31, 1977 - Jan. 5, 1978:** The Vietnam People's Army launched a counter-offensive 20-30 kilometers deep into Cambodia up to Neak Luong as a warning to the Khmer Rouge. On December 31, 1977, Pol Pot unilaterally severed diplomatic relations with Vietnam.
 * **1978:** Hero of the People's Armed Forces Nguyễn Thanh Sơn (Thiếu tá - tham mưu trưởng trung đoàn e163) passed away.
@@ -2646,6 +2651,7 @@
 *   **Dec. 23, 1978 - Jan. 17, 1979:** The Vietnamese military launched a strategic counter-offensive, successfully driving Pol Pot's forces out of Vietnamese territory and completely defending the southwestern border.
 *   **Dec. 25, 1978:** Vietnam launched a comprehensive counter-offensive into Cambodia to repulse the Khmer Rouge invaders and support the Cambodian revolutionary forces in overthrowing the genocidal regime.
 *   **Dec. 30, 1978 - Aug. 11, 1980:** The Socialist Republic of Vietnam issued multiple formal protests (on Dec. 30, 1978, Aug. 7, 1979, Feb. 5, 1980, and Aug. 11, 1980) against actions taken by the PRC, Taiwan, and other nations violating Vietnamese sovereignty over the archipelagos.
+*   **1979:** Following Vietnam's military intervention to overthrow the genocidal Khmer Rouge regime in Cambodia, the United States, China, and several Western nations tightened a comprehensive economic and diplomatic embargo against Vietnam, freezing foreign aid and blocking access to loans from the World Bank, IMF, and ADB.
 *   **1979:** According to the loan agreement, Vietnam was scheduled to make its first debt repayment to Iraq. However, facing immense post-war difficulties and new border conflicts (against Pol Pot and the Chinese invasion), Vietnam was unable to pay. During a visit by Prime Minister Pham Van Dong, President Saddam Hussein's government made an unprecedented decision to loan Vietnam an additional 100 million USD to pay off the due debt to Iraq itself.
 *   **1979:** Nguyen Tuat, the father of martyr Nguyen Van Luom, passed away in Phan Rang - Thap Cham.
 * **1979:** Hero of the People's Armed Forces Nguyễn Văn Thuần (Trung đoàn phó bộ binh, Trung đoàn 209, Đại đoàn 312) passed away.
@@ -2796,7 +2802,8 @@
 * **1994:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Ngô Thất Sơn (Chiến sĩ du kích thời chống Pháp).
 * **1994:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Vũ Xuân Thiều (Thượng úy Quân đội Nhân dân Việt Nam, phi công MiG-21).
 *   **Jan. 20-25, 1994:** The Party's mid-term National Conference (7th tenure) identified four major risks facing the country and set out the task of promoting industrialization and modernization.
-*   **Feb. 3, 1994:** US President Bill Clinton announced the **complete lifting of the trade embargo** against Vietnam.
+*   **Jan. 27, 1994:** The US Senate passed an amendment by a vote of 62-38, sponsored by Senators John Kerry and John McCain, urging President Bill Clinton to end the long-standing trade embargo against Vietnam.
+*   **Feb. 3, 1994:** US President Bill Clinton announced the **complete lifting of the 19-year trade embargo** against Vietnam (effective February 4, 1994), paving the way for the normalization of bilateral relations.
 *   **Early 1994:** Experimental internet connectivity activities began, in collaboration between Vietnamese and Australian scientists.
 *   **Mar. 1994:** Vietnam donated 15,000 tons of rice to Cuba to help alleviate its economic hardships.
 *   **Apr. 1994:** A naval encounter occurred when the Vietnamese Navy ordered a Chinese research vessel (conducting seismic surveys for Crestone) to leave Vietnam's jurisdictional waters, and the Chinese vessel complied.
@@ -2812,6 +2819,7 @@
 * **1995:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Hà Văn Chúc (Phi công Không quân Nhân dân Việt Nam).
 * **1995:** Hero of the People's Armed Forces Hoàng Thế Thiện (Cấp bậc, chức vụ đề nghị Chủ tịch nước xét truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân: Thiếu tướng, Chính ủy Quân đoàn 4, Bộ Quốc phòng trong Kháng chiến chống Mỹ) passed away.
 *   **Jan. 1995:** The 8th Conference of the Party Central Committee (7th tenure) discussed "Continuing to build and perfect the State of the Socialist Republic of Vietnam."
+*   **Jan. 28, 1995:** Vietnam and the United States officially opened Liaison Offices in each other's capitals, marking a crucial milestone towards full diplomatic normalization.
 *   **Feb. 9, 1995:** The Philippines formally protested the People's Republic of China's occupation and construction of shelters on Mischief Reef (Vanh Khan) in the Spratly Islands.
 *   **May 1995:** Vietnam donated an additional 20,000 tons of rice to Cuba.
 *   **Jul. 12, 1995:** US President Bill Clinton and Vietnamese Prime Minister Vo Van Kiet simultaneously announced the **normalization of diplomatic relations** between the two countries.
@@ -2948,7 +2956,7 @@
 *   **Nov. 7, 2006:** Vietnam signed the Protocol of Accession to the World Trade Organization (WTO).
 *   **Jan. 11, 2007:** Vietnam officially became the 150th member of the WTO.
 *   **May 2007:** The Military Region 4 Museum collected the aluminum pot used by enemy soldiers to cook the liver of heroine Le Thi Tuyet in 1968. It became a historical artifact displayed to commemorate her sacrifice.
-*   **Oct. 16, 2007:** Vietnam was elected for the first time as a non-permanent member of the UN Security Council (2008-2009 term).
+*   **Oct. 16, 2007:** Vietnam was elected for the first time as a non-permanent member of the UN Security Council (2008-2009 term) at the 62nd UN General Assembly session with 183 out of 190 votes in favor.
 * **2008:** Hero of the People's Armed Forces Lưu Viết Thoảng (Đại tá, khi tuyên dương là Chính trị viên phó Đại đội thuộc Đoàn 151, Cục Công binh. Chỉ huy đào đường hầm đưa khối thuốc nổ ngàn cân vào lòng đồi A1 trong chiến dịch Điện Biên Phủ) passed away.
 * **2008:** Hero of the People's Armed Forces Lê Văn Vĩnh (Đại tá, Cụm trưởng Cụm H67 thuộc Phòng Tình báo B2) passed away.
 * **2008:** Hero of the People's Armed Forces Trần Công An (Đại tá công binh) passed away.
@@ -2959,6 +2967,7 @@
 * **2008:** Hero of the People's Armed Forces Đặng Vũ Hiệp (Thượng tướng, nguyên Thứ trưởng Bộ Quốc phòng, nguyên Chủ nhiệm Chính trị, nguyên Chính ủy Mặt trận Tây Nguyên, nguyên Chính ủy Quân đoàn 3) passed away.
 * **2008:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lam Thi Phan (Major, outstanding intelligence officer in Southwestern Vietnam, the prototype for character Bach Cuc in the film "The Beauty of Tay Do").
 *   **May 2008:** Upgraded relations to a Comprehensive Strategic Partnership with China.
+*   **Jul. 2008:** Vietnam assumed the rotating Presidency of the United Nations Security Council for the first time, successfully presiding over key debates on international peace and security.
 * **2009:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lâm Viết Hữu (Tham gia Chiến dịch Điện Biên Phủ).
 *   **May 7, 2009:** China submitted a diplomatic note to the United Nations Secretary-General, formally attaching the "nine-dash line" map for the first time to assert its expansive maritime claims in the South China Sea. On May 8, Vietnam, Malaysia, and Indonesia filed protests against this claim.
 *   **Jul. 31, 2009:** The woodblocks of the Nguyen Dynasty were recognized by UNESCO as a World Documentary Heritage.
@@ -3033,13 +3042,14 @@
 * **30/10/2013:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lê Duy Ứng (Đại tá, họa sĩ, nhà điêu khắc; nguyên Trợ lý Phòng Tuyên huấn, Cục Chính trị, Quân đoàn 2. Người đã vẽ chân dung chủ tịch Hồ Chí Minh bằng máu của mình khi bị thương mù cả hai mắt ngay trên chiến trường năm 1975).
 * **30/10/2013:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Phạm Hồng Lợi (Trung tướng, nguyên Phó Tổng tham mưu trưởng, nguyên Đại đội trưởng Đại đội súng máy Phòng không 12,7mm, Trung đoàn 1, Sư đoàn 330, Quân khu 9).
 * **30/10/2013:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Thanh Dũng (Thiếu tướng, nguyên Ủy viên Thường trực Ủy ban Kiểm tra Quân ủy Trung ương, nguyên Chủ nhiệm Chính trị Quân khu 9, nguyên Chính trị viên Đại đội 6, Trung đoàn 1, Sư đoàn 330, Quân khu 9).
+*   **Nov. 12, 2013:** At the 68th Session of the UN General Assembly, Vietnam was elected for the first time to the UN Human Rights Council (UNHRC) for the 2014-2016 term with the highest number of votes (184 out of 192 votes).
 *   **Nov. 28, 2013:** The 13th National Assembly adopted the 2013 Constitution of the Socialist Republic of Vietnam, with Article 4 constitutionally defining that the Communist Party of Vietnam takes Marxism-Leninism and Ho Chi Minh Thought as its ideological foundation.
 *   **Dec. 5, 2013:** The Art of Don Ca Tai Tu Music and Song in Southern Vietnam was recognized by UNESCO as a heritage.
-*   **2014:** Vietnam participated in UN peacekeeping forces for the first time.
 * **2014:** Hero of the People's Armed Forces Hồ Văn Bé (Trung đội trưởng đặc công huyện Chợ Gạo. Sau là Đại tá, Phó Sư đoàn trưởng Sư đoàn 8, Quân khu 9) passed away.
 * **2014:** Hero of the People's Armed Forces Phan Hoan (Trung tướng, Tư lệnh Quân Khu 5) passed away.
 *   **May 2, 2014:** China deployed the Hai Duong 981 oil rig in Vietnam's exclusive economic zone.
 *   **May 14, 2014:** The Nguyen Dynasty's imperial archives were recognized by UNESCO as a World Documentary Heritage.
+*   **May 27, 2014:** The Ministry of National Defence established the Vietnam Peacekeeping Centre and officially deployed the first two officers to the UN Peacekeeping Mission in South Sudan (UNMISS), marking Vietnam's initial participation in UN peacekeeping operations.
 *   **Jun. 23, 2014:** The Trang An Landscape Complex was recognized by UNESCO as a heritage.
 * **23/07/2014:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Trịnh Văn Huyền (Thanh niên xung phong (TNXP) tham gia phục vụ Chiến dịch Điện Biên Phủ tại ngã ba Cò Nòi, đèo Pha Đin. Có nhiều sáng kiến, dũng cảm, gan gạ. Nhiều lần được Chủ tịch Hồ Chí Minh khen ngợi).
 * **23/07/2014:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Cao Xuân Thọ (Đội trưởng Đội phá bom, Đại đội 404 (thuộc Đội 40 TNXP), phụ trách phá bom, thông đường tại ngã ba Cò Nòi và đường ngầm Hát Lót (Sơn La) phục vụ Chiến dịch Điện Biên Phủ).
@@ -3084,6 +3094,7 @@
 *   **Apr. 6, 2016:** The marine environmental incident caused by Formosa began in 4 central provinces.
 *   **May 19, 2016:** The poetry and literature inscribed on the architecture of the Hue imperial palace were recognized by UNESCO as a World Documentary Heritage.
 *   **May 22, 2016:** Election of the 14th National Assembly.
+*   **May 23, 2016:** During his official visit to Vietnam, US President Barack Obama announced the **full lifting of the lethal arms embargo** on Vietnam, officially removing the last remaining Cold War-era embargo barrier.
 *   **Jul. 12, 2016:** The Permanent Court of Arbitration (PCA) issued its final ruling in the Philippines v. China case, comprehensively invalidating China's "nine-dash line" and historical claims. The tribunal ruled that the features in the Spratly Islands are legally "rocks" that do not generate an exclusive economic zone (EEZ). China rejected the ruling, while Vietnam and other nations welcomed the peaceful resolution mechanism.
 *   **Aug. 8, 2016:** The Government established the Vietnam Academy for Ethnic Minorities.
 *   **Aug. 22 - 26, 2016:** General Secretary Nguyen Phu Trong first mentioned the idea of *bamboo* diplomacy at the 29th Diplomatic Conference. He used the image of bamboo to talk about the resilience, flexibility, and adaptability of Vietnam's foreign policy.
@@ -3122,13 +3133,14 @@
 *   **Mar. 8, 2018:** Signed the CPTPP Agreement (replacing the TPP).
 *   **Apr. 15, 2018:** The Ho Chi Minh City Youth Union and the family of Nguyễn Văn Trỗi organized the solemn reburial of his remains from Văn Giáp Cemetery (District 2) to the Ho Chi Minh City Martyrs' Cemetery (District 9), resting alongside notable heroic martyrs.
 * **30/08/2018:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lê Mạnh Hùng (Đại tá, nguyên Lữ đoàn trưởng Lữ đoàn Đặc công 198. Tham gia chiến đấu lập nhiều thành tích trong các chiến dịch Tây Nguyên, chiến dịch Hồ Chí Minh).
+*   **Oct. 1, 2018:** Vietnam held a departure ceremony for the Level 2 Field Hospital No. 1 consisting of 63 military medical personnel to join the UN Peacekeeping Mission in South Sudan (UNMISS), marking the first deployment of an independent unit to UN peacekeeping operations.
 *   **2019:** Painter Mai Dai Luu visited the former Vi Xuyen battlefield (Ha Giang) and was inspired to begin the epic art project "Night Flowers - Waking up to Dawn" (Hoa đêm - Tỉnh giấc bình minh) to tribute the fallen soldiers of the border defense war.
 * **2019:** Hero of the People's Armed Forces Nguyễn Văn Bảy (A) (Thượng úy, Đại đội phó Đại đội 1 Không quân, Trung đoàn không quân 923. Phi công cấp Ace của Không quân nhân dân Việt Nam, bắn hạ 7 máy bay Mỹ. Sau là Đại tá, Phó Tham mưu trưởng Không quân nhân dân Việt Nam) passed away.
 * **2019:** Hero of the People's Armed Forces Mùa A Páo (Thượng úy, bộ đội tình nguyện tại Lào. Tham gia công tác dân tộc, địch vận tại Lào, kêu gọi được 300 tên phỉ ra đầu hàng. Sau là Đại tá, Phó chỉ huy trưởng về Chính trị, Bộ Chỉ huy Quân sự tỉnh Lai Châu) passed away.
 * **2019:** Hero of the People's Armed Forces Mai Năng (Chiến sĩ Đặc công nước, chỉ huy chiến dịch giải phóng Trường Sa năm 1975) passed away.
 * **2019:** Hero of the People's Armed Forces Đặng Kinh (Trung tướng, nguyên Tỉnh đội trưởng Tỉnh đội Kiến An, nguyên Tư lệnh Quân khu 3, nguyên Phó Tổng tham mưu trưởng) passed away.
 *   **Jan. 14, 2019:** The CPTPP Agreement officially took effect for Vietnam.
-*   **Jun. 7, 2019:** Vietnam was elected as a non-permanent member of the UN Security Council (2020-2021 term).
+*   **Jun. 7, 2019:** Vietnam was elected as a non-permanent member of the UN Security Council (2020-2021 term) with a record 192 out of 193 votes at the 73rd UN General Assembly session.
 *   **Jun. 30, 2019:** Signed the EVFTA and EVIPA Agreements with the European Union (EU).
 *   **Dec. 12, 2019:** The Then ritual practices of the Tay, Nung, and Thai ethnic groups were recognized by UNESCO as a heritage.
 * **2020:** Hero of the People's Armed Forces Nguyễn Văn Chánh (Trung tá, nguyên Phó chỉ huy trưởng động viên, Ban chỉ huy quân sự quận Thủ Đức. Tham gia trận đánh sân bay Biên Hòa, tiêu diệt nhiều sinh lực địch, phá hủy nhiều xe quân sự) passed away.
@@ -3155,6 +3167,7 @@
 * **2021:** Hero of the People's Armed Forces Trần Thận (Nguyên Ủy viên Khu ủy Khu 5, nguyên Bí thư Tỉnh ủy Quảng Nam) passed away.
 *   **Jan. 25 - Feb. 2, 2021:** The 13th National Congress of the Party, set goals for 2030 and a vision to 2045.
 *   **Mar. 23, 2021:** Heroic Vietnamese Mother and Hero of the People's Armed Forces Tran Thi Quang Man passed away in Ho Chi Minh City at the age of 95.
+*   **Apr. 27, 2021:** The UN Security Council unanimously adopted Resolution 2573 on the protection of objects indispensable to the survival of the civilian population in armed conflict – a landmark resolution drafted and championed by Vietnam during its Security Council Presidency.
 *   **Apr. 27, 2021:** The fourth wave of the COVID-19 epidemic began (Delta variant), shifting the strategy to "safe adaptation."
 *   **May 23, 2021:** Election of the 15th National Assembly.
 *   **Jun. 24, 2021:** Kostas Sarantidis (Nguyễn Văn Lập), the Greek-Vietnamese soldier and Hero of the People's Armed Forces, passed away in Athens, Greece, at the age of 94.
@@ -3171,6 +3184,7 @@
 *   **May 12 - 23, 2022:** Vietnam hosted the 31st SEA Games (postponed from 2021).
 *   **Aug. 2, 2022:** Fulfilling his final wish, the ashes of Kostas Sarantidis (Nguyễn Văn Lập) were brought back to Vietnam and solemnly buried at the Military Region 5 Cemetery in Da Nang, resting alongside his former comrades.
 *   **Aug. 19, 2022:** Raymonde Dien, a great friend of Vietnam and a symbol of the international movement against the French colonial war in Indochina, passed away at the age of 93.
+*   **Oct. 11, 2022:** At the 77th Session of the UN General Assembly in New York, Vietnam was elected as a member of the UN Human Rights Council (UNHRC) for the 2023-2025 term.
 *   **Dec. 2022:** Upgraded relations to a Comprehensive Strategic Partnership with South Korea.
 *   **Dec. 1, 2022:** The Ba Chua Xu Festival at Sam Mountain was recognized as a heritage site by UNESCO.
 *   **Dec. 30, 2022:** Vietnam's GDP surpassed the $400 billion mark.
