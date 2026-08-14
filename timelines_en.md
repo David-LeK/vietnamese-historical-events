@@ -166,6 +166,7 @@
 *   **950:** Ngo Xuong Van overthrew Duong Tam Kha, demoted him to Chuong Duong Cong, and granted him the land of Chuong Duong as an appanage (thực ấp). He reclaimed the throne as Nam Tan Vuong and co-ruled with his brother Ngo Xuong Ngap (Thien Sach Vuong).
 *   **951:** Hau Ngo Vuong (Ngo Xuong Van and Ngo Xuong Ngap) attacked Dinh Bo Linh at Hoa Lu for over a month but failed, taking Dinh Lien as hostage.
 *   **954:** Thien Sach Vuong Ngo Xuong Ngap passed away.
+*   **955:** Following the death of his elder brother Thien Sach King Ngo Xuong Ngap (954), Nam Tan King Ngo Xuong Van ruled alone and dispatched an envoy to Southern Han to establish diplomatic ties and seek investiture, maintaining peace and preserving national independence.
 *   **965:** Nam Tan Vuong Ngo Xuong Van was killed in battle while suppressing a rebellion in the hamlets of Duong and Nguyen. The Ngo dynasty ended.
 *   **965 - 967:** The Anarchy of the 12 Warlords. Warlords fully formed by 966.
 *   **967:** Dinh Bo Linh defeated several warlords, including Do Canh Thac, Nguyen Sieu, Nguyen Khoan, Kieu Cong Han, and Kieu Thuan.
@@ -303,6 +304,7 @@
 *   **1171 - 1172:** King Ly Anh Tong personally patrolled the islands and coastal areas, surveying the terrain and documenting local customs and geography to compile the *Nam Bac Phien Gioi Dia Do* (Map of Northern and Southern Frontiers).
 *   **Aug. 14, 1175:** Ly Anh Tong passed away, Ly Long Can ascended the throne (Ly Cao Tong) at the age of 2.
 *   **1181:** A great famine occurred, causing nearly half the population to die.
+*   **1182:** King Ly Cao Tong changed the era name to Bao Phu. The imperial court entrusted Grand Preceptor Ngo Ly Tin with commanding troops to suppress frontier rebellions, consolidating discipline and stabilizing the realm during the young monarch's reign.
 *   **1192:** Excavation of the To Lich River to facilitate transportation and irrigation around the capital.
 *   **1198:** King Ly Cao Tong, following the advice of Dam Di Mong, ordered the dismissal of monks who did not strictly follow precepts, forcing them to return to secular life to perform corvee labor, reorganizing Buddhism and society.
 *   **13th century:** Italian explorer Marco Polo visited and described Con Dao Island in his memoirs. In the same century, Islam was also introduced, primarily through the Cham community.
@@ -659,6 +661,7 @@
 *   **1443:** Le Nhan Tong ascended the throne.
 *   **1443 - 1459:** Phan Phu Tien compiled the *Đại Việt sử ký tục biên* (Continued History of Dai Viet) from Le Van Huu's *Đại Việt sử ký* (History of Dai Viet).
 *   **Nov. 1448:** King Le Nhan Tong married his eldest sister, Princess Ve Quoc (who suffered from mutism), to Le Quat, son of Grand Commander Le Thu. Le Thu used this wedding to solicit bribes from local officials, causing public resentment.
+*   **1453:** Empress Dowager Tuyen Tu Nguyen Thi Anh handed over governance power; King Le Nhan Tong began his personal reign at age 12, changing the era name to Dien Ninh. The king implemented lenient policies, granted tax exemptions, encouraged agriculture, and issued royal decrees to exonerate and posthumously restore titles to previously wronged founding merit officials such as Nguyen Trai, Le Sat, and Trinh Kha.
 *   **Oct. 28, 1459:** Prince of Lang Son Le Nghi Dan and his followers scaled the forbidden palace walls at night, staging a coup d'état that assassinated King Le Nhan Tong and Empress Dowager Nguyen Thi Anh, usurping the throne and declaring the Thien Hung era.
 *   **Late 1459 - 1460:** The court of Le Nghi Dan established the structure of the Six Ministries (Personnel, Finance, Rites, War, Justice, Public Works) and the Six Offices of Scrutiny for the first time to divide authority and reinforce administrative supervision.
 *   **Jun. 1460:** High-ranking officials Nguyen Xi and Dinh Liet staged a coup, overthrew Nghi Dan, and placed Le Tu Thanh on the throne (Le Thanh Tong).
@@ -1170,6 +1173,7 @@
 *   **Oct. 27, 1868:** Hero Nguyen Trung Truc is executed by the French in Rach Gia (Kien Giang), leaving behind the immortal quote: *"Only when the French pull up all the grass in Vietnam will there be no more Vietnamese fighting the French."*
 *   **Feb. 1869:** Chữ Quốc ngữ was mandated for use in official documents in Cochinchina, replacing chữ Nho (classical Chinese characters), according to a decree by Vice Admiral Marie Gustave Hector Ohier.
 *   **1870:** The insurgent forces of Truong Quyen (son of Truong Dinh) closely coordinated with the movement of Pu Kom Po, expanding anti-French resistance operations along the southwestern border (Tay Ninh, Chau Doc), demonstrating a historic alliance against colonial aggression.
+*   **1871:** French merchant and explorer Jean Dupuis unilaterally led an armed flotilla up the Red River to Yunnan to illicitly trade weapons and salt, defying prohibitions from the Hue imperial court and initiating a series of provocations that led to the first French assault and capture of Tonkin (1873).
 *   **Nov. 1872:** Jean Dupuis, a French merchant, began causing disturbances in Tonkin (Bac Ky), under the pretext of transporting goods to Yunnan.
 *   **1873:** The administrative seat of Doan Hung prefecture (Son Tay province) was burned and destroyed by bandits.
 *   **1873:** French explorer Jean Dupuis arrived at Ninh Hai (Hai Phong) with small boats from Saigon, beginning his exploration of the Red River to find a trade route to Yunnan, China.
@@ -3312,3 +3316,6 @@
 *   **Jul. 31, 2026:** India officially opened its market for official exports of Vietnamese durians, marking a significant milestone in agricultural trade cooperation between the two nations.
 *   **Aug. 1 - 7, 2026:** The 33rd Diplomatic Conference and 22nd National External Affairs Conference were held in Hanoi. This was the first national diplomatic conference following the 14th National Congress of the Party, establishing key external affairs guidelines to serve national development in the new era.
 *   **Aug. 3, 2026:** Opening of the 1st Extraordinary Session of the 16th National Assembly in Hanoi to consider and approve 15 draft laws and 4 draft resolutions to advance socio-economic development and refine the legal framework.
+*   **09 - 12/08/2026:** General Secretary and State President To Lam and his spouse paid a state visit to Australia at the invitation of Governor-General Sam Mostyn and Prime Minister Anthony Albanese. Both nations issued three Joint Statements on implementing the Comprehensive Strategic Partnership, science-technology and innovation cooperation, energy transition and climate action, and signed the Updated Joint Vision Statement on Further Defense Cooperation.
+*   **10/08/2026:** Vietnam observed National Mourning in memory of Comrade Xaysomphone Phomvihane - Politburo Member of the Lao People's Revolutionary Party and President of the National Assembly of Laos; a high-ranking Party and State delegation led by National Assembly Chairman Tran Thanh Man visited Vientiane to pay tribute.
+*   **12 - 14/08/2026:** General Secretary and State President To Lam and his spouse paid a state visit to New Zealand at the invitation of Governor-General Cindy Kiro and Prime Minister Christopher Luxon, consolidating and deepening the Comprehensive Strategic Partnership between the two countries.

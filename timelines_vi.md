@@ -166,6 +166,7 @@
 *   **950:** Ngô Xương Văn lật đổ Dương Tam Kha, giáng xuống làm Chương Dương Công và ban cho đất Chương Dương làm thực ấp. Ông xưng là Nam Tấn Vương, cùng anh trai Ngô Xương Ngập (Thiên Sách Vương) cai quản đất nước.
 *   **951:** Hậu Ngô Vương tiến đánh Đinh Bộ Lĩnh ở Hoa Lư hơn một tháng không được, bèn bắt Đinh Liễn làm con tin.
 *   **954:** Thiên Sách vương Ngô Xương Ngập mất.
+*   **955:** Sau khi anh trai là Thiên Sách vương Ngô Xương Ngập qua đời (954), Nam Tấn vương Ngô Xương Văn một mình trị vì, cử sứ giả sang Nam Hán giao hảo và cầu phong nhằm duy trì nền hòa bình, giữ vững chủ quyền độc lập.
 *   **965:** Nam Tấn vương Ngô Xương Văn tử trận khi đi dẹp loạn ở hai thôn Đường - Nguyễn. Thứ sử Phong Châu Kiều Công Hãn kéo quân về Cổ Loa tranh ngôi với Lã Xử Bình. Nhà Ngô kết thúc.
 *   **965 - 967:** Thời kỳ Loạn 12 sứ quân. Hình thành đầy đủ 12 sứ quân cát cứ các địa phương vào năm 966. Đinh Bộ Lĩnh kiểm soát được Cổ Loa.
 *   **967:** Đinh Bộ Lĩnh đánh dẹp các sứ quân Đỗ Cảnh Thạc, Nguyễn Siêu, Nguyễn Khoan, Kiều Công Hãn, Kiều Thuận.
@@ -303,6 +304,7 @@
 *   **1171 - 1172:** Vua Lý Anh Tông đích thân đi tuần tra các hải đảo ngoài biển, vẽ bản đồ hình thế núi sông và ghi chép phong vật để biên soạn sách *Nam Bắc phiên giới địa đồ*.
 *   **14/08/1175:** Lý Anh Tông mất, Lý Long Cán lên ngôi (Lý Cao Tông) lúc mới 2 tuổi.
 *   **1181:** Nạn đói lớn xảy ra, khiến dân chúng chết gần một nửa.
+*   **1182:** Vua Lý Cao Tông đổi niên hiệu sang Bảo Phù. Triều đình cậy nhờ Thái phó Ngô Lý Tín cầm quân dẹp yên các cuộc nổi loạn vùng biên viễn, củng cố kỷ cương và an định xã tắc trong giai đoạn ấu chúa trị vì.
 *   **1192:** Cho đào sông Tô Lịch để thuận tiện cho giao thông và thủy lợi quanh kinh thành.
 *   **1198:** Vua Lý Cao Tông nghe lời Đàm Dĩ Mông, ra lệnh sa thải các tăng đồ không giữ giới luật, bắt hoàn tục để làm phu dịch, chấn chỉnh lại Phật giáo và xã hội.
 *   **Thế kỷ XIII:** Nhà thám hiểm người Ý Marco Polo ghé thăm và mô tả về Côn Đảo trong hồi ký của mình. Vào cùng thế kỷ, Hồi giáo cũng được du nhập vào chủ yếu thông qua cộng đồng người Chăm Pa.
@@ -659,6 +661,7 @@
 *   **1443:** Lê Nhân Tông lên ngôi.
 *   **1443 - 1459:** Phan Phu Tiên biên soạn *Đại Việt sử ký tục biên* từ *Đại Việt sử ký* của Lê Văn Hưu.
 *   **11/1448:** Vua Lê Nhân Tông gả chị cả là Vệ Quốc Trưởng Công chúa (bị câm) cho Lê Quát, con trai Thái úy Lê Thụ. Lê Thụ nhân dịp này đã sách nhiễu, đòi hỏi lễ vật của các trấn, lộ khiến dư luận bất bình.
+*   **1453:** Tuyên Từ Hoàng thái hậu Nguyễn Thị Anh trao trả quyền bính; vua Lê Nhân Tông bắt đầu thân chính điều hành đất nước ở tuổi 12, đổi niên hiệu sang Diên Ninh. Nhà vua ban hành nhiều chính sách khoan hòa, miễn giảm thuế khóa, khuyến khích nông nghiệp và xuống chiếu minh oan, truy phục quan tước cho các công thần khai quốc bị hàm oan trước đó như Nguyễn Trãi, Lê Sát, Trình Khả.
 *   **28/10/1459:** Lạng Sơn vương Lê Nghi Dân cùng thuộc hạ đang đêm bắc thang trèo tường vào cấm cung làm binh biến sát hại vua Lê Nhân Tông và Hoàng thái hậu Nguyễn Thị Anh, cướp ngôi và đặt niên hiệu Thiên Hưng.
 *   **Cuối năm 1459 - 1460:** Triều đình Lê Nghi Dân lần đầu tiên đặt ra cơ cấu Lục bộ (Lại, Hộ, Lễ, Binh, Hình, Công) và Lục khoa nhằm phân chia quyền lực và tăng cường giám sát hành chính.
 *   **06/1460:** Các đại thần Nguyễn Xí, Đinh Liệt làm binh biến, lật đổ Nghi Dân, đưa Lê Tư Thành lên ngôi vua (Lê Thánh Tông).
@@ -1170,6 +1173,7 @@
 *   **27/10/1868:** Anh hùng Nguyễn Trung Trực bị thực dân Pháp đưa đi hành quyết tại Rạch Giá (Kiên Giang), để lại câu nói bất hủ: *"Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây"*.
 *   **02/1869:** Chữ quốc ngữ được quy định dùng bắt buộc thay chữ Nho trong công văn ở Nam Kỳ, theo nghị định của Phó đô đốc Marie Gustave Hector Ohier.
 *   **1870:** Nghĩa quân Trương Quyền (con trai Trương Định) phối hợp chặt chẽ với lực lượng của Pu Kom Pô mở rộng phong trào kháng chiến chống thực dân Pháp dọc biên giới Tây Nam Bộ (Tây Ninh, Châu Đốc), thể hiện tinh thần liên minh đoàn kết chiến đấu chống ngoại xâm của nhân dân hai nước.
+*   **1871:** Lái buôn kiêm thám hiểm người Pháp Jean Dupuis tự ý dẫn đoàn tàu buôn vũ trang vượt sông Hồng sang Vân Nam để buôn bán vũ khí và muối trái phép, bất chấp lệnh cấm của triều đình Huế, mở đầu chuỗi khiêu khích dẫn tới cuộc tấn công đánh chiếm Bắc Kỳ lần thứ nhất của quân Pháp (1873).
 *   **11/1872:** Jean Dupuis, một lái buôn người Pháp, bắt đầu gây rối ở Bắc Kỳ, lấy cớ vận chuyển hàng hóa lên Vân Nam.
 *   **1873:** Phủ lỵ Đoan Hùng (tỉnh Sơn Tây) bị giặc cướp đốt phá, phải chuyển đến làm việc tại nhà dân.
 *   **Năm 1873:** Nhà thám hiểm người Pháp Jean Dupuis mang thuyền từ Sài Gòn ra bỏ neo ở Ninh Hải (Hải Phòng), bắt đầu cuộc thám hiểm sông Hồng để tìm đường giao thương sang Vân Nam (Trung Quốc).
@@ -3312,3 +3316,6 @@
 *   **31/07/2026:** Ấn Độ chính thức mở cửa thị trường cho mặt hàng sầu riêng Việt Nam xuất khẩu chính ngạch sang nước này, đánh dấu bước tiến quan trọng trong hợp tác thương mại nông sản giữa hai quốc gia.
 *   **01 - 07/08/2026:** Diễn ra Hội nghị Ngoại giao lần thứ 33 và Hội nghị Ngoại vụ toàn quốc lần thứ 22 tại Hà Nội. Đây là hội nghị ngoại giao toàn quốc đầu tiên sau Đại hội XIV của Đảng, quán triệt định hướng ngoại giao phục vụ phát triển đất nước trong kỷ nguyên mới.
 *   **03/08/2026:** Khai mạc Kỳ họp không thường lệ thứ Nhất, Quốc hội khóa XVI tại Hà Nội để xem xét, thông qua 15 dự án luật và 4 dự án nghị quyết quan trọng phục vụ phát triển kinh tế - xã hội và hoàn thiện hệ thống pháp luật.
+*   **09 - 12/08/2026:** Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân thăm cấp Nhà nước tới Australia theo lời mời của Toàn quyền Sam Mostyn và Thủ tướng Anthony Albanese. Hai nước ra 3 Tuyên bố chung về việc triển khai Đối tác Chiến lược Toàn diện, hợp tác khoa học công nghệ - đổi mới sáng tạo, chuyển đổi năng lượng và hành động khí hậu, đồng thời ký kết Cập nhật Tuyên bố Tầm nhìn chung về thúc đẩy hợp tác quốc phòng.
+*   **10/08/2026:** Việt Nam tổ chức Quốc tang tưởng niệm đồng chí Xaysomphone Phomvihane - Ủy viên Bộ Chính trị Đảng Nhân dân Cách mạng Lào, Chủ tịch Quốc hội Lào; Đoàn đại biểu cấp cao Đảng và Nhà nước Việt Nam do Chủ tịch Quốc hội Trần Thanh Mẫn dẫn đầu đã sang viếng tại Thủ đô Vientiane.
+*   **12 - 14/08/2026:** Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân thăm cấp Nhà nước tới New Zealand theo lời mời của Toàn quyền Cindy Kiro và Thủ tướng Christopher Luxon, củng cố và làm sâu sắc quan hệ Đối tác Chiến lược Toàn diện giữa hai quốc gia.
