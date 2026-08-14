@@ -1301,7 +1301,7 @@
 *   **1908:** Bài *Thiết tiền ca* của Nguyễn Phan Lăng (Đoàn Xuyên) được phổ biến, kêu gọi tẩy chay tiền sắt của Pháp, gây ảnh hưởng lớn đến chính sách kinh tế của thực dân.
 *   **1908:** Thực dân Pháp và Nam triều đàn áp đẫm máu phong trào. Tiến sĩ **Trần Quý Cáp** bị xử chém tại Khánh Hòa; **Lê Khiết** và **Nguyễn Bá Loan** bị xử chém tại Quảng Ngãi. **Phan Châu Trinh** bị bắt, kết án tử hình rồi giảm án thành đày ra Côn Đảo.
 *   **01/1908:** Thực dân Pháp thu giấy phép của Đông Kinh Nghĩa Thục vì lo ngại phong trào làm náo động lòng dân.
-*   **Đầu năm 1908:** Phong trào "xin xâu" (chống sưu thuế) khởi phát từ huyện **Đại Lộc** (Quảng Nam) do dân chúng bức xúc vì chế độ lao dịch nặng nề, sau đó lan rộng khắp các tỉnh Trung Kỳ (Quảng Ngãi, Bình Định, Phú Yên...).
+*   **11/03/1908:** Phong trào "xin xâu" (chống sưu thuế) bùng nổ khi hàng ngàn nông dân huyện Đại Lộc (Quảng Nam) kéo về Tòa sứ Hội An biểu tình đòi giảm sưu thuế và lao dịch, mở đầu phong trào biểu tình chống sưu thuế rầm rộ lan rộng khắp các tỉnh Trung Kỳ (Quảng Nam, Quảng Ngãi, Bình Định, Thừa Thiên, Phú Yên...).
 *   **27/06/1908:** Vụ "Hà thành đầu độc" nổ ra, một nhóm binh lính người Việt và các nhà yêu nước mưu đồ đầu độc binh lính Pháp ở Hà Nội và khởi nghĩa nhưng thất bại.
 *   **09/1908:** Pháp và Nhật ký hiệp ước, theo đó chính phủ Nhật trục xuất các nhà yêu nước và du học sinh Việt Nam, Phong trào Đông du tan rã.
 *   **12/1908:** Thực dân Pháp ra lệnh đóng cửa trường Đông Kinh Nghĩa thục và đàn áp những người tham gia.
@@ -1411,7 +1411,8 @@
 *   **24/12/1925:** Toàn quyền Varenne ký lệnh "ân xá" và an trí Phan Bội Châu tại Huế.
 *   **21/03/1926:** Đảng Thanh niên Việt Nam (Jeune Annam) được thành lập.
 *   **24/03/1926:** Phan Châu Trinh qua đời tại Sài Gòn.
-*   **04/04/1926:** Đám tang Phan Châu Trinh được tổ chức long trọng tại Sài Gòn với sự tham gia của khoảng 14 vạn người, biến thành một cuộc biểu dương lực lượng quần chúng.
+*   **24/03/1926:** Nhà yêu nước, nhà báo Nguyễn An Ninh bị thực dân Pháp bắt giữ tại Sài Gòn, làm bùng lên làn sóng biểu tình, mít tinh và bãi khóa sôi nổi của học sinh, sinh viên và thanh niên Nam Kỳ đòi trả tự do cho ông.
+*   **04/04/1926:** Lễ quốc táng chí sĩ Phan Chu Trinh được tổ chức trọng thể tại Sài Gòn với sự tham gia của hơn 14 vạn người, biến thành cuộc biểu tình chính trị và biểu dương lực lượng quần chúng rộng lớn, châm ngòi cho phong trào bãi khóa và lễ truy điệu cụ Phan lan rộng khắp ba kỳ.
 *   **04/09/1926:** Nghị định thành lập các Ngân hàng Nông phố bình dân (Tín dụng nông nghiệp) ở Bắc Kỳ.
 *   **10/1926:** Phùng Chí Kiên cùng một số hội viên Việt Nam Thanh niên Cách mạng Đồng chí Hội được giới thiệu sang Quảng Châu (Trung Quốc) dự lớp huấn luyện cách mạng do Nguyễn Ái Quốc trực tiếp tổ chức và giảng dạy, sau đó nhập học Trường Quân sự Hoàng Phố.
 *   **12/11/1926:** Đông Dương Lao động Đảng được thành lập tại Sài Gòn.
@@ -1447,6 +1448,7 @@
 *   **Đầu những năm 1930:** Theo kết quả điều tra của Yves Henry, dưới tác động của chủ nghĩa thực dân Pháp, tình trạng sở hữu ruộng đất phân hóa cực kỳ sâu sắc. Ruộng đất công chỉ còn 21% ở Bắc Kỳ, 25% ở Trung Kỳ và 3% ở Nam Kỳ. Về ruộng đất tư hữu, 94,8% số chủ sở hữu dưới 5 ha (chiếm 28,5% diện tích), trong khi 0,30% chủ sở hữu trên 50 ha (chiếm tới 31,5% diện tích).
 *   **10/02/1930:** Cuộc khởi nghĩa Yên Bái do Việt Nam Quốc dân Đảng lãnh đạo bùng nổ nhưng nhanh chóng thất bại.
 *   **09/03/1930:** Chuyến bay đầu tiên nối liền Paris - Sài Gòn được thực hiện, đánh dấu sự phát triển giao thông hàng không.
+*   **25/03/1930:** Hơn 4.000 công nhân Nhà máy Dệt Nam Định bãi công và tuần hành biểu tình đòi tăng lương, giảm giờ làm và chống đánh đập; cuộc bãi công kéo dài 21 ngày với sự ủng hộ rộng rãi của nhân dân địa phương, mở đầu phong trào công nhân miền Bắc năm 1930.
 *   **13/04/1930:** Toàn quyền Đông Dương phái thông báo hạm *La Malicieuse* tới quần đảo Trường Sa, nơi thủy thủ đoàn đã kéo quốc kỳ Pháp trên một điểm cao.
 *   **01/05/1930:** Lần đầu tiên, các cuộc đấu tranh của công nhân và nông dân nổ ra rầm rộ trên cả nước để kỷ niệm ngày Quốc tế Lao động, mở đầu cho cao trào cách mạng 1930-1931.
 *   **31/05/1930:** Chính phủ Pháp ra sắc lệnh xác nhận chế độ kim bản vị (Gold Standard) cho đồng bạc Đông Dương, chấm dứt bản vị bạc.
@@ -1456,6 +1458,7 @@
 *   **12/09/1930:** Máy bay Pháp ném bom xuống đoàn biểu tình của nông dân Hưng Nguyên (Nghệ An), làm 171 người chết, sự kiện đỉnh cao trong cao trào Xô viết Nghệ - Tĩnh.
 *   **23/09/1930:** Chính phủ Pháp ra thông cáo báo cho các cường quốc khác biết việc Pháp chiếm đóng quần đảo Trường Sa.
 *   **14-31/10/1930:** Hội nghị lần thứ nhất Ban Chấp hành Trung ương Đảng họp tại Hương Cảng (Trung Quốc), thông qua Luận cương chính trị và đổi tên Đảng thành Đảng Cộng sản Đông Dương. Đồng chí Trần Phú được bầu làm Tổng Bí thư.
+*   **14/10/1930:** Hàng nghìn nông dân huyện Tiền Hải (Thái Bình) giương cờ búa liềm biểu tình bao vây huyện đường đòi giảm sưu thuế, chia lại ruộng công và phản đối chính quyền thực dân đàn áp phong trào Xô Viết Nghệ Tĩnh.
 
 ### **Thời kỳ Khủng hoảng Kinh tế và Đấu tranh Phục hồi Lực lượng (1931 - 1935)**
 
@@ -1591,6 +1594,7 @@
 *   **13/08/1945:** Ủy ban Khởi nghĩa toàn quốc ra "Quân lệnh số 1".
 *   **14/08/1945:** Mặt trận Quốc gia Thống nhất được thành lập tại Nam Bộ, gồm các đảng phái quốc gia và tôn giáo như Cao Đài, Hòa Hảo.
 *   **16-17/08/1945:** Quốc dân Đại hội họp tại Tân Trào, tán thành chủ trương Tổng khởi nghĩa và bầu ra Ủy ban Dân tộc Giải phóng Việt Nam (tức Chính phủ lâm thời) do Hồ Chí Minh làm Chủ tịch.
+*   **17/08/1945:** Cuộc mít tinh của Tổng hội Công chức tại Quảng trường Nhà hát Lớn Hà Nội bị lực lượng Việt Minh và quần chúng biến thành cuộc biểu tình tuần hành rầm rộ ủng hộ cách mạng với cờ đỏ sao vàng giương cao khắp các ngả đường, tạo tiền đề trực tiếp cho cuộc Tổng khởi nghĩa 19/8 tại Hà Nội.
 *   **19/08/1945:** Tổng khởi nghĩa thắng lợi ở Hà Nội (Cách mạng tháng Tám).
 *   **23/08/1945:** Khởi nghĩa thắng lợi ở Huế.
 *   **24/08/1945:** Huỳnh Tấn Phát thiết kế và chỉ đạo xây dựng Kỳ đài tại ngã tư Nguyễn Huệ - Lê Lợi (Sài Gòn) để ghi danh 11 ủy viên Lâm ủy Nam Bộ.
@@ -2121,6 +2125,7 @@
 *   **05/08/1964:** Không quân Mỹ lần đầu tiên ném bom bắn phá một số nơi ở miền Bắc (chiến dịch Mũi tên xuyên - Pierce Arrow). Quân dân miền Bắc đánh trả quyết liệt, bắn rơi 8 máy bay Mỹ, bắt sống phi công Everett Alvarez, tù binh phi công Mỹ đầu tiên tại miền Bắc.
 *   **07 - 11/08/1964:** Sau Sự kiện Vịnh Bắc Bộ, hơn 20 triệu người dân tại nhiều địa phương của Trung Quốc đã xuống đường tuần hành thị uy, mạnh mẽ ủng hộ Việt Nam chống đế quốc Mỹ.
 *   **10/08/1964:** Nguyễn Văn Trỗi bị Tòa án Quân sự ngụy quyền Sài Gòn kết án tử hình. Tại tòa, ông hiên ngang nhận hết trách nhiệm và khẳng định: "Tôi giết bọn cướp nước tôi" và "Tôi chỉ tiếc rằng chưa giết được McNamara".
+*   **21 - 27/08/1964:** Làn sóng biểu tình khổng lồ của hàng chục vạn sinh viên, học sinh, Phật tử và nhân dân bùng nổ tại Sài Gòn, Huế, Đà Nẵng bao vây Tòa Đại sứ Mỹ và Dinh Thủ tướng phản đối "Hiến chương Vũng Tàu" thiết lập chế độ độc tài quân sự của Tướng Nguyễn Khánh, buộc Nguyễn Khánh phải tuyên bố hủy bỏ hiến chương và từ chức Quốc trưởng.
 *   **05/09/1964:** Ông Vừ Chống Lầu (cha của Vừ A Dính) được Đảng và Nhà nước truy tặng danh hiệu Liệt sĩ.
 *   **20/09/1964:** Mặt trận Thống nhất Đấu tranh của các Sắc tộc bị Áp bức (FULRO) được thành lập tại Campuchia, liên kết các phong trào của người Thượng, Chăm và Khmer.
 *   **09/10/1964:** Đội du kích Caracas (Venezuela) bắt cóc Trung tá Mỹ Michael Smolen tại Caracas để đấu tranh đòi tự do cho Nguyễn Văn Trỗi, buộc chính quyền Mỹ - ngụy quyền Sài Gòn tạm đình chỉ bản án tử hình. Tuy nhiên, sau khi Smolen được thả, địch đã lật lọng đưa Nguyễn Văn Trỗi ra xử bắn.
@@ -2213,6 +2218,7 @@
 * **08/02/1966:** Liệt sĩ Nguyễn Văn Quang (Tiểu đội phó thuộc Đại đội 2, Tiểu đoàn 303, bộ đội chủ lực Tây Nam Bộ) anh dũng hy sinh trong trận chống càn tại khu vực kênh xáng Cò Tuất.
 *   **09/02/1966:** Khu ủy và Bộ chỉ huy Quân khu Sài Gòn - Gia Định chỉ đạo thiết lập "Vành đai diệt Mỹ" bao vây căn cứ Đồng Dù (Củ Chi).
 *   **09 - 10/03/1966:** Trận A Sầu diễn ra tại Căn cứ Đặc biệt A Sầu nằm trong thung lũng A Sầu (tỉnh Thừa Thiên). Căn cứ do quân đội Mỹ thiết lập nhằm ngăn chặn tuyến đường mòn Hồ Chí Minh, được phòng thủ bởi Lực lượng Đặc biệt Mỹ và Dân sự Chiến đấu (CIDG). Sau các đợt pháo kích và tấn công bộ binh dữ dội của Quân Giải phóng, cộng với thời tiết xấu làm hạn chế không kích yểm trợ, căn cứ đã thất thủ. Lực lượng Mỹ và đồng minh chịu thương vong nặng nề và buộc phải triệt thoái vào ngày 10 tháng 3, giúp Quân Giải phóng kiểm soát được một cứ điểm yết hầu trên tuyến vận tải chiến lược.
+*   **10/03 - 19/06/1966:** "Biến động Miền Trung" bùng nổ khi hàng chục vạn quần chúng, tăng ni Phật tử, sinh viên học sinh và binh sĩ Quân đoàn I tại Đà Nẵng, Huế xuống đường biểu tình chống chính quyền quân sự Nguyễn Cao Kỳ - Nguyễn Văn Thiệu và sự can thiệp của Mỹ. Phong trào lên đỉnh điểm vào đầu tháng 6/1966 với chiến dịch "Bàn thờ Phật xuống đường" chặn xe cơ giới và cảnh sát dã chiến.
 * **28/05/1966:** Liệt sĩ Nguyễn Văn Lịch (Tiểu đội trưởng trinh sát bộ đội địa phương quận Dĩ An) bị thương nặng vẫn kiên cường dùng lựu đạn tiêu diệt giặc và anh dũng hy sinh.
 * **28/05/1966:** Liệt sĩ Nguyễn Văn Lịch (Tiểu đội trưởng trinh sát bộ đội địa phương quận Dĩ An) bị thương nặng vẫn kiên cường dùng lựu đạn tiêu diệt giặc và anh dũng hy sinh.
 * **26/06/1966:** Liệt sĩ Đồng Phước Huyến (Tiểu đội trưởng thuộc Tiểu đoàn 72 bộ đội địa phương tỉnh Quảng Nam) anh dũng hy sinh trong trận chống càn tại Quảng Nam.
@@ -2436,6 +2442,7 @@
 * **1970:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Y (Quyền Trưởng ban An ninh Khu 8 (Trung Nam Bộ); Trưởng ty An ninh tỉnh Mỹ Tho (Tiền Giang), tỉnh Long Châu Sa) từ trần.
 * **10/02/1970:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Hùng (Chiến sĩ đặc công thủy Quân khu Sài Gòn - Gia Định, Trung Đội Phó đội Công binh LLVT Sài Gòn - Gia Định, chiến sĩ nòng cốt trong nhiệm vụ đánh sập các cây cầu huyết mạch của miền Đông Nam Bộ bao gồm: Ông Nhiêu (Thủ Đức), Chẹt Sậy (Lương Quới),Giồng Quéo (Bình Chánh), Bến Lức (Long An),,).
 *   **06/03/1970:** Bộ Chính trị ra Nghị quyết về cuộc vận động nâng cao chất lượng đảng viên và kết nạp đảng viên (Lớp Hồ Chí Minh).
+*   **10/03/1970:** Sau vụ bắt giữ Chủ tịch Tổng hội Sinh viên Sài Gòn Huỳnh Tấn Mẫm, phong trào sinh viên đô thị miền Nam bùng nổ làn sóng bãi khóa, biểu tình, tuyệt thực và phong trào âm nhạc phản chiến "Hát cho đồng bào tôi nghe" đòi tự trị đại học, trả tự do cho sinh viên bị bắt và chấm dứt chiến tranh.
 *   **12/03/1970:** Thủ tướng Campuchia Lon Nol ra lệnh đóng cửa cảng Sihanoukville và gửi tối hậu thư yêu cầu toàn bộ lực lượng quân đội Việt Nam phải rút khỏi Campuchia trong vòng 72 giờ.
 *   **18/03/1970:** Tướng Lon Nol, được Mỹ hậu thuẫn, tiến hành đảo chính lật đổ chính phủ trung lập của Hoàng thân Norodom Sihanouk, chính thức kéo Campuchia vào vòng xoáy của cuộc Chiến tranh Đông Dương lần thứ hai.
 *   **04 - 05/1970:** Chính quyền Lon Nol tiến hành các cuộc thảm sát tàn bạo nhằm vào kiều dân Việt Nam tại Campuchia (ở Prasot, Takeo, Neak Loeang, Svay Rieng...). Hàng trăm đến hàng ngàn người Việt bị sát hại dã man, thi thể bị ném xuống sông Mê Kông trôi dạt về tận Đồng Tháp, An Giang. Ngụy quyền Sài Gòn có đưa tàu sang đón người tị nạn (13/5) nhưng hầu như không lên tiếng phản đối mạnh mẽ các vụ thảm sát.
@@ -2448,6 +2455,7 @@
 *   **25/08/1970:** Đinh Thị Vân được Nhà nước phong tặng danh hiệu cao quý: Anh hùng Lực lượng vũ trang nhân dân vì những cống hiến xuất sắc cho ngành tình báo quân sự Việt Nam. Trần Hữu Bào cũng được phong tặng danh hiệu này vì những chiến công đặc biệt xuất sắc tại cao điểm 595.
 * **25/08/1970:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Hải (Đại úy, Đại đội trưởng Trung đoàn Không quân 923, phi công cấp Ace của Không quân nhân dân Việt Nam, bắn rơi 6 máy bay Mỹ. Sau này là Đại tá, Sư đoàn trưởng Sư đoàn Không quân 372).
 * **25/08/1970:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hoàng Văn Cón (quê tại Cao Bằng).
+*   **30/08/1970:** Phong trào Phụ nữ Đòi quyền sống (do Luật sư Ngô Bá Thành lãnh đạo) cùng Ủy ban Đòi quyền sống Đồng bào và các tổ chức nghiệp đoàn tổ chức các cuộc biểu tình rầm rộ tại Sài Gòn phản đối chính sách tăng thuế, lạm phát đời sống, đòi quân đội Mỹ rút khỏi Việt Nam và lập lại hòa bình.
 *   **1971:** Bà Nguyễn Thị Bình, Trưởng đoàn đàm phán của Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam tại Hội nghị Paris, sang thăm Iraq và được chính phủ cùng nhân dân Iraq đón tiếp hết sức trọng thị.
 *   **1971:** Georges Boudarel xuất bản cuốn sách gây tiếng vang "Truyền thống và cách mạng ở Việt Nam".
 * **1971:** Anh hùng Lực lượng vũ trang nhân dân Lê Văn Thế (Huyện đội trưởng huyện Củ Chi, tỉnh Gia Định) từ trần.
@@ -2466,6 +2474,7 @@
 * **20/09/1971:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Hữu Trí (Trưởng phòng Tình báo chiến lược miền (J22), Nguyên Phó chỉ huy trưởng Bộ Chỉ huy quân sự Thành phố Hồ Chí Minh).
 * **20/09/1971:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phùng Quang Thanh (Trung đội trưởng Đại đội 9, Tiểu đoàn 64, Trung đoàn 64, Sư đoàn 320 Đồng Bằng, lập thành tích trong Chiến dịch Đường 9 - Nam Lào. Sau là Đại tướng, Bộ trưởng Bộ Quốc phòng).
 * **01/10/1971:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hà Văn Vấn (Lái xe đường Trường Sơn).
+*   **03/10/1971:** Làn sóng biểu tình dữ dội bùng nổ trên đường phố Sài Gòn, Huế, Đà Nẵng, Quy Nhơn phản đối cuộc bầu cử tổng thống "độc diễn" chỉ có một liên danh duy nhất của Nguyễn Văn Thiệu; người biểu tình đã đốt xe quân sự Mỹ và đụng độ với cảnh sát chống bạo động.
 *   **12/1971:** Đại hội lần thứ ba của Mặt trận Tổ quốc Việt Nam được tổ chức tại Hà Nội.
 *   **20/12/1971:** Tại Đại hội Anh hùng Lực lượng vũ trang nhân dân do Bộ Chỉ huy Miền tổ chức, Bùi Văn Thuyên được Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam tuyên dương danh hiệu Anh hùng Lực lượng vũ trang nhân dân vì những thành tích đặc biệt xuất sắc, mưu trí và dũng cảm trong chiến đấu.
 * **1972:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Ty (Đại đội trưởng bộ binh thuộc Trung đoàn 88, Đại đoàn 308, tham gia trận Điện Biên Phủ) từ trần.
@@ -2861,6 +2870,7 @@
 *   **1997:** Hài cốt của liệt sĩ Nguyễn Hữu Quế, người đã ngã xuống bảo vệ cao điểm 815 năm 1979, được gia đình tìm thấy tại Cốc Càng (Trà Lĩnh, Cao Bằng) và cất bốc đưa về quê nhà Thanh Hóa.
 * **1997:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Độ (Chiến sĩ biệt động thành phố Đà Nẵng).
 * **1997:** Anh hùng Lực lượng vũ trang nhân dân Trần Hải Phụng (Hai Phụng) (Thiếu tướng, nguyên Tư lệnh Quân khu Sài Gòn – Gia Định, Phó Tư lệnh Quân khu 7. Phó Trưởng đoàn chuyên gia 385 đặc trách về công tác phòng thủ đô thị cho Cuba) từ trần.
+*   **05/1997 - 11/1997:** Vụ biến động nông dân Thái Bình bùng phát khi hàng ngàn người dân tại nhiều huyện (Quỳnh Phụ, Thái Thụy, Tiền Hải, Hưng Hà, Đông Hưng) tập trung khiếu kiện, biểu tình phản đối nạn tham nhũng, lạm thu thuế và sai phạm quản lý đất đai của cán bộ cơ sở, là động lực trực tiếp để Bộ Chính trị ban hành Chỉ thị 30-CT/TW về xây dựng Quy chế Dân chủ ở cơ sở.
 *   **01/07/1997:** Luật Hợp tác xã có hiệu lực, tạo cơ sở pháp lý để chuyển đổi các hợp tác xã nông nghiệp sang mô hình dịch vụ kiểu mới, phục vụ kinh tế hộ.
 *   **23/07/1997:** Liệt sĩ Lê Thị Tuyết (Quảng Trị) được Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân.
 * **23/07/1997:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hoàng Lê Kha (Ủy viên thường vụ Tỉnh ủy Tây Ninh, bị hành quyết bằng máy chém dưới thời Ngô Đình Diệm).
@@ -2912,6 +2922,7 @@
 ### **Thời kỳ Hội nhập BTA và Vượt qua Thử thách SARS (2001 - 2005)**
 
 * **2001:** Anh hùng Lực lượng vũ trang nhân dân Thái Văn A (Đại tá, khi tuyên dương là Thượng sĩ, quan sát viên đảo Cồn Cỏ. Trong ba năm làm nhiệm vụ trên đảo, đã góp phần cùng đơn vị bắn rơi 20 máy bay Mỹ (riêng tổ trinh sát trực tiếp bắn rơi một chiếc) và xác định các vị trí có bom địch chưa nổ để công binh xử lý) từ trần.
+*   **02/02 - 06/02/2001:** Hàng ngàn người dân tộc thiểu số tại Gia Lai, Đắk Lắk tụ tập biểu tình khiếu kiện về đất đai và tự do tôn giáo do các phần tử FULRO lưu vong kích động, dẫn đến các biện pháp ổn định an ninh và tăng cường chính sách phát triển kinh tế - xã hội vùng Tây Nguyên.
 *   **01/03/2001:** Việt Nam và Liên bang Nga ký Tuyên bố chung về quan hệ Đối tác Chiến lược nhân chuyến thăm chính thức Việt Nam của Tổng thống Vladimir Putin. Đây là quốc gia đầu tiên Việt Nam thiết lập quan hệ Đối tác Chiến lược, mở đầu cho hệ thống các khuôn khổ đối tác chiến lược và đối tác chiến lược toàn diện trong thời kỳ đổi mới và hội nhập quốc tế.
 *   **10/04/2001:** Chủ tịch nước Trần Đức Lương ký quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân thời kỳ kháng chiến chống Mỹ cứu nước cho liệt sĩ Lê Thị Riêng.
 *   **19 - 22/04/2001:** Đại hội IX của Đảng, lần đầu khẳng định mô hình kinh tế thị trường định hướng XHCN.
@@ -2945,6 +2956,7 @@
 * **2004:** Anh hùng Lực lượng vũ trang nhân dân Lê Minh Hương (Thượng tướng Công an nhân dân Việt Nam, Ủy viên Trung ương Đảng khóa VII, VIII, IX, Ủy viên Bộ Chính trị khoá VIII, khoá IX, cố Bộ trưởng Bộ Công an, Đại biểu Quốc hội các khóa IX, X) từ trần.
 *   **10/01/2004:** Hội Nạn nhân Chất độc Da cam/Dioxin Việt Nam (VAVA) chính thức ra mắt, do Trung tướng Đặng Vũ Hiệp làm Chủ tịch và nguyên Phó Chủ tịch nước Nguyễn Thị Bình làm Chủ tịch danh dự.
 *   **30/01/2004:** Hội VAVA thay mặt các nạn nhân đệ đơn kiện 37 công ty hóa chất Hoa Kỳ đã sản xuất chất độc da cam/dioxin sử dụng trong chiến tranh tại Việt Nam lên tòa án liên bang Mỹ, nhằm đòi công lý và bồi thường cho hàng triệu nạn nhân.
+*   **10 - 11/04/2004:** Tái diễn các cuộc biểu tình gây rối quy mô lớn của người Thượng tại Đắk Lắk và Gia Lai vào dịp Lễ Phục sinh đòi đất đai và thành lập cái gọi là "Nhà nước Đề Ga".
 *   **02/09/2004:** Raymonde Dien và Henri Martin vinh dự được Nhà nước Việt Nam trao tặng Huân chương Hữu nghị vì những cống hiến không mệt mỏi cho hòa bình và sự ủng hộ kiên định dành cho Việt Nam.
 *   **16/12/2004:** Tạ Quốc Luật (1925 – 1985), người Đại đội trưởng chỉ huy tổ xung kích bắt sống Tướng De Castries tại Điện Biên Phủ, được Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân.
 * **16/12/2004:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hà Văn Nọa (Đại đội trưởng Đại đội 243, Tiểu đoàn 11, Trung đoàn 141, Đại đoàn 312. Trực tiếp chiến đấu trong trận Him Lam mở màn Chiến dịch Điện Biên Phủ. Hy sinh bên bờ sông Nậm Rốm trong trận tấn công đợt 2 Chiến dịch Điện Biên Phủ trưa ngày 2 tháng 4 năm 1954).
@@ -2976,6 +2988,7 @@
 *   **05/2007:** Đoàn cán bộ sưu tầm Bảo tàng Quân khu 4 đã sưu tầm chiếc xoong nhôm mà lính ngụy từng dùng để nấu gan của nữ anh hùng Lê Thị Tuyết năm 1968 làm kỷ vật trưng bày.
 *   **06/07/2007:** Thủ tướng Nguyễn Tấn Dũng và Thủ tướng Manmohan Singh ra Tuyên bố chung thiết lập quan hệ Đối tác Chiến lược Việt Nam - Ấn Độ nhân chuyến thăm chính thức Ấn Độ, tạo nền tảng vững chắc để hai nước nâng cấp lên Đối tác Chiến lược Toàn diện vào năm 2016.
 *   **16/10/2007:** Việt Nam lần đầu tiên trúng cử làm Ủy viên không thường trực Hội đồng Bảo an Liên Hợp Quốc (nhiệm kỳ 2008-2009) tại Khóa họp thứ 62 Đại hội đồng LHQ với 183/190 phiếu tán thành.
+*   **09 - 16/12/2007:** Hàng trăm thanh niên, sinh viên và nhân dân tại Hà Nội và TP. Hồ Chí Minh tuần hành biểu tình ôn hòa trước Đại sứ quán và Tổng Lãnh sự quán Trung Quốc phản đối Quốc vụ viện Trung Quốc phê chuẩn thành lập thành phố cấp huyện Tam Sa để quản lý hai quần đảo Hoàng Sa và Trường Sa của Việt Nam.
 * **2008:** Anh hùng Lực lượng vũ trang nhân dân Lưu Viết Thoảng (Đại tá, khi tuyên dương là Chính trị viên phó Đại đội thuộc Đoàn 151, Cục Công binh. Chỉ huy đào đường hầm đưa khối thuốc nổ ngàn cân vào lòng đồi A1 trong chiến dịch Điện Biên Phủ) từ trần.
 * **2008:** Anh hùng Lực lượng vũ trang nhân dân Lê Văn Vĩnh (Đại tá, Cụm trưởng Cụm H67 thuộc Phòng Tình báo B2) từ trần.
 * **2008:** Anh hùng Lực lượng vũ trang nhân dân Trần Công An (Đại tá công binh) từ trần.
@@ -3026,6 +3039,7 @@
 *   **12 - 19/01/2011:** Đại hội XI của Đảng, thông qua Cương lĩnh (bổ sung, phát triển 2011).
 *   **14/02/2011:** Cụm từ "ngoại giao văn hóa" lần đầu được đưa vào văn kiện Đảng.
 *   **22/05/2011:** Bầu cử Quốc hội khóa XIII.
+*   **05/06/2011:** Hàng ngàn người dân tuần hành biểu tình tại Hà Nội và TP. Hồ Chí Minh phản đối tàu hải giám Trung Quốc xâm phạm vùng đặc quyền kinh tế của Việt Nam và cắt cáp tàu thăm dò địa chấn Bình Minh 02 của Tập đoàn Dầu khí Việt Nam.
 *   **27/06/2011:** Thành nhà Hồ được công nhận là Di sản Văn hóa Thế giới.
 *   **14/10/2011:** Dịch bệnh tay chân miệng lan rộng 63 tỉnh, thành.
 *   **11/2011:** Dự thảo Luật Biểu tình được đưa ra thảo luận tại Quốc hội.
@@ -3069,6 +3083,7 @@
 * **2014:** Anh hùng Lực lượng vũ trang nhân dân Phan Hoan (Trung tướng, Tư lệnh Quân Khu 5) từ trần.
 *   **18/03/2014:** Chủ tịch nước Trương Tấn Sang thăm cấp Nhà nước tới Nhật Bản. Chủ tịch nước Trương Tấn Sang và Thủ tướng Shinzo Abe đã ký Tuyên bố chung nâng cấp quan hệ lên "Đối tác Chiến lược Sâu rộng vì Hòa bình và Phồn vinh ở châu Á", tạo bước ngoặt chiến lược tiến tới Đối tác Chiến lược Toàn diện.
 *   **02/05/2014:** Trung Quốc hạ đặt giàn khoan Hải Dương 981 trong vùng đặc quyền kinh tế của Việt Nam.
+*   **11/05/2014:** Hàng vạn người dân tại Hà Nội, TP. Hồ Chí Minh, Đà Nẵng và nhiều tỉnh thành đồng loạt xuống đường tuần hành ôn hòa phản đối Trung Quốc hạ đặt trái phép giàn khoan Hải Dương 981 trong vùng đặc quyền kinh tế và thềm lục địa của Việt Nam.
 *   **14/05/2014:** Châu bản triều Nguyễn được UNESCO công nhận là Di sản Tư liệu Thế giới.
 *   **27/05/2014:** Bộ Quốc phòng thành lập Trung tâm Gìn giữ hòa bình Việt Nam và chính thức cử 2 sĩ quan đầu tiên đi làm nhiệm vụ tại Phái bộ Gìn giữ hòa bình Liên Hợp Quốc tại Nam Sudan (UNMISS), đánh dấu bước khởi đầu tham gia hoạt động gìn giữ hòa bình Liên Hợp Quốc.
 *   **23/06/2014:** Quần thể danh thắng Tràng An được UNESCO công nhận là di sản.
@@ -3113,6 +3128,7 @@
 * **27/01/2016:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phan Văn Lai (Thiếu tướng, nguyên Chánh Thanh tra Bộ Công an, nguyên Phó Tổng cục trưởng Tổng cục Xây dựng lực lượng).
 *   **04/02/2016:** Việt Nam ký kết Hiệp định Đối tác xuyên Thái Bình Dương (TPP).
 *   **06/04/2016:** Bắt đầu sự cố môi trường biển do Formosa gây ra tại 4 tỉnh miền Trung.
+*   **01 - 08/05/2016:** Hàng ngàn người dân tại TP. Hồ Chí Minh, Hà Nội, Nghệ An, Hà Tĩnh và Quảng Bình tuần hành biểu tình yêu cầu làm rõ nguyên nhân thảm họa môi trường cá chết hàng loạt và xử lý nghiêm trách nhiệm của Công ty TNHH Gang thép Hưng Nghiệp Formosa Hà Tĩnh.
 *   **19/05/2016:** Thơ văn trên kiến trúc cung đình Huế được UNESCO công nhận là Di sản Tư liệu Thế giới.
 *   **22/05/2016:** Bầu cử Quốc hội khóa XIV.
 *   **23/05/2016:** Trong chuyến thăm chính thức Việt Nam, Tổng thống Hoa Kỳ Barack Obama tuyên bố **dỡ bỏ hoàn toàn lệnh cấm vận vũ khí sát thương** đối với Việt Nam, chính thức xóa bỏ rào cản cấm vận cuối cùng từ thời Chiến tranh Lạnh.
@@ -3154,6 +3170,7 @@
 *   **08/03/2018:** Ký kết Hiệp định CPTPP (thay thế TPP).
 *   **15/03/2018:** Thủ tướng Nguyễn Xuân Phúc thăm chính thức Australia theo lời mời của Thủ tướng Malcolm Turnbull. Hai bên ký Tuyên bố chung chính thức nâng cấp quan hệ lên Đối tác Chiến lược, tạo tiền đề để hai nước tiến tới Đối tác Chiến lược Toàn diện vào năm 2024.
 *   **15/04/2018:** Thành Đoàn và gia đình tổ chức Lễ cải táng hài cốt Anh hùng liệt sĩ Nguyễn Văn Trỗi từ Nghĩa trang Văn Giáp (Quận 2) về an nghỉ tại Nghĩa trang Liệt sĩ TP. Hồ Chí Minh (Quận 9), bên cạnh các liệt sĩ tiêu biểu như Trần Văn Ơn, Trần Bội Cơ, Quách Thị Trang.
+*   **10/06/2018:** Làn sóng biểu tình quy mô lớn bùng nổ tại TP. Hồ Chí Minh, Bình Thuận (Phan Thiết, Phan Rí), Hà Nội, Đà Nẵng, Nha Trang... phản đối dự thảo Luật Đơn vị hành chính - kinh tế đặc biệt (dự luật Đặc khu) và Luật An ninh mạng, dẫn đến việc Quốc hội quyết định lùi thời gian xem xét thông qua dự luật Đặc khu.
 * **30/08/2018:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Mạnh Hùng (Đại tá, nguyên Lữ đoàn trưởng Lữ đoàn Đặc công 198. Tham gia chiến đấu lập nhiều thành tích trong các chiến dịch Tây Nguyên, chiến dịch Hồ Chí Minh).
 *   **01/10/2018:** Việt Nam tổ chức Lễ xuất quân Bệnh viện dã chiến cấp 2 số 1 gồm 63 cán bộ, chiến sĩ và nhân viên y tế lên đường làm nhiệm vụ tại Phái bộ Gìn giữ hòa bình Liên Hợp Quốc tại Nam Sudan (UNMISS), đánh dấu lần đầu tiên triển khai một đơn vị độc lập tham gia lực lượng mũ nồi xanh.
 *   **2019:** Họa sĩ Mai Đại Lưu có chuyến đi thực tế đến trường mầm non vùng cao ở Hà Giang, qua đường Thanh Niên và trận địa Vị Xuyên, lấy cảm hứng thai nghén dự án hội họa "Hoa đêm - Tỉnh giấc bình minh" tri ân các anh hùng liệt sĩ.

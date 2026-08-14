@@ -1301,7 +1301,7 @@
 *   **1908:** The poem *Thiet tien ca* (Iron Money Song) by Nguyen Phan Lang was circulated, calling for a boycott of French iron coins, causing significant economic disruption for the colonial administration.
 *   **1908:** The colonial administration brutally suppressed the Duy Tan movement. Dr. **Tran Qui Cap** was executed in Khanh Hoa; **Le Khiet** and **Nguyen Ba Loan** were executed in Quang Ngai. **Phan Chau Trinh** was arrested, sentenced to death, but later commuted to exile in Con Dao.
 *   **Jan. 1908:** The French colonial administration revoked the license of Dong Kinh Nghia Thuc due to fears of its growing influence.
-*   **Early 1908:** The "Xin xau" (anti-tax) movement originated in **Dai Loc district** (Quang Nam) due to excessive corvée labor demands and rapidly spread throughout Central Vietnam (Quang Ngai, Binh Dinh, Phu Yen, etc.).
+*   **11/03/1908:** The anti-corvée and tax resistance movement ("Xin Xau") erupted when thousands of peasants from Dai Loc district (Quang Nam) marched to the French Residency in Hoi An demanding reductions in taxes and forced labor, sparking a massive wave of anti-tax demonstrations across Central Vietnam (Quang Nam, Quang Ngai, Binh Dinh, Thua Thien, Phu Yen...).
 *   **Jun. 27, 1908:** The "Hanoi Poisoning Plot" broke out, in which a group of Vietnamese soldiers and patriots attempted to poison French soldiers in Hanoi and launch an uprising, but it failed.
 *   **Sep. 1908:** France and Japan signed a treaty, under which the Japanese government expelled Vietnamese patriots and students, leading to the collapse of the Dong Du Movement.
 *   **Dec. 1908:** The French colonialists ordered the closure of the Dong Kinh Nghia Thuc school and suppressed its participants.
@@ -1411,7 +1411,8 @@
 *   **Dec. 24, 1925:** Governor-General Varenne signed an order "pardoning" and placing Phan Boi Chau under house arrest in Hue.
 *   **Mar. 21, 1926:** The Jeune Annam (Youth Party) was established.
 *   **Mar. 24, 1926:** Phan Chau Trinh passed away in Saigon.
-*   **Apr. 4, 1926:** The funeral of Phan Chau Trinh was held solemnly in Saigon with the participation of about 140,000 people, turning into a mass demonstration.
+*   **Mar. 24, 1926:** Patriotic journalist and activist Nguyen An Ninh was arrested by French colonial authorities in Saigon, triggering a wave of student strikes, rallies, and demonstrations across Southern Vietnam demanding his release.
+*   **Apr. 4, 1926:** The funeral of patriot Phan Chu Trinh was solemnly held in Saigon with the participation of over 140,000 people, turning into a massive political demonstration and show of national solidarity that sparked nationwide student strikes and memorial services across Vietnam.
 *   **Sep. 4, 1926:** A decree established the People's Agricultural Credit Banks in Tonkin.
 *   **Oct. 1926:** Phung Chi Kien and several members of the Vietnamese Revolutionary Youth League were sent to Guangzhou (China) to attend the first revolutionary training course organized by Nguyen Ai Quoc, subsequently enrolling in the Whampoa Military Academy.
 *   **Nov. 12, 1926:** The Indochinese Labor Party was founded in Saigon.
@@ -1447,6 +1448,7 @@
 *   **Early 1930s:** A land ownership survey by Yves Henry revealed severe polarization under French colonialism. Public land accounted for only 21% in Tonkin, 25% in Annam, and 3% in Cochinchina. For private land, 94.8% of landowners held less than 5 hectares (accounting for 28.5% of total land), while 0.30% of landowners held over 50 hectares (accounting for 31.5% of total private land).
 *   **Feb. 10, 1930:** The Yen Bai Uprising, led by the Vietnamese Nationalist Party, broke out but was quickly defeated.
 *   **Mar. 9, 1930:** The first flight connecting Paris and Saigon was completed, marking the development of air transportation.
+*   **Mar. 25, 1930:** Over 4,000 workers at the Nam Dinh Textile Mill went on strike and staged demonstrations demanding wage increases, reduced working hours, and an end to mistreatment; the 21-day strike with widespread local public support marked the start of the 1930 labor movement in Northern Vietnam.
 *   **Apr. 13, 1930:** The Governor-General of Indochina dispatched the dispatch boat *La Malicieuse* to the Spratly Islands, where the crew raised the French flag on a high point.
 *   **May 1, 1930:** For the first time, widespread struggles of workers and peasants broke out across the country to celebrate International Workers' Day, marking the beginning of the 1930-1931 revolutionary high tide.
 *   **May 31, 1930:** The French government issued a decree confirming the gold standard for the Indochinese piaster, ending the silver standard.
@@ -1456,6 +1458,7 @@
 *   **Sep. 12, 1930:** French planes bombed a demonstration of peasants in Hung Nguyen (Nghe An), killing 171 people, a peak event in the Nghe-Tinh Soviets movement.
 *   **Sep. 23, 1930:** The French government issued a communiqué informing other powers of the French occupation of the Spratly Islands.
 *   **Oct. 14-31, 1930:** The First Conference of the Party Central Committee was held in Hong Kong (China), approving the Political Theses and changing the Party's name to the Indochinese Communist Party. Comrade Tran Phu was elected General Secretary.
+*   **Oct. 14, 1930:** Thousands of peasants in Tien Hai district (Thai Binh) held hammer-and-sickle flags and demonstrated at the district office, demanding tax cuts, public land redistribution, and protesting colonial crackdowns against the Nghe-Tinh Soviet movement.
 
 ### **Period of Economic Crisis and Struggle to Restore Forces (1931 - 1935)**
 
@@ -1591,6 +1594,7 @@
 *   **Aug. 13, 1945:** The National Uprising Committee issued "Military Order No. 1."
 *   **Aug. 14, 1945:** The United National Front (Mat tran Quoc gia Thong nhat) was established in Southern Vietnam, comprised of various nationalist parties and religious groups like Cao Dai and Hoa Hao.
 *   **Aug. 16-17, 1945:** The National People's Congress met in Tan Trao, endorsed the policy of a General Uprising, and elected the Vietnam National Liberation Committee (i.e., the Provisional Government) with Ho Chi Minh as Chairman.
+*   **Aug. 17, 1945:** A rally organized by the Civil Servants' Association at the Hanoi Opera House Square was transformed by Viet Minh forces and the masses into a massive pro-revolutionary demonstration with red flags with gold stars hoisted across the city streets, directly laying the groundwork for the August 19 Uprising in Hanoi.
 *   **Aug. 19, 1945:** The General Uprising succeeded in Hanoi (August Revolution).
 *   **Aug. 23, 1945:** The uprising succeeded in Hue.
 *   **Aug. 24, 1945:** Huynh Tan Phat designed and directed the construction of the Monumental Flagpole at the Nguyen Hue - Le Loi intersection (Saigon) to honor the Provisional Committee of Nam Bo.
@@ -2121,6 +2125,7 @@
 *   **Aug. 5, 1964:** The US Air Force bombed and strafed several places in the North for the first time (Operation Pierce Arrow). The army and people of the North fought back fiercely, shooting down 8 US aircraft and capturing pilot Everett Alvarez, the first US prisoner of war in North Vietnam.
 *   **Aug. 7 - 11, 1964:** Following the Gulf of Tonkin Incident, over 20 million people across various regions of China took to the streets in massive rallies to support Vietnam and condemn US imperialist aggression.
 *   **Aug. 10, 1964:** Nguyễn Văn Trỗi was sentenced to death by the Saigon Military Court under Nguyễn Khánh's regime, declaring boldly at court: "I killed those who stole my country" and "I only regret that I have not yet killed McNamara."
+*   **Aug. 21 - 27, 1964:** A massive wave of demonstrations by hundreds of thousands of students, Buddhists, and citizens erupted in Saigon, Hue, and Da Nang besieging the US Embassy and Prime Minister's Office to oppose General Nguyen Khanh's "Vung Tau Charter" establishing military dictatorship, forcing Khanh to repeal the charter and step down as head of state.
 *   **Sep. 5, 1964:** Vu Chong Lau (Vu A Dinh's father) was posthumously recognized as a martyr.
 *   **Sep. 20, 1964:** The United Front for the Liberation of Oppressed Races (FULRO) was founded in Camp Le Rolland (Cambodia), uniting ethnic minority movements.
 *   **Oct. 9, 1964:** Venezuelan guerrillas (Caracas commando) kidnapped US military attaché Lieutenant Colonel Michael Smolen in Caracas to demand the release of Nguyễn Văn Trỗi, creating international pressure that temporarily suspended his execution until Smolen was released, after which US and Saigon authorities reneged on their promise.
@@ -2213,6 +2218,7 @@
 * **08/02/1966:** Martyr Nguyen Van Quang (Deputy Squad Leader, 2nd Company, 303rd Battalion, Southwestern Main Force) heroically sacrificed his life in a counter-sweep battle at Co Tuat canal.
 *   **Feb. 9, 1966:** The Party Committee and the Command of the Saigon - Gia Dinh Military Zone directed the establishment of an "Anti-American Belt" surrounding the Dong Du base (Cu Chi).
 *   **Mar. 9 - 10, 1966:** The Battle of A Shau (Trận A Sầu) took place at the A Shau Special Forces Camp in the A Shau Valley (Thua Thien province). Established by the US to interdict the Ho Chi Minh Trail, the camp was defended by US Special Forces and Civilian Irregular Defense Group (CIDG) personnel. Following intense artillery bombardments and infantry assaults by the Liberation Army, combined with severe weather conditions that limited air support, the camp was overrun. US and allied forces suffered heavy casualties and were forced to evacuate on March 10, allowing the Liberation Army to secure a crucial strategic point on the supply route.
+*   **Mar. 10 - Jun. 19, 1966:** The "Central Vietnam Crisis" erupted as hundreds of thousands of citizens, Buddhist monastics, students, and ARVN I Corps soldiers in Da Nang and Hue took to the streets to protest the military junta of Nguyen Cao Ky and Nguyen Van Thieu and US intervention. The movement peaked in early June 1966 with the "Buddhist Altars in the Streets" campaign halting military vehicles and riot police.
 * **28/05/1966:** Martyr Nguyen Van Lich (Scout Squad Leader of the Di An District Local Forces) though heavily wounded bravely used grenades to destroy enemy troops and heroically sacrificed his life.
 * **28/05/1966:** Martyr Nguyen Van Lich (Scout Squad Leader of the Di An District Local Forces) though heavily wounded bravely used grenades to destroy enemy troops and heroically sacrificed his life.
 * **26/06/1966:** Martyr Dong Phuoc Huyen (Squad Leader, 72nd Local Battalion of Quang Nam Province) heroically sacrificed his life during a counter-sweep battle in Quang Nam.
@@ -2436,6 +2442,7 @@
 * **1970:** Hero of the People's Armed Forces Nguyễn Văn Y (Quyền Trưởng ban An ninh Khu 8 (Trung Nam Bộ); Trưởng ty An ninh tỉnh Mỹ Tho (Tiền Giang), tỉnh Long Châu Sa) passed away.
 * **10/02/1970:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Nguyễn Văn Hùng (Chiến sĩ đặc công thủy Quân khu Sài Gòn - Gia Định, Trung Đội Phó đội Công binh LLVT Sài Gòn - Gia Định, chiến sĩ nòng cốt trong nhiệm vụ đánh sập các cây cầu huyết mạch của miền Đông Nam Bộ bao gồm: Ông Nhiêu (Thủ Đức), Chẹt Sậy (Lương Quới),Giồng Quéo (Bình Chánh), Bến Lức (Long An),,).
 *   **Mar. 6, 1970:** The Politburo issued a resolution on the campaign to improve the quality of Party members and recruit new members (Ho Chi Minh Class).
+*   **Mar. 10, 1970:** Following the arrest of Saigon Student Union President Huynh Tan Mam, urban student movements across Southern Vietnam erupted in campus strikes, street demonstrations, hunger strikes, and the anti-war musical movement "Sing for My Compatriots," demanding university autonomy, release of student detainees, and an end to the war.
 *   **Mar. 12, 1970:** Cambodian Prime Minister Lon Nol closed the Sihanoukville port to North Vietnamese shipments and issued a 72-hour ultimatum for all Vietnamese forces to leave Cambodia.
 *   **Mar. 18, 1970:** General Lon Nol, backed by the US, staged a coup to overthrow the neutral government of Prince Norodom Sihanouk in Cambodia, officially dragging Cambodia into the Second Indochina War.
 *   **Apr. 1970:** **Battle of Bau Sen.** Bui Van Thuyen and two comrades (Son and Muoi Quang) formed a three-man cell to engage US troops. Severely wounded with his intestines exposed, Thuyen regained consciousness, pushed his intestines back in, bandaged himself, and managed to kill 3 advancing US soldiers with an M79 grenade launcher before using the weapon as a crutch to return to his unit.
@@ -2448,6 +2455,7 @@
 *   **Aug. 25, 1970:** Dinh Thi Van was awarded the noble title of Hero of the People's Armed Forces for her outstanding contributions to Vietnam's military intelligence. Tran Huu Bao also received this title for his exceptional combat achievements during the defense of Hill 595.
 * **25/08/1970:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lê Hải (Đại úy, Đại đội trưởng Trung đoàn Không quân 923, phi công cấp Ace của Không quân nhân dân Việt Nam, bắn rơi 6 máy bay Mỹ. Sau này là Đại tá, Sư đoàn trưởng Sư đoàn Không quân 372).
 * **25/08/1970:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Hoàng Văn Cón (from Cao Bằng).
+*   **Aug. 30, 1970:** The Women's Movement for the Right to Live (led by Lawyer Ngo Ba Thanh) along with the People's Committee for the Right to Live and labor unions staged major demonstrations in Saigon protesting tax increases, soaring inflation, demanding the withdrawal of US troops and the restoration of peace.
 *   **1971:** Nguyen Thi Binh, Head of the negotiating delegation of the Provisional Revolutionary Government of the Republic of South Vietnam at the Paris Conference, visited Iraq and was welcomed with great honor by the Iraqi government and people.
 *   **1971:** Georges Boudarel published the influential book "Tradition and Revolution in Vietnam" (Truyền thống và cách mạng ở Việt Nam).
 * **1971:** Hero of the People's Armed Forces Lê Văn Thế (Huyện đội trưởng huyện Củ Chi, tỉnh Gia Định) passed away.
@@ -2466,6 +2474,7 @@
 * **20/09/1971:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Hữu Trí (Trưởng phòng Tình báo chiến lược miền (J22), Nguyên Phó chỉ huy trưởng Bộ Chỉ huy quân sự Thành phố Hồ Chí Minh).
 * **20/09/1971:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Phùng Quang Thanh (Trung đội trưởng Đại đội 9, Tiểu đoàn 64, Trung đoàn 64, Sư đoàn 320 Đồng Bằng, lập thành tích trong Chiến dịch Đường 9 - Nam Lào. Sau là Đại tướng, Bộ trưởng Bộ Quốc phòng).
 * **01/10/1971:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Hà Văn Vấn (Lái xe đường Trường Sơn).
+*   **Oct. 3, 1971:** Fierce demonstrations erupted in the streets of Saigon, Hue, Da Nang, and Quy Nhon protesting Nguyen Van Thieu's one-candidate "one-man race" presidential election; protesters burned US military vehicles and clashed with riot police.
 *   **Dec. 1971:** The 3rd Congress of the Vietnam Fatherland Front was held in Hanoi.
 *   **Dec. 20, 1971:** At the Congress of Heroes of the People's Armed Forces organized by the Mien Command, Bui Van Thuyen was officially awarded the title Hero of the People's Armed Forces by the Provisional Revolutionary Government of the Republic of South Vietnam for his exceptional bravery, creativity, and combat achievements.
 * **1972:** Hero of the People's Armed Forces Nguyễn Văn Ty (Đại đội trưởng bộ binh thuộc Trung đoàn 88, Đại đoàn 308, tham gia trận Điện Biên Phủ) passed away.
@@ -2861,6 +2870,7 @@
 *   **1997:** The remains of martyr Nguyen Huu Que, who fell defending Hill 815 in 1979, were successfully located in Coc Cang (Tra Linh, Cao Bang) by his family and repatriated to Thanh Hoa.
 * **1997:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Lê Độ (Chiến sĩ biệt động thành phố Đà Nẵng).
 * **1997:** Hero of the People's Armed Forces Trần Hải Phụng (Hai Phụng) (Thiếu tướng, nguyên Tư lệnh Quân khu Sài Gòn – Gia Định, Phó Tư lệnh Quân khu 7. Phó Trưởng đoàn chuyên gia 385 đặc trách về công tác phòng thủ đô thị cho Cuba) passed away.
+*   **May - Nov. 1997:** The Thai Binh peasant unrest erupted as thousands of rural citizens across multiple districts (Quynh Phu, Thai Thuy, Tien Hai, Hung Ha, Dong Hung) gathered to petition and demonstrate against grassroots corruption, excessive taxation, and land mismanagement, directly prompting the Politburo to issue Directive 30-CT/TW on establishing Grassroots Democracy Regulations.
 *   **Jul. 1, 1997:** The Law on Cooperatives took effect, creating a legal basis for transforming agricultural cooperatives into new-style service models serving the household economy.
 *   **July 23, 1997:** Martyr Le Thi Tuyet (Quang Tri) was posthumously awarded the title Hero of the People's Armed Forces by the State.
 * **23/07/1997:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Hoàng Lê Kha (Ủy viên thường vụ Tỉnh ủy Tây Ninh, bị hành quyết bằng máy chém dưới thời Ngô Đình Diệm).
@@ -2912,6 +2922,7 @@
 ### **Period of BTA Integration and Overcoming the SARS Challenge (2001 - 2005)**
 
 * **2001:** Hero of the People's Armed Forces Thái Văn A (Đại tá, khi tuyên dương là Thượng sĩ, quan sát viên đảo Cồn Cỏ. Trong ba năm làm nhiệm vụ trên đảo, đã góp phần cùng đơn vị bắn rơi 20 máy bay Mỹ (riêng tổ trinh sát trực tiếp bắn rơi một chiếc) và xác định các vị trí có bom địch chưa nổ để công binh xử lý) passed away.
+*   **Feb. 2 - 6, 2001:** Thousands of ethnic minorities in Gia Lai and Dak Lak gathered to demonstrate and petition regarding land rights and religious freedom incited by exiled FULRO elements, prompting government security measures and accelerated socio-economic development policies for the Central Highlands.
 *   **Mar. 1, 2001:** Vietnam and the Russian Federation signed a Joint Statement on the Strategic Partnership during the official visit of President Vladimir Putin to Vietnam. Russia became the first country with which Vietnam established a Strategic Partnership, inaugurating the system of strategic and comprehensive strategic partnerships in the era of Doi Moi and international integration.
 *   **Apr. 10, 2001:** President Tran Duc Luong signed a decision posthumously awarding the title of Hero of the People's Armed Forces to the martyr Le Thi Rieng.
 *   **Apr. 19 - 22, 2001:** The 9th National Congress of the Party, for the first time, affirmed the model of a socialist-oriented market economy.
@@ -2945,6 +2956,7 @@
 * **2004:** Hero of the People's Armed Forces Lê Minh Hương (Thượng tướng Công an nhân dân Việt Nam, Ủy viên Trung ương Đảng khóa VII, VIII, IX, Ủy viên Bộ Chính trị khoá VIII, khoá IX, cố Bộ trưởng Bộ Công an, Đại biểu Quốc hội các khóa IX, X) passed away.
 *   **Jan. 10, 2004:** The Vietnam Association of Victims of Agent Orange/Dioxin (VAVA) was officially established, with Lieutenant General Dang Vu Hiep as President and former Vice President Nguyen Thi Binh as Honorary President.
 *   **Jan. 30, 2004:** VAVA filed a landmark class-action lawsuit in a US federal court against 37 US chemical companies for producing the toxic defoliants, including Agent Orange, used during the Vietnam War, seeking justice and compensation for millions of Vietnamese victims.
+*   **Apr. 10 - 11, 2004:** Large-scale unrest and demonstrations by Montagnards resurfaced in Dak Lak and Gia Lai during Easter weekend demanding land rights and the establishment of a self-styled "Degar State."
 *   **Sep. 2, 2004:** Raymonde Dien and Henri Martin were awarded the Friendship Order by the Vietnamese State for their lifelong dedication to peace and their unwavering support for Vietnam.
 *   **Dec. 16, 2004:** Ta Quoc Luat (1925 – 1985), the company captain who led the assault squad capturing General De Castries at Dien Bien Phu, was posthumously conferred the title Hero of the People's Armed Forces by the State President.
 * **16/12/2004:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Hà Văn Nọa (Đại đội trưởng Đại đội 243, Tiểu đoàn 11, Trung đoàn 141, Đại đoàn 312. Trực tiếp chiến đấu trong trận Him Lam mở màn Chiến dịch Điện Biên Phủ. Hy sinh bên bờ sông Nậm Rốm trong trận tấn công đợt 2 Chiến dịch Điện Biên Phủ trưa ngày 2 tháng 4 năm 1954).
@@ -2976,6 +2988,7 @@
 *   **May 2007:** The Military Region 4 Museum collected the aluminum pot used by enemy soldiers to cook the liver of heroine Le Thi Tuyet in 1968. It became a historical artifact displayed to commemorate her sacrifice.
 *   **Jul. 6, 2007:** Prime Minister Nguyen Tan Dung and Prime Minister Manmohan Singh issued a Joint Statement establishing the Vietnam - India Strategic Partnership during the official visit to India, laying a solid foundation for upgrading to a Comprehensive Strategic Partnership in 2016.
 *   **Oct. 16, 2007:** Vietnam was elected for the first time as a non-permanent member of the UN Security Council (2008-2009 term) at the 62nd UN General Assembly session with 183 out of 190 votes in favor.
+*   **Dec. 9 - 16, 2007:** Hundreds of youth, students, and citizens in Hanoi and Ho Chi Minh City staged peaceful demonstrations in front of the Chinese Embassy and Consulate protesting China's State Council approval of the county-level Sansha city to administer Vietnam's Paracel and Spratly archipelagos.
 * **2008:** Hero of the People's Armed Forces Lưu Viết Thoảng (Đại tá, khi tuyên dương là Chính trị viên phó Đại đội thuộc Đoàn 151, Cục Công binh. Chỉ huy đào đường hầm đưa khối thuốc nổ ngàn cân vào lòng đồi A1 trong chiến dịch Điện Biên Phủ) passed away.
 * **2008:** Hero of the People's Armed Forces Lê Văn Vĩnh (Đại tá, Cụm trưởng Cụm H67 thuộc Phòng Tình báo B2) passed away.
 * **2008:** Hero of the People's Armed Forces Trần Công An (Đại tá công binh) passed away.
@@ -3026,6 +3039,7 @@
 *   **Jan. 12 - 19, 2011:** The 11th National Congress of the Party, adopted the Platform (supplemented and developed in 2011).
 *   **Feb. 14, 2011:** The term "cultural diplomacy" was first included in Party documents.
 *   **May 22, 2011:** Election of the 13th National Assembly.
+*   **Jun. 5, 2011:** Thousands of citizens marched in demonstrations in Hanoi and Ho Chi Minh City protesting Chinese maritime surveillance vessels intruding into Vietnam's exclusive economic zone and severing seismic survey cables of PetroVietnam's Binh Minh 02 vessel.
 *   **Jun. 27, 2011:** The Ho Dynasty Citadel was recognized as a World Cultural Heritage Site.
 *   **Oct. 14, 2011:** The hand, foot, and mouth disease epidemic spread to 63 provinces and cities.
 *   **Nov. 2011:** The Draft Law on Demonstration was discussed at the National Assembly.
@@ -3069,6 +3083,7 @@
 * **2014:** Hero of the People's Armed Forces Phan Hoan (Trung tướng, Tư lệnh Quân Khu 5) passed away.
 *   **Mar. 18, 2014:** President Truong Tan Sang paid a state visit to Japan. President Truong Tan Sang and Prime Minister Shinzo Abe signed a Joint Statement upgrading relations to an "Extensive Strategic Partnership for Peace and Prosperity in Asia", creating a strategic milestone towards a Comprehensive Strategic Partnership.
 *   **May 2, 2014:** China deployed the Hai Duong 981 oil rig in Vietnam's exclusive economic zone.
+*   **May 11, 2014:** Tens of thousands of citizens in Hanoi, Ho Chi Minh City, Da Nang, and numerous provinces took to the streets in peaceful demonstrations protesting China's illegal deployment of the Haiyang Shiyou 981 oil rig within Vietnam's exclusive economic zone and continental shelf.
 *   **May 14, 2014:** The Nguyen Dynasty's imperial archives were recognized by UNESCO as a World Documentary Heritage.
 *   **May 27, 2014:** The Ministry of National Defence established the Vietnam Peacekeeping Centre and officially deployed the first two officers to the UN Peacekeeping Mission in South Sudan (UNMISS), marking Vietnam's initial participation in UN peacekeeping operations.
 *   **Jun. 23, 2014:** The Trang An Landscape Complex was recognized by UNESCO as a heritage.
@@ -3113,6 +3128,7 @@
 * **27/01/2016:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Phan Văn Lai (Thiếu tướng, nguyên Chánh Thanh tra Bộ Công an, nguyên Phó Tổng cục trưởng Tổng cục Xây dựng lực lượng).
 *   **Feb. 4, 2016:** Vietnam signed the Trans-Pacific Partnership (TPP) Agreement.
 *   **Apr. 6, 2016:** The marine environmental incident caused by Formosa began in 4 central provinces.
+*   **May 1 - 8, 2016:** Thousands of citizens in Ho Chi Minh City, Hanoi, Nghe An, Ha Tinh, and Quang Binh staged demonstrations demanding full transparency regarding the mass fish deaths environmental disaster and holding Formosa Ha Tinh Steel Corporation accountable.
 *   **May 19, 2016:** The poetry and literature inscribed on the architecture of the Hue imperial palace were recognized by UNESCO as a World Documentary Heritage.
 *   **May 22, 2016:** Election of the 14th National Assembly.
 *   **May 23, 2016:** During his official visit to Vietnam, US President Barack Obama announced the **full lifting of the lethal arms embargo** on Vietnam, officially removing the last remaining Cold War-era embargo barrier.
@@ -3154,6 +3170,7 @@
 *   **Mar. 8, 2018:** Signed the CPTPP Agreement (replacing the TPP).
 *   **Mar. 15, 2018:** Prime Minister Nguyen Xuan Phuc paid an official visit to Australia at the invitation of Prime Minister Malcolm Turnbull. Both sides signed a Joint Statement officially upgrading relations to a Strategic Partnership, paving the way for a Comprehensive Strategic Partnership in 2024.
 *   **Apr. 15, 2018:** The Ho Chi Minh City Youth Union and the family of Nguyễn Văn Trỗi organized the solemn reburial of his remains from Văn Giáp Cemetery (District 2) to the Ho Chi Minh City Martyrs' Cemetery (District 9), resting alongside notable heroic martyrs.
+*   **Jun. 10, 2018:** Large-scale demonstrations erupted across Ho Chi Minh City, Binh Thuan (Phan Thiet, Phan Ri), Hanoi, Da Nang, Nha Trang... protesting the draft Law on Special Administrative-Economic Units (Special Economic Zones bill) and the Cybersecurity Law, leading the National Assembly to postpone passing the SEZ bill.
 * **30/08/2018:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lê Mạnh Hùng (Đại tá, nguyên Lữ đoàn trưởng Lữ đoàn Đặc công 198. Tham gia chiến đấu lập nhiều thành tích trong các chiến dịch Tây Nguyên, chiến dịch Hồ Chí Minh).
 *   **Oct. 1, 2018:** Vietnam held a departure ceremony for the Level 2 Field Hospital No. 1 consisting of 63 military medical personnel to join the UN Peacekeeping Mission in South Sudan (UNMISS), marking the first deployment of an independent unit to UN peacekeeping operations.
 *   **2019:** Painter Mai Dai Luu visited the former Vi Xuyen battlefield (Ha Giang) and was inspired to begin the epic art project "Night Flowers - Waking up to Dawn" (Hoa đêm - Tỉnh giấc bình minh) to tribute the fallen soldiers of the border defense war.
