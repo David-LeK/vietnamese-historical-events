@@ -2908,6 +2908,7 @@
 ### **Thời kỳ Hội nhập BTA và Vượt qua Thử thách SARS (2001 - 2005)**
 
 * **2001:** Anh hùng Lực lượng vũ trang nhân dân Thái Văn A (Đại tá, khi tuyên dương là Thượng sĩ, quan sát viên đảo Cồn Cỏ. Trong ba năm làm nhiệm vụ trên đảo, đã góp phần cùng đơn vị bắn rơi 20 máy bay Mỹ (riêng tổ trinh sát trực tiếp bắn rơi một chiếc) và xác định các vị trí có bom địch chưa nổ để công binh xử lý) từ trần.
+*   **01/03/2001:** Việt Nam và Liên bang Nga ký Tuyên bố chung về quan hệ Đối tác Chiến lược nhân chuyến thăm chính thức Việt Nam của Tổng thống Vladimir Putin. Đây là quốc gia đầu tiên Việt Nam thiết lập quan hệ Đối tác Chiến lược, mở đầu cho hệ thống các khuôn khổ đối tác chiến lược và đối tác chiến lược toàn diện trong thời kỳ đổi mới và hội nhập quốc tế.
 *   **10/04/2001:** Chủ tịch nước Trần Đức Lương ký quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân thời kỳ kháng chiến chống Mỹ cứu nước cho liệt sĩ Lê Thị Riêng.
 *   **19 - 22/04/2001:** Đại hội IX của Đảng, lần đầu khẳng định mô hình kinh tế thị trường định hướng XHCN.
 *   **28/11/2001:** Quốc hội phê chuẩn Hiệp định Thương mại Việt Nam - Hoa Kỳ (BTA).
@@ -2969,6 +2970,7 @@
 *   **07/11/2006:** Việt Nam ký Nghị định thư gia nhập Tổ chức Thương mại Thế giới (WTO).
 *   **11/01/2007:** Việt Nam chính thức trở thành thành viên thứ 150 của WTO.
 *   **05/2007:** Đoàn cán bộ sưu tầm Bảo tàng Quân khu 4 đã sưu tầm chiếc xoong nhôm mà lính ngụy từng dùng để nấu gan của nữ anh hùng Lê Thị Tuyết năm 1968 làm kỷ vật trưng bày.
+*   **06/07/2007:** Thủ tướng Nguyễn Tấn Dũng và Thủ tướng Manmohan Singh ra Tuyên bố chung thiết lập quan hệ Đối tác Chiến lược Việt Nam - Ấn Độ nhân chuyến thăm chính thức Ấn Độ, tạo nền tảng vững chắc để hai nước nâng cấp lên Đối tác Chiến lược Toàn diện vào năm 2016.
 *   **16/10/2007:** Việt Nam lần đầu tiên trúng cử làm Ủy viên không thường trực Hội đồng Bảo an Liên Hợp Quốc (nhiệm kỳ 2008-2009) tại Khóa họp thứ 62 Đại hội đồng LHQ với 183/190 phiếu tán thành.
 * **2008:** Anh hùng Lực lượng vũ trang nhân dân Lưu Viết Thoảng (Đại tá, khi tuyên dương là Chính trị viên phó Đại đội thuộc Đoàn 151, Cục Công binh. Chỉ huy đào đường hầm đưa khối thuốc nổ ngàn cân vào lòng đồi A1 trong chiến dịch Điện Biên Phủ) từ trần.
 * **2008:** Anh hùng Lực lượng vũ trang nhân dân Lê Văn Vĩnh (Đại tá, Cụm trưởng Cụm H67 thuộc Phòng Tình báo B2) từ trần.
@@ -2979,7 +2981,7 @@
 * **2008:** Anh hùng Lực lượng vũ trang nhân dân Hoàng Minh Thảo (Thượng tướng, Giáo sư quân sự, nguyên Tư lệnh Mặt trận Tây Nguyên, nguyên Viện trưởng Học viện Quân sự Cấp cao) từ trần.
 * **2008:** Anh hùng Lực lượng vũ trang nhân dân Đặng Vũ Hiệp (Thượng tướng, nguyên Thứ trưởng Bộ Quốc phòng, nguyên Chủ nhiệm Chính trị, nguyên Chính ủy Mặt trận Tây Nguyên, nguyên Chính ủy Quân đoàn 3) từ trần.
 * **2008:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lâm Thị Phấn (Thiếu tá, nhà hoạt động tình báo xuất sắc tại miền Tây Nam Bộ, nguyên mẫu nhân vật Bạch Cúc trong bộ phim "Người đẹp Tây Đô").
-*   **05/2008:** Nâng cấp quan hệ Đối tác chiến lược toàn diện với Trung Quốc.
+*   **30/05 - 02/06/2008:** Tổng Bí thư Nông Đức Mạnh thăm hữu nghị chính thức Trung Quốc theo lời mời của Tổng Bí thư, Chủ tịch nước Trung Quốc Hồ Cẩm Đào. Hai bên ra Tuyên bố chung quyết định phát triển quan hệ lên Đối tác Hợp tác Chiến lược Toàn diện theo phương châm "16 chữ vàng" và tinh thần "4 tốt", đưa Trung Quốc trở thành quốc gia đầu tiên thiết lập khuôn khổ Đối tác chiến lược toàn diện với Việt Nam.
 *   **07/2008:** Việt Nam lần đầu tiên đảm nhiệm cương vị Chủ tịch luân phiên Hội đồng Bảo an Liên Hợp Quốc, chủ trì thành công nhiều phiên thảo luận quan trọng về an ninh và hòa bình thế giới.
 * **2009:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lâm Viết Hữu (Tham gia Chiến dịch Điện Biên Phủ).
 *   **07/05/2009:** Trung Quốc gửi công hàm lên Tổng Thư ký Liên Hợp Quốc, lần đầu tiên đính kèm bản đồ "đường 9 đoạn" để chính thức yêu sách chủ quyền phi lý trên Biển Đông. Ngày 08/05, Việt Nam, Malaysia và Indonesia đã lên tiếng phản đối yêu sách này.
@@ -3033,7 +3035,7 @@
 * **2012:** Anh hùng Lực lượng vũ trang nhân dân Bùi Quang Thận (Nguyên Đại đội trưởng Đại đội 4, Tiểu đoàn 2, Lữ đoàn Xe tăng 203, Quân đoàn 2. Chỉ huy xe tăng 843 tiến vào Dinh Độc Lập vào ngày 30 tháng 4 năm 1975, là người đầu tiên cắm cờ Mặt trận Dân tộc giải phóng miền Nam Việt Nam lên nóc Dinh Độc Lập) từ trần.
 *   **27/04/2012:** Chủ tịch nước ký Quyết định truy tặng danh hiệu cao quý Anh hùng Lực lượng vũ trang nhân dân cho liệt sĩ Đặng Thị Kim vì những cống hiến và sự hy sinh anh dũng tột cùng của bà.
 *   **21/06/2012:** Quốc hội thông qua Luật Biển Việt Nam.
-*   **07/2012:** Nâng cấp quan hệ Đối tác chiến lược toàn diện với Liên bang Nga.
+*   **27/07/2012:** Chủ tịch nước Trương Tấn Sang thăm chính thức Liên bang Nga theo lời mời của Tổng thống Vladimir Putin. Hai nguyên thủ đã ra Tuyên bố chung về việc tăng cường quan hệ Đối tác Chiến lược Toàn diện giữa Việt Nam và Liên bang Nga, đưa Nga trở thành quốc gia thứ hai thiết lập khuôn khổ Đối tác chiến lược toàn diện với Việt Nam.
 *   **06/12/2012:** Tín ngưỡng thờ cúng Hùng Vương được UNESCO công nhận là di sản.
 *   **2013:** Trung Quốc bắt đầu đẩy mạnh việc bồi đắp và xây dựng các đảo nhân tạo ở Trường Sa, biến những rạn san hô thành các căn cứ quân sự kiên cố để tăng cường sự hiện diện và kiểm soát.
 *   **2013:** Huỳnh Tấn Phát được Đảng và Nhà nước truy tặng Huân chương Sao Vàng vì những cống hiến vĩ đại cho cách mạng.
@@ -3045,6 +3047,7 @@
 *   **30/04/2013:** Tổ chức Kỷ lục Guinness Thế giới chính thức công nhận Hang Sơn Đoòng là hang động lớn nhất thế giới.
 *   **05/2013:** Kostas Sarantidis (Nguyễn Văn Lập) được Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng Vũ trang Nhân dân, trở thành người nước ngoài đầu tiên và duy nhất nhận được vinh dự cao quý này.
 * **23/05/2013:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Lập (Kostas Sarantidis) (Nguyên Chiến sĩ quốc tế, Trung đoàn 803, Trung đoàn 108, Liên khu 5; chiến sĩ người nước ngoài duy nhất được phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân).
+*   **25/07/2013:** Chủ tịch nước Trương Tấn Sang hội đàm với Tổng thống Barack Obama tại Nhà Trắng (Hoa Kỳ). Hai bên ra Tuyên bố chung chính thức xác lập quan hệ Đối tác Toàn diện Việt Nam - Hoa Kỳ, định hình khuôn khổ hợp tác sâu rộng trên 9 lĩnh vực then chốt và tạo tiền đề tiến tới Đối tác Chiến lược Toàn diện.
 *   **04/10/2013:** Đại tướng Võ Nguyên Giáp từ trần tại Bệnh viện Trung ương Quân đội 108, Hà Nội.
 * **30/10/2013:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Bùi Quang Thận (Nguyên Đại đội trưởng Đại đội 4, Tiểu đoàn 2, Lữ đoàn Xe tăng 203, Quân đoàn 2. Chỉ huy xe tăng 843 tiến vào Dinh Độc Lập vào ngày 30 tháng 4 năm 1975, là người đầu tiên cắm cờ Mặt trận Dân tộc giải phóng miền Nam Việt Nam lên nóc Dinh Độc Lập).
 * **30/10/2013:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Khuất Duy Tiến (Trung tướng, nguyên Tư lệnh Quân đoàn 3, Cục trưởng Cục Quân lực Bộ Tổng tham mưu, nguyên Trung đoàn trưởng Trung đoàn 64, Sư đoàn 320, Quân đoàn 3).
@@ -3060,6 +3063,7 @@
 *   **05/12/2013:** Nghệ thuật Đờn ca tài tử Nam Bộ được UNESCO công nhận là di sản.
 * **2014:** Anh hùng Lực lượng vũ trang nhân dân Hồ Văn Bé (Trung đội trưởng đặc công huyện Chợ Gạo. Sau là Đại tá, Phó Sư đoàn trưởng Sư đoàn 8, Quân khu 9) từ trần.
 * **2014:** Anh hùng Lực lượng vũ trang nhân dân Phan Hoan (Trung tướng, Tư lệnh Quân Khu 5) từ trần.
+*   **18/03/2014:** Chủ tịch nước Trương Tấn Sang thăm cấp Nhà nước tới Nhật Bản. Chủ tịch nước Trương Tấn Sang và Thủ tướng Shinzo Abe đã ký Tuyên bố chung nâng cấp quan hệ lên "Đối tác Chiến lược Sâu rộng vì Hòa bình và Phồn vinh ở châu Á", tạo bước ngoặt chiến lược tiến tới Đối tác Chiến lược Toàn diện.
 *   **02/05/2014:** Trung Quốc hạ đặt giàn khoan Hải Dương 981 trong vùng đặc quyền kinh tế của Việt Nam.
 *   **14/05/2014:** Châu bản triều Nguyễn được UNESCO công nhận là Di sản Tư liệu Thế giới.
 *   **27/05/2014:** Bộ Quốc phòng thành lập Trung tâm Gìn giữ hòa bình Việt Nam và chính thức cử 2 sĩ quan đầu tiên đi làm nhiệm vụ tại Phái bộ Gìn giữ hòa bình Liên Hợp Quốc tại Nam Sudan (UNMISS), đánh dấu bước khởi đầu tham gia hoạt động gìn giữ hòa bình Liên Hợp Quốc.
@@ -3111,7 +3115,7 @@
 *   **12/07/2016:** Tòa Trọng tài Thường trực (PCA) đưa ra phán quyết cuối cùng trong vụ kiện giữa Philippines và Trung Quốc, bác bỏ hoàn toàn yêu sách "đường 9 đoạn" và các quyền lịch sử vô căn cứ của Trung Quốc. Tòa phán quyết các thực thể ở quần đảo Trường Sa chỉ là "đảo đá", không tạo ra vùng đặc quyền kinh tế (EEZ). Trung Quốc tuyên bố không tuân thủ, trong khi Việt Nam và cộng đồng quốc tế ủng hộ phán quyết này.
 *   **08/08/2016:** Chính phủ thành lập Học viện Dân tộc.
 *   **22 - 26/08/2016:** Tổng Bí thư Nguyễn Phú Trọng lần đầu đề cập đến ý tưởng ngoại giao *cây tre* tại Hội nghị Ngoại giao lần thứ 29. Ông đã sử dụng hình ảnh cây tre để nói về sự kiên cường, mềm dẻo và linh hoạt trong chính sách đối ngoại của Việt Nam.
-*   **02 - 03/09/2016:** Ký tuyên bố chung nâng cấp quan hệ Đối tác chiến lược toàn diện với Ấn Độ.
+*   **03/09/2016:** Thủ tướng Ấn Độ Narendra Modi thăm chính thức Việt Nam theo lời mời của Thủ tướng Nguyễn Xuân Phúc. Hai bên ra Tuyên bố chung chính thức nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện, đưa Ấn Độ trở thành quốc gia thứ ba thiết lập khuôn khổ quan hệ ngoại giao cao nhất này với Việt Nam.
 *   **29/09/2016:** Lần đầu tiên Chính phủ ban hành Quyết định phê duyệt *Đề án thống kê, theo dõi và đánh giá biến động dân số các dân tộc thiểu số.*
 *   **30/10/2016:** Hội nghị lần thứ tư Ban Chấp hành Trung ương Đảng khóa XII ban hành Nghị quyết về tăng cường xây dựng, chỉnh đốn Đảng; ngăn chặn, đẩy lùi sự suy thoái về tư tưởng chính trị, đạo đức, lối sống.
 *   **29/11/2016:** Tại Lễ tưởng niệm lãnh tụ Fidel Castro ở thủ đô La Habana, Chủ tịch Quốc hội Nguyễn Thị Kim Ngân đã tái khẳng định tình đoàn kết chiến đấu kiên định trước sau như một của Việt Nam với nhân dân Cuba anh em.
@@ -3144,6 +3148,7 @@
 *   **27/02/2018:** Bộ Văn hóa - Thể thao và Du lịch ban hành công văn hạn chế đốt vàng mã tại các cơ sở thờ tự và lễ hội.
 *   **28/02/2018:** Bộ Giáo dục và Đào tạo ban hành Thông tư 04 sửa đổi quy chế thi THPT Quốc gia và xét công nhận tốt nghiệp.
 *   **08/03/2018:** Ký kết Hiệp định CPTPP (thay thế TPP).
+*   **15/03/2018:** Thủ tướng Nguyễn Xuân Phúc thăm chính thức Australia theo lời mời của Thủ tướng Malcolm Turnbull. Hai bên ký Tuyên bố chung chính thức nâng cấp quan hệ lên Đối tác Chiến lược, tạo tiền đề để hai nước tiến tới Đối tác Chiến lược Toàn diện vào năm 2024.
 *   **15/04/2018:** Thành Đoàn và gia đình tổ chức Lễ cải táng hài cốt Anh hùng liệt sĩ Nguyễn Văn Trỗi từ Nghĩa trang Văn Giáp (Quận 2) về an nghỉ tại Nghĩa trang Liệt sĩ TP. Hồ Chí Minh (Quận 9), bên cạnh các liệt sĩ tiêu biểu như Trần Văn Ơn, Trần Bội Cơ, Quách Thị Trang.
 * **30/08/2018:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Mạnh Hùng (Đại tá, nguyên Lữ đoàn trưởng Lữ đoàn Đặc công 198. Tham gia chiến đấu lập nhiều thành tích trong các chiến dịch Tây Nguyên, chiến dịch Hồ Chí Minh).
 *   **01/10/2018:** Việt Nam tổ chức Lễ xuất quân Bệnh viện dã chiến cấp 2 số 1 gồm 63 cán bộ, chiến sĩ và nhân viên y tế lên đường làm nhiệm vụ tại Phái bộ Gìn giữ hòa bình Liên Hợp Quốc tại Nam Sudan (UNMISS), đánh dấu lần đầu tiên triển khai một đơn vị độc lập tham gia lực lượng mũ nồi xanh.
@@ -3198,8 +3203,8 @@
 *   **02/08/2022:** Thể theo di nguyện của ông và gia đình, tro cốt của Kostas Sarantidis (Nguyễn Văn Lập) được đưa về Việt Nam và tổ chức an táng trọng thể tại Nghĩa trang Quân khu 5, thành phố Đà Nẵng, để ông được nằm cạnh những đồng đội năm xưa.
 *   **19/08/2022:** Raymonde Dien, người bạn lớn của nhân dân Việt Nam, biểu tượng của tinh thần chống cuộc chiến tranh phi nghĩa của thực dân Pháp ở Đông Dương, qua đời tại Pháp, hưởng thọ 93 tuổi.
 *   **11/10/2022:** Tại Khóa họp thứ 77 của Đại hội đồng Liên Hợp Quốc ở New York, Việt Nam được bầu làm thành viên Hội đồng Nhân quyền Liên Hợp Quốc (UNHRC) nhiệm kỳ 2023-2025.
-*   **12/2022:** Nâng cấp quan hệ Đối tác Chiến lược Toàn diện với Hàn Quốc.
 *   **01/12/2022:** Lễ hội Vía Bà Chúa Xứ núi Sam được UNESCO công nhận là di sản.
+*   **05/12/2022:** Chủ tịch nước Nguyễn Xuân Phúc thăm cấp Nhà nước tới Hàn Quốc theo lời mời của Tổng thống Yoon Suk Yeol nhân kỷ niệm 30 năm thiết lập quan hệ ngoại giao. Hai nguyên thủ đã ra Tuyên bố chung chính thức nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện, đưa Hàn Quốc trở thành Đối tác chiến lược toàn diện thứ 4 của Việt Nam.
 *   **30/12/2022:** GDP Việt Nam vượt mốc 400 tỷ USD.
 *   **2023 - 2024:** Diễn ra nhiều biến động nhân sự cấp cao (Chủ tịch nước, Chủ tịch Quốc hội) trong bối cảnh chống tham nhũng.
 * **2023:** Anh hùng Lực lượng vũ trang nhân dân Trần Đình Hùng (Trung đội trưởng pháo ĐKZ thuộc Trung đoàn 6, Đại đoàn 308. Tham gia chiến đấu trong Chiến dịch Điện Biên Phủ) từ trần.
@@ -3211,7 +3216,7 @@
 *   **11/06/2023:** Một nhóm đối tượng trang bị vũ khí đã tấn công trụ sở UBND hai xã Ea Tiêu và Ea Ktur (huyện Cư Kuin, Đắk Lắk), sát hại 9 người (gồm 4 công an, 1 Bí thư xã, 1 Chủ tịch xã và 3 người dân) và làm bị thương 2 người. Bộ Công an xác định đây là vụ khủng bố có tổ chức nhằm chống chính quyền nhân dân, do nhóm "Lính Đêga" thực hiện dưới sự chỉ đạo của các tổ chức phản động lưu vong (MSGI và MSFJ).
 *   **23/06/2023:** Cơ quan An ninh điều tra ra quyết định khởi tố vụ án "Khủng bố nhằm chống chính quyền nhân dân" tại Đắk Lắk, khởi tố 84 bị can về các tội danh liên quan.
 *   **24/07/2023:** Nhà văn Hoàng Phủ Ngọc Tường qua đời tại TP. Hồ Chí Minh, hưởng thọ 86 tuổi. Sinh năm 1937 tại Huế, ông là một cây bút giàu dấu ấn của văn học Việt Nam hiện đại, nổi tiếng với phong cách tài hoa, uyên bác qua các tác phẩm bút ký tiêu biểu như "Ai đã đặt tên cho dòng sông?".
-*   **10/09/2023:** Tổng thống Hoa Kỳ Joe Biden thăm Việt Nam, nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện.
+*   **10/09/2023:** Tổng thống Hoa Kỳ Joe Biden thăm cấp Nhà nước tới Việt Nam theo lời mời của Tổng Bí thư Nguyễn Phú Trọng. Hai nhà lãnh đạo đã hội đàm và thông qua Tuyên bố chung nâng cấp quan hệ Việt Nam - Hoa Kỳ lên Đối tác Chiến lược Toàn diện vì hòa bình, hợp tác và phát triển bền vững.
 *   **16/09/2023:** UNESCO đã công nhận Vịnh Hạ Long - Quần đảo Cát Bà là Di sản Thiên nhiên Thế giới liên tỉnh.
 * **17/10/2023:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Đặng Quân Thụy (Trung tướng, nguyên Chủ tịch Hội Cựu chiến binh Việt Nam, nguyên Phó Chủ tịch Quốc hội Việt Nam, nguyên Chủ nhiệm Ủy ban Quốc phòng và An ninh, nguyên Tư lệnh Quân khu 2).
 * **17/10/2023:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Đặng Kinh (Trung tướng, nguyên Tỉnh đội trưởng Tỉnh đội Kiến An, nguyên Tư lệnh Quân khu 3, nguyên Phó Tổng tham mưu trưởng).
@@ -3220,27 +3225,31 @@
 * **17/10/2023:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Đặng Vũ Hiệp (Thượng tướng, nguyên Thứ trưởng Bộ Quốc phòng, nguyên Chủ nhiệm Chính trị, nguyên Chính ủy Mặt trận Tây Nguyên, nguyên Chính ủy Quân đoàn 3).
 * **17/10/2023:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Bùi Văn Tùng (Đại tá, nguyên Chính ủy Lữ đoàn xe tăng 203, Quân đoàn 2. Người đã thảo lời đầu hàng không điều kiện cho ông Dương Văn Minh - Tổng thống cuối cùng của chế độ Việt Nam Cộng hòa đọc trên Đài phát thanh vào ngày 30/4/1975).
 * **17/10/2023:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Lương Định (Trung sĩ, thương binh 1/4, nguyên Tiểu đội trưởng, Đại đội 4, Tiểu đoàn 668, Trung đoàn Đường ống 592, Bộ Tư lệnh Trường Sơn. Người xung phong vác đường ống qua trọng điểm để rà phá bom từ trường, bảo vệ cả Đại đội trên tuyến đánh trọng điểm Pha Bang Nưa, Savanakhet).
-*   **27/11/2023:** Nâng cấp quan hệ Đối tác Chiến lược Toàn diện với Nhật Bản.
+*   **27/11/2023:** Chủ tịch nước Võ Văn Thưởng thăm chính thức Nhật Bản nhân kỷ niệm 50 năm thiết lập quan hệ ngoại giao. Tại cuộc hội đàm ở Tokyo, Chủ tịch nước Võ Văn Thưởng và Thủ tướng Nhật Bản Kishida Fumio đã ra Tuyên bố chung nâng cấp quan hệ lên "Đối tác Chiến lược Toàn diện vì hòa bình và thịnh vượng tại châu Á và trên thế giới".
+*   **12 - 13/12/2023:** Tổng Bí thư, Chủ tịch nước Trung Quốc Tập Cận Bình và Phu nhân thăm cấp Nhà nước tới Việt Nam theo lời mời của Tổng Bí thư Nguyễn Phú Trọng và Chủ tịch nước Võ Văn Thưởng. Hai bên ra Tuyên bố chung về việc tiếp tục làm sâu sắc và nâng tầm quan hệ Đối tác Hợp tác Chiến lược Toàn diện, xây dựng Cộng đồng chia sẻ tương lai Việt Nam - Trung Quốc có ý nghĩa chiến lược.
 *   **2024:** Tổng kim ngạch xuất nhập khẩu qua các cửa khẩu của tỉnh Cao Bằng đạt 952,18 triệu USD, thể hiện sự vươn lên phát triển kinh tế mạnh mẽ của vùng đất biên cương từng chịu nhiều tàn phá trong chiến tranh.
 * **2024:** Anh hùng Lực lượng vũ trang nhân dân Khuất Duy Tiến (Trung tướng, nguyên Tư lệnh Quân đoàn 3, Cục trưởng Cục Quân lực Bộ Tổng tham mưu, nguyên Trung đoàn trưởng Trung đoàn 64, Sư đoàn 320, Quân đoàn 3) từ trần.
 *   **18/01/2024:** Quốc hội thông qua Luật Đất đai (sửa đổi).
 *   **03/2024:** Bộ Công an thông báo hai tổ chức Nhóm Hỗ trợ người Thượng (MSGI) và Người Thượng vì Công lý (MSFJ) là tổ chức khủng bố. Các tổ chức này bị cáo buộc đã tuyên truyền, lôi kéo và chỉ đạo vụ tấn công khủng bố tại Đắk Lắk năm 2023 nhằm đòi ly khai, thành lập "Nhà nước Đêga".
-*   **07/03/2024:** Nâng cấp quan hệ Đối tác Chiến lược Toàn diện với Australia.
+*   **07/03/2024:** Thủ tướng Chính phủ Phạm Minh Chính thăm chính thức Australia theo lời mời của Thủ tướng Anthony Albanese. Sau cuộc hội đàm tại Canberra, hai Thủ tướng đã công bố Tuyên bố chung nâng cấp quan hệ song phương lên Đối tác Chiến lược Toàn diện, đưa Australia trở thành Đối tác chiến lược toàn diện thứ 7 của Việt Nam.
 *   **22/05/2024:** Ông Tô Lâm được bầu giữ chức Chủ tịch nước.
+*   **19 - 20/06/2024:** Tổng thống Liên bang Nga Vladimir Putin thăm cấp Nhà nước tới Việt Nam theo lời mời của Tổng Bí thư Nguyễn Phú Trọng. Hai bên đã thông qua Tuyên bố chung về việc làm sâu sắc hơn nữa quan hệ Đối tác Chiến lược Toàn diện trên cơ sở phát huy thành tựu 30 năm thực hiện Hiệp ước về những nguyên tắc cơ bản của quan hệ hữu nghị Việt Nam - Nga.
 *   **Hồi 13 giờ 38 phút 19/07/2024:** Tổng Bí thư Nguyễn Phú Trọng từ trần tại Bệnh viện Trung ương Quân đội 108. Ông hưởng thọ 80 tuổi.
 *   **20 - 22/07/2024:** Cuba tuyên bố Quốc tang ba ngày để tưởng niệm sự ra đi của Tổng Bí thư Nguyễn Phú Trọng. Trước đó, Quốc hội Cuba đã dành một phút mặc niệm vào ngày 19/07.
+*   **30/07 - 01/08/2024:** Thủ tướng Chính phủ Phạm Minh Chính thăm cấp Nhà nước tới Cộng hòa Ấn Độ theo lời mời của Thủ tướng Narendra Modi. Hai Thủ tướng hội đàm và thông qua Tuyên bố chung về việc tăng cường quan hệ Đối tác Chiến lược Toàn diện, khẳng định làm sâu sắc hơn nữa hợp tác quốc phòng - an ninh, kinh tế - thương mại và khoa học - công nghệ.
 *   **03/08/2024:** Tổng bí thư Tô Lâm được bầu tại Hội nghị Ban Chấp hành Trung ương Đảng khóa XIII.
+*   **18 - 20/08/2024:** Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân thăm cấp Nhà nước tới Trung Quốc theo lời mời của Tổng Bí thư, Chủ tịch nước Tập Cận Bình. Đây là chuyến công tác nước ngoài đầu tiên của ông Tô Lâm trên cương vị Tổng Bí thư, Chủ tịch nước. Hai bên ra Tuyên bố chung về việc tiếp tục tăng cường quan hệ Đối tác Hợp tác Chiến lược Toàn diện, làm sâu sắc việc xây dựng Cộng đồng chia sẻ tương lai Việt Nam - Trung Quốc.
 *   **09/2024:** Tổng Bí thư, Chủ tịch nước Tô Lâm cùng phu nhân đã có chuyến thăm cấp Nhà nước tới Cuba, nhấn mạnh mối quan hệ đặc biệt trong sáng, mẫu mực, thủy chung giữa hai dân tộc là biểu tượng của tình đoàn kết quốc tế.
 *   **07/09/2024:** Siêu bão Yagi đổ bộ vào Việt Nam.
     * **Thiệt hại nhân mạng:** Khoảng 345 người chết và mất tích, hàng nghìn người bị thương.
     * **Thiệt hại kinh tế:** Hơn 81.700 tỷ đồng, tương đương khoảng 0,62% GDP năm 2023.
     * **Ảnh hưởng:** Nhiều tỉnh miền Bắc bị tàn phá nặng nề do bão và lũ lụt sau bão.
 *   **23/09/2024:** Tại Đại học Columbia (Mỹ), Tổng Bí thư Tô Lâm phát biểu về "Kỷ nguyên vươn mình" của dân tộc sau gần 80 năm lập nước và 40 năm Đổi mới.
-*   **07/10/2024:** Nâng cấp quan hệ Đối tác Chiến lược Toàn diện với Pháp.
+*   **07/10/2024:** Tổng Bí thư, Chủ tịch nước Tô Lâm thăm chính thức Cộng hòa Pháp theo lời mời của Tổng thống Emmanuel Macron. Sau hội đàm tại Điện Élysée, hai nhà lãnh đạo đã tuyên bố nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện, đưa Pháp trở thành quốc gia đầu tiên trong Liên minh châu Âu (EU) có quan hệ Đối tác chiến lược toàn diện với Việt Nam.
 *   **14 - 15/10/2024:** Việt Nam long trọng tổ chức Kỷ niệm 60 năm sự kiện du kích quân Venezuela bắt sĩ quan Mỹ Smolen để đòi tự do cho Nguyễn Văn Trỗi (09/10/1964 - 09/10/2024) và 60 năm Ngày Anh hùng Liệt sĩ Nguyễn Văn Trỗi hy sinh (15/10/1964 - 15/10/2024).
 *   **21/10/2024:** Quốc hội bầu ông Lương Cường giữ chức Chủ tịch nước thay cho ông Tô Lâm.
 *   **25/10/2024:** Trần Cẩm Tú được phân công giữ chức Thường trực Ban Bí thư Trung ương Đảng khóa XIII.
-*   **21/11/2024:** Nâng cấp quan hệ Đối tác Chiến lược Toàn diện với Malaysia.
+*   **21/11/2024:** Tổng Bí thư Tô Lâm thăm chính thức Malaysia theo lời mời của Thủ tướng Anwar Ibrahim. Hai bên đã ra Tuyên bố chung chính thức nâng cấp quan hệ Việt Nam - Malaysia lên Đối tác Chiến lược Toàn diện, đưa Malaysia trở thành quốc gia đầu tiên trong khu vực Đông Nam Á (ASEAN) thiết lập khuôn khổ quan hệ này với Việt Nam.
 *   **01/12/2024:** Tổng Bí thư Tô Lâm chỉ đạo đẩy mạnh sáp nhập, tinh gọn bộ máy.
 * **13/12/2024:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Đồng Sĩ Nguyên (Trung tướng, nguyên Ủy viên Bộ Chính trị, Phó Chủ tịch Hội đồng Bộ trưởng, nguyên Bộ trưởng Bộ Giao thông Vận tải, nguyên Thứ trưởng Bộ Quốc phòng, Tư lệnh Binh đoàn Trường Sơn).
 *   **2025 - 2026:** Họa sĩ Mai Đại Lưu sáng tác và hoàn thiện nhiều tác phẩm hội họa quy mô lớn (như "Cho những người đã ngã xuống", "Hoa vàng rực rỡ") sử dụng chất liệu acrylic, cát, lá vàng để tưởng nhớ những người lính đã ngã xuống trong cuộc chiến đấu bảo vệ biên giới phía Bắc 1979.
@@ -3249,12 +3258,12 @@
 * **23/01/2025:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hoàng Thế Thiện (Cấp bậc, chức vụ đề nghị Chủ tịch nước xét truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân: Thiếu tướng, Chính ủy Quân đoàn 4, Bộ Quốc phòng trong Kháng chiến chống Mỹ).
 *   **05/02/2025:** Tổng Bí thư Tô Lâm cùng đoàn công tác Trung ương đã đến Nghĩa trang liệt sĩ quốc gia Vị Xuyên (Hà Giang) thành kính dâng hương tưởng nhớ các anh hùng liệt sĩ đã hy sinh vì sự nghiệp bảo vệ an ninh biên giới.
 *   **14/02/2025:** Đoàn công tác của Quân ủy Trung ương, Bộ Quốc phòng đã đến dâng hương tại Khu di tích lịch sử quốc gia Pò Hèn (Quảng Ninh), tri ân 86 cán bộ, chiến sĩ và nhân viên thương nghiệp đã anh dũng hy sinh bảo vệ biên cương.
-*   **26/02/2025:** Nâng cấp quan hệ Đối tác chiến lược toàn diện với New Zealand.
-*   **10/03/2025:** Nâng cấp quan hệ Đối tác chiến lược toàn diện với Indonesia.
-*   **12/03/2025:** Nâng cấp quan hệ Đối tác chiến lược toàn diện với Singapore.
+*   **26/02/2025:** Thủ tướng New Zealand Christopher Luxon thăm chính thức Việt Nam theo lời mời của Thủ tướng Phạm Minh Chính nhân kỷ niệm 50 năm quan hệ ngoại giao. Hai bên ra Tuyên bố chung nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện, đưa New Zealand trở thành Đối tác chiến lược toàn diện thứ 10 của Việt Nam.
+*   **10/03/2025:** Tổng Bí thư Tô Lâm thăm cấp Nhà nước tới Cộng hòa Indonesia theo lời mời của Tổng thống Prabowo Subianto. Hai bên đã ra Tuyên bố chung chính thức nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện nhân kỷ niệm 70 năm thiết lập quan hệ ngoại giao, đưa Indonesia thành Đối tác chiến lược toàn diện thứ hai của Việt Nam trong ASEAN.
+*   **12/03/2025:** Tổng Bí thư Tô Lâm thăm chính thức Cộng hòa Singapore theo lời mời của Thủ tướng Lawrence Wong. Hai bên đã ra Tuyên bố chung nâng cấp quan hệ song phương lên Đối tác Chiến lược Toàn diện, mở rộng hợp tác trọng tâm sang kinh tế số, kinh tế xanh và chuyển đổi năng lượng.
 *   **29/03/2025:** Nhóm Skyline đã ứng dụng công nghệ AI phục dựng thành công và trao tặng di ảnh rõ nét của liệt sĩ Đặng Thị Kim cho gia đình, làm sống lại hình ảnh người nữ anh hùng sau hơn 7 thập kỷ.
 *   **30/04/2025:** Kỷ niệm 50 năm Ngày Giải phóng hoàn toàn miền Nam, thống nhất đất nước.
-*   **16/05/2025:** Nâng cấp quan hệ Đối tác chiến lược toàn diện với Thái Lan.
+*   **16/05/2025:** Thủ tướng Vương quốc Thái Lan Paetongtarn Shinawatra thăm chính thức Việt Nam và đồng chủ trì Kỳ họp Nội các chung Việt Nam - Thái Lan lần thứ 4. Hai bên ra Tuyên bố chung nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện, thúc đẩy kết nối chuỗi cung ứng và logistics khu vực.
 *   **12/06/2025:** Quốc hội chính thức thông qua Nghị quyết 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh, giảm từ 63 xuống còn 34 tỉnh thành. Nghị quyết này có hiệu lực ngay sau khi được thông qua.
 *   **16/6/2025:** Quốc hội thông qua Nghị quyết số 203/2025/QH15, sửa đổi, bổ sung một số điều của Hiến pháp 2013, quy định về tổ chức đơn vị hành chính hai cấp tại Việt Nam:
     * **Cấp tỉnh:** Tỉnh và thành phố trực thuộc trung ương.
@@ -3270,7 +3279,7 @@
 *   **25/09 - 06/12/2025:** Đợt "Đại hồng thủy 2025" tàn phá miền Bắc và miền Trung Việt Nam. Do ảnh hưởng của 5 cơn bão liên tiếp (số 9 đến số 13) và bão số 15, lũ lịch sử đã xuất hiện trên 20 con sông lớn. Đỉnh Bạch Mã (Huế) ghi nhận lượng mưa 24 giờ kỷ lục 1.739,6mm. Bộ Công an báo cáo năm 2025 thiên tai đã làm 415 người chết, mất tích, 728 người bị thương, thiệt hại hơn 91.000 tỷ đồng. "Chiến dịch Quang Trung" đang được đẩy mạnh để hỗ trợ xây dựng nhà ở cho người dân vùng lũ.
 *   **25/10/2025:** Tổ chức "Hội chợ Mùa thu Vàng" tại VEC. Cùng ngày, Hình số 25 làm từ bánh mì được xác lập kỷ lục Guinness là "Số lớn nhất làm từ bánh mì" (Largest number made from bread) tại Đại học RMIT Việt Nam, nhằm kỷ niệm 25 năm thành lập KOTO.
 *   **25 - 26/10/2025:** Lễ ký kết Công ước Liên Hợp Quốc về Chống tội phạm mạng (Công ước Hà Nội).
-*   **29/10/2025:** Nâng cấp quan hệ Đối tác chiến lược toàn diện với Vương quốc Anh (đạt 14 quốc gia).
+*   **29/10/2025:** Tổng Bí thư Tô Lâm thăm chính thức Vương quốc Liên hiệp Anh và Bắc Ireland theo lời mời của Thủ tướng Keir Starmer. Hai bên ra Tuyên bố chung chính thức nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện, đưa Anh trở thành đối tác thứ 14 của Việt Nam ở cấp độ quan hệ ngoại giao cao nhất này.
 *   **29/10/2025:** Chủ tịch nước Lương Cường gặp Tổng thống Hoa Kỳ Donald Trump nhân dịp tham dự APEC.
 *   **19/12/2025:** Sân bay Long Thành chính thức khánh thành giai đoạn 1 và đón những chuyến bay nghi lễ đầu tiên.
 *   **24/12/2025:** Thủ tướng Phạm Minh Chính công bố chính thức thành lập Trung tâm Tài chính Quốc tế Việt Nam tại TP. HCM và Đà Nẵng.
