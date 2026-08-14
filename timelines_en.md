@@ -67,6 +67,7 @@
 *   **40:** The Trung Sisters launched an uprising, regaining independence. Trung Trac ascended to the throne as queen, establishing the capital at Me Linh.
 *   **41:** Ma Yuan led an army of 200,000 to invade.
 *   **43:** The uprising failed following an attack by the Han general Ma Yuan. The Trung Sisters committed suicide in the Hat River. Ma Yuan erected bronze pillars to mark the border.
+*   **44:** Following the suppression of the Trung Sisters' uprising, Ma Yuan abolished the hereditary rule of the Lac generals (Lac lords), crushed remaining Lac Viet insurgencies in Tay Vu county, and divided Tay Vu into Phong Khe and Vong Hai counties to enforce direct Han imperial administration.
 *   **78:** Truong Trong, a native of Nhat Nam commandery, traveled to Luoyang as an envoy. He boldly defended Vietnamese customs and dignity in front of the Han Emperor and court, later becoming the governor of Jincheng.
 *   **100:** More than 2,000 people in Tuong Lam district (Nhat Nam commandery) rose up against Han rule.
 *   **2nd century:** Shi Xie (Si Nhiep) established schools to spread Chinese culture and attempted to eliminate the Vietnamese language and script. However, Confucianism did not take deep root in villages due to the strong indigenous culture.
@@ -141,6 +142,8 @@
 *   **819 - 820:** The uprising of Duong Thanh.
 *   **Sep. 820:** Zen Master Vo Ngon Thong arrived at Kien So Pagoda, establishing the Vo Ngon Thong Zen sect.
 *   **822:** Protector General Li Yuanxi moved the administrative seat to the To Lich River area and built the Dai La Citadel. This event is closely tied to the legends of the To Lich River God (To Lich Dai Vuong) recorded in *Viet Dien U Linh Tap*.
+*   **824:** Protector Li Yuanjia initiated the construction of the first earth-walled La Thanh (La Citadel) along the To Lich River to fortify the headquarters of the Annam Protectorate, establishing the foundation for the later expansion of Dai La Citadel.
+*   **858:** Li Zhuo was appointed Protector of Annam; his corrupt and tyrannical rule provoked deep discontent among border chieftain tribes, prompting them to ally with and guide the Nanzhao kingdom to launch destructive invasions against Giao Chau.
 *   **862 - 863:** Internal conflict between Tang officials Sai Kinh and Sai Tap weakened defenses. In Jan 863, Nanzhao forces captured the citadel, killing Sai Tap.
 *   **865 (Autumn):** Cao Bien prepared troops at Hai Mon to counterattack Nanzhao forces.
 *   **866:** After defeating Nanzhao, the Tang dynasty upgraded the An Nam Protectorate to the Jinghai Military Commission (Tinh Hai quan). Cao Bien rebuilt the Dai La Citadel.
@@ -261,7 +264,7 @@
 *   **Jan. 18 - Feb. 28, 1077:** Battle of Nhu Nguyet River. The Song army (100,000 combat troops, 200,000 support) commanded by Guo Kui and Zhao Xie was halted at the Nhu Nguyet river defense line by Dai Viet forces. After Song attempts to cross failed, Dai Viet launched counter-attacks. Princes Hoang Chan and Chieu Van attacked Guo Kui's camp and died in battle, while Ly Thuong Kiet successfully ambushed Zhao Xie's camp. Song forces suffered 76,600 casualties and retreated, marking a decisive Dai Viet victory.
 *   **Sep. 1077:** Construction of the Nhu Nguyet River dike spanning 67,380 paces, a major state-led water management project.
 *   **1084:** Le Van Thinh negotiated with the Song dynasty to define the border, reclaiming 6 districts and 3 grottoes.
-*   **1086:** King Ly Nhan Tong authorized the first imperial examination to select talented individuals.
+*   **1086:** King Ly Nhan Tong organized an imperial examination to select scholars with outstanding literary talent for the Hanlin Academy. Mac Hien Tich achieved the highest score and was appointed Hanlin Academician, marking the beginning of the prestigious Mac family's scholarly tradition.
 *   **1088:** Emperor Ly Nhan Tong classified Buddhist pagodas into three ranks (large, medium, small) and assigned senior civil officials to oversee them due to their vast slave populations and extensive properties.
 *   **1089:** King Ly Nhan Tong established a defined hierarchy for civil and military officials, structuring the administrative system.
 *   **1089:** Excavation of the Lanh Kinh River to facilitate transportation and irrigation.
@@ -656,7 +659,8 @@
 *   **1443:** Le Nhan Tong ascended the throne.
 *   **1443 - 1459:** Phan Phu Tien compiled the *Đại Việt sử ký tục biên* (Continued History of Dai Viet) from Le Van Huu's *Đại Việt sử ký* (History of Dai Viet).
 *   **Nov. 1448:** King Le Nhan Tong married his eldest sister, Princess Ve Quoc (who suffered from mutism), to Le Quat, son of Grand Commander Le Thu. Le Thu used this wedding to solicit bribes from local officials, causing public resentment.
-*   **1460:** Nghi Dan usurped the throne. The Six Ministries (Lại, Hộ, Lễ, Binh, Hình, Công - Personnel, Finance, Rites, War, Justice, Public Works) and Six Offices of Scrutiny were established for the first time.
+*   **Oct. 28, 1459:** Prince of Lang Son Le Nghi Dan and his followers scaled the forbidden palace walls at night, staging a coup d'état that assassinated King Le Nhan Tong and Empress Dowager Nguyen Thi Anh, usurping the throne and declaring the Thien Hung era.
+*   **Late 1459 - 1460:** The court of Le Nghi Dan established the structure of the Six Ministries (Personnel, Finance, Rites, War, Justice, Public Works) and the Six Offices of Scrutiny for the first time to divide authority and reinforce administrative supervision.
 *   **Jun. 1460:** High-ranking officials Nguyen Xi and Dinh Liet staged a coup, overthrew Nghi Dan, and placed Le Tu Thanh on the throne (Le Thanh Tong).
 *   **Aug. 1460:** King Le Thanh Tong issued an edict requiring people with the surname "Tran" to change it to "Trinh" to avoid a naming taboo involving his grandmother, Pham Ngoc Tran.
 *   **1462:** Emperor Le Thanh Tong ordered the opening of regional examinations (thi Huong) at examination compounds nationwide, stipulating a strict three-year cycle for organizing the exams.
@@ -846,6 +850,7 @@
 *   **1744:** Lord Nguyen Phuc Khoat implemented a dress code reform, requiring people to wear trousers and buttoned shirts (Chinese style), and reorganized administrative titles.
 *   **1754:** Vietnamese sailors shipwrecked near the Paracel Islands drifted to the Chinese coast. Chinese authorities investigated and returned them to Vietnam without raising any sovereignty protests regarding their activities in the Paracels.
 *   **1754:** General Pham Dinh Trong, famous for suppressing the uprisings of Nguyen Huu Cau and Nguyen Danh Phuong, passed away.
+*   **1754:** General Hoang Cong Chat, together with local chieftains, led the local people to defeat and expel the Phe invaders from the north, liberating the entire Muong Thanh valley (Dien Bien) and constructing Ban Phu Citadel as a strategic base to defend and secure the Northwestern frontier.
 *   **1756:** The Cambodian king Nặc Nguyên (Ang Snguon) ceded the two prefectures of Tam Bon and Loi Lap (now in Tan An, Go Cong) to the Nguyen lord.
 *   **1757:** The Cambodian king Nặc Tôn (Ang Ton II) ceded the land of Tam Phong Long (now in Chau Doc) and five prefectures in the Ha Tien region as a token of gratitude. The entire Southern region basically came under the sovereignty of the Nguyen lords.
 *   **1759:** French Admiral d'Estaing recorded strict patrols conducted by Vietnamese naval units between the Paracel Islands and the Vietnamese coast, demonstrating the continuous exercise of sovereignty by Vietnam.
@@ -1164,6 +1169,7 @@
 *   **Jul. 1868:** The court purchased a large copper-clad steamship named "Man Thoa", marking efforts to adopt Western technology.
 *   **Oct. 27, 1868:** Hero Nguyen Trung Truc is executed by the French in Rach Gia (Kien Giang), leaving behind the immortal quote: *"Only when the French pull up all the grass in Vietnam will there be no more Vietnamese fighting the French."*
 *   **Feb. 1869:** Chữ Quốc ngữ was mandated for use in official documents in Cochinchina, replacing chữ Nho (classical Chinese characters), according to a decree by Vice Admiral Marie Gustave Hector Ohier.
+*   **1870:** The insurgent forces of Truong Quyen (son of Truong Dinh) closely coordinated with the movement of Pu Kom Po, expanding anti-French resistance operations along the southwestern border (Tay Ninh, Chau Doc), demonstrating a historic alliance against colonial aggression.
 *   **Nov. 1872:** Jean Dupuis, a French merchant, began causing disturbances in Tonkin (Bac Ky), under the pretext of transporting goods to Yunnan.
 *   **1873:** The administrative seat of Doan Hung prefecture (Son Tay province) was burned and destroyed by bandits.
 *   **1873:** French explorer Jean Dupuis arrived at Ninh Hai (Hai Phong) with small boats from Saigon, beginning his exploration of the Red River to find a trade route to Yunnan, China.
@@ -1244,6 +1250,7 @@
 *   **May 19, 1890:** Nguyen Sinh Cung (later President Ho Chi Minh) was born in Kim Lien village, Nam Dan district, Nghe An province.
 *   **1891:** Hai Phong was considered the first city to have electric lights, even before Hanoi.
 *   **1892:** The Bai Say Uprising disintegrated. Tong Duy Tan (leader of the Hung Linh Uprising) was captured.
+*   **Jun. 21, 1893:** Dr. Alexandre Yersin discovered the Lang Biang plateau during his expedition in the Lam Vien region, paving the way for Governor-General Paul Doumer to later designate this site for the development of the resort city of Da Lat.
 *   **Nov. 1893:** Cao Thang was killed in an attack on the Nu fortress (Nghe An), a major loss for the Huong Khe Uprising.
 *   **Oct. 1894:** Hoang Hoa Tham made peace with the French for the first time to consolidate his forces in Yen The.
 *   **1895:** A French Resident in Tonkin confiscated land from a village to give to a Catholic village, forcing the original owners to continue paying taxes on the lost land until 1910.
@@ -2673,6 +2680,7 @@
 *   **Apr. 18, 1979:** The first round of Vietnam-China negotiations at the Deputy Foreign Minister level began in Hanoi.
 *   **Aug. 1979:** The 6th Conference of the Party Central Committee (4th tenure) issued a resolution on "The urgent situation and tasks," acknowledging difficulties and weaknesses in economic management and proposing a policy to "unfetter production."
 *   **Oct. 1, 1979:** The second national Population Census was conducted.
+*   **Nov. 6, 1979:** Construction commenced on the Hoa Binh Hydropower Plant on the Da River with substantial assistance from the Soviet Union, marking the century's largest hydropower infrastructure project in Southeast Asia at the time.
 *   **Dec. 20, 1979:** Martyr Phan Dinh Linh was posthumously awarded the title Hero of the People's Armed Forces and the Third Class Victory Medal for his extraordinary bravery at Hill 815.
 *   **1980s:** Despite facing significant difficulties due to the Iran-Iraq War, the Iraqi government agreed to Vietnam's proposal to defer its debt and accept repayment in the form of goods (rice, tea, clothing) and labor. Thousands of Vietnamese workers were sent to Iraq, contributing half of their salaries to debt repayment while helping their families.
 *   **1980s - 1990s:** Cuba supported Vietnam in preventive medicine by providing vaccines for meningitis, polio, and tetanus for Vietnamese children.
@@ -2703,6 +2711,7 @@
 *   **Jun. 1983:** Malaysian troops occupied Swallow Reef (Hoa Lau) in the Spratlys and constructed facilities. Vietnam officially protested this action.
 *   **Summer 1983:** Border clashes intensified again in the Hoang Lien Son (Lao Cai) and Ha Tuyen (Ha Giang) regions.
 *   **Late 1983:** Chinese troops frequently conducted ambushes using mines and B41 rockets against Vietnamese vehicles on the border roads of Muong Khuong (Lao Cai).
+*   **Apr. 30, 1984:** Construction began on the Tri An Hydropower Plant on the Dong Nai River with technical assistance from the Soviet Union, serving as a key power project for economic growth and energy security in southern Vietnam following national reunification.
 *   **Jun. 2, 1984:** The Chinese National People's Congress decided to establish a special administrative region comprising Hainan Island and the two archipelagos. The Vietnamese government strongly protested.
 *   **Jul. 12, 1984:** During the fierce border conflict in Vi Xuyen (Ha Giang), a massive Chinese artillery barrage targeted Vietnamese positions, causing heavy casualties for the Vietnamese forces, particularly on Hill 772. The intensely bombarded area became known to soldiers as the "Century Lime Kiln" (Lò vôi thế kỷ). It was here that soldiers like Nguyen Viet Ninh fought with the immortal motto carved on their rifle butts: "Live clinging to the rock, die turning into stone, becoming immortal."
 *   **1985:** Passing of Ta Quoc Luat (born 1925 in Thai Binh), the courageous company captain who led the assault squad (Company 360, Regiment 209, Division 312) capturing General Christian de Castries at the Dien Bien Phu command bunker on May 7, 1954.

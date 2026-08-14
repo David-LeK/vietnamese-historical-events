@@ -67,6 +67,7 @@
 *   **40:** Hai Bà Trưng dấy binh khởi nghĩa, giành lại độc lập. Trưng Trắc lên ngôi vua, đóng đô ở Mê Linh.
 *   **41:** Mã Viện mang 20 vạn quân sang xâm lược.
 *   **43:** Cuộc khởi nghĩa thất bại trước cuộc tấn công của tướng nhà Hán là Mã Viện. Hai Bà Trưng tuẫn tiết trên sông Hát. Mã Viện dựng cột đồng để ghi địa giới.
+*   **Năm 44:** Sau khi đàn áp cuộc khởi nghĩa Hai Bà Trưng, Mã Viện tiến hành bãi bỏ chế độ thế tập của các Lạc tướng, đàn áp các cuộc nổi dậy còn sót lại của người Lạc Việt tại huyện Tây Vu, đồng thời chia Tây Vu thành hai huyện Phong Khê và Vọng Hải nhằm siết chặt chế độ cai trị trực tiếp của nhà Đông Hán.
 *   **Năm 78:** Trương Trọng, người quận Nhật Nam, sang Lạc Dương (Trung Quốc) chầu vua Hán. Ông đã dũng cảm đối đáp cứng cỏi, bảo vệ phong tục và tôn nghiêm của người Việt trước triều đình phương Bắc, sau được phong làm Thái thú quận Kim Thành.
 *   **100:** Hơn 2.000 dân huyện Tượng Lâm (quận Nhật Nam) nổi dậy chống lại ách cai trị của nhà Hán.
 *   **Thế kỷ II:** Sĩ Nhiếp ra sức mở trường dạy học để truyền bá văn hóa Trung Hoa và thủ tiêu văn tự, ngôn ngữ Việt. Tuy nhiên, Nho giáo vẫn không thể bám rễ sâu vào các làng xã do sức sống mạnh mẽ của văn hóa bản địa.
@@ -141,6 +142,8 @@
 *   **819 - 820:** Cuộc khởi nghĩa của Dương Thanh.
 *   **09/820:** Thiền sư Vô Ngôn Thông đến chùa Kiến Sơ, sáng lập thiền phái Vô Ngôn Thông.
 *   **822:** Đô hộ Lý Nguyên Gia (Lý Nguyên Hỷ) dời phủ trị đến khu vực sông Tô Lịch và cho xây dựng thành Đại La. Sự kiện này gắn liền với các truyền thuyết về thần sông Tô Lịch được ghi chép trong *Việt Điện U Linh Tập*.
+*   **Năm 824:** Đô hộ Lý Nguyên Gia cho khởi công đắp La Thành đầu tiên bằng đất dọc bờ sông Tô Lịch để tăng cường phòng thủ trị sở An Nam đô hộ phủ, đặt tiền đề cho việc mở rộng quy mô thành Đại La về sau.
+*   **Năm 858:** Lý Trác được bổ nhiệm làm An Nam Đô hộ; chính sách cai trị tham lam và hà khắc của viên quan này đã kích động sự bất mãn sâu sắc của các thủ lĩnh thiểu số vùng biên giới, khiến họ liên kết và mở đường cho quân Nam Chiếu liên tiếp tiến đánh xâm lược Giao Châu.
 *   **862 - 863:** Sái Kinh ghen ghét hãm hại Sái Tập khiến Sái Tập bị cô lập. Quân Nam Chiếu vây đánh, Sái Tập tử trận khi thành thất thủ vào tháng 1 năm 863.
 *   **07/865 (Ất Dậu):** Cao Biền chuẩn bị quân ở Hải Môn để phản công quân Nam Chiếu.
 *   **866:** Cao Biền đánh bại Nam Chiếu, nhà Đường đổi An Nam đô hộ phủ làm Tĩnh Hải quân. Cao Biền cho xây đắp lại thành Đại La.
@@ -261,7 +264,7 @@
 *   **18/01 - 28/02/1077:** Trận sông Như Nguyệt. Quân Tống (10 vạn quân chiến đấu, 20 vạn phu) do Quách Quỳ, Triệu Tiết chỉ huy bị chặn đứng bởi phòng tuyến của Đại Việt (6-10 vạn quân) do Lý Thường Kiệt chỉ huy. Sau hai đợt tiến công vượt sông thất bại, quân Đại Việt phản công. Hoằng Chân và Chiêu Văn tập kích doanh trại Quách Quỳ và hy sinh; Lý Thường Kiệt tập kích tiêu diệt doanh trại Triệu Tiết. Quân Tống thiệt hại 76.600 lính và 8 vạn phu, buộc phải giảng hòa và rút quân.
 *   **09/1077:** Đắp đê sông Như Nguyệt dài 67.380 bộ, một công trình trị thủy quy mô lớn của nhà nước.
 *   **1084:** Lê Văn Thịnh sang nhà Tống bàn việc cương giới, đòi lại được 6 huyện và 3 động.
-*   **1086:** Vua Lý Nhân Tông cho phép mở khoa thi đầu tiên để tuyển chọn nhân tài.
+*   **1086:** Vua Lý Nhân Tông mở khoa thi tuyển chọn người có tài văn học vào làm việc tại Viện Hàn lâm. Mạc Hiển Tích đỗ đầu khoa thi và được bổ nhiệm chức Hàn lâm học sĩ, mở đầu truyền thống khoa bảng vẻ vang của dòng họ Mạc.
 *   **1088:** Vua Lý Nhân Tông phân loại chùa thành 3 hạng (lớn, vừa, nhỏ) và cắt cử các đại thần văn quan trông nom do chùa có nhiều nô bộc và tài sản rộng lớn.
 *   **1089:** Vua Lý Nhân Tông định rõ các chức quan văn võ, phân định phẩm cấp quan lại trong triều đình.
 *   **1089:** Cho đào sông Lãnh Kinh để thuận tiện cho giao thông và thủy lợi.
@@ -656,7 +659,8 @@
 *   **1443:** Lê Nhân Tông lên ngôi.
 *   **1443 - 1459:** Phan Phu Tiên biên soạn *Đại Việt sử ký tục biên* từ *Đại Việt sử ký* của Lê Văn Hưu.
 *   **11/1448:** Vua Lê Nhân Tông gả chị cả là Vệ Quốc Trưởng Công chúa (bị câm) cho Lê Quát, con trai Thái úy Lê Thụ. Lê Thụ nhân dịp này đã sách nhiễu, đòi hỏi lễ vật của các trấn, lộ khiến dư luận bất bình.
-*   **1460:** Nghi Dân cướp ngôi. Lần đầu tiên đặt ra Lục bộ (Lại, Hộ, Lễ, Binh, Hình, Công) và Lục khoa.
+*   **28/10/1459:** Lạng Sơn vương Lê Nghi Dân cùng thuộc hạ đang đêm bắc thang trèo tường vào cấm cung làm binh biến sát hại vua Lê Nhân Tông và Hoàng thái hậu Nguyễn Thị Anh, cướp ngôi và đặt niên hiệu Thiên Hưng.
+*   **Cuối năm 1459 - 1460:** Triều đình Lê Nghi Dân lần đầu tiên đặt ra cơ cấu Lục bộ (Lại, Hộ, Lễ, Binh, Hình, Công) và Lục khoa nhằm phân chia quyền lực và tăng cường giám sát hành chính.
 *   **06/1460:** Các đại thần Nguyễn Xí, Đinh Liệt làm binh biến, lật đổ Nghi Dân, đưa Lê Tư Thành lên ngôi vua (Lê Thánh Tông).
 *   **08/1460:** Vua Lê Thánh Tông ra lệnh đổi các họ "Trần" trong dân gian thành họ "Trình" do kỵ húy bà Phạm Ngọc Trần (bà nội của vua).
 *   **1462:** Vua Lê Thánh Tông cho mở khoa thi Hương tại các trường thi trên toàn quốc, quy định chặt chẽ chu kỳ ba năm tổ chức một kỳ thi.
@@ -846,6 +850,7 @@
 *   **1744:** Chúa Nguyễn Phúc Khoát tiến hành đổi mới phong tục, bắt buộc quan dân thay đổi lối ăn mặc (theo kiểu Trung Quốc) và đổi tên các cơ quan hành chính (Phủ đổi thành Điện).
 *   **1754:** Thủy thủ Việt Nam bị đắm thuyền gần quần đảo Hoàng Sa và trôi dạt tới bờ biển Trung Quốc. Nhà chức trách Trung Quốc đã điều tra và đưa họ về nước mà không hề có bất kỳ sự phản kháng hay tuyên bố chủ quyền nào đối với các hoạt động của người Việt tại Hoàng Sa.
 *   **1754:** Danh tướng Phạm Đình Trọng, người có công dẹp các cuộc nổi dậy của Nguyễn Hữu Cầu và Nguyễn Danh Phương, qua đời (Mùng 1 tháng 1 năm Giáp Tuất).
+*   **1754:** Tướng Hoàng Công Chất cùng các thủ lĩnh địa phương lãnh đạo nhân dân đánh đuổi giặc Phẻ xâm lấn từ phương Bắc, giải phóng toàn bộ cánh đồng Mường Thanh (Điện Biên), cho xây dựng Thành Bản Phủ làm căn cứ bảo vệ và củng cố vững chắc vùng biên giới Tây Bắc.
 *   **1756:** Vua Chân Lạp Nặc Nguyên dâng đất hai phủ Tầm Bôn và Lôi Lạp (nay thuộc Tân An, Gò Công) cho chúa Nguyễn.
 *   **1757:** Vua Chân Lạp Nặc Tôn dâng đất Tầm Phong Long (nay thuộc Châu Đốc) và 5 phủ ở vùng Hà Tiên để tạ ơn. Toàn bộ vùng đất Nam Bộ về cơ bản thuộc chủ quyền của các chúa Nguyễn.
 *   **1759:** Đô đốc d'Estaing của Pháp ghi chép về sự tuần tiễu nghiêm ngặt giữa quần đảo Hoàng Sa và bờ biển Việt Nam của các đơn vị hải quân Việt Nam, chứng tỏ sự thực thi chủ quyền liên tục.
@@ -1164,6 +1169,7 @@
 *   **07/1868:** Triều đình mua chiếc tàu lớn bọc đồng chạy bằng hơi nước, đặt tên là Mẫn Thỏa, tăng cường trang bị kỹ thuật phương Tây.
 *   **27/10/1868:** Anh hùng Nguyễn Trung Trực bị thực dân Pháp đưa đi hành quyết tại Rạch Giá (Kiên Giang), để lại câu nói bất hủ: *"Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây"*.
 *   **02/1869:** Chữ quốc ngữ được quy định dùng bắt buộc thay chữ Nho trong công văn ở Nam Kỳ, theo nghị định của Phó đô đốc Marie Gustave Hector Ohier.
+*   **1870:** Nghĩa quân Trương Quyền (con trai Trương Định) phối hợp chặt chẽ với lực lượng của Pu Kom Pô mở rộng phong trào kháng chiến chống thực dân Pháp dọc biên giới Tây Nam Bộ (Tây Ninh, Châu Đốc), thể hiện tinh thần liên minh đoàn kết chiến đấu chống ngoại xâm của nhân dân hai nước.
 *   **11/1872:** Jean Dupuis, một lái buôn người Pháp, bắt đầu gây rối ở Bắc Kỳ, lấy cớ vận chuyển hàng hóa lên Vân Nam.
 *   **1873:** Phủ lỵ Đoan Hùng (tỉnh Sơn Tây) bị giặc cướp đốt phá, phải chuyển đến làm việc tại nhà dân.
 *   **Năm 1873:** Nhà thám hiểm người Pháp Jean Dupuis mang thuyền từ Sài Gòn ra bỏ neo ở Ninh Hải (Hải Phòng), bắt đầu cuộc thám hiểm sông Hồng để tìm đường giao thương sang Vân Nam (Trung Quốc).
@@ -1244,6 +1250,7 @@
 *   **19/05/1890:** Nguyễn Sinh Cung (tức Chủ tịch Hồ Chí Minh) sinh ra tại xã Kim Liên, huyện Nam Đàn, tỉnh Nghệ An.
 *   **1891:** Hải Phòng được coi là thành phố đầu tiên có đèn điện trước cả Hà Nội.
 *   **1892:** Khởi nghĩa Bãi Sậy tan rã. Tống Duy Tân (lãnh đạo khởi nghĩa Hùng Lĩnh) bị bắt.
+*   **21/06/1893:** Bác sĩ Alexandre Yersin phát hiện ra cao nguyên Lang Biang trong chuyến thám hiểm thung lũng Lâm Viên, mở đường cho Toàn quyền Paul Doumer sau này chọn vùng đất này để xây dựng thành phố nghỉ dưỡng Đà Lạt.
 *   **11/1893:** Cao Thắng hy sinh trong trận tấn công đồn Nu (Nghệ An), một tổn thất lớn cho khởi nghĩa Hương Khê.
 *   **10/1894:** Hoàng Hoa Thám giảng hòa với Pháp lần thứ nhất để củng cố lực lượng Yên Thế.
 *   **1895:** Viên công sứ một tỉnh ở Bắc Kỳ tước đoạt ruộng đất của một làng để cấp cho một làng khác theo đạo Thiên Chúa, bắt dân tiếp tục nộp thuế cho đất đã mất đến năm 1910.
@@ -2673,6 +2680,7 @@
 *   **18/04/1979:** Vòng đàm phán cấp Thứ trưởng Ngoại giao Việt Nam - Trung Quốc lần thứ nhất bắt đầu tại Hà Nội.
 *   **08/1979:** Hội nghị lần thứ 6 Ban Chấp hành Trung ương Đảng (khóa IV) ra nghị quyết "Về tình hình và nhiệm vụ cấp bách", thừa nhận những khó khăn, yếu kém trong quản lý kinh tế và đề ra chủ trương "làm cho sản xuất bung ra".
 *   **01/10/1979:** Tiến hành cuộc Tổng điều tra dân số lần thứ hai trong cả nước.
+*   **06/11/1979:** Khởi công xây dựng Nhà máy Thủy điện Hòa Bình trên sông Đà với sự giúp đỡ to lớn của Liên Xô, công trình thủy điện thế kỷ có quy mô lớn nhất Đông Nam Á thời bấy giờ.
 *   **20/12/1979:** Liệt sĩ Phan Đình Linh được Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân và Huân chương Chiến công hạng Ba vì sự hy sinh oanh liệt tại cao điểm 815.
 *   **Những năm 1980:** Bất chấp những khó khăn to lớn do cuộc chiến tranh Iran - Iraq, chính phủ Iraq vẫn đồng ý với đề nghị của Việt Nam cho hoãn nợ và nhận trả nợ bằng hàng hóa (gạo, chè, quần áo) cùng lao động. Hàng ngàn lao động Việt Nam đã sang Iraq làm việc, trích một nửa tiền lương để trả nợ cho nước bạn.
 *   **Những năm 1980 - 1990:** Cuba hỗ trợ Việt Nam trong lĩnh vực y tế dự phòng bằng cách viện trợ các loại vaccine phòng viêm màng não, bại liệt, uốn ván cho trẻ em Việt Nam.
@@ -2703,6 +2711,7 @@
 *   **06/1983:** Quân đội Malaysia chiếm đóng đá Hoa Lau (Swallow Reef) ở Trường Sa và xây dựng các công trình. Việt Nam đã chính thức phản đối hành động này.
 *   **Mùa hè 1983:** Chiến sự lại rộ lên và diễn ra ác liệt ở vùng biên giới Hoàng Liên Sơn (Lào Cai) và Hà Tuyên (Hà Giang).
 *   **Cuối năm 1983:** Lính Trung Quốc thường xuyên gài mìn và dùng súng B41 bắn lén các xe cơ giới của Việt Nam đi qua các tuyến đường biên giới ở Mường Khương (Lào Cai).
+*   **30/04/1984:** Khởi công xây dựng Nhà máy Thủy điện Trị An trên sông Đồng Nai với sự hỗ trợ kỹ thuật của Liên Xô, công trình thủy điện trọng điểm phục vụ phát triển kinh tế và đảm bảo an ninh năng lượng cho miền Nam sau ngày thống nhất.
 *   **02/06/1984:** Quốc hội Trung Quốc quyết định thành lập một khu hành chính đặc biệt bao gồm đảo Hải Nam và hai quần đảo. Chính phủ Việt Nam đã phản đối kịch liệt.
 *   **12/07/1984:** Trong các trận chiến ác liệt tại Vị Xuyên (Hà Giang), mật độ pháo địch bắn sang trận địa Việt Nam dày đặc nhiều giờ liền, gây tổn thất lớn cho bộ đội đặc biệt là trên cao điểm 772, biến dãy núi đá nơi đây thành "Lò vôi thế kỷ". Tại đây, những người lính như anh hùng liệt sĩ Nguyễn Viết Ninh đã chiến đấu với lời thề khắc trên báng súng: "Sống bám đá, chết hóa đá, thành bất tử".
 *   **1985:** Ngày mất của Tạ Quốc Luật (sinh năm 1925 tại Thái Bình), người Đại đội trưởng dũng cảm dẫn đầu tổ xung kích thuộc Đại đội 360, Trung đoàn 209, Đại đoàn 312 bắt sống Tướng Christian de Castries tại hầm chỉ huy Điện Biên Phủ ngày 07/05/1954.
