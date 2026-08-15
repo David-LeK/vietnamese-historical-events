@@ -2048,6 +2048,7 @@
 *   **Night of Jan. 25 - Morning of Jan. 26, 1960:** Based on the vital intelligence provided by Bui Van Thuyen from within, revolutionary forces (over a battalion strong) launched a surprise attack and completely overran the Tua Hai base (headquarters of the ARVN 3rd Regiment, 21st Division). They eliminated over 500 enemy troops, captured over 700, and seized 1,500 weapons. This historic battle served as one of the opening shots for the Concerted Uprising (Đồng khởi) movement in the South.
 *   **Feb. 3, 1960:** Suspected by the enemy after the Tua Hai battle, Bui Van Thuyen withdrew to the revolutionary base. He joined Unit C40 and was subsequently sent to a special forces (đặc công) training course.
 *   **Early 1960:** Luu Tan Phat was appointed Deputy Commander of the My Tho Provincial Military Command, contributing to the strengthening of local armed forces.
+*   **Early 1960:** Female intelligence operative Ngo Thi Hue (alias Minh Hiep, affectionately known as "Little Squirrel") of the Quang Da Security Board was captured and imprisoned at Hieu Duc and Hoi An prisons while on mission. Despite enduring more than six months of solitary confinement and brutal torture (waterboarding, electric shocks, beatings), she steadfastly maintained revolutionary integrity without uttering a word, fully safeguarding revolutionary bases and the secret intelligence network in Da Nang.
 *   **Feb. 23, 1960:** Implementing the resolution of the Nam Bo Party Committee, the Cu Chi District Party Committee launched a concerted uprising with the call to "rise up together, destroy tyrants, break the grip, and liberate the countryside."
 *   **Sep. 1960:** The **3rd National Congress** of the Vietnam Workers' Party was held in Hanoi, setting out two strategic tasks:
     *   Carry out the socialist revolution in the North.
@@ -2737,6 +2738,7 @@
 * **1985:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Hữu Vị (Tham gia Chiến tranh Việt Nam).
 *   **Mar. 11, 1985:** Mikhail Gorbachev was elected General Secretary of the Communist Party of the Soviet Union, initiating the "Perestroika" (restructuring) and "Glasnost" (openness) policies.
 *   **Jun. 1985:** The 8th Conference of the Central Committee (5th tenure) issued a resolution on price-wage-money, deciding to definitively abolish the centralized bureaucratic subsidy mechanism.
+* **29/08/1985:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Ngo Thi Hue (alias Minh Hiep, "Little Squirrel", staunch female reconnaissance and intelligence operative of the Quang Da Security Board).
 *   **Sep. 14, 1985:** A general adjustment of prices, wages, and money began nationwide, implementing a currency exchange at a rate of 10 old dong for 1 new dong.
 
 ### **Early Doi Moi Period - Gradually Overcoming Crisis (1986 - 1990)**

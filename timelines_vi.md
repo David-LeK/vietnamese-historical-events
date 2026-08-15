@@ -2048,6 +2048,7 @@
 *   **Đêm 25 rạng sáng 26/01/1960:** Dựa trên thông tin tình báo do Bùi Văn Thuyên cung cấp từ bên trong, lực lượng cách mạng (hơn một tiểu đoàn) đã bất ngờ tấn công và diệt gọn căn cứ Tua Hai (nơi đóng quân của Trung đoàn 3, Sư đoàn 21 ngụy quân VNCH). Quân cách mạng loại khỏi vòng chiến đấu hơn 500 tên địch, bắt sống trên 700 tên và thu 1.500 khẩu súng. Trận đánh lịch sử này là một trong những phát súng mở màn cho phong trào Đồng khởi ở Nam Bộ.
 *   **03/02/1960:** Bị địch nghi ngờ sau trận Tua Hai, Bùi Văn Thuyên rút ra vùng căn cứ cách mạng. Ông trở thành chiến sĩ đơn vị C40 và được cử đi học lớp huấn luyện đặc công.
 *   **Đầu năm 1960:** Lưu Tấn Phát được phân công làm Tỉnh đội phó Tỉnh đội Mỹ Tho, góp phần củng cố lực lượng vũ trang địa phương.
+*   **Đầu năm 1960:** Nữ chiến sĩ điệp báo Ngô Thị Huệ (bí danh Minh Hiệp, thường gọi là "Con sóc nhỏ") thuộc Ban An ninh Quảng Đà bị địch bắt giam tại nhà lao Hiếu Đức và Hội An trong khi làm nhiệm vụ. Dù phải chịu biệt giam và tra tấn dã man suốt hơn 6 tháng bằng nhiều cực hình tàn khốc (dìm nước, tra điện, đánh đập), bà vẫn kiên cường giữ vững khí tiết người chiến sĩ cách mạng, không khai báo một lời, bảo vệ tuyệt đối an toàn cho các cơ sở và mạng lưới điệp báo nội thành Đà Nẵng.
 *   **23/02/1960:** Thực hiện nghị quyết của Xứ ủy, Quận ủy Củ Chi phát động đồng khởi với lời kêu gọi "nhất tề đứng dậy, diệt tề phá kềm, giải phóng nông thôn".
 *   **09/1960:** **Đại hội đại biểu toàn quốc lần thứ III** của Đảng Lao động Việt Nam họp tại Hà Nội, đề ra hai nhiệm vụ chiến lược:
     *   Tiến hành cách mạng xã hội chủ nghĩa ở miền Bắc.
@@ -2737,6 +2738,7 @@
 * **1985:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Hữu Vị (Tham gia Chiến tranh Việt Nam).
 *   **11/03/1985:** Mikhail Gorbachev trở thành Tổng Bí thư Đảng Cộng sản Liên Xô, bắt đầu thực hiện đường lối "Cải tổ" (Perestroika) và "Công khai" (Glasnost).
 *   **06/1985:** Hội nghị lần thứ 8 Ban Chấp hành Trung ương (khóa V) ra nghị quyết về giá - lương - tiền, quyết định dứt khoát xóa bỏ cơ chế tập trung quan liêu, bao cấp.
+* **29/08/1985:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Ngô Thị Huệ (bí danh Minh Hiệp, "Con sóc nhỏ", nữ trinh sát, điệp báo viên kiên trung của Ban An ninh Quảng Đà).
 *   **14/09/1985:** Bắt đầu cuộc tổng điều chỉnh giá - lương - tiền trên phạm vi cả nước, thực hiện đổi tiền với tỷ lệ 10 đồng tiền cũ ăn 1 đồng tiền mới.
 
 ### **Thời kỳ Đầu Đổi mới - Từng bước Khắc phục Khủng hoảng (1986 - 1990)**
