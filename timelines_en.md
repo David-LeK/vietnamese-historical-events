@@ -1254,7 +1254,7 @@
 *   **Jan. 13, 1889:** King Ham Nghi arrived in Algiers (Algeria), beginning his long exile where he later became known as a painter and married a French woman.
 *   **Jan. 28, 1889:** Emperor Dong Khanh passed away.
 *   **1890 - 1898:** Direct taxes doubled between 1890 and 1896, then increased by another 50% from 1896 to 1898.
-*   **May 19, 1890:** Nguyen Sinh Cung (later President Ho Chi Minh) was born in Kim Lien village, Nam Dan district, Nghe An province.
+*   **May 19, 1890:** President Ho Chi Minh (birth name Nguyen Sinh Cung, courtesy name Tat Thanh) was born in Hoang Tru village, Kim Lien commune, Nam Dan district, Nghe An province. He would later become the great leader of the Vietnamese nation, Hero of National Liberation, and Great Man of Culture.
 *   **1891:** Hai Phong was considered the first city to have electric lights, even before Hanoi.
 *   **1892:** The Bai Say Uprising disintegrated. Tong Duy Tan (leader of the Hung Linh Uprising) was captured.
 *   **Jun. 21, 1893:** Dr. Alexandre Yersin discovered the Lang Biang plateau during his expedition in the Lam Vien region, paving the way for Governor-General Paul Doumer to later designate this site for the development of the resort city of Da Lat.
@@ -1279,6 +1279,7 @@
 *   **1900:** Phan Boi Chau passed the regional examination in Nghe An with the highest honors, beginning his career as a professional revolutionary.
 *   **Apr. 11, 1900:** The province of Tuyen Quang was re-established.
 *   **1901:** Nguyen Sinh Sac passed the metropolitan imperial examination as a Pho bang (Junior Doctor) in the Tan Suu year under King Thanh Thai. The royal court bestowed honors upon him, and the villagers of Sen built a wooden house to celebrate his triumphant return.
+*   **1901:** When his father Nguyen Sinh Sac passed the imperial metropolitan examination as Pho Bang, Nguyen Sinh Cung was formally renamed Nguyen Tat Thanh (meaning "destined for success"), pursuing classical Confucian education and absorbing profound patriotic values.
 *   **Feb. 10, 1901:** Hoang Thi Loan (mother of President Ho Chi Minh) passed away in the imperial capital of Hue at the age of 33 following the birth of her fourth child, while her husband was away supervising exams in Thanh Hoa. Her eleven-year-old son Nguyen Sinh Cung (President Ho Chi Minh) and caring neighbors organized her funeral.
 *   **May 18, 1901:** Phung Chi Kien (born Nguyen Vy) was born in Dien Yen commune, Dien Chau district, Nghe An province. He was a prominent early leader of the Communist Party, the first military commander of the Party, and the first general of the Vietnam People's Army.
 *   **Sep. 1, 1901:** *Nong Co Min Dam*, one of the first important newspapers in the Quoc Ngu script, was launched in Saigon.
@@ -1307,6 +1308,7 @@
 *   **1908:** The colonial administration brutally suppressed the Duy Tan movement. Dr. **Tran Qui Cap** was executed in Khanh Hoa; **Le Khiet** and **Nguyen Ba Loan** were executed in Quang Ngai. **Phan Chau Trinh** was arrested, sentenced to death, but later commuted to exile in Con Dao.
 *   **Jan. 1908:** The French colonial administration revoked the license of Dong Kinh Nghia Thuc due to fears of its growing influence.
 *   **11/03/1908:** The anti-corvée and tax resistance movement ("Xin Xau") erupted when thousands of peasants from Dai Loc district (Quang Nam) marched to the French Residency in Hoi An demanding reductions in taxes and forced labor, sparking a massive wave of anti-tax demonstrations across Central Vietnam (Quang Nam, Quang Ngai, Binh Dinh, Thua Thien, Phu Yen...).
+*   **Apr. 1908:** During the anti-tax protest movement in Central Vietnam, patriotic youth Nguyen Tat Thanh joined peasant demonstrations in Hue and acted as an interpreter presenting the people's petitions to reduce taxes before the French Superior Residency.
 *   **Jun. 27, 1908:** The "Hanoi Poisoning Plot" broke out, in which a group of Vietnamese soldiers and patriots attempted to poison French soldiers in Hanoi and launch an uprising, but it failed.
 *   **Sep. 1908:** France and Japan signed a treaty, under which the Japanese government expelled Vietnamese patriots and students, leading to the collapse of the Dong Du Movement.
 *   **Dec. 1908:** The French colonialists ordered the closure of the Dong Kinh Nghia Thuc school and suppressed its participants.
@@ -1314,15 +1316,18 @@
 *   **Jun. 6, 1909:** The Viceroy of Liangguang (China) sent a brief expedition, commanded by Admiral Li Chun, for a 24-hour landing on several islands of the Paracels to fire cannons and raise the Chinese flag. France made no official protest at the time.
 *   **Jul. 1, 1909:** Pho bang Nguyen Sinh Sac was appointed by the royal court as the magistrate of Binh Khe district (Binh Dinh province). During his tenure, he consistently sided with the poor and punished oppressive local bullies, famously remarking that serving as a feudal mandarin was merely being "a slave among slaves, and further enslaved."
 *   **Aug. 1909 - Jan. 1910:** The uprising of the Muong people in Hoa Binh, led by Doc Bang and Tong Kiem.
-*   **September 1910:** Teacher Nguyen Tat Thanh (later Ho Chi Minh) left Duc Thanh School and traveled to Saigon on a boat owned by Lien Thanh Company. He stayed at the company's facilities in Saigon and worked at École des Mécaniciens to prepare for his journey abroad.
+*   **Sep. 1910:** After teaching and promoting patriotic values at Duc Thanh School (Phan Thiet), teacher Nguyen Tat Thanh left Duc Thanh, traveling by Lien Thanh company boat to Saigon, where he stayed at company premises and worked while preparing to journey abroad for national salvation.
 *   **1911:** Duc Thanh School closed after five years of operation. Lien Thanh Company supported Nguyen Tat Thanh with 18 Indochinese piastres for his travel expenses to seek a path for national salvation.
 *   **1911:** Following intervention by the French League for Human Rights, Phan Chau Trinh was released from Con Dao prison and subsequently traveled to France, where he wrote the *Trung Ky dan bien thi mat ki* (A Complete Account of the Peasants' Uprising in the Central Region).
-*   **June 5, 1911:** From Nha Rong Harbor (Saigon), young patriot Nguyen Tat Thanh departed on the French ship *Amiral Latouche-Tréville* under the name Van Ba, working as a kitchen assistant. He began a 30-year journey across continents to seek a path to liberate the nation.
+*   **1911 - 1912:** Working on French merchant vessels, Nguyen Tat Thanh sailed across multiple oceans, stopping at ports and colonial territories across Africa (Senegal, Gabon, Dahomey/Benin, Djibouti, Algeria, Réunion, Madagascar) and the Americas (Martinique, Uruguay, Argentina), witnessing firsthand the common plight and suffering of oppressed peoples.
+*   **Jun. 5, 1911:** From Nha Rong Harbor (Saigon), young patriot Nguyen Tat Thanh assumed the name **Van Ba**, boarding the French merchant ship *Amiral Latouche-Tréville* as an assistant cook, beginning a historic 30-year journey across nearly 30 countries on four continents to seek national liberation.
+*   **Jul. 6, 1911:** The ship *Amiral Latouche-Tréville* docked at the port of Marseille (France). Nguyen Tat Thanh (Van Ba) set foot on French soil for the first time after sailing through ports in Singapore, Colombo (Sri Lanka), and Port Said (Egypt), initiating his firsthand investigation of Western society.
 *   **Nov. 1911:** Albert Sarraut assumed the post of Governor-General, continuing to promote the "association" policy and demagogic reforms.
 *   **Nov. 18, 1911:** Protestantism established its first base in Da Nang, officially entering Vietnam.
 *   **May 1912:** Phan Boi Chau founded the Viet Nam Quang Phuc Hoi (Vietnam Restoration League) in Guangzhou (China), shifting from a constitutional monarchy stance to a democratic republic.
+*   **Late 1912:** Nguyen Tat Thanh arrived in the United States, living and working in New York and Boston. He worked as a pastry cook at the Omni Parker House Hotel in Boston, studied the 1776 US Declaration of Independence, and observed the civil rights struggles of African Americans in Harlem (New York).
 *   **1913:** The North-South railway line was basically completed, connecting Hanoi and Saigon.
-*   **1913:** During his journey to find a way to save the country, Nguyen Tat Thanh worked as a kitchen assistant at the Carlton Hotel in England.
+*   **1913 - 1917:** Nguyen Tat Thanh lived and worked in London, United Kingdom, using the name **Paul Thanh**. He undertook various laborious jobs such as school snow sweeper, boiler stoker, and pastry assistant at the luxury Carlton Hotel under legendary chef Auguste Escoffier, while self-studying English and joining the Overseas Workers Association.
 *   **Apr. 12, 1913:** A member of the Vietnam Restoration League assassinated the governor of Thai Binh, Nguyen Duy Han.
 *   **Apr. 26, 1913:** Another bombing occurred at the Hanoi Hotel, killing two French officers.
 *   **Dec. 24, 1913:** Phan Boi Chau was arrested in Guangdong, China.
@@ -1343,6 +1348,7 @@
 *   **Aug. 1916:** Emperor Khai Dinh issued a ban on commoners wearing yellow clothing and colors resembling yellow to maintain distinction from royalty.
 *   **Aug. 30, 1917:** The Thai Nguyen Uprising broke out, led by Trinh Van Can (Doi Can) and Luong Ngoc Quyen. The rebels controlled the provincial capital for six days.
 *   **Sep. 5, 1917:** French forces counter-attacked and recaptured the provincial capital of Thai Nguyen.
+*   **Late 1917:** Nguyen Tat Thanh returned from the UK to Paris (France) amidst World War I. He engaged with the French workers' movement, formed the "Group of Annamite Patriots" in Paris alongside Phan Chau Trinh and Phan Van Truong, and began using the name **Nguyen Ai Quoc** (Nguyen the Patriot).
 *   **1918:** The last regional examination was held in Annam.
 *   **Jan. 11, 1918:** Doi Can committed suicide after being surrounded, and the Thai Nguyen Uprising disintegrated.
 *   **Mar. 1918:** Emperor Khai Dinh conducted the "Northern Inspection Tour" (Ngu gia Bac tuan), visiting provinces from Quang Tri to Lang Son and Hai Phong.
@@ -1362,7 +1368,7 @@
 *   **Apr. 18, 1919:** A decree allowed the recruitment of Vietnamese staff into the Office of the Governor-General.
 *   **May 19, 1919:** A decree authorized the Governor-General of Indochina to change the judicial system in Annam and Laos.
 *   **Jun. 14, 1919:** King Khai Dinh issued a Royal Edict abolishing the examination system and Chinese-character schools, ending the traditional examination-based education system.
-*   **Jun. 18, 1919:** Nguyen Ai Quoc, on behalf of the Association of Vietnamese Patriots in France, sent the *Demands of the Annamite People* to the Versailles Conference.
+*   **Jun. 18, 1919:** On behalf of the Association of Annamite Patriots in France, Nguyen Ai Quoc submitted the eight-point *Demands of the Annamite People* claiming basic freedom, democracy, and equality for Indochinese people to the Versailles Peace Conference, creating a profound resonance across French and international political circles.
 *   **Jun. 29, 1919:** A decree reorganized the Ministry of Colonies in France and established the General Representation of the Colonies, strengthening the metropole's control.
 *   **Aug. 1919:** The "Boycott of Resident Aliens" (Hoa kieu) movement broke out, starting in Saigon and spreading throughout the country, demonstrating the national economic consciousness of the Vietnamese bourgeoisie.
 *   **Sep. 1919:** The court issued "Khai Dinh Thong Bao" brass coins.
@@ -1376,7 +1382,7 @@
 *   **Sep. 28, 1920:** A decree reorganized the High Council of the Colonies in France.
 *   **Nov. 1920:** Emperor Khai Dinh conferred honorary titles on businessman Bach Thai Buoi and mechanic Nguyen Van Phuc for successfully building the ship *Binh Chuan*, promoting Vietnamese industrial capability.
 *   **Dec. 25-30, 1920:** Nguyễn Ái Quốc attended the 18th Congress of the French Socialist Party in Tours, voted to join the Third International, and co-founded the French Communist Party, marking his transition from patriotism to Marxism-Leninism.
-*   **1921:** Nguyen Ai Quoc participated in founding the Intercolonial Union in France.
+*   **1921:** In Paris, Nguyen Ai Quoc along with revolutionary activists from French colonies (Algeria, Madagascar, Senegal, Guadeloupe, Martinique) founded the **Intercolonial Union** (Union Intercoloniale), establishing the first united solidarity front connecting liberation movements of oppressed peoples worldwide.
 *   **Mar. 30, 1921:** The Southern Military Government in Guangdong (not recognized by the central Chinese government or foreign powers) announced the administrative annexation of the Paracel Islands into Ya District (Hainan). France did not officially protest to avoid stimulating Chinese nationalism.
 *   **Apr. 12, 1921:** Albert Sarraut, then Minister of Colonies, presented the "Bill on Colonial Exploitation" to the French National Assembly.
 *   **Jun. 1921:** The Committee for Colonial Studies was established within the French Communist Party, with Nguyen Ai Quoc in charge of the Indochina subcommittee.
@@ -1388,7 +1394,7 @@
 *   **1922:** The Colonial Exhibition was held in Marseille (France), costing the Indochina budget 12 million francs.
 *   **Mar. 1922:** A customs officer in Ba Ria (Cochinchina) brutally beat a female salt porter, an incident highlighting the abuse of power by colonial officials.
 *   **Apr. 1922:** The investiture ceremony of Crown Prince Vinh Thuy (later Emperor Bao Dai) was solemnly held at the Thai Hoa Palace.
-*   **Apr. 1, 1922:** The newspaper *Le Paria* (The Pariah), the organ of the Intercolonial Union founded by Nguyen Ai Quoc, published its first issue in Paris.
+*   **Apr. 1, 1922:** The newspaper *Le Paria* (The Outcast) — the official voice of the Intercolonial Union founded, directed, and edited by Nguyen Ai Quoc — published its first issue in Paris, serving as a powerful weapon disseminating Marxism-Leninism and awakening anti-colonial movements.
 *   **Jun. 1922:** Emperor Khai Dinh arrived in Marseille and Paris, becoming the first reigning Vietnamese monarch to officially visit France (bringing Crown Prince Vinh Thuy for study).
 *   **Jun. 9, 1922:** A decree reorganized the Colonial Council of Cochinchina.
 *   **Jul. 15, 1922:** Phan Chau Trinh wrote the "Seven-Point Petition" addressed to King Khai Dinh, who was in France, denouncing the king's seven great crimes.
@@ -1398,18 +1404,19 @@
 *   **1923:** The revolutionary organization Tam Tam Xa (Heart-to-Heart Association) was founded in Guangzhou, China.
 *   **1923:** Construction of the **Kien Trung Palace** was completed within the Purple Forbidden City, featuring a blend of European and Asian architectural styles.
 *   **1923:** The Service for the Control and Assistance of Natives of the Colonies (C.A.I.) was established in France to monitor the Vietnamese.
-*   **Jun. 1923:** Nguyen Ai Quoc arrived in the Soviet Union to study and work at the Comintern.
-*   **Oct. 1923:** Nguyen Ai Quoc was elected to the Presidium of the Peasant International.
+*   **1923 - 1924:** In Moscow (USSR), Nguyen Ai Quoc used the alias **Linov** (or Lin) while studying at the Communist University of the Toilers of the East (KUTV). He attended Lenin's funeral (Jan. 1924), authored the memorial article "Lenin and the Peoples of the East" in *Pravda*, and systematically studied Marxist-Leninist political theory.
+*   **Jun. 13 - 30, 1923:** Nguyen Ai Quoc secretly departed Paris for Berlin (Germany), then sailed from Hamburg on the ship *Karl Liebknecht* to Petrograd (Leningrad, USSR) on June 30, 1923, officially arriving in the homeland of the October Revolution to work and study at the Communist International.
+*   **Oct. 10 - 15, 1923:** In Moscow, Nguyen Ai Quoc attended the First International Peasant Conference and was elected to the Presidium of the International Peasant Council, becoming the first Vietnamese to hold a leadership position in a Comintern mass organization.
 *   **Nov. 15, 1923:** Composer Van Cao (born Nguyen Van Cao) was born in Lach Tray, Hai Phong (originally from Vu Ban, Nam Dinh). He was one of the most prominent cultural giants of modern Vietnamese music, poetry, and painting, and the composer of "Tien Quan Ca" (The Marching Song) — the National Anthem of the Socialist Republic of Vietnam.
 *   **1924:** Ngo May, a prominent hero of the Vietnam People's Armed Forces known for his suicide bomb attack against French forces, was born in Cat Chanh commune, Phu Cat district, Binh Dinh province.
 *   **June 17 - July 8, 1924:** Nguyen Ai Quoc attended the 5th Congress of the Communist International in Moscow.
 *   **Jun. 19, 1924:** Pham Hong Thai carried out an assassination attempt on Governor-General Martial Merlin in Shamian (Guangzhou), creating a great sensation.
 *   **Sep. 18, 1924:** Governor-General Merlin signed a decree amending the General Code of Public Education, advocating for the development of primary education ("horizontal education").
 *   **Oct. 27, 1924:** The Indochina School of Fine Arts was established in Hanoi.
-*   **Dec. 1924:** Nguyen Ai Quoc arrived in Guangzhou (China), beginning the preparatory phase for the founding of the Party.
+*   **Nov. 11, 1924:** Nguyen Ai Quoc arrived in Guangzhou (China) from Moscow under the alias **Ly Thuy**, serving as an interpreter and envoy in Mikhail Borodin's Soviet Advisory Mission to Sun Yat-sen's government, initiating comprehensive preparations for the Vietnamese revolution.
 *   **1925:** A scientific mission led by Dr. A. Krempf, Director of the Institute of Oceanography, was conducted on the Paracel Islands aboard the ship *De Lanessan*.
 *   **1925:** Le Thi Rieng was born in Vinh My village, Gia Rai district (Bac Lieu). She later became a prominent revolutionary leader and heroine of the South.
-*   **1925:** The work *Le Procès de la colonisation française* (French Colonialism on Trial) by Nguyen Ai Quoc was published in Paris.
+*   **1925:** Nguyen Ai Quoc's seminal polemical work *French Colonialism on Trial* (Le Procès de la colonisation française) was published in Paris by the Librairie du Travail, exposing colonial atrocities and inspiring liberation movements across colonized nations.
 *   **Jan. 1925:** Nguyen Ai Quoc opened political training classes for patriotic youth in Guangzhou.
 *   **Mar. 3, 1925:** Minister of War Than Trong Hue sent a formal letter to the French Resident Superior, affirming that "The Paracel Islands have always belonged to Vietnam," asserting sovereignty amidst rising disputes.
 *   **Jun. 1925:** Nguyen Ai Quoc, alongside Ho Tung Mau and revolutionary comrades, founded the Vietnamese Revolutionary Youth League in Guangzhou (China), organizing theoretical training courses to prepare for the birth of the Communist Party of Vietnam.
@@ -1429,6 +1436,7 @@
 *   **Feb. 1927:** Nguyễn Ái Quốc's work *Đường Kách mệnh* (The Revolutionary Path) was published in Guangzhou, systemizing Marxist-Leninist lectures for Vietnamese revolutionaries and laying the theoretical foundation for the Vietnamese revolution.
 *   **Feb. 25, 1927:** The Resident Superior of Tonkin, Robin, issued a decree amending the reform of village administration, allowing the old council of village notables to exist alongside the council of representatives.
 *   **Mar. 1927:** The General Assembly of the Protestant Church was held in Da Nang.
+*   **May 1927 - 1928:** Evading Chiang Kai-shek's anti-communist crackdown in Guangzhou, Nguyen Ai Quoc secretly departed China via Hong Kong, Shanghai, and Vladivostok to Moscow; he then traveled to Berlin (Germany), attended the League Against Imperialism congress in Brussels (Belgium), and visited Switzerland and Italy (Rome, Naples) before sailing to Siam (Thailand).
 *   **Jun. 13, 1927:** Luong Van Can, the Principal of Dong Kinh Nghia Thuc, passed away in Hanoi. His funeral turned into a mass demonstration of patriotism by students and workers.
 *   **Jul. 1927:** The French oceanographic ship *De Lanessan* officially visited the Spratly Islands.
 *   **Jul. 14, 1927:** The Vietnamese Revolutionary Comrades' Association (precursor to Tan Viet) was founded.
@@ -1438,6 +1446,7 @@
 *   **Dec. 25, 1927:** Nguyen Thai Hoc and his associates founded the Viet Nam Quoc Dan Dang (VNQDD) in Hanoi, and he was elected Chairman of the Central Executive Committee.
 *   **1928:** Le Duan joined the Vietnamese Revolutionary Youth League, marking the beginning of his nearly 60-year revolutionary career.
 *   **Jan. 25, 1928:** The Hue court issued an edict banning the propagation of Protestantism and Cao Daiism in Annam.
+*   **Jul. 1928 - Nov. 1929:** Nguyen Ai Quoc conducted revolutionary activities in Siam (Thailand) under the alias **Thau Chin** (in Phichit, Udon Thani, Nakhon Phanom, Bangkok). He consolidated the "Friendship Association", established schools teaching Vietnamese and Thai, published the newspaper *Than Ai*, translated theoretical texts, and organized the overseas patriotic community.
 *   **Jul. 14, 1928:** The Central Executive Committee of the Vietnamese Revolutionary Comrades' Association decided to change its name to the Tan Viet Cach mang Dang (New Vietnamese Revolutionary Party).
 *   **Nov. 1928:** A new US phosphate company requested permission from the Governor of Cochinchina to research mines on the Spratly Islands.
 *   **Nov. 4, 1928:** A decree established the Grand Council of Economic and Financial Interests of Indochina.
@@ -1454,7 +1463,7 @@
 *   **Jan. 1, 1930:** The Indochinese Communist League was officially established in Ha Tinh.
 *   **Feb. 1930:** The Yen Bai Uprising, led by the Vietnamese Nationalist Party, broke out and was defeated.
 *   **Feb. 2, 1930:** Tran Tu Binh led the uprising of over 5,000 rubber plantation workers in Phu Rieng ("Red Phu Rieng"), one of the first major strike movements of the working class led by a communist cell.
-*   **Feb. 3-7, 1930:** The Unification Conference of communist organizations took place in Kowloon (Hong Kong) chaired by Nguyễn Ái Quốc, deciding to establish the Communist Party of Vietnam and adopting the Brief Platform and Strategy creatively applying Marxism-Leninism.
+*   **Feb. 3-7, 1930:** The Unification Conference of Vietnamese communist organizations took place in Kowloon (Hong Kong) chaired by Comrade Nguyen Ai Quoc (representing the Comintern), establishing the **Communist Party of Vietnam** and adopting foundational documents drafted by him: the Brief Political Platform, Brief Strategy, Brief Program, and Brief Statutes.
 *   **Early 1930s:** A land ownership survey by Yves Henry revealed severe polarization under French colonialism. Public land accounted for only 21% in Tonkin, 25% in Annam, and 3% in Cochinchina. For private land, 94.8% of landowners held less than 5 hectares (accounting for 28.5% of total land), while 0.30% of landowners held over 50 hectares (accounting for 31.5% of total private land).
 *   **Feb. 10, 1930:** The Yen Bai Uprising, led by the Vietnamese Nationalist Party, broke out but was quickly defeated.
 *   **Mar. 9, 1930:** The first flight connecting Paris and Saigon was completed, marking the development of air transportation.
@@ -1498,6 +1507,7 @@
 *   **Sep. 12, 1933:** Minister of the Interior Ngo Dinh Diem resigned after French colonial authorities rejected his proposals for administrative reform and granting greater legislative powers to the Chamber of Representatives of Annam, withdrawing from the imperial court before eventually going into exile abroad.
 *   **Dec. 21, 1933:** The Governor of Cochinchina, J. Krautheimer, signed a decree officially annexing the Spratly Islands into Ba Ria Province.
 *   **1934 - 1935:** Nguyen Son (Hong Thuy) became the only Vietnamese soldier to participate in the historic 10,000 km Long March of the Chinese People's Liberation Army.
+*   **1934 - 1938:** Nguyen Ai Quoc returned to the Soviet Union under the alias **Linov** (Lin). He served as a researcher at the Institute for National and Colonial Questions in Moscow, graduated from the International Lenin School (1935 - 1938), and attended the 7th Comintern Congress (1935) with the Indochinese delegation.
 *   **Sep. 12, 1934:** Vu A Dinh, a courageous young hero of the Hmong ethnic group during the anti-French resistance, was born in Pu Nhung commune, Tuan Giao district, Dien Bien province.
 *   **Mar. 27 - 31, 1935:** The 1st National Congress of the Party met in Macao (China), electing a Central Executive Committee with Comrade Le Hong Phong as General Secretary; Comrade Phung Chi Kien was elected to the Standing Committee of the Central Executive Committee, in charge of military affairs.
 *   **Jul. 25 - Aug. 20, 1935:** Nguyen Thi Minh Khai represented the Indochinese Communist Party, attending and addressing the 7th Congress of the Communist International in Moscow (USSR).
@@ -1529,6 +1539,7 @@
 *   **Jun. 15, 1938:** Governor-General of Indochina Jules Brévié issued a decree establishing an administrative delegation in the Paracel Islands under Thua Thien province. France also placed a lighthouse, a meteorological station, and a radio station on Pattle Island (Hoang Sa) and erected a sovereignty stele.
 *   **Jul. 18, 1938:** The Chinese Ambassador in Paris submitted a diplomatic note strongly affirming China's claims over the Paracel Islands. The note acknowledged the French Ministry of Foreign Affairs' assurance that the French occupation "had absolutely no intention of affecting the respective legal positions of China and France" and reserved the rights of both parties.
 *   **Aug. 30, 1938:** The French government issued a decree on press freedom in Cochinchina, allowing the publication of Vietnamese-language newspapers without prior permission.
+*   **Oct. 1938 - 1940:** Nguyen Ai Quoc departed Moscow for China. Operating under the alias **Ho Quang** (as a Major in the Eighth Route Army), he carried out activities in Yan'an, Xi'an, Guilin, and Kunming, re-establishing contact with the overseas leadership of the Indochinese Communist Party to prepare for his return to Vietnam.
 *   **Dec. 10, 1938:** Truong Tu Anh announced the theory of "Survivalism" (Chu nghia Dan toc Sinh ton), which later served as the ideological foundation for the Dai Viet Nationalist Party.
 
 ### **Period of National Liberation Mobilization and August Revolution (1939 - 1945)**
@@ -1560,7 +1571,7 @@
 *   **Aug. 22, 1941:** Phung Chi Kien heroically sacrificed his life in Bang Duc commune (now Thuong On commune), Ngan Son district, Bac Kan province while covering his comrades' escape during a French siege. He was the first military leader of the Party to fall in the national liberation movement.
 *   **Aug. 28, 1941:** French colonialists executed steadfast revolutionary leaders Nguyen Thi Minh Khai, Ha Huy Tap, and Nguyen Van Cu at Giong crossroads (Hoc Mon, Gia Dinh).
 *   **Mid-1942:** Luu Tan Phat left his teaching career due to enemy surveillance and returned to My Tho to work as a watch repairer, using it as a cover for revolutionary activities.
-*   **Aug. 1942:** Taking the name Ho Chi Minh, he went to China to seek international support but was arrested by the Chiang Kai-shek administration. During more than a year in prison, he wrote *Prison Diary*.
+*   **Aug. 27, 1942 - Sep. 10, 1943:** Ho Chi Minh was unlawfully detained by Chinese Nationalist local authorities in Tuc Vinh (Guangxi). During over 13 months of harsh detention transferred across nearly 30 jails in 13 Guangxi counties, he composed the immortal classical Chinese poetry collection *Prison Diary* (*Nguc Trung Nhat Ky*) containing 133 poems, before being released in Liuzhou on September 10, 1943.
 *   **Sep. 6, 1942:** Former General Secretary Le Hong Phong heroically passed away at Con Dao Prison after years of brutal torture and imprisonment.
 *   **Oct. 1, 1942:** The Vietnam Revolutionary League (Viet Cach) was founded in Liuzhou, China, gathering various patriotic groups.
 *   **1943:** The Indochinese Communist Party published the *Theses on Vietnamese Culture*.
@@ -1573,7 +1584,6 @@
 *   **Early 1943:** Under the direction of the Son La Prison Party Cell, the "Thai Youth National Salvation" (Đoàn thanh niên Thái cứu quốc) organization was established to gather patriotic youth. Lò Văn Giá joined this organization, becoming an outstanding mass element supporting the revolution from outside the prison.
 *   **Feb. 15, 1943:** Hero Kim Dong (Nong Van Den), leader of the Children's Alliance for National Salvation, courageously falls at age 14 while distracting French forces to protect revolutionary cadres in Pac Bo (Cao Bang).
 *   **Aug. 1943:** The Son La Prison Party Cell organized a historic prison break for key political prisoners to prepare for the General Uprising. Lò Văn Giá, fluent in the Hmong language and familiar with the Northwest terrain, was chosen to guide four communist fighters: Tran Dang Ninh, Nguyen Luong Bang, Nguyen Van Tran, and Luu Duc Hieu. After a 5-day arduous journey, he successfully guided them to safety in the Suoi Rut area (Hoa Binh). Upon returning to Son La, Lo Van Gia was arrested by the French colonialists. Unable to extract any confessions and powerless against his absolute loyalty, they secretly assassinated him.
-*   **Sep. 10, 1943:** Ho Chi Minh was released from prison in China.
 *   **Oct. 27, 1943:** Doctor Tran Van Lai was arrested by the French colonial administration and imprisoned in Hoa Lo, then Son La prison, for his patriotic activities.
 *   **Dec. 1, 1943:** The Cairo Declaration was issued by the US, UK, and China, affirming the intention to force Japan to return territories stolen from the Republic of China (Manchuria, Taiwan, Penghu). Notably, the Paracel and Spratly Islands were not mentioned in this declaration for return to China.
 *   **1944:** At the age of 13, after her father's death, Nguyen Thi Ut (Ut Tich), with the support of Viet Minh cadres, redeemed herself from a local landlord, escaping her life as a servant.
@@ -1671,7 +1681,7 @@
 *   **May 19, 1946:** The birthday of President Ho Chi Minh was celebrated publicly for the first time, becoming a demonstration of national unity.
 *   **May 20 - 27, 1946:** French High Commissioner Thierry d'Argenlieu dispatched the escort ship *L'Escarmouche* to survey the Paracel Islands. Finding the islands uninhabited, a half-platoon of French troops landed on Pattle Island (Hoang Sa) to mark the restoration of French rights. They would later be relieved by troops from the *Savorgnan de Brazza*.
 *   **May 29, 1946:** The Vietnamese National Popular League (Lien Viet) was established.
-*   **May 31, 1946:** President Ho Chi Minh departed for France for official negotiations.
+*   **May 31, 1946:** President Ho Chi Minh led the government delegation of the Democratic Republic of Vietnam departing from Gia Lam Airport (Hanoi) on an official state visit to France as a guest of honor of the French Republic.
 *   **Jun. 1, 1946:** In Saigon, High Commissioner D'Argenlieu announced the establishment of the "Autonomous Republic of Cochinchina."
 *   **Jun. 30, 1946:** Dinh Thi Van was admitted to the Indochinese Communist Party. She subsequently held various leadership roles, including President of the Women's Union of Nam Dinh province from 1951 to 1953.
 *   **Jul. 1946:** Đặng Thị Kim was appointed to the Executive Committee of the Nha Trang Women's National Salvation Association. On October 30, 1946, she co-led a major protest demanding the French government implement the March 6 Preliminary Accord and September 14 Modus Vivendi.
@@ -1683,9 +1693,9 @@
 *   **Aug. 1, 1946:** D'Argenlieu convened the Conference of the Indochinese Federation in Da Lat, sabotaging the Fontainebleau Conference.
 *   **Aug. 25, 1946:** At a gathering of Southern compatriots in Hanoi, professor, doctor, and People's Teacher Tran Huu Nghiep, representing Southern intellectuals, formally proposed renaming Saigon to Ho Chi Minh City to honor President Ho Chi Minh's great contributions and to express the Southern people's aspiration for national reunification. This historic proposal was supported and signed by 57 Southern intellectuals present at the meeting.
 *   **Aug. 27, 1946:** The proposal and resolution by the 57 Southern intellectuals to rename Saigon to Ho Chi Minh City were published in the *Cuu Quoc* (National Salvation) newspaper, transforming an individual initiative into a widespread reflection of the people's aspirations in Saigon - Gia Dinh and the South.
-*   **Sep. 14, 1946:** President Ho Chi Minh signed a Modus Vivendi with the French Minister of Overseas France, Marius Moutet, in Paris.
+*   **Sep. 14, 1946:** During his nearly five-month official state visit to France, President Ho Chi Minh signed the **Franco-Vietnamese Modus Vivendi** with French Overseas Minister Marius Moutet in Paris, making concessions on certain economic and cultural interests to gain vital peace time to strengthen the revolutionary administration and prepare for national resistance.
 *   **Sep. 21, 1946:** The Vietnam Democratic Social Party (Dan Chu Xa Hoi Dang or Dan Xa) was founded by Huynh Phu So, the founder of Hoa Hao Buddhism.
-*   **Oct. 20, 1946:** President Ho Chi Minh returned to Haiphong port.
+*   **Oct. 20, 1946:** President Ho Chi Minh arrived back at Haiphong port aboard the warship *Dumont d'Urville* following his nearly five-month state visit to France, warmly welcomed by the entire nation.
 *   **Oct. 28 - Nov. 9, 1946:** The 1st National Assembly held its second session, adopting the first Constitution of the Democratic Republic of Vietnam (1946 Constitution), in which Article 3 officially stipulated: "The flag of the Democratic Republic of Vietnam is rectangular with a red background and a five-pointed gold star in the center. The national anthem is Tien Quan Ca".
 *   **Nov. - Dec. 1946:** Troops of the Republic of China landed on the Paracel Islands (November) and the Spratly Islands (December) under the pretext of disarming Japanese troops.
 *   **Nov. 20, 1946:** A major conflict broke out in Haiphong (the Haiphong Incident) when French troops demanded control of customs.
@@ -2042,6 +2052,7 @@
 *   **Dec. 1957:** The 13th Conference of the Party Central Committee identified two strategic tasks: the socialist revolution in the North and the national people's democratic revolution in the South.
 *   **1958 - 1960:** The North implemented the **Three-Year Plan** for economic and cultural transformation and development.
 *   **Feb. 1958:** Chinese fishermen attempted to settle on the western part of the Paracel Islands but were unsuccessful.
+*   **Feb. 1958 - Mar. 1959:** President Ho Chi Minh paid historic official goodwill visits to the Republic of India and the Union of Burma (Myanmar) in February 1958, and the Republic of Indonesia in February-March 1959, consolidating solidarity and friendship with the Non-Aligned Movement and Asian-African nations.
 *   **May 1, 1958:** The BAJARAKA movement was founded by ethnic minority intellectuals in the Central Highlands to demand rights and fight discrimination.
 *   **May 5, 1958:** A "Fatherland Acknowledges the Merit" (Bang To quoc ghi cong) certificate was issued for the martyr Nguyen Van Luom, officially recognizing his sacrifice for the nation.
 *   **Jul. 19, 1958:** Tran Thi Quang Man executed a knife attack targeting Major Lam Quang Phong, Chief of An Phuoc District (Rach Gia). The attack severely wounded the enemy officer, while she was captured and sentenced to hard labor.
@@ -2445,7 +2456,7 @@
 * **18/06/1969:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Ngô Văn Tác (Trung úy, trưởng xe kiêm sĩ quan điều khiển thuộc Tiểu đoàn 71 tên lửa, Trung đoàn 285, Sư đoàn Phòng không 369. Tham gia điều khiển tên lửa bắn rơi nhiều máy bay Mỹ).
 * **18/06/1969:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Trần Công Nhỡn (Thượng sĩ, Trung đội trưởng lái xe thuộc Đại đội 3, Đoàn 878, Binh trạm 16, Đoàn 500 Tổng cục Hậu cần. Phụ trách vận chuyển vũ khí, lương thực phục vụ chiến trường).
 *   **Late July 1969:** Thiều Văn Chỏi and a comrade disguised in civil guard uniforms attacked Vàm Bưng and Mang Cá posts during an enemy feast, killing 5 and wounding 3 enemy soldiers, leading terrified enemy troops to build a shrine to "Ông Thần Chỏi" (God Chỏi) at Vàm Bưng post.
-*   **Sep. 2, 1969:** President Ho Chi Minh passed away. The entire Party, people, and army turned grief into revolutionary action, determined to implement his testament.
+*   **Sep. 2, 1969:** At 9:47 AM on September 2, 1969, beloved President Ho Chi Minh passed away in Hanoi at the age of 79. The entire Party, military, and people of Vietnam turned grief into revolutionary action, resolutely determined to fulfill his sacred Testament.
 *   **Sep. 4, 1969:** Following the death of President Ho Chi Minh, Fidel Castro and Cuban President Osvaldo Dorticós Torrado sent a condolence telegram highly praising his extraordinary revolutionary qualities and leadership.
 *   **Sep. 23, 1969:** The 3rd National Assembly elected Comrade Ton Duc Thang as President and Comrade Nguyen Luong Bang as Vice President of the Democratic Republic of Vietnam.
 *   **Oct. 4, 1969 (or Oct. 7, 1970 according to varying accounts):** **Battle of Suoi Soc (Sa Nghe).** Bui Van Thuyen and a militiaman named Chien were ambushed by two US battalions. After Chien was wounded, Thuyen fought alone from morning until 5:00 PM. Utilizing seven different types of captured and existing weapons, he continuously maneuvered and repelled multiple enemy assaults, reportedly eliminating hundreds of US troops (recorded as 360). In 1995, a US MIA delegation visiting the battlefield acknowledged the severe casualties and expressed astonishment upon learning they had faced a single Vietnamese fighter.
@@ -2785,7 +2796,7 @@
 *   **Apr. 1987:** The 2nd Conference of the Party Central Committee (6th tenure) decided on the direction for resolving issues of distribution and circulation, abolishing the centralized bureaucratic subsidy system and the policy of "blocking rivers, banning markets."
 *   **May 25, 1987:** General Secretary Nguyen Van Linh initiated the column "Things That Must Be Done Immediately" in *Nhan Dan* newspaper under the pen name N.V.L., sparking anti-corruption and public transparency efforts.
 *   **Jul. 1987:** The 3rd Conference of the Party Central Committee (6th tenure) issued a resolution to shift the activities of state-owned economic units to socialist business accounting and to renew state management of the economy.
-*   **Nov. 1987:** UNESCO issued Resolution 24C/18.65 commemorating the 100th anniversary of the birth of President Ho Chi Minh, honoring him as a "Vietnamese Hero of National Liberation and Great Man of Culture".
+*   **Oct. 20 - Nov. 20, 1987:** The 24th General Conference of the United Nations Educational, Scientific and Cultural Organization (UNESCO) in Paris adopted Resolution 24C/18.65 on the occasion of the centenary of his birth (1890 - 1990), officially honoring President Ho Chi Minh as a "**Vietnamese Hero of National Liberation and Great Man of Culture**".
 *   **Nov. 1987:** During a visit to the Soviet Union for the 70th anniversary of the October Revolution, General Secretary Nguyen Van Linh warned Soviet leaders about the dangers of removing Article 6 of the Constitution regarding the Party's leadership role.
 *   **Nov. 14, 1987:** The Council of Ministers (now the Government) issued Decision No. 217/HDBT, granting autonomy in production and business to state-owned enterprises.
 * **1988:** Hero of the People's Armed Forces Bùi Đình Cư (Trung đội trưởng pháo binh thuộc Trung đoàn 675, Đại đoàn 351) passed away.
