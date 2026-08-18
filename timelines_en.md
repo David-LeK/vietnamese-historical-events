@@ -1143,6 +1143,7 @@
 *   **Sep. 21, 1861:** Admiral Charner signed a decree establishing the Bá Đa Lộc School of Interpreters.
 *   **Dec. 10, 1861:** The righteous army of Nguyen Trung Truc burned the French warship L'Espérance on the Nhat Tao River (Tan An).
 *   **Dec. 14 - 18, 1861:** French and Spanish forces attacked Bien Hoa. After heavy bombardment, they captured Bien Hoa Citadel on December 18, forcing the Vietnamese defenders to retreat to Binh Thuan.
+*   **1862:** Nguyen Sinh Sac (father of President Ho Chi Minh) was born in Kim Lien village, Nam Dan district, Nghe An province. He was a patriotic Confucian scholar who passed the imperial examination as Pho bang (Junior Doctor) in 1901 and served as the magistrate of Binh Khe district before traveling to Southern Vietnam to practice traditional medicine and spread patriotic ideology.
 *   **Jan. 7, 1862:** French forces captured Ba Ria Citadel.
 *   **01/02/1862:** Governor Bonard of Cochinchina signed the decision to establish Con Dao prison. This marked the beginning of the systematic but also brutal exploitation of this island by the French colonialists.
 *   **Mar. 20 - 23, 1862:** French gunboats attacked Vinh Long. After days of fierce fighting, Vietnamese forces burned their own facilities and retreated. French forces occupied Vinh Long Citadel on March 23.
@@ -1167,6 +1168,7 @@
 *   **Aug. 4, 1867:** After fasting for 17 days, Phan Thanh Gian committed suicide by poison, having failed to defend the western provinces.
 *   **1868:** Emperor Tu Duc officially restored Le Van Duyet's titles as "Vong Cac Merit Official" and "Commander of the Left Army", allowing him to be worshipped in the Temple of Meritorious Officials, completing his rehabilitation.
 *   **1868 (Mau Thin year):** Bui Vien passed the Cu Nhan examination.
+*   **1868:** Hoang Thi Loan (mother of President Ho Chi Minh) was born in Hoang Tru village, Kim Lien commune, Nam Dan district, Nghe An province. She was an exemplary model of the hardworking, devoted Vietnamese mother who nurtured and raised patriotic children, most notably President Ho Chi Minh.
 *   **Mar. 1868:** The Military Academy (Vo Hoc Duong) was established west of the Capital Citadel.
 *   **Jun. 16 - 21, 1868:** Nguyen Trung Truc's righteous army successfully attacked and controlled Rach Gia Citadel for 5 days before being suppressed by French reinforcements.
 *   **Jul. 1868:** The court purchased a large copper-clad steamship named "Man Thoa", marking efforts to adopt Western technology.
@@ -1205,6 +1207,7 @@
 *   **Jan. 30, 1882:** The Governor of Cochinchina issued a decree requiring official documents to be written in French. If chữ Quốc ngữ was used, it had to be accompanied by a French translation.
 *   **Apr. 3, 1882:** Colonel Henri Rivière landed in Hanoi, beginning the second invasion of Tonkin.
 *   **Apr. 25, 1882:** Second Battle of Hanoi. French Colonel Henri Rivière issued an ultimatum to Governor Hoang Dieu and attacked the Hanoi Citadel. The citadel fell rapidly despite fierce resistance. Governor Hoang Dieu committed suicide to preserve his honor. This marked a major escalation in French colonial ambitions in Tonkin.
+*   **1883:** Nguyen Sinh Sac married Hoang Thi Loan in Hoang Tru village (Nam Dan, Nghe An). The marriage marked the union of two studious Confucian families, creating the nurturing cradle that would give birth to the nation's great leader, President Ho Chi Minh.
 *   **Feb. 27 - 28, 1883:** Battle of Gia Quat - Gia Lam. While Henri Rivière was absent, Vietnamese royal forces and the Black Flag Army encircled Hanoi. French Major Berthe de Villers led a successful counter-attack, repelling the Vietnamese forces.
 *   **Mar. 27, 1883:** Battle of Nam Dinh. Henri Rivière led a naval and infantry assault against the Nam Dinh Citadel. Defended by 6,200 Vietnamese troops and 600 Black Flag soldiers, the citadel fell to the heavily armed French forces, securing French communications to the sea.
 *   **May 19, 1883:** Second Battle of Cau Giay. A combined force of the Black Flag Army and Vietnamese royal troops ambushed a French military column attempting to break out of Hanoi. French commanders Henri Rivière and Berthe de Villers were killed in the fierce engagement. This defeat shocked the French government, prompting massive reinforcements. Emperor Tu Duc, hoping for negotiations, issued an edict stating: "Those who discuss peace are meritorious, those who discuss war are guilty," preventing further attacks.
@@ -1275,6 +1278,8 @@
 *   **1899:** The Haiphong Portland Cement Plant was established; construction of Hoa Lo Prison began in Hanoi.
 *   **1900:** Phan Boi Chau passed the regional examination in Nghe An with the highest honors, beginning his career as a professional revolutionary.
 *   **Apr. 11, 1900:** The province of Tuyen Quang was re-established.
+*   **1901:** Nguyen Sinh Sac passed the metropolitan imperial examination as a Pho bang (Junior Doctor) in the Tan Suu year under King Thanh Thai. The royal court bestowed honors upon him, and the villagers of Sen built a wooden house to celebrate his triumphant return.
+*   **Feb. 10, 1901:** Hoang Thi Loan (mother of President Ho Chi Minh) passed away in the imperial capital of Hue at the age of 33 following the birth of her fourth child, while her husband was away supervising exams in Thanh Hoa. Her eleven-year-old son Nguyen Sinh Cung (President Ho Chi Minh) and caring neighbors organized her funeral.
 *   **May 18, 1901:** Phung Chi Kien (born Nguyen Vy) was born in Dien Yen commune, Dien Chau district, Nghe An province. He was a prominent early leader of the Communist Party, the first military commander of the Party, and the first general of the Vietnam People's Army.
 *   **Sep. 1, 1901:** *Nong Co Min Dam*, one of the first important newspapers in the Quoc Ngu script, was launched in Saigon.
 *   **1902:** The Long Bien Bridge (Hanoi) and the Hanoi - Haiphong railway line were completed. The Indochina Medical School was founded.
@@ -1307,6 +1312,7 @@
 *   **Dec. 1908:** The French colonialists ordered the closure of the Dong Kinh Nghia Thuc school and suppressed its participants.
 *   **Mar. 27, 1909:** Nguyen Tuat, the father of the real-life "Luom" (Nguyen Thanh), was born in Lai Trung, Quang Tho commune, Quang Dien district, Binh Tri Thien province (now Thua Thien - Hue). He later worked as a postal escort and moved to various locations, including Quy Nhon and Nha Trang.
 *   **Jun. 6, 1909:** The Viceroy of Liangguang (China) sent a brief expedition, commanded by Admiral Li Chun, for a 24-hour landing on several islands of the Paracels to fire cannons and raise the Chinese flag. France made no official protest at the time.
+*   **Jul. 1, 1909:** Pho bang Nguyen Sinh Sac was appointed by the royal court as the magistrate of Binh Khe district (Binh Dinh province). During his tenure, he consistently sided with the poor and punished oppressive local bullies, famously remarking that serving as a feudal mandarin was merely being "a slave among slaves, and further enslaved."
 *   **Aug. 1909 - Jan. 1910:** The uprising of the Muong people in Hoa Binh, led by Doc Bang and Tong Kiem.
 *   **September 1910:** Teacher Nguyen Tat Thanh (later Ho Chi Minh) left Duc Thanh School and traveled to Saigon on a boat owned by Lien Thanh Company. He stayed at the company's facilities in Saigon and worked at École des Mécaniciens to prepare for his journey abroad.
 *   **1911:** Duc Thanh School closed after five years of operation. Lien Thanh Company supported Nguyen Tat Thanh with 18 Indochinese piastres for his travel expenses to seek a path for national salvation.
@@ -1323,6 +1329,8 @@
 
 ### **Period of World War I (1914 - 1918)**
 
+*   **1914:** Pre-insurrection revolutionary and martyr Vu Quy was born in Cong My village, Nam Son commune, An Duong district, Hai Phong. He was a prominent cadre of the Viet Minh and Acting Secretary of the Hanoi Party Committee, instrumental in mobilizing intellectuals and artists into the Cultural Salvation Association and directly assigning composer Van Cao to compose "Tien Quan Ca".
+*   **Jan. 1, 1914:** Senior General Nguyen Chi Thanh (born Nguyen Vinh) was born in Niem Pho village, Quang Dien district, Thua Thien Hue province. He was an eminent military and political leader of the Communist Party and the Vietnam People's Army, an outstanding disciple of President Ho Chi Minh, who served as Director of the General Political Department and Secretary of the Central Office for South Vietnam.
 *   **Aug. 3, 1914:** France entered World War I, beginning to intensify the plunder of human and material resources in Indochina.
 *   **Nov. 10, 1914:** An uprising of ethnic minorities in the Northwest region and Upper Laos broke out, lasting until March 1916.
 *   **1915 - 1916:** The French colonial administration began a large-scale "volunteer" recruitment (forced conscription) campaign in Indochina for World War I.
@@ -1392,6 +1400,7 @@
 *   **1923:** The Service for the Control and Assistance of Natives of the Colonies (C.A.I.) was established in France to monitor the Vietnamese.
 *   **Jun. 1923:** Nguyen Ai Quoc arrived in the Soviet Union to study and work at the Comintern.
 *   **Oct. 1923:** Nguyen Ai Quoc was elected to the Presidium of the Peasant International.
+*   **Nov. 15, 1923:** Composer Van Cao (born Nguyen Van Cao) was born in Lach Tray, Hai Phong (originally from Vu Ban, Nam Dinh). He was one of the most prominent cultural giants of modern Vietnamese music, poetry, and painting, and the composer of "Tien Quan Ca" (The Marching Song) — the National Anthem of the Socialist Republic of Vietnam.
 *   **1924:** Ngo May, a prominent hero of the Vietnam People's Armed Forces known for his suicide bomb attack against French forces, was born in Cat Chanh commune, Phu Cat district, Binh Dinh province.
 *   **June 17 - July 8, 1924:** Nguyen Ai Quoc attended the 5th Congress of the Communist International in Moscow.
 *   **Jun. 19, 1924:** Pham Hong Thai carried out an assassination attempt on Governor-General Martial Merlin in Shamian (Guangzhou), creating a great sensation.
@@ -1437,6 +1446,7 @@
 *   **May 1-9, 1929:** The first congress of the Vietnamese Revolutionary Youth League was held in Hong Kong.
 *   **Jun. 17, 1929:** The Indochinese Communist Party was founded in Hanoi.
 *   **Nov. 15, 1929:** The Annamese Communist Party was founded in Cochinchina.
+*   **Nov. 27, 1929:** Pho bang Nguyen Sinh Sac (father of President Ho Chi Minh) passed away in Hoa An village, Cao Lanh (now Dong Thap province) at the age of 67. During his final years in Southern Vietnam, he practiced traditional medicine to heal the poor, disseminated patriotic thought, and was deeply revered, sheltered, and entombed by the local people of Dong Thap.
 *   **Dec. 19, 1929:** Đặng Thị Kim (also known as Đặng Thị Oanh) was born in Hành Thiện village, Xuân Trường district, Nam Định province. She would later become a prominent revolutionary and Hero of the People's Armed Forces, known for her unyielding spirit.
 *   **1930:** Cù Chính Lan, who would later become a legendary tank-destroying hero, was born into a poor peasant family in Quynh Doi commune, Quynh Luu district, Nghe An province. Orphaned of his mother at the age of 4, he grew up enduring extreme hardship under the oppressive colonial and feudal regimes, forging a resilient and determined character.
 *   **1930:** Luu Tan Phat joined the Communist Party, actively participating in revolutionary activities in My Tho.
@@ -1468,16 +1478,17 @@
 *   **Apr. 11, 1931:** The Communist International issued a resolution recognizing the Indochinese Communist Party as an independent section.
 *   **Apr. 19, 1931:** Nguyen Thi Ut (Ut Tich) was born in Tich Thien village, Cau Ke district, Can Tho (now Tam Ngai, Tra Vinh). She later became a legendary heroine of the Liberation Army of South Vietnam.
 *   **Apr. 19, 1931:** General Secretary Tran Phu was arrested by the enemy.
-*   **Jun. 1931:** Nguyen Ai Quoc (under the alias Sung Man Cho) was arrested by British authorities in Hong Kong.
+*   **Jun. 6, 1931:** Nguyen Ai Quoc (under the alias Tong Van So / Sung Man Cho) was arrested by British police at 186 Tam Kung Road (Kowloon, Hong Kong) at the request of the French secret service, initiating the historic **Tong Van So Case**. French colonial authorities vigorously sought his extradition to Indochina to execute the death sentence in absentia handed down by the Court of Vinh in 1929.
 *   **Sep. 6, 1931:** Comrade Tran Phu died in Cho Quan hospital.
 *   **Nov. 20, 1931:** Ly Tu Trong heroically sacrificed his life at the Saigon Main Prison guillotine at the age of 17, leaving behind the immortal quote: "The path for youth can only be the revolutionary path, there is no other path."
 *   **Dec. 4, 1931:** The French government sent a diplomatic note to the Chinese legation in Paris officially claiming the Paracel Islands.
 * **1932:** Hero of the People's Armed Forces Lương Văn Tụy (Chiến sĩ trẻ cắm cờ búa liềm trên núi Non Nước, Ninh Bình) passed away.
 *   **Apr. 29, 1932:** France issued a formal protest against Chinese claims, detailing historical evidence of Annam's possession of the Paracel Islands. In the same year, France proposed submitting the dispute to international arbitration, which China opposed.
 *   **Jun. 15, 1932:** The Indochinese Communist Party published its *Action Program* to restore the organizational system and revolutionary movement.
+*   **Jul. 21, 1932:** The Tong Van So Case achieved a decisive legal victory before the Judicial Committee of the Privy Council in London. Thanks to the dedicated and tireless defense mounted by British lawyer Francis Henry Loseby and progressive barristers, the Privy Council rejected the French extradition request and accepted a settlement, compelling Hong Kong authorities to release Tong Van So and allow his safe departure from the colony.
 *   **Aug. 16, 1932:** Emperor Bao Dai returned to the country to take up his reign after studying in France.
 *   **Dec. 21, 1932:** Nguyen Thanh (commonly known as Nguyen Van Luom), the real-life inspiration for the famous poem "Luom" by To Huu, was born in Quy Nhon. He would later become a guerrilla member and an immortal symbol of young, brave Vietnamese messengers during the resistance against the French.
-*   **Dec. 28, 1932:** Nguyen Ai Quoc was released from prison in Hong Kong.
+*   **Dec. 28, 1932:** Tong Van So (Nguyen Ai Quoc) was released from Victoria Prison in Hong Kong. After a brief re-arrest and decisive intervention by Lawyer Loseby with the Governor of Hong Kong, on January 22, 1933, secretly assisted and disguised by the Loseby family, Nguyen Ai Quoc safely departed Hong Kong on a fishing boat heading to Xiamen (China), completely evading the French secret police.
 *   **1933:** At the age of 17, Dinh Thi Van joined revolutionary activities, undertaking communication tasks, safeguarding secret Party documents, and participating in mutual aid groups to protect revolutionary cadres in Nam Dinh.
 *   **1933:** Huynh Tan Phat entered the Indochina Fine Arts College to study architecture.
 *   **Mar. 1933:** Ha Huy Tap (alias Hong The Cong) published the work *Draft History of the Indochinese Communist Movement*.
@@ -1497,6 +1508,7 @@
 *   **1936:** The Vietnam Independence Motion Alliance Association (Viet Nam Doc Lap Van Dong Dong Minh Hoi), a precursor organization with a similar name to the Viet Minh, was established in Nanjing (China) by Vietnamese anti-imperialist activists.
 *   **1936:** Returning from Con Dao prison, Le Duan operated in Central Vietnam. As Secretary of the Party Committee of Central Vietnam (Xu uy Trung Ky), he led the Democratic Front movement (1936-1939), initiating struggles for livelihood and democratic rights.
 *   **May 3, 1936:** The French Popular Front, led by Léon Blum, won the election, opening a favorable period for the democratic movement in the colonies.
+*   **May 31, 1936:** Professor, Doctor, People's Physician Dang Hanh De was born in Hanoi. He is one of the foremost pioneers who laid the groundwork and advanced cardiovascular and thoracic surgery in Vietnam, an outstanding disciple continuing the legacy of Professor Ton That Tung, and the Founding President of the Vietnam Society of Cardiovascular and Thoracic Surgery.
 *   **Jul. 26, 1936:** The Party Central Committee conference in Shanghai (China), chaired by Comrade Le Hong Phong, decided to establish the Indochinese Anti-Imperialist People's Unified Front and appointed Comrade Ha Huy Tap as General Secretary (serving until March 1938).
 *   **Aug. 1936:** The "Indochinese Congress" movement began vigorously, aiming to collect "people's aspirations" to send to the French Parliament's investigation delegation. Hundreds of "Action Committees" were formed across the country.
 *   **Nov. 13, 1936:** A general strike by over 30,000 miners in the Hon Gai and Cam Pha region broke out and achieved a major victory.
@@ -1569,11 +1581,13 @@
 *   **Early 1944:** The Dai Viet National Alliance (Dai Viet Quoc Gia Lien Minh) was formed, comprised of various nationalist parties such as the Dai Viet National Socialist Party, Dai Viet Nationalist Party, and Dai Viet Democratic Party.
 *   **Jun. 30, 1944:** The Vietnam Democratic Party was founded, gathering intellectuals and national bourgeoisie to join the Viet Minh Front.
 *   **Oct. 1944 - May 1945:** The 1944–1945 Ất Dậu Famine struck Northern and North-Central Vietnam due to harsh grain requisitions by French colonialists and Japanese forces alongside severe weather, resulting in approximately 2 million deaths.
+*   **Nov. 1944:** Composer Van Cao completed the march **"Tien Quan Ca"** (The Marching Song) at 45 Nguyen Thuong Hien Street (Hanoi) upon receiving an assignment from Viet Minh cadre Vu Quy. Van Cao personally lithographed the lyrics and music for publication in the underground newspaper *Doc Lap* (Independence), transforming the march into an inspiring anthem rallying the nation toward the General Uprising.
 *   **Late 1944 - Early 1945:** Continuing under the direction of the Tonkin Party Committee (Xu uy Bac Ky) and the Son La Prison Party Cell, the revolutionary movement in Son La expanded to 60 bases across the province. The "Thai National Salvation" Association (Con tay chat muong) was established, drawing strength from Lo Van Gia's heroic sacrifice.
 *   **Dec. 22, 1944:** The Vietnam Propaganda and Liberation Army, the precursor to the Vietnam People's Army, was established in the Tran Hung Dao forest (Cao Bang).
 *   **Dec. 24-25, 1944:** The Vietnam Propaganda and Liberation Army won its first two battles at Phay Khat and Na Ngan.
 *   **1945 - 1946:** Nguyen Van Luom (the real-life "Luom") left his family to participate in revolutionary activities in Nha Trang. His family lost contact with him from this point until after the country's reunification.
 * **1945:** Hero of the People's Armed Forces Lê Bình (Chỉ huy đội cảm tử quân Quốc gia tự vệ cuộc Cần Thơ, người chỉ huy trận tập kích đồn Cái Răng 1945) passed away.
+*   **1945:** Martyr Vu Quy (pre-insurrection revolutionary cadre, Acting Secretary of the Hanoi Party Committee) heroically sacrificed his life while on an official mission to the Tan Trao National Congress in Viet Bac. In 1972, the Party and State posthumously awarded him the Fatherland Merit Certificate and officially recognized him as a martyr.
 *   **Mar. 1945:** Huynh Tan Phat was admitted to the Indochinese Communist Party.
 *   **Mar. 9, 1945:** Japan staged a coup against the French throughout Indochina.
 *   **Mar. 9, 1945:** Following the Japanese coup, the Indochinese guard unit on the Paracel Islands was taken prisoner by the Japanese navy.
@@ -1595,7 +1609,7 @@
 *   **Aug. 13, 1945:** The National Uprising Committee issued "Military Order No. 1."
 *   **Aug. 14, 1945:** The United National Front (Mat tran Quoc gia Thong nhat) was established in Southern Vietnam, comprised of various nationalist parties and religious groups like Cao Dai and Hoa Hao.
 *   **Aug. 16-17, 1945:** The National People's Congress met in Tan Trao, endorsed the policy of a General Uprising, and elected the Vietnam National Liberation Committee (i.e., the Provisional Government) with Ho Chi Minh as Chairman.
-*   **Aug. 17, 1945:** A rally organized by the Civil Servants' Association at the Hanoi Opera House Square was transformed by Viet Minh forces and the masses into a massive pro-revolutionary demonstration with red flags with gold stars hoisted across the city streets, directly laying the groundwork for the August 19 Uprising in Hanoi.
+*   **Aug. 17, 1945:** A rally organized by the Civil Servants' Association at the Hanoi Opera House Square was transformed by Viet Minh forces and the masses into a massive pro-revolutionary demonstration. Here, composer Van Cao's **"Tien Quan Ca"** was sung publicly for the first time before tens of thousands of citizens under a gigantic red flag with a gold star, paving the direct path for the August 19 General Uprising in Hanoi.
 *   **Aug. 19, 1945:** The General Uprising succeeded in Hanoi (August Revolution).
 *   **Aug. 23, 1945:** The uprising succeeded in Hue.
 *   **Aug. 24, 1945:** Huynh Tan Phat designed and directed the construction of the Monumental Flagpole at the Nguyen Hue - Le Loi intersection (Saigon) to honor the Provisional Committee of Nam Bo.
@@ -1672,7 +1686,7 @@
 *   **Sep. 14, 1946:** President Ho Chi Minh signed a Modus Vivendi with the French Minister of Overseas France, Marius Moutet, in Paris.
 *   **Sep. 21, 1946:** The Vietnam Democratic Social Party (Dan Chu Xa Hoi Dang or Dan Xa) was founded by Huynh Phu So, the founder of Hoa Hao Buddhism.
 *   **Oct. 20, 1946:** President Ho Chi Minh returned to Haiphong port.
-*   **Oct. 28 - Nov. 9, 1946:** The 1st National Assembly held its second session, approving the first Constitution of the Democratic Republic of Vietnam.
+*   **Oct. 28 - Nov. 9, 1946:** The 1st National Assembly held its second session, adopting the first Constitution of the Democratic Republic of Vietnam (1946 Constitution), in which Article 3 officially stipulated: "The flag of the Democratic Republic of Vietnam is rectangular with a red background and a five-pointed gold star in the center. The national anthem is Tien Quan Ca".
 *   **Nov. - Dec. 1946:** Troops of the Republic of China landed on the Paracel Islands (November) and the Spratly Islands (December) under the pretext of disarming Japanese troops.
 *   **Nov. 20, 1946:** A major conflict broke out in Haiphong (the Haiphong Incident) when French troops demanded control of customs.
 *   **Nov. 20, 1946:** French troops also fired on police and customs officers in Lang Son, occupying the town.
@@ -2042,6 +2056,7 @@
 *   **May 1959:** The Ngo Dinh Diem administration enacted **Law 10/59**, dragging guillotines across South Vietnam to brutally suppress the revolutionary movement.
 *   **May 19, 1959:** **Group 559** was established, tasked with opening a strategic transportation route to supply the South (later known as the Ho Chi Minh Trail).
 *   **May 30, 1959:** The Gia Dinh Provincial Party Committee established Unit C13 (the first armed unit of the province) in Cu Chi, initially consisting of about 20 cadres and party members.
+*   **Aug. 31, 1959:** President Ho Chi Minh signed Decree No. 036/SL promoting Nguyen Chi Thanh (Director of the General Political Department of the Vietnam People's Army) to the rank of Senior General. He became the second Senior General of the Vietnam People's Army (following Senior General Vo Nguyen Giap promoted in 1948).
 *   **Late 1959:** Ut Tich's family returned to Tam Ngai. Following the Dong Khoi movement, she actively participated in military activities, guerrilla warfare, and troop proselytizing for the National Liberation Front.
 *   **Late 1959 - Early 1960:** The Party Committee of Nam Bo merged the Saigon - Cho Lon Zone and Gia Dinh province to form the Saigon - Gia Dinh Zone (Zone 4/T4). Vo Van Kiet was assigned as the Secretary of the Zone Party Committee.
 *   **1960:** Le Thi Tuyet (Tra Cu) returned to Ngai Xuyen commune, Tra Cu district, joining the movement to establish armed forces and participating until 1975.
@@ -2051,6 +2066,7 @@
 *   **Jan. 17, 1960:** The Concerted Uprising broke out in the three communes of Dinh Thuy, Phuoc Hiep, and Binh Khanh in Mo Cay district, Ben Tre province, under the direct leadership of Madame **Nguyen Thi Dinh**, then spread throughout the province and across the South.
 * **26/01/1960:** Martyr Ngo Minh Tri (Commando Deputy Squad Leader) heroically sacrificed his life in the surprise attack on Tua Hai outpost (Tay Ninh).
 *   **Night of Jan. 25 - Morning of Jan. 26, 1960:** Based on the vital intelligence provided by Bui Van Thuyen from within, revolutionary forces (over a battalion strong) launched a surprise attack and completely overran the Tua Hai base (headquarters of the ARVN 3rd Regiment, 21st Division). They eliminated over 500 enemy troops, captured over 700, and seized 1,500 weapons. This historic battle served as one of the opening shots for the Concerted Uprising (Đồng khởi) movement in the South.
+*   **Jan. 26 - Feb. 3, 1960:** At the invitation of President Ho Chi Minh, British lawyer Francis Henry Loseby, his wife Beatrice Rose Loseby, and their daughter paid a historic visit to Hanoi. President Ho Chi Minh personally welcomed his benefactors at Gia Lam Airport with profound gratitude and heartfelt affection, honoring the family that had saved his life during the 1931-1933 Hong Kong trial.
 *   **Feb. 3, 1960:** Suspected by the enemy after the Tua Hai battle, Bui Van Thuyen withdrew to the revolutionary base. He joined Unit C40 and was subsequently sent to a special forces (đặc công) training course.
 *   **Early 1960:** Luu Tan Phat was appointed Deputy Commander of the My Tho Provincial Military Command, contributing to the strengthening of local armed forces.
 *   **Early 1960:** Female intelligence operative Ngo Thi Hue (alias Minh Hiep, affectionately known as "Little Squirrel") of the Quang Da Security Board was captured and imprisoned at Hieu Duc and Hoi An prisons while on mission. Despite enduring more than six months of solitary confinement and brutal torture (waterboarding, electric shocks, beatings), she steadfastly maintained revolutionary integrity without uttering a word, fully safeguarding revolutionary bases and the secret intelligence network in Da Nang.
@@ -2137,6 +2153,7 @@
 *   **Aug. 21 - 27, 1964:** A massive wave of demonstrations by hundreds of thousands of students, Buddhists, and citizens erupted in Saigon, Hue, and Da Nang besieging the US Embassy and Prime Minister's Office to oppose General Nguyen Khanh's "Vung Tau Charter" establishing military dictatorship, forcing Khanh to repeal the charter and step down as head of state.
 *   **Sep. 5, 1964:** Vu Chong Lau (Vu A Dinh's father) was posthumously recognized as a martyr.
 *   **Sep. 20, 1964:** The United Front for the Liberation of Oppressed Races (FULRO) was founded in Camp Le Rolland (Cambodia), uniting ethnic minority movements.
+*   **Oct. 1964:** Senior General Nguyen Chi Thanh was deployed by the Politburo and President Ho Chi Minh to Southern Vietnam to directly command the resistance war against the US as Secretary of the Central Office for South Vietnam and Political Commissar of the Liberation Army. He coined the famous combat motto: "Grab the enemy by his belt to fight", launching the nationwide campaign to strike US and Saigon troops and defeat enemy strategies.
 *   **Oct. 9, 1964:** Venezuelan guerrillas (Caracas commando) kidnapped US military attaché Lieutenant Colonel Michael Smolen in Caracas to demand the release of Nguyễn Văn Trỗi, creating international pressure that temporarily suspended his execution until Smolen was released, after which US and Saigon authorities reneged on their promise.
 *   **Oct. 14, 1964:** Sung Thi Play (Vu A Dinh's mother) was posthumously recognized as a martyr.
 *   **Oct. 15, 1964:** At 09:45 AM, Nguyễn Văn Trỗi was executed by firing squad at Chi Hòa Prison in Saigon at age 24. Before his execution, he ripped off his blindfold and shouted: "Keep my words in mind! Down with US imperialism! Down with Nguyen Khanh! Long live Ho Chi Minh! Long live Vietnam!", becoming an enduring symbol of heroism.
@@ -2306,6 +2323,7 @@
 *   **May 9, 1967:** Protesters held a vigil for Norman Morrison in the United States, which culminated in a four-day occupation of the Pentagon to protest the Vietnam War.
 *   **May 9, 1967:** Betrayed by an informant, Le Thi Rieng was arrested by secret police near Da Kao market (Saigon). Despite suffering brutal torture by the CIA and the Saigon regime, she remained fiercely loyal to the revolution.
 *   **May 16, 1967:** Buddhist nun **Nhat Chi Mai** self-immolated at Tu Nghiem Pagoda (Saigon) to pray for peace.
+*   **Jul. 6, 1967:** Senior General Nguyen Chi Thanh passed away suddenly in Hanoi from a heart attack at the age of 53, just prior to his scheduled return to the southern battlefield to direct preparations for the 1968 Tet Offensive. His passing was a monumental loss to the Party, the Army, and the Vietnamese people.
 *   **Jul. 24, 1967:** President Ho Chi Minh received Raymond Aubrac (a French friend from 1946) and biologist Herbert Marcovic at the Presidential Palace in Hanoi. The two visitors carried a goodwill mission to mediate relations between Washington and Hanoi. Ho Chi Minh conveyed a clear message that negotiations could only occur if the US completely ceased its bombing of North Vietnam.
 * **28/07/1967:** Martyr Pham Van Coi (Commander of Nhuan Duc Commune Military Command, Cu Chi District, credited with destroying 120 US troops and 8 vehicles) heroically sacrificed his life in a counter-sweep battle in Cu Chi.
 *   **Aug. 8, 1967:** The Government of the Democratic Republic of Vietnam issued Decision No. 121/QD-CP, reaffirming that the legal time of North Vietnam is international time zone 7, effective from January 1, 1968.
@@ -2864,6 +2882,7 @@
 *   **Jan. 28, 1995:** Vietnam and the United States officially opened Liaison Offices in each other's capitals, marking a crucial milestone towards full diplomatic normalization.
 *   **Feb. 9, 1995:** The Philippines formally protested the People's Republic of China's occupation and construction of shelters on Mischief Reef (Vanh Khan) in the Spratly Islands.
 *   **May 1995:** Vietnam donated an additional 20,000 tons of rice to Cuba.
+*   **Jul. 10, 1995:** Composer Van Cao (author of the National Anthem "Tien Quan Ca", giant of modern Vietnamese music and poetry) passed away in Hanoi at the age of 72. In 1996, he was posthumously awarded the first Ho Chi Minh Prize in Literature and Arts.
 *   **Jul. 12, 1995:** US President Bill Clinton and Vietnamese Prime Minister Vo Van Kiet simultaneously announced the **normalization of diplomatic relations** between the two countries.
 *   **Jul. 28, 1995:** Vietnam was officially admitted as the **7th member** of the Association of Southeast Asian Nations (ASEAN) in Brunei.
 *   **Aug. 3, 1995:** Public Security martyr Bui Thi Cuc (Tran Thi Lan) was posthumously awarded the title **Hero of the People's Armed Forces** by the State for her outstanding exploits and heroic sacrifice in the resistance war against French colonialism.
