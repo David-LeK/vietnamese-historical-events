@@ -134,7 +134,7 @@
 *   **679:** Nhà Đường đổi Giao Châu thành An Nam Đô hộ phủ.
 *   **687:** Cuộc khởi nghĩa của Lý Tự Tiên và Đinh Kiến.
 *   **Năm 711:** Nhà Đường lập Phong Châu đô đốc phủ và Hoan Châu đô đốc phủ để phân chia và siết chặt ách đô hộ đối với các khu vực miền núi và phía Nam.
-*   **713 - 722:** Cuộc khởi nghĩa của Mai Thúc Loan (Mai Hắc Đế).
+*   **713 - 722:** Mai Thúc Loan dấy binh khởi nghĩa chống lại ách đô hộ của nhà Đường. Ông giải phóng Hoan Châu, xưng là Mai Hắc Đế, lập quốc đô tại thành Vạn An (Nam Đàn, Nghệ An) và liên kết với các nước láng giềng chống lại quân đô hộ trước khi cuộc khởi nghĩa bị nhà Đường đàn áp vào năm 722.
 *   **766 - 791:** Cuộc khởi nghĩa của Phùng Hưng (Bố Cái Đại Vương).
 *   **767:** Quân Srivijaya (Chà Và) và Côn Lôn xâm phạm Giao Châu, bị Kinh lược sứ Trương Bá Nghi đánh tan.
 *   **780 (Canh Thân):** Khương Công Phụ thi đỗ Tiến sĩ tại nhà Đường, làm quan đến chức Gián nghị Đại phu.
@@ -367,6 +367,7 @@
 *   **1272:** Lê Văn Hưu hoàn thành bộ *Đại Việt sử ký*, bộ quốc sử đầu tiên của Việt Nam, gồm 30 quyển.
 *   **1278:** Cựu Hoàng hậu Chiêu Thánh (Lý Chiêu Hoàng) qua đời, thọ 61 tuổi. Sau khi bị giáng làm Công chúa, bà được gả cho Lê Phụ Trần và sinh được một con trai (Thượng Vị Hầu Tông), một con gái (Ứng Thụy Công chúa Khuê).
 *   **24/10/1278:** Trần Thánh Tông nhường ngôi cho Thái tử Trần Khâm (sau là Trần Nhân Tông).
+*   **1280:** Chiêu Văn vương Trần Nhật Duật một mình vào doanh trại thủ lĩnh Trịnh Giác Mật ở đạo Đà Giang, dùng tài ngoại giao và sự am tường phong tục tập quán để cảm hóa, thu phục thủ lĩnh quy hàng triều đình mà không tốn một mũi tên.
 *   **1281:** Đặt học đường ở phủ Thiên Trường (Nam Định).
 *   **1282:** Tác phẩm đầu tiên viết bằng chữ Nôm là *Văn tế cá sấu* của Nguyễn Thuyên, sáng tác dưới triều đại nhà Trần. Đây là bài văn được vua Trần Nhân Tông sai viết để đuổi con cá sấu xuất hiện trên sông Hồng.
 *   **10/1282:** Vua Trần Nhân Tông mở **Hội nghị Bình Than** để bàn kế sách chống quân Nguyên. Hoài Văn hầu **Trần Quốc Toản** vì còn nhỏ tuổi (15 tuổi) không được dự bàn, đã bóp nát quả cam trong tay vì phẫn chí. Sau đó, ông về huy động gia nô và thân thuộc hơn nghìn người, sắm vũ khí, đóng chiến thuyền, thêu lên cờ sáu chữ vàng: "**Phá cường địch, báo hoàng ân**" (Phá giặc mạnh, báo ơn vua) để tham gia kháng chiến.
@@ -377,11 +378,12 @@
 *   **08/1284:** Hưng Đạo vương tổ chức duyệt binh ở bến Đông Bộ Đầu và công bố tác phẩm "Hịch tướng sĩ" để khích lệ tinh thần quân sĩ.
 *   **12/1284:** Vua Trần triệu tập Hội nghị Diên Hồng, hỏi ý kiến các bô lão trong cả nước về việc hòa hay đánh.
 *   **1285:** Khi Thượng hoàng Trần Thánh Tông vờ hỏi có nên hàng không, Trần Hưng Đạo đã khẳng khái trả lời: "Bệ hạ chém đầu tôi trước rồi hãy hàng".
+*   **1285:** Tùy tướng Yết Kiêu (Phạm Hữu Thế) lập công xuất sắc trong cuộc kháng chiến chống Nguyên - Mông lần thứ hai với tài bơi lặn phi thường đục thủng thuyền giặc, đồng thời giữ trọn lòng trung nghĩa cắm thuyền tại Bãi Tân đón chủ tướng Hưng Đạo Đại vương Trần Quốc Tuấn vượt vòng vây quân Nguyên.
 *   **01/1285:** Quân Nguyên do Thoát Hoan chỉ huy bắt đầu cuộc xâm lược Đại Việt lần thứ hai.
 *   **03/1285:** Vua Trần Thánh Tông dùng kế mỹ nhân, sai người đưa Công chúa **An Tư** (em gái út của vua) đến trại quân Nguyên dâng cho Thoát Hoan để làm chậm tốc độ tiến quân của giặc, tạo thời gian quý báu cho quân Trần rút lui và củng cố lực lượng.
 *   **03/1285:** Chiêu Quốc vương Trần Ích Tắc đem gia quyến đầu hàng quân Nguyên.
 *   **05/1285:** Quân Trần bắt đầu cuộc phản công lớn, giành thắng lợi liên tiếp ở Tây Kết, Chương Dương, Hàm Tử.
-*   **Đầu tháng 05/1285 (Âm lịch):** Quân đội nhà Trần đánh bại quân Nguyên do Toa Đô chỉ huy ở cửa Hàm Tử, buộc Toa Đô phải đem tàn quân chạy về cửa biển Thiên Trường.
+*   **Đầu tháng 05/1285 (Âm lịch):** Chiêu Văn vương Trần Nhật Duật cùng các tướng lĩnh chỉ huy quân đội Đại Việt đại phá quân Nguyên do Toa Đô chỉ huy trong trận Hàm Tử quan (Hưng Yên), buộc Toa Đô phải đem tàn quân tháo chạy về cửa biển Thiên Trường, tạo bước ngoặt chiến lược cho cuộc phản công giải phóng Thăng Long.
 *   **06/1285:** Cuộc kháng chiến chống quân xâm lược Mông-Nguyên lần thứ hai kết thúc thắng lợi hoàn toàn.
 *   **05/06/1285:**   **Trận Chương Dương - Thăng Long:** Quân Trần tổ chức phản công lớn, Phạm Ngũ Lão chỉ huy cánh quân đánh vu hồi giải phóng kinh thành.
 *   **24/06/1285 (Cuối tháng 5 năm Ất Dậu):**   **Trận Tây Kết:** Sau đại thắng ở Chương Dương, Trần Quốc Tuấn mang quân quay lại tiêu diệt lộ quân của Toa Đô ở Tây Kết. Nguyên soái Toa Đô bị chém đầu tại trận, Ô Mã Nhi sợ hãi bỏ chạy vào Thanh Hóa. Quân Trần thừa thắng truy kích, bắt sống mấy vạn quân Mông Cổ.
@@ -668,7 +670,7 @@
 *   **08/1460:** Vua Lê Thánh Tông ra lệnh đổi các họ "Trần" trong dân gian thành họ "Trình" do kỵ húy bà Phạm Ngọc Trần (bà nội của vua).
 *   **1462:** Vua Lê Thánh Tông cho mở khoa thi Hương tại các trường thi trên toàn quốc, quy định chặt chẽ chu kỳ ba năm tổ chức một kỳ thi.
 *   **10/1462:** Vua Lê Thánh Tông ban sắc chỉ quy định tuổi nghỉ hưu (trí sĩ) cho quan lại là 65 tuổi, lại điển và nho sinh là 60 tuổi.
-*   **1463:** Mở khoa thi Tiến sĩ, Lương Thế Vinh đỗ Trạng nguyên. Bắt đầu định lệ 3 năm mở một khoa thi Hội.
+*   **1463:** Mở khoa thi Tiến sĩ, Lương Thế Vinh đỗ Trạng nguyên dưới triều vua Lê Thánh Tông; về sau ông biên soạn "Đại thành toán pháp" – sách giáo khoa toán học đầu tiên của Việt Nam, được nhân dân tôn kính gọi là "Trạng Lường". Bắt đầu định lệ 3 năm mở một khoa thi Hội.
 *   **1463:** Khoa thi Hội đầu tiên dưới thời vua Lê Thánh Tông diễn ra ở quy mô rất lớn với 4.400 sĩ tử dự thi. Khoa thi này đánh dấu lần đầu tiên triều đình xướng danh tân khoa ngoài cửa nhà Thái học và treo bảng vàng công bố.
 *   **1466:** Lê Thánh Tông chia cả nước thành 12 đạo Thừa tuyên. Bắt đầu đặt **Năm phủ** (Ngũ phủ quân) và kiện toàn Sáu bộ để thống nhất quản lý quân sự và hành chính.
 *   **1469:** Vua Lê Thánh Tông cho định bản đồ 12 thừa tuyên trong cả nước. Thừa tuyên Nam Sách đổi tên thành Thừa tuyên Hải Dương, danh xưng "Hải Dương" chính thức xuất hiện.
@@ -848,7 +850,7 @@
 *   **1739:** Mạc Thiên Tích lập thêm 4 huyện mới: Long Xuyên (Cà Mau), Kiên Giang (Rạch Giá), Trấn Giang (Cần Thơ) và Trấn Di (Bạc Liêu), mở rộng và hoàn thiện hệ thống hành chính vùng Tây Nam Bộ.
 *   **1739:** Các cuộc khởi nghĩa nông dân lớn ở Đàng Ngoài bùng nổ, tiêu biểu là cuộc khởi nghĩa của Nguyễn Tuyển, Nguyễn Cừ ở Hải Dương và Hoàng Công Chất ở Sơn Nam.
 *   **1740:** Ở Đàng Ngoài, chúa Trịnh Giang bị phế truất, em là Trịnh Doanh lên nối ngôi (Minh Đô Vương).
-*   **1741 - 1751:** Cuộc khởi nghĩa của Nguyễn Hữu Cầu (Quận He) hoạt động mạnh mẽ ở vùng duyên hải Sơn Nam và Hải Dương, gây nhiều khó khăn cho quân Trịnh.
+*   **1741 - 1751:** Cuộc khởi nghĩa nông dân quy mô lớn do Nguyễn Hữu Cầu (tức Quận He) lãnh đạo bùng nổ, lấy Đồ Sơn làm căn cứ và nêu cao khẩu hiệu "lấy của nhà giàu chia cho người nghèo", hoạt động mạnh mẽ khắp vùng Kinh Bắc, Hải Dương, Sơn Nam và Thanh Nghệ, đánh bại nhiều đạo quân của chúa Trịnh trước khi bị dập tắt vào năm 1751.
 *   **1744:** Ở Đàng Trong, Nguyễn Phúc Khoát xưng Vương, cải tổ lại chính quyền theo quy chế của một vương triều độc lập.
 *   **1744:** Chúa Nguyễn Phúc Khoát tiến hành đổi mới phong tục, bắt buộc quan dân thay đổi lối ăn mặc (theo kiểu Trung Quốc) và đổi tên các cơ quan hành chính (Phủ đổi thành Điện).
 *   **1754:** Thủy thủ Việt Nam bị đắm thuyền gần quần đảo Hoàng Sa và trôi dạt tới bờ biển Trung Quốc. Nhà chức trách Trung Quốc đã điều tra và đưa họ về nước mà không hề có bất kỳ sự phản kháng hay tuyên bố chủ quyền nào đối với các hoạt động của người Việt tại Hoàng Sa.
@@ -861,6 +863,7 @@
 *   **1765:** Chúa Nguyễn Phúc Khoát mất. Quyền thần Trương Phúc Loan lộng hành, lập Nguyễn Phúc Thuần (12 tuổi) lên ngôi, bắt giam Nguyễn Phúc Luân. Xã hội Đàng Trong bắt đầu đi vào khủng hoảng sâu sắc.
 *   **1765:** Quyền thần Trương Phúc Loan chuyên quyền, gây cảnh loạn lạc. Thầy giáo Trương Văn Hiến trốn vào An Thái dạy văn võ cho ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ, chuẩn bị nền tảng mưu lược cho cuộc khởi nghĩa.
 *   **1767:** Chúa Trịnh Doanh mất, con là Trịnh Sâm lên nối ngôi (Tĩnh Đô Vương).
+*   **1770:** Đại danh y Hải Thượng Lãn Ông (Lê Hữu Trác) hoàn thành bộ trước tác y học đồ sộ "Hải Thượng y tông tâm lĩnh" gồm 28 tập, 66 quyển, đúc kết toàn diện lý luận, y đức, phương thang và dược liệu cổ truyền, được xem là bộ bách khoa toàn thư y học kinh điển của Việt Nam.
 
 ### **Thời kỳ Phong trào và Triều đại Tây Sơn (1771 - 1802)**
 
@@ -951,10 +954,11 @@
 *   **Tháng 10/1790:** Trần Quang Diệu tấn công Vạn Tượng, buộc thủ lĩnh bỏ thành chạy trốn; sau đó đánh thẳng đến biên giới Xiêm La, chém được Tả súy Phan Dung và Hữu súy Phan Siêu.
 *   **1791:** Vua Quang Trung cho lập **Viện Sùng Chính** do La Sơn Phu Tử Nguyễn Thiếp đứng đầu. Đây là sự kiện quan trọng đánh dấu việc lần đầu tiên **chữ Nôm** được đưa lên làm văn tự chính thức của quốc gia dùng trong chiếu biểu, thi cử, thay thế vị trí độc tôn của chữ Hán.
 *   **1791:** Quân Tây Sơn thực hiện cuộc xâm lược quy mô lớn sang Lào. Cùng thời gian này, các ghi chép lịch sử cho thấy sự bất mãn ngày càng tăng của dân chúng ở cả vùng Tây Sơn kiểm soát và vùng Nguyễn Ánh kiểm soát do gánh nặng chiến tranh.
-*   **1791:** Hải Thượng Lãn Ông Lê Hữu Trác qua đời.
+*   **1791 (Rằm tháng Giêng năm Tân Hợi):** Đại danh y Hải Thượng Lãn Ông Lê Hữu Trác – "ông tổ ngành y học cổ truyền Việt Nam" – qua đời tại Hương Sơn (Hà Tĩnh).
 *   **Mùa xuân 1791 (Tân Hợi):** Trần Quang Diệu và nữ tướng Bùi Thị Xuân đem binh sang vấn tội vua Ai Lao vì không chịu triều cống, quân Ai Lao xin hàng.
 *   **1792:** Vua Quang Trung chuẩn bị kế hoạch cho một chiến dịch quân sự lớn. Theo đó, trước hết sẽ tấn công Trung Quốc để thu hồi hai tỉnh Quảng Đông và Quảng Tây, sau đó sẽ dốc toàn lực tấn công tiêu diệt lực lượng Nguyễn Ánh. Tuy nhiên, kế hoạch bị hủy bỏ do vua đột ngột băng hà.
 *   **07/1792:** Thủy quân Nguyễn Ánh, với sự hỗ trợ của các tàu chiến và kỹ thuật phương Tây, đã thực hiện cuộc tấn công bất ngờ vào cửa **Thị Nại**, tiêu diệt nhiều thuyền chiến của Tây Sơn. Đây là thắng lợi quan trọng đầu tiên của thủy quân Nguyễn đã được hiện đại hóa.
+*   **27/07/1792 (09/06 năm Nhâm Tý):** Nhà giáo dục lỗi lạc Võ Trường Toản – "cụ tổ ngành giáo dục xứ Nam Kỳ", người có công đào tạo nên nhiều danh thần và trí thức kiệt xuất (như "Gia Định tam gia" Trịnh Hoài Đức, Lê Quang Định, Ngô Nhơn Tĩnh) – qua đời tại Hòa Hưng (Gia Định), được chúa Nguyễn Phúc Ánh truy tặng danh hiệu "Gia Định xử sĩ Sùng Đức Võ tiên sinh".
 *   **16/09/1792 (29 tháng 7 âm lịch):** Vua Quang Trung đột ngột qua đời ở tuổi 40. Con trai là Nguyễn Quang Toản (10 tuổi) lên kế vị, lấy niên hiệu là Cảnh Thịnh.
 *   **1793:** Nguyễn Ánh tấn công Quy Nhơn. Nguyễn Nhạc cầu cứu Phú Xuân. Quân của Quang Toản vào giải vây rồi chiếm luôn thành Quy Nhơn. Nguyễn Nhạc uất hận mà chết.
 *   **04/1793:** Hoàng tử Cảnh được sách lập làm Đông Cung Thái tử.
@@ -1033,6 +1037,7 @@
 *   **1820:** Cuộc nổi dậy của **"Giặc Sãi"** (do một nhà sư tên Kế cầm đầu) nổ ra ở Chân Lạp và vùng biên giới. Tổng trấn Gia Định Lê Văn Duyệt đã cử quân dẹp tan, ổn định tình hình biên giới Tây Nam.
 *   **1820:** Bắt đầu chế độ **Châu bản** (các bản tấu sớ có bút phê của nhà vua bằng mực son).
 *   **1820 - 1840:** Dưới triều vua Minh Mạng, quan chế được coi là có quy củ và chặt chẽ nhất triều Nguyễn. Triều đình thống nhất hệ thống hành chính, giảm bớt cấp trung gian (xóa bỏ Bắc Thành và Gia Định Thành), chia cả nước thành 29 tỉnh.
+*   **1820:** Hiệp biện Đại học sĩ kiêm Tổng tài Quốc sử quán Trịnh Hoài Đức hoàn thành và dâng lên vua Minh Mạng bộ sách "Gia Định thành thông chí" gồm 6 quyển – công trình địa chí, lịch sử và văn hóa đồ sộ bậc nhất phản ánh toàn diện về địa lý, con người và vùng đất Nam Bộ thời bấy giờ.
 *   **03/02/1820 (19/12 năm Kỷ Mão):** Vua Gia Long băng hà.
 *   **14/02/1820:** Vua Minh Mạng chính thức lên ngôi Hoàng đế tại điện Thái Hòa. Vua cho đổi Thị thư viện thành **Văn thư phòng** để quản lý giấy tờ, văn thư.
 *   **05/1820:** Vua Minh Mạng ra lệnh đặt tên các đường phố trong Kinh thành (Huế) và cho dựng biển ghi tên, đánh dấu nỗ lực sớm trong quy hoạch và quản lý đô thị.
@@ -1052,12 +1057,12 @@
 *   **10/1827:** Vua Minh Mạng cho xây dựng **Duyệt Thị Đường** (nhà hát duyệt thị) bên trong Tử Cấm Thành để làm nơi diễn xướng phục vụ cung đình.
 *   **10/1827:** Vua Minh Mạng truyền lệnh đổi cách ăn mặc của nhân dân từ sông Gianh trở ra Bắc để thống nhất phong tục.
 *   **12/1827:** Tổng trấn Lê Văn Duyệt đích thân về kinh đô Huế tâu trình với vua Minh Mạng xin bảo vệ các giáo sĩ Công giáo, nhắc lại công ơn của Giám mục Bá Đa Lộc đối với nhà Nguyễn, giúp tình hình tôn giáo tạm thời lắng dịu.
-*   **1828:** Thành lập huyện Tiền Hải (Thái Bình) theo chính sách Doanh điền của Nguyễn Công Trứ để khai hoang lấn biển.
 *   **1828:** Vua Minh Mạng ra chiếu chỉ cấm phụ nữ mặc váy, bắt buộc mặc quần ống chiên theo phong tục Trung Hoa. Lệnh này đã gây ra phản ứng mạnh mẽ trong nhân dân, được phản ánh qua các câu ca dao đương thời.
 *   **05/1828:** Vua Minh Mạng đích thân làm lễ cày **Tịch điền** tại ruộng Tịch điền (được lập ở phường Hậu Sinh và An Trạch), nhằm khuyến khích nông nghiệp.
+*   **09/1828:** Doanh điền sứ Nguyễn Công Trứ hoàn thành công cuộc khai hoang lấn biển vùng Tiền Châu, lập nên huyện Tiền Hải (nay thuộc tỉnh Thái Bình).
 *   **10/1828:** Đúc ấn vàng **"Hoàng Đế chi bảo"** dùng cho các chiếu văn khánh tiết, ban ơn.
-*   **1829:** Thành lập huyện Kim Sơn (Ninh Bình) từ công cuộc khẩn hoang do Nguyễn Công Trứ chỉ đạo.
 *   **1829:** Triều Nguyễn ban hành quy định mới cho các khoa thi Hội, lấy thêm những thí sinh có số điểm gần sát với hạng Đệ tam giáp và lập thành một bảng phụ gọi là "Phó bảng".
+*   **03/1829:** Nguyễn Công Trứ tiếp tục chỉ huy công cuộc khẩn hoang vùng đất bãi bồi ven biển Yên Khánh – Yên Mô, lập nên huyện Kim Sơn (nay thuộc tỉnh Ninh Bình), tạo dựng đất đai và an cư cho hàng vạn dân nghèo.
 *   **11/1829:** Vua Minh Mạng cải tổ Văn thư phòng thành **Nội các**, cơ quan tham mưu và giải quyết văn thư trọng yếu của triều đình.
 *   **1830:** Tổng trấn Lê Văn Duyệt tấu xin và đốc suất việc xây dựng lại thành Gia Định (thành Phiên An) bằng đá ong, mở rộng quy mô kiên cố bậc nhất miền Nam.
 *   **01/1830:** Vua Minh Mạng cho xây dựng **Hổ Quyền** tại gò Long Thọ (Huế), một đấu trường độc đáo dành cho các cuộc tử chiến giữa voi và hổ.
@@ -1128,6 +1133,7 @@
 *   **31/08/1858:** Liên quân Pháp - Tây Ban Nha dàn trận tại cửa biển Đà Nẵng.
 *   **01/09/1858:** Liên quân Pháp - Tây Ban Nha nổ súng tấn công bán đảo Sơn Trà (Đà Nẵng), đánh vỡ đồn Đông, chính thức bắt đầu cuộc xâm lược Việt Nam.
 *   **02/09/1858:** Liên quân Pháp - Tây Ban Nha chiếm đồn Tây, đồn An Hải và Điện Hải. Quân Pháp đổ bộ chiếm được bán đảo Sơn Trà.
+*   **07/12/1858 (03/11 năm Mậu Ngọ):** Danh nhân, nhà quân sự, nhà kinh tế và nhà thơ lỗi lạc Nguyễn Công Trứ qua đời tại quê nhà Nghi Xuân (Hà Tĩnh) ở tuổi 80.
 *   **02/1859:** Khi liên quân Pháp - Tây Ban Nha tấn công Gia Định, Quản cơ Trương Định tự nguyện dẫn đội nghĩa binh đồn điền Tân Hòa phối hợp cùng quân triều đình phòng giữ phòng tuyến Chí Hòa. Nghĩa quân của ông liên tục tổ chức phục kích tiêu diệt nhiều lính Pháp tại khu vực Cây Mai, Thị Nghè, lập nhiều chiến công xuất sắc và được thăng thụ chức Phó Lãnh binh Gia Định.
 *   **02/02/1859:** Liên quân Pháp - Tây Ban Nha do Phó Đô đốc de Genouilly chỉ huy chỉ để lại một phần ba quân số ở Đà Nẵng, chuyển hướng tiến vào đánh chiếm Gia Định.
 *   **17/02/1859:** Quân Pháp tấn công và đánh chiếm thành Gia Định. Hộ đốc Võ Duy Ninh và Án sát Lê Từ tự vẫn.
@@ -1254,6 +1260,7 @@
 *   **04/1886:** Triều đình cho đúc tiền "Đồng Khánh thông bảo" (1 đồng ăn 10 đồng kẽm).
 *   **05/1886:** Vua Đồng Khánh ngự giá thân chinh ra Quảng Bình để phủ dụ dân chúng và dẹp loạn.
 *   **01/1887:** Căn cứ Ba Đình thất thủ sau các cuộc tấn công ác liệt của quân Pháp.
+*   **07/06/1887:** Lãnh tụ phong trào Cần Vương kháng Pháp tại Bình Định – Bình Tây Đại nguyên soái Mai Xuân Thưởng bị thực dân Pháp xử tử tại Gò Chàm sau khi các căn cứ kháng chiến bị triệt hạ, biểu tượng cho khí tiết kiên trung, bất khuất của nghĩa sĩ miền Trung.
 *   **26/06/1887:** Pháp và nhà Thanh ký kết Công ước hoạch định biên giới giữa Bắc Kỳ và Trung Quốc. Công ước quy định những hòn đảo nằm ở phía Đông đường kinh tuyến Paris 105°43' Đông thuộc về Trung Quốc, các đảo ở phía Tây (như Cô Tô) thuộc về An Nam. Công ước này chỉ giải quyết các đảo ven bờ, không bao gồm các quần đảo xa bờ.
 *   **17/10/1887:** Liên bang Đông Dương được thành lập, dẫn đến một chính quyền thuộc địa được đẩy mạnh đặc biệt dưới thời Toàn quyền Paul Doumer.
 *   **05/1888:** Người Pháp thành lập cục "Đại Nam nhật báo".
@@ -1308,7 +1315,7 @@
 *   **16/05/1906:** Toàn quyền Paul Beau ký Nghị định thành lập Đại học Đông Dương.
 *   **06/06/1906:** Liên Thành thương quán được sáu sĩ phu yêu nước thành lập tại Phan Thiết nhằm hưởng ứng phong trào Duy Tân. Ban đầu đăng ký là công ty nặc danh với thời hạn 10 năm, công ty sản xuất nước mắm để tạo nguồn quỹ cho các hoạt động yêu nước và tạo việc làm cho người lao động.
 *   **1907:** Dục Thanh học hiệu được các nhà sáng lập Liên Thành thương quán lập ra để dạy những tư tưởng tiến bộ yêu nước cho con em lao động nghèo.
-*   **03/1907:** Đông Kinh Nghĩa Thục bắt đầu mở lớp dạy chữ Quốc ngữ cho cả nam và nữ tại số 4 Hàng Đào (Hà Nội) trước khi có giấy phép chính thức.
+*   **03/1907:** Các sĩ phu yêu nước Lương Văn Can, Nguyễn Quyền, Nguyễn Hữu Cầu (Giản Thạch) cùng sáng lập Đông Kinh Nghĩa Thục tại số 4 Hàng Đào (Hà Nội), mở các lớp dạy chữ Quốc ngữ cho cả nam và nữ, truyền bá tư tưởng duy tân và nâng cao dân trí.
 *   **07/04/1907:** Lê Duẩn sinh ra tại Triệu Phong, Quảng Trị. Ông sau này trở thành Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, nhà lãnh đạo kiệt xuất của cách mạng Việt Nam.
 *   **05/1907:** Đông Kinh Nghĩa Thục chính thức được cấp giấy phép, mở rộng quy mô dạy học, diễn thuyết và cổ động thực nghiệp.
 *   **10/11/1907:** Đại học Đông Dương khai giảng khóa đầu tiên.
@@ -1495,6 +1502,7 @@
 *   **11/04/1931:** Quốc tế Cộng sản ra nghị quyết công nhận Đảng Cộng sản Đông Dương là chi bộ độc lập.
 *   **19/04/1931:** Nguyễn Thị Út (Út Tịch) sinh ra tại làng Tích Thiện, quận Cầu Kè, tỉnh Cần Thơ (nay thuộc Tam Ngãi, Trà Vinh). Bà sau này trở thành một nữ anh hùng huyền thoại của Quân Giải phóng miền Nam Việt Nam.
 *   **19/04/1931:** Tổng Bí thư Trần Phú bị địch bắt.
+*   **17/05/1931:** Nữ chiến sĩ cộng sản kiên trung Nguyễn Thị Nghĩa (tên thật là Nguyễn Thị Hẹn, phụ trách giao thông liên lạc giữa Ban Chấp hành Trung ương Đảng và Xứ ủy Trung Kỳ trong cao trào Xô viết Nghệ Tĩnh) anh dũng hy sinh tại Nhà lao Vinh sau chuỗi ngày bị thực dân Pháp tra tấn tàn khốc.
 *   **06/06/1931:** Nguyễn Ái Quốc (dưới bí danh Tống Văn Sơ) bị cảnh sát Anh bắt giữ tại số nhà 186 phố Tam Kung (Cửu Long, Hồng Kông) theo yêu cầu của mật thám Pháp, mở đầu **Vụ án Tống Văn Sơ** chấn động lịch sử. Thực dân Pháp tìm mọi cách đòi dẫn độ ông về Đông Dương để thi hành bản án tử hình vắng mặt năm 1929 của Tòa án Vinh.
 *   **06/09/1931:** Đồng chí Trần Phú hy sinh tại nhà thương Chợ Quán.
 *   **20/11/1931:** Lý Tự Trọng anh dũng hy sinh trên máy chém tại khám lớn Sài Gòn khi mới 17 tuổi, để lại câu nói bất hủ: "Con đường của thanh niên chỉ là con đường cách mạng, không thể có con đường nào khác".
@@ -1663,6 +1671,7 @@
 *   **1946:** Cô gái Trần Thị Mẫn (sau này là Anh hùng Lực lượng vũ trang nhân dân, Bà mẹ Việt Nam anh hùng Trần Thị Quang Mẫn) cải trang nam nhi với tên gọi Trần Quang Mẫn để gia nhập lực lượng Vệ quốc đoàn tại Vĩnh Thuận (Kiên Giang), chiến đấu chống thực dân Pháp.
 * **1946:** Liệt sĩ Dương Văn Mạnh (Các liệt sĩ thiếu niên Việt Nam) anh dũng hy sinh trong khi thực hiện nhiệm vụ chiến đấu bảo vệ Tổ quốc.
 * **1946:** Anh hùng Lực lượng vũ trang nhân dân Lục Sĩ Thành (Chiến sĩ du kích Trà Ôn) từ trần.
+*   **1946:** Nhà nho tiến bộ, chí sĩ Đông Kinh Nghĩa Thục Nguyễn Hữu Cầu (hiệu Giản Thạch, thường gọi là "Cử Đông Tác") qua đời tại quê nhà.
 *   **01/1946:** Huỳnh Tấn Phát được bầu làm đại biểu Quốc hội khóa I nước Việt Nam Dân chủ Cộng hòa, đại diện cho tỉnh Mỹ Tho.
 *   **01/01/1946:** Chính phủ lâm thời cải tổ thành Chính phủ liên hiệp lâm thời, có thêm thành viên của Việt Quốc và Việt Cách.
 *   **06/01/1946:** Cuộc Tổng tuyển cử đầu tiên bầu Quốc hội khóa I diễn ra trên cả nước.
@@ -1927,6 +1936,7 @@
 *   **19/05/1954:** Nhân dịp sinh nhật lần thứ 64 của Chủ tịch Hồ Chí Minh tại ATK Kim Quan (Tuyên Quang), Đại đội trưởng Tạ Quốc Luật đại diện cho các chiến sĩ Điện Biên Phủ báo cáo thành tích chiến đấu lên Người và trao tặng Bác chiếc huy hiệu sĩ quan Pháp của Tướng De Castries.
 *   **06/1954:** Đinh Thị Vân được điều động lên công tác tại Cục Nghiên cứu Bộ Tổng tham mưu và được giao nhiệm vụ hoạt động bí mật tại Hà Nội. Bà đã xây dựng được cơ sở tin cậy và cung cấp nhiều tin tức quan trọng trong thời gian "300 ngày tập kết". Thể hiện sự hy sinh to lớn vì cách mạng, bà đã chủ động cưới vợ khác cho chồng để lo toan việc nhà, tạo điều kiện cho mình yên tâm hoàn thành nhiệm vụ.
 *   **16/06/1954:** Dưới sức ép của Mỹ, Bảo Đại ký sắc lệnh chỉ định Ngô Đình Diệm làm Thủ tướng của chính thể "Quốc gia Việt Nam".
+*   **17/06/1954:** Họa sĩ Tô Ngọc Vân – một trong những bậc thầy đặt nền móng cho nền mỹ thuật hiện đại Việt Nam (thuộc bộ tứ "Trí, Vân, Lân, Cẩn") – hy sinh tại đèo Lũng Lô (Yên Bái) khi đang tham gia chiến dịch Điện Biên Phủ, trở thành liệt sĩ đầu tiên của nền mỹ thuật cách mạng Việt Nam.
 *   **07/07/1954:** Ngô Đình Diệm chính thức nhậm chức Thủ tướng tại Sài Gòn.
 *   **20-21/07/1954:** **Hiệp định Giơnevơ** được ký kết, chấm dứt chiến tranh ở Đông Dương. Các điểm chính:
     *   Công nhận độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ của Việt Nam.
@@ -2107,6 +2117,7 @@
 *   **1961:** Liệt sĩ Đặng Thị Kim được Nhà nước Việt Nam Dân chủ Cộng hòa truy tặng Huân chương Kháng chiến hạng Ba.
 *   **1961:** Mỹ bắt đầu **Chiến dịch Ranch Hand**, rải chất độc hóa học (trong đó có chất độc màu da cam) xuống miền Nam Việt Nam nhằm phá hủy thảm thực vật và mùa màng, gây ra hậu quả nghiêm trọng và lâu dài về môi trường và sức khỏe con người.
 *   **1961:** Huỳnh Tấn Phát làm Chủ tịch Ủy ban Mặt trận Dân tộc Giải phóng khu Sài Gòn - Gia Định.
+*   **1961:** Nữ Anh hùng Lực lượng vũ trang nhân dân Thạch Thị Thanh (người dân tộc Khmer ở Cầu Kè, Trà Vinh) cùng các sư sãi lãnh đạo phong trào đấu tranh chính trị "di tản Phật" chấn động miền Tây Nam Bộ, chống lại chính sách lập ấp chiến lược, chiếm đóng chùa chiền và bắt lính của chính quyền Ngô Đình Diệm.
 *   **01/1961:** Tổng thống Mỹ John F. Kennedy nhậm chức, đề ra chiến lược "Phản ứng linh hoạt", trong đó có hình thức **"Chiến tranh đặc biệt"** để áp dụng ở miền Nam Việt Nam.
 *   **01/1961:** Hội nghị Trung ương Đảng lần thứ 3 quyết định thành lập Trung ương Cục miền Nam thay cho Xứ ủy Nam Bộ để trực tiếp lãnh đạo cách mạng miền Nam.
 *   **24/01/1961:** Bộ Chính trị ra Chỉ thị về phương hướng và nhiệm vụ công tác trước mắt của cách mạng miền Nam, chuyển phương châm từ đấu tranh chính trị là chủ yếu sang đẩy mạnh đấu tranh vũ trang song song với đấu tranh chính trị.

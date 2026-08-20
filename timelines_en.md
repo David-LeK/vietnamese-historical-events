@@ -134,7 +134,7 @@
 *   **679:** The Tang dynasty changed Giao Chau to the Protectorate General of Annam.
 *   **687:** The uprising of Ly Tu Tien and Dinh Kien.
 *   **711:** The Tang dynasty established the Phong Chau and Hoan Chau Area Commands to further decentralize and tighten their control over the mountainous and southern territories.
-*   **713 - 722:** The uprising of Mai Thuc Loan (Mai Hac De).
+*   **713 - 722:** Mai Thuc Loan staged an uprising against Tang dynasty domination. He liberated Hoan Chau, proclaimed himself Mai Hac De (Black Emperor Mai), established the capital at Van An Citadel (Nam Dan, Nghe An), and allied with neighboring states before the rebellion was suppressed in 722.
 *   **766 - 791:** The uprising of Phung Hung (Bo Cai Dai Vuong).
 *   **767:** Srivijaya and Kunlun forces raided Giao Chau and were defeated by Military Commissioner Zhang Boyi.
 *   **780 (Canh Than year):** Khuong Cong Phu passed the doctoral examination (Jinshi) in the Tang Dynasty, later rising to high positions in the Tang court.
@@ -367,6 +367,7 @@
 *   **1272:** Le Van Huu completed the *Dai Viet Su Ky* (Annals of Dai Viet), the first national history of Vietnam, comprising 30 volumes.
 *   **1278:** Former Empress Chieu Thanh (Ly Chieu Hoang) passed away at the age of 61. After her demotion, she had been married to General Le Phu Tran, with whom she had a son (Thuong Vi Hau Tong) and a daughter (Ung Thuy Cong chua Khue).
 *   **Oct. 24, 1278:** Emperor Trần Thánh Tông abdicated the throne in favor of Crown Prince Trần Khâm (later known as Emperor Trần Nhân Tông).
+*   **1280:** Prince Chieu Van Tran Nhat Duat rode alone into the camp of rebel leader Trinh Giac Mat in Da Giang, using extraordinary diplomatic finesse and deep knowledge of indigenous customs to secure submission to the court without shedding blood.
 *   **1281:** Schools were established in Thien Truong prefecture (Nam Dinh).
 *   **1282:** The first work written in chữ Nôm (Vietnamese demotic script) was *Văn tế cá sấu* (Eulogy for the Crocodile) by Nguyễn Thuyên, composed during the Trần dynasty. This was a text commissioned by Emperor Trần Nhân Tông to drive away a crocodile that had appeared in the Red River.
 *   **Oct. 1282:** King Tran Nhan Tong convened the **Binh Than Conference** to discuss strategies against the Yuan invasion. Hoai Van Hau **Tran Quoc Toan**, being too young (15 years old) to participate, crushed an orange in his hand out of frustration. He later mobilized over 1,000 domestic servants and relatives, raising a flag with six golden words: "**Pha cuong dich, bao hoang an**" (Destroy the strong enemy, repay the royal favor) to join the resistance.
@@ -377,11 +378,12 @@
 *   **Aug. 1284:** Tran Hung Dao held a military review at Dong Bo Dau (Hanoi) and wrote the "Proclamation to the Officers" (Hich tuong si) to boost the morale of the soldiers.
 *   **Dec. 1284:** King Tran convened the Dien Hong Conference, asking for the opinions of elders throughout the country on whether to make peace or fight.
 *   **1285:** When King Tran Thanh Tong asked if he should surrender during the difficult early stages of the war, Tran Hung Dao famously replied: "Your Majesty, if you want to surrender, please cut off my head first."
+*   **1285:** Officer Yet Kieu (Pham Huu The) distinguished himself during the second Mongol invasion with his extraordinary diving prowess to sabotage enemy warships, while demonstrating steadfast loyalty by keeping his boat stationed at Bai Tan to help Supreme Commander Tran Quoc Tuan break through enemy encirclement.
 *   **Jan. 1285:** Yuan forces under the command of Toghon began the second invasion of Dai Viet.
 *   **Mar. 1285:** To delay the Mongol advance and buy time for the army to retreat and regroup, Princess **An Tu** (youngest sister of King Tran Thanh Tong) was sent to the Mongol general Toghon as part of a "beauty trap" stratagem.
 *   **Mar. 1285:** Prince Chieu Quoc Vuong Tran Ich Tac surrendered to the Yuan army.
 *   **May 1285:** The Tran army began a major counter-offensive, winning successive victories at Tay Ket, Chuong Duong, and Ham Tu.
-*   **Early May 1285 (Lunar):** The Tran army defeated the Yuan forces led by Sogetu (Toa Do) at the Ham Tu estuary, forcing Sogetu to retreat with his remaining troops to the Thien Truong estuary.
+*   **Early May 1285 (Lunar):** Prince Chieu Van Tran Nhat Duat led Dai Viet forces to decisively defeat the Yuan army commanded by Sogetu (Toa Do) at the Battle of Ham Tu Pass (Hung Yen), forcing Sogetu to retreat to Thien Truong and creating a strategic turning point to liberate Thang Long.
 *   **Jun. 1285:** The second resistance war against the Mongol-Yuan invaders ended in a complete victory.
 *   **Jun. 5, 1285:**   **Battle of Chuong Duong - Thang Long.** The Tran army launched a counter-offensive to liberate the capital. General Pham Ngu Lao commanded the flanking attack.
 *   **Jun. 24, 1285 (Late May, Lunar):**   **Battle of Tay Ket.** Following the victory at Chuong Duong, Tran forces led by Tran Quoc Tuan attacked the Yuan army at Tay Ket. Yuan commander Sogetu (Toa Do) was beheaded in battle. General Omar (O Ma Nhi) fled in panic to Thanh Hoa, and the Tran army captured tens of thousands of Mongol troops.
@@ -668,7 +670,7 @@
 *   **Aug. 1460:** King Le Thanh Tong issued an edict requiring people with the surname "Tran" to change it to "Trinh" to avoid a naming taboo involving his grandmother, Pham Ngoc Tran.
 *   **1462:** Emperor Le Thanh Tong ordered the opening of regional examinations (thi Huong) at examination compounds nationwide, stipulating a strict three-year cycle for organizing the exams.
 *   **Oct. 1462:** King Le Thanh Tong set the retirement age for officials at 65 and for clerks and scholars at 60.
-*   **1463:** A doctoral examination was held, Luong The Vinh ranked as Trang Nguyen (First Laureate). The triennial cycle for metropolitan examinations was officially established.
+*   **1463:** A doctoral examination was held, and Luong The Vinh achieved Trang Nguyen (First Laureate) under King Le Thanh Tong; he later authored "Dai Thanh Toan Phap" – Vietnam's first mathematical textbook, earning the popular title "Trang Luong". The triennial cycle for metropolitan examinations was officially established.
 *   **1463:** The first metropolitan examination under Emperor Le Thanh Tong took place on a massive scale with 4,400 candidates participating. This examination marked the first time the names of laureates were publicly called outside the Thai Hoc house and displayed on a golden board.
 *   **1466:** Le Thanh Tong divided the country into 12 Thua Tuyen provinces. He established the **Five Military Commissions** (Ngu Phu) and consolidated the Six Ministries system, reorganizing the administrative and military structure.
 *   **1469:** King Le Thanh Tong ordered the mapping of the 12 Thua Tuyen provinces. Thua Tuyen Nam Sach was renamed Thua Tuyen Hai Duong; this was the first time the name "Hai Duong" appeared.
@@ -848,7 +850,7 @@
 *   **1739:** Mac Thien Tich established four new districts: Long Xuyen (Ca Mau), Kien Giang (Rach Gia), Tran Giang (Can Tho), and Tran Di (Bac Lieu), consolidating administrative control over the Mekong Delta.
 *   **1739:** Major peasant uprisings erupted in Dang Ngoai, notably the uprisings of Nguyen Tuyen and Nguyen Cu in Hai Duong, and Hoang Cong Chat in Son Nam.
 *   **1740:** In Dang Ngoai, the abusive Lord Trinh Giang was deposed. His younger brother, Trinh Doanh, succeeded him as Lord (Minh Do Vuong).
-*   **1741 - 1751:** The uprising of Nguyen Huu Cau (Quan He) was very active in the coastal areas of Son Nam and Hai Duong, causing great difficulty for the Trinh army.
+*   **1741 - 1751:** A large-scale peasant uprising led by Nguyen Huu Cau (known as Quan He) broke out, basing in Do Son under the banner of "taking from the rich to give to the poor", operating fiercely across Kinh Bac, Hai Duong, Son Nam, and Thanh Nghe, defeating multiple Trinh lord armies before being suppressed in 1751.
 *   **1744:** In Dang Trong, Nguyen Phuc Khoat proclaimed himself King (Vuong), reforming the government according to the statutes of an independent monarchy.
 *   **1744:** Lord Nguyen Phuc Khoat implemented a dress code reform, requiring people to wear trousers and buttoned shirts (Chinese style), and reorganized administrative titles.
 *   **1754:** Vietnamese sailors shipwrecked near the Paracel Islands drifted to the Chinese coast. Chinese authorities investigated and returned them to Vietnam without raising any sovereignty protests regarding their activities in the Paracels.
@@ -861,6 +863,7 @@
 *   **1765:** Lord Nguyen Phuc Khoat passed away. The powerful mandarin Truong Phuc Loan abused his power, enthroning Nguyen Phuc Thuan (12 years old) and imprisoning Nguyen Phuc Luan. Society in Dang Trong began to enter a deep crisis.
 *   **1765:** The regent Truong Phuc Loan usurped power, causing social turmoil. Teacher Truong Van Hien fled to An Thai and taught literature and martial arts to the three Tay Son brothers (Nguyen Nhac, Nguyen Hue, Nguyen Lu), preparing the intellectual and martial basis for the uprising.
 *   **1767:** Lord Trinh Doanh passed away. His son, Trinh Sam, succeeded him as Lord (Tinh Do Vuong).
+*   **1770:** Great physician Hai Thuong Lan Ong (Le Huu Trac) completed his monumental medical treatise "Hai Thuong Y Tong Tam Linh" (Treatise on Medical Knowledge) comprising 28 volumes and 66 books, establishing a comprehensive classical encyclopedia of traditional Vietnamese medicine and medical ethics.
 
 ### **Tay Son Movement and Dynasty Period (1771 - 1802)**
 
@@ -951,10 +954,11 @@
 *   **Oct. 1790:** Tran Quang Dieu attacked Vientiane (Van Tuong), forcing the leader to flee, then advanced to the Siamese border, defeating Siamese generals Phan Dung and Phan Sieu.
 *   **1791:** Emperor Quang Trung established the **Institute for the Veneration of Orthodoxy** (Vien Sung Chinh), headed by Nguyen Thiep. This marked a significant cultural milestone as **Chu Nom** (Vietnamese demotic script) was elevated to the status of the national official script for documents and education, replacing Classical Chinese.
 *   **1791:** The Tay Son launched a large-scale invasion of Laos. Meanwhile, historical records indicate growing dissatisfaction among the populace in both Tay Son-controlled central regions and Nguyen-controlled southern regions due to war burdens and taxes.
-*   **1791:** Le Huu Trac passed away.
+*   **1791:** Hai Thuong Lan Ong Le Huu Trac – revered as the patriarch of traditional Vietnamese medicine – passed away in Huong Son (Ha Tinh).
 *   **Spring 1791 (Tan Hoi):** Tran Quang Dieu and Bui Thi Xuan led troops to chastise the King of Ai Lao (Laos) for refusing tribute, forcing them to surrender.
 *   **1792:** Emperor Quang Trung prepared a massive military campaign. His plan involved first attacking China to recover the "lost" provinces of Guangdong and Guangxi, and subsequently launching a major campaign to destroy Nguyen Anh's forces. However, these plans were cancelled due to his sudden death.
 *   **Jul. 1792:** The Nguyen navy, utilizing Western-style ships and tactics, launched a surprise attack on the Tay Son navy at **Thi Nai** port, destroying many vessels. This was a significant initial victory for the modernized Nguyen navy.
+*   **July 27, 1792:** Eminent educator Vo Truong Toan – revered as the patriarch of Southern Vietnamese education and mentor of prominent scholars including the "Three Scholars of Gia Dinh" (Trinh Hoai Duc, Le Quang Dinh, Ngo Nhon Tinh) – passed away in Gia Dinh, posthumously honored by Lord Nguyen Phuc Anh as "Gia Dinh Scholar Vo".
 *   **Sep. 15, 1792 (29th of the 7th lunar month):** Emperor Quang Trung suddenly passed away at the age of 40 (according to the text *Nhà Tây Sơn*). His son, Nguyen Quang Toan (10 years old), succeeded him, taking the era name Canh Thinh.
 *   **1793:** Nguyen Anh attacked Quy Nhon. Nguyen Nhac asked Phu Xuan for help. Quang Toan's army came to relieve the siege and then captured Quy Nhon Citadel. Nguyen Nhac died of indignation.
 *   **Apr. 1793:** Prince Canh was officially invested as Crown Prince (Dong Cung).
@@ -1033,6 +1037,7 @@
 *   **1820:** The "Monk Ke" rebellion (Giặc Sãi) broke out in Cambodia and the border region. Governor Le Van Duyet dispatched troops to suppress it, stabilizing the southwestern border.
 *   **1820:** The system of **Chau Ban** (Vermilion Records), official administrative documents with the Emperor's comments in red ink, was established.
 *   **1820 - 1840:** Under Emperor Minh Mang, the mandarin system was considered the most systematic and tightest of the Nguyen dynasty. Administrative reforms eventually divided the country into 29 provinces, eliminating intermediary levels like Bac Thanh and Gia Dinh Thanh to centralize power.
+*   **1820:** Grand Scholar Trinh Hoai Duc completed and presented to Emperor Minh Mang the 6-volume "Gia Dinh Thanh Thong Chi" (Monograph of Gia Dinh Citadel) – a monumental geographical, historical, and cultural gazetteer providing comprehensive documentation of Southern Vietnam.
 *   **Feb. 3, 1820:** Emperor Gia Long passed away.
 *   **Feb. 14, 1820:** Emperor Minh Mang officially ascended the throne at the Thai Hoa Palace. He established the *Van thu phong* (Chancellery) to handle administrative documents.
 *   **May 1820:** Emperor Minh Mang ordered the naming of streets in the Capital (Hue) and the erection of stone signposts, marking an early effort in urban planning and management.
@@ -1052,12 +1057,12 @@
 *   **Oct. 1827:** Construction of the **Duyet Thi Duong** (Royal Theater) began within the Purple Forbidden City. It served as a venue for performing arts (Tuong opera, dance) for the royal court.
 *   **Oct. 1827:** Emperor Minh Mang issued a decree reforming the dress code in the territory north of the Gianh River to unify national customs.
 *   **Dec. 1827:** Governor-General Le Van Duyet traveled to Hue to petition Emperor Minh Mang to stop the persecution of Catholic missionaries, recalling the help of Bishop Pigneau de Béhaine to the Nguyen dynasty. This temporarily eased tensions between the court and the Catholic community.
-*   **1828:** Establishment of Tien Hai district (Thai Binh) under the "Doanh dien" (land reclamation) policy led by Nguyen Cong Tru.
 *   **1828:** Emperor Minh Mang issued a strict edict banning women from wearing traditional skirts (váy) and forcing them to wear trousers in a thorough emulation of Chinese customs, which provoked strong popular resistance expressed in folk songs.
 *   **May 1828:** Emperor Minh Mang personally performed the **Tich Dien** (Plowing) ceremony at the newly established field in the capital, reviving an ancient tradition to encourage agriculture.
+*   **Sep. 1828:** Land Reclamation Envoy Nguyen Cong Tru completed the reclamation of coastal Tien Chau to establish Tien Hai District (now in Thai Binh Province).
 *   **Oct. 1828:** The golden seal **"Hoang De chi bao"** (Treasure of the Emperor) was cast.
-*   **1829:** Establishment of Kim Son district (Ninh Binh) through land reclamation efforts led by Nguyen Cong Tru.
 *   **1829:** The Nguyen dynasty introduced a new regulation for the metropolitan examinations, accepting additional candidates whose scores were close to the third tier (De tam giap) and placing them on a supplementary list known as "Pho bang".
+*   **Mar. 1829:** Nguyen Cong Tru continued leading land reclamation across the coastal alluvium of Yen Khanh – Yen Mo to establish Kim Son District (now in Ninh Binh Province), providing farmland and livelihoods for thousands of peasants.
 *   **Nov. 1829:** Emperor Minh Mang reorganized the *Van thu phong* into the **Noi cac** (Grand Secretariat), enhancing its role in assisting the Emperor with state affairs.
 *   **1830:** Le Van Duyet requested and oversaw the reconstruction of the Gia Dinh Citadel (Phan An Citadel) using laterite stone, expanding it significantly to become a major defensive fortification in the South.
 *   **Jan. 1830:** Emperor Minh Mang ordered the construction of the **Ho Quyen** (Tiger Arena) at Long Tho hill (Hue), a unique colosseum for elephant and tiger fights.
@@ -1128,6 +1133,7 @@
 *   **Aug. 31, 1858:** A French-Spanish coalition force deployed at the Da Nang estuary.
 *   **Sep. 1, 1858:** A French-Spanish coalition force opened fire on the Son Tra peninsula (Da Nang), capturing the Dong Fort and officially beginning the invasion of Vietnam.
 *   **Sep. 2, 1858:** The French-Spanish coalition force captured the Tay Fort, An Hai, and Dien Hai fortresses. French forces occupied the Son Tra peninsula.
+*   **Dec. 7, 1858:** Prominent statesman, military commander, economist, and celebrated poet Nguyen Cong Tru passed away in his hometown of Nghi Xuan (Ha Tinh) at the age of 80.
 *   **Feb. 1859:** When French and Spanish forces assaulted Gia Định, Militia Commander Trương Định voluntarily led his Tân Hòa agricultural militia to join royal troops in defending the Chí Hòa line. His forces repeatedly ambushed enemy patrols in Cây Mai and Thị Nghè, inflicting significant casualties and earning him a promotion to Deputy Commander (*Phó Lãnh binh*) of Gia Định.
 *   **Feb. 2, 1859:** The French-Spanish coalition force, led by Vice Admiral Charles Rigault de Genouilly, left a fraction of its troops in Da Nang, changed course, and advanced on Gia Dinh.
 *   **Feb. 17, 1859:** French forces attacked and captured Gia Dinh Citadel. Defending Vietnamese commanders Vo Duy Ninh and Le Tu committed suicide.
@@ -1254,6 +1260,7 @@
 *   **Apr. 1886:** The court began minting "Dong Khanh Thong Bao" coins (10 zinc coins equal to 1 copper coin).
 *   **May 1886:** Emperor Dong Khanh personally led a military campaign ("Imperial Inspection") to Quang Binh to pacify the region and suppress the Can Vuong movement.
 *   **Jan. 1887:** The Ba Dinh base fell after fierce attacks by French forces.
+*   **June 7, 1887:** Leader of the Can Vuong anti-French resistance movement in Binh Dinh – Grand Commander Mai Xuan Thuong was executed by French colonial forces at Go Cham after rebel strongholds fell, epitomizing the unyielding patriotic spirit of Central Vietnam's resistance fighters.
 *   **Jun. 26, 1887:** France and the Qing dynasty signed the Convention delimiting the border between Tonkin and China. The convention stated that islands east of the Paris meridian 105°43' East belonged to China, while islands to the west (such as Co To) belonged to Annam. This convention only addressed the coastal islands of Tonkin, not the distant archipelagos.
 *   **Oct. 17, 1887:** The Indochinese Union was established, leading to a centralized colonial administration pushed forward especially under Governor-General Paul Doumer.
 *   **May 1888:** The French authorities established the "Dai Nam Nhat Bao" bureau.
@@ -1308,7 +1315,7 @@
 *   **May 16, 1906:** Governor-General Paul Beau signed a decree establishing the University of Indochina.
 *   **June 6, 1906:** Lien Thanh Thuong Quan (Lien Thanh Commercial House) was established in Phan Thiet by six patriotic scholars to respond to the Duy Tan movement. Initially registered as an anonymous company for 10 years, it produced traditional fish sauce to fund patriotic activities and provide employment.
 *   **1907:** Duc Thanh Hoc Hieu (Duc Thanh School) was established by the founders of Lien Thanh to teach progressive patriotic ideas to the children of poor laborers.
-*   **Mar. 1907:** Dong Kinh Nghia Thuc (Tonkin Free School) began holding Quoc Ngu classes for both men and women at 4 Hang Dao Street (Hanoi) before receiving an official license.
+*   **Mar. 1907:** Patriotic scholars Luong Van Can, Nguyen Quyen, and Nguyen Huu Cau (Gian Thach) co-founded Dong Kinh Nghia Thuc (Tonkin Free School) at 4 Hang Dao (Hanoi), offering Quoc Ngu classes for both men and women to spread reformist ideas and modernize education.
 *   **Apr. 7, 1907:** Le Duan was born in Trieu Phong, Quang Tri. He later became the General Secretary of the Communist Party of Vietnam, a prominent leader of the Party and the Vietnamese revolution.
 *   **May 1907:** Dong Kinh Nghia Thuc was officially granted a license, expanding its activities in teaching, public speaking, and promoting industry and commerce.
 *   **Nov. 10, 1907:** The University of Indochina opened its first academic year.
@@ -1495,6 +1502,7 @@
 *   **Apr. 11, 1931:** The Communist International issued a resolution recognizing the Indochinese Communist Party as an independent section.
 *   **Apr. 19, 1931:** Nguyen Thi Ut (Ut Tich) was born in Tich Thien village, Cau Ke district, Can Tho (now Tam Ngai, Tra Vinh). She later became a legendary heroine of the Liberation Army of South Vietnam.
 *   **Apr. 19, 1931:** General Secretary Tran Phu was arrested by the enemy.
+*   **May 17, 1931:** Resolute communist courier Nguyen Thi Nghia (birth name Nguyen Thi Hen, who maintained vital communications between the Party Central Committee and the Annam Regional Party Committee during the Nghe Tinh Soviet movement) died courageously in Vinh Prison under brutal torture by French authorities.
 *   **Jun. 6, 1931:** Nguyen Ai Quoc (under the alias Tong Van So / Sung Man Cho) was arrested by British police at 186 Tam Kung Road (Kowloon, Hong Kong) at the request of the French secret service, initiating the historic **Tong Van So Case**. French colonial authorities vigorously sought his extradition to Indochina to execute the death sentence in absentia handed down by the Court of Vinh in 1929.
 *   **Sep. 6, 1931:** Comrade Tran Phu died in Cho Quan hospital.
 *   **Nov. 20, 1931:** Ly Tu Trong heroically sacrificed his life at the Saigon Main Prison guillotine at the age of 17, leaving behind the immortal quote: "The path for youth can only be the revolutionary path, there is no other path."
@@ -1663,6 +1671,7 @@
 *   **1946:** Tran Thi Man (later Hero of the People's Armed Forces and Heroic Vietnamese Mother Tran Thi Quang Man) disguised herself as a man under the name Tran Quang Man to join the Viet Quoc Doan (National Guard) forces in Vinh Thuan (Kien Giang), fighting against French colonial forces.
 * **1946:** Martyr Dương Văn Mạnh (Các liệt sĩ thiếu niên Việt Nam) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland.
 * **1946:** Hero of the People's Armed Forces Lục Sĩ Thành (Chiến sĩ du kích Trà Ôn) passed away.
+*   **1946:** Progressive Confucian scholar and Dong Kinh Nghia Thuc activist Nguyen Huu Cau (known as Gian Thach) passed away.
 *   **Jan. 1946:** Huynh Tan Phat was elected as a representative for My Tho province in the First National Assembly of the Democratic Republic of Vietnam.
 *   **Jan. 1, 1946:** The Provisional Government was reformed into the Provisional Coalition Government, with added members from Viet Quoc and Viet Cach parties.
 *   **Jan. 6, 1946:** The first General Election to elect the 1st National Assembly was held nationwide.
@@ -1927,6 +1936,7 @@
 *   **May 19, 1954:** On the occasion of President Ho Chi Minh's 64th birthday at the Kim Quan Safe Zone (Tuyen Quang), Captain Ta Quoc Luat represented the Dien Bien Phu combatants to report victory achievements to Uncle Ho and presented Him with General De Castries' officer badge.
 *   **Jun. 1954:** Dinh Thi Van was assigned to the Research Department of the General Staff (Ministry of National Defense) and sent to operate covertly in Hanoi. She built reliable intelligence bases and gathered crucial information during the "300 days of assembly" period. Demonstrating immense personal sacrifice for the revolution, she arranged for her husband to marry another woman so he would be cared for while she dedicated herself to her secret missions.
 *   **Jun. 16, 1954:** Under US pressure, Bao Dai signed a decree appointing Ngo Dinh Diem as Prime Minister of the "State of Vietnam" government.
+*   **June 17, 1954:** Master painter To Ngoc Van – a pioneer of modern Vietnamese fine arts (of the celebrated quartet "Tri, Van, Lan, Can") – was killed in action at Lung Lo Pass (Yen Bai) during the Dien Bien Phu campaign, becoming the first martyr of Vietnam's revolutionary fine arts.
 *   **Jul. 7, 1954:** Ngo Dinh Diem officially took office as Prime Minister in Saigon.
 *   **Jul. 20-21, 1954:** The **Geneva Accords** were signed, ending the war in Indochina. Key points:
     *   Recognition of the independence, sovereignty, unity, and territorial integrity of Vietnam.
@@ -2107,6 +2117,7 @@
 *   **1961:** Martyr Đặng Thị Kim was posthumously awarded the Resistance Order, Third Class by the State of the Democratic Republic of Vietnam.
 *   **1961:** The US launched **Operation Ranch Hand**, spraying herbicides (including Agent Orange) over South Vietnam to destroy foliage and crops, causing severe long-term environmental and health consequences.
 *   **1961:** Huynh Tan Phat became the President of the National Liberation Front Committee for the Saigon - Gia Dinh zone.
+*   **1961:** Hero of the People's Armed Forces Thach Thi Thanh (a Khmer woman from Cau Ke, Tra Vinh) alongside Buddhist monks led the prominent "Buddha Evacuation" political struggle across Southwestern Vietnam, protesting the Ngo Dinh Diem regime's strategic hamlet program, temple occupation, and forced conscription.
 *   **Jan. 1961:** US President John F. Kennedy took office and proposed the "Flexible Response" strategy, which included the "Special War" to be applied in South Vietnam.
 *   **Jan. 1961:** The 3rd Conference of the Party Central Committee decided to establish the Central Office for South Vietnam (COSVN) to replace the Nam Bo Party Committee and directly lead the southern revolution.
 *   **Jan. 24, 1961:** The Politburo issued a directive on the direction and tasks of the Southern revolution, shifting from mainly political struggle to combining political struggle with armed struggle.
