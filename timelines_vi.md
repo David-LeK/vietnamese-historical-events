@@ -1112,6 +1112,7 @@
 *   **1848:** Vua Tự Đức ra lệnh xây đắp lại mộ phần và miếu thờ Lê Văn Duyệt (Lăng Ông Bà Chiểu) cho khang trang, rộng rãi hơn.
 *   **1848 - 1849:** Việc quản lý hành chính đối với các quần đảo tiếp tục được triều Nguyễn duy trì với mục đích địa lý nhằm nắm bắt tốt nhất các hải trình, đồng thời phục vụ mục đích tài chính thông qua việc thu thuế ngư dân hoạt động trong vùng.
 *   **02/1848:** Triều đình bắt đầu cho đúc tiền "Tự Đức thông bảo" và hoàn thành bộ sách *Thế Tổ Cao Hoàng đế thực lục chính biên*.
+*   **1850:** Trương Định hưởng ứng chính sách đồn điền do Kinh lược sứ Nguyễn Tri Phương khởi xướng tại Nam Kỳ, tự nguyện xuất tiền của chiêu mộ dân nghèo khai hoang lập đồn điền Gia Thuận (Gò Công). Ông được triều đình nhà Nguyễn bổ nhiệm làm Quản cơ đồn điền (hàm chánh lục phẩm), đặt nền móng xây dựng lực lượng nghĩa binh chuẩn bị cho phong trào chống Pháp sau này.
 *   **03/1850:** Vua Tự Đức cho mở tòa Kinh Diên (nơi vua nghe giảng sách) và thành lập viện Tập Hiền.
 *   **1851:** Vua Tự Đức cho mở thêm "Chế khoa Cát sĩ" (Khoa thi đặc biệt kén chọn bậc sĩ phu xuất chúng) bên cạnh khoa thi chính thức nhằm tuyển chọn nhân tài xuất sắc cho đất nước.
 *   **12/1852:** Vua Tự Đức ra lệnh biên soạn bộ quốc sử *Khâm định Việt sử thông giám cương mục*, do Phan Thanh Giản làm Tổng tài.
@@ -1127,6 +1128,7 @@
 *   **31/08/1858:** Liên quân Pháp - Tây Ban Nha dàn trận tại cửa biển Đà Nẵng.
 *   **01/09/1858:** Liên quân Pháp - Tây Ban Nha nổ súng tấn công bán đảo Sơn Trà (Đà Nẵng), đánh vỡ đồn Đông, chính thức bắt đầu cuộc xâm lược Việt Nam.
 *   **02/09/1858:** Liên quân Pháp - Tây Ban Nha chiếm đồn Tây, đồn An Hải và Điện Hải. Quân Pháp đổ bộ chiếm được bán đảo Sơn Trà.
+*   **02/1859:** Khi liên quân Pháp - Tây Ban Nha tấn công Gia Định, Quản cơ Trương Định tự nguyện dẫn đội nghĩa binh đồn điền Tân Hòa phối hợp cùng quân triều đình phòng giữ phòng tuyến Chí Hòa. Nghĩa quân của ông liên tục tổ chức phục kích tiêu diệt nhiều lính Pháp tại khu vực Cây Mai, Thị Nghè, lập nhiều chiến công xuất sắc và được thăng thụ chức Phó Lãnh binh Gia Định.
 *   **02/02/1859:** Liên quân Pháp - Tây Ban Nha do Phó Đô đốc de Genouilly chỉ huy chỉ để lại một phần ba quân số ở Đà Nẵng, chuyển hướng tiến vào đánh chiếm Gia Định.
 *   **17/02/1859:** Quân Pháp tấn công và đánh chiếm thành Gia Định. Hộ đốc Võ Duy Ninh và Án sát Lê Từ tự vẫn.
 *   **08/03/1859:** Quân Pháp cho phá hủy hoàn toàn thành Gia Định, thiêu rụi kho tàng, chỉ giữ lại đồn Hữu Bình rồi rút phần lớn quân trở ra Đà Nẵng.
@@ -1138,6 +1140,7 @@
 *   **22/03/1860:** Sau 19 tháng bị cầm chân và chịu nhiều tổn thất do dịch bệnh cùng sức kháng cự, liên quân Pháp - Tây Ban Nha phá hủy tất cả pháo đài và rút toàn bộ quân khỏi Đà Nẵng để tập trung vào Gia Định.
 *   **07/1860:** Nguyễn Tri Phương được bổ nhiệm làm Tổng thống quân vụ Gia Định để đối phó với quân Pháp.
 *   **03 - 04/07/1860:** Quân Việt dũng cảm tổ chức tập kích ban đêm, đánh chiếm đồn Cây Mai ở Gia Định từ tay liên quân Pháp - Tây Ban Nha.
+*   **02/1861:** Sau khi Đại đồn Chí Hòa thất thủ, Phó Lãnh binh Trương Định không rút lui theo quan quân triều đình mà lui về vùng Gò Công (Tân Hòa), củng cố căn cứ địa hiểm trở tại "Đám lá tối trời" (Gia Thuận), liên kết với các sĩ phu yêu nước và thủ lĩnh nghĩa quân phát động cuộc chiến tranh du kích rộng khắp vùng Gia Định - Định Tường.
 *   **24 - 25/02/1861:** Quân Pháp do Đề đốc Charner chỉ huy tấn công và chiếm được Đại đồn Kỳ Hòa (Chí Hòa), phòng tuyến quan trọng nhất của triều đình ở Gia Định. Tướng Nguyễn Tri Phương bị thương nặng, phải rút quân về đồn Thuận Kiều.
 *   **26/03 - 14/04/1861:** Chiến dịch quân Pháp đánh chiếm Định Tường. Sau nhiều ngày phá các đập chắn trên kinh Trạm và hao mòn vì dịch tả, đoàn tàu chiến Pháp chiếm thành Mỹ Tho vào trưa 12/04 mà không tốn viên đạn nào do quân Việt đã rút đi. Ngày 14/04, quân Pháp tiến chiếm Gò Công.
 *   **21/09/1861:** Đô đốc Charner ký nghị định thành lập trường thông ngôn Bá Đa Lộc.
@@ -1149,13 +1152,17 @@
 *   **20 - 23/03/1862:** Thuyền chiến Pháp áp sát và nổ súng tấn công Vĩnh Long. Sau hai ngày đêm chiến đấu, quân Việt đốt kho tàng rồi rút chạy. Ngày 23/03, quân Pháp tiến vào chiếm thành Vĩnh Long lần thứ nhất.
 *   **04/1862:** Cuộc khởi nghĩa Cai Vàng (Nguyễn Thịnh) bùng nổ ở Bắc Ninh, một trong những cuộc khởi nghĩa nông dân lớn ở Bắc Kỳ.
 *   **05/06/1862:** Triều đình Huế (đại diện là Phan Thanh Giản và Lâm Duy Hiệp) ký Hòa ước Nhâm Tuất với Pháp (đại diện là Thiếu tướng Bonard), chính thức nhượng 3 tỉnh miền Đông Nam Kỳ (Gia Định, Định Tường, Biên Hòa) và đảo Côn Lôn cho Pháp.
+*   **08/1862:** Sau khi triều đình Huế ký Hòa ước Nhâm Tuất nhượng ba tỉnh miền Đông cho Pháp và hạ lệnh bãi binh, điều Trương Định đi nhận chức Lãnh binh An Giang, ông đã kiên quyết từ chối chiếu chỉ bãi binh của triều đình và thư dụ hàng của Pháp. Được nhân dân và các tướng sĩ suy tôn làm **"Bình Tây Đại nguyên soái"**, Trương Định quyết định ở lại cùng nhân dân giương cao ngọn cờ tiếp tục kháng chiến chống thực dân Pháp.
+*   **16/12/1862:** Nghĩa quân Trương Định mở cuộc tổng phản công bất ngờ đồng loạt tập kích các đồn bốt của quân Pháp trên khắp ba tỉnh miền Đông Nam Kỳ (Gia Định, Định Tường, Biên Hòa), phục kích tiêu diệt Thiếu úy Pháp Theron tại Rạch Tra, gây cho quân Pháp nhiều thiệt hại nặng nề và đẩy quân viễn chinh vào thế bị động, lúng túng.
 *   **02/1863:** Đô đốc Bonard và Đại tá Palanca (Tây Ban Nha) đến Huế để trao đổi việc phê chuẩn Hòa ước Nhâm Tuất.
+*   **25 - 28/02/1863:** Thực dân Pháp huy động lực lượng thủy lục quân trang bị hỏa lực mạnh do Thiếu tướng Chaumont và Đô đốc Bonard chỉ huy mở cuộc tiến công quy mô lớn vào đại bản doanh Tân Hòa (Gò Công). Trương Định cùng nghĩa quân chiến đấu kiên cường đánh trả suốt ba ngày đêm trước khi chủ động phá vòng vây rút lui về Lý Nhơn (Cần Giờ) và Đồng Tháp Mười để bảo toàn lực lượng và xây dựng căn cứ mới.
 *   **25/05/1863:** Pháp trao trả thành Vĩnh Long cho triều đình nhà Nguyễn theo điều khoản của Hòa ước Nhâm Tuất 1862.
 *   **08/1863:** Triều đình Huế cử phái bộ do Phan Thanh Giản dẫn đầu sang Pháp thương lượng xin chuộc lại 3 tỉnh miền Đông nhưng thất bại.
 *   **11/08/1863:** Pháp ký hiệp ước bảo hộ với vua Campuchia Norodom.
 *   **1864:** Trường học đầu tiên dạy chữ Quốc ngữ ở Việt Nam là Trường Thông ngôn Sài Gòn (Collège des interprètes), được thành lập chính thức.
 *   **1864:** Đạo **Hà Tĩnh** được tách ra và đặt làm một đạo riêng biệt, không còn lệ thuộc vào Nghệ An.
 *   **Năm 1864 (Tự Đức thứ 17):** Bùi Viện và em trai là Bùi Phủng cùng thi đỗ tú tài.
+*   **20/08/1864:** Đêm 19 rạng sáng 20/08/1864, do tên phản bội Huỳnh Công Tấn dẫn đường, quân Pháp bất ngờ bao vây đánh úp căn cứ Kiểng Phước (Gò Công). Trương Định cùng các nghĩa sĩ chiến đấu dũng cảm đến cùng; sau khi bị trúng đạn gãy xương sống, để bảo toàn khí tiết và không để rơi vào tay giặc, Bình Tây Đại nguyên soái Trương Định đã rút gươm tuẫn tiết tại Ao Dinh (Gò Công) ở tuổi 44.
 *   **15/04/1865:** Tờ báo tiếng Việt đầu tiên sử dụng chữ Quốc ngữ là *Gia Định báo*, được ra mắt tại Sài Gòn.
 *   **05/1865:** Triều đình mở khoa thi Tiến sĩ võ đầu tiên để tuyển chọn nhân tài quân sự.
 *   **11/1865:** Triều đình mở khoa thi Nhã sĩ để kén chọn những người văn học rộng rãi, phẩm hạnh thuần chính.
@@ -1175,6 +1182,7 @@
 *   **27/10/1868:** Anh hùng Nguyễn Trung Trực bị thực dân Pháp đưa đi hành quyết tại Rạch Giá (Kiên Giang), để lại câu nói bất hủ: *"Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây"*.
 *   **02/1869:** Chữ quốc ngữ được quy định dùng bắt buộc thay chữ Nho trong công văn ở Nam Kỳ, theo nghị định của Phó đô đốc Marie Gustave Hector Ohier.
 *   **1870:** Nghĩa quân Trương Quyền (con trai Trương Định) phối hợp chặt chẽ với lực lượng của Pu Kom Pô mở rộng phong trào kháng chiến chống thực dân Pháp dọc biên giới Tây Nam Bộ (Tây Ninh, Châu Đốc), thể hiện tinh thần liên minh đoàn kết chiến đấu chống ngoại xâm của nhân dân hai nước.
+*   **1871:** Khâm phục khí tiết kiên trung và sự hy sinh anh dũng vì nước của Bình Tây Đại nguyên soái Trương Định, vua Tự Đức ban chiếu truy tặng phẩm hàm cho ông và hạ lệnh lập đền thờ Trương Định tại quê nhà làng Tư Cung (Bình Sơn, Quảng Ngãi).
 *   **1871:** Lái buôn kiêm thám hiểm người Pháp Jean Dupuis tự ý dẫn đoàn tàu buôn vũ trang vượt sông Hồng sang Vân Nam để buôn bán vũ khí và muối trái phép, bất chấp lệnh cấm của triều đình Huế, mở đầu chuỗi khiêu khích dẫn tới cuộc tấn công đánh chiếm Bắc Kỳ lần thứ nhất của quân Pháp (1873).
 *   **11/1872:** Jean Dupuis, một lái buôn người Pháp, bắt đầu gây rối ở Bắc Kỳ, lấy cớ vận chuyển hàng hóa lên Vân Nam.
 *   **1873:** Phủ lỵ Đoan Hùng (tỉnh Sơn Tây) bị giặc cướp đốt phá, phải chuyển đến làm việc tại nhà dân.
