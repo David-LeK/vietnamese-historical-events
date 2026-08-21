@@ -173,6 +173,7 @@
 *   **968:** Đinh Bộ Lĩnh tiếp tục đánh dẹp các sứ quân Lý Khuê, Lã Đường, thống nhất Tĩnh Hải quân, lên ngôi Hoàng đế (Đinh Tiên Hoàng), định đô ở Hoa Lư.
 *   **970:** Đinh Tiên Hoàng đặt niên hiệu là Thái Bình.
 *   **970:** Đinh Tiên Hoàng lập 5 hoàng hậu (Đan Gia, Trinh Minh, Kiểu Quốc, Cổ Quốc, Cao Ông), thiết lập quy chế hậu cung.
+*   **970:** Vua Đinh Tiên Hoàng đặt niên hiệu Thái Bình và cho đúc đồng tiền "Thái Bình hưng bảo" bằng đồng. Đây là đồng tiền kim loại đầu tiên trong lịch sử tiền tệ độc lập của Việt Nam, khẳng định chủ quyền kinh tế và tiền tệ quốc gia.
 *   **971:** Đinh Tiên Hoàng bắt đầu quy định cấp bậc cho quan lại văn, võ và tăng đạo. Ngô Chân Lưu được phong làm Khuông Việt Đại sư (chức Tăng thống).
 *   **974:** Đinh Tiên Hoàng chia cả nước làm 10 đạo.
 *   **Mùa xuân 978 (Mậu Dần):** Đinh Tiên Hoàng lập con út Hạng Lang làm Thái tử, bỏ qua con trưởng Đinh Liễn.
@@ -186,7 +187,7 @@
 *   **07/02/981 (Tất niên Canh Thìn):** Trận sông Lục Đầu (Bình Lỗ). Lê Đại Hành cùng các tướng Trần Công Tích, Trần Bảo Trung đánh bại thủy lục quân Tống, buộc địch rút về Bạch Đằng.
 *   **11/04/981:** Thủy quân và lục quân tăng viện của Tống do Lưu Trừng, Trần Khâm Tộ chỉ huy tới Bạch Đằng.
 *   **28/04/981:** Trận Bạch Đằng lần thứ hai. Lê Đại Hành dụ Hầu Nhân Bảo tiến vào trận địa mai phục và tiêu diệt. Hầu Nhân Bảo tử trận. Quân Tống tháo chạy, đạo quân Trần Khâm Tộ bị truy kích tiêu diệt quá nửa tại Tây Kết.
-*   **982:** Lê Đại Hành thân chinh đánh Champa, chiếm kinh đô Đồng Dương và giết vua Bề Mi Thuế.
+*   **982:** Vua Lê Đại Hành thân chinh chỉ huy thủy bộ binh tiến đánh Chiêm Thành sau khi vua Chiêm giam giữ sứ thần Đại Cồ Việt; chém vua Chiêm Bê Mị Thuế (Paramesvaravarman I) tại trận, bình định kinh thành Indrapura (Đồng Dương) và giải cứu các sứ giả.
 *   **983:** Lê Đại Hành ra lệnh đào kênh Bà Hòa (Thanh Hóa) và kênh Đa Cái (Nghệ An) để thuận tiện cho việc vận chuyển quân lương và giao thông đường thủy. Vua Lê Đại Hành rút đại quân về Hoa Lư, lưu lại một đạo quân trú phòng tại miền bắc Chiêm Thành (từ Hoành Sơn đến mũi Varella) do Quản giáp **Lưu Kế Tông** chỉ huy.
 *   **02/984:** Triều Tiền Lê cho đúc tiền Thiên Phúc.
 *   **986:** Sau khi vua Chiêm Indravarman IV mất, **Lưu Kế Tông** tự lập làm vua Chiêm Thành và cử sứ giả sang cầu phong nhà Tống. Người Chiêm Thành nổi dậy chống đối và bỏ chạy sang Hải Nam, Quảng Châu.
@@ -203,6 +204,7 @@
 *   **Thế kỷ XI (Triều Lý):** Nhà nước áp dụng chế độ "Ngụ binh ư nông" nhằm kết hợp phát triển nông nghiệp với quốc phòng, duy trì quân đội thường trực luân phiên về sản xuất. Triều đình cũng định lệ khảo hạch quan lại định kỳ 9 năm một lần để quyết định thăng giáng.
 *   **1005:** Lê Đại Hành mất. Lê Long Đĩnh giết vua Lê Trung Tông (Lê Long Việt) để cướp ngôi.
 *   **06/1006 (Bính Ngọ):** Vua Tống từ chối lời thỉnh cầu của Lăng Sách về việc đem quân đánh Đại Cồ Việt nhân lúc nội bộ triều Lê rối ren.
+*   **1008:** Vua Lê Long Đĩnh đổi niên hiệu Cảnh Thụy, phong vương cho các hoàng tử và đẩy mạnh mở các khu chợ trao đổi hàng hóa tại biên giới Đại Cồ Việt - Tống.
 
 ### **Thời kỳ Đại Việt - Triều Lý (1009 - 1225)**
 
@@ -219,6 +221,7 @@
 *   **15/05/1025:** Thiền sư Vạn Hạnh, cố vấn quan trọng của vua Lý Thái Tổ, viên tịch.
 *   **1028:** Lý Thái Tổ mất, Lý Phật Mã lên ngôi (Lý Thái Tông). Xảy ra "Loạn Tam vương" nhưng bị dẹp yên.
 *   **1028:** Vua Lý Thái Tổ ban "thác đao điền" (ruộng ném dao) cho tướng Lê Phụng Hiểu ở Đa Mi (Thanh Hóa) làm ruộng thế nghiệp để thưởng công.
+*   **1028:** Sau khi dẹp yên Loạn Tam Vương, vua Lý Thái Tông cho lập đền thờ thần Đồng Cổ và khai sáng lệ "Hội thề Đồng Cổ" (ngày 25 tháng 3 âm lịch hàng năm) để bá quan văn võ đồng tâm tuyên thề trung hiếu: "Làm con bất hiếu, làm tôi bất trung, thần minh tru diệt".
 *   **1029:** Vua Lý Thái Tông dẹp loạn ở giáp Đãn Nãi (Thanh Hóa) và cho đào kênh Đãn Nãi.
 *   **04/1034:** Hai thiền sư Nghiêm Bảo Tính và Phạm Minh Tâm tự thiêu tại triều. Vua Lý Thái Tông đổi niên hiệu thành Thông Thụy.
 *   **1035:** Vua Lý Thái Tông cho mở chợ Tây Nhai với hành lang dài, phản ánh sự phát triển của thương nghiệp và trao đổi hàng hóa trong nước.
@@ -264,6 +267,7 @@
 *   **1077:** Trong các trận chiến ác liệt tại Kháo Túc, Phú Lương, nhiều tướng lĩnh và hoàng thân đã anh dũng hy sinh, bao gồm Trung Thành vương Lý Hoằng Chân, Tín Nghĩa vương Lý Chiêu Văn, Phò mã Hoàng Kiện, tướng Nguyễn Căn, cùng các phu nhân trực tiếp cầm quân.
 *   **18/01 - 28/02/1077:** Trận sông Như Nguyệt. Quân Tống (10 vạn quân chiến đấu, 20 vạn phu) do Quách Quỳ, Triệu Tiết chỉ huy bị chặn đứng bởi phòng tuyến của Đại Việt (6-10 vạn quân) do Lý Thường Kiệt chỉ huy. Sau hai đợt tiến công vượt sông thất bại, quân Đại Việt phản công. Hoằng Chân và Chiêu Văn tập kích doanh trại Quách Quỳ và hy sinh; Lý Thường Kiệt tập kích tiêu diệt doanh trại Triệu Tiết. Quân Tống thiệt hại 76.600 lính và 8 vạn phu, buộc phải giảng hòa và rút quân.
 *   **09/1077:** Đắp đê sông Như Nguyệt dài 67.380 bộ, một công trình trị thủy quy mô lớn của nhà nước.
+*   **1080:** Vua Lý Nhân Tông cho đúc quả chuông lớn nặng cả vạn cân cho chùa Diên Hựu (Một Cột). Chuông đúc xong đánh không kêu, triều đình đem đặt ở ngoài ruộng có nhiều rùa, về sau được gọi là "Chuông Quy Điền" (một trong An Nam Tứ Đại Khí).
 *   **1084:** Lê Văn Thịnh sang nhà Tống bàn việc cương giới, đòi lại được 6 huyện và 3 động.
 *   **1086:** Vua Lý Nhân Tông mở khoa thi tuyển chọn người có tài văn học vào làm việc tại Viện Hàn lâm. Mạc Hiển Tích đỗ đầu khoa thi và được bổ nhiệm chức Hàn lâm học sĩ, mở đầu truyền thống khoa bảng vẻ vang của dòng họ Mạc.
 *   **1088:** Vua Lý Nhân Tông phân loại chùa thành 3 hạng (lớn, vừa, nhỏ) và cắt cử các đại thần văn quan trông nom do chùa có nhiều nô bộc và tài sản rộng lớn.
@@ -306,6 +310,7 @@
 *   **1181:** Nạn đói lớn xảy ra, khiến dân chúng chết gần một nửa.
 *   **1182:** Vua Lý Cao Tông đổi niên hiệu sang Bảo Phù. Triều đình cậy nhờ Thái phó Ngô Lý Tín cầm quân dẹp yên các cuộc nổi loạn vùng biên viễn, củng cố kỷ cương và an định xã tắc trong giai đoạn ấu chúa trị vì.
 *   **1192:** Cho đào sông Tô Lịch để thuận tiện cho giao thông và thủy lợi quanh kinh thành.
+*   **1195:** Vua Lý Cao Tông mở kỳ thi Tam giáo (Nho - Phật - Đạo) đầu tiên trong lịch sử khoa bảng Việt Nam nhằm tuyển chọn nhân tài tinh thông giáo lý cả ba đạo phục vụ triều đình.
 *   **1198:** Vua Lý Cao Tông nghe lời Đàm Dĩ Mông, ra lệnh sa thải các tăng đồ không giữ giới luật, bắt hoàn tục để làm phu dịch, chấn chỉnh lại Phật giáo và xã hội.
 *   **Thế kỷ XIII:** Nhà thám hiểm người Ý Marco Polo ghé thăm và mô tả về Côn Đảo trong hồi ký của mình. Vào cùng thế kỷ, Hồi giáo cũng được du nhập vào chủ yếu thông qua cộng đồng người Chăm Pa.
 *   **Thế kỷ XIII (Triều Trần):** Triều đình đặt chức Hà đê sứ và Đồn điền sứ ở các lộ để chuyên trách quản lý đê điều, thủy lợi và mở mang khẩn hoang. Thời hạn khảo khóa đánh giá quan lại được quy định là 15 năm một lần.
@@ -397,11 +402,13 @@
 *   **1294:** Nhà Nguyên (đời vua Thành Tông - Temur Khan) chính thức xuống chiếu bãi binh, chấm dứt chiến tranh với Đại Việt.
 *   **1294:** Thượng tướng quân Trần Quang Khải, nhà quân sự và nhà thơ lớn của dân tộc, qua đời.
 *   **1299:** Vua Trần Nhân Tông xuống chiếu yêu cầu học trò trong cả nước phải tập trung học tập để chuẩn bị cho các khoa thi.
+*   **1299:** Thượng hoàng Trần Nhân Tông xuất gia tu hành tại núi Yên Tử (Quảng Ninh), lấy đạo hiệu Hương Vân Đại Đầu Đà (Trúc Lâm Đại Sĩ), chính thức sáng lập dòng Thiền phái Trúc Lâm Yên Tử mang đậm bản sắc văn hóa Phật giáo Đại Việt.
 *   **03/10/1300 (15 tháng 8 năm Kỷ Hợi):** Hưng Đạo Đại vương Trần Quốc Tuấn qua đời tại nhà riêng ở Vạn Kiếp. Trước khi mất, khi vua Trần Anh Tông đích thân đến thăm và hỏi về kế sách giữ nước, ông đã dặn: "Phải khoan thư sức dân để làm kế sâu rễ bền gốc", coi đó là thượng sách giữ nước không còn gì hơn.
 *   **Khoảng thế kỷ XIV:** Truyền thuyết Lạc Long Quân và Âu Cơ, Phù Đổng Thiên Vương (Thánh Gióng), và Sơn Tinh - Thủy Tinh được ghi chép lần đầu tiên trong bộ sách sử **Lĩnh Nam chích quái**.
 *   **Cuối thế kỷ XIV - Nửa đầu thế kỷ XIX:** Xã hội Việt Nam chứng kiến những phong trào đấu tranh rộng lớn. Điểm đặc thù là không có những cuộc khởi nghĩa thuần túy của nông dân chống lại địa chủ, mà phổ biến là sự tập hợp lực lượng của nông dân cùng các tầng lớp bất bình (nho sĩ, địa chủ, quan lại) chống lại bọn cường hào, quan lại gian ác và tập đoàn thống trị thoái hóa.
 *   **1304:** Mạc Đĩnh Chi đỗ Trạng nguyên. Ông nổi tiếng với tài năng và sự ứng đối khiến vua quan nhà Nguyên nể phục, được phong là "Lưỡng quốc Trạng nguyên".
 *   **1304:** Khoa thi Thái học sinh lớn nhất kể từ đầu thời Trần được tổ chức dưới triều vua Trần Anh Tông. Nhà vua đặt thêm danh hiệu "Hoàng giáp" để chỉ những người đỗ hàng Đệ nhị giáp.
+*   **1305:** Triều đình nhà Trần cho xây dựng Tháp Phổ Minh cao 14 tầng tại khuôn viên Chùa Phổ Minh (Nam Định) để lưu giữ xá lỵ của Phật hoàng Trần Nhân Tông, một kiệt tác kiến trúc và điêu khắc thời Trần.
 *   **1306:** Vua Champa là Chế Mân dâng hai châu Ô và Lý để làm sính lễ cưới công chúa Huyền Trân.
 *   **1307:** Nhà Trần đổi tên hai châu Ô, Lý thành châu Thuận và châu Hóa, sáp nhập vào lãnh thổ Đại Việt.
 *   **1309:** Cho đào sông Thiên Đức (sông Đuống) để thuận tiện cho việc giao thông.
@@ -643,6 +650,7 @@
 
 *   **1428:** Lê Thái Tổ chia cả nước làm 5 đạo: Nam đạo, Bắc đạo, Đông đạo, Tây đạo và Hải Tây đạo. Triều đình đặt thêm chức Hành khiển ở các đạo để chia giữ sổ sách quân và dân.
 *   **1428:** Vua Lê Thái Tổ hạ chiếu cho các địa phương trong cả nước dựng nhà học để dạy dỗ nhân tài, tái thiết cơ sở hạ tầng giáo dục sau cuộc chiến tranh giải phóng.
+*   **1428:** Vua Lê Thái Tổ xuống chiếu định chế độ tiền tệ và cho đúc đồng tiền "Thuận Thiên thông bảo" bằng đồng, thiết lập hệ thống lưu thông tiền tệ độc lập đầu tiên của triều Hậu Lê.
 *   **01/1428 (16/12 năm Đinh Mùi):** Các tướng Minh là Vương Thông, Mã Anh... chính thức xin hàng và xin rút quân về nước.
 *   **03/01/1428:** Những tên lính Minh cuối cùng rút khỏi bờ cõi. Đất nước hoàn toàn giải phóng.
 *   **02/1428:** Vua bù nhìn Trần Cảo do Lê Lợi lập lên đã tự sát sau khi mưu trốn sang Ngọc Ma thất bại.
@@ -657,6 +665,7 @@
 *   **11/1433 (23/10 năm Quý Sửu):** Táng vua Lê Thái Tổ tại Vĩnh Lăng, Lam Sơn. Nguyễn Trãi phụng sắc soạn văn bia Vĩnh Lăng.
 *   **1434:** Lê Thái Tông lên ngôi. Bắt đầu quy định về khoa thi Tiến sĩ.
 *   **1437:** Vua Lê Thái Tông giao cho Lương Đăng định ra quy chế lễ nhạc, mũ áo triều đình.
+*   **1437:** Vua Lê Thái Tông ban hành 14 điều Quân lệnh nghiêm ngặt nhằm chấn chỉnh kỷ luật quân ngũ, quy định thao diễn chiến thuật và xử phạt nghiêm khắc các hành vi ức hiếp, nhũng nhiễu bách tính.
 *   **1442:** Triều Lê tổ chức khoa thi Tiến sĩ đầu tiên, lấy đỗ 33 người, trong đó có Trạng nguyên Nguyễn Trực. Bắt đầu cho dựng bia Tiến sĩ ở Văn Miếu.
 *   **1442:** Xảy ra Vụ án Lệ Chi Viên oan khốc khiến Nguyễn Trãi bị tru di tam tộc.
 *   **1442:** Triều Lê lần đầu tiên chuẩn hóa chức danh của các quan chịu trách nhiệm trong kỳ thi Hội (như Đề điệu, Giám thí) và chính thức chia người thi đỗ làm hai bảng: Chính bảng và Phụ bảng. Lần đầu tiên, các vị tân khoa được triều đình ban áo mũ, dự yến tiệc, và cấp ngựa cùng lính hầu để vinh quy bái tổ.
@@ -678,13 +687,14 @@
 *   **1471:** Vua Lê Thánh Tông ban hành "Hiệu định quan chế", một cuộc cải tổ thiết chế chính trị nhằm phân định và ràng buộc lẫn nhau giữa các hệ thống hành chính, quân sự, tài chính, tư pháp và giám sát. Hệ thống Tam ty (Đô ty, Thừa ty, Hiến ty) được thiết lập tại 13 đạo Thừa tuyên, trong đó có vùng đất mới Thuận Hóa và Quảng Nam.
 *   **06/1471:** Lê Thánh Tông thân chinh đánh Champa, hạ thành Đồ Bàn, bắt vua Trà Toàn. Đặt thêm đạo Thừa tuyên thứ 13 là Quảng Nam.
 *   **1479:** Bộ sách *Đại Việt sử ký toàn thư* lần đầu được hoàn thành bởi Ngô Sĩ Liên.
-*   **1479:** Trong cuộc chiến với Lan Xang (1478 - 1480), quân đội Đại Việt tiến sâu vào đất Lào, chiếm kinh đô Luang Prabang, đẩy lùi quân Lan Xang.
+*   **1479:** Vua Lê Thánh Tông phát động đại chiến dịch quân sự đánh dẹp Ai Lao (Lan Xang) và Bồn Man quấy nhiễu biên cương phía Tây; quân Đại Việt tiến sâu vào đất Lào, chiếm đóng kinh đô Luang Prabang, tiến đến lưu vực sông Mê Kông và sáp nhập xứ Bồn Man thành phủ Trấn Ninh thuộc thừa tuyên Nghệ An.
 *   **1481:** Vua Lê Thánh Tông ấn định địa điểm cử hành lễ cày Tịch điền tại xã Hồng Mai, huyện Thanh Đàm, ngoại thành kinh đô.
 *   **1483:** Triều đình ban hành bộ luật *Quốc triều hình luật* (thường gọi là Luật Hồng Đức).
 *   **1484 (15 tháng 8 âm lịch):** Dưới sự chỉ đạo của vua Lê Thánh Tông, triều đình chính thức làm lễ dựng 10 tấm bia Tiến sĩ đầu tiên tại Văn Miếu Thăng Long, ghi danh các nhà khoa bảng từ khoa thi năm 1442 trở đi nhằm tôn vinh và khuyến khích sự học.
 *   **03/1484:** Vua Lê Thánh Tông ban lệnh nghiêm cấm phá thai, coi đó là hành vi thương tổn tính mệnh và hại luân thường, quy định hình phạt cho cả người chồng nếu không biết răn cấm.
 *   **05/1488:** Cung nhân Nguyễn Thị Cận (vốn xuất thân là nô tỳ) sinh hạ hoàng tử Lê Tuấn (sau là vua Lê Uy Mục).
 *   **1490:** Định lại bản đồ 13 xứ trong cả nước.
+*   **1495:** Vua Lê Thánh Tông thành lập Hội Tao đàn (Tao đàn Nhị thập bát tú), tự xưng Tao đàn Đô nguyên súy và quy tụ 28 văn thần - học giả xuất chúng, mở ra thời kỳ đỉnh cao của văn học cung đình và thi ca chữ Hán, chữ Nôm Đại Việt.
 *   **02/1496:** Vua Lê Thánh Tông làm thơ cầu đảo tại miếu Hoàng Hựu sau nhiều ngày không mưa; đêm đó trời đổ mưa lớn.
 *   **1497:** Vua Lê Thánh Tông mất. Lê Hiến Tông lên ngôi.
 *   **1497:** Lễ tang vua Lê Thánh Tông quy định các quan trong 100 ngày mặc đồ trắng, ngoài 100 ngày mặc đồ đen đến chầu, thể hiện sự ảnh hưởng sâu sắc của triết lý Ngũ hành về màu sắc trong phong tục tang ma.
@@ -745,6 +755,7 @@
 *   **Đầu 1593:** Con cháu nhà Mạc (Mạc Kính Chỉ) tiếp tục nổi dậy ở Hải Dương nhưng nhanh chóng bị dẹp tan. Dư đảng nhà Mạc rút lên Cao Bằng, tiếp tục cát cứ. Cuộc chiến tranh Nam - Bắc triều về cơ bản kết thúc.
 *   **16/04/1593:** Vua Lê trở về Thăng Long. Triều Lê được khôi phục.
 *   **1595:** Sau khi giành lại kinh đô, các khoa thi Hội của triều Lê Trung hưng được tiếp tục tổ chức tại Thăng Long và kỳ thi Đình được khôi phục như thường lệ.
+*   **1597:** Hoàng giáp Phùng Khắc Khoan (Trạng Bùng) dẫn đầu sứ bộ sang nhà Minh bang giao, đối đáp thơ phú xuất sắc với sứ thần các nước và tìm cách mang các giống ngô (bắp), vừng (mè) cùng nghề dệt tơ lụa về phổ biến trong nước.
 *   **04/1597:** Vua Lê Thế Tông đích thân đến ải Nam Quan để hội kiến với quan lại nhà Minh, đấu tranh ngoại giao khẳng định vị thế chính thống của nhà Lê.
 *   **04/1599:** Vua Lê tấn phong Trịnh Tùng làm Đô Nguyên súy, Thượng phụ Bình An vương, chính thức hình thành thể chế Vua Lê - Chúa Trịnh ở Đàng Ngoài.
 *   **1600:** Nguyễn Hoàng từ Bắc Hà trở về Thuận Quảng, bắt đầu thực hiện chính sách cai trị mới, từng bước tách khỏi sự ràng buộc của họ Trịnh.
@@ -784,6 +795,7 @@
 *   **10/1634:** Đào Duy Từ qua đời, thọ 63 tuổi. Ông được coi là đệ nhất khai quốc công thần của họ Nguyễn và được thờ ở Thái miếu.
 *   **1635:** Chúa Nguyễn Phúc Nguyên mất, con thứ hai là Nguyễn Phúc Lan lên nối ngôi (Thượng Vương).
 *   **1636:** Alexandre de Rhodes soạn thảo bản thảo cuốn "Tunchinensis Historiae libri duo", bao gồm nhiều từ ngữ tiếng Việt được phiên âm, phản ánh sự thành thạo ngày càng tăng của ông về chữ Quốc ngữ.
+*   **1637 - 1639:** Thám hoa Giang Văn Minh dẫn đầu sứ bộ Đại Việt sang triều Minh; trước triều đình Bắc Kinh, ông khẳng khái đối đáp ("Đằng Giang tự cổ huyết do hồng") để bảo vệ thể diện và khí phách dân tộc trước lời khiêu khích của hoàng đế nhà Minh.
 *   **Năm 1640:** Quân Nguyễn do Nguyễn Hữu Dật thống suất chiếm được châu Bắc Bố Chính. Chúa Trịnh Tráng viết thư đòi lại, chúa Nguyễn chấp thuận để tạm thời làm dịu tình hình biên giới.
 *   **1642:** Tiềm lực quân sự Đàng Trong gia tăng mạnh, sở hữu khoảng 200 khẩu đại bác và tăng lên 1.200 khẩu vào năm 1650 nhờ giao thương với phương Tây.
 *   **1643:** Cuộc chiến lần thứ ba, quân Trịnh vây đánh lũy Trung Hòa nhưng không hạ được, phải rút quân.
@@ -813,6 +825,7 @@
 *   **1667:** João da Cruz, một người Bồ Đào Nha phục vụ chúa Nguyễn, đã đúc thành công các loại súng thần công theo kỹ thuật phương Tây, gia tăng đáng kể tiềm lực quân sự cho Đàng Trong.
 *   **06/1672:** Cuộc chiến lần thứ bảy và cũng là lần ác liệt nhất. Quân Trịnh hùng hậu do Trịnh Căn và Lê Thì Hiến chỉ huy dốc toàn lực tấn công lũy Nhật Lệ. Tuy nhiên, quân Nguyễn do Nguyễn Hữu Hiệp, Nguyễn Hữu Dật và Nguyễn Mỹ Đức cố sức chống đỡ thành công, quân Trịnh không thắng nổi phải rút về Bắc Bố Chính.
 *   **Cuối 1672:** Hai bên đình chiến, lấy sông Gianh làm giới tuyến, chính thức chia cắt đất nước thành Đàng Trong và Đàng Ngoài trong hơn một thế kỷ.
+*   **1675:** Tham tụng Phạm Công Trứ cùng các sử quan hoàn thành biên soạn bộ *Đại Việt Sử Ký Bản Kỷ Tục Biên* gồm 23 quyển, nối tiếp bộ quốc sử của Ngô Sĩ Liên và ghi chép tường tận lịch sử từ năm 1593 đến năm 1662.
 *   **Mùa Xuân 1676:** Bộ sách *Lam Sơn thực lục* được sửa chữa và khắc in lại theo lệnh của triều đình (niên hiệu Vĩnh Trị).
 *   **02 - 08/1677:** Chiến dịch Cao Bằng. Quân Lê - Trịnh do Đinh Văn Tả và Nguyễn Hữu Đăng chỉ huy mở cuộc tấn công lớn nhằm tiêu diệt lực lượng tàn dư nhà Mạc do Mạc Kính Vũ cầm đầu. Quân Trịnh lần lượt hạ thành Mục Mã, Nà Lữ và Phục Hòa. Mạc Kính Vũ trốn sang Trung Quốc, chấm dứt hoàn toàn sự cát cứ của nhà Mạc, thống nhất lãnh thổ Cao Bằng vào Đại Việt.
 *   **1679:** Hai nhóm cựu thần nhà Minh trung thành là Dương Ngạn Địch và Trần Thượng Xuyên đem hơn 3.000 người đến xin tị nạn, được chúa Nguyễn cho vào khai khẩn vùng Mỹ Tho và Biên Hòa.
@@ -823,6 +836,7 @@
 *   **1691:** Chúa Nguyễn Phúc Trăn mất, con là Nguyễn Phúc Chu lên nối ngôi (Minh Vương).
 *   **1693:** Chúa Nguyễn đánh bại vua Chiêm Thành là Bà Tranh, đổi phần đất còn lại của Chiêm Thành thành trấn Thuận Thành (nay là Bình Thuận).
 *   **1697:** Chính thức đặt phủ Bình Thuận. Vương quốc Champa chấm dứt sự tồn tại với tư cách một quốc gia độc lập.
+*   **1697:** Nhóm sử quan do Lê Hy và Nguyễn Quý Đức đứng đầu hoàn thành việc biên soạn phần Tục biên và cho khắc ván in trọn bộ *Đại Việt Sử Ký Toàn Thư* gồm 24 quyển (Nội các quan bản năm Chính Hòa thứ 18), bộ quốc sử mộc bản hoàn chỉnh nhất lưu truyền cho hậu thế.
 *   **1698:** Chúa Nguyễn cử Thống suất Nguyễn Hữu Cảnh vào kinh lược xứ Đồng Nai, lập phủ Gia Định (gồm dinh Trấn Biên và dinh Phiên Trấn). Đây là mốc quan trọng xác lập chủ quyền của Đại Việt ở Nam Bộ.
 *   **1698:** Vụ đắm tàu *Amphitrite* của Pháp xảy ra tại quần đảo Hoàng Sa trong chuyến hải hành từ Pháp sang Trung Quốc dưới thời vua Louis XIV.
 *   **1702:** Công ty Đông Ấn Anh đến đặt thương điếm ở Côn Đảo nhưng nhanh chóng rút đi vì thất bại.

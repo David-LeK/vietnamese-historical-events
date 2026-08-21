@@ -173,6 +173,7 @@
 *   **968:** Dinh Bo Linh defeated the remaining warlords (Ly Khue, La Duong), unified the country, ascended to the throne as Emperor (Dinh Tien Hoang), and established the capital at Hoa Lu (Ninh Binh).
 *   **970:** Dinh Tien Hoang established the era name Thai Binh.
 *   **970:** Dinh Tien Hoang established five queens (Dan Gia, Trinh Minh, Kieu Quoc, Co Quoc, and Cao Ong), setting a precedent for the royal harem system.
+*   **970:** King Đinh Tiên Hoàng established the era name Thái Bình and minted "Thái Bình hưng bảo" bronze coins, the first metallic currency in independent Vietnamese history, affirming national economic and monetary sovereignty.
 *   **971:** Dinh Tien Hoang began to regulate the ranks for civil, military, and monastic officials. Ngo Chan Luu was appointed as the first Sangha Overseer (Tang thong) with the title Grand Master Khuong Viet.
 *   **974:** Dinh Tien Hoang divided the country into 10 circuits (dao).
 *   **Spring 978:** Dinh Tien Hoang established his younger son Hang Lang as Crown Prince, bypassing his eldest son Dinh Lien.
@@ -186,7 +187,7 @@
 *   **Feb. 7, 981:** Battle of Luc Giang (Binh Lo). Dai Co Viet forces commanded by Le Dai Hanh heavily defeated Song forces on the Luc Dau river, forcing them to retreat to Bach Dang.
 *   **Apr. 11, 981:** Song naval and land reinforcements arrived at Bach Dang.
 *   **Apr. 28, 981:** Second Battle of Bach Dang. Le Dai Hanh commanded the decisive battle. Feigning defeat to lure the enemy into an ambush, Dai Co Viet forces crushed the Song army, killing Commander Hou Renbao. Song forces retreated and were pursued and heavily defeated at Tay Ket.
-*   **982:** Le Dai Hanh personally led a campaign against Champa, capturing the capital Dong Duong and killing King Pe Mi Shuei (Paramesvaravarman I).
+*   **982:** King Lê Đại Hành personally commanded a military expedition against Champa following the detention of Đại Cồ Việt emissaries, killing King Paramesvaravarman I (Bê Mị Thuế) in battle, subduing the capital Indrapura (Đồng Dương), and rescuing the envoys.
 *   **983:** King Le Dai Hanh ordered the digging of the Ba Hoa Canal (Thanh Hoa) and Da Cai Canal (Nghe An) to facilitate military and water transport. He withdrew the main army to Hoa Lu, leaving a garrison in northern Champa (from Hoanh Son to Varella cape) under the command of *Quan giap* **Luu Ke Tong**.
 *   **Feb. 984:** The Early Le court minted Thien Phuc coins.
 *   **986:** Following the death of King Indravarman IV, **Luu Ke Tong** proclaimed himself King of Champa and sent envoys to the Song court to seek investiture. Many Champa people rebelled against his rule and fled to Hainan and Guangzhou.
@@ -203,6 +204,7 @@
 *   **11th century (Ly Dynasty):** The state implemented the "Ngu binh u nong" (lodging the military in agriculture) policy, maintaining a standing army that took turns returning to their villages for agricultural production. The dynasty also mandated regular performance evaluations (khao hach) for civil and military mandarins every 9 years to determine promotions or demotions.
 *   **1005:** Le Dai Hanh passed away. After internal strife, Le Long Dinh killed his brother Le Long Viet to seize the throne.
 *   **Jun. 1006:** The Song Emperor refused a petition by local official Ling Ce (Lang Sach) to invade Vietnam during the turmoil of Le Long Dinh's reign, preferring to maintain peace.
+*   **1008:** King Lê Long Đĩnh changed the era name to Cảnh Thụy, enfeoffed imperial princes, and expanded border trade markets between Đại Cồ Việt and the Song Dynasty.
 
 ### **Dai Viet Period - Ly Dynasty (1009 - 1225)**
 
@@ -219,6 +221,7 @@
 *   **May 15, 1025:** Zen Master Van Hanh, a key advisor to King Ly Thai To, passed away.
 *   **1028:** Ly Thai To passed away, Ly Phat Ma ascended the throne (Ly Thai Tong). The "Rebellion of the Three Princes" occurred but was suppressed.
 *   **1028:** Emperor Ly Thai To granted "thac dao dien" (throwing-dagger land) to general Le Phung Hieu in Da Mi (Thanh Hoa) as a hereditary estate to reward his merit.
+*   **1028:** Following the suppression of the Three Princes' Rebellion, King Lý Thái Tông established the Đồng Cổ Temple and inaugurated the annual "Đồng Cổ Oath Festival" (25th day of the 3rd lunar month) for all civil and military officials to swear loyalty and filial piety.
 *   **1029:** King Ly Thai Tong suppressed a rebellion in the Dan Nai region (Thanh Hoa) and ordered the digging of the Dan Nai canal.
 *   **Apr. 1034:** Zen Masters Nghiem Bao Tinh and Pham Minh Tam self-immolated at the court. King Ly Thai Tong changed the era name to Thong Thuy.
 *   **1035:** Emperor Ly Thai Tong established Tay Nhai Market with long corridors, reflecting the growth of commerce and domestic trade.
@@ -264,6 +267,7 @@
 *   **1077:** During the fierce defense against the Song army commanded by Guo Kui, many prominent generals sacrificed their lives, including Princes Ly Hoang Chan and Ly Chieu Van, and Generals Nguyen Can, Hoang Kien, along with their wives who served as commanders on the battlefield.
 *   **Jan. 18 - Feb. 28, 1077:** Battle of Nhu Nguyet River. The Song army (100,000 combat troops, 200,000 support) commanded by Guo Kui and Zhao Xie was halted at the Nhu Nguyet river defense line by Dai Viet forces. After Song attempts to cross failed, Dai Viet launched counter-attacks. Princes Hoang Chan and Chieu Van attacked Guo Kui's camp and died in battle, while Ly Thuong Kiet successfully ambushed Zhao Xie's camp. Song forces suffered 76,600 casualties and retreated, marking a decisive Dai Viet victory.
 *   **Sep. 1077:** Construction of the Nhu Nguyet River dike spanning 67,380 paces, a major state-led water management project.
+*   **1080:** King Lý Nhân Tông commissioned a massive great bell weighing tens of thousands of catties for Diên Hựu Pagoda (One Pillar Pagoda); later placed in a field inhabited by turtles and named the "Quy Điền Bell" (one of the Four Great Treasures of An Nam).
 *   **1084:** Le Van Thinh negotiated with the Song dynasty to define the border, reclaiming 6 districts and 3 grottoes.
 *   **1086:** King Ly Nhan Tong organized an imperial examination to select scholars with outstanding literary talent for the Hanlin Academy. Mac Hien Tich achieved the highest score and was appointed Hanlin Academician, marking the beginning of the prestigious Mac family's scholarly tradition.
 *   **1088:** Emperor Ly Nhan Tong classified Buddhist pagodas into three ranks (large, medium, small) and assigned senior civil officials to oversee them due to their vast slave populations and extensive properties.
@@ -306,6 +310,7 @@
 *   **1181:** A great famine occurred, causing nearly half the population to die.
 *   **1182:** King Ly Cao Tong changed the era name to Bao Phu. The imperial court entrusted Grand Preceptor Ngo Ly Tin with commanding troops to suppress frontier rebellions, consolidating discipline and stabilizing the realm during the young monarch's reign.
 *   **1192:** Excavation of the To Lich River to facilitate transportation and irrigation around the capital.
+*   **1195:** King Lý Cao Tông held the first Three Teachings Examination (Confucianism, Buddhism, and Taoism) in Vietnamese civil service history to select scholars proficient in all three doctrines for imperial administration.
 *   **1198:** King Ly Cao Tong, following the advice of Dam Di Mong, ordered the dismissal of monks who did not strictly follow precepts, forcing them to return to secular life to perform corvee labor, reorganizing Buddhism and society.
 *   **13th century:** Italian explorer Marco Polo visited and described Con Dao Island in his memoirs. In the same century, Islam was also introduced, primarily through the Cham community.
 *   **13th century (Tran Dynasty):** The state established the specialized positions of *Ha de su* (Dike Commissioner) and *Don dien su* (State Farm Commissioner) across routes (lo) to manage irrigation, dike construction, and agricultural expansion. The period for evaluating mandarins was set to 15 years.
@@ -397,11 +402,13 @@
 *   **1294:** The Yuan dynasty officially issued an edict to end the war with Dai Viet after Emperor Temur Khan ascended the throne.
 *   **1294:** General Tran Quang Khai, a key figure in the resistance against the Mongols and a renowned poet, passed away.
 *   **1299:** Emperor Tran Nhan Tong issued an edict requiring students nationwide to focus on their studies in preparation for upcoming civil service examinations.
+*   **1299:** Retired Emperor Trần Nhân Tông entered the monastic order at Mount Yên Tử, taking the dharma title Trúc Lâm Đại Sĩ and founding the Trúc Lâm Yên Tử Zen Buddhist sect, representing a distinctively indigenous Vietnamese Buddhist tradition.
 *   **Oct. 3, 1300 (15th of the 8th lunar month, Ky Hoi):** Hung Dao Vuong Tran Quoc Tuan passed away at his private residence in Van Kiep. Prior to his death, when King Tran Anh Tong personally visited him to ask for national defense strategies, he advised: "Ease the strength of the people to make a deep root and durable base," considering it the best strategy for national defense.
 *   **Around the 14th century:** The legends of Lac Long Quan and Au Co, Phu Dong Thien Vuong (Saint Giong), and Son Tinh - Thuy Tinh were first recorded in the historical book **Lĩnh Nam chích quái**.
 *   **Late 14th century - First half of the 19th century:** Vietnam witnessed broad social struggle movements. Unlike pure peasant uprisings against feudal landlords, these movements typically gathered diverse forces—including poor peasants, dissatisfied scholars, some landlords, and local officials—uniting against corrupt local despots and degenerated ruling cliques.
 *   **1304:** Mac Dinh Chi, known for his diplomatic wit which impressed the Yuan court (earning him the title "Two-Nation First Laureate"), passed the imperial examination as Trang Nguyen.
 *   **1304:** The largest "Thai hoc sinh" (National University student) examination since the beginning of the Tran dynasty was held during the reign of Emperor Tran Anh Tong. The Emperor created the additional title "Hoang giap" to designate candidates who passed in the second tier (De nhi giap).
+*   **1305:** The Trần royal court erected the 14-story Phổ Minh Pagoda Tower in Nam Định to enshrine the sacred relics of King-Monk Trần Nhân Tông, an architectural and sculptural masterpiece of the Trần Dynasty.
 *   **1306:** The Champa king Che Man (Jaya Simhavarman III) offered the two prefectures of O and Ly as a wedding gift to marry Princess Huyen Tran.
 *   **1307:** The Tran dynasty renamed the two prefectures of O and Ly to Thuan and Hoa, incorporating them into Dai Viet's territory.
 *   **1309:** Digging of the Thien Duc River (Duong River) to facilitate transport.
@@ -643,6 +650,7 @@
 
 *   **1428:** Le Thai To divided the country into 5 circuits (dao): South, North, East, West, and Hai Tay. He established the position of Administrator (*Hành khiển*) in each circuit to manage military and civil records.
 *   **1428:** Emperor Le Thai To issued an edict ordering the construction of schools across the country to educate talented individuals, rebuilding the educational infrastructure after the war of liberation.
+*   **1428:** King Lê Thái Tổ decreed monetary regulations and minted "Thuận Thiên thông bảo" bronze coins, establishing the first independent monetary circulation system of the Later Lê Dynasty.
 *   **Jan. 1428 (Dec. 16, Lunar Year of the Goat):** Ming generals Wang Tong, Ma Ying, and others formally surrendered and requested to withdraw their troops to China.
 *   **Jan. 3, 1428:** The last Ming soldiers withdrew from the country. The nation was completely liberated.
 *   **Feb. 1428:** Tran Cao, the figurehead king installed by Le Loi to appease the Ming, died after attempting to flee to Ngoc Ma.
@@ -657,6 +665,7 @@
 *   **Dec. 1433 (Oct. 23, Lunar Year of the Buffalo):** Le Thai To was buried at Vinh Lang, Lam Son. Nguyen Trai composed the inscription for the Vinh Lang Stele.
 *   **1434:** Le Thai Tong ascended the throne. Regulations for the doctoral examination were established.
 *   **1437:** King Le Thai Tong commissioned Luong Dang to reform court rituals and music, establishing standards for ceremonial dress and instruments.
+*   **1437:** King Lê Thái Tông promulgated 14 strict Military Orders to regulate military discipline, tactical maneuvers, and severely punish the harassment or mistreatment of civilians.
 *   **1442:** The Le court held the first doctoral examination, passing 33 people, including Trang Nguyen (First Laureate) Nguyen Truc. The practice of erecting doctoral stelae at the Temple of Literature began.
 *   **1442:** The tragic Le Chi Vien case occurred, leading to the execution of three generations of Nguyen Trai's family.
 *   **1442:** The Le court standardized the titles of officials responsible for the metropolitan examinations (such as De dieu and Giam thi) and formally divided successful candidates into two lists: the primary list (Chinh bang) and the supplementary list. For the first time, new laureates were granted scholarly attire, attended royal banquets, and were provided with horses and escorts to return to their hometowns in honor (vinh quy bai to).
@@ -678,13 +687,14 @@
 *   **1471:** Emperor Le Thanh Tong issued the "Hieu dinh quan che" (Revision of the Mandarin System), a major political reform establishing principles of separation and mutual restraint among military, administrative, financial, judicial, and censorship bodies. The "Tam Ty" (Three Offices: Do Ty for military, Thua Ty for civil administration, Hien Ty for censorship/judicial) system was established at the 13 Thua Tuyen (provinces), including the newly annexed areas of Thuan Hoa and Quang Nam.
 *   **Jun. 1471:** Le Thanh Tong personally led a campaign against Champa, capturing Do Ban Citadel and King Tra Toan. The 13th Thua Tuyen province, Quang Nam, was added.
 *   **1479:** The historical chronicle *Dai Viet sử ký toàn thư* (Complete History of Dai Viet) was first completed by Ngo Si Lien.
-*   **1479:** During the war with Lan Xang (1478 - 1480), Dai Viet forces advanced deep into Lao territory, capturing the capital Luang Prabang.
+*   **1479:** King Lê Thánh Tông launched a major military campaign against Ai Lao (Lan Xang) and Bồn Man along the western frontier; Đại Việt forces advanced deep into Lao territory, capturing the capital Luang Prabang, reached the Mekong River basin, and incorporated Bồn Man as Trấn Ninh Prefecture under Nghệ An.
 *   **1481:** Emperor Le Thanh Tong designated Hong Mai village, Thanh Dam district, outside the capital, as the location for the Tich Dien ploughing ceremony.
 *   **1483:** The court promulgated the *Quoc trieu hinh luat* (National Dynasty's Penal Code), commonly known as the Hong Duc Code.
 *   **1484 (15th of the 8th lunar month):** Under the order of Emperor Le Thanh Tong, the court officially held a ceremony to erect the first ten doctoral steles at the Temple of Literature in Thang Long, recording the names of laureates from the 1442 examination onwards to honor and encourage scholarly pursuit.
 *   **Mar. 1484:** King Le Thanh Tong issued strict edicts prohibiting abortion, classifying it as a crime damaging to ethics and life, with severe penalties for husbands who failed to prevent it.
 *   **May 1488:** Imperial Concubine Nguyen Thi Can (Chieu Nhan), formerly a palace slave, gave birth to Prince Le Tuan (later Emperor Le Uy Muc).
 *   **1490:** The map of the 13 provinces of the country was redefined.
+*   **1495:** King Lê Thánh Tông founded the Tao Đàn Literary Society (Tao Đàn of Twenty-Eight Constellations), serving as Supreme Commander alongside 28 eminent scholar-officials, inaugurating the golden age of Đại Việt royal literature and poetry.
 *   **Feb. 1496:** King Le Thanh Tong composed a poem praying for rain at the Hoang Huu temple; it rained heavily shortly after.
 *   **1497:** King Le Thanh Tong passed away. Le Hien Tong ascended the throne.
 *   **1497:** King Le Thanh Tong's funeral regulations stipulated that officials must wear white for 100 days, and black thereafter when attending court, reflecting the deep adoption of the Five Elements (Ngu hanh) color symbolism in Vietnamese mourning customs.
@@ -745,6 +755,7 @@
 *   **Early 1593:** Descendants of the Mac (Mac Kinh Chi) continued to rise up in Hai Duong but were quickly suppressed. The remnants of the Mac dynasty retreated to Cao Bang and continued to hold out. The North-South Dynasties War essentially ended.
 *   **Apr. 16, 1593:** The Le king returned to Thang Long. The Le dynasty was restored.
 *   **1595:** Following the recapture of the capital, the metropolitan examinations (thi Hoi) of the Restored Le dynasty resumed in Thang Long, and the palace examinations (thi Dinh) were reinstated as customary.
+*   **1597:** Envoy Phùng Khắc Khoan led a diplomatic mission to the Ming Dynasty, engaging in acclaimed poetic exchanges with foreign envoys and introducing maize (corn), sesame, and advanced silk weaving techniques back to Đại Việt.
 *   **Apr. 1597:** King Le The Tong personally traveled to the Nam Quan border gate to meet with Ming dynasty officials for diplomatic negotiations, asserting the legitimacy of the Le dynasty.
 *   **Apr. 1599:** The Le king conferred upon Trinh Tung the title of Do Nguyen Suy, Thuong phu Binh An Vuong (Supreme Commander-in-Chief, Grand Preceptor, and Prince of Pacification), officially forming the Le King - Trinh Lord institution in Dang Ngoai (the North).
 *   **1600:** Nguyen Hoang returned to Thuan Quang from the North and began implementing new administrative policies, gradually breaking away from the control of the Trinh lords.
@@ -784,6 +795,7 @@
 *   **Oct. 1634:** Dao Duy Tu passed away at the age of 63. He was honored as the foremost meritorious official in the founding of the Nguyen Lords' dominion.
 *   **1635:** Lord Nguyen Phuc Nguyen passed away. His second son, Nguyen Phuc Lan, succeeded him.
 *   **1636:** Alexandre de Rhodes drafted "Tunchinensis Historiae libri duo", which included numerous romanized Vietnamese words, reflecting his evolving linguistic proficiency.
+*   **1637 - 1639:** Envoy Giang Văn Minh led a diplomatic mission to Beijing; before the Ming imperial court, he valiantly delivered a sharp poetic rebuttal ("The Bạch Đằng River has run red with blood since ancient times") to defend national dignity and sovereignty.
 *   **1640:** The Nguyen army, under the command of Nguyen Huu Dat, successfully captured the Northern Bo Chinh prefecture. Lord Trinh Trang demanded its return, and the Nguyen lord agreed to ease border tensions temporarily.
 *   **1642:** The military strength of Dang Trong increased significantly, possessing about 200 cannons, which rose to 1,200 by 1650 thanks to trade with the West.
 *   **1643:** In the third campaign, the Trinh army besieged the Trung Hoa wall but could not capture it and had to withdraw.
@@ -813,6 +825,7 @@
 *   **1667:** Joao da Cruz, a Portuguese metalcaster serving the Nguyen Lord, cast European-style bronze cannons, significantly bolstering the military strength of Dang Trong.
 *   **Jun. 1672:** The seventh and final Trinh-Nguyen campaign. The Trinh army, commanded by Trinh Can and Le Thi Hien, launched a massive attack on the Nhat Le wall. Nguyen forces, led by Nguyen Huu Hiep, Nguyen Huu Dat, and Nguyen My Duc, successfully defended the fortifications. The Trinh army failed to breach the wall and had to retreat to Bac Bo Chinh.
 *   **Late 1672:** The two sides agreed to a truce, taking the Gianh River as the demarcation line, officially dividing the country into Dang Trong and Dang Ngoai for over a century.
+*   **1675:** Grand Chancellor Phạm Công Trứ and imperial historiographers completed compiling the 23-volume *Đại Việt Sử Ký Bản Kỷ Tục Biên*, continuing Ngô Sĩ Liên's official history and chronicling events from 1593 to 1662.
 *   **Spring 1676:** The historical work *Lam Son thuc luc* was revised and reprinted under the order of the Le court (Vinh Tri era).
 *   **Feb. - Aug. 1677:** The Cao Bang Campaign. The Le-Trinh army, commanded by Dinh Van Ta and Nguyen Huu Dang, launched a major offensive against the Mac dynasty remnants led by Mac Kinh Vu. The Trinh army captured the Muc Ma, Na Lu, and Phuc Hoa citadels. Mac Kinh Vu fled to China, completely ending the Mac dynasty and reunifying Cao Bang into Dai Viet.
 *   **1679:** Two groups of loyalist former Ming officials, Yang Yandi and Chen Shangchuan, brought over 3,000 people to seek asylum and were allowed by the Nguyen lord to reclaim land in the My Tho and Bien Hoa regions.
@@ -823,6 +836,7 @@
 *   **1691:** Lord Nguyen Phuc Tran passed away. His son, Nguyen Phuc Chu (Lord Minh), succeeded him.
 *   **1693:** The Nguyen lord defeated the Champa king Ba Tranh, turning the remaining part of Champa into Thuan Thanh Prefecture (now Binh Thuan).
 *   **1697:** Binh Thuan Prefecture was officially established. The kingdom of Champa ceased to exist as an independent state.
+*   **1697:** Historiographers led by Lê Hy and Nguyễn Quý Đức completed the continuation and published the complete 24-volume woodblock edition of *Đại Việt Sử Ký Toàn Thư* (the 1697 Chính Hòa imperial edition), preserving the authoritative chronicle of Vietnamese history.
 *   **1698:** The Nguyen lord sent Commander Nguyen Huu Canh to administer the Dong Nai region, establishing Gia Dinh Prefecture (comprising Tran Bien and Phien Tran garrisons). This was an important milestone in establishing Dai Viet's sovereignty in the South.
 *   **1698:** The French ship *Amphitrite* was wrecked in the Paracel Islands during a voyage from France to China under the reign of King Louis XIV.
 *   **1702:** The British East India Company established a trading post on Con Dao Island but quickly withdrew due to failure.
