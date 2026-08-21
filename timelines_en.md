@@ -1220,6 +1220,7 @@
 *   **Late 1875:** The Hue court established the **Coastal Defense Office** (Nha Hai Phong) at Thuan An estuary and the **Patrol and Transport Office** (Nha Tuan Tai) to strengthen coastal defense and manage water transport.
 *   **July 8, 1876 (Tu Duc 29):** Bui Vien submitted a comprehensive report to the Hue court proposing the establishment of a modernized naval force ("Tuan duong quan"). The force was designed to eradicate piracy, protect maritime trade, and secure the transport of state funds by integrating former pirates and fishermen into a professional navy.
 *   **Oct. 1876:** The **My Duc Circuit** (Dao My Duc) was established to reinforce defense and land reclamation in the Hanoi and Son Tay region.
+*   **Oct. 1, 1876:** Huynh Thuc Khang (birth name Huynh Van Thuoc, courtesy name Gioi Sanh, art name Minh Vien) was born in Thanh Binh village, Tien Phuoc district, Quang Nam province. He was a prominent patriotic scholar, cultural figure, journalist, former President of the People's Representative Assembly of Annam, Minister of the Interior, and Acting President of the Democratic Republic of Vietnam.
 *   **April 1878 (Tu Duc 31):** The newly established Tuan duong quan, commanded by Bui Vien, engaged in a fierce naval battle against Chinese pirates (Tau O) in the waters of Ha Tinh. Using fire tactics, the Vietnamese navy forced the pirates to flee, capturing a ship, weapons, and 18 pirates.
 *   **Apr. 6, 1878:** Decree 82, signed by the Governor of Cochinchina Lafont, set a four-year deadline to fully transition to chữ Quốc ngữ.
 *   **May 1878 (Tu Duc 31):** Bui Vien's Tuan duong quan fought a second major battle against Chinese pirates off the coast of Thanh Hoa while defending a merchant ship. The Vietnamese navy pursued the pirates all the way to Hainan Island (China), forcing them to abandon a ship filled with weapons and supplies.
@@ -1305,6 +1306,7 @@
 *   **Dec. 1898 - Jun. 1899:** The French Ministry of Colonies forwarded a proposal from a journalist named Chabrier to establish supply stores for fishermen on the Paracel Islands. In response, in June 1899, Governor-General Paul Doumer deemed the commercial project unlikely to succeed but proposed building a lighthouse to assert French sovereignty and prevent other powers from occupying the islands. The lighthouse project was initially delayed due to budget constraints.
 *   **Dec. 30, 1898:** The French President issued a decree on the press regime in Indochina, tightening control and restricting the freedom of speech of the native people.
 *   **1899:** The Haiphong Portland Cement Plant was established; construction of Hoa Lo Prison began in Hanoi.
+*   **1900:** Huynh Thuc Khang achieved Giai nguyen (valedictorian/first rank) in the regional imperial examination (Thi Huong) in Thua Thien, gaining renown throughout Quang Nam for his literary brilliance and virtue.
 *   **1900:** Phan Boi Chau passed the regional examination in Nghe An with the highest honors, beginning his career as a professional revolutionary.
 *   **Apr. 11, 1900:** The province of Tuyen Quang was re-established.
 *   **1901:** Nguyen Sinh Sac passed the metropolitan imperial examination as a Pho bang (Junior Doctor) in the Tan Suu year under King Thanh Thai. The royal court bestowed honors upon him, and the villagers of Sen built a wooden house to celebrate his triumphant return.
@@ -1317,6 +1319,7 @@
 *   **Dec. 20, 1902:** The Governor-General of Indochina issued a decree officially implementing a monopoly on alcohol throughout Vietnam.
 *   **1903:** Phan Boi Chau met Nguyen Thanh (Tieu La) in Quang Nam to discuss revolutionary strategies, agreeing to unite former Can Vuong members, support Prince Cuong De, and seek foreign aid.
 *   **1904:** The first "reform of village administration" was piloted by the French in Cochinchina to tighten control over the village administrative apparatus.
+*   **1904:** Huynh Thuc Khang obtained the Third-class Doctorate degree (Dong Tien si xuat than) in the imperial court examinations under Emperor Thanh Thai, subsequently joining Phan Chau Trinh and Tran Quy Cap to initiate the modernization and reform movement.
 *   **1904:** Phan Boi Chau founded the Duy Tan Hoi (Modernization Society) with the aim of driving out the French invaders, restoring Vietnam, and establishing an independent government.
 *   **Late 1904:** Phan Chau Trinh, Tran Qui Cap, and Huynh Thuc Khang undertook a "Southern Trip" (Nam du). In Binh Dinh, they wrote *Chi thanh thong thanh* and *Luong ngoc danh son* to criticize the obsolete examination system.
 *   **1905:** The Dong Du (Go East) Movement, initiated by Phan Boi Chau, began, sending patriotic youth to Japan to study. Phan Boi Chau wrote the work *Viet Nam vong quoc su* (History of the Loss of Vietnam).
@@ -1335,6 +1338,7 @@
 *   **Nov. 10, 1907:** The University of Indochina opened its first academic year.
 *   **1908:** The poem *Thiet tien ca* (Iron Money Song) by Nguyen Phan Lang was circulated, calling for a boycott of French iron coins, causing significant economic disruption for the colonial administration.
 *   **1908:** The colonial administration brutally suppressed the Duy Tan movement. Dr. **Tran Qui Cap** was executed in Khanh Hoa; **Le Khiet** and **Nguyen Ba Loan** were executed in Quang Ngai. **Phan Chau Trinh** was arrested, sentenced to death, but later commuted to exile in Con Dao.
+*   **1908:** Due to his leadership in the Duy Tan (Modernization) Movement and the anti-tax resistance across Central Vietnam, Huynh Thuc Khang was arrested by French colonial authorities and exiled to hard labor at Con Dao Prison for 13 years.
 *   **Jan. 1908:** The French colonial administration revoked the license of Dong Kinh Nghia Thuc due to fears of its growing influence.
 *   **11/03/1908:** The anti-corvée and tax resistance movement ("Xin Xau") erupted when thousands of peasants from Dai Loc district (Quang Nam) marched to the French Residency in Hoi An demanding reductions in taxes and forced labor, sparking a massive wave of anti-tax demonstrations across Central Vietnam (Quang Nam, Quang Ngai, Binh Dinh, Thua Thien, Phu Yen...).
 *   **Apr. 1908:** During the anti-tax protest movement in Central Vietnam, patriotic youth Nguyen Tat Thanh joined peasant demonstrations in Hue and acted as an interpreter presenting the people's petitions to reduce taxes before the French Superior Residency.
@@ -1411,6 +1415,7 @@
 *   **Sep. 28, 1920:** A decree reorganized the High Council of the Colonies in France.
 *   **Nov. 1920:** Emperor Khai Dinh conferred honorary titles on businessman Bach Thai Buoi and mechanic Nguyen Van Phuc for successfully building the ship *Binh Chuan*, promoting Vietnamese industrial capability.
 *   **Dec. 25-30, 1920:** Nguyễn Ái Quốc attended the 18th Congress of the French Socialist Party in Tours, voted to join the Third International, and co-founded the French Communist Party, marking his transition from patriotism to Marxism-Leninism.
+*   **1921:** After enduring 13 years of arduous penal servitude at Con Dao Prison with unyielding integrity, Huynh Thuc Khang was released by French colonial authorities.
 *   **1921:** In Paris, Nguyen Ai Quoc along with revolutionary activists from French colonies (Algeria, Madagascar, Senegal, Guadeloupe, Martinique) founded the **Intercolonial Union** (Union Intercoloniale), establishing the first united solidarity front connecting liberation movements of oppressed peoples worldwide.
 *   **Mar. 30, 1921:** The Southern Military Government in Guangdong (not recognized by the central Chinese government or foreign powers) announced the administrative annexation of the Paracel Islands into Ya District (Hainan). France did not officially protest to avoid stimulating Chinese nationalism.
 *   **Apr. 12, 1921:** Albert Sarraut, then Minister of Colonies, presented the "Bill on Colonial Exploitation" to the French National Assembly.
@@ -1454,6 +1459,7 @@
 *   **Aug. 1925:** A strike by over 1,000 workers at the Ba Son shipyard (Saigon), led by Ton Duc Thang, delayed the repair of the French battleship Jules Michelet.
 *   **Nov. 23, 1925:** The French colonialists put Phan Boi Chau on trial in Hanoi, sparking a large mass movement demanding his release.
 *   **Dec. 24, 1925:** Governor-General Varenne signed an order "pardoning" and placing Phan Boi Chau under house arrest in Hue.
+*   **1926:** Huynh Thuc Khang was elected as a representative and subsequently chosen as President of the People's Representative Assembly of Annam (Chambre des Représentants du Peuple de l'Annam), utilizing the platform to vigorously defend citizens' rights and demand fundamental democratic freedoms.
 *   **Mar. 21, 1926:** The Jeune Annam (Youth Party) was established.
 *   **Mar. 24, 1926:** Phan Chau Trinh passed away in Saigon.
 *   **Mar. 24, 1926:** Patriotic journalist and activist Nguyen An Ninh was arrested by French colonial authorities in Saigon, triggering a wave of student strikes, rallies, and demonstrations across Southern Vietnam demanding his release.
@@ -1470,6 +1476,7 @@
 *   **Jul. 1927:** The French oceanographic ship *De Lanessan* officially visited the Spratly Islands.
 *   **Jul. 14, 1927:** The Vietnamese Revolutionary Comrades' Association (precursor to Tan Viet) was founded.
 *   **Jul. 19, 1927:** The General Inspectorate of Labor of Indochina was established.
+*   **Aug. 10, 1927:** Huynh Thuc Khang founded the newspaper *Tieng Dan* (Voice of the People) in Hue and published its inaugural issue. As the first independent national script (Quoc ngu) newspaper in Central Vietnam, it served as a progressive forum exposing social injustices and fostering patriotism over 16 years.
 *   **Oct. 30, 1927:** A decree reorganized the administrative apparatus at the village level in Cochinchina.
 *   **Dec. 12, 1927:** Phung Chi Kien participated in the Guangzhou Uprising led by the Chinese Communist Party, serving as a Company Commander in the Chinese Workers' and Peasants' Red Army.
 *   **Dec. 25, 1927:** Nguyen Thai Hoc and his associates founded the Viet Nam Quoc Dan Dang (VNQDD) in Hanoi, and he was elected Chairman of the Central Executive Committee.
@@ -1477,6 +1484,7 @@
 *   **Jan. 25, 1928:** The Hue court issued an edict banning the propagation of Protestantism and Cao Daiism in Annam.
 *   **Jul. 1928 - Nov. 1929:** Nguyen Ai Quoc conducted revolutionary activities in Siam (Thailand) under the alias **Thau Chin** (in Phichit, Udon Thani, Nakhon Phanom, Bangkok). He consolidated the "Friendship Association", established schools teaching Vietnamese and Thai, published the newspaper *Than Ai*, translated theoretical texts, and organized the overseas patriotic community.
 *   **Jul. 14, 1928:** The Central Executive Committee of the Vietnamese Revolutionary Comrades' Association decided to change its name to the Tan Viet Cach mang Dang (New Vietnamese Revolutionary Party).
+*   **Oct. 1928:** Following fierce debates with the French Superior Resident over the rejection of popular petitions for tax cuts and democratic reforms, Huynh Thuc Khang resigned from his post as President of the People's Representative Assembly of Annam.
 *   **Nov. 1928:** A new US phosphate company requested permission from the Governor of Cochinchina to research mines on the Spratly Islands.
 *   **Nov. 4, 1928:** A decree established the Grand Council of Economic and Financial Interests of Indochina.
 *   **Feb. 9, 1929:** The labor recruiter Bazin was assassinated in Hanoi by a member of the Vietnamese Nationalist Party, leading to a wave of white terror.
@@ -1613,6 +1621,7 @@
 *   **Early 1943:** The Dai Viet Restoration Association was established.
 *   **Early 1943:** Under the direction of the Son La Prison Party Cell, the "Thai Youth National Salvation" (Đoàn thanh niên Thái cứu quốc) organization was established to gather patriotic youth. Lò Văn Giá joined this organization, becoming an outstanding mass element supporting the revolution from outside the prison.
 *   **Feb. 15, 1943:** Hero Kim Dong (Nong Van Den), leader of the Children's Alliance for National Salvation, courageously falls at age 14 while distracting French forces to protect revolutionary cadres in Pac Bo (Cao Bang).
+*   **Apr. 24, 1943:** The newspaper *Tieng Dan*, founded by Huynh Thuc Khang, published its final issue (Issue No. 1766) before being permanently banned by the French colonial administration after nearly 16 years of persistent advocacy for the people's rights.
 *   **Aug. 1943:** The Son La Prison Party Cell organized a historic prison break for key political prisoners to prepare for the General Uprising. Lò Văn Giá, fluent in the Hmong language and familiar with the Northwest terrain, was chosen to guide four communist fighters: Tran Dang Ninh, Nguyen Luong Bang, Nguyen Van Tran, and Luu Duc Hieu. After a 5-day arduous journey, he successfully guided them to safety in the Suoi Rut area (Hoa Binh). Upon returning to Son La, Lo Van Gia was arrested by the French colonialists. Unable to extract any confessions and powerless against his absolute loyalty, they secretly assassinated him.
 *   **Oct. 27, 1943:** Doctor Tran Van Lai was arrested by the French colonial administration and imprisoned in Hoa Lo, then Son La prison, for his patriotic activities.
 *   **Dec. 1, 1943:** The Cairo Declaration was issued by the US, UK, and China, affirming the intention to force Japan to return territories stolen from the Republic of China (Manchuria, Taiwan, Penghu). Notably, the Paracel and Spratly Islands were not mentioned in this declaration for return to China.
@@ -1697,7 +1706,7 @@
 
 ### **Period of Détente and Preparation for Nationwide Resistance (Mar. 1946 - Dec. 1946)**
 
-*   **Mar. 2, 1946:** The 1st National Assembly held its first session, electing the Coalition Resistance Government with Ho Chi Minh as President.
+*   **Mar. 2, 1946:** The 1st National Assembly held its first session, electing the Coalition Resistance Government with Ho Chi Minh as President; distinguished patriotic scholar Huynh Thuc Khang was appointed Minister of the Interior.
 *   **Mar. 6, 1946:** President Ho Chi Minh and Vu Hong Khanh, on behalf of the Vietnamese Government, signed the Preliminary Agreement with J. Sainteny, representative of the French Government.
 *   **Mar. 9, 1946:** The Party Central Standing Committee issued the directive "Peace to Advance."
 *   **Mar. 24, 1946:** President Ho Chi Minh and French High Commissioner D'Argenlieu held talks in Ha Long Bay.
@@ -1711,8 +1720,8 @@
 *   **May 11, 1946:** The Da Lat Preparatory Conference concluded without reaching agreement on fundamental issues.
 *   **May 19, 1946:** The birthday of President Ho Chi Minh was celebrated publicly for the first time, becoming a demonstration of national unity.
 *   **May 20 - 27, 1946:** French High Commissioner Thierry d'Argenlieu dispatched the escort ship *L'Escarmouche* to survey the Paracel Islands. Finding the islands uninhabited, a half-platoon of French troops landed on Pattle Island (Hoang Sa) to mark the restoration of French rights. They would later be relieved by troops from the *Savorgnan de Brazza*.
-*   **May 29, 1946:** The Vietnamese National Popular League (Lien Viet) was established.
-*   **May 31, 1946:** President Ho Chi Minh led the government delegation of the Democratic Republic of Vietnam departing from Gia Lam Airport (Hanoi) on an official state visit to France as a guest of honor of the French Republic.
+*   **May 29, 1946:** The Vietnamese National Popular League (Lien Viet) was established, with Huynh Thuc Khang serving as President to unite broad patriotic strata across the nation.
+*   **May 31, 1946:** President Ho Chi Minh departed for an official state visit to France, entrusting Huynh Thuc Khang as Acting State President and Acting Head of Government with the famous maxim "Adapt to all changes with an unchanging purpose" (Di bat bien, ung van bien) to steer the fledgling republic through perilous times until Oct. 21, 1946.
 *   **Jun. 1, 1946:** In Saigon, High Commissioner D'Argenlieu announced the establishment of the "Autonomous Republic of Cochinchina."
 *   **Jun. 30, 1946:** Dinh Thi Van was admitted to the Indochinese Communist Party. She subsequently held various leadership roles, including President of the Women's Union of Nam Dinh province from 1951 to 1953.
 *   **Jul. 1946:** Đặng Thị Kim was appointed to the Executive Committee of the Nha Trang Women's National Salvation Association. On October 30, 1946, she co-led a major protest demanding the French government implement the March 6 Preliminary Accord and September 14 Modus Vivendi.
@@ -1767,6 +1776,7 @@
 *   **Apr. 15, 1947:** French paratroopers landed in Hoa Binh.
 *   **Apr. 15, 1947:** At the age of 14, Nguyen Van Luom, serving as a guerrilla member and messenger, heroically sacrificed his life while fighting the French in Thua Thien. He was shot while carrying an urgent dispatch across a rice field. His bravery and innocence inspired his uncle, the famous poet To Huu, to immortalize him in the poem "Luom".
 *   **Apr. 16, 1947:** Hoa Hao founder Huynh Phu So disappeared (believed to be killed) in the Plain of Reeds, leading to armed conflict between Hoa Hao forces and the Viet Minh.
+*   **Apr. 21, 1947:** Huynh Thuc Khang, Minister of the Interior and Government Special Envoy to South Central Vietnam, passed away in Nghia Hanh district (Quang Ngai) at the age of 71. President Ho Chi Minh sent a heartfelt eulogy honoring his supreme integrity, and he was accorded a State Funeral with his resting place atop Thien An Mountain.
 *   **Aug. 1947 - Aug. 1948:** Professor Ta Quang Buu served as Minister of National Defense of the Democratic Republic of Vietnam.
 *   **Sep. 23, 1947:** President Ho Chi Minh signed Decree No. 89/SL posthumously conferring the rank of General on martyr Phung Chi Kien, making him the first general of the Vietnam People's Army.
 *   **Oct. 7, 1947:** France launched a large-scale attack on the Viet Bac resistance base (Operation Léa), dropping 800 paratroopers on Bac Kan town.
@@ -3142,6 +3152,7 @@
 * **2013:** Hero of the People's Armed Forces Hoàng Cầm (Tổng Thanh Tra quân đội (1987-1992), Nguyên Tư lệnh Quân đoàn 4 (1974-1984), Phó tham mưu trưởng Quân giải phóng miền Nam (1970-1974), Sư đoàn trưởng Sư đoàn 9 (1955-1970)) passed away.
 *   **Jan. 22, 2013:** The Philippines officially filed a case against China at the Permanent Court of Arbitration (PCA) in The Hague, challenging the legality of the "nine-dash line" and China's activities in the South China Sea under UNCLOS.
 *   **Feb. 2013:** Ba Na Hills Cable Car (Da Nang) was recognized by the Guinness World Records organization for 4 world records.
+*   **Feb. 19, 2013:** President Truong Tan Sang signed a decision to posthumously award the Gold Star Order to Huynh Thuc Khang (former Acting State President and Minister of the Interior) in recognition of his exceptionally distinguished contributions to the national revolutionary cause.
 *   **Apr. 30, 2013:** The Guinness World Records organization officially recognized Son Doong Cave as the largest cave in the world.
 *   **May 2013:** Kostas Sarantidis (Nguyễn Văn Lập) was awarded the title Hero of the People's Armed Forces, becoming the first and only foreigner to receive this noble honor from the Vietnamese State.
 * **23/05/2013:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Văn Lập (Kostas Sarantidis) (Nguyên Chiến sĩ quốc tế, Trung đoàn 803, Trung đoàn 108, Liên khu 5; chiến sĩ người nước ngoài duy nhất được phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân).
