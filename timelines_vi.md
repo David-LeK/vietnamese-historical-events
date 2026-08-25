@@ -1237,6 +1237,7 @@
 *   **03/04/1882:** Đại tá Henri Rivière đổ bộ lên Hà Nội, bắt đầu cuộc xâm lược Bắc Kỳ lần thứ hai.
 *   **25/04/1882:** Trận thành Hà Nội lần thứ hai. Đại tá hải quân Pháp Henri Rivière gửi tối hậu thư đòi Tổng đốc Hoàng Diệu giao thành, sau đó nổ súng tấn công. Dù quân dân kháng cự quyết liệt, thành Hà Nội nhanh chóng thất thủ. Tổng đốc Hoàng Diệu đã thắt cổ tự vẫn để bảo toàn khí tiết. Thất bại này đánh dấu bước leo thang nghiêm trọng trong tham vọng xâm lược Bắc Kỳ của thực dân Pháp.
 *   **1883:** Ông Nguyễn Sinh Sắc kết duyên cùng bà Hoàng Thị Loan tại làng Hoàng Trù (Nam Đàn, Nghệ An). Cuộc hôn nhân đánh dấu sự gắn kết nghĩa tình của hai gia đình nhà nho nghèo hiếu học, mở ra tổ ấm gia đình nơi sinh thành người con vĩ đại của dân tộc - Chủ tịch Hồ Chí Minh.
+*   **1883 - 1892:** Cuộc khởi nghĩa Bãi Sậy (Hưng Yên) bùng nổ do Đinh Gia Quế và Nguyễn Thiện Thuật (Tán Thuật) lãnh đạo, là một trong những cuộc khởi nghĩa tiêu biểu nhất ở đồng bằng Bắc Kỳ thời kỳ Cần Vương.
 *   **27 - 28/02/1883:** Trận Gia Quất - Gia Lâm. Nhân lúc Henri Rivière dẫn quân đi vắng, lực lượng quân triều đình và quân Cờ Đen đã vượt sông Hồng bao vây thành Hà Nội. Thiếu tá Pháp Berthe de Villers chỉ huy quân đồn trú phản công, đẩy lui vòng vây của quân Việt.
 *   **27/03/1883:** Trận Nam Định. Henri Rivière chỉ huy hạm đội pháo thuyền và quân thủy bộ tấn công thành Nam Định. Dù có 6.200 quân triều đình và 600 quân Cờ Đen phòng thủ, thành Nam Định vẫn rơi vào tay quân Pháp sau các đợt pháo kích dữ dội, giúp Pháp kiểm soát tuyến giao thông ra biển.
 *   **19/05/1883:** Trận Cầu Giấy lần thứ hai. Khi quân Pháp tổ chức hành quân từ Hà Nội ra hướng Phủ Hoài, quân Cờ Đen và quân của Hoàng Tá Viêm đã mai phục sẵn tại Cầu Giấy. Quân Pháp bị đánh thiệt hại nặng, Đại tá Henri Rivière và Thiếu tá Berthe de Villers đều tử trận. Thất bại này khiến chính phủ Pháp tức giận, quyết định đổ thêm viện binh. Vua Tự Đức hạ lệnh thương lượng, không cho quân đánh tiếp, ra chiếu dụ: "Bàn hòa là người có công, bàn chiến là kẻ có tội".
@@ -1253,6 +1254,7 @@
 *   **01/1884:** Vua Kiến Phúc ra lệnh cho chế tạo thử súng kiểu phương Tây và dệt thử các loại vải theo kỹ thuật phương Tây.
 *   **02/1884:** Vua Kiến Phúc xuống dụ buộc tất cả những người có khoa bảng (Tiến sĩ, Cử nhân...) phải ra làm quan để phục vụ đất nước, ai trốn tránh sẽ bị tước bằng sắc.
 *   **06 - 12/03/1884:** Trận Bắc Ninh. Trung tướng Charles-Théodore Millot chỉ huy 16.300 quân Pháp mở chiến dịch lớn đánh chiếm thành Bắc Ninh, nơi tập trung hơn 2 vạn quân Thanh. Quân Pháp sử dụng chiến thuật vu hồi qua sông Đuống và nã pháo dữ dội, khiến quân Thanh hoảng loạn tháo chạy. Pháp chiếm được Bắc Ninh, củng cố sự kiểm soát đồng bằng Bắc Bộ.
+*   **16/03/1884:** Cuộc khởi nghĩa Yên Thế (Bắc Giang) bùng nổ dưới sự lãnh đạo của Lương Văn Nắm (Đề Nắm) và Hoàng Hoa Thám (Đề Thám), mở đầu phong trào kháng chiến vũ trang nông dân kiên cường kéo dài gần 30 năm chống thực dân Pháp.
 *   **11 - 12/04/1884:** Trận Hưng Hóa. Quân Pháp dưới hỏa lực pháo binh áp đảo và sự hỗ trợ chỉ điểm từ khinh khí cầu đã tấn công và chiếm thành Hưng Hóa. Tuần phủ Nguyễn Quang Bích kiên quyết không đầu hàng, rút quân lên vùng rừng núi Tiên Động để tiếp tục kháng chiến.
 *   **11/05/1884:** Pháp và nhà Thanh ký Quy ước Thiên Tân, nhà Thanh đồng ý rút quân khỏi Bắc Kỳ.
 *   **31/05/1884:** Quân Pháp do Trung tá Duchesne chỉ huy dùng pháo hạm ngược sông Lô tấn công và hạ thành Tuyên Quang, buộc quân Cờ Đen phải bỏ thành tháo chạy.
@@ -1361,6 +1363,7 @@
 *   **Cuối năm 1912:** Nguyễn Tất Thành đến Hợp chúng quốc Hoa Kỳ, sinh sống và làm việc tại New York và Boston. Người làm thợ làm bánh tại Khách sạn Omni Parker House (Boston), tìm hiểu bản Tuyên ngôn Độc lập năm 1776 của Mỹ và theo dõi phong trào đấu tranh đòi quyền bình đẳng của người da màu tại khu Harlem (New York).
 *   **1913:** Tuyến đường sắt Bắc - Nam về cơ bản được hoàn thành, nối liền Hà Nội và Sài Gòn.
 *   **1913 - 1917:** Nguyễn Tất Thành sang Vương quốc Anh sinh sống và làm việc tại London dưới tên gọi **Paul Thành**. Người trải qua nhiều nghề lao động vất vả như cào tuyết tại một trường học, thợ đốt lò, rồi phụ bếp tại Khách sạn sang trọng Carlton dưới sự chỉ dẫn của bếp trưởng huyền thoại Auguste Escoffier; đồng thời tự học tiếng Anh và gia nhập Hội những người lao động hải ngoại (Overseas Workers Association).
+*   **10/02/1913:** Thủ lĩnh phong trào khởi nghĩa Yên Thế Hoàng Hoa Thám (Đề Thám) bị tay sai của thực dân Pháp sát hại, đánh dấu sự kết thúc của cuộc khởi nghĩa vũ trang nông dân bền bỉ nhất chống ách đô hộ của Pháp (1884 - 1913).
 *   **19/04/1913:** Thành viên của Việt Nam Quang Phục Hội (Phạm Văn Tráng) ám sát Tuần phủ Thái Bình Nguyễn Duy Hàn.
 *   **26/04/1913:** Một vụ ném bom khác xảy ra tại Khách sạn Hà Nội, giết chết 2 sĩ quan Pháp.
 *   **24/12/1913:** Phan Bội Châu bị bắt tại Quảng Đông, Trung Quốc.
@@ -1370,7 +1373,7 @@
 *   **1914:** Nhà hoạt động cách mạng, liệt sĩ tiền khởi nghĩa Vũ Quý sinh ra tại thôn Cống Mỹ, xã Nam Sơn, huyện An Dương, Hải Phòng. Ông là cán bộ cốt cán của Việt Minh, Quyền Bí thư Ban cán sự Đảng Hà Nội, người có công lớn trong việc giác ngộ, vận động các trí thức, văn nghệ sĩ tham gia Hội Văn hóa Cứu quốc và trực tiếp giao nhiệm vụ cho nhạc sĩ Văn Cao sáng tác bài "Tiến quân ca".
 *   **01/01/1914:** Đại tướng Nguyễn Chí Thanh (tên khai sinh là Nguyễn Vịnh) sinh ra tại làng Niêm Phò, huyện Quảng Điền, tỉnh Thừa Thiên Huế. Ông là nhà lãnh đạo chính trị, quân sự lỗi lạc của Đảng và Quân đội nhân dân Việt Nam, người học trò xuất sắc của Chủ tịch Hồ Chí Minh, từng giữ chức Chủ nhiệm Tổng cục Chính trị và Bí thư Trung ương Cục miền Nam.
 *   **03/08/1914:** Pháp tham chiến trong Chiến tranh Thế giới thứ nhất, bắt đầu tăng cường vơ vét sức người sức của ở Đông Dương.
-*   **10/11/1914:** Bùng nổ cuộc khởi nghĩa của đồng bào các dân tộc thiểu số vùng Tây Bắc và Thượng Lào, kéo dài đến tháng 3/1916.
+*   **10/11/1914:** Bùng nổ cuộc khởi nghĩa Sầm Nưa do Chậu Mương Khăm Bàng lãnh đạo phối hợp cùng đồng bào các dân tộc thiểu số vùng Tây Bắc và Thượng Lào chống thực dân Pháp, kéo dài đến giai đoạn 1916 - 1917.
 *   **1915 - 1916:** Thực dân Pháp bắt đầu chế độ "lính tình nguyện" (bắt lính) quy mô lớn ở Đông Dương để phục vụ cho Chiến tranh thế giới thứ nhất.
 *   **1915:** Kỳ thi Hương cuối cùng được tổ chức ở Bắc Kỳ, đánh dấu sự kết thúc của nền khoa cử Nho học tại đây.
 *   **13/03/1915:** Nghĩa quân của Hội Việt Nam Quang Phục tấn công đồn Tà Lùng (Lạng Sơn) nhưng thất bại.
