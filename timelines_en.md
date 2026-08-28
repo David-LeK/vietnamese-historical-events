@@ -2145,6 +2145,7 @@
 *   **1961:** The US launched **Operation Ranch Hand**, spraying herbicides (including Agent Orange) over South Vietnam to destroy foliage and crops, causing severe long-term environmental and health consequences.
 *   **1961:** Huynh Tan Phat became the President of the National Liberation Front Committee for the Saigon - Gia Dinh zone.
 *   **1961:** Hero of the People's Armed Forces Thach Thi Thanh (a Khmer woman from Cau Ke, Tra Vinh) alongside Buddhist monks led the prominent "Buddha Evacuation" political struggle across Southwestern Vietnam, protesting the Ngo Dinh Diem regime's strategic hamlet program, temple occupation, and forced conscription.
+*   **1961:** Nguyen Van Thuong joined the military intelligence force (Strategic Intelligence Unit H.63 / A18), serving as a secret intelligence courier transporting critical classified intelligence from Saigon to the revolutionary base for prominent intelligence strategists like Pham Xuan An, Dang Tran Duc (Ba Quoc), and Vu Ngoc Nha.
 *   **Jan. 1961:** US President John F. Kennedy took office and proposed the "Flexible Response" strategy, which included the "Special War" to be applied in South Vietnam.
 *   **Jan. 1961:** The 3rd Conference of the Party Central Committee decided to establish the Central Office for South Vietnam (COSVN) to replace the Nam Bo Party Committee and directly lead the southern revolution.
 *   **Jan. 24, 1961:** The Politburo issued a directive on the direction and tasks of the Southern revolution, shifting from mainly political struggle to combining political struggle with armed struggle.
@@ -2486,6 +2487,7 @@
 * **1969:** Hero of the People's Armed Forces Nguyễn Thị Nê (Nữ du kích Củ Chi, huyện đội phó huyện đội Nam Củ Chi, người được thay mặt Đại hội Anh hùng chiến sĩ thi đua toàn Miền Nam lần thứ 2 (1967) viết thư gửi Bác Hồ để báo cáo tình hình hoạt động cách mạng của lực lượng du kích Củ Chi) passed away.
 *   **Jan. 20, 1969:** Richard Nixon was inaugurated as US President and implemented the "Vietnamization of the war" strategy and the "Nixon Doctrine."
 *   **Jan. 25, 1969:** The first plenary session of the four-party conference on Vietnam opened in Paris.
+*   **Feb. 10, 1969:** While transporting classified documents from the base to the outskirts of Saigon, intelligence courier Nguyen Van Thuong (Hai Thuong) was ambushed and surrounded by enemy forces. He fought heroically until his last bullet and concealed the secret documents before being captured. Despite enduring brutal torture and having his legs amputated 6 times by his captors, he steadfastly refused to reveal any organizational secrets.
 *   **Feb. 25, 1969:** A US Navy SEAL team led by Bob Kerrey killed 21 civilians in Thanh Phong (Ben Tre).
 *   **Mar. 1969:** Due to declining health from previous years of imprisonment, brutal torture by the enemy, and harsh operating conditions in the South, Dinh Thi Van was transferred back to Hanoi for medical treatment and assigned to intelligence training tasks.
 *   **Mar. 2, 1969:** Thiều Văn Chỏi and 4 guerrillas ambushed enemy forces 300m from Vàm Bưng post (Ba Trinh, Kế Sách, Sóc Trăng), killing 7 enemy troops, capturing 3 rifles and a radio.
@@ -2603,6 +2605,7 @@
 * **11/01/1973:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Đức Soát (Phi công cấp Ace của Không quân nhân dân Việt Nam. Bắn rơi 6 máy bay của Mỹ. Sau là Trung tướng, Phó Tổng tham mưu trưởng Quân đội nhân dân Việt Nam).
 *   **Jan. 15, 1973:** The US completely ended all acts of war against the North.
 *   **Jan. 27, 1973:** The **Paris Peace Accords** on ending the war and restoring peace in Vietnam were signed (negotiated by Special Advisor Le Duc Tho and signed by Foreign Ministers Nguyen Duy Trinh and Nguyen Thi Binh). The US committed to respecting Vietnam's independence, sovereignty, unity, and territorial integrity.
+*   **Feb. 15, 1973:** Following the signing of the Paris Peace Accords, steadfast intelligence operative Nguyen Van Thuong (Hai Thuong) was returned to freedom at Loc Ninh (Binh Phuoc) after 4 years of imprisonment and brutal torture across various enemy detention centers.
 * **27/03/1973:** Martyr Le Van Tach (First Lieutenant, Political Officer of the 89th Intelligence Liaison Battalion, 22nd Group) heroically sacrificed his life on the Southeastern intelligence liaison line.
 *   **Mar. 29, 1973:** The last US combat unit withdrew from South Vietnam.
 *   **Apr. 1973:** The Saigon-based magazine *Đối Diện* published a memoir titled "Trong niềm hòa hợp" (In the Spirit of Harmony) authored by Pham Van Dinh, advocating for national reconciliation, love, and the elimination of hatred to resolve the Vietnam War.
@@ -2745,7 +2748,7 @@
 * **06/11/1978:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lê Văn Vĩnh (Đại tá, Cụm trưởng Cụm H67 thuộc Phòng Tình báo B2).
 * **06/11/1978:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lê Văn Đạm (Chính trị viên Xã đội An Nhơn Tây huyện Củ Chi, ngọn cờ đầu phong trào "Đào hầm địa đạo Củ Chi").
 * **06/11/1978:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Hồ Thị Bời (Tổ trưởng tổ giao liên tình báo Đoàn 22).
-* **06/11/1978:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Văn Thương (Thiếu tá, giao liên tình báo. Bị Mỹ - ngụy cưa chân 6 lần).
+* **06/11/1978:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyen Van Thuong (Hai Thuong — Major in military intelligence and staunch courier who endured 6 enemy amputations while steadfastly guarding state secrets).
 * **06/11/1978:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Tống Viết Dương (Đại tá đặc công).
 * **06/11/1978:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Trần Văn Đang (Chiến sĩ Biệt động Sài Gòn).
 * **06/11/1978:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Ngô Văn Cấn (Tiểu đoàn trưởng tiểu đoàn 9 bộ binh).
@@ -3250,7 +3253,6 @@
 *   **Nov. 6 - 11, 2017:** Vietnam hosted the APEC 2017 Economic Leaders' Week in Da Nang.
 *   **Dec. 7, 2017:** The Bài Chòi art form of Central Vietnam was recognized as a heritage by UNESCO.
 * **2018:** Hero of the People's Armed Forces Võ Văn Mừng (Tiểu đội trưởng đặc công, phân liên khu Tây Nam Bộ. Sau là Trung tá, Chủ nhiệm Chính trị Đoàn 646 - Quân khu 7) passed away.
-* **2018:** Hero of the People's Armed Forces Nguyễn Văn Thương (Thiếu tá, giao liên tình báo. Bị Mỹ - ngụy cưa chân 6 lần) passed away.
 * **2018:** Hero of the People's Armed Forces Nguyễn Hữu Vị (Tham gia Chiến tranh Việt Nam) passed away.
 * **2018:** Hero of the People's Armed Forces Y Blok Êban (Thiếu tướng, nguyên Chủ tịch Ủy ban quân quản Đắk Lắk, nguyên Chủ tịch Uỷ ban nhân dân tỉnh Đắk Lắk, nguyên quyền Tư lệnh Quân khu 6) passed away.
 * **2018:** Hero of the People's Armed Forces Clâu Nâm (Tiểu Đoàn trưởng, Chỉ huy Trưởng đơn vị D65 đường Trường Sơn) passed away.
@@ -3269,6 +3271,7 @@
 *   **Mar. 15, 2018:** Prime Minister Nguyen Xuan Phuc paid an official visit to Australia at the invitation of Prime Minister Malcolm Turnbull. Both sides signed a Joint Statement officially upgrading relations to a Strategic Partnership, paving the way for a Comprehensive Strategic Partnership in 2024.
 *   **Apr. 15, 2018:** The Ho Chi Minh City Youth Union and the family of Nguyễn Văn Trỗi organized the solemn reburial of his remains from Văn Giáp Cemetery (District 2) to the Ho Chi Minh City Martyrs' Cemetery (District 9), resting alongside notable heroic martyrs.
 *   **Jun. 10, 2018:** Large-scale demonstrations erupted across Ho Chi Minh City, Binh Thuan (Phan Thiet, Phan Ri), Hanoi, Da Nang, Nha Trang... protesting the draft Law on Special Administrative-Economic Units (Special Economic Zones bill) and the Cybersecurity Law, leading the National Assembly to postpone passing the SEZ bill.
+* **13/08/2018:** Hero of the People's Armed Forces Nguyen Van Thuong (Hai Thuong — legendary military intelligence major and steadfast symbol of Vietnamese Defense Intelligence) passed away in Ho Chi Minh City at the age of 80.
 * **30/08/2018:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lê Mạnh Hùng (Đại tá, nguyên Lữ đoàn trưởng Lữ đoàn Đặc công 198. Tham gia chiến đấu lập nhiều thành tích trong các chiến dịch Tây Nguyên, chiến dịch Hồ Chí Minh).
 *   **Oct. 1, 2018:** Vietnam held a departure ceremony for the Level 2 Field Hospital No. 1 consisting of 63 military medical personnel to join the UN Peacekeeping Mission in South Sudan (UNMISS), marking the first deployment of an independent unit to UN peacekeeping operations.
 *   **2019:** Painter Mai Dai Luu visited the former Vi Xuyen battlefield (Ha Giang) and was inspired to begin the epic art project "Night Flowers - Waking up to Dawn" (Hoa đêm - Tỉnh giấc bình minh) to tribute the fallen soldiers of the border defense war.

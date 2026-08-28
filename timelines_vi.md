@@ -2145,6 +2145,7 @@
 *   **1961:** Mỹ bắt đầu **Chiến dịch Ranch Hand**, rải chất độc hóa học (trong đó có chất độc màu da cam) xuống miền Nam Việt Nam nhằm phá hủy thảm thực vật và mùa màng, gây ra hậu quả nghiêm trọng và lâu dài về môi trường và sức khỏe con người.
 *   **1961:** Huỳnh Tấn Phát làm Chủ tịch Ủy ban Mặt trận Dân tộc Giải phóng khu Sài Gòn - Gia Định.
 *   **1961:** Nữ Anh hùng Lực lượng vũ trang nhân dân Thạch Thị Thanh (người dân tộc Khmer ở Cầu Kè, Trà Vinh) cùng các sư sãi lãnh đạo phong trào đấu tranh chính trị "di tản Phật" chấn động miền Tây Nam Bộ, chống lại chính sách lập ấp chiến lược, chiếm đóng chùa chiền và bắt lính của chính quyền Ngô Đình Diệm.
+*   **1961:** Nguyễn Văn Thương bắt đầu tham gia lực lượng tình báo quân sự (Cụm tình báo chiến lược H.63 / A18), đảm nhiệm vai trò giao liên bí mật vận chuyển các tài liệu, tin tức chiến lược quan trọng từ nội đô Sài Gòn ra căn cứ phục vụ cho các nhà tình báo như Phạm Xuân Ẩn, Đặng Trần Đức (Ba Quốc), Vũ Ngọc Nhạ.
 *   **01/1961:** Tổng thống Mỹ John F. Kennedy nhậm chức, đề ra chiến lược "Phản ứng linh hoạt", trong đó có hình thức **"Chiến tranh đặc biệt"** để áp dụng ở miền Nam Việt Nam.
 *   **01/1961:** Hội nghị Trung ương Đảng lần thứ 3 quyết định thành lập Trung ương Cục miền Nam thay cho Xứ ủy Nam Bộ để trực tiếp lãnh đạo cách mạng miền Nam.
 *   **24/01/1961:** Bộ Chính trị ra Chỉ thị về phương hướng và nhiệm vụ công tác trước mắt của cách mạng miền Nam, chuyển phương châm từ đấu tranh chính trị là chủ yếu sang đẩy mạnh đấu tranh vũ trang song song với đấu tranh chính trị.
@@ -2486,6 +2487,7 @@
 * **1969:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Thị Nê (Nữ du kích Củ Chi, huyện đội phó huyện đội Nam Củ Chi, người được thay mặt Đại hội Anh hùng chiến sĩ thi đua toàn Miền Nam lần thứ 2 (1967) viết thư gửi Bác Hồ để báo cáo tình hình hoạt động cách mạng của lực lượng du kích Củ Chi) từ trần.
 *   **20/01/1969:** Richard Nixon nhậm chức Tổng thống Mỹ, triển khai chiến lược "Việt Nam hóa chiến tranh" và "Học thuyết Nixon".
 *   **25/01/1969:** Khai mạc phiên họp toàn thể đầu tiên của Hội nghị bốn bên về Việt Nam tại Paris.
+*   **10/02/1969:** Trên đường vận chuyển tài liệu mật từ căn cứ ra vùng ven Sài Gòn, giao liên tình báo Nguyễn Văn Thương (Hai Thương) bị quân đối phương phục kích, bao vây. Ông chiến đấu anh dũng đến viên đạn cuối cùng, kịp thời cất giấu tài liệu mật trước khi bị bắt. Trong quá trình giam giữ, đối phương dùng mọi thủ đoạn tra tấn dã man và cưa chân ông 6 lần nhưng ông vẫn kiên quyết không khai báo, giữ vẹn nguyên bí mật tổ chức.
 *   **25/02/1969:** Biệt kích SEAL của Mỹ do Bob Kerrey chỉ huy thảm sát 21 thường dân tại Thạnh Phong (Bến Tre).
 *   **03/1969:** Do sức khỏe giảm sút sau những năm tháng bị địch bắt giam, tra tấn dã man và hoạt động căng thẳng, Đinh Thị Vân được điều ra Hà Nội để điều trị và phân công làm công tác huấn luyện tình báo.
 *   **02/03/1969:** Thiều Văn Chỏi cùng 4 du kích tổ chức phục kích địch cách đồn Vàm Bưng (xã Ba Trinh, Kế Sách, Sóc Trăng) 300m, tiêu diệt 7 tên địch, thu 3 súng và 1 máy thông tin.
@@ -2603,6 +2605,7 @@
 * **11/01/1973:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Đức Soát (Phi công cấp Ace của Không quân nhân dân Việt Nam. Bắn rơi 6 máy bay của Mỹ. Sau là Trung tướng, Phó Tổng tham mưu trưởng Quân đội nhân dân Việt Nam).
 *   **15/01/1973:** Mỹ chấm dứt hoàn toàn mọi hành động chiến tranh chống phá miền Bắc.
 *   **27/01/1973:** **Hiệp định Paris** về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam được ký kết (với sự đàm phán trực tiếp của Cố vấn đặc biệt Lê Đức Thọ và chữ ký đại diện của Bộ trưởng Nguyễn Duy Trinh và Bộ trưởng Ngoại giao Nguyễn Thị Bình). Mỹ cam kết tôn trọng độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ của Việt Nam.
+*   **15/02/1973:** Sau khi Hiệp định Paris được ký kết, người chiến sĩ tình báo kiên trung Nguyễn Văn Thương (Hai Thương) được trao trả tự do tại Lộc Ninh (Bình Phước) sau 4 năm bị giam cầm và tra tấn dã man qua các nhà tù, trại giam của đối phương.
 * **27/03/1973:** Liệt sĩ Lê Văn Tách (Trung úy, Chính trị viên Tiểu đoàn 89 giao liên tình báo, Đoàn 22) anh dũng hy sinh trên tuyến giao liên tình báo miền Đông Nam Bộ.
 *   **29/03/1973:** Đơn vị lính chiến đấu cuối cùng của Mỹ rút khỏi miền Nam Việt Nam.
 *   **04/1973:** Tạp chí *Đối Diện* xuất bản ở Sài Gòn đăng hồi ký "Trong niềm hòa hợp" của Phạm Văn Đính, mang thông điệp kêu gọi xóa bỏ hận thù, dùng tình thương đại lượng để hòa hợp dân tộc và kết thúc chiến tranh.
@@ -2745,7 +2748,7 @@
 * **06/11/1978:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Văn Vĩnh (Đại tá, Cụm trưởng Cụm H67 thuộc Phòng Tình báo B2).
 * **06/11/1978:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Văn Đạm (Chính trị viên Xã đội An Nhơn Tây huyện Củ Chi, ngọn cờ đầu phong trào "Đào hầm địa đạo Củ Chi").
 * **06/11/1978:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hồ Thị Bời (Tổ trưởng tổ giao liên tình báo Đoàn 22).
-* **06/11/1978:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Thương (Thiếu tá, giao liên tình báo. Bị Mỹ - ngụy cưa chân 6 lần).
+* **06/11/1978:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Thương (Hai Thương — Thiếu tá tình báo quân sự, chiến sĩ giao liên kiên trung đã chịu đựng 6 lần bị địch cưa chân mà vẫn giữ trọn khí tiết cách mạng).
 * **06/11/1978:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Tống Viết Dương (Đại tá đặc công).
 * **06/11/1978:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trần Văn Đang (Chiến sĩ Biệt động Sài Gòn).
 * **06/11/1978:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Ngô Văn Cấn (Tiểu đoàn trưởng tiểu đoàn 9 bộ binh).
@@ -3250,7 +3253,6 @@
 *   **06 - 11/11/2017:** Việt Nam đăng cai Tuần lễ Cấp cao APEC 2017 tại Đà Nẵng.
 *   **07/12/2017:** Nghệ thuật Bài chòi Trung Bộ được UNESCO công nhận là di sản.
 * **2018:** Anh hùng Lực lượng vũ trang nhân dân Võ Văn Mừng (Tiểu đội trưởng đặc công, phân liên khu Tây Nam Bộ. Sau là Trung tá, Chủ nhiệm Chính trị Đoàn 646 - Quân khu 7) từ trần.
-* **2018:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Thương (Thiếu tá, giao liên tình báo. Bị Mỹ - ngụy cưa chân 6 lần) từ trần.
 * **2018:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Hữu Vị (Tham gia Chiến tranh Việt Nam) từ trần.
 * **2018:** Anh hùng Lực lượng vũ trang nhân dân Y Blok Êban (Thiếu tướng, nguyên Chủ tịch Ủy ban quân quản Đắk Lắk, nguyên Chủ tịch Uỷ ban nhân dân tỉnh Đắk Lắk, nguyên quyền Tư lệnh Quân khu 6) từ trần.
 * **2018:** Anh hùng Lực lượng vũ trang nhân dân Clâu Nâm (Tiểu Đoàn trưởng, Chỉ huy Trưởng đơn vị D65 đường Trường Sơn) từ trần.
@@ -3269,6 +3271,7 @@
 *   **15/03/2018:** Thủ tướng Nguyễn Xuân Phúc thăm chính thức Australia theo lời mời của Thủ tướng Malcolm Turnbull. Hai bên ký Tuyên bố chung chính thức nâng cấp quan hệ lên Đối tác Chiến lược, tạo tiền đề để hai nước tiến tới Đối tác Chiến lược Toàn diện vào năm 2024.
 *   **15/04/2018:** Thành Đoàn và gia đình tổ chức Lễ cải táng hài cốt Anh hùng liệt sĩ Nguyễn Văn Trỗi từ Nghĩa trang Văn Giáp (Quận 2) về an nghỉ tại Nghĩa trang Liệt sĩ TP. Hồ Chí Minh (Quận 9), bên cạnh các liệt sĩ tiêu biểu như Trần Văn Ơn, Trần Bội Cơ, Quách Thị Trang.
 *   **10/06/2018:** Làn sóng biểu tình quy mô lớn bùng nổ tại TP. Hồ Chí Minh, Bình Thuận (Phan Thiết, Phan Rí), Hà Nội, Đà Nẵng, Nha Trang... phản đối dự thảo Luật Đơn vị hành chính - kinh tế đặc biệt (dự luật Đặc khu) và Luật An ninh mạng, dẫn đến việc Quốc hội quyết định lùi thời gian xem xét thông qua dự luật Đặc khu.
+* **13/08/2018:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Thương (Hai Thương — Thiếu tá tình báo huyền thoại, biểu tượng kiên trung bất khuất của lực lượng Tình báo Quốc phòng Việt Nam) từ trần tại Thành phố Hồ Chí Minh, thọ 80 tuổi.
 * **30/08/2018:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Mạnh Hùng (Đại tá, nguyên Lữ đoàn trưởng Lữ đoàn Đặc công 198. Tham gia chiến đấu lập nhiều thành tích trong các chiến dịch Tây Nguyên, chiến dịch Hồ Chí Minh).
 *   **01/10/2018:** Việt Nam tổ chức Lễ xuất quân Bệnh viện dã chiến cấp 2 số 1 gồm 63 cán bộ, chiến sĩ và nhân viên y tế lên đường làm nhiệm vụ tại Phái bộ Gìn giữ hòa bình Liên Hợp Quốc tại Nam Sudan (UNMISS), đánh dấu lần đầu tiên triển khai một đơn vị độc lập tham gia lực lượng mũ nồi xanh.
 *   **2019:** Họa sĩ Mai Đại Lưu có chuyến đi thực tế đến trường mầm non vùng cao ở Hà Giang, qua đường Thanh Niên và trận địa Vị Xuyên, lấy cảm hứng thai nghén dự án hội họa "Hoa đêm - Tỉnh giấc bình minh" tri ân các anh hùng liệt sĩ.
