@@ -1592,7 +1592,7 @@
 *   **29/02/1938:** Vua Bảo Đại ra Dụ số 10, tách quần đảo Hoàng Sa khỏi địa hạt tỉnh Nam Ngãi và sáp nhập vào tỉnh Thừa Thiên để thuận tiện quản lý.
 *   **29-30/03/1938:** Hội nghị Ban Chấp hành Trung ương Đảng quyết định đổi tên Mặt trận thành Mặt trận Dân chủ Đông Dương và bầu đồng chí Nguyễn Văn Cừ làm Tổng Bí thư.
 *   **01/05/1938:** Cuộc mít tinh khổng lồ với 25.000 người tham gia được tổ chức công khai tại khu Đấu Xảo, Hà Nội để kỷ niệm ngày Quốc tế Lao động.
-*   **25/05/1938:** Hội Truyền bá quốc ngữ ra đời.
+*   **25/05/1938:** Hội Truyền bá Quốc ngữ được thành lập tại Hà Nội do học giả Nguyễn Văn Tố (Ứng Hòe) làm Hội trưởng. Dưới sự cổ vũ và giúp đỡ của Đảng Cộng sản Đông Dương, Hội đã phát triển phong trào xóa mù chữ rộng khắp cả nước, mở hàng ngàn lớp học bình dân giúp nâng cao dân trí và khơi dậy tinh thần yêu nước của nhân dân trước Cách mạng tháng Tám.
 *   **15/06/1938:** Toàn quyền Đông Dương Jules Brévié ban hành nghị định thành lập một đại lý hành chính tại quần đảo Hoàng Sa thuộc tỉnh Thừa Thiên. Pháp cũng đặt một ngọn hải đăng, một trạm khí tượng và một trạm vô tuyến điện trên đảo Hoàng Sa (Pattle), đồng thời dựng một tấm bia khẳng định chủ quyền.
 *   **18/07/1938:** Đại sứ Trung Quốc tại Paris gửi một công hàm khẳng định mạnh mẽ các yêu sách của Trung Quốc đối với quần đảo Hoàng Sa. Công hàm ghi nhận bảo đảm của Bộ Ngoại giao Pháp rằng "hành động đó hoàn toàn không có ý tác động đến các lập trường pháp lý tương ứng của Trung Quốc và của Pháp", đồng thời bảo lưu quyền lợi của cả hai bên.
 *   **30/08/1938:** Chính phủ Pháp ban hành Sắc lệnh về tự do báo chí ở Nam Kỳ, cho phép xuất bản báo chí tiếng Việt mà không cần xin phép trước.
@@ -1679,6 +1679,7 @@
 *   **13-15/08/1945:** Hội nghị toàn quốc của Đảng Cộng sản Đông Dương tại Tân Trào, quyết định phát động Tổng khởi nghĩa giành chính quyền trên cả nước.
 *   **13/08/1945:** Ủy ban Khởi nghĩa toàn quốc ra "Quân lệnh số 1".
 *   **14/08/1945:** Mặt trận Quốc gia Thống nhất được thành lập tại Nam Bộ, gồm các đảng phái quốc gia và tôn giáo như Cao Đài, Hòa Hảo.
+*   **16/08/1945:** Dưới gốc cây đa Tân Trào (Tuyên Quang), Đội Việt Nam Giải phóng quân làm lễ xuất quân tiến về giải phóng thị xã Thái Nguyên và thủ đô Hà Nội. Đồng chí Võ Nguyên Giáp đọc Quân lệnh số 1 của Ủy ban Khởi nghĩa toàn quốc, chính thức phát lệnh tiến công, mở đầu cao trào Tổng khởi nghĩa giành chính quyền trên toàn quốc trong Cách mạng tháng Tám.
 *   **16-17/08/1945:** Quốc dân Đại hội họp tại Tân Trào, tán thành chủ trương Tổng khởi nghĩa và bầu ra Ủy ban Dân tộc Giải phóng Việt Nam (tức Chính phủ lâm thời) do Hồ Chí Minh làm Chủ tịch.
 *   **17/08/1945:** Cuộc mít tinh của Tổng hội Công chức tại Quảng trường Nhà hát Lớn Hà Nội bị lực lượng Việt Minh và quần chúng biến thành cuộc biểu tình tuần hành rầm rộ ủng hộ cách mạng. Tại đây, bài hát **"Tiến quân ca"** của nhạc sĩ Văn Cao lần đầu tiên vang lên hùng tráng trước hàng vạn quần chúng nhân dân cùng lá cờ đỏ sao vàng khổng lồ buông xuống, tạo tiền đề trực tiếp cho cuộc Tổng khởi nghĩa 19/8 tại Hà Nội.
 *   **19/08/1945:** Tổng khởi nghĩa thắng lợi ở Hà Nội (Cách mạng tháng Tám).
@@ -1728,7 +1729,7 @@
 
 ### **Giai đoạn Hòa hoãn và Chuẩn bị Toàn quốc Kháng chiến (03/1946 - 12/1946)**
 
-*   **02/03/1946:** Quốc hội khóa I họp kỳ đầu tiên, bầu ra Chính phủ liên hiệp kháng chiến do Hồ Chí Minh làm Chủ tịch; nhân sĩ Huỳnh Thúc Kháng được mời giữ chức vụ Bộ trưởng Bộ Nội vụ.
+*   **02/03/1946:** Quốc hội khóa I họp kỳ đầu tiên tại Nhà hát Lớn Hà Nội, bầu cụ Nguyễn Văn Tố làm Trưởng ban Thường trực Quốc hội (tương đương Chủ tịch Quốc hội đầu tiên của nước Việt Nam Dân chủ Cộng hòa) và bầu ra Chính phủ Liên hiệp Kháng chiến do Chủ tịch Hồ Chí Minh đứng đầu; chí sĩ Huỳnh Thúc Kháng được mời giữ chức Bộ trưởng Bộ Nội vụ.
 *   **06/03/1946:** Chủ tịch Hồ Chí Minh và Vũ Hồng Khanh thay mặt Chính phủ Việt Nam ký với J. Sainteny, đại diện Chính phủ Pháp, bản Hiệp định Sơ bộ.
 *   **09/03/1946:** Ban Thường vụ Trung ương Đảng ra Chỉ thị "Hòa để tiến".
 *   **24/03/1946:** Chủ tịch Hồ Chí Minh và Cao ủy Pháp D'Argenlieu hội đàm tại Vịnh Hạ Long.
@@ -1801,7 +1802,7 @@
 *   **21/04/1947:** Cụ Huỳnh Thúc Kháng, Bộ trưởng Bộ Nội vụ kiêm Đặc phái viên Chính phủ tại Nam Trung Bộ, từ trần tại huyện Nghĩa Hành (Quảng Ngãi) ở tuổi 71. Chủ tịch Hồ Chí Minh gửi thư vĩnh biệt ca ngợi nhân cách cao khiết của Cụ, tang lễ được cử hành theo nghi thức Quốc tang và thi hài an táng trên đỉnh núi Thiên Ấn.
 *   **08/1947 - 08/1948:** Giáo sư Tạ Quang Bửu đảm nhiệm chức vụ Bộ trưởng Bộ Quốc phòng Việt Nam Dân chủ Cộng hòa.
 *   **23/09/1947:** Chủ tịch Hồ Chí Minh ký Sắc lệnh số 89/SL truy phong cấp Tướng cho liệt sĩ Phùng Chí Kiên. Ông là vị tướng đầu tiên được truy phong của Quân đội nhân dân Việt Nam.
-*   **07/10/1947:** Pháp mở cuộc tấn công quy mô lớn lên căn cứ địa Việt Bắc (Chiến dịch Léa), nhảy dù 800 quân xuống Bắc Kạn.
+*   **07/10/1947:** Quân Pháp mở cuộc tiến công quy mô lớn lên căn cứ địa Việt Bắc (Chiến dịch Léa), nhảy dù 800 quân xuống Bắc Kạn. Trong trận tập kích này, cụ Nguyễn Văn Tố (nguyên Trưởng ban Thường trực Quốc hội, Bộ trưởng không Bộ) không may bị giặc Pháp bắt giữ tại Chợ Đồn (Bắc Kạn); trước đòn roi tra tấn và dụ dỗ của kẻ thù, cụ vẫn giữ trọn khí tiết kiên trung bất khuất, cự tuyệt hợp tác và anh dũng hy sinh vì Tổ quốc.
 *   **09/10/1947:** Bộ đội Việt Nam bắn rơi một máy bay Ju-52 của Pháp tại Cao Bằng, tiêu diệt 12 sĩ quan tham mưu và thu được bản kế hoạch tiến công Việt Bắc của địch.
 *   **24/10/1947:** Pháo binh Việt Nam phục kích bắn chìm 2 tàu chiến Pháp trên sông Lô tại Đoan Hùng, cắt đứt tuyến đường thủy của địch.
 * **28/10/1947:** Liệt sĩ Lê Lương (Tiểu đoàn trưởng Tiểu đoàn 426, nay là Lữ đoàn 74, Tổng cục II) anh dũng hy sinh trong trận công đồn Na U (Đường số 4).

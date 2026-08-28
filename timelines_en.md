@@ -1592,7 +1592,7 @@
 *   **Feb. 29, 1938:** King Bao Dai issued Imperial Decree No. 10, separating the Paracel Islands (Hoang Sa) from Nam Ngai province and placing them under the administration of Thua Thien province.
 *   **Mar. 29-30, 1938:** The Party Central Committee conference decided to change the name of the Front to the Indochinese Democratic Front and elected Comrade Nguyen Van Cu as General Secretary.
 *   **May 1, 1938:** A huge rally with 25.000 participants was held openly at the Dau Xao area in Hanoi to celebrate International Workers' Day.
-*   **May 25, 1938:** The Association for the Propagation of Quốc ngữ (Hội Truyền bá quốc ngữ) was established.
+*   **May 25, 1938:** The Association for the Propagation of National Script (Hội Truyền bá Quốc ngữ) was founded in Hanoi with scholar Nguyễn Văn Tố (Ứng Hòe) serving as its President. Guided and supported by the Indochinese Communist Party, the association developed a widespread mass literacy campaign across Vietnam, establishing thousands of classes to eradicate illiteracy and foster patriotism before the August Revolution.
 *   **Jun. 15, 1938:** Governor-General of Indochina Jules Brévié issued a decree establishing an administrative delegation in the Paracel Islands under Thua Thien province. France also placed a lighthouse, a meteorological station, and a radio station on Pattle Island (Hoang Sa) and erected a sovereignty stele.
 *   **Jul. 18, 1938:** The Chinese Ambassador in Paris submitted a diplomatic note strongly affirming China's claims over the Paracel Islands. The note acknowledged the French Ministry of Foreign Affairs' assurance that the French occupation "had absolutely no intention of affecting the respective legal positions of China and France" and reserved the rights of both parties.
 *   **Aug. 30, 1938:** The French government issued a decree on press freedom in Cochinchina, allowing the publication of Vietnamese-language newspapers without prior permission.
@@ -1679,6 +1679,7 @@
 *   **Aug. 13-15, 1945:** The National Conference of the Indochinese Communist Party in Tan Trao decided to launch a General Uprising to seize power nationwide.
 *   **Aug. 13, 1945:** The National Uprising Committee issued "Military Order No. 1."
 *   **Aug. 14, 1945:** The United National Front (Mat tran Quoc gia Thong nhat) was established in Southern Vietnam, comprised of various nationalist parties and religious groups like Cao Dai and Hoa Hao.
+*   **Aug. 16, 1945:** Under the shade of the Tân Trào Banyan Tree (Tuyên Quang), the Vietnam National Liberation Army held an oath and departure ceremony to liberate Thái Nguyên town and advance toward Hanoi. Comrade Võ Nguyên Giáp read Military Order No. 1 of the National Uprising Committee, officially launching the military offensive and opening the nationwide General Insurrection in the August Revolution.
 *   **Aug. 16-17, 1945:** The National People's Congress met in Tan Trao, endorsed the policy of a General Uprising, and elected the Vietnam National Liberation Committee (i.e., the Provisional Government) with Ho Chi Minh as Chairman.
 *   **Aug. 17, 1945:** A rally organized by the Civil Servants' Association at the Hanoi Opera House Square was transformed by Viet Minh forces and the masses into a massive pro-revolutionary demonstration. Here, composer Van Cao's **"Tien Quan Ca"** was sung publicly for the first time before tens of thousands of citizens under a gigantic red flag with a gold star, paving the direct path for the August 19 General Uprising in Hanoi.
 *   **Aug. 19, 1945:** The General Uprising succeeded in Hanoi (August Revolution).
@@ -1728,7 +1729,7 @@
 
 ### **Period of Détente and Preparation for Nationwide Resistance (Mar. 1946 - Dec. 1946)**
 
-*   **Mar. 2, 1946:** The 1st National Assembly held its first session, electing the Coalition Resistance Government with Ho Chi Minh as President; distinguished patriotic scholar Huynh Thuc Khang was appointed Minister of the Interior.
+*   **Mar. 2, 1946:** The 1st National Assembly convened its first session at the Hanoi Opera House, electing scholar Nguyễn Văn Tố as Chairman of the Standing Committee of the National Assembly (the first head of Vietnam's Parliament) and electing the Coalition Resistance Government led by President Ho Chi Minh; distinguished patriotic scholar Huynh Thuc Khang was appointed Minister of the Interior.
 *   **Mar. 6, 1946:** President Ho Chi Minh and Vu Hong Khanh, on behalf of the Vietnamese Government, signed the Preliminary Agreement with J. Sainteny, representative of the French Government.
 *   **Mar. 9, 1946:** The Party Central Standing Committee issued the directive "Peace to Advance."
 *   **Mar. 24, 1946:** President Ho Chi Minh and French High Commissioner D'Argenlieu held talks in Ha Long Bay.
@@ -1801,7 +1802,7 @@
 *   **Apr. 21, 1947:** Huynh Thuc Khang, Minister of the Interior and Government Special Envoy to South Central Vietnam, passed away in Nghia Hanh district (Quang Ngai) at the age of 71. President Ho Chi Minh sent a heartfelt eulogy honoring his supreme integrity, and he was accorded a State Funeral with his resting place atop Thien An Mountain.
 *   **Aug. 1947 - Aug. 1948:** Professor Ta Quang Buu served as Minister of National Defense of the Democratic Republic of Vietnam.
 *   **Sep. 23, 1947:** President Ho Chi Minh signed Decree No. 89/SL posthumously conferring the rank of General on martyr Phung Chi Kien, making him the first general of the Vietnam People's Army.
-*   **Oct. 7, 1947:** France launched a large-scale attack on the Viet Bac resistance base (Operation Léa), dropping 800 paratroopers on Bac Kan town.
+*   **Oct. 7, 1947:** France launched a large-scale offensive against the Viet Bac resistance base (Operation Léa), dropping 800 paratroopers on Bac Kan. During this airborne raid, scholar Nguyễn Văn Tố (former Chairman of the Standing Committee of the National Assembly, Minister without Portfolio) was captured by French troops in Cho Don (Bac Kan); steadfastly enduring torture and refusing enemy coercion or collaboration, he heroically sacrificed his life for the Motherland.
 *   **Oct. 9, 1947:** Vietnamese forces shot down a French Ju-52 transport plane in Cao Bang, killing 12 staff officers and capturing the French offensive plan for Viet Bac.
 *   **Oct. 24, 1947:** Vietnamese artillery ambushed a French naval convoy on the Lo River at Doan Hung, sinking two ships and cutting off the enemy's river supply route.
 * **28/10/1947:** Martyr Le Luong (Battalion Commander of the 426th Battalion, now the 74th Brigade, General Department II) heroically sacrificed his life in the assault on Na U outpost (Route 4).
