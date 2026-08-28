@@ -999,6 +999,7 @@
 ### **Independent Nguyen Dynasty Period (1802 - 1858)**
 
 *   **1802:** The Nguyen dynasty was established, with Emperor Gia Long ascending the throne.
+*   **1802:** Nguyễn Du (1765 - 1820) began serving as an imperial official under Emperor Gia Long of the Nguyễn Dynasty, holding posts such as Magistrate of Phù Dung, Prefect of Thường Tín, and later Right Vice Minister of Rites.
 *   **Feb. 3, 1802:** The Battle of Tran Ninh. The final major engagement between Tay Son and Nguyen forces. Despite the heroic and desperate charges led by female general Bui Thi Xuan atop her war elephant, the Tay Son army was ultimately defeated by the well-prepared Nguyen defenses at the Tran Ninh wall. Concurrently, the Tay Son naval fleet was destroyed at the Nhat Le estuary. This catastrophic defeat sealed the fate of the Tay Son dynasty.
 *   **May 1802:** Le Van Duyet was appointed as *Imperial Commissioner, Commander of the Left Army* (Kham sai Chuong Ta quan), becoming one of the highest-ranking generals and a founding meritorious official of the dynasty.
 *   **May 31, 1802:** Nguyen Anh officially established the era name **Gia Long** and issued a general amnesty.
@@ -1019,7 +1020,7 @@
 *   **1805 (Year 4 of Gia Long's reign):** The compilation of national land registers (dia ba) revealed the socio-economic structure of rural Vietnam. Analysis of these registers (e.g., in Ha Dong and Tu Liem) showed that while private land accounted for a significant majority, ownership was highly fragmented among small independent farmers, demonstrating early and distinct social differentiation rather than acute class struggle.
 *   **1805:** Emperor Gia Long changed Phung Thien Prefecture to Hoai Duc Prefecture.
 *   **1805:** Emperor Gia Long ordered the construction of the Hanoi Citadel (Vauban style) and the Hanoi Flag Tower (Cot Co), reinforcing the administrative center of Northern Vietnam.
-*   **1805 - 1820:** The Tale of Kieu was composed by Nguyen Du in chữ Nôm (Vietnamese demotic script).
+*   **1805 - 1820:** The great poet Nguyễn Du composed the masterpiece Nôm verse narrative *The Tale of Kiều* (*Đoạn trường tân thanh*) comprising 3,254 lục bát lines, representing the supreme zenith of classical Vietnamese literature.
 *   **May 1805:** Construction of the **Hue Citadel** (Kinh thành Huế) began, a massive fortification project combining Eastern geomancy and Western Vauban military architecture.
 *   **May 1806:** Emperor Gia Long officially held the coronation ceremony at the Thai Hoa Palace, taking the title of **Emperor** (Hoàng Đế).
 *   **1807:** Emperor Gia Long organized the first regional examination (thi Huong).
@@ -1035,6 +1036,8 @@
 *   **Dec. 1812:** Emperor Gia Long issued an edict temporarily reusing the national title **Dai Viet**.
 *   **1813:** Le Van Duyet and Nguyen Van Thuy escorted King Ang Chan II (Nac Ong Chan) back to Cambodia to restore his throne. Le Van Duyet oversaw the construction of the Nam Vang (Phnom Penh) Citadel and the La Lem Citadel to store grain and weapons.
 *   **1813:** The *Hoang Viet luat le* was carved, printed, and promulgated nationwide.
+*   **1813:** Emperor Gia Long appointed Nguyễn Du as Chief Envoy leading an embassy to the Qing Dynasty in China. During his two-year diplomatic mission, he composed the immortal Sino-Vietnamese poetry collection *Bắc hành tạp lục* (Record of a Journey to the North), demonstrating profound humanist philosophy and acute social critique.
+*   **1814:** The poetess Hồ Xuân Hương compiled the poetry collection *Lưu hương ký* (Collection of Fragrant Memories, comprising 24 Classical Chinese and 28 Nôm poems). Renowned for her groundbreaking Nôm poetry championing women's rights and humanism, she is revered as the "Queen of Nôm Poetry" and was honored by UNESCO as a World Cultural Celebrity in 2021.
 *   **Feb. 1814:** Empress Thua Thien (wife of Emperor Gia Long) passed away.
 *   **1815:** The case of Nguyen Van Thanh began, involving a poem written by his son Nguyen Van Thuyen. This political purge led to the forced suicide of the meritorious official Nguyen Van Thanh in 1817, reflecting Gia Long's consolidation of absolute power.
 *   **1815:** Emperor Gia Long dispatched a naval unit commanded by Pham Quang Anh to explore the archipelagos and map their sea routes.
@@ -1059,6 +1062,7 @@
 *   **May 1820:** Emperor Minh Mang ordered the naming of streets in the Capital (Hue) and the erection of stone signposts, marking an early effort in urban planning and management.
 *   **Jul. 1820:** Emperor Minh Mang issued an edict prohibiting opium, marking the first official ban on this drug due to its harmful effects on the administration and populace.
 *   **Sep. 1820:** Le Van Duyet ordered the execution of Deputy Governor Huynh Cong Ly (Emperor Minh Mang's father-in-law) for corruption and oppressing the people during the digging of the Tau Hu canal. This event demonstrated the strict enforcement of the law regardless of royal connections but also deepened the rift between Le Van Duyet and Emperor Minh Mang.
+*   **16/09/1820 (August 10 of the Year of the Metal Dragon):** The great national poet Nguyễn Du passed away in the imperial capital of Huế while preparing to lead his second diplomatic mission to the Qing Dynasty. In 1965 and 2013, the UNESCO General Conference passed resolutions honoring him as a World Cultural Celebrity.
 *   **1821:** Phan Huy Chu presented his work **"Lich Trieu Hien Chuong Loai Chi"** to Emperor Minh Mang and was appointed as an editor at the Imperial Academy.
 *   **1821 - 1827:** The peasant uprising led by Phan Ba Vanh in the northern coastal plains.
 *   **1821:** The **National History Office** (Quoc Su Quan) was established to compile the national history and veritable records of the dynasty.
@@ -1111,6 +1115,7 @@
 *   **1838:** The Governor of Quang Ha province petitioned Emperor Minh Mang to exempt the boats of the Hoang Sa team from taxes, which was approved. The same year, the Minister of Public Works (Thuong thu Bo Cong) submitted a report to the Emperor detailing the team's activities on the Paracel Islands.
 *   **1838:** Bishop Jean Louis Taberd published the map "An Nam đại quốc họa đồ" (Tabula Geographica Imperii Anamitici), explicitly marking the Paracel Islands (Paracel seu Cát Vàng) as part of Vietnam's territory.
 *   **Mar. 1838:** Emperor Minh Mang officially changed the national title to **Dai Nam**.
+*   **1839:** Emperor Minh Mạng summoned poetess Bà Huyện Thanh Quan (Nguyễn Thị Hinh) to the imperial capital of Huế to serve as Imperial Court Tutor (*Cung Trung Giáo Tập*), instructing princesses and royal concubines. She was one of the most prominent female poets of classical Vietnamese literature, celebrated for exemplary Tang-style lyric poems such as *Crossing the Ngang Pass* (*Qua Đèo Ngang*) and *Nostalgia for Thăng Long* (*Thăng Long thành hoài cổ*).
 *   **Apr. 1839:** The first steamship built by Vietnamese mechanics (Hoang Van Lich, Vu Huy Trinh) was successfully tested on the Perfume River.
 *   **Jun. 1839:** Emperor Minh Mang ordered the implementation of the **"Quan dien"** (Equal-field) land reform in Binh Dinh province, redistributing communal land to the people.
 *   **1840:** Emperor Minh Mang organized a naval live-fire exercise with dummy targets at sea, demonstrating the focus on naval combat readiness.
@@ -1206,6 +1211,7 @@
 *   **1870:** The insurgent forces of Truong Quyen (son of Truong Dinh) closely coordinated with the movement of Pu Kom Po, expanding anti-French resistance operations along the southwestern border (Tay Ninh, Chau Doc), demonstrating a historic alliance against colonial aggression.
 *   **1871:** In tribute to the unyielding loyalty and heroic sacrifice of Grand Marshal Trương Định, Emperor Tự Đức issued an imperial decree posthumously conferring honorary ranks upon him and ordering the construction of a memorial temple at his ancestral village of Tư Cung (Bình Sơn, Quảng Ngãi).
 *   **1871:** French merchant and explorer Jean Dupuis unilaterally led an armed flotilla up the Red River to Yunnan to illicitly trade weapons and salt, defying prohibitions from the Hue imperial court and initiating a series of provocations that led to the first French assault and capture of Tonkin (1873).
+*   **1871:** Patriotic Confucian scholar Nguyễn Khuyến achieved first place across all three imperial examination tiers—Regional (Giải nguyên in 1864), Metropolitan (Hội nguyên), and Palace (Đình nguyên - Hoàng giáp) exams—under Emperor Tự Đức, earning the illustrious title "Tam Nguyên Yên Đổ" in Vietnamese academic history.
 *   **Nov. 1872:** Jean Dupuis, a French merchant, began causing disturbances in Tonkin (Bac Ky), under the pretext of transporting goods to Yunnan.
 *   **1873:** The administrative seat of Doan Hung prefecture (Son Tay province) was burned and destroyed by bandits.
 *   **1873:** French explorer Jean Dupuis arrived at Ninh Hai (Hai Phong) with small boats from Saigon, beginning his exploration of the Red River to find a trade route to Yunnan, China.
@@ -1253,6 +1259,7 @@
 *   **Dec. 11 - 16, 1883:** Battle of Son Tay. French Admiral Amédée Courbet led a massive expeditionary force of 9,000 troops to attack the heavily fortified Son Tay Citadel, defended by the Black Flag Army alongside Vietnamese and Qing forces. After several days of bloody fighting, the French breached the western gate, forcing Luu Vinh Phuc to retreat. The capture of Son Tay was a devastating blow to the anti-French resistance.
 *   **1884 - 1945:** France continued to administer the Spratly and Paracel Islands as territories of French Indochina.
 *   **1884:** French researcher Julien recorded the distinct guild street organization in Hanoi (e.g., Hang Dong, Hang Tranh), highlighting the unique urban adaptation of rural village guild structures where each trade concentrated on a specific street.
+*   **1884:** Following the Nguyễn court's signing of the Treaty of Giáp Thân (1884) recognizing French protectorate rule, Governor-General Nguyễn Khuyến resigned from government service and retired in seclusion to Yên Đổ village (Hà Nam), preserving Confucian integrity and penning realism-satirical verse and celebrated autumn poems (*Thu điếu*, *Thu vịnh*, *Thu ẩm*).
 *   **Jan. 1884:** Emperor Kien Phuc ordered the study and manufacturing of Western-style guns and the testing of Western textile techniques.
 *   **Feb. 1884:** Emperor Kien Phuc issued a decree requiring all degree holders (Doctors, Bachelors) to accept government posts to serve the country, penalizing those who refused.
 *   **Mar. 6 - 12, 1884:** Battle of Bac Ninh. French forces under General Charles-Théodore Millot launched a massive campaign with over 16,000 troops to capture the highly strategic Bac Ninh Citadel, defended by 20,000 Qing and Black Flag troops. Utilizing superior artillery and a flanking maneuver across the Duong River, the French routed the defenders.
@@ -1349,6 +1356,7 @@
 *   **Jun. 27, 1908:** The "Hanoi Poisoning Plot" broke out, in which a group of Vietnamese soldiers and patriots attempted to poison French soldiers in Hanoi and launch an uprising, but it failed.
 *   **Sep. 1908:** France and Japan signed a treaty, under which the Japanese government expelled Vietnamese patriots and students, leading to the collapse of the Dong Du Movement.
 *   **Dec. 1908:** The French colonialists ordered the closure of the Dong Kinh Nghia Thuc school and suppressed its participants.
+*   **05/02/1909 (15th day of the 1st lunar month, Year of the Earth Rooster):** Prominent poet Nguyễn Khuyến (Tam Nguyên Yên Đổ) passed away in his hometown of Yên Đổ (Hà Nam) at age 74, leaving an extensive Sino-Vietnamese and Nôm literary heritage depicting rural life and sorrow over national subjugation.
 *   **Mar. 27, 1909:** Nguyen Tuat, the father of the real-life "Luom" (Nguyen Thanh), was born in Lai Trung, Quang Tho commune, Quang Dien district, Binh Tri Thien province (now Thua Thien - Hue). He later worked as a postal escort and moved to various locations, including Quy Nhon and Nha Trang.
 *   **Jun. 6, 1909:** The Viceroy of Liangguang (China) sent a brief expedition, commanded by Admiral Li Chun, for a 24-hour landing on several islands of the Paracels to fire cannons and raise the Chinese flag. France made no official protest at the time.
 *   **Jul. 1, 1909:** Pho bang Nguyen Sinh Sac was appointed by the royal court as the magistrate of Binh Khe district (Binh Dinh province). During his tenure, he consistently sided with the poor and punished oppressive local bullies, famously remarking that serving as a feudal mandarin was merely being "a slave among slaves, and further enslaved."
@@ -1381,6 +1389,7 @@
 *   **Mar. 13, 1915:** The righteous army of the Vietnam Restoration League attacked the Ta Lung post (Lang Son) but failed.
 *   **Sep. 28, 1915:** Political prisoners at Lao Bao Prison, led by Ho Ba Kien and Lieu Thanh, rebelled and broke out of the prison.
 *   **1916:** Dinh Thi Van (real name Dinh Thi Mau) was born in Dong An village, Xuan Truong district, Nam Dinh province. She would later become a legendary female intelligence colonel and a Hero of the People's Armed Forces, renowned for her undercover operations in South Vietnam.
+*   **1916:** Poet Tản Đà (Nguyễn Khắc Hiếu) published the poetry volume *Khối tình con I* (Little Love Block I) and *Giấc mộng con I*, creating a major literary phenomenon in the early 20th century that bridged classical literature and modern Vietnamese poetry.
 *   **Feb. 15, 1916:** Secret societies in Cochinchina organized a major riot in Saigon, attempting to break into the Central Prison to rescue Phan Xich Long, but it failed.
 *   **May 3, 1916:** The uprising led by King Duy Tan along with Thai Phien and Tran Cao Van was discovered and failed. King Duy Tan was arrested and exiled to Réunion Island.
 *   **Aug. 1916:** Emperor Khai Dinh issued a ban on commoners wearing yellow clothing and colors resembling yellow to maintain distinction from royalty.
@@ -1422,6 +1431,7 @@
 *   **Dec. 25-30, 1920:** Nguyễn Ái Quốc attended the 18th Congress of the French Socialist Party in Tours, voted to join the Third International, and co-founded the French Communist Party, marking his transition from patriotism to Marxism-Leninism.
 *   **1921:** After enduring 13 years of arduous penal servitude at Con Dao Prison with unyielding integrity, Huynh Thuc Khang was released by French colonial authorities.
 *   **1921:** In Paris, Nguyen Ai Quoc along with revolutionary activists from French colonies (Algeria, Madagascar, Senegal, Guadeloupe, Martinique) founded the **Intercolonial Union** (Union Intercoloniale), establishing the first united solidarity front connecting liberation movements of oppressed peoples worldwide.
+*   **1921:** Poet Tản Đà founded *An Nam tạp chí* (Annam Magazine) in Hanoi, an influential literary and intellectual periodical that gathered prominent Vietnamese writers and intellectuals in the early 20th century.
 *   **Mar. 30, 1921:** The Southern Military Government in Guangdong (not recognized by the central Chinese government or foreign powers) announced the administrative annexation of the Paracel Islands into Ya District (Hainan). France did not officially protest to avoid stimulating Chinese nationalism.
 *   **Apr. 12, 1921:** Albert Sarraut, then Minister of Colonies, presented the "Bill on Colonial Exploitation" to the French National Assembly.
 *   **Jun. 1921:** The Committee for Colonial Studies was established within the French Communist Party, with Nguyen Ai Quoc in charge of the Indochina subcommittee.
@@ -1560,6 +1570,7 @@
 *   **1936:** The Dai Viet National Socialist Party was founded.
 *   **1936:** The Vietnam Independence Motion Alliance Association (Viet Nam Doc Lap Van Dong Dong Minh Hoi), a precursor organization with a similar name to the Viet Minh, was established in Nanjing (China) by Vietnamese anti-imperialist activists.
 *   **1936:** Returning from Con Dao prison, Le Duan operated in Central Vietnam. As Secretary of the Party Committee of Central Vietnam (Xu uy Trung Ky), he led the Democratic Front movement (1936-1939), initiating struggles for livelihood and democratic rights.
+*   **1936:** Poet Hàn Mặc Tử (Nguyễn Trọng Trí) published his debut collection *Gái quê* (Country Girl) and co-founded the "Bàn Thành Tứ Hữu" (Four Friends of Bàn Thành / School of Disordered Poetry) with Chế Lan Viên, Yến Lan, and Quách Tấn in Bình Định, introducing a uniquely intense symbolist and surrealist style to the New Poetry Movement.
 *   **May 3, 1936:** The French Popular Front, led by Léon Blum, won the election, opening a favorable period for the democratic movement in the colonies.
 *   **May 31, 1936:** Professor, Doctor, People's Physician Dang Hanh De was born in Hanoi. He is one of the foremost pioneers who laid the groundwork and advanced cardiovascular and thoracic surgery in Vietnam, an outstanding disciple continuing the legacy of Professor Ton That Tung, and the Founding President of the Vietnam Society of Cardiovascular and Thoracic Surgery.
 *   **Jul. 26, 1936:** The Party Central Committee conference in Shanghai (China), chaired by Comrade Le Hong Phong, decided to establish the Indochinese Anti-Imperialist People's Unified Front and appointed Comrade Ha Huy Tap as General Secretary (serving until March 1938).
@@ -1568,12 +1579,15 @@
 *   **Dec. 30, 1936:** The French government issued a decree on the Labor Law in Indochina, regulating certain conditions for workers.
 *   **1937:** Chief Public Works Engineer Gauthier, on behalf of the French colonial administration, carried out a mission to study the possibility of building maritime and aviation infrastructure and a lighthouse on the Paracel Islands.
 *   **1937:** The Indochinese Democratic Party was established.
+*   **1937:** Poet Chế Lan Viên (Phan Ngọc Hoan) published his groundbreaking debut poetry collection *Điêu tàn* (Ruins) at age 17, creating a sensation with its haunting, mystical reflections on ancient Champa and marking the emergence of the School of Disordered Poetry.
 *   **Jan. 1 - Mar. 14, 1937:** Justin Godart, an envoy from the French government, visited Indochina to investigate the situation, sparking a vigorous mass movement to welcome him and present demands.
 *   **Feb. 18, 1937:** The French Government sent a diplomatic note to the Chinese Embassy proposing an amicable settlement or, failing that, international arbitration regarding the sovereignty dispute over the Paracel Islands. The proposal was unsuccessful, and the sovereignty dispute continued.
 *   **Feb. 28, 1937:** The French cruiser *Lamotte-Picquet* conducted a survey of the Paracel Islands and found them deserted. The military authorities concluded that France could not tolerate any foreign occupation there.
 *   **May 5, 1937:** General Secretary Ha Huy Tap (alias Thanh Huong) published the book *Trotsky and Counter-Revolution*.
+*   **07/1937:** Young revolutionary Nguyễn Kim Thành (Tố Hữu) was inducted into the Indochinese Communist Party in Huế and composed the landmark poem *Từ ấy* (Since Then), marking the beginning of his distinguished revolutionary poetic career intertwined with Vietnam's modern history.
 *   **1938:** Nguyen Ai Quoc returned to China and worked in the Eighth Route Army.
 *   **1938:** Huynh Tan Phat graduated valedictorian in architecture from the Indochina Fine Arts College.
+*   **1938:** Poet Xuân Diệu published *Thơ thơ* (Poetry), a masterpiece that propelled him to the pinnacle of the New Poetry Movement and earned him induction into the Tự Lực Văn Đoàn (Self-Reliance Literary Group); he was celebrated as the "newest among the new poets" and Vietnam's "King of Love Poetry".
 *   **Feb. 1938:** The Dai Viet Democratic Party was founded.
 *   **Feb. 29, 1938:** King Bao Dai issued Imperial Decree No. 10, separating the Paracel Islands (Hoang Sa) from Nam Ngai province and placing them under the administration of Thua Thien province.
 *   **Mar. 29-30, 1938:** The Party Central Committee conference decided to change the name of the Front to the Indochinese Democratic Front and elected Comrade Nguyen Van Cu as General Secretary.
@@ -1593,18 +1607,21 @@
 *   **Mar. 12, 1939:** The Vietnam Restoration League (Phuc Quoc Hoi) was officially launched in Shanghai.
 *   **Mar. 31, 1939:** The Japanese Government declared its control over the Spratly Islands. France protested this action on April 4.
 *   **May 5, 1939:** Governor-General Jules Brévié amended the 1938 decree to establish two separate administrative delegations for the Paracel Islands: the "Crescent and dependencies" and the "Amphitrite and dependencies".
+*   **07/06/1939:** Poet and journalist Tản Đà (Nguyễn Khắc Hiếu) passed away in Hanoi at age 50. Commemorated as "the man of two centuries," he was hailed by literary critic Hoài Thanh as the leading figure presiding over Vietnamese poetic transition before the New Poetry Movement.
 *   **Jul. 5, 1939:** Hoa Hao Buddhism, an indigenous religion, was founded by Mr. Huynh Phu So in An Giang province.
 *   **Sep. 1, 1939:** World War II broke out, and France entered the war.
 *   **Sep. 28, 1939:** The Governor-General of Indochina issued a decree outlawing the Indochinese Communist Party, beginning a period of white terror.
 *   **Nov. 6-8, 1939:** The 6th Conference of the Party Central Committee in Ba Diem (Hoc Mon) decided to shift the strategic direction, prioritizing the task of national liberation and establishing the Indochinese Anti-Imperialist National United Front.
 *   **Dec. 10, 1939:** The Dai Viet Nationalist Party was founded.
 *   **1940:** Architect Huynh Tan Phat opened the first private architectural office by a Vietnamese in Saigon. In the same year, Luu Tan Phat was a core leader in the Nam Ky Uprising in his home commune in Tien Giang.
+*   **1940:** Poet Nguyễn Bính published the celebrated collection *Lỡ bước sang ngang* and received the Tự Lực Văn Đoàn poetry prize for *Tâm hồn tôi*, establishing himself as the preeminent folk-pastoral poet of the New Poetry Movement with verses rich in traditional Vietnamese rural soul and folk rhythms.
 *   **Feb. 1, 1940:** Nguyễn Văn Trỗi was born in Thanh Quýt village, Điện Bàn district, Quảng Nam province. He later became a heroic Saigon urban commando whose unyielding spirit before execution made him a national symbol of revolutionary patriotism.
 *   **Jun. 22, 1940:** The French government surrendered to Nazi Germany.
 *   **Sep. 1940:** The Vietnam National Construction Army (military wing of Phuc Quoc Hoi) attacked Lang Son.
 *   **Sep. 22, 1940:** Japanese troops crossed the border and attacked Lang Son. The French colonialists quickly signed a surrender agreement, allowing Japan to enter Indochina.
 *   **Sep. 27, 1940:** The Bac Son Uprising broke out.
 *   **Nov. 6-9, 1940:** The 7th Conference of the Party Central Committee in Dinh Bang (Bac Ninh) decided to maintain the Bac Son armed forces and postpone the Nam Ky Uprising.
+*   **11/11/1940:** Gifted poet Hàn Mặc Tử passed away from leprosy at the Quy Hòa leprosarium (Quy Nhơn, Bình Định) at the age of 28, leaving behind immortal poetic masterpieces including *Đau thương* (*Mad Poetry*), *Xuân như ý*, *Đây thôn Vĩ Dạ*, and *Mùa xuân chín*.
 *   **Nov. 23, 1940:** The Nam Ky Uprising broke out but was brutally suppressed by the French colonialists. The red flag with a gold star appeared for the first time.
 *   **1941:** Architect Huynh Tan Phat won first prize in the design competition for the Indochina Exhibition Center in Saigon.
 *   **Jan. 13, 1941:** The Do Luong Mutiny, led by Captain Cung, broke out in Nghe An.
@@ -1945,6 +1962,7 @@
 * **1954:** Martyr Cao Thế Chiến (Đại đội phó Đại đội 2, Trung đoàn 101, Đại đoàn 325. Hy sinh trong trận đánh ở khu vực Na Kham trong Chiến dịch Trung Lào năm 1954) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland.
 * **1954:** Martyr Lê Công Khai (Đại đội trưởng bộ binh Liên khu 5, hy sinh khi đánh đồn Đak Đoa (nay thuộc xã Đak Sơmei, Gia Lai)) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland.
 * **1954:** Martyr Ngô Chí Quốc (Tiểu đội phó trinh sát Tiểu đoàn 303, Đại đoàn 330. Hy sinh trong trận đánh Cầu Đinh lần thứ hai (tháng 3 năm 1954)) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland.
+*   **1954:** Poet Tố Hữu published the poetry collection *Việt Bắc* (1946 - 1954), a supreme achievement of revolutionary verse portraying the long resistance war against French colonialism, which won First Prize in the Vietnam Arts Association Awards (1954–1955).
 * **01/1954:** Martyr Hoang Van No (courier soldier, Company 56, Battalion 440, Regiment 98, Division 316) bravely fought with a bayonet, eliminating 5 enemy soldiers before sacrificing his life at Dien Bien Phu.
 *   **Jan. 26, 1954:** At the Dien Bien Phu front, the Campaign Command decided to change the operational guideline from "swift attack, swift victory" to **"steady attack, steady advance."**
 * **01/02/1954:** Martyr To Vinh Dien (37mm anti-aircraft gun squad leader of Company 827, Battalion 394, Regiment 367) heroically used his own body to block and save an artillery piece from falling into an abyss during the Battle of Dien Bien Phu.
@@ -2298,6 +2316,7 @@
 *   **Jan. 8 - Jan. 19, 1966:** The US and allied forces launched **Operation Crimp** with 12,000 troops, tanks, and B-52 support targeting the "Iron Triangle" (Cu Chi) to destroy the headquarters of the Saigon - Gia Dinh Military Zone. The revolutionary forces relied on the tunnel system to counterattack and preserve their forces.
 *   **Jan. 9, 1966:** South Korean troops conducted a raid and massacred 37 civilians in Kim Tai hamlet (Nhon Phong, Binh Dinh).
 *   **Jan. 16, 1966:** President Ho Chi Minh spoke at a high-level cadre conference studying the 12th Central Committee Resolution, affirming the determination to defeat the US aggressors regardless of troop numbers.
+*   **20/01/1966 (New Year's Eve of the Lunar Year of the Wood Snake):** Gifted poet Nguyễn Bính passed away suddenly in Nam Định at age 48. In 2000, he was posthumously awarded the Hồ Chí Minh Prize in Literature and Arts for his distinguished contributions to the New Poetry Movement and resistance literature.
 *   **Jan. 25, 1966:** The Saigon - Gia Dinh Military Command held a conference to summarize the battle, evaluating the great effectiveness of the tunnel system in "tunnel warfare."
 * **04/02/1966:** Martyr Luu Van Liet (commando fighter of Vinh Long town) heroically sacrificed his life during a surprise attack eliminating numerous enemy officers and troops at Le Hoa restaurant.
 *   **1966 - Early 1967:** Le Thi Tuyet (Quang Tri) participated with the district armed forces in fighting sweep operations in the Xuan - Vinh cluster, eliminating two enemies. She was subsequently sent to study nursing.
@@ -2332,6 +2351,7 @@
 * **1967:** Martyr Nguyễn Văn Quỳ (Đại đội phó bộ đội địa phương huyện Nhà Bè. Tham gia chiến đấu 24 trận cùng đơn vị diệt 149 tên, bắt sống 15 tên, thu 59 súng và nhiều máy móc, tài liệu. Hy sinh khi chiến đấu chống trận càn Cedar Falls vào vùng "Tam giác sắt" năm 1967) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland.
 * **1967:** Hero of the People's Armed Forces Hồ Hảo Hớn (Bí thư Thành Đoàn đầu tiên của Sài Gòn - Gia Định) passed away.
 * **1967:** Martyr Trần Kim Chiến (Liệt sĩ, nguyên Phó trưởng ty Công an Lào Cai. Hy sinh tháng 8 năm 1967 tại xã Phan Thanh, huyện Phan Lý Chàm (nay là huyện Bắc Bình), tỉnh Bình Thuận) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland.
+*   **1967:** Poet Xuân Quỳnh composed the immortal lyric poem *Sóng* (Waves) at Diêm Điền beach (Thái Thụy, Thái Bình) amidst the escalation of US bombing in North Vietnam. The work rapidly became one of the most cherished love poetry masterpieces in modern Vietnamese literature.
 *   **Jan. 1967:** The 13th Conference of the Party Central Committee (3rd tenure) decided to step up the diplomatic struggle, opening up a "fighting while negotiating" situation.
 *   **Jan. 1, 1967:** Nguyen Thi Suot was officially awarded the title of Hero of the Transport Sector in the anti-US resistance for national salvation by the Party and State.
 *   **Jan. 1, 1967:** MiG-17 fighter pilot Nguyen Van Bay (who shot down 7 US aircraft) was awarded the title Hero of the Armed Forces by President Ho Chi Minh.
@@ -2837,6 +2857,7 @@
 *   **Jun. 1985:** The 8th Conference of the Central Committee (5th tenure) issued a resolution on price-wage-money, deciding to definitively abolish the centralized bureaucratic subsidy mechanism.
 * **29/08/1985:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Ngo Thi Hue (alias Minh Hiep, "Little Squirrel", staunch female reconnaissance and intelligence operative of the Quang Da Security Board).
 *   **Sep. 14, 1985:** A general adjustment of prices, wages, and money began nationwide, implementing a currency exchange at a rate of 10 old dong for 1 new dong.
+*   **18/12/1985:** Renowned poet Xuân Diệu (Corresponding Member of the Academy of Arts of the GDR) passed away in Hanoi at age 69. He made monumental contributions to modern Vietnamese poetry and literary criticism, and was posthumously awarded the First Class Hồ Chí Minh Prize in Literature and Arts in 1996.
 
 ### **Early Doi Moi Period - Gradually Overcoming Crisis (1986 - 1990)**
 
@@ -2863,12 +2884,14 @@
 *   **May 7, 1988:** General Le Duc Anh visited the Spratly Islands and read an oath affirming Vietnam's absolute determination to defend the archipelago and its territorial waters.
 *   **May 20, 1988:** The Politburo issued Resolution 13 on foreign policy tasks and policies, advocating a strong shift in foreign affairs to serve the economy, "make more friends, fewer enemies," and diversify international relations.
 *   **Jul. 22, 1988:** The Vietnam Socialist Party announced its dissolution.
+*   **29/08/1988:** Renowned poetess Xuân Quỳnh, alongside her husband, distinguished playwright Lưu Quang Vũ, and their young son Lưu Quỳnh Thơ, tragically passed away in a traffic accident in Hải Dương. In 2017, she was posthumously awarded the Hồ Chí Minh Prize in Literature and Arts for her collections *Lời ru trên mặt đất* and *Bầu trời trong quả trứng*.
 *   **Oct. 20, 1988:** The Vietnam Democratic Party announced its dissolution after completing its historical mission.
 *   **1989:** Truong Sa District (Spratly Islands) was placed under the administrative jurisdiction of the newly re-established Khanh Hoa province (formerly part of Phu Khanh province).
 * **1989:** Hero of the People's Armed Forces Lê Văn Đạm (Chính trị viên Xã đội An Nhơn Tây huyện Củ Chi, ngọn cờ đầu phong trào "Đào hầm địa đạo Củ Chi") passed away.
 *   **Mar. 1989:** The 6th Conference of the Party Central Committee (6th tenure) specified and developed the policy of a multi-sector economy, acknowledging the long-term existence of private economic sectors.
 *   **Apr. 5, 1989:** The Vietnamese government announced it would withdraw all its volunteer troops from Cambodia by the end of September 1989, with or without a political solution.
 *   **May 1989:** China occupied an additional islet in the Spratly archipelago, continuing its slow expansion of control following the 1988 naval clash.
+*   **19/06/1989:** Poet and literary critic Chế Lan Viên passed away in Ho Chi Minh City at age 69. A pillar of modern Vietnamese and revolutionary poetry (*Ánh sáng và phù sa*, *Người đi tìm hình của Nước*), he was posthumously awarded the First Class Hồ Chí Minh Prize in Literature and Arts in 1996.
 *   **Aug. 1989:** Vietnam completed the construction of an economic-scientific-technical service complex in the Spratlys, located on the Vietnamese continental shelf.
 *   **Sep. 26, 1989:** The last units of Vietnamese volunteer troops and military experts officially completed their withdrawal from Cambodia, concluding a 10-year international mission to help rebuild the country after the Khmer Rouge regime.
 *   **Sep. 30, 1989:** Huynh Tan Phat passed away in Ho Chi Minh City.
@@ -3037,6 +3060,7 @@
 * **2002:** Hero of the People's Armed Forces Nguyễn Lương Định (Trung sĩ, thương binh 1/4, nguyên Tiểu đội trưởng, Đại đội 4, Tiểu đoàn 668, Trung đoàn Đường ống 592, Bộ Tư lệnh Trường Sơn. Người xung phong vác đường ống qua trọng điểm để rà phá bom từ trường, bảo vệ cả Đại đội trên tuyến đánh trọng điểm Pha Bang Nưa, Savanakhet) passed away.
 *   **Oct. 14, 2002:** The Prime Minister of the Socialist Republic of Vietnam issued Decision No. 132/2002/QD-TTg, officially taking the 7th time zone according to the international time zone system as the official time of Vietnam.
 *   **Oct. 29, 2002:** The International Trade Center (ITC) fire occurred around 1:30 PM at 101 Nam Ky Khoi Nghia Street, District 1, Ho Chi Minh City, becoming the most catastrophic fire disaster in Saigon's history, killing 60 people, injuring 70 others, and causing over 32 billion VND in property damage. The fire broke out at the Blue Disco club (on the 2nd and 3rd floors) due to careless welding work, where high-temperature sparks ignited acoustic foam insulation. Toxic smoke and flames rapidly engulfed the 6-story building, trapping many victims as emergency exits were blocked or substandard. Following the tragedy, authorities prosecuted the welders responsible and brought criminal charges against the ITC building management for gross negligence in fire safety standards.
+*   **09/12/2002:** Prominent revolutionary poet Tố Hữu (former Politburo Member and Vice Chairman of the Council of Ministers) passed away in Hanoi at age 82. Regarded as the leading poet of Vietnam's revolutionary literature, he was awarded the Gold Star Order and the First Class Hồ Chí Minh Prize in Literature and Arts in 1996.
 * **2003:** Hero of the People's Armed Forces Nguyễn Tư Cường (Tiểu đoàn phó đặc công thuộc Tiểu đoàn 323, Đại đoàn 324. Sau là Thiếu tướng, Tư lệnh Binh chủng Đặc công, Trưởng Đoàn Chuyên gia Quân sự Đặc công tại Cuba) passed away.
 * **2003:** Hero of the People's Armed Forces Bùi Quang Mại (Đại đội trưởng bộ binh, Tiểu đoàn 79, Trung đoàn 102, Đại đoàn 308. Sau là Chủ nhiệm Chính trị Trung đoàn 102, Sư đoàn 308, đại biểu Quốc hội khoá III (1964-1971)) passed away.
 * **2003:** Hero of the People's Armed Forces Đặng Văn Thanh (Đại tá, khi tuyên dương là Thượng úy, Chính trị viên Đoàn tàu không số thuộc Đoàn 125 Hải quân. Tham gia vận chuyển 18 tấn vũ khí trên tàu gỗ 41 tại cảng Bính Động (Hải Phòng) mở đường mới vào Bà Rịa, cung cấp vũ khí cho chiến trường miền Đông Nam Bộ đêm ngày 26 tháng 9 năm 1963) passed away.

@@ -999,6 +999,7 @@
 ### **Thời kỳ Nhà Nguyễn Độc lập (1802 - 1858)**
 
 *   **1802:** Triều Nguyễn được thành lập, vua Gia Long lên ngôi.
+*   **1802:** Nguyễn Du (1765 - 1820) bắt đầu ra làm quan triều Nguyễn dưới thời vua Gia Long, từng giữ các chức Tri huyện Phù Dung, Tri phủ Thường Tín, rồi Hữu Tham tri Bộ Lễ.
 *   **03/02/1802:** Trận Trấn Ninh. Trận kịch chiến cuối cùng giữa quân Tây Sơn và quân chúa Nguyễn. Mặc dù nữ tướng Bùi Thị Xuân đã dũng cảm cưỡi voi chỉ huy những đợt tiến công quyết liệt, quân Tây Sơn cuối cùng vẫn bị đánh bại trước hệ thống phòng thủ vững chắc của quân Nguyễn tại lũy Trấn Ninh. Cùng lúc đó, thủy quân Tây Sơn cũng bị tiêu diệt tại cửa Nhật Lệ. Thất bại thảm hại này đã đánh dấu sự sụp đổ hoàn toàn của vương triều Tây Sơn.
 *   **05/1802:** Lê Văn Duyệt được phong làm *Khâm sai Chưởng Tả quân*, tước Quận công, trở thành một trong những đệ nhất khai quốc công thần của triều đại.
 *   **31/05/1802 (01/05 năm Nhâm Tuất):** Nguyễn Ánh chính thức đặt niên hiệu là **Gia Long**, ban chiếu đại xá thiên hạ.
@@ -1019,7 +1020,7 @@
 *   **1805 (Năm Gia Long thứ 4):** Việc lập địa bạ trên toàn quốc cho phép nhìn nhận rõ sự phân hóa xã hội ở nông thôn. Phân tích địa bạ các làng xã (như ở Hà Đông, Từ Liêm) cho thấy ruộng đất tư hữu chiếm tỷ lệ cao nhưng tình trạng sở hữu lại rất phân tán, phổ biến là sở hữu nhỏ của nông dân, phản ánh sự phân hóa giai cấp chậm và mang nặng tính đẳng cấp ở phương Đông.
 *   **1805:** Vua Gia Long cho đổi phủ Phụng Thiên thành phủ Hoài Đức.
 *   **1805:** Vua Gia Long ra lệnh xây dựng lại Thành Hà Nội theo kiểu Vauban và xây dựng Cột cờ Hà Nội, củng cố trung tâm hành chính Bắc Thành.
-*   **1805 - 1820:** Truyện Kiều được Nguyễn Du sáng tác bằng chữ Nôm.
+*   **1805 - 1820:** Đại thi hào Nguyễn Du sáng tác kiệt tác truyện thơ Nôm *Đoạn trường tân thanh* (*Truyện Kiều*) gồm 3.254 câu thơ lục bát, đỉnh cao chói lọi của nền văn học trung đại Việt Nam.
 *   **05/1805:** Bắt đầu xây dựng **Kinh thành Huế**, công trình kiến trúc quân sự quy mô lớn kết hợp giữa phong thủy phương Đông và kiểu đồn lũy Vauban phương Tây.
 *   **05/1806:** Vua Gia Long chính thức cử hành lễ lên ngôi **Hoàng đế** tại điện Thái Hòa, khẳng định vị thế độc tôn của vương triều.
 *   **1807:** Vua Gia Long tổ chức khoa thi Hương đầu tiên.
@@ -1035,6 +1036,8 @@
 *   **12/1812:** Vua Gia Long xuống chiếu lấy lại quốc hiệu là **Đại Việt**.
 *   **1813:** Lê Văn Duyệt và Nguyễn Văn Thụy đưa vua Nặc Ông Chân về nước Chân Lạp (Campuchia) phục vị. Lê Văn Duyệt cho xây thành Nam Vang và thành La Lem để chứa lương thực, khí giới bảo hộ Chân Lạp.
 *   **1813:** Bộ *Hoàng Việt luật lệ* được khắc in và ban hành trên toàn quốc.
+*   **1813:** Vua Gia Long cử Nguyễn Du làm Chánh sứ dẫn đầu đoàn sứ bộ sang nhà Thanh (Trung Quốc). Trong chuyến đi sứ kéo dài gần hai năm, ông sáng tác tập thơ chữ Hán bất hủ *Bắc hành tạp lục*, thể hiện tư tưởng nhân đạo sâu sắc và cái nhìn sắc sảo về hiện thực xã hội.
+*   **1814:** Nữ sĩ Hồ Xuân Hương biên soạn tập thơ *Lưu hương ký* (gồm 24 bài thơ chữ Hán và 28 bài thơ Nôm). Cùng với hệ thống thơ Nôm truyền tụng độc đáo mang tư tưởng bình quyền và nhân văn sâu sắc, bà được tôn xưng là "Bà chúa thơ Nôm" và được UNESCO vinh danh là Danh nhân văn hóa thế giới vào năm 2021.
 *   **02/1814:** Thừa Thiên Cao Hoàng hậu (Tống Thị Lan) băng hà.
 *   **1815:** Vụ án Nguyễn Văn Thành bắt đầu từ bài thơ của người con trai là Nguyễn Văn Thuyên. Vụ án này dẫn đến cái chết của đại công thần Nguyễn Văn Thành vào năm 1817, đánh dấu cuộc thanh trừng nội bộ để củng cố quyền lực của vua Gia Long.
 *   **1815:** Vua Gia Long cử Phạm Quang Ảnh chỉ huy một đơn vị hải quân đi thăm dò các quần đảo và vẽ bản đồ thủy trình tại đó.
@@ -1059,6 +1062,7 @@
 *   **05/1820:** Vua Minh Mạng ra lệnh đặt tên các đường phố trong Kinh thành (Huế) và cho dựng biển ghi tên, đánh dấu nỗ lực sớm trong quy hoạch và quản lý đô thị.
 *   **07/1820:** Vua Minh Mạng xuống chiếu nghiêm cấm thuốc phiện. Đây là lần đầu tiên triều đình ban hành lệnh cấm này do tác hại của nó đối với quan lại và dân chúng.
 *   **09/1820:** Tổng trấn Lê Văn Duyệt ra lệnh xử trảm Phó Tổng trấn Huỳnh Công Lý (cha vợ của vua Minh Mạng) vì tội tham nhũng và nhũng nhiễu dân chúng trong khi đào kênh Tàu Hủ. Sự kiện này thể hiện tính nghiêm minh "pháp bất vị thân" của Lê Văn Duyệt nhưng cũng làm gia tăng mâu thuẫn giữa ông và triều đình.
+*   **16/09/1820 (10/08 năm Canh Thìn):** Đại thi hào dân tộc Nguyễn Du qua đời tại kinh thành Huế khi đang chuẩn bị làm Chánh sứ đi sứ nhà Thanh lần thứ hai. Năm 1965 và 2013, Đại hội đồng UNESCO đã thông qua nghị quyết vinh danh ông là Danh nhân văn hóa thế giới.
 *   **1821:** Phan Huy Chú dâng bộ sách **"Lịch triều hiến chương loại chí"** lên vua Minh Mạng và được bổ nhiệm chức Biên tu tại Quốc Tử Giám.
 *   **1821 - 1827:** Cuộc nổi dậy của nông dân do Phan Bá Vành lãnh đạo ở vùng đồng bằng ven biển Bắc Bộ.
 *   **1821:** Vua Minh Mạng cho lập **Quốc Sử Quán**, chuyên trách việc biên soạn lịch sử của triều đại và đất nước.
@@ -1111,6 +1115,7 @@
 *   **1838:** Quan Tuần phủ tỉnh Quảng Hà đề nghị và được vua Minh Mạng chấp thuận bãi bỏ các khoản thuế khóa đánh vào tàu thuyền của đội Hoàng Sa. Cùng năm, Thượng thư Bộ Công làm bản báo cáo lên nhà vua về các hoạt động của đội tại quần đảo Hoàng Sa.
 *   **1838:** Giám mục Jean Louis Taberd xuất bản bản đồ "An Nam đại quốc họa đồ", trong đó ghi rõ quần đảo Hoàng Sa (Paracel seu Cát Vàng) thuộc chủ quyền của lãnh thổ Việt Nam.
 *   **03/1838:** Vua Minh Mạng chính thức đổi quốc hiệu nước ta thành **Đại Nam**.
+*   **1839:** Vua Minh Mạng triệu nữ sĩ Bà Huyện Thanh Quan (Nguyễn Thị Hinh) vào kinh đô Huế giữ chức Cung Trung Giáo Tập, phụ trách dạy học cho các công chúa và cung phi trong hoàng cung triều Nguyễn. Bà là một trong những nữ sĩ tiêu biểu nhất của văn học trung đại Việt Nam với các bài thơ Đường luật hoài cổ mẫu mực như *Qua Đèo Ngang*, *Thăng Long thành hoài cổ*.
 *   **04/1839:** Chiếc tàu thủy chạy bằng hơi nước đầu tiên do người Việt Nam (Hoàng Văn Lịch, Vũ Huy Trinh) chế tạo được chạy thử nghiệm thành công trên sông Hương.
 *   **06/1839:** Vua Minh Mạng cho thực hiện phép **"Quân điền"** tại tỉnh Bình Định, chia lại ruộng đất công cho dân.
 *   **1840:** Vua Minh Mạng tổ chức cuộc tập trận thủy quân có bắn đạn thật vào mục tiêu giả định trên biển, thể hiện sự chú trọng vào khả năng sẵn sàng chiến đấu của hải quân.
@@ -1206,6 +1211,7 @@
 *   **1870:** Nghĩa quân Trương Quyền (con trai Trương Định) phối hợp chặt chẽ với lực lượng của Pu Kom Pô mở rộng phong trào kháng chiến chống thực dân Pháp dọc biên giới Tây Nam Bộ (Tây Ninh, Châu Đốc), thể hiện tinh thần liên minh đoàn kết chiến đấu chống ngoại xâm của nhân dân hai nước.
 *   **1871:** Khâm phục khí tiết kiên trung và sự hy sinh anh dũng vì nước của Bình Tây Đại nguyên soái Trương Định, vua Tự Đức ban chiếu truy tặng phẩm hàm cho ông và hạ lệnh lập đền thờ Trương Định tại quê nhà làng Tư Cung (Bình Sơn, Quảng Ngãi).
 *   **1871:** Lái buôn kiêm thám hiểm người Pháp Jean Dupuis tự ý dẫn đoàn tàu buôn vũ trang vượt sông Hồng sang Vân Nam để buôn bán vũ khí và muối trái phép, bất chấp lệnh cấm của triều đình Huế, mở đầu chuỗi khiêu khích dẫn tới cuộc tấn công đánh chiếm Bắc Kỳ lần thứ nhất của quân Pháp (1873).
+*   **1871:** Nhà nho yêu nước Nguyễn Khuyến đỗ đầu cả ba kỳ thi Hương (Giải nguyên năm 1864), thi Hội (Hội nguyên) và thi Đình (Đình nguyên - Hoàng giáp) dưới triều vua Tự Đức, trở thành vị "Tam Nguyên Yên Đổ" lừng danh trong lịch sử khoa bảng Việt Nam.
 *   **11/1872:** Jean Dupuis, một lái buôn người Pháp, bắt đầu gây rối ở Bắc Kỳ, lấy cớ vận chuyển hàng hóa lên Vân Nam.
 *   **1873:** Phủ lỵ Đoan Hùng (tỉnh Sơn Tây) bị giặc cướp đốt phá, phải chuyển đến làm việc tại nhà dân.
 *   **Năm 1873:** Nhà thám hiểm người Pháp Jean Dupuis mang thuyền từ Sài Gòn ra bỏ neo ở Ninh Hải (Hải Phòng), bắt đầu cuộc thám hiểm sông Hồng để tìm đường giao thương sang Vân Nam (Trung Quốc).
@@ -1253,6 +1259,7 @@
 *   **11 - 16/12/1883:** Trận Sơn Tây. Đô đốc Courbet huy động 9.000 quân Pháp tấn công thành cổ Sơn Tây, trung tâm kháng chiến mạnh nhất do quân Cờ Đen, quân nhà Nguyễn và quân nhà Thanh phòng thủ. Trận chiến diễn ra đẫm máu với thương vong rất lớn. Quân Pháp dùng đại bác phá vỡ cửa Tây, buộc Lưu Vĩnh Phúc phải rút quân. Việc mất Sơn Tây là một đòn giáng nặng nề vào lực lượng kháng chiến.
 *   **1884 - 1945:** Pháp tiếp tục quản lý hai quần đảo Hoàng Sa và Trường Sa với tư cách là lãnh thổ của Liên bang Đông Dương thuộc Pháp.
 *   **1884:** Nhà nghiên cứu người Pháp Julien ghi nhận sự tổ chức các phố nghề (Hàng Bát Sứ, Hàng Đàn, Hàng Đồng...) tại Hà Nội, cho thấy sự chuyển hóa độc đáo của mô hình phường hội nông thôn vào không gian đô thị Việt Nam.
+*   **1884:** Sau khi triều đình nhà Nguyễn ký Hiệp ước Giáp Thân (1884) thừa nhận quyền bảo hộ của thực dân Pháp, quan Tổng đốc Nguyễn Khuyến cáo quan về ở ẩn tại làng Yên Đổ (Hà Nam), giữ tròn khí tiết thanh cao, sáng tác nhiều tác phẩm thơ ca hiện thực - trào phúng và chùm thơ thu bất hủ (*Thu điếu*, *Thu vịnh*, *Thu ẩm*).
 *   **01/1884:** Vua Kiến Phúc ra lệnh cho chế tạo thử súng kiểu phương Tây và dệt thử các loại vải theo kỹ thuật phương Tây.
 *   **02/1884:** Vua Kiến Phúc xuống dụ buộc tất cả những người có khoa bảng (Tiến sĩ, Cử nhân...) phải ra làm quan để phục vụ đất nước, ai trốn tránh sẽ bị tước bằng sắc.
 *   **06 - 12/03/1884:** Trận Bắc Ninh. Trung tướng Charles-Théodore Millot chỉ huy 16.300 quân Pháp mở chiến dịch lớn đánh chiếm thành Bắc Ninh, nơi tập trung hơn 2 vạn quân Thanh. Quân Pháp sử dụng chiến thuật vu hồi qua sông Đuống và nã pháo dữ dội, khiến quân Thanh hoảng loạn tháo chạy. Pháp chiếm được Bắc Ninh, củng cố sự kiểm soát đồng bằng Bắc Bộ.
@@ -1349,6 +1356,7 @@
 *   **27/06/1908:** Vụ "Hà thành đầu độc" nổ ra, một nhóm binh lính người Việt và các nhà yêu nước mưu đồ đầu độc binh lính Pháp ở Hà Nội và khởi nghĩa nhưng thất bại.
 *   **09/1908:** Pháp và Nhật ký hiệp ước, theo đó chính phủ Nhật trục xuất các nhà yêu nước và du học sinh Việt Nam, Phong trào Đông du tan rã.
 *   **12/1908:** Thực dân Pháp ra lệnh đóng cửa trường Đông Kinh Nghĩa thục và đàn áp những người tham gia.
+*   **05/02/1909 (Rằm tháng Giêng năm Kỷ Dậu):** Nhà thơ lớn Nguyễn Khuyến (Tam Nguyên Yên Đổ) qua đời tại quê nhà Yên Đổ (Hà Nam), thọ 74 tuổi, để lại di sản thơ văn Hán - Nôm đồ sộ phản ánh sâu sắc đời sống nông thôn và nỗi đau mất nước.
 *   **27/03/1909:** Ông Nguyễn Tuất, cha đẻ của liệt sĩ "Lượm" (Nguyễn Thanh), sinh ra tại Lai Trung, xã Quảng Thọ, huyện Quảng Điền, tỉnh Bình Trị Thiên (nay là Thừa Thiên - Huế). Ông sau này làm hộ tống viên bưu điện và công tác ở nhiều nơi như Quy Nhơn, Nha Trang.
 *   **06/06/1909:** Tổng đốc Lưỡng Quảng (Trung Quốc) phái một đoàn thám hiểm ngắn ngày, do Thủy sư Đô đốc Lý Chuẩn chỉ huy, đổ bộ chớp nhoáng (24 giờ) lên vài đảo thuộc quần đảo Hoàng Sa để bắn đại bác và kéo cờ Trung Quốc. Pháp đã không có phản kháng chính thức nào vào thời điểm đó.
 *   **01/07/1909:** Cụ Phó bảng Nguyễn Sinh Sắc được triều đình bổ nhiệm làm Tri huyện Bình Khê (tỉnh Bình Định). Trong thời gian tại vị, cụ luôn đứng về phía người nghèo, trừng trị bọn cường hào ức hiếp dân lành với quan niệm "Quan trường thị nô lệ trung chi nô lệ, hựu nô lệ" (Làm quan là nô lệ trong những kẻ nô lệ, lại càng nô lệ hơn).
@@ -1381,6 +1389,7 @@
 *   **13/03/1915:** Nghĩa quân của Hội Việt Nam Quang Phục tấn công đồn Tà Lùng (Lạng Sơn) nhưng thất bại.
 *   **28/09/1915:** Tù nhân chính trị ở nhà tù Lao Bảo do Hồ Bá Kiện và Liêu Thanh lãnh đạo nổi dậy phá ngục.
 *   **1916:** Đinh Thị Vân (tên thật là Đinh Thị Mậu) sinh ra tại làng Đông An, huyện Xuân Trường, tỉnh Nam Định. Bà sau này trở thành nữ đại tá tình báo huyền thoại và Anh hùng Lực lượng vũ trang nhân dân.
+*   **1916:** Nhà thơ Tản Đà (Nguyễn Khắc Hiếu) xuất bản tập thơ *Khối tình con I* và tác phẩm *Giấc mộng con I*, tạo nên một hiện tượng văn học lớn đầu thế kỷ XX, được xem là gạch nối mở đường cho sự chuyển biến từ văn học cổ điển sang thi ca hiện đại Việt Nam.
 *   **15/02/1916:** Các hội kín ở Nam Kỳ tổ chức cuộc bạo động lớn tại Sài Gòn, mưu đồ phá Khám lớn để giải cứu Phan Xích Long nhưng thất bại.
 *   **03/05/1916:** Cuộc khởi nghĩa do vua Duy Tân cùng Thái Phiên, Trần Cao Vân lãnh đạo bị bại lộ và thất bại. Vua Duy Tân bị bắt và bị đày sang đảo Réunion.
 *   **08/1916:** Vua Khải Định ra lệnh cấm dân chúng mặc quần áo màu vàng và các màu gần với màu vàng để phân biệt tôn ti.
@@ -1422,6 +1431,7 @@
 *   **25-30/12/1920:** Tại Đại hội Tours (Đại hội XVIII) của Đảng Xã hội Pháp, Nguyễn Ái Quốc bỏ phiếu tán thành gia nhập Quốc tế III và trở thành một trong những người sáng lập Đảng Cộng sản Pháp, đánh dấu bước ngoặt từ chủ nghĩa yêu nước đến chủ nghĩa Mác-Lênin.
 *   **1921:** Sau 13 năm kiên cường chịu cảnh tù đày khổ sai tại Côn Đảo với khí tiết bất khuất, Huỳnh Thúc Kháng được thực dân Pháp trả tự do về đất liền.
 *   **1921:** Tại Paris, Nguyễn Ái Quốc cùng các nhà hoạt động cách mạng đến từ các xứ thuộc địa của Pháp (Algérie, Madagascar, Sénégal, Guadeloupe, Martinique...) thành lập **Hội Liên hiệp Thuộc địa** (Union Intercoloniale), tổ chức mặt trận đoàn kết đầu tiên kết nối phong trào đấu tranh của các dân tộc bị áp bức trên toàn thế giới.
+*   **1921:** Nhà thơ Tản Đà sáng lập *An Nam tạp chí* tại Hà Nội, một trong những tờ báo văn học và tư tưởng có ảnh hưởng sâu rộng trong giới trí thức, văn nghệ sĩ Việt Nam thời kỳ đầu thế kỷ XX.
 *   **30/03/1921:** Chính phủ quân sự miền Nam tại Quảng Đông (không được chính quyền trung ương Trung Quốc hay các cường quốc công nhận) tuyên bố sáp nhập về mặt hành chính quần đảo Hoàng Sa vào huyện Nhai (Hải Nam). Pháp đã không phản đối chính thức để tránh kích động chủ nghĩa dân tộc Trung Quốc.
 *   **12/04/1921:** Albert Sarraut, lúc này là Bộ trưởng Bộ Thuộc địa, trình "Dự luật khai thác thuộc địa" trước Quốc hội Pháp.
 *   **06/1921:** Ban Nghiên cứu thuộc địa được thành lập trong Đảng Cộng sản Pháp, Nguyễn Ái Quốc phụ trách tiểu ban Đông Dương.
@@ -1560,6 +1570,7 @@
 *   **1936:** Đại Việt Quốc gia Xã hội Đảng được thành lập.
 *   **1936:** Việt Nam Độc lập Vận động Đồng minh Hội, một tổ chức có tên gọi tương tự Việt Minh, được thành lập tại Nam Kinh (Trung Quốc) bởi các nhà hoạt động chống đế quốc.
 *   **1936:** Rời nhà tù Côn Đảo trở về, Lê Duẩn hoạt động ở Trung Kỳ. Trên cương vị Bí thư Xứ ủy Trung Kỳ, ông đã lãnh đạo phong trào Mặt trận Dân chủ (1936 - 1939), đấu tranh đòi quyền dân sinh, dân chủ.
+*   **1936:** Nhà thơ Hàn Mặc Tử (Nguyễn Trọng Trí) xuất bản tập thơ đầu tay *Gái quê* và cùng Chế Lan Viên, Yến Lan, Quách Tấn sáng lập nhóm "Bàn Thành Tứ Hữu" (Trường thơ Loạn) tại Bình Định, tạo nên một trường phái thơ tượng trưng - siêu thực độc đáo và mãnh liệt trong phong trào Thơ mới.
 *   **03/05/1936:** Mặt trận Nhân dân Pháp do Léon Blum đứng đầu thắng cử, mở ra một thời kỳ thuận lợi cho phong trào dân chủ ở các thuộc địa.
 *   **31/05/1936:** Giáo sư, Bác sĩ, Thầy thuốc Nhân dân Đặng Hanh Đệ sinh ra tại Hà Nội. Ông là một trong những chuyên gia đầu ngành đặt nền móng và phát triển vượt bậc chuyên ngành Phẫu thuật Tim mạch và Lồng ngực tại Việt Nam, học trò xuất sắc kế tục sự nghiệp của GS Tôn Thất Tùng và là Chủ tịch sáng lập Hội Phẫu thuật Tim mạch và Lồng ngực Việt Nam.
 *   **26/07/1936:** Hội nghị Ban Chấp hành Trung ương Đảng tại Thượng Hải (Trung Quốc) do đồng chí Lê Hồng Phong chủ trì, quyết định thành lập Mặt trận Thống nhất Nhân dân Phản đế Đông Dương và cử đồng chí Hà Huy Tập làm Tổng Bí thư (đảm nhiệm đến tháng 3/1938).
@@ -1568,12 +1579,15 @@
 *   **30/12/1936:** Chính phủ Pháp ban hành Sắc lệnh về Luật Lao động ở Đông Dương, quy định một số chế độ cho người lao động.
 *   **1937:** Kỹ sư trưởng công chính Gauthier, nhân danh chính quyền thuộc địa Pháp, thực hiện nhiệm vụ nghiên cứu khả năng xây dựng các công trình biển, hàng không và một ngọn hải đăng trên quần đảo Hoàng Sa.
 *   **1937:** Đảng Dân chủ Đông Dương được thành lập.
+*   **1937:** Nhà thơ Chế Lan Viên (Phan Ngọc Hoan) xuất bản tập thơ đầu tay *Điêu tàn* khi mới 17 tuổi, tạo nên một hiện tượng thi ca chấn động với phong cách kỳ ảo, hoài niệm về vương quốc Chiêm Thành cổ xưa, mở đầu sự hình thành của "Trường thơ Loạn".
 *   **01/01 - 14/03/1937:** Phái viên Justin Godart của chính phủ Pháp sang điều tra tình hình Đông Dương, làm dấy lên một phong trào quần chúng rầm rộ đón tiếp và đưa yêu sách.
 *   **18/02/1937:** Chính phủ Pháp gửi một công hàm cho Đại sứ quán Trung Quốc đề nghị một cuộc dàn xếp hữu nghị, hoặc nếu không được, thì giải quyết bằng trọng tài quốc tế về vấn đề chủ quyền quần đảo Hoàng Sa. Đề nghị này không có hiệu quả và tranh chấp chủ quyền vẫn tiếp diễn.
 *   **28/02/1937:** Tuần dương hạm *Lamotte-Picquet* của Pháp tiến hành thăm dò quần đảo Hoàng Sa và nhận thấy các đảo đều hoang vắng. Nhà chức trách quân sự kết luận rằng Pháp không thể dung thứ cho bất kỳ sự chiếm đóng nào của nước ngoài tại đây.
 *   **05/05/1937:** Tổng Bí thư Hà Huy Tập (bút danh Thanh Hương) xuất bản tác phẩm *Tờrốtxky và phản cách mạng*.
+*   **07/1937:** Nhà cách mạng trẻ Nguyễn Kim Thành (Tố Hữu) được kết nạp vào Đảng Cộng sản Đông Dương tại Huế và sáng tác bài thơ *Từ ấy*, cột mốc mở đầu cho sự nghiệp thơ ca cách mạng vẻ vang gắn liền với các chặng đường lịch sử của dân tộc.
 *   **1938:** Nguyễn Ái Quốc trở lại Trung Quốc, hoạt động trong Bát lộ quân.
 *   **1938:** Huỳnh Tấn Phát tốt nghiệp thủ khoa ngành Kiến trúc, Trường Cao đẳng Mỹ thuật Đông Dương.
+*   **1938:** Nhà thơ Xuân Diệu xuất bản tập *Thơ thơ*, kiệt tác đưa ông lên vị trí đỉnh cao của phong trào Thơ mới và được kết nạp vào Tự Lực Văn Đoàn; ông được mệnh danh là "nhà thơ mới nhất trong các nhà thơ mới" và "ông hoàng thơ tình Việt Nam".
 *   **02/1938:** Đại Việt Dân chính Đảng được thành lập.
 *   **29/02/1938:** Vua Bảo Đại ra Dụ số 10, tách quần đảo Hoàng Sa khỏi địa hạt tỉnh Nam Ngãi và sáp nhập vào tỉnh Thừa Thiên để thuận tiện quản lý.
 *   **29-30/03/1938:** Hội nghị Ban Chấp hành Trung ương Đảng quyết định đổi tên Mặt trận thành Mặt trận Dân chủ Đông Dương và bầu đồng chí Nguyễn Văn Cừ làm Tổng Bí thư.
@@ -1593,18 +1607,21 @@
 *   **12/03/1939:** Việt Nam Phục quốc Đồng minh Hội chính thức ra mắt tại Thượng Hải.
 *   **31/03/1939:** Chính phủ Nhật Bản tuyên bố quyền kiểm soát đối với quần đảo Trường Sa. Pháp đã lên tiếng phản đối hành động này vào ngày 4 tháng 4.
 *   **05/05/1939:** Toàn quyền Jules Brévié sửa đổi nghị định năm 1938 để thành lập hai đại lý hành chính riêng biệt cho quần đảo Hoàng Sa: đại lý "Nhóm Lưỡi Liềm và các đảo phụ cận" và đại lý "Nhóm An Vĩnh và các đảo phụ cận".
+*   **07/06/1939:** Nhà thơ, nhà báo Tản Đà (Nguyễn Khắc Hiếu) qua đời tại Hà Nội ở tuổi 50. Ông được phong tặng là "người của hai thế kỷ" và được Hoài Thanh suy tôn là "chủ soái của thi đàn Việt Nam" trước phong trào Thơ mới.
 *   **05/07/1939:** Phật giáo Hòa Hảo, một tôn giáo nội sinh, được ông Huỳnh Phú Sổ sáng lập tại tỉnh An Giang.
 *   **01/09/1939:** Chiến tranh Thế giới thứ hai bùng nổ, Pháp tham chiến.
 *   **28/09/1939:** Toàn quyền Đông Dương ra nghị định đặt Đảng Cộng sản Đông Dương ra ngoài vòng pháp luật, bắt đầu thời kỳ khủng bố trắng.
 *   **06-08/11/1939:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ VI tại Bà Điểm (Hóc Môn), quyết định chuyển hướng chiến lược, đặt nhiệm vụ giải phóng dân tộc lên hàng đầu và thành lập Mặt trận Dân tộc Thống nhất Phản đế Đông Dương.
 *   **10/12/1939:** Đại Việt Quốc dân Đảng được thành lập.
 *   **1940:** Kiến trúc sư Huỳnh Tấn Phát mở văn phòng kiến trúc sư tư đầu tiên của người Việt ở Sài Gòn. Cùng năm, Lưu Tấn Phát là một trong những hạt nhân nòng cốt của Khởi nghĩa Nam Kỳ tại xã nhà ở Tiền Giang.
+*   **1940:** Nhà thơ Nguyễn Bính xuất bản tập thơ *Lỡ bước sang ngang* và được trao giải thưởng thơ của Tự Lực Văn Đoàn với tập *Tâm hồn tôi*, khẳng định vị thế "nhà thơ chân quê" xuất sắc nhất của phong trào Thơ mới với những vần thơ mang đậm hồn quê và phong vị dân ca dân tộc.
 *   **01/02/1940:** Nguyễn Văn Trỗi sinh tại làng Thanh Quýt, huyện Điện Bàn, tỉnh Quảng Nam. Ông sau này trở thành chiến sĩ biệt động Sài Gòn quả cảm, người có khí tiết lẫm liệt trước pháp trường trở thành biểu tượng của lòng yêu nước.
 *   **22/06/1940:** Chính phủ Pháp đầu hàng phát xít Đức.
 *   **09/1940:** Việt Nam Kiến quốc quân (lực lượng vũ trang của Phục quốc Hội) tiến đánh Lạng Sơn.
 *   **22/09/1940:** Quân Nhật vượt biên giới, tấn công Lạng Sơn. Thực dân Pháp nhanh chóng ký hiệp định đầu hàng, chấp nhận cho Nhật vào Đông Dương.
 *   **27/09/1940:** Cuộc khởi nghĩa Bắc Sơn nổ ra.
 *   **06-09/11/1940:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ VII tại Đình Bảng (Bắc Ninh), quyết định duy trì lực lượng vũ trang Bắc Sơn và hoãn cuộc khởi nghĩa Nam Kỳ.
+*   **11/11/1940:** Thi sĩ tài hoa Hàn Mặc Tử qua đời vì bệnh phong tại trại phong Quy Hòa (Quy Nhơn, Bình Định) khi mới 28 tuổi, để lại những kiệt tác thơ ca bất hủ như *Đau thương* (*Thơ Điên*), *Xuân như ý*, *Đây thôn Vĩ Dạ*, *Mùa xuân chín*.
 *   **23/11/1940:** Cuộc khởi nghĩa Nam Kỳ bùng nổ nhưng bị thực dân Pháp đàn áp dã man. Lá cờ đỏ sao vàng lần đầu tiên xuất hiện.
 *   **1941:** Kiến trúc sư Huỳnh Tấn Phát đoạt giải nhất cuộc thi thiết kế khu Trung tâm Hội chợ Triển lãm Đông Dương tại Sài Gòn.
 *   **13/01/1941:** Cuộc binh biến Đô Lương do Đội Cung lãnh đạo nổ ra ở Nghệ An.
@@ -1945,6 +1962,7 @@
 * **1954:** Liệt sĩ Cao Thế Chiến (Đại đội phó Đại đội 2, Trung đoàn 101, Đại đoàn 325. Hy sinh trong trận đánh ở khu vực Na Kham trong Chiến dịch Trung Lào năm 1954) anh dũng hy sinh trong khi thực hiện nhiệm vụ chiến đấu bảo vệ Tổ quốc.
 * **1954:** Liệt sĩ Lê Công Khai (Đại đội trưởng bộ binh Liên khu 5, hy sinh khi đánh đồn Đak Đoa (nay thuộc xã Đak Sơmei, Gia Lai)) anh dũng hy sinh trong khi thực hiện nhiệm vụ chiến đấu bảo vệ Tổ quốc.
 * **1954:** Liệt sĩ Ngô Chí Quốc (Tiểu đội phó trinh sát Tiểu đoàn 303, Đại đoàn 330. Hy sinh trong trận đánh Cầu Đinh lần thứ hai (tháng 3 năm 1954)) anh dũng hy sinh trong khi thực hiện nhiệm vụ chiến đấu bảo vệ Tổ quốc.
+*   **1954:** Nhà thơ Tố Hữu xuất bản tập thơ *Việt Bắc* (1946 - 1954), tác phẩm đỉnh cao của thi ca cách mạng phản ánh toàn cảnh cuộc kháng chiến trường kỳ chống thực dân Pháp, được trao Giải nhất Giải thưởng Văn nghệ Hội Văn nghệ Việt Nam (1954 - 1955).
 * **01/1954:** Liệt sĩ Hoàng Văn Nô (chiến sĩ liên lạc Đại đội 56, Tiểu đoàn 440, Trung đoàn 98, Đại đoàn 316) dùng lưỡi lê chiến đấu dũng cảm, tiêu diệt 5 lính địch trước khi anh dũng hy sinh tại Điện Biên Phủ.
 *   **26/01/1954:** Tại mặt trận Điện Biên Phủ, Bộ Chỉ huy chiến dịch quyết định thay đổi phương châm tác chiến từ "đánh nhanh thắng nhanh" sang **"đánh chắc, tiến chắc"**.
 * **01/02/1954:** Liệt sĩ Tô Vĩnh Diện (Tiểu đội trưởng pháo cao xạ 37mm thuộc Đại đội 827, Tiểu đoàn 394, Trung đoàn 367) anh dũng lấy thân mình chèn pháo để bảo vệ khẩu pháo không rơi xuống vực trong Chiến dịch Điện Biên Phủ.
@@ -2298,6 +2316,7 @@
 *   **08/01 - 19/01/1966:** Mỹ và quân đồng minh mở cuộc hành quân **Crimp** với 12.000 quân, xe tăng và B-52 yểm trợ đánh vào vùng "Tam giác sắt" (Củ Chi) nhằm tiêu diệt cơ quan đầu não Quân khu Sài Gòn - Gia Định. Lực lượng cách mạng dựa vào hệ thống địa đạo để phản kích, bảo toàn lực lượng.
 *   **09/01/1966:** Lính Nam Triều Tiên càn quét và gây ra vụ thảm sát tại thôn Kim Tài (Nhơn Phong, Bình Định), sát hại 37 thường dân.
 *   **16/01/1966:** Chủ tịch Hồ Chí Minh phát biểu tại Hội nghị cán bộ cao cấp nghiên cứu Nghị quyết Trung ương 12, khẳng định quyết tâm đánh thắng giặc Mỹ xâm lược bất kể chúng đưa vào bao nhiêu quân.
+*   **20/01/1966 (30 Tết năm Ất Tỵ):** Nhà thơ tài hoa Nguyễn Bính đột ngột qua đời tại Nam Định ở tuổi 48. Năm 2000, ông được Nhà nước truy tặng Giải thưởng Hồ Chí Minh về Văn học - Nghệ thuật cho những cống hiến xuất sắc trong phong trào Thơ mới và thi ca kháng chiến.
 *   **25/01/1966:** Bộ tư lệnh Quân khu Sài Gòn - Gia Định tổ chức hội nghị tổng kết chiến đấu, đánh giá hiệu quả to lớn của hệ thống địa đạo trong "địa đạo chiến".
 * **04/02/1966:** Liệt sĩ Lưu Văn Liệt (chiến sĩ biệt động thị xã Vĩnh Long) anh dũng hy sinh trong trận tập kích tiêu diệt nhiều sĩ quan và binh lính đối phương tại quán Lệ Hoa.
 *   **1966 - Đầu 1967:** Lê Thị Tuyết (Quảng Trị) tham gia cùng lực lượng vũ trang huyện đánh chống càn ở cụm Xuân - Vĩnh, tiêu diệt 2 tên địch. Sau đó, bà được cử đi học lớp y tá.
@@ -2332,6 +2351,7 @@
 * **1967:** Liệt sĩ Nguyễn Văn Quỳ (Đại đội phó bộ đội địa phương huyện Nhà Bè. Tham gia chiến đấu 24 trận cùng đơn vị diệt 149 tên, bắt sống 15 tên, thu 59 súng và nhiều máy móc, tài liệu. Hy sinh khi chiến đấu chống trận càn Cedar Falls vào vùng "Tam giác sắt" năm 1967) anh dũng hy sinh trong khi thực hiện nhiệm vụ chiến đấu bảo vệ Tổ quốc.
 * **1967:** Anh hùng Lực lượng vũ trang nhân dân Hồ Hảo Hớn (Bí thư Thành Đoàn đầu tiên của Sài Gòn - Gia Định) từ trần.
 * **1967:** Liệt sĩ Trần Kim Chiến (Liệt sĩ, nguyên Phó trưởng ty Công an Lào Cai. Hy sinh tháng 8 năm 1967 tại xã Phan Thanh, huyện Phan Lý Chàm (nay là huyện Bắc Bình), tỉnh Bình Thuận) anh dũng hy sinh trong khi thực hiện nhiệm vụ chiến đấu bảo vệ Tổ quốc.
+*   **1967:** Nhà thơ Xuân Quỳnh sáng tác bài thơ tình bất hủ *Sóng* tại bãi biển Diêm Điền (Thái Thụy, Thái Bình) trong thời kỳ đế quốc Mỹ leo thang ném bom miền Bắc. Tác phẩm nhanh chóng trở thành một trong những kiệt tác thơ ca trữ tình được yêu thích nhất của nền văn học Việt Nam hiện đại.
 *   **Tháng 01/1967:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ 13 (khóa III) quyết định đẩy mạnh đấu tranh ngoại giao, mở ra cục diện "vừa đánh vừa đàm".
 *   **01/01/1967:** Nguyễn Thị Suốt được Đảng và Nhà nước Việt Nam chính thức phong tặng danh hiệu Anh hùng ngành Giao thông vận tải trong chống Mỹ cứu nước.
 *   **01/01/1967:** Phi công tiêm kích MiG-17 Nguyễn Văn Bảy (người đã bắn rơi 7 máy bay Mỹ) được Chủ tịch Hồ Chí Minh phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân.
@@ -2837,6 +2857,7 @@
 *   **06/1985:** Hội nghị lần thứ 8 Ban Chấp hành Trung ương (khóa V) ra nghị quyết về giá - lương - tiền, quyết định dứt khoát xóa bỏ cơ chế tập trung quan liêu, bao cấp.
 * **29/08/1985:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Ngô Thị Huệ (bí danh Minh Hiệp, "Con sóc nhỏ", nữ trinh sát, điệp báo viên kiên trung của Ban An ninh Quảng Đà).
 *   **14/09/1985:** Bắt đầu cuộc tổng điều chỉnh giá - lương - tiền trên phạm vi cả nước, thực hiện đổi tiền với tỷ lệ 10 đồng tiền cũ ăn 1 đồng tiền mới.
+*   **18/12/1985:** Đại thi sĩ Xuân Diệu (Viện sĩ Viện Hàn lâm Nghệ thuật CHDC Đức) qua đời tại Hà Nội ở tuổi 69. Ông có đóng góp đồ sộ cho nền thi ca và nghiên cứu phê bình văn học Việt Nam hiện đại, được Nhà nước truy tặng Giải thưởng Hồ Chí Minh về Văn học - Nghệ thuật (đợt 1 năm 1996).
 
 ### **Thời kỳ Đầu Đổi mới - Từng bước Khắc phục Khủng hoảng (1986 - 1990)**
 
@@ -2863,12 +2884,14 @@
 *   **07/05/1988:** Đại tướng Lê Đức Anh ra thăm quần đảo Trường Sa và đọc lời thề khẳng định quyết tâm bảo vệ bằng được quần đảo Trường Sa và lãnh hải thiêng liêng của Tổ quốc.
 *   **20/05/1988:** Bộ Chính trị ban hành Nghị quyết 13 về nhiệm vụ và chính sách đối ngoại, chủ trương chuyển mạnh hoạt động đối ngoại sang phục vụ kinh tế, "thêm bạn bớt thù", đa dạng hóa quan hệ quốc tế.
 *   **22/07/1988:** Đảng Xã hội Việt Nam tuyên bố giải thể.
+*   **29/08/1988:** Nữ sĩ tài hoa Xuân Quỳnh cùng chồng là nhà viết kịch xuất sắc Lưu Quang Vũ và con trai nhỏ Lưu Quỳnh Thơ qua đời trong một vụ tai nạn giao thông thảm khốc tại Hải Dương. Năm 2017, bà được Nhà nước truy tặng Giải thưởng Hồ Chí Minh về Văn học - Nghệ thuật với các tập thơ *Lời ru trên mặt đất* và *Bầu trời trong quả trứng*.
 *   **20/10/1988:** Đảng Dân chủ Việt Nam tuyên bố giải thể sau khi hoàn thành sứ mệnh lịch sử.
 *   **1989:** Huyện Trường Sa được đặt dưới sự quản lý hành chính của tỉnh Khánh Hòa mới được tái lập (trước đó thuộc tỉnh Phú Khánh).
 * **1989:** Anh hùng Lực lượng vũ trang nhân dân Lê Văn Đạm (Chính trị viên Xã đội An Nhơn Tây huyện Củ Chi, ngọn cờ đầu phong trào "Đào hầm địa đạo Củ Chi") từ trần.
 *   **03/1989:** Hội nghị lần thứ 6 Ban Chấp hành Trung ương Đảng (khóa VI) cụ thể hóa và phát triển chính sách kinh tế nhiều thành phần, thừa nhận sự tồn tại lâu dài của các thành phần kinh tế tư nhân.
 *   **05/04/1989:** Chính phủ Việt Nam tuyên bố sẽ rút hết quân tình nguyện khỏi Campuchia vào cuối tháng 9/1989 dù có hay không có giải pháp chính trị.
 *   **05/1989:** Trung Quốc chiếm thêm một đảo nhỏ ở quần đảo Trường Sa, tiếp tục sự bành trướng kiểm soát sau cuộc đụng độ hải quân năm 1988.
+*   **19/06/1989:** Nhà thơ, nhà lý luận phê bình Chế Lan Viên qua đời tại Thành phố Hồ Chí Minh ở tuổi 69. Ông là một trong những trụ cột lớn của thi ca hiện đại và cách mạng Việt Nam (*Ánh sáng và phù sa*, *Người đi tìm hình của Nước*), được Nhà nước truy tặng Giải thưởng Hồ Chí Minh về Văn học - Nghệ thuật (đợt 1 năm 1996).
 *   **08/1989:** Việt Nam hoàn thành việc xây dựng một cụm dịch vụ - kinh tế - khoa học kỹ thuật tại Trường Sa, nằm trên thềm lục địa của Việt Nam.
 *   **26/09/1989:** Những đơn vị Quân tình nguyện và chuyên gia quân sự Việt Nam cuối cùng chính thức hoàn thành việc rút toàn bộ quân khỏi Campuchia, kết thúc 10 năm thực hiện nghĩa vụ quốc tế giúp nước bạn hồi sinh sau thảm họa diệt chủng Khmer Đỏ.
 *   **30/09/1989:** Huỳnh Tấn Phát qua đời tại Thành phố Hồ Chí Minh.
@@ -3037,6 +3060,7 @@
 * **2002:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Lương Định (Trung sĩ, thương binh 1/4, nguyên Tiểu đội trưởng, Đại đội 4, Tiểu đoàn 668, Trung đoàn Đường ống 592, Bộ Tư lệnh Trường Sơn. Người xung phong vác đường ống qua trọng điểm để rà phá bom từ trường, bảo vệ cả Đại đội trên tuyến đánh trọng điểm Pha Bang Nưa, Savanakhet) từ trần.
 *   **14/10/2002:** Thủ tướng Chính phủ nước Cộng hòa Xã hội chủ nghĩa Việt Nam ra Quyết định số 132/2002/QĐ-TTg, chính thức "lấy múi giờ thứ 7 theo hệ thống múi giờ quốc tế làm giờ chính thức của Việt Nam".
 *   **29/10/2002:** Vụ cháy Trung tâm Thương mại Quốc tế (ITC) tại số 101 Nam Kỳ Khởi Nghĩa, Quận 1, Thành phố Hồ Chí Minh xảy ra vào khoảng 13h30. Đây là thảm họa hỏa hoạn kinh hoàng nhất lịch sử Sài Gòn, làm 60 người thiệt mạng, 70 người bị thương và thiệt hại vật chất hơn 32 tỷ đồng. Nguyên nhân do nhóm thợ hàn bất cẩn khi sửa chữa tại khu vực vũ trường Blue (tầng 2 và tầng 3), vảy hàn nhiệt độ cao bắn vào lớp xốp cách âm và bén lửa cực nhanh. Đám cháy bùng phát dữ dội giữa trưa, khói độc và lửa nhanh chóng bao trùm toàn bộ các tầng trên của tòa nhà 6 tầng; nhiều nạn nhân mắc kẹt không thể thoát thân do lối thoát hiểm bị bịt kín hoặc không đạt chuẩn. Sau thảm họa, cơ quan chức năng đã khởi tố các thợ hàn gây ra vụ cháy và truy cứu trách nhiệm hình sự đối với Ban quản lý tòa nhà ITC do buông lỏng quản lý an toàn phòng cháy chữa cháy.
+*   **09/12/2002:** Nhà thơ lớn Tố Hữu (nguyên Ủy viên Bộ Chính trị, nguyên Phó Chủ tịch Hội đồng Bộ trưởng) qua đời tại Hà Nội ở tuổi 82. Ông là ngọn cờ đầu của nền thi ca cách mạng Việt Nam, từng được trao tặng Huân chương Sao Vàng và Giải thưởng Hồ Chí Minh về Văn học - Nghệ thuật (đợt 1 năm 1996).
 * **2003:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Tư Cường (Tiểu đoàn phó đặc công thuộc Tiểu đoàn 323, Đại đoàn 324. Sau là Thiếu tướng, Tư lệnh Binh chủng Đặc công, Trưởng Đoàn Chuyên gia Quân sự Đặc công tại Cuba) từ trần.
 * **2003:** Anh hùng Lực lượng vũ trang nhân dân Bùi Quang Mại (Đại đội trưởng bộ binh, Tiểu đoàn 79, Trung đoàn 102, Đại đoàn 308. Sau là Chủ nhiệm Chính trị Trung đoàn 102, Sư đoàn 308, đại biểu Quốc hội khoá III (1964-1971)) từ trần.
 * **2003:** Anh hùng Lực lượng vũ trang nhân dân Đặng Văn Thanh (Đại tá, khi tuyên dương là Thượng úy, Chính trị viên Đoàn tàu không số thuộc Đoàn 125 Hải quân. Tham gia vận chuyển 18 tấn vũ khí trên tàu gỗ 41 tại cảng Bính Động (Hải Phòng) mở đường mới vào Bà Rịa, cung cấp vũ khí cho chiến trường miền Đông Nam Bộ đêm ngày 26 tháng 9 năm 1963) từ trần.
