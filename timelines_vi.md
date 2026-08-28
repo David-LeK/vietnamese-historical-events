@@ -1293,7 +1293,7 @@
 *   **11/1893:** Cao Thắng hy sinh trong trận tấn công đồn Nu (Nghệ An), một tổn thất lớn cho khởi nghĩa Hương Khê.
 *   **10/1894:** Hoàng Hoa Thám giảng hòa với Pháp lần thứ nhất để củng cố lực lượng Yên Thế.
 *   **1895:** Viên công sứ một tỉnh ở Bắc Kỳ tước đoạt ruộng đất của một làng để cấp cho một làng khác theo đạo Thiên Chúa, bắt dân tiếp tục nộp thuế cho đất đã mất đến năm 1910.
-*   **1895 - 1896:** Hai vụ đắm tàu tại quần đảo Hoàng Sa—tàu *Bellona* của Đức (1895) và tàu *Imegi Maru* của Nhật Bản (1896)—đã gây ra tranh cãi khi hàng hóa bằng đồng bị ngư dân Trung Quốc hôi của. Các công ty bảo hiểm Anh đã phản đối, nhưng Tổng đốc Lưỡng Quảng của Trung Quốc từ chối trách nhiệm, tuyên bố rằng quần đảo Hoàng Sa là những đảo bị bỏ rơi, không thuộc Trung Quốc hay An Nam, và không được sáp nhập về hành chính vào Hải Nam.
+*   **1895 - 1896:** Hai vụ đắm tàu tại quần đảo Hoàng Sa - tàu *Bellona* của Đức (1895) và tàu *Imegi Maru* của Nhật Bản (1896) - đã gây ra tranh cãi khi hàng hóa bằng đồng bị ngư dân Trung Quốc hôi của. Các công ty bảo hiểm Anh đã phản đối, nhưng Tổng đốc Lưỡng Quảng của Trung Quốc từ chối trách nhiệm, tuyên bố rằng quần đảo Hoàng Sa là những đảo bị bỏ rơi, không thuộc Trung Quốc hay An Nam, và không được sáp nhập về hành chính vào Hải Nam.
 *   **28/12/1895:** Phan Đình Phùng hy sinh, khởi nghĩa Hương Khê dần tan rã, đánh dấu sự kết thúc về cơ bản của phong trào Cần Vương có tổ chức trên quy mô lớn.
 *   **1896:** Nhà tù Hỏa Lò được xây dựng tại Hà Nội.
 
@@ -2748,7 +2748,7 @@
 * **06/11/1978:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Văn Vĩnh (Đại tá, Cụm trưởng Cụm H67 thuộc Phòng Tình báo B2).
 * **06/11/1978:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Văn Đạm (Chính trị viên Xã đội An Nhơn Tây huyện Củ Chi, ngọn cờ đầu phong trào "Đào hầm địa đạo Củ Chi").
 * **06/11/1978:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hồ Thị Bời (Tổ trưởng tổ giao liên tình báo Đoàn 22).
-* **06/11/1978:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Thương (Hai Thương — Thiếu tá tình báo quân sự, chiến sĩ giao liên kiên trung đã chịu đựng 6 lần bị địch cưa chân mà vẫn giữ trọn khí tiết cách mạng).
+* **06/11/1978:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Thương (Hai Thương - Thiếu tá tình báo quân sự, chiến sĩ giao liên kiên trung đã chịu đựng 6 lần bị địch cưa chân mà vẫn giữ trọn khí tiết cách mạng).
 * **06/11/1978:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Tống Viết Dương (Đại tá đặc công).
 * **06/11/1978:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trần Văn Đang (Chiến sĩ Biệt động Sài Gòn).
 * **06/11/1978:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Ngô Văn Cấn (Tiểu đoàn trưởng tiểu đoàn 9 bộ binh).
@@ -3271,7 +3271,7 @@
 *   **15/03/2018:** Thủ tướng Nguyễn Xuân Phúc thăm chính thức Australia theo lời mời của Thủ tướng Malcolm Turnbull. Hai bên ký Tuyên bố chung chính thức nâng cấp quan hệ lên Đối tác Chiến lược, tạo tiền đề để hai nước tiến tới Đối tác Chiến lược Toàn diện vào năm 2024.
 *   **15/04/2018:** Thành Đoàn và gia đình tổ chức Lễ cải táng hài cốt Anh hùng liệt sĩ Nguyễn Văn Trỗi từ Nghĩa trang Văn Giáp (Quận 2) về an nghỉ tại Nghĩa trang Liệt sĩ TP. Hồ Chí Minh (Quận 9), bên cạnh các liệt sĩ tiêu biểu như Trần Văn Ơn, Trần Bội Cơ, Quách Thị Trang.
 *   **10/06/2018:** Làn sóng biểu tình quy mô lớn bùng nổ tại TP. Hồ Chí Minh, Bình Thuận (Phan Thiết, Phan Rí), Hà Nội, Đà Nẵng, Nha Trang... phản đối dự thảo Luật Đơn vị hành chính - kinh tế đặc biệt (dự luật Đặc khu) và Luật An ninh mạng, dẫn đến việc Quốc hội quyết định lùi thời gian xem xét thông qua dự luật Đặc khu.
-* **13/08/2018:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Thương (Hai Thương — Thiếu tá tình báo huyền thoại, biểu tượng kiên trung bất khuất của lực lượng Tình báo Quốc phòng Việt Nam) từ trần tại Thành phố Hồ Chí Minh, thọ 80 tuổi.
+* **13/08/2018:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Thương (Hai Thương - Thiếu tá tình báo huyền thoại, biểu tượng kiên trung bất khuất của lực lượng Tình báo Quốc phòng Việt Nam) từ trần tại Thành phố Hồ Chí Minh, thọ 80 tuổi.
 * **30/08/2018:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Mạnh Hùng (Đại tá, nguyên Lữ đoàn trưởng Lữ đoàn Đặc công 198. Tham gia chiến đấu lập nhiều thành tích trong các chiến dịch Tây Nguyên, chiến dịch Hồ Chí Minh).
 *   **01/10/2018:** Việt Nam tổ chức Lễ xuất quân Bệnh viện dã chiến cấp 2 số 1 gồm 63 cán bộ, chiến sĩ và nhân viên y tế lên đường làm nhiệm vụ tại Phái bộ Gìn giữ hòa bình Liên Hợp Quốc tại Nam Sudan (UNMISS), đánh dấu lần đầu tiên triển khai một đơn vị độc lập tham gia lực lượng mũ nồi xanh.
 *   **2019:** Họa sĩ Mai Đại Lưu có chuyến đi thực tế đến trường mầm non vùng cao ở Hà Giang, qua đường Thanh Niên và trận địa Vị Xuyên, lấy cảm hứng thai nghén dự án hội họa "Hoa đêm - Tỉnh giấc bình minh" tri ân các anh hùng liệt sĩ.
