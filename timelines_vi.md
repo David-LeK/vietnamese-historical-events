@@ -760,8 +760,8 @@
 *   **04/1599:** Vua Lê tấn phong Trịnh Tùng làm Đô Nguyên súy, Thượng phụ Bình An vương, chính thức hình thành thể chế Vua Lê - Chúa Trịnh ở Đàng Ngoài.
 *   **1600:** Nguyễn Hoàng từ Bắc Hà trở về Thuận Quảng, bắt đầu thực hiện chính sách cai trị mới, từng bước tách khỏi sự ràng buộc của họ Trịnh.
 *   **1601:** Tướng quân Tokugawa Ieyasu gửi thư cho chúa Nguyễn Hoàng đề nghị thiết lập quan hệ giao thương và kiểm soát thương nhân Nhật Bản.
-*   **Nửa đầu thế kỷ XVII:** Các Chúa Nguyễn đã cử *đội Hoàng Sa* ra hai quần đảo Hoàng Sa và Trường Sa để khai thác sản vật, thu lượm hàng hóa trôi dạt và thực thi chủ quyền, bao gồm đo vẽ hải trình, trồng cây và dựng mốc. Phú Quốc vẫn là một vùng đất hoang vu, chịu sự tranh chấp giữa Chân Lạp (Campuchia) và các thế lực khác.
-*   **Cuối thế kỷ XVII:** Để tạo sự đối lập chính trị và văn hóa với Đàng Ngoài, chúa Nguyễn ra lệnh cho trai gái Đàng Trong phải "dùng quần áo Bắc quốc" (kiểu Trung Hoa) để tỏ sự biến đổi.
+*   **Nửa đầu thế kỷ XVII:** Thời Chúa Tiên Nguyễn Hoàng và Chúa Sãi Nguyễn Phúc Nguyên, chính quyền Đàng Trong đã lập và cử *đội Hoàng Sa* (lấy 70 suất dân đinh xã An Vĩnh, huyện Bình Sơn, phủ Quảng Ngãi) cùng *đội Bắc Hải* ra hai quần đảo Hoàng Sa và Trường Sa (Bãi Cát Vàng) để khai thác sản vật, thu lượm hàng hóa trôi dạt và thực thi chủ quyền định kỳ hàng năm từ tháng 2 đến tháng 8 âm lịch. Phú Quốc vẫn là một vùng đất hoang vu, chịu sự tranh chấp giữa Chân Lạp (Campuchia) và các thế lực khác.
+*   **Cuối thế kỷ XVII:** Để tạo sự đối lập chính trị và văn hóa với Đàng Ngoài, chúa Nguyễn Phúc Chu ra lệnh cho quan dân Đàng Trong phải "dùng quần áo Bắc quốc" (kiểu Minh triều) để biểu thị sự biến đổi phong tục.
 *   **1604:** Chúa Nguyễn Hoàng đổi phủ Tiên Bình thành phủ **Quảng Bình**.
 *   **1611:** Quân Nguyễn đánh Chiêm Thành, lấy được vùng đất phía nam đèo Cù Mông và lập ra phủ Phú Yên.
 *   **1614:** Nguyễn Phúc Nguyên (con Nguyễn Hoàng) lên thay, cải tổ bộ máy hành chính, tự bổ dụng quan lại, chính thức cắt đứt quan hệ lệ thuộc với họ Trịnh.
@@ -769,8 +769,7 @@
 *   **1617:** Linh mục Dòng Tên Francisco de Pina đến Đàng Trong. Ông được coi là người châu Âu đầu tiên thông thạo tiếng Việt và là người đi tiên phong trong việc sáng tạo ra chữ Quốc ngữ.
 *   **1618:** Linh mục Cristoforo Borri đến Đàng Trong. Ông nhanh chóng học tiếng Việt và sau này xuất bản một cuốn sách chứa đựng những từ ngữ tiếng Việt được phiên âm bằng chữ Latinh sơ khai.
 *   **1619:** Chúa Nguyễn Phúc Nguyên gả con gái cho thương nhân Nhật Bản Araki Sotaro, thắt chặt quan hệ thương mại với Nhật Bản.
-*   **Năm 1619:** Chúa Trịnh Tùng đem quân vào đánh chúa Nguyễn Phúc Nguyên ở Thuận Quảng. Từ đó, chúa Nguyễn chính thức chấm dứt việc nộp thuế cống cho họ Trịnh, đánh dấu sự ly khai rõ rệt.
-*   **1620:** Mâu thuẫn Trịnh - Nguyễn trở nên gay gắt, chúa Nguyễn ngừng nộp thuế cống.
+*   **1619 - 1620:** Chúa Trịnh Tùng mưu tính can thiệp quân sự vào Thuận Quảng nhưng thất bại. Chúa Nguyễn Phúc Nguyên dứt khoát chấm dứt việc nộp thuế cống cho họ Trịnh, đánh dấu sự ly khai và mở đầu cuộc đối đầu Trịnh - Nguyễn.
 *   **1620:** Công chúa Nguyễn Phúc Ngọc Vạn được gả cho vua Chân Lạp là Chey Chetta II. Cuộc hôn nhân chính trị này mở đầu cho sự thâm nhập hòa bình của người Việt vào vùng Thủy Chân Lạp.
 *   **1620:** Các giáo sĩ Dòng Tên tại Hội An biên soạn một cuốn giáo lý bằng chữ Nôm. Đây được xem là một trong những văn bản đầu tiên có khả năng sử dụng chữ cái Latinh để phiên âm tiếng Việt, dưới sự chủ trì của Francisco de Pina.
 *   **20/11/1621:** Linh mục João Roiz viết bản tường trình hàng năm chứa đựng những cách ghi chép sơ khai các từ tiếng Việt bằng chữ cái Latinh, đánh dấu những bước đầu tiên của chữ Quốc ngữ.
@@ -787,7 +786,7 @@
 *   **03/1630:** Theo lời khuyên của Đào Duy Từ, chúa Nguyễn Phúc Nguyên cho đắp lũy Trường Dục từ núi Trường Dục đến phá Hạc Hải nhằm ngăn chặn quân Trịnh ngược dòng sông Nhật Lệ vào đánh xứ Đàng Trong.
 *   **09/1630:** Theo đề nghị của Đào Duy Từ, chúa Nguyễn Phúc Nguyên mở cuộc tấn công vào châu Nam Bố Chính và chiếm được vùng đất này.
 *   **1631:** (Năm Tân Mùi) Chúa Sãi gả con gái là Công chúa **Ngọc Khoa** cho vua Champa là Po Rome. Cuộc hôn nhân này giúp quan hệ Việt - Chiêm trở nên tốt đẹp, tạo điều kiện cho người Việt mở rộng xuống phía Nam.
-*   **1631:** Dưới sự chỉ đạo của Đào Duy Từ, chúa Nguyễn tiếp tục cho đắp lũy Đâu Mâu (lũy Động Hải hay Trấn Ninh) qua cửa biển Nhật Lệ, men theo sông Lệ Kỳ và sông Nhật Lệ tiến lên phía đông bắc đến làng Đông Hải. Cùng với lũy Trường Dục, hệ thống này được nhân dân tôn kính gọi là Lũy Thầy.
+*   **1631:** Dưới sự chỉ đạo của Đào Duy Từ, chúa Nguyễn Phúc Nguyên tiếp tục cho đắp lũy Đâu Mâu (lũy Động Hải hay Trấn Ninh) qua cửa biển Nhật Lệ, men theo sông Lệ Kỳ và sông Nhật Lệ tiến lên phía đông bắc đến làng Đông Hải. Cùng với lũy Trường Dục, hệ thống này được nhân dân tôn kính gọi là Lũy Thầy.
 *   **1631:** Cristoforo Borri xuất bản cuốn sách "Relatione della nuova missione..." bằng tiếng Ý, giới thiệu những quan sát chi tiết về Đàng Trong và các từ vựng tiếng Việt được La tinh hóa sơ khai đến châu Âu.
 *   **31/12/1632:** Linh mục Gaspar d'Amaral viết bản tường trình hàng năm tại Thăng Long, thể hiện sự tiến bộ vượt bậc trong chữ Quốc ngữ với việc sử dụng dấu thanh và phân tách từ ngữ chính xác. Ông cũng đã biên soạn một cuốn từ điển Việt - Bồ - La sơ khai.
 *   **1633:** Cuộc chiến lần thứ hai, chúa Trịnh Tráng kéo quân đến cửa biển Nhật Lệ tấn công nhưng bị quân Nguyễn đánh cho đại bại, quân Trịnh hoảng loạn vứt bỏ xe pháo tháo chạy.
@@ -796,7 +795,7 @@
 *   **1635:** Chúa Nguyễn Phúc Nguyên mất, con thứ hai là Nguyễn Phúc Lan lên nối ngôi (Thượng Vương).
 *   **1636:** Alexandre de Rhodes soạn thảo bản thảo cuốn "Tunchinensis Historiae libri duo", bao gồm nhiều từ ngữ tiếng Việt được phiên âm, phản ánh sự thành thạo ngày càng tăng của ông về chữ Quốc ngữ.
 *   **1637 - 1639:** Thám hoa Giang Văn Minh dẫn đầu sứ bộ Đại Việt sang triều Minh; trước triều đình Bắc Kinh, ông khẳng khái đối đáp ("Đằng Giang tự cổ huyết do hồng") để bảo vệ thể diện và khí phách dân tộc trước lời khiêu khích của hoàng đế nhà Minh.
-*   **Năm 1640:** Quân Nguyễn do Nguyễn Hữu Dật thống suất chiếm được châu Bắc Bố Chính. Chúa Trịnh Tráng viết thư đòi lại, chúa Nguyễn chấp thuận để tạm thời làm dịu tình hình biên giới.
+*   **Năm 1640:** Quân Nguyễn do Nguyễn Hữu Dật thống suất chiếm được châu Bắc Bố Chính. Chúa Trịnh Tráng viết thư đòi lại, chúa Nguyễn Phúc Lan chấp thuận để tạm thời làm dịu tình hình biên giới.
 *   **1642:** Tiềm lực quân sự Đàng Trong gia tăng mạnh, sở hữu khoảng 200 khẩu đại bác và tăng lên 1.200 khẩu vào năm 1650 nhờ giao thương với phương Tây.
 *   **1643:** Cuộc chiến lần thứ ba, quân Trịnh vây đánh lũy Trung Hòa nhưng không hạ được, phải rút quân.
 *   **07/07/1643:** Trận cảng Eo (Thuận An). Thủy quân Đàng Trong do đích thân chúa Nguyễn Phúc Lan và Thế tử Nguyễn Phúc Tần chỉ huy với 50 thuyền chiến nhỏ đã bao vây tấn công 3 chiến hạm lớn của Công ty Đông Ấn Hà Lan (VOC) do Pieter Baeck chỉ huy. Tàu lớn nhất Wijdenes bị nổ tung. Đây là lần đầu tiên thủy quân Việt Nam đánh thắng một lực lượng thủy quân châu Âu.
@@ -806,7 +805,7 @@
 *   **02/1648:** Cuộc chiến lần thứ tư, chúa Trịnh Tráng sai Lê Văn Hiểu đem quân tấn công. Quân Nguyễn do Trương Phúc Phấn và Thế tử Nguyễn Phúc Tần chỉ huy đại thắng ở lũy Trường Dục, bắt sống 3 tướng và 3.000 quân Trịnh.
 *   **1650:** Chính quyền Lê - Trịnh ban hành quy định cụ thể về quản lý người nước ngoài (Hoa Lang, Ô Lang, Nhật Bản), chỉ định nơi cư trú tại Thanh Trì, Khuyến Lương và quy định nghi thức đi lại.
 *   **1651:** Alexandre de Rhodes xuất bản hai cuốn sách đầu tiên bằng chữ Quốc ngữ tại Rome: "Dictionarium annamiticum, lusitanum, et latinum" (Từ điển Việt - Bồ - La) và "Cathechismus" (Phép giảng tám ngày). Đây là một cột mốc vĩ đại giúp chính thức hóa và chuẩn hóa chữ Quốc ngữ.
-*   **1653:** Chúa Nguyễn đánh bại vua Chiêm Thành là Bà Tấm, lấy đất từ sông Phan Rang đến Phú Yên, lập ra dinh Thái Khang (nay là Khánh Hòa).
+*   **1653:** Chúa Nguyễn Phúc Tần (Hiền Vương) đánh bại vua Chiêm Thành là Bà Tấm, lấy đất từ sông Phan Rang đến Phú Yên, lập ra dinh Thái Khang (nay là Khánh Hòa).
 *   **Khoảng 1653 - 1657:** Ông cố của anh em Tây Sơn là Hồ Phi Long từ Nghệ An vào lập nghiệp tại Quy Nhơn, đặt nền móng cho dòng họ tại vùng đất này.
 *   **1653:** Dưới thời vua Lê Thần Tông, đợt dựng bia có quy mô lớn nhất tại Văn Miếu được thực hiện, dựng bổ sung bia cho 25 khoa thi Tiến sĩ trước đó còn thiếu.
 *   **1655 - 1660:** Cuộc chiến lần thứ năm, đây là lần duy nhất quân Nguyễn chủ động tấn công ra Bắc, chiếm được 7 huyện ở Nghệ An. Tuy nhiên sau đó do nội bộ bất hòa phải rút lui.
@@ -822,28 +821,29 @@
 *   **1663:** Chính quyền Lê - Trịnh ban lệnh cấm người dân theo đạo Hoa Lang (Thiên Chúa giáo), đồng thời ra lệnh rà soát, thống kê kỹ lưỡng lý lịch người nước ngoài cư trú tại Đàng Ngoài.
 *   **1663:** Vua Lê Huyền Tông cho xây dựng điện Nam Giao (trước đây chỉ đắp đàn tế).
 *   **1664:** Hội thừa sai Paris (Missions Étrangères de Paris, MEP) được thành lập, mở đường cho sự can thiệp sâu hơn của Pháp vào Việt Nam về mặt tôn giáo và chính trị.
-*   **1667:** João da Cruz, một người Bồ Đào Nha phục vụ chúa Nguyễn, đã đúc thành công các loại súng thần công theo kỹ thuật phương Tây, gia tăng đáng kể tiềm lực quân sự cho Đàng Trong.
+*   **1667:** João da Cruz, một thợ đúc súng người Bồ Đào Nha phục vụ chúa Nguyễn Phúc Tần, đã đúc thành công các loại súng thần công theo kỹ thuật phương Tây tại xưởng đúc Phường Đúc (Huế), gia tăng đáng kể tiềm lực quân sự cho Đàng Trong.
 *   **06/1672:** Cuộc chiến lần thứ bảy và cũng là lần ác liệt nhất. Quân Trịnh hùng hậu do Trịnh Căn và Lê Thì Hiến chỉ huy dốc toàn lực tấn công lũy Nhật Lệ. Tuy nhiên, quân Nguyễn do Nguyễn Hữu Hiệp, Nguyễn Hữu Dật và Nguyễn Mỹ Đức cố sức chống đỡ thành công, quân Trịnh không thắng nổi phải rút về Bắc Bố Chính.
 *   **Cuối 1672:** Hai bên đình chiến, lấy sông Gianh làm giới tuyến, chính thức chia cắt đất nước thành Đàng Trong và Đàng Ngoài trong hơn một thế kỷ.
 *   **1675:** Tham tụng Phạm Công Trứ cùng các sử quan hoàn thành biên soạn bộ *Đại Việt Sử Ký Bản Kỷ Tục Biên* gồm 23 quyển, nối tiếp bộ quốc sử của Ngô Sĩ Liên và ghi chép tường tận lịch sử từ năm 1593 đến năm 1662.
 *   **Mùa Xuân 1676:** Bộ sách *Lam Sơn thực lục* được sửa chữa và khắc in lại theo lệnh của triều đình (niên hiệu Vĩnh Trị).
 *   **02 - 08/1677:** Chiến dịch Cao Bằng. Quân Lê - Trịnh do Đinh Văn Tả và Nguyễn Hữu Đăng chỉ huy mở cuộc tấn công lớn nhằm tiêu diệt lực lượng tàn dư nhà Mạc do Mạc Kính Vũ cầm đầu. Quân Trịnh lần lượt hạ thành Mục Mã, Nà Lữ và Phục Hòa. Mạc Kính Vũ trốn sang Trung Quốc, chấm dứt hoàn toàn sự cát cứ của nhà Mạc, thống nhất lãnh thổ Cao Bằng vào Đại Việt.
-*   **1679:** Hai nhóm cựu thần nhà Minh trung thành là Dương Ngạn Địch và Trần Thượng Xuyên đem hơn 3.000 người đến xin tị nạn, được chúa Nguyễn cho vào khai khẩn vùng Mỹ Tho và Biên Hòa.
+*   **1679:** Hai nhóm cựu thần nhà Minh trung thành là Dương Ngạn Địch và Trần Thượng Xuyên đem hơn 3.000 người cùng 50 chiến thuyền đến xin tị nạn, được chúa Nguyễn Phúc Tần cho vào khai khẩn vùng Đông Phố (Mỹ Tho và Biên Hòa).
 *   **1680:** Mạc Cửu (cũng là cựu thần nhà Minh) đến khai phá vùng đất Hà Tiên, trong đó có Phú Quốc.
 *   **1682:** Chúa Trịnh Tạc mất, cháu đích tôn là Trịnh Căn lên nối ngôi (Định Nam Vương).
 *   **Năm 1684:** Chúa Trịnh Căn hạ lệnh cho quan lại đi tuần hành thị sát dân tình, nhấn mạnh việc thương yêu dân chúng là ưu tiên hàng đầu của chính sự và xử lý các oan ức.
+*   **1686 (Bính Dần):** Giám sinh Đỗ Bá (tự Công Đạo) biên soạn tập bản đồ *Toàn tập Thiên Nam tứ chí lộ đồ thư*. Trong bản đồ phủ Quảng Ngãi (thuộc quyển 1), ông đã vẽ hình thể "Bãi Cát Vàng" (Hoàng Sa Chử) giữa Biển Đông và ghi chú thích rõ ràng: hàng năm vào tháng cuối mùa đông, Chúa Nguyễn thời Chúa Hiền Nguyễn Phúc Tần đều phái 18 chiếc thuyền ra lấy hóa vật, vàng bạc, tiền tệ và súng đạn. Đây là tài liệu bản đồ và văn bản hành chính nhà nước cổ nhất của Việt Nam ghi nhận việc xác lập và thực thi chủ quyền đối với quần đảo Hoàng Sa.
 *   **1687:** Chúa Nguyễn Phúc Tần mất, con là Nguyễn Phúc Trăn lên nối ngôi (Nghĩa Vương).
 *   **1691:** Chúa Nguyễn Phúc Trăn mất, con là Nguyễn Phúc Chu lên nối ngôi (Minh Vương).
-*   **1693:** Chúa Nguyễn đánh bại vua Chiêm Thành là Bà Tranh, đổi phần đất còn lại của Chiêm Thành thành trấn Thuận Thành (nay là Bình Thuận).
+*   **1693:** Chúa Nguyễn Phúc Chu (Minh Vương) đánh bại vua Chiêm Thành là Bà Tranh, sáp nhập phần đất còn lại của Chiêm Thành và lập ra trấn Thuận Thành (nay là Bình Thuận).
 *   **1697:** Chính thức đặt phủ Bình Thuận. Vương quốc Champa chấm dứt sự tồn tại với tư cách một quốc gia độc lập.
 *   **1697:** Nhóm sử quan do Lê Hy và Nguyễn Quý Đức đứng đầu hoàn thành việc biên soạn phần Tục biên và cho khắc ván in trọn bộ *Đại Việt Sử Ký Toàn Thư* gồm 24 quyển (Nội các quan bản năm Chính Hòa thứ 18), bộ quốc sử mộc bản hoàn chỉnh nhất lưu truyền cho hậu thế.
-*   **1698:** Chúa Nguyễn cử Thống suất Nguyễn Hữu Cảnh vào kinh lược xứ Đồng Nai, lập phủ Gia Định (gồm dinh Trấn Biên và dinh Phiên Trấn). Đây là mốc quan trọng xác lập chủ quyền của Đại Việt ở Nam Bộ.
+*   **1698:** Chúa Nguyễn Phúc Chu cử Thống suất Nguyễn Hữu Cảnh vào kinh lược xứ Đồng Nai, lập phủ Gia Định (gồm dinh Trấn Biên và dinh Phiên Trấn). Đây là mốc quan trọng xác lập chủ quyền của Đại Việt ở Nam Bộ.
 *   **1698:** Vụ đắm tàu *Amphitrite* của Pháp xảy ra tại quần đảo Hoàng Sa trong chuyến hải hành từ Pháp sang Trung Quốc dưới thời vua Louis XIV.
 *   **1702:** Công ty Đông Ấn Anh đến đặt thương điếm ở Côn Đảo nhưng nhanh chóng rút đi vì thất bại.
-*   **1702:** Đội Hoàng Sa, do các chúa Nguyễn lập ra để khai thác và bảo vệ các đảo, đã thu lượm được 30 thỏi bạc từ các xác tàu đắm, theo ghi chép trong *Phủ biên tạp lục* của Lê Quý Đôn.
+*   **1702:** Dưới thời Chúa Minh Nguyễn Phúc Chu, Đội Hoàng Sa trong chuyến hải trình thực thi nhiệm vụ tại quần đảo Hoàng Sa đã thu lượm được 30 thỏi bạc từ các xác tàu đắm ngoại quốc nộp về phủ chúa, theo ghi chép trong *Phủ biên tạp lục* của Lê Quý Đôn.
 *   **1704:** Đội Hoàng Sa thu lượm được 5.100 tấn thiếc tại quần đảo Hoàng Sa.
 *   **1705:** Đội Hoàng Sa thu lượm được 126 thỏi bạc.
-*   **1708:** Mạc Cửu đem toàn bộ đất đai Hà Tiên do mình khai phá xin nội thuộc chúa Nguyễn.
+*   **1708:** Mạc Cửu đem toàn bộ đất đai xứ Mang Khảm (Hà Tiên) do mình khai phá dâng lên xin nội thuộc chúa Nguyễn Phúc Chu.
 *   **08/1708:** Chúa Nguyễn Phúc Chu phong cho Mạc Cửu làm **Tổng binh** trấn Hà Tiên, tước Cửu Ngọc hầu, chính thức sáp nhập vùng đất này vào lãnh thổ Đại Việt.
 *   **1709:** Chúa Trịnh Căn mất, chắt là Trịnh Cương lên nối ngôi (An Đô Vương).
 *   **1709:** Chúa Nguyễn Phúc Chu cho đúc ấn **"Đại Việt quốc Nguyễn chúa vĩnh trấn chi bảo"**, khẳng định quyền lực của dòng họ Nguyễn.
@@ -868,11 +868,11 @@
 *   **Tháng 8/1743 (Tháng 7 năm Quý Hợi):** Danh sĩ, nhà thơ Nguyễn Huy Tự (tự Hữu Chi, hiệu Uẩn Trai) sinh ra tại làng Trường Lưu, huyện La Sơn, trấn Nghệ An (nay thuộc xã Trường Lộc, Can Lộc, Hà Tĩnh). Ông là con trai trưởng của Thám hoa Nguyễn Huy Oánh và là tác giả kiệt tác truyện thơ Nôm *Hoa Tiên* (Hoa Tiên ký), tác phẩm mở đầu cho dòng truyện thơ Nôm bác học trong lịch sử văn học Việt Nam.
 *   **1744:** Ở Đàng Trong, Nguyễn Phúc Khoát xưng Vương, cải tổ lại chính quyền theo quy chế của một vương triều độc lập.
 *   **1744:** Chúa Nguyễn Phúc Khoát tiến hành đổi mới phong tục, bắt buộc quan dân thay đổi lối ăn mặc (theo kiểu Trung Quốc) và đổi tên các cơ quan hành chính (Phủ đổi thành Điện).
-*   **1754:** Thủy thủ Việt Nam bị đắm thuyền gần quần đảo Hoàng Sa và trôi dạt tới bờ biển Trung Quốc. Nhà chức trách Trung Quốc đã điều tra và đưa họ về nước mà không hề có bất kỳ sự phản kháng hay tuyên bố chủ quyền nào đối với các hoạt động của người Việt tại Hoàng Sa.
+*   **1753:** Dưới thời Chúa Võ Nguyễn Phúc Khoát, 8 người lính thuộc Đội Hoàng Sa (xã An Vĩnh, phủ Quảng Ngãi) đi làm nhiệm vụ gặp bão dạt vào cảng Thanh Lan, huyện Văn Xương (đảo Hải Nam, Trung Quốc). Sau khi tra xét, Tri huyện Văn Xương đã cấp công văn xác nhận họ là lính tuần biển của chúa Nguyễn xứ Đàng Trong và phái quan binh hộ tống đưa 8 người lính cùng thuyền về Thuận Hóa an toàn mà không hề có bất kỳ sự phản kháng hay tranh chấp chủ quyền nào đối với các hoạt động của Đại Việt tại Hoàng Sa.
 *   **1754:** Danh tướng Phạm Đình Trọng, người có công dẹp các cuộc nổi dậy của Nguyễn Hữu Cầu và Nguyễn Danh Phương, qua đời (Mùng 1 tháng 1 năm Giáp Tuất).
 *   **1754:** Tướng Hoàng Công Chất cùng các thủ lĩnh địa phương lãnh đạo nhân dân đánh đuổi giặc Phẻ xâm lấn từ phương Bắc, giải phóng toàn bộ cánh đồng Mường Thanh (Điện Biên), cho xây dựng Thành Bản Phủ làm căn cứ bảo vệ và củng cố vững chắc vùng biên giới Tây Bắc.
-*   **1756:** Vua Chân Lạp Nặc Nguyên dâng đất hai phủ Tầm Bôn và Lôi Lạp (nay thuộc Tân An, Gò Công) cho chúa Nguyễn.
-*   **1757:** Vua Chân Lạp Nặc Tôn dâng đất Tầm Phong Long (nay thuộc Châu Đốc) và 5 phủ ở vùng Hà Tiên để tạ ơn. Toàn bộ vùng đất Nam Bộ về cơ bản thuộc chủ quyền của các chúa Nguyễn.
+*   **1756:** Vua Chân Lạp Nặc Nguyên dâng đất hai phủ Tầm Bôn và Lôi Lạp (nay thuộc Tân An, Gò Công) cho chúa Nguyễn Phúc Khoát (Võ Vương).
+*   **1757:** Vua Chân Lạp Nặc Tôn dâng đất Tầm Phong Long (nay thuộc Châu Đốc, An Giang) và 5 phủ ở vùng duyên hải Tây Nam cho chúa Nguyễn Phúc Khoát để tạ ơn giúp đỡ giành lại ngai vàng. Toàn bộ vùng đất Nam Bộ về cơ bản thuộc quyền kiểm soát và chủ quyền của chính quyền chúa Nguyễn.
 *   **1759:** Đô đốc d'Estaing của Pháp ghi chép về sự tuần tiễu nghiêm ngặt giữa quần đảo Hoàng Sa và bờ biển Việt Nam của các đơn vị hải quân Việt Nam, chứng tỏ sự thực thi chủ quyền liên tục.
 *   **1764:** Lê Văn Duyệt sinh ra tại Định Tường (nguyên quán Quảng Ngãi). Ông sau này trở thành một danh tướng lẫy lừng, giữ chức Tổng trấn Gia Định thành và có công lớn trong việc khai phá, ổn định vùng đất Nam Bộ.
 *   **1765:** Chúa Nguyễn Phúc Khoát mất. Quyền thần Trương Phúc Loan lộng hành, lập Nguyễn Phúc Thuần (12 tuổi) lên ngôi, bắt giam Nguyễn Phúc Luân. Xã hội Đàng Trong bắt đầu đi vào khủng hoảng sâu sắc.
@@ -890,7 +890,7 @@
 *   **Trung tuần tháng 9/1773:** Nghĩa quân Tây Sơn hạ thành Quy Nhơn, Tuần vũ Nguyễn Khắc Tuyên bỏ chạy. Sự kiện này gắn liền với giai thoại về mưu kế của Nguyễn Nhạc, người đã tự ngồi vào cũi giả làm tù nhân để lọt vào thành rồi phá cũi mở cổng cho quân tiến vào.
 *   **01/11/1773:** Quân Tây Sơn giành chiến thắng trong trận Bến Đá (Quảng Ngãi).
 *   **Mùa Đông 1773:** Các tướng Nguyễn Văn Lộc và Lê Văn Hưng theo lệnh của Chinh Nam Đại tướng quân Ngô Văn Sở vào đánh chiếm ba phủ Phú Yên, Diên Khánh, Bình Thuận.
-*   **22/12/1773:** Trận Bến Ván (Quảng Nam) diễn ra, quân chúa Nguyễn tạm thời đẩy lùi được quân Tây Sơn.
+*   **22/12/1773:** Trận Bến Ván (Quảng Nam) diễn ra, quân chúa Nguyễn Phúc Thuần tạm thời đẩy lùi được quân Tây Sơn.
 *   **1774:** Quân Trịnh do Hoàng Ngũ Phúc chỉ huy vượt sông Gianh tiến vào Nam, chiếm được Phú Xuân. Chúa Nguyễn Phúc Thuần phải chạy vào Quảng Nam.
 *   **Đầu năm 1774:** Quân Tây Sơn giết chết 1.600 lính của nhà Nguyễn trong các cuộc giao tranh, cho thấy sự khốc liệt ngày càng tăng của cuộc chiến.
 *   **22/04/1774:** Chúa Nguyễn Phúc Thuần ban hành sắc luật ân xá cho người theo đạo Thiên Chúa, một động thái nhằm thu phục lòng dân trước áp lực của phong trào Tây Sơn.
@@ -899,10 +899,10 @@
 *   **30/01/1775:** Quân Trịnh do Hoàng Ngũ Phúc chỉ huy tiến đánh và chiếm được Phú Xuân. Chúa Nguyễn Phúc Thuần buộc phải bỏ kinh thành theo đường biển chạy vào Quảng Nam rồi sau đó vào Gia Định, đánh dấu sự sụp đổ của chính quyền trung ương chúa Nguyễn ở Đàng Trong.
 *   **22 - 24/04/1775:** Trận Cẩm Sa diễn ra tại Quảng Nam. Quân Trịnh do Hoàng Ngũ Phúc chỉ huy giao chiến với quân Tây Sơn do Nguyễn Nhạc và Tập Đình chỉ huy. Dù quân Tây Sơn ban đầu tấn công dũng mãnh, quân Trịnh đã dùng tượng binh và kỵ binh đánh phá đội hình, giành thắng lợi quyết định. Trước thế bị kẹp giữa quân Trịnh ở phía Bắc và quân Nguyễn ở phía Nam, Nguyễn Nhạc phải tạm thời xin hàng quân Trịnh để bảo toàn lực lượng.
 *   **05/1775:** Quân Trịnh tiếp tục chiếm Quảng Nam. Nguyễn Nhạc phải tạm thời xin hàng quân Trịnh để tập trung lực lượng đánh chúa Nguyễn.
-*   **07/1775:** Nguyễn Huệ cử nữ tướng Bùi Thị Xuân và tướng Võ Đình Tú đem quân đánh Phú Yên, đánh bại quân chúa Nguyễn do Tống Phúc Hiệp chỉ huy.
+*   **07/1775:** Nguyễn Huệ cử nữ tướng Bùi Thị Xuân và tướng Võ Đình Tú đem quân đánh Phú Yên, đánh bại quân chúa Nguyễn Phúc Thuần do Tống Phúc Hiệp chỉ huy.
 *   **10/1775:** Thống tướng quân Trịnh là Hoàng Ngũ Phúc qua đời trên đường rút quân về Bắc sau chiến dịch Nam tiến không thành công trọn vẹn do dịch bệnh và sự kháng cự dai dẳng.
 *   **1776:** Nguyễn Nhạc cho sửa sang thành Đồ Bàn (Quy Nhơn) để làm căn cứ cho nhà Tây Sơn.
-*   **Đầu 1776:** Lê Quý Đôn được triều đình Lê - Trịnh cử làm Hiệp trấn tham tán quân cơ trấn Thuận Hóa, tại đây ông đã biên soạn bộ sách *Phủ Biên Tạp Lục*. Tác phẩm này ghi chép chi tiết về việc các chúa Nguyễn đã tổ chức khai thác kinh tế và quản lý quần đảo Hoàng Sa từ đầu thế kỷ XVIII, với Đội Hoàng Sa hoạt động định kỳ từ tháng hai đến tháng tám âm lịch hàng năm.
+*   **Đầu 1776:** Lê Quý Đôn được triều đình Lê - Trịnh cử làm Hiệp trấn tham tán quân cơ trấn Thuận Hóa, tại đây ông đã biên soạn bộ sách *Phủ Biên Tạp Lục*. Tác phẩm này ghi chép chi tiết về việc các đời chúa Nguyễn (từ thời Chúa Tiên Nguyễn Hoàng, Chúa Sãi Nguyễn Phúc Nguyên đến Chúa Minh Nguyễn Phúc Chu, Chúa Võ Nguyễn Phúc Khoát) đã liên tục tổ chức, quản lý Đội Hoàng Sa (70 suất xã An Vĩnh) và Đội Bắc Hải định kỳ từ tháng hai đến tháng tám âm lịch hàng năm để thực thi chủ quyền tại quần đảo Hoàng Sa và Vạn Lý Trường Sa.
 *   **03/1776:** Nguyễn Nhạc tự xưng là Tây Sơn Vương tại thành Quy Nhơn.
 *   **1777:** Nguyễn Huệ tiến đánh Gia Định, tiêu diệt gần hết lực lượng của chúa Nguyễn. Chúa Nguyễn Phúc Thuần và Tân Chính vương Nguyễn Phúc Dương đều bị bắt và bị giết. Nguyễn Ánh (cháu chúa Nguyễn) chạy thoát ra đảo Thổ Châu.
 *   **19/09/1777:** Tân Chính vương Nguyễn Phúc Dương bị quân Tây Sơn bắt và giết tại Ba Vác.
@@ -922,14 +922,15 @@
 *   **28/11/1782 (24/10 năm Nhâm Dần):** "Loạn kiêu binh" bùng nổ tại Đàng Ngoài. Quân lính giết Quận huy Hoàng Đình Bảo, phế truất Trịnh Cán và đưa Trịnh Tông (Trịnh Khải) lên thay (Đoan Nam Vương). Sự việc này làm triều chính họ Trịnh càng thêm suy yếu, tạo điều kiện cho quân Tây Sơn tiến ra Bắc sau này.
 *   **12/1782 (Tháng 11 năm Nhâm Dần):** Lê Hữu Trác về đến quê nhà Hương Sơn sau chuyến đi ra kinh đô.
 *   **1783:** Lê Hữu Trác hoàn thành tác phẩm *Thượng Kinh ký sự*, ghi chép chân thực về cảnh sống xa hoa nhưng suy tàn của phủ chúa Trịnh và xã hội Đàng Ngoài đương thời. Nguyễn Huệ và Nguyễn Lữ đem quân vào đánh, Nguyễn Ánh lại thua trận, phải chạy sang Xiêm cầu viện.
-*   **Đầu năm 1783:** Tướng Lê Văn Hưng tấn công đồn thủy binh Dác Ngư (Gia Định), giết chết tướng Tôn Thất Mậu của chúa Nguyễn.
+*   **Đầu năm 1783:** Tướng Lê Văn Hưng tấn công đồn thủy binh Dác Ngư (Gia Định), giết chết tướng Tôn Thất Mậu của chúa Nguyễn Phúc Ánh.
 *   **24/02/1783:** Trận thủy chiến tại sông Gia Định (khu vực Vàm Cỏ - Cá Trê), quân Nguyễn dùng hỏa công nhưng gặp gió đông bắc thổi mạnh ngược lại, tự thiêu rụi thuyền bè. Nguyễn Ánh phải chạy ra đảo Côn Lôn rồi Phú Quốc.
 *   **25/07/1784:** 5 vạn quân Xiêm (2 vạn thủy, 3 vạn bộ) do Chiêu Tăng, Chiêu Sương chỉ huy cùng Nguyễn Ánh tiến vào xâm lược Gia Định.
 *   **Mùa đông 1784:** Nguyễn Ánh cử Hoàng tử Cảnh đi cùng Giám mục Pigneau de Béhaine (Bá Đa Lộc) sang Pháp cầu viện.
-*   **1785:** Trong cuộc rút lui hỗn loạn sau thất bại, Lê Văn Duyệt đã chiến đấu dũng cảm để bảo vệ Chúa Nguyễn Ánh, giúp ông thoát về Hà Tiên rồi sang Xiêm.
-*   **1785:** Miếu An Sơn (miếu Bà) được xây dựng tại Côn Đảo để thờ bà Phi Yến (Lê Thị Răm), thứ phi của chúa Nguyễn Ánh. Giai thoại kể rằng bà đã can ngăn chúa Nguyễn cầu viện Pháp và bị giam cầm.
+*   **1785:** Trong cuộc rút lui hỗn loạn sau thất bại, Lê Văn Duyệt đã chiến đấu dũng cảm để bảo vệ Chúa Nguyễn Phúc Ánh (Nguyễn Ánh), giúp ông thoát về Hà Tiên rồi sang Xiêm.
+*   **1785:** Miếu An Sơn (miếu Bà) được xây dựng tại Côn Đảo để thờ bà Phi Yến (Lê Thị Răm), thứ phi của chúa Nguyễn Phúc Ánh. Giai thoại kể rằng bà đã can ngăn chúa Nguyễn cầu viện Pháp và bị giam cầm.
 *   **19 - 20/01/1785:** Trận Rạch Gầm - Xoài Mút. Nguyễn Huệ tổ chức trận địa mai phục tài tình dọc sông Tiền, phối hợp thủy bộ đại phá 5 vạn liên quân Xiêm - Nguyễn. Chỉ trong chưa đầy một ngày, quân Tây Sơn đã tiêu diệt gần 300 chiến thuyền và khoảng 4 vạn quân Xiêm, vĩnh viễn xóa bỏ mối đe dọa xâm lược của Xiêm La đối với chủ quyền miền Nam, buộc Nguyễn Ánh phải chạy trốn sang Xiêm.
 *   **1786:** Trong thời gian lưu vong tại Xiêm, Lê Văn Duyệt tham gia cùng quân Xiêm đánh quân Miến Điện xâm lược tại Sài Nặc. Ông đã sử dụng chiến thuật dùng "ống phun lửa" để làm hoảng sợ voi và ngựa chiến của địch, góp phần vào chiến thắng.
+*   **14/02/1786 (16 tháng Giêng năm Thái Đức thứ 9):** Quan Thái phó Tổng lý quản binh dân của chính quyền Tây Sơn ban hành *Sai phái trạng* (Lệnh sai hành chính) cử Cai đồn Hà Liễu chỉ huy 4 chiếc thuyền câu thuộc Đội Hoàng Sa (xã An Vĩnh) tiếp tục ra quần đảo Hoàng Sa thực hiện nhiệm vụ thu lượm hóa vật, khí giới và tuần thám biển đảo. Đây là văn bản pháp lý quý giá của triều Tây Sơn khẳng định sự kế thừa liên tục việc thực thi chủ quyền đối với quần đảo Hoàng Sa.
 *   **06/1786:** Lấy danh nghĩa "phù Lê diệt Trịnh", Nguyễn Huệ chỉ huy đại quân Tây Sơn tiến ra Bắc.
 *   **15/06/1786:** Quân Tây Sơn lợi dụng đêm tối và nước thủy triều dâng cao, bất ngờ tấn công và hạ thành Phú Xuân. Tướng Trịnh là Hoàng Đình Thể chiến đấu đến khi hết đạn rồi tử trận, còn trấn thủ Phạm Ngô Cầu mở cửa thành đầu hàng. Thắng lợi này đã tiêu diệt hoàn toàn lực lượng quân Trịnh ở phía nam sông Gianh.
 *   **17/07/1786:** Trận Sơn Nam. Nguyễn Huệ dùng kế tâm lý chiến, cho những người nộm rơm lên thuyền để dụ địch bắn tên đạn. Khi quân Trịnh cạn kiệt đạn dược, thủy quân và tinh binh Tây Sơn đồng loạt tấn công, đánh tan quân Trịnh và chiếm được trấn Sơn Nam.
@@ -1000,7 +1001,7 @@
 
 *   **1802:** Triều Nguyễn được thành lập, vua Gia Long lên ngôi.
 *   **1802:** Nguyễn Du (1765 - 1820) bắt đầu ra làm quan triều Nguyễn dưới thời vua Gia Long, từng giữ các chức Tri huyện Phù Dung, Tri phủ Thường Tín, rồi Hữu Tham tri Bộ Lễ.
-*   **03/02/1802:** Trận Trấn Ninh. Trận kịch chiến cuối cùng giữa quân Tây Sơn và quân chúa Nguyễn. Mặc dù nữ tướng Bùi Thị Xuân đã dũng cảm cưỡi voi chỉ huy những đợt tiến công quyết liệt, quân Tây Sơn cuối cùng vẫn bị đánh bại trước hệ thống phòng thủ vững chắc của quân Nguyễn tại lũy Trấn Ninh. Cùng lúc đó, thủy quân Tây Sơn cũng bị tiêu diệt tại cửa Nhật Lệ. Thất bại thảm hại này đã đánh dấu sự sụp đổ hoàn toàn của vương triều Tây Sơn.
+*   **03/02/1802:** Trận Trấn Ninh. Trận kịch chiến cuối cùng giữa quân Tây Sơn và quân chúa Nguyễn Phúc Ánh. Mặc dù nữ tướng Bùi Thị Xuân đã dũng cảm cưỡi voi chỉ huy những đợt tiến công quyết liệt, quân Tây Sơn cuối cùng vẫn bị đánh bại trước hệ thống phòng thủ vững chắc của quân Nguyễn tại lũy Trấn Ninh. Cùng lúc đó, thủy quân Tây Sơn cũng bị tiêu diệt tại cửa Nhật Lệ. Thất bại thảm hại này đã đánh dấu sự sụp đổ hoàn toàn của vương triều Tây Sơn.
 *   **05/1802:** Lê Văn Duyệt được phong làm *Khâm sai Chưởng Tả quân*, tước Quận công, trở thành một trong những đệ nhất khai quốc công thần của triều đại.
 *   **31/05/1802 (01/05 năm Nhâm Tuất):** Nguyễn Ánh chính thức đặt niên hiệu là **Gia Long**, ban chiếu đại xá thiên hạ.
 *   **06/1802:** Sau khi thành Bình Định thất thủ, Nguyễn Ánh chính thức lên ngôi Hoàng đế ở Phú Xuân, đặt niên hiệu là Gia Long.
@@ -1011,6 +1012,7 @@
 *   **1803:** Vua Gia Long ra lệnh đắp lại **Thành Thăng Long** (Hà Nội). Vua định lệ lương bổng cho quan và quân ở Bắc thành. Triều đình thiết lập Tràng Tiền tại Thăng Long để đúc tiền "Gia Long thông bảo".
 *   **1803 - 1808:** Tả quân Lê Văn Duyệt được cử đi đánh dẹp cuộc nổi dậy của "Mọi Thạch Bích" (đồng bào dân tộc thiểu số) ở vùng Quảng Ngãi, ổn định biên giới.
 *   **01/1803:** Vua Gia Long ra lệnh đúc **Cửu Vị Thần Công** từ các binh khí bằng đồng thu được, hoàn thành vào tháng 12/1804, đặt tên theo bốn mùa và ngũ hành.
+*   **07/1803 (tháng 7 năm Quý Hợi, Gia Long năm thứ 2):** Vua Gia Long cho tái lập Đội Hoàng Sa và Đội Bắc Hải, cử Cai cơ Võ Văn Phú làm Thủ ngự cửa biển Sa Kỳ kiêm quản đội Hoàng Sa để tiếp tục phái thuyền ra quần đảo Hoàng Sa đo đạc hải trình, tuần thám và thu lượm hóa vật.
 *   **1804 (Năm Gia Long thứ ba):** Triều đình quy định rõ mức tiền cheo (nhà giàu 1 quan 5 tiền, bậc trung 6 tiền, nhà nghèo 3 tiền) và bắt buộc nộp gấp đôi nếu lấy người làng khác, nhằm thắt chặt sự cố kết cộng đồng làng xã.
 *   **1804:** Vua Gia Long chính thức đặt quốc hiệu là Việt Nam (sau khi nhà Thanh không chấp thuận tên Nam Việt). Vua cũng cho đúc ấn của 6 bộ và ban hành phép quân điền (chia ruộng). Vua Gia Long cho xây dựng **Cung Thành** (nơi ở của vua và hoàng gia) ở phía sau điện Thái Hòa, đến năm 1822 đổi tên là Tử Cấm Thành. Triều Nguyễn dời trấn sở An Quảng về xã Quỳnh Lâu (Quảng Yên); phá tháp Tường Long lấy gạch đá xây thành Hải Dương.
 *   **01/1804:** Vua Gia Long ban chiếu cấm dựng nhà thờ Gia Tô mới và quy định nghiêm ngặt việc tu bổ nhà thờ cũ, thể hiện chính sách dè chừng đối với ảnh hưởng của tôn giáo phương Tây nhằm bảo vệ văn hóa truyền thống.
@@ -1041,9 +1043,10 @@
 *   **02/1814:** Thừa Thiên Cao Hoàng hậu (Tống Thị Lan) băng hà.
 *   **1815:** Vụ án Nguyễn Văn Thành bắt đầu từ bài thơ của người con trai là Nguyễn Văn Thuyên. Vụ án này dẫn đến cái chết của đại công thần Nguyễn Văn Thành vào năm 1817, đánh dấu cuộc thanh trừng nội bộ để củng cố quyền lực của vua Gia Long.
 *   **1815:** Vua Gia Long cử Phạm Quang Ảnh chỉ huy một đơn vị hải quân đi thăm dò các quần đảo và vẽ bản đồ thủy trình tại đó.
+*   **02/1815 (tháng 2 năm Ất Hợi, Gia Long năm thứ 14):** Vua Gia Long phái Đội Hoàng Sa và Thủy quân do Phạm Quang Ảnh chỉ huy ra quần đảo Hoàng Sa để khảo sát, đo đạc hải trình và nghiên cứu hải văn.
 *   **08/1815:** Bộ **Hoàng Việt luật lệ** (Luật Gia Long) chính thức được ban hành.
-*   **1816:** Vua Gia Long long trọng khẳng định chủ quyền của Việt Nam trên các quần đảo. Nhà vua chính thức cử thủy quân ra quần đảo Hoàng Sa để xem xét, đo đạc thủy trình và vẽ bản đồ trình lên hoàng đế. Nhà Nguyễn cũng thành lập thêm *đội Bắc Hải* để tiếp tục thực thi chủ quyền tại cả Hoàng Sa và Trường Sa.
 *   **1816:** Lê Văn Duyệt cho đắp **"Bình Man đạo"** (lũy Bình Man) dài từ Quảng Nam đến Bình Định, có trồng tre và đào hào, để ngăn chặn sự xâm lấn của các bộ tộc miền núi, ổn định biên giới phía Tây.
+*   **03/1816 (tháng 3 năm Bính Tý, Gia Long năm thứ 15):** Vua Gia Long chính thức phái Thủy quân và Đội Hoàng Sa ra quần đảo Hoàng Sa, cắm cờ và dựng cột mốc khẳng định chủ quyền của Vương triều Nguyễn trên toàn bộ quần đảo (sự kiện được ghi nhận trong *Đại Nam Thực Lục Chính Biên* và được các nhân chứng phương Tây như Giám mục Jean-Louis Taberd, John Crawfurd, J.B. Chaigneau xác nhận). Đội Bắc Hải do Đội Hoàng Sa kiêm quản cũng tiếp tục tuần phòng vùng biển Trường Sa và các cù lao phía nam.
 *   **11/06/1816:** Vua Gia Long lập Hoàng tử thứ tư (Nguyễn Phúc Đảm) làm Hoàng Thái tử.
 *   **1817:** Vua Gia Long định lệ "tập ấm" (quyền lợi kế thừa cho con cháu công thần).
 *   **06/1817:** Một thuyền buôn Ma Cao cập bến Đà Nẵng và dâng bản đồ quần đảo Hoàng Sa lên vua Gia Long. Nhà vua đã ban thưởng, khẳng định sự quan tâm của triều đình đối với chủ quyền biển đảo.
@@ -1105,16 +1108,17 @@
 *   **1835:** Sau khi dẹp xong loạn Lê Văn Khôi, vua Minh Mạng ra chỉ dụ kết tội Lê Văn Duyệt, sai san phẳng mộ, dựng bia đá khắc 8 chữ "Quyền yêm Lê Văn Duyệt phục pháp xứ" (Hoạn quan lộng quyền Lê Văn Duyệt chịu tội chết) và xiềng xích lại.
 *   **1835 (Năm Minh Mạng thứ 16):** Đào sông Cửu Yên (Hưng Yên) để giảm thế nước sông Hồng (sau bị lấp bỏ vào năm 1842 do gây ngập lụt).
 *   **1835:** Vua Minh Mạng thực hiện lễ "bão tất" (ôm gối) để vinh danh các tướng lĩnh thắng trận trở về (Phạm Văn Điển, Tạ Quang Cự, Lê Văn Đức), tỏ ý thân yêu như tình cha con.
-*   **1835:** Sau thời gian bị hoãn do thời tiết xấu, các công trình xây dựng miếu và dựng bia trên quần đảo Hoàng Sa được tiến hành dưới sự chỉ đạo của vua Minh Mạng để lưu truyền kỷ niệm về cuộc thám hiểm.
 *   **03/1835:** Thủ lĩnh Nông Văn Vân bị tiêu diệt tại núi Thẩm Bát (Tuyên Quang), chấm dứt cuộc nổi dậy ở vùng biên giới phía Bắc.
+*   **06/1835 (tháng 6 năm Ất Mùi, Minh Mạng năm thứ 16):** Vua Minh Mạng phái Cai đội Thủy quân Phạm Văn Nguyên chỉ huy lính thợ và dân phu hai tỉnh Quảng Ngãi, Bình Định ra đảo Hoàng Sa (bãi Bàn Than) xây dựng miếu Hoàng Sa (Hoàng Sa tự), dựng bia đá ghi nhớ và trồng cây xanh xung quanh đảo để làm dấu hiệu nhận biết cho tàu thuyền qua lại tránh mắc cạn.
 *   **10/1835:** Bắt đầu đúc **Cửu Đỉnh** (9 đỉnh đồng lớn) để đặt trước Thế Miếu (hoàn thành vào tháng 5/1836).
 *   **1836:** Thành lập Tôn Nhân Phủ để quản lý các việc trong hoàng tộc. Cơ mật viện được chia làm hai ban: Nam chương kinh và Bắc chương kinh. Vua Minh Mạng phái Thủy quân Chánh đội trưởng Suất đội **Phạm Hữu Nhật** đưa binh thuyền ra quần đảo **Hoàng Sa** để đo đạc thủy trình, vẽ bản đồ và cắm các bài gỗ khắc chữ ghi rõ năm Minh Mạng thứ 17 để khẳng định chủ quyền. Kinh lược sứ Trương Đăng Quế và Tôn Thất Bạch thực hiện cuộc đạc điền quy mô lớn tại Lục tỉnh Nam Kỳ, lập sổ địa bạ để quản lý đất đai. Thành lập phủ **Tây Ninh** (thuộc tỉnh Gia Định), kiêm lý huyện Tân Ninh và thống hạt huyện Quang Hóa. Vua Minh Mạng định lại quy chế nội cung (chia làm 9 bậc) và đặt ra các cấp bậc riêng cho thái giám để hạn chế quyền lực của họ.
 *   **1837:** Thượng thư Bộ Lại dâng bản tường trình lên vua Minh Mạng về các khoản chi tiêu của đội phái ra quần đảo Hoàng Sa.
 *   **03/1837:** **Cửu Đỉnh** được chính thức đặt tại sân Thế Miếu trong Hoàng thành Huế.
 *   **1838:** Liên quan đến vụ án Lê Văn Khôi, triều đình ra lệnh xử trảm hai người cháu của Lê Văn Duyệt là Lê Văn Yên và Lê Văn Tễ, các thân thuộc khác bị phát phối đi đày.
 *   **1838:** Quan Tuần phủ tỉnh Quảng Hà đề nghị và được vua Minh Mạng chấp thuận bãi bỏ các khoản thuế khóa đánh vào tàu thuyền của đội Hoàng Sa. Cùng năm, Thượng thư Bộ Công làm bản báo cáo lên nhà vua về các hoạt động của đội tại quần đảo Hoàng Sa.
-*   **1838:** Giám mục Jean Louis Taberd xuất bản bản đồ "An Nam đại quốc họa đồ", trong đó ghi rõ quần đảo Hoàng Sa (Paracel seu Cát Vàng) thuộc chủ quyền của lãnh thổ Việt Nam.
+*   **1838:** Quốc Sử Quán triều Nguyễn phát hành bản đồ *Đại Nam Nhất Thống Toàn Đồ*, chính thức định danh và vẽ rõ ràng hai quần đảo "Hoàng Sa" và "Vạn Lý Trường Sa" nằm trong cương giới lãnh thổ Đại Nam. Cùng năm, Giám mục Jean-Louis Taberd xuất bản *An Nam đại quốc họa đồ* (Tabula Geographica Imperii Anamitici) ghi chú rõ tọa độ và khẳng định "Paracel seu Cát Vàng" thuộc lãnh thổ Việt Nam.
 *   **03/1838:** Vua Minh Mạng chính thức đổi quốc hiệu nước ta thành **Đại Nam**.
+*   **02/04/1838 (15/03 năm Minh Mạng thứ 19):** Châu bản triều Nguyễn ghi nhận Bộ Công đệ tấu trình về việc cử Đỗ Mậu Thưởng cùng Suất đội Lê Trọng Biểu đưa binh thuyền ra quần đảo Hoàng Sa khảo sát thực địa, đo đạc vẽ được 3 bức đồ bản chi tiết và thu lượm hải vật dâng lên vua Minh Mạng.
 *   **1839:** Vua Minh Mạng triệu nữ sĩ Bà Huyện Thanh Quan (Nguyễn Thị Hinh) vào kinh đô Huế giữ chức Cung Trung Giáo Tập, phụ trách dạy học cho các công chúa và cung phi trong hoàng cung triều Nguyễn. Bà là một trong những nữ sĩ tiêu biểu nhất của văn học trung đại Việt Nam với các bài thơ Đường luật hoài cổ mẫu mực như *Qua Đèo Ngang*, *Thăng Long thành hoài cổ*.
 *   **04/1839:** Chiếc tàu thủy chạy bằng hơi nước đầu tiên do người Việt Nam (Hoàng Văn Lịch, Vũ Huy Trinh) chế tạo được chạy thử nghiệm thành công trên sông Hương.
 *   **06/1839:** Vua Minh Mạng cho thực hiện phép **"Quân điền"** tại tỉnh Bình Định, chia lại ruộng đất công cho dân.
@@ -1134,6 +1138,7 @@
 *   **15/04/1847:** Hai chiến hạm Pháp là *Gloire* và *Victorieuse* gây hấn và nổ súng tấn công thủy quân nhà Nguyễn tại cửa biển Đà Nẵng, bắn chìm 5 tàu đồng. Đây là cuộc đụng độ quân sự trực tiếp đầu tiên giữa Pháp và triều đình Huế.
 *   **04/11/1847:** Vua Thiệu Trị băng hà.
 *   **10/11/1847:** Vua Tự Đức lên ngôi.
+*   **15/12/1847 (Thiệu Trị năm thứ 7):** Châu bản triều Thiệu Trị ghi nhận văn bản tấu trình của Bộ Công về việc cử các đội thủy binh hàng năm tiếp tục ra tuần phòng, khảo sát thủy trình các xứ đảo Hoàng Sa và thực thi nhiệm vụ cứu nạn tàu buôn quốc tế qua lại vùng biển này.
 *   **1848 và 1851:** Vua Tự Đức ban hành các đạo dụ cấm đạo Thiên Chúa, dẫn đến các cuộc đàn áp tàn khốc đối với giáo dân.
 *   **1848:** Vua Tự Đức ra lệnh xây đắp lại mộ phần và miếu thờ Lê Văn Duyệt (Lăng Ông Bà Chiểu) cho khang trang, rộng rãi hơn.
 *   **1848 - 1849:** Việc quản lý hành chính đối với các quần đảo tiếp tục được triều Nguyễn duy trì với mục đích địa lý nhằm nắm bắt tốt nhất các hải trình, đồng thời phục vụ mục đích tài chính thông qua việc thu thuế ngư dân hoạt động trong vùng.
@@ -1240,6 +1245,7 @@
 *   **1881 - 1884:** Người Đức tiến hành nghiên cứu có hệ thống tình hình thủy văn của quần đảo Hoàng Sa mà không đưa ra bất kỳ yêu sách nào về chủ quyền.
 *   **Năm 1881 (Tự Đức thứ 34):** Lễ bộ Thị lang Phạm Bính được cử sang Hương Cảng để bán hai chiếc tàu cũ (Lợi Tái và Thuận Tiệp) và đóng tàu mới. Ông cũng được giao nhiệm vụ đưa 12 thanh niên Việt Nam sang nhập học tại một ngôi trường của người Anh ở Hương Cảng.
 *   **02/1881:** Thành lập **Cục Thuyền chính** để chuyên trách quản lý tàu thuyền và vận tải đường thủy của nhà nước.
+*   **1882:** Bộ sách dư địa chí chính thống *Đại Nam Nhất Thống Chí* do Quốc Sử Quán triều Nguyễn biên soạn hoàn tất (ấn hành thời vua Đồng Khánh), ghi chép tường tận về địa lý, tài nguyên và khẳng định chủ quyền của Việt Nam đối với quần đảo Hoàng Sa và Vạn Lý Trường Sa thuộc địa hạt tỉnh Quảng Ngãi.
 *   **01/01/1882:** Mọi công văn, văn bản niêm yết đều phải viết bằng chữ quốc ngữ. Đồng thời, chỉ người biết chữ quốc ngữ mới được bổ nhiệm vào cơ quan cai trị (cấp phủ, huyện, tổng) hoặc được xét tăng trật.
 *   **30/01/1882:** Thống đốc Nam Kỳ ra nghị định buộc công văn phải viết bằng tiếng Pháp. Nếu dùng chữ quốc ngữ, bắt buộc phải kèm theo bản dịch tiếng Pháp.
 *   **03/04/1882:** Đại tá Henri Rivière đổ bộ lên Hà Nội, bắt đầu cuộc xâm lược Bắc Kỳ lần thứ hai.
@@ -1468,6 +1474,7 @@
 *   **1925:** Tác phẩm chính luận xuất sắc *Bản án chế độ thực dân Pháp* (Le Procès de la colonisation française) của Nguyễn Ái Quốc được Thư quán Lao động (Librairie du Travail) xuất bản lần đầu tiên tại Paris (Pháp), tố cáo tội ác của chủ nghĩa thực dân và khơi dậy phong trào đấu tranh của các dân tộc thuộc địa.
 *   **01/1925:** Nguyễn Ái Quốc mở các lớp huấn luyện chính trị cho thanh niên yêu nước tại Quảng Châu.
 *   **03/03/1925:** Thượng thư Bộ Binh Thân Trọng Huề gửi văn thư cho Khâm sứ Pháp, khẳng định "Các đảo Hoàng Sa bao giờ cũng thuộc về nước An Nam", xác nhận chủ quyền trước các tranh chấp gia tăng.
+*   **08/03/1925:** Toàn quyền Đông Dương Martial Merlin ra tuyên bố chính thức khẳng định hai quần đảo Hoàng Sa và Trường Sa là lãnh thổ thuộc chủ quyền của Pháp (với tư cách là đại diện bảo hộ cho Nhà nước An Nam).
 *   **06/1925:** Nguyễn Ái Quốc cùng Hồ Tùng Mậu và các chiến sĩ cách mạng thành lập Hội Việt Nam Cách mạng Thanh niên (Việt Nam Thanh niên Cách mạng Đồng chí Hội) tại Quảng Châu (Trung Quốc), tổ chức các khóa đào tạo lý luận Mác-Lênin chuẩn bị về tư tưởng và tổ chức cho sự ra đời của Đảng Cộng sản Việt Nam.
 *   **21/06/1925:** Tuần báo *Thanh niên*, cơ quan ngôn luận của Hội Việt Nam Cách mạng Thanh niên, ra số đầu tiên.
 *   **30/06/1925:** Phan Bội Châu bị thực dân Pháp bắt cóc tại Thượng Hải.
@@ -1558,7 +1565,7 @@
 *   **02/05/1933:** Vua Bảo Đại ra đạo Dụ cải tổ bộ máy Nam triều, lập ra nội các mới gồm các Thượng thư như Phạm Quỳnh, Ngô Đình Diệm.
 *   **26/07/1933:** Chính phủ Pháp ban hành nghị định chính thức công bố việc Hải quân Pháp chiếm hữu quần đảo Trường Sa.
 *   **12/09/1933:** Thượng thư Bộ Lại Ngô Đình Diệm nộp đơn từ chức sau khi các đề xuất cải cách hành chính và gia tăng thực quyền cho Viện Dân biểu Trung Kỳ bị Khâm sứ Pháp bác bỏ, chính thức rút lui khỏi triều đình Huế trước khi sang nước ngoài lưu vong.
-*   **21/12/1933:** Thống đốc Nam Kỳ J. Krautheimer ký nghị định chính thức sáp nhập quần đảo Trường Sa vào tỉnh Bà Rịa.
+*   **21/12/1933:** Thống đốc Nam Kỳ Jean-Félix Krautheimer ký **Nghị định số 4702-CP** chính thức sáp nhập toàn bộ các đảo thuộc quần đảo Trường Sa (gồm đảo Ba Bình, Song Tử Tây, Song Tử Đông, Thị Tứ, Loaita, Nam Yết, Cồn San Hô và các đảo phụ cận) vào địa hạt tỉnh Bà Rịa.
 *   **1934 - 1935:** Nguyễn Sơn (Hồng Thủy) trở thành chiến sĩ người Việt duy nhất tham gia cuộc Vạn lý Trường chinh lịch sử 10.000 km của Quân giải phóng Nhân dân Trung Quốc.
 *   **1934 - 1938:** Nguyễn Ái Quốc trở lại Liên Xô, tiếp tục mang bí danh **Linov** (Lin). Người làm nghiên cứu viên tại Viện Nghiên cứu các vấn đề dân tộc và thuộc địa ở Moskva, theo học và tốt nghiệp Trường Quốc tế Lênin (1935 - 1938), đồng thời tham gia Đoàn đại biểu Đảng Cộng sản Đông Dương dự Đại hội VII Quốc tế Cộng sản (1935).
 *   **12/09/1934:** Vừ A Dính, người thiếu niên anh hùng dũng cảm người dân tộc HMông trong kháng chiến chống Pháp, sinh ra tại xã Pú Nhung, huyện Tuần Giáo, tỉnh Điện Biên.
@@ -1589,11 +1596,11 @@
 *   **1938:** Huỳnh Tấn Phát tốt nghiệp thủ khoa ngành Kiến trúc, Trường Cao đẳng Mỹ thuật Đông Dương.
 *   **1938:** Nhà thơ Xuân Diệu xuất bản tập *Thơ thơ*, kiệt tác đưa ông lên vị trí đỉnh cao của phong trào Thơ mới và được kết nạp vào Tự Lực Văn Đoàn; ông được mệnh danh là "nhà thơ mới nhất trong các nhà thơ mới" và "ông hoàng thơ tình Việt Nam".
 *   **02/1938:** Đại Việt Dân chính Đảng được thành lập.
-*   **29/02/1938:** Vua Bảo Đại ra Dụ số 10, tách quần đảo Hoàng Sa khỏi địa hạt tỉnh Nam Ngãi và sáp nhập vào tỉnh Thừa Thiên để thuận tiện quản lý.
 *   **29-30/03/1938:** Hội nghị Ban Chấp hành Trung ương Đảng quyết định đổi tên Mặt trận thành Mặt trận Dân chủ Đông Dương và bầu đồng chí Nguyễn Văn Cừ làm Tổng Bí thư.
+*   **30/03/1938 (29/02 năm Mậu Dần):** Vua Bảo Đại ban hành **Dụ số 10**, cải biến các cù lao Hoàng Sa (Archipel des îles Paracels), tách khỏi địa hạt tỉnh Nam Ngãi và sáp nhập vào tỉnh Thừa Thiên để thuận tiện cho việc quản lý hành chính và tuần phòng biển đảo.
 *   **01/05/1938:** Cuộc mít tinh khổng lồ với 25.000 người tham gia được tổ chức công khai tại khu Đấu Xảo, Hà Nội để kỷ niệm ngày Quốc tế Lao động.
 *   **25/05/1938:** Hội Truyền bá Quốc ngữ được thành lập tại Hà Nội do học giả Nguyễn Văn Tố (Ứng Hòe) làm Hội trưởng. Dưới sự cổ vũ và giúp đỡ của Đảng Cộng sản Đông Dương, Hội đã phát triển phong trào xóa mù chữ rộng khắp cả nước, mở hàng ngàn lớp học bình dân giúp nâng cao dân trí và khơi dậy tinh thần yêu nước của nhân dân trước Cách mạng tháng Tám.
-*   **15/06/1938:** Toàn quyền Đông Dương Jules Brévié ban hành nghị định thành lập một đại lý hành chính tại quần đảo Hoàng Sa thuộc tỉnh Thừa Thiên. Pháp cũng đặt một ngọn hải đăng, một trạm khí tượng và một trạm vô tuyến điện trên đảo Hoàng Sa (Pattle), đồng thời dựng một tấm bia khẳng định chủ quyền.
+*   **15/06/1938:** Toàn quyền Đông Dương Jules Brévié ký **Nghị định số 156-S-C** thành lập một Đại lý hành chính (Délégation administrative) tại quần đảo Hoàng Sa thuộc tỉnh Thừa Thiên. Pháp cử một đơn vị lính bảo an (Garde Indigène) đồn trú, xây dựng một ngọn hải đăng, một trạm khí tượng thủy văn (mã quốc tế 48860), một trạm vô tuyến điện trên đảo Hoàng Sa (Pattle), đồng thời dựng cột bia chủ quyền khắc dòng chữ: *"République Française - Royaume d'Annam - Archipel des Paracels 1816 - Île Pattle 1938"* để khẳng định chủ quyền kế thừa từ năm 1816.
 *   **18/07/1938:** Đại sứ Trung Quốc tại Paris gửi một công hàm khẳng định mạnh mẽ các yêu sách của Trung Quốc đối với quần đảo Hoàng Sa. Công hàm ghi nhận bảo đảm của Bộ Ngoại giao Pháp rằng "hành động đó hoàn toàn không có ý tác động đến các lập trường pháp lý tương ứng của Trung Quốc và của Pháp", đồng thời bảo lưu quyền lợi của cả hai bên.
 *   **30/08/1938:** Chính phủ Pháp ban hành Sắc lệnh về tự do báo chí ở Nam Kỳ, cho phép xuất bản báo chí tiếng Việt mà không cần xin phép trước.
 *   **10/1938 - 1940:** Nguyễn Ái Quốc rời Moskva trở lại Trung Quốc. Với bí danh **Hồ Quang** (trong quân phục Thiếu tá Bát lộ quân), Người hoạt động tại Diên An, Tây An, Quế Lâm, Côn Minh, bắt liên lạc với Ban Chỉ huy ở ngoài của Đảng Cộng sản Đông Dương và trực tiếp chuẩn bị các điều kiện để trở về nước.
@@ -1606,7 +1613,7 @@
 *   **1939:** Bác sĩ Tôn Thất Tùng công bố công trình nghiên cứu về cấu trúc gan, đặt nền móng cho "Phương pháp mổ gan Tôn Thất Tùng" (mổ gan khô) nổi tiếng thế giới.
 *   **12/03/1939:** Việt Nam Phục quốc Đồng minh Hội chính thức ra mắt tại Thượng Hải.
 *   **31/03/1939:** Chính phủ Nhật Bản tuyên bố quyền kiểm soát đối với quần đảo Trường Sa. Pháp đã lên tiếng phản đối hành động này vào ngày 4 tháng 4.
-*   **05/05/1939:** Toàn quyền Jules Brévié sửa đổi nghị định năm 1938 để thành lập hai đại lý hành chính riêng biệt cho quần đảo Hoàng Sa: đại lý "Nhóm Lưỡi Liềm và các đảo phụ cận" và đại lý "Nhóm An Vĩnh và các đảo phụ cận".
+*   **05/05/1939:** Toàn quyền Đông Dương Jules Brévié ký **Nghị định số 3283** sửa đổi nghị định năm 1938, chia quần đảo Hoàng Sa thành hai đại lý hành chính riêng biệt thuộc tỉnh Thừa Thiên: Đại lý "Nhóm Lưỡi Liềm và các đảo phụ cận" (Croissant et ses dépendances) và Đại lý "Nhóm An Vĩnh và các đảo phụ cận" (Amphitrite et ses dépendances).
 *   **07/06/1939:** Nhà thơ, nhà báo Tản Đà (Nguyễn Khắc Hiếu) qua đời tại Hà Nội ở tuổi 50. Ông được phong tặng là "người của hai thế kỷ" và được Hoài Thanh suy tôn là "chủ soái của thi đàn Việt Nam" trước phong trào Thơ mới.
 *   **05/07/1939:** Phật giáo Hòa Hảo, một tôn giáo nội sinh, được ông Huỳnh Phú Sổ sáng lập tại tỉnh An Giang.
 *   **01/09/1939:** Chiến tranh Thế giới thứ hai bùng nổ, Pháp tham chiến.
@@ -2107,14 +2114,15 @@
 * **07/05/1956:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nông Văn Vương (Chính trị viên phó Đại đội bộ binh thuộc Đại đoàn 316, tham gia chiến đấu trên địa bàn Việt Bắc và Tây Bắc).
 *   **19/05/1956:** Trong một cuộc họp báo ở Manila, Bộ trưởng Ngoại giao Philippin lại dựa vào lập luận kế cận địa lý để đưa ra ý kiến về các quyền của Philippin trên quần đảo Trường Sa, sau sự kiện Thomas Cloma. Ngày 31/5, Bắc Kinh đã ra thông cáo phản đối mạnh mẽ.
 *   **31/05/1956:** Chính phủ Bắc Kinh ra thông cáo tuyên bố sẽ không dung thứ bất kỳ sự vi phạm nào đối với các quyền của họ trên quần đảo Trường Sa.
+*   **01/06/1956:** Ngoại trưởng Việt Nam Cộng hòa Vũ Văn Mẫu ra tuyên bố chính thức bác bỏ các yêu sách của Philippines và Đài Loan, tái khẳng định chủ quyền lịch sử và pháp lý không thể tranh cãi của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa.
 *   **01/06/1956:** Bộ trưởng Ngoại giao Việt Nam Cộng hòa Vũ Văn Mẫu tái khẳng định các quyền của Việt Nam đối với hai quần đảo.
 *   **02/06/1956:** Sau khi Việt Nam Cộng hòa tái khẳng định chủ quyền đối với Trường Sa, Chính phủ Pháp cũng đã nhắc lại với Chính phủ Philippin về các quyền mà Pháp đã xác lập trên quần đảo này từ năm 1933.
 *   **08/1956:** Đồng chí Lê Duẩn hoàn thành văn kiện **"Đề cương cách mạng miền Nam"**. Văn kiện đã phân tích sâu sắc tình hình, xác định kẻ thù và nhiệm vụ của cách mạng miền Nam, khẳng định con đường bạo lực cách mạng để chống Mỹ - Diệm. Đây là cơ sở cho Nghị quyết 15 của Trung ương Đảng.
-*   **22/08/1956:** Lực lượng Hải quân Việt Nam Cộng hòa đổ bộ lên đảo chính của quần đảo Trường Sa, dựng bia chủ quyền và kéo quốc kỳ.
+*   **22/08/1956:** Hải quân Việt Nam Cộng hòa đưa tàu HQ-04 Hương Giang ra đảo Trường Sa Lớn, cử lực lượng đổ bộ cắm quốc kỳ và dựng lại bia chủ quyền khẳng định toàn vẹn lãnh thổ đối với quần đảo Trường Sa.
 *   **09/1956:** Hội nghị lần thứ 10 Ban Chấp hành Trung ương Đảng Lao động Việt Nam nghiêm khắc kiểm điểm và đề ra chủ trương sửa chữa những sai lầm trong Cải cách ruộng đất.
 *   **10/1956:** Hải quân Đài Loan can thiệp tại quần đảo Trường Sa để chống lại các nỗ lực chiếm đóng của công dân Philippin Thomas Cloma.
 *   **22/10/1956:** Chính quyền Ngô Đình Diệm ban hành Dụ số 57 về cải cách điền địa (khống chế điền sản), tước đoạt ruộng đất của nông dân.
-*   **22/10/1956:** Việt Nam Cộng hòa ban hành sắc lệnh sáp nhập quần đảo Hoàng Sa vào tỉnh Phước Tuy.
+*   **22/10/1956:** Tổng thống Việt Nam Cộng hòa Ngô Đình Diệm ký **Sắc lệnh số 143-NV** quy định địa giới hành chính, sáp nhập quần đảo Hoàng Sa vào tỉnh Thừa Thiên và quần đảo Trường Sa vào tỉnh Phước Tuy.
 *   **26/10/1956:** Ngô Đình Diệm ban hành hiến pháp, chính thức thành lập chính thể "Việt Nam Cộng hòa".
 *   **22/11/1956:** Thủ tướng Quốc vụ viện Trung Quốc Chu Ân Lai sang thăm chính thức Việt Nam, tuyên bố hoàn toàn ủng hộ cuộc đấu tranh của nhân dân miền Nam Việt Nam và lên án mạnh mẽ sự can thiệp của Mỹ.
 *   **Cuối năm 1956:** Huỳnh Tấn Phát được bổ sung vào Khu ủy Sài Gòn - Chợ Lớn, phụ trách Ban Trí vận và Chính quyền vận.
@@ -2184,7 +2192,7 @@
 *   **03/1961:** Chính phủ nước Việt Nam có chuyến thăm chính thức đầu tiên đến Cuba do Bộ trưởng Văn hóa Hoàng Minh Giám làm Trưởng đoàn. Trong chuyến thăm, Fidel Castro đã gợi ý cử thanh niên Việt Nam sang Cuba học tiếng Tây Ban Nha.
 *   **05/1961:** Mỹ công bố **Kế hoạch Staley - Taylor** với mục tiêu "bình định" miền Nam trong vòng 18 tháng.
 *   **11 - 13/05/1961:** Phó Tổng thống Mỹ Lyndon B. Johnson sang thăm chính thức Sài Gòn và ký thông cáo chung với Ngô Đình Diệm, đánh dấu bước tăng cường viện trợ và can thiệp quân sự của Mỹ vào miền Nam. Trong chuyến thăm, Johnson công khai ca ngợi Diệm là "Winston Churchill của châu Á" nhằm củng cố hình ảnh nhà lãnh đạo tiền tuyến chống cộng, dù sau đó thừa nhận riêng rằng Mỹ buộc phải hậu thuẫn Diệm vì "không còn ai khác".
-*   **13/07/1961:** Tổng thống Việt Nam Cộng hòa ký nghị định thành lập đơn vị hành chính Định Hải bao gồm quần đảo Hoàng Sa, chính thức khẳng định quyền quản lý hành chính.
+*   **13/07/1961:** Tổng thống Việt Nam Cộng hòa Ngô Đình Diệm ký **Sắc lệnh số 174-NV** sáp nhập toàn bộ quần đảo Hoàng Sa vào tỉnh Quảng Nam và thành lập xã Định Hải trực thuộc quận Hòa Vang để quản lý toàn diện quần đảo này.
 * **08/08/1961:** Liệt sĩ Trần Văn Thọ (Thiếu úy, đồn biên phòng Leng Su Sìn, Anh hùng đầu tiên của Bộ đội Biên phòng) từ trần do sốt rét ác tính trong quá trình công tác tiễu phỉ và vận động đồng bào vùng biên giới.
 *   **20/09/1961:** Khu ủy Sài Gòn - Gia Định mở Hội nghị Quân sự lần thứ nhất, phân chia chiến trường thành 3 vùng: vùng căn cứ giải phóng (lấy vũ trang làm chính), vùng tranh chấp ven đô (kết hợp chính trị và vũ trang) và vùng nội thành (lấy đấu tranh chính trị làm chính).
 *   **23/10/1961:** **Đoàn 759** được thành lập để mở tuyến đường vận tải chiến lược trên biển chi viện cho miền Nam (Đường Hồ Chí Minh trên biển).
@@ -2541,7 +2549,7 @@
 *   **04/09/1969:** Sau khi Chủ tịch Hồ Chí Minh từ trần, Fidel Castro và Chủ tịch nước Cuba Osvaldo Dorticós Torrado đã gửi bức điện chia buồn đánh giá rất cao những phẩm chất cách mạng và tài năng lãnh đạo của Người.
 *   **23/09/1969:** Quốc hội khóa III bầu đồng chí Tôn Đức Thắng giữ chức Chủ tịch nước và đồng chí Nguyễn Lương Bằng giữ chức Phó Chủ tịch nước Việt Nam Dân chủ Cộng hòa.
 *   **04/10/1969 (hoặc cuối 1969/tháng 10/1970 theo các tài liệu khác nhau):** **Trận Suối Sóc (bàu Sa Nghe).** Bùi Văn Thuyên cùng dân quân tên Chiến đụng độ lực lượng lớn quân Mỹ đi càn. Khi đồng đội bị thương, ông đã một mình chiến đấu từ sáng đến 5 giờ chiều. Luân phiên sử dụng 7 loại vũ khí khác nhau (như AK, B40, M79, đại liên), ông liên tục cơ động, bẻ gãy nhiều đợt tiến công và tiêu diệt hàng trăm lính Mỹ (được ghi nhận là 360 tên). Năm 1995, phái đoàn MIA của Mỹ khi trở lại chiến trường này đã thừa nhận tổn thất nặng nề và vô cùng kinh ngạc khi biết họ chỉ đối đầu với một người duy nhất.
-*   **21/10/1969:** Việt Nam Cộng hòa ban hành nghị định sáp nhập đơn vị hành chính Định Hải (quần đảo Hoàng Sa) vào xã Hòa Long, tiếp tục quản lý hành chính đối với quần đảo.
+*   **21/10/1969:** Thủ tướng Việt Nam Cộng hòa ký **Nghị định số 709-NĐ/NV** sáp nhập xã Định Hải (quần đảo Hoàng Sa) vào xã Hòa Long thuộc quận Hòa Vang, tỉnh Quảng Nam.
 *   **17/11/1969:** Vào lúc 8 giờ sáng, Thiều Văn Chỏi một mình phục kích và truy kích một trung đội địch 27 lính tại cánh đồng Bưng Sấu, tiêu diệt 13 tên (có 1 sĩ quan), làm bị thương 8 tên, bắt sống 2 tên. Trận đánh "1 chọi 27" lừng lẫy khiến lính đồn Vàm Bưng lập miếu thờ "Ông Thần Chỏi" ngay trước cửa đồn để cầu an.
 * **23/11/1969:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Chánh (Trung tá, nguyên Phó chỉ huy trưởng động viên, Ban chỉ huy quân sự quận Thủ Đức. Tham gia trận đánh sân bay Biên Hòa, tiêu diệt nhiều sinh lực địch, phá hủy nhiều xe quân sự).
 * **20/12/1969:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Bùi Ngọc Dương (quê tại Hà Nội).
@@ -2647,7 +2655,7 @@
 *   **Tháng 07/1973:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ 21 (khóa III) khẳng định con đường cách mạng miền Nam vẫn là con đường bạo lực, chuẩn bị cho giai đoạn cuối của cuộc kháng chiến.
 *   **07/07/1973:** Bác sĩ Vũ Đình Tụng, nguyên Bộ trưởng Bộ Thương binh - Cựu binh, nguyên Chủ tịch đầu tiên của Hội Chữ thập đỏ Việt Nam, Giám đốc Nha Y tế Trung ương, một trí thức Công giáo yêu nước tiêu biểu đã cống hiến trọn đời cho sự nghiệp giải phóng dân tộc và nền y tế Việt Nam, từ trần tại Hà Nội, hưởng thọ 78 tuổi.
 * **03/09/1973:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phạm Tuân (Chiến sĩ Đại đội 5, Trung đoàn 921, Sư đoàn 371. Người đầu tiên bắn rơi máy bay B-52 của Mỹ và trở về an toàn (27/12/1972). Người đầu tiên của Việt Nam và châu Á bay vào vũ trụ (1980). Sau là Trung tướng, Chủ nhiệm Tổng cục Công nghiệp Quốc phòng).
-*   **06/09/1973:** Bộ Nội vụ Việt Nam Cộng hòa ban hành nghị định sáp nhập các đảo trên quần đảo Trường Sa vào xã Phước Hải, quận Đất Đỏ, tỉnh Phước Tuy, sửa đổi quy định hành chính năm 1956.
+*   **06/09/1973:** Tổng trưởng Nội vụ Việt Nam Cộng hòa ký **Nghị định số 420-BNV/HCĐP/26** sáp nhập các đảo Trường Sa, An Bang, Thái Bình (Ba Bình), Song Tử Đông, Song Tử Tây, Loại Ta, Thị Tứ, Nam Yết, Sinh Tồn và các đảo phụ cận vào xã Phước Hải, quận Đất Đỏ, tỉnh Phước Tuy.
 *   **12 - 15/09/1973:** Lãnh tụ Fidel Castro có chuyến thăm lịch sử lần đầu tiên tới Việt Nam. Ngày 12/09, ông phát biểu tại Hà Nội ca ngợi cuộc đấu tranh anh hùng của nhân dân Việt Nam. Ngày 15/09, ông đến thăm vùng giải phóng Quảng Trị, đứng trên cao điểm 241, trở thành nguyên thủ quốc gia nước ngoài đầu tiên và duy nhất thăm vùng giải phóng miền Nam trước năm 1975. Tại đây, ông đã chỉ thị bác sĩ riêng cấp cứu kịp thời cho cô nữ dân công 17 tuổi Nguyễn Thị Hương bị thương do bom mìn.
 *   **10/1973:** Cố vấn đặc biệt Lê Đức Thọ tuyên bố từ chối nhận Giải Nobel Hòa bình năm 1973 (được trao chung với Henry Kissinger), khẳng định hòa bình thực sự chưa được lập lại tại Việt Nam khi quân đội Mỹ vẫn can thiệp.
 *   **06/10/1973:** Tính đến thời điểm này, Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam đã được 34 nước công nhận và thiết lập quan hệ ngoại giao.
@@ -2832,6 +2840,7 @@
 *   **18/04/1979:** Vòng đàm phán cấp Thứ trưởng Ngoại giao Việt Nam - Trung Quốc lần thứ nhất bắt đầu tại Hà Nội.
 *   **08/1979:** Hội nghị lần thứ 6 Ban Chấp hành Trung ương Đảng (khóa IV) ra nghị quyết "Về tình hình và nhiệm vụ cấp bách", thừa nhận những khó khăn, yếu kém trong quản lý kinh tế và đề ra chủ trương "làm cho sản xuất bung ra".
 *   **15/09/1979:** Thành lập **Nhà máy Bán dẫn Z181** (tiền thân là Xí nghiệp Điện tử, nay là Công ty TNHH MTV Điện tử Sao Mai thuộc Tổng cục Công nghiệp Quốc phòng) theo quyết định của Hội đồng Chính phủ. Đây là cơ sở đầu tiên của Việt Nam đầu tư dây chuyền sản xuất đồng bộ được nhập khẩu từ Nhật Bản và Tây Âu nhằm nghiên cứu, chế tạo và đóng gói các linh kiện bán dẫn (như transistor, diode, vi mạch, cảm biến bán dẫn, LED). Trong suốt thập niên 1980, nhà máy đã sản xuất và xuất khẩu hàng chục triệu linh kiện bán dẫn mỗi năm sang các nước Đông Âu và Liên Xô (như Tiệp Khắc, Ba Lan), đặt nền móng sơ khai cho ngành công nghiệp vi mạch bán dẫn của Việt Nam.
+*   **28/09/1979:** Bộ Ngoại giao nước Cộng hòa Xã hội Chủ nghĩa Việt Nam công bố Sách trắng *"Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa"*, công bố hệ thống văn kiện, tư liệu lịch sử và căn cứ pháp lý quốc tế chứng minh toàn diện chủ quyền lâu đời, liên tục và hòa bình của Việt Nam đối với hai quần đảo.
 *   **01/10/1979:** Tiến hành cuộc Tổng điều tra dân số lần thứ hai trong cả nước.
 *   **06/11/1979:** Khởi công xây dựng Nhà máy Thủy điện Hòa Bình trên sông Đà với sự giúp đỡ to lớn của Liên Xô, công trình thủy điện thế kỷ có quy mô lớn nhất Đông Nam Á thời bấy giờ.
 *   **20/12/1979:** Liệt sĩ Phan Đình Linh được Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân và Huân chương Chiến công hạng Ba vì sự hy sinh oanh liệt tại cao điểm 815.
@@ -2848,14 +2857,15 @@
 *   **21/01/1981:** Hội đồng Chính phủ ra Quyết định số 25-CP, nhằm phát huy quyền chủ động sản xuất kinh doanh và quyền tự chủ tài chính của các xí nghiệp quốc doanh.
 *   **07/1981:** Huỳnh Tấn Phát được bầu làm Phó Chủ tịch Hội đồng Bộ trưởng (tương đương Phó Thủ tướng).
 *   **1982:** Ban Chấp hành Thành đoàn TP. Hồ Chí Minh quyết định lấy ngày 15/10 (ngày hy sinh của Nguyễn Văn Trỗi) làm Ngày Truyền thống Thanh niên Công nhân TP. Hồ Chí Minh và thành lập Giải thưởng Nguyễn Văn Trỗi dành cho công nhân trẻ tiêu biểu.
-*   **1982:** Việt Nam thành lập huyện Hoàng Sa trực thuộc tỉnh Quảng Nam - Đà Nẵng để quản lý quần đảo Hoàng Sa.
 * **1982:** Anh hùng Lực lượng vũ trang nhân dân Lê Văn Một (Thuyền trưởng tàu không số đầu tiên của tuyến Đường mòn Hồ Chí Minh trên biển) từ trần.
 *   **Đầu năm 1982:** Bất chấp cơ sở hạ tầng bị tàn phá nặng nề sau cuộc chiến năm 1979, các đơn vị quân đội đóng quân tại biên giới Cao Bằng đã tích cực giúp nhân dân khôi phục sản xuất nông nghiệp và ổn định đời sống.
 *   **03/1982:** Đại hội đại biểu toàn quốc lần thứ V của Đảng Cộng sản Việt Nam họp tại Hà Nội, đề ra Kế hoạch 5 năm lần thứ ba (1981-1985).
 *   **06/1982:** Huỳnh Tấn Phát được bầu làm Phó Chủ tịch Hội đồng Nhà nước.
 *   **06/1982:** Tân Hoa Xã của Trung Quốc đưa tin về việc hoàn thành một cảng lớn mới tại đảo Tri Tôn thuộc quần đảo Hoàng Sa, cho thấy quá trình quân sự hóa và phát triển cơ sở hạ tầng liên tục của Trung Quốc tại vùng lãnh thổ bị chiếm đóng.
 *   **28/09/1982:** Hội đồng Bộ trưởng ra quyết định lấy ngày 20 tháng 11 hàng năm làm Ngày Nhà giáo Việt Nam.
+*   **12/11/1982:** Chính phủ nước Cộng hòa Xã hội Chủ nghĩa Việt Nam ra Tuyên bố về đường cơ sở dùng để tính chiều rộng lãnh hải Việt Nam, tái khẳng định hai quần đảo Hoàng Sa và Trường Sa là bộ phận lãnh thổ không thể tách rời của nước CHXHCN Việt Nam.
 *   **12/11/1982:** Cộng hòa Xã hội Chủ nghĩa Việt Nam ra tuyên bố xác định đường cơ sở dùng để tính chiều rộng lãnh hải, bao trùm cả các quần đảo.
+*   **09/12/1982:** Hội đồng Bộ trưởng nước CHXHCN Việt Nam ban hành **Quyết định số 193-HĐBT** thành lập huyện Hoàng Sa trực thuộc tỉnh Quảng Nam - Đà Nẵng và **Quyết định số 194-HĐBT** thành lập huyện Trường Sa trực thuộc tỉnh Đồng Nai (sau đó Quốc hội ra Nghị quyết chuyển huyện Trường Sa về tỉnh Phú Khánh vào ngày 28/12/1982, nay trực thuộc tỉnh Khánh Hòa).
 *   **09/12/1982:** Hội đồng Bộ trưởng Việt Nam ra các quyết định tái cơ cấu việc quản lý hành chính đối với các quần đảo.
 * **1983:** Anh hùng Lực lượng vũ trang nhân dân Bông Văn Dĩa (Đoàn phó Đoàn 962 vận tải biển - Quân khu 9. Tham gia hàng chục chuyến vận tải chở vũ khí trên tuyến đường Hồ Chí Minh trên biển) từ trần.
 * **1983:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Dương Đức Thùng (Tham gia Chiến dịch phản công biên giới Tây Nam).
@@ -2976,7 +2986,7 @@
 *   **03/1994:** Việt Nam tặng Cuba 15.000 tấn gạo để giúp nước bạn vượt qua khó khăn kinh tế.
 *   **04/1994:** Xảy ra cuộc chạm trán trên biển khi Hải quân Việt Nam ra lệnh cho một tàu nghiên cứu của Trung Quốc (đang thăm dò địa chấn cho Crestone) phải rời khỏi vùng biển thuộc quyền tài phán của Việt Nam, và tàu Trung Quốc đã tuân thủ.
 *   **27/05/1994:** Đường dây tải điện cao thế 500kV Bắc - Nam chính thức đi vào vận hành, hợp nhất hệ thống điện ba miền, giải quyết tình trạng thiếu điện ở miền Nam và miền Trung.
-*   **23/06/1994:** Quốc hội Việt Nam ủy quyền cho chính phủ phê chuẩn Công ước của Liên Hợp Quốc về Luật Biển (UNCLOS).
+*   **23/06/1994:** Quốc hội Việt Nam khóa IX thông qua Nghị quyết phê chuẩn Công ước của Liên Hợp Quốc về Luật Biển năm 1982 (UNCLOS 1982), khẳng định chủ quyền của Việt Nam đối với các vùng nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa, đồng thời tái khẳng định chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa.
 *   **17/12/1994:** Vịnh Hạ Long được UNESCO công nhận dựa trên tiêu chí về giá trị cảnh quan thiên nhiên độc đáo và quan trọng về mặt thẩm mỹ.
 *   **20/12/1994:** Lò Văn Giá được Đảng và Nhà nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân nhằm ghi nhận những công lao to lớn của ông trong sự nghiệp đấu tranh giải phóng dân tộc.
 * **20/12/1994:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phan Thị Ràng (Liệt sĩ, tham gia chiến đấu tại huyện Hòn Đất, tỉnh Kiên Giang. Hy sinh ngày 9 tháng 1 năm 1962. Nguyên mẫu nhân vật chị Sứ trong tiểu thuyết ''Hòn Đất'').
@@ -3197,6 +3207,7 @@
 * **2012:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Đức Hùng (Chỉ huy trưởng của lực lượng Biệt động Sài Gòn-Gia Định) từ trần.
 * **2012:** Anh hùng Lực lượng vũ trang nhân dân Bùi Quang Thận (Nguyên Đại đội trưởng Đại đội 4, Tiểu đoàn 2, Lữ đoàn Xe tăng 203, Quân đoàn 2. Chỉ huy xe tăng 843 tiến vào Dinh Độc Lập vào ngày 30 tháng 4 năm 1975, là người đầu tiên cắm cờ Mặt trận Dân tộc giải phóng miền Nam Việt Nam lên nóc Dinh Độc Lập) từ trần.
 *   **27/04/2012:** Chủ tịch nước ký Quyết định truy tặng danh hiệu cao quý Anh hùng Lực lượng vũ trang nhân dân cho liệt sĩ Đặng Thị Kim vì những cống hiến và sự hy sinh anh dũng tột cùng của bà.
+*   **21/06/2012:** Quốc hội Việt Nam khóa XIII thông qua **Luật Biển Việt Nam** (Luật số 18/2012/QH13), chính thức khẳng định chủ quyền, quyền chủ quyền và quyền tài phán quốc gia của Việt Nam đối với các vùng biển và hai quần đảo Hoàng Sa, Trường Sa trong văn bản luật cao nhất của Nhà nước về biển đảo.
 *   **21/06/2012:** Quốc hội thông qua Luật Biển Việt Nam.
 *   **27/07/2012:** Chủ tịch nước Trương Tấn Sang thăm chính thức Liên bang Nga theo lời mời của Tổng thống Vladimir Putin. Hai nguyên thủ đã ra Tuyên bố chung về việc tăng cường quan hệ Đối tác Chiến lược Toàn diện giữa Việt Nam và Liên bang Nga, đưa Nga trở thành quốc gia thứ hai thiết lập khuôn khổ Đối tác chiến lược toàn diện với Việt Nam.
 *   **06/12/2012:** Tín ngưỡng thờ cúng Hùng Vương được UNESCO công nhận là di sản.
