@@ -1709,6 +1709,7 @@
 *   **28/09/1945:** Chủ tịch Hồ Chí Minh ra "Lời kêu gọi sau nạn đói" (Thư gửi đồng bào toàn quốc về việc cứu đói), phát động phong trào "Hũ gạo cứu đói" và kêu gọi tinh thần nhường cơm sẻ áo ("10 ngày nhường ăn một bữa") để diệt giặc đói.
 *   **10/1945:** Huỳnh Tấn Phát làm Trưởng đoàn đại biểu Thanh niên Nam Bộ ra Hà Nội dự Đại hội Thanh niên toàn quốc.
 *   **10/1945:** Nguyễn Bình được Chủ tịch Hồ Chí Minh cử vào Nam Bộ làm Tư lệnh Bộ Tư lệnh Nam Bộ, thống nhất các lực lượng vũ trang kháng chiến tại Nam Bộ.
+*   **23/10/1945 - 01/02/1946:** Cuộc chiến đấu "101 ngày đêm" tại mặt trận Nha Trang - Khánh Hòa bùng nổ khi quân dân đồng loạt nổ súng tấn công các vị trí chiếm đóng của quân Pháp và lập phòng tuyến bao vây quân địch trong nội thị suốt 101 ngày đêm. Mặt trận đã giam chân và tiêu hao sinh lực địch, làm thất bại mưu đồ "đánh nhanh, thắng nhanh" của thực dân Pháp, bảo vệ vững chắc tuyến giao thông huyết mạch chi viện cho chiến trường Nam Bộ và tạo thời gian quý báu củng cố lực lượng kháng chiến tại Nam Trung Bộ.
 *   **25/10/1945:** Xứ ủy Nam Bộ họp hội nghị cán bộ ở Thiên Hộ (Mỹ Tho), đề ra phương hướng kháng chiến lâu dài.
 *   **11/11/1945:** Đảng Cộng sản Đông Dương tuyên bố "tự giải tán", thực chất là rút vào hoạt động bí mật.
 *   **25/11/1945:** Ban Thường vụ Trung ương Đảng ra Chỉ thị "Kháng chiến kiến quốc", xác định kẻ thù chính và nhiệm vụ trước mắt của cách mạng.
@@ -1749,6 +1750,7 @@
 *   **01/06/1946:** Tại Sài Gòn, Cao ủy D'Argenlieu tuyên bố thành lập "Nước Cộng hòa tự trị Nam Kỳ".
 *   **30/06/1946:** Đinh Thị Vân được kết nạp vào Đảng Cộng sản Đông Dương. Sau đó, bà giữ nhiều chức vụ lãnh đạo, bao gồm Hội trưởng Hội Liên hiệp phụ nữ tỉnh Nam Định (1951-1953).
 *   **07/1946:** Đặng Thị Kim được cử vào Ban Chấp hành Hội Phụ nữ Cứu quốc Nha Trang. Ngày 30/10/1946, bà tham gia lãnh đạo cuộc biểu tình lớn đòi Chính phủ Pháp phải thi hành Hiệp định sơ bộ 6/3 và Tạm ước 14/9.
+*   **07/1946:** Trong thời gian Chủ tịch Hồ Chí Minh thăm chính thức nước Pháp và diễn ra Hội nghị Fontainebleau, Ngân hàng Đông Dương và giới thực dân Pháp đã mưu toan mua chuộc Người bằng số tiền khổng lồ lên tới 30 tỷ Franc với điều kiện từ bỏ cuộc đấu tranh đòi độc lập cho Việt Nam. Chủ tịch Hồ Chí Minh đã kiên quyết cự tuyệt mưu toan này, khẳng định ý chí sắt đá và lý tưởng độc lập, tự do cho Tổ quốc là thiêng liêng, không thể đánh đổi bằng bất cứ giá nào.
 *   **07/1946:** Trong chuyến thăm chính thức nước Pháp và tham dự Hội nghị Fontainebleau, Chủ tịch Hồ Chí Minh đã tới thăm họa sĩ Pablo Picasso tại xưởng vẽ ở Paris. Cuộc gặp thể hiện mối quan hệ hữu nghị từ những năm 1920 tại Pháp, và tại đây Picasso đã phác họa bức tranh chân dung Chủ tịch Hồ Chí Minh.
 *   **06/07/1946:** Hội nghị Fontainebleau khai mạc.
 *   **12/07/1946:** Vụ án phố Ôn Như Hầu xảy ra. Công an xung phong đã khám xét trụ sở của Việt Nam Quốc dân Đảng, phá tan âm mưu lật đổ chính quyền của các thế lực đối lập.
