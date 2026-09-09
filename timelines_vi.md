@@ -1533,6 +1533,7 @@
 *   **25/03/1930:** Hơn 4.000 công nhân Nhà máy Dệt Nam Định bãi công và tuần hành biểu tình đòi tăng lương, giảm giờ làm và chống đánh đập; cuộc bãi công kéo dài 21 ngày với sự ủng hộ rộng rãi của nhân dân địa phương, mở đầu phong trào công nhân miền Bắc năm 1930.
 *   **13/04/1930:** Toàn quyền Đông Dương phái thông báo hạm *La Malicieuse* tới quần đảo Trường Sa, nơi thủy thủ đoàn đã kéo quốc kỳ Pháp trên một điểm cao.
 *   **01/05/1930:** Lần đầu tiên, các cuộc đấu tranh của công nhân và nông dân nổ ra rầm rộ trên cả nước để kỷ niệm ngày Quốc tế Lao động, mở đầu cho cao trào cách mạng 1930-1931.
+*   **01/05/1930:** Đồng chí Nguyễn Văn Cúc (Nguyễn Văn Linh) khi mới 15 tuổi dũng cảm rải truyền đơn cách mạng kỷ niệm Ngày Quốc tế Lao động tại phố Cát Dài (Hải Phòng), bị mật thám Pháp bắt giữ và đầu năm 1931 bị tòa án thực dân kết án tù chung thân, đày ra Côn Đảo - nơi trở thành "trường học cách mạng" tôi luyện ý chí kiên trung của ông.
 *   **31/05/1930:** Chính phủ Pháp ra sắc lệnh xác nhận chế độ kim bản vị (Gold Standard) cho đồng bạc Đông Dương, chấm dứt bản vị bạc.
 *   **17/06/1930:** Nguyễn Thái Học cùng 12 đồng chí khác của Việt Nam Quốc dân Đảng bị hành quyết tại Yên Bái.
 *   **19/06/1930:** Bộ Ngoại giao Pháp chính thức xác định quần đảo Hoàng Sa không phải là đất vô chủ (*terra nullius*) và khẳng định chủ quyền của Pháp (nhân danh Việt Nam) đối với quần đảo này.
@@ -1675,6 +1676,7 @@
 *   **09/03/1945:** Sau cuộc đảo chính của Nhật, đơn vị phòng vệ Đông Dương trên quần đảo Hoàng Sa đã bị hải quân Nhật bắt làm tù binh.
 *   **09-12/03/1945:** Ban Thường vụ Trung ương Đảng họp và ra chỉ thị lịch sử "Nhật - Pháp bắn nhau và hành động của chúng ta", phát động cao trào kháng Nhật cứu nước với khẩu hiệu "Phá kho thóc, giải quyết nạn đói", dấy lên phong trào quần chúng phá các kho thóc của Nhật và tay sai để cứu đói cho hàng triệu nhân dân.
 *   **10/03/1945:** Việt Nam Quốc gia Độc lập Đảng được thành lập.
+*   **11/03/1945:** Ngay sau đêm Nhật đảo chính Pháp, đồng chí Đỗ Mười (đang thụ án 10 năm tù khổ sai tại Nhà tù Hỏa Lò) cùng các chiến sĩ cộng sản tổ chức cuộc vượt ngục Hỏa Lò táo bạo qua hệ thống cống ngầm, nhanh chóng bắt liên lạc với cách mạng và trực tiếp chỉ đạo giành chính quyền thắng lợi tại tỉnh Hà Đông trong Cách mạng Tháng Tám.
 *   **29/03/1945:** Hồ Chí Minh gặp Thiếu tướng Claire Lee Chennault, Chỉ huy trưởng Không đoàn 14 Không lực Lục quân Hoa Kỳ, tại Côn Minh (Trung Quốc), thiết lập mối quan hệ ban đầu giữa Việt Minh và Mỹ.
 *   **17/04/1945:** Chính phủ bù nhìn Trần Trọng Kim được thành lập dưới sự bảo hộ của Nhật.
 *   **21/04/1945:** Thanh niên Tiền phong được thành lập.
@@ -2038,7 +2040,7 @@
 *   **08/01/1955:** Chính quyền Ngô Đình Diệm ban hành Dụ số 2 và Dụ số 7 (03/02/1955) về cải cách điền địa, thực chất là cướp lại ruộng đất mà cách mạng đã chia cho nông dân, khôi phục giai cấp địa chủ.
 *   **03/1955:** Hội nghị lần thứ 7 Ban Chấp hành Trung ương Đảng Lao động Việt Nam đề ra nhiệm vụ củng cố miền Bắc và đấu tranh chính trị ở miền Nam.
 *   **22/03/1955:** Đảng Nhân dân Cách mạng Lào được thành lập.
-*   **13/05/1955:** Những người lính Pháp cuối cùng rút khỏi Hải Phòng, miền Bắc được hoàn toàn giải phóng.
+*   **13/05/1955:** Quân và dân ta tiếp quản an toàn, trọn vẹn thành phố Cảng Hải Phòng dưới sự chỉ đạo trực tiếp của đồng chí Đỗ Mười (Bí thư Thành ủy kiêm Chủ tịch Ủy ban Quân chính Hải Phòng) khi những người lính Pháp cuối cùng rút khỏi miền Bắc, hoàn thành giải phóng hoàn toàn miền Bắc sau 9 năm kháng chiến chống Pháp.
 *   **16/05/1955:** Quân Pháp rút khỏi Hải Phòng, miền Bắc hoàn toàn được giải phóng, kết thúc 9 năm kháng chiến chống Pháp.
 *   **07/1955:** Chủ tịch Hồ Chí Minh dẫn đầu đoàn đại biểu Chính phủ Việt Nam Dân chủ Cộng hòa đi thăm các nước xã hội chủ nghĩa để tranh thủ sự ủng hộ quốc tế.
 *   **17/07/1955:** Ngô Đình Diệm tuyên bố từ chối hiệp thương tổng tuyển cử để thống nhất đất nước.
@@ -2903,6 +2905,7 @@
 *   **05/1983:** Huỳnh Tấn Phát được bầu làm Chủ tịch Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, đồng thời là Chủ tịch Hội Kiến trúc sư Việt Nam.
 *   **06/1983:** Quân đội Malaysia chiếm đóng đá Hoa Lau (Swallow Reef) ở Trường Sa và xây dựng các công trình. Việt Nam đã chính thức phản đối hành động này.
 *   **Mùa hè 1983:** Chiến sự lại rộ lên và diễn ra ác liệt ở vùng biên giới Hoàng Liên Sơn (Lào Cai) và Hà Tuyên (Hà Giang).
+*   **07/1983:** Bí thư Thành ủy TP. Hồ Chí Minh Nguyễn Văn Linh tổ chức cuộc làm việc lịch sử tại Đà Lạt giữa các giám đốc xí nghiệp năng động của thành phố với Tổng Bí thư Lê Duẩn, báo cáo trực tiếp những mô hình sản xuất "xé rào", bung ra thực tế; sự kiện tạo bước chuyển biến căn bản trong tư duy kinh tế của ban lãnh đạo Đảng, mở đường cho đường lối Đổi Mới toàn diện.
 *   **27/09/1983:** Nhà báo quốc tế người Australia Wilfred Burchett (người bạn lớn trung kiên, đồng chí chiến đấu thủy chung của Chủ tịch Hồ Chí Minh và nhân dân Việt Nam trong cả hai cuộc kháng chiến chống Pháp và chống Mỹ) từ trần tại Sofia (Bulgaria), hưởng thọ 72 tuổi.
 *   **Cuối năm 1983:** Lính Trung Quốc thường xuyên gài mìn và dùng súng B41 bắn lén các xe cơ giới của Việt Nam đi qua các tuyến đường biên giới ở Mường Khương (Lào Cai).
 *   **30/04/1984:** Khởi công xây dựng Nhà máy Thủy điện Trị An trên sông Đồng Nai với sự hỗ trợ kỹ thuật của Liên Xô, công trình thủy điện trọng điểm phục vụ phát triển kinh tế và đảm bảo an ninh năng lượng cho miền Nam sau ngày thống nhất.
@@ -2943,6 +2946,7 @@
 *   **04/1988:** Chính phủ Philippin tổ chức bầu thị trưởng cho thị trấn được thiết lập trên các đảo nhỏ ở Trường Sa do họ kiểm soát (Thị Tứ), nhằm tạo cơ sở hành chính có tổ chức hơn cho các yêu sách của mình.
 *   **07/05/1988:** Đại tướng Lê Đức Anh ra thăm quần đảo Trường Sa và đọc lời thề khẳng định quyết tâm bảo vệ bằng được quần đảo Trường Sa và lãnh hải thiêng liêng của Tổ quốc.
 *   **20/05/1988:** Bộ Chính trị ban hành Nghị quyết 13 về nhiệm vụ và chính sách đối ngoại, chủ trương chuyển mạnh hoạt động đối ngoại sang phục vụ kinh tế, "thêm bạn bớt thù", đa dạng hóa quan hệ quốc tế.
+*   **22/06/1988:** Tại Kỳ họp thứ 3 Quốc hội khóa VIII, đồng chí Đỗ Mười được bầu làm Chủ tịch Hội đồng Bộ trưởng nước CHXHCN Việt Nam; trên cương vị người đứng đầu Chính phủ, ông quyết liệt chỉ đạo các biện pháp kiềm chế siêu lạm phát (từ ba con số xuống hai con số), tháo gỡ khó khăn kinh tế và chỉ đạo thực hiện thắng lợi Nghị quyết Khoán 10 trong nông nghiệp.
 *   **22/07/1988:** Đảng Xã hội Việt Nam tuyên bố giải thể.
 *   **29/08/1988:** Nữ sĩ tài hoa Xuân Quỳnh cùng chồng là nhà viết kịch xuất sắc Lưu Quang Vũ và con trai nhỏ Lưu Quỳnh Thơ qua đời trong một vụ tai nạn giao thông thảm khốc tại Hải Dương. Năm 2017, bà được Nhà nước truy tặng Giải thưởng Hồ Chí Minh về Văn học - Nghệ thuật với các tập thơ *Lời ru trên mặt đất* và *Bầu trời trong quả trứng*.
 *   **20/10/1988:** Đảng Dân chủ Việt Nam tuyên bố giải thể sau khi hoàn thành sứ mệnh lịch sử.
@@ -2967,7 +2971,7 @@
 *   **22/04/1990:** Thiếu tướng Trần Công Mân, Tổng Biên tập Báo Quân đội nhân dân viết bài "Cuộc chiến đấu chưa kết thúc", cảnh báo về trào lưu phủ nhận Đảng và CNXH.
 *   **08/1990:** Thủ tướng Trung Quốc Lý Bằng đề nghị cùng khai thác khu vực quần đảo Trường Sa.
 * **17/08/1990:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Đỗ Kim Tuyến (Tiến sĩ Luật, Trung tướng, Phó Tổng cục trưởng Tổng cục Cảnh sát Phòng chống tội phạm, Bộ Công an).
-*   **03-04/09/1990:** Diễn ra Hội nghị cấp cao không chính thức Việt Nam - Trung Quốc tại Thành Đô, đặt nền tảng cho việc bình thường hóa quan hệ giữa hai nước.
+*   **03-04/09/1990:** Diễn ra Hội nghị cấp cao không chính thức Việt Nam - Trung Quốc tại Thành Đô giữa đoàn đại biểu cấp cao Việt Nam (Tổng Bí thư Nguyễn Văn Linh, Chủ tịch Hội đồng Bộ trưởng Đỗ Mười và Cố vấn Ban Chấp hành Trung ương Phạm Văn Đồng) và lãnh đạo cấp cao Trung Quốc (Tổng Bí thư Giang Trạch Dân và Thủ tướng Lý Bằng), đặt nền tảng quyết định cho việc bình thường hóa quan hệ giữa hai nước.
 *   **22/10/1990:** Cộng đồng châu Âu (EC), tiền thân của Liên minh châu Âu (EU), chính thức thiết lập quan hệ ngoại giao với Việt Nam.
 
 ### **Thời kỳ Đẩy mạnh Đổi mới - Thoát khỏi Khủng hoảng (1991 - 1995)**
@@ -2975,7 +2979,7 @@
 * **1991:** Anh hùng Lực lượng vũ trang nhân dân Tạ Quang Tỷ (Tiểu đoàn trưởng Tiểu đoàn 4, Trung đoàn 2, Sư đoàn 9; tham gia chiến dịch Bình Giã. Sau là Phó Tham mưu trưởng Quân đoàn 4) từ trần.
 *   **Đầu năm 1991:** Trong một hội thảo về Việt Nam tại Thượng viện Pháp, Georges Boudarel bị một cựu tù binh Pháp (lúc này là bộ trưởng) nhận ra và thóa mạ. Sau đó, một nhóm cựu tù binh đã đâm đơn kiện ông về "tội ác chống nhân loại" tại trại 113. Một chiến dịch bôi nhọ trên truyền thông nổ ra khiến ông đột quỵ hai lần liên tiếp. Bạn bè của ông, đứng đầu là nhà toán học Laurent Schwartz, đã thành lập "Hội những người bạn của Boudarel" để bảo vệ ông.
 *   **17/03/1991:** Cuộc trưng cầu dân ý toàn Liên bang Xô viết được tổ chức, với 76,4% cử tri ủng hộ việc duy trì Liên bang Xô viết.
-*   **24-27/06/1991:** Đại hội đại biểu toàn quốc lần thứ VII của Đảng Cộng sản Việt Nam thông qua **"Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội"** và **"Chiến lược ổn định và phát triển kinh tế - xã hội đến năm 2000"**, chính thức khẳng định Đảng lấy chủ nghĩa Mác-Lênin và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng, kim chỉ nam cho hành động.
+*   **24-27/06/1991:** Đại hội đại biểu toàn quốc lần thứ VII của Đảng Cộng sản Việt Nam thông qua **"Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội"** và **"Chiến lược ổn định và phát triển kinh tế - xã hội đến năm 2000"**, chính thức khẳng định Đảng lấy chủ nghĩa Mác-Lênin và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng, kim chỉ nam cho hành động. Tại Đại hội, đồng chí Nguyễn Văn Linh chủ động rút lui khỏi cương vị Tổng Bí thư để chuyển giao thế hệ lãnh đạo và được cử làm Cố vấn Ban Chấp hành Trung ương Đảng; Đại hội bầu đồng chí Đỗ Mười làm Tổng Bí thư.
 *   **15-18/07/1991:** Theo sáng kiến của Indonesia, một hội nghị quốc tế đã được tổ chức tại Bandung với các nước trong khu vực để thảo luận về vấn đề quần đảo Trường Sa, ra thông cáo chung khuyến khích đối thoại và đàm phán.
 *   **19/08/1991:** Cuộc đảo chính tháng 8 nổ ra tại Liên Xô nhằm ngăn chặn sự tan rã của Liên bang nhưng thất bại, dẫn đến việc Đảng Cộng sản Liên Xô bị đình chỉ hoạt động.
 *   **25/11 - 04/12/1991:** Hội nghị lần thứ 2 Ban Chấp hành Trung ương Đảng (khóa VII) thông qua các nhiệm vụ và giải pháp phát triển kinh tế - xã hội cho giai đoạn 1992-1995, trong đó có mục tiêu kiên quyết đẩy lùi lạm phát.
@@ -3049,7 +3053,7 @@
 * **1996:** Anh hùng Lực lượng vũ trang nhân dân Tô Quyền (Đại tá Công an Nhân dân Việt Nam có công với Cách mạng) từ trần.
 *   **29/01/1996:** Đảng và Nhà nước truy tặng danh hiệu Anh hùng Lực lượng Vũ trang Nhân dân cho đồng chí Thiều Văn Chỏi vì những chiến công đặc biệt xuất sắc.
 * **29/01/1996:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Hữu Thúy (Đại tá, cán bộ tình báo chiến lược thuộc lưới tình báo A22).
-*   **06/1996:** Đại hội đại biểu toàn quốc lần thứ VIII của Đảng Cộng sản Việt Nam đề ra nhiệm vụ **đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước**.
+*   **28/06 - 01/07/1996:** Đại hội đại biểu toàn quốc lần thứ VIII của Đảng Cộng sản Việt Nam diễn ra tại Hà Nội, tái bầu đồng chí Đỗ Mười làm Tổng Bí thư Ban Chấp hành Trung ương Đảng, chính thức đề ra nhiệm vụ **đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước**.
 *   **1997:** **Cuộc khủng hoảng tài chính - tiền tệ khu vực** bắt đầu, gây ảnh hưởng tiêu cực đến nền kinh tế Việt Nam, làm suy giảm tốc độ tăng trưởng và thu hút đầu tư.
 *   **1997:** Hài cốt của liệt sĩ Nguyễn Hữu Quế, người đã ngã xuống bảo vệ cao điểm 815 năm 1979, được gia đình tìm thấy tại Cốc Càng (Trà Lĩnh, Cao Bằng) và cất bốc đưa về quê nhà Thanh Hóa.
 * **1997:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Độ (Chiến sĩ biệt động thành phố Đà Nẵng).
@@ -3065,11 +3069,13 @@
 * **23/07/1997:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Kim Đồng (Đội trưởng đầu tiên của Đội Thiếu niên Tiền phong Hồ Chí Minh).
 *   **19/11/1997:** Dịch vụ internet chính thức được cung cấp rộng rãi tại Việt Nam, do Tập đoàn Bưu chính Viễn thông Việt Nam (VNPT) và Công ty Cổ phần Netnam là những đơn vị đầu tiên triển khai.
 *   **12/1997:** Hội nghị lần thứ 4 Ban Chấp hành Trung ương Đảng (khóa VIII) đề ra chủ trương nêu cao tinh thần tự lực, tự cường, phát huy nội lực để vượt qua khó khăn, thách thức từ cuộc khủng hoảng.
+*   **29/12/1997:** Hội nghị lần thứ 4 Ban Chấp hành Trung ương Đảng (khóa VIII) chấp thuận đề nghị của Tổng Bí thư Đỗ Mười xin rút khỏi cương vị Tổng Bí thư để chuyển giao thế hệ lãnh đạo (cho đồng chí Lê Khả Phiêu), đồng thời cử đồng chí Đỗ Mười làm Cố vấn Ban Chấp hành Trung ương Đảng.
 *   **1998:** Trung tâm Giao dịch Chứng khoán TP. Hồ Chí Minh được thành lập theo quyết định của Thủ tướng Chính phủ
 *   **1998:** Tòa án Pháp chính thức bác bỏ hoàn toàn đơn kiện, tuyên bố Georges Boudarel không thể bị xét xử, khép lại vụ án "tội ác chống nhân loại".
 * **1998:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hoàng Minh Đạo (Liệt sĩ, Trưởng phòng Tình báo đầu tiên của Quân uỷ hội. Hy sinh do bị phục kích trên đường đi công tác tại sông Vàm Cỏ Đông đoạn qua ấp An Thới, xã An Hòa, huyện Trảng Bàng, tỉnh Tây Ninh đêm 24 tháng 12 năm 1969).
 * **1998:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Dương Minh Châu (Chủ tịch Ủy ban hành chính kháng chiến tỉnh Tây Ninh).
 * **1998:** Anh hùng Lực lượng vũ trang nhân dân Phan Kim Kỳ (Đại đội phó đại đội 3, Tiểu đoàn 172, Trung đoàn tên lửa 64, Sư đoàn Phòng không 361, Quân chủng Phòng không - Không quân Việt Nam, Nghề nghiệp Kỹ sư Thủy Lợi - sở Nông nghiệp & PT Nông thôn tỉnh Nghệ An) từ trần.
+*   **27/04/1998:** Đồng chí Nguyễn Văn Linh (nguyên Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, "người kiến trúc sư của công cuộc Đổi Mới") từ trần tại Thành phố Hồ Chí Minh ở tuổi 82. Ông là nhà lãnh đạo kiên định, sáng tạo, khởi xướng phong trào "Những việc cần làm ngay" tạo luồng sinh khí dân chủ trong đời sống xã hội, được Nhà nước truy tặng Huân chương Sao Vàng.
 *   **24/07/1998:** Trung ương Hội Chữ thập đỏ Việt Nam tổ chức lễ ra mắt Quỹ bảo trợ nạn nhân chất độc da cam tại Hà Nội. Nguyên Phó Chủ tịch nước Nguyễn Thị Bình được mời làm Chủ tịch danh dự của Quỹ, nhằm huy động nguồn lực xã hội chăm lo đời sống cho các nạn nhân và gia đình.
 *   **31/07/1998:** Thủ tướng Chính phủ ban hành Quyết định 135/1998/QĐ-TTg về chương trình phát triển kinh tế - xã hội các xã đặc biệt khó khăn miền núi và vùng sâu, vùng xa (Chương trình 135).
 *   **11/1998:** Bộ Chính trị ra Nghị quyết 06 về một số vấn đề nông nghiệp và kinh tế nông thôn, lần đầu tiên chính thức thừa nhận và khuyến khích phát triển **mô hình kinh tế trang trại**.
@@ -3368,6 +3374,7 @@
 * **30/08/2018:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Mạnh Hùng (Đại tá, nguyên Lữ đoàn trưởng Lữ đoàn Đặc công 198. Tham gia chiến đấu lập nhiều thành tích trong các chiến dịch Tây Nguyên, chiến dịch Hồ Chí Minh).
 *   **31/08/2018:** Tổng cục Tình báo (Bộ Quốc phòng) tổ chức lễ trao tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân do Chủ tịch nước Trần Đại Quang ký quyết định phong tặng cho Thượng úy Nguyễn Thị Mỹ Nhung (Tám Thảo), nguyên cán bộ Cụm tình báo chiến lược H.63 (Đoàn J22), ghi nhận những cống hiến đặc biệt xuất sắc và chiến công thầm lặng trong 45 năm phục vụ cách mạng.
 *   **01/10/2018:** Việt Nam tổ chức Lễ xuất quân Bệnh viện dã chiến cấp 2 số 1 gồm 63 cán bộ, chiến sĩ và nhân viên y tế lên đường làm nhiệm vụ tại Phái bộ Gìn giữ hòa bình Liên Hợp Quốc tại Nam Sudan (UNMISS), đánh dấu lần đầu tiên triển khai một đơn vị độc lập tham gia lực lượng mũ nồi xanh.
+*   **02/10/2018:** Đồng chí Đỗ Mười (nguyên Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, nguyên Chủ tịch Hội đồng Bộ trưởng) từ trần tại Hà Nội ở tuổi 101; ông là nhà lãnh đạo kiên trung, có 82 năm hoạt động cách mạng và gần 80 năm tuổi Đảng, cống hiến trọn đời cho sự nghiệp giải phóng dân tộc, xây dựng và bảo vệ Tổ quốc, được trao tặng Huân chương Sao Vàng.
 *   **2019:** Họa sĩ Mai Đại Lưu có chuyến đi thực tế đến trường mầm non vùng cao ở Hà Giang, qua đường Thanh Niên và trận địa Vị Xuyên, lấy cảm hứng thai nghén dự án hội họa "Hoa đêm - Tỉnh giấc bình minh" tri ân các anh hùng liệt sĩ.
 * **2019:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Bảy (A) (Thượng úy, Đại đội phó Đại đội 1 Không quân, Trung đoàn không quân 923. Phi công cấp Ace của Không quân nhân dân Việt Nam, bắn hạ 7 máy bay Mỹ. Sau là Đại tá, Phó Tham mưu trưởng Không quân nhân dân Việt Nam) từ trần.
 * **2019:** Anh hùng Lực lượng vũ trang nhân dân Mùa A Páo (Thượng úy, bộ đội tình nguyện tại Lào. Tham gia công tác dân tộc, địch vận tại Lào, kêu gọi được 300 tên phỉ ra đầu hàng. Sau là Đại tá, Phó chỉ huy trưởng về Chính trị, Bộ Chỉ huy Quân sự tỉnh Lai Châu) từ trần.
