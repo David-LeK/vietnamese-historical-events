@@ -215,6 +215,8 @@
 *   **07/1010:** Lý Thái Tổ ra "Chiếu dời đô", chuyển kinh đô từ Hoa Lư về thành Đại La và đổi tên thành Thăng Long. Đổi Hoa Lư làm phủ Trường Yên.
 *   **12/1010:** Lý Thái Tổ tiến hành cải cách hành chính, chia cả nước làm 24 lộ, dưới lộ có: phủ - châu, huyện - hương, và giáp.
 *   **1013:** Lý Thái Tổ định ra các hạng thuế trong cả nước, bao gồm thuế bãi dâu thu bằng thóc và tiền, chính thức thừa nhận và bảo vệ nghề trồng dâu nuôi tằm, dệt lụa.
+*   **01/1014:** Trận bến Kim Hoa. Vua Đại Lý Đoàn Tố Liêm cử hai tướng Dương Trường Huệ và Đoàn Kính Chí dẫn 20 vạn quân sang xâm lược Đại Cồ Việt, đóng đồn lập trại Ngũ Hoa tại bến Kim Hoa (vùng Tuyên Quang - Hà Giang). Vua Lý Thái Tổ sai Dực Thánh Vương đem quân đón đánh; quân Đại Cồ Việt hiệp đồng tượng binh và bộ binh đại phá kỵ binh Đại Lý, chém đầu hàng vạn giặc và bắt sống vô số quân lính, chiến mã. Đến tháng 07/1014, nhà Lý cử sứ thần đem 100 con ngựa chiến lợi phẩm dâng tặng triều Tống.
+*   **02/1015:** Vua Lý Thái Tổ sai Dực Thánh Vương và Vũ Đức Vương đem quân tiến đánh các châu Đô Kim, Vị Long, Thường Tân, Bình Nguyên, bắt sống tù trưởng phản loạn Hà Trắc Tuấn (kẻ liên kết dẫn đường cho quân Đại Lý xâm lược trước đó) mang về Thăng Long xử trảm bêu đầu ở chợ Đông, củng cố vững chắc chủ quyền biên cương phía Bắc.
 *   **06/1018:** Triều đình cử sứ sang nhà Tống xin bộ kinh Tam Tạng.
 *   **1019 (Kỷ Mùi):** Bộ sách "Thiên thư" do Tể tướng nhà Tống Vương Khâm Nhược chủ trì biên soạn được hoàn thành để thần thánh hóa vương triều. Đây là đối tượng mà Lý Thường Kiệt nhắm tới trong bài thơ *Nam quốc sơn hà* sau này.
 *   **12/1020:** Quân Lý dưới sự chỉ huy của Thái tử Lý Phật Mã đánh bại quân Chiêm Thành ở trại Bố Chính (Quảng Bình).
@@ -295,6 +297,7 @@
 *   **1135:** Vua Lý Thần Tông xuống chiếu quy định những người bán ruộng ao không được dùng giá cao hơn để chuộc lại, bảo vệ quyền sở hữu ruộng đất tư nhân về mặt pháp lý.
 *   **1136:** Thiền sư Nguyễn Minh Không chữa khỏi bệnh lạ (hóa hổ) cho vua Lý Thần Tông, sau được phong làm Quốc sư.
 *   **11/1138:** Lý Thần Tông mất, Lý Thiên Tộ (Lý Anh Tông) lên ngôi do được truyền ngôi theo di chiếu của vua cha Lý Thần Tông (lúc mới 3 tuổi).
+*   **1139 - 1141:** Loạn Thân Lợi (Triệu Trí Chi). Lợi dụng việc vua Lý Thần Tông qua đời và vua Lý Anh Tông lên ngôi khi mới 3 tuổi, Thân Lợi (sử nhà Tống chép là Triệu Trí Chi) mạo xưng là con của vua Lý Nhân Tông, mượn 3.000 quân từ vua Đại Lý là Đoàn Chính Nghiêm (Đoàn Hòa Dự) tiến sang Đại Việt nhằm tranh đoạt ngai vàng. Thân Lợi tiếm xưng Bình Vương, đánh chiếm vùng biên cương phía bắc rồi tràn xuống Thái Nguyên. Đầu năm 1141, Thái úy Đỗ Anh Vũ thống lĩnh đại quân nhà Lý mở trận phản công quyết định tại Bác Lãng, đánh tan tác phản quân và lực lượng Đại Lý hỗ trợ, bắt sống Thân Lợi giải về Thăng Long xử trảm, đập tan mưu đồ can thiệp của nước Đại Lý.
 *   **1141:** Quốc sư Nguyễn Minh Không viên tịch.
 *   **1142:** Vua Lý Anh Tông định lệ về chuộc ruộng và tranh chấp ruộng đất, nghiêm cấm chuộc lại ruộng đã bán đứt và quy định các tranh chấp kéo dài 5-10 năm thì không được kiện nữa.
 *   **1143:** Nhắc lại lệnh cấm giết mổ trâu bò, quy định xóm giềng không tố giác thì bị xử phạt cùng tội.
@@ -362,7 +365,7 @@
 *   **02/1257:** Vua Trần Thái Tông nhận con gái Hoàng Bính vào cung, sách phong làm Huệ Túc phu nhân.
 *   **08/1257:** Sứ Mông Cổ đến Đại Việt lần đầu tiên để dụ hàng.
 *   **09/1257:** Vua Trần Thái Tông xuống chiếu, lệnh cho các tướng đem quân thủy bộ ra ngăn giữ biên giới phía Bắc dưới sự tiết chế của Quốc công Trần Quốc Tuấn (Trần Hưng Đạo).
-*   **12/1257:** Quân Mông Cổ do Ngột Lương Hợp Thai chỉ huy tiến đánh biên giới; diễn ra trận Nổ Nguyên.
+*   **12/1257:** Quân Mông Cổ do Ngột Lương Hợp Thai chỉ huy, bao gồm kỵ binh Mông Cổ và lực lượng phụ trợ người Man từ vương quốc Đại Lý (vừa bị Mông Cổ quy phục), từ Vân Nam tiến đánh biên giới Đại Việt; diễn ra trận Nổ Nguyên.
 *   **17/01/1258:**   **Trận Bình Lệ Nguyên.** Vua Trần Thái Tông trực tiếp chỉ huy quân đội chống lại cuộc xâm lược của Mông Cổ do Ngột Lương Hợp Thai chỉ huy. Nghe theo lời khuyên của Lê Tần, nhà vua quyết định lui quân về Phủ Lỗ để tránh thế giặc mạnh ban đầu, bảo toàn lực lượng.
 *   **29/01/1258:**   **Trận Đông Bộ Đầu.** Tướng Trần Khánh Dư và quân nhà Trần tổ chức tập kích ban đêm, giành thắng lợi quyết định, giải phóng Thăng Long.
 *   **03/1258:** Trần Thái Tông nhường ngôi cho con là Trần Hoảng (Trần Thánh Tông).
