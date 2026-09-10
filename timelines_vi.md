@@ -414,6 +414,7 @@
 *   **1299:** Vua Trần Nhân Tông xuống chiếu yêu cầu học trò trong cả nước phải tập trung học tập để chuẩn bị cho các khoa thi.
 *   **1299:** Thượng hoàng Trần Nhân Tông xuất gia tu hành tại núi Yên Tử (Quảng Ninh), lấy đạo hiệu Hương Vân Đại Đầu Đà (Trúc Lâm Đại Sĩ), chính thức sáng lập dòng Thiền phái Trúc Lâm Yên Tử mang đậm bản sắc văn hóa Phật giáo Đại Việt.
 *   **03/10/1300 (15 tháng 8 năm Kỷ Hợi):** Hưng Đạo Đại vương Trần Quốc Tuấn qua đời tại nhà riêng ở Vạn Kiếp. Trước khi mất, khi vua Trần Anh Tông đích thân đến thăm và hỏi về kế sách giữ nước, ông đã dặn: "Phải khoan thư sức dân để làm kế sâu rễ bền gốc", coi đó là thượng sách giữ nước không còn gì hơn.
+*   **1301 (Tân Sửu):** Thái thượng hoàng Trần Nhân Tông (Trúc Lâm Đại Sĩ) sau khi xuất gia tu hành đã thực hiện chuyến vân du sang kinh đô Đồ Bàn của vương quốc Champa suốt 9 tháng. Tại đây, ngài đàm đạo giáo lý Phật pháp cùng vua Chế Mân, thắt chặt mối quan hệ bang giao hòa hiếu và hứa gả Công chúa Huyền Trân, tạo tiền đề lịch sử cho việc tiếp nhận hai châu Ô và Lý vào lãnh thổ Đại Việt năm 1306.
 *   **Khoảng thế kỷ XIV:** Truyền thuyết Lạc Long Quân và Âu Cơ, Phù Đổng Thiên Vương (Thánh Gióng), và Sơn Tinh - Thủy Tinh được ghi chép lần đầu tiên trong bộ sách sử **Lĩnh Nam chích quái**.
 *   **Cuối thế kỷ XIV - Nửa đầu thế kỷ XIX:** Xã hội Việt Nam chứng kiến những phong trào đấu tranh rộng lớn. Điểm đặc thù là không có những cuộc khởi nghĩa thuần túy của nông dân chống lại địa chủ, mà phổ biến là sự tập hợp lực lượng của nông dân cùng các tầng lớp bất bình (nho sĩ, địa chủ, quan lại) chống lại bọn cường hào, quan lại gian ác và tập đoàn thống trị thoái hóa.
 *   **1304:** Mạc Đĩnh Chi đỗ Trạng nguyên. Ông nổi tiếng với tài năng và sự ứng đối khiến vua quan nhà Nguyên nể phục, được phong là "Lưỡng quốc Trạng nguyên".
@@ -663,6 +664,7 @@
 *   **1428:** Lê Thái Tổ chia cả nước làm 5 đạo: Nam đạo, Bắc đạo, Đông đạo, Tây đạo và Hải Tây đạo. Triều đình đặt thêm chức Hành khiển ở các đạo để chia giữ sổ sách quân và dân.
 *   **1428:** Vua Lê Thái Tổ hạ chiếu cho các địa phương trong cả nước dựng nhà học để dạy dỗ nhân tài, tái thiết cơ sở hạ tầng giáo dục sau cuộc chiến tranh giải phóng.
 *   **1428:** Vua Lê Thái Tổ xuống chiếu định chế độ tiền tệ và cho đúc đồng tiền "Thuận Thiên thông bảo" bằng đồng, thiết lập hệ thống lưu thông tiền tệ độc lập đầu tiên của triều Hậu Lê.
+*   **1428 (Mậu Thân):** Theo truyền thuyết lịch sử ghi chép trong *Lam Sơn thực lục*, khi vua Lê Thái Tổ du thuyền trên hồ Tả Vọng (Đông Kinh), rùa vàng nổi lên mặt nước đòi lại thanh gươm báu Thuận Thiên mà thần Kim Quy đã trao mượn đánh giặc Minh. Nhà vua rút gươm trao trả cho rùa thần và đổi tên hồ thành **hồ Hoàn Kiếm** (Hồ Gươm), tạo nên biểu tượng thiêng liêng về khát vọng hòa bình của dân tộc Việt Nam sau mười năm kháng chiến gian khổ.
 *   **01/1428 (16/12 năm Đinh Mùi):** Các tướng Minh là Vương Thông, Mã Anh... chính thức xin hàng và xin rút quân về nước.
 *   **03/01/1428:** Những tên lính Minh cuối cùng rút khỏi bờ cõi. Đất nước hoàn toàn giải phóng.
 *   **02/1428:** Vua bù nhìn Trần Cảo do Lê Lợi lập lên đã tự sát sau khi mưu trốn sang Ngọc Ma thất bại.
@@ -1354,6 +1356,7 @@
 
 ### **Giai đoạn Khai thác Thuộc địa lần thứ nhất và Phong trào Yêu nước (1897 - 1913)**
 
+*   **1897 - 1907:** Vua Thành Thái thể hiện tinh thần canh tân và chí khí yêu nước độc đáo: là vị vua triều Nguyễn đầu tiên cắt tóc ngắn, tự lái xe hơi, học tiếng Pháp để đọc báo phương Tây. Nhằm chuẩn bị lực lượng chống Pháp và che mắt sự theo dõi gắt gao của mật thám thực dân, nhà vua bí mật thành lập một đội nữ binh hộ vệ (ngụy trang làm cung nữ) và nhiều lần 'giả điên', lập dị để bí mật liên lạc, ủng hộ phong trào Đông Du của Phan Bội Châu cùng các sĩ phu Duy Tân trước khi bị thực dân Pháp ép thoái vị.
 *   **02/1897:** Paul Doumer được bổ nhiệm làm Toàn quyền Đông Dương, bắt đầu một giai đoạn mới với chính sách cai trị tập trung và khai thác kinh tế quy mô lớn.
 *   **13/08/1897:** Triều đình Huế ra dụ bãi bỏ chức Kinh lược sứ Bắc Kỳ, trao toàn bộ quyền cai trị ở Bắc Kỳ cho Thống sứ Pháp.
 *   **27/09/1897:** Vua Thành Thái ra Dụ cải tổ Chính phủ Nam triều, bãi bỏ Hội đồng Phụ chính và Hội đồng Thượng thư, thành lập Hội đồng Cơ mật do Khâm sứ Trung Kỳ đứng đầu, thâu tóm quyền lực của triều Nguyễn.
@@ -1378,6 +1381,7 @@
 *   **1904:** Cuộc "cải lương hương chính" đầu tiên được Pháp thí điểm ở Nam Kỳ nhằm kiểm soát chặt chẽ hơn bộ máy hành chính làng xã.
 *   **1904:** Huỳnh Thúc Kháng đỗ Đệ tam giáp Đồng tiến sĩ xuất thân trong kỳ thi Hội và thi Đình năm Giáp Thìn dưới triều vua Thành Thái, cùng Phan Châu Trinh và Trần Quý Cáp khởi xướng phong trào canh tân đất nước.
 *   **1904:** Phan Bội Châu thành lập Hội Duy tân với mục đích đánh đuổi giặc Pháp, khôi phục Việt Nam, lập ra chính phủ độc lập.
+*   **1904:** Tại Paris (Pháp), cựu hoàng Hàm Nghi (lấy nghệ danh **Tử Xuân** / Prince d'Annam) tham gia triển lãm tác phẩm tại Bảo tàng Guimet (Musée Guimet), giới thiệu các bức họa phấn màu và tác phẩm điêu khắc theo trường phái Ấn tượng sau thời gian thọ giáo các danh họa Marius Reynaud và nhà điêu khắc lừng danh Auguste Rodin, trở thành nghệ sĩ tạo hình hiện đại đầu tiên của Việt Nam có tác phẩm được đón nhận tại phương Tây.
 *   **Cuối năm 1904:** Phan Châu Trinh, Trần Quý Cáp và Huỳnh Thúc Kháng cùng nhau Nam du. Tại Bình Định, các ông mượn kỳ thi hạch để làm bài thơ *Chí thành thông thánh* và bài phú *Lương ngọc danh sơn*, đả kích lối học từ chương.
 *   **1905:** Phong trào Đông du do Phan Bội Châu khởi xướng bắt đầu, đưa thanh niên yêu nước sang Nhật Bản học tập. Phan Bội Châu viết tác phẩm *Việt Nam vong quốc sử*.
 *   **1905:** Quyền Thống đốc Nam Kỳ Outrey tăng thuế điền thổ lên 100%, khiến các đại biểu người Việt trong Hội đồng Quản hạt từ chức.
@@ -1515,6 +1519,7 @@
 *   **1925:** Một phái đoàn khoa học do Tiến sĩ A. Krempf, Giám đốc Viện Hải dương học Đông Dương dẫn đầu, đã tiến hành nghiên cứu trên quần đảo Hoàng Sa bằng tàu *De Lanessan*.
 *   **1925:** Lê Thị Riêng sinh ra tại làng Vĩnh Mỹ, huyện Giá Rai (Bạc Liêu). Bà sau này trở thành một nhà lãnh đạo cách mạng và nữ anh hùng kiên trung của miền Nam.
 *   **1925:** Tác phẩm chính luận xuất sắc *Bản án chế độ thực dân Pháp* (Le Procès de la colonisation française) của Nguyễn Ái Quốc được Thư quán Lao động (Librairie du Travail) xuất bản lần đầu tiên tại Paris (Pháp), tố cáo tội ác của chủ nghĩa thực dân và khơi dậy phong trào đấu tranh của các dân tộc thuộc địa.
+*   **1925:** Tại đảo Réunion (nơi bị thực dân Pháp lưu đày), cựu hoàng Duy Tân (lấy tên hoàng thân Vĩnh San) kiên quyết từ chối trợ cấp đặc biệt để giữ khí tiết, tự học nghề kỹ thuật và mở tiệm **'Radio-Laboratoire Vĩnh San'** tại số 41 phố Labourdonnais (Saint-Denis). Ông trực tiếp sửa chữa, lắp ráp máy móc và thiết bị thu thanh vô tuyến (TSF), trở thành chuyên gia vô tuyến điện hàng đầu được chính quyền đảo nhờ thiết lập trạm truyền tin đầu tiên, và sau đó được cấp chứng chỉ điện đài nghiệp dư quốc tế (hô hiệu **FR8VX**).
 *   **01/1925:** Nguyễn Ái Quốc mở các lớp huấn luyện chính trị cho thanh niên yêu nước tại Quảng Châu.
 *   **03/03/1925:** Thượng thư Bộ Binh Thân Trọng Huề gửi văn thư cho Khâm sứ Pháp, khẳng định "Các đảo Hoàng Sa bao giờ cũng thuộc về nước An Nam", xác nhận chủ quyền trước các tranh chấp gia tăng.
 *   **08/03/1925:** Toàn quyền Đông Dương Martial Merlin ra tuyên bố chính thức khẳng định hai quần đảo Hoàng Sa và Trường Sa là lãnh thổ thuộc chủ quyền của Pháp (với tư cách là đại diện bảo hộ cho Nhà nước An Nam).
@@ -1614,6 +1619,7 @@
 *   **21/12/1933:** Thống đốc Nam Kỳ Jean-Félix Krautheimer ký **Nghị định số 4702-CP** chính thức sáp nhập toàn bộ các đảo thuộc quần đảo Trường Sa (gồm đảo Ba Bình, Song Tử Tây, Song Tử Đông, Thị Tứ, Loaita, Nam Yết, Cồn San Hô và các đảo phụ cận) vào địa hạt tỉnh Bà Rịa.
 *   **1934 - 1935:** Nguyễn Sơn (Hồng Thủy) trở thành chiến sĩ người Việt duy nhất tham gia cuộc Vạn lý Trường chinh lịch sử 10.000 km của Quân giải phóng Nhân dân Trung Quốc.
 *   **1934 - 1938:** Nguyễn Ái Quốc trở lại Liên Xô, tiếp tục mang bí danh **Linov** (Lin). Người làm nghiên cứu viên tại Viện Nghiên cứu các vấn đề dân tộc và thuộc địa ở Moskva, theo học và tốt nghiệp Trường Quốc tế Lênin (1935 - 1938), đồng thời tham gia Đoàn đại biểu Đảng Cộng sản Đông Dương dự Đại hội VII Quốc tế Cộng sản (1935).
+*   **20/03/1934 (05/02 năm Giáp Tuất):** Lễ thành hôn của vua Bảo Đại với bà Marie-Thérèse Nguyễn Hữu Thị Lan (Nam Phương Hoàng hậu) được tổ chức trọng thể tại điện Thái Hòa (Huế). Nhà vua thực hiện bước đột phá chưa từng có trong hoàng gia triều Nguyễn: tuyên bố cam kết thực thi chế độ **'nhất phu nhất phụ'** (một vợ một chồng), giải tán tam cung lục viện và tấn phong ngay tước vị Hoàng hậu trong ngày cưới.
 *   **12/09/1934:** Vừ A Dính, người thiếu niên anh hùng dũng cảm người dân tộc HMông trong kháng chiến chống Pháp, sinh ra tại xã Pú Nhung, huyện Tuần Giáo, tỉnh Điện Biên.
 *   **27 - 31/03/1935:** Đại hội đại biểu toàn quốc lần thứ I của Đảng họp tại Ma Cao (Trung Quốc) bầu Ban Chấp hành Trung ương do đồng chí Lê Hồng Phong làm Tổng Bí thư; thông qua Nghị quyết chính trị và Điều lệ Đảng, đánh dấu sự khôi phục và củng cố vững chắc hệ thống tổ chức của Đảng từ Trung ương đến cơ sở sau thời kỳ khủng bố trắng của thực dân Pháp; đồng chí Phùng Chí Kiên được bầu vào Ban Thường vụ Ban Chấp hành Trung ương Đảng, trực tiếp phụ trách công tác quân sự.
 *   **25/07 - 20/08/1935:** Nguyễn Thị Minh Khai đại diện cho Đảng Cộng sản Đông Dương tham dự và phát biểu tại Đại hội lần thứ VII của Quốc tế Cộng sản tại Moskva (Liên Xô).
@@ -1669,6 +1675,7 @@
 *   **1940:** Kiến trúc sư Huỳnh Tấn Phát mở văn phòng kiến trúc sư tư đầu tiên của người Việt ở Sài Gòn. Cùng năm, Lưu Tấn Phát là một trong những hạt nhân nòng cốt của Khởi nghĩa Nam Kỳ tại xã nhà ở Tiền Giang.
 *   **1940:** Nhà thơ Nguyễn Bính xuất bản tập thơ *Lỡ bước sang ngang* và được trao giải thưởng thơ của Tự Lực Văn Đoàn với tập *Tâm hồn tôi*, khẳng định vị thế "nhà thơ chân quê" xuất sắc nhất của phong trào Thơ mới với những vần thơ mang đậm hồn quê và phong vị dân ca dân tộc.
 *   **01/02/1940:** Nguyễn Văn Trỗi sinh tại làng Thanh Quýt, huyện Điện Bàn, tỉnh Quảng Nam. Ông sau này trở thành chiến sĩ biệt động Sài Gòn quả cảm, người có khí tiết lẫm liệt trước pháp trường trở thành biểu tượng của lòng yêu nước.
+*   **18/06/1940:** Sau khi Tướng Charles de Gaulle phát đi 'Lời kêu gọi ngày 18 tháng 6' qua đài BBC từ London, cựu hoàng Duy Tân đã tự dùng đài thu phát vô tuyến của mình tại đảo Réunion để bắt sóng, dịch và bí mật phổ biến bản tin hiệu triệu kháng chiến chống phát xít tại vùng Tây Nam Ấn Độ Dương. Về sau ông chính thức gia nhập quân đội Pháp Tự Do với tư cách sĩ quan truyền tin vô tuyến điện và được thăng đến cấp Thiếu tá.
 *   **22/06/1940:** Chính phủ Pháp đầu hàng phát xít Đức.
 *   **09/1940:** Việt Nam Kiến quốc quân (lực lượng vũ trang của Phục quốc Hội) tiến đánh Lạng Sơn.
 *   **22/09/1940:** Quân Nhật vượt biên giới, tấn công Lạng Sơn. Thực dân Pháp nhanh chóng ký hiệp định đầu hàng, chấp nhận cho Nhật vào Đông Dương.
@@ -1756,6 +1763,7 @@
 *   **05/09/1945:** Chính phủ lâm thời ra sắc lệnh giải thể Đại Việt Quốc gia Xã hội Đảng và Đại Việt Quốc dân Đảng.
 *   **07/09/1945:** Chủ tịch Hồ Chí Minh ra chỉ thị thành lập Bộ Tổng Tham mưu Quân đội nhân dân Việt Nam và chỉ định đồng chí Hoàng Văn Thái làm Tổng Tham mưu trưởng đầu tiên.
 *   **08/09/1945:** Chủ tịch Hồ Chí Minh ký Sắc lệnh số 14-SL, ấn định sẽ tổ chức Tổng tuyển cử trong vòng hai tháng.
+*   **10/09/1945:** Sau khi tuyên bố thoái vị tại Huế ('thà làm dân một nước độc lập hơn làm vua một nước nô lệ'), cựu hoàng Bảo Đại (công dân Nguyễn Vĩnh Thụy) nhận lời mời của Chủ tịch Hồ Chí Minh, chính thức được Chính phủ Cách mạng Lâm thời Việt Nam Dân chủ Cộng hòa bổ nhiệm giữ chức **Cố vấn Tối cao của Chính phủ** theo Sắc lệnh số 23-SL.
 *   **11/09/1945:** Tướng Gracey, chỉ huy quân đội Anh, đến Sài Gòn.
 *   **16/09/1945:** "Tuần lễ vàng" bắt đầu, vận động nhân dân đóng góp tài chính cho đất nước.
 *   **Đêm 22 rạng 23/09/1945:** Quân Pháp, được sự giúp đỡ của quân Anh, nổ súng đánh chiếm Sài Gòn.
@@ -1768,6 +1776,7 @@
 *   **25/10/1945:** Xứ ủy Nam Bộ họp hội nghị cán bộ ở Thiên Hộ (Mỹ Tho), đề ra phương hướng kháng chiến lâu dài.
 *   **11/11/1945:** Đảng Cộng sản Đông Dương tuyên bố "tự giải tán", thực chất là rút vào hoạt động bí mật.
 *   **25/11/1945:** Ban Thường vụ Trung ương Đảng ra Chỉ thị "Kháng chiến kiến quốc", xác định kẻ thù chính và nhiệm vụ trước mắt của cách mạng.
+*   **14/12/1945:** Tại Paris (Pháp), Chủ tịch Chính phủ Lâm thời Cộng hòa Pháp Tướng Charles de Gaulle đích thân tiếp kiến cựu hoàng Duy Tân (Thiếu tá Vĩnh San) để bàn thảo về tình hình Đông Dương và dự kiến đưa cựu hoàng trở về Việt Nam đảm nhiệm vai trò hòa giải chính trị, chỉ 12 ngày trước khi nhà vua tử nạn máy bay định mệnh tại Bangui.
 *   **26/12/1945 (Ất Dậu):** Cựu hoàng Duy Tân (Nguyễn Phúc Vĩnh San), vị vua yêu nước từng tham gia lực lượng Kháng chiến Pháp Tự do chống phát xít trong Thế chiến II và được phong hàm Thiếu tá, tử nạn trong một vụ rơi máy bay bí ẩn tại Bangui (thuộc Cộng hòa Trung Phi), hưởng dương 45 tuổi.
 *   **1946:** Sau khi thực dân Pháp trở lại xâm lược Việt Nam, Cù Chính Lan trở thành thế hệ thanh niên đầu tiên trong xã tình nguyện nhập ngũ. Ông nhanh chóng nổi bật trong học tập, công tác và chiến đấu, được đồng đội hết lòng mến phục.
 *   **1946:** Huỳnh Tấn Phát bị thực dân Pháp bắt và kết án 2 năm tù tại Khám Lớn (Sài Gòn), nơi ông đóng vai trò quan trọng trong việc thành lập "Liên đoàn tù nhân".
@@ -1789,6 +1798,7 @@
 *   **02/03/1946:** Quốc hội khóa I họp kỳ đầu tiên tại Nhà hát Lớn Hà Nội, bầu cụ Nguyễn Văn Tố làm Trưởng ban Thường trực Quốc hội (tương đương Chủ tịch Quốc hội đầu tiên) và bầu Cụ Hồ Chí Minh làm Chủ tịch Chính phủ Liên hiệp Kháng chiến (Chủ tịch nước Việt Nam Dân chủ Cộng hòa đầu tiên); chí sĩ Huỳnh Thúc Kháng được mời giữ chức Bộ trưởng Bộ Nội vụ.
 *   **06/03/1946:** Chủ tịch Hồ Chí Minh và Vũ Hồng Khanh thay mặt Chính phủ Việt Nam ký với J. Sainteny, đại diện Chính phủ Pháp, bản Hiệp định Sơ bộ.
 *   **09/03/1946:** Ban Thường vụ Trung ương Đảng ra Chỉ thị "Hòa để tiến".
+*   **16/03/1946:** Cố vấn Tối cao Vĩnh Thụy (cựu hoàng Bảo Đại) dẫn đầu Phái đoàn ngoại giao thiện chí của Chính phủ Việt Nam Dân chủ Cộng hòa (gồm Nghiêm Kế Tổ, Nguyễn Công Truyền) lên đường sang Trùng Khánh (Trung Quốc) để đàm phán hữu nghị với chính phủ Trung Hoa Dân quốc, tìm kiếm sự ủng hộ ngoại giao cho nền độc lập và chủ quyền của Việt Nam.
 *   **24/03/1946:** Chủ tịch Hồ Chí Minh và Cao ủy Pháp D'Argenlieu hội đàm tại Vịnh Hạ Long.
 *   **27/03/1946:** Chủ tịch Hồ Chí Minh ký Sắc lệnh số 37 cử Bác sĩ Vũ Đình Tụng, Giám đốc Nha Y tế Bắc Bộ, kiêm giữ chức Giám đốc Nha Y tế Trung ương thuộc Bộ Xã hội.
 *   **06/04/1946:** Tướng Pháp Valluy ra chỉ thị bí mật cho Đại tá Vicaire về kế hoạch đánh chiếm xứ Nùng (Hải Ninh).
