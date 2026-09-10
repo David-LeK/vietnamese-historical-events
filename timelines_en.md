@@ -135,10 +135,13 @@
 *   **687:** The uprising of Ly Tu Tien and Dinh Kien.
 *   **711:** The Tang dynasty established the Phong Chau and Hoan Chau Area Commands to further decentralize and tighten their control over the mountainous and southern territories.
 *   **713 - 722:** Mai Thuc Loan staged an uprising against Tang dynasty domination. He liberated Hoan Chau, proclaimed himself Mai Hac De (Black Emperor Mai), established the capital at Van An Citadel (Nam Dan, Nghe An), and allied with neighboring states before the rebellion was suppressed in 722.
+*   **722 (Lunar Year of the Dog):** Following fierce sieges by Tang imperial forces, Mai Hac De (Mai Thuc Loan) fell ill and passed away. His son Mai Thuc Huy (Mai Thieu De) was acclaimed as the new ruler by the insurgents, retreating to the Hung Son mountain fortress (Nam Dan, Nghe An) to sustain resistance against the Tang dominion.
+*   **723 (Quy Hoi year):** Tang generals Yang Sixu and Guang Chuke launched a massive assault against the Hung Son stronghold. Mai Thieu De and his commanders fought valiantly to the end and died in battle, bringing an end to the Mai Hac De uprising.
 *   **766 - 791:** The uprising of Phung Hung (Bo Cai Dai Vuong).
 *   **767:** Srivijaya and Kunlun forces raided Giao Chau and were defeated by Military Commissioner Zhang Boyi.
 *   **780 (Canh Than year):** Khuong Cong Phu passed the doctoral examination (Jinshi) in the Tang Dynasty, later rising to high positions in the Tang court.
 *   **789:** Phung Hung passed away. His son Phung An succeeded him and honored him as Bo Cai Dai Vuong.
+*   **791 (Tan Mui year):** Tang governor Zhao Chang laid siege to Tong Binh citadel (Hanoi). Besieged and outmatched, Phung An (son of Bo Cai Dai Vuong Phung Hung) was compelled to surrender to the Tang army, terminating the autonomous governance of the Phung clan.
 *   **819 - 820:** The uprising of Duong Thanh.
 *   **Sep. 820:** Zen Master Vo Ngon Thong arrived at Kien So Pagoda, establishing the Vo Ngon Thong Zen sect.
 *   **822:** Protector General Li Yuanxi moved the administrative seat to the To Lich River area and built the Dai La Citadel. This event is closely tied to the legends of the To Lich River God (To Lich Dai Vuong) recorded in *Viet Dien U Linh Tap*.
@@ -169,6 +172,7 @@
 *   **955:** Following the death of his elder brother Thien Sach King Ngo Xuong Ngap (954), Nam Tan King Ngo Xuong Van ruled alone and dispatched an envoy to Southern Han to establish diplomatic ties and seek investiture, maintaining peace and preserving national independence.
 *   **965:** Nam Tan Vuong Ngo Xuong Van was killed in battle while suppressing a rebellion in the hamlets of Duong and Nguyen. The Ngo dynasty ended.
 *   **965 - 967:** The Anarchy of the 12 Warlords. Warlords fully formed by 966.
+*   **965 (At Suu year):** Following the death of Nam Tan Vuong Ngo Xuong Van, Thien Sach Vuong's son Ngo Xuong Xi succeeded to the royal mantle. Powerless to preserve control over the Co Loa capital amid growing feudal unrest, he withdrew to fortify Binh Kieu (Trieu Son, Nghe An/Thanh Hoa), initiating the Period of the 12 Warlords.
 *   **967:** Dinh Bo Linh defeated several warlords, including Do Canh Thac, Nguyen Sieu, Nguyen Khoan, Kieu Cong Han, and Kieu Thuan.
 *   **968:** Dinh Bo Linh defeated the remaining warlords (Ly Khue, La Duong), unified the country, ascended to the throne as Emperor (Dinh Tien Hoang), and established the capital at Hoa Lu (Ninh Binh).
 *   **970:** Dinh Tien Hoang established the era name Thai Binh.
@@ -201,8 +205,9 @@
 *   **992:** King Le Dai Hanh returned 360 prisoners captured in Dia Ly to Champa. He ordered *Phu quoc* Ngo Tu An to open a land route from Nam Gioi port (Ha Tinh) through Ngang Pass to Dia Ly prefecture (Quang Binh).
 *   **995:** Dai Co Viet naval forces (around 100 ships) attacked Nhu Hong (Qinzhou, Song dynasty) to capture fugitives. In the summer, 5,000 Dai Co Viet troops attacked Yongzhou (Song) but were repelled.
 *   **996:** Le Dai Hanh received Song envoy Li Ruozhuo, continuing to assert independence and dismissing responsibility for border raids.
+*   **1001 (Tan Suu year):** Former Emperor Dinh Phe De (Prince Ve Dinh Toan) accompanied Emperor Le Dai Hanh on an expedition against the Cuu Long rebels in Da Cai (Nghe An), where he was fatally struck by a stray arrow at the age of 27, concluding the life of the last monarch of the Dinh Dynasty.
 *   **11th century (Ly Dynasty):** The state implemented the "Ngu binh u nong" (lodging the military in agriculture) policy, maintaining a standing army that took turns returning to their villages for agricultural production. The dynasty also mandated regular performance evaluations (khao hach) for civil and military mandarins every 9 years to determine promotions or demotions.
-*   **1005:** Le Dai Hanh passed away. After internal strife, Le Long Dinh killed his brother Le Long Viet to seize the throne.
+*   **1005:** Emperor Le Dai Hanh passed away, triggering an eight-month succession struggle among the princes. Crown Prince Le Long Viet suppressed rival factions and ascended the throne as Emperor Le Trung Tong. However, after reigning for only three days, he was assassinated in the palace by his younger brother Le Long Dinh, who seized the throne.
 *   **Jun. 1006:** The Song Emperor refused a petition by local official Ling Ce (Lang Sach) to invade Vietnam during the turmoil of Le Long Dinh's reign, preferring to maintain peace.
 *   **1008:** King Lê Long Đĩnh changed the era name to Cảnh Thụy, enfeoffed imperial princes, and expanded border trade markets between Đại Cồ Việt and the Song Dynasty.
 
@@ -373,6 +378,7 @@
 *   **Oct. 1266:** Emperor Tran Thanh Tong issued an edict allowing princes, princesses, consorts, and royal relatives to recruit landless vagrants as household slaves to reclaim wasteland and establish private estates (dien trang).
 *   **1267:** The Yuan dynasty presented "six demands" to Dai Viet, including that the Tran king must pay tribute in person and allow the appointment of administrators.
 *   **1272:** Le Van Huu completed the *Dai Viet Su Ky* (Annals of Dai Viet), the first national history of Vietnam, comprising 30 volumes.
+*   **May 5, 1277 (1st day of the 4th lunar month, Dinh Suu year):** Retired Emperor Tran Thai Tong (Tran Canh), the founding monarch of the Tran Dynasty who led Dai Viet to decisive victory in the First Mongol Invasion (1258), passed away at Van Tho Palace at the age of 60.
 *   **1278:** Former Empress Chieu Thanh (Ly Chieu Hoang) passed away at the age of 61. After her demotion, she had been married to General Le Phu Tran, with whom she had a son (Thuong Vi Hau Tong) and a daughter (Ung Thuy Cong chua Khue).
 *   **Oct. 24, 1278:** Emperor Trần Thánh Tông abdicated the throne in favor of Crown Prince Trần Khâm (later known as Emperor Trần Nhân Tông).
 *   **1280:** Prince Chieu Van Tran Nhat Duat rode alone into the camp of rebel leader Trinh Giac Mat in Da Giang, using extraordinary diplomatic finesse and deep knowledge of indigenous customs to secure submission to the court without shedding blood.
@@ -401,6 +407,7 @@
 *   **Apr. 9, 1288:** The historic Battle of Bach Dang. The Yuan navy was completely annihilated under the command of Hung Dao Vuong Tran Quoc Tuan. The third resistance war against the Mongol-Yuan invaders ended in a glorious victory.
 *   **Sep. 1288:** Nguyen Tu Quoc Mau (Princess Thien Thanh, wife of Tran Hung Dao) passed away after 37 years of marriage. While her husband fought on the front lines, she managed logistics in the rear. She was one of the only two women (along with Linh Tu Quoc Mau Tran Thi Dung) honored with the supreme title "Quoc Mau" (Mother of the Nation) for their immense contributions to the Tran dynasty.
 *   **1289:** Emperor Tran Nhan Tong enfeoffed Nguyen Khoai as a Marquis and granted Khoai Lo district as a "thang moc ap" (bathing appanage).
+*   **Jul. 3, 1290 (25th day of the 5th lunar month, Canh Dan year):** Retired Emperor Tran Thanh Tong (Tran Hoang), the second monarch of the Tran Dynasty who co-commanded the victorious resistance against the Second (1285) and Third (1288) Yuan-Mongol Invasions alongside Emperor Tran Nhan Tong, passed away at Nhan Tho Palace at age 51.
 *   **Apr. 16, 1293:** Tran Nhan Tong abdicated the throne in favor of Crown Prince Tran Thuyen (later Tran Anh Tong).
 *   **1294:** The Yuan dynasty officially issued an edict to end the war with Dai Viet after Emperor Temur Khan ascended the throne.
 *   **1294:** General Tran Quang Khai, a key figure in the resistance against the Mongols and a renowned poet, passed away.
@@ -414,12 +421,14 @@
 *   **1305:** The Trần royal court erected the 14-story Phổ Minh Pagoda Tower in Nam Định to enshrine the sacred relics of King-Monk Trần Nhân Tông, an architectural and sculptural masterpiece of the Trần Dynasty.
 *   **1306:** The Champa king Che Man (Jaya Simhavarman III) offered the two prefectures of O and Ly as a wedding gift to marry Princess Huyen Tran.
 *   **1307:** The Tran dynasty renamed the two prefectures of O and Ly to Thuan and Hoa, incorporating them into Dai Viet's territory.
+*   **Dec. 14, 1308 (1st day of the 11th lunar month, Mau Than year):** Retired Emperor Tran Nhan Tong (Tran Kham) – the revered monarch who led Dai Viet to triumph over the Yuan Mongols and subsequently founded the Truc Lam Zen Buddhist tradition (Buddha-Emperor Tran Nhan Tong) – attained Nirvana at Ngoa Van Hermitage atop Mount Yen Tu at age 51.
 *   **1309:** Digging of the Thien Duc River (Duong River) to facilitate transport.
 *   **1310:** Emperor Tran Anh Tong granted 80 mau of land and agricultural laborers in An Dinh to Zen Master Phap Loa.
 *   **1312:** King Tran Anh Tong led a campaign against Champa, capturing the Champa King Che Chi.
 *   **Jul. 4, 1314:** Tran Anh Tong abdicated the throne in favor of Crown Prince Tran Manh (later Tran Minh Tong).
 *   **1315:** King Tran Minh Tong issued a law prohibiting relatives within the royal family from suing each other, aiming to maintain harmony and order within the dynasty.
 *   **1316:** The Tran court revised regulations on granting households as stipends to civil officials based on rank, and princes harvested Tich Dien fields.
+*   **Apr. 21, 1320 (16th day of the 3rd lunar month, Canh Than year):** Retired Emperor Tran Anh Tong (Tran Thuyen), the fourth monarch of the Tran Dynasty renowned for expanding the southern realm (incorporating the O and Ly provinces) and consolidating peace and culture, passed away at Trung Quang Palace (Thien Truong, Nam Dinh) at age 45.
 *   **Nov. 1320:** General Pham Ngu Lao passes away at the age of 66. He was an outstanding military commander of the Tran Dynasty who played a major role in defeating two Yuan-Mongol invasions and expanding southern territories.
 *   **1323:** King Tran Minh Tong opened the Thai hoc sinh examination to select talented individuals to serve the country, bringing capable scholars like Doan Nhu Hai, Pham Ngu Lao, and Chu Van An into the administration.
 *   **1324:** Minister Van Hue Vuong donated 300 mau of land in Gia Lam, over 1,000 mau in Dong Gia and An Lu, along with over 1,000 household slaves to Quynh Lam Pagoda.
@@ -593,7 +602,7 @@
 *   **Apr. 2, 1409:** Dang Dung and Nguyen Canh Di (sons of the two executed generals) enthroned Tran Quy Khoang as king (Trung Quang De) in Nghe An to continue the resistance.
 *   **1410:** Gian Dinh De was captured by Trung Quang De and honored as Retired Emperor. Later, Gian Dinh De was captured and killed by the Ming army.
 *   **1413:** The righteous army of Trung Quang De was defeated by Zhang Fu and had to retreat to Hoa Chau.
-*   **Apr. 1414:** Zhang Fu captured Trung Quang De, Dang Dung, and Nguyen Suy. The resistance of the Later Tran dynasty failed.
+*   **Apr. 1414:** Ming general Zhang Fu captured Emperor Trung Quang De (Tran Quy Khoang) along with loyalist generals Dang Dung and Nguyen Suy. While being escorted as captives to Beijing, Trung Quang De, Dang Dung, and Nguyen Suy threw themselves into the sea to preserve their loyalty and national dignity, bringing a final end to the Later Tran Dynasty.
 *   **Feb. 1416:** At Lung Nhai (Thanh Hoa), Le Loi and 18 close friends held an oath ceremony, determined to drive out the Ming army.
 *   **Feb. 1418 (Jan. 9, Lunar Year of the Dog):** Facing enemy encirclement, Le Loi retreated to Lac Thuy and set up an ambush.
 *   **Feb. 1418 (Jan. 13, Lunar Year of the Dog):** The Ming army attacked Lac Thuy. The Lam Son forces ambushed them, killing over 3,000 enemy troops.
@@ -670,8 +679,8 @@
 *   **1437:** King Le Thai Tong commissioned Luong Dang to reform court rituals and music, establishing standards for ceremonial dress and instruments.
 *   **1437:** King Lê Thái Tông promulgated 14 strict Military Orders to regulate military discipline, tactical maneuvers, and severely punish the harassment or mistreatment of civilians.
 *   **1442:** The Le court held the first doctoral examination, passing 33 people, including Trang Nguyen (First Laureate) Nguyen Truc. The practice of erecting doctoral stelae at the Temple of Literature began.
-*   **1442:** The tragic Le Chi Vien case occurred, leading to the execution of three generations of Nguyen Trai's family.
 *   **1442:** The Le court standardized the titles of officials responsible for the metropolitan examinations (such as De dieu and Giam thi) and formally divided successful candidates into two lists: the primary list (Chinh bang) and the supplementary list. For the first time, new laureates were granted scholarly attire, attended royal banquets, and were provided with horses and escorts to return to their hometowns in honor (vinh quy bai to).
+*   **Sep. 1, 1442 (Aug. 4, Lunar Year of the Dog):** Following a military inspection tour in Chi Linh, Emperor Le Thai Tong died suddenly at Le Chi Vien (Gia Binh, Bac Ninh) at the age of 20. His sudden death led to the tragic Le Chi Vien treason case, resulting in the unjust execution of founding statesman Nguyen Trai and three generations of his family (who were fully exonerated and posthumously rehabilitated by Emperor Le Thanh Tong in 1464).
 *   **1443:** Le Nhan Tong ascended the throne.
 *   **1443 - 1459:** Phan Phu Tien compiled the *Đại Việt sử ký tục biên* (Continued History of Dai Viet) from Le Van Huu's *Đại Việt sử ký* (History of Dai Viet).
 *   **Nov. 1448:** King Le Nhan Tong married his eldest sister, Princess Ve Quoc (who suffered from mutism), to Le Quat, son of Grand Commander Le Thu. Le Thu used this wedding to solicit bribes from local officials, causing public resentment.
@@ -703,13 +712,15 @@
 *   **1497:** King Le Thanh Tong's funeral regulations stipulated that officials must wear white for 100 days, and black thereafter when attending court, reflecting the deep adoption of the Five Elements (Ngu hanh) color symbolism in Vietnamese mourning customs.
 *   **16th century:** Catholicism continued to be introduced, with the arrival of Franciscan and Dominican missionaries.
 *   **16th century:** Portuguese explorers referred to the Paracel Islands as "Ilhas do Pracel".
-*   **1504:** Le Hien Tong passed away, Le Tuc Tong ascended the throne but passed away after 6 months.
+*   **1504 (6th lunar month, Giap Ty year):** Following the passing of Emperor Le Hien Tong, Crown Prince Le Thuan ascended the throne as Emperor Le Tuc Tong, adopting the era name Thai Trinh. Known for his scholarly devotion and benevolent nature, he maintained court discipline, alleviated tax burdens, and promoted upright Confucian officials.
+*   **Dec. 8, 1504 (8th day of the 11th lunar month, Giap Ty year):** Emperor Le Tuc Tong fell gravely ill and passed away at the age of 17 after reigning for six months. In his deathbed edict, he bequeathed the throne to his elder brother, Prince Le Tuan (Emperor Le Uy Muc).
 *   **1505:** Le Uy Muc ascended the throne. The court began to fall into disarray; the king was cruel, killed relatives, and power fell into the hands of the empress's family.
 *   **Dec. 19, 1509:** Gian Tu Cong Le Oanh (grandson of Le Thanh Tong) raised an army from Thanh Hoa, marched on Thang Long, killed Le Uy Muc, and proclaimed himself king (Le Tuong Duc).
 *   **1511:** Peasant uprisings began to break out, notably the uprising of Tran Tuan in Son Tay.
 *   **April 1511:** King Le Tuong Duc promulgated the "Tri binh bao pham" consisting of 50 articles, aiming to strengthen discipline, education, and legal penalties to overcome the chaos left by the previous reign.
 *   **1512:** Le Tuong Duc ordered the construction of the Nine-Storied Pavilion and many lavish palaces, causing public resentment.
 *   **1516:** The major uprising of Tran Cao broke out in Dong Trieu (Quang Ninh). The rebels shaved their heads, earning them the name "three-tuft army," and at one point captured Thang Long.
+*   **1516 (5th lunar month, Binh Ty year):** Following the regicide of Emperor Le Tuong Duc by commander Trinh Duy San, the imperial clan and court ministers enthroned Prince Le Y (grandson of Emperor Le Thanh Tong) in Thang Long, adopting the era name Quang Thieu (Emperor Le Chieu Tong).
 *   **May 7, 1516:** Trinh Duy San staged a coup and killed King Le Tuong Duc.
 *   **1522:** Mac Dang Dung, a powerful military general, forced King Le Chieu Tong to flee Thang Long.
 *   **1526:** Mac Dang Dung sent someone to secretly assassinate King Le Chieu Tong.
@@ -718,6 +729,7 @@
 
 *   **1527:** Mac Dang Dung established Duong Kinh (Hai Duong) as the second capital, elevating the status of his hometown.
 *   **Jun. 15, 1527:** Mac Dang Dung forced King Le Cung Hoang to abdicate, usurping the throne and establishing the Mac dynasty. The Early Le dynasty collapsed.
+*   **Nov. 1527 (10th lunar month, Dinh Hoi year):** Following his usurpation of the throne, Mac Dang Dung forced deposed Emperor Le Cung Hoang and Dowager Empress Trinh Thi Loan to commit suicide by poison at Tay Mo ward, marking the definitive conclusion of the 99-year Early Le Dynasty.
 *   **1528:** Mac Dang Dung minted Minh Duc thong bao coins and reorganized the army.
 *   **1529:** Mac Dang Dung ceded the throne to his son Mac Dang Doanh and retired as Retired Emperor.
 *   **1529:** The Mac dynasty organized its first doctoral examination, passing 27 candidates, continuing the educational traditions of the preceding Le dynasty.
@@ -728,20 +740,25 @@
 *   **1535:** Nguyen Binh Khiem, a renowned scholar, poet, and prophet (known as Trang Trinh), passed the imperial examination as Trang Nguyen under the Mac dynasty.
 *   **1537:** The Ming dynasty, under the pretext of "punishing" the Mac, prepared troops at the border, putting pressure on the Mac court.
 *   **1538:** Giap Hai passed the imperial examination as Trang Nguyen under the Mac dynasty.
+*   **Jan. 1540 (Canh Ty year):** Emperor Mac Thai Tong (Mac Dang Doanh) passed away after a prosperous ten-year reign celebrated for public order and stability. His eldest son Mac Phuc Hai succeeded to the imperial dignity as Emperor Mac Hien Tong, taking the era name Quang Hoa.
 *   **Nov. 3, 1540:** Mac Dang Dung tied himself with rope, walked barefoot to the Nam Quan border gate, and surrendered to the Ming dynasty generals. The Ming accepted, but downgraded An Nam to a Command Commission and appointed the Mac as Command Commissioners. The Mac court had to cede four frontier regions to the Ming.
 *   **Aug. 27, 1541:** Mac Dang Dung passed away.
 *   **1543:** The Le-Trinh army returned from Ai Lao, recaptured Tay Do Citadel (Thanh Hoa), and officially established the Thanh-Nghe region as their base.
 *   **1545:** Nguyen Kim was poisoned to death by a surrendered Mac general. His son-in-law, Trinh Kiem, took over, seizing all military power, and conflicts between the Trinh and Nguyen clans began to arise.
 *   **1546:** Mac Phuc Hai passed away, Mac Phuc Nguyen succeeded him. The Mac court experienced internal conflict between the faction of Mac Kinh Dien (supporting Phuc Nguyen) and Pham Tu Nghi (supporting Mac Chinh Trung).
+*   **1548 (Mau Than year):** Emperor Le Trang Tong (Le Ninh), who inaugurated the Le Restoration, passed away at the temporary court of Van Lai (Thanh Hoa). Regent Trinh Kiem and high ministers elevated Crown Prince Le Huyen to the throne as Emperor Le Trung Tong, adopting the era name Thuan Binh.
 *   **1551:** The rebellion of Pham Tu Nghi and Mac Chinh Trung was suppressed.
 *   **1554:** The Restored Le dynasty held its first doctoral examination at the Yen Truong temporary palace (Thanh Hoa). This special examination was called a "Che khoa".
+*   **1556 (Binh Thin year):** Emperor Le Trung Tong (Le Huyen) passed away at age 22 without an heir. Commander Trinh Kiem and court dignitaries sought an imperial scion, selecting Le Duy Bang (a 5th-generation descendant of Lam Son founding hero Le Khoi) to ascend the throne as Emperor Le Anh Tong, taking the era name Chinh Tri.
 *   **1558:** Trinh Kiem appointed Nguyen Hoang (son of Nguyen Kim) as governor of Thuan Hoa to expand his power and guard against Mac forces from the sea. Nguyen Hoang began building a base for his separate domain in the South.
+*   **1562 (Nham Tuat year):** Emperor Mac Tuyen Tong (Mac Phuc Nguyen) succumbed to smallpox. His eldest son Mac Mau Hop was proclaimed emperor at only two years of age, with Prince Mac Kinh Dien acting as regent to oversee civil and military affairs.
 *   **Early 1564:** Mac Kinh Chi, eldest son of Mac Kinh Dien, was demoted to commoner status for committing adultery with his father's concubine.
 *   **March 7, 1568:** French navigators, departing from the port of La Rochelle along with Jesuit scholars, traveled to the Far East and visited the Paracel Islands (Hoang Sa).
 *   **1570:** Trinh Kiem passed away. His sons, Trinh Coi and Trinh Tung, fought for power. Trinh Coi lost and surrendered to the Mac. Trinh Tung took power and continued the anti-Mac campaign.
 *   **1570:** Nguyen Hoang was assigned to govern both Thuan Hoa and Quang Nam, and his power grew.
 *   **1570 - 1583:** A period of strong Mac counter-offensives. Mac Kinh Dien led multiple campaigns into Thanh Hoa and Nghe An, causing many difficulties for the Le-Trinh forces.
 *   **1572:** Dao Duy Tu, a renowned scholar and military strategist who would later serve the Nguyen Lords, was born in Hoa Trai, Ngoc Son (now Tinh Gia, Thanh Hoa).
+*   **Jan. 1573 (Nham Than year):** Deepening power friction with general Trinh Tung prompted Emperor Le Anh Tong to flee south to Nghe An. Trinh Tung installed the emperor's seven-year-old fifth son Le Duy Dam on the throne as Emperor Le The Tong (Gia Thai era), then sent troops to capture and compel Le Anh Tong to commit suicide.
 *   **1578:** Japanese pirates (Wako) raided the coast of Dang Trong, plundering merchant ships.
 *   **February 21, 1578:** Mac Mau Hop was struck by lightning in the palace and paralyzed on one side, which took a long time to heal. This event further demoralized the Mac court officials during a period of decline.
 *   **Nov. 1580:** The Mac dynasty's key pillar, Mac Kinh Dien, passed away.
@@ -750,16 +767,20 @@
 *   **1585:** The renowned scholar and prophet Nguyen Binh Khiem passed away.
 *   **Jan. 1592:** Trinh Tung entered and liberated Thang Long. Mac Mau Hop abandoned the capital and fled.
 *   **Early 1592:** Trinh Tung led a large army north, defeating the main force of the Mac army in a decisive battle.
+*   **Nov. 1592 (Nham Thin year):** Facing relentless advances by the southern Le-Trinh armies towards Thang Long, Emperor Mac Mau Hop abdicated in favor of his son Mac Toan (era name Vu An) and personally took to the field to lead defensive forces, sustaining a decisive defeat.
 *   **Dec. 1592:** Trinh Tung captured Mac Mau Hop. Mau Hop was hung alive for three days and then beheaded at Bo De sandbank. The Mac dynasty in Thang Long officially collapsed.
 
 ### **Period of Division: Dang Trong - Dang Ngoai (1593 - 1771)**
 
 *   **1593:** According to Catholic church records, there were 12 fully Catholic villages established in Nghe An, indicating the early and rapid spread of Christianity in Vietnam.
+*   **Jan. 1593 (Quy Ty year):** Trinh forces commanded by Trinh Tung annihilated remnants of the northern Mac forces, capturing Mac Toan at Thao Tan pier on the Red River and executing him, bringing a decisive end to the Mac Dynasty's rule in the Thang Long capital.
 *   **Early 1593:** Descendants of the Mac (Mac Kinh Chi) continued to rise up in Hai Duong but were quickly suppressed. The remnants of the Mac dynasty retreated to Cao Bang and continued to hold out. The North-South Dynasties War essentially ended.
+*   **Mar. 1593 (Quy Ty year):** Prince Mac Kinh Cung was acclaimed emperor by surviving Mac loyalists at Van Ban, adopting the era name Kien Thong. He subsequently withdrew his remaining forces to fortify Cao Bang's rugged mountains, sustaining an autonomous bastion against the Le-Trinh court.
 *   **Apr. 16, 1593:** The Le king returned to Thang Long. The Le dynasty was restored.
 *   **1595:** Following the recapture of the capital, the metropolitan examinations (thi Hoi) of the Restored Le dynasty resumed in Thang Long, and the palace examinations (thi Dinh) were reinstated as customary.
 *   **1597:** Envoy Phùng Khắc Khoan led a diplomatic mission to the Ming Dynasty, engaging in acclaimed poetic exchanges with foreign envoys and introducing maize (corn), sesame, and advanced silk weaving techniques back to Đại Việt.
 *   **Apr. 1597:** King Le The Tong personally traveled to the Nam Quan border gate to meet with Ming dynasty officials for diplomatic negotiations, asserting the legitimacy of the Le dynasty.
+*   **1599 (Ky Hoi year):** Emperor Le The Tong passed away at age 33 after a 26-year reign and was interred at Hoa Nhac Mausoleum (Thanh Hoa). General Trinh Tung and the imperial council placed his eleven-year-old second son Le Duy Tan on the throne as Emperor Le Kinh Tong, taking the era name Than Duc (later Hoang Dinh).
 *   **Apr. 1599:** The Le king conferred upon Trinh Tung the title of Do Nguyen Suy, Thuong phu Binh An Vuong (Supreme Commander-in-Chief, Grand Preceptor, and Prince of Pacification), officially forming the Le King - Trinh Lord institution in Dang Ngoai (the North).
 *   **1600:** Nguyen Hoang returned to Thuan Quang from the North and began implementing new administrative policies, gradually breaking away from the control of the Trinh lords.
 *   **1601:** Shogun Tokugawa Ieyasu sent an official letter to Lord Nguyen Hoang to establish trade relations and control Japanese merchants (Red Seal ships).
@@ -773,13 +794,16 @@
 *   **1618:** Jesuit priest Cristoforo Borri arrived in Dang Trong. He quickly learned the language and later published a book containing early romanized Vietnamese words.
 *   **1619:** Lord Nguyen Phuc Nguyen married his daughter to the Japanese merchant Araki Sotaro, strengthening ties with Japanese merchants.
 *   **1619 - 1620:** Lord Trinh Tung attempted military intervention in Thuan Quang but failed. Lord Nguyen Phuc Nguyen decisively halted all tribute payments to the Trinh court, marking formal separation and initiating the Trinh - Nguyen confrontation.
+*   **May 1619 (Ky Mui year):** Frustrated by the overshadowing power of the Trinh lords, Emperor Le Kinh Tong conspired with Trinh Xuan (a son of Trinh Tung) to stage a coup. When the plot was exposed, Lord Trinh Tung forced the emperor to commit suicide by hanging, then elevated his twelve-year-old eldest son Le Duy Ky to the throne as Emperor Le Than Tong (Vinh To era).
 *   **1620:** Princess Nguyen Phuc Ngoc Van was married to the Cambodian King Chey Chetta II. This strategic marriage paved the way for Vietnamese influence and migration into the Mekong Delta.
 *   **1620:** Jesuit missionaries in Hoi An compiled a catechism in the local script (Chữ Nôm). This is believed to be one of the earliest texts potentially using a Latinized alphabet for the Vietnamese language, likely spearheaded by Francisco de Pina.
+*   **1621 (Tan Dau year):** Mac Kinh Khoan (nephew of Mac Kinh Cung) proclaimed himself king under the era name Long Thai, founding a stronghold in Dai Tu (Thai Nguyen) before joining the regency in Cao Bang to bolster Mac authority in the northern borderlands.
 *   **Nov. 20, 1621:** Father João Roiz wrote an annual report containing early transcriptions of Vietnamese words using Latin letters, marking the initial stages of Chữ Quốc ngữ.
 *   **1622:** Lord Nguyen Phuc Nguyen established the **Dinh Ai Lao** (Ai Lao Bureau) on the Hieu River to manage trade relations with Laos.
 *   **1623:** Lord Trinh Tung passed away. His son, Trinh Trang, succeeded him as Lord (Thanh Do Vuong).
 *   **1623:** Lord Nguyen Phuc Nguyen sent an envoy to King Chey Chetta II of Cambodia, requesting to establish a tax collection station at **Mo Xoai** (Ba Ria) and allowing Vietnamese settlers to cultivate land in the area.
 *   **Dec. 1624:** Jesuit priest Alexandre de Rhodes arrived in Cua Han (Da Nang) and traveled to Thanh Chiem (Quang Nam) to learn the Vietnamese language under the instruction of Francisco de Pina.
+*   **1625 (At Suu year):** Lord Trinh Trang led a major offensive against Cao Bang, crushing the principal Mac armies, capturing Mac Kinh Cung, and having him executed in Thang Long. Mac Kinh Khoan surrendered and submitted tribute to the court, receiving the title of Duke of Thong Quoc to administer Cao Bang under imperial suzerainty.
 *   **Dec. 15, 1625:** Father Francisco de Pina, the pioneer of Chữ Quốc ngữ, drowned off the coast of Quang Nam.
 *   **1626:** The Jesuit missionary Juliano Baldinotti arrived in Tonkin (Dang Ngoai), marking one of the earliest official Western accounts of the region.
 *   **Jul. 12, 1626:** Father Francesco Buzomi wrote a letter showing noticeable progress in the romanization of Vietnamese, beginning to separate words and use tone marks.
@@ -798,14 +822,17 @@
 *   **1635:** Lord Nguyen Phuc Nguyen passed away. His second son, Nguyen Phuc Lan, succeeded him.
 *   **1636:** Alexandre de Rhodes drafted "Tunchinensis Historiae libri duo", which included numerous romanized Vietnamese words, reflecting his evolving linguistic proficiency.
 *   **1637 - 1639:** Envoy Giang Văn Minh led a diplomatic mission to Beijing; before the Ming imperial court, he valiantly delivered a sharp poetic rebuttal ("The Bạch Đằng River has run red with blood since ancient times") to defend national dignity and sovereignty.
+*   **1638 (Mau Dan year):** Mac Kinh Khoan passed away in Cao Bang. His son Mac Kinh Vu succeeded him, assuming the era name Thuan Duc and maintaining an independent frontier redoubt until the final defeat of the Mac by Le-Trinh armies in 1677.
 *   **1640:** Nguyen forces led by Nguyen Huu Dat captured the district of Bac Bo Chinh. When Lord Trinh Trang sent a letter demanding its return, Lord Nguyen Phuc Lan conceded to temporarily ease border tensions.
 *   **1642:** The military strength of Dang Trong increased significantly, possessing about 200 cannons, which rose to 1,200 by 1650 thanks to trade with the West.
 *   **1643:** In the third campaign, the Trinh army besieged the Trung Hoa wall but could not capture it and had to withdraw.
+*   **1643 (Quy Mui year):** Emperor Le Than Tong voluntarily passed the imperial throne to his eldest son, Crown Prince Le Duy Huu (Emperor Le Chan Tong, era name Phuc Thai), retiring to Van Tho Palace as Retired Emperor to assist the young monarch.
 *   **Jul. 7, 1643:** Battle of Eo Port (Thuan An). The Nguyen navy, personally commanded by Lord Nguyen Phuc Lan and Crown Prince Nguyen Phuc Tan, engaged a Dutch East India Company (VOC) fleet led by Pieter Baeck. Fifty small Nguyen galleys surrounded and destroyed three large Dutch warships (the *Wijdenes* exploded). This marked the first time the Vietnamese navy defeated a European naval force.
 *   **Jul. 26, 1644:** Andrew of Phu Yen (An Re Phu Yen), a young catechist, was martyred at Ke Cham (Thanh Chiem), becoming the first Christian martyr in Cochinchina. Alexandre de Rhodes recorded this event in a report on August 1, 1644, using fairly developed Chữ Quốc ngữ sentences.
 *   **1645:** A conference of 45 Jesuit priests in Macao debated and formally confirmed a baptismal formula in the Vietnamese language ("Tau rữa mài nhân danh Cha, uà con, uà spirito santo"). This highlighted the practical application of the romanized script in religious rites.
 *   **1648:** Lord Nguyen Phuc Lan passed away. His son, Nguyen Phuc Tan (Lord Hien), succeeded him.
 *   **Feb. 1648:** In the fourth campaign, Lord Trinh Trang sent Le Van Hieu to attack. The Nguyen army, under the command of Truong Phuc Phan and Crown Prince Nguyen Phuc Tan, won a great victory at Truong Duc, capturing 3 generals and 3,000 Trinh troops alive.
+*   **Aug. 1649 (Ky Suu year):** Emperor Le Chan Tong died suddenly at age 20 without an heir. Lord Trinh Trang reinstated Retired Emperor Le Than Tong to the throne for a second reign under the era name Khanh Duc, making him the only sovereign in Vietnamese history to rule twice across discontinuous reigns.
 *   **1650:** The Le-Trinh court in Dang Ngoai promulgated specific regulations managing foreign merchants (Dutch, English, Japanese), designating residence areas in Thanh Tri and Khuyen Luong, and regulating their movement.
 *   **1651:** Alexandre de Rhodes published the first two books in Chữ Quốc ngữ: the "Dictionarium annamiticum, lusitanum, et latinum" (Vietnamese-Portuguese-Latin Dictionary) and the "Cathechismus" (Catechism divided into eight days) in Rome. This was a monumental milestone that formalized and standardized the Vietnamese romanized script.
 *   **1653:** Lord Nguyen Phuc Tan (Lord Hien) defeated the Champa king Ba Tam, acquiring territory extending from the Phan Rang River to Phu Yen and establishing Thai Khang Garrison (modern-day Khanh Hoa).
@@ -820,14 +847,17 @@
 *   **Sep. 12, 1659:** Catechist Igesico Van Tin wrote a letter in Chữ Quốc ngữ to Father Marini. This is one of the earliest surviving documents written entirely in the romanized script by a Vietnamese person.
 *   **Oct. 25, 1659:** Catechist Bento Thien wrote a detailed letter in Chữ Quốc ngữ to Father Marini, further demonstrating the advanced use of the script among Vietnamese Catholics.
 *   **1661 - 1662:** The sixth campaign. The Trinh army attacked but was unsuccessful and had to retreat.
+*   **Sep. 1662 (Nham Dan year):** Emperor Le Than Tong passed away in Thang Long at the age of 56. His nine-year-old son Le Duy Vu ascended the throne as Emperor Le Huyen Tong, taking the era name Canh Tri and opening a period of peacetime following a lull in the Trinh-Nguyen War.
 *   **1663:** King Le Huyen Tong issued 47 educational articles, including a warning against demanding excessive "cheo" (marriage tax) for women marrying outside their village. This tax served as an economic means to maintain the stability and autonomy of the Vietnamese village.
 *   **1663:** The Le-Trinh court issued a ban on Christianity ("Hoa Lang" religion) and ordered a strict census of all foreigners residing in the country to separate them from the local population.
 *   **1663:** The Nam Giao Hall was constructed for the first time to perform Heaven worship ceremonies (previously performed on an open altar).
 *   **1664:** The Paris Foreign Missions Society (Missions Étrangères de Paris, MEP) was established, paving the way for deeper French religious and eventual political involvement in Vietnam.
 *   **1667:** João da Cruz, a Portuguese cannon founder in the service of Lord Nguyen Phuc Tan, successfully cast Western-style cannons at the Phuong Duc foundry (Hue), significantly boosting Dang Trong's military capabilities.
+*   **Oct. 1671 (Tan Hoi year):** Emperor Le Huyen Tong passed away at age 18 after a nine-year reign. Lord Trinh Tac and the imperial court enthroned the deceased emperor's twelve-year-old half-brother Le Duy Coi as Emperor Le Gia Tong, taking the era name Duong Duc.
 *   **Jun. 1672:** The seventh and final Trinh-Nguyen campaign. The Trinh army, commanded by Trinh Can and Le Thi Hien, launched a massive attack on the Nhat Le wall. Nguyen forces, led by Nguyen Huu Hiep, Nguyen Huu Dat, and Nguyen My Duc, successfully defended the fortifications. The Trinh army failed to breach the wall and had to retreat to Bac Bo Chinh.
 *   **Late 1672:** The two sides agreed to a truce, taking the Gianh River as the demarcation line, officially dividing the country into Dang Trong and Dang Ngoai for over a century.
 *   **1675:** Grand Chancellor Phạm Công Trứ and imperial historiographers completed compiling the 23-volume *Đại Việt Sử Ký Bản Kỷ Tục Biên*, continuing Ngô Sĩ Liên's official history and chronicling events from 1593 to 1662.
+*   **Apr. 1675 (At Mao year):** Emperor Le Gia Tong passed away at age 15. Lord Trinh Tac installed the monarch's younger brother Le Duy Hop as Emperor Le Hy Tong, adopting the era name Vinh Tri (later Chinh Hoa), inaugurating the famous 'Chinh Hoa Era of Prosperity' renowned for legal discipline and domestic stability.
 *   **Spring 1676:** The historical work *Lam Son thuc luc* was revised and reprinted under the order of the Le court (Vinh Tri era).
 *   **Feb. - Aug. 1677:** The Cao Bang Campaign. The Le-Trinh army, commanded by Dinh Van Ta and Nguyen Huu Dang, launched a major offensive against the Mac dynasty remnants led by Mac Kinh Vu. The Trinh army captured the Muc Ma, Na Lu, and Phuc Hoa citadels. Mac Kinh Vu fled to China, completely ending the Mac dynasty and reunifying Cao Bang into Dai Viet.
 *   **1679:** Loyal Ming remnants Yang Yandi (Duong Ngan Dich) and Chen Shangchuan (Tran Thuong Xuyen) arrived with over 3,000 followers and 50 warships seeking refuge; Lord Nguyen Phuc Tan granted them permission to settle and cultivate the Dong Pho region (My Tho and Bien Hoa).
@@ -846,6 +876,7 @@
 *   **1702:** Under Lord Minh Nguyen Phuc Chu, the Hoang Sa flotilla, during its mission to the Paracel Islands, salvaged 30 silver ingots from foreign shipwrecks and submitted them to the Lord's court, as documented in Le Quy Don's *Phu bien tap luc*.
 *   **1704:** The Hoang Sa team collected 5,100 units of tin from the Paracel Islands.
 *   **1705:** The Hoang Sa team collected 126 silver ingots.
+*   **1705 (At Dau year):** Emperor Le Hy Tong abdicated the throne in favor of Crown Prince Le Duy Duong (Emperor Le Du Tong, Vinh Thinh era) after 30 years of successful rule, retiring to Co Do Palace as Retired Emperor until his death in 1716.
 *   **1708:** Mac Cuu offered the entire Mang Kham (Ha Tien) region, which he had developed, to Lord Nguyen Phuc Chu, seeking incorporation into Dang Trong.
 *   **Aug. 1708:** Lord Nguyen Phuc Chu appointed Mac Cuu as **Tong Binh** (General) of Ha Tien, officially incorporating this land into Dai Viet's territory.
 *   **1709:** Lord Trinh Can passed away. His great-grandson, Trinh Cuong, succeeded him as Lord (An Do Vuong).
@@ -861,12 +892,16 @@
 *   **1725:** Lord Nguyen Phuc Chu passed away. His son, Nguyen Phuc Chu (Lord Ninh), succeeded him.
 *   **1726:** Addressing corruption in the examination system, Lord Trinh Cuong ordered a re-examination and failed 28 unqualified candidates from powerful families, severely punishing them to maintain the integrity of the civil service.
 *   **1729:** Lord Trinh Cuong passed away. His son, Trinh Giang, succeeded him as Lord (Uy Nam Vuong).
+*   **Apr. 1729 (Ky Dau year):** Lord Trinh Giang forced Emperor Le Du Tong to abdicate in favor of his younger son Le Duy Phuong (Vinh Khanh era). The retired emperor moved to Quynh Do Palace and passed away in January 1731 (his remarkably intact mummified body was later discovered in Thanh Hoa in 1958).
+*   **Aug. 1732 (Nham Ty year):** Lord Trinh Giang fabricated charges to depose Emperor Le Duy Phuong, degrading him to Hon Duc Cong and imprisoning him outside the capital (later murdering him in 1735). Trinh Giang elevated Le Du Tong's eldest son Le Duy Tuong to the throne as Emperor Le Thuan Tong (Long Duc era).
+*   **Apr. 1735 (At Mao year):** Emperor Le Thuan Tong passed away at age 37 after reigning for three years. Lord Trinh Giang placed the deceased monarch's younger brother Le Duy Than on the throne as Emperor Le Y Tong, adopting the era name Vinh Huu.
 *   **1736:** Mac Thien Tich established the **Chieu Anh Cac** (Pavilion of Unadorned Beauty), a famous literary society in Ha Tien, promoting culture and literature in the newly developed southern lands.
 *   **1738 - 1770:** The uprising of Le Duy Mat (a Le royal relative) broke out, lasting over 30 years in the Thanh Hoa and Nghe An regions.
 *   **1738:** Lord Nguyen Phuc Chu (Lord Ninh) passed away. His son, Nguyen Phuc Khoat, succeeded him.
 *   **1739:** Mac Thien Tich established four new districts: Long Xuyen (Ca Mau), Kien Giang (Rach Gia), Tran Giang (Can Tho), and Tran Di (Bac Lieu), consolidating administrative control over the Mekong Delta.
 *   **1739:** Major peasant uprisings erupted in Dang Ngoai, notably the uprisings of Nguyen Tuyen and Nguyen Cu in Hai Duong, and Hoang Cong Chat in Son Nam.
 *   **1740:** In Dang Ngoai, the abusive Lord Trinh Giang was deposed. His younger brother, Trinh Doanh, succeeded him as Lord (Minh Do Vuong).
+*   **1740 (Canh Than year):** After Lord Trinh Doanh assumed power replacing Trinh Giang, Emperor Le Y Tong voluntarily relinquished the crown to his nephew Le Duy Dieu (Emperor Le Hien Tong, Canh Hung era), living peacefully as Retired Emperor for 19 years until his death in 1759.
 *   **1741 - 1751:** A large-scale peasant uprising led by Nguyen Huu Cau (known as Quan He) broke out, basing in Do Son under the banner of "taking from the rich to give to the poor", operating fiercely across Kinh Bac, Hai Duong, Son Nam, and Thanh Nghe, defeating multiple Trinh lord armies before being suppressed in 1751.
 *   **Aug. 1743 (7th lunar month, Year of the Pig):** Renowned scholar and poet Nguyen Huy Tu (courtesy name Huu Chi, art name Uan Trai) was born in Truong Luu village, La Son district, Nghe An (present-day Can Loc, Ha Tinh). He was the eldest son of Senior Scholar (Tham hoa) Nguyen Huy Oanh and the author of the masterpiece Nom narrative poem *Truyen Hoa Tien* (*Story of the Flowery Paper*), which pioneered the scholastic Nom verse novel genre in Vietnamese literature.
 *   **1744:** In Dang Trong, Nguyen Phuc Khoat proclaimed himself King (Vuong), reforming the government according to the statutes of an independent monarchy.
@@ -1011,7 +1046,7 @@
 *   **Jun. 16, 1802:** In the retreat to the North, General Nguyen Van Tuyet (Do Doc Tuyet) died in battle at Xuong Giang protecting King Canh Thinh. Empress Dowager Bui Thi Nhan, along with female generals Tran Thi Lan and Nguyen Thi Dung, committed suicide to avoid capture.
 *   **Jul. 20, 1802:** Nguyen Anh entered Thang Long citadel, completing the unification of the country and officially ending the Tay Son dynasty. Before the capture, the advancing Nguyen forces had already imposed heavy contributions on the northern population. King Canh Thinh and prominent generals were captured. Gia Long also ordered the exhumation of the graves of Nguyen Nhac and Nguyen Hue, pounding their bones into powder and imprisoning their skulls in a dungeon. This marked the beginning of the Nguyen Dynasty's rule over a unified Vietnam stretching from the North to the South.
 *   **Aug. 1802:** Emperor Gia Long ordered the compilation and promulgation of the first 15 laws regarding litigation.
-*   **Nov. 20, 1802 (Nov. 6, Lunar Year of the Dog):** Captured Tay Son generals were executed in Phu Xuan. **Tran Quang Dieu** was skinned alive, while female general **Bui Thi Xuan** and her 15-year-old daughter were trampled by elephants (or burned in some accounts). Bui Thi Xuan famously declared before her death: "If there were another female general like me, the Nhat Le gate wouldn't be cold."
+*   **Nov. 20, 1802 (Nov. 6, Lunar Year of the Dog):** Emperor Gia Long held a formal victory ritual at the Ancestral Temple in Phu Xuan, executing Emperor Canh Thinh (Nguyen Quang Toan), members of the Tay Son royal family, and prominent commanders. Renowned general **Tran Quang Dieu** was executed, while female commander **Bui Thi Xuan** and her daughter were trampled by war elephants, definitively ending the 24-year reign of the Tay Son Dynasty.
 *   **1803:** Emperor Gia Long ordered the reconstruction of the **Thang Long Citadel** (Hanoi Citadel). He set the salary regulations for officials and soldiers in the Northern Citadel. The court established Trang Tien in Thang Long to mint "Gia Long Thong Bao" coins.
 *   **1803 - 1808:** General Le Van Duyet was dispatched to suppress the uprising of the "Thach Bich savages" (ethnic minorities) in the Quang Ngai region, stabilizing the border areas.
 *   **Jan. 1803:** Emperor Gia Long ordered the casting of the **Nine Holy Cannons** (Cửu Vị Thần Công) from captured bronze weapons, completed in December 1804, symbolizing the power and longevity of the dynasty.
@@ -1258,12 +1293,13 @@
 *   **Feb. 27 - 28, 1883:** Battle of Gia Quat - Gia Lam. While Henri Rivière was absent, Vietnamese royal forces and the Black Flag Army encircled Hanoi. French Major Berthe de Villers led a successful counter-attack, repelling the Vietnamese forces.
 *   **Mar. 27, 1883:** Battle of Nam Dinh. Henri Rivière led a naval and infantry assault against the Nam Dinh Citadel. Defended by 6,200 Vietnamese troops and 600 Black Flag soldiers, the citadel fell to the heavily armed French forces, securing French communications to the sea.
 *   **May 19, 1883:** Second Battle of Cau Giay. A combined force of the Black Flag Army and Vietnamese royal troops ambushed a French military column attempting to break out of Hanoi. French commanders Henri Rivière and Berthe de Villers were killed in the fierce engagement. This defeat shocked the French government, prompting massive reinforcements. Emperor Tu Duc, hoping for negotiations, issued an edict stating: "Those who discuss peace are meritorious, those who discuss war are guilty," preventing further attacks.
-*   **Jul. 1883:** Duc Duc was enthroned but was deposed and imprisoned by regents Nguyen Van Tuong and Ton That Thuyet after only 3 days. Hiep Hoa was enthroned as the new Emperor.
 *   **Jul. 17, 1883:** Emperor Tu Duc passed away, and the Hue court fell into turmoil and disarray.
+*   **Jul. 19 - 23, 1883 (Quy Mui year):** Following Emperor Tu Duc's death, his adopted son Ung Chan ascended the throne as Emperor Duc Duc. However, only three days later, powerful regents Nguyen Van Tuong and Ton That Thuyet accused him of altering the imperial will and deposed him; he was subsequently starved to death in prison in October 1884.
+*   **Jul. 30, 1883 (Quy Mui year):** Following Duc Duc's deposition, Prince Nguyen Phuc Hong Dat (29th son of Emperor Thieu Tri) was enthroned as Emperor Hiep Hoa. Under severe French military coercion after the fall of Thuan An coastal forts, the court was compelled to sign the Treaty of Hue (Harmand Treaty), accepting French protectorate status.
 *   **Aug. 15 - 16, 1883:** Battle of Phu Hoai. French General Alexandre-Eugène Bouët launched a major offensive against the Black Flag Army's fortified defense line west of Hanoi. Heavy flooding from a broken Red River dike abruptly ended the battle, causing significant losses in war materiel for the Black Flag Army as they retreated.
 *   **Aug. 18 - 20, 1883:** Battle of Thuan An. A French naval fleet commanded by Admiral Amédée Courbet heavily bombarded and captured the strategic coastal forts at the Thuan An estuary, directly threatening the imperial capital of Hue. The overwhelmed Vietnamese defenders suffered immense casualties, forcing the Hue court to sue for peace.
 *   **Aug. 25, 1883:** The Hue court signed the Treaty of Quy Mui (Harmand Treaty), officially recognizing the French protectorate over all of Vietnam.
-*   **Nov. 29, 1883:** Emperor Hiep Hoa was forced to commit suicide by the regents. Kien Phuc was enthroned.
+*   **Nov. 29, 1883 (Quy Mui year):** After a four-month reign, Emperor Hiep Hoa's clandestine overtures to French authorities to curb the regents' dominance were uncovered. Regential leaders Nguyen Van Tuong and Ton That Thuyet deposed him and forced him to drink poison at the Duc Duc pavilion. Fourteen-year-old Prince Ung Dang was enthroned as Emperor Kien Phuc.
 *   **Nov. 30, 1883:** Regents Nguyen Van Tuong and Ton That Thuyet ordered the execution of Regent Tran Tien Thanh due to disagreements over the royal succession and foreign policy.
 *   **Dec. 11 - 16, 1883:** Battle of Son Tay. French Admiral Amédée Courbet led a massive expeditionary force of 9,000 troops to attack the heavily fortified Son Tay Citadel, defended by the Black Flag Army alongside Vietnamese and Qing forces. After several days of bloody fighting, the French breached the western gate, forcing Luu Vinh Phuc to retreat. The capture of Son Tay was a devastating blow to the anti-French resistance.
 *   **1884 - 1945:** France continued to administer the Spratly and Paracel Islands as territories of French Indochina.
@@ -1303,6 +1339,7 @@
 *   **1889:** Nguyen Thien Thuat went to China, and the Bai Say Uprising weakened.
 *   **Jan. 13, 1889:** King Ham Nghi arrived in Algiers (Algeria), beginning his long exile where he later became known as a painter and married a French woman.
 *   **Jan. 28, 1889:** Emperor Dong Khanh passed away.
+*   **Jan. 31, 1889 (Jan. 1, Lunar Year of the Ox):** Following Emperor Dong Khanh's sudden passing, the Hue imperial court and the French Resident Superior enthroned 10-year-old Prince Buu Lan (son of Emperor Duc Duc) at Thai Hoa Palace as Emperor Thanh Thai.
 *   **1890 - 1898:** Direct taxes doubled between 1890 and 1896, then increased by another 50% from 1896 to 1898.
 *   **May 19, 1890:** President Ho Chi Minh (birth name Nguyen Sinh Cung, courtesy name Tat Thanh) was born in Hoang Tru village, Kim Lien commune, Nam Dan district, Nghe An province. He would later become the great leader of the Vietnamese nation, Hero of National Liberation, and Great Man of Culture.
 *   **1891:** Hai Phong was considered the first city to have electric lights, even before Hanoi.
@@ -1355,6 +1392,7 @@
 *   **Mar. 1907:** Patriotic scholars Luong Van Can, Nguyen Quyen, and Nguyen Huu Cau (Gian Thach) co-founded Dong Kinh Nghia Thuc (Tonkin Free School) at 4 Hang Dao (Hanoi), offering Quoc Ngu classes for both men and women to spread reformist ideas and modernize education.
 *   **Apr. 7, 1907:** Le Duan was born in Trieu Phong, Quang Tri. He later became the General Secretary of the Communist Party of Vietnam, a prominent leader of the Party and the Vietnamese revolution.
 *   **May 1907:** Dong Kinh Nghia Thuc was officially granted a license, expanding its activities in teaching, public speaking, and promoting industry and commerce.
+*   **Sep. 3, 1907 (Dinh Mui year):** French colonial authorities forced Emperor Thanh Thai to abdicate on fabricated pretexts of mental illness due to his defiance of colonial dictate and sympathy for nationalist movements, interning him at Cap Saint-Jacques (Vung Tau). On September 5, 1907, his seven-year-old son Prince Vinh San was enthroned as Emperor Duy Tan.
 *   **Nov. 10, 1907:** The University of Indochina opened its first academic year.
 *   **1908:** The poem *Thiet tien ca* (Iron Money Song) by Nguyen Phan Lang was circulated, calling for a boycott of French iron coins, causing significant economic disruption for the colonial administration.
 *   **1908:** The colonial administration brutally suppressed the Duy Tan movement. Dr. **Tran Qui Cap** was executed in Khanh Hoa; **Le Khiet** and **Nguyen Ba Loan** were executed in Quang Ngai. **Phan Chau Trinh** was arrested, sentenced to death, but later commuted to exile in Con Dao.
@@ -1402,6 +1440,7 @@
 *   **1916:** Poet Tản Đà (Nguyễn Khắc Hiếu) published the poetry volume *Khối tình con I* (Little Love Block I) and *Giấc mộng con I*, creating a major literary phenomenon in the early 20th century that bridged classical literature and modern Vietnamese poetry.
 *   **Feb. 15, 1916:** Secret societies in Cochinchina organized a major riot in Saigon, attempting to break into the Central Prison to rescue Phan Xich Long, but it failed.
 *   **May 3, 1916:** The uprising led by King Duy Tan along with Thai Phien and Tran Cao Van was discovered and failed. King Duy Tan was arrested and exiled to Réunion Island.
+*   **May 18, 1916 (Binh Thin year):** Following the abortive anti-colonial uprising led by Emperor Duy Tan and the Quang Phuc Hoi, French authorities deposed and exiled the young king, installing Prince Buu Dao (eldest son of Emperor Dong Khanh) on the imperial throne as Emperor Khai Dinh.
 *   **Aug. 1916:** Emperor Khai Dinh issued a ban on commoners wearing yellow clothing and colors resembling yellow to maintain distinction from royalty.
 *   **Aug. 30, 1917:** The Thai Nguyen Uprising broke out, led by Trinh Van Can (Doi Can) and Luong Ngoc Quyen. The rebels controlled the provincial capital for six days.
 *   **Sep. 5, 1917:** French forces counter-attacked and recaptured the provincial capital of Thai Nguyen.
@@ -1483,9 +1522,11 @@
 *   **Jun. 21, 1925:** The weekly newspaper *Thanh nien* (Youth), the organ of the Vietnamese Revolutionary Youth League, published its first issue.
 *   **Jun. 30, 1925:** Phan Boi Chau was kidnapped by French colonialists in Shanghai.
 *   **Aug. 1925:** A strike by over 1,000 workers at the Ba Son shipyard (Saigon), led by Ton Duc Thang, delayed the repair of the French battleship Jules Michelet.
+*   **Nov. 6, 1925 (20th day of the 9th lunar month, At Suu year):** Emperor Khai Dinh passed away from tuberculosis at Kien Trung Palace inside the Hue Imperial Citadel at age 40 after a nine-year reign, and was entombed in the Ung Lang mausoleum.
 *   **Nov. 23, 1925:** The French colonialists put Phan Boi Chau on trial in Hanoi, sparking a large mass movement demanding his release.
 *   **Dec. 24, 1925:** Governor-General Varenne signed an order "pardoning" and placing Phan Boi Chau under house arrest in Hue.
 *   **1926:** Huynh Thuc Khang was elected as a representative and subsequently chosen as President of the People's Representative Assembly of Annam (Chambre des Représentants du Peuple de l'Annam), utilizing the platform to vigorously defend citizens' rights and demand fundamental democratic freedoms.
+*   **Jan. 8, 1926 (25th day of the 11th lunar month, At Suu year):** Twelve-year-old Crown Prince Vinh Thuy was officially crowned at Thai Hoa Palace as Emperor Bao Dai, becoming the 13th and final monarch of the Nguyen Dynasty and of imperial Vietnam.
 *   **Mar. 21, 1926:** The Jeune Annam (Youth Party) was established.
 *   **Mar. 24, 1926:** Phan Chau Trinh passed away in Saigon.
 *   **Mar. 24, 1926:** Patriotic journalist and activist Nguyen An Ninh was arrested by French colonial authorities in Saigon, triggering a wave of student strikes, rallies, and demonstrations across Southern Vietnam demanding his release.
@@ -1661,6 +1702,7 @@
 *   **Dec. 1, 1943:** The Cairo Declaration was issued by the US, UK, and China, affirming the intention to force Japan to return territories stolen from the Republic of China (Manchuria, Taiwan, Penghu). Notably, the Paracel and Spratly Islands were not mentioned in this declaration for return to China.
 *   **1944:** At the age of 13, after her father's death, Nguyen Thi Ut (Ut Tich), with the support of Viet Minh cadres, redeemed herself from a local landlord, escaping her life as a servant.
 *   **1944:** Huynh Tan Phat became the director of the *Thanh Nien* (Youth) weekly magazine, using it to spread patriotism among the youth.
+*   **Jan. 14, 1944 (Quy Mui year):** Former Emperor Ham Nghi (Nguyen Phuc Ung Lich) – the iconic rallying figure of the patriotic Can Vuong resistance movement – passed away from stomach cancer at Villa Gia Long in El Biar (Algiers, Algeria) after 55 years of dignified anti-colonial exile, aged 72.
 *   **Early 1944:** The Dai Viet National Alliance (Dai Viet Quoc Gia Lien Minh) was formed, comprised of various nationalist parties such as the Dai Viet National Socialist Party, Dai Viet Nationalist Party, and Dai Viet Democratic Party.
 *   **Jun. 30, 1944:** The Vietnam Democratic Party was founded, gathering intellectuals and national bourgeoisie to join the Viet Minh Front.
 *   **Oct. 1944 - May 1945:** The 1944–1945 Ất Dậu Famine struck Northern and North-Central Vietnam due to harsh grain requisitions by French colonialists and Japanese forces alongside severe weather, resulting in approximately 2 million deaths.
@@ -1726,6 +1768,7 @@
 *   **Oct. 25, 1945:** The Party Committee of the South held a cadres' conference in Thien Ho (My Tho), setting out the direction for a long-term resistance.
 *   **Nov. 11, 1945:** The Indochinese Communist Party announced its "self-dissolution," in reality going underground.
 *   **Nov. 25, 1945:** The Party Central Standing Committee issued the directive "Resistance and National Construction" (Khang chien kien quoc), identifying the main enemy and urgent tasks.
+*   **Dec. 26, 1945 (At Dau year):** Former Emperor Duy Tan (Nguyen Phuc Vinh San), the patriotic monarch who had fought with the Free French resistance against the Axis powers in World War II achieving the rank of major, died in an airplane crash at Bangui (Central African Republic) at age 45.
 *   **1946:** Following the return of French colonialists to invade Vietnam, Cù Chính Lan became part of the first generation of youth in his commune to volunteer for the army. He quickly distinguished himself in training and combat, earning the admiration of his comrades.
 *   **1946:** Huynh Tan Phat was arrested by the French and sentenced to two years in the Kham Lon prison (Saigon), where he played a key role in establishing a prisoners' union.
 *   **1946:** Tran Thi Man (later Hero of the People's Armed Forces and Heroic Vietnamese Mother Tran Thi Quang Man) disguised herself as a man under the name Tran Quang Man to join the Viet Quoc Doan (National Guard) forces in Vinh Thuan (Kien Giang), fighting against French colonial forces.
@@ -2002,6 +2045,7 @@
 *   **Mar. 13 - 17, 1954:** In the first phase of the Dien Bien Phu Campaign, the Vietnamese forces opened fire at 5:05 PM on March 13. They rapidly annihilated the Him Lam (Mar. 13) and Doc Lap (Mar. 15) strongpoints, forcing the French artillery commander Piroth to commit suicide. Ban Keo surrendered on March 17, breaking the enemy's northern defense system. During this phase, on March 14, the first French aircraft was shot down by Vietnamese anti-aircraft fire.
 *   **Mar. 13, 1954:** In the opening battle of the Dien Bien Phu Campaign at Him Lam, hero Phan Dinh Giot bravely smothers an enemy bunker embrasure with his body, enabling his unit to advance and destroy the base.
 *   **15/03/1954:** At the Kim Quan Safe Zone (Tuyên Quang), President Ho Chi Minh chaired a Government Council meeting to hear reports on preparations for the Geneva Conference and direct military affairs, state budget, and land reform.
+*   **Mar. 24, 1954 (Giap Ngo year):** Former Emperor Thanh Thai (Nguyen Phuc Buu Lan), the resolute monarch who endured nearly three decades of colonial banishment on Réunion Island, passed away in Saigon at the age of 75 following his return to the homeland, and was laid to rest at An Lang mausoleum (Hue).
 *   **Mar. 30 - Apr. 26, 1954:** In the second phase of the campaign, the Vietnamese forces simultaneously attacked the eastern hills, capturing crucial points like C1, D1, and E, tightened the siege with an extensive trench system, controlled the airfield, and cut off the enemy's supply lines.
 *   **04/1954:** At the Kim Quan Safe Zone (Tuyên Quang), the Politburo issued a resolution emphasizing the principle of "steady attack, steady advance" and raising determination to achieve complete victory in the Điện Biên Phủ Campaign.
 * **02/04/1954:** Martyr Ha Van Noa (Company Commander of Company 243, Regiment 141, Division 312) heroically sacrificed his life beside the Nam Rom River during the second offensive at Dien Bien Phu.
@@ -3078,6 +3122,7 @@
 * **23/07/1997:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Trần Văn Hai (Các liệt sĩ thiếu niên Việt Nam).
 * **23/07/1997:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Dương Văn Nội (Đội thiếu niên cứu quốc thủ đô).
 * **23/07/1997:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Kim Đồng (Đội trưởng đầu tiên của Đội Thiếu niên Tiền phong Hồ Chí Minh).
+*   **Aug. 1, 1997 (Dinh Suu year):** Former Emperor Bao Dai (Nguyen Phuc Vinh Thuy), the last reigning emperor of imperial Vietnam, passed away at the Val-de-Grâce military hospital in Paris (France) at the age of 83, bringing a definitive close to Vietnam's monarchical era.
 *   **Sep. 24, 1997:** The 1st session of the 10th National Assembly elected Comrade Tran Duc Luong as State President and Comrade Phan Van Khai as Prime Minister of the Socialist Republic of Vietnam (on September 25, 1997). Both leaders served as heads of state and government for two consecutive terms (1997–2006), successfully steering the national economy through the Asian Financial Crisis and into comprehensive global integration.
 *   **Nov. 19, 1997:** Internet services were officially made widely available in Vietnam, with Vietnam Posts and Telecommunications Group (VNPT) and Netnam Joint Stock Company being among the first to implement them.
 *   **Dec. 1997:** The 4th Conference of the Party Central Committee (8th tenure) set out a policy of upholding the spirit of self-reliance and self-strengthening, and leveraging internal resources to overcome the difficulties and challenges from the crisis.
