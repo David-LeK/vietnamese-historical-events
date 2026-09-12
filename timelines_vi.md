@@ -1378,6 +1378,7 @@
 *   **01/09/1901:** Báo *Nông Cổ Mín Đàm*, một trong những tờ báo chữ Quốc ngữ quan trọng đầu tiên, ra đời tại Sài Gòn.
 *   **1902:** Cầu Long Biên (Hà Nội) và tuyến đường sắt Hà Nội - Hải Phòng hoàn thành. Trường Y khoa Đông Dương được thành lập.
 *   **01/07/1902:** Paul Beau nhậm chức Toàn quyền, thay thế Paul Doumer và bắt đầu thực thi chính sách "hợp tác với người bản xứ".
+*   **06/09/1902:** Lê Huy Doãn (sau này là đồng chí Lê Hồng Phong, Tổng Bí thư thứ hai của Đảng Cộng sản Đông Dương) sinh ra tại tổng Thông Lãng, huyện Hưng Nguyên, tỉnh Nghệ An. Ông là nhà lãnh đạo xuất sắc của Đảng và cách mạng Việt Nam, người học trò ưu tú của Chủ tịch Hồ Chí Minh.
 *   **20/12/1902:** Toàn quyền Đông Dương ra nghị định chính thức thực hiện chế độ độc quyền về rượu trên toàn cõi Việt Nam.
 *   **1903:** Phan Bội Châu gặp Nguyễn Thành (Tiểu La) tại Quảng Nam để bàn định phương lược cứu nước, thống nhất liên kết dư đảng Cần Vương và cầu ngoại viện.
 *   **1904:** Cuộc "cải lương hương chính" đầu tiên được Pháp thí điểm ở Nam Kỳ nhằm kiểm soát chặt chẽ hơn bộ máy hành chính làng xã.
@@ -1505,7 +1506,7 @@
 *   **24/07/1922:** Nguyễn Ái Quốc họp Chi bộ quận 17 Đảng Cộng sản Pháp tại số nhà 100 phố Cardine, Paris. Cũng vào thời điểm này, Người bắt đầu chuyển về cư ngụ tại số 9 ngõ Compoint.
 *   **09/1922:** (Tháng 9 năm Khải Định thứ 7) Đổi Sở Phiên dịch thành Viện Cổ học (thuộc Bộ Học).
 *   **11/1922:** 600 thợ nhuộm ở Chợ Lớn (Nam Kỳ) bãi công phản đối việc bớt lương. Đây là lần đầu tiên một phong trào đấu tranh của công nhân như vậy nổ ra ở thuộc địa.
-*   **1923:** Tổ chức cách mạng Tâm Tâm xã được thành lập tại Quảng Châu, Trung Quốc.
+*   **1923:** Tổ chức cách mạng **Tâm Tâm xã** (còn gọi là Tân Việt Thanh niên Đoàn) được các thanh niên yêu nước (Hồ Tùng Mậu, Lê Hồng Sơn, Phạm Hồng Thái, Lâm Đức Thụ...) thành lập tại Quảng Châu (Trung Quốc) với tôn chỉ tập hợp những người cùng chí hướng, sẵn sàng hy sinh để "khôi phục quyền làm người của người Việt Nam". Đây là tổ chức cách mạng cấp tiến, trở thành hạt nhân quan trọng cho sự ra đời của Hội Việt Nam Cách mạng Thanh niên sau này.
 *   **1923:** Việc xây dựng **lầu Kiến Trung** (kết hợp kiến trúc Âu - Á) trong Tử Cấm Thành được hoàn thành.
 *   **1923:** Cơ quan Kiểm tra và Cứu trợ người bản xứ của các thuộc địa (C.A.I.) được thành lập tại Pháp để giám sát người Việt.
 *   **1923 - 1924:** Tại Moskva (Liên Xô), Nguyễn Ái Quốc lấy bí danh là **Linov** (hoặc Lin), học tập tại Trường Đại học Lao động Cộng sản Phương Đông (KUTV). Người tham dự lễ tang V.I. Lênin (01/1924), viết bài tưởng niệm "Lênin và các dân tộc phương Đông" đăng trên báo *Pravda*, và tích cực nghiên cứu lý luận chính trị chủ nghĩa Mác-Lênin.
@@ -1513,8 +1514,9 @@
 *   **10 - 15/10/1923:** Tại Moskva, Nguyễn Ái Quốc tham dự Hội nghị lần thứ nhất Quốc tế Nông dân và được bầu vào Đoàn Chủ tịch Ủy ban Quốc tế Nông dân, trở thành người Việt Nam đầu tiên giữ cương vị lãnh đạo trong một tổ chức quần chúng của Quốc tế Cộng sản.
 *   **15/11/1923:** Nhạc sĩ Văn Cao (tên khai sinh là Nguyễn Văn Cao) sinh ra tại Lạch Tray, Hải Phòng (quê gốc tại Vụ Bản, Nam Định). Ông là một trong những gương mặt vĩ đại nhất của nền tân nhạc, thi ca và hội họa hiện đại Việt Nam, tác giả của bài hát "Tiến quân ca" - Quốc ca của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam.
 *   **1924:** Ngô Mây, người anh hùng tiêu biểu của Lực lượng Vũ trang Nhân dân Việt Nam nổi tiếng với chiến công ôm bom quyết tử đánh xe tăng Pháp, sinh ra tại xã Cát Chánh, huyện Phù Cát, tỉnh Bình Định.
+*   **01/1924:** Lê Huy Doãn (sau mang bí danh Lê Hồng Phong) cùng bạn cùng quê là Phạm Hồng Thái và một số thanh niên yêu nước vượt biên sang Xiêm (Thái Lan) rồi tới Quảng Châu (Trung Quốc), gia nhập Tâm Tâm xã và dấn thân vào con đường hoạt động cách mạng chuyên nghiệp.
 *   **17/06 - 08/07/1924:** Nguyễn Ái Quốc tham dự Đại hội lần thứ V Quốc tế Cộng sản tại Moskva.
-*   **19/06/1924:** Phạm Hồng Thái thực hiện vụ mưu sát Toàn quyền Martial Merlin tại Sa Diện (Quảng Châu), tạo tiếng vang lớn.
+*   **19/06/1924:** Liệt sĩ **Phạm Hồng Thái**, thành viên ưu tú của Tâm Tâm xã, thực hiện vụ nổ bom mưu sát Toàn quyền Đông Dương Martial Merlin tại khách sạn Victoria ở tô giới Sa Diện (Quảng Châu, Trung Quốc). Dù Merlin chỉ bị thương nhẹ nhưng "Tiếng bom Sa Diện" đã gây chấn động quốc tế, được lãnh tụ Nguyễn Ái Quốc ví như "chim én nhỏ báo hiệu mùa xuân" của phong trào giải phóng dân tộc; sau khi hành động, Phạm Hồng Thái đã gieo mình xuống dòng Châu Giang anh dũng tuẫn tiết.
 *   **18/09/1924:** Toàn quyền Merlin ký nghị định sửa đổi Bộ Học chính tổng quy, chủ trương phát triển giáo dục tiểu học ("giáo dục theo chiều ngang").
 *   **27/10/1924:** Trường Mỹ thuật Đông Dương được thành lập tại Hà Nội.
 *   **11/11/1924:** Nguyễn Ái Quốc từ Moskva đến Quảng Châu (Trung Quốc) với bí danh **Lý Thụy**, làm thông ngôn kiêm phái viên trong Phái đoàn Cố vấn Liên Xô của Mikhail Borodin bên cạnh Chính phủ Tôn Trung Sơn, bắt đầu chuẩn bị về chính trị, tư tưởng và tổ chức cho cách mạng Việt Nam.
@@ -1523,9 +1525,11 @@
 *   **1925:** Tác phẩm chính luận xuất sắc *Bản án chế độ thực dân Pháp* (Le Procès de la colonisation française) của Nguyễn Ái Quốc được Thư quán Lao động (Librairie du Travail) xuất bản lần đầu tiên tại Paris (Pháp), tố cáo tội ác của chủ nghĩa thực dân và khơi dậy phong trào đấu tranh của các dân tộc thuộc địa.
 *   **1925:** Tại đảo Réunion (nơi bị thực dân Pháp lưu đày), cựu hoàng Duy Tân (lấy tên hoàng thân Vĩnh San) kiên quyết từ chối trợ cấp đặc biệt để giữ khí tiết, tự học nghề kỹ thuật và mở tiệm **'Radio-Laboratoire Vĩnh San'** tại số 41 phố Labourdonnais (Saint-Denis). Ông trực tiếp sửa chữa, lắp ráp máy móc và thiết bị thu thanh vô tuyến (TSF), trở thành chuyên gia vô tuyến điện hàng đầu được chính quyền đảo nhờ thiết lập trạm truyền tin đầu tiên, và sau đó được cấp chứng chỉ điện đài nghiệp dư quốc tế (hô hiệu **FR8VX**).
 *   **01/1925:** Nguyễn Ái Quốc mở các lớp huấn luyện chính trị cho thanh niên yêu nước tại Quảng Châu.
+*   **02/1925:** Tại Quảng Châu (Trung Quốc), lãnh tụ Nguyễn Ái Quốc tiếp xúc và vận động các thành viên tích cực của Tâm Tâm xã, lựa chọn 9 chiến sĩ ưu tú (trong đó có Lê Hồng Phong, Lê Hồng Sơn, Hồ Tùng Mậu) để thành lập **Cộng sản đoàn** - tổ chức cộng sản đầu tiên của Việt Nam làm hạt nhân nòng cốt chuẩn bị cho sự ra đời của Hội Việt Nam Cách mạng Thanh niên.
 *   **03/03/1925:** Thượng thư Bộ Binh Thân Trọng Huề gửi văn thư cho Khâm sứ Pháp, khẳng định "Các đảo Hoàng Sa bao giờ cũng thuộc về nước An Nam", xác nhận chủ quyền trước các tranh chấp gia tăng.
 *   **08/03/1925:** Toàn quyền Đông Dương Martial Merlin ra tuyên bố chính thức khẳng định hai quần đảo Hoàng Sa và Trường Sa là lãnh thổ thuộc chủ quyền của Pháp (với tư cách là đại diện bảo hộ cho Nhà nước An Nam).
 *   **06/1925:** Nguyễn Ái Quốc cùng Hồ Tùng Mậu và các chiến sĩ cách mạng thành lập Hội Việt Nam Cách mạng Thanh niên (Việt Nam Thanh niên Cách mạng Đồng chí Hội) tại Quảng Châu (Trung Quốc), tổ chức các khóa đào tạo lý luận Mác-Lênin chuẩn bị về tư tưởng và tổ chức cho sự ra đời của Đảng Cộng sản Việt Nam.
+*   **Mùa hè 1925:** Được sự giới thiệu của đồng chí Nguyễn Ái Quốc, Lê Hồng Phong (Lê Huy Doãn) cùng Lê Hồng Sơn và Lê Quang Đạt trúng tuyển vào khóa II Trường Quân sự Hoàng Phố (Quảng Châu, Trung Quốc), mở đầu quá trình đào tạo cán bộ quân sự chính quy đầu tiên cho cách mạng Việt Nam.
 *   **21/06/1925:** Tuần báo *Thanh niên*, cơ quan ngôn luận của Hội Việt Nam Cách mạng Thanh niên, ra số đầu tiên.
 *   **30/06/1925:** Phan Bội Châu bị thực dân Pháp bắt cóc tại Thượng Hải.
 *   **08/1925:** Cuộc bãi công của hơn 1.000 công nhân xưởng Ba Son (Sài Gòn) do Tôn Đức Thắng lãnh đạo, trì hoãn việc sửa chữa chiến hạm Jules Michelet của Pháp.
@@ -1534,12 +1538,14 @@
 *   **24/12/1925:** Toàn quyền Varenne ký lệnh "ân xá" và an trí Phan Bội Châu tại Huế.
 *   **1926:** Huỳnh Thúc Kháng đắc cử đại biểu rồi được bầu làm Viện trưởng Viện Dân biểu Trung Kỳ; tại diễn đàn này, ông đã kiên quyết đấu tranh bảo vệ quyền lợi của nhân dân và đòi các quyền tự do dân chủ tối thiểu.
 *   **08/01/1926 (25/11 năm Ất Sửu):** Hoàng Thái tử Vĩnh Thụy (12 tuổi) chính thức làm lễ đăng quang lên ngôi hoàng đế tại điện Thái Hòa, lấy niên hiệu Bảo Đại, trở thành vị hoàng đế thứ 13 và cũng là vị vua cuối cùng của triều đại nhà Nguyễn cùng chế độ phong kiến Việt Nam.
+*   **02/1926:** Được sự giới thiệu của đồng chí Nguyễn Ái Quốc, Lê Hồng Phong được kết nạp vào Đảng Cộng sản Trung Quốc khi đang theo học tại Trường Hàng không Quân sự Quảng Châu.
 *   **21/03/1926:** Đảng Thanh niên Việt Nam (Jeune Annam) được thành lập.
 *   **24/03/1926:** Phan Châu Trinh qua đời tại Sài Gòn.
 *   **24/03/1926:** Nhà yêu nước, nhà báo Nguyễn An Ninh bị thực dân Pháp bắt giữ tại Sài Gòn, làm bùng lên làn sóng biểu tình, mít tinh và bãi khóa sôi nổi của học sinh, sinh viên và thanh niên Nam Kỳ đòi trả tự do cho ông.
 *   **04/04/1926:** Lễ quốc táng chí sĩ Phan Chu Trinh được tổ chức trọng thể tại Sài Gòn với sự tham gia của hơn 14 vạn người, biến thành cuộc biểu tình chính trị và biểu dương lực lượng quần chúng rộng lớn, châm ngòi cho phong trào bãi khóa và lễ truy điệu cụ Phan lan rộng khắp ba kỳ.
 *   **04/09/1926:** Nghị định thành lập các Ngân hàng Nông phố bình dân (Tín dụng nông nghiệp) ở Bắc Kỳ.
 *   **10/1926:** Phùng Chí Kiên cùng một số hội viên Việt Nam Thanh niên Cách mạng Đồng chí Hội được giới thiệu sang Quảng Châu (Trung Quốc) dự lớp huấn luyện cách mạng do Nguyễn Ái Quốc trực tiếp tổ chức và giảng dạy, sau đó nhập học Trường Quân sự Hoàng Phố.
+*   **10/1926:** Lê Hồng Phong được cử sang Liên Xô theo học tại Trường Lý luận Quân sự Lênin-grát (Leningrad) rồi chuyển sang Trường Hàng không Quân sự số 2 Borisoglebsk, trở thành phi công quân sự đầu tiên và là sĩ quan Hồng quân Liên Xô người Việt Nam.
 *   **12/11/1926:** Đông Dương Lao động Đảng được thành lập tại Sài Gòn.
 *   **1927:** Tổng Lãnh sự Nhật Bản tại Hà Nội, Kurosawa, đã yêu cầu các quan chức Pháp cung cấp thông tin về quy chế lãnh thổ của quần đảo Trường Sa.
 *   **02/1927:** Tác phẩm *Đường Kách mệnh* của Nguyễn Ái Quốc được xuất bản tại Quảng Châu, hệ thống hóa các bài giảng lý luận Mác-Lênin cho cán bộ cách mạng Việt Nam, đặt nền móng lý luận cho cách mạng Việt Nam.
@@ -1561,6 +1567,7 @@
 *   **10/1928:** Sau nhiều cuộc tranh luận gay gắt với Khâm sứ Pháp nhằm phản đối chính sách hà khắc cùng việc thực dân bác bỏ các thỉnh cầu giảm thuế và cải cách dân quyền, Huỳnh Thúc Kháng tuyên bố từ chức Viện trưởng Viện Dân biểu Trung Kỳ.
 *   **11/1928:** Một công ty phốt phát mới của Mỹ đã xin Thống đốc Nam Kỳ cấp phép nghiên cứu mỏ trên quần đảo Trường Sa.
 *   **04/11/1928:** Sắc lệnh thành lập Đại Hội đồng kinh tế và tài chính Đông Dương.
+*   **12/1928:** Lê Hồng Phong nhập học Trường Đại học Lao động Cộng sản Phương Đông (KUTV) của Quốc tế Cộng sản tại Moskva với bí danh **Litvinov**, chuyên sâu nghiên cứu lý luận chủ nghĩa Mác - Lênin và tích lũy kiến thức xây dựng Đảng vô sản.
 *   **09/02/1929:** Trùm mộ phu Bazin bị đảng viên Việt Nam Quốc dân Đảng ám sát tại Hà Nội, dẫn đến một đợt khủng bố trắng.
 *   **03/1929:** Chi bộ Cộng sản đầu tiên được thành lập tại số nhà 5D Hàm Long, Hà Nội.
 *   **01-09/05/1929:** Đại hội lần thứ nhất của Hội Việt Nam Cách mạng Thanh niên diễn ra tại Hương Cảng.
@@ -1621,10 +1628,12 @@
 *   **21/12/1933:** Thống đốc Nam Kỳ Jean-Félix Krautheimer ký **Nghị định số 4702-CP** chính thức sáp nhập toàn bộ các đảo thuộc quần đảo Trường Sa (gồm đảo Ba Bình, Song Tử Tây, Song Tử Đông, Thị Tứ, Loaita, Nam Yết, Cồn San Hô và các đảo phụ cận) vào địa hạt tỉnh Bà Rịa.
 *   **1934 - 1935:** Nguyễn Sơn (Hồng Thủy) trở thành chiến sĩ người Việt duy nhất tham gia cuộc Vạn lý Trường chinh lịch sử 10.000 km của Quân giải phóng Nhân dân Trung Quốc.
 *   **1934 - 1938:** Nguyễn Ái Quốc trở lại Liên Xô, tiếp tục mang bí danh **Linov** (Lin). Người làm nghiên cứu viên tại Viện Nghiên cứu các vấn đề dân tộc và thuộc địa ở Moskva, theo học và tốt nghiệp Trường Quốc tế Lênin (1935 - 1938), đồng thời tham gia Đoàn đại biểu Đảng Cộng sản Đông Dương dự Đại hội VII Quốc tế Cộng sản (1935).
+*   **03/1934:** Dưới sự chỉ đạo của Quốc tế Cộng sản, **Ban Chỉ huy Hải ngoại của Đảng Cộng sản Đông Dương** được thành lập tại Ma Cao do đồng chí Lê Hồng Phong làm Thư ký (Bí thư); cơ quan này đảm trách vai trò như Ban Chấp hành Trung ương lâm thời nhằm khôi phục các cơ sở Đảng bị tàn phá sau khủng bố trắng và chuẩn bị Đại hội đại biểu toàn quốc lần thứ I.
 *   **20/03/1934 (05/02 năm Giáp Tuất):** Lễ thành hôn của vua Bảo Đại với bà Marie-Thérèse Nguyễn Hữu Thị Lan (Nam Phương Hoàng hậu) được tổ chức trọng thể tại điện Thái Hòa (Huế). Nhà vua thực hiện bước đột phá chưa từng có trong hoàng gia triều Nguyễn: tuyên bố cam kết thực thi chế độ **'nhất phu nhất phụ'** (một vợ một chồng), giải tán tam cung lục viện và tấn phong ngay tước vị Hoàng hậu trong ngày cưới.
+*   **16 - 21/06/1934:** Tại Ma Cao (Trung Quốc), đồng chí Lê Hồng Phong chủ trì Hội nghị Ban Chỉ huy Hải ngoại Đảng Cộng sản Đông Dương cùng đại diện các tổ chức Đảng trong nước, thông qua Nghị quyết Chính trị và Nghị quyết Về các vấn đề tổ chức, thống nhất đường lối và quyết định xuất bản Tạp chí *Bônsơvích*.
 *   **12/09/1934:** Vừ A Dính, người thiếu niên anh hùng dũng cảm người dân tộc HMông trong kháng chiến chống Pháp, sinh ra tại xã Pú Nhung, huyện Tuần Giáo, tỉnh Điện Biên.
 *   **27 - 31/03/1935:** Đại hội đại biểu toàn quốc lần thứ I của Đảng họp tại Ma Cao (Trung Quốc) bầu Ban Chấp hành Trung ương do đồng chí Lê Hồng Phong làm Tổng Bí thư; thông qua Nghị quyết chính trị và Điều lệ Đảng, đánh dấu sự khôi phục và củng cố vững chắc hệ thống tổ chức của Đảng từ Trung ương đến cơ sở sau thời kỳ khủng bố trắng của thực dân Pháp; đồng chí Phùng Chí Kiên được bầu vào Ban Thường vụ Ban Chấp hành Trung ương Đảng, trực tiếp phụ trách công tác quân sự.
-*   **25/07 - 20/08/1935:** Nguyễn Thị Minh Khai đại diện cho Đảng Cộng sản Đông Dương tham dự và phát biểu tại Đại hội lần thứ VII của Quốc tế Cộng sản tại Moskva (Liên Xô).
+*   **25/07 - 20/08/1935:** Đoàn đại biểu Đảng Cộng sản Đông Dương do Tổng Bí thư Lê Hồng Phong dẫn đầu (cùng Nguyễn Thị Minh Khai và Hoàng Văn Nọn) tham dự Đại hội lần thứ VII Quốc tế Cộng sản tại Moskva (Liên Xô). Đại hội chính thức công nhận Đảng là một phân bộ độc lập trực thuộc Quốc tế Cộng sản; đồng chí Lê Hồng Phong được bầu làm Ủy viên Ban Chấp hành Quốc tế Cộng sản (người Việt Nam đầu tiên và duy nhất được bầu vào cơ quan lãnh đạo tối cao này); đồng chí Nguyễn Thị Minh Khai có bài tham luận gây tiếng vang lớn về phong trào phụ nữ giải phóng.
 
 ### **Thời kỳ Mặt trận Dân chủ (1936 - 1938)**
 
@@ -1646,6 +1655,7 @@
 *   **28/02/1937:** Tuần dương hạm *Lamotte-Picquet* của Pháp tiến hành thăm dò quần đảo Hoàng Sa và nhận thấy các đảo đều hoang vắng. Nhà chức trách quân sự kết luận rằng Pháp không thể dung thứ cho bất kỳ sự chiếm đóng nào của nước ngoài tại đây.
 *   **05/05/1937:** Tổng Bí thư Hà Huy Tập (bút danh Thanh Hương) xuất bản tác phẩm *Tờrốtxky và phản cách mạng*.
 *   **07/1937:** Nhà cách mạng trẻ Nguyễn Kim Thành (Tố Hữu) được kết nạp vào Đảng Cộng sản Đông Dương tại Huế và sáng tác bài thơ *Từ ấy*, cột mốc mở đầu cho sự nghiệp thơ ca cách mạng vẻ vang gắn liền với các chặng đường lịch sử của dân tộc.
+*   **10/11/1937:** Đồng chí Lê Hồng Phong bí mật về nước, hoạt động tại Sài Gòn - Chợ Lớn dưới bí danh **La Anh**, trực tiếp cùng Xứ ủy Nam Kỳ chỉ đạo phong trào đấu tranh dân sinh, dân chủ trong thời kỳ Mặt trận Dân chủ Đông Dương.
 *   **1938:** Nguyễn Ái Quốc trở lại Trung Quốc, hoạt động trong Bát lộ quân.
 *   **1938:** Huỳnh Tấn Phát tốt nghiệp thủ khoa ngành Kiến trúc, Trường Cao đẳng Mỹ thuật Đông Dương.
 *   **1938:** Nhà thơ Xuân Diệu xuất bản tập *Thơ thơ*, kiệt tác đưa ông lên vị trí đỉnh cao của phong trào Thơ mới và được kết nạp vào Tự Lực Văn Đoàn; ông được mệnh danh là "nhà thơ mới nhất trong các nhà thơ mới" và "ông hoàng thơ tình Việt Nam".
@@ -1668,6 +1678,7 @@
 *   **31/03/1939:** Chính phủ Nhật Bản tuyên bố quyền kiểm soát đối với quần đảo Trường Sa. Pháp đã lên tiếng phản đối hành động này vào ngày 4 tháng 4.
 *   **05/05/1939:** Toàn quyền Đông Dương Jules Brévié ký **Nghị định số 3283** sửa đổi nghị định năm 1938, chia quần đảo Hoàng Sa thành hai đại lý hành chính riêng biệt thuộc tỉnh Thừa Thiên: Đại lý "Nhóm Lưỡi Liềm và các đảo phụ cận" (Croissant et ses dépendances) và Đại lý "Nhóm An Vĩnh và các đảo phụ cận" (Amphitrite et ses dépendances).
 *   **07/06/1939:** Nhà thơ, nhà báo Tản Đà (Nguyễn Khắc Hiếu) qua đời tại Hà Nội ở tuổi 50. Ông được phong tặng là "người của hai thế kỷ" và được Hoài Thanh suy tôn là "chủ soái của thi đàn Việt Nam" trước phong trào Thơ mới.
+*   **22/06/1939:** Đồng chí Lê Hồng Phong bị mật thám Pháp bắt giữ tại Sài Gòn; bị kết án tù và sau đó trục xuất về quản thúc tại quê nhà Hưng Nguyên (Nghệ An), ông vẫn kiên cường tìm cách giữ liên lạc và đóng góp ý kiến chỉ đạo cho Trung ương Đảng.
 *   **07/1939:** Tổng Bí thư Nguyễn Văn Cừ xuất bản tác phẩm lý luận kinh điển *"Tự chỉ trích"* (dưới bút danh Trí Cường). Tác phẩm khái quát những bài học xương máu trong công tác xây dựng Đảng, đặt nền tảng phương pháp luận cho việc tự phê bình và phê bình nghiêm túc, thẳng thắn nhằm củng cố sự thống nhất ý chí và hành động của toàn Đảng.
 *   **05/07/1939:** Phật giáo Hòa Hảo, một tôn giáo nội sinh, được ông Huỳnh Phú Sổ sáng lập tại tỉnh An Giang.
 *   **01/09/1939:** Chiến tranh Thế giới thứ hai bùng nổ, Pháp tham chiến.
@@ -1677,6 +1688,7 @@
 *   **1940:** Kiến trúc sư Huỳnh Tấn Phát mở văn phòng kiến trúc sư tư đầu tiên của người Việt ở Sài Gòn. Cùng năm, Lưu Tấn Phát là một trong những hạt nhân nòng cốt của Khởi nghĩa Nam Kỳ tại xã nhà ở Tiền Giang.
 *   **1940:** Nhà thơ Nguyễn Bính xuất bản tập thơ *Lỡ bước sang ngang* và được trao giải thưởng thơ của Tự Lực Văn Đoàn với tập *Tâm hồn tôi*, khẳng định vị thế "nhà thơ chân quê" xuất sắc nhất của phong trào Thơ mới với những vần thơ mang đậm hồn quê và phong vị dân ca dân tộc.
 *   **01/02/1940:** Nguyễn Văn Trỗi sinh tại làng Thanh Quýt, huyện Điện Bàn, tỉnh Quảng Nam. Ông sau này trở thành chiến sĩ biệt động Sài Gòn quả cảm, người có khí tiết lẫm liệt trước pháp trường trở thành biểu tượng của lòng yêu nước.
+*   **06/02/1940:** Thực dân Pháp bắt lại đồng chí Lê Hồng Phong tại Nghệ An, giam tại Khám Lớn Sài Gòn rồi kết án 5 năm tù và 10 năm quản thúc, sau đó đày ra nhà tù Côn Đảo.
 *   **18/06/1940:** Sau khi Tướng Charles de Gaulle phát đi 'Lời kêu gọi ngày 18 tháng 6' qua đài BBC từ London, cựu hoàng Duy Tân đã tự dùng đài thu phát vô tuyến của mình tại đảo Réunion để bắt sóng, dịch và bí mật phổ biến bản tin hiệu triệu kháng chiến chống phát xít tại vùng Tây Nam Ấn Độ Dương. Về sau ông chính thức gia nhập quân đội Pháp Tự Do với tư cách sĩ quan truyền tin vô tuyến điện và được thăng đến cấp Thiếu tá.
 *   **22/06/1940:** Chính phủ Pháp đầu hàng phát xít Đức.
 *   **09/1940:** Việt Nam Kiến quốc quân (lực lượng vũ trang của Phục quốc Hội) tiến đánh Lạng Sơn.
@@ -1695,7 +1707,7 @@
 *   **28/08/1941:** Thực dân Pháp xử bắn nhiều nhà lãnh đạo cách mạng tiền bối kiên trung của Đảng tại Hóc Môn (Gia Định), bao gồm các đồng chí: Hà Huy Tập, Nguyễn Văn Cừ (nguyên Tổng Bí thư Đảng), Võ Văn Tần, Phan Đăng Lưu (Ủy viên Ban Thường vụ Trung ương Đảng), Nguyễn Thị Minh Khai (Bí thư Thành ủy Sài Gòn - Chợ Lớn) và Nguyễn Hữu Tiến (tác giả lá cờ đỏ sao vàng). Trước pháp trường tại Ngã Ba Giồng và Nhà thương Giếng Nước, các chiến sĩ cộng sản kiên quyết từ chối bịt mắt và hô vang các khẩu hiệu cách mạng đến giây phút cuối cùng.
 *   **Giữa năm 1942:** Bị địch theo dõi, Lưu Tấn Phát nghỉ dạy học, trở về Mỹ Tho làm nghề sửa đồng hồ để làm vỏ bọc hoạt động cách mạng.
 *   **27/08/1942 - 10/09/1943:** Hồ Chí Minh bị chính quyền địa phương Quốc dân Đảng Trung Quốc bắt giam trái phép tại Túc Vinh (Quảng Tây). Trong hơn 13 tháng bị giải qua gần 30 nhà giam thuộc 13 huyện của tỉnh Quảng Tây, Người đã sáng tác tập thơ chữ Hán bất hủ *Nhật ký trong tù* (*Ngục trung nhật ký*) gồm 133 bài thơ, trước khi được trả tự do tại Liễu Châu vào ngày 10/09/1943.
-*   **06/09/1942:** Nguyên Tổng Bí thư Lê Hồng Phong kiên cường hy sinh tại nhà tù Côn Đảo sau nhiều năm bị tra tấn và giam cầm dã man.
+*   **06/09/1942:** Nguyên Tổng Bí thư **Lê Hồng Phong** trút hơi thở cuối cùng và kiên cường hy sinh tại xà lim số 5 Banh II, nhà tù Côn Đảo đúng vào ngày sinh nhật lần thứ 40, sau chuỗi ngày bị địch tra tấn tàn bạo và hành hạ thể xác. Trước lúc hy sinh, ông gửi lại lời trăn trối bất hủ: *"Xin chào tất cả các đồng chí. Nhờ các đồng chí nói với Đảng rằng: Tới giờ phút cuối cùng, Lê Hồng Phong vẫn một lòng tin tưởng ở thắng lợi vẻ vang của cách mạng"*.
 *   **01/10/1942:** Việt Nam Cách mệnh Đồng minh Hội (Việt Cách) được thành lập tại Liễu Châu (Trung Quốc), tập hợp nhiều đảng phái yêu nước.
 *   **1943:** Đảng Cộng sản Đông Dương công bố bản *Đề cương về Văn hóa Việt Nam*.
 *   **1943:** Lưu Tấn Phát mở tiệm đồng hồ "Tấn Phát" tại Mỹ Tho, nơi đây trở thành cơ sở bí mật để chắp nối với các đồng chí cách mạng.
