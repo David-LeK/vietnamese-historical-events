@@ -4,6 +4,8 @@ Repo này được dùng với mục đích lưu trữ các sự kiện lịch s
 
 Các sự kiện được tổng hợp từ nhiều nguồn trên Internet.
 
+Bạn có thể truy cập phiên bản web tại đây: https://david-lek.github.io/vietnamese-historical-events/
+
 ## 📜 Tiêu chí lựa chọn sự kiện
 
 Repo này ưu tiên tổng hợp và lựa chọn các sự kiện theo các tiêu chí chuẩn hóa sau:

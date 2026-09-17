@@ -4,6 +4,8 @@ This repository is used to store historical events of Vietnam.
 
 Events are aggregated from various sources across the Internet.
 
+You can access the web version here: https://david-lek.github.io/vietnamese-historical-events/
+
 ## 📜 Event Selection Criteria
 
 This repository prioritizes aggregating and selecting events based on the following standardized criteria:
