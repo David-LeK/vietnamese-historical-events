@@ -1,0 +1,22 @@
+# Python & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Generated data & build artifacts
+timelines_data.js
+.build/
+noto.css
+
+# Large binaries & temporary search outputs
+*.pdf
+events_*.txt
+prompt.txt
+*.tmp
+
+# IDEs & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
