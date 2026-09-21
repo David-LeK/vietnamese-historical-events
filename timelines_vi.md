@@ -1658,6 +1658,7 @@
 
 ### **Thời kỳ Mặt trận Dân chủ (1936 - 1938)**
 
+*   **1936 - 1939:** Đồng chí Võ Nguyên Giáp giảng dạy môn Lịch sử tại Trường tư thục Thăng Long (Hà Nội) đồng thời hoàn thành chương trình Cử nhân Luật. Bằng những bài giảng hào hùng về truyền thống chống ngoại xâm của dân tộc và Cách mạng Pháp 1789, thầy giáo Võ Nguyên Giáp đã khơi dậy lòng yêu nước, truyền bá tư tưởng dân chủ và giác ngộ lý tưởng cách mạng cho nhiều thế hệ học sinh, biến trường Thăng Long thành cái nôi cách mạng quan trọng của giới trí thức, thanh niên Thủ đô thời kỳ Mặt trận Dân chủ.
 *   **1936:** Đại Việt Quốc gia Xã hội Đảng được thành lập.
 *   **1936:** Việt Nam Độc lập Vận động Đồng minh Hội, một tổ chức có tên gọi tương tự Việt Minh, được thành lập tại Nam Kinh (Trung Quốc) bởi các nhà hoạt động chống đế quốc.
 *   **1936:** Rời nhà tù Côn Đảo trở về, Lê Duẩn hoạt động ở Trung Kỳ. Trên cương vị Bí thư Xứ ủy Trung Kỳ, ông đã lãnh đạo phong trào Mặt trận Dân chủ (1936 - 1939), đấu tranh đòi quyền dân sinh, dân chủ.
@@ -2756,6 +2757,7 @@
 *   **1976:** Sau khi đất nước thống nhất, chính phủ Iraq đã cử các chuyên gia luật pháp và dầu khí giỏi nhất sang giúp đỡ Việt Nam trong việc thăm dò, khai thác dầu khí và chia sẻ kinh nghiệm đàm phán hợp đồng với các công ty nước ngoài.
 *   **1976:** Trong giai đoạn tái cấu trúc xã hội sau ngày thống nhất đất nước, với quan điểm sử học thời kỳ này phê phán nghiêm khắc các trí thức từng cộng tác với chính quyền thực dân Pháp, Ủy ban Quân quản Thành phố Sài Gòn - Gia Định quyết định đổi tên Trường Trung học Petrus Ký (thành lập từ năm 1928) thành Trường Trung học Phổ thông Chuyên Lê Hồng Phong, đồng thời di dời tượng đồng Trương Vĩnh Ký về lưu giữ tại Bảo tàng Mỹ thuật TP. Hồ Chí Minh.
 *   **03/01/1976:** Bộ Chính trị ra Chỉ thị 228 về việc lãnh đạo cuộc Tổng tuyển cử bầu Quốc hội chung.
+*   **04/01/1976:** Đại tướng Võ Nguyên Giáp bắt đầu chuyến thăm hữu nghị chính thức Algeria — chuyến công du nước ngoài đầu tiên sau đại thắng Mùa Xuân 1975 thống nhất đất nước. Phát biểu bằng tiếng Pháp trước hàng vạn đại biểu và người dân tại sân vận động thủ đô Algiers, nguyên là thầy giáo dạy sử, Đại tướng đã có nhận định ví von nổi tiếng: *"Chủ nghĩa đế quốc là một học trò tồi môn lịch sử"* (*L'impérialisme est un mauvais élève de l'histoire*), vì không thuộc bài học lịch sử nên không những bị "lưu ban" (*doubler*) mà còn phải "lưu ban lần nữa" (*tripler*) trước tinh thần chiến đấu kiên cường của nhân dân Việt Nam. Bài phát biểu đã truyền cảm hứng mạnh mẽ cho phong trào giải phóng dân tộc trên khắp thế giới.
 * **15/01/1976:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phạm Xuân Ẩn (Hai Trung, X6) (Thiếu tướng tình báo, nhà báo và phóng viên cho hãng tin Reuters, tạp chí Time).
 * **15/01/1976:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Thị Ba (Thiếu tá, giao liên tình báo cụm H63, phụ trách chuyển tài liệu của Phạm Xuân Ẩn).
 *   **21/01/1976:** Ủy ban Quân quản Sài Gòn - Gia Định chính thức bàn giao nhiệm vụ cho Ủy ban nhân dân thành phố.
