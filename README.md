@@ -6,6 +6,11 @@ Các sự kiện được tổng hợp từ nhiều nguồn trên Internet.
 
 Bạn có thể truy cập phiên bản web tại đây: https://david-lek.github.io/vietnamese-historical-events/
 
+## 🗺️ Sơ đồ Dòng thời gian & Các triều đại (Mermaid Charts)
+
+Bạn có thể xem toàn bộ hệ thống sơ đồ dòng sự kiện lịch sử Việt Nam qua các triều đại và từng đời vua tại:
+👉 **[Biểu đồ Mermaid Toàn cảnh Lịch sử Việt Nam](VIETNAM_HISTORICAL_MERMAID_CHART.md)**
+
 ## 📜 Tiêu chí lựa chọn sự kiện
 
 Repo này ưu tiên tổng hợp và lựa chọn các sự kiện theo các tiêu chí chuẩn hóa sau:

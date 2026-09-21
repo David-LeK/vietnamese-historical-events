@@ -38,8 +38,8 @@
 *   **Khoảng 500 TCN:** Thời kỳ Văn hóa Đồng Nai (Đông Nam Bộ), nền văn hóa kim khí kết nối giữa thời đại đồng thau và thời đại sắt sớm.
 *   **Khoảng 500 TCN:** Nghệ thuật đúc đồng Đông Sơn đạt tới đỉnh cao rực rỡ với việc chế tác Trống đồng Ngọc Lũ và Trống đồng Hoàng Hà, phản ánh đời sống tâm linh, sản xuất nông nghiệp và kỹ thuật luyện kim vượt trội của người Việt cổ.
 *   **Khoảng thế kỷ III - II TCN:** Phật giáo được du nhập vào bằng đường biển từ Ấn Độ. Đây là tôn giáo có mặt sớm nhất và đã được bản địa hóa, trở thành tư tưởng chủ đạo trong văn hóa dân tộc qua nhiều thời kỳ lịch sử.
-*   **258 TCN:** An Dương Vương (Thục Phán) thôn tính nước Văn Lang, kết thúc thời đại Hùng Vương.
-*   **257 TCN:** An Dương Vương đổi quốc hiệu thành Âu Lạc, dời đô về Phong Khê (Cổ Loa).
+*   **258 TCN:** Thục Phán (thủ lĩnh bộ tộc Tây Âu / Âu Việt) cất quân tiến đánh nước Văn Lang. Do triều đình Văn Lang cuối thời suy yếu và chủ quan khinh địch, quân đội của Hùng Vương thứ 18 (Hùng Duệ Vương) thất trận. Thục Phán đánh bại quân Hùng, thôn tính bờ cõi Văn Lang, chính thức kết thúc thời đại 18 đời Hùng Vương trị vì Kỷ Hồng Bàng.
+*   **257 TCN:** Thục Phán lên ngôi xưng là An Dương Vương, hợp nhất hai cộng đồng người Tây Âu và Lạc Việt, đổi quốc hiệu thành Âu Lạc và dời kinh đô từ Phong Châu về Phong Khê (Cổ Loa).
 *   **257 TCN:** Thục Phán An Dương Vương dựng cột đá thề trên đỉnh núi Nghĩa Lĩnh (Phong Châu), thề nguyện đời đời giữ gìn giang sơn gấm vóc mà các Hùng Vương đã trao lại.
 *   **255 TCN:** An Dương Vương cho xây dựng Loa Thành (Cổ Loa).
 *   **Khoảng 250 TCN:** Tướng quân Cao Lỗ (Cao Thông) chế tạo thành công "Lạc Quang thần nỏ" (Nỏ Liên Châu / Nỏ thần), bắn ra nhiều mũi tên đồng cùng lúc, trở thành vũ khí chiến lược bảo vệ Loa Thành của nước Âu Lạc.
@@ -54,7 +54,8 @@
 *   **179 TCN:** Triệu Đà thôn tính nước Âu Lạc. Sự kiện này gắn liền với truyền thuyết bi kịch về mối tình Trọng Thủy - Mỵ Châu.
 *   **137 TCN:** Triệu Đà qua đời ở tuổi hơn 100 sau gần 70 năm trị vì. Cháu nội là Triệu Mạt lên nối ngôi, xưng là Triệu Văn Vương (Triệu Văn Đế).
 *   **135 TCN:** Nước Mân Việt tiến đánh Nam Việt. Triệu Văn Vương gửi thư xin Hán Vũ Đế can thiệp; nhà Hán cử quân đánh Mân Việt, khiến Nam Việt ngày càng chịu ảnh hưởng ngoại giao từ triều Hán.
-*   **113 TCN:** Hán Vũ Đế sai An Quốc Thiếu Quý sang Nam Việt dụ Cù Thái hậu và Triệu Hưng dâng Nam Việt phụ thuộc hoàn toàn vào nhà Hán.
+*   **125 TCN:** Triệu Văn Vương (Triệu Mạt) qua đời. Con là Triệu Anh Tề lên nối ngôi vua nước Nam Việt, xưng là Triệu Minh Vương (trị vì 125 TCN - 113 TCN).
+*   **113 TCN:** Triệu Minh Vương qua đời, con thứ là Triệu Hưng lên nối ngôi khi còn nhỏ tuổi, xưng là Triệu Ai Vương (trị vì 113 TCN - 112 TCN), do Cù Thái hậu phụ chính. Cùng năm, Hán Vũ Đế sai An Quốc Thiếu Quý sang Nam Việt dụ Cù Thái hậu và Triệu Hưng dâng Nam Việt phụ thuộc hoàn toàn vào triều Hán.
 *   **Tháng 11/112 TCN:** Thừa tướng Lữ Gia (Lừa Gia) cùng các tướng lĩnh nổi dậy kiên quyết bảo vệ chủ quyền, giết Cù Thái hậu, vua Triệu Hưng và sứ Hán An Quốc Thiếu Quý, lập Triệu Kiến Đức làm vua (Triệu Thuật Vương) để chống lại nguy cơ sáp nhập.
 *   **Tháng 4/111 TCN:** Quân Hán do Lộ Bác Đức và Dương Bộc chỉ huy gồm 10 vạn quân đánh chiếm Phiên Ngung. Lữ Gia và Triệu Kiến Đức bị bắt và hy sinh. Nước Nam Việt sụp đổ; nhà Hán chia đất Nam Việt thành 9 quận (bao gồm Giao Chỉ, Cửu Chân và Nhật Nam), bắt đầu thời kỳ Bắc thuộc lần thứ nhất.
 *   **106 TCN:** Hán Vũ Đế chia các quận phương Nam thành Giao Chỉ bộ (gồm 9 quận), cử Thứ sử đứng đầu để kiểm soát và giám sát hành chính, đặt trị sở tại Luy Lâu (nay thuộc Thuận Thành, Bắc Ninh).
@@ -726,7 +727,8 @@
 *   **1516:** Nổ ra cuộc khởi nghĩa lớn của Trần Cảo ở Đông Triều (Quảng Ninh). Nghĩa quân cạo trọc đầu, được gọi là "quân ba chỏm", có lúc chiếm được cả Thăng Long.
 *   **1516 (Tháng 5 âm lịch năm Bính Tý):** Sau khi tướng Trịnh Duy Sản làm binh biến giết vua Lê Tương Dực, hoàng tộc và các đại thần đã tôn hoàng tử Lê Y (cháu nội vua Lê Thánh Tông) lên ngôi hoàng đế tại Thăng Long, đặt niên hiệu Quang Thiệu (vua Lê Chiêu Tông).
 *   **07/05/1516:** Trịnh Duy Sản làm binh biến, giết vua Lê Tương Dực.
-*   **1522:** Mạc Đăng Dung, một võ tướng có nhiều quyền lực, ép vua Lê Chiêu Tông phải chạy khỏi Thăng Long.
+*   **08/05/1516:** Sau khi giết vua Lê Tương Dực, tướng Trịnh Duy Sản tôn lập hoàng tử Lê Quang Trị (8 tuổi) lên ngôi vua. Sau 3 ngày, trước sự tấn công của tướng Nguyễn Hoằng Dụ vào kinh thành, Trịnh Duy Sản đưa vua chạy vào Tây Đô (Thanh Hóa); Lê Quang Trị sau đó bị sát hại và triều thần tôn lập hoàng tử Lê Y lên thay (vua Lê Chiêu Tông).
+*   **1522:** Mạc Đăng Dung ép vua Lê Chiêu Tông phải chạy khỏi Thăng Long, đồng thời tôn lập em vua là Lê Xuân lên ngôi hoàng đế, đặt niên hiệu Thống Nguyên (vua Lê Cung Hoàng).
 *   **1526:** Mạc Đăng Dung sai người bí mật giết vua Lê Chiêu Tông.
 
 ### **Thời kỳ Nhà Mạc và Chiến tranh Nam - Bắc triều (1527 - 1592)**
@@ -950,6 +952,7 @@
 *   **1776:** Nguyễn Nhạc cho sửa sang thành Đồ Bàn (Quy Nhơn) để làm căn cứ cho nhà Tây Sơn.
 *   **Đầu 1776:** Lê Quý Đôn được triều đình Lê - Trịnh cử làm Hiệp trấn tham tán quân cơ trấn Thuận Hóa, tại đây ông đã biên soạn bộ sách *Phủ Biên Tạp Lục*. Tác phẩm này ghi chép chi tiết về việc các đời chúa Nguyễn (từ thời Chúa Tiên Nguyễn Hoàng, Chúa Sãi Nguyễn Phúc Nguyên đến Chúa Minh Nguyễn Phúc Chu, Chúa Võ Nguyễn Phúc Khoát) đã liên tục tổ chức, quản lý Đội Hoàng Sa (70 suất xã An Vĩnh) và Đội Bắc Hải định kỳ từ tháng hai đến tháng tám âm lịch hàng năm để thực thi chủ quyền tại quần đảo Hoàng Sa và Vạn Lý Trường Sa.
 *   **03/1776:** Nguyễn Nhạc tự xưng là Tây Sơn Vương tại thành Quy Nhơn.
+*   **11/1776 (Tháng 10 năm Bính Thân):** Tướng Lý Tài đón Hoàng tôn Nguyễn Phúc Dương về Gia Định tôn làm Tân Chính Vương để củng cố quyền lực quân sự của họ Nguyễn, đồng thời tôn chúa Định Vương Nguyễn Phúc Thuần lên làm Thái Thượng Vương.
 *   **1777:** Nguyễn Huệ tiến đánh Gia Định, tiêu diệt gần hết lực lượng của chúa Nguyễn. Chúa Nguyễn Phúc Thuần và Tân Chính vương Nguyễn Phúc Dương đều bị bắt và bị giết. Nguyễn Ánh (cháu chúa Nguyễn) chạy thoát ra đảo Thổ Châu.
 *   **19/09/1777:** Tân Chính vương Nguyễn Phúc Dương bị quân Tây Sơn bắt và giết tại Ba Vác.
 *   **18/10/1777:** Chúa Nguyễn Phúc Thuần (Duệ Tông) bị quân Tây Sơn bắt và giết tại Long Xuyên. Nguyễn Ánh may mắn thoát chết trong cuộc truy sát này, trở thành người kế thừa duy nhất của dòng họ Nguyễn để tiếp tục cuộc chiến.

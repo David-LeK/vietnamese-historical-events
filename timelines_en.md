@@ -38,8 +38,8 @@
 *   **Approximately 500 BC:** Dong Nai Culture period (Southeast region), a metallurgical culture connecting the Bronze and Iron Ages.
 *   **Around 500 BC:** Dong Son bronze casting reached its artistic zenith with the creation of the Ngoc Lu and Hoang Ha bronze drums, reflecting spiritual life, agricultural production, and superior metallurgical technology of the ancient Vietnamese.
 *   **Around the 3rd - 2nd century BC:** Buddhism was introduced to Vietnam by sea from India. This was the earliest religion to arrive and has been localized, becoming a dominant ideology in national culture throughout many historical periods.
-*   **258 BC:** An Duong Vuong (Thuc Phan) annexed the Van Lang nation, ending the era of the Hung Kings.
-*   **257 BC:** An Duong Vuong changed the national title to Au Lac, moving the capital to Phong Khe (Co Loa).
+*   **258 BC:** Thuc Phan (chieftain of the Tay Au / Au Viet tribes) launched a military offensive against Van Lang. With the late Van Lang court weakened and caught unprepared, the forces of the 18th Hung King (Hung Due Vuong) were defeated. Thuc Phan conquered the realm, officially concluding the era of the 18 Hung Kings' reign under the Hong Bang Clan.
+*   **257 BC:** Thuc Phan ascended the throne as An Duong Vuong, unified the Tay Au and Lac Viet peoples, changed the national title to Au Lac, and moved the capital from Phong Chau to Phong Khe (Co Loa).
 *   **257 BC:** Thuc Phan An Duong Vuong erected a sacred stone oath pillar on the peak of Nghia Linh Mountain (Phong Chau), swearing eternal preservation of the realm handed down by the Hung Kings.
 *   **255 BC:** An Duong Vuong constructed the Loa Thanh (Co Loa Citadel).
 *   **Around 250 BC:** General Cao Lo (Cao Thong) successfully invented the "Lianzhou Crossbow" (Magic Crossbow), capable of firing multiple bronze arrows simultaneously, becoming a strategic defensive weapon for Co Loa Citadel of Au Lac.
@@ -54,7 +54,8 @@
 *   **179 BC:** Trieu Da conquered the Au Lac kingdom. This event is associated with the tragic legend of the love story of Trong Thuy and My Chau.
 *   **137 BC:** Zhao Tuo passed away at over 100 years old after nearly 70 years of reign. His grandson Zhao Mo succeeded him as King Wen of Nanyue (Trieu Van Vuong).
 *   **135 BC:** The Minyue kingdom invaded Nanyue. King Wen of Nanyue requested Emperor Wu of Han to intervene; the Han dynasty sent troops to attack Minyue, causing Nanyue to become increasingly subject to Han diplomatic influence.
-*   **113 BC:** Emperor Wu of Han sent An Guo Shaogui as an envoy to Nanyue to persuade Queen Dowager Cu and King Zhao Xing to submit Nanyue fully to the Han dynasty.
+*   **125 BC:** King Trieu Van Vuong (Zhao Mo) passed away. His son Trieu Anh Te (Zhao Yingqi) ascended the throne of Nam Viet as King Trieu Minh Vuong (reigning 125 BC - 113 BC).
+*   **113 BC:** King Trieu Minh Vuong passed away, and his young son Trieu Hung ascended the throne as King Trieu Ai Vuong (reigning 113 BC - 112 BC), with Queen Dowager Cu serving as regent. In the same year, Emperor Wu of Han sent An Guo Shaogui as an envoy to Nanyue to persuade Queen Dowager Cu and King Zhao Xing to submit Nanyue fully to the Han dynasty.
 *   **November 112 BC:** Prime Minister Lu Jia (Lua Gia) led an uprising with generals to protect sovereignty, executing Queen Dowager Cu, King Zhao Xing, and Han envoy An Guo Shaogui, enthroning Zhao Jiande as king (King Shuai of Nanyue) to resist annexation.
 *   **April 111 BC:** Han forces commanded by Lu Bode and Yang Pu numbering 100,000 troops captured Panyu. Lu Jia and Zhao Jiande were captured and executed. The Nanyue kingdom collapsed; the Han dynasty divided its territory into 9 commanderies (including Jiaozhi, Jiuzhen, and Yinan), starting the First Northern Domination period.
 *   **106 BC:** Emperor Wu of Han organized the southern commanderies into Jiaozhi Circuit (comprising 9 commanderies), appointing a Circuit Inspector (Thu su) based at Luy Lau to oversee administrative affairs.
@@ -726,7 +727,8 @@
 *   **1516:** The major uprising of Tran Cao broke out in Dong Trieu (Quang Ninh). The rebels shaved their heads, earning them the name "three-tuft army," and at one point captured Thang Long.
 *   **1516 (5th lunar month, Binh Ty year):** Following the regicide of Emperor Le Tuong Duc by commander Trinh Duy San, the imperial clan and court ministers enthroned Prince Le Y (grandson of Emperor Le Thanh Tong) in Thang Long, adopting the era name Quang Thieu (Emperor Le Chieu Tong).
 *   **May 7, 1516:** Trinh Duy San staged a coup and killed King Le Tuong Duc.
-*   **1522:** Mac Dang Dung, a powerful military general, forced King Le Chieu Tong to flee Thang Long.
+*   **May 08, 1516:** After assassinating King Le Tuong Duc, General Trinh Duy San enthroned 8-year-old prince Le Quang Tri. Three days later, facing an assault on the capital by rival general Nguyen Hoang Du, San evacuated the young king to Tay Do (Thanh Hoa); Le Quang Tri was subsequently killed and the court enthroned Prince Le Y instead (King Le Chieu Tong).
+*   **1522:** Mac Dang Dung forced King Le Chieu Tong to flee Thang Long and enthroned the king's younger brother Le Xuan as emperor, adopting the era name Thong Nguyen (King Le Cung Hoang).
 *   **1526:** Mac Dang Dung sent someone to secretly assassinate King Le Chieu Tong.
 
 ### **Mac Dynasty and North-South Dynasties War Period (1527 - 1592)**
@@ -950,6 +952,7 @@
 *   **1776:** Nguyen Nhac repaired and expanded the Do Ban citadel to serve as the base for the Tay Son forces.
 *   **Early 1776:** Le Quy Don was appointed Vice Governor (Hiep Tran) of Thuan Hoa by the Trinh court, where he compiled the foundational work *Phu Bien Tap Luc*. This work documented in detail how successive Nguyen Lords (from Lord Tien Nguyen Hoang and Lord Sai Nguyen Phuc Nguyen to Lord Minh Nguyen Phuc Chu and Lord Vo Nguyen Phuc Khoat) continuously organized and administered the Hoang Sa (70 recruits from An Vinh village) and Bac Hai flotillas annually from the second to eighth lunar months to assert sovereignty over the Paracel (Hoang Sa) and Spratly (Van Ly Truong Sa) archipelagos.
 *   **Mar. 1776:** Nguyen Nhac proclaimed himself King of Tay Son (Tay Son Vuong) at Quy Nhon Citadel.
+*   **November 1776 (10th lunar month, Binh Than year):** General Ly Tai escorted Prince Nguyen Phuc Duong to Gia Dinh, enthroning him as Tan Chinh Vuong to consolidate the military authority of the Nguyen lords, while elevating Dinh Vuong Nguyen Phuc Thuan to Thai Thuong Vuong (Supreme Lord).
 *   **1777:** Nguyen Hue advanced to attack Gia Dinh, annihilating almost all of the Nguyen lords' forces. Lord Nguyen Phuc Thuan and the new king Nguyen Phuc Duong were both captured and killed. Nguyen Anh (nephew of the Nguyen lord) escaped to Tho Chau island.
 *   **Sep. 19, 1777:** The new Nguyen King, Nguyen Phuc Duong (Tan Chinh Vuong), was captured and killed by Tay Son forces at Ba Vac.
 *   **Oct. 18, 1777:** Lord Nguyen Phuc Thuan (Due Tong) was captured and killed by Tay Son forces at Long Xuyen. This event effectively wiped out the direct leadership of the Nguyen Lords, leaving the young Nguyen Anh as the sole survivor to continue the struggle.

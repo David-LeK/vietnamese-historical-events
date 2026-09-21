@@ -6,6 +6,11 @@ Events are aggregated from various sources across the Internet.
 
 You can access the web version here: https://david-lek.github.io/vietnamese-historical-events/
 
+## 🗺️ Dynasties & Historical Timeline (Mermaid Charts)
+
+You can explore the comprehensive Mermaid charts covering Vietnamese history across all eras, dynasties, and individual monarchs at:
+👉 **[Vietnamese Historical Mermaid Charts](VIETNAM_HISTORICAL_MERMAID_CHART.md)**
+
 ## 📜 Event Selection Criteria
 
 This repository prioritizes aggregating and selecting events based on the following standardized criteria:
