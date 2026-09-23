@@ -162,7 +162,27 @@ def main():
             ev_vi = events_vi[j] if j < len(events_vi) else {'dateStr': ev_en['dateStr'], 'desc': ev_en['desc'], 'subItems': ev_en['subItems'], 'images': []}
             
             d_info = extract_date_info(ev_en['dateStr'], ev_vi['dateStr'])
-            images = ev_vi.get('images', []) or ev_en.get('images', [])
+            images_vi = ev_vi.get('images', [])
+            images_en = ev_en.get('images', [])
+            images = []
+            max_img_len = max(len(images_vi), len(images_en))
+            for k in range(max_img_len):
+                img_v = images_vi[k] if k < len(images_vi) else {}
+                img_e = images_en[k] if k < len(images_en) else {}
+                path = img_v.get('path') or img_e.get('path', '')
+                alt_vi = img_v.get('alt') or 'Hình ảnh tư liệu'
+                alt_en = img_e.get('alt') or 'Historical Image'
+                source_vi = img_v.get('source') or img_e.get('source', '')
+                source_en = img_e.get('source') or img_v.get('source', '')
+                images.append({
+                    'path': path,
+                    'alt': alt_vi,
+                    'altVi': alt_vi,
+                    'altEn': alt_en,
+                    'source': source_vi,
+                    'sourceVi': source_vi,
+                    'sourceEn': source_en
+                })
             
             events.append({
                 'id': event_id,

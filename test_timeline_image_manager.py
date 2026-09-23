@@ -99,8 +99,14 @@ class TestTimelineImageManager(unittest.TestCase):
         self.mgr.embed_markdown(self.test_vi, out_vi, is_vi=True)
 
         content = out_vi.read_text(encoding="utf-8")
-        self.assertIn("![Image](images/", content)
+        self.assertIn("![Hình ảnh tư liệu](images/", content)
         self.assertIn("*Nguồn: Vietnam News Agency*", content)
+
+        out_en = self.test_dir / "out_en.md"
+        self.mgr.embed_markdown(self.test_en, out_en, is_vi=False)
+        content_en = out_en.read_text(encoding="utf-8")
+        self.assertIn("![Historical Image](images/", content_en)
+        self.assertIn("*Source: Vietnam News Agency*", content_en)
 
     def test_cli_commands(self):
         # 1. CLI search

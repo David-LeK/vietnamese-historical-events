@@ -598,8 +598,9 @@ class TimelineImageManager:
                         img_link = "/" + norm_path
                     else:
                         img_link = norm_path
+                    alt_label = "Hình ảnh tư liệu" if is_vi else "Historical Image"
                     result.append("")
-                    result.append(f"![Image]({img_link})")
+                    result.append(f"![{alt_label}]({img_link})")
                     if source:
                         result.append("")
                         result.append(f"*Nguồn: {source}*" if is_vi else f"*Source: {source}*")
