@@ -8,6 +8,8 @@
   
   <!-- Tailwind CSS CDN -->
   <script src="https://cdn.tailwindcss.com"></script>
+  <!-- JSZip CDN for in-memory images.zip extraction -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
   
   <!-- Google Fonts: Lora, Be Vietnam Pro & Playfair Display (Full Vietnamese Diacritics Support) -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -488,6 +490,12 @@
           <h4 class="text-xs font-bold text-parchment-accent uppercase tracking-wider" data-i18n="lblSubDetails">Chi tiết liên quan:</h4>
           <ul id="modal-subs-list" class="list-disc text-sm text-parchment-text/90 space-y-1.5 pl-5"></ul>
         </div>
+
+        <!-- Event Images in Detail Modal -->
+        <div id="modal-images-container" class="hidden space-y-3 pt-3 border-t border-parchment-gold/40">
+          <h4 class="text-xs font-bold text-parchment-accent uppercase tracking-wider" data-i18n="lblImages">Hình ảnh tư liệu:</h4>
+          <div id="modal-images-list" class="grid grid-cols-1 gap-3"></div>
+        </div>
       </div>
 
       <!-- Modal Footer -->
@@ -503,6 +511,24 @@
         </button>
       </div>
 
+    </div>
+  </div>
+
+  <!-- Lightbox Fullscreen Image Modal -->
+  <div id="lightbox-modal" class="hidden fixed inset-0 z-[60] flex items-center justify-center p-3 sm:p-6 bg-black/85 backdrop-blur-md transition-opacity duration-200">
+    <div class="relative max-w-4xl w-full max-h-[90vh] flex flex-col bg-[#F4EBD0] dark:bg-[#1a140e] border-2 border-parchment-gold rounded-xl overflow-hidden shadow-2xl border-illuminated">
+      <div class="bg-parchment-card border-b border-parchment-gold p-3 sm:p-4 flex items-center justify-between">
+        <h4 id="lightbox-caption" class="font-display font-bold text-xs sm:text-sm text-parchment-accent truncate pr-4"></h4>
+        <button id="btn-close-lightbox" class="p-1 rounded-md text-parchment-subtle hover:text-parchment-accent hover:bg-parchment-gold/30">
+          <svg class="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6 6 18M6 6l12 12"/></svg>
+        </button>
+      </div>
+      <div class="flex-1 overflow-auto flex items-center justify-center p-3 bg-black/10 min-h-[250px]">
+        <img id="lightbox-img" src="" alt="" class="max-h-[68vh] w-auto max-w-full object-contain rounded-lg shadow-md" />
+      </div>
+      <div class="bg-parchment-card border-t border-parchment-gold p-3 text-center">
+        <p id="lightbox-source" class="text-xs italic text-parchment-subtle font-medium"></p>
+      </div>
     </div>
   </div>
 
@@ -572,6 +598,8 @@
           footerTitle: "Dòng Thời Gian Lịch Sử Việt Nam",
           footerSub: "Tài liệu tổng hợp các mốc sự kiện quan trọng trong lịch sử dân tộc theo thứ tự thời gian.",
           lblSubDetails: "Chi tiết liên quan:",
+          lblImages: "Hình ảnh tư liệu:",
+          lblViewFull: "Xem ảnh phóng to",
           btnCopy: "Sao Chép Trích Dẫn",
           btnBookmark: "Lưu Sự Kiện",
           btnBookmarked: "Đã Lưu Sự Kiện",
@@ -634,6 +662,8 @@
           footerTitle: "Vietnamese Historical Timelines",
           footerSub: "Comprehensive historical record of key Vietnamese milestones in chronological order.",
           lblSubDetails: "Related details:",
+          lblImages: "Historical Images & Documents:",
+          lblViewFull: "View full size",
           btnCopy: "Copy Citation",
           btnBookmark: "Bookmark Event",
           btnBookmarked: "Bookmarked Event",
@@ -678,6 +708,8 @@
       let typewriterTimer = null;
       let currentPage = 1;
       const ITEMS_PER_PAGE = 35;
+      let imageBlobMap = {};
+      let isZipLoaded = false;
 
       // Utility: Format numbers according to locale ('.' for VI, ',' for EN)
       function formatNumber(num) {
@@ -724,8 +756,17 @@
       const modalDescMain = document.getElementById('modal-desc-main');
       const modalSubsContainer = document.getElementById('modal-subs-container');
       const modalSubsList = document.getElementById('modal-subs-list');
+      const modalImagesContainer = document.getElementById('modal-images-container');
+      const modalImagesList = document.getElementById('modal-images-list');
       const btnModalCopy = document.getElementById('btn-modal-copy');
       const btnModalBookmark = document.getElementById('btn-modal-bookmark');
+
+      // Lightbox
+      const lightboxModal = document.getElementById('lightbox-modal');
+      const lightboxImg = document.getElementById('lightbox-img');
+      const lightboxCaption = document.getElementById('lightbox-caption');
+      const lightboxSource = document.getElementById('lightbox-source');
+      const btnCloseLightbox = document.getElementById('btn-close-lightbox');
 
       const modalBookmarks = document.getElementById('modal-bookmarks');
       const btnCloseBookmarks = document.getElementById('btn-close-bookmarks');
@@ -737,8 +778,80 @@
       const viewGridBtn = document.getElementById('view-grid');
       const viewTableBtn = document.getElementById('view-table');
 
+      // In-Memory Zip Extraction for Event Images
+      async function loadImagesZip() {
+        if (typeof JSZip === 'undefined') return;
+        try {
+          const response = await fetch('images/images.zip');
+          if (!response.ok) return;
+          const blob = await response.blob();
+          const zip = await JSZip.loadAsync(blob);
+          const promises = [];
+          zip.forEach((relativePath, zipEntry) => {
+            if (!zipEntry.dir && (relativePath.endsWith('.webp') || relativePath.endsWith('.jpg') || relativePath.endsWith('.jpeg') || relativePath.endsWith('.png'))) {
+              const ext = relativePath.split('.').pop().toLowerCase();
+              const mimeType = ext === 'webp' ? 'image/webp' : ext === 'png' ? 'image/png' : 'image/jpeg';
+              promises.push(
+                zipEntry.async('uint8array').then(u8 => {
+                  const imgBlob = new Blob([u8], { type: mimeType });
+                  const url = URL.createObjectURL(imgBlob);
+                  const fname = relativePath.split('/').pop();
+                  imageBlobMap[fname] = url;
+                  imageBlobMap['images/' + fname] = url;
+                })
+              );
+            }
+          });
+          await Promise.all(promises);
+          window.imageBlobMap = imageBlobMap;
+          isZipLoaded = true;
+          updateRenderedImages();
+        } catch (err) {
+          console.warn('Could not load or extract images.zip:', err);
+        }
+      }
+
+      function getImageSrc(path) {
+        if (!path) return '';
+        const fname = path.split('/').pop();
+        return imageBlobMap[fname] || imageBlobMap[path] || path;
+      }
+
+      function updateRenderedImages() {
+        document.querySelectorAll('img[data-img-path]').forEach(imgEl => {
+          const p = imgEl.getAttribute('data-img-path');
+          const newSrc = getImageSrc(p);
+          if (newSrc && imgEl.src !== newSrc) {
+            imgEl.src = newSrc;
+          }
+        });
+      }
+
+      function openLightbox(src, caption, source) {
+        if (!lightboxModal || !lightboxImg) return;
+        lightboxImg.src = src;
+        lightboxCaption.textContent = caption || (currentLang === 'vi' ? 'Hình ảnh tư liệu' : 'Historical Image');
+        if (source) {
+          lightboxSource.textContent = (currentLang === 'vi' ? 'Nguồn: ' : 'Source: ') + source;
+          lightboxSource.parentElement.classList.remove('hidden');
+        } else {
+          lightboxSource.textContent = '';
+          lightboxSource.parentElement.classList.add('hidden');
+        }
+        lightboxModal.classList.remove('hidden');
+      }
+
+      function closeLightbox() {
+        if (!lightboxModal) return;
+        lightboxModal.classList.add('hidden');
+        if (lightboxImg) lightboxImg.src = '';
+      }
+
+      window.openLightbox = openLightbox;
+
       // Initialize App
       function init() {
+        loadImagesZip();
         populateDayOptions();
         populateMonthOptions();
         populateEraOptions();
@@ -932,6 +1045,25 @@
 
         // Random Event
         btnRandomEvent.addEventListener('click', showRandomEvent);
+
+        // Lightbox Modal
+        btnCloseLightbox.addEventListener('click', closeLightbox);
+        lightboxModal.addEventListener('click', (e) => {
+          if (e.target === lightboxModal) closeLightbox();
+        });
+
+        // Global Escape Key Listener for Modals
+        window.addEventListener('keydown', (e) => {
+          if (e.key === 'Escape') {
+            if (lightboxModal && !lightboxModal.classList.contains('hidden')) {
+              closeLightbox();
+            } else if (modalDetail && !modalDetail.classList.contains('hidden')) {
+              modalDetail.classList.add('hidden');
+            } else if (modalBookmarks && !modalBookmarks.classList.contains('hidden')) {
+              modalBookmarks.classList.add('hidden');
+            }
+          }
+        });
       }
 
       function setViewMode(mode) {
@@ -1231,6 +1363,37 @@
             const descStr = currentLang === 'vi' ? ev.descVi : ev.descEn;
             const subs = currentLang === 'vi' ? ev.subsVi : ev.subsEn;
             const isBookmarked = bookmarks.includes(ev.id);
+            const hasImages = ev.images && ev.images.length > 0;
+
+            let imagesHtml = '';
+            if (hasImages) {
+              imagesHtml = `
+                <div class="mt-3.5 grid grid-cols-1 sm:grid-cols-2 gap-3">
+                  ${ev.images.map(img => {
+                    const src = getImageSrc(img.path);
+                    const alt = escapeHtml(img.alt || '');
+                    const source = escapeHtml(img.source || '');
+                    return `
+                      <div class="timeline-img-card group/img relative rounded-lg border border-parchment-gold/70 overflow-hidden bg-black/5 hover:border-parchment-accent shadow-sm transition-all hover:shadow-md cursor-zoom-in" data-img-path="${img.path}" data-alt="${alt}" data-source="${source}">
+                        <div class="aspect-video w-full overflow-hidden bg-black/10 relative">
+                          <img src="${src}" data-img-path="${img.path}" alt="${alt}" loading="lazy" class="w-full h-full object-cover group-hover/img:scale-105 transition-transform duration-300">
+                          <div class="absolute inset-0 bg-black/20 opacity-0 group-hover/img:opacity-100 transition-opacity flex items-center justify-center text-white text-xs font-bold gap-1">
+                            <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/><path d="M11 8v6M8 11h6"/></svg>
+                            <span>${i18n[currentLang].lblViewFull}</span>
+                          </div>
+                        </div>
+                        ${(img.alt || img.source) ? `
+                          <div class="p-2 text-xs bg-parchment-card/95 border-t border-parchment-gold/40">
+                            ${img.alt ? `<p class="font-semibold text-parchment-accent line-clamp-1">${alt}</p>` : ''}
+                            ${img.source ? `<p class="italic text-parchment-subtle text-[11px] truncate mt-0.5">${currentLang === 'vi' ? 'Nguồn:' : 'Source:'} ${source}</p>` : ''}
+                          </div>
+                        ` : ''}
+                      </div>
+                    `;
+                  }).join('')}
+                </div>
+              `;
+            }
 
             const card = document.createElement('div');
             card.className = 'relative bg-parchment-card/90 hover:bg-parchment-card border border-parchment-gold/70 hover:border-parchment-accent rounded-lg p-4 sm:p-5 shadow-parchment hover:shadow-elevated transition-all duration-200 group hover:-translate-y-0.5 cursor-pointer';
@@ -1260,7 +1423,20 @@
                   ${subs.map(s => `<li>${highlightText(s, query)}</li>`).join('')}
                 </ul>
               ` : ''}
+
+              ${imagesHtml}
             `;
+
+            card.querySelectorAll('.timeline-img-card').forEach(imgCard => {
+              imgCard.addEventListener('click', (e) => {
+                e.stopPropagation();
+                const p = imgCard.getAttribute('data-img-path');
+                const src = getImageSrc(p);
+                const alt = imgCard.getAttribute('data-alt');
+                const source = imgCard.getAttribute('data-source');
+                openLightbox(src, alt, source);
+              });
+            });
 
             card.addEventListener('click', (e) => {
               if (e.target.closest('.btn-bookmark-item')) {
@@ -1290,6 +1466,34 @@
           const era = window.TIMELINE_ERAS[ev.eraIndex];
           const eraTitle = currentLang === 'vi' ? era.titleVi : era.titleEn;
           const isBookmarked = bookmarks.includes(ev.id);
+          const hasImages = ev.images && ev.images.length > 0;
+
+          let gridImgHtml = '';
+          if (hasImages) {
+            const firstImg = ev.images[0];
+            const src = getImageSrc(firstImg.path);
+            const alt = escapeHtml(firstImg.alt || '');
+            const source = escapeHtml(firstImg.source || '');
+            gridImgHtml = `
+              <div class="grid-img-card mt-3 relative rounded-lg border border-parchment-gold/70 overflow-hidden bg-black/5 group/img cursor-zoom-in hover:border-parchment-accent transition-colors" data-img-path="${firstImg.path}" data-alt="${alt}" data-source="${source}">
+                <div class="aspect-video w-full overflow-hidden bg-black/10 relative">
+                  <img src="${src}" data-img-path="${firstImg.path}" alt="${alt}" loading="lazy" class="w-full h-full object-cover group-hover/img:scale-105 transition-transform duration-300">
+                  <div class="absolute inset-0 bg-black/20 opacity-0 group-hover/img:opacity-100 transition-opacity flex items-center justify-center text-white text-xs font-bold gap-1">
+                    <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/><path d="M11 8v6M8 11h6"/></svg>
+                    <span>${i18n[currentLang].lblViewFull}</span>
+                  </div>
+                  ${ev.images.length > 1 ? `
+                    <span class="absolute bottom-2 right-2 bg-black/70 text-white text-[11px] font-bold px-1.5 py-0.5 rounded backdrop-blur-sm">+${ev.images.length - 1}</span>
+                  ` : ''}
+                </div>
+                ${alt ? `
+                  <div class="p-2 text-xs bg-parchment-card/95 border-t border-parchment-gold/40">
+                    <p class="font-semibold text-parchment-accent line-clamp-1">${alt}</p>
+                  </div>
+                ` : ''}
+              </div>
+            `;
+          }
 
           const card = document.createElement('div');
           card.className = 'bg-parchment-card/90 hover:bg-parchment-card border border-parchment-gold/70 hover:border-parchment-accent rounded-lg p-5 shadow-parchment hover:shadow-elevated transition-all duration-200 flex flex-col justify-between group hover:-translate-y-1 cursor-pointer';
@@ -1314,6 +1518,8 @@
                   ${subs.map(s => `<li>${highlightText(s, query)}</li>`).join('')}
                 </ul>
               ` : ''}
+
+              ${gridImgHtml}
             </div>
 
             <div class="mt-4 pt-3 border-t border-parchment-gold/30 flex items-center justify-between text-xs text-parchment-subtle">
@@ -1321,6 +1527,17 @@
               <span class="font-bold text-parchment-accent group-hover:translate-x-1 transition-transform">→</span>
             </div>
           `;
+
+          card.querySelectorAll('.grid-img-card').forEach(imgCard => {
+            imgCard.addEventListener('click', (e) => {
+              e.stopPropagation();
+              const p = imgCard.getAttribute('data-img-path');
+              const src = getImageSrc(p);
+              const alt = imgCard.getAttribute('data-alt');
+              const source = imgCard.getAttribute('data-source');
+              openLightbox(src, alt, source);
+            });
+          });
 
           card.addEventListener('click', (e) => {
             if (e.target.closest('.btn-bookmark-item')) {
@@ -1363,6 +1580,8 @@
           const eraTitle = currentLang === 'vi' ? era.titleVi : era.titleEn;
           const isBookmarked = bookmarks.includes(ev.id);
 
+          const hasImages = ev.images && ev.images.length > 0;
+
           html += `
             <tr class="hover:bg-parchment-gold/20 transition-colors cursor-pointer" data-id="${ev.id}">
               <td class="p-3.5 font-bold text-parchment-accent whitespace-nowrap align-top">${highlightText(dateStr, query)}</td>
@@ -1372,6 +1591,14 @@
                   <ul class="mt-2 pt-1 border-t border-parchment-gold/30 space-y-1 pl-4 list-disc text-xs text-parchment-subtle">
                     ${subs.map(s => `<li>${highlightText(s, query)}</li>`).join('')}
                   </ul>
+                ` : ''}
+                ${hasImages ? `
+                  <div class="mt-2 flex items-center gap-2">
+                    <span class="table-img-btn inline-flex items-center gap-1.5 text-xs font-semibold text-parchment-accent bg-parchment-gold/25 hover:bg-parchment-gold/50 px-2 py-0.5 rounded border border-parchment-gold/60 cursor-pointer transition-colors" data-img-path="${ev.images[0].path}" data-alt="${escapeHtml(ev.images[0].alt || '')}" data-source="${escapeHtml(ev.images[0].source || '')}">
+                      <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect width="18" height="18" x="3" y="3" rx="2" ry="2"/><circle cx="9" cy="9" r="2"/><path d="m21 15-3.086-3.086a2 2 0 0 0-2.828 0L6 21"/></svg>
+                      <span>${ev.images.length} ${currentLang === 'vi' ? 'ảnh' : 'img'}</span>
+                    </span>
+                  </div>
                 ` : ''}
               </td>
               <td class="p-3.5 text-xs text-parchment-subtle whitespace-nowrap align-top">${escapeHtml(eraTitle.substring(0, 30))}...</td>
@@ -1386,6 +1613,17 @@
 
         html += `</tbody></table>`;
         tableCard.innerHTML = html;
+
+        tableCard.querySelectorAll('.table-img-btn').forEach(btn => {
+          btn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            const p = btn.getAttribute('data-img-path');
+            const src = getImageSrc(p);
+            const alt = btn.getAttribute('data-alt');
+            const source = btn.getAttribute('data-source');
+            openLightbox(src, alt, source);
+          });
+        });
 
         tableCard.querySelectorAll('tbody tr').forEach(tr => {
           tr.addEventListener('click', (e) => {
@@ -1422,6 +1660,46 @@
           modalSubsList.innerHTML = subs.map(s => `<li>${parseMarkdown(s)}</li>`).join('');
         } else {
           modalSubsContainer.classList.add('hidden');
+        }
+
+        // Render Modal Images
+        if (ev.images && ev.images.length > 0) {
+          modalImagesContainer.classList.remove('hidden');
+          modalImagesList.innerHTML = ev.images.map(img => {
+            const src = getImageSrc(img.path);
+            const alt = escapeHtml(img.alt || '');
+            const source = escapeHtml(img.source || '');
+            return `
+              <div class="rounded-lg border border-parchment-gold/80 overflow-hidden bg-parchment-card shadow-sm">
+                <div class="modal-detail-img-card relative bg-black/10 flex items-center justify-center cursor-zoom-in group" data-img-path="${img.path}" data-alt="${alt}" data-source="${source}">
+                  <img src="${src}" data-img-path="${img.path}" alt="${alt}" class="max-h-72 w-auto mx-auto object-contain transition-transform group-hover:scale-[1.02]">
+                  <div class="absolute inset-0 bg-black/25 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center text-white text-xs font-bold gap-1.5">
+                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/><path d="M11 8v6M8 11h6"/></svg>
+                    <span>${i18n[currentLang].lblViewFull}</span>
+                  </div>
+                </div>
+                ${(img.alt || img.source) ? `
+                  <div class="p-3 text-xs bg-parchment-card border-t border-parchment-gold/40">
+                    ${img.alt ? `<p class="font-bold text-parchment-accent text-sm mb-1">${alt}</p>` : ''}
+                    ${img.source ? `<p class="text-parchment-subtle italic">${currentLang === 'vi' ? 'Nguồn:' : 'Source:'} ${source}</p>` : ''}
+                  </div>
+                ` : ''}
+              </div>
+            `;
+          }).join('');
+
+          modalImagesList.querySelectorAll('.modal-detail-img-card').forEach(cardEl => {
+            cardEl.addEventListener('click', () => {
+              const p = cardEl.getAttribute('data-img-path');
+              const src = getImageSrc(p);
+              const alt = cardEl.getAttribute('data-alt');
+              const source = cardEl.getAttribute('data-source');
+              openLightbox(src, alt, source);
+            });
+          });
+        } else {
+          modalImagesContainer.classList.add('hidden');
+          modalImagesList.innerHTML = '';
         }
 
         updateModalBookmarkBtn(eventId);

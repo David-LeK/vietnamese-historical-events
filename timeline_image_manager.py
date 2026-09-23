@@ -1,24 +1,46 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import tkinter as tk
-from tkinter import ttk, filedialog, messagebox, simpledialog
+import argparse
+import datetime
+import difflib
+import io
 import json
 import os
-import subprocess
-import shutil
-import difflib
-import re
-import uuid
-import io
-import datetime
 from pathlib import Path
+import re
+import shutil
+import ssl
+import subprocess
+import sys
+import urllib.request
+import uuid
 
 try:
-    from PIL import Image, ImageTk, ImageGrab
+    import tkinter as tk
+    from tkinter import ttk, filedialog, messagebox, simpledialog
+    HAS_TKINTER = True
+except (ImportError, ModuleNotFoundError):
+    HAS_TKINTER = False
+    tk = None
+    ttk = None
+    filedialog = None
+    messagebox = None
+    simpledialog = None
+
+try:
+    from PIL import Image
     HAS_PIL = True
 except ImportError:
     HAS_PIL = False
+
+try:
+    from PIL import ImageTk, ImageGrab
+    HAS_PIL_TK = True
+except (ImportError, Exception):
+    HAS_PIL_TK = False
+    ImageTk = None
+    ImageGrab = None
 
 BASE_DIR = Path(__file__).parent.resolve()
 IMAGES_DIR = BASE_DIR / "images"
@@ -30,10 +52,8 @@ THUMB_SIZE = (160, 120)
 
 
 class TimelineImageManager:
-    def __init__(self, root):
+    def __init__(self, root=None):
         self.root = root
-        self.root.title("Timeline Image Manager")
-        self.root.geometry("1300x750")
 
         self.vi_lines = []
         self.en_lines = []
@@ -42,16 +62,27 @@ class TimelineImageManager:
         self.thumb_refs = {}
         self.selected_remove_indices = set()
         self.source_vars = {}
+        self.status_var = None
 
-        self._setup_dark_theme()
+        if self.root is not None:
+            if not HAS_TKINTER:
+                raise RuntimeError("Tkinter is not installed on this system.")
+            self.root.title("Timeline Image Manager")
+            self.root.geometry("1300x750")
+            self._setup_dark_theme()
+
         self.git_commit_id = self.get_git_commit_id()
         self.load_timelines()
         self.load_json_with_migration()
-        self.setup_ui()
-        self.refresh_line_list()
-        self.update_status()
+
+        if self.root is not None:
+            self.setup_ui()
+            self.refresh_line_list()
+            self.update_status()
 
     def _setup_dark_theme(self):
+        if self.root is None or not HAS_TKINTER:
+            return
         self.root.configure(bg="#2b2b2b")
         style = ttk.Style()
         style.theme_use("clam")
@@ -81,11 +112,17 @@ class TimelineImageManager:
         style.configure("Horizontal.TScrollbar", background=c["scrollbar_bg"], troughcolor=c["scrollbar_trough"], arrowcolor=c["fg"], bordercolor=c["scrollbar_trough"], lightcolor=c["scrollbar_trough"], darkcolor=c["scrollbar_trough"])
 
     def _git_run(self, args):
+        kwargs = {
+            "capture_output": True,
+            "text": True,
+            "encoding": "utf-8",
+            "errors": "replace",
+            "cwd": BASE_DIR,
+        }
+        if hasattr(subprocess, "CREATE_NO_WINDOW"):
+            kwargs["creationflags"] = subprocess.CREATE_NO_WINDOW
         try:
-            return subprocess.run(
-                args, capture_output=True, text=True, encoding="utf-8", errors="replace",
-                cwd=BASE_DIR, creationflags=subprocess.CREATE_NO_WINDOW
-            )
+            return subprocess.run(args, **kwargs)
         except Exception:
             return None
 
@@ -286,7 +323,10 @@ class TimelineImageManager:
             migrated_count = sum(len(v) for v in self.images_per_line.values())
             total_old = sum(len(v) for v in old_images.values())
             status = f"Migrated: {total_old} old images -> {migrated_count} new"
-            self.root.after(100, lambda: self.show_info(f"Lines changed since last save.\n{status}"))
+            if self.root is not None:
+                self.root.after(100, lambda: self.show_info(f"Lines changed since last save.\n{status}"))
+            else:
+                self.show_info(f"Lines changed since last save: {status}")
             self.auto_save_json()
         else:
             self.images_per_line = old_images
@@ -313,7 +353,10 @@ class TimelineImageManager:
         try:
             return str(full_path.relative_to(BASE_DIR))
         except ValueError:
-            return str(full_path.name)
+            try:
+                return str(Path(IMAGES_DIR.name) / full_path.name)
+            except Exception:
+                return str(full_path.name)
 
     def save_json(self, silent=False):
         self.git_commit_id = self.get_git_commit_id()
@@ -328,7 +371,8 @@ class TimelineImageManager:
                 if p not in seen:
                     seen.add(p)
                     items.append({"path": p, "source": s})
-            serializable[str(ln)] = items
+            if items:
+                serializable[str(ln)] = items
 
         data = {
             "git_commit_id": self.git_commit_id,
@@ -337,11 +381,243 @@ class TimelineImageManager:
         }
         with open(JSON_FILE, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
+        self.create_or_update_zip()
         if not silent:
-            self.show_info("Saved timeline_images.json")
+            self.show_info("Saved timeline_images.json and updated images/images.zip")
         self.update_status()
 
+    @staticmethod
+    def create_or_update_zip(zip_path=None):
+        import zipfile
+        zip_path = Path(zip_path or (IMAGES_DIR / "images.zip"))
+        zip_path.parent.mkdir(parents=True, exist_ok=True)
+        count = 0
+        if IMAGES_DIR.exists():
+            with zipfile.ZipFile(zip_path, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=9) as zf:
+                for f in sorted(os.listdir(IMAGES_DIR)):
+                    if f.endswith(".webp"):
+                        zf.write(IMAGES_DIR / f, arcname=f)
+                        count += 1
+        return zip_path, count
+
+    def sync_from_markdown(self):
+        """
+        Parses timelines_vi.md and timelines_en.md directly to extract embedded images and sources,
+        updating timeline_images.json and images.zip.
+        """
+        self.load_timelines()
+        extracted = {}
+        current_event_line = None
+        event_regex = re.compile(r"^\*\s+\*\*(.*?)(?::\*\*|\*\*:\s*|\*\*\s*:?)")
+        img_regex = re.compile(r"^!\[.*?\]\((.*?)\)")
+        source_regex = re.compile(r"^\*(?:Nguồn|Source):\s*(.*?)\*?$")
+        
+        for idx, line in enumerate(self.vi_lines, start=1):
+            stripped = line.strip()
+            if event_regex.match(line) and not stripped.startswith("![") and not stripped.startswith("*Nguồn") and not stripped.startswith("*Source"):
+                current_event_line = idx
+            elif img_regex.match(stripped) and current_event_line:
+                p = img_regex.match(stripped).group(1).lstrip("/")
+                extracted.setdefault(current_event_line, []).append({"path": p, "source": ""})
+            elif source_regex.match(stripped) and current_event_line:
+                s = source_regex.match(stripped).group(1).rstrip("*").strip()
+                if current_event_line in extracted and extracted[current_event_line]:
+                    extracted[current_event_line][-1]["source"] = s
+                    
+        self.images_per_line = extracted
+        self.save_json(silent=True)
+        return len(extracted)
+
+    def _normalized_image_name(self, ext):
+        IMAGES_DIR.mkdir(parents=True, exist_ok=True)
+        now = datetime.datetime.now()
+        base_name = now.strftime("event_%Y%m%d_%H%M%S")
+        fname = base_name + ext
+        dest = IMAGES_DIR / fname
+        counter = 1
+        while dest.exists():
+            fname = f"{base_name}_{counter}{ext}"
+            dest = IMAGES_DIR / fname
+            counter += 1
+        return dest
+
+    def process_image(self, img):
+        """
+        Resizes PIL image to maximum 1200px width (LANCZOS) and saves as WebP quality 80.
+        Returns the destination Path in IMAGES_DIR.
+        """
+        if not HAS_PIL:
+            raise RuntimeError("PIL/Pillow is required for processing images.")
+        dest = self._normalized_image_name(".webp")
+        img_w, img_h = img.size
+        if img_w > 1200:
+            ratio = 1200.0 / img_w
+            resample_filter = getattr(Image, "Resampling", Image).LANCZOS
+            img = img.resize((1200, int(img_h * ratio)), resample_filter)
+
+        if img.mode in ("RGBA", "P"):
+            img.save(str(dest), "WEBP", quality=80)
+        else:
+            img.convert("RGB").save(str(dest), "WEBP", quality=80)
+        return dest
+
+    def add_image_from_pil(self, line_num, img, source=""):
+        dest = self.process_image(img)
+        rel_path = self.get_relative_image_path(dest)
+        if line_num not in self.images_per_line:
+            self.images_per_line[line_num] = []
+
+        for e in self.images_per_line[line_num]:
+            curr_path = e["path"] if isinstance(e, dict) else e
+            if curr_path == rel_path:
+                return e
+
+        entry = {"path": rel_path, "source": source.strip()}
+        self.images_per_line[line_num].append(entry)
+        self.save_json(silent=True)
+        return entry
+
+    def add_image_from_file(self, line_num, file_path, source=""):
+        src = Path(file_path)
+        if not src.exists():
+            raise FileNotFoundError(f"File not found: {file_path}")
+        if not HAS_PIL:
+            raise RuntimeError("PIL/Pillow is required for adding images.")
+        with Image.open(src) as img:
+            return self.add_image_from_pil(line_num, img, source=source)
+
+    def add_image_from_url(self, line_num, url, source=""):
+        if not HAS_PIL:
+            raise RuntimeError("PIL/Pillow is required for processing images.")
+        headers = {
+            "User-Agent": "VietnameseHistoricalEventsManager/1.0 (https://github.com/David-LeK/vietnamese-historical-events; admin@history.vn)",
+            "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        }
+        ctx = ssl.create_default_context()
+        ctx.check_hostname = False
+        ctx.verify_mode = ssl.CERT_NONE
+
+        req = urllib.request.Request(url, headers=headers)
+        with urllib.request.urlopen(req, context=ctx, timeout=30) as resp:
+            data = resp.read()
+
+        with Image.open(io.BytesIO(data)) as img:
+            final_source = source.strip() if source.strip() else url
+            return self.add_image_from_pil(line_num, img, source=final_source)
+
+    def remove_image(self, line_num, index=None):
+        if line_num not in self.images_per_line:
+            return False
+        if index is None:
+            del self.images_per_line[line_num]
+        else:
+            if 0 <= index < len(self.images_per_line[line_num]):
+                self.images_per_line[line_num].pop(index)
+                if not self.images_per_line[line_num]:
+                    del self.images_per_line[line_num]
+            else:
+                return False
+        self.save_json(silent=True)
+        return True
+
+    def set_image_source(self, line_num, index, source):
+        if line_num not in self.images_per_line:
+            return False
+        images = self.images_per_line[line_num]
+        if 0 <= index < len(images):
+            entry = images[index]
+            if isinstance(entry, str):
+                entry = {"path": entry, "source": ""}
+                images[index] = entry
+            entry["source"] = source.strip()
+            self.save_json(silent=True)
+            return True
+        return False
+
+    def get_line_info(self, line_num):
+        if line_num <= 0:
+            return None
+        max_lines = max(len(self.vi_lines), len(self.en_lines))
+        if line_num > max_lines:
+            return None
+        vi = self.vi_lines[line_num - 1] if line_num <= len(self.vi_lines) else ""
+        en = self.en_lines[line_num - 1] if line_num <= len(self.en_lines) else ""
+        return {
+            "line_num": line_num,
+            "vi": vi,
+            "en": en,
+            "images": self.images_per_line.get(line_num, [])
+        }
+
+    def search_lines(self, query):
+        query_lower = query.lower()
+        max_lines = max(len(self.vi_lines), len(self.en_lines))
+        matches = []
+        for i in range(max_lines):
+            vi = self.vi_lines[i] if i < len(self.vi_lines) else ""
+            en = self.en_lines[i] if i < len(self.en_lines) else ""
+            if query_lower in vi.lower() or query_lower in en.lower():
+                matches.append({
+                    "line_num": i + 1,
+                    "vi": vi,
+                    "en": en,
+                    "images": self.images_per_line.get(i + 1, [])
+                })
+        return matches
+
+    def embed_markdown(self, in_file=None, out_file=None, is_vi=True, use_leading_slash=False):
+        in_path = Path(in_file or (VI_FILE if is_vi else EN_FILE))
+        out_path = Path(out_file or in_path)
+
+        with open(in_path, "r", encoding="utf-8") as f:
+            raw_lines = f.readlines()
+
+        # Clean existing image/source lines from input to prevent duplicates
+        clean_lines = []
+        img_or_source = re.compile(r"^(?:!\[.*?\]\(.*?\)|(?:\*Nguồn:|\*Source:))", re.IGNORECASE)
+        skip_empty_after_img = False
+        for line in raw_lines:
+            stripped = line.strip()
+            if img_or_source.match(stripped):
+                skip_empty_after_img = True
+                continue
+            if stripped == "" and skip_empty_after_img:
+                continue
+            skip_empty_after_img = False
+            clean_lines.append(line.rstrip("\n"))
+
+        result = []
+        for lineno, line in enumerate(clean_lines, start=1):
+            result.append(line)
+            if lineno in self.images_per_line:
+                for entry in self.images_per_line[lineno]:
+                    img_path = entry["path"] if isinstance(entry, dict) else entry
+                    source = entry.get("source", "") if isinstance(entry, dict) else ""
+                    norm_path = img_path.replace("\\", "/")
+                    if use_leading_slash and not norm_path.startswith("/"):
+                        img_link = "/" + norm_path
+                    else:
+                        img_link = norm_path
+                    result.append("")
+                    result.append(f"![Image]({img_link})")
+                    if source:
+                        result.append("")
+                        result.append(f"*Nguồn: {source}*" if is_vi else f"*Source: {source}*")
+                    result.append("")
+
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+        with open(out_path, "w", encoding="utf-8") as f:
+            f.write("\n".join(result) + "\n")
+        self.create_or_update_zip()
+        return out_path
+
+    # ==========================
+    # GUI IMPLEMENTATION
+    # ==========================
+
     def setup_ui(self):
+        if self.root is None or not HAS_TKINTER:
+            return
         main_paned = ttk.PanedWindow(self.root, orient=tk.HORIZONTAL)
         main_paned.pack(fill=tk.BOTH, expand=True, padx=5, pady=5)
 
@@ -483,8 +759,10 @@ class TimelineImageManager:
         self.img_canvas.itemconfig(self.img_canvas_window, width=event.width)
 
     def refresh_line_list(self):
+        if not hasattr(self, "line_listbox") or self.line_listbox is None:
+            return
         self.line_listbox.delete(0, tk.END)
-        query = self.search_var.get().lower()
+        query = self.search_var.get().lower() if hasattr(self, "search_var") else ""
         max_lines = max(len(self.vi_lines), len(self.en_lines))
         self._line_map = []
         for i in range(max_lines):
@@ -616,16 +894,17 @@ class TimelineImageManager:
 
     def deselect_all_image_thumbs(self):
         self.selected_remove_indices.clear()
-        self.remove_btn.config(state=tk.DISABLED)
+        if hasattr(self, "remove_btn") and self.remove_btn is not None:
+            self.remove_btn.config(state=tk.DISABLED)
 
     def load_thumbnail(self, path):
         if not path.exists():
             return None
-        if not HAS_PIL:
+        if not HAS_PIL or not HAS_PIL_TK or ImageTk is None:
             return None
         try:
             img = Image.open(path)
-            img.thumbnail(THUMB_SIZE, Image.LANCZOS)
+            img.thumbnail(THUMB_SIZE, getattr(Image, "Resampling", Image).LANCZOS)
             return ImageTk.PhotoImage(img)
         except Exception:
             return None
@@ -643,66 +922,27 @@ class TimelineImageManager:
             entry["source"] = new_text
             self.save_json(silent=True)
 
-    def _normalized_image_name(self, ext):
-        now = datetime.datetime.now()
-        base_name = now.strftime("event_%Y%m%d_%H%M%S")
-        fname = base_name + ext
-        dest = IMAGES_DIR / fname
-        counter = 1
-        while dest.exists():
-            fname = f"{base_name}_{counter}{ext}"
-            dest = IMAGES_DIR / fname
-            counter += 1
-        return dest
-
     def add_images(self):
         if self.current_line_num is None:
             self.show_info("Please select a line first.")
             return
+        if not HAS_TKINTER:
+            return
         files = filedialog.askopenfilenames(
             title="Select Images",
-            filetypes=[("Image files", "*.jpg *.jpeg *.png *.gif *.bmp *.webp"), ("All files", "*.*")]
+            filetypes=[("Image files", "*.jpg *.jpeg *.png *.gif *.bmp *.webp *.avif"), ("All files", "*.*")]
         )
         if not files:
             return
 
-        IMAGES_DIR.mkdir(parents=True, exist_ok=True)
-
-        if self.current_line_num not in self.images_per_line:
-            self.images_per_line[self.current_line_num] = []
-
         added = 0
         for fpath in files:
-            src = Path(fpath)
-            ext = src.suffix.lower()
-            if ext not in (".jpg", ".jpeg", ".png", ".gif", ".bmp", ".webp"):
-                continue
-            
             try:
-                # Convert and compress existing images to WEBP
-                with Image.open(src) as img_to_add:
-                    dest = self._normalized_image_name(".webp")
-                    img_w, img_h = img_to_add.size
-                    if img_w > 1200:
-                        ratio = 1200 / img_w
-                        resample_filter = Image.Resampling.LANCZOS if hasattr(Image, "Resampling") else Image.LANCZOS
-                        img_to_add = img_to_add.resize((1200, int(img_h * ratio)), resample_filter)
-                    
-                    if img_to_add.mode in ("RGBA", "P"):
-                        img_to_add.save(str(dest), "WEBP", quality=80)
-                    else:
-                        img_to_add.convert("RGB").save(str(dest), "WEBP", quality=80)
-            except Exception:
-                # Fallback to direct copy if conversion fails
-                dest = self._normalized_image_name(ext)
-                shutil.copy2(str(src), str(dest))
-
-            rel_path = str(dest.relative_to(BASE_DIR))
-            existing = [e for e in self.images_per_line[self.current_line_num]
-                        if (e["path"] if isinstance(e, dict) else e) == rel_path]
-            if not existing:
-                self.images_per_line[self.current_line_num].append({"path": rel_path, "source": ""})
-                added += 1
+                entry = self.add_image_from_file(self.current_line_num, fpath)
+                if entry:
+                    added += 1
+            except Exception as e:
+                print(f"Error adding file {fpath}: {e}")
 
         if added > 0:
             self.display_images(self.current_line_num)
@@ -715,8 +955,8 @@ class TimelineImageManager:
         if self.current_line_num is None:
             self.show_info("Please select a line first, then paste.")
             return
-        if not HAS_PIL:
-            self.show_info("PIL/Pillow required for clipboard paste.")
+        if not HAS_PIL or not HAS_PIL_TK or ImageGrab is None:
+            self.show_info("Pillow ImageTk/ImageGrab is required for clipboard paste.")
             return
         try:
             img = ImageGrab.grabclipboard()
@@ -730,6 +970,8 @@ class TimelineImageManager:
         self.show_paste_dialog(img)
 
     def show_paste_dialog(self, img):
+        if not HAS_TKINTER:
+            return
         IMAGES_DIR.mkdir(parents=True, exist_ok=True)
 
         dialog = tk.Toplevel(self.root)
@@ -741,7 +983,7 @@ class TimelineImageManager:
 
         preview_size = (460, 360)
         preview = img.copy()
-        preview.thumbnail(preview_size, Image.LANCZOS)
+        preview.thumbnail(preview_size, getattr(Image, "Resampling", Image).LANCZOS)
         photo = ImageTk.PhotoImage(preview)
 
         preview_label = ttk.Label(dialog, image=photo)
@@ -770,34 +1012,12 @@ class TimelineImageManager:
                     messagebox.showerror("Error", "No line selected.", parent=dialog)
                     return
 
-                # Compress and resize to WEBP to save massive amounts of space
-                save_img = img
-                ext = ".webp"
-                
-                img_w, img_h = save_img.size
-                if img_w > 1200:
-                    ratio = 1200 / img_w
-                    resample_filter = Image.Resampling.LANCZOS if hasattr(Image, "Resampling") else Image.LANCZOS
-                    save_img = save_img.resize((1200, int(img_h * ratio)), resample_filter)
-
-                dest = self._normalized_image_name(ext)
-
-                if save_img.mode in ("RGBA", "P"):
-                    save_img.save(str(dest), "WEBP", quality=80)
-                else:
-                    save_img.convert("RGB").save(str(dest), "WEBP", quality=80)
-
-                rel_path = str(dest.relative_to(BASE_DIR))
                 src_text = source_text_var.get().strip()
-
-                if line not in self.images_per_line:
-                    self.images_per_line[line] = []
-                self.images_per_line[line].append({"path": rel_path, "source": src_text})
+                entry = self.add_image_from_pil(line, img, source=src_text)
 
                 self.display_images(line)
                 self.refresh_line_list()
-                self.save_json(silent=True)
-                self.show_info(f"Pasted {dest.name}")
+                self.show_info(f"Pasted {Path(entry['path']).name}")
                 dialog.destroy()
             except Exception as e:
                 import traceback
@@ -821,7 +1041,8 @@ class TimelineImageManager:
             if 0 <= idx < len(images):
                 images.pop(idx)
         if not images:
-            del self.images_per_line[self.current_line_num]
+            if self.current_line_num in self.images_per_line:
+                del self.images_per_line[self.current_line_num]
         else:
             self.images_per_line[self.current_line_num] = images
         self.display_images(self.current_line_num)
@@ -841,21 +1062,242 @@ class TimelineImageManager:
     def update_status(self):
         max_lines = max(len(self.vi_lines), len(self.en_lines))
         total_images = sum(len(v) for v in self.images_per_line.values())
-        self.status_var.set(
+        msg = (
             f"Git: {self.git_commit_id[:12]}  |  "
             f"Lines: {max_lines}  |  "
             f"Lines with images: {len(self.images_per_line)}  |  "
             f"Total images: {total_images}"
         )
+        if hasattr(self, "status_var") and self.status_var is not None:
+            self.status_var.set(msg)
+        return msg
 
     def show_info(self, msg):
-        self.status_var.set(msg)
+        if hasattr(self, "status_var") and self.status_var is not None:
+            self.status_var.set(msg)
+        else:
+            print(f"[INFO] {msg}")
+
+
+def cli_main(argv=None):
+    parser = argparse.ArgumentParser(
+        description="Timeline Image Manager CLI - Manage & embed images for Vietnamese Historical Events timelines."
+    )
+    subparsers = parser.add_subparsers(dest="command", help="Command to run")
+
+    # search
+    search_p = subparsers.add_parser("search", help="Search timeline events by text")
+    search_p.add_argument("query", help="Keyword or phrase to search in VI or EN")
+    search_p.add_argument("--limit", type=int, default=20, help="Max results to display (default: 20)")
+
+    # list
+    list_p = subparsers.add_parser("list", help="List timeline entries")
+    list_p.add_argument("--has-images", action="store_true", help="Only list entries that currently have images")
+    list_p.add_argument("--line", type=int, help="Specific line number to view")
+    list_p.add_argument("--limit", type=int, default=50, help="Limit number of lines shown (default: 50)")
+
+    # add
+    add_p = subparsers.add_parser("add", help="Add an image to a timeline entry")
+    add_p.add_argument("--line", type=int, required=True, help="1-based line number in timelines_vi.md/timelines_en.md")
+    group = add_p.add_mutually_exclusive_group(required=True)
+    group.add_argument("--url", help="Image URL from the internet")
+    group.add_argument("--file", help="Path to local image file")
+    add_p.add_argument("--source", default="", help="Source credit or citation for the image")
+
+    # remove
+    rem_p = subparsers.add_parser("remove", help="Remove image(s) from a timeline entry")
+    rem_p.add_argument("--line", type=int, required=True, help="Line number")
+    rem_group = rem_p.add_mutually_exclusive_group(required=True)
+    rem_group.add_argument("--index", type=int, help="0-based index of image to remove")
+    rem_group.add_argument("--all", action="store_true", help="Remove all images for this line")
+
+    # source
+    src_p = subparsers.add_parser("source", help="Update source citation for an image")
+    src_p.add_argument("--line", type=int, required=True, help="Line number")
+    src_p.add_argument("--index", type=int, default=0, help="0-based index of image (default: 0)")
+    src_p.add_argument("--source", required=True, help="New source citation text")
+
+    # status
+    subparsers.add_parser("status", help="Show summary status of images and commit info")
+
+    # zip
+    zip_p = subparsers.add_parser("zip", help="Compress all WebP images in images/ to images/images.zip")
+    zip_p.add_argument("--out", default=None, help="Output zip file path (default: images/images.zip)")
+
+    # sync-md
+    subparsers.add_parser("sync-md", help="Extract embedded images and sources from timelines_vi.md into timeline_images.json and update images.zip")
+
+    # embed
+    embed_p = subparsers.add_parser("embed", help="Embed images directly into markdown timeline files")
+    embed_p.add_argument("--vi-in", default=str(VI_FILE), help="Input VI markdown file (default: timelines_vi.md)")
+    embed_p.add_argument("--vi-out", default=str(VI_FILE), help="Output VI markdown file (default: timelines_vi.md)")
+    embed_p.add_argument("--en-in", default=str(EN_FILE), help="Input EN markdown file (default: timelines_en.md)")
+    embed_p.add_argument("--en-out", default=str(EN_FILE), help="Output EN markdown file (default: timelines_en.md)")
+    embed_p.add_argument("--use-leading-slash", action="store_true", help="Prepend leading slash to image path (/images/...)")
+
+    # gui
+    subparsers.add_parser("gui", help="Launch Tkinter GUI")
+
+    args = parser.parse_args(argv)
+
+    if not args.command or args.command == "gui":
+        if not HAS_TKINTER:
+            print("[ERROR] Tkinter is not installed on this system.")
+            print("To use the Graphical User Interface, install python3-tk (e.g., 'sudo zypper install python313-tk' or 'sudo apt install python3-tk').")
+            print("Use 'python timeline_image_manager.py --help' to see all available CLI commands.")
+            return 1
+        root = tk.Tk()
+        app = TimelineImageManager(root)
+        root.mainloop()
+        return 0
+
+    mgr = TimelineImageManager(root=None)
+
+    if args.command == "search":
+        matches = mgr.search_lines(args.query)
+        print(f"Found {len(matches)} match(es) for '{args.query}':\n")
+        for m in matches[:args.limit]:
+            ln = m["line_num"]
+            vi = m["vi"]
+            en = m["en"]
+            imgs = m["images"]
+            img_tag = f" [{len(imgs)} image(s)]" if imgs else ""
+            print(f"Line {ln:4d}:{img_tag}")
+            print(f"  VI: {vi}")
+            print(f"  EN: {en}")
+            if imgs:
+                for idx, entry in enumerate(imgs):
+                    p = entry.get("path", "") if isinstance(entry, dict) else entry
+                    s = entry.get("source", "") if isinstance(entry, dict) else ""
+                    print(f"    [{idx}] {p}  |  Source: {s}")
+            print("-" * 60)
+        if len(matches) > args.limit:
+            print(f"... and {len(matches) - args.limit} more matches (use --limit to show more).")
+
+    elif args.command == "list":
+        if args.line:
+            info = mgr.get_line_info(args.line)
+            if not info:
+                print(f"[ERROR] Line {args.line} is out of range.")
+                return 1
+            print(f"Line {args.line}:")
+            print(f"  VI: {info['vi']}")
+            print(f"  EN: {info['en']}")
+            imgs = info["images"]
+            print(f"  Images ({len(imgs)}):")
+            for idx, entry in enumerate(imgs):
+                p = entry.get("path", "") if isinstance(entry, dict) else entry
+                s = entry.get("source", "") if isinstance(entry, dict) else ""
+                print(f"    [{idx}] {p}  |  Source: {s}")
+        elif args.has_images:
+            lines_with_imgs = sorted(mgr.images_per_line.keys())
+            print(f"Total lines with images: {len(lines_with_imgs)}\n")
+            for ln in lines_with_imgs[:args.limit]:
+                info = mgr.get_line_info(ln)
+                imgs = info["images"] if info else []
+                vi = info["vi"] if info else ""
+                print(f"Line {ln:4d} ({len(imgs)} image(s)): {vi[:80]}")
+                for idx, entry in enumerate(imgs):
+                    p = entry.get("path", "") if isinstance(entry, dict) else entry
+                    s = entry.get("source", "") if isinstance(entry, dict) else ""
+                    print(f"    [{idx}] {p}  |  Source: {s}")
+            if len(lines_with_imgs) > args.limit:
+                print(f"... and {len(lines_with_imgs) - args.limit} more lines (use --limit to show more).")
+        else:
+            max_lines = max(len(mgr.vi_lines), len(mgr.en_lines))
+            for ln in range(1, min(max_lines + 1, args.limit + 1)):
+                info = mgr.get_line_info(ln)
+                imgs = info["images"] if info else []
+                vi = info["vi"] if info else ""
+                has_star = "*" if imgs else " "
+                print(f"{has_star} Line {ln:4d}: {vi[:80]}")
+
+    elif args.command == "add":
+        if args.url:
+            print(f"Downloading image from URL: {args.url} ...")
+            try:
+                entry = mgr.add_image_from_url(args.line, args.url, source=args.source)
+                print(f"[SUCCESS] Added image to Line {args.line}:")
+                print(f"  Path:   {entry['path']}")
+                print(f"  Source: {entry['source']}")
+            except Exception as e:
+                print(f"[ERROR] Failed to add image from URL: {e}")
+                return 1
+        elif args.file:
+            print(f"Processing local image: {args.file} ...")
+            try:
+                entry = mgr.add_image_from_file(args.line, args.file, source=args.source)
+                print(f"[SUCCESS] Added image to Line {args.line}:")
+                print(f"  Path:   {entry['path']}")
+                print(f"  Source: {entry['source']}")
+            except Exception as e:
+                print(f"[ERROR] Failed to add image from file: {e}")
+                return 1
+
+    elif args.command == "remove":
+        idx = None if args.all else args.index
+        ok = mgr.remove_image(args.line, index=idx)
+        if ok:
+            if args.all:
+                print(f"[SUCCESS] Removed all images from Line {args.line}.")
+            else:
+                print(f"[SUCCESS] Removed image [{args.index}] from Line {args.line}.")
+        else:
+            print(f"[ERROR] Failed to remove image: line or index not found.")
+            return 1
+
+    elif args.command == "source":
+        ok = mgr.set_image_source(args.line, args.index, args.source)
+        if ok:
+            print(f"[SUCCESS] Updated source for Line {args.line} [index {args.index}]: {args.source}")
+        else:
+            print(f"[ERROR] Failed to update source: line or index not found.")
+            return 1
+
+    elif args.command == "status":
+        msg = mgr.update_status()
+        print("=== Timeline Image Manager Status ===")
+        print(f"{msg}")
+        print(f"Base Directory: {BASE_DIR}")
+        print(f"Images Directory: {IMAGES_DIR}")
+        print(f"JSON Metadata File: {JSON_FILE}")
+
+    elif args.command == "zip":
+        out_path = Path(args.out) if args.out else None
+        p, count = mgr.create_or_update_zip(out_path)
+        size_kb = os.path.getsize(p) / 1024
+        print(f"[SUCCESS] Compressed {count} images into {p} ({size_kb:.1f} KB)")
+
+    elif args.command == "sync-md":
+        count = mgr.sync_from_markdown()
+        print(f"[SUCCESS] Synced {count} events with images from markdown into {JSON_FILE} and refreshed images/images.zip")
+
+    elif args.command == "embed":
+        vi_in = args.vi_in or str(VI_FILE)
+        en_in = args.en_in or str(EN_FILE)
+        vi_out = args.vi_out or str(VI_FILE)
+        en_out = args.en_out or str(EN_FILE)
+        print(f"Embedding images into {vi_out} and {en_out}...")
+        mgr.embed_markdown(vi_in, vi_out, is_vi=True, use_leading_slash=args.use_leading_slash)
+        mgr.embed_markdown(en_in, en_out, is_vi=False, use_leading_slash=args.use_leading_slash)
+        print(f"[SUCCESS] Embedded VI -> {vi_out}")
+        print(f"[SUCCESS] Embedded EN -> {en_out}")
+
+    return 0
 
 
 def main():
-    root = tk.Tk()
-    app = TimelineImageManager(root)
-    root.mainloop()
+    if len(sys.argv) > 1 and sys.argv[1] != "gui":
+        sys.exit(cli_main())
+    elif len(sys.argv) > 1 and sys.argv[1] == "gui":
+        sys.exit(cli_main(["gui"]))
+    else:
+        if HAS_TKINTER:
+            root = tk.Tk()
+            app = TimelineImageManager(root)
+            root.mainloop()
+        else:
+            sys.exit(cli_main(["--help"]))
 
 
 if __name__ == "__main__":

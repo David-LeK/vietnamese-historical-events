@@ -273,6 +273,37 @@ def verify_markdown_syntax(blocks_vi, blocks_en):
     return not has_errors
 
 
+def verify_images_sync(events_vi, events_en):
+    """
+    Verifies that images embedded in VI and EN events are synchronized.
+    """
+    img_regex = re.compile(r'!\[.*?\]\((.*?)\)')
+    mismatches = 0
+    total_imgs_vi = 0
+    total_imgs_en = 0
+    for idx, (ev_v, ev_e) in enumerate(zip(events_vi, events_en)):
+        imgs_v = []
+        for l in ev_v['lines']:
+            imgs_v.extend(img_regex.findall(l))
+        imgs_e = []
+        for l in ev_e['lines']:
+            imgs_e.extend(img_regex.findall(l))
+        total_imgs_vi += len(imgs_v)
+        total_imgs_en += len(imgs_e)
+        if imgs_v != imgs_e:
+            mismatches += 1
+            if mismatches <= 5:
+                print(f"  {Colors.RED}[FAIL] Event #{idx+1} image mismatch:{Colors.RESET}")
+                print(f"    VI images: {imgs_v}")
+                print(f"    EN images: {imgs_e}")
+    if mismatches > 0:
+        print(f"  {Colors.RED}[FAIL] Found {mismatches} event(s) with mismatched images.{Colors.RESET}")
+        return False
+    if total_imgs_vi > 0:
+        print(f"  {Colors.GREEN}[OK] Verified {total_imgs_vi} embedded image(s) across events (VI and EN fully in sync).{Colors.RESET}")
+    return True
+
+
 def main():
     print(f"{Colors.BOLD}{Colors.BLUE}======================================================{Colors.RESET}")
     print(f"{Colors.BOLD}{Colors.BLUE}   Vietnamese Historical Events - Synchronization Check {Colors.RESET}")
@@ -292,11 +323,14 @@ def main():
 
     sort_ok = verify_date_parsing_and_sorting(blocks_vi, blocks_en)
     syntax_ok = verify_markdown_syntax(blocks_vi, blocks_en)
+    events_vi = [b for b in blocks_vi if b['type'] == 'event']
+    events_en = [b for b in blocks_en if b['type'] == 'event']
+    images_ok = verify_images_sync(events_vi, events_en)
 
     if not check_only:
         check_git_diff_parity()
 
-    if struct_ok and sort_ok and syntax_ok:
+    if struct_ok and sort_ok and syntax_ok and images_ok:
         print(f"\n{Colors.BOLD}{Colors.GREEN}[SUCCESS] ALL CHECKS PASSED! Timelines are synchronized and valid.{Colors.RESET}\n")
         sys.exit(0)
     else:

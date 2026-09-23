@@ -318,35 +318,57 @@ def parse_blocks(filename):
         
     blocks = []
     current_block = None
+    pending_empty = []
+    
+    event_regex = re.compile(r"^\*\s+\*\*(.*?)(?::\*\*|\*\*:\s*|\*\*\s*:?)(.*)")
+    img_or_source = re.compile(r"^(?:!\[.*?\]\(.*?\)|(?:\*Nguồn:|\*Source:))", re.IGNORECASE)
     
     for line in lines:
-        if line.strip().startswith('#'):
-            if current_block:
-                blocks.append(current_block)
-            blocks.append({'type': 'header', 'lines': [line]})
-            current_block = None
-        elif re.match(r'^\*\s+\*\*(.*?):\*\*', line):
-            if current_block:
-                blocks.append(current_block)
-            match = re.match(r'^\*\s+\*\*(.*?):\*\*', line)
-            time_str = match.group(1) if match else ""
-            current_block = {'type': 'event', 'time_str': time_str, 'lines': [line]}
-        elif line.strip() == '':
+        stripped = line.strip()
+        if stripped.startswith("#"):
             if current_block:
                 blocks.append(current_block)
                 current_block = None
-            blocks.append({'type': 'empty', 'lines': [line]})
+            for el in pending_empty:
+                blocks.append({"type": "empty", "lines": [el]})
+            pending_empty = []
+            blocks.append({"type": "header", "lines": [line]})
+        elif event_regex.match(line) and not img_or_source.match(stripped):
+            if current_block:
+                blocks.append(current_block)
+                current_block = None
+            for el in pending_empty:
+                blocks.append({"type": "empty", "lines": [el]})
+            pending_empty = []
+            m = event_regex.match(line)
+            time_str = m.group(1).strip()
+            if time_str.endswith(":"):
+                time_str = time_str[:-1].strip()
+            current_block = {"type": "event", "time_str": time_str, "lines": [line]}
+        elif stripped == "":
+            pending_empty.append(line)
+        elif img_or_source.match(stripped) and current_block and current_block["type"] == "event":
+            current_block["lines"].extend(pending_empty)
+            pending_empty = []
+            current_block["lines"].append(line)
         else:
-            if current_block and current_block['type'] == 'event':
-                current_block['lines'].append(line)
+            if current_block and current_block["type"] == "event" and (line.startswith((" ", "\t")) or not stripped.startswith("*")):
+                current_block["lines"].extend(pending_empty)
+                pending_empty = []
+                current_block["lines"].append(line)
             else:
                 if current_block:
-                    current_block['lines'].append(line)
-                else:
-                    current_block = {'type': 'text', 'lines': [line]}
-                    
+                    blocks.append(current_block)
+                    current_block = None
+                for el in pending_empty:
+                    blocks.append({"type": "empty", "lines": [el]})
+                pending_empty = []
+                current_block = {"type": "text", "lines": [line]}
+                
     if current_block:
         blocks.append(current_block)
+    for el in pending_empty:
+        blocks.append({"type": "empty", "lines": [el]})
         
     return blocks
 

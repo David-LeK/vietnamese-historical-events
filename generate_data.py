@@ -19,7 +19,7 @@ def parse_md_file(filepath):
                     sec_name = l.replace('###', '').replace('**', '').strip()
                     current_sec = {'title': sec_name, 'events': []}
                     sections.append(current_sec)
-                elif l.startswith('*'):
+                elif l.startswith('*') and not (l.startswith('*Nguồn:') or l.startswith('*Source:')):
                     m = re.match(r'^\*\s+\*\*(.*?)\*\*:?\s*(.*)', l)
                     if m and current_sec is not None:
                         date_str = m.group(1).strip()
@@ -29,11 +29,38 @@ def parse_md_file(filepath):
                         current_event = {
                             'dateStr': date_str,
                             'desc': desc,
-                            'subItems': []
+                            'subItems': [],
+                            'images': []
                         }
                         current_sec['events'].append(current_event)
+                elif l.startswith('![') and current_event is not None:
+                    img_m = re.search(r'!\[(.*?)\]\((.*?)\)', l)
+                    if img_m:
+                        current_event.setdefault('images', []).append({
+                            'alt': img_m.group(1),
+                            'path': img_m.group(2),
+                            'source': ''
+                        })
+                elif (l.startswith('*Nguồn:') or l.startswith('*Source:')) and current_event is not None:
+                    src = re.sub(r'^\*(?:Nguồn|Source):\s*', '', l, flags=re.IGNORECASE)
+                    src = src.rstrip('*').strip()
+                    if current_event.get('images'):
+                        current_event['images'][-1]['source'] = src
             else:
-                if l.startswith('*') and current_event is not None:
+                if l.startswith('![') and current_event is not None:
+                    img_m = re.search(r'!\[(.*?)\]\((.*?)\)', l)
+                    if img_m:
+                        current_event.setdefault('images', []).append({
+                            'alt': img_m.group(1),
+                            'path': img_m.group(2),
+                            'source': ''
+                        })
+                elif (l.startswith('*Nguồn:') or l.startswith('*Source:')) and current_event is not None:
+                    src = re.sub(r'^\*(?:Nguồn|Source):\s*', '', l, flags=re.IGNORECASE)
+                    src = src.rstrip('*').strip()
+                    if current_event.get('images'):
+                        current_event['images'][-1]['source'] = src
+                elif l.startswith('*') and current_event is not None:
                     sub_text = re.sub(r'^\*\s*', '', l).strip()
                     current_event['subItems'].append(sub_text)
     return sections
@@ -132,9 +159,10 @@ def main():
         
         for j in range(len(events_en)):
             ev_en = events_en[j]
-            ev_vi = events_vi[j] if j < len(events_vi) else {'dateStr': ev_en['dateStr'], 'desc': ev_en['desc'], 'subItems': ev_en['subItems']}
+            ev_vi = events_vi[j] if j < len(events_vi) else {'dateStr': ev_en['dateStr'], 'desc': ev_en['desc'], 'subItems': ev_en['subItems'], 'images': []}
             
             d_info = extract_date_info(ev_en['dateStr'], ev_vi['dateStr'])
+            images = ev_vi.get('images', []) or ev_en.get('images', [])
             
             events.append({
                 'id': event_id,
@@ -145,6 +173,7 @@ def main():
                 'descVi': ev_vi['desc'],
                 'subsEn': ev_en['subItems'],
                 'subsVi': ev_vi['subItems'],
+                'images': images,
                 'year': d_info['year'],
                 'yearEnd': d_info['yearEnd'],
                 'month': d_info['month'],
