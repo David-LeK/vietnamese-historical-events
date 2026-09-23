@@ -19,9 +19,21 @@
 *   **3rd millennium BC:** The Van Lang - Au Lac period saw a brilliant cultural peak with the development of Bronze metallurgy, particularly the Dong Son bronze drums, alongside wet rice agriculture, exerting significant influence across Southeast Asia.
 *   **Before 2879 BC:** According to ancient texts, De Minh (a third-generation descendant of Emperor Yan Shennong) traveled south to the Wuling Mountains, married Vu Tien Nu, and fathered Loc Tuc. De Minh later divided the realm between north and south, designating his eldest son De Nghi as ruler of the North and Loc Tuc as ruler of the South.
 *   **2879 BC:** Loc Tuc ascended the throne as Kinh Duong Vuong, establishing the Xich Quy nation - the first national title in Vietnamese historical legend - marking the start of the Hong Bang Dynasty. Kinh Duong Vuong married the daughter of Dong Dinh Quan (Dragon King), fathering Sung Lam (Lac Long Quan).
+
+![Historical Image](images/event_20260923_232121.webp)
+
+*Source: Kinh Duong Vuong Temple (Bac Ninh) / Origin Vietnam*
 *   **2879 - 258 BC:** The period of the 18 reigns of the Hung Kings. This was also the period when the legends of Lac Long Quan and Au Co, Phu Dong Thien Vuong (Saint Giong), and Son Tinh - Thuy Tinh are believed to have originated and been passed down orally.
+
+![Historical Image](images/event_20260923_232119.webp)
+
+*Source: Hung Kings Mausoleum on Nghia Linh Mountain (Phu Tho) / Wikimedia Commons*
 *   **2792 BC:** Sung Lam succeeded Kinh Duong Vuong as Lac Long Quan, taking over the rule of Xich Quy. Lac Long Quan was credited with slaying sea and forest monsters (Ngư Tinh, Cửu Vĩ Hồ, Mộc Tinh) and teaching the people wet rice cultivation, weaving, and house building.
 *   **Approximately 2524 BC:** Lac Long Quan married Au Co (daughter of De Lai). Au Co gave birth to a sac of one hundred eggs which hatched into 100 sons, forming the legendary origin of "Dragon and Fairy descendants" and the concept of "Dong bao" (compatriots). They later split their children, 50 following their mother to the mountains and 50 following their father to the sea. The eldest son followed his mother to Phong Chau and ascended the throne as Hung Vuong, founding the nation of Van Lang.
+
+![Historical Image](images/event_20260923_232118.webp)
+
+*Source: Lac Long Quan and Au Co statue (Bac Ninh) / Báo Tuổi Trẻ*
 *   **Approximately late 3rd millennium BC - early 2nd millennium BC:** Phung Nguyen Culture period, marking the beginning of the Metal Age.
 *   **Approximately 2,000 BC (4,000 years ago):** Date of the Man Bac Culture site (Ninh Binh), featuring human remains that reflect interbreeding between indigenous Southeast Asian and northern migratory populations, marking the transition from Da But to Phung Nguyen Culture.
 *   **Approximately 2,000 - 1,500 BC (4,000 - 3,500 years ago):** Bau Tro Culture period.
@@ -50,7 +62,15 @@
 *Source: Ngu Trieu Di Quy communal house in the Co Loa relic site (Dong Anh, Hanoi) / Wikimedia Commons (CC BY-SA 3.0)*
 *   **257 BC:** Thuc Phan An Duong Vuong erected a sacred stone oath pillar on the peak of Nghia Linh Mountain (Phong Chau), swearing eternal preservation of the realm handed down by the Hung Kings.
 *   **255 BC:** An Duong Vuong constructed the Loa Thanh (Co Loa Citadel).
+
+![Historical Image](images/event_20260923_232117.webp)
+
+*Source: Co Loa Citadel gate (Dong Anh, Hanoi) / Vinpearl*
 *   **Around 250 BC:** General Cao Lo (Cao Thong) successfully invented the "Lianzhou Crossbow" (Magic Crossbow), capable of firing multiple bronze arrows simultaneously, becoming a strategic defensive weapon for Co Loa Citadel of Au Lac.
+
+![Historical Image](images/event_20260923_232114.webp)
+
+*Source: Cao Lo statue holding the magic crossbow at Co Loa / Wikimedia Commons*
 *   **218 BC:** Qin Shi Huang ordered Tu Shu as General-in-Chief and Ren Ao as Vice General to lead an army of 500,000 divided into 5 routes to invade Bach Viet (Tay Au and Lac Viet), beginning the 10-year resistance war of the Vietnamese people.
 *   **214 BC:** Qin general Tu Shu killed Yihuang (leader of Tay Au). The Tay Au and Lac Viet people retreated into deep forests, chose Thuc Phan as their unified leader, and waged resilient guerrilla warfare against Qin forces. In the same year, the Qin dynasty established the commanderies of Guilin, Nanhai, and Xiang.
 *   **210 BC:** Qin Shi Huang died. Taking advantage of the chaos in the Qin dynasty, Zhao Tuo severed communication lines with the Central Plains, blockaded northern mountain passes (Erling, Huangshan, Yangshan), and eliminated Qin officials in Nanhai, laying the groundwork for establishing Nanyue.
@@ -60,6 +80,10 @@
 *   **196 BC:** Emperor Gaozu of Han sent Lu Jia as ambassador to Panyu to present an imperial edict and gold seal, officially investing Zhao Tuo as King of Nanyue and establishing formal diplomatic relations.
 *   **183 BC:** Empress Dowager Lü of the Han dynasty imposed a trade embargo prohibiting the export of iron weapons and livestock to Nanyue. Zhao Tuo retaliated by declaring independence, proclaiming himself Emperor Wu of Nanyue, and attacking Changsha Commandery.
 *   **179 BC:** Trieu Da conquered the Au Lac kingdom. This event is associated with the tragic legend of the love story of Trong Thuy and My Chau.
+
+![Historical Image](images/event_20260923_232113.webp)
+
+*Source: An Duong Vuong Temple at Co Loa (Dong Anh, Hanoi) / Vietdreamtravel*
 *   **137 BC:** Zhao Tuo passed away at over 100 years old after nearly 70 years of reign. His grandson Zhao Mo succeeded him as King Wen of Nanyue (Trieu Van Vuong).
 *   **135 BC:** The Minyue kingdom invaded Nanyue. King Wen of Nanyue requested Emperor Wu of Han to intervene; the Han dynasty sent troops to attack Minyue, causing Nanyue to become increasingly subject to Han diplomatic influence.
 *   **125 BC:** King Trieu Van Vuong (Zhao Mo) passed away. His son Trieu Anh Te (Zhao Yingqi) ascended the throne of Nam Viet as King Trieu Minh Vuong (reigning 125 BC - 113 BC).
@@ -80,6 +104,10 @@
 *Source: Dong Ho folk painting: The Trung Sisters riding elephants into battle / Wikimedia Commons*
 *   **41:** Ma Yuan led an army of 200,000 to invade.
 *   **43:** The uprising failed following an attack by the Han general Ma Yuan. The Trung Sisters committed suicide in the Hat River. Ma Yuan erected bronze pillars to mark the border.
+
+![Historical Image](images/event_20260923_232103.webp)
+
+*Source: Hai Ba Trung Temple (Me Linh, Hanoi) / Origin Vietnam*
 *   **44:** Following the suppression of the Trung Sisters' uprising, Ma Yuan abolished the hereditary rule of the Lac generals (Lac lords), crushed remaining Lac Viet insurgencies in Tay Vu county, and divided Tay Vu into Phong Khe and Vong Hai counties to enforce direct Han imperial administration.
 *   **78:** Truong Trong, a native of Nhat Nam commandery, traveled to Luoyang as an envoy. He boldly defended Vietnamese customs and dignity in front of the Han Emperor and court, later becoming the governor of Jincheng.
 *   **100:** More than 2,000 people in Tuong Lam district (Nhat Nam commandery) rose up against Han rule.
@@ -102,6 +130,10 @@
 *   **227:** Shi Hui (Shi Xie's son) rebelled against Eastern Wu's new appointments but was defeated and executed. Eastern Wu reunified Guangzhou and Jiaozhou to facilitate suppression.
 *   **231:** Xue Zong (Tiet Tong) submitted a memorial to the Eastern Wu emperor, highlighting that despite the Han dynasty's assimilation policies, the people of Giao Chau (Vietnam) maintained their distinct customs, reflecting their resistance against Sinicization.
 *   **248:** The uprising of Lady Trieu (Trieu Thi Trinh) and her brother Trieu Quoc Dat broke out in Cuu Chan, shaking the whole Jiaozhou. She famously declared: "I only want to ride the strong wind, tread the rough waves, slay the whale in the East Sea, drive out the Wu army, reclaim the country, and unyoke the slavery, not bend my back to be a concubine for anyone!" Eastern Wu general Lu Yin led 8,000 troops to suppress the rebellion; Lady Trieu sacrificed herself on Mount Tung.
+
+![Historical Image](images/event_20260923_232101.webp)
+
+*Source: Ba Trieu Temple Festival (Hau Loc, Thanh Hoa) / Báo Nhân Dân*
 *   **263:** Lu Xing (La Hung) rebelled in Giao Chi, killing the Eastern Wu Governor and submitting to the Cao Wei dynasty. Jiaozhou temporarily escaped Eastern Wu's control.
 *   **264:** The Eastern Wu dynasty re-divided Guangzhou and Jiaozhou, establishing Long Bien as the capital of Jiaozhou.
 *   **265:** The Western Jin dynasty was established (replacing Cao Wei), and Jiaozhou nominally came under its jurisdiction.
@@ -194,6 +226,10 @@
 ### **Early Independence Period (Ngo - Dinh - Early Le, 939 - 1009)**
 
 *   **939 (Spring):** Ngo Quyen proclaimed himself king, established the Ngo dynasty, and set the capital at Co Loa, officially ushering in an era of independence and autonomy.
+
+![Historical Image](images/event_20260923_232100.webp)
+
+*Source: Panoramic view of Co Loa relic site (Dong Anh, Hanoi) / Hanoitimes*
 *   **944:** Ngo Quyen passed away. His brother-in-law, Duong Tam Kha, usurped the throne from Ngo Quyen's son Ngo Xuong Ngap, proclaiming himself Binh Vuong.
 *   **950:** Ngo Xuong Van overthrew Duong Tam Kha, demoted him to Chuong Duong Cong, and granted him the land of Chuong Duong as an appanage (thực ấp). He reclaimed the throne as Nam Tan Vuong and co-ruled with his brother Ngo Xuong Ngap (Thien Sach Vuong).
 *   **951:** Hau Ngo Vuong (Ngo Xuong Van and Ngo Xuong Ngap) attacked Dinh Bo Linh at Hoa Lu for over a month but failed, taking Dinh Lien as hostage.
@@ -445,6 +481,10 @@
 
 *Source: Relief of the Dien Hong Conference at the Tran Hung Dao Temple (Photo: Phuong Huy / Wikimedia Commons / CC BY-SA 4.0)*
 *   **1285:** When King Tran Thanh Tong asked if he should surrender during the difficult early stages of the war, Tran Hung Dao famously replied: "Your Majesty, if you want to surrender, please cut off my head first."
+
+![Historical Image](images/event_20260923_232059.webp)
+
+*Source: Tran Hung Dao statue / Vietvisiontravel*
 *   **1285:** Officer Yet Kieu (Pham Huu The) distinguished himself during the second Mongol invasion with his extraordinary diving prowess to sabotage enemy warships, while demonstrating steadfast loyalty by keeping his boat stationed at Bai Tan to help Supreme Commander Tran Quoc Tuan break through enemy encirclement.
 *   **Jan. 1285:** Yuan forces under the command of Toghon began the second invasion of Dai Viet.
 *   **Mar. 1285:** To delay the Mongol advance and buy time for the army to retreat and regroup, Princess **An Tu** (youngest sister of King Tran Thanh Tong) was sent to the Mongol general Toghon as part of a "beauty trap" stratagem.

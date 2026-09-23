@@ -19,9 +19,21 @@
 *   **Thiên niên kỷ III TCN:** Giai đoạn Văn Lang - Âu Lạc đạt đến đỉnh cao rực rỡ với nghề nông nghiệp lúa nước và nghề luyện kim đồng (tiêu biểu là trống đồng Đông Sơn), có ảnh hưởng lớn đến toàn khu vực Đông Nam Á.
 *   **Trước 2879 TCN:** Theo thư tịch cổ, Đế Minh (cháu 3 đời của Viêm Đế Thần Nông) đi tuần phương Nam đến núi Ngũ Lĩnh, kết duyên với Vụ Tiên nữ và sinh ra Lộc Tục. Đế Minh sau đó chia đôi cõi Bắc - Nam, phong cho con trưởng Đế Nghi làm vua phương Bắc và Lộc Tục làm vua phương Nam.
 *   **2879 TCN:** Lộc Tục lên ngôi vua xưng là Kinh Dương Vương, thành lập nước Xích Quỷ - quốc hiệu đầu tiên trong truyền thuyết lịch sử Việt Nam, mở đầu Kỷ Hồng Bàng. Kinh Dương Vương kết duyên với con gái Động Đình Quân (Thần Long), sinh ra Sùng Lẫm (Lạc Long Quân).
+
+![Hình ảnh tư liệu](images/event_20260923_232121.webp)
+
+*Nguồn: Đền thờ Kinh Dương Vương (Bắc Ninh) / Origin Vietnam*
 *   **2879 - 258 TCN:** Giai đoạn 18 đời Hùng Vương trị vì. Đây cũng là khoảng thời gian mà truyền thuyết Lạc Long Quân và Âu Cơ, Phù Đổng Thiên Vương (Thánh Gióng), và Sơn Tinh - Thủy Tinh được cho là ra đời và truyền miệng.
+
+![Hình ảnh tư liệu](images/event_20260923_232119.webp)
+
+*Nguồn: Lăng mộ Vua Hùng trên núi Nghĩa Lĩnh (Phú Thọ) / Wikimedia Commons*
 *   **2792 TCN:** Sùng Lẫm nối ngôi Kinh Dương Vương, xưng là Lạc Long Quân, tiếp tục cai trị nước Xích Quỷ. Lạc Long Quân có công trừ diệt các loài quái vật nguy hại (Ngư Tinh, Cửu Vĩ Hồ, Mộc Tinh), dạy nhân dân trồng lúa nước, dệt vải và cất dựng nhà cửa.
 *   **Khoảng 2524 TCN:** Lạc Long Quân kết duyên với Âu Cơ (con gái Đế Lai). Âu Cơ sinh bọc trăm trứng, nở thành 100 người con trai, hình thành cội nguồn truyền thuyết "Con Rồng cháu Tiên" và khái niệm "Đồng bào". Hai người sau đó chia 50 con theo mẹ lên núi, 50 con theo cha xuống biển để cai quản các vùng đất. Người con trưởng theo mẹ lên vùng Phong Châu lên ngôi xưng là Hùng Vương, đặt quốc hiệu là Văn Lang.
+
+![Hình ảnh tư liệu](images/event_20260923_232118.webp)
+
+*Nguồn: Tượng Lạc Long Quân và Âu Cơ (Bắc Ninh) / Báo Tuổi Trẻ*
 *   **Khoảng cuối thiên niên kỷ III TCN - đầu thiên niên kỷ II TCN:** Thời kỳ Văn hóa Phùng Nguyên, mở đầu thời đại kim khí.
 *   **Khoảng 2.000 TCN (4.000 năm trước):** Niên đại di chỉ Văn hóa Mãn Bạc (Ninh Bình), nơi phát hiện nhiều di cốt phản ánh quá trình hợp chủng giữa cư dân bản địa Đông Nam Á và cư dân di cư từ phía Bắc, mở đầu giai đoạn chuyển tiếp từ Văn hóa Đa Bút sang Văn hóa Phùng Nguyên.
 *   **Khoảng 2.000 - 1.500 TCN (4.000 - 3.500 năm trước):** Thời kỳ Văn hóa Bàu Tró.
@@ -50,7 +62,15 @@
 *Nguồn: Đình Ngự Triều Di Quy trong khu di tích Cổ Loa (Đông Anh, Hà Nội) / Wikimedia Commons (CC BY-SA 3.0)*
 *   **257 TCN:** Thục Phán An Dương Vương dựng cột đá thề trên đỉnh núi Nghĩa Lĩnh (Phong Châu), thề nguyện đời đời giữ gìn giang sơn gấm vóc mà các Hùng Vương đã trao lại.
 *   **255 TCN:** An Dương Vương cho xây dựng Loa Thành (Cổ Loa).
+
+![Hình ảnh tư liệu](images/event_20260923_232117.webp)
+
+*Nguồn: Cổng thành Cổ Loa (Đông Anh, Hà Nội) / Vinpearl*
 *   **Khoảng 250 TCN:** Tướng quân Cao Lỗ (Cao Thông) chế tạo thành công "Lạc Quang thần nỏ" (Nỏ Liên Châu / Nỏ thần), bắn ra nhiều mũi tên đồng cùng lúc, trở thành vũ khí chiến lược bảo vệ Loa Thành của nước Âu Lạc.
+
+![Hình ảnh tư liệu](images/event_20260923_232114.webp)
+
+*Nguồn: Tượng Cao Lỗ cầm nỏ thần tại Cổ Loa / Wikimedia Commons*
 *   **218 TCN:** Tần Thủy Hoàng sai Đồ Thư làm Tổng hiệu úy, Nhâm Ngao làm Hiệu úy, đem 50 vạn quân chia 5 đạo tiến đánh Bách Việt (Tây Âu và Lạc Việt), mở đầu cuộc kháng chiến chống Tần kéo dài 10 năm của người Việt.
 *   **214 TCN:** Tướng Tần là Đồ Thư giết chết Dịch Huống (thủ lĩnh Tây Âu). Cư dân Tây Âu và Lạc Việt rút vào rừng sâu, bầu Thục Phán làm thủ lĩnh chung, ngày ẩn đêm xuất tiến hành chiến tranh du kích kiên cường chống quân Tần. Cùng năm, nhà Tần thiết lập 3 quận Quế Lâm, Nam Hải và Tượng Quận.
 *   **210 TCN:** Tần Thủy Hoàng qua đời. Triệu Đà nhân lúc triều Tần đại loạn đã cắt đứt tuyến giao thông với Trung Nguyên, phong tỏa các cửa ải phía bắc (Nhĩ Lăng, Hoành Sơn, Dương Sơn) và sát hại các quan lại nhà Tần ở Nam Hải, tạo tiền đề thành lập nước Nam Việt.
@@ -60,6 +80,10 @@
 *   **196 TCN:** Hán Cao Tổ Lưu Bang cử Lục Giả làm chánh sứ sang Phiên Ngung dâng chiếu thư và kim ấn, chính thức phong Triệu Đà làm Nam Việt Vương, mở đầu quan hệ ngoại giao chính thức giữa Nam Việt và nhà Hán.
 *   **183 TCN:** Lã Thái hậu (nhà Hán) ra lệnh cấm xuất khẩu sắt thép, gia súc sang Nam Việt. Triệu Đà tuyên bố ly khai, tự xưng là Nam Việt Vũ Đế (Triệu Vũ Đế) và cất quân đánh phá quận Trưởng Sa của nhà Hán.
 *   **179 TCN:** Triệu Đà thôn tính nước Âu Lạc. Sự kiện này gắn liền với truyền thuyết bi kịch về mối tình Trọng Thủy - Mỵ Châu.
+
+![Hình ảnh tư liệu](images/event_20260923_232113.webp)
+
+*Nguồn: Đền thờ An Dương Vương tại Cổ Loa (Đông Anh, Hà Nội) / Vietdreamtravel*
 *   **137 TCN:** Triệu Đà qua đời ở tuổi hơn 100 sau gần 70 năm trị vì. Cháu nội là Triệu Mạt lên nối ngôi, xưng là Triệu Văn Vương (Triệu Văn Đế).
 *   **135 TCN:** Nước Mân Việt tiến đánh Nam Việt. Triệu Văn Vương gửi thư xin Hán Vũ Đế can thiệp; nhà Hán cử quân đánh Mân Việt, khiến Nam Việt ngày càng chịu ảnh hưởng ngoại giao từ triều Hán.
 *   **125 TCN:** Triệu Văn Vương (Triệu Mạt) qua đời. Con là Triệu Anh Tề lên nối ngôi vua nước Nam Việt, xưng là Triệu Minh Vương (trị vì 125 TCN - 113 TCN).
@@ -80,6 +104,10 @@
 *Nguồn: Tranh dân gian Đông Hồ: Hai Bà Trưng cưỡi voi ra trận / Wikimedia Commons*
 *   **41:** Mã Viện mang 20 vạn quân sang xâm lược.
 *   **43:** Cuộc khởi nghĩa thất bại trước cuộc tấn công của tướng nhà Hán là Mã Viện. Hai Bà Trưng tuẫn tiết trên sông Hát. Mã Viện dựng cột đồng để ghi địa giới.
+
+![Hình ảnh tư liệu](images/event_20260923_232103.webp)
+
+*Nguồn: Đền thờ Hai Bà Trưng (Mê Linh, Hà Nội) / Origin Vietnam*
 *   **Năm 44:** Sau khi đàn áp cuộc khởi nghĩa Hai Bà Trưng, Mã Viện tiến hành bãi bỏ chế độ thế tập của các Lạc tướng, đàn áp các cuộc nổi dậy còn sót lại của người Lạc Việt tại huyện Tây Vu, đồng thời chia Tây Vu thành hai huyện Phong Khê và Vọng Hải nhằm siết chặt chế độ cai trị trực tiếp của nhà Đông Hán.
 *   **Năm 78:** Trương Trọng, người quận Nhật Nam, sang Lạc Dương (Trung Quốc) chầu vua Hán. Ông đã dũng cảm đối đáp cứng cỏi, bảo vệ phong tục và tôn nghiêm của người Việt trước triều đình phương Bắc, sau được phong làm Thái thú quận Kim Thành.
 *   **100:** Hơn 2.000 dân huyện Tượng Lâm (quận Nhật Nam) nổi dậy chống lại ách cai trị của nhà Hán.
@@ -102,6 +130,10 @@
 *   **227:** Sĩ Huy (con Sĩ Nhiếp) nổi dậy chống lại việc bổ nhiệm quan lại mới của nhà Ngô nhưng thất bại và bị xử tử. Đông Ngô tái thống nhất hai châu thành Giao Châu như cũ để dễ bề đàn áp.
 *   **231:** Tiết Tông dâng sớ lên vua Ngô Hoàng Võ, miêu tả về chính sách đồng hóa của nhà Hán và sự phản kháng văn hóa của người Việt, cho thấy họ vẫn giữ gìn phong tục tập quán riêng.
 *   **248:** Cuộc khởi nghĩa của Triệu Thị Trinh cùng anh là Triệu Quốc Đạt bùng nổ tại Cửu Chân, khiến "toàn thể Giao Châu chấn động". Bà nổi tiếng với câu nói: "Tôi chỉ muốn cưỡi cơn gió mạnh, đạp luồng sóng dữ, chém cá kình ở biển Đông, đánh đuổi quân Ngô, giành lại giang sơn, cởi ách nô lệ, chứ không chịu khom lưng làm tì thiếp cho người!". Tôn Quyền sai Lục Dận mang 8.000 quân sang đánh và dẹp được cuộc nổi dậy; Bà Triệu tuẫn tiết trên núi Tùng.
+
+![Hình ảnh tư liệu](images/event_20260923_232101.webp)
+
+*Nguồn: Lễ hội đền Bà Triệu (Hậu Lộc, Thanh Hóa) / Báo Nhân Dân*
 *   **263:** Tào Ngụy diệt Thục Hán. Tại Giao Chỉ, Lã Hưng nổi dậy giết chết Thái thú của nhà Ngô và xin thần phục nhà Ngụy. Giao Châu tạm thời thoát khỏi quyền kiểm soát của Đông Ngô.
 *   **264:** Nhà Đông Ngô tái chia tách Quảng Châu và Giao Châu, lấy Long Biên làm trị sở Giao Châu.
 *   **265:** Nhà Tây Tấn thành lập (thay thế nhà Ngụy). Giao Châu lúc này thuộc về nhà Tấn.
@@ -194,6 +226,10 @@
 ### **Thời kỳ Độc lập Xây dựng Quốc gia (Ngô - Đinh - Tiền Lê, 939 - 1009)**
 
 *   **939 (Mùa Xuân):** Ngô Quyền xưng vương, lập ra nhà Ngô, định đô ở Cổ Loa, chính thức mở ra thời kỳ độc lập tự chủ.
+
+![Hình ảnh tư liệu](images/event_20260923_232100.webp)
+
+*Nguồn: Toàn cảnh khu di tích Cổ Loa (Đông Anh, Hà Nội) / Hanoitimes*
 *   **944:** Ngô Quyền mất. Em vợ là Dương Tam Kha cướp ngôi của con trai Ngô Quyền là Ngô Xương Ngập, xưng là Dương Bình Vương.
 *   **950:** Ngô Xương Văn lật đổ Dương Tam Kha, giáng xuống làm Chương Dương Công và ban cho đất Chương Dương làm thực ấp. Ông xưng là Nam Tấn Vương, cùng anh trai Ngô Xương Ngập (Thiên Sách Vương) cai quản đất nước.
 *   **951:** Hậu Ngô Vương tiến đánh Đinh Bộ Lĩnh ở Hoa Lư hơn một tháng không được, bèn bắt Đinh Liễn làm con tin.
@@ -445,6 +481,10 @@
 
 *Nguồn: Phù điêu Hội nghị Diên Hồng tại Đền thờ Đức Thánh Trần (Ảnh: Phương Huy / Wikimedia Commons / CC BY-SA 4.0)*
 *   **1285:** Khi Thượng hoàng Trần Thánh Tông vờ hỏi có nên hàng không, Trần Hưng Đạo đã khẳng khái trả lời: "Bệ hạ chém đầu tôi trước rồi hãy hàng".
+
+![Hình ảnh tư liệu](images/event_20260923_232059.webp)
+
+*Nguồn: Tượng Trần Hưng Đạo / Vietvisiontravel*
 *   **1285:** Tùy tướng Yết Kiêu (Phạm Hữu Thế) lập công xuất sắc trong cuộc kháng chiến chống Nguyên - Mông lần thứ hai với tài bơi lặn phi thường đục thủng thuyền giặc, đồng thời giữ trọn lòng trung nghĩa cắm thuyền tại Bãi Tân đón chủ tướng Hưng Đạo Đại vương Trần Quốc Tuấn vượt vòng vây quân Nguyên.
 *   **01/1285:** Quân Nguyên do Thoát Hoan chỉ huy bắt đầu cuộc xâm lược Đại Việt lần thứ hai.
 *   **03/1285:** Vua Trần Thánh Tông dùng kế mỹ nhân, sai người đưa Công chúa **An Tư** (em gái út của vua) đến trại quân Nguyên dâng cho Thoát Hoan để làm chậm tốc độ tiến quân của giặc, tạo thời gian quý báu cho quân Trần rút lui và củng cố lực lượng.
