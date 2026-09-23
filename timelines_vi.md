@@ -136,6 +136,10 @@
 *   **08/546 (Bính Dần):** Trận hồ Điển Triệt (Lập Thạch, Phú Thọ) diễn ra. Lý Nam Đế đem 2 vạn quân từ đất Lạo ra đóng ở hồ, đóng nhiều thuyền. Tướng Lương là Trần Bá Tiên lợi dụng đêm mưa nước sông dâng cao 7 thước tràn vào hồ để đánh úp. Quân Vạn Xuân không phòng bị nên tan vỡ, Lý Nam Đế phải lui vào động Khuất Lão.
 *   **01/547:** Triệu Quang Phục lui về giữ đầm Dạ Trạch (Khoái Châu, Hưng Yên) với hơn 2 vạn quân. Lợi dụng địa hình sình lầy, cây cỏ um tùm và nhiều rắn độc, ông dùng chiến thuật du kích, ban ngày ẩn nấp, ban đêm dùng thuyền độc mộc tập kích doanh trại Trần Bá Tiên. Người dân tôn xưng ông là Dạ Trạch Vương.
 *   **548:** Lý Nam Đế mất tại động Khuất Lão, trao lại binh quyền cho Triệu Quang Phục. Cùng thời gian, anh trai vua là Lý Thiên Bảo và Lý Phật Tử lui quân về Ai Lao, tìm thấy động Dã Năng ở đầu nguồn Đào Giang, bèn đắp thành, lập ra nước Dã Năng. Lý Thiên Bảo tự xưng là Đào Lang Vương.
+
+![Hình ảnh tư liệu](images/event_20260923_221130.webp)
+
+*Nguồn: Đền thờ Lý Nam Đế / Wikimedia Commons*
 *   **03/548:** Nghe tin Lý Nam Đế mất, Triệu Quang Phục tự xưng là Triệu Việt Vương.
 *   **01/550:** Tướng Trần Bá Tiên phải rút quân về nước do nhà Lương có loạn, để tỳ tướng Dương Sàn ở lại. Chớp thời cơ, Triệu Việt Vương tung quân phản công, chém chết Dương Sàn, đánh tan quân Lương.
 *   **Cuối năm 550:** Triệu Quang Phục tiến vào thành Long Biên, chính thức lên ngôi vua, thống nhất đất nước và kết thúc thắng lợi cuộc kháng chiến chống Lương.
@@ -1110,6 +1114,10 @@
 *   **07/1792:** Thủy quân Nguyễn Ánh, với sự hỗ trợ của các tàu chiến và kỹ thuật phương Tây, đã thực hiện cuộc tấn công bất ngờ vào cửa **Thị Nại**, tiêu diệt nhiều thuyền chiến của Tây Sơn. Đây là thắng lợi quan trọng đầu tiên của thủy quân Nguyễn đã được hiện đại hóa.
 *   **27/07/1792 (09/06 năm Nhâm Tý):** Nhà giáo dục lỗi lạc Võ Trường Toản – "cụ tổ ngành giáo dục xứ Nam Kỳ", người có công đào tạo nên nhiều danh thần và trí thức kiệt xuất (như "Gia Định tam gia" Trịnh Hoài Đức, Lê Quang Định, Ngô Nhơn Tĩnh) – qua đời tại Hòa Hưng (Gia Định), được chúa Nguyễn Phúc Ánh truy tặng danh hiệu "Gia Định xử sĩ Sùng Đức Võ tiên sinh".
 *   **16/09/1792 (29 tháng 7 âm lịch):** Vua Quang Trung đột ngột qua đời ở tuổi 40. Con trai là Nguyễn Quang Toản (10 tuổi) lên kế vị, lấy niên hiệu là Cảnh Thịnh.
+
+![Hình ảnh tư liệu](images/event_20260923_221128.webp)
+
+*Nguồn: Tượng đài Hoàng đế Quang Trung (1753–1792) / Wikimedia Commons*
 *   **1793:** Nguyễn Ánh tấn công Quy Nhơn. Nguyễn Nhạc cầu cứu Phú Xuân. Quân của Quang Toản vào giải vây rồi chiếm luôn thành Quy Nhơn. Nguyễn Nhạc uất hận mà chết.
 *   **03 - 09/1793 (Tháng 3 - tháng 9 năm Quý Sửu):** Binh bộ Thượng thư Ngô Thì Nhậm làm Chánh sứ dẫn đầu đoàn sứ bộ Tây Sơn sang Yên Kinh (Bắc Kinh, Trung Quốc) báo tang vua Quang Trung và xin sắc phong cho vua Cảnh Thịnh (Nguyễn Quang Toản). Chuyến đi sứ đạt thắng lợi ngoại giao lớn khi vua Càn Long ban dụ khen ngợi, phúng viếng 3.000 lạng bạc làm chay cho Quang Trung và nhanh chóng hạ chiếu phong vương cho Cảnh Thịnh. Chuyến hành trình vạn dặm được ông ghi lại tỉ mỉ trong các thi phẩm bang giao nổi tiếng *Hoàng hoa đồ phả* và *Yên đài thu vịnh*.
 *   **04/1793:** Hoàng tử Cảnh được sách lập làm Đông Cung Thái tử.
@@ -1309,6 +1317,11 @@
 ![Hình ảnh tư liệu](images/event_20260923_213656.webp)
 
 *Nguồn: Hải quân Pháp tấn công Đà Nẵng 01/09/1858 / Wikimedia Commons*
+
+
+![Hình ảnh tư liệu](images/event_20260923_221135.webp)
+
+*Nguồn: Quân Pháp đổ bộ tấn công Đà Nẵng, 01/09/1858 / Wikimedia Commons*
 *   **02/09/1858:** Liên quân Pháp - Tây Ban Nha chiếm đồn Tây, đồn An Hải và Điện Hải. Quân Pháp đổ bộ chiếm được bán đảo Sơn Trà.
 *   **07/12/1858 (03/11 năm Mậu Ngọ):** Danh nhân, nhà quân sự, nhà kinh tế và nhà thơ lỗi lạc Nguyễn Công Trứ qua đời tại quê nhà Nghi Xuân (Hà Tĩnh) ở tuổi 80.
 *   **02/1859:** Khi liên quân Pháp - Tây Ban Nha tấn công Gia Định, Quản cơ Trương Định tự nguyện dẫn đội nghĩa binh đồn điền Tân Hòa phối hợp cùng quân triều đình phòng giữ phòng tuyến Chí Hòa. Nghĩa quân của ông liên tục tổ chức phục kích tiêu diệt nhiều lính Pháp tại khu vực Cây Mai, Thị Nghè, lập nhiều chiến công xuất sắc và được thăng thụ chức Phó Lãnh binh Gia Định.
@@ -1317,7 +1330,7 @@
 
 ![Hình ảnh tư liệu](images/event_20260923_213655.webp)
 
-*Nguồn: Tranh Prise de Saigon 17-18/02/1859 của Antoine Morel-Fatio / Wikimedia Commons*
+*Nguồn: Tranh quân Pháp đánh chiếm Sài Gòn 17-18/02/1859 của Antoine Morel-Fatio / Wikimedia Commons*
 *   **08/03/1859:** Quân Pháp cho phá hủy hoàn toàn thành Gia Định, thiêu rụi kho tàng, chỉ giữ lại đồn Hữu Bình rồi rút phần lớn quân trở ra Đà Nẵng.
 *   **20/04/1859:** Quân Pháp do de Genouilly chỉ huy tấn công dữ dội và chiếm được đồn Điện Hải tại Đà Nẵng.
 *   **08/05/1859:** Trận giao tranh lớn tại Đà Nẵng. Liên quân Pháp đánh chiếm 3 đồn lớn của quân Việt (Du Xuyên, Thạc Gián, Hải Châu) và thu 54 khẩu đại bác, hai bên đều thương vong nhiều.
@@ -1433,6 +1446,10 @@
 *   **11/05/1884:** Pháp và nhà Thanh ký Quy ước Thiên Tân, nhà Thanh đồng ý rút quân khỏi Bắc Kỳ.
 *   **31/05/1884:** Quân Pháp do Trung tá Duchesne chỉ huy dùng pháo hạm ngược sông Lô tấn công và hạ thành Tuyên Quang, buộc quân Cờ Đen phải bỏ thành tháo chạy.
 *   **06/06/1884:** Triều đình Huế (đại diện là Phạm Thận Duật, Nguyễn Văn Tường, Tôn Thất Phan) ký Hòa ước Giáp Thân (Hiệp ước Patenôtre) với Pháp (đại diện là Công sứ Patenôtre), xác lập một cách hoàn chỉnh nền bảo hộ của Pháp trên toàn Việt Nam.
+
+![Hình ảnh tư liệu](images/event_20260923_221133.webp)
+
+*Nguồn: Tranh cổ động của Pháp vinh danh cuộc chinh phục Bắc Kỳ / Wikimedia Commons*
 *   **23 - 24/06/1884:** Trận Bắc Lệ (Trận cầu Quan Âm). Một toán quân Pháp do Trung tá Dugenne chỉ huy trên đường lên tiếp quản Lạng Sơn theo Quy ước Thiên Tân đã bị liên quân Việt - Thanh phục kích tại khu vực Bắc Lệ. Quân Pháp thất bại thảm hại, thương vong nặng nề và phải rút chạy. Sự kiện này làm bùng nổ cuộc Chiến tranh Pháp - Thanh.
 *   **08/1884:** Vua Kiến Phúc qua đời (nghi bị đầu độc). Hàm Nghi được đưa lên ngôi vua.
 *   **10/1884 - 03/03/1885:** Trận Tuyên Quang. Khoảng 12.000 quân Cờ Đen và quân Thanh đã bao vây chặt hơn 600 lính đồn trú Pháp tại thành Tuyên Quang. Các cuộc giao tranh, đào hầm ngầm, và pháo kích diễn ra ác liệt trong nhiều tháng cho đến khi binh đoàn của tướng Giovanninelli đánh phá vòng vây đến giải cứu.
@@ -2037,6 +2054,10 @@
 *   **30/11/1946:** Chủ tịch Hồ Chí Minh ký Sắc lệnh số 230/SL cử đồng chí Võ Nguyên Giáp (Bộ trưởng Bộ Quốc phòng) giữ chức Tổng Chỉ huy Quân đội Quốc gia và Dân quân tự vệ Việt Nam, thống nhất quyền chỉ huy tối cao các lực lượng vũ trang cả nước để chuẩn bị bước vào cuộc Toàn quốc kháng chiến trường kỳ chống thực dân Pháp.
 *   **12/1946:** Ở tuổi 17, Đặng Thị Kim vinh dự được kết nạp vào Đảng Cộng sản Đông Dương nhờ những thành tích xuất sắc trong công tác cách mạng tại Nha Trang.
 *   **12/1946:** Trong những ngày đầu Toàn quốc kháng chiến tại Hà Nội, chiến sĩ tự vệ Vũ Văn Thành (con trai út của Bác sĩ Vũ Đình Tụng) bị thương nặng trong chiến đấu và đã anh dũng hy sinh ngay trên bàn mổ trong sự tận tụy cứu chữa của cha mình. Trước đó, một người con trai khác của Bác sĩ Tụng là Vũ Đình Tín cũng đã anh dũng hy sinh khi tham gia tự vệ chiến đấu bảo vệ chính quyền cách mạng non trẻ sau Cách mạng tháng Tám năm 1945.
+
+![Hình ảnh tư liệu](images/event_20260923_221138.webp)
+
+*Nguồn: Chiến sĩ Vệ quốc đoàn Hà Nội trong những ngày đầu Toàn quốc kháng chiến, 12/1946 / Wikimedia Commons*
 *   **12/12/1946:** Hai chiến hạm *Thái Bình* và *Trung Nghiệp* của chính quyền Trung Hoa Dân Quốc tiếp tục đổ bộ trái phép lên đảo Ba Bình (Itu Aba - đảo tự nhiên có diện tích lớn nhất thuộc quần đảo Trường Sa của Việt Nam), dựng cột mốc chủ quyền trái phép và đổi tên đảo thành đảo Thái Bình theo tên tàu chiến.
 *   **16/12/1946:** Các trùm thực dân Pháp ở Đông Dương họp hội nghị tại Hải Phòng để bàn kế hoạch gây hấn. Cùng ngày, Cao ủy Pháp D'Argenlieu tuyên bố Hà Nội, Hải Phòng, Đà Nẵng là lãnh thổ của nước Pháp.
 *   **17/12/1946:** Quân Pháp gây ra vụ tàn sát ở phố Hàng Bún, phố Lò Đúc và khu Yên Ninh (Hà Nội).
@@ -3257,7 +3278,7 @@
 
 ![Hình ảnh tư liệu](images/event_20260923_105829.webp)
 
-*Nguồn: Ảnh tư liệu White House / Báo Tuổi Trẻ*
+*Nguồn: Ảnh tư liệu Nhà Trắng / Báo Tuổi Trẻ*
 *   **28/07/1995:** Việt Nam chính thức được kết nạp làm **thành viên thứ 7** của Hiệp hội các quốc gia Đông Nam Á (ASEAN) tại Brunei.
 
 ![Hình ảnh tư liệu](images/event_20260923_105715.webp)

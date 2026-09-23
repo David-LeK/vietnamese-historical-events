@@ -40,14 +40,14 @@
 
 ![Historical Image](images/event_20260923_105043.webp)
 
-*Source: Bảo tàng Lịch sử Quốc gia*
+*Source: Vietnam National Museum of History*
 *   **Around the 3rd - 2nd century BC:** Buddhism was introduced to Vietnam by sea from India. This was the earliest religion to arrive and has been localized, becoming a dominant ideology in national culture throughout many historical periods.
 *   **258 BC:** Thuc Phan (chieftain of the Tay Au / Au Viet tribes) launched a military offensive against Van Lang. With the late Van Lang court weakened and caught unprepared, the forces of the 18th Hung King (Hung Due Vuong) were defeated. Thuc Phan conquered the realm, officially concluding the era of the 18 Hung Kings' reign under the Hong Bang Clan.
 *   **257 BC:** Thuc Phan ascended the throne as An Duong Vuong, unified the Tay Au and Lac Viet peoples, changed the national title to Au Lac, and moved the capital from Phong Chau to Phong Khe (Co Loa).
 
 ![Historical Image](images/event_20260923_125040.webp)
 
-*Source: Đình Ngự Triều Di Quy trong khu di tích Cổ Loa (Đông Anh, Hà Nội) / Wikimedia Commons (CC BY-SA 3.0)*
+*Source: Ngu Trieu Di Quy communal house in the Co Loa relic site (Dong Anh, Hanoi) / Wikimedia Commons (CC BY-SA 3.0)*
 *   **257 BC:** Thuc Phan An Duong Vuong erected a sacred stone oath pillar on the peak of Nghia Linh Mountain (Phong Chau), swearing eternal preservation of the realm handed down by the Hung Kings.
 *   **255 BC:** An Duong Vuong constructed the Loa Thanh (Co Loa Citadel).
 *   **Around 250 BC:** General Cao Lo (Cao Thong) successfully invented the "Lianzhou Crossbow" (Magic Crossbow), capable of firing multiple bronze arrows simultaneously, becoming a strategic defensive weapon for Co Loa Citadel of Au Lac.
@@ -77,7 +77,7 @@
 
 ![Historical Image](images/event_20260923_122130.webp)
 
-*Source: Tranh dân gian Đông Hồ: Hai Bà Trưng cưỡi voi ra trận / Wikimedia Commons*
+*Source: Dong Ho folk painting: The Trung Sisters riding elephants into battle / Wikimedia Commons*
 *   **41:** Ma Yuan led an army of 200,000 to invade.
 *   **43:** The uprising failed following an attack by the Han general Ma Yuan. The Trung Sisters committed suicide in the Hat River. Ma Yuan erected bronze pillars to mark the border.
 *   **44:** Following the suppression of the Trung Sisters' uprising, Ma Yuan abolished the hereditary rule of the Lac generals (Lac lords), crushed remaining Lac Viet insurgencies in Tay Vu county, and divided Tay Vu into Phong Khe and Vong Hai counties to enforce direct Han imperial administration.
@@ -130,12 +130,16 @@
 
 ![Historical Image](images/event_20260923_213702.webp)
 
-*Source: Bản đồ lãnh thổ nước Vạn Xuân thời nhà Tiền Lý / Wikimedia Commons*
+*Source: Map of the Van Xuan Kingdom under the Early Ly Dynasty / Wikimedia Commons*
 *   **May 545:** The Liang dynasty's Emperor Wu sent Duong Phieu, Tran Ba Tien (Chen Baxian), and Tieu Bot to invade Van Xuan. Ly Nam De led 30,000 troops to resist but was defeated at Chu Dien and the To Lich river mouth, where generals Tinh Thieu, Pham Tu, and Trieu Tuc died in battle. Ly Nam De retreated to Gia Ninh citadel (Phu Tho).
 *   **Jan. 546:** Liang general Tran Ba Tien captured Gia Ninh citadel. Ly Nam De fled to the territory of the Lao people in Tan Xuong.
 *   **Aug. 546 (Binh Dan year):** The Battle of Dien Triet Lake (Lap Thach, Phu Tho) took place. Ly Nam De gathered 20,000 troops from the Lao territory and built many boats. Liang general Chen Baxian (Tran Ba Tien) used a water attack strategy when the river water suddenly rose 7 *thuoc* at night, flooding the lake. The unprepared Van Xuan army was defeated. Ly Nam De had to retreat to Khuat Lao cave.
 *   **Jan. 547:** Trieu Quang Phuc retreated to the Da Trach swamp (Khoai Chau, Hung Yen) with over 20,000 troops. Utilizing the treacherous, muddy terrain filled with venomous snakes, he employed guerrilla tactics - moving by small dugout canoes, hiding during the day without smoke, and launching night raids on Tran Ba Tien's camps. He earned the title Da Trach Vuong (King of the Night Swamp).
 *   **548:** Ly Nam De passed away at Khuat Lao cave, delegating military power to Trieu Quang Phuc. Meanwhile, his older brother Ly Thien Bao and Ly Phat Tu retreated to Ai Lao, found Da Nang cave at the head of the Dao Giang river, built a citadel, and established the state of Da Nang. Ly Thien Bao proclaimed himself Dao Lang Vuong.
+
+![Historical Image](images/event_20260923_221130.webp)
+
+*Source: Ly Nam De Memorial Temple / Wikimedia Commons*
 *   **Mar. 548:** Upon hearing of Ly Nam De's death, Trieu Quang Phuc proclaimed himself Trieu Viet Vuong (King of Trieu Viet).
 *   **Jan. 550:** Liang general Tran Ba Tien returned to China due to an internal rebellion, leaving Duong San in command. Seizing the opportunity, Trieu Quang Phuc launched a counter-offensive, killed Duong San, and defeated the Liang army.
 *   **Late 550:** Trieu Quang Phuc entered Long Bien citadel and officially took the throne, reunifying the country and ending the war against the Liang dynasty.
@@ -155,7 +159,7 @@
 
 ![Historical Image](images/event_20260923_213701.webp)
 
-*Source: Tượng Hoàng đế Mai Thúc Loan / Wikimedia Commons*
+*Source: Statue of Emperor Mai Thuc Loan / Wikimedia Commons*
 *   **722 (Lunar Year of the Dog):** Following fierce sieges by Tang imperial forces, Mai Hac De (Mai Thuc Loan) fell ill and passed away. His son Mai Thuc Huy (Mai Thieu De) was acclaimed as the new ruler by the insurgents, retreating to the Hung Son mountain fortress (Nam Dan, Nghe An) to sustain resistance against the Tang dominion.
 *   **723 (Quy Hoi year):** Tang generals Yang Sixu and Guang Chuke launched a massive assault against the Hung Son stronghold. Mai Thieu De and his commanders fought valiantly to the end and died in battle, bringing an end to the Mai Hac De uprising.
 *   **766 - 791:** The uprising of Phung Hung (Bo Cai Dai Vuong).
@@ -185,7 +189,7 @@
 
 ![Historical Image](images/event_20260923_105131.webp)
 
-*Source: Di tích bãi cọc Bạch Đằng / Báo Dân trí*
+*Source: Bach Dang stake-yard relic site / Dan Tri Newspaper*
 
 ### **Early Independence Period (Ngo - Dinh - Early Le, 939 - 1009)**
 
@@ -203,7 +207,7 @@
 
 ![Historical Image](images/event_20260923_125157.webp)
 
-*Source: Cửa Đông vào Cố đô Hoa Lư (Ninh Bình) – kinh đô nước Đại Cồ Việt thời vua Đinh Tiên Hoàng / Wikimedia Commons (Public domain)*
+*Source: Eastern Gate to the Hoa Lu Ancient Capital (Ninh Binh) - capital of Dai Co Viet under King Dinh Tien Hoang / Wikimedia Commons (Public domain)*
 *   **970:** Dinh Tien Hoang established the era name Thai Binh.
 *   **970:** Dinh Tien Hoang established five queens (Dan Gia, Trinh Minh, Kieu Quoc, Co Quoc, and Cao Ong), setting a precedent for the royal harem system.
 *   **970:** King Đinh Tiên Hoàng established the era name Thái Bình and minted "Thái Bình hưng bảo" bronze coins, the first metallic currency in independent Vietnamese history, affirming national economic and monetary sovereignty.
@@ -250,7 +254,7 @@
 
 ![Historical Image](images/event_20260923_122250.webp)
 
-*Source: Văn bia Chiếu dời đô (Lý Thái Tổ, 1010) / Wikimedia Commons*
+*Source: Stele of the Edict on the Transfer of the Capital (Ly Thai To, 1010) / Wikimedia Commons*
 *   **Dec. 1010:** Ly Thai To carried out administrative reforms, dividing the country into 24 routes (lo), below which were phu - chau, huyen - huong, and giap.
 *   **1013:** Ly Thai To established tax categories nationwide, including a mulberry field tax collected in grain and cash, officially recognizing and protecting sericulture and silk weaving.
 *   **Jan. 1014:** Battle of Kim Hoa Port. King Duan Suliang of Dali dispatched generals Yang Changhui and Duan Jingzhi with 200,000 troops to invade Dai Co Viet, establishing the Wuhua camp at Kim Hoa Port (modern Tuyen Quang - Ha Giang). Emperor Ly Thai To commanded Prince Duc Thanh Vuong to repel the invasion; Dai Co Viet forces coordinated war elephants and infantry to crush the Dali cavalry, beheading tens of thousands of enemy soldiers and capturing countless troops and warhorses. In July 1014, the Ly court sent envoys presenting 100 captured warhorses as gifts to the Song dynasty.
@@ -282,7 +286,7 @@
 
 ![Historical Image](images/event_20260923_122409.webp)
 
-*Source: Ảnh: Staffan Scherz / Wikimedia Commons (CC BY 2.0)*
+*Source: Photo: Staffan Scherz / Wikimedia Commons (CC BY 2.0)*
 *   **Nov. 1051:** The Ly court ordered the excavation of the Lam River in Thanh Hoa.
 *   **1053:** Under the leadership of Khai Quoc Vuong, the Ly army launched a campaign to assist Nung Tri Cao in establishing the Kingdom of Dai Nam in the Guangdong-Guangxi region.
 *   **1054:** Ly Thai Tong passed away, Ly Nhat Ton ascended the throne (Ly Thanh Tong), and changed the national name from Dai Co Viet to Dai Viet.
@@ -299,7 +303,7 @@
 
 ![Historical Image](images/event_20260923_122430.webp)
 
-*Source: Ảnh: Chuoibk / Wikimedia Commons (CC BY-SA 3.0)*
+*Source: Photo: Chuoibk / Wikimedia Commons (CC BY-SA 3.0)*
 *   **Dec. 1072:** Ly Thanh Tong died, and Ly Can Duc (Ly Nhan Tong) ascended the throne, inheriting it according to the will of his father, Emperor Ly Thanh Tong (at the age of only 7).
 *   **1075:** Ly Thuong Kiet inspected the southern border, drawing maps and renaming Dia Ly district to Lam Binh and Ma Linh district to Minh Linh.
 *   **1075:** Regent Empress Dowager Linh Nhan (Y Lan) directed the pre-emptive strike strategy against the Song. She organized a "special court" of female advisors, including Princess Thien Ninh (in charge of logistics, later worshipped as "Ba Chua Kho"), to manage the rear and supplies.
@@ -311,7 +315,7 @@
 
 ![Historical Image](images/event_20260923_122611.webp)
 
-*Source: Tượng đồng Thái úy Lý Thường Kiệt tại Bảo tàng Lịch sử Quân sự Việt Nam (Ảnh: Gary Todd / CC0)*
+*Source: Bronze statue of Grand Commandant Ly Thuong Kiet at the Vietnam Military History Museum (Photo: Gary Todd / CC0)*
 *   **Jan. 2, 1076:** Ly forces captured Lianzhou (Liem Chau).
 *   **Jan. 18, 1076:** Ly forces laid siege to Yongzhou (Ung Chau) citadel, defended by Su Jian (To Giam).
 *   **Feb. 11, 1076:** Battle of Con Lon pass. Ly Thuong Kiet defeated Song reinforcements led by Zhang Shoujie.
@@ -439,7 +443,7 @@
 
 ![Historical Image](images/event_20260923_122637.webp)
 
-*Source: Phù điêu Hội nghị Diên Hồng tại Đền thờ Đức Thánh Trần (Ảnh: Phương Huy / Wikimedia Commons / CC BY-SA 4.0)*
+*Source: Relief of the Dien Hong Conference at the Tran Hung Dao Temple (Photo: Phuong Huy / Wikimedia Commons / CC BY-SA 4.0)*
 *   **1285:** When King Tran Thanh Tong asked if he should surrender during the difficult early stages of the war, Tran Hung Dao famously replied: "Your Majesty, if you want to surrender, please cut off my head first."
 *   **1285:** Officer Yet Kieu (Pham Huu The) distinguished himself during the second Mongol invasion with his extraordinary diving prowess to sabotage enemy warships, while demonstrating steadfast loyalty by keeping his boat stationed at Bai Tan to help Supreme Commander Tran Quoc Tuan break through enemy encirclement.
 *   **Jan. 1285:** Yuan forces under the command of Toghon began the second invasion of Dai Viet.
@@ -457,7 +461,7 @@
 
 ![Historical Image](images/event_20260923_130302.webp)
 
-*Source: Tranh mô tả Chiến thắng Bạch Đằng năm 1288 đánh tan quân Nguyên Mông tại Bảo tàng Lịch sử TP. Hồ Chí Minh (Ảnh: Gary Todd / CC0)*
+*Source: Painting depicting the 1288 Bach Dang Victory over the Mongol-Yuan invaders at the Ho Chi Minh City History Museum (Photo: Gary Todd / CC0)*
 *   **Sep. 1288:** Nguyen Tu Quoc Mau (Princess Thien Thanh, wife of Tran Hung Dao) passed away after 37 years of marriage. While her husband fought on the front lines, she managed logistics in the rear. She was one of the only two women (along with Linh Tu Quoc Mau Tran Thi Dung) honored with the supreme title "Quoc Mau" (Mother of the Nation) for their immense contributions to the Tran dynasty.
 *   **1289:** Emperor Tran Nhan Tong enfeoffed Nguyen Khoai as a Marquis and granted Khoai Lo district as a "thang moc ap" (bathing appanage).
 *   **Jul. 3, 1290 (25th day of the 5th lunar month, Canh Dan year):** Retired Emperor Tran Thanh Tong (Tran Hoang), the second monarch of the Tran Dynasty who co-commanded the victorious resistance against the Second (1285) and Third (1288) Yuan-Mongol Invasions alongside Emperor Tran Nhan Tong, passed away at Nhan Tho Palace at age 51.
@@ -604,7 +608,7 @@
 
 ![Historical Image](images/event_20260923_213700.webp)
 
-*Source: Chân dung Hồ Quý Ly / Người Hà Nội*
+*Source: Portrait of Ho Quy Ly / Nguoi Ha Noi*
 *   **Mid-1400:** The Ho emperor established a covert security network, appointing Censors (Liem phong su) in all routes to monitor officials and the populace.
 *   **Aug. 1400:** The Ho dynasty attacked Champa with 150,000 troops led by Do Man and Tran Tung but failed due to starvation in the mountainous terrain.
 *   **Aug. 1400:** The Ho court organized the first Thai hoc sinh (National University student) examination, passing 20 people, including Nguyen Trai.
@@ -732,7 +736,7 @@
 
 ![Historical Image](images/event_20260923_122721.webp)
 
-*Source: Bản in chữ Hán tác phẩm Bình Ngô đại cáo của Nguyễn Trãi / Wikimedia Commons (Public domain)*
+*Source: Chinese-character print of Nguyen Trai's Binh Ngo Dai Cao (Great Proclamation on the Pacification of the Ngo) / Wikimedia Commons (Public domain)*
 *   **1429:** Emperor Le Thai To organized the first civil service examination of the Le dynasty, known as the "Minh kinh bac hoc" examination.
 *   **Jan. 7, 1429:** King Le Thai To established his eldest son Tu Te as King of the Nation (Quoc Vuong) to temporarily manage state affairs, and his second son Nguyen Long as Crown Prince.
 *   **Feb. 1429:** Le Thai To ordered the demobilization of 250,000 troops, keeping only 100,000, implementing the "combining military service with farming" policy.
@@ -771,7 +775,7 @@
 
 ![Historical Image](images/event_20260923_130430.webp)
 
-*Source: Bia Tiến sĩ khoa Nhâm Tuất (1442) dựng năm 1484 tại Văn Miếu – Quốc Tử Giám / Wikimedia Commons (CC BY-SA 3.0)*
+*Source: Doctoral stele of the 1442 Nham Tuat examination, erected in 1484 at the Temple of Literature - Imperial Academy / Wikimedia Commons (CC BY-SA 3.0)*
 *   **Mar. 1484:** King Le Thanh Tong issued strict edicts prohibiting abortion, classifying it as a crime damaging to ethics and life, with severe penalties for husbands who failed to prevent it.
 *   **May 1488:** Imperial Concubine Nguyen Thi Can (Chieu Nhan), formerly a palace slave, gave birth to Prince Le Tuan (later Emperor Le Uy Muc).
 *   **1490:** The map of the 13 provinces of the country was redefined.
@@ -997,7 +1001,7 @@
 
 ![Historical Image](images/event_20260923_213659.webp)
 
-*Source: Tượng ba anh em Nguyễn Nhạc - Nguyễn Huệ - Nguyễn Lữ / Bảo tàng Quang Trung*
+*Source: Statues of the three brothers Nguyen Nhac - Nguyen Hue - Nguyen Lu / Quang Trung Museum*
 *   **1773:** Generals Le Van Hung, Tran Quang Dieu, and Vo Van Dung commanded Tay Son forces to capture Bong Son and Phu Ly, paving the way for the attack on Quy Nhon. The Tay Son army captured Tuy Vien district and then Quy Nhon Citadel (using the stratagem of Nguyen Nhac hiding himself in a cage to enter the citadel as a prisoner). Nguyen Anh established three villages, An Hai, An Hoi, and Co Ong, and named the Con Dao archipelago Con Lon.
 *   **Spring 1773:** A small army comprising highland ethnic groups and lowland peasants from the An Khe plateau, led by Nguyen Nhac, descended to attack the provincial capital of Quy Nhon.
 *   **Mid-Autumn 1773:** Nguyen Nhac held a flag-raising ceremony at An Khe Pass to officially launch the military campaign.
@@ -1049,7 +1053,7 @@
 
 ![Historical Image](images/event_20260923_130632.webp)
 
-*Source: Tượng đài Chiến thắng Rạch Gầm - Xoài Mút tại Tiền Giang (Ảnh: Nguyễn Thanh Quang / Wikimedia Commons / Public domain)*
+*Source: Rach Gam - Xoai Mut Victory Monument in Tien Giang (Photo: Nguyen Thanh Quang / Wikimedia Commons / Public domain)*
 *   **1786:** While in exile in Siam, Le Van Duyet participated in the Siamese army's battle against Burmese invaders at Sai-Nac. He employed "fire tubes" tactics to frighten the enemy's war elephants and horses, contributing to the victory.
 *   **Feb. 14, 1786:** The Grand Preceptor (Thai Pho) and General Administrator of Civil-Military Affairs under the Tay Son administration issued an official dispatch order (*Sai phai trang*) appointing Garrison Commander Ha Lieu to lead 4 fishing boats of the Hoang Sa flotilla (An Vinh village) to continue operations on the Paracel Islands, collecting salvaged goods and weapons. This administrative document from the Tay Son Dynasty confirms the continuous exercise of sovereignty over the Paracel Islands.
 *   **Jun. 1786:** Under the pretext of "supporting the Le, destroying the Trinh," Nguyen Hue commanded a large Tay Son army to advance north.
@@ -1086,14 +1090,14 @@
 
 ![Historical Image](images/event_20260923_213658.webp)
 
-*Source: Tranh Nguyễn Huệ lên ngôi Hoàng đế (Quang Trung) năm 1788*
+*Source: Painting of Nguyen Hue ascending the throne as Emperor (Quang Trung), 1788*
 *   **1789:** Emperor Quang Trung issued the "Edict on Encouraging Agriculture" (drafted by Ngo Thi Nham) to restore agricultural production after the war. He also introduced the **"Tin Bai"** (Identity Card) system for the first time to manage the population and conscription, requiring citizens to carry an identification tag. General Vo Van Dung was sent as a special envoy to the Qing court, successfully fulfilling the mission of peace talks and even proposing a royal marriage and land requisition (two provinces of Guangdong and Guangxi) to test the Qing Emperor's attitude.
 *   **Jan. 29, 1789 (4th day of the Lunar New Year):** Grand Admiral Nguyen Van Tuyet commanded the attack on the Qing army stationed in Hai Duong, destroying the enemy camp and causing them to flee.
 *   **Jan. 30, 1789 (5th day of the Lunar New Year):** Emperor Quang Trung entered Thang Long after crushing the Qing army in the Ngoc Hoi - Dong Da campaign. Utilizing highly mobile infantry, war elephants, and shock troops with wet straw shields, the Tay Son annihilated key enemy outposts within 5 days. Qing commander Sun Shiyi panicked and fled, causing the pontoon bridge over the Red River to collapse and resulting in massive enemy casualties. Le Chieu Thong also fled to China.
 
 ![Historical Image](images/event_20260923_122800.webp)
 
-*Source: Tượng đài Hoàng đế Quang Trung tại Gò Đống Đa, Hà Nội (Ảnh: Nguyễn Thanh Quang / Wikimedia Commons / CC BY-SA 3.0)*
+*Source: Monument to Emperor Quang Trung at Go Dong Da, Hanoi (Photo: Nguyen Thanh Quang / Wikimedia Commons / CC BY-SA 3.0)*
 *   **Autumn 1789:** Emperor Quang Trung sent his nephew **Nguyen Quang Hien** to Beijing to pay tribute and attend Emperor Qianlong's birthday celebration at the Mountain Resort (Jehol). Emperor Qianlong accepted the peace and officially invested Nguyen Hue as the King of An Nam.
 *   **1790:** A high-level Dai Viet diplomatic mission led by Pham Cong Tri (impersonating Emperor Quang Trung), with Phan Huy Ich and Grand Marshal Ngo Van So serving as principal diplomatic envoys, arrived in Beijing and the Chengde Mountain Resort (Jehol) to attend Emperor Qianlong's 80th birthday celebration. Through eloquent diplomacy and scholarly stature, the delegation was received with unprecedented royal honors by the Qing court, consolidating peaceful relations between the two empires.
 *   **1790:** Emperor Quang Trung appoints Ngo Thi Nham as Minister of War (*Binh bo Thuong thu*) and entrusts him with full authority over foreign policy and diplomacy with the Qing dynasty. Employing flexible yet resolute diplomacy through masterly diplomatic correspondences collected in *Bang giao hao thoai*, he played the foremost role in preserving peace and establishing Dai Viet's dignified standing in relations with the Qing court.
@@ -1110,6 +1114,10 @@
 *   **Jul. 1792:** The Nguyen navy, utilizing Western-style ships and tactics, launched a surprise attack on the Tay Son navy at **Thi Nai** port, destroying many vessels. This was a significant initial victory for the modernized Nguyen navy.
 *   **July 27, 1792:** Eminent educator Vo Truong Toan – revered as the patriarch of Southern Vietnamese education and mentor of prominent scholars including the "Three Scholars of Gia Dinh" (Trinh Hoai Duc, Le Quang Dinh, Ngo Nhon Tinh) – passed away in Gia Dinh, posthumously honored by Lord Nguyen Phuc Anh as "Gia Dinh Scholar Vo".
 *   **Sep. 15, 1792 (29th of the 7th lunar month):** Emperor Quang Trung suddenly passed away at the age of 40 (according to the text *Nhà Tây Sơn*). His son, Nguyen Quang Toan (10 years old), succeeded him, taking the era name Canh Thinh.
+
+![Historical Image](images/event_20260923_221128.webp)
+
+*Source: Monument to Emperor Quang Trung (1753–1792) / Wikimedia Commons*
 *   **1793:** Nguyen Anh attacked Quy Nhon. Nguyen Nhac asked Phu Xuan for help. Quang Toan's army came to relieve the siege and then captured Quy Nhon Citadel. Nguyen Nhac died of indignation.
 *   **Mar. - Sep. 1793 (3rd to 9th lunar months, Year of Quy Suu):** Minister of War Ngo Thi Nham serves as Chief Envoy leading the Tay Son diplomatic mission to Beijing to report the demise of Emperor Quang Trung and request the investiture of Emperor Canh Thinh (Nguyen Quang Toan). The mission achieved remarkable success as Emperor Qianlong issued commendations, donated 3,000 taels of silver for Quang Trung's funeral rites, and promptly granted royal investiture to Canh Thinh. Ngo Thi Nham recorded this extensive journey in his celebrated diplomatic works *Hoang hoa do pha* and *Yen dai thu vinh*.
 *   **Apr. 1793:** Prince Canh was officially invested as Crown Prince (Dong Cung).
@@ -1138,7 +1146,7 @@
 
 ![Historical Image](images/event_20260923_213657.webp)
 
-*Source: Chân dung Vua Gia Long / Wikimedia Commons*
+*Source: Portrait of Emperor Gia Long / Wikimedia Commons*
 *   **1802:** Nguyễn Du (1765 - 1820) began serving as an imperial official under Emperor Gia Long of the Nguyễn Dynasty, holding posts such as Magistrate of Phù Dung, Prefect of Thường Tín, and later Right Vice Minister of Rites.
 *   **Feb. 3, 1802:** Battle of Tran Ninh. The final decisive clash between Tay Son forces and the army of Lord Nguyen Phuc Anh. Although female general Bui Thi Xuan valiantly rode war elephants to direct fierce assaults, Tay Son forces were ultimately defeated before the formidable fortifications of the Nguyen army at Tran Ninh wall. Simultaneously, the Tay Son naval fleet was wiped out at the Nhat Le estuary. This crushing defeat marked the total collapse of the Tay Son Dynasty.
 *   **May 1802:** Le Van Duyet was appointed as *Imperial Commissioner, Commander of the Left Army* (Kham sai Chuong Ta quan), becoming one of the highest-ranking generals and a founding meritorious official of the dynasty.
@@ -1167,7 +1175,7 @@
 
 ![Historical Image](images/event_20260923_125326.webp)
 
-*Source: Ngọ Môn – Cổng chính Hoàng thành Huế (Ảnh: Supanut Arunoprayote / Wikimedia Commons / CC BY 4.0)*
+*Source: Ngo Mon Gate - main entrance of the Hue Imperial City (Photo: Supanut Arunoprayote / Wikimedia Commons / CC BY 4.0)*
 *   **May 1806:** Emperor Gia Long officially held the coronation ceremony at the Thai Hoa Palace, taking the title of **Emperor** (Hoàng Đế).
 *   **1807:** Emperor Gia Long organized the first regional examination (thi Huong).
 *   **1808:** Gia Long changed Gia Dinh Garrison to Gia Dinh Citadel.
@@ -1308,7 +1316,12 @@
 
 ![Historical Image](images/event_20260923_213656.webp)
 
-*Source: Hải quân Pháp tấn công Đà Nẵng 01/09/1858 / Wikimedia Commons*
+*Source: French Navy attacking Da Nang, Sep. 1, 1858 / Wikimedia Commons*
+
+
+![Historical Image](images/event_20260923_221135.webp)
+
+*Source: French troops landing to attack Da Nang, Sep. 1, 1858 / Wikimedia Commons*
 *   **Sep. 2, 1858:** The French-Spanish coalition force captured the Tay Fort, An Hai, and Dien Hai fortresses. French forces occupied the Son Tra peninsula.
 *   **Dec. 7, 1858:** Prominent statesman, military commander, economist, and celebrated poet Nguyen Cong Tru passed away in his hometown of Nghi Xuan (Ha Tinh) at the age of 80.
 *   **Feb. 1859:** When French and Spanish forces assaulted Gia Định, Militia Commander Trương Định voluntarily led his Tân Hòa agricultural militia to join royal troops in defending the Chí Hòa line. His forces repeatedly ambushed enemy patrols in Cây Mai and Thị Nghè, inflicting significant casualties and earning him a promotion to Deputy Commander (*Phó Lãnh binh*) of Gia Định.
@@ -1317,7 +1330,7 @@
 
 ![Historical Image](images/event_20260923_213655.webp)
 
-*Source: Tranh Prise de Saigon 17-18/02/1859 của Antoine Morel-Fatio / Wikimedia Commons*
+*Source: Painting of the capture of Saigon, Feb. 17-18, 1859, by Antoine Morel-Fatio / Wikimedia Commons*
 *   **Mar. 8, 1859:** French forces completely destroyed Gia Dinh Citadel, setting fire to granaries and keeping only a small garrison at the Huu Binh fort before withdrawing most of their troops back to Da Nang.
 *   **Apr. 20, 1859:** French forces led by de Genouilly launched a fierce attack on the Dien Hai fortress in Da Nang and successfully captured it.
 *   **May 8, 1859:** A major battle took place in Da Nang. French forces launched a three-pronged attack, capturing three large Vietnamese forts (Du Xuyen, Thac Gian, Hai Chau) and 54 cannons, inflicting heavy casualties on both sides.
@@ -1433,6 +1446,10 @@
 *   **May 11, 1884:** France and the Qing dynasty signed the Tientsin Accord, in which the Qing agreed to withdraw their troops from Tonkin.
 *   **May 31, 1884:** French forces under Colonel Duchesne captured the Tuyen Quang Citadel on the Lo River, forcing the Black Flag Army to abandon the stronghold.
 *   **Jun. 6, 1884:** The Hue court (represented by Pham Than Duat, Nguyen Van Tuong, and Ton That Phan) signed the Treaty of Giap Than (Patenôtre Treaty) with France (represented by Minister Patenôtre), which completely established the French protectorate over all of Vietnam.
+
+![Historical Image](images/event_20260923_221133.webp)
+
+*Source: French propaganda poster honoring the conquest of Tonkin / Wikimedia Commons*
 *   **Jun. 23 - 24, 1884:** Battle of Bac Le. A French column marching to occupy Lang Son under the terms of the Tientsin Accord was ambushed by Qing and Vietnamese forces near the Quan Am bridge. The French suffered a severe defeat and retreated with heavy casualties, sparking the Sino-French War.
 *   **Aug. 1884:** Emperor Kien Phuc passed away (suspected poisoned). Ham Nghi was enthroned.
 *   **Oct. 1884 - Mar. 3, 1885:** Siege of Tuyen Quang. A small French garrison of 600 men in Tuyen Quang was besieged by 12,000 troops of the Black Flag Army and Qing forces. The French withstood intense tunneling and continuous assaults for months until a relief column commanded by General Giovanninelli broke the siege.
@@ -1442,12 +1459,12 @@
 
 ![Historical Image](images/event_20260923_213626.webp)
 
-*Source: Chân dung Tôn Thất Thuyết / Wikimedia Commons*
+*Source: Portrait of Ton That Thuyet / Wikimedia Commons*
 *   **Jul. 13, 1885:** King Ham Nghi issued the Can Vuong (Aid the King) Edict, calling on all people to resist the French.
 
 ![Historical Image](images/event_20260923_213625_1.webp)
 
-*Source: Chân dung vua Hàm Nghi / Wikimedia Commons*
+*Source: Portrait of Emperor Ham Nghi / Wikimedia Commons*
 *   **Sep. 1885:** Nguyen Ba Loan led the Quang Ngai Righteous Association in response to the Can Vuong Edict.
 *   **Sep. 19, 1885:** Emperor Dong Khanh was enthroned at the Thai Hoa Palace.
 *   **Nov. 1885:** The Hue court established the **Dai Nam Cong Bao** (Dai Nam Official Gazette), the first official gazette in Vietnam, publishing government decrees and news every 10 days.
@@ -1551,7 +1568,7 @@
 
 ![Historical Image](images/event_20260923_122907.webp)
 
-*Source: Bến Nhà Rồng – Bảo tàng Hồ Chí Minh tại TP. Hồ Chí Minh (Ảnh: Gary Todd / CC0)*
+*Source: Nha Rong Wharf - Ho Chi Minh Museum in Ho Chi Minh City (Photo: Gary Todd / CC0)*
 *   **Jul. 6, 1911:** The ship *Amiral Latouche-Tréville* docked at the port of Marseille (France). Nguyen Tat Thanh (Van Ba) set foot on French soil for the first time after sailing through ports in Singapore, Colombo (Sri Lanka), and Port Said (Egypt), initiating his firsthand investigation of Western society.
 *   **Aug. 25, 1911:** Senior General Vo Nguyen Giap (birth name Vo Giap, alias Van) was born in An Xa village, Loc Thuy Commune, Le Thuy District, Quang Binh Province. He was an eminent military strategist and statesman, the first Senior General and Commander-in-Chief of the Vietnam People's Army, a brilliant and close disciple of President Ho Chi Minh, and internationally revered as one of the greatest military commanders of the 20th century.
 *   **Nov. 1911:** Albert Sarraut assumed the post of Governor-General, continuing to promote the "association" policy and demagogic reforms.
@@ -1717,7 +1734,7 @@
 
 ![Historical Image](images/event_20260923_125502.webp)
 
-*Source: Đồng chí Nguyễn Ái Quốc tại Đại hội Đảng Cộng sản Pháp (Ảnh tư liệu BNF Gallica / Public domain)*
+*Source: Comrade Nguyen Ai Quoc at the Congress of the French Communist Party (BNF Gallica file photo / Public domain)*
 *   **Early 1930s:** A land ownership survey by Yves Henry revealed severe polarization under French colonialism. Public land accounted for only 21% in Tonkin, 25% in Annam, and 3% in Cochinchina. For private land, 94.8% of landowners held less than 5 hectares (accounting for 28.5% of total land), while 0.30% of landowners held over 50 hectares (accounting for 31.5% of total private land).
 *   **Feb. 10, 1930:** The Yen Bai Uprising, led by the Vietnamese Nationalist Party, broke out but was quickly defeated.
 *   **Mar. 9, 1930:** The first flight connecting Paris and Saigon was completed, marking the development of air transportation.
@@ -1842,12 +1859,12 @@
 
 ![Historical Image](images/event_20260923_123003.webp)
 
-*Source: Hang Cốc Bó, Khu di tích lịch sử Pác Bó, tỉnh Cao Bằng (Ảnh: Shansov.net / Wikimedia Commons / CC BY-SA 3.0)*
+*Source: Coc Bo Cave, Pac Bo Historical Site, Cao Bang Province (Photo: Shansov.net / Wikimedia Commons / CC BY-SA 3.0)*
 *   **May 10 - 19, 1941:** The 8th Conference of the Party Central Committee in Pac Bo (Cao Bang), chaired by Nguyen Ai Quoc, completed the national liberation line, established the Viet Minh Front, and elected Comrade Truong Chinh as General Secretary. The conference also officially decided to adopt the red flag with a five-pointed gold star as the emblem of the Viet Minh Front, determining that upon national victory it would serve as the National Flag of the future Democratic Republic of Vietnam. At the conference, Comrade Phung Chi Kien was re-elected to the Central Committee and appointed Chief Commander of the Bac Son Base Area, forming and commanding National Rescue Army Unit 1 (Cứu quốc quân 1).
 
 ![Historical Image](images/event_20260923_213625.webp)
 
-*Source: Hang Pắc Bó (Cao Bằng) - nơi Chủ tịch Hồ Chí Minh sống và làm việc năm 1941*
+*Source: Pac Bo Cave (Cao Bang) - where President Ho Chi Minh lived and worked in 1941*
 *   **May 15, 1941:** The Children's Alliance for National Salvation (predecessor of the Ho Chi Minh Young Pioneer Organization) is established in Na Ma (Cao Bang), with Kim Dong (Nong Van Den) elected as its first leader.
 *   **Jul. 28, 1941:** Expanding its aggressive expansion, the Japanese Empire officially advanced military forces into southern Indochina (Cochinchina), occupying Saigon, Cam Ranh, and strategic military bases. This move finalized Japanese military domination over all of Vietnam, turning the country into a forward staging ground and key logistics springboard to launch its imperialist expansion across Southeast Asia during World War II.
 *   **Aug. 22, 1941:** Phung Chi Kien heroically sacrificed his life in Bang Duc commune (now Thuong On commune), Ngan Son district, Bac Kan province while covering his comrades' escape during a French siege. He was the first military leader of the Party to fall in the national liberation movement.
@@ -1881,7 +1898,7 @@
 
 ![Historical Image](images/event_20260923_104650.webp)
 
-*Source: Ảnh tư liệu lịch sử 1944 / Wikimedia Commons*
+*Source: Historical file photo, 1944 / Wikimedia Commons*
 *   **Dec. 25-26, 1944:** The Vietnam Propaganda and Liberation Army under the direct command of Vo Nguyen Giap achieved resounding victories in its first two battles: disguising troops to launch surprise attacks on the French posts of Phai Khat (afternoon of Dec. 25) and Na Ngan (early morning of Dec. 26) in Cao Bang, killing both post commanders, capturing all enemy garrison troops, and seizing all weaponry without suffering a single casualty, establishing the army's proud tradition of "victorious in the first battle".
 *   **1945 - 1946:** Nguyen Van Luom (the real-life "Luom") left his family to participate in revolutionary activities in Nha Trang. His family lost contact with him from this point until after the country's reunification.
 * **1945:** Hero of the People's Armed Forces Lê Bình (Chỉ huy đội cảm tử quân Quốc gia tự vệ cuộc Cần Thơ, người chỉ huy trận tập kích đồn Cái Răng 1945) passed away.
@@ -1914,7 +1931,7 @@
 
 ![Historical Image](images/event_20260923_123037.webp)
 
-*Source: Tổng khởi nghĩa chiếm Bắc Bộ Phủ ngày 19/08/1945 tại Hà Nội (Ảnh: Vũ Năng An / TTXVN / Public domain)*
+*Source: General uprising seizing the Bac Bo Phu (Northern Palace) on Aug. 19, 1945, in Hanoi (Photo: Vu Nang An / TTXVN / Public domain)*
 *   **Aug. 23, 1945:** The uprising succeeded in Hue.
 *   **Aug. 24, 1945:** Huynh Tan Phat designed and directed the construction of the Monumental Flagpole at the Nguyen Hue - Le Loi intersection (Saigon) to honor the Provisional Committee of Nam Bo.
 *   **Aug. 25, 1945:** The uprising to seize power in Saigon succeeded, actively co-led by Huynh Tan Phat.
@@ -1924,7 +1941,7 @@
 
 ![Historical Image](images/event_20260923_104916.webp)
 
-*Source: Ảnh: Lưu trữ Cộng hòa Pháp / Báo Thanh Niên*
+*Source: Photo: French Republic Archives / Thanh Nien Newspaper*
 *   **Aug. 30, 1945:** Dr. Tran Duy Hung was assigned by President Ho Chi Minh to serve as Chairman of the Provisional Administrative Committee of Hanoi.
 *   **Sep. 1945:** On the occasion of the first opening of school in the Democratic Republic of Vietnam, President Ho Chi Minh sent a letter to students.
 
@@ -1935,12 +1952,12 @@
 
 ![Historical Image](images/event_20260923_102957.webp)
 
-*Source: Ảnh tư liệu TTXVN*
+*Source: TTXVN file photo*
 
 
 ![Historical Image](images/event_20260923_103526.webp)
 
-*Source: Ảnh tư liệu TTXVN / Tuổi Trẻ*
+*Source: TTXVN file photo / Tuoi Tre Newspaper*
 *   **Sep. 3, 1945:** President of the Provisional Government Ho Chi Minh chaired the first meeting of the Government Council of the Democratic Republic of Vietnam, setting out 6 urgent primary tasks to combat famine, illiteracy, and foreign aggression: launching a production drive to eradicate famine, initiating a campaign against illiteracy, organizing a nationwide general election for the National Assembly, abolishing regressive vices, repealing obsolete colonial taxes, and ensuring religious freedom.
 *   **Sep. 4, 1945:** The government issued Decree No. 4/SL to establish the "Independence Fund."
 *   **Sep. 5, 1945:** The Provisional Government issued a decree dissolving the Dai Viet National Socialist Party and the Dai Viet Nationalist Party.
@@ -1974,7 +1991,7 @@
 
 ![Historical Image](images/event_20260923_123208.webp)
 
-*Source: Kỳ họp thứ nhất Quốc hội khóa I nước Việt Nam Dân chủ Cộng hòa (Ảnh tư liệu / TTXVN / Public domain)*
+*Source: First session of the 1st National Assembly of the Democratic Republic of Vietnam (File photo / TTXVN / Public domain)*
 *   **Jan. 14, 1946:** On behalf of the Provisional Government of the Democratic Republic of Vietnam, President Ho Chi Minh sent an official message to the United Nations General Assembly and member states, affirming Vietnam's independence and expressing the desire to join the United Nations.
 *   **Jan. 31, 1946:** The government issued a decree allowing the issuance of Vietnamese banknotes in the free zones of South-Central Vietnam.
 *   **Feb. 28, 1946:** The Chongqing Agreement was signed between France and the Chiang Kai-shek government, agreeing to allow French troops to enter the North to replace Chiang's troops.
@@ -1987,7 +2004,7 @@
 
 ![Historical Image](images/event_20260923_213624.webp)
 
-*Source: Đại biểu dự Kỳ họp thứ nhất, Quốc hội khóa I tại Nhà hát Lớn Hà Nội, 02/03/1946 / TTXVN*
+*Source: Delegates to the first session of the 1st National Assembly at the Hanoi Opera House, Mar. 2, 1946 / TTXVN*
 *   **Mar. 6, 1946:** President Ho Chi Minh and Vu Hong Khanh, on behalf of the Vietnamese Government, signed the Preliminary Agreement with J. Sainteny, representative of the French Government.
 *   **Mar. 9, 1946:** The Party Central Standing Committee issued the directive "Peace to Advance."
 *   **Mar. 16, 1946:** Supreme Advisor Vinh Thuy (former Emperor Bao Dai) led a diplomatic goodwill delegation of the Democratic Republic of Vietnam (including Nghiem Ke To and Nguyen Cong Truyen) to Chongqing (China) to conduct talks with the Republic of China government, seeking international diplomatic recognition for Vietnam's sovereignty.
@@ -2026,7 +2043,7 @@
 
 ![Historical Image](images/event_20260923_213623.webp)
 
-*Source: Hiến pháp năm 1946 nước Việt Nam Dân chủ Cộng hòa*
+*Source: The 1946 Constitution of the Democratic Republic of Vietnam*
 *   **Nov. 7, 1946:** President Ho Chi Minh issued the *"Notice on Adopting the Children of Martyrs"*, declaring that on behalf of the Fatherland and the people, he would sponsor and foster all orphaned children of martyrs who sacrificed their lives for national independence, instructing local authorities to compile lists and ensure full welfare support for the nation's young generation.
 *   **Nov. 20, 1946:** A major conflict broke out in Haiphong (the Haiphong Incident) when French troops demanded control of customs.
 *   **Nov. 20, 1946:** French troops also fired on police and customs officers in Lang Son, occupying the town.
@@ -2037,6 +2054,10 @@
 *   **Nov. 30, 1946:** President Ho Chi Minh signed Decree No. 230/SL appointing comrade Vo Nguyen Giap (Minister of National Defense) as Commander-in-Chief of the National Army and Self-Defense Militia of Vietnam, establishing unified supreme operational command over all armed forces nationwide in preparation for protracted nationwide resistance against French colonialism.
 *   **Dec. 1946:** At the age of 17, Đặng Thị Kim was admitted to the Indochinese Communist Party for her outstanding revolutionary activities in Nha Trang.
 *   **Dec. 1946:** During the early days of the National Resistance in Hanoi, self-defense fighter Vu Van Thanh (the youngest son of Dr. Vu Dinh Tung) was mortally wounded in combat and heroically sacrificed his life on the operating table under the dedicated emergency care of his father. Earlier, Dr. Tung's other son, Vu Dinh Tin, had also heroically sacrificed his life while fighting in the self-defense militia to defend the fledgling revolutionary government following the August 1945 Revolution.
+
+![Historical Image](images/event_20260923_221138.webp)
+
+*Source: Hanoi Ve Quoc Doan (National Guard) fighters in the early days of the National Resistance, Dec. 1946 / Wikimedia Commons*
 *   **Dec. 12, 1946:** Republic of China naval warships *Tai-ping* and *Chung-yeh* illegally landed on Itu Aba Island (Ba Binh - the largest natural island in Vietnam's Spratly Islands), unlawfully erecting boundary markers and renaming the island Taiping Island after their warship.
 *   **Dec. 16, 1946:** French colonial leaders held a conference in Haiphong to plan further aggression. On the same day, French High Commissioner d'Argenlieu blatantly declared that Hanoi, Haiphong, and Da Nang were French territory.
 *   **Dec. 17, 1946:** French troops staged a provocation and massacre in Lo Duc, Hang Bun, and Yen Ninh streets in Hanoi.
@@ -2046,7 +2067,7 @@
 
 ![Historical Image](images/event_20260923_213622.webp)
 
-*Source: Bản thảo Lời kêu gọi Toàn quốc kháng chiến của Chủ tịch Hồ Chí Minh, 19/12/1946 / Bộ VHTTDL*
+*Source: Manuscript of President Ho Chi Minh's Appeal for National Resistance, Dec. 19, 1946 / Ministry of Culture, Sports and Tourism*
 *   **Dec. 20, 1946:** Martyr Lê Gia Đỉnh (Political Commissar of Company 1, Battalion 101 of the National Guard, hailed as Hanoi's "Suicide Fighter No. 1") ordered his comrades to withdraw safely while remaining behind alone, heroically using a lunge mine in a suicide attack against advancing French tanks defending the Tonkin Palace, destroying the armored vehicle and sacrificing his life at age 26.
 *   **Dec. 22, 1946:** Former Mayor of Hanoi Tran Van Lai was arrested for the second time by the French colonialists right after the outbreak of the Nationwide Resistance, under the pretext of "ensuring safety for intellectuals," and was imprisoned in Hoa Lo.
 *   **Dec. 23, 1946:** Suicide fighter Trần Thành (birth name Nguyễn Văn Thiềng, 19 years old, platoon leader in Battalion 212 of the National Guard protecting the General Staff Headquarters) used a lunge mine to disable a French tank at the intersection of Bà Triệu and Trần Quốc Toản streets in Hanoi. Later that afternoon, as French armor mounted another assault, he charged a second tank with another lunge mine and heroically fell under enemy fire. The photograph of him wearing a calot cap and steadfastly holding a lunge mine taken by war photographer Nguyễn Bá Khoản became an immortal symbol of the spirit "Determined to brave death for the survival of the Fatherland."
@@ -2163,7 +2184,7 @@
 
 ![Historical Image](images/event_20260923_123321.webp)
 
-*Source: Chủ tịch Hồ Chí Minh quan sát mặt trận Đông Khê (núi Báo Đông), Chiến dịch Biên giới Thu Đông 1950 (Ảnh: Vũ Năng An / TTXVN / Public domain)*
+*Source: President Ho Chi Minh observing the Dong Khe front (Bao Dong Mountain), 1950 Autumn-Winter Border Campaign (Photo: Vu Nang An / TTXVN / Public domain)*
 *   **Sep. 16, 1950:** During the Battle of Dong Khe in the Border Campaign, soldier La Van Cau bravely asks a comrade to sever his shattered right arm so he can continue carrying explosives to destroy French bunkers, clearing the path for his unit's assault.
 *   **Sep. 18, 1950:** The Vietnamese forces completely controlled Dong Khe after 54 hours of intense fighting, severing the French defense line on Route 4.
 *   **Oct. 1-8, 1950:** The Vietnamese forces besieged and completely annihilated two elite French mobile groups, the Lepage group and the Charton group, in the Coc Xa - Hill 477 area.
@@ -2294,7 +2315,7 @@
 
 ![Historical Image](images/event_20260923_103549.webp)
 
-*Source: Ảnh: Triệu Đại / TTXVN*
+*Source: Photo: Trieu Dai / TTXVN*
 * **07/05/1954:** Martyr Tran Can (deputy infantry company commander, Regiment 209, Division 312) heroically sacrificed his life in the assault on Hill C2 during the Battle of Dien Bien Phu.
 *   **May 8, 1954:** The **Geneva Conference** began its first session to discuss the restoration of peace in Indochina.
 *   **May 19, 1954:** On the occasion of President Ho Chi Minh's 64th birthday at the Kim Quan Safe Zone (Tuyen Quang), Captain Ta Quoc Luat represented the Dien Bien Phu combatants to report victory achievements to Uncle Ho and presented Him with General De Castries' officer badge.
@@ -2306,7 +2327,7 @@
 
 ![Historical Image](images/event_20260923_104715.webp)
 
-*Source: Ảnh tư liệu / Báo Thế giới & Việt Nam (Bộ Ngoại giao)*
+*Source: File photo / The Gioi & Viet Nam Newspaper (Ministry of Foreign Affairs)*
 
     *   Recognition of the independence, sovereignty, unity, and territorial integrity of Vietnam.
     *   The 17th parallel was established as a provisional military demarcation line.
@@ -2332,7 +2353,7 @@
 
 ![Historical Image](images/event_20260923_104751.webp)
 
-*Source: Ảnh tư liệu TTXVN / Báo Nhân Dân*
+*Source: TTXVN file photo / Nhan Dan Newspaper*
 *   **Late 1954:** Following the restoration of peace in the North, Georges Boudarel moved to Hanoi. He served as the secretary of the Voice of Vietnam's French program and worked as an editor and translator for the Foreign Languages Publishing House (now Thế Giới Publishers). He passionately translated major Vietnamese literary works into French, including "Tắt đèn" (Ngô Tất Tố) and "Dế Mèn phiêu lưu ký" (Tô Hoài), introducing Vietnamese literature to international readers.
 *   **Dec. 29, 1954:** France signed a treaty transferring all administrative authority in South Vietnam to Ngo Dinh Diem.
 *   **Jan. 8, 1955:** The Ngo Dinh Diem administration issued Ordinance No. 2 and Ordinance No. 7 (Feb. 3, 1955) regarding land reform, aiming to reclaim land distributed to peasants during the resistance.
@@ -2402,7 +2423,7 @@
 
 ![Historical Image](images/event_20260923_123514.webp)
 
-*Source: Vận chuyển vũ khí, lương thực chi viện chiến trường trên Đường mòn Hồ Chí Minh / Wikimedia Commons (Public domain)*
+*Source: Transporting weapons and food supplies to the front via the Ho Chi Minh Trail / Wikimedia Commons (Public domain)*
 *   **May 30, 1959:** The Gia Dinh Provincial Party Committee established Unit C13 (the first armed unit of the province) in Cu Chi, initially consisting of about 20 cadres and party members.
 *   **Aug. 31, 1959:** President Ho Chi Minh signed Decree No. 036/SL promoting Nguyen Chi Thanh (Director of the General Political Department of the Vietnam People's Army) to the rank of Senior General. He became the second Senior General of the Vietnam People's Army (following Senior General Vo Nguyen Giap promoted in 1948).
 *   **Aug. 31, 1959:** A parcel bomb assassination attempt targeting Cambodian Head of State Norodom Sihanouk, orchestrated by Ngo Dinh Nhu's secret service, exploded at the Phnom Penh Royal Palace killing the Chief of Protocol; Sihanouk and the Royal Family escaped unharmed because the bomb detonated off-schedule following covert intervention by Vietnamese intelligence agent Dang Tran Duc (Ba Quoc). The attack prompted Sihanouk to sever relations with the Saigon regime, uphold neutrality, and steadily strengthen support for the Vietnamese revolution.
@@ -2417,7 +2438,7 @@
 
 ![Historical Image](images/event_20260923_123921.webp)
 
-*Source: Nữ tướng Nguyễn Thị Định cùng các nữ chiến sĩ cách mạng miền Nam tại căn cứ kháng chiến / Wikimedia Commons (Public domain)*
+*Source: General Nguyen Thi Dinh with Southern women revolutionary fighters at the resistance base / Wikimedia Commons (Public domain)*
 * **26/01/1960:** Martyr Ngo Minh Tri (Commando Deputy Squad Leader) heroically sacrificed his life in the surprise attack on Tua Hai outpost (Tay Ninh).
 *   **Night of Jan. 25 - Morning of Jan. 26, 1960:** Based on the vital intelligence provided by Bui Van Thuyen from within, revolutionary forces (over a battalion strong) launched a surprise attack and completely overran the Tua Hai base (headquarters of the ARVN 3rd Regiment, 21st Division). They eliminated over 500 enemy troops, captured over 700, and seized 1,500 weapons. This historic battle served as one of the opening shots for the Concerted Uprising (Đồng khởi) movement in the South.
 *   **Jan. 26 - Feb. 3, 1960:** At the invitation of President Ho Chi Minh, British lawyer Francis Henry Loseby, his wife Beatrice Rose Loseby, and their daughter paid a historic visit to Hanoi. President Ho Chi Minh personally welcomed his benefactors at Gia Lam Airport with profound gratitude and heartfelt affection, honoring the family that had saved his life during the 1931-1933 Hong Kong trial.
@@ -2680,7 +2701,7 @@
 
 ![Historical Image](images/event_20260923_125749.webp)
 
-*Source: Lực lượng Biệt động nghiên cứu bản đồ tác chiến chuẩn bị cho Tổng tiến công Tết Mậu Thân 1968 / Wikimedia Commons (Public domain)*
+*Source: Sapper commandos studying a battle map in preparation for the 1968 Tet Mau Than General Offensive / Wikimedia Commons (Public domain)*
 *   **Jan. 31, 1968:** During the Tet Offensive (the 2nd day of the Lunar New Year), female revolutionary Le Thi Rieng was executed by the Saigon regime at Ba Hoa post in Cho Lon. In her final moments, she used her body to shield her comrade Phung Ngoc Anh from bullets and valiantly sang the Internationale.
 *   **Jan. 31, 1968:** In the early morning hours of the Tet Offensive, intelligence commander Tu Cang (Nguyen Van Tau) and female operative Tam Thao (Nguyen Thi My Nhung) witnessed the fierce assault by Commando Group 5 on the Independence Palace from an undercover base house 100 meters away. Tu Cang opened fire with his K54 pistol, killing two enemy officers to support his surrounded commando comrades. When enemy police stormed the house to search, Tam Thao calmly utilized her poise and undercover role with the US Naval Advisor to mislead them, ensuring Tu Cang's safe cover.
 *   **Jan. 31 - Feb. 24, 1968:** Battle of Hue during the Tet Offensive. Commencing in the early hours of the Lunar New Year, the Liberation Army of South Vietnam launched a surprise attack and seized control of most of Hue city, raising the Front's flag over the Citadel. US and Republic of Vietnam forces mobilized massive reinforcements for a counterattack. To retake the city, the US military utilized heavy firepower (bombs and naval artillery), resulting in the severe destruction of 80% of Hue's structures and significant civilian casualties. After holding the city in fierce urban combat for 25 days, the Liberation Army proactively withdrew to preserve their forces. The battle dealt a colossal psychological and political blow to the United States, demonstrating the Liberation Army's ability to hold a major city for an extended period.
@@ -2825,7 +2846,7 @@
 
 ![Historical Image](images/event_20260923_130911.webp)
 
-*Source: Nụ cười chiến thắng bên Thành cổ Quảng Trị trong trận chiến 81 ngày đêm năm 1972 (Ảnh: Đoàn Công Tính / Báo Quân đội Nhân dân)*
+*Source: Victory smile at Quang Tri Citadel during the 81-day battle of 1972 (Photo: Doan Cong Tinh / People's Army Newspaper)*
 *   **Jun. 28 - Sep. 16, 1972:** During the 81-day-and-night battle to defend Quang Tri Ancient Citadel, 14-year-old dispatch courier Nguyen Xuat Hien (2nd Battalion, 48th Regiment, 320B Division) courageously braved relentless bomb and artillery fire to deliver operational messages and guide units between frontline trenches. His indomitable spirit and cheerful resilience earned him the nickname "The Ancient Citadel's Oriole", becoming an iconic symbol of youthful bravery during the resistance war against the US.
 *   **Jul. 13, 1972:** During the fierce battle to defend Quang Tri Ancient Citadel, after three comrades sacrificed their lives attempting to reconnect a severed communication line, Corporal Mai Ngoc Thoang and Quach Manh Nhac volunteered for the mission. While Nhac operated the crank generator on the bank, Thoang swam to the middle of the fast-flowing Thach Han River under intense enemy artillery fire. Finding the broken wires but lacking spare wire to tie them, he used his teeth to bite and hold the two ends together for 30 minutes, enduring severe electric shocks that caused him to repeatedly faint. His extraordinary act created a "living bridge" for communications, allowing General Vo Nguyen Giap to direct the 48th Regiment in repelling enemy attacks.
 *   **Aug. 3, 1972:** During the 81-day-and-night defense of the Quang Tri Ancient Citadel, Senior Lieutenant Le Binh Chung (Deputy Political Commissar of the 3rd Battalion, Quang Tri Provincial Military Command) and his comrades tenaciously held their ground inside a command bunker under ferocious enemy bombardment. When surrounded and facing overwhelming firepower, the soldiers held firm to the last breath, courageously using their radio to call friendly artillery fire directly onto their own bunker coordinates to eliminate the assaulting enemy forces and heroically sacrifice for the nation.
@@ -2837,7 +2858,7 @@
 
 ![Historical Image](images/event_20260923_110125.webp)
 
-*Source: Ảnh tư liệu TTXVN*
+*Source: TTXVN file photo*
 *   **Dec. 22, 1972:** A screening of the film "Người chiến sĩ trẻ" was organized for Vietnamese soldiers heading to the fierce Son Na outpost on the Thua Thien Hue front. The image of the young hero Cù Chính Lan profoundly moved the troops, providing them with immense spiritual motivation before entering battle.
 *   **Dec. 22, 1972:** During Operation Linebacker II, US strategic bombers carpet-bombed and devastated Bach Mai Hospital (the largest civilian hospital in North Vietnam), killing 28 doctors, nurses, hospital staff, and patients, and burying multiple treatment wings under rubble, sparking deep outrage among progressive global public opinion.
 *   **Dec. 26, 1972:** On the night of Dec. 26, 1972, at the height of Operation Linebacker II, US B-52 bombers carpet-bombed and completely flattened the densely populated civilian street of Kham Thien (Hanoi) spanning over 1 km, killing 287 innocent civilians (mostly women, the elderly, and children), injuring 290 others, and destroying nearly 2,000 homes, temples, and schools.
@@ -2858,7 +2879,7 @@
 
 ![Historical Image](images/event_20260923_104849.webp)
 
-*Source: Ảnh tư liệu / Báo Tiền Phong*
+*Source: File photo / Tien Phong Newspaper*
 *   **Feb. - Apr. 1973:** The Truong Son Troops Command and Vietnamese Security Escort forces successfully mounted a special mission escorting Cambodian Head of State Norodom Sihanouk and Princess Monique along the Ho Chi Minh Trail (via Lao Bao and Route 9 in Lower Laos) to safely visit Cambodia's liberated zone, refuting hostile propaganda and consolidating Indochinese solidarity.
 *   **Feb. 15, 1973:** Following the signing of the Paris Peace Accords, steadfast intelligence operative Nguyen Van Thuong (Hai Thuong) was returned to freedom at Loc Ninh (Binh Phuoc) after 4 years of imprisonment and brutal torture across various enemy detention centers.
 * **27/03/1973:** Martyr Le Van Tach (First Lieutenant, Political Officer of the 89th Intelligence Liaison Battalion, 22nd Group) heroically sacrificed his life on the Southeastern intelligence liaison line.
@@ -2905,12 +2926,12 @@
 
 ![Historical Image](images/event_20260923_213621.webp)
 
-*Source: Ảnh tư liệu chiến dịch giải phóng Buôn Ma Thuột 03/1975 / Dân Việt*
+*Source: File photo of the Buon Ma Thuot liberation campaign, Mar. 1975 / Dan Viet*
 *   **Mar. 5 - 29, 1975:** Hue - Da Nang Campaign. Capitalizing on the chaos within the Republic of Vietnam forces following their defeat in the Central Highlands, the Liberation Army (2nd Corps and regional forces of Tri-Thien and Military Region 5) rapidly encircled and severed communication lines. They liberated Quang Tri on Mar. 19, and captured the former imperial capital of Hue and the entire Thua Thien province on Mar. 25. Continuing their victorious momentum, they assaulted Da Nang - the largest joint military base in Central Vietnam. Under the pressure of a lightning-fast offensive from multiple directions, approximately 140,000 ARVN officers and soldiers in Da Nang panicked, fled, and surrendered (Mar. 29). This victory completely altered the dynamic of the war, pushing the Saigon regime into an irreversible collapse.
 
 ![Historical Image](images/event_20260923_213620.webp)
 
-*Source: Ảnh: TTXVN / Chiến dịch Huế - Đà Nẵng 1975*
+*Source: Photo: TTXVN / Hue - Da Nang Campaign, 1975*
 *   **Mar. 10, 1975:** The Liberation Army launched a surprise assault on Buon Ma Thuot, initiating the decisive pivotal strike of the Central Highlands Campaign. After over 30 hours of fierce combat, revolutionary forces took full control of the town on March 11, dealing a crushing blow that triggered the collapse of the ARVN defensive network in the Central Highlands and creating a strategic turning point for the 1975 Spring General Offensive.
 *   **Mar. 18 - Apr. 1, 1975:** Route 5 - Phu Yen Campaign. Intercepting the chaotic retreat of the ARVN II Corps from the Central Highlands down to the coastal plains via Route 7, the Liberation Army organized ambushes and took control of Route 5, destroying enemy troop clusters and advancing on Tuy Hoa city. They successively liberated Quang Ngai, Tam Ky (Mar. 24), Binh Dinh, and by noon on April 1, the entire Phu Yen province was liberated.
 *   **Mar. 18, 1975:** The Politburo resolved to liberate the South before the 1975 rainy season.
@@ -2937,7 +2958,7 @@
 
 ![Historical Image](images/event_20260923_103617.webp)
 
-*Source: Ảnh: Françoise Demulder / Báo Sài Gòn Giải Phóng*
+*Source: Photo: Francoise Demulder / Sai Gon Giai Phong Newspaper*
 
     *   **10:45 AM:** A Liberation Army tank crashed through the gates of the Independence Palace.
     *   **11:30 AM:** Lieutenant Bui Quang Than (Commander of Company 4, Battalion 2, 203rd Tank Brigade) hoisted the flag of the National Liberation Front (the half-red, half-blue Liberation flag with a gold star) proudly atop the roof of the Independence Palace, marking the complete victory of the historic Ho Chi Minh Campaign and the complete liberation of South Vietnam.
@@ -3049,7 +3070,7 @@
 
 ![Historical Image](images/event_20260923_132056.webp)
 
-*Source: Bộ đội Việt Nam trên đường hành quân lên biên giới phía Bắc bảo vệ Tổ quốc, tháng 2/1979 (Ảnh tư liệu)*
+*Source: Vietnamese troops marching to the northern border to defend the Fatherland, Feb. 1979 (File photo)*
 *   **Feb. 17, 1979:** At the Ta Lung – Phuc Hoa front (Cao Bang province), **Regiment 567** — originally an economic construction engineering unit with no prior combat experience — heroically defended **Khau Chia Pass (Đèo Khau Chỉa)** for 12 days and nights. With only about two battalions equipped with basic infantry weapons, they held off an entire Chinese division reinforced with tanks and heavy artillery. During the battle, 14.5mm anti-aircraft machine gunner **Ho Tuan** (Company 16) fought with extraordinary valor, firing until his gun barrel glowed red-hot, killing approximately 120 enemy soldiers and capturing 2 Chinese officers alive, earning the title **"Warrior of Khau Chia Pass" (Tráng sĩ đèo Khau Chỉa)** from comrades and local people. Regiment 567 effectively halted the enemy advance to only 12–18 km in 12 days, becoming a symbol of the Vietnamese military art of "using the few to defeat the many" in the northern border defense war.
 *   **Feb. 18, 1979:** Vietnam and Cambodia signed a Treaty of Peace, Friendship, and Cooperation.
 *   **Feb. 27, 1979:** Around 10:00 AM, Chinese forces overwhelmed the defenses at Hill 815 (Tra Linh, Cao Bang) after intense artillery and infantry assaults. Lieutenant Phan Dinh Linh, commanding the only four remaining survivors of his unit, engaged in hand-to-hand combat and heroically sacrificed his life.
@@ -3077,7 +3098,7 @@
 
 ![Historical Image](images/event_20260923_105022.webp)
 
-*Source: Ảnh tư liệu chuyến bay Soyuz 37 (1980) / Wikimedia Commons*
+*Source: File photo of the Soyuz 37 flight (1980) / Wikimedia Commons*
 *   **Dec. 18, 1980:** The 6th National Assembly passed the 1980 Constitution, the constitution of the period of transition to socialism.
 *   **Jan. 13, 1981:** The Party Secretariat issued Directive No. 100/CT-TU ("Contract 100") on improving the contract system, extending product-based contracts to groups and individual laborers in agricultural cooperatives.
 *   **Jan. 21, 1981:** The Council of Government issued Decision No. 25-CP, aiming to promote the autonomy in production and business and financial self-management of state-owned enterprises.
@@ -3129,7 +3150,7 @@
 
 ![Historical Image](images/event_20260923_124055.webp)
 
-*Source: Tổng Bí thư Nguyễn Văn Linh tại Đại hội VI của Đảng năm 1986 khởi xướng công cuộc Đổi Mới (Ảnh: AP / Public domain)*
+*Source: General Secretary Nguyen Van Linh at the 6th Party Congress in 1986 launching Doi Moi (Renovation) (Photo: AP / Public domain)*
 *   **1987:** The National Assembly enacted the Law on Foreign Investment in Vietnam, creating the first legal framework to attract foreign direct investment (FDI).
 *   **1987 - 1992:** Female General Nguyen Thi Dinh served as Vice President of the State Council of the Socialist Republic of Vietnam.
 * **1987:** Hero of the People's Armed Forces Pinăng Tắc (Chính trị viên phó huyện đội, cùng bà con làm liên lạc, tiếp tế cho cán bộ vùng Bác Ái; làm bẫy đá, vót chông, gài mìn, đào hầm hào phòng tránh và thành lập lực lượng du kích đánh địch. Chỉ huy trận phục kích bằng bẫy đá tại đèo Gia Túc tiêu diệt hơn 100 tên địch ngày 10 tháng 8 năm 1961) passed away.
@@ -3257,12 +3278,12 @@
 
 ![Historical Image](images/event_20260923_105829.webp)
 
-*Source: Ảnh tư liệu White House / Báo Tuổi Trẻ*
+*Source: White House file photo / Tuoi Tre Newspaper*
 *   **Jul. 28, 1995:** Vietnam was officially admitted as the **7th member** of the Association of Southeast Asian Nations (ASEAN) in Brunei.
 
 ![Historical Image](images/event_20260923_105715.webp)
 
-*Source: Ảnh: Trần Sơn – TTXVN*
+*Source: Photo: Tran Son - TTXVN*
 *   **Aug. 3, 1995:** Public Security martyr Bui Thi Cuc (Tran Thi Lan) was posthumously awarded the title **Hero of the People's Armed Forces** by the State for her outstanding exploits and heroic sacrifice in the resistance war against French colonialism.
 * **30/08/1995:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Nguyễn Ngọc Bảo (Tiểu đoàn phó, Tiểu đoàn 122, Cục Quân báo, Bộ Tổng Tham mưu. Người chỉ huy trận đánh thu được tấm bản đồ Điện Biên Phủ của Pháp. Ông hy sinh ngày 8 tháng 4 năm 1954 trong chiến dịch Điện Biên Phủ).
 * **30/08/1995:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Nguyễn Thị Nê (Nữ du kích Củ Chi, huyện đội phó huyện đội Nam Củ Chi, người được thay mặt Đại hội Anh hùng chiến sĩ thi đua toàn Miền Nam lần thứ 2 (1967) viết thư gửi Bác Hồ để báo cáo tình hình hoạt động cách mạng của lực lượng du kích Củ Chi).
@@ -3404,7 +3425,7 @@
 
 ![Historical Image](images/event_20260923_105920.webp)
 
-*Source: Ảnh tư liệu WTO / Báo Công Thương*
+*Source: WTO file photo / Cong Thuong Newspaper*
 *   **May 2007:** The Military Region 4 Museum collected the aluminum pot used by enemy soldiers to cook the liver of heroine Le Thi Tuyet in 1968. It became a historical artifact displayed to commemorate her sacrifice.
 *   **Jun. 18 - 23, 2007:** State President Nguyen Minh Triet paid an official visit to the United States at the invitation of President George W. Bush. Marking the first visit to the U.S. by a Vietnamese head of state since 1975, the two sides signed the Trade and Investment Framework Agreement (TIFA), opening a new era of mutually beneficial trade and economic cooperation based on mutual respect for each other's political systems.
 *   **Jul. 6, 2007:** Prime Minister Nguyen Tan Dung and Prime Minister Manmohan Singh issued a Joint Statement establishing the Vietnam - India Strategic Partnership during the official visit to India, laying a solid foundation for upgrading to a Comprehensive Strategic Partnership in 2016.
