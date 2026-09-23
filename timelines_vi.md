@@ -1317,11 +1317,6 @@
 ![Hình ảnh tư liệu](images/event_20260923_213656.webp)
 
 *Nguồn: Hải quân Pháp tấn công Đà Nẵng 01/09/1858 / Wikimedia Commons*
-
-
-![Hình ảnh tư liệu](images/event_20260923_221135.webp)
-
-*Nguồn: Quân Pháp đổ bộ tấn công Đà Nẵng, 01/09/1858 / Wikimedia Commons*
 *   **02/09/1858:** Liên quân Pháp - Tây Ban Nha chiếm đồn Tây, đồn An Hải và Điện Hải. Quân Pháp đổ bộ chiếm được bán đảo Sơn Trà.
 *   **07/12/1858 (03/11 năm Mậu Ngọ):** Danh nhân, nhà quân sự, nhà kinh tế và nhà thơ lỗi lạc Nguyễn Công Trứ qua đời tại quê nhà Nghi Xuân (Hà Tĩnh) ở tuổi 80.
 *   **02/1859:** Khi liên quân Pháp - Tây Ban Nha tấn công Gia Định, Quản cơ Trương Định tự nguyện dẫn đội nghĩa binh đồn điền Tân Hòa phối hợp cùng quân triều đình phòng giữ phòng tuyến Chí Hòa. Nghĩa quân của ông liên tục tổ chức phục kích tiêu diệt nhiều lính Pháp tại khu vực Cây Mai, Thị Nghè, lập nhiều chiến công xuất sắc và được thăng thụ chức Phó Lãnh binh Gia Định.
@@ -1431,6 +1426,10 @@
 *   **30/07/1883 (Quý Mùi):** Sau khi vua Dục Đức bị phế truất, Lãng Quốc công Nguyễn Phúc Hồng Dật (con thứ 29 của vua Thiệu Trị) được tôn lên ngôi hoàng đế, đặt niên hiệu Hiệp Hòa. Trước sức ép quân sự dữ dội của Pháp sau khi cửa biển Thuận An thất thủ, triều đình buộc phải ký Hòa ước Quý Mùi (Harmand) chấp nhận sự bảo hộ của thực dân Pháp.
 *   **15 - 16/08/1883:** Trận Phủ Hoài (Trận Dịch Vọng). Tướng Pháp Bouët mở cuộc tấn công quy mô lớn vào phòng tuyến của quân Cờ Đen do Lưu Vĩnh Phúc chỉ huy ở phía tây bắc Hà Nội. Một trận lụt lớn vỡ đê sông Hồng đã làm ngập lụt chiến trường, buộc quân Cờ Đen phải rút lui và bỏ lại nhiều vũ khí, cản trở quân Pháp giáng một đòn quyết định.
 *   **18 - 20/08/1883:** Trận cửa Thuận An. Hạm đội Pháp do Đô đốc Amédée Courbet chỉ huy tiến hành pháo kích ác liệt và đổ bộ đánh chiếm các hải đồn phòng thủ tại cửa Thuận An, khống chế hoàn toàn cửa ngõ đường thủy tiến vào kinh thành Huế. Quân phòng thủ triều đình chịu thương vong rất lớn, buộc triều đình nhà Nguyễn phải xin đình chiến.
+
+![Hình ảnh tư liệu](images/event_20260923_223317.webp)
+
+*Nguồn: Quân Pháp đổ bộ đánh chiếm cửa Thuận An, 18-20/08/1883 / Wikimedia Commons*
 *   **25/08/1883:** Triều đình Huế ký Hòa ước Quý Mùi (Hiệp ước Harmand), chính thức công nhận nền bảo hộ của Pháp trên toàn cõi Việt Nam.
 *   **29/11/1883 (Quý Mùi):** Sau 4 tháng trị vì, do có ý định liên lạc với Pháp để kiềm chế quyền hành của phái chủ chiến, vua Hiệp Hòa bị hai quyền thần Nguyễn Văn Tường và Tôn Thất Thuyết phế truất và ép uống thuốc độc tự tử tại viện Dục Đức. Hoàng tử Ưng Đăng (14 tuổi) được đưa lên nối ngôi (vua Kiến Phúc).
 *   **30/11/1883:** Hai Phụ chính đại thần Nguyễn Văn Tường và Tôn Thất Thuyết ra lệnh giết hại Phụ chính đại thần Trần Tiễn Thành do bất đồng chính kiến về việc phế lập vua và chủ trương đối ngoại.
@@ -2933,12 +2932,25 @@
 
 *Nguồn: Ảnh: TTXVN / Chiến dịch Huế - Đà Nẵng 1975*
 *   **10/03/1975:** Quân Giải phóng miền Nam Việt Nam nổ súng tiến công thị xã Buôn Ma Thuột, mở màn đòn then chốt quyết định của Chiến dịch Tây Nguyên. Sau hơn 30 giờ chiến đấu dũng mãnh, quân Giải phóng làm chủ hoàn toàn thị xã vào ngày 11/03, giáng đòn sấm sét làm rung chuyển toàn bộ hệ thống phòng thủ của địch, tạo bước ngoặt đột biến cho cuộc Tổng tiến công mùa Xuân 1975.
+
+![Hình ảnh tư liệu](images/event_20260923_223312.webp)
+
+*Nguồn: Bộ đội Quân Giải phóng hành quân trong Chiến dịch Tây Nguyên, 03/1975*
+
+
+![Hình ảnh tư liệu](images/event_20260923_223315.webp)
+
+*Nguồn: Xe tăng Quân Giải phóng tiến công Buôn Ma Thuột, 10/03/1975*
 *   **18/03 - 01/04/1975:** Chiến dịch Đường 5 - Phú Yên. Đón lõng cuộc tháo chạy của Quân đoàn II (ngụy quân VNCH) từ Tây Nguyên xuống đồng bằng theo Đường số 7, Quân Giải phóng tổ chức phục kích và làm chủ Đường số 5, tiêu diệt các cụm quân địch và tiến đánh thị xã Tuy Hòa. Lần lượt giải phóng Quảng Ngãi, Tam Kỳ (24/03), Bình Định và đến trưa 01/04, toàn bộ tỉnh Phú Yên được giải phóng.
 *   **18/03/1975:** Bộ Chính trị hạ quyết tâm giải phóng miền Nam trước mùa mưa năm 1975.
 *   **25/03/1975:** Bộ Chính trị ra Nghị quyết số 241-NQ/TW thành lập Hội đồng Chi viện miền Nam ở Trung ương để đáp ứng yêu cầu chi viện ngày càng lớn của chiến trường.
 *   **26/03/1975:** Thành phố Huế và toàn bộ tỉnh Thừa Thiên được hoàn toàn giải phóng khi lá cờ cách mạng tung bay trên đỉnh Cột cờ Phu Văn Lâu, đập tan tuyến phòng thủ chiến lược then chốt của ngụy quyền Sài Gòn ở miền Trung.
 *   **27/03/1975:** Bộ Chính trị gửi điện (18 giờ) chỉ đạo Anh Năm Công (Võ Chí Công) và Hai Mạnh (**Chu Huy Mân**) về kế hoạch giải phóng Đà Nẵng, yêu cầu hành động táo bạo, bất ngờ để tiêu diệt sinh lực địch, không cho chúng rút về Sài Gòn.
 *   **29/03/1975:** Quân Giải phóng đồng loạt tiến công và giải phóng hoàn toàn thành phố Đà Nẵng - căn cứ quân sự liên hợp khổng lồ lớn thứ hai của địch ở miền Nam. Hơn 14 vạn sĩ quan, binh lính địch bị tiêu diệt và làm tan rã, tạo điều kiện thuận lợi cho đòn tiến công chiến lược cuối cùng giải phóng Sài Gòn.
+
+![Hình ảnh tư liệu](images/event_20260923_223310.webp)
+
+*Nguồn: Bộ đội gặp gỡ nhân dân Đà Nẵng sau ngày giải phóng, 29/03/1975 / TTXVN*
 *   **04/1975:** Đại tướng Văn Tiến Dũng làm Tư lệnh Chiến dịch Hồ Chí Minh; Thượng tướng Nguyễn Hữu An (Tư lệnh Quân đoàn 2) và Thiếu tướng Hoàng Đan (Phó Tư lệnh) chỉ đạo mũi tiến công hướng Đông Nam thọc sâu đánh chiếm Dinh Độc Lập trưa ngày 30/04/1975.
 *   **03/04/1975:** Giải phóng các tỉnh Khánh Hòa, Cam Ranh.
 *   **07/04/1975:** Tại Tổng hành dinh (Hà Nội), Bí thư Quân ủy Trung ương, Đại tướng - Tổng Tư lệnh Võ Nguyên Giáp phát đi bức điện khẩn lịch sử (bức điện mật số 986/TK) gửi các cánh quân đang thần tốc tiến về giải phóng miền Nam: *"Thần tốc, thần tốc hơn nữa. Táo bạo, táo bạo hơn nữa. Tranh thủ từng giờ, từng phút, xốc tới mặt trận, giải phóng miền Nam. Quyết chiến và toàn thắng!"*. Bức điện đã trở thành lời hiệu triệu non sông, thôi thúc toàn quân tiến công dũng mãnh, giải phóng hoàn toàn miền Nam, thống nhất đất nước.

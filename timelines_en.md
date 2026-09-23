@@ -1317,11 +1317,6 @@
 ![Historical Image](images/event_20260923_213656.webp)
 
 *Source: French Navy attacking Da Nang, Sep. 1, 1858 / Wikimedia Commons*
-
-
-![Historical Image](images/event_20260923_221135.webp)
-
-*Source: French troops landing to attack Da Nang, Sep. 1, 1858 / Wikimedia Commons*
 *   **Sep. 2, 1858:** The French-Spanish coalition force captured the Tay Fort, An Hai, and Dien Hai fortresses. French forces occupied the Son Tra peninsula.
 *   **Dec. 7, 1858:** Prominent statesman, military commander, economist, and celebrated poet Nguyen Cong Tru passed away in his hometown of Nghi Xuan (Ha Tinh) at the age of 80.
 *   **Feb. 1859:** When French and Spanish forces assaulted Gia Định, Militia Commander Trương Định voluntarily led his Tân Hòa agricultural militia to join royal troops in defending the Chí Hòa line. His forces repeatedly ambushed enemy patrols in Cây Mai and Thị Nghè, inflicting significant casualties and earning him a promotion to Deputy Commander (*Phó Lãnh binh*) of Gia Định.
@@ -1431,6 +1426,10 @@
 *   **Jul. 30, 1883 (Quy Mui year):** Following Duc Duc's deposition, Prince Nguyen Phuc Hong Dat (29th son of Emperor Thieu Tri) was enthroned as Emperor Hiep Hoa. Under severe French military coercion after the fall of Thuan An coastal forts, the court was compelled to sign the Treaty of Hue (Harmand Treaty), accepting French protectorate status.
 *   **Aug. 15 - 16, 1883:** Battle of Phu Hoai. French General Alexandre-Eugène Bouët launched a major offensive against the Black Flag Army's fortified defense line west of Hanoi. Heavy flooding from a broken Red River dike abruptly ended the battle, causing significant losses in war materiel for the Black Flag Army as they retreated.
 *   **Aug. 18 - 20, 1883:** Battle of Thuan An. A French naval fleet commanded by Admiral Amédée Courbet heavily bombarded and captured the strategic coastal forts at the Thuan An estuary, directly threatening the imperial capital of Hue. The overwhelmed Vietnamese defenders suffered immense casualties, forcing the Hue court to sue for peace.
+
+![Historical Image](images/event_20260923_223317.webp)
+
+*Source: French troops landing to capture the Thuan An estuary, Aug. 18-20, 1883 / Wikimedia Commons*
 *   **Aug. 25, 1883:** The Hue court signed the Treaty of Quy Mui (Harmand Treaty), officially recognizing the French protectorate over all of Vietnam.
 *   **Nov. 29, 1883 (Quy Mui year):** After a four-month reign, Emperor Hiep Hoa's clandestine overtures to French authorities to curb the regents' dominance were uncovered. Regential leaders Nguyen Van Tuong and Ton That Thuyet deposed him and forced him to drink poison at the Duc Duc pavilion. Fourteen-year-old Prince Ung Dang was enthroned as Emperor Kien Phuc.
 *   **Nov. 30, 1883:** Regents Nguyen Van Tuong and Ton That Thuyet ordered the execution of Regent Tran Tien Thanh due to disagreements over the royal succession and foreign policy.
@@ -2933,12 +2932,25 @@
 
 *Source: Photo: TTXVN / Hue - Da Nang Campaign, 1975*
 *   **Mar. 10, 1975:** The Liberation Army launched a surprise assault on Buon Ma Thuot, initiating the decisive pivotal strike of the Central Highlands Campaign. After over 30 hours of fierce combat, revolutionary forces took full control of the town on March 11, dealing a crushing blow that triggered the collapse of the ARVN defensive network in the Central Highlands and creating a strategic turning point for the 1975 Spring General Offensive.
+
+![Historical Image](images/event_20260923_223312.webp)
+
+*Source: Liberation Army troops on the march during the Central Highlands Campaign, Mar. 1975*
+
+
+![Historical Image](images/event_20260923_223315.webp)
+
+*Source: Liberation Army tanks assaulting Buon Ma Thuot, Mar. 10, 1975*
 *   **Mar. 18 - Apr. 1, 1975:** Route 5 - Phu Yen Campaign. Intercepting the chaotic retreat of the ARVN II Corps from the Central Highlands down to the coastal plains via Route 7, the Liberation Army organized ambushes and took control of Route 5, destroying enemy troop clusters and advancing on Tuy Hoa city. They successively liberated Quang Ngai, Tam Ky (Mar. 24), Binh Dinh, and by noon on April 1, the entire Phu Yen province was liberated.
 *   **Mar. 18, 1975:** The Politburo resolved to liberate the South before the 1975 rainy season.
 *   **Mar. 25, 1975:** The Politburo issued Resolution No. 241-NQ/TW establishing the Council for Support to the South at the Central level to meet the increasing demands of the battlefield.
 *   **Mar. 26, 1975:** Hue City and the entire Thua Thien province were completely liberated as the revolutionary flag was hoisted atop the Phu Van Lau flagpole, dismantling Saigon's primary strategic defense stronghold in Central Vietnam.
 *   **Mar. 27, 1975:** The Politburo sent a directive to Nam Cong (Vo Chi Cong) and Hai Manh (Chu Huy Man) of the Zone 5 Command regarding the plan to liberate Da Nang, emphasizing the need for bold, unexpected action to destroy enemy forces before they could retreat to Saigon.
 *   **Mar. 29, 1975:** The Liberation Army launched a concerted assault and completely liberated Da Nang, the enemy's second-largest joint military base complex in South Vietnam, neutralizing over 140,000 opposing troops and setting favorable conditions for the final push on Saigon.
+
+![Historical Image](images/event_20260923_223310.webp)
+
+*Source: Soldiers meeting Da Nang residents after Liberation Day, Mar. 29, 1975 / TTXVN*
 *   **Apr. 1975:** General Van Tien Dung served as Commander of the Ho Chi Minh Campaign; Senior General Nguyen Huu An (Commander of 2nd Corps) and Major General Hoang Dan (Deputy Commander) directed the southeastern assault column advancing to capture Independence Palace on the noon of April 30, 1975.
 *   **Apr. 3, 1975:** The provinces of Khanh Hoa and Cam Ranh were liberated.
 *   **Apr. 7, 1975:** From the General Headquarters in Hanoi, Secretary of the Central Military Commission and Commander-in-Chief Senior General Vo Nguyen Giap dispatched the historic classified telegram (Telegram No. 986/TK) to the army corps advancing southward: *"Lightning speed, more lightning speed. Boldness, more boldness. Seize every hour and minute, rush to the front, liberate the South. Determined to fight and win total victory!"*. The order served as an inspiring summons rallying all armed forces into decisive strikes to completely liberate South Vietnam and reunify the country.
