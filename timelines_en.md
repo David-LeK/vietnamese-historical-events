@@ -1613,6 +1613,10 @@
 *   **May 1911:** Prior to departing Nha Rong Port for the West to seek national liberation, patriotic youth Nguyen Tat Thanh shared an emotional farewell in Saigon with Le Thi Hue (Ut Hue)—his pure and devoted youthful first love. This historic parting for the greater cause of national independence, symbolized by the keepsake comb, was later movingly chronicled by author Son Tung in *Blue Lotus*, becoming an enduring symbol in Vietnamese literary and historical memory.
 *   **Jun. 5, 1911:** From Nha Rong Harbor (Saigon), young patriot Nguyen Tat Thanh assumed the name **Van Ba**, boarding the French merchant ship *Amiral Latouche-Tréville* as an assistant cook, beginning a historic 30-year journey across nearly 30 countries on four continents to seek national liberation.
 
+![Historical Image](images/event_20260924_103200.webp)
+
+*Source: Nguyen Tat Thanh working as a kitchen assistant at Carlton Hotel, London in 1913 / Ho Chi Minh Museum*
+
 ![Historical Image](images/event_20260923_122907.webp)
 
 *Source: Nha Rong Wharf - Ho Chi Minh Museum in Ho Chi Minh City (Photo: Gary Todd / CC0)*
@@ -1693,6 +1697,11 @@
 *   **Oct. 11, 1921:** The Governor-General of Indochina issued a decree to issue bonds worth 6 million piasters to build the Vinh - Dong Ha railway.
 *   **Oct. 17, 1921:** The city of Nam Dinh was established.
 *   **1922:** The Colonial Exhibition was held in Marseille (France), costing the Indochina budget 12 million francs.
+*   **1922:** Nguyen Ai Quoc was issued a French Communist Party membership card under the name Henri Tchen, becoming the first Vietnamese to hold official party membership in the international communist movement.
+
+![Historical Image](images/event_20260924_103210.webp)
+
+*Source: Nguyen Ai Quoc's identity card in France / Ho Chi Minh Museum*
 *   **Mar. 1922:** A customs officer in Ba Ria (Cochinchina) brutally beat a female salt porter, an incident highlighting the abuse of power by colonial officials.
 *   **Apr. 1922:** The investiture ceremony of Crown Prince Vinh Thuy (later Emperor Bao Dai) was solemnly held at the Thai Hoa Palace.
 *   **Apr. 1, 1922:** The newspaper *Le Paria* (The Outcast) - the official voice of the Intercolonial Union founded, directed, and edited by Nguyen Ai Quoc - published its first issue in Paris, serving as a powerful weapon disseminating Marxism-Leninism and awakening anti-colonial movements.
@@ -1707,11 +1716,19 @@
 *   **1923:** The Service for the Control and Assistance of Natives of the Colonies (C.A.I.) was established in France to monitor the Vietnamese.
 *   **1923 - 1924:** In Moscow (USSR), Nguyen Ai Quoc used the alias **Linov** (or Lin) while studying at the Communist University of the Toilers of the East (KUTV). He attended Lenin's funeral (Jan. 1924), authored the memorial article "Lenin and the Peoples of the East" in *Pravda*, and systematically studied Marxist-Leninist political theory.
 *   **Jun. 13 - 30, 1923:** Nguyen Ai Quoc secretly departed Paris for Berlin (Germany), then sailed from Hamburg on the ship *Karl Liebknecht* to Petrograd (Leningrad, USSR) on June 30, 1923, officially arriving in the homeland of the October Revolution to work and study at the Communist International.
+
+![Historical Image](images/event_20260924_103201.webp)
+
+*Source: Nguyen Ai Quoc's journey from Paris to the Soviet Union in June 1923 / Ho Chi Minh Museum*
 *   **Oct. 10 - 15, 1923:** In Moscow, Nguyen Ai Quoc attended the First International Peasant Conference and was elected to the Presidium of the International Peasant Council, becoming the first Vietnamese to hold a leadership position in a Comintern mass organization.
 *   **Nov. 15, 1923:** Composer Van Cao (born Nguyen Van Cao) was born in Lach Tray, Hai Phong (originally from Vu Ban, Nam Dinh). He was one of the most prominent cultural giants of modern Vietnamese music, poetry, and painting, and the composer of "Tien Quan Ca" (The Marching Song) - the National Anthem of the Socialist Republic of Vietnam.
 *   **1924:** Ngo May, a prominent hero of the Vietnam People's Armed Forces known for his suicide bomb attack against French forces, was born in Cat Chanh commune, Phu Cat district, Binh Dinh province.
 *   **Jan. 1924:** Le Huy Doan (later alias Le Hong Phong), alongside his fellow townsman Pham Hong Thai and several patriotic youths, crossed into Siam (Thailand) and proceeded to Guangzhou (China), joining Tam Tam Xa and committing to full-time revolutionary struggle.
 *   **June 17 - July 8, 1924:** Nguyen Ai Quoc attended the 5th Congress of the Communist International in Moscow.
+
+![Historical Image](images/event_20260924_103203.webp)
+
+*Source: Nguyen Ai Quoc at the 5th Comintern Congress, Moscow in June-July 1924 / Ho Chi Minh Museum*
 *   **Jun. 19, 1924:** Martyr **Pham Hong Thai**, a prominent member of Tam Tam Xa, launched a bomb attack attempting to assassinate French Governor-General Martial Merlin at the Victoria Hotel in the Shamian concession (Guangzhou, China). Although Merlin escaped with slight injuries, the "Bombing of Shamian" reverberated internationally and was likened by leader Nguyen Ai Quoc to "a swallow heralding the spring" of national liberation; after the attack, Pham Hong Thai plunged into the Pearl River and heroically sacrificed his life.
 *   **Sep. 18, 1924:** Governor-General Merlin signed a decree amending the General Code of Public Education, advocating for the development of primary education ("horizontal education").
 *   **Oct. 27, 1924:** The Indochina School of Fine Arts was established in Hanoi.
@@ -1822,6 +1839,10 @@
 *   **Aug. 16, 1932:** Emperor Bao Dai returned to the country to take up his reign after studying in France.
 *   **Dec. 21, 1932:** Nguyen Thanh (commonly known as Nguyen Van Luom), the real-life inspiration for the famous poem "Luom" by To Huu, was born in Quy Nhon. He would later become a guerrilla member and an immortal symbol of young, brave Vietnamese messengers during the resistance against the French.
 *   **Dec. 28, 1932:** Tong Van So (Nguyen Ai Quoc) was released from Victoria Prison in Hong Kong. After a brief re-arrest and decisive intervention by Lawyer Loseby with the Governor of Hong Kong, on January 22, 1933, secretly assisted and disguised by the Loseby family, Nguyen Ai Quoc safely departed Hong Kong on a fishing boat heading to Xiamen (China), completely evading the French secret police.
+
+![Historical Image](images/event_20260924_103204.webp)
+
+*Source: Hong Kong Police jail where Tong Van So was detained in 1931 / People's Army Newspaper*
 *   **1933:** At the age of 17, Dinh Thi Van joined revolutionary activities, undertaking communication tasks, safeguarding secret Party documents, and participating in mutual aid groups to protect revolutionary cadres in Nam Dinh.
 *   **1933:** Huynh Tan Phat entered the Indochina Fine Arts College to study architecture.
 *   **Mar. 1933:** Ha Huy Tap (alias Hong The Cong) published the work *Draft History of the Indochinese Communist Movement*.
@@ -2079,12 +2100,21 @@
 *   **Jul. 1946:** Đặng Thị Kim was appointed to the Executive Committee of the Nha Trang Women's National Salvation Association. On October 30, 1946, she co-led a major protest demanding the French government implement the March 6 Preliminary Accord and September 14 Modus Vivendi.
 *   **Jul. 1946:** During President Ho Chi Minh's official visit to France and the Fontainebleau Conference, the Bank of Indochina and French colonial interests attempted to bribe him with an immense sum of 30 billion Francs on the condition that he abandon the struggle for Vietnam's independence. President Ho Chi Minh resolutely rejected the bribery attempt, affirming that national independence, freedom, and the Fatherland are sacred and cannot be traded at any price.
 *   **Jul. 1946:** During his official visit to France for the Fontainebleau Conference, President Ho Chi Minh visited painter Pablo Picasso at his studio in Paris. The meeting reflected their friendship dating back to the 1920s in France, during which Picasso sketched a portrait of President Ho Chi Minh.
+*   **July 1946:** During an official visit to France, President Ho Chi Minh delivered a speech at Paris City Hall before a large public and overseas Vietnamese audience, affirming Vietnam's goodwill for peace, aspiration for independence and calling for friendship and equal cooperation between Vietnamese and French peoples.
+
+![Historical Image](images/event_20260924_103212.webp)
+
+*Source: President Ho Chi Minh delivering a speech at Paris City Hall in July 1946 / Getty Images*
 *   **Jul. 6, 1946:** The Fontainebleau Conference opened.
 *   **Jul. 12, 1946:** The "On Nhu Hau Street Affair" occurred. The police forces of the Democratic Republic of Vietnam raided the headquarters of the Vietnam Nationalist Party (VNQDD), dismantling a plot to overthrow the government.
 *   **Jul. 22, 1946:** The Vietnam Socialist Party was founded, aiming to unite patriotic intellectuals.
 *   **Jul. 24, 1946:** While the formal French-Vietnamese negotiations at Fontainebleau were deadlocked, President Ho Chi Minh engaged in active "corridor diplomacy." He met with French Minister Pierre Cot, National Assembly President Vincent Auriol, and French Communist Party leader Jacques Duclos. In an interview with the French press on the same day, he emphasized that France recognizing Vietnam's independence would enhance its honor and influence far more than using war or coercion.
 *   **Aug. 1, 1946:** D'Argenlieu convened the Conference of the Indochinese Federation in Da Lat, sabotaging the Fontainebleau Conference.
 *   **Aug. 15, 1946:** During his stay at the private residence of French resistance fighter Raymond Aubrac in Soisy-sous-Montmorency (suburb of Paris) while attending the Fontainebleau Conference, President Ho Chi Minh visited Lucie Aubrac at the maternity clinic, adopted the newborn baby girl as his goddaughter, and affectionately named her Babette (born Élisabeth Aubrac). The profound and steadfast friendship between President Ho Chi Minh, the Aubrac family, and his goddaughter Babette endured for decades.
+
+![Historical Image](images/event_20260924_103205.webp)
+
+*Source: President Ho Chi Minh holding goddaughter Elizabeth (Babette) Aubrac in Paris on August 15, 1946 / Aubrac family archives*
 *   **Aug. 25, 1946:** At a gathering of Southern compatriots in Hanoi, professor, doctor, and People's Teacher Tran Huu Nghiep, representing Southern intellectuals, formally proposed renaming Saigon to Ho Chi Minh City to honor President Ho Chi Minh's great contributions and to express the Southern people's aspiration for national reunification. This historic proposal was supported and signed by 57 Southern intellectuals present at the meeting.
 *   **Aug. 27, 1946:** The proposal and resolution by the 57 Southern intellectuals to rename Saigon to Ho Chi Minh City were published in the *Cuu Quoc* (National Salvation) newspaper, transforming an individual initiative into a widespread reflection of the people's aspirations in Saigon - Gia Dinh and the South.
 *   **Sep. 14, 1946:** During his nearly five-month official state visit to France, President Ho Chi Minh signed the **Franco-Vietnamese Modus Vivendi** with French Overseas Minister Marius Moutet in Paris, making concessions on certain economic and cultural interests to gain vital peace time to strengthen the revolutionary administration and prepare for national resistance.
@@ -2405,6 +2435,11 @@
 ![Historical Image](images/event_20260923_104751.webp)
 
 *Source: TTXVN file photo / Nhan Dan Newspaper*
+*   **November 22, 1954:** President Ho Chi Minh's portrait appeared for the first time on the cover of TIME magazine (USA) with the theme “Ho Chi Minh of Indochina”, reflecting international recognition of the anti-French resistance and the standing of the Democratic Republic of Vietnam after Dien Bien Phu and Geneva.
+
+![Historical Image](images/event_20260924_103214.webp)
+
+*Source: TIME magazine cover, November 22, 1954 / TIME*
 *   **Late 1954:** Following the restoration of peace in the North, Georges Boudarel moved to Hanoi. He served as the secretary of the Voice of Vietnam's French program and worked as an editor and translator for the Foreign Languages Publishing House (now Thế Giới Publishers). He passionately translated major Vietnamese literary works into French, including "Tắt đèn" (Ngô Tất Tố) and "Dế Mèn phiêu lưu ký" (Tô Hoài), introducing Vietnamese literature to international readers.
 *   **Dec. 29, 1954:** France signed a treaty transferring all administrative authority in South Vietnam to Ngo Dinh Diem.
 *   **Jan. 8, 1955:** The Ngo Dinh Diem administration issued Ordinance No. 2 and Ordinance No. 7 (Feb. 3, 1955) regarding land reform, aiming to reclaim land distributed to peasants during the resistance.
@@ -2412,7 +2447,17 @@
 *   **Mar. 22, 1955:** The Lao People's Revolutionary Party was established.
 *   **May 13, 1955:** Vietnamese forces and citizens peacefully and fully took over the port city of Haiphong under the direct leadership of Do Muoi (Haiphong Party Secretary and Chairman of the Military-Administrative Committee) as the last French expeditionary troops withdrew, marking the complete liberation of North Vietnam after 9 years of resistance.
 *   **May 16, 1955:** French forces withdrew from Haiphong, the North was completely liberated, ending the 9-year resistance war against France.
+*   **June 25, 1955:** During an official visit to the People's Republic of China, President Ho Chi Minh was warmly welcomed by Chairman Mao Zedong at Beijing airport. During the trip, he visited the Great Wall of China, a historic symbol of China, strengthening Vietnam - China friendship.
+
+![Historical Image](images/event_20260924_103218.webp)
+
+*Source: Chairman Mao Zedong and President Ho Chi Minh in Beijing in 1955 / Ho Chi Minh Museum*
 *   **July 1955:** President Ho Chi Minh led a government delegation to visit socialist countries (China, USSR) to seek international support for the struggle to implement the Geneva Accords.
+*   **July 1955:** During an official visit to the Soviet Union, President Ho Chi Minh held a cordial meeting and talk with Soviet children, demonstrating his special affection for the younger generation and international solidarity between Vietnamese and Soviet peoples.
+
+![Historical Image](images/event_20260924_103220.webp)
+
+*Source: President Ho Chi Minh officially visiting the Soviet Union in July 1955 / Nhan Dan*
 *   **Jul. 17, 1955:** Ngo Dinh Diem declared his refusal to hold consultations for a general election to reunify the country.
 *   **08/1955:** The 8th Conference of the Central Committee of the Vietnam Workers' Party affirmed that the North must advance to socialism.
 *   **Aug. 31, 1955:** The President of the Democratic Republic of Vietnam signed a decree conferring and posthumously conferring the title of Military Hero (later Hero of the People's Armed Forces) at the 2nd National Emulation Fighter Congress on 26 outstanding cadres and soldiers of the anti-French resistance; conferred upon: Đinh Núp (Hero Núp - of the Ba Na ethnic group, the first Hero from the Central Highlands minorities), Phùng Văn Khầu (Colonel, Deputy Political Director of the Artillery Officer School; upon conferment an artillery platoon leader in Division 351, staunchly holding the mountain artillery position on Hill E at Dien Bien Phu), Chu Văn Mùi (Colonel, Principal of the Corps 1 Cultural School; upon conferment a wireless radio platoon leader in Regiment 102, Division 308, holding Hill A1), Nguyễn Văn Ty (infantry company commander in Regiment 88, Division 308, participated in the Dien Bien Phu campaign), Phan Tư (company commander in Brigade 555 Military Engineering, Military Engineering Department), Nguyễn Phú Vỵ (infantry company commander in Regiment 48, Division 320), Đặng Quang Cầm (deputy platoon leader of the Inter-zone 5 Armed Propaganda Team), Bùi Chát (engineer platoon leader in Regiment 93, Division 324), Bùi Đình Cư (artillery platoon leader in Regiment 675, Division 351), Hoàng Khắc Dược (mess squad leader in Regiment 66, Division 304), Phạm Đường (deputy political commissar of an infantry company in Inter-zone 5), Chu Văn Khâm (engineer deputy platoon leader, Company 56, Battalion 206, Department of Transportation, General Logistics Department), Võ Văn Ngôm (engineer deputy squad leader of the Mỹ Tho provincial local engineering team), Sơn Ton (Lieutenant Colonel; upon conferment a sapper squad leader in Regiment 3, Southwestern regional forces), Nguyễn Văn Thuần (deputy infantry regiment commander, Regiment 209, Division 312), Lý Văn Thím (infantry deputy company commander in Regiment 335, volunteer military unit), Lê Văn Thọ (sapper platoon leader in Eastern Cochinchina, who participated in the Tan Son Nhat bomb depot raid in 1952), and Lộc Văn Trọng (automobile driver deputy platoon leader in the Department of Transportation, General Logistics Department); and posthumously conferred upon the fallen heroes: Bế Văn Đàn (infantry assistant squad leader in Division 316, who used his own body as a gun carriage in the Dien Bien Phu campaign), Phan Đình Giót (infantry assistant squad leader in Company 58, Battalion 428, Regiment 141, Division 312, who blocked an enemy embrasure with his body at Him Lam), Mạc Thị Bưởi (staunch female guerrilla in the enemy rear of Nam Sách, participated in the Tran Hung Dao campaign, captured and sacrificed in prison in 1951), Ngô Mây (suicide bomber who destroyed a French tank), Trần Cừ (infantry company commander in Company 336, Battalion 174, Regiment 209, Division 312, who blocked an enemy embrasure with his body at Dong Khe), Trần Văn Chuông (engineer deputy company commander, Hà Nam provincial military command), Trương Công Man (liaison squad leader in Regiment 2, Division 320), and Lâm Úy (infantry assistant squad leader in Division 325, sacrificed in the Battle of Xuan Bo).
@@ -2434,6 +2479,11 @@
 *   **Apr. 28, 1956:** The last French soldier left South Vietnam.
 *   **May 7, 1956:** On the 2nd anniversary of the Dien Bien Phu Victory, President Ho Chi Minh signed a decree conferring and posthumously conferring the title of Military Hero (later Hero of the People's Armed Forces) on 42 cadres and soldiers; conferring upon 32 comrades: Trần Á (transport company commander in Inter-zone 5, tasked with sea transport delivering arms and cadres into extreme South Central Vietnam), Bùi Văn Ba (sapper deputy platoon leader in the Southwestern inter-zone, who directly reconnoitered and fought in the Tan Son Nhat airport raid in 1952), Triệu Văn Báo (signal deputy company commander in Division 316; later Colonel, Commander of Division 353, Military Region 1), Lò Văn Bường (infantry deputy platoon leader in Regiment 335, volunteer troops in Laos), Dương Quảng Châu (reconnaissance deputy platoon leader, Regiment 36, Division 308, fought in the Dien Bien Phu campaign), Đỗ Văn Châu (infantry casualty evacuation deputy platoon leader in Regiment 48, Division 320), Nguyễn Tư Cường (sapper deputy battalion commander in Battalion 323, Division 324; later Major General, Commander of the Sapper Command), Phan Trọng Dường (volunteer infantry deputy platoon leader building revolutionary bases around the Indochina border tripoint), Đặng Đình Hồ (infantry deputy battalion commander in Division 304, fought in the Dien Bien Phu campaign), Trần Đình Hùng (recoilless gun DKZ platoon leader in Regiment 6, Division 308, fought at Dien Bien Phu), Nguyễn Xuân Lực (infantry deputy battalion commander in Division 325, fought in the Binh - Tri - Thien theater; later Commander of the Saigon - Gia Dinh Sub-region), Bùi Quang Mại (infantry company commander, Battalion 79, Regiment 102, Division 308; later Political Director of Regiment 102, Division 308, deputy to the 3rd National Assembly), Vũ Mạnh (infantry company commander, Company 2, Battalion 9, Regiment 675, Ta Ngan Military Region), Võ Văn Mừng (sapper squad leader in the Southwestern sub-zone; later Lieutenant Colonel, Political Director of Brigade 646 - Military Region 7), Đinh Văn Mẫu (mess squad leader in Company 9, Battalion 11, Regiment 209, Division 312, braved intense enemy fire to deliver food and supplies at Dien Bien Phu), Lê Văn Nổ (deputy political commissar of Infantry Company 59, Battalion 664, Regiment 42, Ta Ngan Military Region, fought in the Northern Delta), Đàm Văn Ngụy (deputy battalion commander in charge of Battalion 11, Regiment 196, Division 316; later Lieutenant General, Commander of Military Region 1), Nguyễn Thái Nhự (infantry company commander in Battalion 80, Regiment 812, Inter-zone 5, fought in extreme South Central Vietnam), Hoàng Văn Phác (Lieutenant Colonel, upon conferment an engineer deputy company commander in Regiment 333, Military Engineering Department, building roads and bridges for major campaigns), Trần Hiền Quang (Colonel, upon conferment an engineer company commander in Division 330, sank 5 warships, 1 amphibious vehicle, and heavily damaged 2 other ships), Nguyễn Riềng (volunteer infantry deputy battalion commander, fought in extreme South Central Vietnam and the Western front), Phạm Văn Ry (sapper squad leader in the Southwestern Sub-zone, single-handedly destroyed 5 locomotives and 1 armored vehicle), Sùng Phái Sinh (commune military leader of Pu Nhung, Tuan Giao, organized and led guerrilla forces in the Northwest), Đặng Đức Song (infantry platoon leader in Company 5, Battalion 2, Regiment 98, Division 316, the "Hero of Green Hill" in the Dien Bien Phu campaign; later Colonel, deputy to the 2nd National Assembly), Nguyễn Văn Thành (infantry company commander in Regiment 48, Division 320, fought in the Northern Delta), Nguyễn Văn Thậm (engineer squad leader in Regiment 1, Southwestern inter-zone, detonated mines destroying 10 strategic bridges, 4 military vehicles, and wiping out 178 enemy troops), Hà Nguyên Thị (medic in the Military Medical Department, General Logistics Department, devotedly treating and evacuating wounded soldiers), Võ Thiết (deputy battalion commander in Division 305, distinguished in the Battle of Dak Po annihilating French Mobile Group 100), Lưu Viết Thoảng (Colonel, upon conferment deputy political commissar in Brigade 151, Military Engineering Department, who commanded the digging of the tunnel and placing of the 1,000-kg bomb beneath Hill A1 at Dien Bien Phu), Nguyễn Văn Tịch (sapper company commander in Battalion 303, fought in Eastern Cochinchina), Nguyễn Thành Út (deputy platoon leader in Company 2, Battalion 9, Regiment 570, Division 330, veteran of Battalion 307; later Colonel, Political Commissar of Air Division 376), and Nông Văn Vương (deputy political commissar of an infantry company in Division 316, fought in Viet Bac and Northwest); and posthumously conferred upon 10 heroic martyrs: Tô Vĩnh Diện (37mm anti-aircraft gun squad leader in Regiment 367, who threw his body under an artillery wheel to save the gun at Dien Bien Phu), Trần Can (infantry deputy company commander in Regiment 209, Division 312, who planted the victory flag on Him Lam and fell at Hill A1), Cao Thế Chiến (deputy company commander in Company 2, Regiment 101, Division 325, fell at Na Kham in the 1954 Central Laos Campaign), Lê Công Khai (infantry company commander in Inter-zone 5, fell assaulting Dak Doa post), Phạm Minh Đức (infantryman in Division 350, sacrificed while rescuing civilians from severe flooding in Kien An, Hai Phong in 1955), Nguyễn Đô Lương (reconnaissance platoon leader in Regiment 108, Division 305, fought in Inter-zone 5), Trương Văn Ly (infantry company commander, Battalion 86, Regiment 812, Division 305, fell in the Cau Chay ambush in 1952), Lý Văn Mưu (infantry soldier in Regiment 174, Division 316, fell assaulting Dong Khe fort in 1950), Ngô Chí Quốc (reconnaissance deputy squad leader in Battalion 303, Division 330, fell in the second Battle of Cau Dinh in 1954), and Wừu (Bok Wừu - commune chairman and military leader of Nam Dak Doa, unyielding despite brutal enemy torture).
 *   **May 19, 1956:** During a press conference in Manila, the Philippine Foreign Minister used the argument of geographic proximity to assert Philippine rights over the Spratly Islands, following the actions of Thomas Cloma.
+*   **May 19, 1956:** On the occasion of President Ho Chi Minh's 66th birthday, a delegation of students from Trung Vuong High School (Hanoi) congratulated him, capturing a touching image of the bond between Uncle Ho and Hanoi students.
+
+![Historical Image](images/event_20260924_103222.webp)
+
+*Source: Trung Vuong students congratulating Uncle Ho on May 19, 1956 / Vietnam News Agency*
 *   **May 31, 1956:** The Government of Beijing issued a communiqué declaring it would not tolerate any violation of its rights over the Spratly Islands.
 *   **Jun. 1, 1956:** Republic of Vietnam Foreign Minister Vu Van Mau issued a formal statement rejecting territorial claims by the Philippines and Taiwan, reaffirming Vietnam's indisputable historical and legal sovereignty over both the Paracel and Spratly archipelagos.
 *   **Jun. 2, 1956:** Following the Republic of Vietnam's reaffirmation of sovereignty over the Spratlys, the French Government reminded the Philippine Government of the rights France had acquired over the archipelago since 1933.
@@ -2450,7 +2500,22 @@
 *   **1957:** The Tay Ninh Provincial Military Command planted the 17-year-old Bui Van Thuyen as an intelligence agent inside the Republic of Vietnam's Tua Hai base. By gaining the trust of the base commander and becoming his adopted son, Thuyen successfully mapped out the base's internal defenses, armories, and patrol routes.
 *   **Mar. 20, 1957:** The Czechoslovak Government issued a statement fully supporting the Vietnamese Government's stance and demanding strict implementation of the Geneva Accords. Subsequently, Poland (Apr. 6, 1957) and the German Democratic Republic (Jan. 21, 1959) issued similar declarations of solidarity.
 *   **May 17, 1957:** The Politburo decided to merge the Southern Committee and the Unification Committee into the Central Unification Committee (*Ban Thong Nhat Trung Uong*) to assist the Central Committee in leading the struggle for national reunification.
+*   **May 20, 1957:** In Hanoi, President Ho Chi Minh took a souvenir photo with Chinese girl Wang Xiaohong (later Mrs Wang Feng) at age 6, during a visit by a Chinese children's delegation. The photo became a moving symbol of Vietnam - China friendship and Uncle Ho's love for international children.
+
+![Historical Image](images/event_20260924_103223.webp)
+
+*Source: Uncle Ho photographed with Wang Xiaohong on May 20, 1957 in Hanoi / Cong Luan Brand Newspaper*
 *   **Mid-1957:** The Central Committee transferred Le Duan to Hanoi to work alongside President Ho Chi Minh in preparing for the 3rd Party Congress and making strategic decisions for the revolution nationwide.
+*   **July 8, 1957:** President Ho Chi Minh led a Party and Government delegation on an official friendship visit to the Democratic People's Republic of Korea, warmly welcomed by Premier Kim Il Sung at Sunan Airport (Pyongyang). The visit opened a new stage for Vietnam - Korea friendship.
+
+![Historical Image](images/event_20260924_103225.webp)
+
+*Source: President Ho Chi Minh and Premier Kim Il Sung toasting in 1957 / Archives*
+*   **August 1957:** During a visit to China, President Ho Chi Minh and Chairman Mao Zedong raised glasses to toast evergreen, everlasting Vietnam - China friendship, affirming solidarity between the two Parties and countries in the revolutionary cause.
+
+![Historical Image](images/event_20260924_103228.webp)
+
+*Source: President Ho Chi Minh and Chairman Mao Zedong toasting friendship in August 1957 / Ho Chi Minh Museum*
 *   **Dec. 1957:** The 13th Conference of the Party Central Committee identified two strategic tasks: the socialist revolution in the North and the national people's democratic revolution in the South.
 *   **1958 - 1960:** The North implemented the **Three-Year Plan** for economic and cultural transformation and development.
 *   **Feb. 1958:** Chinese fishermen attempted to settle on the western part of the Paracel Islands but were unsuccessful.
@@ -2466,6 +2531,11 @@
 *   **1959 - 1960:** The **"Concerted Uprising"** movement erupted strongly in the rural areas of the South, starting in Ben Tre, shattering large segments of the enemy's administrative apparatus at the grassroots level.
 *   **1959:** Huynh Tan Phat operated in the "Iron Triangle" area (Cu Chi - Trang Bang - Ben Cat).
 *   **1959 - 1960:** Dinh Thi Van's intelligence network meticulously investigated the defense system of the Saigon army south of the 17th parallel, providing vital information to support the opening of the Truong Son strategic supply route.
+*   **1959:** President Ho Chi Minh together with General Vo Nguyen Giap attended and encouraged athletes at a mass sports event in Hanoi, demonstrating the Party and State's care for the physical training movement following Uncle Ho's example.
+
+![Historical Image](images/event_20260924_103229.webp)
+
+*Source: President Ho Chi Minh watching a mass sports event / Wikimedia Commons (Public domain)*
 *   **Jan. 1959:** The 15th Conference of the Central Committee of the Vietnam Workers' Party issued a historic resolution, defining the path of the southern revolution as using revolutionary violence, combining political struggle with armed struggle to seize power.
 *   **04/1959:** The 16th Conference of the Central Committee of the Vietnam Workers' Party issued policies on the socialist transformation of capitalist industry and commerce in the North.
 *   **May 1959:** The Ngo Dinh Diem administration enacted **Law 10/59**, dragging guillotines across South Vietnam to brutally suppress the revolutionary movement.
@@ -2493,6 +2563,10 @@
 * **26/01/1960:** Martyr Ngo Minh Tri (Commando Deputy Squad Leader) heroically sacrificed his life in the surprise attack on Tua Hai outpost (Tay Ninh).
 *   **Night of Jan. 25 - Morning of Jan. 26, 1960:** Based on the vital intelligence provided by Bui Van Thuyen from within, revolutionary forces (over a battalion strong) launched a surprise attack and completely overran the Tua Hai base (headquarters of the ARVN 3rd Regiment, 21st Division). They eliminated over 500 enemy troops, captured over 700, and seized 1,500 weapons. This historic battle served as one of the opening shots for the Concerted Uprising (Đồng khởi) movement in the South.
 *   **Jan. 26 - Feb. 3, 1960:** At the invitation of President Ho Chi Minh, British lawyer Francis Henry Loseby, his wife Beatrice Rose Loseby, and their daughter paid a historic visit to Hanoi. President Ho Chi Minh personally welcomed his benefactors at Gia Lam Airport with profound gratitude and heartfelt affection, honoring the family that had saved his life during the 1931-1933 Hong Kong trial.
+
+![Historical Image](images/event_20260924_103207.webp)
+
+*Source: President Ho Chi Minh welcoming the Loseby family in Hanoi in January 1960 / UK Foreign Office archives*
 *   **Feb. 3, 1960:** Suspected by the enemy after the Tua Hai battle, Bui Van Thuyen withdrew to the revolutionary base. He joined Unit C40 and was subsequently sent to a special forces (đặc công) training course.
 *   **Early 1960:** Luu Tan Phat was appointed Deputy Commander of the My Tho Provincial Military Command, contributing to the strengthening of local armed forces.
 *   **Early 1960:** Female intelligence operative Ngo Thi Hue (alias Minh Hiep, affectionately known as "Little Squirrel") of the Quang Da Security Board was captured and imprisoned at Hieu Duc and Hoi An prisons while on mission. Despite enduring more than six months of solitary confinement and brutal torture (waterboarding, electric shocks, beatings), she steadfastly maintained revolutionary integrity without uttering a word, fully safeguarding revolutionary bases and the secret intelligence network in Da Nang.
@@ -2538,8 +2612,18 @@
 *   **1962:** Saigon commando Tran Van Lai (alias Mai Hong Que) purchased three adjacent houses on Nguyen Dinh Chieu Street (Saigon) to secretly construct underground bunkers, later storing over 2.5 tons of weapons for the 1968 Tet Offensive.
 *   **1962:** Huynh Tan Phat was elected Vice President of the Presidium of the Central Committee of the National Liberation Front for South Vietnam.
 * **1962:** Martyr Mai Thanh Thế (Chiến sĩ đặc công huyện Thạnh Trị. Hy sinh trong trận đánh đồn Cầu Trâu) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland.
+*   **1962:** President Ho Chi Minh participated in conducting an orchestra during a mass cultural performance in Hanoi, capturing a vivid image of his artistic spirit, closeness and love for music in cultural life.
+
+![Historical Image](images/event_20260924_103231_1.webp)
+
+*Source: President Ho Chi Minh conducting an orchestra around 1962 / Getty Images*
 * **09/01/1962:** Martyr Phan Thi Rang (female revolutionary fighter in Hon Dat, Kien Giang, prototype for character Chi Su in novel "Hon Dat") endured torture and heroically sacrificed her life.
 *   **Jan. 12, 1962:** **Operation Chopper:** Marking direct US armed intervention under the "Special War" strategy, the US military deployed 33 CH-21C Shawnee helicopters to airlift over 1,000 Saigon troops in a sweep operation named Chopper against revolutionary bases and local armed forces in Cu Chi - Hoc Mon. This was the first time the US military deployed the "airmobility" (helicopter assault) tactic in South Vietnam in an attempt to crush the revolutionary base areas of the Vietnamese people.
+*   **January 21, 1962:** On behalf of the Party, Government and National Assembly of Vietnam, President Ho Chi Minh awarded the Labour Order (Hero of Labour title) to Soviet cosmonaut Gherman Titov during his friendship visit to Vietnam, recognizing Soviet space achievements and Vietnam - Soviet solidarity.
+
+![Historical Image](images/event_20260924_103231.webp)
+
+*Source: Uncle Ho and cosmonaut Titov visiting Ha Long Bay on January 22, 1962 / Quang Ninh Newspaper*
 *   **Feb. 8, 1962:** The US established the **Military Assistance Command, Vietnam (MACV)**, commanded by General Paul Harkins, to directly manage the war.
 *   **Feb. 9, 1962:** Enduring immense grief over her husband's death, Le Thi Rieng wrote in her diary expressing her unyielding determination to fight for the nation's happiness and peace so that no one would suffer separation.
 *   **Feb. 16 - Mar. 3, 1962:** The First Congress of the National Liberation Front for South Vietnam was held, electing an official Central Committee headed by Lawyer Nguyen Huu Tho.

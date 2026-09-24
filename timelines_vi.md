@@ -1613,6 +1613,10 @@
 *   **05/1911:** Trước ngày rời Bến cảng Nhà Rồng sang phương Tây tìm đường cứu nước, người thanh niên yêu nước Nguyễn Tất Thành đã có cuộc chia tay đầy lưu luyến tại Sài Gòn với bà Lê Thị Huệ (Út Huệ) — người con gái mang mối tình đầu trong sáng, son sắt thời thanh niên của Người. Cuộc chia ly lịch sử vì nghĩa lớn giải phóng dân tộc cùng kỷ vật chiếc lược sau này được nhà văn Sơn Tùng khắc họa sâu sắc trong tác phẩm *Búp sen xanh*, trở thành biểu tượng cảm động trong văn học và lịch sử Việt Nam.
 *   **05/06/1911:** Từ Bến cảng Nhà Rồng (Sài Gòn), người thanh niên yêu nước Nguyễn Tất Thành lấy tên là **Văn Ba** (anh Ba), lên con tàu buôn Pháp *Amiral Latouche-Tréville* nhận làm phụ bếp, bắt đầu cuộc hành trình lịch sử 30 năm bôn ba qua gần 30 quốc gia trên khắp 4 châu lục tìm con đường giải phóng dân tộc.
 
+![Hình ảnh tư liệu](images/event_20260924_103200.webp)
+
+*Nguồn: Nguyễn Tất Thành làm phụ bếp tại Khách sạn Carlton, London năm 1913 / Bảo tàng Hồ Chí Minh*
+
 ![Hình ảnh tư liệu](images/event_20260923_122907.webp)
 
 *Nguồn: Bến Nhà Rồng – Bảo tàng Hồ Chí Minh tại TP. Hồ Chí Minh (Ảnh: Gary Todd / CC0)*
@@ -1693,6 +1697,11 @@
 *   **11/10/1921:** Toàn quyền Đông Dương ra nghị định phát hành công trái 6 triệu đồng để xây dựng đường sắt Vinh - Đông Hà.
 *   **17/10/1921:** Thành phố Nam Định được thành lập.
 *   **1922:** Hội chợ triển lãm thuộc địa được tổ chức tại Marseille (Pháp), tiêu tốn ngân sách Đông Dương 12 triệu franc.
+*   **1922:** Nguyễn Ái Quốc được cấp Thẻ đảng viên Đảng Cộng sản Pháp với tên Henri Tchen (Hăngri Trần), trở thành người cộng sản Việt Nam đầu tiên có tư cách đảng viên chính thức trong phong trào cộng sản quốc tế.
+
+![Hình ảnh tư liệu](images/event_20260924_103210.webp)
+
+*Nguồn: Thẻ căn cước của Nguyễn Ái Quốc tại Pháp / Bảo tàng Hồ Chí Minh*
 *   **03/1922:** Một nhân viên nhà đoan ở Bà Rịa (Nam Kỳ) đánh đập tàn nhẫn một nữ phu gánh muối, gây phẫn nộ trong dân chúng.
 *   **04/1922:** Lễ sách phong Đông cung Hoàng Thái tử Vĩnh Thụy (sau là vua Bảo Đại) được tổ chức long trọng tại điện Thái Hòa.
 *   **01/04/1922:** Báo *Le Paria* (Người cùng khổ) - cơ quan ngôn luận của Hội Liên hiệp Thuộc địa do Nguyễn Ái Quốc sáng lập kiêm chủ nhiệm và chủ bút - xuất bản số đầu tiên tại Paris, trở thành vũ khí sắc bén truyền bá chủ nghĩa Mác-Lênin và thức tỉnh tinh thần đấu tranh của các dân tộc thuộc địa.
@@ -1707,11 +1716,19 @@
 *   **1923:** Cơ quan Kiểm tra và Cứu trợ người bản xứ của các thuộc địa (C.A.I.) được thành lập tại Pháp để giám sát người Việt.
 *   **1923 - 1924:** Tại Moskva (Liên Xô), Nguyễn Ái Quốc lấy bí danh là **Linov** (hoặc Lin), học tập tại Trường Đại học Lao động Cộng sản Phương Đông (KUTV). Người tham dự lễ tang V.I. Lênin (01/1924), viết bài tưởng niệm "Lênin và các dân tộc phương Đông" đăng trên báo *Pravda*, và tích cực nghiên cứu lý luận chính trị chủ nghĩa Mác-Lênin.
 *   **13 - 30/06/1923:** Nguyễn Ái Quốc bí mật rời Paris đi Berlin (Đức), sau đó từ cảng Hamburg lên con tàu *Karl Liebknecht* đến Petrograd (Leningrad, Liên Xô) vào ngày 30/06/1923, chính thức đặt chân đến quê hương của Cách mạng Tháng Mười Nga để làm việc và học tập tại Quốc tế Cộng sản.
+
+![Hình ảnh tư liệu](images/event_20260924_103201.webp)
+
+*Nguồn: Hành trình Nguyễn Ái Quốc từ Paris sang Liên Xô tháng 06/1923 / Bảo tàng Hồ Chí Minh*
 *   **10 - 15/10/1923:** Tại Moskva, Nguyễn Ái Quốc tham dự Hội nghị lần thứ nhất Quốc tế Nông dân và được bầu vào Đoàn Chủ tịch Ủy ban Quốc tế Nông dân, trở thành người Việt Nam đầu tiên giữ cương vị lãnh đạo trong một tổ chức quần chúng của Quốc tế Cộng sản.
 *   **15/11/1923:** Nhạc sĩ Văn Cao (tên khai sinh là Nguyễn Văn Cao) sinh ra tại Lạch Tray, Hải Phòng (quê gốc tại Vụ Bản, Nam Định). Ông là một trong những gương mặt vĩ đại nhất của nền tân nhạc, thi ca và hội họa hiện đại Việt Nam, tác giả của bài hát "Tiến quân ca" - Quốc ca của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam.
 *   **1924:** Ngô Mây, người anh hùng tiêu biểu của Lực lượng Vũ trang Nhân dân Việt Nam nổi tiếng với chiến công ôm bom quyết tử đánh xe tăng Pháp, sinh ra tại xã Cát Chánh, huyện Phù Cát, tỉnh Bình Định.
 *   **01/1924:** Lê Huy Doãn (sau mang bí danh Lê Hồng Phong) cùng bạn cùng quê là Phạm Hồng Thái và một số thanh niên yêu nước vượt biên sang Xiêm (Thái Lan) rồi tới Quảng Châu (Trung Quốc), gia nhập Tâm Tâm xã và dấn thân vào con đường hoạt động cách mạng chuyên nghiệp.
 *   **17/06 - 08/07/1924:** Nguyễn Ái Quốc tham dự Đại hội lần thứ V Quốc tế Cộng sản tại Moskva.
+
+![Hình ảnh tư liệu](images/event_20260924_103203.webp)
+
+*Nguồn: Nguyễn Ái Quốc tại Đại hội V Quốc tế Cộng sản, Moskva tháng 06-07/1924 / Bảo tàng Hồ Chí Minh*
 *   **19/06/1924:** Liệt sĩ **Phạm Hồng Thái**, thành viên ưu tú của Tâm Tâm xã, thực hiện vụ nổ bom mưu sát Toàn quyền Đông Dương Martial Merlin tại khách sạn Victoria ở tô giới Sa Diện (Quảng Châu, Trung Quốc). Dù Merlin chỉ bị thương nhẹ nhưng "Tiếng bom Sa Diện" đã gây chấn động quốc tế, được lãnh tụ Nguyễn Ái Quốc ví như "chim én nhỏ báo hiệu mùa xuân" của phong trào giải phóng dân tộc; sau khi hành động, Phạm Hồng Thái đã gieo mình xuống dòng Châu Giang anh dũng tuẫn tiết.
 *   **18/09/1924:** Toàn quyền Merlin ký nghị định sửa đổi Bộ Học chính tổng quy, chủ trương phát triển giáo dục tiểu học ("giáo dục theo chiều ngang").
 *   **27/10/1924:** Trường Mỹ thuật Đông Dương được thành lập tại Hà Nội.
@@ -1822,6 +1839,10 @@
 *   **16/08/1932:** Vua Bảo Đại lên đường về nước để chấp chính sau thời gian du học tại Pháp.
 *   **21/12/1932:** Nguyễn Thanh (tên thường gọi là Nguyễn Văn Lượm), nguyên mẫu lịch sử của bài thơ "Lượm" nổi tiếng do Tố Hữu sáng tác, sinh ra tại Quy Nhơn. Cậu sau này trở thành đội viên du kích và là biểu tượng bất tử của thế hệ thiếu niên liên lạc dũng cảm trong kháng chiến chống Pháp.
 *   **28/12/1932:** Tống Văn Sơ (Nguyễn Ái Quốc) được thả tự do khỏi nhà tù Victoria (Hồng Kông). Sau khi bị bắt lại trong thời gian ngắn và được Luật sư Loseby can thiệp can quyết với Thống đốc Hồng Kông, đến ngày 22/01/1933, dưới sự bố trí và bảo vệ bí mật của gia đình Luật sư Loseby, Nguyễn Ái Quốc đã cải trang rời Hồng Kông trên một chiếc thuyền buồm sang Hạ Môn (Trung Quốc), thoát khỏi hoàn toàn nanh vuốt của mật thám Pháp.
+
+![Hình ảnh tư liệu](images/event_20260924_103204.webp)
+
+*Nguồn: Nhà giam Sở Cảnh sát Hồng Kông, nơi giam giữ Tống Văn Sơ năm 1931 / Báo Quân đội nhân dân*
 *   **1933:** Ở tuổi 17, Đinh Thị Vân tham gia hoạt động cách mạng, làm giao thông liên lạc, cất giữ tài liệu bí mật của Đảng và tham gia tổ chức nhóm "ái hữu tương tế", nuôi dưỡng, bảo vệ cán bộ cách mạng tại địa phương.
 *   **1933:** Huỳnh Tấn Phát thi đỗ vào khoa Kiến trúc, Trường Cao đẳng Mỹ thuật Đông Dương.
 *   **03/1933:** Hà Huy Tập (bút danh Hồng Thế Công) công bố tác phẩm *Sơ thảo lịch sử phong trào cộng sản Đông Dương*.
@@ -2079,12 +2100,21 @@
 *   **07/1946:** Đặng Thị Kim được cử vào Ban Chấp hành Hội Phụ nữ Cứu quốc Nha Trang. Ngày 30/10/1946, bà tham gia lãnh đạo cuộc biểu tình lớn đòi Chính phủ Pháp phải thi hành Hiệp định sơ bộ 6/3 và Tạm ước 14/9.
 *   **07/1946:** Trong thời gian Chủ tịch Hồ Chí Minh thăm chính thức nước Pháp và diễn ra Hội nghị Fontainebleau, Ngân hàng Đông Dương và giới thực dân Pháp đã mưu toan mua chuộc Người bằng số tiền khổng lồ lên tới 30 tỷ Franc với điều kiện từ bỏ cuộc đấu tranh đòi độc lập cho Việt Nam. Chủ tịch Hồ Chí Minh đã kiên quyết cự tuyệt mưu toan này, khẳng định ý chí sắt đá và lý tưởng độc lập, tự do cho Tổ quốc là thiêng liêng, không thể đánh đổi bằng bất cứ giá nào.
 *   **07/1946:** Trong chuyến thăm chính thức nước Pháp và tham dự Hội nghị Fontainebleau, Chủ tịch Hồ Chí Minh đã tới thăm họa sĩ Pablo Picasso tại xưởng vẽ ở Paris. Cuộc gặp thể hiện mối quan hệ hữu nghị từ những năm 1920 tại Pháp, và tại đây Picasso đã phác họa bức tranh chân dung Chủ tịch Hồ Chí Minh.
+*   **07/1946:** Trong chuyến thăm chính thức nước Pháp, Chủ tịch Hồ Chí Minh đã đọc diễn văn tại Tòa thị chính Paris trước đông đảo công chúng và kiều bào, khẳng định thiện chí hòa bình, khát vọng độc lập của Việt Nam và kêu gọi tình hữu nghị, hợp tác bình đẳng giữa hai dân tộc Việt - Pháp.
+
+![Hình ảnh tư liệu](images/event_20260924_103212.webp)
+
+*Nguồn: Chủ tịch Hồ Chí Minh đọc diễn văn tại Tòa thị chính Paris tháng 07/1946 / Getty Images*
 *   **06/07/1946:** Hội nghị Fontainebleau khai mạc.
 *   **12/07/1946:** Vụ án phố Ôn Như Hầu xảy ra. Công an xung phong đã khám xét trụ sở của Việt Nam Quốc dân Đảng, phá tan âm mưu lật đổ chính quyền của các thế lực đối lập.
 *   **22/07/1946:** Đảng Xã hội Việt Nam được thành lập, nhằm mục đích đoàn kết giới trí thức yêu nước và dân chủ.
 *   **24/07/1946:** Trong lúc cuộc đàm phán chính thức Pháp - Việt tại Fontainebleau đi vào bế tắc, Chủ tịch Hồ Chí Minh tích cực vận động "ngoại giao hành lang". Người đã gặp Bộ trưởng Pierre Cot, Chủ tịch Quốc hội Vincent Auriol và Phó Chủ tịch Quốc hội kiêm lãnh đạo Đảng Cộng sản Pháp Jacques Duclos. Cùng ngày, trả lời phỏng vấn báo chí Pháp, Người nhấn mạnh nếu Pháp công nhận Việt Nam độc lập thì danh dự và sức hấp dẫn của Pháp tại Việt Nam sẽ tăng lên nhiều hơn là dùng chiến tranh hay sức mạnh để ép buộc.
 *   **01/08/1946:** D'Argenlieu triệu tập Hội nghị Liên bang Đông Dương tại Đà Lạt, phá hoại Hội nghị Fontainebleau.
 *   **15/08/1946:** Trong thời gian lưu lại tư gia của nhà kháng chiến người Pháp Raymond Aubrac tại Soisy-sous-Montmorency (ngoại ô Paris) nhân dịp dự Hội nghị Fontainebleau, Chủ tịch Hồ Chí Minh đã đến thăm bà Lucie Aubrac tại nhà hộ sinh, nhận bé gái mới chào đời làm con đỡ đầu (con nuôi) và đặt tên thân mật là Babette (tên khai sinh là Élisabeth Aubrac). Mối quan hệ thâm giao thủy chung giữa Bác Hồ với gia đình Raymond Aubrac và người con nuôi Babette được gìn giữ bền chặt suốt nhiều thập kỷ.
+
+![Hình ảnh tư liệu](images/event_20260924_103205.webp)
+
+*Nguồn: Chủ tịch Hồ Chí Minh bế con gái đỡ đầu Elizabeth (Babette) Aubrac tại Paris ngày 15/08/1946 / Tư liệu gia đình Aubrac*
 *   **25/08/1946:** Tại cuộc gặp mặt đồng bào Nam Bộ ở Hà Nội, giáo sư, bác sĩ, nhà giáo nhân dân Trần Hữu Nghiệp đại diện cho giới trí thức Nam Bộ đã chính thức đề nghị đổi tên Sài Gòn thành Thành phố Hồ Chí Minh nhằm ghi nhớ công lao vĩ đại của Chủ tịch Hồ Chí Minh và thể hiện ý chí, khát vọng thống nhất của nhân dân miền Nam. Đề xuất mang ý nghĩa lịch sử này đã được 57 trí thức Nam Bộ có mặt tán thành và ký vào bản quyết nghị.
 *   **27/08/1946:** Bản quyết nghị đổi tên Sài Gòn thành Thành phố Hồ Chí Minh được đăng trên báo *Cứu Quốc*, từ một sáng kiến cá nhân đã trở thành tiếng nói phản ánh tâm tư, nguyện vọng của đông đảo nhân dân Sài Gòn - Gia Định và Nam Bộ lúc bấy giờ.
 *   **14/09/1946:** Trong chuyến thăm chính thức nước Pháp kéo dài gần 5 tháng, Chủ tịch Hồ Chí Minh đã ký với Bộ trưởng Pháp quốc Hải ngoại Marius Moutet bản **Tạm ước Việt - Pháp (Modus Vivendi)** tại Paris, nhân nhượng thêm một số quyền lợi kinh tế - văn hóa cho Pháp để có thêm thời gian hòa hoãn quý báu củng cố chính quyền và chuẩn bị kháng chiến toàn quốc.
@@ -2405,6 +2435,11 @@
 ![Hình ảnh tư liệu](images/event_20260923_104751.webp)
 
 *Nguồn: Ảnh tư liệu TTXVN / Báo Nhân Dân*
+*   **22/11/1954:** Chân dung Chủ tịch Hồ Chí Minh lần đầu tiên xuất hiện trên trang bìa tạp chí TIME (Mỹ) với chủ đề “Hồ Chí Minh của Đông Dương”, phản ánh tầm ảnh hưởng quốc tế của cuộc kháng chiến chống Pháp và vị thế của Việt Nam Dân chủ Cộng hòa sau Chiến thắng Điện Biên Phủ và Hiệp định Genève.
+
+![Hình ảnh tư liệu](images/event_20260924_103214.webp)
+
+*Nguồn: Bìa tạp chí TIME số ra ngày 22/11/1954 / TIME*
 *   **Cuối năm 1954:** Khi hòa bình lập lại ở miền Bắc, Georges Boudarel về Hà Nội. Ông làm thư ký chương trình tiếng Pháp của Đài Tiếng nói Việt Nam và công tác biên dịch, biên tập tại Nhà xuất bản Ngoại văn (nay là Nhà xuất bản Thế Giới). Ông đã nhiệt tình dịch nhiều tác phẩm văn học lớn của Việt Nam sang tiếng Pháp như "Tắt đèn" (Ngô Tất Tố), "Dế Mèn phiêu lưu ký" (Tô Hoài), góp phần đưa văn học Việt Nam ra thế giới.
 *   **29/12/1954:** Pháp ký hiệp ước trao toàn bộ quyền hành chính ở miền Nam Việt Nam cho Ngô Đình Diệm.
 *   **08/01/1955:** Chính quyền Ngô Đình Diệm ban hành Dụ số 2 và Dụ số 7 (03/02/1955) về cải cách điền địa, thực chất là cướp lại ruộng đất mà cách mạng đã chia cho nông dân, khôi phục giai cấp địa chủ.
@@ -2412,7 +2447,17 @@
 *   **22/03/1955:** Đảng Nhân dân Cách mạng Lào được thành lập.
 *   **13/05/1955:** Quân và dân ta tiếp quản an toàn, trọn vẹn thành phố Cảng Hải Phòng dưới sự chỉ đạo trực tiếp của đồng chí Đỗ Mười (Bí thư Thành ủy kiêm Chủ tịch Ủy ban Quân chính Hải Phòng) khi những người lính Pháp cuối cùng rút khỏi miền Bắc, hoàn thành giải phóng hoàn toàn miền Bắc sau 9 năm kháng chiến chống Pháp.
 *   **16/05/1955:** Quân Pháp rút khỏi Hải Phòng, miền Bắc hoàn toàn được giải phóng, kết thúc 9 năm kháng chiến chống Pháp.
+*   **25/06/1955:** Trong chuyến thăm chính thức Cộng hòa Nhân dân Trung Hoa, Chủ tịch Hồ Chí Minh được Chủ tịch Mao Trạch Đông đón tiếp trọng thể tại sân bay Bắc Kinh. Trong chuyến thăm, Người đã đến thăm Vạn Lý Trường Thành, biểu tượng lịch sử của Trung Quốc, thắt chặt tình hữu nghị Việt - Trung.
+
+![Hình ảnh tư liệu](images/event_20260924_103218.webp)
+
+*Nguồn: Chủ tịch Mao Trạch Đông và Chủ tịch Hồ Chí Minh tại Bắc Kinh năm 1955 / Bảo tàng Hồ Chí Minh*
 *   **07/1955:** Chủ tịch Hồ Chí Minh dẫn đầu đoàn đại biểu Chính phủ Việt Nam Dân chủ Cộng hòa đi thăm các nước xã hội chủ nghĩa để tranh thủ sự ủng hộ quốc tế.
+*   **07/1955:** Trong chuyến thăm chính thức Liên Xô, Chủ tịch Hồ Chí Minh đã có cuộc gặp gỡ, trò chuyện thân mật với các cháu thiếu nhi Liên Xô, thể hiện tình cảm đặc biệt của Người dành cho thế hệ trẻ và tình đoàn kết quốc tế giữa nhân dân Việt Nam và Liên Xô.
+
+![Hình ảnh tư liệu](images/event_20260924_103220.webp)
+
+*Nguồn: Chủ tịch Hồ Chí Minh thăm chính thức Liên Xô tháng 07/1955 / Báo Nhân Dân*
 *   **17/07/1955:** Ngô Đình Diệm tuyên bố từ chối hiệp thương tổng tuyển cử để thống nhất đất nước.
 *   **08/1955:** Hội nghị lần thứ 8 Ban Chấp hành Trung ương Đảng Lao động Việt Nam khẳng định miền Bắc phải tiến lên chủ nghĩa xã hội.
 *   **31/08/1955:** Chủ tịch nước Việt Nam Dân chủ Cộng hòa ký Sắc lệnh phong tặng và truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân (Anh hùng Quân đội) tại Đại hội Chiến sĩ thi đua toàn quốc lần thứ II cho 26 cán bộ, chiến sĩ tiêu biểu trong kháng chiến chống Pháp; gồm phong tặng cho: Đinh Núp (Anh hùng Núp - người dân tộc Ba Na, trở thành Anh hùng đầu tiên của các dân tộc thiểu số Tây Nguyên), Phùng Văn Khầu (Đại tá, Phó Chủ nhiệm Chính trị Trường Sĩ quan Pháo binh; khi tuyên dương là Trung đội trưởng pháo binh thuộc Đại đoàn 351, kiên cường bám trụ trận địa sơn pháo đồi E Điện Biên Phủ), Chu Văn Mùi (Đại tá, Hiệu trưởng Trường Văn hóa Quân đoàn 1; khi tuyên dương là Trung đội trưởng thông tin vô tuyến điện thuộc Trung đoàn 102, Đại đoàn 308, bám trụ đồi A1), Nguyễn Văn Ty (Đại đội trưởng bộ binh thuộc Trung đoàn 88, Đại đoàn 308, tham gia trận Điện Biên Phủ), Phan Tư (Đại đội trưởng thuộc Đoàn 555 công binh, Cục Công binh), Nguyễn Phú Vỵ (Đại đội trưởng bộ binh thuộc Trung đoàn 48, Đại đoàn 320), Đặng Quang Cầm (Trung đội phó thuộc đội vũ trang tuyên truyền Liên khu 5), Bùi Chát (Trung đội trưởng công binh thuộc Trung đoàn 93, Đại đoàn 324), Bùi Đình Cư (Trung đội trưởng pháo binh thuộc Trung đoàn 675, Đại đoàn 351), Hoàng Khắc Dược (Tiểu đội trưởng nuôi quân thuộc Trung đoàn 66, Đại đoàn 304), Phạm Đường (Chính trị viên phó Đại đội bộ binh thuộc Liên khu 5), Chu Văn Khâm (Trung đội phó công binh, Đại đội 56, Tiểu đoàn 206, Cục Vận tải, Tổng cục Hậu cần), Võ Văn Ngôm (Tiểu đội phó công binh thuộc Đội công binh bộ đội địa phương tỉnh Mỹ Tho), Sơn Ton (Trung tá; lúc tuyên dương là Tiểu đội trưởng đặc công thuộc Trung đoàn 3, bộ đội miền Tây Nam Bộ), Nguyễn Văn Thuần (Trung đoàn phó bộ binh, Trung đoàn 209, Đại đoàn 312), Lý Văn Thím (Đại đội phó bộ binh thuộc Trung đoàn 335, đơn vị quân tình nguyện), Lê Văn Thọ (Trung đội trưởng đặc công thuộc miền Đông Nam Bộ, tham gia trận đánh kho bom Tân Sơn Nhất năm 1952), và Lộc Văn Trọng (Trung đội phó lái xe ô tô thuộc Cục Vận tải, Tổng cục Hậu cần); đồng thời truy tặng cho các liệt sĩ anh dũng hy sinh: Bế Văn Đàn (Tiểu đội phó bộ binh thuộc Đại đoàn 316, lấy thân mình làm giá súng trong Chiến dịch Điện Biên Phủ), Phan Đình Giót (Tiểu đội phó bộ binh Đại đội 58, Tiểu đoàn 428, Trung đoàn 141, Đại đoàn 312, lấy thân mình lấp lỗ châu mai đồn Him Lam), Mạc Thị Bưởi (nữ du kích kiên trung vùng địch hậu Nam Sách, tham gia chiến dịch Trần Hưng Đạo, bị giặc bắt và hy sinh trong tù năm 1951), Ngô Mây (ôm bom cảm tử tiêu diệt xe tăng Pháp), Trần Cừ (Đại đội trưởng bộ binh Đại đội 336, Tiểu đoàn 174, Trung đoàn 209, Đại đoàn 312, lấy thân mình bịt lỗ châu mai đồn Đông Khê), Trần Văn Chuông (Đại đội phó Đại đội công binh, tỉnh đội Hà Nam), Trương Công Man (Tiểu đội trưởng liên lạc thuộc Trung đoàn 2, Đại đoàn 320), và Lâm Úy (Tiểu đội phó bộ binh thuộc Đại đoàn 325, hy sinh trong trận Xuân Bồ).
@@ -2434,6 +2479,11 @@
 *   **28/04/1956:** Người lính Pháp cuối cùng rời khỏi miền Nam Việt Nam.
 *   **07/05/1956:** Nhân dịp kỷ niệm 2 năm Chiến thắng Điện Biên Phủ, Chủ tịch Hồ Chí Minh ký Sắc lệnh phong tặng và truy tặng danh hiệu Anh hùng Quân đội (sau này là Anh hùng Lực lượng vũ trang nhân dân) cho 42 cán bộ, chiến sĩ; gồm phong tặng 32 đồng chí: Trần Á (Đại đội trưởng vận tải thuộc Liên khu 5, vận tải đường biển đưa vũ khí và cán bộ vào cực Nam Trung Bộ), Bùi Văn Ba (Trung đội phó đặc công, Phân liên khu miền Tây Nam Bộ, trực tiếp điều tra và tham gia chiến đấu trận đánh sân bay Tân Sơn Nhất năm 1952), Triệu Văn Báo (Đại đội phó thông tin thuộc Đại đoàn 316; sau là Đại tá, Sư đoàn trưởng Sư đoàn 353 Quân khu 1), Lò Văn Bường (Trung đội phó bộ binh thuộc Đoàn 335, bộ đội tình nguyện tại Lào), Dương Quảng Châu (Trung đội phó Đại đội quân báo Trung đoàn 36, Đại đoàn 308, tham gia Chiến dịch Điện Biên Phủ), Đỗ Văn Châu (Trung đội phó bộ binh tải thương thuộc Trung đoàn 48, Đại đoàn 320), Nguyễn Tư Cường (Tiểu đoàn phó đặc công thuộc Tiểu đoàn 323, Đại đoàn 324; sau là Thiếu tướng, Tư lệnh Binh chủng Đặc công), Phan Trọng Dường (Trung đội phó bộ binh bộ đội tình nguyện, hoạt động xây dựng cơ sở cách mạng tại khu vực ngã ba Đông Dương), Đặng Đình Hồ (Tiểu đoàn phó bộ binh, Đại đoàn 304, tham gia Chiến dịch Điện Biên Phủ), Trần Đình Hùng (Trung đội trưởng pháo ĐKZ thuộc Trung đoàn 6, Đại đoàn 308, chiến đấu tại Điện Biên Phủ), Nguyễn Xuân Lực (Tiểu đoàn phó bộ binh thuộc Đại đoàn 325, tham gia chiến trường Bình - Trị - Thiên; sau là Tư lệnh Phân khu Sài Gòn - Gia Định), Bùi Quang Mại (Đại đội trưởng bộ binh, Tiểu đoàn 79, Trung đoàn 102, Đại đoàn 308; sau là Chủ nhiệm Chính trị Trung đoàn 102, Sư đoàn 308, đại biểu Quốc hội khóa III), Vũ Mạnh (Đại đội trưởng bộ binh, Đại đội 2, Tiểu đoàn 9, Trung đoàn 675, Quân khu Tả Ngạn), Võ Văn Mừng (Tiểu đội trưởng đặc công Phân liên khu Tây Nam Bộ; sau là Trung tá, Chủ nhiệm Chính trị Đoàn 646 - Quân khu 7), Đinh Văn Mẫu (Tiểu đội trưởng nuôi quân thuộc Đại đội 9, Tiểu đoàn 11, Trung đoàn 209, Đại đoàn 312, vận chuyển cơm nước phục vụ bộ đội tại Điện Biên Phủ), Lê Văn Nổ (Chính trị viên phó Đại đội bộ binh 59, Tiểu đoàn 664, Trung đoàn 42, Quân khu Tả Ngạn, chiến đấu tại đồng bằng Bắc Bộ), Đàm Văn Ngụy (Tiểu đoàn phó phụ trách Tiểu đoàn trưởng thuộc Tiểu đoàn 11, Trung đoàn 196, Đại đoàn 316; sau là Trung tướng, Tư lệnh Quân khu 1), Nguyễn Thái Nhự (Đại đội trưởng bộ binh thuộc Tiểu đoàn 80, Trung đoàn 812, Liên khu 5, chiến đấu tại cực Nam Trung Bộ), Hoàng Văn Phác (Trung tá, khi tuyên dương là Đại đội phó công binh thuộc Trung đoàn 333, Cục Công binh, phụ trách xây dựng cầu đường các chiến dịch lớn), Trần Hiền Quang (Đại tá, khi tuyên dương là Đại đội trưởng công binh thuộc Đại đoàn 330, đánh chìm 5 tàu chiến, 1 xe lội nước và đánh hỏng nặng 2 tàu khác), Nguyễn Riềng (Tiểu đoàn phó bộ binh bộ đội tình nguyện, chiến đấu ở cực Nam Trung Bộ và miền Tây), Phạm Văn Ry (Tiểu đội trưởng đặc công Phân khu miền Tây Nam Bộ, tự tay phá hủy 5 đầu máy xe lửa và 1 xe bọc thép), Sùng Phái Sinh (Xã đội trưởng xã Pú Nhung, huyện Tuần Giáo, chỉ huy du kích xây dựng phong trào Tây Bắc), Đặng Đức Song (Trung đội trưởng bộ binh Đại đội 5, Tiểu đoàn 2, Trung đoàn 98, Đại đoàn 316, dũng sĩ phòng ngự Đồi Xanh trong Chiến dịch Điện Biên Phủ; sau là Đại tá, đại biểu Quốc hội khóa II), Nguyễn Văn Thành (Đại đội trưởng bộ binh thuộc Trung đoàn 48, Đại đoàn 320, chiến đấu tại đồng bằng Bắc Bộ), Nguyễn Văn Thậm (Tiểu đội trưởng công binh thuộc Trung đoàn 1, Phân liên khu miền Tây Nam Bộ, đặt mìn đánh sập 10 chiếc cầu, phá 4 xe quân sự, diệt 178 tên địch), Hà Nguyên Thị (chiến sĩ quân y Cục Quân y, Tổng cục Hậu cần, tận tụy cứu chữa và vận chuyển thương bệnh binh), Võ Thiết (Tiểu đoàn phó thuộc Đại đoàn 305, lập công lớn trong trận Đak Pơ tiêu diệt binh đoàn cơ động số 100 của Pháp), Lưu Viết Thoảng (Đại tá, khi tuyên dương là Chính trị viên phó Đại đội thuộc Đoàn 151, Cục Công binh, chỉ huy đào đường hầm đưa khối bộc phá ngàn cân vào lòng đồi A1 Điện Biên Phủ), Nguyễn Văn Tịch (Đại đội trưởng đặc công Tiểu đoàn 303, chiến đấu ở chiến trường miền Đông Nam Bộ), Nguyễn Thành Út (Trung đội phó Đại đội 2, Tiểu đoàn 9, Trung đoàn 570, Đại đoàn 330, nguyên chiến sĩ Tiểu đoàn 307 Nam Bộ; sau là Đại tá, Chính ủy Sư đoàn Không quân 376), và Nông Văn Vương (Chính trị viên phó Đại đội bộ binh thuộc Đại đoàn 316, chiến đấu tại Việt Bắc và Tây Bắc); đồng thời truy tặng 10 liệt sĩ anh dũng: Tô Vĩnh Diện (Tiểu đội trưởng pháo cao xạ 37 ly thuộc Đại đội 827, Tiểu đoàn 394, Trung đoàn 367, lấy thân mình chèn pháo trong Chiến dịch Điện Biên Phủ), Trần Can (Đại đội phó bộ binh thuộc Trung đoàn 209, Đại đoàn 312, cắm cờ trên cứ điểm Him Lam và hy sinh tại đồi A1 Điện Biên Phủ), Cao Thế Chiến (Đại đội phó Đại đội 2, Trung đoàn 101, Đại đoàn 325, hy sinh tại Na Kham trong Chiến dịch Trung Lào năm 1954), Lê Công Khai (Đại đội trưởng bộ binh Liên khu 5, hy sinh khi công đồn Đak Đoa), Phạm Minh Đức (chiến sĩ bộ binh Đại đội 1, Tiểu đoàn 1, Trung đoàn 53, Đại đoàn 350, hy sinh khi cứu giúp nhân dân chống bão lụt tại Kiến An, Hải Phòng năm 1955), Nguyễn Đô Lương (Trung đội trưởng trinh sát thuộc Trung đoàn 108, Đại đoàn 305, chiến đấu tại Liên khu 5), Trương Văn Ly (Đại đội trưởng bộ binh, Tiểu đoàn 86, Trung đoàn 812, Đại đoàn 305, hy sinh trong trận Cầu Cháy năm 1952), Lý Văn Mưu (chiến sĩ bộ binh Trung đoàn 174, Đại đoàn 316, hy sinh khi tấn công đồn Đông Khê năm 1950), Ngô Chí Quốc (Tiểu đội phó trinh sát Tiểu đoàn 303, Đại đoàn 330, hy sinh trong trận Cầu Đinh năm 1954), và Wừu (Bok Wừu - Chủ tịch xã kiêm Xã đội trưởng xã Nam Đak Đoa, kiên cường bất khuất trước đòn tra tấn dã man của giặc Pháp).
 *   **19/05/1956:** Trong một cuộc họp báo ở Manila, Bộ trưởng Ngoại giao Philippin lại dựa vào lập luận kế cận địa lý để đưa ra ý kiến về các quyền của Philippin trên quần đảo Trường Sa, sau sự kiện Thomas Cloma. Ngày 31/5, Bắc Kinh đã ra thông cáo phản đối mạnh mẽ.
+*   **19/05/1956:** Nhân dịp sinh nhật lần thứ 66 của Chủ tịch Hồ Chí Minh, đoàn đại biểu học sinh Trường Trung học Trưng Vương (Hà Nội) đã đến chúc mừng sinh nhật Người, ghi lại hình ảnh xúc động về tình cảm gắn bó giữa Bác Hồ với thế hệ học sinh Thủ đô.
+
+![Hình ảnh tư liệu](images/event_20260924_103222.webp)
+
+*Nguồn: Học sinh Trường Trưng Vương chúc mừng sinh nhật Bác ngày 19/05/1956 / Thông tấn xã Việt Nam*
 *   **31/05/1956:** Chính phủ Bắc Kinh ra thông cáo tuyên bố sẽ không dung thứ bất kỳ sự vi phạm nào đối với các quyền của họ trên quần đảo Trường Sa.
 *   **01/06/1956:** Ngoại trưởng Việt Nam Cộng hòa Vũ Văn Mẫu ra tuyên bố chính thức bác bỏ các yêu sách của Philippines và Đài Loan, tái khẳng định chủ quyền lịch sử và pháp lý không thể tranh cãi của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa.
 *   **02/06/1956:** Sau khi Việt Nam Cộng hòa tái khẳng định chủ quyền đối với Trường Sa, Chính phủ Pháp cũng đã nhắc lại với Chính phủ Philippin về các quyền mà Pháp đã xác lập trên quần đảo này từ năm 1933.
@@ -2450,7 +2500,22 @@
 *   **1957:** Tỉnh đội Tây Ninh cài Bùi Văn Thuyên (khi đó 17 tuổi) vào làm điệp báo bên trong căn cứ Tua Hai của Việt Nam Cộng hòa. Bằng sự khôn khéo, ông đã lấy được lòng tin của viên trung tá đồn trưởng, trở thành con nuôi và nắm rõ toàn bộ cách bố trí hỏa lực, kho đạn và lối đi trong căn cứ.
 *   **20/03/1957:** Chính phủ Tiệp Khắc ra tuyên bố hoàn toàn ủng hộ lập trường của Chính phủ Việt Nam, đòi thi hành nghiêm chỉnh Hiệp định Giơ-ne-vơ. Tiếp theo đó, Chính phủ Ba Lan (06/04/1957) và CHDC Đức (21/01/1959) cũng ra các tuyên bố đoàn kết và ủng hộ tương tự.
 *   **17/05/1957:** Bộ Chính trị quyết định sáp nhập Ban Miền Nam và Ban Thống nhất thành Ban Thống nhất Trung ương để giúp Trung ương chỉ đạo công tác đấu tranh thống nhất nước nhà.
+*   **20/05/1957:** Tại Hà Nội, Chủ tịch Hồ Chí Minh đã chụp ảnh lưu niệm cùng bé gái Trung Quốc Vương Tiểu Hồng (sau này là bà Vương Phong) khi em mới 6 tuổi, trong chuyến thăm của đoàn thiếu nhi Trung Quốc. Bức ảnh trở thành biểu tượng cảm động của tình hữu nghị Việt - Trung và tình yêu thương của Bác dành cho thiếu nhi quốc tế.
+
+![Hình ảnh tư liệu](images/event_20260924_103223.webp)
+
+*Nguồn: Bác Hồ chụp ảnh cùng bé Vương Tiểu Hồng ngày 20/05/1957 tại Hà Nội / Báo Thương hiệu và Công luận*
 *   **Giữa năm 1957:** Trung ương điều động đồng chí Lê Duẩn ra Hà Nội công tác bên cạnh Chủ tịch Hồ Chí Minh để chuẩn bị cho Đại hội III của Đảng và hoạch định chiến lược cách mạng cả nước.
+*   **08/07/1957:** Chủ tịch Hồ Chí Minh dẫn đầu Đoàn đại biểu Đảng và Chính phủ Việt Nam thăm hữu nghị chính thức Cộng hòa Dân chủ Nhân dân Triều Tiên, được Chủ tịch Kim Nhật Thành đón tiếp trọng thể tại sân bay Sunan (Bình Nhưỡng). Chuyến thăm mở ra giai đoạn mới cho quan hệ hữu nghị Việt - Triều.
+
+![Hình ảnh tư liệu](images/event_20260924_103225.webp)
+
+*Nguồn: Chủ tịch Hồ Chí Minh và Thủ tướng Kim Nhật Thành cùng nâng ly năm 1957 / Tư liệu*
+*   **08/1957:** Trong chuyến thăm Trung Quốc, Chủ tịch Hồ Chí Minh và Chủ tịch Mao Trạch Đông đã nâng ly chúc tình hữu nghị Việt - Trung mãi mãi xanh tươi, đời đời bền vững, khẳng định mối quan hệ đoàn kết, gắn bó giữa hai Đảng, hai nước trong sự nghiệp cách mạng.
+
+![Hình ảnh tư liệu](images/event_20260924_103228.webp)
+
+*Nguồn: Chủ tịch Hồ Chí Minh và Chủ tịch Mao Trạch Đông nâng ly chúc tình hữu nghị tháng 08/1957 / Bảo tàng Hồ Chí Minh*
 *   **12/1957:** Hội nghị Trung ương Đảng lần thứ 13 xác định hai nhiệm vụ chiến lược: cách mạng xã hội chủ nghĩa ở miền Bắc và cách mạng dân tộc dân chủ nhân dân ở miền Nam.
 *   **1958 - 1960:** Miền Bắc thực hiện **Kế hoạch 3 năm** cải tạo và phát triển kinh tế, văn hóa.
 *   **02/1958:** Ngư dân Trung Quốc cố gắng đến định cư ở phần phía Tây của quần đảo Hoàng Sa nhưng không thành công.
@@ -2466,6 +2531,11 @@
 *   **1959 - 1960:** Phong trào **"Đồng khởi"** bùng nổ mạnh mẽ ở các vùng nông thôn miền Nam, bắt đầu từ Bến Tre, phá vỡ từng mảng lớn bộ máy cai trị của địch ở cơ sở.
 *   **1959:** Huỳnh Tấn Phát hoạt động tại vùng "Tam giác sắt" (Củ Chi - Trảng Bàng - Bến Cát).
 *   **1959 - 1960:** Mạng lưới tình báo do Đinh Thị Vân phụ trách đã điều tra tỉ mỉ hệ thống phòng ngự của ngụy quân Sài Gòn ở nam vĩ tuyến 17, cung cấp thông tin quan trọng hỗ trợ cho việc mở đường Trường Sơn.
+*   **1959:** Chủ tịch Hồ Chí Minh cùng Đại tướng Võ Nguyên Giáp đến dự khán và động viên các vận động viên tại hoạt động thể thao quần chúng ở Hà Nội, thể hiện sự quan tâm của Đảng và Nhà nước đối với phong trào rèn luyện thân thể theo gương Bác Hồ vĩ đại.
+
+![Hình ảnh tư liệu](images/event_20260924_103229.webp)
+
+*Nguồn: Chủ tịch Hồ Chí Minh dự khán hoạt động thể thao quần chúng / Wikimedia Commons (Public domain)*
 *   **01/1959:** Hội nghị lần thứ 15 Ban Chấp hành Trung ương Đảng Lao động Việt Nam ra nghị quyết lịch sử, xác định con đường cách mạng miền Nam là sử dụng bạo lực cách mạng, kết hợp đấu tranh chính trị với đấu tranh vũ trang để giành chính quyền.
 *   **04/1959:** Hội nghị lần thứ 16 Ban Chấp hành Trung ương Đảng Lao động Việt Nam ra nghị quyết về cải tạo xã hội chủ nghĩa đối với công thương nghiệp tư bản tư doanh ở miền Bắc.
 *   **05/1959:** Chính quyền Ngô Đình Diệm ban hành **Luật 10/59**, lê máy chém đi khắp miền Nam để đàn áp khốc liệt phong trào cách mạng.
@@ -2493,6 +2563,10 @@
 * **26/01/1960:** Liệt sĩ Ngô Minh Trị (Tiểu đội phó đặc công) anh dũng hy sinh trong trận tập kích đồn Tua Hai (Tây Ninh).
 *   **Đêm 25 rạng sáng 26/01/1960:** Dựa trên thông tin tình báo do Bùi Văn Thuyên cung cấp từ bên trong, lực lượng cách mạng (hơn một tiểu đoàn) đã bất ngờ tấn công và diệt gọn căn cứ Tua Hai (nơi đóng quân của Trung đoàn 3, Sư đoàn 21 ngụy quân VNCH). Quân cách mạng loại khỏi vòng chiến đấu hơn 500 tên địch, bắt sống trên 700 tên và thu 1.500 khẩu súng. Trận đánh lịch sử này là một trong những phát súng mở màn cho phong trào Đồng khởi ở Nam Bộ.
 *   **26/01 - 03/02/1960:** Nhận lời mời của Chủ tịch Hồ Chí Minh, Luật sư Francis Henry Loseby cùng phu nhân Beatrice Rose Loseby và con gái đã sang thăm chính thức Hà Nội. Chủ tịch Hồ Chí Minh đã đích thân ra sân bay Gia Lâm đón tiếp gia đình ân nhân với tình cảm sâu nặng và sự tri ân chân thành đối với người đã cứu sống mình trong vụ án Hồng Kông năm 1931-1933.
+
+![Hình ảnh tư liệu](images/event_20260924_103207.webp)
+
+*Nguồn: Chủ tịch Hồ Chí Minh đón gia đình Luật sư Loseby tại Hà Nội tháng 01/1960 / Tư liệu Bộ Ngoại giao Anh*
 *   **03/02/1960:** Bị địch nghi ngờ sau trận Tua Hai, Bùi Văn Thuyên rút ra vùng căn cứ cách mạng. Ông trở thành chiến sĩ đơn vị C40 và được cử đi học lớp huấn luyện đặc công.
 *   **Đầu năm 1960:** Lưu Tấn Phát được phân công làm Tỉnh đội phó Tỉnh đội Mỹ Tho, góp phần củng cố lực lượng vũ trang địa phương.
 *   **Đầu năm 1960:** Nữ chiến sĩ điệp báo Ngô Thị Huệ (bí danh Minh Hiệp, thường gọi là "Con sóc nhỏ") thuộc Ban An ninh Quảng Đà bị địch bắt giam tại nhà lao Hiếu Đức và Hội An trong khi làm nhiệm vụ. Dù phải chịu biệt giam và tra tấn dã man suốt hơn 6 tháng bằng nhiều cực hình tàn khốc (dìm nước, tra điện, đánh đập), bà vẫn kiên cường giữ vững khí tiết người chiến sĩ cách mạng, không khai báo một lời, bảo vệ tuyệt đối an toàn cho các cơ sở và mạng lưới điệp báo nội thành Đà Nẵng.
@@ -2538,8 +2612,18 @@
 *   **1962:** Chiến sĩ biệt động Sài Gòn Trần Văn Lai (bí danh Mai Hồng Quế) mua ba căn nhà liền kề trên đường Nguyễn Đình Chiểu (Sài Gòn) để bí mật đào hầm ngầm, sau này cất giấu hơn 2,5 tấn vũ khí phục vụ Tổng tiến công Tết Mậu Thân 1968.
 *   **1962:** Huỳnh Tấn Phát được bầu làm Phó Chủ tịch đoàn Ủy ban Trung ương Mặt trận Dân tộc Giải phóng miền Nam Việt Nam.
 * **1962:** Liệt sĩ Mai Thanh Thế (Chiến sĩ đặc công huyện Thạnh Trị. Hy sinh trong trận đánh đồn Cầu Trâu) anh dũng hy sinh trong khi thực hiện nhiệm vụ chiến đấu bảo vệ Tổ quốc.
+*   **1962:** Chủ tịch Hồ Chí Minh tham gia chỉ huy dàn nhạc trong buổi biểu diễn văn nghệ quần chúng tại Hà Nội, ghi lại hình ảnh sinh động về tâm hồn nghệ sĩ, sự gần gũi và niềm yêu thích âm nhạc của Người trong đời sống văn hóa tinh thần.
+
+![Hình ảnh tư liệu](images/event_20260924_103231_1.webp)
+
+*Nguồn: Chủ tịch Hồ Chí Minh chỉ huy dàn nhạc khoảng năm 1962 / Getty Images*
 * **09/01/1962:** Liệt sĩ Phan Thị Ràng (nữ chiến sĩ cách mạng tại Hòn Đất, Kiên Giang, nguyên mẫu nhân vật chị Sứ trong tiểu thuyết "Hòn Đất") kiên cường chịu đựng tra tấn và anh dũng hy sinh.
 *   **12/01/1962:** **Chiến dịch Chopper (Operation Chopper):** Đánh dấu bước can thiệp vũ trang trực tiếp của Mỹ trong chiến lược "Chiến tranh đặc biệt", quân đội Mỹ điều động 33 trực thăng CH-21C chở hơn 1.000 lính quân đội Sài Gòn mở cuộc càn quét mang tên Chopper vào vùng căn cứ kháng chiến và lực lượng vũ trang cách mạng tại Củ Chi - Hóc Môn. Đây là lần đầu tiên đế quốc Mỹ đưa chiến thuật "trực thăng vận" vào thử nghiệm trên chiến trường miền Nam Việt Nam hòng tiêu diệt cơ sở cách mạng của nhân dân Việt Nam.
+*   **21/01/1962:** Thay mặt Đảng, Chính phủ và Quốc hội Việt Nam, Chủ tịch Hồ Chí Minh đã trao tặng Huân chương Lao động (danh hiệu Anh hùng Lao động) cho nhà du hành vũ trụ Liên Xô Gherman Titov trong chuyến thăm hữu nghị của ông tới Việt Nam, ghi nhận thành tựu chinh phục vũ trụ của Liên Xô và tình đoàn kết Việt - Xô.
+
+![Hình ảnh tư liệu](images/event_20260924_103231.webp)
+
+*Nguồn: Bác Hồ và Anh hùng vũ trụ Titov thăm Vịnh Hạ Long ngày 22/01/1962 / Báo Quảng Ninh*
 *   **08/02/1962:** Mỹ thành lập **Bộ Chỉ huy Viện trợ Quân sự tại Việt Nam (MACV)** do Tướng Paul Harkins chỉ huy để trực tiếp điều hành cuộc chiến.
 *   **09/02/1962:** Vượt lên nỗi đau xót trước sự hy sinh của chồng, Lê Thị Riêng ghi vào nhật ký quyết tâm chiến đấu vì hạnh phúc không tan, vì hòa bình để không còn ai phải chịu cảnh tang tóc, chia ly.
 *   **16/02 - 03/03/1962:** Đại hội lần thứ nhất Mặt trận Dân tộc Giải phóng miền Nam Việt Nam được tổ chức, bầu ra Ủy ban Trung ương chính thức do Luật sư Nguyễn Hữu Thọ làm Chủ tịch.
