@@ -51,7 +51,7 @@
 *   **Trước 2879 TCN:** Theo thư tịch cổ, Đế Minh (cháu 3 đời của Viêm Đế Thần Nông) đi tuần phương Nam đến núi Ngũ Lĩnh, kết duyên với Vụ Tiên nữ và sinh ra Lộc Tục. Đế Minh sau đó chia đôi cõi Bắc - Nam, phong cho con trưởng Đế Nghi làm vua phương Bắc và Lộc Tục làm vua phương Nam. [Nguồn: MyTourGuide - Kinh Dương Vương, https://mytourguide.com.vn/kinh-duong-vuong.html]
 
 <!-- id: EVT-0017 -->
-*   **2879 TCN:** Lộc Tục lên ngôi vua xưng là Kinh Dương Vương, thành lập nước Xích Quỷ - quốc hiệu đầu tiên trong truyền thuyết lịch sử Việt Nam, mở đầu Kỷ Hồng Bàng. Kinh Dương Vương kết duyên với con gái Động Đình Quân (Thần Long), sinh ra Sùng Lẫm (Lạc Long Quân).
+*   **2879 TCN:** Lộc Tục lên ngôi vua xưng là Kinh Dương Vương, thành lập nước Xích Quỷ - quốc hiệu đầu tiên trong truyền thuyết lịch sử Việt Nam, mở đầu Kỷ Hồng Bàng. Kinh Dương Vương kết duyên với con gái Động Đình Quân (Thần Long), sinh ra Sùng Lẫm (Lạc Long Quân). [Nguồn: Báo Nhân Dân - Nhớ về Thủy tổ nước Nam, https://nhandan.vn/nhan-ngay-gio-to-hung-vuong-nho-ve-thuy-to-nuoc-nam-post805321.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_232121.webp)
 
@@ -59,9 +59,8 @@
 
 
 
-[Nguồn: Báo Nhân Dân - Nhớ về Thủy tổ nước Nam, https://nhandan.vn/nhan-ngay-gio-to-hung-vuong-nho-ve-thuy-to-nuoc-nam-post805321.html]
 <!-- id: EVT-0018 -->
-*   **2879 - 258 TCN:** Giai đoạn 18 đời Hùng Vương trị vì. Đây cũng là khoảng thời gian mà truyền thuyết Lạc Long Quân và Âu Cơ, Phù Đổng Thiên Vương (Thánh Gióng), và Sơn Tinh - Thủy Tinh được cho là ra đời và truyền miệng.
+*   **2879 - 258 TCN:** Giai đoạn 18 đời Hùng Vương trị vì. Đây cũng là khoảng thời gian mà truyền thuyết Lạc Long Quân và Âu Cơ, Phù Đổng Thiên Vương (Thánh Gióng), và Sơn Tinh - Thủy Tinh được cho là ra đời và truyền miệng. [Nguồn: VTC News - 18 đời vua Hùng gồm những ai?, https://vtcnews.vn/18-doi-vua-hung-gom-nhung-ai-ar669738.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_232119.webp)
 
@@ -69,12 +68,11 @@
 
 
 
-[Nguồn: VTC News - 18 đời vua Hùng gồm những ai?, https://vtcnews.vn/18-doi-vua-hung-gom-nhung-ai-ar669738.html]
 <!-- id: EVT-0019 -->
 *   **2793 TCN:** Sùng Lẫm nối ngôi Kinh Dương Vương, xưng là Lạc Long Quân, tiếp tục cai trị nước Xích Quỷ. Lạc Long Quân có công trừ diệt các loài quái vật nguy hại (Ngư Tinh, Cửu Vĩ Hồ, Mộc Tinh), dạy nhân dân trồng lúa nước, dệt vải và cất dựng nhà cửa. [Nguồn: VTC News - 18 đời vua Hùng gồm những ai?, https://vtcnews.vn/18-doi-vua-hung-gom-nhung-ai-ar669738.html]
 
 <!-- id: EVT-0020 -->
-*   **Khoảng 2524 TCN:** Lạc Long Quân kết duyên với Âu Cơ (con gái Đế Lai). Âu Cơ sinh bọc trăm trứng, nở thành 100 người con trai, hình thành cội nguồn truyền thuyết "Con Rồng cháu Tiên" và khái niệm "Đồng bào". Hai người sau đó chia 50 con theo mẹ lên núi, 50 con theo cha xuống biển để cai quản các vùng đất. Người con trưởng theo mẹ lên vùng Phong Châu lên ngôi xưng là Hùng Vương, đặt quốc hiệu là Văn Lang.
+*   **Khoảng 2524 TCN:** Lạc Long Quân kết duyên với Âu Cơ (con gái Đế Lai). Âu Cơ sinh bọc trăm trứng, nở thành 100 người con trai, hình thành cội nguồn truyền thuyết "Con Rồng cháu Tiên" và khái niệm "Đồng bào". Hai người sau đó chia 50 con theo mẹ lên núi, 50 con theo cha xuống biển để cai quản các vùng đất. Người con trưởng theo mẹ lên vùng Phong Châu lên ngôi xưng là Hùng Vương, đặt quốc hiệu là Văn Lang. [Nguồn: Báo Tiền Phong - Đền Lăng Sương, https://tienphong.vn/hanh-huong-ve-noi-lac-long-quan-va-au-co-gap-nhau-post1824454.tpo]
 
 ![Hình ảnh tư liệu](images/event_20260923_232118.webp)
 
@@ -82,7 +80,6 @@
 
 
 
-[Nguồn: Báo Tiền Phong - Đền Lăng Sương, https://tienphong.vn/hanh-huong-ve-noi-lac-long-quan-va-au-co-gap-nhau-post1824454.tpo]
 <!-- id: EVT-0021 -->
 *   **Khoảng cuối thiên niên kỷ III TCN - đầu thiên niên kỷ II TCN:** Thời kỳ Văn hóa Phùng Nguyên, mở đầu thời đại kim khí. [Nguồn: Báo Pháp Luật Việt Nam, https://baophapluat.vn/xa-hoi-chuyen-tu-che-do-mau-he-sang-phu-he-the-nao-post286671.html]
 
@@ -111,114 +108,119 @@
 
 ### **Thời kỳ Dựng nước và Bắc thuộc (800 TCN - 938)**
 
-*   **Thế kỷ VII TCN (Thiên niên kỷ thứ 1 TCN):** Theo *Việt sử lược*, nước Văn Lang ra đời. Đây là nhà nước sơ khai đầu tiên ở Việt Nam, được hình thành trên cơ sở văn hóa Đông Sơn, tập hợp 15 bộ lạc người Lạc Việt ở vùng đồng bằng và trung du. Nước Âu Lạc sau này tiếp nối nước Văn Lang.
+*   **Thế kỷ VII TCN (Thiên niên kỷ thứ 1 TCN):** Theo *Việt sử lược*, nước Văn Lang ra đời. Đây là nhà nước sơ khai đầu tiên ở Việt Nam, được hình thành trên cơ sở văn hóa Đông Sơn, tập hợp 15 bộ lạc người Lạc Việt ở vùng đồng bằng và trung du. Nước Âu Lạc sau này tiếp nối nước Văn Lang. [Nguồn: Sự ra đời của nhà nước Văn Lang, https://nhandan.vn/su-ra-doi-cua-nha-nuoc-van-lang-post522079.html]
 
 <!-- id: EVT-0030 -->
 *   **Thế kỷ V TCN:** Được nhiều học giả xem là "thế kỷ của phương Nam" do những ảnh hưởng to lớn của văn hóa Đông Nam Á cổ đại (bao gồm tổ tiên người Việt) về nông nghiệp và luyện kim vượt ra ngoài ranh giới khu vực.
 
 <!-- id: EVT-0031 -->
-*   **Khoảng 500 TCN:** Thời kỳ Văn hóa Đồng Nai (Đông Nam Bộ), nền văn hóa kim khí kết nối giữa thời đại đồng thau và thời đại sắt sớm.
+*   **Khoảng 500 TCN:** Thời kỳ Văn hóa Đồng Nai (Đông Nam Bộ), nền văn hóa kim khí kết nối giữa thời đại đồng thau và thời đại sắt sớm. [Nguồn: Những nghiên cứu quý về Đồng Nai, https://baodongnai.com.vn/phongsukysu/201811/nhung-nghien-cuu-quy-ve-dong-nai-2919230/]
 
 <!-- id: EVT-0032 -->
-*   **Khoảng 500 TCN:** Nghệ thuật đúc đồng Đông Sơn đạt tới đỉnh cao rực rỡ với việc chế tác Trống đồng Ngọc Lũ và Trống đồng Hoàng Hà, phản ánh đời sống tâm linh, sản xuất nông nghiệp và kỹ thuật luyện kim vượt trội của người Việt cổ.
+*   **Khoảng 500 TCN:** Nghệ thuật đúc đồng Đông Sơn đạt tới đỉnh cao rực rỡ với việc chế tác Trống đồng Ngọc Lũ và Trống đồng Hoàng Hà, phản ánh đời sống tâm linh, sản xuất nông nghiệp và kỹ thuật luyện kim vượt trội của người Việt cổ. [Nguồn: Trống đồng Hoàng Hạ - Á hậu trống đồng Đông Sơn, https://baotanglichsu.vn/vi/Articles/1001/13607/gioi-thieu-bao-vat-quoc-gia-2-trong-djong-hoang-ha-a-hau-trong-djong-djong-son.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_105043.webp)
 
 *Nguồn: Bảo tàng Lịch sử Quốc gia*
 
+
 <!-- id: EVT-0033 -->
-*   **Khoảng thế kỷ III - II TCN:** Phật giáo được du nhập vào bằng đường biển từ Ấn Độ. Đây là tôn giáo có mặt sớm nhất và đã được bản địa hóa, trở thành tư tưởng chủ đạo trong văn hóa dân tộc qua nhiều thời kỳ lịch sử.
+*   **Khoảng thế kỷ III - II TCN:** Phật giáo có thể đã bắt đầu được du nhập vào bằng đường biển từ Ấn Độ. Đây là tôn giáo có mặt sớm nhất và đã được bản địa hóa, trở thành tư tưởng chủ đạo trong văn hóa dân tộc qua nhiều thời kỳ lịch sử. [Nguồn: Những con đường du nhập Phật giáo khác nhau ở Đông Nam Á, https://phatsuonline.vn/nhung-con-duong-du-nhap-phat-giao-khac-nhau-o-dong-nam-a-89]
 
 <!-- id: EVT-0034 -->
-*   **258 TCN:** Thục Phán (thủ lĩnh bộ tộc Tây Âu / Âu Việt) cất quân tiến đánh nước Văn Lang. Do triều đình Văn Lang cuối thời suy yếu và chủ quan khinh địch, quân đội của Hùng Vương thứ 18 (Hùng Duệ Vương) thất trận. Thục Phán đánh bại quân Hùng, thôn tính bờ cõi Văn Lang, chính thức kết thúc thời đại 18 đời Hùng Vương trị vì Kỷ Hồng Bàng.
+*   **258 TCN:** Thục Phán (thủ lĩnh bộ tộc Tây Âu / Âu Việt) cất quân tiến đánh nước Văn Lang. Do triều đình Văn Lang cuối thời suy yếu và chủ quan khinh địch, quân đội của Hùng Vương thứ 18 (Hùng Duệ Vương) thất trận. Thục Phán đánh bại quân Hùng, thôn tính bờ cõi Văn Lang, chính thức kết thúc thời đại 18 đời Hùng Vương trị vì Kỷ Hồng Bàng. [Nguồn: Lịch sử các vua Hùng qua sử sách và truyền thuyết, https://nguoikesu.com/nhan-vat/hung-vuong]
 
 <!-- id: EVT-0035 -->
-*   **257 TCN:** Thục Phán lên ngôi xưng là An Dương Vương, hợp nhất hai cộng đồng người Tây Âu và Lạc Việt, đổi quốc hiệu thành Âu Lạc và dời kinh đô từ Phong Châu về Phong Khê (Cổ Loa).
+*   **257 TCN:** Thục Phán lên ngôi xưng là An Dương Vương, hợp nhất hai cộng đồng người Tây Âu và Lạc Việt, đổi quốc hiệu thành Âu Lạc và dời kinh đô từ Phong Châu về Phong Khê (Cổ Loa). [Nguồn: Nhà Thục (257–208 trước Công nguyên): quốc hiệu Âu Lạc, kinh đô Phong Khê (Cổ Loa), https://scov.gov.vn/dat-nuoc-con-nguoi/tom-tat-bien-nien-su-vn/ii.-nha-thuc-257-208-trcn-50-nam-quoc-hieu-au-lac-kinh-do-phong-khe-co-loa-dong-anh-ha-noi-.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_125040.webp)
 
 *Nguồn: Đình Ngự Triều Di Quy trong khu di tích Cổ Loa (Đông Anh, Hà Nội) / Wikimedia Commons (CC BY-SA 3.0)*
 
+
 <!-- id: EVT-0036 -->
-*   **257 TCN:** Thục Phán An Dương Vương dựng cột đá thề trên đỉnh núi Nghĩa Lĩnh (Phong Châu), thề nguyện đời đời giữ gìn giang sơn gấm vóc mà các Hùng Vương đã trao lại.
+*   **257 TCN:** Thục Phán An Dương Vương dựng cột đá thề trên đỉnh núi Nghĩa Lĩnh (Phong Châu), thề nguyện đời đời giữ gìn giang sơn gấm vóc mà các Hùng Vương đã trao lại. [Nguồn: Những công trình kiến trúc độc đáo tại Khu di tích lịch sử Đền Hùng, https://tapchixaydung.vn/nhung-cong-trinh-kien-truc-doc-dao-tai-khu-di-tich-lich-su-den-hung--20201224000015595.html]
 
 <!-- id: EVT-0037 -->
-*   **255 TCN:** An Dương Vương cho xây dựng Loa Thành (Cổ Loa).
+*   **257 TCN:** An Dương Vương cho xây dựng Loa Thành (Cổ Loa). [Nguồn: Thành Cổ Loa – truyền thuyết kỳ thú của dân tộc Việt, https://hoangthanhthanglong.vn/thanh-co-loa-truyen-thuyet-ky-thu-cua-dan-toc-viet/]
 
 ![Hình ảnh tư liệu](images/event_20260923_232117.webp)
 
 *Nguồn: Cổng thành Cổ Loa (Đông Anh, Hà Nội) / Vinpearl*
 
+
 <!-- id: EVT-0038 -->
-*   **Khoảng 250 TCN:** Tướng quân Cao Lỗ (Cao Thông) chế tạo thành công "Lạc Quang thần nỏ" (Nỏ Liên Châu / Nỏ thần), bắn ra nhiều mũi tên đồng cùng lúc, trở thành vũ khí chiến lược bảo vệ Loa Thành của nước Âu Lạc.
+*   **Khoảng 250 TCN:** Tướng quân Cao Lỗ chế tạo thành công "Nỏ Liên Châu" (Nỏ thần), bắn ra nhiều mũi tên đồng cùng lúc, trở thành vũ khí chiến lược bảo vệ Loa Thành của nước Âu Lạc. [Nguồn: Tướng quân Cao Lỗ: Bước ra từ huyền sử, https://nhandan.vn/tuong-quan-cao-lo-buoc-ra-tu-huyen-su-post4664.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_232114.webp)
 
 *Nguồn: Tượng Cao Lỗ cầm nỏ thần tại Cổ Loa / Wikimedia Commons*
 
+
 <!-- id: EVT-0039 -->
-*   **218 TCN:** Tần Thủy Hoàng sai Đồ Thư làm Tổng hiệu úy, Nhâm Ngao làm Hiệu úy, đem 50 vạn quân chia 5 đạo tiến đánh Bách Việt (Tây Âu và Lạc Việt), mở đầu cuộc kháng chiến chống Tần kéo dài 10 năm của người Việt.
+*   **218 TCN:** Tần Thủy Hoàng sai Đồ Thư làm Tổng hiệu úy, Nhâm Ngao làm Hiệu úy, đem 50 vạn quân chia 5 đạo tiến đánh Bách Việt (Tây Âu và Lạc Việt), mở đầu cuộc kháng chiến chống Tần kéo dài 10 năm của người Việt. [Nguồn: Tóm tắt biên niên sử Việt Nam – Nhà Thục (257–208 trước Công nguyên), https://scov.gov.vn/dat-nuoc-con-nguoi/tom-tat-bien-nien-su-vn/ii.-nha-thuc-257-208-trcn-50-nam-quoc-hieu-au-lac-kinh-do-phong-khe-co-loa-dong-anh-ha-noi-.html]
 
 <!-- id: EVT-0040 -->
-*   **214 TCN:** Tướng Tần là Đồ Thư giết chết Dịch Huống (thủ lĩnh Tây Âu). Cư dân Tây Âu và Lạc Việt rút vào rừng sâu, bầu Thục Phán làm thủ lĩnh chung, ngày ẩn đêm xuất tiến hành chiến tranh du kích kiên cường chống quân Tần. Cùng năm, nhà Tần thiết lập 3 quận Quế Lâm, Nam Hải và Tượng Quận.
+*   **214 TCN:** Tướng Tần là Đồ Thư giết chết Dịch Huống (thủ lĩnh Tây Âu). Cư dân Tây Âu và Lạc Việt rút vào rừng sâu, bầu Thục Phán làm thủ lĩnh chung, ngày ẩn đêm xuất tiến hành chiến tranh du kích kiên cường chống quân Tần. Cùng năm, nhà Tần thiết lập 3 quận Quế Lâm, Nam Hải và Tượng Quận. [Nguồn: Cuộc kháng chiến chống Tần và sự ra đời của nhà nước Âu Lạc, https://hoangthanhthanglong.vn/cuoc-khang-chien-chong-tan-va-su-ra-doi-cua-nha-nuoc-au-lac/]
 
 <!-- id: EVT-0041 -->
-*   **210 TCN:** Tần Thủy Hoàng qua đời. Triệu Đà nhân lúc triều Tần đại loạn đã cắt đứt tuyến giao thông với Trung Nguyên, phong tỏa các cửa ải phía bắc (Nhĩ Lăng, Hoành Sơn, Dương Sơn) và sát hại các quan lại nhà Tần ở Nam Hải, tạo tiền đề thành lập nước Nam Việt.
+*   **210 TCN:** Tần Thủy Hoàng qua đời. Triệu Đà nhân lúc triều Tần đại loạn đã cắt đứt tuyến giao thông với Trung Nguyên, phong tỏa các cửa ải phía bắc (Nhĩ Lăng, Hoành Sơn, Dương Sơn) và sát hại các quan lại nhà Tần ở Nam Hải, tạo tiền đề thành lập nước Nam Việt. [Nguồn: Cuộc xâm lược của nhà Triệu, https://nhandan.vn/cuoc-xam-luoc-cua-nha-trieu-post522087.html]
 
 <!-- id: EVT-0042 -->
-*   **208 TCN:** Liên quân Tây Âu - Lạc Việt dưới sự chỉ huy của Thục Phán mở cuộc phản công lớn, phục kích tiêu diệt Tổng hiệu úy Đồ Thư và đại phá 50 vạn quân Tần, bảo vệ độc lập dân tộc. Sau chiến thắng, Thục Phán hợp nhất Tây Âu và Lạc Việt thành nước Âu Lạc. Cùng thời gian, Triệu Đà bắt đầu các cuộc tấn công nhắm vào Âu Lạc.
+*   **208 TCN:** Liên quân Tây Âu - Lạc Việt dưới sự chỉ huy của Thục Phán mở cuộc phản công lớn, phục kích tiêu diệt Tổng hiệu úy Đồ Thư và đại phá 50 vạn quân Tần, bảo vệ độc lập dân tộc. Sau chiến thắng, Thục Phán hợp nhất Tây Âu và Lạc Việt thành nước Âu Lạc. Cùng thời gian, Triệu Đà bắt đầu các cuộc tấn công nhắm vào Âu Lạc. [Nguồn: Thục Phán – An Dương Vương, https://thanhcoloa.vn/an-duong-vuong]
 
 <!-- id: EVT-0043 -->
-*   **207 TCN:** Triệu Đà nhân lúc nhà Tần suy vong đã cắt đứt giao thông với Trung Nguyên, lập ra nước Nam Việt, đóng đô ở Phiên Ngung (Quảng Châu) và xưng là Nam Việt Vũ Vương.
+*   **207 TCN:** Triệu Đà nhân lúc nhà Tần suy vong đã cắt đứt giao thông với Trung Nguyên, lập ra nước Nam Việt, đóng đô ở Phiên Ngung (Quảng Châu) và xưng là Nam Việt Vũ Vương. [Nguồn: Triệu Đà và 76 năm sống trên đất Việt, https://hoangthanhthanglong.vn/trieu-da-va-76-nam-song-tren-dat-viet]
 
 <!-- id: EVT-0044 -->
-*   **198 TCN:** Triệu Đà chia đất Nam Việt thành hai quận Giao Chỉ và Cửu Chân, cử quan Điển lệnh trực tiếp giám sát hành chính và quân sự.
-
-<!-- id: EVT-0045 -->
-*   **196 TCN:** Hán Cao Tổ Lưu Bang cử Lục Giả làm chánh sứ sang Phiên Ngung dâng chiếu thư và kim ấn, chính thức phong Triệu Đà làm Nam Việt Vương, mở đầu quan hệ ngoại giao chính thức giữa Nam Việt và nhà Hán.
+*   **196 TCN:** Hán Cao Tổ Lưu Bang cử Lục Giả làm chánh sứ sang Phiên Ngung dâng chiếu thư và kim ấn, chính thức phong Triệu Đà làm Nam Việt Vương, mở đầu quan hệ ngoại giao chính thức giữa Nam Việt và nhà Hán. [Nguồn: Triệu Đà – Người Kể Sử, https://nguoikesu.com/nhan-vat/trieu-da]
 
 <!-- id: EVT-0046 -->
-*   **183 TCN:** Lã Thái hậu (nhà Hán) ra lệnh cấm xuất khẩu sắt thép, gia súc sang Nam Việt. Triệu Đà tuyên bố ly khai, tự xưng là Nam Việt Vũ Đế (Triệu Vũ Đế) và cất quân đánh phá quận Trưởng Sa của nhà Hán.
+*   **183 TCN:** Lã Thái hậu (nhà Hán) ra lệnh cấm xuất khẩu sắt thép, gia súc sang Nam Việt. Triệu Đà tuyên bố ly khai, tự xưng là Nam Việt Vũ Đế (Triệu Vũ Đế) và cất quân đánh phá quận Trưởng Sa của nhà Hán. [Nguồn: Cuộc xâm lược của nhà Triệu, https://nhandan.vn/cuoc-xam-luoc-cua-nha-trieu-post522087.html]
 
 <!-- id: EVT-0047 -->
-*   **179 TCN:** Triệu Đà thôn tính nước Âu Lạc. Sự kiện này gắn liền với truyền thuyết bi kịch về mối tình Trọng Thủy - Mỵ Châu.
+*   **179 TCN:** Sau khi thôn tính Âu Lạc, Triệu Đà sáp nhập toàn bộ đất đai Âu Lạc vào nước Nam Việt, chia thành hai quận Giao Chỉ và Cửu Chân, cử quan Điển lệnh trực tiếp giám sát hành chính và quân sự. [Nguồn: Triệu Đà và 76 năm sống trên đất Việt, https://hoangthanhthanglong.vn/trieu-da-va-76-nam-song-tren-dat-viet]
+
+<!-- id: EVT-0045 -->
+*   **179 TCN:** Triệu Đà thôn tính nước Âu Lạc. Sự kiện này gắn liền với truyền thuyết bi kịch về mối tình Trọng Thủy - Mỵ Châu. [Nguồn: Truyện An Dương Vương và Mị Châu, Trọng Thủy: Cốt lõi lịch sử và hư cấu kì ảo, https://giaoducthoidai.vn/truyen-an-duong-vuong-va-mi-chau-trong-thuy-cot-loi-lich-su-va-hu-cau-ki-ao-post538528.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_232113.webp)
 
 *Nguồn: Đền thờ An Dương Vương tại Cổ Loa (Đông Anh, Hà Nội) / Vietdreamtravel*
 
+
 <!-- id: EVT-0048 -->
-*   **137 TCN:** Triệu Đà qua đời ở tuổi hơn 100 sau gần 70 năm trị vì. Cháu nội là Triệu Mạt lên nối ngôi, xưng là Triệu Văn Vương (Triệu Văn Đế).
+*   **137 TCN:** Triệu Đà qua đời ở tuổi hơn 100 sau gần 70 năm trị vì. Cháu nội là Triệu Mạt lên nối ngôi, xưng là Triệu Văn Vương (Triệu Văn Đế). [Nguồn: Triệu Đà qua đời – Sự kiện lịch sử, https://bienniensuviet.com/su-kien/trieu-da-qua-doi]
 
 <!-- id: EVT-0049 -->
-*   **135 TCN:** Nước Mân Việt tiến đánh Nam Việt. Triệu Văn Vương gửi thư xin Hán Vũ Đế can thiệp; nhà Hán cử quân đánh Mân Việt, khiến Nam Việt ngày càng chịu ảnh hưởng ngoại giao từ triều Hán.
+*   **135 TCN:** Nước Mân Việt tiến đánh Nam Việt. Triệu Văn Vương gửi thư xin Hán Vũ Đế can thiệp; nhà Hán cử quân đánh Mân Việt, khiến Nam Việt ngày càng chịu ảnh hưởng ngoại giao từ triều Hán. [Nguồn: Triệu Văn Vương cầu cứu nhà Hán khi Mân Việt xâm lấn biên ấp năm 135 TCN, https://nguoikesu.com/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu/trieu-minh-vuong-trieu-anh-te]
 
 <!-- id: EVT-0050 -->
-*   **125 TCN:** Triệu Văn Vương (Triệu Mạt) qua đời. Con là Triệu Anh Tề lên nối ngôi vua nước Nam Việt, xưng là Triệu Minh Vương (trị vì 125 TCN - 113 TCN).
+*   **125 TCN:** Triệu Văn Vương (Triệu Mạt) qua đời. Con là Triệu Anh Tề lên nối ngôi vua nước Nam Việt, xưng là Triệu Minh Vương (trị vì 125 TCN - 113 TCN). [Nguồn: Thừa tướng Lữ Gia cùng nước Nam Việt của nhà Triệu, https://trithucvn2.net/van-hoa/thua-tuong-lu-gia-cung-nuoc-nam-viet-cua-nha-trieu.html/amp]
 
 <!-- id: EVT-0051 -->
-*   **113 TCN:** Triệu Minh Vương qua đời, con thứ là Triệu Hưng lên nối ngôi khi còn nhỏ tuổi, xưng là Triệu Ai Vương (trị vì 113 TCN - 112 TCN), do Cù Thái hậu phụ chính. Cùng năm, Hán Vũ Đế sai An Quốc Thiếu Quý sang Nam Việt dụ Cù Thái hậu và Triệu Hưng dâng Nam Việt phụ thuộc hoàn toàn vào triều Hán.
+*   **113 TCN:** Triệu Minh Vương qua đời, con thứ là Triệu Hưng lên nối ngôi khi còn nhỏ tuổi, xưng là Triệu Ai Vương (trị vì 113 TCN - 112 TCN), do Cù Thái hậu phụ chính. Cùng năm, Hán Vũ Đế sai An Quốc Thiếu Quý sang Nam Việt dụ Cù Thái hậu và Triệu Hưng dâng Nam Việt phụ thuộc hoàn toàn vào triều Hán. [Nguồn: Triệu Ai Vương – Triệu Hưng, https://nguoikesu.com/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu/trieu-ai-vuong-trieu-hung]
 
 <!-- id: EVT-0052 -->
-*   **Tháng 11/112 TCN:** Thừa tướng Lữ Gia (Lừa Gia) cùng các tướng lĩnh nổi dậy kiên quyết bảo vệ chủ quyền, giết Cù Thái hậu, vua Triệu Hưng và sứ Hán An Quốc Thiếu Quý, lập Triệu Kiến Đức làm vua (Triệu Thuật Vương) để chống lại nguy cơ sáp nhập.
+*   **Tháng 11/112 TCN:** Thừa tướng Lữ Gia (Lừa Gia) cùng các tướng lĩnh nổi dậy kiên quyết bảo vệ chủ quyền, giết Cù Thái hậu, vua Triệu Hưng và sứ Hán An Quốc Thiếu Quý, lập Triệu Kiến Đức làm vua (Triệu Thuật Vương) để chống lại nguy cơ sáp nhập. [Nguồn: Triệu Kiến Đức – vị vua cuối cùng của nhà Triệu nước Nam Việt, https://nguoikesu.com/nhan-vat/trieu-kien-duc]
 
 <!-- id: EVT-0053 -->
-*   **Tháng 4/111 TCN:** Quân Hán do Lộ Bác Đức và Dương Bộc chỉ huy gồm 10 vạn quân đánh chiếm Phiên Ngung. Lữ Gia và Triệu Kiến Đức bị bắt và hy sinh. Nước Nam Việt sụp đổ; nhà Hán chia đất Nam Việt thành 9 quận (bao gồm Giao Chỉ, Cửu Chân và Nhật Nam), bắt đầu thời kỳ Bắc thuộc lần thứ nhất.
+*   **Mùa đông năm 111 TCN:** Quân Hán do Lộ Bác Đức và Dương Bộc chỉ huy gồm 10 vạn quân đánh chiếm Phiên Ngung. Lữ Gia và Triệu Kiến Đức bị bắt và hy sinh. Nước Nam Việt sụp đổ; nhà Hán chia đất Nam Việt thành 9 quận (bao gồm Giao Chỉ, Cửu Chân và Nhật Nam), bắt đầu thời kỳ Bắc thuộc lần thứ nhất. [Nguồn: Triệu Kiến Đức – cuộc kháng chiến chống nhà Hán và sự sụp đổ của Nam Việt, https://nguoikesu.com/nhan-vat/trieu-kien-duc]
 
 <!-- id: EVT-0054 -->
-*   **106 TCN:** Hán Vũ Đế chia các quận phương Nam thành Giao Chỉ bộ (gồm 9 quận), cử Thứ sử đứng đầu để kiểm soát và giám sát hành chính, đặt trị sở tại Luy Lâu (nay thuộc Thuận Thành, Bắc Ninh).
+*   **106 TCN:** Hán Vũ Đế chia các quận phương Nam thành Giao Chỉ bộ (gồm 9 quận), cử Thứ sử đứng đầu để kiểm soát và giám sát hành chính, đặt trị sở tại Luy Lâu (nay thuộc Thuận Thành, Bắc Ninh). [Nguồn: Thời kỳ chống các tập đoàn phong kiến Bắc thuộc, https://nhandan.vn/thoi-ky-chong-cac-tap-doan-phong-kien-bac-thuoc-post522065.html]
 
 <!-- id: EVT-0055 -->
-*   **Năm 2 TCN:** Cuộc điều tra dân số thời Hán Bình Đế ghi nhận 3 quận Giao Chỉ, Cửu Chân và Nhật Nam có hơn 143.000 hộ gia đình với gần 1 triệu dân, chứng tỏ sự phát triển kinh tế và dân cư đông đúc của vùng đất Âu Lạc cũ.
+*   **Năm 2 TCN:** Cuộc điều tra dân số thời Hán Bình Đế ghi nhận 3 quận Giao Chỉ, Cửu Chân và Nhật Nam có hơn 143.000 hộ gia đình với gần 1 triệu dân, chứng tỏ sự phát triển kinh tế và dân cư đông đúc của vùng đất Âu Lạc cũ. [Nguồn: Thời kỳ chống các tập đoàn phong kiến Bắc thuộc — số liệu hộ khẩu Hán thư, https://nhandan.vn/thoi-ky-chong-cac-tap-doan-phong-kien-bac-thuoc-post522065.html]
 
 <!-- id: EVT-0056 -->
-*   **Thế kỷ I - VII:** Vương quốc Phù Nam hình thành và phát triển rực rỡ ở vùng đồng bằng sông Cửu Long. Gắn liền với đó là Văn hóa Óc Eo, một trung tâm thương mại quan trọng kết nối các tuyến hàng hải Đông - Tây.
+*   **Thế kỷ I - VII:** Vương quốc Phù Nam hình thành và phát triển rực rỡ ở vùng đồng bằng sông Cửu Long. Gắn liền với đó là Văn hóa Óc Eo, một trung tâm thương mại quan trọng kết nối các tuyến hàng hải Đông - Tây. [Nguồn: Văn hóa Óc Eo – Phù Nam (từ thế kỷ 1 đến thế kỷ 7), https://baotanglichsu.vn/vi/Articles/4013/van-hoa-oc-eo-phu-nam-tu-the-ky-1-djen-the-ky-7]
 
 <!-- id: EVT-0057 -->
-*   **Năm 9:** Vương Mãng lật đổ nhà Tây Hán, lập ra nhà Tân. Thứ sử Giao Chỉ bộ là Đặng Tương giữ cho vùng đất Giao Châu được hòa bình, thành nơi tị nạn của nhiều sĩ phu, danh sĩ phương Bắc trốn tránh biến loạn.
+*   **Năm 9:** Vương Mãng lật đổ nhà Tây Hán, lập ra nhà Tân. Thứ sử Giao Chỉ bộ là Đặng Tương giữ cho vùng đất Giao Châu được hòa bình, thành nơi tị nạn của nhiều sĩ phu, danh sĩ phương Bắc trốn tránh biến loạn. [Nguồn: Kết cục bi thảm của vị Hoàng đế Trung Hoa ôm mộng xây dựng một thế giới hoàn mỹ, https://danviet.vn/ket-cuc-bi-tham-cua-vi-hoang-de-trung-hoa-om-mong-xay-dung-1-the-gioi-hoan-my-7777974106-d712852.html]
 
 <!-- id: EVT-0058 -->
-*   **Năm 25:** Tích Quang làm Thái thú quận Giao Chỉ, Nhâm Diên làm Thái thú quận Cửu Chân. Hai ông mở trường dạy học chữ Hán, truyền bá lễ nghi, kỹ thuật cày bằng phay sắt và xây dựng các công trình thủy lợi cho người Việt.
+*   **Năm 25:** Tích Quang làm Thái thú quận Giao Chỉ, Nhâm Diên làm Thái thú quận Cửu Chân. Hai ông mở trường dạy học chữ Hán, truyền bá lễ nghi, kỹ thuật cày bằng phay sắt và xây dựng các công trình thủy lợi cho người Việt. [Nguồn: Hậu Hán thư, Quyển 86 — Nam Man truyện (bản dịch tiếng Việt), https://vi.wikisource.org/wiki/Bi%C3%AAn_d%E1%BB%8Bch:H%E1%BA%ADu_H%C3%A1n_th%C6%B0/Quy%E1%BB%83n_86]
 
 <!-- id: EVT-0059 -->
 *   **Năm 29:** Tích Quang và Nhâm Diên cử sứ giả sang Lạc Dương dâng sớ quy phục Hán Quang Vũ Đế (nhà Đông Hán), kết thúc thời kỳ gián đoạn và chính thức đưa Giao Châu thuộc quyền kiểm soát của Đông Hán.

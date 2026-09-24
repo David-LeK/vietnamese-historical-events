@@ -329,7 +329,17 @@ def verify_event_sources_sync(events_vi, events_en):
 
     mismatches = 0
     with_src = 0
+    standalone = 0
     for idx, (ev_v, ev_e) in enumerate(zip(events_vi, events_en)):
+        for ev, lang in ((ev_v, 'VI'), (ev_e, 'EN')):
+            for l in ev['lines']:
+                s = l.strip() if isinstance(l, str) else ''
+                if src_line_re.match(s):
+                    standalone += 1
+                    if standalone <= 5:
+                        print(f"  {Colors.RED}[FAIL] {lang} event has a standalone citation line (must be inline at end of description):{Colors.RESET}")
+                        print(f"    {ev['lines'][0].strip()[:100]}")
+                    break
         has_v, has_e = has_src(ev_v), has_src(ev_e)
         if has_v and has_e:
             with_src += 1
@@ -343,6 +353,9 @@ def verify_event_sources_sync(events_vi, events_en):
     print(f"  - Events with bilingual citations: {with_src}/{total}")
     if mismatches > 0:
         print(f"  {Colors.RED}[FAIL] Found {mismatches} event(s) with one-sided citations. Add the missing `[Nguồn: ...]` / `[Source: ...]` line.{Colors.RESET}")
+        return False
+    if standalone > 0:
+        print(f"  {Colors.RED}[FAIL] Found {standalone} event(s) with standalone citation lines. Move each citation inline to the end of its description line.{Colors.RESET}")
         return False
     print(f"  {Colors.GREEN}[OK] Event citations are in sync (present on both sides or absent on both).{Colors.RESET}")
     return True

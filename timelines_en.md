@@ -51,7 +51,7 @@
 *   **Before 2879 BC:** According to ancient texts, De Minh (a third-generation descendant of Emperor Yan Shennong) traveled south to the Wuling Mountains, married Vu Tien Nu, and fathered Loc Tuc. De Minh later divided the realm between north and south, designating his eldest son De Nghi as ruler of the North and Loc Tuc as ruler of the South. [Source: Britannica - Kinh Duong, https://www.britannica.com/biography/Kinh-Duong]
 
 <!-- id: EVT-0017 -->
-*   **2879 BC:** Loc Tuc ascended the throne as Kinh Duong Vuong, establishing the Xich Quy nation - the first national title in Vietnamese historical legend - marking the start of the Hong Bang Dynasty. Kinh Duong Vuong married the daughter of Dong Dinh Quan (Dragon King), fathering Sung Lam (Lac Long Quan).
+*   **2879 BC:** Loc Tuc ascended the throne as Kinh Duong Vuong, establishing the Xich Quy nation - the first national title in Vietnamese historical legend - marking the start of the Hong Bang Dynasty. Kinh Duong Vuong married the daughter of Dong Dinh Quan (Dragon King), fathering Sung Lam (Lac Long Quan). [Source: Britannica - Kinh Duong, https://www.britannica.com/biography/Kinh-Duong]
 
 ![Historical Image](images/event_20260923_232121.webp)
 
@@ -59,21 +59,19 @@
 
 
 
-[Source: Britannica - Kinh Duong, https://www.britannica.com/biography/Kinh-Duong]
 <!-- id: EVT-0018 -->
-*   **2879 - 258 BC:** The period of the 18 reigns of the Hung Kings. This was also the period when the legends of Lac Long Quan and Au Co, Phu Dong Thien Vuong (Saint Giong), and Son Tinh - Thuy Tinh are believed to have originated and been passed down orally.
+*   **2879 - 258 BC:** The period of the 18 reigns of the Hung Kings. This was also the period when the legends of Lac Long Quan and Au Co, Phu Dong Thien Vuong (Saint Giong), and Son Tinh - Thuy Tinh are believed to have originated and been passed down orally. [Source: Britannica - Hung dynasty, https://www.britannica.com/topic/Hung-dynasty]
 
 ![Historical Image](images/event_20260923_232119.webp)
 
 *Source: Hung Kings Mausoleum on Nghia Linh Mountain (Phu Tho) / Wikimedia Commons*
 
-[Source: Britannica - Hung dynasty, https://www.britannica.com/topic/Hung-dynasty]
 
 <!-- id: EVT-0019 -->
 *   **2793 BC:** Sung Lam succeeded Kinh Duong Vuong as Lac Long Quan, taking over the rule of Xich Quy. Lac Long Quan was credited with slaying sea and forest monsters (Ngư Tinh, Cửu Vĩ Hồ, Mộc Tinh) and teaching the people wet rice cultivation, weaving, and house building. [Source: Britannica - Lac Long Quan, https://www.britannica.com/biography/Lac-Long-Quan]
 
 <!-- id: EVT-0020 -->
-*   **Approximately 2524 BC:** Lac Long Quan married Au Co (daughter of De Lai). Au Co gave birth to a sac of one hundred eggs which hatched into 100 sons, forming the legendary origin of "Dragon and Fairy descendants" and the concept of "Dong bao" (compatriots). They later split their children, 50 following their mother to the mountains and 50 following their father to the sea. The eldest son followed his mother to Phong Chau and ascended the throne as Hung Vuong, founding the nation of Van Lang.
+*   **Approximately 2524 BC:** Lac Long Quan married Au Co (daughter of De Lai). Au Co gave birth to a sac of one hundred eggs which hatched into 100 sons, forming the legendary origin of "Dragon and Fairy descendants" and the concept of "Dong bao" (compatriots). They later split their children, 50 following their mother to the mountains and 50 following their father to the sea. The eldest son followed his mother to Phong Chau and ascended the throne as Hung Vuong, founding the nation of Van Lang. [Source: VNA - President commemorates legendary ancestors, https://vietnam.vnanet.vn/english/tin-van/president-commemorates-legendary-ancestors-291024.html]
 
 ![Historical Image](images/event_20260923_232118.webp)
 
@@ -81,7 +79,6 @@
 
 
 
-[Source: VNA - President commemorates legendary ancestors, https://vietnam.vnanet.vn/english/tin-van/president-commemorates-legendary-ancestors-291024.html]
 <!-- id: EVT-0021 -->
 *   **Approximately late 3rd millennium BC - early 2nd millennium BC:** Phung Nguyen Culture period, marking the beginning of the Metal Age. [Source: Vietnam National Museum of History - Pre-Dong Son cultures, https://baotanglichsu.vn/en/Articles/4191/pre-dong-son-cultures-phung-nguyen-dong-dau-go-mun-c-4-000-2-5000-bp]
 
@@ -110,114 +107,119 @@
 
 ### **Nation Building and Northern Domination Period (800 BC - 938)**
 
-*   **7th century BC (1st millennium BC):** According to *Viet su luoc*, the Van Lang nation was born. It was the first primitive state in Vietnam, formed on the basis of the Dong Son culture, bringing together 15 Lac Viet tribes in the plains and midlands. This state was later succeeded by the Au Lac kingdom.
+*   **7th century BC (1st millennium BC):** According to *Viet su luoc*, the Van Lang nation was born. It was the first primitive state in Vietnam, formed on the basis of the Dong Son culture, bringing together 15 Lac Viet tribes in the plains and midlands. This state was later succeeded by the Au Lac kingdom. [Source: Van Lang - Au Lac states, https://baotanglichsu.vn/en/Articles/4192/van-lang-au-lac-states]
 
 <!-- id: EVT-0030 -->
 *   **5th century BC:** Regarded by some historians as the "century of the South" due to the widespread influence of ancient Southeast Asian cultures (including the ancestors of the Vietnamese) in agriculture, metallurgy, and mythology.
 
 <!-- id: EVT-0031 -->
-*   **Approximately 500 BC:** Dong Nai Culture period (Southeast region), a metallurgical culture connecting the Bronze and Iron Ages.
+*   **Approximately 500 BC:** Dong Nai Culture period (Southeast region), a metallurgical culture connecting the Bronze and Iron Ages. [Source: The Dong Nai culture, c. 2,500-2,000 BP, https://baotanglichsu.vn/en/Articles/4195/the-dong-nai-culture-c-2-500-2-000-bp]
 
 <!-- id: EVT-0032 -->
-*   **Around 500 BC:** Dong Son bronze casting reached its artistic zenith with the creation of the Ngoc Lu and Hoang Ha bronze drums, reflecting spiritual life, agricultural production, and superior metallurgical technology of the ancient Vietnamese.
+*   **Around 500 BC:** Dong Son bronze casting reached its artistic zenith with the creation of the Ngoc Lu and Hoang Ha bronze drums, reflecting spiritual life, agricultural production, and superior metallurgical technology of the ancient Vietnamese. [Source: Collection of Dong Son bronze drums, c. 2,500-2,000 BP, https://baotanglichsu.vn/en/Articles/1556/35784/collection-of-dong-son-bronze-drums-c-2-500-2-000-bp.html]
 
 ![Historical Image](images/event_20260923_105043.webp)
 
 *Source: Vietnam National Museum of History*
 
+
 <!-- id: EVT-0033 -->
-*   **Around the 3rd - 2nd century BC:** Buddhism was introduced to Vietnam by sea from India. This was the earliest religion to arrive and has been localized, becoming a dominant ideology in national culture throughout many historical periods.
+*   **Around the 3rd - 2nd century BC:** Buddhism may have begun to be introduced to Vietnam by sea from India. This was the earliest religion to arrive and has been localized, becoming a dominant ideology in national culture throughout many historical periods. [Source: Buddhism in Vietnam, https://en.wikipedia.org/wiki/Buddhism_in_Vietnam]
 
 <!-- id: EVT-0034 -->
-*   **258 BC:** Thuc Phan (chieftain of the Tay Au / Au Viet tribes) launched a military offensive against Van Lang. With the late Van Lang court weakened and caught unprepared, the forces of the 18th Hung King (Hung Due Vuong) were defeated. Thuc Phan conquered the realm, officially concluding the era of the 18 Hung Kings' reign under the Hong Bang Clan.
+*   **258 BC:** Thuc Phan (chieftain of the Tay Au / Au Viet tribes) launched a military offensive against Van Lang. With the late Van Lang court weakened and caught unprepared, the forces of the 18th Hung King (Hung Due Vuong) were defeated. Thuc Phan conquered the realm, officially concluding the era of the 18 Hung Kings' reign under the Hong Bang Clan. [Source: A glimpse of Vietnam oldest citadel, https://vovworld.vn/media/a-glimpse-of-vietnams-oldest-citadel-1933383.vov5]
 
 <!-- id: EVT-0035 -->
-*   **257 BC:** Thuc Phan ascended the throne as An Duong Vuong, unified the Tay Au and Lac Viet peoples, changed the national title to Au Lac, and moved the capital from Phong Chau to Phong Khe (Co Loa).
+*   **257 BC:** Thuc Phan ascended the throne as An Duong Vuong, unified the Tay Au and Lac Viet peoples, changed the national title to Au Lac, and moved the capital from Phong Chau to Phong Khe (Co Loa). [Source: Van Lang - Au Lac states, https://baotanglichsu.vn/en/Articles/4192/van-lang-au-lac-states]
 
 ![Historical Image](images/event_20260923_125040.webp)
 
 *Source: Ngu Trieu Di Quy communal house in the Co Loa relic site (Dong Anh, Hanoi) / Wikimedia Commons (CC BY-SA 3.0)*
 
+
 <!-- id: EVT-0036 -->
-*   **257 BC:** Thuc Phan An Duong Vuong erected a sacred stone oath pillar on the peak of Nghia Linh Mountain (Phong Chau), swearing eternal preservation of the realm handed down by the Hung Kings.
+*   **257 BC:** Thuc Phan An Duong Vuong erected a sacred stone oath pillar on the peak of Nghia Linh Mountain (Phong Chau), swearing eternal preservation of the realm handed down by the Hung Kings. [Source: Unique architectural works at the Hung Kings Temple relic site, including the stone oath column of Thuc Phan, https://tapchixaydung.vn/nhung-cong-trinh-kien-truc-doc-dao-tai-khu-di-tich-lich-su-den-hung--20201224000015595.html]
 
 <!-- id: EVT-0037 -->
-*   **255 BC:** An Duong Vuong constructed the Loa Thanh (Co Loa Citadel).
+*   **257 BC:** An Duong Vuong constructed the Loa Thanh (Co Loa Citadel). [Source: Hanoi legendary Co Loa Citadel, https://vietnamnet.vn/en/hanoi-s-legendary-co-loa-citadel-2057023.html]
 
 ![Historical Image](images/event_20260923_232117.webp)
 
 *Source: Co Loa Citadel gate (Dong Anh, Hanoi) / Vinpearl*
 
+
 <!-- id: EVT-0038 -->
-*   **Around 250 BC:** General Cao Lo (Cao Thong) successfully invented the "Lianzhou Crossbow" (Magic Crossbow), capable of firing multiple bronze arrows simultaneously, becoming a strategic defensive weapon for Co Loa Citadel of Au Lac.
+*   **Around 250 BC:** General Cao Lo successfully invented the "Lianzhou Crossbow" (Magic Crossbow), capable of firing multiple bronze arrows simultaneously, becoming a strategic defensive weapon for Co Loa Citadel of Au Lac. [Source: Decoding magic crossbow of Co Loa: A new perspective from archaeology and military science, https://en.nhandan.vn/decoding-magic-crossbow-of-co-loa-a-new-perspective-from-archaeology-and-military-science-post150340.html]
 
 ![Historical Image](images/event_20260923_232114.webp)
 
 *Source: Cao Lo statue holding the magic crossbow at Co Loa / Wikimedia Commons*
 
+
 <!-- id: EVT-0039 -->
-*   **218 BC:** Qin Shi Huang ordered Tu Shu as General-in-Chief and Ren Ao as Vice General to lead an army of 500,000 divided into 5 routes to invade Bach Viet (Tay Au and Lac Viet), beginning the 10-year resistance war of the Vietnamese people.
+*   **218 BC:** Qin Shi Huang ordered Tu Shu as General-in-Chief and Ren Ao as Vice General to lead an army of 500,000 divided into 5 routes to invade Bach Viet (Tay Au and Lac Viet), beginning the 10-year resistance war of the Vietnamese people. [Source: Southern Territory of Qin and Han Dynasties – History of the Nanyue Kingdom, https://www.nywmuseum.org.cn/En/News/Exhibition]
 
 <!-- id: EVT-0040 -->
-*   **214 BC:** Qin general Tu Shu killed Yihuang (leader of Tay Au). The Tay Au and Lac Viet people retreated into deep forests, chose Thuc Phan as their unified leader, and waged resilient guerrilla warfare against Qin forces. In the same year, the Qin dynasty established the commanderies of Guilin, Nanhai, and Xiang.
+*   **214 BC:** Qin general Tu Shu killed Yihuang (leader of Tay Au). The Tay Au and Lac Viet people retreated into deep forests, chose Thuc Phan as their unified leader, and waged resilient guerrilla warfare against Qin forces. In the same year, the Qin dynasty established the commanderies of Guilin, Nanhai, and Xiang. [Source: Southern Territory of Qin and Han Dynasties – History of the Nanyue Kingdom, https://www.nywmuseum.org.cn/En/News/Exhibition]
 
 <!-- id: EVT-0041 -->
-*   **210 BC:** Qin Shi Huang died. Taking advantage of the chaos in the Qin dynasty, Zhao Tuo severed communication lines with the Central Plains, blockaded northern mountain passes (Erling, Huangshan, Yangshan), and eliminated Qin officials in Nanhai, laying the groundwork for establishing Nanyue.
+*   **210 BC:** Qin Shi Huang died. Taking advantage of the chaos in the Qin dynasty, Zhao Tuo severed communication lines with the Central Plains, blockaded northern mountain passes (Erling, Huangshan, Yangshan), and eliminated Qin officials in Nanhai, laying the groundwork for establishing Nanyue. [Source: Zhao Tuo Established the Nanyue Kingdom, https://www.nywmuseum.org.cn/En/News/Exhibition]
 
 <!-- id: EVT-0042 -->
-*   **208 BC:** The Tay Au and Lac Viet alliance under Thuc Phan launched a major counter-offensive, ambushing and killing General-in-Chief Tu Shu and crushing the 500,000 Qin army to defend national independence. Following the victory, Thuc Phan unified Tay Au and Lac Viet into Au Lac. Around the same time, Zhao Tuo began attacks against Au Lac.
+*   **208 BC:** The Tay Au and Lac Viet alliance under Thuc Phan launched a major counter-offensive, ambushing and killing General-in-Chief Tu Shu and crushing the 500,000 Qin army to defend national independence. Following the victory, Thuc Phan unified Tay Au and Lac Viet into Au Lac. Around the same time, Zhao Tuo began attacks against Au Lac. [Source: Thuc Phan – King An Duong Vuong, https://hoangthanhthanglong.vn/en/thuc-phan-king-an-duong-vuong/]
 
 <!-- id: EVT-0043 -->
-*   **207 BC:** Taking advantage of the fall of the Qin dynasty, Zhao Tuo severed transport links with the Central Plains, established the Nanyue kingdom with its capital at Panyu (Guangzhou), and proclaimed himself King Wu of Nanyue.
+*   **207 BC:** Taking advantage of the fall of the Qin dynasty, Zhao Tuo severed transport links with the Central Plains, established the Nanyue kingdom with its capital at Panyu (Guangzhou), and proclaimed himself King Wu of Nanyue. [Source: Palace of the Nanyue Kingdom, https://www.nywmuseum.org.cn/En/News/Exhibition]
 
 <!-- id: EVT-0044 -->
-*   **198 BC:** Zhao Tuo divided Nanyue into Jiaozhi and Jiuzhen commanderies, dispatching official superintendents (Dien lenh) to directly oversee administration and military affairs.
-
-<!-- id: EVT-0045 -->
-*   **196 BC:** Emperor Gaozu of Han sent Lu Jia as ambassador to Panyu to present an imperial edict and gold seal, officially investing Zhao Tuo as King of Nanyue and establishing formal diplomatic relations.
+*   **196 BC:** Emperor Gaozu of Han sent Lu Jia as ambassador to Panyu to present an imperial edict and gold seal, officially investing Zhao Tuo as King of Nanyue and establishing formal diplomatic relations. [Source: Zhao Tuo, ChinaKnowledge Encyclopaedia on Chinese History, http://www.chinaknowledge.de/History/Han/personszhaotuo.html]
 
 <!-- id: EVT-0046 -->
-*   **183 BC:** Empress Dowager Lü of the Han dynasty imposed a trade embargo prohibiting the export of iron weapons and livestock to Nanyue. Zhao Tuo retaliated by declaring independence, proclaiming himself Emperor Wu of Nanyue, and attacking Changsha Commandery.
+*   **183 BC:** Empress Dowager Lü of the Han dynasty imposed a trade embargo prohibiting the export of iron weapons and livestock to Nanyue. Zhao Tuo retaliated by declaring independence, proclaiming himself Emperor Wu of Nanyue, and attacking Changsha Commandery. [Source: Zhao Tuo Established the Nanyue Kingdom, https://www.nywmuseum.org.cn/En/News/Exhibition]
 
 <!-- id: EVT-0047 -->
-*   **179 BC:** Trieu Da conquered the Au Lac kingdom. This event is associated with the tragic legend of the love story of Trong Thuy and My Chau.
+*   **179 BC:** After annexing Au Lac, Zhao Tuo merged all Au Lac lands into Nanyue, dividing them into the Jiaozhi and Jiuzhen commanderies and dispatching official superintendents (Dien lenh) to directly oversee administration and military affairs. [Source: Trieu Da and 76 years living on Vietnamese land, https://hoangthanhthanglong.vn/trieu-da-va-76-nam-song-tren-dat-viet]
+
+<!-- id: EVT-0045 -->
+*   **179 BC:** Trieu Da conquered the Au Lac kingdom. This event is associated with the tragic legend of the love story of Trong Thuy and My Chau. [Source: Thuc Phan – King An Duong Vuong, https://hoangthanhthanglong.vn/en/thuc-phan-king-an-duong-vuong/]
 
 ![Historical Image](images/event_20260923_232113.webp)
 
 *Source: An Duong Vuong Temple at Co Loa (Dong Anh, Hanoi) / Vietdreamtravel*
 
+
 <!-- id: EVT-0048 -->
-*   **137 BC:** Zhao Tuo passed away at over 100 years old after nearly 70 years of reign. His grandson Zhao Mo succeeded him as King Wen of Nanyue (Trieu Van Vuong).
+*   **137 BC:** Zhao Tuo passed away at over 100 years old after nearly 70 years of reign. His grandson Zhao Mo succeeded him as King Wen of Nanyue (Trieu Van Vuong). [Source: Zhao Tuo, ChinaKnowledge Encyclopaedia on Chinese History, http://www.chinaknowledge.de/History/Han/personszhaotuo.html]
 
 <!-- id: EVT-0049 -->
-*   **135 BC:** The Minyue kingdom invaded Nanyue. King Wen of Nanyue requested Emperor Wu of Han to intervene; the Han dynasty sent troops to attack Minyue, causing Nanyue to become increasingly subject to Han diplomatic influence.
+*   **135 BC:** The Minyue kingdom invaded Nanyue. King Wen of Nanyue requested Emperor Wu of Han to intervene; the Han dynasty sent troops to attack Minyue, causing Nanyue to become increasingly subject to Han diplomatic influence. [Source: Han campaigns against Minyue, https://en.wikipedia.org/wiki/Han_campaigns_against_Minyue]
 
 <!-- id: EVT-0050 -->
-*   **125 BC:** King Trieu Van Vuong (Zhao Mo) passed away. His son Trieu Anh Te (Zhao Yingqi) ascended the throne of Nam Viet as King Trieu Minh Vuong (reigning 125 BC - 113 BC).
+*   **125 BC:** King Trieu Van Vuong (Zhao Mo) passed away. His son Trieu Anh Te (Zhao Yingqi) ascended the throne of Nam Viet as King Trieu Minh Vuong (reigning 125 BC - 113 BC). [Source: Prime Minister Lu Jia and the Nanyue Kingdom of the Trieu Dynasty, https://trithucvn2.net/van-hoa/thua-tuong-lu-gia-cung-nuoc-nam-viet-cua-nha-trieu.html/amp]
 
 <!-- id: EVT-0051 -->
-*   **113 BC:** King Trieu Minh Vuong passed away, and his young son Trieu Hung ascended the throne as King Trieu Ai Vuong (reigning 113 BC - 112 BC), with Queen Dowager Cu serving as regent. In the same year, Emperor Wu of Han sent An Guo Shaogui as an envoy to Nanyue to persuade Queen Dowager Cu and King Zhao Xing to submit Nanyue fully to the Han dynasty.
+*   **113 BC:** King Trieu Minh Vuong passed away, and his young son Trieu Hung ascended the throne as King Trieu Ai Vuong (reigning 113 BC - 112 BC), with Queen Dowager Cu serving as regent. In the same year, Emperor Wu of Han sent An Guo Shaogui as an envoy to Nanyue to persuade Queen Dowager Cu and King Zhao Xing to submit Nanyue fully to the Han dynasty. [Source: King Zhao Xing of Nanyue and the Han Envoy An Guo Shaoji, https://nguoikesu.com/dong-lich-su/bac-thuoc-lan-thu-nhat/nha-trieu/trieu-ai-vuong-trieu-hung]
 
 <!-- id: EVT-0052 -->
-*   **November 112 BC:** Prime Minister Lu Jia (Lua Gia) led an uprising with generals to protect sovereignty, executing Queen Dowager Cu, King Zhao Xing, and Han envoy An Guo Shaogui, enthroning Zhao Jiande as king (King Shuai of Nanyue) to resist annexation.
+*   **November 112 BC:** Prime Minister Lu Jia (Lua Gia) led an uprising with generals to protect sovereignty, executing Queen Dowager Cu, King Zhao Xing, and Han envoy An Guo Shaogui, enthroning Zhao Jiande as king (King Shuai of Nanyue) to resist annexation. [Source: Zhao Jiande — the Last King of the Trieu Dynasty of Nanyue, https://nguoikesu.com/nhan-vat/trieu-kien-duc]
 
 <!-- id: EVT-0053 -->
-*   **April 111 BC:** Han forces commanded by Lu Bode and Yang Pu numbering 100,000 troops captured Panyu. Lu Jia and Zhao Jiande were captured and executed. The Nanyue kingdom collapsed; the Han dynasty divided its territory into 9 commanderies (including Jiaozhi, Jiuzhen, and Yinan), starting the First Northern Domination period.
+*   **Winter 111 BC:** Han forces commanded by Lu Bode and Yang Pu numbering 100,000 troops captured Panyu. Lu Jia and Zhao Jiande were captured and executed. The Nanyue kingdom collapsed; the Han dynasty divided its territory into 9 commanderies (including Jiaozhi, Jiuzhen, and Yinan), starting the First Northern Domination period. [Source: Zhao Jiande — the Han Conquest of Nanyue and the Fall of Panyu, https://nguoikesu.com/nhan-vat/trieu-kien-duc]
 
 <!-- id: EVT-0054 -->
-*   **106 BC:** Emperor Wu of Han organized the southern commanderies into Jiaozhi Circuit (comprising 9 commanderies), appointing a Circuit Inspector (Thu su) based at Luy Lau to oversee administrative affairs.
+*   **106 BC:** Emperor Wu of Han organized the southern commanderies into Jiaozhi Circuit (comprising 9 commanderies), appointing a Circuit Inspector (Thu su) based at Luy Lau to oversee administrative affairs. [Source: The Era of Resistance Against Northern Feudal Rule — the Jiaozhi Circuit and Its Inspectors, https://nhandan.vn/thoi-ky-chong-cac-tap-doan-phong-kien-bac-thuoc-post522065.html]
 
 <!-- id: EVT-0055 -->
-*   **2 BC:** The census under Emperor Ping of Han recorded over 143,000 households and nearly 1,000,000 inhabitants across Jiaozhi, Jiuzhen, and Rinan commanderies, demonstrating strong demographic and economic activity.
+*   **2 BC:** The census under Emperor Ping of Han recorded over 143,000 households and nearly 1,000,000 inhabitants across Jiaozhi, Jiuzhen, and Rinan commanderies, demonstrating strong demographic and economic activity. [Source: The Era of Resistance Against Northern Feudal Rule — Han Census Household Figures, https://nhandan.vn/thoi-ky-chong-cac-tap-doan-phong-kien-bac-thuoc-post522065.html]
 
 <!-- id: EVT-0056 -->
-*   **1st - 7th century:** The Kingdom of Funan (Phu Nam) flourished in the Mekong Delta. Associated with the Oc Eo Culture, it was a major commercial center connecting maritime trade routes between the East and West.
+*   **1st - 7th century:** The Kingdom of Funan (Phu Nam) flourished in the Mekong Delta. Associated with the Oc Eo Culture, it was a major commercial center connecting maritime trade routes between the East and West. [Source: Kingdom of Funan — Early Mekong Delta Civilization, First to Seventh Century, https://www.ebsco.com/research-starters/anthropology/kingdom-funan]
 
 <!-- id: EVT-0057 -->
-*   **9 AD:** Wang Mang overthrew the Western Han to establish the Xin Dynasty. Inspector Dang Tuong maintained peace in Jiaozhi Circuit, making it a safe refuge for many northern scholars fleeing civil war.
+*   **9 AD:** Wang Mang overthrew the Western Han to establish the Xin Dynasty. Inspector Dang Tuong maintained peace in Jiaozhi Circuit, making it a safe refuge for many northern scholars fleeing civil war. [Source: The Tragic End of the Chinese Emperor Who Dreamed of a Perfect World — Wang Mang and the Xin Dynasty, https://danviet.vn/ket-cuc-bi-tham-cua-vi-hoang-de-trung-hoa-om-mong-xay-dung-1-the-gioi-hoan-my-7777974106-d712852.html]
 
 <!-- id: EVT-0058 -->
-*   **25 AD:** Xi Guang became Governor of Jiaozhi and Ren Yan became Governor of Jiuzhen. They established schools, taught Chinese literacy, and introduced iron plow agriculture and irrigation techniques to the local population.
+*   **25 AD:** Xi Guang became Governor of Jiaozhi and Ren Yan became Governor of Jiuzhen. They established schools, taught Chinese literacy, and introduced iron plow agriculture and irrigation techniques to the local population. [Source: Fan Ye, Book of the Later Han, Scroll 86 — Biographies of the Southern Barbarians (Vietnamese translation), https://vi.wikisource.org/wiki/Bi%C3%AAn_d%E1%BB%8Bch:H%E1%BA%ADu_H%C3%A1n_th%C6%B0/Quy%E1%BB%83n_86]
 
 <!-- id: EVT-0059 -->
 *   **29 AD:** Xi Guang and Ren Yan sent envoys to Luoyang to submit to Emperor Guangwu of Eastern Han, officially bringing Jiaozhi under Eastern Han administration.

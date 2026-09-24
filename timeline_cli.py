@@ -101,19 +101,11 @@ def cmd_list_missing(args):
         print('%s | %s | %s' % (eid, date, first))
 
 
-def block_is_complex(block):
-    for l in block['lines'][1:]:
-        s = l.strip() if isinstance(l, str) else ''
-        if IMG_RE.search(s):
-            return True
-        if isinstance(l, str) and l.startswith((' ', '\t')) and s.startswith('*'):
-            return True
-    return False
-
-
 def set_citation_in_block(block, cite, is_vi):
-    """Replace existing citation (inline or standalone) or insert a new one.
-    Returns True if the block was modified."""
+    """Replace existing citation (inline or legacy standalone) or insert new.
+    Placement is ALWAYS inline at the end of the description line, even for
+    events with sub-items or images (image/caption lines stay untouched
+    below the description). Returns True if the block was modified."""
     lines = block['lines']
     # 1. Drop standalone citation line(s).
     kept = [l for l in lines
@@ -125,18 +117,8 @@ def set_citation_in_block(block, cite, is_vi):
     if m:
         kept[0] = first[:m.start()].rstrip() + '\n'
         dropped = True
-    # 3. Insert the new citation.
-    new_block = {'type': 'event', 'time_str': block.get('time_str', ''), 'lines': kept}
-    if block_is_complex(new_block):
-        id_idx = next((i for i, l in enumerate(kept)
-                       if isinstance(l, str) and ID_RE.search(l)), None)
-        if id_idx is None:
-            kept.extend(['\n', cite + '\n'])
-        else:
-            kept.insert(id_idx, cite + '\n')
-            kept.insert(id_idx, '\n')
-    else:
-        kept[0] = kept[0].rstrip('\n').rstrip() + ' ' + cite.strip() + '\n'
+    # 3. Insert the new citation inline at the end of the description line.
+    kept[0] = kept[0].rstrip('\n').rstrip() + ' ' + cite.strip() + '\n'
     block['lines'] = kept
     return True
 
@@ -224,7 +206,7 @@ def main(argv=None):
     lm.add_argument('--limit', type=int, default=30)
     lm.add_argument('--all', action='store_true')
 
-    ss = sub.add_parser('set-source', help='Set/replace citation (inline or standalone)')
+    ss = sub.add_parser('set-source', help='Set/replace citation (always inline at end of description line)')
     ss.add_argument('eid')
     ss.add_argument('--vi-cite', default=None)
     ss.add_argument('--en-cite', default=None)
