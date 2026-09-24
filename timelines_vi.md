@@ -374,6 +374,10 @@
 *   **01/1103:** Vua Lý Nhân Tông xuống chiếu sửa sang và đắp đê trong và ngoài kinh thành để phòng chống lũ lụt.
 *   **1104:** Lý Thường Kiệt đánh bại quân Champa, buộc vua Chế Ma Na phải trả lại 3 châu đã chiếm trước đó.
 *   **06/1105:** Thái úy Lý Thường Kiệt qua đời, thọ 86 tuổi. Ông là trụ cột của nhà Lý qua ba triều vua.
+
+![Hình ảnh tư liệu](images/event_20260924_111626.webp)
+
+*Nguồn: Tượng Lý Thường Kiệt / Vinhtantran (Wikimedia Commons, Public domain)*
 *   **1108:** Triều đình cho đắp đê Cơ Xá ở Thăng Long để phòng chống lũ lụt sông Hồng.
 *   **1111:** Danh xưng **Thanh Hóa** lần đầu tiên xuất hiện trong sử sách khi phủ Thanh Hóa dâng cây cau 9 gốc.
 *   **01/06/1113:** Ni sư Diệu Nhân, nữ thiền sư nổi tiếng thời Lý, viên tịch.
@@ -421,6 +425,10 @@
 
 *   **1226:** Hoàng tử Lý Long Tường (con thứ vua Lý Anh Tông) cùng tùy tùng vượt biển sang Cao Ly (Hàn Quốc) lánh nạn, trở thành ông tổ của dòng họ Lý Hoa Sơn tại Hàn Quốc.
 *   **1226 - 1229:** Trần Quốc Tuấn (Trần Hưng Đạo) sinh ra tại làng Tức Mặc, huyện Mỹ Lộc, tỉnh Nam Định. Ông sau này trở thành một nhà quân sự kiệt xuất và Quốc công Tiết chế của quân đội Đại Việt.
+
+![Hình ảnh tư liệu](images/event_20260924_111620.webp)
+
+*Nguồn: Tượng Trần Hưng Đạo tại Nam Định / Nguyễn Thanh Quang (Wikimedia Commons, Public domain)*
 *   **10/01/1226:** Dưới sự sắp đặt của Trần Thủ Độ, Lý Chiêu Hoàng nhường ngôi cho chồng là Trần Cảnh (Trần Thái Tông). Tháng Giêng năm 1226, Lý Chiêu Hoàng được sách phong làm Hoàng hậu Chiêu Thánh. Vương triều Lý kết thúc.
 *   **08/1226:** Trần Thủ Độ ép Lý Huệ Tông (lúc này đã đi tu) tự tử tại chùa Chân Giáo.
 *   **1228:** Nhà Trần cử quan lại vào duyệt sổ hộ tịch ở tỉnh Thanh Hóa.
@@ -475,6 +483,10 @@
 *   **10/1283:** Để chuẩn bị cho cuộc kháng chiến lần hai, Trần Quốc Tuấn được Thượng hoàng Trần Thánh Tông và vua Trần Nhân Tông phong làm Quốc công tiết chế thống lĩnh chư quân.
 *   **1284:** Vua Trần Nhân Tông sai khơi vét lại sông Tô Lịch.
 *   **08/1284:** Hưng Đạo vương tổ chức duyệt binh ở bến Đông Bộ Đầu và công bố tác phẩm "Hịch tướng sĩ" để khích lệ tinh thần quân sĩ.
+
+![Hình ảnh tư liệu](images/event_20260924_111622.webp)
+
+*Nguồn: Cổng đền Kiếp Bạc, Hải Dương — nơi thờ Hưng Đạo Đại vương / Handy Huy (Wikimedia Commons, CC BY 3.0)*
 *   **12/1284:** Vua Trần triệu tập Hội nghị Diên Hồng, hỏi ý kiến các bô lão trong cả nước về việc hòa hay đánh.
 
 ![Hình ảnh tư liệu](images/event_20260923_122637.webp)
@@ -511,6 +523,10 @@
 *   **1299:** Vua Trần Nhân Tông xuống chiếu yêu cầu học trò trong cả nước phải tập trung học tập để chuẩn bị cho các khoa thi.
 *   **1299:** Thượng hoàng Trần Nhân Tông xuất gia tu hành tại núi Yên Tử (Quảng Ninh), lấy đạo hiệu Hương Vân Đại Đầu Đà (Trúc Lâm Đại Sĩ), chính thức sáng lập dòng Thiền phái Trúc Lâm Yên Tử mang đậm bản sắc văn hóa Phật giáo Đại Việt.
 *   **03/10/1300 (15 tháng 8 năm Kỷ Hợi):** Hưng Đạo Đại vương Trần Quốc Tuấn qua đời tại nhà riêng ở Vạn Kiếp. Trước khi mất, khi vua Trần Anh Tông đích thân đến thăm và hỏi về kế sách giữ nước, ông đã dặn: "Phải khoan thư sức dân để làm kế sâu rễ bền gốc", coi đó là thượng sách giữ nước không còn gì hơn.
+
+![Hình ảnh tư liệu](images/event_20260924_111624.webp)
+
+*Nguồn: Bàn thờ Trần Hưng Đạo trong đền Kiếp Bạc / Chitto (Wikimedia Commons, CC BY-SA 3.0)*
 *   **1301 (Tân Sửu):** Thái thượng hoàng Trần Nhân Tông (Trúc Lâm Đại Sĩ) sau khi xuất gia tu hành đã thực hiện chuyến vân du sang kinh đô Đồ Bàn của vương quốc Champa suốt 9 tháng. Tại đây, ngài đàm đạo giáo lý Phật pháp cùng vua Chế Mân, thắt chặt mối quan hệ bang giao hòa hiếu và hứa gả Công chúa Huyền Trân, tạo tiền đề lịch sử cho việc tiếp nhận hai châu Ô và Lý vào lãnh thổ Đại Việt năm 1306.
 *   **Khoảng thế kỷ XIV:** Truyền thuyết Lạc Long Quân và Âu Cơ, Phù Đổng Thiên Vương (Thánh Gióng), và Sơn Tinh - Thủy Tinh được ghi chép lần đầu tiên trong bộ sách sử **Lĩnh Nam chích quái**.
 *   **Cuối thế kỷ XIV - Nửa đầu thế kỷ XIX:** Xã hội Việt Nam chứng kiến những phong trào đấu tranh rộng lớn. Điểm đặc thù là không có những cuộc khởi nghĩa thuần túy của nông dân chống lại địa chủ, mà phổ biến là sự tập hợp lực lượng của nông dân cùng các tầng lớp bất bình (nho sĩ, địa chủ, quan lại) chống lại bọn cường hào, quan lại gian ác và tập đoàn thống trị thoái hóa.
@@ -583,6 +599,7 @@
 *   **12/1376 (Bính Thìn):** Vua Trần Duệ Tông thân chinh đem 12 vạn quân đi đánh Chiêm Thành. Lê Quý Ly phụ trách vận lương.
 *   **01/1377 (Đinh Tỵ):** Quân Trần đánh cửa Thị Nại. Vua Trần Duệ Tông trúng kế của Chế Bồng Nga, tử trận tại kinh thành Đồ Bàn. Lê Quý Ly bỏ trốn về nước. Thượng hoàng Trần Nghệ Tông lập Trần Phế Đế (Đế Hiện) lên ngôi.
 *   **04/03/1377:** Trần Duệ Tông mất trong một trận chiến với quân Chiêm Thành. Ông đã đích thân chỉ huy một chiến dịch quân sự lớn chống lại Chiêm Thành nhưng chiến dịch đã thất bại và ông đã bị giết ở trận Vijaya.
+*   **04/1377:** Lê Quý Ly chạy về Đại Việt. Thượng hoàng Trần Nghệ Tông lập Trần Phế Đế (Đế Hiển) lên ngôi.
 *   **06/1377 (Đinh Tỵ):** Quân Chiêm Thành thừa thắng tiến công vào cửa Thần Phù, đánh thẳng vào Thăng Long (lần thứ hai).
 *   **1378:** Nhà Trần bắt đầu thu thuế thân (3 quan/người) do quốc khố cạn kiệt.
 *   **03/1378:** Thái tử Trần Hiệu (sau là Trần Phế Đế) lên ngôi.
@@ -600,6 +617,10 @@
 *   **09/1384 (Giáp Tý):** Nhà Minh sai sứ sang đòi Đại Việt nộp 5.000 thạch lương thực cung cấp cho quân lính ở Vân Nam.
 *   **03/1385 (Ất Sửu):** Nhà Minh đòi Đại Việt nộp 20 nhà sư.
 *   **10/09/1385 (06/08 năm Ất Sửu):** Lê Lợi chào đời tại Lam Sơn (Thanh Hóa). Tương truyền khi sinh có ánh sáng đỏ đầy nhà, mùi hương đầy xóm.
+
+![Hình ảnh tư liệu](images/event_20260924_111629.webp)
+
+*Nguồn: Tượng Lê Lợi tại Thanh Hóa / Nguyễn Thanh Quang (Wikimedia Commons, CC BY-SA 3.0)*
 *   **03/1386 (Bính Dần):** Nhà Minh sai sứ đòi nộp cây ăn quả giống ngon và mượn đường đánh Chiêm Thành, đòi 50 thớt voi.
 *   **03/1387 (Đinh Mão):** Lê Quý Ly được phong chức Đồng bình chương sự (Tướng quốc).
 *   **06/12/1388:** Trần Phế Đế bị phế truất, sau đó bị giam tại chùa Tư Phúc và bị giết theo lệnh của Thượng hoàng Trần Nghệ Tông và Lê Quý Ly.
@@ -627,6 +648,10 @@
 *   **11/1396 (Bính Tý):** Lê Quý Ly biên soạn sách *Quốc ngữ Thi nghĩa* (dịch và giải thích Kinh Thi bằng chữ Nôm).
 *   **01/1397:** Lê Quý Ly ban hành chính sách hạn điền, quy định hạn chế số lượng ruộng đất tư hữu của các vương hầu, quý tộc (không quá 10 mẫu).
 *   **01/1397 (Đinh Sửu):** Lê Quý Ly sai Đỗ Tỉnh đi xem đất ở động An Tôn (Thanh Hóa) để xây dựng kinh thành Tây Đô.
+
+![Hình ảnh tư liệu](images/event_20260924_111634.webp)
+
+*Nguồn: Cổng Nam Thành Nhà Hồ, Thanh Hóa / Silviculture (Wikimedia Commons, Public domain)*
 *   **03/1397:** Lê Quý Ly cho xây dựng kinh thành Tây Đô (Thành nhà Hồ, Vĩnh Lộc, Thanh Hóa) và chuẩn bị dời đô.
 *   **04/1397:** Dưới sự điều khiển của Lê Quý Ly, triều đình tiến hành cải cách hành chính lớn, đổi các lộ thành trấn và chia lại các cấp phủ, châu, huyện.
 *   **05/1397 (Đinh Sửu):** Vua Trần xuống chiếu cải cách giáo dục, đặt quan Giáo thụ ở các phủ, châu thuộc Sơn Nam, Kinh Bắc, Hải Đông và cấp ruộng học điền để chi dùng cho việc học.
@@ -1352,6 +1377,10 @@
 ### **Thời kỳ Pháp xâm lược và Phong trào Kháng chiến (1858 - 1896)**
 
 *   **31/08/1858:** Liên quân Pháp - Tây Ban Nha dàn trận tại cửa biển Đà Nẵng.
+
+![Hình ảnh tư liệu](images/event_20260924_120721.webp)
+
+*Nguồn: Phó Đô đốc Charles Rigault de Genouilly, chỉ huy liên quân Pháp - Tây Ban Nha / Pierre Louis Pierson (Wikimedia Commons, Public domain)*
 *   **01/09/1858:** Liên quân Pháp - Tây Ban Nha nổ súng tấn công bán đảo Sơn Trà (Đà Nẵng), đánh vỡ đồn Đông, chính thức bắt đầu cuộc xâm lược Việt Nam.
 
 ![Hình ảnh tư liệu](images/event_20260923_213656.webp)
@@ -1497,6 +1526,10 @@
 *   **08/1884:** Vua Kiến Phúc qua đời (nghi bị đầu độc). Hàm Nghi được đưa lên ngôi vua.
 *   **10/1884 - 03/03/1885:** Trận Tuyên Quang. Khoảng 12.000 quân Cờ Đen và quân Thanh đã bao vây chặt hơn 600 lính đồn trú Pháp tại thành Tuyên Quang. Các cuộc giao tranh, đào hầm ngầm, và pháo kích diễn ra ác liệt trong nhiều tháng cho đến khi binh đoàn của tướng Giovanninelli đánh phá vòng vây đến giải cứu.
 *   **1885 - 1896:** Diễn ra cuộc khởi nghĩa Hương Khê do Phan Đình Phùng và Cao Thắng lãnh đạo, là đỉnh cao của phong trào Cần Vương.
+
+![Hình ảnh tư liệu](images/event_20260924_111641.webp)
+
+*Nguồn: Chân dung Phan Đình Phùng / Bách khoa toàn thư Việt Nam (Wikimedia Commons, Public domain)*
 *   **13/02 - 28/03/1885:** Chiến dịch Lạng Sơn. Quân Pháp do Thiếu tướng De Négrier chỉ huy đánh chiếm thành Lạng Sơn (13/02). Tuy nhiên, đến cuối tháng 3, quân Thanh do Phùng Tử Tài chỉ huy phản công mạnh mẽ, chiếm lại Nam Quan và đánh thiệt hại nặng quân Pháp tại Kỳ Lừa. Tướng De Négrier bị thương nặng. Người thay thế là Trung tá Herbinger đã hoảng loạn ra lệnh rút chạy hỗn loạn khỏi Lạng Sơn, vứt bỏ vô số vũ khí đạn dược. Tin tức về 'thảm kịch Lạng Sơn' đã khiến chính phủ của Thủ tướng Pháp Jules Ferry sụp đổ.
 *   **04 - 05/07/1885:** Trận Kinh thành Huế. Phái chủ chiến do Thượng thư Bộ Binh Tôn Thất Thuyết và Đề đốc Trần Xuân Soạn chỉ huy đã tổ chức cuộc tấn công bất ngờ trong đêm bằng đại bác và lực lượng lớn quân triều đình vào đồn Mang Cá và Tòa Khâm sứ Pháp. Đến rạng sáng, quân Pháp với hỏa lực vượt trội đã phản công, chiếm giữ Kinh thành. Một cuộc thảm sát tàn khốc đã diễn ra khiến hơn 1.500 binh lính và dân thường thiệt mạng. Quân Pháp đã cướp bóc vô số vàng bạc, châu báu và ấn tín hoàng gia. Tôn Thất Thuyết phải đưa vua Hàm Nghi rút chạy ra Tân Sở, mở đầu cho phong trào Cần Vương.
 
@@ -1742,6 +1775,10 @@
 *   **03/03/1925:** Thượng thư Bộ Binh Thân Trọng Huề gửi văn thư cho Khâm sứ Pháp, khẳng định "Các đảo Hoàng Sa bao giờ cũng thuộc về nước An Nam", xác nhận chủ quyền trước các tranh chấp gia tăng.
 *   **08/03/1925:** Toàn quyền Đông Dương Martial Merlin ra tuyên bố chính thức khẳng định hai quần đảo Hoàng Sa và Trường Sa là lãnh thổ thuộc chủ quyền của Pháp (với tư cách là đại diện bảo hộ cho Nhà nước An Nam).
 *   **06/1925:** Nguyễn Ái Quốc cùng Hồ Tùng Mậu và các chiến sĩ cách mạng thành lập Hội Việt Nam Cách mạng Thanh niên (Việt Nam Thanh niên Cách mạng Đồng chí Hội) tại Quảng Châu (Trung Quốc), tổ chức các khóa đào tạo lý luận Mác-Lênin chuẩn bị về tư tưởng và tổ chức cho sự ra đời của Đảng Cộng sản Việt Nam.
+
+![Hình ảnh tư liệu](images/event_20260924_111707.webp)
+
+*Nguồn: Nguyễn Ái Quốc tại Liên Xô, 1923 — hai năm trước khi thành lập Hội / Wikimedia Commons (Public domain)*
 *   **Mùa hè 1925:** Được sự giới thiệu của đồng chí Nguyễn Ái Quốc, Lê Hồng Phong (Lê Huy Doãn) cùng Lê Hồng Sơn và Lê Quang Đạt trúng tuyển vào khóa II Trường Quân sự Hoàng Phố (Quảng Châu, Trung Quốc), mở đầu quá trình đào tạo cán bộ quân sự chính quy đầu tiên cho cách mạng Việt Nam.
 *   **21/06/1925:** Tuần báo *Thanh niên*, cơ quan ngôn luận của Hội Việt Nam Cách mạng Thanh niên, ra số đầu tiên.
 *   **30/06/1925:** Phan Bội Châu bị thực dân Pháp bắt cóc tại Thượng Hải.
@@ -1793,6 +1830,10 @@
 *   **1930 - 1932:** Các tàu chiến *Inconstant*, *Alerte*, *La Malicieuse* và *De Lanessan* của hải quân Pháp liên tiếp thực hiện các cuộc tuần tiễu và khẳng định chủ quyền tại quần đảo Hoàng Sa.
 *   **01/01/1930:** Đông Dương Cộng sản Liên đoàn chính thức thành lập tại Hà Tĩnh.
 *   **02/1930:** Cuộc khởi nghĩa Yên Bái do Việt Nam Quốc dân Đảng lãnh đạo nổ ra và thất bại.
+
+![Hình ảnh tư liệu](images/event_20260924_120758.webp)
+
+*Nguồn: Tiểu đoàn Thổ ở Lạng Sơn, khoảng 1930 — lực lượng khố xanh thuộc địa / Phủ Toàn quyền Đông Dương (Wikimedia Commons, Public domain)*
 *   **02/02/1930:** Trần Tử Bình lãnh đạo cuộc khởi nghĩa của hơn 5.000 công nhân cao su Phú Riềng ("Phú Riềng Đỏ"), một trong những phong trào bãi công lớn đầu tiên của giai cấp công nhân do chi bộ cộng sản lãnh đạo.
 *   **03-07/02/1930:** Hội nghị hợp nhất các tổ chức cộng sản Việt Nam diễn ra tại Cửu Long (Hương Cảng, Trung Quốc) dưới sự chủ trì của đồng chí Nguyễn Ái Quốc (đại diện Quốc tế Cộng sản), quyết định thành lập **Đảng Cộng sản Việt Nam** và thông qua các văn kiện nền tảng: Chánh cương vắn tắt, Sách lược vắn tắt, Chương trình tóm tắt và Điều lệ vắn tắt của Đảng do Người trực tiếp soạn thảo.
 
@@ -1815,6 +1856,10 @@
 *   **19/06/1930:** Bộ Ngoại giao Pháp chính thức xác định quần đảo Hoàng Sa không phải là đất vô chủ (*terra nullius*) và khẳng định chủ quyền của Pháp (nhân danh Việt Nam) đối với quần đảo này.
 *   **09/1930:** Phong trào Xô viết Nghệ - Tĩnh lên đến đỉnh cao, chính quyền cách mạng được thành lập ở nhiều làng xã tại Nghệ An và Hà Tĩnh.
 *   **12/09/1930:** Thực dân Pháp điều máy bay ném bom và xả súng liên tiếp vào đoàn 8.000 nông dân huyện Hưng Nguyên (Nghệ An) đang hòa bình tuần hành biểu tình tiến về thành phố Vinh trong phong trào Xô Viết Nghệ Tĩnh, tàn sát 217 người chết và làm 125 người bị thương, gây chấn động dư luận trong nước và quốc tế.
+
+![Hình ảnh tư liệu](images/event_20260924_111645.webp)
+
+*Nguồn: Bảo tàng Xô viết Nghệ Tĩnh tại Vinh / Phó Nháy (Wikimedia Commons, Public domain)*
 *   **23/09/1930:** Chính phủ Pháp ra thông cáo báo cho các cường quốc khác biết việc Pháp chiếm đóng quần đảo Trường Sa.
 *   **14-31/10/1930:** Hội nghị lần thứ nhất Ban Chấp hành Trung ương Đảng họp tại Hương Cảng (Trung Quốc), thông qua Luận cương chính trị và đổi tên Đảng thành Đảng Cộng sản Đông Dương. Đồng chí Trần Phú được bầu làm Tổng Bí thư.
 *   **14/10/1930:** Hàng nghìn nông dân huyện Tiền Hải (Thái Bình) giương cờ búa liềm biểu tình bao vây huyện đường đòi giảm sưu thuế, chia lại ruộng công và phản đối chính quyền thực dân đàn áp phong trào Xô Viết Nghệ Tĩnh.
@@ -1998,6 +2043,10 @@
 *   **14/08/1945:** Mặt trận Quốc gia Thống nhất được thành lập tại Nam Bộ, gồm các đảng phái quốc gia và tôn giáo như Cao Đài, Hòa Hảo.
 *   **16/08/1945:** Dưới gốc cây đa Tân Trào (Tuyên Quang), Đội Việt Nam Giải phóng quân làm lễ xuất quân tiến về giải phóng thị xã Thái Nguyên và thủ đô Hà Nội. Đồng chí Võ Nguyên Giáp đọc Quân lệnh số 1 của Ủy ban Khởi nghĩa toàn quốc, chính thức phát lệnh tiến công, mở đầu cao trào Tổng khởi nghĩa giành chính quyền trên toàn quốc trong Cách mạng tháng Tám.
 *   **16-17/08/1945:** Quốc dân Đại hội họp tại đình Tân Trào (Tuyên Quang), tán thành chủ trương Tổng khởi nghĩa của Đảng, thông qua 10 chính sách lớn của Việt Minh, bầu ra Ủy ban Dân tộc Giải phóng Việt Nam (tức Chính phủ lâm thời) do Hồ Chí Minh làm Chủ tịch, đồng thời chính thức quy định Quốc kỳ là cờ đỏ sao vàng năm cánh và Quốc ca là bài *Tiến quân ca*.
+
+![Hình ảnh tư liệu](images/event_20260924_111648.webp)
+
+*Nguồn: Đình Tân Trào, Tuyên Quang / Bùi Thụy Đào Nguyên (Wikimedia Commons, CC BY-SA 4.0)*
 *   **17/08/1945:** Cuộc mít tinh của Tổng hội Công chức tại Quảng trường Nhà hát Lớn Hà Nội bị lực lượng Việt Minh và quần chúng biến thành cuộc biểu tình tuần hành rầm rộ ủng hộ cách mạng. Tại đây, bài hát **"Tiến quân ca"** của nhạc sĩ Văn Cao lần đầu tiên vang lên hùng tráng trước hàng vạn quần chúng nhân dân cùng lá cờ đỏ sao vàng khổng lồ buông xuống, tạo tiền đề trực tiếp cho cuộc Tổng khởi nghĩa 19/8 tại Hà Nội.
 *   **19/08/1945:** Tổng khởi nghĩa thắng lợi ở Hà Nội (Cách mạng tháng Tám).
 
@@ -2144,6 +2193,10 @@
 *   **17/12/1946:** Quân Pháp gây ra vụ tàn sát ở phố Hàng Bún, phố Lò Đúc và khu Yên Ninh (Hà Nội).
 *   **18/12/1946:** Quân Pháp chiếm trụ sở Bộ Tài chính và Bộ Giao thông Công chính. Tướng Morlière gửi tối hậu thư đòi tước vũ khí của lực lượng tự vệ, tuyên bố nếu không đáp ứng thì chậm nhất sáng 20/12/1946 quân Pháp sẽ hành động.
 *   **18 - 19/12/1946:** Quân Pháp liên tiếp gửi tối hậu thư đòi tước vũ khí của lực lượng tự vệ Việt Nam tại Hà Nội. Ban Thường vụ Trung ương Đảng họp hội nghị mở rộng tại làng Vạn Phúc (Hà Đông) dưới sự chủ trì của Chủ tịch Hồ Chí Minh, quyết định phát động toàn quốc kháng chiến.
+
+![Hình ảnh tư liệu](images/event_20260924_111651.webp)
+
+*Nguồn: Chiến sĩ ôm bom ba càng chặn xe tăng Pháp tại phố Hàng Đậu, Hà Nội 12/1946 / Nguyễn Bá Khoản & Đặng Tích (Wikimedia Commons, CC BY-SA 4.0)*
 *   **20:03, 19/12/1946:** Điện trong toàn thành phố phụt tắt, pháo đài Láng nổ phát súng lệnh tổng công kích, chính thức báo hiệu toàn quốc kháng chiến. Tới 20:30, chính phủ Việt Nam đã phát đi **Lời kêu gọi Toàn quốc kháng chiến** của Chủ tịch Hồ Chí Minh với câu nói bất hủ: *"Chúng ta thà hy sinh tất cả, chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ."* Cùng đêm đó, Bộ trưởng Bộ Quốc phòng kiêm Tổng Chỉ huy Võ Nguyên Giáp ra Mệnh lệnh chiến đấu gửi toàn thể Vệ quốc đoàn và Dân quân tự vệ: *"Tổ quốc lâm nguy! Giờ chiến đấu đã đến!... Nhất tề xông tới tiêu diệt quân xâm lược!"*.
 
 ![Hình ảnh tư liệu](images/event_20260923_213622.webp)
@@ -2260,6 +2313,10 @@
 *   **01/05/1950:** Tổng thống Mỹ Truman quyết định viện trợ quân sự trực tiếp 10 triệu USD cho Pháp ở Đông Dương.
 *   **15/05/1950:** Nữ chiến sĩ trinh sát Công an huyện Ân Thi (Hưng Yên) Bùi Thị Cúc (tên thật là Trần Thị Lan, sinh năm 1930) anh dũng hy sinh tại chợ Cảnh Lâm ở tuổi 20. Trước đó, bà hoạt động điệp báo trong lòng địch, mưu trí tiêu diệt tên đồn trưởng Cảnh Lâm khét tiếng ác ôn. Khi bị địch bắt và tra tấn tàn bạo, bà kiên trung giữ trọn khí tiết cách mạng, nhắn nhủ đồng đội: *"Tôi nhận cả về tôi rồi, đừng ai khai gì cả"* và *"Thế nào nó cũng giết tôi. Dù chết tôi cũng không khai ai cả, các đồng chí cứ yên tâm. Chúc các đồng chí ở lại mạnh khỏe. Có gặp mẹ tôi, nhờ các đồng chí động viên cụ giúp tôi."* Trước lúc hy sinh tại pháp trường, bà hiên ngang hô lớn *"Hồ Chủ tịch muôn năm!"*.
 *   **06/1950:** Ban Thường vụ Trung ương Đảng quyết định mở **Chiến dịch Biên giới** (Chiến dịch Lê Hồng Phong II) và thành lập Đảng ủy kiêm Bộ Chỉ huy Mặt trận do Đại tướng Võ Nguyên Giáp làm Bí thư kiêm Chỉ huy trưởng chiến dịch. Đây là chiến dịch tiến công quy mô lớn đầu tiên do quân ta chủ động mở trên dải biên giới Việt - Trung.
+
+![Hình ảnh tư liệu](images/event_20260924_111653.webp)
+
+*Nguồn: Đại tướng Võ Nguyên Giáp, 1951 / Wikimedia Commons (Public domain)*
 *   **05/09/1950:** Tòa án binh tối cao mở phiên tòa đặc biệt tại Thái Nguyên xét xử vụ án tham ô công quỹ, nhận hối lộ và sống xa hoa lãng phí nghiêm trọng tại Cục Quân nhu, tuyên phạt tử hình nguyên Cục trưởng Trần Dụ Châu. Khi đồng chí Trần Đăng Ninh (Tổng cục trưởng Tổng cục Cung cấp) báo cáo và xin ý kiến chỉ đạo của Chủ tịch Hồ Chí Minh về lá đơn xin ân xá của can phạm, Bác Hồ đã kiên quyết bác đơn tha tội chết và căn dặn bài học sâu sắc về kỷ luật Đảng cùng sự nghiêm minh của pháp luật: *"Với loài sâu mọt đục khoét nhân dân cũng thế. Nếu phải giết đi một con mà cứu được cả rừng cây thì việc đó là cần thiết, hơn nữa là nhân đạo."*
 *   **16/09/1950:** Dưới sự chỉ huy trực tiếp của Đại tướng Võ Nguyên Giáp và sự quan sát, động viên của Chủ tịch Hồ Chí Minh trên đài quan sát núi Báo Đông, Quân đội Nhân dân Việt Nam nổ súng tiến công tiêu diệt cứ điểm Đông Khê, chính thức mở màn Chiến dịch Biên giới Thu Đông 1950.
 
@@ -2392,6 +2449,10 @@
 * **08/04/1954:** Liệt sĩ Nguyễn Ngọc Bảo (Tiểu đoàn phó thuộc Cục Quân báo, Bộ Tổng Tham mưu, người chỉ huy trận đánh thu bản đồ Điện Biên Phủ của Pháp) anh dũng hy sinh tại Điện Biên Phủ.
 *   **05/1954:** Sau chiến thắng Điện Biên Phủ, Chủ tịch Hồ Chí Minh đã nhận Stefan Kubiak (quân nhân lê dương Pháp gốc Ba Lan giác ngộ và gia nhập hàng ngũ Quân đội nhân dân Việt Nam tham gia chiến đấu trong chiến dịch) làm con nuôi và đặt tên Việt Nam là Hồ Chí Toán (mang họ của Người). Ông sau đó lập gia đình tại Hà Nội và được Đảng, Nhà nước tạo mọi điều kiện công tác và sinh sống.
 *   **01/05 - 07/05/1954:** Đợt 3 của chiến dịch, bộ đội tiêu diệt các cứ điểm còn lại. Trong đợt tổng công kích cuối cùng (ngày 06/05), bộ đội Việt Nam đã sử dụng pháo ĐKZ 75mm và 12 dàn hỏa tiễn 6 nòng (Cachiusa) do Trung Quốc và Liên Xô viện trợ, phát huy sức mạnh hỏa lực to lớn. Đêm 06/05, khối bộc phá 1 tấn được điểm hỏa làm nổ tung hầm ngầm trên đồi A1, giúp quân ta làm chủ hoàn toàn cao điểm then chốt này.
+
+![Hình ảnh tư liệu](images/event_20260924_111654.webp)
+
+*Nguồn: Bộ đội cắm cờ chiến thắng trên hầm chỉ huy Pháp, 07/05/1954 / Bảo tàng Quân đội (Wikimedia Commons, Public domain)*
 *   **07/05/1954:** Đúng 17 giờ 30 phút, dưới sự chỉ đạo và chỉ huy của Tổng Tư lệnh Đại tướng Võ Nguyên Giáp, Đại đội trưởng Tạ Quốc Luật (Đại đội 360, Trung đoàn 209, Đại đoàn 312) dẫn đầu tổ xung kích xông vào hầm chỉ huy bắt sống Tướng Christian de Castries cùng toàn bộ Bộ Tham mưu địch và phất cao lá cờ "Quyết chiến quyết thắng" trên nóc hầm. **Chiến dịch Điện Biên Phủ toàn thắng**, kết thúc 55 ngày đêm chiến đấu kiên cường, đập tan tập đoàn cứ điểm mạnh nhất Đông Dương của thực dân Pháp, "lừng lẫy năm châu, chấn động địa cầu".
 
 ![Hình ảnh tư liệu](images/event_20260923_103549.webp)
@@ -2416,6 +2477,10 @@
     *   Dự kiến tổ chức Tổng tuyển cử tự do để thống nhất đất nước vào tháng 7/1956.
 *   **20/07/1954:** Giáo sư Tạ Quang Bửu, đại diện Bộ Tổng Tư lệnh Quân đội nhân dân Việt Nam, ký Hiệp định đình chiến Giơnevơ tại Thụy Sĩ.
 *   **25/07/1954:** Sau khi Hiệp định Giơ-ne-vơ được ký kết lập lại hòa bình ở Đông Dương, danh họa Pablo Picasso sáng tác tác phẩm "Hòa bình muôn năm" (Vive la paix) với hình ảnh bồ câu hòa bình và nét vẽ đậm chất Việt Nam, biểu thị sự ủng hộ cuộc đấu tranh vì hòa bình và độc lập của dân tộc Việt Nam.
+
+![Hình ảnh tư liệu](images/event_20260924_111656.webp)
+
+*Nguồn: Hội nghị Giơ-ne-vơ 1954 / Quân đội Hoa Kỳ (Wikimedia Commons, Public domain)*
 *   **08/1954:** Sau khi Chiến dịch Điện Biên Phủ toàn thắng và Hiệp định Giơnevơ được ký kết, Chủ tịch Hồ Chí Minh cùng các cơ quan Trung ương Đảng và Chính phủ rời ATK Kim Quan (Tuyên Quang) trở về tiếp quản Thủ đô Hà Nội.
 *   **08/1954 - 05/1955:** **Cuộc di cư vào Nam năm 1954 ("Bắc 54"):** Sau Hiệp định Giơnevơ quy định 300 ngày tự do đi lại giữa hai miền, khoảng 800.000 đến 1 triệu người dân miền Bắc (chủ yếu là đồng bào Công giáo, công chức, quân nhân thuộc chính quyền và quân đội Quốc gia Việt Nam, cùng trí thức, tiểu thương) đã di cư vào miền Nam. Bản chất của cuộc di cư gắn liền với toan tính chiến lược của Mỹ và chính quyền Ngô Đình Diệm nhằm tạo dựng chỗ dựa chính trị - xã hội trung thành và bổ sung lực lượng quân sự chống cộng tại miền Nam, phục vụ mưu đồ chia cắt lâu dài đất nước và tuyên truyền chiến tranh tâm lý chống lại Việt Nam Dân chủ Cộng hòa; trong khi Pháp muốn hỗ trợ di tản các lực lượng bản xứ từng cộng tác với họ. Để lôi kéo và kích động dân chúng, Cơ quan Tình báo Trung ương Mỹ (CIA, do Edward Lansdale chỉ huy) phối hợp với chính quyền Sài Gòn đã phát động chiến dịch tâm lý chiến quy mô lớn: khai thác tâm lý tôn giáo bằng các khẩu hiệu kích động và tin đồn thất thiệt (như *"Chúa đã vào Nam"*, *"Đức Mẹ vào Nam"*, thêu dệt tin Mỹ sắp ném bom nguyên tử xuống miền Bắc hay Việt Minh đàn áp tôn giáo), vận động các linh mục bảo thủ kéo toàn bộ giáo xứ ra đi, đồng thời hứa hẹn cấp đất đai, nhà ở, tiền bạc và viện trợ khi vào Nam. Dưới sự hỗ trợ hậu cần và vận tải biển/hàng không khổng lồ của quân đội Pháp và Hải quân Hoa Kỳ (*Chiến dịch Con đường đến Tự do - Operation Passage to Freedom*), làn sóng di cư đã hình thành nên cộng đồng "Bắc 54", mang lại chỗ dựa nền tảng cho chính quyền Diệm và làm thay đổi sâu sắc cơ cấu nhân khẩu, chính trị, kinh tế và xã hội của miền Nam Việt Nam.
 *   **08/08/1954:** Cần lao Nhân vị Cách mạng Đảng (Đảng Cần lao) chính thức ra mắt tại miền Nam, do Ngô Đình Nhu sáng lập.
@@ -2529,6 +2594,10 @@
 *   **14/11/1958:** Chủ tịch Hồ Chí Minh cùng các đồng chí lãnh đạo Đảng, Nhà nước và nhiều đoàn đại biểu quốc tế đến Bệnh viện Hữu nghị Việt - Xô thăm hỏi, động viên nữ chiến sĩ Trần Thị Lý; ý chí kiên trung và sự hồi sinh kỳ diệu của bà đã trở thành nguồn cảm hứng để nhà thơ Tố Hữu sáng tác bài thơ nổi tiếng *"Người con gái Việt Nam"* (tháng 12/1958), khắc họa biểu tượng bất khuất của người phụ nữ Việt Nam trong cuộc kháng chiến chống Mỹ.
 *   **01/12/1958:** Vụ thảm sát Phú Lợi xảy ra, chế độ Mỹ - Diệm đầu độc hàng ngàn tù nhân chính trị, gây phẫn nộ lớn và thúc đẩy phong trào đấu tranh cách mạng.
 *   **1959 - 1960:** Phong trào **"Đồng khởi"** bùng nổ mạnh mẽ ở các vùng nông thôn miền Nam, bắt đầu từ Bến Tre, phá vỡ từng mảng lớn bộ máy cai trị của địch ở cơ sở.
+
+![Hình ảnh tư liệu](images/event_20260924_120719.webp)
+
+*Nguồn: Bà Nguyễn Thị Định (giữa) cùng chồng và bạn bè tại Bến Tre, 1939 / Wikimedia Commons (Public domain)*
 *   **1959:** Huỳnh Tấn Phát hoạt động tại vùng "Tam giác sắt" (Củ Chi - Trảng Bàng - Bến Cát).
 *   **1959 - 1960:** Mạng lưới tình báo do Đinh Thị Vân phụ trách đã điều tra tỉ mỉ hệ thống phòng ngự của ngụy quân Sài Gòn ở nam vĩ tuyến 17, cung cấp thông tin quan trọng hỗ trợ cho việc mở đường Trường Sơn.
 *   **1959:** Chủ tịch Hồ Chí Minh cùng Đại tướng Võ Nguyên Giáp đến dự khán và động viên các vận động viên tại hoạt động thể thao quần chúng ở Hà Nội, thể hiện sự quan tâm của Đảng và Nhà nước đối với phong trào rèn luyện thân thể theo gương Bác Hồ vĩ đại.
@@ -2635,6 +2704,10 @@
 *   **1963:** Nguyễn Văn Trỗi chính thức gia nhập đội biệt động Sài Gòn, trở thành chiến sĩ xuất sắc trong các chiến dịch tiến công du kích nội thành.
 *   **1963 - 1968:** Trần Văn Lai hoạt động biệt động tại Sài Gòn dưới vỏ bọc nhà thầu khoán. Ông xâm nhập các cơ quan đầu não như Dinh Độc Lập và cơ quan viện trợ hậu cần Mỹ (USOM), thu thập tình báo và bí mật vẽ bản đồ hệ thống cống ngầm Sài Gòn cho Quân Giải phóng.
 *   **02/01/1963:** **Trận Ấp Bắc (Mỹ Tho):** Khoảng 350 quân của Quân Giải phóng miền Nam Việt Nam đã đánh bại cuộc hành quân càn quét quy mô lớn "Đức Thắng 01-1963" của gần 1.800 ngụy quân VNCH do cố vấn Mỹ chỉ huy. Dù đối phương sử dụng chiến thuật "trực thăng vận" và "thiết xa vận" tân kỳ, Quân Giải phóng đã gây thiệt hại nặng nề (hơn 80 lính ngụy chết, bắn rơi 5 trực thăng, bắn cháy nhiều xe thiết giáp M113). Đây là chiến thắng lớn đầu tiên của Quân Giải phóng trước ngụy quân chính quy VNCH, đánh dấu sự thất bại bước đầu của chiến lược "Chiến tranh đặc biệt".
+
+![Hình ảnh tư liệu](images/event_20260924_111702.webp)
+
+*Nguồn: Xác trực thăng UH-1 Mỹ bị bắn rơi tại Ấp Bắc, 01/1963 / Quân đội Hoa Kỳ (Wikimedia Commons, Public domain)*
 * **02/01/1963:** Tiểu đội trưởng Nguyễn Văn Đừng (Tiểu đội 4, Đại đội 1, Tiểu đoàn 261 Giron) chỉ huy tiểu đội gang thép tiêu diệt 2 xe thiết giáp M-113 và anh dũng hy sinh trong trận Ấp Bắc.
 *   **08/05/1963:** Sự kiện Đài phát thanh Huế: Lực lượng an ninh và quân đội của chính quyền Ngô Đình Diệm nổ súng và dùng lựu đạn đàn áp cuộc biểu tình ôn hòa của hàng ngàn Phật tử tại Đài Phát thanh Huế phản đối lệnh triệt hạ cờ Phật giáo nhân Đại lễ Phật Đản (chỉ vài ngày sau khi cờ Vatican được treo công khai khắp thành phố mừng lễ Tổng Giám mục Ngô Đình Thục). Vụ nổ súng làm 9 người thiệt mạng (trong đó có trẻ em) và nhiều người bị thương, chính thức châm ngòi cho **cuộc khủng hoảng Phật giáo năm 1963** và làn sóng phản kháng đô thị trên toàn miền Nam.
 *   **11/06/1963:** Hòa thượng **Thích Quảng Đức** tẩm xăng tự thiêu tại ngã tư đường Phan Đình Phùng và Lê Văn Duyệt (Sài Gòn) để phản đối chính sách kỳ thị và đàn áp Phật giáo của chính quyền Ngô Đình Diệm. Bức ảnh ghi lại khoảnh khắc bi tráng của phóng viên Malcolm Browne đã gây chấn động toàn cầu, tạo áp lực ngoại giao dữ dội lên Washington và châm ngòi cho làn sóng tiếp tục tự thiêu của nhiều chư tăng ni. Thay vì xoa dịu, gia đình Ngô Đình Diệm (tiêu biểu là những phát ngôn miệt thị "nướng thịt" của Trần Lệ Xuân) càng đẩy chính quyền vào thế cô lập cùng cực.
@@ -2855,6 +2928,10 @@
 *   **12/02/1968:** Lính Nam Triều Tiên gây ra vụ thảm sát Phong Nhất và Phong Nhị (Quảng Nam), sát hại từ 69 đến 79 thường dân.
 *   **21/02/1968:** Lính Nam Triều Tiên (Lữ đoàn Rồng Xanh) thảm sát 135 thường dân không có vũ khí tại làng Hà My (Điện Bàn, Quảng Nam).
 *   **16/03/1968:** **Vụ thảm sát Mỹ Lai** (Sơn Mỹ) diễn ra tại Quảng Ngãi. Lính Mỹ (Đại đội Charlie) đã thảm sát 504 thường dân (theo thống kê của Việt Nam). Sự kiện này gây chấn động dư luận thế giới và thổi bùng phong trào phản chiến.
+
+![Hình ảnh tư liệu](images/event_20260924_111703.webp)
+
+*Nguồn: Hiện trường vụ thảm sát Mỹ Lai, 16/03/1968 / Ronald L. Haeberle, Quân đội Hoa Kỳ (Wikimedia Commons, Public domain)*
 *   **31/03/1968:** Tổng thống Mỹ Johnson tuyên bố ngừng ném bom hạn chế miền Bắc (từ vĩ tuyến 20 trở ra) và chấp nhận đàm phán.
 *   **04/1968:** Bộ Tư lệnh Đoàn 559 và Tổng cục Hậu cần khởi công xây dựng tuyến đường ống dẫn xăng dầu dã chiến đầu tiên (tuyến X42 dài 42 km từ Nam Đàn qua Linh Cảm), mở đầu kỳ tích xây dựng hệ thống đường ống xăng dầu xuyên Trường Sơn dài hơn 5.000 km, tiếp tế hàng trăm ngàn tấn nhiên liệu vào tận chiến trường Nam Bộ phục vụ các chiến dịch lớn giải phóng miền Nam.
 *   **01 - 14/04/1968:** **Chiến dịch Pegasus (Operation Pegasus):** Quân đội Mỹ điều động Sư đoàn 1 Kỵ binh Không vận và Thủy quân Lục chiến mở Chiến dịch Pegasus (Chiến dịch Phi Mã) dọc theo Quốc lộ 9 nhằm giải tỏa vòng vây cô lập nghẹt thở mà Quân đội Nhân dân Việt Nam siết chặt quanh Căn cứ Khe Sanh (Quảng Trị). Dưới làn hỏa lực yểm trợ dữ dội của địch, các chiến sĩ Quân Giải phóng đã kiên cường chặn đánh từng bước tiến của quân Mỹ, bắn rơi nhiều máy bay trực thăng và tiêu hao nhiều sinh lực địch trước khi chủ động chuyển hướng thế trận tác chiến.
@@ -3037,6 +3114,10 @@
 *   **12 - 15/09/1973:** Lãnh tụ Fidel Castro có chuyến thăm lịch sử lần đầu tiên tới Việt Nam. Ngày 12/09, ông phát biểu tại Hà Nội ca ngợi cuộc đấu tranh anh hùng của nhân dân Việt Nam. Ngày 15/09, ông đến thăm vùng giải phóng Quảng Trị, đứng trên cao điểm 241, trở thành nguyên thủ quốc gia nước ngoài đầu tiên và duy nhất thăm vùng giải phóng miền Nam trước năm 1975. Tại đây, ông đã chỉ thị bác sĩ riêng cấp cứu kịp thời cho cô nữ dân công 17 tuổi Nguyễn Thị Hương bị thương do bom mìn.
 *   **21/09/1973:** Tại Paris, đại diện Chính phủ Việt Nam Dân chủ Cộng hòa và Chính phủ Nhật Bản ký Thông cáo chung chính thức thiết lập quan hệ ngoại giao ở cấp Đại sứ. Sự kiện mở ra trang mới trong quan hệ hai nước sau Hiệp định Paris 1973, đồng thời khởi đầu các cuộc đàm phán ngoại giao phức tạp nhằm xử lý các vấn đề tồn đọng từ Thế chiến II.
 *   **10/1973:** Cố vấn đặc biệt Lê Đức Thọ tuyên bố từ chối nhận Giải Nobel Hòa bình năm 1973 (được trao chung với Henry Kissinger), khẳng định hòa bình thực sự chưa được lập lại tại Việt Nam khi quân đội Mỹ vẫn can thiệp.
+
+![Hình ảnh tư liệu](images/event_20260924_111742.webp)
+
+*Nguồn: Cố vấn Lê Đức Thọ tại sân bay Orly, Paris 1972 / Associated Press (Wikimedia Commons, Public domain)*
 *   **06/10/1973:** Tính đến thời điểm này, Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam đã được 34 nước công nhận và thiết lập quan hệ ngoại giao.
 *   **13/10/1973:** Ban Chấp hành Trung ương Đảng ban hành Nghị quyết số 227-NQ/TW (Hội nghị lần thứ 21), xác định nhiệm vụ cơ bản của cách mạng miền Nam trong giai đoạn mới là tiếp tục thực hiện chiến lược cách mạng dân tộc dân chủ nhân dân, dùng bạo lực cách mạng để giành chính quyền.
 *   **03/12/1973:** 8 chiến sĩ đặc công thuộc Đội 5 (Đoàn 10 Rừng Sác) tập kích kho xăng Nhà Bè, thiêu hủy 35 triệu gallon xăng dầu và nhiều cơ sở vật chất của địch.
@@ -3077,9 +3158,9 @@
 *Nguồn: Ảnh: TTXVN / Chiến dịch Huế - Đà Nẵng 1975*
 *   **10/03/1975:** Quân Giải phóng miền Nam Việt Nam nổ súng tiến công thị xã Buôn Ma Thuột, mở màn đòn then chốt quyết định của Chiến dịch Tây Nguyên. Sau hơn 30 giờ chiến đấu dũng mãnh, quân Giải phóng làm chủ hoàn toàn thị xã vào ngày 11/03, giáng đòn sấm sét làm rung chuyển toàn bộ hệ thống phòng thủ của địch, tạo bước ngoặt đột biến cho cuộc Tổng tiến công mùa Xuân 1975.
 
-![Hình ảnh tư liệu](images/event_20260923_223312.webp)
+![Hình ảnh tư liệu](images/event_20260924_120723.webp)
 
-*Nguồn: Bộ đội Quân Giải phóng hành quân trong Chiến dịch Tây Nguyên, 03/1975*
+*Nguồn: Tượng đài chiến thắng Tây Nguyên / Canpark (Wikimedia Commons, Public domain)*
 
 
 ![Hình ảnh tư liệu](images/event_20260923_223315.webp)
@@ -3092,9 +3173,9 @@
 *   **27/03/1975:** Bộ Chính trị gửi điện (18 giờ) chỉ đạo Anh Năm Công (Võ Chí Công) và Hai Mạnh (**Chu Huy Mân**) về kế hoạch giải phóng Đà Nẵng, yêu cầu hành động táo bạo, bất ngờ để tiêu diệt sinh lực địch, không cho chúng rút về Sài Gòn.
 *   **29/03/1975:** Quân Giải phóng đồng loạt tiến công và giải phóng hoàn toàn thành phố Đà Nẵng - căn cứ quân sự liên hợp khổng lồ lớn thứ hai của địch ở miền Nam. Hơn 14 vạn sĩ quan, binh lính địch bị tiêu diệt và làm tan rã, tạo điều kiện thuận lợi cho đòn tiến công chiến lược cuối cùng giải phóng Sài Gòn.
 
-![Hình ảnh tư liệu](images/event_20260923_223310.webp)
+![Hình ảnh tư liệu](images/event_20260924_120801.webp)
 
-*Nguồn: Bộ đội gặp gỡ nhân dân Đà Nẵng sau ngày giải phóng, 29/03/1975 / TTXVN*
+*Nguồn: Bộ binh và xe tăng Quân Giải phóng tiến vào Đà Nẵng ngày 29/03/1975 / TTXVN*
 *   **04/1975:** Đại tướng Văn Tiến Dũng làm Tư lệnh Chiến dịch Hồ Chí Minh; Thượng tướng Nguyễn Hữu An (Tư lệnh Quân đoàn 2) và Thiếu tướng Hoàng Đan (Phó Tư lệnh) chỉ đạo mũi tiến công hướng Đông Nam thọc sâu đánh chiếm Dinh Độc Lập trưa ngày 30/04/1975.
 *   **03/04/1975:** Giải phóng các tỉnh Khánh Hòa, Cam Ranh.
 *   **07/04/1975:** Tại Tổng hành dinh (Hà Nội), Bí thư Quân ủy Trung ương, Đại tướng - Tổng Tư lệnh Võ Nguyên Giáp phát đi bức điện khẩn lịch sử (bức điện mật số 986/TK) gửi các cánh quân đang thần tốc tiến về giải phóng miền Nam: *"Thần tốc, thần tốc hơn nữa. Táo bạo, táo bạo hơn nữa. Tranh thủ từng giờ, từng phút, xốc tới mặt trận, giải phóng miền Nam. Quyết chiến và toàn thắng!"*. Bức điện đã trở thành lời hiệu triệu non sông, thôi thúc toàn quân tiến công dũng mãnh, giải phóng hoàn toàn miền Nam, thống nhất đất nước.
