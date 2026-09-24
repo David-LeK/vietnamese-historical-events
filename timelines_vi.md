@@ -12,7 +12,7 @@
 *   **Khoảng 300.000 năm trước:** Sự tồn tại của Người vượn thông qua các công cụ đá ở di chỉ Núi Đọ (Thanh Hóa). [Nguồn: Cổng TTĐT Tỉnh ủy Thanh Hóa - Lịch sử Thanh Hóa, https://dcsth.hanhchinhcong.net/tinhuy/KenhTin/Lich-su-phat-trien.aspx]
 
 <!-- id: EVT-0004 -->
-*   **Khoảng 250.000 - 140.000 năm trước:** Dấu tích Người tinh khôn (Homo Sapiens) sơ khai ở Thẩm Ôm (Nghệ An).
+*   **Khoảng 250.000 - 140.000 năm trước:** Dấu tích Người tinh khôn (Homo Sapiens) sơ khai ở Thẩm Ôm (Nghệ An). [Nguồn: Pleistocene Hominoids of Vietnam – Tham Om Cave (Schwartz et al., American Museum of Natural History), https://sites.pitt.edu/~jhs/articles/hominoid_vietnam.pdf]
 
 <!-- id: EVT-0005 -->
 *   **Khoảng 23.500 TCN (25.510 năm trước):** Thời kỳ Văn hóa Soi Nhụ (Quảng Ninh), nền văn hóa sớm cư trú trong hang động đá vôi ven biển. [Nguồn: Dữ liệu văn hóa Việt Nam - Vịnh Hạ Long, https://congdongviet.net/post/vnh-h-long]
@@ -217,331 +217,331 @@
 *   **Thế kỷ I - VII:** Vương quốc Phù Nam hình thành và phát triển rực rỡ ở vùng đồng bằng sông Cửu Long. Gắn liền với đó là Văn hóa Óc Eo, một trung tâm thương mại quan trọng kết nối các tuyến hàng hải Đông - Tây. [Nguồn: Văn hóa Óc Eo – Phù Nam (từ thế kỷ 1 đến thế kỷ 7), https://baotanglichsu.vn/vi/Articles/4013/van-hoa-oc-eo-phu-nam-tu-the-ky-1-djen-the-ky-7]
 
 <!-- id: EVT-0057 -->
-*   **Năm 9:** Vương Mãng lật đổ nhà Tây Hán, lập ra nhà Tân. Thứ sử Giao Chỉ bộ là Đặng Tương giữ cho vùng đất Giao Châu được hòa bình, thành nơi tị nạn của nhiều sĩ phu, danh sĩ phương Bắc trốn tránh biến loạn. [Nguồn: Kết cục bi thảm của vị Hoàng đế Trung Hoa ôm mộng xây dựng một thế giới hoàn mỹ, https://danviet.vn/ket-cuc-bi-tham-cua-vi-hoang-de-trung-hoa-om-mong-xay-dung-1-the-gioi-hoan-my-7777974106-d712852.html]
+*   **Năm 9:** Vương Mãng lật đổ nhà Tây Hán, lập ra nhà Tân. [Nguồn: Kết cục bi thảm của vị Hoàng đế Trung Hoa ôm mộng xây dựng một thế giới hoàn mỹ, https://danviet.vn/ket-cuc-bi-tham-cua-vi-hoang-de-trung-hoa-om-mong-xay-dung-1-the-gioi-hoan-my-7777974106-d712852.html]
 
 <!-- id: EVT-0058 -->
 *   **Năm 25:** Tích Quang làm Thái thú quận Giao Chỉ, Nhâm Diên làm Thái thú quận Cửu Chân. Hai ông mở trường dạy học chữ Hán, truyền bá lễ nghi, kỹ thuật cày bằng phay sắt và xây dựng các công trình thủy lợi cho người Việt. [Nguồn: Hậu Hán thư, Quyển 86 — Nam Man truyện (bản dịch tiếng Việt), https://vi.wikisource.org/wiki/Bi%C3%AAn_d%E1%BB%8Bch:H%E1%BA%ADu_H%C3%A1n_th%C6%B0/Quy%E1%BB%83n_86]
 
 <!-- id: EVT-0059 -->
-*   **Năm 29:** Tích Quang và Nhâm Diên cử sứ giả sang Lạc Dương dâng sớ quy phục Hán Quang Vũ Đế (nhà Đông Hán), kết thúc thời kỳ gián đoạn và chính thức đưa Giao Châu thuộc quyền kiểm soát của Đông Hán.
+*   **Năm 29:** Tích Quang và Nhâm Diên cử sứ giả sang Lạc Dương dâng sớ quy phục Hán Quang Vũ Đế (nhà Đông Hán), kết thúc thời kỳ gián đoạn và chính thức đưa Giao Châu thuộc quyền kiểm soát của Đông Hán. [Nguồn: Đại Việt sử ký toàn thư, Ngoại kỷ – Đời thuộc Đông Hán, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_I/Ngoại_kỷ/Cuốn_thứ_ba/Đời_thuộc_Đông_Hán]
 
 <!-- id: EVT-0060 -->
-*   **Năm 34:** Vua Quang Vũ nhà Hán sai Tô Định sang làm Thái thú quận Giao Chỉ. Sự cai trị tàn bạo và thuế khóa hà khắc của Tô Định là nguyên nhân trực tiếp dẫn đến cuộc khởi nghĩa của Hai Bà Trưng.
+*   **Năm 34:** Vua Quang Vũ nhà Hán sai Tô Định sang làm Thái thú quận Giao Chỉ. Sự cai trị tàn bạo và thuế khóa hà khắc của Tô Định là nguyên nhân trực tiếp dẫn đến cuộc khởi nghĩa của Hai Bà Trưng. [Nguồn: Khởi nghĩa Hai Bà Trưng và kháng chiến chống Đông Hán (40-43), https://nvsk.vnanet.vn/khoi-nghia-hai-ba-trung-va-khang-chien-chong-dong-han-40-43-1-34961.vna]
 
 <!-- id: EVT-0061 -->
-*   **40:** Hai Bà Trưng dấy binh khởi nghĩa, giành lại độc lập. Trưng Trắc lên ngôi vua, đóng đô ở Mê Linh.
+*   **40:** Hai Bà Trưng dấy binh khởi nghĩa, giành lại độc lập. Trưng Trắc lên ngôi vua, đóng đô ở Mê Linh. [Nguồn: Khởi nghĩa Hai Bà Trưng và kháng chiến chống Đông Hán (40-43), https://nvsk.vnanet.vn/khoi-nghia-hai-ba-trung-va-khang-chien-chong-dong-han-40-43-1-34961.vna]
 
 ![Hình ảnh tư liệu](images/event_20260923_122130.webp)
 
 *Nguồn: Tranh dân gian Đông Hồ: Hai Bà Trưng cưỡi voi ra trận / Wikimedia Commons*
 
 <!-- id: EVT-0062 -->
-*   **41:** Mã Viện mang 20 vạn quân sang xâm lược.
+*   **41:** Mã Viện mang khoảng 2 vạn quân sang xâm lược. [Nguồn: Khởi nghĩa Hai Bà Trưng và kháng chiến chống Đông Hán (40-43), https://nvsk.vnanet.vn/khoi-nghia-hai-ba-trung-va-khang-chien-chong-dong-han-40-43-1-34961.vna]
 
 <!-- id: EVT-0063 -->
-*   **43:** Cuộc khởi nghĩa thất bại trước cuộc tấn công của tướng nhà Hán là Mã Viện. Hai Bà Trưng tuẫn tiết trên sông Hát. Mã Viện dựng cột đồng để ghi địa giới.
+*   **43:** Cuộc khởi nghĩa thất bại trước cuộc tấn công của tướng nhà Hán là Mã Viện. Hai Bà Trưng tuẫn tiết trên sông Hát. Mã Viện dựng cột đồng để ghi địa giới. [Nguồn: Đại Việt sử ký toàn thư, Ngoại kỷ – Triều Trưng Nữ Vương, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_I/Ngoại_kỷ/Cuốn_thứ_ba/Triều_Trưng_Nữ_Vương]
 
 ![Hình ảnh tư liệu](images/event_20260923_232103.webp)
 
 *Nguồn: Đền thờ Hai Bà Trưng (Mê Linh, Hà Nội) / Origin Vietnam*
 
 <!-- id: EVT-0064 -->
-*   **Năm 44:** Sau khi đàn áp cuộc khởi nghĩa Hai Bà Trưng, Mã Viện tiến hành bãi bỏ chế độ thế tập của các Lạc tướng, đàn áp các cuộc nổi dậy còn sót lại của người Lạc Việt tại huyện Tây Vu, đồng thời chia Tây Vu thành hai huyện Phong Khê và Vọng Hải nhằm siết chặt chế độ cai trị trực tiếp của nhà Đông Hán.
+*   **Năm 44:** Sau khi đàn áp cuộc khởi nghĩa Hai Bà Trưng, Mã Viện tiến hành bãi bỏ chế độ thế tập của các Lạc tướng, đàn áp các cuộc nổi dậy còn sót lại của người Lạc Việt tại huyện Tây Vu, đồng thời chia Tây Vu thành hai huyện Phong Khê và Vọng Hải nhằm siết chặt chế độ cai trị trực tiếp của nhà Đông Hán. [Nguồn: Truyền thuyết về cột đồng Mã Viện ở núi Lam Thành là hoang đường, https://vusta.vn/truyen-thuyet-ve-cot-dong-ma-vien-o-nui-lam-thanh-la-hoang-duong-p73044.html]
 
 <!-- id: EVT-0065 -->
-*   **Năm 78:** Trương Trọng, người quận Nhật Nam, sang Lạc Dương (Trung Quốc) chầu vua Hán. Ông đã dũng cảm đối đáp cứng cỏi, bảo vệ phong tục và tôn nghiêm của người Việt trước triều đình phương Bắc, sau được phong làm Thái thú quận Kim Thành.
+*   **Năm 78:** Trương Trọng, người quận Nhật Nam, sang Lạc Dương (Trung Quốc) chầu vua Hán. Ông đã dũng cảm đối đáp cứng cỏi, bảo vệ phong tục và tôn nghiêm của người Việt trước triều đình phương Bắc, sau được phong làm Thái thú quận Kim Thành. [Nguồn: Trương Trọng và 2 lần đối đáp sắc bén khiến Hán Minh đế im bặt, https://danviet.vn/truong-trong-va-2-lan-doi-dap-sac-ben-khien-han-minh-de-im-bat-20240810223226577-d1177900.html]
 
 <!-- id: EVT-0066 -->
-*   **100:** Hơn 2.000 dân huyện Tượng Lâm (quận Nhật Nam) nổi dậy chống lại ách cai trị của nhà Hán.
+*   **100:** Hơn 2.000 dân huyện Tượng Lâm (quận Nhật Nam) nổi dậy chống lại ách cai trị của nhà Hán. [Nguồn: Triệu Thị Trinh - nữ danh tướng kiệt xuất đánh đuổi quân Ngô, https://vusta.vn/trieu-thi-trinh-nu-danh-tuong-kiet-xuat-cua-su-nghiep-danh-duoi-quan-ngo-p67963.html]
 
 <!-- id: EVT-0067 -->
-*   **Thế kỷ II:** Sĩ Nhiếp ra sức mở trường dạy học để truyền bá văn hóa Trung Hoa và thủ tiêu văn tự, ngôn ngữ Việt. Tuy nhiên, Nho giáo vẫn không thể bám rễ sâu vào các làng xã do sức sống mạnh mẽ của văn hóa bản địa.
+*   **Thế kỷ II:** Sĩ Nhiếp ra sức mở trường dạy học để truyền bá văn hóa Trung Hoa và thủ tiêu văn tự, ngôn ngữ Việt. Tuy nhiên, Nho giáo vẫn không thể bám rễ sâu vào các làng xã do sức sống mạnh mẽ của văn hóa bản địa. [Nguồn: Sĩ Nhiếp có vai trò thế nào trong lịch sử Việt Nam?, https://baotanglichsu.vn/vi/Articles/3098/15754/si-nhiep-co-vai-tro-the-nao-trong-lich-su-viet-nam.html]
 
 <!-- id: EVT-0068 -->
-*   **137:** Người huyện Tượng Lâm nổi dậy đánh phá trị sở, giết trưởng lại rồi đánh rộng ra toàn quận Nhật Nam.
+*   **137:** Người huyện Tượng Lâm nổi dậy đánh phá trị sở, giết trưởng lại rồi đánh rộng ra toàn quận Nhật Nam. [Nguồn: Sau Bà Trưng, nhân dân Cửu Chân, Nhật Nam nổi dậy liên tục (tư liệu SGK Sử 10), https://soha.vn/sau-ba-trung-nhan-dan-cuu-chan-nhat-nam-noi-day-lien-tuc-tiec-la-khong-may-thanh-cong-20190408111945929.htm]
 
 <!-- id: EVT-0069 -->
-*   **138:** Nhà Hán theo kế của Lý Cố, thay thái thú và dùng kế lấy vàng lụa mua chuộc, ly gián các thủ lĩnh quận Nhật Nam, khiến quân nổi dậy bị dẹp.
+*   **138:** Nhà Hán theo kế của Lý Cố, thay thái thú và dùng kế lấy vàng lụa mua chuộc, ly gián các thủ lĩnh quận Nhật Nam, khiến quân nổi dậy bị dẹp. [Nguồn: Đại Việt sử ký toàn thư, Ngoại kỷ – Đời thuộc Đông Hán, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_I/Ngoại_kỷ/Cuốn_thứ_ba/Đời_thuộc_Đông_Hán]
 
 <!-- id: EVT-0070 -->
-*   **144:** Dân Nhật Nam và Cửu Chân cùng nổi lên chống lại nhà Hán.
+*   **144:** Dân Nhật Nam và Cửu Chân cùng nổi lên chống lại nhà Hán. [Nguồn: Sau Bà Trưng, nhân dân Cửu Chân, Nhật Nam nổi dậy liên tục (tư liệu SGK Sử 10), https://soha.vn/sau-ba-trung-nhan-dan-cuu-chan-nhat-nam-noi-day-lien-tuc-tiec-la-khong-may-thanh-cong-20190408111945929.htm]
 
 <!-- id: EVT-0071 -->
-*   **157:** Chu Đạt nổi dậy ở Cửu Chân, giết chết Thái thú.
+*   **157:** Chu Đạt nổi dậy ở Cửu Chân, giết chết Thái thú. [Nguồn: Sau Bà Trưng, nhân dân Cửu Chân, Nhật Nam nổi dậy liên tục (tư liệu SGK Sử 10), https://soha.vn/sau-ba-trung-nhan-dan-cuu-chan-nhat-nam-noi-day-lien-tuc-tiec-la-khong-may-thanh-cong-20190408111945929.htm]
 
 <!-- id: EVT-0072 -->
-*   **160:** Cuộc khởi nghĩa của Chu Đạt bị quân Hán dẹp hẳn.
+*   **160:** Cuộc khởi nghĩa của Chu Đạt bị quân Hán dẹp hẳn. [Nguồn: Đại Việt sử ký toàn thư, Ngoại kỷ – Đời thuộc Đông Hán, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_I/Ngoại_kỷ/Cuốn_thứ_ba/Đời_thuộc_Đông_Hán]
 
 <!-- id: EVT-0073 -->
-*   **166:** Sứ giả của Hoàng đế La Mã Marcus Aurelius Antoninus đã đến quận Nhật Nam để dâng ngà voi và sừng tê cho nhà Hán. Đây là lần đầu tiên La Mã thông thương với Trung Quốc qua đường Giao Châu (Việt Nam).
+*   **166:** Sứ giả của Hoàng đế La Mã Marcus Aurelius Antoninus đã đến quận Nhật Nam để dâng ngà voi và sừng tê cho nhà Hán. Đây là lần đầu tiên La Mã thông thương với Trung Quốc qua đường Giao Châu (Việt Nam). [Nguồn: Từ La Mã tới Lạc Dương: Huyền thoại Con đường Tơ lụa trên biển, https://www.vietnam.vn/en/tu-la-ma-toi-lac-duong-huyen-thoai-con-duong-to-lua-tren-bien]
 
 <!-- id: EVT-0074 -->
-*   **Năm 168 - 189:** Dưới thời Hán Linh Đế, Lý Tiến và Lý Cầm đã dâng sớ yêu cầu bãi bỏ lệnh cấm, xin cho người Giao Châu thi đỗ được làm quan tại Trung Nguyên. Triều đình nhà Hán sau đó buộc phải chấp thuận bổ nhiệm người Giao Châu vào các chức vụ hành chính.
+*   **Năm 168 - 189:** Dưới thời Hán Linh Đế, Lý Tiến và Lý Cầm đã dâng sớ yêu cầu bãi bỏ lệnh cấm, xin cho người Giao Châu thi đỗ được làm quan tại Trung Nguyên. Triều đình nhà Hán sau đó buộc phải chấp thuận bổ nhiệm người Giao Châu vào các chức vụ hành chính. [Nguồn: Việt Nam sử lược, Quyển I, Phần II, Chương III (Trần Trọng Kim), https://vi.wikisource.org/wiki/Việt_Nam_sử_lược/Quyển_I/Phần_II/Chương_III]
 
 <!-- id: EVT-0075 -->
-*   **178:** Lương Long nổi dậy ở Giao Chỉ, lôi kéo dân các quận Cửu Chân và Nhật Nam hưởng ứng.
+*   **178:** Lương Long nổi dậy ở Giao Chỉ, lôi kéo dân các quận Cửu Chân và Nhật Nam hưởng ứng. [Nguồn: Họ Lương và 2 cuộc khởi nghĩa thời Bắc thuộc, https://danviet.vn/ho-luong-va-2-cuoc-khoi-nghia-thoi-bac-thuoc-nha-han-nha-tan-run-so-20210913184735806-d976215.html]
 
 <!-- id: EVT-0076 -->
-*   **181:** Nhà Hán điều quân sang giết chết Lương Long, dẹp tan cuộc khởi nghĩa.
+*   **181:** Nhà Hán điều quân sang giết chết Lương Long, dẹp tan cuộc khởi nghĩa. [Nguồn: Họ Lương và 2 cuộc khởi nghĩa thời Bắc thuộc, https://danviet.vn/ho-luong-va-2-cuoc-khoi-nghia-thoi-bac-thuoc-nha-han-nha-tan-run-so-20210913184735806-d976215.html]
 
 <!-- id: EVT-0077 -->
-*   **192:** Khu Liên chính thức thành lập nước Lâm Ấp.
+*   **192:** Khu Liên chính thức thành lập nước Lâm Ấp. [Nguồn: Đại Việt sử ký toàn thư – Đời thuộc Ngô, Tấn, Tống, Tề, Lương, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0078 -->
-*   **Khoảng năm 200:** Sĩ Nhiếp (Shi Xie) cai trị Giao Châu. Ông được người Việt tôn vinh là "Sĩ Vương" vì có công truyền bá Nho học và duy trì sự ổn định trong thời kỳ Tam Quốc loạn lạc ở Trung Quốc.
+*   **Khoảng năm 200:** Sĩ Nhiếp (Shi Xie) cai trị Giao Châu. Ông được người Việt tôn vinh là "Sĩ Vương" vì có công truyền bá Nho học và duy trì sự ổn định trong thời kỳ Tam Quốc loạn lạc ở Trung Quốc. [Nguồn: Sĩ Nhiếp có vai trò thế nào trong lịch sử Việt Nam?, https://baotanglichsu.vn/vi/Articles/3098/15754/si-nhiep-co-vai-tro-the-nao-trong-lich-su-viet-nam.html]
 
 <!-- id: EVT-0079 -->
-*   **Năm 200 (Canh Thìn):** Lý Tiến dâng sớ lên vua Hán xin cho người Giao Châu được bổ nhiệm chức quan như người Hán, đánh dấu sự đấu tranh cho quyền bình đẳng chính trị.
+*   **Năm 200 (Canh Thìn):** Lý Tiến dâng sớ lên vua Hán xin cho người Giao Châu được bổ nhiệm chức quan như người Hán, đánh dấu sự đấu tranh cho quyền bình đẳng chính trị. [Nguồn: Đại Việt sử ký toàn thư, Ngoại kỷ – Triều Sĩ Vương, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_I/Ngoại_kỷ/Cuốn_thứ_ba/Triều_Sĩ_Vương]
 
 <!-- id: EVT-0080 -->
-*   **203:** Theo lời xin của Sĩ Nhiếp và Thứ sử Trương Tân, nhà Đông Hán chính thức thành lập **Giao Châu** (nâng cấp từ Giao Chỉ bộ), thủ phủ đặt tại Luy Lâu (nay thuộc Thuận Thành, Bắc Ninh).
+*   **203:** Theo lời xin của Sĩ Nhiếp và Thứ sử Trương Tân, nhà Đông Hán chính thức thành lập **Giao Châu** (nâng cấp từ Giao Chỉ bộ), thủ phủ đặt tại Luy Lâu (nay thuộc Thuận Thành, Bắc Ninh). [Nguồn: Nơi khởi nguồn Phật giáo Việt Nam, https://bacninh.gov.vn/news/-/details/22340/noi-khoi-nguon-phat-giao-viet-nam]
 
 <!-- id: EVT-0081 -->
-*   **210:** Sĩ Nhiếp chính thức gửi con sang làm con tin và nộp cống phẩm cho Tôn Quyền, đánh dấu việc Giao Châu bắt đầu chịu ảnh hưởng của nước Đông Ngô.
+*   **210:** Sĩ Nhiếp chính thức gửi con sang làm con tin và nộp cống phẩm cho Tôn Quyền, đánh dấu việc Giao Châu bắt đầu chịu ảnh hưởng của nước Đông Ngô. [Nguồn: Đại Việt sử ký toàn thư, Ngoại kỷ – Triều Sĩ Vương, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_I/Ngoại_kỷ/Cuốn_thứ_ba/Triều_Sĩ_Vương]
 
 <!-- id: EVT-0082 -->
-*   **226:** Sĩ Nhiếp mất. Tôn Quyền quyết định chia Giao Châu làm hai: Quảng Châu (phía Bắc) và Giao Châu (phía Nam).
+*   **226:** Sĩ Nhiếp mất. Tôn Quyền quyết định chia Giao Châu làm hai: Quảng Châu (phía Bắc) và Giao Châu (phía Nam). [Nguồn: Đại Việt sử ký toàn thư, Ngoại kỷ – Triều Sĩ Vương, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_I/Ngoại_kỷ/Cuốn_thứ_ba/Triều_Sĩ_Vương]
 
 <!-- id: EVT-0083 -->
-*   **227:** Sĩ Huy (con Sĩ Nhiếp) nổi dậy chống lại việc bổ nhiệm quan lại mới của nhà Ngô nhưng thất bại và bị xử tử. Đông Ngô tái thống nhất hai châu thành Giao Châu như cũ để dễ bề đàn áp.
+*   **227:** Sĩ Huy (con Sĩ Nhiếp) nổi dậy chống lại việc bổ nhiệm quan lại mới của nhà Ngô nhưng thất bại và bị xử tử. Đông Ngô tái thống nhất hai châu thành Giao Châu như cũ để dễ bề đàn áp. [Nguồn: Đại Việt sử ký toàn thư, Ngoại kỷ – Triều Sĩ Vương, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_I/Ngoại_kỷ/Cuốn_thứ_ba/Triều_Sĩ_Vương]
 
 <!-- id: EVT-0084 -->
 *   **231:** Tiết Tông dâng sớ lên vua Ngô Hoàng Võ, miêu tả về chính sách đồng hóa của nhà Hán và sự phản kháng văn hóa của người Việt, cho thấy họ vẫn giữ gìn phong tục tập quán riêng.
 
 <!-- id: EVT-0085 -->
-*   **248:** Cuộc khởi nghĩa của Triệu Thị Trinh cùng anh là Triệu Quốc Đạt bùng nổ tại Cửu Chân, khiến "toàn thể Giao Châu chấn động". Bà nổi tiếng với câu nói: "Tôi chỉ muốn cưỡi cơn gió mạnh, đạp luồng sóng dữ, chém cá kình ở biển Đông, đánh đuổi quân Ngô, giành lại giang sơn, cởi ách nô lệ, chứ không chịu khom lưng làm tì thiếp cho người!". Tôn Quyền sai Lục Dận mang 8.000 quân sang đánh và dẹp được cuộc nổi dậy; Bà Triệu tuẫn tiết trên núi Tùng.
+*   **248:** Cuộc khởi nghĩa của Triệu Thị Trinh cùng anh là Triệu Quốc Đạt bùng nổ tại Cửu Chân, khiến "toàn thể Giao Châu chấn động". Bà nổi tiếng với câu nói: "Tôi chỉ muốn cưỡi cơn gió mạnh, đạp luồng sóng dữ, chém cá kình ở biển Đông, đánh đuổi quân Ngô, giành lại giang sơn, cởi ách nô lệ, chứ không chịu khom lưng làm tì thiếp cho người!". Tôn Quyền sai Lục Dận mang 8.000 quân sang đánh và dẹp được cuộc nổi dậy; Bà Triệu tuẫn tiết trên núi Tùng. [Nguồn: Cuộc khởi nghĩa của Triệu Thị Trinh, https://baotanglichsu.vn/vi/Articles/3098/14281/cuoc-khoi-nghia-cua-trieu-thi-trinh.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_232101.webp)
 
 *Nguồn: Lễ hội đền Bà Triệu (Hậu Lộc, Thanh Hóa) / Báo Nhân Dân*
 
 <!-- id: EVT-0086 -->
-*   **263:** Tào Ngụy diệt Thục Hán. Tại Giao Chỉ, Lã Hưng nổi dậy giết chết Thái thú của nhà Ngô và xin thần phục nhà Ngụy. Giao Châu tạm thời thoát khỏi quyền kiểm soát của Đông Ngô.
+*   **263:** Tào Ngụy diệt Thục Hán. Tại Giao Chỉ, Lã Hưng nổi dậy giết chết Thái thú của nhà Ngô và xin thần phục nhà Ngụy. Giao Châu tạm thời thoát khỏi quyền kiểm soát của Đông Ngô. [Nguồn: Bắc thuộc (Lã Hưng 263, Đào Hoàng 271, Giao Châu thuộc Tấn 265), https://voer.edu.vn/m/bac-thuoc/7c0b24e1]
 
 <!-- id: EVT-0087 -->
-*   **264:** Nhà Đông Ngô tái chia tách Quảng Châu và Giao Châu, lấy Long Biên làm trị sở Giao Châu.
+*   **264:** Nhà Đông Ngô tái chia tách Quảng Châu và Giao Châu, lấy Long Biên làm trị sở Giao Châu. [Nguồn: Đại Việt sử ký toàn thư – Đời thuộc Ngô, Tấn, Tống, Tề, Lương, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0088 -->
-*   **265:** Nhà Tây Tấn thành lập (thay thế nhà Ngụy). Giao Châu lúc này thuộc về nhà Tấn.
+*   **265:** Nhà Tây Tấn thành lập (thay thế nhà Ngụy). Giao Châu lúc này thuộc về nhà Tấn. [Nguồn: Bắc thuộc (Lã Hưng 263, Đào Hoàng 271, Giao Châu thuộc Tấn 265), https://voer.edu.vn/m/bac-thuoc/7c0b24e1]
 
 <!-- id: EVT-0089 -->
-*   **268 - 271:** Đông Ngô nhiều lần cử binh đi đánh chiếm lại Giao Châu. Năm 271, tướng Đào Hoàng của Đông Ngô chiếm lại được toàn bộ vùng đất này.
+*   **268 - 271:** Đông Ngô nhiều lần cử binh đi đánh chiếm lại Giao Châu. Năm 271, tướng Đào Hoàng của Đông Ngô chiếm lại được toàn bộ vùng đất này. [Nguồn: Bắc thuộc (Lã Hưng 263, Đào Hoàng 271, Giao Châu thuộc Tấn 265), https://voer.edu.vn/m/bac-thuoc/7c0b24e1]
 
 <!-- id: EVT-0090 -->
-*   **280:** Nhà Tây Tấn tiêu diệt hoàn toàn nước Đông Ngô, thống nhất Trung Hoa. Giao Châu chính thức chuyển sang thời kỳ trực thuộc nhà Tây Tấn.
+*   **280:** Nhà Tây Tấn tiêu diệt hoàn toàn nước Đông Ngô, thống nhất Trung Hoa. Giao Châu chính thức chuyển sang thời kỳ trực thuộc nhà Tây Tấn. [Nguồn: Đại Việt sử ký toàn thư – Đời thuộc Ngô, Tấn, Tống, Tề, Lương, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0091 -->
-*   **299:** Thú binh ở quận Cửu Chân do Triệu Chỉ cầm đầu nổi dậy giết thái thú nhà Tấn và vây quận thành. Không lâu sau lực lượng này bị dẹp.
+*   **299:** Thú binh ở quận Cửu Chân do Triệu Chỉ cầm đầu nổi dậy giết thái thú nhà Tấn và vây quận thành. Không lâu sau lực lượng này bị dẹp. [Nguồn: Đại Việt sử ký toàn thư – Đời thuộc Ngô, Tấn, Tống, Tề, Lương, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0092 -->
-*   **317:** Đốc quân Lương Thạc nổi dậy giết Thứ sử Cố Thọ, lập Đào Tuy lên thay, chống lại nhà Tấn (giết Vương Cơ, Vương Lượng). Đến năm 323, danh tướng Đào Khản sang đánh, Lương Thạc mới bị giết.
+*   **317:** Đốc quân Lương Thạc nổi dậy giết Thứ sử Cố Thọ, lập Đào Tuy lên thay, chống lại nhà Tấn (giết Vương Cơ, Vương Lượng). Đến năm 323, danh tướng Đào Khản sang đánh, Lương Thạc mới bị giết. [Nguồn: Họ Lương và 2 cuộc khởi nghĩa thời Bắc thuộc, https://danviet.vn/ho-luong-va-2-cuoc-khoi-nghia-thoi-bac-thuoc-nha-han-nha-tan-run-so-20210913184735806-d976215.html]
 
 <!-- id: EVT-0093 -->
-*   **323:** Nhà Tấn cử danh tướng Đào Khản sang đánh dẹp. Lương Thạc bị giết, Giao Châu trở lại quyền kiểm soát của nhà Tấn.
+*   **323:** Nhà Tấn cử danh tướng Đào Khản sang đánh dẹp. Lương Thạc bị giết, Giao Châu trở lại quyền kiểm soát của nhà Tấn. [Nguồn: Họ Lương và 2 cuộc khởi nghĩa thời Bắc thuộc, https://danviet.vn/ho-luong-va-2-cuoc-khoi-nghia-thoi-bac-thuoc-nha-han-nha-tan-run-so-20210913184735806-d976215.html]
 
 <!-- id: EVT-0094 -->
-*   **351:** Thái thú Giao Chỉ là Dương Bình và Thái thú Cửu Chân là Hoan Toại đánh bại quân Lâm Ấp do vua Phạm Phật chỉ huy.
+*   **351:** Thái thú Giao Chỉ là Dương Bình và Thái thú Cửu Chân là Hoan Toại đánh bại quân Lâm Ấp do vua Phạm Phật chỉ huy. [Nguồn: Đại Việt sử ký toàn thư – Đời thuộc Ngô, Tấn, Tống, Tề, Lương, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0095 -->
-*   **353 - 359:** Các cuộc chiến tranh giữa Giao Châu (nhà Tấn) và Lâm Ấp.
+*   **353 - 359:** Các cuộc chiến tranh giữa Giao Châu (nhà Tấn) và Lâm Ấp. [Nguồn: Đại Việt sử ký toàn thư – Đời thuộc Ngô, Tấn, Tống, Tề, Lương, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0096 -->
-*   **353:** Thứ sử Giao Châu là Nguyễn Phu đem quân đánh Lâm Ấp, phá được hơn 50 lũy.
+*   **353:** Thứ sử Giao Châu là Nguyễn Phu đem quân đánh Lâm Ấp, phá được hơn 50 lũy. [Nguồn: Đại Việt sử ký toàn thư – Đời thuộc Ngô, Tấn, Tống, Tề, Lương (353: Nguyễn Phu đánh Lâm Ấp), https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0097 -->
-*   **359:** Thứ sử Ôn Phóng Chi đánh vào tận kinh đô Lâm Ấp (vùng Quảng Nam ngày nay).
+*   **359:** Thứ sử Ôn Phóng Chi đánh vào tận kinh đô Lâm Ấp (vùng Quảng Nam ngày nay). [Nguồn: Đại Việt sử ký toàn thư – Đời thuộc Ngô, Tấn, Tống, Tề, Lương, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0098 -->
-*   **399:** Quân Lâm Ấp do Phạm Hồ Đạt chỉ huy tấn công Nhật Nam và Cửu Đức, bắt sống các Thái thú. Thái thú Giao Chỉ là Đỗ Viện đem quân đánh tan quân địch, được phong làm Thứ sử Giao Châu.
+*   **399:** Quân Lâm Ấp do Phạm Hồ Đạt chỉ huy tấn công Nhật Nam và Cửu Đức, bắt sống các Thái thú. Thái thú Giao Chỉ là Đỗ Viện đem quân đánh tan quân địch, được phong làm Thứ sử Giao Châu. [Nguồn: Đại Việt sử ký toàn thư – Đời thuộc Ngô, Tấn, Tống, Tề, Lương (399: Đỗ Viện đánh Phạm Hồ Đạt), https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0099 -->
-*   **413:** Đỗ Tuệ Độ (con Đỗ Viện) đánh bại quân Lâm Ấp xâm lấn Cửu Chân, giết chết hai hoàng tử của Lâm Ấp.
+*   **413:** Đỗ Tuệ Độ (con Đỗ Viện) đánh bại quân Lâm Ấp xâm lấn Cửu Chân, giết chết hai hoàng tử của Lâm Ấp. [Nguồn: Đại Việt sử ký toàn thư – Đời thuộc Ngô, Tấn, Tống, Tề, Lương (413: Tuệ Độ đánh Lâm Ấp ở Cửu Chân), https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0100 -->
-*   **420:** Đỗ Tuệ Độ nhân lúc Lâm Ấp suy yếu đã mang quân nam tiến, đánh thiệt hại nặng quân Lâm Ấp. Nước Lâm Ấp phải xin hàng và nộp cống.
+*   **420:** Đỗ Tuệ Độ nhân lúc Lâm Ấp suy yếu đã mang quân nam tiến, đánh thiệt hại nặng quân Lâm Ấp. Nước Lâm Ấp phải xin hàng và nộp cống. [Nguồn: Đại Việt sử ký toàn thư – Đời thuộc Ngô, Tấn, Tống, Tề, Lương, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0101 -->
-*   **446:** Tướng nhà Lưu Tống là Đàn Hòa Chi đem quân đánh Lâm Ấp, hạ thành Khu Lật.
+*   **446:** Tướng nhà Lưu Tống là Đàn Hòa Chi đem quân đánh Lâm Ấp, hạ thành Khu Túc. [Nguồn: Đại Việt sử ký toàn thư – Đời thuộc Ngô, Tấn, Tống, Tề, Lương (446: Đàn Hòa Chi hạ thành Khu Túc), https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0102 -->
-*   **468:** Tướng lĩnh bản địa Lý Trường Nhân nổi dậy giết thuộc hạ của Thứ sử Lưu Mục, tự xưng Thứ sử, chống lại nhà Lưu Tống. Sau khi ông mất, em họ là Lý Thúc Hiến lên thay, tiếp tục ngăn cản quan lại phương Bắc (Lưu Bột, Thẩm Hoán).
+*   **468:** Tướng lĩnh bản địa Lý Trường Nhân nổi dậy giết thuộc hạ của Thứ sử Lưu Mục, tự xưng Thứ sử, chống lại nhà Lưu Tống. Sau khi ông mất, em họ là Lý Thúc Hiến lên thay, tiếp tục ngăn cản quan lại phương Bắc (Lưu Bột, Thẩm Hoán). [Nguồn: Đại Việt sử ký toàn thư – Đời thuộc Ngô, Tấn, Tống, Tề, Lương, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0103 -->
-*   **479:** Nhà Nam Tề thay thế nhà Lưu Tống ở Trung Quốc. Lý Thúc Hiến (người kế tục Lý Trường Nhân) tiếp tục giữ quyền tự trị ở Giao Châu, không chịu phục tùng nhà Tề.
+*   **479:** Nhà Nam Tề thay thế nhà Lưu Tống ở Trung Quốc. Lý Thúc Hiến (người kế tục Lý Trường Nhân) tiếp tục giữ quyền tự trị ở Giao Châu, không chịu phục tùng nhà Tề. [Nguồn: Đại Việt sử ký toàn thư – Đời thuộc Ngô, Tấn, Tống, Tề, Lương (479: Nam Tề công nhận Lý Thúc Hiến), https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0104 -->
-*   **485:** Nhà Nam Tề cử Lưu Khải đem quân sang đánh. Lý Thúc Hiến liệu thế không chống nổi nên xin hàng, chấm dứt giai đoạn tự trị của người bản địa.
+*   **485:** Nhà Nam Tề cử Lưu Khải đem quân sang đánh. Lý Thúc Hiến liệu thế không chống nổi nên xin hàng, chấm dứt giai đoạn tự trị của người bản địa. [Nguồn: Đại Việt sử ký toàn thư – Đời thuộc Ngô, Tấn, Tống, Tề, Lương (485: Lưu Khải đánh, Thúc Hiến hàng), https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0105 -->
-*   **10/490 (Canh Ngọ):** Phòng Pháp Thặng được cử làm Thứ sử Giao Châu, nhưng vì mê đọc sách nên bị thuộc hạ là Phục Đăng Chi lật đổ.
+*   **10/490 (Canh Ngọ):** Phòng Pháp Thặng được cử làm Thứ sử Giao Châu, nhưng vì mê đọc sách nên bị thuộc hạ là Phục Đăng Chi lật đổ. [Nguồn: Đại Việt sử ký toàn thư – Đời thuộc Ngô, Tấn, Tống, Tề, Lương (490: Phục Đăng Chi lật Phòng Pháp Thặng), https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0106 -->
-*   **17/10/503:** Lý Bí (sau là Lý Nam Đế), người sáng lập nước Vạn Xuân và là hậu duệ của một dòng họ đã định cư ở Việt Nam qua 7 đời, sinh ra tại huyện Thái Bình.
+*   **17/10/503:** Lý Bí (sau là Lý Nam Đế), người sáng lập nước Vạn Xuân và là hậu duệ của một dòng họ đã định cư ở Việt Nam qua 7 đời, sinh ra tại huyện Thái Bình. [Nguồn: Lý Nam Đế đặt tên nước là Vạn Xuân, https://hoangthanhthanglong.vn/ly-nam-de-dat-ten-nuoc-la-van-xuan-2/]
 
 <!-- id: EVT-0107 -->
-*   **541:** Lý Bí khởi binh chống nhà Lương. Thứ sử Tiêu Tư bỏ chạy về bắc.
+*   **541:** Lý Bí khởi binh chống nhà Lương. Thứ sử Tiêu Tư bỏ chạy về bắc. [Nguồn: Góp sức vào cuộc khởi nghĩa Lý Bí, https://baothainguyen.vn/dat-va-nguoi-thai-nguyen/202304/gop-suc-vao-cuoc-khoi-nghia-ly-bi-f977027]
 
 <!-- id: EVT-0108 -->
-*   **542:** Nhà Lương cử binh sang dẹp nhưng đều bị nghĩa quân Lý Bí đánh bại.
+*   **542:** Nhà Lương cử binh sang dẹp nhưng đều bị nghĩa quân Lý Bí đánh bại. [Nguồn: Đại Việt sử ký toàn thư – Đời thuộc Ngô, Tấn, Tống, Tề, Lương, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0109 -->
-*   **Đầu năm 543:** Nhà Lương huy động binh mã sang xâm lược lần nữa. Lý Bí chủ động xuất quân, đón đánh và tiêu diệt phần lớn quân Lương tại Hợp Phố.
+*   **Đầu năm 543:** Nhà Lương huy động binh mã sang xâm lược lần nữa. Lý Bí chủ động xuất quân, đón đánh và tiêu diệt phần lớn quân Lương tại Hợp Phố. [Nguồn: Nhà nước Vạn Xuân: Khát vọng dựng nước và giữ nước, https://vov2.vov.vn/van-hoa-giai-tri/nha-nuoc-van-xuan-khat-vong-dung-nuoc-va-giu-nuoc-57681.vov2]
 
 <!-- id: EVT-0110 -->
-*   **544:** Lý Bí xưng là Nam Việt Đế (Lý Nam Đế), lập ra nước Vạn Xuân, đặt niên hiệu Thiên Đức.
+*   **544:** Lý Bí xưng là Nam Việt Đế (Lý Nam Đế), lập ra nước Vạn Xuân, đặt niên hiệu Thiên Đức. [Nguồn: Tháng 2/544 – Lý Nam Đế tuyên bố dựng nước độc lập, Quốc hiệu Vạn Xuân, https://baotanglichsu.vn/vi/Articles/3097/15798/thang-2-544-ly-nam-dje-tuyen-bo-dung-nuoc-djoc-lap-quoc-hieu-van-xuan.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_213702.webp)
 
 *Nguồn: Bản đồ lãnh thổ nước Vạn Xuân thời nhà Tiền Lý / Wikimedia Commons*
 
 <!-- id: EVT-0111 -->
-*   **05/545:** Lương Vũ Đế cử Dương Phiêu, Trần Bá Tiên và Tiêu Bột sang xâm lược Vạn Xuân. Lý Nam Đế đem 3 vạn quân ra chống cự nhưng bị thua ở Chu Diên và cửa sông Tô Lịch, các tướng Tinh Thiều, Phạm Tu, Triệu Túc tử trận. Lý Nam Đế phải lui về giữ thành Gia Ninh (Phú Thọ).
+*   **05/545:** Lương Vũ Đế cử Dương Phiêu, Trần Bá Tiên và Tiêu Bột sang xâm lược Vạn Xuân. Lý Nam Đế đem 3 vạn quân ra chống cự nhưng bị thua ở Chu Diên và cửa sông Tô Lịch, các tướng Tinh Thiều, Phạm Tu, Triệu Túc tử trận. Lý Nam Đế phải lui về giữ thành Gia Ninh (Phú Thọ). [Nguồn: Hà Nội trong nghìn năm Bắc thuộc và chống Bắc thuộc, https://vov.vn/ha-noi-ngan-nam/ha-noi-trong-nghin-nam-bac-thuoc-va-chong-bac-thuoc-111324.vov]
 
 <!-- id: EVT-0112 -->
-*   **01/546:** Tướng Lương Trần Bá Tiên đánh lấy được thành Gia Ninh. Lý Nam Đế chạy vào đất người Lạo ở Tân Xương.
+*   **01/546:** Tướng Lương Trần Bá Tiên đánh lấy được thành Gia Ninh. Lý Nam Đế chạy vào đất người Lạo ở Tân Xương. [Nguồn: Lý Nam Đế (Wikipedia tiếng Việt) – chiến dịch 545-546, https://vi.wikipedia.org/wiki/L%C3%BD_Nam_%C4%90%E1%BA%BF]
 
 <!-- id: EVT-0113 -->
-*   **08/546 (Bính Dần):** Trận hồ Điển Triệt (Lập Thạch, Phú Thọ) diễn ra. Lý Nam Đế đem 2 vạn quân từ đất Lạo ra đóng ở hồ, đóng nhiều thuyền. Tướng Lương là Trần Bá Tiên lợi dụng đêm mưa nước sông dâng cao 7 thước tràn vào hồ để đánh úp. Quân Vạn Xuân không phòng bị nên tan vỡ, Lý Nam Đế phải lui vào động Khuất Lão.
+*   **08/546 (Bính Dần):** Trận hồ Điển Triệt (Lập Thạch, Phú Thọ) diễn ra. Lý Nam Đế đem 2 vạn quân từ đất Lạo ra đóng ở hồ, đóng nhiều thuyền. Tướng Lương là Trần Bá Tiên lợi dụng đêm mưa nước sông dâng cao 7 thước tràn vào hồ để đánh úp. Quân Vạn Xuân không phòng bị nên tan vỡ, Lý Nam Đế phải lui vào động Khuất Lão. [Nguồn: Lý Nam Đế (Wikipedia tiếng Việt) – trận hồ Điển Triệt 546, https://vi.wikipedia.org/wiki/L%C3%BD_Nam_%C4%90%E1%BA%BF]
 
 <!-- id: EVT-0114 -->
-*   **01/547:** Triệu Quang Phục lui về giữ đầm Dạ Trạch (Khoái Châu, Hưng Yên) với hơn 2 vạn quân. Lợi dụng địa hình sình lầy, cây cỏ um tùm và nhiều rắn độc, ông dùng chiến thuật du kích, ban ngày ẩn nấp, ban đêm dùng thuyền độc mộc tập kích doanh trại Trần Bá Tiên. Người dân tôn xưng ông là Dạ Trạch Vương.
+*   **01/547:** Triệu Quang Phục lui về giữ đầm Dạ Trạch (Khoái Châu, Hưng Yên) với hơn 2 vạn quân. Lợi dụng địa hình sình lầy, cây cỏ um tùm và nhiều rắn độc, ông dùng chiến thuật du kích, ban ngày ẩn nấp, ban đêm dùng thuyền độc mộc tập kích doanh trại Trần Bá Tiên. Người dân tôn xưng ông là Dạ Trạch Vương. [Nguồn: Triệu Việt Vương và “kế trì cửu chiến” ở đầm Dạ Trạch, http://sknc.qdnd.vn/chuyen-xua-nay/trieu-viet-vuong-va-ke-tri-cuu-chien-o-dam-da-trach-501608]
 
 <!-- id: EVT-0115 -->
-*   **548:** Lý Nam Đế mất tại động Khuất Lão, trao lại binh quyền cho Triệu Quang Phục. Cùng thời gian, anh trai vua là Lý Thiên Bảo và Lý Phật Tử lui quân về Ai Lao, tìm thấy động Dã Năng ở đầu nguồn Đào Giang, bèn đắp thành, lập ra nước Dã Năng. Lý Thiên Bảo tự xưng là Đào Lang Vương.
+*   **548:** Lý Nam Đế mất tại động Khuất Lão, trao lại binh quyền cho Triệu Quang Phục. Cùng thời gian, anh trai vua là Lý Thiên Bảo và Lý Phật Tử lui quân về Ai Lao, tìm thấy động Dã Năng ở đầu nguồn Đào Giang, bèn đắp thành, lập ra nước Dã Năng. Lý Thiên Bảo tự xưng là Đào Lang Vương. [Nguồn: Lý Phật Tử – Hậu Lý Nam Đế, https://hoangthanhthanglong.vn/ly-phat-tu-hau-ly-nam-de-2/]
 
 ![Hình ảnh tư liệu](images/event_20260923_221130.webp)
 
 *Nguồn: Đền thờ Lý Nam Đế / Wikimedia Commons*
 
 <!-- id: EVT-0116 -->
-*   **03/548:** Nghe tin Lý Nam Đế mất, Triệu Quang Phục tự xưng là Triệu Việt Vương.
+*   **03/548:** Nghe tin Lý Nam Đế mất, Triệu Quang Phục tự xưng là Triệu Việt Vương. [Nguồn: Việt Vương Triệu Quang Phục, https://nhandan.vn/viet-vuong-trieu-quang-phuc-post465664.html]
 
 <!-- id: EVT-0117 -->
-*   **01/550:** Tướng Trần Bá Tiên phải rút quân về nước do nhà Lương có loạn, để tỳ tướng Dương Sàn ở lại. Chớp thời cơ, Triệu Việt Vương tung quân phản công, chém chết Dương Sàn, đánh tan quân Lương.
+*   **01/550:** Tướng Trần Bá Tiên phải rút quân về nước do nhà Lương có loạn, để tỳ tướng Dương Sàn ở lại. Chớp thời cơ, Triệu Việt Vương tung quân phản công, chém chết Dương Sàn, đánh tan quân Lương. [Nguồn: Lý Phật Tử – Hậu Lý Nam Đế, https://hoangthanhthanglong.vn/ly-phat-tu-hau-ly-nam-de-2/]
 
 <!-- id: EVT-0118 -->
-*   **Cuối năm 550:** Triệu Quang Phục tiến vào thành Long Biên, chính thức lên ngôi vua, thống nhất đất nước và kết thúc thắng lợi cuộc kháng chiến chống Lương.
+*   **Cuối năm 550:** Triệu Quang Phục tiến vào thành Long Biên, chính thức lên ngôi vua, thống nhất đất nước và kết thúc thắng lợi cuộc kháng chiến chống Lương. [Nguồn: Lý Phật Tử – Hậu Lý Nam Đế, https://hoangthanhthanglong.vn/ly-phat-tu-hau-ly-nam-de-2/]
 
 <!-- id: EVT-0119 -->
-*   **555:** Lý Thiên Bảo (Đào Lang Vương) mất không có con nối dõi. Binh lính suy tôn cháu là Lý Phật Tử lên nối ngôi chúa nước Dã Năng.
+*   **555:** Lý Thiên Bảo (Đào Lang Vương) mất không có con nối dõi. Binh lính suy tôn cháu là Lý Phật Tử lên nối ngôi chúa nước Dã Năng. [Nguồn: Lý Phật Tử – Hậu Lý Nam Đế, https://hoangthanhthanglong.vn/ly-phat-tu-hau-ly-nam-de-2/]
 
 <!-- id: EVT-0120 -->
-*   **557:** Lý Phật Tử đem quân xuống miền Đông đánh nhau với Triệu Việt Vương ở huyện Thái Bình. Trải qua 5 trận không phân thắng bại, Lý Phật Tử xin giảng hòa. Triệu Việt Vương chấp thuận, lấy bãi Quần Thần (Từ Liêm, Hà Nội) làm ranh giới, chia cho Lý Phật Tử cai quản phía Tây, đóng đô ở thành Ô Diên. Nhã Lang (con Lý Phật Tử) kết hôn với Cảo Nương (con gái Triệu Việt Vương) để thắt chặt hòa hiếu.
+*   **557:** Lý Phật Tử đem quân xuống miền Đông đánh nhau với Triệu Việt Vương ở huyện Thái Bình. Trải qua 5 trận không phân thắng bại, Lý Phật Tử xin giảng hòa. Triệu Việt Vương chấp thuận, lấy bãi Quần Thần (Từ Liêm, Hà Nội) làm ranh giới, chia cho Lý Phật Tử cai quản phía Tây, đóng đô ở thành Ô Diên. Nhã Lang (con Lý Phật Tử) kết hôn với Cảo Nương (con gái Triệu Việt Vương) để thắt chặt hòa hiếu. [Nguồn: Lý Phật Tử – Hậu Lý Nam Đế, https://hoangthanhthanglong.vn/ly-phat-tu-hau-ly-nam-de-2/]
 
 <!-- id: EVT-0121 -->
-*   **571:** Lý Phật Tử bất ngờ đem quân đánh úp Triệu Việt Vương (tương truyền do Nhã Lang đánh cắp bí mật móng rồng). Yếu thế không thể chống cự, Triệu Việt Vương đem con gái chạy về cửa biển Đại Nha (Nam Định) rồi nhảy xuống biển tự vẫn. Lý Phật Tử thu phục toàn bộ đất nước, dời đô về Phong Châu, xưng là Hậu Lý Nam Đế, sáp nhập nước Dã Năng trở lại Vạn Xuân.
+*   **571:** Lý Phật Tử bất ngờ đem quân đánh úp Triệu Việt Vương (tương truyền do Nhã Lang đánh cắp bí mật móng rồng). Yếu thế không thể chống cự, Triệu Việt Vương đem con gái chạy về cửa biển Đại Nha (Nam Định) rồi nhảy xuống biển tự vẫn. Lý Phật Tử thu phục toàn bộ đất nước, dời đô về Phong Châu, xưng là Hậu Lý Nam Đế, sáp nhập nước Dã Năng trở lại Vạn Xuân. [Nguồn: Lý Phật Tử – Hậu Lý Nam Đế, https://hoangthanhthanglong.vn/ly-phat-tu-hau-ly-nam-de-2/]
 
 <!-- id: EVT-0122 -->
-*   **03/580:** Thiền sư Tỳ Ni Đa Lưu Chi (Vinitaruci) đến Giao Châu (Việt Nam), cư trú tại chùa Pháp Vân và dịch kinh *Tổng trì*, sáng lập thiền phái Tỳ Ni Đa Lưu Chi.
+*   **03/580:** Thiền sư Tỳ Ni Đa Lưu Chi (Vinitaruci) đến Giao Châu (Việt Nam), cư trú tại chùa Pháp Vân và dịch kinh *Tổng trì*, sáng lập thiền phái Tỳ Ni Đa Lưu Chi. [Nguồn: Khái quát lịch sử hình thành và phát triển Thiền tông tại Việt Nam, https://tapchinghiencuuphathoc.vn/khai-quat-lich-su-hinh-thanh-va-phat-trien-thien-tong-tai-viet-nam.html]
 
 <!-- id: EVT-0123 -->
 *   **Thế kỷ VII - VIII (Cuối thời Bắc thuộc):** Người Việt (Kinh), tộc người chiếm gần 90% dân số cả nước hiện nay, đã tách ra từ khối Việt - Mường chung để hình thành tộc người riêng biệt.
 
 <!-- id: EVT-0124 -->
-*   **602:** Nhà Tùy sai Lưu Phương đem quân xâm lược, Lý Phật Tử (Hậu Lý Nam Đế) đầu hàng, nước Vạn Xuân kết thúc.
+*   **602:** Nhà Tùy sai Lưu Phương đem quân xâm lược, Lý Phật Tử (Hậu Lý Nam Đế) đầu hàng, nước Vạn Xuân kết thúc. [Nguồn: Lý Phật Tử – Hậu Lý Nam Đế, https://hoangthanhthanglong.vn/ly-phat-tu-hau-ly-nam-de-2/]
 
 <!-- id: EVT-0125 -->
-*   **605:** Tướng Tùy là Lưu Phương đem quân đánh Lâm Ấp (Champa), cướp phá kinh thành.
+*   **605:** Tướng Tùy là Lưu Phương đem quân đánh Lâm Ấp (Champa), cướp phá kinh thành. [Nguồn: Về quốc hiệu của vương quốc Champa, https://baodanang.vn/ve-quoc-hieu-cua-vuong-quoc-champa-3233843.html]
 
 <!-- id: EVT-0126 -->
-*   **Năm 621:** Đường Cao Tổ sai Khâu Hòa làm Đại Tổng quản sang cai trị Giao Châu, củng cố sự kiểm soát của nhà Đường.
+*   **Năm 621:** Đường Cao Tổ sai Khâu Hòa làm Đại Tổng quản sang cai trị Giao Châu, củng cố sự kiểm soát của nhà Đường. [Nguồn: Hà Nội trong nghìn năm Bắc thuộc và chống Bắc thuộc, https://vov.vn/ha-noi-ngan-nam/ha-noi-trong-nghin-nam-bac-thuoc-va-chong-bac-thuoc-111324.vov]
 
 <!-- id: EVT-0127 -->
-*   **622:** Nhà Đường đặt Giao Châu đại tổng quản phủ, quản lĩnh 10 châu.
+*   **622:** Nhà Đường đặt Giao Châu đại tổng quản phủ, quản lĩnh 10 châu. [Nguồn: Vài nét về vùng đất Hà Nội thời kỳ tiền Thăng Long, https://hoangthanhthanglong.vn/nguoc-dong-lich-su-ha-noi-thoi-ky-tien-thang-long-ky-1-vai-net-ve-vung-dat-ha-noi-thoi-ky-tien-thang-long]
 
 <!-- id: EVT-0128 -->
-*   **679:** Nhà Đường đổi Giao Châu thành An Nam Đô hộ phủ.
+*   **679:** Nhà Đường đổi Giao Châu thành An Nam Đô hộ phủ. [Nguồn: Vài nét về vùng đất Hà Nội thời kỳ tiền Thăng Long, https://hoangthanhthanglong.vn/nguoc-dong-lich-su-ha-noi-thoi-ky-tien-thang-long-ky-1-vai-net-ve-vung-dat-ha-noi-thoi-ky-tien-thang-long]
 
 <!-- id: EVT-0129 -->
-*   **687:** Cuộc khởi nghĩa của Lý Tự Tiên và Đinh Kiến.
+*   **687:** Cuộc khởi nghĩa của Lý Tự Tiên và Đinh Kiến. [Nguồn: Lý Tự Tiên (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/L%C3%BD_T%E1%BB%B1_Ti%C3%AAn]
 
 <!-- id: EVT-0130 -->
 *   **Năm 711:** Nhà Đường lập Phong Châu đô đốc phủ và Hoan Châu đô đốc phủ để phân chia và siết chặt ách đô hộ đối với các khu vực miền núi và phía Nam.
 
 <!-- id: EVT-0131 -->
-*   **713 - 722:** Mai Thúc Loan dấy binh khởi nghĩa chống lại ách đô hộ của nhà Đường. Ông giải phóng Hoan Châu, xưng là Mai Hắc Đế, lập quốc đô tại thành Vạn An (Nam Đàn, Nghệ An) và liên kết với các nước láng giềng chống lại quân đô hộ trước khi cuộc khởi nghĩa bị nhà Đường đàn áp vào năm 722.
+*   **713 - 722:** Mai Thúc Loan dấy binh khởi nghĩa chống lại ách đô hộ của nhà Đường. Ông giải phóng Hoan Châu, xưng là Mai Hắc Đế, lập quốc đô tại thành Vạn An (Nam Đàn, Nghệ An) và liên kết với các nước láng giềng chống lại quân đô hộ trước khi cuộc khởi nghĩa bị nhà Đường đàn áp vào năm 722. [Nguồn: Lễ kỷ niệm 1310 năm khởi nghĩa Hoan Châu (713-2023), https://www.nghean.gov.vn/tin-noi-bat/le-ky-niem-1310-nam-khoi-nghia-hoan-chau-713-2023-546688]
 
 ![Hình ảnh tư liệu](images/event_20260923_213701.webp)
 
 *Nguồn: Tượng Hoàng đế Mai Thúc Loan / Wikimedia Commons*
 
 <!-- id: EVT-0132 -->
-*   **722 (Nhâm Tuất):** Sau các trận kịch chiến vây hãm dữ dội của quân nhà Đường, Mai Hắc Đế (Mai Thúc Loan) lâm bệnh và qua đời trong rừng vắng. Con trai là Mai Thúc Huy (Mai Thiếu Đế) được nghĩa quân tôn lên nối ngôi vua, lui về cố thủ tại căn cứ Hùng Sơn (Nam Đàn, Nghệ An) tiếp tục lãnh đạo cuộc kháng chiến chống quân xâm lược.
+*   **722 (Nhâm Tuất):** Sau các trận kịch chiến vây hãm dữ dội của quân nhà Đường, Mai Hắc Đế (Mai Thúc Loan) lâm bệnh và qua đời trong rừng vắng. Con trai là Mai Thúc Huy (Mai Thiếu Đế) được nghĩa quân tôn lên nối ngôi vua, lui về cố thủ tại căn cứ Hùng Sơn (Nam Đàn, Nghệ An) tiếp tục lãnh đạo cuộc kháng chiến chống quân xâm lược. [Nguồn: Lễ kỷ niệm 1310 năm khởi nghĩa Hoan Châu (713-2023), https://www.nghean.gov.vn/tin-noi-bat/le-ky-niem-1310-nam-khoi-nghia-hoan-chau-713-2023-546688]
 
 <!-- id: EVT-0133 -->
-*   **723 (Quý Hợi):** Hai tướng nhà Đường là Dương Tư Húc và Quang Sở Khách đem đại quân đánh phá căn cứ Hùng Sơn. Mai Thiếu Đế cùng các tướng lĩnh kiên cường chiến đấu đến hơi thở cuối cùng và hy sinh anh dũng tại trận tiền, cuộc khởi nghĩa Mai Hắc Đế hoàn toàn kết thúc.
+*   **723 (Quý Hợi):** Hai tướng nhà Đường là Dương Tư Húc và Quang Sở Khách đem đại quân đánh phá căn cứ Hùng Sơn. Mai Thiếu Đế cùng các tướng lĩnh kiên cường chiến đấu đến hơi thở cuối cùng và hy sinh anh dũng tại trận tiền, cuộc khởi nghĩa Mai Hắc Đế hoàn toàn kết thúc. [Nguồn: Lễ kỷ niệm 1310 năm khởi nghĩa Hoan Châu (713-2023), https://www.nghean.gov.vn/tin-noi-bat/le-ky-niem-1310-nam-khoi-nghia-hoan-chau-713-2023-546688]
 
 <!-- id: EVT-0134 -->
-*   **766 - 791:** Cuộc khởi nghĩa của Phùng Hưng (Bố Cái Đại Vương).
+*   **766 - 791:** Cuộc khởi nghĩa của Phùng Hưng (Bố Cái Đại Vương). [Nguồn: Bố Cái Đại Vương Phùng Hưng và khát vọng tự chủ dân tộc, https://vov2.vov.vn/van-hoa-giai-tri/bo-cai-dai-vuong-phung-hung-va-khat-vong-tu-chu-dan-toc-59542.vov2]
 
 <!-- id: EVT-0135 -->
-*   **767:** Quân Srivijaya (Chà Và) và Côn Lôn xâm phạm Giao Châu, bị Kinh lược sứ Trương Bá Nghi đánh tan.
+*   **767:** Quân Srivijaya (Chà Và) và Côn Lôn xâm phạm Giao Châu, bị Kinh lược sứ Trương Bá Nghi đánh tan. [Nguồn: Srivijaya (Wikipedia tiếng Việt) – cuộc tấn công Giao Châu năm 767, https://vi.wikipedia.org/wiki/Srivijaya]
 
 <!-- id: EVT-0136 -->
-*   **780 (Canh Thân):** Khương Công Phụ thi đỗ Tiến sĩ tại nhà Đường, làm quan đến chức Gián nghị Đại phu.
+*   **780 (Canh Thân):** Khương Công Phụ thi đỗ Tiến sĩ tại nhà Đường, làm quan đến chức Gián nghị Đại phu. [Nguồn: Người Việt duy nhất đỗ Trạng nguyên, làm Tể tướng triều Đường, https://nguoiquansat.vn/nguoi-viet-duy-nhat-do-trang-nguyen-lam-den-chuc-te-tuong-o-trieu-dai-hung-thinh-nhat-cua-trung-quoc-voi-kha-nang-du-viec-nhu-than-vang-danh-coi-bac-115844.html]
 
 <!-- id: EVT-0137 -->
-*   **789 (Kỷ Tỵ):** Phùng Hưng qua đời. Con là Phùng An nối ngôi, tôn cha là Bố Cái Đại Vương.
+*   **789 (Kỷ Tỵ):** Phùng Hưng qua đời. Con là Phùng An nối ngôi, tôn cha là Bố Cái Đại Vương. [Nguồn: Chuyện về Phùng Hưng của đất Đường Lâm hai vua, https://baotanglichsu.vn/vi/Articles/3098/12335/chuyen-ve-phung-hung-cua-djat-djuong-lam-hai-vua.html]
 
 <!-- id: EVT-0138 -->
-*   **791 (Tân Mùi):** Thứ sử An Nam đô hộ phủ nhà Đường là Triệu Xương đem quân vây hãm phủ thành Tống Bình (Hà Nội). Con trai của Bố Cái Đại Vương Phùng Hưng là Phùng An thế cùng lực kiệt, buộc phải mở cửa thành ra hàng quân Đường, chấm dứt quyền tự chủ ngắn ngủi của chính quyền họ Phùng.
+*   **791 (Tân Mùi):** Thứ sử An Nam đô hộ phủ nhà Đường là Triệu Xương đem quân vây hãm phủ thành Tống Bình (Hà Nội). Con trai của Bố Cái Đại Vương Phùng Hưng là Phùng An thế cùng lực kiệt, buộc phải mở cửa thành ra hàng quân Đường, chấm dứt quyền tự chủ ngắn ngủi của chính quyền họ Phùng. [Nguồn: Chuyện về Phùng Hưng của đất Đường Lâm hai vua, https://baotanglichsu.vn/vi/Articles/3098/12335/chuyen-ve-phung-hung-cua-djat-djuong-lam-hai-vua.html]
 
 <!-- id: EVT-0139 -->
-*   **819 - 820:** Cuộc khởi nghĩa của Dương Thanh.
+*   **819 - 820:** Cuộc khởi nghĩa của Dương Thanh. [Nguồn: Khởi nghĩa Dương Thanh, https://doluong.gov.vn?p=10447]
 
 <!-- id: EVT-0140 -->
-*   **09/820:** Thiền sư Vô Ngôn Thông đến chùa Kiến Sơ, sáng lập thiền phái Vô Ngôn Thông.
+*   **09/820:** Thiền sư Vô Ngôn Thông đến chùa Kiến Sơ, sáng lập thiền phái Vô Ngôn Thông. [Nguồn: Dòng thiền Vô Ngôn Thông ở Việt Nam thế kỷ VIII-XII, https://tapchinghiencuuphathoc.vn/dong-thien-vo-ngon-thong-o-viet-nam-the-ky-viii-xii.html]
 
 <!-- id: EVT-0141 -->
-*   **822:** Đô hộ Lý Nguyên Gia (Lý Nguyên Hỷ) dời phủ trị đến khu vực sông Tô Lịch và cho xây dựng thành Đại La. Sự kiện này gắn liền với các truyền thuyết về thần sông Tô Lịch được ghi chép trong *Việt Điện U Linh Tập*.
+*   **822:** Đô hộ Lý Nguyên Gia (Lý Nguyên Hỷ) dời phủ trị đến khu vực sông Tô Lịch và cho xây dựng thành Đại La. Sự kiện này gắn liền với các truyền thuyết về thần sông Tô Lịch được ghi chép trong *Việt Điện U Linh Tập*. [Nguồn: Tô Lịch (Việt sử giai thoại), https://scov.gov.vn/ban-sac-van-hoa/viet-su-giai-thoai/to-lich.html]
 
 <!-- id: EVT-0142 -->
-*   **Năm 824:** Đô hộ Lý Nguyên Gia cho khởi công đắp La Thành đầu tiên bằng đất dọc bờ sông Tô Lịch để tăng cường phòng thủ trị sở An Nam đô hộ phủ, đặt tiền đề cho việc mở rộng quy mô thành Đại La về sau.
+*   **Năm 824:** Đô hộ Lý Nguyên Gia cho khởi công đắp La Thành đầu tiên bằng đất dọc bờ sông Tô Lịch để tăng cường phòng thủ trị sở An Nam đô hộ phủ, đặt tiền đề cho việc mở rộng quy mô thành Đại La về sau. [Nguồn: Đại La (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_La]
 
 <!-- id: EVT-0143 -->
-*   **Năm 858:** Lý Trác được bổ nhiệm làm An Nam Đô hộ; chính sách cai trị tham lam và hà khắc của viên quan này đã kích động sự bất mãn sâu sắc của các thủ lĩnh thiểu số vùng biên giới, khiến họ liên kết và mở đường cho quân Nam Chiếu liên tiếp tiến đánh xâm lược Giao Châu.
+*   **Năm 858:** Lý Trác được bổ nhiệm làm An Nam Đô hộ; chính sách cai trị tham lam và hà khắc của viên quan này đã kích động sự bất mãn sâu sắc của các thủ lĩnh thiểu số vùng biên giới, khiến họ liên kết và mở đường cho quân Nam Chiếu liên tiếp tiến đánh xâm lược Giao Châu. [Nguồn: Hà Nội trong nghìn năm Bắc thuộc và chống Bắc thuộc, https://vov.vn/ha-noi-ngan-nam/ha-noi-trong-nghin-nam-bac-thuoc-va-chong-bac-thuoc-111324.vov]
 
 <!-- id: EVT-0144 -->
-*   **862 - 863:** Sái Kinh ghen ghét hãm hại Sái Tập khiến Sái Tập bị cô lập. Quân Nam Chiếu vây đánh, Sái Tập tử trận khi thành thất thủ vào tháng 1 năm 863.
+*   **862 - 863:** Sái Kinh ghen ghét hãm hại Sái Tập khiến Sái Tập bị cô lập. Quân Nam Chiếu vây đánh, Sái Tập tử trận khi thành thất thủ vào tháng 1 năm 863. [Nguồn: Hà Nội trong nghìn năm Bắc thuộc và chống Bắc thuộc, https://vov.vn/ha-noi-ngan-nam/ha-noi-trong-nghin-nam-bac-thuoc-va-chong-bac-thuoc-111324.vov]
 
 <!-- id: EVT-0145 -->
-*   **07/865 (Ất Dậu):** Cao Biền chuẩn bị quân ở Hải Môn để phản công quân Nam Chiếu.
+*   **07/865 (Ất Dậu):** Cao Biền chuẩn bị quân ở Hải Môn để phản công quân Nam Chiếu. [Nguồn: Cao Biền (Wikipedia tiếng Việt) – Hải Môn 865, https://vi.wikipedia.org/wiki/Cao_Bi%E1%BB%81n]
 
 <!-- id: EVT-0146 -->
-*   **866:** Cao Biền đánh bại Nam Chiếu, nhà Đường đổi An Nam đô hộ phủ làm Tĩnh Hải quân. Cao Biền cho xây đắp lại thành Đại La.
+*   **866:** Cao Biền đánh bại Nam Chiếu, nhà Đường đổi An Nam đô hộ phủ làm Tĩnh Hải quân. Cao Biền cho xây đắp lại thành Đại La. [Nguồn: Hà Nội trong nghìn năm Bắc thuộc và chống Bắc thuộc, https://vov.vn/ha-noi-ngan-nam/ha-noi-trong-nghin-nam-bac-thuoc-va-chong-bac-thuoc-111324.vov]
 
 <!-- id: EVT-0147 -->
-*   **868:** Cao Biền tổ chức đào kênh Thiên Uy để thuận tiện cho việc vận chuyển đường thủy.
+*   **868:** Cao Biền tổ chức đào kênh Thiên Uy để thuận tiện cho việc vận chuyển đường thủy. [Nguồn: Cao Biền (Wikipedia tiếng Việt) – thủy lộ và năm 868, https://vi.wikipedia.org/wiki/Cao_Bi%E1%BB%81n]
 
 <!-- id: EVT-0148 -->
-*   **875:** Vua Indravarman II của Champa lập triều đại mới tại Indrapura (Quảng Nam), Phật giáo Đại thừa phát triển cực thịnh (phong cách Đồng Dương).
+*   **875:** Vua Indravarman II của Champa lập triều đại mới tại Indrapura (Quảng Nam), Phật giáo Đại thừa phát triển cực thịnh (phong cách Đồng Dương). [Nguồn: Phòng trưng bày Đồng Dương, https://chammuseum.vn/QLHVTrungbay.aspx?IDP=3]
 
 <!-- id: EVT-0149 -->
-*   **Khoảng thế kỷ X:** Chữ Nôm bắt đầu hình thành sau khi thoát khỏi ách đô hộ phương Bắc, ban đầu được dùng để ghi chép các tên người, địa danh.
+*   **Khoảng thế kỷ X:** Chữ Nôm bắt đầu hình thành sau khi thoát khỏi ách đô hộ phương Bắc, ban đầu được dùng để ghi chép các tên người, địa danh. [Nguồn: Chữ Nôm trong hành trình di sản văn hóa dân tộc, https://archives.org.vn/chu-nom-trong-hanh-trinh-di-san-van-hoa-dan-toc.htm]
 
 <!-- id: EVT-0150 -->
-*   **905:** Khúc Thừa Dụ giành quyền tự chủ, tự xưng là Tiết độ sứ.
+*   **905:** Khúc Thừa Dụ giành quyền tự chủ, tự xưng là Tiết độ sứ. [Nguồn: Dâng hương tưởng niệm Anh hùng dân tộc Khúc Thừa Dụ, https://chinhsachcuocsong.vnanet.vn/dang-huong-tuong-niem-anh-hung-dan-toc-khuc-thua-du/24281.html]
 
 <!-- id: EVT-0151 -->
-*   **907:** Khúc Hạo nối nghiệp cha, tiến hành nhiều cải cách quan trọng.
+*   **907:** Khúc Hạo nối nghiệp cha, tiến hành nhiều cải cách quan trọng. [Nguồn: Quan điểm của GS Phan Huy Lê về sự nghiệp họ Khúc, https://se.ctu.edu.vn/hoat-dong-su/thong-tin-chuyen-nganh/676-quan-diem-cua-giao-su-phan-huy-le-ve-su-nghiep-cua-ho-khuc-trong-cong-cuoc-dung-nen-tu-chu-vao-nua-dau-the-ky-x-qua-cong-trinh-lich-su-va-van-hoa-viet-nam-tiep-can-bo-phan.html]
 
 <!-- id: EVT-0152 -->
-*   **917:** Khúc Thừa Mỹ kế vị.
+*   **917:** Khúc Thừa Mỹ kế vị. [Nguồn: Họ Khúc dấy nghiệp (905-938): Thời kỳ tự chủ, https://baotanglichsuquocgia.vn/vi/Articles/3096/11647/ho-khuc-day-nghiep-905-938-thoi-ky-tu-chu.html]
 
 <!-- id: EVT-0153 -->
-*   **923:** Quân Nam Hán xâm lược, bắt được Khúc Thừa Mỹ.
+*   **923:** Quân Nam Hán xâm lược, bắt được Khúc Thừa Mỹ. [Nguồn: Họ Khúc dấy nghiệp (905-938): Thời kỳ tự chủ, https://baotanglichsuquocgia.vn/vi/Articles/3096/11647/ho-khuc-day-nghiep-905-938-thoi-ky-tu-chu.html]
 
 <!-- id: EVT-0154 -->
-*   **931:** Dương Đình Nghệ đánh đuổi quân Nam Hán, tự xưng là Tiết độ sứ.
+*   **931:** Dương Đình Nghệ đánh đuổi quân Nam Hán, tự xưng là Tiết độ sứ. [Nguồn: Võ tướng Dương Đình Nghệ – người khởi binh đánh đuổi quân Nam Hán, https://baotanglichsu.vn/vi/Articles/3098/15781/vo-tuong-duong-djinh-nghe-nguoi-khoi-binh-djanh-djuoi-quan-nam-han-giai-phong-thanh-djai-la-gianh-quyen-tu-chu-cho-nuoc-viet.html]
 
 <!-- id: EVT-0155 -->
-*   **937:** Kiều Công Tiễn giết Dương Đình Nghệ để đoạt chức.
+*   **937:** Kiều Công Tiễn giết Dương Đình Nghệ để đoạt chức. [Nguồn: Ngô Quyền và chiến thắng Bạch Đằng lịch sử, https://nhandan.vn/ngo-quyen-va-chien-thang-bach-dang-lich-su-post484767.html]
 
 <!-- id: EVT-0156 -->
-*   **12/937:** Ngô Quyền từ Ái Châu kéo quân ra Bắc để hỏi tội Kiều Công Tiễn.
+*   **12/937:** Ngô Quyền từ Ái Châu kéo quân ra Bắc để hỏi tội Kiều Công Tiễn. [Nguồn: Ngô Quyền và chiến thắng Bạch Đằng lịch sử, https://nhandan.vn/ngo-quyen-va-chien-thang-bach-dang-lich-su-post484767.html]
 
 <!-- id: EVT-0157 -->
-*   **Cuối đông 938:** Trận Bạch Đằng. Ngô Quyền dùng kế cắm cọc nhọn bọc sắt dưới lòng sông, dụ thủy quân Nam Hán do Lưu Hoằng Tháo chỉ huy vượt qua bãi cọc lúc triều dâng. Khi triều rút, thuyền Nam Hán mắc cạn và bị đâm thủng. Hơn một nửa trong số 2 vạn quân Nam Hán chết đuối, Lưu Hoằng Tháo tử trận. Chiến thắng chấm dứt hoàn toàn hơn 1000 năm Bắc thuộc.
+*   **Cuối đông 938:** Trận Bạch Đằng. Ngô Quyền dùng kế cắm cọc nhọn bọc sắt dưới lòng sông, dụ thủy quân Nam Hán do Lưu Hoằng Tháo chỉ huy vượt qua bãi cọc lúc triều dâng. Khi triều rút, thuyền Nam Hán mắc cạn và bị đâm thủng. Hơn một nửa trong số 2 vạn quân Nam Hán chết đuối, Lưu Hoằng Tháo tử trận. Chiến thắng chấm dứt hoàn toàn hơn 1000 năm Bắc thuộc. [Nguồn: 3 trận thủy chiến trên Bạch Đằng Giang, https://haiphong.gov.vn/tin-tuc-su-kien/3-tran-thuy-chien-lam-nen-nhungtrang-su-hao-hung-tren-Bach-Dang-Giang-55795]
 
 ![Hình ảnh tư liệu](images/event_20260923_105131.webp)
 

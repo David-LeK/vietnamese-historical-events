@@ -12,7 +12,7 @@
 *   **Approximately 300,000 years ago:** The existence of Ape-man is evidenced by stone tools at the Nui Do archaeological site (Thanh Hoa). [Source: Thanh Hoa Party Portal - History of Thanh Hoa, https://dcsth.hanhchinhcong.net/tinhuy/KenhTin/Lich-su-phat-trien.aspx]
 
 <!-- id: EVT-0004 -->
-*   **Approximately 250,000 - 140,000 years ago:** Traces of archaic Homo Sapiens in Tham Om (Nghe An).
+*   **Approximately 250,000 - 140,000 years ago:** Traces of archaic Homo Sapiens in Tham Om (Nghe An). [Source: Pleistocene Hominoids of Vietnam – Tham Om Cave (Schwartz et al., American Museum of Natural History), https://sites.pitt.edu/~jhs/articles/hominoid_vietnam.pdf]
 
 <!-- id: EVT-0005 -->
 *   **Approximately 23,500 BC (25,510 years ago):** Soi Nhu Culture period (Quang Ninh), one of the earliest cultures with traces of human habitation in limestone caves near the sea. [Source: VietnamNet - Ha Long Bay, an ancient cradle of mankind, https://vietnamnet.vn/en/ha-long-bay-an-ancient-cradle-of-mankind-E193334.html]
@@ -83,7 +83,7 @@
 *   **Approximately late 3rd millennium BC - early 2nd millennium BC:** Phung Nguyen Culture period, marking the beginning of the Metal Age. [Source: Vietnam National Museum of History - Pre-Dong Son cultures, https://baotanglichsu.vn/en/Articles/4191/pre-dong-son-cultures-phung-nguyen-dong-dau-go-mun-c-4-000-2-5000-bp]
 
 <!-- id: EVT-0022 -->
-*   **Approximately 2,000 BC (4,000 years ago):** Date of the Man Bac Culture site (Ninh Binh), featuring human remains that reflect interbreeding between indigenous Southeast Asian and northern migratory populations, marking the transition from Da But to Phung Nguyen Culture. [Source: Vietnam News, https://vietnamnews.vn/sunday/1729524/ninh-binh-archaeological-site-holds-vast-trove-of-heritage.html]
+*   **Approximately 2,000 BC (4,000 years ago):** Date of the Man Bac Culture site (Ninh Binh), featuring human remains that reflect interbreeding between indigenous Southeast Asian and northern migratory populations, marking the transition from Da But to Phung Nguyen Culture. [Source: Wikipedia - Bau Tro, https://vi.wikipedia.org/wiki/Bàu_Tró]
 
 <!-- id: EVT-0023 -->
 *   **Approximately 2,000 - 1,500 BC (4,000 - 3,500 years ago):** Bau Tro Culture period. [Source: Wikipedia - Quynh Van culture, https://en.wikipedia.org/wiki/Quỳnh_Văn_culture]
@@ -116,7 +116,7 @@
 *   **Approximately 500 BC:** Dong Nai Culture period (Southeast region), a metallurgical culture connecting the Bronze and Iron Ages. [Source: The Dong Nai culture, c. 2,500-2,000 BP, https://baotanglichsu.vn/en/Articles/4195/the-dong-nai-culture-c-2-500-2-000-bp]
 
 <!-- id: EVT-0032 -->
-*   **Around 500 BC:** Dong Son bronze casting reached its artistic zenith with the creation of the Ngoc Lu and Hoang Ha bronze drums, reflecting spiritual life, agricultural production, and superior metallurgical technology of the ancient Vietnamese. [Source: Collection of Dong Son bronze drums, c. 2,500-2,000 BP, https://baotanglichsu.vn/en/Articles/1556/35784/collection-of-dong-son-bronze-drums-c-2-500-2-000-bp.html]
+*   **Around 500 BC:** Dong Son bronze casting reached its artistic zenith with the creation of the Ngoc Lu and Hoang Ha bronze drums, reflecting spiritual life, agricultural production, and superior metallurgical technology of the ancient Vietnamese. [Source: National Treasures: The Ngoc Lu Drum (Vietnam National Museum of History), https://baotanglichsu.vn/en/Articles/1004/73640/national-treasures-the-ngoc-lu-drum.html]
 
 ![Historical Image](images/event_20260923_105043.webp)
 
@@ -124,7 +124,7 @@
 
 
 <!-- id: EVT-0033 -->
-*   **Around the 3rd - 2nd century BC:** Buddhism may have begun to be introduced to Vietnam by sea from India. This was the earliest religion to arrive and has been localized, becoming a dominant ideology in national culture throughout many historical periods. [Source: Buddhism in Vietnam, https://en.wikipedia.org/wiki/Buddhism_in_Vietnam]
+*   **Around the 3rd - 2nd century BC:** Buddhism may have begun to be introduced to Vietnam by sea from India. This was the earliest religion to arrive and has been localized, becoming a dominant ideology in national culture throughout many historical periods. [Source: Overview of Vietnamese Buddhist History From Introduction to Present (Journal of Buddhist Studies), https://www.tapchinghiencuuphathoc.vn/so-luoc-nguon-goc-lich-su-phat-giao-viet-nam-tu-thoi-ky-du-nhap-den-nay.html]
 
 <!-- id: EVT-0034 -->
 *   **258 BC:** Thuc Phan (chieftain of the Tay Au / Au Viet tribes) launched a military offensive against Van Lang. With the late Van Lang court weakened and caught unprepared, the forces of the 18th Hung King (Hung Due Vuong) were defeated. Thuc Phan conquered the realm, officially concluding the era of the 18 Hung Kings' reign under the Hong Bang Clan. [Source: A glimpse of Vietnam oldest citadel, https://vovworld.vn/media/a-glimpse-of-vietnams-oldest-citadel-1933383.vov5]
@@ -189,7 +189,7 @@
 
 
 <!-- id: EVT-0048 -->
-*   **137 BC:** Zhao Tuo passed away at over 100 years old after nearly 70 years of reign. His grandson Zhao Mo succeeded him as King Wen of Nanyue (Trieu Van Vuong). [Source: Zhao Tuo, ChinaKnowledge Encyclopaedia on Chinese History, http://www.chinaknowledge.de/History/Han/personszhaotuo.html]
+*   **137 BC:** Zhao Tuo passed away at over 100 years old after nearly 70 years of reign. His grandson Zhao Mo succeeded him as King Wen of Nanyue (Trieu Van Vuong). [Source: Complete Annals of Dai Viet, Outer Annals – Trieu Dynasty, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_I/Ngoại_kỷ/Cuốn_thứ_hai/Triều_họ_Triệu]
 
 <!-- id: EVT-0049 -->
 *   **135 BC:** The Minyue kingdom invaded Nanyue. King Wen of Nanyue requested Emperor Wu of Han to intervene; the Han dynasty sent troops to attack Minyue, causing Nanyue to become increasingly subject to Han diplomatic influence. [Source: Han campaigns against Minyue, https://en.wikipedia.org/wiki/Han_campaigns_against_Minyue]
@@ -216,331 +216,331 @@
 *   **1st - 7th century:** The Kingdom of Funan (Phu Nam) flourished in the Mekong Delta. Associated with the Oc Eo Culture, it was a major commercial center connecting maritime trade routes between the East and West. [Source: Kingdom of Funan — Early Mekong Delta Civilization, First to Seventh Century, https://www.ebsco.com/research-starters/anthropology/kingdom-funan]
 
 <!-- id: EVT-0057 -->
-*   **9 AD:** Wang Mang overthrew the Western Han to establish the Xin Dynasty. Inspector Dang Tuong maintained peace in Jiaozhi Circuit, making it a safe refuge for many northern scholars fleeing civil war. [Source: The Tragic End of the Chinese Emperor Who Dreamed of a Perfect World — Wang Mang and the Xin Dynasty, https://danviet.vn/ket-cuc-bi-tham-cua-vi-hoang-de-trung-hoa-om-mong-xay-dung-1-the-gioi-hoan-my-7777974106-d712852.html]
+*   **9 AD:** Wang Mang overthrew the Western Han to establish the Xin Dynasty. [Source: The Tragic End of the Chinese Emperor Who Dreamed of a Perfect World — Wang Mang and the Xin Dynasty, https://danviet.vn/ket-cuc-bi-tham-cua-vi-hoang-de-trung-hoa-om-mong-xay-dung-1-the-gioi-hoan-my-7777974106-d712852.html]
 
 <!-- id: EVT-0058 -->
 *   **25 AD:** Xi Guang became Governor of Jiaozhi and Ren Yan became Governor of Jiuzhen. They established schools, taught Chinese literacy, and introduced iron plow agriculture and irrigation techniques to the local population. [Source: Fan Ye, Book of the Later Han, Scroll 86 — Biographies of the Southern Barbarians (Vietnamese translation), https://vi.wikisource.org/wiki/Bi%C3%AAn_d%E1%BB%8Bch:H%E1%BA%ADu_H%C3%A1n_th%C6%B0/Quy%E1%BB%83n_86]
 
 <!-- id: EVT-0059 -->
-*   **29 AD:** Xi Guang and Ren Yan sent envoys to Luoyang to submit to Emperor Guangwu of Eastern Han, officially bringing Jiaozhi under Eastern Han administration.
+*   **29 AD:** Xi Guang and Ren Yan sent envoys to Luoyang to submit to Emperor Guangwu of Eastern Han, officially bringing Jiaozhi under Eastern Han administration. [Source: Complete Annals of Dai Viet, Outer Annals – Eastern Han Period, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_I/Ngoại_kỷ/Cuốn_thứ_ba/Đời_thuộc_Đông_Hán]
 
 <!-- id: EVT-0060 -->
-*   **34:** Han Emperor Guangwu appointed Su Ding as the governor of Jiaozhi. His cruel administration and heavy taxation burdened the local population, laying the groundwork for the Trung Sisters' uprising.
+*   **34:** Han Emperor Guangwu appointed Su Ding as the governor of Jiaozhi. His cruel administration and heavy taxation burdened the local population, laying the groundwork for the Trung Sisters' uprising. [Source: The Trung Sisters Uprising and Resistance Against Eastern Han (40-43), https://nvsk.vnanet.vn/khoi-nghia-hai-ba-trung-va-khang-chien-chong-dong-han-40-43-1-34961.vna]
 
 <!-- id: EVT-0061 -->
-*   **40:** The Trung Sisters launched an uprising, regaining independence. Trung Trac ascended to the throne as queen, establishing the capital at Me Linh.
+*   **40:** The Trung Sisters launched an uprising, regaining independence. Trung Trac ascended to the throne as queen, establishing the capital at Me Linh. [Source: Trung Sisters (d. 43 CE), https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/trung-sisters-d-43-ce]
 
 ![Historical Image](images/event_20260923_122130.webp)
 
 *Source: Dong Ho folk painting: The Trung Sisters riding elephants into battle / Wikimedia Commons*
 
 <!-- id: EVT-0062 -->
-*   **41:** Ma Yuan led an army of 200,000 to invade.
+*   **41:** Ma Yuan led an army of about 20,000 to invade. [Source: Trung Sisters (d. 43 CE), https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/trung-sisters-d-43-ce]
 
 <!-- id: EVT-0063 -->
-*   **43:** The uprising failed following an attack by the Han general Ma Yuan. The Trung Sisters committed suicide in the Hat River. Ma Yuan erected bronze pillars to mark the border.
+*   **43:** The uprising failed following an attack by the Han general Ma Yuan. The Trung Sisters committed suicide in the Hat River. Ma Yuan erected bronze pillars to mark the border. [Source: Trung Sisters (d. 43 CE), https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/trung-sisters-d-43-ce]
 
 ![Historical Image](images/event_20260923_232103.webp)
 
 *Source: Hai Ba Trung Temple (Me Linh, Hanoi) / Origin Vietnam*
 
 <!-- id: EVT-0064 -->
-*   **44:** Following the suppression of the Trung Sisters' uprising, Ma Yuan abolished the hereditary rule of the Lac generals (Lac lords), crushed remaining Lac Viet insurgencies in Tay Vu county, and divided Tay Vu into Phong Khe and Vong Hai counties to enforce direct Han imperial administration.
+*   **44:** Following the suppression of the Trung Sisters' uprising, Ma Yuan abolished the hereditary rule of the Lac generals (Lac lords), crushed remaining Lac Viet insurgencies in Tay Vu county, and divided Tay Vu into Phong Khe and Vong Hai counties to enforce direct Han imperial administration. [Source: On the Legend of Ma Yuan Bronze Pillar at Lam Thanh Mountain, https://vusta.vn/truyen-thuyet-ve-cot-dong-ma-vien-o-nui-lam-thanh-la-hoang-duong-p73044.html]
 
 <!-- id: EVT-0065 -->
-*   **78:** Truong Trong, a native of Nhat Nam commandery, traveled to Luoyang as an envoy. He boldly defended Vietnamese customs and dignity in front of the Han Emperor and court, later becoming the governor of Jincheng.
+*   **78:** Truong Trong, a native of Nhat Nam commandery, traveled to Luoyang as an envoy. He boldly defended Vietnamese customs and dignity in front of the Han Emperor and court, later becoming the governor of Jincheng. [Source: Truong Trong and His Two Sharp Replies That Silenced Emperor Ming of Han, https://danviet.vn/truong-trong-va-2-lan-doi-dap-sac-ben-khien-han-minh-de-im-bat-20240810223226577-d1177900.html]
 
 <!-- id: EVT-0066 -->
-*   **100:** More than 2,000 people in Tuong Lam district (Nhat Nam commandery) rose up against Han rule.
+*   **100:** More than 2,000 people in Tuong Lam district (Nhat Nam commandery) rose up against Han rule. [Source: Trieu Thi Trinh – Outstanding Heroine of the Resistance Against Wu, https://vusta.vn/trieu-thi-trinh-nu-danh-tuong-kiet-xuat-cua-su-nghiep-danh-duoi-quan-ngo-p67963.html]
 
 <!-- id: EVT-0067 -->
-*   **2nd century:** Shi Xie (Si Nhiep) established schools to spread Chinese culture and attempted to eliminate the Vietnamese language and script. However, Confucianism did not take deep root in villages due to the strong indigenous culture.
+*   **2nd century:** Shi Xie (Si Nhiep) established schools to spread Chinese culture and attempted to eliminate the Vietnamese language and script. However, Confucianism did not take deep root in villages due to the strong indigenous culture. [Source: Si Vuong (Shi Xie) (Asia for Educators, Columbia University), https://afe.easia.columbia.edu/ps/vietnam/sivuong.pdf]
 
 <!-- id: EVT-0068 -->
-*   **137:** The people of Tuong Lam district rose up, attacking the Han administrative seat and killing the chief official.
+*   **137:** The people of Tuong Lam district rose up, attacking the Han administrative seat and killing the chief official. [Source: After the Trung Sisters, Cuu Chan and Nhat Nam Rose Up Continuously (Grade-10 History Textbook), https://soha.vn/sau-ba-trung-nhan-dan-cuu-chan-nhat-nam-noi-day-lien-tuc-tiec-la-khong-may-thanh-cong-20190408111945929.htm]
 
 <!-- id: EVT-0069 -->
-*   **138:** The Han dynasty, following Li Gu's strategy, replaced governors and used bribery to cause internal division among the rebels in Nhat Nam, eventually suppressing the uprising.
+*   **138:** The Han dynasty, following Li Gu's strategy, replaced governors and used bribery to cause internal division among the rebels in Nhat Nam, eventually suppressing the uprising. [Source: Complete Annals of Dai Viet, Outer Annals – Eastern Han Period, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_I/Ngoại_kỷ/Cuốn_thứ_ba/Đời_thuộc_Đông_Hán]
 
 <!-- id: EVT-0070 -->
-*   **144:** The people of Nhat Nam and Cuu Chan commanderies rose up against the Han dynasty.
+*   **144:** The people of Nhat Nam and Cuu Chan commanderies rose up against the Han dynasty. [Source: After the Trung Sisters, Cuu Chan and Nhat Nam Rose Up Continuously (Grade-10 History Textbook), https://soha.vn/sau-ba-trung-nhan-dan-cuu-chan-nhat-nam-noi-day-lien-tuc-tiec-la-khong-may-thanh-cong-20190408111945929.htm]
 
 <!-- id: EVT-0071 -->
-*   **157:** Chu Dat led an uprising in Cuu Chan, killing the commandery governor.
+*   **157:** Chu Dat led an uprising in Cuu Chan, killing the commandery governor. [Source: After the Trung Sisters, Cuu Chan and Nhat Nam Rose Up Continuously (Grade-10 History Textbook), https://soha.vn/sau-ba-trung-nhan-dan-cuu-chan-nhat-nam-noi-day-lien-tuc-tiec-la-khong-may-thanh-cong-20190408111945929.htm]
 
 <!-- id: EVT-0072 -->
-*   **160:** The uprising of Chu Dat was completely suppressed by Han forces.
+*   **160:** The uprising of Chu Dat was completely suppressed by Han forces. [Source: Complete Annals of Dai Viet, Outer Annals – Eastern Han Period, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_I/Ngoại_kỷ/Cuốn_thứ_ba/Đời_thuộc_Đông_Hán]
 
 <!-- id: EVT-0073 -->
-*   **166:** Envoys sent by Roman Emperor Marcus Aurelius Antoninus arrived in Nhat Nam to present gifts of ivory and rhinoceros horn to the Han court. This marks the first recorded direct contact between Rome and the Chinese empire via Vietnam.
+*   **166:** Envoys sent by Roman Emperor Marcus Aurelius Antoninus arrived in Nhat Nam to present gifts of ivory and rhinoceros horn to the Han court. This marks the first recorded direct contact between Rome and the Chinese empire via Vietnam. [Source: Marcus Aurelius and a Mysterious Embassy to China, https://www.ancientworldmagazine.com/articles/marcus-aurelius-mysterious-embassy-china/]
 
 <!-- id: EVT-0074 -->
-*   **168 - 189:** During the reign of Emperor Ling of Han, Ly Tien and Ly Cam petitioned the court to abolish the restriction preventing Giao Chi scholars from holding office in the Chinese heartland. Consequently, Giao Chi scholars were appointed to administrative positions.
+*   **168 - 189:** During the reign of Emperor Ling of Han, Ly Tien and Ly Cam petitioned the court to abolish the restriction preventing Giao Chi scholars from holding office in the Chinese heartland. Consequently, Giao Chi scholars were appointed to administrative positions. [Source: Outline History of Vietnam, Vol. I, Part II, Chapter III (Tran Trong Kim), https://vi.wikisource.org/wiki/Việt_Nam_sử_lược/Quyển_I/Phần_II/Chương_III]
 
 <!-- id: EVT-0075 -->
-*   **178:** Luong Long led an uprising in Giao Chi, attracting participation from people in Cuu Chan and Nhat Nam.
+*   **178:** Luong Long led an uprising in Giao Chi, attracting participation from people in Cuu Chan and Nhat Nam. [Source: The Luong Clan and Two Uprisings Under Northern Rule, https://danviet.vn/ho-luong-va-2-cuoc-khoi-nghia-thoi-bac-thuoc-nha-han-nha-tan-run-so-20210913184735806-d976215.html]
 
 <!-- id: EVT-0076 -->
-*   **181:** The Han dynasty dispatched troops to suppress the rebellion, killing Luong Long.
+*   **181:** The Han dynasty dispatched troops to suppress the rebellion, killing Luong Long. [Source: The Luong Clan and Two Uprisings Under Northern Rule, https://danviet.vn/ho-luong-va-2-cuoc-khoi-nghia-thoi-bac-thuoc-nha-han-nha-tan-run-so-20210913184735806-d976215.html]
 
 <!-- id: EVT-0077 -->
-*   **192:** Khu Lien officially established the Lam Ap kingdom.
+*   **192:** Khu Lien officially established the Lam Ap kingdom. [Source: Complete Annals of Dai Viet – Wu, Jin, Song, Qi and Liang Era, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0078 -->
-*   **Around 200:** Shi Xie (Si Nhiep) governed Giao Chau. He is credited with promoting Confucianism and maintaining stability during the chaotic Three Kingdoms period in China, later honored by the Vietnamese as "King Si" (Si Vuong).
+*   **Around 200:** Shi Xie (Si Nhiep) governed Giao Chau. He is credited with promoting Confucianism and maintaining stability during the chaotic Three Kingdoms period in China, later honored by the Vietnamese as "King Si" (Si Vuong). [Source: Si Vuong (Shi Xie) (Asia for Educators, Columbia University), https://afe.easia.columbia.edu/ps/vietnam/sivuong.pdf]
 
 <!-- id: EVT-0079 -->
-*   **200 (Canh Thin year):** Ly Tien, a native of Giao Chau, petitioned the Han Emperor to allow Giao Chau scholars to be appointed as officials in the inner provinces. This marked an early struggle for equal political rights.
+*   **200 (Canh Thin year):** Ly Tien, a native of Giao Chau, petitioned the Han Emperor to allow Giao Chau scholars to be appointed as officials in the inner provinces. This marked an early struggle for equal political rights. [Source: Complete Annals of Dai Viet, Outer Annals – Si Vuong Era, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_I/Ngoại_kỷ/Cuốn_thứ_ba/Triều_Sĩ_Vương]
 
 <!-- id: EVT-0080 -->
-*   **203:** Upon the request of Shi Xie and Governor Zhang Jin, the Eastern Han dynasty officially established **Jiaozhou** (Giao Chau), upgrading it from Jiaozhi circuit, with the capital at Luy Lau (Bac Ninh).
+*   **203:** Upon the request of Shi Xie and Governor Zhang Jin, the Eastern Han dynasty officially established **Jiaozhou** (Giao Chau), upgrading it from Jiaozhi circuit, with the capital at Luy Lau (Bac Ninh). [Source: The Birthplace of Vietnamese Buddhism, https://bacninh.gov.vn/news/-/details/22340/noi-khoi-nguon-phat-giao-viet-nam]
 
 <!-- id: EVT-0081 -->
-*   **210:** Shi Xie sent his son as a hostage and paid tribute to Sun Quan, marking the beginning of Eastern Wu's influence over Jiaozhou.
+*   **210:** Shi Xie sent his son as a hostage and paid tribute to Sun Quan, marking the beginning of Eastern Wu's influence over Jiaozhou. [Source: Complete Annals of Dai Viet, Outer Annals – Si Vuong Era, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_I/Ngoại_kỷ/Cuốn_thứ_ba/Triều_Sĩ_Vương]
 
 <!-- id: EVT-0082 -->
-*   **226:** Shi Xie passed away. Sun Quan of Eastern Wu divided Giao Chau into Guangzhou (North) and Jiaozhou (South).
+*   **226:** Shi Xie passed away. Sun Quan of Eastern Wu divided Giao Chau into Guangzhou (North) and Jiaozhou (South). [Source: Complete Annals of Dai Viet, Outer Annals – Si Vuong Era, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_I/Ngoại_kỷ/Cuốn_thứ_ba/Triều_Sĩ_Vương]
 
 <!-- id: EVT-0083 -->
-*   **227:** Shi Hui (Shi Xie's son) rebelled against Eastern Wu's new appointments but was defeated and executed. Eastern Wu reunified Guangzhou and Jiaozhou to facilitate suppression.
+*   **227:** Shi Hui (Shi Xie's son) rebelled against Eastern Wu's new appointments but was defeated and executed. Eastern Wu reunified Guangzhou and Jiaozhou to facilitate suppression. [Source: Complete Annals of Dai Viet, Outer Annals – Si Vuong Era, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_I/Ngoại_kỷ/Cuốn_thứ_ba/Triều_Sĩ_Vương]
 
 <!-- id: EVT-0084 -->
 *   **231:** Xue Zong (Tiet Tong) submitted a memorial to the Eastern Wu emperor, highlighting that despite the Han dynasty's assimilation policies, the people of Giao Chau (Vietnam) maintained their distinct customs, reflecting their resistance against Sinicization.
 
 <!-- id: EVT-0085 -->
-*   **248:** The uprising of Lady Trieu (Trieu Thi Trinh) and her brother Trieu Quoc Dat broke out in Cuu Chan, shaking the whole Jiaozhou. She famously declared: "I only want to ride the strong wind, tread the rough waves, slay the whale in the East Sea, drive out the Wu army, reclaim the country, and unyoke the slavery, not bend my back to be a concubine for anyone!" Eastern Wu general Lu Yin led 8,000 troops to suppress the rebellion; Lady Trieu sacrificed herself on Mount Tung.
+*   **248:** The uprising of Lady Trieu (Trieu Thi Trinh) and her brother Trieu Quoc Dat broke out in Cuu Chan, shaking the whole Jiaozhou. She famously declared: "I only want to ride the strong wind, tread the rough waves, slay the whale in the East Sea, drive out the Wu army, reclaim the country, and unyoke the slavery, not bend my back to be a concubine for anyone!" Eastern Wu general Lu Yin led 8,000 troops to suppress the rebellion; Lady Trieu sacrificed herself on Mount Tung. [Source: Ba Trieu (225-248 CE), https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/ba-trieu-225-248-ce]
 
 ![Historical Image](images/event_20260923_232101.webp)
 
 *Source: Ba Trieu Temple Festival (Hau Loc, Thanh Hoa) / Báo Nhân Dân*
 
 <!-- id: EVT-0086 -->
-*   **263:** Lu Xing (La Hung) rebelled in Giao Chi, killing the Eastern Wu Governor and submitting to the Cao Wei dynasty. Jiaozhou temporarily escaped Eastern Wu's control.
+*   **263:** Lu Xing (La Hung) rebelled in Giao Chi, killing the Eastern Wu Governor and submitting to the Cao Wei dynasty. Jiaozhou temporarily escaped Eastern Wu's control. [Source: The Northern Domination Era (Lu Xing 263, Tao Huang 271, Jiaozhou under Jin 265), https://voer.edu.vn/m/bac-thuoc/7c0b24e1]
 
 <!-- id: EVT-0087 -->
-*   **264:** The Eastern Wu dynasty re-divided Guangzhou and Jiaozhou, establishing Long Bien as the capital of Jiaozhou.
+*   **264:** The Eastern Wu dynasty re-divided Guangzhou and Jiaozhou, establishing Long Bien as the capital of Jiaozhou. [Source: Complete Annals of Dai Viet – Wu, Jin, Song, Qi and Liang Era, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0088 -->
-*   **265:** The Western Jin dynasty was established (replacing Cao Wei), and Jiaozhou nominally came under its jurisdiction.
+*   **265:** The Western Jin dynasty was established (replacing Cao Wei), and Jiaozhou nominally came under its jurisdiction. [Source: The Northern Domination Era (Lu Xing 263, Tao Huang 271, Jiaozhou under Jin 265), https://voer.edu.vn/m/bac-thuoc/7c0b24e1]
 
 <!-- id: EVT-0089 -->
-*   **268 - 271:** Eastern Wu launched multiple campaigns to retake Jiaozhou. In 271, Wu general Tao Huang successfully recaptured the region from the Western Jin.
+*   **268 - 271:** Eastern Wu launched multiple campaigns to retake Jiaozhou. In 271, Wu general Tao Huang successfully recaptured the region from the Western Jin. [Source: The Northern Domination Era (Lu Xing 263, Tao Huang 271, Jiaozhou under Jin 265), https://voer.edu.vn/m/bac-thuoc/7c0b24e1]
 
 <!-- id: EVT-0090 -->
-*   **280:** The Western Jin dynasty destroyed Eastern Wu, unifying China. Jiaozhou officially became a direct territory of the Western Jin.
+*   **280:** The Western Jin dynasty destroyed Eastern Wu, unifying China. Jiaozhou officially became a direct territory of the Western Jin. [Source: Complete Annals of Dai Viet – Wu, Jin, Song, Qi and Liang Era, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0091 -->
-*   **299:** Trieu Chi led soldiers in Cuu Chan to rebel against the Jin dynasty, killing the governor and besieging the commandery citadel. The rebellion was suppressed shortly after.
+*   **299:** Trieu Chi led soldiers in Cuu Chan to rebel against the Jin dynasty, killing the governor and besieging the commandery citadel. The rebellion was suppressed shortly after. [Source: Complete Annals of Dai Viet – Wu, Jin, Song, Qi and Liang Era, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0092 -->
-*   **317:** Luong Thac, a local military commander, killed Governor Gu Shou, installed Dao Tuy, and opposed the Jin dynasty's appointees (killing Wang Ji and Wang Liang). He controlled Giao Chau until being defeated by General Tao Kan in 323.
+*   **317:** Luong Thac, a local military commander, killed Governor Gu Shou, installed Dao Tuy, and opposed the Jin dynasty's appointees (killing Wang Ji and Wang Liang). He controlled Giao Chau until being defeated by General Tao Kan in 323. [Source: The Luong Clan and Two Uprisings Under Northern Rule, https://danviet.vn/ho-luong-va-2-cuoc-khoi-nghia-thoi-bac-thuoc-nha-han-nha-tan-run-so-20210913184735806-d976215.html]
 
 <!-- id: EVT-0093 -->
-*   **323:** The Jin dynasty sent General Tao Kan to suppress the rebellion. Luong Thac was defeated and executed, returning Giao Chau to Jin control.
+*   **323:** The Jin dynasty sent General Tao Kan to suppress the rebellion. Luong Thac was defeated and executed, returning Giao Chau to Jin control. [Source: The Luong Clan and Two Uprisings Under Northern Rule, https://danviet.vn/ho-luong-va-2-cuoc-khoi-nghia-thoi-bac-thuoc-nha-han-nha-tan-run-so-20210913184735806-d976215.html]
 
 <!-- id: EVT-0094 -->
-*   **351:** Governor Duong Binh of Giao Chi and Governor Hoan Toai of Cuu Chan defeated an invasion by the Lam Ap King Pham Phat.
+*   **351:** Governor Duong Binh of Giao Chi and Governor Hoan Toai of Cuu Chan defeated an invasion by the Lam Ap King Pham Phat. [Source: Complete Annals of Dai Viet – Wu, Jin, Song, Qi and Liang Era, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0095 -->
-*   **353 - 359:** Wars between Giao Chau (Jin dynasty) and Lam Ap (Champa).
+*   **353 - 359:** Wars between Giao Chau (Jin dynasty) and Lam Ap (Champa). [Source: Complete Annals of Dai Viet – Wu, Jin, Song, Qi and Liang Era, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0096 -->
-*   **353:** Governor Nguyen Phu attacked Lam Ap, destroying over 50 fortifications.
+*   **353:** Governor Nguyen Phu attacked Lam Ap, destroying over 50 fortifications. [Source: Complete Annals of Dai Viet – Wu, Jin, Song, Qi, Liang Era (353: Nguyen Phu attacks Lam Ap), https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0097 -->
-*   **359:** Governor On Phong Chi led an army to attack the Lam Ap capital in the Quang Nam region.
+*   **359:** Governor On Phong Chi led an army to attack the Lam Ap capital in the Quang Nam region. [Source: Complete Annals of Dai Viet – Wu, Jin, Song, Qi and Liang Era, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0098 -->
-*   **399:** Lam Ap forces led by Pham Ho Dat attacked Nhat Nam and Cuu Duc, capturing the local governors. Governor Do Vien of Giao Chi defeated them, forcing a retreat. Do Vien was subsequently appointed Governor of Giao Chau.
+*   **399:** Lam Ap forces led by Pham Ho Dat attacked Nhat Nam and Cuu Duc, capturing the local governors. Governor Do Vien of Giao Chi defeated them, forcing a retreat. Do Vien was subsequently appointed Governor of Giao Chau. [Source: Complete Annals of Dai Viet – Wu, Jin, Song, Qi, Liang Era (399: Do Vien defeats Pham Ho Dat), https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0099 -->
-*   **413:** Governor Do Tue Do (son of Do Vien) defeated Lam Ap forces invading Cuu Chan, killing two princes of Lam Ap.
+*   **413:** Governor Do Tue Do (son of Do Vien) defeated Lam Ap forces invading Cuu Chan, killing two princes of Lam Ap. [Source: Complete Annals of Dai Viet – Wu, Jin, Song, Qi, Liang Era (413: Tue Do defeats Lam Ap in Cuu Chan), https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0100 -->
-*   **420:** Do Tue Do launched a campaign against Lam Ap, inflicting heavy casualties. Lam Ap surrendered and resumed paying tribute.
+*   **420:** Do Tue Do launched a campaign against Lam Ap, inflicting heavy casualties. Lam Ap surrendered and resumed paying tribute. [Source: Complete Annals of Dai Viet – Wu, Jin, Song, Qi and Liang Era, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0101 -->
-*   **446:** The Liu Song dynasty general Tan He Zhi attacked Lam Ap, capturing the capital Khu Lat.
+*   **446:** The Liu Song dynasty general Tan He Zhi attacked Lam Ap, capturing the Khu Tuc fort. [Source: Complete Annals of Dai Viet – Wu, Jin, Song, Qi, Liang Era (446: Tan He Zhi takes Khu Tuc fort), https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0102 -->
-*   **468:** Ly Truong Nhan, a local leader, rose up and declared himself Governor (Thu Su), resisting the Liu Song dynasty's appointees. After his death, his cousin Ly Thuc Hien succeeded him and continued to resist the new appointee Shen Huan.
+*   **468:** Ly Truong Nhan, a local leader, rose up and declared himself Governor (Thu Su), resisting the Liu Song dynasty's appointees. After his death, his cousin Ly Thuc Hien succeeded him and continued to resist the new appointee Shen Huan. [Source: Complete Annals of Dai Viet – Wu, Jin, Song, Qi and Liang Era, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0103 -->
-*   **479:** The Southern Qi dynasty replaced the Liu Song dynasty in China. Ly Thuc Hien (successor to Ly Truong Nhan) maintained autonomy in Giao Chau and refused to submit to the new dynasty.
+*   **479:** The Southern Qi dynasty replaced the Liu Song dynasty in China. Ly Thuc Hien (successor to Ly Truong Nhan) maintained autonomy in Giao Chau and refused to submit to the new dynasty. [Source: Complete Annals of Dai Viet – Wu, Jin, Song, Qi, Liang Era (479: Southern Qi confirms Ly Thuc Hien), https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0104 -->
-*   **485:** The Southern Qi Emperor sent General Liu Kai to invade. Ly Thuc Hien surrendered to avoid bloodshed, ending the period of local autonomy.
+*   **485:** The Southern Qi Emperor sent General Liu Kai to invade. Ly Thuc Hien surrendered to avoid bloodshed, ending the period of local autonomy. [Source: Complete Annals of Dai Viet – Wu, Jin, Song, Qi, Liang Era (485: Liu Kai invades, Thuc Hien surrenders), https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0105 -->
-*   **Oct. 490:** Phong Phap Thang was appointed Governor. He was later overthrown by Phuc Dang Chi due to his excessive obsession with reading books and neglecting administrative duties.
+*   **Oct. 490:** Phong Phap Thang was appointed Governor. He was later overthrown by Phuc Dang Chi due to his excessive obsession with reading books and neglecting administrative duties. [Source: Complete Annals of Dai Viet – Wu, Jin, Song, Qi, Liang Era (490: Fu Dengzhi overthrows Feng Fa Sheng), https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0106 -->
-*   **October 17, 503:** Ly Bi (later Emperor Ly Nam De), the founder of the Van Xuan kingdom and a descendant of a family that had settled in Vietnam for seven generations, was born in Thai Binh district.
+*   **October 17, 503:** Ly Bi (later Emperor Ly Nam De), the founder of the Van Xuan kingdom and a descendant of a family that had settled in Vietnam for seven generations, was born in Thai Binh district. [Source: Ly Nam De Names the Country Van Xuan, https://hoangthanhthanglong.vn/ly-nam-de-dat-ten-nuoc-la-van-xuan-2/]
 
 <!-- id: EVT-0107 -->
-*   **541:** Ly Bi raised troops against the Liang dynasty. Governor Xiao Zi fled to the north.
+*   **541:** Ly Bi raised troops against the Liang dynasty. Governor Xiao Zi fled to the north. [Source: Contributing to the Ly Bi Uprising, https://baothainguyen.vn/dat-va-nguoi-thai-nguyen/202304/gop-suc-vao-cuoc-khoi-nghia-ly-bi-f977027]
 
 <!-- id: EVT-0108 -->
-*   **542:** The Liang dynasty sent troops to suppress the uprising but were defeated.
+*   **542:** The Liang dynasty sent troops to suppress the uprising but were defeated. [Source: Complete Annals of Dai Viet – Wu, Jin, Song, Qi and Liang Era, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_II/Cuốn_thứ_tư/Đời_thuộc_về_Ngô,_Tấn,_Tống,_Tề,_Lương]
 
 <!-- id: EVT-0109 -->
-*   **Early 543:** The Liang dynasty mobilized an army for another invasion. Ly Bi took the initiative, leading his forces to Hepu to intercept and decisively defeat the Liang army, inflicting severe casualties.
+*   **Early 543:** The Liang dynasty mobilized an army for another invasion. Ly Bi took the initiative, leading his forces to Hepu to intercept and decisively defeat the Liang army, inflicting severe casualties. [Source: The Van Xuan Kingdom: Aspiration for State-Building and Defense, https://vov2.vov.vn/van-hoa-giai-tri/nha-nuoc-van-xuan-khat-vong-dung-nuoc-va-giu-nuoc-57681.vov2]
 
 <!-- id: EVT-0110 -->
-*   **544:** Ly Bi proclaimed himself the Southern Viet Emperor (Ly Nam De), founded the Van Xuan kingdom, and established the era name Thien Duc.
+*   **544:** Ly Bi proclaimed himself the Southern Viet Emperor (Ly Nam De), founded the Van Xuan kingdom, and established the era name Thien Duc. [Source: Feb. 544 – Ly Nam De Proclaims Independence, Nation Named Van Xuan, https://baotanglichsu.vn/vi/Articles/3097/15798/thang-2-544-ly-nam-dje-tuyen-bo-dung-nuoc-djoc-lap-quoc-hieu-van-xuan.html]
 
 ![Historical Image](images/event_20260923_213702.webp)
 
 *Source: Map of the Van Xuan Kingdom under the Early Ly Dynasty / Wikimedia Commons*
 
 <!-- id: EVT-0111 -->
-*   **May 545:** The Liang dynasty's Emperor Wu sent Duong Phieu, Tran Ba Tien (Chen Baxian), and Tieu Bot to invade Van Xuan. Ly Nam De led 30,000 troops to resist but was defeated at Chu Dien and the To Lich river mouth, where generals Tinh Thieu, Pham Tu, and Trieu Tuc died in battle. Ly Nam De retreated to Gia Ninh citadel (Phu Tho).
+*   **May 545:** The Liang dynasty's Emperor Wu sent Duong Phieu, Tran Ba Tien (Chen Baxian), and Tieu Bot to invade Van Xuan. Ly Nam De led 30,000 troops to resist but was defeated at Chu Dien and the To Lich river mouth, where generals Tinh Thieu, Pham Tu, and Trieu Tuc died in battle. Ly Nam De retreated to Gia Ninh citadel (Phu Tho). [Source: Hanoi During a Thousand Years of Northern Domination and Resistance, https://vov.vn/ha-noi-ngan-nam/ha-noi-trong-nghin-nam-bac-thuoc-va-chong-bac-thuoc-111324.vov]
 
 <!-- id: EVT-0112 -->
-*   **Jan. 546:** Liang general Tran Ba Tien captured Gia Ninh citadel. Ly Nam De fled to the territory of the Lao people in Tan Xuong.
+*   **Jan. 546:** Liang general Tran Ba Tien captured Gia Ninh citadel. Ly Nam De fled to the territory of the Lao people in Tan Xuong. [Source: Ly Nam De (Vietnamese Wikipedia) – 545-546 Campaign, https://vi.wikipedia.org/wiki/L%C3%BD_Nam_%C4%90%E1%BA%BF]
 
 <!-- id: EVT-0113 -->
-*   **Aug. 546 (Binh Dan year):** The Battle of Dien Triet Lake (Lap Thach, Phu Tho) took place. Ly Nam De gathered 20,000 troops from the Lao territory and built many boats. Liang general Chen Baxian (Tran Ba Tien) used a water attack strategy when the river water suddenly rose 7 *thuoc* at night, flooding the lake. The unprepared Van Xuan army was defeated. Ly Nam De had to retreat to Khuat Lao cave.
+*   **Aug. 546 (Binh Dan year):** The Battle of Dien Triet Lake (Lap Thach, Phu Tho) took place. Ly Nam De gathered 20,000 troops from the Lao territory and built many boats. Liang general Chen Baxian (Tran Ba Tien) used a water attack strategy when the river water suddenly rose 7 *thuoc* at night, flooding the lake. The unprepared Van Xuan army was defeated. Ly Nam De had to retreat to Khuat Lao cave. [Source: Ly Nam De (Vietnamese Wikipedia) – Aug. 546 Dien Triet Lake Battle, https://vi.wikipedia.org/wiki/L%C3%BD_Nam_%C4%90%E1%BA%BF]
 
 <!-- id: EVT-0114 -->
-*   **Jan. 547:** Trieu Quang Phuc retreated to the Da Trach swamp (Khoai Chau, Hung Yen) with over 20,000 troops. Utilizing the treacherous, muddy terrain filled with venomous snakes, he employed guerrilla tactics - moving by small dugout canoes, hiding during the day without smoke, and launching night raids on Tran Ba Tien's camps. He earned the title Da Trach Vuong (King of the Night Swamp).
+*   **Jan. 547:** Trieu Quang Phuc retreated to the Da Trach swamp (Khoai Chau, Hung Yen) with over 20,000 troops. Utilizing the treacherous, muddy terrain filled with venomous snakes, he employed guerrilla tactics - moving by small dugout canoes, hiding during the day without smoke, and launching night raids on Tran Ba Tien's camps. He earned the title Da Trach Vuong (King of the Night Swamp). [Source: Trieu Viet Vuong and the Protracted-Resistance Strategy at Da Trach Swamp, http://sknc.qdnd.vn/chuyen-xua-nay/trieu-viet-vuong-va-ke-tri-cuu-chien-o-dam-da-trach-501608]
 
 <!-- id: EVT-0115 -->
-*   **548:** Ly Nam De passed away at Khuat Lao cave, delegating military power to Trieu Quang Phuc. Meanwhile, his older brother Ly Thien Bao and Ly Phat Tu retreated to Ai Lao, found Da Nang cave at the head of the Dao Giang river, built a citadel, and established the state of Da Nang. Ly Thien Bao proclaimed himself Dao Lang Vuong.
+*   **548:** Ly Nam De passed away at Khuat Lao cave, delegating military power to Trieu Quang Phuc. Meanwhile, his older brother Ly Thien Bao and Ly Phat Tu retreated to Ai Lao, found Da Nang cave at the head of the Dao Giang river, built a citadel, and established the state of Da Nang. Ly Thien Bao proclaimed himself Dao Lang Vuong. [Source: Ly Phat Tu – The Later Ly Nam De, https://hoangthanhthanglong.vn/ly-phat-tu-hau-ly-nam-de-2/]
 
 ![Historical Image](images/event_20260923_221130.webp)
 
 *Source: Ly Nam De Memorial Temple / Wikimedia Commons*
 
 <!-- id: EVT-0116 -->
-*   **Mar. 548:** Upon hearing of Ly Nam De's death, Trieu Quang Phuc proclaimed himself Trieu Viet Vuong (King of Trieu Viet).
+*   **Mar. 548:** Upon hearing of Ly Nam De's death, Trieu Quang Phuc proclaimed himself Trieu Viet Vuong (King of Trieu Viet). [Source: Viet King Trieu Quang Phuc, https://nhandan.vn/viet-vuong-trieu-quang-phuc-post465664.html]
 
 <!-- id: EVT-0117 -->
-*   **Jan. 550:** Liang general Tran Ba Tien returned to China due to an internal rebellion, leaving Duong San in command. Seizing the opportunity, Trieu Quang Phuc launched a counter-offensive, killed Duong San, and defeated the Liang army.
+*   **Jan. 550:** Liang general Tran Ba Tien returned to China due to an internal rebellion, leaving Duong San in command. Seizing the opportunity, Trieu Quang Phuc launched a counter-offensive, killed Duong San, and defeated the Liang army. [Source: Ly Phat Tu – The Later Ly Nam De, https://hoangthanhthanglong.vn/ly-phat-tu-hau-ly-nam-de-2/]
 
 <!-- id: EVT-0118 -->
-*   **Late 550:** Trieu Quang Phuc entered Long Bien citadel and officially took the throne, reunifying the country and ending the war against the Liang dynasty.
+*   **Late 550:** Trieu Quang Phuc entered Long Bien citadel and officially took the throne, reunifying the country and ending the war against the Liang dynasty. [Source: Ly Phat Tu – The Later Ly Nam De, https://hoangthanhthanglong.vn/ly-phat-tu-hau-ly-nam-de-2/]
 
 <!-- id: EVT-0119 -->
-*   **555:** Ly Thien Bao (Dao Lang Vuong) died without an heir. His troops elevated his nephew, Ly Phat Tu, to the throne of the Da Nang state.
+*   **555:** Ly Thien Bao (Dao Lang Vuong) died without an heir. His troops elevated his nephew, Ly Phat Tu, to the throne of the Da Nang state. [Source: Ly Phat Tu – The Later Ly Nam De, https://hoangthanhthanglong.vn/ly-phat-tu-hau-ly-nam-de-2/]
 
 <!-- id: EVT-0120 -->
-*   **557:** Ly Phat Tu led troops to Thai Binh district to attack Trieu Viet Vuong. After five inconclusive battles, Ly Phat Tu sought peace. Trieu Viet Vuong agreed, dividing the territory at the Quan Than boundary (Tu Liem, Hanoi), with Ly Phat Tu governing the west from O Dien citadel. To seal the peace, Ly Phat Tu's son, Nha Lang, married Trieu Viet Vuong's daughter, Cao Nuong.
+*   **557:** Ly Phat Tu led troops to Thai Binh district to attack Trieu Viet Vuong. After five inconclusive battles, Ly Phat Tu sought peace. Trieu Viet Vuong agreed, dividing the territory at the Quan Than boundary (Tu Liem, Hanoi), with Ly Phat Tu governing the west from O Dien citadel. To seal the peace, Ly Phat Tu's son, Nha Lang, married Trieu Viet Vuong's daughter, Cao Nuong. [Source: Ly Phat Tu – The Later Ly Nam De, https://hoangthanhthanglong.vn/ly-phat-tu-hau-ly-nam-de-2/]
 
 <!-- id: EVT-0121 -->
-*   **571:** Ly Phat Tu launched a surprise attack on Trieu Viet Vuong (after allegedly uncovering military secrets via his son Nha Lang). Defeated and cornered at the Dai Nha estuary (Nam Dinh), Trieu Viet Vuong committed suicide. Ly Phat Tu took over the entire country, moving the capital to Phong Chau and absorbing the Da Nang state back into Van Xuan. He later became known as Hau Ly Nam De (Later Ly Nam De).
+*   **571:** Ly Phat Tu launched a surprise attack on Trieu Viet Vuong (after allegedly uncovering military secrets via his son Nha Lang). Defeated and cornered at the Dai Nha estuary (Nam Dinh), Trieu Viet Vuong committed suicide. Ly Phat Tu took over the entire country, moving the capital to Phong Chau and absorbing the Da Nang state back into Van Xuan. He later became known as Hau Ly Nam De (Later Ly Nam De). [Source: Ly Phat Tu – The Later Ly Nam De, https://hoangthanhthanglong.vn/ly-phat-tu-hau-ly-nam-de-2/]
 
 <!-- id: EVT-0122 -->
-*   **Mar. 580:** Zen Master Vinitaruci arrived in Giao Chau (Vietnam), residing at Phap Van Pagoda and establishing the Vinitaruci Zen sect.
+*   **Mar. 580:** Zen Master Vinitaruci arrived in Giao Chau (Vietnam), residing at Phap Van Pagoda and establishing the Vinitaruci Zen sect. [Source: Overview of Zen Buddhism Formation and Development in Vietnam, https://tapchinghiencuuphathoc.vn/khai-quat-lich-su-hinh-thanh-va-phat-trien-thien-tong-tai-viet-nam.html]
 
 <!-- id: EVT-0123 -->
 *   **7th - 8th century (late Northern Domination period):** The Viet (Kinh) people, who currently make up nearly 90% of Vietnam's population, began to distinctively separate from the common Viet-Muong ethnolinguistic block.
 
 <!-- id: EVT-0124 -->
-*   **602:** The Sui dynasty sent troops commanded by Liu Fang to invade; Ly Phat Tu (Later Ly Nam De) surrendered, and the Van Xuan kingdom ended.
+*   **602:** The Sui dynasty sent troops commanded by Liu Fang to invade; Ly Phat Tu (Later Ly Nam De) surrendered, and the Van Xuan kingdom ended. [Source: Ly Phat Tu – The Later Ly Nam De, https://hoangthanhthanglong.vn/ly-phat-tu-hau-ly-nam-de-2/]
 
 <!-- id: EVT-0125 -->
-*   **605:** Sui general Liu Fang attacked Champa (Lam Ap), sacking the capital.
+*   **605:** Sui general Liu Fang attacked Champa (Lam Ap), sacking the capital. [Source: On the National Title of the Champa Kingdom, https://baodanang.vn/ve-quoc-hieu-cua-vuong-quoc-champa-3233843.html]
 
 <!-- id: EVT-0126 -->
-*   **621:** Tang Emperor Gaozu dispatched Qiu He to act as the Grand Governor of Giao Chau, strengthening Tang administrative control over the region.
+*   **621:** Tang Emperor Gaozu dispatched Qiu He to act as the Grand Governor of Giao Chau, strengthening Tang administrative control over the region. [Source: Hanoi During a Thousand Years of Northern Domination and Resistance, https://vov.vn/ha-noi-ngan-nam/ha-noi-trong-nghin-nam-bac-thuoc-va-chong-bac-thuoc-111324.vov]
 
 <!-- id: EVT-0127 -->
-*   **622:** The Tang dynasty established the Giao Chau Grand Area Command (Dai Tong Quan Phu) to administer 10 prefectures.
+*   **622:** The Tang dynasty established the Giao Chau Grand Area Command (Dai Tong Quan Phu) to administer 10 prefectures. [Source: Outlines of the Hanoi Region in the Pre-Thang Long Period, https://hoangthanhthanglong.vn/nguoc-dong-lich-su-ha-noi-thoi-ky-tien-thang-long-ky-1-vai-net-ve-vung-dat-ha-noi-thoi-ky-tien-thang-long]
 
 <!-- id: EVT-0128 -->
-*   **679:** The Tang dynasty changed Giao Chau to the Protectorate General of Annam.
+*   **679:** The Tang dynasty changed Giao Chau to the Protectorate General of Annam. [Source: Outlines of the Hanoi Region in the Pre-Thang Long Period, https://hoangthanhthanglong.vn/nguoc-dong-lich-su-ha-noi-thoi-ky-tien-thang-long-ky-1-vai-net-ve-vung-dat-ha-noi-thoi-ky-tien-thang-long]
 
 <!-- id: EVT-0129 -->
-*   **687:** The uprising of Ly Tu Tien and Dinh Kien.
+*   **687:** The uprising of Ly Tu Tien and Dinh Kien. [Source: Ly Tu Tien (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/L%C3%BD_T%E1%BB%B1_Ti%C3%AAn]
 
 <!-- id: EVT-0130 -->
 *   **711:** The Tang dynasty established the Phong Chau and Hoan Chau Area Commands to further decentralize and tighten their control over the mountainous and southern territories.
 
 <!-- id: EVT-0131 -->
-*   **713 - 722:** Mai Thuc Loan staged an uprising against Tang dynasty domination. He liberated Hoan Chau, proclaimed himself Mai Hac De (Black Emperor Mai), established the capital at Van An Citadel (Nam Dan, Nghe An), and allied with neighboring states before the rebellion was suppressed in 722.
+*   **713 - 722:** Mai Thuc Loan staged an uprising against Tang dynasty domination. He liberated Hoan Chau, proclaimed himself Mai Hac De (Black Emperor Mai), established the capital at Van An Citadel (Nam Dan, Nghe An), and allied with neighboring states before the rebellion was suppressed in 722. [Source: 1310th Anniversary of the Hoan Chau Uprising (713-2023), https://www.nghean.gov.vn/tin-noi-bat/le-ky-niem-1310-nam-khoi-nghia-hoan-chau-713-2023-546688]
 
 ![Historical Image](images/event_20260923_213701.webp)
 
 *Source: Statue of Emperor Mai Thuc Loan / Wikimedia Commons*
 
 <!-- id: EVT-0132 -->
-*   **722 (Lunar Year of the Dog):** Following fierce sieges by Tang imperial forces, Mai Hac De (Mai Thuc Loan) fell ill and passed away. His son Mai Thuc Huy (Mai Thieu De) was acclaimed as the new ruler by the insurgents, retreating to the Hung Son mountain fortress (Nam Dan, Nghe An) to sustain resistance against the Tang dominion.
+*   **722 (Lunar Year of the Dog):** Following fierce sieges by Tang imperial forces, Mai Hac De (Mai Thuc Loan) fell ill and passed away. His son Mai Thuc Huy (Mai Thieu De) was acclaimed as the new ruler by the insurgents, retreating to the Hung Son mountain fortress (Nam Dan, Nghe An) to sustain resistance against the Tang dominion. [Source: 1310th Anniversary of the Hoan Chau Uprising (713-2023), https://www.nghean.gov.vn/tin-noi-bat/le-ky-niem-1310-nam-khoi-nghia-hoan-chau-713-2023-546688]
 
 <!-- id: EVT-0133 -->
-*   **723 (Quy Hoi year):** Tang generals Yang Sixu and Guang Chuke launched a massive assault against the Hung Son stronghold. Mai Thieu De and his commanders fought valiantly to the end and died in battle, bringing an end to the Mai Hac De uprising.
+*   **723 (Quy Hoi year):** Tang generals Yang Sixu and Guang Chuke launched a massive assault against the Hung Son stronghold. Mai Thieu De and his commanders fought valiantly to the end and died in battle, bringing an end to the Mai Hac De uprising. [Source: 1310th Anniversary of the Hoan Chau Uprising (713-2023), https://www.nghean.gov.vn/tin-noi-bat/le-ky-niem-1310-nam-khoi-nghia-hoan-chau-713-2023-546688]
 
 <!-- id: EVT-0134 -->
-*   **766 - 791:** The uprising of Phung Hung (Bo Cai Dai Vuong).
+*   **766 - 791:** The uprising of Phung Hung (Bo Cai Dai Vuong). [Source: Bo Cai Dai Vuong Phung Hung and the Aspiration for Autonomy, https://vov2.vov.vn/van-hoa-giai-tri/bo-cai-dai-vuong-phung-hung-va-khat-vong-tu-chu-dan-toc-59542.vov2]
 
 <!-- id: EVT-0135 -->
-*   **767:** Srivijaya and Kunlun forces raided Giao Chau and were defeated by Military Commissioner Zhang Boyi.
+*   **767:** Srivijaya and Kunlun forces raided Giao Chau and were defeated by Military Commissioner Zhang Boyi. [Source: Srivijaya (Vietnamese Wikipedia) – 767 Attack on Giao Chau, https://vi.wikipedia.org/wiki/Srivijaya]
 
 <!-- id: EVT-0136 -->
-*   **780 (Canh Than year):** Khuong Cong Phu passed the doctoral examination (Jinshi) in the Tang Dynasty, later rising to high positions in the Tang court.
+*   **780 (Canh Than year):** Khuong Cong Phu passed the doctoral examination (Jinshi) in the Tang Dynasty, later rising to high positions in the Tang court. [Source: The Only Vietnamese to Top the Imperial Exams and Rise to Chancellor Under the Tang, https://nguoiquansat.vn/nguoi-viet-duy-nhat-do-trang-nguyen-lam-den-chuc-te-tuong-o-trieu-dai-hung-thinh-nhat-cua-trung-quoc-voi-kha-nang-du-viec-nhu-than-vang-danh-coi-bac-115844.html]
 
 <!-- id: EVT-0137 -->
-*   **789:** Phung Hung passed away. His son Phung An succeeded him and honored him as Bo Cai Dai Vuong.
+*   **789:** Phung Hung passed away. His son Phung An succeeded him and honored him as Bo Cai Dai Vuong. [Source: Story of Phung Hung of Duong Lam, Land of Two Kings, https://baotanglichsu.vn/vi/Articles/3098/12335/chuyen-ve-phung-hung-cua-djat-djuong-lam-hai-vua.html]
 
 <!-- id: EVT-0138 -->
-*   **791 (Tan Mui year):** Tang governor Zhao Chang laid siege to Tong Binh citadel (Hanoi). Besieged and outmatched, Phung An (son of Bo Cai Dai Vuong Phung Hung) was compelled to surrender to the Tang army, terminating the autonomous governance of the Phung clan.
+*   **791 (Tan Mui year):** Tang governor Zhao Chang laid siege to Tong Binh citadel (Hanoi). Besieged and outmatched, Phung An (son of Bo Cai Dai Vuong Phung Hung) was compelled to surrender to the Tang army, terminating the autonomous governance of the Phung clan. [Source: Story of Phung Hung of Duong Lam, Land of Two Kings, https://baotanglichsu.vn/vi/Articles/3098/12335/chuyen-ve-phung-hung-cua-djat-djuong-lam-hai-vua.html]
 
 <!-- id: EVT-0139 -->
-*   **819 - 820:** The uprising of Duong Thanh.
+*   **819 - 820:** The uprising of Duong Thanh. [Source: Duong Thanh Uprising, https://doluong.gov.vn?p=10447]
 
 <!-- id: EVT-0140 -->
-*   **Sep. 820:** Zen Master Vo Ngon Thong arrived at Kien So Pagoda, establishing the Vo Ngon Thong Zen sect.
+*   **Sep. 820:** Zen Master Vo Ngon Thong arrived at Kien So Pagoda, establishing the Vo Ngon Thong Zen sect. [Source: The Vo Ngon Thong Zen Lineage in Vietnam, 8th-12th Centuries, https://tapchinghiencuuphathoc.vn/dong-thien-vo-ngon-thong-o-viet-nam-the-ky-viii-xii.html]
 
 <!-- id: EVT-0141 -->
-*   **822:** Protector General Li Yuanxi moved the administrative seat to the To Lich River area and built the Dai La Citadel. This event is closely tied to the legends of the To Lich River God (To Lich Dai Vuong) recorded in *Viet Dien U Linh Tap*.
+*   **822:** Protector General Li Yuanxi moved the administrative seat to the To Lich River area and built the Dai La Citadel. This event is closely tied to the legends of the To Lich River God (To Lich Dai Vuong) recorded in *Viet Dien U Linh Tap*. [Source: To Lich (Vietnamese Historical Anecdotes), https://scov.gov.vn/ban-sac-van-hoa/viet-su-giai-thoai/to-lich.html]
 
 <!-- id: EVT-0142 -->
-*   **824:** Protector Li Yuanjia initiated the construction of the first earth-walled La Thanh (La Citadel) along the To Lich River to fortify the headquarters of the Annam Protectorate, establishing the foundation for the later expansion of Dai La Citadel.
+*   **824:** Protector Li Yuanjia initiated the construction of the first earth-walled La Thanh (La Citadel) along the To Lich River to fortify the headquarters of the Annam Protectorate, establishing the foundation for the later expansion of Dai La Citadel. [Source: Dai La (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_La]
 
 <!-- id: EVT-0143 -->
-*   **858:** Li Zhuo was appointed Protector of Annam; his corrupt and tyrannical rule provoked deep discontent among border chieftain tribes, prompting them to ally with and guide the Nanzhao kingdom to launch destructive invasions against Giao Chau.
+*   **858:** Li Zhuo was appointed Protector of Annam; his corrupt and tyrannical rule provoked deep discontent among border chieftain tribes, prompting them to ally with and guide the Nanzhao kingdom to launch destructive invasions against Giao Chau. [Source: Hanoi During a Thousand Years of Northern Domination and Resistance, https://vov.vn/ha-noi-ngan-nam/ha-noi-trong-nghin-nam-bac-thuoc-va-chong-bac-thuoc-111324.vov]
 
 <!-- id: EVT-0144 -->
-*   **862 - 863:** Internal conflict between Tang officials Sai Kinh and Sai Tap weakened defenses. In Jan 863, Nanzhao forces captured the citadel, killing Sai Tap.
+*   **862 - 863:** Internal conflict between Tang officials Sai Kinh and Sai Tap weakened defenses. In Jan 863, Nanzhao forces captured the citadel, killing Sai Tap. [Source: Hanoi During a Thousand Years of Northern Domination and Resistance, https://vov.vn/ha-noi-ngan-nam/ha-noi-trong-nghin-nam-bac-thuoc-va-chong-bac-thuoc-111324.vov]
 
 <!-- id: EVT-0145 -->
-*   **865 (Autumn):** Cao Bien prepared troops at Hai Mon to counterattack Nanzhao forces.
+*   **865 (Autumn):** Cao Bien prepared troops at Hai Mon to counterattack Nanzhao forces. [Source: Cao Bien (Vietnamese Wikipedia) – Hai Mon 865, https://vi.wikipedia.org/wiki/Cao_Bi%E1%BB%81n]
 
 <!-- id: EVT-0146 -->
-*   **866:** After defeating Nanzhao, the Tang dynasty upgraded the An Nam Protectorate to the Jinghai Military Commission (Tinh Hai quan). Cao Bien rebuilt the Dai La Citadel.
+*   **866:** After defeating Nanzhao, the Tang dynasty upgraded the An Nam Protectorate to the Jinghai Military Commission (Tinh Hai quan). Cao Bien rebuilt the Dai La Citadel. [Source: Hanoi During a Thousand Years of Northern Domination and Resistance, https://vov.vn/ha-noi-ngan-nam/ha-noi-trong-nghin-nam-bac-thuoc-va-chong-bac-thuoc-111324.vov]
 
 <!-- id: EVT-0147 -->
-*   **868:** Cao Bien organized the digging of the Thien Oai Canal to facilitate water transport.
+*   **868:** Cao Bien organized the digging of the Thien Oai Canal to facilitate water transport. [Source: Cao Bien (Vietnamese Wikipedia) – Waterway Project and 868, https://vi.wikipedia.org/wiki/Cao_Bi%E1%BB%81n]
 
 <!-- id: EVT-0148 -->
-*   **875:** King Indravarman II of Champa established the Indrapura dynasty (Quang Nam), marking a flourishing period of Mahayana Buddhism (Dong Duong style).
+*   **875:** King Indravarman II of Champa established the Indrapura dynasty (Quang Nam), marking a flourishing period of Mahayana Buddhism (Dong Duong style). [Source: Dong Duong Gallery (Museum of Cham Sculpture, Da Nang), https://chammuseum.vn/QLHVTrungbay.aspx?IDP=3]
 
 <!-- id: EVT-0149 -->
-*   **Around the 10th century:** The Nom script began to form after escaping from Northern domination, initially used to record people's names and place names.
+*   **Around the 10th century:** The Nom script began to form after escaping from Northern domination, initially used to record people's names and place names. [Source: Chu Nom in the Nation Cultural Heritage Journey, https://archives.org.vn/chu-nom-trong-hanh-trinh-di-san-van-hoa-dan-toc.htm]
 
 <!-- id: EVT-0150 -->
-*   **905:** Khuc Thua Du won autonomy, proclaiming himself Jiedushi (Military Governor).
+*   **905:** Khuc Thua Du won autonomy, proclaiming himself Jiedushi (Military Governor). [Source: Offering Incense to National Hero Khuc Thua Du, https://chinhsachcuocsong.vnanet.vn/dang-huong-tuong-niem-anh-hung-dan-toc-khuc-thua-du/24281.html]
 
 <!-- id: EVT-0151 -->
-*   **907:** Khuc Hao succeeded his father, carrying out many important reforms.
+*   **907:** Khuc Hao succeeded his father, carrying out many important reforms. [Source: Professor Phan Huy Le on the Khuc Family Autonomy Cause, https://se.ctu.edu.vn/hoat-dong-su/thong-tin-chuyen-nganh/676-quan-diem-cua-giao-su-phan-huy-le-ve-su-nghiep-cua-ho-khuc-trong-cong-cuoc-dung-nen-tu-chu-vao-nua-dau-the-ky-x-qua-cong-trinh-lich-su-va-van-hoa-viet-nam-tiep-can-bo-phan.html]
 
 <!-- id: EVT-0152 -->
-*   **917:** Khuc Thua My succeeded to the position.
+*   **917:** Khuc Thua My succeeded to the position. [Source: The Khuc Family Rise (905-938): The Autonomy Period, https://baotanglichsuquocgia.vn/vi/Articles/3096/11647/ho-khuc-day-nghiep-905-938-thoi-ky-tu-chu.html]
 
 <!-- id: EVT-0153 -->
-*   **923:** The Southern Han army invaded and captured Khuc Thua My.
+*   **923:** The Southern Han army invaded and captured Khuc Thua My. [Source: The Khuc Family Rise (905-938): The Autonomy Period, https://baotanglichsuquocgia.vn/vi/Articles/3096/11647/ho-khuc-day-nghiep-905-938-thoi-ky-tu-chu.html]
 
 <!-- id: EVT-0154 -->
-*   **931:** Duong Dinh Nghe drove out the Southern Han army, proclaiming himself Jiedushi.
+*   **931:** Duong Dinh Nghe drove out the Southern Han army, proclaiming himself Jiedushi. [Source: General Duong Dinh Nghe – Liberator of Dai La from Southern Han, https://baotanglichsu.vn/vi/Articles/3098/15781/vo-tuong-duong-djinh-nghe-nguoi-khoi-binh-djanh-djuoi-quan-nam-han-giai-phong-thanh-djai-la-gianh-quyen-tu-chu-cho-nuoc-viet.html]
 
 <!-- id: EVT-0155 -->
-*   **937:** Kieu Cong Tien killed Duong Dinh Nghe to usurp the position.
+*   **937:** Kieu Cong Tien killed Duong Dinh Nghe to usurp the position. [Source: Ngo Quyen and the Historic Bach Dang Victory, https://nhandan.vn/ngo-quyen-va-chien-thang-bach-dang-lich-su-post484767.html]
 
 <!-- id: EVT-0156 -->
-*   **Dec. 937:** Ngo Quyen marched from Ai Chau to the North to punish Kieu Cong Tien.
+*   **Dec. 937:** Ngo Quyen marched from Ai Chau to the North to punish Kieu Cong Tien. [Source: Ngo Quyen and the Historic Bach Dang Victory, https://nhandan.vn/ngo-quyen-va-chien-thang-bach-dang-lich-su-post484767.html]
 
 <!-- id: EVT-0157 -->
-*   **Late Winter 938:** Battle of Bach Dang River. Ngo Quyen used iron-tipped stakes hidden under high tide to impale Southern Han ships when the tide receded. Southern Han commander Luu Hoang Thao was killed, and over half the 20,000 Han troops died. This decisive victory ended over 1000 years of Northern domination.
+*   **Late Winter 938:** Battle of Bach Dang River. Ngo Quyen used iron-tipped stakes hidden under high tide to impale Southern Han ships when the tide receded. Southern Han commander Luu Hoang Thao was killed, and over half the 20,000 Han troops died. This decisive victory ended over 1000 years of Northern domination. [Source: Three Naval Battles on the Bach Dang River, https://haiphong.gov.vn/tin-tuc-su-kien/3-tran-thuy-chien-lam-nen-nhungtrang-su-hao-hung-tren-Bach-Dang-Giang-55795]
 
 ![Historical Image](images/event_20260923_105131.webp)
 
