@@ -1,6 +1,6 @@
 ### **Thời kỳ Tiền sử và Sơ sử (Trước năm 800 TCN)**
 
-*   **Khoảng 800.000 năm trước:** Phát hiện tổ hợp di chỉ Thời đại Đá cũ An Khê (Gia Lai) với các công cụ đá ghè đẽo (rìu tay, công cụ chặt) của Người vượn đứng thẳng (*Homo erectus*), bằng chứng cổ xưa nhất về sự xuất hiện của con người trên lãnh thổ Việt Nam. [Nguồn: Wikipedia - An Khê (thị xã), https://vi.wikipedia.org/wiki/An_Khê_(thị_xã)]
+*   **Khoảng 800.000 năm trước:** Phát hiện tổ hợp di chỉ Thời đại Đá cũ An Khê (Gia Lai) với các công cụ đá ghè đẽo (rìu tay, công cụ chặt) của Người vượn đứng thẳng (*Homo erectus*), bằng chứng cổ xưa nhất về sự xuất hiện của con người trên lãnh thổ Việt Nam. [Nguồn: Đà Nẵng Travel - Di tích Rộc Tưng Gò Đá, https://danang.travel/di-tich-roc-tung-go-da-tai-gia-lai]
 
 <!-- id: EVT-0001 -->
 *   **Khoảng 400.000 - 300.000 năm trước:** Dấu tích Người vượn (Homo Erectus) tồn tại ở Việt Nam, tiêu biểu là các di cốt răng tìm thấy ở Thẩm Khuyên, Thẩm Hai (Lạng Sơn). [Nguồn: Cổ vật Việt Nam - Thời tiền sử, http://www.covatvietnam.info/thoi-tien-su/]
@@ -9,7 +9,7 @@
 *   **Khoảng 400.000 - 300.000 năm trước:** Dấu tích Người vượn (răng hóa thạch) ở Hang Hùm (Lục Yên, Yên Bái), cùng thuộc sơ kỳ Đá cũ với Thẩm Khuyên - Thẩm Hai và Núi Đọ. [Nguồn: Cổ vật Việt Nam - Thời tiền sử, http://www.covatvietnam.info/thoi-tien-su/]
 
 <!-- id: EVT-0003 -->
-*   **Khoảng 300.000 năm trước:** Sự tồn tại của Người vượn thông qua các công cụ đá ở di chỉ Núi Đọ (Thanh Hóa). [Nguồn: Wikipedia - Núi Đọ, https://vi.wikipedia.org/wiki/Núi_Đọ]
+*   **Khoảng 300.000 năm trước:** Sự tồn tại của Người vượn thông qua các công cụ đá ở di chỉ Núi Đọ (Thanh Hóa). [Nguồn: Cổng TTĐT Tỉnh ủy Thanh Hóa - Lịch sử Thanh Hóa, https://dcsth.hanhchinhcong.net/tinhuy/KenhTin/Lich-su-phat-trien.aspx]
 
 <!-- id: EVT-0004 -->
 *   **Khoảng 250.000 - 140.000 năm trước:** Dấu tích Người tinh khôn (Homo Sapiens) sơ khai ở Thẩm Ôm (Nghệ An).
@@ -24,31 +24,31 @@
 *   **Khoảng 20.000 - 11.000 TCN (22.000 - 13.000 năm trước):** Thời kỳ Văn hóa Ngườm (Thái Nguyên), nền văn hóa đá cũ muộn đặc trưng bởi kỹ nghệ chế tác công cụ từ mảnh đá cuội, đánh dấu bước chuyển tiếp sang thời kỳ đá mới. [Nguồn: Cổ vật Việt Nam - Trung kỳ Đá cũ (Thần Sa), http://www.covatvietnam.info/category/trung-ky-da-cu/]
 
 <!-- id: EVT-0008 -->
-*   **Khoảng 20.000 - 12.000 TCN:** Thời kỳ Văn hóa Sơn Vi. [Nguồn: Wikipedia - Văn hóa Sơn Vi, https://vi.wikipedia.org/wiki/Văn_hóa_Sơn_Vi]
+*   **Khoảng 20.000 - 12.000 TCN:** Thời kỳ Văn hóa Sơn Vi. [Nguồn: VietnamNet - Sông Hồng, cái nôi của những nền văn hóa, https://vietnamnet.vn/chuyen-cua-nhung-dong-song-song-hong-cai-noi-cua-nhung-nen-van-hoa-2297013.html]
 
 <!-- id: EVT-0009 -->
-*   **Khoảng 9.400 - 5.700 TCN (11.365 - 7.665 năm trước):** Thời kỳ Văn hóa Hòa Bình. [Nguồn: Wikipedia - Việt Nam thời tiền sử, https://vi.wikipedia.org/wiki/Việt_Nam_thời_tiền_sử]
+*   **Khoảng 9.400 - 5.700 TCN (11.365 - 7.665 năm trước):** Thời kỳ Văn hóa Hòa Bình. [Nguồn: Sử Việt - Thời kỳ Đá mới, https://suviet.app/su-kien/thoi-ki-da-moi]
 
 <!-- id: EVT-0010 -->
-*   **Khoảng 5.000 TCN (7.000 năm trước):** Thời kỳ Văn hóa Cái Bèo (Cát Bà, Hải Phòng), nền văn hóa tiền sử cư trú làng chài ven biển. [Nguồn: Wikipedia - Cái Bèo, https://vi.wikipedia.org/wiki/Cái_Bèo]
+*   **Khoảng 5.000 TCN (7.000 năm trước):** Thời kỳ Văn hóa Cái Bèo (Cát Bà, Hải Phòng), nền văn hóa tiền sử cư trú làng chài ven biển. [Nguồn: Tổng cục Du lịch - Làng chài Cái Bèo, https://vietnamtourism.gov.vn/post/29686]
 
 <!-- id: EVT-0011 -->
-*   **Khoảng 4.000 - 3.000 TCN:** Niên đại của Văn hóa Đa Bút. [Nguồn: Wikipedia - Việt Nam thời tiền sử, https://vi.wikipedia.org/wiki/Việt_Nam_thời_tiền_sử]
+*   **Khoảng 4.000 - 3.000 TCN:** Niên đại của Văn hóa Đa Bút. [Nguồn: Trần Văn Đạt - Nông nghiệp và khảo cổ học miền Trung, http://www.cadaotucngu.com/Vanminhco/dabutvaquynhvan.htm]
 
 <!-- id: EVT-0012 -->
-*   **Khoảng 3.000 TCN (5.000 năm trước):** Niên đại của Văn hóa Quỳnh Văn. [Nguồn: Wikipedia - Văn hóa Quỳnh Văn, https://vi.wikipedia.org/wiki/Văn_hóa_Quỳnh_Văn]
+*   **Khoảng 3.000 TCN (5.000 năm trước):** Niên đại của Văn hóa Quỳnh Văn. [Nguồn: Trần Văn Đạt - Nông nghiệp và khảo cổ học miền Trung, http://www.cadaotucngu.com/Vanminhco/dabutvaquynhvan.htm]
 
 <!-- id: EVT-0013 -->
-*   **Khoảng 3.000 TCN - 1.500 TCN:** Thời kỳ Văn hóa Hạ Long. [Nguồn: Wikipedia - Việt Nam thời tiền sử, https://vi.wikipedia.org/wiki/Việt_Nam_thời_tiền_sử]
+*   **Khoảng 3.000 TCN - 1.500 TCN:** Thời kỳ Văn hóa Hạ Long. [Nguồn: Dữ liệu văn hóa Việt Nam - Vịnh Hạ Long, https://congdongviet.net/post/vnh-h-long]
 
 <!-- id: EVT-0014 -->
 *   **Khoảng 3.000 TCN (5.000 năm trước):** Cộng đồng ngôn ngữ Nam Á (Austroasiatic) — gồm tổ tiên của người Việt — bắt đầu phân tách và lan tỏa từ miền nam Trung Hoa xuống Bắc Bộ và Đông Dương, gắn với sự phát triển của nông nghiệp lúa nước sơ khai. [Nguồn: Encyclopedia - Proto-Austroasiatic, https://encyclopedia.pub/entry/37559]
 
 <!-- id: EVT-0015 -->
-*   **Thiên niên kỷ III TCN:** Các cộng đồng cư dân trên lưu vực sông Hồng và đồng bằng Bắc Bộ - Bắc Trung Bộ chuyển dần từ săn bắt - hái lượm sang trồng trọt và chăn nuôi sơ khai, tạo tiền đề cho sự ra đời của các nền văn hóa kim khí Phùng Nguyên, Đồng Đậu về sau. [Nguồn: Wikipedia - Việt Nam thời tiền sử, https://vi.wikipedia.org/wiki/Việt_Nam_thời_tiền_sử]
+*   **Thiên niên kỷ III TCN:** Các cộng đồng cư dân trên lưu vực sông Hồng và đồng bằng Bắc Bộ - Bắc Trung Bộ chuyển dần từ săn bắt - hái lượm sang trồng trọt và chăn nuôi sơ khai, tạo tiền đề cho sự ra đời của các nền văn hóa kim khí Phùng Nguyên, Đồng Đậu về sau. [Nguồn: Báo Pháp Luật Việt Nam, https://baophapluat.vn/xa-hoi-chuyen-tu-che-do-mau-he-sang-phu-he-the-nao-post286671.html]
 
 <!-- id: EVT-0016 -->
-*   **Trước 2879 TCN:** Theo thư tịch cổ, Đế Minh (cháu 3 đời của Viêm Đế Thần Nông) đi tuần phương Nam đến núi Ngũ Lĩnh, kết duyên với Vụ Tiên nữ và sinh ra Lộc Tục. Đế Minh sau đó chia đôi cõi Bắc - Nam, phong cho con trưởng Đế Nghi làm vua phương Bắc và Lộc Tục làm vua phương Nam. [Nguồn: Wikipedia - Kinh Dương Vương, https://vi.wikipedia.org/wiki/Kinh_Dương_Vương]
+*   **Trước 2879 TCN:** Theo thư tịch cổ, Đế Minh (cháu 3 đời của Viêm Đế Thần Nông) đi tuần phương Nam đến núi Ngũ Lĩnh, kết duyên với Vụ Tiên nữ và sinh ra Lộc Tục. Đế Minh sau đó chia đôi cõi Bắc - Nam, phong cho con trưởng Đế Nghi làm vua phương Bắc và Lộc Tục làm vua phương Nam. [Nguồn: MyTourGuide - Kinh Dương Vương, https://mytourguide.com.vn/kinh-duong-vuong.html]
 
 <!-- id: EVT-0017 -->
 *   **2879 TCN:** Lộc Tục lên ngôi vua xưng là Kinh Dương Vương, thành lập nước Xích Quỷ - quốc hiệu đầu tiên trong truyền thuyết lịch sử Việt Nam, mở đầu Kỷ Hồng Bàng. Kinh Dương Vương kết duyên với con gái Động Đình Quân (Thần Long), sinh ra Sùng Lẫm (Lạc Long Quân).
@@ -57,8 +57,9 @@
 
 *Nguồn: Đền thờ Kinh Dương Vương (Bắc Ninh) / Origin Vietnam*
 
-[Nguồn: Wikipedia - Kinh Dương Vương, https://vi.wikipedia.org/wiki/Kinh_Dương_Vương]
 
+
+[Nguồn: Báo Nhân Dân - Nhớ về Thủy tổ nước Nam, https://nhandan.vn/nhan-ngay-gio-to-hung-vuong-nho-ve-thuy-to-nuoc-nam-post805321.html]
 <!-- id: EVT-0018 -->
 *   **2879 - 258 TCN:** Giai đoạn 18 đời Hùng Vương trị vì. Đây cũng là khoảng thời gian mà truyền thuyết Lạc Long Quân và Âu Cơ, Phù Đổng Thiên Vương (Thánh Gióng), và Sơn Tinh - Thủy Tinh được cho là ra đời và truyền miệng.
 
@@ -66,10 +67,11 @@
 
 *Nguồn: Lăng mộ Vua Hùng trên núi Nghĩa Lĩnh (Phú Thọ) / Wikimedia Commons*
 
-[Nguồn: Wikipedia - Hùng Vương, https://vi.wikipedia.org/wiki/Hùng_Vương]
 
+
+[Nguồn: VTC News - 18 đời vua Hùng gồm những ai?, https://vtcnews.vn/18-doi-vua-hung-gom-nhung-ai-ar669738.html]
 <!-- id: EVT-0019 -->
-*   **2793 TCN:** Sùng Lẫm nối ngôi Kinh Dương Vương, xưng là Lạc Long Quân, tiếp tục cai trị nước Xích Quỷ. Lạc Long Quân có công trừ diệt các loài quái vật nguy hại (Ngư Tinh, Cửu Vĩ Hồ, Mộc Tinh), dạy nhân dân trồng lúa nước, dệt vải và cất dựng nhà cửa. [Nguồn: Wikipedia - Lạc Long Quân, https://vi.wikipedia.org/wiki/Lạc_Long_Quân]
+*   **2793 TCN:** Sùng Lẫm nối ngôi Kinh Dương Vương, xưng là Lạc Long Quân, tiếp tục cai trị nước Xích Quỷ. Lạc Long Quân có công trừ diệt các loài quái vật nguy hại (Ngư Tinh, Cửu Vĩ Hồ, Mộc Tinh), dạy nhân dân trồng lúa nước, dệt vải và cất dựng nhà cửa. [Nguồn: VTC News - 18 đời vua Hùng gồm những ai?, https://vtcnews.vn/18-doi-vua-hung-gom-nhung-ai-ar669738.html]
 
 <!-- id: EVT-0020 -->
 *   **Khoảng 2524 TCN:** Lạc Long Quân kết duyên với Âu Cơ (con gái Đế Lai). Âu Cơ sinh bọc trăm trứng, nở thành 100 người con trai, hình thành cội nguồn truyền thuyết "Con Rồng cháu Tiên" và khái niệm "Đồng bào". Hai người sau đó chia 50 con theo mẹ lên núi, 50 con theo cha xuống biển để cai quản các vùng đất. Người con trưởng theo mẹ lên vùng Phong Châu lên ngôi xưng là Hùng Vương, đặt quốc hiệu là Văn Lang.
@@ -78,8 +80,9 @@
 
 *Nguồn: Tượng Lạc Long Quân và Âu Cơ (Bắc Ninh) / Báo Tuổi Trẻ*
 
-[Nguồn: Wikipedia - Âu Cơ, https://vi.wikipedia.org/wiki/Âu_Cơ]
 
+
+[Nguồn: Báo Tiền Phong - Đền Lăng Sương, https://tienphong.vn/hanh-huong-ve-noi-lac-long-quan-va-au-co-gap-nhau-post1824454.tpo]
 <!-- id: EVT-0021 -->
 *   **Khoảng cuối thiên niên kỷ III TCN - đầu thiên niên kỷ II TCN:** Thời kỳ Văn hóa Phùng Nguyên, mở đầu thời đại kim khí. [Nguồn: Báo Pháp Luật Việt Nam, https://baophapluat.vn/xa-hoi-chuyen-tu-che-do-mau-he-sang-phu-he-the-nao-post286671.html]
 
@@ -90,16 +93,16 @@
 *   **Khoảng 2.000 - 1.500 TCN (4.000 - 3.500 năm trước):** Thời kỳ Văn hóa Bàu Tró. [Nguồn: Sử Việt - Thời kỳ Đá mới, https://suviet.app/su-kien/thoi-ki-da-moi]
 
 <!-- id: EVT-0024 -->
-*   **Khoảng thế kỷ XV - X TCN:** Thời kỳ Văn hóa Đồng Đậu. [Nguồn: Wikipedia - Việt Nam thời tiền sử, https://vi.wikipedia.org/wiki/Việt_Nam_thời_tiền_sử]
+*   **Khoảng thế kỷ XV - X TCN:** Thời kỳ Văn hóa Đồng Đậu. [Nguồn: Bảo tàng Lịch sử Quốc gia - Di tích Đồng Đậu, https://baotanglichsu.vn/vi/Articles/3101/16548/djong-djau-mot-di-tich-tieu-bieu-thoi-tien-so-su.html]
 
 <!-- id: EVT-0025 -->
 *   **1110 TCN:** Theo thư tịch cổ, sứ giả Việt Thường đem chim trĩ trắng dâng cho nhà Chu. [Nguồn: Wikipedia - Lĩnh Nam chích quái, https://vi.wikipedia.org/wiki/Lĩnh_Nam_chích_quái]
 
 <!-- id: EVT-0026 -->
-*   **Khoảng 1.100 - 700 TCN:** Thời kỳ Văn hóa Gò Mun. [Nguồn: Wikipedia - Việt Nam thời tiền sử, https://vi.wikipedia.org/wiki/Việt_Nam_thời_tiền_sử]
+*   **Khoảng 1.100 - 700 TCN:** Thời kỳ Văn hóa Gò Mun. [Nguồn: Bảo tàng Lịch sử Quốc gia - Pre-Dong Son cultures, https://baotanglichsu.vn/en/Articles/4191/pre-dong-son-cultures-phung-nguyen-dong-dau-go-mun-c-4-000-2-5000-bp]
 
 <!-- id: EVT-0027 -->
-*   **Khoảng 1.000 TCN - 200 SCN:** Thời kỳ Văn hóa Sa Huỳnh (Miền Trung), nổi tiếng với táng tục mộ chum và kỹ thuật chế tác thủy tinh nhân tạo sớm. [Nguồn: Wikipedia - Việt Nam thời tiền sử, https://vi.wikipedia.org/wiki/Việt_Nam_thời_tiền_sử]
+*   **Khoảng 1.000 TCN - 200 SCN:** Thời kỳ Văn hóa Sa Huỳnh (Miền Trung), nổi tiếng với táng tục mộ chum và kỹ thuật chế tác thủy tinh nhân tạo sớm. [Nguồn: Bảo tàng Lịch sử Quốc gia - Burial jar of Sa Huynh culture, https://baotanglichsu.vn/en/Articles/3174/8480/the-burial-jar-of-sa-huynh-culture.html]
 
 <!-- id: EVT-0028 -->
 *   **Khoảng thế kỷ VIII TCN - thế kỷ II SCN:** Thời kỳ Văn hóa Đông Sơn. [Nguồn: Báo cáo viên - Lịch sử Thanh Hóa, https://baocaovien.vn/tin-tuc/lich-su-tinh-thanh-hoa-noi-phat-trien-ruc-ro-cua-nen-van-hoa-dong-son/198690.html]

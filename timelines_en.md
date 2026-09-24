@@ -1,21 +1,21 @@
 ### **Prehistoric and Protohistoric Period (Before 800 BC)**
 
-*   **Approximately 800,000 years ago:** Discovery of the An Khe Paleolithic site complex (Gia Lai) with stone tools (hand axes, chopping tools) of *Homo erectus*, the earliest evidence of human presence in the territory of Vietnam. [Source: Wikipedia - An Khe town, https://vi.wikipedia.org/wiki/An_Khê_(thị_xã)]
+*   **Approximately 800,000 years ago:** Discovery of the An Khe Paleolithic site complex (Gia Lai) with stone tools (hand axes, chopping tools) of *Homo erectus*, the earliest evidence of human presence in the territory of Vietnam. [Source: Da Nang Travel - Roc Tung Go Da site, https://danang.travel/di-tich-roc-tung-go-da-tai-gia-lai]
 
 <!-- id: EVT-0001 -->
-*   **Approximately 400,000 - 300,000 years ago:** Traces of Ape-man (Homo Erectus) existed in Vietnam, typically represented by tooth fossils found in Tham Khuyen and Tham Hai (Lang Son). [Source: Wikipedia - Tham Khuyen Cave, https://en.wikipedia.org/wiki/Thẩm_Khuyên_Cave]
+*   **Approximately 400,000 - 300,000 years ago:** Traces of Ape-man (Homo Erectus) existed in Vietnam, typically represented by tooth fossils found in Tham Khuyen and Tham Hai (Lang Son). [Source: Ciochon et al., PNAS 1996 - Tham Khuyen Cave, https://www.pnas.org/doi/10.1073/pnas.93.7.3016]
 
 <!-- id: EVT-0002 -->
 *   **Approximately 400,000 - 300,000 years ago:** Traces of Ape-man (fossil teeth) in Hang Hum Cave (Luc Yen, Yen Bai), belonging to the same Early Paleolithic group as Tham Khuyen - Tham Hai and Nui Do. [Source: Co vat Viet Nam - Prehistoric period, http://www.covatvietnam.info/thoi-tien-su/]
 
 <!-- id: EVT-0003 -->
-*   **Approximately 300,000 years ago:** The existence of Ape-man is evidenced by stone tools at the Nui Do archaeological site (Thanh Hoa). [Source: Wikipedia - Nui Do, https://vi.wikipedia.org/wiki/Núi_Đọ]
+*   **Approximately 300,000 years ago:** The existence of Ape-man is evidenced by stone tools at the Nui Do archaeological site (Thanh Hoa). [Source: Thanh Hoa Party Portal - History of Thanh Hoa, https://dcsth.hanhchinhcong.net/tinhuy/KenhTin/Lich-su-phat-trien.aspx]
 
 <!-- id: EVT-0004 -->
 *   **Approximately 250,000 - 140,000 years ago:** Traces of archaic Homo Sapiens in Tham Om (Nghe An).
 
 <!-- id: EVT-0005 -->
-*   **Approximately 23,500 BC (25,510 years ago):** Soi Nhu Culture period (Quang Ninh), one of the earliest cultures with traces of human habitation in limestone caves near the sea. [Source: Wikipedia - Timeline of Vietnamese history, https://en.wikipedia.org/wiki/Timeline_of_Vietnamese_history]
+*   **Approximately 23,500 BC (25,510 years ago):** Soi Nhu Culture period (Quang Ninh), one of the earliest cultures with traces of human habitation in limestone caves near the sea. [Source: VietnamNet - Ha Long Bay, an ancient cradle of mankind, https://vietnamnet.vn/en/ha-long-bay-an-ancient-cradle-of-mankind-E193334.html]
 
 <!-- id: EVT-0006 -->
 *   **Approximately 21,000 BC (23,000 years ago):** Trang An Culture period (Ninh Binh), characterized by cave dwelling adaptation to climate change and sea-level transgression. [Source: UNESCO - Trang An nomination dossier, https://whc.unesco.org/uploads/nominations/1438.pdf]
@@ -24,31 +24,31 @@
 *   **Approximately 20,000 - 11,000 BC (22,000 - 13,000 years ago):** Nguom Culture period (Thai Nguyen), a Late Paleolithic culture characterized by pebble flake tool technology, marking a crucial transition toward the Neolithic Age. [Source: Wikipedia - Nguom, https://en.wikipedia.org/wiki/Ngườm]
 
 <!-- id: EVT-0008 -->
-*   **Approximately 20,000 - 12,000 BC:** Son Vi Culture period. [Source: Wikipedia - Son Vi culture, https://en.wikipedia.org/wiki/Sơn_Vi_culture]
+*   **Approximately 20,000 - 12,000 BC:** Son Vi Culture period. [Source: VietnamNet - Red River, cradle of cultures, https://vietnamnet.vn/chuyen-cua-nhung-dong-song-song-hong-cai-noi-cua-nhung-nen-van-hoa-2297013.html]
 
 <!-- id: EVT-0009 -->
-*   **Approximately 9,400 - 5,700 BC (11,365 - 7,665 years ago):** Hoa Binh Culture period. [Source: Wikipedia - History of Vietnam, https://en.wikipedia.org/wiki/History_of_Vietnam]
+*   **Approximately 9,400 - 5,700 BC (11,365 - 7,665 years ago):** Hoa Binh Culture period. [Source: Su Viet - Neolithic period, https://suviet.app/su-kien/thoi-ki-da-moi]
 
 <!-- id: EVT-0010 -->
-*   **Approximately 5,000 BC (7,000 years ago):** Cai Beo Culture period (Cat Ba, Hai Phong), a prehistoric culture residing in coastal fishing villages. [Source: Wikipedia - Cai Beo, https://vi.wikipedia.org/wiki/Cái_Bèo]
+*   **Approximately 5,000 BC (7,000 years ago):** Cai Beo Culture period (Cat Ba, Hai Phong), a prehistoric culture residing in coastal fishing villages. [Source: Vietnam Tourism - Cai Beo fishing village, https://vietnamtourism.gov.vn/post/29686]
 
 <!-- id: EVT-0011 -->
-*   **Approximately 4,000 - 3,000 BC:** Date of the Da But Culture. [Source: Wikipedia - History of Vietnam, https://en.wikipedia.org/wiki/History_of_Vietnam]
+*   **Approximately 4,000 - 3,000 BC:** Date of the Da But Culture. [Source: Tran Van Dat - Agriculture and archaeology of Central Vietnam, http://www.cadaotucngu.com/Vanminhco/dabutvaquynhvan.htm]
 
 <!-- id: EVT-0012 -->
-*   **Approximately 3,000 BC (5,000 years ago):** Date of the Quynh Van Culture. [Source: Wikipedia - Quynh Van culture, https://en.wikipedia.org/wiki/Quỳnh_Văn_culture]
+*   **Approximately 3,000 BC (5,000 years ago):** Date of the Quynh Van Culture. [Source: Tran Van Dat - Agriculture and archaeology of Central Vietnam, http://www.cadaotucngu.com/Vanminhco/dabutvaquynhvan.htm]
 
 <!-- id: EVT-0013 -->
-*   **Approximately 3,000 - 1,500 BC:** Ha Long Culture period. [Source: Wikipedia - History of Vietnam, https://en.wikipedia.org/wiki/History_of_Vietnam]
+*   **Approximately 3,000 - 1,500 BC:** Ha Long Culture period. [Source: VietnamNet - Ha Long Bay, an ancient cradle of mankind, https://vietnamnet.vn/en/ha-long-bay-an-ancient-cradle-of-mankind-E193334.html]
 
 <!-- id: EVT-0014 -->
 *   **Approximately 3,000 BC (5,000 years ago):** The Austroasiatic language community — including the ancestors of the Vietnamese — began to diverge and spread from southern China into northern Vietnam and Indochina, alongside the development of early wet-rice farming. [Source: Encyclopedia - Proto-Austroasiatic, https://encyclopedia.pub/entry/37559]
 
 <!-- id: EVT-0015 -->
-*   **3rd millennium BC:** Communities in the Red River basin and the North - North Central plains gradually shifted from hunting - gathering to early farming and animal husbandry, laying the groundwork for the later Phung Nguyen and Dong Dau metal-age cultures. [Source: Wikipedia - History of Vietnam, https://en.wikipedia.org/wiki/History_of_Vietnam]
+*   **3rd millennium BC:** Communities in the Red River basin and the North - North Central plains gradually shifted from hunting - gathering to early farming and animal husbandry, laying the groundwork for the later Phung Nguyen and Dong Dau metal-age cultures. [Source: Bellwood, ANU Press - Austronesian prehistory, https://press-files.anu.edu.au/downloads/press/p69411/html/ch05.html]
 
 <!-- id: EVT-0016 -->
-*   **Before 2879 BC:** According to ancient texts, De Minh (a third-generation descendant of Emperor Yan Shennong) traveled south to the Wuling Mountains, married Vu Tien Nu, and fathered Loc Tuc. De Minh later divided the realm between north and south, designating his eldest son De Nghi as ruler of the North and Loc Tuc as ruler of the South. [Source: Wikipedia - Kinh Duong Vuong, https://en.wikipedia.org/wiki/Kinh_Dương_Vương]
+*   **Before 2879 BC:** According to ancient texts, De Minh (a third-generation descendant of Emperor Yan Shennong) traveled south to the Wuling Mountains, married Vu Tien Nu, and fathered Loc Tuc. De Minh later divided the realm between north and south, designating his eldest son De Nghi as ruler of the North and Loc Tuc as ruler of the South. [Source: Britannica - Kinh Duong, https://www.britannica.com/biography/Kinh-Duong]
 
 <!-- id: EVT-0017 -->
 *   **2879 BC:** Loc Tuc ascended the throne as Kinh Duong Vuong, establishing the Xich Quy nation - the first national title in Vietnamese historical legend - marking the start of the Hong Bang Dynasty. Kinh Duong Vuong married the daughter of Dong Dinh Quan (Dragon King), fathering Sung Lam (Lac Long Quan).
@@ -57,8 +57,9 @@
 
 *Source: Kinh Duong Vuong Temple (Bac Ninh) / Origin Vietnam*
 
-[Source: Wikipedia - Kinh Duong Vuong, https://en.wikipedia.org/wiki/Kinh_Dương_Vương]
 
+
+[Source: Britannica - Kinh Duong, https://www.britannica.com/biography/Kinh-Duong]
 <!-- id: EVT-0018 -->
 *   **2879 - 258 BC:** The period of the 18 reigns of the Hung Kings. This was also the period when the legends of Lac Long Quan and Au Co, Phu Dong Thien Vuong (Saint Giong), and Son Tinh - Thuy Tinh are believed to have originated and been passed down orally.
 
@@ -69,7 +70,7 @@
 [Source: Britannica - Hung dynasty, https://www.britannica.com/topic/Hung-dynasty]
 
 <!-- id: EVT-0019 -->
-*   **2793 BC:** Sung Lam succeeded Kinh Duong Vuong as Lac Long Quan, taking over the rule of Xich Quy. Lac Long Quan was credited with slaying sea and forest monsters (Ngư Tinh, Cửu Vĩ Hồ, Mộc Tinh) and teaching the people wet rice cultivation, weaving, and house building. [Source: Wikipedia - Lac Long Quan, https://en.wikipedia.org/wiki/Lạc_Long_Quân]
+*   **2793 BC:** Sung Lam succeeded Kinh Duong Vuong as Lac Long Quan, taking over the rule of Xich Quy. Lac Long Quan was credited with slaying sea and forest monsters (Ngư Tinh, Cửu Vĩ Hồ, Mộc Tinh) and teaching the people wet rice cultivation, weaving, and house building. [Source: Britannica - Lac Long Quan, https://www.britannica.com/biography/Lac-Long-Quan]
 
 <!-- id: EVT-0020 -->
 *   **Approximately 2524 BC:** Lac Long Quan married Au Co (daughter of De Lai). Au Co gave birth to a sac of one hundred eggs which hatched into 100 sons, forming the legendary origin of "Dragon and Fairy descendants" and the concept of "Dong bao" (compatriots). They later split their children, 50 following their mother to the mountains and 50 following their father to the sea. The eldest son followed his mother to Phong Chau and ascended the throne as Hung Vuong, founding the nation of Van Lang.
@@ -78,10 +79,11 @@
 
 *Source: Lac Long Quan and Au Co statue (Bac Ninh) / Báo Tuổi Trẻ*
 
-[Source: Wikipedia - Au Co, https://en.wikipedia.org/wiki/Âu_Cơ]
 
+
+[Source: VNA - President commemorates legendary ancestors, https://vietnam.vnanet.vn/english/tin-van/president-commemorates-legendary-ancestors-291024.html]
 <!-- id: EVT-0021 -->
-*   **Approximately late 3rd millennium BC - early 2nd millennium BC:** Phung Nguyen Culture period, marking the beginning of the Metal Age. [Source: Wikipedia - Phung Nguyen culture, https://en.wikipedia.org/wiki/Phùng_Nguyên_culture]
+*   **Approximately late 3rd millennium BC - early 2nd millennium BC:** Phung Nguyen Culture period, marking the beginning of the Metal Age. [Source: Vietnam National Museum of History - Pre-Dong Son cultures, https://baotanglichsu.vn/en/Articles/4191/pre-dong-son-cultures-phung-nguyen-dong-dau-go-mun-c-4-000-2-5000-bp]
 
 <!-- id: EVT-0022 -->
 *   **Approximately 2,000 BC (4,000 years ago):** Date of the Man Bac Culture site (Ninh Binh), featuring human remains that reflect interbreeding between indigenous Southeast Asian and northern migratory populations, marking the transition from Da But to Phung Nguyen Culture. [Source: Vietnam News, https://vietnamnews.vn/sunday/1729524/ninh-binh-archaeological-site-holds-vast-trove-of-heritage.html]
@@ -90,19 +92,19 @@
 *   **Approximately 2,000 - 1,500 BC (4,000 - 3,500 years ago):** Bau Tro Culture period. [Source: Wikipedia - Quynh Van culture, https://en.wikipedia.org/wiki/Quỳnh_Văn_culture]
 
 <!-- id: EVT-0024 -->
-*   **Approximately 15th - 10th centuries BC:** Dong Dau Culture period. [Source: Wikipedia - History of Vietnam, https://en.wikipedia.org/wiki/History_of_Vietnam]
+*   **Approximately 15th - 10th centuries BC:** Dong Dau Culture period. [Source: Vietnam National Museum of History - Pre-Dong Son cultures, https://baotanglichsu.vn/en/Articles/4191/pre-dong-son-cultures-phung-nguyen-dong-dau-go-mun-c-4-000-2-5000-bp]
 
 <!-- id: EVT-0025 -->
 *   **1110 BC:** According to ancient records, Viet Thuong envoys offered white pheasants to the Zhou dynasty. [Source: Wikipedia - Linh Nam chich quai, https://en.wikipedia.org/wiki/Lĩnh_Nam_chích_quái]
 
 <!-- id: EVT-0026 -->
-*   **Approximately 1,100 - 700 BC:** Go Mun Culture period. [Source: Wikipedia - History of Vietnam, https://en.wikipedia.org/wiki/History_of_Vietnam]
+*   **Approximately 1,100 - 700 BC:** Go Mun Culture period. [Source: Vietnam National Museum of History - Pre-Dong Son cultures, https://baotanglichsu.vn/en/Articles/4191/pre-dong-son-cultures-phung-nguyen-dong-dau-go-mun-c-4-000-2-5000-bp]
 
 <!-- id: EVT-0027 -->
-*   **Approximately 1,000 BC - 200 AD:** Sa Huynh Culture period (Central Vietnam), famous for jar burials and early glass-making techniques. [Source: Wikipedia - Sa Huynh culture, https://en.wikipedia.org/wiki/Sa_Huynh_culture]
+*   **Approximately 1,000 BC - 200 AD:** Sa Huynh Culture period (Central Vietnam), famous for jar burials and early glass-making techniques. [Source: Vietnam National Museum of History - Burial jar of Sa Huynh culture, https://baotanglichsu.vn/en/Articles/3174/8480/the-burial-jar-of-sa-huynh-culture.html]
 
 <!-- id: EVT-0028 -->
-*   **Approximately 8th century BC - 2nd century AD:** Dong Son Culture period. [Source: Wikipedia - Dong Son culture, https://en.wikipedia.org/wiki/Dong_Son_culture]
+*   **Approximately 8th century BC - 2nd century AD:** Dong Son Culture period. [Source: Vietnam National Museum of History - Dong Son bronze drums, https://baotanglichsu.vn/en/Articles/1556/35784/collection-of-dong-son-bronze-drums-c-2-500-2-000-bp.html]
 
 <!-- id: EVT-0029 -->
 
