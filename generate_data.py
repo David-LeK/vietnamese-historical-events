@@ -8,6 +8,13 @@ def parse_md_file(filepath):
     sections = []
     current_sec = None
     current_event = None
+
+    # Per-event citation line, e.g. `[Nguồn: Đại Việt sử ký toàn thư]` (VI)
+    # or `[Source: https://en.wikipedia.org/...]` (EN). Distinct from the
+    # italic image captions (`*Nguồn: ...*` / `*Source: ...*`).
+    event_src_re = re.compile(r'^\[(?:Nguồn|Source)\s*:\s*(.*?)\]\s*$', re.IGNORECASE)
+    # Stable event ID comment, e.g. `<!-- id: EVT-0001 -->` (same in VI & EN).
+    id_re = re.compile(r'<!--\s*id:\s*([A-Za-z0-9_-]+)\s*-->')
     
     with open(filepath, 'r', encoding='utf-8') as f:
         for line in f:
@@ -24,15 +31,27 @@ def parse_md_file(filepath):
                     if m and current_sec is not None:
                         date_str = m.group(1).strip()
                         desc = m.group(2).strip()
+                        # Inline trailing citation: `... mô tả. [Nguồn: ...]`
+                        inline_src = ''
+                        trail = re.search(r'\[(?:Nguồn|Source)\s*:\s*(.*?)\]\s*$', desc, re.IGNORECASE)
+                        if trail:
+                            inline_src = trail.group(1).strip()
+                            desc = desc[:trail.start()].rstrip()
                         if date_str.endswith(':'):
                             date_str = date_str[:-1].strip()
                         current_event = {
                             'dateStr': date_str,
                             'desc': desc,
                             'subItems': [],
-                            'images': []
+                            'images': [],
+                            'source': inline_src,
+                            'eid': ''
                         }
                         current_sec['events'].append(current_event)
+                elif event_src_re.match(l) and current_event is not None:
+                    current_event['source'] = event_src_re.match(l).group(1).strip()
+                elif id_re.search(l) and current_event is not None:
+                    current_event['eid'] = id_re.search(l).group(1).strip()
                 elif l.startswith('![') and current_event is not None:
                     img_m = re.search(r'!\[(.*?)\]\((.*?)\)', l)
                     if img_m:
@@ -60,6 +79,10 @@ def parse_md_file(filepath):
                     src = src.rstrip('*').strip()
                     if current_event.get('images'):
                         current_event['images'][-1]['source'] = src
+                elif event_src_re.match(l) and current_event is not None:
+                    current_event['source'] = event_src_re.match(l).group(1).strip()
+                elif id_re.search(l) and current_event is not None:
+                    current_event['eid'] = id_re.search(l).group(1).strip()
                 elif l.startswith('*') and current_event is not None:
                     sub_text = re.sub(r'^\*\s*', '', l).strip()
                     current_event['subItems'].append(sub_text)
@@ -160,7 +183,7 @@ def main():
         for j in range(len(events_en)):
             ev_en = events_en[j]
             ev_vi = events_vi[j] if j < len(events_vi) else {'dateStr': ev_en['dateStr'], 'desc': ev_en['desc'], 'subItems': ev_en['subItems'], 'images': []}
-            
+                        
             d_info = extract_date_info(ev_en['dateStr'], ev_vi['dateStr'])
             images_vi = ev_vi.get('images', [])
             images_en = ev_en.get('images', [])
@@ -183,9 +206,14 @@ def main():
                     'sourceVi': source_vi,
                     'sourceEn': source_en
                 })
-            
+
+            # Per-event citation (`[Nguồn: ...]` / `[Source: ...]` line).
+            event_source_vi = ev_vi.get('source') or ev_en.get('source', '')
+            event_source_en = ev_en.get('source') or ev_vi.get('source', '')
+
             events.append({
                 'id': event_id,
+                'eid': ev_en.get('eid') or ev_vi.get('eid') or '',
                 'eraIndex': i,
                 'dateEn': ev_en['dateStr'],
                 'dateVi': ev_vi['dateStr'],
@@ -194,6 +222,9 @@ def main():
                 'subsEn': ev_en['subItems'],
                 'subsVi': ev_vi['subItems'],
                 'images': images,
+                'source': event_source_vi,
+                'sourceVi': event_source_vi,
+                'sourceEn': event_source_en,
                 'year': d_info['year'],
                 'yearEnd': d_info['yearEnd'],
                 'month': d_info['month'],

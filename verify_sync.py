@@ -15,6 +15,8 @@ Usage:
 import sys
 import os
 import re
+import io
+import contextlib
 import subprocess
 from sort_timelines import parse_blocks, extract_date
 
@@ -87,7 +89,7 @@ def check_git_diff_parity():
     """
     Compares git diff modified lines between VI and EN files (cross-platform compare.bat).
     """
-    print(f"\n{Colors.BOLD}[1/4] Checking Git Diff Parity...{Colors.RESET}")
+    print(f"\n{Colors.BOLD}[1/6] Checking Git Diff Parity...{Colors.RESET}")
     changes_vi = get_git_changed_lines(VI_FILE)
     changes_en = get_git_changed_lines(EN_FILE)
 
@@ -111,7 +113,7 @@ def verify_structure_and_counts():
     """
     Verifies that both timeline files exist, have matching headers, and matching event counts.
     """
-    print(f"\n{Colors.BOLD}[2/4] Verifying Section Structure & Event Counts...{Colors.RESET}")
+    print(f"\n{Colors.BOLD}[2/6] Verifying Section Structure & Event Counts...{Colors.RESET}")
     if not os.path.isfile(VI_FILE):
         print(f"  {Colors.RED}[FAIL] Missing required file: {VI_FILE}{Colors.RESET}")
         return False, [], []
@@ -192,7 +194,7 @@ def verify_date_parsing_and_sorting(blocks_vi, blocks_en):
     """
     Verifies that all events have extractable dates and are correctly sorted in chronological order.
     """
-    print(f"\n{Colors.BOLD}[3/4] Verifying Date Extraction & Chronological Order...{Colors.RESET}")
+    print(f"\n{Colors.BOLD}[3/6] Verifying Date Extraction & Chronological Order...{Colors.RESET}")
     events_vi = [b for b in blocks_vi if b['type'] == 'event']
     events_en = [b for b in blocks_en if b['type'] == 'event']
 
@@ -254,7 +256,7 @@ def verify_markdown_syntax(blocks_vi, blocks_en):
     """
     Checks for common markdown formatting issues: bold date formatting, line structure.
     """
-    print(f"\n{Colors.BOLD}[4/4] Verifying Markdown Syntax & Format...{Colors.RESET}")
+    print(f"\n{Colors.BOLD}[4/6] Verifying Markdown Syntax & Format...{Colors.RESET}")
     has_errors = False
     events_vi = [b for b in blocks_vi if b['type'] == 'event']
     events_en = [b for b in blocks_en if b['type'] == 'event']
@@ -304,38 +306,150 @@ def verify_images_sync(events_vi, events_en):
     return True
 
 
-def main():
-    print(f"{Colors.BOLD}{Colors.BLUE}======================================================{Colors.RESET}")
-    print(f"{Colors.BOLD}{Colors.BLUE}   Vietnamese Historical Events - Synchronization Check {Colors.RESET}")
-    print(f"{Colors.BOLD}{Colors.BLUE}======================================================{Colors.RESET}")
+def verify_event_sources_sync(events_vi, events_en):
+    """
+    Verifies per-event citations (`[Nguồn: ...]` in VI, `[Source: ...]` in EN).
+    Compares PRESENCE only (texts differ by language by design). Events missing
+    a source on both sides are allowed (gradual rollout); a source on only one
+    side is a [FAIL] bilingual-parity violation.
+    """
+    print(f"\n{Colors.BOLD}[5/6] Verifying Event Citations ([Nguồn: ...] / [Source: ...])...{Colors.RESET}")
+    src_line_re = re.compile(r'^\[(?:Nguồn|Source)\s*:', re.IGNORECASE)
+    src_trail_re = re.compile(r'\[(?:Nguồn|Source)\s*:.*?\]\s*$', re.IGNORECASE)
 
+    def has_src(ev):
+        for l in ev['lines']:
+            s = l.strip() if isinstance(l, str) else ''
+            if src_line_re.match(s):
+                return True
+        first = ev['lines'][0] if ev['lines'] else ''
+        if isinstance(first, str) and src_trail_re.search(first):
+            return True
+        return False
+
+    mismatches = 0
+    with_src = 0
+    for idx, (ev_v, ev_e) in enumerate(zip(events_vi, events_en)):
+        has_v, has_e = has_src(ev_v), has_src(ev_e)
+        if has_v and has_e:
+            with_src += 1
+        elif has_v != has_e:
+            mismatches += 1
+            if mismatches <= 5:
+                print(f"  {Colors.RED}[FAIL] Event #{idx+1} has a citation on only one side (VI={has_v}, EN={has_e}):{Colors.RESET}")
+                print(f"    VI: {ev_v['lines'][0].strip()[:100]}")
+                print(f"    EN: {ev_e['lines'][0].strip()[:100]}")
+    total = len(events_vi)
+    print(f"  - Events with bilingual citations: {with_src}/{total}")
+    if mismatches > 0:
+        print(f"  {Colors.RED}[FAIL] Found {mismatches} event(s) with one-sided citations. Add the missing `[Nguồn: ...]` / `[Source: ...]` line.{Colors.RESET}")
+        return False
+    print(f"  {Colors.GREEN}[OK] Event citations are in sync (present on both sides or absent on both).{Colors.RESET}")
+    return True
+
+
+def verify_event_ids(events_vi, events_en):
+    """
+    Verifies stable event IDs (`<!-- id: EVT-XXXX -->`): exactly one per
+    event, unique within each file, and identical for paired VI/EN events.
+    """
+    print(f"\n{Colors.BOLD}[6/6] Verifying Stable Event IDs...{Colors.RESET}")
+    id_re = re.compile(r'<!--\s*id:\s*([A-Za-z0-9_-]+)\s*-->')
+    has_errors = False
+    seen_vi, seen_en = {}, {}
+    shown = 0
+
+    def collect(ev):
+        out = []
+        for l in ev['lines']:
+            if isinstance(l, str):
+                m = id_re.search(l)
+                if m:
+                    out.append(m.group(1))
+        return out
+
+    for idx, (ev_v, ev_e) in enumerate(zip(events_vi, events_en)):
+        ids_v, ids_e = collect(ev_v), collect(ev_e)
+        if len(ids_v) != 1 or len(ids_e) != 1:
+            has_errors = True
+            if shown < 5:
+                print(f"  {Colors.RED}[FAIL] Event #{idx+1} must carry exactly one ID comment (VI={ids_v}, EN={ids_e}):{Colors.RESET}")
+                print(f"    VI: {ev_v['lines'][0].strip()[:100]}")
+                shown += 1
+            continue
+        for eid, seen, tag in ((ids_v[0], seen_vi, 'VI'), (ids_e[0], seen_en, 'EN')):
+            if eid in seen:
+                has_errors = True
+                if shown < 5:
+                    print(f"  {Colors.RED}[FAIL] Duplicate ID {eid} in {tag} (events #{seen[eid]+1} and #{idx+1}).{Colors.RESET}")
+                    shown += 1
+            else:
+                seen[eid] = idx
+        if ids_v[0] != ids_e[0]:
+            has_errors = True
+            if shown < 5:
+                print(f"  {Colors.RED}[FAIL] Event #{idx+1} ID mismatch: VI={ids_v[0]}, EN={ids_e[0]}.{Colors.RESET}")
+                shown += 1
+
+    print(f"  - Stable IDs: VI = {len(seen_vi)}, EN = {len(seen_en)}")
+    if has_errors:
+        print(f"  {Colors.RED}[FAIL] Event ID check failed. Use timeline_cli.py to inspect/fix IDs.{Colors.RESET}")
+        return False
+    print(f"  {Colors.GREEN}[OK] All paired events share one unique stable ID.{Colors.RESET}")
+    return True
+
+
+def run_checks():
     check_only = "--check-only" in sys.argv
     git_diff_only = "--git-diff" in sys.argv
 
     if git_diff_only:
-        diff_ok = check_git_diff_parity()
-        sys.exit(0 if diff_ok else 1)
+        return 0 if check_git_diff_parity() else 1
 
     struct_ok, blocks_vi, blocks_en = verify_structure_and_counts()
     if not struct_ok:
         print(f"\n{Colors.RED}[FAIL] Structure verification FAILED. Please ensure both files have matching events.{Colors.RESET}\n")
-        sys.exit(1)
+        return 1
 
     sort_ok = verify_date_parsing_and_sorting(blocks_vi, blocks_en)
     syntax_ok = verify_markdown_syntax(blocks_vi, blocks_en)
     events_vi = [b for b in blocks_vi if b['type'] == 'event']
     events_en = [b for b in blocks_en if b['type'] == 'event']
     images_ok = verify_images_sync(events_vi, events_en)
+    sources_ok = verify_event_sources_sync(events_vi, events_en)
+    ids_ok = verify_event_ids(events_vi, events_en)
 
     if not check_only:
         check_git_diff_parity()
 
-    if struct_ok and sort_ok and syntax_ok and images_ok:
+    if struct_ok and sort_ok and syntax_ok and images_ok and sources_ok and ids_ok:
         print(f"\n{Colors.BOLD}{Colors.GREEN}[SUCCESS] ALL CHECKS PASSED! Timelines are synchronized and valid.{Colors.RESET}\n")
-        sys.exit(0)
+        return 0
     else:
         print(f"\n{Colors.BOLD}{Colors.RED}[FAIL] SOME CHECKS FAILED. Please resolve the errors above.{Colors.RESET}\n")
-        sys.exit(1)
+        return 1
+
+
+def main():
+    quiet = "--quiet" in sys.argv
+    if not quiet:
+        print(f"{Colors.BOLD}{Colors.BLUE}======================================================{Colors.RESET}")
+        print(f"{Colors.BOLD}{Colors.BLUE}   Vietnamese Historical Events - Synchronization Check {Colors.RESET}")
+        print(f"{Colors.BOLD}{Colors.BLUE}======================================================{Colors.RESET}")
+
+    if quiet:
+        buf = io.StringIO()
+        with contextlib.redirect_stdout(buf):
+            code = run_checks()
+        for line in buf.getvalue().splitlines():
+            if "[OK]" in line:
+                continue
+            if line.startswith("  - "):
+                continue
+            print(line)
+    else:
+        code = run_checks()
+    sys.exit(code)
 
 
 if __name__ == "__main__":

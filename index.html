@@ -496,6 +496,12 @@
           <h4 class="text-xs font-bold text-parchment-accent uppercase tracking-wider" data-i18n="lblImages">Hình ảnh tư liệu:</h4>
           <div id="modal-images-list" class="grid grid-cols-1 gap-3"></div>
         </div>
+
+        <!-- Event Source / Citation -->
+        <div id="modal-source-container" class="hidden pt-3 border-t border-parchment-gold/40">
+          <h4 class="text-xs font-bold text-parchment-accent uppercase tracking-wider" data-i18n="lblSource">Nguồn sự kiện:</h4>
+          <p id="modal-source-text" class="text-xs text-parchment-subtle leading-relaxed mt-1"></p>
+        </div>
       </div>
 
       <!-- Modal Footer -->
@@ -599,6 +605,7 @@
           footerSub: "Tài liệu tổng hợp các mốc sự kiện quan trọng trong lịch sử dân tộc theo thứ tự thời gian.",
           lblSubDetails: "Chi tiết liên quan:",
           lblImages: "Hình ảnh tư liệu:",
+          lblSource: "Nguồn sự kiện:",
           lblViewFull: "Xem ảnh phóng to",
           btnCopy: "Sao Chép Trích Dẫn",
           btnBookmark: "Lưu Sự Kiện",
@@ -663,6 +670,7 @@
           footerSub: "Comprehensive historical record of key Vietnamese milestones in chronological order.",
           lblSubDetails: "Related details:",
           lblImages: "Historical Images & Documents:",
+          lblSource: "Event source:",
           lblViewFull: "View full size",
           btnCopy: "Copy Citation",
           btnBookmark: "Bookmark Event",
@@ -758,6 +766,8 @@
       const modalSubsList = document.getElementById('modal-subs-list');
       const modalImagesContainer = document.getElementById('modal-images-container');
       const modalImagesList = document.getElementById('modal-images-list');
+      const modalSourceContainer = document.getElementById('modal-source-container');
+      const modalSourceText = document.getElementById('modal-source-text');
       const btnModalCopy = document.getElementById('btn-modal-copy');
       const btnModalBookmark = document.getElementById('btn-modal-bookmark');
 
@@ -829,6 +839,54 @@
       function getImageSource(img) {
         if (!img) return '';
         return (currentLang === 'vi' ? (img.sourceVi || img.source) : (img.sourceEn || img.source)) || '';
+      }
+
+      // Per-event citation (`[Nguồn: ...]` / `[Source: ...]` in markdown)
+      function getEventSource(ev) {
+        if (!ev) return '';
+        return (currentLang === 'vi' ? (ev.sourceVi || ev.source) : (ev.sourceEn || ev.source)) || '';
+      }
+
+      // Stable event key: prefer the permanent `eid` (e.g. "EVT-0001"),
+      // fall back to the sequential numeric `id` for legacy data.
+      function evKey(ev) {
+        if (!ev) return null;
+        const k = ev.eid || ev.id;
+        return (k === null || k === undefined) ? null : String(k);
+      }
+
+      function findEvent(key) {
+        if (!window.TIMELINE_EVENTS || key === null || key === undefined) return null;
+        const ks = String(key);
+        return window.TIMELINE_EVENTS.find(e => String(e.eid || e.id) === ks) || null;
+      }
+
+      // Escape HTML then auto-link raw http(s) URLs inside the citation text
+      function renderSourceText(raw) {
+        const esc = escapeHtml(raw || '');
+        return esc.replace(/(https?:\/\/[^\s<]+)/g, function(url) {
+          let trail = '';
+          while (url.length > 0 && '.,;:!?)]}'.indexOf(url.slice(-1)) !== -1) {
+            trail = url.slice(-1) + trail;
+            url = url.slice(0, -1);
+          }
+          if (!url) return trail;
+          return '<a href="' + url + '" target="_blank" rel="noopener noreferrer" class="underline decoration-parchment-gold hover:text-parchment-accent break-all">' + url + '</a>' + trail;
+        });
+      }
+
+      function eventSourceHtml(ev) {
+        const src = getEventSource(ev);
+        if (!src) return '';
+        const label = escapeHtml(i18n[currentLang].lblSource);
+        return `
+          <div class="mt-2.5 pt-2 border-t border-parchment-gold/30 text-[11px] leading-relaxed text-parchment-subtle flex items-start gap-1.5">
+            <svg class="w-3.5 h-3.5 flex-shrink-0 mt-px text-parchment-goldDark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1-2.5-2.5Z"/>
+            </svg>
+            <span><span class="font-bold text-parchment-accent">${label}</span> ${renderSourceText(src)}</span>
+          </div>
+        `;
       }
 
       function updateRenderedImages() {
@@ -1163,7 +1221,8 @@
             const desc = (currentLang === 'vi' ? ev.descVi : ev.descEn).toLowerCase();
             const dateStr = (currentLang === 'vi' ? ev.dateVi : ev.dateEn).toLowerCase();
             const subsStr = (currentLang === 'vi' ? ev.subsVi : ev.subsEn).join(' ').toLowerCase();
-            if (!desc.includes(query) && !dateStr.includes(query) && !subsStr.includes(query)) {
+            const srcStr = (((currentLang === 'vi' ? (ev.sourceVi || ev.source) : (ev.sourceEn || ev.source))) || '').toLowerCase();
+            if (!desc.includes(query) && !dateStr.includes(query) && !subsStr.includes(query) && !srcStr.includes(query)) {
               return false;
             }
           }
@@ -1378,7 +1437,7 @@
             const dateStr = currentLang === 'vi' ? ev.dateVi : ev.dateEn;
             const descStr = currentLang === 'vi' ? ev.descVi : ev.descEn;
             const subs = currentLang === 'vi' ? ev.subsVi : ev.subsEn;
-            const isBookmarked = bookmarks.includes(ev.id);
+            const isBookmarked = bookmarks.includes(evKey(ev));
             const hasImages = ev.images && ev.images.length > 0;
 
             let imagesHtml = '';
@@ -1422,7 +1481,7 @@
                 </span>
 
                 <div class="flex items-center gap-2 self-end sm:self-auto opacity-80 group-hover:opacity-100 transition-opacity">
-                  <button class="btn-bookmark-item p-1.5 rounded-md hover:bg-parchment-gold/40 text-parchment-accent" title="Lưu sự kiện" data-id="${ev.id}">
+                  <button class="btn-bookmark-item p-1.5 rounded-md hover:bg-parchment-gold/40 text-parchment-accent" title="Lưu sự kiện" data-id="${evKey(ev)}">
                     <svg class="w-4 h-4 ${isBookmarked ? 'fill-parchment-accent' : ''}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>
                   </button>
                 </div>
@@ -1439,6 +1498,8 @@
               ` : ''}
 
               ${imagesHtml}
+
+              ${eventSourceHtml(ev)}
             `;
 
             card.querySelectorAll('.timeline-img-card').forEach(imgCard => {
@@ -1454,10 +1515,10 @@
 
             card.addEventListener('click', (e) => {
               if (e.target.closest('.btn-bookmark-item')) {
-                toggleBookmark(ev.id);
+                toggleBookmark(evKey(ev));
                 return;
               }
-              openEventDetail(ev.id);
+              openEventDetail(evKey(ev));
             });
 
             tree.appendChild(card);
@@ -1479,7 +1540,7 @@
           const subs = currentLang === 'vi' ? ev.subsVi : ev.subsEn;
           const era = window.TIMELINE_ERAS[ev.eraIndex];
           const eraTitle = currentLang === 'vi' ? era.titleVi : era.titleEn;
-          const isBookmarked = bookmarks.includes(ev.id);
+          const isBookmarked = bookmarks.includes(evKey(ev));
           const hasImages = ev.images && ev.images.length > 0;
 
           let gridImgHtml = '';
@@ -1516,7 +1577,7 @@
                 <span class="inline-block px-2.5 py-1 rounded-md bg-parchment-accent text-parchment-bg font-display font-bold text-xs shadow-sm">
                   ${highlightText(dateStr, query)}
                 </span>
-                <button class="btn-bookmark-item p-1.5 rounded-md hover:bg-parchment-gold/40 text-parchment-accent" data-id="${ev.id}">
+                <button class="btn-bookmark-item p-1.5 rounded-md hover:bg-parchment-gold/40 text-parchment-accent" data-id="${evKey(ev)}">
                   <svg class="w-4 h-4 ${isBookmarked ? 'fill-parchment-accent' : ''}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>
                 </button>
               </div>
@@ -1532,6 +1593,8 @@
               ` : ''}
 
               ${gridImgHtml}
+
+              ${eventSourceHtml(ev)}
             </div>
 
             <div class="mt-4 pt-3 border-t border-parchment-gold/30 flex items-center justify-between text-xs text-parchment-subtle">
@@ -1553,10 +1616,10 @@
 
           card.addEventListener('click', (e) => {
             if (e.target.closest('.btn-bookmark-item')) {
-              toggleBookmark(ev.id);
+              toggleBookmark(evKey(ev));
               return;
             }
-            openEventDetail(ev.id);
+            openEventDetail(evKey(ev));
           });
 
           grid.appendChild(card);
@@ -1590,12 +1653,12 @@
           const subs = currentLang === 'vi' ? ev.subsVi : ev.subsEn;
           const era = window.TIMELINE_ERAS[ev.eraIndex];
           const eraTitle = currentLang === 'vi' ? era.titleVi : era.titleEn;
-          const isBookmarked = bookmarks.includes(ev.id);
+          const isBookmarked = bookmarks.includes(evKey(ev));
 
           const hasImages = ev.images && ev.images.length > 0;
 
           html += `
-            <tr class="hover:bg-parchment-gold/20 transition-colors cursor-pointer" data-id="${ev.id}">
+            <tr class="hover:bg-parchment-gold/20 transition-colors cursor-pointer" data-id="${evKey(ev)}">
               <td class="p-3.5 font-bold text-parchment-accent whitespace-nowrap align-top">${highlightText(dateStr, query)}</td>
               <td class="p-3.5 font-medium text-parchment-text leading-relaxed align-top">
                 ${highlightText(descStr, query)}
@@ -1612,10 +1675,11 @@
                     </span>
                   </div>
                 ` : ''}
+                ${eventSourceHtml(ev)}
               </td>
               <td class="p-3.5 text-xs text-parchment-subtle whitespace-nowrap align-top">${escapeHtml(eraTitle.substring(0, 30))}...</td>
               <td class="p-3.5 text-right align-top">
-                <button class="btn-bookmark-item p-1 rounded hover:bg-parchment-gold/40 text-parchment-accent" data-id="${ev.id}">
+                <button class="btn-bookmark-item p-1 rounded hover:bg-parchment-gold/40 text-parchment-accent" data-id="${evKey(ev)}">
                   <svg class="w-4 h-4 ${isBookmarked ? 'fill-parchment-accent' : ''}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>
                 </button>
               </td>
@@ -1639,7 +1703,7 @@
 
         tableCard.querySelectorAll('tbody tr').forEach(tr => {
           tr.addEventListener('click', (e) => {
-            const id = parseInt(tr.getAttribute('data-id'), 10);
+            const id = tr.getAttribute('data-id');
             if (e.target.closest('.btn-bookmark-item')) {
               toggleBookmark(id);
               return;
@@ -1653,9 +1717,9 @@
 
       // Event Modal View
       function openEventDetail(eventId) {
-        const ev = window.TIMELINE_EVENTS.find(e => e.id === eventId);
+        const ev = findEvent(eventId);
         if (!ev) return;
-        activeModalEventId = eventId;
+        activeModalEventId = evKey(ev);
 
         const era = window.TIMELINE_ERAS[ev.eraIndex];
         const eraTitle = currentLang === 'vi' ? era.titleVi : era.titleEn;
@@ -1712,6 +1776,16 @@
           modalImagesList.innerHTML = '';
         }
 
+        // Render Event Source / Citation
+        const evSource = getEventSource(ev);
+        if (evSource) {
+          modalSourceContainer.classList.remove('hidden');
+          modalSourceText.innerHTML = `<span class="font-bold text-parchment-accent">${escapeHtml(i18n[currentLang].lblSource)}</span> ${renderSourceText(evSource)}`;
+        } else {
+          modalSourceContainer.classList.add('hidden');
+          modalSourceText.innerHTML = '';
+        }
+
         updateModalBookmarkBtn(eventId);
         modalDetail.classList.remove('hidden');
       }
@@ -1726,7 +1800,7 @@
 
       function copyActiveEventCitation() {
         if (!activeModalEventId) return;
-        const ev = window.TIMELINE_EVENTS.find(e => e.id === activeModalEventId);
+        const ev = findEvent(activeModalEventId);
         if (!ev) return;
 
         const dateStr = currentLang === 'vi' ? ev.dateVi : ev.dateEn;
@@ -1789,7 +1863,7 @@
         }
 
         bookmarks.forEach(id => {
-          const ev = window.TIMELINE_EVENTS.find(e => e.id === id);
+          const ev = findEvent(id);
           if (!ev) return;
 
           const dateStr = currentLang === 'vi' ? ev.dateVi : ev.dateEn;
@@ -1801,7 +1875,7 @@
           item.innerHTML = `
             <div class="flex items-center justify-between">
               <span class="font-bold text-xs text-parchment-accent">${parseMarkdown(dateStr)}</span>
-              <button class="btn-remove-bk text-parchment-subtle hover:text-parchment-accent p-1" data-id="${ev.id}">
+              <button class="btn-remove-bk text-parchment-subtle hover:text-parchment-accent p-1" data-id="${evKey(ev)}">
                 <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6 6 18M6 6l12 12"/></svg>
               </button>
             </div>
@@ -1810,12 +1884,12 @@
 
           item.querySelector('.btn-remove-bk').addEventListener('click', (e) => {
             e.stopPropagation();
-            toggleBookmark(ev.id);
+            toggleBookmark(evKey(ev));
           });
 
           item.addEventListener('click', () => {
             modalBookmarks.classList.add('hidden');
-            openEventDetail(ev.id);
+            openEventDetail(evKey(ev));
           });
 
           bookmarksList.appendChild(item);
