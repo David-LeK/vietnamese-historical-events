@@ -1080,53 +1080,53 @@
 
 ### **Dai Viet Period - Tran Dynasty (1226 - 1400)**
 
-*   **1226:** Prince Ly Long Tuong, a son of King Ly Anh Tong, left the country with his followers to seek refuge in Goryeo (Korea), becoming the ancestor of the Ly clan in Korea.
+*   **1226:** Prince Ly Long Tuong, a son of King Ly Anh Tong, left the country with his followers to seek refuge in Goryeo (Korea), becoming the ancestor of the Ly clan in Korea. [Source: Ly Long Tuong and the Hwasan Lee Clan (Thanh Nien), https://thanhnien.vn/gan-8-the-ky-vong-co-huong-ly-long-tuong-va-dong-toc-ly-hoa-son-185514092.htm]
 
 <!-- id: EVT-0323 -->
-*   **1226 - 1229:** Tran Quoc Tuan (Tran Hung Dao) was born in Tuc Mac village, My Loc district, Nam Dinh province. He later became a brilliant military strategist and Commander-in-Chief of the Dai Viet army.
+*   **1226 - 1229:** Tran Quoc Tuan (Tran Hung Dao) was born in Tuc Mac village, My Loc district, Nam Dinh province. He later became a brilliant military strategist and Commander-in-Chief of the Dai Viet army. [Source: Tran Quoc Tuan - Symbol of National Strength (Bao Dau Thau), https://baodauthau.vn/tran-quoc-tuan-bieu-tuong-hoi-tu-suc-manh-dan-toc-post83962.html]
 
 ![Historical Image](images/event_20260924_111620.webp)
 
 *Source: Statue of Tran Hung Dao in Nam Dinh / Nguyen Thanh Quang (Wikimedia Commons, Public domain)*
 
 <!-- id: EVT-0324 -->
-*   **Jan. 10, 1226:** Under the arrangement of Tran Thu Do, Ly Chieu Hoang ceded the throne to her husband, Tran Canh (Tran Thai Tong). In January 1226, she was officially invested as Empress Chieu Thanh. The Ly dynasty ended.
+*   **Jan. 10, 1226:** Under the arrangement of Tran Thu Do, Ly Chieu Hoang ceded the throne to her husband, Tran Canh (Tran Thai Tong). In January 1226, she was officially invested as Empress Chieu Thanh. The Ly dynasty ended. [Source: Which Vietnamese Princess Married Two Kings (VnExpress), https://vnexpress.net/cong-chua-nao-trong-su-viet-lay-hai-vua-lam-chong-4378627-p9.html]
 
 <!-- id: EVT-0325 -->
-*   **Aug. 1226:** Tran Thu Do forced Ly Hue Tong (who had become a monk) to commit suicide at Chan Giao Pagoda.
+*   **Aug. 1226:** Tran Thu Do forced Ly Hue Tong (who had become a monk) to commit suicide at Chan Giao Pagoda. [Source: Revisiting the Tran Thu Do Case Against the Ly Clan (Thanh Nien), https://thanhnien.vn/thu-lat-lai-vu-an-tran-thu-do-giet-het-ton-that-nha-ly-185278750.htm]
 
 <!-- id: EVT-0326 -->
-*   **1228:** The Tran court sent officials to review population registers in Thanh Hoa province.
+*   **1228:** The Tran court sent officials to review population registers in Thanh Hoa province. [Source: Dai Viet Under Tran Thai Tong (International Studies), https://nghiencuuquocte.org/2020/07/25/dai-viet-duoi-thoi-tran-thai-tong/]
 
 <!-- id: EVT-0327 -->
-*   **1229:** The Song dynasty officially recognized Tran Thai Tong as the King of An Nam.
+*   **1229:** The Song dynasty officially recognized Tran Thai Tong as the King of An Nam. [Source: Dai Viet Under Tran Thai Tong (International Studies), https://nghiencuuquocte.org/2020/07/25/dai-viet-duoi-thoi-tran-thai-tong/]
 
 <!-- id: EVT-0328 -->
-*   **1230:** The law codes Quoc trieu thong che and Quoc trieu thuong le were promulgated.
+*   **1230:** The law codes Quoc trieu thong che and Quoc trieu thuong le were promulgated. [Source: Organization and Nature of the Tran State (USSH History Faculty), https://his.ussh.vnu.edu.vn/vi/news/nguyen-anh-nhat-tran/vai-nhan-xet-ve-to-chuc-va-tinh-chat-nha-nuoc-thoi-tran-5824.html]
 
 <!-- id: EVT-0329 -->
-*   **1231:** Emperor Tran Thai Tong ordered eunuchs and soldiers to dig the Tram and Hao rivers in Thanh Hoa.
+*   **1231:** Emperor Tran Thai Tong ordered eunuchs and soldiers to dig the Tram and Hao rivers in Thanh Hoa. [Source: Dai Viet Under Tran Thai Tong (International Studies), https://nghiencuuquocte.org/2020/07/25/dai-viet-duoi-thoi-tran-thai-tong/]
 
 <!-- id: EVT-0330 -->
-*   **1232:** The first Confucian civil service examination of the Tran dynasty was organized during the reign of Emperor Tran Thai Tong. The regulation dividing successful candidates into three tiers (Tam giap) was established for the first time.
+*   **1232:** The first Confucian civil service examination of the Tran dynasty was organized during the reign of Emperor Tran Thai Tong. The regulation dividing successful candidates into three tiers (Tam giap) was established for the first time. [Source: Tran-Era Education and Examinations, https://thcslongbien.hanoi.edu.vn/lich-su/giao-duc-thoi-tran-xem-cha-ong-ta-mot-thoi-leu-chong-di-thi/ctmb/14992/614018]
 
 <!-- id: EVT-0331 -->
-*   **Apr. 1232:** The Tran court, under Tran Thu Do's directive, ordered the descendants of the Ly clan to change their surname to "Nguyen" to prevent any attempts to restore the former dynasty.
+*   **Apr. 1232:** The Tran court, under Tran Thu Do's directive, ordered the descendants of the Ly clan to change their surname to "Nguyen" to prevent any attempts to restore the former dynasty. [Source: Founding the Tran, Condemning the Ly (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/6488/an-xua-sang-lap-nha-tran-toi-than-nha-ly.html]
 
 <!-- id: EVT-0332 -->
 *   **1233:** Population registers were reviewed in Nghe An.
 
 <!-- id: EVT-0333 -->
-*   **1233:** Crown Prince Trinh, the first child of Emperor Tran Thai Tong, passed away shortly after birth.
+*   **1233:** Crown Prince Trinh, the first child of Emperor Tran Thai Tong, passed away shortly after birth. [Source: The Husbands and Children of Ly Chieu Hoang (National Museum of History), https://baotanglichsu.vn/vi/Articles/2001/66297/chuyen-chong-va-con-cua-ly-chieu-hoang.html]
 
 <!-- id: EVT-0334 -->
-*   **Jan. 18, 1234:** Retired Emperor (Thuong hoang) Tran Thua passed away at the age of 51. He held the position of Retired Emperor for 8 years without ever officially reigning as Emperor.
+*   **Jan. 18, 1234:** Retired Emperor (Thuong hoang) Tran Thua passed away at the age of 51. He held the position of Retired Emperor for 8 years without ever officially reigning as Emperor. [Source: Commemorating the Tran Retired Emperor in Nam Dinh (Dai Doan Ket), https://daidoanket.vn/nam-dinh-tuong-niem-vi-thai-thuong-hoang-cua-vuong-trieu-tran-10243479.html]
 
 <!-- id: EVT-0335 -->
 *   **1236:** King Tran Thai Tong ordered the re-dredging of the To Lich river and established regulations for paying salaries to civil and military officials by sharing tax revenue.
 
 <!-- id: EVT-0336 -->
-*   **1237:** Tran Thu Do forced Emperor Tran Thai Tong to marry his older brother Tran Lieu's wife, Princess Thuan Thien, and invested her as Empress. Former Empress Chieu Thanh (Ly Chieu Hoang) was demoted to Princess due to her prolonged inability to bear an heir. Late that year, Thuan Thien gave birth to Tran Quoc Khang (who was actually Tran Lieu's son). This forced marriage triggered the Tran Lieu rebellion.
+*   **1237:** Tran Thu Do forced Emperor Tran Thai Tong to marry his older brother Tran Lieu's wife, Princess Thuan Thien, and invested her as Empress. Former Empress Chieu Thanh (Ly Chieu Hoang) was demoted to Princess due to her prolonged inability to bear an heir. Late that year, Thuan Thien gave birth to Tran Quoc Khang (who was actually Tran Lieu's son). This forced marriage triggered the Tran Lieu rebellion. [Source: The Story of Tran Quoc Khang (Historical Anecdotes), https://scov.gov.vn/ban-sac-van-hoa/viet-su-giai-thoai/chuyen-tran-quoc-khang.html]
 
 <!-- id: EVT-0337 -->
 *   **1237:** King Tran Thai Tong granted the lands of Yen Phu, Yen Duong, Yen Sinh, Yen Hung, and Yen Bang to his brother Tran Lieu as a "thang mộc ấp" (bathing appanage). He also formalized the procedure for making deeds for land sales and loans, requiring witnesses to fingerprint the first three lines and sellers the last four lines.
@@ -1135,94 +1135,94 @@
 *   **1238:** Population registers were reviewed in Thanh Hoa.
 
 <!-- id: EVT-0339 -->
-*   **Sep. 25, 1240:** Prince Tran Hoang (later Emperor Tran Thanh Tong), the eldest legitimate son of Emperor Tran Thai Tong, was born and established as the Crown Prince (Dong Cung Thai tu).
+*   **Sep. 25, 1240:** Prince Tran Hoang (later Emperor Tran Thanh Tong), the eldest legitimate son of Emperor Tran Thai Tong, was born and established as the Crown Prince (Dong Cung Thai tu). [Source: Tran Thanh Tong – Warrior-Monk Emperor (Nguoi Ha Noi), https://nguoihanoi.vn/tran-thanh-tong-hoang-de-danh-giac-va-tu-thien-78957.html]
 
 <!-- id: EVT-0340 -->
-*   **Oct. 1241:** Prince Tran Quang Khai, a younger full brother of Crown Prince Tran Hoang, was born.
+*   **Oct. 1241:** Prince Tran Quang Khai, a younger full brother of Crown Prince Tran Hoang, was born. [Source: Tran Quang Khai (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Quang_Kh%E1%BA%A3i]
 
 <!-- id: EVT-0341 -->
-*   **1242:** The court carried out administrative reforms, dividing the country into 12 routes (lo).
+*   **1242:** The court carried out administrative reforms, dividing the country into 12 routes (lo). [Source: Tran Thai Tong and Tran-Era Reforms (Buddhist Studies Journal), https://tapchinghiencuuphathoc.vn/tran-thai-tong-va-van-de-cai-cach-dat-nuoc-thoi-tran.html]
 
 <!-- id: EVT-0342 -->
 *   **1242:** The Tran dynasty defined the "điền phú" tax system. Men with land paid money and rice based on acreage (1-2 mau paid 1 quan, 3-4 mau paid 2 quan, 5+ mau paid 3 quan), while those without land were exempt.
 
 <!-- id: EVT-0343 -->
-*   **1247:** Nguyen Hien passed the imperial examination as Trang Nguyen (First Laureate) at the age of 12, becoming the youngest First Laureate in Vietnamese history.
+*   **1247:** Nguyen Hien passed the imperial examination as Trang Nguyen (First Laureate) at the age of 13, becoming the youngest First Laureate in Vietnamese history. [Source: Temple of First Laureate Nguyen Hien (Ninh Binh News), https://baoninhbinh.org.vn/den-tho-trang-nguyen-nguyen-hien-noi-gin-giu-va-lan-toa-truyen-thong-hieu-hoc-260322085052696.html]
 
 <!-- id: EVT-0344 -->
-*   **1247:** During the Dinh Mui examination, the Tran court established the title "Tam khoi" (Three Laureates) for the first time to designate the three most outstanding successful candidates, ranked as Trang nguyen, Bang nhan, and Tham hoa.
+*   **1247:** During the Dinh Mui examination, the Tran court established the title "Tam khoi" (Three Laureates) for the first time to designate the three most outstanding successful candidates, ranked as Trang nguyen, Bang nhan, and Tham hoa. [Source: Vietnam Rare Examination With Two First Laureates (Znews), https://znews.vn/ky-thi-hai-trang-hiem-co-o-viet-nam-post979516.html]
 
 <!-- id: EVT-0345 -->
-*   **1248:** Emperor Tran Thai Tong mobilized the populace to construct the "Dinh Nhi" dikes from river sources to the sea to prevent flooding, and ordered the excavation of the Le and Ma rivers in Thanh Hoa.
+*   **1248:** Emperor Tran Thai Tong mobilized the populace to construct the "Dinh Nhi" dikes from river sources to the sea to prevent flooding, and ordered the excavation of the Le and Ma rivers in Thanh Hoa. [Source: The Story of Dike Building (People Public Security), https://cand.vn/cau-chuyen-dap-de-post790641.html]
 
 <!-- id: EVT-0346 -->
-*   **Jun. 1248:** Empress Thuan Thien passed away.
+*   **Jun. 1248:** Empress Thuan Thien passed away. [Source: The Turbulent Life of Empress Thuan Thien (Phu Nu Vietnam), https://phunuvietnam.vn/doi-nhieu-bien-co-cua-thai-hau-thuan-thien-25907.htm]
 
 <!-- id: EVT-0347 -->
 *   **1250:** King Tran Thai Tong issued a decree requiring the people to address the King as "Quoc gia" (The Nation/State) to elevate the King's position and national unity.
 
 <!-- id: EVT-0348 -->
-*   **Spring 1251:** Emperor Tran Thai Tong had betrothed his eldest daughter, Princess Thien Thanh, to Trung Thanh Vuong (son of Nhan Dao Vuong). However, Tran Quoc Tuan (later Tran Hung Dao), deeply in love with the Princess from childhood, boldly infiltrated her room at night. Princess Thuy Ba (the Emperor's sister, who raised Quoc Tuan) presented 10 trays of gold to the Emperor to request the marriage. To avoid punishing Quoc Tuan, Emperor Tran Thai Tong sanctioned their union and compensated Nhan Dao Vuong with 2,000 mau of land in Ung Thien prefecture. This marriage later produced four prominent generals (Hung Vu Vuong, Hung Tri Vuong, Hung Nhuong Vuong, Hung Hien Vuong) and two daughters (including Queen Kham Tu).
+*   **Spring 1251:** Emperor Tran Thai Tong had betrothed his eldest daughter, Princess Thien Thanh, to Trung Thanh Vuong (son of Nhan Dao Vuong). However, Tran Quoc Tuan (later Tran Hung Dao), deeply in love with the Princess from childhood, boldly infiltrated her room at night. Princess Thuy Ba (the Emperor's sister, who raised Quoc Tuan) presented 10 trays of gold to the Emperor to request the marriage. To avoid punishing Quoc Tuan, Emperor Tran Thai Tong sanctioned their union and compensated Nhan Dao Vuong with 2,000 mau of land in Ung Thien prefecture. This marriage later produced four prominent generals (Hung Vu Vuong, Hung Tri Vuong, Hung Nhuong Vuong, Hung Hien Vuong) and two daughters (including Queen Kham Tu). [Source: Princess Thien Thanh (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Thi%C3%AAn_Th%C3%A0nh_C%C3%B4ng_ch%C3%BAa]
 
 <!-- id: EVT-0349 -->
-*   **1252:** Tran Thai Tong personally led a campaign against Champa.
+*   **1252:** Tran Thai Tong personally led a campaign against Champa. [Source: King Tran Thai Tong and Champa Policy (Mot The Gioi), https://1thegioi.vn/vua-tran-thai-tong-va-chinh-sach-cung-ran-voi-chiem-thanh-17233.html]
 
 <!-- id: EVT-0350 -->
-*   **Jun. 1253:** King Tran Thai Tong established the **Quoc Hoc Vien** (National Academy) for scholars to lecture on the Classics.
+*   **Jun. 1253:** King Tran Thai Tong established the **Quoc Hoc Vien** (National Academy) for scholars to lecture on the Classics. [Source: The First King of the Tran Dynasty (VnExpress), https://vnexpress.net/tim-hieu-ong-vua-dau-tien-cua-nha-tran-3541297-p8.html]
 
 <!-- id: EVT-0351 -->
-*   **Aug. 1253:** The **Giang Vo Duong** (Military Academy) was established to train in martial arts, marking a formalization of military education.
+*   **Aug. 1253:** The **Giang Vo Duong** (Military Academy) was established to train in martial arts, marking a formalization of military education. [Source: Vietnam First Military Academy, https://scov.gov.vn/dat-nuoc-con-nguoi/1000-nam-thang-long-ha-noi/hoc-vien-quan-su-dau-tien-cua-viet-nam.html]
 
 <!-- id: EVT-0352 -->
 *   **Jun. 1254:** Emperor Tran Thai Tong sold public land (quan dien) to commoners at 5 quan per mau to convert into private property, officially recognizing and promoting private land ownership.
 
 <!-- id: EVT-0353 -->
-*   **1255:** Emperor Tran Thai Tong dispatched Luu Mien to supervise dike construction along rivers in Thanh Hoa.
+*   **1255:** Emperor Tran Thai Tong dispatched Luu Mien to supervise dike construction along rivers in Thanh Hoa. [Source: The Story of Dike Building (People Public Security), https://cand.vn/cau-chuyen-dap-de-post790641.html]
 
 <!-- id: EVT-0354 -->
-*   **1256:** The Tran court distinguished for the first time between "Kinh Trang Nguyen" (for candidates from Ninh Binh northwards) and "Trai Trang Nguyen" (for candidates from Thanh Hoa southwards) to encourage talent from different regions. Tran Quoc Lac and Truong Xan were the respective laureates.
+*   **1256:** The Tran court distinguished for the first time between "Kinh Trang Nguyen" (for candidates from Ninh Binh northwards) and "Trai Trang Nguyen" (for candidates from Thanh Hoa southwards) to encourage talent from different regions. Tran Quoc Lac and Truong Xan were the respective laureates. [Source: Kinh and Trai Laureates Were All Talents (Quang Tri News), https://baoquangtri.vn/van-hoa/202504/ke-kinh-nguoi-trai-cung-la-tai-danh-2225739]
 
 <!-- id: EVT-0355 -->
 *   **Feb. 1257:** Emperor Tran Thai Tong took the daughter of Hoang Binh into the palace, investing her as Concubine Hue Tuc (Hue Tuc phu nhan).
 
 <!-- id: EVT-0356 -->
-*   **Aug. 1257:** A Mongol envoy came to Dai Viet for the first time to demand submission.
+*   **Aug. 1257:** A Mongol envoy came to Dai Viet for the first time to demand submission. [Source: Dai Viet First Defeat of the Mongols (International Studies), https://nghiencuuquocte.org/2020/08/22/dai-viet-lan-dau-danh-bai-quan-nguyen-mong]
 
 <!-- id: EVT-0357 -->
-*   **Sep. 1257:** King Tran Thai Tong issued a decree commanding generals to lead troops to guard the borders under the command of Tran Quoc Tuan (Tran Hung Dao).
+*   **Sep. 1257:** King Tran Thai Tong issued a decree commanding generals to lead troops to guard the borders under the command of Tran Quoc Tuan (Tran Hung Dao). [Source: Dai Viet First Defeat of the Mongols (International Studies), https://nghiencuuquocte.org/2020/08/22/dai-viet-lan-dau-danh-bai-quan-nguyen-mong]
 
 <!-- id: EVT-0358 -->
-*   **Dec. 1257:** Mongol forces commanded by Uriyangkhadai, comprising Mongol cavalry alongside auxiliary troops from the newly conquered Kingdom of Dali, advanced from Yunnan to invade the borders of Dai Viet; the Battle of No Nguyen took place.
+*   **Dec. 1257:** Mongol forces commanded by Uriyangkhadai, comprising Mongol cavalry alongside auxiliary troops from the newly conquered Kingdom of Dali, advanced from Yunnan to invade the borders of Dai Viet; the Battle of No Nguyen took place. [Source: Uriyangkhadai Attacks Dai Viet (Dan Viet), https://danviet.vn/ngot-luong-hop-thai-cong-than-dung-hang-thu-3-nha-nguyen-va-that-bai-tai-dai-viet-20230426184537672-d1090074.html]
 
 <!-- id: EVT-0359 -->
-*   **Jan. 17, 1258:**   **Battle of Binh Le Nguyen.** King Tran Thai Tong directly commanded the army against the Mongol invasion led by Uriyangkhadai. Following the advice of Le Tan, the King ordered a strategic retreat to Phu Lo to preserve forces, avoiding the enemy's initial fervor.
+*   **Jan. 17, 1258:**   **Battle of Binh Le Nguyen.** King Tran Thai Tong directly commanded the army against the Mongol invasion led by Uriyangkhadai. Following the advice of Le Tan, the King ordered a strategic retreat to Phu Lo to preserve forces, avoiding the enemy's initial fervor. [Source: Dai Viet First Defeat of the Mongols (International Studies), https://nghiencuuquocte.org/2020/08/22/dai-viet-lan-dau-danh-bai-quan-nguyen-mong]
 
 <!-- id: EVT-0360 -->
-*   **Jan. 29, 1258:**   **Battle of Dong Bo Dau.** Under the command of Tran Khanh Du and the King, the Tran army launched a surprise night attack, winning a decisive victory and liberating Thang Long. The first resistance war against the Mongols ended in victory.
+*   **Jan. 29, 1258:**   **Battle of Dong Bo Dau.** Under the command of Tran Khanh Du and the King, the Tran army launched a surprise night attack, winning a decisive victory and liberating Thang Long. The first resistance war against the Mongols ended in victory. [Source: 755th Anniversary of the First Mongol Defeat (National Museum of History), https://baotanglichsu.vn/vi/Articles/3097/15525/ky-niem-755-chien-thang-quan-nguyen-mong-lan-thu-nhat.html]
 
 <!-- id: EVT-0361 -->
-*   **Mar. 1258:** Tran Thai Tong ceded the throne to his son, Tran Hoang (Tran Thanh Tong).
+*   **Mar. 1258:** Tran Thai Tong ceded the throne to his son, Tran Hoang (Tran Thanh Tong). [Source: Tran Thanh Tong – Warrior-Monk Emperor (Nguoi Ha Noi), https://nguoihanoi.vn/tran-thanh-tong-hoang-de-danh-giac-va-tu-thien-78957.html]
 
 <!-- id: EVT-0362 -->
-*   **1262:** King Tran Thanh Tong elevated Tuc Mac village to Thien Truong prefecture, and built the Trung Quang Palace and Pho Minh Tower (Nam Dinh).
+*   **1262:** King Tran Thanh Tong elevated Tuc Mac village to Thien Truong prefecture, and built the Trung Quang Palace and Pho Minh Tower (Nam Dinh). [Source: Tran-Era Thien Truong Palace (Dai Doan Ket), https://daidoanket.vn/hanh-cung-thien-truong-thoi-tran-dau-xua-con-lai-10184207.html]
 
 <!-- id: EVT-0363 -->
-*   **Oct. 1266:** Emperor Tran Thanh Tong issued an edict allowing princes, princesses, consorts, and royal relatives to recruit landless vagrants as household slaves to reclaim wasteland and establish private estates (dien trang).
+*   **Oct. 1266:** Emperor Tran Thanh Tong issued an edict allowing princes, princesses, consorts, and royal relatives to recruit landless vagrants as household slaves to reclaim wasteland and establish private estates (dien trang). [Source: Tran Thanh Tong (1258-1278), https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/tran-thanh-tong-1258-1278-.html]
 
 <!-- id: EVT-0364 -->
-*   **1267:** The Yuan dynasty presented "six demands" to Dai Viet, including that the Tran king must pay tribute in person and allow the appointment of administrators.
+*   **1267:** The Yuan dynasty presented "six demands" to Dai Viet, including that the Tran king must pay tribute in person and allow the appointment of administrators. [Source: Three Tran Kings and 12 Rejections of the Yuan (Mot The Gioi), https://1thegioi.vn/ba-doi-vua-tran-va-12-lan-cu-tuyet-nha-nguyen-17143.html]
 
 <!-- id: EVT-0365 -->
-*   **1272:** Le Van Huu completed the *Dai Viet Su Ky* (Annals of Dai Viet), the first national history of Vietnam, comprising 30 volumes.
+*   **1272:** Le Van Huu completed the *Dai Viet Su Ky* (Annals of Dai Viet), the first national history of Vietnam, comprising 30 volumes. [Source: Le Van Huu and the Dai Viet Su Ky (Thanh Hoa News), https://baothanhhoa.vn/le-van-huu-va-dai-viet-su-ky-157352.htm]
 
 <!-- id: EVT-0366 -->
-*   **May 5, 1277 (1st day of the 4th lunar month, Dinh Suu year):** Retired Emperor Tran Thai Tong (Tran Canh), the founding monarch of the Tran Dynasty who led Dai Viet to decisive victory in the First Mongol Invasion (1258), passed away at Van Tho Palace at the age of 60.
+*   **May 5, 1277 (1st day of the 4th lunar month, Dinh Suu year):** Retired Emperor Tran Thai Tong (Tran Canh), the founding monarch of the Tran Dynasty who led Dai Viet to decisive victory in the First Mongol Invasion (1258), passed away at Van Tho Palace at the age of 60. [Source: King Tran Thai Tong (1225-1258) (Tran Clan Council), http://hoidonghotranvietnam.vn/cac-vua-trieu-tran/tran-thai-tong/vua-tran-thai-tong-1225-1258-543347.html]
 
 <!-- id: EVT-0367 -->
-*   **1278:** Former Empress Chieu Thanh (Ly Chieu Hoang) passed away at the age of 61. After her demotion, she had been married to General Le Phu Tran, with whom she had a son (Thuong Vi Hau Tong) and a daughter (Ung Thuy Cong chua Khue).
+*   **1278:** Former Empress Chieu Thanh (Ly Chieu Hoang) passed away at the age of 61. After her demotion, she had been married to General Le Phu Tran, with whom she had a son (Thuong Vi Hau Tong) and a daughter (Ung Thuy Cong chua Khue). [Source: Was There a Wedding of Ly Chieu Hoang? (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/7508/co-hay-khong-le-cuoi-cua-ly-chieu-hoang.html]
 
 <!-- id: EVT-0368 -->
-*   **Oct. 24, 1278:** Emperor Trần Thánh Tông abdicated the throne in favor of Crown Prince Trần Khâm (later known as Emperor Trần Nhân Tông).
+*   **Oct. 24, 1278:** Emperor Trần Thánh Tông abdicated the throne in favor of Crown Prince Trần Khâm (later known as Emperor Trần Nhân Tông). [Source: Tran Nhan Tong – The Enlightened King (Court Magazine), https://tapchitoaan.vn/tran-nhan-tong-vi-vua-anh-minh]
 
 <!-- id: EVT-0369 -->
 *   **1280:** Prince Chieu Van Tran Nhat Duat rode alone into the camp of rebel leader Trinh Giac Mat in Da Giang, using extraordinary diplomatic finesse and deep knowledge of indigenous customs to secure submission to the court without shedding blood.
@@ -1231,387 +1231,384 @@
 *   **1281:** Schools were established in Thien Truong prefecture (Nam Dinh).
 
 <!-- id: EVT-0371 -->
-*   **1282:** The first work written in chữ Nôm (Vietnamese demotic script) was *Văn tế cá sấu* (Eulogy for the Crocodile) by Nguyễn Thuyên, composed during the Trần dynasty. This was a text commissioned by Emperor Trần Nhân Tông to drive away a crocodile that had appeared in the Red River.
+*   **1282:** The first work written in chữ Nôm (Vietnamese demotic script) was *Văn tế cá sấu* (Eulogy for the Crocodile) by Nguyễn Thuyên, composed during the Trần dynasty. This was a text commissioned by Emperor Trần Nhân Tông to drive away a crocodile that had appeared in the Red River. [Source: Han Thuyen: Father of Nom Script (Dan Viet), https://danviet.vn/han-thuyen-ong-to-van-nom-va-bai-te-duoi-ca-sau-20230629152341982-d1103184.html]
 
 <!-- id: EVT-0372 -->
-*   **Oct. 1282:** King Tran Nhan Tong convened the **Binh Than Conference** to discuss strategies against the Yuan invasion. Hoai Van Hau **Tran Quoc Toan**, being too young (15 years old) to participate, crushed an orange in his hand out of frustration. He later mobilized over 1,000 domestic servants and relatives, raising a flag with six golden words: "**Pha cuong dich, bao hoang an**" (Destroy the strong enemy, repay the royal favor) to join the resistance.
+*   **Oct. 1282:** King Tran Nhan Tong convened the **Binh Than Conference** to discuss strategies against the Yuan invasion. Hoai Van Hau **Tran Quoc Toan**, being too young (15 years old) to participate, crushed an orange in his hand out of frustration. He later mobilized over 1,000 domestic servants and relatives, raising a flag with six golden words: "**Pha cuong dich, bao hoang an**" (Destroy the strong enemy, repay the royal favor) to join the resistance. [Source: Tran Quoc Toan Orange (Thanh Nien), https://thanhnien.vn/qua-cam-tran-quoc-toan-18576375.htm]
 
 <!-- id: EVT-0373 -->
-*   **Dec. 1282:** Yuan forces under the command of Sogetu attacked Champa, initiating the plan to invade Dai Viet from the south.
+*   **Dec. 1282:** Yuan forces under the command of Sogetu attacked Champa, initiating the plan to invade Dai Viet from the south. [Source: The Battle That Stunned the World (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/12006/tran-djanh-kinh-djong-ca-the-gioi-cua-nguoi-viet.html]
 
 <!-- id: EVT-0374 -->
-*   **Mar. 19, 1283:** Yuan forces under Sogetu were defeated by the Champa army and had to retreat.
+*   **Mar. 19, 1283:** Yuan forces under Sogetu were defeated by the Champa army and had to retreat. [Source: Tran King Sent 20,000 Troops to Aid Champa (Mot The Gioi), https://1thegioi.vn/vua-tran-phai-2-van-quan-vien-chiem-khang-mong-17247.html]
 
 <!-- id: EVT-0375 -->
-*   **Oct. 1283:** To prepare for the second resistance against the Yuan army, Tran Quoc Tuan was appointed by Emperor Emeritus Tran Thanh Tong and King Tran Nhan Tong as the Commander-in-Chief (Quoc cong tiet che) of the armed forces.
+*   **Oct. 1283:** To prepare for the second resistance against the Yuan army, Tran Quoc Tuan was appointed by Emperor Emeritus Tran Thanh Tong and King Tran Nhan Tong as the Commander-in-Chief (Quoc cong tiet che) of the armed forces. [Source: Dai Viet Second Defeat of the Mongols (International Studies), https://nghiencuuquocte.org/2020/10/25/dai-viet-danh-bai-quan-nguyen-mong-lan-thu-hai]
 
 <!-- id: EVT-0376 -->
 *   **1284:** Emperor Tran Nhan Tong ordered the re-dredging of the To Lich River.
 
 <!-- id: EVT-0377 -->
-*   **Aug. 1284:** Tran Hung Dao held a military review at Dong Bo Dau (Hanoi) and wrote the "Proclamation to the Officers" (Hich tuong si) to boost the morale of the soldiers.
+*   **Aug. 1284:** Tran Hung Dao held a military review at Dong Bo Dau (Hanoi) and wrote the "Proclamation to the Officers" (Hich tuong si) to boost the morale of the soldiers. [Source: Proclamation to the Officers (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/H%E1%BB%8Bch_t%C6%B0%E1%BB%9Bng_s%C4%A9]
 
 ![Historical Image](images/event_20260924_111622.webp)
 
 *Source: Gate of Kiep Bac Temple, Hai Duong — shrine of Grand Prince Hung Dao / Handy Huy (Wikimedia Commons, CC BY 3.0)*
 
 <!-- id: EVT-0378 -->
-*   **Dec. 1284:** King Tran convened the Dien Hong Conference, asking for the opinions of elders throughout the country on whether to make peace or fight.
+*   **Dec. 1284:** King Tran convened the Dien Hong Conference, asking for the opinions of elders throughout the country on whether to make peace or fight. [Source: The Dien Hong Conference (Phap Luat), https://baophapluat.vn/hoi-nghi-dien-hong-vang-mai-hao-khi-non-song-post415412.html]
 
 ![Historical Image](images/event_20260923_122637.webp)
 
 *Source: Relief of the Dien Hong Conference at the Tran Hung Dao Temple (Photo: Phuong Huy / Wikimedia Commons / CC BY-SA 4.0)*
 
 <!-- id: EVT-0379 -->
-*   **1285:** When King Tran Thanh Tong asked if he should surrender during the difficult early stages of the war, Tran Hung Dao famously replied: "Your Majesty, if you want to surrender, please cut off my head first."
+*   **1285:** When King Tran Thanh Tong asked if he should surrender during the difficult early stages of the war, Tran Hung Dao famously replied: "Your Majesty, if you want to surrender, please cut off my head first." [Source: The General Who Said Behead Him First, Then Surrender (VnExpress), https://vnexpress.net/danh-tuong-nao-noi-chem-dau-than-truoc-roi-hay-hang-4428807-p8.html]
 
 ![Historical Image](images/event_20260923_232059.webp)
 
 *Source: Tran Hung Dao statue / Vietvisiontravel*
 
 <!-- id: EVT-0380 -->
-*   **1285:** Officer Yet Kieu (Pham Huu The) distinguished himself during the second Mongol invasion with his extraordinary diving prowess to sabotage enemy warships, while demonstrating steadfast loyalty by keeping his boat stationed at Bai Tan to help Supreme Commander Tran Quoc Tuan break through enemy encirclement.
+*   **1285:** Officer Yet Kieu (Pham Huu The) distinguished himself during the second Mongol invasion with his extraordinary diving prowess to sabotage enemy warships, while demonstrating steadfast loyalty by keeping his boat stationed at Bai Tan to help Supreme Commander Tran Quoc Tuan break through enemy encirclement. [Source: Two Generals in World Documentary Heritage (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/19035/hai-danh-tuong-djuoc-khac-trong-di-san-tu-lieu-the-gioi-ve-su-trung-thanh.html]
 
 <!-- id: EVT-0381 -->
-*   **Jan. 1285:** Yuan forces under the command of Toghon began the second invasion of Dai Viet.
+*   **Jan. 1285:** Yuan forces under the command of Toghon began the second invasion of Dai Viet. [Source: Dai Viet Second Defeat of the Mongols (International Studies), https://nghiencuuquocte.org/2020/10/25/dai-viet-danh-bai-quan-nguyen-mong-lan-thu-hai]
 
 <!-- id: EVT-0382 -->
-*   **Mar. 1285:** To delay the Mongol advance and buy time for the army to retreat and regroup, Princess **An Tu** (youngest sister of King Tran Thanh Tong) was sent to the Mongol general Toghon as part of a "beauty trap" stratagem.
+*   **Mar. 1285:** To delay the Mongol advance and buy time for the army to retreat and regroup, Princess **An Tu** (youngest sister of King Tran Thanh Tong) was sent to the Mongol general Toghon as part of a "beauty trap" stratagem. [Source: The Beauty-Trap of Vietnam Renowned Princess (VUSTA), https://vusta.vn/ke-my-nhan-noi-tieng-cua-cong-chua-lung-danh-nuoc-viet-p67570.html]
 
 <!-- id: EVT-0383 -->
-*   **Mar. 1285:** Prince Chieu Quoc Vuong Tran Ich Tac surrendered to the Yuan army.
+*   **Mar. 1285:** Prince Chieu Quoc Vuong Tran Ich Tac surrendered to the Yuan army. [Source: Four Disgraced Tran Aristocrats (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/12995/djiem-danh-bon-vi-djai-quy-toc-o-nhuc-cua-nha-tran.html]
 
 <!-- id: EVT-0384 -->
-*   **May 1285:** The Tran army began a major counter-offensive: King Tran ordered Prince Chieu Thanh, Hoai Van Hau Tran Quoc Toan, and General Nguyen Khoai to lead elite troops to strike the Yuan forces at Tay Ket (the first engagement at Tay Ket), initiating successive victories at Tay Ket, Ham Tu, and Chuong Duong.
+*   **May 1285:** The Tran army began a major counter-offensive: King Tran ordered Prince Chieu Thanh, Hoai Van Hau Tran Quoc Toan, and General Nguyen Khoai to lead elite troops to strike the Yuan forces at Tay Ket (the first engagement at Tay Ket), initiating successive victories at Tay Ket, Ham Tu, and Chuong Duong. [Source: The Battle That Stunned the World (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/12006/tran-djanh-kinh-djong-ca-the-gioi-cua-nguoi-viet.html]
 
 <!-- id: EVT-0385 -->
-*   **Early May 1285 (Lunar):** Prince Chieu Van Tran Nhat Duat led Dai Viet forces to decisively defeat the Yuan army commanded by Sogetu (Toa Do) at the Battle of Ham Tu Pass (Hung Yen), forcing Sogetu to retreat to Thien Truong and creating a strategic turning point to liberate Thang Long.
+*   **Early May 1285 (Lunar):** Prince Chieu Van Tran Nhat Duat led Dai Viet forces to decisively defeat the Yuan army commanded by Sogetu (Toa Do) at the Battle of Ham Tu Pass (Hung Yen), forcing Sogetu to retreat to Thien Truong and creating a strategic turning point to liberate Thang Long. [Source: Tran Nhat Duat Commanded Ham Tu (VnExpress), https://vnexpress.net/6-cau-hoi-ve-danh-tuong-gioi-ngoai-ngu-bac-nhat-nha-tran-3558390-p9.html]
 
 <!-- id: EVT-0386 -->
-*   **Jun. 1285:** The second resistance war against the Mongol-Yuan invaders ended in a complete victory.
+*   **Jun. 1285:** The second resistance war against the Mongol-Yuan invaders ended in a complete victory. [Source: Tran Nhat Duat, Outstanding Tran General (People Army), https://sknc.qdnd.vn/chuyen-xua-nay/tran-nhat-duat-danh-tuong-xuat-sac-trieu-tran-504155]
 
 <!-- id: EVT-0387 -->
-*   **Jun. 5, 1285:**   **Battle of Chuong Duong - Thang Long.** The Tran army launched a counter-offensive to liberate the capital. General Pham Ngu Lao commanded the flanking attack.
+*   **Jun. 5, 1285:**   **Battle of Chuong Duong - Thang Long.** The Tran army launched a counter-offensive to liberate the capital. General Pham Ngu Lao commanded the flanking attack. [Source: General Pham Ngu Lao (1255-1320) (National Museum of History), https://baotanglichsuquocgia.vn/vi/Articles/3098/16591/danh-tuong-pham-ngu-lao-1255-1320.html]
 
 <!-- id: EVT-0388 -->
-*   **Jun. 24, 1285 (Late May, Lunar):**   **Battle of Tay Ket.** Following victories at Ham Tu and Chuong Duong, Retired Emperor Tran Thanh Tong, King Tran Nhan Tong, and Supreme Commander Tran Quoc Tuan led the army to encircle and destroy the Yuan forces of Sogetu (Toa Do) and Omar (O Ma Nhi) at Tay Ket wharf (Khoai Chau, Hung Yen). Tran commanders distinguished themselves in combat: General Nguyen Khoai spearheaded the vanguard assault with the elite Thanh Dyc guards, while trusted officers Da Tuong commanded war elephants to shatter enemy lines and Yet Kieu deployed naval forces to blockade the river and cut off the enemy's retreat, fighting alongside Prince Chieu Thanh, Hoai Van Hau Tran Quoc Toan, and General Vu Hai. Commander Sogetu was beheaded in battle, and Omar fled by a small boat to the sea; Tran forces captured over 50,000 enemy troops, completely annihilating the southern Yuan army.
+*   **Jun. 24, 1285 (Late May, Lunar):**   **Battle of Tay Ket.** Following victories at Ham Tu and Chuong Duong, Retired Emperor Tran Thanh Tong, King Tran Nhan Tong, and Supreme Commander Tran Quoc Tuan led the army to encircle and destroy the Yuan forces of Sogetu (Toa Do) and Omar (O Ma Nhi) at Tay Ket wharf (Khoai Chau, Hung Yen). Tran commanders distinguished themselves in combat: General Nguyen Khoai spearheaded the vanguard assault with the elite Thanh Dyc guards, while trusted officers Da Tuong commanded war elephants to shatter enemy lines and Yet Kieu deployed naval forces to blockade the river and cut off the enemy's retreat, fighting alongside Prince Chieu Thanh, Hoai Van Hau Tran Quoc Toan, and General Vu Hai. Commander Sogetu was beheaded in battle, and Omar fled by a small boat to the sea; Tran forces captured over 50,000 enemy troops, completely annihilating the southern Yuan army. [Source: Nguyen Khoai Commands the Thanh Duc Guards (Dan Viet), https://danviet.vn/nguyen-khoai-danh-tuong-chi-huy-quan-thanh-duc-khien-giac-nguyen-mong-khiep-so-20240507214953772-d1160127.html]
 
 <!-- id: EVT-0389 -->
-*   **Jul. 15, 1285:** Hoai Van Hau Tran Quoc Toan sacrificed his life in battle at the age of 18 (according to some records). He became an enduring symbol of patriotism and the brave spirit of Vietnamese youth.
+*   **Jul. 15, 1285:** Hoai Van Hau Tran Quoc Toan sacrificed his life in battle at the age of 18 (according to some records). He became an enduring symbol of patriotism and the brave spirit of Vietnamese youth. [Source: The General Who Said Behead Him First (VnExpress), https://vnexpress.net/danh-tuong-nao-noi-chem-dau-than-truoc-roi-hay-hang-4428807-p8.html]
 
 <!-- id: EVT-0390 -->
-*   **Dec. 1287:** Yuan forces under the command of Toghon launched the third invasion of Dai Viet by land and water routes. Prior to this, Tran Quoc Tuan confidently advised the King: "This year, fighting the enemy will be somewhat easier than before," and ordered a strategic retreat.
+*   **Dec. 1287:** Yuan forces under the command of Toghon launched the third invasion of Dai Viet by land and water routes. Prior to this, Tran Quoc Tuan confidently advised the King: "This year, fighting the enemy will be somewhat easier than before," and ordered a strategic retreat. [Source: The Bach Dang Stake Battlefield (National Museum of History), https://baotanglichsu.vn/vi/Articles/2001/66475/tran-djia-coc-bach-djang.html]
 
 <!-- id: EVT-0391 -->
-*   **1288 (early year):** Tran Khanh Du commanded the Battle of Van Don, completely destroying the enemy's supply fleet led by Zhang Wenhu.
+*   **1288 (early year):** Tran Khanh Du commanded the Battle of Van Don, completely destroying the enemy's supply fleet led by Zhang Wenhu. [Source: Tran Khanh Du, Resourceful General (Vietnam Navy News), https://baohaiquanvietnam.vn/tin-tuc/tran-khanh-du-tuong-quan-muu-luoc-ban-linh]
 
 <!-- id: EVT-0392 -->
-*   **Apr. 9, 1288:** The historic Battle of Bach Dang. The Yuan navy was completely annihilated under the command of Hung Dao Vuong Tran Quoc Tuan. The third resistance war against the Mongol-Yuan invaders ended in a glorious victory.
+*   **Apr. 9, 1288:** The historic Battle of Bach Dang. The Yuan navy was completely annihilated under the command of Hung Dao Vuong Tran Quoc Tuan. The third resistance war against the Mongol-Yuan invaders ended in a glorious victory. [Source: The 1288 Bach Dang Battle (VNA), https://nvsk.vnanet.vn/tran-bach-dang-1288-1-34397.vna]
 
 ![Historical Image](images/event_20260923_130302.webp)
 
 *Source: Painting depicting the 1288 Bach Dang Victory over the Mongol-Yuan invaders at the Ho Chi Minh City History Museum (Photo: Gary Todd / CC0)*
 
 <!-- id: EVT-0393 -->
-*   **Sep. 1288:** Nguyen Tu Quoc Mau (Princess Thien Thanh, wife of Tran Hung Dao) passed away after 37 years of marriage. While her husband fought on the front lines, she managed logistics in the rear. She was one of the only two women (along with Linh Tu Quoc Mau Tran Thi Dung) honored with the supreme title "Quoc Mau" (Mother of the Nation) for their immense contributions to the Tran dynasty.
+*   **Sep. 1288:** Nguyen Tu Quoc Mau (Princess Thien Thanh, wife of Tran Hung Dao) passed away after 37 years of marriage. While her husband fought on the front lines, she managed logistics in the rear. She was one of the only two women (along with Linh Tu Quoc Mau Tran Thi Dung) honored with the supreme title "Quoc Mau" (Mother of the Nation) for their immense contributions to the Tran dynasty. [Source: Princess Thien Thanh Temple (Hai Phong News), https://baohaiphong.vn/linh-thieng-den-tho-thien-thanh-cong-chua-phu-nhan-hung-dao-dai-vuong-367928.html]
 
 <!-- id: EVT-0394 -->
 *   **1289:** Emperor Tran Nhan Tong enfeoffed Nguyen Khoai as a Marquis and granted Khoai Lo district as a "thang moc ap" (bathing appanage).
 
 <!-- id: EVT-0395 -->
-*   **Jul. 3, 1290 (25th day of the 5th lunar month, Canh Dan year):** Retired Emperor Tran Thanh Tong (Tran Hoang), the second monarch of the Tran Dynasty who co-commanded the victorious resistance against the Second (1285) and Third (1288) Yuan-Mongol Invasions alongside Emperor Tran Nhan Tong, passed away at Nhan Tho Palace at age 51.
+*   **Jul. 3, 1290 (25th day of the 5th lunar month, Canh Dan year):** Retired Emperor Tran Thanh Tong (Tran Hoang), the second monarch of the Tran Dynasty who co-commanded the victorious resistance against the Second (1285) and Third (1288) Yuan-Mongol Invasions alongside Emperor Tran Nhan Tong, passed away at Nhan Tho Palace at age 51. [Source: Tran Thanh Tong, Virtuous King (Yen Tu Heritage), https://disanhalongyentu.vn/vi/news/trn-thnh-tng-v-vua-ti-c-ca-nc-i-vit-1069]
 
 <!-- id: EVT-0396 -->
-*   **Apr. 16, 1293:** Tran Nhan Tong abdicated the throne in favor of Crown Prince Tran Thuyen (later Tran Anh Tong).
+*   **Apr. 16, 1293:** Tran Nhan Tong abdicated the throne in favor of Crown Prince Tran Thuyen (later Tran Anh Tong). [Source: Dai Viet Under Tran Anh Tong P1 (International Studies), https://nghiencuuquocte.org/2021/01/17/dai-viet-duoi-thoi-vua-tran-anh-tong-p1/]
 
 <!-- id: EVT-0397 -->
-*   **1294:** The Yuan dynasty officially issued an edict to end the war with Dai Viet after Emperor Temur Khan ascended the throne.
+*   **1294:** The Yuan dynasty officially issued an edict to end the war with Dai Viet after Emperor Temur Khan ascended the throne. [Source: Dai Viet Under Tran Anh Tong P1 (International Studies), https://nghiencuuquocte.org/2021/01/17/dai-viet-duoi-thoi-vua-tran-anh-tong-p1/]
 
 <!-- id: EVT-0398 -->
-*   **1294:** General Tran Quang Khai, a key figure in the resistance against the Mongols and a renowned poet, passed away.
+*   **1294:** General Tran Quang Khai, a key figure in the resistance against the Mongols and a renowned poet, passed away. [Source: Grand Tutor Tran Quang Khai (Nhan Dan), https://nhandan.vn/thai-su-tran-quang-khai-post471072.html]
 
 <!-- id: EVT-0399 -->
 *   **1299:** Emperor Tran Nhan Tong issued an edict requiring students nationwide to focus on their studies in preparation for upcoming civil service examinations.
 
 <!-- id: EVT-0400 -->
-*   **1299:** Retired Emperor Trần Nhân Tông entered the monastic order at Mount Yên Tử, taking the dharma title Trúc Lâm Đại Sĩ and founding the Trúc Lâm Yên Tử Zen Buddhist sect, representing a distinctively indigenous Vietnamese Buddhist tradition.
+*   **1299:** Retired Emperor Trần Nhân Tông entered the monastic order at Mount Yên Tử, taking the dharma title Trúc Lâm Đại Sĩ and founding the Trúc Lâm Yên Tử Zen Buddhist sect, representing a distinctively indigenous Vietnamese Buddhist tradition. [Source: Tran Nhan Tong and Truc Lam Zen (Nhan Dan), https://nhandan.vn/tran-nhan-tong-voi-thien-phai-truc-lam-yen-tu-post601474.html]
 
 <!-- id: EVT-0401 -->
-*   **Oct. 3, 1300 (15th of the 8th lunar month, Ky Hoi):** Hung Dao Vuong Tran Quoc Tuan passed away at his private residence in Van Kiep. Prior to his death, when King Tran Anh Tong personally visited him to ask for national defense strategies, he advised: "Ease the strength of the people to make a deep root and durable base," considering it the best strategy for national defense.
+*   **Oct. 3, 1300 (15th of the 8th lunar month, Ky Hoi):** Hung Dao Vuong Tran Quoc Tuan passed away at his private residence in Van Kiep. Prior to his death, when King Tran Anh Tong personally visited him to ask for national defense strategies, he advised: "Ease the strength of the people to make a deep root and durable base," considering it the best strategy for national defense. [Source: Kiep Bac Temple to Hung Dao Prince (Cao Bang News), https://baocaobang.vn/den-kiep-bac-di-tich-lich-su-tho-hung-dao-dai-vuong-3175370.html]
 
 ![Historical Image](images/event_20260924_111624.webp)
 
 *Source: Altar of Tran Hung Dao inside Kiep Bac Temple / Chitto (Wikimedia Commons, CC BY-SA 3.0)*
 
 <!-- id: EVT-0402 -->
-*   **1301 (Tan Suu year):** Following his monastic renunciation, Retired Emperor Tran Nhan Tong (Truc Lam Dai Si) embarked on a nine-month diplomatic and religious pilgrimage to the Champa capital of Vijaya (Do Ban). There, he engaged in Buddhist theological discourse with King Jaya Sinhavarman III (Che Man), consolidated peaceful bilateral relations, and pledged Princess Huyen Tran in marriage, laying the groundwork for the peaceful accession of the O and Ly provinces into Dai Viet in 1306.
+*   **1301 (Tan Suu year):** Following his monastic renunciation, Retired Emperor Tran Nhan Tong (Truc Lam Dai Si) embarked on a nine-month diplomatic and religious pilgrimage to the Champa capital of Vijaya (Do Ban). There, he engaged in Buddhist theological discourse with King Jaya Sinhavarman III (Che Man), consolidated peaceful bilateral relations, and pledged Princess Huyen Tran in marriage, laying the groundwork for the peaceful accession of the O and Ly provinces into Dai Viet in 1306. [Source: Princess Huyen Tran and Dai Viet-Champa Ties (Giac Ngo), https://giacngo.vn/huyen-tran-cong-chua-va-cuoc-bang-giao-dai-viet-cham-pa-post61652.html]
 
 <!-- id: EVT-0403 -->
-*   **Around the 14th century:** The legends of Lac Long Quan and Au Co, Phu Dong Thien Vuong (Saint Giong), and Son Tinh - Thuy Tinh were first recorded in the historical book **Lĩnh Nam chích quái**.
+*   **Around the 14th century:** The legends of Lac Long Quan and Au Co, Phu Dong Thien Vuong (Saint Giong), and Son Tinh - Thuy Tinh were first recorded in the historical book **Lĩnh Nam chích quái**. [Source: Linh Nam Chich Quai: Legend to Quasi-History (Znews), https://znews.vn/linh-nam-chich-quai-tu-huyen-thoai-den-huyen-su-post749575.html]
 
 <!-- id: EVT-0404 -->
 *   **Late 14th century - First half of the 19th century:** Vietnam witnessed broad social struggle movements. Unlike pure peasant uprisings against feudal landlords, these movements typically gathered diverse forces - including poor peasants, dissatisfied scholars, some landlords, and local officials - uniting against corrupt local despots and degenerated ruling cliques.
 
 <!-- id: EVT-0405 -->
-*   **1304:** Mac Dinh Chi, known for his diplomatic wit which impressed the Yuan court (earning him the title "Two-Nation First Laureate"), passed the imperial examination as Trang Nguyen.
+*   **1304:** Mac Dinh Chi, known for his diplomatic wit which impressed the Yuan court (earning him the title "Two-Nation First Laureate"), passed the imperial examination as Trang Nguyen. [Source: Mac Dinh Chi Becomes Two-Nation Laureate (Hai Phong News), https://baohaiphong.vn/mac-dinh-chi-va-cau-chuyen-tro-thanh-luong-quoc-trang-nguyen-nho-quay-bai-218906.html]
 
 <!-- id: EVT-0406 -->
-*   **1304:** The largest "Thai hoc sinh" (National University student) examination since the beginning of the Tran dynasty was held during the reign of Emperor Tran Anh Tong. The Emperor created the additional title "Hoang giap" to designate candidates who passed in the second tier (De nhi giap).
+*   **1304:** The largest "Thai hoc sinh" (National University student) examination since the beginning of the Tran dynasty was held during the reign of Emperor Tran Anh Tong. The Emperor created the additional title "Hoang giap" to designate candidates who passed in the second tier (De nhi giap). [Source: Top Laureates of Tiger Years (VUSTA), https://vusta.vn/trang-nguyen-nam-dan-p72605.html]
 
 <!-- id: EVT-0407 -->
-*   **1305:** The Trần royal court erected the 14-story Phổ Minh Pagoda Tower in Nam Định to enshrine the sacred relics of King-Monk Trần Nhân Tông, an architectural and sculptural masterpiece of the Trần Dynasty.
+*   **1305:** The Trần royal court erected the 14-story Phổ Minh Pagoda Tower in Nam Định to enshrine the sacred relics of King-Monk Trần Nhân Tông, an architectural and sculptural masterpiece of the Trần Dynasty. [Source: 14-Story Ancient Tower in Nam Dinh (Dan Viet), https://danviet.vn/mot-ngoi-thap-co-14-tang-o-nam-dinh-dam-dau-tich-hao-khi-dong-a-nuoc-dai-viet-thoi-nha-tran-20230828222615715-d1114778.html]
 
 <!-- id: EVT-0408 -->
-*   **1306:** The Champa king Che Man (Jaya Simhavarman III) offered the two prefectures of O and Ly as a wedding gift to marry Princess Huyen Tran.
+*   **1306:** The Champa king Che Man (Jaya Simhavarman III) offered the two prefectures of O and Ly as a wedding gift to marry Princess Huyen Tran. [Source: Princess Huyen Tran and Dai Viet-Champa Ties (Giac Ngo), https://giacngo.vn/huyen-tran-cong-chua-va-cuoc-bang-giao-dai-viet-cham-pa-post61652.html]
 
 <!-- id: EVT-0409 -->
-*   **1307:** The Tran dynasty renamed the two prefectures of O and Ly to Thuan and Hoa, incorporating them into Dai Viet's territory.
+*   **1307:** The Tran dynasty renamed the two prefectures of O and Ly to Thuan and Hoa, incorporating them into Dai Viet's territory. [Source: Thuan Hoa - Phu Xuan - Hue Through History (National Archives), https://archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/thuan-hoa-phu-xuan-hue-trong-dong-lich-su.htm]
 
 <!-- id: EVT-0410 -->
-*   **Dec. 14, 1308 (1st day of the 11th lunar month, Mau Than year):** Retired Emperor Tran Nhan Tong (Tran Kham) – the revered monarch who led Dai Viet to triumph over the Yuan Mongols and subsequently founded the Truc Lam Zen Buddhist tradition (Buddha-Emperor Tran Nhan Tong) – attained Nirvana at Ngoa Van Hermitage atop Mount Yen Tu at age 51.
+*   **Dec. 14, 1308 (1st day of the 11th lunar month, Mau Than year):** Retired Emperor Tran Nhan Tong (Tran Kham) – the revered monarch who led Dai Viet to triumph over the Yuan Mongols and subsequently founded the Truc Lam Zen Buddhist tradition (Buddha-Emperor Tran Nhan Tong) – attained Nirvana at Ngoa Van Hermitage atop Mount Yen Tu at age 51. [Source: 715 Years Since Buddha-Emperor Tran Nhan Tong Nirvana (Cong Ly), https://congly.vn/dai-le-tuong-niem-715-nam-phat-hoang-tran-nhan-tong-nhap-niet-ban-tai-yen-tu-409292.html]
 
 <!-- id: EVT-0411 -->
 *   **1309:** Digging of the Thien Duc River (Duong River) to facilitate transport.
 
 <!-- id: EVT-0412 -->
-*   **1310:** Emperor Tran Anh Tong granted 80 mau of land and agricultural laborers in An Dinh to Zen Master Phap Loa.
+*   **1310:** Emperor Tran Anh Tong granted 80 mau of land and agricultural laborers in An Dinh to Zen Master Phap Loa. [Source: Private Land Ownership Under Ly-Tran (USSH History Faculty), https://his.ussh.vnu.edu.vn/vi/news/nguyen-anh-nhat-tran/vai-nhan-xet-ve-ruong-dat-tu-huu-o-viet-nam-thoi-ly-tran-5830.html]
 
 <!-- id: EVT-0413 -->
-*   **1312:** King Tran Anh Tong led a campaign against Champa, capturing the Champa King Che Chi.
+*   **1312:** King Tran Anh Tong led a campaign against Champa, capturing the Champa King Che Chi. [Source: Dai Viet Under Tran Anh Tong P3 (International Studies), https://nghiencuuquocte.org/2021/02/20/dai-viet-duoi-thoi-vua-tran-anh-tong-p3/]
 
 <!-- id: EVT-0414 -->
-*   **Jul. 4, 1314:** Tran Anh Tong abdicated the throne in favor of Crown Prince Tran Manh (later Tran Minh Tong).
+*   **Mar. 18, 1314:** Tran Anh Tong abdicated the throne in favor of Crown Prince Tran Manh (later Tran Minh Tong). [Source: Tran Anh Tong, Emperor and Poet (Nguoi Ha Noi), https://nguoihanoi.vn/tran-anh-tong-hoang-de-thi-nhan-mot-thoi-thinh-tri-78981.html]
 
 <!-- id: EVT-0415 -->
-*   **1315:** King Tran Minh Tong issued a law prohibiting relatives within the royal family from suing each other, aiming to maintain harmony and order within the dynasty.
+*   **1315:** King Tran Minh Tong issued a law prohibiting relatives within the royal family from suing each other, aiming to maintain harmony and order within the dynasty. [Source: Tran Minh Tong (1314-1329), https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/tran-minh-tong-1314-1329-.html]
 
 <!-- id: EVT-0416 -->
 *   **1316:** The Tran court revised regulations on granting households as stipends to civil officials based on rank, and princes harvested Tich Dien fields.
 
 <!-- id: EVT-0417 -->
-*   **Apr. 21, 1320 (16th day of the 3rd lunar month, Canh Than year):** Retired Emperor Tran Anh Tong (Tran Thuyen), the fourth monarch of the Tran Dynasty renowned for expanding the southern realm (incorporating the O and Ly provinces) and consolidating peace and culture, passed away at Trung Quang Palace (Thien Truong, Nam Dinh) at age 45.
+*   **Apr. 21, 1320 (16th day of the 3rd lunar month, Canh Than year):** Retired Emperor Tran Anh Tong (Tran Thuyen), the fourth monarch of the Tran Dynasty renowned for expanding the southern realm (incorporating the O and Ly provinces) and consolidating peace and culture, passed away at Trung Quang Palace (Thien Truong, Nam Dinh) at age 45. [Source: Tran Anh Tong, Emperor and Poet (Nguoi Ha Noi), https://nguoihanoi.vn/tran-anh-tong-hoang-de-thi-nhan-mot-thoi-thinh-tri-78981.html]
 
 <!-- id: EVT-0418 -->
-*   **Nov. 1320:** General Pham Ngu Lao passes away at the age of 66. He was an outstanding military commander of the Tran Dynasty who played a major role in defeating two Yuan-Mongol invasions and expanding southern territories.
+*   **Nov. 1320:** General Pham Ngu Lao passes away at the age of 66. He was an outstanding military commander of the Tran Dynasty who played a major role in defeating two Yuan-Mongol invasions and expanding southern territories. [Source: Pham Ngu Lao, Hero and Poet (Nguoi Ha Noi), https://nguoihanoi.vn/pham-ngu-lao-anh-hung-nha-tho-78982.html]
 
 <!-- id: EVT-0419 -->
-*   **1323:** King Tran Minh Tong opened the Thai hoc sinh examination to select talented individuals to serve the country, bringing capable scholars like Doan Nhu Hai, Pham Ngu Lao, and Chu Van An into the administration.
+*   **1323:** King Tran Minh Tong opened the Thai hoc sinh examination to select talented individuals to serve the country, bringing capable scholars like Doan Nhu Hai and Chu Van An into the administration. [Source: The Tran Dynasty (Vietnam National Administration of Tourism), https://vietnamtourism.vn/index.php/about/items/1958]
 
 <!-- id: EVT-0420 -->
-*   **1324:** Minister Van Hue Vuong donated 300 mau of land in Gia Lam, over 1,000 mau in Dong Gia and An Lu, along with over 1,000 household slaves to Quynh Lam Pagoda.
+*   **1324:** Minister Van Hue Vuong donated 300 mau of land in Gia Lam, over 1,000 mau in Dong Gia and An Lu, along with over 1,000 household slaves to Quynh Lam Pagoda. [Source: Phap Loa Contributions to Vietnamese Buddhism (VASS Journal), http://tapchikhxh.vass.gov.vn/dong-gop-cua-phap-loa-doi-voi-phat-giao-viet-nam-n50235.html]
 
 <!-- id: EVT-0421 -->
 *   **1329:** Scholar Ly Te Xuyen completed the *Viet Dien U Linh Tap* (Collection of the Potent Spirits of the Viet Realm), preserving key historical legends and spiritual heritage of Vietnam.
 
 <!-- id: EVT-0422 -->
-*   **Mar. 18, 1329:** Tran Minh Tong abdicated the throne in favor of Crown Prince Tran Vuong (later Tran Hien Tong).
+*   **Mar. 18, 1329:** Tran Minh Tong abdicated the throne in favor of Crown Prince Tran Vuong (later Tran Hien Tong). [Source: Tran Minh Tong (1314-1329), https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/tran-minh-tong-1314-1329-.html]
 
 <!-- id: EVT-0423 -->
-*   **1330:** Prince Tran Nhat Duat, a prominent general and diplomat known for his knowledge of foreign languages and cultures, passed away.
+*   **1330:** Prince Tran Nhat Duat, a prominent general and diplomat known for his knowledge of foreign languages and cultures, passed away. [Source: Prince Chieu Van Tran Nhat Duat (People Public Security), https://cand.com.vn/Nhan-vat/Chieu-Van-Vuong-Tran-Nhat-Duat-Danh-tuong-mem-mong-i313009/]
 
 <!-- id: EVT-0424 -->
-*   **1336:** Le Quy Ly (later Ho Quy Ly) was born in Dai Lai, Vinh Loc (now in Thanh Hoa), courtesy name Ly Nguyen. His ancestor was Ho Hung Dat (Magistrate of Chau Dien during the Later Han dynasty); his 12th-generation descendant Ho Liem was adopted by Le Huan and took the surname Le, which the family bore for 4 generations until restoring the Ho surname in 1400.
+*   **1336:** Le Quy Ly (later Ho Quy Ly) was born in Dai Lai, Vinh Loc (now in Thanh Hoa), courtesy name Ly Nguyen. His ancestor was Ho Hung Dat (Magistrate of Chau Dien during the Later Han dynasty); his 12th-generation descendant Ho Liem was adopted by Le Huan and took the surname Le, which the family bore for 4 generations until restoring the Ho surname in 1400. [Source: Ho Quy Ly and Cultural-Educational Reform Lessons (Thanh Hoa News), https://baothanhhoa.vn/ho-quy-ly-va-nhung-bai-hoc-lich-su-ve-cai-cach-van-hoa-giao-duc-159389.htm]
 
 <!-- id: EVT-0425 -->
-*   **1341:** Emperor Tran Hien Tong passed away. Prince Tran Hao ascended the throne as Emperor Tran Du Tong. The Tran dynasty began to decline.
+*   **1341:** Emperor Tran Hien Tong passed away. Prince Tran Hao ascended the throne as Emperor Tran Du Tong. The Tran dynasty began to decline. [Source: Dai Viet Under Tran Hien Tong (International Studies), https://nghiencuuquocte.org/2021/03/20/dai-viet-duoi-thoi-vua-tran-hien-tong-1329-1341/]
 
 <!-- id: EVT-0426 -->
-*   **Sep. 24, 1341:** Emperor Emeritus Tran Minh Tong abdicated the throne in favor of Prince Tran Hao (later Tran Du Tong).
+*   **Jun. 11, 1341:** Tran Hien Tong died without an heir. Retired Emperor Tran Minh Tong assumed power. [Source: Dai Viet Under Tran Hien Tong (International Studies), https://nghiencuuquocte.org/2021/03/20/dai-viet-duoi-thoi-vua-tran-hien-tong-1329-1341/]
 
 <!-- id: EVT-0427 -->
-*   **Oct. 1341:** King Tran Du Tong ordered the compilation of the *Hoang trieu dai dien* and *Hinh thu*.
+*   **Sep. 24, 1341:** Retired Emperor Tran Minh Tong ceded the throne to Prince Tran Hao (later Tran Du Tong). [Source: Dai Viet Under Tran Du Tong (International Studies), https://nghiencuuquocte.org/2021/03/28/dai-viet-duoi-thoi-vua-tran-du-tong-1341-1369]
 
 <!-- id: EVT-0428 -->
-*   **Nov. 6, 1341:** Emperor Trần Hiến Tông died without an heir. The retired emperor Trần Minh Tông assumed power.
+*   **Oct. 1341:** King Tran Du Tong ordered the compilation of *Hoang trieu dai dien* and *Hinh thu*. [Source: Dai Viet Under Tran Du Tong (International Studies), https://nghiencuuquocte.org/2021/03/28/dai-viet-duoi-thoi-vua-tran-du-tong-1341-1369]
 
 <!-- id: EVT-0429 -->
-*   **1342:** Champa King Che A Nan passed away. Tra Hoa Bo De fought for the throne with Che Mo and became the King of Champa (until 1360).
+*   **1342:** Champa King Che A Nan passed away. Tra Hoa Bo De fought for the throne with Che Mo and became the King of Champa (until 1360). [Source: Dai Viet Under Tran Du Tong (International Studies), https://nghiencuuquocte.org/2021/03/28/dai-viet-duoi-thoi-vua-tran-du-tong-1341-1369]
 
 <!-- id: EVT-0430 -->
-*   **1343:** Due to drought and crop failure, people suffered from famine and rebelled everywhere, especially the domestic slaves of nobles and aristocrats.
+*   **1343:** Due to drought and crop failure, people suffered from famine and rebelled everywhere, especially the domestic slaves of nobles and aristocrats. [Source: Dai Viet Under Tran Du Tong (International Studies), https://nghiencuuquocte.org/2021/03/28/dai-viet-duoi-thoi-vua-tran-du-tong-1341-1369]
 
 <!-- id: EVT-0431 -->
-*   **Feb. 1344:** Ngo Be led a bandit organization and rebelled at Yen Phu mountain (Hai Hung), which was suppressed the following year.
+*   **Feb. 1344:** Ngo Be led a bandit organization and rebelled at Yen Phu mountain (Hai Hung), which was suppressed the following year. [Source: Dai Viet Under Tran Du Tong (International Studies), https://nghiencuuquocte.org/2021/03/28/dai-viet-duoi-thoi-vua-tran-du-tong-1341-1369]
 
 <!-- id: EVT-0432 -->
-*   **May 1346:** Ai Lao forces raided the border areas.
+*   **May 1346:** Ai Lao forces raided the border areas. [Source: Dai Viet Under Tran Du Tong (International Studies), https://nghiencuuquocte.org/2021/03/28/dai-viet-duoi-thoi-vua-tran-du-tong-1341-1369]
 
 <!-- id: EVT-0433 -->
-*   **1352:** Che Mo of Champa fled to Dai Viet to offer tributes and requested assistance to defeat Bo De.
+*   **1352:** Che Mo of Champa fled to Dai Viet to offer tributes and requested assistance to defeat Bo De. [Source: Dai Viet Under Tran Du Tong (International Studies), https://nghiencuuquocte.org/2021/03/28/dai-viet-duoi-thoi-vua-tran-du-tong-1341-1369]
 
 <!-- id: EVT-0434 -->
-*   **1353:** Fa Ngum unified the Lao mueang and established the Kingdom of Lan Xang, initiating an important period of relations on the western border.
+*   **1353:** Fa Ngum unified the Lao mueang and established the Kingdom of Lan Xang, initiating an important period of relations on the western border. [Source: How Was Laos Formed? (Nhan Dan), https://special.nhandan.vn/datnuoc_lao/index.html]
 
 <!-- id: EVT-0435 -->
-*   **Jun. 1353:** Emperor Tran Du Tong dispatched troops to escort Che Mo back to his country, but they were defeated by Bo De's forces at Co Luy.
+*   **Jun. 1353:** Emperor Tran Du Tong dispatched troops to escort Che Mo back to his country, but they were defeated by Bo De's forces at Co Luy. [Source: Dai Viet Under Tran Du Tong (International Studies), https://nghiencuuquocte.org/2021/03/28/dai-viet-duoi-thoi-vua-tran-du-tong-1341-1369]
 
 <!-- id: EVT-0436 -->
-*   **Sep. 1353:** Champa forces under Bo De attacked Hoa Chau but were repelled by Truong Han Sieu.
+*   **Sep. 1353:** Champa forces under Bo De attacked Hoa Chau but were repelled by Truong Han Sieu. [Source: Truong Han Sieu, Great Tran-Era Man of Letters (Ninh Binh Portal), https://ninhbinh.gov.vn/van-hoa-xa-hoi/truong-han-sieu-nha-van-lon-thoi-tran-niem-tu-hao-cua-que-huong-ninh-binh-339221]
 
 <!-- id: EVT-0437 -->
-*   **1354:** A severe famine occurred. A man named Te, claiming to be the maternal grandson of Tran Quoc Tuan, gathered runaway domestic slaves and rebelled from Lang Giang to Nam Sach.
+*   **1354:** A severe famine occurred. A man named Te, claiming to be the maternal grandson of Tran Quoc Tuan, gathered runaway domestic slaves and rebelled from Lang Giang to Nam Sach. [Source: Dai Viet Under Tran Du Tong (International Studies), https://nghiencuuquocte.org/2021/03/28/dai-viet-duoi-thoi-vua-tran-du-tong-1341-1369]
 
 <!-- id: EVT-0438 -->
 *   **1355:** Emperor Tran Du Tong mobilized the populace to dig rivers in Nghe An and Thanh Hoa.
 
 <!-- id: EVT-0439 -->
-*   **1357:** Emperor Tran Du Tong ordered Thanh Hoa and Nghe An circuits to re-dredge old canals.
+*   **1357:** Emperor Tran Du Tong ordered Thanh Hoa and Nghe An circuits to re-dredge old canals. [Source: Dai Viet Under Tran Du Tong (International Studies), https://nghiencuuquocte.org/2021/03/28/dai-viet-duoi-thoi-vua-tran-du-tong-1341-1369]
 
 <!-- id: EVT-0440 -->
-*   **Feb. 1357:** Retired Emperor Tran Minh Tong passed away. Emperor Tran Du Tong began a life of debauchery and indulgence.
+*   **Feb. 1357:** Retired Emperor Tran Minh Tong passed away. Emperor Tran Du Tong began a life of debauchery and indulgence. [Source: Dai Viet Under Tran Du Tong (International Studies), https://nghiencuuquocte.org/2021/03/28/dai-viet-duoi-thoi-vua-tran-du-tong-1341-1369]
 
 <!-- id: EVT-0441 -->
-*   **1358:** Ngo Be's forces recovered and rebelled again at Yen Phu mountain, occupying a large area from Thien Lieu to Chi Linh.
+*   **1358:** Ngo Be's forces recovered and rebelled again at Yen Phu mountain, occupying a large area from Thien Lieu to Chi Linh. [Source: Dai Viet Under Tran Du Tong (International Studies), https://nghiencuuquocte.org/2021/03/28/dai-viet-duoi-thoi-vua-tran-du-tong-1341-1369]
 
 <!-- id: EVT-0442 -->
-*   **1360:** Che Bong Nga ascended the throne as the King of Champa.
+*   **1360:** Che Bong Nga ascended the throne as the King of Champa. [Source: Traces of Che Bong Nga (International Studies), https://nghiencuuquocte.org/2015/12/20/dau-vet-che-bong-nga/]
 
 <!-- id: EVT-0443 -->
-*   **Mar. 1360:** Ngo Be was captured and beheaded.
+*   **Mar. 1360:** Ngo Be was captured and beheaded. [Source: Dai Viet Under Tran Du Tong (International Studies), https://nghiencuuquocte.org/2021/03/28/dai-viet-duoi-thoi-vua-tran-du-tong-1341-1369]
 
 <!-- id: EVT-0444 -->
-*   **Dec. 1360:** Emperor Tran Du Tong ordered all household slaves of princes and princesses to be tattooed on their foreheads with their master's title to prevent escape or rebellion.
+*   **Dec. 1360:** Emperor Tran Du Tong ordered all household slaves of princes and princesses to be tattooed on their foreheads with their master's title to prevent escape or rebellion. [Source: Dai Viet Under Tran Du Tong (International Studies), https://nghiencuuquocte.org/2021/03/28/dai-viet-duoi-thoi-vua-tran-du-tong-1341-1369]
 
 <!-- id: EVT-0445 -->
-*   **1361:** Champa under King Che Bong Nga began attacks and raids on Dai Viet, starting a long period of conflict.
+*   **1361:** Champa under King Che Bong Nga began attacks and raids on Dai Viet, starting a long period of conflict. [Source: How Che Bong Nga Fell Before Tran Khat Chan (Dan Viet), https://danviet.vn/che-bong-nga--vi-vua-vi-dai-nhat-champa-da-vong-mang-truoc-tran-khat-chan-nhu-the-nao-d1408787.html]
 
 <!-- id: EVT-0446 -->
-*   **Mar. 1361:** Champa forces crossed the sea and raided the Di Ly estuary (Quang Binh), but were defeated.
+*   **Mar. 1361:** Champa forces crossed the sea and raided the Di Ly estuary (Quang Binh), but were defeated. [Source: Dai Viet Under Tran Du Tong (International Studies), https://nghiencuuquocte.org/2021/03/28/dai-viet-duoi-thoi-vua-tran-du-tong-1341-1369]
 
 <!-- id: EVT-0447 -->
-*   **Jan. 1362:** Emperor Du Tong ordered nobles and princesses to present various forms of entertainment.
+*   **Jan. 1362:** Emperor Du Tong ordered nobles and princesses to present various forms of entertainment. [Source: Dai Viet Under Tran Du Tong (International Studies), https://nghiencuuquocte.org/2021/03/28/dai-viet-duoi-thoi-vua-tran-du-tong-1341-1369]
 
 <!-- id: EVT-0448 -->
-*   **Mar. 1366:** Champa forces attacked Lam Binh but were defeated.
+*   **Mar. 1366:** Champa forces attacked Lam Binh but were defeated. [Source: Dai Viet Under Tran Du Tong (International Studies), https://nghiencuuquocte.org/2021/03/28/dai-viet-duoi-thoi-vua-tran-du-tong-1341-1369]
 
 <!-- id: EVT-0449 -->
-*   **Jun. 1366:** King Tran Du Tong was robbed of his imperial seal and sword while on a pleasure trip to Me So, reflecting the decline in royal authority and security.
+*   **Jun. 1366:** King Tran Du Tong was robbed of his imperial seal and sword while on a pleasure trip to Me So, reflecting the decline in royal authority and security. [Source: Dai Viet Under Tran Du Tong (International Studies), https://nghiencuuquocte.org/2021/03/28/dai-viet-duoi-thoi-vua-tran-du-tong-1341-1369]
 
 <!-- id: EVT-0450 -->
-*   **Dec. 1367:** Tran The Hung and Do Tu Binh commanded an army to attack Champa.
+*   **Dec. 1367:** Tran The Hung and Do Tu Binh commanded an army to attack Champa. [Source: Did Do Tu Binh Embezzle 10 Trays of Gold? (Dan Viet), https://danviet.vn/co-that-do-tu-binh-bien-thu-10-mam-vang-khien-vua-tran-due-tong-tu-tran-20241116100814635-d1195310.html]
 
 <!-- id: EVT-0451 -->
-*   **Feb. 1368:** Champa sent envoys to demand the return of old territories ceded in 1069 and 1306. The Tran court refused.
+*   **Feb. 1368:** Champa sent envoys to demand the return of old territories ceded in 1069 and 1306. The Tran court refused. [Source: Dai Viet Under Tran Du Tong (International Studies), https://nghiencuuquocte.org/2021/03/28/dai-viet-duoi-thoi-vua-tran-du-tong-1341-1369/]
 
 <!-- id: EVT-0452 -->
-*   **Apr. 1368:** The Tran army fell into an ambush in Chiem Dong. Tran The Hung was captured, and Do Tu Binh fled.
+*   **Apr. 1368:** The Tran army fell into an ambush in Chiem Dong. Tran The Hung was captured, and Do Tu Binh fled. [Source: Did Do Tu Binh Embezzle 10 Trays of Gold? (Dan Viet), https://danviet.vn/co-that-do-tu-binh-bien-thu-10-mam-vang-khien-vua-tran-due-tong-tu-tran-20241116100814635-d1195310.html]
 
 <!-- id: EVT-0453 -->
-*   **May 25, 1369:** Tran Du Tong died without an heir due to weakened health caused by excessive indulgence and intemperate lifestyle during his reign.
+*   **May 25, 1369:** Tran Du Tong died without an heir due to weakened health caused by excessive indulgence and intemperate lifestyle during his reign. [Source: Who Was Duong Nhat Le? (Dan Viet), https://danviet.vn/duong-nhat-le-la-ai-ma-duoc-vua-tran-du-tong-truyen-ngoi-20230425182906137-d1089851.html]
 
 <!-- id: EVT-0454 -->
-*   **Jul. 18, 1369:** Duong Nhat Le (Tran Du Tong's adopted son) ascended the throne with the consent of Empress Dowager Hien Tu, following Du Tong's will.
+*   **Jul. 18, 1369:** Duong Nhat Le (Tran Du Tong's adopted son) ascended the throne with the consent of Empress Dowager Hien Tu, following Du Tong's will. [Source: Who Was Duong Nhat Le? (Dan Viet), https://danviet.vn/duong-nhat-le-la-ai-ma-duoc-vua-tran-du-tong-truyen-ngoi-20230425182906137-d1089851.html]
 
 <!-- id: EVT-0455 -->
-*   **Jan. 1370:** Ming Emperor Hongwu sent an envoy, Daoist Yan Yuanfu, with offerings to sacrifice to the deity of Mount Tan Vien and the water deity of the Lo River (completed in April).
+*   **Jan. 1370:** Ming Emperor Hongwu sent an envoy, Daoist Yan Yuanfu, with offerings to sacrifice to the deity of Mount Tan Vien and the water deity of the Lo River (completed in April). [Source: Ba Vi Ancestral Mountain and Tan Vien Temple (VTC News), https://vtcnews.vn/nui-to-ba-vi-va-bi-an-den-tho-thanh-tan-vien-ar662977.html]
 
 <!-- id: EVT-0456 -->
-*   **Nov. 1370:** Duong Nhat Le was deposed and killed. Tran Phu (later Tran Nghe Tong) ascended the throne. Le Quy Ly entered the court as Chief Commander of the Imperial Guards.
+*   **Nov. 1370:** Duong Nhat Le was deposed and killed. Tran Phu (later Tran Nghe Tong) ascended the throne. Le Quy Ly entered the court as Chief Commander of the Imperial Guards. [Source: Who Was Duong Nhat Le? (Dan Viet), https://danviet.vn/duong-nhat-le-la-ai-ma-duoc-vua-tran-du-tong-truyen-ngoi-20230425182906137-d1089851.html]
 
 <!-- id: EVT-0457 -->
-*   **Dec. 14, 1370:** Tran Phu (later Tran Nghe Tong) ascended the throne after Duong Nhat Le was deposed.
+*   **Dec. 14, 1370:** Tran Phu (later Tran Nghe Tong) ascended the throne after Duong Nhat Le was deposed. [Source: Interesting Facts About King Tran Nghe Tong (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/12795/nhung-djieu-thu-vi-ve-vua-tran-nghe-tong.html]
 
 <!-- id: EVT-0458 -->
-*   **1371:** Champa forces led by Che Bong Nga attacked the capital Thang Long directly, plundering and burning down the palaces.
+*   **1371:** Champa forces led by Che Bong Nga attacked the capital Thang Long directly, plundering and burning down the palaces. [Source: The Tran Under King Tran Nghe Tong (International Studies), https://nghiencuuquocte.org/2021/04/24/nha-tran-duoi-thoi-vua-tran-nghe-tong/]
 
 <!-- id: EVT-0459 -->
-*   **1371:** Abolished the "sa chau tiet cuoc" custom (princes and nobility claiming newly formed sandbars as private estates) established by Empress Dowager Chieu Tu to limit private land expansion.
+*   **1371:** Abolished the "sa chau tiet cuoc" custom (princes and nobility claiming newly formed sandbars as private estates) established by Empress Dowager Chieu Tu to limit private land expansion. [Source: The Tran Under King Tran Nghe Tong (International Studies), https://nghiencuuquocte.org/2021/04/24/nha-tran-duoi-thoi-vua-tran-nghe-tong/]
 
 <!-- id: EVT-0460 -->
-*   **Mar. 1371:** Champa forces, led by Che Bong Nga, advanced by sea through the Dai An estuary and captured Thang Long for the first time.
+*   **Mar. 1371:** Champa forces, led by Che Bong Nga, advanced by sea through the Dai An estuary and captured Thang Long for the first time. [Source: The Tran Under King Tran Nghe Tong (International Studies), https://nghiencuuquocte.org/2021/04/24/nha-tran-duoi-thoi-vua-tran-nghe-tong/]
 
 <!-- id: EVT-0461 -->
-*   **May 1371:** Le Quy Ly was appointed as the Commissioner of the Privy Council.
+*   **May 1371:** Le Quy Ly was appointed as the Commissioner of the Privy Council. [Source: Ho Quy Ly Positive Contributions (VietnamNet), https://vietnamnet.vn/nhung-diem-sang-tich-cuc-cua-ho-quy-ly-nham-xay-dung-dat-nuoc-cuong-thinh-796678.html]
 
 <!-- id: EVT-0462 -->
-*   **Sep. 1371:** Le Quy Ly was granted the title of Marquis of Trung Tuyen Quoc.
+*   **Sep. 1371:** Le Quy Ly was granted the title of Marquis of Trung Tuyen Quoc. [Source: Short History of Vietnam I-III-X: Tran (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_X]
 
 <!-- id: EVT-0463 -->
-*   **Dec. 14, 1372:** Tran Nghe Tong abdicated the throne in favor of his younger brother, Crown Prince Tran Kinh (later Tran Due Tong).
+*   **Dec. 14, 1372:** Tran Nghe Tong abdicated the throne in favor of his younger brother, Crown Prince Tran Kinh (later Tran Due Tong). [Source: Tran Nghe Tong (Historical Anecdotes), https://scov.gov.vn/ban-sac-van-hoa/viet-su-giai-thoai/tran-nghe-tong.html]
 
 <!-- id: EVT-0464 -->
-*   **Aug. 1373:** Bandits increasingly rebelled. Le Quy Ly ordered the construction of warships and began military reforms.
+*   **Aug. 1373:** Bandits increasingly rebelled. Le Quy Ly ordered the construction of warships and began military reforms. [Source: King Tran Due Tong Falls at Do Ban (International Studies), https://nghiencuuquocte.org/2021/05/08/vua-tran-due-tong-tu-tran-o-do-ban/]
 
 <!-- id: EVT-0465 -->
-*   **1374:** The court organized a doctoral examination, Dao Su Tich ranked as Trang Nguyen (First Laureate).
+*   **1374:** The court organized a doctoral examination, Dao Su Tich ranked as Trang Nguyen (First Laureate). [Source: Doctorate Father Raises Laureate Son (Giao Duc & Thoi Dai), https://giaoducthoidai.vn/cha-do-tien-si-day-con-dau-trang-nguyen-danh-tieng-thanh-nam-post623466.html]
 
 <!-- id: EVT-0466 -->
-*   **1374:** Emperor Tran Due Tong mobilized the populace to dig rivers reaching the Ha Hoa sea port.
+*   **1374:** Emperor Tran Due Tong mobilized the populace to dig rivers reaching the Ha Hoa sea port. [Source: King Tran Due Tong Falls at Do Ban (International Studies), https://nghiencuuquocte.org/2021/05/08/vua-tran-due-tong-tu-tran-o-do-ban/]
 
 <!-- id: EVT-0467 -->
-*   **Aug. 1374:** The Tran court recruited more troops and reorganized the army. Imperial guards had three black characters tattooed on their foreheads.
+*   **Aug. 1374:** The Tran court recruited more troops and reorganized the army. Imperial guards had three black characters tattooed on their foreheads. [Source: King Tran Due Tong Falls at Do Ban (International Studies), https://nghiencuuquocte.org/2021/05/08/vua-tran-due-tong-tu-tran-o-do-ban/]
 
 <!-- id: EVT-0468 -->
-*   **1375:** King Tran Due Tong changed Lam Binh prefecture to Tan Binh prefecture.
+*   **1375:** King Tran Due Tong changed Lam Binh prefecture to Tan Binh prefecture. [Source: King Tran Due Tong Falls at Do Ban (International Studies), https://nghiencuuquocte.org/2021/05/08/vua-tran-due-tong-tu-tran-o-do-ban/]
 
 <!-- id: EVT-0469 -->
-*   **Jan. 1375:** Le Quy Ly was appointed by Emperor Tran Due Tong to concurrently hold the position of Military Advisor. He selected officials skilled in martial arts to serve as commanders regardless of whether they were royal family members.
+*   **Jan. 1375:** Le Quy Ly was appointed by Emperor Tran Due Tong to concurrently hold the position of Military Advisor. He selected officials skilled in martial arts to serve as commanders regardless of whether they were royal family members. [Source: King Tran Due Tong Falls at Do Ban (International Studies), https://nghiencuuquocte.org/2021/05/08/vua-tran-due-tong-tu-tran-o-do-ban/]
 
 <!-- id: EVT-0470 -->
-*   **Aug. 1375:** Le Quy Ly carried out fundamental military reforms, discharging old and weak soldiers, recruiting healthy ones, and forcing undocumented hired laborers into military service.
+*   **Aug. 1375:** Le Quy Ly carried out fundamental military reforms, discharging old and weak soldiers, recruiting healthy ones, and forcing undocumented hired laborers into military service. [Source: King Tran Due Tong Falls at Do Ban (International Studies), https://nghiencuuquocte.org/2021/05/08/vua-tran-due-tong-tu-tran-o-do-ban/]
 
 <!-- id: EVT-0471 -->
-*   **Dec. 1376:** Emperor Tran Due Tong personally led 120,000 troops to attack Champa. Le Quy Ly was in charge of transporting provisions.
+*   **Dec. 1376:** Emperor Tran Due Tong personally led 120,000 troops to attack Champa. Le Quy Ly was in charge of transporting provisions. [Source: Short History of Vietnam I-III-X: Tran (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_X]
 
 <!-- id: EVT-0472 -->
-*   **Jan. 1377:** The Tran army attacked the Thi Nai estuary.
+*   **Jan. 1377:** The Tran army attacked the Thi Nai estuary. [Source: Do Tu Binh Covets 10 Trays of Gold (Dan Viet), https://danviet.vn/do-tu-binh-tham-10-mam-vang-khien-vua-tran-tu-tran-tai-chiem-thanh-2022071417075821-d830264.html]
 
 <!-- id: EVT-0473 -->
-*   **Mar. 4, 1377:** Emperor Trần Duệ Tông died in a battle against the Champa army. He personally commanded a large military campaign against Champa, but the campaign failed and he was killed in the Battle of Vijaya.
+*   **Mar. 4, 1377:** Emperor Trần Duệ Tông died in a battle against the Champa army. He personally commanded a large military campaign against Champa, but the campaign failed and he was killed in the Battle of Vijaya. [Source: The Only King to Die in Battle? (VTC News), https://vtcnews.vn/vi-vua-duy-nhat-tu-tran-trong-su-viet-la-ai-ar892161.html]
 
 <!-- id: EVT-0474 -->
-*   **Apr. 1377:** Le Quy Ly fled back to Dai Viet. Retired Emperor Tran Nghe Tong placed Tran Phe De (De Hien) on the throne.
+*   **Apr. 1377:** Le Quy Ly fled back to Dai Viet. Retired Emperor Tran Nghe Tong placed Tran Phe De (De Hien) on the throne. [Source: Short History of Vietnam I-III-X: Tran (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_X]
 
 <!-- id: EVT-0475 -->
-*   **Jun. 1377:** Champa forces advanced to attack the Than Phu estuary and directly assaulted Thang Long for the second time.
+*   **Jun. 1377:** Champa forces advanced to attack the Than Phu estuary and directly assaulted Thang Long for the second time. [Source: Short History of Vietnam I-III-X: Tran (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_X]
 
 <!-- id: EVT-0476 -->
-*   **1378:** The Tran dynasty began collecting a poll tax (3 quan/person) due to the depleted national treasury.
+*   **1378:** The Tran dynasty began collecting a poll tax (3 quan/person) due to the depleted national treasury. [Source: Tran Phe De Enthroned Amid Champa Raids (International Studies), https://nghiencuuquocte.org/2021/05/22/tran-phe-de-len-ngoi-chiem-thanh-lien-tuc-quay-nhieu-dai-viet/]
 
 <!-- id: EVT-0477 -->
-*   **Mar. 1378:** Crown Prince Trần Hiệu (later Emperor Trần Phế Đế) ascended the throne.
-
-<!-- id: EVT-0478 -->
-*   **May 1378:** Champa forces attacked Nghe An, and in June, they attacked Thang Long for the third time.
+*   **May 1378:** Champa forces attacked Nghe An, and in June, they attacked Thang Long for the third time. [Source: Short History of Vietnam I-III-X: Tran (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_X]
 
 <!-- id: EVT-0479 -->
-*   **Feb. 1379:** Le Quy Ly was promoted to Deputy Minister of Works and concurrently acting Commissioner of the Privy Council. Nguyen Bo rebelled in Bac Giang but was quickly suppressed.
+*   **Feb. 1379:** Le Quy Ly was promoted to Deputy Minister of Works and concurrently acting Commissioner of the Privy Council. Nguyen Bo rebelled in Bac Giang but was quickly suppressed. [Source: Tran Phe De Enthroned Amid Champa Raids (International Studies), https://nghiencuuquocte.org/2021/05/22/tran-phe-de-len-ngoi-chiem-thanh-lien-tuc-quay-nhieu-dai-viet/]
 
 <!-- id: EVT-0480 -->
-*   **Feb. 1380:** Champa forces raided Nghe An, Dien Chau, and Thanh Hoa.
+*   **Feb. 1380:** Champa forces raided Nghe An, Dien Chau, and Thanh Hoa. [Source: Tran Phe De Enthroned Amid Champa Raids (International Studies), https://nghiencuuquocte.org/2021/05/22/tran-phe-de-len-ngoi-chiem-thanh-lien-tuc-quay-nhieu-dai-viet/]
 
 <!-- id: EVT-0481 -->
-*   **May 1380:** Le Quy Ly commanded the navy to defeat the Champa forces led by Che Bong Nga at the Ngu Giang river (Thanh Hoa). Qui Ly beheaded General Nguyen Kim Ngao to maintain strict military discipline. He was later appointed as the Supreme Commander of Hai Tay.
+*   **May 1380:** Le Quy Ly commanded the navy to defeat the Champa forces led by Che Bong Nga at the Ngu Giang river (Thanh Hoa). Qui Ly beheaded General Nguyen Kim Ngao to maintain strict military discipline. He was later appointed as the Supreme Commander of Hai Tay. [Source: Tran Phe De Enthroned Amid Champa Raids (International Studies), https://nghiencuuquocte.org/2021/05/22/tran-phe-de-len-ngoi-chiem-thanh-lien-tuc-quay-nhieu-dai-viet/]
 
 <!-- id: EVT-0482 -->
-*   **1381:** The Tran dynasty ordered healthy monks to be conscripted into the army to fight Champa.
+*   **1381:** The Tran dynasty ordered healthy monks to be conscripted into the army to fight Champa. [Source: Tran Phe De Enthroned Amid Champa Raids (International Studies), https://nghiencuuquocte.org/2021/05/22/tran-phe-de-len-ngoi-chiem-thanh-lien-tuc-quay-nhieu-dai-viet/]
 
 <!-- id: EVT-0483 -->
 *   **Apr. 1381:** Taking advantage of Champa raids, Ho Thuat gathered people to rebel in Dien Chau but was beheaded.
 
 <!-- id: EVT-0484 -->
-*   **Jun. 1381:** Retired Emperor Nghe Tong ordered the transfer of deity statues from various mausoleums to the grand mausoleum in Yen Sinh to avoid the Champa threat.
+*   **Jun. 1381:** Retired Emperor Nghe Tong ordered the transfer of deity statues from various mausoleums to the grand mausoleum in Yen Sinh to avoid the Champa threat. [Source: King Tran Phe De (1377-1388) (Tran Clan Council), http://hoidonghotranvietnam.vn/cac-vua-trieu-tran/tran-phe-de/vua-tran-phe-de-1377-1388-543355.html]
 
 <!-- id: EVT-0485 -->
 *   **1382:** Ordered the digging of rivers in Nghe An, Tan Binh, and Thuan Hoa to improve transportation and irrigation.
 
 <!-- id: EVT-0486 -->
-*   **Feb. 1382:** Champa raided Thanh Hoa. The Dai Viet army defeated the Champa forces at the Than Dau estuary.
+*   **Feb. 1382:** Champa raided Thanh Hoa. The Dai Viet army defeated the Champa forces at the Than Dau estuary. [Source: Short History of Vietnam I-III-X: Tran (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_X]
 
 <!-- id: EVT-0487 -->
-*   **Jan. 1383:** Le Quy Ly commanded the naval fleet to attack Champa but encountered a storm, suffering damage to warships and forcing a retreat.
+*   **Jan. 1383:** Le Quy Ly commanded the naval fleet to attack Champa but encountered a storm, suffering damage to warships and forcing a retreat. [Source: Short History of Vietnam I-III-X: Tran (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_X]
 
 <!-- id: EVT-0488 -->
-*   **Jun. 1383:** Che Bong Nga led infantry troops to station in Quang Oai, threatening Thang Long. The Retired Emperor and the Emperor fled to Dong Ngan. Thang Long was plundered for the fourth time.
+*   **Jun. 1383:** Che Bong Nga led infantry troops to station in Quang Oai, threatening Thang Long. The Retired Emperor and the Emperor fled to Dong Ngan. Thang Long was plundered for the fourth time. [Source: Short History of Vietnam I-III-X: Tran (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_X]
 
 <!-- id: EVT-0489 -->
-*   **Sep. 1384:** The Ming dynasty sent an envoy demanding Dai Viet supply 5,000 thach of provisions for its troops in Yunnan.
+*   **Sep. 1384:** The Ming dynasty sent an envoy demanding Dai Viet supply 5,000 thach of provisions for its troops in Yunnan. [Source: Short History of Vietnam I-III-X: Tran (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_X]
 
 <!-- id: EVT-0490 -->
-*   **Mar. 1385:** The Ming dynasty demanded Dai Viet to hand over 20 monks.
+*   **Mar. 1385:** The Ming dynasty demanded Dai Viet to hand over 20 monks. [Source: Short History of Vietnam I-III-X: Tran (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_X]
 
 <!-- id: EVT-0491 -->
-*   **Sep. 10, 1385 (Aug. 6, Lunar Year of the Ox):** Le Loi was born in Lam Son (Thanh Hoa). According to legend, upon his birth, red light filled the house and a fragrance filled the village.
+*   **Sep. 10, 1385 (Aug. 6, Lunar Year of the Ox):** Le Loi was born in Lam Son (Thanh Hoa). According to legend, upon his birth, red light filled the house and a fragrance filled the village. [Source: Thanh Hoa Is Le Loi Homeland (VnExpress), https://vnexpress.net/thanh-nha-ho-thuoc-tinh-nao-3604951-p9.html]
 
 ![Historical Image](images/event_20260924_111629.webp)
 
@@ -1621,122 +1618,122 @@
 *   **Mar. 1386:** The Ming dynasty sent an envoy to demand high-quality fruit tree saplings, requested passage to attack Champa, and demanded 50 elephants.
 
 <!-- id: EVT-0493 -->
-*   **Mar. 1387:** Le Quy Ly was granted the title of Dong binh chuong su (Prime Minister).
+*   **Mar. 1387:** Le Quy Ly was granted the title of Dong binh chuong su (Prime Minister). [Source: Two Ho Kings (District 8 HCMC), http://www.quan8.hochiminhcity.gov.vn/dantaphaibietsuta/lists/posts/post.aspx?Source=%2Fdantaphaibietsuta&Category=Nh%C3%A2n+v%E1%BA%ADt+l%E1%BB%8Bch+s%E1%BB%AD+t%E1%BB%AB+th%E1%BA%BF+k%E1%BB%B7+X+%C4%91%E1%BA%BFn+XV&ItemID=84&Mode=1]
 
 <!-- id: EVT-0494 -->
-*   **Jun. 12, 1388:** Emperor Trần Phế Đế was deposed, then imprisoned at Tư Phúc Pagoda and later killed on the orders of Emperor Emeritus Trần Nghệ Tông and Le Quy Ly.
-
-<!-- id: EVT-0495 -->
-*   **Dec. 16, 1388:** Trần Nghệ Tông's son, Trần Ngung (later Emperor Trần Thuận Tông), ascended the throne.
-
-<!-- id: EVT-0496 -->
-*   **Jan. 1389:** Retired Emperor Nghe Tong deposed and forced Emperor Tran Phe De to commit suicide at the instigation of Le Quy Ly. Tran Thuan Tong (Tran Ngung) ascended the throne.
+*   **Dec. 1388:** Retired Emperor Nghe Tong deposed and forced Emperor Tran Phe De to commit suicide at the instigation of Le Quy Ly. Tran Thuan Tong (Tran Ngung) ascended the throne. [Source: Short History of Vietnam I-III-X: Tran (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_X]
 
 <!-- id: EVT-0497 -->
-*   **Aug. 1389:** Nguyen Thanh proclaimed himself Linh Duc Vuong and rebelled in Luong Giang (Thanh Hoa). In September, Nguyen Ky rebelled in Nong Cong.
+*   **Jun. 12, 1388:** Emperor Trần Phế Đế was deposed, then imprisoned at Tư Phúc Pagoda and later killed on the orders of Emperor Emeritus Trần Nghệ Tông and Le Quy Ly. [Source: Tran Nghe Tong Deposes Tran Phe De (VnExpress), https://vnexpress.net/tim-hieu-ong-vua-quyen-luc-cuoi-cung-cua-nha-tran-3567272-p10.html]
+
+<!-- id: EVT-0495 -->
+*   **Dec. 16, 1388:** Trần Nghệ Tông's son, Trần Ngung (later Emperor Trần Thuận Tông), ascended the throne. [Source: Tran Thuan Tong – The Nominal King (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/6811/tran-thuan-tong-vi-vua-hu-danh-4-lan-bi-ep.html]
+
+<!-- id: EVT-0496 -->
+*   **Aug. 1389:** Nguyen Thanh proclaimed himself Linh Duc Vuong and rebelled in Luong Giang (Thanh Hoa). In September, Nguyen Ky rebelled in Nong Cong. [Source: Short History of Vietnam I-III-X: Tran (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_X]
 
 <!-- id: EVT-0498 -->
-*   **Oct. 1389:** Champa forces raided Thanh Hoa. The Dai Viet army commanded by Le Quy Ly suffered a heavy defeat, and Quy Ly fled back to the court.
+*   **Oct. 1389:** Champa forces raided Thanh Hoa. The Dai Viet army commanded by Le Quy Ly suffered a heavy defeat, and Quy Ly fled back to the court. [Source: Short History of Vietnam I-III-X: Tran (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_X]
 
 <!-- id: EVT-0499 -->
-*   **Nov. 1389:** Tran Khat Chan was appointed to command the Long Tiep army to fight Champa.
+*   **Nov. 1389:** Tran Khat Chan was appointed to command the Long Tiep army to fight Champa. [Source: Tran Khat Chan Shoots Che Bong Nga (Dan Viet), https://danviet.vn/tran-khat-chan-que-thanh-hoa-ban-chet-quoc-vuong-che-bong-nga-vi-sao-lai-bi-ho-quy-ly-giet-20230530001405954-d1096851.html]
 
 <!-- id: EVT-0500 -->
-*   **Dec. 1389:** Pham Su On launched an uprising in Quoc Oai, capturing Thang Long for three days. The Tran emperor had to flee.
+*   **Dec. 1389:** Pham Su On launched an uprising in Quoc Oai, capturing Thang Long for three days. The Tran emperor had to flee. [Source: Pham Su On – The Monk Rebel (Dan Viet), https://danviet.vn/pham-su-on--giac-thay-chua-da-khien-vua-toi-nha-tran-chay-ban-song-ban-chet-ra-sao-d1408786.html]
 
 <!-- id: EVT-0501 -->
-*   **1390:** General Tran Khat Chan commanded the battle on the Hai Trieu River (Luoc River), using firearms to kill the Champa king Che Bong Nga.
+*   **1390:** General Tran Khat Chan commanded the battle on the Hai Trieu River (Luoc River), using firearms to kill the Champa king Che Bong Nga. [Source: Cannons in Old Vietnamese Armies (Giao Duc & Thoi Dai), https://giaoducthoidai.vn/dai-bac-trong-quan-doi-nuoc-viet-xua-post644432.html]
 
 <!-- id: EVT-0502 -->
-*   **Early 1390:** Le Quy Ly married off his eldest daughter, Thanh Ngau, to Emperor Tran Thuan Tong as the Empress (who later gave birth to Tran Thieu De). After the Champa threat was neutralized, he was appointed Grand Preceptor and Regent (Nhap noi Phu chinh Thai su), dominating key positions in the court and military.
+*   **Early 1390:** Le Quy Ly married off his eldest daughter, Thanh Ngau, to Emperor Tran Thuan Tong as the Empress (who later gave birth to Tran Thieu De). [Source: King Tran Thuan Tong (1388-1398) (Tran Clan Council), http://hoidonghotranvietnam.vn/cac-vua-trieu-tran/tran-thuan-tong/vua-tran-thuan-tong-1388-1398-543356.html]
 
 <!-- id: EVT-0503 -->
-*   **Feb. 1391:** Le Quy Ly patrolled Hoa Chau. Grand Commandant Trang Dinh Vuong Ngac was killed.
+*   **Feb. 1391:** Le Quy Ly patrolled Hoa Chau. Grand Commandant Trang Dinh Vuong Ngac was killed. [Source: Ho Quy Ly (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/H%E1%BB%93_Qu%C3%BD_Ly]
 
 <!-- id: EVT-0504 -->
-*   **Dec. 1392:** Le Quy Ly authored the book *Minh Dao* consisting of 14 chapters, elevating the Duke of Zhou, diminishing Confucius's role, and criticizing Neo-Confucian ideology. Doan Xuan Loi criticized it and was exiled.
+*   **Dec. 1392:** Le Quy Ly authored the book *Minh Dao* consisting of 14 chapters, elevating the Duke of Zhou, diminishing Confucius's role, and criticizing Neo-Confucian ideology. Doan Xuan Loi criticized it and was exiled. [Source: Controversial King: 14-Chapter Minh Dao (VnExpress), https://vnexpress.net/tim-hieu-ve-ong-vua-gay-tranh-cai-trong-su-viet-3572240-p17.html]
 
 <!-- id: EVT-0505 -->
 *   **Feb. 1394:** Retired Emperor Nghe Tong ordered artisans to paint the "Tu Phu" (Four Tutors) picture and presented it to Quy Ly, hoping he would wholeheartedly assist the emperor.
 
 <!-- id: EVT-0506 -->
-*   **Nov. 1394:** Retired Emperor Tran Nghe Tong passed away.
+*   **Nov. 1394:** Retired Emperor Tran Nghe Tong passed away. [Source: Interesting Facts About King Tran Nghe Tong (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/12795/nhung-djieu-thu-vi-ve-vua-tran-nghe-tong.html]
 
 <!-- id: EVT-0507 -->
-*   **1395:** The Ming dynasty sent troops to attack the Man people in Longzhou, demanding Dai Viet to provide 50,000 troops, 50 elephants, and 500,000 thach of provisions. The Tran emperor refused, only supplying a small amount of rice.
+*   **1395:** The Ming dynasty sent troops to attack the Man people in Longzhou, demanding Dai Viet to provide 50,000 troops, 50 elephants, and 500,000 thach of provisions. The Tran emperor refused, only supplying a small amount of rice. [Source: Ho Quy Ly Reforms (International Studies), https://nghiencuuquocte.org/2021/07/03/ho-quy-ly-tien-hanh-cai-cach-viet-trung-tranh-chap-dat-dai/]
 
 <!-- id: EVT-0508 -->
-*   **1395:** Le Quy Ly appointed himself as Regent Grand Preceptor and Prince of Tuyen Trung Ve Quoc.
+*   **1395:** Le Quy Ly appointed himself as Regent Grand Preceptor and Prince of Tuyen Trung Ve Quoc. [Source: Ho Quy Ly Reforms (International Studies), https://nghiencuuquocte.org/2021/07/03/ho-quy-ly-tien-hanh-cai-cach-viet-trung-tranh-chap-dat-dai/]
 
 <!-- id: EVT-0509 -->
-*   **Apr. 1395:** Le Quy Ly translated the "Wu Yi" (Against Leisure) chapter from the Book of Documents into Nom script to teach Emperor Tran Thuan Tong.
+*   **Apr. 1395:** Le Quy Ly translated the "Wu Yi" (Against Leisure) chapter from the Book of Documents into Nom script to teach Emperor Tran Thuan Tong. [Source: Ho Quy Ly Translates Classics Into Nom (VnExpress), https://vnexpress.net/tim-hieu-ve-ong-vua-gay-tranh-cai-trong-su-viet-3572240-p16.html]
 
 <!-- id: EVT-0510 -->
 *   **Jun. 1395:** A regulation was issued forbidding officials from wearing wide-sleeved robes, only allowing narrow-sleeved ones.
 
 <!-- id: EVT-0511 -->
-*   **1396:** For the first time in the history of Vietnam's civil service examinations, Emperor Tran Thuan Tong established regulations for the "Cu nhan" (Bachelor) examination, officially decentralizing the system into regional examinations (thi Huong) and metropolitan examinations (thi Hoi).
+*   **1396:** For the first time in the history of Vietnam's civil service examinations, Emperor Tran Thuan Tong established regulations for the "Cu nhan" (Bachelor) examination, officially decentralizing the system into regional examinations (thi Huong) and metropolitan examinations (thi Hoi). [Source: Tran-Era Education and Examinations, https://thcslongbien.hanoi.edu.vn/lich-su/giao-duc-thoi-tran-xem-cha-ong-ta-mot-thoi-leu-chong-di-thi/ctmb/14992/614018]
 
 <!-- id: EVT-0512 -->
-*   **04/1396:** Under the policy led by Le Quy Ly (when he was Prime Minister), the royal court issued paper money called "Thông bảo hội sao." This was the first time paper money was circulated in Vietnam.
+*   **04/1396:** Under the policy led by Le Quy Ly (when he was Prime Minister), the royal court issued paper money called "Thông bảo hội sao." This was the first time paper money was circulated in Vietnam. [Source: Ho Quy Ly Paper Money (Thanh Nien), https://thanhnien.vn/nhung-chuyen-ky-thu-dong-tien-viet-nam-tien-giay-khong-yeu-dan-cua-ho-quy-ly-1851096359.htm]
 
 <!-- id: EVT-0513 -->
-*   **Apr. 1396:** A total ban on using copper coins was enforced. Examination reforms were implemented: defining a four-stage examination format and abolishing the recitation of classical prose.
+*   **Apr. 1396:** A total ban on using copper coins was enforced. Examination reforms were implemented: defining a four-stage examination format and abolishing the recitation of classical prose. [Source: Ho Quy Ly Reforms (International Studies), https://nghiencuuquocte.org/2021/07/03/ho-quy-ly-tien-hanh-cai-cach-viet-trung-tranh-chap-dat-dai/]
 
 <!-- id: EVT-0514 -->
 *   **Jun. 1396:** Reforms on the attire of civil and military officials were carried out, classifying colors and styles according to ranks.
 
 <!-- id: EVT-0515 -->
-*   **Aug. 1396:** The Tran army attacked Champa, capturing General Bo Dong.
+*   **Aug. 1396:** The Tran army attacked Champa, capturing General Bo Dong. [Source: Vietnam-Champa War 1367-1396 (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Vi%E1%BB%87t_%E2%80%93_Chi%C3%AAm_(1367%E2%80%931396)]
 
 <!-- id: EVT-0516 -->
-*   **Nov. 1396:** Le Quy Ly compiled the book *Quoc ngu Thi nghia* (translating and explaining the Book of Odes in Nom script).
+*   **Nov. 1396:** Le Quy Ly compiled the book *Quoc ngu Thi nghia* (translating and explaining the Book of Odes in Nom script). [Source: Reforms of Ho Quy Ly (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/14720/nhung-cai-cach-cua-ho-quy-ly-cuoi-the-ky-xiv-djau-the-ky-xv.html]
 
 <!-- id: EVT-0517 -->
-*   **01/1397:** Le Quy Ly implemented the land limitation policy (hạn điền), restricting the amount of private land owned by princes and aristocrats (no more than 10 mẫu - a unit of area).
+*   **01/1397:** Le Quy Ly implemented the land limitation policy (hạn điền), restricting the amount of private land owned by princes and aristocrats (no more than 10 mẫu - a unit of area). [Source: Reforms of Ho Quy Ly (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/14720/nhung-cai-cach-cua-ho-quy-ly-cuoi-the-ky-xiv-djau-the-ky-xv.html]
 
 <!-- id: EVT-0518 -->
-*   **Jan. 1397:** Le Quy Ly ordered Do Tinh to survey the land at An Ton cave (Thanh Hoa) to build the Tay Do capital.
+*   **Jan. 1397:** Le Quy Ly ordered Do Tinh to survey the land at An Ton cave (Thanh Hoa) to build the Tay Do capital. [Source: From Tay Do Citadel to Ho Citadel Villages, https://thanhnhaho.vn/NewsDetail.aspx?Id=7657]
 
 ![Historical Image](images/event_20260924_111634.webp)
 
 *Source: South gate of the Ho Dynasty Citadel, Thanh Hoa / Silviculture (Wikimedia Commons, Public domain)*
 
 <!-- id: EVT-0519 -->
-*   **03/1397:** Le Quy Ly began constructing the Western Capital (Tây Đô) (Hồ Dynasty Citadel, Vĩnh Lộc, Thanh Hóa) and prepared to move the capital city.
+*   **03/1397:** Le Quy Ly began constructing the Western Capital (Tây Đô) (Hồ Dynasty Citadel, Vĩnh Lộc, Thanh Hóa) and prepared to move the capital city. [Source: From Tay Do Citadel to Ho Citadel Villages, https://thanhnhaho.vn/NewsDetail.aspx?Id=7657]
 
 <!-- id: EVT-0520 -->
-*   **Apr. 1397:** Under the direction of Le Quy Ly, the court carried out major administrative reforms, changing routes (lo) to circuits (tran) and reorganizing the levels of prefectures (phu), sub-prefectures (chau), and districts (huyen).
+*   **Apr. 1397:** Under the direction of Le Quy Ly, the court carried out major administrative reforms, changing routes (lo) to circuits (tran) and reorganizing the levels of prefectures (phu), sub-prefectures (chau), and districts (huyen). [Source: Reforms of Ho Quy Ly (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/14720/nhung-cai-cach-cua-ho-quy-ly-cuoi-the-ky-xiv-djau-the-ky-xv.html]
 
 <!-- id: EVT-0521 -->
-*   **May 1397:** The Tran emperor issued an edict to reform education, appointing educational officials in prefectures and sub-prefectures in Son Nam, Kinh Bac, and Hai Dong, and granting school lands to cover educational expenses.
+*   **May 1397:** The Tran emperor issued an edict to reform education, appointing educational officials in prefectures and sub-prefectures in Son Nam, Kinh Bac, and Hai Dong, and granting school lands to cover educational expenses. [Source: Reforms of Ho Quy Ly (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/14720/nhung-cai-cach-cua-ho-quy-ly-cuoi-the-ky-xiv-djau-the-ky-xv.html]
 
 <!-- id: EVT-0522 -->
-*   **Nov. 1397:** Emperor Tran Thuan Tong was forced to move the capital to Tay Do (Thanh Hoa). Thang Long was renamed Dong Do.
+*   **Nov. 1397:** Emperor Tran Thuan Tong was forced to move the capital to Tay Do (Thanh Hoa). Thang Long was renamed Dong Do. [Source: Plots Against Ho Quy Ly: Don Son Aftermath (Phap Luat), https://baophapluat.vn/ven-man-bi-mat-cac-vu-muu-sat-ho-quy-ly-ky-2-tham-an-sau-hoi-the-don-son-post262678.html]
 
 <!-- id: EVT-0523 -->
-*   **1398:** For the first time in history, the royal court ordered a nationwide cadastral survey.
+*   **1398:** For the first time in history, the royal court ordered a nationwide cadastral survey. [Source: The Ho Dynasty (1400-1407): Dai Ngu and Tay Do, https://scov.gov.vn/dat-nuoc-con-nguoi/tom-tat-bien-nien-su-vn/xv.-nha-ho-1400-1407-quoc-hieu-dai-ngu-kinh-do-tay-do-thanh-hoa-.html]
 
 <!-- id: EVT-0524 -->
-*   **1398:** King Tran Thuan Tong granted public land to educational officials in various prefectures of Son Nam and Hai Dong for educational expenses.
+*   **1398:** King Tran Thuan Tong granted public land to educational officials in various prefectures of Son Nam and Hai Dong for educational expenses. [Source: Reforms of Ho Quy Ly (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/14720/nhung-cai-cach-cua-ho-quy-ly-cuoi-the-ky-xiv-djau-the-ky-xv.html]
 
 <!-- id: EVT-0525 -->
-*   **Mar. 1398:** Emperor Thieu De ascended the throne at Bao Thanh Palace. The court conducted a nationwide land survey (lasting until 1403).
+*   **Mar. 1398:** Emperor Thieu De ascended the throne at Bao Thanh Palace. The court conducted a nationwide land survey (lasting until 1403). [Source: Plots Against Ho Quy Ly: Don Son Aftermath (Phap Luat), https://baophapluat.vn/ven-man-bi-mat-cac-vu-muu-sat-ho-quy-ly-ky-2-tham-an-sau-hoi-the-don-son-post262678.html]
 
 <!-- id: EVT-0526 -->
-*   **April 1398:** Le Quy Ly forced Emperor Tran Thuan Tong to abdicate in favor of his two-year-old son, Tran Thieu De, and then forced him to retire to a secluded place in Thanh Hoa.
+*   **April 1398:** Le Quy Ly forced Emperor Tran Thuan Tong to abdicate in favor of his two-year-old son, Tran Thieu De, and then forced him to retire to a secluded place in Thanh Hoa. [Source: Plots Against Ho Quy Ly: Don Son Aftermath (Phap Luat), https://baophapluat.vn/ven-man-bi-mat-cac-vu-muu-sat-ho-quy-ly-ky-2-tham-an-sau-hoi-the-don-son-post262678.html]
 
 <!-- id: EVT-0527 -->
 *   **1399:** Ho Quy Ly ordered the digging of the Vi, Tram, and Hao canals reaching down to the Ha Hoa sea port.
 
 <!-- id: EVT-0528 -->
-*   **May 1399:** Le Quy Ly sent his trusted general, Pham Kha Vinh, to the former emperor's residence. Pham Kha Vinh attempted to force Tran Thuan Tong to commit suicide by poison, but failed. Finally, Pham Kha Vinh strangled the former emperor to death. Tran Thuan Tong was buried at Yen Sinh mausoleum.
+*   **May 1399:** Le Quy Ly sent his trusted general, Pham Kha Vinh, to the former emperor's residence. Pham Kha Vinh attempted to force Tran Thuan Tong to commit suicide by poison, but failed. Finally, Pham Kha Vinh strangled the former emperor to death. Tran Thuan Tong was buried at Yen Sinh mausoleum. [Source: Tran Thuan Tong (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Thu%E1%BA%ADn_T%C3%B4ng]
 
 <!-- id: EVT-0529 -->
-*   **May 1399:** A mutiny occurred at the Don Son Oath Ceremony. Grand Tutor Tran Hang and Tran Khat Chan failed in their plot to assassinate Le Quy Ly. Over 370 people were executed.
+*   **May 1399:** A mutiny occurred at the Don Son Oath Ceremony. Grand Tutor Tran Hang and Tran Khat Chan failed in their plot to assassinate Le Quy Ly. Over 370 people were executed. [Source: Tran Khat Chan Plot Against Ho Quy Ly, https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/tran-khat-chan-va-ke-hoach-muu-sat-ho-quy-ly.html]
 
 <!-- id: EVT-0530 -->
-*   **Jun. 1399:** Le Quy Ly proclaimed himself *Quoc To Chuong Hoang De*, adopting imperial regalia and using a gold parasol, foreshadowing his usurpation.
+*   **Jun. 1399:** Le Quy Ly proclaimed himself *Quoc To Chuong Hoang De*, adopting imperial regalia and using a gold parasol, foreshadowing his usurpation. [Source: Ho Quy Ly (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/H%E1%BB%93_Qu%C3%BD_Ly]
 
 <!-- id: EVT-0531 -->
 *   **Aug. 1399:** Nguyen Nhu Cai counterfeited paper money and gathered over ten thousand people to rebel in Lap Thach, Day River, and Ba Vi, but failed.
@@ -1748,53 +1745,53 @@
 
 ### **Ho Dynasty and Reforms Period (1400 - 1407)**
 
-*   **Feb. 28, 1400:** Le Quy Ly deposed his maternal grandson Emperor Tran Thieu De, proclaimed himself king, and established the era name Thanh Nguyen. He officially restored his original family surname to **Ho Quy Ly**, founded the Ho dynasty, and renamed the nation to **Dai Ngu** (meaning "Great Peace and Happiness", derived from the legend tracing the Ho lineage to Emperor Shun, a ruler renowned for bringing peace and prosperity).
+*   **Feb. 28, 1400:** Le Quy Ly deposed his maternal grandson Emperor Tran Thieu De, proclaimed himself king, and established the era name Thanh Nguyen. He officially restored his original family surname to **Ho Quy Ly**, founded the Ho dynasty, and renamed the nation to **Dai Ngu** (meaning "Great Peace and Happiness", derived from the legend tracing the Ho lineage to Emperor Shun, a ruler renowned for bringing peace and prosperity). [Source: Ho Quy Ly Lineage and Dai Ngu Title (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/15076/gia-the-cua-ho-quy-ly-va-y-nghia-cua-quoc-hieu-djai-ngu.html]
 
 ![Historical Image](images/event_20260923_213700.webp)
 
 *Source: Portrait of Ho Quy Ly / Nguoi Ha Noi*
 
 <!-- id: EVT-0534 -->
-*   **Mid-1400:** The Ho emperor established a covert security network, appointing Censors (Liem phong su) in all routes to monitor officials and the populace.
+*   **Mid-1400:** The Ho emperor established a covert security network, appointing Censors (Liem phong su) in all routes to monitor officials and the populace. [Source: Reforms of Ho Quy Ly (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/14720/nhung-cai-cach-cua-ho-quy-ly-cuoi-the-ky-xiv-djau-the-ky-xv.html]
 
 <!-- id: EVT-0535 -->
 *   **Aug. 1400:** The Ho dynasty attacked Champa with 150,000 troops led by Do Man and Tran Tung but failed due to starvation in the mountainous terrain.
 
 <!-- id: EVT-0536 -->
-*   **Aug. 1400:** The Ho court organized the first Thai hoc sinh (National University student) examination, passing 20 people, including Nguyen Trai.
+*   **Aug. 1400:** The Ho court organized the first Thai hoc sinh (National University student) examination, passing 20 people, including Nguyen Trai. [Source: The Ho-Dynasty State (Ho Citadel Portal), https://thanhnhaho.vn/NewsDetail.aspx?Id=9687]
 
 <!-- id: EVT-0537 -->
-*   **Dec. 1400:** Ho Quy Ly ceded the throne to his son Ho Han Thuong, proclaiming himself Retired Emperor but retaining absolute power. The court began taxing merchant ships according to three tiers.
+*   **Dec. 1400:** Ho Quy Ly ceded the throne to his son Ho Han Thuong, proclaiming himself Retired Emperor but retaining absolute power. The court began taxing merchant ships according to three tiers. [Source: The Ho Dynasty (1400-1407): Dai Ngu and Tay Do, https://scov.gov.vn/dat-nuoc-con-nguoi/tom-tat-bien-nien-su-vn/xv.-nha-ho-1400-1407-quoc-hieu-dai-ngu-kinh-do-tay-do-thanh-hoa-.html]
 
 <!-- id: EVT-0538 -->
-*   **1401:** The Ever-Normal Granary (Thuong binh) was established, using paper money to buy and store rice for famine relief and market price stabilization. The penal code of Dai Ngu was formulated.
+*   **1401:** The Ever-Normal Granary (Thuong binh) was established, using paper money to buy and store rice for famine relief and market price stabilization. The penal code of Dai Ngu was formulated. [Source: The Ho Dynasty (1400-1407): Dai Ngu and Tay Do, https://scov.gov.vn/dat-nuoc-con-nguoi/tom-tat-bien-nien-su-vn/xv.-nha-ho-1400-1407-quoc-hieu-dai-ngu-kinh-do-tay-do-thanh-hoa-.html]
 
 <!-- id: EVT-0539 -->
-*   **15th century:** The monarchical regime shifted towards a Confucian bureaucratic and despotic model. The state divided communes (lang xa) into three categories (large, medium, and small), implementing regulations on population, commune head elections, and the "quan dien" (equal-field) system while maintaining the traditional commune structure. The method of training and recruiting mandarins shifted primarily to the examination system (regional and metropolitan exams), alongside the traditional hereditary privilege system (nhiem tu, tap am) for high-ranking nobles.
+*   **15th century:** The monarchical regime shifted towards a Confucian bureaucratic and despotic model. The state divided communes (lang xa) into three categories (large, medium, and small), implementing regulations on population, commune head elections, and the "quan dien" (equal-field) system while maintaining the traditional commune structure. The method of training and recruiting mandarins shifted primarily to the examination system (regional and metropolitan exams), alongside the traditional hereditary privilege system (nhiem tu, tap am) for high-ranking nobles. [Source: The Ho-Dynasty State (Ho Citadel Portal), https://thanhnhaho.vn/NewsDetail.aspx?Id=9687]
 
 <!-- id: EVT-0540 -->
-*   **Mar. 1401:** Ho Han Thuong issued a decree "limiting household slaves," regulating the number of slaves allowed based on official rank.
+*   **Mar. 1401:** Ho Han Thuong issued a decree "limiting household slaves," regulating the number of slaves allowed based on official rank. [Source: Reforms of Ho Quy Ly (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/14720/nhung-cai-cach-cua-ho-quy-ly-cuoi-the-ky-xiv-djau-the-ky-xv.html]
 
 <!-- id: EVT-0541 -->
-*   **Apr. 1401:** The Ho dynasty ordered the re-establishment of nationwide household registers, including all males from 2 years old and up, as a basis for military conscription.
+*   **Apr. 1401:** The Ho dynasty ordered the re-establishment of nationwide household registers, including all males from 2 years old and up, as a basis for military conscription. [Source: Reforms of Ho Quy Ly (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/14720/nhung-cai-cach-cua-ho-quy-ly-cuoi-the-ky-xiv-djau-the-ky-xv.html]
 
 <!-- id: EVT-0542 -->
 *   **1402:** Ho Han Thuong reformed the poll tax and land tax. The poll tax was levied based on land area; landless people, orphans, and widows were exempted. The Nam Giao sacrifice ceremony was re-established at Don Son. Royal court music was organized.
 
 <!-- id: EVT-0543 -->
-*   **Mar. 1402:** A courier route was built from Tay Do to Hoa Chau (Thua Thien), establishing relay stations and trading posts along the way.
+*   **Mar. 1402:** A courier route was built from Tay Do to Hoa Chau (Thua Thien), establishing relay stations and trading posts along the way. [Source: The Ho Dynasty (1400-1407): Dai Ngu and Tay Do, https://scov.gov.vn/dat-nuoc-con-nguoi/tom-tat-bien-nien-su-vn/xv.-nha-ho-1400-1407-quoc-hieu-dai-ngu-kinh-do-tay-do-thanh-hoa-.html]
 
 <!-- id: EVT-0544 -->
-*   **Jul. 1402:** The Ho dynasty attacked Champa for the second time. The Champa king Ba Dich Lai yielded Chiem Dong and Co Luy to seek peace. The Ho court divided this area into four prefectures: Thang, Hoa, Tu, and Nghia, forcing Champa people south and moving landless people from the north to settle the new lands.
+*   **Jul. 1402:** The Ho dynasty attacked Champa for the second time. The Champa king Ba Dich Lai yielded Chiem Dong and Co Luy to seek peace. The Ho court divided this area into four prefectures: Thang, Hoa, Tu, and Nghia, forcing Champa people south and moving landless people from the north to settle the new lands. [Source: Ho Han Thuong (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/H%E1%BB%93_H%C3%A1n_Th%C6%B0%C6%A1ng]
 
 <!-- id: EVT-0545 -->
-*   **1403:** The Ho dynasty attacked Champa for the third time with 200,000 troops. General Pham Nguyen Khoi besieged Cha Ban citadel for 9 months but failed due to lack of supplies. On the way back, the Ho navy encountered the Ming fleet sent to rescue Champa but avoided conflict. The Ming dynasty began preparing to invade Dai Ngu.
+*   **1403:** The Ho dynasty attacked Champa for the third time with 200,000 troops. General Pham Nguyen Khoi besieged Cha Ban citadel for 9 months but failed due to lack of supplies. On the way back, the Ho navy encountered the Ming fleet sent to rescue Champa but avoided conflict. The Ming dynasty began preparing to invade Dai Ngu. [Source: Ho Han Thuong (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/H%E1%BB%93_H%C3%A1n_Th%C6%B0%C6%A1ng]
 
 <!-- id: EVT-0546 -->
 *   **1403:** The sorcerer Tran Duc Huy was executed by lingchi for practicing superstitions and secretly adding names of border patrol guards to the military register. The position of Market Supervisor (Thi giam) was established, measurement tools were standardized, and laws penalizing those who refused paper money were enacted.
 
 <!-- id: EVT-0547 -->
-*   **Sep. 1403:** King Ho Han Thuong established the **Quang Te** office, a state-run medical service using acupuncture and moxibustion to treat diseases for the people.
+*   **Sep. 1403:** King Ho Han Thuong established the **Quang Te** office, a state-run medical service using acupuncture and moxibustion to treat diseases for the people. [Source: The Ho Dynasty (1400-1407): Dai Ngu and Tay Do, https://scov.gov.vn/dat-nuoc-con-nguoi/tom-tat-bien-nien-su-vn/xv.-nha-ho-1400-1407-quoc-hieu-dai-ngu-kinh-do-tay-do-thanh-hoa-.html]
 
 <!-- id: EVT-0548 -->
 *   **Oct. 1403:** The Ho dynasty executed the relatives of eunuchs (previously handed over to the Ming dynasty) after discovering they were acting as spies and insiders for the Ming forces.
@@ -1806,16 +1803,16 @@
 *   **1404:** Emperor Ho Han Thuong issued an edict stipulating that the metropolitan examination (thi Hoi) be held every three years, establishing a regular cycle for selecting national talent.
 
 <!-- id: EVT-0551 -->
-*   **1404:** Large warships called "Co Lau thuyen tai luong" with two decks for combat and transport were built. Landless individuals were organized into "pauper squads" to reclaim wasteland.
+*   **1404:** Large warships called "Co Lau thuyen tai luong" with two decks for combat and transport were built. Landless individuals were organized into "pauper squads" to reclaim wasteland. [Source: Reforms of Ho Quy Ly (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/14720/nhung-cai-cach-cua-ho-quy-ly-cuoi-the-ky-xiv-djau-the-ky-xv.html]
 
 <!-- id: EVT-0552 -->
-*   **Feb. 1404:** Ho Han Thuong revised the examination system, for the first time including mathematics as an official examination subject.
+*   **Feb. 1404:** Ho Han Thuong revised the examination system, for the first time including mathematics as an official examination subject. [Source: Reforms of Ho Quy Ly (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/14720/nhung-cai-cach-cua-ho-quy-ly-cuoi-the-ky-xiv-djau-the-ky-xv.html]
 
 <!-- id: EVT-0553 -->
-*   **Jun. 1404:** Ho Han Thuong ordered the establishment of four armories and the construction of iron-clad ships to defend against the Ming.
+*   **Jun. 1404:** Ho Han Thuong ordered the establishment of four armories and the construction of iron-clad ships to defend against the Ming. [Source: Ho Nguyen Trung (Vietnam History, lsvn.vn), https://lsvn.vn/ho-nguyen-trung-nhan-vat-lich-su-noi-tieng-thoi-nha-ho-a4457.html]
 
 <!-- id: EVT-0554 -->
-*   **Sep. 1404:** The Ho dynasty reorganized the army, establishing Nam ban and Bac ban, dividing the royal guards into regiments and companies under a Grand General.
+*   **Sep. 1404:** The Ho dynasty reorganized the army, establishing Nam ban and Bac ban, dividing the royal guards into regiments and companies under a Grand General. [Source: Reforms of Ho Quy Ly (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/14720/nhung-cai-cach-cua-ho-quy-ly-cuoi-the-ky-xiv-djau-the-ky-xv.html]
 
 <!-- id: EVT-0555 -->
 *   **1405:** The Ming dynasty demanded the return of Loc prefecture. Ho Quy Ly ceded 59 villages of Co Lau. Additionally, local Ming-appointed officials were secretly poisoned by the Ho dynasty. In July, Ho envoys failed to negotiate peace in Nanjing. In September, Ho Han Thuong ordered wooden stakes driven at the Bach Hac river mouth to defend against Ming invasion.
@@ -1824,16 +1821,16 @@
 *   **1405:** Ho Quy Ly (at age 70) bestowed titles and money upon elders aged 70 and above to win the people's hearts.
 
 <!-- id: EVT-0557 -->
-*   **Jun. 1405:** Four armories and weapons manufacturing workshops were established in Tay Do. Citizens were encouraged to participate in manufacturing the "Than co" firearms (invented by Ho Nguyen Trung).
+*   **Jun. 1405:** Four armories and weapons manufacturing workshops were established in Tay Do. Citizens were encouraged to participate in manufacturing the "Than co" firearms (invented by Ho Nguyen Trung). [Source: Since Which Reign Were Divine Cannons Used (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/6545/sung-than-cong-djuoc-su-dung-tu-trieu-vua-nao.html]
 
 <!-- id: EVT-0558 -->
 *   **Jul. 1405:** Ho Quy Ly and Ho Han Thuong personally patrolled the terrain, rivers, and estuaries to deploy defenses against the Ming army.
 
 <!-- id: EVT-0559 -->
-*   **Sep. 1405:** The heavily fortified Da Bang Citadel (Son Tay) and a nearly 400km-long obstacle system along major rivers were built. The military organization was restructured into four service branches.
+*   **Sep. 1405:** The heavily fortified Da Bang Citadel (Son Tay) and a nearly 400km-long obstacle system along major rivers were built. The military organization was restructured into four service branches. [Source: Ho Nguyen Trung (Vietnam History, lsvn.vn), https://lsvn.vn/ho-nguyen-trung-nhan-vat-lich-su-noi-tieng-thoi-nha-ho-a4457.html]
 
 <!-- id: EVT-0560 -->
-*   **Apr. 1406:** The Ming dynasty sent Han Guan and Huang Zhong with 100,000 troops to invade Dai Ngu, under the pretext of escorting Tran Thiem Binh. On April 8 (lunar), they attacked Lanh Kinh. The Ho army initially suffered heavy losses, but a surprise counterattack from Vu Cao forced the Ming army to retreat. The Ho army intercepted them at Chi Lang pass, forcing the Ming to hand over Tran Thiem Binh, who was later executed by lingchi.
+*   **Apr. 1406:** The Ming dynasty sent Han Guan and Huang Zhong with 100,000 troops to invade Dai Ngu, under the pretext of escorting Tran Thiem Binh. On April 8 (lunar), they attacked Lanh Kinh. The Ho army initially suffered heavy losses, but a surprise counterattack from Vu Cao forced the Ming army to retreat. The Ho army intercepted them at Chi Lang pass, forcing the Ming to hand over Tran Thiem Binh, who was later executed by lingchi. [Source: Tran Thiem Binh (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Thi%C3%AAm_B%C3%ACnh]
 
 <!-- id: EVT-0561 -->
 *   **Jul. 1406:** Ho Han Thuong ordered wooden stakes driven south of the Cai river and instructed people in northern regions to implement a "scorched earth" policy to deny supplies to the impending Ming invasion.
@@ -1842,46 +1839,46 @@
 *   **Aug. 21, 1406:** Ming Emperor Yongle issued a secret edict to generals Zhang Fu and Zhu Neng, ordering a ruthless policy of cultural genocide: burning all books, classical texts, and local writings of Dai Viet ranging from educational primers to folk songs, and obliterating all stone stelae erected by Vietnamese people to thoroughly destroy the nation's historical memory and cultural heritage.
 
 <!-- id: EVT-0563 -->
-*   **Sep. 1406:** The Ming dynasty sent a large army (claimed to be 800,000, realistically around 215,000) under Zhang Fu and Mu Sheng, advancing in two columns. Many disgruntled Vietnamese, including Mac Thuy and Nguyen Huan, surrendered and assisted the Ming.
+*   **Sep. 1406:** The Ming dynasty sent a large army (claimed to be 800,000, realistically around 215,000) under Zhang Fu and Mu Sheng, advancing in two columns. Many disgruntled Vietnamese, including Mac Thuy and Nguyen Huan, surrendered and assisted the Ming. [Source: The Ho Dynasty (1400-1407): Dai Ngu and Tay Do, https://scov.gov.vn/dat-nuoc-con-nguoi/tom-tat-bien-nien-su-vn/xv.-nha-ho-1400-1407-quoc-hieu-dai-ngu-kinh-do-tay-do-thanh-hoa-.html]
 
 <!-- id: EVT-0564 -->
-*   **Nov. 19, 1406:** The Ming army attacked the Pha Luy pass.
+*   **Nov. 19, 1406:** The Ming army attacked the Pha Luy pass. [Source: Ming Invasion of Dai Ngu (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Nh%C3%A0_Minh_x%C3%A2m_l%C6%B0%E1%BB%A3c_%C4%90%E1%BA%A1i_Ngu]
 
 <!-- id: EVT-0565 -->
 *   **Dec. 2, 1406 (lunar):** The Ming army occupied Viet Tri, the Moc Hoan mudflat, and the Bach Hac river mouth.
 
 <!-- id: EVT-0566 -->
-*   **Dec. 7, 1406 (lunar):** The Ming army attempted to cross the Thien Mac river but was defeated by Ho general Tran Dinh.
+*   **Dec. 7, 1406 (lunar):** The Ming army attempted to cross the Thien Mac river but was defeated by Ho general Tran Dinh. [Source: Ming Invasion of Dai Ngu (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Nh%C3%A0_Minh_x%C3%A2m_l%C6%B0%E1%BB%A3c_%C4%90%E1%BA%A1i_Ngu]
 
 <!-- id: EVT-0567 -->
-*   **Dec. 9, 1406 (lunar):** Ming forces launched a surprise night attack on Moc Hoan, defeating the unprepared Ho general Nguyen Cong Khoi and crossing the river.
+*   **Dec. 9, 1406 (lunar):** Ming forces launched a surprise night attack on Moc Hoan, defeating the unprepared Ho general Nguyen Cong Khoi and crossing the river. [Source: Ming Invasion of Dai Ngu (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Nh%C3%A0_Minh_x%C3%A2m_l%C6%B0%E1%BB%A3c_%C4%90%E1%BA%A1i_Ngu]
 
 <!-- id: EVT-0568 -->
-*   **Dec. 12, 1406 (lunar):** Battle of Da Bang. Ming forces attacked the citadel at night. Despite the Ho army using war elephants, Ming forces used fire arrows and fake lions to rout the elephants. The Ming captured Da Bang citadel, breaking the Ho defense line.
+*   **Dec. 12, 1406 (lunar):** Battle of Da Bang. Ming forces attacked the citadel at night. Despite the Ho army using war elephants, Ming forces used fire arrows and fake lions to rout the elephants. The Ming captured Da Bang citadel, breaking the Ho defense line. [Source: Ming Invasion of Dai Ngu (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Nh%C3%A0_Minh_x%C3%A2m_l%C6%B0%E1%BB%A3c_%C4%90%E1%BA%A1i_Ngu]
 
 <!-- id: EVT-0569 -->
-*   **Dec. 13, 1406 (lunar):** Guided by the surrendered general Mac Thuy, the Ming army advanced along the Phu Luong river and captured Dong Kinh (Thang Long), plundering wealth and capturing Vietnamese boys to send to Nanjing.
+*   **Dec. 13, 1406 (lunar):** Guided by the surrendered general Mac Thuy, the Ming army advanced along the Phu Luong river and captured Dong Kinh (Thang Long), plundering wealth and capturing Vietnamese boys to send to Nanjing. [Source: Ming Invasion of Dai Ngu (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Nh%C3%A0_Minh_x%C3%A2m_l%C6%B0%E1%BB%A3c_%C4%90%E1%BA%A1i_Ngu]
 
 <!-- id: EVT-0570 -->
-*   **1407 - 1414:** Ming invading forces commanded by Zhang Fu carried out horrific massacres of civilians, beheading, disemboweling, and piling corpses into mounds to terrorize the population of Dai Viet; they also enslaved tens of thousands to dive for pearls and mine for gold in malaria-infested jungles, forcibly deporting skilled artisans to Jinling, atrocities later immortalized and fiercely condemned by Nguyen Trai in the *"Binh Ngo Dai Cao"*: *"They roasted our innocent people on the flames of cruelty, and buried our babies in pits of disaster"*...
+*   **1407 - 1414:** Ming invading forces commanded by Zhang Fu carried out horrific massacres of civilians, beheading, disemboweling, and piling corpses into mounds to terrorize the population of Dai Viet; they also enslaved tens of thousands to dive for pearls and mine for gold in malaria-infested jungles, forcibly deporting skilled artisans to Jinling, atrocities later immortalized and fiercely condemned by Nguyen Trai in the *"Binh Ngo Dai Cao"*: *"They roasted our innocent people on the flames of cruelty, and buried our babies in pits of disaster"*... [Source: From Binh Ngo Dai Cao to the Declaration of Independence (HCMC Portal), https://hochiminh.vn/tin-tuc/tu-binh-ngo-dai-cao-den-tuyen-ngon-doc-lap-938]
 
 <!-- id: EVT-0571 -->
-*   **Feb. 20, 1407 (lunar):** Battle of Moc Pham on the Lo River. The Ho naval and land forces were defeated by the Ming, losing 100 ships and 10,000 soldiers, forcing a retreat to Muon Hai.
+*   **Feb. 20, 1407 (lunar):** Battle of Moc Pham on the Lo River. The Ho naval and land forces were defeated by the Ming, losing 100 ships and 10,000 soldiers, forcing a retreat to Muon Hai. [Source: Ming Invasion of Dai Ngu (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Nh%C3%A0_Minh_x%C3%A2m_l%C6%B0%E1%BB%A3c_%C4%90%E1%BA%A1i_Ngu]
 
 <!-- id: EVT-0572 -->
-*   **Mar. 13, 1407 (lunar):** Battle of Ham Tu. The Ho army, attempting a massive counterattack with 70,000 troops, fell into a Ming ambush. The Ho forces were completely annihilated, with tens of thousands killed. Ho Quy Ly and Ho Han Thuong fled to Thanh Hoa.
+*   **Mar. 13, 1407 (lunar):** Battle of Ham Tu. The Ho army, attempting a massive counterattack with 70,000 troops, fell into a Ming ambush. The Ho forces were completely annihilated, with tens of thousands killed. Ho Quy Ly and Ho Han Thuong fled to Thanh Hoa. [Source: Fall of the Ho, Ming Occupation (International Studies), https://nghiencuuquocte.org/2022/01/08/trieu-dai-ho-quy-ly-sup-do-nha-minh-dat-ach-cai-tri/]
 
 <!-- id: EVT-0573 -->
-*   **Apr. 1407:** The Ming dynasty issued an edict to search for Tran descendants. Upon false reports that the Tran line was extinct, the Ming officially annexed Đại Ngu, establishing Giao Chi province to assimilate the Vietnamese.
+*   **Apr. 1407:** The Ming dynasty issued an edict to search for Tran descendants. Upon false reports that the Tran line was extinct, the Ming officially annexed Đại Ngu, establishing Giao Chi province to assimilate the Vietnamese. [Source: Ming Domination 1407-1427 (District 8 HCMC), http://quan8.hochiminhcity.gov.vn/dantaphaibietsuta/lists/posts/post.aspx?Category=NH%C3%80%2BMINH%2B%C4%90%C3%94%2BH%E1%BB%98%2B%C4%90%E1%BA%A0I%2BVI%E1%BB%86T%2B(1407%2B-%2B1427)&ItemID=76&Mode=1&Source=%2Fdantaphaibietsuta]
 
 <!-- id: EVT-0574 -->
-*   **Apr. 23, 1407 (lunar):** Ming forces attacked Loi Giang; the Ho army dissolved without a fight.
+*   **Apr. 23, 1407 (lunar):** Ming forces attacked Loi Giang; the Ho army dissolved without a fight. [Source: Ming Invasion of Dai Ngu (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Nh%C3%A0_Minh_x%C3%A2m_l%C6%B0%E1%BB%A3c_%C4%90%E1%BA%A1i_Ngu]
 
 <!-- id: EVT-0575 -->
-*   **Apr. 29, 1407 (lunar):** Ming forces attacked Dien Canh estuary, routing the Ho navy.
+*   **Apr. 29, 1407 (lunar):** Ming forces attacked Dien Canh estuary, routing the Ho navy. [Source: Fall of the Ho, Ming Occupation (International Studies), https://nghiencuuquocte.org/2022/01/08/trieu-dai-ho-quy-ly-sup-do-nha-minh-dat-ach-cai-tri/]
 
 <!-- id: EVT-0576 -->
-*   **May 5, 1407 (lunar):** Ming forces attacked Ky La estuary.
+*   **May 5, 1407 (lunar):** Ming forces attacked Ky La estuary. [Source: Fall of the Ho, Ming Occupation (International Studies), https://nghiencuuquocte.org/2022/01/08/trieu-dai-ho-quy-ly-sup-do-nha-minh-dat-ach-cai-tri/]
 
 <!-- id: EVT-0577 -->
 
