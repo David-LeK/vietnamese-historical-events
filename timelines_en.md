@@ -550,242 +550,242 @@
 
 ### **Early Independence Period (Ngo - Dinh - Early Le, 939 - 1009)**
 
-*   **939 (Spring):** Ngo Quyen proclaimed himself king, established the Ngo dynasty, and set the capital at Co Loa, officially ushering in an era of independence and autonomy.
+*   **939 (Spring):** Ngo Quyen proclaimed himself king, established the Ngo dynasty, and set the capital at Co Loa, officially ushering in an era of independence and autonomy. [Source: Ngo Quyen – Founder of the Independence Era After a Thousand Years of Northern Domination, https://baotanglichsu.vn/vi/Articles/3098/16483/ngo-quyen-nguoi-mo-djau-ky-nguyen-djoc-lap-cho-djat-nuoc-thoat-khoi-nghin-nam-bac-thuoc.html]
 
 ![Historical Image](images/event_20260923_232100.webp)
 
 *Source: Panoramic view of Co Loa relic site (Dong Anh, Hanoi) / Hanoitimes*
 
 <!-- id: EVT-0159 -->
-*   **944:** Ngo Quyen passed away. His brother-in-law, Duong Tam Kha, usurped the throne from Ngo Quyen's son Ngo Xuong Ngap, proclaiming himself Binh Vuong.
+*   **944:** Ngo Quyen passed away. His brother-in-law, Duong Tam Kha, usurped the throne from Ngo Quyen's son Ngo Xuong Ngap, proclaiming himself Binh Vuong. [Source: Why Did the Ngo Clan Lose the Throne? (Vietnamese Historical Anecdotes), https://daibieunhandan.vn/viet-su-giai-thoai-vi-sao-ho-ngo-mat-ngoi-10038576.html]
 
 <!-- id: EVT-0160 -->
-*   **950:** Ngo Xuong Van overthrew Duong Tam Kha, demoted him to Chuong Duong Cong, and granted him the land of Chuong Duong as an appanage (thực ấp). He reclaimed the throne as Nam Tan Vuong and co-ruled with his brother Ngo Xuong Ngap (Thien Sach Vuong).
+*   **950:** Ngo Xuong Van overthrew Duong Tam Kha, demoted him to Chuong Duong Cong, and granted him the land of Chuong Duong as an appanage (thực ấp). He reclaimed the throne as Nam Tan Vuong and co-ruled with his brother Ngo Xuong Ngap (Thien Sach Vuong). [Source: Why Did the Ngo Clan Lose the Throne? (Vietnamese Historical Anecdotes), https://daibieunhandan.vn/viet-su-giai-thoai-vi-sao-ho-ngo-mat-ngoi-10038576.html]
 
 <!-- id: EVT-0161 -->
-*   **951:** Hau Ngo Vuong (Ngo Xuong Van and Ngo Xuong Ngap) attacked Dinh Bo Linh at Hoa Lu for over a month but failed, taking Dinh Lien as hostage.
+*   **951:** Hau Ngo Vuong (Ngo Xuong Van and Ngo Xuong Ngap) attacked Dinh Bo Linh at Hoa Lu for over a month but failed, taking Dinh Lien as hostage. [Source: Dinh Bo Linh – The First Emperor of Dai Co Viet, https://vnexpress.net/dinh-bo-linh-hoang-de-dau-tien-cua-nuoc-dai-co-viet-3748828.html]
 
 <!-- id: EVT-0162 -->
-*   **954:** Thien Sach Vuong Ngo Xuong Ngap passed away.
+*   **954:** Thien Sach Vuong Ngo Xuong Ngap passed away. [Source: Ngo Xuong Ngap (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Ngô_Xương_Ngập]
 
 <!-- id: EVT-0163 -->
-*   **955:** Following the death of his elder brother Thien Sach King Ngo Xuong Ngap (954), Nam Tan King Ngo Xuong Van ruled alone and dispatched an envoy to Southern Han to establish diplomatic ties and seek investiture, maintaining peace and preserving national independence.
+*   **955:** Following the death of his elder brother Thien Sach King Ngo Xuong Ngap (954), Nam Tan King Ngo Xuong Van ruled alone and dispatched an envoy to Southern Han to establish diplomatic ties and seek investiture, maintaining peace and preserving national independence. [Source: Ngo Xuong Van (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Ngô_Xương_Văn]
 
 <!-- id: EVT-0164 -->
-*   **965:** Nam Tan Vuong Ngo Xuong Van was killed in battle while suppressing a rebellion in the hamlets of Duong and Nguyen. The Ngo dynasty ended.
+*   **965:** Nam Tan Vuong Ngo Xuong Van was killed in battle while suppressing a rebellion in the hamlets of Duong and Nguyen. The Ngo dynasty ended. [Source: Ngo Xuong Van (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Ngô_Xương_Văn]
 
 <!-- id: EVT-0165 -->
-*   **965 - 967:** The Anarchy of the 12 Warlords. Warlords fully formed by 966.
+*   **965 - 967:** The Anarchy of the 12 Warlords. Warlords fully formed by 966. [Source: Anarchy of the 12 Warlords: The People Still Cherish Those Who Defended the Country, https://nhandan.vn/loan-12-su-quan-nhan-dan-van-yeu-quy-nhung-nguoi-giu-nuoc-giup-dan-post568976.html]
 
 <!-- id: EVT-0166 -->
-*   **965 (At Suu year):** Following the death of Nam Tan Vuong Ngo Xuong Van, Thien Sach Vuong's son Ngo Xuong Xi succeeded to the royal mantle. Powerless to preserve control over the Co Loa capital amid growing feudal unrest, he withdrew to fortify Binh Kieu (Trieu Son, Nghe An/Thanh Hoa), initiating the Period of the 12 Warlords.
+*   **965 (At Suu year):** Following the death of Nam Tan Vuong Ngo Xuong Van, Thien Sach Vuong's son Ngo Xuong Xi succeeded to the royal mantle. Powerless to preserve control over the Co Loa capital amid growing feudal unrest, he withdrew to fortify Binh Kieu (Trieu Son, Thanh Hoa), initiating the Period of the 12 Warlords. [Source: Who Were the 12 Warlords?, https://danviet.vn/loan-12-su-quan-gom-nhung-su-quan-nao-d1397353.html]
 
 <!-- id: EVT-0167 -->
-*   **967:** Dinh Bo Linh defeated several warlords, including Do Canh Thac, Nguyen Sieu, Nguyen Khoan, Kieu Cong Han, and Kieu Thuan.
+*   **967:** Dinh Bo Linh defeated several warlords, including Do Canh Thac, Nguyen Sieu, Nguyen Khoan, Kieu Cong Han, and Kieu Thuan. [Source: Dinh Bo Linh – The First Emperor of Dai Co Viet, https://vnexpress.net/dinh-bo-linh-hoang-de-dau-tien-cua-nuoc-dai-co-viet-3748828.html]
 
 <!-- id: EVT-0168 -->
-*   **968:** Dinh Bo Linh defeated the remaining warlords (Ly Khue, La Duong), unified the country, ascended to the throne as Emperor (Dinh Tien Hoang), and established the capital at Hoa Lu (Ninh Binh).
+*   **968:** Dinh Bo Linh defeated the remaining warlords (Ly Khue, La Duong), unified the country, ascended to the throne as Emperor (Dinh Tien Hoang), and established the capital at Hoa Lu (Ninh Binh). [Source: Dinh Bo Linh – The First Emperor of Dai Co Viet, https://vnexpress.net/dinh-bo-linh-hoang-de-dau-tien-cua-nuoc-dai-co-viet-3748828.html]
 
 ![Historical Image](images/event_20260923_125157.webp)
 
 *Source: Eastern Gate to the Hoa Lu Ancient Capital (Ninh Binh) - capital of Dai Co Viet under King Dinh Tien Hoang / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-0169 -->
-*   **970:** Dinh Tien Hoang established the era name Thai Binh.
+*   **970:** Dinh Tien Hoang established the era name Thai Binh. [Source: Reference Table of Vietnamese Dynastic Era Names (Institute of Han-Nom Studies), https://hannom.vass.gov.vn/tin-tuc-61366/bang-tra-nien-hieu-cac-trieu-vua-viet-nam-505744]
 
 <!-- id: EVT-0170 -->
-*   **970:** Dinh Tien Hoang established five queens (Dan Gia, Trinh Minh, Kieu Quoc, Co Quoc, and Cao Ong), setting a precedent for the royal harem system.
+*   **970:** Dinh Tien Hoang established five queens (Dan Gia, Trinh Minh, Kieu Quoc, Co Quoc, and Cao Ong), setting a precedent for the royal harem system. [Source: Dinh Tien Hoang (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Đinh_Tiên_Hoàng]
 
 <!-- id: EVT-0171 -->
-*   **970:** King Đinh Tiên Hoàng established the era name Thái Bình and minted "Thái Bình hưng bảo" bronze coins, the first metallic currency in independent Vietnamese history, affirming national economic and monetary sovereignty.
+*   **970:** King Đinh Tiên Hoàng established the era name Thái Bình and minted "Thái Bình hưng bảo" bronze coins, the first metallic currency in independent Vietnamese history, affirming national economic and monetary sovereignty. [Source: Dinh Tien Hoang (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Đinh_Tiên_Hoàng]
 
 <!-- id: EVT-0172 -->
-*   **971:** Dinh Tien Hoang began to regulate the ranks for civil, military, and monastic officials. Ngo Chan Luu was appointed as the first Sangha Overseer (Tang thong) with the title Grand Master Khuong Viet.
+*   **971:** Dinh Tien Hoang began to regulate the ranks for civil, military, and monastic officials. Ngo Chan Luu was appointed as the first Sangha Overseer (Tang thong) with the title Grand Master Khuong Viet. [Source: Le Dai Hanh (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Lê_Đại_Hành]
 
 <!-- id: EVT-0173 -->
-*   **974:** Dinh Tien Hoang divided the country into 10 circuits (dao).
+*   **974:** Dinh Tien Hoang divided the country into 10 circuits (dao). [Source: The Dai Co Viet State Under the Early Le (980-1009), https://baoninhbinh.org.vn/nha-nuoc-dai-co-viet-duoi-thoi-tien-le-980-1009-va-thoi-ky/d20180313090239782.htm]
 
 <!-- id: EVT-0174 -->
-*   **Spring 978:** Dinh Tien Hoang established his younger son Hang Lang as Crown Prince, bypassing his eldest son Dinh Lien.
+*   **Spring 978:** Dinh Tien Hoang established his younger son Hang Lang as Crown Prince, bypassing his eldest son Dinh Lien. [Source: The Dinh Dynasty and the Historic Mistake of Deposing the Elder Son, https://baophapluat.vn/thang-tram-trieu-dai-nha-dinh-va-sai-lam-lich-su-phe-truong-lap-thu-post291054.html]
 
 <!-- id: EVT-0175 -->
-*   **Spring 979:** Nam Viet Vuong Dinh Lien killed Crown Prince Hang Lang.
+*   **Spring 979:** Nam Viet Vuong Dinh Lien killed Crown Prince Hang Lang. [Source: A Past Case: Dinh Lien Kills Crown Prince Hang Lang, https://baotanglichsu.vn/vi/Articles/3096/6833/an-xua-nam-viet-vuong-djinh-lien-giet-thai-tu-hang-lang.html]
 
 <!-- id: EVT-0176 -->
-*   **Oct. 979:** Do Thich assassinated Emperor Dinh Tien Hoang and Dinh Lien. Prince Ve Vuong Dinh Toan (6 years old) ascended the throne. Le Hoan acted as regent.
+*   **Oct. 979:** Do Thich assassinated Emperor Dinh Tien Hoang and Dinh Lien. Prince Ve Vuong Dinh Toan (6 years old) ascended the throne. Le Hoan acted as regent. [Source: Explaining the Sudden Deaths of Vietnamese Kings (Part 3), https://baotanglichsu.vn/vi/Articles/3096/8190/giai-ma-cai-chet-bat-djac-ky-tu-cua-cac-ong-vua-vn-ky-3.html]
 
 <!-- id: EVT-0177 -->
-*   **Late 979:** Dinh Dien and Nguyen Bac raised troops to oppose Le Hoan's regency but were defeated and killed. Ngo Nhat Khanh, allied with Champa, attempted an invasion but died in a storm.
+*   **Late 979:** Dinh Dien and Nguyen Bac raised troops to oppose Le Hoan's regency but were defeated and killed. Ngo Nhat Khanh, allied with Champa, attempted an invasion but died in a storm. [Source: Dinh Phe De (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Đinh_Phế_Đế]
 
 <!-- id: EVT-0178 -->
-*   **Jul. 980:** Facing the threat of invasion from the Song dynasty, General Pham Cu Luong and the army proclaimed Le Hoan as Emperor. Le Hoan ascended the throne (Le Dai Hanh), establishing the Early Le dynasty.
+*   **Jul. 980:** Facing the threat of invasion from the Song dynasty, General Pham Cu Luong and the army proclaimed Le Hoan as Emperor. Le Hoan ascended the throne (Le Dai Hanh), establishing the Early Le dynasty. [Source: The Early Le Dynasty Began in 980, https://vnexpress.net/trac-nghiem-ve-trieu-dai-tien-le-keo-dai-gan-30-nam-3532354-p3.html]
 
 <!-- id: EVT-0179 -->
-*   **Aug. 19, 980:** The Song Emperor issued an edict to invade Dai Co Viet, appointing Hou Renbao as the commander.
+*   **Aug. 19, 980:** The Song Emperor issued an edict to invade Dai Co Viet, appointing Hou Renbao as the commander. [Source: Le Dai Hanh and the 981 Bach Dang Victory, https://quansu.haiphong.gov.vn/Lich-su-truyen-thong/Nhung-chien-cong-tieu-bieu/Le-Dai-Hanh-va-chien-thang-Bach-Dang-nam-981-121421.html]
 
 <!-- id: EVT-0180 -->
-*   **Jan. 24, 981:** First Battle of Bach Dang. Song naval forces commanded by Hou Renbao entered the Bach Dang River. Dai Co Viet forces were initially defeated, losing over 1,000 soldiers and 200 ships. Le Dai Hanh retreated to consolidate forces and sent a fake surrender letter.
+*   **Jan. 24, 981:** First Battle of Bach Dang. Song naval forces commanded by Hou Renbao entered the Bach Dang River. Dai Co Viet forces were initially defeated, losing over 1,000 soldiers and 200 ships. Le Dai Hanh retreated to consolidate forces and sent a fake surrender letter. [Source: Spring 981 – Victory in the First Resistance Against the Song, https://baotanglichsu.vn/vi/Articles/3097/15910/mua-xuan-nam-981-khang-chien-chong-quan-tong-lan-thu-nhat-thang-loi.html]
 
 <!-- id: EVT-0181 -->
-*   **Jan. 30, 981:** Song land forces commanded by Sun Quanhxing (Ton Toan Hung) reached Hoa Bo but failed to advance and link up with the navy.
+*   **Jan. 30, 981:** Song land forces commanded by Sun Quanhxing (Ton Toan Hung) reached Hoa Bo but failed to advance and link up with the navy. [Source: First Song-Vietnamese War (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Chiến_tranh_Tống–Việt_lần_thứ_nhất]
 
 <!-- id: EVT-0182 -->
-*   **Feb. 7, 981:** Battle of Luc Giang (Binh Lo). Dai Co Viet forces commanded by Le Dai Hanh heavily defeated Song forces on the Luc Dau river, forcing them to retreat to Bach Dang.
+*   **Feb. 7, 981:** Battle of Luc Giang (Binh Lo). Dai Co Viet forces commanded by Le Dai Hanh heavily defeated Song forces on the Luc Dau river, forcing them to retreat to Bach Dang. [Source: First Song-Vietnamese War (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Chiến_tranh_Tống–Việt_lần_thứ_nhất]
 
 <!-- id: EVT-0183 -->
-*   **Apr. 11, 981:** Song naval and land reinforcements arrived at Bach Dang.
+*   **Apr. 11, 981:** Song naval and land reinforcements arrived at Bach Dang. [Source: First Song-Vietnamese War (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Chiến_tranh_Tống–Việt_lần_thứ_nhất]
 
 <!-- id: EVT-0184 -->
-*   **Apr. 28, 981:** Second Battle of Bach Dang. Le Dai Hanh commanded the decisive battle. Feigning defeat to lure the enemy into an ambush, Dai Co Viet forces crushed the Song army, killing Commander Hou Renbao. Song forces retreated and were pursued and heavily defeated at Tay Ket.
+*   **Apr. 28, 981:** Second Battle of Bach Dang. Le Dai Hanh commanded the decisive battle. Feigning defeat to lure the enemy into an ambush, Dai Co Viet forces crushed the Song army, killing Commander Hou Renbao. Song forces retreated and were pursued and heavily defeated at Tay Ket. [Source: Le Dai Hanh and the 981 Bach Dang Victory, https://quansu.haiphong.gov.vn/Lich-su-truyen-thong/Nhung-chien-cong-tieu-bieu/Le-Dai-Hanh-va-chien-thang-Bach-Dang-nam-981-121421.html]
 
 ![Historical Image](images/event_20260924_124302.webp)
 
 *Source: Bach Dang stockade site, Quang Yen – relic of the 981 stockade battlefield against the Song army (Photo: Goodmorninghpvn / Public domain)*
 
 <!-- id: EVT-0185 -->
-*   **982:** King Lê Đại Hành personally commanded a military expedition against Champa following the detention of Đại Cồ Việt emissaries, killing King Paramesvaravarman I (Bê Mị Thuế) in battle, subduing the capital Indrapura (Đồng Dương), and rescuing the envoys.
+*   **982:** King Lê Đại Hành personally commanded a military expedition against Champa following the detention of Đại Cồ Việt emissaries, killing King Paramesvaravarman I (Bê Mị Thuế) in battle, subduing the capital Indrapura (Đồng Dương), and rescuing the envoys. [Source: Historical Figure Le Hoan, https://xuantin.thanhhoa.gov.vn/Default.aspx?catid=134989&catname=thong-tin-tuyen-truyen&id=456786&pageid=87222&sid=3556&title=nhan-vat-lich-su-le-hoan]
 
 <!-- id: EVT-0186 -->
-*   **983:** King Le Dai Hanh ordered the digging of the Ba Hoa Canal (Thanh Hoa) and Da Cai Canal (Nghe An) to facilitate military and water transport. He withdrew the main army to Hoa Lu, leaving a garrison in northern Champa (from Hoanh Son to Varella cape) under the command of *Quan giap* **Luu Ke Tong**.
+*   **983:** King Le Dai Hanh ordered the digging of the Ba Hoa Canal (Thanh Hoa) and Da Cai Canal (Nghe An) to facilitate military and water transport. He withdrew the main army to Hoa Lu, leaving a garrison in northern Champa (from Hoanh Son to Varella cape) under the command of *Quan giap* **Luu Ke Tong**. [Source: Le Dai Hanh (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Lê_Đại_Hành]
 
 <!-- id: EVT-0187 -->
-*   **Feb. 984:** The Early Le court minted Thien Phuc coins.
+*   **Feb. 984:** The Early Le court minted Thien Phuc coins. [Source: Le Dai Hanh (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Lê_Đại_Hành]
 
 <!-- id: EVT-0188 -->
-*   **986:** Following the death of King Indravarman IV, **Luu Ke Tong** proclaimed himself King of Champa and sent envoys to the Song court to seek investiture. Many Champa people rebelled against his rule and fled to Hainan and Guangzhou.
+*   **986:** Following the death of King Indravarman IV, **Luu Ke Tong** proclaimed himself King of Champa and sent envoys to the Song court to seek investiture. Many Champa people rebelled against his rule and fled to Hainan and Guangzhou. [Source: Luu Ke Tong (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Lưu_Kế_Tông]
 
 <!-- id: EVT-0189 -->
-*   **987 (Spring):** Le Dai Hanh performed the Tich Dien (royal ploughing) ceremony for the first time at Doi Son and later at Mount Ban Hai to encourage agriculture.
+*   **987 (Spring):** Le Dai Hanh performed the Tich Dien (royal ploughing) ceremony for the first time at Doi Son and later at Mount Ban Hai to encourage agriculture. [Source: Tich Dien Royal Ploughing Ceremony (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Lễ_Tịch_điền]
 
 <!-- id: EVT-0190 -->
-*   **987:** Song envoy Li Jue visited Dai Co Viet. Zen Master Do Phap Thuan, disguised as a ferryman, engaged in a famous poetry exchange with the envoy, demonstrating the nation's literary culture.
+*   **987:** Song envoy Li Jue visited Dai Co Viet. Zen Master Do Phap Thuan, disguised as a ferryman, engaged in a famous poetry exchange with the envoy, demonstrating the nation's literary culture. [Source: Zen Master Phap Thuan and the Poem on the Nation Fate, https://vanhoavaphattrien.vn/thien-su-phap-thuan-va-bai-tho-van-nuoc-a8034.html]
 
 <!-- id: EVT-0191 -->
-*   **988:** The people of Champa rose up to retake the Vijaya region and enthroned Ku Sri Harivarman II at Phat The citadel (Binh Dinh).
+*   **988:** The people of Champa rose up to retake the Vijaya region and enthroned Ku Sri Harivarman II at Phat The citadel (Binh Dinh). [Source: Luu Ke Tong (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Lưu_Kế_Tông]
 
 <!-- id: EVT-0192 -->
 *   **988:** Le Hoan (Le Dai Hanh) was enfeoffed as Khai Quoc Hau (Marquis of National Foundation) with an appanage of 3,000 households.
 
 <!-- id: EVT-0193 -->
-*   **989:** **Luu Ke Tong** passed away. King Harivarman II recovered the Amaravati region and northern Nhat Nam up to Dia Ly prefecture.
+*   **989:** **Luu Ke Tong** passed away. King Harivarman II recovered the Amaravati region and northern Nhat Nam up to Dia Ly prefecture. [Source: Luu Ke Tong (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Lưu_Kế_Tông]
 
 <!-- id: EVT-0194 -->
-*   **989:** *Quan giap* Duong Tien Loc rebelled against the Early Le court, leading people from Hoan and Ai provinces to flee to Champa to submit, but was refused entry by King Harivarman II.
+*   **989:** *Quan giap* Duong Tien Loc rebelled against the Early Le court, leading people from Hoan and Ai provinces to flee to Champa to submit, but was refused entry by King Harivarman II. [Source: Early Le Dynasty (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Nhà_Tiền_Lê]
 
 <!-- id: EVT-0195 -->
-*   **990:** Le Dai Hanh received the Song envoy Song Cao. He displayed military might and refused to kowtow to the imperial decree, asserting national prestige. King Le Dai Hanh sent troops to attack Dia Ly prefecture. Following mediation by the Song Emperor, Le Dai Hanh withdrew from Dia Ly but retained **Bo Chinh** prefecture.
+*   **990:** Le Dai Hanh received the Song envoy Song Cao. He displayed military might and refused to kowtow to the imperial decree, asserting national prestige. King Le Dai Hanh sent troops to attack Dia Ly prefecture. Following mediation by the Song Emperor, Le Dai Hanh withdrew from Dia Ly but retained **Bo Chinh** prefecture. [Source: Early Le Dynasty (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Nhà_Tiền_Lê]
 
 <!-- id: EVT-0196 -->
-*   **992:** King Le Dai Hanh returned 360 prisoners captured in Dia Ly to Champa. He ordered *Phu quoc* Ngo Tu An to open a land route from Nam Gioi port (Ha Tinh) through Ngang Pass to Dia Ly prefecture (Quang Binh).
+*   **992:** King Le Dai Hanh returned 360 prisoners captured in Dia Ly to Champa. He ordered *Phu quoc* Ngo Tu An to open a land route from Nam Gioi port (Ha Tinh) through Ngang Pass to Dia Ly prefecture (Quang Binh). [Source: Early Le Dynasty (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Nhà_Tiền_Lê]
 
 <!-- id: EVT-0197 -->
-*   **995:** Dai Co Viet naval forces (around 100 ships) attacked Nhu Hong (Qinzhou, Song dynasty) to capture fugitives. In the summer, 5,000 Dai Co Viet troops attacked Yongzhou (Song) but were repelled.
+*   **995:** Dai Co Viet naval forces (around 100 ships) attacked Nhu Hong (Qinzhou, Song dynasty) to capture fugitives. In the summer, 5,000 Dai Co Viet troops attacked Yongzhou (Song) but were repelled. [Source: Historical Figure Le Hoan (Nhu Hong and Ung Chau Raids of 995), https://xuantin.thanhhoa.gov.vn/Default.aspx?catid=134989&catname=thong-tin-tuyen-truyen&id=456786&pageid=87222&sid=3556&title=nhan-vat-lich-su-le-hoan]
 
 <!-- id: EVT-0198 -->
 *   **996:** Le Dai Hanh received Song envoy Li Ruozhuo, continuing to assert independence and dismissing responsibility for border raids.
 
 <!-- id: EVT-0199 -->
-*   **1001 (Tan Suu year):** Former Emperor Dinh Phe De (Prince Ve Dinh Toan) accompanied Emperor Le Dai Hanh on an expedition against the Cuu Long rebels in Da Cai (Nghe An), where he was fatally struck by a stray arrow at the age of 27, concluding the life of the last monarch of the Dinh Dynasty.
+*   **1001 (Tan Suu year):** Former Emperor Dinh Phe De (Prince Ve Dinh Toan) accompanied Emperor Le Dai Hanh on a campaign against the Cu Long rebels in Cam Thuy, Thanh Hoa, where he was fatally struck by a stray arrow at the age of 27, concluding the life of the last monarch of the Dinh Dynasty. [Source: Dinh Phe De (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Đinh_Phế_Đế]
 
 <!-- id: EVT-0200 -->
-*   **11th century (Ly Dynasty):** The state implemented the "Ngu binh u nong" (lodging the military in agriculture) policy, maintaining a standing army that took turns returning to their villages for agricultural production. The dynasty also mandated regular performance evaluations (khao hach) for civil and military mandarins every 9 years to determine promotions or demotions.
+*   **11th century (Ly Dynasty):** The state implemented the "Ngu binh u nong" (lodging the military in agriculture) policy, maintaining a standing army that took turns returning to their villages for agricultural production. The dynasty also mandated regular performance evaluations (khao hach) for civil and military mandarins every 9 years to determine promotions or demotions. [Source: Ngu Binh U Nong Soldier-Farmer Policy (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Ngụ_binh_ư_nông]
 
 <!-- id: EVT-0201 -->
-*   **1005:** Emperor Le Dai Hanh passed away, triggering an eight-month succession struggle among the princes. Crown Prince Le Long Viet suppressed rival factions and ascended the throne as Emperor Le Trung Tong. However, after reigning for only three days, he was assassinated in the palace by his younger brother Le Long Dinh, who seized the throne.
+*   **1005:** Emperor Le Dai Hanh passed away, triggering an eight-month succession struggle among the princes. Crown Prince Le Long Viet suppressed rival factions and ascended the throne as Emperor Le Trung Tong. However, after reigning for only three days, he was assassinated in the palace by his younger brother Le Long Dinh, who seized the throne. [Source: The Early Le: How Long Did It Last, How Many Emperors?, https://danviet.vn/nha-tien-le-do-le-hoan-thanh-lap-ton-tai-bao-nhieu-nam-co-may-vi-hoang-de-d1396007.html]
 
 <!-- id: EVT-0202 -->
 *   **Jun. 1006:** The Song Emperor refused a petition by local official Ling Ce (Lang Sach) to invade Vietnam during the turmoil of Le Long Dinh's reign, preferring to maintain peace.
 
 <!-- id: EVT-0203 -->
-*   **1008:** King Lê Long Đĩnh changed the era name to Cảnh Thụy, enfeoffed imperial princes, and expanded border trade markets between Đại Cồ Việt and the Song Dynasty.
+*   **1008:** King Lê Long Đĩnh changed the era name to Cảnh Thụy, enfeoffed imperial princes, and expanded border trade markets between Đại Cồ Việt and the Song Dynasty. [Source: Who Was Emperor Le Ngoa Trieu?, https://danviet.vn/hoang-de-le-ngoa-trieu-la-ai-va-co-that-xau-xa-nhu-trong-su-sach-20220322163705729-d1008564.html]
 
 <!-- id: EVT-0204 -->
 
 ### **Dai Viet Period - Ly Dynasty (1009 - 1225)**
 
-*   **1009:** King Le Long Dinh ordered the digging of canals, road construction, and the erection of milestones to mark distances in the Chau Ai region (Thanh Hoa), facilitating transport.
+*   **1009:** King Le Long Dinh ordered the digging of canals, road construction, and the erection of milestones to mark distances in the Chau Ai region (Thanh Hoa), facilitating transport. [Source: Cold Case: Did Le Long Dinh Kill His Brother to Seize the Throne?, https://baotanglichsu.vn/vi/Articles/3096/6780/an-xua-nghi-an-le-long-djinh-giet-anh-cuop-ngoi.html]
 
 <!-- id: EVT-0205 -->
-*   **1009:** Before Ly Cong Uan's ascension, Zen Master Van Hanh issued prophecies regarding the fall of the Le dynasty and the rise of the Ly dynasty.
+*   **1009:** Before Ly Cong Uan's ascension, Zen Master Van Hanh issued prophecies regarding the fall of the Le dynasty and the rise of the Ly dynasty. [Source: Zen Master Van Hanh and the Founding of the Ly Dynasty, https://tapchinghiencuuphathoc.vn/thien-su-van-hanh-van-dung-tu-tuong-phat-giao-xay-dung-vuong-trieu-nha-ly.html]
 
 <!-- id: EVT-0206 -->
-*   **Nov. 21, 1009:** Le Long Dinh (Le Ngoa Trieu) passed away. Ly Cong Uan was enthroned as king (Ly Thai To), founding the Ly dynasty.
+*   **Nov. 21, 1009:** Le Long Dinh (Le Ngoa Trieu) passed away. Ly Cong Uan was enthroned as king (Ly Thai To), founding the Ly dynasty. [Source: Ly Thai To (1010-1028), https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/ly-thai-to-1010-1028-.html]
 
 <!-- id: EVT-0207 -->
 *   **1010:** Emperor Ly Thai To visited Co Phap (Thien Duc) circuit to pay respects at the Queen Mother's tomb, ordering officials to survey several dozen li of land to designate as a royal tomb restricted zone.
 
 <!-- id: EVT-0208 -->
-*   **Jul. 1010:** Ly Thai To issued the "Royal Edict on the Transfer of the Capital," moving the capital from Hoa Lu to Dai La Citadel and renaming it Thang Long. Hoa Lu was renamed Truong Yen prefecture.
+*   **Jul. 1010:** Ly Thai To issued the "Royal Edict on the Transfer of the Capital," moving the capital from Hoa Lu to Dai La Citadel and renaming it Thang Long. Hoa Lu was renamed Truong Yen prefecture. [Source: The Edict on the Transfer of the Capital, https://hoangthanhthanglong.vn/chieu-doi-do/]
 
 ![Historical Image](images/event_20260923_122250.webp)
 
 *Source: Stele of the Edict on the Transfer of the Capital (Ly Thai To, 1010) / Wikimedia Commons*
 
 <!-- id: EVT-0209 -->
-*   **Dec. 1010:** Ly Thai To carried out administrative reforms, dividing the country into 24 routes (lo), below which were phu - chau, huyen - huong, and giap.
+*   **Dec. 1010:** Ly Thai To carried out administrative reforms, dividing the country into 24 routes (lo), below which were phu - chau, huyen - huong, and giap. [Source: Ly Thai To (1010-1028), https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/ly-thai-to-1010-1028-.html]
 
 <!-- id: EVT-0210 -->
-*   **1013:** Ly Thai To established tax categories nationwide, including a mulberry field tax collected in grain and cash, officially recognizing and protecting sericulture and silk weaving.
+*   **1013:** Ly Thai To established tax categories nationwide, including a mulberry field tax collected in grain and cash, officially recognizing and protecting sericulture and silk weaving. [Source: The Reforms of Ly Thai To (Journal of Social Sciences), https://vjol.info.vn/index.php/khxhvn/article/download/40092/32257]
 
 <!-- id: EVT-0211 -->
-*   **Jan. 1014:** Battle of Kim Hoa Port. King Duan Suliang of Dali dispatched generals Yang Changhui and Duan Jingzhi with 200,000 troops to invade Dai Co Viet, establishing the Wuhua camp at Kim Hoa Port (modern Tuyen Quang - Ha Giang). Emperor Ly Thai To commanded Prince Duc Thanh Vuong to repel the invasion; Dai Co Viet forces coordinated war elephants and infantry to crush the Dali cavalry, beheading tens of thousands of enemy soldiers and capturing countless troops and warhorses. In July 1014, the Ly court sent envoys presenting 100 captured warhorses as gifts to the Song dynasty.
+*   **Jan. 1014:** Battle of Kim Hoa Port. King Duan Suliang of Dali dispatched generals Yang Changhui and Duan Jingzhi with 200,000 troops to invade Dai Co Viet, establishing the Wuhua camp at Kim Hoa Port (modern Tuyen Quang - Ha Giang). Emperor Ly Thai To commanded Prince Duc Thanh Vuong to repel the invasion; Dai Co Viet forces coordinated war elephants and infantry to crush the Dali cavalry, beheading tens of thousands of enemy soldiers and capturing countless troops and warhorses. In July 1014, the Ly court sent envoys presenting 100 captured warhorses as gifts to the Song dynasty. [Source: Duc Thanh Vuong (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Dực_Thánh_vương]
 
 <!-- id: EVT-0212 -->
-*   **Feb. 1015:** Emperor Ly Thai To dispatched Prince Duc Thanh Vuong and Prince Vu Duc Vuong to pacify the prefectures of Do Kim, Vi Long, Thuong Tan, and Binh Nguyen, capturing the rebellious chieftain Ha Trac Tuan (who had previously allied with and guided the Dali invasion forces). He was escorted to Thang Long and executed at the Dong Market, firmly consolidating national sovereignty along the northern frontier.
+*   **Feb. 1015:** Emperor Ly Thai To dispatched Prince Duc Thanh Vuong and Prince Vu Duc Vuong to pacify the prefectures of Do Kim, Vi Long, Thuong Tan, and Binh Nguyen, capturing the rebellious chieftain Ha Trac Tuan (who had previously allied with and guided the Dali invasion forces). He was escorted to Thang Long and executed at the Dong Market, firmly consolidating national sovereignty along the northern frontier. [Source: Duc Thanh Vuong (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Dực_Thánh_vương]
 
 <!-- id: EVT-0213 -->
-*   **Jun. 1018:** The court sent an envoy to the Song dynasty to request the Tripitaka scriptures.
+*   **May 15, 1018:** Zen Master Van Hanh, a key advisor to King Ly Thai To, passed away. [Source: Vietnamese Zen Poetry: Prophecies of Zen Master Van Hanh, https://baophapluat.vn/tho-thien-viet-nam-ky-3-nhung-bai-sam-cua-thien-su-van-hanh-post400814.html]
+
+<!-- id: EVT-0217 -->
+*   **Jun. 1018:** The court sent an envoy to the Song dynasty to request the Tripitaka scriptures. [Source: Ly Thai To (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Lý_Thái_Tổ]
 
 <!-- id: EVT-0214 -->
 *   **1019:** The "Heavenly Book" (Thien Thu) was completed by the Song court (under Chancellor Wang Qinruo) to claim divine mandate. This document later became the target of Ly Thuong Kiet's psychological warfare in his famous poem.
 
 <!-- id: EVT-0215 -->
-*   **Dec. 1020:** The Ly army, under the command of Crown Prince Ly Phat Ma, defeated the Champa army at the Bo Chinh garrison (Quang Binh).
+*   **Dec. 1020:** The Ly army, under the command of Crown Prince Ly Phat Ma, defeated the Champa army at the Bo Chinh garrison (Quang Binh). [Source: Ly Thai Tong – Talented Statesman and Military Leader, https://nguoihanoi.vn/ly-thai-tong-nha-chinh-tri-nha-quan-su-tai-gioi-78820.html]
 
 <!-- id: EVT-0216 -->
-*   **May 15, 1025:** Zen Master Van Hanh, a key advisor to King Ly Thai To, passed away.
-
-<!-- id: EVT-0217 -->
-*   **1028:** Ly Thai To passed away, Ly Phat Ma ascended the throne (Ly Thai Tong). The "Rebellion of the Three Princes" occurred but was suppressed.
+*   **1028:** Ly Thai To passed away, Ly Phat Ma ascended the throne (Ly Thai Tong). The "Rebellion of the Three Princes" occurred but was suppressed. [Source: Le Phung Hieu – Loyal Mandarin Who Quelled the Three Princes, https://nguoihanoi.vn/le-phung-hieu-trung-than-dep-loan-tam-vuong-78817.html]
 
 <!-- id: EVT-0218 -->
-*   **1028:** Emperor Ly Thai To granted "thac dao dien" (throwing-dagger land) to general Le Phung Hieu in Da Mi (Thanh Hoa) as a hereditary estate to reward his merit.
+*   **1028:** Emperor Ly Thai To granted "thac dao dien" (throwing-dagger land) to general Le Phung Hieu in Da Mi (Thanh Hoa) as a hereditary estate to reward his merit. [Source: Le Phung Hieu and the Thrown-Sword Fields Legend, https://scov.gov.vn/ban-sac-van-hoa/viet-su-giai-thoai/le-phung-hieu-va-su-tich-thac-dao-dien.html]
 
 <!-- id: EVT-0219 -->
-*   **1028:** Following the suppression of the Three Princes' Rebellion, King Lý Thái Tông established the Đồng Cổ Temple and inaugurated the annual "Đồng Cổ Oath Festival" (25th day of the 3rd lunar month) for all civil and military officials to swear loyalty and filial piety.
+*   **1028:** Following the suppression of the Three Princes' Rebellion, King Lý Thái Tông established the Đồng Cổ Temple and inaugurated the annual "Đồng Cổ Oath Festival" (25th day of the 3rd lunar month) for all civil and military officials to swear loyalty and filial piety. [Source: Dong Co Temple: Historical Beauty of Thang Long, https://laodongthudo.vn/den-dong-co-net-dep-van-hoa-lich-su-cua-thang-long-86062.html]
 
 <!-- id: EVT-0220 -->
-*   **1029:** King Ly Thai Tong suppressed a rebellion in the Dan Nai region (Thanh Hoa) and ordered the digging of the Dan Nai canal.
+*   **1029:** King Ly Thai Tong suppressed a rebellion in the Dan Nai region (Thanh Hoa) and ordered the digging of the Dan Nai canal. [Source: Ly Thai Tong – Talented Statesman and Military Leader, https://nguoihanoi.vn/ly-thai-tong-nha-chinh-tri-nha-quan-su-tai-gioi-78820.html]
 
 <!-- id: EVT-0221 -->
+*   **1030:** King Ly Thai Tong established a hanh dinh (temporary palace) in Hoan Chau and renamed the chau to **Nghe An**. [Source: General Overview of Nghe An Province, https://nghean.dcs.vn/vi-vn/tin/gioi-thieu-tong-quan-ve-tinh-nghe-an/72156-401418-830945]
+
+<!-- id: EVT-0224 -->
 *   **Apr. 1034:** Zen Masters Nghiem Bao Tinh and Pham Minh Tam self-immolated at the court. King Ly Thai Tong changed the era name to Thong Thuy.
 
 <!-- id: EVT-0222 -->
-*   **1035:** Emperor Ly Thai Tong established Tay Nhai Market with long corridors, reflecting the growth of commerce and domestic trade.
+*   **1035:** Emperor Ly Thai Tong established Tay Nhai Market with long corridors, reflecting the growth of commerce and domestic trade. [Source: Thang Long-Hanoi Periodic Markets Past and Present, https://scov.gov.vn/dat-nuoc-con-nguoi/1000-nam-thang-long-ha-noi/cho-phien-thang-long-ha-noi-xua-va-nay.html]
 
 <!-- id: EVT-0223 -->
-*   **Apr. 1036:** King Ly Thai Tong established a hanh dinh (temporary palace) in Hoan Chau and renamed the chau to **Nghe An**.
-
-<!-- id: EVT-0224 -->
-*   **1038:** Emperor Ly Thai Tong personally performed sacrifices to Shennong and ploughed the Tich Dien field three times at Bo Hai Khau, declaring the importance of agriculture for "the realm to emulate."
+*   **1038:** Emperor Ly Thai Tong personally performed sacrifices to Shennong and ploughed the Tich Dien field three times at Bo Hai Khau, declaring the importance of agriculture for "the realm to emulate." [Source: Ly Thai Tong – Talented Statesman and Military Leader, https://nguoihanoi.vn/ly-thai-tong-nha-chinh-tri-nha-quan-su-tai-gioi-78820.html]
 
 <!-- id: EVT-0225 -->
-*   **1038:** Nung Ton Phuc rebelled in Quang Nguyen (Lang Son), proclaiming himself the Emperor of the Truong Sinh kingdom. He was subsequently defeated and captured by King Ly Thai Tong in 1039.
+*   **1038:** Nung Ton Phuc rebelled in Quang Nguyen (Lang Son), proclaiming himself the Emperor of the Truong Sinh kingdom. He was subsequently defeated and captured by King Ly Thai Tong in 1039. [Source: Leader Nung Tri Cao in the Hearts of Cao Bang People, https://tuyengiaocaobang.vn/index.php/diem-bao/thu-linh-nung-tri-cao-trong-tam-thuc-nhan-dan-cao-bang-1807.html]
 
 <!-- id: EVT-0226 -->
-*   **1039:** Prince Ly Nhat Quang (Ly Hoang) was appointed to administer Nghe An, where he successfully managed tax collection and stabilized the southern frontier.
+*   **1039:** Prince Ly Nhat Quang (Ly Hoang) was appointed to administer Nghe An, where he successfully managed tax collection and stabilized the southern frontier. [Source: Ly Nhat Quang Temple, Do Luong Commune, https://doluong.nghean.gov.vn/den-ly-nhat-quang]
 
 <!-- id: EVT-0227 -->
-*   **Feb. 1040:** King Ly Thai Tong taught palace maids to weave brocade and distributed all Song dynasty brocade from the treasury to officials to demonstrate the use of domestic goods and rejection of Song goods.
+*   **Feb. 1040:** King Ly Thai Tong taught palace maids to weave brocade and distributed all Song dynasty brocade from the treasury to officials to demonstrate the use of domestic goods and rejection of Song goods. [Source: Ly Thai Tong – Talented Statesman and Military Leader, https://nguoihanoi.vn/ly-thai-tong-nha-chinh-tri-nha-quan-su-tai-gioi-78820.html]
 
 <!-- id: EVT-0228 -->
-*   **1041:** Nung Tri Cao (son of Nung Ton Phuc) seized the Thang Do region and established the state of Dai Lich. After being captured by King Ly Thai Tong, he was pardoned and appointed as the governor of Quang Nguyen.
+*   **1041:** Nung Tri Cao (son of Nung Ton Phuc) seized the Thang Do region and established the state of Dai Lich. After being captured by King Ly Thai Tong, he was pardoned and appointed as the governor of Quang Nguyen. [Source: Ly Thai Tong, Promulgator of the First Written Code, https://hoangthanhthanglong.vn/ly-thai-tong-nguoi-ban-hanh-bo-luat-thanh-van-dau-tien-cua-nuoc-ta/]
 
 <!-- id: EVT-0229 -->
-*   **1042:** The court promulgated the Hinh Thu (Penal Code), the first written law code of Vietnam. It included regulations prohibiting the sale of adult males (*hoang nam*) as slaves.
+*   **1042:** The court promulgated the Hinh Thu (Penal Code), the first written law code of Vietnam. It included regulations prohibiting the sale of adult males (*hoang nam*) as slaves. [Source: Law Codification Under Vietnamese Monarchies (Vietnam Law & Legal Forum), https://vietnamlawmagazine.vn/law-codification-under-vietnamese-monarchies-71420.html]
 
 <!-- id: EVT-0230 -->
-*   **1042:** Emperor Ly Thai Tong allowed elderly people and those of high merit to redeem offenses with money, reflecting the increasing role of currency.
+*   **1042:** Emperor Ly Thai Tong allowed elderly people and those of high merit to redeem offenses with money, reflecting the increasing role of currency. [Source: Ly Thai Tong, Promulgator of the First Written Code, https://hoangthanhthanglong.vn/ly-thai-tong-nguoi-ban-hanh-bo-luat-thanh-van-dau-tien-cua-nuoc-ta/]
 
 <!-- id: EVT-0231 -->
 *   **Nov. 1042:** King Ly Thai Tong ordered the erection of road signs and distance markers to assist travelers, marking an early development in public infrastructure.
@@ -797,13 +797,13 @@
 *   **1044:** Emperor Ly Thai Tong set strict penalties for Quyen Kho ty (silk warehouse) officials taking bribes: receiving 1 chi of silk resulted in 100 lashes, while 1 to 10 rolls of silk resulted in 10 years of penal labor.
 
 <!-- id: EVT-0234 -->
-*   **Jan. 1044:** Ly Thai Tong personally led a campaign against Champa, beheading the Champa king Sạ Đẩu (Jaya Simhavarman II) in battle.
+*   **Jan. 1044:** Ly Thai Tong personally led a campaign against Champa, beheading the Champa king Sạ Đẩu (Jaya Simhavarman II) in battle. [Source: Ly Thai Tong, Promulgator of the First Written Code, https://hoangthanhthanglong.vn/ly-thai-tong-nguoi-ban-hanh-bo-luat-thanh-van-dau-tien-cua-nuoc-ta/]
 
 <!-- id: EVT-0235 -->
-*   **1048:** Nung Tri Cao rebelled again, proclaiming himself Nhan Hue Emperor and establishing the state of Dai Nam, continuing his defiance against both the Ly and Song dynasties.
+*   **1048:** Nung Tri Cao rebelled again, proclaiming himself Nhan Hue Emperor and establishing the state of Dai Nam, continuing his defiance against both the Ly and Song dynasties. [Source: Ly Thai Tong, Promulgator of the First Written Code, https://hoangthanhthanglong.vn/ly-thai-tong-nguoi-ban-hanh-bo-luat-thanh-van-dau-tien-cua-nuoc-ta/]
 
 <!-- id: EVT-0236 -->
-*   **1049:** King Ly Thai Tong ordered the construction of Dien Huu Pagoda (One Pillar Pagoda).
+*   **1049:** King Ly Thai Tong ordered the construction of Dien Huu Pagoda (One Pillar Pagoda). [Source: One Pillar Pagoda (Ba Dinh District), https://nguoihanoi.vn/chua-mot-cot-quan-ba-dinh-76497.html]
 
 ![Historical Image](images/event_20260923_122409.webp)
 
@@ -816,265 +816,265 @@
 *   **1053:** Under the leadership of Khai Quoc Vuong, the Ly army launched a campaign to assist Nung Tri Cao in establishing the Kingdom of Dai Nam in the Guangdong-Guangxi region.
 
 <!-- id: EVT-0239 -->
-*   **1054:** Ly Thai Tong passed away, Ly Nhat Ton ascended the throne (Ly Thanh Tong), and changed the national name from Dai Co Viet to Dai Viet.
+*   **1054:** Ly Thai Tong passed away, Ly Nhat Ton ascended the throne (Ly Thanh Tong), and changed the national name from Dai Co Viet to Dai Viet. [Source: Vietnam National Titles Through Nation-Building History (Nhan Dan), https://nhandan.vn/quoc-hieu-viet-nam-qua-lich-su-dung-nuoc-post362337.html]
 
 <!-- id: EVT-0240 -->
 *   **1055:** Prince Ly Nhat Quang suppressed the rebellion of Ong Ke and Ly Phu, ensuring stability in the Nghe An region.
 
 <!-- id: EVT-0241 -->
-*   **1056:** King Ly Thanh Tong ordered the construction of Sung Khanh Bao Thien Pagoda and the casting of a great bell, considered one of the "Four Great Treasures of An Nam."
+*   **1056:** King Ly Thanh Tong ordered the construction of Sung Khanh Bao Thien Pagoda and the casting of a great bell, considered one of the "Four Great Treasures of An Nam." [Source: What Are the Four Great Treasures of An Nam?, https://phatgiao.org.vn/an-nam-tu-dai-khi-la-gi-d41838.html]
 
 <!-- id: EVT-0242 -->
-*   **1056:** Emperor Ly Thanh Tong issued an "Edict Encouraging Agriculture" (Chieu khuyen nong) to promote agricultural production.
+*   **1056:** Emperor Ly Thanh Tong issued an "Edict Encouraging Agriculture" (Chieu khuyen nong) to promote agricultural production. [Source: Ly Thanh Tong (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Lý_Thánh_Tông]
 
 <!-- id: EVT-0243 -->
-*   **1057:** Tuong Long Tower was built in Do Son (Hai Phong), considered a major scenic spot of the ancient An Bang region.
+*   **1057:** Tuong Long Tower was built in Do Son (Hai Phong), considered a major scenic spot of the ancient An Bang region. [Source: Tuong Long Tower, Thousand-Year-Old Relic in Hai Phong (Nhan Dan), https://nhandan.vn/anh-thap-tuong-long-di-tich-lich-su-nghin-nam-tren-dat-hai-phong-post767627.html]
 
 <!-- id: EVT-0244 -->
-*   **1057:** Construction of the **Bao Thien Tower** (Dai Thang Tu Thien Bao Thap) began in Thang Long. Standing 12 stories high, it was considered one of the "Four Great Treasures of An Nam."
+*   **1057:** Construction of the **Bao Thien Tower** (Dai Thang Tu Thien Bao Thap) began in Thang Long. Standing 12 stories high, it was considered one of the "Four Great Treasures of An Nam." [Source: What Are the Four Great Treasures of An Nam?, https://phatgiao.org.vn/an-nam-tu-dai-khi-la-gi-d41838.html]
 
 <!-- id: EVT-0245 -->
 *   **1059 - 1060:** Princess Binh Duong and Consort Than Thieu Thai commanded a northern campaign, attacking the Song dynasty's Zuo Jiang and You Jiang regions and capturing over 10 passes to reclaim border lands.
 
 <!-- id: EVT-0246 -->
-*   **1059:** Emperor Ly Thanh Tong ordered officials attending court to wear "phac dau" caps and leather boots, establishing the first official court attire regulations.
+*   **1059:** Emperor Ly Thanh Tong ordered officials attending court to wear "phac dau" caps and leather boots, establishing the first official court attire regulations. [Source: Ly Thanh Tong (English Wikipedia), https://en.wikipedia.org/wiki/Lý_Thánh_Tông]
 
 <!-- id: EVT-0247 -->
-*   **1067:** Emperor Ly Thanh Tong established annual stipends for civil, military, and prison officials in money, grain, fish, and salt to "maintain integrity" (duong liem).
+*   **1067:** Emperor Ly Thanh Tong established annual stipends for civil, military, and prison officials in money, grain, fish, and salt to "maintain integrity" (duong liem). [Source: Ly Thanh Tong – Benevolent King Devoted to Culture, https://nguoihanoi.vn/ly-thanh-tong-vi-vua-nhan-ai-trong-van-hoa-78828.html]
 
 <!-- id: EVT-0248 -->
-*   **1069:** Ly Thanh Tong personally led a campaign against Champa, capturing King Che Cu (Rudravarman III). Champa had to cede the three provinces of Bo Chinh, Dia Ly, and Ma Linh as ransom. Zen Master Thao Duong was captured during this campaign, later appointed National Preceptor and established the Thao Duong Zen sect.
+*   **1069:** Ly Thanh Tong personally led a campaign against Champa, capturing King Che Cu (Rudravarman III). Champa had to cede the three provinces of Bo Chinh, Dia Ly, and Ma Linh as ransom. Zen Master Thao Duong was captured during this campaign, later appointed National Preceptor and established the Thao Duong Zen sect. [Source: Ly Thanh Tong, Vietnam Most Benevolent King, https://danviet.vn/ly-thanh-tong-vi-vua-nhan-tu-bac-nhat-nuoc-viet-tram-yeu-dan-nhu-con-20240321152020049-d1151841.html]
 
 <!-- id: EVT-0249 -->
-*   **1070:** The Temple of Literature was built in Thang Long to worship Confucius.
+*   **1070:** The Temple of Literature was built in Thang Long to worship Confucius. [Source: Temple of Literature – Imperial Academy (Official Relic Site), https://vanmieu.gov.vn/]
 
 ![Historical Image](images/event_20260923_122430.webp)
 
 *Source: Photo: Chuoibk / Wikimedia Commons (CC BY-SA 3.0)*
 
 <!-- id: EVT-0250 -->
-*   **Dec. 1072:** Ly Thanh Tong died, and Ly Can Duc (Ly Nhan Tong) ascended the throne, inheriting it according to the will of his father, Emperor Ly Thanh Tong (at the age of only 7).
+*   **Jan. 1072:** Ly Thanh Tong died, and Ly Can Duc (Ly Nhan Tong) ascended the throne, inheriting it according to the will of his father, Emperor Ly Thanh Tong (at the age of only 7). [Source: Ly Thanh Tong – Benevolent King Devoted to Culture, https://nguoihanoi.vn/ly-thanh-tong-vi-vua-nhan-ai-trong-van-hoa-78828.html]
 
 <!-- id: EVT-0251 -->
 *   **1075:** Ly Thuong Kiet inspected the southern border, drawing maps and renaming Dia Ly district to Lam Binh and Ma Linh district to Minh Linh.
 
 <!-- id: EVT-0252 -->
-*   **1075:** Regent Empress Dowager Linh Nhan (Y Lan) directed the pre-emptive strike strategy against the Song. She organized a "special court" of female advisors, including Princess Thien Ninh (in charge of logistics, later worshipped as "Ba Chua Kho"), to manage the rear and supplies.
+*   **1075:** Regent Empress Dowager Linh Nhan (Y Lan) directed the pre-emptive strike strategy against the Song. She organized a "special court" of female advisors, including Princess Thien Ninh (in charge of logistics, later worshipped as "Ba Chua Kho"), to manage the rear and supplies. [Source: King Ly Nhan Tong Punishes the Song (International Studies), https://nghiencuuquocte.org/2020/03/14/vua-ly-nhan-tong-phat-tong/]
 
 <!-- id: EVT-0253 -->
-*   **Feb. 1075:** The first civil service examination in history was held (Minh kinh bac hoc and Nho hoc tam truong). Le Van Thinh ranked first.
+*   **Feb. 1075:** The first civil service examination in history was held (Minh kinh bac hoc and Nho hoc tam truong). Le Van Thinh ranked first. [Source: The First Laureate – Le Van Thinh (Vietnam National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/9444/ong-trang-khai-khoa-le-van-thinh.html]
 
 <!-- id: EVT-0254 -->
-*   **Oct. 27, 1075:** The Ly western land army, led by chieftains Ton Dan, Luu Ky, Hoang Kim Man, Than Canh Phuc, and Vi Thu An, crossed the border to attack Song positions, capturing Co Van camp.
+*   **Oct. 27, 1075:** The Ly western land army, led by chieftains Ton Dan, Luu Ky, Hoang Kim Man, Than Canh Phuc, and Vi Thu An, crossed the border to attack Song positions, capturing Co Van camp. [Source: King Ly Nhan Tong Punishes the Song (International Studies), https://nghiencuuquocte.org/2020/03/14/vua-ly-nhan-tong-phat-tong/]
 
 <!-- id: EVT-0255 -->
-*   **Dec. 30, 1075:** The eastern Ly naval force, commanded by Ly Thuong Kiet, captured Qinzhou (Kham Chau).
+*   **Dec. 30, 1075:** The eastern Ly naval force, commanded by Ly Thuong Kiet, captured Qinzhou (Kham Chau). [Source: King Ly Nhan Tong Punishes the Song (International Studies), https://nghiencuuquocte.org/2020/03/14/vua-ly-nhan-tong-phat-tong/]
 
 <!-- id: EVT-0256 -->
-*   **1076:** The Quoc Tu Giam (Imperial Academy), the first university of Vietnam, was established.
+*   **1076:** The Quoc Tu Giam (Imperial Academy), the first university of Vietnam, was established. [Source: The Ly Dynasty: Opening Dai Viet Prosperous Era (Government News), https://baochinhphu.vn/vuong-trieu-ly-mo-dau-thoi-ky-hung-thinh-cua-nuoc-dai-viet-10229579.htm]
 
 <!-- id: EVT-0257 -->
-*   **1076:** In the battle at Nhu Nguyet River, Ly Thuong Kiet composed the poem *Nam Quoc Son Ha*. The term "Thien Thu" (Book of Heaven) in the poem specifically alluded to the "Divine Book" fabricated by the Song court, using the enemy's own superstition to break their morale.
+*   **1076:** In the battle at Nhu Nguyet River, Ly Thuong Kiet composed the poem *Nam Quoc Son Ha*. The term "Thien Thu" (Book of Heaven) in the poem specifically alluded to the "Divine Book" fabricated by the Song court, using the enemy's own superstition to break their morale. [Source: 937th Anniversary of the Second Anti-Song Resistance Victory (National Museum of History), https://baotanglichsu.vn/vi/Articles/3097/16199/ky-niem-937-nam-cuoc-khang-chien-chong-quan-tong-lan-thu-hai-thang-loi-1077-2014.html]
 
 ![Historical Image](images/event_20260923_122611.webp)
 
 *Source: Bronze statue of Grand Commandant Ly Thuong Kiet at the Vietnam Military History Museum (Photo: Gary Todd / CC0)*
 
 <!-- id: EVT-0258 -->
-*   **Jan. 2, 1076:** Ly forces captured Lianzhou (Liem Chau).
+*   **Jan. 2, 1076:** Ly forces captured Lianzhou (Liem Chau). [Source: King Ly Nhan Tong Punishes the Song (International Studies), https://nghiencuuquocte.org/2020/03/14/vua-ly-nhan-tong-phat-tong/]
 
 <!-- id: EVT-0259 -->
-*   **Jan. 18, 1076:** Ly forces laid siege to Yongzhou (Ung Chau) citadel, defended by Su Jian (To Giam).
+*   **Jan. 18, 1076:** Ly forces laid siege to Yongzhou (Ung Chau) citadel, defended by Su Jian (To Giam). [Source: King Ly Nhan Tong Punishes the Song (International Studies), https://nghiencuuquocte.org/2020/03/14/vua-ly-nhan-tong-phat-tong/]
 
 <!-- id: EVT-0260 -->
-*   **Feb. 11, 1076:** Battle of Con Lon pass. Ly Thuong Kiet defeated Song reinforcements led by Zhang Shoujie.
+*   **Feb. 11, 1076:** Battle of Con Lon pass. Ly Thuong Kiet defeated Song reinforcements led by Zhang Shoujie. [Source: King Ly Nhan Tong Punishes the Song (International Studies), https://nghiencuuquocte.org/2020/03/14/vua-ly-nhan-tong-phat-tong/]
 
 <!-- id: EVT-0261 -->
-*   **Mar. 1, 1076:** After a 42-day siege, the Ly army captured Yongzhou Citadel. Song commander Su Jian committed suicide, and over 50,000 people inside were killed. Ly forces retreated in March 1076.
+*   **Mar. 1, 1076:** After a 42-day siege, the Ly army captured Yongzhou Citadel. Song commander Su Jian committed suicide, and over 50,000 people inside were killed. Ly forces retreated in March 1076. [Source: Ly Thuong Kiet Crushes Ung Chau, https://danviet.vn/ly-thuong-kiet-dai-pha-ung-chau-xac-quan-tong-chat-cao-nhu-nui-20221023192056269-d1051774.html]
 
 <!-- id: EVT-0262 -->
 *   **1077:** During the fierce defense against the Song army commanded by Guo Kui, many prominent generals sacrificed their lives, including Princes Ly Hoang Chan and Ly Chieu Van, and Generals Nguyen Can, Hoang Kien, along with their wives who served as commanders on the battlefield.
 
 <!-- id: EVT-0263 -->
-*   **Jan. 18 - Feb. 28, 1077:** Battle of Nhu Nguyet River. The Song army (100,000 combat troops, 200,000 support) commanded by Guo Kui and Zhao Xie was halted at the Nhu Nguyet river defense line by Dai Viet forces. After Song attempts to cross failed, Dai Viet launched counter-attacks. Princes Hoang Chan and Chieu Van attacked Guo Kui's camp and died in battle, while Ly Thuong Kiet successfully ambushed Zhao Xie's camp. Song forces suffered 76,600 casualties and retreated, marking a decisive Dai Viet victory.
+*   **Jan. 18 - Feb. 28, 1077:** Battle of Nhu Nguyet River. The Song army (100,000 combat troops, 200,000 support) commanded by Guo Kui and Zhao Xie was halted at the Nhu Nguyet river defense line by Dai Viet forces. After Song attempts to cross failed, Dai Viet launched counter-attacks. Princes Hoang Chan and Chieu Van attacked Guo Kui's camp and died in battle, while Ly Thuong Kiet successfully ambushed Zhao Xie's camp. Song forces suffered 76,600 casualties and retreated, marking a decisive Dai Viet victory. [Source: 937th Anniversary of the Second Anti-Song Resistance Victory (National Museum of History), https://baotanglichsu.vn/vi/Articles/3097/16199/ky-niem-937-nam-cuoc-khang-chien-chong-quan-tong-lan-thu-hai-thang-loi-1077-2014.html]
 
 <!-- id: EVT-0264 -->
-*   **Sep. 1077:** Construction of the Nhu Nguyet River dike spanning 67,380 paces, a major state-led water management project.
+*   **Sep. 1077:** Construction of the Nhu Nguyet River dike spanning 67,380 paces, a major state-led water management project. [Source: Red River Dike Saga - Part 1 (Tuoi Tre), https://tuoitre.vn/ky-tich-de-song-hong---ky-1-doi-do-va-dap-de-402349.htm]
 
 <!-- id: EVT-0265 -->
-*   **1080:** King Lý Nhân Tông commissioned a massive great bell weighing tens of thousands of catties for Diên Hựu Pagoda (One Pillar Pagoda); later placed in a field inhabited by turtles and named the "Quy Điền Bell" (one of the Four Great Treasures of An Nam).
+*   **1080:** King Lý Nhân Tông commissioned a massive great bell weighing tens of thousands of catties for Diên Hựu Pagoda (One Pillar Pagoda); later placed in a field inhabited by turtles and named the "Quy Điền Bell" (one of the Four Great Treasures of An Nam). [Source: The Ill Fate of the Four Great Treasures of An Nam (National Museum of History), https://baotanglichsu.vn/vi/Articles/2001/65700/so-phan-ham-huu-cua-an-nam-tu-djai-khi.html]
 
 <!-- id: EVT-0266 -->
-*   **1084:** Le Van Thinh negotiated with the Song dynasty to define the border, reclaiming 6 districts and 3 grottoes.
+*   **1084:** Le Van Thinh negotiated with the Song dynasty to define the border, reclaiming 6 districts and 3 grottoes. [Source: Dai Viet Talents and Reclaiming Land From the Song (Dan Viet), https://danviet.vn/nhan-tai-dai-viet-va-chuyen-doi-lai-dat-tu-nha-tong-7777871812-d615776.html]
 
 <!-- id: EVT-0267 -->
-*   **1086:** King Ly Nhan Tong organized an imperial examination to select scholars with outstanding literary talent for the Hanlin Academy. Mac Hien Tich achieved the highest score and was appointed Hanlin Academician, marking the beginning of the prestigious Mac family's scholarly tradition.
+*   **1086:** King Ly Nhan Tong organized an imperial examination to select scholars with outstanding literary talent for the Hanlin Academy. Mac Hien Tich achieved the highest score and was appointed Hanlin Academician, marking the beginning of the prestigious Mac family's scholarly tradition. [Source: Who Was Mac Hien Tich? (Dan Viet), https://danviet.vn/mac-hien-tich-la-ai-20250110124014729-d1204988.html]
 
 <!-- id: EVT-0268 -->
-*   **1088:** Emperor Ly Nhan Tong classified Buddhist pagodas into three ranks (large, medium, small) and assigned senior civil officials to oversee them due to their vast slave populations and extensive properties.
+*   **1088:** Emperor Ly Nhan Tong classified Buddhist pagodas into three ranks (large, medium, small) and assigned senior civil officials to oversee them due to their vast slave populations and extensive properties. [Source: The Young King Who Twice Defeated the Song (Lao Dong), https://laodong.vn/lao-dong-cuoi-tuan/vi-vua-tre-hai-lan-danh-thang-quan-tong-1171146.ldo]
 
 <!-- id: EVT-0269 -->
-*   **1089:** King Ly Nhan Tong established a defined hierarchy for civil and military officials, structuring the administrative system.
+*   **1089:** King Ly Nhan Tong established a defined hierarchy for civil and military officials, structuring the administrative system. [Source: Emperor Ly Nhan Tong: Quang Huu Era (Bien Nien Su Chronicle), https://bienniensu.com/ly-nhan-tong-quang-huu/]
 
 <!-- id: EVT-0270 -->
-*   **1089:** Excavation of the Lanh Kinh River to facilitate transportation and irrigation.
+*   **1089:** Excavation of the Lanh Kinh River to facilitate transportation and irrigation. [Source: Emperor Ly Nhan Tong: Quang Huu Era (Bien Nien Su Chronicle), https://bienniensu.com/ly-nhan-tong-quang-huu/]
 
 <!-- id: EVT-0271 -->
-*   **1090:** Zen Master Vien Chieu, author of the work *Tham Do Hien Quyet*, passed away.
+*   **1090:** Zen Master Vien Chieu, author of the work *Tham Do Hien Quyet*, passed away. [Source: Introducing Tham Do Hien Quyet (Giac Ngo Buddhist Press), https://giacngo.vn/gioi-thieu-ve-tham-do-hien-quyet-post594.html]
 
 <!-- id: EVT-0272 -->
-*   **1091:** Grand Marshal Ly Cong renovated Huong Nghiem Pagoda, purchased and distributed land to local sub-divisions (giap: Binh, Boi Ly, Vien Dam), reflecting land administration at the village level.
+*   **1091:** Grand Marshal Ly Cong renovated Huong Nghiem Pagoda, purchased and distributed land to local sub-divisions (giap: Binh, Boi Ly, Vien Dam), reflecting land administration at the village level. [Source: Ly Thuong Kiet Through Steles and Edicts - Part 2 (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/5833/ly-thuong-kiet-qua-van-bia-sac-phong-ky-2-19-nam-tong-tran.html]
 
 <!-- id: EVT-0273 -->
-*   **1096:** Fisherman Muc Than was granted land at West Lake as an appanage to reward him for saving Emperor Ly Nhan Tong from drowning.
+*   **1096:** Fisherman Muc Than was granted land at West Lake as an appanage to reward him for saving Emperor Ly Nhan Tong from drowning. [Source: Fisherman Muc Than Catches the Tiger to Save the King (Nguoi Dua Tin), https://www.nguoiduatin.vn/chuyen-ly-ky-ve-nguoi-chai-muc-than-bat-ho-cuu-vua-20475513.htm]
 
 <!-- id: EVT-0274 -->
-*   **Nov. 30, 1096:** Zen Master Man Giac passed away, leaving behind the famous poem "Cao tat thi chung".
+*   **Nov. 30, 1096:** Zen Master Man Giac passed away, leaving behind the famous poem "Cao tat thi chung". [Source: Ideology and Artistry of Cao Tat Thi Chung (Buddhist Studies Journal), https://tapchinghiencuuphathoc.vn/noi-dung-tu-tuong-va-hinh-thuc-nghe-thuat-cua-tac-pham-cao-tat-thi-chung-cua-thien-su-man-giac.html]
 
 <!-- id: EVT-0275 -->
-*   **Winter 1101:** General Ly Thuong Kiet, despite his old age, led troops to suppress the rebellion of Ly Giac in Dien Chau.
-
-<!-- id: EVT-0276 -->
-*   **1103:** Empress Dowager Linh Nhan used royal treasury funds to ransom poor women sold into household servitude and marry them to widowed men.
+*   **1103:** Empress Dowager Linh Nhan used royal treasury funds to ransom poor women sold into household servitude and marry them to widowed men. [Source: From Mulberry Picker to the Most Powerful Woman in Vietnamese History (VnExpress), https://vnexpress.net/co-gai-hai-dau-thanh-nguoi-phu-nu-quyen-luc-nhat-su-viet-3379381.html]
 
 <!-- id: EVT-0277 -->
-*   **Jan. 1103:** Emperor Ly Nhan Tong issued an edict to repair and construct dikes inside and outside the capital to prevent flooding.
+*   **Jan. 1103:** Emperor Ly Nhan Tong issued an edict to repair and construct dikes inside and outside the capital to prevent flooding. [Source: Red River Dike Saga - Part 1 (Tuoi Tre), https://tuoitre.vn/ky-tich-de-song-hong---ky-1-doi-do-va-dap-de-402349.htm]
 
 <!-- id: EVT-0278 -->
-*   **1104:** Ly Thuong Kiet defeated the Champa army, forcing King Che Ma Na (Jaya Indravarman II) to return the three provinces he had previously occupied.
+*   **Winter 1103:** General Ly Thuong Kiet, despite his old age, led troops to suppress the rebellion of Ly Giac in Dien Chau. [Source: Emperor Ly Nhan Tong: Long Phu Era (Bien Nien Su Chronicle), https://bienniensu.com/ly-nhan-tong-nien-hieu-long-phu/]
+
+<!-- id: EVT-0276 -->
+*   **1104:** Ly Thuong Kiet defeated the Champa army, forcing King Che Ma Na (Jaya Indravarman II) to return the three provinces he had previously occupied. [Source: Ly Thuong Kiet, Outstanding Commander of the Second Anti-Song Resistance, https://baotanglichsuquocgia.vn/vi/Articles/3098/16192/ly-thuong-kiet-nguoi-chi-huy-kiet-xuat-cua-cuoc-khang-chien-chong-quan-tong-lan-thu-hai.html]
 
 <!-- id: EVT-0279 -->
-*   **Jun. 1105:** General Ly Thuong Kiet passed away at the age of 86. He was a brilliant strategist and a pillar of the Ly dynasty through three reigns.
+*   **Jun. 1105:** General Ly Thuong Kiet passed away at the age of 86. He was a brilliant strategist and a pillar of the Ly dynasty through three reigns. [Source: Hero Ly Thuong Kiet, Defender of the Nation (Nam Dinh Buddhist Association), http://phatgiaonamdinh.vn/nghien-cuu/lich-su/nhan-vat/anh-hung-ly-thuong-kiet-voi-tinh-than-ho-quoc-an-dan.html]
 
 ![Historical Image](images/event_20260924_111626.webp)
 
 *Source: Statue of Ly Thuong Kiet / Vinhtantran (Wikimedia Commons, Public domain)*
 
 <!-- id: EVT-0280 -->
-*   **1108:** The court ordered the construction of the Co Xa dike in Thang Long to prevent floods from the Red River.
+*   **1108:** The court ordered the construction of the Co Xa dike in Thang Long to prevent floods from the Red River. [Source: 2000-Year History of the Red River Dike System (Phap Luat), https://baophapluat.vn/lich-su-2000-nam-he-thong-de-tri-thuy-song-hong-post283434.html]
 
 <!-- id: EVT-0281 -->
-*   **1111:** The name **Thanh Hoa** appeared for the first time in historical records when the prefecture of Thanh Hoa offered a nine-trunked areca tree.
+*   **1111:** The name **Thanh Hoa** appeared for the first time in historical records when the prefecture of Thanh Hoa offered a nine-trunked areca tree. [Source: Thanh Hoa Was Not a Central-Level Unit in 1029, https://nongnghiepmoitruong.vn/thanh-hoa-khong-phai-don-vi-hanh-chinh-truc-thuoc-trung-uong-vao-nam-1029-d240926.html]
 
 <!-- id: EVT-0282 -->
-*   **Jun. 1, 1113:** Nun Dieu Nhan, the earliest recorded female Zen Master of the Ly dynasty, passed away.
+*   **Jun. 1, 1113:** Nun Dieu Nhan, the earliest recorded female Zen Master of the Ly dynasty, passed away. [Source: Life of Princess Ly Ngoc Kieu (National Museum of History), https://baotanglichsu.vn/vi/Articles/2001/65132/cuoc-djoi-cong-chua-ly-ngoc-kieu.html]
 
 <!-- id: EVT-0283 -->
-*   **1116:** The famous monk Tu Dao Hanh passed away. According to legend and historical accounts, he was reincarnated as King Ly Than Tong.
+*   **1116:** The famous monk Tu Dao Hanh passed away. According to legend and historical accounts, he was reincarnated as King Ly Than Tong. [Source: The Mystical Reincarnation of King Ly Than Tong (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/9760/than-bi-chuyen-djau-thai-cua-vua-ly-than-tong.html]
 
 <!-- id: EVT-0284 -->
-*   **Jan. 1117:** Emperor Ly Nhan Tong issued an edict strictly forbidding the theft and illegal slaughter of cattle, crucial draft animals for agriculture, establishing severe punishments.
+*   **Jan. 1117:** Emperor Ly Nhan Tong issued an edict strictly forbidding the theft and illegal slaughter of cattle, crucial draft animals for agriculture, establishing severe punishments. [Source: Prospering the Nation Through Agriculture (Thai Binh News), https://thaibinh.baohungyen.vn/tin-tuc/52/177653/di-nong-hung-quoc]
 
 <!-- id: EVT-0285 -->
-*   **1118:** The court banned domestic servants of officials and nobility in the capital from tattooing dragon motifs on their chests and legs like royal guards.
+*   **1118:** The court banned domestic servants of officials and nobility in the capital from tattooing dragon motifs on their chests and legs like royal guards. [Source: Dragons in Ancient Law (People Public Security News), https://cand.vn/rong-trong-phap-luat-thoi-xua-post720300.html]
 
 <!-- id: EVT-0286 -->
-*   **1123:** The Ly court reiterated the ban on cattle slaughter, organizing households into "bao" (groups of three households) for mutual oversight.
+*   **1123:** The Ly court reiterated the ban on cattle slaughter, organizing households into "bao" (groups of three households) for mutual oversight. [Source: Rule, Diplomacy, Culture and Society Under Ly Nhan Tong (Int. Studies), https://nghiencuuquocte.org/2020/04/12/ban-them-ve-noi-tri-ngoai-giao-van-hoa-xa-hoi-thoi-ly-nhan-tong/]
 
 <!-- id: EVT-0287 -->
-*   **1128:** Regulations prohibited household slaves and guards of officials from marrying daughters of commoner families.
+*   **1128:** Regulations prohibited household slaves and guards of officials from marrying daughters of commoner families. [Source: The Ly Dynasty Under King Ly Than Tong (Int. Studies), https://nghiencuuquocte.org/2020/04/23/nha-ly-duoi-thoi-vua-ly-than-tong/]
 
 <!-- id: EVT-0288 -->
-*   **Jan. 15, 1128:** Ly Nhan Tong died, and Ly Duong Hoan (Ly Than Tong) ascended the throne, inheriting it according to the will of Emperor Ly Nhan Tong (Ly Nhan Tong had no children, so he adopted Ly Duong Hoan and passed the throne to him).
+*   **Jan. 15, 1128:** Ly Nhan Tong died, and Ly Duong Hoan (Ly Than Tong) ascended the throne, inheriting it according to the will of Emperor Ly Nhan Tong (Ly Nhan Tong had no children, so he adopted Ly Duong Hoan and passed the throne to him). [Source: Ly Nhan Tong - Ly Can Duc (Complete Annals Text, Nguoi Ke Su), https://nguoikesu.com/dong-lich-su/nha-ly/ly-nhan-tong-ly-can-duc]
 
 <!-- id: EVT-0289 -->
-*   **1131:** Regulations prohibited household slaves of princes and princesses from marrying daughters of commoner families.
+*   **1131:** Regulations prohibited household slaves of princes and princesses from marrying daughters of commoner families. [Source: Viet Su Luoc, Lower Volume (Wikisource Translation), https://vi.wikisource.org/wiki/Bi%C3%AAn_d%E1%BB%8Bch:Vi%E1%BB%87t_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_h%E1%BA%A1]
 
 <!-- id: EVT-0290 -->
-*   **1135:** Emperor Ly Than Tong decreed that sellers of fields and ponds could not use higher prices to redeem them, legally protecting private land ownership rights.
+*   **1135:** Emperor Ly Than Tong decreed that sellers of fields and ponds could not use higher prices to redeem them, legally protecting private land ownership rights. [Source: Ly Than Tong - Ly Duong Hoan (Complete Annals Text, Nguoi Ke Su), https://nguoikesu.com/dong-lich-su/nha-ly/ly-than-tong-ly-duong-hoan]
 
 <!-- id: EVT-0291 -->
-*   **1136:** Zen Master Nguyen Minh Khong successfully cured King Ly Than Tong of a strange illness (often described in legends as "tiger transformation"), subsequently being appointed National Preceptor.
+*   **1136:** Zen Master Nguyen Minh Khong successfully cured King Ly Than Tong of a strange illness (often described in legends as "tiger transformation"), subsequently being appointed National Preceptor. [Source: Zen Master Minh Khong Cures the King Tiger Illness (Giao Duc & Thoi Dai), https://giaoducthoidai.vn/chuyen-thien-su-minh-khong-chua-benh-hoa-ho-cho-vua-ly-post254182.html]
 
 <!-- id: EVT-0292 -->
-*   **Nov. 1138:** Ly Than Tong died, and Ly Thien To (Ly Anh Tong) ascended the throne, inheriting it according to the will of his father, Emperor Ly Than Tong (at the age of only 3 years old).
+*   **Nov. 1138:** Ly Than Tong died, and Ly Thien To (Ly Anh Tong) ascended the throne, inheriting it according to the will of his father, Emperor Ly Than Tong (at the age of only 3 years old). [Source: Era of Autonomy - Chapter V Part 1 (Viet Su Luoc, Overseas Vietnamese Committee), https://scov.gov.vn/dat-nuoc-con-nguoi/viet-nam-su-luoc/tu-chu-thoi-dai-chuong-v-phan-1-.html]
 
 <!-- id: EVT-0293 -->
-*   **1139 - 1141:** The rebellion of Than Loi (Zhao Zhizhi). Exploiting the death of Emperor Ly Than Tong and the accession of three-year-old Emperor Ly Anh Tong, Than Loi (recorded in Song dynasty chronicles as Zhao Zhizhi) claimed to be the son of the late Emperor Ly Nhan Tong and obtained 3,000 troops from King Duan Zhengyan (Duan Heyu) of Dali to seize the throne. Than Loi usurped the title of Binh Vuong, raided the northern frontier, and advanced into Thai Nguyen. In early 1141, Grand Marshal Do Anh Vu led the imperial army in a decisive counterattack at Bac Lang, crushing the rebel and Dali forces, and capturing Than Loi, who was escorted to Thang Long and executed.
+*   **1139 - 1141:** The rebellion of Than Loi (Zhao Zhizhi). Exploiting the death of Emperor Ly Than Tong and the accession of three-year-old Emperor Ly Anh Tong, Than Loi (recorded in Song dynasty chronicles as Zhao Zhizhi) claimed to be the son of the late Emperor Ly Nhan Tong and obtained 3,000 troops from King Duan Zhengyan (Duan Heyu) of Dali to seize the throne. Than Loi usurped the title of Binh Vuong, raided the northern frontier, and advanced into Thai Nguyen. In early 1141, Grand Marshal Do Anh Vu led the imperial army in a decisive counterattack at Bac Lang, crushing the rebel and Dali forces, and capturing Than Loi, who was escorted to Thang Long and executed. [Source: Era of Autonomy - Chapter V Part 1 (Viet Su Luoc, Overseas Vietnamese Committee), https://scov.gov.vn/dat-nuoc-con-nguoi/viet-nam-su-luoc/tu-chu-thoi-dai-chuong-v-phan-1-.html]
 
 <!-- id: EVT-0294 -->
-*   **1141:** National Preceptor Nguyen Minh Khong passed away.
+*   **1141:** National Preceptor Nguyen Minh Khong passed away. [Source: Emperor Ly Anh Tong - Ly Thien To (Bien Nien Su Chronicle), https://bienniensu.com/ly-anh-tong-ly-thien/]
 
 <!-- id: EVT-0295 -->
-*   **1142:** Emperor Ly Anh Tong established rules regarding land redemption and disputes, strictly prohibiting the redemption of outright sold land and barring lawsuits over disputes persisting 5 to 10 years.
+*   **1142:** Emperor Ly Anh Tong established rules regarding land redemption and disputes, strictly prohibiting the redemption of outright sold land and barring lawsuits over disputes persisting 5 to 10 years. [Source: The Ly Dynasty Under King Ly Anh Tong (Int. Studies), https://nghiencuuquocte.org/2020/05/10/nha-ly-duoi-thoi-vua-ly-anh-tong/]
 
 <!-- id: EVT-0296 -->
-*   **1143:** Reiteration of the cattle slaughter ban, stipulating that neighbors failing to report violations would be punished equally.
+*   **1143:** Reiteration of the cattle slaughter ban, stipulating that neighbors failing to report violations would be punished equally. [Source: The Ly Dynasty Under King Ly Anh Tong (Int. Studies), https://nghiencuuquocte.org/2020/05/10/nha-ly-duoi-thoi-vua-ly-anh-tong/]
 
 <!-- id: EVT-0297 -->
-*   **Feb. 1149:** The Van Don trading post (Quang Ninh) was established as a place for merchant ships from other countries to trade, officially opening the first international trading port.
+*   **Feb. 1149:** The Van Don trading post (Quang Ninh) was established as a place for merchant ships from other countries to trade, officially opening the first international trading port. [Source: Van Don Trading Port Relic (Quang Ninh Portal), https://www.quangninh.gov.vn/Trang/ChiTietBVGioiThieu.aspx?bvid=422]
 
 <!-- id: EVT-0298 -->
-*   **1150:** The Do Anh Vu rebellion occurred in the royal court.
+*   **1150:** The Do Anh Vu rebellion occurred in the royal court. [Source: The Do Anh Vu Case (Vietnamese Historical Anecdotes), https://scov.gov.vn/ban-sac-van-hoa/viet-su-giai-thoai/vu-an-do-anh-vu.html]
 
 <!-- id: EVT-0299 -->
-*   **1150:** Do Anh Vu was temporarily exiled to work as a "cao dien nhi" (state agricultural slave) in Cao village.
+*   **1150:** Do Anh Vu was temporarily exiled to work as a "cao dien nhi" (state agricultural slave) in Cao village. [Source: The Do Anh Vu Case (Vietnamese Historical Anecdotes), https://scov.gov.vn/ban-sac-van-hoa/viet-su-giai-thoai/vu-an-do-anh-vu.html]
 
 <!-- id: EVT-0300 -->
-*   **Apr. 21, 1151:** National Preceptor Vien Thong passed away.
+*   **Apr. 21, 1151:** National Preceptor Vien Thong passed away. [Source: National Preceptor Vien Thong (1080-1151) (Truc Lam Monastery), https://thientruclam.info/ht-thich-thanh-tu/thien-su-viet-nam/quoc-su-vien-thong-1080--1151-doi-thu-18-dong-tynidaluuchi]
 
 <!-- id: EVT-0301 -->
-*   **1157:** The court prohibited all social classes from wearing plain blue/green single-layer garments.
+*   **1157:** The court prohibited all social classes from wearing plain blue/green single-layer garments. [Source: Viet Su Luoc, Lower Volume (Wikisource Translation), https://vi.wikisource.org/wiki/Bi%C3%AAn_d%E1%BB%8Bch:Vi%E1%BB%87t_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_h%E1%BA%A1]
 
 <!-- id: EVT-0302 -->
-*   **Nov. 1161:** King Ly Anh Tong sent To Hien Thanh to patrol the southwestern coastal borders to maintain security.
+*   **Nov. 1161:** King Ly Anh Tong sent To Hien Thanh to patrol the southwestern coastal borders to maintain security. [Source: The Upright General Mourned by the King (Dan Viet), https://danviet.vn/danh-tuong-noi-tieng-thanh-liem-khi-mat-vua-an-chay-de-tang-6-ngay-20210616204912295-d957361.html]
 
 <!-- id: EVT-0303 -->
-*   **1164:** The Song dynasty officially invested King Ly Anh Tong as the **King of An Nam** (An Nam Quoc Vuong); the name "An Nam" was officially used as the national title in diplomatic relations from this point.
+*   **1164:** The Song dynasty officially invested King Ly Anh Tong as the **King of An Nam** (An Nam Quoc Vuong); the name "An Nam" was officially used as the national title in diplomatic relations from this point. [Source: Era of Autonomy - Chapter V Part 1 (Viet Su Luoc, Overseas Vietnamese Committee), https://scov.gov.vn/dat-nuoc-con-nguoi/viet-nam-su-luoc/tu-chu-thoi-dai-chuong-v-phan-1-.html]
 
 <!-- id: EVT-0304 -->
-*   **1171 - 1172:** King Ly Anh Tong personally patrolled the islands and coastal areas, surveying the terrain and documenting local customs and geography to compile the *Nam Bac Phien Gioi Dia Do* (Map of Northern and Southern Frontiers).
+*   **1171 - 1172:** King Ly Anh Tong personally patrolled the islands and coastal areas, surveying the terrain and documenting local customs and geography to compile the *Nam Bac Phien Gioi Dia Do* (Map of Northern and Southern Frontiers). [Source: Ly Anh Tong - First Vietnamese King to Patrol the Eastern Sea (Dan Viet), https://danviet.vn/ly-anh-tong-vi-vua-viet-dau-tien-tuan-thu-bien-dong-20230531164328091-d1097241.html]
 
 <!-- id: EVT-0305 -->
-*   **Aug. 14, 1175:** Ly Anh Tong passed away, Ly Long Can ascended the throne (Ly Cao Tong) at the age of 2.
+*   **Aug. 14, 1175:** Ly Anh Tong passed away, Ly Long Can ascended the throne (Ly Cao Tong) at the age of 2. [Source: Ly Cao Tong (Nguoi Ke Su), https://nguoikesu.com/nhan-vat/ly-cao-tong]
 
 <!-- id: EVT-0306 -->
-*   **1181:** A great famine occurred, causing nearly half the population to die.
+*   **1181:** A great famine occurred, causing nearly half the population to die. [Source: Emperor Ly Cao Tong - Ly Long Trat (Bien Nien Su Chronicle), https://bienniensu.com/ly-cao-tong-ly-long-trat/]
 
 <!-- id: EVT-0307 -->
-*   **1182:** King Ly Cao Tong changed the era name to Bao Phu. The imperial court entrusted Grand Preceptor Ngo Ly Tin with commanding troops to suppress frontier rebellions, consolidating discipline and stabilizing the realm during the young monarch's reign.
+*   **1182:** The imperial court entrusted Grand Preceptor Ngo Ly Tin with commanding troops to suppress frontier rebellions, consolidating discipline and stabilizing the realm during the young monarch's reign. [Source: Emperor Ly Cao Tong - Ly Long Trat (Bien Nien Su Chronicle), https://bienniensu.com/ly-cao-tong-ly-long-trat/]
 
 <!-- id: EVT-0308 -->
-*   **1192:** Excavation of the To Lich River to facilitate transportation and irrigation around the capital.
+*   **1192:** Excavation of the To Lich River to facilitate transportation and irrigation around the capital. [Source: Emperor Ly Cao Tong: Thien Tu Gia Thuy Era (Bien Nien Su Chronicle), https://bienniensu.com/ly-cao-tong-nien-hieu-thien-tu-gia-thuy/]
 
 <!-- id: EVT-0309 -->
-*   **1195:** King Lý Cao Tông held the first Three Teachings Examination (Confucianism, Buddhism, and Taoism) in Vietnamese civil service history to select scholars proficient in all three doctrines for imperial administration.
+*   **1195:** King Lý Cao Tông held the first Three Teachings Examination (Confucianism, Buddhism, and Taoism) in Vietnamese civil service history to select scholars proficient in all three doctrines for imperial administration. [Source: Dai Viet Educational Achievements Under Ly-Tran (VJST), https://doi.org/10.31276/vjst.63(10).61-64]
 
 <!-- id: EVT-0310 -->
-*   **1198:** King Ly Cao Tong, following the advice of Dam Di Mong, ordered the dismissal of monks who did not strictly follow precepts, forcing them to return to secular life to perform corvee labor, reorganizing Buddhism and society.
+*   **1198:** King Ly Cao Tong, following the advice of Dam Di Mong, ordered the dismissal of monks who did not strictly follow precepts, forcing them to return to secular life to perform corvee labor, reorganizing Buddhism and society. [Source: Emperor Ly Cao Tong: Thien Tu Gia Thuy Era (Bien Nien Su Chronicle), https://bienniensu.com/ly-cao-tong-nien-hieu-thien-tu-gia-thuy/]
 
 <!-- id: EVT-0311 -->
-*   **13th century:** Italian explorer Marco Polo visited and described Con Dao Island in his memoirs. In the same century, Islam was also introduced, primarily through the Cham community.
+*   **13th century:** Italian explorer Marco Polo visited and described Con Dao Island in his memoirs. In the same century, Islam was also introduced, primarily through the Cham community. [Source: Con Son Islands in History (Orient Development Research Institute), https://ordi.vn/hai-dao-con-son-trong-lich-su.html]
 
 <!-- id: EVT-0312 -->
-*   **13th century (Tran Dynasty):** The state established the specialized positions of *Ha de su* (Dike Commissioner) and *Don dien su* (State Farm Commissioner) across routes (lo) to manage irrigation, dike construction, and agricultural expansion. The period for evaluating mandarins was set to 15 years.
+*   **13th century (Tran Dynasty):** The state established the specialized positions of *Ha de su* (Dike Commissioner) and *Don dien su* (State Farm Commissioner) across routes (lo) to manage irrigation, dike construction, and agricultural expansion. The period for evaluating mandarins was set to 15 years. [Source: Wise Policies of the Tran Dynasty (National Defence Journal), https://m.tapchiqptd.vn/vi/lich-su-quan-su-viet-nam/quyet-sach-sang-suot-cua-vuong-trieu-nha-tran-trong-su-nghiep-dung-nuoc-va-giu-nuoc-19281.html]
 
 <!-- id: EVT-0313 -->
-*   **1203:** King Ly Cao Tong ordered the construction of many lavish palaces, causing further misery to the people, and banditry arose.
+*   **1203:** King Ly Cao Tong ordered the construction of many lavish palaces, causing further misery to the people, and banditry arose. [Source: King Ly Cao Tong Debauched and Extravagant (VnExpress), https://vnexpress.net/vua-nao-nha-ly-an-choi-vo-do-3543401-p9.html]
 
 <!-- id: EVT-0314 -->
-*   **Aug. 1207:** King Ly Cao Tong issued a royal edict apologizing to the people for his negligence and mistakes in governance that led to hardships, promising reforms.
+*   **Aug. 1207:** King Ly Cao Tong issued a royal edict apologizing to the people for his negligence and mistakes in governance that led to hardships, promising reforms. [Source: The First King to Write an Apology Edict (National Museum of History), https://baotanglichsuquocgia.vn/vi/Articles/3096/8028/vi-vua-djau-tien-viet-chieu-nhan-loi-voi-dan.html]
 
 <!-- id: EVT-0315 -->
-*   **1208:** Pham Du rebelled in Nghe An. King Ly Cao Tong sent Pham Binh Di to suppress the rebellion, but later falsely accused and imprisoned Binh Di, triggering the Quach Boc rebellion in the capital.
+*   **1208:** Pham Du rebelled in Nghe An. King Ly Cao Tong sent Pham Binh Di to suppress the rebellion, but later falsely accused and imprisoned Binh Di, triggering the Quach Boc rebellion in the capital. [Source: Emperor Ly Cao Tong: Tri Binh Long Ung Era (Bien Nien Su Chronicle), https://bienniensu.com/ly-cao-tong-nien-hieu-tri-binh-long-ung/]
 
 <!-- id: EVT-0316 -->
-*   **Jan. 1209:** The Quach Boc rebellion broke out in the capital Thang Long, forcing King Ly Cao Tong to flee. Crown Prince Sam fled to Hai Ap (Thai Binh), was sheltered by the Tran clan, and married Tran Thi Dung.
+*   **Jul. 1209:** The Quach Boc rebellion broke out in the capital Thang Long, forcing King Ly Cao Tong to flee. Crown Prince Sam fled to Hai Ap (Thai Binh), was sheltered by the Tran clan, and married Tran Thi Dung. [Source: Linh Tu National Mother Tran Thi Dung (Lao Dong), https://laodong.vn/lao-dong-cuoi-tuan/linh-tu-quoc-mau-tran-thi-dung-trong-lich-su-mo-nghiep-nha-tran-1468795.ldo]
 
 <!-- id: EVT-0317 -->
-*   **1210:** Ly Cao Tong passed away, Ly Hao Sam ascended the throne (Ly Hue Tong). The power of the Tran clan grew stronger.
+*   **1210:** Ly Cao Tong passed away, Ly Hao Sam ascended the throne (Ly Hue Tong). The power of the Tran clan grew stronger. [Source: Emperor Ly Cao Tong: Tri Binh Long Ung Era (Bien Nien Su Chronicle), https://bienniensu.com/ly-cao-tong-nien-hieu-tri-binh-long-ung/]
 
 <!-- id: EVT-0318 -->
-*   **1211:** Ly Hue Tong officially invested Tran Thi Dung as the Queen Consort (Nguyen Phi), marking the Tran clan's deep entrenchment in the royal court's power structure.
+*   **1211:** Ly Hue Tong officially invested Tran Thi Dung as the Queen Consort (Nguyen Phi), marking the Tran clan's deep entrenchment in the royal court's power structure. [Source: Linh Tu National Mother Tran Thi Dung (Lao Dong), https://laodong.vn/lao-dong-cuoi-tuan/linh-tu-quoc-mau-tran-thi-dung-trong-lich-su-mo-nghiep-nha-tran-1468795.ldo]
 
 <!-- id: EVT-0319 -->
-*   **1218:** Ly Bat Nhiem was enfeoffed as a Marquis and granted 7,500 households as an appanage and 1,500 households as a fief.
+*   **1218:** Ly Bat Nhiem was enfeoffed as a Marquis and granted 7,500 households as an appanage and 1,500 households as a fief. [Source: Emperor Ly Hue Tong - Ly Sam (Bien Nien Su Chronicle), https://bienniensu.com/ly-hue-tong-ly-sam/]
 
 <!-- id: EVT-0320 -->
-*   **1222:** Emperor Ly Hue Tong divided the country into 24 circuits, dispatching princesses to reside there and utilize local household slaves for corvée labor.
+*   **1222:** Emperor Ly Hue Tong divided the country into 24 circuits, dispatching princesses to reside there and utilize local household slaves for corvée labor. [Source: Emperor Ly Hue Tong - Ly Sam (Bien Nien Su Chronicle), https://bienniensu.com/ly-hue-tong-ly-sam/]
 
 <!-- id: EVT-0321 -->
-*   **Jun. 1225:** Ly Hue Tong was ill and had no son, so he passed the throne to his second daughter, Ly Thien Hinh, or Ly Chieu Hoang (7 years old). She became the first and only female monarch in Vietnamese history.
+*   **Oct. 1224:** Ly Hue Tong was ill and had no son, so he passed the throne to his second daughter, Ly Thien Hinh, or Ly Chieu Hoang (7 years old). She became the first and only female monarch in Vietnamese history. [Source: The Truth About Vietnam Most Shocking Succession (Kien Thuc), https://kienthuc.net.vn/su-that-chuyen-truyen-ngoi-la-lung-chan-dong-nhat-viet-nam-post498877.html]
 
 <!-- id: EVT-0322 -->
 
