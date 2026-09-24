@@ -260,6 +260,10 @@
 *   **Feb. 7, 981:** Battle of Luc Giang (Binh Lo). Dai Co Viet forces commanded by Le Dai Hanh heavily defeated Song forces on the Luc Dau river, forcing them to retreat to Bach Dang.
 *   **Apr. 11, 981:** Song naval and land reinforcements arrived at Bach Dang.
 *   **Apr. 28, 981:** Second Battle of Bach Dang. Le Dai Hanh commanded the decisive battle. Feigning defeat to lure the enemy into an ambush, Dai Co Viet forces crushed the Song army, killing Commander Hou Renbao. Song forces retreated and were pursued and heavily defeated at Tay Ket.
+
+![Historical Image](images/event_20260924_124302.webp)
+
+*Source: Bach Dang stockade site, Quang Yen – relic of the 981 stockade battlefield against the Song army (Photo: Goodmorninghpvn / Public domain)*
 *   **982:** King Lê Đại Hành personally commanded a military expedition against Champa following the detention of Đại Cồ Việt emissaries, killing King Paramesvaravarman I (Bê Mị Thuế) in battle, subduing the capital Indrapura (Đồng Dương), and rescuing the envoys.
 *   **983:** King Le Dai Hanh ordered the digging of the Ba Hoa Canal (Thanh Hoa) and Da Cai Canal (Nghe An) to facilitate military and water transport. He withdrew the main army to Hoa Lu, leaving a garrison in northern Champa (from Hoanh Son to Varella cape) under the command of *Quan giap* **Luu Ke Tong**.
 *   **Feb. 984:** The Early Le court minted Thien Phuc coins.
@@ -793,6 +797,10 @@
 *   **1428:** Emperor Le Thai To issued an edict ordering the construction of schools across the country to educate talented individuals, rebuilding the educational infrastructure after the war of liberation.
 *   **1428:** King Lê Thái Tổ decreed monetary regulations and minted "Thuận Thiên thông bảo" bronze coins, establishing the first independent monetary circulation system of the Later Lê Dynasty.
 *   **1428 (Mau Than year):** According to historical lore recorded in the *Lam Son Thuc Luc*, while Emperor Le Thai To was boating on Ta Vong Lake in Dong Kinh, a Golden Turtle surfaced requesting the return of the sacred Thuan Thien sword lent to expel the Ming invaders. The emperor returned the blade, renaming the waters **Hoan Kiem Lake** (Lake of the Returned Sword), forging an enduring emblem of the Vietnamese people's reverence for peace after ten years of grueling warfare.
+
+![Historical Image](images/event_20260924_124303.webp)
+
+*Source: Turtle Tower on Hoan Kiem Lake, Hanoi (Photo: Nguyen Thanh Lam / CC BY 2.0)*
 *   **Jan. 1428 (Dec. 16, Lunar Year of the Goat):** Ming generals Wang Tong, Ma Ying, and others formally surrendered and requested to withdraw their troops to China.
 *   **Jan. 3, 1428:** The last Ming soldiers withdrew from the country. The nation was completely liberated.
 *   **Feb. 1428:** Tran Cao, the figurehead king installed by Le Loi to appease the Ming, died after attempting to flee to Ngoc Ma.
@@ -1125,6 +1133,10 @@
 *   **Jun. 15, 1786:** The Tay Son army, launching a surprise night attack capitalizing on the rising tide, captured Phu Xuan citadel. The Trịnh commander Hoang Dinh The died in battle after running out of ammunition, and the governor Pham Ngo Cau surrendered. This victory effectively wiped out the Trịnh forces south of the Gianh River.
 *   **Jul. 17, 1786:** The Battle of Son Nam. Nguyen Hue utilized a psychological tactic by sending straw men on boats to draw enemy fire. Once the Trịnh forces exhausted their ammunition, the Tay Son navy and elite troops attacked, routing the Trịnh army and capturing the Son Nam region.
 *   **Jul. 21, 1786:** The Tay Son army entered Thang Long, completely overthrowing the over 200-year rule of the Trịnh lords after a lightning campaign. Lord Trịnh Tong attempted to flee but was captured by locals and subsequently committed suicide. Along with the overthrow of the Nguyen lords in Dang Trong (1777), this victory obliterated the two-century-old division between Dang Trong and Dang Ngoai, initiating the reunification of the country.
+
+![Historical Image](images/event_20260924_124305.webp)
+
+*Source: Quang Trung monument at the Quang Trung Museum, Tay Son, Binh Dinh (Photo: Liftold / CC BY-SA 3.0)*
 *   **Aug. 10, 1786 (17th of the 7th lunar month):** King Le Hien Tong passed away. Le Duy Ky (Le Chieu Thong) succeeded him.
 *   **Oct. 10, 1786 (19th of the 9th lunar month):** Trinh Bong was enthroned as An Do Vuong (Lord An Do) but faced opposition from King Le Chieu Thong and rivals.
 *   **Late 1786:** Nguyen Hue was given Princess Ngoc Han in marriage by the Le king. The Tay Son brothers divided the country to rule: Nguyen Nhac as the Central Emperor (from Quang Nam to Binh Thuan), Nguyen Hue as the Northern Pacification King (Bac Binh Vuong - governing Thuan Hoa northwards), and Nguyen Lu as the Eastern Pacification King (Dong Dinh Vuong - governing Gia Dinh).
@@ -1219,6 +1231,10 @@
 *   **Jun. 1802:** After Binh Dinh Citadel fell, Nguyen Anh officially ascended the throne as Emperor in Phu Xuan, establishing the era name Gia Long.
 *   **Jun. 16, 1802:** In the retreat to the North, General Nguyen Van Tuyet (Do Doc Tuyet) died in battle at Xuong Giang protecting King Canh Thinh. Empress Dowager Bui Thi Nhan, along with female generals Tran Thi Lan and Nguyen Thi Dung, committed suicide to avoid capture.
 *   **Jul. 20, 1802:** Nguyen Anh entered Thang Long citadel, inheriting the fruits of national unification initiated by the Tay Son movement and completing the administrative and territorial reunification of the country, officially ending the Tay Son dynasty. Before the capture, the advancing Nguyen forces had already imposed heavy contributions on the northern population. King Canh Thinh and prominent generals were captured. Gia Long also ordered the exhumation of the graves of Nguyen Nhac and Nguyen Hue, pounding their bones into powder and imprisoning their skulls in a dungeon. This marked the beginning of the Nguyen Dynasty's rule over a fully unified Vietnam stretching from the North to the South.
+
+![Historical Image](images/event_20260924_124314.webp)
+
+*Source: Doan Gate, Thang Long Imperial Citadel, Hanoi (Photo: Ahia / CC BY 2.0)*
 *   **Aug. 1802:** Emperor Gia Long ordered the compilation and promulgation of the first 15 laws regarding litigation.
 *   **Nov. 20, 1802 (Nov. 6, Lunar Year of the Dog):** Emperor Gia Long held a formal victory ritual at the Ancestral Temple in Phu Xuan, executing Emperor Canh Thinh (Nguyen Quang Toan), members of the Tay Son royal family, and prominent commanders. Renowned general **Tran Quang Dieu** was executed, while female commander **Bui Thi Xuan** and her daughter were trampled by war elephants, definitively ending the 24-year reign of the Tay Son Dynasty.
 *   **1803:** Emperor Gia Long ordered the reconstruction of the **Thang Long Citadel** (Hanoi Citadel). He set the salary regulations for officials and soldiers in the Northern Citadel. The court established Trang Tien in Thang Long to mint "Gia Long Thong Bao" coins.
@@ -1427,6 +1443,10 @@
 *   **1864:** **Ha Tinh** was re-established as a separate "dao" (county), independent from Nghe An.
 *   **1864 (Tu Duc 17):** Bui Vien and his younger brother Bui Phung passed the Tu Tai (bachelor's) examination.
 *   **Aug. 20, 1864:** During the night of August 19 to the early morning of August 20, 1864, French troops ambushed the Kiểng Phước base in Gò Công guided by the traitor Huỳnh Công Tấn. Trương Định and his fighters resisted heroically until he was severely wounded by gunfire that broke his spine. To maintain his honor and avoid falling into enemy hands, Grand Marshal Trương Định drew his sword and took his own life at Ao Dinh (Gò Công) at the age of 44.
+
+![Historical Image](images/event_20260924_124306.webp)
+
+*Source: Truong Dinh Temple and Tomb, Go Cong, Tien Giang (Photo: Bui Thuy Dao Nguyen / CC BY-SA 3.0)*
 *   **Apr. 15, 1865:** The first Vietnamese-language newspaper using chữ Quốc ngữ, the Gia Định báo, was launched in Saigon.
 *   **May 1865:** The first Military Doctorate (Vo Tien si) examination was held to select military talents.
 *   **Nov. 1865:** The "Nha si" (Elegant Scholar) examination was held for the first time to recruit virtuous and learned scholars.
@@ -1445,6 +1465,10 @@
 *   **Jun. 16 - 21, 1868:** Nguyen Trung Truc's righteous army successfully attacked and controlled Rach Gia Citadel for 5 days before being suppressed by French reinforcements.
 *   **Jul. 1868:** The court purchased a large copper-clad steamship named "Man Thoa", marking efforts to adopt Western technology.
 *   **Oct. 27, 1868:** Hero Nguyen Trung Truc is executed by the French in Rach Gia (Kien Giang), leaving behind the immortal quote: *"Only when the French pull up all the grass in Vietnam will there be no more Vietnamese fighting the French."*
+
+![Historical Image](images/event_20260924_124307.webp)
+
+*Source: Nguyen Trung Truc Temple, Rach Gia, Kien Giang (Photo: Bui Thuy Dao Nguyen / CC BY-SA 3.0)*
 *   **Feb. 1869:** Chữ Quốc ngữ was mandated for use in official documents in Cochinchina, replacing chữ Nho (classical Chinese characters), according to a decree by Vice Admiral Marie Gustave Hector Ohier.
 *   **May 16, 1869:** Cochinchina Governor Ohier signed a decree transferring management of the *Gia Định báo* newspaper to Trương Vĩnh Ký as Director and Huỳnh Tịnh Của as Editor-in-Chief. This marked the milestone of *Gia Định báo* becoming the first newspaper managed by Vietnamese intellectuals, transforming it from an administrative gazette into a socio-cultural publication that decisively popularized and standardized chữ Quốc ngữ.
 *   **1870:** The insurgent forces of Truong Quyen (son of Truong Dinh) closely coordinated with the movement of Pu Kom Po, expanding anti-French resistance operations along the southwestern border (Tay Ninh, Chau Doc), demonstrating a historic alliance against colonial aggression.
@@ -1611,6 +1635,10 @@
 *   **1904:** In Paris, exiled Emperor Ham Nghi (using the artistic pseudonym **Tu Xuan** / Prince d'Annam) exhibited his artworks at the Musée Guimet, showcasing Impressionist pastels and sculptures created under the tutelage of painter Marius Reynaud and celebrated sculptor Auguste Rodin, becoming the first modern Vietnamese visual artist to gain acclaim in Western artistic circles.
 *   **Late 1904:** Phan Chau Trinh, Tran Qui Cap, and Huynh Thuc Khang undertook a "Southern Trip" (Nam du). In Binh Dinh, they wrote *Chi thanh thong thanh* and *Luong ngoc danh son* to criticize the obsolete examination system.
 *   **1905:** The Dong Du (Go East) Movement, initiated by Phan Boi Chau, began, sending patriotic youth to Japan to study. Phan Boi Chau wrote the work *Viet Nam vong quoc su* (History of the Loss of Vietnam).
+
+![Historical Image](images/event_20260924_124308.webp)
+
+*Source: Portrait of Phan Boi Chau / Wikimedia Commons (Public domain)*
 *   **1905:** Acting Governor Outrey increased land tax in Cochinchina by 100%, leading to the resignation of all Vietnamese councilors.
 *   **1905:** Nguyen Trong Loi established the Youth Physical Education Association and the Duc Anh School in Binh Thuan to promote modern education.
 *   **Nov. 14, 1905:** A decree established the General Directorate of Public Education of Indochina, initiating the first educational reform.
@@ -1791,6 +1819,10 @@
 *   **Feb. 1926:** Introduced by Comrade Nguyen Ai Quoc, Le Hong Phong was admitted to the Chinese Communist Party while training at the Guangzhou Military Aviation Academy.
 *   **Mar. 21, 1926:** The Jeune Annam (Youth Party) was established.
 *   **Mar. 24, 1926:** Phan Chau Trinh passed away in Saigon.
+
+![Historical Image](images/event_20260924_124309.webp)
+
+*Source: Portrait of Phan Chau Trinh at age 37 / Wikimedia Commons (Public domain)*
 *   **Mar. 24, 1926:** Patriotic journalist and activist Nguyen An Ninh was arrested by French colonial authorities in Saigon, triggering a wave of student strikes, rallies, and demonstrations across Southern Vietnam demanding his release.
 *   **Apr. 4, 1926:** The funeral of patriot Phan Chu Trinh was solemnly held in Saigon with the participation of over 140,000 people, turning into a massive political demonstration and show of national solidarity that sparked nationwide student strikes and memorial services across Vietnam.
 *   **Sep. 4, 1926:** A decree established the People's Agricultural Credit Banks in Tonkin.
@@ -2724,6 +2756,10 @@
 *   **1964:** Hero Nup (Dinh Nup) visited Cuba. Fidel Castro sent a box of Cuban cigars as a gift to President Ho Chi Minh and conveyed a message of absolute support for Vietnam.
 *   **1964:** Ut Tich was admitted to the Southern People's Revolutionary Party.
 *   **1964 - 1967:** Following the Gulf of Tonkin incident, Mother Suot, despite being nearly 60 years old, volunteered to row a wooden boat across the Nhat Le River (Quang Binh) under fierce US bombing. She safely transported thousands of cadres, wounded soldiers, and weapons, making an estimated 1,400 trips per year.
+
+![Historical Image](images/event_20260924_124310.webp)
+
+*Source: Me Suot statue by the Nhat Le River, Dong Hoi, Quang Binh (Photo: Linhcandng / CC BY-SA 3.0)*
 *   **1964:** The Hanoi Film Studio, in collaboration with the Vietnam People's Army Cinema, produced the film "Người chiến sĩ trẻ" (The Young Soldier), vividly bringing the life and heroic sacrifices of Cù Chính Lan to the screen to inspire future generations.
 *   **1964:** Georges Boudarel left Vietnam with his Vietnamese wife and daughter for Prague, Czechoslovakia, to work for the World Federation of Trade Unions (WFTU). He became a spokesperson for global workers through his French-language broadcasts.
 * **1964:** Martyr Ngô Quang Nhã (Chiến sĩ du kích xã Châu Thới. Tham gia 44 trận đánh, diệt và làm thiệt hại 30 xe quân sự, diệt 4 đồn, giải phóng 2 xã, thu nhiều vũ khí quân trang, quân dụng. Hy sinh trong cuộc tập kích vào đoàn xe địch trên đoạn cầu Phú Giáo năm 1964) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland.
@@ -2737,6 +2773,10 @@
 *   **May 5, 1964:** The US Department of Commerce imposed a comprehensive trade embargo against the Democratic Republic of Vietnam under the Trading with the Enemy Act, freezing all commercial and financial transactions.
 *   **June 18, 1964:** Nguyen Van Nguy (husband of Le Thi Tuyet from Tra Cu) died in battle at the Don Chau front.
 *   **Aug. 2-4, 1964:** The US fabricated the **"Gulf of Tonkin Incident"** as a pretext to escalate the war.
+
+![Historical Image](images/event_20260924_124301.webp)
+
+*Source: P-4 torpedo boat under fire from destroyer USS Maddox on August 2, 1964 (Photo: U.S. Navy / Public domain)*
 *   **Aug. 5, 1964:** The US Air Force bombed and strafed several places in the North for the first time (Operation Pierce Arrow). The army and people of the North fought back fiercely, shooting down 8 US aircraft and capturing pilot Everett Alvarez, the first US prisoner of war in North Vietnam.
 *   **Aug. 7 - 11, 1964:** Following the Gulf of Tonkin Incident, over 20 million people across various regions of China took to the streets in massive rallies to support Vietnam and condemn US imperialist aggression.
 *   **Aug. 10, 1964:** Nguyễn Văn Trỗi was sentenced to death by the Saigon Military Court under Nguyễn Khánh's regime, declaring boldly at court: "I killed those who stole my country" and "I only regret that I have not yet killed McNamara."
@@ -2776,6 +2816,10 @@
 *   **Mar. 01 - 09, 1965:** The Indochinese Peoples' Conference convened in Phnom Penh upon the initiative of Cambodian Head of State Norodom Sihanouk, bringing together delegations from the Vietnam Fatherland Front, the National Liberation Front of South Vietnam, the Neo Lao Hak Sat, and progressive Cambodian forces, issuing a joint declaration solidifying mutual unity against US military escalation across Indochina.
 *   **Mar. 2, 1965:** The US began the "Rolling Thunder" air campaign, systematically bombing the North.
 *   **Mar. 8, 1965:** The 9th US Marine Expeditionary Brigade landed at Da Nang, officially introducing US combat troops into the South and launching the **"Local War"** strategy.
+
+![Historical Image](images/event_20260924_124311.webp)
+
+*Source: U.S. Marines wading ashore from landing craft at Da Nang on March 8, 1965 (Photo: USMC Archives / CC BY 2.0)*
 *   **Mar. 11, 1965:** **Operation Market Time:** The US Navy and the Saigon administration formed Task Force 115 and launched Operation Market Time, establishing a tight coastal blockade stretching thousands of nautical miles from the 17th parallel to the Gulf of Thailand with naval vessels, coastal radar, and maritime patrol aircraft to sever the sea-based supply routes of the Ho Chi Minh Trail to the South. Despite the enemy's dense blockade and modern weaponry, courageous sailors of the Vietnam People's Navy aboard the Unnumbered Ships skillfully bypassed hostile patrols, successfully delivering tens of thousands of tons of weapons and ammunition to reinforce the southern front lines.
 *   **Mar. 22, 1965:** The National Liberation Front for South Vietnam issued a 5-point statement, affirming its determination to drive out the US imperialists.
 *   **Mar. 25-27, 1965:** The 11th Conference of the Party Central Committee (3rd tenure) defined the urgent task as "resisting the US, saving the country" and shifting the North to a wartime footing.
@@ -3244,6 +3288,10 @@
     *   The capital is Hanoi, the national flag is the red flag with a five-pointed gold star (unifying the common flag for the whole nation, gloriously fulfilling the 16-year historic mission of the Liberation flag), and the national anthem is the *Song of the Advancing Soldiers* (*Tien Quan Ca*).
     *   On July 2, it officially passed a resolution to rename Saigon - Gia Dinh city to **Ho Chi Minh City**, realizing a nearly 30-year aspiration since the initial proposal in 1946.
     *   The highest state bodies and leadership positions were elected.
+
+![Historical Image](images/event_20260924_124312.webp)
+
+*Source: Ba Dinh Hall, Hanoi (Photo: Hector Garcia / CC BY-SA 2.0)*
 *   **Jul. 1976:** At the first session of the 6th National Assembly, Huynh Tan Phat was elected Vice Premier of the unified Government.
 *   **Jul. 3, 1976:** Nguyen Thi Binh was appointed Minister of Education of the unified Socialist Republic of Vietnam. She held this position until 1987, directing the integration of the educational systems of the North and the South and overseeing major post-war educational reforms.
 *   **Sep. 14, 1976:** In Tokyo, representatives of the Government of Japan and the Government of the unified Socialist Republic of Vietnam signed a second non-refundable grant agreement worth 5 billion Yen (approx. 17 million USD) to construct a cement plant and provide industrial equipment. This brought the total post-war reconstruction assistance package to 13.5 billion Yen (approx. 45 million USD at the time), thereby formally concluding historical wartime compensation claims from World War II and advancing bilateral development cooperation.
@@ -3883,6 +3931,10 @@
 * **2020:** Hero of the People's Armed Forces Nguyễn Văn Chánh (Trung tá, nguyên Phó chỉ huy trưởng động viên, Ban chỉ huy quân sự quận Thủ Đức. Tham gia trận đánh sân bay Biên Hòa, tiêu diệt nhiều sinh lực địch, phá hủy nhiều xe quân sự) passed away.
 * **2020:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyen Van Tan (soldier of the People's Armed Forces of Bac Kan province with outstanding combat achievements).
 *   **2020:** Under the proactive steering of Prime Minister Nguyen Xuan Phuc, Vietnam successfully achieved the "Dual Goal": resolutely combating the COVID-19 pandemic to safeguard lives while sustaining economic recovery to post a GDP growth of 2.91% (among the highest globally during the pandemic); simultaneously fulfilling the roles of ASEAN Chair 2020 and non-permanent member of the UN Security Council.
+
+![Historical Image](images/event_20260924_124313.webp)
+
+*Source: Chemical troops disinfecting Bach Mai Hospital in March 2020 (Photo: Truyen Hinh Phap Luat / CC BY 3.0)*
 *   **Jan. 1, 2020:** Vietnam assumed the roles of ASEAN Chair 2020 and non-permanent member of the UN Security Council.
 *   **Jan. 23, 2020:** The first COVID-19 case was recorded in Vietnam.
 *   **Feb. 2020:** Fulfilling the dying wish of the devoted French scholar, Georges Boudarel's remaining ashes were brought to Vietnam by his friends and scattered into the Be River (former War Zone D) and the Red River (Hanoi), symbolizing his eternal bond with his "second homeland".

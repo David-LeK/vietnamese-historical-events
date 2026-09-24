@@ -260,6 +260,10 @@
 *   **07/02/981 (Tất niên Canh Thìn):** Trận sông Lục Đầu (Bình Lỗ). Lê Đại Hành cùng các tướng Trần Công Tích, Trần Bảo Trung đánh bại thủy lục quân Tống, buộc địch rút về Bạch Đằng.
 *   **11/04/981:** Thủy quân và lục quân tăng viện của Tống do Lưu Trừng, Trần Khâm Tộ chỉ huy tới Bạch Đằng.
 *   **28/04/981:** Trận Bạch Đằng lần thứ hai. Lê Đại Hành dụ Hầu Nhân Bảo tiến vào trận địa mai phục và tiêu diệt. Hầu Nhân Bảo tử trận. Quân Tống tháo chạy, đạo quân Trần Khâm Tộ bị truy kích tiêu diệt quá nửa tại Tây Kết.
+
+![Hình ảnh tư liệu](images/event_20260924_124302.webp)
+
+*Nguồn: Bãi cọc Bạch Đằng, Quảng Yên – di tích trận địa cọc năm 981 chống quân Tống (Ảnh: Goodmorninghpvn / Public domain)*
 *   **982:** Vua Lê Đại Hành thân chinh chỉ huy thủy bộ binh tiến đánh Chiêm Thành sau khi vua Chiêm giam giữ sứ thần Đại Cồ Việt; chém vua Chiêm Bê Mị Thuế (Paramesvaravarman I) tại trận, bình định kinh thành Indrapura (Đồng Dương) và giải cứu các sứ giả.
 *   **983:** Lê Đại Hành ra lệnh đào kênh Bà Hòa (Thanh Hóa) và kênh Đa Cái (Nghệ An) để thuận tiện cho việc vận chuyển quân lương và giao thông đường thủy. Vua Lê Đại Hành rút đại quân về Hoa Lư, lưu lại một đạo quân trú phòng tại miền bắc Chiêm Thành (từ Hoành Sơn đến mũi Varella) do Quản giáp **Lưu Kế Tông** chỉ huy.
 *   **02/984:** Triều Tiền Lê cho đúc tiền Thiên Phúc.
@@ -793,6 +797,10 @@
 *   **1428:** Vua Lê Thái Tổ hạ chiếu cho các địa phương trong cả nước dựng nhà học để dạy dỗ nhân tài, tái thiết cơ sở hạ tầng giáo dục sau cuộc chiến tranh giải phóng.
 *   **1428:** Vua Lê Thái Tổ xuống chiếu định chế độ tiền tệ và cho đúc đồng tiền "Thuận Thiên thông bảo" bằng đồng, thiết lập hệ thống lưu thông tiền tệ độc lập đầu tiên của triều Hậu Lê.
 *   **1428 (Mậu Thân):** Theo truyền thuyết lịch sử ghi chép trong *Lam Sơn thực lục*, khi vua Lê Thái Tổ du thuyền trên hồ Tả Vọng (Đông Kinh), rùa vàng nổi lên mặt nước đòi lại thanh gươm báu Thuận Thiên mà thần Kim Quy đã trao mượn đánh giặc Minh. Nhà vua rút gươm trao trả cho rùa thần và đổi tên hồ thành **hồ Hoàn Kiếm** (Hồ Gươm), tạo nên biểu tượng thiêng liêng về khát vọng hòa bình của dân tộc Việt Nam sau mười năm kháng chiến gian khổ.
+
+![Hình ảnh tư liệu](images/event_20260924_124303.webp)
+
+*Nguồn: Tháp Rùa trên hồ Hoàn Kiếm, Hà Nội (Ảnh: Nguyễn Thành Lam / CC BY 2.0)*
 *   **01/1428 (16/12 năm Đinh Mùi):** Các tướng Minh là Vương Thông, Mã Anh... chính thức xin hàng và xin rút quân về nước.
 *   **03/01/1428:** Những tên lính Minh cuối cùng rút khỏi bờ cõi. Đất nước hoàn toàn giải phóng.
 *   **02/1428:** Vua bù nhìn Trần Cảo do Lê Lợi lập lên đã tự sát sau khi mưu trốn sang Ngọc Ma thất bại.
@@ -1125,6 +1133,10 @@
 *   **15/06/1786:** Quân Tây Sơn lợi dụng đêm tối và nước thủy triều dâng cao, bất ngờ tấn công và hạ thành Phú Xuân. Tướng Trịnh là Hoàng Đình Thể chiến đấu đến khi hết đạn rồi tử trận, còn trấn thủ Phạm Ngô Cầu mở cửa thành đầu hàng. Thắng lợi này đã tiêu diệt hoàn toàn lực lượng quân Trịnh ở phía nam sông Gianh.
 *   **17/07/1786:** Trận Sơn Nam. Nguyễn Huệ dùng kế tâm lý chiến, cho những người nộm rơm lên thuyền để dụ địch bắn tên đạn. Khi quân Trịnh cạn kiệt đạn dược, thủy quân và tinh binh Tây Sơn đồng loạt tấn công, đánh tan quân Trịnh và chiếm được trấn Sơn Nam.
 *   **21/07/1786:** Quân Tây Sơn tiến vào Thăng Long sau một chiến dịch thần tốc, lật đổ hoàn toàn nền thống trị hơn 200 năm của họ Trịnh. Chúa Trịnh Tông tìm đường bỏ trốn nhưng bị người dân bắt giữ, sau đó đã dùng dao tự sát. Thắng lợi này cùng việc lật đổ chúa Nguyễn ở Đàng Trong (1777) đã xóa bỏ ranh giới chia cắt Đàng Trong - Đàng Ngoài kéo dài hơn hai thế kỷ, bước đầu tái lập nền thống nhất đất nước.
+
+![Hình ảnh tư liệu](images/event_20260924_124305.webp)
+
+*Nguồn: Tượng đài Quang Trung tại Bảo tàng Quang Trung, Tây Sơn, Bình Định (Ảnh: Liftold / CC BY-SA 3.0)*
 *   **10/08/1786 (17/07 năm Bính Ngọ):** Vua Lê Hiển Tông băng hà. Lê Duy Kỳ (Lê Chiêu Thống) lên nối ngôi.
 *   **10/10/1786 (19/09 năm Bính Ngọ):** Trịnh Bồng được lập làm Án Đô Vương nhưng vấp phải sự chống đối của vua Lê Chiêu Thống và các phe phái.
 *   **Cuối 1786:** Nguyễn Huệ được vua Lê gả công chúa Ngọc Hân. Anh em Tây Sơn chia nhau cai quản đất nước: Nguyễn Nhạc là Trung ương Hoàng đế (từ Quảng Nam vào Bình Thuận), Nguyễn Huệ là Bắc Bình vương (cai quản Thuận Hóa từ đèo Hải Vân ra Bắc), Nguyễn Lữ là Đông Định vương (cai quản vùng Gia Định).
@@ -1219,6 +1231,10 @@
 *   **06/1802:** Sau khi thành Bình Định thất thủ, Nguyễn Ánh chính thức lên ngôi Hoàng đế ở Phú Xuân, đặt niên hiệu là Gia Long.
 *   **16/06/1802:** Trên đường rút chạy ra Bắc, tại Xương Giang, Đô đốc Tuyết (Nguyễn Văn Tuyết) tử trận khi bảo vệ vua Cảnh Thịnh. Thái hậu Bùi Thị Nhạn cùng các nữ tướng Trần Thị Lan, Nguyễn Thị Dung đều tự sát để giữ tròn khí tiết.
 *   **20/07/1802:** Nguyễn Ánh tiến vào thành Thăng Long, kế thừa thành quả thống nhất non sông của phong trào Tây Sơn, hoàn thành việc củng cố và xác lập nền thống nhất đất nước về mặt hành chính, chính thức chấm dứt triều đại Tây Sơn. Trước đó, quân Nguyễn đã bắt người dân Bắc Hà đóng góp nhiều khoản nặng nề. Vua Cảnh Thịnh bị bắt. Gia Long ra lệnh đào mộ Nguyễn Nhạc, Nguyễn Huệ, giã nát hài cốt rồi vứt đi, còn xương đầu thì bỏ vào ngục tối. Sự kiện này mở đầu cho triều đại nhà Nguyễn cai trị một nước Việt Nam thống nhất toàn vẹn từ Bắc chí Nam.
+
+![Hình ảnh tư liệu](images/event_20260924_124314.webp)
+
+*Nguồn: Đoan Môn, Hoàng thành Thăng Long, Hà Nội (Ảnh: Ahia / CC BY 2.0)*
 *   **08/1802:** Vua Gia Long sai biên soạn và ban hành 15 điều luật đầu tiên về kiện tụng.
 *   **20/11/1802 (06/11 năm Nhâm Tuất):** Vua Gia Long cử hành đại lễ hiến hung tại Thái miếu (Phú Xuân), xử tử vua Cảnh Thịnh (Nguyễn Quang Toản) cùng tôn thất Tây Sơn và các đại tướng triều trước. Danh tướng **Trần Quang Diệu** bị xử trảm, nữ tướng **Bùi Thị Xuân** và con gái bị voi giày. Sự kiện này chính thức khép lại hoàn toàn 24 năm trị vì của vương triều Tây Sơn.
 *   **1803:** Vua Gia Long ra lệnh đắp lại **Thành Thăng Long** (Hà Nội). Vua định lệ lương bổng cho quan và quân ở Bắc thành. Triều đình thiết lập Tràng Tiền tại Thăng Long để đúc tiền "Gia Long thông bảo".
@@ -1427,6 +1443,10 @@
 *   **1864:** Đạo **Hà Tĩnh** được tách ra và đặt làm một đạo riêng biệt, không còn lệ thuộc vào Nghệ An.
 *   **Năm 1864 (Tự Đức thứ 17):** Bùi Viện và em trai là Bùi Phủng cùng thi đỗ tú tài.
 *   **20/08/1864:** Đêm 19 rạng sáng 20/08/1864, do tên phản bội Huỳnh Công Tấn dẫn đường, quân Pháp bất ngờ bao vây đánh úp căn cứ Kiểng Phước (Gò Công). Trương Định cùng các nghĩa sĩ chiến đấu dũng cảm đến cùng; sau khi bị trúng đạn gãy xương sống, để bảo toàn khí tiết và không để rơi vào tay giặc, Bình Tây Đại nguyên soái Trương Định đã rút gươm tuẫn tiết tại Ao Dinh (Gò Công) ở tuổi 44.
+
+![Hình ảnh tư liệu](images/event_20260924_124306.webp)
+
+*Nguồn: Đền và mộ Trương Định, Gò Công, Tiền Giang (Ảnh: Bùi Thụy Đào Nguyên / CC BY-SA 3.0)*
 *   **15/04/1865:** Tờ báo tiếng Việt đầu tiên sử dụng chữ Quốc ngữ là *Gia Định báo*, được ra mắt tại Sài Gòn.
 *   **05/1865:** Triều đình mở khoa thi Tiến sĩ võ đầu tiên để tuyển chọn nhân tài quân sự.
 *   **11/1865:** Triều đình mở khoa thi Nhã sĩ để kén chọn những người văn học rộng rãi, phẩm hạnh thuần chính.
@@ -1445,6 +1465,10 @@
 *   **16 - 21/06/1868:** Nghĩa quân Nguyễn Trung Trực đánh chiếm và làm chủ thành Rạch Giá trong 5 ngày trước khi bị quân Pháp tăng viện đàn áp.
 *   **07/1868:** Triều đình mua chiếc tàu lớn bọc đồng chạy bằng hơi nước, đặt tên là Mẫn Thỏa, tăng cường trang bị kỹ thuật phương Tây.
 *   **27/10/1868:** Anh hùng Nguyễn Trung Trực bị thực dân Pháp đưa đi hành quyết tại Rạch Giá (Kiên Giang), để lại câu nói bất hủ: *"Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây"*.
+
+![Hình ảnh tư liệu](images/event_20260924_124307.webp)
+
+*Nguồn: Đền thờ Nguyễn Trung Trực, Rạch Giá, Kiên Giang (Ảnh: Bùi Thụy Đào Nguyên / CC BY-SA 3.0)*
 *   **02/1869:** Chữ quốc ngữ được quy định dùng bắt buộc thay chữ Nho trong công văn ở Nam Kỳ, theo nghị định của Phó đô đốc Marie Gustave Hector Ohier.
 *   **16/05/1869:** Thống đốc Nam Kỳ Ohier ký nghị định chuyển giao tờ báo *Gia Định báo* cho Trương Vĩnh Ký làm Giám đốc (Chánh tổng tài) cùng Huỳnh Tịnh Của làm Chủ bút. Đây là mốc lịch sử đưa *Gia Định báo* trở thành cơ quan ngôn luận đầu tiên do người Việt điều hành, chuyển từ tính chất công báo hành chính sang tờ báo văn hóa - xã hội, góp phần quyết định vào việc truyền bá và chuẩn hóa chữ Quốc ngữ.
 *   **1870:** Nghĩa quân Trương Quyền (con trai Trương Định) phối hợp chặt chẽ với lực lượng của Pu Kom Pô mở rộng phong trào kháng chiến chống thực dân Pháp dọc biên giới Tây Nam Bộ (Tây Ninh, Châu Đốc), thể hiện tinh thần liên minh đoàn kết chiến đấu chống ngoại xâm của nhân dân hai nước.
@@ -1611,6 +1635,10 @@
 *   **1904:** Tại Paris (Pháp), cựu hoàng Hàm Nghi (lấy nghệ danh **Tử Xuân** / Prince d'Annam) tham gia triển lãm tác phẩm tại Bảo tàng Guimet (Musée Guimet), giới thiệu các bức họa phấn màu và tác phẩm điêu khắc theo trường phái Ấn tượng sau thời gian thọ giáo các danh họa Marius Reynaud và nhà điêu khắc lừng danh Auguste Rodin, trở thành nghệ sĩ tạo hình hiện đại đầu tiên của Việt Nam có tác phẩm được đón nhận tại phương Tây.
 *   **Cuối năm 1904:** Phan Châu Trinh, Trần Quý Cáp và Huỳnh Thúc Kháng cùng nhau Nam du. Tại Bình Định, các ông mượn kỳ thi hạch để làm bài thơ *Chí thành thông thánh* và bài phú *Lương ngọc danh sơn*, đả kích lối học từ chương.
 *   **1905:** Phong trào Đông du do Phan Bội Châu khởi xướng bắt đầu, đưa thanh niên yêu nước sang Nhật Bản học tập. Phan Bội Châu viết tác phẩm *Việt Nam vong quốc sử*.
+
+![Hình ảnh tư liệu](images/event_20260924_124308.webp)
+
+*Nguồn: Chân dung Phan Bội Châu / Wikimedia Commons (Public domain)*
 *   **1905:** Quyền Thống đốc Nam Kỳ Outrey tăng thuế điền thổ lên 100%, khiến các đại biểu người Việt trong Hội đồng Quản hạt từ chức.
 *   **1905:** Ông Nguyễn Trọng Lợi mở hội Thanh niên thể dục và trường Dục Anh tại Bình Thuận để dạy học theo tinh thần mới.
 *   **14/11/1905:** Sắc lệnh thành lập Nha Học chính Đông Dương, bắt đầu cuộc cải cách giáo dục lần thứ nhất.
@@ -1791,6 +1819,10 @@
 *   **02/1926:** Được sự giới thiệu của đồng chí Nguyễn Ái Quốc, Lê Hồng Phong được kết nạp vào Đảng Cộng sản Trung Quốc khi đang theo học tại Trường Hàng không Quân sự Quảng Châu.
 *   **21/03/1926:** Đảng Thanh niên Việt Nam (Jeune Annam) được thành lập.
 *   **24/03/1926:** Phan Châu Trinh qua đời tại Sài Gòn.
+
+![Hình ảnh tư liệu](images/event_20260924_124309.webp)
+
+*Nguồn: Chân dung Phan Châu Trinh năm 37 tuổi / Wikimedia Commons (Public domain)*
 *   **24/03/1926:** Nhà yêu nước, nhà báo Nguyễn An Ninh bị thực dân Pháp bắt giữ tại Sài Gòn, làm bùng lên làn sóng biểu tình, mít tinh và bãi khóa sôi nổi của học sinh, sinh viên và thanh niên Nam Kỳ đòi trả tự do cho ông.
 *   **04/04/1926:** Lễ quốc táng chí sĩ Phan Chu Trinh được tổ chức trọng thể tại Sài Gòn với sự tham gia của hơn 14 vạn người, biến thành cuộc biểu tình chính trị và biểu dương lực lượng quần chúng rộng lớn, châm ngòi cho phong trào bãi khóa và lễ truy điệu cụ Phan lan rộng khắp ba kỳ.
 *   **04/09/1926:** Nghị định thành lập các Ngân hàng Nông phố bình dân (Tín dụng nông nghiệp) ở Bắc Kỳ.
@@ -2724,6 +2756,10 @@
 *   **1964:** Anh hùng Núp (Đinh Núp) sang thăm Cuba. Lãnh tụ Fidel Castro đã gửi tặng Chủ tịch Hồ Chí Minh một hộp xì gà Cuba và nhờ Anh hùng Núp chuyển lời khẳng định Cuba luôn sát cánh cùng Việt Nam.
 *   **1964:** Út Tịch được kết nạp vào Đảng Nhân dân cách mạng miền Nam.
 *   **1964 - 1967:** Sau Sự kiện Vịnh Bắc Bộ, dù đã gần 60 tuổi, Mẹ Suốt vẫn xung phong chèo đò ngang qua sông Nhật Lệ (Quảng Bình) dưới làn mưa bom bão đạn của không quân Mỹ. Bà đã vận chuyển an toàn hàng ngàn lượt cán bộ, thương binh và vũ khí, ước tính mỗi năm thực hiện tới 1.400 chuyến đò.
+
+![Hình ảnh tư liệu](images/event_20260924_124310.webp)
+
+*Nguồn: Tượng Mẹ Suốt bên sông Nhật Lệ, Đồng Hới, Quảng Bình (Ảnh: Linhcandng / CC BY-SA 3.0)*
 *   **1964:** Xưởng phim Hà Nội phối hợp cùng Điện ảnh Quân đội nhân dân Việt Nam sản xuất bộ phim "Người chiến sĩ trẻ", khắc họa chân thực và sinh động cuộc đời cũng như sự hy sinh anh dũng của Cù Chính Lan để giáo dục truyền thống cho thế hệ trẻ.
 *   **1964:** Georges Boudarel cùng vợ (người Việt) và con gái rời Việt Nam sang Praha (Tiệp Khắc) làm việc cho Liên hiệp Công đoàn Thế giới (FSM), trở thành tiếng nói đại diện cho người lao động toàn cầu qua các chương trình tiếng Pháp.
 * **1964:** Liệt sĩ Ngô Quang Nhã (Chiến sĩ du kích xã Châu Thới. Tham gia 44 trận đánh, diệt và làm thiệt hại 30 xe quân sự, diệt 4 đồn, giải phóng 2 xã, thu nhiều vũ khí quân trang, quân dụng. Hy sinh trong cuộc tập kích vào đoàn xe địch trên đoạn cầu Phú Giáo năm 1964) anh dũng hy sinh trong khi thực hiện nhiệm vụ chiến đấu bảo vệ Tổ quốc.
@@ -2737,6 +2773,10 @@
 *   **05/05/1964:** Bộ Thương mại Hoa Kỳ ban hành lệnh cấm vận thương mại toàn diện đối với Việt Nam Dân chủ Cộng hòa theo Đạo luật Giao dịch với Kẻ thù (Trading with the Enemy Act), đóng băng các giao dịch thương mại và tài chính.
 *   **18/06/1964:** Ông Nguyễn Văn Nguy (chồng của bà Lê Thị Tuyết ở Trà Cú) hy sinh tại mặt trận xã Đôn Châu.
 *   **02-04/08/1964:** Mỹ dựng lên **"Sự kiện Vịnh Bắc Bộ"** làm cớ để leo thang chiến tranh.
+
+![Hình ảnh tư liệu](images/event_20260924_124301.webp)
+
+*Nguồn: Tàu phóng lôi P-4 trúng đạn pháo từ tàu khu trục USS Maddox ngày 02/08/1964 (Ảnh: Hải quân Hoa Kỳ / Public domain)*
 *   **05/08/1964:** Không quân Mỹ lần đầu tiên ném bom bắn phá một số nơi ở miền Bắc (chiến dịch Mũi tên xuyên - Pierce Arrow). Quân dân miền Bắc đánh trả quyết liệt, bắn rơi 8 máy bay Mỹ, bắt sống phi công Everett Alvarez, tù binh phi công Mỹ đầu tiên tại miền Bắc.
 *   **07 - 11/08/1964:** Sau Sự kiện Vịnh Bắc Bộ, hơn 20 triệu người dân tại nhiều địa phương của Trung Quốc đã xuống đường tuần hành thị uy, mạnh mẽ ủng hộ Việt Nam chống đế quốc Mỹ.
 *   **10/08/1964:** Nguyễn Văn Trỗi bị Tòa án Quân sự ngụy quyền Sài Gòn kết án tử hình. Tại tòa, ông hiên ngang nhận hết trách nhiệm và khẳng định: "Tôi giết bọn cướp nước tôi" và "Tôi chỉ tiếc rằng chưa giết được McNamara".
@@ -2776,6 +2816,10 @@
 *   **01 - 09/03/1965:** Hội nghị Nhân dân Đông Dương họp tại Phnom Penh theo sáng kiến của Quốc trưởng Campuchia Norodom Sihanouk, quy tụ đại biểu của Mặt trận Tổ quốc Việt Nam, Mặt trận Dân tộc Giải phóng miền Nam Việt Nam, Mặt trận Lào Yêu nước và các lực lượng tiến bộ Campuchia, ra tuyên bố chung đoàn kết chặt chẽ chống đế quốc Mỹ can thiệp và mở rộng chiến tranh ở Đông Dương.
 *   **02/03/1965:** Mỹ bắt đầu chiến dịch không kích "Sấm rền" (Rolling Thunder) đánh phá miền Bắc một cách có hệ thống.
 *   **08/03/1965:** Lữ đoàn 9 Thủy quân Lục chiến Mỹ đổ bộ vào Đà Nẵng, chính thức đưa quân chiến đấu Mỹ vào miền Nam và mở đầu chiến lược **"Chiến tranh cục bộ"**.
+
+![Hình ảnh tư liệu](images/event_20260924_124311.webp)
+
+*Nguồn: Thủy quân lục chiến Mỹ đổ bộ từ tàu đổ bộ xuống Đà Nẵng ngày 08/03/1965 (Ảnh: USMC Archives / CC BY 2.0)*
 *   **11/03/1965:** **Chiến dịch Market Time (Operation Market Time):** Hải quân Mỹ và ngụy quyền Sài Gòn thành lập Lực lượng Đặc nhiệm 115 phát động Chiến dịch Market Time, thiết lập mạng lưới phong tỏa bờ biển gắt gao dài hàng nghìn hải lý từ vĩ tuyến 17 đến vịnh Thái Lan bằng tàu chiến, radar và máy bay tuần tra nhằm ngăn chặn tuyến chi viện vũ khí của Đường Hồ Chí Minh trên biển vào miền Nam. Bất chấp sự phong tỏa dày đặc và vũ khí tối tân của địch, các chiến sĩ Hải quân Nhân dân Việt Nam thuộc Đoàn tàu Không số vẫn mưu trí, quả cảm vượt qua sóng gió và vòng vây giặc, đưa hàng vạn tấn vũ khí, đạn dược cập bến an toàn tiếp sức cho tiền tuyến miền Nam.
 *   **22/03/1965:** Mặt trận Dân tộc giải phóng miền Nam Việt Nam ra Tuyên bố 5 điểm, khẳng định quyết tâm đánh đuổi đế quốc Mỹ.
 *   **25-27/03/1965:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ 11 (khóa III) xác định nhiệm vụ cấp bách là "chống Mỹ, cứu nước", chuyển miền Bắc sang thời chiến.
@@ -3244,6 +3288,10 @@
     *   Thủ đô là Hà Nội, Quốc kỳ là cờ đỏ sao vàng năm cánh (thống nhất lá cờ chung cho cả nước, hoàn thành vẻ vang sứ mệnh lịch sử 16 năm của lá cờ Giải phóng), Quốc ca là bài *Tiến quân ca*.
     *   Ngày 02/07, chính thức thông qua quyết nghị đặt tên thành phố Sài Gòn - Gia Định là **Thành phố Hồ Chí Minh**, hiện thực hóa hành trình gần 30 năm ấp ủ kể từ lần đề xuất năm 1946.
     *   Bầu các cơ quan và chức vụ lãnh đạo cao nhất của Nhà nước.
+
+![Hình ảnh tư liệu](images/event_20260924_124312.webp)
+
+*Nguồn: Hội trường Ba Đình, Hà Nội (Ảnh: Hector Garcia / CC BY-SA 2.0)*
 *   **07/1976:** Tại kỳ họp thứ nhất Quốc hội khóa VI, Huỳnh Tấn Phát được bầu làm Phó Thủ tướng Chính phủ của nước Việt Nam thống nhất.
 *   **03/07/1976:** Bà Nguyễn Thị Bình được bổ nhiệm làm Bộ trưởng Bộ Giáo dục của nước Cộng hòa Xã hội chủ nghĩa Việt Nam thống nhất. Bà giữ chức vụ này đến năm 1987, chỉ đạo công cuộc hợp nhất hệ thống giáo dục hai miền Nam - Bắc và tiến hành các cuộc cải cách giáo dục thời hậu chiến.
 *   **14/09/1976:** Tại Tokyo, đại diện Chính phủ Nhật Bản và Chính phủ Cộng hòa Xã hội chủ nghĩa Việt Nam thống nhất ký tiếp thỏa thuận viện trợ không hoàn lại đợt hai trị giá 5 tỷ Yên (khoảng 17 triệu USD) để xây dựng nhà máy xi măng và cung cấp thiết bị công nghiệp. Khoản viện trợ này nâng tổng gói hỗ trợ tái thiết kinh tế sau chiến tranh lên 13,5 tỷ Yên (khoảng 45 triệu USD thời giá bấy giờ), qua đó hai bên chính thức khép lại các yêu sách bồi thường lịch sử từ thời Thế chiến II và thúc đẩy hợp tác phát triển song phương.
@@ -3883,6 +3931,10 @@
 * **2020:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Chánh (Trung tá, nguyên Phó chỉ huy trưởng động viên, Ban chỉ huy quân sự quận Thủ Đức. Tham gia trận đánh sân bay Biên Hòa, tiêu diệt nhiều sinh lực địch, phá hủy nhiều xe quân sự) từ trần.
 * **2020:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Tấn (chiến sĩ Lực lượng vũ trang nhân dân tỉnh Bắc Kạn lập nhiều chiến công xuất sắc trong kháng chiến).
 *   **2020:** Dưới sự chỉ đạo quyết liệt của Thủ tướng Chính phủ Nguyễn Xuân Phúc, Việt Nam thực hiện thắng lợi "Mục tiêu kép": vừa kiên cường chống dịch COVID-19 bảo vệ an toàn tính mạng nhân dân, vừa duy trì phục hồi sản xuất kinh doanh đạt tăng trưởng GDP 2,91% (thuộc số ít quốc gia có mức tăng trưởng dương cao nhất thế giới); đồng thời hoàn thành xuất sắc trọng trách Chủ tịch ASEAN 2020 và Ủy viên không thường trực Hội đồng Bảo an Liên Hợp Quốc.
+
+![Hình ảnh tư liệu](images/event_20260924_124313.webp)
+
+*Nguồn: Bộ đội hóa học phun khử khuẩn Bệnh viện Bạch Mai tháng 03/2020 (Ảnh: Truyền Hình Pháp Luật / CC BY 3.0)*
 *   **01/01/2020:** Việt Nam đảm nhận vai trò Chủ tịch ASEAN 2020 và Ủy viên không thường trực HĐBA.
 *   **23/01/2020:** Ghi nhận ca bệnh COVID-19 đầu tiên tại Việt Nam.
 *   **02/2020:** Thực hiện di nguyện của nhà Việt học tận tụy, phần di cốt còn lại của Georges Boudarel được bạn bè đưa về Việt Nam và rải xuống dòng sông Bé (Chiến khu Đ cũ) và sông Hồng (Hà Nội), hòa quyện mãi mãi vào mảnh đất mà ông coi là quê hương thứ hai.
