@@ -7,6 +7,7 @@ Usage:
     python timeline_cli.py get EVT-0001 [--lang vi|en|both]
     python timeline_cli.py list-missing-source [--limit 30 | --all]
     python timeline_cli.py set-source EVT-0001 --vi "[Nguồn: ...]" --en "[Source: ...]"
+    python timeline_cli.py add-image EVT-0001 --path images/event_x.webp --vi-caption "..." --en-caption "..."
     python timeline_cli.py add --date-vi "..." --date-en "..." --vi "..." --en "..." [--source-vi ...] [--source-en ...]
 
 Conventions (see AGENTS.md):
@@ -34,6 +35,8 @@ ID_RE = re.compile(r'<!--\s*id:\s*([A-Za-z0-9_-]+)\s*-->')
 CITE_LINE = re.compile(r'^\[(?:Nguồn|Source)\s*:\s*(.*?)\]\s*$', re.IGNORECASE)
 CITE_TRAIL = re.compile(r'\[(?:Nguồn|Source)\s*:.*?\]\s*$', re.IGNORECASE)
 IMG_RE = re.compile(r'!\[.*?\]\(.*?\)')
+IMG_MD_RE = re.compile(r'^!\[(?P<alt>.*?)\]\((?P<path>.*?)\)\s*$')
+IMG_CREDIT_RE = re.compile(r'^\*(?:Nguồn|Source)\s*:', re.IGNORECASE)
 EVENT_START = re.compile(r'^\*\s+\*\*')
 
 
@@ -145,6 +148,115 @@ def cmd_set_source(args):
     return 0
 
 
+def add_image_in_block(block, path, alt, caption, is_vi):
+    """Append one image block (markdown tag + monolingual credit) to a block.
+
+    The image tag and its italic credit line are inserted directly beneath the
+    event's last content line and above the trailing blank lines + ID comment,
+    so `sort_timelines.py` keeps them attached to the event. Returns False when
+    the image path is already embedded (idempotent no-op)."""
+    lines = block['lines']
+    path = path.strip().lstrip('/')
+    for l in lines:
+        m = IMG_MD_RE.match(l.strip())
+        if m and m.group('path').lstrip('/') == path:
+            return False
+    id_idx = next((i for i, l in enumerate(lines)
+                   if isinstance(l, str) and ID_RE.search(l)), None)
+    if id_idx is None:
+        raise ValueError('event block has no id comment')
+    start = id_idx
+    while start > 0 and lines[start - 1].strip() == '':
+        start -= 1
+    end = id_idx
+    while end < len(lines) and lines[end].strip() == '':
+        end += 1
+    img_line = '![%s](%s)\n' % (alt.strip(), path)
+    credit = '*%s %s*\n' % ('Nguồn:' if is_vi else 'Source:',
+                            caption.strip().lstrip('*').strip())
+    block['lines'] = (lines[:start]
+                      + ['\n', img_line, '\n', credit, '\n']
+                      + lines[end:])
+    return True
+
+
+def cmd_add_image(args):
+    repo_dir = os.path.dirname(os.path.abspath(__file__))
+    for path, caption, alt, is_vi in ((args.vi, args.vi_caption, args.alt_vi, True),
+                                      (args.en, args.en_caption, args.alt_en, False)):
+        if not os.path.exists(os.path.join(repo_dir, args.path.lstrip('/'))):
+            print('Image not found on disk: %s' % args.path)
+            return 1
+        blocks = parse_blocks(path)
+        evs = [b for b in blocks if b['type'] == 'event']
+        target = next((b for b in evs
+                       if any(isinstance(l, str) and ID_RE.search(l)
+                              and ID_RE.search(l).group(1) == args.eid
+                              for l in b['lines'])), None)
+        if target is None:
+            print('%s not found in %s' % (args.eid, path))
+            return 1
+        if not add_image_in_block(target, args.path, alt, caption, is_vi):
+            print('%s already embeds %s in %s (no change)'
+                  % (args.eid, args.path, path))
+            continue
+        with open(path, 'w', encoding='utf-8') as f:
+            for b in blocks:
+                f.writelines(b['lines'])
+        print('Added %s to %s' % (args.path, path))
+    run_quiet_verify()
+    return 0
+
+
+def remove_image_from_block(block, path=None):
+    """Detach an image (markdown tag + its italic credit + separating blank).
+
+    `path=None` removes every image in the block. Returns False when nothing
+    matched. Description text, citation and ID comment are never touched."""
+    lines = block['lines']
+    drop = set()
+    for i, l in enumerate(lines):
+        m = IMG_MD_RE.match(l.strip()) if isinstance(l, str) else None
+        if not m:
+            continue
+        if path is not None and m.group('path').lstrip('/') != path.strip().lstrip('/'):
+            continue
+        j = i + 1
+        while j < len(lines) and lines[j].strip() == '':
+            j += 1
+        if j < len(lines) and IMG_CREDIT_RE.match(lines[j].strip()):
+            j += 1
+            while j < len(lines) and lines[j].strip() == '':
+                j += 1
+        drop.update(range(i, j))
+    if not drop:
+        return False
+    block['lines'] = [l for k, l in enumerate(lines) if k not in drop]
+    return True
+
+
+def cmd_remove_image(args):
+    for path in (args.vi, args.en):
+        blocks = parse_blocks(path)
+        evs = [b for b in blocks if b['type'] == 'event']
+        target = next((b for b in evs
+                       if any(isinstance(l, str) and ID_RE.search(l)
+                              and ID_RE.search(l).group(1) == args.eid
+                              for l in b['lines'])), None)
+        if target is None:
+            print('%s not found in %s' % (args.eid, path))
+            return 1
+        if not remove_image_from_block(target, args.path):
+            print('%s has no matching image in %s' % (args.eid, path))
+            continue
+        with open(path, 'w', encoding='utf-8') as f:
+            for b in blocks:
+                f.writelines(b['lines'])
+        print('Removed image from %s in %s' % (args.eid, path))
+    run_quiet_verify()
+    return 0
+
+
 def next_id(vi_path, en_path):
     taken = set()
     for path in (vi_path, en_path):
@@ -211,6 +323,24 @@ def main(argv=None):
     ss.add_argument('--vi-cite', default=None)
     ss.add_argument('--en-cite', default=None)
 
+    ai = sub.add_parser('add-image',
+                        help='Attach an already-stored image to one event by stable ID')
+    ai.add_argument('eid')
+    ai.add_argument('--path', required=True,
+                    help='Repo-relative image path, e.g. images/event_20260925_230128.webp')
+    ai.add_argument('--vi-caption', required=True,
+                    help='Vietnamese image credit, WITHOUT the "*Nguồn: ...*" wrapper')
+    ai.add_argument('--en-caption', required=True,
+                    help='English image credit, WITHOUT the "*Source: ...*" wrapper')
+    ai.add_argument('--alt-vi', default='Hình ảnh tư liệu')
+    ai.add_argument('--alt-en', default='Historical Image')
+
+    ri = sub.add_parser('remove-image',
+                        help='Detach an embedded image from one event by stable ID')
+    ri.add_argument('eid')
+    ri.add_argument('--path', default=None,
+                    help='Image path to remove; omit to detach every image in the event')
+
     ad = sub.add_parser('add', help='Add a new event pair, then sort + verify')
     ad.add_argument('--date-vi', required=True)
     ad.add_argument('--date-en', required=True)
@@ -231,6 +361,10 @@ def main(argv=None):
         return cmd_set_source(args)
     elif args.cmd == 'add':
         return cmd_add(args)
+    elif args.cmd == 'add-image':
+        return cmd_add_image(args)
+    elif args.cmd == 'remove-image':
+        return cmd_remove_image(args)
     return 0
 
 
