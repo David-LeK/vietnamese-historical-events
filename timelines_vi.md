@@ -5477,7 +5477,7 @@
 *   **Đầu năm 1943:** Dưới sự chỉ đạo của Chi bộ Nhà tù Sơn La, tổ chức "Đoàn thanh niên Thái cứu quốc" (hay Thanh niên cứu quốc Mường La) được thành lập nhằm tập hợp thanh niên tham gia cách mạng. Lò Văn Giá đã gia nhập tổ chức này, trở thành một quần chúng ưu tú bên ngoài nhà tù.
 
 <!-- id: EVT-1691 -->
-*   **15/02/1943:** Anh hùng Kim Đồng (Nông Văn Dền), Đội trưởng Đội Nhi đồng Cứu quốc, dũng cảm hy sinh ở tuổi 14 khi làm nhiệm vụ canh gác, đánh lạc hướng quân Pháp để bảo vệ cán bộ cách mạng tại Pắc Bó (Cao Bằng).
+*   **15/02/1943:** Anh hùng Kim Đồng (Nông Văn Dền), Đội trưởng Đội Nhi đồng Cứu quốc, dũng cảm hy sinh ở tuổi 14 khi làm nhiệm vụ canh gác, đánh lạc hướng quân Pháp để bảo vệ cán bộ cách mạng tại Pắc Bó (Cao Bằng). [Nguồn: Bảo tàng Lịch sử Quốc gia - Kim Đồng (1928-1943): Đội trưởng đội đầu tiên của Đội Thiếu niên Tiền phong, https://baotanglichsu.vn/vi/Articles/3096/13247/kim-djong-1928-1943-doi-truong-djoi-dau-tien-cua-doi-thieu-nien-tien-phong.html]
 
 <!-- id: EVT-1692 -->
 *   **24/04/1943:** Báo *Tiếng Dân* của Cụ Huỳnh Thúc Kháng ra số cuối cùng (số 1766) và bị chính quyền thực dân Pháp đình bản vĩnh viễn sau gần 16 năm kiên trì đấu tranh cho quyền lợi của nhân dân.
@@ -5489,7 +5489,7 @@
 *   **27/10/1943:** Bác sĩ Trần Văn Lai bị chính quyền thực dân Pháp bắt giam tại Hỏa Lò, sau đó đày lên nhà tù Sơn La vì các hoạt động yêu nước.
 
 <!-- id: EVT-1695 -->
-*   **01/12/1943:** Tuyên cáo Cairo được công bố bởi Mỹ, Anh và Trung Quốc, khẳng định ý định buộc Nhật Bản trả lại các lãnh thổ đã chiếm đoạt của Trung Hoa Dân quốc (Mãn Châu, Đài Loan, Bành Hồ). Đáng chú ý, quần đảo Hoàng Sa và Trường Sa không được nhắc đến trong bản tuyên cáo này để trả lại cho Trung Quốc.
+*   **01/12/1943:** Tuyên cáo Cairo được công bố bởi Mỹ, Anh và Trung Quốc, khẳng định ý định buộc Nhật Bản trả lại các lãnh thổ đã chiếm đoạt của Trung Hoa Dân quốc (Mãn Châu, Đài Loan, Bành Hồ). Đáng chú ý, quần đảo Hoàng Sa và Trường Sa không được nhắc đến trong bản tuyên cáo này để trả lại cho Trung Quốc. [Nguồn: Bảo tàng Lịch sử Quốc gia - Tuyên ngôn Cairo (1/12/1943), https://baotanglichsu.vn/vi/Articles/3097/16501/tuyen-ngon-cairo-1-12-1943.html]
 
 <!-- id: EVT-1696 -->
 *   **1944:** Ở tuổi 13, sau khi cha mất, Nguyễn Thị Út (Út Tịch) với sự hỗ trợ của cán bộ Việt Minh đã chuộc thân khỏi gia đình địa chủ Hàm Giỏi, thoát khỏi cảnh nô tỳ.
@@ -5507,10 +5507,10 @@
 *   **30/06/1944:** Đảng Dân chủ Việt Nam được thành lập, tập hợp tầng lớp tư sản dân tộc và trí thức yêu nước tham gia Mặt trận Việt Minh.
 
 <!-- id: EVT-1701 -->
-*   **10/1944 - 05/1945:** Nạn đói năm Ất Dậu bùng phát dữ dội tại miền Bắc và Bắc Trung Bộ Việt Nam do chính sách vơ vét lương thực của thực dân Pháp và phát xít Nhật cùng thiên tai bão lũ, làm khoảng 2 triệu người dân tử vong.
+*   **10/1944 - 05/1945:** Nạn đói năm Ất Dậu bùng phát dữ dội tại miền Bắc và Bắc Trung Bộ Việt Nam do chính sách vơ vét lương thực của thực dân Pháp và phát xít Nhật cùng thiên tai bão lũ, làm khoảng 2 triệu người dân tử vong. [Nguồn: Bảo tàng Lịch sử Quốc gia - Nạn đói năm Ất Dậu (1945), https://baotanglichsu.vn/vi/Articles/3097/16584/nan-djoi-nam-at-dau-1945.html]
 
 <!-- id: EVT-1702 -->
-*   **11/1944:** Nhạc sĩ Văn Cao sáng tác hoàn thành hành khúc **"Tiến quân ca"** tại căn gác số 45 phố Nguyễn Thượng Hiền (Hà Nội) sau khi nhận nhiệm vụ từ đồng chí Vũ Quý (cán bộ Việt Minh phụ trách Văn hóa Cứu quốc). Sau đó, chính Văn Cao tự tay viết lời và nhạc lên đá in để phát hành trên báo *Độc Lập*, trở thành bài ca hiệu triệu quân dân cả nước đứng lên tổng khởi nghĩa.
+*   **11/1944:** Nhạc sĩ Văn Cao sáng tác hoàn thành hành khúc **"Tiến quân ca"** tại căn gác số 45 phố Nguyễn Thượng Hiền (Hà Nội) sau khi nhận nhiệm vụ từ đồng chí Vũ Quý (cán bộ Việt Minh phụ trách Văn hóa Cứu quốc). Sau đó, chính Văn Cao tự tay viết lời và nhạc lên đá in để phát hành trên báo *Độc Lập*, trở thành bài ca hiệu triệu quân dân cả nước đứng lên tổng khởi nghĩa. [Nguồn: Bảo tàng Lịch sử Quốc gia - "Tiến quân ca": bài hát trở thành Quốc ca Việt Nam, https://baotanglichsu.vn/vi/Articles/3091/70734/tien-quan-ca-bai-hat-tro-thanh-quoc-ca-viet-nam.html]
 
 <!-- id: EVT-1703 -->
 *   **Cuối năm 1944 - Đầu năm 1945:** Tiếp tục dưới sự chỉ đạo của Xứ ủy Bắc Kỳ và Chi bộ Nhà tù Sơn La, phong trào cách mạng tại Sơn La đã phát triển được 60 cơ sở trong toàn tỉnh. Hội "Người Thái cứu quốc" (Côn tay chất mương) được thành lập, lấy cảm hứng từ tấm gương hy sinh anh dũng của Lò Văn Giá.
@@ -5523,7 +5523,7 @@
 *Nguồn: Ảnh tư liệu lịch sử 1944 / Wikimedia Commons*
 
 <!-- id: EVT-1705 -->
-*   **25 - 26/12/1944:** Đội Việt Nam Tuyên truyền Giải phóng quân do đồng chí Võ Nguyên Giáp trực tiếp chỉ huy đánh thắng hai trận đầu tiên: mưu trí cải trang tập kích đồn Phai Khắt (chiều 25/12) và đồn Nà Ngần (sáng sớm 26/12) tại Cao Bằng, tiêu diệt hai đồn trưởng, bắt sống toàn bộ binh lính đối phương và thu toàn bộ vũ khí mà không chịu thương vong nào, mở đầu truyền thống vẻ vang "trận đầu đánh thắng" của quân đội.
+*   **25 - 26/12/1944:** Đội Việt Nam Tuyên truyền Giải phóng quân do đồng chí Võ Nguyên Giáp trực tiếp chỉ huy đánh thắng hai trận đầu tiên: mưu trí cải trang tập kích đồn Phai Khắt (chiều 25/12) và đồn Nà Ngần (sáng sớm 26/12) tại Cao Bằng, tiêu diệt hai đồn trưởng, bắt sống toàn bộ binh lính đối phương và thu toàn bộ vũ khí mà không chịu thương vong nào, mở đầu truyền thống vẻ vang "trận đầu đánh thắng" của quân đội. [Nguồn: Bảo tàng Lịch sử Quốc gia - Đội Việt Nam Tuyên truyền Giải phóng quân: Đội quân đầu tiên, https://baotanglichsu.vn/vi/Articles/3097/15699/doi-viet-nam-tuyen-truyen-giai-phong-quan-djoi-quan-djau-tien.html]
 
 <!-- id: EVT-1706 -->
 *   **1945 - 1946:** Nguyễn Văn Lượm (nguyên mẫu "chú bé Lượm") đi hoạt động cách mạng tại Nha Trang và thoát ly gia đình từ đó. Gia đình hoàn toàn bặt tin tức của cậu cho đến tận ngày miền Nam hoàn toàn giải phóng.
@@ -5556,7 +5556,7 @@
 *   **29/03/1945:** Hồ Chí Minh gặp Thiếu tướng Claire Lee Chennault, Chỉ huy trưởng Không đoàn 14 Không lực Lục quân Hoa Kỳ, tại Côn Minh (Trung Quốc), thiết lập mối quan hệ ban đầu giữa Việt Minh và Mỹ.
 
 <!-- id: EVT-1716 -->
-*   **17/04/1945:** Chính phủ bù nhìn Trần Trọng Kim được thành lập dưới sự bảo hộ của Nhật.
+*   **17/04/1945:** Chính phủ bù nhìn Trần Trọng Kim được thành lập dưới sự bảo hộ của Nhật. [Nguồn: Bảo tàng Lịch sử Quốc gia - Chính phủ Trần Trọng Kim (4/1945-8/1945), https://baotanglichsu.vn/vi/Articles/3097/16606/chinh-phu-tran-trong-kim-4-1945-8-1945.html]
 
 <!-- id: EVT-1717 -->
 *   **21/04/1945:** Thanh niên Tiền phong được thành lập.
@@ -5571,7 +5571,7 @@
 *   **04/06/1945:** Khu Giải phóng Việt Bắc chính thức được thành lập. [Nguồn: https://baotintuc.vn/giai-mat/thanh-lap-khu-giai-phong-viet-bac-20140603111600345.htm]
 
 <!-- id: EVT-1721 -->
-*   **17/07 - 02/08/1945:** Hội nghị Pôtxđam quyết định quân Đồng minh sẽ vào Việt Nam giải giáp quân đội Nhật.
+*   **17/07 - 02/08/1945:** Hội nghị Pôtxđam quyết định quân Đồng minh sẽ vào Việt Nam giải giáp quân đội Nhật. [Nguồn: Bảo tàng Lịch sử Quốc gia - Hội nghị Potsdam (17/7-2/8/1945), https://baotanglichsu.vn/vi/Articles/3097/16501/hoi-nghi-potxdam-17-7-2-8-1945.html]
 
 <!-- id: EVT-1722 -->
 *   **20/07/1945:** Bác sĩ Trần Văn Lai chính thức nhậm chức, trở thành Thị trưởng người Việt đầu tiên của Hà Nội dưới thời Đế quốc Việt Nam. Trong chưa đầy một tháng tại vị, ông đã thực hiện các cải cách lịch sử: dùng tiếng Việt làm ngôn ngữ hành chính, đổi tên các đường phố sang tên danh nhân Việt Nam, giật đổ các tượng đài thực dân Pháp, và đặt tên Quảng trường Ba Đình (nơi sau này diễn ra Lễ Độc lập).
@@ -5589,7 +5589,7 @@
 *   **08/1945:** Đinh Thị Vân, lúc này là cán bộ Việt Minh, đã tích cực vận động quần chúng tham gia tổng khởi nghĩa ở hai huyện Xuân Trường và Giao Thủy (Nam Định). Sau Cách mạng tháng Tám, bà tham gia công tác xây dựng chính quyền mới ở địa phương.
 
 <!-- id: EVT-1727 -->
-*   **13-15/08/1945:** Hội nghị toàn quốc của Đảng Cộng sản Đông Dương tại Tân Trào, quyết định phát động Tổng khởi nghĩa giành chính quyền trên cả nước.
+*   **13-15/08/1945:** Hội nghị toàn quốc của Đảng Cộng sản Đông Dương tại Tân Trào, quyết định phát động Tổng khởi nghĩa giành chính quyền trên cả nước. [Nguồn: Bảo tàng Lịch sử Quốc gia - Hội nghị toàn quốc của Đảng tại Tân Trào (14-15/8/1945), https://baotanglichsu.vn/vi/Articles/3097/15698/hoi-nghi-toan-quoc-cua-djang-tai-tan-trao-14-15-8-1945.html]
 
 <!-- id: EVT-1728 -->
 *   **13/08/1945:** Ủy ban Khởi nghĩa toàn quốc ra "Quân lệnh số 1". [Nguồn: https://nhandan.vn/ngay-1381945-uy-ban-khoi-nghia-ra-quan-lenh-so-1-post900415.html]
@@ -5618,13 +5618,13 @@
 *Nguồn: Tổng khởi nghĩa chiếm Bắc Bộ Phủ ngày 19/08/1945 tại Hà Nội (Ảnh: Vũ Năng An / TTXVN / Public domain)*
 
 <!-- id: EVT-1734 -->
-*   **23/08/1945:** Khởi nghĩa thắng lợi ở Huế.
+*   **23/08/1945:** Khởi nghĩa thắng lợi ở Huế. [Nguồn: Bảo tàng Lịch sử Quốc gia - Khởi nghĩa giành chính quyền ở Huế (23/8/1945), https://baotanglichsu.vn/vi/Articles/3097/16631/khoi-nghia-gianh-chinh-quyen-o-hue-23-8-1945.html]
 
 <!-- id: EVT-1735 -->
 *   **24/08/1945:** Huỳnh Tấn Phát thiết kế và chỉ đạo xây dựng Kỳ đài tại ngã tư Nguyễn Huệ - Lê Lợi (Sài Gòn) để ghi danh 11 ủy viên Lâm ủy Nam Bộ.
 
 <!-- id: EVT-1736 -->
-*   **25/08/1945:** Cuộc khởi nghĩa giành chính quyền thắng lợi ở Sài Gòn, có sự tham gia lãnh đạo tích cực của Huỳnh Tấn Phát.
+*   **25/08/1945:** Cuộc khởi nghĩa giành chính quyền thắng lợi ở Sài Gòn, có sự tham gia lãnh đạo tích cực của Huỳnh Tấn Phát. [Nguồn: Bảo tàng Lịch sử Quốc gia - Khởi nghĩa giành chính quyền ở Sài Gòn (25/8/1945), https://baotanglichsu.vn/vi/Articles/3097/16632/khoi-nghia-gianh-chinh-quyen-o-sai-gon-25-8-1945.html]
 
 <!-- id: EVT-1737 -->
 *   **26/08/1945:** Hòa cùng khí thế của Cách mạng tháng Tám, cuộc khởi nghĩa giành chính quyền ở Sơn La đã diễn ra thắng lợi.

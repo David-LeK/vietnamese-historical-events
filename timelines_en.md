@@ -5477,7 +5477,7 @@
 *   **Early 1943:** Under the direction of the Son La Prison Party Cell, the "Thai Youth National Salvation" (Đoàn thanh niên Thái cứu quốc) organization was established to gather patriotic youth. Lò Văn Giá joined this organization, becoming an outstanding mass element supporting the revolution from outside the prison.
 
 <!-- id: EVT-1691 -->
-*   **Feb. 15, 1943:** Hero Kim Dong (Nong Van Den), leader of the Children's Alliance for National Salvation, courageously falls at age 14 while distracting French forces to protect revolutionary cadres in Pac Bo (Cao Bang).
+*   **Feb. 15, 1943:** Hero Kim Dong (Nong Van Den), leader of the Children's Alliance for National Salvation, courageously falls at age 14 while distracting French forces to protect revolutionary cadres in Pac Bo (Cao Bang). [Source: Vietnam National Museum of History - Kim Dong (1928-1943): First Squad Leader of the Vanguard Youth Brigade, https://baotanglichsu.vn/vi/Articles/3096/13247/kim-djong-1928-1943-doi-truong-djoi-dau-tien-cua-doi-thieu-nien-tien-phong.html]
 
 <!-- id: EVT-1692 -->
 *   **Apr. 24, 1943:** The newspaper *Tieng Dan*, founded by Huynh Thuc Khang, published its final issue (Issue No. 1766) before being permanently banned by the French colonial administration after nearly 16 years of persistent advocacy for the people's rights.
@@ -5489,7 +5489,7 @@
 *   **Oct. 27, 1943:** Doctor Tran Van Lai was arrested by the French colonial administration and imprisoned in Hoa Lo, then Son La prison, for his patriotic activities.
 
 <!-- id: EVT-1695 -->
-*   **Dec. 1, 1943:** The Cairo Declaration was issued by the US, UK, and China, affirming the intention to force Japan to return territories stolen from the Republic of China (Manchuria, Taiwan, Penghu). Notably, the Paracel and Spratly Islands were not mentioned in this declaration for return to China.
+*   **Dec. 1, 1943:** The Cairo Declaration was issued by the US, UK, and China, affirming the intention to force Japan to return territories stolen from the Republic of China (Manchuria, Taiwan, Penghu). Notably, the Paracel and Spratly Islands were not mentioned in this declaration for return to China. [Source: Vietnam National Museum of History - The Cairo Declaration (December 1, 1943), https://baotanglichsu.vn/vi/Articles/3097/16501/tuyen-ngon-cairo-1-12-1943.html]
 
 <!-- id: EVT-1696 -->
 *   **1944:** At the age of 13, after her father's death, Nguyen Thi Ut (Ut Tich), with the support of Viet Minh cadres, redeemed herself from a local landlord, escaping her life as a servant.
@@ -5507,10 +5507,10 @@
 *   **Jun. 30, 1944:** The Vietnam Democratic Party was founded, gathering intellectuals and national bourgeoisie to join the Viet Minh Front.
 
 <!-- id: EVT-1701 -->
-*   **Oct. 1944 - May 1945:** The 1944–1945 Ất Dậu Famine struck Northern and North-Central Vietnam due to harsh grain requisitions by French colonialists and Japanese forces alongside severe weather, resulting in approximately 2 million deaths.
+*   **Oct. 1944 - May 1945:** The 1944–1945 Ất Dậu Famine struck Northern and North-Central Vietnam due to harsh grain requisitions by French colonialists and Japanese forces alongside severe weather, resulting in approximately 2 million deaths. [Source: Vietnam National Museum of History - The Great Famine of 1945 (Year of the Rooster), https://baotanglichsu.vn/vi/Articles/3097/16584/nan-djoi-nam-at-dau-1945.html]
 
 <!-- id: EVT-1702 -->
-*   **Nov. 1944:** Composer Van Cao completed the march **"Tien Quan Ca"** (The Marching Song) at 45 Nguyen Thuong Hien Street (Hanoi) upon receiving an assignment from Viet Minh cadre Vu Quy. Van Cao personally lithographed the lyrics and music for publication in the underground newspaper *Doc Lap* (Independence), transforming the march into an inspiring anthem rallying the nation toward the General Uprising.
+*   **Nov. 1944:** Composer Van Cao completed the march **"Tien Quan Ca"** (The Marching Song) at 45 Nguyen Thuong Hien Street (Hanoi) upon receiving an assignment from Viet Minh cadre Vu Quy. Van Cao personally lithographed the lyrics and music for publication in the underground newspaper *Doc Lap* (Independence), transforming the march into an inspiring anthem rallying the nation toward the General Uprising. [Source: Vietnam National Museum of History - "Tien Quan Ca": The Song That Became the National Anthem of Vietnam, https://baotanglichsu.vn/vi/Articles/3091/70734/tien-quan-ca-bai-hat-tro-thanh-quoc-ca-viet-nam.html]
 
 <!-- id: EVT-1703 -->
 *   **Late 1944 - Early 1945:** Continuing under the direction of the Tonkin Party Committee (Xu uy Bac Ky) and the Son La Prison Party Cell, the revolutionary movement in Son La expanded to 60 bases across the province. The "Thai National Salvation" Association (Con tay chat muong) was established, drawing strength from Lo Van Gia's heroic sacrifice.
@@ -5523,7 +5523,7 @@
 *Source: Historical file photo, 1944 / Wikimedia Commons*
 
 <!-- id: EVT-1705 -->
-*   **Dec. 25-26, 1944:** The Vietnam Propaganda and Liberation Army under the direct command of Vo Nguyen Giap achieved resounding victories in its first two battles: disguising troops to launch surprise attacks on the French posts of Phai Khat (afternoon of Dec. 25) and Na Ngan (early morning of Dec. 26) in Cao Bang, killing both post commanders, capturing all enemy garrison troops, and seizing all weaponry without suffering a single casualty, establishing the army's proud tradition of "victorious in the first battle".
+*   **Dec. 25-26, 1944:** The Vietnam Propaganda and Liberation Army under the direct command of Vo Nguyen Giap achieved resounding victories in its first two battles: disguising troops to launch surprise attacks on the French posts of Phai Khat (afternoon of Dec. 25) and Na Ngan (early morning of Dec. 26) in Cao Bang, killing both post commanders, capturing all enemy garrison troops, and seizing all weaponry without suffering a single casualty, establishing the army's proud tradition of "victorious in the first battle". [Source: Vietnam National Museum of History - The Vietnam Propaganda Liberation Army: The First Military Unit, https://baotanglichsu.vn/vi/Articles/3097/15699/doi-viet-nam-tuyen-truyen-giai-phong-quan-djoi-quan-djau-tien.html]
 
 <!-- id: EVT-1706 -->
 *   **1945 - 1946:** Nguyen Van Luom (the real-life "Luom") left his family to participate in revolutionary activities in Nha Trang. His family lost contact with him from this point until after the country's reunification.
@@ -5556,7 +5556,7 @@
 *   **Mar. 29, 1945:** Ho Chi Minh met with Major General Claire Lee Chennault, Commander of the 14th Air Force of the US Army Air Forces, in Kunming (China), establishing initial contact between the Viet Minh and the US.
 
 <!-- id: EVT-1716 -->
-*   **Apr. 17, 1945:** The puppet government of Tran Trong Kim was established under Japanese protection.
+*   **Apr. 17, 1945:** The puppet government of Tran Trong Kim was established under Japanese protection. [Source: Vietnam National Museum of History - The Tran Trong Kim Government (April-August 1945), https://baotanglichsu.vn/vi/Articles/3097/16606/chinh-phu-tran-trong-kim-4-1945-8-1945.html]
 
 <!-- id: EVT-1717 -->
 *   **Apr. 21, 1945:** The Vanguard Youth (Thanh Nien Tien Phong) was established.
@@ -5571,7 +5571,7 @@
 *   **Jun. 4, 1945:** The Viet Bac Liberated Zone was officially established. [Source: https://baotintuc.vn/giai-mat/thanh-lap-khu-giai-phong-viet-bac-20140603111600345.htm]
 
 <!-- id: EVT-1721 -->
-*   **Jul. 17 - Aug. 2, 1945:** The Potsdam Conference decided that Allied forces would enter Vietnam to disarm the Japanese army.
+*   **Jul. 17 - Aug. 2, 1945:** The Potsdam Conference decided that Allied forces would enter Vietnam to disarm the Japanese army. [Source: Vietnam National Museum of History - The Potsdam Conference (July 17 - August 2, 1945), https://baotanglichsu.vn/vi/Articles/3097/16501/hoi-nghi-potxdam-17-7-2-8-1945.html]
 
 <!-- id: EVT-1722 -->
 *   **Jul. 20, 1945:** Doctor Tran Van Lai officially took office as the first Vietnamese Mayor of Hanoi under the Empire of Vietnam. During his brief tenure of less than a month, he enacted significant reforms: making Vietnamese the official administrative language, renaming streets after Vietnamese historical figures, pulling down French colonial statues, and naming Ba Dinh Square (formerly Puginier Park), which later became the site of the Declaration of Independence.
@@ -5589,7 +5589,7 @@
 *   **Aug. 1945:** Dinh Thi Van, serving as a Viet Minh cadre, actively mobilized the masses to participate in the general uprising in Xuan Truong and Giao Thuy districts (Nam Dinh). Following the August Revolution, she contributed to building the new local government.
 
 <!-- id: EVT-1727 -->
-*   **Aug. 13-15, 1945:** The National Conference of the Indochinese Communist Party in Tan Trao decided to launch a General Uprising to seize power nationwide.
+*   **Aug. 13-15, 1945:** The National Conference of the Indochinese Communist Party in Tan Trao decided to launch a General Uprising to seize power nationwide. [Source: Vietnam National Museum of History - The National Party Conference at Tan Trao (August 14-15, 1945), https://baotanglichsu.vn/vi/Articles/3097/15698/hoi-nghi-toan-quoc-cua-djang-tai-tan-trao-14-15-8-1945.html]
 
 <!-- id: EVT-1728 -->
 *   **Aug. 13, 1945:** The National Uprising Committee issued "Military Order No. 1." [Source: https://nhandan.vn/ngay-1381945-uy-ban-khoi-nghia-ra-quan-lenh-so-1-post900415.html]
@@ -5618,13 +5618,13 @@
 *Source: General uprising seizing the Bac Bo Phu (Northern Palace) on Aug. 19, 1945, in Hanoi (Photo: Vu Nang An / TTXVN / Public domain)*
 
 <!-- id: EVT-1734 -->
-*   **Aug. 23, 1945:** The uprising succeeded in Hue.
+*   **Aug. 23, 1945:** The uprising succeeded in Hue. [Source: Vietnam National Museum of History - The August Uprising and Seizure of Power in Hue (August 23, 1945), https://baotanglichsu.vn/vi/Articles/3097/16631/khoi-nghia-gianh-chinh-quyen-o-hue-23-8-1945.html]
 
 <!-- id: EVT-1735 -->
 *   **Aug. 24, 1945:** Huynh Tan Phat designed and directed the construction of the Monumental Flagpole at the Nguyen Hue - Le Loi intersection (Saigon) to honor the Provisional Committee of Nam Bo.
 
 <!-- id: EVT-1736 -->
-*   **Aug. 25, 1945:** The uprising to seize power in Saigon succeeded, actively co-led by Huynh Tan Phat.
+*   **Aug. 25, 1945:** The uprising to seize power in Saigon succeeded, actively co-led by Huynh Tan Phat. [Source: Vietnam National Museum of History - The August Uprising and Seizure of Power in Saigon (August 25, 1945), https://baotanglichsu.vn/vi/Articles/3097/16632/khoi-nghia-gianh-chinh-quyen-o-sai-gon-25-8-1945.html]
 
 <!-- id: EVT-1737 -->
 *   **Aug. 26, 1945:** Following the momentum of the August Revolution, the uprising to seize power was successfully carried out in Son La province.
