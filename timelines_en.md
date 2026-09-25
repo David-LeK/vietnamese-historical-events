@@ -4982,7 +4982,7 @@
 *   **1930 - 1932:** The French naval ships *Inconstant*, *Alerte*, *La Malicieuse*, and *De Lanessan* conducted successive patrols and sovereignty missions to the Paracel Islands.
 
 <!-- id: EVT-1558 -->
-*   **Jan. 1, 1930:** The Indochinese Communist League was officially established in Ha Tinh.
+*   **Jan. 1, 1930:** The Indochinese Communist League was officially established in Ha Tinh. [Source: https://baotanglichsu.vn/vi/Articles/3097/15588/cach-djay-84-nam-1-1930-1-2014-djong-duong-cong-san-lien-djoan-ra-djoi.html]
 
 <!-- id: EVT-1559 -->
 *   **Feb. 1930:** The Yen Bai Uprising, led by the Vietnamese Nationalist Party, broke out and was defeated.
@@ -4992,10 +4992,10 @@
 *Source: Tho Battalion at Lang Son, circa 1930 — colonial rifle unit / Government-General of Indochina (Wikimedia Commons, Public domain)*
 
 <!-- id: EVT-1560 -->
-*   **Feb. 2, 1930:** Tran Tu Binh led the uprising of over 5,000 rubber plantation workers in Phu Rieng ("Red Phu Rieng"), one of the first major strike movements of the working class led by a communist cell.
+*   **Feb. 2, 1930:** Tran Tu Binh led the uprising of over 5,000 rubber plantation workers in Phu Rieng ("Red Phu Rieng"), one of the first major strike movements of the working class led by a communist cell. [Source: https://antg.cand.com.vn/Phong-su/bai-1-phu-rieng-do-i782702]
 
 <!-- id: EVT-1561 -->
-*   **Feb. 3-7, 1930:** The Unification Conference of Vietnamese communist organizations took place in Kowloon (Hong Kong) chaired by Comrade Nguyen Ai Quoc (representing the Comintern), establishing the **Communist Party of Vietnam** and adopting foundational documents drafted by him: the Brief Political Platform, Brief Strategy, Brief Program, and Brief Statutes.
+*   **Feb. 3-7, 1930:** The Unification Conference of Vietnamese communist organizations took place in Kowloon (Hong Kong) chaired by Comrade Nguyen Ai Quoc (representing the Comintern), establishing the **Communist Party of Vietnam** and adopting foundational documents drafted by him: the Brief Political Platform, Brief Strategy, Brief Program, and Brief Statutes. [Source: https://baotanglichsu.vn/VI/Articles/3097/17673/djang-cong-san-viet-nam-ra-djoi-buoc-ngoat-lich-su-cua-cach-mang-viet-nam.html]
 
 ![Historical Image](images/event_20260923_125502.webp)
 
@@ -5005,7 +5005,7 @@
 *   **Early 1930s:** A land ownership survey by Yves Henry revealed severe polarization under French colonialism. Public land accounted for only 21% in Tonkin, 25% in Annam, and 3% in Cochinchina. For private land, 94.8% of landowners held less than 5 hectares (accounting for 28.5% of total land), while 0.30% of landowners held over 50 hectares (accounting for 31.5% of total private land).
 
 <!-- id: EVT-1563 -->
-*   **Feb. 10, 1930:** The Yen Bai Uprising, led by the Vietnamese Nationalist Party, broke out but was quickly defeated.
+*   **Feb. 10, 1930:** The Yen Bai Uprising, led by the Vietnamese Nationalist Party, broke out but was quickly defeated. [Source: https://baotanglichsu.vn/vi/Articles/2002/68123/ky-niem-84-nam-khoi-nghia-yen-bai-10-2-1930-10-2-2014-khong-thanh-cong-thi-thanh-nhan.html]
 
 <!-- id: EVT-1564 -->
 *   **Mar. 9, 1930:** The first flight connecting Paris and Saigon was completed, marking the development of air transportation.
@@ -5017,7 +5017,7 @@
 *   **Apr. 13, 1930:** The Governor-General of Indochina dispatched the dispatch boat *La Malicieuse* to the Spratly Islands, where the crew raised the French flag on a high point.
 
 <!-- id: EVT-1567 -->
-*   **May 1, 1930:** For the first time, widespread struggles of workers and peasants broke out across the country to celebrate International Workers' Day, marking the beginning of the 1930-1931 revolutionary high tide.
+*   **May 1, 1930:** For the first time, widespread struggles of workers and peasants broke out across the country to celebrate International Workers' Day, marking the beginning of the 1930-1931 revolutionary high tide. [Source: https://nhandan.vn/suc-soi-mot-phong-trao-cach-mang-post414408.html]
 
 <!-- id: EVT-1568 -->
 *   **May 1, 1930:** Nguyen Van Cuc (Nguyen Van Linh), at the age of 15, bravely distributed revolutionary leaflets commemorating International Workers' Day on Cat Dai Street (Haiphong); he was arrested by French authorities and sentenced to life imprisonment on Con Dao Island in early 1931, transforming the penal colony into a school of revolutionary endurance.
@@ -5026,7 +5026,7 @@
 *   **May 31, 1930:** The French government issued a decree confirming the gold standard for the Indochinese piaster, ending the silver standard.
 
 <!-- id: EVT-1570 -->
-*   **Jun. 17, 1930:** Nguyen Thai Hoc and 12 other comrades of the Vietnamese Nationalist Party were executed in Yen Bai.
+*   **Jun. 17, 1930:** Nguyen Thai Hoc and 12 other comrades of the Vietnamese Nationalist Party were executed in Yen Bai. [Source: https://baophutho.vn/nho-nguyen-thai-hoc-nguoi-da-thanh-nhan-247446.htm]
 
 ![Historical Image](images/event_20260923_225159.webp)
 
@@ -5036,10 +5036,10 @@
 *   **Jun. 19, 1930:** The French Ministry of Foreign Affairs officially determined that the Paracel Islands were not *terra nullius* (nobody's land) and affirmed French sovereignty over them on behalf of Vietnam.
 
 <!-- id: EVT-1572 -->
-*   **Sep. 1930:** The Nghe-Tinh Soviets movement reached its peak, with revolutionary governments established in many villages in Nghe An and Ha Tinh provinces.
+*   **Sep. 1930:** The Nghe-Tinh Soviets movement reached its peak, with revolutionary governments established in many villages in Nghe An and Ha Tinh provinces. [Source: https://nhandan.vn/tuong-niem-cac-anh-hung-liet-si-hy-sinh-trong-phong-trao-xo-viet-nghe-tinh-post771783.html]
 
 <!-- id: EVT-1573 -->
-*   **Sep. 12, 1930:** French colonial authorities deployed military aircraft to repeatedly bomb and strafe a peaceful demonstration of over 8,000 peasants from Hung Nguyen (Nghe An) marching toward Vinh during the Nghe - Tinh Soviet movement, massacring 217 people and wounding 125, sparking outrage at home and abroad.
+*   **Sep. 12, 1930:** French colonial authorities deployed military aircraft to repeatedly bomb and strafe a peaceful demonstration of over 8,000 peasants from Hung Nguyen (Nghe An) marching toward Vinh during the Nghe - Tinh Soviet movement, massacring 217 people and wounding 125, sparking outrage at home and abroad. [Source: https://nhandan.vn/van-dung-sang-tao-bai-hoc-cach-mang-tu-phong-trao-xo-viet-nghe-tinh-post907588.html]
 
 ![Historical Image](images/event_20260924_111645.webp)
 
@@ -5049,7 +5049,7 @@
 *   **Sep. 23, 1930:** The French government issued a communiqué informing other powers of the French occupation of the Spratly Islands.
 
 <!-- id: EVT-1575 -->
-*   **Oct. 14-31, 1930:** The First Conference of the Party Central Committee was held in Hong Kong (China), approving the Political Theses and changing the Party's name to the Indochinese Communist Party. Comrade Tran Phu was elected General Secretary.
+*   **Oct. 14-31, 1930:** The First Conference of the Party Central Committee was held in Hong Kong (China), approving the Political Theses and changing the Party's name to the Indochinese Communist Party. Comrade Tran Phu was elected General Secretary. [Source: https://nhandan.vn/dong-chi-tran-phu-voi-mat-tran-dan-toc-thong-nhat-post248082.html]
 
 <!-- id: EVT-1576 -->
 *   **Oct. 14, 1930:** Thousands of peasants in Tien Hai district (Thai Binh) held hammer-and-sickle flags and demonstrated at the district office, demanding tax cuts, public land redistribution, and protesting colonial crackdowns against the Nghe-Tinh Soviet movement.
@@ -5457,7 +5457,7 @@
 *   **Late 1944 - Early 1945:** Continuing under the direction of the Tonkin Party Committee (Xu uy Bac Ky) and the Son La Prison Party Cell, the revolutionary movement in Son La expanded to 60 bases across the province. The "Thai National Salvation" Association (Con tay chat muong) was established, drawing strength from Lo Van Gia's heroic sacrifice.
 
 <!-- id: EVT-1704 -->
-*   **Dec. 22, 1944:** Carrying out directives from Leader Ho Chi Minh, comrade Vo Nguyen Giap directly commanded the founding of the **Vietnam Propaganda and Liberation Army** in the Tran Hung Dao forest (Nguyen Binh District, Cao Bang Province), comprising 34 soldiers equipped with 34 firearms. This was the first regular armed force and the precursor to the heroic Vietnam People's Army.
+*   **Dec. 22, 1944:** Carrying out directives from Leader Ho Chi Minh, comrade Vo Nguyen Giap directly commanded the founding of the **Vietnam Propaganda and Liberation Army** in the Tran Hung Dao forest (Nguyen Binh District, Cao Bang Province), comprising 34 soldiers equipped with 34 firearms. This was the first regular armed force and the precursor to the heroic Vietnam People's Army. [Source: https://baotanglichsu.vn/vi/Articles/3097/75108/su-kien-thanh-lap-djoi-viet-nam-tuyen-truyen-giai-phong-quan-qua-suu-tap-hien-vat-tai-lieu-tai-bao-tang-lich-su-quoc-gia.html]
 
 ![Historical Image](images/event_20260923_104650.webp)
 

@@ -4983,7 +4983,7 @@
 *   **1930 - 1932:** Các tàu chiến *Inconstant*, *Alerte*, *La Malicieuse* và *De Lanessan* của hải quân Pháp liên tiếp thực hiện các cuộc tuần tiễu và khẳng định chủ quyền tại quần đảo Hoàng Sa.
 
 <!-- id: EVT-1558 -->
-*   **01/01/1930:** Đông Dương Cộng sản Liên đoàn chính thức thành lập tại Hà Tĩnh.
+*   **01/01/1930:** Đông Dương Cộng sản Liên đoàn chính thức thành lập tại Hà Tĩnh. [Nguồn: https://baotanglichsu.vn/vi/Articles/3097/15588/cach-djay-84-nam-1-1930-1-2014-djong-duong-cong-san-lien-djoan-ra-djoi.html]
 
 <!-- id: EVT-1559 -->
 *   **02/1930:** Cuộc khởi nghĩa Yên Bái do Việt Nam Quốc dân Đảng lãnh đạo nổ ra và thất bại.
@@ -4993,10 +4993,10 @@
 *Nguồn: Tiểu đoàn Thổ ở Lạng Sơn, khoảng 1930 — lực lượng khố xanh thuộc địa / Phủ Toàn quyền Đông Dương (Wikimedia Commons, Public domain)*
 
 <!-- id: EVT-1560 -->
-*   **02/02/1930:** Trần Tử Bình lãnh đạo cuộc khởi nghĩa của hơn 5.000 công nhân cao su Phú Riềng ("Phú Riềng Đỏ"), một trong những phong trào bãi công lớn đầu tiên của giai cấp công nhân do chi bộ cộng sản lãnh đạo.
+*   **02/02/1930:** Trần Tử Bình lãnh đạo cuộc khởi nghĩa của hơn 5.000 công nhân cao su Phú Riềng ("Phú Riềng Đỏ"), một trong những phong trào bãi công lớn đầu tiên của giai cấp công nhân do chi bộ cộng sản lãnh đạo. [Nguồn: https://antg.cand.com.vn/Phong-su/bai-1-phu-rieng-do-i782702]
 
 <!-- id: EVT-1561 -->
-*   **03-07/02/1930:** Hội nghị hợp nhất các tổ chức cộng sản Việt Nam diễn ra tại Cửu Long (Hương Cảng, Trung Quốc) dưới sự chủ trì của đồng chí Nguyễn Ái Quốc (đại diện Quốc tế Cộng sản), quyết định thành lập **Đảng Cộng sản Việt Nam** và thông qua các văn kiện nền tảng: Chánh cương vắn tắt, Sách lược vắn tắt, Chương trình tóm tắt và Điều lệ vắn tắt của Đảng do Người trực tiếp soạn thảo.
+*   **03-07/02/1930:** Hội nghị hợp nhất các tổ chức cộng sản Việt Nam diễn ra tại Cửu Long (Hương Cảng, Trung Quốc) dưới sự chủ trì của đồng chí Nguyễn Ái Quốc (đại diện Quốc tế Cộng sản), quyết định thành lập **Đảng Cộng sản Việt Nam** và thông qua các văn kiện nền tảng: Chánh cương vắn tắt, Sách lược vắn tắt, Chương trình tóm tắt và Điều lệ vắn tắt của Đảng do Người trực tiếp soạn thảo. [Nguồn: https://baotanglichsu.vn/VI/Articles/3097/17673/djang-cong-san-viet-nam-ra-djoi-buoc-ngoat-lich-su-cua-cach-mang-viet-nam.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_125502.webp)
 
@@ -5006,7 +5006,7 @@
 *   **Đầu những năm 1930:** Theo kết quả điều tra của Yves Henry, dưới tác động của chủ nghĩa thực dân Pháp, tình trạng sở hữu ruộng đất phân hóa cực kỳ sâu sắc. Ruộng đất công chỉ còn 21% ở Bắc Kỳ, 25% ở Trung Kỳ và 3% ở Nam Kỳ. Về ruộng đất tư hữu, 94,8% số chủ sở hữu dưới 5 ha (chiếm 28,5% diện tích), trong khi 0,30% chủ sở hữu trên 50 ha (chiếm tới 31,5% diện tích).
 
 <!-- id: EVT-1563 -->
-*   **10/02/1930:** Cuộc khởi nghĩa Yên Bái do Việt Nam Quốc dân Đảng lãnh đạo bùng nổ nhưng nhanh chóng thất bại.
+*   **10/02/1930:** Cuộc khởi nghĩa Yên Bái do Việt Nam Quốc dân Đảng lãnh đạo bùng nổ nhưng nhanh chóng thất bại. [Nguồn: https://baotanglichsu.vn/vi/Articles/2002/68123/ky-niem-84-nam-khoi-nghia-yen-bai-10-2-1930-10-2-2014-khong-thanh-cong-thi-thanh-nhan.html]
 
 <!-- id: EVT-1564 -->
 *   **09/03/1930:** Chuyến bay đầu tiên nối liền Paris - Sài Gòn được thực hiện, đánh dấu sự phát triển giao thông hàng không.
@@ -5018,7 +5018,7 @@
 *   **13/04/1930:** Toàn quyền Đông Dương phái thông báo hạm *La Malicieuse* tới quần đảo Trường Sa, nơi thủy thủ đoàn đã kéo quốc kỳ Pháp trên một điểm cao.
 
 <!-- id: EVT-1567 -->
-*   **01/05/1930:** Lần đầu tiên, các cuộc đấu tranh của công nhân và nông dân nổ ra rầm rộ trên cả nước để kỷ niệm ngày Quốc tế Lao động, mở đầu cho cao trào cách mạng 1930-1931.
+*   **01/05/1930:** Lần đầu tiên, các cuộc đấu tranh của công nhân và nông dân nổ ra rầm rộ trên cả nước để kỷ niệm ngày Quốc tế Lao động, mở đầu cho cao trào cách mạng 1930-1931. [Nguồn: https://nhandan.vn/suc-soi-mot-phong-trao-cach-mang-post414408.html]
 
 <!-- id: EVT-1568 -->
 *   **01/05/1930:** Đồng chí Nguyễn Văn Cúc (Nguyễn Văn Linh) khi mới 15 tuổi dũng cảm rải truyền đơn cách mạng kỷ niệm Ngày Quốc tế Lao động tại phố Cát Dài (Hải Phòng), bị mật thám Pháp bắt giữ và đầu năm 1931 bị tòa án thực dân kết án tù chung thân, đày ra Côn Đảo - nơi trở thành "trường học cách mạng" tôi luyện ý chí kiên trung của ông.
@@ -5027,7 +5027,7 @@
 *   **31/05/1930:** Chính phủ Pháp ra sắc lệnh xác nhận chế độ kim bản vị (Gold Standard) cho đồng bạc Đông Dương, chấm dứt bản vị bạc.
 
 <!-- id: EVT-1570 -->
-*   **17/06/1930:** Nguyễn Thái Học cùng 12 đồng chí khác của Việt Nam Quốc dân Đảng bị hành quyết tại Yên Bái.
+*   **17/06/1930:** Nguyễn Thái Học cùng 12 đồng chí khác của Việt Nam Quốc dân Đảng bị hành quyết tại Yên Bái. [Nguồn: https://baophutho.vn/nho-nguyen-thai-hoc-nguoi-da-thanh-nhan-247446.htm]
 
 ![Hình ảnh tư liệu](images/event_20260923_225159.webp)
 
@@ -5037,10 +5037,10 @@
 *   **19/06/1930:** Bộ Ngoại giao Pháp chính thức xác định quần đảo Hoàng Sa không phải là đất vô chủ (*terra nullius*) và khẳng định chủ quyền của Pháp (nhân danh Việt Nam) đối với quần đảo này.
 
 <!-- id: EVT-1572 -->
-*   **09/1930:** Phong trào Xô viết Nghệ - Tĩnh lên đến đỉnh cao, chính quyền cách mạng được thành lập ở nhiều làng xã tại Nghệ An và Hà Tĩnh.
+*   **09/1930:** Phong trào Xô viết Nghệ - Tĩnh lên đến đỉnh cao, chính quyền cách mạng được thành lập ở nhiều làng xã tại Nghệ An và Hà Tĩnh. [Nguồn: https://nhandan.vn/tuong-niem-cac-anh-hung-liet-si-hy-sinh-trong-phong-trao-xo-viet-nghe-tinh-post771783.html]
 
 <!-- id: EVT-1573 -->
-*   **12/09/1930:** Thực dân Pháp điều máy bay ném bom và xả súng liên tiếp vào đoàn 8.000 nông dân huyện Hưng Nguyên (Nghệ An) đang hòa bình tuần hành biểu tình tiến về thành phố Vinh trong phong trào Xô Viết Nghệ Tĩnh, tàn sát 217 người chết và làm 125 người bị thương, gây chấn động dư luận trong nước và quốc tế.
+*   **12/09/1930:** Thực dân Pháp điều máy bay ném bom và xả súng liên tiếp vào đoàn 8.000 nông dân huyện Hưng Nguyên (Nghệ An) đang hòa bình tuần hành biểu tình tiến về thành phố Vinh trong phong trào Xô Viết Nghệ Tĩnh, tàn sát 217 người chết và làm 125 người bị thương, gây chấn động dư luận trong nước và quốc tế. [Nguồn: https://nhandan.vn/van-dung-sang-tao-bai-hoc-cach-mang-tu-phong-trao-xo-viet-nghe-tinh-post907588.html]
 
 ![Hình ảnh tư liệu](images/event_20260924_111645.webp)
 
@@ -5050,7 +5050,7 @@
 *   **23/09/1930:** Chính phủ Pháp ra thông cáo báo cho các cường quốc khác biết việc Pháp chiếm đóng quần đảo Trường Sa.
 
 <!-- id: EVT-1575 -->
-*   **14-31/10/1930:** Hội nghị lần thứ nhất Ban Chấp hành Trung ương Đảng họp tại Hương Cảng (Trung Quốc), thông qua Luận cương chính trị và đổi tên Đảng thành Đảng Cộng sản Đông Dương. Đồng chí Trần Phú được bầu làm Tổng Bí thư.
+*   **14-31/10/1930:** Hội nghị lần thứ nhất Ban Chấp hành Trung ương Đảng họp tại Hương Cảng (Trung Quốc), thông qua Luận cương chính trị và đổi tên Đảng thành Đảng Cộng sản Đông Dương. Đồng chí Trần Phú được bầu làm Tổng Bí thư. [Nguồn: https://nhandan.vn/dong-chi-tran-phu-voi-mat-tran-dan-toc-thong-nhat-post248082.html]
 
 <!-- id: EVT-1576 -->
 *   **14/10/1930:** Hàng nghìn nông dân huyện Tiền Hải (Thái Bình) giương cờ búa liềm biểu tình bao vây huyện đường đòi giảm sưu thuế, chia lại ruộng công và phản đối chính quyền thực dân đàn áp phong trào Xô Viết Nghệ Tĩnh.
@@ -5458,7 +5458,7 @@
 *   **Cuối năm 1944 - Đầu năm 1945:** Tiếp tục dưới sự chỉ đạo của Xứ ủy Bắc Kỳ và Chi bộ Nhà tù Sơn La, phong trào cách mạng tại Sơn La đã phát triển được 60 cơ sở trong toàn tỉnh. Hội "Người Thái cứu quốc" (Côn tay chất mương) được thành lập, lấy cảm hứng từ tấm gương hy sinh anh dũng của Lò Văn Giá.
 
 <!-- id: EVT-1704 -->
-*   **22/12/1944:** Thực hiện chỉ thị của Lãnh tụ Hồ Chí Minh, đồng chí Võ Nguyên Giáp trực tiếp chỉ huy thành lập **Đội Việt Nam Tuyên truyền Giải phóng quân** tại khu rừng Trần Hưng Đạo (huyện Nguyên Bình, tỉnh Cao Bằng), gồm 34 chiến sĩ với 34 khẩu súng. Đây là đội quân chủ lực đầu tiên, tiền thân vẻ vang của Quân đội Nhân dân Việt Nam anh hùng.
+*   **22/12/1944:** Thực hiện chỉ thị của Lãnh tụ Hồ Chí Minh, đồng chí Võ Nguyên Giáp trực tiếp chỉ huy thành lập **Đội Việt Nam Tuyên truyền Giải phóng quân** tại khu rừng Trần Hưng Đạo (huyện Nguyên Bình, tỉnh Cao Bằng), gồm 34 chiến sĩ với 34 khẩu súng. Đây là đội quân chủ lực đầu tiên, tiền thân vẻ vang của Quân đội Nhân dân Việt Nam anh hùng. [Nguồn: https://baotanglichsu.vn/vi/Articles/3097/75108/su-kien-thanh-lap-djoi-viet-nam-tuyen-truyen-giai-phong-quan-qua-suu-tap-hien-vat-tai-lieu-tai-bao-tang-lich-su-quoc-gia.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_104650.webp)
 
