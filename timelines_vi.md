@@ -5748,7 +5748,7 @@
 *   **01/1946:** Huỳnh Tấn Phát được bầu làm đại biểu Quốc hội khóa I nước Việt Nam Dân chủ Cộng hòa, đại diện cho tỉnh Mỹ Tho.
 
 <!-- id: EVT-1772 -->
-*   **01/01/1946:** Chính phủ lâm thời cải tổ thành Chính phủ liên hiệp lâm thời, có thêm thành viên của Việt Quốc và Việt Cách.
+*   **01/01/1946:** Chính phủ lâm thời cải tổ thành Chính phủ liên hiệp lâm thời, có thêm thành viên của Việt Quốc và Việt Cách. [Nguồn: Bảo tàng Lịch sử Quốc gia - Chính phủ liên hiệp lâm thời (01/01/1946), https://baotanglichsu.vn/vi/Articles/3097/16617/chinh-phu-lien-hiep-lam-thoi-01-01-1946.html]
 
 <!-- id: EVT-1773 -->
 *   **06/01/1946:** Cuộc Tổng tuyển cử đầu tiên bầu Quốc hội khóa I diễn ra trên cả nước. [Nguồn: Báo Điện tử Chính phủ - Tổng tuyển cử 1946 là tự do, bình đẳng, dân chủ, đoàn kết, https://baochinhphu.vn/tong-tuyen-cu-1946-la-tu-do-binh-dang-dan-chu-doan-ket-102195907.htm]
@@ -5764,7 +5764,7 @@
 *   **31/01/1946:** Chính phủ ra Sắc lệnh cho phép phát hành giấy bạc Việt Nam tại vùng tự do Nam Trung Bộ.
 
 <!-- id: EVT-1776 -->
-*   **28/02/1946:** Hiệp ước Trùng Khánh được ký kết giữa Pháp và chính quyền Tưởng Giới Thạch, thỏa thuận cho quân Pháp ra miền Bắc thay thế quân Tưởng.
+*   **28/02/1946:** Hiệp ước Trùng Khánh được ký kết giữa Pháp và chính quyền Tưởng Giới Thạch, thỏa thuận cho quân Pháp ra miền Bắc thay thế quân Tưởng. [Nguồn: Bảo tàng Lịch sử Quốc gia - Hiệp ước Trùng Khánh (28/02/1946), https://baotanglichsu.vn/vi/Articles/3097/16619/hiep-uoc-trung-khanh-28-02-1946.html]
 
 <!-- id: EVT-1777 -->
 *   **03/1946:** Tại Quốc hội khóa I, đại biểu Huỳnh Văn Tiểng được cho là đã lần đầu tiên đề xuất tên gọi Thành phố Hồ Chí Minh, phản ánh tình cảm đặc biệt của nhân dân Nam Bộ dành cho Chủ tịch Hồ Chí Minh từ rất sớm.
@@ -5810,7 +5810,7 @@
 *   **18/04/1946:** Tướng Valluy ra chỉ thị số 11 về kế hoạch an toàn và chiếm đóng các vị trí then chốt ở các thành phố.
 
 <!-- id: EVT-1789 -->
-*   **19/04/1946:** Hội nghị trù bị Đà Lạt khai mạc để chuẩn bị cho cuộc đàm phán chính thức tại Pháp. Phái đoàn Việt Nam Dân chủ Cộng hòa do đồng chí Võ Nguyên Giáp làm Trưởng đoàn đã kiên quyết đấu tranh bảo vệ chủ quyền thống nhất và toàn vẹn lãnh thổ, bác bỏ dứt khoát âm mưu của thực dân Pháp hòng tách Nam Bộ ra khỏi Việt Nam.
+*   **19/04/1946:** Hội nghị trù bị Đà Lạt khai mạc để chuẩn bị cho cuộc đàm phán chính thức tại Pháp. Phái đoàn Việt Nam Dân chủ Cộng hòa do đồng chí Võ Nguyên Giáp làm Trưởng đoàn đã kiên quyết đấu tranh bảo vệ chủ quyền thống nhất và toàn vẹn lãnh thổ, bác bỏ dứt khoát âm mưu của thực dân Pháp hòng tách Nam Bộ ra khỏi Việt Nam. [Nguồn: Bảo tàng Lịch sử Quốc gia - Hội nghị trù bị Đà Lạt (19/04/1946), https://baotanglichsu.vn/vi/Articles/3097/16625/hoi-nghi-du-bi-da-lat-19-04-1946.html]
 
 <!-- id: EVT-1790 -->
 *   **20/04/1946:** Mặt trận Quốc gia Liên hiệp được thành lập tại miền Nam, ban đầu chủ trương chống Pháp nhưng sau bị phân hóa.
@@ -5831,13 +5831,13 @@
 *   **20 - 27/05/1946:** Cao ủy Pháp Thierry d'Argenlieu phái tàu hộ tống *L'Escarmouche* đến thăm dò quần đảo Hoàng Sa. Nhận thấy các đảo không có người ở, một nửa trung đội lính Pháp đã đổ bộ lên đảo Hoàng Sa (Pattle) nhằm đánh dấu sự khôi phục các quyền của nước Pháp. Lực lượng này sau đó được thay thế bởi bộ binh từ tàu *Savorgnan de Brazza*.
 
 <!-- id: EVT-1796 -->
-*   **29/05/1946:** Hội Liên hiệp quốc dân Việt Nam (Liên Việt) được thành lập, cụ Huỳnh Thúc Kháng được suy tôn làm Hội trưởng danh dự nhằm tập hợp khối đại đoàn kết toàn dân tộc.
+*   **29/05/1946:** Hội Liên hiệp quốc dân Việt Nam (Liên Việt) được thành lập, cụ Huỳnh Thúc Kháng được suy tôn làm Hội trưởng danh dự nhằm tập hợp khối đại đoàn kết toàn dân tộc. [Nguồn: Bảo tàng Lịch sử Quốc gia - Hội Liên hiệp quốc dân Việt Nam (Liên Việt) (29/5/1946), https://baotanglichsu.vn/vi/Articles/3097/16627/hoi-lien-hiep-quoc-dan-viet-nam-lien-viet-29-5-1946.html]
 
 <!-- id: EVT-1797 -->
 *   **31/05/1946:** Chủ tịch Hồ Chí Minh rời Hà Nội sang thăm chính thức nước Pháp và trao quyền Quyền Chủ tịch nước kiêm Quyền Chủ tịch Chính phủ Việt Nam Dân chủ Cộng hòa cho cụ Huỳnh Thúc Kháng với lời căn dặn nổi tiếng "Dĩ bất biến, ứng vạn biến", chèo lái đất nước qua thời khắc hiểm nghèo (kéo dài đến 21/10/1946). [Nguồn: Báo Quân đội nhân dân - Dĩ bất biến ứng vạn biến, https://ct.qdnd.vn/clb-chien-si/di-bat-bien-ung-van-bien-530799]
 
 <!-- id: EVT-1798 -->
-*   **01/06/1946:** Tại Sài Gòn, Cao ủy D'Argenlieu tuyên bố thành lập "Nước Cộng hòa tự trị Nam Kỳ".
+*   **01/06/1946:** Tại Sài Gòn, Cao ủy D'Argenlieu tuyên bố thành lập "Nước Cộng hòa tự trị Nam Kỳ". [Nguồn: Bảo tàng Lịch sử Quốc gia - Nước "Cộng hòa tự trị Nam Kỳ" (01/06/1946), https://baotanglichsu.vn/vi/Articles/3097/16628/nuoc-cong-hoa-tu-tri-nam-ky-01-06-1946.html]
 
 <!-- id: EVT-1799 -->
 *   **30/06/1946:** Đinh Thị Vân được kết nạp vào Đảng Cộng sản Đông Dương. Sau đó, bà giữ nhiều chức vụ lãnh đạo, bao gồm Hội trưởng Hội Liên hiệp phụ nữ tỉnh Nam Định (1951-1953).
@@ -5865,7 +5865,7 @@
 *   **12/07/1946:** Vụ án phố Ôn Như Hầu xảy ra. Công an xung phong đã khám xét trụ sở của Việt Nam Quốc dân Đảng, phá tan âm mưu lật đổ chính quyền của các thế lực đối lập. [Nguồn: Báo Nhân Dân - Vụ án phố Ôn Như Hầu - Bài học kinh nghiệm về bảo vệ chính quyền cách mạng ngày đầu mới thành lập, https://nhandan.vn/vu-an-pho-on-nhu-hau-bai-hoc-kinh-nghiem-ve-bao-ve-chinh-quyen-cach-mang-ngay-dau-moi-thanh-lap-post237866.html]
 
 <!-- id: EVT-1806 -->
-*   **22/07/1946:** Đảng Xã hội Việt Nam được thành lập, nhằm mục đích đoàn kết giới trí thức yêu nước và dân chủ.
+*   **22/07/1946:** Đảng Xã hội Việt Nam được thành lập, nhằm mục đích đoàn kết giới trí thức yêu nước và dân chủ. [Nguồn: Bảo tàng Lịch sử Quốc gia - Đảng Xã hội Việt Nam (22/7/1946), https://baotanglichsu.vn/vi/Articles/3097/16634/djang-xa-hoi-viet-nam-22-7-1946.html]
 
 <!-- id: EVT-1807 -->
 *   **24/07/1946:** Trong lúc cuộc đàm phán chính thức Pháp - Việt tại Fontainebleau đi vào bế tắc, Chủ tịch Hồ Chí Minh tích cực vận động "ngoại giao hành lang". Người đã gặp Bộ trưởng Pierre Cot, Chủ tịch Quốc hội Vincent Auriol và Phó Chủ tịch Quốc hội kiêm lãnh đạo Đảng Cộng sản Pháp Jacques Duclos. Cùng ngày, trả lời phỏng vấn báo chí Pháp, Người nhấn mạnh nếu Pháp công nhận Việt Nam độc lập thì danh dự và sức hấp dẫn của Pháp tại Việt Nam sẽ tăng lên nhiều hơn là dùng chiến tranh hay sức mạnh để ép buộc.
@@ -5893,7 +5893,7 @@
 *   **21/09/1946:** Việt Nam Dân chủ Xã hội Đảng (Đảng Dân Xã) được thành lập bởi Huỳnh Phú Sổ, giáo chủ Phật giáo Hòa Hảo.
 
 <!-- id: EVT-1814 -->
-*   **20/10/1946:** Chủ tịch Hồ Chí Minh về đến cảng Hải Phòng trên chiến hạm *Dumont d'Urville* sau chuyến thăm ngoại giao chính thức nước Pháp kéo dài gần 5 tháng, được đồng bào cả nước nhiệt liệt chào đón.
+*   **20/10/1946:** Chủ tịch Hồ Chí Minh về đến cảng Hải Phòng trên chiến hạm *Dumont d'Urville* sau chuyến thăm ngoại giao chính thức nước Pháp kéo dài gần 5 tháng, được đồng bào cả nước nhiệt liệt chào đón. [Nguồn: Bảo tàng Lịch sử Quốc gia - Chủ tịch Hồ Chí Minh về nước (20/10/1946), https://baotanglichsu.vn/vi/Articles/3097/16636/chu-tich-ho-chi-minh-ve-nuoc-20-10-1946.html]
 
 <!-- id: EVT-1815 -->
 *   **28/10 - 09/11/1946:** Quốc hội khóa I họp kỳ thứ hai, thông qua Hiến pháp đầu tiên của nước Việt Nam Dân chủ Cộng hòa (Hiến pháp năm 1946), trong đó Điều thứ 3 chính thức quy định: "Cờ của nước Việt Nam Dân chủ Cộng hòa hình chữ nhật, nền đỏ, ở giữa có ngôi sao vàng năm cánh. Quốc ca là bài Tiến quân ca". [Nguồn: Báo Nhân Dân - 5 bản Hiến pháp của nước Việt Nam, https://special.nhandan.vn/5-ban-Hien-phap-cua-Viet-Nam/index.html]
@@ -5906,7 +5906,7 @@
 *   **07/11/1946:** Chủ tịch Hồ Chí Minh ban hành bản *"Thông báo về việc nhận con các liệt sĩ làm con nuôi"*. Người khẳng định thay mặt Tổ quốc và toàn dân nhận đỡ đầu và nuôi dưỡng tất cả con mồ côi của các liệt sĩ đã anh dũng hy sinh vì độc lập dân tộc, đồng thời chỉ đạo các địa phương lập danh sách và giao Bộ Xã hội cùng chính quyền các cấp chăm lo chu đáo cho thế hệ mầm non của Tổ quốc.
 
 <!-- id: EVT-1817 -->
-*   **20/11/1946:** Xung đột lớn nổ ra tại Hải Phòng (Sự kiện Hải Phòng) khi quân Pháp đòi quyền kiểm soát thuế quan.
+*   **20/11/1946:** Xung đột lớn nổ ra tại Hải Phòng (Sự kiện Hải Phòng) khi quân Pháp đòi quyền kiểm soát thuế quan. [Nguồn: Bảo tàng Lịch sử Quốc gia - Sự kiện Hải Phòng (20/11/1946), https://baotanglichsu.vn/vi/Articles/3097/16638/su-kien-hai-phong-20-11-1946.html]
 
 <!-- id: EVT-1818 -->
 *   **20/11/1946:** Quân Pháp cũng nổ súng vào nhân viên công an và thuế quan tại Lạng Sơn, chiếm đóng thị xã.
@@ -5915,7 +5915,7 @@
 *   **22/11/1946:** Quân Pháp nổ súng và chiếm đóng Hải Phòng sau khi gửi tối hậu thư.
 
 <!-- id: EVT-1820 -->
-*   **23/11/1946:** Tuần dương hạm *Suffren* và các đơn vị pháo binh quân viễn chinh Pháp nã đại bác dữ dội vào thành phố cảng Hải Phòng, phá hủy các khu dân cư đông đúc của người Việt, tàn sát dã man hàng ngàn thường dân vô tội (ước tính từ 2.000 đến hơn 6.000 người thiệt mạng), châm ngòi trực tiếp bùng nổ cuộc Toàn quốc kháng chiến (19/12/1946).
+*   **23/11/1946:** Tuần dương hạm *Suffren* và các đơn vị pháo binh quân viễn chinh Pháp nã đại bác dữ dội vào thành phố cảng Hải Phòng, phá hủy các khu dân cư đông đúc của người Việt, tàn sát dã man hàng ngàn thường dân vô tội (ước tính từ 2.000 đến hơn 6.000 người thiệt mạng), châm ngòi trực tiếp bùng nổ cuộc Toàn quốc kháng chiến (19/12/1946). [Nguồn: Bảo tàng Lịch sử Quốc gia - Quân Pháp bắn phá Hải Phòng (23/11/1946), https://baotanglichsu.vn/vi/Articles/3097/16640/quan-phap-ban-phao-hai-phong-23-11-1946.html]
 
 <!-- id: EVT-1821 -->
 *   **23/11/1946:** Đại hội đại biểu Hồng thập tự Việt Nam lần thứ nhất họp tại đình Thanh Ấm (Ứng Hòa, Hà Đông, nay thuộc Hà Nội), chính thức thành lập Hội Hồng thập tự Việt Nam (tiền thân của Hội Chữ thập đỏ Việt Nam). Bác sĩ Vũ Đình Tụng được bầu làm Hội trưởng (Chủ tịch) đầu tiên và đảm nhiệm cương vị này suốt 25 năm (1946 - 1971); Chủ tịch Hồ Chí Minh được suy tôn làm Chủ tịch danh dự của Hội.
@@ -5924,7 +5924,7 @@
 *   **29/11/1946:** Lợi dụng danh nghĩa giải giáp quân đội Nhật Bản sau Thế chiến II, chính quyền Trung Hoa Dân Quốc (thời Tưởng Giới Thạch) điều động hai chiến hạm *Vĩnh Hưng* và *Trung Kiệt* đổ bộ trái phép lên đảo Phú Lâm (thuộc nhóm đảo An Vĩnh, quần đảo Hoàng Sa của Việt Nam), dựng bia cắm mốc và tự ý đổi tên đảo thành đảo Vĩnh Hưng theo tên tàu chiến.
 
 <!-- id: EVT-1823 -->
-*   **30/11/1946:** Chủ tịch Hồ Chí Minh ký Sắc lệnh số 230/SL cử đồng chí Võ Nguyên Giáp (Bộ trưởng Bộ Quốc phòng) giữ chức Tổng Chỉ huy Quân đội Quốc gia và Dân quân tự vệ Việt Nam, thống nhất quyền chỉ huy tối cao các lực lượng vũ trang cả nước để chuẩn bị bước vào cuộc Toàn quốc kháng chiến trường kỳ chống thực dân Pháp.
+*   **30/11/1946:** Chủ tịch Hồ Chí Minh ký Sắc lệnh số 230/SL cử đồng chí Võ Nguyên Giáp (Bộ trưởng Bộ Quốc phòng) giữ chức Tổng Chỉ huy Quân đội Quốc gia và Dân quân tự vệ Việt Nam, thống nhất quyền chỉ huy tối cao các lực lượng vũ trang cả nước để chuẩn bị bước vào cuộc Toàn quốc kháng chiến trường kỳ chống thực dân Pháp. [Nguồn: Bảo tàng Lịch sử Quốc gia - Võ Nguyên Giáp: Bộ trưởng Quốc phòng (30/11/1946), https://baotanglichsu.vn/vi/Articles/3097/16642/vo-nguyen-giap-bo-truong-quoc-phong-30-11-1946.html]
 
 <!-- id: EVT-1824 -->
 *   **12/1946:** Ở tuổi 17, Đặng Thị Kim vinh dự được kết nạp vào Đảng Cộng sản Đông Dương nhờ những thành tích xuất sắc trong công tác cách mạng tại Nha Trang.

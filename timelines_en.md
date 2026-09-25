@@ -5748,7 +5748,7 @@
 *   **Jan. 1946:** Huynh Tan Phat was elected as a representative for My Tho province in the First National Assembly of the Democratic Republic of Vietnam.
 
 <!-- id: EVT-1772 -->
-*   **Jan. 1, 1946:** The Provisional Government was reformed into the Provisional Coalition Government, with added members from Viet Quoc and Viet Cach parties.
+*   **Jan. 1, 1946:** The Provisional Government was reformed into the Provisional Coalition Government, with added members from Viet Quoc and Viet Cach parties. [Source: Vietnam National Museum of History - The Provisional Coalition Government (January 1, 1946), https://baotanglichsu.vn/vi/Articles/3097/16617/chinh-phu-lien-hiep-lam-thoi-01-01-1946.html]
 
 <!-- id: EVT-1773 -->
 *   **Jan. 6, 1946:** The first General Election to elect the 1st National Assembly was held nationwide. [Source: Vietnam Government Portal - The 1946 General Election: Freedom, equality, democracy, solidarity, https://baochinhphu.vn/tong-tuyen-cu-1946-la-tu-do-binh-dang-dan-chu-doan-ket-102195907.htm]
@@ -5764,7 +5764,7 @@
 *   **Jan. 31, 1946:** The government issued a decree allowing the issuance of Vietnamese banknotes in the free zones of South-Central Vietnam.
 
 <!-- id: EVT-1776 -->
-*   **Feb. 28, 1946:** The Chongqing Agreement was signed between France and the Chiang Kai-shek government, agreeing to allow French troops to enter the North to replace Chiang's troops.
+*   **Feb. 28, 1946:** The Chongqing Agreement was signed between France and the Chiang Kai-shek government, agreeing to allow French troops to enter the North to replace Chiang's troops. [Source: Vietnam National Museum of History - The Chongqing Treaty (February 28, 1946), https://baotanglichsu.vn/vi/Articles/3097/16619/hiep-uoc-trung-khanh-28-02-1946.html]
 
 <!-- id: EVT-1777 -->
 *   **Mar. 1946:** During the 1st National Assembly, delegate Huynh Van Tieng reportedly proposed renaming Saigon to Ho Chi Minh City, reflecting the early sentiments of the Southern people towards President Ho Chi Minh.
@@ -5810,7 +5810,7 @@
 *   **Apr. 18, 1946:** General Valluy issued Instruction No. 11 outlining plans to occupy key positions in cities and stage coups.
 
 <!-- id: EVT-1789 -->
-*   **Apr. 19, 1946:** The Da Lat preparatory conference opened to prepare for official negotiations in France. The delegation of the Democratic Republic of Vietnam, headed by comrade Vo Nguyen Giap, staunchly defended national sovereignty and territorial integrity, resolutely rejecting French colonial schemes to sever Southern Vietnam (Nam Bo) from the unified nation.
+*   **Apr. 19, 1946:** The Da Lat preparatory conference opened to prepare for official negotiations in France. The delegation of the Democratic Republic of Vietnam, headed by comrade Vo Nguyen Giap, staunchly defended national sovereignty and territorial integrity, resolutely rejecting French colonial schemes to sever Southern Vietnam (Nam Bo) from the unified nation. [Source: Vietnam National Museum of History - The Dalat Preliminary Conference (April 19, 1946), https://baotanglichsu.vn/vi/Articles/3097/16625/hoi-nghi-du-bi-da-lat-19-04-1946.html]
 
 <!-- id: EVT-1790 -->
 *   **Apr. 20, 1946:** The United National Front (Mat tran Quoc gia Lien hiep) was established in the South, initially with an anti-French stance but later divided.
@@ -5831,13 +5831,13 @@
 *   **May 20 - 27, 1946:** French High Commissioner Thierry d'Argenlieu dispatched the escort ship *L'Escarmouche* to survey the Paracel Islands. Finding the islands uninhabited, a half-platoon of French troops landed on Pattle Island (Hoang Sa) to mark the restoration of French rights. They would later be relieved by troops from the *Savorgnan de Brazza*.
 
 <!-- id: EVT-1796 -->
-*   **May 29, 1946:** The Vietnamese National Popular League (Lien Viet) was established, with Huynh Thuc Khang serving as President to unite broad patriotic strata across the nation.
+*   **May 29, 1946:** The Vietnamese National Popular League (Lien Viet) was established, with Huynh Thuc Khang serving as President to unite broad patriotic strata across the nation. [Source: Vietnam National Museum of History - The Vietnam National United Front (Lien Viet) (May 29, 1946), https://baotanglichsu.vn/vi/Articles/3097/16627/hoi-lien-hiep-quoc-dan-viet-nam-lien-viet-29-5-1946.html]
 
 <!-- id: EVT-1797 -->
 *   **May 31, 1946:** President Ho Chi Minh departed for an official state visit to France, entrusting Huynh Thuc Khang as Acting State President and Acting Head of Government with the famous maxim "Adapt to all changes with an unchanging purpose" (Di bat bien, ung van bien) to steer the fledgling republic through perilous times until Oct. 21, 1946. [Source: People's Army Newspaper - Adapting to all changes with an unchanging purpose, https://ct.qdnd.vn/clb-chien-si/di-bat-bien-ung-van-bien-530799]
 
 <!-- id: EVT-1798 -->
-*   **Jun. 1, 1946:** In Saigon, High Commissioner D'Argenlieu announced the establishment of the "Autonomous Republic of Cochinchina."
+*   **Jun. 1, 1946:** In Saigon, High Commissioner D'Argenlieu announced the establishment of the "Autonomous Republic of Cochinchina." [Source: Vietnam National Museum of History - The "Autonomous Republic of Cochinchina" (June 1, 1946), https://baotanglichsu.vn/vi/Articles/3097/16628/nuoc-cong-hoa-tu-tri-nam-ky-01-06-1946.html]
 
 <!-- id: EVT-1799 -->
 *   **Jun. 30, 1946:** Dinh Thi Van was admitted to the Indochinese Communist Party. She subsequently held various leadership roles, including President of the Women's Union of Nam Dinh province from 1951 to 1953.
@@ -5865,7 +5865,7 @@
 *   **Jul. 12, 1946:** The "On Nhu Hau Street Affair" occurred. The police forces of the Democratic Republic of Vietnam raided the headquarters of the Vietnam Nationalist Party (VNQDD), dismantling a plot to overthrow the government. [Source: Nhan Dan Newspaper - The On Nhu Hau Street Affair: Lessons on defending revolutionary government in its early days, https://nhandan.vn/vu-an-pho-on-nhu-hau-bai-hoc-kinh-nghiem-ve-bao-ve-chinh-quyen-cach-mang-ngay-dau-moi-thanh-lap-post237866.html]
 
 <!-- id: EVT-1806 -->
-*   **Jul. 22, 1946:** The Vietnam Socialist Party was founded, aiming to unite patriotic intellectuals.
+*   **Jul. 22, 1946:** The Vietnam Socialist Party was founded, aiming to unite patriotic intellectuals. [Source: Vietnam National Museum of History - The Vietnamese Socialist Party (July 22, 1946), https://baotanglichsu.vn/vi/Articles/3097/16634/djang-xa-hoi-viet-nam-22-7-1946.html]
 
 <!-- id: EVT-1807 -->
 *   **Jul. 24, 1946:** While the formal French-Vietnamese negotiations at Fontainebleau were deadlocked, President Ho Chi Minh engaged in active "corridor diplomacy." He met with French Minister Pierre Cot, National Assembly President Vincent Auriol, and French Communist Party leader Jacques Duclos. In an interview with the French press on the same day, he emphasized that France recognizing Vietnam's independence would enhance its honor and influence far more than using war or coercion.
@@ -5893,7 +5893,7 @@
 *   **Sep. 21, 1946:** The Vietnam Democratic Social Party (Dan Chu Xa Hoi Dang or Dan Xa) was founded by Huynh Phu So, the founder of Hoa Hao Buddhism.
 
 <!-- id: EVT-1814 -->
-*   **Oct. 20, 1946:** President Ho Chi Minh arrived back at Haiphong port aboard the warship *Dumont d'Urville* following his nearly five-month state visit to France, warmly welcomed by the entire nation.
+*   **Oct. 20, 1946:** President Ho Chi Minh arrived back at Haiphong port aboard the warship *Dumont d'Urville* following his nearly five-month state visit to France, warmly welcomed by the entire nation. [Source: Vietnam National Museum of History - President Ho Chi Minh Returns Home (October 20, 1946), https://baotanglichsu.vn/vi/Articles/3097/16636/chu-tich-ho-chi-minh-ve-nuoc-20-10-1946.html]
 
 <!-- id: EVT-1815 -->
 *   **Oct. 28 - Nov. 9, 1946:** The 1st National Assembly held its second session, adopting the first Constitution of the Democratic Republic of Vietnam (1946 Constitution), in which Article 3 officially stipulated: "The flag of the Democratic Republic of Vietnam is rectangular with a red background and a five-pointed gold star in the center. The national anthem is Tien Quan Ca". [Source: Nhan Dan Newspaper - The Five Constitutions of Vietnam, https://special.nhandan.vn/5-ban-Hien-phap-cua-Viet-Nam/index.html]
@@ -5906,7 +5906,7 @@
 *   **Nov. 7, 1946:** President Ho Chi Minh issued the *"Notice on Adopting the Children of Martyrs"*, declaring that on behalf of the Fatherland and the people, he would sponsor and foster all orphaned children of martyrs who sacrificed their lives for national independence, instructing local authorities to compile lists and ensure full welfare support for the nation's young generation.
 
 <!-- id: EVT-1817 -->
-*   **Nov. 20, 1946:** A major conflict broke out in Haiphong (the Haiphong Incident) when French troops demanded control of customs.
+*   **Nov. 20, 1946:** A major conflict broke out in Haiphong (the Haiphong Incident) when French troops demanded control of customs. [Source: Vietnam National Museum of History - The Haiphong Incident (November 20, 1946), https://baotanglichsu.vn/vi/Articles/3097/16638/su-kien-hai-phong-20-11-1946.html]
 
 <!-- id: EVT-1818 -->
 *   **Nov. 20, 1946:** French troops also fired on police and customs officers in Lang Son, occupying the town.
@@ -5915,7 +5915,7 @@
 *   **Nov. 22, 1946:** French troops opened fire and occupied Haiphong after sending an ultimatum.
 
 <!-- id: EVT-1820 -->
-*   **Nov. 23, 1946:** The French cruiser *Suffren* and colonial artillery units launched a devastating naval bombardment of the port city of Haiphong, shelling densely populated civilian quarters and massacring thousands of innocent civilians (estimated between 2,000 and over 6,000 casualties), directly triggering the outbreak of the nationwide Resistance War (Dec. 19, 1946).
+*   **Nov. 23, 1946:** The French cruiser *Suffren* and colonial artillery units launched a devastating naval bombardment of the port city of Haiphong, shelling densely populated civilian quarters and massacring thousands of innocent civilians (estimated between 2,000 and over 6,000 casualties), directly triggering the outbreak of the nationwide Resistance War (Dec. 19, 1946). [Source: Vietnam National Museum of History - French Forces Shell Haiphong (November 23, 1946), https://baotanglichsu.vn/vi/Articles/3097/16640/quan-phap-ban-phao-hai-phong-23-11-1946.html]
 
 <!-- id: EVT-1821 -->
 *   **Nov. 23, 1946:** The First National Congress of the Vietnam Red Cross Society convened at Thanh Am communal house (Ung Hoa, Ha Dong, now Hanoi), officially founding the Vietnam Red Cross Society. Dr. Vu Dinh Tung was elected as its first President, serving for 25 years (1946–1971), with President Ho Chi Minh honored as Honorary President.
@@ -5924,7 +5924,7 @@
 *   **Nov. 29, 1946:** Under the pretext of disarming Japanese forces after World War II, the Republic of China (Chiang Kai-shek regime) dispatched naval warships *Yung-hsing* and *Chung-chien* to illegally land on Woody Island (Phu Lam, Amphitrite Group, Vietnam's Paracel Islands), unlawfully erecting boundary markers and renaming it Yongxing Island after their warship.
 
 <!-- id: EVT-1823 -->
-*   **Nov. 30, 1946:** President Ho Chi Minh signed Decree No. 230/SL appointing comrade Vo Nguyen Giap (Minister of National Defense) as Commander-in-Chief of the National Army and Self-Defense Militia of Vietnam, establishing unified supreme operational command over all armed forces nationwide in preparation for protracted nationwide resistance against French colonialism.
+*   **Nov. 30, 1946:** President Ho Chi Minh signed Decree No. 230/SL appointing comrade Vo Nguyen Giap (Minister of National Defense) as Commander-in-Chief of the National Army and Self-Defense Militia of Vietnam, establishing unified supreme operational command over all armed forces nationwide in preparation for protracted nationwide resistance against French colonialism. [Source: Vietnam National Museum of History - Vo Nguyen Giap as Defense Minister (November 30, 1946), https://baotanglichsu.vn/vi/Articles/3097/16642/vo-nguyen-giap-bo-truong-quoc-phong-30-11-1946.html]
 
 <!-- id: EVT-1824 -->
 *   **Dec. 1946:** At the age of 17, Đặng Thị Kim was admitted to the Indochinese Communist Party for her outstanding revolutionary activities in Nha Trang.
