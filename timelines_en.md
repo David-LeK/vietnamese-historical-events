@@ -6310,10 +6310,10 @@
 *   **Sep. 18, 1950:** The Vietnamese forces completely controlled Dong Khe after 54 hours of intense fighting, severing the French defense line on Route 4. [Source: Vietnam National Museum of History - The Border Campaign - Autumn-Winter 1950, https://baotanglichsu.vn/vi/Articles/3097/15703/chien-dich-bien-gioi-thu-dong-1950.html]
 
 <!-- id: EVT-1944 -->
-*   **Oct. 1-8, 1950:** The Vietnamese forces besieged and completely annihilated two elite French mobile groups, the Lepage group and the Charton group, in the Coc Xa - Hill 477 area.
+*   **Oct. 1-8, 1950:** The Vietnamese forces besieged and completely annihilated two elite French mobile groups, the Lepage group and the Charton group, in the Coc Xa - Hill 477 area. [Source: Vietnam National Museum of History - The Border Campaign - Autumn-Winter 1950, https://baotanglichsu.vn/vi/Articles/3097/15703/chien-dich-bien-gioi-thu-dong-1950.html]
 
 <!-- id: EVT-1945 -->
-*   **Oct. 11-22, 1950:** Facing the threat of annihilation, French troops panicked and fled from a series of positions on Route 4, such as That Khe, Na Sam, and Lang Son. By October 22, the French were entirely cleared from Route 4.
+*   **Oct. 11-22, 1950:** Facing the threat of annihilation, French troops panicked and fled from a series of positions on Route 4, such as That Khe, Na Sam, and Lang Son. By October 22, the French were entirely cleared from Route 4. [Source: Vietnam National Museum of History - The Border Campaign - Autumn-Winter 1950, https://baotanglichsu.vn/vi/Articles/3097/15703/chien-dich-bien-gioi-thu-dong-1950.html]
 
 <!-- id: EVT-1946 -->
 *   **Oct. 14, 1950:** The French government officially transferred the administrative control of the archipelagos to the Bao Dai government.
@@ -6325,16 +6325,16 @@
 *   **Late 1950:** Georges Boudarel left his teaching position to join the Viet Minh forces. A French military court in Saigon subsequently sentenced him to death in absentia for desertion. He was assigned to be a French announcer for the clandestine Voice of Free Saigon - Cho Lon in War Zone D, adopting the Vietnamese alias Đại Đồng (but widely known by his comrades as "Bu Đa" or Bouda).
 
 <!-- id: EVT-1949 -->
-*   **Dec. 1950:** General De Lattre de Tassigny was sent to Indochina as High Commissioner and Commander-in-Chief, holding all military and civilian power.
+*   **Dec. 1950:** General De Lattre de Tassigny was sent to Indochina as High Commissioner and Commander-in-Chief, holding all military and civilian power. [Source: Vietnam National Museum of History - De Lattre: High Commissioner and Commander-in-Chief (December 1950), https://baotanglichsu.vn/vi/Articles/3097/16676/de-lattre-cao-uy-va-tong-tu-lenh-12-1950.html]
 
 <!-- id: EVT-1950 -->
-*   **Dec. 6, 1950:** General De Lattre de Tassigny was appointed High Commissioner and Commander-in-Chief of the French army in Indochina, beginning the implementation of a new military plan.
+*   **Dec. 6, 1950:** General De Lattre de Tassigny was appointed High Commissioner and Commander-in-Chief of the French army in Indochina, beginning the implementation of a new military plan. [Source: Vietnam National Museum of History - De Lattre: High Commissioner and Commander-in-Chief (December 1950), https://baotanglichsu.vn/vi/Articles/3097/16676/de-lattre-cao-uy-va-tong-tu-lenh-12-1950.html]
 
 <!-- id: EVT-1951 -->
 *   **Dec. 23, 1950:** After 10 months of imprisonment and widespread protests in France and internationally demanding her release, Raymonde Dien was freed.
 
 <!-- id: EVT-1952 -->
-*   **Dec. 23, 1950:** The Mutual Defense Agreement for Indochina was signed between the US, France, and the puppet governments (Vietnam, Laos, Cambodia), formalizing US intervention.
+*   **Dec. 23, 1950:** The Mutual Defense Agreement for Indochina was signed between the US, France, and the puppet governments (Vietnam, Laos, Cambodia), formalizing US intervention. [Source: Vietnam National Museum of History - The Indochina Mutual Defense Treaty (December 23, 1950), https://baotanglichsu.vn/vi/Articles/3097/16675/hiep-dinh-phong-thu-chung-dong-duong-23-12-1950.html]
 
 <!-- id: EVT-1953 -->
 *   **Dec. 25, 1950 - Jan. 18, 1951:** The Vietnamese forces launched the Tran Hung Dao Campaign (also known as the Midlands Campaign), attacking the enemy's defense line in the Vinh Yen - Phuc Yen area. During this campaign, on January 15, 1951, the French military used napalm bombs for the first time in Vietnam. [Source: People's Army Newspaper - December 25, 1950: Launch of the Tran Hung Dao (Midlands) Campaign, https://www.qdnd.vn/tu-lieu-ho-so/ngay-nay-nam-xua/25-12-1950-ngay-mo-man-chien-dich-tran-hung-dao-trung-du-714777]
@@ -6355,13 +6355,13 @@
     *   Le Duan was elected to the Central Committee and the Politburo. As Secretary of the Central Office for South Vietnam (COSVN), he directly led the resistance in Nam Bo.
 
 <!-- id: EVT-1957 -->
-*   **Mar. 3-7, 1951:** The National Congress for the unification of Viet Minh and Lien Viet was held, establishing the **United Vietnam National Front** (Lien Viet Front for short).
+*   **Mar. 3-7, 1951:** The National Congress for the unification of Viet Minh and Lien Viet was held, establishing the **United Vietnam National Front** (Lien Viet Front for short). [Source: Vietnam National Museum of History - National Congress to Unify Viet Minh and Lien Viet (1951), https://baotanglichsu.vn/vi/Articles/3097/15844/djoa-djai-hoi-toan-quoc-thong-nhat-viet-minh-lien-viet-1951.html]
 
 <!-- id: EVT-1958 -->
 *   **Mar. 11, 1951:** A conference of delegates from the fronts of the three countries Vietnam-Khmer-Laos met in Viet Bac, deciding to form the **Vietnam-Mien-Lao People's Alliance bloc** to jointly fight the common enemy.
 
 <!-- id: EVT-1959 -->
-*   **Mar. 23 - Apr. 7, 1951:** The Hoang Hoa Tham Campaign (also known as the Route 18 Campaign) was launched, attacking the enemy's defense line in the area from Pha Lai to Uong Bi and Mao Khe.
+*   **Mar. 23 - Apr. 7, 1951:** The Hoang Hoa Tham Campaign (also known as the Route 18 Campaign) was launched, attacking the enemy's defense line in the area from Pha Lai to Uong Bi and Mao Khe. [Source: Vietnam National Museum of History - The Hoang Hoa Tham Campaign (1951), https://baotanglichsu.vn/vi/Articles/3097/15706/chien-dich-hoang-hoa-tham-1951.html]
 
 <!-- id: EVT-1960 -->
 *   **May 6, 1951:** President Ho Chi Minh signed decree No. 15/SL to establish the **National Bank of Vietnam**. [Source: https://sbv.gov.vn/en/w/sbvwebapp01sbv072934]
@@ -6376,13 +6376,13 @@
 *   **May 28 - Jun. 20, 1951:** The Quang Trung (Ha Nam Ninh) Campaign was launched in the Ha Nam - Nam Dinh - Ninh Binh area to break the enemy's Day River defense line. In the opening attacks, Lieutenant Bernard de Lattre de Tassigny (the only son of French Commander-in-Chief Jean de Lattre de Tassigny) was killed in action at Ninh Binh. During this campaign, Cù Chính Lan and his company valiantly fought against five enemy companies despite severe equipment shortages, capturing weapons to destroy the enemy. For this feat, he was commended as the "hero who kills the enemy bare-handed". [Source: People's Army Newspaper - Fighting the enemy in the plains 55 years ago, https://www.qdnd.vn/ho-so-su-kien/dai-tuong-vo-nguyen-giap/danh-dich-o-dong-bang-55-nam-truoc-260376]
 
 <!-- id: EVT-1964 -->
-*   **Jun. 28, 1951:** The Kampuchean People's Revolutionary Party was established.
+*   **Jun. 28, 1951:** The Kampuchean People's Revolutionary Party was established. [Source: Vietnam National Museum of History - The Cambodian People's Revolutionary Party Founded (June 28, 1951), https://baotanglichsu.vn/vi/Articles/3097/16677/djang-nhan-dan-cach-mang-campuchia-thanh-lap-28-06-1951.html]
 
 <!-- id: EVT-1965 -->
 *   **Jul. 15, 1951:** Bao Dai signed a "General Mobilization" edict, establishing the so-called "national army" to implement France's "using Vietnamese to fight Vietnamese" scheme.
 
 <!-- id: EVT-1966 -->
-*   **Jul. 23, 1951:** Chairman of the Central Inspection Commission Ho Tung Mau heroically sacrificed his life while on an official mission in Thanh Hoa due to a French air strike.
+*   **Jul. 23, 1951:** Chairman of the Central Inspection Commission Ho Tung Mau heroically sacrificed his life while on an official mission in Thanh Hoa due to a French air strike. [Source: Vietnam National Museum of History - Ho Tung Mau (1896-1951): One of President Ho Chi Minh's Closest Friends, https://baotanglichsu.vn/vi/Articles/3096/13199/ho-tung-mau-1896-1951-mot-trong-nhung-nguoi-ban-than-thiet-cua-chu-tich-ho-chi-minh.html]
 
 <!-- id: EVT-1967 -->
 *   **Aug. 15, 1951:** The Foreign Minister of the People's Republic of China, Zhou Enlai, issued a statement asserting China's historical rights over the archipelagos in response to the draft peace treaty with Japan.
@@ -6397,7 +6397,7 @@
 *   **Sep. 27 - Oct. 5, 1951:** The Central Committee held its second conference, outlining three major tasks: annihilate enemy manpower, thwart the enemy's "using war to feed war" scheme, and nurture the people's strength.
 
 <!-- id: EVT-1971 -->
-*   **Sep. 29 - Oct. 31, 1951:** The Ly Thuong Kiet Campaign was launched, attacking the enemy in the Nghia Lo area (Yen Bai).
+*   **Sep. 29 - Oct. 31, 1951:** The Ly Thuong Kiet Campaign was launched, attacking the enemy in the Nghia Lo area (Yen Bai). [Source: Vietnam National Museum of History - The Ly Thuong Kiet Campaign (1951), https://baotanglichsu.vn/vi/Articles/3097/15707/chien-dich-ly-thuong-kiet-1951.html]
 
 <!-- id: EVT-1972 -->
 *   **Sep. 29, 1951:** Lieutenant General Nguyen Binh was killed while traveling north to report on the situation to the Party Central Committee and President Ho Chi Minh.

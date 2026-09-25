@@ -6310,10 +6310,10 @@
 *   **18/09/1950:** Quân đội Việt Nam hoàn toàn làm chủ Đông Khê sau 54 giờ chiến đấu ác liệt, cắt đôi phòng tuyến của Pháp trên đường số 4. [Nguồn: Bảo tàng Lịch sử Quốc gia - Chiến dịch Biên giới - Thu Đông 1950, https://baotanglichsu.vn/vi/Articles/3097/15703/chien-dich-bien-gioi-thu-dong-1950.html]
 
 <!-- id: EVT-1944 -->
-*   **01-08/10/1950:** Quân đội Việt Nam bao vây, tiêu diệt hoàn toàn hai binh đoàn tinh nhuệ của Pháp là binh đoàn Lepage và binh đoàn Charton tại khu vực Cốc Xá - điểm cao 477.
+*   **01-08/10/1950:** Quân đội Việt Nam bao vây, tiêu diệt hoàn toàn hai binh đoàn tinh nhuệ của Pháp là binh đoàn Lepage và binh đoàn Charton tại khu vực Cốc Xá - điểm cao 477. [Nguồn: Bảo tàng Lịch sử Quốc gia - Chiến dịch Biên giới - Thu Đông 1950, https://baotanglichsu.vn/vi/Articles/3097/15703/chien-dich-bien-gioi-thu-dong-1950.html]
 
 <!-- id: EVT-1945 -->
-*   **11-22/10/1950:** Trước nguy cơ bị tiêu diệt, quân Pháp hoảng loạn rút chạy khỏi hàng loạt vị trí trên đường số 4 như Thất Khê, Na Sầm, Lạng Sơn. Đến ngày 22/10, quân Pháp phải rút bỏ hoàn toàn khỏi tuyến đường này.
+*   **11-22/10/1950:** Trước nguy cơ bị tiêu diệt, quân Pháp hoảng loạn rút chạy khỏi hàng loạt vị trí trên đường số 4 như Thất Khê, Na Sầm, Lạng Sơn. Đến ngày 22/10, quân Pháp phải rút bỏ hoàn toàn khỏi tuyến đường này. [Nguồn: Bảo tàng Lịch sử Quốc gia - Chiến dịch Biên giới - Thu Đông 1950, https://baotanglichsu.vn/vi/Articles/3097/15703/chien-dich-bien-gioi-thu-dong-1950.html]
 
 <!-- id: EVT-1946 -->
 *   **14/10/1950:** Chính phủ Pháp chính thức chuyển giao quyền quản lý hành chính các quần đảo cho chính phủ Bảo Đại.
@@ -6325,16 +6325,16 @@
 *   **Cuối năm 1950:** Georges Boudarel rời bỏ bục giảng để tham gia lực lượng Việt Minh. Tòa án quân sự Pháp tại Sài Gòn sau đó đã tuyên án tử hình vắng mặt ông vì tội đào ngũ. Ông được phân công làm phát thanh viên tiếng Pháp của Đài Tiếng nói Sài Gòn - Chợ Lớn tự do ở Chiến khu Đ, lấy bí danh tiếng Việt là Đại Đồng (được đồng chí gọi thân thương là "Bu Đa" hay Bouda).
 
 <!-- id: EVT-1949 -->
-*   **12/1950:** Tướng De Lattre de Tassigny được cử sang Đông Dương làm Cao ủy kiêm Tổng tư lệnh, nắm toàn bộ quyền lực quân sự và dân sự.
+*   **12/1950:** Tướng De Lattre de Tassigny được cử sang Đông Dương làm Cao ủy kiêm Tổng tư lệnh, nắm toàn bộ quyền lực quân sự và dân sự. [Nguồn: Bảo tàng Lịch sử Quốc gia - De Lattre: Cao ủy và Tổng tư lệnh (12/1950), https://baotanglichsu.vn/vi/Articles/3097/16676/de-lattre-cao-uy-va-tong-tu-lenh-12-1950.html]
 
 <!-- id: EVT-1950 -->
-*   **06/12/1950:** Tướng De Lattre de Tassigny được bổ nhiệm làm Cao ủy kiêm Tổng tư lệnh quân đội Pháp ở Đông Dương, bắt đầu triển khai kế hoạch quân sự mới.
+*   **06/12/1950:** Tướng De Lattre de Tassigny được bổ nhiệm làm Cao ủy kiêm Tổng tư lệnh quân đội Pháp ở Đông Dương, bắt đầu triển khai kế hoạch quân sự mới. [Nguồn: Bảo tàng Lịch sử Quốc gia - De Lattre: Cao ủy và Tổng tư lệnh (12/1950), https://baotanglichsu.vn/vi/Articles/3097/16676/de-lattre-cao-uy-va-tong-tu-lenh-12-1950.html]
 
 <!-- id: EVT-1951 -->
 *   **23/12/1950:** Sau 10 tháng bị giam cầm và trải qua nhiều cuộc đấu tranh, biểu tình đòi trả tự do của nhân dân Pháp và quốc tế, Raymonde Dien đã được thả tự do.
 
 <!-- id: EVT-1952 -->
-*   **23/12/1950:** Hiệp định phòng thủ chung Đông Dương được ký kết giữa Mỹ, Pháp và các chính phủ bù nhìn (Việt Nam, Lào, Campuchia), chính thức hóa sự can thiệp của Mỹ.
+*   **23/12/1950:** Hiệp định phòng thủ chung Đông Dương được ký kết giữa Mỹ, Pháp và các chính phủ bù nhìn (Việt Nam, Lào, Campuchia), chính thức hóa sự can thiệp của Mỹ. [Nguồn: Bảo tàng Lịch sử Quốc gia - Hiệp định phòng thủ chung Đông Dương (23/12/1950), https://baotanglichsu.vn/vi/Articles/3097/16675/hiep-dinh-phong-thu-chung-dong-duong-23-12-1950.html]
 
 <!-- id: EVT-1953 -->
 *   **25/12/1950 - 18/01/1951:** Quân đội Việt Nam mở Chiến dịch Trần Hưng Đạo (còn gọi là Chiến dịch Trung du) tiến công phòng tuyến địch ở khu vực Vĩnh Yên - Phúc Yên. Trong chiến dịch này, ngày 15/01/1951, Pháp lần đầu tiên sử dụng bom napalm tại Việt Nam. [Nguồn: Báo Quân đội nhân dân - 25-12-1950: Ngày mở màn Chiến dịch Trần Hưng Đạo (Trung Du), https://www.qdnd.vn/tu-lieu-ho-so/ngay-nay-nam-xua/25-12-1950-ngay-mo-man-chien-dich-tran-hung-dao-trung-du-714777]
@@ -6355,13 +6355,13 @@
     *   Đồng chí Lê Duẩn được bầu vào Ban Chấp hành Trung ương và Bộ Chính trị. Với cương vị Bí thư Trung ương Cục miền Nam, ông trực tiếp lãnh đạo cuộc kháng chiến ở Nam Bộ.
 
 <!-- id: EVT-1957 -->
-*   **03-07/03/1951:** Đại hội toàn quốc thống nhất Việt Minh - Liên Việt, thành lập **Mặt trận Liên hiệp quốc dân Việt Nam** (gọi tắt là Mặt trận Liên Việt).
+*   **03-07/03/1951:** Đại hội toàn quốc thống nhất Việt Minh - Liên Việt, thành lập **Mặt trận Liên hiệp quốc dân Việt Nam** (gọi tắt là Mặt trận Liên Việt). [Nguồn: Bảo tàng Lịch sử Quốc gia - Đại hội toàn quốc thống nhất Việt Minh - Liên Việt (1951), https://baotanglichsu.vn/vi/Articles/3097/15844/djoa-djai-hoi-toan-quoc-thong-nhat-viet-minh-lien-viet-1951.html]
 
 <!-- id: EVT-1958 -->
 *   **11/03/1951:** Hội nghị đại biểu Mặt trận ba nước Việt Nam - Khơme - Lào họp tại Việt Bắc, quyết định thành lập **khối Liên minh nhân dân Việt - Miên - Lào** để cùng chống kẻ thù chung.
 
 <!-- id: EVT-1959 -->
-*   **23/03 - 07/04/1951:** Mở Chiến dịch Hoàng Hoa Thám (còn gọi là Chiến dịch đường số 18), tiến công phòng tuyến địch ở khu vực từ Phả Lại đến Uông Bí, Mạo Khê.
+*   **23/03 - 07/04/1951:** Mở Chiến dịch Hoàng Hoa Thám (còn gọi là Chiến dịch đường số 18), tiến công phòng tuyến địch ở khu vực từ Phả Lại đến Uông Bí, Mạo Khê. [Nguồn: Bảo tàng Lịch sử Quốc gia - Chiến dịch Hoàng Hoa Thám (1951), https://baotanglichsu.vn/vi/Articles/3097/15706/chien-dich-hoang-hoa-tham-1951.html]
 
 <!-- id: EVT-1960 -->
 *   **06/05/1951:** Chủ tịch Hồ Chí Minh ký sắc lệnh số 15/SL thành lập **Ngân hàng Quốc gia Việt Nam**. [Nguồn: https://sbv.gov.vn/en/w/sbvwebapp01sbv072934]
@@ -6376,13 +6376,13 @@
 *   **28/05 - 20/06/1951:** Mở Chiến dịch Quang Trung (Hà Nam Ninh) ở khu vực Hà Nam - Nam Định - Ninh Bình nhằm phá vỡ phòng tuyến sông Đáy của địch. Trong các đợt tấn công mở màn, trung úy Bernard de Lattre de Tassigny (con trai duy nhất của Tổng chỉ huy Pháp) đã tử trận tại Ninh Bình. Trong chiến dịch này, Cù Chính Lan cùng đại đội của mình dù trang bị thiếu thốn đã dũng cảm chiến đấu với 5 đại đội địch, cướp súng địch để diệt địch. Sau trận đánh này, ông được tuyên dương là "anh hùng tay không giết giặc". [Nguồn: Báo Quân đội nhân dân - Đánh địch ở đồng bằng 55 năm trước, https://www.qdnd.vn/ho-so-su-kien/dai-tuong-vo-nguyen-giap/danh-dich-o-dong-bang-55-nam-truoc-260376]
 
 <!-- id: EVT-1964 -->
-*   **28/06/1951:** Đảng Nhân dân Cách mạng Campuchia được thành lập.
+*   **28/06/1951:** Đảng Nhân dân Cách mạng Campuchia được thành lập. [Nguồn: Bảo tàng Lịch sử Quốc gia - Đảng Nhân dân Cách mạng Campuchia thành lập (28/06/1951), https://baotanglichsu.vn/vi/Articles/3097/16677/djang-nhan-dan-cach-mang-campuchia-thanh-lap-28-06-1951.html]
 
 <!-- id: EVT-1965 -->
 *   **15/07/1951:** Bảo Đại ký dụ "Tổng động viên", thành lập cái gọi là "quân đội quốc gia" nhằm thực hiện âm mưu "dùng người Việt đánh người Việt" của Pháp.
 
 <!-- id: EVT-1966 -->
-*   **23/07/1951:** Chủ nhiệm Ủy ban Kiểm tra Trung ương Hồ Tùng Mậu anh dũng hy sinh trên đường đi công tác tại Thanh Hóa do máy bay Pháp bắn phá.
+*   **23/07/1951:** Chủ nhiệm Ủy ban Kiểm tra Trung ương Hồ Tùng Mậu anh dũng hy sinh trên đường đi công tác tại Thanh Hóa do máy bay Pháp bắn phá. [Nguồn: Bảo tàng Lịch sử Quốc gia - Hồ Tùng Mậu (1896-1951): Một trong những người bạn thân thiết của Chủ tịch Hồ Chí Minh, https://baotanglichsu.vn/vi/Articles/3096/13199/ho-tung-mau-1896-1951-mot-trong-nhung-nguoi-ban-than-thiet-cua-chu-tich-ho-chi-minh.html]
 
 <!-- id: EVT-1967 -->
 *   **15/08/1951:** Bộ trưởng Ngoại giao Cộng hòa Nhân dân Trung Hoa Chu Ân Lai ra tuyên bố khẳng định các quyền lịch sử của Trung Quốc đối với các quần đảo nhằm đáp trả dự thảo hiệp ước hòa bình với Nhật Bản.
@@ -6397,7 +6397,7 @@
 *   **27/09 - 05/10/1951:** Ban Chấp hành Trung ương họp Hội nghị lần thứ hai, đề ra ba nhiệm vụ lớn: tiêu diệt sinh lực địch, phá âm mưu "lấy chiến tranh nuôi chiến tranh" của địch, và bồi dưỡng sức dân.
 
 <!-- id: EVT-1971 -->
-*   **29/09 - 31/10/1951:** Mở Chiến dịch Lý Thường Kiệt, tiến công địch ở khu vực Nghĩa Lộ (Yên Bái).
+*   **29/09 - 31/10/1951:** Mở Chiến dịch Lý Thường Kiệt, tiến công địch ở khu vực Nghĩa Lộ (Yên Bái). [Nguồn: Bảo tàng Lịch sử Quốc gia - Chiến dịch Lý Thường Kiệt (1951), https://baotanglichsu.vn/vi/Articles/3097/15707/chien-dich-ly-thuong-kiet-1951.html]
 
 <!-- id: EVT-1972 -->
 *   **29/09/1951:** Trung tướng Nguyễn Bình hy sinh trên đường ra Bắc báo cáo tình hình với Trung ương Đảng và Chủ tịch Hồ Chí Minh.
