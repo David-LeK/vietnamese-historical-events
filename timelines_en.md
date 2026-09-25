@@ -5479,13 +5479,13 @@
 *   **Mar. 1945:** Huynh Tan Phat was admitted to the Indochinese Communist Party.
 
 <!-- id: EVT-1710 -->
-*   **Mar. 9, 1945:** The Japanese military launched **Operation Meigo Sakusen** (the Coup d'État of March 9, 1945), staging simultaneous surprise attacks to disarm and overthrow the French colonial administration across Indochina, monopolizing control over Vietnam and establishing the puppet government of Tran Trong Kim. The coup triggered a profound political crisis, creating a historic opportunity for the Indochinese Communist Party to launch the nation-wide Anti-Japanese National Salvation movement, serving as the direct prelude to the August Revolution that seized state power for the people.
+*   **Mar. 9, 1945:** The Japanese military launched **Operation Meigo Sakusen** (the Coup d'État of March 9, 1945), staging simultaneous surprise attacks to disarm and overthrow the French colonial administration across Indochina, monopolizing control over Vietnam and establishing the puppet government of Tran Trong Kim. The coup triggered a profound political crisis, creating a historic opportunity for the Indochinese Communist Party to launch the nation-wide Anti-Japanese National Salvation movement, serving as the direct prelude to the August Revolution that seized state power for the people. [Source: https://ivides.vnu.edu.vn/news/ban-tin/cau-truc-quyen-luc-o-viet-nam-sau-cuoc-dao-chinh-ngay-9-3-1945-va-van-de-khoang-trong-quyen-luc-trong-cach-mang-thang-tam-138.html]
 
 <!-- id: EVT-1711 -->
 *   **Mar. 9, 1945:** Following the Japanese coup, the Indochinese guard unit on the Paracel Islands was taken prisoner by the Japanese navy.
 
 <!-- id: EVT-1712 -->
-*   **Mar. 9-12, 1945:** The Party Central Standing Committee met and issued the historic directive "The Japanese-French Clash and Our Actions," launching the anti-Japanese national salvation high tide under the banner "Break open rice granaries to relieve hunger," sparking a nationwide movement seizing rice stores from Japanese forces to save millions from starvation.
+*   **Mar. 9-12, 1945:** The Party Central Standing Committee met and issued the historic directive "The Japanese-French Clash and Our Actions," launching the anti-Japanese national salvation high tide under the banner "Break open rice granaries to relieve hunger," sparking a nationwide movement seizing rice stores from Japanese forces to save millions from starvation. [Source: https://nhandan.vn/noi-khoi-nguon-thang-loi-cua-cach-mang-thang-tam-post880506.html]
 
 <!-- id: EVT-1713 -->
 *   **Mar. 10, 1945:** The Vietnam National Independence Party was founded.
@@ -5509,7 +5509,7 @@
 *   **May 15, 1945:** At Cho Chu (Dinh Hoa, Thai Nguyen), the Vietnam Propaganda and Liberation Army and the National Salvation Army were officially unified into the **Vietnam Liberation Army** following resolutions of the Tonkin Revolutionary Military Conference. Comrade Vo Nguyen Giap was appointed commander of the unified Vietnam Liberation Army.
 
 <!-- id: EVT-1720 -->
-*   **Jun. 4, 1945:** The Viet Bac Liberated Zone was officially established.
+*   **Jun. 4, 1945:** The Viet Bac Liberated Zone was officially established. [Source: https://baotintuc.vn/giai-mat/thanh-lap-khu-giai-phong-viet-bac-20140603111600345.htm]
 
 <!-- id: EVT-1721 -->
 *   **Jul. 17 - Aug. 2, 1945:** The Potsdam Conference decided that Allied forces would enter Vietnam to disarm the Japanese army.
@@ -5533,7 +5533,7 @@
 *   **Aug. 13-15, 1945:** The National Conference of the Indochinese Communist Party in Tan Trao decided to launch a General Uprising to seize power nationwide.
 
 <!-- id: EVT-1728 -->
-*   **Aug. 13, 1945:** The National Uprising Committee issued "Military Order No. 1."
+*   **Aug. 13, 1945:** The National Uprising Committee issued "Military Order No. 1." [Source: https://nhandan.vn/ngay-1381945-uy-ban-khoi-nghia-ra-quan-lenh-so-1-post900415.html]
 
 <!-- id: EVT-1729 -->
 *   **Aug. 14, 1945:** The United National Front (Mat tran Quoc gia Thong nhat) was established in Southern Vietnam, comprised of various nationalist parties and religious groups like Cao Dai and Hoa Hao.
@@ -5542,7 +5542,7 @@
 *   **Aug. 16, 1945:** Under the shade of the Tân Trào Banyan Tree (Tuyên Quang), the Vietnam National Liberation Army held an oath and departure ceremony to liberate Thái Nguyên town and advance toward Hanoi. Comrade Võ Nguyên Giáp read Military Order No. 1 of the National Uprising Committee, officially launching the military offensive and opening the nationwide General Insurrection in the August Revolution.
 
 <!-- id: EVT-1731 -->
-*   **Aug. 16-17, 1945:** The National Congress convened at Tan Trao communal house (Tuyen Quang), unanimously supporting the Party's General Uprising policy and adopting the 10 major policies of the Viet Minh, electing the National Liberation Committee of Vietnam (the Provisional Government) chaired by Ho Chi Minh, and officially designating the red flag with a five-pointed gold star as the National Flag and *Tien Quan Ca* (The Song of the Marching Army) as the National Anthem.
+*   **Aug. 16-17, 1945:** The National Congress convened at Tan Trao communal house (Tuyen Quang), unanimously supporting the Party's General Uprising policy and adopting the 10 major policies of the Viet Minh, electing the National Liberation Committee of Vietnam (the Provisional Government) chaired by Ho Chi Minh, and officially designating the red flag with a five-pointed gold star as the National Flag and *Tien Quan Ca* (The Song of the Marching Army) as the National Anthem. [Source: https://nhandan.vn/ve-noi-dien-ra-quoc-dan-dai-hoi-tan-trao-post762305.html]
 
 ![Historical Image](images/event_20260924_111648.webp)
 
@@ -5552,7 +5552,7 @@
 *   **Aug. 17, 1945:** A rally organized by the Civil Servants' Association at the Hanoi Opera House Square was transformed by Viet Minh forces and the masses into a massive pro-revolutionary demonstration. Here, composer Van Cao's **"Tien Quan Ca"** was sung publicly for the first time before tens of thousands of citizens under a gigantic red flag with a gold star, paving the direct path for the August 19 General Uprising in Hanoi.
 
 <!-- id: EVT-1733 -->
-*   **Aug. 19, 1945:** The General Uprising succeeded in Hanoi (August Revolution).
+*   **Aug. 19, 1945:** The General Uprising succeeded in Hanoi (August Revolution). [Source: https://nhandan.vn/ngay-1981945-cach-mang-thang-tam-thanh-cong-tai-thu-do-ha-noi-post900562.html]
 
 ![Historical Image](images/event_20260923_123037.webp)
 
@@ -5574,7 +5574,7 @@
 *   **Aug. 28, 1945:** The Vietnam National Liberation Committee was reorganized into the Provisional Government of the Democratic Republic of Vietnam headed by President Ho Chi Minh; comrade Vo Nguyen Giap was appointed Minister of Internal Affairs and placed in charge of military affairs. Simultaneously, 200,000 Kuomintang troops under Lu Han began entering northern Vietnam (north of the 16th parallel) ostensibly to disarm Japanese forces.
 
 <!-- id: EVT-1739 -->
-*   **Aug. 30, 1945:** Emperor Bao Dai read the Abdication Edict in Hue, ending the feudal regime in Vietnam.
+*   **Aug. 30, 1945:** Emperor Bao Dai read the Abdication Edict in Hue, ending the feudal regime in Vietnam. [Source: https://nhandan.vn/ngay-3081945-vua-bao-dai-thoai-vi-post902540.html]
 
 ![Historical Image](images/event_20260923_104916.webp)
 
@@ -5593,7 +5593,7 @@
 *   **Sep. 1, 1945:** The provisional government of the Democratic Republic of Vietnam issued Decree No. 01/SL, declaring time zone 7 as the official time. From then on, the North and Central regions used time zone 7.
 
 <!-- id: EVT-1743 -->
-*   **Sep. 2, 1945:** At Ba Dinh Square (Hanoi), President Ho Chi Minh read the Declaration of Independence, proclaiming the birth of the Democratic Republic of Vietnam before a sea of people under red flags with yellow stars. Prior to the declaration, the first national flag-raising ceremony was conducted by liberation army combatants Dam Thi Loan and Le Thi (Duong Thi Theu) to the melody of "Tien Quan Ca". During the ceremony, Minister of the Interior Vo Nguyen Giap delivered a major political report on domestic and foreign policy, calling upon the entire nation to fiercely safeguard newly won independence.
+*   **Sep. 2, 1945:** At Ba Dinh Square (Hanoi), President Ho Chi Minh read the Declaration of Independence, proclaiming the birth of the Democratic Republic of Vietnam before a sea of people under red flags with yellow stars. Prior to the declaration, the first national flag-raising ceremony was conducted by liberation army combatants Dam Thi Loan and Le Thi (Duong Thi Theu) to the melody of "Tien Quan Ca". During the ceremony, Minister of the Interior Vo Nguyen Giap delivered a major political report on domestic and foreign policy, calling upon the entire nation to fiercely safeguard newly won independence. [Source: https://baochinhphu.vn/tuyen-ngon-doc-lap-va-nha-nuoc-phap-quyen-102299509.htm]
 
 ![Historical Image](images/event_20260923_102957.webp)
 
@@ -5620,7 +5620,7 @@
 *   **Sep. 7, 1945:** President Ho Chi Minh directed the establishment of the General Staff of the Vietnam People's Army and appointed Comrade Hoang Van Thai as its first Chief of the General Staff.
 
 <!-- id: EVT-1749 -->
-*   **Sep. 8, 1945:** President Ho Chi Minh signed Decree No. 14-SL, stipulating that a General Election would be held within two months.
+*   **Sep. 8, 1945:** President Ho Chi Minh signed Decree No. 14-SL, stipulating that a General Election would be held within two months. [Source: https://baochinhphu.vn/tong-tuyen-cu-1946-ket-qua-tinh-than-doan-ket-cua-dan-toc-viet-nam-102196060.htm]
 
 <!-- id: EVT-1750 -->
 *   **Sep. 10, 1945:** Following his abdication in Hue ('preferring to be a citizen of a free nation rather than the ruler of an enslaved one'), former Emperor Bao Dai (citizen Nguyen Vinh Thuy) accepted President Ho Chi Minh's invitation and was formally appointed **Supreme Advisor to the Provisional Government of the Democratic Republic of Vietnam** under Decree No. 23-SL.
@@ -5632,7 +5632,7 @@
 *   **Sep. 16, 1945:** The "Golden Week" began, mobilizing the people to contribute financially to the country.
 
 <!-- id: EVT-1753 -->
-*   **Night of Sep. 22-23, 1945:** French troops, with the help of British troops, opened fire and occupied Saigon.
+*   **Night of Sep. 22-23, 1945:** French troops, with the help of British troops, opened fire and occupied Saigon. [Source: https://nhandan.vn/phat-huy-hao-khi-nam-bo-khang-chien-post909828.html]
 
 <!-- id: EVT-1754 -->
 *   **Sep. 23, 1945:** The Party Committee and People's Committee of the South met on Cay Mai Street (Cho Lon) and decided to launch a nationwide resistance. The resistance in the South began. On the same day, Huynh Tan Phat was arrested when French troops reoccupied Saigon, but he was released after three days.

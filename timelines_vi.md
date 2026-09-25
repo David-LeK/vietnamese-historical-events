@@ -5480,13 +5480,13 @@
 *   **03/1945:** Huỳnh Tấn Phát được kết nạp vào Đảng Cộng sản Đông Dương.
 
 <!-- id: EVT-1710 -->
-*   **09/03/1945:** Quân phiệt Nhật Bản nổ súng phát động **Chiến dịch Meigo Sakusen** (Cuộc đảo chính ngày 9 tháng 3 năm 1945), bất ngờ đồng loạt tấn công tước vũ khí và lật đổ ách thống trị của thực dân Pháp trên toàn cõi Đông Dương, độc chiếm Việt Nam và dựng lên chính quyền bù nhìn Trần Trọng Kim. Cuộc đảo chính đã làm bùng nổ cuộc khủng hoảng chính trị sâu sắc, tạo thời cơ lịch sử để Đảng Cộng sản Đông Dương phát động cao trào kháng Nhật cứu nước, làm tiền đề trực tiếp cho cuộc Tổng khởi nghĩa Cách mạng Tháng Tám giành chính quyền về tay nhân dân.
+*   **09/03/1945:** Quân phiệt Nhật Bản nổ súng phát động **Chiến dịch Meigo Sakusen** (Cuộc đảo chính ngày 9 tháng 3 năm 1945), bất ngờ đồng loạt tấn công tước vũ khí và lật đổ ách thống trị của thực dân Pháp trên toàn cõi Đông Dương, độc chiếm Việt Nam và dựng lên chính quyền bù nhìn Trần Trọng Kim. Cuộc đảo chính đã làm bùng nổ cuộc khủng hoảng chính trị sâu sắc, tạo thời cơ lịch sử để Đảng Cộng sản Đông Dương phát động cao trào kháng Nhật cứu nước, làm tiền đề trực tiếp cho cuộc Tổng khởi nghĩa Cách mạng Tháng Tám giành chính quyền về tay nhân dân. [Nguồn: https://ivides.vnu.edu.vn/news/ban-tin/cau-truc-quyen-luc-o-viet-nam-sau-cuoc-dao-chinh-ngay-9-3-1945-va-van-de-khoang-trong-quyen-luc-trong-cach-mang-thang-tam-138.html]
 
 <!-- id: EVT-1711 -->
 *   **09/03/1945:** Sau cuộc đảo chính của Nhật, đơn vị phòng vệ Đông Dương trên quần đảo Hoàng Sa đã bị hải quân Nhật bắt làm tù binh.
 
 <!-- id: EVT-1712 -->
-*   **09-12/03/1945:** Ban Thường vụ Trung ương Đảng họp và ra chỉ thị lịch sử "Nhật - Pháp bắn nhau và hành động của chúng ta", phát động cao trào kháng Nhật cứu nước với khẩu hiệu "Phá kho thóc, giải quyết nạn đói", dấy lên phong trào quần chúng phá các kho thóc của Nhật và tay sai để cứu đói cho hàng triệu nhân dân.
+*   **09-12/03/1945:** Ban Thường vụ Trung ương Đảng họp và ra chỉ thị lịch sử "Nhật - Pháp bắn nhau và hành động của chúng ta", phát động cao trào kháng Nhật cứu nước với khẩu hiệu "Phá kho thóc, giải quyết nạn đói", dấy lên phong trào quần chúng phá các kho thóc của Nhật và tay sai để cứu đói cho hàng triệu nhân dân. [Nguồn: https://nhandan.vn/noi-khoi-nguon-thang-loi-cua-cach-mang-thang-tam-post880506.html]
 
 <!-- id: EVT-1713 -->
 *   **10/03/1945:** Việt Nam Quốc gia Độc lập Đảng được thành lập.
@@ -5510,7 +5510,7 @@
 *   **15/05/1945:** Tại Chợ Chu (Định Hóa, Thái Nguyên), Lễ thống nhất Việt Nam Tuyên truyền Giải phóng quân và Cứu quốc quân thành **Việt Nam Giải phóng quân** được tổ chức trọng thể theo quyết định của Hội nghị Quân sự cách mạng Bắc Kỳ. Đồng chí Võ Nguyên Giáp được cử làm người chỉ huy Việt Nam Giải phóng quân.
 
 <!-- id: EVT-1720 -->
-*   **04/06/1945:** Khu Giải phóng Việt Bắc chính thức được thành lập.
+*   **04/06/1945:** Khu Giải phóng Việt Bắc chính thức được thành lập. [Nguồn: https://baotintuc.vn/giai-mat/thanh-lap-khu-giai-phong-viet-bac-20140603111600345.htm]
 
 <!-- id: EVT-1721 -->
 *   **17/07 - 02/08/1945:** Hội nghị Pôtxđam quyết định quân Đồng minh sẽ vào Việt Nam giải giáp quân đội Nhật.
@@ -5534,7 +5534,7 @@
 *   **13-15/08/1945:** Hội nghị toàn quốc của Đảng Cộng sản Đông Dương tại Tân Trào, quyết định phát động Tổng khởi nghĩa giành chính quyền trên cả nước.
 
 <!-- id: EVT-1728 -->
-*   **13/08/1945:** Ủy ban Khởi nghĩa toàn quốc ra "Quân lệnh số 1".
+*   **13/08/1945:** Ủy ban Khởi nghĩa toàn quốc ra "Quân lệnh số 1". [Nguồn: https://nhandan.vn/ngay-1381945-uy-ban-khoi-nghia-ra-quan-lenh-so-1-post900415.html]
 
 <!-- id: EVT-1729 -->
 *   **14/08/1945:** Mặt trận Quốc gia Thống nhất được thành lập tại Nam Bộ, gồm các đảng phái quốc gia và tôn giáo như Cao Đài, Hòa Hảo.
@@ -5543,7 +5543,7 @@
 *   **16/08/1945:** Dưới gốc cây đa Tân Trào (Tuyên Quang), Đội Việt Nam Giải phóng quân làm lễ xuất quân tiến về giải phóng thị xã Thái Nguyên và thủ đô Hà Nội. Đồng chí Võ Nguyên Giáp đọc Quân lệnh số 1 của Ủy ban Khởi nghĩa toàn quốc, chính thức phát lệnh tiến công, mở đầu cao trào Tổng khởi nghĩa giành chính quyền trên toàn quốc trong Cách mạng tháng Tám.
 
 <!-- id: EVT-1731 -->
-*   **16-17/08/1945:** Quốc dân Đại hội họp tại đình Tân Trào (Tuyên Quang), tán thành chủ trương Tổng khởi nghĩa của Đảng, thông qua 10 chính sách lớn của Việt Minh, bầu ra Ủy ban Dân tộc Giải phóng Việt Nam (tức Chính phủ lâm thời) do Hồ Chí Minh làm Chủ tịch, đồng thời chính thức quy định Quốc kỳ là cờ đỏ sao vàng năm cánh và Quốc ca là bài *Tiến quân ca*.
+*   **16-17/08/1945:** Quốc dân Đại hội họp tại đình Tân Trào (Tuyên Quang), tán thành chủ trương Tổng khởi nghĩa của Đảng, thông qua 10 chính sách lớn của Việt Minh, bầu ra Ủy ban Dân tộc Giải phóng Việt Nam (tức Chính phủ lâm thời) do Hồ Chí Minh làm Chủ tịch, đồng thời chính thức quy định Quốc kỳ là cờ đỏ sao vàng năm cánh và Quốc ca là bài *Tiến quân ca*. [Nguồn: https://nhandan.vn/ve-noi-dien-ra-quoc-dan-dai-hoi-tan-trao-post762305.html]
 
 ![Hình ảnh tư liệu](images/event_20260924_111648.webp)
 
@@ -5553,7 +5553,7 @@
 *   **17/08/1945:** Cuộc mít tinh của Tổng hội Công chức tại Quảng trường Nhà hát Lớn Hà Nội bị lực lượng Việt Minh và quần chúng biến thành cuộc biểu tình tuần hành rầm rộ ủng hộ cách mạng. Tại đây, bài hát **"Tiến quân ca"** của nhạc sĩ Văn Cao lần đầu tiên vang lên hùng tráng trước hàng vạn quần chúng nhân dân cùng lá cờ đỏ sao vàng khổng lồ buông xuống, tạo tiền đề trực tiếp cho cuộc Tổng khởi nghĩa 19/8 tại Hà Nội.
 
 <!-- id: EVT-1733 -->
-*   **19/08/1945:** Tổng khởi nghĩa thắng lợi ở Hà Nội (Cách mạng tháng Tám).
+*   **19/08/1945:** Tổng khởi nghĩa thắng lợi ở Hà Nội (Cách mạng tháng Tám). [Nguồn: https://nhandan.vn/ngay-1981945-cach-mang-thang-tam-thanh-cong-tai-thu-do-ha-noi-post900562.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_123037.webp)
 
@@ -5575,7 +5575,7 @@
 *   **28/08/1945:** Ủy ban Dân tộc Giải phóng Việt Nam cải tổ thành Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa do Chủ tịch Hồ Chí Minh đứng đầu; đồng chí Võ Nguyên Giáp được cử giữ chức Bộ trưởng Bộ Nội vụ kiêm phụ trách công tác quân sự. Cùng thời gian này, 20 vạn quân Tưởng Giới Thạch do Lư Hán chỉ huy bắt đầu kéo vào miền Bắc Việt Nam (từ vĩ tuyến 16 trở ra) danh nghĩa giải giáp quân Nhật.
 
 <!-- id: EVT-1739 -->
-*   **30/08/1945:** Vua Bảo Đại đọc Chiếu thoái vị tại Huế, chấm dứt chế độ phong kiến ở Việt Nam.
+*   **30/08/1945:** Vua Bảo Đại đọc Chiếu thoái vị tại Huế, chấm dứt chế độ phong kiến ở Việt Nam. [Nguồn: https://nhandan.vn/ngay-3081945-vua-bao-dai-thoai-vi-post902540.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_104916.webp)
 
@@ -5594,7 +5594,7 @@
 *   **01/09/1945:** Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa ban hành Sắc lệnh số 01/SL tuyên bố lấy múi giờ 7 làm giờ chính thức. Từ đó, miền Bắc và miền Trung sử dụng múi giờ 7.
 
 <!-- id: EVT-1743 -->
-*   **02/09/1945:** Tại Quảng trường Ba Đình (Hà Nội), Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn Độc lập, khai sinh nước Việt Nam Dân chủ Cộng hòa trước biển người rực rỡ cờ đỏ sao vàng. Trước giờ đọc Tuyên ngôn, lễ thượng cờ quốc gia đầu tiên được cử hành trọng thể khi lá cờ đỏ sao vàng được hai nữ chiến sĩ giải phóng quân Đàm Thị Loan và Lê Thi (Dương Thị Thêu) kéo lên đỉnh cột cờ trong giai điệu hào hùng của bài *Tiến quân ca*. Trong buổi lễ, Bộ trưởng Bộ Nội vụ Võ Nguyên Giáp thay mặt Chính phủ lâm thời đọc báo cáo chính trị quan trọng về đối nội, đối ngoại, kêu gọi quốc dân đồng bào kiên quyết bảo vệ nền độc lập vừa giành được.
+*   **02/09/1945:** Tại Quảng trường Ba Đình (Hà Nội), Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn Độc lập, khai sinh nước Việt Nam Dân chủ Cộng hòa trước biển người rực rỡ cờ đỏ sao vàng. Trước giờ đọc Tuyên ngôn, lễ thượng cờ quốc gia đầu tiên được cử hành trọng thể khi lá cờ đỏ sao vàng được hai nữ chiến sĩ giải phóng quân Đàm Thị Loan và Lê Thi (Dương Thị Thêu) kéo lên đỉnh cột cờ trong giai điệu hào hùng của bài *Tiến quân ca*. Trong buổi lễ, Bộ trưởng Bộ Nội vụ Võ Nguyên Giáp thay mặt Chính phủ lâm thời đọc báo cáo chính trị quan trọng về đối nội, đối ngoại, kêu gọi quốc dân đồng bào kiên quyết bảo vệ nền độc lập vừa giành được. [Nguồn: https://baochinhphu.vn/tuyen-ngon-doc-lap-va-nha-nuoc-phap-quyen-102299509.htm]
 
 ![Hình ảnh tư liệu](images/event_20260923_102957.webp)
 
@@ -5621,7 +5621,7 @@
 *   **07/09/1945:** Chủ tịch Hồ Chí Minh ra chỉ thị thành lập Bộ Tổng Tham mưu Quân đội nhân dân Việt Nam và chỉ định đồng chí Hoàng Văn Thái làm Tổng Tham mưu trưởng đầu tiên.
 
 <!-- id: EVT-1749 -->
-*   **08/09/1945:** Chủ tịch Hồ Chí Minh ký Sắc lệnh số 14-SL, ấn định sẽ tổ chức Tổng tuyển cử trong vòng hai tháng.
+*   **08/09/1945:** Chủ tịch Hồ Chí Minh ký Sắc lệnh số 14-SL, ấn định sẽ tổ chức Tổng tuyển cử trong vòng hai tháng. [Nguồn: https://baochinhphu.vn/tong-tuyen-cu-1946-ket-qua-tinh-than-doan-ket-cua-dan-toc-viet-nam-102196060.htm]
 
 <!-- id: EVT-1750 -->
 *   **10/09/1945:** Sau khi tuyên bố thoái vị tại Huế ('thà làm dân một nước độc lập hơn làm vua một nước nô lệ'), cựu hoàng Bảo Đại (công dân Nguyễn Vĩnh Thụy) nhận lời mời của Chủ tịch Hồ Chí Minh, chính thức được Chính phủ Cách mạng Lâm thời Việt Nam Dân chủ Cộng hòa bổ nhiệm giữ chức **Cố vấn Tối cao của Chính phủ** theo Sắc lệnh số 23-SL.
@@ -5633,7 +5633,7 @@
 *   **16/09/1945:** "Tuần lễ vàng" bắt đầu, vận động nhân dân đóng góp tài chính cho đất nước.
 
 <!-- id: EVT-1753 -->
-*   **Đêm 22 rạng 23/09/1945:** Quân Pháp, được sự giúp đỡ của quân Anh, nổ súng đánh chiếm Sài Gòn.
+*   **Đêm 22 rạng 23/09/1945:** Quân Pháp, được sự giúp đỡ của quân Anh, nổ súng đánh chiếm Sài Gòn. [Nguồn: https://nhandan.vn/phat-huy-hao-khi-nam-bo-khang-chien-post909828.html]
 
 <!-- id: EVT-1754 -->
 *   **23/09/1945:** Xứ ủy và Ủy ban nhân dân Nam Bộ họp tại đường Cây Mai (Chợ Lớn), quyết định phát động toàn dân kháng chiến. Cuộc kháng chiến ở Nam Bộ bắt đầu. Cùng ngày, Huỳnh Tấn Phát bị quân Pháp bắt khi chúng chiếm lại Sài Gòn, nhưng ông được trả tự do sau 3 ngày do có uy tín lớn.
