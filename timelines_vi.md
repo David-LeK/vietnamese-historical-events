@@ -6556,7 +6556,7 @@
 *   **09/1953:** Văn phòng Trung ương Đảng, Tổng Bí thư Trường Chinh, Phó Thủ tướng Phạm Văn Đồng và các cơ quan đầu não của Chính phủ chuyển đến ở và làm việc tại an toàn khu (ATK) Kim Quan, huyện Yên Sơn, tỉnh Tuyên Quang.
 
 <!-- id: EVT-2024 -->
-*   **09/1953:** Bộ Chính trị họp bàn về nhiệm vụ quân sự trong Đông - Xuân 1953-1954, đề ra phương châm chiến lược "Tích cực, chủ động, cơ động, linh hoạt".
+*   **09/1953:** Bộ Chính trị họp bàn về nhiệm vụ quân sự trong Đông - Xuân 1953-1954, đề ra phương châm chiến lược "Tích cực, chủ động, cơ động, linh hoạt". [Nguồn: Bảo tàng Lịch sử Quốc gia - Kế hoạch Navarre, https://baotanglichsu.vn/vi/Articles/3097/15711/ke-hoach-navarre.html]
 
 <!-- id: EVT-2025 -->
 *   **15/10 - 07/11/1953:** **Chiến dịch Hải Âu (Opération Mouette):** Quân viễn chinh Pháp huy động gần 20 tiểu đoàn cơ động mở cuộc tiến công Mouette vào khu vực Rịa - Nho Quan (Tây Nam Ninh Bình) hòng đánh đòn phủ đầu làm suy yếu Đại đoàn 320 (Đại đoàn Đồng Bằng) Quân đội Nhân dân Việt Nam trước thềm chiến cục Đông - Xuân 1953 - 1954. Chủ động nắm quyền tác chiến, Đại đoàn 320 cùng lực lượng vũ trang nhân dân Ninh Bình đã kiên cường chặn đánh, liên tục phục kích bẻ gãy các cánh quân cơ động của Pháp, loại khỏi vòng chiến đấu hơn 1.000 tên địch và buộc quân Pháp phải chuốc lấy thất bại, rút lui về vùng đồng bằng.
@@ -6565,13 +6565,13 @@
 *   **11/1953:** Đồng chí Văn Tiến Dũng được cử giữ chức Tổng Tham mưu trưởng Quân đội nhân dân Việt Nam, chỉ đạo công tác tham mưu tác chiến trong suốt cuộc kháng chiến chống Mỹ.
 
 <!-- id: EVT-2027 -->
-*   **14 - 23/11/1953:** Hội nghị toàn quốc lần thứ nhất của Đảng họp thảo luận và thông qua Cương lĩnh ruộng đất.
+*   **14 - 23/11/1953:** Hội nghị toàn quốc lần thứ nhất của Đảng họp thảo luận và thông qua Cương lĩnh ruộng đất. [Nguồn: Bảo tàng Lịch sử Quốc gia - Cuộc phát động giảm tô và cải cách ruộng đất (1953-1956), https://baotanglichsu.vn/vi/Articles/3097/15846/cuoc-phat-dong-giam-to-va-cai-cach-ruong-dat-1953-1956.html]
 
 <!-- id: EVT-2028 -->
 *   **20/11/1953:** Quân Pháp nhảy dù chiếm đóng Điện Biên Phủ (Cuộc hành quân Castor), bắt đầu xây dựng nơi đây thành một tập đoàn cứ điểm mạnh nhất Đông Dương. [Nguồn: https://archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/dien-bien-phu-chien-dich-mang-lai-hoa-binh-o-dong-duong.htm]
 
 <!-- id: EVT-2029 -->
-*   **26/11/1953:** Chủ tịch Hồ Chí Minh trả lời phỏng vấn báo *Expressen* (Thụy Điển), nêu rõ thiện chí hòa bình và khẳng định lập trường đàm phán của Việt Nam.
+*   **26/11/1953:** Chủ tịch Hồ Chí Minh trả lời phỏng vấn báo *Expressen* (Thụy Điển), nêu rõ thiện chí hòa bình và khẳng định lập trường đàm phán của Việt Nam. [Nguồn: Bảo tàng Lịch sử Quốc gia - Hồ Chí Minh trả lời báo Expressen (26/11/1953), https://baotanglichsu.vn/vi/Articles/3097/16681/ho-chi-minh-tra-loi-bao-expressen-26-11-1953.html]
 
 <!-- id: EVT-2030 -->
 *   **12/1953:** Chủ tịch Hồ Chí Minh chuyển đến ở và làm việc tại lán và hầm an toàn núi Nà Lơi, xã Kim Quan (huyện Yên Sơn, tỉnh Tuyên Quang), biến ATK Kim Quan thành "tổng hành dinh" trực tiếp chỉ đạo Chiến dịch Đông Xuân 1953-1954 và Chiến dịch Điện Biên Phủ.
@@ -6586,7 +6586,7 @@
 *   **12/12/1953:** Trong Chiến dịch Đông Xuân 1953-1954 (trận Mường Pồn, Lai Châu), chiến sĩ Bế Văn Đàn dũng cảm lấy thân mình làm giá súng cho đồng đội bắn nát đợt phản công của quân Pháp và anh dũng hy sinh. [Nguồn: Báo Quân đội nhân dân - Anh hùng Bế Văn Đàn lấy thân mình làm giá súng, https://www.qdnd.vn/quoc-phong-an-ninh/chien-thang-dien-bien-phu-moc-son-lich-su/anh-hung/anh-hung-be-van-dan-lay-than-minh-lam-gia-sung-770856]
 
 <!-- id: EVT-2034 -->
-*   **19/12/1953:** Chủ tịch Hồ Chí Minh ký sắc lệnh số 197-SL ban hành **Luật Cải cách ruộng đất**.
+*   **19/12/1953:** Chủ tịch Hồ Chí Minh ký sắc lệnh số 197-SL ban hành **Luật Cải cách ruộng đất**. [Nguồn: Bảo tàng Lịch sử Quốc gia - Cuộc phát động giảm tô và cải cách ruộng đất (1953-1956), https://baotanglichsu.vn/vi/Articles/3097/15846/cuoc-phat-dong-giam-to-va-cai-cach-ruong-dat-1953-1956.html]
 
 <!-- id: EVT-2035 -->
 *   **1954:** Sau Hiệp định Genève, vợ chồng Út Tịch được phân công ở lại miền Nam. Bị chính quyền Ngô Đình Diệm đàn áp, bà cùng nhiều phụ nữ khác đã đấu tranh buộc chính quyền thả chồng và bạn chiến đấu. Trong khi đó, Lê Thị Riêng cũng tiếp tục tham gia các phong trào cách mạng chống Mỹ - Diệm tại miền Nam.
@@ -6652,7 +6652,7 @@
 *   **24/03/1954 (Giáp Ngọ):** Cựu hoàng Thành Thái (Nguyễn Phúc Bửu Lân), vị vua yêu nước kiên cường từng bị thực dân Pháp lưu đày sang đảo Réunion gần 30 năm, qua đời tại Sài Gòn ở tuổi 75 sau khi được phép trở về sống tại quê hương, được an táng tại khu lăng An Lăng (Huế).
 
 <!-- id: EVT-2056 -->
-*   **30/03 - 26/04/1954:** Đợt 2 của chiến dịch bắt đầu lúc 18h00 ngày 30/03. Bộ đội Việt Nam đồng loạt tiến công các cao điểm phía đông (như C1, D1, E), thắt chặt vòng vây bằng hệ thống giao thông hào chằng chịt, khống chế hoàn toàn sân bay và cắt đứt nguồn tiếp tế của địch.
+*   **30/03 - 26/04/1954:** Đợt 2 của chiến dịch bắt đầu lúc 18h00 ngày 30/03. Bộ đội Việt Nam đồng loạt tiến công các cao điểm phía đông (như C1, D1, E), thắt chặt vòng vây bằng hệ thống giao thông hào chằng chịt, khống chế hoàn toàn sân bay và cắt đứt nguồn tiếp tế của địch. [Nguồn: Bảo tàng Lịch sử Quốc gia - Chiến dịch Điện Biên Phủ (1954), https://baotanglichsu.vn/vi/Articles/3097/15713/chien-dich-dien-bien-phu-1954.html]
 
 <!-- id: EVT-2057 -->
 *   **04/1954:** Tại ATK Kim Quan (Tuyên Quang), Bộ Chính trị ban hành Nghị quyết "Tiếp tục thấu triệt phương châm đánh chắc, đề cao quyết tâm, tích cực giành toàn thắng cho Chiến dịch Điện Biên Phủ".
@@ -6667,7 +6667,7 @@
 *   **05/1954:** Sau chiến thắng Điện Biên Phủ, Chủ tịch Hồ Chí Minh đã nhận Stefan Kubiak (quân nhân lê dương Pháp gốc Ba Lan giác ngộ và gia nhập hàng ngũ Quân đội nhân dân Việt Nam tham gia chiến đấu trong chiến dịch) làm con nuôi và đặt tên Việt Nam là Hồ Chí Toán (mang họ của Người). Ông sau đó lập gia đình tại Hà Nội và được Đảng, Nhà nước tạo mọi điều kiện công tác và sinh sống.
 
 <!-- id: EVT-2061 -->
-*   **01/05 - 07/05/1954:** Đợt 3 của chiến dịch, bộ đội tiêu diệt các cứ điểm còn lại. Trong đợt tổng công kích cuối cùng (ngày 06/05), bộ đội Việt Nam đã sử dụng pháo ĐKZ 75mm và 12 dàn hỏa tiễn 6 nòng (Cachiusa) do Trung Quốc và Liên Xô viện trợ, phát huy sức mạnh hỏa lực to lớn. Đêm 06/05, khối bộc phá 1 tấn được điểm hỏa làm nổ tung hầm ngầm trên đồi A1, giúp quân ta làm chủ hoàn toàn cao điểm then chốt này.
+*   **01/05 - 07/05/1954:** Đợt 3 của chiến dịch, bộ đội tiêu diệt các cứ điểm còn lại. Trong đợt tổng công kích cuối cùng (ngày 06/05), bộ đội Việt Nam đã sử dụng pháo ĐKZ 75mm và 12 dàn hỏa tiễn 6 nòng (Cachiusa) do Trung Quốc và Liên Xô viện trợ, phát huy sức mạnh hỏa lực to lớn. Đêm 06/05, khối bộc phá 1 tấn được điểm hỏa làm nổ tung hầm ngầm trên đồi A1, giúp quân ta làm chủ hoàn toàn cao điểm then chốt này. [Nguồn: Bảo tàng Lịch sử Quốc gia - Chiến dịch Điện Biên Phủ (1954), https://baotanglichsu.vn/vi/Articles/3097/15713/chien-dich-dien-bien-phu-1954.html]
 
 ![Hình ảnh tư liệu](images/event_20260924_111654.webp)
 
@@ -6684,7 +6684,7 @@
 * **07/05/1954:** Liệt sĩ Trần Can (Đại đội phó bộ binh thuộc Trung đoàn 209, Đại đoàn 312) anh dũng hy sinh trong trận đánh đồi C2 mở đường tổng tiến công căn cứ Điện Biên Phủ. [Nguồn: Báo Quân đội nhân dân - Trần Can: Anh hùng cắm cờ trên Cứ điểm Him Lam, https://www.qdnd.vn/quoc-phong-an-ninh/chien-thang-dien-bien-phu-moc-son-lich-su/anh-hung/tran-can-anh-hung-cam-co-tren-cu-diem-him-lam-770396]
 
 <!-- id: EVT-2064 -->
-*   **08/05/1954:** **Hội nghị Giơnevơ** bắt đầu phiên họp đầu tiên bàn về vấn đề lập lại hòa bình ở Đông Dương.
+*   **08/05/1954:** **Hội nghị Giơnevơ** bắt đầu phiên họp đầu tiên bàn về vấn đề lập lại hòa bình ở Đông Dương. [Nguồn: Bảo tàng Lịch sử Quốc gia - Hội nghị Giơnevơ (1954), https://baotanglichsu.vn/vi/Articles/3097/15714/hoi-nghi-gionevo-1954.html]
 
 <!-- id: EVT-2065 -->
 *   **19/05/1954:** Nhân dịp sinh nhật lần thứ 64 của Chủ tịch Hồ Chí Minh tại ATK Kim Quan (Tuyên Quang), Đại đội trưởng Tạ Quốc Luật đại diện cho các chiến sĩ Điện Biên Phủ báo cáo thành tích chiến đấu lên Người và trao tặng Bác chiếc huy hiệu sĩ quan Pháp của Tướng De Castries.
@@ -6693,7 +6693,7 @@
 *   **06/1954:** Đinh Thị Vân được điều động lên công tác tại Cục Nghiên cứu Bộ Tổng tham mưu và được giao nhiệm vụ hoạt động bí mật tại Hà Nội. Bà đã xây dựng được cơ sở tin cậy và cung cấp nhiều tin tức quan trọng trong thời gian "300 ngày tập kết". Thể hiện sự hy sinh to lớn vì cách mạng, bà đã chủ động cưới vợ khác cho chồng để lo toan việc nhà, tạo điều kiện cho mình yên tâm hoàn thành nhiệm vụ.
 
 <!-- id: EVT-2067 -->
-*   **16/06/1954:** Dưới sức ép của Mỹ, Bảo Đại ký sắc lệnh chỉ định Ngô Đình Diệm làm Thủ tướng của chính thể "Quốc gia Việt Nam".
+*   **16/06/1954:** Dưới sức ép của Mỹ, Bảo Đại ký sắc lệnh chỉ định Ngô Đình Diệm làm Thủ tướng của chính thể "Quốc gia Việt Nam". [Nguồn: Bảo tàng Lịch sử Quốc gia - Ngô Đình Diệm: Thủ tướng (16/06/1954), https://baotanglichsu.vn/vi/Articles/3097/16682/ngo-dinh-diem-thu-tuong-16-06-1954.html]
 
 <!-- id: EVT-2068 -->
 *   **17/06/1954:** Họa sĩ Tô Ngọc Vân – một trong những bậc thầy đặt nền móng cho nền mỹ thuật hiện đại Việt Nam (thuộc bộ tứ "Trí, Vân, Lân, Cẩn") – hy sinh tại đèo Lũng Lô (Yên Bái) khi đang tham gia chiến dịch Điện Biên Phủ, trở thành liệt sĩ đầu tiên của nền mỹ thuật cách mạng Việt Nam. [Nguồn: Báo Nhân Dân - Những tác phẩm tiêu biểu của các danh họa về Điện Biên Phủ, https://nhandan.vn/nhung-tac-pham-tieu-bieu-cua-cac-danh-hoa-ve-dien-bien-phu-post807422.html]
@@ -6702,7 +6702,7 @@
 *   **07/07/1954:** Ngô Đình Diệm chính thức nhậm chức Thủ tướng tại Sài Gòn.
 
 <!-- id: EVT-2070 -->
-*   **20-21/07/1954:** **Hiệp định Giơnevơ** được ký kết, chấm dứt chiến tranh ở Đông Dương. Các điểm chính:
+*   **20-21/07/1954:** **Hiệp định Giơnevơ** được ký kết, chấm dứt chiến tranh ở Đông Dương. Các điểm chính: [Nguồn: Bảo tàng Lịch sử Quốc gia - Hội nghị Giơnevơ (1954), https://baotanglichsu.vn/vi/Articles/3097/15714/hoi-nghi-gionevo-1954.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_104715.webp)
 
@@ -6714,7 +6714,7 @@
     *   Dự kiến tổ chức Tổng tuyển cử tự do để thống nhất đất nước vào tháng 7/1956.
 
 <!-- id: EVT-2071 -->
-*   **20/07/1954:** Giáo sư Tạ Quang Bửu, đại diện Bộ Tổng Tư lệnh Quân đội nhân dân Việt Nam, ký Hiệp định đình chiến Giơnevơ tại Thụy Sĩ.
+*   **20/07/1954:** Giáo sư Tạ Quang Bửu, đại diện Bộ Tổng Tư lệnh Quân đội nhân dân Việt Nam, ký Hiệp định đình chiến Giơnevơ tại Thụy Sĩ. [Nguồn: Bảo tàng Lịch sử Quốc gia - Tạ Quang Bửu ký Hiệp định (20/07/1954), https://baotanglichsu.vn/vi/Articles/3097/16683/ta-quang-buu-ky-hiep-dinh-20-07-1954.html]
 
 <!-- id: EVT-2072 -->
 *   **25/07/1954:** Sau khi Hiệp định Giơ-ne-vơ được ký kết lập lại hòa bình ở Đông Dương, danh họa Pablo Picasso sáng tác tác phẩm "Hòa bình muôn năm" (Vive la paix) với hình ảnh bồ câu hòa bình và nét vẽ đậm chất Việt Nam, biểu thị sự ủng hộ cuộc đấu tranh vì hòa bình và độc lập của dân tộc Việt Nam.

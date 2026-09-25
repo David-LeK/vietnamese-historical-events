@@ -6556,7 +6556,7 @@
 *   **09/1953:** The Party Central Committee Office, General Secretary Truong Chinh, Deputy Prime Minister Pham Van Dong, and key government agencies relocated to live and work at the Kim Quan Safe Zone (ATK Kim Quan) in Yên Sơn district, Tuyên Quang province.
 
 <!-- id: EVT-2024 -->
-*   **Sep. 1953:** The Politburo met to discuss military tasks for the 1953-1954 Winter-Spring season, setting forth the strategic guideline "Active, proactive, mobile, flexible."
+*   **Sep. 1953:** The Politburo met to discuss military tasks for the 1953-1954 Winter-Spring season, setting forth the strategic guideline "Active, proactive, mobile, flexible." [Source: Vietnam National Museum of History - The Navarre Plan, https://baotanglichsu.vn/vi/Articles/3097/15711/ke-hoach-navarre.html]
 
 <!-- id: EVT-2025 -->
 *   **Oct. 15 - Nov. 7, 1953:** **Operation Mouette (Chiến dịch Hải Âu):** French expeditionary forces mobilized nearly 20 mobile battalions to launch Operation Mouette into the Ria - Nho Quan area (southwestern Ninh Binh) aiming to strike a preemptive blow against the 320th Division (Dong Bang Division) of the People's Army of Vietnam ahead of the 1953-1954 Winter-Spring campaign. Maintaining the tactical initiative, the 320th Division alongside local armed forces stubbornly contested every engagement, ambushing and breaking French mobile columns, inflicting over 1,000 enemy casualties, and compelling the French forces to retreat in failure back to the delta.
@@ -6565,13 +6565,13 @@
 *   **Nov. 1953:** Comrade Van Tien Dung was appointed Chief of the General Staff of the Vietnam People's Army, directing operational planning throughout the anti-US resistance war.
 
 <!-- id: EVT-2027 -->
-*   **Nov. 14 - 23, 1953:** The First National Conference of the Party was held to discuss and approve the Land Reform Program.
+*   **Nov. 14 - 23, 1953:** The First National Conference of the Party was held to discuss and approve the Land Reform Program. [Source: Vietnam National Museum of History - The Land Rent Reduction Campaign and Land Reform (1953-1956), https://baotanglichsu.vn/vi/Articles/3097/15846/cuoc-phat-dong-giam-to-va-cai-cach-ruong-dat-1953-1956.html]
 
 <!-- id: EVT-2028 -->
 *   **Nov. 20, 1953:** French paratroopers occupied Dien Bien Phu (Operation Castor), beginning to build it into the strongest fortified base complex in Indochina. [Source: https://archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/dien-bien-phu-chien-dich-mang-lai-hoa-binh-o-dong-duong.htm]
 
 <!-- id: EVT-2029 -->
-*   **Nov. 26, 1953:** President Ho Chi Minh, in an interview with the Swedish newspaper *Expressen*, stated Vietnam's goodwill for peace and affirmed its negotiating stance.
+*   **Nov. 26, 1953:** President Ho Chi Minh, in an interview with the Swedish newspaper *Expressen*, stated Vietnam's goodwill for peace and affirmed its negotiating stance. [Source: Vietnam National Museum of History - Ho Chi Minh's Interview with Expressen Newspaper (November 26, 1953), https://baotanglichsu.vn/vi/Articles/3097/16681/ho-chi-minh-tra-loi-bao-expressen-26-11-1953.html]
 
 <!-- id: EVT-2030 -->
 *   **12/1953:** President Ho Chi Minh moved to reside and work at the Nà Lơi Mountain bunker and quarters in Kim Quan commune (Yên Sơn district, Tuyên Quang province), establishing ATK Kim Quan as the headquarters directly guiding the 1953–1954 Winter-Spring Campaign and the Điện Biên Phủ Campaign.
@@ -6586,7 +6586,7 @@
 *   **Dec. 12, 1953:** During the Winter-Spring Campaign 1953-1954 (Battle of Muong Pon, Lai Chau), soldier Be Van Dan courageously uses his own body as a machine-gun mount for his comrade to repel French counterattacks, sacrificing his life. [Source: People's Army Newspaper - Hero Be Van Dan used his body as a gun carriage, https://www.qdnd.vn/quoc-phong-an-ninh/chien-thang-dien-bien-phu-moc-son-lich-su/anh-hung/anh-hung-be-van-dan-lay-than-minh-lam-gia-sung-770856]
 
 <!-- id: EVT-2034 -->
-*   **Dec. 19, 1953:** President Ho Chi Minh signed decree No. 197-SL promulgating the **Land Reform Law**.
+*   **Dec. 19, 1953:** President Ho Chi Minh signed decree No. 197-SL promulgating the **Land Reform Law**. [Source: Vietnam National Museum of History - The Land Rent Reduction Campaign and Land Reform (1953-1956), https://baotanglichsu.vn/vi/Articles/3097/15846/cuoc-phat-dong-giam-to-va-cai-cach-ruong-dat-1953-1956.html]
 
 <!-- id: EVT-2035 -->
 *   **1954:** Following the Geneva Accords, Ut Tich and her husband stayed in the South. When her husband and comrades were arrested by the Ngo Dinh Diem regime, she successfully mobilized other women to pressure the government for their release. Meanwhile, Le Thi Rieng also continued participating in anti-US-Diem revolutionary movements in the South.
@@ -6652,7 +6652,7 @@
 *   **Mar. 24, 1954 (Giap Ngo year):** Former Emperor Thanh Thai (Nguyen Phuc Buu Lan), the resolute monarch who endured nearly three decades of colonial banishment on Réunion Island, passed away in Saigon at the age of 75 following his return to the homeland, and was laid to rest at An Lang mausoleum (Hue).
 
 <!-- id: EVT-2056 -->
-*   **Mar. 30 - Apr. 26, 1954:** In the second phase of the campaign, the Vietnamese forces simultaneously attacked the eastern hills, capturing crucial points like C1, D1, and E, tightened the siege with an extensive trench system, controlled the airfield, and cut off the enemy's supply lines.
+*   **Mar. 30 - Apr. 26, 1954:** In the second phase of the campaign, the Vietnamese forces simultaneously attacked the eastern hills, capturing crucial points like C1, D1, and E, tightened the siege with an extensive trench system, controlled the airfield, and cut off the enemy's supply lines. [Source: Vietnam National Museum of History - The Dien Bien Phu Campaign (1954), https://baotanglichsu.vn/vi/Articles/3097/15713/chien-dich-dien-bien-phu-1954.html]
 
 <!-- id: EVT-2057 -->
 *   **04/1954:** At the Kim Quan Safe Zone (Tuyên Quang), the Politburo issued a resolution emphasizing the principle of "steady attack, steady advance" and raising determination to achieve complete victory in the Điện Biên Phủ Campaign.
@@ -6667,7 +6667,7 @@
 *   **May 1954:** Following the victory of Dien Bien Phu, President Ho Chi Minh adopted Stefan Kubiak—a Polish-born soldier in the French Foreign Legion who defected to join the Vietnam People's Army and fought during the campaign—giving him the Vietnamese name Ho Chi Toan (bearing the President's surname). He subsequently settled with a family in Hanoi and received extensive support from the Vietnamese government.
 
 <!-- id: EVT-2061 -->
-*   **May 1 - 7, 1954:** In the third phase of the campaign, the Vietnamese forces annihilated the remaining strongpoints. During the final general attack on May 6, the Vietnamese army utilized DKZ 75mm guns and 12 Katyusha 6-barrel rocket launchers provided by China and the Soviet Union, significantly contributing to the victory. A massive 1-ton explosive charge was detonated under Hill A1 on the night of May 6, leading to its capture.
+*   **May 1 - 7, 1954:** In the third phase of the campaign, the Vietnamese forces annihilated the remaining strongpoints. During the final general attack on May 6, the Vietnamese army utilized DKZ 75mm guns and 12 Katyusha 6-barrel rocket launchers provided by China and the Soviet Union, significantly contributing to the victory. A massive 1-ton explosive charge was detonated under Hill A1 on the night of May 6, leading to its capture. [Source: Vietnam National Museum of History - The Dien Bien Phu Campaign (1954), https://baotanglichsu.vn/vi/Articles/3097/15713/chien-dich-dien-bien-phu-1954.html]
 
 ![Historical Image](images/event_20260924_111654.webp)
 
@@ -6684,7 +6684,7 @@
 * **07/05/1954:** Martyr Tran Can (deputy infantry company commander, Regiment 209, Division 312) heroically sacrificed his life in the assault on Hill C2 during the Battle of Dien Bien Phu. [Source: People's Army Newspaper - Tran Can: Hero who hoisted the flag on Him Lam Stronghold, https://www.qdnd.vn/quoc-phong-an-ninh/chien-thang-dien-bien-phu-moc-son-lich-su/anh-hung/tran-can-anh-hung-cam-co-tren-cu-diem-him-lam-770396]
 
 <!-- id: EVT-2064 -->
-*   **May 8, 1954:** The **Geneva Conference** began its first session to discuss the restoration of peace in Indochina.
+*   **May 8, 1954:** The **Geneva Conference** began its first session to discuss the restoration of peace in Indochina. [Source: Vietnam National Museum of History - The Geneva Conference (1954), https://baotanglichsu.vn/vi/Articles/3097/15714/hoi-nghi-gionevo-1954.html]
 
 <!-- id: EVT-2065 -->
 *   **May 19, 1954:** On the occasion of President Ho Chi Minh's 64th birthday at the Kim Quan Safe Zone (Tuyen Quang), Captain Ta Quoc Luat represented the Dien Bien Phu combatants to report victory achievements to Uncle Ho and presented Him with General De Castries' officer badge.
@@ -6693,7 +6693,7 @@
 *   **Jun. 1954:** Dinh Thi Van was assigned to the Research Department of the General Staff (Ministry of National Defense) and sent to operate covertly in Hanoi. She built reliable intelligence bases and gathered crucial information during the "300 days of assembly" period. Demonstrating immense personal sacrifice for the revolution, she arranged for her husband to marry another woman so he would be cared for while she dedicated herself to her secret missions.
 
 <!-- id: EVT-2067 -->
-*   **Jun. 16, 1954:** Under US pressure, Bao Dai signed a decree appointing Ngo Dinh Diem as Prime Minister of the "State of Vietnam" government.
+*   **Jun. 16, 1954:** Under US pressure, Bao Dai signed a decree appointing Ngo Dinh Diem as Prime Minister of the "State of Vietnam" government. [Source: Vietnam National Museum of History - Ngo Dinh Diem: Prime Minister (June 16, 1954), https://baotanglichsu.vn/vi/Articles/3097/16682/ngo-dinh-diem-thu-tuong-16-06-1954.html]
 
 <!-- id: EVT-2068 -->
 *   **June 17, 1954:** Master painter To Ngoc Van – a pioneer of modern Vietnamese fine arts (of the celebrated quartet "Tri, Van, Lan, Can") – was killed in action at Lung Lo Pass (Yen Bai) during the Dien Bien Phu campaign, becoming the first martyr of Vietnam's revolutionary fine arts. [Source: Nhan Dan Newspaper - Masterpieces of Painters on Dien Bien Phu, https://nhandan.vn/nhung-tac-pham-tieu-bieu-cua-cac-danh-hoa-ve-dien-bien-phu-post807422.html]
@@ -6702,7 +6702,7 @@
 *   **Jul. 7, 1954:** Ngo Dinh Diem officially took office as Prime Minister in Saigon.
 
 <!-- id: EVT-2070 -->
-*   **Jul. 20-21, 1954:** The **Geneva Accords** were signed, ending the war in Indochina. Key points:
+*   **Jul. 20-21, 1954:** The **Geneva Accords** were signed, ending the war in Indochina. Key points: [Source: Vietnam National Museum of History - The Geneva Conference (1954), https://baotanglichsu.vn/vi/Articles/3097/15714/hoi-nghi-gionevo-1954.html]
 
 ![Historical Image](images/event_20260923_104715.webp)
 
@@ -6714,7 +6714,7 @@
     *   A free general election was scheduled to be held in July 1956 to unify the country.
 
 <!-- id: EVT-2071 -->
-*   **Jul. 20, 1954:** Professor Ta Quang Buu, representing the High Command of the Vietnam People's Army, signed the Geneva Armistice Agreement in Switzerland.
+*   **Jul. 20, 1954:** Professor Ta Quang Buu, representing the High Command of the Vietnam People's Army, signed the Geneva Armistice Agreement in Switzerland. [Source: Vietnam National Museum of History - Ta Quang Buu Signs the Agreement (July 20, 1954), https://baotanglichsu.vn/vi/Articles/3097/16683/ta-quang-buu-ky-hiep-dinh-20-07-1954.html]
 
 <!-- id: EVT-2072 -->
 *   **Jul. 25, 1954:** Following the signing of the Geneva Accords restoring peace in Indochina, painter Pablo Picasso created the artwork "Vive la paix" (Long Live Peace) featuring his iconic peace dove and imagery of the Vietnamese people, expressing support for Vietnam's struggle for peace and independence.
