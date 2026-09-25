@@ -4223,7 +4223,7 @@
 *   **Aug. 4, 1886:** Scholar Trương Vĩnh Ký was awarded the Legion of Honour, 5th class (Chevalier de la Légion d'honneur) by the French government upon the recommendation of Resident-General Paul Bert and the Governor of Cochinchina for his diplomatic conciliation and scholarly contributions. This prestigious decoration, alongside the colonial administration's special privileges, later became a major focal point of historiographical controversy regarding his relationship with French colonial rule.
 
 <!-- id: EVT-1320 -->
-*   **Jan. 1887:** The Ba Dinh base fell after fierce attacks by French forces.
+*   **Jan. 1887:** The Ba Dinh base fell after fierce attacks by French forces. [Source: Vietnam National Museum of History - The Place Name Ba Dinh and Ba Dinh Square, Hanoi, https://baotanglichsu.vn/vi/Articles/3096/14937/djia-danh-ba-djinh-va-quang-truong-ba-djinh-ha-noi.html]
 
 <!-- id: EVT-1321 -->
 *   **June 7, 1887:** Leader of the Can Vuong anti-French resistance movement in Binh Dinh – Grand Commander Mai Xuan Thuong was executed by French colonial forces at Go Cham after rebel strongholds fell, epitomizing the unyielding patriotic spirit of Central Vietnam's resistance fighters.
@@ -4232,16 +4232,16 @@
 *   **Jun. 26, 1887:** France and the Qing dynasty signed the Constans Convention of 1887 (Franco-Chinese Convention of 1887) delimiting the border between Tonkin and China. In exchange for Qing recognition of French rule over Tonkin, French colonial authorities made major concessions surrendering historic Vietnamese lands to the Qing: ceding three-quarters of Tu Long canton (approx. 750 km² in Ha Giang) to Yunnan province, and ceding areas of Hai Ninh prefecture (Quang Yen province) including Fangcheng, Dongxing, Paklung Cape (the historic peninsula of Bach Long Vi), and Giang Binh (the three islands of Van Vi, Me Son, Mi Son) to Guangdong province; maritally, it designated islands east of Paris meridian 105°43' East to China and islands to the west (such as Co To) to Annam (only addressing coastal islands, not distant archipelagos).
 
 <!-- id: EVT-1323 -->
-*   **Oct. 17, 1887:** The Indochinese Union was established, leading to a centralized colonial administration pushed forward especially under Governor-General Paul Doumer.
+*   **Oct. 17, 1887:** The Indochinese Union was established, leading to a centralized colonial administration pushed forward especially under Governor-General Paul Doumer. [Source: State Records and Archives Management Department of Vietnam - An Overview of the French Colonial Governor-General System in Indochina, https://www.archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/vai-net-ve-che-do-toan-quyen-cua-thuc-dan-phap-o-dong-duong.htm]
 
 <!-- id: EVT-1324 -->
 *   **May 1888:** The French authorities established the "Dai Nam Nhat Bao" bureau.
 
 <!-- id: EVT-1325 -->
-*   **Nov. 1888:** King Ham Nghi was captured due to the betrayal of Truong Quang Ngoc and was later exiled to Algeria.
+*   **Nov. 1888:** King Ham Nghi was captured due to the betrayal of Truong Quang Ngoc and was later exiled to Algeria. [Source: Vietnam National Museum of History - Emperor Ham Nghi Always Preserved Vietnamese Identity Abroad, https://baotanglichsu.vn/vi/Articles/3096/12242/vua-ham-nghi-luon-giu-gin-ban-sac-viet-o-djat-khach.html]
 
 <!-- id: EVT-1326 -->
-*   **1889:** Nguyen Thien Thuat went to China, and the Bai Say Uprising weakened.
+*   **1889:** Nguyen Thien Thuat went to China, and the Bai Say Uprising weakened. [Source: Vietnam National Museum of History - Nguyen Thien Thuat: Soul of the Bai Say Uprising, https://baotanglichsu.vn/vi/Articles/3098/15723/nguyen-thien-thuat-linh-hon-cua-cuoc-khoi-nghia-bai-say.html]
 
 <!-- id: EVT-1327 -->
 *   **Jan. 13, 1889:** King Ham Nghi arrived in Algiers (Algeria), beginning his long exile where he later became known as a painter and married a French woman.
@@ -4250,7 +4250,7 @@
 *   **Jan. 28, 1889:** Emperor Dong Khanh passed away.
 
 <!-- id: EVT-1329 -->
-*   **Jan. 31, 1889 (Jan. 1, Lunar Year of the Ox):** Following Emperor Dong Khanh's sudden passing, the Hue imperial court and the French Resident Superior enthroned 10-year-old Prince Buu Lan (son of Emperor Duc Duc) at Thai Hoa Palace as Emperor Thanh Thai.
+*   **Jan. 31, 1889 (Jan. 1, Lunar Year of the Ox):** Following Emperor Dong Khanh's sudden passing, the Hue imperial court and the French Resident Superior enthroned 10-year-old Prince Buu Lan (son of Emperor Duc Duc) at Thai Hoa Palace as Emperor Thanh Thai. [Source: Vietnam National Museum of History - Emperor Thanh Thai and the Sorrows of a Patriotic King, https://baotanglichsu.vn/vi/Articles/3098/70690/vua-thanh-thai-va-nhung-uan-uc-cua-mot-ong-vua-yeu-nuoc.html]
 
 ![Historical Image](images/event_20260923_225202.webp)
 
@@ -4269,13 +4269,13 @@
 *   **1892:** The Bai Say Uprising disintegrated. Tong Duy Tan (leader of the Hung Linh Uprising) was captured.
 
 <!-- id: EVT-1334 -->
-*   **Jun. 21, 1893:** Dr. Alexandre Yersin discovered the Lang Biang plateau during his expedition in the Lam Vien region, paving the way for Governor-General Paul Doumer to later designate this site for the development of the resort city of Da Lat.
+*   **Jun. 21, 1893:** Dr. Alexandre Yersin discovered the Lang Biang plateau during his expedition in the Lam Vien region, paving the way for Governor-General Paul Doumer to later designate this site for the development of the resort city of Da Lat. [Source: Lam Dong Provincial Portal - Monograph of Da Lat: Alexandre Yersin, https://lamdong.gov.vn/sites/book/diachidalat/Tongluan/bai7.htm]
 
 <!-- id: EVT-1335 -->
-*   **Nov. 1893:** Cao Thang was killed in an attack on the Nu fortress (Nghe An), a major loss for the Huong Khe Uprising.
+*   **Nov. 1893:** Cao Thang was killed in an attack on the Nu fortress (Nghe An), a major loss for the Huong Khe Uprising. [Source: Ha Tinh Newspaper - Cao Thang (1864-1893), https://baohatinh.vn/cao-thang-1864-1893-post47589.html]
 
 <!-- id: EVT-1336 -->
-*   **Oct. 1894:** Hoang Hoa Tham made peace with the French for the first time to consolidate his forces in Yen The.
+*   **Oct. 1894:** Hoang Hoa Tham made peace with the French for the first time to consolidate his forces in Yen The. [Source: Vietnam National Museum of History - General Hoang Hoa Tham: Soul of the Yen The Uprising, https://baotanglichsu.vn/vi/Articles/3098/15307/tuong-quan-hoang-hoa-tham-linh-hon-cua-cuoc-khoi-nghia-yen-the.html]
 
 <!-- id: EVT-1337 -->
 *   **1895:** A French Resident in Tonkin confiscated land from a village to give to a Catholic village, forcing the original owners to continue paying taxes on the lost land until 1910.
@@ -4284,10 +4284,10 @@
 *   **1895 - 1898:** Two shipwrecks at the Paracel Islands - the German ship *Bellona* (1895) and the Japanese ship *Imeji Maru* (or *Umeji Maru*, 1896) carrying copper ingots insured by British insurance companies - sparked diplomatic and legal disputes when Chinese fishermen from Hainan looted the cargo. British insurers alongside British diplomatic representatives in Beijing and Guangzhou sent diplomatic notes demanding that the Qing imperial government investigate, punish the looters, and pay compensation. On April 14, 1898, Viceroy of Liangguang Tan Zhonglin formally issued an official response refusing compensation on the grounds that the Paracel Islands were isolated, abandoned offshore islets on the high seas that belonged neither to China nor Annam, and were not administratively attached to any district or prefecture of Hainan (Qiongzhou), thereby disclaiming Qing imperial jurisdiction. This constitutes crucial historical and legal evidence that by the late 19th century, the Qing imperial government formally recognized that the Paracel Islands were outside Chinese territory.
 
 <!-- id: EVT-1339 -->
-*   **Dec. 28, 1895:** Phan Dinh Phung was killed, and the Huong Khe Uprising gradually disintegrated, marking the essential end of the organized, large-scale Can Vuong movement.
+*   **Dec. 28, 1895:** Phan Dinh Phung was killed, and the Huong Khe Uprising gradually disintegrated, marking the essential end of the organized, large-scale Can Vuong movement. [Source: Vietnam National Museum of History - Phan Dinh Phung Exposes the Base Schemes of Traitors, https://baotanglichsu.vn/vi/Articles/3096/12621/phan-djinh-phung-vach-tran-muu-hen-cua-bon-ban-nuoc.html]
 
 <!-- id: EVT-1340 -->
-*   **1896:** Hoa Lo Prison was built in Hanoi.
+*   **1896:** Hoa Lo Prison was built in Hanoi. [Source: Management Board of Hoa Lo Prison Historical Relic - Formation and Construction Process, https://hoalo.vn/Articles/38/48/qua-trinh-hinh-thanh-va-xay-dung.html]
 
 <!-- id: EVT-1341 -->
 

@@ -4224,7 +4224,7 @@
 *   **04/08/1886:** Học giả Trương Vĩnh Ký được chính phủ Pháp trao tặng Huân chương Bắc Đẩu Bội tinh đệ ngũ đẳng (Chevalier de la Légion d'honneur) theo đề nghị của Tổng công sứ Paul Bert và Thống đốc Nam Kỳ nhằm ghi nhận vai trò trung gian điều đình và đóng góp học thuật của ông. Sự kiện này cùng với các khoản đãi ngộ đặc biệt từ chính quyền bảo hộ đã trở thành một trong những tâm điểm tranh cãi lớn của hậu thế về mối quan hệ giữa ông và thực dân Pháp.
 
 <!-- id: EVT-1320 -->
-*   **01/1887:** Căn cứ Ba Đình thất thủ sau các cuộc tấn công ác liệt của quân Pháp.
+*   **01/1887:** Căn cứ Ba Đình thất thủ sau các cuộc tấn công ác liệt của quân Pháp. [Nguồn: Bảo tàng Lịch sử Quốc gia - Địa danh Ba Đình và Quảng trường Ba Đình, Hà Nội, https://baotanglichsu.vn/vi/Articles/3096/14937/djia-danh-ba-djinh-va-quang-truong-ba-djinh-ha-noi.html]
 
 <!-- id: EVT-1321 -->
 *   **07/06/1887:** Lãnh tụ phong trào Cần Vương kháng Pháp tại Bình Định – Bình Tây Đại nguyên soái Mai Xuân Thưởng bị thực dân Pháp xử tử tại Gò Chàm sau khi các căn cứ kháng chiến bị triệt hạ, biểu tượng cho khí tiết kiên trung, bất khuất của nghĩa sĩ miền Trung.
@@ -4233,16 +4233,16 @@
 *   **26/06/1887:** Pháp và nhà Thanh ký kết Công ước Constans 1887 (Công ước Pháp – Thanh 1887) hoạch định biên giới giữa Bắc Kỳ và Trung Quốc. Để đổi lấy việc nhà Thanh công nhận quyền bảo hộ của Pháp tại Bắc Kỳ, thực dân Pháp nhân nhượng cắt giao nhiều vùng lãnh thổ lịch sử của Việt Nam cho nhà Thanh: nhượng 3/4 diện tích tổng Tụ Long (khoảng 750 km² thuộc Hà Giang) cho tỉnh Vân Nam, và cắt các vùng đất thuộc phủ Hải Ninh (tỉnh Quảng Yên) gồm vùng Phòng Thành, Đông Hưng, mũi Bạch Long (bán đảo Bạch Long Vĩ cổ / Paklung) cùng vùng Giang Bình (Tam Đảo Vạn Vĩ, Mễ Sơn, Mi Sơn) cho tỉnh Quảng Đông; về mặt biển, công ước quy định các đảo nằm ở phía Đông kinh tuyến Paris 105°43' Đông thuộc Trung Quốc, các đảo ở phía Tây (như đảo Cô Tô) thuộc về An Nam (công ước chỉ giải quyết các đảo ven bờ, không bao gồm các quần đảo xa bờ).
 
 <!-- id: EVT-1323 -->
-*   **17/10/1887:** Liên bang Đông Dương được thành lập, dẫn đến một chính quyền thuộc địa được đẩy mạnh đặc biệt dưới thời Toàn quyền Paul Doumer.
+*   **17/10/1887:** Liên bang Đông Dương được thành lập, dẫn đến một chính quyền thuộc địa được đẩy mạnh đặc biệt dưới thời Toàn quyền Paul Doumer. [Nguồn: Cục Văn thư và Lưu trữ Nhà nước - Vài nét về chế độ Toàn quyền của thực dân Pháp ở Đông Dương, https://www.archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/vai-net-ve-che-do-toan-quyen-cua-thuc-dan-phap-o-dong-duong.htm]
 
 <!-- id: EVT-1324 -->
 *   **05/1888:** Người Pháp thành lập cục "Đại Nam nhật báo".
 
 <!-- id: EVT-1325 -->
-*   **11/1888:** Vua Hàm Nghi bị bắt do Trương Quang Ngọc phản bội, sau đó bị đày sang Algérie.
+*   **11/1888:** Vua Hàm Nghi bị bắt do Trương Quang Ngọc phản bội, sau đó bị đày sang Algérie. [Nguồn: Bảo tàng Lịch sử Quốc gia - Vua Hàm Nghi luôn giữ gìn bản sắc Việt ở đất khách, https://baotanglichsu.vn/vi/Articles/3096/12242/vua-ham-nghi-luon-giu-gin-ban-sac-viet-o-djat-khach.html]
 
 <!-- id: EVT-1326 -->
-*   **1889:** Nguyễn Thiện Thuật sang Trung Quốc, khởi nghĩa Bãi Sậy suy yếu.
+*   **1889:** Nguyễn Thiện Thuật sang Trung Quốc, khởi nghĩa Bãi Sậy suy yếu. [Nguồn: Bảo tàng Lịch sử Quốc gia - Nguyễn Thiện Thuật – Linh hồn của cuộc khởi nghĩa Bãi Sậy, https://baotanglichsu.vn/vi/Articles/3098/15723/nguyen-thien-thuat-linh-hon-cua-cuoc-khoi-nghia-bai-say.html]
 
 <!-- id: EVT-1327 -->
 *   **13/01/1889:** Cựu hoàng Hàm Nghi đến thủ đô Algiers (Algérie), bắt đầu cuộc sống lưu đày; tại đây ông đã trở thành một họa sĩ và kết hôn với phụ nữ Pháp.
@@ -4251,7 +4251,7 @@
 *   **28/01/1889:** Vua Đồng Khánh băng hà.
 
 <!-- id: EVT-1329 -->
-*   **31/01/1889 (01/01 năm Kỷ Sửu):** Sau khi vua Đồng Khánh đột ngột băng hà, triều đình Huế cùng Khâm sứ Pháp lập Hoàng tử Bửu Lân (10 tuổi, con trai vua Dục Đức) lên ngôi hoàng đế tại điện Thái Hòa, lấy niên hiệu Thành Thái.
+*   **31/01/1889 (01/01 năm Kỷ Sửu):** Sau khi vua Đồng Khánh đột ngột băng hà, triều đình Huế cùng Khâm sứ Pháp lập Hoàng tử Bửu Lân (10 tuổi, con trai vua Dục Đức) lên ngôi hoàng đế tại điện Thái Hòa, lấy niên hiệu Thành Thái. [Nguồn: Bảo tàng Lịch sử Quốc gia - Vua Thành Thái và những uẩn ức của một ông vua yêu nước, https://baotanglichsu.vn/vi/Articles/3098/70690/vua-thanh-thai-va-nhung-uan-uc-cua-mot-ong-vua-yeu-nuoc.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_225202.webp)
 
@@ -4270,13 +4270,13 @@
 *   **1892:** Khởi nghĩa Bãi Sậy tan rã. Tống Duy Tân (lãnh đạo khởi nghĩa Hùng Lĩnh) bị bắt.
 
 <!-- id: EVT-1334 -->
-*   **21/06/1893:** Bác sĩ Alexandre Yersin phát hiện ra cao nguyên Lang Biang trong chuyến thám hiểm thung lũng Lâm Viên, mở đường cho Toàn quyền Paul Doumer sau này chọn vùng đất này để xây dựng thành phố nghỉ dưỡng Đà Lạt.
+*   **21/06/1893:** Bác sĩ Alexandre Yersin phát hiện ra cao nguyên Lang Biang trong chuyến thám hiểm thung lũng Lâm Viên, mở đường cho Toàn quyền Paul Doumer sau này chọn vùng đất này để xây dựng thành phố nghỉ dưỡng Đà Lạt. [Nguồn: Cổng thông tin điện tử tỉnh Lâm Đồng - Địa chí Đà Lạt: Alexandre Yersin, https://lamdong.gov.vn/sites/book/diachidalat/Tongluan/bai7.htm]
 
 <!-- id: EVT-1335 -->
-*   **11/1893:** Cao Thắng hy sinh trong trận tấn công đồn Nu (Nghệ An), một tổn thất lớn cho khởi nghĩa Hương Khê.
+*   **11/1893:** Cao Thắng hy sinh trong trận tấn công đồn Nu (Nghệ An), một tổn thất lớn cho khởi nghĩa Hương Khê. [Nguồn: Báo Hà Tĩnh - Cao Thắng (1864-1893), https://baohatinh.vn/cao-thang-1864-1893-post47589.html]
 
 <!-- id: EVT-1336 -->
-*   **10/1894:** Hoàng Hoa Thám giảng hòa với Pháp lần thứ nhất để củng cố lực lượng Yên Thế.
+*   **10/1894:** Hoàng Hoa Thám giảng hòa với Pháp lần thứ nhất để củng cố lực lượng Yên Thế. [Nguồn: Bảo tàng Lịch sử Quốc gia - Tướng quân Hoàng Hoa Thám - linh hồn của cuộc khởi nghĩa Yên Thế, https://baotanglichsu.vn/vi/Articles/3098/15307/tuong-quan-hoang-hoa-tham-linh-hon-cua-cuoc-khoi-nghia-yen-the.html]
 
 <!-- id: EVT-1337 -->
 *   **1895:** Viên công sứ một tỉnh ở Bắc Kỳ tước đoạt ruộng đất của một làng để cấp cho một làng khác theo đạo Thiên Chúa, bắt dân tiếp tục nộp thuế cho đất đã mất đến năm 1910.
@@ -4285,10 +4285,10 @@
 *   **1895 - 1898:** Hai vụ đắm tàu tại quần đảo Hoàng Sa - tàu *Bellona* của Đức (1895) và tàu *Imeji Maru* (hay *Umeji Maru*) của Nhật Bản (1896) chở các thỏi đồng được các công ty bảo hiểm Anh bảo hiểm - đã dẫn đến tranh chấp ngoại giao và pháp lý khi ngư dân đảo Hải Nam ra cướp bóc, hôi của số hàng hóa này. Các công ty bảo hiểm Anh cùng đại diện ngoại giao Anh tại Bắc Kinh và Quảng Châu đã gửi công hàm yêu cầu triều đình Mãn Thanh điều tra, trừng trị thủ phạm và bồi thường thiệt hại. Ngày 14/04/1898, Tổng đốc Lưỡng Quảng Đàm Chung Lân (Tan Zhonglin) chính thức ra văn bản từ chối bồi thường với lý do quần đảo Hoàng Sa là những đảo hoang ngoài biển khơi ('tuyệt đảo'), không thuộc lãnh thổ Trung Quốc, không thuộc An Nam và không trực thuộc quyền quản lý hành chính của bất kỳ châu hay huyện nào thuộc phủ Quỳnh Châu (Hải Nam), do đó chính quyền nhà Thanh không có trách nhiệm tài phán. Đây là bằng chứng pháp lý lịch sử quan trọng khẳng định vào cuối thế kỷ XIX, chính quyền phong kiến Trung Quốc đã chính thức thừa nhận Hoàng Sa không thuộc chủ quyền của họ.
 
 <!-- id: EVT-1339 -->
-*   **28/12/1895:** Phan Đình Phùng hy sinh, khởi nghĩa Hương Khê dần tan rã, đánh dấu sự kết thúc về cơ bản của phong trào Cần Vương có tổ chức trên quy mô lớn.
+*   **28/12/1895:** Phan Đình Phùng hy sinh, khởi nghĩa Hương Khê dần tan rã, đánh dấu sự kết thúc về cơ bản của phong trào Cần Vương có tổ chức trên quy mô lớn. [Nguồn: Bảo tàng Lịch sử Quốc gia - Phan Đình Phùng vạch trần mưu hèn của bọn bán nước, https://baotanglichsu.vn/vi/Articles/3096/12621/phan-djinh-phung-vach-tran-muu-hen-cua-bon-ban-nuoc.html]
 
 <!-- id: EVT-1340 -->
-*   **1896:** Nhà tù Hỏa Lò được xây dựng tại Hà Nội.
+*   **1896:** Nhà tù Hỏa Lò được xây dựng tại Hà Nội. [Nguồn: Ban Quản lý Di tích Nhà tù Hỏa Lò - Quá trình hình thành và xây dựng, https://hoalo.vn/Articles/38/48/qua-trinh-hinh-thanh-va-xay-dung.html]
 
 <!-- id: EVT-1341 -->
 
