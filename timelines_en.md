@@ -1129,7 +1129,7 @@
 *   **1237:** Tran Thu Do forced Emperor Tran Thai Tong to marry his older brother Tran Lieu's wife, Princess Thuan Thien, and invested her as Empress. Former Empress Chieu Thanh (Ly Chieu Hoang) was demoted to Princess due to her prolonged inability to bear an heir. Late that year, Thuan Thien gave birth to Tran Quoc Khang (who was actually Tran Lieu's son). This forced marriage triggered the Tran Lieu rebellion. [Source: The Story of Tran Quoc Khang (Historical Anecdotes), https://scov.gov.vn/ban-sac-van-hoa/viet-su-giai-thoai/chuyen-tran-quoc-khang.html]
 
 <!-- id: EVT-0337 -->
-*   **1237:** King Tran Thai Tong granted the lands of Yen Phu, Yen Duong, Yen Sinh, Yen Hung, and Yen Bang to his brother Tran Lieu as a "thang mộc ấp" (bathing appanage). He also formalized the procedure for making deeds for land sales and loans, requiring witnesses to fingerprint the first three lines and sellers the last four lines.
+*   **1237:** King Tran Thai Tong granted the lands of Yen Phu, Yen Duong, Yen Sinh, Yen Hung, and Yen Bang to his brother Tran Lieu as a "thang mộc ấp" (bathing appanage). He also formalized the procedure for making deeds for land sales and loans, requiring witnesses to fingerprint the first three lines and sellers the last four lines. [Source: Nhan Dan Newspaper - Yen Hung appanage of Tran Lieu, https://special.nhandan.vn/hai-thi-xa/index.html]
 
 <!-- id: EVT-0338 -->
 *   **1238:** Population registers were reviewed in Thanh Hoa.
@@ -1159,7 +1159,7 @@
 *   **Jun. 1248:** Empress Thuan Thien passed away. [Source: The Turbulent Life of Empress Thuan Thien (Phu Nu Vietnam), https://phunuvietnam.vn/doi-nhieu-bien-co-cua-thai-hau-thuan-thien-25907.htm]
 
 <!-- id: EVT-0347 -->
-*   **1250:** King Tran Thai Tong issued a decree requiring the people to address the King as "Quoc gia" (The Nation/State) to elevate the King's position and national unity.
+*   **1250:** King Tran Thai Tong issued a decree requiring the people to address the King as "Quoc gia" (The Nation/State) to elevate the King's position and national unity. [Source: Buddhist Studies Review - Tran Thai Tong and national reforms under the Tran Dynasty, https://tapchinghiencuuphathoc.vn/tran-thai-tong-va-van-de-cai-cach-dat-nuoc-thoi-tran.html]
 
 <!-- id: EVT-0348 -->
 *   **Spring 1251:** Emperor Tran Thai Tong had betrothed his eldest daughter, Princess Thien Thanh, to Trung Thanh Vuong (son of Nhan Dao Vuong). However, Tran Quoc Tuan (later Tran Hung Dao), deeply in love with the Princess from childhood, boldly infiltrated her room at night. Princess Thuy Ba (the Emperor's sister, who raised Quoc Tuan) presented 10 trays of gold to the Emperor to request the marriage. To avoid punishing Quoc Tuan, Emperor Tran Thai Tong sanctioned their union and compensated Nhan Dao Vuong with 2,000 mau of land in Ung Thien prefecture. This marriage later produced four prominent generals (Hung Vu Vuong, Hung Tri Vuong, Hung Nhuong Vuong, Hung Hien Vuong) and two daughters (including Queen Kham Tu). [Source: Princess Thien Thanh (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Thi%C3%AAn_Th%C3%A0nh_C%C3%B4ng_ch%C3%BAa]
@@ -1225,7 +1225,7 @@
 *   **Oct. 24, 1278:** Emperor Trần Thánh Tông abdicated the throne in favor of Crown Prince Trần Khâm (later known as Emperor Trần Nhân Tông). [Source: Tran Nhan Tong – The Enlightened King (Court Magazine), https://tapchitoaan.vn/tran-nhan-tong-vi-vua-anh-minh]
 
 <!-- id: EVT-0369 -->
-*   **1280:** Prince Chieu Van Tran Nhat Duat rode alone into the camp of rebel leader Trinh Giac Mat in Da Giang, using extraordinary diplomatic finesse and deep knowledge of indigenous customs to secure submission to the court without shedding blood.
+*   **1280:** Prince Chieu Van Tran Nhat Duat rode alone into the camp of rebel leader Trinh Giac Mat in Da Giang, using extraordinary diplomatic finesse and deep knowledge of indigenous customs to secure submission to the court without shedding blood. [Source: VietNamNet - Little-known anecdotes about the most multilingual general in Vietnamese history, https://vietnamnet.vn/bon-giai-thoai-it-biet-ve-danh-tuong-gioi-ngoai-ngu-nhat-su-viet-474675.html]
 
 <!-- id: EVT-0370 -->
 *   **1281:** Schools were established in Thien Truong prefecture (Nam Dinh).
@@ -1316,7 +1316,7 @@
 *   **Sep. 1288:** Nguyen Tu Quoc Mau (Princess Thien Thanh, wife of Tran Hung Dao) passed away after 37 years of marriage. While her husband fought on the front lines, she managed logistics in the rear. She was one of the only two women (along with Linh Tu Quoc Mau Tran Thi Dung) honored with the supreme title "Quoc Mau" (Mother of the Nation) for their immense contributions to the Tran dynasty. [Source: Princess Thien Thanh Temple (Hai Phong News), https://baohaiphong.vn/linh-thieng-den-tho-thien-thanh-cong-chua-phu-nhan-hung-dao-dai-vuong-367928.html]
 
 <!-- id: EVT-0394 -->
-*   **1289:** Emperor Tran Nhan Tong enfeoffed Nguyen Khoai as a Marquis and granted Khoai Lo district as a "thang moc ap" (bathing appanage).
+*   **1289:** Emperor Tran Nhan Tong enfeoffed Nguyen Khoai as a Marquis and granted Khoai Lo district as a "thang moc ap" (bathing appanage). [Source: Dan Viet Newspaper - Nguyen Khoai: General commanding the Thanh Dyc army, https://danviet.vn/nguyen-khoai-danh-tuong-chi-huy-quan-thanh-duc-khien-giac-nguyen-mong-khiep-so-20240507214953772-d1160127.html]
 
 <!-- id: EVT-0395 -->
 *   **Jul. 3, 1290 (25th day of the 5th lunar month, Canh Dan year):** Retired Emperor Tran Thanh Tong (Tran Hoang), the second monarch of the Tran Dynasty who co-commanded the victorious resistance against the Second (1285) and Third (1288) Yuan-Mongol Invasions alongside Emperor Tran Nhan Tong, passed away at Nhan Tho Palace at age 51. [Source: Tran Thanh Tong, Virtuous King (Yen Tu Heritage), https://disanhalongyentu.vn/vi/news/trn-thnh-tng-v-vua-ti-c-ca-nc-i-vit-1069]
@@ -1986,7 +1986,7 @@
 *   **Early 1425 (Jan. 25, Lunar):** Le Loi marched his troops into Nghe An, issuing strict orders not to harm the populace ("not to take a single thread"). Le Loi lured Ming forces led by Chen Zhi and Fang Zheng into ambushes along the Lam river at Kha Luu and Bo Ai, inflicting heavy losses and forcing them to retreat to Nghe An citadel. [Source: Short History of Vietnam I-III-XIV (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_XIV]
 
 <!-- id: EVT-0611 -->
-*   **Mar. 24, 1425 (Lunar):** According to the *Lam Son Thuc Luc*, Lady Tran Thi Ngoc Tran (mother of King Le Thai Tong) sacrificed herself to the river deity to pray for the army's victory.
+*   **Mar. 24, 1425 (Lunar):** According to the *Lam Son Thuc Luc*, Lady Tran Thi Ngoc Tran (mother of King Le Thai Tong) sacrificed herself to the river deity to pray for the army's victory. [Source: Lam Son Thuc Luc - Vol. 1; Thanh Hoa Newspaper, https://baothanhhoa.vn/mot-cuon-sach-hay-ve-dong-ho-tren-dat-xu-thanh-267749.htm]
 
 <!-- id: EVT-0612 -->
 *   **May 2, 1425:** Ming general Li An arrived by sea to reinforce Nghe An. [Source: Short History of Vietnam I-III-XIV (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_XIV]
@@ -2929,7 +2929,7 @@
 *   **May 1775:** The Trinh army continued to occupy Quang Nam. Nguyen Nhac had to temporarily surrender to the Trinh army to concentrate his forces on fighting the Nguyen lords. [Source: General Hoang Ngu Phuc vs Tay Son (Dan Viet), https://danviet.vn/viep-quan-cong-hoang-ngu-phuc-tung-khien-quan-tay-son-phai-dau-hang-ra-sao-d1353739.html]
 
 <!-- id: EVT-0917 -->
-*   **Jul. 1775:** Nguyen Hue dispatched female general Bui Thi Xuan and general Vo Dinh Tu to attack Phu Yen, defeating the forces of Lord Nguyen Phuc Thuan led by Tong Phuc Hiep.
+*   **Jul. 1775:** Nguyen Hue dispatched female general Bui Thi Xuan and general Vo Dinh Tu to attack Phu Yen, defeating the forces of Lord Nguyen Phuc Thuan led by Tong Phuc Hiep. [Source: Binh Thuan Provincial Library - Female General Bui Thi Xuan, https://www.thuvienbinhthuan.com.vn/nu-tuong-bui-thi-xuan.html]
 
 <!-- id: EVT-0918 -->
 *   **Oct. 1775:** The Trinh commander Hoang Ngu Phuc died on his way back to the North after an unsuccessful campaign to completely subdue the South due to disease and exhaustion within his army. [Source: General Hoang Ngu Phuc vs Tay Son (Dan Viet), https://danviet.vn/viep-quan-cong-hoang-ngu-phuc-tung-khien-quan-tay-son-phai-dau-hang-ra-sao-d1353739.html]
@@ -2983,7 +2983,7 @@
 *   **Feb. 1782 (Jan., Lunar Year of the Tiger):** Physician Le Huu Trac traveled to the capital Thang Long to treat Crown Prince Trinh Can under royal summons. He recorded observations of the capital's political and social situation in his memoir *Thuong Kinh Ky Su* (Chronicles of a Journey to the Capital). [Source: Hai Thuong Lan Ong Thuong Kinh Ky Su (Ha Tinh News), https://baohatinh.vn/vai-dieu-ve-thuong-kinh-ky-su-cua-hai-thuong-lan-ong-le-huu-trac-post275509.html]
 
 <!-- id: EVT-0935 -->
-*   **Mar. 1782:** Battle of That Ky River (Nga Bay, Saigon). The Tay Son army defeated Nguyen Anh's navy and Western warships, killing the French commander Manuel.
+*   **Mar. 1782:** Battle of That Ky River (Nga Bay, Saigon). The Tay Son army defeated Nguyen Anh's navy and Western warships, killing the French commander Manuel. [Source: Dai Nam Thuc Luc - Tien bien, Vol. 1; Historical Studies, https://nghiencuulichsu.com/2015/10/30/cuoc-chien-25-nam-giua-nguyen-anh-va-tay-son-1777-den-1802/]
 
 <!-- id: EVT-0936 -->
 *   **Jul. 7, 1782:** In retaliation for the death of his prominent general Pham Ngan at Tham Luong bridge, Nguyen Nhac ordered a massacre of the Chinese community in Gia Dinh (settlers and merchants), whom he accused of supporting the Nguyen. Thousands were killed, and bodies clogged the river, causing a massive disruption to trade and the economy.
@@ -3041,7 +3041,7 @@
 *   **Jun. 15, 1786:** The Tay Son army, launching a surprise night attack capitalizing on the rising tide, captured Phu Xuan citadel. The Trịnh commander Hoang Dinh The died in battle after running out of ammunition, and the governor Pham Ngo Cau surrendered. This victory effectively wiped out the Trịnh forces south of the Gianh River.
 
 <!-- id: EVT-0952 -->
-*   **Jul. 17, 1786:** The Battle of Son Nam. Nguyen Hue utilized a psychological tactic by sending straw men on boats to draw enemy fire. Once the Trịnh forces exhausted their ammunition, the Tay Son navy and elite troops attacked, routing the Trịnh army and capturing the Son Nam region.
+*   **Jul. 17, 1786:** The Battle of Son Nam. Nguyen Hue utilized a psychological tactic by sending straw men on boats to draw enemy fire. Once the Trịnh forces exhausted their ammunition, the Tay Son navy and elite troops attacked, routing the Trịnh army and capturing the Son Nam region. [Source: Hoang Le Nhat Thong Chi - Chapter 4; Kham Dinh Viet Su Thong Giam Cuong Muc]
 
 <!-- id: EVT-0953 -->
 *   **Jul. 21, 1786:** The Tay Son army entered Thang Long, completely overthrowing the over 200-year rule of the Trịnh lords after a lightning campaign. Lord Trịnh Tong attempted to flee but was captured by locals and subsequently committed suicide. Along with the overthrow of the Nguyen lords in Dang Trong (1777), this victory obliterated the two-century-old division between Dang Trong and Dang Ngoai, initiating the reunification of the country. [Source: Dai Thang Than Toc Altar (Hung Nguyen, Nghe An), https://hungnguyen.nghean.gov.vn/danh-lam-thang-canh/dai-thang-than-toc-tet-ky-dau-464723]
@@ -3087,13 +3087,13 @@
 *   **1788:** Nguyen Anh returned from Siam and, taking advantage of Nguyen Lu's weakness, recaptured Gia Dinh. [Source: The Nguyen Dynasty History (Tuoi Tre), https://tuoitre.vn/nha-nguyen---lich-su-thang-tram-cua-mot-dong-ho-ky-cuoi---khoi-dong-lich-su-292820.htm]
 
 <!-- id: EVT-0966 -->
-*   **1788:** Responding to Nguyen Hue's "Edict Seeking Worthies" (*Chieu cau hien*) after the pacification of Vu Van Nham, renowned Northern scholar Ngo Thi Nham stepped forward to serve the Tay Son dynasty. Recognizing his profound talents, Nguyen Hue rejoiced, declaring: "Truly, Heaven has preserved you for me!", appointing him Left Vice Minister of the Board of Personnel (*Ta thi lang bo Lai*), ennobling him as Marquess Tinh Phai (*Tinh phai hau*), and entrusting him to recruit Northern scholars and co-manage military and civil affairs with General Ngo Van So.
+*   **1788:** Responding to Nguyen Hue's "Edict Seeking Worthies" (*Chieu cau hien*) after the pacification of Vu Van Nham, renowned Northern scholar Ngo Thi Nham stepped forward to serve the Tay Son dynasty. Recognizing his profound talents, Nguyen Hue rejoiced, declaring: "Truly, Heaven has preserved you for me!", appointing him Left Vice Minister of the Board of Personnel (*Ta thi lang bo Lai*), ennobling him as Marquess Tinh Phai (*Tinh phai hau*), and entrusting him to recruit Northern scholars and co-manage military and civil affairs with General Ngo Van So. [Source: National Museum of History - Celebrated Scholar Ngo Thi Nham, https://baotanglichsu.vn/vi/Articles/3098/18022/danh-nhan-ngo-thi-nham-1746-1803.html]
 
 <!-- id: EVT-0967 -->
 *   **1788:** Responding to Nguyen Hue's "Edict Seeking Worthies" (*Chieu cau hien*), renowned scholar Phan Huy Ich emerged from seclusion in Sai Son to serve the Tay Son dynasty, receiving appointment as Left Vice Minister of the Board of Revenue (*Ta Thi lang bo Ho*). Alongside Ngo Thi Nham, he served as a pivotal pillar of the Tay Son administration in the North, contributing significantly to public finance, civil administration, and rallying Northern literati. [Source: Phan Huy Ich 1751-1822 (Buon Ho, Dak Lak), https://buonho.daklak.gov.vn/phan-huy-ich-1751-1822-5702.html]
 
 <!-- id: EVT-0968 -->
-*   **Jan. 1788:** Tay Son General Vu Van Nham captured and executed Nguyen Huu Chinh in Thang Long, ending Chinh's attempt to build his own power base in the North.
+*   **Jan. 1788:** Tay Son General Vu Van Nham captured and executed Nguyen Huu Chinh in Thang Long, ending Chinh's attempt to build his own power base in the North. [Source: Kham Dinh Viet Su Thong Giam Cuong Muc - Main Annals, Vol. 47]
 
 <!-- id: EVT-0969 -->
 *   **Early 1788:** The population in Tonkin (Dang Ngoai) began to show resentment towards the new Tay Son officials and desired a return to the old order.

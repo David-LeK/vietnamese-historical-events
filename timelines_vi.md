@@ -1130,7 +1130,7 @@
 *   **1237:** Trần Thủ Độ ép vua Trần Thái Tông lấy vợ của anh trai (Trần Liễu) là Công chúa Thuận Thiên và lập làm Hoàng hậu, giáng Chiêu Thánh làm Công chúa do bà chậm sinh nở. Cuối năm đó, Thuận Thiên sinh ra Trần Quốc Khang (thực chất là con Trần Liễu). Sự kiện ép buộc hôn nhân này đã dẫn đến vụ loạn Trần Liễu. [Nguồn: Chuyện Trần Quốc Khang (Việt sử giai thoại), https://scov.gov.vn/ban-sac-van-hoa/viet-su-giai-thoai/chuyen-tran-quoc-khang.html]
 
 <!-- id: EVT-0337 -->
-*   **1237:** Vua Trần Thái Tông ban các đất Yên Phụ, Yên Dương, Yên Sinh, Yên Hưng, Yên Bảng cho anh là Trần Liễu làm "thang mộc ấp". Ông cũng chính thức hóa thủ tục làm văn tự bán ruộng đất và vay mượn, quy định người làm chứng điểm chỉ 3 dòng đầu, người bán điểm chỉ 4 dòng cuối.
+*   **1237:** Vua Trần Thái Tông ban các đất Yên Phụ, Yên Dương, Yên Sinh, Yên Hưng, Yên Bảng cho anh là Trần Liễu làm "thang mộc ấp". Ông cũng chính thức hóa thủ tục làm văn tự bán ruộng đất và vay mượn, quy định người làm chứng điểm chỉ 3 dòng đầu, người bán điểm chỉ 4 dòng cuối. [Nguồn: Báo Nhân Dân - Trại Yên Hưng thang mộc ấp của Trần Liễu, https://special.nhandan.vn/hai-thi-xa/index.html]
 
 <!-- id: EVT-0338 -->
 *   **1238:** Duyệt lại sổ hộ tịch ở Thanh Hóa.
@@ -1160,7 +1160,7 @@
 *   **06/1248:** Hoàng hậu Thuận Thiên qua đời. [Nguồn: Đời nhiều biến cố của Thái hậu Thuận Thiên (Phụ Nữ Việt Nam), https://phunuvietnam.vn/doi-nhieu-bien-co-cua-thai-hau-thuan-thien-25907.htm]
 
 <!-- id: EVT-0347 -->
-*   **1250:** Vua Trần Thái Tông xuống chiếu cho thiên hạ gọi vua là "Quốc gia" để đề cao vị thế nhà vua và tính thống nhất của đất nước.
+*   **1250:** Vua Trần Thái Tông xuống chiếu cho thiên hạ gọi vua là "Quốc gia" để đề cao vị thế nhà vua và tính thống nhất của đất nước. [Nguồn: Tạp chí Nghiên cứu Phật học - Trần Thái Tông và vấn đề cải cách đất nước thời Trần, https://tapchinghiencuuphathoc.vn/tran-thai-tong-va-van-de-cai-cach-dat-nuoc-thoi-tran.html]
 
 <!-- id: EVT-0348 -->
 *   **Mùa xuân 1251:** Vua Trần Thái Tông đã hứa gả Trưởng Công chúa Thiên Thành (con gái vua) cho Trung Thành vương (con trai Nhân Đạo vương). Tuy nhiên, Trần Quốc Tuấn (Trần Hưng Đạo) vì tình yêu sâu sắc từ nhỏ đã nửa đêm lẻn vào phòng Công chúa. Công chúa Thụy Bà (chị vua, người nhận nuôi Quốc Tuấn) đã dâng 10 mâm vàng xin cưới. Vua Trần Thái Tông cuối cùng chấp thuận hôn sự và phải cắt 2.000 mẫu ruộng ở phủ Ứng Thiên đền bù cho nhà Nhân Đạo vương. Cuộc hôn nhân này sau đó sinh ra 4 vị tướng tài (Hưng Vũ vương, Hưng Trí vương, Hưng Nhượng vương, Hưng Hiến vương) và 2 người con gái (trong đó có Khâm Từ Hoàng hậu). [Nguồn: Thiên Thành Công chúa (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Thi%C3%AAn_Th%C3%A0nh_C%C3%B4ng_ch%C3%BAa]
@@ -1226,7 +1226,7 @@
 *   **24/10/1278:** Trần Thánh Tông nhường ngôi cho Thái tử Trần Khâm (sau là Trần Nhân Tông). [Nguồn: Trần Nhân Tông – vị vua anh minh (Tạp chí Tòa án), https://tapchitoaan.vn/tran-nhan-tong-vi-vua-anh-minh]
 
 <!-- id: EVT-0369 -->
-*   **1280:** Chiêu Văn vương Trần Nhật Duật một mình vào doanh trại thủ lĩnh Trịnh Giác Mật ở đạo Đà Giang, dùng tài ngoại giao và sự am tường phong tục tập quán để cảm hóa, thu phục thủ lĩnh quy hàng triều đình mà không tốn một mũi tên.
+*   **1280:** Chiêu Văn vương Trần Nhật Duật một mình vào doanh trại thủ lĩnh Trịnh Giác Mật ở đạo Đà Giang, dùng tài ngoại giao và sự am tường phong tục tập quán để cảm hóa, thu phục thủ lĩnh quy hàng triều đình mà không tốn một mũi tên. [Nguồn: Báo VietNamNet - Bốn giai thoại ít biết về danh tướng giỏi ngoại ngữ nhất sử Việt, https://vietnamnet.vn/bon-giai-thoai-it-biet-ve-danh-tuong-gioi-ngoai-ngu-nhat-su-viet-474675.html]
 
 <!-- id: EVT-0370 -->
 *   **1281:** Đặt học đường ở phủ Thiên Trường (Nam Định).
@@ -1317,7 +1317,7 @@
 *   **09/1288:** Nguyên Từ Quốc Mẫu (Trưởng Công chúa Thiên Thành, phu nhân Trần Hưng Đạo) qua đời sau 37 năm chung sống. Trong khi chồng xông pha trận mạc, bà lo toan hậu cần ở hậu phương, trở thành một trong hai người phụ nữ (cùng Linh Từ Quốc Mẫu Trần Thị Dung) được triều đình phong đến bậc Quốc Mẫu vì công lao to lớn. [Nguồn: Đền thờ Thiên Thành công chúa (Báo Hải Phòng), https://baohaiphong.vn/linh-thieng-den-tho-thien-thanh-cong-chua-phu-nhan-hung-dao-dai-vuong-367928.html]
 
 <!-- id: EVT-0394 -->
-*   **1289:** Vua Trần Nhân Tông phong Nguyễn Khoái làm Liệt hầu và ban cho huyện Khoái Lộ làm "thang mộc ấp".
+*   **1289:** Vua Trần Nhân Tông phong Nguyễn Khoái làm Liệt hầu và ban cho huyện Khoái Lộ làm "thang mộc ấp". [Nguồn: Báo Dân Việt - Nguyễn Khoái: Danh tướng chỉ huy quân Thánh Dực, https://danviet.vn/nguyen-khoai-danh-tuong-chi-huy-quan-thanh-duc-khien-giac-nguyen-mong-khiep-so-20240507214953772-d1160127.html]
 
 <!-- id: EVT-0395 -->
 *   **03/07/1290 (25/05 năm Canh Dần):** Thái thượng hoàng Trần Thánh Tông (Trần Hoảng), vị hoàng đế thứ hai của triều Trần, người cùng Thượng hoàng Thái Tông và vua Nhân Tông trực tiếp lãnh đạo thắng lợi hai cuộc kháng chiến chống quân Nguyên Mông lần thứ hai (1285) và thứ ba (1288), băng hà tại cung Nhân Thọ, thọ 51 tuổi. [Nguồn: Trần Thánh Tông - vị vua tài đức (Di sản Yên Tử), https://disanhalongyentu.vn/vi/news/trn-thnh-tng-v-vua-ti-c-ca-nc-i-vit-1069]
@@ -1987,7 +1987,7 @@
 *   **Đầu 1425 (25/01 năm Ất Tỵ):** Lê Lợi dẫn quân tiến sâu vào Nghệ An, ra lệnh nghiêm ngặt "tơ hào không phạm". Nghĩa quân nhử Trần Trí và Phương Chính vào trận địa mai phục ở Khả Lưu và Bồ Ải trên sông Lam, đánh thiệt hại nặng quân Minh và ép địch lùi về thành Nghệ An. [Nguồn: Việt Nam sử lược I-III-XIV (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_XIV]
 
 <!-- id: EVT-0611 -->
-*   **24/03/1425 (Âm lịch):** Bà Trần Thị Ngọc Trần (mẹ vua Lê Thái Tông) hy sinh thân mình làm vợ thần để cầu trận thắng (theo *Lam Sơn thực lục*).
+*   **24/03/1425 (Âm lịch):** Bà Trần Thị Ngọc Trần (mẹ vua Lê Thái Tông) hy sinh thân mình làm vợ thần để cầu trận thắng (theo *Lam Sơn thực lục*). [Nguồn: Lam Sơn thực lục - Quyển 1; Báo Thanh Hóa, https://baothanhhoa.vn/mot-cuon-sach-hay-ve-dong-ho-tren-dat-xu-thanh-267749.htm]
 
 <!-- id: EVT-0612 -->
 *   **02/05/1425:** Tướng Minh là Lý An đem thủy quân theo đường biển cứu viện Nghệ An. [Nguồn: Việt Nam sử lược I-III-XIV (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_XIV]
@@ -2930,7 +2930,7 @@
 *   **05/1775:** Quân Trịnh tiếp tục chiếm Quảng Nam. Nguyễn Nhạc phải tạm thời xin hàng quân Trịnh để tập trung lực lượng đánh chúa Nguyễn. [Nguồn: Việp quận công Hoàng Ngũ Phúc (Dân Việt), https://danviet.vn/viep-quan-cong-hoang-ngu-phuc-tung-khien-quan-tay-son-phai-dau-hang-ra-sao-d1353739.html]
 
 <!-- id: EVT-0917 -->
-*   **07/1775:** Nguyễn Huệ cử nữ tướng Bùi Thị Xuân và tướng Võ Đình Tú đem quân đánh Phú Yên, đánh bại quân chúa Nguyễn Phúc Thuần do Tống Phúc Hiệp chỉ huy.
+*   **07/1775:** Nguyễn Huệ cử nữ tướng Bùi Thị Xuân và tướng Võ Đình Tú đem quân đánh Phú Yên, đánh bại quân chúa Nguyễn Phúc Thuần do Tống Phúc Hiệp chỉ huy. [Nguồn: Thư viện Tỉnh Bình Thuận - Nữ tướng Bùi Thị Xuân, https://www.thuvienbinhthuan.com.vn/nu-tuong-bui-thi-xuan.html]
 
 <!-- id: EVT-0918 -->
 *   **10/1775:** Thống tướng quân Trịnh là Hoàng Ngũ Phúc qua đời trên đường rút quân về Bắc sau chiến dịch Nam tiến không thành công trọn vẹn do dịch bệnh và sự kháng cự dai dẳng. [Nguồn: Việp quận công Hoàng Ngũ Phúc (Dân Việt), https://danviet.vn/viep-quan-cong-hoang-ngu-phuc-tung-khien-quan-tay-son-phai-dau-hang-ra-sao-d1353739.html]
@@ -2984,7 +2984,7 @@
 *   **02/1782 (Tháng Giêng năm Nhâm Dần):** Danh y Lê Hữu Trác nhận chỉ triệu ra kinh đô Thăng Long chữa bệnh cho Thế tử Trịnh Cán. Chuyến đi này được ông ghi lại trong tác phẩm *Thượng Kinh ký sự*. [Nguồn: Thượng kinh ký sự của Hải Thượng Lãn Ông (Báo Hà Tĩnh), https://baohatinh.vn/vai-dieu-ve-thuong-kinh-ky-su-cua-hai-thuong-lan-ong-le-huu-trac-post275509.html]
 
 <!-- id: EVT-0935 -->
-*   **03/1782:** Trận Thất Kỳ giang (Ngã Bảy, Sài Gòn). Quân Tây Sơn đánh bại thủy quân của Nguyễn Ánh và các tàu chiến phương Tây, giết chết chỉ huy Manuel (Mạn Hòe).
+*   **03/1782:** Trận Thất Kỳ giang (Ngã Bảy, Sài Gòn). Quân Tây Sơn đánh bại thủy quân của Nguyễn Ánh và các tàu chiến phương Tây, giết chết chỉ huy Manuel (Mạn Hòe). [Nguồn: Đại Nam thực lục - Tiền biên, Quyển 1; Nghiên cứu Lịch sử, https://nghiencuulichsu.com/2015/10/30/cuoc-chien-25-nam-giua-nguyen-anh-va-tay-son-1777-den-1802/]
 
 <!-- id: EVT-0936 -->
 *   **07/07/1782:** Để trả thù cho cái chết của Hộ giá Phạm Ngạn tại cầu Tham Lương, Nguyễn Nhạc đã ra lệnh tàn sát hàng ngàn người Hoa (thương nhân và binh lính) tại Gia Định, gây nên sự đình trệ nghiêm trọng về thương mại và kinh tế trong vùng.
@@ -3042,7 +3042,7 @@
 *   **15/06/1786:** Quân Tây Sơn lợi dụng đêm tối và nước thủy triều dâng cao, bất ngờ tấn công và hạ thành Phú Xuân. Tướng Trịnh là Hoàng Đình Thể chiến đấu đến khi hết đạn rồi tử trận, còn trấn thủ Phạm Ngô Cầu mở cửa thành đầu hàng. Thắng lợi này đã tiêu diệt hoàn toàn lực lượng quân Trịnh ở phía nam sông Gianh.
 
 <!-- id: EVT-0952 -->
-*   **17/07/1786:** Trận Sơn Nam. Nguyễn Huệ dùng kế tâm lý chiến, cho những người nộm rơm lên thuyền để dụ địch bắn tên đạn. Khi quân Trịnh cạn kiệt đạn dược, thủy quân và tinh binh Tây Sơn đồng loạt tấn công, đánh tan quân Trịnh và chiếm được trấn Sơn Nam.
+*   **17/07/1786:** Trận Sơn Nam. Nguyễn Huệ dùng kế tâm lý chiến, cho những người nộm rơm lên thuyền để dụ địch bắn tên đạn. Khi quân Trịnh cạn kiệt đạn dược, thủy quân và tinh binh Tây Sơn đồng loạt tấn công, đánh tan quân Trịnh và chiếm được trấn Sơn Nam. [Nguồn: Hoàng Lê nhất thống chí - Hồi thứ 4; Khâm định Việt sử thông giám Cương mục]
 
 <!-- id: EVT-0953 -->
 *   **21/07/1786:** Quân Tây Sơn tiến vào Thăng Long sau một chiến dịch thần tốc, lật đổ hoàn toàn nền thống trị hơn 200 năm của họ Trịnh. Chúa Trịnh Tông tìm đường bỏ trốn nhưng bị người dân bắt giữ, sau đó đã dùng dao tự sát. Thắng lợi này cùng việc lật đổ chúa Nguyễn ở Đàng Trong (1777) đã xóa bỏ ranh giới chia cắt Đàng Trong - Đàng Ngoài kéo dài hơn hai thế kỷ, bước đầu tái lập nền thống nhất đất nước. [Nguồn: Đài Thắng Thần Tộc tết Kỷ Dậu (Hưng Nguyên, Nghệ An), https://hungnguyen.nghean.gov.vn/danh-lam-thang-canh/dai-thang-than-toc-tet-ky-dau-464723]
@@ -3088,13 +3088,13 @@
 *   **1788:** Nguyễn Ánh từ Xiêm trở về, lợi dụng Nguyễn Lữ yếu kém, chiếm lại Gia Định. [Nguồn: Nhà Nguyễn, lịch sử thăng trầm (Tuổi Trẻ), https://tuoitre.vn/nha-nguyen---lich-su-thang-tram-cua-mot-dong-ho-ky-cuoi---khoi-dong-lich-su-292820.htm]
 
 <!-- id: EVT-0966 -->
-*   **1788:** Sau khi Bắc Bình vương Nguyễn Huệ ra Bắc dẹp Vũ Văn Nhậm và phát lệnh "Chiếu cầu hiền", danh sĩ Bắc Hà Ngô Thì Nhậm đã ra hợp tác phụng sự triều Tây Sơn. Nhận định sâu sắc về tài đức của ông, Nguyễn Huệ vui mừng thán phục: "Thật là trời để dành ông cho ta vậy!", phong ông giữ chức Tả thị lang bộ Lại, tước Tĩnh phái hầu, giao trọng trách chiêu tập nhân sĩ Bắc Hà và cùng Ngô Văn Sở mưu tính việc quân quốc.
+*   **1788:** Sau khi Bắc Bình vương Nguyễn Huệ ra Bắc dẹp Vũ Văn Nhậm và phát lệnh "Chiếu cầu hiền", danh sĩ Bắc Hà Ngô Thì Nhậm đã ra hợp tác phụng sự triều Tây Sơn. Nhận định sâu sắc về tài đức của ông, Nguyễn Huệ vui mừng thán phục: "Thật là trời để dành ông cho ta vậy!", phong ông giữ chức Tả thị lang bộ Lại, tước Tĩnh phái hầu, giao trọng trách chiêu tập nhân sĩ Bắc Hà và cùng Ngô Văn Sở mưu tính việc quân quốc. [Nguồn: Bảo tàng Lịch sử Quốc gia - Danh nhân Ngô Thì Nhậm, https://baotanglichsu.vn/vi/Articles/3098/18022/danh-nhan-ngo-thi-nham-1746-1803.html]
 
 <!-- id: EVT-0967 -->
 *   **1788:** Hưởng ứng "Chiếu cầu hiền" của Bắc Bình vương Nguyễn Huệ, danh sĩ Phan Huy Ích rời chốn ẩn dật Sài Sơn ra phò tá nhà Tây Sơn, được bổ nhiệm làm Tả Thị lang bộ Hộ. Cùng với Ngô Thì Nhậm, ông trở thành bậc danh thần rường cột của triều đình Tây Sơn tại Bắc Hà, đóng góp công sức lớn trong việc quản lý hộ tịch, tài chính công và thu phục nhân tâm giới sĩ phu Đàng Ngoài. [Nguồn: Phan Huy Ích 1751-1822 (Buôn Hồ, Đắk Lắk), https://buonho.daklak.gov.vn/phan-huy-ich-1751-1822-5702.html]
 
 <!-- id: EVT-0968 -->
-*   **01/1788:** Tướng Tây Sơn Vũ Văn Nhậm tiến quân ra Bắc, bắt và giết Nguyễn Hữu Chỉnh tại Thăng Long, chấm dứt nỗ lực xây dựng quyền lực riêng của Chỉnh.
+*   **01/1788:** Tướng Tây Sơn Vũ Văn Nhậm tiến quân ra Bắc, bắt và giết Nguyễn Hữu Chỉnh tại Thăng Long, chấm dứt nỗ lực xây dựng quyền lực riêng của Chỉnh. [Nguồn: Khâm định Việt sử thông giám Cương mục - Chính biên, Quyển 47]
 
 <!-- id: EVT-0969 -->
 *   **Đầu năm 1788:** Dân chúng ở Đàng Ngoài (Bắc Hà) bắt đầu thể hiện sự bất mãn và căm ghét đối với các quan lại mới của chính quyền Tây Sơn.
