@@ -5949,7 +5949,7 @@
 *   **Dec. 18, 1946:** French troops occupied the headquarters of the Ministry of Finance and the Ministry of Transport and Public Works. General Morlière issued an ultimatum demanding the disarmament of Vietnamese self-defense forces, stating that French troops would take action by the morning of Dec. 20 if demands were not met.
 
 <!-- id: EVT-1830 -->
-*   **Dec. 18 - 19, 1946:** French troops repeatedly sent ultimatums demanding the disarmament of Vietnamese self-defense forces in Hanoi. The Standing Bureau of the Party Central Committee met at Van Phuc village (Ha Dong) under the chair of President Ho Chi Minh, deciding to launch the nationwide resistance.
+*   **Dec. 18 - 19, 1946:** French troops repeatedly sent ultimatums demanding the disarmament of Vietnamese self-defense forces in Hanoi. The Standing Bureau of the Party Central Committee met at Van Phuc village (Ha Dong) under the chair of President Ho Chi Minh, deciding to launch the nationwide resistance. [Source: Vietnam National Museum of History - National Resistance War (December 19, 1946), https://baotanglichsu.vn/vi/Articles/3097/16643/toan-quoc-khang-chien-19-12-1946.html]
 
 ![Historical Image](images/event_20260924_111651.webp)
 
@@ -5996,7 +5996,7 @@
 *   **Jan. 3, 1947:** French Minister of Overseas Marius Moutet visited Hoa Lo prison in an attempt to persuade and bribe imprisoned Vietnamese intellectuals, including Tran Van Lai. The intellectuals responded with absolute silence, demonstrating their unwavering patriotism and contempt for the colonialists.
 
 <!-- id: EVT-1842 -->
-*   **Jan. 6, 1947:** The Capital Regiment was officially established from the defenders of Inter-zone 1 in Hanoi.
+*   **Jan. 6, 1947:** The Capital Regiment was officially established from the defenders of Inter-zone 1 in Hanoi. [Source: Vietnam National Museum of History - The Capital Regiment (January 6, 1947), https://baotanglichsu.vn/vi/Articles/3097/16648/trung-doan-thu-do-06-01-1947.html]
 
 <!-- id: EVT-1843 -->
 *   **Jan. 6, 1947:** During the fierce battle defending the Giảng Võ - Ô Chợ Dừa defensive line in Hanoi, facing a major French assault spearheaded by tanks attempting to breach the La Thành dike, 19-year-old Squad Leader Nguyễn Phúc Lai (Platoon 1, Company 2, Battalion 56 of the National Guard) heroically charged from his trench with a lunge mine directly into the lead enemy tank, destroying it, shattering the French advance, and sacrificing his life.
@@ -6026,10 +6026,10 @@
 * **07/02/1947:** Martyr Duong Minh Chau (Chairman of the Administrative Resistance Committee of Tay Ninh Province) heroically sacrificed his life during a French counter-sweep at the Thanh Dien base.
 
 <!-- id: EVT-1852 -->
-*   **Feb. 14, 1947:** French forces fiercely attacked Dong Xuan Market, where Vietnamese defenders fought tenaciously to hold their ground.
+*   **Feb. 14, 1947:** French forces fiercely attacked Dong Xuan Market, where Vietnamese defenders fought tenaciously to hold their ground. [Source: Vietnam National Museum of History - The Battle of Dong Xuan Market (February 14, 1947), https://baotanglichsu.vn/vi/Articles/3097/16651/tran-chien-cho-dong-xuan-14-02-1947.html]
 
 <!-- id: EVT-1853 -->
-*   **Night of Feb. 17, 1947:** After 60 days and nights of resilient fighting, the Capital Regiment miraculously withdrew from Hanoi by quietly crossing under the Long Bien bridge and traversing the Red and Duong rivers to preserve its forces for long-term resistance.
+*   **Night of Feb. 17, 1947:** After 60 days and nights of resilient fighting, the Capital Regiment miraculously withdrew from Hanoi by quietly crossing under the Long Bien bridge and traversing the Red and Duong rivers to preserve its forces for long-term resistance. [Source: Vietnam National Museum of History - The Capital Regiment Withdraws (February 17, 1947), https://baotanglichsu.vn/vi/Articles/3097/16652/trung-doan-thu-do-rut-lui-17-02-1947.html]
 
 <!-- id: EVT-1854 -->
 *   **Feb. 17, 1947:** The National United Front (Mat tran Thong nhat Quoc gia Lien hiep) was established in Nanjing (China) by leaders of Viet Cach and Viet Quoc to support Bao Dai.
@@ -6041,10 +6041,10 @@
 *   **Mar. - Apr. 1947:** Vietnamese forces launched counter-attacks against French positions in Hai Phong (Mar. 22), Ha Dong (Mar. 20 and Apr. 13), and the Vietnam Student Quarter (Viet Nam Hoc Xa) in Hanoi (Apr. 20).
 
 <!-- id: EVT-1857 -->
-*   **Mar. 1947:** Director of the Ordnance Department Tran Dai Nghia successfully produced experimental Bazooka rounds at the Giang Tien workshop (Thai Nguyen), helping break French tank attacks in Ha Dong.
+*   **Mar. 1947:** Director of the Ordnance Department Tran Dai Nghia successfully produced experimental Bazooka rounds at the Giang Tien workshop (Thai Nguyen), helping break French tank attacks in Ha Dong. [Source: Vietnam National Museum of History - Tran Dai Nghia and the Story of Weapons in 1947, https://baotanglichsu.vn/vi/Articles/3097/16654/tran-dai-nghia-va-chuyen-vu-khi-1947.html]
 
 <!-- id: EVT-1858 -->
-*   **Mar. 4, 1947:** General Secretary Truong Chinh began publishing the classic treatise series "The Resistance Will Win" in *Su That* (Truth) newspaper (later published as a book in September 1947), comprehensively and scientifically articulating the all-people, comprehensive, long-term, and self-reliant resistance line of the Vietnamese people, defining three necessary stages of the war: defensive, equilibrium, and counter-offensive.
+*   **Mar. 4, 1947:** General Secretary Truong Chinh began publishing the classic treatise series "The Resistance Will Win" in *Su That* (Truth) newspaper (later published as a book in September 1947), comprehensively and scientifically articulating the all-people, comprehensive, long-term, and self-reliant resistance line of the Vietnamese people, defining three necessary stages of the war: defensive, equilibrium, and counter-offensive. [Source: Vietnam National Museum of History - Truong Chinh's "The Resistance Will Win", https://baotanglichsu.vn/vi/Articles/3097/15850/khang-chien-nhat-dinh-thang-cua-truong-chinh.html]
 
 <!-- id: EVT-1859 -->
 *   **Apr. 1947:** Ngo May volunteered for the army and was assigned to the "quyet tu" (death-defying) company of Battalion 50, Regiment 94 (later Regiment 108).
@@ -6065,10 +6065,10 @@
 *   **Apr. 16, 1947:** Hoa Hao founder Huynh Phu So disappeared (believed to be killed) in the Plain of Reeds, leading to armed conflict between Hoa Hao forces and the Viet Minh.
 
 <!-- id: EVT-1865 -->
-*   **Apr. 21, 1947:** Huynh Thuc Khang, Minister of the Interior and Government Special Envoy to South Central Vietnam, passed away in Nghia Hanh district (Quang Ngai) at the age of 71. President Ho Chi Minh sent a heartfelt eulogy honoring his supreme integrity, and he was accorded a State Funeral with his resting place atop Thien An Mountain.
+*   **Apr. 21, 1947:** Huynh Thuc Khang, Minister of the Interior and Government Special Envoy to South Central Vietnam, passed away in Nghia Hanh district (Quang Ngai) at the age of 71. President Ho Chi Minh sent a heartfelt eulogy honoring his supreme integrity, and he was accorded a State Funeral with his resting place atop Thien An Mountain. [Source: Vietnam National Museum of History - Huynh Thuc Khang (1876-1947): A Great Patriotic Intellectual, https://baotanglichsu.vn/vi/Articles/3096/12617/huynh-thuc-khang-1876-1947-mot-tri-thuc-lon-yeu-nuoc.html]
 
 <!-- id: EVT-1866 -->
-*   **July 27, 1947:** The first National War Invalids Day (later renamed Invalids and Martyrs Day) was solemnly commemorated with a mass rally in Dai Tu (Thai Nguyen). In the same year, Dr. Vu Dinh Tung was appointed Minister of War Invalids by President Ho Chi Minh (serving until 1959), establishing the foundational policies for honoring and caring for wounded veterans, martyrs, and their families in Vietnam.
+*   **July 27, 1947:** The first National War Invalids Day (later renamed Invalids and Martyrs Day) was solemnly commemorated with a mass rally in Dai Tu (Thai Nguyen). In the same year, Dr. Vu Dinh Tung was appointed Minister of War Invalids by President Ho Chi Minh (serving until 1959), establishing the foundational policies for honoring and caring for wounded veterans, martyrs, and their families in Vietnam. [Source: Vietnam National Museum of History - War Invalids and Martyrs Day (July 27, 1947), https://baotanglichsu.vn/vi/Articles/3097/16657/ngay-thuong-binh-liet-si-27-7-1947.html]
 
 <!-- id: EVT-1867 -->
 *   **Aug. 1947 - Aug. 1948:** Professor Ta Quang Buu served as Minister of National Defense of the Democratic Republic of Vietnam.
@@ -6077,10 +6077,10 @@
 *   **Sep. 23, 1947:** President Ho Chi Minh signed Decree No. 89/SL posthumously conferring the rank of General on martyr Phung Chi Kien, making him the first general of the Vietnam People's Army.
 
 <!-- id: EVT-1869 -->
-*   **Oct. 7 - Dec. 19, 1947:** Under the direct command and leadership of Commander-in-Chief Vo Nguyen Giap, the Vietnamese army and people victoriously executed the **Viet Bac Autumn-Winter Counter-offensive Campaign 1947**, repelling France's massive assault against the revolutionary base (Operations Léa and Ceinture), scoring resounding victories on the Lo River, at Doan Hung, and Bong Lau Pass, safely guarding the Party Central Committee, the Government, and President Ho Chi Minh, and utterly shattering France's strategy of "a swift fight, a swift victory".
+*   **Oct. 7 - Dec. 19, 1947:** Under the direct command and leadership of Commander-in-Chief Vo Nguyen Giap, the Vietnamese army and people victoriously executed the **Viet Bac Autumn-Winter Counter-offensive Campaign 1947**, repelling France's massive assault against the revolutionary base (Operations Léa and Ceinture), scoring resounding victories on the Lo River, at Doan Hung, and Bong Lau Pass, safely guarding the Party Central Committee, the Government, and President Ho Chi Minh, and utterly shattering France's strategy of "a swift fight, a swift victory". [Source: Vietnam National Museum of History - The Viet Bac Campaign - Autumn-Winter 1947, https://baotanglichsu.vn/vi/Articles/3097/15702/chien-dich-viet-bac-thu-dong-1947.html]
 
 <!-- id: EVT-1870 -->
-*   **Oct. 7, 1947:** France launched a large-scale offensive against the Viet Bac resistance base (Operation Léa), dropping 800 paratroopers on Bac Kan. During this airborne raid, scholar Nguyễn Văn Tố (former Chairman of the Standing Committee of the National Assembly, Minister without Portfolio) was captured by French troops in Cho Don (Bac Kan); steadfastly enduring torture and refusing enemy coercion or collaboration, he heroically sacrificed his life for the Motherland.
+*   **Oct. 7, 1947:** France launched a large-scale offensive against the Viet Bac resistance base (Operation Léa), dropping 800 paratroopers on Bac Kan. During this airborne raid, scholar Nguyễn Văn Tố (former Chairman of the Standing Committee of the National Assembly, Minister without Portfolio) was captured by French troops in Cho Don (Bac Kan); steadfastly enduring torture and refusing enemy coercion or collaboration, he heroically sacrificed his life for the Motherland. [Source: Vietnam National Museum of History - The Viet Bac Campaign - Autumn-Winter 1947, https://baotanglichsu.vn/vi/Articles/3097/15702/chien-dich-viet-bac-thu-dong-1947.html]
 
 <!-- id: EVT-1871 -->
 *   **Oct. 9, 1947:** Vietnamese forces shot down a French Ju-52 transport plane in Cao Bang, killing 12 staff officers and capturing the French offensive plan for Viet Bac.

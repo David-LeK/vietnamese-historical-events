@@ -5949,7 +5949,7 @@
 *   **18/12/1946:** Quân Pháp chiếm trụ sở Bộ Tài chính và Bộ Giao thông Công chính. Tướng Morlière gửi tối hậu thư đòi tước vũ khí của lực lượng tự vệ, tuyên bố nếu không đáp ứng thì chậm nhất sáng 20/12/1946 quân Pháp sẽ hành động.
 
 <!-- id: EVT-1830 -->
-*   **18 - 19/12/1946:** Quân Pháp liên tiếp gửi tối hậu thư đòi tước vũ khí của lực lượng tự vệ Việt Nam tại Hà Nội. Ban Thường vụ Trung ương Đảng họp hội nghị mở rộng tại làng Vạn Phúc (Hà Đông) dưới sự chủ trì của Chủ tịch Hồ Chí Minh, quyết định phát động toàn quốc kháng chiến.
+*   **18 - 19/12/1946:** Quân Pháp liên tiếp gửi tối hậu thư đòi tước vũ khí của lực lượng tự vệ Việt Nam tại Hà Nội. Ban Thường vụ Trung ương Đảng họp hội nghị mở rộng tại làng Vạn Phúc (Hà Đông) dưới sự chủ trì của Chủ tịch Hồ Chí Minh, quyết định phát động toàn quốc kháng chiến. [Nguồn: Bảo tàng Lịch sử Quốc gia - Toàn quốc kháng chiến (19/12/1946), https://baotanglichsu.vn/vi/Articles/3097/16643/toan-quoc-khang-chien-19-12-1946.html]
 
 ![Hình ảnh tư liệu](images/event_20260924_111651.webp)
 
@@ -5996,7 +5996,7 @@
 *   **03/01/1947:** Bộ trưởng Bộ Thuộc địa Pháp Marius Moutet đến nhà tù Hỏa Lò hòng mua chuộc các trí thức Việt Nam đang bị giam giữ, trong đó có bác sĩ Trần Văn Lai. Các trí thức đã đáp lại bằng sự im lặng, thể hiện sự khinh bỉ và lòng yêu nước kiên định.
 
 <!-- id: EVT-1842 -->
-*   **06/01/1947:** Trung đoàn Thủ đô chính thức được thành lập từ lực lượng bảo vệ Liên khu 1 ở Hà Nội.
+*   **06/01/1947:** Trung đoàn Thủ đô chính thức được thành lập từ lực lượng bảo vệ Liên khu 1 ở Hà Nội. [Nguồn: Bảo tàng Lịch sử Quốc gia - Trung đoàn Thủ đô (06/01/1947), https://baotanglichsu.vn/vi/Articles/3097/16648/trung-doan-thu-do-06-01-1947.html]
 
 <!-- id: EVT-1843 -->
 *   **06/01/1947:** Trong trận chiến đấu ác liệt bảo vệ phòng tuyến Giảng Võ - Ô Chợ Dừa (Hà Nội), trước đợt tấn công quy mô lớn có xe tăng Pháp dẫn đầu hòng chọc thủng đê La Thành, Tiểu đội trưởng Nguyễn Phúc Lai (19 tuổi, thuộc Trung đội 1, Đại đội 2, Tiểu đoàn 56 Vệ quốc đoàn) đã từ công sự dũng cảm ôm bom ba càng lao thẳng vào xe tăng địch, tiêu diệt xe tăng đi đầu, bẻ gãy mũi tiến công của quân Pháp và anh dũng hy sinh.
@@ -6026,10 +6026,10 @@
 * **07/02/1947:** Liệt sĩ Dương Minh Châu (Chủ tịch Ủy ban hành chính kháng chiến tỉnh Tây Ninh) anh dũng hy sinh trong trận chống càn của quân Pháp tại căn cứ Thanh Điền.
 
 <!-- id: EVT-1852 -->
-*   **14/02/1947:** Quân Pháp mở cuộc tấn công ác liệt vào chợ Đồng Xuân, nơi các chiến sĩ quyết tử Việt Nam chiến đấu kiên cường để giữ từng tấc đất.
+*   **14/02/1947:** Quân Pháp mở cuộc tấn công ác liệt vào chợ Đồng Xuân, nơi các chiến sĩ quyết tử Việt Nam chiến đấu kiên cường để giữ từng tấc đất. [Nguồn: Bảo tàng Lịch sử Quốc gia - Trận chiến chợ Đồng Xuân (14/02/1947), https://baotanglichsu.vn/vi/Articles/3097/16651/tran-chien-cho-dong-xuan-14-02-1947.html]
 
 <!-- id: EVT-1853 -->
-*   **Đêm 17/02/1947:** Sau 60 ngày đêm chiến đấu ngoan cường, Trung đoàn Thủ đô thực hiện cuộc rút quân thần kỳ bằng cách lặng lẽ đi dưới gầm cầu Long Biên và vượt sông Hồng, sông Đuống để rút khỏi Hà Nội, bảo toàn lực lượng phục vụ kháng chiến lâu dài.
+*   **Đêm 17/02/1947:** Sau 60 ngày đêm chiến đấu ngoan cường, Trung đoàn Thủ đô thực hiện cuộc rút quân thần kỳ bằng cách lặng lẽ đi dưới gầm cầu Long Biên và vượt sông Hồng, sông Đuống để rút khỏi Hà Nội, bảo toàn lực lượng phục vụ kháng chiến lâu dài. [Nguồn: Bảo tàng Lịch sử Quốc gia - Trung đoàn Thủ đô rút lui (17/02/1947), https://baotanglichsu.vn/vi/Articles/3097/16652/trung-doan-thu-do-rut-lui-17-02-1947.html]
 
 <!-- id: EVT-1854 -->
 *   **17/02/1947:** Mặt trận Thống nhất Quốc gia Liên hiệp được thành lập tại Nam Kinh (Trung Quốc) bởi các lãnh đạo Việt Cách và Việt Quốc để ủng hộ giải pháp Bảo Đại.
@@ -6041,10 +6041,10 @@
 *   **03 - 04/1947:** Quân đội Việt Nam phản công tại Hải Phòng (22/03), Hà Đông (20/03 và 13/04), và khu Việt Nam Học xá ở Hà Nội (20/04).
 
 <!-- id: EVT-1857 -->
-*   **03/1947:** Cục trưởng Cục Quân giới Trần Đại Nghĩa chế tạo thành công đạn Bazooka thử nghiệm tại xưởng Giang Tiên (Thái Nguyên), góp phần bẻ gãy đợt tấn công của xe tăng Pháp tại Hà Đông.
+*   **03/1947:** Cục trưởng Cục Quân giới Trần Đại Nghĩa chế tạo thành công đạn Bazooka thử nghiệm tại xưởng Giang Tiên (Thái Nguyên), góp phần bẻ gãy đợt tấn công của xe tăng Pháp tại Hà Đông. [Nguồn: Bảo tàng Lịch sử Quốc gia - Trần Đại Nghĩa và chuyện vũ khí 1947, https://baotanglichsu.vn/vi/Articles/3097/16654/tran-dai-nghia-va-chuyen-vu-khi-1947.html]
 
 <!-- id: EVT-1858 -->
-*   **04/03/1947:** Tổng Bí thư Trường Chinh bắt đầu công bố loạt bài chuyên luận kinh điển "Kháng chiến nhất định thắng lợi" trên báo *Sự Thật* (sau đó xuất bản thành sách vào tháng 9/1947), luận giải một cách toàn diện và khoa học đường lối kháng chiến toàn dân, toàn diện, trường kỳ và tự lực cánh sinh của nhân dân Việt Nam, vạch ra ba giai đoạn tất yếu của cuộc kháng chiến: phòng ngự, cầm cự và phản công.
+*   **04/03/1947:** Tổng Bí thư Trường Chinh bắt đầu công bố loạt bài chuyên luận kinh điển "Kháng chiến nhất định thắng lợi" trên báo *Sự Thật* (sau đó xuất bản thành sách vào tháng 9/1947), luận giải một cách toàn diện và khoa học đường lối kháng chiến toàn dân, toàn diện, trường kỳ và tự lực cánh sinh của nhân dân Việt Nam, vạch ra ba giai đoạn tất yếu của cuộc kháng chiến: phòng ngự, cầm cự và phản công. [Nguồn: Bảo tàng Lịch sử Quốc gia - "Kháng chiến nhất định thắng" của Trường Chinh, https://baotanglichsu.vn/vi/Articles/3097/15850/khang-chien-nhat-dinh-thang-cua-truong-chinh.html]
 
 <!-- id: EVT-1859 -->
 *   **04/1947:** Ngô Mây xung phong nhập ngũ và được biên chế vào Đại đội Quyết tử của Tiểu đoàn 50, Trung đoàn 94 (sau đổi thành Trung đoàn 108).
@@ -6065,10 +6065,10 @@
 *   **16/04/1947:** Giáo chủ Hòa Hảo Huỳnh Phú Sổ mất tích (được cho là bị thủ tiêu) tại Đồng Tháp Mười, dẫn đến xung đột vũ trang giữa Hòa Hảo và Việt Minh.
 
 <!-- id: EVT-1865 -->
-*   **21/04/1947:** Cụ Huỳnh Thúc Kháng, Bộ trưởng Bộ Nội vụ kiêm Đặc phái viên Chính phủ tại Nam Trung Bộ, từ trần tại huyện Nghĩa Hành (Quảng Ngãi) ở tuổi 71. Chủ tịch Hồ Chí Minh gửi thư vĩnh biệt ca ngợi nhân cách cao khiết của Cụ, tang lễ được cử hành theo nghi thức Quốc tang và thi hài an táng trên đỉnh núi Thiên Ấn.
+*   **21/04/1947:** Cụ Huỳnh Thúc Kháng, Bộ trưởng Bộ Nội vụ kiêm Đặc phái viên Chính phủ tại Nam Trung Bộ, từ trần tại huyện Nghĩa Hành (Quảng Ngãi) ở tuổi 71. Chủ tịch Hồ Chí Minh gửi thư vĩnh biệt ca ngợi nhân cách cao khiết của Cụ, tang lễ được cử hành theo nghi thức Quốc tang và thi hài an táng trên đỉnh núi Thiên Ấn. [Nguồn: Bảo tàng Lịch sử Quốc gia - Huỳnh Thúc Kháng (1876-1947): Một trí thức lớn yêu nước, https://baotanglichsu.vn/vi/Articles/3096/12617/huynh-thuc-khang-1876-1947-mot-tri-thuc-lon-yeu-nuoc.html]
 
 <!-- id: EVT-1866 -->
-*   **27/07/1947:** Ngày Thương binh toàn quốc (sau này đổi thành Ngày Thương binh - Liệt sĩ) lần đầu tiên được tổ chức mít tinh trọng thể tại Đại Từ (Thái Nguyên). Cùng năm 1947, Bác sĩ Vũ Đình Tụng được Chủ tịch Hồ Chí Minh cử giữ chức Bộ trưởng Bộ Thương binh (sau là Bộ Thương binh - Cựu binh, đảm nhiệm đến năm 1959), đặt nền móng đầu tiên cho hệ thống chính sách ưu đãi người có công, chăm lo thương binh, bệnh binh và gia đình liệt sĩ của Việt Nam.
+*   **27/07/1947:** Ngày Thương binh toàn quốc (sau này đổi thành Ngày Thương binh - Liệt sĩ) lần đầu tiên được tổ chức mít tinh trọng thể tại Đại Từ (Thái Nguyên). Cùng năm 1947, Bác sĩ Vũ Đình Tụng được Chủ tịch Hồ Chí Minh cử giữ chức Bộ trưởng Bộ Thương binh (sau là Bộ Thương binh - Cựu binh, đảm nhiệm đến năm 1959), đặt nền móng đầu tiên cho hệ thống chính sách ưu đãi người có công, chăm lo thương binh, bệnh binh và gia đình liệt sĩ của Việt Nam. [Nguồn: Bảo tàng Lịch sử Quốc gia - Ngày Thương binh - Liệt sĩ (27/7/1947), https://baotanglichsu.vn/vi/Articles/3097/16657/ngay-thuong-binh-liet-si-27-7-1947.html]
 
 <!-- id: EVT-1867 -->
 *   **08/1947 - 08/1948:** Giáo sư Tạ Quang Bửu đảm nhiệm chức vụ Bộ trưởng Bộ Quốc phòng Việt Nam Dân chủ Cộng hòa.
@@ -6077,10 +6077,10 @@
 *   **23/09/1947:** Chủ tịch Hồ Chí Minh ký Sắc lệnh số 89/SL truy phong cấp Tướng cho liệt sĩ Phùng Chí Kiên. Ông là vị tướng đầu tiên được truy phong của Quân đội nhân dân Việt Nam.
 
 <!-- id: EVT-1869 -->
-*   **07/10 - 19/12/1947:** Dưới sự chỉ đạo và chỉ huy trực tiếp của Tổng Chỉ huy Võ Nguyên Giáp, quân và dân ta tiến hành thắng lợi **Chiến dịch phản công Việt Bắc Thu - Đông 1947**, bẻ gãy cuộc tiến công quy mô lớn của thực dân Pháp lên căn cứ địa kháng chiến (Chiến dịch Léa và Ceinture), lập nên các chiến thắng vang dội tại Sông Lô, Đoan Hùng, Đèo Bông Lau, bảo vệ tuyệt đối an toàn Trung ương Đảng, Chính phủ và Chủ tịch Hồ Chí Minh, làm thất bại hoàn toàn chiến lược "đánh nhanh thắng nhanh" của giặc Pháp.
+*   **07/10 - 19/12/1947:** Dưới sự chỉ đạo và chỉ huy trực tiếp của Tổng Chỉ huy Võ Nguyên Giáp, quân và dân ta tiến hành thắng lợi **Chiến dịch phản công Việt Bắc Thu - Đông 1947**, bẻ gãy cuộc tiến công quy mô lớn của thực dân Pháp lên căn cứ địa kháng chiến (Chiến dịch Léa và Ceinture), lập nên các chiến thắng vang dội tại Sông Lô, Đoan Hùng, Đèo Bông Lau, bảo vệ tuyệt đối an toàn Trung ương Đảng, Chính phủ và Chủ tịch Hồ Chí Minh, làm thất bại hoàn toàn chiến lược "đánh nhanh thắng nhanh" của giặc Pháp. [Nguồn: Bảo tàng Lịch sử Quốc gia - Chiến dịch Việt Bắc - Thu Đông 1947, https://baotanglichsu.vn/vi/Articles/3097/15702/chien-dich-viet-bac-thu-dong-1947.html]
 
 <!-- id: EVT-1870 -->
-*   **07/10/1947:** Quân Pháp mở cuộc tiến công quy mô lớn lên căn cứ địa Việt Bắc (Chiến dịch Léa), nhảy dù 800 quân xuống Bắc Kạn. Trong trận tập kích này, cụ Nguyễn Văn Tố (nguyên Trưởng ban Thường trực Quốc hội, Bộ trưởng không Bộ) không may bị giặc Pháp bắt giữ tại Chợ Đồn (Bắc Kạn); trước đòn roi tra tấn và dụ dỗ của kẻ thù, cụ vẫn giữ trọn khí tiết kiên trung bất khuất, cự tuyệt hợp tác và anh dũng hy sinh vì Tổ quốc.
+*   **07/10/1947:** Quân Pháp mở cuộc tiến công quy mô lớn lên căn cứ địa Việt Bắc (Chiến dịch Léa), nhảy dù 800 quân xuống Bắc Kạn. Trong trận tập kích này, cụ Nguyễn Văn Tố (nguyên Trưởng ban Thường trực Quốc hội, Bộ trưởng không Bộ) không may bị giặc Pháp bắt giữ tại Chợ Đồn (Bắc Kạn); trước đòn roi tra tấn và dụ dỗ của kẻ thù, cụ vẫn giữ trọn khí tiết kiên trung bất khuất, cự tuyệt hợp tác và anh dũng hy sinh vì Tổ quốc. [Nguồn: Bảo tàng Lịch sử Quốc gia - Chiến dịch Việt Bắc - Thu Đông 1947, https://baotanglichsu.vn/vi/Articles/3097/15702/chien-dich-viet-bac-thu-dong-1947.html]
 
 <!-- id: EVT-1871 -->
 *   **09/10/1947:** Bộ đội Việt Nam bắn rơi một máy bay Ju-52 của Pháp tại Cao Bằng, tiêu diệt 12 sĩ quan tham mưu và thu được bản kế hoạch tiến công Việt Bắc của địch.
