@@ -6406,7 +6406,7 @@
 *   **10 - 14/11/1951:** Quân Pháp mở cuộc hành quân Hoa Tuylíp (đánh chiếm Chợ Bến) và Hoa Sen (chiếm thị xã Hòa Bình) nhằm lập phòng tuyến ngăn chặn liên lạc của Việt Minh.
 
 <!-- id: EVT-1974 -->
-*   **24/11/1951:** Tổng Quân ủy quyết định mở Chiến dịch Hòa Bình, sử dụng ba Đại đoàn 306, 312, 304 vây hãm và tiêu diệt quân cơ giới địch ở mặt trận Hòa Bình nhằm đập tan âm mưu lập "Xứ Mường tự trị" và cắt đứt liên lạc của lực lượng kháng chiến.
+*   **24/11/1951:** Tổng Quân ủy quyết định mở Chiến dịch Hòa Bình, sử dụng ba Đại đoàn 306, 312, 304 vây hãm và tiêu diệt quân cơ giới địch ở mặt trận Hòa Bình nhằm đập tan âm mưu lập "Xứ Mường tự trị" và cắt đứt liên lạc của lực lượng kháng chiến. [Nguồn: Bảo tàng Lịch sử Quốc gia - Chiến dịch Hòa Bình (1951-1952), https://baotanglichsu.vn/vi/Articles/3097/15708/chien-dich-hoa-binh-1951-1952.html]
 
 <!-- id: EVT-1975 -->
 *   **Cuối năm 1951:** Trong Chiến dịch Hòa Bình, trước thực tế bộ đội và thương bệnh binh thường xuyên bị máy bay, pháo binh Pháp phát hiện và oanh kích dữ dội do khói bếp bốc lên khi nấu ăn, chiến sĩ nuôi quân Hoàng Cầm (tên thật là Đỗ Văn Cầm, 1916 - 1996) thuộc Đội điều trị 8, Phòng Quân y, Đại đoàn 308 đã mày mò nghiên cứu và sáng chế thành công loại bếp dã chiến giấu khói độc đáo. Bếp được khoét sâu vào sườn đồi hoặc bờ đất, nối liền với hầm tản khói và hệ thống rãnh dẫn khói ngầm tỏa ra nhiều nhánh, bên trên rải cành cây, phủ đất xốp và tưới nước giữ ẩm để lọc nguội và cản khói; khi thoát ra ngoài mặt đất, khói chỉ còn là làn sương mỏng là là sát ngọn cỏ như sương mù buổi sớm, hoàn toàn vô hiệu hóa khả năng phát hiện từ trên không của địch, bảo đảm cơm nóng và nước sôi cho thương binh và bộ đội ngay sát trận địa.
@@ -6460,22 +6460,22 @@
 * **1952:** Anh hùng Lực lượng vũ trang nhân dân Ngô Thất Sơn (Chiến sĩ du kích thời chống Pháp) từ trần.
 
 <!-- id: EVT-1992 -->
-*   **11/01/1952:** Tổng chỉ huy Pháp Tướng Jean de Lattre de Tassigny qua đời vì bạo bệnh tại Pháp.
+*   **11/01/1952:** Tổng chỉ huy Pháp Tướng Jean de Lattre de Tassigny qua đời vì bạo bệnh tại Pháp. [Nguồn: Bảo tàng Lịch sử Quốc gia - De Lattre qua đời (11/01/1952), https://baotanglichsu.vn/vi/Articles/3097/16678/de-lattre-qua-doi-11-01-1952.html]
 
 <!-- id: EVT-1993 -->
 *   **15/01/1952:** Chủ tịch Hồ Chí Minh ký Sắc lệnh truy tặng Huân chương Độc lập hạng Ba cùng 6 chữ vàng: **"Sống anh dũng, chết vẻ vang"** cho nữ liệt sĩ Công an nhân dân Bùi Thị Cúc (Trần Thị Lan) nhằm tôn vinh tấm gương hy sinh kiên cường, bất khuất của bà trong cuộc kháng chiến chống Pháp.
 
 <!-- id: EVT-1994 -->
-*   **23/01/1952:** Nữ du kích Võ Thị Sáu anh dũng hy sinh tại Côn Đảo ở tuổi 19 sau khi bị chính quyền thực dân Pháp thi hành án tử hình. Chị là người nữ tử tù đầu tiên tại nhà tù Côn Đảo, kiên cường giữ vững khí tiết cách mạng cho đến phút cuối cùng.
+*   **23/01/1952:** Nữ du kích Võ Thị Sáu anh dũng hy sinh tại Côn Đảo ở tuổi 19 sau khi bị chính quyền thực dân Pháp thi hành án tử hình. Chị là người nữ tử tù đầu tiên tại nhà tù Côn Đảo, kiên cường giữ vững khí tiết cách mạng cho đến phút cuối cùng. [Nguồn: Bảo tàng Lịch sử Quốc gia - Võ Thị Sáu: Nữ Anh hùng liệt sĩ, https://baotanglichsu.vn/vi/Articles/3096/13055/vo-thi-sau-nu-anh-hung-liet-si.html]
 
 <!-- id: EVT-1995 -->
 *   **26/03/1952:** Maurice Faure, báo cáo viên về luật phê chuẩn Hiệp ước Hòa bình San Francisco tại Quốc hội Pháp, cho rằng việc Nhật Bản từ bỏ quần đảo Hoàng Sa và Trường Sa khiến các đảo này trở thành *terra derelictae* (đất đai bị bỏ rơi). Quan điểm này mâu thuẫn với các tuyên bố khác của Pháp khẳng định các quần đảo thuộc Liên hiệp Pháp.
 
 <!-- id: EVT-1996 -->
-*   **05/1952:** Tại Đại hội liên hoan Anh hùng và Chiến sĩ thi đua toàn quốc lần thứ nhất, Cù Chính Lan được Chính phủ và Chủ tịch Hồ Chí Minh truy tặng Huân chương Quân công hạng hai và Huân chương Kháng chiến hạng nhất vì tinh thần chủ nghĩa anh hùng cách mạng sáng ngời.
+*   **05/1952:** Tại Đại hội liên hoan Anh hùng và Chiến sĩ thi đua toàn quốc lần thứ nhất, Cù Chính Lan được Chính phủ và Chủ tịch Hồ Chí Minh truy tặng Huân chương Quân công hạng hai và Huân chương Kháng chiến hạng nhất vì tinh thần chủ nghĩa anh hùng cách mạng sáng ngời. [Nguồn: Bảo tàng Lịch sử Quốc gia - Đại hội Anh hùng, Chiến sĩ thi đua toàn quốc (1952), https://baotanglichsu.vn/vi/Articles/3097/16679/dai-hoi-anh-hung-chien-si-thi-dua-toan-quoc-1952.html]
 
 <!-- id: EVT-1997 -->
-*   **01 - 06/05/1952:** Đại hội toàn quốc các chiến sĩ thi đua và cán bộ gương mẫu lần thứ nhất được tổ chức để tổng kết và biểu dương phong trào thi đua ái quốc.
+*   **01 - 06/05/1952:** Đại hội toàn quốc các chiến sĩ thi đua và cán bộ gương mẫu lần thứ nhất được tổ chức để tổng kết và biểu dương phong trào thi đua ái quốc. [Nguồn: Bảo tàng Lịch sử Quốc gia - Đại hội Anh hùng, Chiến sĩ thi đua toàn quốc (1952), https://baotanglichsu.vn/vi/Articles/3097/16679/dai-hoi-anh-hung-chien-si-thi-dua-toan-quoc-1952.html]
 
 <!-- id: EVT-1998 -->
 *   **19/05/1952:** Liệt sĩ Cù Chính Lan được Chủ tịch nước Việt Nam Dân chủ Cộng hòa truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân. Ông là 1 trong 7 người đầu tiên trên toàn quốc được nhận danh hiệu cao quý này.
@@ -6490,7 +6490,7 @@
 *   **10/08/1952:** Tại buổi lễ Tuyên dương công trạng, khi nghe đọc báo cáo về Anh hùng Cù Chính Lan, từ trên Đoàn Chủ tịch, Bác Hồ đã đề nghị toàn thể hội trường đứng dậy mặc niệm người con ưu tú của dân tộc.
 
 <!-- id: EVT-2002 -->
-*   **10/1952:** Trước thềm Chiến dịch Tây Bắc, Đại đoàn 308 (Đại đoàn Quân Tiên phong) chính thức lấy tên của chiến sĩ nuôi quân Hoàng Cầm để đặt tên cho sáng kiến bếp dã chiến không khói là **"bếp Hoàng Cầm"**, đồng thời tổ chức tập huấn kỹ thuật và nhân rộng mô hình ra toàn quân. Sáng kiến hậu cần mang tính bước ngoặt này đã giúp Quân đội Nhân dân Việt Nam thực hiện triệt để phương châm tác chiến "đi không dấu, nấu không khói, nói không tiếng", trở thành trang bị hậu cần kinh điển bảo đảm sức khỏe và hậu cần cho bộ đội trong Chiến dịch Điện Biên Phủ (1954) cũng như suốt cuộc kháng chiến chống Mỹ cứu nước sau này.
+*   **10/1952:** Trước thềm Chiến dịch Tây Bắc, Đại đoàn 308 (Đại đoàn Quân Tiên phong) chính thức lấy tên của chiến sĩ nuôi quân Hoàng Cầm để đặt tên cho sáng kiến bếp dã chiến không khói là **"bếp Hoàng Cầm"**, đồng thời tổ chức tập huấn kỹ thuật và nhân rộng mô hình ra toàn quân. Sáng kiến hậu cần mang tính bước ngoặt này đã giúp Quân đội Nhân dân Việt Nam thực hiện triệt để phương châm tác chiến "đi không dấu, nấu không khói, nói không tiếng", trở thành trang bị hậu cần kinh điển bảo đảm sức khỏe và hậu cần cho bộ đội trong Chiến dịch Điện Biên Phủ (1954) cũng như suốt cuộc kháng chiến chống Mỹ cứu nước sau này. [Nguồn: Bảo tàng Lịch sử Quốc gia - Chiến dịch Tây Bắc (1952), https://baotanglichsu.vn/vi/Articles/3097/15709/chien-dich-tay-bac-1952.html]
 
 <!-- id: EVT-2003 -->
 *   **14/10 - 10/12/1952:** Dưới sự chỉ huy trực tiếp của Đại tướng Võ Nguyên Giáp (Chỉ huy trưởng kiêm Bí thư Đảng ủy chiến dịch), quân và dân ta mở **Chiến dịch Tây Bắc**. Quân ta lập nên các chiến thắng vang dội: hạ phân khu Nghĩa Lộ (18/10) và đánh bại cuộc hành quân Lorraine của Pháp bằng trận phục kích Chân Mộng - Trạm Thản (17/11). Chiến dịch giải phóng một vùng rộng lớn bao gồm Điện Biên Phủ (30/11) và hầu hết tỉnh Sơn La (trừ Nà Sản), đập tan âm mưu "Xứ Thái tự trị" và nối liền căn cứ địa Việt Bắc với Thượng Lào. [Nguồn: Báo Nhân Dân - Chiến dịch Tây Bắc, https://special.nhandan.vn/chien-dich-tay-bac-1952/index.html]
@@ -6511,7 +6511,7 @@
 * **1953:** Liệt sĩ Lưu Quý An (Các liệt sĩ thiếu niên Việt Nam) anh dũng hy sinh trong khi thực hiện nhiệm vụ chiến đấu bảo vệ Tổ quốc.
 
 <!-- id: EVT-2009 -->
-*   **25-30/01/1953:** Ban Chấp hành Trung ương họp Hội nghị lần thứ tư, quyết định phát động quần chúng triệt để giảm tô, thực hiện giảm tức và chuẩn bị cho cải cách ruộng đất.
+*   **25-30/01/1953:** Ban Chấp hành Trung ương họp Hội nghị lần thứ tư, quyết định phát động quần chúng triệt để giảm tô, thực hiện giảm tức và chuẩn bị cho cải cách ruộng đất. [Nguồn: Bảo tàng Lịch sử Quốc gia - Cuộc phát động giảm tô và cải cách ruộng đất (1953-1956), https://baotanglichsu.vn/vi/Articles/3097/15846/cuoc-phat-dong-giam-to-va-cai-cach-ruong-dat-1953-1956.html]
 
 <!-- id: EVT-2010 -->
 *   **Đầu năm 1953:** Bộ đội Công binh (Tiểu đoàn 333) khởi công xây dựng hệ thống hầm hào, lán ở và làm việc cho Chủ tịch Hồ Chí Minh, Trung ương Đảng và Văn phòng Chính phủ tại núi Nà Lơi, xã Kim Quan (huyện Yên Sơn, tỉnh Tuyên Quang).
@@ -6520,13 +6520,13 @@
 *   **19/02/1953:** Nguyễn Thị Tuyết (Thường Tín) bị địch bắt lần thứ 11 và giam ở Nhà Tiền (Hà Nội). Bất chấp mọi đòn tra tấn dã man, bà vẫn giữ vững khí tiết và trốn thoát thành công một tháng sau đó để tiếp tục hoạt động.
 
 <!-- id: EVT-2012 -->
-*   **12/04/1953:** Chủ tịch Hồ Chí Minh ký sắc lệnh phát động quần chúng triệt để giảm tô.
+*   **12/04/1953:** Chủ tịch Hồ Chí Minh ký sắc lệnh phát động quần chúng triệt để giảm tô. [Nguồn: Bảo tàng Lịch sử Quốc gia - Cuộc phát động giảm tô và cải cách ruộng đất (1953-1956), https://baotanglichsu.vn/vi/Articles/3097/15846/cuoc-phat-dong-giam-to-va-cai-cach-ruong-dat-1953-1956.html]
 
 <!-- id: EVT-2013 -->
 *   **13/04 - 18/05/1953:** Quân đội nhân dân Việt Nam phối hợp với lực lượng Pathet Lào mở Chiến dịch Thượng Lào, giải phóng tỉnh Sầm Nưa, một phần Xiêng Khoảng và Phongxalì, mở rộng căn cứ kháng chiến của Lào, nối liền với vùng Tây Bắc Việt Nam. [Nguồn: Báo Điện tử Chính phủ - Chiến thắng Thượng Lào 1953, https://baochinhphu.vn/chien-thang-thuong-lao-1953-bieu-tuong-cua-tinh-doan-ket-chien-dau-viet-lao-10223041314404425.htm]
 
 <!-- id: EVT-2014 -->
-*   **05/1953:** Tướng Henri Navarre được cử làm Tổng chỉ huy quân đội Pháp ở Đông Dương.
+*   **05/1953:** Tướng Henri Navarre được cử làm Tổng chỉ huy quân đội Pháp ở Đông Dương. [Nguồn: Bảo tàng Lịch sử Quốc gia - Navarre: Tổng chỉ huy quân đội Pháp (05/1953), https://baotanglichsu.vn/vi/Articles/3097/16680/navarre-tong-chi-huy-quan-doi-phap-05-1953.html]
 
 <!-- id: EVT-2015 -->
 *   **01/06/1953:** Thủ tướng Chính phủ ra Thông tư số 277-TTg quy định về việc xử lý ruộng đất phân tán của địa chủ.
@@ -6538,7 +6538,7 @@
 *   **17/07/1953:** **Chiến dịch Én (Opération Hirondelle):** Thực dân Pháp điều động 3 tiểu đoàn lính dù bất ngờ nhảy dù tập kích thị xã Lạng Sơn hòng phá hoại căn cứ hậu cần và triệt phá kho tàng vũ khí của Quân đội Nhân dân Việt Nam. Vấp phải sự đánh trả kiên quyết, dũng cảm của bộ đội địa phương và dân quân du kích Lạng Sơn, quân Pháp bị chặn đứng và buộc phải vội vã tháo chạy theo Đường số 4 về Tiên Yên dưới sự truy kích của quân và dân Việt Nam.
 
 <!-- id: EVT-2018 -->
-*   **24/07/1953:** **Kế hoạch Navarre**, với sự hậu thuẫn của Mỹ, được Hội đồng Quốc phòng Pháp thông qua nhằm giành thắng lợi quân sự quyết định trong vòng 18 tháng.
+*   **24/07/1953:** **Kế hoạch Navarre**, với sự hậu thuẫn của Mỹ, được Hội đồng Quốc phòng Pháp thông qua nhằm giành thắng lợi quân sự quyết định trong vòng 18 tháng. [Nguồn: Bảo tàng Lịch sử Quốc gia - Kế hoạch Navarre, https://baotanglichsu.vn/vi/Articles/3097/15711/ke-hoach-navarre.html]
 
 <!-- id: EVT-2019 -->
 *   **24/07/1953:** Bài viết "Xây dựng Đảng Lao động Việt Nam" của Chủ tịch Hồ Chí Minh được đăng trên Báo Cứu Quốc. Tác phẩm nhấn mạnh giáo dục và lãnh đạo tư tưởng là việc quan trọng nhất của Đảng, đồng thời cảnh báo kiên quyết chống lại khuynh hướng "tả" và "hữu".

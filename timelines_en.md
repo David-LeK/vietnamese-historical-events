@@ -6406,7 +6406,7 @@
 *   **Nov. 10 - 14, 1951:** French forces launched Operation Tulipe (capturing Cho Ben) and Operation Lotus (capturing Hoa Binh town) in an attempt to cut off Vietnamese supply lines and force a pitched battle.
 
 <!-- id: EVT-1974 -->
-*   **Nov. 24, 1951:** The General Military Commission decided to open the Hoa Binh Campaign, deploying three divisions (306, 312, 304) to besiege and annihilate the enemy's mechanized forces on the Hoa Binh front. This aimed to counter the French plot to establish the "Muong Autonomous Region" and cut off Viet Minh communications.
+*   **Nov. 24, 1951:** The General Military Commission decided to open the Hoa Binh Campaign, deploying three divisions (306, 312, 304) to besiege and annihilate the enemy's mechanized forces on the Hoa Binh front. This aimed to counter the French plot to establish the "Muong Autonomous Region" and cut off Viet Minh communications. [Source: Vietnam National Museum of History - The Hoa Binh Campaign (1951-1952), https://baotanglichsu.vn/vi/Articles/3097/15708/chien-dich-hoa-binh-1951-1952.html]
 
 <!-- id: EVT-1975 -->
 *   **Late 1951:** During the Hòa Bình Campaign, facing relentless French air and artillery strikes targeting smoke from field kitchens that caused heavy casualties among wounded soldiers and mess personnel, army cook Hoàng Cầm (birth name Đỗ Văn Cầm, 1916–1996) of Treatment Team 8, Medical Department, Division 308, invented an ingenious smokeless trench stove. Dug deep into hillsides or earthen banks, the stove connected to subterranean smoke chambers and radiating underground trenches covered with branches, loose soil, and damp earth to filter and cool the smoke; upon exiting, the smoke dispersed as a faint ground-hugging mist resembling early morning fog, completely evading enemy aerial reconnaissance and ensuring hot meals and boiling water for wounded soldiers and troops near the front lines.
@@ -6460,22 +6460,22 @@
 * **1952:** Hero of the People's Armed Forces Ngô Thất Sơn (Chiến sĩ du kích thời chống Pháp) passed away.
 
 <!-- id: EVT-1992 -->
-*   **Jan. 11, 1952:** French Commander-in-Chief General Jean de Lattre de Tassigny died of illness in France.
+*   **Jan. 11, 1952:** French Commander-in-Chief General Jean de Lattre de Tassigny died of illness in France. [Source: Vietnam National Museum of History - De Lattre Dies (January 11, 1952), https://baotanglichsu.vn/vi/Articles/3097/16678/de-lattre-qua-doi-11-01-1952.html]
 
 <!-- id: EVT-1993 -->
 *   **Jan. 15, 1952:** President Ho Chi Minh signed a decree posthumously awarding the Third-Class Independence Order and six golden words: **"Lived courageously, died gloriously"** to female Public Security martyr Bui Thi Cuc (Tran Thi Lan) to honor her resilient and indomitable sacrifice during the anti-French resistance.
 
 <!-- id: EVT-1994 -->
-*   **Jan. 23, 1952:** Female guerrilla fighter Võ Thị Sáu heroically sacrificed her life at Côn Đảo at the age of 19 after being executed by French colonial authorities. She was the first female prisoner executed at Côn Đảo Prison, steadfastly maintaining her revolutionary spirit until the very end.
+*   **Jan. 23, 1952:** Female guerrilla fighter Võ Thị Sáu heroically sacrificed her life at Côn Đảo at the age of 19 after being executed by French colonial authorities. She was the first female prisoner executed at Côn Đảo Prison, steadfastly maintaining her revolutionary spirit until the very end. [Source: Vietnam National Museum of History - Vo Thi Sau: Female Heroic Martyr, https://baotanglichsu.vn/vi/Articles/3096/13055/vo-thi-sau-nu-anh-hung-liet-si.html]
 
 <!-- id: EVT-1995 -->
 *   **Mar. 26, 1952:** Maurice Faure, the rapporteur on the ratification of the San Francisco Peace Treaty in the French Parliament, reported that the Japanese renunciation of the Paracel and Spratly Islands essentially rendered them *terra derelictae* (abandoned land), a view that contradicted other French statements affirming the islands belonged to the French Union.
 
 <!-- id: EVT-1996 -->
-*   **May 1952:** At the First National Congress of Emulation Fighters and Heroes, Cù Chính Lan was posthumously awarded the Military Exploit Order, Second Class, and the Resistance Order, First Class by the Government and President Ho Chi Minh for his exemplary revolutionary heroism.
+*   **May 1952:** At the First National Congress of Emulation Fighters and Heroes, Cù Chính Lan was posthumously awarded the Military Exploit Order, Second Class, and the Resistance Order, First Class by the Government and President Ho Chi Minh for his exemplary revolutionary heroism. [Source: Vietnam National Museum of History - National Heroes and Emulation Fighters Congress (1952), https://baotanglichsu.vn/vi/Articles/3097/16679/dai-hoi-anh-hung-chien-si-thi-dua-toan-quoc-1952.html]
 
 <!-- id: EVT-1997 -->
-*   **May 1 - 6, 1952:** The First National Congress of Emulation Fighters and Model Cadres was held to honor achievements in the patriotic emulation movement.
+*   **May 1 - 6, 1952:** The First National Congress of Emulation Fighters and Model Cadres was held to honor achievements in the patriotic emulation movement. [Source: Vietnam National Museum of History - National Heroes and Emulation Fighters Congress (1952), https://baotanglichsu.vn/vi/Articles/3097/16679/dai-hoi-anh-hung-chien-si-thi-dua-toan-quoc-1952.html]
 
 <!-- id: EVT-1998 -->
 *   **May 19, 1952:** Martyr Cù Chính Lan was posthumously awarded the title Hero of the People's Armed Forces by the President of the Democratic Republic of Vietnam. He was one of the very first seven individuals nationwide to receive this noble title.
@@ -6490,7 +6490,7 @@
 *   **Aug. 10, 1952:** At the Commendation Ceremony, upon hearing the report on the heroic deeds of Cù Chính Lan, President Ho Chi Minh from the Presidium requested everyone present to stand up and observe a minute of silence to honor this outstanding son of the nation.
 
 <!-- id: EVT-2002 -->
-*   **Oct. 1952:** Ahead of the Northwest Campaign, Division 308 (Vanguard Division) officially named the smokeless trench stove the **"Hoàng Cầm stove"** after army cook Hoàng Cầm, organizing technical training and scaling the model across the entire army. This landmark logistical breakthrough enabled the Vietnam People's Army to fully implement the tactical doctrine "march without a trace, cook without smoke, speak without sound," becoming a classic military logistics invention that safeguarded troop sustenance in the Điện Biên Phủ Campaign (1954) and throughout the subsequent resistance war against the United States.
+*   **Oct. 1952:** Ahead of the Northwest Campaign, Division 308 (Vanguard Division) officially named the smokeless trench stove the **"Hoàng Cầm stove"** after army cook Hoàng Cầm, organizing technical training and scaling the model across the entire army. This landmark logistical breakthrough enabled the Vietnam People's Army to fully implement the tactical doctrine "march without a trace, cook without smoke, speak without sound," becoming a classic military logistics invention that safeguarded troop sustenance in the Điện Biên Phủ Campaign (1954) and throughout the subsequent resistance war against the United States. [Source: Vietnam National Museum of History - The Tay Bac (Northwest) Campaign (1952), https://baotanglichsu.vn/vi/Articles/3097/15709/chien-dich-tay-bac-1952.html]
 
 <!-- id: EVT-2003 -->
 *   **Oct. 14 - Dec. 10, 1952:** Under the direct leadership of Senior General Vo Nguyen Giap (Campaign Commander and Party Secretary), the Vietnamese army and people launched the **Northwest Campaign**. Revolutionary forces achieved decisive victories: capturing the Nghia Lo subsector (Oct. 18) and defeating France's Operation Lorraine with the Chan Mong - Tram Than ambush (Nov. 17). The campaign liberated a vast area including Dien Bien Phu (Nov. 30) and most of Son La province, dismantling the colonial puppet scheme of an "Autonomous Thai State" and connecting Viet Bac with Upper Laos. [Source: Nhan Dan Newspaper - Northwest Campaign, https://special.nhandan.vn/chien-dich-tay-bac-1952/index.html]
@@ -6511,7 +6511,7 @@
 * **1953:** Martyr Lưu Quý An (Các liệt sĩ thiếu niên Việt Nam) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland.
 
 <!-- id: EVT-2009 -->
-*   **Jan. 25-30, 1953:** The Central Committee held its fourth conference, deciding to launch a mass mobilization for thorough rent reduction, implement interest rate reduction, and prepare for land reform.
+*   **Jan. 25-30, 1953:** The Central Committee held its fourth conference, deciding to launch a mass mobilization for thorough rent reduction, implement interest rate reduction, and prepare for land reform. [Source: Vietnam National Museum of History - The Land Rent Reduction Campaign and Land Reform (1953-1956), https://baotanglichsu.vn/vi/Articles/3097/15846/cuoc-phat-dong-giam-to-va-cai-cach-ruong-dat-1953-1956.html]
 
 <!-- id: EVT-2010 -->
 *   **Early 1953:** The 333rd Engineer Battalion began constructing a fortified system of tunnels, shelters, and working quarters for President Ho Chi Minh, the Party Central Committee, and the Government Office at Nà Lơi Mountain in Kim Quan commune (Yên Sơn district, Tuyên Quang province).
@@ -6520,13 +6520,13 @@
 *   **February 19, 1953:** Nguyen Thi Tuyet (Thuong Tin) was captured for the 11th time and imprisoned at Nha Tien (Hanoi). Despite brutal torture, she remained steadfast and successfully escaped a month later to continue her revolutionary activities.
 
 <!-- id: EVT-2012 -->
-*   **Apr. 12, 1953:** President Ho Chi Minh signed a decree mobilizing the masses for thorough rent reduction.
+*   **Apr. 12, 1953:** President Ho Chi Minh signed a decree mobilizing the masses for thorough rent reduction. [Source: Vietnam National Museum of History - The Land Rent Reduction Campaign and Land Reform (1953-1956), https://baotanglichsu.vn/vi/Articles/3097/15846/cuoc-phat-dong-giam-to-va-cai-cach-ruong-dat-1953-1956.html]
 
 <!-- id: EVT-2013 -->
 *   **Apr. 13 - May 18, 1953:** The Vietnam People's Army, in coordination with the Pathet Lao forces, launched the Upper Laos Campaign, liberating Sam Neua province, a part of Xieng Khouang and Phongsaly, expanding the Lao resistance base and connecting it with the Northwest region of Vietnam. [Source: Government News Portal - The 1953 Upper Laos Victory, https://baochinhphu.vn/chien-thang-thuong-lao-1953-bieu-tuong-cua-tinh-doan-ket-chien-dau-viet-lao-10223041314404425.htm]
 
 <!-- id: EVT-2014 -->
-*   **May 1953:** General Henri Navarre was appointed Commander-in-Chief of the French army in Indochina.
+*   **May 1953:** General Henri Navarre was appointed Commander-in-Chief of the French army in Indochina. [Source: Vietnam National Museum of History - Navarre: Commander-in-Chief of French Forces in Indochina (May 1953), https://baotanglichsu.vn/vi/Articles/3097/16680/navarre-tong-chi-huy-quan-doi-phap-05-1953.html]
 
 <!-- id: EVT-2015 -->
 *   **Jun. 1, 1953:** The Prime Minister issued Circular No. 277-TTg regarding the handling of dispersed land of landlords.
@@ -6538,7 +6538,7 @@
 *   **Jul. 17, 1953:** **Operation Hirondelle (Chiến dịch Én):** French colonial forces deployed three paratrooper battalions in a surprise airborne raid on Lang Son town in an attempt to destroy supply depots and logistics facilities of the People's Army of Vietnam. Meeting fierce and courageous resistance from local Vietnamese troops and guerrillas, the French forces were thwarted and compelled to rapidly withdraw along Route 4 to Tien Yen under pursuit by Vietnamese forces.
 
 <!-- id: EVT-2018 -->
-*   **Jul. 24, 1953:** The **Navarre Plan**, with US backing, was approved by the French National Defense Council to achieve a decisive military victory within 18 months.
+*   **Jul. 24, 1953:** The **Navarre Plan**, with US backing, was approved by the French National Defense Council to achieve a decisive military victory within 18 months. [Source: Vietnam National Museum of History - The Navarre Plan, https://baotanglichsu.vn/vi/Articles/3097/15711/ke-hoach-navarre.html]
 
 <!-- id: EVT-2019 -->
 *   **Jul. 24, 1953:** President Ho Chi Minh's article "Building the Vietnam Workers' Party" was published in the *Cuu Quoc* (National Salvation) newspaper. The article emphasized that ideological education and leadership are the Party's most critical tasks and warned against "leftist" and "rightist" tendencies.
