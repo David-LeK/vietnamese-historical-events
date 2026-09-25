@@ -6092,7 +6092,7 @@
 * **28/10/1947:** Liệt sĩ Lê Lương (Tiểu đoàn trưởng Tiểu đoàn 426, nay là Lữ đoàn 74, Tổng cục II) anh dũng hy sinh trong trận công đồn Na U (Đường số 4).
 
 <!-- id: EVT-1874 -->
-*   **29/10/1947:** Quân đội Việt Nam giành thắng lợi lớn trong trận phục kích ở đèo Bông Lau trên đường số 4, phá hủy đoàn xe 30 chiếc và diệt khoảng 250 lính địch.
+*   **29/10/1947:** Quân đội Việt Nam giành thắng lợi lớn trong trận phục kích ở đèo Bông Lau trên đường số 4, phá hủy đoàn xe 30 chiếc và diệt khoảng 250 lính địch. [Nguồn: Bảo tàng Lịch sử Quốc gia - Trận phục kích Bông Lau (29/10/1947), https://baotanglichsu.vn/vi/Articles/3097/16659/tran-phuc-kich-bong-lau-29-10-1947.html]
 
 <!-- id: EVT-1875 -->
 *   **11/1947:** Sau khi ra tù, Huỳnh Tấn Phát tiếp tục hoạt động cách mạng tại Sài Gòn, phụ trách công tác trí vận và báo chí.
@@ -6122,7 +6122,7 @@
 *   **01/12/1947:** Tưởng Giới Thạch ký một sắc lệnh đặt tên tiếng Trung cho hai quần đảo và tuyên bố chúng là lãnh thổ Trung Quốc.
 
 <!-- id: EVT-1884 -->
-*   **19/12/1947:** Đại bộ phận quân Pháp rút khỏi Việt Bắc, chiến dịch tấn công của địch hoàn toàn thất bại.
+*   **19/12/1947:** Đại bộ phận quân Pháp rút khỏi Việt Bắc, chiến dịch tấn công của địch hoàn toàn thất bại. [Nguồn: Bảo tàng Lịch sử Quốc gia - Chiến dịch Việt Bắc - Thu Đông 1947, https://baotanglichsu.vn/vi/Articles/3097/15702/chien-dich-viet-bac-thu-dong-1947.html]
 
 <!-- id: EVT-1885 -->
 *   **1948:** Lê Thị Riêng được kết nạp vào Đảng Cộng sản Việt Nam.
@@ -6134,7 +6134,7 @@
 *   **1948:** Ở tuổi 16, Nguyễn Thị Mỹ Nhung bí mật rời gia đình tại Vĩnh Long tìm vào chiến khu Tam Bình tham gia kháng chiến chống Pháp. Bà bắt đầu con đường hoạt động cách mạng với nhiệm vụ giao liên đường thủy, chèo đò đưa đón cán bộ qua sông và dẫn đường an toàn cho đồng chí Phạm Ngọc Thảo (Phó ban Tình báo Nam Bộ) từ chiến khu miền Đông về công tác.
 
 <!-- id: EVT-1888 -->
-*   **20/01/1948:** Chủ tịch Hồ Chí Minh ký Sắc lệnh số 110/SL phong quân hàm Đại tướng cho đồng chí Võ Nguyên Giáp (Tổng Chỉ huy Quân đội Quốc gia và Dân quân tự vệ Việt Nam), trở thành vị Đại tướng đầu tiên của Quân đội Nhân dân Việt Nam ở tuổi 37. Đồng thời, Chủ tịch nước ký các sắc lệnh thụ phong quân hàm cấp tướng đợt đầu tiên: Nguyễn Bình được phong Trung tướng; Nguyễn Sơn, Chu Văn Tấn, Hoàng Văn Thái, Hoàng Sâm, Trần Tử Bình, Lê Thiết Hùng cùng các tướng lĩnh khác được phong Thiếu tướng.
+*   **20/01/1948:** Chủ tịch Hồ Chí Minh ký Sắc lệnh số 110/SL phong quân hàm Đại tướng cho đồng chí Võ Nguyên Giáp (Tổng Chỉ huy Quân đội Quốc gia và Dân quân tự vệ Việt Nam), trở thành vị Đại tướng đầu tiên của Quân đội Nhân dân Việt Nam ở tuổi 37. Đồng thời, Chủ tịch nước ký các sắc lệnh thụ phong quân hàm cấp tướng đợt đầu tiên: Nguyễn Bình được phong Trung tướng; Nguyễn Sơn, Chu Văn Tấn, Hoàng Văn Thái, Hoàng Sâm, Trần Tử Bình, Lê Thiết Hùng cùng các tướng lĩnh khác được phong Thiếu tướng. [Nguồn: Bảo tàng Lịch sử Quốc gia - Phong quân hàm Đại tướng cho Võ Nguyên Giáp (20/01/1948), https://baotanglichsu.vn/vi/Articles/3097/16660/phong-quan-ham-dai-tuong-cho-vo-nguyen-giap-20-01-1948.html]
 
 <!-- id: EVT-1889 -->
 *   **25/01/1948:** Chính phủ ra sắc lệnh thành lập các Liên khu để thống nhất chỉ đạo kháng chiến.
@@ -6146,7 +6146,7 @@
 *   **28/05/1948:** Tại Đồi Thược (xã Yên Đổ, huyện Phú Lương, tỉnh Thái Nguyên), Chính phủ tổ chức trọng thể Lễ thụ phong quân hàm Đại tướng cho đồng chí Võ Nguyên Giáp giữa núi rừng Chiến khu Việt Bắc. Chủ tịch Hồ Chí Minh long trọng trao Sắc lệnh và xúc động căn dặn Đại tướng cùng toàn quân ra sức chiến đấu hoàn thành sứ mệnh thiêng liêng mà quốc dân đồng bào phó thác.
 
 <!-- id: EVT-1892 -->
-*   **11/06/1948:** Chủ tịch Hồ Chí Minh ra lời kêu gọi thi đua ái quốc.
+*   **11/06/1948:** Chủ tịch Hồ Chí Minh ra lời kêu gọi thi đua ái quốc. [Nguồn: Bảo tàng Lịch sử Quốc gia - Hồ Chí Minh và phong trào Thi đua ái quốc, https://baotanglichsu.vn/vi/Articles/2001/66223/ho-chi-minh-va-phong-trao-thi-dua-ai-quoc.html]
 
 <!-- id: EVT-1893 -->
 *   **07/1948:** Hội nghị văn hóa toàn quốc lần thứ hai được tổ chức, xác định tính chất "dân tộc, khoa học, đại chúng" của nền văn hóa mới.
@@ -6188,13 +6188,13 @@
 *   **1949:** Đồng chí Trần Đăng Ninh (Trưởng Ban Kiểm tra Trung ương) trực tiếp vào Liên khu IV để chỉ đạo kiểm tra, làm rõ sự thật về vụ án "Hóa chất miền Nam", giải oan cho một giám đốc Binh công xưởng là kỹ sư trí thức Việt kiều theo Chủ tịch Hồ Chí Minh từ Pháp trở về nước tham gia kháng chiến bị nghi ngờ và tố cáo sai sự thật. Bằng phương pháp thẩm tra thực tế, thận trọng và chí công vô tư, ông đã minh oan trọn vẹn và bảo vệ uy tín cho cán bộ trí thức yêu nước, củng cố niềm tin vững chắc của đội ngũ trí thức kiều bào đối với Đảng và cuộc kháng chiến.
 
 <!-- id: EVT-1906 -->
-*   **20/01/1949:** Quân đội Lào Ítxala (tiền thân của Quân đội Nhân dân Lào) được thành lập.
+*   **20/01/1949:** Quân đội Lào Ítxala (tiền thân của Quân đội Nhân dân Lào) được thành lập. [Nguồn: Bảo tàng Lịch sử Quốc gia - Quân đội Lào Ítxala thành lập (20/01/1949), https://baotanglichsu.vn/vi/Articles/3097/16662/quan-doi-lao-itsala-thanh-lap-20-01-1949.html]
 
 <!-- id: EVT-1907 -->
 *   **Đầu năm 1949:** Huỳnh Tấn Phát thoát ly gia đình ra chiến khu Đồng Tháp để tiếp tục hoạt động cách mạng.
 
 <!-- id: EVT-1908 -->
-*   **08/03/1949:** Hiệp ước Élysée được ký kết giữa Tổng thống Pháp Vincent Auriol và cựu hoàng Bảo Đại, thành lập "Quốc gia Việt Nam" trong khối Liên hiệp Pháp.
+*   **08/03/1949:** Hiệp ước Élysée được ký kết giữa Tổng thống Pháp Vincent Auriol và cựu hoàng Bảo Đại, thành lập "Quốc gia Việt Nam" trong khối Liên hiệp Pháp. [Nguồn: Bảo tàng Lịch sử Quốc gia - Hiệp ước Élysée (08/03/1949), https://baotanglichsu.vn/vi/Articles/3097/16663/hiep-uoc-elysee-08-03-1949.html]
 
 <!-- id: EVT-1909 -->
 *   **04/1949:** Hoàng thân Bửu Lộc, Đổng lý văn phòng của Cựu hoàng Bảo Đại, đã công khai khẳng định lại các quyền của Việt Nam đối với quần đảo Trường Sa trong một cuộc họp báo tại Sài Gòn.
@@ -6206,19 +6206,19 @@
 *   **06 - 10/1949:** Chiến dịch Thập Vạn Đại Sơn diễn ra tại vùng biên khu Việt Quế - Điền Quế (biên giới Việt - Trung). Bộ đội Việt Nam chia làm hai mặt trận Khâm Châu và Long Châu, phối hợp với quân bạn liên tiếp đánh hạ các cứ điểm của quân Tưởng. Chiến dịch kết thúc thắng lợi vào tháng 10/1949, giúp cách mạng Trung Quốc mở rộng vùng giải phóng Ung - Long - Khâm, đồng thời củng cố vững chắc vùng biên giới Đông Bắc của Việt Nam.
 
 <!-- id: EVT-1912 -->
-*   **15/06/1949:** Vừ A Dính bị thực dân Pháp sát hại dã man. Sau khi sa vào ổ phục kích của địch trong một đợt sương mù tại Pú Nhung và chịu nhiều đòn tra tấn tàn khốc (bị đánh gãy một bên ống chân), người thiếu niên 15 tuổi đã lừa quân Pháp khiêng mình đi cáng suốt nhiều ngày qua các cánh rừng đến một lán trại bỏ hoang. Tức giận vì bị lừa, quân Pháp đã xả súng bắn chết ông và treo xác lên cây đào.
+*   **15/06/1949:** Vừ A Dính bị thực dân Pháp sát hại dã man. Sau khi sa vào ổ phục kích của địch trong một đợt sương mù tại Pú Nhung và chịu nhiều đòn tra tấn tàn khốc (bị đánh gãy một bên ống chân), người thiếu niên 15 tuổi đã lừa quân Pháp khiêng mình đi cáng suốt nhiều ngày qua các cánh rừng đến một lán trại bỏ hoang. Tức giận vì bị lừa, quân Pháp đã xả súng bắn chết ông và treo xác lên cây đào. [Nguồn: Bảo tàng Lịch sử Quốc gia - Vừ A Dính (1934-1949): Anh hùng liệt sĩ thiếu niên người Mông, https://baotanglichsu.vn/vi/Articles/3096/13248/vu-a-dinh-1934-1949-anh-hung-liet-si-thieu-nien-nguoi-mong.html]
 
 <!-- id: EVT-1913 -->
 *   **Mùa thu 1949:** Georges Boudarel được chuyển sang Lào giảng dạy nhưng bị trục xuất sau 3 tháng. Ông trở lại Sài Gòn làm giáo viên tiếng Pháp cho Trường nữ sinh Marie Curie và thường xuyên lui tới với Nhóm văn hóa Mác-xít Pháp.
 
 <!-- id: EVT-1914 -->
-*   **14/07/1949:** Chính phủ ban hành sắc lệnh giảm tô đầu tiên.
+*   **14/07/1949:** Chính phủ ban hành sắc lệnh giảm tô đầu tiên. [Nguồn: Bảo tàng Lịch sử Quốc gia - Sắc lệnh giảm tô (14/7/1949), https://baotanglichsu.vn/vi/Articles/3097/16664/sac-lenh-giam-to-14-7-1949.html]
 
 <!-- id: EVT-1915 -->
-*   **28/08/1949:** Đại đoàn 308 (Đại đoàn Quân Tiên phong), đại đoàn chủ lực đầu tiên của Quân đội nhân dân Việt Nam, được thành lập.
+*   **28/08/1949:** Đại đoàn 308 (Đại đoàn Quân Tiên phong), đại đoàn chủ lực đầu tiên của Quân đội nhân dân Việt Nam, được thành lập. [Nguồn: Bảo tàng Lịch sử Quốc gia - Đại đoàn 308 - Đại đoàn Quân Tiên phong (28/08/1949), https://baotanglichsu.vn/vi/Articles/3097/16665/dai-doan-308-dai-doan-quan-tien-phong-28-08-1949.html]
 
 <!-- id: EVT-1916 -->
-*   **01/10/1949:** Nước Cộng hòa Nhân dân Trung Hoa được thành lập.
+*   **01/10/1949:** Nước Cộng hòa Nhân dân Trung Hoa được thành lập. [Nguồn: Bảo tàng Lịch sử Quốc gia - Nước Cộng hòa Nhân dân Trung Hoa (01/10/1949), https://baotanglichsu.vn/vi/Articles/3097/16666/nuoc-cong-hoa-nhan-dan-trung-hoa-01-10-1949.html]
 
 <!-- id: EVT-1917 -->
 *   **12/1949:** Lực lượng Việt Minh mở Chiến dịch Cầu Kè (chiến dịch công kích lớn đầu tiên ở Nam Bộ). Nguyễn Thị Út (Út Tịch) làm trinh sát, giao liên cho tổ chức Công an xung phong, góp phần gây nhiều tổn thất cho quân Pháp.

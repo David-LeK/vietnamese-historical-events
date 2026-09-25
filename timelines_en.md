@@ -6092,7 +6092,7 @@
 * **28/10/1947:** Martyr Le Luong (Battalion Commander of the 426th Battalion, now the 74th Brigade, General Department II) heroically sacrificed his life in the assault on Na U outpost (Route 4).
 
 <!-- id: EVT-1874 -->
-*   **Oct. 29, 1947:** The Vietnamese forces won a major victory in an ambush at Bong Lau Pass on Route 4, destroying a 30-vehicle convoy and capturing or killing about 250 enemy troops.
+*   **Oct. 29, 1947:** The Vietnamese forces won a major victory in an ambush at Bong Lau Pass on Route 4, destroying a 30-vehicle convoy and capturing or killing about 250 enemy troops. [Source: Vietnam National Museum of History - The Bong Lau Ambush (October 29, 1947), https://baotanglichsu.vn/vi/Articles/3097/16659/tran-phuc-kich-bong-lau-29-10-1947.html]
 
 <!-- id: EVT-1875 -->
 *   **Nov. 1947:** After his release from prison, Huynh Tan Phat resumed revolutionary activities in Saigon, taking charge of proselytizing intellectuals and the press.
@@ -6122,7 +6122,7 @@
 *   **Dec. 1, 1947:** Chiang Kai-shek signed a decree assigning Chinese names to the two archipelagos and declaring them as Chinese territory.
 
 <!-- id: EVT-1884 -->
-*   **Dec. 19, 1947:** The main body of French forces withdrew from Viet Bac; the enemy's offensive campaign had completely failed.
+*   **Dec. 19, 1947:** The main body of French forces withdrew from Viet Bac; the enemy's offensive campaign had completely failed. [Source: Vietnam National Museum of History - The Viet Bac Campaign - Autumn-Winter 1947, https://baotanglichsu.vn/vi/Articles/3097/15702/chien-dich-viet-bac-thu-dong-1947.html]
 
 <!-- id: EVT-1885 -->
 *   **1948:** Le Thi Rieng joined the Communist Party of Vietnam.
@@ -6134,7 +6134,7 @@
 *   **1948:** At the age of 16, Nguyễn Thị Mỹ Nhung secretly left her family in Vinh Long to join the anti-French resistance at Tam Binh war zone. She began her revolutionary work as a waterway courier, rowing boats to ferry cadres across rivers, and safely guided Pham Ngoc Thao (Deputy Head of the Southern Intelligence Department) on a mission from the Eastern war zone.
 
 <!-- id: EVT-1888 -->
-*   **Jan. 20, 1948:** President Ho Chi Minh signed Decree No. 110/SL conferring the rank of Senior General upon comrade Vo Nguyen Giap (Commander-in-Chief of the National Army and Self-Defense Militia), making him the first Senior General of the Vietnam People's Army at age 37. Concurrently, decrees were issued promoting Nguyen Binh to Lieutenant General; and Nguyen Son, Chu Van Tan, Hoang Van Thai, Hoang Sam, Tran Tu Binh, Le Thiet Hung, and other senior commanders to Major General.
+*   **Jan. 20, 1948:** President Ho Chi Minh signed Decree No. 110/SL conferring the rank of Senior General upon comrade Vo Nguyen Giap (Commander-in-Chief of the National Army and Self-Defense Militia), making him the first Senior General of the Vietnam People's Army at age 37. Concurrently, decrees were issued promoting Nguyen Binh to Lieutenant General; and Nguyen Son, Chu Van Tan, Hoang Van Thai, Hoang Sam, Tran Tu Binh, Le Thiet Hung, and other senior commanders to Major General. [Source: Vietnam National Museum of History - Promotion of Vo Nguyen Giap to General (January 20, 1948), https://baotanglichsu.vn/vi/Articles/3097/16660/phong-quan-ham-dai-tuong-cho-vo-nguyen-giap-20-01-1948.html]
 
 <!-- id: EVT-1889 -->
 *   **Jan. 25, 1948:** The government issued a decree establishing Inter-zones to unify the command of the resistance.
@@ -6146,7 +6146,7 @@
 *   **May 28, 1948:** At Doi Thuoc (Yen Do Commune, Phu Luong District, Thai Nguyen Province), the Government solemnly held the rank investiture ceremony conferring the rank of Senior General upon comrade Vo Nguyen Giap amidst the Viet Bac Resistance Base. President Ho Chi Minh officially presented the decree and urged the General and the armed forces to fight valiantly to fulfill the sacred mission entrusted by the nation.
 
 <!-- id: EVT-1892 -->
-*   **Jun. 11, 1948:** President Ho Chi Minh issued an appeal for patriotic emulation.
+*   **Jun. 11, 1948:** President Ho Chi Minh issued an appeal for patriotic emulation. [Source: Vietnam National Museum of History - Ho Chi Minh and the Patriotic Emulation Movement, https://baotanglichsu.vn/vi/Articles/2001/66223/ho-chi-minh-va-phong-trao-thi-dua-ai-quoc.html]
 
 <!-- id: EVT-1893 -->
 *   **Jul. 1948:** The Second National Cultural Conference was held, defining the "national, scientific, and mass" character of the new culture.
@@ -6188,13 +6188,13 @@
 *   **1949:** Comrade Tran Dang Ninh (Head of the Central Inspection Commission) directly traveled to Inter-zone IV to inspect and clarify the truth regarding the "Southern Chemicals" (Hóa chất miền Nam) case, successfully clearing the name of an arms depot director—an overseas Vietnamese patriotic engineer who had returned from France with President Ho Chi Minh to join the resistance but had been falsely accused. Through rigorous, objective, and impartial on-site investigation, he completely exonerated the patriotic intellectual, cementing the profound trust of overseas intellectuals in the Party and the resistance cause.
 
 <!-- id: EVT-1906 -->
-*   **Jan. 20, 1949:** The Lao Issara Army (precursor to the Lao People's Army) was founded.
+*   **Jan. 20, 1949:** The Lao Issara Army (precursor to the Lao People's Army) was founded. [Source: Vietnam National Museum of History - Establishment of the Lao Itsala Army (January 20, 1949), https://baotanglichsu.vn/vi/Articles/3097/16662/quan-doi-lao-itsala-thanh-lap-20-01-1949.html]
 
 <!-- id: EVT-1907 -->
 *   **Early 1949:** Huynh Tan Phat escaped to the Dong Thap resistance zone to continue his revolutionary work.
 
 <!-- id: EVT-1908 -->
-*   **Mar. 8, 1949:** The Élysée Accords were signed between French President Vincent Auriol and former emperor Bao Dai, establishing the "State of Vietnam" within the French Union.
+*   **Mar. 8, 1949:** The Élysée Accords were signed between French President Vincent Auriol and former emperor Bao Dai, establishing the "State of Vietnam" within the French Union. [Source: Vietnam National Museum of History - The Elysee Treaty (March 8, 1949), https://baotanglichsu.vn/vi/Articles/3097/16663/hiep-uoc-elysee-08-03-1949.html]
 
 <!-- id: EVT-1909 -->
 *   **Apr. 1949:** Prince Buu Loc, Chief of Cabinet to Emperor Bao Dai, publicly reaffirmed Vietnam's rights over the Spratly Islands during a press conference in Saigon.
@@ -6206,19 +6206,19 @@
 *   **Jun. - Oct. 1949:** The Thap Van Dai Son Campaign took place in the Vietnam-Guangxi border region. Vietnamese forces, divided into two fronts (Kham Chau and Long Chau), coordinated with Chinese forces to attack Kuomintang strongholds. The campaign successfully expanded the liberated zone for the Chinese revolution, secured the northeastern border of Vietnam, and concluded when Vietnamese troops withdrew after linking up with the main Chinese army.
 
 <!-- id: EVT-1912 -->
-*   **Jun. 15, 1949:** Vu A Dinh was brutally murdered by the French. After being captured in a dense fog during a massive sweep in Pu Nhung and enduring severe torture (including a broken leg), the 15-year-old boy tricked the French troops into carrying him through the forest for days, leading them to an abandoned camp. Enraged by the deception, the French shot him and hung his body on a peach tree.
+*   **Jun. 15, 1949:** Vu A Dinh was brutally murdered by the French. After being captured in a dense fog during a massive sweep in Pu Nhung and enduring severe torture (including a broken leg), the 15-year-old boy tricked the French troops into carrying him through the forest for days, leading them to an abandoned camp. Enraged by the deception, the French shot him and hung his body on a peach tree. [Source: Vietnam National Museum of History - Vu A Dinh (1934-1949): Hmong Teenage Heroic Martyr, https://baotanglichsu.vn/vi/Articles/3096/13248/vu-a-dinh-1934-1949-anh-hung-liet-si-thieu-nien-nguoi-mong.html]
 
 <!-- id: EVT-1913 -->
 *   **Autumn 1949:** Georges Boudarel was transferred to teach in Laos but was expelled three months later. He returned to Saigon, worked as a French teacher at Marie Curie High School, and frequently associated with the French Marxist cultural group.
 
 <!-- id: EVT-1914 -->
-*   **Jul. 14, 1949:** The government issued the first decree on rent reduction.
+*   **Jul. 14, 1949:** The government issued the first decree on rent reduction. [Source: Vietnam National Museum of History - The Land Rent Reduction Decree (July 14, 1949), https://baotanglichsu.vn/vi/Articles/3097/16664/sac-lenh-giam-to-14-7-1949.html]
 
 <!-- id: EVT-1915 -->
-*   **Aug. 28, 1949:** The 308th Division (the Pioneer Division), the first main-force division of the Vietnam People's Army, was established.
+*   **Aug. 28, 1949:** The 308th Division (the Pioneer Division), the first main-force division of the Vietnam People's Army, was established. [Source: Vietnam National Museum of History - Division 308 - The Vanguard Army Division (August 28, 1949), https://baotanglichsu.vn/vi/Articles/3097/16665/dai-doan-308-dai-doan-quan-tien-phong-28-08-1949.html]
 
 <!-- id: EVT-1916 -->
-*   **Oct. 1, 1949:** The People's Republic of China was founded.
+*   **Oct. 1, 1949:** The People's Republic of China was founded. [Source: Vietnam National Museum of History - The People's Republic of China (October 1, 1949), https://baotanglichsu.vn/vi/Articles/3097/16666/nuoc-cong-hoa-nhan-dan-trung-hoa-01-10-1949.html]
 
 <!-- id: EVT-1917 -->
 *   **Dec. 1949:** During the Cau Ke Campaign (the first major offensive by the Viet Minh in Nam Bo), Nguyen Thi Ut (Ut Tich) served as a scout and liaison for the Vanguard Security unit, contributing to inflicting heavy losses on French forces.
