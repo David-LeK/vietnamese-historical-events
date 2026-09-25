@@ -110,8 +110,6 @@
 
 *Nguồn: Lăng mộ Vua Hùng trên núi Nghĩa Lĩnh (Phú Thọ) / Wikimedia Commons*
 
-
-
 <!-- id: EVT-0019 -->
 *   **2793 TCN:** Sùng Lẫm nối ngôi Kinh Dương Vương, xưng là Lạc Long Quân, tiếp tục cai trị nước Xích Quỷ. Lạc Long Quân có công trừ diệt các loài quái vật nguy hại (Ngư Tinh, Cửu Vĩ Hồ, Mộc Tinh), dạy nhân dân trồng lúa nước, dệt vải và cất dựng nhà cửa. [Nguồn: VTC News - 18 đời vua Hùng gồm những ai?, https://vtcnews.vn/18-doi-vua-hung-gom-nhung-ai-ar669738.html]
 
@@ -1682,15 +1680,15 @@
 *   **03/1387 (Đinh Mão):** Lê Quý Ly được phong chức Đồng bình chương sự (Tướng quốc). [Nguồn: 2 đời vua triều Hồ (Quận 8 TP.HCM), http://www.quan8.hochiminhcity.gov.vn/dantaphaibietsuta/lists/posts/post.aspx?Source=%2Fdantaphaibietsuta&Category=Nh%C3%A2n+v%E1%BA%ADt+l%E1%BB%8Bch+s%E1%BB%AD+t%E1%BB%AB+th%E1%BA%BF+k%E1%BB%B7+X+%C4%91%E1%BA%BFn+XV&ItemID=84&Mode=1]
 
 <!-- id: EVT-0494 -->
-*   **12/1388 (Mậu Thìn):** Thượng hoàng Nghệ Tông truất ngôi và bức tử vua Trần Phế Đế theo lời xúi giục của Lê Quý Ly. Trần Thuận Tông (Trần Ngung) lên ngôi. [Nguồn: Việt Nam sử lược I-III-X: Nhà Trần (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_X]
-
-<!-- id: EVT-0497 -->
-*   **06/12/1388:** Trần Phế Đế bị phế truất, sau đó bị giam tại chùa Tư Phúc và bị giết theo lệnh của Thượng hoàng Trần Nghệ Tông và Lê Quý Ly. [Nguồn: Trần Nghệ Tông phế truất Trần Phế Đế (VnExpress), https://vnexpress.net/tim-hieu-ong-vua-quyen-luc-cuoi-cung-cua-nha-tran-3567272-p10.html]
+*   **06/12/1388 (Mậu Thìn):** Trần Phế Đế bị phế truất, sau đó bị giam tại chùa Tư Phúc và bị giết theo lệnh của Thượng hoàng Trần Nghệ Tông và Lê Quý Ly. [Nguồn: Trần Nghệ Tông phế truất Trần Phế Đế (VnExpress), https://vnexpress.net/tim-hieu-ong-vua-quyen-luc-cuoi-cung-cua-nha-tran-3567272-p10.html]
 
 <!-- id: EVT-0495 -->
 *   **16/12/1388:** Con trai Trần Nghệ Tông là Trần Ngung (sau là Trần Thuận Tông) lên ngôi. [Nguồn: Trần Thuận Tông – vị vua hư danh (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3096/6811/tran-thuan-tong-vi-vua-hu-danh-4-lan-bi-ep.html]
 
 <!-- id: EVT-0496 -->
+*   **Cuối tháng 12/1388 (Mậu Thìn):** Thượng hoàng Nghệ Tông truất ngôi và bức tử vua Trần Phế Đế theo lời xúi giục của Lê Quý Ly. Trần Thuận Tông (Trần Ngung) lên ngôi. [Nguồn: Việt Nam sử lược I-III-X: Nhà Trần (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_X]
+
+<!-- id: EVT-0497 -->
 *   **08/1389 (Kỷ Tỵ):** Nguyễn Thanh tự xưng là Linh Đức Vương, nổi dậy ở Lương Giang (Thanh Hóa). Tháng 9, Nguyễn Kỵ nổi dậy ở Nông Cống. [Nguồn: Việt Nam sử lược I-III-X: Nhà Trần (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_X]
 
 <!-- id: EVT-0498 -->

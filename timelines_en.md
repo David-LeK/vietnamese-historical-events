@@ -110,7 +110,6 @@
 
 *Source: Hung Kings Mausoleum on Nghia Linh Mountain (Phu Tho) / Wikimedia Commons*
 
-
 <!-- id: EVT-0019 -->
 *   **2793 BC:** Sung Lam succeeded Kinh Duong Vuong as Lac Long Quan, taking over the rule of Xich Quy. Lac Long Quan was credited with slaying sea and forest monsters (Ngư Tinh, Cửu Vĩ Hồ, Mộc Tinh) and teaching the people wet rice cultivation, weaving, and house building. [Source: Britannica - Lac Long Quan, https://www.britannica.com/biography/Lac-Long-Quan]
 
@@ -1681,15 +1680,15 @@
 *   **Mar. 1387:** Le Quy Ly was granted the title of Dong binh chuong su (Prime Minister). [Source: Two Ho Kings (District 8 HCMC), http://www.quan8.hochiminhcity.gov.vn/dantaphaibietsuta/lists/posts/post.aspx?Source=%2Fdantaphaibietsuta&Category=Nh%C3%A2n+v%E1%BA%ADt+l%E1%BB%8Bch+s%E1%BB%AD+t%E1%BB%AB+th%E1%BA%BF+k%E1%BB%B7+X+%C4%91%E1%BA%BFn+XV&ItemID=84&Mode=1]
 
 <!-- id: EVT-0494 -->
-*   **Dec. 1388:** Retired Emperor Nghe Tong deposed and forced Emperor Tran Phe De to commit suicide at the instigation of Le Quy Ly. Tran Thuan Tong (Tran Ngung) ascended the throne. [Source: Short History of Vietnam I-III-X: Tran (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_X]
-
-<!-- id: EVT-0497 -->
-*   **Jun. 12, 1388:** Emperor Trần Phế Đế was deposed, then imprisoned at Tư Phúc Pagoda and later killed on the orders of Emperor Emeritus Trần Nghệ Tông and Le Quy Ly. [Source: Tran Nghe Tong Deposes Tran Phe De (VnExpress), https://vnexpress.net/tim-hieu-ong-vua-quyen-luc-cuoi-cung-cua-nha-tran-3567272-p10.html]
+*   **Dec. 6, 1388:** Emperor Trần Phế Đế was deposed, then imprisoned at Tư Phúc Pagoda and later killed on the orders of Emperor Emeritus Trần Nghệ Tông and Le Quy Ly. [Source: Tran Nghe Tong Deposes Tran Phe De (VnExpress), https://vnexpress.net/tim-hieu-ong-vua-quyen-luc-cuoi-cung-cua-nha-tran-3567272-p10.html]
 
 <!-- id: EVT-0495 -->
 *   **Dec. 16, 1388:** Trần Nghệ Tông's son, Trần Ngung (later Emperor Trần Thuận Tông), ascended the throne. [Source: Tran Thuan Tong – The Nominal King (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/6811/tran-thuan-tong-vi-vua-hu-danh-4-lan-bi-ep.html]
 
 <!-- id: EVT-0496 -->
+*   **Late Dec. 1388:** Retired Emperor Nghe Tong deposed and forced Emperor Tran Phe De to commit suicide at the instigation of Le Quy Ly. Tran Thuan Tong (Tran Ngung) ascended the throne. [Source: Short History of Vietnam I-III-X: Tran (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_X]
+
+<!-- id: EVT-0497 -->
 *   **Aug. 1389:** Nguyen Thanh proclaimed himself Linh Duc Vuong and rebelled in Luong Giang (Thanh Hoa). In September, Nguyen Ky rebelled in Nong Cong. [Source: Short History of Vietnam I-III-X: Tran (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_X]
 
 <!-- id: EVT-0498 -->

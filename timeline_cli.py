@@ -257,6 +257,57 @@ def cmd_remove_image(args):
     return 0
 
 
+def set_date_in_block(block, new_date):
+    """Replace the bold date token at the start of an event's first line.
+
+    Only the `**date:**` token is touched; description, citation, sub-items and
+    image lines are left byte-identical. Returns True when modified."""
+    lines = block['lines']
+    idx = next((i for i, l in enumerate(lines) if EVENT_START.match(l)), None)
+    if idx is None:
+        raise ValueError('event block has no description line')
+    old = (block.get('time_str') or '').strip()
+    line = lines[idx]
+    if not old or line.count(old) != 1:
+        raise ValueError('cannot locate date %r in %r' % (old, line[:120]))
+    updated = line.replace(old, new_date.strip(), 1)
+    if not EVENT_START.match(updated):
+        raise ValueError('rewritten line lost the event format: %r' % updated[:120])
+    lines[idx] = updated
+    block['time_str'] = new_date.strip()
+    return True
+
+
+def cmd_set_date(args):
+    changed = False
+    for path, new_date in ((args.vi, args.vi_date), (args.en, args.en_date)):
+        if new_date is None:
+            continue
+        blocks = parse_blocks(path)
+        evs = [b for b in blocks if b['type'] == 'event']
+        target = next((b for b in evs
+                       if any(isinstance(l, str) and ID_RE.search(l)
+                              and ID_RE.search(l).group(1) == args.eid
+                              for l in b['lines'])), None)
+        if target is None:
+            print('%s not found in %s' % (args.eid, path))
+            return 1
+        set_date_in_block(target, new_date)
+        with open(path, 'w', encoding='utf-8') as f:
+            for b in blocks:
+                f.writelines(b['lines'])
+        print('Updated date for %s in %s: %s' % (args.eid, path, new_date.strip()))
+        changed = True
+    if not changed:
+        print('Provide --vi-date and/or --en-date.')
+        return 1
+    # A date change can move events, so always re-sort before verifying.
+    from sort_timelines import sort_timelines
+    sort_timelines(args.vi, args.en, across_periods=True)
+    run_quiet_verify()
+    return 0
+
+
 def next_id(vi_path, en_path):
     taken = set()
     for path in (vi_path, en_path):
@@ -341,6 +392,12 @@ def main(argv=None):
     ri.add_argument('--path', default=None,
                     help='Image path to remove; omit to detach every image in the event')
 
+    sd = sub.add_parser('set-date',
+                        help='Change an event date by stable ID, then re-sort + verify')
+    sd.add_argument('eid')
+    sd.add_argument('--vi-date', default=None, help='New VI date, e.g. 06/12/1388')
+    sd.add_argument('--en-date', default=None, help='New EN date, e.g. Dec. 6, 1388')
+
     ad = sub.add_parser('add', help='Add a new event pair, then sort + verify')
     ad.add_argument('--date-vi', required=True)
     ad.add_argument('--date-en', required=True)
@@ -365,6 +422,8 @@ def main(argv=None):
         return cmd_add_image(args)
     elif args.cmd == 'remove-image':
         return cmd_remove_image(args)
+    elif args.cmd == 'set-date':
+        return cmd_set_date(args)
     return 0
 
 
