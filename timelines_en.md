@@ -4131,7 +4131,7 @@
 *   **Mar. 6 - 12, 1884:** Battle of Bac Ninh. French forces under General Charles-Théodore Millot launched a massive campaign with over 16,000 troops to capture the highly strategic Bac Ninh Citadel, defended by 20,000 Qing and Black Flag troops. Utilizing superior artillery and a flanking maneuver across the Duong River, the French routed the defenders.
 
 <!-- id: EVT-1296 -->
-*   **Mar. 16, 1884:** The Yen The Uprising (Bac Giang) broke out under the leadership of Luong Van Nam (De Nam) and Hoang Hoa Tham (De Tham), initiating a nearly 30-year resilient armed peasant resistance against French colonialism.
+*   **Mar. 16, 1884:** The Yen The Uprising (Bac Giang) broke out under the leadership of Luong Van Nam (De Nam) and Hoang Hoa Tham (De Tham), initiating a nearly 30-year resilient armed peasant resistance against French colonialism. [Source: http://baotanglichsu.vn/vi/Articles/3096/12398/khoi-nghia-yen-the-1884-1913.html]
 
 ![Historical Image](images/event_20260923_225204.webp)
 
@@ -4260,7 +4260,7 @@
 *   **1890 - 1898:** Direct taxes doubled between 1890 and 1896, then increased by another 50% from 1896 to 1898.
 
 <!-- id: EVT-1331 -->
-*   **May 19, 1890:** President Ho Chi Minh (birth name Nguyen Sinh Cung, courtesy name Tat Thanh) was born in Hoang Tru village, Kim Lien commune, Nam Dan district, Nghe An province. He would later become the great leader of the Vietnamese nation, Hero of National Liberation, and Great Man of Culture.
+*   **May 19, 1890:** President Ho Chi Minh (birth name Nguyen Sinh Cung, courtesy name Tat Thanh) was born in Hoang Tru village, Kim Lien commune, Nam Dan district, Nghe An province. He would later become the great leader of the Vietnamese nation, Hero of National Liberation, and Great Man of Culture. [Source: https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1332 -->
 *   **1891:** Hai Phong was considered the first city to have electric lights, even before Hanoi.
@@ -4371,7 +4371,7 @@
 *   **1904:** Huynh Thuc Khang obtained the Third-class Doctorate degree (Dong Tien si xuat than) in the imperial court examinations under Emperor Thanh Thai, subsequently joining Phan Chau Trinh and Tran Quy Cap to initiate the modernization and reform movement.
 
 <!-- id: EVT-1367 -->
-*   **1904:** Phan Boi Chau founded the Duy Tan Hoi (Modernization Society) with the aim of driving out the French invaders, restoring Vietnam, and establishing an independent government.
+*   **1904:** Phan Boi Chau founded the Duy Tan Hoi (Modernization Society) with the aim of driving out the French invaders, restoring Vietnam, and establishing an independent government. [Source: http://baotanglichsu.vn/vi/Articles/3096/12411/hoi-duy-tan-va-phong-trao-dong-du.html]
 
 <!-- id: EVT-1368 -->
 *   **1904:** In Paris, exiled Emperor Ham Nghi (using the artistic pseudonym **Tu Xuan** / Prince d'Annam) exhibited his artworks at the Musée Guimet, showcasing Impressionist pastels and sculptures created under the tutelage of painter Marius Reynaud and celebrated sculptor Auguste Rodin, becoming the first modern Vietnamese visual artist to gain acclaim in Western artistic circles.
@@ -4380,7 +4380,7 @@
 *   **Late 1904:** Phan Chau Trinh, Tran Qui Cap, and Huynh Thuc Khang undertook a "Southern Trip" (Nam du). In Binh Dinh, they wrote *Chi thanh thong thanh* and *Luong ngoc danh son* to criticize the obsolete examination system.
 
 <!-- id: EVT-1370 -->
-*   **1905:** The Dong Du (Go East) Movement, initiated by Phan Boi Chau, began, sending patriotic youth to Japan to study. Phan Boi Chau wrote the work *Viet Nam vong quoc su* (History of the Loss of Vietnam).
+*   **1905:** The Dong Du (Go East) Movement, initiated by Phan Boi Chau, began, sending patriotic youth to Japan to study. Phan Boi Chau wrote the work *Viet Nam vong quoc su* (History of the Loss of Vietnam). [Source: http://baotanglichsu.vn/vi/Articles/3096/12411/hoi-duy-tan-va-phong-trao-dong-du.html]
 
 ![Historical Image](images/event_20260924_124308.webp)
 
@@ -4396,7 +4396,7 @@
 *   **Nov. 14, 1905:** A decree established the General Directorate of Public Education of Indochina, initiating the first educational reform.
 
 <!-- id: EVT-1374 -->
-*   **1906:** The Duy Tan (Modernization) Movement, initiated by Phan Chau Trinh, Huynh Thuc Khang, and Tran Quy Cap, spread throughout Annam, advocating for "enlightening the people's minds, strengthening the people's spirit, improving the people's livelihood."
+*   **1906:** The Duy Tan (Modernization) Movement, initiated by Phan Chau Trinh, Huynh Thuc Khang, and Tran Quy Cap, spread throughout Annam, advocating for "enlightening the people's minds, strengthening the people's spirit, improving the people's livelihood." [Source: http://baotanglichsu.vn/vi/Articles/3096/19494/phan-chau-trinh-voi-tu-tuong-canh-tan-djat-nuoc.html]
 
 <!-- id: EVT-1375 -->
 *   **1906 - 1908:** Village Chief Le Co implemented comprehensive reforms in Phu Lam village (Quang Nam), establishing schools (including the first girls' school in the region), commercial associations, and plantations, serving as a practical model for the Duy Tan movement.
@@ -4486,7 +4486,7 @@
 *   **May 1911:** Prior to departing Nha Rong Port for the West to seek national liberation, patriotic youth Nguyen Tat Thanh shared an emotional farewell in Saigon with Le Thi Hue (Ut Hue)—his pure and devoted youthful first love. This historic parting for the greater cause of national independence, symbolized by the keepsake comb, was later movingly chronicled by author Son Tung in *Blue Lotus*, becoming an enduring symbol in Vietnamese literary and historical memory.
 
 <!-- id: EVT-1404 -->
-*   **Jun. 5, 1911:** From Nha Rong Harbor (Saigon), young patriot Nguyen Tat Thanh assumed the name **Van Ba**, boarding the French merchant ship *Amiral Latouche-Tréville* as an assistant cook, beginning a historic 30-year journey across nearly 30 countries on four continents to seek national liberation.
+*   **Jun. 5, 1911:** From Nha Rong Harbor (Saigon), young patriot Nguyen Tat Thanh assumed the name **Van Ba**, boarding the French merchant ship *Amiral Latouche-Tréville* as an assistant cook, beginning a historic 30-year journey across nearly 30 countries on four continents to seek national liberation. [Source: https://nhandan.vn/ngay-5-6-1911-nguoi-thanh-nien-nguyen-tat-thanh-ra-di-tim-duong-cuu-nuoc-post649362.html]
 
 ![Historical Image](images/event_20260924_103200.webp)
 
@@ -4500,7 +4500,7 @@
 *   **Jul. 6, 1911:** The ship *Amiral Latouche-Tréville* docked at the port of Marseille (France). Nguyen Tat Thanh (Van Ba) set foot on French soil for the first time after sailing through ports in Singapore, Colombo (Sri Lanka), and Port Said (Egypt), initiating his firsthand investigation of Western society.
 
 <!-- id: EVT-1406 -->
-*   **Aug. 25, 1911:** Senior General Vo Nguyen Giap (birth name Vo Giap, alias Van) was born in An Xa village, Loc Thuy Commune, Le Thuy District, Quang Binh Province. He was an eminent military strategist and statesman, the first Senior General and Commander-in-Chief of the Vietnam People's Army, a brilliant and close disciple of President Ho Chi Minh, and internationally revered as one of the greatest military commanders of the 20th century.
+*   **Aug. 25, 1911:** Senior General Vo Nguyen Giap (birth name Vo Giap, alias Van) was born in An Xa village, Loc Thuy Commune, Le Thuy District, Quang Binh Province. He was an eminent military strategist and statesman, the first Senior General and Commander-in-Chief of the Vietnam People's Army, a brilliant and close disciple of President Ho Chi Minh, and internationally revered as one of the greatest military commanders of the 20th century. [Source: https://baochinhphu.vn/tom-tat-tieu-su-dai-tuong-vo-nguyen-giap-102150438.htm]
 
 <!-- id: EVT-1407 -->
 *   **Nov. 1911:** Albert Sarraut assumed the post of Governor-General, continuing to promote the "association" policy and demagogic reforms.
@@ -4521,7 +4521,7 @@
 *   **1913 - 1917:** Nguyen Tat Thanh lived and worked in London, United Kingdom, using the name **Paul Thanh**. He undertook various laborious jobs such as school snow sweeper, boiler stoker, and pastry assistant at the luxury Carlton Hotel under legendary chef Auguste Escoffier, while self-studying English and joining the Overseas Workers Association.
 
 <!-- id: EVT-1413 -->
-*   **Feb. 10, 1913:** Hoang Hoa Tham (De Tham), leader of the Yen The Uprising, was assassinated by agents of French colonialists, marking the end of the most enduring armed peasant uprising against French colonial rule (1884–1913).
+*   **Feb. 10, 1913:** Hoang Hoa Tham (De Tham), leader of the Yen The Uprising, was assassinated by agents of French colonialists, marking the end of the most enduring armed peasant uprising against French colonial rule (1884–1913). [Source: https://tuoitre.vn/sach-giai-ma-nhieu-bi-an-trong-cuoc-doi-hoang-hoa-tham-594552.htm]
 
 <!-- id: EVT-1414 -->
 *   **Apr. 12, 1913:** A member of the Vietnam Restoration League assassinated the governor of Thai Binh, Nguyen Duy Han.
@@ -4677,7 +4677,7 @@
 *   **Nov. 1920:** Emperor Khai Dinh conferred honorary titles on businessman Bach Thai Buoi and mechanic Nguyen Van Phuc for successfully building the ship *Binh Chuan*, promoting Vietnamese industrial capability.
 
 <!-- id: EVT-1463 -->
-*   **Dec. 25-30, 1920:** Nguyễn Ái Quốc attended the 18th Congress of the French Socialist Party in Tours, voted to join the Third International, and co-founded the French Communist Party, marking his transition from patriotism to Marxism-Leninism.
+*   **Dec. 25-30, 1920:** Nguyễn Ái Quốc attended the 18th Congress of the French Socialist Party in Tours, voted to join the Third International, and co-founded the French Communist Party, marking his transition from patriotism to Marxism-Leninism. [Source: https://nhandan.vn/theo-dau-chan-bac-ho-tro-lai-tp-tours-post192039.html]
 
 <!-- id: EVT-1464 -->
 *   **1921:** After enduring 13 years of arduous penal servitude at Con Dao Prison with unyielding integrity, Huynh Thuc Khang was released by French colonial authorities.
@@ -4824,7 +4824,7 @@
 *   **Mar. 8, 1925:** Governor-General of Indochina Martial Merlin issued a declaration officially asserting French sovereignty over the Paracel and Spratly Islands on behalf of the Protectorate of Annam.
 
 <!-- id: EVT-1508 -->
-*   **Jun. 1925:** Nguyen Ai Quoc, alongside Ho Tung Mau and revolutionary comrades, founded the Vietnamese Revolutionary Youth League in Guangzhou (China), organizing theoretical training courses to prepare for the birth of the Communist Party of Vietnam.
+*   **Jun. 1925:** Nguyen Ai Quoc, alongside Ho Tung Mau and revolutionary comrades, founded the Vietnamese Revolutionary Youth League in Guangzhou (China), organizing theoretical training courses to prepare for the birth of the Communist Party of Vietnam. [Source: http://baotanglichsu.vn/vi/Articles/3096/12467/su-thanh-lap-hoi-viet-nam-cach-mang-thanh-nien-6-1925.html]
 
 ![Historical Image](images/event_20260924_111707.webp)
 

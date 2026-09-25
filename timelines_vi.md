@@ -4132,7 +4132,7 @@
 *   **06 - 12/03/1884:** Trận Bắc Ninh. Trung tướng Charles-Théodore Millot chỉ huy 16.300 quân Pháp mở chiến dịch lớn đánh chiếm thành Bắc Ninh, nơi tập trung hơn 2 vạn quân Thanh. Quân Pháp sử dụng chiến thuật vu hồi qua sông Đuống và nã pháo dữ dội, khiến quân Thanh hoảng loạn tháo chạy. Pháp chiếm được Bắc Ninh, củng cố sự kiểm soát đồng bằng Bắc Bộ.
 
 <!-- id: EVT-1296 -->
-*   **16/03/1884:** Cuộc khởi nghĩa Yên Thế (Bắc Giang) bùng nổ dưới sự lãnh đạo của Lương Văn Nắm (Đề Nắm) và Hoàng Hoa Thám (Đề Thám), mở đầu phong trào kháng chiến vũ trang nông dân kiên cường kéo dài gần 30 năm chống thực dân Pháp.
+*   **16/03/1884:** Cuộc khởi nghĩa Yên Thế (Bắc Giang) bùng nổ dưới sự lãnh đạo của Lương Văn Nắm (Đề Nắm) và Hoàng Hoa Thám (Đề Thám), mở đầu phong trào kháng chiến vũ trang nông dân kiên cường kéo dài gần 30 năm chống thực dân Pháp. [Nguồn: http://baotanglichsu.vn/vi/Articles/3096/12398/khoi-nghia-yen-the-1884-1913.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_225204.webp)
 
@@ -4261,7 +4261,7 @@
 *   **1890 - 1898:** Thuế trực thu tăng gấp đôi từ năm 1890 đến 1896, và tiếp tục tăng gấp rưỡi từ năm 1896 đến 1898.
 
 <!-- id: EVT-1331 -->
-*   **19/05/1890:** Chủ tịch Hồ Chí Minh (tên khai sinh là Nguyễn Sinh Cung, tự Tất Thành) sinh ra tại làng Hoàng Trù (quê ngoại), xã Kim Liên, huyện Nam Đàn, tỉnh Nghệ An. Người sau này trở thành vị lãnh tụ vĩ đại của Đảng, Nhà nước và nhân dân Việt Nam, Anh hùng giải phóng dân tộc, Danh nhân văn hóa kiệt xuất.
+*   **19/05/1890:** Chủ tịch Hồ Chí Minh (tên khai sinh là Nguyễn Sinh Cung, tự Tất Thành) sinh ra tại làng Hoàng Trù (quê ngoại), xã Kim Liên, huyện Nam Đàn, tỉnh Nghệ An. Người sau này trở thành vị lãnh tụ vĩ đại của Đảng, Nhà nước và nhân dân Việt Nam, Anh hùng giải phóng dân tộc, Danh nhân văn hóa kiệt xuất. [Nguồn: https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1332 -->
 *   **1891:** Hải Phòng được coi là thành phố đầu tiên có đèn điện trước cả Hà Nội.
@@ -4372,7 +4372,7 @@
 *   **1904:** Huỳnh Thúc Kháng đỗ Đệ tam giáp Đồng tiến sĩ xuất thân trong kỳ thi Hội và thi Đình năm Giáp Thìn dưới triều vua Thành Thái, cùng Phan Châu Trinh và Trần Quý Cáp khởi xướng phong trào canh tân đất nước.
 
 <!-- id: EVT-1367 -->
-*   **1904:** Phan Bội Châu thành lập Hội Duy tân với mục đích đánh đuổi giặc Pháp, khôi phục Việt Nam, lập ra chính phủ độc lập.
+*   **1904:** Phan Bội Châu thành lập Hội Duy tân với mục đích đánh đuổi giặc Pháp, khôi phục Việt Nam, lập ra chính phủ độc lập. [Nguồn: http://baotanglichsu.vn/vi/Articles/3096/12411/hoi-duy-tan-va-phong-trao-dong-du.html]
 
 <!-- id: EVT-1368 -->
 *   **1904:** Tại Paris (Pháp), cựu hoàng Hàm Nghi (lấy nghệ danh **Tử Xuân** / Prince d'Annam) tham gia triển lãm tác phẩm tại Bảo tàng Guimet (Musée Guimet), giới thiệu các bức họa phấn màu và tác phẩm điêu khắc theo trường phái Ấn tượng sau thời gian thọ giáo các danh họa Marius Reynaud và nhà điêu khắc lừng danh Auguste Rodin, trở thành nghệ sĩ tạo hình hiện đại đầu tiên của Việt Nam có tác phẩm được đón nhận tại phương Tây.
@@ -4381,7 +4381,7 @@
 *   **Cuối năm 1904:** Phan Châu Trinh, Trần Quý Cáp và Huỳnh Thúc Kháng cùng nhau Nam du. Tại Bình Định, các ông mượn kỳ thi hạch để làm bài thơ *Chí thành thông thánh* và bài phú *Lương ngọc danh sơn*, đả kích lối học từ chương.
 
 <!-- id: EVT-1370 -->
-*   **1905:** Phong trào Đông du do Phan Bội Châu khởi xướng bắt đầu, đưa thanh niên yêu nước sang Nhật Bản học tập. Phan Bội Châu viết tác phẩm *Việt Nam vong quốc sử*.
+*   **1905:** Phong trào Đông du do Phan Bội Châu khởi xướng bắt đầu, đưa thanh niên yêu nước sang Nhật Bản học tập. Phan Bội Châu viết tác phẩm *Việt Nam vong quốc sử*. [Nguồn: http://baotanglichsu.vn/vi/Articles/3096/12411/hoi-duy-tan-va-phong-trao-dong-du.html]
 
 ![Hình ảnh tư liệu](images/event_20260924_124308.webp)
 
@@ -4397,7 +4397,7 @@
 *   **14/11/1905:** Sắc lệnh thành lập Nha Học chính Đông Dương, bắt đầu cuộc cải cách giáo dục lần thứ nhất.
 
 <!-- id: EVT-1374 -->
-*   **1906:** Phong trào Duy tân do Phan Châu Trinh, Huỳnh Thúc Kháng, Trần Quý Cáp khởi xướng lan rộng ở Trung Kỳ, chủ trương "khai dân trí, chấn dân khí, hậu dân sinh".
+*   **1906:** Phong trào Duy tân do Phan Châu Trinh, Huỳnh Thúc Kháng, Trần Quý Cáp khởi xướng lan rộng ở Trung Kỳ, chủ trương "khai dân trí, chấn dân khí, hậu dân sinh". [Nguồn: http://baotanglichsu.vn/vi/Articles/3096/19494/phan-chau-trinh-voi-tu-tuong-canh-tan-djat-nuoc.html]
 
 <!-- id: EVT-1375 -->
 *   **1906 - 1908:** Tại làng Phú Lâm (Quảng Nam), Lý trưởng Lê Cơ tiên phong thực hiện cải cách: lập trường học (có trường nữ học đầu tiên trong vùng), hội buôn, đồn điền, trở thành mô hình thực tế của phong trào Duy Tân.
@@ -4487,7 +4487,7 @@
 *   **05/1911:** Trước ngày rời Bến cảng Nhà Rồng sang phương Tây tìm đường cứu nước, người thanh niên yêu nước Nguyễn Tất Thành đã có cuộc chia tay đầy lưu luyến tại Sài Gòn với bà Lê Thị Huệ (Út Huệ) — người con gái mang mối tình đầu trong sáng, son sắt thời thanh niên của Người. Cuộc chia ly lịch sử vì nghĩa lớn giải phóng dân tộc cùng kỷ vật chiếc lược sau này được nhà văn Sơn Tùng khắc họa sâu sắc trong tác phẩm *Búp sen xanh*, trở thành biểu tượng cảm động trong văn học và lịch sử Việt Nam.
 
 <!-- id: EVT-1404 -->
-*   **05/06/1911:** Từ Bến cảng Nhà Rồng (Sài Gòn), người thanh niên yêu nước Nguyễn Tất Thành lấy tên là **Văn Ba** (anh Ba), lên con tàu buôn Pháp *Amiral Latouche-Tréville* nhận làm phụ bếp, bắt đầu cuộc hành trình lịch sử 30 năm bôn ba qua gần 30 quốc gia trên khắp 4 châu lục tìm con đường giải phóng dân tộc.
+*   **05/06/1911:** Từ Bến cảng Nhà Rồng (Sài Gòn), người thanh niên yêu nước Nguyễn Tất Thành lấy tên là **Văn Ba** (anh Ba), lên con tàu buôn Pháp *Amiral Latouche-Tréville* nhận làm phụ bếp, bắt đầu cuộc hành trình lịch sử 30 năm bôn ba qua gần 30 quốc gia trên khắp 4 châu lục tìm con đường giải phóng dân tộc. [Nguồn: https://nhandan.vn/ngay-5-6-1911-nguoi-thanh-nien-nguyen-tat-thanh-ra-di-tim-duong-cuu-nuoc-post649362.html]
 
 ![Hình ảnh tư liệu](images/event_20260924_103200.webp)
 
@@ -4501,7 +4501,7 @@
 *   **06/07/1911:** Tàu *Amiral Latouche-Tréville* cập cảng Marseille (Pháp). Nguyễn Tất Thành (Văn Ba) lần đầu tiên đặt chân lên đất Pháp sau khi vượt hải trình qua các cảng Singapore, Colombo (Sri Lanka) và Port Said (Ai Cập), bắt đầu quá trình khảo sát trực tiếp xã hội phương Tây.
 
 <!-- id: EVT-1406 -->
-*   **25/08/1911:** Đại tướng Võ Nguyên Giáp (tên khai sinh: Võ Giáp, bí danh Văn) sinh ra tại làng An Xá, xã Lộc Thủy, huyện Lệ Thủy, tỉnh Quảng Bình. Ông là nhà chỉ huy quân sự và chính khách lỗi lạc, Đại tướng đầu tiên và Tổng Tư lệnh tối cao của Quân đội Nhân dân Việt Nam, người học trò xuất sắc và gần gũi của Chủ tịch Hồ Chí Minh, một trong những danh tướng kiệt xuất của thế giới trong thế kỷ XX.
+*   **25/08/1911:** Đại tướng Võ Nguyên Giáp (tên khai sinh: Võ Giáp, bí danh Văn) sinh ra tại làng An Xá, xã Lộc Thủy, huyện Lệ Thủy, tỉnh Quảng Bình. Ông là nhà chỉ huy quân sự và chính khách lỗi lạc, Đại tướng đầu tiên và Tổng Tư lệnh tối cao của Quân đội Nhân dân Việt Nam, người học trò xuất sắc và gần gũi của Chủ tịch Hồ Chí Minh, một trong những danh tướng kiệt xuất của thế giới trong thế kỷ XX. [Nguồn: https://baochinhphu.vn/tom-tat-tieu-su-dai-tuong-vo-nguyen-giap-102150438.htm]
 
 <!-- id: EVT-1407 -->
 *   **11/1911:** Albert Sarraut nhậm chức Toàn quyền, tiếp tục đẩy mạnh chính sách "hợp tác" và các cải cách mị dân.
@@ -4522,7 +4522,7 @@
 *   **1913 - 1917:** Nguyễn Tất Thành sang Vương quốc Anh sinh sống và làm việc tại London dưới tên gọi **Paul Thành**. Người trải qua nhiều nghề lao động vất vả như cào tuyết tại một trường học, thợ đốt lò, rồi phụ bếp tại Khách sạn sang trọng Carlton dưới sự chỉ dẫn của bếp trưởng huyền thoại Auguste Escoffier; đồng thời tự học tiếng Anh và gia nhập Hội những người lao động hải ngoại (Overseas Workers Association).
 
 <!-- id: EVT-1413 -->
-*   **10/02/1913:** Thủ lĩnh phong trào khởi nghĩa Yên Thế Hoàng Hoa Thám (Đề Thám) bị tay sai của thực dân Pháp sát hại, đánh dấu sự kết thúc của cuộc khởi nghĩa vũ trang nông dân bền bỉ nhất chống ách đô hộ của Pháp (1884 - 1913).
+*   **10/02/1913:** Thủ lĩnh phong trào khởi nghĩa Yên Thế Hoàng Hoa Thám (Đề Thám) bị tay sai của thực dân Pháp sát hại, đánh dấu sự kết thúc của cuộc khởi nghĩa vũ trang nông dân bền bỉ nhất chống ách đô hộ của Pháp (1884 - 1913). [Nguồn: https://tuoitre.vn/sach-giai-ma-nhieu-bi-an-trong-cuoc-doi-hoang-hoa-tham-594552.htm]
 
 <!-- id: EVT-1414 -->
 *   **19/04/1913:** Thành viên của Việt Nam Quang Phục Hội (Phạm Văn Tráng) ám sát Tuần phủ Thái Bình Nguyễn Duy Hàn.
@@ -4678,7 +4678,7 @@
 *   **11/1920:** Vua Khải Định phong hàm tước cho doanh nhân Bạch Thái Bưởi và người thợ Nguyễn Văn Phúc vì thành tích chế tạo thành công tàu thủy *Bình Chuẩn*, khuyến khích năng lực công nghiệp của người Việt.
 
 <!-- id: EVT-1463 -->
-*   **25-30/12/1920:** Tại Đại hội Tours (Đại hội XVIII) của Đảng Xã hội Pháp, Nguyễn Ái Quốc bỏ phiếu tán thành gia nhập Quốc tế III và trở thành một trong những người sáng lập Đảng Cộng sản Pháp, đánh dấu bước ngoặt từ chủ nghĩa yêu nước đến chủ nghĩa Mác-Lênin.
+*   **25-30/12/1920:** Tại Đại hội Tours (Đại hội XVIII) của Đảng Xã hội Pháp, Nguyễn Ái Quốc bỏ phiếu tán thành gia nhập Quốc tế III và trở thành một trong những người sáng lập Đảng Cộng sản Pháp, đánh dấu bước ngoặt từ chủ nghĩa yêu nước đến chủ nghĩa Mác-Lênin. [Nguồn: https://nhandan.vn/theo-dau-chan-bac-ho-tro-lai-tp-tours-post192039.html]
 
 <!-- id: EVT-1464 -->
 *   **1921:** Sau 13 năm kiên cường chịu cảnh tù đày khổ sai tại Côn Đảo với khí tiết bất khuất, Huỳnh Thúc Kháng được thực dân Pháp trả tự do về đất liền.
@@ -4825,7 +4825,7 @@
 *   **08/03/1925:** Toàn quyền Đông Dương Martial Merlin ra tuyên bố chính thức khẳng định hai quần đảo Hoàng Sa và Trường Sa là lãnh thổ thuộc chủ quyền của Pháp (với tư cách là đại diện bảo hộ cho Nhà nước An Nam).
 
 <!-- id: EVT-1508 -->
-*   **06/1925:** Nguyễn Ái Quốc cùng Hồ Tùng Mậu và các chiến sĩ cách mạng thành lập Hội Việt Nam Cách mạng Thanh niên (Việt Nam Thanh niên Cách mạng Đồng chí Hội) tại Quảng Châu (Trung Quốc), tổ chức các khóa đào tạo lý luận Mác-Lênin chuẩn bị về tư tưởng và tổ chức cho sự ra đời của Đảng Cộng sản Việt Nam.
+*   **06/1925:** Nguyễn Ái Quốc cùng Hồ Tùng Mậu và các chiến sĩ cách mạng thành lập Hội Việt Nam Cách mạng Thanh niên (Việt Nam Thanh niên Cách mạng Đồng chí Hội) tại Quảng Châu (Trung Quốc), tổ chức các khóa đào tạo lý luận Mác-Lênin chuẩn bị về tư tưởng và tổ chức cho sự ra đời của Đảng Cộng sản Việt Nam. [Nguồn: http://baotanglichsu.vn/vi/Articles/3096/12467/su-thanh-lap-hoi-viet-nam-cach-mang-thanh-nien-6-1925.html]
 
 ![Hình ảnh tư liệu](images/event_20260924_111707.webp)
 
