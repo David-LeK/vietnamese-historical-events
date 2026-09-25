@@ -4312,7 +4312,7 @@
 *   **1898:** Thực dân Pháp bắt đầu xây dựng hàng loạt công trình hạ tầng lớn, bao gồm các tuyến đường sắt Hà Nội - Nam Định - Vinh, Đà Nẵng - Huế, Sài Gòn - Khánh Hòa...
 
 <!-- id: EVT-1347 -->
-*   **09/1898:** Khởi công xây dựng cầu Long Biên tại Hà Nội.
+*   **09/1898:** Khởi công xây dựng cầu Long Biên tại Hà Nội. [Nguồn: Bảo tàng Lịch sử Quốc gia - Phương hướng bảo vệ và phát huy giá trị di tích Cầu Long Biên (Hà Nội), https://baotanglichsu.vn/vi/Articles/3096/16968/phuong-huong-bao-ve-va-phat-huy-gia-tri-di-tich-cau-long-bien-ha-noi-phan-1.html]
 
 <!-- id: EVT-1348 -->
 *   **01/09/1898:** Học giả Trương Vĩnh Ký tạ thế tại tư gia ở Chợ Quán (Sài Gòn), thọ 60 tuổi. Ông để lại di sản trước tác đồ sộ gồm hơn 100 tác phẩm khảo cứu ngôn ngữ, lịch sử, văn hóa, giáo dục và biên dịch các tác phẩm kinh điển (*Truyện Kiều*, *Lục Vân Tiên*) sang chữ Quốc ngữ, cùng phương châm sống trăn trở được khắc trên mộ phần: *"Sic vos non vobis"* (Các bạn làm việc nhưng không phải cho mình).
@@ -4351,7 +4351,7 @@
 *   **01/09/1901:** Báo *Nông Cổ Mín Đàm*, một trong những tờ báo chữ Quốc ngữ quan trọng đầu tiên, ra đời tại Sài Gòn.
 
 <!-- id: EVT-1360 -->
-*   **1902:** Cầu Long Biên (Hà Nội) và tuyến đường sắt Hà Nội - Hải Phòng hoàn thành. Trường Y khoa Đông Dương được thành lập.
+*   **1902:** Cầu Long Biên (Hà Nội) và tuyến đường sắt Hà Nội - Hải Phòng hoàn thành. Trường Y khoa Đông Dương được thành lập. [Nguồn: Bảo tàng Lịch sử Quốc gia - Cầu Long Biên - Nơi lắng đọng ký ức Hà Nội, https://baotanglichsu.vn/vi/Articles/3096/15820/cau-long-bien-noi-lang-djong-ky-uc-ha-noi.html]
 
 <!-- id: EVT-1361 -->
 *   **01/07/1902:** Paul Beau nhậm chức Toàn quyền, thay thế Paul Doumer và bắt đầu thực thi chính sách "hợp tác với người bản xứ".
@@ -4363,7 +4363,7 @@
 *   **20/12/1902:** Toàn quyền Đông Dương ra nghị định chính thức thực hiện chế độ độc quyền về rượu trên toàn cõi Việt Nam.
 
 <!-- id: EVT-1364 -->
-*   **1903:** Phan Bội Châu gặp Nguyễn Thành (Tiểu La) tại Quảng Nam để bàn định phương lược cứu nước, thống nhất liên kết dư đảng Cần Vương và cầu ngoại viện.
+*   **1903:** Phan Bội Châu gặp Nguyễn Thành (Tiểu La) tại Quảng Nam để bàn định phương lược cứu nước, thống nhất liên kết dư đảng Cần Vương và cầu ngoại viện. [Nguồn: Báo Đà Nẵng - Tiểu La - nhà chí sĩ yêu nước chủ trương hành động, https://baodanang.vn/tieu-la-nha-chi-si-yeu-nuoc-chu-truong-hanh-dong-3034997.html]
 
 <!-- id: EVT-1365 -->
 *   **1904:** Cuộc "cải lương hương chính" đầu tiên được Pháp thí điểm ở Nam Kỳ nhằm kiểm soát chặt chẽ hơn bộ máy hành chính làng xã.
@@ -4415,7 +4415,7 @@
 *   **1907:** Dục Thanh học hiệu được các nhà sáng lập Liên Thành thương quán lập ra để dạy những tư tưởng tiến bộ yêu nước cho con em lao động nghèo.
 
 <!-- id: EVT-1380 -->
-*   **03/1907:** Các sĩ phu yêu nước Lương Văn Can, Nguyễn Quyền, Nguyễn Hữu Cầu (Giản Thạch) cùng sáng lập Đông Kinh Nghĩa Thục tại số 4 Hàng Đào (Hà Nội), mở các lớp dạy chữ Quốc ngữ cho cả nam và nữ, truyền bá tư tưởng duy tân và nâng cao dân trí.
+*   **03/1907:** Các sĩ phu yêu nước Lương Văn Can, Nguyễn Quyền, Nguyễn Hữu Cầu (Giản Thạch) cùng sáng lập Đông Kinh Nghĩa Thục tại số 4 Hàng Đào (Hà Nội), mở các lớp dạy chữ Quốc ngữ cho cả nam và nữ, truyền bá tư tưởng duy tân và nâng cao dân trí. [Nguồn: Bảo tàng Lịch sử Quốc gia - Đông Kinh Nghĩa Thục và tư tưởng cải cách giáo dục, https://baotanglichsu.vn/vi/Articles/2001/66339/djong-kinh-nghia-thuc-va-tu-tuong-cai-cach-giao-duc.html]
 
 <!-- id: EVT-1381 -->
 *   **07/04/1907:** Lê Duẩn sinh ra tại Triệu Phong, Quảng Trị. Ông sau này trở thành Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, nhà lãnh đạo kiệt xuất của cách mạng Việt Nam.
@@ -4424,7 +4424,7 @@
 *   **05/1907:** Đông Kinh Nghĩa Thục chính thức được cấp giấy phép, mở rộng quy mô dạy học, diễn thuyết và cổ động thực nghiệp.
 
 <!-- id: EVT-1383 -->
-*   **03/09/1907 (Đinh Mùi):** Thực dân Pháp ép vua Thành Thái phải thoái vị với cớ 'bệnh tâm thần' do nhà vua kiên quyết chống đối sự bảo hộ và luôn ủng hộ các sĩ phu yêu nước, sau đó đưa ông đi quản thúc tại Vũng Tàu. Đến ngày 05/09/1907, con trai nhà vua là Hoàng tử Vĩnh San (mới 7 tuổi) được đưa lên nối ngôi (vua Duy Tân).
+*   **03/09/1907 (Đinh Mùi):** Thực dân Pháp ép vua Thành Thái phải thoái vị với cớ 'bệnh tâm thần' do nhà vua kiên quyết chống đối sự bảo hộ và luôn ủng hộ các sĩ phu yêu nước, sau đó đưa ông đi quản thúc tại Vũng Tàu. Đến ngày 05/09/1907, con trai nhà vua là Hoàng tử Vĩnh San (mới 7 tuổi) được đưa lên nối ngôi (vua Duy Tân). [Nguồn: Bảo tàng Lịch sử Quốc gia - Hoàng đế Thành Thái - Vị vua yêu nước của vương triều Nguyễn, https://baotanglichsu.vn/vi/Articles/3098/15571/hoang-dje-thanh-thai-vi-vua-yeu-nuoc-cua-vuong-trieu-nguyen.html]
 
 <!-- id: EVT-1384 -->
 *   **10/11/1907:** Đại học Đông Dương khai giảng khóa đầu tiên.
@@ -4433,7 +4433,7 @@
 *   **1908:** Bài *Thiết tiền ca* của Nguyễn Phan Lăng (Đoàn Xuyên) được phổ biến, kêu gọi tẩy chay tiền sắt của Pháp, gây ảnh hưởng lớn đến chính sách kinh tế của thực dân.
 
 <!-- id: EVT-1386 -->
-*   **1908:** Thực dân Pháp và Nam triều đàn áp đẫm máu phong trào. Tiến sĩ **Trần Quý Cáp** bị xử chém tại Khánh Hòa; **Lê Khiết** và **Nguyễn Bá Loan** bị xử chém tại Quảng Ngãi. **Phan Châu Trinh** bị bắt, kết án tử hình rồi giảm án thành đày ra Côn Đảo.
+*   **1908:** Thực dân Pháp và Nam triều đàn áp đẫm máu phong trào. Tiến sĩ **Trần Quý Cáp** bị xử chém tại Khánh Hòa; **Lê Khiết** và **Nguyễn Bá Loan** bị xử chém tại Quảng Ngãi. **Phan Châu Trinh** bị bắt, kết án tử hình rồi giảm án thành đày ra Côn Đảo. [Nguồn: Bảo tàng Lịch sử Quốc gia - Chí sĩ Trần Quý Cáp – người thầy “khai dân trí, chấn dân khí” truyền lửa yêu nước, https://baotanglichsu.vn/vi/Articles/3098/72869/chi-si-tran-quy-cap-nguoi-thay-khai-dan-tri-chan-dan-khi-truyen-lua-yeu-nuoc.html]
 
 <!-- id: EVT-1387 -->
 *   **1908:** Do tham gia lãnh đạo phong trào Duy Tân và phong trào chống sưu thuế ở Trung Kỳ, Huỳnh Thúc Kháng bị thực dân Pháp bắt giam và kết án đày ra nhà tù Côn Đảo với mức án 13 năm khổ sai.
@@ -4448,10 +4448,10 @@
 *   **04/1908:** Trong phong trào chống sưu thuế sôi nổi của nhân dân Trung Kỳ, người thanh niên yêu nước Nguyễn Tất Thành tham gia cuộc biểu tình của nông dân tại kinh thành Huế và làm người thông ngôn chuyển đạt nguyện vọng giảm sưu thuế trước Tòa Khâm sứ Pháp.
 
 <!-- id: EVT-1391 -->
-*   **27/06/1908:** Vụ "Hà thành đầu độc" nổ ra, một nhóm binh lính người Việt và các nhà yêu nước mưu đồ đầu độc binh lính Pháp ở Hà Nội và khởi nghĩa nhưng thất bại.
+*   **27/06/1908:** Vụ "Hà thành đầu độc" nổ ra, một nhóm binh lính người Việt và các nhà yêu nước mưu đồ đầu độc binh lính Pháp ở Hà Nội và khởi nghĩa nhưng thất bại. [Nguồn: Bảo tàng Lịch sử Quốc gia - Nhìn lại vụ binh biến Hà Thành 1908, https://baotanglichsu.vn/vi/Articles/3096/11569/nhin-lai-vu-binh-bien-ha-thanh-1908.html]
 
 <!-- id: EVT-1392 -->
-*   **09/1908:** Pháp và Nhật ký hiệp ước, theo đó chính phủ Nhật trục xuất các nhà yêu nước và du học sinh Việt Nam, Phong trào Đông du tan rã.
+*   **09/1908:** Pháp và Nhật ký hiệp ước, theo đó chính phủ Nhật trục xuất các nhà yêu nước và du học sinh Việt Nam, Phong trào Đông du tan rã. [Nguồn: Bảo tàng Lịch sử Quốc gia - Phong trào Đông Du (1905 – 1908) - Một hình thức xây dựng lực lượng cách mạng những năm đầu thế kỷ XX, https://baotanglichsu.vn/vi/Articles/3097/14624/phong-trao-djongdu-1905-1908-mot-hinh-thuc-xay-dung-luc-luong-cach-mang-nhung-namdjau-the-ky-xx.html]
 
 <!-- id: EVT-1393 -->
 *   **12/1908:** Thực dân Pháp ra lệnh đóng cửa trường Đông Kinh Nghĩa thục và đàn áp những người tham gia.
@@ -4510,7 +4510,7 @@
 *   **18/11/1911:** Đạo Tin Lành đặt cơ sở đầu tiên tại Đà Nẵng, chính thức du nhập vào Việt Nam.
 
 <!-- id: EVT-1409 -->
-*   **05/1912:** Phan Bội Châu thành lập Hội Việt Nam Quang Phục tại Quảng Châu (Trung Quốc), chuyển từ chủ trương quân chủ lập hiến sang dân chủ cộng hòa.
+*   **05/1912:** Phan Bội Châu thành lập Hội Việt Nam Quang Phục tại Quảng Châu (Trung Quốc), chuyển từ chủ trương quân chủ lập hiến sang dân chủ cộng hòa. [Nguồn: Bảo tàng Lịch sử Quốc gia - Duy Tân hội - Một tổ chức chống Pháp những năm đầu thế kỷ XX ở Việt Nam, https://baotanglichsu.vn/vi/Articles/2001/68013/duy-tan-hoi-mot-to-chuc-chong-phap-nhung-nam-djau-the-ky-xx-o-viet-nam.html]
 
 <!-- id: EVT-1410 -->
 *   **Cuối năm 1912:** Nguyễn Tất Thành đến Hợp chúng quốc Hoa Kỳ, sinh sống và làm việc tại New York và Boston. Người làm thợ làm bánh tại Khách sạn Omni Parker House (Boston), tìm hiểu bản Tuyên ngôn Độc lập năm 1776 của Mỹ và theo dõi phong trào đấu tranh đòi quyền bình đẳng của người da màu tại khu Harlem (New York).
@@ -4579,7 +4579,7 @@
 *   **08/1916:** Vua Khải Định ra lệnh cấm dân chúng mặc quần áo màu vàng và các màu gần với màu vàng để phân biệt tôn ti.
 
 <!-- id: EVT-1431 -->
-*   **30/08/1917:** Cuộc khởi nghĩa Thái Nguyên bùng nổ do Trịnh Văn Cấn (Đội Cấn) và Lương Ngọc Quyến lãnh đạo. Nghĩa quân làm chủ tỉnh lỵ trong 6 ngày.
+*   **30/08/1917:** Cuộc khởi nghĩa Thái Nguyên bùng nổ do Trịnh Văn Cấn (Đội Cấn) và Lương Ngọc Quyến lãnh đạo. Nghĩa quân làm chủ tỉnh lỵ trong 6 ngày. [Nguồn: Bảo tàng Lịch sử Quốc gia - Cả gia đình hi sinh cho sự nghiệp canh tân đất nước, https://baotanglichsu.vn/vi/Articles/3098/18575/ca-gia-djinh-hi-sinh-cho-su-nghiep-canh-tan-djat-nuoc.html]
 
 <!-- id: EVT-1432 -->
 *   **05/09/1917:** Quân Pháp phản công và chiếm lại tỉnh lỵ Thái Nguyên.

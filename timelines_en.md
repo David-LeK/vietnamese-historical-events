@@ -4311,7 +4311,7 @@
 *   **1898:** The French colonialists began constructing numerous large-scale infrastructure projects, including the Hanoi - Nam Dinh - Vinh, Da Nang - Hue, and Saigon - Khanh Hoa railway lines.
 
 <!-- id: EVT-1347 -->
-*   **Sep. 1898:** Construction began on the Long Bien Bridge in Hanoi.
+*   **Sep. 1898:** Construction began on the Long Bien Bridge in Hanoi. [Source: Vietnam National Museum of History - Directions for Preserving and Promoting the Value of the Long Bien Bridge Historical Relic (Hanoi), https://baotanglichsu.vn/vi/Articles/3096/16968/phuong-huong-bao-ve-va-phat-huy-gia-tri-di-tich-cau-long-bien-ha-noi-phan-1.html]
 
 <!-- id: EVT-1348 -->
 *   **Sep. 1, 1898:** Scholar Trương Vĩnh Ký passed away at his residence in Chợ Quán (Saigon) at age 60. He left a monumental legacy of over 100 works spanning linguistics, history, culture, education, and romanized transcriptions of literary classics (*Truyện Kiều*, *Lục Vân Tiên*), alongside his reflective epitaph: *"Sic vos non vobis"* (You work, but not for yourselves).
@@ -4350,7 +4350,7 @@
 *   **Sep. 1, 1901:** *Nong Co Min Dam*, one of the first important newspapers in the Quoc Ngu script, was launched in Saigon.
 
 <!-- id: EVT-1360 -->
-*   **1902:** The Long Bien Bridge (Hanoi) and the Hanoi - Haiphong railway line were completed. The Indochina Medical School was founded.
+*   **1902:** The Long Bien Bridge (Hanoi) and the Hanoi - Haiphong railway line were completed. The Indochina Medical School was founded. [Source: Vietnam National Museum of History - Long Bien Bridge: Where Hanoi's Memories Linger, https://baotanglichsu.vn/vi/Articles/3096/15820/cau-long-bien-noi-lang-djong-ky-uc-ha-noi.html]
 
 <!-- id: EVT-1361 -->
 *   **Jul. 1, 1902:** Paul Beau assumed the post of Governor-General, replacing Paul Doumer, and began implementing a policy of "association with the natives."
@@ -4362,7 +4362,7 @@
 *   **Dec. 20, 1902:** The Governor-General of Indochina issued a decree officially implementing a monopoly on alcohol throughout Vietnam.
 
 <!-- id: EVT-1364 -->
-*   **1903:** Phan Boi Chau met Nguyen Thanh (Tieu La) in Quang Nam to discuss revolutionary strategies, agreeing to unite former Can Vuong members, support Prince Cuong De, and seek foreign aid.
+*   **1903:** Phan Boi Chau met Nguyen Thanh (Tieu La) in Quang Nam to discuss revolutionary strategies, agreeing to unite former Can Vuong members, support Prince Cuong De, and seek foreign aid. [Source: Da Nang Newspaper - Tieu La: The Patriotic Scholar Advocating Action, https://baodanang.vn/tieu-la-nha-chi-si-yeu-nuoc-chu-truong-hanh-dong-3034997.html]
 
 <!-- id: EVT-1365 -->
 *   **1904:** The first "reform of village administration" was piloted by the French in Cochinchina to tighten control over the village administrative apparatus.
@@ -4414,7 +4414,7 @@
 *   **1907:** Duc Thanh Hoc Hieu (Duc Thanh School) was established by the founders of Lien Thanh to teach progressive patriotic ideas to the children of poor laborers.
 
 <!-- id: EVT-1380 -->
-*   **Mar. 1907:** Patriotic scholars Luong Van Can, Nguyen Quyen, and Nguyen Huu Cau (Gian Thach) co-founded Dong Kinh Nghia Thuc (Tonkin Free School) at 4 Hang Dao (Hanoi), offering Quoc Ngu classes for both men and women to spread reformist ideas and modernize education.
+*   **Mar. 1907:** Patriotic scholars Luong Van Can, Nguyen Quyen, and Nguyen Huu Cau (Gian Thach) co-founded Dong Kinh Nghia Thuc (Tonkin Free School) at 4 Hang Dao (Hanoi), offering Quoc Ngu classes for both men and women to spread reformist ideas and modernize education. [Source: Vietnam National Museum of History - Dong Kinh Nghia Thuc and Educational Reform Thought, https://baotanglichsu.vn/vi/Articles/2001/66339/djong-kinh-nghia-thuc-va-tu-tuong-cai-cach-giao-duc.html]
 
 <!-- id: EVT-1381 -->
 *   **Apr. 7, 1907:** Le Duan was born in Trieu Phong, Quang Tri. He later became the General Secretary of the Communist Party of Vietnam, a prominent leader of the Party and the Vietnamese revolution.
@@ -4423,7 +4423,7 @@
 *   **May 1907:** Dong Kinh Nghia Thuc was officially granted a license, expanding its activities in teaching, public speaking, and promoting industry and commerce.
 
 <!-- id: EVT-1383 -->
-*   **Sep. 3, 1907 (Dinh Mui year):** French colonial authorities forced Emperor Thanh Thai to abdicate on fabricated pretexts of mental illness due to his defiance of colonial dictate and sympathy for nationalist movements, interning him at Cap Saint-Jacques (Vung Tau). On September 5, 1907, his seven-year-old son Prince Vinh San was enthroned as Emperor Duy Tan.
+*   **Sep. 3, 1907 (Dinh Mui year):** French colonial authorities forced Emperor Thanh Thai to abdicate on fabricated pretexts of mental illness due to his defiance of colonial dictate and sympathy for nationalist movements, interning him at Cap Saint-Jacques (Vung Tau). On September 5, 1907, his seven-year-old son Prince Vinh San was enthroned as Emperor Duy Tan. [Source: Vietnam National Museum of History - Emperor Thanh Thai: The Patriotic King of the Nguyen Dynasty, https://baotanglichsu.vn/vi/Articles/3098/15571/hoang-dje-thanh-thai-vi-vua-yeu-nuoc-cua-vuong-trieu-nguyen.html]
 
 <!-- id: EVT-1384 -->
 *   **Nov. 10, 1907:** The University of Indochina opened its first academic year.
@@ -4432,7 +4432,7 @@
 *   **1908:** The poem *Thiet tien ca* (Iron Money Song) by Nguyen Phan Lang was circulated, calling for a boycott of French iron coins, causing significant economic disruption for the colonial administration.
 
 <!-- id: EVT-1386 -->
-*   **1908:** The colonial administration brutally suppressed the Duy Tan movement. Dr. **Tran Qui Cap** was executed in Khanh Hoa; **Le Khiet** and **Nguyen Ba Loan** were executed in Quang Ngai. **Phan Chau Trinh** was arrested, sentenced to death, but later commuted to exile in Con Dao.
+*   **1908:** The colonial administration brutally suppressed the Duy Tan movement. Dr. **Tran Qui Cap** was executed in Khanh Hoa; **Le Khiet** and **Nguyen Ba Loan** were executed in Quang Ngai. **Phan Chau Trinh** was arrested, sentenced to death, but later commuted to exile in Con Dao. [Source: Vietnam National Museum of History - Patriotic Scholar Tran Quy Cap: The Teacher of Intellectual Awakening and Patriotism, https://baotanglichsu.vn/vi/Articles/3098/72869/chi-si-tran-quy-cap-nguoi-thay-khai-dan-tri-chan-dan-khi-truyen-lua-yeu-nuoc.html]
 
 <!-- id: EVT-1387 -->
 *   **1908:** Due to his leadership in the Duy Tan (Modernization) Movement and the anti-tax resistance across Central Vietnam, Huynh Thuc Khang was arrested by French colonial authorities and exiled to hard labor at Con Dao Prison for 13 years.
@@ -4447,10 +4447,10 @@
 *   **Apr. 1908:** During the anti-tax protest movement in Central Vietnam, patriotic youth Nguyen Tat Thanh joined peasant demonstrations in Hue and acted as an interpreter presenting the people's petitions to reduce taxes before the French Superior Residency.
 
 <!-- id: EVT-1391 -->
-*   **Jun. 27, 1908:** The "Hanoi Poisoning Plot" broke out, in which a group of Vietnamese soldiers and patriots attempted to poison French soldiers in Hanoi and launch an uprising, but it failed.
+*   **Jun. 27, 1908:** The "Hanoi Poisoning Plot" broke out, in which a group of Vietnamese soldiers and patriots attempted to poison French soldiers in Hanoi and launch an uprising, but it failed. [Source: Vietnam National Museum of History - Looking Back at the 1908 Hanoi Mutiny, https://baotanglichsu.vn/vi/Articles/3096/11569/nhin-lai-vu-binh-bien-ha-thanh-1908.html]
 
 <!-- id: EVT-1392 -->
-*   **Sep. 1908:** France and Japan signed a treaty, under which the Japanese government expelled Vietnamese patriots and students, leading to the collapse of the Dong Du Movement.
+*   **Sep. 1908:** France and Japan signed a treaty, under which the Japanese government expelled Vietnamese patriots and students, leading to the collapse of the Dong Du Movement. [Source: Vietnam National Museum of History - The Dong Du Movement (1905 - 1908): A Form of Revolutionary Force Building in the Early 20th Century, https://baotanglichsu.vn/vi/Articles/3097/14624/phong-trao-djongdu-1905-1908-mot-hinh-thuc-xay-dung-luc-luong-cach-mang-nhung-namdjau-the-ky-xx.html]
 
 <!-- id: EVT-1393 -->
 *   **Dec. 1908:** The French colonialists ordered the closure of the Dong Kinh Nghia Thuc school and suppressed its participants.
@@ -4509,7 +4509,7 @@
 *   **Nov. 18, 1911:** Protestantism established its first base in Da Nang, officially entering Vietnam.
 
 <!-- id: EVT-1409 -->
-*   **May 1912:** Phan Boi Chau founded the Viet Nam Quang Phuc Hoi (Vietnam Restoration League) in Guangzhou (China), shifting from a constitutional monarchy stance to a democratic republic.
+*   **May 1912:** Phan Boi Chau founded the Viet Nam Quang Phuc Hoi (Vietnam Restoration League) in Guangzhou (China), shifting from a constitutional monarchy stance to a democratic republic. [Source: Vietnam National Museum of History - Duy Tan Hoi: An Anti-French Organization in Early 20th Century Vietnam, https://baotanglichsu.vn/vi/Articles/2001/68013/duy-tan-hoi-mot-to-chuc-chong-phap-nhung-nam-djau-the-ky-xx-o-viet-nam.html]
 
 <!-- id: EVT-1410 -->
 *   **Late 1912:** Nguyen Tat Thanh arrived in the United States, living and working in New York and Boston. He worked as a pastry cook at the Omni Parker House Hotel in Boston, studied the 1776 US Declaration of Independence, and observed the civil rights struggles of African Americans in Harlem (New York).
@@ -4578,7 +4578,7 @@
 *   **Aug. 1916:** Emperor Khai Dinh issued a ban on commoners wearing yellow clothing and colors resembling yellow to maintain distinction from royalty.
 
 <!-- id: EVT-1431 -->
-*   **Aug. 30, 1917:** The Thai Nguyen Uprising broke out, led by Trinh Van Can (Doi Can) and Luong Ngoc Quyen. The rebels controlled the provincial capital for six days.
+*   **Aug. 30, 1917:** The Thai Nguyen Uprising broke out, led by Trinh Van Can (Doi Can) and Luong Ngoc Quyen. The rebels controlled the provincial capital for six days. [Source: Vietnam National Museum of History - A Family Sacrificing for the Cause of National Modernization, https://baotanglichsu.vn/vi/Articles/3098/18575/ca-gia-djinh-hi-sinh-cho-su-nghiep-canh-tan-djat-nuoc.html]
 
 <!-- id: EVT-1432 -->
 *   **Sep. 5, 1917:** French forces counter-attacked and recaptured the provincial capital of Thai Nguyen.
