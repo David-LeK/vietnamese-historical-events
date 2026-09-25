@@ -6291,7 +6291,7 @@
 * **1951:** Liệt sĩ Mạc Thị Bưởi (Tham gia chiến dịch Trần Hưng Đạo, bị quân Pháp bắt giữ. Hy sinh trong tù năm 1951, truy tặng Anh hùng) anh dũng hy sinh trong khi thực hiện nhiệm vụ chiến đấu bảo vệ Tổ quốc.
 
 <!-- id: EVT-1956 -->
-*   **11 - 19/02/1951:** Đại hội đại biểu toàn quốc lần thứ II của Đảng diễn ra tại xã Vinh Quang, huyện Chiêm Hóa, Tuyên Quang, quyết định đưa Đảng ra hoạt động công khai lấy tên là Đảng Lao động Việt Nam. Đại hội bầu Ban Chấp hành Trung ương mới do Chủ tịch Hồ Chí Minh làm Chủ tịch Đảng và đồng chí Trường Chinh tiếp tục giữ chức Tổng Bí thư, thông qua Chính cương của Đảng Lao động Việt Nam đẩy mạnh cuộc kháng chiến chống thực dân Pháp đến thắng lợi hoàn toàn.
+*   **11 - 19/02/1951:** Đại hội đại biểu toàn quốc lần thứ II của Đảng diễn ra tại xã Vinh Quang, huyện Chiêm Hóa, Tuyên Quang, quyết định đưa Đảng ra hoạt động công khai lấy tên là Đảng Lao động Việt Nam. Đại hội bầu Ban Chấp hành Trung ương mới do Chủ tịch Hồ Chí Minh làm Chủ tịch Đảng và đồng chí Trường Chinh tiếp tục giữ chức Tổng Bí thư, thông qua Chính cương của Đảng Lao động Việt Nam đẩy mạnh cuộc kháng chiến chống thực dân Pháp đến thắng lợi hoàn toàn. [Nguồn: https://nhandan.vn/dai-hoi-dai-bieu-toan-quoc-lan-thu-ii-dang-cam-quyen-lanh-dao-toan-dan-vua-khang-chien-vua-kien-quoc-post478502.html]
     *   Quyết định đưa Đảng ra hoạt động công khai với tên mới là **Đảng Lao động Việt Nam**, khẳng định lấy chủ nghĩa Mác-Lênin làm nền tảng tư tưởng và kim chỉ nam cho mọi hành động.
     *   Thông qua Chính cương, Điều lệ mới và bầu Ban Chấp hành Trung ương. Hồ Chí Minh được bầu làm Chủ tịch Đảng, Trường Chinh làm Tổng Bí thư.
     *   Đồng chí Lê Duẩn được bầu vào Ban Chấp hành Trung ương và Bộ Chính trị. Với cương vị Bí thư Trung ương Cục miền Nam, ông trực tiếp lãnh đạo cuộc kháng chiến ở Nam Bộ.
@@ -6306,7 +6306,7 @@
 *   **23/03 - 07/04/1951:** Mở Chiến dịch Hoàng Hoa Thám (còn gọi là Chiến dịch đường số 18), tiến công phòng tuyến địch ở khu vực từ Phả Lại đến Uông Bí, Mạo Khê.
 
 <!-- id: EVT-1960 -->
-*   **06/05/1951:** Chủ tịch Hồ Chí Minh ký sắc lệnh số 15/SL thành lập **Ngân hàng Quốc gia Việt Nam**.
+*   **06/05/1951:** Chủ tịch Hồ Chí Minh ký sắc lệnh số 15/SL thành lập **Ngân hàng Quốc gia Việt Nam**. [Nguồn: https://sbv.gov.vn/en/w/sbvwebapp01sbv072934]
 
 <!-- id: EVT-1961 -->
 *   **17/05/1951:** Tổng thống Philippin Elpidio Quirino lên tiếng đòi hỏi chủ quyền đối với quần đảo Trường Sa cho Philippin, dựa trên lập luận về tính kế cận địa lý.
@@ -6510,7 +6510,7 @@
 *   **14 - 23/11/1953:** Hội nghị toàn quốc lần thứ nhất của Đảng họp thảo luận và thông qua Cương lĩnh ruộng đất.
 
 <!-- id: EVT-2028 -->
-*   **20/11/1953:** Quân Pháp nhảy dù chiếm đóng Điện Biên Phủ (Cuộc hành quân Castor), bắt đầu xây dựng nơi đây thành một tập đoàn cứ điểm mạnh nhất Đông Dương.
+*   **20/11/1953:** Quân Pháp nhảy dù chiếm đóng Điện Biên Phủ (Cuộc hành quân Castor), bắt đầu xây dựng nơi đây thành một tập đoàn cứ điểm mạnh nhất Đông Dương. [Nguồn: https://archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/dien-bien-phu-chien-dich-mang-lai-hoa-binh-o-dong-duong.htm]
 
 <!-- id: EVT-2029 -->
 *   **26/11/1953:** Chủ tịch Hồ Chí Minh trả lời phỏng vấn báo *Expressen* (Thụy Điển), nêu rõ thiện chí hòa bình và khẳng định lập trường đàm phán của Việt Nam.
@@ -6519,7 +6519,7 @@
 *   **12/1953:** Chủ tịch Hồ Chí Minh chuyển đến ở và làm việc tại lán và hầm an toàn núi Nà Lơi, xã Kim Quan (huyện Yên Sơn, tỉnh Tuyên Quang), biến ATK Kim Quan thành "tổng hành dinh" trực tiếp chỉ đạo Chiến dịch Đông Xuân 1953-1954 và Chiến dịch Điện Biên Phủ.
 
 <!-- id: EVT-2031 -->
-*   **06/12/1953:** Tại lán Tỉn Keo (ATK Định Hóa, Thái Nguyên), Bộ Chính trị họp thông qua quyết tâm mở **Chiến dịch Điện Biên Phủ** (mật danh "Trần Đình"), cử Đại tướng Võ Nguyên Giáp làm Chỉ huy trưởng kiêm Bí thư Đảng ủy chiến dịch. Trước khi Đại tướng lên đường ra mặt trận, Chủ tịch Hồ Chí Minh căn dặn: *"Trận này rất quan trọng, phải đánh cho thắng, chắc thắng mới đánh, không chắc thắng không đánh. Trao cho chú toàn quyền quyết định"*.
+*   **06/12/1953:** Tại lán Tỉn Keo (ATK Định Hóa, Thái Nguyên), Bộ Chính trị họp thông qua quyết tâm mở **Chiến dịch Điện Biên Phủ** (mật danh "Trần Đình"), cử Đại tướng Võ Nguyên Giáp làm Chỉ huy trưởng kiêm Bí thư Đảng ủy chiến dịch. Trước khi Đại tướng lên đường ra mặt trận, Chủ tịch Hồ Chí Minh căn dặn: *"Trận này rất quan trọng, phải đánh cho thắng, chắc thắng mới đánh, không chắc thắng không đánh. Trao cho chú toàn quyền quyết định"*. [Nguồn: https://nhandan.vn/an-toan-khu-dinh-hoa-noi-khoi-nguon-chien-thang-dien-bien-phu-post457551.html]
 
 <!-- id: EVT-2032 -->
 *   **10 - 12/12/1953:** Bộ đội Việt Nam tiêu diệt nhóm tàn quân Thái rút chạy tại Mường Pồn (10/12) và tiến vào giải phóng thị xã Lai Châu (12/12) sau khi quân Pháp rút về Điện Biên Phủ.
@@ -6567,10 +6567,10 @@
 *   **20/01 - 05/1954:** **Chiến dịch Át-lăng (Opération Atlante):** Thực dân Pháp mở cuộc hành quân quy mô lớn Atlante đánh chiếm vùng tự do duyên hải Nam Trung Bộ (Phú Yên, Bình Định) trong khuôn khổ Kế hoạch Navarre, huy động hơn 20 tiểu đoàn cơ động cùng hải quân và không quân hòng tiêu diệt khối chủ lực Liên khu 5. Dưới sự lãnh đạo của Đảng, quân và dân Liên khu 5 đã kiên cường bám trụ đánh tiêu hao quân Pháp, đồng thời phối hợp mở Chiến dịch Bắc Tây Nguyên giải phóng tỉnh Kon Tum và tiêu diệt Binh đoàn Cơ động 100 sừng sỏ của Pháp tại Đắk Pơ, bẻ gãy hoàn toàn chiến dịch Atlante và làm phá sản dã tâm bình định Nam Trung Bộ của thực dân Pháp.
 
 <!-- id: EVT-2047 -->
-*   **26/01/1954:** Tại Sở chỉ huy Mường Phăng (Điện Biên), Chỉ huy trưởng chiến dịch Đại tướng Võ Nguyên Giáp đưa ra quyết định lịch sử: hoãn nổ súng, lệnh cho các đơn vị lui về điểm tập kết và kéo pháo ra, chính thức chuyển phương châm tác chiến từ "đánh nhanh, thắng nhanh" sang **"đánh chắc, tiến chắc"**. Đây được ghi nhận là quyết định khó khăn nhất và sáng suốt nhất trong sự nghiệp cầm quân của Đại tướng, bảo đảm nền tảng vững chắc đưa Chiến dịch Điện Biên Phủ đến toàn thắng.
+*   **26/01/1954:** Tại Sở chỉ huy Mường Phăng (Điện Biên), Chỉ huy trưởng chiến dịch Đại tướng Võ Nguyên Giáp đưa ra quyết định lịch sử: hoãn nổ súng, lệnh cho các đơn vị lui về điểm tập kết và kéo pháo ra, chính thức chuyển phương châm tác chiến từ "đánh nhanh, thắng nhanh" sang **"đánh chắc, tiến chắc"**. Đây được ghi nhận là quyết định khó khăn nhất và sáng suốt nhất trong sự nghiệp cầm quân của Đại tướng, bảo đảm nền tảng vững chắc đưa Chiến dịch Điện Biên Phủ đến toàn thắng. [Nguồn: https://nhandan.vn/ve-chu-truong-danh-chac-tien-chac-trong-chien-dich-dien-bien-phu-post465699.html]
 
 <!-- id: EVT-2048 -->
-* **01/02/1954:** Liệt sĩ Tô Vĩnh Diện (Tiểu đội trưởng pháo cao xạ 37mm thuộc Đại đội 827, Tiểu đoàn 394, Trung đoàn 367) anh dũng lấy thân mình chèn pháo để bảo vệ khẩu pháo không rơi xuống vực trong Chiến dịch Điện Biên Phủ.
+* **01/02/1954:** Liệt sĩ Tô Vĩnh Diện (Tiểu đội trưởng pháo cao xạ 37mm thuộc Đại đội 827, Tiểu đoàn 394, Trung đoàn 367) anh dũng lấy thân mình chèn pháo để bảo vệ khẩu pháo không rơi xuống vực trong Chiến dịch Điện Biên Phủ. [Nguồn: https://nhandan.vn/ai-la-nguoi-lay-than-minh-chen-phao-post801932.html]
 
 <!-- id: EVT-2049 -->
 *   **Đầu năm 1954:** Georges Boudarel đảm nhiệm việc đưa một số tù binh được trao đổi với phía Pháp. Sau khi trại 113 đóng cửa, ông trở lại An toàn khu Việt Bắc, làm việc cho chương trình tiếng Pháp của đài tiếng nói cách mạng, kịp thời phát đi những tin tức chiến sự và bình luận sắc sảo trong suốt Chiến dịch Điện Biên Phủ để nhân dân Pháp và thế giới hiểu rõ thực chất cuộc chiến.
@@ -6582,10 +6582,10 @@
 *   **03/1954:** Nhà báo quốc tế người Australia Wilfred Burchett lần đầu tiên vượt rừng vào An toàn khu Định Hóa (Việt Bắc) phỏng vấn Chủ tịch Hồ Chí Minh trong lúc Chiến dịch Điện Biên Phủ đang diễn ra. Trong cuộc gặp, khi được hỏi về cục diện chiến trường, Chủ tịch Hồ Chí Minh đã lật ngửa chiếc mũ cối và ví lòng chảo Điện Biên Phủ như lòng mũ: quân Pháp đang ở dưới đáy thung lũng còn bộ đội Việt Nam ở trên vành mũ, khẳng định chắc chắn quân Pháp không thể thoát khỏi thất bại.
 
 <!-- id: EVT-2052 -->
-*   **13 - 17/03/1954:** Trong đợt 1 của chiến dịch Điện Biên Phủ, bộ đội Việt Nam nổ súng vào lúc 17h05 ngày 13/03. Nhanh chóng tiêu diệt cứ điểm Him Lam (13/03) và Độc Lập (15/03), khiến chỉ huy pháo binh Pháp Piroth phải tự sát. Bản Kéo xin hàng vào ngày 17/03. Trong đợt này, ngày 14/03, chiếc máy bay đầu tiên của Pháp đã bị cao xạ Việt Nam bắn rơi.
+*   **13 - 17/03/1954:** Trong đợt 1 của chiến dịch Điện Biên Phủ, bộ đội Việt Nam nổ súng vào lúc 17h05 ngày 13/03. Nhanh chóng tiêu diệt cứ điểm Him Lam (13/03) và Độc Lập (15/03), khiến chỉ huy pháo binh Pháp Piroth phải tự sát. Bản Kéo xin hàng vào ngày 17/03. Trong đợt này, ngày 14/03, chiếc máy bay đầu tiên của Pháp đã bị cao xạ Việt Nam bắn rơi. [Nguồn: https://baochinhphu.vn/chien-dich-dien-bien-phu-3-dot-tan-cong-ac-liet-10224050209051285.htm]
 
 <!-- id: EVT-2053 -->
-*   **13/03/1954:** Trong trận mở màn Chiến dịch Điện Biên Phủ đánh căn cứ Him Lam, anh hùng Phan Đình Giót dũng cảm lấy thân mình lấp lỗ châu mai của hỏa lực địch, mở đường cho đơn vị xông lên tiêu diệt căn cứ.
+*   **13/03/1954:** Trong trận mở màn Chiến dịch Điện Biên Phủ đánh căn cứ Him Lam, anh hùng Phan Đình Giót dũng cảm lấy thân mình lấp lỗ châu mai của hỏa lực địch, mở đường cho đơn vị xông lên tiêu diệt căn cứ. [Nguồn: https://vtv.vn/xa-hoi/tam-guong-anh-hung-liet-si-phan-dinh-giot-lay-than-minh-lap-lo-chau-mai-20240313085553919.htm]
 
 <!-- id: EVT-2054 -->
 *   **15/03/1954:** Tại căn cứ ATK Kim Quan (Tuyên Quang), Chủ tịch Hồ Chí Minh chủ trì phiên họp Hội đồng Chính phủ nhằm nghe báo cáo công tác chuẩn bị tham dự Hội nghị Giơnevơ và chỉ đạo các nhiệm vụ quân sự, ngân sách, cải cách ruộng đất.
@@ -6616,7 +6616,7 @@
 *Nguồn: Bộ đội cắm cờ chiến thắng trên hầm chỉ huy Pháp, 07/05/1954 / Bảo tàng Quân đội (Wikimedia Commons, Public domain)*
 
 <!-- id: EVT-2062 -->
-*   **07/05/1954:** Đúng 17 giờ 30 phút, dưới sự chỉ đạo và chỉ huy của Tổng Tư lệnh Đại tướng Võ Nguyên Giáp, Đại đội trưởng Tạ Quốc Luật (Đại đội 360, Trung đoàn 209, Đại đoàn 312) dẫn đầu tổ xung kích xông vào hầm chỉ huy bắt sống Tướng Christian de Castries cùng toàn bộ Bộ Tham mưu địch và phất cao lá cờ "Quyết chiến quyết thắng" trên nóc hầm. **Chiến dịch Điện Biên Phủ toàn thắng**, kết thúc 55 ngày đêm chiến đấu kiên cường, đập tan tập đoàn cứ điểm mạnh nhất Đông Dương của thực dân Pháp, "lừng lẫy năm châu, chấn động địa cầu".
+*   **07/05/1954:** Đúng 17 giờ 30 phút, dưới sự chỉ đạo và chỉ huy của Tổng Tư lệnh Đại tướng Võ Nguyên Giáp, Đại đội trưởng Tạ Quốc Luật (Đại đội 360, Trung đoàn 209, Đại đoàn 312) dẫn đầu tổ xung kích xông vào hầm chỉ huy bắt sống Tướng Christian de Castries cùng toàn bộ Bộ Tham mưu địch và phất cao lá cờ "Quyết chiến quyết thắng" trên nóc hầm. **Chiến dịch Điện Biên Phủ toàn thắng**, kết thúc 55 ngày đêm chiến đấu kiên cường, đập tan tập đoàn cứ điểm mạnh nhất Đông Dương của thực dân Pháp, "lừng lẫy năm châu, chấn động địa cầu". [Nguồn: https://special.nhandan.vn/ngay-7-5-1954-chien-dich-Dien-Bien-Phu/index.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_103549.webp)
 
@@ -6687,7 +6687,7 @@
 *   **06/09/1954:** Mỹ thành lập khối quân sự Đông Nam Á (SEATO) và đặt miền Nam Việt Nam, Lào, Campuchia dưới sự "bảo hộ" của khối này.
 
 <!-- id: EVT-2079 -->
-*   **19/09/1954:** Tại Đền Giếng thuộc Khu di tích Đền Hùng (Phú Thọ), Chủ tịch Hồ Chí Minh gặp gỡ và huấn thị cho cán bộ, chiến sĩ Đại đoàn 308 (Đại đoàn Quân Tiên phong) trước khi đơn vị về tiếp quản Thủ đô Hà Nội. Tại buổi nói chuyện lịch sử này, Người đã căn dặn câu nói bất hủ: *"Các Vua Hùng đã có công dựng nước, Bác cháu ta phải cùng nhau giữ lấy nước."* Lời căn dặn thiêng liêng vừa là sự tri ân công đức tổ tiên, vừa đúc kết quy luật sinh tồn ngàn đời của dân tộc: dựng nước phải đi đôi với giữ nước, đồng thời khẳng định ý chí quật cường và giao phó sứ mệnh lịch sử bảo vệ độc lập, thống nhất non sông cho toàn quân và các thế hệ mai sau.
+*   **19/09/1954:** Tại Đền Giếng thuộc Khu di tích Đền Hùng (Phú Thọ), Chủ tịch Hồ Chí Minh gặp gỡ và huấn thị cho cán bộ, chiến sĩ Đại đoàn 308 (Đại đoàn Quân Tiên phong) trước khi đơn vị về tiếp quản Thủ đô Hà Nội. Tại buổi nói chuyện lịch sử này, Người đã căn dặn câu nói bất hủ: *"Các Vua Hùng đã có công dựng nước, Bác cháu ta phải cùng nhau giữ lấy nước."* Lời căn dặn thiêng liêng vừa là sự tri ân công đức tổ tiên, vừa đúc kết quy luật sinh tồn ngàn đời của dân tộc: dựng nước phải đi đôi với giữ nước, đồng thời khẳng định ý chí quật cường và giao phó sứ mệnh lịch sử bảo vệ độc lập, thống nhất non sông cho toàn quân và các thế hệ mai sau. [Nguồn: https://nhandan.vn/tuong-dai-bac-ho-voi-ngay-hoi-non-song-bieu-tuong-cua-tinh-than-dai-doan-ket-toan-dan-toc-post984471.html]
 
 <!-- id: EVT-2080 -->
 *   **10/1954:** Sau Hiệp định Giơnevơ, Đinh Thị Vân nhận lệnh bí mật vào Nam hoạt động, đóng vai "người đi buôn" để xây dựng mạng lưới tình báo ở Sài Gòn. Để tạo vỏ bọc an toàn, cấp trên đã phát thông báo giả rằng bà "phản Đảng, chạy trốn vào Nam" và "tuyên án tử hình vắng mặt".

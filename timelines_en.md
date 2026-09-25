@@ -6290,7 +6290,7 @@
 * **1951:** Martyr Mạc Thị Bưởi (Tham gia chiến dịch Trần Hưng Đạo, bị quân Pháp bắt giữ. Hy sinh trong tù năm 1951, truy tặng Anh hùng) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland.
 
 <!-- id: EVT-1956 -->
-*   **Feb. 11 - 19, 1951:** The 2nd National Congress of the Party convened in Vinh Quang commune, Chiem Hoa district, Tuyen Quang, deciding to bring the Party into open activities under the name of the Vietnam Workers' Party. The Congress elected a new Central Committee with Ho Chi Minh as Party Chairman and Truong Chinh continuing as General Secretary, adopting the Party Platform to accelerate the resistance against French colonialists to complete victory.
+*   **Feb. 11 - 19, 1951:** The 2nd National Congress of the Party convened in Vinh Quang commune, Chiem Hoa district, Tuyen Quang, deciding to bring the Party into open activities under the name of the Vietnam Workers' Party. The Congress elected a new Central Committee with Ho Chi Minh as Party Chairman and Truong Chinh continuing as General Secretary, adopting the Party Platform to accelerate the resistance against French colonialists to complete victory. [Source: https://nhandan.vn/dai-hoi-dai-bieu-toan-quoc-lan-thu-ii-dang-cam-quyen-lanh-dao-toan-dan-vua-khang-chien-vua-kien-quoc-post478502.html]
     *   It was decided to bring the Party into open activity under the new name **Vietnam Workers' Party**, affirming Marxism-Leninism as its ideological foundation and compass for action.
     *   A new Political Platform and Party Statutes were approved, and a new Central Committee was elected. Ho Chi Minh was elected Party Chairman, and Truong Chinh as General Secretary.
     *   Le Duan was elected to the Central Committee and the Politburo. As Secretary of the Central Office for South Vietnam (COSVN), he directly led the resistance in Nam Bo.
@@ -6305,7 +6305,7 @@
 *   **Mar. 23 - Apr. 7, 1951:** The Hoang Hoa Tham Campaign (also known as the Route 18 Campaign) was launched, attacking the enemy's defense line in the area from Pha Lai to Uong Bi and Mao Khe.
 
 <!-- id: EVT-1960 -->
-*   **May 6, 1951:** President Ho Chi Minh signed decree No. 15/SL to establish the **National Bank of Vietnam**.
+*   **May 6, 1951:** President Ho Chi Minh signed decree No. 15/SL to establish the **National Bank of Vietnam**. [Source: https://sbv.gov.vn/en/w/sbvwebapp01sbv072934]
 
 <!-- id: EVT-1961 -->
 *   **May 17, 1951:** Philippine President Elpidio Quirino claimed the Spratly Islands for the Philippines, basing the claim on the principle of geographic proximity.
@@ -6509,7 +6509,7 @@
 *   **Nov. 14 - 23, 1953:** The First National Conference of the Party was held to discuss and approve the Land Reform Program.
 
 <!-- id: EVT-2028 -->
-*   **Nov. 20, 1953:** French paratroopers occupied Dien Bien Phu (Operation Castor), beginning to build it into the strongest fortified base complex in Indochina.
+*   **Nov. 20, 1953:** French paratroopers occupied Dien Bien Phu (Operation Castor), beginning to build it into the strongest fortified base complex in Indochina. [Source: https://archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/dien-bien-phu-chien-dich-mang-lai-hoa-binh-o-dong-duong.htm]
 
 <!-- id: EVT-2029 -->
 *   **Nov. 26, 1953:** President Ho Chi Minh, in an interview with the Swedish newspaper *Expressen*, stated Vietnam's goodwill for peace and affirmed its negotiating stance.
@@ -6518,7 +6518,7 @@
 *   **12/1953:** President Ho Chi Minh moved to reside and work at the Nà Lơi Mountain bunker and quarters in Kim Quan commune (Yên Sơn district, Tuyên Quang province), establishing ATK Kim Quan as the headquarters directly guiding the 1953–1954 Winter-Spring Campaign and the Điện Biên Phủ Campaign.
 
 <!-- id: EVT-2031 -->
-*   **Dec. 6, 1953:** At the Tin Keo hut (ATK Dinh Hoa, Thai Nguyen), the Politburo met to approve the decision to launch the **Dien Bien Phu Campaign** (codename "Tran Dinh"), appointing Senior General Vo Nguyen Giap as Campaign Commander and Secretary of the Campaign Party Committee. Before General Giap departed for the front lines, President Ho Chi Minh instructed: *"This battle is of paramount importance; you must fight to win. Strike only when victory is certain; do not strike if certainty is lacking. I entrust you with full decision-making power."*
+*   **Dec. 6, 1953:** At the Tin Keo hut (ATK Dinh Hoa, Thai Nguyen), the Politburo met to approve the decision to launch the **Dien Bien Phu Campaign** (codename "Tran Dinh"), appointing Senior General Vo Nguyen Giap as Campaign Commander and Secretary of the Campaign Party Committee. Before General Giap departed for the front lines, President Ho Chi Minh instructed: *"This battle is of paramount importance; you must fight to win. Strike only when victory is certain; do not strike if certainty is lacking. I entrust you with full decision-making power."* [Source: https://nhandan.vn/an-toan-khu-dinh-hoa-noi-khoi-nguon-chien-thang-dien-bien-phu-post457551.html]
 
 <!-- id: EVT-2032 -->
 *   **Dec. 10 - 12, 1953:** Vietnamese forces wiped out a retreating French column at Muong Pon (Dec. 10) and advanced to liberate Lai Chau town (Dec. 12) after the French forces retreated to Dien Bien Phu.
@@ -6566,10 +6566,10 @@
 *   **Jan. 20 - May 1954:** **Operation Atlante:** French colonial forces launched the large-scale Operation Atlante to invade the free coastal zones of south-central Vietnam (Phu Yen, Binh Dinh) under the Navarre Plan, deploying over 20 mobile battalions supported by naval and air forces to crush the main forces of Interzone 5. The army and people of Interzone 5 mounted a tenacious defense to wear down the French forces, while coordinating closely with the North Central Highlands Campaign to liberate Kon Tum province and annihilate France's elite Mobile Group 100 at Dak Po, completely shattering Operation Atlante and frustrating French colonial ambitions in south-central Vietnam.
 
 <!-- id: EVT-2047 -->
-*   **Jan. 26, 1954:** At the Muong Phang Command Post (Dien Bien), Campaign Commander Senior General Vo Nguyen Giap made the historic decision: postponing the assault, ordering troops to pull back to assembly points and hauling artillery out to switch the operational doctrine from "swift attack, swift victory" to **"steady attack, steady advance"**. This is widely acknowledged as the most grueling yet brilliant decision of the General's military career, laying the indispensable foundation for complete victory at Dien Bien Phu.
+*   **Jan. 26, 1954:** At the Muong Phang Command Post (Dien Bien), Campaign Commander Senior General Vo Nguyen Giap made the historic decision: postponing the assault, ordering troops to pull back to assembly points and hauling artillery out to switch the operational doctrine from "swift attack, swift victory" to **"steady attack, steady advance"**. This is widely acknowledged as the most grueling yet brilliant decision of the General's military career, laying the indispensable foundation for complete victory at Dien Bien Phu. [Source: https://nhandan.vn/ve-chu-truong-danh-chac-tien-chac-trong-chien-dich-dien-bien-phu-post465699.html]
 
 <!-- id: EVT-2048 -->
-* **01/02/1954:** Martyr To Vinh Dien (37mm anti-aircraft gun squad leader of Company 827, Battalion 394, Regiment 367) heroically used his own body to block and save an artillery piece from falling into an abyss during the Battle of Dien Bien Phu.
+* **01/02/1954:** Martyr To Vinh Dien (37mm anti-aircraft gun squad leader of Company 827, Battalion 394, Regiment 367) heroically used his own body to block and save an artillery piece from falling into an abyss during the Battle of Dien Bien Phu. [Source: https://nhandan.vn/ai-la-nguoi-lay-than-minh-chen-phao-post801932.html]
 
 <!-- id: EVT-2049 -->
 *   **Early 1954:** Georges Boudarel was placed in charge of escorting a group of prisoners of war being exchanged with the French. Following the closure of Camp 113, he returned to the Viet Bac Safe Zone to work for the revolutionary radio station's French program, broadcasting timely war news and sharp commentary during the Dien Bien Phu Campaign to inform the French public and the world.
@@ -6581,10 +6581,10 @@
 *   **Mar. 1954:** Australian international journalist Wilfred Burchett journeyed into the Dinh Hoa Safe Zone (Viet Bac) to interview President Ho Chi Minh as the Dien Bien Phu Campaign was unfolding. In this historic meeting, President Ho Chi Minh inverted his pith helmet to illustrate the battlefield: the French expeditionary forces were trapped in the bottom of the helmet while Vietnamese troops commanded the rim, foretelling an inevitable defeat for the French.
 
 <!-- id: EVT-2052 -->
-*   **Mar. 13 - 17, 1954:** In the first phase of the Dien Bien Phu Campaign, the Vietnamese forces opened fire at 5:05 PM on March 13. They rapidly annihilated the Him Lam (Mar. 13) and Doc Lap (Mar. 15) strongpoints, forcing the French artillery commander Piroth to commit suicide. Ban Keo surrendered on March 17, breaking the enemy's northern defense system. During this phase, on March 14, the first French aircraft was shot down by Vietnamese anti-aircraft fire.
+*   **Mar. 13 - 17, 1954:** In the first phase of the Dien Bien Phu Campaign, the Vietnamese forces opened fire at 5:05 PM on March 13. They rapidly annihilated the Him Lam (Mar. 13) and Doc Lap (Mar. 15) strongpoints, forcing the French artillery commander Piroth to commit suicide. Ban Keo surrendered on March 17, breaking the enemy's northern defense system. During this phase, on March 14, the first French aircraft was shot down by Vietnamese anti-aircraft fire. [Source: https://baochinhphu.vn/chien-dich-dien-bien-phu-3-dot-tan-cong-ac-liet-10224050209051285.htm]
 
 <!-- id: EVT-2053 -->
-*   **Mar. 13, 1954:** In the opening battle of the Dien Bien Phu Campaign at Him Lam, hero Phan Dinh Giot bravely smothers an enemy bunker embrasure with his body, enabling his unit to advance and destroy the base.
+*   **Mar. 13, 1954:** In the opening battle of the Dien Bien Phu Campaign at Him Lam, hero Phan Dinh Giot bravely smothers an enemy bunker embrasure with his body, enabling his unit to advance and destroy the base. [Source: https://vtv.vn/xa-hoi/tam-guong-anh-hung-liet-si-phan-dinh-giot-lay-than-minh-lap-lo-chau-mai-20240313085553919.htm]
 
 <!-- id: EVT-2054 -->
 *   **15/03/1954:** At the Kim Quan Safe Zone (Tuyên Quang), President Ho Chi Minh chaired a Government Council meeting to hear reports on preparations for the Geneva Conference and direct military affairs, state budget, and land reform.
@@ -6615,7 +6615,7 @@
 *Source: Troops raising the victory flag over the French command bunker, May 7, 1954 / Army Museum (Wikimedia Commons, Public domain)*
 
 <!-- id: EVT-2062 -->
-*   **May 7, 1954:** At 17:30, under the leadership and operational command of Commander-in-Chief Senior General Vo Nguyen Giap, Captain Ta Quoc Luat (Company 360, Regiment 209, Division 312) led an assault team into the headquarters bunker, capturing General Christian de Castries and the entire French staff, hoisting the "Determined to Fight, Determined to Win" victory flag atop the bunker. **The Dien Bien Phu Campaign won complete victory**, ending 55 days and nights of fierce fighting, destroying France's mightiest stronghold in Indochina and resounding across the world.
+*   **May 7, 1954:** At 17:30, under the leadership and operational command of Commander-in-Chief Senior General Vo Nguyen Giap, Captain Ta Quoc Luat (Company 360, Regiment 209, Division 312) led an assault team into the headquarters bunker, capturing General Christian de Castries and the entire French staff, hoisting the "Determined to Fight, Determined to Win" victory flag atop the bunker. **The Dien Bien Phu Campaign won complete victory**, ending 55 days and nights of fierce fighting, destroying France's mightiest stronghold in Indochina and resounding across the world. [Source: https://special.nhandan.vn/ngay-7-5-1954-chien-dich-Dien-Bien-Phu/index.html]
 
 ![Historical Image](images/event_20260923_103549.webp)
 
@@ -6686,7 +6686,7 @@
 *   **Sep. 6, 1954:** The US formed the Southeast Asia Treaty Organization (SEATO) and placed South Vietnam, Laos, and Cambodia under its "protection."
 
 <!-- id: EVT-2079 -->
-*   **Sep. 19, 1954:** At Giếng Temple within the Hùng Kings Temple historical site (Phú Thọ), President Hồ Chí Minh met and delivered an address to cadres and soldiers of Division 308 (Vanguard Division) before their march to take over the capital Hanoi. During this historic gathering, he gave the immortal instruction: *"The Hùng Kings founded the nation; we must together defend and protect it."* This sacred counsel paid profound tribute to ancestral nation-builders while crystallizing the enduring imperative of Vietnamese history—nation-building must go hand in hand with nation-defending—entrusting the armed forces and future generations with the historic mission of safeguarding the fatherland's independence and territorial unity.
+*   **Sep. 19, 1954:** At Giếng Temple within the Hùng Kings Temple historical site (Phú Thọ), President Hồ Chí Minh met and delivered an address to cadres and soldiers of Division 308 (Vanguard Division) before their march to take over the capital Hanoi. During this historic gathering, he gave the immortal instruction: *"The Hùng Kings founded the nation; we must together defend and protect it."* This sacred counsel paid profound tribute to ancestral nation-builders while crystallizing the enduring imperative of Vietnamese history—nation-building must go hand in hand with nation-defending—entrusting the armed forces and future generations with the historic mission of safeguarding the fatherland's independence and territorial unity. [Source: https://nhandan.vn/tuong-dai-bac-ho-voi-ngay-hoi-non-song-bieu-tuong-cua-tinh-than-dai-doan-ket-toan-dan-toc-post984471.html]
 
 <!-- id: EVT-2080 -->
 *   **Oct. 1954:** Following the Geneva Accords, Dinh Thi Van received orders to secretly relocate to the South to build an intelligence network in Saigon. To protect her cover as a refugee merchant, the revolutionary leadership issued a fake death sentence against her for "betraying the Party."
