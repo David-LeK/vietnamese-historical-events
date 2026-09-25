@@ -5011,7 +5011,7 @@
 *   **Mar. 9, 1930:** The first flight connecting Paris and Saigon was completed, marking the development of air transportation.
 
 <!-- id: EVT-1565 -->
-*   **Mar. 25, 1930:** Over 4,000 workers at the Nam Dinh Textile Mill went on strike and staged demonstrations demanding wage increases, reduced working hours, and an end to mistreatment; the 21-day strike with widespread local public support marked the start of the 1930 labor movement in Northern Vietnam.
+*   **Mar. 25, 1930:** Over 4,000 workers at the Nam Dinh Textile Mill went on strike and staged demonstrations demanding wage increases, reduced working hours, and an end to mistreatment; the 21-day strike with widespread local public support marked the start of the 1930 labor movement in Northern Vietnam. [Source: Nhan Dan Newspaper - A Seething Revolutionary Movement (Nam Dinh Textile Mill Workers Strike of 1930), https://nhandan.vn/cuoc-bai-cong-cong-nhan-nha-may-det-nam-dinh-nam-1930-post414408.html]
 
 <!-- id: EVT-1566 -->
 *   **Apr. 13, 1930:** The Governor-General of Indochina dispatched the dispatch boat *La Malicieuse* to the Spratly Islands, where the crew raised the French flag on a high point.
@@ -5052,7 +5052,7 @@
 *   **Oct. 14-31, 1930:** The First Conference of the Party Central Committee was held in Hong Kong (China), approving the Political Theses and changing the Party's name to the Indochinese Communist Party. Comrade Tran Phu was elected General Secretary. [Source: https://nhandan.vn/dong-chi-tran-phu-voi-mat-tran-dan-toc-thong-nhat-post248082.html]
 
 <!-- id: EVT-1576 -->
-*   **Oct. 14, 1930:** Thousands of peasants in Tien Hai district (Thai Binh) held hammer-and-sickle flags and demonstrated at the district office, demanding tax cuts, public land redistribution, and protesting colonial crackdowns against the Nghe-Tinh Soviet movement.
+*   **Oct. 14, 1930:** Thousands of peasants in Tien Hai district (Thai Binh) held hammer-and-sickle flags and demonstrated at the district office, demanding tax cuts, public land redistribution, and protesting colonial crackdowns against the Nghe-Tinh Soviet movement. [Source: Vietnam National Museum of History - The Tien Hai (Thai Binh) Incident During the Nghe-Tinh Soviet Movement, https://baotanglichsu.vn/vi/Articles/3097/15892/vu-tien-hai-thai-binh-trong-phong-trao-xo-viet-nghe-tinh.html]
 
 <!-- id: EVT-1577 -->
 
@@ -5067,22 +5067,22 @@
 *   **Feb. 9, 1931:** Ly Tu Trong shot and killed the French secret agent Le Grand in Saigon to protect a speaking comrade, after which he was captured by the enemy. [Source: Vietnam National Museum of History - National Relic Ranking for the Historical Relic of Ly Tu Trong's Tomb, https://baotanglichsu.vn/vi/Articles/3091/17207/xep-hang-di-tich-quoc-gia-voi-di-tich-lich-su-phan-mo-ly-tu-trong.html]
 
 <!-- id: EVT-1580 -->
-*   **Apr. 11, 1931:** The Communist International issued a resolution recognizing the Indochinese Communist Party as an independent section.
+*   **Apr. 11, 1931:** The Communist International issued a resolution recognizing the Indochinese Communist Party as an independent section. [Source: Vietnam National Museum of History - The Communist International Recognizes the Indochinese Communist Party as an Independent Section, https://baotanglichsu.vn/vi/Articles/3097/14852/quoc-te-cong-san-cong-nhan-djang-cong-san-djong-duong-la-chi-bo-djoc-lap.html]
 
 <!-- id: EVT-1581 -->
 *   **Apr. 19, 1931:** Nguyen Thi Ut (Ut Tich) was born in Tich Thien village, Cau Ke district, Can Tho (now Tam Ngai, Tra Vinh). She later became a legendary heroine of the Liberation Army of South Vietnam.
 
 <!-- id: EVT-1582 -->
-*   **Apr. 19, 1931:** General Secretary Tran Phu was arrested by the enemy.
+*   **Apr. 19, 1931:** General Secretary Tran Phu was arrested by the enemy. [Source: Vietnam National Museum of History - Tran Phu: The First General Secretary of the Party, https://baotanglichsu.vn/vi/Articles/3096/13053/tran-phu-tong-bi-thu-djau-tien-cua-djang.html]
 
 <!-- id: EVT-1583 -->
 *   **May 17, 1931:** Resolute communist courier Nguyen Thi Nghia (birth name Nguyen Thi Hen, who maintained vital communications between the Party Central Committee and the Annam Regional Party Committee during the Nghe Tinh Soviet movement) died courageously in Vinh Prison under brutal torture by French authorities.
 
 <!-- id: EVT-1584 -->
-*   **Jun. 6, 1931:** Nguyen Ai Quoc (under the alias Tong Van So / Sung Man Cho) was arrested by British police at 186 Tam Kung Road (Kowloon, Hong Kong) at the request of the French secret service, initiating the historic **Tong Van So Case**. French colonial authorities vigorously sought his extradition to Indochina to execute the death sentence in absentia handed down by the Court of Vinh in 1929.
+*   **Jun. 6, 1931:** Nguyen Ai Quoc (under the alias Tong Van So / Sung Man Cho) was arrested by British police at 186 Tam Kung Road (Kowloon, Hong Kong) at the request of the French secret service, initiating the historic **Tong Van So Case**. French colonial authorities vigorously sought his extradition to Indochina to execute the death sentence in absentia handed down by the Court of Vinh in 1929. [Source: Vietnam National Museum of History - The Tong Van So Case of 1931-1933, https://baotanglichsu.vn/vi/Articles/3097/16003/vu-an-tong-van-so-nam-1931-1933.html]
 
 <!-- id: EVT-1585 -->
-*   **Sep. 6, 1931:** Comrade Tran Phu died in Cho Quan hospital.
+*   **Sep. 6, 1931:** Comrade Tran Phu died in Cho Quan hospital. [Source: Vietnam National Museum of History - Tran Phu: The First General Secretary of the Party, https://baotanglichsu.vn/vi/Articles/3096/13053/tran-phu-tong-bi-thu-djau-tien-cua-djang.html]
 
 <!-- id: EVT-1586 -->
 *   **Nov. 20, 1931:** Ly Tu Trong heroically sacrificed his life at the Saigon Main Prison guillotine at the age of 17, leaving behind the immortal quote: "The path for youth can only be the revolutionary path, there is no other path." [Source: Vietnam National Museum of History - Comrade Ly Tu Trong: A Steadfast, Indomitable Communist and Shining Example for Young Generations, https://baotanglichsu.vn/vi/Articles/3098/75013/djong-chi-ly-tu-trong-nguoi-cong-san-kien-trung-bat-khuat-tam-guong-sang-cho-the-he-tre-hoc-tap-va-noi-theo.html]
@@ -5097,13 +5097,13 @@
 *   **Apr. 29, 1932:** France issued a formal protest against Chinese claims, detailing historical evidence of Annam's possession of the Paracel Islands. In the same year, France proposed submitting the dispute to international arbitration, which China opposed.
 
 <!-- id: EVT-1590 -->
-*   **Jun. 15, 1932:** The Indochinese Communist Party published its *Action Program* to restore the organizational system and revolutionary movement.
+*   **Jun. 15, 1932:** The Indochinese Communist Party published its *Action Program* to restore the organizational system and revolutionary movement. [Source: Vietnam National Museum of History - The Communist International Recognizes the Indochinese Communist Party as an Independent Section, https://baotanglichsu.vn/vi/Articles/3097/14852/quoc-te-cong-san-cong-nhan-djang-cong-san-djong-duong-la-chi-bo-djoc-lap.html]
 
 <!-- id: EVT-1591 -->
 *   **Jul. 21, 1932:** The Tong Van So Case achieved a decisive legal victory before the Judicial Committee of the Privy Council in London. Thanks to the dedicated and tireless defense mounted by British lawyer Francis Henry Loseby and progressive barristers, the Privy Council rejected the French extradition request and accepted a settlement, compelling Hong Kong authorities to release Tong Van So and allow his safe departure from the colony.
 
 <!-- id: EVT-1592 -->
-*   **Aug. 16, 1932:** Emperor Bao Dai returned to the country to take up his reign after studying in France.
+*   **Aug. 16, 1932:** Emperor Bao Dai returned to the country to take up his reign after studying in France. [Source: Vietnam National Museum of History - Bao Dai: The Last Emperor of the Nguyen Dynasty, https://baotanglichsu.vn/vi/Articles/3098/15282/bao-djia-vi-vua-cuoi-cung-cua-trieu-nguyen.html]
 
 <!-- id: EVT-1593 -->
 *   **Dec. 21, 1932:** Nguyen Thanh (commonly known as Nguyen Van Luom), the real-life inspiration for the famous poem "Luom" by To Huu, was born in Quy Nhon. He would later become a guerrilla member and an immortal symbol of young, brave Vietnamese messengers during the resistance against the French.
@@ -5152,13 +5152,13 @@
 *   **Mar. 20, 1934 (Feb. 5, Lunar Year of the Dog):** The imperial wedding of Emperor Bao Dai and Marie-Thérèse Nguyen Huu Thi Lan (Empress Nam Phuong) was solemnized at Thai Hoa Palace in Hue. The emperor instituted a landmark break with Nguyen court precedent by publicly pledging monogamy ('one husband, one wife'), disbanding the traditional imperial harem, and proclaiming his bride Empress on their wedding day.
 
 <!-- id: EVT-1607 -->
-*   **Jun. 16 - 21, 1934:** In Macao (China), Comrade Le Hong Phong presided over a joint conference between the Overseas Command Bureau and domestic party delegates, adopting Political and Organizational Resolutions that unified the Party apparatus and mandated the publication of the journal *Bolshevik*.
+*   **Jun. 16 - 21, 1934:** In Macao (China), Comrade Le Hong Phong presided over a joint conference between the Overseas Command Bureau and domestic party delegates, adopting Political and Organizational Resolutions that unified the Party apparatus and mandated the publication of the journal *Bolshevik*. [Source: Vietnam National Museum of History - Le Hong Phong: The First International Communist of Vietnam, https://baotanglichsu.vn/vi/Articles/3098/15745/le-hong-phong-nguoi-cong-san-quoc-te-djau-tien-cua-viet-nam.html]
 
 <!-- id: EVT-1608 -->
 *   **Sep. 12, 1934:** Vu A Dinh, a courageous young hero of the Hmong ethnic group during the anti-French resistance, was born in Pu Nhung commune, Tuan Giao district, Dien Bien province.
 
 <!-- id: EVT-1609 -->
-*   **Mar. 27 - 31, 1935:** The 1st National Congress of the Party met in Macao (China), electing a Central Executive Committee with Comrade Le Hong Phong as General Secretary; adopting the Political Resolution and Party Charter, marking the firm restoration and consolidation of the Party apparatus from central to grassroots levels after colonial white terror; Comrade Phung Chi Kien was elected to the Standing Committee in charge of military affairs.
+*   **Mar. 27 - 31, 1935:** The 1st National Congress of the Party met in Macao (China), electing a Central Executive Committee with Comrade Le Hong Phong as General Secretary; adopting the Political Resolution and Party Charter, marking the firm restoration and consolidation of the Party apparatus from central to grassroots levels after colonial white terror; Comrade Phung Chi Kien was elected to the Standing Committee in charge of military affairs. [Source: Vietnam National Museum of History - The First National Party Congress - Macau (1935), https://baotanglichsu.vn/vi/Articles/3097/15817/djoa-djai-hoi-djang-lan-thu-nhat-ma-cao-1935.html]
 
 <!-- id: EVT-1610 -->
 *   **Jul. 25 - Aug. 20, 1935:** The Indochinese Communist Party delegation led by General Secretary Le Hong Phong (alongside Nguyen Thi Minh Khai and Hoang Van Non) attended the 7th Congress of the Communist International in Moscow (USSR). The Comintern officially recognized the ICP as an independent section; Comrade Le Hong Phong was elected to the Executive Committee of the Communist International (the only Vietnamese ever elected to this supreme governing body), and Nguyen Thi Minh Khai delivered an acclaimed speech on women's liberation.

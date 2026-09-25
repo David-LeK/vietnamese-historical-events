@@ -5012,7 +5012,7 @@
 *   **09/03/1930:** Chuyến bay đầu tiên nối liền Paris - Sài Gòn được thực hiện, đánh dấu sự phát triển giao thông hàng không.
 
 <!-- id: EVT-1565 -->
-*   **25/03/1930:** Hơn 4.000 công nhân Nhà máy Dệt Nam Định bãi công và tuần hành biểu tình đòi tăng lương, giảm giờ làm và chống đánh đập; cuộc bãi công kéo dài 21 ngày với sự ủng hộ rộng rãi của nhân dân địa phương, mở đầu phong trào công nhân miền Bắc năm 1930.
+*   **25/03/1930:** Hơn 4.000 công nhân Nhà máy Dệt Nam Định bãi công và tuần hành biểu tình đòi tăng lương, giảm giờ làm và chống đánh đập; cuộc bãi công kéo dài 21 ngày với sự ủng hộ rộng rãi của nhân dân địa phương, mở đầu phong trào công nhân miền Bắc năm 1930. [Nguồn: Báo Nhân Dân - Sục sôi một phong trào cách mạng (Cuộc bãi công công nhân Nhà máy Dệt Nam Định năm 1930), https://nhandan.vn/cuoc-bai-cong-cong-nhan-nha-may-det-nam-dinh-nam-1930-post414408.html]
 
 <!-- id: EVT-1566 -->
 *   **13/04/1930:** Toàn quyền Đông Dương phái thông báo hạm *La Malicieuse* tới quần đảo Trường Sa, nơi thủy thủ đoàn đã kéo quốc kỳ Pháp trên một điểm cao.
@@ -5053,7 +5053,7 @@
 *   **14-31/10/1930:** Hội nghị lần thứ nhất Ban Chấp hành Trung ương Đảng họp tại Hương Cảng (Trung Quốc), thông qua Luận cương chính trị và đổi tên Đảng thành Đảng Cộng sản Đông Dương. Đồng chí Trần Phú được bầu làm Tổng Bí thư. [Nguồn: https://nhandan.vn/dong-chi-tran-phu-voi-mat-tran-dan-toc-thong-nhat-post248082.html]
 
 <!-- id: EVT-1576 -->
-*   **14/10/1930:** Hàng nghìn nông dân huyện Tiền Hải (Thái Bình) giương cờ búa liềm biểu tình bao vây huyện đường đòi giảm sưu thuế, chia lại ruộng công và phản đối chính quyền thực dân đàn áp phong trào Xô Viết Nghệ Tĩnh.
+*   **14/10/1930:** Hàng nghìn nông dân huyện Tiền Hải (Thái Bình) giương cờ búa liềm biểu tình bao vây huyện đường đòi giảm sưu thuế, chia lại ruộng công và phản đối chính quyền thực dân đàn áp phong trào Xô Viết Nghệ Tĩnh. [Nguồn: Bảo tàng Lịch sử Quốc gia - Vụ Tiền Hải (Thái Bình) trong phong trào Xô Viết Nghệ Tĩnh, https://baotanglichsu.vn/vi/Articles/3097/15892/vu-tien-hai-thai-binh-trong-phong-trao-xo-viet-nghe-tinh.html]
 
 <!-- id: EVT-1577 -->
 
@@ -5068,22 +5068,22 @@
 *   **09/02/1931:** Lý Tự Trọng bắn chết tên mật thám Le Grand tại Sài Gòn để bảo vệ đồng chí diễn thuyết, sau đó bị địch bắt. [Nguồn: Bảo tàng Lịch sử Quốc gia - Xếp hạng di tích quốc gia với di tích lịch sử phần mộ Lý Tự Trọng, https://baotanglichsu.vn/vi/Articles/3091/17207/xep-hang-di-tich-quoc-gia-voi-di-tich-lich-su-phan-mo-ly-tu-trong.html]
 
 <!-- id: EVT-1580 -->
-*   **11/04/1931:** Quốc tế Cộng sản ra nghị quyết công nhận Đảng Cộng sản Đông Dương là chi bộ độc lập.
+*   **11/04/1931:** Quốc tế Cộng sản ra nghị quyết công nhận Đảng Cộng sản Đông Dương là chi bộ độc lập. [Nguồn: Bảo tàng Lịch sử Quốc gia - Quốc tế Cộng sản công nhận Đảng Cộng sản Đông Dương là chi bộ độc lập, https://baotanglichsu.vn/vi/Articles/3097/14852/quoc-te-cong-san-cong-nhan-djang-cong-san-djong-duong-la-chi-bo-djoc-lap.html]
 
 <!-- id: EVT-1581 -->
 *   **19/04/1931:** Nguyễn Thị Út (Út Tịch) sinh ra tại làng Tích Thiện, quận Cầu Kè, tỉnh Cần Thơ (nay thuộc Tam Ngãi, Trà Vinh). Bà sau này trở thành một nữ anh hùng huyền thoại của Quân Giải phóng miền Nam Việt Nam.
 
 <!-- id: EVT-1582 -->
-*   **19/04/1931:** Tổng Bí thư Trần Phú bị địch bắt.
+*   **19/04/1931:** Tổng Bí thư Trần Phú bị địch bắt. [Nguồn: Bảo tàng Lịch sử Quốc gia - Trần Phú: Tổng Bí thư đầu tiên của Đảng, https://baotanglichsu.vn/vi/Articles/3096/13053/tran-phu-tong-bi-thu-djau-tien-cua-djang.html]
 
 <!-- id: EVT-1583 -->
 *   **17/05/1931:** Nữ chiến sĩ cộng sản kiên trung Nguyễn Thị Nghĩa (tên thật là Nguyễn Thị Hẹn, phụ trách giao thông liên lạc giữa Ban Chấp hành Trung ương Đảng và Xứ ủy Trung Kỳ trong cao trào Xô viết Nghệ Tĩnh) anh dũng hy sinh tại Nhà lao Vinh sau chuỗi ngày bị thực dân Pháp tra tấn tàn khốc.
 
 <!-- id: EVT-1584 -->
-*   **06/06/1931:** Nguyễn Ái Quốc (dưới bí danh Tống Văn Sơ) bị cảnh sát Anh bắt giữ tại số nhà 186 phố Tam Kung (Cửu Long, Hồng Kông) theo yêu cầu của mật thám Pháp, mở đầu **Vụ án Tống Văn Sơ** chấn động lịch sử. Thực dân Pháp tìm mọi cách đòi dẫn độ ông về Đông Dương để thi hành bản án tử hình vắng mặt năm 1929 của Tòa án Vinh.
+*   **06/06/1931:** Nguyễn Ái Quốc (dưới bí danh Tống Văn Sơ) bị cảnh sát Anh bắt giữ tại số nhà 186 phố Tam Kung (Cửu Long, Hồng Kông) theo yêu cầu của mật thám Pháp, mở đầu **Vụ án Tống Văn Sơ** chấn động lịch sử. Thực dân Pháp tìm mọi cách đòi dẫn độ ông về Đông Dương để thi hành bản án tử hình vắng mặt năm 1929 của Tòa án Vinh. [Nguồn: Bảo tàng Lịch sử Quốc gia - Vụ án Tống Văn Sơ năm 1931-1933, https://baotanglichsu.vn/vi/Articles/3097/16003/vu-an-tong-van-so-nam-1931-1933.html]
 
 <!-- id: EVT-1585 -->
-*   **06/09/1931:** Đồng chí Trần Phú hy sinh tại nhà thương Chợ Quán.
+*   **06/09/1931:** Đồng chí Trần Phú hy sinh tại nhà thương Chợ Quán. [Nguồn: Bảo tàng Lịch sử Quốc gia - Trần Phú: Tổng Bí thư đầu tiên của Đảng, https://baotanglichsu.vn/vi/Articles/3096/13053/tran-phu-tong-bi-thu-djau-tien-cua-djang.html]
 
 <!-- id: EVT-1586 -->
 *   **20/11/1931:** Lý Tự Trọng anh dũng hy sinh trên máy chém tại khám lớn Sài Gòn khi mới 17 tuổi, để lại câu nói bất hủ: "Con đường của thanh niên chỉ là con đường cách mạng, không thể có con đường nào khác". [Nguồn: Bảo tàng Lịch sử Quốc gia - Đồng chí Lý Tự Trọng - người cộng sản kiên trung, bất khuất, tấm gương sáng cho thế hệ trẻ học tập và noi theo, https://baotanglichsu.vn/vi/Articles/3098/75013/djong-chi-ly-tu-trong-nguoi-cong-san-kien-trung-bat-khuat-tam-guong-sang-cho-the-he-tre-hoc-tap-va-noi-theo.html]
@@ -5098,13 +5098,13 @@
 *   **29/04/1932:** Pháp chính thức phản kháng các yêu sách của Trung Quốc, nêu rõ các danh nghĩa lịch sử và bằng chứng về sự chiếm hữu của An Nam đối với quần đảo Hoàng Sa. Cùng năm, Pháp đề nghị đưa vụ tranh chấp ra trọng tài quốc tế, nhưng Trung Quốc đã phản đối.
 
 <!-- id: EVT-1590 -->
-*   **15/06/1932:** Đảng Cộng sản Đông Dương công bố *Chương trình hành động* để khôi phục hệ thống tổ chức và phong trào cách mạng.
+*   **15/06/1932:** Đảng Cộng sản Đông Dương công bố *Chương trình hành động* để khôi phục hệ thống tổ chức và phong trào cách mạng. [Nguồn: Bảo tàng Lịch sử Quốc gia - Quốc tế Cộng sản công nhận Đảng Cộng sản Đông Dương là chi bộ độc lập, https://baotanglichsu.vn/vi/Articles/3097/14852/quoc-te-cong-san-cong-nhan-djang-cong-san-djong-duong-la-chi-bo-djoc-lap.html]
 
 <!-- id: EVT-1591 -->
 *   **21/07/1932:** Vụ án Tống Văn Sơ giành thắng lợi pháp lý quyết định trước Ủy ban Tư pháp Viện Cơ mật Hoàng gia Anh tại London. Nhờ sự bào chữa tận tụy và kiên định của Luật sư Francis Henry Loseby cùng các luật sư tiến bộ người Anh, Cơ mật viện Anh đã bác bỏ yêu cầu dẫn độ của thực dân Pháp và chấp thuận giải pháp hòa giải, buộc chính quyền Hồng Kông phải phóng thích Tống Văn Sơ và tạo điều kiện cho ông rời khỏi thuộc địa an toàn.
 
 <!-- id: EVT-1592 -->
-*   **16/08/1932:** Vua Bảo Đại lên đường về nước để chấp chính sau thời gian du học tại Pháp.
+*   **16/08/1932:** Vua Bảo Đại lên đường về nước để chấp chính sau thời gian du học tại Pháp. [Nguồn: Bảo tàng Lịch sử Quốc gia - Bảo Đại: vị vua cuối cùng của triều Nguyễn, https://baotanglichsu.vn/vi/Articles/3098/15282/bao-djia-vi-vua-cuoi-cung-cua-trieu-nguyen.html]
 
 <!-- id: EVT-1593 -->
 *   **21/12/1932:** Nguyễn Thanh (tên thường gọi là Nguyễn Văn Lượm), nguyên mẫu lịch sử của bài thơ "Lượm" nổi tiếng do Tố Hữu sáng tác, sinh ra tại Quy Nhơn. Cậu sau này trở thành đội viên du kích và là biểu tượng bất tử của thế hệ thiếu niên liên lạc dũng cảm trong kháng chiến chống Pháp.
@@ -5153,13 +5153,13 @@
 *   **20/03/1934 (05/02 năm Giáp Tuất):** Lễ thành hôn của vua Bảo Đại với bà Marie-Thérèse Nguyễn Hữu Thị Lan (Nam Phương Hoàng hậu) được tổ chức trọng thể tại điện Thái Hòa (Huế). Nhà vua thực hiện bước đột phá chưa từng có trong hoàng gia triều Nguyễn: tuyên bố cam kết thực thi chế độ **'nhất phu nhất phụ'** (một vợ một chồng), giải tán tam cung lục viện và tấn phong ngay tước vị Hoàng hậu trong ngày cưới.
 
 <!-- id: EVT-1607 -->
-*   **16 - 21/06/1934:** Tại Ma Cao (Trung Quốc), đồng chí Lê Hồng Phong chủ trì Hội nghị Ban Chỉ huy Hải ngoại Đảng Cộng sản Đông Dương cùng đại diện các tổ chức Đảng trong nước, thông qua Nghị quyết Chính trị và Nghị quyết Về các vấn đề tổ chức, thống nhất đường lối và quyết định xuất bản Tạp chí *Bônsơvích*.
+*   **16 - 21/06/1934:** Tại Ma Cao (Trung Quốc), đồng chí Lê Hồng Phong chủ trì Hội nghị Ban Chỉ huy Hải ngoại Đảng Cộng sản Đông Dương cùng đại diện các tổ chức Đảng trong nước, thông qua Nghị quyết Chính trị và Nghị quyết Về các vấn đề tổ chức, thống nhất đường lối và quyết định xuất bản Tạp chí *Bônsơvích*. [Nguồn: Bảo tàng Lịch sử Quốc gia - Lê Hồng Phong: người cộng sản quốc tế đầu tiên của Việt Nam, https://baotanglichsu.vn/vi/Articles/3098/15745/le-hong-phong-nguoi-cong-san-quoc-te-djau-tien-cua-viet-nam.html]
 
 <!-- id: EVT-1608 -->
 *   **12/09/1934:** Vừ A Dính, người thiếu niên anh hùng dũng cảm người dân tộc HMông trong kháng chiến chống Pháp, sinh ra tại xã Pú Nhung, huyện Tuần Giáo, tỉnh Điện Biên.
 
 <!-- id: EVT-1609 -->
-*   **27 - 31/03/1935:** Đại hội đại biểu toàn quốc lần thứ I của Đảng họp tại Ma Cao (Trung Quốc) bầu Ban Chấp hành Trung ương do đồng chí Lê Hồng Phong làm Tổng Bí thư; thông qua Nghị quyết chính trị và Điều lệ Đảng, đánh dấu sự khôi phục và củng cố vững chắc hệ thống tổ chức của Đảng từ Trung ương đến cơ sở sau thời kỳ khủng bố trắng của thực dân Pháp; đồng chí Phùng Chí Kiên được bầu vào Ban Thường vụ Ban Chấp hành Trung ương Đảng, trực tiếp phụ trách công tác quân sự.
+*   **27 - 31/03/1935:** Đại hội đại biểu toàn quốc lần thứ I của Đảng họp tại Ma Cao (Trung Quốc) bầu Ban Chấp hành Trung ương do đồng chí Lê Hồng Phong làm Tổng Bí thư; thông qua Nghị quyết chính trị và Điều lệ Đảng, đánh dấu sự khôi phục và củng cố vững chắc hệ thống tổ chức của Đảng từ Trung ương đến cơ sở sau thời kỳ khủng bố trắng của thực dân Pháp; đồng chí Phùng Chí Kiên được bầu vào Ban Thường vụ Ban Chấp hành Trung ương Đảng, trực tiếp phụ trách công tác quân sự. [Nguồn: Bảo tàng Lịch sử Quốc gia - Đại hội Đảng lần thứ nhất - Ma Cao (1935), https://baotanglichsu.vn/vi/Articles/3097/15817/djoa-djai-hoi-djang-lan-thu-nhat-ma-cao-1935.html]
 
 <!-- id: EVT-1610 -->
 *   **25/07 - 20/08/1935:** Đoàn đại biểu Đảng Cộng sản Đông Dương do Tổng Bí thư Lê Hồng Phong dẫn đầu (cùng Nguyễn Thị Minh Khai và Hoàng Văn Nọn) tham dự Đại hội lần thứ VII Quốc tế Cộng sản tại Moskva (Liên Xô). Đại hội chính thức công nhận Đảng là một phân bộ độc lập trực thuộc Quốc tế Cộng sản; đồng chí Lê Hồng Phong được bầu làm Ủy viên Ban Chấp hành Quốc tế Cộng sản (người Việt Nam đầu tiên và duy nhất được bầu vào cơ quan lãnh đạo tối cao này); đồng chí Nguyễn Thị Minh Khai có bài tham luận gây tiếng vang lớn về phong trào phụ nữ giải phóng.
