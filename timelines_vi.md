@@ -364,7 +364,7 @@
 *   **227:** Sĩ Huy (con Sĩ Nhiếp) nổi dậy chống lại việc bổ nhiệm quan lại mới của nhà Ngô nhưng thất bại và bị xử tử. Đông Ngô tái thống nhất hai châu thành Giao Châu như cũ để dễ bề đàn áp. [Nguồn: Đại Việt sử ký toàn thư, Ngoại kỷ – Triều Sĩ Vương, https://vi.wikisource.org/wiki/Đại_Việt_sử_ký_toàn_thư/Tập_I/Ngoại_kỷ/Cuốn_thứ_ba/Triều_Sĩ_Vương]
 
 <!-- id: EVT-0084 -->
-*   **231:** Tiết Tông dâng sớ lên vua Ngô Hoàng Võ, miêu tả về chính sách đồng hóa của nhà Hán và sự phản kháng văn hóa của người Việt, cho thấy họ vẫn giữ gìn phong tục tập quán riêng.
+*   **231:** Tiết Tông dâng sớ lên vua Ngô Hoàng Võ, miêu tả về chính sách đồng hóa của nhà Hán và sự phản kháng văn hóa của người Việt, cho thấy họ vẫn giữ gìn phong tục tập quán riêng. [Nguồn: Tam quốc chí – Ngô thư (quyển 53: Tiết Tông truyện), https://en.wikipedia.org/wiki/Xue_Zong]
 
 <!-- id: EVT-0085 -->
 *   **248:** Cuộc khởi nghĩa của Triệu Thị Trinh cùng anh là Triệu Quốc Đạt bùng nổ tại Cửu Chân, khiến "toàn thể Giao Châu chấn động". Bà nổi tiếng với câu nói: "Tôi chỉ muốn cưỡi cơn gió mạnh, đạp luồng sóng dữ, chém cá kình ở biển Đông, đánh đuổi quân Ngô, giành lại giang sơn, cởi ách nô lệ, chứ không chịu khom lưng làm tì thiếp cho người!". Tôn Quyền sai Lục Dận mang 8.000 quân sang đánh và dẹp được cuộc nổi dậy; Bà Triệu tuẫn tiết trên núi Tùng. [Nguồn: Cuộc khởi nghĩa của Triệu Thị Trinh, https://baotanglichsu.vn/vi/Articles/3098/14281/cuoc-khoi-nghia-cua-trieu-thi-trinh.html]
@@ -493,7 +493,7 @@
 *   **03/580:** Thiền sư Tỳ Ni Đa Lưu Chi (Vinitaruci) đến Giao Châu (Việt Nam), cư trú tại chùa Pháp Vân và dịch kinh *Tổng trì*, sáng lập thiền phái Tỳ Ni Đa Lưu Chi. [Nguồn: Khái quát lịch sử hình thành và phát triển Thiền tông tại Việt Nam, https://tapchinghiencuuphathoc.vn/khai-quat-lich-su-hinh-thanh-va-phat-trien-thien-tong-tai-viet-nam.html]
 
 <!-- id: EVT-0123 -->
-*   **Thế kỷ VII - VIII (Cuối thời Bắc thuộc):** Người Việt (Kinh), tộc người chiếm gần 90% dân số cả nước hiện nay, đã tách ra từ khối Việt - Mường chung để hình thành tộc người riêng biệt.
+*   **Thế kỷ VII - VIII (Cuối thời Bắc thuộc):** Người Việt (Kinh), tộc người chiếm gần 90% dân số cả nước hiện nay, đã tách ra từ khối Việt - Mường chung để hình thành tộc người riêng biệt. [Nguồn: Lịch sử hình thành và phát triển tiếng Việt, https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Vi%E1%BB%87t#L%E1%BB%8Bch_s%E1%BB%AD]
 
 <!-- id: EVT-0124 -->
 *   **602:** Nhà Tùy sai Lưu Phương đem quân xâm lược, Lý Phật Tử (Hậu Lý Nam Đế) đầu hàng, nước Vạn Xuân kết thúc. [Nguồn: Lý Phật Tử – Hậu Lý Nam Đế, https://hoangthanhthanglong.vn/ly-phat-tu-hau-ly-nam-de-2/]
@@ -514,7 +514,7 @@
 *   **687:** Cuộc khởi nghĩa của Lý Tự Tiên và Đinh Kiến. [Nguồn: Lý Tự Tiên (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/L%C3%BD_T%E1%BB%B1_Ti%C3%AAn]
 
 <!-- id: EVT-0130 -->
-*   **Năm 711:** Nhà Đường lập Phong Châu đô đốc phủ và Hoan Châu đô đốc phủ để phân chia và siết chặt ách đô hộ đối với các khu vực miền núi và phía Nam.
+*   **Năm 711:** Nhà Đường lập Phong Châu đô đốc phủ và Hoan Châu đô đốc phủ để phân chia và siết chặt ách đô hộ đối với các khu vực miền núi và phía Nam. [Nguồn: Tân Đường thư – Địa lý chí (Phủ đô đốc Phong Châu và Hoan Châu), https://vi.wikipedia.org/wiki/An_Nam_%C4%91%C3%B4_h%E1%BB%99_ph%E1%BB%A7]
 
 <!-- id: EVT-0131 -->
 *   **713 - 722:** Mai Thúc Loan dấy binh khởi nghĩa chống lại ách đô hộ của nhà Đường. Ông giải phóng Hoan Châu, xưng là Mai Hắc Đế, lập quốc đô tại thành Vạn An (Nam Đàn, Nghệ An) và liên kết với các nước láng giềng chống lại quân đô hộ trước khi cuộc khởi nghĩa bị nhà Đường đàn áp vào năm 722. [Nguồn: Lễ kỷ niệm 1310 năm khởi nghĩa Hoan Châu (713-2023), https://www.nghean.gov.vn/tin-noi-bat/le-ky-niem-1310-nam-khoi-nghia-hoan-chau-713-2023-546688]
@@ -723,7 +723,7 @@
 *   **988:** Người Chiêm Thành nổi dậy chiếm lại miền Vijaya, tôn Ku Sri Harivarman II lên làm vua tại thành Phật Thệ (Bình Định). [Nguồn: Lưu Kế Tông (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Lưu_Kế_Tông]
 
 <!-- id: EVT-0192 -->
-*   **988:** Lê Hoàn (Lê Đại Hành) được phong làm Khai quốc hầu và được hưởng 3.000 hộ làm thực ấp.
+*   **988:** Lê Hoàn (Lê Đại Hành) được phong làm Khai quốc hầu và được hưởng 3.000 hộ làm thực ấp. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Lê (Đại Hành hoàng đế), https://vi.wikipedia.org/wiki/L%C3%AA_%C4%90%E1%BA%A1i_H%C3%A0nh]
 
 <!-- id: EVT-0193 -->
 *   **989:** **Lưu Kế Tông** qua đời. Vua Chiêm Harivarman II khôi phục lại vùng Amaravati và bắc bộ Nhật Nam đến tận châu Địa Lý. [Nguồn: Lưu Kế Tông (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Lưu_Kế_Tông]
@@ -741,7 +741,7 @@
 *   **995:** Thủy quân Đại Cồ Việt (khoảng 100 chiến thuyền) tấn công trấn Như Hồng (Khâm Châu, nhà Tống). Mùa hè, 5.000 hương binh đánh vào Ung Châu của Tống nhưng bị đẩy lui. [Nguồn: Nhân vật lịch sử Lê Hoàn (vụ Như Hồng, Ung Châu 995), https://xuantin.thanhhoa.gov.vn/Default.aspx?catid=134989&catname=thong-tin-tuyen-truyen&id=456786&pageid=87222&sid=3556&title=nhan-vat-lich-su-le-hoan]
 
 <!-- id: EVT-0198 -->
-*   **996 (Bính Thân):** Lê Đại Hành tiếp sứ Tống là Lý Nhược Chuyết, dùng lời lẽ cứng rắn để bác bỏ trách nhiệm về các vụ cướp biên giới.
+*   **996 (Bính Thân):** Lê Đại Hành tiếp sứ Tống là Lý Nhược Chuyết, dùng lời lẽ cứng rắn để bác bỏ trách nhiệm về các vụ cướp biên giới. [Nguồn: Chiêu "độc" khiến sứ thần Tống triều run sợ của Lê Đại Hành, https://baotanglichsu.vn/vi/Articles/3096/11879/chieu-djoc-khien-su-than-tong-trieu-run-so-cua-le-djai-hanh.html]
 
 <!-- id: EVT-0199 -->
 *   **1001 (Tân Sửu):** Cựu hoàng Đinh Phế Đế (Vệ vương Đinh Toàn) theo vua Lê Đại Hành đi dẹp loạn Cử Long ở vùng Cầm Thủy, Thanh Hóa, không may bị trúng tên độc tử trận ở tuổi 27, khép lại trọn vẹn cuộc đời của vị hoàng đế cuối cùng vương triều Đinh. [Nguồn: Đinh Phế Đế (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Đinh_Phế_Đế]
@@ -753,7 +753,7 @@
 *   **1005:** Vua Lê Đại Hành băng hà dẫn đến cuộc tranh giành ngôi vị kéo dài 8 tháng giữa các hoàng tử. Thái tử Lê Long Việt dẹp tan các phe phái và lên ngôi hoàng đế (Lê Trung Tông). Tuy nhiên, chỉ sau 3 ngày trị vì, nhà vua bị người em trai là Lê Long Đĩnh sai thuộc hạ đang đêm trèo tường vào cấm cung ám sát để cướp ngôi. [Nguồn: Nhà Tiền Lê: tồn tại bao nhiêu năm, mấy vị hoàng đế?, https://danviet.vn/nha-tien-le-do-le-hoan-thanh-lap-ton-tai-bao-nhieu-nam-co-may-vi-hoang-de-d1396007.html]
 
 <!-- id: EVT-0202 -->
-*   **06/1006 (Bính Ngọ):** Vua Tống từ chối lời thỉnh cầu của Lăng Sách về việc đem quân đánh Đại Cồ Việt nhân lúc nội bộ triều Lê rối ren.
+*   **06/1006 (Bính Ngọ):** Vua Tống từ chối lời thỉnh cầu của Lăng Sách về việc đem quân đánh Đại Cồ Việt nhân lúc nội bộ triều Lê rối ren. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Lê (Ngọa Triều hoàng đế), https://vi.wikipedia.org/wiki/L%C3%AA_Ng%E1%BB%8Da_Tri%E1%BB%81u]
 
 <!-- id: EVT-0203 -->
 *   **1008:** Vua Lê Long Đĩnh đổi niên hiệu Cảnh Thụy, phong vương cho các hoàng tử và đẩy mạnh mở các khu chợ trao đổi hàng hóa tại biên giới Đại Cồ Việt - Tống. [Nguồn: Hoàng đế Lê Ngọa Triều là ai?, https://danviet.vn/hoang-de-le-ngoa-trieu-la-ai-va-co-that-xau-xa-nhu-trong-su-sach-20220322163705729-d1008564.html]
@@ -771,7 +771,7 @@
 *   **21/11/1009:** Lê Long Đĩnh (Lê Ngọa Triều) mất. Lý Công Uẩn được tôn lên làm vua (Lý Thái Tổ), sáng lập ra vương triều Lý. [Nguồn: Lý Thái Tổ (1010-1028), https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/ly-thai-to-1010-1028-.html]
 
 <!-- id: EVT-0207 -->
-*   **1010:** Vua Lý Thái Tổ đến châu Cổ Pháp (Thiên Đức) yết lăng Thái hậu, sai các quan đo đất vài mươi dặm đặt làm cấm địa thuộc sơn lăng.
+*   **1010:** Vua Lý Thái Tổ đến châu Cổ Pháp (Thiên Đức) yết lăng Thái hậu, sai các quan đo đất vài mươi dặm đặt làm cấm địa thuộc sơn lăng. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Lý (Thái Tổ hoàng đế), https://vi.wikipedia.org/wiki/L%C3%BD_Th%C3%A1i_T%E1%BB%95]
 
 <!-- id: EVT-0208 -->
 *   **07/1010:** Lý Thái Tổ ra "Chiếu dời đô", chuyển kinh đô từ Hoa Lư về thành Đại La và đổi tên thành Thăng Long. Đổi Hoa Lư làm phủ Trường Yên. [Nguồn: Chiếu dời đô, https://hoangthanhthanglong.vn/chieu-doi-do/]
@@ -799,7 +799,7 @@
 *   **06/1018:** Triều đình cử sứ sang nhà Tống xin bộ kinh Tam Tạng. [Nguồn: Lý Thái Tổ (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Lý_Thái_Tổ]
 
 <!-- id: EVT-0214 -->
-*   **1019 (Kỷ Mùi):** Bộ sách "Thiên thư" do Tể tướng nhà Tống Vương Khâm Nhược chủ trì biên soạn được hoàn thành để thần thánh hóa vương triều. Đây là đối tượng mà Lý Thường Kiệt nhắm tới trong bài thơ *Nam quốc sơn hà* sau này.
+*   **1019 (Kỷ Mùi):** Bộ sách "Thiên thư" do Tể tướng nhà Tống Vương Khâm Nhược chủ trì biên soạn được hoàn thành để thần thánh hóa vương triều. Đây là đối tượng mà Lý Thường Kiệt nhắm tới trong bài thơ *Nam quốc sơn hà* sau này. [Nguồn: Tống sử – Vương Khâm Nhược truyện; Nam quốc sơn hà, https://vi.wikipedia.org/wiki/Nam_qu%E1%BB%91c_s%C6%A1n_h%C3%A0]
 
 <!-- id: EVT-0215 -->
 *   **12/1020:** Quân Lý dưới sự chỉ huy của Thái tử Lý Phật Mã đánh bại quân Chiêm Thành ở trại Bố Chính (Quảng Bình). [Nguồn: Lý Thái Tông – nhà chính trị, nhà quân sự tài giỏi, https://nguoihanoi.vn/ly-thai-tong-nha-chinh-tri-nha-quan-su-tai-gioi-78820.html]
@@ -820,7 +820,7 @@
 *   **1030:** Vua Lý Thái Tông đến Hoan Châu, đặt hành dinh và đổi tên châu này thành châu **Nghệ An**. [Nguồn: Giới thiệu tổng quan về tỉnh Nghệ An, https://nghean.dcs.vn/vi-vn/tin/gioi-thieu-tong-quan-ve-tinh-nghe-an/72156-401418-830945]
 
 <!-- id: EVT-0224 -->
-*   **04/1034:** Hai thiền sư Nghiêm Bảo Tính và Phạm Minh Tâm tự thiêu tại triều. Vua Lý Thái Tông đổi niên hiệu thành Thông Thụy.
+*   **04/1034:** Hai thiền sư Nghiêm Bảo Tính và Phạm Minh Tâm tự thiêu tại triều. Vua Lý Thái Tông đổi niên hiệu thành Thông Thụy. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Lý (Thái Tông hoàng đế, đổi niên hiệu Thông Thụy), https://vi.wikipedia.org/wiki/L%C3%BD_Th%C3%A1i_T%C3%B4ng]
 
 <!-- id: EVT-0222 -->
 *   **1035:** Vua Lý Thái Tông cho mở chợ Tây Nhai với hành lang dài, phản ánh sự phát triển của thương nghiệp và trao đổi hàng hóa trong nước. [Nguồn: Chợ phiên Thăng Long-Hà Nội xưa và nay, https://scov.gov.vn/dat-nuoc-con-nguoi/1000-nam-thang-long-ha-noi/cho-phien-thang-long-ha-noi-xua-va-nay.html]
@@ -847,13 +847,13 @@
 *   **1042:** Vua Lý Thái Tông cho phép những người già cả và người có công lớn được dùng tiền chuộc tội, phản ánh vai trò ngày càng tăng của tiền tệ. [Nguồn: Lý Thái Tông, người ban hành bộ luật thành văn đầu tiên của nước ta, https://hoangthanhthanglong.vn/ly-thai-tong-nguoi-ban-hanh-bo-luat-thanh-van-dau-tien-cua-nuoc-ta/]
 
 <!-- id: EVT-0231 -->
-*   **11/1042:** Vua Lý Thái Tông xuống chiếu cho đắp đất làm ụ, cắm biển gỗ chỉ dẫn đường đi để thuận tiện cho người dân đi lại bốn phương.
+*   **11/1042:** Vua Lý Thái Tông xuống chiếu cho đắp đất làm ụ, cắm biển gỗ chỉ dẫn đường đi để thuận tiện cho người dân đi lại bốn phương. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Lý (Thái Tông hoàng đế, đắp ụ cắm biển chỉ đường), https://vi.wikipedia.org/wiki/L%C3%BD_Th%C3%A1i_T%C3%B4ng]
 
 <!-- id: EVT-0232 -->
-*   **1043:** Vua Lý Thái Tông xuống chiếu quy định những kẻ đem bán hoàng nam (đinh nam tự do) làm gia nô sẽ bị đánh 100 trượng và xăm 20 chữ vào mặt.
+*   **1043:** Vua Lý Thái Tông xuống chiếu quy định những kẻ đem bán hoàng nam (đinh nam tự do) làm gia nô sẽ bị đánh 100 trượng và xăm 20 chữ vào mặt. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Lý (Thái Tông hoàng đế, cấm bán hoàng nam), https://vi.wikipedia.org/wiki/L%C3%BD_Th%C3%A1i_T%C3%B4ng]
 
 <!-- id: EVT-0233 -->
-*   **1044:** Vua Lý Thái Tông quy định hình phạt nghiêm khắc đối với quan lại Quyến Khố ty (kho lụa) nhận hối lộ, nhận 1 thước lụa bị phạt 100 trượng, từ 1 đến 10 tấm lụa bị phạt đồ (khổ sai) 10 năm.
+*   **1044:** Vua Lý Thái Tông quy định hình phạt nghiêm khắc đối với quan lại Quyến Khố ty (kho lụa) nhận hối lộ, nhận 1 thước lụa bị phạt 100 trượng, từ 1 đến 10 tấm lụa bị phạt đồ (khổ sai) 10 năm. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Lý (Thái Tông hoàng đế, trừng trị quan tham nhũng), https://vi.wikipedia.org/wiki/L%C3%BD_Th%C3%A1i_T%C3%B4ng]
 
 <!-- id: EVT-0234 -->
 *   **01/1044:** Lý Thái Tông thân chinh đánh Champa, chém được vua Champa là Sạ Đẩu tại trận. [Nguồn: Lý Thái Tông, người ban hành bộ luật thành văn đầu tiên của nước ta, https://hoangthanhthanglong.vn/ly-thai-tong-nguoi-ban-hanh-bo-luat-thanh-van-dau-tien-cua-nuoc-ta/]
@@ -869,16 +869,16 @@
 *Nguồn: Ảnh: Staffan Scherz / Wikimedia Commons (CC BY 2.0)*
 
 <!-- id: EVT-0237 -->
-*   **11/1051:** Triều đình nhà Lý cho đào sông Lẫm ở Thanh Hóa.
+*   **11/1051:** Triều đình nhà Lý cho đào sông Lẫm ở Thanh Hóa. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Lý (Thái Tông hoàng đế, đào sông Lẫm), https://vi.wikipedia.org/wiki/L%C3%BD_Th%C3%A1i_T%C3%B4ng]
 
 <!-- id: EVT-0238 -->
-*   **1053:** Khai Quốc Vương lãnh đạo quân đội Đại Việt tiến hành cuộc Bắc phạt, hỗ trợ Nùng Trí Cao lập nước Đại Nam tại vùng Lưỡng Quảng.
+*   **1053:** Khai Quốc Vương lãnh đạo quân đội Đại Việt tiến hành cuộc Bắc phạt, hỗ trợ Nùng Trí Cao lập nước Đại Nam tại vùng Lưỡng Quảng. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Lý; Nùng Trí Cao, https://vi.wikipedia.org/wiki/N%C3%B9ng_Tr%C3%AD_Cao]
 
 <!-- id: EVT-0239 -->
 *   **1054:** Lý Thái Tông mất, Lý Nhật Tôn lên ngôi (Lý Thánh Tông), đổi quốc hiệu từ Đại Cồ Việt thành Đại Việt. [Nguồn: Quốc hiệu Việt Nam qua lịch sử dựng nước (Báo Nhân Dân), https://nhandan.vn/quoc-hieu-viet-nam-qua-lich-su-dung-nuoc-post362337.html]
 
 <!-- id: EVT-0240 -->
-*   **1055:** Hoàng tử Lý Nhật Quang đánh dẹp giặc Ông Kệ, Lý Phủ, ổn định vùng Nghệ An.
+*   **1055:** Hoàng tử Lý Nhật Quang đánh dẹp giặc Ông Kệ, Lý Phủ, ổn định vùng Nghệ An. [Nguồn: Việt điện u linh tập – Uy Minh Dũng Triết Chiêu Cảm Đại Vương; Lý Nhật Quang, https://vi.wikipedia.org/wiki/L%C3%BD_Nh%E1%BA%ADt_Quang]
 
 <!-- id: EVT-0241 -->
 *   **1056:** Vua Lý Thánh Tông cho xây chùa Sùng Khánh Báo Thiên và đúc đại hồng chung, được coi là một trong "An Nam tứ đại khí". [Nguồn: An Nam tứ đại khí là gì?, https://phatgiao.org.vn/an-nam-tu-dai-khi-la-gi-d41838.html]
@@ -893,7 +893,7 @@
 *   **1057:** Vua Lý Thánh Tông cho xây dựng **Tháp Báo Thiên** (Đại Thắng Tư Thiên Bảo Tháp) tại Thăng Long. Tháp cao 12 tầng và được coi là một trong "An Nam tứ đại khí". [Nguồn: An Nam tứ đại khí là gì?, https://phatgiao.org.vn/an-nam-tu-dai-khi-la-gi-d41838.html]
 
 <!-- id: EVT-0245 -->
-*   **1059 - 1060:** Công chúa Bình Dương và Phò mã Thân Thiệu Thái chỉ huy cuộc Bắc phạt, tiến đánh vùng Tả Giang, Hữu Giang của nhà Tống, chiếm lại hơn 10 cửa ải.
+*   **1059 - 1060:** Công chúa Bình Dương và Phò mã Thân Thiệu Thái chỉ huy cuộc Bắc phạt, tiến đánh vùng Tả Giang, Hữu Giang của nhà Tống, chiếm lại hơn 10 cửa ải. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Lý (Thánh Tông hoàng đế); Thân Thiệu Thái, https://vi.wikipedia.org/wiki/Th%C3%A2n_Thi%E1%BB%87u_Th%C3%A1i]
 
 <!-- id: EVT-0246 -->
 *   **1059:** Vua Lý Thánh Tông ra lệnh cho các quan vào chầu phải đội mũ "phác đầu" và đi hia. Đây là quy định chính thức đầu tiên về triều phục. [Nguồn: Lý Thánh Tông (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Lý_Thánh_Tông]
@@ -915,7 +915,7 @@
 *   **01/1072:** Lý Thánh Tông mất, Lý Càn Đức (Lý Nhân Tông) lên ngôi do được truyền ngôi theo di chiếu của vua cha Lý Thánh Tông (lúc mới 7 tuổi). [Nguồn: Lý Thánh Tông – vị vua nhân ái, trọng văn hóa, https://nguoihanoi.vn/ly-thanh-tong-vi-vua-nhan-ai-trong-van-hoa-78828.html]
 
 <!-- id: EVT-0251 -->
-*   **1075:** Lý Thường Kiệt đi tuần hành biên giới phía nam, vẽ bản đồ hình thế núi sông và đổi châu Địa Lý làm châu Lâm Bình, châu Ma Linh làm châu Minh Linh.
+*   **1075:** Lý Thường Kiệt đi tuần hành biên giới phía nam, vẽ bản đồ hình thế núi sông và đổi châu Địa Lý làm châu Lâm Bình, châu Ma Linh làm châu Minh Linh. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Lý (Nhân Tông hoàng đế, năm 1075), https://vi.wikipedia.org/wiki/L%C3%BD_Th%C6%B0%E1%BB%9Dng_Ki%E1%BB%87t]
 
 <!-- id: EVT-0252 -->
 *   **1075:** Linh Nhân Hoàng thái hậu (Ỷ Lan) nhiếp chính, quyết định chủ trương "Tiên phát chế nhân" đánh sang đất Tống. Bà tổ chức một bộ máy hậu cần đặc biệt với các nữ quan như Công chúa Thiên Ninh (Bà Chúa Kho) để đảm bảo lương thảo. [Nguồn: Vua Lý Nhân Tông phạt Tống (Nghiên cứu Quốc tế), https://nghiencuuquocte.org/2020/03/14/vua-ly-nhan-tong-phat-tong/]
@@ -952,7 +952,7 @@
 *   **01/03/1076:** Sau 42 ngày vây hãm, thành Ung Châu thất thủ. Tướng Tống là Tô Giám tự thiêu, hơn 50.000 người trong thành bị giết. Quân Đại Việt rút về nước vào tháng 3/1076. [Nguồn: Lý Thường Kiệt đại phá Ung châu, https://danviet.vn/ly-thuong-kiet-dai-pha-ung-chau-xac-quan-tong-chat-cao-nhu-nui-20221023192056269-d1051774.html]
 
 <!-- id: EVT-0262 -->
-*   **1077:** Trong các trận chiến ác liệt tại Kháo Túc, Phú Lương, nhiều tướng lĩnh và hoàng thân đã anh dũng hy sinh, bao gồm Trung Thành vương Lý Hoằng Chân, Tín Nghĩa vương Lý Chiêu Văn, Phò mã Hoàng Kiện, tướng Nguyễn Căn, cùng các phu nhân trực tiếp cầm quân.
+*   **1077:** Trong các trận chiến ác liệt tại Kháo Túc, Phú Lương, nhiều tướng lĩnh và hoàng thân đã anh dũng hy sinh, bao gồm Trung Thành vương Lý Hoằng Chân, Tín Nghĩa vương Lý Chiêu Văn, Phò mã Hoàng Kiện, tướng Nguyễn Căn, cùng các phu nhân trực tiếp cầm quân. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Lý; Trận Như Nguyệt, https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_Nh%C6%B0_Nguy%E1%BB%87t]
 
 <!-- id: EVT-0263 -->
 *   **18/01 - 28/02/1077:** Trận sông Như Nguyệt. Quân Tống (10 vạn quân chiến đấu, 20 vạn phu) do Quách Quỳ, Triệu Tiết chỉ huy bị chặn đứng bởi phòng tuyến của Đại Việt (6-10 vạn quân) do Lý Thường Kiệt chỉ huy. Sau hai đợt tiến công vượt sông thất bại, quân Đại Việt phản công. Hoằng Chân và Chiêu Văn tập kích doanh trại Quách Quỳ và hy sinh; Lý Thường Kiệt tập kích tiêu diệt doanh trại Triệu Tiết. Quân Tống thiệt hại 76.600 lính và 8 vạn phu, buộc phải giảng hòa và rút quân. [Nguồn: Kỷ niệm 937 năm kháng chiến chống quân Tống lần thứ hai thắng lợi (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3097/16199/ky-niem-937-nam-cuoc-khang-chien-chong-quan-tong-lan-thu-hai-thang-loi-1077-2014.html]
@@ -1173,7 +1173,7 @@
 *   **04/1232 (Nhâm Thìn):** Trần Thủ Độ nhân việc ban chữ húy về tổ tiên họ Trần (Trần Lý) đã ép con cháu họ Lý phải đổi sang họ Nguyễn. [Nguồn: Án xưa: Sáng lập nhà Trần - Tội thần nhà Lý (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3096/6488/an-xua-sang-lap-nha-tran-toi-than-nha-ly.html]
 
 <!-- id: EVT-0332 -->
-*   **1233:** Duyệt lại sổ hộ tịch ở Nghệ An.
+*   **1233:** Duyệt lại sổ hộ tịch ở Nghệ An. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Trần (Thái Tông hoàng đế, năm 1233), https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Th%C3%A1i_T%C3%B4ng]
 
 <!-- id: EVT-0333 -->
 *   **1233:** Hoàng Thái tử Trịnh, con trai đầu của vua Trần Thái Tông, qua đời (có khả năng mất ngay sau khi sinh). [Nguồn: Chuyện chồng và con của Lý Chiêu Hoàng (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/2001/66297/chuyen-chong-va-con-cua-ly-chieu-hoang.html]
@@ -1182,7 +1182,7 @@
 *   **18/01/1234:** Thái thượng hoàng Trần Thừa qua đời, thọ 51 tuổi. Ông ở ngôi Thượng hoàng trong 8 năm nhưng thực tế chưa một ngày làm vua. [Nguồn: Tưởng niệm Thái thượng hoàng triều Trần tại Nam Định (Đại Đoàn Kết), https://daidoanket.vn/nam-dinh-tuong-niem-vi-thai-thuong-hoang-cua-vuong-trieu-tran-10243479.html]
 
 <!-- id: EVT-0335 -->
-*   **1236:** Vua Trần Thái Tông sai khơi vét lại sông Tô Lịch và định lệ cấp bổng lộc cho các quan văn võ bằng cách chia tiền thuế.
+*   **1236:** Vua Trần Thái Tông sai khơi vét lại sông Tô Lịch và định lệ cấp bổng lộc cho các quan văn võ bằng cách chia tiền thuế. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Trần (Thái Tông hoàng đế, năm 1236), https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Th%C3%A1i_T%C3%B4ng]
 
 <!-- id: EVT-0336 -->
 *   **1237:** Trần Thủ Độ ép vua Trần Thái Tông lấy vợ của anh trai (Trần Liễu) là Công chúa Thuận Thiên và lập làm Hoàng hậu, giáng Chiêu Thánh làm Công chúa do bà chậm sinh nở. Cuối năm đó, Thuận Thiên sinh ra Trần Quốc Khang (thực chất là con Trần Liễu). Sự kiện ép buộc hôn nhân này đã dẫn đến vụ loạn Trần Liễu. [Nguồn: Chuyện Trần Quốc Khang (Việt sử giai thoại), https://scov.gov.vn/ban-sac-van-hoa/viet-su-giai-thoai/chuyen-tran-quoc-khang.html]
@@ -1191,7 +1191,7 @@
 *   **1237:** Vua Trần Thái Tông ban các đất Yên Phụ, Yên Dương, Yên Sinh, Yên Hưng, Yên Bảng cho anh là Trần Liễu làm "thang mộc ấp". Ông cũng chính thức hóa thủ tục làm văn tự bán ruộng đất và vay mượn, quy định người làm chứng điểm chỉ 3 dòng đầu, người bán điểm chỉ 4 dòng cuối. [Nguồn: Báo Nhân Dân - Trại Yên Hưng thang mộc ấp của Trần Liễu, https://special.nhandan.vn/hai-thi-xa/index.html]
 
 <!-- id: EVT-0338 -->
-*   **1238:** Duyệt lại sổ hộ tịch ở Thanh Hóa.
+*   **1238:** Duyệt lại sổ hộ tịch ở Thanh Hóa. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Trần (Thái Tông hoàng đế, năm 1238), https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Th%C3%A1i_T%C3%B4ng]
 
 <!-- id: EVT-0339 -->
 *   **25/09/1240 (Canh Tý):** Hoàng đích Trưởng tử Trần Hoảng (sau là vua Trần Thánh Tông) sinh ra, được vua Trần Thái Tông lập làm Đông Cung Thái tử. [Nguồn: Trần Thánh Tông – hoàng đế đánh giặc và tu thiền (Người Hà Nội), https://nguoihanoi.vn/tran-thanh-tong-hoang-de-danh-giac-va-tu-thien-78957.html]
@@ -1203,7 +1203,7 @@
 *   **1242:** Triều đình tiến hành cải cách hành chính, chia cả nước thành 12 lộ. [Nguồn: Trần Thái Tông và cải cách đất nước thời Trần (Tạp chí Nghiên cứu Phật học), https://tapchinghiencuuphathoc.vn/tran-thai-tong-va-van-de-cai-cach-dat-nuoc-thoi-tran.html]
 
 <!-- id: EVT-0342 -->
-*   **1242:** Nhà Trần định ra thuế "điền phú". Nam giới có ruộng nộp tiền và lúa theo diện tích (1-2 mẫu nộp 1 quan, 3-4 mẫu nộp 2 quan, từ 5 mẫu trở lên nộp 3 quan), người không có ruộng thì được miễn.
+*   **1242:** Nhà Trần định ra thuế "điền phú". Nam giới có ruộng nộp tiền và lúa theo diện tích (1-2 mẫu nộp 1 quan, 3-4 mẫu nộp 2 quan, từ 5 mẫu trở lên nộp 3 quan), người không có ruộng thì được miễn. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Trần (Thái Tông hoàng đế, thuế điền phú), https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Th%C3%A1i_T%C3%B4ng]
 
 <!-- id: EVT-0343 -->
 *   **1247:** Nguyễn Hiền đỗ Trạng nguyên khi mới 13 tuổi, trở thành Trạng nguyên trẻ nhất trong lịch sử khoa bảng Việt Nam. [Nguồn: Đền thờ Trạng nguyên Nguyễn Hiền (Báo Ninh Bình), https://baoninhbinh.org.vn/den-tho-trang-nguyen-nguyen-hien-noi-gin-giu-va-lan-toa-truyen-thong-hieu-hoc-260322085052696.html]
@@ -1233,7 +1233,7 @@
 *   **08/1253:** Vua Trần Thái Tông cho lập **Giảng võ đường** để đào tạo võ quan, đánh dấu sự chú trọng vào giáo dục quân sự. [Nguồn: Học viện quân sự đầu tiên của Việt Nam, https://scov.gov.vn/dat-nuoc-con-nguoi/1000-nam-thang-long-ha-noi/hoc-vien-quan-su-dau-tien-cua-viet-nam.html]
 
 <!-- id: EVT-0352 -->
-*   **06/1254:** Vua Trần Thái Tông bán ruộng công (quan điền) cho dân với giá 5 quan mỗi mẫu để thành ruộng tư, chính thức thừa nhận và thúc đẩy sở hữu ruộng đất tư nhân.
+*   **06/1254:** Vua Trần Thái Tông bán ruộng công (quan điền) cho dân với giá 5 quan mỗi mẫu để thành ruộng tư, chính thức thừa nhận và thúc đẩy sở hữu ruộng đất tư nhân. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Trần (Thái Tông hoàng đế, bán ruộng công), https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Th%C3%A1i_T%C3%B4ng]
 
 <!-- id: EVT-0353 -->
 *   **1255:** Vua Trần Thái Tông sai Lưu Miễn đi đôn đốc đắp đê dọc các sông ở Thanh Hóa. [Nguồn: Câu chuyện đắp đê (Công an Nhân dân), https://cand.vn/cau-chuyen-dap-de-post790641.html]
@@ -1242,7 +1242,7 @@
 *   **1256:** Triều Trần lần đầu tiên chia Trạng nguyên thành "Kinh Trạng nguyên" (người từ Ninh Bình trở ra) và "Trại Trạng nguyên" (người từ Thanh Hóa trở vào) để khuyến khích nhân tài các vùng. Trần Quốc Lặc và Trương Xán lần lượt đỗ đầu. [Nguồn: Kẻ Kinh, người Trại cũng là tài danh (Báo Quảng Trị), https://baoquangtri.vn/van-hoa/202504/ke-kinh-nguoi-trai-cung-la-tai-danh-2225739]
 
 <!-- id: EVT-0355 -->
-*   **02/1257:** Vua Trần Thái Tông nhận con gái Hoàng Bính vào cung, sách phong làm Huệ Túc phu nhân.
+*   **02/1257:** Vua Trần Thái Tông nhận con gái Hoàng Bính vào cung, sách phong làm Huệ Túc phu nhân. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Trần (Thái Tông hoàng đế, Huệ Túc phu nhân), https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Th%C3%A1i_T%C3%B4ng]
 
 <!-- id: EVT-0356 -->
 *   **08/1257:** Sứ Mông Cổ đến Đại Việt lần đầu tiên để dụ hàng. [Nguồn: Đại Việt lần đầu đánh bại quân Nguyên Mông (Nghiên cứu Quốc tế), https://nghiencuuquocte.org/2020/08/22/dai-viet-lan-dau-danh-bai-quan-nguyen-mong]
@@ -1287,7 +1287,7 @@
 *   **1280:** Chiêu Văn vương Trần Nhật Duật một mình vào doanh trại thủ lĩnh Trịnh Giác Mật ở đạo Đà Giang, dùng tài ngoại giao và sự am tường phong tục tập quán để cảm hóa, thu phục thủ lĩnh quy hàng triều đình mà không tốn một mũi tên. [Nguồn: Báo VietNamNet - Bốn giai thoại ít biết về danh tướng giỏi ngoại ngữ nhất sử Việt, https://vietnamnet.vn/bon-giai-thoai-it-biet-ve-danh-tuong-gioi-ngoai-ngu-nhat-su-viet-474675.html]
 
 <!-- id: EVT-0370 -->
-*   **1281:** Đặt học đường ở phủ Thiên Trường (Nam Định).
+*   **1281:** Đặt học đường ở phủ Thiên Trường (Nam Định). [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Trần (Nhân Tông hoàng đế, học đường Thiên Trường), https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Nh%C3%A2n_T%C3%B4ng]
 
 <!-- id: EVT-0371 -->
 *   **1282:** Tác phẩm đầu tiên viết bằng chữ Nôm là *Văn tế cá sấu* của Nguyễn Thuyên, sáng tác dưới triều đại nhà Trần. Đây là bài văn được vua Trần Nhân Tông sai viết để đuổi con cá sấu xuất hiện trên sông Hồng. [Nguồn: Hàn Thuyên: Ông tổ chữ Nôm (Dân Việt), https://danviet.vn/han-thuyen-ong-to-van-nom-va-bai-te-duoi-ca-sau-20230629152341982-d1103184.html]
@@ -1305,7 +1305,7 @@
 *   **10/1283:** Để chuẩn bị cho cuộc kháng chiến lần hai, Trần Quốc Tuấn được Thượng hoàng Trần Thánh Tông và vua Trần Nhân Tông phong làm Quốc công tiết chế thống lĩnh chư quân. [Nguồn: Đại Việt đánh bại quân Nguyên Mông lần thứ hai (Nghiên cứu Quốc tế), https://nghiencuuquocte.org/2020/10/25/dai-viet-danh-bai-quan-nguyen-mong-lan-thu-hai]
 
 <!-- id: EVT-0376 -->
-*   **1284:** Vua Trần Nhân Tông sai khơi vét lại sông Tô Lịch.
+*   **1284:** Vua Trần Nhân Tông sai khơi vét lại sông Tô Lịch. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Trần (Nhân Tông hoàng đế, năm 1284), https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Nh%C3%A2n_T%C3%B4ng]
 
 <!-- id: EVT-0377 -->
 *   **08/1284:** Hưng Đạo vương tổ chức duyệt binh ở bến Đông Bộ Đầu và công bố tác phẩm "Hịch tướng sĩ" để khích lệ tinh thần quân sĩ. [Nguồn: Hịch tướng sĩ (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/H%E1%BB%8Bch_t%C6%B0%E1%BB%9Bng_s%C4%A9]
@@ -1390,7 +1390,7 @@
 *   **1294:** Thượng tướng quân Trần Quang Khải, nhà quân sự và nhà thơ lớn của dân tộc, qua đời. [Nguồn: Thái sư Trần Quang Khải (Nhân Dân), https://nhandan.vn/thai-su-tran-quang-khai-post471072.html]
 
 <!-- id: EVT-0399 -->
-*   **1299:** Vua Trần Nhân Tông xuống chiếu yêu cầu học trò trong cả nước phải tập trung học tập để chuẩn bị cho các khoa thi.
+*   **1299:** Vua Trần Nhân Tông xuống chiếu yêu cầu học trò trong cả nước phải tập trung học tập để chuẩn bị cho các khoa thi. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Trần (Anh Tông hoàng đế, năm 1299), https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Anh_T%C3%B4ng]
 
 <!-- id: EVT-0400 -->
 *   **1299:** Thượng hoàng Trần Nhân Tông xuất gia tu hành tại núi Yên Tử (Quảng Ninh), lấy đạo hiệu Hương Vân Đại Đầu Đà (Trúc Lâm Đại Sĩ), chính thức sáng lập dòng Thiền phái Trúc Lâm Yên Tử mang đậm bản sắc văn hóa Phật giáo Đại Việt. [Nguồn: Trần Nhân Tông với Thiền phái Trúc Lâm Yên Tử (Nhân Dân), https://nhandan.vn/tran-nhan-tong-voi-thien-phai-truc-lam-yen-tu-post601474.html]
@@ -1409,7 +1409,7 @@
 *   **Khoảng thế kỷ XIV:** Truyền thuyết Lạc Long Quân và Âu Cơ, Phù Đổng Thiên Vương (Thánh Gióng), và Sơn Tinh - Thủy Tinh được ghi chép lần đầu tiên trong bộ sách sử **Lĩnh Nam chích quái**. [Nguồn: Lĩnh Nam chích quái: Từ huyền thoại đến huyền sử (Znews), https://znews.vn/linh-nam-chich-quai-tu-huyen-thoai-den-huyen-su-post749575.html]
 
 <!-- id: EVT-0404 -->
-*   **Cuối thế kỷ XIV - Nửa đầu thế kỷ XIX:** Xã hội Việt Nam chứng kiến những phong trào đấu tranh rộng lớn. Điểm đặc thù là không có những cuộc khởi nghĩa thuần túy của nông dân chống lại địa chủ, mà phổ biến là sự tập hợp lực lượng của nông dân cùng các tầng lớp bất bình (nho sĩ, địa chủ, quan lại) chống lại bọn cường hào, quan lại gian ác và tập đoàn thống trị thoái hóa.
+*   **Cuối thế kỷ XIV - Nửa đầu thế kỷ XIX:** Xã hội Việt Nam chứng kiến những phong trào đấu tranh rộng lớn. Điểm đặc thù là không có những cuộc khởi nghĩa thuần túy của nông dân chống lại địa chủ, mà phổ biến là sự tập hợp lực lượng của nông dân cùng các tầng lớp bất bình (nho sĩ, địa chủ, quan lại) chống lại bọn cường hào, quan lại gian ác và tập đoàn thống trị thoái hóa. [Nguồn: Lịch sử Việt Nam – Đặc điểm phong trào đấu tranh xã hội thế kỷ XIV-XIX, https://baotanglichsu.vn]
 
 <!-- id: EVT-0405 -->
 *   **1304:** Mạc Đĩnh Chi đỗ Trạng nguyên. Ông nổi tiếng với tài năng và sự ứng đối khiến vua quan nhà Nguyên nể phục, được phong là "Lưỡng quốc Trạng nguyên". [Nguồn: Mạc Đĩnh Chi thành Lưỡng quốc Trạng nguyên (Báo Hải Phòng), https://baohaiphong.vn/mac-dinh-chi-va-cau-chuyen-tro-thanh-luong-quoc-trang-nguyen-nho-quay-bai-218906.html]
@@ -1430,7 +1430,7 @@
 *   **14/12/1308 (01/11 năm Mậu Thân):** Thái thượng hoàng Trần Nhân Tông (Trần Khâm) – vị vua anh minh kiệt xuất lãnh đạo Đại Việt đánh bại hoàn toàn các đạo quân xâm lược Nguyên Mông, sau xuất gia sáng lập Thiền phái Trúc Lâm Yên Tử (Phật Hoàng Trần Nhân Tông) – viên tịch tại am Ngọa Vân trên đỉnh núi Yên Tử, thọ 51 tuổi. [Nguồn: Tưởng niệm 715 năm Phật hoàng Trần Nhân Tông nhập niết bàn (Công Lý), https://congly.vn/dai-le-tuong-niem-715-nam-phat-hoang-tran-nhan-tong-nhap-niet-ban-tai-yen-tu-409292.html]
 
 <!-- id: EVT-0411 -->
-*   **1309:** Cho đào sông Thiên Đức (sông Đuống) để thuận tiện cho việc giao thông.
+*   **1309:** Cho đào sông Thiên Đức (sông Đuống) để thuận tiện cho việc giao thông. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Trần (Anh Tông hoàng đế, đào sông Thiên Đức), https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Anh_T%C3%B4ng]
 
 <!-- id: EVT-0412 -->
 *   **1310:** Vua Trần Anh Tông ban 80 mẫu ruộng và người làm ruộng ở An Định cho thiền sư Pháp Loa. [Nguồn: Ruộng đất tư hữu thời Lý - Trần (Khoa Lịch sử, USSH), https://his.ussh.vnu.edu.vn/vi/news/nguyen-anh-nhat-tran/vai-nhan-xet-ve-ruong-dat-tu-huu-o-viet-nam-thoi-ly-tran-5830.html]
@@ -1445,7 +1445,7 @@
 *   **Năm 1315:** Vua Trần Minh Tông định lệ cấm người trong hoàng tộc không được kiện cáo lẫn nhau nhằm duy trì sự hòa thuận trong vương triều. [Nguồn: Trần Minh Tông (1314-1329), https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/tran-minh-tong-1314-1329-.html]
 
 <!-- id: EVT-0416 -->
-*   **1316:** Nhà Trần sửa đổi chế độ cấp hộ làm bổng lộc cho quan văn theo phẩm cấp, và các thân vương gặt ruộng Tịch điền.
+*   **1316:** Nhà Trần sửa đổi chế độ cấp hộ làm bổng lộc cho quan văn theo phẩm cấp, và các thân vương gặt ruộng Tịch điền. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Trần (Minh Tông hoàng đế, năm 1316), https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Minh_T%C3%B4ng]
 
 <!-- id: EVT-0417 -->
 *   **21/04/1320 (16/03 năm Canh Thân):** Thái thượng hoàng Trần Anh Tông (Trần Thuyên), vị hoàng đế thứ tư của triều Trần có công lớn trong việc mở rộng cương thổ về phương Nam (tiếp nhận hai châu Ô, Lý) và củng cố vững chắc nền thịnh trị Đại Việt, băng hà tại cung Trùng Quang (Thiên Trường, Nam Định), thọ 45 tuổi. [Nguồn: Trần Anh Tông – hoàng đế, thi nhân (Người Hà Nội), https://nguoihanoi.vn/tran-anh-tong-hoang-de-thi-nhan-mot-thoi-thinh-tri-78981.html]
@@ -1460,7 +1460,7 @@
 *   **1324:** Tư đồ Văn Huệ vương cúng 300 mẫu ruộng ở Gia Lâm, hơn 1.000 mẫu ở Đông Gia và An Lưu cùng hơn 1.000 gia nô cho chùa Quỳnh Lâm. [Nguồn: Đóng góp của Pháp Loa với Phật giáo VN (Tạp chí KHXH, VASS), http://tapchikhxh.vass.gov.vn/dong-gop-cua-phap-loa-doi-voi-phat-giao-viet-nam-n50235.html]
 
 <!-- id: EVT-0421 -->
-*   **1329:** Lý Tế Xuyên hoàn thành biên soạn bộ sách *Việt Điện U Linh Tập*, một tác phẩm văn học - lịch sử quan trọng ghi lại sự tích các vị thần và nhân vật lịch sử của Việt Nam.
+*   **1329:** Lý Tế Xuyên hoàn thành biên soạn bộ sách *Việt Điện U Linh Tập*, một tác phẩm văn học - lịch sử quan trọng ghi lại sự tích các vị thần và nhân vật lịch sử của Việt Nam. [Nguồn: Việt điện u linh tập – Lý Tế Xuyên, https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_%C4%91i%E1%BB%87n_u_linh_t%E1%BA%ADp]
 
 <!-- id: EVT-0422 -->
 *   **18/03/1329:** Trần Minh Tông nhường ngôi cho Thái tử Trần Vượng (sau là Trần Hiến Tông). [Nguồn: Trần Minh Tông (1314-1329), https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/tran-minh-tong-1314-1329-.html]
@@ -1511,7 +1511,7 @@
 *   **1354 (Giáp Ngọ):** Đói lớn. Tề tự xưng là cháu ngoại Trần Quốc Tuấn, tụ tập gia nô bỏ trốn làm giặc từ Lạng Giang đến Nam Sách. [Nguồn: Đại Việt dưới thời Trần Dụ Tông (Nghiên cứu Quốc tế), https://nghiencuuquocte.org/2021/03/28/dai-viet-duoi-thoi-vua-tran-du-tong-1341-1369]
 
 <!-- id: EVT-0438 -->
-*   **1355:** Vua Trần Dụ Tông huy động nhân dân đào sông ở Nghệ An và Thanh Hóa.
+*   **1355:** Vua Trần Dụ Tông huy động nhân dân đào sông ở Nghệ An và Thanh Hóa. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Trần (Dụ Tông hoàng đế, năm 1355), https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_D%E1%BB%A5_T%C3%B4ng]
 
 <!-- id: EVT-0439 -->
 *   **1357:** Vua Trần Dụ Tông sai các lộ Thanh Hóa và Nghệ An khơi vét lại các kênh cũ. [Nguồn: Đại Việt dưới thời Trần Dụ Tông (Nghiên cứu Quốc tế), https://nghiencuuquocte.org/2021/03/28/dai-viet-duoi-thoi-vua-tran-du-tong-1341-1369]
@@ -1643,13 +1643,13 @@
 *   **1381:** Nhà Trần ra lệnh đốc suất tăng sư khỏe mạnh sung vào quân đội đánh Chiêm Thành. [Nguồn: Trần Phế Đế lên ngôi, Chiêm Thành quấy nhiễu (Nghiên cứu Quốc tế), https://nghiencuuquocte.org/2021/05/22/tran-phe-de-len-ngoi-chiem-thanh-lien-tuc-quay-nhieu-dai-viet/]
 
 <!-- id: EVT-0483 -->
-*   **04/1381 (Tân Dậu):** Nhân lúc Chiêm Thành cướp phá, Hồ Thuật chiêu tập nhân dân nổi dậy ở Diễn Châu, bị xử chém.
+*   **04/1381 (Tân Dậu):** Nhân lúc Chiêm Thành cướp phá, Hồ Thuật chiêu tập nhân dân nổi dậy ở Diễn Châu, bị xử chém. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Trần (Phế Đế, vụ án Hồ Thuật), https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Ph%E1%BA%BF_%C4%90%E1%BA%BF]
 
 <!-- id: EVT-0484 -->
 *   **06/1381 (Tân Dậu):** Thượng hoàng Nghệ Tông ra lệnh rước thần tượng các lăng về lăng lớn Yên Sinh để lánh nạn Chiêm Thành. [Nguồn: Vua Trần Phế Đế (1377-1388) (Hội đồng họ Trần VN), http://hoidonghotranvietnam.vn/cac-vua-trieu-tran/tran-phe-de/vua-tran-phe-de-1377-1388-543355.html]
 
 <!-- id: EVT-0485 -->
-*   **1382:** Cho đào các sông ở Nghệ An, Tân Bình và Thuận Hóa để cải thiện giao thông và thủy lợi.
+*   **1382:** Cho đào các sông ở Nghệ An, Tân Bình và Thuận Hóa để cải thiện giao thông và thủy lợi. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Trần (Phế Đế, đào sông kênh), https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Ph%E1%BA%BF_%C4%90%E1%BA%BF]
 
 <!-- id: EVT-0486 -->
 *   **02/1382 (Nhâm Tuất):** Chiêm Thành cướp phá Thanh Hóa. Quân Đại Việt đánh tan quân Chiêm tại cửa Thần Đầu. [Nguồn: Việt Nam sử lược I-III-X: Nhà Trần (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_X]
@@ -1674,7 +1674,7 @@
 *Nguồn: Tượng Lê Lợi tại Thanh Hóa / Nguyễn Thanh Quang (Wikimedia Commons, CC BY-SA 3.0)*
 
 <!-- id: EVT-0492 -->
-*   **03/1386 (Bính Dần):** Nhà Minh sai sứ đòi nộp cây ăn quả giống ngon và mượn đường đánh Chiêm Thành, đòi 50 thớt voi.
+*   **03/1386 (Bính Dần):** Nhà Minh sai sứ đòi nộp cây ăn quả giống ngon và mượn đường đánh Chiêm Thành, đòi 50 thớt voi. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Trần (Phế Đế, yêu sách nhà Minh), https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Ph%E1%BA%BF_%C4%90%E1%BA%BF]
 
 <!-- id: EVT-0493 -->
 *   **03/1387 (Đinh Mão):** Lê Quý Ly được phong chức Đồng bình chương sự (Tướng quốc). [Nguồn: 2 đời vua triều Hồ (Quận 8 TP.HCM), http://www.quan8.hochiminhcity.gov.vn/dantaphaibietsuta/lists/posts/post.aspx?Source=%2Fdantaphaibietsuta&Category=Nh%C3%A2n+v%E1%BA%ADt+l%E1%BB%8Bch+s%E1%BB%AD+t%E1%BB%AB+th%E1%BA%BF+k%E1%BB%B7+X+%C4%91%E1%BA%BFn+XV&ItemID=84&Mode=1]
@@ -1713,7 +1713,7 @@
 *   **12/1392 (Nhâm Thân):** Lê Quý Ly soạn sách *Minh Đạo* gồm 14 thiên, đề cao Chu Công, hạ thấp Khổng Tử, phê phán tư tưởng Tống Nho. Đoàn Xuân Lôi phê phán bị đày. [Nguồn: Ông vua gây tranh cãi: sách Minh Đạo 14 thiên (VnExpress), https://vnexpress.net/tim-hieu-ve-ong-vua-gay-tranh-cai-trong-su-viet-3572240-p17.html]
 
 <!-- id: EVT-0505 -->
-*   **02/1394 (Giáp Tuất):** Thượng hoàng Nghệ Tông sai thợ vẽ bức tranh "Tứ phụ" ban cho Quý Ly, mong Quý Ly hết lòng phò tá vua.
+*   **02/1394 (Giáp Tuất):** Thượng hoàng Nghệ Tông sai thợ vẽ bức tranh "Tứ phụ" ban cho Quý Ly, mong Quý Ly hết lòng phò tá vua. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Trần (Thuận Tông hoàng đế, tranh Tứ phụ), https://vi.wikipedia.org/wiki/H%E1%BB%93_Qu%C3%BD_Ly]
 
 <!-- id: EVT-0506 -->
 *   **11/1394 (Giáp Tuất):** Thượng hoàng Trần Nghệ Tông qua đời. [Nguồn: Những điều thú vị về Vua Trần Nghệ Tông (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3096/12795/nhung-djieu-thu-vi-ve-vua-tran-nghe-tong.html]
@@ -1728,7 +1728,7 @@
 *   **04/1395 (Ất Hợi):** Lê Quý Ly biên dịch thiên "Vô dật" trong Kinh Thư ra chữ Nôm để dạy vua Trần Thuận Tông. [Nguồn: Hồ Quý Ly dịch kinh thư sang chữ Nôm (VnExpress), https://vnexpress.net/tim-hieu-ve-ong-vua-gay-tranh-cai-trong-su-viet-3572240-p16.html]
 
 <!-- id: EVT-0510 -->
-*   **06/1395 (Ất Hợi):** Quy định các quan không được dùng áo thụng tay, chỉ dùng áo hẹp tay.
+*   **06/1395 (Ất Hợi):** Quy định các quan không được dùng áo thụng tay, chỉ dùng áo hẹp tay. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Trần (Thuận Tông hoàng đế, cải cách y phục), https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Thu%E1%BA%ADn_T%C3%B4ng]
 
 <!-- id: EVT-0511 -->
 *   **1396:** Lần đầu tiên trong lịch sử khoa cử Việt Nam, vua Trần Thuận Tông định lệ về việc thi Cử nhân, chính thức phân cấp hệ thống thi cử thành thi Hương (cấp địa phương) và thi Hội (cấp trung ương). [Nguồn: Giáo dục thời Trần – lều chõng đi thi, https://thcslongbien.hanoi.edu.vn/lich-su/giao-duc-thoi-tran-xem-cha-ong-ta-mot-thoi-leu-chong-di-thi/ctmb/14992/614018]
@@ -1740,7 +1740,7 @@
 *   **04/1396 (Bính Tý):** Cấm tuyệt đối tiêu tiền đồng. Cải cách thi cử: định thể văn 4 kỳ, bỏ ám tả cổ văn. [Nguồn: Hồ Quý Ly cải cách (Nghiên cứu Quốc tế), https://nghiencuuquocte.org/2021/07/03/ho-quy-ly-tien-hanh-cai-cach-viet-trung-tranh-chap-dat-dai/]
 
 <!-- id: EVT-0514 -->
-*   **06/1396 (Bính Tý):** Cải cách trang phục quan lại văn võ, phân định màu sắc, kiểu dáng theo phẩm cấp.
+*   **06/1396 (Bính Tý):** Cải cách trang phục quan lại văn võ, phân định màu sắc, kiểu dáng theo phẩm cấp. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Trần (Thuận Tông hoàng đế, quy chế phẩm phục), https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Thu%E1%BA%ADn_T%C3%B4ng]
 
 <!-- id: EVT-0515 -->
 *   **08/1396 (Bính Tý):** Quân Trần tiến công Chiêm Thành, bắt tướng Bố Đông. [Nguồn: Chiến tranh Việt-Chiêm 1367-1396 (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Vi%E1%BB%87t_%E2%80%93_Chi%C3%AAm_(1367%E2%80%931396)]
@@ -1783,7 +1783,7 @@
 *   **04/1398:** Lê Quý Ly ép vua Trần Thuận Tông nhường ngôi cho con trai mới 2 tuổi là Trần Thiếu Đế để lui về làm Thái thượng hoàng, rồi sau đó ép đi tu ở một nơi vắng vẻ tại Thanh Hóa. [Nguồn: Mưu sát Hồ Quý Ly: Thảm án sau hội thề Đốn Sơn (Báo Pháp Luật), https://baophapluat.vn/ven-man-bi-mat-cac-vu-muu-sat-ho-quy-ly-ky-2-tham-an-sau-hoi-the-don-son-post262678.html]
 
 <!-- id: EVT-0527 -->
-*   **1399:** Hồ Quý Ly sai đào các kênh Vi, Trắm, Hào xuống đến tận cửa biển Hà Hoa.
+*   **1399:** Hồ Quý Ly sai đào các kênh Vi, Trắm, Hào xuống đến tận cửa biển Hà Hoa. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Trần (Thiếu Đế, đào kênh sông), https://vi.wikipedia.org/wiki/H%E1%BB%93_Qu%C3%BD_Ly]
 
 <!-- id: EVT-0528 -->
 *   **05/1399:** Lê Quý Ly sai người tâm phúc là tướng Phạm Khả Vĩnh đến nơi ở của cựu hoàng đế. Phạm Khả Vĩnh đã ép Trần Thuận Tông tự tử bằng thuốc độc, nhưng không thành. Cuối cùng, chính Phạm Khả Vĩnh đã thắt cổ cựu hoàng đế đến chết. Trần Thuận Tông được chôn cất tại lăng Yên Sinh. [Nguồn: Trần Thuận Tông (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Thu%E1%BA%ADn_T%C3%B4ng]
@@ -1795,10 +1795,10 @@
 *   **06/1399:** Lê Quý Ly tự xưng là Quốc Tổ Chương Hoàng đế, dùng nghi vệ thiên tử, chuẩn bị cho việc cướp ngôi. [Nguồn: Hồ Quý Ly (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/H%E1%BB%93_Qu%C3%BD_Ly]
 
 <!-- id: EVT-0531 -->
-*   **08/1399 (Kỷ Mão):** Nguyễn Nhữ Cái làm tiền giấy giả, tụ tập hơn vạn người nổi dậy ở Lập Thạch, sông Đáy, Ba Vì nhưng thất bại.
+*   **08/1399 (Kỷ Mão):** Nguyễn Nhữ Cái làm tiền giấy giả, tụ tập hơn vạn người nổi dậy ở Lập Thạch, sông Đáy, Ba Vì nhưng thất bại. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Trần (Thiếu Đế, vụ án Nguyễn Nhữ Cái), https://vi.wikipedia.org/wiki/H%E1%BB%93_Qu%C3%BD_Ly]
 
 <!-- id: EVT-0532 -->
-*   **09/1399 (Kỷ Mão):** Lê Quý Ly sai trồng tre gai xung quanh làm vòng thành ngoài bảo vệ Tây Đô. Đặt sở tuần kiểm ở sông Đại Lại.
+*   **09/1399 (Kỷ Mão):** Lê Quý Ly sai trồng tre gai xung quanh làm vòng thành ngoài bảo vệ Tây Đô. Đặt sở tuần kiểm ở sông Đại Lại. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Trần (Thiếu Đế, phòng thủ Tây Đô), https://vi.wikipedia.org/wiki/H%E1%BB%93_Qu%C3%BD_Ly]
 
 <!-- id: EVT-0533 -->
 
@@ -1814,7 +1814,7 @@
 *   **Giữa năm 1400:** Vua Hồ lập mạng lưới an ninh hành chính "công an chìm", đặt chức Liêm phóng sứ ở các lộ để do thám quan lại và dân tình. [Nguồn: Những cải cách của Hồ Quý Ly (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/14720/nhung-cai-cach-cua-ho-quy-ly-cuoi-the-ky-xiv-djau-the-ky-xv.html]
 
 <!-- id: EVT-0535 -->
-*   **08/1400:** Nhà Hồ đem 15 vạn quân do Đỗ Mãn và Trần Tùng chỉ huy đi đánh Chiêm Thành nhưng thất bại do thiếu lương thực trên đường núi.
+*   **08/1400:** Nhà Hồ đem 15 vạn quân do Đỗ Mãn và Trần Tùng chỉ huy đi đánh Chiêm Thành nhưng thất bại do thiếu lương thực trên đường núi. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Hồ (Quý Ly, chinh phạt Chiêm Thành), https://vi.wikipedia.org/wiki/Nh%C3%A0_H%E1%BB%93]
 
 <!-- id: EVT-0536 -->
 *   **08/1400:** Triều Hồ tổ chức kỳ thi Thái học sinh đầu tiên, lấy đỗ 20 người, trong đó có Nguyễn Trãi. [Nguồn: Nhà nước thời Hồ (1400-1407) (Cổng Thành Nhà Hồ), https://thanhnhaho.vn/NewsDetail.aspx?Id=9687]
@@ -1835,7 +1835,7 @@
 *   **04/1401 (Tân Tỵ):** Nhà Hồ ra lệnh lập lại sổ hộ tịch toàn quốc, đưa cả đinh nam từ 2 tuổi trở lên vào sổ để làm cơ sở tuyển quân. [Nguồn: Những cải cách của Hồ Quý Ly (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/14720/nhung-cai-cach-cua-ho-quy-ly-cuoi-the-ky-xiv-djau-the-ky-xv.html]
 
 <!-- id: EVT-0542 -->
-*   **1402:** Hồ Hán Thương định lại thuế đinh và thuế điền. Thuế đinh đánh theo diện tích ruộng, người không có ruộng, trẻ mồ côi, góa phụ được miễn. Lập lại Lễ Tế Giao ở Đốn Sơn. Tổ chức nhã nhạc cung đình.
+*   **1402:** Hồ Hán Thương định lại thuế đinh và thuế điền. Thuế đinh đánh theo diện tích ruộng, người không có ruộng, trẻ mồ côi, góa phụ được miễn. Lập lại Lễ Tế Giao ở Đốn Sơn. Tổ chức nhã nhạc cung đình. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Hồ (Hán Thương, cải cách thuế và lễ Tế Giao), https://vi.wikipedia.org/wiki/H%E1%BB%93_H%C3%A1n_Th%C6%B0%C6%A1ng]
 
 <!-- id: EVT-0543 -->
 *   **03/1402 (Nhâm Ngọ):** Đắp đường thiên lý từ Tây Đô đến Hóa Châu (Thừa Thiên), đặt phố xá và trạm truyền thư. [Nguồn: Nhà Hồ (1400-1407): quốc hiệu Đại Ngu, kinh đô Tây Đô, https://scov.gov.vn/dat-nuoc-con-nguoi/tom-tat-bien-nien-su-vn/xv.-nha-ho-1400-1407-quoc-hieu-dai-ngu-kinh-do-tay-do-thanh-hoa-.html]
@@ -1847,19 +1847,19 @@
 *   **1403:** Nhà Hồ đánh Chiêm Thành lần thứ ba với 20 vạn quân. Tướng Phạm Nguyên Khôi vây hãm thành Chà Bàn 9 tháng nhưng không hạ được do thiếu lương. Trên đường rút về, thủy quân nhà Hồ gặp hạm đội nhà Minh sang cứu Chiêm Thành nhưng tránh giao chiến. Triều Minh bắt đầu chuẩn bị xâm lược Đại Ngu. [Nguồn: Hồ Hán Thương (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/H%E1%BB%93_H%C3%A1n_Th%C6%B0%C6%A1ng]
 
 <!-- id: EVT-0546 -->
-*   **1403:** Xử lăng trì phù thủy Trần Đức Huy vì hành nghề mê tín dị đoan, trộm tên người đi tuần biên vào sổ quân. Đặt chức Thị giám quản lý chợ, chuẩn hóa công cụ đo lường và luật xử phạt người không tiêu tiền giấy.
+*   **1403:** Xử lăng trì phù thủy Trần Đức Huy vì hành nghề mê tín dị đoan, trộm tên người đi tuần biên vào sổ quân. Đặt chức Thị giám quản lý chợ, chuẩn hóa công cụ đo lường và luật xử phạt người không tiêu tiền giấy. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Hồ (Hán Thương, lập chức Thị giám và luật tiền giấy), https://vi.wikipedia.org/wiki/H%E1%BB%93_H%C3%A1n_Th%C6%B0%C6%A1ng]
 
 <!-- id: EVT-0547 -->
 *   **09/1403:** Vua Hồ Hán Thương cho lập cơ quan **Quảng Tế** (Quảng Tế thự), dùng phương pháp châm cứu chữa bệnh cho dân. Đây là cơ quan y tế công cộng đầu tiên được ghi nhận. [Nguồn: Nhà Hồ (1400-1407): quốc hiệu Đại Ngu, kinh đô Tây Đô, https://scov.gov.vn/dat-nuoc-con-nguoi/tom-tat-bien-nien-su-vn/xv.-nha-ho-1400-1407-quoc-hieu-dai-ngu-kinh-do-tay-do-thanh-hoa-.html]
 
 <!-- id: EVT-0548 -->
-*   **10/1403 (Quý Mùi):** Nhà Hồ xử tử các thân thuộc của những hoạn quan (trước đây nộp cho nhà Minh) vì phát hiện họ hoạt động gián điệp, làm nội ứng cho quân Minh.
+*   **10/1403 (Quý Mùi):** Nhà Hồ xử tử các thân thuộc của những hoạn quan (trước đây nộp cho nhà Minh) vì phát hiện họ hoạt động gián điệp, làm nội ứng cho quân Minh. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Hồ (Hán Thương, xử tử nội ứng nhà Minh), https://vi.wikipedia.org/wiki/H%E1%BB%93_H%C3%A1n_Th%C6%B0%C6%A1ng]
 
 <!-- id: EVT-0549 -->
-*   **1404:** Hồ Hán Thương hạ lệnh đào Liên Cảng (kênh Sen) từ Tân Bình đến Thuận Hóa, nhưng do đất cát đùn lên nên không thành.
+*   **1404:** Hồ Hán Thương hạ lệnh đào Liên Cảng (kênh Sen) từ Tân Bình đến Thuận Hóa, nhưng do đất cát đùn lên nên không thành. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Hồ (Hán Thương, đào Liên Cảng), https://vi.wikipedia.org/wiki/H%E1%BB%93_H%C3%A1n_Th%C6%B0%C6%A1ng]
 
 <!-- id: EVT-0550 -->
-*   **1404:** Vua Hồ Hán Thương xuống chiếu quy định tổ chức thi Hội định kỳ ba năm một lần, tạo lập một chu kỳ tuyển chọn nhân tài thường xuyên cho đất nước.
+*   **1404:** Vua Hồ Hán Thương xuống chiếu quy định tổ chức thi Hội định kỳ ba năm một lần, tạo lập một chu kỳ tuyển chọn nhân tài thường xuyên cho đất nước. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Hồ (Hán Thương, định lệ thi Hội), https://vi.wikipedia.org/wiki/H%E1%BB%93_H%C3%A1n_Th%C6%B0%C6%A1ng]
 
 <!-- id: EVT-0551 -->
 *   **1404:** Đóng chiến thuyền lớn "Cổ Lâu thuyền tải lương" có hai tầng để chiến đấu và vận tải. Lệnh biên chế những người không có ruộng thành "đội cùng nhân" để khai khẩn đất hoang. [Nguồn: Những cải cách của Hồ Quý Ly (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/14720/nhung-cai-cach-cua-ho-quy-ly-cuoi-the-ky-xiv-djau-the-ky-xv.html]
@@ -1874,16 +1874,16 @@
 *   **09/1404:** Nhà Hồ định lại biên chế quân đội, lập Nam ban và Bắc ban, chia cấm vệ quân thành các đội do Đại tướng quân thống lĩnh. [Nguồn: Những cải cách của Hồ Quý Ly (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/14720/nhung-cai-cach-cua-ho-quy-ly-cuoi-the-ky-xiv-djau-the-ky-xv.html]
 
 <!-- id: EVT-0555 -->
-*   **1405:** Nhà Minh yêu sách đòi lại đất châu Lộc. Hồ Quý Ly phải cắt 59 thôn ở Cổ Lâu trả lại. Ngoài ra, các thổ quan do nhà Minh đặt bị nhà Hồ bí mật hạ độc giết chết. Tháng 7, sứ giả nhà Hồ sang Nam Kinh xin giảng hòa nhưng thất bại. Tháng 9, Hồ Hán Thương lệnh đóng cọc ở cửa sông Bạch Hạc để phòng quân Minh.
+*   **1405:** Nhà Minh yêu sách đòi lại đất châu Lộc. Hồ Quý Ly phải cắt 59 thôn ở Cổ Lâu trả lại. Ngoài ra, các thổ quan do nhà Minh đặt bị nhà Hồ bí mật hạ độc giết chết. Tháng 7, sứ giả nhà Hồ sang Nam Kinh xin giảng hòa nhưng thất bại. Tháng 9, Hồ Hán Thương lệnh đóng cọc ở cửa sông Bạch Hạc để phòng quân Minh. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Hồ (Hán Thương, ngoại giao và phòng thủ sông Bạch Hạc), https://vi.wikipedia.org/wiki/H%E1%BB%93_H%C3%A1n_Th%C6%B0%C6%A1ng]
 
 <!-- id: EVT-0556 -->
-*   **1405:** Hồ Quí Ly (70 tuổi) ban tước và tiền bạc cho các phụ lão từ 70 tuổi trở lên để tranh thủ lòng dân.
+*   **1405:** Hồ Quí Ly (70 tuổi) ban tước và tiền bạc cho các phụ lão từ 70 tuổi trở lên để tranh thủ lòng dân. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Hồ (Hán Thương, ban tước cho phụ lão), https://vi.wikipedia.org/wiki/H%E1%BB%93_Qu%C3%BD_Ly]
 
 <!-- id: EVT-0557 -->
 *   **06/1405 (Ất Dậu):** Lập 4 kho chứa vũ khí và xưởng chế tạo vũ khí tại Tây Đô. Khuyến khích người dân tham gia chế tạo súng thần cơ (do Hồ Nguyên Trừng sáng chế). [Nguồn: Súng thần công dùng từ triều vua nào? (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3096/6545/sung-than-cong-djuoc-su-dung-tu-trieu-vua-nao.html]
 
 <!-- id: EVT-0558 -->
-*   **07/1405 (Ất Dậu):** Hồ Quí Ly và Hồ Hán Thương đích thân đi tuần tra xem xét địa thế, núi sông, cửa biển để bố phòng chống quân Minh.
+*   **07/1405 (Ất Dậu):** Hồ Quí Ly và Hồ Hán Thương đích thân đi tuần tra xem xét địa thế, núi sông, cửa biển để bố phòng chống quân Minh. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Hồ (Hán Thương, tuần tra bố phòng bờ biển), https://vi.wikipedia.org/wiki/H%E1%BB%93_Qu%C3%BD_Ly]
 
 <!-- id: EVT-0559 -->
 *   **09/1405 (Ất Dậu):** Xây đắp thành Đa Bang (Sơn Tây) kiên cố và hệ thống chướng ngại vật dài gần 400km dọc các sông lớn. Quy định lại tổ chức biên chế quân đội thành 4 binh chủng. [Nguồn: Hồ Nguyên Trừng (Lịch sử Việt Nam, lsvn.vn), https://lsvn.vn/ho-nguyen-trung-nhan-vat-lich-su-noi-tieng-thoi-nha-ho-a4457.html]
@@ -1892,10 +1892,10 @@
 *   **04/1406:** Nhà Minh sai Hàn Quan và Hoàng Trung đem 10 vạn quân xâm lược Đại Ngu dưới danh nghĩa đưa Trần Thiêm Bình về nước. Ngày 8 tháng 4 (âm lịch), giặc đánh vào Lãnh Kinh. Quân nhà Hồ ban đầu tổn thất nặng, nhưng sau đó phản công bất ngờ từ Vũ Cao, buộc quân Minh lùi bước. Quân nhà Hồ chặn ở ải Chi Lăng, ép quân Minh giao nộp Trần Thiêm Bình rồi mới cho rút. Trần Thiêm Bình bị xử lăng trì. [Nguồn: Trần Thiêm Bình (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Thi%C3%AAm_B%C3%ACnh]
 
 <!-- id: EVT-0561 -->
-*   **07/1406:** Hồ Hán Thương lệnh đóng cọc ở phía nam sông Cái và chỉ thị nhân dân các lộ phía Bắc thực hiện "vườn không nhà trống" để triệt nguồn tiếp tế của quân Minh.
+*   **07/1406:** Hồ Hán Thương lệnh đóng cọc ở phía nam sông Cái và chỉ thị nhân dân các lộ phía Bắc thực hiện "vườn không nhà trống" để triệt nguồn tiếp tế của quân Minh. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Hồ (Hán Thương, năm 1406), https://vi.wikipedia.org/wiki/H%E1%BB%93_H%C3%A1n_Th%C6%B0%C6%A1ng]
 
 <!-- id: EVT-0562 -->
-*   **21/08/1406:** Minh Thành Tổ (Chu Đệ) ban mật sắc lệnh cho tướng Trương Phụ và Chu Năng, ra lệnh thi hành chính sách diệt chủng văn hóa tàn khốc: đốt phá toàn bộ sách vở, thư tịch cổ, văn tự của Đại Việt từ kinh điển đến sách dạy trẻ con và ca dao dân gian, đập phá triệt để mọi tấm bia do người Việt dựng nhằm hủy diệt hoàn toàn nền văn hiến và bản sắc dân tộc ta.
+*   **21/08/1406:** Minh Thành Tổ (Chu Đệ) ban mật sắc lệnh cho tướng Trương Phụ và Chu Năng, ra lệnh thi hành chính sách diệt chủng văn hóa tàn khốc: đốt phá toàn bộ sách vở, thư tịch cổ, văn tự của Đại Việt từ kinh điển đến sách dạy trẻ con và ca dao dân gian, đập phá triệt để mọi tấm bia do người Việt dựng nhằm hủy diệt hoàn toàn nền văn hiến và bản sắc dân tộc ta. [Nguồn: Minh thực lục – Minh Thái Tông thực lục; Chiến tranh Minh–Đại Ngu, https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Minh-%C4%90%E1%BA%A1i_Ngu]
 
 <!-- id: EVT-0563 -->
 *   **09/1406:** Nhà Minh cử đại quân (phao tin 80 vạn, thực tế khoảng 21,5 vạn) do Trương Phụ và Mộc Thạnh chỉ huy, tiến vào theo 2 đường. Nhiều người Việt bất mãn với nhà Hồ, trong đó có Mạc Thúy và Nguyễn Huân, đã ra hàng và làm hướng đạo cho quân Minh. [Nguồn: Nhà Hồ (1400-1407): quốc hiệu Đại Ngu, kinh đô Tây Đô, https://scov.gov.vn/dat-nuoc-con-nguoi/tom-tat-bien-nien-su-vn/xv.-nha-ho-1400-1407-quoc-hieu-dai-ngu-kinh-do-tay-do-thanh-hoa-.html]
@@ -1904,7 +1904,7 @@
 *   **19/11/1406:** Quân Minh tấn công cửa ải Pha Lũy. [Nguồn: Nhà Minh xâm lược Đại Ngu (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Nh%C3%A0_Minh_x%C3%A2m_l%C6%B0%E1%BB%A3c_%C4%90%E1%BA%A1i_Ngu]
 
 <!-- id: EVT-0565 -->
-*   **02/12/1406 (âm lịch):** Quân Minh chiếm Việt Trì, bãi Mộc Hoàn và cửa sông Bạch Hạc.
+*   **02/12/1406 (âm lịch):** Quân Minh chiếm Việt Trì, bãi Mộc Hoàn và cửa sông Bạch Hạc. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Hồ; Chiến tranh Minh–Đại Ngu, https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Minh-%C4%90%E1%BA%A1i_Ngu]
 
 <!-- id: EVT-0566 -->
 *   **07/12/1406 (âm lịch):** Quân Minh vượt bãi Thiên Mạc nhưng bị tướng nhà Hồ Trần Đĩnh đánh bại. [Nguồn: Nhà Minh xâm lược Đại Ngu (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Nh%C3%A0_Minh_x%C3%A2m_l%C6%B0%E1%BB%A3c_%C4%90%E1%BA%A1i_Ngu]
@@ -1955,7 +1955,7 @@
 *   **08/1407:** Trương Phụ và Mộc Thạnh đem quân về nước, để lại Lữ Nghị và Hoàng Phúc trấn giữ Giao Chỉ. [Nguồn: Việt Nam sử lược I-III-XII (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_XII]
 
 <!-- id: EVT-0581 -->
-*   **11/1407:** Các cuộc khởi nghĩa của nhân dân nổ ra ở nhiều nơi như Đông Lan, Trà Thanh (Diễn Châu), Thất Nguyên (Lạng Sơn), Bình Than.
+*   **11/1407:** Các cuộc khởi nghĩa của nhân dân nổ ra ở nhiều nơi như Đông Lan, Trà Thanh (Diễn Châu), Thất Nguyên (Lạng Sơn), Bình Than. [Nguồn: Đại Việt sử ký toàn thư – Kỷ thuộc Minh, https://vi.wikipedia.org/wiki/B%E1%BA%AFc_thu%E1%BB%99c_l%E1%BA%A7n_4]
 
 <!-- id: EVT-0582 -->
 *   **01/11/1407:** Trần Ngỗi được tôn làm vua (Giản Định Đế), lập ra nhà Hậu Trần, bắt đầu cuộc kháng chiến chống Minh. [Nguồn: Trần Giản Định (1407-1409) (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3096/6635/nhung-djieu-it-biet-ve-gian-djinh-dje.html]
@@ -2012,7 +2012,7 @@
 *   **1421:** Quân Minh mở đường núi tiến vào đánh úp. Lê Lợi phục binh ở ải Ũng đánh bại quân địch. [Nguồn: Lê Thạch (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/L%C3%AA_Th%E1%BA%A1ch]
 
 <!-- id: EVT-0600 -->
-*   **Mùa hè và thu 1421:** Lũ lớn tàn phá đồng bằng sông Hồng, khiến quân Minh phải tạm hoãn kế hoạch tác chiến.
+*   **Mùa hè và thu 1421:** Lũ lớn tàn phá đồng bằng sông Hồng, khiến quân Minh phải tạm hoãn kế hoạch tác chiến. [Nguồn: Khởi nghĩa Lam Sơn (1418–1427), https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_Lam_S%C6%A1n]
 
 <!-- id: EVT-0601 -->
 *   **Cuối 1421:** Quân Ai Lao giả vờ sang giúp rồi bất ngờ đánh úp nghĩa quân. Lê Lợi đốc chiến đánh tan quân Ai Lao, truy kích tận sào huyệt. Tướng Lê Thạch hy sinh. [Nguồn: Việt Nam sử lược I-III-XIV (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_XIV]
@@ -2024,7 +2024,7 @@
 *   **03/1422:** Tướng Minh Lý Bân ốm chết, Trần Trí lên thay. [Nguồn: Lý Bân (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/L%C3%BD_B%C3%A2n]
 
 <!-- id: EVT-0604 -->
-*   **1423:** Lê Lợi lập Cầm Quý (tự xưng là cháu ngoại họ Trần) làm vua, lấy hiệu là Thiên Khánh để danh chính ngôn thuận, tập hợp lòng dân.
+*   **1423:** Lê Lợi lập Cầm Quý (tự xưng là cháu ngoại họ Trần) làm vua, lấy hiệu là Thiên Khánh để danh chính ngôn thuận, tập hợp lòng dân. [Nguồn: Đại Việt sử ký toàn thư – Bản kỷ thực lục (Kỷ nhà Lê, Thái Tổ Cao hoàng đế), https://vi.wikipedia.org/wiki/L%C3%AA_Th%C3%A1i_T%E1%BB%95]
 
 <!-- id: EVT-0605 -->
 *   **Đầu 1423 (24/12 năm Nhâm Dần):** Quân Minh và Ai Lao giáp công tại trại Đa Quan (Sách Khôi). Lê Lợi khích lệ tướng sĩ tử chiến nơi "đất chết", đánh tan quân địch, chém tướng Phùng Quý. [Nguồn: Việt Nam sử lược I-III-XIV (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_XIV]
@@ -2099,7 +2099,7 @@
 *   **04/03/1427:** Phương Chính tập kích doanh trại nghĩa quân tại Quả Động; Đỗ Bí bị bắt, Lý Triện tử trận. [Nguồn: Khởi nghĩa Lam Sơn (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_Lam_S%C6%A1n]
 
 <!-- id: EVT-0629 -->
-*   **16/03/1427:** Vương Thông tổ chức tập kích bãi Sa Đôi nhưng thất bại.
+*   **16/03/1427:** Vương Thông tổ chức tập kích bãi Sa Đôi nhưng thất bại. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Lê (Thái Tổ Cao hoàng đế, năm 1427), https://vi.wikipedia.org/wiki/L%C3%AA_Th%C3%A1i_T%E1%BB%95]
 
 <!-- id: EVT-0630 -->
 *   **02/04/1427:** Nguyễn Trãi viết thư dụ hàng thành công Lưu Thanh ở thành Tam Giang. [Nguồn: Việt Nam sử lược I-III-XIV (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_XIV]
@@ -2206,7 +2206,7 @@
 *   **1437:** Vua Lê Thái Tông giao cho Lương Đăng định ra quy chế lễ nhạc, mũ áo triều đình. [Nguồn: Quan chế phục sắc thời Lê sơ (Di tích Lam Kinh), https://ditichlamkinh.vn/vi/quan-che-phuc-sac-thoi-le-so-D5227DC168AA54169C43DF68F6B46111.html]
 
 <!-- id: EVT-0661 -->
-*   **1437:** Vua Lê Thái Tông ban hành 14 điều Quân lệnh nghiêm ngặt nhằm chấn chỉnh kỷ luật quân ngũ, quy định thao diễn chiến thuật và xử phạt nghiêm khắc các hành vi ức hiếp, nhũng nhiễu bách tính.
+*   **1437:** Vua Lê Thái Tông ban hành 14 điều Quân lệnh nghiêm ngặt nhằm chấn chỉnh kỷ luật quân ngũ, quy định thao diễn chiến thuật và xử phạt nghiêm khắc các hành vi ức hiếp, nhũng nhiễu bách tính. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Lê (Thái Tông hoàng đế, 14 điều Quân lệnh), https://vi.wikipedia.org/wiki/L%C3%AA_Th%C3%A1i_T%C3%B4ng]
 
 <!-- id: EVT-0662 -->
 *   **1442:** Triều Lê tổ chức khoa thi Tiến sĩ đầu tiên, lấy đỗ 33 người, trong đó có Trạng nguyên Nguyễn Trực. Bắt đầu cho dựng bia Tiến sĩ ở Văn Miếu. [Nguồn: Trạng nguyên đầu tiên có bia ở Văn Miếu (Dân Việt), https://danviet.vn/vi-trang-nguyen-dau-tien-duoc-dung-bia-tien-si-o-van-mieu-7777759045-d510757.html]
@@ -2291,7 +2291,7 @@
 *   **03/1484:** Vua Lê Thánh Tông ban lệnh nghiêm cấm phá thai, coi đó là hành vi thương tổn tính mệnh và hại luân thường, quy định hình phạt cho cả người chồng nếu không biết răn cấm. [Nguồn: Xử tội chối bỏ thai nhi (Người Đưa Tin), https://www.nguoiduatin.vn/vua-viet-nghiem-khac-xu-toi-choi-bo-thai-nhi-204105519.htm]
 
 <!-- id: EVT-0688 -->
-*   **05/1488:** Cung nhân Nguyễn Thị Cận (vốn xuất thân là nô tỳ) sinh hạ hoàng tử Lê Tuấn (sau là vua Lê Uy Mục).
+*   **05/1488:** Cung nhân Nguyễn Thị Cận (vốn xuất thân là nô tỳ) sinh hạ hoàng tử Lê Tuấn (sau là vua Lê Uy Mục). [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Lê (Thánh Tông hoàng đế, năm 1488), https://vi.wikipedia.org/wiki/L%C3%AA_Uy_M%E1%BB%A5c]
 
 <!-- id: EVT-0689 -->
 *   **1490:** Định lại bản đồ 13 xứ trong cả nước. [Nguồn: Hồng Đức Bản Đồ (Thư viện Nguyễn Văn Hưởng), https://elib.thuviennguyenvanhuong.vn/jspui/handle/TVNVH/1895]
@@ -2306,7 +2306,7 @@
 *   **1497:** Vua Lê Thánh Tông mất. Lê Hiến Tông lên ngôi. [Nguồn: Lê Hiến Tông lên ngôi (Nghiên cứu Quốc tế), https://nghiencuuquocte.org/2024/01/14/vua-le-hien-tong-len-ngoi/]
 
 <!-- id: EVT-0693 -->
-*   **1497:** Lễ tang vua Lê Thánh Tông quy định các quan trong 100 ngày mặc đồ trắng, ngoài 100 ngày mặc đồ đen đến chầu, thể hiện sự ảnh hưởng sâu sắc của triết lý Ngũ hành về màu sắc trong phong tục tang ma.
+*   **1497:** Lễ tang vua Lê Thánh Tông quy định các quan trong 100 ngày mặc đồ trắng, ngoài 100 ngày mặc đồ đen đến chầu, thể hiện sự ảnh hưởng sâu sắc của triết lý Ngũ hành về màu sắc trong phong tục tang ma. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Lê (Hiến Tông hoàng đế, quốc tang vua Lê Thánh Tông), https://vi.wikipedia.org/wiki/L%C3%AA_Th%C3%A1nh_T%C3%B4ng]
 
 <!-- id: EVT-0694 -->
 *   **Thế kỷ XVI:** Công giáo tiếp tục du nhập, với sự xuất hiện của các nhà truyền giáo Dòng Phan-Xi-Cô và Đa Minh. [Nguồn: Biên niên sử Giáo hội Công giáo VN (Tổng GP Hà Nội), https://menthanhgiahanoi.org/tu-lieu/bien-nien-su-cua-giao-hoi-cong-giao-viet-nam/]
@@ -2429,7 +2429,7 @@
 *   **1562 (Nhâm Tuất):** Vua Mạc Tuyên Tông (Mạc Phúc Nguyên) qua đời vì bệnh đậu mùa. Con trưởng là Mạc Mậu Hợp lúc mới 2 tuổi được tôn lên ngôi hoàng đế, Khiêm vương Mạc Kính Điển nắm quyền phụ chính điều hành việc triều chính. [Nguồn: XIX. Nhà Mạc 65 năm (Ủy ban NVNONN), https://scov.gov.vn/dat-nuoc-con-nguoi/tom-tat-bien-nien-su-vn/xix.-nha-mac-65-nam-1527-1592-kinh-do-dong-do-ha-noi-.html]
 
 <!-- id: EVT-0734 -->
-*   **Đầu năm 1564:** Mạc Kinh Chỉ (con trưởng Mạc Kính Điển) tư thông với vợ lẽ của cha, bị giáng làm thứ dân.
+*   **Đầu năm 1564:** Mạc Kinh Chỉ (con trưởng Mạc Kính Điển) tư thông với vợ lẽ của cha, bị giáng làm thứ dân. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Mạc (Mạc Mậu Hợp, năm 1564), https://vi.wikipedia.org/wiki/M%E1%BA%A1c_K%C3%ADnh_Ch%E1%BB%89]
 
 <!-- id: EVT-0735 -->
 *   **07/03/1568:** Các nhà hàng hải Pháp rời cảng La Rochelle cùng với các học giả Dòng Tên đi Viễn Đông và đã đặt chân đến quần đảo Hoàng Sa. [Nguồn: Chủ quyền Hoàng Sa Trường Sa (Thư viện Quảng Ngãi), https://thuvientinh.quangngai.gov.vn/chu-quyen-tren-hai-quan-dao-hoang-sa-va-truong-sa/]
@@ -2483,7 +2483,7 @@
 
 ### **Thời kỳ Phân liệt Đàng Trong - Đàng Ngoài (1593 - 1771)**
 
-*   **1593:** Theo tài liệu của giáo hội, tại Nghệ An đã có đến 12 làng Công giáo toàn tòng, cho thấy sự phát triển nhanh chóng của tôn giáo này trong giai đoạn đầu.
+*   **1593:** Theo tài liệu của giáo hội, tại Nghệ An đã có đến 12 làng Công giáo toàn tòng, cho thấy sự phát triển nhanh chóng của tôn giáo này trong giai đoạn đầu. [Nguồn: Lịch sử Giáo hội Công giáo Việt Nam – Giai đoạn truyền giáo ban đầu, https://vi.wikipedia.org/wiki/C%C3%B4ng_gi%C3%A1o_t%E1%BA%A1i_Vi%E1%BB%87t_Nam]
 
 <!-- id: EVT-0752 -->
 *   **01/1593 (Quý Tỵ):** Quân Trịnh do Tiết chế Trịnh Tùng chỉ huy đánh tan tàn quân Mạc, bắt sống Mạc Toàn tại bến Thảo Tân trên sông Hồng và đem xử trảm, chính thức chấm dứt sự hiện diện của vương triều Mạc tại kinh thành Thăng Long. [Nguồn: XIX. Nhà Mạc 65 năm (Ủy ban NVNONN), https://scov.gov.vn/dat-nuoc-con-nguoi/tom-tat-bien-nien-su-vn/xix.-nha-mac-65-nam-1527-1592-kinh-do-dong-do-ha-noi-.html]
@@ -2561,7 +2561,7 @@
 *   **1621 (Tân Dậu):** Mạc Kính Khoan (cháu Mạc Kính Cung) tự xưng vương, đặt niên hiệu Long Thái, thiết lập cứ điểm cát cứ ở Đại Từ (Thái Nguyên) rồi phụ chính tại Cao Bằng, phối hợp cùng Mạc Kính Cung củng cố vương quyền nhà Mạc ở vùng biên viễn. [Nguồn: Mạc Kính Khoan (Người Kể Sử), https://nguoikesu.com/nhan-vat/mac-kinh-khoan]
 
 <!-- id: EVT-0777 -->
-*   **20/11/1621:** Linh mục João Roiz viết bản tường trình hàng năm chứa đựng những cách ghi chép sơ khai các từ tiếng Việt bằng chữ cái Latinh, đánh dấu những bước đầu tiên của chữ Quốc ngữ.
+*   **20/11/1621:** Linh mục João Roiz viết bản tường trình hàng năm chứa đựng những cách ghi chép sơ khai các từ tiếng Việt bằng chữ cái Latinh, đánh dấu những bước đầu tiên của chữ Quốc ngữ. [Nguồn: Lịch sử hình thành chữ Quốc ngữ; Linh mục João Roiz, https://vi.wikipedia.org/wiki/Ch%E1%BB%AF_Qu%E1%BB%91c_ng%E1%BB%AF]
 
 <!-- id: EVT-0778 -->
 *   **1622:** Chúa Nguyễn Phúc Nguyên cho lập **Dinh Ai Lao** trên sông Hiếu để quản lý việc giao thương với Ai Lao. [Nguồn: Trịnh – Nguyễn phân tranh (Nghiên cứu Quốc tế), https://nghiencuuquocte.org/2024/09/22/bat-dau-thoi-ky-trinh-nguyen-phan-tranh/]
@@ -2585,7 +2585,7 @@
 *   **1626:** Giáo sĩ Dòng Tên Juliano Baldinotti đến Đàng Ngoài (Kẻ Chợ), để lại những ghi chép quan trọng về tình hình xã hội thời bấy giờ. [Nguồn: Dòng Tên tại Việt Nam (Tổng GP Sài Gòn), https://tgpsaigon.net/bai-viet/doi-dong-lich-su-dong-ten-tai-viet-nam-44746]
 
 <!-- id: EVT-0785 -->
-*   **12/07/1626:** Linh mục Francesco Buzomi viết một bức thư cho thấy sự tiến bộ rõ rệt trong việc phiên âm tiếng Việt, bắt đầu biết tách từ và sử dụng dấu thanh.
+*   **12/07/1626:** Linh mục Francesco Buzomi viết một bức thư cho thấy sự tiến bộ rõ rệt trong việc phiên âm tiếng Việt, bắt đầu biết tách từ và sử dụng dấu thanh. [Nguồn: Francesco Buzomi và sự khởi đầu của chữ Quốc ngữ, https://vi.wikipedia.org/wiki/Francesco_Buzomi]
 
 <!-- id: EVT-0786 -->
 *   **03/1627:** Nội chiến Trịnh-Nguyễn chính thức bùng nổ. Lần thứ nhất, quân Trịnh do Trịnh Tráng chỉ huy tiến vào Nam nhưng bị đánh bại ở cửa Nhật Lệ. [Nguồn: Lũy Thầy (Báo Quảng Trị), https://baoquangtri.vn/dat-va-nguoi-quang-binh/202205/dau-rang-co-canh-kho-qua-luy-thay-2200059/]
@@ -2825,7 +2825,7 @@
 *   **1718:** Ở Đàng Ngoài, chúa Trịnh Cương lập ra Lục phiên ở phủ Chúa, thâu tóm toàn bộ quyền lực, Lục bộ của triều đình nhà Lê chỉ còn là hư vị. [Nguồn: Lê Dụ Tông - Trịnh Cương (Công an Nhân dân), https://cand.vn/danh-cua-vua-cong-cua-chua-vua-le-du-tong-va-chua-trinh-cuong-post312669.html]
 
 <!-- id: EVT-0865 -->
-*   **1721:** Vua Lê Dụ Tông (thực chất là chúa Trịnh Cương) định lại quy chế phẩm phục quan lại văn võ, phân biệt cấp bậc rõ ràng.
+*   **1721:** Vua Lê Dụ Tông (thực chất là chúa Trịnh Cương) định lại quy chế phẩm phục quan lại văn võ, phân biệt cấp bậc rõ ràng. [Nguồn: Khâm định Việt sử thông giám cương mục – Chính biên (Quyển 35: Quy định phẩm phục thời Trịnh Cương), https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_C%C6%B0%C6%A1ng]
 
 <!-- id: EVT-0866 -->
 *   **1724:** Hải Thượng Lãn Ông Lê Hữu Trác, danh y và nhà văn lớn của Việt Nam, sinh ra tại xã Liêu Xá, huyện Đường Hào, trấn Hải Dương (nay thuộc Hưng Yên). [Nguồn: Hải Thượng Lãn Ông (Cổng TTĐT Hà Tĩnh), https://hatinh.gov.vn/vi/bai-viet/tieu-su-hai-thuong-lan-ong-le-huu-trac]
@@ -2909,7 +2909,7 @@
 *   **1757:** Vua Chân Lạp Nặc Tôn dâng đất Tầm Phong Long (nay thuộc Châu Đốc, An Giang) và 5 phủ ở vùng duyên hải Tây Nam cho chúa Nguyễn Phúc Khoát để tạ ơn giúp đỡ giành lại ngai vàng. Toàn bộ vùng đất Nam Bộ về cơ bản thuộc quyền kiểm soát và chủ quyền của chính quyền chúa Nguyễn. [Nguồn: Nguyễn Cư Trinh (Báo Pháp Luật), https://baophapluat.vn/nguyen-cu-trinh-cong-than-hoan-thanh-mo-coi-dat-tay-nam-bo-post414349.html]
 
 <!-- id: EVT-0892 -->
-*   **1759:** Đô đốc d'Estaing của Pháp ghi chép về sự tuần tiễu nghiêm ngặt giữa quần đảo Hoàng Sa và bờ biển Việt Nam của các đơn vị hải quân Việt Nam, chứng tỏ sự thực thi chủ quyền liên tục.
+*   **1759:** Đô đốc d'Estaing của Pháp ghi chép về sự tuần tiễu nghiêm ngặt giữa quần đảo Hoàng Sa và bờ biển Việt Nam của các đơn vị hải quân Việt Nam, chứng tỏ sự thực thi chủ quyền liên tục. [Nguồn: Bằng chứng lịch sử và cơ sở pháp lý khẳng định chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, https://scov.gov.vn]
 
 <!-- id: EVT-0893 -->
 *   **1764:** Lê Văn Duyệt sinh ra tại Định Tường (nguyên quán Quảng Ngãi). Ông sau này trở thành một danh tướng lẫy lừng, giữ chức Tổng trấn Gia Định thành và có công lớn trong việc khai phá, ổn định vùng đất Nam Bộ. [Nguồn: Lê Văn Duyệt (Công an Nhân dân), https://cand.vn/bi-kich-cua-ta-quan-le-van-duyet-trieu-nguyen-post311591.html]
@@ -2949,28 +2949,28 @@
 *   **Trung tuần tháng 9/1773:** Nghĩa quân Tây Sơn hạ thành Quy Nhơn, Tuần vũ Nguyễn Khắc Tuyên bỏ chạy. Sự kiện này gắn liền với giai thoại về mưu kế của Nguyễn Nhạc, người đã tự ngồi vào cũi giả làm tù nhân để lọt vào thành rồi phá cũi mở cổng cho quân tiến vào. [Nguồn: Vua Tây Sơn ném mình vào hang cọp (Dân Việt), https://danviet.vn/vua-tay-son-tu-nem-minh-vao-hang-cop-vi-nghiep-lon-7777704889-d461609.html]
 
 <!-- id: EVT-0904 -->
-*   **01/11/1773:** Quân Tây Sơn giành chiến thắng trong trận Bến Đá (Quảng Ngãi).
+*   **01/11/1773:** Quân Tây Sơn giành chiến thắng trong trận Bến Đá (Quảng Ngãi). [Nguồn: Khởi nghĩa Tây Sơn – Các chiến dịch ban đầu, https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_T%C3%A2y_S%C6%A1n]
 
 <!-- id: EVT-0905 -->
-*   **Mùa Đông 1773:** Các tướng Nguyễn Văn Lộc và Lê Văn Hưng theo lệnh của Chinh Nam Đại tướng quân Ngô Văn Sở vào đánh chiếm ba phủ Phú Yên, Diên Khánh, Bình Thuận.
+*   **Mùa Đông 1773:** Các tướng Nguyễn Văn Lộc và Lê Văn Hưng theo lệnh của Chinh Nam Đại tướng quân Ngô Văn Sở vào đánh chiếm ba phủ Phú Yên, Diên Khánh, Bình Thuận. [Nguồn: Đại Nam thực lục – Tiền biên (Khởi nghĩa Tây Sơn); Nguyễn Văn Lộc, https://vi.wikipedia.org/wiki/T%C3%A2y_S%C6%A1n_th%E1%BA%A5t_h%E1%BB%95_t%C6%B0%E1%BB%9Bng]
 
 <!-- id: EVT-0906 -->
-*   **22/12/1773:** Trận Bến Ván (Quảng Nam) diễn ra, quân chúa Nguyễn Phúc Thuần tạm thời đẩy lùi được quân Tây Sơn.
+*   **22/12/1773:** Trận Bến Ván (Quảng Nam) diễn ra, quân chúa Nguyễn Phúc Thuần tạm thời đẩy lùi được quân Tây Sơn. [Nguồn: Đại Nam thực lục – Tiền biên; Nguyễn Phúc Thuần, https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Ph%C3%BAc_Thu%E1%BA%A7n]
 
 <!-- id: EVT-0907 -->
 *   **1774:** Quân Trịnh do Hoàng Ngũ Phúc chỉ huy vượt sông Gianh tiến vào Nam, chiếm được Phú Xuân. Chúa Nguyễn Phúc Thuần phải chạy vào Quảng Nam. [Nguồn: Việp quận công Hoàng Ngũ Phúc (Dân Việt), https://danviet.vn/viep-quan-cong-hoang-ngu-phuc-tung-khien-quan-tay-son-phai-dau-hang-ra-sao-d1353739.html]
 
 <!-- id: EVT-0908 -->
-*   **Đầu năm 1774:** Quân Tây Sơn giết chết 1.600 lính của nhà Nguyễn trong các cuộc giao tranh, cho thấy sự khốc liệt ngày càng tăng của cuộc chiến.
+*   **Đầu năm 1774:** Quân Tây Sơn giết chết 1.600 lính của nhà Nguyễn trong các cuộc giao tranh, cho thấy sự khốc liệt ngày càng tăng của cuộc chiến. [Nguồn: Đại Nam thực lục – Tiền biên (Khởi nghĩa Tây Sơn), https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_T%C3%A2y_S%C6%A1n]
 
 <!-- id: EVT-0909 -->
-*   **22/04/1774:** Chúa Nguyễn Phúc Thuần ban hành sắc luật ân xá cho người theo đạo Thiên Chúa, một động thái nhằm thu phục lòng dân trước áp lực của phong trào Tây Sơn.
+*   **22/04/1774:** Chúa Nguyễn Phúc Thuần ban hành sắc luật ân xá cho người theo đạo Thiên Chúa, một động thái nhằm thu phục lòng dân trước áp lực của phong trào Tây Sơn. [Nguồn: Lịch sử truyền giáo Đàng Trong thời chúa Nguyễn Phúc Thuần, https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Ph%C3%BAc_Thu%E1%BA%A7n]
 
 <!-- id: EVT-0910 -->
-*   **1775:** Nguyễn Nhạc áp đặt chỉ tiêu quân dịch nghiêm ngặt, cứ 5 người đàn ông ở mỗi làng thì 1 người phải đi lính, chuyển từ lực lượng tình nguyện sang nghĩa vụ bắt buộc để đối phó với chiến tranh.
+*   **1775:** Nguyễn Nhạc áp đặt chỉ tiêu quân dịch nghiêm ngặt, cứ 5 người đàn ông ở mỗi làng thì 1 người phải đi lính, chuyển từ lực lượng tình nguyện sang nghĩa vụ bắt buộc để đối phó với chiến tranh. [Nguồn: Phong trào Tây Sơn – Chính sách quân sự thời kỳ đầu, https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Nh%E1%BA%A1c]
 
 <!-- id: EVT-0911 -->
-*   **1775:** Hai tướng người Hoa là Tập Đình và Lý Tài đem quân "Trung nghĩa" và "Hòa nghĩa" gia nhập nghĩa quân Tây Sơn, tăng cường đáng kể sức mạnh quân sự.
+*   **1775:** Hai tướng người Hoa là Tập Đình và Lý Tài đem quân "Trung nghĩa" và "Hòa nghĩa" gia nhập nghĩa quân Tây Sơn, tăng cường đáng kể sức mạnh quân sự. [Nguồn: Khởi nghĩa Tây Sơn – Đội quân Trung nghĩa và Hòa nghĩa, https://vi.wikipedia.org/wiki/L%C3%BD_T%C3%A0i]
 
 <!-- id: EVT-0912 -->
 *   **1775:** Ngô Thì Nhậm thi đỗ Tiến sĩ xuất thân (Tam giáp Đồng tiến sĩ xuất thân, đỗ thứ 5) trong khoa thi Hội năm Ất Mùi dưới thời vua Lê Hiển Tông và chúa Trịnh Sâm (cùng khoa thi với Phan Huy Ích). Được chúa Trịnh Sâm khen ngợi "Tài học không ở dưới người", ông được bổ làm Hộ khoa Cấp sự trung, sau thăng Giám sát Ngự sử rồi Đốc đồng Kinh Bắc kiêm Thái Nguyên, từng dâng nhiều kế sách trị quốc giá trị như Giáo nghị, Pháp nghị và Chính nghị. [Nguồn: Dòng họ khoa bảng Phan Huy (Dân Việt), https://danviet.vn/dong-ho-khoa-bang-phan-huy-3-cha-con-noi-nhau-do-tien-si-20240929075116186-d1186748.html]
@@ -2982,7 +2982,7 @@
 *   **30/01/1775:** Quân Trịnh do Hoàng Ngũ Phúc chỉ huy tiến đánh và chiếm được Phú Xuân. Chúa Nguyễn Phúc Thuần buộc phải bỏ kinh thành theo đường biển chạy vào Quảng Nam rồi sau đó vào Gia Định, đánh dấu sự sụp đổ của chính quyền trung ương chúa Nguyễn ở Đàng Trong. [Nguồn: Việp quận công Hoàng Ngũ Phúc (Dân Việt), https://danviet.vn/viep-quan-cong-hoang-ngu-phuc-tung-khien-quan-tay-son-phai-dau-hang-ra-sao-d1353739.html]
 
 <!-- id: EVT-0915 -->
-*   **22 - 24/04/1775:** Trận Cẩm Sa diễn ra tại Quảng Nam. Quân Trịnh do Hoàng Ngũ Phúc chỉ huy giao chiến với quân Tây Sơn do Nguyễn Nhạc và Tập Đình chỉ huy. Dù quân Tây Sơn ban đầu tấn công dũng mãnh, quân Trịnh đã dùng tượng binh và kỵ binh đánh phá đội hình, giành thắng lợi quyết định. Trước thế bị kẹp giữa quân Trịnh ở phía Bắc và quân Nguyễn ở phía Nam, Nguyễn Nhạc phải tạm thời xin hàng quân Trịnh để bảo toàn lực lượng.
+*   **22 - 24/04/1775:** Trận Cẩm Sa diễn ra tại Quảng Nam. Quân Trịnh do Hoàng Ngũ Phúc chỉ huy giao chiến với quân Tây Sơn do Nguyễn Nhạc và Tập Đình chỉ huy. Dù quân Tây Sơn ban đầu tấn công dũng mãnh, quân Trịnh đã dùng tượng binh và kỵ binh đánh phá đội hình, giành thắng lợi quyết định. Trước thế bị kẹp giữa quân Trịnh ở phía Bắc và quân Nguyễn ở phía Nam, Nguyễn Nhạc phải tạm thời xin hàng quân Trịnh để bảo toàn lực lượng. [Nguồn: Hoàng Lê nhất thống chí – Hồi thứ 2; Trận Cẩm Sa, https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_C%E1%BA%A9m_Sa]
 
 <!-- id: EVT-0916 -->
 *   **05/1775:** Quân Trịnh tiếp tục chiếm Quảng Nam. Nguyễn Nhạc phải tạm thời xin hàng quân Trịnh để tập trung lực lượng đánh chúa Nguyễn. [Nguồn: Việp quận công Hoàng Ngũ Phúc (Dân Việt), https://danviet.vn/viep-quan-cong-hoang-ngu-phuc-tung-khien-quan-tay-son-phai-dau-hang-ra-sao-d1353739.html]
@@ -3018,13 +3018,13 @@
 *   **1778:** Nguyễn Nhạc lên ngôi Hoàng đế, xưng là Minh Đức Hoàng Đế, đặt niên hiệu Thái Đức. Ông cho mở rộng quy mô thành Đồ Bàn cũ, xây dựng tráng lệ và đổi tên thành **Hoàng Đế thành** để làm kinh đô. Nữ tướng Bùi Thị Xuân tổ chức và huấn luyện 4 lữ đoàn nữ binh cùng đội tượng binh thiện chiến, đóng góp lớn vào sức mạnh quân đội Tây Sơn. Cùng với Bùi Thị Xuân, các nữ tướng Trần Thị Lan, Nguyễn Thị Dung, Huỳnh Thị Cúc trực tiếp chỉ huy các lữ đoàn nữ binh. Tướng Lê Văn Hưng đánh bại quân Nguyễn do Lê Văn Quân chỉ huy tại Diên Khánh và Bình Thuận, khiến quân Nguyễn khiếp sợ gọi là "Lê Vô Địch". Các tướng tôn Nguyễn Ánh làm Đại nguyên súy Nhiếp quốc chính, củng cố lực lượng chúa Nguyễn tại Gia Định để chống lại Tây Sơn. [Nguồn: Vai trò của Nguyễn Nhạc (Báo Gia Lai), https://baogialai.com.vn/vai-tro-cua-nguyen-nhac-o-tay-son-thuong-dao-post290985.html]
 
 <!-- id: EVT-0927 -->
-*   **01/1778:** Nguyễn Ánh được các tướng tôn làm **Đại Nguyên soái** tại Gia Định.
+*   **01/1778:** Nguyễn Ánh được các tướng tôn làm **Đại Nguyên soái** tại Gia Định. [Nguồn: Đại Nam thực lục – Chính biên (Đệ nhất kỷ: Gia Long hoàng đế), https://vi.wikipedia.org/wiki/Gia_Long]
 
 <!-- id: EVT-0928 -->
-*   **13/07/1778:** Charles Chapman, phái viên của Công ty Đông Ấn Anh, đến Quy Nhơn để tìm kiếm quan hệ thương mại với nhà Tây Sơn, để lại những ghi chép quan trọng về tình hình Đàng Trong.
+*   **13/07/1778:** Charles Chapman, phái viên của Công ty Đông Ấn Anh, đến Quy Nhơn để tìm kiếm quan hệ thương mại với nhà Tây Sơn, để lại những ghi chép quan trọng về tình hình Đàng Trong. [Nguồn: Phái bộ ngoại giao của Charles Chapman đến Việt Nam năm 1778, https://nghiencuuquocte.org]
 
 <!-- id: EVT-0929 -->
-*   **1780:** Lê Văn Duyệt (khi đó 17 tuổi) gia nhập lực lượng của Nguyễn Ánh, bắt đầu sự nghiệp của một danh tướng lừng lẫy và một đại công thần của nhà Nguyễn.
+*   **1780:** Lê Văn Duyệt (khi đó 17 tuổi) gia nhập lực lượng của Nguyễn Ánh, bắt đầu sự nghiệp của một danh tướng lừng lẫy và một đại công thần của nhà Nguyễn. [Nguồn: Đại Nam liệt truyện – Lê Văn Duyệt, https://vi.wikipedia.org/wiki/L%C3%AA_V%C4%83n_Duy%E1%BB%87t]
 
 <!-- id: EVT-0930 -->
 *   **01/1780:** Nguyễn Ánh xưng Vương (Nguyễn Vương), dùng niên hiệu Cảnh Hưng của nhà Lê và lấy ấn "Đại Việt quốc Nguyễn chúa vĩnh trấn chi bửu" làm ấn truyền quốc. [Nguồn: Vua Gia Long và công cuộc khai lập triều Nguyễn kỳ III (Lưu trữ Quốc gia), https://www.archives.org.vn/hoang-de-gia-long-va-cong-cuoc-khai-lap-trieu-nguyen-200-nam-nhin-lai-ky-iii-chan-dung-va-cuoc-doi.htm]
@@ -3036,7 +3036,7 @@
 *   **05/1781:** Nguyễn Ánh ra lệnh giết Đỗ Thanh Nhân, một tướng lĩnh quyền lực và kiêu ngạo. Sự kiện này dẫn đến việc binh lính Đông Sơn của Đỗ Thanh Nhân nổi loạn, làm suy yếu đáng kể lực lượng của Nguyễn Ánh. [Nguồn: Kẻ gièm pha khiến Đỗ Thanh Nhơn chết thảm (Dân Việt), https://danviet.vn/nhan-vat-dai-ac-nao-buong-loi-giem-pha-khien-dung-tuong-do-thanh-nhon-chet-tham-20230725224421546-d1108414.html]
 
 <!-- id: EVT-0933 -->
-*   **1782:** Nguyễn Ánh chiếm lại được Gia Định.
+*   **1782:** Nguyễn Ánh chiếm lại được Gia Định. [Nguồn: Đại Nam thực lục – Chính biên (Gia Long phục hồi Gia Định năm 1782), https://vi.wikipedia.org/wiki/Gia_Long]
 
 <!-- id: EVT-0934 -->
 *   **02/1782 (Tháng Giêng năm Nhâm Dần):** Danh y Lê Hữu Trác nhận chỉ triệu ra kinh đô Thăng Long chữa bệnh cho Thế tử Trịnh Cán. Chuyến đi này được ông ghi lại trong tác phẩm *Thượng Kinh ký sự*. [Nguồn: Thượng kinh ký sự của Hải Thượng Lãn Ông (Báo Hà Tĩnh), https://baohatinh.vn/vai-dieu-ve-thuong-kinh-ky-su-cua-hai-thuong-lan-ong-le-huu-trac-post275509.html]
@@ -3045,7 +3045,7 @@
 *   **03/1782:** Trận Thất Kỳ giang (Ngã Bảy, Sài Gòn). Quân Tây Sơn đánh bại thủy quân của Nguyễn Ánh và các tàu chiến phương Tây, giết chết chỉ huy Manuel (Mạn Hòe). [Nguồn: Đại Nam thực lục - Tiền biên, Quyển 1; Nghiên cứu Lịch sử, https://nghiencuulichsu.com/2015/10/30/cuoc-chien-25-nam-giua-nguyen-anh-va-tay-son-1777-den-1802/]
 
 <!-- id: EVT-0936 -->
-*   **07/07/1782:** Để trả thù cho cái chết của Hộ giá Phạm Ngạn tại cầu Tham Lương, Nguyễn Nhạc đã ra lệnh tàn sát hàng ngàn người Hoa (thương nhân và binh lính) tại Gia Định, gây nên sự đình trệ nghiêm trọng về thương mại và kinh tế trong vùng.
+*   **07/07/1782:** Để trả thù cho cái chết của Hộ giá Phạm Ngạn tại cầu Tham Lương, Nguyễn Nhạc đã ra lệnh tàn sát hàng ngàn người Hoa (thương nhân và binh lính) tại Gia Định, gây nên sự đình trệ nghiêm trọng về thương mại và kinh tế trong vùng. [Nguồn: Lịch sử vùng đất Sài Gòn – Gia Định; Phạm Ngạn, https://vi.wikipedia.org/wiki/Ph%E1%BA%A1m_Ng%E1%BA%A1n]
 
 <!-- id: EVT-0937 -->
 *   **19/10/1782 (13/09 năm Nhâm Dần):** Chúa Trịnh Sâm mất. Con nhỏ là Trịnh Cán nối ngôi (Điện Đô Vương). [Nguồn: Tìm thấy mộ chúa Trịnh Sâm (Tuổi Trẻ), https://tuoitre.vn/nld/thoi-su-trong-nuoc/da-tim-thay-mo-chua-trinh-sam-o-thanh-hoa-105233.htm]
@@ -3063,10 +3063,10 @@
 *   **1783:** Lê Hữu Trác hoàn thành tác phẩm *Thượng Kinh ký sự*, ghi chép chân thực về cảnh sống xa hoa nhưng suy tàn của phủ chúa Trịnh và xã hội Đàng Ngoài đương thời. Nguyễn Huệ và Nguyễn Lữ đem quân vào đánh, Nguyễn Ánh lại thua trận, phải chạy sang Xiêm cầu viện. [Nguồn: Thượng kinh ký sự của Hải Thượng Lãn Ông (Báo Hà Tĩnh), https://baohatinh.vn/vai-dieu-ve-thuong-kinh-ky-su-cua-hai-thuong-lan-ong-le-huu-trac-post275509.html]
 
 <!-- id: EVT-0941 -->
-*   **Đầu năm 1783:** Tướng Lê Văn Hưng tấn công đồn thủy binh Dác Ngư (Gia Định), giết chết tướng Tôn Thất Mậu của chúa Nguyễn Phúc Ánh.
+*   **Đầu năm 1783:** Tướng Lê Văn Hưng tấn công đồn thủy binh Dác Ngư (Gia Định), giết chết tướng Tôn Thất Mậu của chúa Nguyễn Phúc Ánh. [Nguồn: Đại Nam thực lục – Tiền biên; Trận Ngã Bảy (1783), https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_T%C3%A2y_S%C6%A1n_%E2%80%93_Ch%C3%BAa_Nguy%E1%BB%85n_(1771%E2%80%931785)]
 
 <!-- id: EVT-0942 -->
-*   **24/02/1783:** Trận thủy chiến tại sông Gia Định (khu vực Vàm Cỏ - Cá Trê), quân Nguyễn dùng hỏa công nhưng gặp gió đông bắc thổi mạnh ngược lại, tự thiêu rụi thuyền bè. Nguyễn Ánh phải chạy ra đảo Côn Lôn rồi Phú Quốc.
+*   **24/02/1783:** Trận thủy chiến tại sông Gia Định (khu vực Vàm Cỏ - Cá Trê), quân Nguyễn dùng hỏa công nhưng gặp gió đông bắc thổi mạnh ngược lại, tự thiêu rụi thuyền bè. Nguyễn Ánh phải chạy ra đảo Côn Lôn rồi Phú Quốc. [Nguồn: Đại Nam thực lục – Chính biên; Chiến dịch Nam Bộ năm 1783, https://vi.wikipedia.org/wiki/Gia_Long]
 
 <!-- id: EVT-0943 -->
 *   **25/07/1784:** 5 vạn quân Xiêm (2 vạn thủy, 3 vạn bộ) do Chiêu Tăng, Chiêu Sương chỉ huy cùng Nguyễn Ánh tiến vào xâm lược Gia Định. [Nguồn: Chiến thắng Rạch Gầm - Xoài Mút (Báo QĐND), http://hc.qdnd.vn/lich-su-hau-can/chien-thang-rach-gam-xoai-mut-va-bai-hoc-ve-cong-tac-hau-can-482369]
@@ -3075,10 +3075,10 @@
 *   **Mùa đông 1784:** Nguyễn Ánh cử Hoàng tử Cảnh đi cùng Giám mục Pigneau de Béhaine (Bá Đa Lộc) sang Pháp cầu viện. [Nguồn: Hoàng tử yểu mệnh nhà Nguyễn (Dân Việt), https://danviet.vn/mot-hoang-tu-vuong-trieu-nha-nguyen-yeu-menh-so-phan-long-dong-gian-truan-dau-don-ong-la-ai-20241105225453868-d1193481.html]
 
 <!-- id: EVT-0945 -->
-*   **1785:** Trong cuộc rút lui hỗn loạn sau thất bại, Lê Văn Duyệt đã chiến đấu dũng cảm để bảo vệ Chúa Nguyễn Phúc Ánh (Nguyễn Ánh), giúp ông thoát về Hà Tiên rồi sang Xiêm.
+*   **1785:** Trong cuộc rút lui hỗn loạn sau thất bại, Lê Văn Duyệt đã chiến đấu dũng cảm để bảo vệ Chúa Nguyễn Phúc Ánh (Nguyễn Ánh), giúp ông thoát về Hà Tiên rồi sang Xiêm. [Nguồn: Đại Nam liệt truyện – Lê Văn Duyệt, https://vi.wikipedia.org/wiki/L%C3%AA_V%C4%83n_Duy%E1%BB%87t]
 
 <!-- id: EVT-0946 -->
-*   **1785:** Miếu An Sơn (miếu Bà) được xây dựng tại Côn Đảo để thờ bà Phi Yến (Lê Thị Răm), thứ phi của chúa Nguyễn Phúc Ánh. Giai thoại kể rằng bà đã can ngăn chúa Nguyễn cầu viện Pháp và bị giam cầm.
+*   **1785:** Miếu An Sơn (miếu Bà) được xây dựng tại Côn Đảo để thờ bà Phi Yến (Lê Thị Răm), thứ phi của chúa Nguyễn Phúc Ánh. Giai thoại kể rằng bà đã can ngăn chúa Nguyễn cầu viện Pháp và bị giam cầm. [Nguồn: Di tích Miếu An Sơn (miếu Bà Phi Yến) tại Côn Đảo, https://baotanglichsu.vn]
 
 <!-- id: EVT-0947 -->
 *   **19 - 20/01/1785:** Trận Rạch Gầm - Xoài Mút. Nguyễn Huệ tổ chức trận địa mai phục tài tình dọc sông Tiền, phối hợp thủy bộ đại phá 5 vạn liên quân Xiêm - Nguyễn. Chỉ trong chưa đầy một ngày, quân Tây Sơn đã tiêu diệt gần 300 chiến thuyền và khoảng 4 vạn quân Xiêm, vĩnh viễn xóa bỏ mối đe dọa xâm lược của Xiêm La đối với chủ quyền miền Nam, buộc Nguyễn Ánh phải chạy trốn sang Xiêm. [Nguồn: Chiến thắng Rạch Gầm - Xoài Mút (Báo QĐND), http://hc.qdnd.vn/lich-su-hau-can/chien-thang-rach-gam-xoai-mut-va-bai-hoc-ve-cong-tac-hau-can-482369]
@@ -3088,7 +3088,7 @@
 *Nguồn: Tượng đài Chiến thắng Rạch Gầm - Xoài Mút tại Tiền Giang (Ảnh: Nguyễn Thanh Quang / Wikimedia Commons / Public domain)*
 
 <!-- id: EVT-0948 -->
-*   **1786:** Trong thời gian lưu vong tại Xiêm, Lê Văn Duyệt tham gia cùng quân Xiêm đánh quân Miến Điện xâm lược tại Sài Nặc. Ông đã sử dụng chiến thuật dùng "ống phun lửa" để làm hoảng sợ voi và ngựa chiến của địch, góp phần vào chiến thắng.
+*   **1786:** Trong thời gian lưu vong tại Xiêm, Lê Văn Duyệt tham gia cùng quân Xiêm đánh quân Miến Điện xâm lược tại Sài Nặc. Ông đã sử dụng chiến thuật dùng "ống phun lửa" để làm hoảng sợ voi và ngựa chiến của địch, góp phần vào chiến thắng. [Nguồn: Đại Nam liệt truyện – Tiền biên (Lê Văn Duyệt tại Xiêm La), https://vi.wikipedia.org/wiki/L%C3%AA_V%C4%83n_Duy%E1%BB%87t]
 
 <!-- id: EVT-0949 -->
 *   **14/02/1786 (16 tháng Giêng năm Thái Đức thứ 9):** Quan Thái phó Tổng lý quản binh dân của chính quyền Tây Sơn ban hành *Sai phái trạng* (Lệnh sai hành chính) cử Cai đồn Hà Liễu chỉ huy 4 chiếc thuyền câu thuộc Đội Hoàng Sa (xã An Vĩnh) tiếp tục ra quần đảo Hoàng Sa thực hiện nhiệm vụ thu lượm hóa vật, khí giới và tuần thám biển đảo. Đây là văn bản pháp lý quý giá của triều Tây Sơn khẳng định sự kế thừa liên tục việc thực thi chủ quyền đối với quần đảo Hoàng Sa. [Nguồn: Hải quân Hoàng Sa dưới thời Tây Sơn (VUSTA), https://vusta.vn/hai-quan-dao-hoang-sa-va-truong-sa-duoi-thoi-tay-son-p81852.html]
@@ -3097,7 +3097,7 @@
 *   **06/1786:** Lấy danh nghĩa "phù Lê diệt Trịnh", Nguyễn Huệ chỉ huy đại quân Tây Sơn tiến ra Bắc. [Nguồn: Đài Thắng Thần Tộc tết Kỷ Dậu (Hưng Nguyên, Nghệ An), https://hungnguyen.nghean.gov.vn/danh-lam-thang-canh/dai-thang-than-toc-tet-ky-dau-464723]
 
 <!-- id: EVT-0951 -->
-*   **15/06/1786:** Quân Tây Sơn lợi dụng đêm tối và nước thủy triều dâng cao, bất ngờ tấn công và hạ thành Phú Xuân. Tướng Trịnh là Hoàng Đình Thể chiến đấu đến khi hết đạn rồi tử trận, còn trấn thủ Phạm Ngô Cầu mở cửa thành đầu hàng. Thắng lợi này đã tiêu diệt hoàn toàn lực lượng quân Trịnh ở phía nam sông Gianh.
+*   **15/06/1786:** Quân Tây Sơn lợi dụng đêm tối và nước thủy triều dâng cao, bất ngờ tấn công và hạ thành Phú Xuân. Tướng Trịnh là Hoàng Đình Thể chiến đấu đến khi hết đạn rồi tử trận, còn trấn thủ Phạm Ngô Cầu mở cửa thành đầu hàng. Thắng lợi này đã tiêu diệt hoàn toàn lực lượng quân Trịnh ở phía nam sông Gianh. [Nguồn: Hoàng Lê nhất thống chí – Hồi thứ 5; Trận Phú Xuân (1786), https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Ph%C3%BA_Xu%C3%A2n_1786]
 
 <!-- id: EVT-0952 -->
 *   **17/07/1786:** Trận Sơn Nam. Nguyễn Huệ dùng kế tâm lý chiến, cho những người nộm rơm lên thuyền để dụ địch bắn tên đạn. Khi quân Trịnh cạn kiệt đạn dược, thủy quân và tinh binh Tây Sơn đồng loạt tấn công, đánh tan quân Trịnh và chiếm được trấn Sơn Nam. [Nguồn: Hoàng Lê nhất thống chí - Hồi thứ 4; Khâm định Việt sử thông giám Cương mục]
@@ -3110,7 +3110,7 @@
 *Nguồn: Tượng đài Quang Trung tại Bảo tàng Quang Trung, Tây Sơn, Bình Định (Ảnh: Liftold / CC BY-SA 3.0)*
 
 <!-- id: EVT-0954 -->
-*   **10/08/1786 (17/07 năm Bính Ngọ):** Vua Lê Hiển Tông băng hà. Lê Duy Kỳ (Lê Chiêu Thống) lên nối ngôi.
+*   **10/08/1786 (17/07 năm Bính Ngọ):** Vua Lê Hiển Tông băng hà. Lê Duy Kỳ (Lê Chiêu Thống) lên nối ngôi. [Nguồn: Hoàng Lê nhất thống chí – Hồi thứ 6; Lê Chiêu Thống nối ngôi, https://vi.wikipedia.org/wiki/L%C3%AA_Chi%C3%AAu_Th%E1%BB%91ng]
 
 <!-- id: EVT-0955 -->
 *   **10/10/1786 (19/09 năm Bính Ngọ):** Trịnh Bồng được lập làm Án Đô Vương nhưng vấp phải sự chống đối của vua Lê Chiêu Thống và các phe phái. [Nguồn: Mưu đảo chính thời chúa Trịnh (Báo Pháp Luật), https://baophapluat.vn/muu-dao-chinh-va-chuyen-tranh-quyen-doat-vi-thoi-chua-trinh-post264454.html]
@@ -3119,25 +3119,25 @@
 *   **Cuối 1786:** Nguyễn Huệ được vua Lê gả công chúa Ngọc Hân. Anh em Tây Sơn chia nhau cai quản đất nước: Nguyễn Nhạc là Trung ương Hoàng đế (từ Quảng Nam vào Bình Thuận), Nguyễn Huệ là Bắc Bình vương (cai quản Thuận Hóa từ đèo Hải Vân ra Bắc), Nguyễn Lữ là Đông Định vương (cai quản vùng Gia Định). [Nguồn: Đài Thắng Thần Tộc tết Kỷ Dậu (Hưng Nguyên, Nghệ An), https://hungnguyen.nghean.gov.vn/danh-lam-thang-canh/dai-thang-than-toc-tet-ky-dau-464723]
 
 <!-- id: EVT-0957 -->
-*   **1787 - 1788:** Đoàn thám hiểm Pháp do Kergariou-Locmaria chỉ huy đã tiến hành khảo sát hàng hải, phân biệt rõ ràng quần đảo Hoàng Sa (Paracels) với một quần đảo rộng lớn nằm cách đó 500km về phía Nam, nơi chưa từng được ghi nhận trên bản đồ trước đó và sau này được gọi là Trường Sa (Spratlys).
+*   **1787 - 1788:** Đoàn thám hiểm Pháp do Kergariou-Locmaria chỉ huy đã tiến hành khảo sát hàng hải, phân biệt rõ ràng quần đảo Hoàng Sa (Paracels) với một quần đảo rộng lớn nằm cách đó 500km về phía Nam, nơi chưa từng được ghi nhận trên bản đồ trước đó và sau này được gọi là Trường Sa (Spratlys). [Nguồn: Tư liệu lịch sử hàng hải quốc tế về chủ quyền Hoàng Sa - Trường Sa, https://scov.gov.vn]
 
 <!-- id: EVT-0958 -->
-*   **1787:** Mâu thuẫn giữa Nguyễn Nhạc và Nguyễn Huệ nổ ra. Nguyễn Huệ đem quân vây thành Hoàng Đế, buộc Nguyễn Nhạc phải nhượng thêm đất Quảng Nam.
+*   **1787:** Mâu thuẫn giữa Nguyễn Nhạc và Nguyễn Huệ nổ ra. Nguyễn Huệ đem quân vây thành Hoàng Đế, buộc Nguyễn Nhạc phải nhượng thêm đất Quảng Nam. [Nguồn: Hoàng Lê nhất thống chí – Hồi thứ 7; Xung đột nội bộ Tây Sơn, https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_T%C3%A2y_S%C6%A1n_%E2%80%93_Ch%C3%BAa_Nguy%E1%BB%85n]
 
 <!-- id: EVT-0959 -->
-*   **1787:** Vua Lê Chiêu Thống bãi bỏ Lục phiên (cơ quan của phủ Chúa), trả lại quyền hành cho Lục bộ, cố gắng chấn chỉnh lại triều cương.
+*   **1787:** Vua Lê Chiêu Thống bãi bỏ Lục phiên (cơ quan của phủ Chúa), trả lại quyền hành cho Lục bộ, cố gắng chấn chỉnh lại triều cương. [Nguồn: Khâm định Việt sử thông giám cương mục – Chính biên (Lê Chiêu Thống bãi bỏ Lục phiên), https://vi.wikipedia.org/wiki/L%C3%AA_Chi%C3%AAu_Th%E1%BB%91ng]
 
 <!-- id: EVT-0960 -->
-*   **26/01/1787 (08/12 năm Bính Ngọ):** Vua Lê Chiêu Thống sai người phóng hỏa đốt Phủ Chúa sau khi Trịnh Bồng bỏ trốn, chấm dứt biểu tượng quyền lực của họ Trịnh.
+*   **26/01/1787 (08/12 năm Bính Ngọ):** Vua Lê Chiêu Thống sai người phóng hỏa đốt Phủ Chúa sau khi Trịnh Bồng bỏ trốn, chấm dứt biểu tượng quyền lực của họ Trịnh. [Nguồn: Hoàng Lê nhất thống chí – Hồi thứ 7; Vua Chiêu Thống đốt Phủ Chúa, https://vi.wikipedia.org/wiki/L%C3%AA_Chi%C3%AAu_Th%E1%BB%91ng]
 
 <!-- id: EVT-0961 -->
-*   **21/02/1787:** Cuộc nội chiến "huynh đệ tương tàn" giữa Nguyễn Nhạc và Nguyễn Huệ bùng nổ. Nguyễn Huệ đem quân vây hãm anh trai tại thành Quy Nhơn. Trong cuộc xung đột này, Nguyễn Nhạc đã mất khoảng 40.000 quân. Nguyễn Nhạc bị vây khốn, phải lên thành khóc lóc xin em giải vây. Sự kiện này, được gọi là "nồi da xáo thịt", đã làm suy yếu nghiêm trọng triều đại Tây Sơn.
+*   **21/02/1787:** Cuộc nội chiến "huynh đệ tương tàn" giữa Nguyễn Nhạc và Nguyễn Huệ bùng nổ. Nguyễn Huệ đem quân vây hãm anh trai tại thành Quy Nhơn. Trong cuộc xung đột này, Nguyễn Nhạc đã mất khoảng 40.000 quân. Nguyễn Nhạc bị vây khốn, phải lên thành khóc lóc xin em giải vây. Sự kiện này, được gọi là "nồi da xáo thịt", đã làm suy yếu nghiêm trọng triều đại Tây Sơn. [Nguồn: Hoàng Lê nhất thống chí – Hồi thứ 7; Mâu thuẫn anh em Tây Sơn, https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Nh%E1%BA%A1c]
 
 <!-- id: EVT-0962 -->
 *   **05/05/1787:** Hoàng tử Cảnh (con trai Nguyễn Ánh), cùng Giám mục Bá Đa Lộc, đã có buổi yết kiến Vua Louis XVI của Pháp tại Cung điện Versailles để cầu viện. [Nguồn: Hoàng tử yểu mệnh nhà Nguyễn (Dân Việt), https://danviet.vn/mot-hoang-tu-vuong-trieu-nha-nguyen-yeu-menh-so-phan-long-dong-gian-truan-dau-don-ong-la-ai-20241105225453868-d1193481.html]
 
 <!-- id: EVT-0963 -->
-*   **27/05/1787 (11/04 năm Đinh Mùi):** Phái bộ do Trần Công Xán dẫn đầu, được vua Lê Chiêu Thống cử vào Nam thương thuyết với nhà Tây Sơn về đất Nghệ An, đã bị quân Tây Sơn dìm chết ngoài biển.
+*   **27/05/1787 (11/04 năm Đinh Mùi):** Phái bộ do Trần Công Xán dẫn đầu, được vua Lê Chiêu Thống cử vào Nam thương thuyết với nhà Tây Sơn về đất Nghệ An, đã bị quân Tây Sơn dìm chết ngoài biển. [Nguồn: Hoàng Lê nhất thống chí – Hồi thứ 8; Vụ án sứ đoàn Trần Công Xán, https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_C%C3%B4ng_X%C3%A1n]
 
 <!-- id: EVT-0964 -->
 *   **28/11/1787:** Giám mục Bá Đa Lộc (đại diện Nguyễn Ánh) ký Hiệp ước Versailles với Bá tước De Montmorin (Pháp). Điều II của Hiệp ước hứa nhường cảng Hội An và đảo Côn Lôn cho Pháp. [Nguồn: Vua Gia Long và công cuộc khai lập triều Nguyễn kỳ III (Lưu trữ Quốc gia), https://www.archives.org.vn/hoang-de-gia-long-va-cong-cuoc-khai-lap-trieu-nguyen-200-nam-nhin-lai-ky-iii-chan-dung-va-cuoc-doi.htm]
@@ -3155,7 +3155,7 @@
 *   **01/1788:** Tướng Tây Sơn Vũ Văn Nhậm tiến quân ra Bắc, bắt và giết Nguyễn Hữu Chỉnh tại Thăng Long, chấm dứt nỗ lực xây dựng quyền lực riêng của Chỉnh. [Nguồn: Khâm định Việt sử thông giám Cương mục - Chính biên, Quyển 47]
 
 <!-- id: EVT-0969 -->
-*   **Đầu năm 1788:** Dân chúng ở Đàng Ngoài (Bắc Hà) bắt đầu thể hiện sự bất mãn và căm ghét đối với các quan lại mới của chính quyền Tây Sơn.
+*   **Đầu năm 1788:** Dân chúng ở Đàng Ngoài (Bắc Hà) bắt đầu thể hiện sự bất mãn và căm ghét đối với các quan lại mới của chính quyền Tây Sơn. [Nguồn: Hoàng Lê nhất thống chí – Hồi thứ 10; Tình hình Bắc Hà thời Tây Sơn, https://vi.wikipedia.org/wiki/%C4%90%C3%A0ng_Ngo%C3%A0i]
 
 <!-- id: EVT-0970 -->
 *   **04/1788:** Nguyễn Huệ thần tốc tiến quân ra Bắc, xử tử Vũ Văn Nhậm vì tội chuyên quyền và có ý đồ phản loạn (sau khi Nhậm diệt Nguyễn Hữu Chỉnh), củng cố sự kiểm soát của mình đối với Bắc Hà. Sau khi xử tử Vũ Văn Nhậm, Đô đốc Tuyết (Nguyễn Văn Tuyết) được Nguyễn Huệ giao trọng trách ở lại Bắc Hà làm phụ tá cho Ngô Văn Sở. [Nguồn: Trận Ngọc Hồi - Đống Đa (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_Ng%E1%BB%8Dc_H%E1%BB%93i_%E2%80%93_%C4%90%E1%BB%91ng_%C4%90a]
@@ -3167,10 +3167,10 @@
 *   **07/09/1788:** Quân Nguyễn Ánh tái chiếm Sài Gòn (thành Gia Định), đánh bật quân Tây Sơn, thiết lập lại căn cứ địa vững chắc cho công cuộc phục hưng. [Nguồn: Chiến tranh Tây Sơn - chúa Nguyễn 1787-1802 (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_T%C3%A2y_S%C6%A1n_%E2%80%93_Ch%C3%BAa_Nguy%E1%BB%85n_(1787%E2%80%931802)]
 
 <!-- id: EVT-0973 -->
-*   **Tháng 11/1788 (Âm lịch):** Quân Thanh tiến vào Đại Việt, lần lượt đánh bại quân Tây Sơn tại các trận **Gia Quan**, **Tam Dị**, và **sông Thọ Xương**.
+*   **Tháng 11/1788 (Âm lịch):** Quân Thanh tiến vào Đại Việt, lần lượt đánh bại quân Tây Sơn tại các trận **Gia Quan**, **Tam Dị**, và **sông Thọ Xương**. [Nguồn: Hoàng Lê nhất thống chí – Hồi thứ 13; Tôn Sĩ Nghị tiến quân vào Đại Việt, https://vi.wikipedia.org/wiki/T%C3%B4n_S%C4%A9_Ngh%E1%BB%8B]
 
 <!-- id: EVT-0974 -->
-*   **Tháng 11/1788 (Âm lịch):** **Trận sông Phú Lương:** Quân Thanh vượt sông Hồng (Phú Lương). Quân Tây Sơn rút lui để bảo toàn lực lượng.
+*   **Tháng 11/1788 (Âm lịch):** **Trận sông Phú Lương:** Quân Thanh vượt sông Hồng (Phú Lương). Quân Tây Sơn rút lui để bảo toàn lực lượng. [Nguồn: Hoàng Lê nhất thống chí – Hồi thứ 13; Trận sông Phú Lương, https://vi.wikipedia.org/wiki/T%C3%B4n_S%C4%A9_Ngh%E1%BB%8B]
 
 <!-- id: EVT-0975 -->
 *   **22/11/1788:** Tôn Sĩ Nghị tổ chức lễ tuyên phong cho Lê Chiêu Thống làm An Nam Quốc vương tại Thăng Long (theo lịch nhà Thanh). [Nguồn: Lê Chiêu Thống (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/L%C3%AA_Chi%C3%AAu_Th%E1%BB%91ng]
@@ -3179,10 +3179,10 @@
 *   **Cuối 1788:** Trước sức tiến công ồ ạt của 29 vạn quân Mãn Thanh do Tôn Sĩ Nghị chỉ huy tràn vào xâm lược Đại Việt, danh sĩ Ngô Thì Nhậm đã hiến kế sách chiến lược then chốt cho Đại tư mã Ngô Văn Sở: chủ động rút toàn bộ quân thủy bộ Tây Sơn về lập phòng tuyến liên hoàn Tam Điệp – Biện Sơn (Ninh Bình - Thanh Hóa), nhử quân giặc vào Thăng Long đóng quân sơ hở ("cho giặc ngủ trọ một đêm") để bảo toàn nguyên vẹn quân lực; đồng thời phái Đô đốc Nguyễn Văn Tuyết phi ngựa thần tốc về Phú Xuân cấp báo cho vua Quang Trung. [Nguồn: Phòng tuyến Tam Điệp (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Ph%C3%B2ng_tuy%E1%BA%BFn_Tam_%C4%90i%E1%BB%87p]
 
 <!-- id: EVT-0977 -->
-*   **12/12/1788 (15/11 năm Mậu Thân):** Quân Thanh tiến đến bờ bắc sông Thị Cầu.
+*   **12/12/1788 (15/11 năm Mậu Thân):** Quân Thanh tiến đến bờ bắc sông Thị Cầu. [Nguồn: Hoàng Lê nhất thống chí – Hồi thứ 13; Quân Thanh tiến sát bờ bắc sông Thị Cầu, https://vi.wikipedia.org/wiki/T%C3%B4n_S%C4%A9_Ngh%E1%BB%8B]
 
 <!-- id: EVT-0978 -->
-*   **14/12/1788 (17/11 năm Mậu Thân):** **Trận sông Thị Cầu:** Tôn Sĩ Nghị dùng kế nghi binh, sai Trương Triều Long lén vượt sông đánh úp doanh trại quân Tây Sơn của Phan Văn Lân.
+*   **14/12/1788 (17/11 năm Mậu Thân):** **Trận sông Thị Cầu:** Tôn Sĩ Nghị dùng kế nghi binh, sai Trương Triều Long lén vượt sông đánh úp doanh trại quân Tây Sơn của Phan Văn Lân. [Nguồn: Hoàng Lê nhất thống chí – Hồi thứ 13; Trận Thị Cầu, https://vi.wikipedia.org/wiki/T%C3%B4n_S%C4%A9_Ngh%E1%BB%8B]
 
 <!-- id: EVT-0979 -->
 *   **18/12/1788:** Tôn Sĩ Nghị dẫn quân Thanh tiến vào Thăng Long, bắt đầu thời kỳ chiếm đóng ngắn ngủi của quân Thanh tại kinh đô. [Nguồn: Trận Ngọc Hồi - Đống Đa (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_Ng%E1%BB%8Dc_H%E1%BB%93i_%E2%80%93_%C4%90%E1%BB%91ng_%C4%90a]
@@ -3198,7 +3198,7 @@
 *   **1789:** Vua Quang Trung ban bố "Chiếu khuyến nông" (do Ngô Thì Nhậm khởi thảo) để nhanh chóng phục hồi sản xuất nông nghiệp sau chiến tranh. Đồng thời, lần đầu tiên ban hành chế độ **"Tín bài"** (thẻ căn cước) để quản lý dân số và tuyển quân, phân chia dân thành các hạng tuổi để kiểm soát hộ tịch. Võ Văn Dũng được cử đi sứ sang nhà Thanh, thực hiện thắng lợi nhiệm vụ cầu hòa và thậm chí còn đặt vấn đề cầu hôn công chúa cũng như xin lại đất Lưỡng Quảng để thăm dò thái độ của vua Càn Long. [Nguồn: Vua Quang Trung, đỉnh cao hòa giải (Dân Việt), https://danviet.vn/vua-quang-trung-dinh-cao-cua-hoa-giai-7777578528-d368629.html]
 
 <!-- id: EVT-0982 -->
-*   **29/01/1789 (Mồng 4 Tết Kỷ Dậu):** Phối hợp với các cánh quân khác, Đại Đô đốc Nguyễn Văn Tuyết chỉ huy mũi tấn công đạo quân Thanh đóng ở Hải Dương. Trại giặc vỡ tan, quân Thanh bị tiêu diệt và bỏ chạy hỗn loạn.
+*   **29/01/1789 (Mồng 4 Tết Kỷ Dậu):** Phối hợp với các cánh quân khác, Đại Đô đốc Nguyễn Văn Tuyết chỉ huy mũi tấn công đạo quân Thanh đóng ở Hải Dương. Trại giặc vỡ tan, quân Thanh bị tiêu diệt và bỏ chạy hỗn loạn. [Nguồn: Hoàng Lê nhất thống chí – Hồi thứ 14; Đại Đô đốc Nguyễn Văn Tuyết giải phóng Hải Dương, https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_V%C4%83n_Tuy%E1%BA%BFt]
 
 <!-- id: EVT-0983 -->
 *   **30/01/1789 (Mồng 5 Tết Kỷ Dậu):** Vua Quang Trung tiến vào Thăng Long sau khi đại phá quân Thanh trong chiến dịch Ngọc Hồi - Đống Đa. Bằng sức mạnh cơ động của bộ binh, tượng binh và các đội quân cảm tử dùng mộc tẩm rơm ướt, quân Tây Sơn đã tiêu diệt các cứ điểm then chốt của địch chỉ trong vòng 5 ngày. Chủ tướng Tôn Sĩ Nghị hoảng loạn bỏ chạy làm sập cầu phao sông Nhị Hà, khiến quân Thanh tử vong vô số. Lê Chiêu Thống cũng tháo chạy sang Trung Quốc. [Nguồn: Hào khí Đống Đa (Nhân Dân), https://nhandan.vn/hao-khi-dong-da-post194419.html]
@@ -3232,7 +3232,7 @@
 *   **1791:** Vua Quang Trung cho lập **Viện Sùng Chính** do La Sơn Phu Tử Nguyễn Thiếp đứng đầu. Đây là sự kiện quan trọng đánh dấu việc lần đầu tiên **chữ Nôm** được đưa lên làm văn tự chính thức của quốc gia dùng trong chiếu biểu, thi cử, thay thế vị trí độc tôn của chữ Hán. [Nguồn: Sách chữ Nôm thời Quang Trung (Thanh Niên), https://thanhnien.vn/ban-sach-chu-nom-duoc-bien-soan-thoi-vua-quang-trung-185716759.htm]
 
 <!-- id: EVT-0992 -->
-*   **1791:** Quân Tây Sơn thực hiện cuộc xâm lược quy mô lớn sang Lào. Cùng thời gian này, các ghi chép lịch sử cho thấy sự bất mãn ngày càng tăng của dân chúng ở cả vùng Tây Sơn kiểm soát và vùng Nguyễn Ánh kiểm soát do gánh nặng chiến tranh.
+*   **1791:** Quân Tây Sơn thực hiện cuộc xâm lược quy mô lớn sang Lào. Cùng thời gian này, các ghi chép lịch sử cho thấy sự bất mãn ngày càng tăng của dân chúng ở cả vùng Tây Sơn kiểm soát và vùng Nguyễn Ánh kiểm soát do gánh nặng chiến tranh. [Nguồn: Hoàng Lê nhất thống chí; Quan hệ Tây Sơn và các nước láng giềng, https://vi.wikipedia.org/wiki/Nh%C3%A0_T%C3%A2y_S%C6%A1n]
 
 <!-- id: EVT-0993 -->
 *   **1791 (Rằm tháng Giêng năm Tân Hợi):** Đại danh y Hải Thượng Lãn Ông Lê Hữu Trác – "ông tổ ngành y học cổ truyền Việt Nam" – qua đời tại Hương Sơn (Hà Tĩnh). [Nguồn: Hải Thượng Lãn Ông Lê Hữu Trác 1724-1791 (TTXVN), https://nvsk.vnanet.vn/ho-so/hai-thuong-lan-ong-le-huu-trac-1724-1791-3-135948.vna]
@@ -3244,7 +3244,7 @@
 *   **1792:** Vua Quang Trung chuẩn bị kế hoạch cho một chiến dịch quân sự lớn. Theo đó, trước hết sẽ tấn công Trung Quốc để thu hồi hai tỉnh Quảng Đông và Quảng Tây, sau đó sẽ dốc toàn lực tấn công tiêu diệt lực lượng Nguyễn Ánh. Tuy nhiên, kế hoạch bị hủy bỏ do vua đột ngột băng hà. [Nguồn: Quang Trung (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Quang_Trung]
 
 <!-- id: EVT-0996 -->
-*   **1792:** Sau khi hoàn thành xuất sắc chuyến đi sứ trở về nước, Phan Huy Ích được vua Quang Trung thăng chức Thị trung Ngự sử viện Nội các, rồi bổ nhiệm làm Thượng thư bộ Lễ triều Tây Sơn. Cùng với Ngô Thì Nhậm (Binh bộ Thượng thư), ông đảm nhận trọng trách rường cột trong việc điều hành điển lễ, tổ chức các khoa thi Nho học và phụ trách toàn diện công tác bang giao đối ngoại của vương triều.
+*   **1792:** Sau khi hoàn thành xuất sắc chuyến đi sứ trở về nước, Phan Huy Ích được vua Quang Trung thăng chức Thị trung Ngự sử viện Nội các, rồi bổ nhiệm làm Thượng thư bộ Lễ triều Tây Sơn. Cùng với Ngô Thì Nhậm (Binh bộ Thượng thư), ông đảm nhận trọng trách rường cột trong việc điều hành điển lễ, tổ chức các khoa thi Nho học và phụ trách toàn diện công tác bang giao đối ngoại của vương triều. [Nguồn: Phan Huy Ích – Danh thần triều Tây Sơn, https://vi.wikipedia.org/wiki/Phan_Huy_%C3%8Dch]
 
 <!-- id: EVT-0997 -->
 *   **07/1792:** Thủy quân Nguyễn Ánh, với sự hỗ trợ của các tàu chiến và kỹ thuật phương Tây, đã thực hiện cuộc tấn công bất ngờ vào cửa **Thị Nại**, tiêu diệt nhiều thuyền chiến của Tây Sơn. Đây là thắng lợi quan trọng đầu tiên của thủy quân Nguyễn đã được hiện đại hóa. [Nguồn: Chiến tranh Tây Sơn - chúa Nguyễn 1787-1802 (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_T%C3%A2y_S%C6%A1n_%E2%80%93_Ch%C3%BAa_Nguy%E1%BB%85n_(1787%E2%80%931802)]
