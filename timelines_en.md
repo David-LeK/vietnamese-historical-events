@@ -3763,7 +3763,7 @@
 *Source: Vice Admiral Charles Rigault de Genouilly, commander of the French-Spanish coalition / Pierre Louis Pierson (Wikimedia Commons, Public domain)*
 
 <!-- id: EVT-1180 -->
-*   **Sep. 1, 1858:** A French-Spanish coalition force opened fire on the Son Tra peninsula (Da Nang), capturing the Dong Fort and officially beginning the invasion of Vietnam.
+*   **Sep. 1, 1858:** A French-Spanish coalition force opened fire on the Son Tra peninsula (Da Nang), capturing the Dong Fort and officially beginning the invasion of Vietnam. [Source: Vietnam National Museum of History - September 1, 1858: French-Spanish coalition opens fire on Da Nang Citadel, https://baotanglichsu.vn/vi/Articles/3097/12567/ngay-1-9-1858-lien-quan-phap-tay-ban-nha-no-sung-vao-thanh-dja-nang.html]
 
 ![Historical Image](images/event_20260923_213656.webp)
 
@@ -3983,13 +3983,13 @@
 *   **July 1873 (Tu Duc 26):** Bui Vien departed from Thuy Van mountain (Hue) on a diplomatic and exploratory mission abroad, sanctioned by King Tu Duc. He traveled to Hong Kong, Japan, and the United States in an unprecedented effort to forge diplomatic ties, acquire modern technology, and seek support to preserve Vietnam's independence.
 
 <!-- id: EVT-1248 -->
-*   **Nov. 20, 1873:** First Battle of Hanoi. Under the pretext of resolving a commercial dispute, French Captain Francis Garnier and merchant Jean Dupuis led an assault on the Hanoi Citadel. The citadel fell in less than an hour. Governor-General Nguyen Tri Phuong was severely wounded and captured, subsequently starving himself to death, while his son Nguyen Lam was killed. Over 2,000 Vietnamese troops were taken prisoner. Following this, Garnier unilaterally declared the Red River open to free trade.
+*   **Nov. 20, 1873:** First Battle of Hanoi. Under the pretext of resolving a commercial dispute, French Captain Francis Garnier and merchant Jean Dupuis led an assault on the Hanoi Citadel. The citadel fell in less than an hour. Governor-General Nguyen Tri Phuong was severely wounded and captured, subsequently starving himself to death, while his son Nguyen Lam was killed. Over 2,000 Vietnamese troops were taken prisoner. Following this, Garnier unilaterally declared the Red River open to free trade. [Source: Vietnam National Museum of History - 139 years ago, November 20, 1873: French troops attack Hanoi Citadel for the first time, https://baotanglichsu.vn/vi/Articles/3097/13006/cach-djay-139-nam-ngay-20-11-1873-quan-phap-djanh-thanh-ha-noi-lan-thu-nhat.html]
 
 <!-- id: EVT-1249 -->
 *   **Nov. 26 - Dec. 10, 1873:** French forces expanded control across the Tonkin Delta. Hautefeuille captured the Ninh Binh Citadel on December 5 with a tiny force, and Garnier captured the Nam Dinh Citadel on December 10 after fierce bombardments.
 
 <!-- id: EVT-1250 -->
-*   **Dec. 21, 1873:** First Battle of Cau Giay. Vietnamese royal forces and the Black Flag Army, commanded by Luu Vinh Phuc, ambushed French troops outside Hanoi. Captain Francis Garnier and several officers were killed while pursuing the retreating forces. This significant victory for Vietnam temporarily halted French expansion in Tonkin.
+*   **Dec. 21, 1873:** First Battle of Cau Giay. Vietnamese royal forces and the Black Flag Army, commanded by Luu Vinh Phuc, ambushed French troops outside Hanoi. Captain Francis Garnier and several officers were killed while pursuing the retreating forces. This significant victory for Vietnam temporarily halted French expansion in Tonkin. [Source: Vietnam National Museum of History - The First Battle of Hanoi (1873), a part of the Franco-Vietnamese War, https://baotanglichsu.vn/vi/Articles/3097/15385/tran-chien-ha-thanh-lan-thu-nhat-1873-mot-phan-trong-cuoc-chien-tranh-phap-viet.html]
 
 <!-- id: EVT-1251 -->
 *   **1874:** The uprising of Tran Tan and Dang Nhu Mai broke out in Nghe An and Ha Tinh with the slogan "Sat Ta" (Kill the Heretics), opposing the Treaty of Giap Tuat and the spread of Catholicism.
@@ -4064,7 +4064,7 @@
 *   **Apr. 3, 1882:** Colonel Henri Rivière landed in Hanoi, beginning the second invasion of Tonkin.
 
 <!-- id: EVT-1275 -->
-*   **Apr. 25, 1882:** Second Battle of Hanoi. French Colonel Henri Rivière issued an ultimatum to Governor Hoang Dieu and attacked the Hanoi Citadel. The citadel fell rapidly despite fierce resistance. Governor Hoang Dieu committed suicide to preserve his honor. This marked a major escalation in French colonial ambitions in Tonkin.
+*   **Apr. 25, 1882:** Second Battle of Hanoi. French Colonel Henri Rivière issued an ultimatum to Governor Hoang Dieu and attacked the Hanoi Citadel. The citadel fell rapidly despite fierce resistance. Governor Hoang Dieu committed suicide to preserve his honor. This marked a major escalation in French colonial ambitions in Tonkin. [Source: Vietnam National Museum of History - 131 years ago, April 25, 1882: French troops attack Hanoi Citadel for the second time, https://baotanglichsu.vn/vi/Articles/3097/14192/cach-djay-131-nam-ngay-25-4-1882-quan-phap-djanh-thanh-ha-noi-lan-thu-hai.html]
 
 <!-- id: EVT-1276 -->
 *   **1883:** Nguyen Sinh Sac married Hoang Thi Loan in Hoang Tru village (Nam Dan, Nghe An). The marriage marked the union of two studious Confucian families, creating the nurturing cradle that would give birth to the nation's great leader, President Ho Chi Minh.
@@ -4079,7 +4079,7 @@
 *   **Mar. 27, 1883:** Battle of Nam Dinh. Henri Rivière led a naval and infantry assault against the Nam Dinh Citadel. Defended by 6,200 Vietnamese troops and 600 Black Flag soldiers, the citadel fell to the heavily armed French forces, securing French communications to the sea.
 
 <!-- id: EVT-1280 -->
-*   **May 19, 1883:** Second Battle of Cau Giay. A combined force of the Black Flag Army and Vietnamese royal troops ambushed a French military column attempting to break out of Hanoi. French commanders Henri Rivière and Berthe de Villers were killed in the fierce engagement. This defeat shocked the French government, prompting massive reinforcements. Emperor Tu Duc, hoping for negotiations, issued an edict stating: "Those who discuss peace are meritorious, those who discuss war are guilty," preventing further attacks.
+*   **May 19, 1883:** Second Battle of Cau Giay. A combined force of the Black Flag Army and Vietnamese royal troops ambushed a French military column attempting to break out of Hanoi. French commanders Henri Rivière and Berthe de Villers were killed in the fierce engagement. This defeat shocked the French government, prompting massive reinforcements. Emperor Tu Duc, hoping for negotiations, issued an edict stating: "Those who discuss peace are meritorious, those who discuss war are guilty," preventing further attacks. [Source: People's Army Newspaper - The anti-French resistance in the late 19th century: Lessons on inspiring and promoting patriotism, https://www.qdnd.vn/chinh-tri/cac-van-de/cuoc-khang-phap-xam-luoc-nua-cuoi-the-ky-19-bai-hoc-khoi-day-va-phat-huy-truyen-thong-yeu-nuoc-cua-dan-toc-548294]
 
 <!-- id: EVT-1281 -->
 *   **Jul. 17, 1883:** Emperor Tu Duc passed away, and the Hue court fell into turmoil and disarray.
@@ -4094,14 +4094,14 @@
 *   **Aug. 15 - 16, 1883:** Battle of Phu Hoai. French General Alexandre-Eugène Bouët launched a major offensive against the Black Flag Army's fortified defense line west of Hanoi. Heavy flooding from a broken Red River dike abruptly ended the battle, causing significant losses in war materiel for the Black Flag Army as they retreated.
 
 <!-- id: EVT-1285 -->
-*   **Aug. 18 - 20, 1883:** Battle of Thuan An. A French naval fleet commanded by Admiral Amédée Courbet heavily bombarded and captured the strategic coastal forts at the Thuan An estuary, directly threatening the imperial capital of Hue. The overwhelmed Vietnamese defenders suffered immense casualties, forcing the Hue court to sue for peace.
+*   **Aug. 18 - 20, 1883:** Battle of Thuan An. A French naval fleet commanded by Admiral Amédée Courbet heavily bombarded and captured the strategic coastal forts at the Thuan An estuary, directly threatening the imperial capital of Hue. The overwhelmed Vietnamese defenders suffered immense casualties, forcing the Hue court to sue for peace. [Source: Nguyen Dynasty National History Academy, Dai Nam Thuc Luc (Veritable Records of Dai Nam); Cao Xuan Duc, Quoc Trieu Chanh Bien Toat Yeu]
 
 ![Historical Image](images/event_20260923_223317.webp)
 
 *Source: French troops landing to capture the Thuan An estuary, Aug. 18-20, 1883 / Wikimedia Commons*
 
 <!-- id: EVT-1286 -->
-*   **Aug. 25, 1883:** The Hue court signed the Treaty of Quy Mui (Harmand Treaty), officially recognizing the French protectorate over all of Vietnam.
+*   **Aug. 25, 1883:** The Hue court signed the Treaty of Quy Mui (Harmand Treaty), officially recognizing the French protectorate over all of Vietnam. [Source: Vietnam National Museum of History - Harmand Treaty (Aug. 25, 1883): The treaty officially marking the French colonial period in Vietnam, https://baotanglichsu.vn/vi/Articles/3097/14946/hiep-uoc-harman-25-8-1883-ban-hiep-uoc-chinh-thuc-djanh-dau-thoi-phap-thuoc-o-viet-nam.html]
 
 <!-- id: EVT-1287 -->
 *   **Nov. 29, 1883 (Quy Mui year):** After a four-month reign, Emperor Hiep Hoa's clandestine overtures to French authorities to curb the regents' dominance were uncovered. Regential leaders Nguyen Van Tuong and Ton That Thuyet deposed him and forced him to drink poison at the Duc Duc pavilion. Fourteen-year-old Prince Ung Dang was enthroned as Emperor Kien Phuc.
@@ -4147,7 +4147,7 @@
 *   **May 31, 1884:** French forces under Colonel Duchesne captured the Tuyen Quang Citadel on the Lo River, forcing the Black Flag Army to abandon the stronghold.
 
 <!-- id: EVT-1300 -->
-*   **Jun. 6, 1884:** The Hue court (represented by Pham Than Duat, Nguyen Van Tuong, and Ton That Phan) signed the Treaty of Giap Than (Patenôtre Treaty) with France (represented by Minister Patenôtre), which completely established the French protectorate over all of Vietnam.
+*   **Jun. 6, 1884:** The Hue court (represented by Pham Than Duat, Nguyen Van Tuong, and Ton That Phan) signed the Treaty of Giap Than (Patenôtre Treaty) with France (represented by Minister Patenôtre), which completely established the French protectorate over all of Vietnam. [Source: Vietnam National Museum of History - The Nguyen Court signs the Treaty of Giap Than 1884 (Patenotre Treaty) with France, https://baotanglichsu.vn/vi/Articles/3097/14428/cach-djay-129-nam-6-6-1884-6-6-2013-trieu-djinh-nguyen-ky-hoa-uoc-giap-than-1884-con-co-ten-khac-la-hoa-uoc-patenotre-voi-thuc-dan-phap.html]
 
 ![Historical Image](images/event_20260923_221133.webp)
 
@@ -4173,14 +4173,14 @@
 *   **Feb. 13 - Mar. 28, 1885:** The Lang Son Campaign and Retreat. French forces under General De Négrier captured Lang Son on February 13. However, Qing forces commanded by Feng Zicai launched a massive counter-offensive in late March, recapturing the Nam Quan pass and severely wounding De Négrier at the Battle of Ky Lua. The French forces panicked and ordered a disastrous retreat from Lang Son. The news caused the collapse of Prime Minister Jules Ferry's government in France.
 
 <!-- id: EVT-1306 -->
-*   **Jul. 4 - 5, 1885:** Battle of the Hue Imperial City. Regent Ton That Thuyet and General Tran Xuan Soan launched a massive, surprise night attack with thousands of royal troops against the French garrison at the Mang Ca fortress and the French Residency. The French forces counter-attacked at dawn with superior firepower, storming the Imperial City. The battle resulted in a horrific massacre, with over 1,500 Vietnamese soldiers and civilians killed. The French looted immense amounts of treasures from the palaces. Ton That Thuyet escorted King Ham Nghi to the mountain base of Tan So (Quang Tri).
+*   **Jul. 4 - 5, 1885:** Battle of the Hue Imperial City. Regent Ton That Thuyet and General Tran Xuan Soan launched a massive, surprise night attack with thousands of royal troops against the French garrison at the Mang Ca fortress and the French Residency. The French forces counter-attacked at dawn with superior firepower, storming the Imperial City. The battle resulted in a horrific massacre, with over 1,500 Vietnamese soldiers and civilians killed. The French looted immense amounts of treasures from the palaces. Ton That Thuyet escorted King Ham Nghi to the mountain base of Tan So (Quang Tri). [Source: Vietnam National Museum of History - The attack on the French Residency (Jul. 5, 1885) in the Hue Imperial City: The final uprising of the Nguyen Dynasty, https://baotanglichsu.vn/vi/Articles/3097/14612/cuoc-tan-cong-vao-toa-kham-su-phap-5-7-1885-tai-kinh-thanh-hue-su-vung-day-cuoi-cung-cua-vuong-trieu-nguyen.html]
 
 ![Historical Image](images/event_20260923_213626.webp)
 
 *Source: Portrait of Ton That Thuyet / Wikimedia Commons*
 
 <!-- id: EVT-1307 -->
-*   **Jul. 13, 1885:** King Ham Nghi issued the Can Vuong (Aid the King) Edict, calling on all people to resist the French.
+*   **Jul. 13, 1885:** King Ham Nghi issued the Can Vuong (Aid the King) Edict, calling on all people to resist the French. [Source: Vietnam National Museum of History - Tan So Citadel and the Can Vuong Edict of Emperor Ham Nghi, https://baotanglichsu.vn/vi/Articles/2001/66232/thanh-tan-so-voi-du-can-vuong-cua-vua-ham-nghi.html]
 
 ![Historical Image](images/event_20260923_213625_1.webp)
 

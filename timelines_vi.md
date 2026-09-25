@@ -3764,7 +3764,7 @@
 *Nguồn: Phó Đô đốc Charles Rigault de Genouilly, chỉ huy liên quân Pháp - Tây Ban Nha / Pierre Louis Pierson (Wikimedia Commons, Public domain)*
 
 <!-- id: EVT-1180 -->
-*   **01/09/1858:** Liên quân Pháp - Tây Ban Nha nổ súng tấn công bán đảo Sơn Trà (Đà Nẵng), đánh vỡ đồn Đông, chính thức bắt đầu cuộc xâm lược Việt Nam.
+*   **01/09/1858:** Liên quân Pháp - Tây Ban Nha nổ súng tấn công bán đảo Sơn Trà (Đà Nẵng), đánh vỡ đồn Đông, chính thức bắt đầu cuộc xâm lược Việt Nam. [Nguồn: Bảo tàng Lịch sử Quốc gia - Ngày 1/9/1858, liên quân Pháp – Tây Ban Nha nổ súng vào thành Đà Nẵng, https://baotanglichsu.vn/vi/Articles/3097/12567/ngay-1-9-1858-lien-quan-phap-tay-ban-nha-no-sung-vao-thanh-dja-nang.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_213656.webp)
 
@@ -3984,13 +3984,13 @@
 *   **Tháng 07/1873 (Tự Đức thứ 26):** Bùi Viện xuất phát từ núi Thúy Vân (Huế) trong một chuyến công du và thám sát nước ngoài theo lệnh của vua Tự Đức. Ông đã hành trình đến Hương Cảng, Nhật Bản và Hoa Kỳ trong một nỗ lực chưa từng có nhằm thiết lập quan hệ ngoại giao, tiếp thu công nghệ hiện đại và tìm kiếm sự ủng hộ để bảo vệ nền độc lập của Việt Nam.
 
 <!-- id: EVT-1248 -->
-*   **20/11/1873:** Trận thành Hà Nội lần thứ nhất. Lấy cớ giải quyết vụ tranh chấp thương mại của Jean Dupuis, Đại úy Pháp Francis Garnier bất ngờ nổ súng tấn công thành Hà Nội. Chỉ trong vòng chưa đầy một giờ, thành thất thủ. Khâm sai Nguyễn Tri Phương bị trọng thương, bị bắt và sau đó tuyệt thực đến chết, con trai ông là Nguyễn Lâm tử trận. Hơn 2.000 quân triều đình bị bắt làm tù binh. Sau khi chiếm thành, Garnier tự ý tuyên bố mở cửa thông thương sông Hồng.
+*   **20/11/1873:** Trận thành Hà Nội lần thứ nhất. Lấy cớ giải quyết vụ tranh chấp thương mại của Jean Dupuis, Đại úy Pháp Francis Garnier bất ngờ nổ súng tấn công thành Hà Nội. Chỉ trong vòng chưa đầy một giờ, thành thất thủ. Khâm sai Nguyễn Tri Phương bị trọng thương, bị bắt và sau đó tuyệt thực đến chết, con trai ông là Nguyễn Lâm tử trận. Hơn 2.000 quân triều đình bị bắt làm tù binh. Sau khi chiếm thành, Garnier tự ý tuyên bố mở cửa thông thương sông Hồng. [Nguồn: Bảo tàng Lịch sử Quốc gia - Cách đây 139 năm, ngày 20-11-1873 quân Pháp đánh thành Hà Nội lần thứ nhất, https://baotanglichsu.vn/vi/Articles/3097/13006/cach-djay-139-nam-ngay-20-11-1873-quan-phap-djanh-thanh-ha-noi-lan-thu-nhat.html]
 
 <!-- id: EVT-1249 -->
 *   **26/11 - 10/12/1873:** Quân Pháp tiếp tục đánh chiếm các tỉnh lân cận. Ngày 05/12, Hautefeuille với một toán quân nhỏ đã hạ thành Ninh Bình. Ngày 10/12, Garnier đánh chiếm thành Nam Định sau các đợt pháo kích.
 
 <!-- id: EVT-1250 -->
-*   **21/12/1873:** Trận Cầu Giấy lần thứ nhất. Quân Cờ Đen do Lưu Vĩnh Phúc chỉ huy phối hợp với quân triều đình đã tổ chức phục kích quân Pháp tại khu vực Cầu Giấy. Đại úy Francis Garnier cùng một số sĩ quan đã bị giết chết tại trận khi đang truy kích địch. Chiến thắng này khiến quân Pháp hoang mang và buộc phải rút quân khỏi Hà Nội.
+*   **21/12/1873:** Trận Cầu Giấy lần thứ nhất. Quân Cờ Đen do Lưu Vĩnh Phúc chỉ huy phối hợp với quân triều đình đã tổ chức phục kích quân Pháp tại khu vực Cầu Giấy. Đại úy Francis Garnier cùng một số sĩ quan đã bị giết chết tại trận khi đang truy kích địch. Chiến thắng này khiến quân Pháp hoang mang và buộc phải rút quân khỏi Hà Nội. [Nguồn: Bảo tàng Lịch sử Quốc gia - Trận chiến Hà thành lần thứ nhất (1873), một phần trong cuộc chiến tranh Pháp - Việt, https://baotanglichsu.vn/vi/Articles/3097/15385/tran-chien-ha-thanh-lan-thu-nhat-1873-mot-phan-trong-cuoc-chien-tranh-phap-viet.html]
 
 <!-- id: EVT-1251 -->
 *   **1874:** Cuộc khởi nghĩa của Trần Tấn và Đặng Như Mai nổ ra ở Nghệ An và Hà Tĩnh với khẩu hiệu "Sát Tả", phản đối Hòa ước Giáp Tuất và sự lan truyền của đạo Thiên Chúa.
@@ -4065,7 +4065,7 @@
 *   **03/04/1882:** Đại tá Henri Rivière đổ bộ lên Hà Nội, bắt đầu cuộc xâm lược Bắc Kỳ lần thứ hai.
 
 <!-- id: EVT-1275 -->
-*   **25/04/1882:** Trận thành Hà Nội lần thứ hai. Đại tá hải quân Pháp Henri Rivière gửi tối hậu thư đòi Tổng đốc Hoàng Diệu giao thành, sau đó nổ súng tấn công. Dù quân dân kháng cự quyết liệt, thành Hà Nội nhanh chóng thất thủ. Tổng đốc Hoàng Diệu đã thắt cổ tự vẫn để bảo toàn khí tiết. Thất bại này đánh dấu bước leo thang nghiêm trọng trong tham vọng xâm lược Bắc Kỳ của thực dân Pháp.
+*   **25/04/1882:** Trận thành Hà Nội lần thứ hai. Đại tá hải quân Pháp Henri Rivière gửi tối hậu thư đòi Tổng đốc Hoàng Diệu giao thành, sau đó nổ súng tấn công. Dù quân dân kháng cự quyết liệt, thành Hà Nội nhanh chóng thất thủ. Tổng đốc Hoàng Diệu đã thắt cổ tự vẫn để bảo toàn khí tiết. Thất bại này đánh dấu bước leo thang nghiêm trọng trong tham vọng xâm lược Bắc Kỳ của thực dân Pháp. [Nguồn: Bảo tàng Lịch sử Quốc gia - Cách đây 131 năm, ngày 25/4/1882 quân Pháp đánh thành Hà Nội lần thứ hai, https://baotanglichsu.vn/vi/Articles/3097/14192/cach-djay-131-nam-ngay-25-4-1882-quan-phap-djanh-thanh-ha-noi-lan-thu-hai.html]
 
 <!-- id: EVT-1276 -->
 *   **1883:** Ông Nguyễn Sinh Sắc kết duyên cùng bà Hoàng Thị Loan tại làng Hoàng Trù (Nam Đàn, Nghệ An). Cuộc hôn nhân đánh dấu sự gắn kết nghĩa tình của hai gia đình nhà nho nghèo hiếu học, mở ra tổ ấm gia đình nơi sinh thành người con vĩ đại của dân tộc - Chủ tịch Hồ Chí Minh.
@@ -4080,7 +4080,7 @@
 *   **27/03/1883:** Trận Nam Định. Henri Rivière chỉ huy hạm đội pháo thuyền và quân thủy bộ tấn công thành Nam Định. Dù có 6.200 quân triều đình và 600 quân Cờ Đen phòng thủ, thành Nam Định vẫn rơi vào tay quân Pháp sau các đợt pháo kích dữ dội, giúp Pháp kiểm soát tuyến giao thông ra biển.
 
 <!-- id: EVT-1280 -->
-*   **19/05/1883:** Trận Cầu Giấy lần thứ hai. Khi quân Pháp tổ chức hành quân từ Hà Nội ra hướng Phủ Hoài, quân Cờ Đen và quân của Hoàng Tá Viêm đã mai phục sẵn tại Cầu Giấy. Quân Pháp bị đánh thiệt hại nặng, Đại tá Henri Rivière và Thiếu tá Berthe de Villers đều tử trận. Thất bại này khiến chính phủ Pháp tức giận, quyết định đổ thêm viện binh. Vua Tự Đức hạ lệnh thương lượng, không cho quân đánh tiếp, ra chiếu dụ: "Bàn hòa là người có công, bàn chiến là kẻ có tội".
+*   **19/05/1883:** Trận Cầu Giấy lần thứ hai. Khi quân Pháp tổ chức hành quân từ Hà Nội ra hướng Phủ Hoài, quân Cờ Đen và quân của Hoàng Tá Viêm đã mai phục sẵn tại Cầu Giấy. Quân Pháp bị đánh thiệt hại nặng, Đại tá Henri Rivière và Thiếu tá Berthe de Villers đều tử trận. Thất bại này khiến chính phủ Pháp tức giận, quyết định đổ thêm viện binh. Vua Tự Đức hạ lệnh thương lượng, không cho quân đánh tiếp, ra chiếu dụ: "Bàn hòa là người có công, bàn chiến là kẻ có tội". [Nguồn: Báo Quân đội nhân dân - Cuộc kháng Pháp xâm lược nửa cuối thế kỷ 19 - bài học khơi dậy và phát huy truyền thống yêu nước của dân tộc, https://www.qdnd.vn/chinh-tri/cac-van-de/cuoc-khang-phap-xam-luoc-nua-cuoi-the-ky-19-bai-hoc-khoi-day-va-phat-huy-truyen-thong-yeu-nuoc-cua-dan-toc-548294]
 
 <!-- id: EVT-1281 -->
 *   **17/07/1883:** Vua Tự Đức qua đời, nội bộ triều đình Huế lục đục, rối loạn.
@@ -4095,14 +4095,14 @@
 *   **15 - 16/08/1883:** Trận Phủ Hoài (Trận Dịch Vọng). Tướng Pháp Bouët mở cuộc tấn công quy mô lớn vào phòng tuyến của quân Cờ Đen do Lưu Vĩnh Phúc chỉ huy ở phía tây bắc Hà Nội. Một trận lụt lớn vỡ đê sông Hồng đã làm ngập lụt chiến trường, buộc quân Cờ Đen phải rút lui và bỏ lại nhiều vũ khí, cản trở quân Pháp giáng một đòn quyết định.
 
 <!-- id: EVT-1285 -->
-*   **18 - 20/08/1883:** Trận cửa Thuận An. Hạm đội Pháp do Đô đốc Amédée Courbet chỉ huy tiến hành pháo kích ác liệt và đổ bộ đánh chiếm các hải đồn phòng thủ tại cửa Thuận An, khống chế hoàn toàn cửa ngõ đường thủy tiến vào kinh thành Huế. Quân phòng thủ triều đình chịu thương vong rất lớn, buộc triều đình nhà Nguyễn phải xin đình chiến.
+*   **18 - 20/08/1883:** Trận cửa Thuận An. Hạm đội Pháp do Đô đốc Amédée Courbet chỉ huy tiến hành pháo kích ác liệt và đổ bộ đánh chiếm các hải đồn phòng thủ tại cửa Thuận An, khống chế hoàn toàn cửa ngõ đường thủy tiến vào kinh thành Huế. Quân phòng thủ triều đình chịu thương vong rất lớn, buộc triều đình nhà Nguyễn phải xin đình chiến. [Nguồn: Quốc sử quán triều Nguyễn, Đại Nam thực lục, Đệ ngũ kỷ - Quyển 8; Cao Xuân Dục, Quốc triều chánh biên toát yếu]
 
 ![Hình ảnh tư liệu](images/event_20260923_223317.webp)
 
 *Nguồn: Quân Pháp đổ bộ đánh chiếm cửa Thuận An, 18-20/08/1883 / Wikimedia Commons*
 
 <!-- id: EVT-1286 -->
-*   **25/08/1883:** Triều đình Huế ký Hòa ước Quý Mùi (Hiệp ước Harmand), chính thức công nhận nền bảo hộ của Pháp trên toàn cõi Việt Nam.
+*   **25/08/1883:** Triều đình Huế ký Hòa ước Quý Mùi (Hiệp ước Harmand), chính thức công nhận nền bảo hộ của Pháp trên toàn cõi Việt Nam. [Nguồn: Bảo tàng Lịch sử Quốc gia - Hiệp ước Harman (25-8-1883), bản Hiệp ước chính thức đánh dấu thời Pháp thuộc ở Việt Nam, https://baotanglichsu.vn/vi/Articles/3097/14946/hiep-uoc-harman-25-8-1883-ban-hiep-uoc-chinh-thuc-djanh-dau-thoi-phap-thuoc-o-viet-nam.html]
 
 <!-- id: EVT-1287 -->
 *   **29/11/1883 (Quý Mùi):** Sau 4 tháng trị vì, do có ý định liên lạc với Pháp để kiềm chế quyền hành của phái chủ chiến, vua Hiệp Hòa bị hai quyền thần Nguyễn Văn Tường và Tôn Thất Thuyết phế truất và ép uống thuốc độc tự tử tại viện Dục Đức. Hoàng tử Ưng Đăng (14 tuổi) được đưa lên nối ngôi (vua Kiến Phúc).
@@ -4148,7 +4148,7 @@
 *   **31/05/1884:** Quân Pháp do Trung tá Duchesne chỉ huy dùng pháo hạm ngược sông Lô tấn công và hạ thành Tuyên Quang, buộc quân Cờ Đen phải bỏ thành tháo chạy.
 
 <!-- id: EVT-1300 -->
-*   **06/06/1884:** Triều đình Huế (đại diện là Phạm Thận Duật, Nguyễn Văn Tường, Tôn Thất Phan) ký Hòa ước Giáp Thân (Hiệp ước Patenôtre) với Pháp (đại diện là Công sứ Patenôtre), xác lập một cách hoàn chỉnh nền bảo hộ của Pháp trên toàn Việt Nam.
+*   **06/06/1884:** Triều đình Huế (đại diện là Phạm Thận Duật, Nguyễn Văn Tường, Tôn Thất Phan) ký Hòa ước Giáp Thân (Hiệp ước Patenôtre) với Pháp (đại diện là Công sứ Patenôtre), xác lập một cách hoàn chỉnh nền bảo hộ của Pháp trên toàn Việt Nam. [Nguồn: Bảo tàng Lịch sử Quốc gia - Triều đình Nguyễn ký Hòa ước Giáp Thân 1884 (Hòa ước Patenôtre) với thực dân Pháp, https://baotanglichsu.vn/vi/Articles/3097/14428/cach-djay-129-nam-6-6-1884-6-6-2013-trieu-djinh-nguyen-ky-hoa-uoc-giap-than-1884-con-co-ten-khac-la-hoa-uoc-patenotre-voi-thuc-dan-phap.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_221133.webp)
 
@@ -4174,14 +4174,14 @@
 *   **13/02 - 28/03/1885:** Chiến dịch Lạng Sơn. Quân Pháp do Thiếu tướng De Négrier chỉ huy đánh chiếm thành Lạng Sơn (13/02). Tuy nhiên, đến cuối tháng 3, quân Thanh do Phùng Tử Tài chỉ huy phản công mạnh mẽ, chiếm lại Nam Quan và đánh thiệt hại nặng quân Pháp tại Kỳ Lừa. Tướng De Négrier bị thương nặng. Người thay thế là Trung tá Herbinger đã hoảng loạn ra lệnh rút chạy hỗn loạn khỏi Lạng Sơn, vứt bỏ vô số vũ khí đạn dược. Tin tức về 'thảm kịch Lạng Sơn' đã khiến chính phủ của Thủ tướng Pháp Jules Ferry sụp đổ.
 
 <!-- id: EVT-1306 -->
-*   **04 - 05/07/1885:** Trận Kinh thành Huế. Phái chủ chiến do Thượng thư Bộ Binh Tôn Thất Thuyết và Đề đốc Trần Xuân Soạn chỉ huy đã tổ chức cuộc tấn công bất ngờ trong đêm bằng đại bác và lực lượng lớn quân triều đình vào đồn Mang Cá và Tòa Khâm sứ Pháp. Đến rạng sáng, quân Pháp với hỏa lực vượt trội đã phản công, chiếm giữ Kinh thành. Một cuộc thảm sát tàn khốc đã diễn ra khiến hơn 1.500 binh lính và dân thường thiệt mạng. Quân Pháp đã cướp bóc vô số vàng bạc, châu báu và ấn tín hoàng gia. Tôn Thất Thuyết phải đưa vua Hàm Nghi rút chạy ra Tân Sở, mở đầu cho phong trào Cần Vương.
+*   **04 - 05/07/1885:** Trận Kinh thành Huế. Phái chủ chiến do Thượng thư Bộ Binh Tôn Thất Thuyết và Đề đốc Trần Xuân Soạn chỉ huy đã tổ chức cuộc tấn công bất ngờ trong đêm bằng đại bác và lực lượng lớn quân triều đình vào đồn Mang Cá và Tòa Khâm sứ Pháp. Đến rạng sáng, quân Pháp với hỏa lực vượt trội đã phản công, chiếm giữ Kinh thành. Một cuộc thảm sát tàn khốc đã diễn ra khiến hơn 1.500 binh lính và dân thường thiệt mạng. Quân Pháp đã cướp bóc vô số vàng bạc, châu báu và ấn tín hoàng gia. Tôn Thất Thuyết phải đưa vua Hàm Nghi rút chạy ra Tân Sở, mở đầu cho phong trào Cần Vương. [Nguồn: Bảo tàng Lịch sử Quốc gia - Cuộc tấn công vào Tòa Khâm sứ Pháp (5/7/1885) tại Kinh thành Huế - sự vùng dậy cuối cùng của Vương triều Nguyễn, https://baotanglichsu.vn/vi/Articles/3097/14612/cuoc-tan-cong-vao-toa-kham-su-phap-5-7-1885-tai-kinh-thanh-hue-su-vung-day-cuoi-cung-cua-vuong-trieu-nguyen.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_213626.webp)
 
 *Nguồn: Chân dung Tôn Thất Thuyết / Wikimedia Commons*
 
 <!-- id: EVT-1307 -->
-*   **13/07/1885:** Vua Hàm Nghi ban bố Dụ Cần Vương, kêu gọi toàn dân kháng chiến chống Pháp.
+*   **13/07/1885:** Vua Hàm Nghi ban bố Dụ Cần Vương, kêu gọi toàn dân kháng chiến chống Pháp. [Nguồn: Bảo tàng Lịch sử Quốc gia - Thành Tân Sở với dụ Cần Vương của vua Hàm Nghi, https://baotanglichsu.vn/vi/Articles/2001/66232/thanh-tan-so-voi-du-can-vuong-cua-vua-ham-nghi.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_213625_1.webp)
 
