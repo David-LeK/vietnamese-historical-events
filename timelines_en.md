@@ -6314,7 +6314,7 @@
 *   **May 19, 1951:** In Dresden (German Democratic Republic), engineer Walter Hartmann and his wife welcomed a son born on the exact 61st birthday of President Ho Chi Minh and sent a letter requesting that he become the child's godfather. President Ho Chi Minh officially accepted Knuth Wolfgang Walther Hartmann as his godson, gifted a traditional Vietnamese silk outfit, and maintained warm correspondence through diplomatic channels.
 
 <!-- id: EVT-1963 -->
-*   **May 28 - Jun. 20, 1951:** The Quang Trung (Ha Nam Ninh) Campaign was launched in the Ha Nam - Nam Dinh - Ninh Binh area to break the enemy's Day River defense line. In the opening attacks, Lieutenant Bernard de Lattre de Tassigny (the only son of French Commander-in-Chief Jean de Lattre de Tassigny) was killed in action at Ninh Binh. During this campaign, Cù Chính Lan and his company valiantly fought against five enemy companies despite severe equipment shortages, capturing weapons to destroy the enemy. For this feat, he was commended as the "hero who kills the enemy bare-handed".
+*   **May 28 - Jun. 20, 1951:** The Quang Trung (Ha Nam Ninh) Campaign was launched in the Ha Nam - Nam Dinh - Ninh Binh area to break the enemy's Day River defense line. In the opening attacks, Lieutenant Bernard de Lattre de Tassigny (the only son of French Commander-in-Chief Jean de Lattre de Tassigny) was killed in action at Ninh Binh. During this campaign, Cù Chính Lan and his company valiantly fought against five enemy companies despite severe equipment shortages, capturing weapons to destroy the enemy. For this feat, he was commended as the "hero who kills the enemy bare-handed". [Source: People's Army Newspaper - Fighting the enemy in the plains 55 years ago, https://www.qdnd.vn/ho-so-su-kien/dai-tuong-vo-nguyen-giap/danh-dich-o-dong-bang-55-nam-truoc-260376]
 
 <!-- id: EVT-1964 -->
 *   **Jun. 28, 1951:** The Kampuchean People's Revolutionary Party was established.
@@ -6359,13 +6359,13 @@
 *   **Dec. 7, 1951:** During the first Battle of Giang Mo, the Vietnamese ambush position was exposed, drawing fierce enemy fire. When the order to temporarily retreat was given, Cù Chính Lan bravely stayed behind, using a machine gun to suppress the enemy and cover his unit's withdrawal. He then returned to the battlefield and safely rescued three wounded comrades.
 
 <!-- id: EVT-1978 -->
-*   **Dec. 10, 1951 - Feb. 25, 1952:** Under the leadership of Campaign Commander and Party Secretary Vo Nguyen Giap, the Vietnam People's Army conducted the **Hoa Binh Campaign**, initiated by the destruction of the Tu Vu stronghold (Dec. 10). After more than two months of fierce fighting, Vietnamese forces shattered General De Lattre de Tassigny's Da River defense line, liberated Hoa Binh town and surrounding territories, and forced French forces into a complete retreat on February 25.
+*   **Dec. 10, 1951 - Feb. 25, 1952:** Under the leadership of Campaign Commander and Party Secretary Vo Nguyen Giap, the Vietnam People's Army conducted the **Hoa Binh Campaign**, initiated by the destruction of the Tu Vu stronghold (Dec. 10). After more than two months of fierce fighting, Vietnamese forces shattered General De Lattre de Tassigny's Da River defense line, liberated Hoa Binh town and surrounding territories, and forced French forces into a complete retreat on February 25. [Source: People's Army Newspaper - The Hoa Binh Campaign (Dec. 10, 1951 - Feb. 25, 1952), https://www.qdnd.vn/vung-buoc-duoi-quan-ky-quyet-thang/lich-su-quan-doi-nhan-dan-viet-nam/chien-dich-hoa-binh-10-12-1951-25-2-1952-danh-bai-am-muu-gianh-lai-quyen-chu-dong-cua-thuc-dan-phap-796815]
 
 <!-- id: EVT-1979 -->
 *   **Dec. 13, 1951:** The second Battle of Giang Mo took place. After wiping out an enemy company, the Vietnamese forces faced a US-made French reinforcement tank (number B2885498 USA) firing fiercely and blocking their retreat. Cù Chính Lan boldly jumped onto the moving tank. After his submachine gun jammed, he called for grenades, climbed back on, opened the hatch, and dropped a grenade inside after letting the fuse burn for a few seconds. The explosion destroyed the tank and killed the crew. This resounding victory initiated a widespread movement across the entire army to destroy enemy tanks and mechanized vehicles using ordinary infantry weapons. For this feat, he was awarded the Military Exploit Order, Third Class and the title "Tank-destroying Hero".
 
 <!-- id: EVT-1980 -->
-*   **Dec. 28 - 29, 1951:** Cù Chính Lan participated in the attack to destroy the Co To outpost during the Hoa Binh Campaign. Despite being severely wounded twice, he bravely advanced to cut through five layers of barbed wire. Wounded a third time and in critical condition, he refused to leave the battlefield, continuing to direct and encourage his squad. He heroically sacrificed his life just as the battle ended in victory. He was exactly 20 years old, serving as an infantry squad leader in the 304th Division and a member of the Communist Party of Vietnam.
+*   **Dec. 28 - 29, 1951:** Cù Chính Lan participated in the attack to destroy the Co To outpost during the Hoa Binh Campaign. Despite being severely wounded twice, he bravely advanced to cut through five layers of barbed wire. Wounded a third time and in critical condition, he refused to leave the battlefield, continuing to direct and encourage his squad. He heroically sacrificed his life just as the battle ended in victory. He was exactly 20 years old, serving as an infantry squad leader in the 304th Division and a member of the Communist Party of Vietnam. [Source: National Museum of History - Hero Cu Chinh Lan, https://baotanglichsu.vn/vi/Articles/3098/15304/anh-hung-cu-chinh-lan-nguoi-con-qua-cam-cua-xu-quynh-djoi-nghe-an.html]
 
 <!-- id: EVT-1981 -->
 *   **1952:** Vu A Dinh was posthumously awarded the Third-class Military Exploit Order by the Government.
@@ -6422,7 +6422,7 @@
 *   **May 19, 1952:** Martyr Cù Chính Lan was posthumously awarded the title Hero of the People's Armed Forces by the President of the Democratic Republic of Vietnam. He was one of the very first seven individuals nationwide to receive this noble title.
 
 <!-- id: EVT-1999 -->
-*   **May 19, 1952:** President Ho Chi Minh signs a decree conferring the title of Hero of the People's Armed Forces in the first nationwide award to La Van Cau and outstanding soldiers at the First National Emulation Congress.
+*   **May 19, 1952:** President Ho Chi Minh signs a decree conferring the title of Hero of the People's Armed Forces in the first nationwide award to La Van Cau and outstanding soldiers at the First National Emulation Congress. [Source: Government News Portal - Senior Colonel, Hero of the People's Armed Forces La Van Cau passes away, https://baochinhphu.vn/dai-ta-anh-hung-luc-luong-vu-trang-nhan-dan-la-van-cau-tu-tran-10226062509124879.htm]
 
 <!-- id: EVT-2000 -->
 *   **Mid-1952:** Georges Boudarel was assigned to march north to the Viet Bac resistance base, an arduous six-month journey on foot. In Viet Bac, he was assigned to teach politics at Camp 113, enduring severe privations to re-educate prisoners of war, primarily French and African officers, transforming many into peace advocates.
@@ -6434,7 +6434,7 @@
 *   **Oct. 1952:** Ahead of the Northwest Campaign, Division 308 (Vanguard Division) officially named the smokeless trench stove the **"Hoàng Cầm stove"** after army cook Hoàng Cầm, organizing technical training and scaling the model across the entire army. This landmark logistical breakthrough enabled the Vietnam People's Army to fully implement the tactical doctrine "march without a trace, cook without smoke, speak without sound," becoming a classic military logistics invention that safeguarded troop sustenance in the Điện Biên Phủ Campaign (1954) and throughout the subsequent resistance war against the United States.
 
 <!-- id: EVT-2003 -->
-*   **Oct. 14 - Dec. 10, 1952:** Under the direct leadership of Senior General Vo Nguyen Giap (Campaign Commander and Party Secretary), the Vietnamese army and people launched the **Northwest Campaign**. Revolutionary forces achieved decisive victories: capturing the Nghia Lo subsector (Oct. 18) and defeating France's Operation Lorraine with the Chan Mong - Tram Than ambush (Nov. 17). The campaign liberated a vast area including Dien Bien Phu (Nov. 30) and most of Son La province, dismantling the colonial puppet scheme of an "Autonomous Thai State" and connecting Viet Bac with Upper Laos.
+*   **Oct. 14 - Dec. 10, 1952:** Under the direct leadership of Senior General Vo Nguyen Giap (Campaign Commander and Party Secretary), the Vietnamese army and people launched the **Northwest Campaign**. Revolutionary forces achieved decisive victories: capturing the Nghia Lo subsector (Oct. 18) and defeating France's Operation Lorraine with the Chan Mong - Tram Than ambush (Nov. 17). The campaign liberated a vast area including Dien Bien Phu (Nov. 30) and most of Son La province, dismantling the colonial puppet scheme of an "Autonomous Thai State" and connecting Viet Bac with Upper Laos. [Source: Nhan Dan Newspaper - Northwest Campaign, https://special.nhandan.vn/chien-dich-tay-bac-1952/index.html]
 
 <!-- id: EVT-2004 -->
 *   **1953:** Le Van Ba returned to the South to fight and married Le Thi Rieng.
@@ -6464,7 +6464,7 @@
 *   **Apr. 12, 1953:** President Ho Chi Minh signed a decree mobilizing the masses for thorough rent reduction.
 
 <!-- id: EVT-2013 -->
-*   **Apr. 13 - May 18, 1953:** The Vietnam People's Army, in coordination with the Pathet Lao forces, launched the Upper Laos Campaign, liberating Sam Neua province, a part of Xieng Khouang and Phongsaly, expanding the Lao resistance base and connecting it with the Northwest region of Vietnam.
+*   **Apr. 13 - May 18, 1953:** The Vietnam People's Army, in coordination with the Pathet Lao forces, launched the Upper Laos Campaign, liberating Sam Neua province, a part of Xieng Khouang and Phongsaly, expanding the Lao resistance base and connecting it with the Northwest region of Vietnam. [Source: Government News Portal - The 1953 Upper Laos Victory, https://baochinhphu.vn/chien-thang-thuong-lao-1953-bieu-tuong-cua-tinh-doan-ket-chien-dau-viet-lao-10223041314404425.htm]
 
 <!-- id: EVT-2014 -->
 *   **May 1953:** General Henri Navarre was appointed Commander-in-Chief of the French army in Indochina.
@@ -6524,7 +6524,7 @@
 *   **Dec. 10 - 12, 1953:** Vietnamese forces wiped out a retreating French column at Muong Pon (Dec. 10) and advanced to liberate Lai Chau town (Dec. 12) after the French forces retreated to Dien Bien Phu.
 
 <!-- id: EVT-2033 -->
-*   **Dec. 12, 1953:** During the Winter-Spring Campaign 1953-1954 (Battle of Muong Pon, Lai Chau), soldier Be Van Dan courageously uses his own body as a machine-gun mount for his comrade to repel French counterattacks, sacrificing his life.
+*   **Dec. 12, 1953:** During the Winter-Spring Campaign 1953-1954 (Battle of Muong Pon, Lai Chau), soldier Be Van Dan courageously uses his own body as a machine-gun mount for his comrade to repel French counterattacks, sacrificing his life. [Source: People's Army Newspaper - Hero Be Van Dan used his body as a gun carriage, https://www.qdnd.vn/quoc-phong-an-ninh/chien-thang-dien-bien-phu-moc-son-lich-su/anh-hung/anh-hung-be-van-dan-lay-than-minh-lam-gia-sung-770856]
 
 <!-- id: EVT-2034 -->
 *   **Dec. 19, 1953:** President Ho Chi Minh signed decree No. 197-SL promulgating the **Land Reform Law**.
@@ -6622,7 +6622,7 @@
 *Source: Photo: Trieu Dai / TTXVN*
 
 <!-- id: EVT-2063 -->
-* **07/05/1954:** Martyr Tran Can (deputy infantry company commander, Regiment 209, Division 312) heroically sacrificed his life in the assault on Hill C2 during the Battle of Dien Bien Phu.
+* **07/05/1954:** Martyr Tran Can (deputy infantry company commander, Regiment 209, Division 312) heroically sacrificed his life in the assault on Hill C2 during the Battle of Dien Bien Phu. [Source: People's Army Newspaper - Tran Can: Hero who hoisted the flag on Him Lam Stronghold, https://www.qdnd.vn/quoc-phong-an-ninh/chien-thang-dien-bien-phu-moc-son-lich-su/anh-hung/tran-can-anh-hung-cam-co-tren-cu-diem-him-lam-770396]
 
 <!-- id: EVT-2064 -->
 *   **May 8, 1954:** The **Geneva Conference** began its first session to discuss the restoration of peace in Indochina.
@@ -6637,7 +6637,7 @@
 *   **Jun. 16, 1954:** Under US pressure, Bao Dai signed a decree appointing Ngo Dinh Diem as Prime Minister of the "State of Vietnam" government.
 
 <!-- id: EVT-2068 -->
-*   **June 17, 1954:** Master painter To Ngoc Van – a pioneer of modern Vietnamese fine arts (of the celebrated quartet "Tri, Van, Lan, Can") – was killed in action at Lung Lo Pass (Yen Bai) during the Dien Bien Phu campaign, becoming the first martyr of Vietnam's revolutionary fine arts.
+*   **June 17, 1954:** Master painter To Ngoc Van – a pioneer of modern Vietnamese fine arts (of the celebrated quartet "Tri, Van, Lan, Can") – was killed in action at Lung Lo Pass (Yen Bai) during the Dien Bien Phu campaign, becoming the first martyr of Vietnam's revolutionary fine arts. [Source: Nhan Dan Newspaper - Masterpieces of Painters on Dien Bien Phu, https://nhandan.vn/nhung-tac-pham-tieu-bieu-cua-cac-danh-hoa-ve-dien-bien-phu-post807422.html]
 
 <!-- id: EVT-2069 -->
 *   **Jul. 7, 1954:** Ngo Dinh Diem officially took office as Prime Minister in Saigon.
@@ -6668,7 +6668,7 @@
 *   **08/1954:** Following the victory at Điện Biên Phủ and the signing of the Geneva Accords, President Ho Chi Minh, the Party Central Committee, and the Government departed the Kim Quan Safe Zone (Tuyên Quang) to return to take over Hanoi.
 
 <!-- id: EVT-2074 -->
-*   **Aug. 1954 - May 1955:** **The 1954 Migration to the South ("Bac 54"):** Following the Geneva Accords establishing a 300-day period of free movement between both zones, between 800,000 and 1 million northern Vietnamese (mostly Catholics, civil servants, military personnel of the State of Vietnam, merchants, and intellectuals) migrated to the South. The migration was driven by the strategic ambitions of the US and the Ngo Dinh Diem administration to build a loyal socio-political base and strengthen anti-communist military forces in the South, reinforcing the partition of Vietnam and scoring a major Cold War propaganda victory against the Democratic Republic of Vietnam; meanwhile, France sought to evacuate native collaborators, administrators, and soldiers. To entice and coerce the population, the CIA (led by Edward Lansdale and the Saigon Military Mission) in coordination with the Saigon regime waged a massive psychological warfare campaign: exploiting religious fears through sensational rumors and inflammatory slogans (such as *"God has gone South"* and *"The Virgin Mary has departed the North"*, while fabricating threats of atomic bombings and religious persecution), mobilizing conservative Catholic clergy to lead entire parishes south, and promising land, financial aid, and resettlement assistance. Supported by extensive air and naval transport operations by the French military and US Navy (*Operation Passage to Freedom*), this movement established the "Bac 54" northern diaspora, providing crucial backing for Diem's regime and profoundly reshaping the demographic, political, economic, and social fabric of South Vietnam.
+*   **Aug. 1954 - May 1955:** **The 1954 Migration to the South ("Bac 54"):** Following the Geneva Accords establishing a 300-day period of free movement between both zones, between 800,000 and 1 million northern Vietnamese (mostly Catholics, civil servants, military personnel of the State of Vietnam, merchants, and intellectuals) migrated to the South. The migration was driven by the strategic ambitions of the US and the Ngo Dinh Diem administration to build a loyal socio-political base and strengthen anti-communist military forces in the South, reinforcing the partition of Vietnam and scoring a major Cold War propaganda victory against the Democratic Republic of Vietnam; meanwhile, France sought to evacuate native collaborators, administrators, and soldiers. To entice and coerce the population, the CIA (led by Edward Lansdale and the Saigon Military Mission) in coordination with the Saigon regime waged a massive psychological warfare campaign: exploiting religious fears through sensational rumors and inflammatory slogans (such as *"God has gone South"* and *"The Virgin Mary has departed the North"*, while fabricating threats of atomic bombings and religious persecution), mobilizing conservative Catholic clergy to lead entire parishes south, and promising land, financial aid, and resettlement assistance. Supported by extensive air and naval transport operations by the French military and US Navy (*Operation Passage to Freedom*), this movement established the "Bac 54" northern diaspora, providing crucial backing for Diem's regime and profoundly reshaping the demographic, political, economic, and social fabric of South Vietnam. [Source: National Museum of History - The US coerced northern compatriots to migrate to the South, https://baotanglichsu.vn/vi/Articles/3097/14900/8-1954-my-to-chuc-cuong-ep-djong-bao-mien-bac-di-cu-vao-nam.html]
 
 <!-- id: EVT-2075 -->
 *   **Aug. 8, 1954:** The Can Lao Nhan Vi Party (Personalist Labor Revolutionary Party) officially debuted in the South, founded by Ngo Dinh Nhu.

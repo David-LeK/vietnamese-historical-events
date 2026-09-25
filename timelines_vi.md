@@ -6315,7 +6315,7 @@
 *   **19/05/1951:** Gia đình kỹ sư Walter Hartmann tại Dresden (Cộng hòa Dân chủ Đức) sinh con trai đúng vào ngày sinh nhật lần thứ 61 của Chủ tịch Hồ Chí Minh và gửi thư ngỏ ý mong Người nhận làm cha đỡ đầu. Chủ tịch Hồ Chí Minh đã gửi thư hồi đáp chính thức nhận Knuth Wolfgang Walther Hartmann làm con đỡ đầu, gửi tặng món quà là bộ quần áo bằng lụa tơ tằm truyền thống Việt Nam và duy trì thư từ thăm hỏi thân tình qua đường ngoại giao.
 
 <!-- id: EVT-1963 -->
-*   **28/05 - 20/06/1951:** Mở Chiến dịch Quang Trung (Hà Nam Ninh) ở khu vực Hà Nam - Nam Định - Ninh Bình nhằm phá vỡ phòng tuyến sông Đáy của địch. Trong các đợt tấn công mở màn, trung úy Bernard de Lattre de Tassigny (con trai duy nhất của Tổng chỉ huy Pháp) đã tử trận tại Ninh Bình. Trong chiến dịch này, Cù Chính Lan cùng đại đội của mình dù trang bị thiếu thốn đã dũng cảm chiến đấu với 5 đại đội địch, cướp súng địch để diệt địch. Sau trận đánh này, ông được tuyên dương là "anh hùng tay không giết giặc".
+*   **28/05 - 20/06/1951:** Mở Chiến dịch Quang Trung (Hà Nam Ninh) ở khu vực Hà Nam - Nam Định - Ninh Bình nhằm phá vỡ phòng tuyến sông Đáy của địch. Trong các đợt tấn công mở màn, trung úy Bernard de Lattre de Tassigny (con trai duy nhất của Tổng chỉ huy Pháp) đã tử trận tại Ninh Bình. Trong chiến dịch này, Cù Chính Lan cùng đại đội của mình dù trang bị thiếu thốn đã dũng cảm chiến đấu với 5 đại đội địch, cướp súng địch để diệt địch. Sau trận đánh này, ông được tuyên dương là "anh hùng tay không giết giặc". [Nguồn: Báo Quân đội nhân dân - Đánh địch ở đồng bằng 55 năm trước, https://www.qdnd.vn/ho-so-su-kien/dai-tuong-vo-nguyen-giap/danh-dich-o-dong-bang-55-nam-truoc-260376]
 
 <!-- id: EVT-1964 -->
 *   **28/06/1951:** Đảng Nhân dân Cách mạng Campuchia được thành lập.
@@ -6360,13 +6360,13 @@
 *   **07/12/1951:** Trong trận Giang Mỗ lần thứ nhất, khi trận địa mai phục bị lộ và địch bắn trả dữ dội, có lệnh tạm thời rút lui. Cù Chính Lan đã dũng cảm đi sau cùng, dùng súng máy bắn kiềm chế địch cho đơn vị rút, rồi quay lại tìm và đưa được 3 đồng chí bị thương về đơn vị an toàn.
 
 <!-- id: EVT-1978 -->
-*   **10/12/1951 - 25/02/1952:** Dưới sự chỉ huy của Chỉ huy trưởng kiêm Bí thư Đảng ủy chiến dịch Võ Nguyên Giáp, Quân đội Nhân dân Việt Nam mở **Chiến dịch Hòa Bình**, mở màn bằng trận tiêu diệt cứ điểm Tu Vũ (10/12). Sau hơn hai tháng chiến đấu kiên cường, quân ta đập tan tuyến phòng thủ Sông Đà của tướng De Lattre de Tassigny, giải phóng thị xã Hòa Bình và vùng đất rộng lớn, buộc thực dân Pháp phải rút chạy hoàn toàn khỏi Hòa Bình vào ngày 25/02.
+*   **10/12/1951 - 25/02/1952:** Dưới sự chỉ huy của Chỉ huy trưởng kiêm Bí thư Đảng ủy chiến dịch Võ Nguyên Giáp, Quân đội Nhân dân Việt Nam mở **Chiến dịch Hòa Bình**, mở màn bằng trận tiêu diệt cứ điểm Tu Vũ (10/12). Sau hơn hai tháng chiến đấu kiên cường, quân ta đập tan tuyến phòng thủ Sông Đà của tướng De Lattre de Tassigny, giải phóng thị xã Hòa Bình và vùng đất rộng lớn, buộc thực dân Pháp phải rút chạy hoàn toàn khỏi Hòa Bình vào ngày 25/02. [Nguồn: Báo Quân đội nhân dân - Chiến dịch Hòa Bình (10-12-1951 25-2-1952), https://www.qdnd.vn/vung-buoc-duoi-quan-ky-quyet-thang/lich-su-quan-doi-nhan-dan-viet-nam/chien-dich-hoa-binh-10-12-1951-25-2-1952-danh-bai-am-muu-gianh-lai-quyen-chu-dong-cua-thuc-dan-phap-796815]
 
 <!-- id: EVT-1979 -->
 *   **13/12/1951:** Trận Giang Mỗ lần thứ hai diễn ra. Sau khi diệt gọn một đại đội địch, quân ta bị một xe tăng viện binh của Pháp (do Mỹ sản xuất mang số hiệu B2885498 USA) bắn dữ dội chặn đường rút. Cù Chính Lan dũng cảm nhảy lên xe tăng đang chạy. Khi tiểu liên bị hóc, ông gọi đồng đội đưa lựu đạn, nhảy lên xe lần nữa, giật nắp, chờ khói thuốc xì ra vài giây rồi ném lựu đạn vào buồng lái tiêu diệt toàn bộ lính trong xe. Chiến công oanh liệt này đã mở đầu phong trào đánh xe tăng và cơ giới địch bằng vũ khí thông thường trong toàn quân. Ông được tặng thưởng Huân chương Quân công hạng ba và danh hiệu "Anh hùng đánh xe tăng".
 
 <!-- id: EVT-1980 -->
-*   **28 - 29/12/1951:** Cù Chính Lan tham gia trận đánh tiêu diệt đồn Cô Tô trong Chiến dịch Hòa Bình. Mặc dù bị thương rất nặng hai lần, ông vẫn dũng cảm xông lên phá liên tiếp 5 lớp hàng rào dây thép gai. Bị thương nặng lần thứ ba, ông kiên quyết không rời trận địa, tiếp tục chỉ huy và động viên tiểu đội tiến vào diệt địch. Ông đã anh dũng hy sinh ngay khi trận đánh vừa kết thúc thắng lợi. Năm đó ông tròn 20 tuổi, là tiểu đội trưởng bộ binh Đại đoàn 304, đảng viên Đảng Cộng sản Việt Nam.
+*   **28 - 29/12/1951:** Cù Chính Lan tham gia trận đánh tiêu diệt đồn Cô Tô trong Chiến dịch Hòa Bình. Mặc dù bị thương rất nặng hai lần, ông vẫn dũng cảm xông lên phá liên tiếp 5 lớp hàng rào dây thép gai. Bị thương nặng lần thứ ba, ông kiên quyết không rời trận địa, tiếp tục chỉ huy và động viên tiểu đội tiến vào diệt địch. Ông đã anh dũng hy sinh ngay khi trận đánh vừa kết thúc thắng lợi. Năm đó ông tròn 20 tuổi, là tiểu đội trưởng bộ binh Đại đoàn 304, đảng viên Đảng Cộng sản Việt Nam. [Nguồn: Bảo tàng Lịch sử Quốc gia - Anh hùng Cù Chính Lan, https://baotanglichsu.vn/vi/Articles/3098/15304/anh-hung-cu-chinh-lan-nguoi-con-qua-cam-cua-xu-quynh-djoi-nghe-an.html]
 
 <!-- id: EVT-1981 -->
 *   **1952:** Vừ A Dính được Chính phủ truy tặng Huân chương Quân công hạng ba.
@@ -6423,7 +6423,7 @@
 *   **19/05/1952:** Liệt sĩ Cù Chính Lan được Chủ tịch nước Việt Nam Dân chủ Cộng hòa truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân. Ông là 1 trong 7 người đầu tiên trên toàn quốc được nhận danh hiệu cao quý này.
 
 <!-- id: EVT-1999 -->
-*   **19/05/1952:** Chủ tịch Hồ Chí Minh ký sắc lệnh phong tặng danh hiệu Anh hùng Lực lượng Vũ trang Nhân dân đợt đầu tiên cho La Văn Cầu cùng các chiến sĩ tiêu biểu tại Đại hội Thi đua Toàn quốc lần thứ nhất.
+*   **19/05/1952:** Chủ tịch Hồ Chí Minh ký sắc lệnh phong tặng danh hiệu Anh hùng Lực lượng Vũ trang Nhân dân đợt đầu tiên cho La Văn Cầu cùng các chiến sĩ tiêu biểu tại Đại hội Thi đua Toàn quốc lần thứ nhất. [Nguồn: Báo Điện tử Chính phủ - Đại tá, Anh hùng Lực lượng vũ trang nhân dân La Văn Cầu từ trần, https://baochinhphu.vn/dai-ta-anh-hung-luc-luong-vu-trang-nhan-dan-la-van-cau-tu-tran-10226062509124879.htm]
 
 <!-- id: EVT-2000 -->
 *   **Giữa năm 1952:** Georges Boudarel được chỉ định hành quân ra căn cứ địa Việt Bắc, trải qua chặng đường đi bộ vô cùng gian khổ ròng rã 6 tháng. Tại Việt Bắc, ông được phân công giảng dạy chính trị tại trại tù binh 113 (thuộc Cục Địch vận), vượt qua nhiều thiếu thốn khắc nghiệt để cảm hóa các sĩ quan Pháp và châu Phi thành những chiến sĩ hòa bình.
@@ -6435,7 +6435,7 @@
 *   **10/1952:** Trước thềm Chiến dịch Tây Bắc, Đại đoàn 308 (Đại đoàn Quân Tiên phong) chính thức lấy tên của chiến sĩ nuôi quân Hoàng Cầm để đặt tên cho sáng kiến bếp dã chiến không khói là **"bếp Hoàng Cầm"**, đồng thời tổ chức tập huấn kỹ thuật và nhân rộng mô hình ra toàn quân. Sáng kiến hậu cần mang tính bước ngoặt này đã giúp Quân đội Nhân dân Việt Nam thực hiện triệt để phương châm tác chiến "đi không dấu, nấu không khói, nói không tiếng", trở thành trang bị hậu cần kinh điển bảo đảm sức khỏe và hậu cần cho bộ đội trong Chiến dịch Điện Biên Phủ (1954) cũng như suốt cuộc kháng chiến chống Mỹ cứu nước sau này.
 
 <!-- id: EVT-2003 -->
-*   **14/10 - 10/12/1952:** Dưới sự chỉ huy trực tiếp của Đại tướng Võ Nguyên Giáp (Chỉ huy trưởng kiêm Bí thư Đảng ủy chiến dịch), quân và dân ta mở **Chiến dịch Tây Bắc**. Quân ta lập nên các chiến thắng vang dội: hạ phân khu Nghĩa Lộ (18/10) và đánh bại cuộc hành quân Lorraine của Pháp bằng trận phục kích Chân Mộng - Trạm Thản (17/11). Chiến dịch giải phóng một vùng rộng lớn bao gồm Điện Biên Phủ (30/11) và hầu hết tỉnh Sơn La (trừ Nà Sản), đập tan âm mưu "Xứ Thái tự trị" và nối liền căn cứ địa Việt Bắc với Thượng Lào.
+*   **14/10 - 10/12/1952:** Dưới sự chỉ huy trực tiếp của Đại tướng Võ Nguyên Giáp (Chỉ huy trưởng kiêm Bí thư Đảng ủy chiến dịch), quân và dân ta mở **Chiến dịch Tây Bắc**. Quân ta lập nên các chiến thắng vang dội: hạ phân khu Nghĩa Lộ (18/10) và đánh bại cuộc hành quân Lorraine của Pháp bằng trận phục kích Chân Mộng - Trạm Thản (17/11). Chiến dịch giải phóng một vùng rộng lớn bao gồm Điện Biên Phủ (30/11) và hầu hết tỉnh Sơn La (trừ Nà Sản), đập tan âm mưu "Xứ Thái tự trị" và nối liền căn cứ địa Việt Bắc với Thượng Lào. [Nguồn: Báo Nhân Dân - Chiến dịch Tây Bắc, https://special.nhandan.vn/chien-dich-tay-bac-1952/index.html]
 
 <!-- id: EVT-2004 -->
 *   **1953:** Lê Văn Ba trở về miền Nam chiến đấu và kết hôn với Lê Thị Riêng.
@@ -6465,7 +6465,7 @@
 *   **12/04/1953:** Chủ tịch Hồ Chí Minh ký sắc lệnh phát động quần chúng triệt để giảm tô.
 
 <!-- id: EVT-2013 -->
-*   **13/04 - 18/05/1953:** Quân đội nhân dân Việt Nam phối hợp với lực lượng Pathet Lào mở Chiến dịch Thượng Lào, giải phóng tỉnh Sầm Nưa, một phần Xiêng Khoảng và Phongxalì, mở rộng căn cứ kháng chiến của Lào, nối liền với vùng Tây Bắc Việt Nam.
+*   **13/04 - 18/05/1953:** Quân đội nhân dân Việt Nam phối hợp với lực lượng Pathet Lào mở Chiến dịch Thượng Lào, giải phóng tỉnh Sầm Nưa, một phần Xiêng Khoảng và Phongxalì, mở rộng căn cứ kháng chiến của Lào, nối liền với vùng Tây Bắc Việt Nam. [Nguồn: Báo Điện tử Chính phủ - Chiến thắng Thượng Lào 1953, https://baochinhphu.vn/chien-thang-thuong-lao-1953-bieu-tuong-cua-tinh-doan-ket-chien-dau-viet-lao-10223041314404425.htm]
 
 <!-- id: EVT-2014 -->
 *   **05/1953:** Tướng Henri Navarre được cử làm Tổng chỉ huy quân đội Pháp ở Đông Dương.
@@ -6525,7 +6525,7 @@
 *   **10 - 12/12/1953:** Bộ đội Việt Nam tiêu diệt nhóm tàn quân Thái rút chạy tại Mường Pồn (10/12) và tiến vào giải phóng thị xã Lai Châu (12/12) sau khi quân Pháp rút về Điện Biên Phủ.
 
 <!-- id: EVT-2033 -->
-*   **12/12/1953:** Trong Chiến dịch Đông Xuân 1953-1954 (trận Mường Pồn, Lai Châu), chiến sĩ Bế Văn Đàn dũng cảm lấy thân mình làm giá súng cho đồng đội bắn nát đợt phản công của quân Pháp và anh dũng hy sinh.
+*   **12/12/1953:** Trong Chiến dịch Đông Xuân 1953-1954 (trận Mường Pồn, Lai Châu), chiến sĩ Bế Văn Đàn dũng cảm lấy thân mình làm giá súng cho đồng đội bắn nát đợt phản công của quân Pháp và anh dũng hy sinh. [Nguồn: Báo Quân đội nhân dân - Anh hùng Bế Văn Đàn lấy thân mình làm giá súng, https://www.qdnd.vn/quoc-phong-an-ninh/chien-thang-dien-bien-phu-moc-son-lich-su/anh-hung/anh-hung-be-van-dan-lay-than-minh-lam-gia-sung-770856]
 
 <!-- id: EVT-2034 -->
 *   **19/12/1953:** Chủ tịch Hồ Chí Minh ký sắc lệnh số 197-SL ban hành **Luật Cải cách ruộng đất**.
@@ -6623,7 +6623,7 @@
 *Nguồn: Ảnh: Triệu Đại / TTXVN*
 
 <!-- id: EVT-2063 -->
-* **07/05/1954:** Liệt sĩ Trần Can (Đại đội phó bộ binh thuộc Trung đoàn 209, Đại đoàn 312) anh dũng hy sinh trong trận đánh đồi C2 mở đường tổng tiến công căn cứ Điện Biên Phủ.
+* **07/05/1954:** Liệt sĩ Trần Can (Đại đội phó bộ binh thuộc Trung đoàn 209, Đại đoàn 312) anh dũng hy sinh trong trận đánh đồi C2 mở đường tổng tiến công căn cứ Điện Biên Phủ. [Nguồn: Báo Quân đội nhân dân - Trần Can: Anh hùng cắm cờ trên Cứ điểm Him Lam, https://www.qdnd.vn/quoc-phong-an-ninh/chien-thang-dien-bien-phu-moc-son-lich-su/anh-hung/tran-can-anh-hung-cam-co-tren-cu-diem-him-lam-770396]
 
 <!-- id: EVT-2064 -->
 *   **08/05/1954:** **Hội nghị Giơnevơ** bắt đầu phiên họp đầu tiên bàn về vấn đề lập lại hòa bình ở Đông Dương.
@@ -6638,7 +6638,7 @@
 *   **16/06/1954:** Dưới sức ép của Mỹ, Bảo Đại ký sắc lệnh chỉ định Ngô Đình Diệm làm Thủ tướng của chính thể "Quốc gia Việt Nam".
 
 <!-- id: EVT-2068 -->
-*   **17/06/1954:** Họa sĩ Tô Ngọc Vân – một trong những bậc thầy đặt nền móng cho nền mỹ thuật hiện đại Việt Nam (thuộc bộ tứ "Trí, Vân, Lân, Cẩn") – hy sinh tại đèo Lũng Lô (Yên Bái) khi đang tham gia chiến dịch Điện Biên Phủ, trở thành liệt sĩ đầu tiên của nền mỹ thuật cách mạng Việt Nam.
+*   **17/06/1954:** Họa sĩ Tô Ngọc Vân – một trong những bậc thầy đặt nền móng cho nền mỹ thuật hiện đại Việt Nam (thuộc bộ tứ "Trí, Vân, Lân, Cẩn") – hy sinh tại đèo Lũng Lô (Yên Bái) khi đang tham gia chiến dịch Điện Biên Phủ, trở thành liệt sĩ đầu tiên của nền mỹ thuật cách mạng Việt Nam. [Nguồn: Báo Nhân Dân - Những tác phẩm tiêu biểu của các danh họa về Điện Biên Phủ, https://nhandan.vn/nhung-tac-pham-tieu-bieu-cua-cac-danh-hoa-ve-dien-bien-phu-post807422.html]
 
 <!-- id: EVT-2069 -->
 *   **07/07/1954:** Ngô Đình Diệm chính thức nhậm chức Thủ tướng tại Sài Gòn.
@@ -6669,7 +6669,7 @@
 *   **08/1954:** Sau khi Chiến dịch Điện Biên Phủ toàn thắng và Hiệp định Giơnevơ được ký kết, Chủ tịch Hồ Chí Minh cùng các cơ quan Trung ương Đảng và Chính phủ rời ATK Kim Quan (Tuyên Quang) trở về tiếp quản Thủ đô Hà Nội.
 
 <!-- id: EVT-2074 -->
-*   **08/1954 - 05/1955:** **Cuộc di cư vào Nam năm 1954 ("Bắc 54"):** Sau Hiệp định Giơnevơ quy định 300 ngày tự do đi lại giữa hai miền, khoảng 800.000 đến 1 triệu người dân miền Bắc (chủ yếu là đồng bào Công giáo, công chức, quân nhân thuộc chính quyền và quân đội Quốc gia Việt Nam, cùng trí thức, tiểu thương) đã di cư vào miền Nam. Bản chất của cuộc di cư gắn liền với toan tính chiến lược của Mỹ và chính quyền Ngô Đình Diệm nhằm tạo dựng chỗ dựa chính trị - xã hội trung thành và bổ sung lực lượng quân sự chống cộng tại miền Nam, phục vụ mưu đồ chia cắt lâu dài đất nước và tuyên truyền chiến tranh tâm lý chống lại Việt Nam Dân chủ Cộng hòa; trong khi Pháp muốn hỗ trợ di tản các lực lượng bản xứ từng cộng tác với họ. Để lôi kéo và kích động dân chúng, Cơ quan Tình báo Trung ương Mỹ (CIA, do Edward Lansdale chỉ huy) phối hợp với chính quyền Sài Gòn đã phát động chiến dịch tâm lý chiến quy mô lớn: khai thác tâm lý tôn giáo bằng các khẩu hiệu kích động và tin đồn thất thiệt (như *"Chúa đã vào Nam"*, *"Đức Mẹ vào Nam"*, thêu dệt tin Mỹ sắp ném bom nguyên tử xuống miền Bắc hay Việt Minh đàn áp tôn giáo), vận động các linh mục bảo thủ kéo toàn bộ giáo xứ ra đi, đồng thời hứa hẹn cấp đất đai, nhà ở, tiền bạc và viện trợ khi vào Nam. Dưới sự hỗ trợ hậu cần và vận tải biển/hàng không khổng lồ của quân đội Pháp và Hải quân Hoa Kỳ (*Chiến dịch Con đường đến Tự do - Operation Passage to Freedom*), làn sóng di cư đã hình thành nên cộng đồng "Bắc 54", mang lại chỗ dựa nền tảng cho chính quyền Diệm và làm thay đổi sâu sắc cơ cấu nhân khẩu, chính trị, kinh tế và xã hội của miền Nam Việt Nam.
+*   **08/1954 - 05/1955:** **Cuộc di cư vào Nam năm 1954 ("Bắc 54"):** Sau Hiệp định Giơnevơ quy định 300 ngày tự do đi lại giữa hai miền, khoảng 800.000 đến 1 triệu người dân miền Bắc (chủ yếu là đồng bào Công giáo, công chức, quân nhân thuộc chính quyền và quân đội Quốc gia Việt Nam, cùng trí thức, tiểu thương) đã di cư vào miền Nam. Bản chất của cuộc di cư gắn liền với toan tính chiến lược của Mỹ và chính quyền Ngô Đình Diệm nhằm tạo dựng chỗ dựa chính trị - xã hội trung thành và bổ sung lực lượng quân sự chống cộng tại miền Nam, phục vụ mưu đồ chia cắt lâu dài đất nước và tuyên truyền chiến tranh tâm lý chống lại Việt Nam Dân chủ Cộng hòa; trong khi Pháp muốn hỗ trợ di tản các lực lượng bản xứ từng cộng tác với họ. Để lôi kéo và kích động dân chúng, Cơ quan Tình báo Trung ương Mỹ (CIA, do Edward Lansdale chỉ huy) phối hợp với chính quyền Sài Gòn đã phát động chiến dịch tâm lý chiến quy mô lớn: khai thác tâm lý tôn giáo bằng các khẩu hiệu kích động và tin đồn thất thiệt (như *"Chúa đã vào Nam"*, *"Đức Mẹ vào Nam"*, thêu dệt tin Mỹ sắp ném bom nguyên tử xuống miền Bắc hay Việt Minh đàn áp tôn giáo), vận động các linh mục bảo thủ kéo toàn bộ giáo xứ ra đi, đồng thời hứa hẹn cấp đất đai, nhà ở, tiền bạc và viện trợ khi vào Nam. Dưới sự hỗ trợ hậu cần và vận tải biển/hàng không khổng lồ của quân đội Pháp và Hải quân Hoa Kỳ (*Chiến dịch Con đường đến Tự do - Operation Passage to Freedom*), làn sóng di cư đã hình thành nên cộng đồng "Bắc 54", mang lại chỗ dựa nền tảng cho chính quyền Diệm và làm thay đổi sâu sắc cơ cấu nhân khẩu, chính trị, kinh tế và xã hội của miền Nam Việt Nam. [Nguồn: Bảo tàng Lịch sử Quốc gia - Mỹ tổ chức cưỡng ép đồng bào miền Bắc di cư vào Nam, https://baotanglichsu.vn/vi/Articles/3097/14900/8-1954-my-to-chuc-cuong-ep-djong-bao-mien-bac-di-cu-vao-nam.html]
 
 <!-- id: EVT-2075 -->
 *   **08/08/1954:** Cần lao Nhân vị Cách mạng Đảng (Đảng Cần lao) chính thức ra mắt tại miền Nam, do Ngô Đình Nhu sáng lập.
