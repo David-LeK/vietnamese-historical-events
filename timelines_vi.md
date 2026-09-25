@@ -5630,7 +5630,7 @@
 *   **26/08/1945:** Hòa cùng khí thế của Cách mạng tháng Tám, cuộc khởi nghĩa giành chính quyền ở Sơn La đã diễn ra thắng lợi.
 
 <!-- id: EVT-1738 -->
-*   **28/08/1945:** Ủy ban Dân tộc Giải phóng Việt Nam cải tổ thành Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa do Chủ tịch Hồ Chí Minh đứng đầu; đồng chí Võ Nguyên Giáp được cử giữ chức Bộ trưởng Bộ Nội vụ kiêm phụ trách công tác quân sự. Cùng thời gian này, 20 vạn quân Tưởng Giới Thạch do Lư Hán chỉ huy bắt đầu kéo vào miền Bắc Việt Nam (từ vĩ tuyến 16 trở ra) danh nghĩa giải giáp quân Nhật.
+*   **28/08/1945:** Ủy ban Dân tộc Giải phóng Việt Nam cải tổ thành Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa do Chủ tịch Hồ Chí Minh đứng đầu; đồng chí Võ Nguyên Giáp được cử giữ chức Bộ trưởng Bộ Nội vụ kiêm phụ trách công tác quân sự. Cùng thời gian này, 20 vạn quân Tưởng Giới Thạch do Lư Hán chỉ huy bắt đầu kéo vào miền Bắc Việt Nam (từ vĩ tuyến 16 trở ra) danh nghĩa giải giáp quân Nhật. [Nguồn: Bảo tàng Lịch sử Quốc gia - Ủy ban Dân tộc Giải phóng cải tổ thành Chính phủ lâm thời (28/8/1945), https://baotanglichsu.vn/vi/Articles/3097/16633/uy-ban-dan-toc-giai-phong-cai-to-thanh-chinh-phu-lam-thoi-28-8-1945.html]
 
 <!-- id: EVT-1739 -->
 *   **30/08/1945:** Vua Bảo Đại đọc Chiếu thoái vị tại Huế, chấm dứt chế độ phong kiến ở Việt Nam. [Nguồn: https://nhandan.vn/ngay-3081945-vua-bao-dai-thoai-vi-post902540.html]
@@ -5649,7 +5649,7 @@
 
 ### **Giai đoạn Thiết lập Chính quyền và Kháng chiến ở Nam Bộ (09/1945 - 02/1946)**
 
-*   **01/09/1945:** Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa ban hành Sắc lệnh số 01/SL tuyên bố lấy múi giờ 7 làm giờ chính thức. Từ đó, miền Bắc và miền Trung sử dụng múi giờ 7.
+*   **01/09/1945:** Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa ban hành Sắc lệnh số 01/SL tuyên bố lấy múi giờ 7 làm giờ chính thức. Từ đó, miền Bắc và miền Trung sử dụng múi giờ 7. [Nguồn: Bảo tàng Lịch sử Quốc gia - Sắc lệnh số 1 của Chính phủ lâm thời (1/9/1945), https://baotanglichsu.vn/vi/Articles/3097/16633/sac-lenh-so-1-cua-chinh-phu-lam-thoi-1-9-1945.html]
 
 <!-- id: EVT-1743 -->
 *   **02/09/1945:** Tại Quảng trường Ba Đình (Hà Nội), Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn Độc lập, khai sinh nước Việt Nam Dân chủ Cộng hòa trước biển người rực rỡ cờ đỏ sao vàng. Trước giờ đọc Tuyên ngôn, lễ thượng cờ quốc gia đầu tiên được cử hành trọng thể khi lá cờ đỏ sao vàng được hai nữ chiến sĩ giải phóng quân Đàm Thị Loan và Lê Thi (Dương Thị Thêu) kéo lên đỉnh cột cờ trong giai điệu hào hùng của bài *Tiến quân ca*. Trong buổi lễ, Bộ trưởng Bộ Nội vụ Võ Nguyên Giáp thay mặt Chính phủ lâm thời đọc báo cáo chính trị quan trọng về đối nội, đối ngoại, kêu gọi quốc dân đồng bào kiên quyết bảo vệ nền độc lập vừa giành được. [Nguồn: https://baochinhphu.vn/tuyen-ngon-doc-lap-va-nha-nuoc-phap-quyen-102299509.htm]
@@ -5664,10 +5664,10 @@
 *Nguồn: Ảnh tư liệu TTXVN / Tuổi Trẻ*
 
 <!-- id: EVT-1744 -->
-*   **03/09/1945:** Chủ tịch Chính phủ lâm thời Hồ Chí Minh chủ trì phiên họp đầu tiên của Hội đồng Chính phủ nước Việt Nam Dân chủ Cộng hòa, đề ra 6 nhiệm vụ cấp bách hàng đầu nhằm chống giặc đói, giặc dốt và giặc ngoại xâm: phát động phong trào tăng gia sản xuất diệt giặc đói, mở chiến dịch chống nạn mù chữ (diệt giặc dốt), tổ chức cuộc Tổng tuyển cử bầu Quốc hội, bài trừ hủ tục, bãi bỏ các thứ thuế vô lý của chế độ thực dân và thực hiện quyền tự do tín ngưỡng.
+*   **03/09/1945:** Chủ tịch Chính phủ lâm thời Hồ Chí Minh chủ trì phiên họp đầu tiên của Hội đồng Chính phủ nước Việt Nam Dân chủ Cộng hòa, đề ra 6 nhiệm vụ cấp bách hàng đầu nhằm chống giặc đói, giặc dốt và giặc ngoại xâm: phát động phong trào tăng gia sản xuất diệt giặc đói, mở chiến dịch chống nạn mù chữ (diệt giặc dốt), tổ chức cuộc Tổng tuyển cử bầu Quốc hội, bài trừ hủ tục, bãi bỏ các thứ thuế vô lý của chế độ thực dân và thực hiện quyền tự do tín ngưỡng. [Nguồn: Bảo tàng Lịch sử Quốc gia - Phiên họp đầu tiên của Chính phủ lâm thời (3/9/1945), https://baotanglichsu.vn/vi/Articles/3097/16592/phien-hop-dau-tien-cua-chinh-phu-lam-thoi-3-9-1945.html]
 
 <!-- id: EVT-1745 -->
-*   **04/09/1945:** Chính phủ ra Sắc lệnh số 4/SL lập "Quỹ Độc lập".
+*   **04/09/1945:** Chính phủ ra Sắc lệnh số 4/SL lập "Quỹ Độc lập". [Nguồn: Bảo tàng Lịch sử Quốc gia - Quỹ Độc lập (4/9/1945), https://baotanglichsu.vn/vi/Articles/3097/16587/quy-djoc-lap-4-9-1945.html]
 
 <!-- id: EVT-1746 -->
 *   **05/09/1945:** Chính phủ lâm thời ra sắc lệnh giải thể Đại Việt Quốc gia Xã hội Đảng và Đại Việt Quốc dân Đảng.
@@ -5676,7 +5676,7 @@
 *   **05/09/1945:** Thay mặt Chủ tịch Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa, Bộ trưởng Bộ Nội vụ Võ Nguyên Giáp ký ban hành Sắc lệnh số 5-SL chính thức bãi bỏ cờ quẻ ly và ấn định Quốc kỳ Việt Nam: lá cờ hình chữ nhật nền đỏ tươi, ở giữa có ngôi sao vàng tươi năm cánh.
 
 <!-- id: EVT-1748 -->
-*   **07/09/1945:** Chủ tịch Hồ Chí Minh ra chỉ thị thành lập Bộ Tổng Tham mưu Quân đội nhân dân Việt Nam và chỉ định đồng chí Hoàng Văn Thái làm Tổng Tham mưu trưởng đầu tiên.
+*   **07/09/1945:** Chủ tịch Hồ Chí Minh ra chỉ thị thành lập Bộ Tổng Tham mưu Quân đội nhân dân Việt Nam và chỉ định đồng chí Hoàng Văn Thái làm Tổng Tham mưu trưởng đầu tiên. [Nguồn: Bảo tàng Lịch sử Quốc gia - Thành lập Bộ Tổng Tham mưu Quân đội nhân dân Việt Nam (7/9/1945), https://baotanglichsu.vn/vi/Articles/3097/16589/thanh-lap-bo-tong-tham-muu-quan-doi-nhan-dan-viet-nam-7-9-1945.html]
 
 <!-- id: EVT-1749 -->
 *   **08/09/1945:** Chủ tịch Hồ Chí Minh ký Sắc lệnh số 14-SL, ấn định sẽ tổ chức Tổng tuyển cử trong vòng hai tháng. [Nguồn: https://baochinhphu.vn/tong-tuyen-cu-1946-ket-qua-tinh-than-doan-ket-cua-dan-toc-viet-nam-102196060.htm]
@@ -5688,13 +5688,13 @@
 *   **11/09/1945:** Tướng Gracey, chỉ huy quân đội Anh, đến Sài Gòn.
 
 <!-- id: EVT-1752 -->
-*   **16/09/1945:** "Tuần lễ vàng" bắt đầu, vận động nhân dân đóng góp tài chính cho đất nước.
+*   **16/09/1945:** "Tuần lễ vàng" bắt đầu, vận động nhân dân đóng góp tài chính cho đất nước. [Nguồn: Bảo tàng Lịch sử Quốc gia - Tuần lễ Vàng (1945), https://baotanglichsu.vn/vi/Articles/3097/16602/tuan-le-vang-1945.html]
 
 <!-- id: EVT-1753 -->
 *   **Đêm 22 rạng 23/09/1945:** Quân Pháp, được sự giúp đỡ của quân Anh, nổ súng đánh chiếm Sài Gòn. [Nguồn: https://nhandan.vn/phat-huy-hao-khi-nam-bo-khang-chien-post909828.html]
 
 <!-- id: EVT-1754 -->
-*   **23/09/1945:** Xứ ủy và Ủy ban nhân dân Nam Bộ họp tại đường Cây Mai (Chợ Lớn), quyết định phát động toàn dân kháng chiến. Cuộc kháng chiến ở Nam Bộ bắt đầu. Cùng ngày, Huỳnh Tấn Phát bị quân Pháp bắt khi chúng chiếm lại Sài Gòn, nhưng ông được trả tự do sau 3 ngày do có uy tín lớn.
+*   **23/09/1945:** Xứ ủy và Ủy ban nhân dân Nam Bộ họp tại đường Cây Mai (Chợ Lớn), quyết định phát động toàn dân kháng chiến. Cuộc kháng chiến ở Nam Bộ bắt đầu. Cùng ngày, Huỳnh Tấn Phát bị quân Pháp bắt khi chúng chiếm lại Sài Gòn, nhưng ông được trả tự do sau 3 ngày do có uy tín lớn. [Nguồn: Bảo tàng Lịch sử Quốc gia - Ngày Nam Bộ kháng chiến (23/9/1945), https://baotanglichsu.vn/vi/Articles/3097/16607/ngay-nam-bo-khang-chien-23-9-1945.html]
 
 <!-- id: EVT-1755 -->
 *   **26/09/1945:** Chủ tịch Hồ Chí Minh ra Lời kêu gọi đồng bào Nam Bộ kháng chiến. Chi đội Nam tiến đầu tiên rời Hà Nội lên đường vào Nam chiến đấu.
@@ -5709,16 +5709,16 @@
 *   **10/1945:** Nguyễn Bình được Chủ tịch Hồ Chí Minh cử vào Nam Bộ làm Tư lệnh Bộ Tư lệnh Nam Bộ, thống nhất các lực lượng vũ trang kháng chiến tại Nam Bộ.
 
 <!-- id: EVT-1759 -->
-*   **23/10/1945 - 01/02/1946:** Cuộc chiến đấu "101 ngày đêm" tại mặt trận Nha Trang - Khánh Hòa bùng nổ khi quân dân đồng loạt nổ súng tấn công các vị trí chiếm đóng của quân Pháp và lập phòng tuyến bao vây quân địch trong nội thị suốt 101 ngày đêm. Mặt trận đã giam chân và tiêu hao sinh lực địch, làm thất bại mưu đồ "đánh nhanh, thắng nhanh" của thực dân Pháp, bảo vệ vững chắc tuyến giao thông huyết mạch chi viện cho chiến trường Nam Bộ và tạo thời gian quý báu củng cố lực lượng kháng chiến tại Nam Trung Bộ.
+*   **23/10/1945 - 01/02/1946:** Cuộc chiến đấu "101 ngày đêm" tại mặt trận Nha Trang - Khánh Hòa bùng nổ khi quân dân đồng loạt nổ súng tấn công các vị trí chiếm đóng của quân Pháp và lập phòng tuyến bao vây quân địch trong nội thị suốt 101 ngày đêm. Mặt trận đã giam chân và tiêu hao sinh lực địch, làm thất bại mưu đồ "đánh nhanh, thắng nhanh" của thực dân Pháp, bảo vệ vững chắc tuyến giao thông huyết mạch chi viện cho chiến trường Nam Bộ và tạo thời gian quý báu củng cố lực lượng kháng chiến tại Nam Trung Bộ. [Nguồn: Bảo tàng Lịch sử Quốc gia - Cuộc chiến đấu 101 ngày đêm ở Nha Trang - Khánh Hòa, https://baotanglichsu.vn/vi/Articles/3097/16612/cuoc-chien-dau-101-ngay-dem-o-nha-trang-khanh-hoa.html]
 
 <!-- id: EVT-1760 -->
 *   **25/10/1945:** Xứ ủy Nam Bộ họp hội nghị cán bộ ở Thiên Hộ (Mỹ Tho), đề ra phương hướng kháng chiến lâu dài.
 
 <!-- id: EVT-1761 -->
-*   **11/11/1945:** Đảng Cộng sản Đông Dương tuyên bố "tự giải tán", thực chất là rút vào hoạt động bí mật.
+*   **11/11/1945:** Đảng Cộng sản Đông Dương tuyên bố "tự giải tán", thực chất là rút vào hoạt động bí mật. [Nguồn: Bảo tàng Lịch sử Quốc gia - Đảng tuyên bố "tự giải tán" (11/11/1945), https://baotanglichsu.vn/vi/Articles/3097/16611/djang-tuyen-bo-tu-giai-tan-11-11-1945.html]
 
 <!-- id: EVT-1762 -->
-*   **25/11/1945:** Ban Thường vụ Trung ương Đảng ra Chỉ thị "Kháng chiến kiến quốc", xác định kẻ thù chính và nhiệm vụ trước mắt của cách mạng.
+*   **25/11/1945:** Ban Thường vụ Trung ương Đảng ra Chỉ thị "Kháng chiến kiến quốc", xác định kẻ thù chính và nhiệm vụ trước mắt của cách mạng. [Nguồn: Bảo tàng Lịch sử Quốc gia - Chỉ thị "Kháng chiến kiến quốc" (25/11/1945), https://baotanglichsu.vn/vi/Articles/3097/16615/chi-thi-khang-chien-kien-quoc-25-11-1945.html]
 
 <!-- id: EVT-1763 -->
 *   **14/12/1945:** Tại Paris (Pháp), Chủ tịch Chính phủ Lâm thời Cộng hòa Pháp Tướng Charles de Gaulle đích thân tiếp kiến cựu hoàng Duy Tân (Thiếu tá Vĩnh San) để bàn thảo về tình hình Đông Dương và dự kiến đưa cựu hoàng trở về Việt Nam đảm nhiệm vai trò hòa giải chính trị, chỉ 12 ngày trước khi nhà vua tử nạn máy bay định mệnh tại Bangui.

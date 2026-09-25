@@ -5630,7 +5630,7 @@
 *   **Aug. 26, 1945:** Following the momentum of the August Revolution, the uprising to seize power was successfully carried out in Son La province.
 
 <!-- id: EVT-1738 -->
-*   **Aug. 28, 1945:** The Vietnam National Liberation Committee was reorganized into the Provisional Government of the Democratic Republic of Vietnam headed by President Ho Chi Minh; comrade Vo Nguyen Giap was appointed Minister of Internal Affairs and placed in charge of military affairs. Simultaneously, 200,000 Kuomintang troops under Lu Han began entering northern Vietnam (north of the 16th parallel) ostensibly to disarm Japanese forces.
+*   **Aug. 28, 1945:** The Vietnam National Liberation Committee was reorganized into the Provisional Government of the Democratic Republic of Vietnam headed by President Ho Chi Minh; comrade Vo Nguyen Giap was appointed Minister of Internal Affairs and placed in charge of military affairs. Simultaneously, 200,000 Kuomintang troops under Lu Han began entering northern Vietnam (north of the 16th parallel) ostensibly to disarm Japanese forces. [Source: Vietnam National Museum of History - The National Liberation Committee Reorganized as the Provisional Government (Aug. 28, 1945), https://baotanglichsu.vn/vi/Articles/3097/16633/uy-ban-dan-toc-giai-phong-cai-to-thanh-chinh-phu-lam-thoi-28-8-1945.html]
 
 <!-- id: EVT-1739 -->
 *   **Aug. 30, 1945:** Emperor Bao Dai read the Abdication Edict in Hue, ending the feudal regime in Vietnam. [Source: https://nhandan.vn/ngay-3081945-vua-bao-dai-thoai-vi-post902540.html]
@@ -5649,7 +5649,7 @@
 
 ### **Period of Establishing Government and Southern Resistance (Sep. 1945 - Feb. 1946)**
 
-*   **Sep. 1, 1945:** The provisional government of the Democratic Republic of Vietnam issued Decree No. 01/SL, declaring time zone 7 as the official time. From then on, the North and Central regions used time zone 7.
+*   **Sep. 1, 1945:** The provisional government of the Democratic Republic of Vietnam issued Decree No. 01/SL, declaring time zone 7 as the official time. From then on, the North and Central regions used time zone 7. [Source: Vietnam National Museum of History - Decree No. 1 of the Provisional Government (September 1, 1945), https://baotanglichsu.vn/vi/Articles/3097/16633/sac-lenh-so-1-cua-chinh-phu-lam-thoi-1-9-1945.html]
 
 <!-- id: EVT-1743 -->
 *   **Sep. 2, 1945:** At Ba Dinh Square (Hanoi), President Ho Chi Minh read the Declaration of Independence, proclaiming the birth of the Democratic Republic of Vietnam before a sea of people under red flags with yellow stars. Prior to the declaration, the first national flag-raising ceremony was conducted by liberation army combatants Dam Thi Loan and Le Thi (Duong Thi Theu) to the melody of "Tien Quan Ca". During the ceremony, Minister of the Interior Vo Nguyen Giap delivered a major political report on domestic and foreign policy, calling upon the entire nation to fiercely safeguard newly won independence. [Source: https://baochinhphu.vn/tuyen-ngon-doc-lap-va-nha-nuoc-phap-quyen-102299509.htm]
@@ -5664,10 +5664,10 @@
 *Source: TTXVN file photo / Tuoi Tre Newspaper*
 
 <!-- id: EVT-1744 -->
-*   **Sep. 3, 1945:** President of the Provisional Government Ho Chi Minh chaired the first meeting of the Government Council of the Democratic Republic of Vietnam, setting out 6 urgent primary tasks to combat famine, illiteracy, and foreign aggression: launching a production drive to eradicate famine, initiating a campaign against illiteracy, organizing a nationwide general election for the National Assembly, abolishing regressive vices, repealing obsolete colonial taxes, and ensuring religious freedom.
+*   **Sep. 3, 1945:** President of the Provisional Government Ho Chi Minh chaired the first meeting of the Government Council of the Democratic Republic of Vietnam, setting out 6 urgent primary tasks to combat famine, illiteracy, and foreign aggression: launching a production drive to eradicate famine, initiating a campaign against illiteracy, organizing a nationwide general election for the National Assembly, abolishing regressive vices, repealing obsolete colonial taxes, and ensuring religious freedom. [Source: Vietnam National Museum of History - The First Meeting of the Provisional Government (September 3, 1945), https://baotanglichsu.vn/vi/Articles/3097/16592/phien-hop-dau-tien-cua-chinh-phu-lam-thoi-3-9-1945.html]
 
 <!-- id: EVT-1745 -->
-*   **Sep. 4, 1945:** The government issued Decree No. 4/SL to establish the "Independence Fund."
+*   **Sep. 4, 1945:** The government issued Decree No. 4/SL to establish the "Independence Fund." [Source: Vietnam National Museum of History - The Independence Fund (September 4, 1945), https://baotanglichsu.vn/vi/Articles/3097/16587/quy-djoc-lap-4-9-1945.html]
 
 <!-- id: EVT-1746 -->
 *   **Sep. 5, 1945:** The Provisional Government issued a decree dissolving the Dai Viet National Socialist Party and the Dai Viet Nationalist Party.
@@ -5676,7 +5676,7 @@
 *   **Sep. 5, 1945:** On behalf of the President of the Provisional Government of the Democratic Republic of Vietnam, Minister of the Interior Vo Nguyen Giap signed Decree No. 5-SL, officially abolishing the Que Ly flag and formally instituting the National Flag of Vietnam: a rectangular flag with a bright red field and a bright yellow five-pointed star in the center.
 
 <!-- id: EVT-1748 -->
-*   **Sep. 7, 1945:** President Ho Chi Minh directed the establishment of the General Staff of the Vietnam People's Army and appointed Comrade Hoang Van Thai as its first Chief of the General Staff.
+*   **Sep. 7, 1945:** President Ho Chi Minh directed the establishment of the General Staff of the Vietnam People's Army and appointed Comrade Hoang Van Thai as its first Chief of the General Staff. [Source: Vietnam National Museum of History - Establishment of the General Staff of the Vietnam People's Army (September 7, 1945), https://baotanglichsu.vn/vi/Articles/3097/16589/thanh-lap-bo-tong-tham-muu-quan-doi-nhan-dan-viet-nam-7-9-1945.html]
 
 <!-- id: EVT-1749 -->
 *   **Sep. 8, 1945:** President Ho Chi Minh signed Decree No. 14-SL, stipulating that a General Election would be held within two months. [Source: https://baochinhphu.vn/tong-tuyen-cu-1946-ket-qua-tinh-than-doan-ket-cua-dan-toc-viet-nam-102196060.htm]
@@ -5688,13 +5688,13 @@
 *   **Sep. 11, 1945:** General Gracey, commander of the British forces, arrived in Saigon.
 
 <!-- id: EVT-1752 -->
-*   **Sep. 16, 1945:** The "Golden Week" began, mobilizing the people to contribute financially to the country.
+*   **Sep. 16, 1945:** The "Golden Week" began, mobilizing the people to contribute financially to the country. [Source: Vietnam National Museum of History - The Gold Week Campaign (1945), https://baotanglichsu.vn/vi/Articles/3097/16602/tuan-le-vang-1945.html]
 
 <!-- id: EVT-1753 -->
 *   **Night of Sep. 22-23, 1945:** French troops, with the help of British troops, opened fire and occupied Saigon. [Source: https://nhandan.vn/phat-huy-hao-khi-nam-bo-khang-chien-post909828.html]
 
 <!-- id: EVT-1754 -->
-*   **Sep. 23, 1945:** The Party Committee and People's Committee of the South met on Cay Mai Street (Cho Lon) and decided to launch a nationwide resistance. The resistance in the South began. On the same day, Huynh Tan Phat was arrested when French troops reoccupied Saigon, but he was released after three days.
+*   **Sep. 23, 1945:** The Party Committee and People's Committee of the South met on Cay Mai Street (Cho Lon) and decided to launch a nationwide resistance. The resistance in the South began. On the same day, Huynh Tan Phat was arrested when French troops reoccupied Saigon, but he was released after three days. [Source: Vietnam National Museum of History - Southern Vietnam Resistance Day (September 23, 1945), https://baotanglichsu.vn/vi/Articles/3097/16607/ngay-nam-bo-khang-chien-23-9-1945.html]
 
 <!-- id: EVT-1755 -->
 *   **Sep. 26, 1945:** President Ho Chi Minh issued an appeal to the people of the South to resist. The first Southward March detachment left Hanoi for the South to fight.
@@ -5709,16 +5709,16 @@
 *   **Oct. 1945:** Nguyen Binh was assigned by President Ho Chi Minh to Southern Vietnam as Commander of the Nam Bo Command, unifying the armed resistance forces in the South.
 
 <!-- id: EVT-1759 -->
-*   **Oct. 23, 1945 - Feb. 1, 1946:** The "101-Day and Night Siege" at the Nha Trang - Khanh Hoa front broke out as Vietnamese forces launched coordinated attacks against French occupying positions and established a defensive encirclement around enemy troops for 101 days and nights. The campaign pinned down and wore down French forces, thwarting France's "quick fight, quick victory" strategy, securing vital transit routes for reinforcements to the Southern battlefield, and providing crucial time to consolidate resistance forces in South Central Vietnam.
+*   **Oct. 23, 1945 - Feb. 1, 1946:** The "101-Day and Night Siege" at the Nha Trang - Khanh Hoa front broke out as Vietnamese forces launched coordinated attacks against French occupying positions and established a defensive encirclement around enemy troops for 101 days and nights. The campaign pinned down and wore down French forces, thwarting France's "quick fight, quick victory" strategy, securing vital transit routes for reinforcements to the Southern battlefield, and providing crucial time to consolidate resistance forces in South Central Vietnam. [Source: Vietnam National Museum of History - The 101-Day Battle in Nha Trang - Khanh Hoa, https://baotanglichsu.vn/vi/Articles/3097/16612/cuoc-chien-dau-101-ngay-dem-o-nha-trang-khanh-hoa.html]
 
 <!-- id: EVT-1760 -->
 *   **Oct. 25, 1945:** The Party Committee of the South held a cadres' conference in Thien Ho (My Tho), setting out the direction for a long-term resistance.
 
 <!-- id: EVT-1761 -->
-*   **Nov. 11, 1945:** The Indochinese Communist Party announced its "self-dissolution," in reality going underground.
+*   **Nov. 11, 1945:** The Indochinese Communist Party announced its "self-dissolution," in reality going underground. [Source: Vietnam National Museum of History - The Party Declares "Self-Dissolution" (November 11, 1945), https://baotanglichsu.vn/vi/Articles/3097/16611/djang-tuyen-bo-tu-giai-tan-11-11-1945.html]
 
 <!-- id: EVT-1762 -->
-*   **Nov. 25, 1945:** The Party Central Standing Committee issued the directive "Resistance and National Construction" (Khang chien kien quoc), identifying the main enemy and urgent tasks.
+*   **Nov. 25, 1945:** The Party Central Standing Committee issued the directive "Resistance and National Construction" (Khang chien kien quoc), identifying the main enemy and urgent tasks. [Source: Vietnam National Museum of History - The "Resistance and Nation-Building" Directive (November 25, 1945), https://baotanglichsu.vn/vi/Articles/3097/16615/chi-thi-khang-chien-kien-quoc-25-11-1945.html]
 
 <!-- id: EVT-1763 -->
 *   **Dec. 14, 1945:** In Paris, General Charles de Gaulle, President of the Provisional Government of the French Republic, held an official audience with former Emperor Duy Tan (Major Vinh San) to discuss the political future of Indochina and deliberate plans for his return to Vietnam as a unifying figure, merely twelve days prior to the prince's fatal plane crash at Bangui.
