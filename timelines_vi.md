@@ -6987,7 +6987,7 @@
 *   **14/11/1958:** Chủ tịch Hồ Chí Minh cùng các đồng chí lãnh đạo Đảng, Nhà nước và nhiều đoàn đại biểu quốc tế đến Bệnh viện Hữu nghị Việt - Xô thăm hỏi, động viên nữ chiến sĩ Trần Thị Lý; ý chí kiên trung và sự hồi sinh kỳ diệu của bà đã trở thành nguồn cảm hứng để nhà thơ Tố Hữu sáng tác bài thơ nổi tiếng *"Người con gái Việt Nam"* (tháng 12/1958), khắc họa biểu tượng bất khuất của người phụ nữ Việt Nam trong cuộc kháng chiến chống Mỹ.
 
 <!-- id: EVT-2149 -->
-*   **01/12/1958:** Vụ thảm sát Phú Lợi xảy ra, chế độ Mỹ - Diệm đầu độc hàng ngàn tù nhân chính trị, gây phẫn nộ lớn và thúc đẩy phong trào đấu tranh cách mạng.
+*   **01/12/1958:** Vụ thảm sát Phú Lợi xảy ra, chế độ Mỹ - Diệm đầu độc hàng ngàn tù nhân chính trị, gây phẫn nộ lớn và thúc đẩy phong trào đấu tranh cách mạng. [Nguồn: Bảo tàng Lịch sử Quốc gia - Vụ thảm sát Phú Lợi (01/12/1958), https://baotanglichsu.vn/vi/Articles/3097/16700/vu-tham-sat-phu-loi-01-12-1958.html]
 
 <!-- id: EVT-2150 -->
 *   **1959 - 1960:** Phong trào **"Đồng khởi"** bùng nổ mạnh mẽ ở các vùng nông thôn miền Nam, bắt đầu từ Bến Tre, phá vỡ từng mảng lớn bộ máy cai trị của địch ở cơ sở.
@@ -7010,19 +7010,19 @@
 *Nguồn: Chủ tịch Hồ Chí Minh dự khán hoạt động thể thao quần chúng / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-2154 -->
-*   **01/1959:** Hội nghị lần thứ 15 Ban Chấp hành Trung ương Đảng Lao động Việt Nam ra nghị quyết lịch sử, xác định con đường cách mạng miền Nam là sử dụng bạo lực cách mạng, kết hợp đấu tranh chính trị với đấu tranh vũ trang để giành chính quyền.
+*   **01/1959:** Hội nghị lần thứ 15 Ban Chấp hành Trung ương Đảng Lao động Việt Nam ra nghị quyết lịch sử, xác định con đường cách mạng miền Nam là sử dụng bạo lực cách mạng, kết hợp đấu tranh chính trị với đấu tranh vũ trang để giành chính quyền. [Nguồn: Bảo tàng Lịch sử Quốc gia - Hội nghị Trung ương lần thứ 15, https://baotanglichsu.vn/vi/Articles/3097/15847/hoi-nghi-trung-uong-lan-thu-15.html]
 
 <!-- id: EVT-2155 -->
 *   **04/1959:** Hội nghị lần thứ 16 Ban Chấp hành Trung ương Đảng Lao động Việt Nam ra nghị quyết về cải tạo xã hội chủ nghĩa đối với công thương nghiệp tư bản tư doanh ở miền Bắc.
 
 <!-- id: EVT-2156 -->
-*   **05/1959:** Chính quyền Ngô Đình Diệm ban hành **Luật 10/59**, lê máy chém đi khắp miền Nam để đàn áp khốc liệt phong trào cách mạng.
+*   **05/1959:** Chính quyền Ngô Đình Diệm ban hành **Luật 10/59**, lê máy chém đi khắp miền Nam để đàn áp khốc liệt phong trào cách mạng. [Nguồn: Bảo tàng Lịch sử Quốc gia - Luật 10/59 Mỹ-Diệm (1959), https://baotanglichsu.vn/vi/Articles/3097/16701/luat-10-59-my-diem-1959.html]
 
 <!-- id: EVT-2157 -->
 *   **13/05/1959:** Tại Sài Gòn, Nhật Bản và chính quyền Việt Nam Cộng hòa ký kết "Hiệp định bồi thường chiến tranh". Theo hiệp định, Nhật Bản cam kết bồi thường 39 triệu USD (14,04 tỷ Yên) cùng 16,6 triệu USD vốn vay và tín dụng thương mại (phần lớn ngân khoản sau đó được dùng xây dựng Nhà máy Thủy điện Đa Nhim). Hiệp định này gây ra nghịch lý và bất công lịch sử sâu sắc: thảm họa nặng nề nhất do quân đội phát xít Nhật gây ra cho Việt Nam trong Chiến tranh thế giới thứ hai là Nạn đói năm Ất Dậu (1944–1945) cướp đi sinh mạng của khoảng 2 triệu đồng bào, hầu như toàn bộ đều ở miền Bắc và Bắc Trung Bộ; song do toan tính địa chính trị thời Chiến tranh Lạnh, Nhật Bản lại chỉ công nhận và bồi thường cho chính quyền Ngô Đình Diệm ở miền Nam (nơi không chịu ảnh hưởng của nạn đói). Chính phủ Việt Nam Dân chủ Cộng hòa tại Hà Nội đã kịch liệt phản đối, tuyên bố bản hiệp định là hoàn toàn phi pháp, vô giá trị và bảo lưu quyền đòi bồi thường chiến tranh cho toàn thể nhân dân Việt Nam.
 
 <!-- id: EVT-2158 -->
-*   **19/05/1959:** Dưới sự chỉ đạo của Bí thư Tổng Quân ủy Võ Nguyên Giáp, Thường vụ Tổng Quân ủy quyết định thành lập "Đoàn công tác quân sự đặc biệt" (sau đổi phiên hiệu thành **Đoàn 559**) do Thượng tá Võ Bẩm làm Đoàn trưởng, có nhiệm vụ mở đường vận tải chiến lược trên bộ chi viện nhân lực, vũ khí cho chiến trường miền Nam. Tuyến đường mang tên Chủ tịch Hồ Chí Minh (Đường mòn Hồ Chí Minh / Tuyến vận tải quân sự Trường Sơn) trở thành huyết mạch giao thông chiến lược quyết định thắng lợi của cuộc kháng chiến chống Mỹ, cứu nước.
+*   **19/05/1959:** Dưới sự chỉ đạo của Bí thư Tổng Quân ủy Võ Nguyên Giáp, Thường vụ Tổng Quân ủy quyết định thành lập "Đoàn công tác quân sự đặc biệt" (sau đổi phiên hiệu thành **Đoàn 559**) do Thượng tá Võ Bẩm làm Đoàn trưởng, có nhiệm vụ mở đường vận tải chiến lược trên bộ chi viện nhân lực, vũ khí cho chiến trường miền Nam. Tuyến đường mang tên Chủ tịch Hồ Chí Minh (Đường mòn Hồ Chí Minh / Tuyến vận tải quân sự Trường Sơn) trở thành huyết mạch giao thông chiến lược quyết định thắng lợi của cuộc kháng chiến chống Mỹ, cứu nước. [Nguồn: Bảo tàng Lịch sử Quốc gia - Đường Hồ Chí Minh (1959), https://baotanglichsu.vn/vi/Articles/3097/15849/duong-ho-chi-minh-1959.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_123514.webp)
 
@@ -7059,7 +7059,7 @@
 *   **01/01/1960:** Theo Sắc lệnh số 362-TTP (ban hành ngày 30/12/1959), ngụy quyền Sài Gòn chính thức quy định giờ của miền Nam Việt Nam nhanh hơn 60 phút so với múi giờ 7 (tức múi giờ 8). Do đó, Việt Nam sử dụng hai múi giờ khác nhau trong thời kỳ chia cắt.
 
 <!-- id: EVT-2169 -->
-*   **17/01/1960:** Cuộc Đồng khởi nổ ra tại ba xã Định Thủy, Phước Hiệp, Bình Khánh thuộc huyện Mỏ Cày, tỉnh Bến Tre, dưới sự lãnh đạo trực tiếp của bà **Nguyễn Thị Định**, sau đó lan rộng ra toàn tỉnh và khắp Nam Bộ.
+*   **17/01/1960:** Cuộc Đồng khởi nổ ra tại ba xã Định Thủy, Phước Hiệp, Bình Khánh thuộc huyện Mỏ Cày, tỉnh Bến Tre, dưới sự lãnh đạo trực tiếp của bà **Nguyễn Thị Định**, sau đó lan rộng ra toàn tỉnh và khắp Nam Bộ. [Nguồn: Bảo tàng Lịch sử Quốc gia - Phong trào Đồng khởi (1960), https://baotanglichsu.vn/vi/Articles/3097/15716/phong-trao-djong-khoi-1960.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_123921.webp)
 
@@ -7109,7 +7109,7 @@
 *   **02/12/1960:** Việt Nam và Cuba chính thức thiết lập quan hệ ngoại giao sau chuyến thăm của Thứ trưởng Ngoại giao Cuba Héctor Rodríguez Llompart. Cuba trở thành quốc gia châu Mỹ đầu tiên công nhận và thiết lập quan hệ ngoại giao với nước Việt Nam Dân chủ Cộng hòa.
 
 <!-- id: EVT-2182 -->
-*   **20/12/1960:** **Mặt trận Dân tộc Giải phóng miền Nam Việt Nam** được thành lập tại vùng căn cứ Tây Ninh (xã Tân Lập, huyện Châu Thành, nay thuộc huyện Tân Biên). Đại hội đã thông qua bản Tuyên ngôn, Chương trình hành động 10 điểm và chính thức công bố lá **Cờ Mặt trận** (do Kiến trúc sư Huỳnh Tấn Phát thiết kế): nền cờ chia đôi theo chiều ngang gồm nửa trên màu đỏ (tượng trưng cho độc lập, cách mạng và hậu phương lớn miền Bắc), nửa dưới màu xanh hòa bình (tượng trưng cho miền Nam ruột thịt đang kiên cường chiến đấu), ở giữa là ngôi sao vàng năm cánh (tượng trưng cho khối đại đoàn kết toàn dân tộc). Lá cờ giải phóng trở thành ngọn cờ hiệu triệu đồng bào và chiến sĩ miền Nam trong cuộc kháng chiến chống Mỹ cứu nước.
+*   **20/12/1960:** **Mặt trận Dân tộc Giải phóng miền Nam Việt Nam** được thành lập tại vùng căn cứ Tây Ninh (xã Tân Lập, huyện Châu Thành, nay thuộc huyện Tân Biên). Đại hội đã thông qua bản Tuyên ngôn, Chương trình hành động 10 điểm và chính thức công bố lá **Cờ Mặt trận** (do Kiến trúc sư Huỳnh Tấn Phát thiết kế): nền cờ chia đôi theo chiều ngang gồm nửa trên màu đỏ (tượng trưng cho độc lập, cách mạng và hậu phương lớn miền Bắc), nửa dưới màu xanh hòa bình (tượng trưng cho miền Nam ruột thịt đang kiên cường chiến đấu), ở giữa là ngôi sao vàng năm cánh (tượng trưng cho khối đại đoàn kết toàn dân tộc). Lá cờ giải phóng trở thành ngọn cờ hiệu triệu đồng bào và chiến sĩ miền Nam trong cuộc kháng chiến chống Mỹ cứu nước. [Nguồn: Bảo tàng Lịch sử Quốc gia - Mặt trận Giải phóng miền Nam Việt Nam (1960), https://baotanglichsu.vn/vi/Articles/3097/15717/mat-tran-giai-phong-mien-nam-viet-nam-1960.html]
 
 <!-- id: EVT-2183 -->
 
@@ -7118,7 +7118,7 @@
 *   **1961:** Tổng thống Hàn Quốc Park Chung-hee đề nghị gửi quân sang Việt Nam để hỗ trợ Mỹ, nhưng Tổng thống Mỹ John F. Kennedy ban đầu từ chối. Cùng năm, Liên Xô đã viện trợ cho Hải quân Việt Nam 12 tàu phóng ngư lôi và 4 tàu chống ngầm nhằm tăng cường khả năng phòng thủ bờ biển.
 
 <!-- id: EVT-2184 -->
-*   **1961 - 1965:** Miền Bắc thực hiện **Kế hoạch 5 năm lần thứ nhất** nhằm xây dựng bước đầu cơ sở vật chất - kỹ thuật của chủ nghĩa xã hội.
+*   **1961 - 1965:** Miền Bắc thực hiện **Kế hoạch 5 năm lần thứ nhất** nhằm xây dựng bước đầu cơ sở vật chất - kỹ thuật của chủ nghĩa xã hội. [Nguồn: Bảo tàng Lịch sử Quốc gia - Kế hoạch 5 năm lần thứ nhất (1961-1965), https://baotanglichsu.vn/vi/Articles/3097/15850/ke-hoach-5-nam-1961-1965.html]
 
 <!-- id: EVT-2185 -->
 *   **1961 - 1975:** Trong suốt cuộc kháng chiến chống Mỹ, Cuba đều đặn viện trợ cho Việt Nam khoảng 50.000 tấn đường mỗi năm và cử bác sĩ sang chăm sóc thương binh. Gần một triệu sinh viên Việt Nam được cho là đã học tập tại Cuba trong giai đoạn này.
@@ -7139,10 +7139,10 @@
 *   **1961:** Nữ tình báo Tám Thảo thực hiện thành công chuyến vận chuyển bí mật 24 cuộn phim tài liệu tình báo tối mật của nhà tình báo chiến lược Phạm Xuân Ẩn (Hai Trung) từ nội thành Sài Gòn vượt qua các trạm kiểm soát gắt gao ra căn cứ Củ Chi an toàn, giúp Trung ương nắm bắt kịp thời các kế hoạch chiến lược của đối phương.
 
 <!-- id: EVT-2191 -->
-*   **01/1961:** Tổng thống Mỹ John F. Kennedy nhậm chức, đề ra chiến lược "Phản ứng linh hoạt", trong đó có hình thức **"Chiến tranh đặc biệt"** để áp dụng ở miền Nam Việt Nam.
+*   **01/1961:** Tổng thống Mỹ John F. Kennedy nhậm chức, đề ra chiến lược "Phản ứng linh hoạt", trong đó có hình thức **"Chiến tranh đặc biệt"** để áp dụng ở miền Nam Việt Nam. [Nguồn: Bảo tàng Lịch sử Quốc gia - Kennedy và chiến lược "Phản ứng linh hoạt" (01/1961), https://baotanglichsu.vn/vi/Articles/3097/16702/kennedy-phan-ung-linh-hoat-01-1961.html]
 
 <!-- id: EVT-2192 -->
-*   **01/1961:** Hội nghị Trung ương Đảng lần thứ 3 quyết định thành lập Trung ương Cục miền Nam thay cho Xứ ủy Nam Bộ để trực tiếp lãnh đạo cách mạng miền Nam.
+*   **01/1961:** Hội nghị Trung ương Đảng lần thứ 3 quyết định thành lập Trung ương Cục miền Nam thay cho Xứ ủy Nam Bộ để trực tiếp lãnh đạo cách mạng miền Nam. [Nguồn: Bảo tàng Lịch sử Quốc gia - Trung ương Cục miền Nam (1961), https://baotanglichsu.vn/vi/Articles/3097/15718/trung-uong-cuc-mien-nam-1961.html]
 
 <!-- id: EVT-2193 -->
 *   **24/01/1961:** Bộ Chính trị ra Chỉ thị về phương hướng và nhiệm vụ công tác trước mắt của cách mạng miền Nam, chuyển phương châm từ đấu tranh chính trị là chủ yếu sang đẩy mạnh đấu tranh vũ trang song song với đấu tranh chính trị.
@@ -7157,7 +7157,7 @@
 *   **03/1961:** Chính phủ nước Việt Nam có chuyến thăm chính thức đầu tiên đến Cuba do Bộ trưởng Văn hóa Hoàng Minh Giám làm Trưởng đoàn. Trong chuyến thăm, Fidel Castro đã gợi ý cử thanh niên Việt Nam sang Cuba học tiếng Tây Ban Nha.
 
 <!-- id: EVT-2197 -->
-*   **05/1961:** Mỹ công bố **Kế hoạch Staley - Taylor** với mục tiêu "bình định" miền Nam trong vòng 18 tháng.
+*   **05/1961:** Mỹ công bố **Kế hoạch Staley - Taylor** với mục tiêu "bình định" miền Nam trong vòng 18 tháng. [Nguồn: Bảo tàng Lịch sử Quốc gia - Kế hoạch Staley-Taylor (05/1961), https://baotanglichsu.vn/vi/Articles/3097/16703/ke-hoach-staley-taylor-05-1961.html]
 
 <!-- id: EVT-2198 -->
 *   **11 - 13/05/1961:** Phó Tổng thống Mỹ Lyndon B. Johnson sang thăm chính thức Sài Gòn và ký thông cáo chung với Ngô Đình Diệm, đánh dấu bước tăng cường viện trợ và can thiệp quân sự của Mỹ vào miền Nam. Trong chuyến thăm, Johnson công khai ca ngợi Diệm là "Winston Churchill của châu Á" nhằm củng cố hình ảnh nhà lãnh đạo tiền tuyến chống cộng, dù sau đó thừa nhận riêng rằng Mỹ buộc phải hậu thuẫn Diệm vì "không còn ai khác".

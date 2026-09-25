@@ -6987,7 +6987,7 @@
 *   **Nov. 14, 1958:** President Ho Chi Minh, leaders of the Party and State, and numerous international delegations visited and encouraged revolutionary fighter Trần Thị Lý at the Viet - Soviet Friendship Hospital; her indomitable spirit and miraculous recovery inspired poet Tố Hữu to compose the famous poem *"Người con gái Việt Nam"* (The Vietnamese Girl, December 1958), portraying an eternal symbol of the courage and steadfastness of Vietnamese women during the anti-American resistance.
 
 <!-- id: EVT-2149 -->
-*   **Dec. 1, 1958:** The Phu Loi massacre occurred where the US-Diem regime poisoned over 1,000 political prisoners. This event sparked widespread outrage and became a catalyst for the revolutionary movement in the South.
+*   **Dec. 1, 1958:** The Phu Loi massacre occurred where the US-Diem regime poisoned over 1,000 political prisoners. This event sparked widespread outrage and became a catalyst for the revolutionary movement in the South. [Source: Vietnam National Museum of History - The Phu Loi Massacre (December 1, 1958), https://baotanglichsu.vn/vi/Articles/3097/16700/vu-tham-sat-phu-loi-01-12-1958.html]
 
 <!-- id: EVT-2150 -->
 *   **1959 - 1960:** The **"Concerted Uprising"** movement erupted strongly in the rural areas of the South, starting in Ben Tre, shattering large segments of the enemy's administrative apparatus at the grassroots level.
@@ -7010,19 +7010,19 @@
 *Source: President Ho Chi Minh watching a mass sports event / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-2154 -->
-*   **Jan. 1959:** The 15th Conference of the Central Committee of the Vietnam Workers' Party issued a historic resolution, defining the path of the southern revolution as using revolutionary violence, combining political struggle with armed struggle to seize power.
+*   **Jan. 1959:** The 15th Conference of the Central Committee of the Vietnam Workers' Party issued a historic resolution, defining the path of the southern revolution as using revolutionary violence, combining political struggle with armed struggle to seize power. [Source: Vietnam National Museum of History - The 15th Central Committee Plenum, https://baotanglichsu.vn/vi/Articles/3097/15847/hoi-nghi-trung-uong-lan-thu-15.html]
 
 <!-- id: EVT-2155 -->
 *   **04/1959:** The 16th Conference of the Central Committee of the Vietnam Workers' Party issued policies on the socialist transformation of capitalist industry and commerce in the North.
 
 <!-- id: EVT-2156 -->
-*   **May 1959:** The Ngo Dinh Diem administration enacted **Law 10/59**, dragging guillotines across South Vietnam to brutally suppress the revolutionary movement.
+*   **May 1959:** The Ngo Dinh Diem administration enacted **Law 10/59**, dragging guillotines across South Vietnam to brutally suppress the revolutionary movement. [Source: Vietnam National Museum of History - Law 10/59 under the US-Diem Regime (1959), https://baotanglichsu.vn/vi/Articles/3097/16701/luat-10-59-my-diem-1959.html]
 
 <!-- id: EVT-2157 -->
 *   **May 13, 1959:** In Saigon, Japan and the Republic of Vietnam (South Vietnam) signed the "Reparations Agreement Between Japan and the Republic of Vietnam". Under the agreement, Japan agreed to pay 39 million USD (14.04 billion Yen) in reparations along with 16.6 million USD in loans and commercial credits (funds predominantly used to build the Da Nhim Hydroelectric Power Plant). This agreement created a profound historical paradox: while the catastrophic famine of 1944–1945 caused by Japanese wartime occupation claimed approximately 2 million lives almost exclusively in Northern and North-Central Vietnam, Japan—driven by Cold War geopolitical calculations—recognized and paid war reparations solely to the Ngo Dinh Diem administration in the South, which suffered virtually no famine casualties. The Government of the Democratic Republic of Vietnam in Hanoi vehemently protested, declaring the agreement illegal and void, and reserved the right to demand reparations for the entire Vietnamese people.
 
 <!-- id: EVT-2158 -->
-*   **May 19, 1959:** Under the leadership of Central Military Commission Secretary Vo Nguyen Giap, the Standing Committee of the Commission resolved to establish the "Special Military Task Force" (subsequently designated **Group 559**) commanded by Senior Colonel Vo Bam, tasked with opening a strategic overland transport corridor to reinforce the southern battlefields. Named after President Ho Chi Minh (the Ho Chi Minh Trail / Truong Son Strategic Route), it became the vital logistics artery deciding the victory of the Anti-American Resistance War for National Salvation.
+*   **May 19, 1959:** Under the leadership of Central Military Commission Secretary Vo Nguyen Giap, the Standing Committee of the Commission resolved to establish the "Special Military Task Force" (subsequently designated **Group 559**) commanded by Senior Colonel Vo Bam, tasked with opening a strategic overland transport corridor to reinforce the southern battlefields. Named after President Ho Chi Minh (the Ho Chi Minh Trail / Truong Son Strategic Route), it became the vital logistics artery deciding the victory of the Anti-American Resistance War for National Salvation. [Source: Vietnam National Museum of History - The Ho Chi Minh Trail (1959), https://baotanglichsu.vn/vi/Articles/3097/15849/duong-ho-chi-minh-1959.html]
 
 ![Historical Image](images/event_20260923_123514.webp)
 
@@ -7059,7 +7059,7 @@
 *   **Jan. 1, 1960:** Following Decree No. 362-TTP (issued on December 30, 1959), the Saigon administration officially changed the time of South Vietnam to be 60 minutes faster than time zone 7 (i.e., time zone 8). Consequently, Vietnam used two different time zones during the partition period.
 
 <!-- id: EVT-2169 -->
-*   **Jan. 17, 1960:** The Concerted Uprising broke out in the three communes of Dinh Thuy, Phuoc Hiep, and Binh Khanh in Mo Cay district, Ben Tre province, under the direct leadership of Madame **Nguyen Thi Dinh**, then spread throughout the province and across the South.
+*   **Jan. 17, 1960:** The Concerted Uprising broke out in the three communes of Dinh Thuy, Phuoc Hiep, and Binh Khanh in Mo Cay district, Ben Tre province, under the direct leadership of Madame **Nguyen Thi Dinh**, then spread throughout the province and across the South. [Source: Vietnam National Museum of History - The Dong Khoi (Concerted Uprising) Movement (1960), https://baotanglichsu.vn/vi/Articles/3097/15716/phong-trao-djong-khoi-1960.html]
 
 ![Historical Image](images/event_20260923_123921.webp)
 
@@ -7109,7 +7109,7 @@
 *   **Dec. 2, 1960:** Vietnam and Cuba officially established diplomatic relations following a visit by Cuban Deputy Foreign Minister Héctor Rodríguez Llompart. Cuba became the first country in the Americas to recognize and establish diplomatic relations with the Democratic Republic of Vietnam.
 
 <!-- id: EVT-2182 -->
-*   **Dec. 20, 1960:** The **National Liberation Front for South Vietnam** (NLF) was established in the base area of Tay Ninh (Tan Lap commune, Chau Thanh district, now Tan Bien district). The congress adopted its Manifesto, a 10-point Action Program, and officially unveiled the **NLF Flag** (designed by architect Huynh Tan Phat): horizontally divided into a red upper half (symbolizing independence, revolution, and the Northern rear base) and a peace-blue lower half (symbolizing the beloved South enduring resolute struggle), centered with a five-pointed gold star (symbolizing great national unity). The Liberation flag became the rallying banner uniting and inspiring the southern armed forces and people throughout the anti-US resistance war.
+*   **Dec. 20, 1960:** The **National Liberation Front for South Vietnam** (NLF) was established in the base area of Tay Ninh (Tan Lap commune, Chau Thanh district, now Tan Bien district). The congress adopted its Manifesto, a 10-point Action Program, and officially unveiled the **NLF Flag** (designed by architect Huynh Tan Phat): horizontally divided into a red upper half (symbolizing independence, revolution, and the Northern rear base) and a peace-blue lower half (symbolizing the beloved South enduring resolute struggle), centered with a five-pointed gold star (symbolizing great national unity). The Liberation flag became the rallying banner uniting and inspiring the southern armed forces and people throughout the anti-US resistance war. [Source: Vietnam National Museum of History - The National Liberation Front of South Vietnam (1960), https://baotanglichsu.vn/vi/Articles/3097/15717/mat-tran-giai-phong-mien-nam-viet-nam-1960.html]
 
 <!-- id: EVT-2183 -->
 
@@ -7118,7 +7118,7 @@
 *   **1961:** South Korean President Park Chung-hee proposed sending troops to Vietnam to support the US, but US President John F. Kennedy initially declined. Concurrently, the Soviet Union provided the Vietnam Navy with 12 torpedo boats and 4 anti-submarine ships to enhance its defense capabilities.
 
 <!-- id: EVT-2184 -->
-*   **1961 - 1965:** The North implemented the **First Five-Year Plan** to build the initial material and technical foundations of socialism.
+*   **1961 - 1965:** The North implemented the **First Five-Year Plan** to build the initial material and technical foundations of socialism. [Source: Vietnam National Museum of History - The First Five-Year Plan (1961-1965), https://baotanglichsu.vn/vi/Articles/3097/15850/ke-hoach-5-nam-1961-1965.html]
 
 <!-- id: EVT-2185 -->
 *   **1961 - 1975:** Throughout the resistance war against the US, Cuba consistently provided Vietnam with about 50,000 tons of sugar annually and sent doctors to care for wounded soldiers. Nearly one million Vietnamese students reportedly studied in Cuba during this period.
@@ -7139,10 +7139,10 @@
 *   **1961:** Covert operative Tam Thao successfully transported 24 rolls of Kodak film containing top-secret intelligence documents from strategic intelligence officer Pham Xuan An (Hai Trung) from downtown Saigon through strict enemy checkpoints to the Cu Chi base, providing central leadership with crucial intelligence on enemy war strategies.
 
 <!-- id: EVT-2191 -->
-*   **Jan. 1961:** US President John F. Kennedy took office and proposed the "Flexible Response" strategy, which included the "Special War" to be applied in South Vietnam.
+*   **Jan. 1961:** US President John F. Kennedy took office and proposed the "Flexible Response" strategy, which included the "Special War" to be applied in South Vietnam. [Source: Vietnam National Museum of History - Kennedy and the "Flexible Response" Strategy (January 1961), https://baotanglichsu.vn/vi/Articles/3097/16702/kennedy-phan-ung-linh-hoat-01-1961.html]
 
 <!-- id: EVT-2192 -->
-*   **Jan. 1961:** The 3rd Conference of the Party Central Committee decided to establish the Central Office for South Vietnam (COSVN) to replace the Nam Bo Party Committee and directly lead the southern revolution.
+*   **Jan. 1961:** The 3rd Conference of the Party Central Committee decided to establish the Central Office for South Vietnam (COSVN) to replace the Nam Bo Party Committee and directly lead the southern revolution. [Source: Vietnam National Museum of History - The Central Office for South Vietnam - COSVN (1961), https://baotanglichsu.vn/vi/Articles/3097/15718/trung-uong-cuc-mien-nam-1961.html]
 
 <!-- id: EVT-2193 -->
 *   **Jan. 24, 1961:** The Politburo issued a directive on the direction and tasks of the Southern revolution, shifting from mainly political struggle to combining political struggle with armed struggle.
@@ -7157,7 +7157,7 @@
 *   **Mar. 1961:** The Government of Vietnam made its first official visit to Cuba, led by Minister of Culture Hoang Minh Giam. During the visit, Fidel Castro suggested sending Vietnamese youth to study Spanish in Cuba.
 
 <!-- id: EVT-2197 -->
-*   **May 1961:** The US announced the **Staley-Taylor Plan** with the goal of "pacifying" South Vietnam within 18 months.
+*   **May 1961:** The US announced the **Staley-Taylor Plan** with the goal of "pacifying" South Vietnam within 18 months. [Source: Vietnam National Museum of History - The Staley-Taylor Plan (May 1961), https://baotanglichsu.vn/vi/Articles/3097/16703/ke-hoach-staley-taylor-05-1961.html]
 
 <!-- id: EVT-2198 -->
 *   **May 11 - 13, 1961:** US Vice President Lyndon B. Johnson paid an official visit to Saigon and signed a joint communiqué with Ngo Dinh Diem, significantly expanding US military and economic assistance to South Vietnam. During the visit, Johnson publicly lauded Diem as the "Winston Churchill of Asia" to bolster the regime as an anti-communist bulwark, despite privately admitting that the US backed Diem simply because he was the only available option.
