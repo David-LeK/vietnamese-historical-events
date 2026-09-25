@@ -5693,7 +5693,7 @@
 *   **01/01/1946:** Chính phủ lâm thời cải tổ thành Chính phủ liên hiệp lâm thời, có thêm thành viên của Việt Quốc và Việt Cách.
 
 <!-- id: EVT-1773 -->
-*   **06/01/1946:** Cuộc Tổng tuyển cử đầu tiên bầu Quốc hội khóa I diễn ra trên cả nước.
+*   **06/01/1946:** Cuộc Tổng tuyển cử đầu tiên bầu Quốc hội khóa I diễn ra trên cả nước. [Nguồn: Báo Điện tử Chính phủ - Tổng tuyển cử 1946 là tự do, bình đẳng, dân chủ, đoàn kết, https://baochinhphu.vn/tong-tuyen-cu-1946-la-tu-do-binh-dang-dan-chu-doan-ket-102195907.htm]
 
 ![Hình ảnh tư liệu](images/event_20260923_123208.webp)
 
@@ -5718,17 +5718,17 @@
 
 ### **Giai đoạn Hòa hoãn và Chuẩn bị Toàn quốc Kháng chiến (03/1946 - 12/1946)**
 
-*   **02/03/1946:** Quốc hội khóa I họp kỳ đầu tiên tại Nhà hát Lớn Hà Nội, bầu cụ Nguyễn Văn Tố làm Trưởng ban Thường trực Quốc hội (tương đương Chủ tịch Quốc hội đầu tiên) và bầu Cụ Hồ Chí Minh làm Chủ tịch Chính phủ Liên hiệp Kháng chiến (Chủ tịch nước Việt Nam Dân chủ Cộng hòa đầu tiên); chí sĩ Huỳnh Thúc Kháng được mời giữ chức Bộ trưởng Bộ Nội vụ, đồng chí Võ Nguyên Giáp được bầu giữ chức Chủ tịch Quân sự Ủy viên Hội (phụ trách quân sự quốc gia). Tại kỳ họp, toàn thể đại biểu Quốc hội đã nhiệt liệt biểu quyết chuẩn y cờ đỏ sao vàng là Quốc kỳ của nước Việt Nam và bài *Tiến quân ca* là Quốc ca.
+*   **02/03/1946:** Quốc hội khóa I họp kỳ đầu tiên tại Nhà hát Lớn Hà Nội, bầu cụ Nguyễn Văn Tố làm Trưởng ban Thường trực Quốc hội (tương đương Chủ tịch Quốc hội đầu tiên) và bầu Cụ Hồ Chí Minh làm Chủ tịch Chính phủ Liên hiệp Kháng chiến (Chủ tịch nước Việt Nam Dân chủ Cộng hòa đầu tiên); chí sĩ Huỳnh Thúc Kháng được mời giữ chức Bộ trưởng Bộ Nội vụ, đồng chí Võ Nguyên Giáp được bầu giữ chức Chủ tịch Quân sự Ủy viên Hội (phụ trách quân sự quốc gia). Tại kỳ họp, toàn thể đại biểu Quốc hội đã nhiệt liệt biểu quyết chuẩn y cờ đỏ sao vàng là Quốc kỳ của nước Việt Nam và bài *Tiến quân ca* là Quốc ca. [Nguồn: Báo Quân đội nhân dân - Quốc hội khóa I (1946-1960), https://www.qdnd.vn/ho-so-su-kien/bau-cu-dai-bieu-quoc-hoi-va-dai-bieu-hdnd-cac-cap/tu-lieu-dien-dan/quoc-hoi-khoa-i-1946-1960-471007]
 
 ![Hình ảnh tư liệu](images/event_20260923_213624.webp)
 
 *Nguồn: Đại biểu dự Kỳ họp thứ nhất, Quốc hội khóa I tại Nhà hát Lớn Hà Nội, 02/03/1946 / TTXVN*
 
 <!-- id: EVT-1780 -->
-*   **06/03/1946:** Chủ tịch Hồ Chí Minh và Vũ Hồng Khanh thay mặt Chính phủ Việt Nam ký với J. Sainteny, đại diện Chính phủ Pháp, bản Hiệp định Sơ bộ.
+*   **06/03/1946:** Chủ tịch Hồ Chí Minh và Vũ Hồng Khanh thay mặt Chính phủ Việt Nam ký với J. Sainteny, đại diện Chính phủ Pháp, bản Hiệp định Sơ bộ. [Nguồn: Báo Điện tử Chính phủ - Những bài học ngoại giao trước ngày toàn quốc kháng chiến, https://baochinhphu.vn/nhung-bai-hoc-ngoai-giao-truoc-ngay-toan-quoc-khang-chien-102213930.htm]
 
 <!-- id: EVT-1781 -->
-*   **09/03/1946:** Ban Thường vụ Trung ương Đảng ra Chỉ thị "Hòa để tiến".
+*   **09/03/1946:** Ban Thường vụ Trung ương Đảng ra Chỉ thị "Hòa để tiến". [Nguồn: Báo Điện tử Chính phủ - Ngoại giao Việt Nam - 80 năm xây dựng, trưởng thành cùng đất nước, https://baochinhphu.vn/ngoai-giao-viet-nam-80-nam-xay-dung-truong-thanh-cung-dat-nuoc-102250825084759039.htm]
 
 <!-- id: EVT-1782 -->
 *   **16/03/1946:** Cố vấn Tối cao Vĩnh Thụy (cựu hoàng Bảo Đại) dẫn đầu Phái đoàn ngoại giao thiện chí của Chính phủ Việt Nam Dân chủ Cộng hòa (gồm Nghiêm Kế Tổ, Nguyễn Công Truyền) lên đường sang Trùng Khánh (Trung Quốc) để đàm phán hữu nghị với chính phủ Trung Hoa Dân quốc, tìm kiếm sự ủng hộ ngoại giao cho nền độc lập và chủ quyền của Việt Nam.
@@ -5776,7 +5776,7 @@
 *   **29/05/1946:** Hội Liên hiệp quốc dân Việt Nam (Liên Việt) được thành lập, cụ Huỳnh Thúc Kháng được suy tôn làm Hội trưởng danh dự nhằm tập hợp khối đại đoàn kết toàn dân tộc.
 
 <!-- id: EVT-1797 -->
-*   **31/05/1946:** Chủ tịch Hồ Chí Minh rời Hà Nội sang thăm chính thức nước Pháp và trao quyền Quyền Chủ tịch nước kiêm Quyền Chủ tịch Chính phủ Việt Nam Dân chủ Cộng hòa cho cụ Huỳnh Thúc Kháng với lời căn dặn nổi tiếng "Dĩ bất biến, ứng vạn biến", chèo lái đất nước qua thời khắc hiểm nghèo (kéo dài đến 21/10/1946).
+*   **31/05/1946:** Chủ tịch Hồ Chí Minh rời Hà Nội sang thăm chính thức nước Pháp và trao quyền Quyền Chủ tịch nước kiêm Quyền Chủ tịch Chính phủ Việt Nam Dân chủ Cộng hòa cho cụ Huỳnh Thúc Kháng với lời căn dặn nổi tiếng "Dĩ bất biến, ứng vạn biến", chèo lái đất nước qua thời khắc hiểm nghèo (kéo dài đến 21/10/1946). [Nguồn: Báo Quân đội nhân dân - Dĩ bất biến ứng vạn biến, https://ct.qdnd.vn/clb-chien-si/di-bat-bien-ung-van-bien-530799]
 
 <!-- id: EVT-1798 -->
 *   **01/06/1946:** Tại Sài Gòn, Cao ủy D'Argenlieu tuyên bố thành lập "Nước Cộng hòa tự trị Nam Kỳ".
@@ -5801,10 +5801,10 @@
 *Nguồn: Chủ tịch Hồ Chí Minh đọc diễn văn tại Tòa thị chính Paris tháng 07/1946 / Getty Images*
 
 <!-- id: EVT-1804 -->
-*   **06/07/1946:** Hội nghị Fontainebleau khai mạc.
+*   **06/07/1946:** Hội nghị Fontainebleau khai mạc. [Nguồn: Báo Nhân Dân - Toàn quốc kháng chiến – khẳng định phẩm giá dân tộc, https://nhandan.vn/toan-quoc-khang-chien-khang-dinh-pham-gia-dan-toc-post678920.html]
 
 <!-- id: EVT-1805 -->
-*   **12/07/1946:** Vụ án phố Ôn Như Hầu xảy ra. Công an xung phong đã khám xét trụ sở của Việt Nam Quốc dân Đảng, phá tan âm mưu lật đổ chính quyền của các thế lực đối lập.
+*   **12/07/1946:** Vụ án phố Ôn Như Hầu xảy ra. Công an xung phong đã khám xét trụ sở của Việt Nam Quốc dân Đảng, phá tan âm mưu lật đổ chính quyền của các thế lực đối lập. [Nguồn: Báo Nhân Dân - Vụ án phố Ôn Như Hầu - Bài học kinh nghiệm về bảo vệ chính quyền cách mạng ngày đầu mới thành lập, https://nhandan.vn/vu-an-pho-on-nhu-hau-bai-hoc-kinh-nghiem-ve-bao-ve-chinh-quyen-cach-mang-ngay-dau-moi-thanh-lap-post237866.html]
 
 <!-- id: EVT-1806 -->
 *   **22/07/1946:** Đảng Xã hội Việt Nam được thành lập, nhằm mục đích đoàn kết giới trí thức yêu nước và dân chủ.
@@ -5829,7 +5829,7 @@
 *   **27/08/1946:** Bản quyết nghị đổi tên Sài Gòn thành Thành phố Hồ Chí Minh được đăng trên báo *Cứu Quốc*, từ một sáng kiến cá nhân đã trở thành tiếng nói phản ánh tâm tư, nguyện vọng của đông đảo nhân dân Sài Gòn - Gia Định và Nam Bộ lúc bấy giờ.
 
 <!-- id: EVT-1812 -->
-*   **14/09/1946:** Trong chuyến thăm chính thức nước Pháp kéo dài gần 5 tháng, Chủ tịch Hồ Chí Minh đã ký với Bộ trưởng Pháp quốc Hải ngoại Marius Moutet bản **Tạm ước Việt - Pháp (Modus Vivendi)** tại Paris, nhân nhượng thêm một số quyền lợi kinh tế - văn hóa cho Pháp để có thêm thời gian hòa hoãn quý báu củng cố chính quyền và chuẩn bị kháng chiến toàn quốc.
+*   **14/09/1946:** Trong chuyến thăm chính thức nước Pháp kéo dài gần 5 tháng, Chủ tịch Hồ Chí Minh đã ký với Bộ trưởng Pháp quốc Hải ngoại Marius Moutet bản **Tạm ước Việt - Pháp (Modus Vivendi)** tại Paris, nhân nhượng thêm một số quyền lợi kinh tế - văn hóa cho Pháp để có thêm thời gian hòa hoãn quý báu củng cố chính quyền và chuẩn bị kháng chiến toàn quốc. [Nguồn: Bảo tàng Lịch sử Quốc gia - 67 năm ký kết Tạm ước Việt - Pháp (14/9/1946 - 14/9/2013), https://baotanglichsu.vn/vi/Articles/3097/15067/67-nam-ky-ket-tam-uoc-viet-phap-14-9-1946-14-9-2013.html]
 
 <!-- id: EVT-1813 -->
 *   **21/09/1946:** Việt Nam Dân chủ Xã hội Đảng (Đảng Dân Xã) được thành lập bởi Huỳnh Phú Sổ, giáo chủ Phật giáo Hòa Hảo.
@@ -5838,7 +5838,7 @@
 *   **20/10/1946:** Chủ tịch Hồ Chí Minh về đến cảng Hải Phòng trên chiến hạm *Dumont d'Urville* sau chuyến thăm ngoại giao chính thức nước Pháp kéo dài gần 5 tháng, được đồng bào cả nước nhiệt liệt chào đón.
 
 <!-- id: EVT-1815 -->
-*   **28/10 - 09/11/1946:** Quốc hội khóa I họp kỳ thứ hai, thông qua Hiến pháp đầu tiên của nước Việt Nam Dân chủ Cộng hòa (Hiến pháp năm 1946), trong đó Điều thứ 3 chính thức quy định: "Cờ của nước Việt Nam Dân chủ Cộng hòa hình chữ nhật, nền đỏ, ở giữa có ngôi sao vàng năm cánh. Quốc ca là bài Tiến quân ca".
+*   **28/10 - 09/11/1946:** Quốc hội khóa I họp kỳ thứ hai, thông qua Hiến pháp đầu tiên của nước Việt Nam Dân chủ Cộng hòa (Hiến pháp năm 1946), trong đó Điều thứ 3 chính thức quy định: "Cờ của nước Việt Nam Dân chủ Cộng hòa hình chữ nhật, nền đỏ, ở giữa có ngôi sao vàng năm cánh. Quốc ca là bài Tiến quân ca". [Nguồn: Báo Nhân Dân - 5 bản Hiến pháp của nước Việt Nam, https://special.nhandan.vn/5-ban-Hien-phap-cua-Viet-Nam/index.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_213623.webp)
 
@@ -5898,7 +5898,7 @@
 *Nguồn: Chiến sĩ ôm bom ba càng chặn xe tăng Pháp tại phố Hàng Đậu, Hà Nội 12/1946 / Nguyễn Bá Khoản & Đặng Tích (Wikimedia Commons, CC BY-SA 4.0)*
 
 <!-- id: EVT-1831 -->
-*   **20:03, 19/12/1946:** Điện trong toàn thành phố phụt tắt, pháo đài Láng nổ phát súng lệnh tổng công kích, chính thức báo hiệu toàn quốc kháng chiến. Tới 20:30, chính phủ Việt Nam đã phát đi **Lời kêu gọi Toàn quốc kháng chiến** của Chủ tịch Hồ Chí Minh với câu nói bất hủ: *"Chúng ta thà hy sinh tất cả, chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ."* Cùng đêm đó, Bộ trưởng Bộ Quốc phòng kiêm Tổng Chỉ huy Võ Nguyên Giáp ra Mệnh lệnh chiến đấu gửi toàn thể Vệ quốc đoàn và Dân quân tự vệ: *"Tổ quốc lâm nguy! Giờ chiến đấu đã đến!... Nhất tề xông tới tiêu diệt quân xâm lược!"*.
+*   **20:03, 19/12/1946:** Điện trong toàn thành phố phụt tắt, pháo đài Láng nổ phát súng lệnh tổng công kích, chính thức báo hiệu toàn quốc kháng chiến. Tới 20:30, chính phủ Việt Nam đã phát đi **Lời kêu gọi Toàn quốc kháng chiến** của Chủ tịch Hồ Chí Minh với câu nói bất hủ: *"Chúng ta thà hy sinh tất cả, chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ."* Cùng đêm đó, Bộ trưởng Bộ Quốc phòng kiêm Tổng Chỉ huy Võ Nguyên Giáp ra Mệnh lệnh chiến đấu gửi toàn thể Vệ quốc đoàn và Dân quân tự vệ: *"Tổ quốc lâm nguy! Giờ chiến đấu đã đến!... Nhất tề xông tới tiêu diệt quân xâm lược!"*. [Nguồn: Báo Nhân Dân - Quyết tử để Tổ quốc quyết sinh (19/12/1946-17/2/1947), https://special.nhandan.vn/Quyet-tu-de-To-quoc-quyet-sinh/index.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_213622.webp)
 

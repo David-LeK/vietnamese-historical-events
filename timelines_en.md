@@ -5692,7 +5692,7 @@
 *   **Jan. 1, 1946:** The Provisional Government was reformed into the Provisional Coalition Government, with added members from Viet Quoc and Viet Cach parties.
 
 <!-- id: EVT-1773 -->
-*   **Jan. 6, 1946:** The first General Election to elect the 1st National Assembly was held nationwide.
+*   **Jan. 6, 1946:** The first General Election to elect the 1st National Assembly was held nationwide. [Source: Vietnam Government Portal - The 1946 General Election: Freedom, equality, democracy, solidarity, https://baochinhphu.vn/tong-tuyen-cu-1946-la-tu-do-binh-dang-dan-chu-doan-ket-102195907.htm]
 
 ![Historical Image](images/event_20260923_123208.webp)
 
@@ -5717,17 +5717,17 @@
 
 ### **Period of Détente and Preparation for Nationwide Resistance (Mar. 1946 - Dec. 1946)**
 
-*   **Mar. 2, 1946:** The 1st National Assembly held its opening session at Hanoi Opera House, electing Nguyen Van To as Chairman of the Standing Committee of the National Assembly and electing Ho Chi Minh as President of the Coalition Resistance Government; patriot Huynh Thuc Khang was invited to serve as Minister of the Interior, and comrade Vo Nguyen Giap was elected Chairman of the Military Commission (overseeing national defense). The assembly unanimously affirmed the red flag with a yellow star as the National Flag and "Tien Quan Ca" as the National Anthem.
+*   **Mar. 2, 1946:** The 1st National Assembly held its opening session at Hanoi Opera House, electing Nguyen Van To as Chairman of the Standing Committee of the National Assembly and electing Ho Chi Minh as President of the Coalition Resistance Government; patriot Huynh Thuc Khang was invited to serve as Minister of the Interior, and comrade Vo Nguyen Giap was elected Chairman of the Military Commission (overseeing national defense). The assembly unanimously affirmed the red flag with a yellow star as the National Flag and "Tien Quan Ca" as the National Anthem. [Source: People's Army Newspaper - The 1st National Assembly (1946-1960), https://www.qdnd.vn/ho-so-su-kien/bau-cu-dai-bieu-quoc-hoi-va-dai-bieu-hdnd-cac-cap/tu-lieu-dien-dan/quoc-hoi-khoa-i-1946-1960-471007]
 
 ![Historical Image](images/event_20260923_213624.webp)
 
 *Source: Delegates to the first session of the 1st National Assembly at the Hanoi Opera House, Mar. 2, 1946 / TTXVN*
 
 <!-- id: EVT-1780 -->
-*   **Mar. 6, 1946:** President Ho Chi Minh and Vu Hong Khanh, on behalf of the Vietnamese Government, signed the Preliminary Agreement with J. Sainteny, representative of the French Government.
+*   **Mar. 6, 1946:** President Ho Chi Minh and Vu Hong Khanh, on behalf of the Vietnamese Government, signed the Preliminary Agreement with J. Sainteny, representative of the French Government. [Source: Vietnam Government Portal - Diplomatic lessons prior to National Resistance Day, https://baochinhphu.vn/nhung-bai-hoc-ngoai-giao-truoc-ngay-toan-quoc-khang-chien-102213930.htm]
 
 <!-- id: EVT-1781 -->
-*   **Mar. 9, 1946:** The Party Central Standing Committee issued the directive "Peace to Advance."
+*   **Mar. 9, 1946:** The Party Central Standing Committee issued the directive "Peace to Advance." [Source: Vietnam Government Portal - Vietnamese Diplomacy: 80 years of development and maturity alongside the nation, https://baochinhphu.vn/ngoai-giao-viet-nam-80-nam-xay-dung-truong-thanh-cung-dat-nuoc-102250825084759039.htm]
 
 <!-- id: EVT-1782 -->
 *   **Mar. 16, 1946:** Supreme Advisor Vinh Thuy (former Emperor Bao Dai) led a diplomatic goodwill delegation of the Democratic Republic of Vietnam (including Nghiem Ke To and Nguyen Cong Truyen) to Chongqing (China) to conduct talks with the Republic of China government, seeking international diplomatic recognition for Vietnam's sovereignty.
@@ -5775,7 +5775,7 @@
 *   **May 29, 1946:** The Vietnamese National Popular League (Lien Viet) was established, with Huynh Thuc Khang serving as President to unite broad patriotic strata across the nation.
 
 <!-- id: EVT-1797 -->
-*   **May 31, 1946:** President Ho Chi Minh departed for an official state visit to France, entrusting Huynh Thuc Khang as Acting State President and Acting Head of Government with the famous maxim "Adapt to all changes with an unchanging purpose" (Di bat bien, ung van bien) to steer the fledgling republic through perilous times until Oct. 21, 1946.
+*   **May 31, 1946:** President Ho Chi Minh departed for an official state visit to France, entrusting Huynh Thuc Khang as Acting State President and Acting Head of Government with the famous maxim "Adapt to all changes with an unchanging purpose" (Di bat bien, ung van bien) to steer the fledgling republic through perilous times until Oct. 21, 1946. [Source: People's Army Newspaper - Adapting to all changes with an unchanging purpose, https://ct.qdnd.vn/clb-chien-si/di-bat-bien-ung-van-bien-530799]
 
 <!-- id: EVT-1798 -->
 *   **Jun. 1, 1946:** In Saigon, High Commissioner D'Argenlieu announced the establishment of the "Autonomous Republic of Cochinchina."
@@ -5800,10 +5800,10 @@
 *Source: President Ho Chi Minh delivering a speech at Paris City Hall in July 1946 / Getty Images*
 
 <!-- id: EVT-1804 -->
-*   **Jul. 6, 1946:** The Fontainebleau Conference opened.
+*   **Jul. 6, 1946:** The Fontainebleau Conference opened. [Source: Nhan Dan Newspaper - National Resistance: Affirming national dignity, https://nhandan.vn/toan-quoc-khang-chien-khang-dinh-pham-gia-dan-toc-post678920.html]
 
 <!-- id: EVT-1805 -->
-*   **Jul. 12, 1946:** The "On Nhu Hau Street Affair" occurred. The police forces of the Democratic Republic of Vietnam raided the headquarters of the Vietnam Nationalist Party (VNQDD), dismantling a plot to overthrow the government.
+*   **Jul. 12, 1946:** The "On Nhu Hau Street Affair" occurred. The police forces of the Democratic Republic of Vietnam raided the headquarters of the Vietnam Nationalist Party (VNQDD), dismantling a plot to overthrow the government. [Source: Nhan Dan Newspaper - The On Nhu Hau Street Affair: Lessons on defending revolutionary government in its early days, https://nhandan.vn/vu-an-pho-on-nhu-hau-bai-hoc-kinh-nghiem-ve-bao-ve-chinh-quyen-cach-mang-ngay-dau-moi-thanh-lap-post237866.html]
 
 <!-- id: EVT-1806 -->
 *   **Jul. 22, 1946:** The Vietnam Socialist Party was founded, aiming to unite patriotic intellectuals.
@@ -5828,7 +5828,7 @@
 *   **Aug. 27, 1946:** The proposal and resolution by the 57 Southern intellectuals to rename Saigon to Ho Chi Minh City were published in the *Cuu Quoc* (National Salvation) newspaper, transforming an individual initiative into a widespread reflection of the people's aspirations in Saigon - Gia Dinh and the South.
 
 <!-- id: EVT-1812 -->
-*   **Sep. 14, 1946:** During his nearly five-month official state visit to France, President Ho Chi Minh signed the **Franco-Vietnamese Modus Vivendi** with French Overseas Minister Marius Moutet in Paris, making concessions on certain economic and cultural interests to gain vital peace time to strengthen the revolutionary administration and prepare for national resistance.
+*   **Sep. 14, 1946:** During his nearly five-month official state visit to France, President Ho Chi Minh signed the **Franco-Vietnamese Modus Vivendi** with French Overseas Minister Marius Moutet in Paris, making concessions on certain economic and cultural interests to gain vital peace time to strengthen the revolutionary administration and prepare for national resistance. [Source: Vietnam National Museum of History - 67th anniversary of signing the Franco-Vietnamese Modus Vivendi (Sep. 14, 1946 - Sep. 14, 2013), https://baotanglichsu.vn/vi/Articles/3097/15067/67-nam-ky-ket-tam-uoc-viet-phap-14-9-1946-14-9-2013.html]
 
 <!-- id: EVT-1813 -->
 *   **Sep. 21, 1946:** The Vietnam Democratic Social Party (Dan Chu Xa Hoi Dang or Dan Xa) was founded by Huynh Phu So, the founder of Hoa Hao Buddhism.
@@ -5837,7 +5837,7 @@
 *   **Oct. 20, 1946:** President Ho Chi Minh arrived back at Haiphong port aboard the warship *Dumont d'Urville* following his nearly five-month state visit to France, warmly welcomed by the entire nation.
 
 <!-- id: EVT-1815 -->
-*   **Oct. 28 - Nov. 9, 1946:** The 1st National Assembly held its second session, adopting the first Constitution of the Democratic Republic of Vietnam (1946 Constitution), in which Article 3 officially stipulated: "The flag of the Democratic Republic of Vietnam is rectangular with a red background and a five-pointed gold star in the center. The national anthem is Tien Quan Ca".
+*   **Oct. 28 - Nov. 9, 1946:** The 1st National Assembly held its second session, adopting the first Constitution of the Democratic Republic of Vietnam (1946 Constitution), in which Article 3 officially stipulated: "The flag of the Democratic Republic of Vietnam is rectangular with a red background and a five-pointed gold star in the center. The national anthem is Tien Quan Ca". [Source: Nhan Dan Newspaper - The Five Constitutions of Vietnam, https://special.nhandan.vn/5-ban-Hien-phap-cua-Viet-Nam/index.html]
 
 ![Historical Image](images/event_20260923_213623.webp)
 
@@ -5897,7 +5897,7 @@
 *Source: Soldier with a lunge mine blocking a French tank on Hang Dau Street, Hanoi, December 1946 / Nguyen Ba Khoan & Dang Tich (Wikimedia Commons, CC BY-SA 4.0)*
 
 <!-- id: EVT-1831 -->
-*   **20:03, Dec. 19, 1946:** Electricity across the city was cut off, and Lang fortress fired the opening artillery salvo signalling nationwide resistance. At 20:30, the government broadcast President Ho Chi Minh's **Appeal for Nationwide Resistance** with the immortal words: *"We would rather sacrifice everything than lose our country, than be enslaved."* Concurrently, Minister of Defense and Commander-in-Chief Vo Nguyen Giap issued a combat order to all National Guard and self-defense forces: *"The Fatherland is in danger! The hour of combat has struck!... Charge forward together to annihilate the invaders!"*.
+*   **20:03, Dec. 19, 1946:** Electricity across the city was cut off, and Lang fortress fired the opening artillery salvo signalling nationwide resistance. At 20:30, the government broadcast President Ho Chi Minh's **Appeal for Nationwide Resistance** with the immortal words: *"We would rather sacrifice everything than lose our country, than be enslaved."* Concurrently, Minister of Defense and Commander-in-Chief Vo Nguyen Giap issued a combat order to all National Guard and self-defense forces: *"The Fatherland is in danger! The hour of combat has struck!... Charge forward together to annihilate the invaders!"*. [Source: Nhan Dan Newspaper - Determined to brave death for the survival of the Fatherland (Dec. 19, 1946 - Feb. 17, 1947), https://special.nhandan.vn/Quyet-tu-de-To-quoc-quyet-sinh/index.html]
 
 ![Historical Image](images/event_20260923_213622.webp)
 
