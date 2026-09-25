@@ -6239,16 +6239,16 @@
 * **1950:** Martyr Lý Văn Mưu (Chiến sĩ bộ binh thuộc Đại đội 675, Tiểu đoàn 251, Trung đoàn 174, Đại đoàn 316. Hy sinh khi tấn công đồn Đông Khê tháng 10 năm 1950) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland.
 
 <!-- id: EVT-1923 -->
-*   **Jan. 9, 1950:** Thousands of students demonstrated in Saigon demanding the release of arrested peers. The protest was violently suppressed, and student Tran Van On was shot dead. His funeral on January 12 drew hundreds of thousands of people, turning into a massive show of anti-colonial resistance.
+*   **Jan. 9, 1950:** Thousands of students demonstrated in Saigon demanding the release of arrested peers. The protest was violently suppressed, and student Tran Van On was shot dead. His funeral on January 12 drew hundreds of thousands of people, turning into a massive show of anti-colonial resistance. [Source: Vietnam National Museum of History - Students Protest in Saigon (January 9, 1950), https://baotanglichsu.vn/vi/Articles/3097/16673/hoc-sinh-sinh-vien-bieu-tinh-tai-sai-gon-09-01-1950.html]
 
 <!-- id: EVT-1924 -->
-*   **Jan. 14, 1950:** President Ho Chi Minh issued a statement, ready to establish diplomatic relations with all countries.
+*   **Jan. 14, 1950:** President Ho Chi Minh issued a statement, ready to establish diplomatic relations with all countries. [Source: Vietnam National Museum of History - Ho Chi Minh's Declaration of Readiness to Establish Diplomatic Relations (January 14, 1950), https://baotanglichsu.vn/vi/Articles/3097/16667/tuyen-bo-cua-ho-chi-minh-san-sang-dat-quan-he-ngoai-giao-14-01-1950.html]
 
 <!-- id: EVT-1925 -->
-*   **Jan. 18, 1950:** China recognized and established diplomatic relations with the Democratic Republic of Vietnam.
+*   **Jan. 18, 1950:** China recognized and established diplomatic relations with the Democratic Republic of Vietnam. [Source: Vietnam National Museum of History - China Recognizes the Democratic Republic of Vietnam (January 18, 1950), https://baotanglichsu.vn/vi/Articles/3097/16668/trung-quoc-cong-nhan-viet-nam-dan-chu-cong-hoa-18-01-1950.html]
 
 <!-- id: EVT-1926 -->
-*   **Jan. 30, 1950:** The Soviet Union recognized and established diplomatic relations with the Democratic Republic of Vietnam.
+*   **Jan. 30, 1950:** The Soviet Union recognized and established diplomatic relations with the Democratic Republic of Vietnam. [Source: Vietnam National Museum of History - The Soviet Union Recognizes the Democratic Republic of Vietnam (January 30, 1950), https://baotanglichsu.vn/vi/Articles/3097/16669/lien-xo-cong-nhan-viet-nam-dan-chu-cong-hoa-30-01-1950.html]
 
 <!-- id: EVT-1927 -->
 *   **Feb. 1950:** A series of people's democratic countries in Eastern Europe recognized the Democratic Republic of Vietnam.
@@ -6260,13 +6260,13 @@
 *   **Early Feb. 1950:** President Ho Chi Minh had a secret meeting with Soviet leader Joseph Stalin and Chinese leader Mao Zedong in the Soviet Union to request military aid. The Soviet Union and China agreed to provide significant material and military support for Vietnam's anti-French resistance.
 
 <!-- id: EVT-1930 -->
-*   **Feb. 7, 1950:** The US and UK recognized the puppet government of Bao Dai.
+*   **Feb. 7, 1950:** The US and UK recognized the puppet government of Bao Dai. [Source: Vietnam National Museum of History - US and UK Recognize the Bao Dai Government (February 7, 1950), https://baotanglichsu.vn/vi/Articles/3097/16670/my-anh-cong-nhan-chinh-quyen-bao-dai-07-02-1950.html]
 
 <!-- id: EVT-1931 -->
 *   **Feb. 23, 1950:** Raymonde Dien, a young French Communist Party member, lay down on the train tracks at the Saint-Pierre-des-Corps station (Tours, France) to block a train carrying weapons destined for the war in Indochina. She was arrested the same day, but her courageous act became a powerful symbol of the international anti-war movement supporting Vietnam.
 
 <!-- id: EVT-1932 -->
-*   **Mar. 19, 1950:** A massive anti-US and anti-French demonstration involving approximately half a million people erupted in Saigon-Cho Lon. Led by prominent figures including lawyer Nguyen Huu Tho, the protest successfully forced two US warships (the USS *Stickell* and USS *Anderson*) to leave the harbor. This merged with the ongoing student protests to become a major milestone in the urban resistance movement.
+*   **Mar. 19, 1950:** A massive anti-US and anti-French demonstration involving approximately half a million people erupted in Saigon-Cho Lon. Led by prominent figures including lawyer Nguyen Huu Tho, the protest successfully forced two US warships (the USS *Stickell* and USS *Anderson*) to leave the harbor. This merged with the ongoing student protests to become a major milestone in the urban resistance movement. [Source: Vietnam National Museum of History - Anti-US and Anti-French Protests (March 19, 1950), https://baotanglichsu.vn/vi/Articles/3097/16671/bieu-tinh-chong-my-phap-19-03-1950.html]
 
 <!-- id: EVT-1933 -->
 *   **Apr. 1950:** The Republic of China's military garrison withdrew from Woody Island in the Paracels.
@@ -6281,13 +6281,13 @@
 *   **May 1950:** Nguyễn Thị Mỹ Nhung was admitted to the Communist Party of Vietnam (Workers' Party of Vietnam) at the age of 18, in recognition of her courage and unwavering dedication as a covert courier.
 
 <!-- id: EVT-1937 -->
-*   **May 1, 1950:** US President Truman decided to provide $10 million in direct military aid to France in Indochina.
+*   **May 1, 1950:** US President Truman decided to provide $10 million in direct military aid to France in Indochina. [Source: Vietnam National Museum of History - US Military Aid to France (May 1, 1950), https://baotanglichsu.vn/vi/Articles/3097/16672/my-vien-tro-quan-su-cho-phap-01-05-1950.html]
 
 <!-- id: EVT-1938 -->
 *   **May 15, 1950:** Female reconnaissance officer of the An Thi District Public Security (Hung Yen) Bui Thi Cuc (real name Tran Thi Lan, born in 1930) heroically sacrificed her life at Canh Lam market at the age of 20. Previously, she operated as an intelligence agent behind enemy lines, cleverly neutralizing the notorious French outpost commander at Canh Lam. Subjected to brutal torture upon capture, she steadfastly maintained her revolutionary integrity, telling her imprisoned comrades: *"I have taken all responsibility upon myself, let no one confess anything"* and *"They will surely execute me. Even in death, I will not betray anyone, rest assured. I wish you all well. If you meet my mother, please encourage her for me."* Before her execution at the firing squad, she proudly shouted *"Long live President Ho Chi Minh!"*.
 
 <!-- id: EVT-1939 -->
-*   **Jun. 1950:** The Standing Committee of the Party Central Committee resolved to launch the **Border Campaign** (Le Hong Phong II Campaign) and established the Front Party Committee and Command headed by Senior General Vo Nguyen Giap as Secretary and Campaign Commander. This marked the first large-scale strategic offensive actively launched by Vietnamese forces along the Vietnam-China border.
+*   **Jun. 1950:** The Standing Committee of the Party Central Committee resolved to launch the **Border Campaign** (Le Hong Phong II Campaign) and established the Front Party Committee and Command headed by Senior General Vo Nguyen Giap as Secretary and Campaign Commander. This marked the first large-scale strategic offensive actively launched by Vietnamese forces along the Vietnam-China border. [Source: Vietnam National Museum of History - The Border Campaign - Autumn-Winter 1950, https://baotanglichsu.vn/vi/Articles/3097/15703/chien-dich-bien-gioi-thu-dong-1950.html]
 
 ![Historical Image](images/event_20260924_111653.webp)
 
@@ -6297,7 +6297,7 @@
 *   **Sep. 5, 1950:** The Supreme Military Court convened a special trial in Thai Nguyen to prosecute a grave case of embezzlement, bribery, and extravagant waste in the Military Supplies Department, sentencing former Director Tran Du Chau to death. When Comrade Tran Dang Ninh (Head of the General Supply Department) reported the verdict and sought guidance from President Ho Chi Minh regarding the convict's clemency plea, President Ho Chi Minh firmly rejected the petition, imparting a timeless lesson on party discipline and judicial integrity: *"It is the same with pests that hollow out the people. If we must kill one pest to save an entire forest, doing so is necessary, and moreover, humane."*
 
 <!-- id: EVT-1941 -->
-*   **Sep. 16, 1950:** Under the direct command of Senior General Vo Nguyen Giap and with President Ho Chi Minh personally observing and encouraging troops from the Bao Dong Mountain observation post, the Vietnam People's Army launched the attack destroying the Dong Khe fortress, officially opening the Autumn-Winter Border Campaign 1950.
+*   **Sep. 16, 1950:** Under the direct command of Senior General Vo Nguyen Giap and with President Ho Chi Minh personally observing and encouraging troops from the Bao Dong Mountain observation post, the Vietnam People's Army launched the attack destroying the Dong Khe fortress, officially opening the Autumn-Winter Border Campaign 1950. [Source: Vietnam National Museum of History - The Border Campaign - Autumn-Winter 1950, https://baotanglichsu.vn/vi/Articles/3097/15703/chien-dich-bien-gioi-thu-dong-1950.html]
 
 ![Historical Image](images/event_20260923_123321.webp)
 
@@ -6307,7 +6307,7 @@
 *   **Sep. 16, 1950:** During the Battle of Dong Khe in the Border Campaign, soldier La Van Cau bravely asks a comrade to sever his shattered right arm so he can continue carrying explosives to destroy French bunkers, clearing the path for his unit's assault.
 
 <!-- id: EVT-1943 -->
-*   **Sep. 18, 1950:** The Vietnamese forces completely controlled Dong Khe after 54 hours of intense fighting, severing the French defense line on Route 4.
+*   **Sep. 18, 1950:** The Vietnamese forces completely controlled Dong Khe after 54 hours of intense fighting, severing the French defense line on Route 4. [Source: Vietnam National Museum of History - The Border Campaign - Autumn-Winter 1950, https://baotanglichsu.vn/vi/Articles/3097/15703/chien-dich-bien-gioi-thu-dong-1950.html]
 
 <!-- id: EVT-1944 -->
 *   **Oct. 1-8, 1950:** The Vietnamese forces besieged and completely annihilated two elite French mobile groups, the Lepage group and the Charton group, in the Coc Xa - Hill 477 area.

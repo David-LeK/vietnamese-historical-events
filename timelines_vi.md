@@ -6239,16 +6239,16 @@
 * **1950:** Liệt sĩ Lý Văn Mưu (Chiến sĩ bộ binh thuộc Đại đội 675, Tiểu đoàn 251, Trung đoàn 174, Đại đoàn 316. Hy sinh khi tấn công đồn Đông Khê tháng 10 năm 1950) anh dũng hy sinh trong khi thực hiện nhiệm vụ chiến đấu bảo vệ Tổ quốc.
 
 <!-- id: EVT-1923 -->
-*   **09/01/1950:** Hàng ngàn học sinh, sinh viên biểu tình tại Sài Gòn đòi trả tự do cho các học sinh bị bắt. Cuộc biểu tình bị đàn áp, học sinh Trần Văn Ơn trúng đạn hy sinh. Đám tang anh vào ngày 12/01 đã thu hút hàng chục vạn người từ khắp các tỉnh Nam Bộ tham gia, trở thành một cuộc biểu dương lực lượng khổng lồ chống thực dân Pháp và tay sai.
+*   **09/01/1950:** Hàng ngàn học sinh, sinh viên biểu tình tại Sài Gòn đòi trả tự do cho các học sinh bị bắt. Cuộc biểu tình bị đàn áp, học sinh Trần Văn Ơn trúng đạn hy sinh. Đám tang anh vào ngày 12/01 đã thu hút hàng chục vạn người từ khắp các tỉnh Nam Bộ tham gia, trở thành một cuộc biểu dương lực lượng khổng lồ chống thực dân Pháp và tay sai. [Nguồn: Bảo tàng Lịch sử Quốc gia - Học sinh, sinh viên biểu tình tại Sài Gòn (09/01/1950), https://baotanglichsu.vn/vi/Articles/3097/16673/hoc-sinh-sinh-vien-bieu-tinh-tai-sai-gon-09-01-1950.html]
 
 <!-- id: EVT-1924 -->
-*   **14/01/1950:** Chủ tịch Hồ Chí Minh ra Tuyên bố, sẵn sàng đặt quan hệ ngoại giao với các nước.
+*   **14/01/1950:** Chủ tịch Hồ Chí Minh ra Tuyên bố, sẵn sàng đặt quan hệ ngoại giao với các nước. [Nguồn: Bảo tàng Lịch sử Quốc gia - Tuyên bố của Hồ Chí Minh sẵn sàng đặt quan hệ ngoại giao (14/01/1950), https://baotanglichsu.vn/vi/Articles/3097/16667/tuyen-bo-cua-ho-chi-minh-san-sang-dat-quan-he-ngoai-giao-14-01-1950.html]
 
 <!-- id: EVT-1925 -->
-*   **18/01/1950:** Trung Quốc công nhận và thiết lập quan hệ ngoại giao với nước Việt Nam Dân chủ Cộng hòa.
+*   **18/01/1950:** Trung Quốc công nhận và thiết lập quan hệ ngoại giao với nước Việt Nam Dân chủ Cộng hòa. [Nguồn: Bảo tàng Lịch sử Quốc gia - Trung Quốc công nhận Việt Nam Dân chủ Cộng hòa (18/01/1950), https://baotanglichsu.vn/vi/Articles/3097/16668/trung-quoc-cong-nhan-viet-nam-dan-chu-cong-hoa-18-01-1950.html]
 
 <!-- id: EVT-1926 -->
-*   **30/01/1950:** Liên Xô công nhận và thiết lập quan hệ ngoại giao với nước Việt Nam Dân chủ Cộng hòa.
+*   **30/01/1950:** Liên Xô công nhận và thiết lập quan hệ ngoại giao với nước Việt Nam Dân chủ Cộng hòa. [Nguồn: Bảo tàng Lịch sử Quốc gia - Liên Xô công nhận Việt Nam Dân chủ Cộng hòa (30/01/1950), https://baotanglichsu.vn/vi/Articles/3097/16669/lien-xo-cong-nhan-viet-nam-dan-chu-cong-hoa-30-01-1950.html]
 
 <!-- id: EVT-1927 -->
 *   **02/1950:** Hàng loạt các nước dân chủ nhân dân ở Đông Âu công nhận Việt Nam Dân chủ Cộng hòa.
@@ -6260,13 +6260,13 @@
 *   **Đầu tháng 02/1950:** Chủ tịch Hồ Chí Minh có cuộc hội kiến bí mật với lãnh đạo Liên Xô Joseph Stalin và lãnh đạo Trung Quốc Mao Trạch Đông tại Liên Xô để đề nghị viện trợ quân sự. Liên Xô và Trung Quốc đã nhất trí cung cấp sự ủng hộ to lớn về vật chất và trang bị quân sự cho cuộc kháng chiến chống Pháp của Việt Nam.
 
 <!-- id: EVT-1930 -->
-*   **07/02/1950:** Mỹ và Anh công nhận chính phủ bù nhìn Bảo Đại.
+*   **07/02/1950:** Mỹ và Anh công nhận chính phủ bù nhìn Bảo Đại. [Nguồn: Bảo tàng Lịch sử Quốc gia - Mỹ, Anh công nhận chính quyền Bảo Đại (07/02/1950), https://baotanglichsu.vn/vi/Articles/3097/16670/my-anh-cong-nhan-chinh-quyen-bao-dai-07-02-1950.html]
 
 <!-- id: EVT-1931 -->
 *   **23/02/1950:** Raymonde Dien, một đảng viên trẻ của Đảng Cộng sản Pháp, đã nằm xoài trên đường ray tại nhà ga Saint-Pierre-des-Corps (Tours, Pháp) để chặn một đoàn tàu chở vũ khí sang Đông Dương. Bà bị bắt ngay trong ngày, nhưng hành động quả cảm này đã trở thành biểu tượng của phong trào quốc tế chống chiến tranh, ủng hộ Việt Nam.
 
 <!-- id: EVT-1932 -->
-*   **19/03/1950:** Một cuộc biểu tình chống Mỹ và Pháp khổng lồ với khoảng nửa triệu người tham gia đã nổ ra tại Sài Gòn - Chợ Lớn. Dưới sự dẫn dắt của các trí thức như luật sư Nguyễn Hữu Thọ, cuộc biểu tình đã buộc hai tàu chiến Mỹ (soái hạm *Stickell* và khu trục hạm *Anderson*) phải nhổ neo rời khỏi cảng. Đây là cuộc biểu tình chống can thiệp Mỹ quy mô lớn đầu tiên tại Việt Nam.
+*   **19/03/1950:** Một cuộc biểu tình chống Mỹ và Pháp khổng lồ với khoảng nửa triệu người tham gia đã nổ ra tại Sài Gòn - Chợ Lớn. Dưới sự dẫn dắt của các trí thức như luật sư Nguyễn Hữu Thọ, cuộc biểu tình đã buộc hai tàu chiến Mỹ (soái hạm *Stickell* và khu trục hạm *Anderson*) phải nhổ neo rời khỏi cảng. Đây là cuộc biểu tình chống can thiệp Mỹ quy mô lớn đầu tiên tại Việt Nam. [Nguồn: Bảo tàng Lịch sử Quốc gia - Biểu tình chống Mỹ, Pháp (19/03/1950), https://baotanglichsu.vn/vi/Articles/3097/16671/bieu-tinh-chong-my-phap-19-03-1950.html]
 
 <!-- id: EVT-1933 -->
 *   **04/1950:** Đơn vị đồn trú của quân đội Trung Hoa Dân quốc rút khỏi đảo Phú Lâm ở Hoàng Sa.
@@ -6281,13 +6281,13 @@
 *   **05/1950:** Nguyễn Thị Mỹ Nhung vinh dự được kết nạp vào Đảng Cộng sản Việt Nam (Đảng Lao động Việt Nam) khi mới 18 tuổi, ghi nhận bản lĩnh và tinh thần kiên trung trong công tác giao liên bí mật.
 
 <!-- id: EVT-1937 -->
-*   **01/05/1950:** Tổng thống Mỹ Truman quyết định viện trợ quân sự trực tiếp 10 triệu USD cho Pháp ở Đông Dương.
+*   **01/05/1950:** Tổng thống Mỹ Truman quyết định viện trợ quân sự trực tiếp 10 triệu USD cho Pháp ở Đông Dương. [Nguồn: Bảo tàng Lịch sử Quốc gia - Mỹ viện trợ quân sự cho Pháp (01/05/1950), https://baotanglichsu.vn/vi/Articles/3097/16672/my-vien-tro-quan-su-cho-phap-01-05-1950.html]
 
 <!-- id: EVT-1938 -->
 *   **15/05/1950:** Nữ chiến sĩ trinh sát Công an huyện Ân Thi (Hưng Yên) Bùi Thị Cúc (tên thật là Trần Thị Lan, sinh năm 1930) anh dũng hy sinh tại chợ Cảnh Lâm ở tuổi 20. Trước đó, bà hoạt động điệp báo trong lòng địch, mưu trí tiêu diệt tên đồn trưởng Cảnh Lâm khét tiếng ác ôn. Khi bị địch bắt và tra tấn tàn bạo, bà kiên trung giữ trọn khí tiết cách mạng, nhắn nhủ đồng đội: *"Tôi nhận cả về tôi rồi, đừng ai khai gì cả"* và *"Thế nào nó cũng giết tôi. Dù chết tôi cũng không khai ai cả, các đồng chí cứ yên tâm. Chúc các đồng chí ở lại mạnh khỏe. Có gặp mẹ tôi, nhờ các đồng chí động viên cụ giúp tôi."* Trước lúc hy sinh tại pháp trường, bà hiên ngang hô lớn *"Hồ Chủ tịch muôn năm!"*.
 
 <!-- id: EVT-1939 -->
-*   **06/1950:** Ban Thường vụ Trung ương Đảng quyết định mở **Chiến dịch Biên giới** (Chiến dịch Lê Hồng Phong II) và thành lập Đảng ủy kiêm Bộ Chỉ huy Mặt trận do Đại tướng Võ Nguyên Giáp làm Bí thư kiêm Chỉ huy trưởng chiến dịch. Đây là chiến dịch tiến công quy mô lớn đầu tiên do quân ta chủ động mở trên dải biên giới Việt - Trung.
+*   **06/1950:** Ban Thường vụ Trung ương Đảng quyết định mở **Chiến dịch Biên giới** (Chiến dịch Lê Hồng Phong II) và thành lập Đảng ủy kiêm Bộ Chỉ huy Mặt trận do Đại tướng Võ Nguyên Giáp làm Bí thư kiêm Chỉ huy trưởng chiến dịch. Đây là chiến dịch tiến công quy mô lớn đầu tiên do quân ta chủ động mở trên dải biên giới Việt - Trung. [Nguồn: Bảo tàng Lịch sử Quốc gia - Chiến dịch Biên giới - Thu Đông 1950, https://baotanglichsu.vn/vi/Articles/3097/15703/chien-dich-bien-gioi-thu-dong-1950.html]
 
 ![Hình ảnh tư liệu](images/event_20260924_111653.webp)
 
@@ -6297,7 +6297,7 @@
 *   **05/09/1950:** Tòa án binh tối cao mở phiên tòa đặc biệt tại Thái Nguyên xét xử vụ án tham ô công quỹ, nhận hối lộ và sống xa hoa lãng phí nghiêm trọng tại Cục Quân nhu, tuyên phạt tử hình nguyên Cục trưởng Trần Dụ Châu. Khi đồng chí Trần Đăng Ninh (Tổng cục trưởng Tổng cục Cung cấp) báo cáo và xin ý kiến chỉ đạo của Chủ tịch Hồ Chí Minh về lá đơn xin ân xá của can phạm, Bác Hồ đã kiên quyết bác đơn tha tội chết và căn dặn bài học sâu sắc về kỷ luật Đảng cùng sự nghiêm minh của pháp luật: *"Với loài sâu mọt đục khoét nhân dân cũng thế. Nếu phải giết đi một con mà cứu được cả rừng cây thì việc đó là cần thiết, hơn nữa là nhân đạo."*
 
 <!-- id: EVT-1941 -->
-*   **16/09/1950:** Dưới sự chỉ huy trực tiếp của Đại tướng Võ Nguyên Giáp và sự quan sát, động viên của Chủ tịch Hồ Chí Minh trên đài quan sát núi Báo Đông, Quân đội Nhân dân Việt Nam nổ súng tiến công tiêu diệt cứ điểm Đông Khê, chính thức mở màn Chiến dịch Biên giới Thu Đông 1950.
+*   **16/09/1950:** Dưới sự chỉ huy trực tiếp của Đại tướng Võ Nguyên Giáp và sự quan sát, động viên của Chủ tịch Hồ Chí Minh trên đài quan sát núi Báo Đông, Quân đội Nhân dân Việt Nam nổ súng tiến công tiêu diệt cứ điểm Đông Khê, chính thức mở màn Chiến dịch Biên giới Thu Đông 1950. [Nguồn: Bảo tàng Lịch sử Quốc gia - Chiến dịch Biên giới - Thu Đông 1950, https://baotanglichsu.vn/vi/Articles/3097/15703/chien-dich-bien-gioi-thu-dong-1950.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_123321.webp)
 
@@ -6307,7 +6307,7 @@
 *   **16/09/1950:** Trong trận Đông Khê thuộc Chiến dịch Biên giới Thu Đông 1950, chiến sĩ La Văn Cầu dũng cảm nhờ đồng đội chặt đứt cánh tay phải bị thương để tiếp tục ôm bộc phá đánh phá lô kíp địch, mở đường cho đơn vị tiến công.
 
 <!-- id: EVT-1943 -->
-*   **18/09/1950:** Quân đội Việt Nam hoàn toàn làm chủ Đông Khê sau 54 giờ chiến đấu ác liệt, cắt đôi phòng tuyến của Pháp trên đường số 4.
+*   **18/09/1950:** Quân đội Việt Nam hoàn toàn làm chủ Đông Khê sau 54 giờ chiến đấu ác liệt, cắt đôi phòng tuyến của Pháp trên đường số 4. [Nguồn: Bảo tàng Lịch sử Quốc gia - Chiến dịch Biên giới - Thu Đông 1950, https://baotanglichsu.vn/vi/Articles/3097/15703/chien-dich-bien-gioi-thu-dong-1950.html]
 
 <!-- id: EVT-1944 -->
 *   **01-08/10/1950:** Quân đội Việt Nam bao vây, tiêu diệt hoàn toàn hai binh đoàn tinh nhuệ của Pháp là binh đoàn Lepage và binh đoàn Charton tại khu vực Cốc Xá - điểm cao 477.
