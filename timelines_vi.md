@@ -7093,7 +7093,7 @@
 *   **28/01/1961:** Quân đội Việt Nam Cộng hòa tổ chức càn quét vào rừng Bào Trăng (Nhuận Đức, Củ Chi), nơi đóng căn cứ của Khu ủy Sài Gòn - Gia Định. Lực lượng cách mạng phải rút lui, mất mát một số tài liệu và trang bị.
 
 <!-- id: EVT-2195 -->
-*   **15/02/1961:** Các lực lượng vũ trang cách mạng ở miền Nam được thống nhất thành **Quân Giải phóng miền Nam Việt Nam** (bộ phận quân sự của Mặt trận Dân tộc Giải phóng miền Nam Việt Nam) tại Chiến khu Đ. Trong buổi lễ ra mắt, đại diện Ủy ban Trung ương Mặt trận đã trao cho Quân Giải phóng lá **Quân kỳ** thiêng liêng (cờ Giải phóng nửa đỏ nửa xanh sao vàng) thêu dòng chữ vàng: *"Giải phóng quân anh dũng chiến thắng"*, mở đầu trang sử hào hùng của các lực lượng vũ trang giải phóng trên chiến trường miền Nam.
+*   **15/02/1961:** Các lực lượng vũ trang cách mạng ở miền Nam được thống nhất thành **Quân Giải phóng miền Nam Việt Nam** (bộ phận quân sự của Mặt trận Dân tộc Giải phóng miền Nam Việt Nam) tại Chiến khu Đ. Trong buổi lễ ra mắt, đại diện Ủy ban Trung ương Mặt trận đã trao cho Quân Giải phóng lá **Quân kỳ** thiêng liêng (cờ Giải phóng nửa đỏ nửa xanh sao vàng) thêu dòng chữ vàng: *"Giải phóng quân anh dũng chiến thắng"*, mở đầu trang sử hào hùng của các lực lượng vũ trang giải phóng trên chiến trường miền Nam. [Nguồn: Báo Nhân Dân - Quân Giải phóng miền nam Việt Nam 15 năm xây dựng, chiến đấu và trưởng thành, https://special.nhandan.vn/15_nam_quan_giai_phong_mien_nam/index.html]
 
 <!-- id: EVT-2196 -->
 *   **03/1961:** Chính phủ nước Việt Nam có chuyến thăm chính thức đầu tiên đến Cuba do Bộ trưởng Văn hóa Hoàng Minh Giám làm Trưởng đoàn. Trong chuyến thăm, Fidel Castro đã gợi ý cử thanh niên Việt Nam sang Cuba học tiếng Tây Ban Nha.
@@ -7117,7 +7117,7 @@
 *   **20/09/1961:** Khu ủy Sài Gòn - Gia Định mở Hội nghị Quân sự lần thứ nhất, phân chia chiến trường thành 3 vùng: vùng căn cứ giải phóng (lấy vũ trang làm chính), vùng tranh chấp ven đô (kết hợp chính trị và vũ trang) và vùng nội thành (lấy đấu tranh chính trị làm chính).
 
 <!-- id: EVT-2203 -->
-*   **23/10/1961:** Bộ trưởng Bộ Quốc phòng Đại tướng Võ Nguyên Giáp ký ban hành Quyết định số 97/QP thành lập **Đoàn 759** (tiền thân của Lữ đoàn 125 Hải quân) với mật danh "Đoàn tàu Không số", do Trung tá Đoàn Hồng Phước làm Đoàn trưởng. Đơn vị có nhiệm vụ mở tuyến vận tải quân sự chiến lược bí mật trên Biển Đông (Đường mòn Hồ Chí Minh trên biển), vận chuyển vũ khí hạng nặng, đạn dược và cán bộ chi viện cho các chiến trường Nam Bộ và Nam Trung Bộ.
+*   **23/10/1961:** Bộ trưởng Bộ Quốc phòng Đại tướng Võ Nguyên Giáp ký ban hành Quyết định số 97/QP thành lập **Đoàn 759** (tiền thân của Lữ đoàn 125 Hải quân) với mật danh "Đoàn tàu Không số", do Trung tá Đoàn Hồng Phước làm Đoàn trưởng. Đơn vị có nhiệm vụ mở tuyến vận tải quân sự chiến lược bí mật trên Biển Đông (Đường mòn Hồ Chí Minh trên biển), vận chuyển vũ khí hạng nặng, đạn dược và cán bộ chi viện cho các chiến trường Nam Bộ và Nam Trung Bộ. [Nguồn: Báo Nhân Dân - Đường Hồ Chí Minh trên biển và đường Trường Sơn, https://special.nhandan.vn/duong-Ho-Chi-Minh-tren-bien-va-duong-Truong-Son/index.html]
 
 <!-- id: EVT-2204 -->
 *   **30/10/1961:** Bộ Ngoại giao Việt Nam Dân chủ Cộng hòa gửi công hàm cho 103 quốc gia trên thế giới tố cáo hành động phá hoại Hiệp định Giơnevơ của Mỹ.
@@ -7151,7 +7151,7 @@
 *Nguồn: Chủ tịch Hồ Chí Minh chỉ huy dàn nhạc khoảng năm 1962 / Getty Images*
 
 <!-- id: EVT-2213 -->
-* **09/01/1962:** Liệt sĩ Phan Thị Ràng (nữ chiến sĩ cách mạng tại Hòn Đất, Kiên Giang, nguyên mẫu nhân vật chị Sứ trong tiểu thuyết "Hòn Đất") kiên cường chịu đựng tra tấn và anh dũng hy sinh.
+* **09/01/1962:** Liệt sĩ Phan Thị Ràng (nữ chiến sĩ cách mạng tại Hòn Đất, Kiên Giang, nguyên mẫu nhân vật chị Sứ trong tiểu thuyết "Hòn Đất") kiên cường chịu đựng tra tấn và anh dũng hy sinh. [Nguồn: Báo Nhân Dân - Tưởng niệm 62 năm ngày hy sinh nữ Anh hùng Phan Thị Ràng, https://nhandan.vn/tuong-niem-62-nam-ngay-hy-sinh-nu-anh-hung-phan-thi-rang-post791277.html]
 
 <!-- id: EVT-2214 -->
 *   **12/01/1962:** **Chiến dịch Chopper (Operation Chopper):** Đánh dấu bước can thiệp vũ trang trực tiếp của Mỹ trong chiến lược "Chiến tranh đặc biệt", quân đội Mỹ điều động 33 trực thăng CH-21C chở hơn 1.000 lính quân đội Sài Gòn mở cuộc càn quét mang tên Chopper vào vùng căn cứ kháng chiến và lực lượng vũ trang cách mạng tại Củ Chi - Hóc Môn. Đây là lần đầu tiên đế quốc Mỹ đưa chiến thuật "trực thăng vận" vào thử nghiệm trên chiến trường miền Nam Việt Nam hòng tiêu diệt cơ sở cách mạng của nhân dân Việt Nam.
@@ -7179,7 +7179,7 @@
 *   **24/07/1962:** Nói chuyện tại Hội nghị cán bộ cao cấp của Đảng và Nhà nước, Chủ tịch Hồ Chí Minh đã phát động cuộc vận động nâng cao ý thức trách nhiệm, tăng cường quản lý kinh tế tài chính, chống tham ô, lãng phí, quan liêu. Người coi tệ tham ô, lãng phí, quan liêu là cái ung nhọt do xã hội cũ để lại cần phải gạt bỏ cho thật sạch để cơ thể đất nước ngày càng khỏe mạnh.
 
 <!-- id: EVT-2221 -->
-*   **11/10/1962:** Chiếc tàu gỗ gắn máy đầu tiên của Đoàn 759 mang tên "Phương Đông 1" (do Thuyền trưởng Lê Văn Một và Chính trị viên Bông Văn Dĩa chỉ huy) bí mật xuất phát từ bến K15 (Đồ Sơn, Hải Phòng) chở 30 tấn vũ khí. Đến ngày 16/10/1962, tàu cập bến Vàm Lũng (Cà Mau) an toàn, chính thức khai thông tuyến vận chuyển vũ khí huyền thoại Đường mòn Hồ Chí Minh trên biển.
+*   **11/10/1962:** Chiếc tàu gỗ gắn máy đầu tiên của Đoàn 759 mang tên "Phương Đông 1" (do Thuyền trưởng Lê Văn Một và Chính trị viên Bông Văn Dĩa chỉ huy) bí mật xuất phát từ bến K15 (Đồ Sơn, Hải Phòng) chở 30 tấn vũ khí. Đến ngày 16/10/1962, tàu cập bến Vàm Lũng (Cà Mau) an toàn, chính thức khai thông tuyến vận chuyển vũ khí huyền thoại Đường mòn Hồ Chí Minh trên biển. [Nguồn: Báo Nhân Dân - Từ điểm xuất phát của những con tàu không số, https://nhandan.vn/tu-diem-xuat-phat-cua-nhung-con-tau-khong-so-post558083.html]
 
 <!-- id: EVT-2222 -->
 *   **26/10/1962:** Nữ chiến sĩ biệt động Lê Thị Thu Nguyệt cùng đồng đội thuộc Đội Biệt động 159 thực hiện trận đánh bom bằng lựu đạn tại khu vực triển lãm quân sự ở Công trường Lam Sơn (Sài Gòn), phá hủy chiếc máy bay trực thăng UH-1A tối tân đang được trưng bày, làm rung chuyển trung tâm đầu não của ngụy quyền Sài Gòn.
@@ -7194,7 +7194,7 @@
 *   **1963 - 1968:** Trần Văn Lai hoạt động biệt động tại Sài Gòn dưới vỏ bọc nhà thầu khoán. Ông xâm nhập các cơ quan đầu não như Dinh Độc Lập và cơ quan viện trợ hậu cần Mỹ (USOM), thu thập tình báo và bí mật vẽ bản đồ hệ thống cống ngầm Sài Gòn cho Quân Giải phóng.
 
 <!-- id: EVT-2226 -->
-*   **02/01/1963:** **Trận Ấp Bắc (Mỹ Tho):** Khoảng 350 quân của Quân Giải phóng miền Nam Việt Nam đã đánh bại cuộc hành quân càn quét quy mô lớn "Đức Thắng 01-1963" của gần 1.800 ngụy quân VNCH do cố vấn Mỹ chỉ huy. Dù đối phương sử dụng chiến thuật "trực thăng vận" và "thiết xa vận" tân kỳ, Quân Giải phóng đã gây thiệt hại nặng nề (hơn 80 lính ngụy chết, bắn rơi 5 trực thăng, bắn cháy nhiều xe thiết giáp M113). Đây là chiến thắng lớn đầu tiên của Quân Giải phóng trước ngụy quân chính quy VNCH, đánh dấu sự thất bại bước đầu của chiến lược "Chiến tranh đặc biệt".
+*   **02/01/1963:** **Trận Ấp Bắc (Mỹ Tho):** Khoảng 350 quân của Quân Giải phóng miền Nam Việt Nam đã đánh bại cuộc hành quân càn quét quy mô lớn "Đức Thắng 01-1963" của gần 1.800 ngụy quân VNCH do cố vấn Mỹ chỉ huy. Dù đối phương sử dụng chiến thuật "trực thăng vận" và "thiết xa vận" tân kỳ, Quân Giải phóng đã gây thiệt hại nặng nề (hơn 80 lính ngụy chết, bắn rơi 5 trực thăng, bắn cháy nhiều xe thiết giáp M113). Đây là chiến thắng lớn đầu tiên của Quân Giải phóng trước ngụy quân chính quy VNCH, đánh dấu sự thất bại bước đầu của chiến lược "Chiến tranh đặc biệt". [Nguồn: Báo Nhân Dân - Chiến thắng Ấp Bắc, https://nhandan.vn/chien-thang-ap-bac-danh-dau-that-bai-chien-thuat-truc-thang-van-thiet-xa-van-cua-my-nguy-post220168.html]
 
 ![Hình ảnh tư liệu](images/event_20260924_111702.webp)
 
@@ -7207,7 +7207,7 @@
 *   **08/05/1963:** Sự kiện Đài phát thanh Huế: Lực lượng an ninh và quân đội của chính quyền Ngô Đình Diệm nổ súng và dùng lựu đạn đàn áp cuộc biểu tình ôn hòa của hàng ngàn Phật tử tại Đài Phát thanh Huế phản đối lệnh triệt hạ cờ Phật giáo nhân Đại lễ Phật Đản (chỉ vài ngày sau khi cờ Vatican được treo công khai khắp thành phố mừng lễ Tổng Giám mục Ngô Đình Thục). Vụ nổ súng làm 9 người thiệt mạng (trong đó có trẻ em) và nhiều người bị thương, chính thức châm ngòi cho **cuộc khủng hoảng Phật giáo năm 1963** và làn sóng phản kháng đô thị trên toàn miền Nam.
 
 <!-- id: EVT-2229 -->
-*   **11/06/1963:** Hòa thượng **Thích Quảng Đức** tẩm xăng tự thiêu tại ngã tư đường Phan Đình Phùng và Lê Văn Duyệt (Sài Gòn) để phản đối chính sách kỳ thị và đàn áp Phật giáo của chính quyền Ngô Đình Diệm. Bức ảnh ghi lại khoảnh khắc bi tráng của phóng viên Malcolm Browne đã gây chấn động toàn cầu, tạo áp lực ngoại giao dữ dội lên Washington và châm ngòi cho làn sóng tiếp tục tự thiêu của nhiều chư tăng ni. Thay vì xoa dịu, gia đình Ngô Đình Diệm (tiêu biểu là những phát ngôn miệt thị "nướng thịt" của Trần Lệ Xuân) càng đẩy chính quyền vào thế cô lập cùng cực.
+*   **11/06/1963:** Hòa thượng **Thích Quảng Đức** tẩm xăng tự thiêu tại ngã tư đường Phan Đình Phùng và Lê Văn Duyệt (Sài Gòn) để phản đối chính sách kỳ thị và đàn áp Phật giáo của chính quyền Ngô Đình Diệm. Bức ảnh ghi lại khoảnh khắc bi tráng của phóng viên Malcolm Browne đã gây chấn động toàn cầu, tạo áp lực ngoại giao dữ dội lên Washington và châm ngòi cho làn sóng tiếp tục tự thiêu của nhiều chư tăng ni. Thay vì xoa dịu, gia đình Ngô Đình Diệm (tiêu biểu là những phát ngôn miệt thị "nướng thịt" của Trần Lệ Xuân) càng đẩy chính quyền vào thế cô lập cùng cực. [Nguồn: Tạp chí Cộng sản - Tưởng niệm 50 năm Hòa thượng Thích Quảng Đức tự thiêu, https://www.tapchicongsan.org.vn/web/guest/hoat-ong-cua-lanh-ao-ang-nha-nuoc/-/2018/21739/tuong-niem-50-nam-hoa-thuong-thich-quang-duc-tu-thieu.aspx]
 
 <!-- id: EVT-2230 -->
 *   **20 - 21/08/1963:** Đêm 20 rạng sáng 21/08, Lực lượng Đặc biệt và Cảnh sát Dã chiến dưới sự chỉ đạo trực tiếp của Ngô Đình Nhu đồng loạt mở Chiến dịch Nước lũ bố ráp chùa Xá Lợi (Sài Gòn), chùa Từ Đàm (Huế) cùng hàng trăm ngôi chùa trên toàn miền Nam. Thiết quân luật được ban bố trên toàn quốc; hơn 1.400 tăng ni và Phật tử bị bắt giữ, nhiều cơ sở thờ tự bị tàn phá nặng nề. Vụ bố ráp tàn bạo gây phẫn nộ sâu sắc trong công chúng, giới quân sự và truyền thông quốc tế, đẩy quan hệ giữa Mỹ và gia đình họ Ngô đến bờ vực rạn nứt hoàn toàn.
@@ -7216,7 +7216,7 @@
 *   **24/08/1963:** Bộ Ngoại giao Mỹ gửi **Bức điện tín số 243 (Cable 243 / Telegram 243)** cho tân Đại sứ Henry Cabot Lodge Jr. tại Sài Gòn. Được soạn thảo khẩn cấp trong kỳ nghỉ cuối tuần bởi Roger Hilsman, Michael Forrestal và Averell Harriman, bức điện tuyên bố Mỹ không thể chấp nhận sự lũng đoạn và đàn áp Phật giáo của Ngô Đình Nhu, chỉ thị cho Đại sứ Lodge gây áp lực buộc Diệm phế truất Nhu, đồng thời cho phép bật "đèn xanh" bảo đảm Mỹ sẽ ủng hộ các tướng lĩnh quân đội Việt Nam Cộng hòa tiến hành đảo chính nếu Diệm từ chối.
 
 <!-- id: EVT-2232 -->
-*   **25/08/1963:** Nữ sinh **Quách Thị Trang** (15 tuổi) bị cảnh sát bắn chết tại bùng binh Chợ Bến Thành trong cuộc biểu tình chống chính sách đàn áp Phật giáo.
+*   **25/08/1963:** Nữ sinh **Quách Thị Trang** (15 tuổi) bị cảnh sát bắn chết tại bùng binh Chợ Bến Thành trong cuộc biểu tình chống chính sách đàn áp Phật giáo. [Nguồn: Báo Nhân Dân - Quảng trường mang tên nữ sinh Sài Gòn dũng cảm, https://nhandan.vn/quang-truong-mang-ten-nu-sinh-sai-gon-dung-cam-post568833.html]
 
 <!-- id: EVT-2233 -->
 *   **23/09/1963:** Cuba là nước đầu tiên thành lập Ủy ban Cuba đoàn kết với miền Nam Việt Nam do nữ anh hùng Melba Hernandez sáng lập. Cuba cũng là nước đầu tiên công nhận Mặt trận Dân tộc Giải phóng miền Nam Việt Nam và mời đặt cơ quan đại diện thường trú tại La Habana.
@@ -7225,7 +7225,7 @@
 * **18/10/1963:** Liệt sĩ Trừ Văn Thố (chiến sĩ trinh sát đặc công đơn vị Q.272, Sư đoàn 9) anh dũng lấy thân mình bịt lỗ châu mai trong trận tấn công đồn Cây Trường.
 
 <!-- id: EVT-2235 -->
-*   **01 - 02/11/1963:** Cuộc đảo chính lật đổ chế độ Ngô Đình Diệm: Nhóm tướng lĩnh Việt Nam Cộng hòa do Dương Văn Minh, Trần Văn Đôn và Lê Văn Kim cầm đầu, với sự ủng hộ và liên lạc chặt chẽ từ CIA và Đại sứ quán Mỹ, mở cuộc tấn công lật đổ chính quyền Đệ Nhất Cộng hòa. Đêm 01/11, Ngô Đình Diệm và Ngô Đình Nhu trốn khỏi Dinh Gia Long qua đường hầm bí mật để đến ẩn náu tại Nhà thờ Cha Tam (Chợ Lớn). Sáng 02/11, sau khi đồng ý đầu hàng với lời hứa được bảo đảm an toàn tị nạn, cả hai bị bắt giữ và bị bắn chết trong khoang thiết vận xa M113 trên đường áp giải về Bộ Tổng Tham mưu, chính thức chấm dứt nền Đệ Nhất Cộng hòa.
+*   **01 - 02/11/1963:** Cuộc đảo chính lật đổ chế độ Ngô Đình Diệm: Nhóm tướng lĩnh Việt Nam Cộng hòa do Dương Văn Minh, Trần Văn Đôn và Lê Văn Kim cầm đầu, với sự ủng hộ và liên lạc chặt chẽ từ CIA và Đại sứ quán Mỹ, mở cuộc tấn công lật đổ chính quyền Đệ Nhất Cộng hòa. Đêm 01/11, Ngô Đình Diệm và Ngô Đình Nhu trốn khỏi Dinh Gia Long qua đường hầm bí mật để đến ẩn náu tại Nhà thờ Cha Tam (Chợ Lớn). Sáng 02/11, sau khi đồng ý đầu hàng với lời hứa được bảo đảm an toàn tị nạn, cả hai bị bắt giữ và bị bắn chết trong khoang thiết vận xa M113 trên đường áp giải về Bộ Tổng Tham mưu, chính thức chấm dứt nền Đệ Nhất Cộng hòa. [Nguồn: Báo Nhân Dân - Cuộc đối đầu lịch sử, https://nhandan.vn/bai-1-cuoc-doi-dau-lich-su-post456835.html]
 
 <!-- id: EVT-2236 -->
 *   **22/11/1963:** Tổng thống Mỹ Kennedy bị ám sát, Phó Tổng thống Lyndon B. Johnson lên thay, chủ trương đẩy mạnh chiến tranh ở Việt Nam.
@@ -7326,7 +7326,7 @@
 *   **14/10/1964:** Bà Sùng Thị Plây (mẹ của Vừ A Dính) được Đảng và Nhà nước truy tặng danh hiệu Liệt sĩ.
 
 <!-- id: EVT-2266 -->
-*   **15/10/1964:** Vào lúc 9 giờ 45 phút (hoặc 9 giờ 59 phút), Nguyễn Văn Trỗi bị xử bắn tại Khám Chí Hòa (Sài Gòn) ở tuổi 24. Trước pháp trường, ông giật băng bịt mắt, từ chối rửa tội và dõng dạc hô lớn: "Hãy nhớ lấy lời tôi! Đả đảo đế quốc Mỹ! Đả đảo Nguyễn Khánh! Hồ Chí Minh muôn năm! Việt Nam muôn năm!", trở thành biểu tượng anh hùng cách mạng bất khuất.
+*   **15/10/1964:** Vào lúc 9 giờ 45 phút (hoặc 9 giờ 59 phút), Nguyễn Văn Trỗi bị xử bắn tại Khám Chí Hòa (Sài Gòn) ở tuổi 24. Trước pháp trường, ông giật băng bịt mắt, từ chối rửa tội và dõng dạc hô lớn: "Hãy nhớ lấy lời tôi! Đả đảo đế quốc Mỹ! Đả đảo Nguyễn Khánh! Hồ Chí Minh muôn năm! Việt Nam muôn năm!", trở thành biểu tượng anh hùng cách mạng bất khuất. [Nguồn: Báo Nhân Dân - Lời anh Trỗi, sáng ngời ánh thép, https://nhandan.vn/loi-anh-troi-sang-ngoi-anh-thep-post560644.html]
 
 <!-- id: EVT-2267 -->
 *   **17/10/1964:** Ủy ban Trung ương Mặt trận Dân tộc Giải phóng miền Nam Việt Nam họp phiên bất thường, quyết định truy tặng Nguyễn Văn Trỗi danh hiệu Anh hùng các Lực lượng Vũ trang Nhân dân Giải phóng và Huân chương Thành đồng hạng Nhất.
@@ -7347,7 +7347,7 @@
 *   **24/12/1964:** **Vụ đánh bom Cư xá Brink (Brinks Hotel):** Chiều tối ngày lễ Giáng sinh, hai chiến sĩ Biệt động Sài Gòn là Nguyễn Thanh Xuân (Bảy Bê) và Nguyễn Hóa (Ba Càng) cải trang thành sĩ quan quân đội Việt Nam Cộng hòa, lái xe ô tô chứa gần 100 kg thuốc nổ vào tầng hầm Cư xá sĩ quan Mỹ Brink (số 103 Hai Bà Trưng, Sài Gòn). Vụ nổ làm sập 4 tầng của tòa nhà 6 tầng, tiêu diệt 2 sĩ quan Mỹ (trong đó có Trung tá James Robert Hagen) và làm bị thương hơn 60 người khác, giáng một đòn sấm sét vào các cơ sở quân sự Mỹ ngay giữa lòng đô thị Sài Gòn.
 
 <!-- id: EVT-2273 -->
-*   **28/12/1964 - 01/01/1965:** **Trận Bình Giã (Phước Tuy):** Quân Giải phóng miền Nam Việt Nam mở cuộc tấn công lớn vào làng Bình Giã, liên tục phục kích và đánh thiệt hại nặng nhiều tiểu đoàn tinh nhuệ (Biệt động quân, Thủy quân lục chiến) của Việt Nam Cộng hòa được cử đến ứng cứu. Quân Giải phóng đã bắn rơi 21 trực thăng và 1 máy bay trinh sát, đánh gục chiến thuật "trực thăng vận" và "thiết xa vận" của đối phương, đánh dấu sự phát triển nghệ thuật chiến tranh và đẩy nhanh sự phá sản của chiến lược "Chiến tranh đặc biệt".
+*   **28/12/1964 - 01/01/1965:** **Trận Bình Giã (Phước Tuy):** Quân Giải phóng miền Nam Việt Nam mở cuộc tấn công lớn vào làng Bình Giã, liên tục phục kích và đánh thiệt hại nặng nhiều tiểu đoàn tinh nhuệ (Biệt động quân, Thủy quân lục chiến) của Việt Nam Cộng hòa được cử đến ứng cứu. Quân Giải phóng đã bắn rơi 21 trực thăng và 1 máy bay trinh sát, đánh gục chiến thuật "trực thăng vận" và "thiết xa vận" của đối phương, đánh dấu sự phát triển nghệ thuật chiến tranh và đẩy nhanh sự phá sản của chiến lược "Chiến tranh đặc biệt". [Nguồn: Báo Điện tử Chính phủ - Lễ kỷ niệm 60 năm Chiến thắng Bình Giã, https://baochinhphu.vn/thu-tuong-pham-minh-chinh-du-le-ky-niem-60-nam-chien-thang-binh-gia-10224120222072819.htm]
 
 <!-- id: EVT-2274 -->
 

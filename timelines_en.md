@@ -7092,7 +7092,7 @@
 *   **Jan. 28, 1961:** The Republic of Vietnam army organized a raid into the Bao Trang forest (Nhuan Duc, Cu Chi), the base of the Saigon - Gia Dinh Zone Party Committee. The revolutionary forces had to withdraw, losing documents and equipment.
 
 <!-- id: EVT-2195 -->
-*   **Feb. 15, 1961:** The revolutionary armed forces in the South were unified into the **South Vietnam Liberation Army** (the military arm of the National Liberation Front) at War Zone D. During the founding ceremony, representatives of the NLF Central Committee presented the Liberation Army with its sacred **Military Banner** (the Liberation flag of red and blue with a gold star) emblazoned with the golden inscription: *"Liberation Army Valiant and Victorious"*, inaugurating the heroic combat saga of the southern liberation forces.
+*   **Feb. 15, 1961:** The revolutionary armed forces in the South were unified into the **South Vietnam Liberation Army** (the military arm of the National Liberation Front) at War Zone D. During the founding ceremony, representatives of the NLF Central Committee presented the Liberation Army with its sacred **Military Banner** (the Liberation flag of red and blue with a gold star) emblazoned with the golden inscription: *"Liberation Army Valiant and Victorious"*, inaugurating the heroic combat saga of the southern liberation forces. [Source: Nhan Dan Newspaper - The Liberation Army of South Vietnam 15 years of construction, combat and growth, https://special.nhandan.vn/15_nam_quan_giai_phong_mien_nam/index.html]
 
 <!-- id: EVT-2196 -->
 *   **Mar. 1961:** The Government of Vietnam made its first official visit to Cuba, led by Minister of Culture Hoang Minh Giam. During the visit, Fidel Castro suggested sending Vietnamese youth to study Spanish in Cuba.
@@ -7116,7 +7116,7 @@
 *   **Sep. 20, 1961:** The Saigon - Gia Dinh Zone Party Committee held the first Military Conference, dividing the battlefield into three zones: the liberated base zone (focusing on armed struggle), the suburban disputed zone (combining political and armed struggle), and the urban zone (focusing on political struggle).
 
 <!-- id: EVT-2203 -->
-*   **Oct. 23, 1961:** Minister of National Defense Senior General Vo Nguyen Giap signed Decision No. 97/QP establishing **Group 759** (precursor to Navy Brigade 125) under the codename "Unnumbered Ships", commanded by Lieutenant Colonel Doan Hong Phuoc. The unit was tasked with forging a secret strategic maritime supply corridor across the South China Sea (the Sea Ho Chi Minh Trail) to deliver heavy weapons, ammunition, and cadres to the southern and south-central battlefields.
+*   **Oct. 23, 1961:** Minister of National Defense Senior General Vo Nguyen Giap signed Decision No. 97/QP establishing **Group 759** (precursor to Navy Brigade 125) under the codename "Unnumbered Ships", commanded by Lieutenant Colonel Doan Hong Phuoc. The unit was tasked with forging a secret strategic maritime supply corridor across the South China Sea (the Sea Ho Chi Minh Trail) to deliver heavy weapons, ammunition, and cadres to the southern and south-central battlefields. [Source: Nhan Dan Newspaper - The Ho Chi Minh Trail at Sea and Truong Son Route, https://special.nhandan.vn/duong-Ho-Chi-Minh-tren-bien-va-duong-Truong-Son/index.html]
 
 <!-- id: EVT-2204 -->
 *   **Oct. 30, 1961:** The Ministry of Foreign Affairs of the DRV sent a diplomatic note to 103 countries denouncing US interference and violation of the Geneva Accords.
@@ -7150,7 +7150,7 @@
 *Source: President Ho Chi Minh conducting an orchestra around 1962 / Getty Images*
 
 <!-- id: EVT-2213 -->
-* **09/01/1962:** Martyr Phan Thi Rang (female revolutionary fighter in Hon Dat, Kien Giang, prototype for character Chi Su in novel "Hon Dat") endured torture and heroically sacrificed her life.
+* **09/01/1962:** Martyr Phan Thi Rang (female revolutionary fighter in Hon Dat, Kien Giang, prototype for character Chi Su in novel "Hon Dat") endured torture and heroically sacrificed her life. [Source: Nhan Dan Newspaper - Commemorating 62 years since the sacrifice of Heroine Phan Thi Rang, https://nhandan.vn/tuong-niem-62-nam-ngay-hy-sinh-nu-anh-hung-phan-thi-rang-post791277.html]
 
 <!-- id: EVT-2214 -->
 *   **Jan. 12, 1962:** **Operation Chopper:** Marking direct US armed intervention under the "Special War" strategy, the US military deployed 33 CH-21C Shawnee helicopters to airlift over 1,000 Saigon troops in a sweep operation named Chopper against revolutionary bases and local armed forces in Cu Chi - Hoc Mon. This was the first time the US military deployed the "airmobility" (helicopter assault) tactic in South Vietnam in an attempt to crush the revolutionary base areas of the Vietnamese people.
@@ -7178,7 +7178,7 @@
 *   **Jul. 24, 1962:** Speaking at the Conference of High-Ranking Cadres of the Party and State, President Ho Chi Minh launched a campaign to enhance the sense of responsibility, strengthen economic and financial management, and combat corruption, waste, and bureaucracy. He described corruption as an "ulcer" left by the old society that must be completely eliminated to ensure a healthy body for the nation.
 
 <!-- id: EVT-2221 -->
-*   **Oct. 11, 1962:** The first motorized wooden vessel of Group 759, named "Phuong Dong 1" (captained by Le Van Mot and Political Officer Bong Van Dia), secretly departed Wharf K15 (Do Son, Hai Phong) carrying 30 tons of weapons. On October 16, 1962, it safely docked at Vam Lung (Ca Mau), officially inaugurating the legendary maritime weapons route known as the Ho Chi Minh Trail at Sea.
+*   **Oct. 11, 1962:** The first motorized wooden vessel of Group 759, named "Phuong Dong 1" (captained by Le Van Mot and Political Officer Bong Van Dia), secretly departed Wharf K15 (Do Son, Hai Phong) carrying 30 tons of weapons. On October 16, 1962, it safely docked at Vam Lung (Ca Mau), officially inaugurating the legendary maritime weapons route known as the Ho Chi Minh Trail at Sea. [Source: Nhan Dan Newspaper - From the departure point of the unnumbered vessels, https://nhandan.vn/tu-diem-xuat-phat-cua-nhung-con-tau-khong-so-post558083.html]
 
 <!-- id: EVT-2222 -->
 *   **October 26, 1962:** Female commando Le Thi Thu Nguyet and her comrades from Commando Team 159 carried out a grenade attack at a military exhibition in Lam Son Square (Saigon), destroying an advanced UH-1A helicopter on display and shaking the administrative center of the Saigon regime.
@@ -7193,7 +7193,7 @@
 *   **1963 - 1968:** Tran Van Lai operated as a commando in Saigon under the guise of a wealthy contractor. He infiltrated key enemy institutions like the Independence Palace and USOM, gathering critical intelligence and secretly mapping the entire Saigon sewer system for the Liberation Army's use.
 
 <!-- id: EVT-2226 -->
-*   **Jan. 2, 1963:** **Battle of Ap Bac (My Tho):** A force of approximately 350 troops from the Liberation Army of South Vietnam defeated a major sweep operation ("Duc Thang 01-1963") by nearly 1,800 Republic of Vietnam troops commanded by US advisors. Utilizing modern tactics like helicopterborne and armored assaults, the US-ARVN forces suffered heavy casualties (over 80 killed, 5 helicopters shot down, and several M-113 armored vehicles destroyed). This marked the first major victory of the Liberation Army against regular ARVN forces, signaling the potential defeat of the US "Special War" strategy.
+*   **Jan. 2, 1963:** **Battle of Ap Bac (My Tho):** A force of approximately 350 troops from the Liberation Army of South Vietnam defeated a major sweep operation ("Duc Thang 01-1963") by nearly 1,800 Republic of Vietnam troops commanded by US advisors. Utilizing modern tactics like helicopterborne and armored assaults, the US-ARVN forces suffered heavy casualties (over 80 killed, 5 helicopters shot down, and several M-113 armored vehicles destroyed). This marked the first major victory of the Liberation Army against regular ARVN forces, signaling the potential defeat of the US "Special War" strategy. [Source: Nhan Dan Newspaper - The Ap Bac Victory, https://nhandan.vn/chien-thang-ap-bac-danh-dau-that-bai-chien-thuat-truc-thang-van-thiet-xa-van-cua-my-nguy-post220168.html]
 
 ![Historical Image](images/event_20260924_111702.webp)
 
@@ -7206,7 +7206,7 @@
 *   **May 8, 1963:** The Hue Vesak shootings: South Vietnamese government security forces fired and used grenades against thousands of unarmed Buddhist demonstrators at the Hue radio station protesting a ban on flying religious flags on Vesak (just days after Vatican flags were prominently displayed throughout the city for Archbishop Ngo Dinh Thuc's silver jubilee). The assault killed nine people (including children) and injured dozens, sparking the **1963 Buddhist crisis** and nationwide civil unrest across South Vietnam's urban centers.
 
 <!-- id: EVT-2229 -->
-*   **Jun. 11, 1963:** Mahayana Buddhist monk **Thich Quang Duc** burned himself to death at the intersection of Phan Dinh Phung and Le Van Duyet streets in Saigon to protest the discriminatory and repressive policies of the Ngo Dinh Diem regime. Malcolm Browne's photograph of the self-immolation sent shockwaves around the world, creating intense diplomatic pressure on Washington and prompting further self-immolations by other monks and nuns. Rather than easing tensions, callous reactions and inflammatory remarks by members of the ruling family (such as Tran Le Xuan publicly mocking the martyrdoms as "barbecues") further isolated the regime internationally and domestically.
+*   **Jun. 11, 1963:** Mahayana Buddhist monk **Thich Quang Duc** burned himself to death at the intersection of Phan Dinh Phung and Le Van Duyet streets in Saigon to protest the discriminatory and repressive policies of the Ngo Dinh Diem regime. Malcolm Browne's photograph of the self-immolation sent shockwaves around the world, creating intense diplomatic pressure on Washington and prompting further self-immolations by other monks and nuns. Rather than easing tensions, callous reactions and inflammatory remarks by members of the ruling family (such as Tran Le Xuan publicly mocking the martyrdoms as "barbecues") further isolated the regime internationally and domestically. [Source: Communist Review - Commemorating 50 years of Most Venerable Thich Quang Duc's self-immolation, https://www.tapchicongsan.org.vn/web/guest/hoat-ong-cua-lanh-ao-ang-nha-nuoc/-/2018/21739/tuong-niem-50-nam-hoa-thuong-thich-quang-duc-tu-thieu.aspx]
 
 <!-- id: EVT-2230 -->
 *   **Aug. 20 - 21, 1963:** On the night of August 20-21, Special Forces and combat police under the direct command of Ngo Dinh Nhu launched synchronized raids on Xa Loi Pagoda in Saigon, Tu Dam Pagoda in Hue, and hundreds of Buddhist temples across South Vietnam (Operation Water Lily). Nationwide martial law was declared, more than 1,400 monks, nuns, and Buddhist leaders were arrested, and sacred shrines were ransacked. The brutal crackdowns caused massive domestic outrage, alienated South Vietnamese military officers, and brought relations between Washington and the Diem-Nhu regime to a breaking point.
@@ -7215,7 +7215,7 @@
 *   **Aug. 24, 1963:** The US Department of State sent **Telegram 243 (Cable 243 / The Hilsman Cable)** to newly arrived US Ambassador Henry Cabot Lodge Jr. in Saigon. Drafted over a weekend by Roger Hilsman, Michael Forrestal, and Averell Harriman while key cabinet members were away, the cable stated that Washington could no longer tolerate Ngo Dinh Nhu's dominance and brutal persecution of Buddhists, instructed Lodge to demand that Diem remove Nhu, and gave a crucial "green light" assuring US backing for a military coup by ARVN generals should Diem refuse.
 
 <!-- id: EVT-2232 -->
-*   **Aug. 25, 1963:** Student **Quach Thi Trang** (15 years old) was shot dead by police at the Ben Thanh Market roundabout during a protest against the repression of Buddhists.
+*   **Aug. 25, 1963:** Student **Quach Thi Trang** (15 years old) was shot dead by police at the Ben Thanh Market roundabout during a protest against the repression of Buddhists. [Source: Nhan Dan Newspaper - The square named after the brave Saigon schoolgirl, https://nhandan.vn/quang-truong-mang-ten-nu-sinh-sai-gon-dung-cam-post568833.html]
 
 <!-- id: EVT-2233 -->
 *   **Sep. 23, 1963:** Cuba became the first country to establish a Committee for Solidarity with South Vietnam, founded by heroine Melba Hernandez. Cuba was also the first nation to recognize the National Liberation Front of South Vietnam and invite it to establish a permanent representative office in La Habana.
@@ -7224,7 +7224,7 @@
 * **18/10/1963:** Martyr Tru Van Tho (reconnaissance commando fighter of Unit Q.272, 9th Division) heroically blocked an enemy embrasure with his body during the attack on Cay Truong outpost.
 
 <!-- id: EVT-2235 -->
-*   **Nov. 1 - 2, 1963:** The 1963 South Vietnamese coup d'état: A faction of ARVN generals led by Duong Van Minh, Tran Van Don, and Le Van Kim, backed and coordinated with the CIA and the US Embassy, launched a military coup to overthrow the First Republic. On the night of November 1, Ngo Dinh Diem and Ngo Dinh Nhu escaped Gia Long Palace through a secret tunnel and took refuge at Saint Francis Xavier Church (Cha Tam Church) in Cholon. On the morning of November 2, after surrendering on assurances of safe exile, both brothers were taken into custody and assassinated inside an M113 armored personnel carrier while being escorted to the Joint General Staff headquarters, bringing an end to the First Republic.
+*   **Nov. 1 - 2, 1963:** The 1963 South Vietnamese coup d'état: A faction of ARVN generals led by Duong Van Minh, Tran Van Don, and Le Van Kim, backed and coordinated with the CIA and the US Embassy, launched a military coup to overthrow the First Republic. On the night of November 1, Ngo Dinh Diem and Ngo Dinh Nhu escaped Gia Long Palace through a secret tunnel and took refuge at Saint Francis Xavier Church (Cha Tam Church) in Cholon. On the morning of November 2, after surrendering on assurances of safe exile, both brothers were taken into custody and assassinated inside an M113 armored personnel carrier while being escorted to the Joint General Staff headquarters, bringing an end to the First Republic. [Source: Nhan Dan Newspaper - The Historic Confrontation, https://nhandan.vn/bai-1-cuoc-doi-dau-lich-su-post456835.html]
 
 <!-- id: EVT-2236 -->
 *   **Nov. 22, 1963:** US President Kennedy was assassinated, and Vice President Lyndon B. Johnson succeeded him, advocating for an escalation of the war in Vietnam.
@@ -7325,7 +7325,7 @@
 *   **Oct. 14, 1964:** Sung Thi Play (Vu A Dinh's mother) was posthumously recognized as a martyr.
 
 <!-- id: EVT-2266 -->
-*   **Oct. 15, 1964:** At 09:45 AM, Nguyễn Văn Trỗi was executed by firing squad at Chi Hòa Prison in Saigon at age 24. Before his execution, he ripped off his blindfold and shouted: "Keep my words in mind! Down with US imperialism! Down with Nguyen Khanh! Long live Ho Chi Minh! Long live Vietnam!", becoming an enduring symbol of heroism.
+*   **Oct. 15, 1964:** At 09:45 AM, Nguyễn Văn Trỗi was executed by firing squad at Chi Hòa Prison in Saigon at age 24. Before his execution, he ripped off his blindfold and shouted: "Keep my words in mind! Down with US imperialism! Down with Nguyen Khanh! Long live Ho Chi Minh! Long live Vietnam!", becoming an enduring symbol of heroism. [Source: Nhan Dan Newspaper - Troi's words, shining like steel, https://nhandan.vn/loi-anh-troi-sang-ngoi-anh-thep-post560644.html]
 
 <!-- id: EVT-2267 -->
 *   **Oct. 17, 1964:** The Central Committee of the National Liberation Front for South Vietnam held an extraordinary session and posthumously awarded Nguyễn Văn Trỗi the title Hero of the People's Liberation Armed Forces and the First Class Iron Fort Medal.
@@ -7346,7 +7346,7 @@
 *   **December 24, 1964:** **Brinks Hotel Bombing:** On Christmas Eve, two Saigon commando operatives, Nguyen Thanh Xuan (Bay Be) and Nguyen Hoa (Ba Cang), disguised as South Vietnamese military officers, drove a car loaded with nearly 100 kg of explosives into the basement of the Brink Bachelor Officers Quarters (103 Hai Ba Trung Street, Saigon). The explosion collapsed four floors of the six-story building, killed two American officers (including Lieutenant Colonel James Robert Hagen), and injured over 60 others, shattering the assumption of safety for U.S. military installations in downtown Saigon.
 
 <!-- id: EVT-2273 -->
-*   **Dec. 28, 1964 - Jan. 1, 1965:** **Battle of Binh Gia (Phuoc Tuy):** The Liberation Army of South Vietnam launched a major offensive against Binh Gia village, successfully ambushing and decimating several elite Republic of Vietnam battalions (including Rangers and Marines) sent as reinforcements. The Liberation Army shot down 21 helicopters and 1 reconnaissance plane, effectively countering the US-backed "helicopterborne" and "armored vehicle" tactics. This victory significantly escalated the conventional warfare capabilities of the Liberation Army and contributed to the bankruptcy of the "Special War" strategy.
+*   **Dec. 28, 1964 - Jan. 1, 1965:** **Battle of Binh Gia (Phuoc Tuy):** The Liberation Army of South Vietnam launched a major offensive against Binh Gia village, successfully ambushing and decimating several elite Republic of Vietnam battalions (including Rangers and Marines) sent as reinforcements. The Liberation Army shot down 21 helicopters and 1 reconnaissance plane, effectively countering the US-backed "helicopterborne" and "armored vehicle" tactics. This victory significantly escalated the conventional warfare capabilities of the Liberation Army and contributed to the bankruptcy of the "Special War" strategy. [Source: Government News Portal - 60th Anniversary Commemoration of Binh Gia Victory, https://baochinhphu.vn/thu-tuong-pham-minh-chinh-du-le-ky-niem-60-nam-chien-thang-binh-gia-10224120222072819.htm]
 
 <!-- id: EVT-2274 -->
 
