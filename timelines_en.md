@@ -6739,10 +6739,10 @@
 *   **Sep. 1954:** The Saigon - Cho Lon Zone was established (previously the Saigon - Cho Lon Special Zone) to suit the revolutionary leadership in the new situation.
 
 <!-- id: EVT-2077 -->
-*   **Sep. 5-7, 1954:** The Politburo of the Vietnam Workers' Party passed a resolution on "The new situation, new tasks and new policy", marking the transition of the revolutionary struggle from war to peace, shifting the focus in the South to political struggle to demand the implementation of the Geneva Accords.
+*   **Sep. 5-7, 1954:** The Politburo of the Vietnam Workers' Party passed a resolution on "The new situation, new tasks and new policy", marking the transition of the revolutionary struggle from war to peace, shifting the focus in the South to political struggle to demand the implementation of the Geneva Accords. [Source: Vietnam National Museum of History - The Politburo Issues a Resolution on the New Situation (September 1954), https://baotanglichsu.vn/vi/Articles/3097/16689/bo-chinh-tri-nghi-quyet-tinh-hinh-moi-09-1954.html]
 
 <!-- id: EVT-2078 -->
-*   **Sep. 6, 1954:** The US formed the Southeast Asia Treaty Organization (SEATO) and placed South Vietnam, Laos, and Cambodia under its "protection."
+*   **Sep. 6, 1954:** The US formed the Southeast Asia Treaty Organization (SEATO) and placed South Vietnam, Laos, and Cambodia under its "protection." [Source: Vietnam National Museum of History - SEATO (September 6, 1954), https://baotanglichsu.vn/vi/Articles/3097/16684/seato-06-09-1954.html]
 
 <!-- id: EVT-2079 -->
 *   **Sep. 19, 1954:** At Giếng Temple within the Hùng Kings Temple historical site (Phú Thọ), President Hồ Chí Minh met and delivered an address to cadres and soldiers of Division 308 (Vanguard Division) before their march to take over the capital Hanoi. During this historic gathering, he gave the immortal instruction: *"The Hùng Kings founded the nation; we must together defend and protect it."* This sacred counsel paid profound tribute to ancestral nation-builders while crystallizing the enduring imperative of Vietnamese history—nation-building must go hand in hand with nation-defending—entrusting the armed forces and future generations with the historic mission of safeguarding the fatherland's independence and territorial unity. [Source: https://nhandan.vn/tuong-dai-bac-ho-voi-ngay-hoi-non-song-bieu-tuong-cua-tinh-than-dai-doan-ket-toan-dan-toc-post984471.html]
@@ -6754,13 +6754,13 @@
 *   **Oct. 1954:** Wilfred Burchett was present in Hanoi, becoming one of the first Western journalists to witness and report on the victorious Vietnam People's Army marching in to take over the Capital on October 10, 1954.
 
 <!-- id: EVT-2082 -->
-*   **Oct. 8, 1954:** The Democratic Republic of Vietnam erected the first flagpole on the northern bank of the Hien Luong Bridge across the Ben Hai River (Quang Tri), inaugurating the resilient and legendary "flag war" lasting over 20 years across the 17th parallel temporary military demarcation line (1954–1975). Despite relentless enemy bombardments attempting to destroy the symbolic mast, the red flag with a gold star was steadfastly defended by local soldiers and civilians, fluttering proudly over the demarcation zone as an unyielding testament to the determination for national reunification.
+*   **Oct. 8, 1954:** The Democratic Republic of Vietnam erected the first flagpole on the northern bank of the Hien Luong Bridge across the Ben Hai River (Quang Tri), inaugurating the resilient and legendary "flag war" lasting over 20 years across the 17th parallel temporary military demarcation line (1954–1975). Despite relentless enemy bombardments attempting to destroy the symbolic mast, the red flag with a gold star was steadfastly defended by local soldiers and civilians, fluttering proudly over the demarcation zone as an unyielding testament to the determination for national reunification. [Source: Vietnam National Museum of History - The First Flag Pole on the North Bank of Hien Luong Bridge (October 8, 1954), https://baotanglichsu.vn/vi/Articles/3097/16692/cot-co-dau-tien-bo-bac-cau-hien-luong-08-10-1954.html]
 
 <!-- id: EVT-2083 -->
 *   **Oct. 10, 1954 - 1977:** Dr. Tran Duy Hung served as Chairman of the Hanoi Administrative Committee continuously for 23 years, becoming an endearing symbol of people-centered governance.
 
 <!-- id: EVT-2084 -->
-*   **Oct. 10, 1954:** The Vietnam People's Army marched into and took over the capital city of Hanoi. At 3:00 PM, the Opera House siren sounded for the historic flag-raising ceremony held at the Hanoi Flag Tower grounds: tens of thousands of soldiers and citizens looked on with deep emotion as the red flag with a gold star fluttered proudly atop the ancient tower to the strains of *Tien Quan Ca*, marking the complete liberation of Hanoi.
+*   **Oct. 10, 1954:** The Vietnam People's Army marched into and took over the capital city of Hanoi. At 3:00 PM, the Opera House siren sounded for the historic flag-raising ceremony held at the Hanoi Flag Tower grounds: tens of thousands of soldiers and citizens looked on with deep emotion as the red flag with a gold star fluttered proudly atop the ancient tower to the strains of *Tien Quan Ca*, marking the complete liberation of Hanoi. [Source: Vietnam National Museum of History - The Vietnam People's Army Takes Over Hanoi (October 10, 1954), https://baotanglichsu.vn/vi/Articles/3097/16685/quan-doi-nhan-dan-tiep-quan-ha-noi-10-10-1954.html]
 
 ![Historical Image](images/event_20260923_104751.webp)
 
@@ -6777,7 +6777,7 @@
 *   **Late 1954:** Following the restoration of peace in the North, Georges Boudarel moved to Hanoi. He served as the secretary of the Voice of Vietnam's French program and worked as an editor and translator for the Foreign Languages Publishing House (now Thế Giới Publishers). He passionately translated major Vietnamese literary works into French, including "Tắt đèn" (Ngô Tất Tố) and "Dế Mèn phiêu lưu ký" (Tô Hoài), introducing Vietnamese literature to international readers.
 
 <!-- id: EVT-2087 -->
-*   **Dec. 29, 1954:** France signed a treaty transferring all administrative authority in South Vietnam to Ngo Dinh Diem.
+*   **Dec. 29, 1954:** France signed a treaty transferring all administrative authority in South Vietnam to Ngo Dinh Diem. [Source: Vietnam National Museum of History - France Signs the Treaty Transferring Power over South Vietnam (December 29, 1954), https://baotanglichsu.vn/vi/Articles/3097/16688/phap-ky-hiep-uoc-trao-quyen-mien-nam-29-12-1954.html]
 
 <!-- id: EVT-2088 -->
 *   **Jan. 8, 1955:** The Ngo Dinh Diem administration issued Ordinance No. 2 and Ordinance No. 7 (Feb. 3, 1955) regarding land reform, aiming to reclaim land distributed to peasants during the resistance.
@@ -6786,16 +6786,16 @@
 *   **Mar. 1955:** The 7th Conference of the Central Committee of the Vietnam Workers' Party set out the tasks of consolidating the North and conducting political struggle in the South.
 
 <!-- id: EVT-2090 -->
-*   **Mar. 22, 1955:** The Lao People's Revolutionary Party was established.
+*   **Mar. 22, 1955:** The Lao People's Revolutionary Party was established. [Source: Vietnam National Museum of History - The Lao People's Revolutionary Party (March 22, 1955), https://baotanglichsu.vn/vi/Articles/3097/16690/djang-nhan-dan-cach-mang-lao-22-03-1955.html]
 
 <!-- id: EVT-2091 -->
-*   **May 13, 1955:** Vietnamese forces and citizens peacefully and fully took over the port city of Haiphong under the direct leadership of Do Muoi (Haiphong Party Secretary and Chairman of the Military-Administrative Committee) as the last French expeditionary troops withdrew, marking the complete liberation of North Vietnam after 9 years of resistance.
+*   **May 13, 1955:** Vietnamese forces and citizens peacefully and fully took over the port city of Haiphong under the direct leadership of Do Muoi (Haiphong Party Secretary and Chairman of the Military-Administrative Committee) as the last French expeditionary troops withdrew, marking the complete liberation of North Vietnam after 9 years of resistance. [Source: Vietnam National Museum of History - Takeover of Haiphong (May 13, 1955), https://baotanglichsu.vn/vi/Articles/3097/16686/tiep-quan-hai-phong-13-05-1955.html]
 
 <!-- id: EVT-2092 -->
-*   **May 16, 1955:** French forces withdrew from Haiphong, the North was completely liberated, ending the 9-year resistance war against France.
+*   **May 16, 1955:** French forces withdrew from Haiphong, the North was completely liberated, ending the 9-year resistance war against France. [Source: Vietnam National Museum of History - Takeover of Haiphong (May 13, 1955), https://baotanglichsu.vn/vi/Articles/3097/16686/tiep-quan-hai-phong-13-05-1955.html]
 
 <!-- id: EVT-2093 -->
-*   **June 25, 1955:** During an official visit to the People's Republic of China, President Ho Chi Minh was warmly welcomed by Chairman Mao Zedong at Beijing airport. During the trip, he visited the Great Wall of China, a historic symbol of China, strengthening Vietnam - China friendship.
+*   **June 25, 1955:** During an official visit to the People's Republic of China, President Ho Chi Minh was warmly welcomed by Chairman Mao Zedong at Beijing airport. During the trip, he visited the Great Wall of China, a historic symbol of China, strengthening Vietnam - China friendship. [Source: Vietnam National Museum of History - Ho Chi Minh Visits China (June 25, 1955), https://baotanglichsu.vn/vi/Articles/3097/16691/ho-chi-minh-tham-trung-quoc-25-06-1955.html]
 
 ![Historical Image](images/event_20260924_103218.webp)
 
@@ -6812,7 +6812,7 @@
 *Source: President Ho Chi Minh officially visiting the Soviet Union in July 1955 / Nhan Dan*
 
 <!-- id: EVT-2096 -->
-*   **Jul. 17, 1955:** Ngo Dinh Diem declared his refusal to hold consultations for a general election to reunify the country.
+*   **Jul. 17, 1955:** Ngo Dinh Diem declared his refusal to hold consultations for a general election to reunify the country. [Source: Vietnam National Museum of History - Ngo Dinh Diem Refuses General Elections (July 17, 1955), https://baotanglichsu.vn/vi/Articles/3097/16687/ngo-dinh-diem-tu-choi-tong-tuyen-cu-17-07-1955.html]
 
 <!-- id: EVT-2097 -->
 *   **08/1955:** The 8th Conference of the Central Committee of the Vietnam Workers' Party affirmed that the North must advance to socialism.

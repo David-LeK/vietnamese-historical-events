@@ -6739,10 +6739,10 @@
 *   **09/1954:** Khu Sài Gòn - Chợ Lớn được thành lập (trước đó là Đặc khu Sài Gòn - Chợ Lớn) để phù hợp với công tác lãnh đạo cách mạng trong tình hình mới.
 
 <!-- id: EVT-2077 -->
-*   **05-07/09/1954:** Bộ Chính trị họp và ra Nghị quyết về "Tình hình mới, nhiệm vụ mới và chính sách mới của Đảng", xác định chuyển hướng đấu tranh từ quân sự sang chính trị để đòi thi hành Hiệp định Giơnevơ.
+*   **05-07/09/1954:** Bộ Chính trị họp và ra Nghị quyết về "Tình hình mới, nhiệm vụ mới và chính sách mới của Đảng", xác định chuyển hướng đấu tranh từ quân sự sang chính trị để đòi thi hành Hiệp định Giơnevơ. [Nguồn: Bảo tàng Lịch sử Quốc gia - Bộ Chính trị ra Nghị quyết về tình hình mới (09/1954), https://baotanglichsu.vn/vi/Articles/3097/16689/bo-chinh-tri-nghi-quyet-tinh-hinh-moi-09-1954.html]
 
 <!-- id: EVT-2078 -->
-*   **06/09/1954:** Mỹ thành lập khối quân sự Đông Nam Á (SEATO) và đặt miền Nam Việt Nam, Lào, Campuchia dưới sự "bảo hộ" của khối này.
+*   **06/09/1954:** Mỹ thành lập khối quân sự Đông Nam Á (SEATO) và đặt miền Nam Việt Nam, Lào, Campuchia dưới sự "bảo hộ" của khối này. [Nguồn: Bảo tàng Lịch sử Quốc gia - SEATO (06/09/1954), https://baotanglichsu.vn/vi/Articles/3097/16684/seato-06-09-1954.html]
 
 <!-- id: EVT-2079 -->
 *   **19/09/1954:** Tại Đền Giếng thuộc Khu di tích Đền Hùng (Phú Thọ), Chủ tịch Hồ Chí Minh gặp gỡ và huấn thị cho cán bộ, chiến sĩ Đại đoàn 308 (Đại đoàn Quân Tiên phong) trước khi đơn vị về tiếp quản Thủ đô Hà Nội. Tại buổi nói chuyện lịch sử này, Người đã căn dặn câu nói bất hủ: *"Các Vua Hùng đã có công dựng nước, Bác cháu ta phải cùng nhau giữ lấy nước."* Lời căn dặn thiêng liêng vừa là sự tri ân công đức tổ tiên, vừa đúc kết quy luật sinh tồn ngàn đời của dân tộc: dựng nước phải đi đôi với giữ nước, đồng thời khẳng định ý chí quật cường và giao phó sứ mệnh lịch sử bảo vệ độc lập, thống nhất non sông cho toàn quân và các thế hệ mai sau. [Nguồn: https://nhandan.vn/tuong-dai-bac-ho-voi-ngay-hoi-non-song-bieu-tuong-cua-tinh-than-dai-doan-ket-toan-dan-toc-post984471.html]
@@ -6754,13 +6754,13 @@
 *   **10/1954:** Wilfred Burchett có mặt tại Hà Nội và là một trong những nhà báo phương Tây đầu tiên chứng kiến, đưa tin về sự kiện đoàn quân chiến thắng của Quân đội nhân dân Việt Nam tiến vào tiếp quản Thủ đô ngày 10/10/1954.
 
 <!-- id: EVT-2082 -->
-*   **08/10/1954:** Việt Nam Dân chủ Cộng hòa dựng cột cờ đầu tiên tại bờ Bắc cầu Hiền Lương (sông Bến Hải, Quảng Trị), mở đầu "cuộc chiến chọi cờ" bền bỉ và huyền thoại suốt hơn 20 năm chia cắt giới tuyến quân sự tạm thời vĩ tuyến 17 (1954 - 1975). Bất chấp bom đạn khốc liệt của đối phương trút xuống hòng triệt hạ cột mốc biểu tượng, lá cờ đỏ sao vàng luôn được quân dân đôi bờ kiên cường gìn giữ và kiêu hãnh tung bay trên bầu trời giới tuyến như lời thề sắt son về ý chí thống nhất non sông.
+*   **08/10/1954:** Việt Nam Dân chủ Cộng hòa dựng cột cờ đầu tiên tại bờ Bắc cầu Hiền Lương (sông Bến Hải, Quảng Trị), mở đầu "cuộc chiến chọi cờ" bền bỉ và huyền thoại suốt hơn 20 năm chia cắt giới tuyến quân sự tạm thời vĩ tuyến 17 (1954 - 1975). Bất chấp bom đạn khốc liệt của đối phương trút xuống hòng triệt hạ cột mốc biểu tượng, lá cờ đỏ sao vàng luôn được quân dân đôi bờ kiên cường gìn giữ và kiêu hãnh tung bay trên bầu trời giới tuyến như lời thề sắt son về ý chí thống nhất non sông. [Nguồn: Bảo tàng Lịch sử Quốc gia - Cột cờ đầu tiên bờ Bắc cầu Hiền Lương (08/10/1954), https://baotanglichsu.vn/vi/Articles/3097/16692/cot-co-dau-tien-bo-bac-cau-hien-luong-08-10-1954.html]
 
 <!-- id: EVT-2083 -->
 *   **10/10/1954 - 1977:** Bác sĩ Trần Duy Hưng đảm nhiệm chức vụ Chủ tịch Ủy ban Hành chính Thành phố Hà Nội suốt 23 năm liên tục, là biểu tượng thân thương của chính quyền vì dân.
 
 <!-- id: EVT-2084 -->
-*   **10/10/1954:** Quân đội Nhân dân Việt Nam tiến vào tiếp quản Thủ đô Hà Nội. Đúng 15 giờ chiều, còi Nhà hát Lớn vang lên báo hiệu lễ chào cờ lịch sử trọng thể tại sân vận động Cột cờ Hà Nội: hàng vạn cán bộ, chiến sĩ và nhân dân xúc động dõi theo lá cờ đỏ sao vàng kiêu hãnh tung bay trên đỉnh Cột cờ cổ kính trong tiếng hát hào hùng bài *Tiến quân ca*, đánh dấu Thủ đô Hà Nội hoàn toàn giải phóng.
+*   **10/10/1954:** Quân đội Nhân dân Việt Nam tiến vào tiếp quản Thủ đô Hà Nội. Đúng 15 giờ chiều, còi Nhà hát Lớn vang lên báo hiệu lễ chào cờ lịch sử trọng thể tại sân vận động Cột cờ Hà Nội: hàng vạn cán bộ, chiến sĩ và nhân dân xúc động dõi theo lá cờ đỏ sao vàng kiêu hãnh tung bay trên đỉnh Cột cờ cổ kính trong tiếng hát hào hùng bài *Tiến quân ca*, đánh dấu Thủ đô Hà Nội hoàn toàn giải phóng. [Nguồn: Bảo tàng Lịch sử Quốc gia - Quân đội Nhân dân tiếp quản Hà Nội (10/10/1954), https://baotanglichsu.vn/vi/Articles/3097/16685/quan-doi-nhan-dan-tiep-quan-ha-noi-10-10-1954.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_104751.webp)
 
@@ -6777,7 +6777,7 @@
 *   **Cuối năm 1954:** Khi hòa bình lập lại ở miền Bắc, Georges Boudarel về Hà Nội. Ông làm thư ký chương trình tiếng Pháp của Đài Tiếng nói Việt Nam và công tác biên dịch, biên tập tại Nhà xuất bản Ngoại văn (nay là Nhà xuất bản Thế Giới). Ông đã nhiệt tình dịch nhiều tác phẩm văn học lớn của Việt Nam sang tiếng Pháp như "Tắt đèn" (Ngô Tất Tố), "Dế Mèn phiêu lưu ký" (Tô Hoài), góp phần đưa văn học Việt Nam ra thế giới.
 
 <!-- id: EVT-2087 -->
-*   **29/12/1954:** Pháp ký hiệp ước trao toàn bộ quyền hành chính ở miền Nam Việt Nam cho Ngô Đình Diệm.
+*   **29/12/1954:** Pháp ký hiệp ước trao toàn bộ quyền hành chính ở miền Nam Việt Nam cho Ngô Đình Diệm. [Nguồn: Bảo tàng Lịch sử Quốc gia - Pháp ký hiệp ước trao quyền miền Nam (29/12/1954), https://baotanglichsu.vn/vi/Articles/3097/16688/phap-ky-hiep-uoc-trao-quyen-mien-nam-29-12-1954.html]
 
 <!-- id: EVT-2088 -->
 *   **08/01/1955:** Chính quyền Ngô Đình Diệm ban hành Dụ số 2 và Dụ số 7 (03/02/1955) về cải cách điền địa, thực chất là cướp lại ruộng đất mà cách mạng đã chia cho nông dân, khôi phục giai cấp địa chủ.
@@ -6786,16 +6786,16 @@
 *   **03/1955:** Hội nghị lần thứ 7 Ban Chấp hành Trung ương Đảng Lao động Việt Nam đề ra nhiệm vụ củng cố miền Bắc và đấu tranh chính trị ở miền Nam.
 
 <!-- id: EVT-2090 -->
-*   **22/03/1955:** Đảng Nhân dân Cách mạng Lào được thành lập.
+*   **22/03/1955:** Đảng Nhân dân Cách mạng Lào được thành lập. [Nguồn: Bảo tàng Lịch sử Quốc gia - Đảng Nhân dân Cách mạng Lào (22/03/1955), https://baotanglichsu.vn/vi/Articles/3097/16690/djang-nhan-dan-cach-mang-lao-22-03-1955.html]
 
 <!-- id: EVT-2091 -->
-*   **13/05/1955:** Quân và dân ta tiếp quản an toàn, trọn vẹn thành phố Cảng Hải Phòng dưới sự chỉ đạo trực tiếp của đồng chí Đỗ Mười (Bí thư Thành ủy kiêm Chủ tịch Ủy ban Quân chính Hải Phòng) khi những người lính Pháp cuối cùng rút khỏi miền Bắc, hoàn thành giải phóng hoàn toàn miền Bắc sau 9 năm kháng chiến chống Pháp.
+*   **13/05/1955:** Quân và dân ta tiếp quản an toàn, trọn vẹn thành phố Cảng Hải Phòng dưới sự chỉ đạo trực tiếp của đồng chí Đỗ Mười (Bí thư Thành ủy kiêm Chủ tịch Ủy ban Quân chính Hải Phòng) khi những người lính Pháp cuối cùng rút khỏi miền Bắc, hoàn thành giải phóng hoàn toàn miền Bắc sau 9 năm kháng chiến chống Pháp. [Nguồn: Bảo tàng Lịch sử Quốc gia - Tiếp quản Hải Phòng (13/05/1955), https://baotanglichsu.vn/vi/Articles/3097/16686/tiep-quan-hai-phong-13-05-1955.html]
 
 <!-- id: EVT-2092 -->
-*   **16/05/1955:** Quân Pháp rút khỏi Hải Phòng, miền Bắc hoàn toàn được giải phóng, kết thúc 9 năm kháng chiến chống Pháp.
+*   **16/05/1955:** Quân Pháp rút khỏi Hải Phòng, miền Bắc hoàn toàn được giải phóng, kết thúc 9 năm kháng chiến chống Pháp. [Nguồn: Bảo tàng Lịch sử Quốc gia - Tiếp quản Hải Phòng (13/05/1955), https://baotanglichsu.vn/vi/Articles/3097/16686/tiep-quan-hai-phong-13-05-1955.html]
 
 <!-- id: EVT-2093 -->
-*   **25/06/1955:** Trong chuyến thăm chính thức Cộng hòa Nhân dân Trung Hoa, Chủ tịch Hồ Chí Minh được Chủ tịch Mao Trạch Đông đón tiếp trọng thể tại sân bay Bắc Kinh. Trong chuyến thăm, Người đã đến thăm Vạn Lý Trường Thành, biểu tượng lịch sử của Trung Quốc, thắt chặt tình hữu nghị Việt - Trung.
+*   **25/06/1955:** Trong chuyến thăm chính thức Cộng hòa Nhân dân Trung Hoa, Chủ tịch Hồ Chí Minh được Chủ tịch Mao Trạch Đông đón tiếp trọng thể tại sân bay Bắc Kinh. Trong chuyến thăm, Người đã đến thăm Vạn Lý Trường Thành, biểu tượng lịch sử của Trung Quốc, thắt chặt tình hữu nghị Việt - Trung. [Nguồn: Bảo tàng Lịch sử Quốc gia - Hồ Chí Minh thăm Trung Quốc (25/06/1955), https://baotanglichsu.vn/vi/Articles/3097/16691/ho-chi-minh-tham-trung-quoc-25-06-1955.html]
 
 ![Hình ảnh tư liệu](images/event_20260924_103218.webp)
 
@@ -6812,7 +6812,7 @@
 *Nguồn: Chủ tịch Hồ Chí Minh thăm chính thức Liên Xô tháng 07/1955 / Báo Nhân Dân*
 
 <!-- id: EVT-2096 -->
-*   **17/07/1955:** Ngô Đình Diệm tuyên bố từ chối hiệp thương tổng tuyển cử để thống nhất đất nước.
+*   **17/07/1955:** Ngô Đình Diệm tuyên bố từ chối hiệp thương tổng tuyển cử để thống nhất đất nước. [Nguồn: Bảo tàng Lịch sử Quốc gia - Ngô Đình Diệm từ chối tổng tuyển cử (17/07/1955), https://baotanglichsu.vn/vi/Articles/3097/16687/ngo-dinh-diem-tu-choi-tong-tuyen-cu-17-07-1955.html]
 
 <!-- id: EVT-2097 -->
 *   **08/1955:** Hội nghị lần thứ 8 Ban Chấp hành Trung ương Đảng Lao động Việt Nam khẳng định miền Bắc phải tiến lên chủ nghĩa xã hội.
