@@ -4837,7 +4837,7 @@
 *   **Jun. 21, 1925:** The weekly newspaper *Thanh nien* (Youth), the organ of the Vietnamese Revolutionary Youth League, published its first issue.
 
 <!-- id: EVT-1511 -->
-*   **Jun. 30, 1925:** Phan Boi Chau was kidnapped by French colonialists in Shanghai.
+*   **Jun. 30, 1925:** Phan Boi Chau was kidnapped by French colonialists in Shanghai. [Source: Vietnam National Museum of History - Solemn 84th Anniversary Memorial of Patriot Phan Boi Chau, https://baotanglichsu.vn/vi/Articles/3091/75017/trang-trong-le-gio-lan-thu-84-cua-chi-si-yeu-nuoc-phan-boi-chau.html]
 
 <!-- id: EVT-1512 -->
 *   **Aug. 1925:** A strike by over 1,000 workers at the Ba Son shipyard (Saigon), led by Ton Duc Thang, delayed the repair of the French battleship Jules Michelet.
@@ -4846,7 +4846,7 @@
 *   **Nov. 6, 1925 (20th day of the 9th lunar month, At Suu year):** Emperor Khai Dinh passed away from tuberculosis at Kien Trung Palace inside the Hue Imperial Citadel at age 40 after a nine-year reign, and was entombed in the Ung Lang mausoleum.
 
 <!-- id: EVT-1514 -->
-*   **Nov. 23, 1925:** The French colonialists put Phan Boi Chau on trial in Hanoi, sparking a large mass movement demanding his release.
+*   **Nov. 23, 1925:** The French colonialists put Phan Boi Chau on trial in Hanoi, sparking a large mass movement demanding his release. [Source: Vietnam National Museum of History - Solemn 84th Anniversary Memorial of Patriot Phan Boi Chau, https://baotanglichsu.vn/vi/Articles/3091/75017/trang-trong-le-gio-lan-thu-84-cua-chi-si-yeu-nuoc-phan-boi-chau.html]
 
 <!-- id: EVT-1515 -->
 *   **Dec. 24, 1925:** Governor-General Varenne signed an order "pardoning" and placing Phan Boi Chau under house arrest in Hue.
@@ -4864,7 +4864,7 @@
 *   **Mar. 21, 1926:** The Jeune Annam (Youth Party) was established.
 
 <!-- id: EVT-1520 -->
-*   **Mar. 24, 1926:** Phan Chau Trinh passed away in Saigon.
+*   **Mar. 24, 1926:** Phan Chau Trinh passed away in Saigon. [Source: Vietnam National Museum of History - Phan Chau Trinh: Representative of Vietnamese Intellectuals in the Early 20th Century, https://baotanglichsu.vn/vi/Articles/2001/66932/phan-chau-trinh-djai-dien-tri-thuc-viet-nam-djau-the-ky-xx.html]
 
 ![Historical Image](images/event_20260924_124309.webp)
 
@@ -4925,7 +4925,7 @@
 *   **Dec. 12, 1927:** Phung Chi Kien participated in the Guangzhou Uprising led by the Chinese Communist Party, serving as a Company Commander in the Chinese Workers' and Peasants' Red Army.
 
 <!-- id: EVT-1539 -->
-*   **Dec. 25, 1927:** Nguyen Thai Hoc and his associates founded the Viet Nam Quoc Dan Dang (VNQDD) in Hanoi, and he was elected Chairman of the Central Executive Committee.
+*   **Dec. 25, 1927:** Nguyen Thai Hoc and his associates founded the Viet Nam Quoc Dan Dang (VNQDD) in Hanoi, and he was elected Chairman of the Central Executive Committee. [Source: Vietnam National Museum of History - Nguyen Thai Hoc: Leader of the Vietnam Nationalist Party, https://baotanglichsu.vn/vi/Articles/3098/19711/nguyen-thai-hoc-vi-lanh-tu-cua-viet-nam-quoc-dan-djang.html]
 
 <!-- id: EVT-1540 -->
 *   **1928:** Le Duan joined the Vietnamese Revolutionary Youth League, marking the beginning of his nearly 60-year revolutionary career.
@@ -4955,16 +4955,16 @@
 *   **Feb. 9, 1929:** The labor recruiter Bazin was assassinated in Hanoi by a member of the Vietnamese Nationalist Party, leading to a wave of white terror.
 
 <!-- id: EVT-1549 -->
-*   **Mar. 1929:** The first Communist cell was established at 5D Ham Long Street, Hanoi.
+*   **Mar. 1929:** The first Communist cell was established at 5D Ham Long Street, Hanoi. [Source: Vietnam National Museum of History - Revolutionary Relic at 5D Ham Long: Site of the First Communist Cell in Vietnam, March 1929, https://baotanglichsu.vn/vi/Articles/3097/15896/di-tich-cach-mang-nha-so-5d-ham-long-noi-thanh-lap-chi-bo-cong-san-djau-tien-o-viet-nam-vao-thang-3-nam-1929.html]
 
 <!-- id: EVT-1550 -->
 *   **May 1-9, 1929:** The first congress of the Vietnamese Revolutionary Youth League was held in Hong Kong.
 
 <!-- id: EVT-1551 -->
-*   **Jun. 17, 1929:** The Indochinese Communist Party was founded in Hanoi.
+*   **Jun. 17, 1929:** The Indochinese Communist Party was founded in Hanoi. [Source: Vietnam National Museum of History - June 17, 1929: Establishment of the Indochinese Communist Party, https://baotanglichsu.vn/vi/Articles/3097/19278/17-6-1929-thanh-lap-djong-duong-cong-san-djang.html]
 
 <!-- id: EVT-1552 -->
-*   **Nov. 15, 1929:** The Annamese Communist Party was founded in Cochinchina.
+*   **Nov. 15, 1929:** The Annamese Communist Party was founded in Cochinchina. [Source: Vietnam National Museum of History - 84th Anniversary of the Founding of the Annamese Communist Party (Sep. 1929-Sep. 2013), https://baotanglichsu.vn/vi/Articles/3097/15139/ky-niem-84-nam-thanh-lap-an-nam-cong-san-djang-9-1929-9-2013.html]
 
 <!-- id: EVT-1553 -->
 *   **Nov. 27, 1929:** Pho bang Nguyen Sinh Sac (father of President Ho Chi Minh) passed away in Hoa An village, Cao Lanh (now Dong Thap province) at the age of 67. During his final years in Southern Vietnam, he practiced traditional medicine to heal the poor, disseminated patriotic thought, and was deeply revered, sheltered, and entombed by the local people of Dong Thap.
@@ -4985,7 +4985,7 @@
 *   **Jan. 1, 1930:** The Indochinese Communist League was officially established in Ha Tinh. [Source: https://baotanglichsu.vn/vi/Articles/3097/15588/cach-djay-84-nam-1-1930-1-2014-djong-duong-cong-san-lien-djoan-ra-djoi.html]
 
 <!-- id: EVT-1559 -->
-*   **Feb. 1930:** The Yen Bai Uprising, led by the Vietnamese Nationalist Party, broke out and was defeated.
+*   **Feb. 1930:** The Yen Bai Uprising, led by the Vietnamese Nationalist Party, broke out and was defeated. [Source: Vietnam National Museum of History - 84th Anniversary of the Yen Bai Uprising (Feb. 10, 1930): "If not victorious, become a martyr", https://baotanglichsu.vn/vi/Articles/3097/15748/ky-niem-84-nam-khoi-nghia-yen-bai-10-2-1930-10-2-2014-khong-thanh-cong-thi-thanh-nhan.html]
 
 ![Historical Image](images/event_20260924_120758.webp)
 
@@ -5064,7 +5064,7 @@
 *   **Jan. 17, 1931:** The first postal flight between France and Indochina took place.
 
 <!-- id: EVT-1579 -->
-*   **Feb. 9, 1931:** Ly Tu Trong shot and killed the French secret agent Le Grand in Saigon to protect a speaking comrade, after which he was captured by the enemy.
+*   **Feb. 9, 1931:** Ly Tu Trong shot and killed the French secret agent Le Grand in Saigon to protect a speaking comrade, after which he was captured by the enemy. [Source: Vietnam National Museum of History - National Relic Ranking for the Historical Relic of Ly Tu Trong's Tomb, https://baotanglichsu.vn/vi/Articles/3091/17207/xep-hang-di-tich-quoc-gia-voi-di-tich-lich-su-phan-mo-ly-tu-trong.html]
 
 <!-- id: EVT-1580 -->
 *   **Apr. 11, 1931:** The Communist International issued a resolution recognizing the Indochinese Communist Party as an independent section.
@@ -5085,7 +5085,7 @@
 *   **Sep. 6, 1931:** Comrade Tran Phu died in Cho Quan hospital.
 
 <!-- id: EVT-1586 -->
-*   **Nov. 20, 1931:** Ly Tu Trong heroically sacrificed his life at the Saigon Main Prison guillotine at the age of 17, leaving behind the immortal quote: "The path for youth can only be the revolutionary path, there is no other path."
+*   **Nov. 20, 1931:** Ly Tu Trong heroically sacrificed his life at the Saigon Main Prison guillotine at the age of 17, leaving behind the immortal quote: "The path for youth can only be the revolutionary path, there is no other path." [Source: Vietnam National Museum of History - Comrade Ly Tu Trong: A Steadfast, Indomitable Communist and Shining Example for Young Generations, https://baotanglichsu.vn/vi/Articles/3098/75013/djong-chi-ly-tu-trong-nguoi-cong-san-kien-trung-bat-khuat-tam-guong-sang-cho-the-he-tre-hoc-tap-va-noi-theo.html]
 
 <!-- id: EVT-1587 -->
 *   **Dec. 4, 1931:** The French government sent a diplomatic note to the Chinese legation in Paris officially claiming the Paracel Islands.

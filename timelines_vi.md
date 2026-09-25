@@ -4838,7 +4838,7 @@
 *   **21/06/1925:** Tuần báo *Thanh niên*, cơ quan ngôn luận của Hội Việt Nam Cách mạng Thanh niên, ra số đầu tiên.
 
 <!-- id: EVT-1511 -->
-*   **30/06/1925:** Phan Bội Châu bị thực dân Pháp bắt cóc tại Thượng Hải.
+*   **30/06/1925:** Phan Bội Châu bị thực dân Pháp bắt cóc tại Thượng Hải. [Nguồn: Bảo tàng Lịch sử Quốc gia - Trang trọng lễ giỗ lần thứ 84 của chí sĩ yêu nước Phan Bội Châu, https://baotanglichsu.vn/vi/Articles/3091/75017/trang-trong-le-gio-lan-thu-84-cua-chi-si-yeu-nuoc-phan-boi-chau.html]
 
 <!-- id: EVT-1512 -->
 *   **08/1925:** Cuộc bãi công của hơn 1.000 công nhân xưởng Ba Son (Sài Gòn) do Tôn Đức Thắng lãnh đạo, trì hoãn việc sửa chữa chiến hạm Jules Michelet của Pháp.
@@ -4847,7 +4847,7 @@
 *   **06/11/1925 (20/09 năm Ất Sửu):** Vua Khải Định băng hà tại cung Kiến Trung bên trong Hoàng thành Huế ở tuổi 40 vì bệnh lao phổi sau 9 năm trị vì, thọ táng tại Ứng Lăng (Lăng Khải Định).
 
 <!-- id: EVT-1514 -->
-*   **23/11/1925:** Thực dân Pháp đưa Phan Bội Châu ra xét xử tại Hà Nội, làm dấy lên một phong trào quần chúng rộng lớn đòi thả ông.
+*   **23/11/1925:** Thực dân Pháp đưa Phan Bội Châu ra xét xử tại Hà Nội, làm dấy lên một phong trào quần chúng rộng lớn đòi thả ông. [Nguồn: Bảo tàng Lịch sử Quốc gia - Trang trọng lễ giỗ lần thứ 84 của chí sĩ yêu nước Phan Bội Châu, https://baotanglichsu.vn/vi/Articles/3091/75017/trang-trong-le-gio-lan-thu-84-cua-chi-si-yeu-nuoc-phan-boi-chau.html]
 
 <!-- id: EVT-1515 -->
 *   **24/12/1925:** Toàn quyền Varenne ký lệnh "ân xá" và an trí Phan Bội Châu tại Huế.
@@ -4865,7 +4865,7 @@
 *   **21/03/1926:** Đảng Thanh niên Việt Nam (Jeune Annam) được thành lập.
 
 <!-- id: EVT-1520 -->
-*   **24/03/1926:** Phan Châu Trinh qua đời tại Sài Gòn.
+*   **24/03/1926:** Phan Châu Trinh qua đời tại Sài Gòn. [Nguồn: Bảo tàng Lịch sử Quốc gia - Phan Châu Trinh - đại diện trí thức Việt Nam đầu thế kỷ XX, https://baotanglichsu.vn/vi/Articles/2001/66932/phan-chau-trinh-djai-dien-tri-thuc-viet-nam-djau-the-ky-xx.html]
 
 ![Hình ảnh tư liệu](images/event_20260924_124309.webp)
 
@@ -4926,7 +4926,7 @@
 *   **12/12/1927:** Phùng Chí Kiên tham gia Cuộc khởi nghĩa Quảng Châu do Đảng Cộng sản Trung Quốc lãnh đạo, đảm nhiệm chức vụ Đại đội trưởng trong lực lượng Hồng quân công nông Trung Quốc.
 
 <!-- id: EVT-1539 -->
-*   **25/12/1927:** Nguyễn Thái Học cùng các cộng sự thành lập Việt Nam Quốc dân Đảng tại Hà Nội, ông được bầu làm Chủ tịch Ban Chấp hành Trung ương.
+*   **25/12/1927:** Nguyễn Thái Học cùng các cộng sự thành lập Việt Nam Quốc dân Đảng tại Hà Nội, ông được bầu làm Chủ tịch Ban Chấp hành Trung ương. [Nguồn: Bảo tàng Lịch sử Quốc gia - Nguyễn Thái Học - vị lãnh tụ của Việt Nam Quốc dân Đảng, https://baotanglichsu.vn/vi/Articles/3098/19711/nguyen-thai-hoc-vi-lanh-tu-cua-viet-nam-quoc-dan-djang.html]
 
 <!-- id: EVT-1540 -->
 *   **1928:** Lê Duẩn tham gia Hội Việt Nam Cách mạng Thanh niên, bắt đầu cuộc đời hoạt động cách mạng sôi nổi gần 60 năm.
@@ -4956,16 +4956,16 @@
 *   **09/02/1929:** Trùm mộ phu Bazin bị đảng viên Việt Nam Quốc dân Đảng ám sát tại Hà Nội, dẫn đến một đợt khủng bố trắng.
 
 <!-- id: EVT-1549 -->
-*   **03/1929:** Chi bộ Cộng sản đầu tiên được thành lập tại số nhà 5D Hàm Long, Hà Nội.
+*   **03/1929:** Chi bộ Cộng sản đầu tiên được thành lập tại số nhà 5D Hàm Long, Hà Nội. [Nguồn: Bảo tàng Lịch sử Quốc gia - Di tích cách mạng nhà số 5D Hàm Long - Nơi thành lập Chi bộ Cộng sản đầu tiên ở Việt Nam vào tháng 3 năm 1929, https://baotanglichsu.vn/vi/Articles/3097/15896/di-tich-cach-mang-nha-so-5d-ham-long-noi-thanh-lap-chi-bo-cong-san-djau-tien-o-viet-nam-vao-thang-3-nam-1929.html]
 
 <!-- id: EVT-1550 -->
 *   **01-09/05/1929:** Đại hội lần thứ nhất của Hội Việt Nam Cách mạng Thanh niên diễn ra tại Hương Cảng.
 
 <!-- id: EVT-1551 -->
-*   **17/06/1929:** Đông Dương Cộng sản Đảng được thành lập tại Hà Nội.
+*   **17/06/1929:** Đông Dương Cộng sản Đảng được thành lập tại Hà Nội. [Nguồn: Bảo tàng Lịch sử Quốc gia - 17-6-1929: Thành lập Đông Dương Cộng sản Đảng, https://baotanglichsu.vn/vi/Articles/3097/19278/17-6-1929-thanh-lap-djong-duong-cong-san-djang.html]
 
 <!-- id: EVT-1552 -->
-*   **15/11/1929:** An Nam Cộng sản Đảng được thành lập tại Sài Gòn.
+*   **15/11/1929:** An Nam Cộng sản Đảng được thành lập tại Sài Gòn. [Nguồn: Bảo tàng Lịch sử Quốc gia - Kỷ niệm 84 năm thành lập An Nam Cộng sản Đảng (9/1929-9/2013), https://baotanglichsu.vn/vi/Articles/3097/15139/ky-niem-84-nam-thanh-lap-an-nam-cong-san-djang-9-1929-9-2013.html]
 
 <!-- id: EVT-1553 -->
 *   **27/11/1929:** Cụ Phó bảng Nguyễn Sinh Sắc (thân phụ Chủ tịch Hồ Chí Minh) qua đời tại làng Hòa An, Cao Lãnh (nay thuộc tỉnh Đồng Tháp), hưởng thọ 67 tuổi. Suốt những năm tháng cuối đời ở Nam Bộ, cụ đã bốc thuốc cứu người, truyền bá tư tưởng yêu nước và được nhân dân Đồng Tháp hết lòng kính trọng, che chở và xây cất lăng mộ trang nghiêm.
@@ -4986,7 +4986,7 @@
 *   **01/01/1930:** Đông Dương Cộng sản Liên đoàn chính thức thành lập tại Hà Tĩnh. [Nguồn: https://baotanglichsu.vn/vi/Articles/3097/15588/cach-djay-84-nam-1-1930-1-2014-djong-duong-cong-san-lien-djoan-ra-djoi.html]
 
 <!-- id: EVT-1559 -->
-*   **02/1930:** Cuộc khởi nghĩa Yên Bái do Việt Nam Quốc dân Đảng lãnh đạo nổ ra và thất bại.
+*   **02/1930:** Cuộc khởi nghĩa Yên Bái do Việt Nam Quốc dân Đảng lãnh đạo nổ ra và thất bại. [Nguồn: Bảo tàng Lịch sử Quốc gia - Kỷ niệm 84 năm khởi nghĩa Yên Bái (10/2/1930-10/2/2014): "Không thành công thì thành nhân", https://baotanglichsu.vn/vi/Articles/3097/15748/ky-niem-84-nam-khoi-nghia-yen-bai-10-2-1930-10-2-2014-khong-thanh-cong-thi-thanh-nhan.html]
 
 ![Hình ảnh tư liệu](images/event_20260924_120758.webp)
 
@@ -5065,7 +5065,7 @@
 *   **17/01/1931:** Chuyến bay bưu chính đầu tiên giữa Pháp và Đông Dương diễn ra.
 
 <!-- id: EVT-1579 -->
-*   **09/02/1931:** Lý Tự Trọng bắn chết tên mật thám Le Grand tại Sài Gòn để bảo vệ đồng chí diễn thuyết, sau đó bị địch bắt.
+*   **09/02/1931:** Lý Tự Trọng bắn chết tên mật thám Le Grand tại Sài Gòn để bảo vệ đồng chí diễn thuyết, sau đó bị địch bắt. [Nguồn: Bảo tàng Lịch sử Quốc gia - Xếp hạng di tích quốc gia với di tích lịch sử phần mộ Lý Tự Trọng, https://baotanglichsu.vn/vi/Articles/3091/17207/xep-hang-di-tich-quoc-gia-voi-di-tich-lich-su-phan-mo-ly-tu-trong.html]
 
 <!-- id: EVT-1580 -->
 *   **11/04/1931:** Quốc tế Cộng sản ra nghị quyết công nhận Đảng Cộng sản Đông Dương là chi bộ độc lập.
@@ -5086,7 +5086,7 @@
 *   **06/09/1931:** Đồng chí Trần Phú hy sinh tại nhà thương Chợ Quán.
 
 <!-- id: EVT-1586 -->
-*   **20/11/1931:** Lý Tự Trọng anh dũng hy sinh trên máy chém tại khám lớn Sài Gòn khi mới 17 tuổi, để lại câu nói bất hủ: "Con đường của thanh niên chỉ là con đường cách mạng, không thể có con đường nào khác".
+*   **20/11/1931:** Lý Tự Trọng anh dũng hy sinh trên máy chém tại khám lớn Sài Gòn khi mới 17 tuổi, để lại câu nói bất hủ: "Con đường của thanh niên chỉ là con đường cách mạng, không thể có con đường nào khác". [Nguồn: Bảo tàng Lịch sử Quốc gia - Đồng chí Lý Tự Trọng - người cộng sản kiên trung, bất khuất, tấm gương sáng cho thế hệ trẻ học tập và noi theo, https://baotanglichsu.vn/vi/Articles/3098/75013/djong-chi-ly-tu-trong-nguoi-cong-san-kien-trung-bat-khuat-tam-guong-sang-cho-the-he-tre-hoc-tap-va-noi-theo.html]
 
 <!-- id: EVT-1587 -->
 *   **04/12/1931:** Chính phủ Pháp gửi công hàm cho Công sứ quán Trung Quốc tại Paris chính thức yêu sách chủ quyền đối với quần đảo Hoàng Sa.
