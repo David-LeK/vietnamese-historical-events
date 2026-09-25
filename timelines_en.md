@@ -5161,7 +5161,7 @@
 *   **Mar. 27 - 31, 1935:** The 1st National Congress of the Party met in Macao (China), electing a Central Executive Committee with Comrade Le Hong Phong as General Secretary; adopting the Political Resolution and Party Charter, marking the firm restoration and consolidation of the Party apparatus from central to grassroots levels after colonial white terror; Comrade Phung Chi Kien was elected to the Standing Committee in charge of military affairs. [Source: Vietnam National Museum of History - The First National Party Congress - Macau (1935), https://baotanglichsu.vn/vi/Articles/3097/15817/djoa-djai-hoi-djang-lan-thu-nhat-ma-cao-1935.html]
 
 <!-- id: EVT-1610 -->
-*   **Jul. 25 - Aug. 20, 1935:** The Indochinese Communist Party delegation led by General Secretary Le Hong Phong (alongside Nguyen Thi Minh Khai and Hoang Van Non) attended the 7th Congress of the Communist International in Moscow (USSR). The Comintern officially recognized the ICP as an independent section; Comrade Le Hong Phong was elected to the Executive Committee of the Communist International (the only Vietnamese ever elected to this supreme governing body), and Nguyen Thi Minh Khai delivered an acclaimed speech on women's liberation.
+*   **Jul. 25 - Aug. 20, 1935:** The Indochinese Communist Party delegation led by General Secretary Le Hong Phong (alongside Nguyen Thi Minh Khai and Hoang Van Non) attended the 7th Congress of the Communist International in Moscow (USSR). The Comintern officially recognized the ICP as an independent section; Comrade Le Hong Phong was elected to the Executive Committee of the Communist International (the only Vietnamese ever elected to this supreme governing body), and Nguyen Thi Minh Khai delivered an acclaimed speech on women's liberation. [Source: Vietnam National Museum of History - The 7th Congress of the Communist International (July 25 - August 20, 1935), https://baotanglichsu.vn/vi/Articles/3097/16232/djai-hoi-quoc-te-cong-san-lan-thu-vii-25-7-20-8-1935.html]
 
 <!-- id: EVT-1611 -->
 
@@ -5188,13 +5188,13 @@
 *   **May 31, 1936:** Professor, Doctor, People's Physician Dang Hanh De was born in Hanoi. He is one of the foremost pioneers who laid the groundwork and advanced cardiovascular and thoracic surgery in Vietnam, an outstanding disciple continuing the legacy of Professor Ton That Tung, and the Founding President of the Vietnam Society of Cardiovascular and Thoracic Surgery.
 
 <!-- id: EVT-1618 -->
-*   **Jul. 26, 1936:** The Party Central Committee conference in Shanghai (China), chaired by Comrade Le Hong Phong, appointed Comrade Ha Huy Tap as General Secretary (serving until March 1938). The plenum decided on the strategic reorientation for the Indochinese Democratic Front (1936–1939): temporarily shelving slogans for national independence and land confiscation to focus on democratic liberties, food, and peace; combining clandestine activities with open, semi-legal struggle and extensive legal publishing.
+*   **Jul. 26, 1936:** The Party Central Committee conference in Shanghai (China), chaired by Comrade Le Hong Phong, appointed Comrade Ha Huy Tap as General Secretary (serving until March 1938). The plenum decided on the strategic reorientation for the Indochinese Democratic Front (1936–1939): temporarily shelving slogans for national independence and land confiscation to focus on democratic liberties, food, and peace; combining clandestine activities with open, semi-legal struggle and extensive legal publishing. [Source: Vietnam National Museum of History - Le Hong Phong: The First International Communist of Vietnam, https://baotanglichsu.vn/vi/Articles/3098/15745/le-hong-phong-nguoi-cong-san-quoc-te-djau-tien-cua-viet-nam.html]
 
 <!-- id: EVT-1619 -->
 *   **Aug. 1936:** The "Indochinese Congress" movement began vigorously, aiming to collect "people's aspirations" to send to the French Parliament's investigation delegation. Hundreds of "Action Committees" were formed across the country.
 
 <!-- id: EVT-1620 -->
-*   **Nov. 13, 1936:** A general strike by over 30,000 miners in the Hon Gai and Cam Pha region broke out and achieved a major victory.
+*   **Nov. 13, 1936:** A general strike by over 30,000 miners in the Hon Gai and Cam Pha region broke out and achieved a major victory. [Source: Vietnam National Museum of History - The General Strike of Hon Gai and Cam Pha Miners (1936), https://baotanglichsu.vn/vi/Articles/3097/15893/cuoc-tong-bai-cong-cua-cong-nhan-mo-hon-gai-cam-pha-1936.html]
 
 <!-- id: EVT-1621 -->
 *   **Dec. 30, 1936:** The French government issued a decree on the Labor Law in Indochina, regulating certain conditions for workers.
@@ -5221,13 +5221,13 @@
 *   **May 5, 1937:** General Secretary Ha Huy Tap (alias Thanh Huong) published the book *Trotsky and Counter-Revolution*.
 
 <!-- id: EVT-1629 -->
-*   **07/1937:** Young revolutionary Nguyễn Kim Thành (Tố Hữu) was inducted into the Indochinese Communist Party in Huế and composed the landmark poem *Từ ấy* (Since Then), marking the beginning of his distinguished revolutionary poetic career intertwined with Vietnam's modern history.
+*   **07/1937:** Young revolutionary Nguyễn Kim Thành (Tố Hữu) was inducted into the Indochinese Communist Party in Huế and composed the landmark poem *Từ ấy* (Since Then), marking the beginning of his distinguished revolutionary poetic career intertwined with Vietnam's modern history. [Source: Vietnam National Museum of History - To Huu: The Great Revolutionary Poet of the Nation, https://baotanglichsu.vn/vi/Articles/3091/73855/to-huu-nha-tho-cach-mang-lon-cua-dat-nuoc.html]
 
 <!-- id: EVT-1630 -->
 *   **Nov. 10, 1937:** Comrade Le Hong Phong secretly returned to Vietnam, operating in Saigon - Cho Lon under the alias **La Anh** to directly guide the democratic mass struggle of the Indochinese Democratic Front alongside the Cochinchina Regional Party Committee.
 
 <!-- id: EVT-1631 -->
-*   **1938:** In Hanoi, young revolutionaries Truong Chinh (pen name Qua Ninh) and Vo Nguyen Giap (pen name Van Dinh) published the classic theoretical treatise *"The Peasant Question"* (Van de dan cay). The work profoundly analyzed conditions in rural Vietnam, exposed colonial and feudal exploitation, and affirmed the strategic role of the peasantry and the worker-peasant alliance in the national liberation struggle.
+*   **1938:** In Hanoi, young revolutionaries Truong Chinh (pen name Qua Ninh) and Vo Nguyen Giap (pen name Van Dinh) published the classic theoretical treatise *"The Peasant Question"* (Van de dan cay). The work profoundly analyzed conditions in rural Vietnam, exposed colonial and feudal exploitation, and affirmed the strategic role of the peasantry and the worker-peasant alliance in the national liberation struggle. [Source: Vietnam National Museum of History - "The Peasant Question": A Work That Advanced the Vietnamese Revolutionary Movement, https://baotanglichsu.vn/vi/Articles/3091/70703/van-de-dan-cay-tac-pham-gop-phan-thuc-day-phong-trao-cach-mang-viet-nam.html]
 
 <!-- id: EVT-1632 -->
 *   **1938:** Nguyen Ai Quoc returned to China and worked in the Eighth Route Army.
@@ -5242,16 +5242,16 @@
 *   **Feb. 1938:** The Dai Viet Democratic Party was founded.
 
 <!-- id: EVT-1636 -->
-*   **Mar. 29 - 30, 1938:** The Party Central Committee plenum convened in Tan Thoi Nhat, Ba Diem (Hoc Mon, Gia Dinh), deciding to rename the front to the Indochinese Democratic Front and electing Comrade Nguyen Van Cu as General Secretary of the Party Central Committee at the age of 26. As top leader, he demonstrated exceptional theoretical insight, guiding the consolidation of Party organization and the expansion of the democratic struggle movement.
+*   **Mar. 29 - 30, 1938:** The Party Central Committee plenum convened in Tan Thoi Nhat, Ba Diem (Hoc Mon, Gia Dinh), deciding to rename the front to the Indochinese Democratic Front and electing Comrade Nguyen Van Cu as General Secretary of the Party Central Committee at the age of 26. As top leader, he demonstrated exceptional theoretical insight, guiding the consolidation of Party organization and the expansion of the democratic struggle movement. [Source: Vietnam National Museum of History - Le Hong Phong: The First International Communist of Vietnam, https://baotanglichsu.vn/vi/Articles/3098/15745/le-hong-phong-nguoi-cong-san-quoc-te-djau-tien-cua-viet-nam.html]
 
 <!-- id: EVT-1637 -->
 *   **Mar. 30, 1938:** Emperor Bao Dai issued **Imperial Decree No. 10**, separating the Paracel Islands (Archipel des îles Paracels) from Nam Ngai Province and annexing them to Thua Thien Province for enhanced administrative efficiency and coastal defense.
 
 <!-- id: EVT-1638 -->
-*   **May 1, 1938:** A huge rally with 25.000 participants was held openly at the Dau Xao area in Hanoi to celebrate International Workers' Day.
+*   **May 1, 1938:** A huge rally with 25.000 participants was held openly at the Dau Xao area in Hanoi to celebrate International Workers' Day. [Source: Vietnam National Museum of History - The International Workers Day Rally on May 1, 1938 in Hanoi, https://baotanglichsu.vn/vi/Articles/3097/16188/mit-tinh-ngay-quoc-te-lao-dong-1-5-1938-tai-ha-noi.html]
 
 <!-- id: EVT-1639 -->
-*   **May 25, 1938:** The Association for the Propagation of National Script (Hội Truyền bá Quốc ngữ) was founded in Hanoi with scholar Nguyễn Văn Tố (Ứng Hòe) serving as its President. Guided and supported by the Indochinese Communist Party, the association developed a widespread mass literacy campaign across Vietnam, establishing thousands of classes to eradicate illiteracy and foster patriotism before the August Revolution.
+*   **May 25, 1938:** The Association for the Propagation of National Script (Hội Truyền bá Quốc ngữ) was founded in Hanoi with scholar Nguyễn Văn Tố (Ứng Hòe) serving as its President. Guided and supported by the Indochinese Communist Party, the association developed a widespread mass literacy campaign across Vietnam, establishing thousands of classes to eradicate illiteracy and foster patriotism before the August Revolution. [Source: Vietnam National Museum of History - The Society for the Propagation of the National Script (1938-1945), https://baotanglichsu.vn/vi/Articles/2001/66367/hoi-truyen-ba-quoc-ngu-1938-1945.html]
 
 <!-- id: EVT-1640 -->
 *   **Jun. 15, 1938:** Governor-General of Indochina Jules Brévié issued **Decree No. 156-S-C** establishing an administrative delegation (*Délégation administrative*) on the Paracel Islands under Thua Thien Province. France stationed an indigenous guard unit (*Garde Indigène*), built a lighthouse, a meteorological station (international code 48860), a radio station on Pattle Island (Hoang Sa), and erected a sovereignty stele inscribed: *"République Française - Royaume d'Annam - Archipel des Paracels 1816 - Île Pattle 1938"*, formally referencing the 1816 sovereign foundation.
@@ -5275,7 +5275,7 @@
 *   **1939 - 1940:** Bui Van Thuyen (also known as Hai Thieng) was born in a poor peasant family in Chau Thanh, Tay Ninh. Coming from a patriotic family where his father and brother fought against the French, he would later become a legendary guerrilla fighter, participating in over 1,000 battles and sustaining 72 wounds throughout the resistance against the US.
 
 <!-- id: EVT-1646 -->
-*   **1939:** Dr. Ton That Tung published his research on liver anatomy, laying the foundation for the world-renowned "Ton That Tung liver resection method" (dry liver surgery).
+*   **1939:** Dr. Ton That Tung published his research on liver anatomy, laying the foundation for the world-renowned "Ton That Tung liver resection method" (dry liver surgery). [Source: Vietnam National Museum of History - Professor Ton That Tung: A World-Leading Liver Surgeon, https://baotanglichsu.vn/vi/Articles/3091/73994/giao-su-ton-that-tung-nha-phau-thuat-gan-hang-dau-the-gioi.html]
 
 <!-- id: EVT-1647 -->
 *   **Mar. 12, 1939:** The Vietnam Restoration League (Phuc Quoc Hoi) was officially launched in Shanghai.
@@ -5394,7 +5394,7 @@
 *   **Oct. 1, 1942:** The Vietnam Revolutionary League (Viet Cach) was founded in Liuzhou, China, gathering various patriotic groups.
 
 <!-- id: EVT-1683 -->
-*   **1943:** The Indochinese Communist Party published the *Theses on Vietnamese Culture*.
+*   **1943:** The Indochinese Communist Party published the *Theses on Vietnamese Culture*. [Source: Vietnam National Museum of History - The Outline of Vietnamese Culture of 1943, https://baotanglichsu.vn/vi/Articles/3097/15943/de-cuong-ve-van-hoa-viet-nam-nam-1943.html]
 
 <!-- id: EVT-1684 -->
 *   **1943:** Luu Tan Phat opened the "Tan Phat" watch shop in My Tho, which served as a secret base for connecting with other revolutionaries.

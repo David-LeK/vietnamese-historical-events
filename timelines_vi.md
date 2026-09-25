@@ -5162,7 +5162,7 @@
 *   **27 - 31/03/1935:** Đại hội đại biểu toàn quốc lần thứ I của Đảng họp tại Ma Cao (Trung Quốc) bầu Ban Chấp hành Trung ương do đồng chí Lê Hồng Phong làm Tổng Bí thư; thông qua Nghị quyết chính trị và Điều lệ Đảng, đánh dấu sự khôi phục và củng cố vững chắc hệ thống tổ chức của Đảng từ Trung ương đến cơ sở sau thời kỳ khủng bố trắng của thực dân Pháp; đồng chí Phùng Chí Kiên được bầu vào Ban Thường vụ Ban Chấp hành Trung ương Đảng, trực tiếp phụ trách công tác quân sự. [Nguồn: Bảo tàng Lịch sử Quốc gia - Đại hội Đảng lần thứ nhất - Ma Cao (1935), https://baotanglichsu.vn/vi/Articles/3097/15817/djoa-djai-hoi-djang-lan-thu-nhat-ma-cao-1935.html]
 
 <!-- id: EVT-1610 -->
-*   **25/07 - 20/08/1935:** Đoàn đại biểu Đảng Cộng sản Đông Dương do Tổng Bí thư Lê Hồng Phong dẫn đầu (cùng Nguyễn Thị Minh Khai và Hoàng Văn Nọn) tham dự Đại hội lần thứ VII Quốc tế Cộng sản tại Moskva (Liên Xô). Đại hội chính thức công nhận Đảng là một phân bộ độc lập trực thuộc Quốc tế Cộng sản; đồng chí Lê Hồng Phong được bầu làm Ủy viên Ban Chấp hành Quốc tế Cộng sản (người Việt Nam đầu tiên và duy nhất được bầu vào cơ quan lãnh đạo tối cao này); đồng chí Nguyễn Thị Minh Khai có bài tham luận gây tiếng vang lớn về phong trào phụ nữ giải phóng.
+*   **25/07 - 20/08/1935:** Đoàn đại biểu Đảng Cộng sản Đông Dương do Tổng Bí thư Lê Hồng Phong dẫn đầu (cùng Nguyễn Thị Minh Khai và Hoàng Văn Nọn) tham dự Đại hội lần thứ VII Quốc tế Cộng sản tại Moskva (Liên Xô). Đại hội chính thức công nhận Đảng là một phân bộ độc lập trực thuộc Quốc tế Cộng sản; đồng chí Lê Hồng Phong được bầu làm Ủy viên Ban Chấp hành Quốc tế Cộng sản (người Việt Nam đầu tiên và duy nhất được bầu vào cơ quan lãnh đạo tối cao này); đồng chí Nguyễn Thị Minh Khai có bài tham luận gây tiếng vang lớn về phong trào phụ nữ giải phóng. [Nguồn: Bảo tàng Lịch sử Quốc gia - Đại hội Quốc tế Cộng sản lần thứ VII (25/7-20/8/1935), https://baotanglichsu.vn/vi/Articles/3097/16232/djai-hoi-quoc-te-cong-san-lan-thu-vii-25-7-20-8-1935.html]
 
 <!-- id: EVT-1611 -->
 
@@ -5189,13 +5189,13 @@
 *   **31/05/1936:** Giáo sư, Bác sĩ, Thầy thuốc Nhân dân Đặng Hanh Đệ sinh ra tại Hà Nội. Ông là một trong những chuyên gia đầu ngành đặt nền móng và phát triển vượt bậc chuyên ngành Phẫu thuật Tim mạch và Lồng ngực tại Việt Nam, học trò xuất sắc kế tục sự nghiệp của GS Tôn Thất Tùng và là Chủ tịch sáng lập Hội Phẫu thuật Tim mạch và Lồng ngực Việt Nam.
 
 <!-- id: EVT-1618 -->
-*   **26/07/1936:** Hội nghị Ban Chấp hành Trung ương Đảng tại Thượng Hải (Trung Quốc) do đồng chí Lê Hồng Phong chủ trì, cử đồng chí Hà Huy Tập làm Tổng Bí thư (đảm nhiệm đến tháng 3/1938). Hội nghị quyết định chuyển hướng chỉ đạo chiến lược thời kỳ Mặt trận Dân chủ Đông Dương (1936 - 1939): tạm gác các khẩu hiệu độc lập dân tộc và tịch thu ruộng đất, tập trung đòi tự do dân chủ, cơm áo, hòa bình; kết hợp đấu tranh bí mật với công khai, nửa công khai và xuất bản báo chí hợp pháp rộng rãi.
+*   **26/07/1936:** Hội nghị Ban Chấp hành Trung ương Đảng tại Thượng Hải (Trung Quốc) do đồng chí Lê Hồng Phong chủ trì, cử đồng chí Hà Huy Tập làm Tổng Bí thư (đảm nhiệm đến tháng 3/1938). Hội nghị quyết định chuyển hướng chỉ đạo chiến lược thời kỳ Mặt trận Dân chủ Đông Dương (1936 - 1939): tạm gác các khẩu hiệu độc lập dân tộc và tịch thu ruộng đất, tập trung đòi tự do dân chủ, cơm áo, hòa bình; kết hợp đấu tranh bí mật với công khai, nửa công khai và xuất bản báo chí hợp pháp rộng rãi. [Nguồn: Bảo tàng Lịch sử Quốc gia - Lê Hồng Phong: người cộng sản quốc tế đầu tiên của Việt Nam, https://baotanglichsu.vn/vi/Articles/3098/15745/le-hong-phong-nguoi-cong-san-quoc-te-djau-tien-cua-viet-nam.html]
 
 <!-- id: EVT-1619 -->
 *   **08/1936:** Phong trào "Đông Dương Đại hội" bắt đầu sôi nổi, nhằm thu thập "dân nguyện" để gửi cho phái đoàn điều tra của Quốc hội Pháp. Hàng trăm "Ủy ban hành động" được thành lập trên cả nước.
 
 <!-- id: EVT-1620 -->
-*   **13/11/1936:** Cuộc tổng bãi công của hơn 3 vạn công nhân mỏ vùng Hòn Gai, Cẩm Phả nổ ra và giành thắng lợi lớn.
+*   **13/11/1936:** Cuộc tổng bãi công của hơn 3 vạn công nhân mỏ vùng Hòn Gai, Cẩm Phả nổ ra và giành thắng lợi lớn. [Nguồn: Bảo tàng Lịch sử Quốc gia - Cuộc tổng bãi công của công nhân mỏ Hòn Gai, Cẩm Phả (1936), https://baotanglichsu.vn/vi/Articles/3097/15893/cuoc-tong-bai-cong-cua-cong-nhan-mo-hon-gai-cam-pha-1936.html]
 
 <!-- id: EVT-1621 -->
 *   **30/12/1936:** Chính phủ Pháp ban hành Sắc lệnh về Luật Lao động ở Đông Dương, quy định một số chế độ cho người lao động.
@@ -5222,13 +5222,13 @@
 *   **05/05/1937:** Tổng Bí thư Hà Huy Tập (bút danh Thanh Hương) xuất bản tác phẩm *Tờrốtxky và phản cách mạng*.
 
 <!-- id: EVT-1629 -->
-*   **07/1937:** Nhà cách mạng trẻ Nguyễn Kim Thành (Tố Hữu) được kết nạp vào Đảng Cộng sản Đông Dương tại Huế và sáng tác bài thơ *Từ ấy*, cột mốc mở đầu cho sự nghiệp thơ ca cách mạng vẻ vang gắn liền với các chặng đường lịch sử của dân tộc.
+*   **07/1937:** Nhà cách mạng trẻ Nguyễn Kim Thành (Tố Hữu) được kết nạp vào Đảng Cộng sản Đông Dương tại Huế và sáng tác bài thơ *Từ ấy*, cột mốc mở đầu cho sự nghiệp thơ ca cách mạng vẻ vang gắn liền với các chặng đường lịch sử của dân tộc. [Nguồn: Bảo tàng Lịch sử Quốc gia - Tố Hữu: nhà thơ cách mạng lớn của đất nước, https://baotanglichsu.vn/vi/Articles/3091/73855/to-huu-nha-tho-cach-mang-lon-cua-dat-nuoc.html]
 
 <!-- id: EVT-1630 -->
 *   **10/11/1937:** Đồng chí Lê Hồng Phong bí mật về nước, hoạt động tại Sài Gòn - Chợ Lớn dưới bí danh **La Anh**, trực tiếp cùng Xứ ủy Nam Kỳ chỉ đạo phong trào đấu tranh dân sinh, dân chủ trong thời kỳ Mặt trận Dân chủ Đông Dương.
 
 <!-- id: EVT-1631 -->
-*   **1938:** Tại Hà Nội, hai nhà cách mạng trẻ Trường Chinh (bút danh Qua Ninh) và Võ Nguyên Giáp (bút danh Vân Đình) xuất bản tác phẩm lý luận kinh điển *"Vấn đề dân cày"*. Tác phẩm phân tích sâu sắc thực trạng nông thôn Việt Nam, vạch trần tội ác bóc lột của thực dân và phong kiến địa chủ, khẳng định vai trò chiến lược của giai cấp nông dân và liên minh công nông trong sự nghiệp cách mạng giải phóng dân tộc.
+*   **1938:** Tại Hà Nội, hai nhà cách mạng trẻ Trường Chinh (bút danh Qua Ninh) và Võ Nguyên Giáp (bút danh Vân Đình) xuất bản tác phẩm lý luận kinh điển *"Vấn đề dân cày"*. Tác phẩm phân tích sâu sắc thực trạng nông thôn Việt Nam, vạch trần tội ác bóc lột của thực dân và phong kiến địa chủ, khẳng định vai trò chiến lược của giai cấp nông dân và liên minh công nông trong sự nghiệp cách mạng giải phóng dân tộc. [Nguồn: Bảo tàng Lịch sử Quốc gia - "Vấn đề dân cày": tác phẩm góp phần thúc đẩy phong trào cách mạng Việt Nam, https://baotanglichsu.vn/vi/Articles/3091/70703/van-de-dan-cay-tac-pham-gop-phan-thuc-day-phong-trao-cach-mang-viet-nam.html]
 
 <!-- id: EVT-1632 -->
 *   **1938:** Nguyễn Ái Quốc trở lại Trung Quốc, hoạt động trong Bát lộ quân.
@@ -5243,16 +5243,16 @@
 *   **02/1938:** Đại Việt Dân chính Đảng được thành lập.
 
 <!-- id: EVT-1636 -->
-*   **29 - 30/03/1938:** Hội nghị Ban Chấp hành Trung ương Đảng họp tại Tân Thới Nhất, Bà Điểm (Hóc Môn, Gia Định), quyết định đổi tên Mặt trận thành Mặt trận Dân chủ Đông Dương và bầu đồng chí Nguyễn Văn Cừ làm Tổng Bí thư Ban Chấp hành Trung ương Đảng ở tuổi 26. Trên cương vị lãnh đạo cao nhất, ông đã thể hiện phẩm chất lý luận xuất sắc, chỉ đạo củng cố tổ chức Đảng và mở rộng phong trào đấu tranh dân chủ.
+*   **29 - 30/03/1938:** Hội nghị Ban Chấp hành Trung ương Đảng họp tại Tân Thới Nhất, Bà Điểm (Hóc Môn, Gia Định), quyết định đổi tên Mặt trận thành Mặt trận Dân chủ Đông Dương và bầu đồng chí Nguyễn Văn Cừ làm Tổng Bí thư Ban Chấp hành Trung ương Đảng ở tuổi 26. Trên cương vị lãnh đạo cao nhất, ông đã thể hiện phẩm chất lý luận xuất sắc, chỉ đạo củng cố tổ chức Đảng và mở rộng phong trào đấu tranh dân chủ. [Nguồn: Bảo tàng Lịch sử Quốc gia - Lê Hồng Phong: người cộng sản quốc tế đầu tiên của Việt Nam, https://baotanglichsu.vn/vi/Articles/3098/15745/le-hong-phong-nguoi-cong-san-quoc-te-djau-tien-cua-viet-nam.html]
 
 <!-- id: EVT-1637 -->
 *   **30/03/1938 (29/02 năm Mậu Dần):** Vua Bảo Đại ban hành **Dụ số 10**, cải biến các cù lao Hoàng Sa (Archipel des îles Paracels), tách khỏi địa hạt tỉnh Nam Ngãi và sáp nhập vào tỉnh Thừa Thiên để thuận tiện cho việc quản lý hành chính và tuần phòng biển đảo.
 
 <!-- id: EVT-1638 -->
-*   **01/05/1938:** Cuộc mít tinh khổng lồ với 25.000 người tham gia được tổ chức công khai tại khu Đấu Xảo, Hà Nội để kỷ niệm ngày Quốc tế Lao động.
+*   **01/05/1938:** Cuộc mít tinh khổng lồ với 25.000 người tham gia được tổ chức công khai tại khu Đấu Xảo, Hà Nội để kỷ niệm ngày Quốc tế Lao động. [Nguồn: Bảo tàng Lịch sử Quốc gia - Mít tinh ngày Quốc tế Lao động 1/5/1938 tại Hà Nội, https://baotanglichsu.vn/vi/Articles/3097/16188/mit-tinh-ngay-quoc-te-lao-dong-1-5-1938-tai-ha-noi.html]
 
 <!-- id: EVT-1639 -->
-*   **25/05/1938:** Hội Truyền bá Quốc ngữ được thành lập tại Hà Nội do học giả Nguyễn Văn Tố (Ứng Hòe) làm Hội trưởng. Dưới sự cổ vũ và giúp đỡ của Đảng Cộng sản Đông Dương, Hội đã phát triển phong trào xóa mù chữ rộng khắp cả nước, mở hàng ngàn lớp học bình dân giúp nâng cao dân trí và khơi dậy tinh thần yêu nước của nhân dân trước Cách mạng tháng Tám.
+*   **25/05/1938:** Hội Truyền bá Quốc ngữ được thành lập tại Hà Nội do học giả Nguyễn Văn Tố (Ứng Hòe) làm Hội trưởng. Dưới sự cổ vũ và giúp đỡ của Đảng Cộng sản Đông Dương, Hội đã phát triển phong trào xóa mù chữ rộng khắp cả nước, mở hàng ngàn lớp học bình dân giúp nâng cao dân trí và khơi dậy tinh thần yêu nước của nhân dân trước Cách mạng tháng Tám. [Nguồn: Bảo tàng Lịch sử Quốc gia - Hội Truyền bá Quốc ngữ (1938-1945), https://baotanglichsu.vn/vi/Articles/2001/66367/hoi-truyen-ba-quoc-ngu-1938-1945.html]
 
 <!-- id: EVT-1640 -->
 *   **15/06/1938:** Toàn quyền Đông Dương Jules Brévié ký **Nghị định số 156-S-C** thành lập một Đại lý hành chính (Délégation administrative) tại quần đảo Hoàng Sa thuộc tỉnh Thừa Thiên. Pháp cử một đơn vị lính bảo an (Garde Indigène) đồn trú, xây dựng một ngọn hải đăng, một trạm khí tượng thủy văn (mã quốc tế 48860), một trạm vô tuyến điện trên đảo Hoàng Sa (Pattle), đồng thời dựng cột bia chủ quyền khắc dòng chữ: *"République Française - Royaume d'Annam - Archipel des Paracels 1816 - Île Pattle 1938"* để khẳng định chủ quyền kế thừa từ năm 1816.
@@ -5276,7 +5276,7 @@
 *   **1939 - 1940:** Bùi Văn Thuyên (còn gọi là Hai Thiêng) sinh ra trong một gia đình nông dân nghèo tại Châu Thành, Tây Ninh. Xuất thân từ một gia đình giàu truyền thống yêu nước có cha và anh tham gia kháng chiến chống Pháp, ông sau này trở thành một chiến sĩ du kích huyền thoại, tham gia hơn 1.000 trận đánh và mang trên mình 72 vết thương trong suốt cuộc kháng chiến chống Mỹ.
 
 <!-- id: EVT-1646 -->
-*   **1939:** Bác sĩ Tôn Thất Tùng công bố công trình nghiên cứu về cấu trúc gan, đặt nền móng cho "Phương pháp mổ gan Tôn Thất Tùng" (mổ gan khô) nổi tiếng thế giới.
+*   **1939:** Bác sĩ Tôn Thất Tùng công bố công trình nghiên cứu về cấu trúc gan, đặt nền móng cho "Phương pháp mổ gan Tôn Thất Tùng" (mổ gan khô) nổi tiếng thế giới. [Nguồn: Bảo tàng Lịch sử Quốc gia - Giáo sư Tôn Thất Tùng: nhà phẫu thuật gan hàng đầu thế giới, https://baotanglichsu.vn/vi/Articles/3091/73994/giao-su-ton-that-tung-nha-phau-thuat-gan-hang-dau-the-gioi.html]
 
 <!-- id: EVT-1647 -->
 *   **12/03/1939:** Việt Nam Phục quốc Đồng minh Hội chính thức ra mắt tại Thượng Hải.
@@ -5395,7 +5395,7 @@
 *   **01/10/1942:** Việt Nam Cách mệnh Đồng minh Hội (Việt Cách) được thành lập tại Liễu Châu (Trung Quốc), tập hợp nhiều đảng phái yêu nước.
 
 <!-- id: EVT-1683 -->
-*   **1943:** Đảng Cộng sản Đông Dương công bố bản *Đề cương về Văn hóa Việt Nam*.
+*   **1943:** Đảng Cộng sản Đông Dương công bố bản *Đề cương về Văn hóa Việt Nam*. [Nguồn: Bảo tàng Lịch sử Quốc gia - Đề cương về Văn hóa Việt Nam năm 1943, https://baotanglichsu.vn/vi/Articles/3097/15943/de-cuong-ve-van-hoa-viet-nam-nam-1943.html]
 
 <!-- id: EVT-1684 -->
 *   **1943:** Lưu Tấn Phát mở tiệm đồng hồ "Tấn Phát" tại Mỹ Tho, nơi đây trở thành cơ sở bí mật để chắp nối với các đồng chí cách mạng.
