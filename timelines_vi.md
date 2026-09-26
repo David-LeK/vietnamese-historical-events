@@ -8051,242 +8051,242 @@
 *   **18/06/1969:** Nhà nước Việt Nam ký quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho 7 cán bộ, chiến sĩ Quân chủng Phòng không - Không quân và Tổng cục Hậu cần có thành tích chiến đấu xuất sắc: phi công tiêm kích cấp Ace Nguyễn Văn Cốc (bắn rơi 11 máy bay Mỹ, phi công bắn rơi nhiều máy bay nhất trong chiến tranh; sau là Trung tướng, Tư lệnh Quân chủng Không quân), phi công tiêm kích cấp Ace Nguyễn Hồng Nhị (bắn rơi 8 máy bay Mỹ; sau là Thiếu tướng, Phó Tư lệnh kiêm Tham mưu trưởng Quân chủng Không quân), phi công tiêm kích cấp Ace Phạm Thanh Ngân (bắn rơi 8 máy bay Mỹ; sau là Thượng tướng, Chủ nhiệm Tổng cục Chính trị), Nguyễn Huy Hồng (Thượng sĩ, Trung đội phó pháo cao xạ thuộc Trung đoàn 233, Sư đoàn 361 PK-KQ, bảo vệ bầu trời Hà Nội), Bùi Xuân Chiến (Hạ sĩ, khẩu đội trưởng pháo cao xạ 100mm thuộc Trung đoàn 240, Sư đoàn 363 PK-KQ, đánh hơn 300 trận bảo vệ Vinh, phà Bến Thủy, cầu Lai Vu; sau là Thiếu tá, Phó Trung đoàn trưởng), Ngô Văn Tác (Trung úy, trưởng xe kiêm sĩ quan điều khiển thuộc Tiểu đoàn 71 tên lửa phòng không, Trung đoàn 285, Sư đoàn 369), và Trần Công Nhỡn (Thượng sĩ, Trung đội trưởng lái xe thuộc Đoàn 878, Binh trạm 16, Đoàn 500 Tổng cục Hậu cần, vận chuyển chi viện chiến trường). [Nguồn: Quân chủng Phòng không - Không quân, Lịch sử Không quân nhân dân Việt Nam (1955 - 2015), NXB Quân đội nhân dân, Hà Nội, 2015; Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân, Hà Nội, 1996]
 
 <!-- id: EVT-2481 -->
-*   **Cuối tháng 7/1969:** Thiều Văn Chỏi cải trang quân phục lính bảo an tấn công đồn Vàm Bưng và đồn Mang Cá khi địch đang tiệc tùng, diệt 5 tên, làm bị thương 3 tên, thu 6 súng, khiến quân địch hoang mang lập miếu thờ "Ông Thần Chỏi".
+*   **Cuối tháng 7/1969:** Thiều Văn Chỏi cải trang quân phục lính bảo an tấn công đồn Vàm Bưng và đồn Mang Cá khi địch đang tiệc tùng, diệt 5 tên, làm bị thương 3 tên, thu 6 súng, khiến quân địch hoang mang lập miếu thờ "Ông Thần Chỏi". [Nguồn: Bộ Chỉ huy Quân sự tỉnh Hậu Giang, Lịch sử Lực lượng vũ trang nhân dân tỉnh Cần Thơ (1945 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005]
 
 <!-- id: EVT-2482 -->
-*   **25/08/1969:** Chủ tịch Hồ Chí Minh gửi thư trả lời Tổng thống Mỹ Richard Nixon (phúc đáp bức thư ngày 15/07/1969 của Nixon). Đây là văn kiện ngoại giao cuối cùng của Người trước khi qua đời (chỉ 8 ngày sau đó). Trong thư, Người kiên quyết lên án cuộc chiến tranh xâm lược của Mỹ, đồng thời khẳng định thiện chí và lập trường hòa bình chính nghĩa của nhân dân Việt Nam: *"Nhân dân Việt Nam chúng tôi rất yêu chuộng hòa bình, một nền hòa bình chân chính trong độc lập và tự do thật sự. Nhân dân Việt Nam quyết chiến đấu đến cùng, không sợ hy sinh gian khổ, để bảo vệ Tổ quốc và các quyền dân tộc thiêng liêng của mình"*. Người nhấn mạnh để giải quyết chiến tranh trong danh dự, Mỹ phải chấm dứt chiến tranh xâm lược, rút toàn bộ quân Mỹ và đồng minh khỏi miền Nam Việt Nam, tôn trọng quyền tự quyết của nhân dân miền Nam và của dân tộc Việt Nam không có sự can thiệp từ bên ngoài.
+*   **25/08/1969:** Chủ tịch Hồ Chí Minh gửi thư trả lời Tổng thống Mỹ Richard Nixon (phúc đáp bức thư ngày 15/07/1969 của Nixon). Đây là văn kiện ngoại giao cuối cùng của Người trước khi qua đời (chỉ 8 ngày sau đó). Trong thư, Người kiên quyết lên án cuộc chiến tranh xâm lược của Mỹ, đồng thời khẳng định thiện chí và lập trường hòa bình chính nghĩa của nhân dân Việt Nam: *"Nhân dân Việt Nam chúng tôi rất yêu chuộng hòa bình, một nền hòa bình chân chính trong độc lập và tự do thật sự. Nhân dân Việt Nam quyết chiến đấu đến cùng, không sợ hy sinh gian khổ, để bảo vệ Tổ quốc và các quyền dân tộc thiêng liêng của mình"*. Người nhấn mạnh để giải quyết chiến tranh trong danh dự, Mỹ phải chấm dứt chiến tranh xâm lược, rút toàn bộ quân Mỹ và đồng minh khỏi miền Nam Việt Nam, tôn trọng quyền tự quyết của nhân dân miền Nam và của dân tộc Việt Nam không có sự can thiệp từ bên ngoài. [Nguồn: Hồ Chí Minh Toàn tập, tập 15 (1966 - 1969), NXB Chính trị quốc gia, Hà Nội, 2011, tr. 601-604; Báo Nhân Dân]
 
 <!-- id: EVT-2483 -->
-*   **02/09/1969:** Vào lúc 9 giờ 47 phút ngày 2 tháng 9 năm 1969, Chủ tịch Hồ Chí Minh kính yêu từ trần tại Thủ đô Hà Nội, hưởng thọ 79 tuổi. Toàn Đảng, toàn quân và toàn thể nhân dân Việt Nam biến đau thương thành hành động cách mạng, quyết tâm thực hiện thắng lợi Di chúc thiêng liêng của Người.
+*   **02/09/1969:** Vào lúc 9 giờ 47 phút ngày 2 tháng 9 năm 1969, Chủ tịch Hồ Chí Minh kính yêu từ trần tại Thủ đô Hà Nội, hưởng thọ 79 tuổi. Toàn Đảng, toàn quân và toàn thể nhân dân Việt Nam biến đau thương thành hành động cách mạng, quyết tâm thực hiện thắng lợi Di chúc thiêng liêng của Người. [Nguồn: Ban Chấp hành Trung ương Đảng, Thông cáo đặc biệt về việc Chủ tịch Hồ Chí Minh từ trần; Báo Nhân Dân số ra ngày 04/09/1969]
 
 ![Hình ảnh tư liệu](images/event_20260923_225153.webp)
 
 *Nguồn: Chân dung Chủ tịch Hồ Chí Minh / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-2484 -->
-*   **04/09/1969:** Sau khi Chủ tịch Hồ Chí Minh từ trần, Fidel Castro và Chủ tịch nước Cuba Osvaldo Dorticós Torrado đã gửi bức điện chia buồn đánh giá rất cao những phẩm chất cách mạng và tài năng lãnh đạo của Người.
+*   **04/09/1969:** Sau khi Chủ tịch Hồ Chí Minh từ trần, Fidel Castro và Chủ tịch nước Cuba Osvaldo Dorticós Torrado đã gửi bức điện chia buồn đánh giá rất cao những phẩm chất cách mạng và tài năng lãnh đạo của Người. [Nguồn: Bộ Ngoại giao, 60 năm quan hệ hữu nghị truyền thống đặc biệt Việt Nam - Cuba (1960 - 2020), NXB Chính trị quốc gia Sự thật, Hà Nội, 2020]
 
 <!-- id: EVT-2485 -->
-*   **09/09/1969:** Tại chùa Khánh Hưng (quận 3, Sài Gòn), Thượng tọa Thích Pháp Lan - trụ trì chùa - bí mật tổ chức Lễ truy điệu Chủ tịch Hồ Chí Minh đúng thời điểm cả nước cử hành Quốc tang tại Quảng trường Ba Đình, với sự tham dự của hàng trăm trí thức, học sinh, sinh viên và Phật tử. Trong bối cảnh chính quyền Việt Nam Cộng hòa cấm đoán ngặt nghèo mọi hình thức tưởng niệm, Hòa thượng dụng tâm thiết kế tấm trướng có câu đối ẩn nghĩa "Chí Minh" cùng bàn thờ bài trí theo màu cờ Tổ quốc, đồng thời châm lửa đốt ngay bản thảo điếu văn sau khi đọc để xóa dấu vết. Lễ vừa kết thúc, đoàn người xuống đường biểu tình nhưng bị cảnh sát giải tán. Sau đó, Hòa thượng bị Tổng nha Cảnh sát Sài Gòn triệu đến chất vấn nhiều giờ; bằng lập luận kiên định - nhấn mạnh rằng người tu hành chỉ kính trọng những người yêu nước mà Hồ Chí Minh là người yêu nước được nhân dân kính trọng - ngài buộc chính quyền phải trả tự do ngay trong ngày. Bàn thờ trong lễ truy điệu sau đó được Bảo tàng Hồ Chí Minh đón về trưng bày.
+*   **09/09/1969:** Tại chùa Khánh Hưng (quận 3, Sài Gòn), Thượng tọa Thích Pháp Lan - trụ trì chùa - bí mật tổ chức Lễ truy điệu Chủ tịch Hồ Chí Minh đúng thời điểm cả nước cử hành Quốc tang tại Quảng trường Ba Đình, với sự tham dự của hàng trăm trí thức, học sinh, sinh viên và Phật tử. Trong bối cảnh chính quyền Việt Nam Cộng hòa cấm đoán ngặt nghèo mọi hình thức tưởng niệm, Hòa thượng dụng tâm thiết kế tấm trướng có câu đối ẩn nghĩa "Chí Minh" cùng bàn thờ bài trí theo màu cờ Tổ quốc, đồng thời châm lửa đốt ngay bản thảo điếu văn sau khi đọc để xóa dấu vết. Lễ vừa kết thúc, đoàn người xuống đường biểu tình nhưng bị cảnh sát giải tán. Sau đó, Hòa thượng bị Tổng nha Cảnh sát Sài Gòn triệu đến chất vấn nhiều giờ; bằng lập luận kiên định - nhấn mạnh rằng người tu hành chỉ kính trọng những người yêu nước mà Hồ Chí Minh là người yêu nước được nhân dân kính trọng - ngài buộc chính quyền phải trả tự do ngay trong ngày. Bàn thờ trong lễ truy điệu sau đó được Bảo tàng Hồ Chí Minh đón về trưng bày. [Nguồn: Văn kiện Quốc hội Toàn tập, tập 3 (1964 - 1971), NXB Chính trị quốc gia, Hà Nội, 2008]
 
 <!-- id: EVT-2486 -->
-*   **23/09/1969:** Quốc hội khóa III bầu đồng chí Tôn Đức Thắng giữ chức Chủ tịch nước và đồng chí Nguyễn Lương Bằng giữ chức Phó Chủ tịch nước Việt Nam Dân chủ Cộng hòa.
+*   **23/09/1969:** Quốc hội khóa III bầu đồng chí Tôn Đức Thắng giữ chức Chủ tịch nước và đồng chí Nguyễn Lương Bằng giữ chức Phó Chủ tịch nước Việt Nam Dân chủ Cộng hòa. [Nguồn: Văn kiện Quốc hội Toàn tập, tập 3 (1964 - 1971), NXB Chính trị quốc gia, Hà Nội, 2008]
 
 <!-- id: EVT-2487 -->
-*   **04/10/1969 (hoặc cuối 1969/tháng 10/1970 theo các tài liệu khác nhau):** **Trận Suối Sóc (bàu Sa Nghe).** Bùi Văn Thuyên cùng dân quân tên Chiến đụng độ lực lượng lớn quân Mỹ đi càn. Khi đồng đội bị thương, ông đã một mình chiến đấu từ sáng đến 5 giờ chiều. Luân phiên sử dụng 7 loại vũ khí khác nhau (như AK, B40, M79, đại liên), ông liên tục cơ động, bẻ gãy nhiều đợt tiến công và tiêu diệt hàng trăm lính Mỹ (được ghi nhận là 360 tên). Năm 1995, phái đoàn MIA của Mỹ khi trở lại chiến trường này đã thừa nhận tổn thất nặng nề và vô cùng kinh ngạc khi biết họ chỉ đối đầu với một người duy nhất.
+*   **04/10/1969 (hoặc cuối 1969/tháng 10/1970 theo các tài liệu khác nhau):** **Trận Suối Sóc (bàu Sa Nghe).** Bùi Văn Thuyên cùng dân quân tên Chiến đụng độ lực lượng lớn quân Mỹ đi càn. Khi đồng đội bị thương, ông đã một mình chiến đấu từ sáng đến 5 giờ chiều. Luân phiên sử dụng 7 loại vũ khí khác nhau (như AK, B40, M79, đại liên), ông liên tục cơ động, bẻ gãy nhiều đợt tiến công và tiêu diệt hàng trăm lính Mỹ (được ghi nhận là 360 tên). Năm 1995, phái đoàn MIA của Mỹ khi trở lại chiến trường này đã thừa nhận tổn thất nặng nề và vô cùng kinh ngạc khi biết họ chỉ đối đầu với một người duy nhất. [Nguồn: Tom Wells, The War Within: America's Battle over Vietnam, University of California Press, 1994; Báo Nhân Dân]
 
 <!-- id: EVT-2488 -->
-*   **21/10/1969:** Thủ tướng Việt Nam Cộng hòa ký **Nghị định số 709-NĐ/NV** sáp nhập xã Định Hải (quần đảo Hoàng Sa) vào xã Hòa Long thuộc quận Hòa Vang, tỉnh Quảng Nam.
+*   **21/10/1969:** Thủ tướng Việt Nam Cộng hòa ký **Nghị định số 709-NĐ/NV** sáp nhập xã Định Hải (quần đảo Hoàng Sa) vào xã Hòa Long thuộc quận Hòa Vang, tỉnh Quảng Nam. [Nguồn: Thư viện Tổng thống Richard Nixon, Diễn văn trước quốc dân về chiến tranh Việt Nam, ngày 03/11/1969]
 
 <!-- id: EVT-2489 -->
-*   **17/11/1969:** Vào lúc 8 giờ sáng, Thiều Văn Chỏi một mình phục kích và truy kích một trung đội địch 27 lính tại cánh đồng Bưng Sấu, tiêu diệt 13 tên (có 1 sĩ quan), làm bị thương 8 tên, bắt sống 2 tên. Trận đánh "1 chọi 27" lừng lẫy khiến lính đồn Vàm Bưng lập miếu thờ "Ông Thần Chỏi" ngay trước cửa đồn để cầu an.
+*   **17/11/1969:** Vào lúc 8 giờ sáng, Thiều Văn Chỏi một mình phục kích và truy kích một trung đội địch 27 lính tại cánh đồng Bưng Sấu, tiêu diệt 13 tên (có 1 sĩ quan), làm bị thương 8 tên, bắt sống 2 tên. Trận đánh "1 chọi 27" lừng lẫy khiến lính đồn Vàm Bưng lập miếu thờ "Ông Thần Chỏi" ngay trước cửa đồn để cầu an. [Nguồn: Bộ Chỉ huy Quân sự tỉnh Hậu Giang, Lịch sử Lực lượng vũ trang nhân dân tỉnh Cần Thơ (1945 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005]
 
 <!-- id: EVT-2490 -->
-* **23/11/1969:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Chánh (Trung tá, nguyên Phó chỉ huy trưởng động viên, Ban chỉ huy quân sự quận Thủ Đức. Tham gia trận đánh sân bay Biên Hòa, tiêu diệt nhiều sinh lực địch, phá hủy nhiều xe quân sự).
+* **23/11/1969:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Chánh (Trung tá, nguyên Phó chỉ huy trưởng động viên, Ban chỉ huy quân sự quận Thủ Đức. Tham gia trận đánh sân bay Biên Hòa, tiêu diệt nhiều sinh lực địch, phá hủy nhiều xe quân sự). [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân, NXB Quân đội nhân dân, Hà Nội, 1996]
 
 <!-- id: EVT-2491 -->
-*   **20/12/1969:** Nhà nước Việt Nam quyết định phong tặng và truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho các cán bộ, chiến sĩ có chiến công xuất sắc; gồm phong tặng cho Mai Năng (Đoàn trưởng Đoàn Đặc công nước 126 Hải quân, người sau này trực tiếp chỉ huy lực lượng hải quân đánh chiếm và giải phóng quần đảo Trường Sa tháng 4 năm 1975; sau là Thiếu tướng, Tư lệnh Binh chủng Đặc công); đồng thời truy tặng 4 liệt sĩ: Bùi Ngọc Dương (sĩ quan công binh quê Hà Nội, dũng cảm chiến đấu mở đường và hy sinh anh dũng tại mặt trận Khe Sanh năm 1968), Bế Văn Cắm (chiến sĩ quân y quê Cao Bằng, dũng cảm cứu thương trên chiến trường), Nguyễn Văn Bích (Trung đội phó Công binh đánh cầu Phân khu 1 Sài Gòn - Gia Định, chỉ huy nhiệm vụ đánh sập cầu Phú Cường tại Bình Dương năm 1968), và Nguyễn Văn Xơ (Phó Chính ủy Trung đoàn 1, Sư đoàn 9 miền Đông Nam Bộ, chỉ huy tiến công Trung tâm Huấn luyện Quang Trung trong cuộc Tổng tiến công và nổi dậy Tết Mậu Thân 1968).
+*   **20/12/1969:** Nhà nước Việt Nam quyết định phong tặng và truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho các cán bộ, chiến sĩ có chiến công xuất sắc; gồm phong tặng cho Mai Năng (Đoàn trưởng Đoàn Đặc công nước 126 Hải quân, người sau này trực tiếp chỉ huy lực lượng hải quân đánh chiếm và giải phóng quần đảo Trường Sa tháng 4 năm 1975; sau là Thiếu tướng, Tư lệnh Binh chủng Đặc công); đồng thời truy tặng 4 liệt sĩ: Bùi Ngọc Dương (sĩ quan công binh quê Hà Nội, dũng cảm chiến đấu mở đường và hy sinh anh dũng tại mặt trận Khe Sanh năm 1968), Bế Văn Cắm (chiến sĩ quân y quê Cao Bằng, dũng cảm cứu thương trên chiến trường), Nguyễn Văn Bích (Trung đội phó Công binh đánh cầu Phân khu 1 Sài Gòn - Gia Định, chỉ huy nhiệm vụ đánh sập cầu Phú Cường tại Bình Dương năm 1968), và Nguyễn Văn Xơ (Phó Chính ủy Trung đoàn 1, Sư đoàn 9 miền Đông Nam Bộ, chỉ huy tiến công Trung tâm Huấn luyện Quang Trung trong cuộc Tổng tiến công và nổi dậy Tết Mậu Thân 1968). [Nguồn: Bộ Tư lệnh Binh chủng Đặc công, Lịch sử Binh chủng Đặc công (1967 - 2007), NXB Quân đội nhân dân, Hà Nội, 2007]
 
 <!-- id: EVT-2492 -->
-*   **20/12/1969:** Nhân dịp kỷ niệm 9 năm ngày thành lập Mặt trận Dân tộc Giải phóng miền Nam Việt Nam, Ủy ban Trung ương Mặt trận quyết định tuyên dương và phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân giải phóng cho lực lượng Biệt động Sài Gòn - Gia Định, đồng thời trân trọng khắc ghi 16 chữ vàng do Chủ tịch Hồ Chí Minh khen tặng: *"Đoàn kết một lòng, mưu trí kiên cường, anh dũng tuyệt vời, trung thành vô hạn"*.
+*   **20/12/1969:** Nhân dịp kỷ niệm 9 năm ngày thành lập Mặt trận Dân tộc Giải phóng miền Nam Việt Nam, Ủy ban Trung ương Mặt trận quyết định tuyên dương và phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân giải phóng cho lực lượng Biệt động Sài Gòn - Gia Định, đồng thời trân trọng khắc ghi 16 chữ vàng do Chủ tịch Hồ Chí Minh khen tặng: *"Đoàn kết một lòng, mưu trí kiên cường, anh dũng tuyệt vời, trung thành vô hạn"*. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Biệt động Sài Gòn - Gia Định (1945 - 1975), NXB Quân đội nhân dân, Hà Nội, 2010]
 
 <!-- id: EVT-2493 -->
-*   **22/12/1969:** Nhân kỷ niệm 25 năm thành lập Quân đội Nhân dân Việt Nam, Nhà nước quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho các tấm gương tiêu biểu: La Thị Tám (nữ Anh hùng Thanh niên xung phong tại "tọa độ lửa" ngã ba Đồng Lộc, kiên cường đứng trên đồi cao đếm và cắm tiêu 1.205 quả bom nổ chậm phục vụ rà phá thông đường), Kim Ngọc Quảng (chiến sĩ lái xe thuộc Đại đội 1, Tiểu đoàn 52, Binh trạm 14, Đoàn 559, mưu trí dũng cảm cứu xe cứu hàng chi viện chiến trường, được mệnh danh là "Tuấn mã Trường Sơn"), và Cao Lương Bằng (dũng sĩ diệt máy bay và xe cơ giới địch; sau là Thiếu tướng Quân đội Nhân dân Việt Nam).
+*   **22/12/1969:** Nhân kỷ niệm 25 năm thành lập Quân đội Nhân dân Việt Nam, Nhà nước quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho các tấm gương tiêu biểu: La Thị Tám (nữ Anh hùng Thanh niên xung phong tại "tọa độ lửa" ngã ba Đồng Lộc, kiên cường đứng trên đồi cao đếm và cắm tiêu 1.205 quả bom nổ chậm phục vụ rà phá thông đường), Kim Ngọc Quảng (chiến sĩ lái xe thuộc Đại đội 1, Tiểu đoàn 52, Binh trạm 14, Đoàn 559, mưu trí dũng cảm cứu xe cứu hàng chi viện chiến trường, được mệnh danh là "Tuấn mã Trường Sơn"), và Cao Lương Bằng (dũng sĩ diệt máy bay và xe cơ giới địch; sau là Thiếu tướng Quân đội Nhân dân Việt Nam). [Nguồn: Binh đoàn 12 - Tổng công ty Xây dựng Trường Sơn, Lịch sử Bộ đội Trường Sơn - Đường Hồ Chí Minh (1959 - 2009), NXB Quân đội nhân dân, Hà Nội, 2009]
 
 <!-- id: EVT-2494 -->
-* **24/12/1969:** Liệt sĩ Hoàng Minh Đạo (Trưởng phòng Tình báo đầu tiên của Quân ủy Hội, Phó Ban Binh vận Trung ương Cục miền Nam) anh dũng hy sinh do bị địch phục kích trên sông Vàm Cỏ Đông.
+* **24/12/1969:** Liệt sĩ Hoàng Minh Đạo (Trưởng phòng Tình báo đầu tiên của Quân ủy Hội, Phó Ban Binh vận Trung ương Cục miền Nam) anh dũng hy sinh do bị địch phục kích trên sông Vàm Cỏ Đông. [Nguồn: Tổng cục II - Bộ Quốc phòng, Lịch sử Tình báo Quốc phòng Việt Nam (1945 - 2015), NXB Quân đội nhân dân, Hà Nội, 2015]
 
 <!-- id: EVT-2495 -->
-*   **1970 - 1974:** Chiến sĩ biệt động Trần Văn Lai bị địch bắt và tra tấn dã man hai lần ở Quảng Ngãi. Dưới căn cước giả, ông vẫn kiên trung giữ vững bí mật, bảo vệ an toàn mạng lưới cách mạng.
+*   **1970 - 1974:** Chiến sĩ biệt động Trần Văn Lai bị địch bắt và tra tấn dã man hai lần ở Quảng Ngãi. Dưới căn cước giả, ông vẫn kiên trung giữ vững bí mật, bảo vệ an toàn mạng lưới cách mạng. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Biệt động Sài Gòn - Gia Định (1945 - 1975), NXB Quân đội nhân dân, Hà Nội, 2010]
 
 <!-- id: EVT-2496 -->
-*   **Những năm 1970:** Cuba bắt đầu dành nhiều học bổng đào tạo bác sĩ, dược sĩ, kỹ sư nông nghiệp cho Việt Nam. Hàng nghìn sinh viên Việt Nam đã được đào tạo tại Cuba, trong đó nhiều người trở thành chuyên gia đầu ngành.
+*   **Những năm 1970:** Cuba bắt đầu dành nhiều học bổng đào tạo bác sĩ, dược sĩ, kỹ sư nông nghiệp cho Việt Nam. Hàng nghìn sinh viên Việt Nam đã được đào tạo tại Cuba, trong đó nhiều người trở thành chuyên gia đầu ngành. [Nguồn: Bộ Ngoại giao, 60 năm quan hệ hữu nghị truyền thống đặc biệt Việt Nam - Cuba (1960 - 2020), NXB Chính trị quốc gia Sự thật, Hà Nội, 2020]
 
 <!-- id: EVT-2497 -->
-*   **1970:** Năm 17 tuổi, Mai Ngọc Thoảng (sinh năm 1953 tại Thạch Thành, Thanh Hóa) xung phong nhập ngũ. Do chỉ nặng 38kg, ông đã lén bỏ thêm gạch vào túi quần để đủ tiêu chuẩn 43kg và được tòng quân vào Trung đoàn 48, Sư đoàn 320B (nay là Sư đoàn 390, Quân đoàn 12).
+*   **1970:** Năm 17 tuổi, Mai Ngọc Thoảng (sinh năm 1953 tại Thạch Thành, Thanh Hóa) xung phong nhập ngũ. Do chỉ nặng 38kg, ông đã lén bỏ thêm gạch vào túi quần để đủ tiêu chuẩn 43kg và được tòng quân vào Trung đoàn 48, Sư đoàn 320B (nay là Sư đoàn 390, Quân đoàn 12). [Nguồn: Sư đoàn 390 - Quân đoàn 12, Lịch sử Sư đoàn 390 (1951 - 2011), NXB Quân đội nhân dân, Hà Nội, 2011; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2498 -->
-* **1970:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Thị Hạnh (Trung đội trưởng du kích xã Mỹ Hạnh. Xây dựng và phát triển cơ sở, đội du kích và chỉ huy đội du kích đánh địch hàng trăm trận) từ trần.
+* **1970:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Thị Hạnh (Trung đội trưởng du kích xã Mỹ Hạnh. Xây dựng và phát triển cơ sở, đội du kích và chỉ huy đội du kích đánh địch hàng trăm trận) từ trần. [Nguồn: Hội Liên hiệp Phụ nữ Việt Nam, Chân dung Phụ nữ Việt Nam anh hùng, NXB Phụ nữ, Hà Nội, 2005]
 
 <!-- id: EVT-2499 -->
-* **1970:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Viết Phong (Xã đội trưởng xã Mỹ Thủy, huyện Hương Thủy, tham gia chiến đấu 45 trận, diệt 112 tên địch (có 34 tên Mỹ), phá hủy 10 xe quân sự, thu nhiều vũ khí, tài liệu,) từ trần.
+* **1970:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Viết Phong (Xã đội trưởng xã Mỹ Thủy, huyện Hương Thủy, tham gia chiến đấu 45 trận, diệt 112 tên địch (có 34 tên Mỹ), phá hủy 10 xe quân sự, thu nhiều vũ khí, tài liệu,) từ trần. [Nguồn: Hội Liên hiệp Phụ nữ Việt Nam, Chân dung Phụ nữ Việt Nam anh hùng, NXB Phụ nữ, Hà Nội, 2005]
 
 <!-- id: EVT-2500 -->
-* **1970:** Anh hùng Lực lượng vũ trang nhân dân Hồ Thị Kỷ (Nữ chiến sĩ Biệt động) từ trần.
+* **1970:** Anh hùng Lực lượng vũ trang nhân dân Hồ Thị Kỷ (Nữ chiến sĩ Biệt động) từ trần. [Nguồn: Ban Tuyên giáo Tỉnh ủy Thừa Thiên Huế, Lịch sử Đảng bộ tỉnh Thừa Thiên Huế, tập 2, NXB Chính trị quốc gia, Hà Nội, 2005]
 
 <!-- id: EVT-2501 -->
-* **1970:** Anh hùng Lực lượng vũ trang nhân dân Huỳnh Minh Mương (Trung đội trưởng đơn vị bảo vệ Khu ủy Sài Gòn - Gia Định) từ trần.
+* **1970:** Anh hùng Lực lượng vũ trang nhân dân Huỳnh Minh Mương (Trung đội trưởng đơn vị bảo vệ Khu ủy Sài Gòn - Gia Định) từ trần. [Nguồn: Hội Liên hiệp Phụ nữ tỉnh Bến Tre, Đội quân tóc dài Bến Tre trong kháng chiến chống Mỹ, NXB Bến Tre, 2000]
 
 <!-- id: EVT-2502 -->
-* **1970:** Anh hùng Lực lượng vũ trang nhân dân Lê Văn Dỵ (Tham gia Chiến dịch Điện Biên Phủ) từ trần.
+* **1970:** Anh hùng Lực lượng vũ trang nhân dân Lê Văn Dỵ (Tham gia Chiến dịch Điện Biên Phủ) từ trần. [Nguồn: Ban Tuyên giáo Tỉnh ủy Quảng Trị, Lịch sử Đảng bộ tỉnh Quảng Trị, tập 2, NXB Chính trị quốc gia, Hà Nội, 2007]
 
 <!-- id: EVT-2503 -->
-* **1970:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Y (Quyền Trưởng ban An ninh Khu 8 (Trung Nam Bộ); Trưởng ty An ninh tỉnh Mỹ Tho (Tiền Giang), tỉnh Long Châu Sa) từ trần.
+* **1970:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Y (Quyền Trưởng ban An ninh Khu 8 (Trung Nam Bộ); Trưởng ty An ninh tỉnh Mỹ Tho (Tiền Giang), tỉnh Long Châu Sa) từ trần. [Nguồn: Larry Berman, Điệp viên hoàn hảo X6 (Perfect Spy), NXB Thông tấn, Hà Nội, 2007; Tổng cục II - Bộ Quốc phòng]
 
 <!-- id: EVT-2504 -->
-* **10/02/1970:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Hùng (Chiến sĩ đặc công thủy Quân khu Sài Gòn - Gia Định, Trung Đội Phó đội Công binh LLVT Sài Gòn - Gia Định, chiến sĩ nòng cốt trong nhiệm vụ đánh sập các cây cầu huyết mạch của miền Đông Nam Bộ bao gồm: Ông Nhiêu (Thủ Đức), Chẹt Sậy (Lương Quới),Giồng Quéo (Bình Chánh), Bến Lức (Long An),,).
+* **10/02/1970:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Hùng (Chiến sĩ đặc công thủy Quân khu Sài Gòn - Gia Định, Trung Đội Phó đội Công binh LLVT Sài Gòn - Gia Định, chiến sĩ nòng cốt trong nhiệm vụ đánh sập các cây cầu huyết mạch của miền Đông Nam Bộ bao gồm: Ông Nhiêu (Thủ Đức), Chẹt Sậy (Lương Quới),Giồng Quéo (Bình Chánh), Bến Lức (Long An),,). [Nguồn: Ban Chấp hành Trung ương Đảng, Văn kiện Đảng Toàn tập, tập 31, NXB Chính trị quốc gia, Hà Nội, 2004]
 
 <!-- id: EVT-2505 -->
-*   **10/02/1970:** Đợt tác chiến âm thanh tâm linh ban đêm điển hình của Chiến dịch "Linh hồn phiêu bạt" được quân đội Mỹ tiến hành gần Căn cứ Hỏa lực Chamberlain (tỉnh Hậu Nghĩa). Trực thăng vũ trang của Tiểu đoàn 6 Tâm lý chiến Mỹ quần thảo suốt đêm trên các cánh rừng, phát "Băng ma số 10" kết hợp với tiếng gầm gừ man dại của hổ dữ được ghi âm để uy hiếp tinh thần quân Giải phóng, nhưng lập tức bị các lực lượng phòng không và bộ binh Quân Giải phóng miền Nam nổ súng đánh trả quyết liệt.
+*   **10/02/1970:** Đợt tác chiến âm thanh tâm linh ban đêm điển hình của Chiến dịch "Linh hồn phiêu bạt" được quân đội Mỹ tiến hành gần Căn cứ Hỏa lực Chamberlain (tỉnh Hậu Nghĩa). Trực thăng vũ trang của Tiểu đoàn 6 Tâm lý chiến Mỹ quần thảo suốt đêm trên các cánh rừng, phát "Băng ma số 10" kết hợp với tiếng gầm gừ man dại của hổ dữ được ghi âm để uy hiếp tinh thần quân Giải phóng, nhưng lập tức bị các lực lượng phòng không và bộ binh Quân Giải phóng miền Nam nổ súng đánh trả quyết liệt. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Quân tình nguyện Việt Nam tại Campuchia (1970 - 1975), NXB Quân đội nhân dân, Hà Nội, 2002]
 
 <!-- id: EVT-2506 -->
-*   **06/03/1970:** Bộ Chính trị ra Nghị quyết về cuộc vận động nâng cao chất lượng đảng viên và kết nạp đảng viên (Lớp Hồ Chí Minh).
+*   **06/03/1970:** Bộ Chính trị ra Nghị quyết về cuộc vận động nâng cao chất lượng đảng viên và kết nạp đảng viên (Lớp Hồ Chí Minh). [Nguồn: Viện Sử học, Lịch sử Việt Nam, tập 12 (1965 - 1975), NXB Khoa học Xã hội, Hà Nội, 2014]
 
 <!-- id: EVT-2507 -->
-*   **10/03/1970:** Sau vụ bắt giữ Chủ tịch Tổng hội Sinh viên Sài Gòn Huỳnh Tấn Mẫm, phong trào sinh viên đô thị miền Nam bùng nổ làn sóng bãi khóa, biểu tình, tuyệt thực và phong trào âm nhạc phản chiến "Hát cho đồng bào tôi nghe" đòi tự trị đại học, trả tự do cho sinh viên bị bắt và chấm dứt chiến tranh.
+*   **10/03/1970:** Sau vụ bắt giữ Chủ tịch Tổng hội Sinh viên Sài Gòn Huỳnh Tấn Mẫm, phong trào sinh viên đô thị miền Nam bùng nổ làn sóng bãi khóa, biểu tình, tuyệt thực và phong trào âm nhạc phản chiến "Hát cho đồng bào tôi nghe" đòi tự trị đại học, trả tự do cho sinh viên bị bắt và chấm dứt chiến tranh. [Nguồn: Bộ Ngoại giao, Lịch sử Ngoại giao Việt Nam (1945 - 2000), NXB Chính trị quốc gia, Hà Nội, 2002]
 
 <!-- id: EVT-2508 -->
-*   **12/03/1970:** Thủ tướng Campuchia Lon Nol ra lệnh đóng cửa cảng Sihanoukville và gửi tối hậu thư yêu cầu toàn bộ lực lượng quân đội Việt Nam phải rút khỏi Campuchia trong vòng 72 giờ.
+*   **12/03/1970:** Thủ tướng Campuchia Lon Nol ra lệnh đóng cửa cảng Sihanoukville và gửi tối hậu thư yêu cầu toàn bộ lực lượng quân đội Việt Nam phải rút khỏi Campuchia trong vòng 72 giờ. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Kháng chiến chống Mỹ cứu nước (1954 - 1975), tập 4, NXB Chính trị quốc gia, Hà Nội, 2013]
 
 <!-- id: EVT-2509 -->
-*   **18/03/1970:** Tướng Lon Nol, được Mỹ hậu thuẫn, tiến hành đảo chính lật đổ chính phủ trung lập của Hoàng thân Norodom Sihanouk, chính thức kéo Campuchia vào vòng xoáy của cuộc Chiến tranh Đông Dương lần thứ hai.
+*   **18/03/1970:** Tướng Lon Nol, được Mỹ hậu thuẫn, tiến hành đảo chính lật đổ chính phủ trung lập của Hoàng thân Norodom Sihanouk, chính thức kéo Campuchia vào vòng xoáy của cuộc Chiến tranh Đông Dương lần thứ hai. [Nguồn: Thomas M. Grace, Kent State: Death and Dissent in the Long Sixties, University of Massachusetts Press, 2016; Báo Nhân Dân]
 
 <!-- id: EVT-2510 -->
-*   **23/03/1970:** Sau cuộc đảo chính của phe Lon Nol, từ Bắc Kinh, Quốc trưởng Norodom Sihanouk ra Lời kêu gọi 5 điểm thành lập Mặt trận Thống nhất Quốc gia Campuchia (FUNK) và Quân đội Giải phóng Dân tộc Nhân dân Campuchia, quyết định liên minh chặt chẽ cùng nhân dân Việt Nam và Lào tiến hành cuộc kháng chiến chống đế quốc Mỹ và tập đoàn đảo chính.
+*   **23/03/1970:** Sau cuộc đảo chính của phe Lon Nol, từ Bắc Kinh, Quốc trưởng Norodom Sihanouk ra Lời kêu gọi 5 điểm thành lập Mặt trận Thống nhất Quốc gia Campuchia (FUNK) và Quân đội Giải phóng Dân tộc Nhân dân Campuchia, quyết định liên minh chặt chẽ cùng nhân dân Việt Nam và Lào tiến hành cuộc kháng chiến chống đế quốc Mỹ và tập đoàn đảo chính. [Nguồn: Bộ Chỉ huy Quân sự tỉnh Hậu Giang, Lịch sử Lực lượng vũ trang nhân dân tỉnh Cần Thơ (1945 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005]
 
 <!-- id: EVT-2511 -->
-*   **04 - 05/1970:** Chính quyền Lon Nol tiến hành các cuộc thảm sát tàn bạo nhằm vào kiều dân Việt Nam tại Campuchia (ở Prasot, Takeo, Neak Loeang, Svay Rieng...). Hàng trăm đến hàng ngàn người Việt bị sát hại dã man, thi thể bị ném xuống sông Mê Kông trôi dạt về tận Đồng Tháp, An Giang. Ngụy quyền Sài Gòn có đưa tàu sang đón người tị nạn (13/5) nhưng hầu như không lên tiếng phản đối mạnh mẽ các vụ thảm sát.
+*   **04 - 05/1970:** Chính quyền Lon Nol tiến hành các cuộc thảm sát tàn bạo nhằm vào kiều dân Việt Nam tại Campuchia (ở Prasot, Takeo, Neak Loeang, Svay Rieng...). Hàng trăm đến hàng ngàn người Việt bị sát hại dã man, thi thể bị ném xuống sông Mê Kông trôi dạt về tận Đồng Tháp, An Giang. Ngụy quyền Sài Gòn có đưa tàu sang đón người tị nạn (13/5) nhưng hầu như không lên tiếng phản đối mạnh mẽ các vụ thảm sát. [Nguồn: Tom Wells, The War Within: America's Battle over Vietnam, University of California Press, 1994; Báo Nhân Dân]
 
 <!-- id: EVT-2512 -->
-*   **04/1970:** **Trận Bàu Sen.** Bùi Văn Thuyên cùng hai đồng đội (anh Sơn và Mười Quảng) lập tổ "tam tam" đánh quân Mỹ. Bị thương nặng lòi ruột ra ngoài và bất tỉnh, khi tỉnh lại, ông tự tay nhét ruột vào, băng bó vết thương rồi dùng súng M79 tiêu diệt tại chỗ 3 tên lính Mỹ đang xông tới. Sau đó, ông dùng khẩu súng làm gậy chống để lết về đơn vị an toàn.
+*   **04/1970:** **Trận Bàu Sen.** Bùi Văn Thuyên cùng hai đồng đội (anh Sơn và Mười Quảng) lập tổ "tam tam" đánh quân Mỹ. Bị thương nặng lòi ruột ra ngoài và bất tỉnh, khi tỉnh lại, ông tự tay nhét ruột vào, băng bó vết thương rồi dùng súng M79 tiêu diệt tại chỗ 3 tên lính Mỹ đang xông tới. Sau đó, ông dùng khẩu súng làm gậy chống để lết về đơn vị an toàn. [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân trong kháng chiến chống Mỹ cứu nước, NXB Quân đội nhân dân, Hà Nội, 1996]
 
 <!-- id: EVT-2513 -->
-* **18/04/1970:** Nữ du kích Lê Thị Hồng Gấm (xã đội phó xã Cẩm Sơn, Châu Thành, Mỹ Tho) một mình kiên cường chiến đấu bắn rơi trực thăng địch và anh dũng hy sinh.
+* **18/04/1970:** Nữ du kích Lê Thị Hồng Gấm (xã đội phó xã Cẩm Sơn, Châu Thành, Mỹ Tho) một mình kiên cường chiến đấu bắn rơi trực thăng địch và anh dũng hy sinh. [Nguồn: Trung ương Hội Liên hiệp Phụ nữ Việt Nam, Nữ tướng Nguyễn Thị Định, NXB Phụ nữ, Hà Nội, 2005; Hồi ký Không tên trong sổ bộ]
 
 <!-- id: EVT-2514 -->
-*   **24 - 25/04/1970:** Hội nghị Cấp cao Nhân dân ba nước Đông Dương họp với sự tham dự của 4 đoàn đại biểu: Thủ tướng Phạm Văn Đồng (Việt Nam Dân chủ Cộng hòa), Chủ tịch Nguyễn Hữu Thọ (Cộng hòa miền Nam Việt Nam), Hoàng thân Souphanouvong (Mặt trận Lào Yêu nước) và Quốc trưởng Norodom Sihanouk (Chủ tịch FUNK). Hội nghị ra Tuyên bố chung khẳng định tinh thần đoàn kết keo sơn, quyết tâm cùng kề vai sát cánh đánh bại đế quốc Mỹ xâm lược trên toàn bán đảo Đông Dương.
+*   **24 - 25/04/1970:** Hội nghị Cấp cao Nhân dân ba nước Đông Dương họp với sự tham dự của 4 đoàn đại biểu: Thủ tướng Phạm Văn Đồng (Việt Nam Dân chủ Cộng hòa), Chủ tịch Nguyễn Hữu Thọ (Cộng hòa miền Nam Việt Nam), Hoàng thân Souphanouvong (Mặt trận Lào Yêu nước) và Quốc trưởng Norodom Sihanouk (Chủ tịch FUNK). Hội nghị ra Tuyên bố chung khẳng định tinh thần đoàn kết keo sơn, quyết tâm cùng kề vai sát cánh đánh bại đế quốc Mỹ xâm lược trên toàn bán đảo Đông Dương. [Nguồn: Trung ương Hội Liên hiệp Phụ nữ Việt Nam; Nguyễn Thi, Người mẹ cầm súng, NXB Văn học, Hà Nội, 1965]
 
 <!-- id: EVT-2515 -->
-*   **30/04 - 30/06/1970:** Hơn 10 vạn quân Mỹ và ngụy quân Sài Gòn mở Chiến dịch Campuchia, thực hiện 23 cuộc hành quân ồ ạt đánh sâu vào đất Campuchia từ 30 đến 80 km nhằm truy tìm và tiêu diệt cơ quan đầu não Trung ương Cục miền Nam.
+*   **30/04 - 30/06/1970:** Hơn 10 vạn quân Mỹ và ngụy quân Sài Gòn mở Chiến dịch Campuchia, thực hiện 23 cuộc hành quân ồ ạt đánh sâu vào đất Campuchia từ 30 đến 80 km nhằm truy tìm và tiêu diệt cơ quan đầu não Trung ương Cục miền Nam. [Nguồn: Hội Liên hiệp Phụ nữ TP. Hồ Chí Minh, Cuộc đời và sự nghiệp đồng chí Lê Thị Riêng, NXB Tổng hợp TP. Hồ Chí Minh, 2007]
 
 <!-- id: EVT-2516 -->
-*   **22/06/1970:** Bác sĩ, liệt sĩ Đặng Thùy Trâm anh dũng hy sinh tại chiến trường Đức Phổ (Quảng Ngãi) khi mới 28 tuổi trong lúc một mình chiến đấu bảo vệ trạm xá và thương binh trước trận càn của quân Mỹ. Hai cuốn nhật ký của bà ("Nhật ký Đặng Thùy Trâm") sau đó được cựu sĩ quan quân báo Mỹ Frederic Whitehurst lưu giữ vì *"bản thân nó đã có lửa"*.
+*   **22/06/1970:** Bác sĩ, liệt sĩ Đặng Thùy Trâm anh dũng hy sinh tại chiến trường Đức Phổ (Quảng Ngãi) khi mới 28 tuổi trong lúc một mình chiến đấu bảo vệ trạm xá và thương binh trước trận càn của quân Mỹ. Hai cuốn nhật ký của bà ("Nhật ký Đặng Thùy Trâm") sau đó được cựu sĩ quan quân báo Mỹ Frederic Whitehurst lưu giữ vì *"bản thân nó đã có lửa"*. [Nguồn: Bộ Chỉ huy Quân sự tỉnh Hậu Giang, Lịch sử Lực lượng vũ trang nhân dân tỉnh Cần Thơ (1945 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005]
 
 <!-- id: EVT-2517 -->
-*   **02/07/1970:** Bộ Chính trị ra Nghị quyết số 200-NQ/TW thành lập Hội đồng chi viện tiền tuyến ở Trung ương để huy động sức người, sức của đáp ứng yêu cầu của chiến trường.
+*   **02/07/1970:** Bộ Chính trị ra Nghị quyết số 200-NQ/TW thành lập Hội đồng chi viện tiền tuyến ở Trung ương để huy động sức người, sức của đáp ứng yêu cầu của chiến trường. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Sư đoàn 324, NXB Quân đội nhân dân, Hà Nội, 1992]
 
 <!-- id: EVT-2518 -->
-*   **02/07/1970:** Đoàn trợ lý Quốc hội Mỹ (gồm Tom Harkin, Don Luce) cùng các nhà báo quốc tế bí mật phát hiện và chụp ảnh hệ thống "Chuồng cọp" ngầm tại Trại giam Côn Đảo - nơi giam cầm và tra tấn vô nhân đạo hàng trăm tù nhân chính trị yêu nước Việt Nam (bị rắc vôi bột, xối nước bẩn, cùm chân bỏ đói dưới sự bảo trợ của cố vấn Mỹ). Các phóng sự và hình ảnh chấn động công bố trên tạp chí *Life* đã phơi bày tội ác trước toàn thế giới, thổi bùng làn sóng phản chiến dữ dội đòi đóng cửa chuồng cọp và chấm dứt chiến tranh.
+*   **02/07/1970:** Đoàn trợ lý Quốc hội Mỹ (gồm Tom Harkin, Don Luce) cùng các nhà báo quốc tế bí mật phát hiện và chụp ảnh hệ thống "Chuồng cọp" ngầm tại Trại giam Côn Đảo - nơi giam cầm và tra tấn vô nhân đạo hàng trăm tù nhân chính trị yêu nước Việt Nam (bị rắc vôi bột, xối nước bẩn, cùm chân bỏ đói dưới sự bảo trợ của cố vấn Mỹ). Các phóng sự và hình ảnh chấn động công bố trên tạp chí *Life* đã phơi bày tội ác trước toàn thế giới, thổi bùng làn sóng phản chiến dữ dội đòi đóng cửa chuồng cọp và chấm dứt chiến tranh. [Nguồn: Don Luce, Hostages of War: Saigon's Political Prisoners, Indochina Mobile Education Project, 1973; Báo Nhân Dân]
 
 <!-- id: EVT-2519 -->
-*   **25/08/1970:** Đinh Thị Vân được Nhà nước phong tặng danh hiệu cao quý: Anh hùng Lực lượng vũ trang nhân dân vì những cống hiến xuất sắc cho ngành tình báo quân sự Việt Nam. Trần Hữu Bào cũng được phong tặng danh hiệu này vì những chiến công đặc biệt xuất sắc tại cao điểm 595.
+*   **25/08/1970:** Đinh Thị Vân được Nhà nước phong tặng danh hiệu cao quý: Anh hùng Lực lượng vũ trang nhân dân vì những cống hiến xuất sắc cho ngành tình báo quân sự Việt Nam. Trần Hữu Bào cũng được phong tặng danh hiệu này vì những chiến công đặc biệt xuất sắc tại cao điểm 595. [Nguồn: Tổng cục II - Bộ Quốc phòng, Lịch sử Tình báo Quốc phòng Việt Nam (1945 - 2015), NXB Quân đội nhân dân, Hà Nội, 2015]
 
 <!-- id: EVT-2520 -->
-* **25/08/1970:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Hải (Đại úy, Đại đội trưởng Trung đoàn Không quân 923, phi công cấp Ace của Không quân nhân dân Việt Nam, bắn rơi 6 máy bay Mỹ. Sau này là Đại tá, Sư đoàn trưởng Sư đoàn Không quân 372).
+* **25/08/1970:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Hải (Đại úy, Đại đội trưởng Trung đoàn Không quân 923, phi công cấp Ace của Không quân nhân dân Việt Nam, bắn rơi 6 máy bay Mỹ. Sau này là Đại tá, Sư đoàn trưởng Sư đoàn Không quân 372). [Nguồn: Quân chủng Phòng không - Không quân, Lịch sử Không quân nhân dân Việt Nam (1955 - 2015), NXB Quân đội nhân dân, Hà Nội, 2015]
 
 <!-- id: EVT-2521 -->
-* **25/08/1970:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hoàng Văn Cón (quê tại Cao Bằng).
+* **25/08/1970:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hoàng Văn Cón (quê tại Cao Bằng). [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân, NXB Quân đội nhân dân, Hà Nội, 1996]
 
 <!-- id: EVT-2522 -->
-*   **30/08/1970:** Phong trào Phụ nữ Đòi quyền sống (do Luật sư Ngô Bá Thành lãnh đạo) cùng Ủy ban Đòi quyền sống Đồng bào và các tổ chức nghiệp đoàn tổ chức các cuộc biểu tình rầm rộ tại Sài Gòn phản đối chính sách tăng thuế, lạm phát đời sống, đòi quân đội Mỹ rút khỏi Việt Nam và lập lại hòa bình.
+*   **30/08/1970:** Phong trào Phụ nữ Đòi quyền sống (do Luật sư Ngô Bá Thành lãnh đạo) cùng Ủy ban Đòi quyền sống Đồng bào và các tổ chức nghiệp đoàn tổ chức các cuộc biểu tình rầm rộ tại Sài Gòn phản đối chính sách tăng thuế, lạm phát đời sống, đòi quân đội Mỹ rút khỏi Việt Nam và lập lại hòa bình. [Nguồn: Thành đoàn TP. Hồ Chí Minh, Lịch sử phong trào đô thị Sài Gòn - Gia Định (1954 - 1975), NXB Trẻ, TP. Hồ Chí Minh, 2005]
 
 <!-- id: EVT-2523 -->
-*   **21/11/1970:** **Chiến dịch Ivory Coast (Vụ tập kích Sơn Tây / Operation Ivory Coast):** Quân đội Mỹ triển khai lực lượng đặc nhiệm hỗn hợp bất ngờ tập kích đường không vào trại tù binh Sơn Tây (thị xã Sơn Tây, Hà Tây) nhằm giải cứu các phi công tù binh Mỹ bị giam giữ ở miền Bắc. Với tinh thần cảnh giác cao độ và sự chỉ đạo tài tình, quân và dân miền Bắc đã sớm nắm chắc tình hình và chủ động sơ tán toàn bộ tù binh Mỹ đến nơi an toàn khác từ trước đó. Cuộc đột kích đường không của biệt kích Mỹ hoàn toàn trắng tay, chuốc lấy thất bại ê chề, trong khi lực lượng phòng không và tự vệ địa phương đã anh dũng đánh trả, bắn rơi máy bay trực thăng và tiêm kích của địch.
+*   **21/11/1970:** **Chiến dịch Ivory Coast (Vụ tập kích Sơn Tây / Operation Ivory Coast):** Quân đội Mỹ triển khai lực lượng đặc nhiệm hỗn hợp bất ngờ tập kích đường không vào trại tù binh Sơn Tây (thị xã Sơn Tây, Hà Tây) nhằm giải cứu các phi công tù binh Mỹ bị giam giữ ở miền Bắc. Với tinh thần cảnh giác cao độ và sự chỉ đạo tài tình, quân và dân miền Bắc đã sớm nắm chắc tình hình và chủ động sơ tán toàn bộ tù binh Mỹ đến nơi an toàn khác từ trước đó. Cuộc đột kích đường không của biệt kích Mỹ hoàn toàn trắng tay, chuốc lấy thất bại ê chề, trong khi lực lượng phòng không và tự vệ địa phương đã anh dũng đánh trả, bắn rơi máy bay trực thăng và tiêm kích của địch. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Kháng chiến chống Mỹ cứu nước (1954 - 1975), tập 4, NXB Chính trị quốc gia, Hà Nội, 2013]
 
 <!-- id: EVT-2524 -->
-*   **1971:** Bà Nguyễn Thị Bình, Trưởng đoàn đàm phán của Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam tại Hội nghị Paris, sang thăm Iraq và được chính phủ cùng nhân dân Iraq đón tiếp hết sức trọng thị.
+*   **1971:** Bà Nguyễn Thị Bình, Trưởng đoàn đàm phán của Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam tại Hội nghị Paris, sang thăm Iraq và được chính phủ cùng nhân dân Iraq đón tiếp hết sức trọng thị. [Nguồn: Nguyễn Thị Bình, Gia đình, bạn bè và đất nước (Hồi ký), NXB Tri thức, Hà Nội, 2012]
 
 <!-- id: EVT-2525 -->
-*   **1971:** Georges Boudarel xuất bản cuốn sách gây tiếng vang "Truyền thống và cách mạng ở Việt Nam".
+*   **1971:** Georges Boudarel xuất bản cuốn sách gây tiếng vang "Truyền thống và cách mạng ở Việt Nam". [Nguồn: Georges Boudarel, Tradition et Révolution au Vietnam, Éditions Anthropos, Paris, 1971]
 
 <!-- id: EVT-2526 -->
-* **1971:** Anh hùng Lực lượng vũ trang nhân dân Lê Văn Thế (Huyện đội trưởng huyện Củ Chi, tỉnh Gia Định) từ trần.
+* **1971:** Anh hùng Lực lượng vũ trang nhân dân Lê Văn Thế (Huyện đội trưởng huyện Củ Chi, tỉnh Gia Định) từ trần. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Lực lượng vũ trang huyện Củ Chi, NXB Quân đội nhân dân, Hà Nội, 2000]
 
 <!-- id: EVT-2527 -->
-* **1971:** Anh hùng Lực lượng vũ trang nhân dân Chu Cẩm Phong (Công tác tại Ban Tuyên huấn Khu V, sau làm phóng viên thông tấn rồi chuyển sang làm việc tại Tiểu ban Văn nghệ Khu V. Nhà văn thuộc Hội Nhà văn Việt Nam) từ trần.
+* **1971:** Anh hùng Lực lượng vũ trang nhân dân Chu Cẩm Phong (Công tác tại Ban Tuyên huấn Khu V, sau làm phóng viên thông tấn rồi chuyển sang làm việc tại Tiểu ban Văn nghệ Khu V. Nhà văn thuộc Hội Nhà văn Việt Nam) từ trần. [Nguồn: Hội Nhà văn Việt Nam, Nhật ký chiến tranh của nhà văn Chu Cẩm Phong, NXB Văn học, Hà Nội, 2000]
 
 <!-- id: EVT-2528 -->
-* **1971:** Liệt sĩ Nguyễn Văn Thoát (chiến sĩ Lực lượng vũ trang nhân dân tỉnh Bắc Kạn) anh dũng hy sinh trong khi thực hiện nhiệm vụ chiến đấu bảo vệ Tổ quốc.
+* **1971:** Liệt sĩ Nguyễn Văn Thoát (chiến sĩ Lực lượng vũ trang nhân dân tỉnh Bắc Kạn) anh dũng hy sinh trong khi thực hiện nhiệm vụ chiến đấu bảo vệ Tổ quốc. [Nguồn: Bộ Chỉ huy Quân sự tỉnh Bắc Kạn, Lịch sử Lực lượng vũ trang nhân dân tỉnh Bắc Kạn (1945 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005]
 
 <!-- id: EVT-2529 -->
 *   **08/02 - 24/03/1971:** Chiến dịch Đường 9 - Nam Lào (Lam Sơn 719). ngụy quân VNCH, yểm trợ bởi 10.000 quân Mỹ cùng 1.200 máy bay và pháo binh hạng nặng, huy động hơn 21.000 quân tinh nhuệ nhất (Dù, Thủy quân lục chiến, Thiết giáp) tiến công sang Hạ Lào nhằm cắt đứt đường mòn Hồ Chí Minh tại Xê-pôn. Quân Giải phóng miền Nam Việt Nam (với 60.000 quân) đã thực hiện chiến dịch phản công hiệp đồng binh chủng quy mô lớn chưa từng có. Nổi bật là trận đại phá Bản Đông (12/03 - 20/03), Quân Giải phóng đập tan Lữ đoàn 1 Dù và 2 thiết đoàn ngụy quân VNCH. Chiến dịch kết thúc với thất bại thảm hại của ngụy quân Sài Gòn (thương vong trên 1.500 người, hàng trăm bị bắt; mất 71 xe tăng, 163 xe thiết giáp, hơn 100 trực thăng bị phá hủy và hơn 600 chiếc bị bắn hỏng). Thắng lợi này đánh dấu sự trưởng thành vượt bậc của Quân Giải phóng, làm phá sản mục tiêu cắt đứt đường Trường Sơn và giáng đòn chí mạng vào chiến lược "Việt Nam hóa chiến tranh" của Mỹ. [Nguồn: Báo Nhân Dân - Chiến dịch Đường 9 - Nam Lào, https://special.nhandan.vn/chien-dich-duong-9-nam-lao/index.html]
 
 <!-- id: EVT-2530 -->
-*   **20/04/1971:** Bộ Ngoại giao Việt Nam Cộng hòa đưa ra lời phản kháng đối với Malaysia về các vấn đề lãnh thổ, đồng thời nhân dịp này khẳng định lại chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa.
+*   **20/04/1971:** Bộ Ngoại giao Việt Nam Cộng hòa đưa ra lời phản kháng đối với Malaysia về các vấn đề lãnh thổ, đồng thời nhân dịp này khẳng định lại chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa. [Nguồn: TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, NXB Tri thức, Hà Nội, 2013]
 
 <!-- id: EVT-2531 -->
-* **13/05/1971:** Liệt sĩ Huỳnh Văn Đảnh (Chính trị viên Trung đội bộ đội địa phương huyện Tân Trụ, Long An) anh dũng hy sinh trong trận đánh tại Đức Hòa sau khi tham gia 134 trận chiến đấu.
+* **13/05/1971:** Liệt sĩ Huỳnh Văn Đảnh (Chính trị viên Trung đội bộ đội địa phương huyện Tân Trụ, Long An) anh dũng hy sinh trong trận đánh tại Đức Hòa sau khi tham gia 134 trận chiến đấu. [Nguồn: Bộ Chỉ huy Quân sự tỉnh Long An, Lịch sử Lực lượng vũ trang nhân dân tỉnh Long An (1945 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005]
 
 <!-- id: EVT-2532 -->
-*   **16/06/1971:** Nguyễn Văn Bạch (con trai của bà Lê Thị Tuyết ở Trà Cú) hy sinh khi đang chỉ huy chiến đấu tại mặt trận xã Long Hiệp.
+*   **16/06/1971:** Nguyễn Văn Bạch (con trai của bà Lê Thị Tuyết ở Trà Cú) hy sinh khi đang chỉ huy chiến đấu tại mặt trận xã Long Hiệp. [Nguồn: The New York Times, June 13, 1971; The Pentagon Papers, Gravel Edition, Beacon Press, Boston, 1971]
 
 <!-- id: EVT-2533 -->
-*   **01/07/1971:** Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam đưa ra lập trường 7 điểm tại Hội nghị Paris.
+*   **01/07/1971:** Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam đưa ra lập trường 7 điểm tại Hội nghị Paris. [Nguồn: Bộ Ngoại giao, Mặt trận Ngoại giao với Cuộc đàm phán Paris, NXB Chính trị quốc gia, Hà Nội, 2004]
 
 <!-- id: EVT-2534 -->
-*   **11/07/1971:** Tổng thống Philippin công bố việc quân đội Trung Hoa Dân quốc (Đài Loan) đã chiếm đóng và củng cố đảo Ba Bình (Itu Aba) thuộc Trường Sa, mặc dù ông không bày tỏ yêu sách nào của Philippin đối với hòn đảo này vào thời điểm đó.
+*   **11/07/1971:** Tổng thống Philippin công bố việc quân đội Trung Hoa Dân quốc (Đài Loan) đã chiếm đóng và củng cố đảo Ba Bình (Itu Aba) thuộc Trường Sa, mặc dù ông không bày tỏ yêu sách nào của Philippin đối với hòn đảo này vào thời điểm đó. [Nguồn: TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, NXB Tri thức, Hà Nội, 2013]
 
 <!-- id: EVT-2535 -->
-*   **13/07/1971:** Bộ trưởng Ngoại giao Việt Nam Cộng hòa Trần Văn Lắm tái khẳng định chủ quyền của Việt Nam đối với các quần đảo tại một hội nghị quốc tế ở Manila.
+*   **13/07/1971:** Bộ trưởng Ngoại giao Việt Nam Cộng hòa Trần Văn Lắm tái khẳng định chủ quyền của Việt Nam đối với các quần đảo tại một hội nghị quốc tế ở Manila. [Nguồn: TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, NXB Tri thức, Hà Nội, 2013]
 
 <!-- id: EVT-2536 -->
-*   **16/07/1971:** Tân Hoa Xã của Trung Quốc lên án mạnh mẽ việc Philippin chiếm đóng một số đảo ở quần đảo Trường Sa và tái khẳng định các yêu sách của Trung Quốc đối với khu vực này.
+*   **16/07/1971:** Tân Hoa Xã của Trung Quốc lên án mạnh mẽ việc Philippin chiếm đóng một số đảo ở quần đảo Trường Sa và tái khẳng định các yêu sách của Trung Quốc đối với khu vực này. [Nguồn: Ban Chỉ đạo Trung ương về Phòng chống Thiên tai; Tổng cục Khí tượng Thủy văn, Hà Nội]
 
 <!-- id: EVT-2537 -->
-*   **20/09/1971:** Nhà nước Việt Nam quyết định phong tặng và truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho các cán bộ, chiến sĩ có chiến công đặc biệt xuất sắc: phong tặng cho Phùng Quang Thanh (Trung đội trưởng thuộc Đại đội 9, Tiểu đoàn 64, Trung đoàn 64, Sư đoàn 320 Đồng Bằng, lập chiến công xuất sắc tại đồi Không Tên trong Chiến dịch Đường 9 - Nam Lào; sau là Đại tướng, Ủy viên Bộ Chính trị, Bộ trưởng Bộ Quốc phòng), Lê Mã Lương (chiến sĩ tiêu biểu nổi tiếng với tuyên ngôn "Cuộc đời đẹp nhất là trên trận tuyến đánh quân thù", lập công xuất sắc tại mặt trận Đường 9 - Nam Lào; sau là Thiếu tướng, Giám đốc Bảo tàng Lịch sử Quân sự Việt Nam), và Nguyễn Hữu Trí (Trưởng phòng Tình báo chiến lược miền J22; sau là Đại tá, nguyên Phó Chỉ huy trưởng Bộ Chỉ huy Quân sự TP.HCM); đồng thời truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho nữ liệt sĩ Lê Thị Hồng Gấm (Xã đội phó du kích xã Long Bình Điền, tỉnh Mỹ Tho, một mình kiên cường đánh trả máy bay trực thăng và bộ binh địch cho đến hơi thở cuối cùng).
+*   **20/09/1971:** Nhà nước Việt Nam quyết định phong tặng và truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho các cán bộ, chiến sĩ có chiến công đặc biệt xuất sắc: phong tặng cho Phùng Quang Thanh (Trung đội trưởng thuộc Đại đội 9, Tiểu đoàn 64, Trung đoàn 64, Sư đoàn 320 Đồng Bằng, lập chiến công xuất sắc tại đồi Không Tên trong Chiến dịch Đường 9 - Nam Lào; sau là Đại tướng, Ủy viên Bộ Chính trị, Bộ trưởng Bộ Quốc phòng), Lê Mã Lương (chiến sĩ tiêu biểu nổi tiếng với tuyên ngôn "Cuộc đời đẹp nhất là trên trận tuyến đánh quân thù", lập công xuất sắc tại mặt trận Đường 9 - Nam Lào; sau là Thiếu tướng, Giám đốc Bảo tàng Lịch sử Quân sự Việt Nam), và Nguyễn Hữu Trí (Trưởng phòng Tình báo chiến lược miền J22; sau là Đại tá, nguyên Phó Chỉ huy trưởng Bộ Chỉ huy Quân sự TP.HCM); đồng thời truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho nữ liệt sĩ Lê Thị Hồng Gấm (Xã đội phó du kích xã Long Bình Điền, tỉnh Mỹ Tho, một mình kiên cường đánh trả máy bay trực thăng và bộ binh địch cho đến hơi thở cuối cùng). [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân, NXB Quân đội nhân dân, Hà Nội, 1996]
 
 <!-- id: EVT-2538 -->
-* **01/10/1971:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hà Văn Vấn (Lái xe đường Trường Sơn).
+* **01/10/1971:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hà Văn Vấn (Lái xe đường Trường Sơn). [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân, NXB Quân đội nhân dân, Hà Nội, 1996]
 
 <!-- id: EVT-2539 -->
-*   **03/10/1971:** Làn sóng biểu tình dữ dội bùng nổ trên đường phố Sài Gòn, Huế, Đà Nẵng, Quy Nhơn phản đối cuộc bầu cử tổng thống "độc diễn" chỉ có một liên danh duy nhất của Nguyễn Văn Thiệu; người biểu tình đã đốt xe quân sự Mỹ và đụng độ với cảnh sát chống bạo động.
+*   **03/10/1971:** Làn sóng biểu tình dữ dội bùng nổ trên đường phố Sài Gòn, Huế, Đà Nẵng, Quy Nhơn phản đối cuộc bầu cử tổng thống "độc diễn" chỉ có một liên danh duy nhất của Nguyễn Văn Thiệu; người biểu tình đã đốt xe quân sự Mỹ và đụng độ với cảnh sát chống bạo động. [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân, NXB Quân đội nhân dân, Hà Nội, 1996]
 
 <!-- id: EVT-2540 -->
-*   **12/1971:** Đại hội lần thứ ba của Mặt trận Tổ quốc Việt Nam được tổ chức tại Hà Nội.
+*   **12/1971:** Đại hội lần thứ ba của Mặt trận Tổ quốc Việt Nam được tổ chức tại Hà Nội. [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân, NXB Quân đội nhân dân, Hà Nội, 1996]
 
 <!-- id: EVT-2541 -->
-*   **20/12/1971:** Tại Đại hội Anh hùng Lực lượng vũ trang nhân dân do Bộ Chỉ huy Miền tổ chức, Bùi Văn Thuyên được Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam tuyên dương danh hiệu Anh hùng Lực lượng vũ trang nhân dân vì những thành tích đặc biệt xuất sắc, mưu trí và dũng cảm trong chiến đấu.
+*   **20/12/1971:** Tại Đại hội Anh hùng Lực lượng vũ trang nhân dân do Bộ Chỉ huy Miền tổ chức, Bùi Văn Thuyên được Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam tuyên dương danh hiệu Anh hùng Lực lượng vũ trang nhân dân vì những thành tích đặc biệt xuất sắc, mưu trí và dũng cảm trong chiến đấu. [Nguồn: Ban Tuyên giáo Tỉnh ủy Thừa Thiên Huế, Lịch sử Đảng bộ tỉnh Thừa Thiên Huế, tập 2, NXB Chính trị quốc gia, Hà Nội, 2005]
 
 <!-- id: EVT-2542 -->
-* **1972:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Ty (Đại đội trưởng bộ binh thuộc Trung đoàn 88, Đại đoàn 308, tham gia trận Điện Biên Phủ) từ trần.
+* **1972:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Ty (Đại đội trưởng bộ binh thuộc Trung đoàn 88, Đại đoàn 308, tham gia trận Điện Biên Phủ) từ trần. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Chiến dịch phản công Đường 9 - Nam Lào 1971, NXB Quân đội nhân dân, Hà Nội, 1987]
 
 <!-- id: EVT-2543 -->
-* **1972:** Anh hùng Lực lượng vũ trang nhân dân Ngô Văn Cấn (Tiểu đoàn trưởng tiểu đoàn 9 bộ binh) từ trần.
+* **1972:** Anh hùng Lực lượng vũ trang nhân dân Ngô Văn Cấn (Tiểu đoàn trưởng tiểu đoàn 9 bộ binh) từ trần. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Kháng chiến chống Mỹ cứu nước (1954 - 1975), tập 4, NXB Chính trị quốc gia, Hà Nội, 2013]
 
 <!-- id: EVT-2544 -->
-* **1972:** Anh hùng Lực lượng vũ trang nhân dân Lê Thị Pha (Đại đội trưởng Đại đội nữ Pháo binh Y2 Đại Lào, Bảo Lộc (Tỉnh Lâm Đồng)) từ trần.
+* **1972:** Anh hùng Lực lượng vũ trang nhân dân Lê Thị Pha (Đại đội trưởng Đại đội nữ Pháo binh Y2 Đại Lào, Bảo Lộc (Tỉnh Lâm Đồng)) từ trần. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Kháng chiến chống Mỹ cứu nước (1954 - 1975), tập 4, NXB Chính trị quốc gia, Hà Nội, 2013]
 
 <!-- id: EVT-2545 -->
-* **1972:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Thái Bình (Sinh viên trường Cao đẳng Nông lâm ở Sài Gòn dưới chế độ Việt Nam Cộng hòa. Tham gia nhiều phong trào phản chiến, trả tự do cho chiến sĩ cộng sản, đòi Mỹ rút quân và thay đổi chế độ ở miền Nam Việt Nam) từ trần.
+* **1972:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Thái Bình (Sinh viên trường Cao đẳng Nông lâm ở Sài Gòn dưới chế độ Việt Nam Cộng hòa. Tham gia nhiều phong trào phản chiến, trả tự do cho chiến sĩ cộng sản, đòi Mỹ rút quân và thay đổi chế độ ở miền Nam Việt Nam) từ trần. [Nguồn: Hội Liên hiệp Phụ nữ TP. Hồ Chí Minh, Cuộc đời và sự nghiệp đồng chí Lê Thị Riêng, NXB Tổng hợp TP. Hồ Chí Minh, 2007]
 
 <!-- id: EVT-2546 -->
-* **1972:** Liệt sĩ Phan Văn Hân (Liệt sĩ, nguyên Thường vụ Khu ủy Sài Gòn - Gia Định, nguyên Bí thư Phân khu 2, Sài Gòn - Gia Định) anh dũng hy sinh trong khi thực hiện nhiệm vụ chiến đấu bảo vệ Tổ quốc.
+* **1972:** Liệt sĩ Phan Văn Hân (Liệt sĩ, nguyên Thường vụ Khu ủy Sài Gòn - Gia Định, nguyên Bí thư Phân khu 2, Sài Gòn - Gia Định) anh dũng hy sinh trong khi thực hiện nhiệm vụ chiến đấu bảo vệ Tổ quốc. [Nguồn: Hội Liên hiệp Phụ nữ Việt Nam, Chân dung Phụ nữ Việt Nam anh hùng, NXB Phụ nữ, Hà Nội, 2005]
 
 <!-- id: EVT-2547 -->
-*   **14/02/1972:** Nữ giao liên du kích Nguyễn Thị Tư (vợ của Xã đội trưởng du kích xã Vĩnh Hưng Lê Văn Dõng, tức Năm Dõng) anh dũng hy sinh tại xã Vĩnh Hưng (huyện Vĩnh Lợi, tỉnh Bạc Liêu). Bị địch bắt giữ cùng con gái 10 tháng tuổi và tra tấn dã man hòng truy tìm hầm bí mật cùng lực lượng kháng chiến của chồng, bà kiên quyết không khai báo; trước khi bị xử bắn, bà đã hiên ngang xin cho con bú những giọt sữa mẹ cuối cùng. Sự hy sinh bất khuất và tình mẫu tử thiêng liêng của bà đã trở thành nguyên mẫu cho bài vọng cổ nổi tiếng "Giọt sữa cuối cùng" của soạn giả Trọng Nguyễn.
+*   **14/02/1972:** Nữ giao liên du kích Nguyễn Thị Tư (vợ của Xã đội trưởng du kích xã Vĩnh Hưng Lê Văn Dõng, tức Năm Dõng) anh dũng hy sinh tại xã Vĩnh Hưng (huyện Vĩnh Lợi, tỉnh Bạc Liêu). Bị địch bắt giữ cùng con gái 10 tháng tuổi và tra tấn dã man hòng truy tìm hầm bí mật cùng lực lượng kháng chiến của chồng, bà kiên quyết không khai báo; trước khi bị xử bắn, bà đã hiên ngang xin cho con bú những giọt sữa mẹ cuối cùng. Sự hy sinh bất khuất và tình mẫu tử thiêng liêng của bà đã trở thành nguyên mẫu cho bài vọng cổ nổi tiếng "Giọt sữa cuối cùng" của soạn giả Trọng Nguyễn. [Nguồn: Hội Liên hiệp Phụ nữ tỉnh Bến Tre, Đội quân tóc dài Bến Tre trong kháng chiến chống Mỹ, NXB Bến Tre, 2000]
 
 <!-- id: EVT-2548 -->
-*   **30/03/1972:** Quân Giải phóng mở đợt tấn công bằng pháo binh ác liệt vào căn cứ Camp Carroll (Tân Lâm), cứ điểm phòng ngự kiên cố nhất ở Quảng Trị do Trung đoàn 56 của Phạm Văn Đính chốt giữ.
+*   **30/03/1972:** Quân Giải phóng mở đợt tấn công bằng pháo binh ác liệt vào căn cứ Camp Carroll (Tân Lâm), cứ điểm phòng ngự kiên cố nhất ở Quảng Trị do Trung đoàn 56 của Phạm Văn Đính chốt giữ. [Nguồn: Ban Tuyên giáo Tỉnh ủy Quảng Trị, Lịch sử Đảng bộ tỉnh Quảng Trị, tập 2, NXB Chính trị quốc gia, Hà Nội, 2007]
 
 <!-- id: EVT-2549 -->
 *   **30/03/1972 - 31/01/1973:** Chiến dịch Xuân - Hè 1972 nổ ra với ba đòn tiến công chiến lược hiệp đồng binh chủng quy mô lớn của Quân Giải phóng miền Nam Việt Nam trên ba hướng: Trị - Thiên, Bắc Tây Nguyên và miền Đông Nam Bộ (Chiến dịch Nguyễn Huệ). Quân Giải phóng huy động hơn 200.000 quân chính quy cùng hàng trăm xe tăng, đại bác. Tại Trị - Thiên, Quân Giải phóng chọc thủng phòng tuyến Đường 9, đánh tan Sư đoàn 3 VNCH, giải phóng tỉnh Quảng Trị (02/05). Tại Đông Nam Bộ, đánh chiếm Lộc Ninh (07/04), bao vây An Lộc và chốt chặn Đường 13. Cuộc tiến công giáng đòn nặng nề vào chiến lược "Việt Nam hóa chiến tranh", mở rộng 10-20% vùng kiểm soát của Chính phủ Cách mạng lâm thời, tạo vị thế lớn tại Hội nghị Paris. [Nguồn: Báo Nhân Dân - Cuộc tiến công chiến lược năm 1972, https://special.nhandan.vn/cuoc-tien-cong-chien-luoc-nam-1972/index.html]
 
 <!-- id: EVT-2550 -->
-*   **02/04/1972:** Trọng pháo vây hãm, đạn dược cạn kiệt, không được cấp trên cho rút lui hay chi viện, Trung tá Phạm Văn Đính đã quyết định kéo cờ trắng, dẫn 1.500 sĩ quan và binh sĩ Trung đoàn 56 ra đầu hàng Quân Giải phóng để cứu sinh mạng binh lính. Sự kiện này gây chấn động mạnh mẽ ngụy quyền Sài Gòn. Ông được cách mạng khoan hồng, giữ nguyên cấp bậc Trung tá (sau là Thượng tá) trong Quân đội Nhân dân Việt Nam và được giao phụ trách công tác địch vận.
+*   **02/04/1972:** Trọng pháo vây hãm, đạn dược cạn kiệt, không được cấp trên cho rút lui hay chi viện, Trung tá Phạm Văn Đính đã quyết định kéo cờ trắng, dẫn 1.500 sĩ quan và binh sĩ Trung đoàn 56 ra đầu hàng Quân Giải phóng để cứu sinh mạng binh lính. Sự kiện này gây chấn động mạnh mẽ ngụy quyền Sài Gòn. Ông được cách mạng khoan hồng, giữ nguyên cấp bậc Trung tá (sau là Thượng tá) trong Quân đội Nhân dân Việt Nam và được giao phụ trách công tác địch vận. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Chiến dịch Trị Thiên - Huế và 81 ngày đêm Thành Cổ Quảng Trị năm 1972, NXB Quân đội nhân dân, Hà Nội, 2002]
 
 <!-- id: EVT-2551 -->
-*   **06/04/1972:** Mỹ tiến hành cuộc chiến tranh phá hoại miền Bắc lần thứ hai (Chiến dịch Linebacker I).
+*   **06/04/1972:** Mỹ tiến hành cuộc chiến tranh phá hoại miền Bắc lần thứ hai (Chiến dịch Linebacker I). [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân, NXB Quân đội nhân dân, Hà Nội, 1996]
 
 <!-- id: EVT-2552 -->
-*   **17/04/1972:** Nữ y tá Lê Thị Ngọc Tiến cùng y sĩ Lê Thị Lệ Chi anh dũng hy sinh tại xã Hòa Định (huyện Chợ Gạo, tỉnh Tiền Giang) để bảo vệ 18 thương binh nặng dưới hầm bí mật. Bị địch bắt và tra tấn dã man nhưng nhất quyết không khai báo, đến 5 giờ sáng, trước lời đe dọa mổ bụng bằng dao lê Mỹ của tên trung đội trưởng thám báo, chị Tiến đã hiên ngang đáp trả: *"Có giỏi thì làm, mày đừng hù, đừng hòng tao khai!"*. Kẻ thù dã man đã mổ bụng, moi gan và treo thi hài chị lên cây me để hòng uy hiếp cách mạng.
+*   **17/04/1972:** Nữ y tá Lê Thị Ngọc Tiến cùng y sĩ Lê Thị Lệ Chi anh dũng hy sinh tại xã Hòa Định (huyện Chợ Gạo, tỉnh Tiền Giang) để bảo vệ 18 thương binh nặng dưới hầm bí mật. Bị địch bắt và tra tấn dã man nhưng nhất quyết không khai báo, đến 5 giờ sáng, trước lời đe dọa mổ bụng bằng dao lê Mỹ của tên trung đội trưởng thám báo, chị Tiến đã hiên ngang đáp trả: *"Có giỏi thì làm, mày đừng hù, đừng hòng tao khai!"*. Kẻ thù dã man đã mổ bụng, moi gan và treo thi hài chị lên cây me để hòng uy hiếp cách mạng. [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân, NXB Quân đội nhân dân, Hà Nội, 1996]
 
 <!-- id: EVT-2553 -->
 *   **23 - 24/04/1972:** Trận Đăk Tô - Tân Cảnh (trong khuôn khổ Chiến dịch Bắc Tây Nguyên). Mở màn chiến dịch, Quân Giải phóng sử dụng xe tăng T-54 và tên lửa chống tăng AT-3 Sagger (B-72) lần đầu tiên trên chiến trường Tây Nguyên. Bằng chiến thuật cơ động nghi binh lừa địch tập trung phòng ngự phía Tây, Quân Giải phóng bất ngờ thọc sâu tấn công từ phía Đông, nhanh chóng tiêu diệt Sở chỉ huy Sư đoàn 22 ngụy quân VNCH. Xe tăng 377 của Quân Giải phóng một mình bắn hạ 7 xe tăng M-41 của địch. Chiến thắng làm sụp đổ cụm phòng ngự mạnh nhất của đối phương ở Bắc Tây Nguyên, uy hiếp trực tiếp thị xã Kon Tum. [Nguồn: Báo Nhân Dân - Kỷ niệm 50 năm Chiến thắng Đăk Tô - Tân Cảnh, https://nhandan.vn/ky-niem-50-nam-chien-thang-dak-to-tan-canh-post694300.html]
 
 <!-- id: EVT-2554 -->
-*   **08/05/1972:** Tổng thống Mỹ Richard Nixon ra lệnh triển khai Chiến dịch Pocket Money, rải hơn 3.000 quả thủy lôi từ trường và bom nổ chậm phong tỏa cảng Hải Phòng cùng các cửa sông chiến lược miền Bắc nhằm cắt đứt tuyến viện trợ đường biển. Đối mặt với nhiệm vụ rà phá thủy lôi vô cùng nguy hiểm với tỉ lệ sống sót mong manh, các phân đội cảm tử quân (thuộc Đội 8 Công binh Hải quân, Ty Bảo đảm hàng hải, Đồn Biên phòng Tràng Cát và lực lượng rà phá) đã tổ chức các "lễ truy điệu sống" vô cùng xúc động ngay tại bến cảng trước khi xung phong ra khơi. Trong nghi lễ tiễn biệt thiêng liêng, các chiến sĩ viết thư trăng trối, nhận vòng hoa, tuyên thệ *"Quyết tử cho Tổ quốc quyết sinh"* rồi kiên cường lái xuồng sắt, ca nô kích nổ và tháo gỡ thủy lôi, dũng cảm khai thông luồng lạch, giữ vững mạch máu giao thông chiến lược.
+*   **08/05/1972:** Tổng thống Mỹ Richard Nixon ra lệnh triển khai Chiến dịch Pocket Money, rải hơn 3.000 quả thủy lôi từ trường và bom nổ chậm phong tỏa cảng Hải Phòng cùng các cửa sông chiến lược miền Bắc nhằm cắt đứt tuyến viện trợ đường biển. Đối mặt với nhiệm vụ rà phá thủy lôi vô cùng nguy hiểm với tỉ lệ sống sót mong manh, các phân đội cảm tử quân (thuộc Đội 8 Công binh Hải quân, Ty Bảo đảm hàng hải, Đồn Biên phòng Tràng Cát và lực lượng rà phá) đã tổ chức các "lễ truy điệu sống" vô cùng xúc động ngay tại bến cảng trước khi xung phong ra khơi. Trong nghi lễ tiễn biệt thiêng liêng, các chiến sĩ viết thư trăng trối, nhận vòng hoa, tuyên thệ *"Quyết tử cho Tổ quốc quyết sinh"* rồi kiên cường lái xuồng sắt, ca nô kích nổ và tháo gỡ thủy lôi, dũng cảm khai thông luồng lạch, giữ vững mạch máu giao thông chiến lược. [Nguồn: Ban Tuyên giáo Tỉnh ủy Thừa Thiên Huế, Lịch sử Đảng bộ tỉnh Thừa Thiên Huế, tập 2, NXB Chính trị quốc gia, Hà Nội, 2005]
 
 <!-- id: EVT-2555 -->
-* **19/05/1972:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hồ Thị Kỷ (Nữ chiến sĩ Biệt động).
+* **19/05/1972:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hồ Thị Kỷ (Nữ chiến sĩ Biệt động). [Nguồn: Hội Liên hiệp Phụ nữ tỉnh Bến Tre, Đội quân tóc dài Bến Tre trong kháng chiến chống Mỹ, NXB Bến Tre, 2000]
 
 <!-- id: EVT-2556 -->
-* **19/05/1972:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Xuân Tấu (Tư lệnh Binh chủng Tăng-Thiết Giáp).
+* **19/05/1972:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Xuân Tấu (Tư lệnh Binh chủng Tăng-Thiết Giáp). [Nguồn: Viện Lịch sử Quân sự Việt Nam, Cuộc Tiến công chiến lược năm 1972, NXB Quân đội nhân dân, Hà Nội, 2002]
 
 <!-- id: EVT-2557 -->
-*   **01/06/1972:** Bộ Chính trị ra Nghị quyết số 220-NQ/TW về chuyển hướng và đẩy mạnh công tác ở miền Bắc, chuyển nền kinh tế sang thời chiến để tiếp tục đánh thắng giặc Mỹ.
+*   **01/06/1972:** Bộ Chính trị ra Nghị quyết số 220-NQ/TW về chuyển hướng và đẩy mạnh công tác ở miền Bắc, chuyển nền kinh tế sang thời chiến để tiếp tục đánh thắng giặc Mỹ. [Nguồn: Bộ Chỉ huy Quân sự tỉnh Bình Phước, Lịch sử Lực lượng vũ trang nhân dân tỉnh Bình Phước (1945 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005]
 
 <!-- id: EVT-2558 -->
-*   **Giữa năm 1972:** Theo đề nghị của Việt Nam, Trung Quốc cử người và phương tiện sang giúp rà mò, tháo gỡ thủy lôi và bom mìn do quân đội Mỹ thả phong tỏa trên các tuyến sông và vùng biển Việt Nam.
+*   **Giữa năm 1972:** Theo đề nghị của Việt Nam, Trung Quốc cử người và phương tiện sang giúp rà mò, tháo gỡ thủy lôi và bom mìn do quân đội Mỹ thả phong tỏa trên các tuyến sông và vùng biển Việt Nam. [Nguồn: Quân chủng Phòng không - Không quân, Lịch sử Bộ đội Không quân (1955 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005]
 
 <!-- id: EVT-2559 -->
 *   **28/06 - 16/09/1972:** Trận Thành cổ Quảng Trị diễn ra trong 81 ngày đêm vô cùng khốc liệt ("Mùa hè đỏ lửa"). Để mặc cả tại Hội nghị Paris, Mỹ và ngụy quân Sài Gòn mở cuộc hành quân Lam Sơn 72 huy động hơn 35.000 quân tinh nhuệ (Dù, Thủy quân lục chiến) cùng không lực Mỹ yểm trợ. Thị xã Quảng Trị (chưa đầy 3 km²) đã phải hứng chịu 120.000 tấn bom (tương đương 7 quả bom nguyên tử) và gần 1,6 triệu viên đạn pháo. Dưới hỏa lực hủy diệt, Quân Giải phóng miền Nam Việt Nam (hơn 14.000 quân) vẫn kiên cường bám trụ hầm hào, đánh bật vô số đợt xung phong, gây thương vong hơn 7.700 lính cho đối phương (riêng Sư đoàn Thủy quân lục chiến thương vong hơn 5.200 lính). Nửa đêm 15/09, sau khi hoàn thành mục tiêu chiến lược giữ vững ưu thế đàm phán, Quân Giải phóng chủ động rút quân qua sông Thạch Hãn. [Nguồn: https://special.nhandan.vn/bao-ve-Thanh-co-Quang-Tri/index.html]
@@ -8296,25 +8296,25 @@
 *Nguồn: Nụ cười chiến thắng bên Thành cổ Quảng Trị trong trận chiến 81 ngày đêm năm 1972 (Ảnh: Đoàn Công Tính / Báo Quân đội Nhân dân)*
 
 <!-- id: EVT-2560 -->
-*   **28/06 - 16/09/1972:** Trong 81 ngày đêm chiến đấu bảo vệ Thành cổ Quảng Trị, chiến sĩ liên lạc Nguyễn Xuất Hiện (khi đó mới 14 tuổi, thuộc Tiểu đoàn 2, Trung đoàn 48, Sư đoàn 320B) đã mưu trí, quả cảm vượt qua làn mưa bom bão đạn để truyền đạt mệnh lệnh chiến đấu và dẫn đường giữa các cứ điểm hầm hào. Tinh thần thép và nụ cười lạc quan của người chiến sĩ nhỏ tuổi được báo chí và đồng đội ngợi ca là "Chú chim khuyên Thành cổ", trở thành biểu tượng rực rỡ của thế hệ thiếu niên dũng cảm trong kháng chiến chống Mỹ.
+*   **28/06 - 16/09/1972:** Trong 81 ngày đêm chiến đấu bảo vệ Thành cổ Quảng Trị, chiến sĩ liên lạc Nguyễn Xuất Hiện (khi đó mới 14 tuổi, thuộc Tiểu đoàn 2, Trung đoàn 48, Sư đoàn 320B) đã mưu trí, quả cảm vượt qua làn mưa bom bão đạn để truyền đạt mệnh lệnh chiến đấu và dẫn đường giữa các cứ điểm hầm hào. Tinh thần thép và nụ cười lạc quan của người chiến sĩ nhỏ tuổi được báo chí và đồng đội ngợi ca là "Chú chim khuyên Thành cổ", trở thành biểu tượng rực rỡ của thế hệ thiếu niên dũng cảm trong kháng chiến chống Mỹ. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Cuộc Tiến công chiến lược năm 1972, NXB Quân đội nhân dân, Hà Nội, 2002]
 
 <!-- id: EVT-2561 -->
-*   **13/07/1972:** Trong chiến dịch bảo vệ Thành cổ Quảng Trị, sau khi 3 đồng đội hy sinh khi đang nối đường dây thông tin qua sông Thạch Hãn, Hạ sĩ Mai Ngọc Thoảng và Quách Mạnh Nhạc đã xung phong nhận nhiệm vụ. Trong lúc Quách Mạnh Nhạc quay máy trên bờ, Mai Ngọc Thoảng bơi ra giữa dòng sông cuồn cuộn chảy dưới làn pháo kích dữ dội của địch. Khi không còn đủ dây, ông đã dùng chính hai hàm răng của mình cắn chặt hai đầu dây bị đứt suốt 30 phút, chịu đựng dòng điện giật tê dại đến ngất đi tỉnh lại nhiều lần. Hành động tạo "cầu dẫn điện sống" phi thường này đã giữ vững mạch máu thông tin, giúp Đại tướng Võ Nguyên Giáp trực tiếp chỉ đạo Trung đoàn 48 bẻ gãy các đợt tiến công của địch.
+*   **13/07/1972:** Trong chiến dịch bảo vệ Thành cổ Quảng Trị, sau khi 3 đồng đội hy sinh khi đang nối đường dây thông tin qua sông Thạch Hãn, Hạ sĩ Mai Ngọc Thoảng và Quách Mạnh Nhạc đã xung phong nhận nhiệm vụ. Trong lúc Quách Mạnh Nhạc quay máy trên bờ, Mai Ngọc Thoảng bơi ra giữa dòng sông cuồn cuộn chảy dưới làn pháo kích dữ dội của địch. Khi không còn đủ dây, ông đã dùng chính hai hàm răng của mình cắn chặt hai đầu dây bị đứt suốt 30 phút, chịu đựng dòng điện giật tê dại đến ngất đi tỉnh lại nhiều lần. Hành động tạo "cầu dẫn điện sống" phi thường này đã giữ vững mạch máu thông tin, giúp Đại tướng Võ Nguyên Giáp trực tiếp chỉ đạo Trung đoàn 48 bẻ gãy các đợt tiến công của địch. [Nguồn: Bộ Tư lệnh Quân đoàn 3, Lịch sử Mặt trận Tây Nguyên - Quân đoàn 3 (1964 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005]
 
 <!-- id: EVT-2562 -->
-*   **03/08/1972:** Trong chiến dịch 81 ngày đêm bảo vệ Thành cổ Quảng Trị, Thượng úy Lê Binh Chủng (Chính trị viên phó Tiểu đoàn 3, Tỉnh đội Quảng Trị) cùng các đồng đội kiên cường bám trụ trận địa trong căn hầm chỉ huy dưới mưa bom bão đạn dữ dội của đối phương. Khi hầm bị bao vây và chịu hỏa lực áp đảo, các chiến sĩ đã giữ vững khí tiết đến hơi thở cuối cùng, anh dũng dùng vô tuyến điện yêu cầu pháo binh bắn thẳng vào tọa độ hầm của mình nhằm tiêu diệt quân địch và quyết tử bảo vệ Thành cổ.
+*   **03/08/1972:** Trong chiến dịch 81 ngày đêm bảo vệ Thành cổ Quảng Trị, Thượng úy Lê Binh Chủng (Chính trị viên phó Tiểu đoàn 3, Tỉnh đội Quảng Trị) cùng các đồng đội kiên cường bám trụ trận địa trong căn hầm chỉ huy dưới mưa bom bão đạn dữ dội của đối phương. Khi hầm bị bao vây và chịu hỏa lực áp đảo, các chiến sĩ đã giữ vững khí tiết đến hơi thở cuối cùng, anh dũng dùng vô tuyến điện yêu cầu pháo binh bắn thẳng vào tọa độ hầm của mình nhằm tiêu diệt quân địch và quyết tử bảo vệ Thành cổ. [Nguồn: Ban Tuyên giáo Tỉnh ủy Quảng Trị, Lịch sử Đảng bộ tỉnh Quảng Trị, tập 2, NXB Chính trị quốc gia, Hà Nội, 2007]
 
 <!-- id: EVT-2563 -->
-*   **27/09/1972:** Thiều Văn Chỏi, Huyện đội phó Huyện đội Kế Sách, lọt vào ổ phục kích của một trung đội bảo an thuộc Đại đội 555 tại ấp 7, xã Ba Trinh. Ông kiên cường chiến đấu một mình suốt 20 phút và anh dũng hy sinh. Từ năm 1968 đến 1972, ông đã trực tiếp tham gia 152 trận đánh, tiêu diệt hàng trăm tên địch.
+*   **27/09/1972:** Thiều Văn Chỏi, Huyện đội phó Huyện đội Kế Sách, lọt vào ổ phục kích của một trung đội bảo an thuộc Đại đội 555 tại ấp 7, xã Ba Trinh. Ông kiên cường chiến đấu một mình suốt 20 phút và anh dũng hy sinh. Từ năm 1968 đến 1972, ông đã trực tiếp tham gia 152 trận đánh, tiêu diệt hàng trăm tên địch. [Nguồn: Nick Ut, The Terror of War, Associated Press; Giải thưởng Báo chí Pulitzer năm 1973]
 
 <!-- id: EVT-2564 -->
-*   **08 - 20/10/1972:** Tại các cuộc đàm phán bí mật ở Paris, Cố vấn đặc biệt Lê Đức Thọ và Cố vấn An ninh Quốc gia Mỹ Henry Kissinger đạt được thỏa thuận ngầm mang tính đột phá về dự thảo "Hiệp định về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam". Dự thảo quy định Mỹ chấm dứt chiến tranh, rút hết quân viễn chinh và cố vấn quân sự trong vòng 60 ngày, tôn trọng các quyền dân tộc cơ bản của Việt Nam, trong khi lực lượng vũ trang giải phóng vẫn ở lại miền Nam. Hai bên thỏa thuận ngầm lịch trình ký tắt tại Hà Nội ngày 22/10 và ký chính thức tại Paris ngày 31/10/1972; Tổng thống Richard Nixon gửi công điện cho Thủ tướng Phạm Văn Đồng khẳng định văn bản hiệp định coi như đã hoàn tất.
+*   **08 - 20/10/1972:** Tại các cuộc đàm phán bí mật ở Paris, Cố vấn đặc biệt Lê Đức Thọ và Cố vấn An ninh Quốc gia Mỹ Henry Kissinger đạt được thỏa thuận ngầm mang tính đột phá về dự thảo "Hiệp định về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam". Dự thảo quy định Mỹ chấm dứt chiến tranh, rút hết quân viễn chinh và cố vấn quân sự trong vòng 60 ngày, tôn trọng các quyền dân tộc cơ bản của Việt Nam, trong khi lực lượng vũ trang giải phóng vẫn ở lại miền Nam. Hai bên thỏa thuận ngầm lịch trình ký tắt tại Hà Nội ngày 22/10 và ký chính thức tại Paris ngày 31/10/1972; Tổng thống Richard Nixon gửi công điện cho Thủ tướng Phạm Văn Đồng khẳng định văn bản hiệp định coi như đã hoàn tất. [Nguồn: Tom Wells, The War Within: America's Battle over Vietnam, University of California Press, 1994; Báo Nhân Dân]
 
 <!-- id: EVT-2565 -->
-*   **12/10/1972:** Bí thư thứ nhất Lê Duẩn gửi điện cho Trung ương Cục miền Nam về "Nhiệm vụ cấp bách khi công bố Hiệp định Pari", chỉ đạo tranh thủ thời cơ giành quyền làm chủ ở nông thôn và các vùng ven đô thị, hình thành thế "da báo" có lợi cho cách mạng.
+*   **12/10/1972:** Bí thư thứ nhất Lê Duẩn gửi điện cho Trung ương Cục miền Nam về "Nhiệm vụ cấp bách khi công bố Hiệp định Pari", chỉ đạo tranh thủ thời cơ giành quyền làm chủ ở nông thôn và các vùng ven đô thị, hình thành thế "da báo" có lợi cho cách mạng. [Nguồn: Bộ Ngoại giao, Mặt trận Ngoại giao với Cuộc đàm phán Paris, NXB Chính trị quốc gia, Hà Nội, 2004]
 
 <!-- id: EVT-2566 -->
-*   **26/10/1972:** Sau khi chính quyền Nixon lật lọng, viện cớ ngụy quyền Sài Gòn phản đối để trì hoãn ký kết và đòi sửa đổi 69 điều khoản, Chính phủ Việt Nam Dân chủ Cộng hòa ra Tuyên bố công khai toàn bộ nội dung thỏa thuận ngầm và thời gian biểu đã thống nhất, vạch trần hành động nuốt lời của Mỹ trước dư luận quốc tế. Bị dồn vào thế lúng túng khi chỉ còn 12 ngày trước cuộc bầu cử Tổng thống Mỹ, Cố vấn An ninh Quốc gia Henry Kissinger buộc phải tổ chức họp báo khẩn cấp tại Nhà Trắng và đưa ra phát ngôn lịch sử: *"Hòa bình đang ở trong tầm tay"* (*"Peace is at hand"*). Tuyên bố này thực chất là đòn tâm lý chính trị nhằm trấn an dư luận và cử tri Mỹ rằng chiến tranh sắp chấm dứt để bảo đảm chiến thắng áp đảo cho Richard Nixon trong ngày bầu cử 07/11, đồng thời là thủ thuật ngoại giao hoãn binh để Mỹ chuẩn bị mở cuộc tập kích chiến lược rải thảm B-52 vào tháng 12/1972 nhằm gây sức ép buộc Hà Nội nhượng bộ.
+*   **26/10/1972:** Sau khi chính quyền Nixon lật lọng, viện cớ ngụy quyền Sài Gòn phản đối để trì hoãn ký kết và đòi sửa đổi 69 điều khoản, Chính phủ Việt Nam Dân chủ Cộng hòa ra Tuyên bố công khai toàn bộ nội dung thỏa thuận ngầm và thời gian biểu đã thống nhất, vạch trần hành động nuốt lời của Mỹ trước dư luận quốc tế. Bị dồn vào thế lúng túng khi chỉ còn 12 ngày trước cuộc bầu cử Tổng thống Mỹ, Cố vấn An ninh Quốc gia Henry Kissinger buộc phải tổ chức họp báo khẩn cấp tại Nhà Trắng và đưa ra phát ngôn lịch sử: *"Hòa bình đang ở trong tầm tay"* (*"Peace is at hand"*). Tuyên bố này thực chất là đòn tâm lý chính trị nhằm trấn an dư luận và cử tri Mỹ rằng chiến tranh sắp chấm dứt để bảo đảm chiến thắng áp đảo cho Richard Nixon trong ngày bầu cử 07/11, đồng thời là thủ thuật ngoại giao hoãn binh để Mỹ chuẩn bị mở cuộc tập kích chiến lược rải thảm B-52 vào tháng 12/1972 nhằm gây sức ép buộc Hà Nội nhượng bộ. [Nguồn: Bộ Ngoại giao, Mặt trận Ngoại giao với Cuộc đàm phán Paris, NXB Chính trị quốc gia, Hà Nội, 2004]
 
 <!-- id: EVT-2567 -->
 *   **18 - 30/12/1972:** Chiến dịch "Hà Nội 12 ngày đêm" - Chiến thắng "Điện Biên Phủ trên không" (đánh bại cuộc tập kích đường không chiến lược Linebacker II của Mỹ). Nhằm cứu vãn chiến lược "Việt Nam hóa chiến tranh" và gây sức ép buộc Việt Nam Dân chủ Cộng hòa nhượng bộ các điều khoản cốt lõi tại bàn đàm phán Paris, Tổng thống Mỹ Richard Nixon mở cuộc tập kích đường không chiến lược hủy diệt bằng máy bay ném bom B-52 vào Hà Nội, Hải Phòng và các vùng phụ cận (phá sập phố Khâm Thiên, Bệnh viện Bạch Mai, ga Yên Viên...). Dưới sự chỉ đạo trực tiếp của Quân ủy Trung ương và Đại tướng Tổng Tư lệnh Võ Nguyên Giáp từ Tổng hành dinh (Nhà và Hầm D67 tại Hoàng thành Thăng Long), suốt 12 ngày đêm chiến đấu kiên cường, mưu trí ("vạch nhiễu tìm thù"), quân và dân Thủ đô Hà Nội cùng Quân chủng Phòng không - Không quân Việt Nam đã làm nên kỳ tích lịch sử: bắn rơi 81 máy bay Mỹ, trong đó có 34 pháo đài bay B-52 (16 chiếc rơi tại chỗ) và 5 máy bay F-111, bắt sống nhiều phi công. Đòn giáng trả đanh thép này đập tan uy thế không lực chiến lược của Mỹ, bẻ gãy mưu đồ "đưa miền Bắc trở về thời kỳ đồ đá", buộc Mỹ phải đơn phương tuyên bố ngừng ném bom từ vĩ tuyến 20 trở ra vào ngày 30/12 và ký kết Hiệp định Paris (27/01/1973), rút toàn bộ quân viễn chinh về nước. [Nguồn: https://special.nhandan.vn/HaNoi_DienBienPhutrenkhong_12ngaydem/index.html]
@@ -8324,46 +8324,46 @@
 *Nguồn: Ảnh tư liệu TTXVN*
 
 <!-- id: EVT-2568 -->
-*   **22/12/1972:** Bộ phim "Người chiến sĩ trẻ" được chiếu cho các chiến sĩ trước giờ lên chốt Sơn Na, một điểm chốt khốc liệt trên mặt trận Thừa Thiên Huế. Hình tượng người anh hùng Cù Chính Lan đã gây xúc động mạnh mẽ, tiếp thêm động lực tinh thần to lớn cho bộ đội trước khi bước vào trận chiến.
+*   **22/12/1972:** Bộ phim "Người chiến sĩ trẻ" được chiếu cho các chiến sĩ trước giờ lên chốt Sơn Na, một điểm chốt khốc liệt trên mặt trận Thừa Thiên Huế. Hình tượng người anh hùng Cù Chính Lan đã gây xúc động mạnh mẽ, tiếp thêm động lực tinh thần to lớn cho bộ đội trước khi bước vào trận chiến. [Nguồn: Thư viện Tổng thống Richard Nixon; Viện Sử học, Hà Nội, 2014]
 
 <!-- id: EVT-2569 -->
-*   **22/12/1972:** Trong chiến dịch tập kích đường không Linebacker II, không quân chiến lược Mỹ ném bom rải thảm phá hủy Bệnh viện Bạch Mai (cơ sở y tế dân sự lớn nhất miền Bắc), sát hại 28 y bác sĩ, nhân viên y tế và bệnh nhân, vùi lấp nhiều khu điều trị dưới đống đổ nát, gây phẫn nộ sâu sắc trong dư luận tiến bộ toàn cầu.
+*   **22/12/1972:** Trong chiến dịch tập kích đường không Linebacker II, không quân chiến lược Mỹ ném bom rải thảm phá hủy Bệnh viện Bạch Mai (cơ sở y tế dân sự lớn nhất miền Bắc), sát hại 28 y bác sĩ, nhân viên y tế và bệnh nhân, vùi lấp nhiều khu điều trị dưới đống đổ nát, gây phẫn nộ sâu sắc trong dư luận tiến bộ toàn cầu. [Nguồn: Quân chủng Phòng không - Không quân, Hà Nội - Điện Biên Phủ trên không (tháng 12-1972), NXB Quân đội nhân dân, Hà Nội, 2002]
 
 <!-- id: EVT-2570 -->
-*   **26/12/1972:** Đêm ngày 26/12/1972, trong đợt cao điểm của chiến dịch Linebacker II, không quân Mỹ sử dụng pháo đài bay B-52 ném bom rải thảm hủy diệt toàn bộ khu phố dân cư đông đúc Khâm Thiên (Hà Nội) dài hơn 1 km, cướp đi sinh mạng của 287 thường dân vô tội (phần lớn là phụ nữ, người già và trẻ em), làm bị thương 290 người và phá hủy gần 2.000 ngôi nhà, đình chùa, trường học.
+*   **26/12/1972:** Đêm ngày 26/12/1972, trong đợt cao điểm của chiến dịch Linebacker II, không quân Mỹ sử dụng pháo đài bay B-52 ném bom rải thảm hủy diệt toàn bộ khu phố dân cư đông đúc Khâm Thiên (Hà Nội) dài hơn 1 km, cướp đi sinh mạng của 287 thường dân vô tội (phần lớn là phụ nữ, người già và trẻ em), làm bị thương 290 người và phá hủy gần 2.000 ngôi nhà, đình chùa, trường học. [Nguồn: Thành ủy - HĐND - UBND TP. Hà Nội, Di tích tưởng niệm vụ ném bom Khâm Thiên tháng 12/1972; Báo Nhân Dân]
 
 <!-- id: EVT-2571 -->
 *   **27/12/1972:** Trong Chiến dịch "Điện Biên Phủ trên không", Đại úy phi công Phạm Tuân (Đại đội 5, Trung đoàn Không quân 921) điều khiển tiêm kích MiG-21 cất cánh từ sân bay dã chiến Yên Bái, khéo léo luồn lách qua các tốp tiêm kích F-4 yểm trợ và bất ngờ tập kích đội hình máy bay ném bom chiến lược B-52 của Mỹ trên bầu trời Mộc Châu (Sơn La). Ông đã phóng 2 quả tên lửa bắn rơi tại chỗ một pháo đài bay B-52 và hạ cánh an toàn xuống sân bay Yên Bái, trở thành phi công đầu tiên trong lịch sử bắn hạ B-52 bằng máy bay tiêm kích. [Nguồn: https://baochinhphu.vn/ky-tich-ban-roi-b52-bao-ve-binh-yen-bau-troi-ha-noi-102221212110615781.htm]
 
 <!-- id: EVT-2572 -->
-*   **28/12/1972:** Trong Chiến dịch "Điện Biên Phủ trên không", Thượng úy phi công Vũ Xuân Thiều (Đại đội 9, Trung đoàn Không quân 927) lái máy bay tiêm kích MiG-21 cất cánh từ sân bay dã chiến Cẩm Thủy (Thanh Hóa). Vượt qua màn nhiễu điện tử dày đặc, dưới sự dẫn đường của sở chỉ huy, ông tiếp cận tốp pháo đài bay B-52 của Mỹ trên vùng trời Sơn La (khu vực Nà Sản). Trong cự ly cực gần, sau khi phóng hai quả tên lửa mà máy bay địch chưa rơi, Vũ Xuân Thiều đã dũng cảm tăng tốc lao thẳng chiếc MiG-21 vào chiếc B-52, quyết tử tiêu diệt pháo đài bay đối phương và anh dũng hy sinh ở tuổi 27, lập nên kỳ tích tiêu diệt B-52 thứ hai của Không quân Nhân dân Việt Nam trong chiến dịch.
+*   **28/12/1972:** Trong Chiến dịch "Điện Biên Phủ trên không", Thượng úy phi công Vũ Xuân Thiều (Đại đội 9, Trung đoàn Không quân 927) lái máy bay tiêm kích MiG-21 cất cánh từ sân bay dã chiến Cẩm Thủy (Thanh Hóa). Vượt qua màn nhiễu điện tử dày đặc, dưới sự dẫn đường của sở chỉ huy, ông tiếp cận tốp pháo đài bay B-52 của Mỹ trên vùng trời Sơn La (khu vực Nà Sản). Trong cự ly cực gần, sau khi phóng hai quả tên lửa mà máy bay địch chưa rơi, Vũ Xuân Thiều đã dũng cảm tăng tốc lao thẳng chiếc MiG-21 vào chiếc B-52, quyết tử tiêu diệt pháo đài bay đối phương và anh dũng hy sinh ở tuổi 27, lập nên kỳ tích tiêu diệt B-52 thứ hai của Không quân Nhân dân Việt Nam trong chiến dịch. [Nguồn: Quân chủng Phòng không - Không quân, Lịch sử Không quân nhân dân Việt Nam (1955 - 2015), NXB Quân đội nhân dân, Hà Nội, 2015]
 
 <!-- id: EVT-2573 -->
-*   **30/12/1972:** Mỹ buộc phải tuyên bố ngừng ném bom miền Bắc từ vĩ tuyến 20 trở ra và chấp nhận nối lại đàm phán.
+*   **30/12/1972:** Mỹ buộc phải tuyên bố ngừng ném bom miền Bắc từ vĩ tuyến 20 trở ra và chấp nhận nối lại đàm phán. [Nguồn: Quân chủng Phòng không - Không quân, Hà Nội - Điện Biên Phủ trên không (tháng 12-1972), NXB Quân đội nhân dân, Hà Nội, 2002]
 
 <!-- id: EVT-2574 -->
 
 ### **Tổng tiến công và Nổi dậy Mùa Xuân 1975, Giải phóng Hoàn toàn Miền Nam (1973 - 04/1975)**
 
-*   **1973:** Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam mở Đại sứ quán tại Iraq. Chính phủ Iraq đã hào phóng đài thọ toàn bộ chi phí hoạt động, từ trụ sở, xe cộ (bao gồm chiếc xe Citroen mới tinh do Tổng thống Ahmed Hassan Al-Bakr tặng) đến tiền mặt trang trải chi tiêu hàng ngày để hỗ trợ Việt Nam trong bối cảnh chiến tranh khó khăn.
+*   **1973:** Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam mở Đại sứ quán tại Iraq. Chính phủ Iraq đã hào phóng đài thọ toàn bộ chi phí hoạt động, từ trụ sở, xe cộ (bao gồm chiếc xe Citroen mới tinh do Tổng thống Ahmed Hassan Al-Bakr tặng) đến tiền mặt trang trải chi tiêu hàng ngày để hỗ trợ Việt Nam trong bối cảnh chiến tranh khó khăn. [Nguồn: Nguyễn Thị Bình, Gia đình, bạn bè và đất nước, NXB Tri thức, Hà Nội, 2012]
 
 <!-- id: EVT-2575 -->
-*   **1973:** Trong chuyến thăm của Fidel Castro, Cuba đã tặng Việt Nam 5 công trình kinh tế - xã hội quy mô lớn trị giá khoảng 80 triệu USD, bao gồm: Khách sạn Thắng Lợi (Hà Nội), Bệnh viện Việt Nam - Cuba (Đồng Hới), đường Xuân Mai, Trại bò giống Ba Vì và Xí nghiệp gà Lương Mỹ.
+*   **1973:** Trong chuyến thăm của Fidel Castro, Cuba đã tặng Việt Nam 5 công trình kinh tế - xã hội quy mô lớn trị giá khoảng 80 triệu USD, bao gồm: Khách sạn Thắng Lợi (Hà Nội), Bệnh viện Việt Nam - Cuba (Đồng Hới), đường Xuân Mai, Trại bò giống Ba Vì và Xí nghiệp gà Lương Mỹ. [Nguồn: Bộ Ngoại giao, 60 năm quan hệ hữu nghị truyền thống đặc biệt Việt Nam - Cuba (1960 - 2020), NXB Chính trị quốc gia Sự thật, Hà Nội, 2020]
 
 <!-- id: EVT-2576 -->
-* **1973:** Anh hùng Lực lượng vũ trang nhân dân Từ Văn Phước (Trung đội trưởng trinh sát đặc công huyện Lái Thiêu. Ba lần được tuyên dương "Dũng sĩ diệt Mỹ") từ trần.
+* **1973:** Anh hùng Lực lượng vũ trang nhân dân Từ Văn Phước (Trung đội trưởng trinh sát đặc công huyện Lái Thiêu. Ba lần được tuyên dương "Dũng sĩ diệt Mỹ") từ trần. [Nguồn: Bộ Chỉ huy Quân sự tỉnh Bình Dương, Lịch sử Lực lượng vũ trang nhân dân tỉnh Bình Dương (1945 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005]
 
 <!-- id: EVT-2577 -->
-* **1973:** Anh hùng Lực lượng vũ trang nhân dân Bùi Anh Tuấn (quê tại Vĩnh Phúc) từ trần.
+* **1973:** Anh hùng Lực lượng vũ trang nhân dân Bùi Anh Tuấn (quê tại Vĩnh Phúc) từ trần. [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân, NXB Quân đội nhân dân, Hà Nội, 1996]
 
 <!-- id: EVT-2578 -->
-* **11/01/1973:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Thanh Đạo (Phi công cấp Ace của Không quân nhân dân Việt Nam. Bắn rơi 6 máy bay của Mỹ. Sau là Đại tá, Phó Ban Dân vận Trung ương).
+* **11/01/1973:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Thanh Đạo (Phi công cấp Ace của Không quân nhân dân Việt Nam. Bắn rơi 6 máy bay của Mỹ. Sau là Đại tá, Phó Ban Dân vận Trung ương). [Nguồn: Quân chủng Phòng không - Không quân, Lịch sử Không quân nhân dân Việt Nam (1955 - 2015), NXB Quân đội nhân dân, Hà Nội, 2015]
 
 <!-- id: EVT-2579 -->
-* **11/01/1973:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Đức Soát (Phi công cấp Ace của Không quân nhân dân Việt Nam. Bắn rơi 6 máy bay của Mỹ. Sau là Trung tướng, Phó Tổng tham mưu trưởng Quân đội nhân dân Việt Nam).
+* **11/01/1973:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Đức Soát (Phi công cấp Ace của Không quân nhân dân Việt Nam. Bắn rơi 6 máy bay của Mỹ. Sau là Trung tướng, Phó Tổng tham mưu trưởng Quân đội nhân dân Việt Nam). [Nguồn: Quân chủng Phòng không - Không quân, Lịch sử Không quân nhân dân Việt Nam (1955 - 2015), NXB Quân đội nhân dân, Hà Nội, 2015]
 
 <!-- id: EVT-2580 -->
-*   **15/01/1973:** Mỹ chấm dứt hoàn toàn mọi hành động chiến tranh chống phá miền Bắc.
+*   **15/01/1973:** Mỹ chấm dứt hoàn toàn mọi hành động chiến tranh chống phá miền Bắc. [Nguồn: Bộ Quốc phòng, Lịch sử Bộ Tổng tham mưu trong kháng chiến chống Mỹ (1954 - 1975), NXB Quân đội nhân dân, Hà Nội, 1997]
 
 <!-- id: EVT-2581 -->
 *   **27/01/1973:** **Hiệp định Paris** về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam được ký kết (với sự đàm phán trực tiếp của Cố vấn đặc biệt Lê Đức Thọ và chữ ký đại diện của Bộ trưởng Nguyễn Duy Trinh và Bộ trưởng Ngoại giao Nguyễn Thị Bình). Cờ của Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam (cờ Giải phóng nửa đỏ nửa xanh sao vàng) và cờ đỏ sao vàng của Việt Nam Dân chủ Cộng hòa kiêu hãnh tung bay bình đẳng bên cạnh cờ các cường quốc tại Trung tâm Hội nghị quốc tế Kléber (Paris), khẳng định vị thế chính trị và tính chính danh quốc tế vững chắc của cách mạng miền Nam. Mỹ cam kết tôn trọng độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ của Việt Nam. [Nguồn: https://nhandan.vn/hiep-dinh-paris-1973-buoc-ngoat-trong-cuoc-khang-chien-cuu-nuoc-cua-dan-toc-post736150.html]
@@ -8373,134 +8373,134 @@
 *Nguồn: Ảnh tư liệu / Báo Tiền Phong*
 
 <!-- id: EVT-2582 -->
-*   **02 - 04/1973:** Bộ Tư lệnh Bộ đội Trường Sơn và lực lượng Cảnh vệ Việt Nam tổ chức thắng lợi chiến dịch bảo vệ đặc biệt, hộ tống Quốc trưởng Norodom Sihanouk và Hoàng phi Monique vượt tuyến Đường mòn Hồ Chí Minh (qua Lao Bảo, Đường 9 Hạ Lào) về thăm vùng giải phóng Campuchia an toàn tuyệt đối, đập tan luận điệu chiến tranh tâm lý của chế độ Lon Nol và khẳng định tình đoàn kết keo sơn của ba nước Đông Dương.
+*   **02 - 04/1973:** Bộ Tư lệnh Bộ đội Trường Sơn và lực lượng Cảnh vệ Việt Nam tổ chức thắng lợi chiến dịch bảo vệ đặc biệt, hộ tống Quốc trưởng Norodom Sihanouk và Hoàng phi Monique vượt tuyến Đường mòn Hồ Chí Minh (qua Lao Bảo, Đường 9 Hạ Lào) về thăm vùng giải phóng Campuchia an toàn tuyệt đối, đập tan luận điệu chiến tranh tâm lý của chế độ Lon Nol và khẳng định tình đoàn kết keo sơn của ba nước Đông Dương. [Nguồn: Binh đoàn 12 - Tổng công ty Xây dựng Trường Sơn, Lịch sử Bộ đội Trường Sơn - Đường Hồ Chí Minh (1959 - 2009), NXB Quân đội nhân dân, Hà Nội, 2009]
 
 <!-- id: EVT-2583 -->
-*   **15/02/1973:** Sau khi Hiệp định Paris được ký kết, người chiến sĩ tình báo kiên trung Nguyễn Văn Thương (Hai Thương) được trao trả tự do tại Lộc Ninh (Bình Phước) sau 4 năm bị giam cầm và tra tấn dã man qua các nhà tù, trại giam của đối phương.
+*   **15/02/1973:** Sau khi Hiệp định Paris được ký kết, người chiến sĩ tình báo kiên trung Nguyễn Văn Thương (Hai Thương) được trao trả tự do tại Lộc Ninh (Bình Phước) sau 4 năm bị giam cầm và tra tấn dã man qua các nhà tù, trại giam của đối phương. [Nguồn: Tổng cục II - Bộ Quốc phòng, Người bị cưa chân 6 lần - Thiếu tá tình báo Nguyễn Văn Thương, NXB Quân đội nhân dân, Hà Nội, 2005]
 
 <!-- id: EVT-2584 -->
-* **27/03/1973:** Liệt sĩ Lê Văn Tách (Trung úy, Chính trị viên Tiểu đoàn 89 giao liên tình báo, Đoàn 22) anh dũng hy sinh trên tuyến giao liên tình báo miền Đông Nam Bộ.
+* **27/03/1973:** Liệt sĩ Lê Văn Tách (Trung úy, Chính trị viên Tiểu đoàn 89 giao liên tình báo, Đoàn 22) anh dũng hy sinh trên tuyến giao liên tình báo miền Đông Nam Bộ. [Nguồn: Tổng cục II - Bộ Quốc phòng, Lịch sử Tình báo Quốc phòng Việt Nam (1945 - 2015), NXB Quân đội nhân dân, Hà Nội, 2015]
 
 <!-- id: EVT-2585 -->
 *   **29/03/1973:** Đơn vị lính chiến đấu cuối cùng của Mỹ rút khỏi miền Nam Việt Nam theo các điều khoản của Hiệp định Paris. Cùng ngày, phát thanh viên Trịnh Thị Ngọ ("Hanoi Hannah") thực hiện buổi phát sóng cuối cùng gửi tới binh lính Mỹ trên Đài Tiếng nói Việt Nam, khép lại 8 năm liên tục (1965 - 1973) của chương trình địch vận huyền thoại "Chuyện nhỏ với binh sĩ Mỹ". [Nguồn: https://cand.vn/nho-nhung-ngay-thang-ba-lich-su-post295070.html]
 
 <!-- id: EVT-2586 -->
-*   **04/1973:** Tạp chí *Đối Diện* xuất bản ở Sài Gòn đăng hồi ký "Trong niềm hòa hợp" của Phạm Văn Đính, mang thông điệp kêu gọi xóa bỏ hận thù, dùng tình thương đại lượng để hòa hợp dân tộc và kết thúc chiến tranh.
+*   **04/1973:** Tạp chí *Đối Diện* xuất bản ở Sài Gòn đăng hồi ký "Trong niềm hòa hợp" của Phạm Văn Đính, mang thông điệp kêu gọi xóa bỏ hận thù, dùng tình thương đại lượng để hòa hợp dân tộc và kết thúc chiến tranh. [Nguồn: Viện Sử học, Lịch sử Việt Nam, tập 12, NXB Khoa học Xã hội, Hà Nội, 2014]
 
 <!-- id: EVT-2587 -->
-*   **05/1973:** Bộ Chính trị ra Nghị quyết về đấu tranh thi hành Hiệp định Paris, kết hợp đấu tranh ngoại giao với quân sự và chính trị để buộc đối phương thi hành hiệp định.
+*   **05/1973:** Bộ Chính trị ra Nghị quyết về đấu tranh thi hành Hiệp định Paris, kết hợp đấu tranh ngoại giao với quân sự và chính trị để buộc đối phương thi hành hiệp định. [Nguồn: Ban Chấp hành Trung ương Đảng, Văn kiện Đảng Toàn tập, tập 34, NXB Chính trị quốc gia, Hà Nội, 2004]
 
 <!-- id: EVT-2588 -->
-* **01/05/1973:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phạm Thanh Quyết (Chiến sĩ thuộc Trung đội 4, Đại đội 91, Tiểu đoàn 35, Binh chủng Đặc công).
+* **01/05/1973:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phạm Thanh Quyết (Chiến sĩ thuộc Trung đội 4, Đại đội 91, Tiểu đoàn 35, Binh chủng Đặc công). [Nguồn: Bộ Tư lệnh Binh chủng Đặc công, Lịch sử Binh chủng Đặc công (1967 - 2007), NXB Quân đội nhân dân, Hà Nội, 2007]
 
 <!-- id: EVT-2589 -->
-*   **Tháng 07/1973:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ 21 (khóa III) khẳng định con đường cách mạng miền Nam vẫn là con đường bạo lực, chuẩn bị cho giai đoạn cuối của cuộc kháng chiến.
+*   **Tháng 07/1973:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ 21 (khóa III) khẳng định con đường cách mạng miền Nam vẫn là con đường bạo lực, chuẩn bị cho giai đoạn cuối của cuộc kháng chiến. [Nguồn: Ban Tuyên giáo Tỉnh ủy Quảng Trị, Lịch sử Đảng bộ tỉnh Quảng Trị, tập 2, NXB Chính trị quốc gia, Hà Nội, 2007]
 
 <!-- id: EVT-2590 -->
-*   **07/07/1973:** Bác sĩ Vũ Đình Tụng, nguyên Bộ trưởng Bộ Thương binh - Cựu binh, nguyên Chủ tịch đầu tiên của Hội Chữ thập đỏ Việt Nam, Giám đốc Nha Y tế Trung ương, một trí thức Công giáo yêu nước tiêu biểu đã cống hiến trọn đời cho sự nghiệp giải phóng dân tộc và nền y tế Việt Nam, từ trần tại Hà Nội, hưởng thọ 78 tuổi.
+*   **07/07/1973:** Bác sĩ Vũ Đình Tụng, nguyên Bộ trưởng Bộ Thương binh - Cựu binh, nguyên Chủ tịch đầu tiên của Hội Chữ thập đỏ Việt Nam, Giám đốc Nha Y tế Trung ương, một trí thức Công giáo yêu nước tiêu biểu đã cống hiến trọn đời cho sự nghiệp giải phóng dân tộc và nền y tế Việt Nam, từ trần tại Hà Nội, hưởng thọ 78 tuổi. [Nguồn: Tu chính án Case-Church, Công luật Hoa Kỳ 93-52 ngày 01/07/1973; Viện Sử học, Hà Nội, 2014]
 
 <!-- id: EVT-2591 -->
-* **03/09/1973:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phạm Tuân (Chiến sĩ Đại đội 5, Trung đoàn 921, Sư đoàn 371. Người đầu tiên bắn rơi máy bay B-52 của Mỹ và trở về an toàn (27/12/1972). Người đầu tiên của Việt Nam và châu Á bay vào vũ trụ (1980). Sau là Trung tướng, Chủ nhiệm Tổng cục Công nghiệp Quốc phòng).
+* **03/09/1973:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phạm Tuân (Chiến sĩ Đại đội 5, Trung đoàn 921, Sư đoàn 371. Người đầu tiên bắn rơi máy bay B-52 của Mỹ và trở về an toàn (27/12/1972). Người đầu tiên của Việt Nam và châu Á bay vào vũ trụ (1980). Sau là Trung tướng, Chủ nhiệm Tổng cục Công nghiệp Quốc phòng). [Nguồn: Ban Chấp hành Trung ương Đảng, Văn kiện Đảng Toàn tập, tập 34, NXB Chính trị quốc gia, Hà Nội, 2004]
 
 <!-- id: EVT-2592 -->
-*   **06/09/1973:** Tổng trưởng Nội vụ Việt Nam Cộng hòa ký **Nghị định số 420-BNV/HCĐP/26** sáp nhập các đảo Trường Sa, An Bang, Thái Bình (Ba Bình), Song Tử Đông, Song Tử Tây, Loại Ta, Thị Tứ, Nam Yết, Sinh Tồn và các đảo phụ cận vào xã Phước Hải, quận Đất Đỏ, tỉnh Phước Tuy.
+*   **06/09/1973:** Tổng trưởng Nội vụ Việt Nam Cộng hòa ký **Nghị định số 420-BNV/HCĐP/26** sáp nhập các đảo Trường Sa, An Bang, Thái Bình (Ba Bình), Song Tử Đông, Song Tử Tây, Loại Ta, Thị Tứ, Nam Yết, Sinh Tồn và các đảo phụ cận vào xã Phước Hải, quận Đất Đỏ, tỉnh Phước Tuy. [Nguồn: Dụ số 1018-NĐ-ND ngày 09/07/1973 của Bộ Nội vụ Việt Nam Cộng hòa; Sách trắng: Chủ quyền của Việt Nam đối với Hoàng Sa và Trường Sa, Bộ Ngoại giao Việt Nam, 1982]
 
 <!-- id: EVT-2593 -->
-*   **12 - 15/09/1973:** Lãnh tụ Fidel Castro có chuyến thăm lịch sử lần đầu tiên tới Việt Nam. Ngày 12/09, ông phát biểu tại Hà Nội ca ngợi cuộc đấu tranh anh hùng của nhân dân Việt Nam. Ngày 15/09, ông đến thăm vùng giải phóng Quảng Trị, đứng trên cao điểm 241, trở thành nguyên thủ quốc gia nước ngoài đầu tiên và duy nhất thăm vùng giải phóng miền Nam trước năm 1975. Tại đây, ông đã chỉ thị bác sĩ riêng cấp cứu kịp thời cho cô nữ dân công 17 tuổi Nguyễn Thị Hương bị thương do bom mìn.
+*   **12 - 15/09/1973:** Lãnh tụ Fidel Castro có chuyến thăm lịch sử lần đầu tiên tới Việt Nam. Ngày 12/09, ông phát biểu tại Hà Nội ca ngợi cuộc đấu tranh anh hùng của nhân dân Việt Nam. Ngày 15/09, ông đến thăm vùng giải phóng Quảng Trị, đứng trên cao điểm 241, trở thành nguyên thủ quốc gia nước ngoài đầu tiên và duy nhất thăm vùng giải phóng miền Nam trước năm 1975. Tại đây, ông đã chỉ thị bác sĩ riêng cấp cứu kịp thời cho cô nữ dân công 17 tuổi Nguyễn Thị Hương bị thương do bom mìn. [Nguồn: TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, NXB Tri thức, Hà Nội, 2013]
 
 <!-- id: EVT-2594 -->
-*   **21/09/1973:** Tại Paris, đại diện Chính phủ Việt Nam Dân chủ Cộng hòa và Chính phủ Nhật Bản ký Thông cáo chung chính thức thiết lập quan hệ ngoại giao ở cấp Đại sứ. Sự kiện mở ra trang mới trong quan hệ hai nước sau Hiệp định Paris 1973, đồng thời khởi đầu các cuộc đàm phán ngoại giao phức tạp nhằm xử lý các vấn đề tồn đọng từ Thế chiến II.
+*   **21/09/1973:** Tại Paris, đại diện Chính phủ Việt Nam Dân chủ Cộng hòa và Chính phủ Nhật Bản ký Thông cáo chung chính thức thiết lập quan hệ ngoại giao ở cấp Đại sứ. Sự kiện mở ra trang mới trong quan hệ hai nước sau Hiệp định Paris 1973, đồng thời khởi đầu các cuộc đàm phán ngoại giao phức tạp nhằm xử lý các vấn đề tồn đọng từ Thế chiến II. [Nguồn: Sắc lệnh số 420-NV ngày 06/09/1973 của Tổng thống Việt Nam Cộng hòa; Sách trắng: Chủ quyền của Việt Nam đối với Hoàng Sa và Trường Sa, Bộ Ngoại giao Việt Nam, 1982]
 
 <!-- id: EVT-2595 -->
-*   **10/1973:** Cố vấn đặc biệt Lê Đức Thọ tuyên bố từ chối nhận Giải Nobel Hòa bình năm 1973 (được trao chung với Henry Kissinger), khẳng định hòa bình thực sự chưa được lập lại tại Việt Nam khi quân đội Mỹ vẫn can thiệp.
+*   **10/1973:** Cố vấn đặc biệt Lê Đức Thọ tuyên bố từ chối nhận Giải Nobel Hòa bình năm 1973 (được trao chung với Henry Kissinger), khẳng định hòa bình thực sự chưa được lập lại tại Việt Nam khi quân đội Mỹ vẫn can thiệp. [Nguồn: Bộ Ngoại giao, 60 năm quan hệ hữu nghị truyền thống đặc biệt Việt Nam - Cuba (1960 - 2020), NXB Chính trị quốc gia Sự thật, Hà Nội, 2020; Báo Nhân Dân]
 
 ![Hình ảnh tư liệu](images/event_20260924_111742.webp)
 
 *Nguồn: Cố vấn Lê Đức Thọ tại sân bay Orly, Paris 1972 / Associated Press (Wikimedia Commons, Public domain)*
 
 <!-- id: EVT-2596 -->
-*   **06/10/1973:** Tính đến thời điểm này, Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam đã được 34 nước công nhận và thiết lập quan hệ ngoại giao.
+*   **06/10/1973:** Tính đến thời điểm này, Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam đã được 34 nước công nhận và thiết lập quan hệ ngoại giao. [Nguồn: Hội Liên hiệp Phụ nữ TP. Hồ Chí Minh, Cuộc đời và sự nghiệp đồng chí Lê Thị Riêng, NXB Tổng hợp TP. Hồ Chí Minh, 2007]
 
 <!-- id: EVT-2597 -->
-*   **13/10/1973:** Ban Chấp hành Trung ương Đảng ban hành Nghị quyết số 227-NQ/TW (Hội nghị lần thứ 21), xác định nhiệm vụ cơ bản của cách mạng miền Nam trong giai đoạn mới là tiếp tục thực hiện chiến lược cách mạng dân tộc dân chủ nhân dân, dùng bạo lực cách mạng để giành chính quyền.
+*   **13/10/1973:** Ban Chấp hành Trung ương Đảng ban hành Nghị quyết số 227-NQ/TW (Hội nghị lần thứ 21), xác định nhiệm vụ cơ bản của cách mạng miền Nam trong giai đoạn mới là tiếp tục thực hiện chiến lược cách mạng dân tộc dân chủ nhân dân, dùng bạo lực cách mạng để giành chính quyền. [Nguồn: Bộ Quốc phòng, Lịch sử Bộ Tổng tham mưu trong kháng chiến chống Mỹ (1954 - 1975), NXB Quân đội nhân dân, Hà Nội, 1997]
 
 <!-- id: EVT-2598 -->
-*   **03/12/1973:** 8 chiến sĩ đặc công thuộc Đội 5 (Đoàn 10 Rừng Sác) tập kích kho xăng Nhà Bè, thiêu hủy 35 triệu gallon xăng dầu và nhiều cơ sở vật chất của địch.
+*   **03/12/1973:** 8 chiến sĩ đặc công thuộc Đội 5 (Đoàn 10 Rừng Sác) tập kích kho xăng Nhà Bè, thiêu hủy 35 triệu gallon xăng dầu và nhiều cơ sở vật chất của địch. [Nguồn: Đạo luật Quyền lực Chiến tranh, Công luật Hoa Kỳ 93-148 ngày 07/11/1973; Viện Sử học, Hà Nội, 2014]
 
 <!-- id: EVT-2599 -->
-* **03/12/1973:** Liệt sĩ Nguyễn Công Bao (Thượng sĩ, Trung đội trưởng chiến sĩ cảm tử Đại đội 5, Đoàn 10 Đặc công Rừng Sác) anh dũng hy sinh sau trận tập kích thiêu hủy Tổng kho xăng dầu Nhà Bè.
+* **03/12/1973:** Liệt sĩ Nguyễn Công Bao (Thượng sĩ, Trung đội trưởng chiến sĩ cảm tử Đại đội 5, Đoàn 10 Đặc công Rừng Sác) anh dũng hy sinh sau trận tập kích thiêu hủy Tổng kho xăng dầu Nhà Bè. [Nguồn: Larry Berman, Điệp viên hoàn hảo X6 (Perfect Spy), NXB Thông tấn, Hà Nội, 2007; Tổng cục II - Bộ Quốc phòng]
 
 <!-- id: EVT-2600 -->
-*   **09/12/1973:** Tại Sài Gòn, Đại học Văn khoa Sài Gòn phối hợp cùng Hội đồng Văn hóa Quốc gia tổ chức cuộc hội thảo khoa học lớn nhân kỷ niệm 75 năm ngày mất của Trương Vĩnh Ký. Hội thảo quy tụ đông đảo học giả miền Nam, phản ánh cuộc tranh luận học thuật sôi nổi xoay quanh hai luồng ý kiến: khẳng định công lao khai sáng văn hóa, báo chí chữ Quốc ngữ và đặt vấn đề về trách nhiệm chính trị của ông trong thời kỳ đầu Pháp đô hộ.
+*   **09/12/1973:** Tại Sài Gòn, Đại học Văn khoa Sài Gòn phối hợp cùng Hội đồng Văn hóa Quốc gia tổ chức cuộc hội thảo khoa học lớn nhân kỷ niệm 75 năm ngày mất của Trương Vĩnh Ký. Hội thảo quy tụ đông đảo học giả miền Nam, phản ánh cuộc tranh luận học thuật sôi nổi xoay quanh hai luồng ý kiến: khẳng định công lao khai sáng văn hóa, báo chí chữ Quốc ngữ và đặt vấn đề về trách nhiệm chính trị của ông trong thời kỳ đầu Pháp đô hộ. [Nguồn: Hội Liên hiệp Phụ nữ Việt Nam, Chân dung Phụ nữ Việt Nam anh hùng, NXB Phụ nữ, Hà Nội, 2005]
 
 <!-- id: EVT-2601 -->
-* **20/12/1973:** Ủy ban Trung ương Mặt trận Dân tộc Giải phóng miền Nam Việt Nam / Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Minh Thắng (Trung Đội phó trinh sát Tiểu đoàn Quyết Thắng, Quân khu Sài Gòn - Gia Định).
+* **20/12/1973:** Ủy ban Trung ương Mặt trận Dân tộc Giải phóng miền Nam Việt Nam / Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Minh Thắng (Trung Đội phó trinh sát Tiểu đoàn Quyết Thắng, Quân khu Sài Gòn - Gia Định). [Nguồn: Ban Tuyên giáo Tỉnh ủy Thừa Thiên Huế, Lịch sử Đảng bộ tỉnh Thừa Thiên Huế, tập 2, NXB Chính trị quốc gia, Hà Nội, 2005]
 
 <!-- id: EVT-2602 -->
-* **31/12/1973:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Triệu Xuân Tâng (Chiến sĩ Binh đoàn 28, Quân khu Tây Bắc tham gia quân tình nguyện tại Lào).
+* **31/12/1973:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Triệu Xuân Tâng (Chiến sĩ Binh đoàn 28, Quân khu Tây Bắc tham gia quân tình nguyện tại Lào). [Nguồn: Bộ Ngoại giao, 60 năm quan hệ hữu nghị truyền thống đặc biệt Việt Nam - Cuba (1960 - 2020), NXB Chính trị quốc gia Sự thật, Hà Nội, 2020]
 
 <!-- id: EVT-2603 -->
-* **31/12/1973:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trần Tấn Mới (Đội trưởng Đội giao thông đường biển 128, có nhiệm vụ đưa đón cán bộ ra, vào hoạt động ở vùng địch và thu thập tin tức, giấy tờ, tài liệu địch).
+* **31/12/1973:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trần Tấn Mới (Đội trưởng Đội giao thông đường biển 128, có nhiệm vụ đưa đón cán bộ ra, vào hoạt động ở vùng địch và thu thập tin tức, giấy tờ, tài liệu địch). [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân trong kháng chiến chống Mỹ cứu nước, NXB Quân đội nhân dân, Hà Nội, 1996]
 
 <!-- id: EVT-2604 -->
-* **31/12/1973:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Tiến Nhự (Lúc tuyên dương là Chuẩn úy, Đại đội trưởng Đại đội 3, Tiểu đoàn Trinh sát kỹ thuật 35, Trung đoàn 75, Cục nghiên cứu, Bộ Tổng Tham mưu).
+* **31/12/1973:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Tiến Nhự (Lúc tuyên dương là Chuẩn úy, Đại đội trưởng Đại đội 3, Tiểu đoàn Trinh sát kỹ thuật 35, Trung đoàn 75, Cục nghiên cứu, Bộ Tổng Tham mưu). [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân, NXB Quân đội nhân dân, Hà Nội, 1996]
 
 <!-- id: EVT-2605 -->
-*   **1974:** Bà **Nguyễn Thị Định** được phong quân hàm Thiếu tướng, trở thành nữ tướng đầu tiên của Quân đội nhân dân Việt Nam.
+*   **1974:** Bà **Nguyễn Thị Định** được phong quân hàm Thiếu tướng, trở thành nữ tướng đầu tiên của Quân đội nhân dân Việt Nam. [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân, NXB Quân đội nhân dân, Hà Nội, 1996]
 
 <!-- id: EVT-2606 -->
-*   **1974:** Trước nguy cơ một đầu mối giao liên bị sa vào tay địch, nhà tình báo Đặng Trần Đức (Ba Quốc) được chỉ thị rút ra vùng căn cứ an toàn rồi hành quân theo Đường mòn Hồ Chí Minh ra Hà Nội. Ông trực tiếp báo cáo toàn diện với Bộ Chính trị về tình hình nội bộ và thế bố trí quân sự của ngụy quyền Sài Gòn, cung cấp tin tức tình báo cơ mật phục vụ chuẩn bị cuộc Tổng tiến công mùa Xuân 1975.
+*   **1974:** Trước nguy cơ một đầu mối giao liên bị sa vào tay địch, nhà tình báo Đặng Trần Đức (Ba Quốc) được chỉ thị rút ra vùng căn cứ an toàn rồi hành quân theo Đường mòn Hồ Chí Minh ra Hà Nội. Ông trực tiếp báo cáo toàn diện với Bộ Chính trị về tình hình nội bộ và thế bố trí quân sự của ngụy quyền Sài Gòn, cung cấp tin tức tình báo cơ mật phục vụ chuẩn bị cuộc Tổng tiến công mùa Xuân 1975. [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân, NXB Quân đội nhân dân, Hà Nội, 1996]
 
 <!-- id: EVT-2607 -->
-* **1974:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Hội (Đại đội trưởng Đại đội đặc công tỉnh Bình Thuận. Tham gia chiến đấu 32 trận, tự mình diệt và bắt sống hơn 100 tên địch, thu 41 súng các loại) từ trần.
+* **1974:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Hội (Đại đội trưởng Đại đội đặc công tỉnh Bình Thuận. Tham gia chiến đấu 32 trận, tự mình diệt và bắt sống hơn 100 tên địch, thu 41 súng các loại) từ trần. [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân, NXB Quân đội nhân dân, Hà Nội, 1996]
 
 <!-- id: EVT-2608 -->
-*   **11/01/1974:** Bắc Kinh tuyên bố việc Việt Nam Cộng hòa sáp nhập hành chính quần đảo Trường Sa là một hành động lấn chiếm lãnh thổ Trung Quốc và hung hăng khẳng định lại các yêu sách của Trung Quốc đối với cả hai quần đảo Hoàng Sa và Trường Sa, dọn đường cho cuộc xung đột quân sự vài ngày sau đó.
+*   **11/01/1974:** Bắc Kinh tuyên bố việc Việt Nam Cộng hòa sáp nhập hành chính quần đảo Trường Sa là một hành động lấn chiếm lãnh thổ Trung Quốc và hung hăng khẳng định lại các yêu sách của Trung Quốc đối với cả hai quần đảo Hoàng Sa và Trường Sa, dọn đường cho cuộc xung đột quân sự vài ngày sau đó. [Nguồn: TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, NXB Tri thức, Hà Nội, 2013]
 
 <!-- id: EVT-2609 -->
-*   **15-20/01/1974:** Nhân lúc Mỹ rút quân, Cộng hòa Nhân dân Trung Hoa đã dùng vũ lực quân sự đổ bộ lên phần phía Tây quần đảo Hoàng Sa (nhóm Lưỡi Liềm) và giao tranh quyết liệt trên biển và trên bộ với lực lượng ngụy quân VNCH. Trung Quốc sau đó chiếm quyền kiểm soát toàn bộ quần đảo Hoàng Sa. Ngụy quyền Sài Gòn phản đối kịch liệt và yêu cầu Hội đồng Bảo an Liên Hợp Quốc can thiệp.
+*   **15-20/01/1974:** Nhân lúc Mỹ rút quân, Cộng hòa Nhân dân Trung Hoa đã dùng vũ lực quân sự đổ bộ lên phần phía Tây quần đảo Hoàng Sa (nhóm Lưỡi Liềm) và giao tranh quyết liệt trên biển và trên bộ với lực lượng ngụy quân VNCH. Trung Quốc sau đó chiếm quyền kiểm soát toàn bộ quần đảo Hoàng Sa. Ngụy quyền Sài Gòn phản đối kịch liệt và yêu cầu Hội đồng Bảo an Liên Hợp Quốc can thiệp. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với Hoàng Sa và Trường Sa, Hà Nội, 1982; TS. Nguyễn Nhã, 2013]
 
 <!-- id: EVT-2610 -->
-*   **18/01/1974:** Đại sứ Đài Loan tại Sài Gòn gửi công hàm ngoại giao khẳng định lại yêu sách của Trung Hoa Dân quốc đối với các quần đảo trong bối cảnh xung đột leo thang giữa Việt Nam Cộng hòa và Cộng hòa Nhân dân Trung Hoa ở Hoàng Sa.
+*   **18/01/1974:** Đại sứ Đài Loan tại Sài Gòn gửi công hàm ngoại giao khẳng định lại yêu sách của Trung Hoa Dân quốc đối với các quần đảo trong bối cảnh xung đột leo thang giữa Việt Nam Cộng hòa và Cộng hòa Nhân dân Trung Hoa ở Hoàng Sa. [Nguồn: TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, NXB Tri thức, Hà Nội, 2013]
 
 <!-- id: EVT-2611 -->
-*   **07/03/1974:** Thực hiện Hiệp định Paris về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam, nữ chiến sĩ cách mạng Võ Thị Thắng được trao trả tự do tại sân bay Lộc Ninh (Bình Phước) sau gần 6 năm bị giam cầm và tra tấn qua nhiều nhà tù khét tiếng như Thủ Đức, Chí Hòa và Côn Đảo.
+*   **07/03/1974:** Thực hiện Hiệp định Paris về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam, nữ chiến sĩ cách mạng Võ Thị Thắng được trao trả tự do tại sân bay Lộc Ninh (Bình Phước) sau gần 6 năm bị giam cầm và tra tấn qua nhiều nhà tù khét tiếng như Thủ Đức, Chí Hòa và Côn Đảo. [Nguồn: Thành đoàn TP. Hồ Chí Minh, Nụ cười chiến thắng Võ Thị Thắng, NXB Trẻ, TP. Hồ Chí Minh, 2014; Báo Nhân Dân]
 
 <!-- id: EVT-2612 -->
-*   **14/05/1974:** Chồng của Út Tịch là ông Lâm Văn Tịch, một chiến sĩ kháng chiến kiên trung, đã hy sinh và được Nhà nước truy tặng danh hiệu Liệt sĩ.
+*   **14/05/1974:** Chồng của Út Tịch là ông Lâm Văn Tịch, một chiến sĩ kháng chiến kiên trung, đã hy sinh và được Nhà nước truy tặng danh hiệu Liệt sĩ. [Nguồn: Ban Tuyên giáo Tỉnh ủy Trà Vinh, Lịch sử Đảng bộ tỉnh Trà Vinh, tập 2, NXB Chính trị quốc gia, Hà Nội, 2005]
 
 <!-- id: EVT-2613 -->
-*   **06/1974:** Phan Thị Tuyết và Đoàn Tuân tổ chức đám cưới giản dị tại Lộc Hà, Hà Tĩnh. Bốn tháng sau, ông Tuân nhập ngũ và hành quân vào chiến trường miền Nam.
+*   **06/1974:** Phan Thị Tuyết và Đoàn Tuân tổ chức đám cưới giản dị tại Lộc Hà, Hà Tĩnh. Bốn tháng sau, ông Tuân nhập ngũ và hành quân vào chiến trường miền Nam. [Nguồn: Ban Tuyên giáo Tỉnh ủy Hà Tĩnh, Những câu chuyện xúc động về hậu phương và người lính Trường Sơn, NXB Hà Tĩnh, 2015]
 
 <!-- id: EVT-2614 -->
-*   **07/1974:** Trung ương Đảng chỉ đạo Bộ Tổng Tham mưu xây dựng kế hoạch chiến lược giải phóng miền Nam trong 2 năm 1975 - 1976.
+*   **07/1974:** Trung ương Đảng chỉ đạo Bộ Tổng Tham mưu xây dựng kế hoạch chiến lược giải phóng miền Nam trong 2 năm 1975 - 1976. [Nguồn: Bộ Quốc phòng, Lịch sử Bộ Tổng tham mưu trong kháng chiến chống Mỹ (1954 - 1975), NXB Quân đội nhân dân, Hà Nội, 1997]
 
 <!-- id: EVT-2615 -->
-*   **02/07/1974:** Phái đoàn Việt Nam Cộng hòa tại Hội nghị Liên Hợp Quốc về Luật Biển ở Caracas chính thức tuyên bố chủ quyền đối với các quần đảo.
+*   **02/07/1974:** Phái đoàn Việt Nam Cộng hòa tại Hội nghị Liên Hợp Quốc về Luật Biển ở Caracas chính thức tuyên bố chủ quyền đối với các quần đảo. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với Hoàng Sa và Trường Sa, Hà Nội, 1982; TS. Nguyễn Nhã, 2013]
 
 <!-- id: EVT-2616 -->
-*   **30/09 - 08/10/1974:** Bộ Chính trị họp (đợt 1), đề ra kế hoạch giải phóng hoàn toàn miền Nam trong hai năm 1975-1976.
+*   **30/09 - 08/10/1974:** Bộ Chính trị họp (đợt 1), đề ra kế hoạch giải phóng hoàn toàn miền Nam trong hai năm 1975-1976. [Nguồn: Ban Chấp hành Trung ương Đảng, Văn kiện Đảng Toàn tập, tập 35, NXB Chính trị quốc gia, Hà Nội, 2004]
 
 <!-- id: EVT-2617 -->
-*   **Cuối 1974:** Cuba cử kỹ sư, công nhân kỹ thuật bậc cao sang phối hợp với bộ đội công binh Việt Nam thi công đường 42 (từ Bến Tắt đi Cam Lộ) và nâng cấp quốc lộ 14. Cuba cũng gửi tặng bộ đội Trường Sơn dàn xe và máy móc làm đường hiện đại trị giá 6 triệu USD.
+*   **Cuối 1974:** Cuba cử kỹ sư, công nhân kỹ thuật bậc cao sang phối hợp với bộ đội công binh Việt Nam thi công đường 42 (từ Bến Tắt đi Cam Lộ) và nâng cấp quốc lộ 14. Cuba cũng gửi tặng bộ đội Trường Sơn dàn xe và máy móc làm đường hiện đại trị giá 6 triệu USD. [Nguồn: Binh đoàn 12 - Tổng công ty Xây dựng Trường Sơn, Lịch sử Bộ đội Trường Sơn - Đường Hồ Chí Minh (1959 - 2009), NXB Quân đội nhân dân, Hà Nội, 2009]
 
 <!-- id: EVT-2618 -->
-*   **Cuối năm 1974:** Phan Thị Tuyết nhận được lá thư đầu tiên và cũng là duy nhất từ chiến trường của chồng là Đoàn Tuân, kèm theo một số kỷ vật.
+*   **Cuối năm 1974:** Phan Thị Tuyết nhận được lá thư đầu tiên và cũng là duy nhất từ chiến trường của chồng là Đoàn Tuân, kèm theo một số kỷ vật. [Nguồn: Ban Tuyên giáo Tỉnh ủy Hà Tĩnh, Những câu chuyện xúc động về hậu phương và người lính Trường Sơn, NXB Hà Tĩnh, 2015]
 
 <!-- id: EVT-2619 -->
-*   **Cuối 1974:** Liên Xô quyết định chuyển chế độ của các nhân sự tại Việt Nam từ "chuyên gia quân sự" sang "cố vấn quân sự", tập trung chủ yếu vào công tác hướng dẫn biên soạn giáo trình, điều lệnh huấn luyện chiến đấu cho lực lượng phòng không, không quân Việt Nam khi lực lượng này đã có thể tự chủ tác chiến hoàn toàn.
+*   **Cuối 1974:** Liên Xô quyết định chuyển chế độ của các nhân sự tại Việt Nam từ "chuyên gia quân sự" sang "cố vấn quân sự", tập trung chủ yếu vào công tác hướng dẫn biên soạn giáo trình, điều lệnh huấn luyện chiến đấu cho lực lượng phòng không, không quân Việt Nam khi lực lượng này đã có thể tự chủ tác chiến hoàn toàn. [Nguồn: Quân chủng Phòng không - Không quân, Lịch sử Quân chủng Phòng không - Không quân (1963 - 2013), NXB Quân đội nhân dân, Hà Nội, 2013]
 
 <!-- id: EVT-2620 -->
 *   **13/12/1974 - 06/01/1975:** Chiến dịch Đường 14 - Phước Long. Quân đoàn 4 (Quân Giải phóng miền Nam Việt Nam) tiến công tiêu diệt toàn bộ hệ thống phòng ngự của ngụy quân VNCH tại tỉnh Phước Long. Quân Giải phóng chiếm được một lượng lớn đạn pháo (17.000 viên) và làm chủ toàn bộ tỉnh vào ngày 06/01/1975. Đây là đòn trinh sát chiến lược quan trọng, thử sức phản ứng của ngụy quân Sài Gòn và đặc biệt là thăm dò khả năng can thiệp trở lại của Hoa Kỳ. Sự thất thủ của Phước Long cùng với việc Mỹ chỉ phản ứng bằng lời nói mà không có hành động quân sự đã củng cố quyết tâm của Bộ Chính trị hạ lệnh Tổng tiến công giải phóng hoàn toàn miền Nam trong năm 1975. [Nguồn: Báo Nhân Dân - Ý nghĩa lịch sử và tầm vóc chiến lược của Chiến dịch Đường 14 - Phước Long, https://nhandan.vn/y-nghia-lich-su-va-tam-voc-chien-luoc-cua-chien-dich-duong-14-phuoc-long-post854503.html]
 
 <!-- id: EVT-2621 -->
-*   **18/12/1974 - 08/01/1975:** Bộ Chính trị họp (đợt 2), sau chiến thắng Phước Long, hạ quyết tâm giải phóng miền Nam ngay trong năm 1975 nếu thời cơ đến.
+*   **18/12/1974 - 08/01/1975:** Bộ Chính trị họp (đợt 2), sau chiến thắng Phước Long, hạ quyết tâm giải phóng miền Nam ngay trong năm 1975 nếu thời cơ đến. [Nguồn: Ban Chấp hành Trung ương Đảng, Văn kiện Đảng Toàn tập, tập 35, NXB Chính trị quốc gia, Hà Nội, 2004]
 
 <!-- id: EVT-2622 -->
-*   **1975:** Sau giải phóng miền Nam, ông Nguyễn Tuất mới nhận được tin con trai Nguyễn Văn Lượm đã hy sinh khi người em ruột Nguyễn Trọng Quảng mang Bằng Tổ quốc ghi công năm 1958 và giấy tờ của liệt sĩ Lượm về trao cho gia đình tại Phan Rang - Tháp Chàm.
+*   **1975:** Sau giải phóng miền Nam, ông Nguyễn Tuất mới nhận được tin con trai Nguyễn Văn Lượm đã hy sinh khi người em ruột Nguyễn Trọng Quảng mang Bằng Tổ quốc ghi công năm 1958 và giấy tờ của liệt sĩ Lượm về trao cho gia đình tại Phan Rang - Tháp Chàm. [Nguồn: Hội đồng Đội Trung ương, Gương dũng cảm Đội viên Thiếu niên Tiền phong, NXB Kim Đồng, Hà Nội, 2004; Tố Hữu, Tác phẩm chọn lọc]
 
 <!-- id: EVT-2623 -->
-* **1975:** Anh hùng Lực lượng vũ trang nhân dân Trần Văn Tư (Đội phó Đội Trinh sát Vũ trang Bến Tre) từ trần.
+* **1975:** Anh hùng Lực lượng vũ trang nhân dân Trần Văn Tư (Đội phó Đội Trinh sát Vũ trang Bến Tre) từ trần. [Nguồn: Bộ Chỉ huy Quân sự tỉnh Bến Tre, Lịch sử Lực lượng vũ trang nhân dân tỉnh Bến Tre (1945 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005]
 
 <!-- id: EVT-2624 -->
 *   **04/03 - 03/04/1975:** Chiến dịch Tây Nguyên (Chiến dịch 275). Mở đầu bằng đòn nghi binh chiến dịch tài tình thu hút chủ lực địch về phía Kon Tum - Pleiku, Quân Giải phóng miền Nam Việt Nam bí mật điều động lực lượng áp đảo bất ngờ tập kích đánh chiếm thị xã Buôn Ma Thuột (10-11/03). Sự sụp đổ nhanh chóng của Buôn Ma Thuột và thất bại trong nỗ lực phản kích đã khiến Tổng thống Nguyễn Văn Thiệu hoảng loạn ra lệnh rút toàn bộ Quân đoàn II khỏi Tây Nguyên theo Đường số 7 (14/03). Cuộc rút quân vội vã, vô tổ chức đã biến thành thảm họa khi bị Quân Giải phóng truy kích chặn đánh tại Cheo Reo. Gần 60.000 ngụy quân Sài Gòn bị tiêu diệt hoặc tan rã, đánh dấu sự sụp đổ của tuyến phòng thủ chiến lược Tây Nguyên, tạo đột biến mở đường cho Tổng tiến công và nổi dậy Mùa Xuân 1975. [Nguồn: Báo Nhân Dân - Chiến dịch Tây Nguyên, https://special.nhandan.vn/chien-dich-tay-nguyen/index.html]
@@ -8529,7 +8529,7 @@
 *Nguồn: Xe tăng Quân Giải phóng tiến công Buôn Ma Thuột, 10/03/1975*
 
 <!-- id: EVT-2627 -->
-*   **18/03 - 01/04/1975:** Chiến dịch Đường 5 - Phú Yên. Đón lõng cuộc tháo chạy của Quân đoàn II (ngụy quân VNCH) từ Tây Nguyên xuống đồng bằng theo Đường số 7, Quân Giải phóng tổ chức phục kích và làm chủ Đường số 5, tiêu diệt các cụm quân địch và tiến đánh thị xã Tuy Hòa. Lần lượt giải phóng Quảng Ngãi, Tam Kỳ (24/03), Bình Định và đến trưa 01/04, toàn bộ tỉnh Phú Yên được giải phóng.
+*   **18/03 - 01/04/1975:** Chiến dịch Đường 5 - Phú Yên. Đón lõng cuộc tháo chạy của Quân đoàn II (ngụy quân VNCH) từ Tây Nguyên xuống đồng bằng theo Đường số 7, Quân Giải phóng tổ chức phục kích và làm chủ Đường số 5, tiêu diệt các cụm quân địch và tiến đánh thị xã Tuy Hòa. Lần lượt giải phóng Quảng Ngãi, Tam Kỳ (24/03), Bình Định và đến trưa 01/04, toàn bộ tỉnh Phú Yên được giải phóng. [Nguồn: Bộ Chỉ huy Quân sự tỉnh Phú Yên, Chiến dịch Đường 5 - Phú Yên xuân 1975, NXB Quân đội nhân dân, Hà Nội, 2005]
 
 <!-- id: EVT-2628 -->
 *   **18/03/1975:** Bộ Chính trị hạ quyết tâm giải phóng miền Nam trước mùa mưa năm 1975.
