@@ -6008,22 +6008,22 @@
 *   **Jan. 13, 1947:** The French Ambassador in Nanjing handed a diplomatic note to the Chinese Ministry of Foreign Affairs making the "most categorical reservations regarding the legal consequences of the occupation of the Paracel Islands by Chinese troops," and reiterated previous proposals for amicable settlement or arbitration. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1846 -->
-*   **Jan. 13, 1947:** During an ambush against a French mechanized convoy at the Kim Liên crossroads in Hanoi, 22-year-old National Guard suicide fighter Lý Đàm Nghiên (native of Đức Giang commune, Hoài Đức district) heroically charged an enemy armored car with a lunge mine, halting the French armored thrust and sacrificing his life.
+*   **Jan. 13, 1947:** During an ambush against a French mechanized convoy at the Kim Liên crossroads in Hanoi, 22-year-old National Guard suicide fighter Lý Đàm Nghiên (native of Đức Giang commune, Hoài Đức district) heroically charged an enemy armored car with a lunge mine, halting the French armored thrust and sacrificing his life. [Source: History of the General Staff in the Resistance War against French Colonialism (1945 - 1954), People's Army Publishing House, Hanoi, 1991]
 
 <!-- id: EVT-1847 -->
-*   **Jan. 15, 1947:** A ceasefire was agreed upon to allow Chinese nationals to evacuate Hanoi. Vietnamese forces utilized this opportunity to withdraw some cadres and civilians to the rear.
+*   **Jan. 15, 1947:** A ceasefire was agreed upon to allow Chinese nationals to evacuate Hanoi. Vietnamese forces utilized this opportunity to withdraw some cadres and civilians to the rear. [Source: Institute of History, Vietnam - Historical Events (1945 - 1975), Education Publishing House, Hanoi, 2006]
 
 <!-- id: EVT-1848 -->
-*   **Jan. 16, 1947:** Vietnamese forces launched an attack on Gia Lam airport.
+*   **Jan. 16, 1947:** Vietnamese forces launched an attack on Gia Lam airport. [Source: Hanoi Capital High Command, History of the Capital's Armed Forces (1945 - 2015), People's Army Publishing House, Hanoi, 2015]
 
 <!-- id: EVT-1849 -->
-*   **Jan. 17 - 19, 1947:** The French dispatch boat *Tonkinois* arrived at Woody Island (Phu Lam) and found Chinese troops stationed there. The French commander requested the Chinese commander to leave, but the request was refused. On January 19, the *Tonkinois* proceeded to Pattle Island (Hoang Sa), found it uninhabited, and landed a garrison of 20 French and Vietnamese soldiers to establish control.
+*   **Jan. 17 - 19, 1947:** The French dispatch boat *Tonkinois* arrived at Woody Island (Phu Lam) and found Chinese troops stationed there. The French commander requested the Chinese commander to leave, but the request was refused. On January 19, the *Tonkinois* proceeded to Pattle Island (Hoang Sa), found it uninhabited, and landed a garrison of 20 French and Vietnamese soldiers to establish control. [Source: Dr. Nguyen Nha, Vietnam's Territorial Sovereignty over the Paracel and Spratly Archipelagos, Tri Thuc Publishing House, Hanoi, 2013]
 
 <!-- id: EVT-1850 -->
-*   **Early 1947:** Nguyen Thi Tuyet (born in To Hieu, now Van Tu, Thuong Tin, Hanoi) joined the local guerrilla team and the Women's National Salvation Association. She secretly dug a tunnel in her home to hide revolutionary cadres.
+*   **Early 1947:** Nguyen Thi Tuyet (born in To Hieu, now Van Tu, Thuong Tin, Hanoi) joined the local guerrilla team and the Women's National Salvation Association. She secretly dug a tunnel in her home to hide revolutionary cadres. [Source: Vietnam Women's Union, Portraits of Heroic Vietnamese Women, Women's Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-1851 -->
-* **07/02/1947:** Martyr Duong Minh Chau (Chairman of the Administrative Resistance Committee of Tay Ninh Province) heroically sacrificed his life during a French counter-sweep at the Thanh Dien base.
+* **07/02/1947:** Martyr Duong Minh Chau (Chairman of the Administrative Resistance Committee of Tay Ninh Province) heroically sacrificed his life during a French counter-sweep at the Thanh Dien base. [Source: Tay Ninh Provincial Party Committee, History of Tay Ninh Provincial Party Committee (1930 - 2000), National Political Publishing House, Hanoi, 2002]
 
 <!-- id: EVT-1852 -->
 *   **Feb. 14, 1947:** French forces fiercely attacked Dong Xuan Market, where Vietnamese defenders fought tenaciously to hold their ground. [Source: Vietnam National Museum of History - The Battle of Dong Xuan Market (February 14, 1947), https://baotanglichsu.vn/vi/Articles/3097/16651/tran-chien-cho-dong-xuan-14-02-1947.html]
@@ -6032,13 +6032,13 @@
 *   **Night of Feb. 17, 1947:** After 60 days and nights of resilient fighting, the Capital Regiment miraculously withdrew from Hanoi by quietly crossing under the Long Bien bridge and traversing the Red and Duong rivers to preserve its forces for long-term resistance. [Source: Vietnam National Museum of History - The Capital Regiment Withdraws (February 17, 1947), https://baotanglichsu.vn/vi/Articles/3097/16652/trung-doan-thu-do-rut-lui-17-02-1947.html]
 
 <!-- id: EVT-1854 -->
-*   **Feb. 17, 1947:** The National United Front (Mat tran Thong nhat Quoc gia Lien hiep) was established in Nanjing (China) by leaders of Viet Cach and Viet Quoc to support Bao Dai.
+*   **Feb. 17, 1947:** The National United Front (Mat tran Thong nhat Quoc gia Lien hiep) was established in Nanjing (China) by leaders of Viet Cach and Viet Quoc to support Bao Dai. [Source: Institute of History, History of Vietnam, Vol. 10, Social Sciences Publishing House, Hanoi, 2014]
 
 <!-- id: EVT-1855 -->
-*   **Feb. 25 - Jul. 4, 1947:** France and the Republic of China held negotiations in Paris regarding the sovereignty of the Paracel Islands. China demanded the withdrawal of French troops from Pattle Island as a precondition and strictly rejected France's proposal for international arbitration. The talks ended without a resolution.
+*   **Feb. 25 - Jul. 4, 1947:** France and the Republic of China held negotiations in Paris regarding the sovereignty of the Paracel Islands. China demanded the withdrawal of French troops from Pattle Island as a precondition and strictly rejected France's proposal for international arbitration. The talks ended without a resolution. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagos, Hanoi, 1982]
 
 <!-- id: EVT-1856 -->
-*   **Mar. - Apr. 1947:** Vietnamese forces launched counter-attacks against French positions in Hai Phong (Mar. 22), Ha Dong (Mar. 20 and Apr. 13), and the Vietnam Student Quarter (Viet Nam Hoc Xa) in Hanoi (Apr. 20).
+*   **Mar. - Apr. 1947:** Vietnamese forces launched counter-attacks against French positions in Hai Phong (Mar. 22), Ha Dong (Mar. 20 and Apr. 13), and the Vietnam Student Quarter (Viet Nam Hoc Xa) in Hanoi (Apr. 20). [Source: History of the General Staff in the Resistance War against French Colonialism (1945 - 1954), People's Army Publishing House, Hanoi, 1991]
 
 <!-- id: EVT-1857 -->
 *   **Mar. 1947:** Director of the Ordnance Department Tran Dai Nghia successfully produced experimental Bazooka rounds at the Giang Tien workshop (Thai Nguyen), helping break French tank attacks in Ha Dong. [Source: Vietnam National Museum of History - Tran Dai Nghia and the Story of Weapons in 1947, https://baotanglichsu.vn/vi/Articles/3097/16654/tran-dai-nghia-va-chuyen-vu-khi-1947.html]
@@ -6047,22 +6047,22 @@
 *   **Mar. 4, 1947:** General Secretary Truong Chinh began publishing the classic treatise series "The Resistance Will Win" in *Su That* (Truth) newspaper (later published as a book in September 1947), comprehensively and scientifically articulating the all-people, comprehensive, long-term, and self-reliant resistance line of the Vietnamese people, defining three necessary stages of the war: defensive, equilibrium, and counter-offensive. [Source: Vietnam National Museum of History - Truong Chinh's "The Resistance Will Win", https://baotanglichsu.vn/vi/Articles/3097/15850/khang-chien-nhat-dinh-thang-cua-truong-chinh.html]
 
 <!-- id: EVT-1859 -->
-*   **Apr. 1947:** Ngo May volunteered for the army and was assigned to the "quyet tu" (death-defying) company of Battalion 50, Regiment 94 (later Regiment 108).
+*   **Apr. 1947:** Ngo May volunteered for the army and was assigned to the "quyet tu" (death-defying) company of Battalion 50, Regiment 94 (later Regiment 108). [Source: Department of Propaganda and Training, Heroes of the People's Armed Forces in the Resistance against French Colonialism, People's Army Publishing House, Hanoi, 1996]
 
 <!-- id: EVT-1860 -->
-* **02/04/1947:** Martyr Duong Van Noi (Capital National Salvation Youth Team) bravely fought against French forces and heroically sacrificed his life in Quoc Oai at the age of 15.
+* **02/04/1947:** Martyr Duong Van Noi (Capital National Salvation Youth Team) bravely fought against French forces and heroically sacrificed his life in Quoc Oai at the age of 15. [Source: Central Council of the Young Pioneer Organization, Valiant Examples of Young Pioneers, Kim Dong Publishing House, Hanoi, 2004]
 
 <!-- id: EVT-1861 -->
-*   **Apr. 10, 1947:** At dawn on April 10, facing a heavily fortified French colonial outpost in Vĩnh Tuy controlling the southern gateway to Hanoi, 20-year-old military intelligence scout Dương Văn Bé (Company 3, District 6, Hanoi Front) volunteered to carry a lunge mine, stealthily approached, and charged directly into the enemy stronghold, demolishing the bunker, eliminating numerous enemy troops, and heroically sacrificing his life.
+*   **Apr. 10, 1947:** At dawn on April 10, facing a heavily fortified French colonial outpost in Vĩnh Tuy controlling the southern gateway to Hanoi, 20-year-old military intelligence scout Dương Văn Bé (Company 3, District 6, Hanoi Front) volunteered to carry a lunge mine, stealthily approached, and charged directly into the enemy stronghold, demolishing the bunker, eliminating numerous enemy troops, and heroically sacrificing his life. [Source: Hanoi Capital High Command, History of the Capital's Armed Forces (1945 - 2015), People's Army Publishing House, Hanoi, 2015]
 
 <!-- id: EVT-1862 -->
-*   **Apr. 15, 1947:** French paratroopers landed in Hoa Binh.
+*   **Apr. 15, 1947:** French paratroopers landed in Hoa Binh. [Source: Institute of History, Vietnam - Historical Events (1945 - 1975), Education Publishing House, Hanoi, 2006]
 
 <!-- id: EVT-1863 -->
-*   **Apr. 15, 1947:** At the age of 14, Nguyen Van Luom, serving as a guerrilla member and messenger, heroically sacrificed his life while fighting the French in Thua Thien. He was shot while carrying an urgent dispatch across a rice field. His bravery and innocence inspired his uncle, the famous poet To Huu, to immortalize him in the poem "Luom".
+*   **Apr. 15, 1947:** At the age of 14, Nguyen Van Luom, serving as a guerrilla member and messenger, heroically sacrificed his life while fighting the French in Thua Thien. He was shot while carrying an urgent dispatch across a rice field. His bravery and innocence inspired his uncle, the famous poet To Huu, to immortalize him in the poem "Luom". [Source: To Huu, Selected Works, Literature Publishing House, Hanoi, 1979; National Museum of History]
 
 <!-- id: EVT-1864 -->
-*   **Apr. 16, 1947:** Hoa Hao founder Huynh Phu So disappeared (believed to be killed) in the Plain of Reeds, leading to armed conflict between Hoa Hao forces and the Viet Minh.
+*   **Apr. 16, 1947:** Hoa Hao founder Huynh Phu So disappeared (believed to be killed) in the Plain of Reeds, leading to armed conflict between Hoa Hao forces and the Viet Minh. [Source: Steering Council for the History of Nam Bo Resistance, History of the Southern Resistance, Vol. 1 (1945 - 1954), National Political Publishing House, Hanoi, 2010]
 
 <!-- id: EVT-1865 -->
 *   **Apr. 21, 1947:** Huynh Thuc Khang, Minister of the Interior and Government Special Envoy to South Central Vietnam, passed away in Nghia Hanh district (Quang Ngai) at the age of 71. President Ho Chi Minh sent a heartfelt eulogy honoring his supreme integrity, and he was accorded a State Funeral with his resting place atop Thien An Mountain. [Source: Vietnam National Museum of History - Huynh Thuc Khang (1876-1947): A Great Patriotic Intellectual, https://baotanglichsu.vn/vi/Articles/3096/12617/huynh-thuc-khang-1876-1947-mot-tri-thuc-lon-yeu-nuoc.html]
@@ -6071,10 +6071,10 @@
 *   **July 27, 1947:** The first National War Invalids Day (later renamed Invalids and Martyrs Day) was solemnly commemorated with a mass rally in Dai Tu (Thai Nguyen). In the same year, Dr. Vu Dinh Tung was appointed Minister of War Invalids by President Ho Chi Minh (serving until 1959), establishing the foundational policies for honoring and caring for wounded veterans, martyrs, and their families in Vietnam. [Source: Vietnam National Museum of History - War Invalids and Martyrs Day (July 27, 1947), https://baotanglichsu.vn/vi/Articles/3097/16657/ngay-thuong-binh-liet-si-27-7-1947.html]
 
 <!-- id: EVT-1867 -->
-*   **Aug. 1947 - Aug. 1948:** Professor Ta Quang Buu served as Minister of National Defense of the Democratic Republic of Vietnam.
+*   **Aug. 1947 - Aug. 1948:** Professor Ta Quang Buu served as Minister of National Defense of the Democratic Republic of Vietnam. [Source: Ministry of National Defense, Minister of Defense Ta Quang Buu - An Eminent Revolutionary Intellectual, People's Army Publishing House, Hanoi, 2010]
 
 <!-- id: EVT-1868 -->
-*   **Sep. 23, 1947:** President Ho Chi Minh signed Decree No. 89/SL posthumously conferring the rank of General on martyr Phung Chi Kien, making him the first general of the Vietnam People's Army.
+*   **Sep. 23, 1947:** President Ho Chi Minh signed Decree No. 89/SL posthumously conferring the rank of General on martyr Phung Chi Kien, making him the first general of the Vietnam People's Army. [Source: Decree No. 89/SL of Sept. 23, 1947 by the President of the Democratic Republic of Vietnam; Ho Chi Minh Complete Works, Vol. 5, National Political Publishing House, Hanoi, 2011]
 
 <!-- id: EVT-1869 -->
 *   **Oct. 7 - Dec. 19, 1947:** Under the direct command and leadership of Commander-in-Chief Vo Nguyen Giap, the Vietnamese army and people victoriously executed the **Viet Bac Autumn-Winter Counter-offensive Campaign 1947**, repelling France's massive assault against the revolutionary base (Operations Léa and Ceinture), scoring resounding victories on the Lo River, at Doan Hung, and Bong Lau Pass, safely guarding the Party Central Committee, the Government, and President Ho Chi Minh, and utterly shattering France's strategy of "a swift fight, a swift victory". [Source: Vietnam National Museum of History - The Viet Bac Campaign - Autumn-Winter 1947, https://baotanglichsu.vn/vi/Articles/3097/15702/chien-dich-viet-bac-thu-dong-1947.html]
@@ -6083,133 +6083,133 @@
 *   **Oct. 7, 1947:** France launched a large-scale offensive against the Viet Bac resistance base (Operation Léa), dropping 800 paratroopers on Bac Kan. During this airborne raid, scholar Nguyễn Văn Tố (former Chairman of the Standing Committee of the National Assembly, Minister without Portfolio) was captured by French troops in Cho Don (Bac Kan); steadfastly enduring torture and refusing enemy coercion or collaboration, he heroically sacrificed his life for the Motherland. [Source: Vietnam National Museum of History - The Viet Bac Campaign - Autumn-Winter 1947, https://baotanglichsu.vn/vi/Articles/3097/15702/chien-dich-viet-bac-thu-dong-1947.html]
 
 <!-- id: EVT-1871 -->
-*   **Oct. 9, 1947:** Vietnamese forces shot down a French Ju-52 transport plane in Cao Bang, killing 12 staff officers and capturing the French offensive plan for Viet Bac.
+*   **Oct. 9, 1947:** Vietnamese forces shot down a French Ju-52 transport plane in Cao Bang, killing 12 staff officers and capturing the French offensive plan for Viet Bac. [Source: Military History Institute of Vietnam, The Viet Bac Autumn-Winter Campaign 1947, People's Army Publishing House, Hanoi, 1997]
 
 <!-- id: EVT-1872 -->
-*   **Oct. 24, 1947:** Vietnamese artillery ambushed a French naval convoy on the Lo River at Doan Hung, sinking two ships and cutting off the enemy's river supply route.
+*   **Oct. 24, 1947:** Vietnamese artillery ambushed a French naval convoy on the Lo River at Doan Hung, sinking two ships and cutting off the enemy's river supply route. [Source: Artillery High Command, History of the Artillery Branch (1946 - 2006), People's Army Publishing House, Hanoi, 2006]
 
 <!-- id: EVT-1873 -->
-* **28/10/1947:** Martyr Le Luong (Battalion Commander of the 426th Battalion, now the 74th Brigade, General Department II) heroically sacrificed his life in the assault on Na U outpost (Route 4).
+* **28/10/1947:** Martyr Le Luong (Battalion Commander of the 426th Battalion, now the 74th Brigade, General Department II) heroically sacrificed his life in the assault on Na U outpost (Route 4). [Source: General Department II - Ministry of National Defense, History of the 74th Brigade (1947 - 2017), People's Army Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1874 -->
 *   **Oct. 29, 1947:** The Vietnamese forces won a major victory in an ambush at Bong Lau Pass on Route 4, destroying a 30-vehicle convoy and capturing or killing about 250 enemy troops. [Source: Vietnam National Museum of History - The Bong Lau Ambush (October 29, 1947), https://baotanglichsu.vn/vi/Articles/3097/16659/tran-phuc-kich-bong-lau-29-10-1947.html]
 
 <!-- id: EVT-1875 -->
-*   **Nov. 1947:** After his release from prison, Huynh Tan Phat resumed revolutionary activities in Saigon, taking charge of proselytizing intellectuals and the press.
+*   **Nov. 1947:** After his release from prison, Huynh Tan Phat resumed revolutionary activities in Saigon, taking charge of proselytizing intellectuals and the press. [Source: Ho Chi Minh City Party Committee, Comrade Huynh Tan Phat - Life and Revolutionary Career, Ho Chi Minh City General Publishing House, 2013]
 
 <!-- id: EVT-1876 -->
-*   **Nov. 20, 1947:** France launched the second phase of the Viet Bac attack (Operation Ceinture) targeting the Tuyen Quang - Thai Nguyen - Phu Lang Thuong - Viet Tri quadrangle.
+*   **Nov. 20, 1947:** France launched the second phase of the Viet Bac attack (Operation Ceinture) targeting the Tuyen Quang - Thai Nguyen - Phu Lang Thuong - Viet Tri quadrangle. [Source: Military History Institute of Vietnam, The Viet Bac Autumn-Winter Campaign 1947, People's Army Publishing House, Hanoi, 1997]
 
 <!-- id: EVT-1877 -->
-*   **Late 1947:** At the Party Congress of Nam Bo, Le Duan was elected Secretary of the Party Committee of Nam Bo. In this position, he proposed important policies on expanding people's war, implementing democracy in rural areas, and strengthening the National United Front.
+*   **Late 1947:** At the Party Congress of Nam Bo, Le Duan was elected Secretary of the Party Committee of Nam Bo. In this position, he proposed important policies on expanding people's war, implementing democracy in rural areas, and strengthening the National United Front. [Source: Central Party Secretariat, Comrade Le Duan - An Outstanding Leader of Our Party and People, National Political Publishing House, Hanoi, 2007]
 
 <!-- id: EVT-1878 -->
-*   **Late 1947 (Oct. 20 or Dec. 11):** Battle of Suoi Voi bridge (An Khe, Binh Dinh). Hero Ngo May sacrificed his life by charging at a French armored vehicle with a bomb. His heroic action destroyed the vehicle and a platoon of enemy troops, turning the tide of the battle and securing a victory for the Vietnamese forces.
+*   **Late 1947 (Oct. 20 or Dec. 11):** Battle of Suoi Voi bridge (An Khe, Binh Dinh). Hero Ngo May sacrificed his life by charging at a French armored vehicle with a bomb. His heroic action destroyed the vehicle and a platoon of enemy troops, turning the tide of the battle and securing a victory for the Vietnamese forces. [Source: Binh Dinh Provincial Military Command, History of the People's Armed Forces of Binh Dinh (1945 - 2000), People's Army Publishing House, Hanoi, 2002]
 
 <!-- id: EVT-1879 -->
-*   **Nov. 29, 1947:** French colonial expeditionary forces raided My Trach village (My Thuy commune, Le Thuy district, Quang Binh province), herding 326 unarmed civilians (mostly pregnant women, the elderly, and children) to the foot of My Trach Bridge by the Kien Giang River before slaughtering them with machine guns and torching over 300 homes, completely wiping out entire family lineages.
+*   **Nov. 29, 1947:** French colonial expeditionary forces raided My Trach village (My Thuy commune, Le Thuy district, Quang Binh province), herding 326 unarmed civilians (mostly pregnant women, the elderly, and children) to the foot of My Trach Bridge by the Kien Giang River before slaughtering them with machine guns and torching over 300 homes, completely wiping out entire family lineages. [Source: Quang Binh Provincial Party Committee, History of Quang Binh Provincial Party Committee, Vol. 1 (1930 - 1954), National Political Publishing House, Hanoi, 1995; My Trach Massacre National Monument]
 
 <!-- id: EVT-1880 -->
-*   **Nov. 30, 1947:** Vietnamese forces attacked the Phu Thong post, marking the first time French troops were destroyed from within their fortifications.
+*   **Nov. 30, 1947:** Vietnamese forces attacked the Phu Thong post, marking the first time French troops were destroyed from within their fortifications. [Source: Military History Institute of Vietnam, History of the People's Army of Vietnam, Vol. 1, People's Army Publishing House, Hanoi, 1994]
 
 <!-- id: EVT-1881 -->
-*   **December 1947:** The guerrilla team of Nguyen Thi Tuyet, in coordination with Ha Dong provincial troops, fought against enemy sweep operations in 4 battles, laid mine ambushes in 2 battles, eliminated 2 groups of local militias, and successfully persuaded 16 puppet soldiers to surrender.
+*   **December 1947:** The guerrilla team of Nguyen Thi Tuyet, in coordination with Ha Dong provincial troops, fought against enemy sweep operations in 4 battles, laid mine ambushes in 2 battles, eliminated 2 groups of local militias, and successfully persuaded 16 puppet soldiers to surrender. [Source: Vietnam Women's Union, Portraits of Heroic Vietnamese Women, Women's Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-1882 -->
-*   **Dec. 1, 1947:** The Ministry of the Interior of the Republic of China (Kuomintang) officially published the atlas "Location of the South China Sea Islands" featuring the "11-dash line" (predecessor of the 9-dash line later inherited by the PRC) for the first time, asserting illegitimate "historic sovereignty" over nearly the entire South China Sea and severely infringing upon Vietnam's sovereignty over the Paracel and Spratly Islands.
+*   **Dec. 1, 1947:** The Ministry of the Interior of the Republic of China (Kuomintang) officially published the atlas "Location of the South China Sea Islands" featuring the "11-dash line" (predecessor of the 9-dash line later inherited by the PRC) for the first time, asserting illegitimate "historic sovereignty" over nearly the entire South China Sea and severely infringing upon Vietnam's sovereignty over the Paracel and Spratly Islands. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagos, Hanoi, 1982]
 
 <!-- id: EVT-1883 -->
-*   **Dec. 1, 1947:** Chiang Kai-shek signed a decree assigning Chinese names to the two archipelagos and declaring them as Chinese territory.
+*   **Dec. 1, 1947:** Chiang Kai-shek signed a decree assigning Chinese names to the two archipelagos and declaring them as Chinese territory. [Source: Dr. Nguyen Nha, Vietnam's Territorial Sovereignty over the Paracel and Spratly Archipelagos, Tri Thuc Publishing House, Hanoi, 2013]
 
 <!-- id: EVT-1884 -->
 *   **Dec. 19, 1947:** The main body of French forces withdrew from Viet Bac; the enemy's offensive campaign had completely failed. [Source: Vietnam National Museum of History - The Viet Bac Campaign - Autumn-Winter 1947, https://baotanglichsu.vn/vi/Articles/3097/15702/chien-dich-viet-bac-thu-dong-1947.html]
 
 <!-- id: EVT-1885 -->
-*   **1948:** Le Thi Rieng joined the Communist Party of Vietnam.
+*   **1948:** Le Thi Rieng joined the Communist Party of Vietnam. [Source: Ho Chi Minh City Women's Union, Life and Revolutionary Career of Comrade Le Thi Rieng, Ho Chi Minh City General Publishing House, 2007]
 
 <!-- id: EVT-1886 -->
-* **1948:** Martyr Nguyễn Như Trang (Tiểu đoàn phó tiểu đoàn 150, Trung đoàn 52 Tây Tiến. Hy sinh khi đang đi trinh sát tại Lạc Sơn, Hòa Bình) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland.
+* **1948:** Martyr Nguyễn Như Trang (Tiểu đoàn phó tiểu đoàn 150, Trung đoàn 52 Tây Tiến. Hy sinh khi đang đi trinh sát tại Lạc Sơn, Hòa Bình) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland. [Source: Tay Tien Veterans Liaison Committee, Annals of the 52nd Tay Tien Regiment, People's Army Publishing House, Hanoi, 2007]
 
 <!-- id: EVT-1887 -->
-*   **1948:** At the age of 16, Nguyễn Thị Mỹ Nhung secretly left her family in Vinh Long to join the anti-French resistance at Tam Binh war zone. She began her revolutionary work as a waterway courier, rowing boats to ferry cadres across rivers, and safely guided Pham Ngoc Thao (Deputy Head of the Southern Intelligence Department) on a mission from the Eastern war zone.
+*   **1948:** At the age of 16, Nguyễn Thị Mỹ Nhung secretly left her family in Vinh Long to join the anti-French resistance at Tam Binh war zone. She began her revolutionary work as a waterway courier, rowing boats to ferry cadres across rivers, and safely guided Pham Ngoc Thao (Deputy Head of the Southern Intelligence Department) on a mission from the Eastern war zone. [Source: Vietnam Women's Union, Portraits of Heroic Vietnamese Women, Women's Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-1888 -->
 *   **Jan. 20, 1948:** President Ho Chi Minh signed Decree No. 110/SL conferring the rank of Senior General upon comrade Vo Nguyen Giap (Commander-in-Chief of the National Army and Self-Defense Militia), making him the first Senior General of the Vietnam People's Army at age 37. Concurrently, decrees were issued promoting Nguyen Binh to Lieutenant General; and Nguyen Son, Chu Van Tan, Hoang Van Thai, Hoang Sam, Tran Tu Binh, Le Thiet Hung, and other senior commanders to Major General. [Source: Vietnam National Museum of History - Promotion of Vo Nguyen Giap to General (January 20, 1948), https://baotanglichsu.vn/vi/Articles/3097/16660/phong-quan-ham-dai-tuong-cho-vo-nguyen-giap-20-01-1948.html]
 
 <!-- id: EVT-1889 -->
-*   **Jan. 25, 1948:** The government issued a decree establishing Inter-zones to unify the command of the resistance.
+*   **Jan. 25, 1948:** The government issued a decree establishing Inter-zones to unify the command of the resistance. [Source: Decree No. 120/SL of Jan. 25, 1948 by the President of the Democratic Republic of Vietnam; Party Documents, Vol. 9, National Political Publishing House, Hanoi, 2001]
 
 <!-- id: EVT-1890 -->
-*   **Early 1948:** Georges Boudarel arrived in Saigon, Vietnam, with an introduction from the French Communist Party's Indochina Office. He initially taught philosophy at Yersin High School in Da Lat.
+*   **Early 1948:** Georges Boudarel arrived in Saigon, Vietnam, with an introduction from the French Communist Party's Indochina Office. He initially taught philosophy at Yersin High School in Da Lat. [Source: Georges Boudarel, Memoirs of a Frenchman in the Vietminh, Editions Bernard Grasset, Paris, 1991]
 
 <!-- id: EVT-1891 -->
-*   **May 28, 1948:** At Doi Thuoc (Yen Do Commune, Phu Luong District, Thai Nguyen Province), the Government solemnly held the rank investiture ceremony conferring the rank of Senior General upon comrade Vo Nguyen Giap amidst the Viet Bac Resistance Base. President Ho Chi Minh officially presented the decree and urged the General and the armed forces to fight valiantly to fulfill the sacred mission entrusted by the nation.
+*   **May 28, 1948:** At Doi Thuoc (Yen Do Commune, Phu Luong District, Thai Nguyen Province), the Government solemnly held the rank investiture ceremony conferring the rank of Senior General upon comrade Vo Nguyen Giap amidst the Viet Bac Resistance Base. President Ho Chi Minh officially presented the decree and urged the General and the armed forces to fight valiantly to fulfill the sacred mission entrusted by the nation. [Source: General Vo Nguyen Giap, Historical Milestones, People's Army Publishing House, Hanoi, 1977; Vietnam Military History Museum]
 
 <!-- id: EVT-1892 -->
 *   **Jun. 11, 1948:** President Ho Chi Minh issued an appeal for patriotic emulation. [Source: Vietnam National Museum of History - Ho Chi Minh and the Patriotic Emulation Movement, https://baotanglichsu.vn/vi/Articles/2001/66223/ho-chi-minh-va-phong-trao-thi-dua-ai-quoc.html]
 
 <!-- id: EVT-1893 -->
-*   **Jul. 1948:** The Second National Cultural Conference was held, defining the "national, scientific, and mass" character of the new culture.
+*   **Jul. 1948:** The Second National Cultural Conference was held, defining the "national, scientific, and mass" character of the new culture. [Source: Party Central Committee, Party Documents, Vol. 9, National Political Publishing House, Hanoi, 2001]
 
 <!-- id: EVT-1894 -->
-*   **Aug. 1948:** Đặng Thị Kim, pregnant and serving as a provisional Executive Committee member of the Nha Trang Town Party Committee, was arrested by the enemy while traveling by boat across the strait to a resistance zone conference. She endured brutal torture but fiercely protected the revolutionary bases and refused to confess.
+*   **Aug. 1948:** Đặng Thị Kim, pregnant and serving as a provisional Executive Committee member of the Nha Trang Town Party Committee, was arrested by the enemy while traveling by boat across the strait to a resistance zone conference. She endured brutal torture but fiercely protected the revolutionary bases and refused to confess. [Source: Thong Nhat District Party Committee, History of Thong Nhat District Party Committee (1930 - 2005), Dong Nai Publishing House, 2006]
 
 <!-- id: EVT-1895 -->
-*   **Early Sep. 1948:** At the age of 19, Đặng Thị Kim was secretly beheaded by the French military at the old Nha Trang airport. Facing death, she famously declared: "If you consider me guilty, kill me, but my unborn child is innocent. Let me give birth before you kill me." Her extraordinary courage terrified the enemy and left an immortal legacy.
+*   **Early Sep. 1948:** At the age of 19, Đặng Thị Kim was secretly beheaded by the French military at the old Nha Trang airport. Facing death, she famously declared: "If you consider me guilty, kill me, but my unborn child is innocent. Let me give birth before you kill me." Her extraordinary courage terrified the enemy and left an immortal legacy. [Source: Thong Nhat District Party Committee, History of Thong Nhat District Party Committee (1930 - 2005), Dong Nai Publishing House, 2006]
 
 <!-- id: EVT-1896 -->
-*   **Oct. 16, 1948:** The Standing Committee of the Party Central Committee issued Resolution No. 20-QN/TW establishing the Central Inspection Commission (the precursor to the Party inspection sector). Comrade Tran Dang Ninh (member of the Standing Committee) was appointed as its first head, alongside the first specialized members, Nguyen Thanh Binh and Ha Xuan My. The Commission was tasked with maintaining strict party discipline, consolidating internal unity, and monitoring the implementation of policies and directives during the resistance war.
+*   **Oct. 16, 1948:** The Standing Committee of the Party Central Committee issued Resolution No. 20-QN/TW establishing the Central Inspection Commission (the precursor to the Party inspection sector). Comrade Tran Dang Ninh (member of the Standing Committee) was appointed as its first head, alongside the first specialized members, Nguyen Thanh Binh and Ha Xuan My. The Commission was tasked with maintaining strict party discipline, consolidating internal unity, and monitoring the implementation of policies and directives during the resistance war. [Source: Resolution No. 20-QN/TW of Oct. 16, 1948 by the Party Standing Committee; History of the Party Inspection Sector (1948 - 2018), Central Inspection Commission, National Political Publishing House, Hanoi, 2018]
 
 <!-- id: EVT-1897 -->
-*   **Late 1948:** The H122 suspected espionage affair erupted in the Viet Bac resistance base, leading to the wrongful suspicion and detention of hundreds of military cadres, soldiers, and munitions workers due to deceptive divide-and-rule schemes planted by French intelligence. Entrusted with full authority by the Party Central Committee and President Ho Chi Minh, Head of the Central Inspection Commission Tran Dang Ninh personally went to the site to conduct patient, objective, and evidence-based investigations. He conclusively proved the entire case was an enemy psychological operation designed to fracture revolutionary ranks, subsequently ordering the immediate release and complete exoneration of all innocent detainees, preserving military prestige and internal unity.
+*   **Late 1948:** The H122 suspected espionage affair erupted in the Viet Bac resistance base, leading to the wrongful suspicion and detention of hundreds of military cadres, soldiers, and munitions workers due to deceptive divide-and-rule schemes planted by French intelligence. Entrusted with full authority by the Party Central Committee and President Ho Chi Minh, Head of the Central Inspection Commission Tran Dang Ninh personally went to the site to conduct patient, objective, and evidence-based investigations. He conclusively proved the entire case was an enemy psychological operation designed to fracture revolutionary ranks, subsequently ordering the immediate release and complete exoneration of all innocent detainees, preserving military prestige and internal unity. [Source: Central Party Secretariat, Comrade Tran Dang Ninh - Eminent Pioneer Leader of the Party and Vietnamese Revolution, National Political Publishing House, Hanoi, 2010]
 
 <!-- id: EVT-1898 -->
-*   **Dec. 20, 1948:** The Standing Committee of the Party Central Committee issued a directive on unifying the Viet Minh and the Lien Viet Association, instructing party committees and administrative authorities to step up widespread public outreach on the significance of merging the two fronts to meet the demands of the resistance, strengthening national solidarity and paving the way for the National Unification Congress of Viet Minh - Lien Viet.
+*   **Dec. 20, 1948:** The Standing Committee of the Party Central Committee issued a directive on unifying the Viet Minh and the Lien Viet Association, instructing party committees and administrative authorities to step up widespread public outreach on the significance of merging the two fronts to meet the demands of the resistance, strengthening national solidarity and paving the way for the National Unification Congress of Viet Minh - Lien Viet. [Source: Directive of Dec. 20, 1948 by the Party Standing Committee; Party Documents, Vol. 9, National Political Publishing House, Hanoi, 2001]
 
 <!-- id: EVT-1899 -->
-*   **Dec. 25, 1948:** On the occasion of Christmas, President Ho Chi Minh sent an open "Letter to Catholic Compatriots Nationwide," reaffirming the Government of the Democratic Republic of Vietnam's commitment to religious freedom, exposing French colonial plots to exploit religion and divide the nation, and calling upon Catholics and non-Catholics alike to strengthen national unity and persevere in the resistance to secure complete independence and freedom for the fatherland.
+*   **Dec. 25, 1948:** On the occasion of Christmas, President Ho Chi Minh sent an open "Letter to Catholic Compatriots Nationwide," reaffirming the Government of the Democratic Republic of Vietnam's commitment to religious freedom, exposing French colonial plots to exploit religion and divide the nation, and calling upon Catholics and non-Catholics alike to strengthen national unity and persevere in the resistance to secure complete independence and freedom for the fatherland. [Source: Ho Chi Minh Complete Works, Vol. 5 (1947 - 1948), National Political Publishing House, Hanoi, 2011, p. 668]
 
 <!-- id: EVT-1900 -->
-*   **1949:** France officially incorporated Phu Quoc and the islands in the southern part of the Gulf of Thailand into Vietnam.
+*   **1949:** France officially incorporated Phu Quoc and the islands in the southern part of the Gulf of Thailand into Vietnam. [Source: Institute for Marine and Island Management, Geographical and Legal Foundations of Vietnam's Island Sovereignty, Natural Resources and Environment Publishing House, Hanoi, 2012]
 
 <!-- id: EVT-1901 -->
-*   **1949:** Le Thi Rieng became Vice President of the National Salvation Women's Association of the Eastern Region (Member of the Executive Committee of Nam Bo Women).
+*   **1949:** Le Thi Rieng became Vice President of the National Salvation Women's Association of the Eastern Region (Member of the Executive Committee of Nam Bo Women). [Source: Ho Chi Minh City Women's Union, Life and Revolutionary Career of Comrade Le Thi Rieng, Ho Chi Minh City General Publishing House, 2007]
 
 <!-- id: EVT-1902 -->
-*   **1949 (or 1952):** The famous four-word poem "Luom" was composed by poet To Huu. While some publications state it was written in 1949 or 1950, To Huu's later memoirs indicated it was written in 1952 after hearing of his nephew Nguyen Van Luom's heroic sacrifice during the 3rd Central Committee Conference (Jan. 21, 1952). The poem became a staple in Vietnamese education, portraying the optimistic and courageous spirit of young resistance fighters.
+*   **1949 (or 1952):** The famous four-word poem "Luom" was composed by poet To Huu. While some publications state it was written in 1949 or 1950, To Huu's later memoirs indicated it was written in 1952 after hearing of his nephew Nguyen Van Luom's heroic sacrifice during the 3rd Central Committee Conference (Jan. 21, 1952). The poem became a staple in Vietnamese education, portraying the optimistic and courageous spirit of young resistance fighters. [Source: To Huu, Selected Works, Literature Publishing House, Hanoi, 1979; Memoirs: Remembering a Time, Writers Association Publishing House, 2000]
 
 <!-- id: EVT-1903 -->
-*   **1949:** Vu A Dinh's father, Vu Chong Lau, was murdered in Son La prison by the French. In the same year, his mother, Sung Thi Play, and eight other family members were executed by the French after being discovered secretly supplying ammunition to the resistance forces.
+*   **1949:** Vu A Dinh's father, Vu Chong Lau, was murdered in Son La prison by the French. In the same year, his mother, Sung Thi Play, and eight other family members were executed by the French after being discovered secretly supplying ammunition to the resistance forces. [Source: Central Council of the Young Pioneer Organization, Vu A Dinh - Brave Youth of Pu Nhung Peak, Kim Dong Publishing House, Hanoi, 2004]
 
 <!-- id: EVT-1904 -->
-* **1949:** Hero of the People's Armed Forces Hoàng Ngân (Bí thư Trung ương Hội Phụ nữ cứu quốc Việt Nam) passed away.
+* **1949:** Hero of the People's Armed Forces Hoàng Ngân (Bí thư Trung ương Hội Phụ nữ cứu quốc Việt Nam) passed away. [Source: Central Committee of Vietnam Women's Union, Revolutionary Woman Fighter Hoang Ngan, Women's Publishing House, Hanoi, 2000]
 
 <!-- id: EVT-1905 -->
-*   **1949:** Comrade Tran Dang Ninh (Head of the Central Inspection Commission) directly traveled to Inter-zone IV to inspect and clarify the truth regarding the "Southern Chemicals" (Hóa chất miền Nam) case, successfully clearing the name of an arms depot director—an overseas Vietnamese patriotic engineer who had returned from France with President Ho Chi Minh to join the resistance but had been falsely accused. Through rigorous, objective, and impartial on-site investigation, he completely exonerated the patriotic intellectual, cementing the profound trust of overseas intellectuals in the Party and the resistance cause.
+*   **1949:** Comrade Tran Dang Ninh (Head of the Central Inspection Commission) directly traveled to Inter-zone IV to inspect and clarify the truth regarding the "Southern Chemicals" (Hóa chất miền Nam) case, successfully clearing the name of an arms depot director—an overseas Vietnamese patriotic engineer who had returned from France with President Ho Chi Minh to join the resistance but had been falsely accused. Through rigorous, objective, and impartial on-site investigation, he completely exonerated the patriotic intellectual, cementing the profound trust of overseas intellectuals in the Party and the resistance cause. [Source: Central Party Secretariat, Comrade Tran Dang Ninh - Eminent Pioneer Leader of the Party and Vietnamese Revolution, National Political Publishing House, Hanoi, 2010]
 
 <!-- id: EVT-1906 -->
 *   **Jan. 20, 1949:** The Lao Issara Army (precursor to the Lao People's Army) was founded. [Source: Vietnam National Museum of History - Establishment of the Lao Itsala Army (January 20, 1949), https://baotanglichsu.vn/vi/Articles/3097/16662/quan-doi-lao-itsala-thanh-lap-20-01-1949.html]
 
 <!-- id: EVT-1907 -->
-*   **Early 1949:** Huynh Tan Phat escaped to the Dong Thap resistance zone to continue his revolutionary work.
+*   **Early 1949:** Huynh Tan Phat escaped to the Dong Thap resistance zone to continue his revolutionary work. [Source: Ho Chi Minh City Party Committee, Comrade Huynh Tan Phat - Life and Revolutionary Career, Ho Chi Minh City General Publishing House, 2013]
 
 <!-- id: EVT-1908 -->
 *   **Mar. 8, 1949:** The Élysée Accords were signed between French President Vincent Auriol and former emperor Bao Dai, establishing the "State of Vietnam" within the French Union. [Source: Vietnam National Museum of History - The Elysee Treaty (March 8, 1949), https://baotanglichsu.vn/vi/Articles/3097/16663/hiep-uoc-elysee-08-03-1949.html]
 
 <!-- id: EVT-1909 -->
-*   **Apr. 1949:** Prince Buu Loc, Chief of Cabinet to Emperor Bao Dai, publicly reaffirmed Vietnam's rights over the Spratly Islands during a press conference in Saigon.
+*   **Apr. 1949:** Prince Buu Loc, Chief of Cabinet to Emperor Bao Dai, publicly reaffirmed Vietnam's rights over the Spratly Islands during a press conference in Saigon. [Source: Dr. Nguyen Nha, Vietnam's Territorial Sovereignty over the Paracel and Spratly Archipelagos, Tri Thuc Publishing House, Hanoi, 2013]
 
 <!-- id: EVT-1910 -->
-*   **Apr. 23, 1949:** General Vo Nguyen Giap issued the order to launch the Thap Van Dai Son Campaign to assist the Chinese People's Liberation Army in fighting Kuomintang forces. This marked the first international mission of the Vietnam People's Army. Prior to departure, President Ho Chi Minh advised the campaign commander, Le Quang Ba: "Careful, secret, united, friendly, victorious."
+*   **Apr. 23, 1949:** General Vo Nguyen Giap issued the order to launch the Thap Van Dai Son Campaign to assist the Chinese People's Liberation Army in fighting Kuomintang forces. This marked the first international mission of the Vietnam People's Army. Prior to departure, President Ho Chi Minh advised the campaign commander, Le Quang Ba: "Careful, secret, united, friendly, victorious." [Source: Military History Institute of Vietnam, History of Vietnamese Volunteer Troops in China (1949 - 1950), People's Army Publishing House, Hanoi, 2000]
 
 <!-- id: EVT-1911 -->
-*   **Jun. - Oct. 1949:** The Thap Van Dai Son Campaign took place in the Vietnam-Guangxi border region. Vietnamese forces, divided into two fronts (Kham Chau and Long Chau), coordinated with Chinese forces to attack Kuomintang strongholds. The campaign successfully expanded the liberated zone for the Chinese revolution, secured the northeastern border of Vietnam, and concluded when Vietnamese troops withdrew after linking up with the main Chinese army.
+*   **Jun. - Oct. 1949:** The Thap Van Dai Son Campaign took place in the Vietnam-Guangxi border region. Vietnamese forces, divided into two fronts (Kham Chau and Long Chau), coordinated with Chinese forces to attack Kuomintang strongholds. The campaign successfully expanded the liberated zone for the Chinese revolution, secured the northeastern border of Vietnam, and concluded when Vietnamese troops withdrew after linking up with the main Chinese army. [Source: Military History Institute of Vietnam, History of Vietnamese Volunteer Troops in China (1949 - 1950), People's Army Publishing House, Hanoi, 2000]
 
 <!-- id: EVT-1912 -->
 *   **Jun. 15, 1949:** Vu A Dinh was brutally murdered by the French. After being captured in a dense fog during a massive sweep in Pu Nhung and enduring severe torture (including a broken leg), the 15-year-old boy tricked the French troops into carrying him through the forest for days, leading them to an abandoned camp. Enraged by the deception, the French shot him and hung his body on a peach tree. [Source: Vietnam National Museum of History - Vu A Dinh (1934-1949): Hmong Teenage Heroic Martyr, https://baotanglichsu.vn/vi/Articles/3096/13248/vu-a-dinh-1934-1949-anh-hung-liet-si-thieu-nien-nguoi-mong.html]
 
 <!-- id: EVT-1913 -->
-*   **Autumn 1949:** Georges Boudarel was transferred to teach in Laos but was expelled three months later. He returned to Saigon, worked as a French teacher at Marie Curie High School, and frequently associated with the French Marxist cultural group.
+*   **Autumn 1949:** Georges Boudarel was transferred to teach in Laos but was expelled three months later. He returned to Saigon, worked as a French teacher at Marie Curie High School, and frequently associated with the French Marxist cultural group. [Source: Georges Boudarel, Memoirs of a Frenchman in the Vietminh, Editions Bernard Grasset, Paris, 1991]
 
 <!-- id: EVT-1914 -->
 *   **Jul. 14, 1949:** The government issued the first decree on rent reduction. [Source: Vietnam National Museum of History - The Land Rent Reduction Decree (July 14, 1949), https://baotanglichsu.vn/vi/Articles/3097/16664/sac-lenh-giam-to-14-7-1949.html]
@@ -6221,22 +6221,22 @@
 *   **Oct. 1, 1949:** The People's Republic of China was founded. [Source: Vietnam National Museum of History - The People's Republic of China (October 1, 1949), https://baotanglichsu.vn/vi/Articles/3097/16666/nuoc-cong-hoa-nhan-dan-trung-hoa-01-10-1949.html]
 
 <!-- id: EVT-1917 -->
-*   **Dec. 1949:** During the Cau Ke Campaign (the first major offensive by the Viet Minh in Nam Bo), Nguyen Thi Ut (Ut Tich) served as a scout and liaison for the Vanguard Security unit, contributing to inflicting heavy losses on French forces.
+*   **Dec. 1949:** During the Cau Ke Campaign (the first major offensive by the Viet Minh in Nam Bo), Nguyen Thi Ut (Ut Tich) served as a scout and liaison for the Vanguard Security unit, contributing to inflicting heavy losses on French forces. [Source: Tra Vinh Provincial Military Command, History of the People's Armed Forces of Tra Vinh (1945 - 1975), People's Army Publishing House, Hanoi, 1995]
 
 <!-- id: EVT-1918 -->
-*   **1950:** Huynh Tan Phat was elected to the Executive Committee of the Saigon - Cho Lon Special Zone Party Committee and directly managed the Voice of Free Saigon - Cho Lon radio station.
+*   **1950:** Huynh Tan Phat was elected to the Executive Committee of the Saigon - Cho Lon Special Zone Party Committee and directly managed the Voice of Free Saigon - Cho Lon radio station. [Source: Ho Chi Minh City Party Committee, Comrade Huynh Tan Phat - Life and Revolutionary Career, Ho Chi Minh City General Publishing House, 2013]
 
 <!-- id: EVT-1919 -->
-* **1950:** Martyr Trần Cừ (Lúc hy sinh là Đại đội trưởng bộ binh Đại đội 336, Tiểu đoàn 174, Trung đoàn 209, Đại đoàn 312) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland.
+* **1950:** Martyr Trần Cừ (Lúc hy sinh là Đại đội trưởng bộ binh Đại đội 336, Tiểu đoàn 174, Trung đoàn 209, Đại đoàn 312) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland. [Source: Department of Propaganda and Training, Heroes of the People's Armed Forces in the Resistance against French Colonialism, People's Army Publishing House, Hanoi, 1996]
 
 <!-- id: EVT-1920 -->
-* **1950:** Martyr Lâm Úy (Tiểu đội phó bộ binh thuộc Đại đoàn 325, hy sinh trong trận Xuân Bồ) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland.
+* **1950:** Martyr Lâm Úy (Tiểu đội phó bộ binh thuộc Đại đoàn 325, hy sinh trong trận Xuân Bồ) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland. [Source: Department of Propaganda and Training, Heroes of the People's Armed Forces in the Resistance against French Colonialism, People's Army Publishing House, Hanoi, 1996]
 
 <!-- id: EVT-1921 -->
-* **1950:** Martyr Trần Đức (Tiểu đội trưởng bộ binh thuộc Đại đội 212, Tiểu đoàn 19, Trung đoàn 108, Đại đoàn 305. Hy sinh khi chống địch càn quét tại chiến trường Nam Thừa Thiên tháng 11 năm 1950) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland.
+* **1950:** Martyr Trần Đức (Tiểu đội trưởng bộ binh thuộc Đại đội 212, Tiểu đoàn 19, Trung đoàn 108, Đại đoàn 305. Hy sinh khi chống địch càn quét tại chiến trường Nam Thừa Thiên tháng 11 năm 1950) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland. [Source: Department of Propaganda and Training, Heroes of the People's Armed Forces in the Resistance against French Colonialism, People's Army Publishing House, Hanoi, 1996]
 
 <!-- id: EVT-1922 -->
-* **1950:** Martyr Lý Văn Mưu (Chiến sĩ bộ binh thuộc Đại đội 675, Tiểu đoàn 251, Trung đoàn 174, Đại đoàn 316. Hy sinh khi tấn công đồn Đông Khê tháng 10 năm 1950) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland.
+* **1950:** Martyr Lý Văn Mưu (Chiến sĩ bộ binh thuộc Đại đội 675, Tiểu đoàn 251, Trung đoàn 174, Đại đoàn 316. Hy sinh khi tấn công đồn Đông Khê tháng 10 năm 1950) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland. [Source: Department of Propaganda and Training, Heroes of the People's Armed Forces in the Resistance against French Colonialism, People's Army Publishing House, Hanoi, 1996]
 
 <!-- id: EVT-1923 -->
 *   **Jan. 9, 1950:** Thousands of students demonstrated in Saigon demanding the release of arrested peers. The protest was violently suppressed, and student Tran Van On was shot dead. His funeral on January 12 drew hundreds of thousands of people, turning into a massive show of anti-colonial resistance. [Source: Vietnam National Museum of History - Students Protest in Saigon (January 9, 1950), https://baotanglichsu.vn/vi/Articles/3097/16673/hoc-sinh-sinh-vien-bieu-tinh-tai-sai-gon-09-01-1950.html]
@@ -6251,40 +6251,40 @@
 *   **Jan. 30, 1950:** The Soviet Union recognized and established diplomatic relations with the Democratic Republic of Vietnam. [Source: Vietnam National Museum of History - The Soviet Union Recognizes the Democratic Republic of Vietnam (January 30, 1950), https://baotanglichsu.vn/vi/Articles/3097/16669/lien-xo-cong-nhan-viet-nam-dan-chu-cong-hoa-30-01-1950.html]
 
 <!-- id: EVT-1927 -->
-*   **Feb. 1950:** A series of people's democratic countries in Eastern Europe recognized the Democratic Republic of Vietnam.
+*   **Feb. 1950:** A series of people's democratic countries in Eastern Europe recognized the Democratic Republic of Vietnam. [Source: Ministry of Foreign Affairs, History of Vietnamese Diplomacy (1945 - 2000), National Political Publishing House, Hanoi, 2002]
 
 <!-- id: EVT-1928 -->
-*   **Early 1950:** Nguyen Thi Ut married Lam Van Tich, a local Viet Minh soldier. From then on, she was known by the nickname "Ut Tich", combining her and her husband's names.
+*   **Early 1950:** Nguyen Thi Ut married Lam Van Tich, a local Viet Minh soldier. From then on, she was known by the nickname "Ut Tich", combining her and her husband's names. [Source: Nguyen Thi, The Mother with a Gun, Literature Publishing House, Hanoi, 1965]
 
 <!-- id: EVT-1929 -->
-*   **Early Feb. 1950:** President Ho Chi Minh had a secret meeting with Soviet leader Joseph Stalin and Chinese leader Mao Zedong in the Soviet Union to request military aid. The Soviet Union and China agreed to provide significant material and military support for Vietnam's anti-French resistance.
+*   **Early Feb. 1950:** President Ho Chi Minh had a secret meeting with Soviet leader Joseph Stalin and Chinese leader Mao Zedong in the Soviet Union to request military aid. The Soviet Union and China agreed to provide significant material and military support for Vietnam's anti-French resistance. [Source: Ho Chi Minh Institute, Ho Chi Minh - A Chronological Biography, Vol. 4 (1946 - 1950), National Political Publishing House, Hanoi, 2016]
 
 <!-- id: EVT-1930 -->
 *   **Feb. 7, 1950:** The US and UK recognized the puppet government of Bao Dai. [Source: Vietnam National Museum of History - US and UK Recognize the Bao Dai Government (February 7, 1950), https://baotanglichsu.vn/vi/Articles/3097/16670/my-anh-cong-nhan-chinh-quyen-bao-dai-07-02-1950.html]
 
 <!-- id: EVT-1931 -->
-*   **Feb. 23, 1950:** Raymonde Dien, a young French Communist Party member, lay down on the train tracks at the Saint-Pierre-des-Corps station (Tours, France) to block a train carrying weapons destined for the war in Indochina. She was arrested the same day, but her courageous act became a powerful symbol of the international anti-war movement supporting Vietnam.
+*   **Feb. 23, 1950:** Raymonde Dien, a young French Communist Party member, lay down on the train tracks at the Saint-Pierre-des-Corps station (Tours, France) to block a train carrying weapons destined for the war in Indochina. She was arrested the same day, but her courageous act became a powerful symbol of the international anti-war movement supporting Vietnam. [Source: Nhan Dan Newspaper, Raymonde Dien - Shining Symbol of Anti-Indochina War Movement; Alain Ruscio, The French War in Indochina, Editions Complexe, Paris, 1992]
 
 <!-- id: EVT-1932 -->
 *   **Mar. 19, 1950:** A massive anti-US and anti-French demonstration involving approximately half a million people erupted in Saigon-Cho Lon. Led by prominent figures including lawyer Nguyen Huu Tho, the protest successfully forced two US warships (the USS *Stickell* and USS *Anderson*) to leave the harbor. This merged with the ongoing student protests to become a major milestone in the urban resistance movement. [Source: Vietnam National Museum of History - Anti-US and Anti-French Protests (March 19, 1950), https://baotanglichsu.vn/vi/Articles/3097/16671/bieu-tinh-chong-my-phap-19-03-1950.html]
 
 <!-- id: EVT-1933 -->
-*   **Apr. 1950:** The Republic of China's military garrison withdrew from Woody Island in the Paracels.
+*   **Apr. 1950:** The Republic of China's military garrison withdrew from Woody Island in the Paracels. [Source: Dr. Nguyen Nha, Vietnam's Territorial Sovereignty over the Paracel and Spratly Archipelagos, Tri Thuc Publishing House, Hanoi, 2013]
 
 <!-- id: EVT-1934 -->
-*   **April 20, 1950:** The French military established the Tia military sub-sector (Thuong Tin, Hanoi), which included an anti-communist committee and numerous outposts to intensify sweep operations, causing heavy losses to the local resistance base.
+*   **April 20, 1950:** The French military established the Tia military sub-sector (Thuong Tin, Hanoi), which included an anti-communist committee and numerous outposts to intensify sweep operations, causing heavy losses to the local resistance base. [Source: Thuong Tin District Party Committee, History of Thuong Tin District Party Committee (1930 - 2000), Labor Publishing House, Hanoi, 2002]
 
 <!-- id: EVT-1935 -->
-* **05/1950:** Student Tran Boi Co (Phuc Kien School student) passed away after being brutally tortured by French colonial police following her leadership in the Saigon student strike movement.
+* **05/1950:** Student Tran Boi Co (Phuc Kien School student) passed away after being brutally tortured by French colonial police following her leadership in the Saigon student strike movement. [Source: Ho Chi Minh City Youth Union, History of Saigon - Gia Dinh Student Movements (1945 - 1975), Tre Publishing House, 2005]
 
 <!-- id: EVT-1936 -->
-*   **May 1950:** Nguyễn Thị Mỹ Nhung was admitted to the Communist Party of Vietnam (Workers' Party of Vietnam) at the age of 18, in recognition of her courage and unwavering dedication as a covert courier.
+*   **May 1950:** Nguyễn Thị Mỹ Nhung was admitted to the Communist Party of Vietnam (Workers' Party of Vietnam) at the age of 18, in recognition of her courage and unwavering dedication as a covert courier. [Source: Vietnam Women's Union, Portraits of Heroic Vietnamese Women, Women's Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-1937 -->
 *   **May 1, 1950:** US President Truman decided to provide $10 million in direct military aid to France in Indochina. [Source: Vietnam National Museum of History - US Military Aid to France (May 1, 1950), https://baotanglichsu.vn/vi/Articles/3097/16672/my-vien-tro-quan-su-cho-phap-01-05-1950.html]
 
 <!-- id: EVT-1938 -->
-*   **May 15, 1950:** Female reconnaissance officer of the An Thi District Public Security (Hung Yen) Bui Thi Cuc (real name Tran Thi Lan, born in 1930) heroically sacrificed her life at Canh Lam market at the age of 20. Previously, she operated as an intelligence agent behind enemy lines, cleverly neutralizing the notorious French outpost commander at Canh Lam. Subjected to brutal torture upon capture, she steadfastly maintained her revolutionary integrity, telling her imprisoned comrades: *"I have taken all responsibility upon myself, let no one confess anything"* and *"They will surely execute me. Even in death, I will not betray anyone, rest assured. I wish you all well. If you meet my mother, please encourage her for me."* Before her execution at the firing squad, she proudly shouted *"Long live President Ho Chi Minh!"*.
+*   **May 15, 1950:** Female reconnaissance officer of the An Thi District Public Security (Hung Yen) Bui Thi Cuc (real name Tran Thi Lan, born in 1930) heroically sacrificed her life at Canh Lam market at the age of 20. Previously, she operated as an intelligence agent behind enemy lines, cleverly neutralizing the notorious French outpost commander at Canh Lam. Subjected to brutal torture upon capture, she steadfastly maintained her revolutionary integrity, telling her imprisoned comrades: *"I have taken all responsibility upon myself, let no one confess anything"* and *"They will surely execute me. Even in death, I will not betray anyone, rest assured. I wish you all well. If you meet my mother, please encourage her for me."* Before her execution at the firing squad, she proudly shouted *"Long live President Ho Chi Minh!"*. [Source: Police History Institute, History of the Vietnam People's Police (1945 - 1954), People's Police Publishing House, Hanoi, 2006]
 
 <!-- id: EVT-1939 -->
 *   **Jun. 1950:** The Standing Committee of the Party Central Committee resolved to launch the **Border Campaign** (Le Hong Phong II Campaign) and established the Front Party Committee and Command headed by Senior General Vo Nguyen Giap as Secretary and Campaign Commander. This marked the first large-scale strategic offensive actively launched by Vietnamese forces along the Vietnam-China border. [Source: Vietnam National Museum of History - The Border Campaign - Autumn-Winter 1950, https://baotanglichsu.vn/vi/Articles/3097/15703/chien-dich-bien-gioi-thu-dong-1950.html]
@@ -6294,7 +6294,7 @@
 *Source: General Vo Nguyen Giap, 1951 / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-1940 -->
-*   **Sep. 5, 1950:** The Supreme Military Court convened a special trial in Thai Nguyen to prosecute a grave case of embezzlement, bribery, and extravagant waste in the Military Supplies Department, sentencing former Director Tran Du Chau to death. When Comrade Tran Dang Ninh (Head of the General Supply Department) reported the verdict and sought guidance from President Ho Chi Minh regarding the convict's clemency plea, President Ho Chi Minh firmly rejected the petition, imparting a timeless lesson on party discipline and judicial integrity: *"It is the same with pests that hollow out the people. If we must kill one pest to save an entire forest, doing so is necessary, and moreover, humane."*
+*   **Sep. 5, 1950:** The Supreme Military Court convened a special trial in Thai Nguyen to prosecute a grave case of embezzlement, bribery, and extravagant waste in the Military Supplies Department, sentencing former Director Tran Du Chau to death. When Comrade Tran Dang Ninh (Head of the General Supply Department) reported the verdict and sought guidance from President Ho Chi Minh regarding the convict's clemency plea, President Ho Chi Minh firmly rejected the petition, imparting a timeless lesson on party discipline and judicial integrity: *"It is the same with pests that hollow out the people. If we must kill one pest to save an entire forest, doing so is necessary, and moreover, humane."* [Source: Ho Chi Minh Complete Works, Vol. 6 (1949 - 1950), National Political Publishing House, Hanoi, 2011; Journal of Party History]
 
 <!-- id: EVT-1941 -->
 *   **Sep. 16, 1950:** Under the direct command of Senior General Vo Nguyen Giap and with President Ho Chi Minh personally observing and encouraging troops from the Bao Dong Mountain observation post, the Vietnam People's Army launched the attack destroying the Dong Khe fortress, officially opening the Autumn-Winter Border Campaign 1950. [Source: Vietnam National Museum of History - The Border Campaign - Autumn-Winter 1950, https://baotanglichsu.vn/vi/Articles/3097/15703/chien-dich-bien-gioi-thu-dong-1950.html]
@@ -6304,7 +6304,7 @@
 *Source: President Ho Chi Minh observing the Dong Khe front (Bao Dong Mountain), 1950 Autumn-Winter Border Campaign (Photo: Vu Nang An / TTXVN / Public domain)*
 
 <!-- id: EVT-1942 -->
-*   **Sep. 16, 1950:** During the Battle of Dong Khe in the Border Campaign, soldier La Van Cau bravely asks a comrade to sever his shattered right arm so he can continue carrying explosives to destroy French bunkers, clearing the path for his unit's assault.
+*   **Sep. 16, 1950:** During the Battle of Dong Khe in the Border Campaign, soldier La Van Cau bravely asks a comrade to sever his shattered right arm so he can continue carrying explosives to destroy French bunkers, clearing the path for his unit's assault. [Source: Military History Institute of Vietnam, The Border Autumn-Winter Campaign 1950, People's Army Publishing House, Hanoi, 2000; Vietnam Military History Museum]
 
 <!-- id: EVT-1943 -->
 *   **Sep. 18, 1950:** The Vietnamese forces completely controlled Dong Khe after 54 hours of intense fighting, severing the French defense line on Route 4. [Source: Vietnam National Museum of History - The Border Campaign - Autumn-Winter 1950, https://baotanglichsu.vn/vi/Articles/3097/15703/chien-dich-bien-gioi-thu-dong-1950.html]
@@ -6316,13 +6316,13 @@
 *   **Oct. 11-22, 1950:** Facing the threat of annihilation, French troops panicked and fled from a series of positions on Route 4, such as That Khe, Na Sam, and Lang Son. By October 22, the French were entirely cleared from Route 4. [Source: Vietnam National Museum of History - The Border Campaign - Autumn-Winter 1950, https://baotanglichsu.vn/vi/Articles/3097/15703/chien-dich-bien-gioi-thu-dong-1950.html]
 
 <!-- id: EVT-1946 -->
-*   **Oct. 14, 1950:** The French government officially transferred the administrative control of the archipelagos to the Bao Dai government.
+*   **Oct. 14, 1950:** The French government officially transferred the administrative control of the archipelagos to the Bao Dai government. [Source: Dr. Nguyen Nha, Vietnam's Territorial Sovereignty over the Paracel and Spratly Archipelagos, Tri Thuc Publishing House, Hanoi, 2013]
 
 <!-- id: EVT-1947 -->
-*   **Nov. 4, 1950:** French forces withdrew from Lao Cai and Sa Pa. The entire French border defense line was shattered.
+*   **Nov. 4, 1950:** French forces withdrew from Lao Cai and Sa Pa. The entire French border defense line was shattered. [Source: Lao Cai Provincial Military Command, History of the People's Armed Forces of Lao Cai (1945 - 2015), People's Army Publishing House, Hanoi, 2015]
 
 <!-- id: EVT-1948 -->
-*   **Late 1950:** Georges Boudarel left his teaching position to join the Viet Minh forces. A French military court in Saigon subsequently sentenced him to death in absentia for desertion. He was assigned to be a French announcer for the clandestine Voice of Free Saigon - Cho Lon in War Zone D, adopting the Vietnamese alias Đại Đồng (but widely known by his comrades as "Bu Đa" or Bouda).
+*   **Late 1950:** Georges Boudarel left his teaching position to join the Viet Minh forces. A French military court in Saigon subsequently sentenced him to death in absentia for desertion. He was assigned to be a French announcer for the clandestine Voice of Free Saigon - Cho Lon in War Zone D, adopting the Vietnamese alias Đại Đồng (but widely known by his comrades as "Bu Đa" or Bouda). [Source: Georges Boudarel, Memoirs of a Frenchman in the Vietminh, Editions Bernard Grasset, Paris, 1991]
 
 <!-- id: EVT-1949 -->
 *   **Dec. 1950:** General De Lattre de Tassigny was sent to Indochina as High Commissioner and Commander-in-Chief, holding all military and civilian power. [Source: Vietnam National Museum of History - De Lattre: High Commissioner and Commander-in-Chief (December 1950), https://baotanglichsu.vn/vi/Articles/3097/16676/de-lattre-cao-uy-va-tong-tu-lenh-12-1950.html]
@@ -6331,7 +6331,7 @@
 *   **Dec. 6, 1950:** General De Lattre de Tassigny was appointed High Commissioner and Commander-in-Chief of the French army in Indochina, beginning the implementation of a new military plan. [Source: Vietnam National Museum of History - De Lattre: High Commissioner and Commander-in-Chief (December 1950), https://baotanglichsu.vn/vi/Articles/3097/16676/de-lattre-cao-uy-va-tong-tu-lenh-12-1950.html]
 
 <!-- id: EVT-1951 -->
-*   **Dec. 23, 1950:** After 10 months of imprisonment and widespread protests in France and internationally demanding her release, Raymonde Dien was freed.
+*   **Dec. 23, 1950:** After 10 months of imprisonment and widespread protests in France and internationally demanding her release, Raymonde Dien was freed. [Source: Ho Chi Minh City Youth Union, History of Saigon - Gia Dinh Student Movements (1945 - 1975), Tre Publishing House, 2005]
 
 <!-- id: EVT-1952 -->
 *   **Dec. 23, 1950:** The Mutual Defense Agreement for Indochina was signed between the US, France, and the puppet governments (Vietnam, Laos, Cambodia), formalizing US intervention. [Source: Vietnam National Museum of History - The Indochina Mutual Defense Treaty (December 23, 1950), https://baotanglichsu.vn/vi/Articles/3097/16675/hiep-dinh-phong-thu-chung-dong-duong-23-12-1950.html]
@@ -6343,7 +6343,7 @@
 
 ### **Final Period of the Resistance War Against France (1951 - Jul. 1954)**
 
-*   **1951:** Vu A Dinh was commended nationwide by the Vietnam Youth Federation for his indomitable spirit.
+*   **1951:** Vu A Dinh was commended nationwide by the Vietnam Youth Federation for his indomitable spirit. [Source: Central Council of the Young Pioneer Organization, Vu A Dinh - Brave Youth of Pu Nhung Peak, Kim Dong Publishing House, Hanoi, 2004]
 
 <!-- id: EVT-1955 -->
 * **1951:** Martyr Mac Thi Buoi (participated in the Tran Hung Dao Campaign, captured by French forces, sacrificed in prison in 1951, posthumously awarded the title Hero of the People's Armed Forces) heroically sacrificed her life while carrying out combat missions defending the Fatherland. [Source: People's Army Newspaper - Heroine Mac Thi Buoi, https://ct.qdnd.vn/ho-so-tu-lieu/nu-anh-hung-mac-thi-buoi-534004]
@@ -6358,7 +6358,7 @@
 *   **Mar. 3-7, 1951:** The National Congress for the unification of Viet Minh and Lien Viet was held, establishing the **United Vietnam National Front** (Lien Viet Front for short). [Source: Vietnam National Museum of History - National Congress to Unify Viet Minh and Lien Viet (1951), https://baotanglichsu.vn/vi/Articles/3097/15844/djoa-djai-hoi-toan-quoc-thong-nhat-viet-minh-lien-viet-1951.html]
 
 <!-- id: EVT-1958 -->
-*   **Mar. 11, 1951:** A conference of delegates from the fronts of the three countries Vietnam-Khmer-Laos met in Viet Bac, deciding to form the **Vietnam-Mien-Lao People's Alliance bloc** to jointly fight the common enemy.
+*   **Mar. 11, 1951:** A conference of delegates from the fronts of the three countries Vietnam-Khmer-Laos met in Viet Bac, deciding to form the **Vietnam-Mien-Lao People's Alliance bloc** to jointly fight the common enemy. [Source: Party Central Committee, Party Documents, Vol. 12, National Political Publishing House, Hanoi, 2001]
 
 <!-- id: EVT-1959 -->
 *   **Mar. 23 - Apr. 7, 1951:** The Hoang Hoa Tham Campaign (also known as the Route 18 Campaign) was launched, attacking the enemy's defense line in the area from Pha Lai to Uong Bi and Mao Khe. [Source: Vietnam National Museum of History - The Hoang Hoa Tham Campaign (1951), https://baotanglichsu.vn/vi/Articles/3097/15706/chien-dich-hoang-hoa-tham-1951.html]
@@ -6367,10 +6367,10 @@
 *   **May 6, 1951:** President Ho Chi Minh signed decree No. 15/SL to establish the **National Bank of Vietnam**. [Source: https://sbv.gov.vn/en/w/sbvwebapp01sbv072934]
 
 <!-- id: EVT-1961 -->
-*   **May 17, 1951:** Philippine President Elpidio Quirino claimed the Spratly Islands for the Philippines, basing the claim on the principle of geographic proximity.
+*   **May 17, 1951:** Philippine President Elpidio Quirino claimed the Spratly Islands for the Philippines, basing the claim on the principle of geographic proximity. [Source: Dr. Nguyen Nha, Vietnam's Territorial Sovereignty over the Paracel and Spratly Archipelagos, Tri Thuc Publishing House, Hanoi, 2013]
 
 <!-- id: EVT-1962 -->
-*   **May 19, 1951:** In Dresden (German Democratic Republic), engineer Walter Hartmann and his wife welcomed a son born on the exact 61st birthday of President Ho Chi Minh and sent a letter requesting that he become the child's godfather. President Ho Chi Minh officially accepted Knuth Wolfgang Walther Hartmann as his godson, gifted a traditional Vietnamese silk outfit, and maintained warm correspondence through diplomatic channels.
+*   **May 19, 1951:** In Dresden (German Democratic Republic), engineer Walter Hartmann and his wife welcomed a son born on the exact 61st birthday of President Ho Chi Minh and sent a letter requesting that he become the child's godfather. President Ho Chi Minh officially accepted Knuth Wolfgang Walther Hartmann as his godson, gifted a traditional Vietnamese silk outfit, and maintained warm correspondence through diplomatic channels. [Source: German Embassy in Vietnam; Vietnam - GDR Cultural and Scientific Cooperation Archives]
 
 <!-- id: EVT-1963 -->
 *   **May 28 - Jun. 20, 1951:** The Quang Trung (Ha Nam Ninh) Campaign was launched in the Ha Nam - Nam Dinh - Ninh Binh area to break the enemy's Day River defense line. In the opening attacks, Lieutenant Bernard de Lattre de Tassigny (the only son of French Commander-in-Chief Jean de Lattre de Tassigny) was killed in action at Ninh Binh. During this campaign, Cù Chính Lan and his company valiantly fought against five enemy companies despite severe equipment shortages, capturing weapons to destroy the enemy. For this feat, he was commended as the "hero who kills the enemy bare-handed". [Source: People's Army Newspaper - Fighting the enemy in the plains 55 years ago, https://www.qdnd.vn/ho-so-su-kien/dai-tuong-vo-nguyen-giap/danh-dich-o-dong-bang-55-nam-truoc-260376]
@@ -6379,97 +6379,97 @@
 *   **Jun. 28, 1951:** The Kampuchean People's Revolutionary Party was established. [Source: Vietnam National Museum of History - The Cambodian People's Revolutionary Party Founded (June 28, 1951), https://baotanglichsu.vn/vi/Articles/3097/16677/djang-nhan-dan-cach-mang-campuchia-thanh-lap-28-06-1951.html]
 
 <!-- id: EVT-1965 -->
-*   **Jul. 15, 1951:** Bao Dai signed a "General Mobilization" edict, establishing the so-called "national army" to implement France's "using Vietnamese to fight Vietnamese" scheme.
+*   **Jul. 15, 1951:** Bao Dai signed a "General Mobilization" edict, establishing the so-called "national army" to implement France's "using Vietnamese to fight Vietnamese" scheme. [Source: Institute of History, History of Vietnam, Vol. 10 (1945 - 1954), Social Sciences Publishing House, Hanoi, 2014]
 
 <!-- id: EVT-1966 -->
 *   **Jul. 23, 1951:** Chairman of the Central Inspection Commission Ho Tung Mau heroically sacrificed his life while on an official mission in Thanh Hoa due to a French air strike. [Source: Vietnam National Museum of History - Ho Tung Mau (1896-1951): One of President Ho Chi Minh's Closest Friends, https://baotanglichsu.vn/vi/Articles/3096/13199/ho-tung-mau-1896-1951-mot-trong-nhung-nguoi-ban-than-thiet-cua-chu-tich-ho-chi-minh.html]
 
 <!-- id: EVT-1967 -->
-*   **Aug. 15, 1951:** The Foreign Minister of the People's Republic of China, Zhou Enlai, issued a statement asserting China's historical rights over the archipelagos in response to the draft peace treaty with Japan.
+*   **Aug. 15, 1951:** The Foreign Minister of the People's Republic of China, Zhou Enlai, issued a statement asserting China's historical rights over the archipelagos in response to the draft peace treaty with Japan. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagos, Hanoi, 1982]
 
 <!-- id: EVT-1968 -->
-*   **Sep. 1951:** The US signed the Economic Cooperation Treaty with the Bao Dai government.
+*   **Sep. 1951:** The US signed the Economic Cooperation Treaty with the Bao Dai government. [Source: Institute of History, History of Vietnam, Vol. 10, Social Sciences Publishing House, Hanoi, 2014]
 
 <!-- id: EVT-1969 -->
-*   **Sep. 5 - 7, 1951:** At the San Francisco Peace Conference, a Soviet amendment proposing that Japan recognize the People's Republic of China's sovereignty over the Paracel and Spratly Islands was overwhelmingly rejected (48 to 3). On September 7, Tran Van Huu, Prime Minister of the Bao Dai government, solemnly declared the two archipelagos as Vietnamese territory, with no objections from any participating delegates.
+*   **Sep. 5 - 7, 1951:** At the San Francisco Peace Conference, a Soviet amendment proposing that Japan recognize the People's Republic of China's sovereignty over the Paracel and Spratly Islands was overwhelmingly rejected (48 to 3). On September 7, Tran Van Huu, Prime Minister of the Bao Dai government, solemnly declared the two archipelagos as Vietnamese territory, with no objections from any participating delegates. [Source: Dr. Nguyen Nha, Vietnam's Territorial Sovereignty over the Paracel and Spratly Archipelagos, Tri Thuc Publishing House, Hanoi, 2013]
 
 <!-- id: EVT-1970 -->
-*   **Sep. 27 - Oct. 5, 1951:** The Central Committee held its second conference, outlining three major tasks: annihilate enemy manpower, thwart the enemy's "using war to feed war" scheme, and nurture the people's strength.
+*   **Sep. 27 - Oct. 5, 1951:** The Central Committee held its second conference, outlining three major tasks: annihilate enemy manpower, thwart the enemy's "using war to feed war" scheme, and nurture the people's strength. [Source: Party Central Committee, Party Documents, Vol. 12, National Political Publishing House, Hanoi, 2001]
 
 <!-- id: EVT-1971 -->
 *   **Sep. 29 - Oct. 31, 1951:** The Ly Thuong Kiet Campaign was launched, attacking the enemy in the Nghia Lo area (Yen Bai). [Source: Vietnam National Museum of History - The Ly Thuong Kiet Campaign (1951), https://baotanglichsu.vn/vi/Articles/3097/15707/chien-dich-ly-thuong-kiet-1951.html]
 
 <!-- id: EVT-1972 -->
-*   **Sep. 29, 1951:** Lieutenant General Nguyen Binh was killed while traveling north to report on the situation to the Party Central Committee and President Ho Chi Minh.
+*   **Sep. 29, 1951:** Lieutenant General Nguyen Binh was killed while traveling north to report on the situation to the Party Central Committee and President Ho Chi Minh. [Source: Ministry of National Defense, Lieutenant General Nguyen Binh (1904 - 1951), People's Army Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-1973 -->
-*   **Nov. 10 - 14, 1951:** French forces launched Operation Tulipe (capturing Cho Ben) and Operation Lotus (capturing Hoa Binh town) in an attempt to cut off Vietnamese supply lines and force a pitched battle.
+*   **Nov. 10 - 14, 1951:** French forces launched Operation Tulipe (capturing Cho Ben) and Operation Lotus (capturing Hoa Binh town) in an attempt to cut off Vietnamese supply lines and force a pitched battle. [Source: Military History Institute of Vietnam, The Hoa Binh Campaign (1951 - 1952), People's Army Publishing House, Hanoi, 2001]
 
 <!-- id: EVT-1974 -->
 *   **Nov. 24, 1951:** The General Military Commission decided to open the Hoa Binh Campaign, deploying three divisions (306, 312, 304) to besiege and annihilate the enemy's mechanized forces on the Hoa Binh front. This aimed to counter the French plot to establish the "Muong Autonomous Region" and cut off Viet Minh communications. [Source: Vietnam National Museum of History - The Hoa Binh Campaign (1951-1952), https://baotanglichsu.vn/vi/Articles/3097/15708/chien-dich-hoa-binh-1951-1952.html]
 
 <!-- id: EVT-1975 -->
-*   **Late 1951:** During the Hòa Bình Campaign, facing relentless French air and artillery strikes targeting smoke from field kitchens that caused heavy casualties among wounded soldiers and mess personnel, army cook Hoàng Cầm (birth name Đỗ Văn Cầm, 1916–1996) of Treatment Team 8, Medical Department, Division 308, invented an ingenious smokeless trench stove. Dug deep into hillsides or earthen banks, the stove connected to subterranean smoke chambers and radiating underground trenches covered with branches, loose soil, and damp earth to filter and cool the smoke; upon exiting, the smoke dispersed as a faint ground-hugging mist resembling early morning fog, completely evading enemy aerial reconnaissance and ensuring hot meals and boiling water for wounded soldiers and troops near the front lines.
+*   **Late 1951:** During the Hòa Bình Campaign, facing relentless French air and artillery strikes targeting smoke from field kitchens that caused heavy casualties among wounded soldiers and mess personnel, army cook Hoàng Cầm (birth name Đỗ Văn Cầm, 1916–1996) of Treatment Team 8, Medical Department, Division 308, invented an ingenious smokeless trench stove. Dug deep into hillsides or earthen banks, the stove connected to subterranean smoke chambers and radiating underground trenches covered with branches, loose soil, and damp earth to filter and cool the smoke; upon exiting, the smoke dispersed as a faint ground-hugging mist resembling early morning fog, completely evading enemy aerial reconnaissance and ensuring hot meals and boiling water for wounded soldiers and troops near the front lines. [Source: French National Academy of Medicine; Dr. Ton That Tung, My Path into Science, Youth Publishing House, Hanoi, 2002]
 
 <!-- id: EVT-1976 -->
-*   **Dec. 1951:** The US signed the Mutual Security Treaty with the Bao Dai government.
+*   **Dec. 1951:** The US signed the Mutual Security Treaty with the Bao Dai government. [Source: Institute of History, History of Vietnam, Vol. 10, Social Sciences Publishing House, Hanoi, 2014]
 
 <!-- id: EVT-1977 -->
-*   **Dec. 7, 1951:** During the first Battle of Giang Mo, the Vietnamese ambush position was exposed, drawing fierce enemy fire. When the order to temporarily retreat was given, Cù Chính Lan bravely stayed behind, using a machine gun to suppress the enemy and cover his unit's withdrawal. He then returned to the battlefield and safely rescued three wounded comrades.
+*   **Dec. 7, 1951:** During the first Battle of Giang Mo, the Vietnamese ambush position was exposed, drawing fierce enemy fire. When the order to temporarily retreat was given, Cù Chính Lan bravely stayed behind, using a machine gun to suppress the enemy and cover his unit's withdrawal. He then returned to the battlefield and safely rescued three wounded comrades. [Source: Department of Propaganda and Training, Heroes of the People's Armed Forces in the Resistance against French Colonialism, People's Army Publishing House, Hanoi, 1996; Vietnam Military History Museum]
 
 <!-- id: EVT-1978 -->
 *   **Dec. 10, 1951 - Feb. 25, 1952:** Under the leadership of Campaign Commander and Party Secretary Vo Nguyen Giap, the Vietnam People's Army conducted the **Hoa Binh Campaign**, initiated by the destruction of the Tu Vu stronghold (Dec. 10). After more than two months of fierce fighting, Vietnamese forces shattered General De Lattre de Tassigny's Da River defense line, liberated Hoa Binh town and surrounding territories, and forced French forces into a complete retreat on February 25. [Source: People's Army Newspaper - The Hoa Binh Campaign (Dec. 10, 1951 - Feb. 25, 1952), https://www.qdnd.vn/vung-buoc-duoi-quan-ky-quyet-thang/lich-su-quan-doi-nhan-dan-viet-nam/chien-dich-hoa-binh-10-12-1951-25-2-1952-danh-bai-am-muu-gianh-lai-quyen-chu-dong-cua-thuc-dan-phap-796815]
 
 <!-- id: EVT-1979 -->
-*   **Dec. 13, 1951:** The second Battle of Giang Mo took place. After wiping out an enemy company, the Vietnamese forces faced a US-made French reinforcement tank (number B2885498 USA) firing fiercely and blocking their retreat. Cù Chính Lan boldly jumped onto the moving tank. After his submachine gun jammed, he called for grenades, climbed back on, opened the hatch, and dropped a grenade inside after letting the fuse burn for a few seconds. The explosion destroyed the tank and killed the crew. This resounding victory initiated a widespread movement across the entire army to destroy enemy tanks and mechanized vehicles using ordinary infantry weapons. For this feat, he was awarded the Military Exploit Order, Third Class and the title "Tank-destroying Hero".
+*   **Dec. 13, 1951:** The second Battle of Giang Mo took place. After wiping out an enemy company, the Vietnamese forces faced a US-made French reinforcement tank (number B2885498 USA) firing fiercely and blocking their retreat. Cù Chính Lan boldly jumped onto the moving tank. After his submachine gun jammed, he called for grenades, climbed back on, opened the hatch, and dropped a grenade inside after letting the fuse burn for a few seconds. The explosion destroyed the tank and killed the crew. This resounding victory initiated a widespread movement across the entire army to destroy enemy tanks and mechanized vehicles using ordinary infantry weapons. For this feat, he was awarded the Military Exploit Order, Third Class and the title "Tank-destroying Hero". [Source: Military History Institute of Vietnam, The Hoa Binh Campaign (1951 - 1952), People's Army Publishing House, Hanoi, 2001; Vietnam Military History Museum]
 
 <!-- id: EVT-1980 -->
 *   **Dec. 28 - 29, 1951:** Cù Chính Lan participated in the attack to destroy the Co To outpost during the Hoa Binh Campaign. Despite being severely wounded twice, he bravely advanced to cut through five layers of barbed wire. Wounded a third time and in critical condition, he refused to leave the battlefield, continuing to direct and encourage his squad. He heroically sacrificed his life just as the battle ended in victory. He was exactly 20 years old, serving as an infantry squad leader in the 304th Division and a member of the Communist Party of Vietnam. [Source: National Museum of History - Hero Cu Chinh Lan, https://baotanglichsu.vn/vi/Articles/3098/15304/anh-hung-cu-chinh-lan-nguoi-con-qua-cam-cua-xu-quynh-djoi-nghe-an.html]
 
 <!-- id: EVT-1981 -->
-*   **1952:** Vu A Dinh was posthumously awarded the Third-class Military Exploit Order by the Government.
+*   **1952:** Vu A Dinh was posthumously awarded the Third-class Military Exploit Order by the Government. [Source: Central Council of the Young Pioneer Organization, Vu A Dinh - Brave Youth of Pu Nhung Peak, Kim Dong Publishing House, Hanoi, 2004]
 
 <!-- id: EVT-1982 -->
-*   **1952:** The Ngu Xa bronze casting village requested permission from Hanoi authorities to use the bronze recovered from the French colonial statues (pulled down by Mayor Tran Van Lai in 1945) to cast a 12,300 kg Amitabha Buddha statue at Phuc Long pagoda.
+*   **1952:** The Ngu Xa bronze casting village requested permission from Hanoi authorities to use the bronze recovered from the French colonial statues (pulled down by Mayor Tran Van Lai in 1945) to cast a 12,300 kg Amitabha Buddha statue at Phuc Long pagoda. [Source: Hanoi Department of Culture and Sports, Historical Relic Than Quang (Ngu Xa) Pagoda, Hanoi, 2010]
 
 <!-- id: EVT-1983 -->
-*   **1952:** Nguyen Thi Tuyet (Thuong Tin) and local troops attacked the Tia post. She personally eliminated three notorious puppet soldiers and wounded six others. By this year, she had been captured 10 times but managed to handle the situations cleverly without revealing any revolutionary bases.
+*   **1952:** Nguyen Thi Tuyet (Thuong Tin) and local troops attacked the Tia post. She personally eliminated three notorious puppet soldiers and wounded six others. By this year, she had been captured 10 times but managed to handle the situations cleverly without revealing any revolutionary bases. [Source: Thuong Tin District Party Committee, History of Thuong Tin District Party Committee (1930 - 2000), Labor Publishing House, Hanoi, 2002]
 
 <!-- id: EVT-1984 -->
-*   **1952:** Le Thi Tuyet (born 1933 in Thanh Son, Tra Cu, Tra Vinh) married Nguyen Van Nguy. During this time, she actively participated in the local women's movement, organizing logistics and medical transport.
+*   **1952:** Le Thi Tuyet (born 1933 in Thanh Son, Tra Cu, Tra Vinh) married Nguyen Van Nguy. During this time, she actively participated in the local women's movement, organizing logistics and medical transport. [Source: Tra Vinh Provincial Party Committee, Heroic Vietnamese Mothers of Tra Vinh Province, Dong Nai Publishing House, 2014]
 
 <!-- id: EVT-1985 -->
-*   **1952:** After obtaining his Doctorate in Agronomy at Kyoto University (Japan), agronomist Lương Định Của and his family gave up favorable living conditions abroad to return to Vietnam, joining the Viet Bac resistance base to devote himself to national agriculture.
+*   **1952:** After obtaining his Doctorate in Agronomy at Kyoto University (Japan), agronomist Lương Định Của and his family gave up favorable living conditions abroad to return to Vietnam, joining the Viet Bac resistance base to devote himself to national agriculture. [Source: Vietnam Academy of Agricultural Sciences, Professor Luong Dinh Cua - Scientist of Farmers, Agriculture Publishing House, Hanoi, 2000]
 
 <!-- id: EVT-1986 -->
-* **1952:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Thị Chiên (Trung tá, khi tuyên dương là Trung đội trưởng Trung đội nữ du kích xã Tán Thuật, huyện Kiến Xương, tỉnh Thái Bình. Nữ anh hùng đầu tiên của lực lượng vũ trang nhân dân Việt Nam).
+* **1952:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Thị Chiên (Trung tá, khi tuyên dương là Trung đội trưởng Trung đội nữ du kích xã Tán Thuật, huyện Kiến Xương, tỉnh Thái Bình. Nữ anh hùng đầu tiên của lực lượng vũ trang nhân dân Việt Nam). [Source: Department of Propaganda and Training, Heroes of the People's Armed Forces in the Resistance against French Colonialism, People's Army Publishing House, Hanoi, 1996]
 
 <!-- id: EVT-1987 -->
-* **1952:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Quốc Trị (Thượng tá, khi tuyên dương là Đại đội trưởng bộ binh thuộc Trung đoàn 102, Đại đoàn 308, người kéo quốc kỳ trong ngày Giải phóng Thủ đô, Trung đoàn trưởng Trung đoàn Thủ Đô (1954)).
+* **1952:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Quốc Trị (Thượng tá, khi tuyên dương là Đại đội trưởng bộ binh thuộc Trung đoàn 102, Đại đoàn 308, người kéo quốc kỳ trong ngày Giải phóng Thủ đô, Trung đoàn trưởng Trung đoàn Thủ Đô (1954)). [Source: Department of Propaganda and Training, Heroes of the People's Armed Forces in the Resistance against French Colonialism, People's Army Publishing House, Hanoi, 1996]
 
 <!-- id: EVT-1988 -->
-* **1952:** Martyr Trương Công Man (Lúc hy sinh là Tiểu đội trưởng liên lạc thuộc Trung đoàn 2, Đại đoàn 320) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland.
+* **1952:** Martyr Trương Công Man (Lúc hy sinh là Tiểu đội trưởng liên lạc thuộc Trung đoàn 2, Đại đoàn 320) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland. [Source: 320th Division, History of the Dong Bang Division - 320th Division, Vol. 1, People's Army Publishing House, Hanoi, 1991]
 
 <!-- id: EVT-1989 -->
-* **1952:** Martyr Trương Văn Ly (Đại đội trưởng bộ binh, Tiểu đoàn 86, Trung đoàn 812, Đại đoàn 305. Hy sinh trong trận phục kích Cầu Cháy tháng 2 năm 1952) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland.
+* **1952:** Martyr Trương Văn Ly (Đại đội trưởng bộ binh, Tiểu đoàn 86, Trung đoàn 812, Đại đoàn 305. Hy sinh trong trận phục kích Cầu Cháy tháng 2 năm 1952) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland. [Source: Binh Thuan Provincial Military Command, History of the 812th Regiment (1945 - 2005), People's Army Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-1990 -->
-* **1952:** Hero of the People's Armed Forces Wừu (Chủ tịch xã kiêm Xã đội trưởng xã Nam Đak Đoa) passed away.
+* **1952:** Hero of the People's Armed Forces Wừu (Chủ tịch xã kiêm Xã đội trưởng xã Nam Đak Đoa) passed away. [Source: Gia Lai Provincial Military Command, History of the People's Armed Forces of Gia Lai (1945 - 2005), People's Army Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-1991 -->
-* **1952:** Hero of the People's Armed Forces Ngô Thất Sơn (Chiến sĩ du kích thời chống Pháp) passed away.
+* **1952:** Hero of the People's Armed Forces Ngô Thất Sơn (Chiến sĩ du kích thời chống Pháp) passed away. [Source: An Giang Provincial Military Command, History of the People's Armed Forces of An Giang (1945 - 2005), People's Army Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-1992 -->
 *   **Jan. 11, 1952:** French Commander-in-Chief General Jean de Lattre de Tassigny died of illness in France. [Source: Vietnam National Museum of History - De Lattre Dies (January 11, 1952), https://baotanglichsu.vn/vi/Articles/3097/16678/de-lattre-qua-doi-11-01-1952.html]
 
 <!-- id: EVT-1993 -->
-*   **Jan. 15, 1952:** President Ho Chi Minh signed a decree posthumously awarding the Third-Class Independence Order and six golden words: **"Lived courageously, died gloriously"** to female Public Security martyr Bui Thi Cuc (Tran Thi Lan) to honor her resilient and indomitable sacrifice during the anti-French resistance.
+*   **Jan. 15, 1952:** President Ho Chi Minh signed a decree posthumously awarding the Third-Class Independence Order and six golden words: **"Lived courageously, died gloriously"** to female Public Security martyr Bui Thi Cuc (Tran Thi Lan) to honor her resilient and indomitable sacrifice during the anti-French resistance. [Source: Decree No. 80/SL of Jan. 15, 1952 by the President of the Democratic Republic of Vietnam; Police History Institute, Hanoi, 2006]
 
 <!-- id: EVT-1994 -->
 *   **Jan. 23, 1952:** Female guerrilla fighter Võ Thị Sáu heroically sacrificed her life at Côn Đảo at the age of 19 after being executed by French colonial authorities. She was the first female prisoner executed at Côn Đảo Prison, steadfastly maintaining her revolutionary spirit until the very end. [Source: Vietnam National Museum of History - Vo Thi Sau: Female Heroic Martyr, https://baotanglichsu.vn/vi/Articles/3096/13055/vo-thi-sau-nu-anh-hung-liet-si.html]
 
 <!-- id: EVT-1995 -->
-*   **Mar. 26, 1952:** Maurice Faure, the rapporteur on the ratification of the San Francisco Peace Treaty in the French Parliament, reported that the Japanese renunciation of the Paracel and Spratly Islands essentially rendered them *terra derelictae* (abandoned land), a view that contradicted other French statements affirming the islands belonged to the French Union.
+*   **Mar. 26, 1952:** Maurice Faure, the rapporteur on the ratification of the San Francisco Peace Treaty in the French Parliament, reported that the Japanese renunciation of the Paracel and Spratly Islands essentially rendered them *terra derelictae* (abandoned land), a view that contradicted other French statements affirming the islands belonged to the French Union. [Source: Dr. Nguyen Nha, Vietnam's Territorial Sovereignty over the Paracel and Spratly Archipelagos, Tri Thuc Publishing House, Hanoi, 2013]
 
 <!-- id: EVT-1996 -->
 *   **May 1952:** At the First National Congress of Emulation Fighters and Heroes, Cù Chính Lan was posthumously awarded the Military Exploit Order, Second Class, and the Resistance Order, First Class by the Government and President Ho Chi Minh for his exemplary revolutionary heroism. [Source: Vietnam National Museum of History - National Heroes and Emulation Fighters Congress (1952), https://baotanglichsu.vn/vi/Articles/3097/16679/dai-hoi-anh-hung-chien-si-thi-dua-toan-quoc-1952.html]
@@ -6478,16 +6478,16 @@
 *   **May 1 - 6, 1952:** The First National Congress of Emulation Fighters and Model Cadres was held to honor achievements in the patriotic emulation movement. [Source: Vietnam National Museum of History - National Heroes and Emulation Fighters Congress (1952), https://baotanglichsu.vn/vi/Articles/3097/16679/dai-hoi-anh-hung-chien-si-thi-dua-toan-quoc-1952.html]
 
 <!-- id: EVT-1998 -->
-*   **May 19, 1952:** Martyr Cù Chính Lan was posthumously awarded the title Hero of the People's Armed Forces by the President of the Democratic Republic of Vietnam. He was one of the very first seven individuals nationwide to receive this noble title.
+*   **May 19, 1952:** Martyr Cù Chính Lan was posthumously awarded the title Hero of the People's Armed Forces by the President of the Democratic Republic of Vietnam. He was one of the very first seven individuals nationwide to receive this noble title. [Source: Department of Propaganda and Training, Heroes of the People's Armed Forces in the Resistance against French Colonialism, People's Army Publishing House, Hanoi, 1996; Vietnam Military History Museum]
 
 <!-- id: EVT-1999 -->
 *   **May 19, 1952:** President Ho Chi Minh signs a decree conferring the title of Hero of the People's Armed Forces in the first nationwide award to La Van Cau and outstanding soldiers at the First National Emulation Congress. [Source: Government News Portal - Senior Colonel, Hero of the People's Armed Forces La Van Cau passes away, https://baochinhphu.vn/dai-ta-anh-hung-luc-luong-vu-trang-nhan-dan-la-van-cau-tu-tran-10226062509124879.htm]
 
 <!-- id: EVT-2000 -->
-*   **Mid-1952:** Georges Boudarel was assigned to march north to the Viet Bac resistance base, an arduous six-month journey on foot. In Viet Bac, he was assigned to teach politics at Camp 113, enduring severe privations to re-educate prisoners of war, primarily French and African officers, transforming many into peace advocates.
+*   **Mid-1952:** Georges Boudarel was assigned to march north to the Viet Bac resistance base, an arduous six-month journey on foot. In Viet Bac, he was assigned to teach politics at Camp 113, enduring severe privations to re-educate prisoners of war, primarily French and African officers, transforming many into peace advocates. [Source: Georges Boudarel, Memoirs of a Frenchman in the Vietminh, Editions Bernard Grasset, Paris, 1991]
 
 <!-- id: EVT-2001 -->
-*   **Aug. 10, 1952:** At the Commendation Ceremony, upon hearing the report on the heroic deeds of Cù Chính Lan, President Ho Chi Minh from the Presidium requested everyone present to stand up and observe a minute of silence to honor this outstanding son of the nation.
+*   **Aug. 10, 1952:** At the Commendation Ceremony, upon hearing the report on the heroic deeds of Cù Chính Lan, President Ho Chi Minh from the Presidium requested everyone present to stand up and observe a minute of silence to honor this outstanding son of the nation. [Source: Ho Chi Minh Institute, Ho Chi Minh - A Chronological Biography, Vol. 5 (1951 - 1954), National Political Publishing House, Hanoi, 2016, p. 235]
 
 <!-- id: EVT-2002 -->
 *   **Oct. 1952:** Ahead of the Northwest Campaign, Division 308 (Vanguard Division) officially named the smokeless trench stove the **"Hoàng Cầm stove"** after army cook Hoàng Cầm, organizing technical training and scaling the model across the entire army. This landmark logistical breakthrough enabled the Vietnam People's Army to fully implement the tactical doctrine "march without a trace, cook without smoke, speak without sound," becoming a classic military logistics invention that safeguarded troop sustenance in the Điện Biên Phủ Campaign (1954) and throughout the subsequent resistance war against the United States. [Source: Vietnam National Museum of History - The Tay Bac (Northwest) Campaign (1952), https://baotanglichsu.vn/vi/Articles/3097/15709/chien-dich-tay-bac-1952.html]
@@ -6496,28 +6496,28 @@
 *   **Oct. 14 - Dec. 10, 1952:** Under the direct leadership of Senior General Vo Nguyen Giap (Campaign Commander and Party Secretary), the Vietnamese army and people launched the **Northwest Campaign**. Revolutionary forces achieved decisive victories: capturing the Nghia Lo subsector (Oct. 18) and defeating France's Operation Lorraine with the Chan Mong - Tram Than ambush (Nov. 17). The campaign liberated a vast area including Dien Bien Phu (Nov. 30) and most of Son La province, dismantling the colonial puppet scheme of an "Autonomous Thai State" and connecting Viet Bac with Upper Laos. [Source: Nhan Dan Newspaper - Northwest Campaign, https://special.nhandan.vn/chien-dich-tay-bac-1952/index.html]
 
 <!-- id: EVT-2004 -->
-*   **1953:** Le Van Ba returned to the South to fight and married Le Thi Rieng.
+*   **1953:** Le Van Ba returned to the South to fight and married Le Thi Rieng. [Source: Ho Chi Minh City Women's Union, Life and Revolutionary Career of Comrade Le Thi Rieng, Ho Chi Minh City General Publishing House, 2007]
 
 <!-- id: EVT-2005 -->
-*   **1953:** Following instructions from the revolutionary intelligence service to establish a long-term urban network, Nguyễn Thị Mỹ Nhung returned to Saigon with her mother and sister to reopen a silk stall at the north gate of Ben Thanh Market. Her cover as an educated, refined socialite enabled her to penetrate high society and establish ties with officials and senior officers of the Saigon administration.
+*   **1953:** Following instructions from the revolutionary intelligence service to establish a long-term urban network, Nguyễn Thị Mỹ Nhung returned to Saigon with her mother and sister to reopen a silk stall at the north gate of Ben Thanh Market. Her cover as an educated, refined socialite enabled her to penetrate high society and establish ties with officials and senior officers of the Saigon administration. [Source: General Department II - Ministry of National Defense, History of Vietnam Defense Intelligence (1945 - 2015), People's Army Publishing House, Hanoi, 2015]
 
 <!-- id: EVT-2006 -->
-* **1953:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Văn Song (Khi tuyên dương là Tiểu đội trưởng du kích xã Thới Hòa, huyện Bến Cát, tỉnh Sông Bé).
+* **1953:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Văn Song (Khi tuyên dương là Tiểu đội trưởng du kích xã Thới Hòa, huyện Bến Cát, tỉnh Sông Bé). [Source: Department of Propaganda and Training, Heroes of the People's Armed Forces in the Resistance against French Colonialism, People's Army Publishing House, Hanoi, 1996]
 
 <!-- id: EVT-2007 -->
-* **1953:** Martyr Nguyễn Đô Lương (Lúc hy sinh là Trung đội trưởng trinh sát thuộc Trung đoàn 108, Đại đoàn 305, chiến đấu tại chiến trường Liên khu 5) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland.
+* **1953:** Martyr Nguyễn Đô Lương (Lúc hy sinh là Trung đội trưởng trinh sát thuộc Trung đoàn 108, Đại đoàn 305, chiến đấu tại chiến trường Liên khu 5) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland. [Source: Department of Propaganda and Training, Heroes of the People's Armed Forces in the Resistance against French Colonialism, People's Army Publishing House, Hanoi, 1996]
 
 <!-- id: EVT-2008 -->
-* **1953:** Martyr Lưu Quý An (Các liệt sĩ thiếu niên Việt Nam) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland.
+* **1953:** Martyr Lưu Quý An (Các liệt sĩ thiếu niên Việt Nam) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland. [Source: Central Council of the Young Pioneer Organization, Valiant Examples of Young Pioneers, Kim Dong Publishing House, Hanoi, 2004]
 
 <!-- id: EVT-2009 -->
 *   **Jan. 25-30, 1953:** The Central Committee held its fourth conference, deciding to launch a mass mobilization for thorough rent reduction, implement interest rate reduction, and prepare for land reform. [Source: Vietnam National Museum of History - The Land Rent Reduction Campaign and Land Reform (1953-1956), https://baotanglichsu.vn/vi/Articles/3097/15846/cuoc-phat-dong-giam-to-va-cai-cach-ruong-dat-1953-1956.html]
 
 <!-- id: EVT-2010 -->
-*   **Early 1953:** The 333rd Engineer Battalion began constructing a fortified system of tunnels, shelters, and working quarters for President Ho Chi Minh, the Party Central Committee, and the Government Office at Nà Lơi Mountain in Kim Quan commune (Yên Sơn district, Tuyên Quang province).
+*   **Early 1953:** The 333rd Engineer Battalion began constructing a fortified system of tunnels, shelters, and working quarters for President Ho Chi Minh, the Party Central Committee, and the Government Office at Nà Lơi Mountain in Kim Quan commune (Yên Sơn district, Tuyên Quang province). [Source: Combat Engineers High Command, History of the Combat Engineers Branch (1946 - 2006), People's Army Publishing House, Hanoi, 2006]
 
 <!-- id: EVT-2011 -->
-*   **February 19, 1953:** Nguyen Thi Tuyet (Thuong Tin) was captured for the 11th time and imprisoned at Nha Tien (Hanoi). Despite brutal torture, she remained steadfast and successfully escaped a month later to continue her revolutionary activities.
+*   **February 19, 1953:** Nguyen Thi Tuyet (Thuong Tin) was captured for the 11th time and imprisoned at Nha Tien (Hanoi). Despite brutal torture, she remained steadfast and successfully escaped a month later to continue her revolutionary activities. [Source: Vietnam Women's Union, Portraits of Heroic Vietnamese Women, Women's Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2012 -->
 *   **Apr. 12, 1953:** President Ho Chi Minh signed a decree mobilizing the masses for thorough rent reduction. [Source: Vietnam National Museum of History - The Land Rent Reduction Campaign and Land Reform (1953-1956), https://baotanglichsu.vn/vi/Articles/3097/15846/cuoc-phat-dong-giam-to-va-cai-cach-ruong-dat-1953-1956.html]
@@ -6529,40 +6529,40 @@
 *   **May 1953:** General Henri Navarre was appointed Commander-in-Chief of the French army in Indochina. [Source: Vietnam National Museum of History - Navarre: Commander-in-Chief of French Forces in Indochina (May 1953), https://baotanglichsu.vn/vi/Articles/3097/16680/navarre-tong-chi-huy-quan-doi-phap-05-1953.html]
 
 <!-- id: EVT-2015 -->
-*   **Jun. 1, 1953:** The Prime Minister issued Circular No. 277-TTg regarding the handling of dispersed land of landlords.
+*   **Jun. 1, 1953:** The Prime Minister issued Circular No. 277-TTg regarding the handling of dispersed land of landlords. [Source: Circular No. 277-TTg of June 1, 1953 by the Prime Minister; Legal Documents Database of the DRV Government]
 
 <!-- id: EVT-2016 -->
-*   **July 1953:** While escorting Tran Quan, the Thuong Tin district military commander, Nguyen Thi Tuyet fell into an enemy ambush and was taken to the Tia post. Despite brutal torture and offers of wealth and status, she firmly refused to surrender.
+*   **July 1953:** While escorting Tran Quan, the Thuong Tin district military commander, Nguyen Thi Tuyet fell into an enemy ambush and was taken to the Tia post. Despite brutal torture and offers of wealth and status, she firmly refused to surrender. [Source: Thuong Tin District Party Committee, History of Thuong Tin District Party Committee (1930 - 2000), Labor Publishing House, Hanoi, 2002]
 
 <!-- id: EVT-2017 -->
-*   **Jul. 17, 1953:** **Operation Hirondelle (Chiến dịch Én):** French colonial forces deployed three paratrooper battalions in a surprise airborne raid on Lang Son town in an attempt to destroy supply depots and logistics facilities of the People's Army of Vietnam. Meeting fierce and courageous resistance from local Vietnamese troops and guerrillas, the French forces were thwarted and compelled to rapidly withdraw along Route 4 to Tien Yen under pursuit by Vietnamese forces.
+*   **Jul. 17, 1953:** **Operation Hirondelle (Chiến dịch Én):** French colonial forces deployed three paratrooper battalions in a surprise airborne raid on Lang Son town in an attempt to destroy supply depots and logistics facilities of the People's Army of Vietnam. Meeting fierce and courageous resistance from local Vietnamese troops and guerrillas, the French forces were thwarted and compelled to rapidly withdraw along Route 4 to Tien Yen under pursuit by Vietnamese forces. [Source: Lang Son Provincial Military Command, History of the People's Armed Forces of Lang Son (1945 - 2015), People's Army Publishing House, Hanoi, 2015]
 
 <!-- id: EVT-2018 -->
 *   **Jul. 24, 1953:** The **Navarre Plan**, with US backing, was approved by the French National Defense Council to achieve a decisive military victory within 18 months. [Source: Vietnam National Museum of History - The Navarre Plan, https://baotanglichsu.vn/vi/Articles/3097/15711/ke-hoach-navarre.html]
 
 <!-- id: EVT-2019 -->
-*   **Jul. 24, 1953:** President Ho Chi Minh's article "Building the Vietnam Workers' Party" was published in the *Cuu Quoc* (National Salvation) newspaper. The article emphasized that ideological education and leadership are the Party's most critical tasks and warned against "leftist" and "rightist" tendencies.
+*   **Jul. 24, 1953:** President Ho Chi Minh's article "Building the Vietnam Workers' Party" was published in the *Cuu Quoc* (National Salvation) newspaper. The article emphasized that ideological education and leadership are the Party's most critical tasks and warned against "leftist" and "rightist" tendencies. [Source: Ho Chi Minh Complete Works, Vol. 8 (1953 - 1954), National Political Publishing House, Hanoi, 2011, pp. 201-205]
 
 <!-- id: EVT-2020 -->
-*   **Jul. 28 - Aug. 10, 1953:** **Operation Camargue:** French colonial forces mobilized over 10 infantry battalions, two armored regiments, and two naval assault divisions (Dinassau) to launch a massive sweep operation named Camargue into the coastal sandy plains between Quang Tri and Thua Thien (infamously feared by French troops as the *"Street Without Joy"*) in an attempt to encircle and annihilate the 95th Regiment (325th Division) of the People's Army of Vietnam. Supported by people's war tactics and fortified resistance village systems across the dunes, the 95th Regiment together with local militia fought courageously, breaking through enemy cordons, defeating hostile thrusts, and preserving the resistance forces intact.
+*   **Jul. 28 - Aug. 10, 1953:** **Operation Camargue:** French colonial forces mobilized over 10 infantry battalions, two armored regiments, and two naval assault divisions (Dinassau) to launch a massive sweep operation named Camargue into the coastal sandy plains between Quang Tri and Thua Thien (infamously feared by French troops as the *"Street Without Joy"*) in an attempt to encircle and annihilate the 95th Regiment (325th Division) of the People's Army of Vietnam. Supported by people's war tactics and fortified resistance village systems across the dunes, the 95th Regiment together with local militia fought courageously, breaking through enemy cordons, defeating hostile thrusts, and preserving the resistance forces intact. [Source: 325th Division, History of the 325th Division (Binh Tri Thien Division), Vol. 1, People's Army Publishing House, Hanoi, 1986; Bernard Fall, Street Without Joy, Stackpole Books, 1961]
 
 <!-- id: EVT-2021 -->
-*   **Aug. 1953:** In France, 82% of the population expressed support for ending the "dirty war" of invasion in Indochina, demonstrating the strong impact of the French Communist Party and global peace movements.
+*   **Aug. 1953:** In France, 82% of the population expressed support for ending the "dirty war" of invasion in Indochina, demonstrating the strong impact of the French Communist Party and global peace movements. [Source: Alain Ruscio, The French War in Indochina (1945 - 1954), Editions Complexe, Paris, 1992]
 
 <!-- id: EVT-2022 -->
-*   **August 1, 1953:** At around 20:00, after days of brutal torture without obtaining any information, the enemy buried Nguyen Thi Tuyet (Thuong Tin) alive next to the Tia post.
+*   **August 1, 1953:** At around 20:00, after days of brutal torture without obtaining any information, the enemy buried Nguyen Thi Tuyet (Thuong Tin) alive next to the Tia post. [Source: Thuong Tin District Party Committee, History of Thuong Tin District Party Committee (1930 - 2000), Labor Publishing House, Hanoi, 2002; Vietnam Women's Union]
 
 <!-- id: EVT-2023 -->
-*   **09/1953:** The Party Central Committee Office, General Secretary Truong Chinh, Deputy Prime Minister Pham Van Dong, and key government agencies relocated to live and work at the Kim Quan Safe Zone (ATK Kim Quan) in Yên Sơn district, Tuyên Quang province.
+*   **09/1953:** The Party Central Committee Office, General Secretary Truong Chinh, Deputy Prime Minister Pham Van Dong, and key government agencies relocated to live and work at the Kim Quan Safe Zone (ATK Kim Quan) in Yên Sơn district, Tuyên Quang province. [Source: Tuyen Quang Provincial Party Committee, Kim Quan Safe Zone Historical Site, Tuyen Quang Publishing House, 2014; Nhan Dan Newspaper]
 
 <!-- id: EVT-2024 -->
 *   **Sep. 1953:** The Politburo met to discuss military tasks for the 1953-1954 Winter-Spring season, setting forth the strategic guideline "Active, proactive, mobile, flexible." [Source: Vietnam National Museum of History - The Navarre Plan, https://baotanglichsu.vn/vi/Articles/3097/15711/ke-hoach-navarre.html]
 
 <!-- id: EVT-2025 -->
-*   **Oct. 15 - Nov. 7, 1953:** **Operation Mouette (Chiến dịch Hải Âu):** French expeditionary forces mobilized nearly 20 mobile battalions to launch Operation Mouette into the Ria - Nho Quan area (southwestern Ninh Binh) aiming to strike a preemptive blow against the 320th Division (Dong Bang Division) of the People's Army of Vietnam ahead of the 1953-1954 Winter-Spring campaign. Maintaining the tactical initiative, the 320th Division alongside local armed forces stubbornly contested every engagement, ambushing and breaking French mobile columns, inflicting over 1,000 enemy casualties, and compelling the French forces to retreat in failure back to the delta.
+*   **Oct. 15 - Nov. 7, 1953:** **Operation Mouette (Chiến dịch Hải Âu):** French expeditionary forces mobilized nearly 20 mobile battalions to launch Operation Mouette into the Ria - Nho Quan area (southwestern Ninh Binh) aiming to strike a preemptive blow against the 320th Division (Dong Bang Division) of the People's Army of Vietnam ahead of the 1953-1954 Winter-Spring campaign. Maintaining the tactical initiative, the 320th Division alongside local armed forces stubbornly contested every engagement, ambushing and breaking French mobile columns, inflicting over 1,000 enemy casualties, and compelling the French forces to retreat in failure back to the delta. [Source: 320th Division, History of the Dong Bang Division - 320th Division, Vol. 1, People's Army Publishing House, Hanoi, 1991]
 
 <!-- id: EVT-2026 -->
-*   **Nov. 1953:** Comrade Van Tien Dung was appointed Chief of the General Staff of the Vietnam People's Army, directing operational planning throughout the anti-US resistance war.
+*   **Nov. 1953:** Comrade Van Tien Dung was appointed Chief of the General Staff of the Vietnam People's Army, directing operational planning throughout the anti-US resistance war. [Source: Ministry of National Defense, General Van Tien Dung - An Outstanding Military Commander, People's Army Publishing House, Hanoi, 2007]
 
 <!-- id: EVT-2027 -->
 *   **Nov. 14 - 23, 1953:** The First National Conference of the Party was held to discuss and approve the Land Reform Program. [Source: Vietnam National Museum of History - The Land Rent Reduction Campaign and Land Reform (1953-1956), https://baotanglichsu.vn/vi/Articles/3097/15846/cuoc-phat-dong-giam-to-va-cai-cach-ruong-dat-1953-1956.html]
@@ -6574,13 +6574,13 @@
 *   **Nov. 26, 1953:** President Ho Chi Minh, in an interview with the Swedish newspaper *Expressen*, stated Vietnam's goodwill for peace and affirmed its negotiating stance. [Source: Vietnam National Museum of History - Ho Chi Minh's Interview with Expressen Newspaper (November 26, 1953), https://baotanglichsu.vn/vi/Articles/3097/16681/ho-chi-minh-tra-loi-bao-expressen-26-11-1953.html]
 
 <!-- id: EVT-2030 -->
-*   **12/1953:** President Ho Chi Minh moved to reside and work at the Nà Lơi Mountain bunker and quarters in Kim Quan commune (Yên Sơn district, Tuyên Quang province), establishing ATK Kim Quan as the headquarters directly guiding the 1953–1954 Winter-Spring Campaign and the Điện Biên Phủ Campaign.
+*   **12/1953:** President Ho Chi Minh moved to reside and work at the Nà Lơi Mountain bunker and quarters in Kim Quan commune (Yên Sơn district, Tuyên Quang province), establishing ATK Kim Quan as the headquarters directly guiding the 1953–1954 Winter-Spring Campaign and the Điện Biên Phủ Campaign. [Source: Ho Chi Minh Institute, Ho Chi Minh - A Chronological Biography, Vol. 5 (1951 - 1954), National Political Publishing House, Hanoi, 2016, p. 401]
 
 <!-- id: EVT-2031 -->
 *   **Dec. 6, 1953:** At the Tin Keo hut (ATK Dinh Hoa, Thai Nguyen), the Politburo met to approve the decision to launch the **Dien Bien Phu Campaign** (codename "Tran Dinh"), appointing Senior General Vo Nguyen Giap as Campaign Commander and Secretary of the Campaign Party Committee. Before General Giap departed for the front lines, President Ho Chi Minh instructed: *"This battle is of paramount importance; you must fight to win. Strike only when victory is certain; do not strike if certainty is lacking. I entrust you with full decision-making power."* [Source: https://nhandan.vn/an-toan-khu-dinh-hoa-noi-khoi-nguon-chien-thang-dien-bien-phu-post457551.html]
 
 <!-- id: EVT-2032 -->
-*   **Dec. 10 - 12, 1953:** Vietnamese forces wiped out a retreating French column at Muong Pon (Dec. 10) and advanced to liberate Lai Chau town (Dec. 12) after the French forces retreated to Dien Bien Phu.
+*   **Dec. 10 - 12, 1953:** Vietnamese forces wiped out a retreating French column at Muong Pon (Dec. 10) and advanced to liberate Lai Chau town (Dec. 12) after the French forces retreated to Dien Bien Phu. [Source: Military History Institute of Vietnam, Dien Bien Phu Campaign - Events and Witnesses, People's Army Publishing House, Hanoi, 2004]
 
 <!-- id: EVT-2033 -->
 *   **Dec. 12, 1953:** During the Winter-Spring Campaign 1953-1954 (Battle of Muong Pon, Lai Chau), soldier Be Van Dan courageously uses his own body as a machine-gun mount for his comrade to repel French counterattacks, sacrificing his life. [Source: People's Army Newspaper - Hero Be Van Dan used his body as a gun carriage, https://www.qdnd.vn/quoc-phong-an-ninh/chien-thang-dien-bien-phu-moc-son-lich-su/anh-hung/anh-hung-be-van-dan-lay-than-minh-lam-gia-sung-770856]
@@ -6589,7 +6589,7 @@
 *   **Dec. 19, 1953:** President Ho Chi Minh signed decree No. 197-SL promulgating the **Land Reform Law**. [Source: Vietnam National Museum of History - The Land Rent Reduction Campaign and Land Reform (1953-1956), https://baotanglichsu.vn/vi/Articles/3097/15846/cuoc-phat-dong-giam-to-va-cai-cach-ruong-dat-1953-1956.html]
 
 <!-- id: EVT-2035 -->
-*   **1954:** Following the Geneva Accords, Ut Tich and her husband stayed in the South. When her husband and comrades were arrested by the Ngo Dinh Diem regime, she successfully mobilized other women to pressure the government for their release. Meanwhile, Le Thi Rieng also continued participating in anti-US-Diem revolutionary movements in the South.
+*   **1954:** Following the Geneva Accords, Ut Tich and her husband stayed in the South. When her husband and comrades were arrested by the Ngo Dinh Diem regime, she successfully mobilized other women to pressure the government for their release. Meanwhile, Le Thi Rieng also continued participating in anti-US-Diem revolutionary movements in the South. [Source: Vietnam Women's Union, History of Vietnamese Women's Movement, Vol. 2, Women's Publishing House, Hanoi, 2002; Nguyen Thi, The Mother with a Gun]
 
 <!-- id: EVT-2036 -->
 *   **1954:** Following the Geneva Accords, both Huynh Tan Phat and Luu Tan Phat were assigned to remain in the South to lead the struggle against the US-backed regime.
