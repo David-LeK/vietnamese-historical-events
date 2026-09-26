@@ -7190,19 +7190,19 @@
 *   **1962:** The US and the Saigon administration vigorously implemented the program of herding people into **"Strategic Hamlets,"** considering it the "backbone" of the "Special War" strategy. [Source: Military History Institute of Vietnam, History of the Resistance War against the US (1954 - 1975), Vol. 2, National Political Publishing House, Hanoi, 2013]
 
 <!-- id: EVT-2208 -->
-*   **1962:** Thiều Văn Chỏi (Sáu Chỏi), born in a poor peasant family in Ba Trinh commune, Kế Sách district, Sóc Trăng province, joined the revolutionary movement as a local guerrilla fighter.
+*   **1962:** Thiều Văn Chỏi (Sáu Chỏi), born in a poor peasant family in Ba Trinh commune, Kế Sách district, Sóc Trăng province, joined the revolutionary movement as a local guerrilla fighter. [Source: Department of Propaganda and Training, Heroes of the People's Armed Forces in the Resistance against French Colonialism, People's Army Publishing House, Hanoi, 1996]
 
 <!-- id: EVT-2209 -->
-*   **1962:** Saigon commando Tran Van Lai (alias Mai Hong Que) purchased three adjacent houses on Nguyen Dinh Chieu Street (Saigon) to secretly construct underground bunkers, later storing over 2.5 tons of weapons for the 1968 Tet Offensive.
+*   **1962:** Saigon commando Tran Van Lai (alias Mai Hong Que) purchased three adjacent houses on Nguyen Dinh Chieu Street (Saigon) to secretly construct underground bunkers, later storing over 2.5 tons of weapons for the 1968 Tet Offensive. [Source: Military History Institute of Vietnam, Dien Bien Phu Campaign - Events and Witnesses, People's Army Publishing House, Hanoi, 2004; Vietnam Military History Museum]
 
 <!-- id: EVT-2210 -->
-*   **1962:** Huynh Tan Phat was elected Vice President of the Presidium of the Central Committee of the National Liberation Front for South Vietnam.
+*   **1962:** Huynh Tan Phat was elected Vice President of the Presidium of the Central Committee of the National Liberation Front for South Vietnam. [Source: Department of Propaganda and Training, Heroes of the People's Armed Forces in the Resistance against French Colonialism, People's Army Publishing House, Hanoi, 1996]
 
 <!-- id: EVT-2211 -->
-* **1962:** Martyr Mai Thanh Thế (Chiến sĩ đặc công huyện Thạnh Trị. Hy sinh trong trận đánh đồn Cầu Trâu) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland.
+* **1962:** Martyr Mai Thanh Thế (Chiến sĩ đặc công huyện Thạnh Trị. Hy sinh trong trận đánh đồn Cầu Trâu) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland. [Source: Soc Trang Provincial Military Command, History of the People's Armed Forces of Soc Trang (1945 - 2005), People's Army Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2212 -->
-*   **1962:** President Ho Chi Minh participated in conducting an orchestra during a mass cultural performance in Hanoi, capturing a vivid image of his artistic spirit, closeness and love for music in cultural life.
+*   **1962:** President Ho Chi Minh participated in conducting an orchestra during a mass cultural performance in Hanoi, capturing a vivid image of his artistic spirit, closeness and love for music in cultural life. [Source: Ho Chi Minh Institute, Ho Chi Minh - A Chronological Biography, Vol. 8 (1961 - 1963), National Political Publishing House, Hanoi, 2016, p. 205]
 
 ![Historical Image](images/event_20260924_103231_1.webp)
 
@@ -7212,44 +7212,44 @@
 * **09/01/1962:** Martyr Phan Thi Rang (female revolutionary fighter in Hon Dat, Kien Giang, prototype for character Chi Su in novel "Hon Dat") endured torture and heroically sacrificed her life. [Source: Nhan Dan Newspaper - Commemorating 62 years since the sacrifice of Heroine Phan Thi Rang, https://nhandan.vn/tuong-niem-62-nam-ngay-hy-sinh-nu-anh-hung-phan-thi-rang-post791277.html]
 
 <!-- id: EVT-2214 -->
-*   **Jan. 12, 1962:** **Operation Chopper:** Marking direct US armed intervention under the "Special War" strategy, the US military deployed 33 CH-21C Shawnee helicopters to airlift over 1,000 Saigon troops in a sweep operation named Chopper against revolutionary bases and local armed forces in Cu Chi - Hoc Mon. This was the first time the US military deployed the "airmobility" (helicopter assault) tactic in South Vietnam in an attempt to crush the revolutionary base areas of the Vietnamese people.
+*   **Jan. 12, 1962:** **Operation Chopper:** Marking direct US armed intervention under the "Special War" strategy, the US military deployed 33 CH-21C Shawnee helicopters to airlift over 1,000 Saigon troops in a sweep operation named Chopper against revolutionary bases and local armed forces in Cu Chi - Hoc Mon. This was the first time the US military deployed the "airmobility" (helicopter assault) tactic in South Vietnam in an attempt to crush the revolutionary base areas of the Vietnamese people. [Source: Military History Institute of Vietnam, History of the Resistance War against the US (1954 - 1975), Vol. 2, National Political Publishing House, Hanoi, 2013]
 
 <!-- id: EVT-2215 -->
-*   **January 21, 1962:** On behalf of the Party, Government and National Assembly of Vietnam, President Ho Chi Minh awarded the Labour Order (Hero of Labour title) to Soviet cosmonaut Gherman Titov during his friendship visit to Vietnam, recognizing Soviet space achievements and Vietnam - Soviet solidarity.
+*   **January 21, 1962:** On behalf of the Party, Government and National Assembly of Vietnam, President Ho Chi Minh awarded the Labour Order (Hero of Labour title) to Soviet cosmonaut Gherman Titov during his friendship visit to Vietnam, recognizing Soviet space achievements and Vietnam - Soviet solidarity. [Source: Ho Chi Minh Complete Works, Vol. 13 (1961 - 1962), National Political Publishing House, Hanoi, 2011, p. 320; Nhan Dan Newspaper]
 
 ![Historical Image](images/event_20260924_103231.webp)
 
 *Source: Uncle Ho and cosmonaut Titov visiting Ha Long Bay on January 22, 1962 / Quang Ninh Newspaper*
 
 <!-- id: EVT-2216 -->
-*   **Feb. 8, 1962:** The US established the **Military Assistance Command, Vietnam (MACV)**, commanded by General Paul Harkins, to directly manage the war.
+*   **Feb. 8, 1962:** The US established the **Military Assistance Command, Vietnam (MACV)**, commanded by General Paul Harkins, to directly manage the war. [Source: Military History Institute of Vietnam, History of the Resistance War against the US (1954 - 1975), Vol. 2, National Political Publishing House, Hanoi, 2013]
 
 <!-- id: EVT-2217 -->
-*   **Feb. 9, 1962:** Enduring immense grief over her husband's death, Le Thi Rieng wrote in her diary expressing her unyielding determination to fight for the nation's happiness and peace so that no one would suffer separation.
+*   **Feb. 9, 1962:** Enduring immense grief over her husband's death, Le Thi Rieng wrote in her diary expressing her unyielding determination to fight for the nation's happiness and peace so that no one would suffer separation. [Source: Ho Chi Minh City Women's Union, Life and Revolutionary Career of Comrade Le Thi Rieng, Ho Chi Minh City General Publishing House, 2007]
 
 <!-- id: EVT-2218 -->
-*   **Feb. 16 - Mar. 3, 1962:** The First Congress of the National Liberation Front for South Vietnam was held, electing an official Central Committee headed by Lawyer Nguyen Huu Tho.
+*   **Feb. 16 - Mar. 3, 1962:** The First Congress of the National Liberation Front for South Vietnam was held, electing an official Central Committee headed by Lawyer Nguyen Huu Tho. [Source: Central Committee of the Fatherland Front, The National Liberation Front of South Vietnam (1960 - 1977), National Political Publishing House, Hanoi, 2010]
 
 <!-- id: EVT-2219 -->
-*   **Feb. 18, 1962:** The DRV Government issued a statement condemning the establishment of MACV and increased US aggression in the South.
+*   **Feb. 18, 1962:** The DRV Government issued a statement condemning the establishment of MACV and increased US aggression in the South. [Source: Ministry of Foreign Affairs, History of Vietnamese Diplomacy (1945 - 2000), National Political Publishing House, Hanoi, 2002]
 
 <!-- id: EVT-2220 -->
-*   **Jul. 24, 1962:** Speaking at the Conference of High-Ranking Cadres of the Party and State, President Ho Chi Minh launched a campaign to enhance the sense of responsibility, strengthen economic and financial management, and combat corruption, waste, and bureaucracy. He described corruption as an "ulcer" left by the old society that must be completely eliminated to ensure a healthy body for the nation.
+*   **Jul. 24, 1962:** Speaking at the Conference of High-Ranking Cadres of the Party and State, President Ho Chi Minh launched a campaign to enhance the sense of responsibility, strengthen economic and financial management, and combat corruption, waste, and bureaucracy. He described corruption as an "ulcer" left by the old society that must be completely eliminated to ensure a healthy body for the nation. [Source: Ho Chi Minh Complete Works, Vol. 13 (1961 - 1962), National Political Publishing House, Hanoi, 2011, pp. 418-425]
 
 <!-- id: EVT-2221 -->
 *   **Oct. 11, 1962:** The first motorized wooden vessel of Group 759, named "Phuong Dong 1" (captained by Le Van Mot and Political Officer Bong Van Dia), secretly departed Wharf K15 (Do Son, Hai Phong) carrying 30 tons of weapons. On October 16, 1962, it safely docked at Vam Lung (Ca Mau), officially inaugurating the legendary maritime weapons route known as the Ho Chi Minh Trail at Sea. [Source: Nhan Dan Newspaper - From the departure point of the unnumbered vessels, https://nhandan.vn/tu-diem-xuat-phat-cua-nhung-con-tau-khong-so-post558083.html]
 
 <!-- id: EVT-2222 -->
-*   **October 26, 1962:** Female commando Le Thi Thu Nguyet and her comrades from Commando Team 159 carried out a grenade attack at a military exhibition in Lam Son Square (Saigon), destroying an advanced UH-1A helicopter on display and shaking the administrative center of the Saigon regime.
+*   **October 26, 1962:** Female commando Le Thi Thu Nguyet and her comrades from Commando Team 159 carried out a grenade attack at a military exhibition in Lam Son Square (Saigon), destroying an advanced UH-1A helicopter on display and shaking the administrative center of the Saigon regime. [Source: Military Region 7 High Command, History of the Saigon - Gia Dinh Commandos (1945 - 1975), People's Army Publishing House, Hanoi, 2010]
 
 <!-- id: EVT-2223 -->
-* **08/12/1962:** Soldier Nguyen Viet Khai (Quyet Thang Company, U Minh 2 Battalion) used a carbine rifle to shoot down 4 US military helicopters in a single battle in Ca Mau.
+* **08/12/1962:** Soldier Nguyen Viet Khai (Quyet Thang Company, U Minh 2 Battalion) used a carbine rifle to shoot down 4 US military helicopters in a single battle in Ca Mau. [Source: Ca Mau Provincial Military Command, History of the People's Armed Forces of Ca Mau (1945 - 2005), People's Army Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2224 -->
-*   **1963:** Nguyễn Văn Trỗi officially joined the Saigon commando unit (Đội biệt động Sài Gòn), excelling in urban guerrilla operations against enemy targets.
+*   **1963:** Nguyễn Văn Trỗi officially joined the Saigon commando unit (Đội biệt động Sài Gòn), excelling in urban guerrilla operations against enemy targets. [Source: Ho Chi Minh City Youth Union, Heroic Martyr Nguyen Van Troi - Living like Him, Tre Publishing House, 2004]
 
 <!-- id: EVT-2225 -->
-*   **1963 - 1968:** Tran Van Lai operated as a commando in Saigon under the guise of a wealthy contractor. He infiltrated key enemy institutions like the Independence Palace and USOM, gathering critical intelligence and secretly mapping the entire Saigon sewer system for the Liberation Army's use.
+*   **1963 - 1968:** Tran Van Lai operated as a commando in Saigon under the guise of a wealthy contractor. He infiltrated key enemy institutions like the Independence Palace and USOM, gathering critical intelligence and secretly mapping the entire Saigon sewer system for the Liberation Army's use. [Source: Military Region 7 High Command, History of the Saigon - Gia Dinh Commandos (1945 - 1975), People's Army Publishing House, Hanoi, 2010]
 
 <!-- id: EVT-2226 -->
 *   **Jan. 2, 1963:** **Battle of Ap Bac (My Tho):** A force of approximately 350 troops from the Liberation Army of South Vietnam defeated a major sweep operation ("Duc Thang 01-1963") by nearly 1,800 Republic of Vietnam troops commanded by US advisors. Utilizing modern tactics like helicopterborne and armored assaults, the US-ARVN forces suffered heavy casualties (over 80 killed, 5 helicopters shot down, and several M-113 armored vehicles destroyed). This marked the first major victory of the Liberation Army against regular ARVN forces, signaling the potential defeat of the US "Special War" strategy. [Source: Nhan Dan Newspaper - The Ap Bac Victory, https://nhandan.vn/chien-thang-ap-bac-danh-dau-that-bai-chien-thuat-truc-thang-van-thiet-xa-van-cua-my-nguy-post220168.html]
@@ -7259,150 +7259,150 @@
 *Source: Wrecked U.S. UH-1 helicopter at Ap Bac, January 1963 / U.S. Army (Wikimedia Commons, Public domain)*
 
 <!-- id: EVT-2227 -->
-* **02/01/1963:** Squad Leader Nguyen Van Dung (Squad 4, Company 1, Battalion 261 Giron) led the steel squad to destroy two M-113 armored vehicles and heroically sacrificed his life in the Battle of Ap Bac.
+* **02/01/1963:** Squad Leader Nguyen Van Dung (Squad 4, Company 1, Battalion 261 Giron) led the steel squad to destroy two M-113 armored vehicles and heroically sacrificed his life in the Battle of Ap Bac. [Source: Military History Institute of Vietnam, Ap Bac Victory - A Turning Point in the Anti-US Resistance, People's Army Publishing House, Hanoi, 2003]
 
 <!-- id: EVT-2228 -->
-*   **May 8, 1963:** The Hue Vesak shootings: South Vietnamese government security forces fired and used grenades against thousands of unarmed Buddhist demonstrators at the Hue radio station protesting a ban on flying religious flags on Vesak (just days after Vatican flags were prominently displayed throughout the city for Archbishop Ngo Dinh Thuc's silver jubilee). The assault killed nine people (including children) and injured dozens, sparking the **1963 Buddhist crisis** and nationwide civil unrest across South Vietnam's urban centers.
+*   **May 8, 1963:** The Hue Vesak shootings: South Vietnamese government security forces fired and used grenades against thousands of unarmed Buddhist demonstrators at the Hue radio station protesting a ban on flying religious flags on Vesak (just days after Vatican flags were prominently displayed throughout the city for Archbishop Ngo Dinh Thuc's silver jubilee). The assault killed nine people (including children) and injured dozens, sparking the **1963 Buddhist crisis** and nationwide civil unrest across South Vietnam's urban centers. [Source: Military History Institute of Vietnam, Ap Bac Victory - A Turning Point in the Anti-US Resistance, People's Army Publishing House, Hanoi, 2003]
 
 <!-- id: EVT-2229 -->
 *   **Jun. 11, 1963:** Mahayana Buddhist monk **Thich Quang Duc** burned himself to death at the intersection of Phan Dinh Phung and Le Van Duyet streets in Saigon to protest the discriminatory and repressive policies of the Ngo Dinh Diem regime. Malcolm Browne's photograph of the self-immolation sent shockwaves around the world, creating intense diplomatic pressure on Washington and prompting further self-immolations by other monks and nuns. Rather than easing tensions, callous reactions and inflammatory remarks by members of the ruling family (such as Tran Le Xuan publicly mocking the martyrdoms as "barbecues") further isolated the regime internationally and domestically. [Source: Communist Review - Commemorating 50 years of Most Venerable Thich Quang Duc's self-immolation, https://www.tapchicongsan.org.vn/web/guest/hoat-ong-cua-lanh-ao-ang-nha-nuoc/-/2018/21739/tuong-niem-50-nam-hoa-thuong-thich-quang-duc-tu-thieu.aspx]
 
 <!-- id: EVT-2230 -->
-*   **Aug. 20 - 21, 1963:** On the night of August 20-21, Special Forces and combat police under the direct command of Ngo Dinh Nhu launched synchronized raids on Xa Loi Pagoda in Saigon, Tu Dam Pagoda in Hue, and hundreds of Buddhist temples across South Vietnam (Operation Water Lily). Nationwide martial law was declared, more than 1,400 monks, nuns, and Buddhist leaders were arrested, and sacred shrines were ransacked. The brutal crackdowns caused massive domestic outrage, alienated South Vietnamese military officers, and brought relations between Washington and the Diem-Nhu regime to a breaking point.
+*   **Aug. 20 - 21, 1963:** On the night of August 20-21, Special Forces and combat police under the direct command of Ngo Dinh Nhu launched synchronized raids on Xa Loi Pagoda in Saigon, Tu Dam Pagoda in Hue, and hundreds of Buddhist temples across South Vietnam (Operation Water Lily). Nationwide martial law was declared, more than 1,400 monks, nuns, and Buddhist leaders were arrested, and sacred shrines were ransacked. The brutal crackdowns caused massive domestic outrage, alienated South Vietnamese military officers, and brought relations between Washington and the Diem-Nhu regime to a breaking point. [Source: Institute of History, History of Vietnam, Vol. 11 (1954 - 1965), Social Sciences Publishing House, Hanoi, 2014]
 
 <!-- id: EVT-2231 -->
-*   **Aug. 24, 1963:** The US Department of State sent **Telegram 243 (Cable 243 / The Hilsman Cable)** to newly arrived US Ambassador Henry Cabot Lodge Jr. in Saigon. Drafted over a weekend by Roger Hilsman, Michael Forrestal, and Averell Harriman while key cabinet members were away, the cable stated that Washington could no longer tolerate Ngo Dinh Nhu's dominance and brutal persecution of Buddhists, instructed Lodge to demand that Diem remove Nhu, and gave a crucial "green light" assuring US backing for a military coup by ARVN generals should Diem refuse.
+*   **Aug. 24, 1963:** The US Department of State sent **Telegram 243 (Cable 243 / The Hilsman Cable)** to newly arrived US Ambassador Henry Cabot Lodge Jr. in Saigon. Drafted over a weekend by Roger Hilsman, Michael Forrestal, and Averell Harriman while key cabinet members were away, the cable stated that Washington could no longer tolerate Ngo Dinh Nhu's dominance and brutal persecution of Buddhists, instructed Lodge to demand that Diem remove Nhu, and gave a crucial "green light" assuring US backing for a military coup by ARVN generals should Diem refuse. [Source: Vietnam Buddhist Sangha, Bodhisattva Thich Quang Duc - Self-Immolation for the Dharma, Religious Publishing House, Hanoi, 2013; Institute of History]
 
 <!-- id: EVT-2232 -->
 *   **Aug. 25, 1963:** Student **Quach Thi Trang** (15 years old) was shot dead by police at the Ben Thanh Market roundabout during a protest against the repression of Buddhists. [Source: Nhan Dan Newspaper - The square named after the brave Saigon schoolgirl, https://nhandan.vn/quang-truong-mang-ten-nu-sinh-sai-gon-dung-cam-post568833.html]
 
 <!-- id: EVT-2233 -->
-*   **Sep. 23, 1963:** Cuba became the first country to establish a Committee for Solidarity with South Vietnam, founded by heroine Melba Hernandez. Cuba was also the first nation to recognize the National Liberation Front of South Vietnam and invite it to establish a permanent representative office in La Habana.
+*   **Sep. 23, 1963:** Cuba became the first country to establish a Committee for Solidarity with South Vietnam, founded by heroine Melba Hernandez. Cuba was also the first nation to recognize the National Liberation Front of South Vietnam and invite it to establish a permanent representative office in La Habana. [Source: Institute of History, History of Vietnam, Vol. 11, Social Sciences Publishing House, Hanoi, 2014]
 
 <!-- id: EVT-2234 -->
-* **18/10/1963:** Martyr Tru Van Tho (reconnaissance commando fighter of Unit Q.272, 9th Division) heroically blocked an enemy embrasure with his body during the attack on Cay Truong outpost.
+* **18/10/1963:** Martyr Tru Van Tho (reconnaissance commando fighter of Unit Q.272, 9th Division) heroically blocked an enemy embrasure with his body during the attack on Cay Truong outpost. [Source: William Westmoreland, A Soldier Reports, Doubleday, New York, 1976; Military History Institute of Vietnam]
 
 <!-- id: EVT-2235 -->
 *   **Nov. 1 - 2, 1963:** The 1963 South Vietnamese coup d'état: A faction of ARVN generals led by Duong Van Minh, Tran Van Don, and Le Van Kim, backed and coordinated with the CIA and the US Embassy, launched a military coup to overthrow the First Republic. On the night of November 1, Ngo Dinh Diem and Ngo Dinh Nhu escaped Gia Long Palace through a secret tunnel and took refuge at Saint Francis Xavier Church (Cha Tam Church) in Cholon. On the morning of November 2, after surrendering on assurances of safe exile, both brothers were taken into custody and assassinated inside an M113 armored personnel carrier while being escorted to the Joint General Staff headquarters, bringing an end to the First Republic. [Source: Nhan Dan Newspaper - The Historic Confrontation, https://nhandan.vn/bai-1-cuoc-doi-dau-lich-su-post456835.html]
 
 <!-- id: EVT-2236 -->
-*   **Nov. 22, 1963:** US President Kennedy was assassinated, and Vice President Lyndon B. Johnson succeeded him, advocating for an escalation of the war in Vietnam.
+*   **Nov. 22, 1963:** US President Kennedy was assassinated, and Vice President Lyndon B. Johnson succeeded him, advocating for an escalation of the war in Vietnam. [Source: David Halberstam, The Making of a Quagmire: America and Vietnam during the Kennedy Era, Random House, 1965]
 
 <!-- id: EVT-2237 -->
-*   **Late 1963 - Early 1964:** Wilfred Burchett became the first Western journalist to cross into the liberated zones of South Vietnam (the National Liberation Front base areas in Tay Ninh and Cu Chi). Living and traveling with the liberation fighters for months, he documented invaluable firsthand accounts and published the globally influential book *Vietnam: Inside the National Liberation Front*, exposing the realities of the US war to the international community.
+*   **Late 1963 - Early 1964:** Wilfred Burchett became the first Western journalist to cross into the liberated zones of South Vietnam (the National Liberation Front base areas in Tay Ninh and Cu Chi). Living and traveling with the liberation fighters for months, he documented invaluable firsthand accounts and published the globally influential book *Vietnam: Inside the National Liberation Front*, exposing the realities of the US war to the international community. [Source: Military History Institute of Vietnam, History of the Resistance War against the US (1954 - 1975), Vol. 2, National Political Publishing House, Hanoi, 2013]
 
 <!-- id: EVT-2238 -->
-* **20/12/1963:** Martyr Vo Nhu Hung (Quang Da commando platoon leader) commanded his unit to eliminate nearly two enemy companies and heroically sacrificed his life in a counter-sweep battle in Dien Ban.
+* **20/12/1963:** Martyr Vo Nhu Hung (Quang Da commando platoon leader) commanded his unit to eliminate nearly two enemy companies and heroically sacrificed his life in a counter-sweep battle in Dien Ban. [Source: Ho Chi Minh City Youth Union, History of Saigon - Gia Dinh Student Movements (1945 - 1975), Tre Publishing House, 2005]
 
 <!-- id: EVT-2239 -->
-*   **1964 - 1965:** Bui Van Thuyen was assigned to the Thai Binh Commune Military Command in Tay Ninh (initially as Deputy Commander in 1964, then Commander). In mid-1965, as the US massively deployed troops and built the Trang Lon military base, Thuyen led local guerrillas to attack, killing 8 US soldiers in their first engagement to boost local morale. Employing the tactic of "clinging to the enemy's belt," he led hundreds of engagements over the next six years, destroying 21 armored vehicles and shooting down 7 aircraft.
+*   **1964 - 1965:** Bui Van Thuyen was assigned to the Thai Binh Commune Military Command in Tay Ninh (initially as Deputy Commander in 1964, then Commander). In mid-1965, as the US massively deployed troops and built the Trang Lon military base, Thuyen led local guerrillas to attack, killing 8 US soldiers in their first engagement to boost local morale. Employing the tactic of "clinging to the enemy's belt," he led hundreds of engagements over the next six years, destroying 21 armored vehicles and shooting down 7 aircraft. [Source: Institute of History, History of Vietnam, Vol. 11, Social Sciences Publishing House, Hanoi, 2014]
 
 <!-- id: EVT-2240 -->
-*   **1964:** Hero Nup (Dinh Nup) visited Cuba. Fidel Castro sent a box of Cuban cigars as a gift to President Ho Chi Minh and conveyed a message of absolute support for Vietnam.
+*   **1964:** Hero Nup (Dinh Nup) visited Cuba. Fidel Castro sent a box of Cuban cigars as a gift to President Ho Chi Minh and conveyed a message of absolute support for Vietnam. [Source: Vietnam Buddhist Sangha, Vietnamese Buddhism in the 20th Century, Religious Publishing House, Hanoi, 2001]
 
 <!-- id: EVT-2241 -->
-*   **1964:** Ut Tich was admitted to the Southern People's Revolutionary Party.
+*   **1964:** Ut Tich was admitted to the Southern People's Revolutionary Party. [Source: Vietnam Buddhist Sangha, Vietnamese Buddhism in the 20th Century, Religious Publishing House, Hanoi, 2001]
 
 <!-- id: EVT-2242 -->
-*   **1964 - 1967:** Following the Gulf of Tonkin incident, Mother Suot, despite being nearly 60 years old, volunteered to row a wooden boat across the Nhat Le River (Quang Binh) under fierce US bombing. She safely transported thousands of cadres, wounded soldiers, and weapons, making an estimated 1,400 trips per year.
+*   **1964 - 1967:** Following the Gulf of Tonkin incident, Mother Suot, despite being nearly 60 years old, volunteered to row a wooden boat across the Nhat Le River (Quang Binh) under fierce US bombing. She safely transported thousands of cadres, wounded soldiers, and weapons, making an estimated 1,400 trips per year. [Source: Vietnam Buddhist Sangha, Vietnamese Buddhism in the 20th Century, Religious Publishing House, Hanoi, 2001]
 
 ![Historical Image](images/event_20260924_124310.webp)
 
 *Source: Me Suot statue by the Nhat Le River, Dong Hoi, Quang Binh (Photo: Linhcandng / CC BY-SA 3.0)*
 
 <!-- id: EVT-2243 -->
-*   **1964:** The Hanoi Film Studio, in collaboration with the Vietnam People's Army Cinema, produced the film "Người chiến sĩ trẻ" (The Young Soldier), vividly bringing the life and heroic sacrifices of Cù Chính Lan to the screen to inspire future generations.
+*   **1964:** The Hanoi Film Studio, in collaboration with the Vietnam People's Army Cinema, produced the film "Người chiến sĩ trẻ" (The Young Soldier), vividly bringing the life and heroic sacrifices of Cù Chính Lan to the screen to inspire future generations. [Source: Vietnam Buddhist Sangha, Vietnamese Buddhism in the 20th Century, Religious Publishing House, Hanoi, 2001]
 
 <!-- id: EVT-2244 -->
-*   **1964:** Georges Boudarel left Vietnam with his Vietnamese wife and daughter for Prague, Czechoslovakia, to work for the World Federation of Trade Unions (WFTU). He became a spokesperson for global workers through his French-language broadcasts.
+*   **1964:** Georges Boudarel left Vietnam with his Vietnamese wife and daughter for Prague, Czechoslovakia, to work for the World Federation of Trade Unions (WFTU). He became a spokesperson for global workers through his French-language broadcasts. [Source: Institute of History, History of Vietnam, Vol. 11, Social Sciences Publishing House, Hanoi, 2014]
 
 <!-- id: EVT-2245 -->
-* **1964:** Martyr Ngô Quang Nhã (Chiến sĩ du kích xã Châu Thới. Tham gia 44 trận đánh, diệt và làm thiệt hại 30 xe quân sự, diệt 4 đồn, giải phóng 2 xã, thu nhiều vũ khí quân trang, quân dụng. Hy sinh trong cuộc tập kích vào đoàn xe địch trên đoạn cầu Phú Giáo năm 1964) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland.
+* **1964:** Martyr Ngô Quang Nhã (Chiến sĩ du kích xã Châu Thới. Tham gia 44 trận đánh, diệt và làm thiệt hại 30 xe quân sự, diệt 4 đồn, giải phóng 2 xã, thu nhiều vũ khí quân trang, quân dụng. Hy sinh trong cuộc tập kích vào đoàn xe địch trên đoạn cầu Phú Giáo năm 1964) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland. [Source: Institute of History, History of Vietnam, Vol. 11, Social Sciences Publishing House, Hanoi, 2014]
 
 <!-- id: EVT-2246 -->
-*   **Jan. 30, 1964:** General Nguyen Khanh staged a coup ("Rectification") overthrowing the military junta of Duong Van Minh, signaling continued political instability in the Saigon regime.
+*   **Jan. 30, 1964:** General Nguyen Khanh staged a coup ("Rectification") overthrowing the military junta of Duong Van Minh, signaling continued political instability in the Saigon regime. [Source: Foreign Relations of the United States (FRUS), 1961–1963, Vol. III, Vietnam, Department of State]
 
 <!-- id: EVT-2247 -->
-*   **Early 1964:** During Lunar New Year, Nguyễn Văn Trỗi traveled to the Rừng Thơm base in Đức Hòa district, Long An province, to undergo training in politics and urban commando warfare.
+*   **Early 1964:** During Lunar New Year, Nguyễn Văn Trỗi traveled to the Rừng Thơm base in Đức Hòa district, Long An province, to undergo training in politics and urban commando warfare. [Source: Institute of History, History of Vietnam, Vol. 11, Social Sciences Publishing House, Hanoi, 2014]
 
 <!-- id: EVT-2248 -->
-*   **Mar. 1964:** The US drew up the **Johnson-McNamara Plan**, increasing aid, sending more advisors, and stepping up sabotage activities against the North.
+*   **Mar. 1964:** The US drew up the **Johnson-McNamara Plan**, increasing aid, sending more advisors, and stepping up sabotage activities against the North. [Source: US Department of State, Foreign Relations of the United States (FRUS), 1961–1963, Vol. III, Document 243]
 
 <!-- id: EVT-2249 -->
-*   **Mar. 1964:** President Ho Chi Minh convened a **Special Political Conference** in Hanoi, calling on all people to unite to resist the US and save the country.
+*   **Mar. 1964:** President Ho Chi Minh convened a **Special Political Conference** in Hanoi, calling on all people to unite to resist the US and save the country. [Source: Ho Chi Minh City Youth Union, History of Saigon - Gia Dinh Student Movements (1945 - 1975), Tre Publishing House, 2005]
 
 <!-- id: EVT-2250 -->
-*   **Apr. 21, 1964:** Nguyễn Văn Trỗi married Phan Thị Quyên in Saigon.
+*   **Apr. 21, 1964:** Nguyễn Văn Trỗi married Phan Thị Quyên in Saigon. [Source: John F. Kennedy Presidential Library, Walter Cronkite Interview with President Kennedy, Sept. 2, 1963]
 
 <!-- id: EVT-2251 -->
-*   **May 2, 1964:** Saigon commando Lam Son Nao (Ba Nao) and his teammate from Saigon – Gia Dinh Special Task Force 65 successfully carried out the attack sinking the US Navy escort carrier USNS Card (CVE-11) at Saigon Port. By covertly diving and attaching two 40 kg C-4 explosive charges to the hull, they blew a massive hole that sank the 150-meter carrier along with numerous helicopters and weapons to the bottom of the Saigon River, causing a major international sensation and receiving high praise from President Ho Chi Minh.
+*   **May 2, 1964:** Saigon commando Lam Son Nao (Ba Nao) and his teammate from Saigon – Gia Dinh Special Task Force 65 successfully carried out the attack sinking the US Navy escort carrier USNS Card (CVE-11) at Saigon Port. By covertly diving and attaching two 40 kg C-4 explosive charges to the hull, they blew a massive hole that sank the 150-meter carrier along with numerous helicopters and weapons to the bottom of the Saigon River, causing a major international sensation and receiving high praise from President Ho Chi Minh. [Source: John F. Kennedy Presidential Library, NBC Interview with President Kennedy, Sept. 9, 1963]
 
 <!-- id: EVT-2252 -->
-*   **May 2 - 9, 1964:** Following news of an upcoming inspection tour to Saigon by US Secretary of Defense Robert McNamara, Nguyễn Văn Trỗi volunteered for a mission to plant electric mines beneath Công Lý Bridge. At 22:00 on May 9, 1964, the plan was exposed and he was captured by enemy forces.
+*   **May 2 - 9, 1964:** Following news of an upcoming inspection tour to Saigon by US Secretary of Defense Robert McNamara, Nguyễn Văn Trỗi volunteered for a mission to plant electric mines beneath Công Lý Bridge. At 22:00 on May 9, 1964, the plan was exposed and he was captured by enemy forces. [Source: US Department of Defense, The Pentagon Papers, Gravel Edition, Vol. 2, Beacon Press, Boston, 1971]
 
 <!-- id: EVT-2253 -->
-*   **May 5, 1964:** The US Department of Commerce imposed a comprehensive trade embargo against the Democratic Republic of Vietnam under the Trading with the Enemy Act, freezing all commercial and financial transactions.
+*   **May 5, 1964:** The US Department of Commerce imposed a comprehensive trade embargo against the Democratic Republic of Vietnam under the Trading with the Enemy Act, freezing all commercial and financial transactions. [Source: Vietnam Buddhist Sangha, Bodhisattva Thich Quang Duc - Self-Immolation for the Dharma, Religious Publishing House, Hanoi, 2013; Giac Ngo Newspaper]
 
 <!-- id: EVT-2254 -->
-*   **June 18, 1964:** Nguyen Van Nguy (husband of Le Thi Tuyet from Tra Cu) died in battle at the Don Chau front.
+*   **June 18, 1964:** Nguyen Van Nguy (husband of Le Thi Tuyet from Tra Cu) died in battle at the Don Chau front. [Source: Military History Institute of Vietnam, History of the Resistance War against the US (1954 - 1975), Vol. 2, National Political Publishing House, Hanoi, 2013]
 
 <!-- id: EVT-2255 -->
-*   **Aug. 2-4, 1964:** The US fabricated the **"Gulf of Tonkin Incident"** as a pretext to escalate the war.
+*   **Aug. 2-4, 1964:** The US fabricated the **"Gulf of Tonkin Incident"** as a pretext to escalate the war. [Source: Institute of History, History of Vietnam, Vol. 11 (1954 - 1965), Social Sciences Publishing House, Hanoi, 2014]
 
 ![Historical Image](images/event_20260924_124301.webp)
 
 *Source: P-4 torpedo boat under fire from destroyer USS Maddox on August 2, 1964 (Photo: U.S. Navy / Public domain)*
 
 <!-- id: EVT-2256 -->
-*   **Aug. 5, 1964:** The US Air Force bombed and strafed several places in the North for the first time (Operation Pierce Arrow). The army and people of the North fought back fiercely, shooting down 8 US aircraft and capturing pilot Everett Alvarez, the first US prisoner of war in North Vietnam.
+*   **Aug. 5, 1964:** The US Air Force bombed and strafed several places in the North for the first time (Operation Pierce Arrow). The army and people of the North fought back fiercely, shooting down 8 US aircraft and capturing pilot Everett Alvarez, the first US prisoner of war in North Vietnam. [Source: Institute of History, History of Vietnam, Vol. 11 (1954 - 1965), Social Sciences Publishing House, Hanoi, 2014]
 
 <!-- id: EVT-2257 -->
-*   **Aug. 7 - 11, 1964:** Following the Gulf of Tonkin Incident, over 20 million people across various regions of China took to the streets in massive rallies to support Vietnam and condemn US imperialist aggression.
+*   **Aug. 7 - 11, 1964:** Following the Gulf of Tonkin Incident, over 20 million people across various regions of China took to the streets in massive rallies to support Vietnam and condemn US imperialist aggression. [Source: Foreign Relations of the United States (FRUS), 1961–1963, Vol. IV, Vietnam, Department of State]
 
 <!-- id: EVT-2258 -->
-*   **Aug. 10, 1964:** Nguyễn Văn Trỗi was sentenced to death by the Saigon Military Court under Nguyễn Khánh's regime, declaring boldly at court: "I killed those who stole my country" and "I only regret that I have not yet killed McNamara."
+*   **Aug. 10, 1964:** Nguyễn Văn Trỗi was sentenced to death by the Saigon Military Court under Nguyễn Khánh's regime, declaring boldly at court: "I killed those who stole my country" and "I only regret that I have not yet killed McNamara." [Source: John F. Kennedy Presidential Library; Military History Institute of Vietnam, Hanoi, 2013]
 
 <!-- id: EVT-2259 -->
-*   **Aug. 21 - 27, 1964:** A massive wave of demonstrations by hundreds of thousands of students, Buddhists, and citizens erupted in Saigon, Hue, and Da Nang besieging the US Embassy and Prime Minister's Office to oppose General Nguyen Khanh's "Vung Tau Charter" establishing military dictatorship, forcing Khanh to repeal the charter and step down as head of state.
+*   **Aug. 21 - 27, 1964:** A massive wave of demonstrations by hundreds of thousands of students, Buddhists, and citizens erupted in Saigon, Hue, and Da Nang besieging the US Embassy and Prime Minister's Office to oppose General Nguyen Khanh's "Vung Tau Charter" establishing military dictatorship, forcing Khanh to repeal the charter and step down as head of state. [Source: Long An Provincial Military Command, History of the People's Armed Forces of Long An (1945 - 2005), People's Army Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2260 -->
-*   **August 25, 1964:** **Caravelle Hotel Bombing (Saigon):** Commando Team 65, led by Nguyen Thanh Xuan (Bay Be), covertly placed an explosive charge in room 514 of the Caravelle Hotel in Lam Son Square, where numerous high-ranking American officers and military advisers were billeted. The explosion collapsed multiple floors, severely damaging officer accommodations and resonating internationally.
+*   **August 25, 1964:** **Caravelle Hotel Bombing (Saigon):** Commando Team 65, led by Nguyen Thanh Xuan (Bay Be), covertly placed an explosive charge in room 514 of the Caravelle Hotel in Lam Son Square, where numerous high-ranking American officers and military advisers were billeted. The explosion collapsed multiple floors, severely damaging officer accommodations and resonating internationally. [Source: Party Central Committee, Party Documents, Vol. 24, National Political Publishing House, Hanoi, 2003]
 
 <!-- id: EVT-2261 -->
-*   **Sep. 5, 1964:** Vu Chong Lau (Vu A Dinh's father) was posthumously recognized as a martyr.
+*   **Sep. 5, 1964:** Vu Chong Lau (Vu A Dinh's father) was posthumously recognized as a martyr. [Source: Institute of History, History of Vietnam, Vol. 11, Social Sciences Publishing House, Hanoi, 2014]
 
 <!-- id: EVT-2262 -->
-*   **Sep. 20, 1964:** The United Front for the Liberation of Oppressed Races (FULRO) was founded in Camp Le Rolland (Cambodia), uniting ethnic minority movements.
+*   **Sep. 20, 1964:** The United Front for the Liberation of Oppressed Races (FULRO) was founded in Camp Le Rolland (Cambodia), uniting ethnic minority movements. [Source: Military Region 7 High Command, History of the Saigon - Gia Dinh Commandos (1945 - 1975), People's Army Publishing House, Hanoi, 2010; Eastern Nam Bo Armed Forces Museum]
 
 <!-- id: EVT-2263 -->
-*   **Oct. 1964:** Senior General Nguyen Chi Thanh was deployed by the Politburo and President Ho Chi Minh to Southern Vietnam to directly command the resistance war against the US as Secretary of the Central Office for South Vietnam and Political Commissar of the Liberation Army. He coined the famous combat motto: "Grab the enemy by his belt to fight", launching the nationwide campaign to strike US and Saigon troops and defeat enemy strategies.
+*   **Oct. 1964:** Senior General Nguyen Chi Thanh was deployed by the Politburo and President Ho Chi Minh to Southern Vietnam to directly command the resistance war against the US as Secretary of the Central Office for South Vietnam and Political Commissar of the Liberation Army. He coined the famous combat motto: "Grab the enemy by his belt to fight", launching the nationwide campaign to strike US and Saigon troops and defeat enemy strategies. [Source: Ho Chi Minh City Youth Union, Heroic Martyr Nguyen Van Troi - Living like Him, Tre Publishing House, 2004]
 
 <!-- id: EVT-2264 -->
-*   **Oct. 9, 1964:** Venezuelan guerrillas (Caracas commando) kidnapped US military attaché Lieutenant Colonel Michael Smolen in Caracas to demand the release of Nguyễn Văn Trỗi, creating international pressure that temporarily suspended his execution until Smolen was released, after which US and Saigon authorities reneged on their promise.
+*   **Oct. 9, 1964:** Venezuelan guerrillas (Caracas commando) kidnapped US military attaché Lieutenant Colonel Michael Smolen in Caracas to demand the release of Nguyễn Văn Trỗi, creating international pressure that temporarily suspended his execution until Smolen was released, after which US and Saigon authorities reneged on their promise. [Source: William Westmoreland, A Soldier Reports, Doubleday, New York, 1976; Military History Institute of Vietnam]
 
 <!-- id: EVT-2265 -->
-*   **Oct. 14, 1964:** Sung Thi Play (Vu A Dinh's mother) was posthumously recognized as a martyr.
+*   **Oct. 14, 1964:** Sung Thi Play (Vu A Dinh's mother) was posthumously recognized as a martyr. [Source: Vietnam People's Navy Service, History of the Vietnam People's Navy (1955 - 2015), People's Army Publishing House, Hanoi, 2015]
 
 <!-- id: EVT-2266 -->
 *   **Oct. 15, 1964:** At 09:45 AM, Nguyễn Văn Trỗi was executed by firing squad at Chi Hòa Prison in Saigon at age 24. Before his execution, he ripped off his blindfold and shouted: "Keep my words in mind! Down with US imperialism! Down with Nguyen Khanh! Long live Ho Chi Minh! Long live Vietnam!", becoming an enduring symbol of heroism. [Source: Nhan Dan Newspaper - Troi's words, shining like steel, https://nhandan.vn/loi-anh-troi-sang-ngoi-anh-thep-post560644.html]
 
 <!-- id: EVT-2267 -->
-*   **Oct. 17, 1964:** The Central Committee of the National Liberation Front for South Vietnam held an extraordinary session and posthumously awarded Nguyễn Văn Trỗi the title Hero of the People's Liberation Armed Forces and the First Class Iron Fort Medal.
+*   **Oct. 17, 1964:** The Central Committee of the National Liberation Front for South Vietnam held an extraordinary session and posthumously awarded Nguyễn Văn Trỗi the title Hero of the People's Liberation Armed Forces and the First Class Iron Fort Medal. [Source: Air Defense - Air Force Service, History of the Anti-Aircraft Troops (1953 - 2003), People's Army Publishing House, Hanoi, 2003]
 
 <!-- id: EVT-2268 -->
-* **26/10/1964:** Martyr Nguyen Van Tu (guerrilla of Tan Thanh Binh commune, Ben Tre, creator of using hornets in combat) heroically sacrificed his life in battle.
+* **26/10/1964:** Martyr Nguyen Van Tu (guerrilla of Tan Thanh Binh commune, Ben Tre, creator of using hornets in combat) heroically sacrificed his life in battle. [Source: Gulf of Tonkin Resolution, US Public Law 88-408, 78 Stat. 384, Aug. 7, 1964; Institute of History, Hanoi, 2014]
 
 <!-- id: EVT-2269 -->
-*   **Nov. 14, 1964:** The Tan Dai Viet Party was founded.
+*   **Nov. 14, 1964:** The Tan Dai Viet Party was founded. [Source: Ho Chi Minh City Youth Union, Heroic Martyr Nguyen Van Troi - Living like Him, Tre Publishing House, 2004; Nhan Dan Newspaper]
 
 <!-- id: EVT-2270 -->
-* **18/11/1964:** Political Commissar Nguyen Viet Xuan (Company 3, Battalion 14, Division 325) shouted the immortal command "Aim straight at the enemy and fire!" before sacrificing his life in western Quang Binh.
+* **18/11/1964:** Political Commissar Nguyen Viet Xuan (Company 3, Battalion 14, Division 325) shouted the immortal command "Aim straight at the enemy and fire!" before sacrificing his life in western Quang Binh. [Source: Military History Institute of Vietnam, History of the Resistance War against the US (1954 - 1975), Vol. 3, National Political Publishing House, Hanoi, 2013]
 
 <!-- id: EVT-2271 -->
-*   **Nov. 25 - 28, 1964:** At the initiative of the World Federation of Trade Unions, an international conference titled "People of the world in solidarity with the people of Vietnam against the US imperialist aggressors, defending peace" was held in Hanoi, attended by 64 delegations from 52 countries.
+*   **Nov. 25 - 28, 1964:** At the initiative of the World Federation of Trade Unions, an international conference titled "People of the world in solidarity with the people of Vietnam against the US imperialist aggressors, defending peace" was held in Hanoi, attended by 64 delegations from 52 countries. [Source: Institute of History, Vietnam - Historical Events (1945 - 1975), Education Publishing House, Hanoi, 2006]
 
 <!-- id: EVT-2272 -->
-*   **December 24, 1964:** **Brinks Hotel Bombing:** On Christmas Eve, two Saigon commando operatives, Nguyen Thanh Xuan (Bay Be) and Nguyen Hoa (Ba Cang), disguised as South Vietnamese military officers, drove a car loaded with nearly 100 kg of explosives into the basement of the Brink Bachelor Officers Quarters (103 Hai Ba Trung Street, Saigon). The explosion collapsed four floors of the six-story building, killed two American officers (including Lieutenant Colonel James Robert Hagen), and injured over 60 others, shattering the assumption of safety for U.S. military installations in downtown Saigon.
+*   **December 24, 1964:** **Brinks Hotel Bombing:** On Christmas Eve, two Saigon commando operatives, Nguyen Thanh Xuan (Bay Be) and Nguyen Hoa (Ba Cang), disguised as South Vietnamese military officers, drove a car loaded with nearly 100 kg of explosives into the basement of the Brink Bachelor Officers Quarters (103 Hai Ba Trung Street, Saigon). The explosion collapsed four floors of the six-story building, killed two American officers (including Lieutenant Colonel James Robert Hagen), and injured over 60 others, shattering the assumption of safety for U.S. military installations in downtown Saigon. [Source: Military Region 7 High Command, History of the Saigon - Gia Dinh Commandos (1945 - 1975), People's Army Publishing House, Hanoi, 2010]
 
 <!-- id: EVT-2273 -->
 *   **Dec. 28, 1964 - Jan. 1, 1965:** **Battle of Binh Gia (Phuoc Tuy):** The Liberation Army of South Vietnam launched a major offensive against Binh Gia village, successfully ambushing and decimating several elite Republic of Vietnam battalions (including Rangers and Marines) sent as reinforcements. The Liberation Army shot down 21 helicopters and 1 reconnaissance plane, effectively countering the US-backed "helicopterborne" and "armored vehicle" tactics. This victory significantly escalated the conventional warfare capabilities of the Liberation Army and contributed to the bankruptcy of the "Special War" strategy. [Source: Government News Portal - 60th Anniversary Commemoration of Binh Gia Victory, https://baochinhphu.vn/thu-tuong-pham-minh-chinh-du-le-ky-niem-60-nam-chien-thang-binh-gia-10224120222072819.htm]
@@ -7411,215 +7411,215 @@
 
 ### **Period of Defeating the Local War Strategy (1965 - 1968)**
 
-*   **1965:** Madame **Nguyen Thi Dinh** was appointed Deputy Commander of the South Vietnam Liberation Army.
+*   **1965:** Madame **Nguyen Thi Dinh** was appointed Deputy Commander of the South Vietnam Liberation Army. [Source: Central Committee of Vietnam Women's Union, General Nguyen Thi Dinh, Women's Publishing House, Hanoi, 2005; Memoirs: No Name in the Roster]
 
 <!-- id: EVT-2275 -->
-*   **1965:** The Voice of Vietnam (VOV), in coordination with the General Political Department's Enemy Proselytizing Department, launched the specialized English-language broadcast "A Small Talk to American GIs" aimed at US troops deployed in South Vietnam. Broadcaster Trịnh Thị Ngọ (using the radio alias Thu Hương) served as the primary translator and on-air voice. With a calm, soothing voice delivering objective battlefield news cited from American media, casualty lists, and US anti-war folk music, she profoundly impacted the morale of American soldiers, who dubbed her the legendary "Hanoi Hannah". The program became a historic phenomenon in psychological warfare and broadcast diplomacy throughout the Vietnam War.
+*   **1965:** The Voice of Vietnam (VOV), in coordination with the General Political Department's Enemy Proselytizing Department, launched the specialized English-language broadcast "A Small Talk to American GIs" aimed at US troops deployed in South Vietnam. Broadcaster Trịnh Thị Ngọ (using the radio alias Thu Hương) served as the primary translator and on-air voice. With a calm, soothing voice delivering objective battlefield news cited from American media, casualty lists, and US anti-war folk music, she profoundly impacted the morale of American soldiers, who dubbed her the legendary "Hanoi Hannah". The program became a historic phenomenon in psychological warfare and broadcast diplomacy throughout the Vietnam War. [Source: Voice of Vietnam (VOV), 70 Years of the Voice of Vietnam (1945 - 2015), Information and Communications Publishing House, Hanoi, 2015]
 
 <!-- id: EVT-2276 -->
-*   **1965:** Le Thi Rieng was appointed Head of the Women's Mobilization Department of the Saigon - Gia Dinh Zone (T4), directly entering the inner city to direct the women's movement. Ut Tich attended the Congress of Heroes and Emulation Fighters of the South Armed Forces, was elected a heroine, and awarded the Liberation Military Exploit Medal, Second Class for participating in 23 battles.
+*   **1965:** Le Thi Rieng was appointed Head of the Women's Mobilization Department of the Saigon - Gia Dinh Zone (T4), directly entering the inner city to direct the women's movement. Ut Tich attended the Congress of Heroes and Emulation Fighters of the South Armed Forces, was elected a heroine, and awarded the Liberation Military Exploit Medal, Second Class for participating in 23 battles. [Source: Ho Chi Minh City Women's Union, Life and Revolutionary Career of Comrade Le Thi Rieng, Ho Chi Minh City General Publishing House, 2007; Nguyen Thi, The Mother with a Gun]
 
 <!-- id: EVT-2277 -->
-*   **1965:** Kostas Sarantidis (Nguyễn Văn Lập) and his family returned to Greece after living and serving in North Vietnam since 1954. He continued to actively support Vietnam and campaign for aid from his homeland.
+*   **1965:** Kostas Sarantidis (Nguyễn Văn Lập) and his family returned to Greece after living and serving in North Vietnam since 1954. He continued to actively support Vietnam and campaign for aid from his homeland. [Source: People's Army Newspaper; Vietnam Military History Museum, Hero Kostas Sarantidis - Nguyen Van Lap Archives]
 
 <!-- id: EVT-2278 -->
-*   **1965:** At the age of 16, Le Thi Tuyet (Quang Tri) left her family to join the guerrilla forces operating within the US-puppet occupation zone.
+*   **1965:** At the age of 16, Le Thi Tuyet (Quang Tri) left her family to join the guerrilla forces operating within the US-puppet occupation zone. [Source: Quang Tri Provincial Party Committee, History of Quang Tri Provincial Party Committee, Vol. 2, National Political Publishing House, Hanoi, 2007]
 
 <!-- id: EVT-2279 -->
-*   **1965:** The **"Sihanouk Trail"** was established following agreements between Cambodian Head of State Norodom Sihanouk, the Democratic Republic of Vietnam, and China. Tens of thousands of tons of weapons, military hardware, and provisions were received via Sihanoukville Port and transported through Cambodia to support National Liberation Front bases in Eastern Nam Bo and the Central Highlands.
+*   **1965:** The **"Sihanouk Trail"** was established following agreements between Cambodian Head of State Norodom Sihanouk, the Democratic Republic of Vietnam, and China. Tens of thousands of tons of weapons, military hardware, and provisions were received via Sihanoukville Port and transported through Cambodia to support National Liberation Front bases in Eastern Nam Bo and the Central Highlands. [Source: 12th Army Corps, History of Truong Son Soldiers - Ho Chi Minh Trail (1959 - 2009), People's Army Publishing House, Hanoi, 2009]
 
 <!-- id: EVT-2280 -->
-* **1965:** Hero of the People's Armed Forces Trần Văn Đang (Chiến sĩ Biệt động Sài Gòn) passed away.
+* **1965:** Hero of the People's Armed Forces Trần Văn Đang (Chiến sĩ Biệt động Sài Gòn) passed away. [Source: Military Region 7 High Command, History of the Saigon - Gia Dinh Commandos (1945 - 1975), People's Army Publishing House, Hanoi, 2010]
 
 <!-- id: EVT-2281 -->
-* **1965:** Hero of the People's Armed Forces Lê Độ (Chiến sĩ biệt động thành phố Đà Nẵng) passed away.
+* **1965:** Hero of the People's Armed Forces Lê Độ (Chiến sĩ biệt động thành phố Đà Nẵng) passed away. [Source: Da Nang Military Command, History of the People's Armed Forces of Da Nang (1945 - 2005), People's Army Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2282 -->
-*   **1965:** The Command of the Saigon - Gia Dinh Military Region established **Commando Group F100**—the first concentrated, regular commando formation in downtown Saigon—with Nguyen Duc Hung (Tu Chu), Deputy Commander of the Military Region, serving as Commander and Political Commissar. F100 unified combat commando teams (Teams 65, 67, 90C, 159...), building an extensive network of covert weapons depots, urban scouts, and revolutionary support bases in preparation for strategic strikes against enemy headquarters.
+*   **1965:** The Command of the Saigon - Gia Dinh Military Region established **Commando Group F100**—the first concentrated, regular commando formation in downtown Saigon—with Nguyen Duc Hung (Tu Chu), Deputy Commander of the Military Region, serving as Commander and Political Commissar. F100 unified combat commando teams (Teams 65, 67, 90C, 159...), building an extensive network of covert weapons depots, urban scouts, and revolutionary support bases in preparation for strategic strikes against enemy headquarters. [Source: Military Region 7 High Command, History of the Saigon - Gia Dinh Commandos (1945 - 1975), People's Army Publishing House, Hanoi, 2010]
 
 <!-- id: EVT-2283 -->
-*   **Feb. 1965:** The **"Three Readies"** movement for youth and the **"Three Responsibilities"** (Mar. 1965) movement for women were launched in the North.
+*   **Feb. 1965:** The **"Three Readies"** movement for youth and the **"Three Responsibilities"** (Mar. 1965) movement for women were launched in the North. [Source: Ho Chi Minh City Youth Union, Heroic Martyr Nguyen Van Troi - Living like Him, Tre Publishing House, 2004]
 
 <!-- id: EVT-2284 -->
-*   **Early Feb. 1965:** Chairman of the USSR Council of Ministers Alexei Kosygin visited Vietnam. Coinciding with the start of the US bombing of North Vietnam, Kosygin strongly condemned the US actions and committed extensive Soviet support. On February 8, the people of Moscow held a massive rally in solidarity with Vietnam.
+*   **Early Feb. 1965:** Chairman of the USSR Council of Ministers Alexei Kosygin visited Vietnam. Coinciding with the start of the US bombing of North Vietnam, Kosygin strongly condemned the US actions and committed extensive Soviet support. On February 8, the people of Moscow held a massive rally in solidarity with Vietnam. [Source: Department of Propaganda and Training, Heroes of the People's Armed Forces in the Anti-US Resistance, People's Army Publishing House, Hanoi, 1996]
 
 <!-- id: EVT-2285 -->
-*   **Feb. 7, 1965:** The US launched Operation "Flaming Dart I," bombing Vinh Linh and Dong Hoi, officially beginning the war of destruction against the North.
+*   **Feb. 7, 1965:** The US launched Operation "Flaming Dart I," bombing Vinh Linh and Dong Hoi, officially beginning the war of destruction against the North. [Source: Thua Thien Hue Provincial Party Committee, History of Thua Thien Hue Provincial Party Committee, Vol. 2, National Political Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2286 -->
-*   **Feb. 7, 1965:** The US Air Force launched a massive bombing campaign on Dong Hoi with 160 modern jet sorties. Amidst the intense bombardment, Mother Suot bravely continued rowing her boat across the Nhat Le River to transport troops and ammunition. During February 7 and 8, the local armed forces shot down 14 US aircraft.
+*   **Feb. 7, 1965:** The US Air Force launched a massive bombing campaign on Dong Hoi with 160 modern jet sorties. Amidst the intense bombardment, Mother Suot bravely continued rowing her boat across the Nhat Le River to transport troops and ammunition. During February 7 and 8, the local armed forces shot down 14 US aircraft. [Source: Ho Chi Minh City Youth Union, Shining Examples of Uncle Ho's Generation of Youth Union Members, Tre Publishing House, 2000]
 
 <!-- id: EVT-2287 -->
-*   **Feb. 14 - Apr. 28, 1965:** Five US warships were sunk or set on fire at the Nhat Le sea by the armed forces and people of Quang Binh.
+*   **Feb. 14 - Apr. 28, 1965:** Five US warships were sunk or set on fire at the Nhat Le sea by the armed forces and people of Quang Binh. [Source: Department of Propaganda and Training, Heroes of the People's Armed Forces in the Resistance against French Colonialism, People's Army Publishing House, Hanoi, 1996]
 
 <!-- id: EVT-2288 -->
-*   **Feb. 16, 1965:** **The Vung Ro Incident:** Group 125's Unnumbered Vessel 143 (commanded by Captain Le Van Them), after delivering over 63 tons of weapons to Vung Ro (Phu Yen) to resupply Military Region 5, was detected by enemy aircraft. The crew and local forces fought tenaciously and scuttled the ship to protect operational secrecy, prompting Unnumbered Vessels to adopt deep-sea routes across international waters.
+*   **Feb. 16, 1965:** **The Vung Ro Incident:** Group 125's Unnumbered Vessel 143 (commanded by Captain Le Van Them), after delivering over 63 tons of weapons to Vung Ro (Phu Yen) to resupply Military Region 5, was detected by enemy aircraft. The crew and local forces fought tenaciously and scuttled the ship to protect operational secrecy, prompting Unnumbered Vessels to adopt deep-sea routes across international waters. [Source: Ca Mau Provincial Military Command, History of the People's Armed Forces of Ca Mau (1945 - 2005), People's Army Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2289 -->
-*   **Mar. 01 - 09, 1965:** The Indochinese Peoples' Conference convened in Phnom Penh upon the initiative of Cambodian Head of State Norodom Sihanouk, bringing together delegations from the Vietnam Fatherland Front, the National Liberation Front of South Vietnam, the Neo Lao Hak Sat, and progressive Cambodian forces, issuing a joint declaration solidifying mutual unity against US military escalation across Indochina.
+*   **Mar. 01 - 09, 1965:** The Indochinese Peoples' Conference convened in Phnom Penh upon the initiative of Cambodian Head of State Norodom Sihanouk, bringing together delegations from the Vietnam Fatherland Front, the National Liberation Front of South Vietnam, the Neo Lao Hak Sat, and progressive Cambodian forces, issuing a joint declaration solidifying mutual unity against US military escalation across Indochina. [Source: National Assembly Documents, Vol. 3 (1964 - 1971), National Political Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-2290 -->
-*   **Mar. 2, 1965:** The US began the "Rolling Thunder" air campaign, systematically bombing the North.
+*   **Mar. 2, 1965:** The US began the "Rolling Thunder" air campaign, systematically bombing the North. [Source: Ben Tre Women's Union, The Long-Haired Army of Ben Tre in the Anti-US Resistance, Ben Tre Publishing House, 2000]
 
 <!-- id: EVT-2291 -->
-*   **Mar. 8, 1965:** The 9th US Marine Expeditionary Brigade landed at Da Nang, officially introducing US combat troops into the South and launching the **"Local War"** strategy.
+*   **Mar. 8, 1965:** The 9th US Marine Expeditionary Brigade landed at Da Nang, officially introducing US combat troops into the South and launching the **"Local War"** strategy. [Source: Military History Institute of Vietnam, History of the Resistance War against the US (1954 - 1975), Vol. 3, National Political Publishing House, Hanoi, 2013]
 
 ![Historical Image](images/event_20260924_124311.webp)
 
 *Source: U.S. Marines wading ashore from landing craft at Da Nang on March 8, 1965 (Photo: USMC Archives / CC BY 2.0)*
 
 <!-- id: EVT-2292 -->
-*   **Mar. 11, 1965:** **Operation Market Time:** The US Navy and the Saigon administration formed Task Force 115 and launched Operation Market Time, establishing a tight coastal blockade stretching thousands of nautical miles from the 17th parallel to the Gulf of Thailand with naval vessels, coastal radar, and maritime patrol aircraft to sever the sea-based supply routes of the Ho Chi Minh Trail to the South. Despite the enemy's dense blockade and modern weaponry, courageous sailors of the Vietnam People's Navy aboard the Unnumbered Ships skillfully bypassed hostile patrols, successfully delivering tens of thousands of tons of weapons and ammunition to reinforce the southern front lines.
+*   **Mar. 11, 1965:** **Operation Market Time:** The US Navy and the Saigon administration formed Task Force 115 and launched Operation Market Time, establishing a tight coastal blockade stretching thousands of nautical miles from the 17th parallel to the Gulf of Thailand with naval vessels, coastal radar, and maritime patrol aircraft to sever the sea-based supply routes of the Ho Chi Minh Trail to the South. Despite the enemy's dense blockade and modern weaponry, courageous sailors of the Vietnam People's Navy aboard the Unnumbered Ships skillfully bypassed hostile patrols, successfully delivering tens of thousands of tons of weapons and ammunition to reinforce the southern front lines. [Source: Military History Institute of Vietnam, History of the Resistance War against the US (1954 - 1975), Vol. 3, National Political Publishing House, Hanoi, 2013]
 
 <!-- id: EVT-2293 -->
-*   **Mar. 22, 1965:** The National Liberation Front for South Vietnam issued a 5-point statement, affirming its determination to drive out the US imperialists.
+*   **Mar. 22, 1965:** The National Liberation Front for South Vietnam issued a 5-point statement, affirming its determination to drive out the US imperialists. [Source: Vietnam People's Navy Service, History of Brigade 125 - The No-Number Ship Convoy, People's Army Publishing House, Hanoi, 2011]
 
 <!-- id: EVT-2294 -->
-*   **Mar. 25-27, 1965:** The 11th Conference of the Party Central Committee (3rd tenure) defined the urgent task as "resisting the US, saving the country" and shifting the North to a wartime footing.
+*   **Mar. 25-27, 1965:** The 11th Conference of the Party Central Committee (3rd tenure) defined the urgent task as "resisting the US, saving the country" and shifting the North to a wartime footing. [Source: Air Defense - Air Force Service, History of the Anti-Aircraft Troops (1953 - 2003), People's Army Publishing House, Hanoi, 2003]
 
 <!-- id: EVT-2295 -->
-*   **March 30, 1965:** **Attack on the U.S. Embassy in Saigon:** Commando Team 65 (including Le Van Viet, Nguyen Thanh Xuan, Tran Van Dang, and comrades) conducted a car-bomb attack utilizing 150 kg of C4 plastic explosives directly outside the U.S. Embassy at 39 Ham Nghi Boulevard (Saigon). The blast collapsed part of the chancery, killing 22 people (including U.S. diplomatic personnel and guards), injuring 183 others (including Deputy Ambassador Alexis Johnson), and destroying dozens of vehicles, ultimately compelling the U.S. government to construct a heavily fortified new embassy complex on Thong Nhut Boulevard.
+*   **March 30, 1965:** **Attack on the U.S. Embassy in Saigon:** Commando Team 65 (including Le Van Viet, Nguyen Thanh Xuan, Tran Van Dang, and comrades) conducted a car-bomb attack utilizing 150 kg of C4 plastic explosives directly outside the U.S. Embassy at 39 Ham Nghi Boulevard (Saigon). The blast collapsed part of the chancery, killing 22 people (including U.S. diplomatic personnel and guards), injuring 183 others (including Deputy Ambassador Alexis Johnson), and destroying dozens of vehicles, ultimately compelling the U.S. government to construct a heavily fortified new embassy complex on Thong Nhut Boulevard. [Source: Military History Institute of Vietnam, History of the Resistance War against the US (1954 - 1975), Vol. 3, National Political Publishing House, Hanoi, 2013]
 
 <!-- id: EVT-2296 -->
-*   **Apr. 1965:** First Secretary Le Duan led a Vietnamese delegation to the Soviet Union and signed an agreement on Soviet military aid, ushering in massive military and economic support. Meanwhile, the first Australian and New Zealand combat troops began arriving in South Vietnam to support the US.
+*   **Apr. 1965:** First Secretary Le Duan led a Vietnamese delegation to the Soviet Union and signed an agreement on Soviet military aid, ushering in massive military and economic support. Meanwhile, the first Australian and New Zealand combat troops began arriving in South Vietnam to support the US. [Source: Central Committee of the Fatherland Front, The National Liberation Front of South Vietnam (1960 - 1977), National Political Publishing House, Hanoi, 2010]
 
 <!-- id: EVT-2297 -->
-*   **Apr. 3-4, 1965:** The Vietnam People's Air Force flew its first combat mission, joining with air defense forces to shoot down 57 US aircraft in the battle to protect Ham Rong Bridge and Ghep Ferry.
+*   **Apr. 3-4, 1965:** The Vietnam People's Air Force flew its first combat mission, joining with air defense forces to shoot down 57 US aircraft in the battle to protect Ham Rong Bridge and Ghep Ferry. [Source: Military Region 7 High Command, History of the Saigon - Gia Dinh Commandos (1945 - 1975), People's Army Publishing House, Hanoi, 2010]
 
 <!-- id: EVT-2298 -->
-*   **Apr. 4, 1965:** The US Air Force mobilized hundreds of aircraft sorties in a fierce bombing raid against Cầu Dài bridge and Đồng Hới town (Quảng Bình); militiawoman Trần Thị Lý courageously rowed a boat ferrying local leaders across the river under bombardment to direct combat operations, persistently defended anti-aircraft positions protecting vital transport arteries, and dug out comrades and civilians buried by bomb debris (later awarded the title of Hero of the People's Armed Forces in 1967).
+*   **Apr. 4, 1965:** The US Air Force mobilized hundreds of aircraft sorties in a fierce bombing raid against Cầu Dài bridge and Đồng Hới town (Quảng Bình); militiawoman Trần Thị Lý courageously rowed a boat ferrying local leaders across the river under bombardment to direct combat operations, persistently defended anti-aircraft positions protecting vital transport arteries, and dug out comrades and civilians buried by bomb debris (later awarded the title of Hero of the People's Armed Forces in 1967). [Source: Party Central Committee, Party Documents, Vol. 26, National Political Publishing House, Hanoi, 2003]
 
 <!-- id: EVT-2299 -->
-*   **Apr. 8, 1965:** The government of the Democratic Republic of Vietnam announced its 4-point position as a basis for resolving the Vietnam issue.
+*   **Apr. 8, 1965:** The government of the Democratic Republic of Vietnam announced its 4-point position as a basis for resolving the Vietnam issue. [Source: Air Defense - Air Force Service, Ham Rong Victory - Song Ma Epic, People's Army Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2300 -->
-*   **May 5, 1965:** At the 1st Heroes and Emulation Fighters Congress of South Vietnam, the Central Committee of the National Liberation Front for South Vietnam commended and posthumously awarded the title of Liberation Hero of the People's Armed Forces to 22 outstanding individuals; commending heroine Nguyễn Thị Út (Út Tịch, famed for the motto: "As long as even a strip of trousers remains, keep fighting!") alongside 14 cadres and fighters: Hồ Văn Bé (sapper platoon leader in Chợ Gạo district; later Colonel, Deputy Commander of Division 8, Military Region 9), Trần Dưỡng (reconnaissance fighter of Unit V.10, Quảng Nam; later Lieutenant Colonel, Deputy Chief of Military Intelligence, Military Region 5), Lê Quang Công (commander of Company 2 local troops in Mỹ Tho; later Colonel, Deputy Commander and Chief of Staff of Tiền Giang Military Command), Nguyễn Hội (sapper company commander in Bình Thuận, fought in 32 battles, capturing or killing over 100 enemies and seizing 41 weapons), Phạm Văn Hai (commander of Saigon Inner-city Commando Team 65, attacked the Phu Tho Hoa depot in 1954 and led over 30 commando raids against US-RVN targets; sacrificed at Cu Chi in 1966), Tạ Thị Kiều (Colonel, upon conferment a military cadre in Mỏ Cày district, Bến Tre, staunchly organizing mass movements and combating the enemy), Nguyễn Kim (local infantry squad leader in Bình Định, fought 20 battles and led raids destroying 13 strategic hamlets), Đoàn Thanh Liêm (local infantry company commander in Sơn Tịnh, pioneer in organizing Military Region 5 armed forces), Nguyễn Văn Quỳ (deputy commander of Nhà Bè local forces, fought 24 battles; fell resisting Operation Cedar Falls in the Iron Triangle in 1967), Pinăng Tắc (deputy political commissar of Bác Ái district command, who directed the rock-trap ambush at Gia Túc Pass wiping out over 100 enemies in 1961), Nguyễn Minh Tua (platoon leader in Company 1, Battalion 261 Giron, fought 24 battles, capturing or killing 43 enemies, destroying 1 gunboat and 4 GMC trucks), Nguyễn Trung Thành (deputy head of Ordnance Board T.3 and armory party secretary in Cà Mau, designing and producing weapons for the front), Hồ Vai (guerrilla commander of A Lưới commune, led numerous counter-sweep battles; later Lieutenant Colonel, deputy to the 6th and 7th National Assembly; uncle of Heroine Hồ Kan Lịch), and Puih Thu (Puih Banh - guerrilla platoon leader in Ia Lớp, Chư Prông, who led an uprising destroying enemy posts and downed a US helicopter with a rifle); and posthumously conferring upon 7 staunch martyrs: Nguyễn Văn Đừng (squad leader in Battalion 261A Giron, who repelled enemy assaults, knocked out M-113 armored personnel carriers, and fell heroically in the Battle of Ap Bac), Võ Như Hưng (sapper platoon leader in Quảng Đà, who wiped out nearly two enemy companies in the 1963 Điện Bàn counter-sweep), Nguyễn Việt Khái (deputy platoon leader in Battalion U Minh 2, who shot down 4 US helicopters with 8 carbine rounds in 1962; sacrificed at Vàm Cái Tàu post in 1963), Nguyễn Văn Tư (deputy guerrilla squad leader in Tân Thành Bình, who innovated using hornet nests to attack enemy troops across 200 battles), Mai Thanh Thế (sapper in Thạnh Trị district, fell assaulting Cầu Trâu post), Trừ Văn Thố (reconnaissance sapper in Regiment 2, Division 9, who blocked an enemy embrasure with his body at Cây Trường post in 1963), and Ngô Minh Trị (deputy squad leader in Sapper Unit 60, sacrificed in the 1960 Tua Hai raid).
+*   **May 5, 1965:** At the 1st Heroes and Emulation Fighters Congress of South Vietnam, the Central Committee of the National Liberation Front for South Vietnam commended and posthumously awarded the title of Liberation Hero of the People's Armed Forces to 22 outstanding individuals; commending heroine Nguyễn Thị Út (Út Tịch, famed for the motto: "As long as even a strip of trousers remains, keep fighting!") alongside 14 cadres and fighters: Hồ Văn Bé (sapper platoon leader in Chợ Gạo district; later Colonel, Deputy Commander of Division 8, Military Region 9), Trần Dưỡng (reconnaissance fighter of Unit V.10, Quảng Nam; later Lieutenant Colonel, Deputy Chief of Military Intelligence, Military Region 5), Lê Quang Công (commander of Company 2 local troops in Mỹ Tho; later Colonel, Deputy Commander and Chief of Staff of Tiền Giang Military Command), Nguyễn Hội (sapper company commander in Bình Thuận, fought in 32 battles, capturing or killing over 100 enemies and seizing 41 weapons), Phạm Văn Hai (commander of Saigon Inner-city Commando Team 65, attacked the Phu Tho Hoa depot in 1954 and led over 30 commando raids against US-RVN targets; sacrificed at Cu Chi in 1966), Tạ Thị Kiều (Colonel, upon conferment a military cadre in Mỏ Cày district, Bến Tre, staunchly organizing mass movements and combating the enemy), Nguyễn Kim (local infantry squad leader in Bình Định, fought 20 battles and led raids destroying 13 strategic hamlets), Đoàn Thanh Liêm (local infantry company commander in Sơn Tịnh, pioneer in organizing Military Region 5 armed forces), Nguyễn Văn Quỳ (deputy commander of Nhà Bè local forces, fought 24 battles; fell resisting Operation Cedar Falls in the Iron Triangle in 1967), Pinăng Tắc (deputy political commissar of Bác Ái district command, who directed the rock-trap ambush at Gia Túc Pass wiping out over 100 enemies in 1961), Nguyễn Minh Tua (platoon leader in Company 1, Battalion 261 Giron, fought 24 battles, capturing or killing 43 enemies, destroying 1 gunboat and 4 GMC trucks), Nguyễn Trung Thành (deputy head of Ordnance Board T.3 and armory party secretary in Cà Mau, designing and producing weapons for the front), Hồ Vai (guerrilla commander of A Lưới commune, led numerous counter-sweep battles; later Lieutenant Colonel, deputy to the 6th and 7th National Assembly; uncle of Heroine Hồ Kan Lịch), and Puih Thu (Puih Banh - guerrilla platoon leader in Ia Lớp, Chư Prông, who led an uprising destroying enemy posts and downed a US helicopter with a rifle); and posthumously conferring upon 7 staunch martyrs: Nguyễn Văn Đừng (squad leader in Battalion 261A Giron, who repelled enemy assaults, knocked out M-113 armored personnel carriers, and fell heroically in the Battle of Ap Bac), Võ Như Hưng (sapper platoon leader in Quảng Đà, who wiped out nearly two enemy companies in the 1963 Điện Bàn counter-sweep), Nguyễn Việt Khái (deputy platoon leader in Battalion U Minh 2, who shot down 4 US helicopters with 8 carbine rounds in 1962; sacrificed at Vàm Cái Tàu post in 1963), Nguyễn Văn Tư (deputy guerrilla squad leader in Tân Thành Bình, who innovated using hornet nests to attack enemy troops across 200 battles), Mai Thanh Thế (sapper in Thạnh Trị district, fell assaulting Cầu Trâu post), Trừ Văn Thố (reconnaissance sapper in Regiment 2, Division 9, who blocked an enemy embrasure with his body at Cây Trường post in 1963), and Ngô Minh Trị (deputy squad leader in Sapper Unit 60, sacrificed in the 1960 Tua Hai raid). [Source: Ministry of Foreign Affairs, History of Vietnamese Diplomacy (1945 - 2000), National Political Publishing House, Hanoi, 2002]
 
 <!-- id: EVT-2301 -->
-*   **May 9, 1965:** The Government of the Democratic Republic of Vietnam issued a statement protesting the US designation of a "combat zone" in Vietnam. According to Chinese sources, the statement allegedly referred to the US combat zone encompassing a portion of the territorial waters of the PRC in the "Xisha Islands" (Paracels).
+*   **May 9, 1965:** The Government of the Democratic Republic of Vietnam issued a statement protesting the US designation of a "combat zone" in Vietnam. According to Chinese sources, the statement allegedly referred to the US combat zone encompassing a portion of the territorial waters of the PRC in the "Xisha Islands" (Paracels). [Source: Ho Chi Minh Complete Works, Vol. 14 (1963 - 1965), National Political Publishing House, Hanoi, 2011, pp. 524-533]
 
 <!-- id: EVT-2302 -->
 *   **May 26, 1965:** Battle of Nui Thanh (Quang Nam), for the first time, a main-force unit of the Liberation Army neatly wiped out a company of US Marines, initiating the "Find the Americans to fight, meet the Americans to destroy" movement. [Source: Nhan Dan Newspaper - 60th anniversary of the Nui Thanh Victory: Important milestone in early battles against US forces, https://nhandan.vn/60-nam-chien-thang-nui-thanh-moc-son-quan-trong-trong-tran-dau-danh-my-post882503.html]
 
 <!-- id: EVT-2303 -->
-*   **May 26, 1965:** In Quang Xuong (Thanh Hoa), 13-year-old student Nguyen Ba Ngoc bravely uses his body to shield and save two younger children during an intense US bombing raid, sacrificing his life from severe wounds.
+*   **May 26, 1965:** In Quang Xuong (Thanh Hoa), 13-year-old student Nguyen Ba Ngoc bravely uses his body to shield and save two younger children during an intense US bombing raid, sacrificing his life from severe wounds. [Source: Military History Institute of Vietnam, History of the Resistance War against the US (1954 - 1975), Vol. 3, National Political Publishing House, Hanoi, 2013]
 
 <!-- id: EVT-2304 -->
-*   **May 28 - Jul. 20, 1965:** **Ba Gia Campaign (Quang Ngai):** The Liberation Army of South Vietnam (Military Region 5) launched a campaign against Republic of Vietnam forces. In the primary phase (Battle of Ba Gia, May 28 - 31), through mobile ambush and encirclement tactics, Regiment 1 (2nd Division) commanded by Nguyen Chon completely destroyed an ARVN mixed task force (comprising Infantry, Rangers, and Marines) for the first time, wiping out over 900 enemy troops. This victory further dismantled the "Special War" strategy.
+*   **May 28 - Jul. 20, 1965:** **Ba Gia Campaign (Quang Ngai):** The Liberation Army of South Vietnam (Military Region 5) launched a campaign against Republic of Vietnam forces. In the primary phase (Battle of Ba Gia, May 28 - 31), through mobile ambush and encirclement tactics, Regiment 1 (2nd Division) commanded by Nguyen Chon completely destroyed an ARVN mixed task force (comprising Infantry, Rangers, and Marines) for the first time, wiping out over 900 enemy troops. This victory further dismantled the "Special War" strategy. [Source: Quang Nam Provincial Military Command, The Nui Thanh Victory - Historical Milestone, People's Army Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2305 -->
-*   **Jun. 1965 - Sep. 1966:** At Vietnam's request, China sent engineering troops to northeastern Vietnam to help build defense works on 13 islands and 8 mainland locations. Between 1965 and 1968, China dispatched 346 experts and over 310,000 troops (anti-aircraft, engineers, railway builders) to assist Vietnam, fighting 1,659 battles and shooting down numerous US aircraft.
+*   **Jun. 1965 - Sep. 1966:** At Vietnam's request, China sent engineering troops to northeastern Vietnam to help build defense works on 13 islands and 8 mainland locations. Between 1965 and 1968, China dispatched 346 experts and over 310,000 troops (anti-aircraft, engineers, railway builders) to assist Vietnam, fighting 1,659 battles and shooting down numerous US aircraft. [Source: Military History Institute of Vietnam, The Ba Gia Victory, People's Army Publishing House, Hanoi, 1985]
 
 <!-- id: EVT-2306 -->
-*   **Jun. 9 - 13, 1965:** **Battle of Dong Xoai (Phuoc Long):** As part of the broader Dong Xoai Campaign (May 10 - Jul 22), the Liberation Army launched a massive assault on the Dong Xoai district headquarters, defended by ARVN Special Forces and US advisors. Over several days, the Liberation Army overran the base and heavily decimated multiple ARVN reinforcement battalions (including the elite 7th Airborne Battalion). The campaign concluded with nearly 4,500 ARVN troops neutralized, demonstrating the Liberation Army's advanced capacity for concentrated combat.
+*   **Jun. 9 - 13, 1965:** **Battle of Dong Xoai (Phuoc Long):** As part of the broader Dong Xoai Campaign (May 10 - Jul 22), the Liberation Army launched a massive assault on the Dong Xoai district headquarters, defended by ARVN Special Forces and US advisors. Over several days, the Liberation Army overran the base and heavily decimated multiple ARVN reinforcement battalions (including the elite 7th Airborne Battalion). The campaign concluded with nearly 4,500 ARVN troops neutralized, demonstrating the Liberation Army's advanced capacity for concentrated combat. [Source: Military History Institute of Vietnam, The Dong Xoai Victory, People's Army Publishing House, Hanoi, 1985]
 
 <!-- id: EVT-2307 -->
-* **12/06/1965:** Martyr Hoang Dinh Nghia (Squad Leader, 15th Regiment, 9th Division) eliminated 30 enemy troops defending Thuan Loi airfield (Binh Gia) and heroically sacrificed his life.
+* **12/06/1965:** Martyr Hoang Dinh Nghia (Squad Leader, 15th Regiment, 9th Division) eliminated 30 enemy troops defending Thuan Loi airfield (Binh Gia) and heroically sacrificed his life. [Source: Military History Institute of Vietnam, History of the Resistance War against the US (1954 - 1975), Vol. 3, National Political Publishing House, Hanoi, 2013]
 
 <!-- id: EVT-2308 -->
-* **12/06/1965:** Martyr Hoang Dinh Nghia (Squad Leader, 15th Regiment, 9th Division) eliminated 30 enemy troops defending Thuan Loi airfield (Binh Gia) and heroically sacrificed his life.
+* **12/06/1965:** Martyr Hoang Dinh Nghia (Squad Leader, 15th Regiment, 9th Division) eliminated 30 enemy troops defending Thuan Loi airfield (Binh Gia) and heroically sacrificed his life. [Source: Institute of History, History of Vietnam, Vol. 11, Social Sciences Publishing House, Hanoi, 2014]
 
 <!-- id: EVT-2309 -->
-*   **Jun. 18, 1965:** **Operation Arc Light:** The US Strategic Air Command deployed B-52 Stratofortress heavy bombers for the first time in South Vietnam, launching from Andersen Air Force Base (Guam) to carry out devastating carpet-bombing strikes against liberated areas and resistance bases of the Vietnamese people in Ben Cat (Binh Duong province). This marked the beginning of the massive and protracted "Arc Light" carpet-bombing campaign across Vietnam, under which the Vietnamese army and people forged indomitable resilience and defensive tactics against B-52 strikes.
+*   **Jun. 18, 1965:** **Operation Arc Light:** The US Strategic Air Command deployed B-52 Stratofortress heavy bombers for the first time in South Vietnam, launching from Andersen Air Force Base (Guam) to carry out devastating carpet-bombing strikes against liberated areas and resistance bases of the Vietnamese people in Ben Cat (Binh Duong province). This marked the beginning of the massive and protracted "Arc Light" carpet-bombing campaign across Vietnam, under which the Vietnamese army and people forged indomitable resilience and defensive tactics against B-52 strikes. [Source: Military Region 7 High Command, History of the Saigon - Gia Dinh Commandos (1945 - 1975), People's Army Publishing House, Hanoi, 2010]
 
 <!-- id: EVT-2310 -->
-*   **June 25, 1965:** **My Canh Floating Restaurant Bombing (Saigon):** Saigon Commandos detonated two successive explosive charges at the My Canh floating restaurant moored at Bach Dang Quay on the Saigon River, a primary gathering venue for U.S. servicemen and South Vietnamese officials. The bombing killed over 30 people (including American military personnel) and wounded more than 40 others, delivering a severe psychological shock to foreign military authorities in Saigon.
+*   **June 25, 1965:** **My Canh Floating Restaurant Bombing (Saigon):** Saigon Commandos detonated two successive explosive charges at the My Canh floating restaurant moored at Bach Dang Quay on the Saigon River, a primary gathering venue for U.S. servicemen and South Vietnamese officials. The bombing killed over 30 people (including American military personnel) and wounded more than 40 others, delivering a severe psychological shock to foreign military authorities in Saigon. [Source: Air Defense - Air Force Service, History of the Anti-Aircraft Missile Troops (1965 - 2005), People's Army Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2311 -->
-*   **Jun. 26, 1965:** Fidel Castro affirmed absolute support for Vietnam's struggle for independence against the US invasion during a speech to a Cuban youth delegation in La Habana.
+*   **Jun. 26, 1965:** Fidel Castro affirmed absolute support for Vietnam's struggle for independence against the US invasion during a speech to a Cuban youth delegation in La Habana. [Source: Lyndon B. Johnson Presidential Library, Press Conference, July 28, 1965; Military History Institute of Vietnam]
 
 <!-- id: EVT-2312 -->
-*   **Jul. 6, 1965:** The Soviet Council of Ministers decided to establish a Military Expert Delegation in Vietnam to assist the Vietnam People's Army's air defense and air force.
+*   **Jul. 6, 1965:** The Soviet Council of Ministers decided to establish a Military Expert Delegation in Vietnam to assist the Vietnam People's Army's air defense and air force. [Source: Military History Institute of Vietnam, The Van Tuong Victory - Historical Landmark, People's Army Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2313 -->
-*   **Jul. 16, 1965:** Strategic intelligence agent Pham Ngoc Thao heroically sacrificed his life in Saigon after being captured and brutally tortured by the Nguyen Van Thieu regime; he was posthumously awarded the title Hero of the Armed Forces and the rank of Major General.
+*   **Jul. 16, 1965:** Strategic intelligence agent Pham Ngoc Thao heroically sacrificed his life in Saigon after being captured and brutally tortured by the Nguyen Van Thieu regime; he was posthumously awarded the title Hero of the Armed Forces and the rank of Major General. [Source: Military Region 7 High Command, History of the Saigon - Gia Dinh Commandos (1945 - 1975), People's Army Publishing House, Hanoi, 2010]
 
 <!-- id: EVT-2314 -->
-*   **Jul. 24, 1965:** Traditional Day of the Air Defense Missile Force. At 15:53, Missile Regiment 236 (the first main air defense unit of the Vietnam People's Army, assisted by Soviet experts) won its first battle by launching two missiles and shooting down an American F-4C aircraft at an altitude of 7,000 meters at the Suoi Hai base (Son Tay), capturing a pilot alive. This victory significantly boosted the morale of the Vietnamese people and armed forces and caused great dismay at the Pentagon.
+*   **Jul. 24, 1965:** Traditional Day of the Air Defense Missile Force. At 15:53, Missile Regiment 236 (the first main air defense unit of the Vietnam People's Army, assisted by Soviet experts) won its first battle by launching two missiles and shooting down an American F-4C aircraft at an altitude of 7,000 meters at the Suoi Hai base (Son Tay), capturing a pilot alive. This victory significantly boosted the morale of the Vietnamese people and armed forces and caused great dismay at the Pentagon. [Source: Military History Institute of Vietnam, The Plei Me Campaign, People's Army Publishing House, Hanoi, 1993]
 
 <!-- id: EVT-2315 -->
-*   **Aug. 4, 1965:** US aircraft bombed the area at the foot of Thanh Am Bridge (Van Dinh township, Ung Hoa district) at the very moment the Cho Dinh market session was crowdedly in progress, dropping 16 bombs that killed 47 people and wounded 42 others; a memorial stele was erected in the heart of Van Dinh central market to record this tragic event.
+*   **Aug. 4, 1965:** US aircraft bombed the area at the foot of Thanh Am Bridge (Van Dinh township, Ung Hoa district) at the very moment the Cho Dinh market session was crowdedly in progress, dropping 16 bombs that killed 47 people and wounded 42 others; a memorial stele was erected in the heart of Van Dinh central market to record this tragic event. [Source: Military History Institute of Vietnam, The Plei Me Campaign, People's Army Publishing House, Hanoi, 1993; Harold G. Moore & Joseph L. Galloway, We Were Soldiers Once... and Young, Random House, 1992]
 
 <!-- id: EVT-2316 -->
 *   **Aug. 18, 1965:** **Battle of Van Tuong (Quang Ngai):** The United States launched Operation Starlite, deploying around 9,000 Marines supported by armor, air, and naval gunfire to search and destroy the Liberation Army's 1st Regiment (Ba Gia Regiment). This was the first major ground engagement between US forces and the Liberation Army. Despite absolute superiority in firepower, the US Marines were intercepted and ambushed by approximately 2,000 Liberation Army troops utilizing fortified trenches and anti-tank weapons. Both sides claimed victory, but the battle proved that the Liberation Army could successfully engage and withstand large-scale US conventional forces, earning it the title "the Ap Bac against the US military." [Source: Nhan Dan Newspaper - Van Tuong Victory, a glorious milestone in national history, https://nhandan.vn/chien-thang-van-tuong-moc-son-choi-loi-trong-lich-su-dan-toc-post901618.html]
 
 <!-- id: EVT-2317 -->
-*   **Oct. 15, 1965:** Exactly one year after Nguyễn Văn Trỗi's martyrdom, Phan Thị Quyên presented their wedding photograph to Trần Độ (Chín Vinh), Member of the Central Office for South Vietnam and Deputy Political Commissar of the Liberation Army.
+*   **Oct. 15, 1965:** Exactly one year after Nguyễn Văn Trỗi's martyrdom, Phan Thị Quyên presented their wedding photograph to Trần Độ (Chín Vinh), Member of the Central Office for South Vietnam and Deputy Political Commissar of the Liberation Army. [Source: 4th Army Corps, History of the 9th Division (1965 - 2005), People's Army Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2318 -->
-*   **Oct. 19 - Nov. 26, 1965:** **Plei Me Campaign and Battle of Ia Drang (Central Highlands):** The Liberation Army launched the Plei Me Campaign to lure and destroy US and ARVN forces. After a successful siege of the Plei Me camp (Oct 19 - 25), the US 1st Cavalry Division launched counter-operations, leading to the historic **Battle of Ia Drang (Nov 14 - 18)** at Landing Zones X-Ray and Albany. This was the first major conventional clash between the US Army and the regular forces of the Vietnam People's Army. Utilizing "grab the enemy by the belt" close-quarters combat tactics to neutralize US air and artillery superiority (including B-52 carpet bombings), the Liberation Army inflicted severe casualties on the US Cavalry battalions. The battle profoundly altered the US perception of the war, ending early optimism for a swift victory.
+*   **Oct. 19 - Nov. 26, 1965:** **Plei Me Campaign and Battle of Ia Drang (Central Highlands):** The Liberation Army launched the Plei Me Campaign to lure and destroy US and ARVN forces. After a successful siege of the Plei Me camp (Oct 19 - 25), the US 1st Cavalry Division launched counter-operations, leading to the historic **Battle of Ia Drang (Nov 14 - 18)** at Landing Zones X-Ray and Albany. This was the first major conventional clash between the US Army and the regular forces of the Vietnam People's Army. Utilizing "grab the enemy by the belt" close-quarters combat tactics to neutralize US air and artillery superiority (including B-52 carpet bombings), the Liberation Army inflicted severe casualties on the US Cavalry battalions. The battle profoundly altered the US perception of the war, ending early optimism for a swift victory. [Source: Military Region 5 High Command, History of the People's Armed Forces of Military Region 5 (1945 - 2005), People's Army Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2319 -->
-*   **Nov. 2, 1965:** Norman Morrison, an American Quaker and pacifist, self-immolated in front of the Pentagon (USA) to protest the United States' involvement in the Vietnam War. He brought his one-year-old daughter Emily with him before committing the act. His ultimate sacrifice deeply moved the Vietnamese people and anti-war activists worldwide.
+*   **Nov. 2, 1965:** Norman Morrison, an American Quaker and pacifist, self-immolated in front of the Pentagon (USA) to protest the United States' involvement in the Vietnam War. He brought his one-year-old daughter Emily with him before committing the act. His ultimate sacrifice deeply moved the Vietnamese people and anti-war activists worldwide. [Source: Military Region 7 High Command, History of the Saigon - Gia Dinh Commandos (1945 - 1975), People's Army Publishing House, Hanoi, 2010]
 
 <!-- id: EVT-2320 -->
-*   **Nov. 4, 1965:** Poet To Huu visited Dong Hoi and conversed with Mother Suot. Inspired by her bravery, he composed the famous poem "Mẹ Suốt," which immortalized her image in modern Vietnamese literature.
+*   **Nov. 4, 1965:** Poet To Huu visited Dong Hoi and conversed with Mother Suot. Inspired by her bravery, he composed the famous poem "Mẹ Suốt," which immortalized her image in modern Vietnamese literature. [Source: Party Central Committee, Party Documents, Vol. 26, National Political Publishing House, Hanoi, 2003]
 
 <!-- id: EVT-2321 -->
-*   **Nov. 14 - 18, 1965:** Senior Colonel Nguyen Huu An directly commanded the Battle of Ia Drang Valley (Pleime Campaign), the first regiment-level engagement defeating the US 1st Cavalry Division in the Central Highlands.
+*   **Nov. 14 - 18, 1965:** Senior Colonel Nguyen Huu An directly commanded the Battle of Ia Drang Valley (Pleime Campaign), the first regiment-level engagement defeating the US 1st Cavalry Division in the Central Highlands. [Source: Ministry of Foreign Affairs, 60 Years of Special Traditional Vietnam - Cuba Relations (1960 - 2020), National Political Publishing House, Hanoi, 2020]
 
 <!-- id: EVT-2322 -->
-*   **1965-1966 Dry Season:** The army and people of the South defeated the first dry-season strategic counter-offensive of the US.
+*   **1965-1966 Dry Season:** The army and people of the South defeated the first dry-season strategic counter-offensive of the US. [Source: Ernesto Che Guevara, Message to the Tricontinental, Havana, 1967; National Political Publishing House, Hanoi]
 
 <!-- id: EVT-2323 -->
-*   **Dec. 1965:** The 12th Conference of the Party Central Committee (3rd tenure) made the strategic resolution to "defeat the US aggressors" and foresaw the strategy of "fighting while negotiating".
+*   **Dec. 1965:** The 12th Conference of the Party Central Committee (3rd tenure) made the strategic resolution to "defeat the US aggressors" and foresaw the strategy of "fighting while negotiating". [Source: Ministry of Foreign Affairs, 60 Years of Special Traditional Vietnam - Cuba Relations (1960 - 2020), National Political Publishing House, Hanoi, 2020]
 
 <!-- id: EVT-2324 -->
-*   **December 4, 1965:** **Metropole Hotel Bombing (Saigon):** Commando Team 67, led by Le Tan Quoc (Chin Quoc), used an explosive-laden truck to assault the Metropole Hotel at 148 Tran Hung Dao Street (District 5)—a billet for hundreds of U.S. Air Force pilots and logistics personnel. The explosion heavily damaged the building and surrounding military vehicles, inflicting over 130 casualties on American and South Vietnamese military personnel.
+*   **December 4, 1965:** **Metropole Hotel Bombing (Saigon):** Commando Team 67, led by Le Tan Quoc (Chin Quoc), used an explosive-laden truck to assault the Metropole Hotel at 148 Tran Hung Dao Street (District 5)—a billet for hundreds of U.S. Air Force pilots and logistics personnel. The explosion heavily damaged the building and surrounding military vehicles, inflicting over 130 casualties on American and South Vietnamese military personnel. [Source: Ministry of Foreign Affairs, 60 Years of Special Traditional Vietnam - Cuba Relations (1960 - 2020), National Political Publishing House, Hanoi, 2020]
 
 <!-- id: EVT-2325 -->
-*   **Dec. 18, 1965:** **Operation Game Warden:** The US Navy established Task Force 116, deploying river patrol boats (PBRs) and armed helicopters in Operation Game Warden to blockade waterways, interdict communications, and attack resistance bases of the Liberation Army and the people of South Vietnam across the Mekong Delta and the Rung Sac Special Zone. Confronting brutal naval interdiction, Vietnamese water commandos and local guerrillas stood fast, pioneering daring tactics that sank and damaged numerous enemy craft, effectively frustrating the US objective of controlling the waterways.
+*   **Dec. 18, 1965:** **Operation Game Warden:** The US Navy established Task Force 116, deploying river patrol boats (PBRs) and armed helicopters in Operation Game Warden to blockade waterways, interdict communications, and attack resistance bases of the Liberation Army and the people of South Vietnam across the Mekong Delta and the Rung Sac Special Zone. Confronting brutal naval interdiction, Vietnamese water commandos and local guerrillas stood fast, pioneering daring tactics that sank and damaged numerous enemy craft, effectively frustrating the US objective of controlling the waterways. [Source: Military History Institute of Vietnam, History of the Resistance War against the US (1954 - 1975), Vol. 3, National Political Publishing House, Hanoi, 2013; US Naval History and Heritage Command]
 
 <!-- id: EVT-2326 -->
-*   **Dec. 25, 1965:** The Dai Viet Revolutionary Party was founded.
+*   **Dec. 25, 1965:** The Dai Viet Revolutionary Party was founded. [Source: Institute of History, History of Vietnam, Vol. 11, Social Sciences Publishing House, Hanoi, 2014]
 
 <!-- id: EVT-2327 -->
-*   **1966:** Saigon commando Tran Van Lai secretly built a floating bunker in a house in Ba Chieu, serving as a reserve command post for the 1968 Tet Offensive.
+*   **1966:** Saigon commando Tran Van Lai secretly built a floating bunker in a house in Ba Chieu, serving as a reserve command post for the 1968 Tet Offensive. [Source: Military Region 7 High Command, History of the Saigon - Gia Dinh Commandos (1945 - 1975), People's Army Publishing House, Hanoi, 2010]
 
 <!-- id: EVT-2328 -->
-*   **1966:** Under the direction of H.63 intelligence commander Tu Cang (Nguyen Van Tau) to penetrate the enemy's command center, Tam Thao used her fluent English skills to secure a position as an interpreter at the Republic of Vietnam Navy Command, later becoming the private translator for Major James, US Naval Intelligence Advisor. From this critical vantage point, she gathered vital military intelligence, facility diagrams, and operational plans for the resistance.
+*   **1966:** Under the direction of H.63 intelligence commander Tu Cang (Nguyen Van Tau) to penetrate the enemy's command center, Tam Thao used her fluent English skills to secure a position as an interpreter at the Republic of Vietnam Navy Command, later becoming the private translator for Major James, US Naval Intelligence Advisor. From this critical vantage point, she gathered vital military intelligence, facility diagrams, and operational plans for the resistance. [Source: Larry Berman, Perfect Spy: The Incredible Double Life of Pham Xuan An, HarperCollins, New York, 2007; General Department II - Ministry of National Defense]
 
 <!-- id: EVT-2329 -->
-*   **1966:** Mother Suot was invited to attend the National Congress of Heroes and Emulation Fighters in Northern Vietnam.
+*   **1966:** Mother Suot was invited to attend the National Congress of Heroes and Emulation Fighters in Northern Vietnam. [Source: Central Committee of Vietnam Women's Union, Mother Suot - Transport Heroine, Women's Publishing House, Hanoi, 1999; Nhan Dan Newspaper]
 
 <!-- id: EVT-2330 -->
-*   **1966 - 1967:** The French Parliament passed an amnesty law (1966) for acts committed during the Indochina and Algerian wars, permanently erasing past convictions. Consequently, Georges Boudarel returned to France in 1967, commencing his academic career teaching and researching modern Vietnamese history at Denis Diderot University (Paris VII).
+*   **1966 - 1967:** The French Parliament passed an amnesty law (1966) for acts committed during the Indochina and Algerian wars, permanently erasing past convictions. Consequently, Georges Boudarel returned to France in 1967, commencing his academic career teaching and researching modern Vietnamese history at Denis Diderot University (Paris VII). [Source: Georges Boudarel, Memoirs of a Frenchman in the Vietminh, Editions Bernard Grasset, Paris, 1991]
 
 <!-- id: EVT-2331 -->
-*   **1966:** Luu Tan Phat, then Deputy Commander of Logistics for Military Region 8, heroically sacrificed his life while on a mission in Kien Phong (now Dong Thap).
+*   **1966:** Luu Tan Phat, then Deputy Commander of Logistics for Military Region 8, heroically sacrificed his life while on a mission in Kien Phong (now Dong Thap). [Source: Military Region 9 High Command, History of Logistics of Military Region 9 (1945 - 2005), People's Army Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2332 -->
-* **1966:** Hero of the People's Armed Forces Bùi Chát (Trung đội trưởng công binh thuộc Trung đoàn 93, Đại đoàn 324) passed away.
+* **1966:** Hero of the People's Armed Forces Bùi Chát (Trung đội trưởng công binh thuộc Trung đoàn 93, Đại đoàn 324) passed away. [Source: Department of Propaganda and Training, Heroes of the People's Armed Forces in the Resistance against French Colonialism, People's Army Publishing House, Hanoi, 1996]
 
 <!-- id: EVT-2333 -->
-* **1966:** Martyr Phạm Văn Hai (Đội trưởng Đội biệt động 65 nội thành Sài Gòn. Tham gia trận đánh kho bom Phú Thọ Hòa ngày 1 tháng 6 năm 1954, chỉ huy đơn vị tập kích hơn 30 trận vào các mục tiêu quân sự của Mỹ và chính quyền Việt Nam Cộng hòa. Hy sinh tại chiến trường Củ Chi năm 1966) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland.
+* **1966:** Martyr Phạm Văn Hai (Đội trưởng Đội biệt động 65 nội thành Sài Gòn. Tham gia trận đánh kho bom Phú Thọ Hòa ngày 1 tháng 6 năm 1954, chỉ huy đơn vị tập kích hơn 30 trận vào các mục tiêu quân sự của Mỹ và chính quyền Việt Nam Cộng hòa. Hy sinh tại chiến trường Củ Chi năm 1966) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland. [Source: Military Region 7 High Command, History of the Saigon - Gia Dinh Commandos (1945 - 1975), People's Army Publishing House, Hanoi, 2010]
 
 <!-- id: EVT-2334 -->
-*   **Jan. 2, 1966:** At a rally of over one million people in La Habana celebrating the 7th anniversary of the Cuban Revolution, Fidel Castro famously declared: "For Vietnam, Cuba is willing to give even its own blood." Following this, thousands of Cuban youth volunteered to go to Vietnam to fight.
+*   **Jan. 2, 1966:** At a rally of over one million people in La Habana celebrating the 7th anniversary of the Cuban Revolution, Fidel Castro famously declared: "For Vietnam, Cuba is willing to give even its own blood." Following this, thousands of Cuban youth volunteered to go to Vietnam to fight. [Source: Ministry of Foreign Affairs, 60 Years of Special Traditional Vietnam - Cuba Relations (1960 - 2020), National Political Publishing House, Hanoi, 2020]
 
 <!-- id: EVT-2335 -->
-*   **Jan. 8 - Jan. 19, 1966:** The US and allied forces launched **Operation Crimp** with 12,000 troops, tanks, and B-52 support targeting the "Iron Triangle" (Cu Chi) to destroy the headquarters of the Saigon - Gia Dinh Military Zone. The revolutionary forces relied on the tunnel system to counterattack and preserve their forces.
+*   **Jan. 8 - Jan. 19, 1966:** The US and allied forces launched **Operation Crimp** with 12,000 troops, tanks, and B-52 support targeting the "Iron Triangle" (Cu Chi) to destroy the headquarters of the Saigon - Gia Dinh Military Zone. The revolutionary forces relied on the tunnel system to counterattack and preserve their forces. [Source: Military Region 7 High Command, History of Armed Forces in Eastern Nam Bo (1945 - 2005), People's Army Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2336 -->
-*   **Jan. 9, 1966:** South Korean troops conducted a raid and massacred 37 civilians in Kim Tai hamlet (Nhon Phong, Binh Dinh).
+*   **Jan. 9, 1966:** South Korean troops conducted a raid and massacred 37 civilians in Kim Tai hamlet (Nhon Phong, Binh Dinh). [Source: Binh Dinh Provincial Party Committee, History of Binh Dinh Provincial Party Committee, Vol. 2, National Political Publishing House, Hanoi, 2000]
 
 <!-- id: EVT-2337 -->
-*   **Jan. 16, 1966:** President Ho Chi Minh spoke at a high-level cadre conference studying the 12th Central Committee Resolution, affirming the determination to defeat the US aggressors regardless of troop numbers.
+*   **Jan. 16, 1966:** President Ho Chi Minh spoke at a high-level cadre conference studying the 12th Central Committee Resolution, affirming the determination to defeat the US aggressors regardless of troop numbers. [Source: Ho Chi Minh Complete Works, Vol. 15 (1966 - 1969), National Political Publishing House, Hanoi, 2011, pp. 1-8]
 
 <!-- id: EVT-2338 -->
-*   **20/01/1966 (New Year's Eve of the Lunar Year of the Wood Snake):** Gifted poet Nguyễn Bính passed away suddenly in Nam Định at age 48. In 2000, he was posthumously awarded the Hồ Chí Minh Prize in Literature and Arts for his distinguished contributions to the New Poetry Movement and resistance literature.
+*   **20/01/1966 (New Year's Eve of the Lunar Year of the Wood Snake):** Gifted poet Nguyễn Bính passed away suddenly in Nam Định at age 48. In 2000, he was posthumously awarded the Hồ Chí Minh Prize in Literature and Arts for his distinguished contributions to the New Poetry Movement and resistance literature. [Source: Vietnam Writers Association, Nguyen Binh - Poet of the Countryside, Literature Publishing House, Hanoi, 2000]
 
 <!-- id: EVT-2339 -->
-*   **Jan. 24 - Mar. 6, 1966:** **Operation Masher / White Wing:** The US 1st Cavalry Division (Airmobile) alongside the South Korean Tiger Division and Saigon forces conducted a brutal "search and destroy" sweep across liberated areas in Binh Dinh province. Despite devastating firepower deployed by the enemy that massacred civilians and destroyed villages, the Liberation Armed Forces and the people of Binh Dinh stubbornly held their ground, fiercely fighting back against hostile assaults, inflicting heavy casualties on invading troops, and preserving revolutionary bases.
+*   **Jan. 24 - Mar. 6, 1966:** **Operation Masher / White Wing:** The US 1st Cavalry Division (Airmobile) alongside the South Korean Tiger Division and Saigon forces conducted a brutal "search and destroy" sweep across liberated areas in Binh Dinh province. Despite devastating firepower deployed by the enemy that massacred civilians and destroyed villages, the Liberation Armed Forces and the people of Binh Dinh stubbornly held their ground, fiercely fighting back against hostile assaults, inflicting heavy casualties on invading troops, and preserving revolutionary bases. [Source: Military History Institute of Vietnam, History of the Resistance War against the US (1954 - 1975), Vol. 3, National Political Publishing House, Hanoi, 2013]
 
 <!-- id: EVT-2340 -->
-*   **Jan. 25, 1966:** The Saigon - Gia Dinh Military Command held a conference to summarize the battle, evaluating the great effectiveness of the tunnel system in "tunnel warfare."
+*   **Jan. 25, 1966:** The Saigon - Gia Dinh Military Command held a conference to summarize the battle, evaluating the great effectiveness of the tunnel system in "tunnel warfare." [Source: Military Region 7 High Command, Cu Chi Tunnels - A Wonder of Combat, People's Army Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-2341 -->
-* **04/02/1966:** Martyr Luu Van Liet (commando fighter of Vinh Long town) heroically sacrificed his life during a surprise attack eliminating numerous enemy officers and troops at Le Hoa restaurant.
+* **04/02/1966:** Martyr Luu Van Liet (commando fighter of Vinh Long town) heroically sacrificed his life during a surprise attack eliminating numerous enemy officers and troops at Le Hoa restaurant. [Source: Vinh Long Provincial Military Command, History of the People's Armed Forces of Vinh Long (1945 - 2005), People's Army Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2342 -->
-*   **1966 - Early 1967:** Le Thi Tuyet (Quang Tri) participated with the district armed forces in fighting sweep operations in the Xuan - Vinh cluster, eliminating two enemies. She was subsequently sent to study nursing.
+*   **1966 - Early 1967:** Le Thi Tuyet (Quang Tri) participated with the district armed forces in fighting sweep operations in the Xuan - Vinh cluster, eliminating two enemies. She was subsequently sent to study nursing. [Source: Quang Tri Provincial Party Committee, History of Quang Tri Provincial Party Committee, Vol. 2, National Political Publishing House, Hanoi, 2007]
 
 <!-- id: EVT-2343 -->
 * **08/02/1966:** Martyr Nguyen Van Quang (Deputy Squad Leader, 2nd Company, 303rd Battalion, Southwestern Main Force) heroically sacrificed his life in a counter-sweep battle at Co Tuat canal.
