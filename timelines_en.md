@@ -8991,422 +8991,422 @@
 *   **Jan. 13, 1981:** The Party Secretariat issued Directive No. 100/CT-TU ("Contract 100") on improving the contract system, extending product-based contracts to groups and individual laborers in agricultural cooperatives. [Source: Secretariat Directive No. 100-CT/TW dated Jan. 13, 1981; Complete Party Documents, Vol. 42 (1981), National Political Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2770 -->
-*   **Jan. 21, 1981:** The Council of Government issued Decision No. 25-CP, aiming to promote the autonomy in production and business and financial self-management of state-owned enterprises.
+*   **Jan. 21, 1981:** The Council of Government issued Decision No. 25-CP, aiming to promote the autonomy in production and business and financial self-management of state-owned enterprises. [Source: Government Council Decision No. 25-CP dated Jan. 21, 1981; Complete Party Documents, Vol. 42 (1981), National Political Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2771 -->
-*   **Jul. 4, 1981:** At the 1st session of the 7th National Assembly, the legislature elected Comrade Truong Chinh as Chairman of the Council of State (the first collective head of state under the 1980 Constitution), Comrade Pham Van Dong as Chairman of the Council of Ministers, and Comrade Huynh Tan Phat as Vice Chairman of the Council of Ministers of the Socialist Republic of Vietnam.
+*   **Jul. 4, 1981:** At the 1st session of the 7th National Assembly, the legislature elected Comrade Truong Chinh as Chairman of the Council of State (the first collective head of state under the 1980 Constitution), Comrade Pham Van Dong as Chairman of the Council of Ministers, and Comrade Huynh Tan Phat as Vice Chairman of the Council of Ministers of the Socialist Republic of Vietnam. [Source: Resolution of the 7th National Assembly at its First Session, July 4, 1981; National Assembly Documents, Vol. 6 (1981 - 1987), National Political Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-2772 -->
-*   **1982:** The Executive Committee of the Ho Chi Minh City Youth Union designated October 15 - the anniversary of Nguyễn Văn Trỗi's martyrdom - as the Traditional Day of Ho Chi Minh City Young Workers and established the Nguyễn Văn Trỗi Award for outstanding young workers.
+*   **1982:** The Executive Committee of the Ho Chi Minh City Youth Union designated October 15 - the anniversary of Nguyễn Văn Trỗi's martyrdom - as the Traditional Day of Ho Chi Minh City Young Workers and established the Nguyễn Văn Trỗi Award for outstanding young workers. [Source: Ho Chi Minh City Youth Union, Chronology of HCMC Ho Chi Minh Communist Youth Union (1975 - 2005), Tre Publishing House, 2005; Tuoi Tre Newspaper]
 
 <!-- id: EVT-2773 -->
-* **1982:** Hero of the People's Armed Forces Lê Văn Một (Thuyền trưởng tàu không số đầu tiên của tuyến Đường mòn Hồ Chí Minh trên biển) passed away.
+* **1982:** Hero of the People's Armed Forces Lê Văn Một (Thuyền trưởng tàu không số đầu tiên của tuyến Đường mòn Hồ Chí Minh trên biển) passed away. [Source: Naval Command, Legend of the Ho Chi Minh Sea Trail, People's Army Publishing House, Hanoi, 2011; Naval Museum]
 
 <!-- id: EVT-2774 -->
-*   **Early 1982:** Despite severe infrastructure destruction from the 1979 war, military units stationed at the Cao Bang border actively assisted local residents in restoring agricultural production and rebuilding schools.
+*   **Early 1982:** Despite severe infrastructure destruction from the 1979 war, military units stationed at the Cao Bang border actively assisted local residents in restoring agricultural production and rebuilding schools. [Source: Ministry of Transport, History of Vietnamese Transport (1945 - 2005), Transport Publishing House, Hanoi, 2005; Nhan Dan Newspaper]
 
 <!-- id: EVT-2775 -->
-*   **Mar. 27 - 31, 1982:** The 5th National Congress of the Communist Party of Vietnam convened in Hanoi, re-electing Comrade Le Duan as General Secretary of the Party Central Committee; setting out the Third Five-Year Socio-Economic Plan (1981–1985) and taking initial steps to adjust investment structure, identifying agriculture as the frontline priority.
+*   **Mar. 27 - 31, 1982:** The 5th National Congress of the Communist Party of Vietnam convened in Hanoi, re-electing Comrade Le Duan as General Secretary of the Party Central Committee; setting out the Third Five-Year Socio-Economic Plan (1981–1985) and taking initial steps to adjust investment structure, identifying agriculture as the frontline priority. [Source: Political Report of the Party Central Committee at the 5th National Congress; Complete Party Documents, Vol. 43 (1982), National Political Publishing House, Hanoi, 2006]
 
 <!-- id: EVT-2776 -->
-*   **Jun. 1982:** Huynh Tan Phat was elected Vice President of the Council of State.
+*   **Jun. 1982:** Huynh Tan Phat was elected Vice President of the Council of State. [Source: Resolution of the 7th National Assembly at its 3rd Session, June 1982; National Assembly Documents, Vol. 6 (1981 - 1987), National Political Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-2777 -->
-*   **Jun. 1982:** China's Xinhua News Agency reported the completion of a major new harbor on Triton Island (Dao Tri Ton) in the Paracel Islands, highlighting China's ongoing militarization and infrastructure development in the occupied territory.
+*   **Jun. 1982:** China's Xinhua News Agency reported the completion of a major new harbor on Triton Island (Dao Tri Ton) in the Paracel Islands, highlighting China's ongoing militarization and infrastructure development in the occupied territory. [Source: Ministry of Foreign Affairs of the SRV, White Paper: The Hoang Sa and Truong Sa Archipelagos - Vietnamese Territory, Hanoi, 1988; Dr. Nguyen Nha, Vietnam's Territorial Sovereignty over Hoang Sa and Truong Sa Archipelagos, 2013]
 
 <!-- id: EVT-2778 -->
-*   **Sep. 28, 1982:** The Council of Ministers issued a decision to make November 20th an annual Vietnamese Teachers' Day.
+*   **Sep. 28, 1982:** The Council of Ministers issued a decision to make November 20th an annual Vietnamese Teachers' Day. [Source: Council of Ministers Decision No. 167-HDBT dated Sept. 28, 1982; Ministry of Education and Training; Nhan Dan Newspaper, Sept. 29, 1982]
 
 <!-- id: EVT-2779 -->
-*   **Nov. 12, 1982:** The Government of the Socialist Republic of Vietnam issued a Declaration on the Baseline of Vietnam's Territorial Sea, reaffirming that the Paracel and Spratly Archipelagos are inseparable parts of Vietnamese territory.
+*   **Nov. 12, 1982:** The Government of the Socialist Republic of Vietnam issued a Declaration on the Baseline of Vietnam's Territorial Sea, reaffirming that the Paracel and Spratly Archipelagos are inseparable parts of Vietnamese territory. [Source: Statement of the Government of the SRV on the Territorial Sea Baseline, Nov. 12, 1982; Official Gazette of the SRV]
 
 <!-- id: EVT-2780 -->
-*   **Nov. 12, 1982:** The Socialist Republic of Vietnam issued a declaration defining the baselines used to measure the width of its territorial sea, which encompassed the archipelagos.
+*   **Nov. 12, 1982:** The Socialist Republic of Vietnam issued a declaration defining the baselines used to measure the width of its territorial sea, which encompassed the archipelagos. [Source: Statement of the Government of the SRV on the Territorial Sea Baseline, Nov. 12, 1982; National Boundary Commission, Ministry of Foreign Affairs]
 
 <!-- id: EVT-2781 -->
-*   **Dec. 9, 1982:** The Council of Ministers of the Socialist Republic of Vietnam issued **Decision No. 193-HDBT** establishing Hoang Sa District under Quang Nam - Da Nang Province and **Decision No. 194-HDBT** establishing Truong Sa District under Dong Nai Province (transferred to Phu Khanh Province on December 28, 1982, modern-day Khanh Hoa Province).
+*   **Dec. 9, 1982:** The Council of Ministers of the Socialist Republic of Vietnam issued **Decision No. 193-HDBT** establishing Hoang Sa District under Quang Nam - Da Nang Province and **Decision No. 194-HDBT** establishing Truong Sa District under Dong Nai Province (transferred to Phu Khanh Province on December 28, 1982, modern-day Khanh Hoa Province). [Source: Council of Ministers Decision No. 193-HDBT dated Dec. 9, 1982 establishing Truong Sa District; Official Gazette of the SRV]
 
 <!-- id: EVT-2782 -->
-*   **Dec. 9, 1982:** The Council of Ministers of Vietnam issued decisions restructuring the administrative management of the archipelagos.
+*   **Dec. 9, 1982:** The Council of Ministers of Vietnam issued decisions restructuring the administrative management of the archipelagos. [Source: Council of Ministers Decision No. 194-HDBT dated Dec. 9, 1982 establishing Hoang Sa District; Official Gazette of the SRV]
 
 <!-- id: EVT-2783 -->
-* **1983:** Hero of the People's Armed Forces Bông Văn Dĩa (Đoàn phó Đoàn 962 vận tải biển - Quân khu 9. Tham gia hàng chục chuyến vận tải chở vũ khí trên tuyến đường Hồ Chí Minh trên biển) passed away.
+* **1983:** Hero of the People's Armed Forces Bông Văn Dĩa (Đoàn phó Đoàn 962 vận tải biển - Quân khu 9. Tham gia hàng chục chuyến vận tải chở vũ khí trên tuyến đường Hồ Chí Minh trên biển) passed away. [Source: Ca Mau Provincial Party Committee Commission for Propaganda, History of Ca Mau Provincial Party Organization (1930 - 2000), Mui Ca Mau Publishing House, 2004; People's Army Newspaper]
 
 <!-- id: EVT-2784 -->
-* **1983:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Dương Đức Thùng (Tham gia Chiến dịch phản công biên giới Tây Nam).
+* **1983:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Dương Đức Thùng (Tham gia Chiến dịch phản công biên giới Tây Nam). [Source: State Council Order conferring Hero of the People's Armed Forces in 1983; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2785 -->
-*   **Feb. 23, 1983:** Malaysia officially raised sovereignty claims over three islands in the Spratlys, which Vietnam formally protested on March 25.
+*   **Feb. 23, 1983:** Malaysia officially raised sovereignty claims over three islands in the Spratlys, which Vietnam formally protested on March 25. [Source: Statement of the Ministry of Foreign Affairs of the SRV protesting Malaysia, Feb. 25, 1983; Dr. Nguyen Nha, Vietnam's Territorial Sovereignty over Hoang Sa and Truong Sa Archipelagos, Tri Thuc Publishing House, 2013]
 
 <!-- id: EVT-2786 -->
-*   **May 1983:** Huynh Tan Phat was elected President of the Presidium of the Central Committee of the Vietnam Fatherland Front and President of the Vietnam Association of Architects.
+*   **May 1983:** Huynh Tan Phat was elected President of the Presidium of the Central Committee of the Vietnam Fatherland Front and President of the Vietnam Association of Architects. [Source: Resolution of the 2nd National Congress of the Vietnam Fatherland Front, May 1983; Central Committee of the Vietnam Fatherland Front]
 
 <!-- id: EVT-2787 -->
-*   **Jun. 1983:** Malaysian troops occupied Swallow Reef (Hoa Lau) in the Spratlys and constructed facilities. Vietnam officially protested this action.
+*   **Jun. 1983:** Malaysian troops occupied Swallow Reef (Hoa Lau) in the Spratlys and constructed facilities. Vietnam officially protested this action. [Source: Protest Statement by the Spokesperson of the Ministry of Foreign Affairs of the SRV, June 28, 1983; Ministry of Foreign Affairs, White Paper on Hoang Sa and Truong Sa, 1988]
 
 <!-- id: EVT-2788 -->
-*   **Summer 1983:** Border clashes intensified again in the Hoang Lien Son (Lao Cai) and Ha Tuyen (Ha Giang) regions.
+*   **Summer 1983:** Border clashes intensified again in the Hoang Lien Son (Lao Cai) and Ha Tuyen (Ha Giang) regions. [Source: Vietnam Military History Institute, History of the War Defending the Northern Border (1979 - 1989), People's Army Publishing House, Hanoi, 2001; People's Army Newspaper]
 
 <!-- id: EVT-2789 -->
-*   **Jul. 1983:** Ho Chi Minh City Party Secretary Nguyen Van Linh convened a historic working session in Da Lat bringing directors of dynamic city enterprises to report directly to General Secretary Le Duan on breakthrough economic practices; the meeting fundamentally shifted the Party leadership's economic thinking, paving the way for comprehensive Renewal (Doi Moi).
+*   **Jul. 1983:** Ho Chi Minh City Party Secretary Nguyen Van Linh convened a historic working session in Da Lat bringing directors of dynamic city enterprises to report directly to General Secretary Le Duan on breakthrough economic practices; the meeting fundamentally shifted the Party leadership's economic thinking, paving the way for comprehensive Renewal (Doi Moi). [Source: HCM City Party Committee, Comrade Nguyen Van Linh with the Party Organization and People of HCM City, National Political Publishing House, Hanoi, 2015; Sai Gon Giai Phong Newspaper]
 
 <!-- id: EVT-2790 -->
-*   **Sep. 27, 1983:** Australian international journalist Wilfred Burchett (a steadfast friend and loyal comrade of President Ho Chi Minh and the Vietnamese people throughout both the anti-French and anti-US resistance wars) passed away in Sofia, Bulgaria at the age of 72.
+*   **Sep. 27, 1983:** Australian international journalist Wilfred Burchett (a steadfast friend and loyal comrade of President Ho Chi Minh and the Vietnamese people throughout both the anti-French and anti-US resistance wars) passed away in Sofia, Bulgaria at the age of 72. [Source: Wilfred Burchett, At the Barricades: The Memoirs of a Rebel Journalist, Times Books, 1981; Vietnam Journalists Association Communique; Nhan Dan Newspaper]
 
 <!-- id: EVT-2791 -->
-*   **Late 1983:** Chinese troops frequently conducted ambushes using mines and B41 rockets against Vietnamese vehicles on the border roads of Muong Khuong (Lao Cai).
+*   **Late 1983:** Chinese troops frequently conducted ambushes using mines and B41 rockets against Vietnamese vehicles on the border roads of Muong Khuong (Lao Cai). [Source: Vietnam Military History Institute, History of the War Defending the Northern Border (1979 - 1989), People's Army Publishing House, Hanoi, 2001; Nhan Dan Newspaper]
 
 <!-- id: EVT-2792 -->
 *   **Apr. 28, 1984:** The Chinese military mobilized multiple infantry divisions supported by heavy artillery barrages to launch a massive encroachment offensive along the Vi Xuyen border region (Ha Tuyen province), seizing heights 1509 (Mount Lao), 772, and 685. This event initiated the fiercest and most prolonged border defense battle throughout the 1980s on the Vi Xuyen front, where soldiers of the People's Army of Vietnam—inspired by the heroic oath "Living, cling to the rocks to fight; dying, turn to stone immortal"—fought valiantly to safeguard every sacred inch of the Fatherland. [Source: Vietnam Government Portal - Vi Xuyen Border: From blazing front line to memorial altar, https://baochinhphu.vn/bien-gioi-vi-xuyen-tu-tran-tuyen-nong-bong-den-dai-huong-tuong-niem-102251805.htm]
 
 <!-- id: EVT-2793 -->
-*   **Apr. 30, 1984:** Construction began on the Tri An Hydropower Plant on the Dong Nai River with technical assistance from the Soviet Union, serving as a key power project for economic growth and energy security in southern Vietnam following national reunification.
+*   **Apr. 30, 1984:** Construction began on the Tri An Hydropower Plant on the Dong Nai River with technical assistance from the Soviet Union, serving as a key power project for economic growth and energy security in southern Vietnam following national reunification. [Source: Vietnam Electricity, History of Tri An Hydropower Plant (1984 - 2014), Dong Nai Publishing House, 2014; Sai Gon Giai Phong Newspaper, May 1, 1984]
 
 <!-- id: EVT-2794 -->
-*   **Jun. 2, 1984:** The Chinese National People's Congress decided to establish a special administrative region comprising Hainan Island and the two archipelagos. The Vietnamese government strongly protested.
+*   **Jun. 2, 1984:** The Chinese National People's Congress decided to establish a special administrative region comprising Hainan Island and the two archipelagos. The Vietnamese government strongly protested. [Source: Protest Statement by the Spokesperson of the Ministry of Foreign Affairs of the SRV, June 5, 1984; Nhan Dan Newspaper; Dr. Nguyen Nha, Vietnam's Territorial Sovereignty over Hoang Sa and Truong Sa Archipelagos, 2013]
 
 <!-- id: EVT-2795 -->
-*   **Jul. 12, 1984:** During the fierce border conflict in Vi Xuyen (Ha Giang), a massive Chinese artillery barrage targeted Vietnamese positions, causing heavy casualties for the Vietnamese forces, particularly on Hill 772. The intensely bombarded area became known to soldiers as the "Century Lime Kiln" (Lò vôi thế kỷ). It was here that soldiers like Nguyen Viet Ninh fought with the immortal motto carved on their rifle butts: "Live clinging to the rock, die turning into stone, becoming immortal."
+*   **Jul. 12, 1984:** During the fierce border conflict in Vi Xuyen (Ha Giang), a massive Chinese artillery barrage targeted Vietnamese positions, causing heavy casualties for the Vietnamese forces, particularly on Hill 772. The intensely bombarded area became known to soldiers as the "Century Lime Kiln" (Lò vôi thế kỷ). It was here that soldiers like Nguyen Viet Ninh fought with the immortal motto carved on their rifle butts: "Live clinging to the rock, die turning into stone, becoming immortal." [Source: Ha Giang Provincial Military Command, Vi Xuyen Memories: History of the War Defending the Northern Border (1979 - 1989), People's Army Publishing House, Hanoi, 2019; People's Army Newspaper]
 
 <!-- id: EVT-2796 -->
-*   **Sep. 9, 1984:** The Vietnam People's Public Security forces successfully concluded the **CM12 Counter-Espionage Campaign** (spanning from 1981 to 1984) at Hon Da Bac (Ca Mau province). Employing an ingenious "counter-plot" strategy, Vietnamese security forces intercepted all 18 infiltration attempts by the exile reactionary group "Unified Front of Patriotic Forces for the Liberation of Vietnam" led by Le Quoc Tuy and Mai Van Hanh, neutralizing and capturing hundreds of armed commandos and espionage operatives, while seizing hundreds of tons of weapons, vessels, and counterfeit currency, completely shattering an armed conspiracy to incite rebellion and overthrow the government.
+*   **Sep. 9, 1984:** The Vietnam People's Public Security forces successfully concluded the **CM12 Counter-Espionage Campaign** (spanning from 1981 to 1984) at Hon Da Bac (Ca Mau province). Employing an ingenious "counter-plot" strategy, Vietnamese security forces intercepted all 18 infiltration attempts by the exile reactionary group "Unified Front of Patriotic Forces for the Liberation of Vietnam" led by Le Quoc Tuy and Mai Van Hanh, neutralizing and capturing hundreds of armed commandos and espionage operatives, while seizing hundreds of tons of weapons, vessels, and counterfeit currency, completely shattering an armed conspiracy to incite rebellion and overthrow the government. [Source: Ministry of Public Security, Plan CM12: The Decisive Blow Crushing Armed Subversion Conspiracies, Public Security Publishing House, Hanoi, 2004; People's Public Security Newspaper]
 
 <!-- id: EVT-2797 -->
-*   **1985:** Passing of Ta Quoc Luat (born 1925 in Thai Binh), the courageous company captain who led the assault squad (Company 360, Regiment 209, Division 312) capturing General Christian de Castries at the Dien Bien Phu command bunker on May 7, 1954.
+*   **1985:** Passing of Ta Quoc Luat (born 1925 in Thai Binh), the courageous company captain who led the assault squad (Company 360, Regiment 209, Division 312) capturing General Christian de Castries at the Dien Bien Phu command bunker on May 7, 1954. [Source: 312th Division, History of the 312th Chien Thang Division (1950 - 2000), People's Army Publishing House, Hanoi, 2000; Dien Bien Phu Victory Museum]
 
 <!-- id: EVT-2798 -->
-* **1985:** Hero of the People's Armed Forces Đỗ Xuân Hợp (Giáo sư, bác sĩ giải phẫu; Giám đốc Học viện Quân y) passed away.
+* **1985:** Hero of the People's Armed Forces Đỗ Xuân Hợp (Giáo sư, bác sĩ giải phẫu; Giám đốc Học viện Quân y) passed away. [Source: Military Medical Academy, Major General Professor Do Xuan Hop - Outstanding Vietnamese Surgeon and Anatomist, People's Army Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2799 -->
-* **1985:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Văn Đệ (Đại tá, Kỹ sư điều khiển tên lửa, Ủy viên Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam lần thứ 3).
+* **1985:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Văn Đệ (Đại tá, Kỹ sư điều khiển tên lửa, Ủy viên Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam lần thứ 3). [Source: State Council Order conferring Hero of the People's Armed Forces in 1985; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2800 -->
-* **1985:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Hữu Vị (Tham gia cuộc kháng chiến giải phóng dân tộc và bảo vệ Tổ quốc, nguyên Chỉ huy trưởng Bộ Chỉ huy Quân sự tỉnh Bến Tre).
+* **1985:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Hữu Vị (Tham gia cuộc kháng chiến giải phóng dân tộc và bảo vệ Tổ quốc, nguyên Chỉ huy trưởng Bộ Chỉ huy Quân sự tỉnh Bến Tre). [Source: State Council Order conferring Hero of the People's Armed Forces in 1985; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2801 -->
-*   **Mar. 11, 1985:** Mikhail Gorbachev was elected General Secretary of the Communist Party of the Soviet Union, initiating the "Perestroika" (restructuring) and "Glasnost" (openness) policies.
+*   **Mar. 11, 1985:** Mikhail Gorbachev was elected General Secretary of the Communist Party of the Soviet Union, initiating the "Perestroika" (restructuring) and "Glasnost" (openness) policies. [Source: TASS News Agency (USSR); Nhan Dan Newspaper, Mar. 12, 1985; Archie Brown, The Gorbachev Factor, Oxford University Press, 1996]
 
 <!-- id: EVT-2802 -->
-*   **Jun. 1985:** The 8th Conference of the Central Committee (5th tenure) issued a resolution on price-wage-money, deciding to definitively abolish the centralized bureaucratic subsidy mechanism.
+*   **Jun. 1985:** The 8th Conference of the Central Committee (5th tenure) issued a resolution on price-wage-money, deciding to definitively abolish the centralized bureaucratic subsidy mechanism. [Source: Resolution of the 8th Plenum of the Party Central Committee (5th Tenure) on prices - wages - money, June 1985; Complete Party Documents, Vol. 46 (1985), National Political Publishing House, 2006]
 
 <!-- id: EVT-2803 -->
-*   **Jun. 27, 1985:** Chairman of the Council of State Truong Chinh signed the Order promulgating the first Criminal Code of the Socialist Republic of Vietnam (passed by the National Assembly on June 27, 1985), marking a major milestone in developing the socialist legal framework to protect national security, public order, and citizen rights.
+*   **Jun. 27, 1985:** Chairman of the Council of State Truong Chinh signed the Order promulgating the first Criminal Code of the Socialist Republic of Vietnam (passed by the National Assembly on June 27, 1985), marking a major milestone in developing the socialist legal framework to protect national security, public order, and citizen rights. [Source: State Council Order No. 22-LCT/HDNN7 dated June 27, 1985 promulgating the Penal Code; National Assembly Documents, Vol. 6 (1981 - 1987), National Political Publishing House, 2008]
 
 <!-- id: EVT-2804 -->
-* **29/08/1985:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Ngo Thi Hue (alias Minh Hiep, "Little Squirrel", staunch female reconnaissance and intelligence operative of the Quang Da Security Board).
+* **29/08/1985:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Ngo Thi Hue (alias Minh Hiep, "Little Squirrel", staunch female reconnaissance and intelligence operative of the Quang Da Security Board). [Source: State Council Order No. 25-LCT/HDNN7 dated Aug. 29, 1985 conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2805 -->
-*   **Sep. 4, 1985:** In Manila, Philippine President Ferdinand Marcos signed an executive order granting special authorization to establish a bilateral commercial flight route between Manila and Ho Chi Minh City. This historic breakthrough was achieved through the persistent diplomatic efforts and direct negotiation by overseas Vietnamese entrepreneur Johnathan Hanh Nguyen (former financial specialist at Boeing and Philippine Airlines) alongside Vietnamese diplomatic representative Tran Tien Vinh (Chargé d'Affaires ad interim), overcoming crucial political barriers to establish an air corridor between Vietnam and a non-socialist country during the severe international embargo.
+*   **Sep. 4, 1985:** In Manila, Philippine President Ferdinand Marcos signed an executive order granting special authorization to establish a bilateral commercial flight route between Manila and Ho Chi Minh City. This historic breakthrough was achieved through the persistent diplomatic efforts and direct negotiation by overseas Vietnamese entrepreneur Johnathan Hanh Nguyen (former financial specialist at Boeing and Philippine Airlines) alongside Vietnamese diplomatic representative Tran Tien Vinh (Chargé d'Affaires ad interim), overcoming crucial political barriers to establish an air corridor between Vietnam and a non-socialist country during the severe international embargo. [Source: Civil Aviation Authority of Vietnam, History of Civil Aviation of Vietnam (1956 - 2006), Transport Publishing House, 2006; Sai Gon Giai Phong Newspaper]
 
 <!-- id: EVT-2806 -->
-*   **Sep. 9, 1985:** The National Airline of Vietnam (precursor to Vietnam Airlines) conducted its historic maiden international commercial flight on the Ho Chi Minh City – Manila route using a Boeing 707 aircraft (registration VN-A304, commanded by delegation head Phan Tuong), officially inaugurating Vietnam's first commercial air link with Southeast Asia during the embargo era. The route served as a vital humanitarian and economic "air bridge," opening a gateway to the world to transport relief supplies, essential medicines, parcels, and overseas remittances back home to support the country on the eve of the Doi Moi reforms.
+*   **Sep. 9, 1985:** The National Airline of Vietnam (precursor to Vietnam Airlines) conducted its historic maiden international commercial flight on the Ho Chi Minh City – Manila route using a Boeing 707 aircraft (registration VN-A304, commanded by delegation head Phan Tuong), officially inaugurating Vietnam's first commercial air link with Southeast Asia during the embargo era. The route served as a vital humanitarian and economic "air bridge," opening a gateway to the world to transport relief supplies, essential medicines, parcels, and overseas remittances back home to support the country on the eve of the Doi Moi reforms. [Source: Council of Ministers Decree No. 225-HDBT dated Sept. 9, 1985; Vietnam Airlines, History of Formation and Development]
 
 <!-- id: EVT-2807 -->
-*   **Sep. 14, 1985:** A general adjustment of prices, wages, and money began nationwide, implementing a currency exchange at a rate of 10 old dong for 1 new dong.
+*   **Sep. 14, 1985:** A general adjustment of prices, wages, and money began nationwide, implementing a currency exchange at a rate of 10 old dong for 1 new dong. [Source: Council of Ministers Decision No. 235-HDBT dated Sept. 13, 1985 on currency change; State Bank of Vietnam, History of Banking Sector (1951 - 2011), 2011; Nhan Dan Newspaper]
 
 <!-- id: EVT-2808 -->
-*   **18/12/1985:** Renowned poet Xuân Diệu (Corresponding Member of the Academy of Arts of the GDR) passed away in Hanoi at age 69. He made monumental contributions to modern Vietnamese poetry and literary criticism, and was posthumously awarded the First Class Hồ Chí Minh Prize in Literature and Arts in 1996.
+*   **18/12/1985:** Renowned poet Xuân Diệu (Corresponding Member of the Academy of Arts of the GDR) passed away in Hanoi at age 69. He made monumental contributions to modern Vietnamese poetry and literary criticism, and was posthumously awarded the First Class Hồ Chí Minh Prize in Literature and Arts in 1996. [Source: Vietnam Writers Association Communique; Nhan Dan Newspaper, Dec. 20, 1985; Institute of Literature, Poet Xuan Dieu: Life and Works, Social Sciences Publishing House, 1996]
 
 <!-- id: EVT-2809 -->
 
 ### **Early Doi Moi Period - Gradually Overcoming Crisis (1986 - 1990)**
 
-*   **Jan. 3, 1986:** *Thanh Nien* Weekly (precursor to Thanh Nien Newspaper) published its first issue, strongly promoted by Mr. **Le Quang Vinh** (Secretary of the Central Youth Union) to create a forum for renovation for the younger generation.
+*   **Jan. 3, 1986:** *Thanh Nien* Weekly (precursor to Thanh Nien Newspaper) published its first issue, strongly promoted by Mr. **Le Quang Vinh** (Secretary of the Central Youth Union) to create a forum for renovation for the younger generation. [Source: Thanh Nien Newspaper Issue No. 1, Jan. 3, 1986; Vietnam Youth Federation; Thanh Nien Newspaper 30th Anniversary Commemorative Book (1986 - 2016)]
 
 <!-- id: EVT-2810 -->
-*   **Jul. 10, 1986:** General Secretary Le Duan passed away. He was an outstanding leader of the Party, a resilient communist fighter who made great contributions to the revolutionary cause of national liberation and reunification.
+*   **Jul. 10, 1986:** General Secretary Le Duan passed away. He was an outstanding leader of the Party, a resilient communist fighter who made great contributions to the revolutionary cause of national liberation and reunification. [Source: Special Communique of the Party Central Committee, National Assembly, State Council, Council of Ministers, July 10, 1986; Nhan Dan Newspaper, July 11, 1986]
 
 <!-- id: EVT-2811 -->
-*   **Jul. 14, 1986:** The Party Central Committee held an extraordinary session to elect Comrade Truong Chinh as General Secretary following the passing of General Secretary Le Duan. Serving in his second tenure, Truong Chinh courageously initiated doctrinal renewal with the motto "looking straight at the truth, correctly assessing the truth, telling the truth," directly supervising the rewriting of the 6th Congress Political Report, firmly dismantling bureaucratic subsidies and paving the way for comprehensive Doi Moi.
+*   **Jul. 14, 1986:** The Party Central Committee held an extraordinary session to elect Comrade Truong Chinh as General Secretary following the passing of General Secretary Le Duan. Serving in his second tenure, Truong Chinh courageously initiated doctrinal renewal with the motto "looking straight at the truth, correctly assessing the truth, telling the truth," directly supervising the rewriting of the 6th Congress Political Report, firmly dismantling bureaucratic subsidies and paving the way for comprehensive Doi Moi. [Source: Communique of the Extraordinary Plenum of the Party Central Committee, July 14, 1986; Complete Party Documents, Vol. 47 (1986), National Political Publishing House, Hanoi, 2006]
 
 <!-- id: EVT-2812 -->
-*   **Dec. 15 - 18, 1986:** The 6th National Congress of the Communist Party of Vietnam took place, electing Comrade Nguyen Van Linh as General Secretary and officially launching the comprehensive **Doi Moi** (Renovation) cause with the viewpoint of "looking straight at the truth, correctly assessing the truth," with economic reform as the focus.
+*   **Dec. 15 - 18, 1986:** The 6th National Congress of the Communist Party of Vietnam took place, electing Comrade Nguyen Van Linh as General Secretary and officially launching the comprehensive **Doi Moi** (Renovation) cause with the viewpoint of "looking straight at the truth, correctly assessing the truth," with economic reform as the focus. [Source: Political Report of the Party Central Committee at the 6th National Congress; Complete Party Documents, Vol. 47 (1986), National Political Publishing House, Hanoi, 2006]
 
 ![Historical Image](images/event_20260923_124055.webp)
 
 *Source: General Secretary Nguyen Van Linh at the 6th Party Congress in 1986 launching Doi Moi (Renovation) (Photo: AP / Public domain)*
 
 <!-- id: EVT-2813 -->
-*   **1987:** The National Assembly enacted the Law on Foreign Investment in Vietnam, creating the first legal framework to attract foreign direct investment (FDI).
+*   **1987:** The National Assembly enacted the Law on Foreign Investment in Vietnam, creating the first legal framework to attract foreign direct investment (FDI). [Source: Law on Foreign Investment in Vietnam, passed Dec. 29, 1987; National Assembly Documents, Vol. 7 (1987 - 1992), National Political Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-2814 -->
-*   **1987 - 1992:** Female General Nguyen Thi Dinh served as Vice President of the State Council of the Socialist Republic of Vietnam.
+*   **1987 - 1992:** Female General Nguyen Thi Dinh served as Vice President of the State Council of the Socialist Republic of Vietnam. [Source: Resolution of the 8th National Assembly at its First Session, June 18, 1987; National Assembly Documents, Vol. 7 (1987 - 1992), National Political Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-2815 -->
-* **1987:** Hero of the People's Armed Forces Pinăng Tắc (Chính trị viên phó huyện đội, cùng bà con làm liên lạc, tiếp tế cho cán bộ vùng Bác Ái; làm bẫy đá, vót chông, gài mìn, đào hầm hào phòng tránh và thành lập lực lượng du kích đánh địch. Chỉ huy trận phục kích bằng bẫy đá tại đèo Gia Túc tiêu diệt hơn 100 tên địch ngày 10 tháng 8 năm 1961) passed away.
+* **1987:** Hero of the People's Armed Forces Pinăng Tắc (Chính trị viên phó huyện đội, cùng bà con làm liên lạc, tiếp tế cho cán bộ vùng Bác Ái; làm bẫy đá, vót chông, gài mìn, đào hầm hào phòng tránh và thành lập lực lượng du kích đánh địch. Chỉ huy trận phục kích bằng bẫy đá tại đèo Gia Túc tiêu diệt hơn 100 tên địch ngày 10 tháng 8 năm 1961) passed away. [Source: Ninh Thuan Provincial Military Command, History of the People's Armed Forces of Ninh Thuan (1945 - 2005), People's Army Publishing House, 2005; Ninh Thuan Provincial Museum]
 
 <!-- id: EVT-2816 -->
-*   **Apr. 1987:** The 2nd Conference of the Party Central Committee (6th tenure) decided on the direction for resolving issues of distribution and circulation, abolishing the centralized bureaucratic subsidy system and the policy of "blocking rivers, banning markets."
+*   **Apr. 1987:** The 2nd Conference of the Party Central Committee (6th tenure) decided on the direction for resolving issues of distribution and circulation, abolishing the centralized bureaucratic subsidy system and the policy of "blocking rivers, banning markets." [Source: Resolution of the 2nd Plenum of the Party Central Committee (6th Tenure), Apr. 9, 1987; Complete Party Documents, Vol. 48 (1987), National Political Publishing House, Hanoi, 2006]
 
 <!-- id: EVT-2817 -->
-*   **May 25, 1987:** General Secretary Nguyen Van Linh initiated the column "Things That Must Be Done Immediately" in *Nhan Dan* newspaper under the pen name N.V.L., sparking anti-corruption and public transparency efforts.
+*   **May 25, 1987:** General Secretary Nguyen Van Linh initiated the column "Things That Must Be Done Immediately" in *Nhan Dan* newspaper under the pen name N.V.L., sparking anti-corruption and public transparency efforts. [Source: Nhan Dan Newspaper, May 25, 1987; Nguyen Van Linh, Things That Must Be Done Immediately, Su That Publishing House, Hanoi, 1987]
 
 <!-- id: EVT-2818 -->
-*   **Jun. 18, 1987:** At the 1st session of the 8th National Assembly, the legislature elected Comrade Vo Chi Cong as Chairman of the Council of State and Comrade Pham Hung as Chairman of the Council of Ministers of the Socialist Republic of Vietnam, marking a pivotal state leadership transition to implement the Doi Moi policy set forth by the 6th Party Congress.
+*   **Jun. 18, 1987:** At the 1st session of the 8th National Assembly, the legislature elected Comrade Vo Chi Cong as Chairman of the Council of State and Comrade Pham Hung as Chairman of the Council of Ministers of the Socialist Republic of Vietnam, marking a pivotal state leadership transition to implement the Doi Moi policy set forth by the 6th Party Congress. [Source: Resolution of the 8th National Assembly at its First Session, June 18, 1987; National Assembly Documents, Vol. 7 (1987 - 1992), National Political Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-2819 -->
-*   **Jul. 1987:** The 3rd Conference of the Party Central Committee (6th tenure) issued a resolution to shift the activities of state-owned economic units to socialist business accounting and to renew state management of the economy.
+*   **Jul. 1987:** The 3rd Conference of the Party Central Committee (6th tenure) issued a resolution to shift the activities of state-owned economic units to socialist business accounting and to renew state management of the economy. [Source: Resolution of the 3rd Plenum of the Party Central Committee (6th Tenure), July 1987; Complete Party Documents, Vol. 48 (1987), National Political Publishing House, Hanoi, 2006]
 
 <!-- id: EVT-2820 -->
-*   **Oct. 20 - Nov. 20, 1987:** The 24th General Conference of the United Nations Educational, Scientific and Cultural Organization (UNESCO) in Paris adopted Resolution 24C/18.65 on the occasion of the centenary of his birth (1890 - 1990), officially honoring President Ho Chi Minh as a "**Vietnamese Hero of National Liberation and Great Man of Culture**".
+*   **Oct. 20 - Nov. 20, 1987:** The 24th General Conference of the United Nations Educational, Scientific and Cultural Organization (UNESCO) in Paris adopted Resolution 24C/18.65 on the occasion of the centenary of his birth (1890 - 1990), officially honoring President Ho Chi Minh as a "**Vietnamese Hero of National Liberation and Great Man of Culture**". [Source: UNESCO 24th General Conference, Resolution 24C/18.65 on the Centenary of the Birth of President Ho Chi Minh (Paris, 1987); Ministry of Foreign Affairs, Vietnam and UNESCO, 2007]
 
 <!-- id: EVT-2821 -->
-*   **Nov. 1987:** During a visit to the Soviet Union for the 70th anniversary of the October Revolution, General Secretary Nguyen Van Linh warned Soviet leaders about the dangers of removing Article 6 of the Constitution regarding the Party's leadership role.
+*   **Nov. 1987:** During a visit to the Soviet Union for the 70th anniversary of the October Revolution, General Secretary Nguyen Van Linh warned Soviet leaders about the dangers of removing Article 6 of the Constitution regarding the Party's leadership role. [Source: Joint Communique on the Official Visit of General Secretary Nguyen Van Linh to the USSR, Nov. 1987; Nhan Dan Newspaper, Nov. 22, 1987]
 
 <!-- id: EVT-2822 -->
-*   **Nov. 14, 1987:** Chairman of the Council of Ministers Pham Hung signed Decision No. 217-HDBT on policies renewing planning and socialist business accounting for state-owned enterprises. This regulation served as a landmark institutional breakthrough granting autonomy in production and business to state enterprises, gradually eliminating bureaucratic subsidies and kickstarting the transition to market-based accounting.
+*   **Nov. 14, 1987:** Chairman of the Council of Ministers Pham Hung signed Decision No. 217-HDBT on policies renewing planning and socialist business accounting for state-owned enterprises. This regulation served as a landmark institutional breakthrough granting autonomy in production and business to state enterprises, gradually eliminating bureaucratic subsidies and kickstarting the transition to market-based accounting. [Source: Council of Ministers Decision No. 217-HDBT dated Nov. 14, 1987; Official Gazette of the SRV; Nhan Dan Newspaper]
 
 <!-- id: EVT-2823 -->
-* **1988:** Hero of the People's Armed Forces Bùi Đình Cư (Trung đội trưởng pháo binh thuộc Trung đoàn 675, Đại đoàn 351) passed away.
+* **1988:** Hero of the People's Armed Forces Bùi Đình Cư (Trung đội trưởng pháo binh thuộc Trung đoàn 675, Đại đoàn 351) passed away. [Source: Artillery Arm, History of the Artillery Arm (1946 - 2006), People's Army Publishing House, Hanoi, 2006; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2824 -->
-* **1988:** Hero of the People's Armed Forces Nguyễn Mạnh Quân (Thương binh hạng A (1/4),Phó tư lệnh Mặt trận tây nguyên, Cục trưởng cục Quân huấn BTTM, Hiệu trưởng trường SQLQ 2) passed away.
+* **1988:** Hero of the People's Armed Forces Nguyễn Mạnh Quân (Thương binh hạng A (1/4),Phó tư lệnh Mặt trận tây nguyên, Cục trưởng cục Quân huấn BTTM, Hiệu trưởng trường SQLQ 2) passed away. [Source: Vietnam Military History Institute, Heroes of the People's Armed Forces, Vol. I, People's Army Publishing House, Hanoi, 1996; Vietnam Military History Museum]
 
 <!-- id: EVT-2825 -->
-* **1988:** Hero of the People's Armed Forces Vũ Lăng (Thượng tướng, nguyên Tư lệnh Mặt trận Tây Nguyên, nguyên Tư lệnh Quân đoàn 3, nguyên Giám đốc Học viện Lục quân Đà Lạt) passed away.
+* **1988:** Hero of the People's Armed Forces Vũ Lăng (Thượng tướng, nguyên Tư lệnh Mặt trận Tây Nguyên, nguyên Tư lệnh Quân đoàn 3, nguyên Giám đốc Học viện Lục quân Đà Lạt) passed away. [Source: General Staff of the Vietnam People's Army, Senior General Vu Lang - Outstanding Campaign General, People's Army Publishing House, Hanoi, 2003; People's Army Newspaper]
 
 <!-- id: EVT-2826 -->
-*   **Feb. 1988:** The People's Republic of China sent troops to some reefs in the Spratly Islands for the first time, establishing a military presence.
+*   **Feb. 1988:** The People's Republic of China sent troops to some reefs in the Spratly Islands for the first time, establishing a military presence. [Source: Protest Statement of the Ministry of Foreign Affairs of the SRV, Feb. 20, 1988; Ministry of Foreign Affairs, White Paper on Hoang Sa and Truong Sa, 1988; Dr. Nguyen Nha, Vietnam's Territorial Sovereignty over Hoang Sa and Truong Sa Archipelagos, 2013]
 
 <!-- id: EVT-2827 -->
-*   **Mar. 10, 1988:** Chairman of the Council of Ministers Pham Hung passed away while on a working mission directing efforts to address economic and food difficulties in southern provinces. The Council of State assigned Comrade Vo Van Kiet (First Vice Chairman of the Council of Ministers) to serve as Acting Chairman of the Council of Ministers (until June 22, 1988).
+*   **Mar. 10, 1988:** Chairman of the Council of Ministers Pham Hung passed away while on a working mission directing efforts to address economic and food difficulties in southern provinces. The Council of State assigned Comrade Vo Van Kiet (First Vice Chairman of the Council of Ministers) to serve as Acting Chairman of the Council of Ministers (until June 22, 1988). [Source: Special Communique of the Party Central Committee, National Assembly, State Council, Council of Ministers, Mar. 10, 1988; Nhan Dan Newspaper, Mar. 11, 1988]
 
 <!-- id: EVT-2828 -->
-*   **Mar. 14, 1988:** The Johnson South Reef Skirmish (Hải chiến Trường Sa) took place during Campaign CQ-88. Transport ship HQ-604 (Brigade 125), commanded by Captain Vũ Phi Trừ, carrying combat engineers of Regiment 83 and island defense troops from Brigade 146 led directly by Lieutenant Colonel Trần Đức Thông (Deputy Brigade Commander), arrived to secure Gạc Ma Reef (Johnson South Reef). At dawn, a 5-man flag protection team (Senior Lieutenant Nguyễn Mậu Phong, Second Lieutenant Trần Văn Phương, Sergeant Đậu Xuân Tư, Sergeant Lê Hữu Thảo, and Hoàng Văn Chúc) landed on the reef to plant the national flag. Heavily armed Chinese warships opened fire, killing Second Lieutenant Trần Văn Phương (who heroically shielded the flag, uttering his immortal dying oath: "Rather sacrifice than lose the island...") and Sergeant Đậu Xuân Tư along with fellow comrades, creating the legendary "Immortal Circle". Chinese artillery sank HQ-604 (with Captain Vũ Phi Trừ, Deputy Brigade Commander Trần Đức Thông, and crew members fighting tenaciously until the end and perishing with the ship) and HQ-605 at Len Đao, while Captain Vũ Huy Lễ intentionally beached the burning HQ-505 onto Cô Lin Reef to secure Vietnamese sovereignty. Sixty-four Vietnamese naval soldiers sacrificed their lives; China illegally seized Gạc Ma Reef, while Vietnam successfully retained Cô Lin and Len Đao.
+*   **Mar. 14, 1988:** The Johnson South Reef Skirmish (Hải chiến Trường Sa) took place during Campaign CQ-88. Transport ship HQ-604 (Brigade 125), commanded by Captain Vũ Phi Trừ, carrying combat engineers of Regiment 83 and island defense troops from Brigade 146 led directly by Lieutenant Colonel Trần Đức Thông (Deputy Brigade Commander), arrived to secure Gạc Ma Reef (Johnson South Reef). At dawn, a 5-man flag protection team (Senior Lieutenant Nguyễn Mậu Phong, Second Lieutenant Trần Văn Phương, Sergeant Đậu Xuân Tư, Sergeant Lê Hữu Thảo, and Hoàng Văn Chúc) landed on the reef to plant the national flag. Heavily armed Chinese warships opened fire, killing Second Lieutenant Trần Văn Phương (who heroically shielded the flag, uttering his immortal dying oath: "Rather sacrifice than lose the island...") and Sergeant Đậu Xuân Tư along with fellow comrades, creating the legendary "Immortal Circle". Chinese artillery sank HQ-604 (with Captain Vũ Phi Trừ, Deputy Brigade Commander Trần Đức Thông, and crew members fighting tenaciously until the end and perishing with the ship) and HQ-605 at Len Đao, while Captain Vũ Huy Lễ intentionally beached the burning HQ-505 onto Cô Lin Reef to secure Vietnamese sovereignty. Sixty-four Vietnamese naval soldiers sacrificed their lives; China illegally seized Gạc Ma Reef, while Vietnam successfully retained Cô Lin and Len Đao. [Source: Naval Command, History of the Vietnam People's Navy (1955 - 2005), People's Army Publishing House, Hanoi, 2005, pp. 385-405; Statement of the Ministry of Foreign Affairs of the SRV, Mar. 14, 1988; Nhan Dan Newspaper]
 
 <!-- id: EVT-2829 -->
-*   **Apr. 1988:** The Philippine government elected a mayor for the town established on the Spratly islets they controlled (Thi Tu), attempting to establish a more organized administrative basis for their claims.
+*   **Apr. 1988:** The Philippine government elected a mayor for the town established on the Spratly islets they controlled (Thi Tu), attempting to establish a more organized administrative basis for their claims. [Source: Protest Statement by the Spokesperson of the Ministry of Foreign Affairs of the SRV, April 1988; Dr. Nguyen Nha, Vietnam's Territorial Sovereignty over Hoang Sa and Truong Sa Archipelagos, 2013]
 
 <!-- id: EVT-2830 -->
-*   **Apr. 5, 1988:** The Politburo, chaired by General Secretary Nguyen Van Linh, issued **Resolution No. 10-NQ/TW** ("Contract 10") on renewing agricultural economic management, creating a historic breakthrough by identifying farm households as autonomous economic units and granting long-term land-use rights to farmers.
+*   **Apr. 5, 1988:** The Politburo, chaired by General Secretary Nguyen Van Linh, issued **Resolution No. 10-NQ/TW** ("Contract 10") on renewing agricultural economic management, creating a historic breakthrough by identifying farm households as autonomous economic units and granting long-term land-use rights to farmers. [Source: Politburo Resolution No. 10-NQ/TW dated Apr. 5, 1988 on reforming agricultural economic management; Complete Party Documents, Vol. 49 (1988), National Political Publishing House, Hanoi, 2006]
 
 <!-- id: EVT-2831 -->
-*   **May 7, 1988:** General Le Duc Anh visited the Spratly Islands and read an oath affirming Vietnam's absolute determination to defend the archipelago and its territorial waters.
+*   **May 7, 1988:** General Le Duc Anh visited the Spratly Islands and read an oath affirming Vietnam's absolute determination to defend the archipelago and its territorial waters. [Source: Senior General Le Duc Anh's Speech at the 33rd Anniversary of the Navy on Truong Sa Lon Island, May 7, 1988; People's Army Newspaper, May 9, 1988]
 
 <!-- id: EVT-2832 -->
-*   **May 20, 1988:** The Politburo issued Resolution 13 on foreign policy tasks and policies, advocating a strong shift in foreign affairs to serve the economy, "make more friends, fewer enemies," and diversify international relations.
+*   **May 20, 1988:** The Politburo issued Resolution 13 on foreign policy tasks and policies, advocating a strong shift in foreign affairs to serve the economy, "make more friends, fewer enemies," and diversify international relations. [Source: Politburo Resolution No. 13-NQ/TW dated May 20, 1988 on foreign policy tasks and guidelines; Complete Party Documents, Vol. 49 (1988), National Political Publishing House, Hanoi, 2006]
 
 <!-- id: EVT-2833 -->
-*   **Jun. 22, 1988:** At the 3rd session of the 8th National Assembly, Do Muoi was elected Chairman of the Council of Ministers of the Socialist Republic of Vietnam; as head of government, he resolutely steered policies to curb runaway inflation from three digits to double digits and championed the implementation of "Contract 10" in agriculture.
+*   **Jun. 22, 1988:** At the 3rd session of the 8th National Assembly, Do Muoi was elected Chairman of the Council of Ministers of the Socialist Republic of Vietnam; as head of government, he resolutely steered policies to curb runaway inflation from three digits to double digits and championed the implementation of "Contract 10" in agriculture. [Source: Resolution of the 8th National Assembly at its 3rd Session, June 22, 1988; National Assembly Documents, Vol. 7 (1987 - 1992), National Political Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-2834 -->
-*   **Jul. 22, 1988:** The Vietnam Socialist Party announced its dissolution.
+*   **Jul. 22, 1988:** The Vietnam Socialist Party announced its dissolution. [Source: Declaration of Dissolution of the Vietnam Socialist Party, July 22, 1988; Nhan Dan Newspaper, July 23, 1988; Central Committee of the Vietnam Fatherland Front]
 
 <!-- id: EVT-2835 -->
-*   **29/08/1988:** Renowned poetess Xuân Quỳnh, alongside her husband, distinguished playwright Lưu Quang Vũ, and their young son Lưu Quỳnh Thơ, tragically passed away in a traffic accident in Hải Dương. In 2017, she was posthumously awarded the Hồ Chí Minh Prize in Literature and Arts for her collections *Lời ru trên mặt đất* and *Bầu trời trong quả trứng*.
+*   **29/08/1988:** Renowned poetess Xuân Quỳnh, alongside her husband, distinguished playwright Lưu Quang Vũ, and their young son Lưu Quỳnh Thơ, tragically passed away in a traffic accident in Hải Dương. In 2017, she was posthumously awarded the Hồ Chí Minh Prize in Literature and Arts for her collections *Lời ru trên mặt đất* and *Bầu trời trong quả trứng*. [Source: Joint Communique of Vietnam Writers Association and Vietnam Stage Artists Association; Van Nghe Newspaper, Sept. 3, 1988; Nhan Dan Newspaper]
 
 <!-- id: EVT-2836 -->
-*   **Oct. 20, 1988:** The Vietnam Democratic Party announced its dissolution after completing its historical mission.
+*   **Oct. 20, 1988:** The Vietnam Democratic Party announced its dissolution after completing its historical mission. [Source: Declaration of Dissolution of the Vietnam Democratic Party, Oct. 20, 1988; Nhan Dan Newspaper, Oct. 21, 1988; Central Committee of the Vietnam Fatherland Front]
 
 <!-- id: EVT-2837 -->
-*   **1989:** Truong Sa District (Spratly Islands) was placed under the administrative jurisdiction of the newly re-established Khanh Hoa province (formerly part of Phu Khanh province).
+*   **1989:** Truong Sa District (Spratly Islands) was placed under the administrative jurisdiction of the newly re-established Khanh Hoa province (formerly part of Phu Khanh province). [Source: Resolution of the 8th National Assembly dated June 30, 1989 on administrative boundary redivision; National Assembly Documents, Vol. 7 (1987 - 1992), National Political Publishing House, 2008]
 
 <!-- id: EVT-2838 -->
-* **1989:** Hero of the People's Armed Forces Lê Văn Đạm (Chính trị viên Xã đội An Nhơn Tây huyện Củ Chi, ngọn cờ đầu phong trào "Đào hầm địa đạo Củ Chi") passed away.
+* **1989:** Hero of the People's Armed Forces Lê Văn Đạm (Chính trị viên Xã đội An Nhơn Tây huyện Củ Chi, ngọn cờ đầu phong trào "Đào hầm địa đạo Củ Chi") passed away. [Source: Cu Chi District Party Committee Commission for Propaganda, History of Cu Chi Iron Land (1930 - 2000), Tre Publishing House, 2002; Cu Chi Tunnels Museum]
 
 <!-- id: EVT-2839 -->
-*   **1989:** The Vietnam Historical Science Association and the Institute of Social Sciences in Ho Chi Minh City hosted a symposium marking the 150th anniversary of Trương Vĩnh Ký's birth, initiating a significant historiographical reassessment in Vietnam: distinguishing between his political stance and his pioneering contributions to national culture, chữ Quốc ngữ, and modern Vietnamese journalism.
+*   **1989:** The Vietnam Historical Science Association and the Institute of Social Sciences in Ho Chi Minh City hosted a symposium marking the 150th anniversary of Trương Vĩnh Ký's birth, initiating a significant historiographical reassessment in Vietnam: distinguishing between his political stance and his pioneering contributions to national culture, chữ Quốc ngữ, and modern Vietnamese journalism. [Source: Proceedings of the Scientific Symposium on Celebrity Nguyen Tri Phuong; Vietnam Association of Historical Sciences; Sai Gon Giai Phong Newspaper]
 
 <!-- id: EVT-2840 -->
-* **06/01/1989:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Ship HQ-505 (Naval Brigade 125), Major Vũ Huy Lễ (Captain of HQ-505), and posthumously awarded the title to Second Lieutenant Trần Văn Phương (Deputy Commander of Gạc Ma Reef, Naval Brigade 146) for outstanding courage and resolute defense of national sovereignty in the Spratly Islands in March 1988.
+* **06/01/1989:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Ship HQ-505 (Naval Brigade 125), Major Vũ Huy Lễ (Captain of HQ-505), and posthumously awarded the title to Second Lieutenant Trần Văn Phương (Deputy Commander of Gạc Ma Reef, Naval Brigade 146) for outstanding courage and resolute defense of national sovereignty in the Spratly Islands in March 1988. [Source: State Council Order No. 15-LCT/HDNN8 dated Jan. 6, 1989 conferring and posthumously awarding Hero of the People's Armed Forces; People's Army Newspaper]
 
 <!-- id: EVT-2841 -->
-*   **Mar. 1989:** The 6th Conference of the Party Central Committee (6th tenure) specified and developed the policy of a multi-sector economy, acknowledging the long-term existence of private economic sectors.
+*   **Mar. 1989:** The 6th Conference of the Party Central Committee (6th tenure) specified and developed the policy of a multi-sector economy, acknowledging the long-term existence of private economic sectors. [Source: Resolution of the 6th Plenum of the Party Central Committee (6th Tenure), Mar. 29, 1989; Complete Party Documents, Vol. 49 (1988 - 1989), National Political Publishing House, Hanoi, 2006]
 
 <!-- id: EVT-2842 -->
-*   **Mar. 1989:** Under the direct guidance of Chairman of the Council of Ministers Do Muoi, the Government implemented a landmark economic reform package: adopting positive real interest rates (deposit rates exceeding inflation) and eliminating the dual-price system to shift entirely to single market prices. This measure absorbed massive liquidity into the banking system, halting hyperinflation from 393% (1987) down to double digits and enabling Vietnam to export 1.4 million tons of rice for the first time.
+*   **Mar. 1989:** Under the direct guidance of Chairman of the Council of Ministers Do Muoi, the Government implemented a landmark economic reform package: adopting positive real interest rates (deposit rates exceeding inflation) and eliminating the dual-price system to shift entirely to single market prices. This measure absorbed massive liquidity into the banking system, halting hyperinflation from 393% (1987) down to double digits and enabling Vietnam to export 1.4 million tons of rice for the first time. [Source: Government Office, History of the Vietnamese Government, Vol. 3 (1976 - 2005), National Political Publishing House, Hanoi, 2005; Nhan Dan Newspaper]
 
 <!-- id: EVT-2843 -->
-*   **Apr. 5, 1989:** The Vietnamese government announced it would withdraw all its volunteer troops from Cambodia by the end of September 1989, with or without a political solution.
+*   **Apr. 5, 1989:** The Vietnamese government announced it would withdraw all its volunteer troops from Cambodia by the end of September 1989, with or without a political solution. [Source: Joint Declaration of the Governments of the SRV, PRK, and LPDR, Apr. 5, 1989; Nhan Dan Newspaper; Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, 2002]
 
 <!-- id: EVT-2844 -->
-*   **May 1989:** China occupied an additional islet in the Spratly archipelago, continuing its slow expansion of control following the 1988 naval clash.
+*   **May 1989:** China occupied an additional islet in the Spratly archipelago, continuing its slow expansion of control following the 1988 naval clash. [Source: Protest Statement by the Spokesperson of the Ministry of Foreign Affairs of the SRV, May 1989; Dr. Nguyen Nha, Vietnam's Territorial Sovereignty over Hoang Sa and Truong Sa Archipelagos, 2013]
 
 <!-- id: EVT-2845 -->
-*   **19/06/1989:** Poet and literary critic Chế Lan Viên passed away in Ho Chi Minh City at age 69. A pillar of modern Vietnamese and revolutionary poetry (*Ánh sáng và phù sa*, *Người đi tìm hình của Nước*), he was posthumously awarded the First Class Hồ Chí Minh Prize in Literature and Arts in 1996.
+*   **19/06/1989:** Poet and literary critic Chế Lan Viên passed away in Ho Chi Minh City at age 69. A pillar of modern Vietnamese and revolutionary poetry (*Ánh sáng và phù sa*, *Người đi tìm hình của Nước*), he was posthumously awarded the First Class Hồ Chí Minh Prize in Literature and Arts in 1996. [Source: Vietnam Writers Association Communique; Van Nghe Newspaper, June 24, 1989; Nhan Dan Newspaper; Institute of Literature]
 
 <!-- id: EVT-2846 -->
-*   **Aug. 1989:** Vietnam completed the construction of an economic-scientific-technical service complex in the Spratlys, located on the Vietnamese continental shelf.
+*   **Aug. 1989:** Vietnam completed the construction of an economic-scientific-technical service complex in the Spratlys, located on the Vietnamese continental shelf. [Source: Naval Region 2 Command, Thirty Years of DK1 Platforms - Sovereignty Landmarks on Southern Continental Shelf (1989 - 2019), People's Army Publishing House, 2019; Vietnam Navy Newspaper]
 
 <!-- id: EVT-2847 -->
-*   **Sep. 26, 1989:** The last units of Vietnamese volunteer troops and military experts officially completed their withdrawal from Cambodia, concluding a 10-year international mission to help rebuild the country after the Khmer Rouge regime.
+*   **Sep. 26, 1989:** The last units of Vietnamese volunteer troops and military experts officially completed their withdrawal from Cambodia, concluding a 10-year international mission to help rebuild the country after the Khmer Rouge regime. [Source: Ministry of National Defense Communique, Sept. 26, 1989; Vietnam Military History Institute, History of Vietnamese Volunteer Troops in Cambodia (1979 - 1989), 2005; Nhan Dan Newspaper]
 
 <!-- id: EVT-2848 -->
-*   **Sep. 30, 1989:** Huynh Tan Phat passed away in Ho Chi Minh City.
+*   **Sep. 30, 1989:** Huynh Tan Phat passed away in Ho Chi Minh City. [Source: Special Communique of the Party Central Committee, National Assembly, State Council, VFF Central Committee, Sept. 30, 1989; Nhan Dan Newspaper, Oct. 1, 1989]
 
 <!-- id: EVT-2849 -->
-* **13/12/1989:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Phùng Hồng Lâm (Colonel, commander of the B-52 strike at U-Tapao airfield in 1968), and posthumously awarded the title of Hero of the People's Armed Forces to Vũ Phi Trừ (Captain, Commander of Ship HQ-604, Naval Brigade 125) and Trần Đức Thông (Lieutenant Colonel, Deputy Commander and Chief of Staff of Naval Brigade 146) for heroically commanding the defense of national sovereignty at Gạc Ma Reef and sacrificing their lives with the vessel on March 14, 1988.
+* **13/12/1989:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Phùng Hồng Lâm (Colonel, commander of the B-52 strike at U-Tapao airfield in 1968), and posthumously awarded the title of Hero of the People's Armed Forces to Vũ Phi Trừ (Captain, Commander of Ship HQ-604, Naval Brigade 125) and Trần Đức Thông (Lieutenant Colonel, Deputy Commander and Chief of Staff of Naval Brigade 146) for heroically commanding the defense of national sovereignty at Gạc Ma Reef and sacrificing their lives with the vessel on March 14, 1988. [Source: State Council Order No. 29-LCT/HDNN8 dated Dec. 13, 1989 conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2850 -->
-*   **1990 - 1993:** As Cuba fell into the "Special Period" of severe economic crisis following the collapse of the Soviet Union and Eastern European socialist bloc, Vietnam launched campaigns to support Cuba, donating 50,000 tons of rice, clothing, and school supplies, demonstrating steadfast solidarity.
+*   **1990 - 1993:** As Cuba fell into the "Special Period" of severe economic crisis following the collapse of the Soviet Union and Eastern European socialist bloc, Vietnam launched campaigns to support Cuba, donating 50,000 tons of rice, clothing, and school supplies, demonstrating steadfast solidarity. [Source: Ministry of Foreign Affairs, 60 Years of Special Traditional Vietnam - Cuba Relations (1960 - 2020), National Political Publishing House, Hanoi, 2020; Nhan Dan Newspaper]
 
 <!-- id: EVT-2851 -->
-*   **1990:** Construction began on the Vi Xuyen National Martyrs Cemetery in Ha Giang province, which would become the resting place for nearly 2,000 martyrs and a mass grave of soldiers who sacrificed their lives defending the northern border.
+*   **1990:** Construction began on the Vi Xuyen National Martyrs Cemetery in Ha Giang province, which would become the resting place for nearly 2,000 martyrs and a mass grave of soldiers who sacrificed their lives defending the northern border. [Source: Ha Giang Provincial Party Committee Commission for Propaganda, Ha Giang Monograph, National Political Publishing House, 2006; Ha Giang Newspaper; Ministry of Labour, Invalids and Social Affairs]
 
 <!-- id: EVT-2852 -->
-* **1990:** Hero of the People's Armed Forces Phạm Gia Triệu (Thượng tá, bác sĩ quân y, Viện phó Viện quân y 108; chuyên gia về thần kinh hàng đầu Việt Nam trong thời kỳ này, người xây dựng ngành phẫu thuật thần kinh trong quân đội. Sau là Thiếu tướng, Đại biểu Quốc hội Việt Nam khóa VI) passed away.
+* **1990:** Hero of the People's Armed Forces Phạm Gia Triệu (Thượng tá, bác sĩ quân y, Viện phó Viện quân y 108; chuyên gia về thần kinh hàng đầu Việt Nam trong thời kỳ này, người xây dựng ngành phẫu thuật thần kinh trong quân đội. Sau là Thiếu tướng, Đại biểu Quốc hội Việt Nam khóa VI) passed away. [Source: 108 Military Central Hospital, History of 108 Military Central Hospital (1951 - 2011), People's Army Publishing House, 2011; Vietnam Military History Institute]
 
 <!-- id: EVT-2853 -->
-* **1990:** Hero of the People's Armed Forces Trần Tấn Mới (Đội trưởng Đội giao thông đường biển 128, có nhiệm vụ đưa đón cán bộ ra, vào hoạt động ở vùng địch và thu thập tin tức, giấy tờ, tài liệu địch) passed away.
+* **1990:** Hero of the People's Armed Forces Trần Tấn Mới (Đội trưởng Đội giao thông đường biển 128, có nhiệm vụ đưa đón cán bộ ra, vào hoạt động ở vùng địch và thu thập tin tức, giấy tờ, tài liệu địch) passed away. [Source: Da Nang Military Command, History of the Armed Forces of Da Nang City (1945 - 2005), People's Army Publishing House, 2005; Da Nang Museum]
 
 <!-- id: EVT-2854 -->
-* **1990:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Lê Bình (Chỉ huy đội cảm tử quân Quốc gia tự vệ cuộc Cần Thơ, người chỉ huy trận tập kích đồn Cái Răng 1945).
+* **1990:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Lê Bình (Chỉ huy đội cảm tử quân Quốc gia tự vệ cuộc Cần Thơ, người chỉ huy trận tập kích đồn Cái Răng 1945). [Source: State Council Order posthumously conferring Hero of the People's Armed Forces in 1990; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2855 -->
-* **1990:** Hero of the People's Armed Forces Giáp Văn Cương (Đô đốc đầu tiên và Tư lệnh Hải quân Nhân dân Việt Nam) passed away.
+* **1990:** Hero of the People's Armed Forces Giáp Văn Cương (Đô đốc đầu tiên và Tư lệnh Hải quân Nhân dân Việt Nam) passed away. [Source: Naval Command, Admiral Giap Van Cuong - General of the Islands and Seas, People's Army Publishing House, Hanoi, 2010; Vietnam Navy Newspaper]
 
 <!-- id: EVT-2856 -->
-*   **Mar. 15, 1990:** The Soviet Union amended Article 6 of its Constitution, abolishing the Communist Party's monopoly on power, establishing a multi-party system and the position of President of the USSR.
+*   **Mar. 15, 1990:** The Soviet Union amended Article 6 of its Constitution, abolishing the Communist Party's monopoly on power, establishing a multi-party system and the position of President of the USSR. [Source: Law Amending the Soviet Constitution, Mar. 15, 1990; Nhan Dan Newspaper; Archie Brown, The Rise and Fall of Communism, Ecco, 2009]
 
 <!-- id: EVT-2857 -->
-*   **Apr. 22, 1990:** Major General Tran Cong Man, Editor-in-Chief of the People's Army Newspaper, published the article "The Battle is Not Over," warning about the trend of denying the Communist Party and Socialism in the Soviet Union and Eastern Europe.
+*   **Apr. 22, 1990:** Major General Tran Cong Man, Editor-in-Chief of the People's Army Newspaper, published the article "The Battle is Not Over," warning about the trend of denying the Communist Party and Socialism in the Soviet Union and Eastern Europe. [Source: People's Army Newspaper, Apr. 24, 1990; Vietnam Journalists Association; General Department of Politics of the VPA]
 
 <!-- id: EVT-2858 -->
-*   **Aug. 1990:** Chinese Premier Li Peng proposed the joint exploitation of the Spratly Islands area.
+*   **Aug. 1990:** Chinese Premier Li Peng proposed the joint exploitation of the Spratly Islands area. [Source: Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, National Political Publishing House, Hanoi, 2002; Xinhua News Agency; Nhan Dan Newspaper]
 
 <!-- id: EVT-2859 -->
-* **17/08/1990:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Đỗ Kim Tuyến (Tiến sĩ Luật, Trung tướng, Phó Tổng cục trưởng Tổng cục Cảnh sát Phòng chống tội phạm, Bộ Công an).
+* **17/08/1990:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Đỗ Kim Tuyến (Tiến sĩ Luật, Trung tướng, Phó Tổng cục trưởng Tổng cục Cảnh sát Phòng chống tội phạm, Bộ Công an). [Source: State Council Order No. 38-LCT/HDNN8 dated Aug. 17, 1990 conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2860 -->
-*   **Sep. 3 - 4, 1990:** An informal high-level Vietnam-China summit was held in Chengdu between the Vietnamese senior leadership delegation (General Secretary Nguyen Van Linh, Chairman of the Council of Ministers Do Muoi, and Party Senior Advisor Pham Van Dong) and Chinese top leaders (General Secretary Jiang Zemin and Premier Li Peng), laying the decisive foundation for normalizing bilateral relations.
+*   **Sep. 3 - 4, 1990:** An informal high-level Vietnam-China summit was held in Chengdu between the Vietnamese senior leadership delegation (General Secretary Nguyen Van Linh, Chairman of the Council of Ministers Do Muoi, and Party Senior Advisor Pham Van Dong) and Chinese top leaders (General Secretary Jiang Zemin and Premier Li Peng), laying the decisive foundation for normalizing bilateral relations. [Source: Ministry of Foreign Affairs, Chronology of Vietnam - China Normalization Negotiations; Nhan Dan Newspaper; Senior General Le Duc Anh, Life and Revolutionary Career (Memoir), 2015]
 
 <!-- id: EVT-2861 -->
-*   **Sep. 22 - Oct. 7, 1990:** At the invitation of the Chinese Government, Vice Chairman of the Council of Ministers Senior General Vo Nguyen Giap led the Vietnamese delegation to attend the 11th Asian Games (ASIAD 11) in Beijing as an honored guest. General Giap's presence and high-level diplomatic exchanges ("General Giap's diplomacy") shortly after the Chengdu Summit helped break the ice and significantly accelerated the normalization of diplomatic relations between Vietnam and China.
+*   **Sep. 22 - Oct. 7, 1990:** At the invitation of the Chinese Government, Vice Chairman of the Council of Ministers Senior General Vo Nguyen Giap led the Vietnamese delegation to attend the 11th Asian Games (ASIAD 11) in Beijing as an honored guest. General Giap's presence and high-level diplomatic exchanges ("General Giap's diplomacy") shortly after the Chengdu Summit helped break the ice and significantly accelerated the normalization of diplomatic relations between Vietnam and China. [Source: Vietnam News Agency (VNA), News Bulletin of Sept. 24, 1990; General Vo Nguyen Giap's Complete Memoirs, People's Army Publishing House, 2011; Nhan Dan Newspaper]
 
 <!-- id: EVT-2862 -->
-*   **Oct. 22, 1990:** The European Community (EC), the precursor to the European Union (EU), officially established diplomatic relations with Vietnam.
+*   **Oct. 22, 1990:** The European Community (EC), the precursor to the European Union (EU), officially established diplomatic relations with Vietnam. [Source: Joint Communique on the Establishment of Diplomatic Relations between the SRV and the European Community (EC), Oct. 22, 1990; Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, 2002; Nhan Dan Newspaper]
 
 <!-- id: EVT-2863 -->
 
 ### **Period of Accelerating Doi Moi - Escaping Crisis (1991 - 1995)**
 
-* **1991:** Hero of the People's Armed Forces Tạ Quang Tỷ (Tiểu đoàn trưởng Tiểu đoàn 4, Trung đoàn 2, Sư đoàn 9; tham gia chiến dịch Bình Giã. Sau là Phó Tham mưu trưởng Quân đoàn 4) passed away.
+* **1991:** Hero of the People's Armed Forces Tạ Quang Tỷ (Tiểu đoàn trưởng Tiểu đoàn 4, Trung đoàn 2, Sư đoàn 9; tham gia chiến dịch Bình Giã. Sau là Phó Tham mưu trưởng Quân đoàn 4) passed away. [Source: Vietnam Military History Institute, Heroes of the People's Armed Forces, Vol. I, People's Army Publishing House, Hanoi, 1996; Can Tho City Military Command]
 
 <!-- id: EVT-2864 -->
-*   **Early 1991:** During a seminar on Vietnam in the French Senate, Georges Boudarel was recognized and verbally abused by a former French prisoner of war (then a minister). Subsequently, a group of former POWs filed a lawsuit accusing him of "crimes against humanity" at Camp 113. A massive media campaign against him ensued, causing him to suffer two consecutive strokes. In response, his friends, led by mathematician Laurent Schwartz, formed the "Friends of Boudarel" association to defend him.
+*   **Early 1991:** During a seminar on Vietnam in the French Senate, Georges Boudarel was recognized and verbally abused by a former French prisoner of war (then a minister). Subsequently, a group of former POWs filed a lawsuit accusing him of "crimes against humanity" at Camp 113. A massive media campaign against him ensued, causing him to suffer two consecutive strokes. In response, his friends, led by mathematician Laurent Schwartz, formed the "Friends of Boudarel" association to defend him. [Source: Le Monde, "L'affaire Boudarel devant le Sénat", Feb. 1991; Georges Boudarel, Giap, Éditions Atlas, Paris, 1977]
 
 <!-- id: EVT-2865 -->
-*   **Mar. 17, 1991:** A referendum on the preservation of the USSR was held, with 76.4% of voters supporting the maintenance of the Union.
+*   **Mar. 17, 1991:** A referendum on the preservation of the USSR was held, with 76.4% of voters supporting the maintenance of the Union. [Source: Central Election Commission of the USSR, Results of the All-Union Referendum, Mar. 17, 1991; Nhan Dan Newspaper; Archie Brown, The Rise and Fall of Communism, 2009]
 
 <!-- id: EVT-2866 -->
-*   **Jun. 24 - 27, 1991:** The 7th National Congress of the Communist Party of Vietnam approved the **"Platform for National Construction in the Period of Transition to Socialism"** and the **"Strategy for Socio-Economic Stability and Development until 2000,"** officially affirming that the Party takes Marxism-Leninism and Ho Chi Minh Thought as its ideological foundation and compass for action. At the Congress, General Secretary Nguyen Van Linh voluntarily stepped down for health reasons to facilitate leadership transition and was appointed Senior Advisor to the Party Central Committee; the Congress elected Do Muoi as General Secretary.
+*   **Jun. 24 - 27, 1991:** The 7th National Congress of the Communist Party of Vietnam approved the **"Platform for National Construction in the Period of Transition to Socialism"** and the **"Strategy for Socio-Economic Stability and Development until 2000,"** officially affirming that the Party takes Marxism-Leninism and Ho Chi Minh Thought as its ideological foundation and compass for action. At the Congress, General Secretary Nguyen Van Linh voluntarily stepped down for health reasons to facilitate leadership transition and was appointed Senior Advisor to the Party Central Committee; the Congress elected Do Muoi as General Secretary. [Source: Platform for National Construction in the Transition to Socialism (1991 Platform); Complete Party Documents, Vol. 51 (1991), National Political Publishing House, Hanoi, 2007]
 
 <!-- id: EVT-2867 -->
-*   **Jul. 15 - 18, 1991:** At the initiative of Indonesia, an international conference was held in Bandung with regional countries to discuss the Spratly Islands issue, issuing a final communiqué encouraging dialogue and negotiation.
+*   **Jul. 15 - 18, 1991:** At the initiative of Indonesia, an international conference was held in Bandung with regional countries to discuss the Spratly Islands issue, issuing a final communiqué encouraging dialogue and negotiation. [Source: Proceedings of the Workshop on Managing Potential Conflicts in the South China Sea (Bandung, 1991); Ministry of Foreign Affairs, South China Sea: Historical and Legal Issues, Hanoi, 2012]
 
 <!-- id: EVT-2868 -->
-*   **Aug. 8, 1991:** At the 9th session of the 8th National Assembly, the legislature elected Comrade Vo Van Kiet as Chairman of the Council of Ministers of the Socialist Republic of Vietnam, succeeding Comrade Do Muoi (who had been elected General Secretary at the 7th Congress). In his new post, he focused on resolving infrastructure bottlenecks, reforming institutions, and expanding foreign relations.
+*   **Aug. 8, 1991:** At the 9th session of the 8th National Assembly, the legislature elected Comrade Vo Van Kiet as Chairman of the Council of Ministers of the Socialist Republic of Vietnam, succeeding Comrade Do Muoi (who had been elected General Secretary at the 7th Congress). In his new post, he focused on resolving infrastructure bottlenecks, reforming institutions, and expanding foreign relations. [Source: Resolution of the 8th National Assembly at its 9th Session, Aug. 8, 1991; National Assembly Documents, Vol. 7 (1987 - 1992), National Political Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-2869 -->
-*   **Aug. 19, 1991:** A coup attempt (the August Coup) took place in the Soviet Union aiming to prevent the signing of the New Union Treaty but failed, accelerating the disintegration of the USSR.
+*   **Aug. 19, 1991:** A coup attempt (the August Coup) took place in the Soviet Union aiming to prevent the signing of the New Union Treaty but failed, accelerating the disintegration of the USSR. [Source: Statement of the State Committee on the State of Emergency (GKChP), Aug. 19, 1991; Nhan Dan Newspaper, Aug. 20, 1991; Archie Brown, The Rise and Fall of Communism, 2009]
 
 <!-- id: EVT-2870 -->
-*   **Nov. 25 - Dec. 4, 1991:** The 2nd Conference of the Party Central Committee (7th tenure) approved the tasks and solutions for socio-economic development for the 1992-1995 period, including the goal of decisively curbing inflation.
+*   **Nov. 25 - Dec. 4, 1991:** The 2nd Conference of the Party Central Committee (7th tenure) approved the tasks and solutions for socio-economic development for the 1992-1995 period, including the goal of decisively curbing inflation. [Source: Resolution of the 2nd Plenum of the Party Central Committee (7th Tenure), Dec. 4, 1991; Complete Party Documents, Vol. 51 (1991), National Political Publishing House, Hanoi, 2007]
 
 <!-- id: EVT-2871 -->
-*   **Late 1991:** A French appellate court dismissed the "crimes against humanity" lawsuit against Georges Boudarel, citing the 1966 amnesty law. The plaintiffs appealed the decision.
+*   **Late 1991:** A French appellate court dismissed the "crimes against humanity" lawsuit against Georges Boudarel, citing the 1966 amnesty law. The plaintiffs appealed the decision. [Source: Decision of the Paris Court of Appeal, Dec. 18, 1991; Le Monde; Legal Archives of the French Republic]
 
 <!-- id: EVT-2872 -->
-*   **Dec. 8, 1991:** Leaders of Russia, Ukraine, and Belarus signed the Belavezha Accords, declaring the dissolution of the Soviet Union and establishing the Commonwealth of Independent States (CIS).
+*   **Dec. 8, 1991:** Leaders of Russia, Ukraine, and Belarus signed the Belavezha Accords, declaring the dissolution of the Soviet Union and establishing the Commonwealth of Independent States (CIS). [Source: Belovezha Accords establishing the Commonwealth of Independent States (CIS), Dec. 8, 1991; Nhan Dan Newspaper, Dec. 10, 1991; Archie Brown, The Rise and Fall of Communism, 2009]
 
 <!-- id: EVT-2873 -->
-*   **Dec. 25, 1991:** Mikhail Gorbachev resigned as President of the USSR. The Soviet flag was lowered at the Kremlin, marking the official collapse of the Soviet Union. This event had a profound impact on Vietnam, resulting in the loss of its most important traditional partner and aid source.
+*   **Dec. 25, 1991:** Mikhail Gorbachev resigned as President of the USSR. The Soviet flag was lowered at the Kremlin, marking the official collapse of the Soviet Union. This event had a profound impact on Vietnam, resulting in the loss of its most important traditional partner and aid source. [Source: Resignation Speech of Soviet President Mikhail Gorbachev broadcast Dec. 25, 1991; Nhan Dan Newspaper, Dec. 26, 1991; Russian News Agency ITAR-TASS]
 
 <!-- id: EVT-2874 -->
-*   **1992:** The remaining armed forces of FULRO in Cambodia officially surrendered to the UN Peacekeeping Forces (UNTAC), marking the end of the organization's armed activities.
+*   **1992:** The remaining armed forces of FULRO in Cambodia officially surrendered to the UN Peacekeeping Forces (UNTAC), marking the end of the organization's armed activities. [Source: United Nations Transitional Authority in Cambodia (UNTAC) Report, 1992; Nate Thayer, "The Forgotten Army", Far Eastern Economic Review, 1992; People's Public Security Newspaper]
 
 <!-- id: EVT-2875 -->
-* **1992:** Hero of the People's Armed Forces Nguyễn Văn Tăng (Tư Tăng) (Tiểu đoàn phó biệt động Sài Gòn - Gia Định, tham gia kháng chiến từ năm 1947. Nguyên cụm trưởng cụm 3,4,5 Biệt động Sài Gòn, tham gia nghiên cứu, chỉ huy nhiều trận tập kích của lực lượng biệt động. Lữ đoàn phó kiêm Chỉ huy cánh Bắc của Lữ đoàn 316, tham gia trận đánh giữ cầu Rạch Chiếc trong Chiến dịch Hồ Chí Minh năm 1975. Sau là Đại tá, công tác tại Bộ tư lệnh Thành phố Hồ Chí Minh) passed away.
+* **1992:** Hero of the People's Armed Forces Nguyễn Văn Tăng (Tư Tăng) (Tiểu đoàn phó biệt động Sài Gòn - Gia Định, tham gia kháng chiến từ năm 1947. Nguyên cụm trưởng cụm 3,4,5 Biệt động Sài Gòn, tham gia nghiên cứu, chỉ huy nhiều trận tập kích của lực lượng biệt động. Lữ đoàn phó kiêm Chỉ huy cánh Bắc của Lữ đoàn 316, tham gia trận đánh giữ cầu Rạch Chiếc trong Chiến dịch Hồ Chí Minh năm 1975. Sau là Đại tá, công tác tại Bộ tư lệnh Thành phố Hồ Chí Minh) passed away. [Source: HCM City Military Command, History of the Saigon - Gia Dinh Commandos (1945 - 1975), People's Army Publishing House, 2005; Saigon Commandos Museum]
 
 <!-- id: EVT-2876 -->
-* **1992:** Hero of the People's Armed Forces Hoàng Văn Quyết (Nguyên xạ thủ A72, Đại đội 3, Tiểu đoàn 172, Trung đoàn tên lửa 64, Sư đoàn Phòng không 361, Quân chủng Phòng không - Không quân Việt Nam) passed away.
+* **1992:** Hero of the People's Armed Forces Hoàng Văn Quyết (Nguyên xạ thủ A72, Đại đội 3, Tiểu đoàn 172, Trung đoàn tên lửa 64, Sư đoàn Phòng không 361, Quân chủng Phòng không - Không quân Việt Nam) passed away. [Source: Air Defense - Air Force Service, History of 361st Air Defense Division (1965 - 2005), People's Army Publishing House, 2005; Vietnam Military History Institute]
 
 <!-- id: EVT-2877 -->
-* **1992:** Hero of the People's Armed Forces Nguyễn Thị Định (Thiếu tướng Quân đội Nhân dân Việt Nam, Phó Chủ tịch Hội đồng Nhà nước) passed away.
+* **1992:** Hero of the People's Armed Forces Nguyễn Thị Định (Thiếu tướng Quân đội Nhân dân Việt Nam, Phó Chủ tịch Hội đồng Nhà nước) passed away. [Source: Special Communique of the Party Central Committee, National Assembly, State Council, Vietnam Women's Union, Aug. 27, 1992; Nhan Dan Newspaper; Southern Women's Museum]
 
 <!-- id: EVT-2878 -->
-*   **Feb. 12, 1992:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to revolutionary fighter Trần Thị Lý (born Trần Thị Nhâm, from Điện Bàn, Quảng Nam), recognizing her extraordinary sacrifices and unyielding courage against brutal enemy torture during the anti-American resistance.
+*   **Feb. 12, 1992:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to revolutionary fighter Trần Thị Lý (born Trần Thị Nhâm, from Điện Bàn, Quảng Nam), recognizing her extraordinary sacrifices and unyielding courage against brutal enemy torture during the anti-American resistance. [Source: State Council Order No. 60-LCT/HDNN8 dated Feb. 12, 1992 conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2879 -->
-*   **Feb. 25, 1992:** China passed a new law on its territorial sea, expansively claiming the archipelagos as Chinese territory.
+*   **Feb. 25, 1992:** China passed a new law on its territorial sea, expansively claiming the archipelagos as Chinese territory. [Source: Protest Statement by the Spokesperson of the Ministry of Foreign Affairs of the SRV, Feb. 28, 1992; Nhan Dan Newspaper; Dr. Nguyen Nha, Vietnam's Territorial Sovereignty over Hoang Sa and Truong Sa Archipelagos, 2013]
 
 <!-- id: EVT-2880 -->
-*   **Apr. 1992:** Nguyen Phu Trong published the article "Why did the Communist Party of the Soviet Union disintegrate?" in the *Communist Review*, analyzing the causes of the collapse to draw lessons for the Communist Party of Vietnam.
+*   **Apr. 1992:** Nguyen Phu Trong published the article "Why did the Communist Party of the Soviet Union disintegrate?" in the *Communist Review*, analyzing the causes of the collapse to draw lessons for the Communist Party of Vietnam. [Source: Nguyen Phu Trong, "Why Did the Communist Party of the Soviet Union Disintegrate?", Communist Review, No. 4/1992, pp. 14-19; National Political Publishing House]
 
 <!-- id: EVT-2881 -->
-*   **Apr. 5, 1992:** Chairman of the Council of Ministers Vo Van Kiet ordered the start of construction on the 500 kV North-South Circuit 1 extra-high-voltage transmission line (spanning 1,487 km from Hoa Binh Substation to Phu Lam Substation in Ho Chi Minh City). This bold, visionary strategic decision resolved chronic power shortages in the South and provided strong economic momentum nationwide.
+*   **Apr. 5, 1992:** Chairman of the Council of Ministers Vo Van Kiet ordered the start of construction on the 500 kV North-South Circuit 1 extra-high-voltage transmission line (spanning 1,487 km from Hoa Binh Substation to Phu Lam Substation in Ho Chi Minh City). This bold, visionary strategic decision resolved chronic power shortages in the South and provided strong economic momentum nationwide. [Source: Chairman of the Council of Ministers Decision No. 106-CT dated Apr. 5, 1992; Vietnam Electricity, 20 Years of North-South 500 kV Transmission Line (1994 - 2014); Nhan Dan Newspaper]
 
 <!-- id: EVT-2882 -->
-*   **Apr. 15, 1992:** The 8th National Assembly passed the **1992 Constitution of the Socialist Republic of Vietnam** (promulgated by Chairman of the Council of State Vo Chi Cong on April 18, 1992). Drafted under the direction of Vo Chi Cong as Chairman of the Constitution Amendment Committee, the 1992 Constitution served as the charter of Doi Moi, institutionalizing multi-sector economic development and restoring the single presidency.
+*   **Apr. 15, 1992:** The 8th National Assembly passed the **1992 Constitution of the Socialist Republic of Vietnam** (promulgated by Chairman of the Council of State Vo Chi Cong on April 18, 1992). Drafted under the direction of Vo Chi Cong as Chairman of the Constitution Amendment Committee, the 1992 Constitution served as the charter of Doi Moi, institutionalizing multi-sector economic development and restoring the single presidency. [Source: Constitution of the Socialist Republic of Vietnam (1992); National Assembly Documents, Vol. 7 (1987 - 1992), National Political Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-2883 -->
-*   **May 1992:** China granted the US company Crestone Energy a concession for oil exploration in the Vanguard Bank area (Wan'an Bei), located within Vietnam's claimed exclusive economic zone and continental shelf.
+*   **May 1992:** China granted the US company Crestone Energy a concession for oil exploration in the Vanguard Bank area (Wan'an Bei), located within Vietnam's claimed exclusive economic zone and continental shelf. [Source: Protest Statement by the Spokesperson of the Ministry of Foreign Affairs of the SRV, May 16, 1992; Vietnam Oil and Gas Group; Nhan Dan Newspaper]
 
 <!-- id: EVT-2884 -->
-*   **Jul. 1992:** Vietnam officially signed the Treaty of Amity and Cooperation in Southeast Asia (Bali Treaty) and became an observer of ASEAN.
+*   **Jul. 1992:** Vietnam officially signed the Treaty of Amity and Cooperation in Southeast Asia (Bali Treaty) and became an observer of ASEAN. [Source: Instrument of Accession to the Treaty of Amity and Cooperation in Southeast Asia (Bali Treaty) by Vietnam at 25th ASEAN Ministerial Meeting in Manila, July 22, 1992; Nhan Dan Newspaper]
 
 <!-- id: EVT-2885 -->
-*   **Jul. 8, 1992:** China occupied several additional submerged reefs in the Spratly Islands, consolidating its presence after passing its expansive territorial sea law earlier that year.
+*   **Jul. 8, 1992:** China occupied several additional submerged reefs in the Spratly Islands, consolidating its presence after passing its expansive territorial sea law earlier that year. [Source: Statement of the Ministry of Foreign Affairs of the SRV, July 9, 1992 protesting China's illegal territorial markers; Dr. Nguyen Nha, Vietnam's Territorial Sovereignty over Hoang Sa and Truong Sa Archipelagos, 2013]
 
 <!-- id: EVT-2886 -->
-*   **Jul. 19, 1992:** Election for the 9th National Assembly.
+*   **Jul. 19, 1992:** Election for the 9th National Assembly. [Source: Report on Results of the 9th National Assembly Election by the Electoral Council; National Assembly Documents, Vol. 8 (1992 - 1997), National Political Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-2887 -->
-*   **Aug. 20, 1992:** The State Council conferred the Gold Star Order — the highest distinction of the Party and State of Vietnam — upon Senior General Vo Nguyen Giap in recognition of his monumental and exceptionally outstanding contributions to the cause of national liberation, nation-building, and defense of the Fatherland.
+*   **Aug. 20, 1992:** The State Council conferred the Gold Star Order — the highest distinction of the Party and State of Vietnam — upon Senior General Vo Nguyen Giap in recognition of his monumental and exceptionally outstanding contributions to the cause of national liberation, nation-building, and defense of the Fatherland. [Source: State Council Decision No. 106-KT/HDNN8 dated Aug. 20, 1992 conferring the Gold Star Order on Senior General Vo Nguyen Giap; Nhan Dan Newspaper, Aug. 21, 1992]
 
 <!-- id: EVT-2888 -->
-*   **Sep. 23, 1992:** At the 1st session of the 9th National Assembly, the legislature elected General Le Duc Anh as State President and Comrade Vo Van Kiet as Prime Minister of the Socialist Republic of Vietnam (under the 1992 Constitution which restored the singular presidency); Comrade Nguyen Thi Binh was also elected Vice President, serving two consecutive terms until 2002.
+*   **Sep. 23, 1992:** At the 1st session of the 9th National Assembly, the legislature elected General Le Duc Anh as State President and Comrade Vo Van Kiet as Prime Minister of the Socialist Republic of Vietnam (under the 1992 Constitution which restored the singular presidency); Comrade Nguyen Thi Binh was also elected Vice President, serving two consecutive terms until 2002. [Source: Resolution of the 9th National Assembly at its First Session, Sept. 23, 1992; National Assembly Documents, Vol. 8 (1992 - 1997), National Political Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-2889 -->
-*   **Nov. 6, 1992:** The Government of Japan officially announced the resumption of Official Development Assistance (ODA) to Vietnam after the two nations reached an agreement to settle a 23.5 billion Yen debt inherited from the pre-1975 Republic of Vietnam via commercial bridge financing. On the same day, Japan pledged its first concessional ODA loan of 45.5 billion Yen, becoming the first G7 nation to restore large-scale economic aid to Vietnam during the Doi Moi era.
+*   **Nov. 6, 1992:** The Government of Japan officially announced the resumption of Official Development Assistance (ODA) to Vietnam after the two nations reached an agreement to settle a 23.5 billion Yen debt inherited from the pre-1975 Republic of Vietnam via commercial bridge financing. On the same day, Japan pledged its first concessional ODA loan of 45.5 billion Yen, becoming the first G7 nation to restore large-scale economic aid to Vietnam during the Doi Moi era. [Source: Japanese Government Statement on Resuming Official Development Assistance, Nov. 6, 1992; Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, 2002; Nhan Dan Newspaper]
 
 <!-- id: EVT-2890 -->
-*   **Nov. 20, 1992:** Hero of the People's Armed Forces Trần Thị Lý (born Trần Thị Nhâm, born in 1933 in Điện Quang commune, Điện Bàn district, Quảng Nam province; the revolutionary heroine renowned for her unyielding resilience against brutal torture by the US-backed Diệm regime and the inspiration for Tố Hữu's renowned poem *"Người con gái Việt Nam"*) passed away in Đà Nẵng at the age of 59.
+*   **Nov. 20, 1992:** Hero of the People's Armed Forces Trần Thị Lý (born Trần Thị Nhâm, born in 1933 in Điện Quang commune, Điện Bàn district, Quảng Nam province; the revolutionary heroine renowned for her unyielding resilience against brutal torture by the US-backed Diệm regime and the inspiration for Tố Hữu's renowned poem *"Người con gái Việt Nam"*) passed away in Đà Nẵng at the age of 59. [Source: Da Nang Newspaper, Nov. 22, 1992; Vietnam Women's Union; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2891 -->
-* **1993:** Hero of the People's Armed Forces Đặng Quang Cầm (Trung đội phó thuộc đội vũ trang tuyên truyền Liên khu 5) passed away.
+* **1993:** Hero of the People's Armed Forces Đặng Quang Cầm (Trung đội phó thuộc đội vũ trang tuyên truyền Liên khu 5) passed away. [Source: Vietnam Military History Institute, Heroes of the People's Armed Forces, Vol. I, People's Army Publishing House, Hanoi, 1996; Nghe An Provincial Military Command]
 
 <!-- id: EVT-2892 -->
-* **1993:** Hero of the People's Armed Forces Nguyễn Hữu Trí (Trưởng phòng Tình báo chiến lược miền (J22), Nguyên Phó chỉ huy trưởng Bộ Chỉ huy quân sự Thành phố Hồ Chí Minh) passed away.
+* **1993:** Hero of the People's Armed Forces Nguyễn Hữu Trí (Trưởng phòng Tình báo chiến lược miền (J22), Nguyên Phó chỉ huy trưởng Bộ Chỉ huy quân sự Thành phố Hồ Chí Minh) passed away. [Source: General Department of Defense Intelligence, History of Vietnam Defense Intelligence (1945 - 2005), People's Army Publishing House, Hanoi, 2005; People's Army Newspaper]
 
 <!-- id: EVT-2893 -->
-* **1993:** Hero of the People's Armed Forces Nguyễn Bá Phát (Nguyên Tư lệnh Quân chủng Hải quân, nguyên Thứ trưởng Thường trực Bộ Hải sản) passed away.
+* **1993:** Hero of the People's Armed Forces Nguyễn Bá Phát (Nguyên Tư lệnh Quân chủng Hải quân, nguyên Thứ trưởng Thường trực Bộ Hải sản) passed away. [Source: Naval Command, Major General Nguyen Ba Phat - Life and Commander Career, People's Army Publishing House, 2005; Vietnam Navy Newspaper]
 
 <!-- id: EVT-2894 -->
-* **1993:** Hero of the People's Armed Forces Nguyễn Thanh Tùng (Mười Cơ) (Đại tá, nguyên Phó phòng Tình báo Miền (J22), Bộ Tham mưu Quân Giải phóng miền Nam) passed away.
+* **1993:** Hero of the People's Armed Forces Nguyễn Thanh Tùng (Mười Cơ) (Đại tá, nguyên Phó phòng Tình báo Miền (J22), Bộ Tham mưu Quân Giải phóng miền Nam) passed away. [Source: Long An Provincial Military Command, History of the People's Armed Forces of Long An (1945 - 2005), People's Army Publishing House, 2005; Long An Newspaper]
 
 <!-- id: EVT-2895 -->
-* **1993:** Hero of the People's Armed Forces Hoàng Hữu Kháng (Đại tá, nguyên Cục trưởng Cục Cảnh vệ (nay là Bộ tư lệnh Cảnh vệ), cận vệ của Chủ tịch Hồ Chí Minh từ tháng 5 năm 1945 cho đến khi Người qua đời) passed away.
+* **1993:** Hero of the People's Armed Forces Hoàng Hữu Kháng (Đại tá, nguyên Cục trưởng Cục Cảnh vệ (nay là Bộ tư lệnh Cảnh vệ), cận vệ của Chủ tịch Hồ Chí Minh từ tháng 5 năm 1945 cho đến khi Người qua đời) passed away. [Source: Guard Command, History of the Guard Command (1953 - 2013), Public Security Publishing House, Hanoi, 2013; Public Security Museum]
 
 <!-- id: EVT-2896 -->
-*   **1993:** Overseas Vietnamese entrepreneur Johnathan Hanh Nguyen (through Imex Pan Pacific Group - IPPG), in partnership with the Civil Aviation Authority of Vietnam, opened the nation's first two duty-free shops at Tan Son Nhat International Airport and Noi Bai International Airport, pioneering the development of duty-free retail and international-standard non-aeronautical commercial services at Vietnam's gateway airports.
+*   **1993:** Overseas Vietnamese entrepreneur Johnathan Hanh Nguyen (through Imex Pan Pacific Group - IPPG), in partnership with the Civil Aviation Authority of Vietnam, opened the nation's first two duty-free shops at Tan Son Nhat International Airport and Noi Bai International Airport, pioneering the development of duty-free retail and international-standard non-aeronautical commercial services at Vietnam's gateway airports. [Source: Civil Aviation Authority of Vietnam, History of Civil Aviation of Vietnam (1956 - 2006), Transport Publishing House, 2006; Sai Gon Giai Phong Newspaper]
 
 <!-- id: EVT-2897 -->
-*   **Mar. 1993:** The French Court of Cassation upheld the dismissal of the lawsuit against Georges Boudarel.
+*   **Mar. 1993:** The French Court of Cassation upheld the dismissal of the lawsuit against Georges Boudarel. [Source: Ruling of the French Court of Cassation (Cour de Cassation) dated Apr. 1, 1993 in the Boudarel case; Bulletin des arrêts de la Cour de cassation, Paris, 1993]
 
 <!-- id: EVT-2898 -->
-*   **Jun. 1993:** The 5th Conference of the Party Central Committee (7th tenure) issued a resolution on continuing the renewal and development of the rural socio-economy.
+*   **Jun. 1993:** The 5th Conference of the Party Central Committee (7th tenure) issued a resolution on continuing the renewal and development of the rural socio-economy. [Source: Resolution of the 5th Plenum of the Party Central Committee (7th Tenure), June 11, 1993; Complete Party Documents, Vol. 52 (1992 - 1993), National Political Publishing House, Hanoi, 2007]
 
 <!-- id: EVT-2899 -->
-*   **Jul. 2, 1993:** The US announced it no longer opposed other countries and international financial institutions lending to Vietnam to repay its debts, a crucial step towards lifting the embargo.
+*   **Jul. 2, 1993:** The US announced it no longer opposed other countries and international financial institutions lending to Vietnam to repay its debts, a crucial step towards lifting the embargo. [Source: Statement by US President Bill Clinton, July 2, 1993; Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, National Political Publishing House, 2002; Nhan Dan Newspaper]
 
 <!-- id: EVT-2900 -->
-*   **Jul. 24, 1993:** The State President promulgated the Land Law, regulating the regime of land management and use, as well as the rights and obligations of land users in Vietnam.
+*   **Jul. 24, 1993:** The State President promulgated the Land Law, regulating the regime of land management and use, as well as the rights and obligations of land users in Vietnam. [Source: Land Law of 1993, passed July 14, 1993, promulgated July 24, 1993; National Assembly Documents, Vol. 8 (1992 - 1997), National Political Publishing House, 2008]
 
 <!-- id: EVT-2901 -->
-*   **Aug. 2, 1993:** Martyr Võ Thị Sáu was posthumously awarded the title of Hero of the People's Armed Forces by the State to honor her steadfast fighting spirit and heroic sacrifice during the anti-French resistance.
+*   **Aug. 2, 1993:** Martyr Võ Thị Sáu was posthumously awarded the title of Hero of the People's Armed Forces by the State to honor her steadfast fighting spirit and heroic sacrifice during the anti-French resistance. [Source: Presidential Decision No. 149-KT/CTN dated Aug. 2, 1993 by President Le Duc Anh posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2902 -->
-*   **Oct. 6, 1993:** Supported by commercial and bilateral bridge financing from the 15-nation "Friends of Vietnam" group co-chaired by France and Japan, Vietnam cleared all 140 million USD in arrears inherited from the Republic of Vietnam at the International Monetary Fund (IMF). Clearing these arrears enabled the IMF, the World Bank, and the Asian Development Bank (ADB) to formally lift their nearly two-decade lending moratorium, resuming vital development and infrastructure loans to Vietnam.
+*   **Oct. 6, 1993:** Supported by commercial and bilateral bridge financing from the 15-nation "Friends of Vietnam" group co-chaired by France and Japan, Vietnam cleared all 140 million USD in arrears inherited from the Republic of Vietnam at the International Monetary Fund (IMF). Clearing these arrears enabled the IMF, the World Bank, and the Asian Development Bank (ADB) to formally lift their nearly two-decade lending moratorium, resuming vital development and infrastructure loans to Vietnam. [Source: International Monetary Fund (IMF), Press Release No. 93/43, Oct. 6, 1993; State Bank of Vietnam; Nhan Dan Newspaper, Oct. 8, 1993]
 
 <!-- id: EVT-2903 -->
-*   **Dec. 11, 1993:** The complex of monuments of the former imperial capital of Hue was recognized as a World Cultural Heritage site.
+*   **Dec. 11, 1993:** The complex of monuments of the former imperial capital of Hue was recognized as a World Cultural Heritage site. [Source: UNESCO, Decision of the World Heritage Committee at its 17th Session (Cartagena, 1993); Hue Monuments Conservation Center; Nhan Dan Newspaper]
 
 <!-- id: EVT-2904 -->
-*   **Dec. 14, 1993:** In Paris, the Government of Vietnam reached a landmark agreement with the Paris Club to resolve bilateral official debts inherited from the pre-1975 Republic of Vietnam. Major creditor nations—including France, Japan, Germany, the United Kingdom, Italy, Belgium, Australia, Canada, South Korea, Austria, Switzerland, the Netherlands, and Spain—conditioned the normalization of financial relations on Vietnam assuming liability for these debts; in return, creditors agreed to cancel 50% of the arrears under concessional terms and reschedule the remainder over 23 to 30 years, marking a decisive milestone in Vietnam's reintegration into the global financial system.
+*   **Dec. 14, 1993:** In Paris, the Government of Vietnam reached a landmark agreement with the Paris Club to resolve bilateral official debts inherited from the pre-1975 Republic of Vietnam. Major creditor nations—including France, Japan, Germany, the United Kingdom, Italy, Belgium, Australia, Canada, South Korea, Austria, Switzerland, the Netherlands, and Spain—conditioned the normalization of financial relations on Vietnam assuming liability for these debts; in return, creditors agreed to cancel 50% of the arrears under concessional terms and reschedule the remainder over 23 to 30 years, marking a decisive milestone in Vietnam's reintegration into the global financial system. [Source: Agreed Minute between the Government of the SRV and Paris Club Creditors signed Dec. 14, 1993; Ministry of Finance; Nhan Dan Newspaper, Dec. 16, 1993]
 
 <!-- id: EVT-2905 -->
-*   **1994:** Bui Van Thuyen's mother, Le Thi Moi - who lost five sons in the resistance wars - was among the first group to be honored by the Vietnamese State with the noble title of "Vietnamese Heroic Mother".
+*   **1994:** Bui Van Thuyen's mother, Le Thi Moi - who lost five sons in the resistance wars - was among the first group to be honored by the Vietnamese State with the noble title of "Vietnamese Heroic Mother". [Source: Presidential Decision conferring the State Honorary Title of Vietnamese Heroic Mother in 1994; Hung Yen Department of Labour, Invalids and Social Affairs; People's Army Newspaper]
 
 <!-- id: EVT-2906 -->
 *   **1994:** Sung Thi Play (Vu A Dinh's mother) was posthumously awarded the title Vietnamese Heroic Mother in the first batch of recipients, having lost her husband, a son, and her own life to the resistance.

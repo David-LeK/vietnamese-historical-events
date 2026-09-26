@@ -8991,422 +8991,422 @@
 *   **13/01/1981:** Ban Bí thư ra Chỉ thị số 100/CT-TƯ ("Khoán 100") về việc cải tiến công tác khoán, mở rộng khoán sản phẩm đến nhóm và người lao động trong hợp tác xã nông nghiệp. [Nguồn: Chỉ thị số 100-CT/TW ngày 13/01/1981 của Ban Bí thư Trung ương Đảng; Văn kiện Đảng Toàn tập, tập 42 (1981), NXB Chính trị quốc gia, Hà Nội, 2005]
 
 <!-- id: EVT-2770 -->
-*   **21/01/1981:** Hội đồng Chính phủ ra Quyết định số 25-CP, nhằm phát huy quyền chủ động sản xuất kinh doanh và quyền tự chủ tài chính của các xí nghiệp quốc doanh.
+*   **21/01/1981:** Hội đồng Chính phủ ra Quyết định số 25-CP, nhằm phát huy quyền chủ động sản xuất kinh doanh và quyền tự chủ tài chính của các xí nghiệp quốc doanh. [Nguồn: Quyết định số 25-CP ngày 21/01/1981 của Hội đồng Chính phủ; Văn kiện Đảng Toàn tập, tập 42 (1981), NXB Chính trị quốc gia, Hà Nội, 2005]
 
 <!-- id: EVT-2771 -->
-*   **04/07/1981:** Tại kỳ họp thứ nhất Quốc hội khóa VII, Quốc hội bầu đồng chí Trường Chinh làm Chủ tịch Hội đồng Nhà nước (nguyên thủ quốc gia tập thể đầu tiên theo Hiến pháp 1980), bầu đồng chí Phạm Văn Đồng làm Chủ tịch Hội đồng Bộ trưởng và đồng chí Huỳnh Tấn Phát làm Phó Chủ tịch Hội đồng Bộ trưởng nước Cộng hòa xã hội chủ nghĩa Việt Nam.
+*   **04/07/1981:** Tại kỳ họp thứ nhất Quốc hội khóa VII, Quốc hội bầu đồng chí Trường Chinh làm Chủ tịch Hội đồng Nhà nước (nguyên thủ quốc gia tập thể đầu tiên theo Hiến pháp 1980), bầu đồng chí Phạm Văn Đồng làm Chủ tịch Hội đồng Bộ trưởng và đồng chí Huỳnh Tấn Phát làm Phó Chủ tịch Hội đồng Bộ trưởng nước Cộng hòa xã hội chủ nghĩa Việt Nam. [Nguồn: Nghị quyết của Quốc hội khóa VII tại Kỳ họp thứ nhất, ngày 04/07/1981; Văn kiện Quốc hội Toàn tập, tập 6 (1981 - 1987), NXB Chính trị quốc gia, Hà Nội, 2008]
 
 <!-- id: EVT-2772 -->
-*   **1982:** Ban Chấp hành Thành đoàn TP. Hồ Chí Minh quyết định lấy ngày 15/10 (ngày hy sinh của Nguyễn Văn Trỗi) làm Ngày Truyền thống Thanh niên Công nhân TP. Hồ Chí Minh và thành lập Giải thưởng Nguyễn Văn Trỗi dành cho công nhân trẻ tiêu biểu.
+*   **1982:** Ban Chấp hành Thành đoàn TP. Hồ Chí Minh quyết định lấy ngày 15/10 (ngày hy sinh của Nguyễn Văn Trỗi) làm Ngày Truyền thống Thanh niên Công nhân TP. Hồ Chí Minh và thành lập Giải thưởng Nguyễn Văn Trỗi dành cho công nhân trẻ tiêu biểu. [Nguồn: Thành đoàn Thành phố Hồ Chí Minh, Biên niên sự kiện Đoàn TNCS Hồ Chí Minh TP.HCM (1975 - 2005), NXB Trẻ, 2005; Báo Tuổi Trẻ]
 
 <!-- id: EVT-2773 -->
-* **1982:** Anh hùng Lực lượng vũ trang nhân dân Lê Văn Một (Thuyền trưởng tàu không số đầu tiên của tuyến Đường mòn Hồ Chí Minh trên biển) từ trần.
+* **1982:** Anh hùng Lực lượng vũ trang nhân dân Lê Văn Một (Thuyền trưởng tàu không số đầu tiên của tuyến Đường mòn Hồ Chí Minh trên biển) từ trần. [Nguồn: Bộ Tư lệnh Quân chủng Hải quân, Huyền thoại Đường Hồ Chí Minh trên biển, NXB Quân đội nhân dân, Hà Nội, 2011; Bảo tàng Hải quân]
 
 <!-- id: EVT-2774 -->
-*   **Đầu năm 1982:** Bất chấp cơ sở hạ tầng bị tàn phá nặng nề sau cuộc chiến năm 1979, các đơn vị quân đội đóng quân tại biên giới Cao Bằng đã tích cực giúp nhân dân khôi phục sản xuất nông nghiệp và ổn định đời sống.
+*   **Đầu năm 1982:** Bất chấp cơ sở hạ tầng bị tàn phá nặng nề sau cuộc chiến năm 1979, các đơn vị quân đội đóng quân tại biên giới Cao Bằng đã tích cực giúp nhân dân khôi phục sản xuất nông nghiệp và ổn định đời sống. [Nguồn: Bộ Giao thông Vận tải, Lịch sử Giao thông vận tải Việt Nam (1945 - 2005), NXB Giao thông Vận tải, Hà Nội, 2005; Báo Nhân Dân]
 
 <!-- id: EVT-2775 -->
-*   **27 - 31/03/1982:** Đại hội đại biểu toàn quốc lần thứ V của Đảng Cộng sản Việt Nam họp tại Hà Nội, tái bầu đồng chí Lê Duẩn làm Tổng Bí thư Ban Chấp hành Trung ương Đảng; đề ra Kế hoạch phát triển kinh tế - xã hội 5 năm lần thứ ba (1981 - 1985) và bước đầu điều chỉnh cơ cấu đầu tư, xác định nông nghiệp là mặt trận hàng đầu.
+*   **27 - 31/03/1982:** Đại hội đại biểu toàn quốc lần thứ V của Đảng Cộng sản Việt Nam họp tại Hà Nội, tái bầu đồng chí Lê Duẩn làm Tổng Bí thư Ban Chấp hành Trung ương Đảng; đề ra Kế hoạch phát triển kinh tế - xã hội 5 năm lần thứ ba (1981 - 1985) và bước đầu điều chỉnh cơ cấu đầu tư, xác định nông nghiệp là mặt trận hàng đầu. [Nguồn: Báo cáo chính trị của Ban Chấp hành Trung ương Đảng tại Đại hội đại biểu toàn quốc lần thứ V; Văn kiện Đảng Toàn tập, tập 43 (1982), NXB Chính trị quốc gia, Hà Nội, 2006]
 
 <!-- id: EVT-2776 -->
-*   **06/1982:** Huỳnh Tấn Phát được bầu làm Phó Chủ tịch Hội đồng Nhà nước.
+*   **06/1982:** Huỳnh Tấn Phát được bầu làm Phó Chủ tịch Hội đồng Nhà nước. [Nguồn: Nghị quyết của Quốc hội khóa VII tại Kỳ họp thứ 3, tháng 06/1982; Văn kiện Quốc hội Toàn tập, tập 6 (1981 - 1987), NXB Chính trị quốc gia, Hà Nội, 2008]
 
 <!-- id: EVT-2777 -->
-*   **06/1982:** Tân Hoa Xã của Trung Quốc đưa tin về việc hoàn thành một cảng lớn mới tại đảo Tri Tôn thuộc quần đảo Hoàng Sa, cho thấy quá trình quân sự hóa và phát triển cơ sở hạ tầng liên tục của Trung Quốc tại vùng lãnh thổ bị chiếm đóng.
+*   **06/1982:** Tân Hoa Xã của Trung Quốc đưa tin về việc hoàn thành một cảng lớn mới tại đảo Tri Tôn thuộc quần đảo Hoàng Sa, cho thấy quá trình quân sự hóa và phát triển cơ sở hạ tầng liên tục của Trung Quốc tại vùng lãnh thổ bị chiếm đóng. [Nguồn: Bộ Ngoại giao nước CHXHCN Việt Nam, Sách trắng: Quần đảo Hoàng Sa và Trường Sa - Lãnh thổ Việt Nam, Hà Nội, 1988; TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, 2013]
 
 <!-- id: EVT-2778 -->
-*   **28/09/1982:** Hội đồng Bộ trưởng ra quyết định lấy ngày 20 tháng 11 hàng năm làm Ngày Nhà giáo Việt Nam.
+*   **28/09/1982:** Hội đồng Bộ trưởng ra quyết định lấy ngày 20 tháng 11 hàng năm làm Ngày Nhà giáo Việt Nam. [Nguồn: Quyết định số 167-HĐBT ngày 28/09/1982 của Hội đồng Bộ trưởng; Bộ Giáo dục và Đào tạo; Báo Nhân Dân số ra ngày 29/09/1982]
 
 <!-- id: EVT-2779 -->
-*   **12/11/1982:** Chính phủ nước Cộng hòa Xã hội Chủ nghĩa Việt Nam ra Tuyên bố về đường cơ sở dùng để tính chiều rộng lãnh hải Việt Nam, tái khẳng định hai quần đảo Hoàng Sa và Trường Sa là bộ phận lãnh thổ không thể tách rời của nước CHXHCN Việt Nam.
+*   **12/11/1982:** Chính phủ nước Cộng hòa Xã hội Chủ nghĩa Việt Nam ra Tuyên bố về đường cơ sở dùng để tính chiều rộng lãnh hải Việt Nam, tái khẳng định hai quần đảo Hoàng Sa và Trường Sa là bộ phận lãnh thổ không thể tách rời của nước CHXHCN Việt Nam. [Nguồn: Tuyên bố của Chính phủ nước CHXHCN Việt Nam về đường cơ sở dùng để tính chiều rộng lãnh hải Việt Nam ngày 12/11/1982; Công báo nước CHXHCN Việt Nam]
 
 <!-- id: EVT-2780 -->
-*   **12/11/1982:** Cộng hòa Xã hội Chủ nghĩa Việt Nam ra tuyên bố xác định đường cơ sở dùng để tính chiều rộng lãnh hải, bao trùm cả các quần đảo.
+*   **12/11/1982:** Cộng hòa Xã hội Chủ nghĩa Việt Nam ra tuyên bố xác định đường cơ sở dùng để tính chiều rộng lãnh hải, bao trùm cả các quần đảo. [Nguồn: Tuyên bố của Chính phủ nước CHXHCN Việt Nam về đường cơ sở dùng để tính chiều rộng lãnh hải Việt Nam ngày 12/11/1982; Ủy ban Biên giới Quốc gia, Bộ Ngoại giao]
 
 <!-- id: EVT-2781 -->
-*   **09/12/1982:** Hội đồng Bộ trưởng nước CHXHCN Việt Nam ban hành **Quyết định số 193-HĐBT** thành lập huyện Hoàng Sa trực thuộc tỉnh Quảng Nam - Đà Nẵng và **Quyết định số 194-HĐBT** thành lập huyện Trường Sa trực thuộc tỉnh Đồng Nai (sau đó Quốc hội ra Nghị quyết chuyển huyện Trường Sa về tỉnh Phú Khánh vào ngày 28/12/1982, nay trực thuộc tỉnh Khánh Hòa).
+*   **09/12/1982:** Hội đồng Bộ trưởng nước CHXHCN Việt Nam ban hành **Quyết định số 193-HĐBT** thành lập huyện Hoàng Sa trực thuộc tỉnh Quảng Nam - Đà Nẵng và **Quyết định số 194-HĐBT** thành lập huyện Trường Sa trực thuộc tỉnh Đồng Nai (sau đó Quốc hội ra Nghị quyết chuyển huyện Trường Sa về tỉnh Phú Khánh vào ngày 28/12/1982, nay trực thuộc tỉnh Khánh Hòa). [Nguồn: Quyết định số 193-HĐBT ngày 09/12/1982 của Hội đồng Bộ trưởng về việc thành lập huyện Trường Sa; Công báo nước CHXHCN Việt Nam]
 
 <!-- id: EVT-2782 -->
-*   **09/12/1982:** Hội đồng Bộ trưởng Việt Nam ra các quyết định tái cơ cấu việc quản lý hành chính đối với các quần đảo.
+*   **09/12/1982:** Hội đồng Bộ trưởng Việt Nam ra các quyết định tái cơ cấu việc quản lý hành chính đối với các quần đảo. [Nguồn: Quyết định số 194-HĐBT ngày 09/12/1982 của Hội đồng Bộ trưởng về việc thành lập huyện Hoàng Sa; Công báo nước CHXHCN Việt Nam]
 
 <!-- id: EVT-2783 -->
-* **1983:** Anh hùng Lực lượng vũ trang nhân dân Bông Văn Dĩa (Đoàn phó Đoàn 962 vận tải biển - Quân khu 9. Tham gia hàng chục chuyến vận tải chở vũ khí trên tuyến đường Hồ Chí Minh trên biển) từ trần.
+* **1983:** Anh hùng Lực lượng vũ trang nhân dân Bông Văn Dĩa (Đoàn phó Đoàn 962 vận tải biển - Quân khu 9. Tham gia hàng chục chuyến vận tải chở vũ khí trên tuyến đường Hồ Chí Minh trên biển) từ trần. [Nguồn: Ban Tuyên giáo Tỉnh ủy Cà Mau, Lịch sử Đảng bộ tỉnh Cà Mau (1930 - 2000), NXB Mũi Cà Mau, 2004; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2784 -->
-* **1983:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Dương Đức Thùng (Tham gia Chiến dịch phản công biên giới Tây Nam).
+* **1983:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Dương Đức Thùng (Tham gia Chiến dịch phản công biên giới Tây Nam). [Nguồn: Lệnh của Chủ tịch Hội đồng Nhà nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 1983; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2785 -->
-*   **23/02/1983:** Malaysia chính thức nêu yêu sách chủ quyền đối với ba hòn đảo ở Trường Sa, Việt Nam đã chính thức phản kháng vào ngày 25 tháng 3.
+*   **23/02/1983:** Malaysia chính thức nêu yêu sách chủ quyền đối với ba hòn đảo ở Trường Sa, Việt Nam đã chính thức phản kháng vào ngày 25 tháng 3. [Nguồn: Tuyên bố của Bộ Ngoại giao nước CHXHCN Việt Nam phản đối Malaysia ngày 25/02/1983; TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, NXB Tri thức, 2013]
 
 <!-- id: EVT-2786 -->
-*   **05/1983:** Huỳnh Tấn Phát được bầu làm Chủ tịch Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, đồng thời là Chủ tịch Hội Kiến trúc sư Việt Nam.
+*   **05/1983:** Huỳnh Tấn Phát được bầu làm Chủ tịch Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, đồng thời là Chủ tịch Hội Kiến trúc sư Việt Nam. [Nguồn: Nghị quyết Đại hội đại biểu toàn quốc lần thứ II Mặt trận Tổ quốc Việt Nam, tháng 05/1983; Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam]
 
 <!-- id: EVT-2787 -->
-*   **06/1983:** Quân đội Malaysia chiếm đóng đá Hoa Lau (Swallow Reef) ở Trường Sa và xây dựng các công trình. Việt Nam đã chính thức phản đối hành động này.
+*   **06/1983:** Quân đội Malaysia chiếm đóng đá Hoa Lau (Swallow Reef) ở Trường Sa và xây dựng các công trình. Việt Nam đã chính thức phản đối hành động này. [Nguồn: Tuyên bố phản đối của Người Phát ngôn Bộ Ngoại giao nước CHXHCN Việt Nam ngày 28/06/1983; Bộ Ngoại giao, Sách trắng về Hoàng Sa và Trường Sa, 1988]
 
 <!-- id: EVT-2788 -->
-*   **Mùa hè 1983:** Chiến sự lại rộ lên và diễn ra ác liệt ở vùng biên giới Hoàng Liên Sơn (Lào Cai) và Hà Tuyên (Hà Giang).
+*   **Mùa hè 1983:** Chiến sự lại rộ lên và diễn ra ác liệt ở vùng biên giới Hoàng Liên Sơn (Lào Cai) và Hà Tuyên (Hà Giang). [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử cuộc chiến đấu bảo vệ biên giới phía Bắc (1979 - 1989), NXB Quân đội nhân dân, Hà Nội, 2001; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2789 -->
-*   **07/1983:** Bí thư Thành ủy TP. Hồ Chí Minh Nguyễn Văn Linh tổ chức cuộc làm việc lịch sử tại Đà Lạt giữa các giám đốc xí nghiệp năng động của thành phố với Tổng Bí thư Lê Duẩn, báo cáo trực tiếp những mô hình sản xuất "xé rào", bung ra thực tế; sự kiện tạo bước chuyển biến căn bản trong tư duy kinh tế của ban lãnh đạo Đảng, mở đường cho đường lối Đổi Mới toàn diện.
+*   **07/1983:** Bí thư Thành ủy TP. Hồ Chí Minh Nguyễn Văn Linh tổ chức cuộc làm việc lịch sử tại Đà Lạt giữa các giám đốc xí nghiệp năng động của thành phố với Tổng Bí thư Lê Duẩn, báo cáo trực tiếp những mô hình sản xuất "xé rào", bung ra thực tế; sự kiện tạo bước chuyển biến căn bản trong tư duy kinh tế của ban lãnh đạo Đảng, mở đường cho đường lối Đổi Mới toàn diện. [Nguồn: Thành ủy Thành phố Hồ Chí Minh, Đồng chí Nguyễn Văn Linh với Đảng bộ và Nhân dân Thành phố Hồ Chí Minh, NXB Chính trị quốc gia, Hà Nội, 2015; Báo Sài Gòn Giải Phóng]
 
 <!-- id: EVT-2790 -->
-*   **27/09/1983:** Nhà báo quốc tế người Australia Wilfred Burchett (người bạn lớn trung kiên, đồng chí chiến đấu thủy chung của Chủ tịch Hồ Chí Minh và nhân dân Việt Nam trong cả hai cuộc kháng chiến chống Pháp và chống Mỹ) từ trần tại Sofia (Bulgaria), hưởng thọ 72 tuổi.
+*   **27/09/1983:** Nhà báo quốc tế người Australia Wilfred Burchett (người bạn lớn trung kiên, đồng chí chiến đấu thủy chung của Chủ tịch Hồ Chí Minh và nhân dân Việt Nam trong cả hai cuộc kháng chiến chống Pháp và chống Mỹ) từ trần tại Sofia (Bulgaria), hưởng thọ 72 tuổi. [Nguồn: Wilfred Burchett, At the Barricades: The Memoirs of a Rebel Journalist, Times Books, 1981; Thông cáo của Hội Nhà báo Việt Nam; Báo Nhân Dân]
 
 <!-- id: EVT-2791 -->
-*   **Cuối năm 1983:** Lính Trung Quốc thường xuyên gài mìn và dùng súng B41 bắn lén các xe cơ giới của Việt Nam đi qua các tuyến đường biên giới ở Mường Khương (Lào Cai).
+*   **Cuối năm 1983:** Lính Trung Quốc thường xuyên gài mìn và dùng súng B41 bắn lén các xe cơ giới của Việt Nam đi qua các tuyến đường biên giới ở Mường Khương (Lào Cai). [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử cuộc chiến đấu bảo vệ biên giới phía Bắc (1979 - 1989), NXB Quân đội nhân dân, Hà Nội, 2001; Báo Nhân Dân]
 
 <!-- id: EVT-2792 -->
 *   **28/04/1984:** Quân đội Trung Quốc huy động nhiều sư đoàn bộ binh cùng hỏa lực pháo binh hạng nặng mở cuộc tiến công lấn chiếm quy mô lớn vào khu vực biên giới Vị Xuyên (Hà Tuyên), đánh chiếm dãy cao điểm 1509 (Lão Sơn), 772, 685. Sự kiện này mở đầu cho cuộc chiến đấu bảo vệ biên cương Tổ quốc khốc liệt và kéo dài nhất trong suốt thập niên 1980 tại mặt trận Vị Xuyên, nơi các chiến sĩ Quân đội Nhân dân Việt Nam với tinh thần kiên cường "Sống bám đá đánh giặc, chết hóa đá bất tử" đã dũng cảm chiến đấu giữ vững từng tấc đất thiêng liêng của Tổ quốc. [Nguồn: Báo Điện tử Chính phủ - Biên giới Vị Xuyên - Từ trận tuyến nóng bỏng đến đài hương tưởng niệm, https://baochinhphu.vn/bien-gioi-vi-xuyen-tu-tran-tuyen-nong-bong-den-dai-huong-tuong-niem-102251805.htm]
 
 <!-- id: EVT-2793 -->
-*   **30/04/1984:** Khởi công xây dựng Nhà máy Thủy điện Trị An trên sông Đồng Nai với sự hỗ trợ kỹ thuật của Liên Xô, công trình thủy điện trọng điểm phục vụ phát triển kinh tế và đảm bảo an ninh năng lượng cho miền Nam sau ngày thống nhất.
+*   **30/04/1984:** Khởi công xây dựng Nhà máy Thủy điện Trị An trên sông Đồng Nai với sự hỗ trợ kỹ thuật của Liên Xô, công trình thủy điện trọng điểm phục vụ phát triển kinh tế và đảm bảo an ninh năng lượng cho miền Nam sau ngày thống nhất. [Nguồn: Tập đoàn Điện lực Việt Nam, Lịch sử Thủy điện Trị An (1984 - 2014), NXB Đồng Nai, 2014; Báo Sài Gòn Giải Phóng số ra ngày 01/05/1984]
 
 <!-- id: EVT-2794 -->
-*   **02/06/1984:** Quốc hội Trung Quốc quyết định thành lập một khu hành chính đặc biệt bao gồm đảo Hải Nam và hai quần đảo. Chính phủ Việt Nam đã phản đối kịch liệt.
+*   **02/06/1984:** Quốc hội Trung Quốc quyết định thành lập một khu hành chính đặc biệt bao gồm đảo Hải Nam và hai quần đảo. Chính phủ Việt Nam đã phản đối kịch liệt. [Nguồn: Tuyên bố phản đối của Người Phát ngôn Bộ Ngoại giao nước CHXHCN Việt Nam ngày 05/06/1984; Báo Nhân Dân; TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, 2013]
 
 <!-- id: EVT-2795 -->
-*   **12/07/1984:** Trong các trận chiến ác liệt tại Vị Xuyên (Hà Giang), mật độ pháo địch bắn sang trận địa Việt Nam dày đặc nhiều giờ liền, gây tổn thất lớn cho bộ đội đặc biệt là trên cao điểm 772, biến dãy núi đá nơi đây thành "Lò vôi thế kỷ". Tại đây, những người lính như anh hùng liệt sĩ Nguyễn Viết Ninh đã chiến đấu với lời thề khắc trên báng súng: "Sống bám đá, chết hóa đá, thành bất tử".
+*   **12/07/1984:** Trong các trận chiến ác liệt tại Vị Xuyên (Hà Giang), mật độ pháo địch bắn sang trận địa Việt Nam dày đặc nhiều giờ liền, gây tổn thất lớn cho bộ đội đặc biệt là trên cao điểm 772, biến dãy núi đá nơi đây thành "Lò vôi thế kỷ". Tại đây, những người lính như anh hùng liệt sĩ Nguyễn Viết Ninh đã chiến đấu với lời thề khắc trên báng súng: "Sống bám đá, chết hóa đá, thành bất tử". [Nguồn: Bộ Chỉ huy Quân sự tỉnh Hà Giang, Ký ức Vị Xuyên: Lịch sử cuộc chiến đấu bảo vệ biên giới phía Bắc (1979 - 1989), NXB Quân đội nhân dân, Hà Nội, 2019; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2796 -->
-*   **09/09/1984:** Lực lượng An ninh nhân dân Việt Nam kết thúc thắng lợi **Kế hoạch phản gián CM12** (kéo dài từ năm 1981 đến 1984) tại Hòn Đá Bạc (Cà Mau). Bằng chiến thuật "tương kế tựu kế", lực lượng An ninh đã đón bắt an toàn 18 chuyến thâm nhập của tổ chức phản động lưu vong "Mặt trận thống nhất các lực lượng yêu nước giải phóng Việt Nam" do Lê Quốc Túy và Mai Văn Hạnh cầm đầu, bắt giữ và tiêu diệt hàng trăm gián điệp biệt kích, thu giữ hàng trăm tấn vũ khí, tàu thuyền và tiền giả, đập tan hoàn toàn âm mưu vũ trang bạo loạn lật đổ chính quyền.
+*   **09/09/1984:** Lực lượng An ninh nhân dân Việt Nam kết thúc thắng lợi **Kế hoạch phản gián CM12** (kéo dài từ năm 1981 đến 1984) tại Hòn Đá Bạc (Cà Mau). Bằng chiến thuật "tương kế tựu kế", lực lượng An ninh đã đón bắt an toàn 18 chuyến thâm nhập của tổ chức phản động lưu vong "Mặt trận thống nhất các lực lượng yêu nước giải phóng Việt Nam" do Lê Quốc Túy và Mai Văn Hạnh cầm đầu, bắt giữ và tiêu diệt hàng trăm gián điệp biệt kích, thu giữ hàng trăm tấn vũ khí, tàu thuyền và tiền giả, đập tan hoàn toàn âm mưu vũ trang bạo loạn lật đổ chính quyền. [Nguồn: Bộ Công an, Kế hoạch CM12: Đòn quyết định bẻ gãy âm mưu vũ trang lật đổ của các thế lực phản động, NXB Công an nhân dân, Hà Nội, 2004; Báo Công an nhân dân]
 
 <!-- id: EVT-2797 -->
-*   **1985:** Ngày mất của Tạ Quốc Luật (sinh năm 1925 tại Thái Bình), người Đại đội trưởng dũng cảm dẫn đầu tổ xung kích thuộc Đại đội 360, Trung đoàn 209, Đại đoàn 312 bắt sống Tướng Christian de Castries tại hầm chỉ huy Điện Biên Phủ ngày 07/05/1954.
+*   **1985:** Ngày mất của Tạ Quốc Luật (sinh năm 1925 tại Thái Bình), người Đại đội trưởng dũng cảm dẫn đầu tổ xung kích thuộc Đại đội 360, Trung đoàn 209, Đại đoàn 312 bắt sống Tướng Christian de Castries tại hầm chỉ huy Điện Biên Phủ ngày 07/05/1954. [Nguồn: Đại đoàn 312, Lịch sử Sư đoàn 312 - Sư đoàn Chiến Thắng (1950 - 2000), NXB Quân đội nhân dân, Hà Nội, 2000; Bảo tàng Chiến thắng Lịch sử Điện Biên Phủ]
 
 <!-- id: EVT-2798 -->
-* **1985:** Anh hùng Lực lượng vũ trang nhân dân Đỗ Xuân Hợp (Giáo sư, bác sĩ giải phẫu; Giám đốc Học viện Quân y) từ trần.
+* **1985:** Anh hùng Lực lượng vũ trang nhân dân Đỗ Xuân Hợp (Giáo sư, bác sĩ giải phẫu; Giám đốc Học viện Quân y) từ trần. [Nguồn: Học viện Quân y, Thiếu tướng Giáo sư Đỗ Xuân Hợp - Nhà phẫu thuật và giải phẫu học xuất sắc Việt Nam, NXB Quân đội nhân dân, Hà Nội, 2005]
 
 <!-- id: EVT-2799 -->
-* **1985:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Đệ (Đại tá, Kỹ sư điều khiển tên lửa, Ủy viên Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam lần thứ 3).
+* **1985:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Đệ (Đại tá, Kỹ sư điều khiển tên lửa, Ủy viên Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam lần thứ 3). [Nguồn: Lệnh của Chủ tịch Hội đồng Nhà nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 1985; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2800 -->
-* **1985:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Hữu Vị (Tham gia cuộc kháng chiến giải phóng dân tộc và bảo vệ Tổ quốc, nguyên Chỉ huy trưởng Bộ Chỉ huy Quân sự tỉnh Bến Tre).
+* **1985:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Hữu Vị (Tham gia cuộc kháng chiến giải phóng dân tộc và bảo vệ Tổ quốc, nguyên Chỉ huy trưởng Bộ Chỉ huy Quân sự tỉnh Bến Tre). [Nguồn: Lệnh của Chủ tịch Hội đồng Nhà nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 1985; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2801 -->
-*   **11/03/1985:** Mikhail Gorbachev trở thành Tổng Bí thư Đảng Cộng sản Liên Xô, bắt đầu thực hiện đường lối "Cải tổ" (Perestroika) và "Công khai" (Glasnost).
+*   **11/03/1985:** Mikhail Gorbachev trở thành Tổng Bí thư Đảng Cộng sản Liên Xô, bắt đầu thực hiện đường lối "Cải tổ" (Perestroika) và "Công khai" (Glasnost). [Nguồn: Thông tấn xã TASS (Liên Xô); Báo Nhân Dân số ra ngày 12/03/1985; Archie Brown, The Gorbachev Factor, Oxford University Press, 1996]
 
 <!-- id: EVT-2802 -->
-*   **06/1985:** Hội nghị lần thứ 8 Ban Chấp hành Trung ương (khóa V) ra nghị quyết về giá - lương - tiền, quyết định dứt khoát xóa bỏ cơ chế tập trung quan liêu, bao cấp.
+*   **06/1985:** Hội nghị lần thứ 8 Ban Chấp hành Trung ương (khóa V) ra nghị quyết về giá - lương - tiền, quyết định dứt khoát xóa bỏ cơ chế tập trung quan liêu, bao cấp. [Nguồn: Nghị quyết Hội nghị lần thứ 8 Ban Chấp hành Trung ương Đảng (khóa V) về giá - lương - tiền, tháng 06/1985; Văn kiện Đảng Toàn tập, tập 46 (1985), NXB Chính trị quốc gia, 2006]
 
 <!-- id: EVT-2803 -->
-*   **27/06/1985:** Chủ tịch Hội đồng Nhà nước Trường Chinh ký Lệnh công bố Bộ luật Hình sự đầu tiên của nước Cộng hòa xã hội chủ nghĩa Việt Nam (được Quốc hội thông qua ngày 27/06/1985), đánh dấu bước hoàn thiện quan trọng trong hệ thống pháp luật xã hội chủ nghĩa nhằm bảo vệ an ninh quốc gia, trật tự an toàn xã hội và quyền của công dân.
+*   **27/06/1985:** Chủ tịch Hội đồng Nhà nước Trường Chinh ký Lệnh công bố Bộ luật Hình sự đầu tiên của nước Cộng hòa xã hội chủ nghĩa Việt Nam (được Quốc hội thông qua ngày 27/06/1985), đánh dấu bước hoàn thiện quan trọng trong hệ thống pháp luật xã hội chủ nghĩa nhằm bảo vệ an ninh quốc gia, trật tự an toàn xã hội và quyền của công dân. [Nguồn: Lệnh số 22-LCT/HĐNN7 ngày 27/06/1985 của Chủ tịch Hội đồng Nhà nước công bố Bộ luật Hình sự; Văn kiện Quốc hội Toàn tập, tập 6 (1981 - 1987), NXB Chính trị quốc gia, 2008]
 
 <!-- id: EVT-2804 -->
-* **29/08/1985:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Ngô Thị Huệ (bí danh Minh Hiệp, "Con sóc nhỏ", nữ trinh sát, điệp báo viên kiên trung của Ban An ninh Quảng Đà).
+* **29/08/1985:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Ngô Thị Huệ (bí danh Minh Hiệp, "Con sóc nhỏ", nữ trinh sát, điệp báo viên kiên trung của Ban An ninh Quảng Đà). [Nguồn: Lệnh số 25-LCT/HĐNN7 ngày 29/08/1985 của Chủ tịch Hội đồng Nhà nước phong tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2805 -->
-*   **04/09/1985:** Tại thủ đô Manila, Tổng thống Philippines Ferdinand Marcos ký sắc lệnh đặc cách phê chuẩn việc cấp phép mở đường bay thương mại song phương giữa Manila và Thành phố Hồ Chí Minh. Quyết định mang tính bước ngoặt này đạt được nhờ sự kiên trì đàm phán và nỗ lực vận động trực tiếp của doanh nhân kiều bào Johnathan Hạnh Nguyễn (nguyên chuyên viên tài chính Boeing và Philippine Airlines) cùng đại diện ngoại giao Việt Nam (Đại biện lâm thời Trần Tiến Vinh), tháo gỡ nút thắt ngoại giao then chốt để kết nối hàng không giữa Việt Nam với một quốc gia ngoài khối xã hội chủ nghĩa giữa thời kỳ đất nước đang chịu lệnh bao vây cấm vận gắt gao.
+*   **04/09/1985:** Tại thủ đô Manila, Tổng thống Philippines Ferdinand Marcos ký sắc lệnh đặc cách phê chuẩn việc cấp phép mở đường bay thương mại song phương giữa Manila và Thành phố Hồ Chí Minh. Quyết định mang tính bước ngoặt này đạt được nhờ sự kiên trì đàm phán và nỗ lực vận động trực tiếp của doanh nhân kiều bào Johnathan Hạnh Nguyễn (nguyên chuyên viên tài chính Boeing và Philippine Airlines) cùng đại diện ngoại giao Việt Nam (Đại biện lâm thời Trần Tiến Vinh), tháo gỡ nút thắt ngoại giao then chốt để kết nối hàng không giữa Việt Nam với một quốc gia ngoài khối xã hội chủ nghĩa giữa thời kỳ đất nước đang chịu lệnh bao vây cấm vận gắt gao. [Nguồn: Cục Hàng không Dân dụng Việt Nam, Lịch sử Hàng không Dân dụng Việt Nam (1956 - 2006), NXB Giao thông Vận tải, 2006; Báo Sài Gòn Giải Phóng]
 
 <!-- id: EVT-2806 -->
-*   **09/09/1985:** Hãng Hàng không Quốc gia Việt Nam (tiền thân của Vietnam Airlines) thực hiện chuyến bay thương mại quốc tế lịch sử trên chặng Thành phố Hồ Chí Minh - Manila bằng tàu bay Boeing 707 (mang số hiệu VN-A304, do Trưởng đoàn Phan Tường chỉ huy), chính thức khai thông đường bay quốc tế thương mại đầu tiên giữa Việt Nam với khu vực Đông Nam Á trong thời kỳ cấm vận. Tuyến bay đóng vai trò như một "cầu hàng không" nhân đạo và kinh tế đặc biệt, mở cánh cửa kết nối Việt Nam với thế giới, tiếp nhận và vận chuyển hàng triệu kiện hàng cứu trợ, thuốc men thiết yếu và ngoại tệ kiều hối của đồng bào ở nước ngoài gửi về tiếp sức cho đất nước trước thềm Đổi Mới.
+*   **09/09/1985:** Hãng Hàng không Quốc gia Việt Nam (tiền thân của Vietnam Airlines) thực hiện chuyến bay thương mại quốc tế lịch sử trên chặng Thành phố Hồ Chí Minh - Manila bằng tàu bay Boeing 707 (mang số hiệu VN-A304, do Trưởng đoàn Phan Tường chỉ huy), chính thức khai thông đường bay quốc tế thương mại đầu tiên giữa Việt Nam với khu vực Đông Nam Á trong thời kỳ cấm vận. Tuyến bay đóng vai trò như một "cầu hàng không" nhân đạo và kinh tế đặc biệt, mở cánh cửa kết nối Việt Nam với thế giới, tiếp nhận và vận chuyển hàng triệu kiện hàng cứu trợ, thuốc men thiết yếu và ngoại tệ kiều hối của đồng bào ở nước ngoài gửi về tiếp sức cho đất nước trước thềm Đổi Mới. [Nguồn: Nghị định số 225-HĐBT ngày 09/09/1985 của Hội đồng Bộ trưởng; Tổng công ty Hàng không Việt Nam (Vietnam Airlines), Lịch sử hình thành và phát triển]
 
 <!-- id: EVT-2807 -->
-*   **14/09/1985:** Bắt đầu cuộc tổng điều chỉnh giá - lương - tiền trên phạm vi cả nước, thực hiện đổi tiền với tỷ lệ 10 đồng tiền cũ ăn 1 đồng tiền mới.
+*   **14/09/1985:** Bắt đầu cuộc tổng điều chỉnh giá - lương - tiền trên phạm vi cả nước, thực hiện đổi tiền với tỷ lệ 10 đồng tiền cũ ăn 1 đồng tiền mới. [Nguồn: Quyết định số 235-HĐBT ngày 13/09/1985 của Hội đồng Bộ trưởng về đổi tiền; Ngân hàng Nhà nước Việt Nam, Lịch sử Ngân hàng Việt Nam (1951 - 2011), 2011; Báo Nhân Dân]
 
 <!-- id: EVT-2808 -->
-*   **18/12/1985:** Đại thi sĩ Xuân Diệu (Viện sĩ Viện Hàn lâm Nghệ thuật CHDC Đức) qua đời tại Hà Nội ở tuổi 69. Ông có đóng góp đồ sộ cho nền thi ca và nghiên cứu phê bình văn học Việt Nam hiện đại, được Nhà nước truy tặng Giải thưởng Hồ Chí Minh về Văn học - Nghệ thuật (đợt 1 năm 1996).
+*   **18/12/1985:** Đại thi sĩ Xuân Diệu (Viện sĩ Viện Hàn lâm Nghệ thuật CHDC Đức) qua đời tại Hà Nội ở tuổi 69. Ông có đóng góp đồ sộ cho nền thi ca và nghiên cứu phê bình văn học Việt Nam hiện đại, được Nhà nước truy tặng Giải thưởng Hồ Chí Minh về Văn học - Nghệ thuật (đợt 1 năm 1996). [Nguồn: Thông cáo của Hội Nhà văn Việt Nam; Báo Nhân Dân số ra ngày 20/12/1985; Viện Văn học, Nhà thơ Xuân Diệu: Cuộc đời và tác phẩm, NXB Khoa học Xã hội, 1996]
 
 <!-- id: EVT-2809 -->
 
 ### **Thời kỳ Đầu Đổi mới - Từng bước Khắc phục Khủng hoảng (1986 - 1990)**
 
-*   **03/01/1986:** Tuần tin *Thanh Niên* ra số đầu tiên, với sự thúc đẩy của đồng chí **Lê Quang Vịnh** (Bí thư Trung ương Đoàn) nhằm tạo diễn đàn đổi mới cho thế hệ trẻ.
+*   **03/01/1986:** Tuần tin *Thanh Niên* ra số đầu tiên, với sự thúc đẩy của đồng chí **Lê Quang Vịnh** (Bí thư Trung ương Đoàn) nhằm tạo diễn đàn đổi mới cho thế hệ trẻ. [Nguồn: Báo Thanh Niên số 1 ra ngày 03/01/1986; Hội Liên hiệp Thanh niên Việt Nam; Kỷ yếu 30 năm Báo Thanh Niên (1986 - 2016)]
 
 <!-- id: EVT-2810 -->
-*   **10/07/1986:** Tổng Bí thư Lê Duẩn từ trần. Ông là nhà lãnh đạo lỗi lạc, người chiến sĩ cộng sản kiên cường, người học trò xuất sắc của Chủ tịch Hồ Chí Minh, đã cống hiến trọn đời cho sự nghiệp giải phóng dân tộc và thống nhất Tổ quốc.
+*   **10/07/1986:** Tổng Bí thư Lê Duẩn từ trần. Ông là nhà lãnh đạo lỗi lạc, người chiến sĩ cộng sản kiên cường, người học trò xuất sắc của Chủ tịch Hồ Chí Minh, đã cống hiến trọn đời cho sự nghiệp giải phóng dân tộc và thống nhất Tổ quốc. [Nguồn: Thông cáo đặc biệt của Ban Chấp hành Trung ương Đảng, Quốc hội, Hội đồng Nhà nước, Hội đồng Bộ trưởng ngày 10/07/1986; Báo Nhân Dân số ra ngày 11/07/1986]
 
 <!-- id: EVT-2811 -->
-*   **14/07/1986:** Ban Chấp hành Trung ương Đảng họp Hội nghị bất thường bầu đồng chí Trường Chinh giữ chức Tổng Bí thư sau khi Tổng Bí thư Lê Duẩn từ trần. Trên cương vị Tổng Bí thư nhiệm kỳ thứ hai, đồng chí Trường Chinh đã dũng cảm khởi xướng đổi mới tư duy với phương châm "nhìn thẳng vào sự thật, đánh giá đúng sự thật, nói rõ sự thật", trực tiếp chỉ đạo viết lại Báo cáo chính trị Đại hội VI, dứt khoát xóa bỏ cơ chế tập trung quan liêu bao cấp và mở đường cho công cuộc Đổi mới toàn diện.
+*   **14/07/1986:** Ban Chấp hành Trung ương Đảng họp Hội nghị bất thường bầu đồng chí Trường Chinh giữ chức Tổng Bí thư sau khi Tổng Bí thư Lê Duẩn từ trần. Trên cương vị Tổng Bí thư nhiệm kỳ thứ hai, đồng chí Trường Chinh đã dũng cảm khởi xướng đổi mới tư duy với phương châm "nhìn thẳng vào sự thật, đánh giá đúng sự thật, nói rõ sự thật", trực tiếp chỉ đạo viết lại Báo cáo chính trị Đại hội VI, dứt khoát xóa bỏ cơ chế tập trung quan liêu bao cấp và mở đường cho công cuộc Đổi mới toàn diện. [Nguồn: Thông cáo Hội nghị bất thường Ban Chấp hành Trung ương Đảng ngày 14/07/1986; Văn kiện Đảng Toàn tập, tập 47 (1986), NXB Chính trị quốc gia, Hà Nội, 2006]
 
 <!-- id: EVT-2812 -->
-*   **15 - 18/12/1986:** Đại hội đại biểu toàn quốc lần thứ VI của Đảng Cộng sản Việt Nam diễn ra, bầu đồng chí Nguyễn Văn Linh làm Tổng Bí thư, chính thức khởi xướng công cuộc **Đổi Mới** toàn diện đất nước với quan điểm "nhìn thẳng vào sự thật, đánh giá đúng sự thật", lấy đổi mới kinh tế làm trọng tâm.
+*   **15 - 18/12/1986:** Đại hội đại biểu toàn quốc lần thứ VI của Đảng Cộng sản Việt Nam diễn ra, bầu đồng chí Nguyễn Văn Linh làm Tổng Bí thư, chính thức khởi xướng công cuộc **Đổi Mới** toàn diện đất nước với quan điểm "nhìn thẳng vào sự thật, đánh giá đúng sự thật", lấy đổi mới kinh tế làm trọng tâm. [Nguồn: Báo cáo chính trị của Ban Chấp hành Trung ương Đảng tại Đại hội đại biểu toàn quốc lần thứ VI; Văn kiện Đảng Toàn tập, tập 47 (1986), NXB Chính trị quốc gia, Hà Nội, 2006]
 
 ![Hình ảnh tư liệu](images/event_20260923_124055.webp)
 
 *Nguồn: Tổng Bí thư Nguyễn Văn Linh tại Đại hội VI của Đảng năm 1986 khởi xướng công cuộc Đổi Mới (Ảnh: AP / Public domain)*
 
 <!-- id: EVT-2813 -->
-*   **1987:** Quốc hội ban hành Luật Đầu tư nước ngoài tại Việt Nam, mở ra hành lang pháp lý đầu tiên để thu hút vốn đầu tư trực tiếp từ nước ngoài (FDI).
+*   **1987:** Quốc hội ban hành Luật Đầu tư nước ngoài tại Việt Nam, mở ra hành lang pháp lý đầu tiên để thu hút vốn đầu tư trực tiếp từ nước ngoài (FDI). [Nguồn: Luật Đầu tư nước ngoài tại Việt Nam, thông qua ngày 29/12/1987; Văn kiện Quốc hội Toàn tập, tập 7 (1987 - 1992), NXB Chính trị quốc gia, Hà Nội, 2008]
 
 <!-- id: EVT-2814 -->
-*   **1987 - 1992:** Nữ tướng Nguyễn Thị Định đảm nhiệm chức vụ Phó Chủ tịch Hội đồng Nhà nước Nước CHXHCN Việt Nam.
+*   **1987 - 1992:** Nữ tướng Nguyễn Thị Định đảm nhiệm chức vụ Phó Chủ tịch Hội đồng Nhà nước Nước CHXHCN Việt Nam. [Nguồn: Nghị quyết của Quốc hội khóa VIII tại Kỳ họp thứ nhất, ngày 18/06/1987; Văn kiện Quốc hội Toàn tập, tập 7 (1987 - 1992), NXB Chính trị quốc gia, Hà Nội, 2008]
 
 <!-- id: EVT-2815 -->
-* **1987:** Anh hùng Lực lượng vũ trang nhân dân Pinăng Tắc (Chính trị viên phó huyện đội, cùng bà con làm liên lạc, tiếp tế cho cán bộ vùng Bác Ái; làm bẫy đá, vót chông, gài mìn, đào hầm hào phòng tránh và thành lập lực lượng du kích đánh địch. Chỉ huy trận phục kích bằng bẫy đá tại đèo Gia Túc tiêu diệt hơn 100 tên địch ngày 10 tháng 8 năm 1961) từ trần.
+* **1987:** Anh hùng Lực lượng vũ trang nhân dân Pinăng Tắc (Chính trị viên phó huyện đội, cùng bà con làm liên lạc, tiếp tế cho cán bộ vùng Bác Ái; làm bẫy đá, vót chông, gài mìn, đào hầm hào phòng tránh và thành lập lực lượng du kích đánh địch. Chỉ huy trận phục kích bằng bẫy đá tại đèo Gia Túc tiêu diệt hơn 100 tên địch ngày 10 tháng 8 năm 1961) từ trần. [Nguồn: Bộ Chỉ huy Quân sự tỉnh Ninh Thuận, Lịch sử Lực lượng vũ trang nhân dân tỉnh Ninh Thuận (1945 - 2005), NXB Quân đội nhân dân, 2005; Bảo tàng Tỉnh Ninh Thuận]
 
 <!-- id: EVT-2816 -->
-*   **04/1987:** Hội nghị lần thứ 2 Ban Chấp hành Trung ương Đảng (khóa VI) quyết định phương hướng giải quyết vấn đề lưu thông phân phối, xóa bỏ chế độ tập trung quan liêu, bao cấp và chính sách "ngăn sông cấm chợ".
+*   **04/1987:** Hội nghị lần thứ 2 Ban Chấp hành Trung ương Đảng (khóa VI) quyết định phương hướng giải quyết vấn đề lưu thông phân phối, xóa bỏ chế độ tập trung quan liêu, bao cấp và chính sách "ngăn sông cấm chợ". [Nguồn: Nghị quyết Hội nghị lần thứ 2 Ban Chấp hành Trung ương Đảng (khóa VI) ngày 09/04/1987; Văn kiện Đảng Toàn tập, tập 48 (1987), NXB Chính trị quốc gia, Hà Nội, 2006]
 
 <!-- id: EVT-2817 -->
-*   **25/05/1987:** Tổng Bí thư Nguyễn Văn Linh bắt đầu mở mục "Những việc cần làm ngay" trên Báo *Nhân Dân* với bút danh N.V.L., tạo luồng sinh khí mới chống tiêu cực và công khai hóa đời sống xã hội.
+*   **25/05/1987:** Tổng Bí thư Nguyễn Văn Linh bắt đầu mở mục "Những việc cần làm ngay" trên Báo *Nhân Dân* với bút danh N.V.L., tạo luồng sinh khí mới chống tiêu cực và công khai hóa đời sống xã hội. [Nguồn: Báo Nhân Dân số ra ngày 25/05/1987; Nguyễn Văn Linh, Những việc cần làm ngay, NXB Sự thật, Hà Nội, 1987]
 
 <!-- id: EVT-2818 -->
-*   **18/06/1987:** Tại kỳ họp thứ nhất Quốc hội khóa VIII, Quốc hội đã bầu đồng chí Võ Chí Công làm Chủ tịch Hội đồng Nhà nước và bầu đồng chí Phạm Hùng làm Chủ tịch Hội đồng Bộ trưởng nước CHXHCN Việt Nam. Đây là giai đoạn chuyển giao bộ máy Nhà nước bước vào thực hiện đường lối Đổi mới do Đại hội VI đề ra.
+*   **18/06/1987:** Tại kỳ họp thứ nhất Quốc hội khóa VIII, Quốc hội đã bầu đồng chí Võ Chí Công làm Chủ tịch Hội đồng Nhà nước và bầu đồng chí Phạm Hùng làm Chủ tịch Hội đồng Bộ trưởng nước CHXHCN Việt Nam. Đây là giai đoạn chuyển giao bộ máy Nhà nước bước vào thực hiện đường lối Đổi mới do Đại hội VI đề ra. [Nguồn: Nghị quyết của Quốc hội khóa VIII tại Kỳ họp thứ nhất, ngày 18/06/1987; Văn kiện Quốc hội Toàn tập, tập 7 (1987 - 1992), NXB Chính trị quốc gia, Hà Nội, 2008]
 
 <!-- id: EVT-2819 -->
-*   **07/1987:** Hội nghị lần thứ 3 Ban Chấp hành Trung ương Đảng (khóa VI) ra nghị quyết chuyển hoạt động của các đơn vị kinh tế quốc doanh sang kinh doanh xã hội chủ nghĩa và đổi mới quản lý nhà nước về kinh tế.
+*   **07/1987:** Hội nghị lần thứ 3 Ban Chấp hành Trung ương Đảng (khóa VI) ra nghị quyết chuyển hoạt động của các đơn vị kinh tế quốc doanh sang kinh doanh xã hội chủ nghĩa và đổi mới quản lý nhà nước về kinh tế. [Nguồn: Nghị quyết Hội nghị lần thứ 3 Ban Chấp hành Trung ương Đảng (khóa VI), tháng 07/1987; Văn kiện Đảng Toàn tập, tập 48 (1987), NXB Chính trị quốc gia, Hà Nội, 2006]
 
 <!-- id: EVT-2820 -->
-*   **20/10 - 20/11/1987:** Khóa họp lần thứ 24 của Đại hội đồng Tổ chức Giáo dục, Khoa học và Văn hóa của Liên Hợp Quốc (UNESCO) tại Paris đã thông qua Nghị quyết số 24C/18.65 nhân dịp kỷ niệm 100 năm ngày sinh của Người (1890 - 1990), chính thức tôn vinh Chủ tịch Hồ Chí Minh là: "Anh hùng giải phóng dân tộc và Nhà văn hóa kiệt xuất của Việt Nam" (*Vietnamese Hero of National Liberation and Great Man of Culture*).
+*   **20/10 - 20/11/1987:** Khóa họp lần thứ 24 của Đại hội đồng Tổ chức Giáo dục, Khoa học và Văn hóa của Liên Hợp Quốc (UNESCO) tại Paris đã thông qua Nghị quyết số 24C/18.65 nhân dịp kỷ niệm 100 năm ngày sinh của Người (1890 - 1990), chính thức tôn vinh Chủ tịch Hồ Chí Minh là: "Anh hùng giải phóng dân tộc và Nhà văn hóa kiệt xuất của Việt Nam" (*Vietnamese Hero of National Liberation and Great Man of Culture*). [Nguồn: Đại hội đồng UNESCO khóa 24, Nghị quyết số 24C/18.65 về Kỷ niệm 100 năm ngày sinh của Chủ tịch Hồ Chí Minh (Paris, 1987); Bộ Ngoại giao, Việt Nam và UNESCO, 2007]
 
 <!-- id: EVT-2821 -->
-*   **11/1987:** Trong chuyến thăm Liên Xô, Tổng Bí thư Nguyễn Văn Linh đã thẳng thắn cảnh báo lãnh đạo Liên Xô về sai lầm mang tính nguyên tắc khi xóa bỏ Điều 6 Hiến pháp.
+*   **11/1987:** Trong chuyến thăm Liên Xô, Tổng Bí thư Nguyễn Văn Linh đã thẳng thắn cảnh báo lãnh đạo Liên Xô về sai lầm mang tính nguyên tắc khi xóa bỏ Điều 6 Hiến pháp. [Nguồn: Thông cáo chung chuyến thăm chính thức Liên Xô của Tổng Bí thư Nguyễn Văn Linh, tháng 11/1987; Báo Nhân Dân số ra ngày 22/11/1987]
 
 <!-- id: EVT-2822 -->
-*   **14/11/1987:** Chủ tịch Hội đồng Bộ trưởng Phạm Hùng ký ban hành Quyết định số 217-HĐBT về các chính sách đổi mới kế hoạch hóa và hạch toán kinh doanh xã hội chủ nghĩa đối với xí nghiệp quốc doanh. Quyết định này là đột phá thể chế đầu tiên trao quyền tự chủ trong sản xuất, kinh doanh cho các doanh nghiệp nhà nước, từng bước xóa bỏ tình trạng bao cấp và bao tiêu, tạo động lực căn bản chuyển sang cơ chế hạch toán thị trường.
+*   **14/11/1987:** Chủ tịch Hội đồng Bộ trưởng Phạm Hùng ký ban hành Quyết định số 217-HĐBT về các chính sách đổi mới kế hoạch hóa và hạch toán kinh doanh xã hội chủ nghĩa đối với xí nghiệp quốc doanh. Quyết định này là đột phá thể chế đầu tiên trao quyền tự chủ trong sản xuất, kinh doanh cho các doanh nghiệp nhà nước, từng bước xóa bỏ tình trạng bao cấp và bao tiêu, tạo động lực căn bản chuyển sang cơ chế hạch toán thị trường. [Nguồn: Quyết định số 217-HĐBT ngày 14/11/1987 của Hội đồng Bộ trưởng; Công báo nước CHXHCN Việt Nam; Báo Nhân Dân]
 
 <!-- id: EVT-2823 -->
-* **1988:** Anh hùng Lực lượng vũ trang nhân dân Bùi Đình Cư (Trung đội trưởng pháo binh thuộc Trung đoàn 675, Đại đoàn 351) từ trần.
+* **1988:** Anh hùng Lực lượng vũ trang nhân dân Bùi Đình Cư (Trung đội trưởng pháo binh thuộc Trung đoàn 675, Đại đoàn 351) từ trần. [Nguồn: Binh chủng Pháo binh, Lịch sử Binh chủng Pháo binh (1946 - 2006), NXB Quân đội nhân dân, Hà Nội, 2006; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2824 -->
-* **1988:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Mạnh Quân (Thương binh hạng A (1/4),Phó tư lệnh Mặt trận tây nguyên, Cục trưởng cục Quân huấn BTTM, Hiệu trưởng trường SQLQ 2) từ trần.
+* **1988:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Mạnh Quân (Thương binh hạng A (1/4),Phó tư lệnh Mặt trận tây nguyên, Cục trưởng cục Quân huấn BTTM, Hiệu trưởng trường SQLQ 2) từ trần. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, tập I, NXB Quân đội nhân dân, Hà Nội, 1996; Bảo tàng Lịch sử Quân sự Việt Nam]
 
 <!-- id: EVT-2825 -->
-* **1988:** Anh hùng Lực lượng vũ trang nhân dân Vũ Lăng (Thượng tướng, nguyên Tư lệnh Mặt trận Tây Nguyên, nguyên Tư lệnh Quân đoàn 3, nguyên Giám đốc Học viện Lục quân Đà Lạt) từ trần.
+* **1988:** Anh hùng Lực lượng vũ trang nhân dân Vũ Lăng (Thượng tướng, nguyên Tư lệnh Mặt trận Tây Nguyên, nguyên Tư lệnh Quân đoàn 3, nguyên Giám đốc Học viện Lục quân Đà Lạt) từ trần. [Nguồn: Bộ Tổng Tham mưu Quân đội nhân dân Việt Nam, Thượng tướng Vũ Lăng - Vị tướng chiến dịch xuất sắc, NXB Quân đội nhân dân, Hà Nội, 2003; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2826 -->
-*   **02/1988:** Lần đầu tiên Cộng hòa Nhân dân Trung Hoa phái quân đội đến đồn trú tại một số bãi đá ở quần đảo Trường Sa, thiết lập sự hiện diện quân sự.
+*   **02/1988:** Lần đầu tiên Cộng hòa Nhân dân Trung Hoa phái quân đội đến đồn trú tại một số bãi đá ở quần đảo Trường Sa, thiết lập sự hiện diện quân sự. [Nguồn: Tuyên bố phản đối của Bộ Ngoại giao nước CHXHCN Việt Nam ngày 20/02/1988; Bộ Ngoại giao, Sách trắng về Hoàng Sa và Trường Sa, 1988; TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, 2013]
 
 <!-- id: EVT-2827 -->
-*   **10/03/1988:** Chủ tịch Hội đồng Bộ trưởng Phạm Hùng từ trần trong khi đang thực hiện chuyến công tác chỉ đạo tháo gỡ khó khăn kinh tế và lương thực tại các tỉnh phía Nam. Hội đồng Nhà nước đã phân công đồng chí Võ Văn Kiệt (Phó Chủ tịch thứ nhất Hội đồng Bộ trưởng) giữ chức Quyền Chủ tịch Hội đồng Bộ trưởng (đến ngày 22/06/1988).
+*   **10/03/1988:** Chủ tịch Hội đồng Bộ trưởng Phạm Hùng từ trần trong khi đang thực hiện chuyến công tác chỉ đạo tháo gỡ khó khăn kinh tế và lương thực tại các tỉnh phía Nam. Hội đồng Nhà nước đã phân công đồng chí Võ Văn Kiệt (Phó Chủ tịch thứ nhất Hội đồng Bộ trưởng) giữ chức Quyền Chủ tịch Hội đồng Bộ trưởng (đến ngày 22/06/1988). [Nguồn: Thông cáo đặc biệt của Ban Chấp hành Trung ương Đảng, Quốc hội, Hội đồng Nhà nước, Hội đồng Bộ trưởng ngày 10/03/1988; Báo Nhân Dân số ra ngày 11/03/1988]
 
 <!-- id: EVT-2828 -->
-*   **14/03/1988:** Hải chiến Trường Sa (Sự kiện Gạc Ma) nổ ra trong Chiến dịch CQ-88. Tàu vận tải HQ-604 (Lữ đoàn 125) do Đại úy Vũ Phi Trừ làm Thuyền trưởng chở lực lượng công binh Trung đoàn 83 và phân đội bảo vệ đảo thuộc Lữ đoàn 146 dưới sự chỉ huy trực tiếp của Trung tá Trần Đức Thông (Phó Lữ đoàn trưởng) đến đóng giữ bãi đá Gạc Ma. Rạng sáng, tổ bảo vệ cờ gồm 5 người (Thượng úy Nguyễn Mậu Phong, Thiếu úy Trần Văn Phương, Trung sĩ Đậu Xuân Tư, Trung sĩ Lê Hữu Thảo và Hoàng Văn Chúc) tiến lên bãi đá cắm cờ Tổ quốc. Hải quân Trung Quốc điều nhiều tàu chiến có pháo hạng nặng tấn công, nổ súng sát hại Thiếu úy Trần Văn Phương (khi anh quyết tử giữ cờ với lời thề bất hủ: "Thà hy sinh chứ không chịu mất đảo...") và Trung sĩ Đậu Xuân Tư cùng đồng đội, hình thành biểu tượng "Vòng tròn bất tử". Pháo hạm Trung Quốc bắn chìm tàu HQ-604 (Thuyền trưởng Vũ Phi Trừ và Lữ đoàn phó Trần Đức Thông cùng cán bộ, chiến sĩ chiến đấu kiên cường đến cùng và hy sinh theo tàu) và tàu HQ-605 ở Len Đao; tại Cô Lin, Thuyền trưởng Vũ Huy Lễ chỉ huy lao tàu HQ-505 lên bãi cạn để giữ đảo. Trận chiến khiến 64 chiến sĩ Hải quân Việt Nam anh dũng hy sinh; Trung Quốc chiếm đóng trái phép đảo Gạc Ma, trong khi Việt Nam giữ vững chủ quyền đá Cô Lin và Len Đao.
+*   **14/03/1988:** Hải chiến Trường Sa (Sự kiện Gạc Ma) nổ ra trong Chiến dịch CQ-88. Tàu vận tải HQ-604 (Lữ đoàn 125) do Đại úy Vũ Phi Trừ làm Thuyền trưởng chở lực lượng công binh Trung đoàn 83 và phân đội bảo vệ đảo thuộc Lữ đoàn 146 dưới sự chỉ huy trực tiếp của Trung tá Trần Đức Thông (Phó Lữ đoàn trưởng) đến đóng giữ bãi đá Gạc Ma. Rạng sáng, tổ bảo vệ cờ gồm 5 người (Thượng úy Nguyễn Mậu Phong, Thiếu úy Trần Văn Phương, Trung sĩ Đậu Xuân Tư, Trung sĩ Lê Hữu Thảo và Hoàng Văn Chúc) tiến lên bãi đá cắm cờ Tổ quốc. Hải quân Trung Quốc điều nhiều tàu chiến có pháo hạng nặng tấn công, nổ súng sát hại Thiếu úy Trần Văn Phương (khi anh quyết tử giữ cờ với lời thề bất hủ: "Thà hy sinh chứ không chịu mất đảo...") và Trung sĩ Đậu Xuân Tư cùng đồng đội, hình thành biểu tượng "Vòng tròn bất tử". Pháo hạm Trung Quốc bắn chìm tàu HQ-604 (Thuyền trưởng Vũ Phi Trừ và Lữ đoàn phó Trần Đức Thông cùng cán bộ, chiến sĩ chiến đấu kiên cường đến cùng và hy sinh theo tàu) và tàu HQ-605 ở Len Đao; tại Cô Lin, Thuyền trưởng Vũ Huy Lễ chỉ huy lao tàu HQ-505 lên bãi cạn để giữ đảo. Trận chiến khiến 64 chiến sĩ Hải quân Việt Nam anh dũng hy sinh; Trung Quốc chiếm đóng trái phép đảo Gạc Ma, trong khi Việt Nam giữ vững chủ quyền đá Cô Lin và Len Đao. [Nguồn: Bộ Tư lệnh Quân chủng Hải quân, Lịch sử Hải quân nhân dân Việt Nam (1955 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005, tr. 385-405; Tuyên bố của Bộ Ngoại giao nước CHXHCN Việt Nam ngày 14/03/1988; Báo Nhân Dân]
 
 <!-- id: EVT-2829 -->
-*   **04/1988:** Chính phủ Philippin tổ chức bầu thị trưởng cho thị trấn được thiết lập trên các đảo nhỏ ở Trường Sa do họ kiểm soát (Thị Tứ), nhằm tạo cơ sở hành chính có tổ chức hơn cho các yêu sách của mình.
+*   **04/1988:** Chính phủ Philippin tổ chức bầu thị trưởng cho thị trấn được thiết lập trên các đảo nhỏ ở Trường Sa do họ kiểm soát (Thị Tứ), nhằm tạo cơ sở hành chính có tổ chức hơn cho các yêu sách của mình. [Nguồn: Tuyên bố phản đối của Người Phát ngôn Bộ Ngoại giao nước CHXHCN Việt Nam tháng 04/1988; TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, 2013]
 
 <!-- id: EVT-2830 -->
-*   **05/04/1988:** Bộ Chính trị dưới sự chủ trì của Tổng Bí thư Nguyễn Văn Linh ban hành **Nghị quyết số 10-NQ/TW** ("Khoán 10") về đổi mới quản lý kinh tế nông nghiệp, tạo bước đột phá lịch sử cởi trói sản xuất bằng cách xác định hộ gia đình là đơn vị kinh tế tự chủ, giao quyền sử dụng ruộng đất ổn định lâu dài cho nông dân.
+*   **05/04/1988:** Bộ Chính trị dưới sự chủ trì của Tổng Bí thư Nguyễn Văn Linh ban hành **Nghị quyết số 10-NQ/TW** ("Khoán 10") về đổi mới quản lý kinh tế nông nghiệp, tạo bước đột phá lịch sử cởi trói sản xuất bằng cách xác định hộ gia đình là đơn vị kinh tế tự chủ, giao quyền sử dụng ruộng đất ổn định lâu dài cho nông dân. [Nguồn: Nghị quyết số 10-NQ/TW ngày 05/04/1988 của Bộ Chính trị về đổi mới quản lý kinh tế nông nghiệp; Văn kiện Đảng Toàn tập, tập 49 (1988), NXB Chính trị quốc gia, Hà Nội, 2006]
 
 <!-- id: EVT-2831 -->
-*   **07/05/1988:** Đại tướng Lê Đức Anh ra thăm quần đảo Trường Sa và đọc lời thề khẳng định quyết tâm bảo vệ bằng được quần đảo Trường Sa và lãnh hải thiêng liêng của Tổ quốc.
+*   **07/05/1988:** Đại tướng Lê Đức Anh ra thăm quần đảo Trường Sa và đọc lời thề khẳng định quyết tâm bảo vệ bằng được quần đảo Trường Sa và lãnh hải thiêng liêng của Tổ quốc. [Nguồn: Bài phát biểu của Đại tướng Lê Đức Anh tại Lễ kỷ niệm 33 năm ngày thành lập Quân chủng Hải quân trên đảo Trường Sa Lớn ngày 07/05/1988; Báo Quân đội nhân dân số ra ngày 09/05/1988]
 
 <!-- id: EVT-2832 -->
-*   **20/05/1988:** Bộ Chính trị ban hành Nghị quyết 13 về nhiệm vụ và chính sách đối ngoại, chủ trương chuyển mạnh hoạt động đối ngoại sang phục vụ kinh tế, "thêm bạn bớt thù", đa dạng hóa quan hệ quốc tế.
+*   **20/05/1988:** Bộ Chính trị ban hành Nghị quyết 13 về nhiệm vụ và chính sách đối ngoại, chủ trương chuyển mạnh hoạt động đối ngoại sang phục vụ kinh tế, "thêm bạn bớt thù", đa dạng hóa quan hệ quốc tế. [Nguồn: Nghị quyết số 13-NQ/TW ngày 20/05/1988 của Bộ Chính trị về nhiệm vụ và chính sách đối ngoại; Văn kiện Đảng Toàn tập, tập 49 (1988), NXB Chính trị quốc gia, Hà Nội, 2006]
 
 <!-- id: EVT-2833 -->
-*   **22/06/1988:** Tại Kỳ họp thứ 3 Quốc hội khóa VIII, đồng chí Đỗ Mười được bầu làm Chủ tịch Hội đồng Bộ trưởng nước CHXHCN Việt Nam; trên cương vị người đứng đầu Chính phủ, ông quyết liệt chỉ đạo các biện pháp kiềm chế siêu lạm phát (từ ba con số xuống hai con số), tháo gỡ khó khăn kinh tế và chỉ đạo thực hiện thắng lợi Nghị quyết Khoán 10 trong nông nghiệp.
+*   **22/06/1988:** Tại Kỳ họp thứ 3 Quốc hội khóa VIII, đồng chí Đỗ Mười được bầu làm Chủ tịch Hội đồng Bộ trưởng nước CHXHCN Việt Nam; trên cương vị người đứng đầu Chính phủ, ông quyết liệt chỉ đạo các biện pháp kiềm chế siêu lạm phát (từ ba con số xuống hai con số), tháo gỡ khó khăn kinh tế và chỉ đạo thực hiện thắng lợi Nghị quyết Khoán 10 trong nông nghiệp. [Nguồn: Nghị quyết của Quốc hội khóa VIII tại Kỳ họp thứ 3, ngày 22/06/1988; Văn kiện Quốc hội Toàn tập, tập 7 (1987 - 1992), NXB Chính trị quốc gia, Hà Nội, 2008]
 
 <!-- id: EVT-2834 -->
-*   **22/07/1988:** Đảng Xã hội Việt Nam tuyên bố giải thể.
+*   **22/07/1988:** Đảng Xã hội Việt Nam tuyên bố giải thể. [Nguồn: Tuyên bố giải thể của Đảng Xã hội Việt Nam ngày 22/07/1988; Báo Nhân Dân số ra ngày 23/07/1988; Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam]
 
 <!-- id: EVT-2835 -->
-*   **29/08/1988:** Nữ sĩ tài hoa Xuân Quỳnh cùng chồng là nhà viết kịch xuất sắc Lưu Quang Vũ và con trai nhỏ Lưu Quỳnh Thơ qua đời trong một vụ tai nạn giao thông thảm khốc tại Hải Dương. Năm 2017, bà được Nhà nước truy tặng Giải thưởng Hồ Chí Minh về Văn học - Nghệ thuật với các tập thơ *Lời ru trên mặt đất* và *Bầu trời trong quả trứng*.
+*   **29/08/1988:** Nữ sĩ tài hoa Xuân Quỳnh cùng chồng là nhà viết kịch xuất sắc Lưu Quang Vũ và con trai nhỏ Lưu Quỳnh Thơ qua đời trong một vụ tai nạn giao thông thảm khốc tại Hải Dương. Năm 2017, bà được Nhà nước truy tặng Giải thưởng Hồ Chí Minh về Văn học - Nghệ thuật với các tập thơ *Lời ru trên mặt đất* và *Bầu trời trong quả trứng*. [Nguồn: Thông cáo của Hội Nhà văn Việt Nam và Hội Nghệ sĩ Sân khấu Việt Nam; Báo Văn Nghệ số ra ngày 03/09/1988; Báo Nhân Dân]
 
 <!-- id: EVT-2836 -->
-*   **20/10/1988:** Đảng Dân chủ Việt Nam tuyên bố giải thể sau khi hoàn thành sứ mệnh lịch sử.
+*   **20/10/1988:** Đảng Dân chủ Việt Nam tuyên bố giải thể sau khi hoàn thành sứ mệnh lịch sử. [Nguồn: Tuyên bố giải thể của Đảng Dân chủ Việt Nam ngày 20/10/1988; Báo Nhân Dân số ra ngày 21/10/1988; Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam]
 
 <!-- id: EVT-2837 -->
-*   **1989:** Huyện Trường Sa được đặt dưới sự quản lý hành chính của tỉnh Khánh Hòa mới được tái lập (trước đó thuộc tỉnh Phú Khánh).
+*   **1989:** Huyện Trường Sa được đặt dưới sự quản lý hành chính của tỉnh Khánh Hòa mới được tái lập (trước đó thuộc tỉnh Phú Khánh). [Nguồn: Nghị quyết của Quốc hội khóa VIII ngày 30/06/1989 về việc phân chia địa giới hành chính một số tỉnh; Văn kiện Quốc hội Toàn tập, tập 7 (1987 - 1992), NXB Chính trị quốc gia, 2008]
 
 <!-- id: EVT-2838 -->
-* **1989:** Anh hùng Lực lượng vũ trang nhân dân Lê Văn Đạm (Chính trị viên Xã đội An Nhơn Tây huyện Củ Chi, ngọn cờ đầu phong trào "Đào hầm địa đạo Củ Chi") từ trần.
+* **1989:** Anh hùng Lực lượng vũ trang nhân dân Lê Văn Đạm (Chính trị viên Xã đội An Nhơn Tây huyện Củ Chi, ngọn cờ đầu phong trào "Đào hầm địa đạo Củ Chi") từ trần. [Nguồn: Ban Tuyên giáo Huyện ủy Củ Chi, Lịch sử Đất thép thành đồng Củ Chi (1930 - 2000), NXB Trẻ, 2002; Bảo tàng Địa đạo Củ Chi]
 
 <!-- id: EVT-2839 -->
-*   **1989:** Hội Khoa học Lịch sử Việt Nam và Viện Khoa học Xã hội tại TP. Hồ Chí Minh tổ chức hội thảo khoa học nhân 150 năm ngày sinh Trương Vĩnh Ký, mở đầu cho bước chuyển hướng quan trọng trong giới sử học Việt Nam về việc đánh giá lại nhân vật lịch sử: thống nhất phân định rạch ròi giữa lập trường chính trị với những đóng góp to lớn, tiên phong của ông đối với văn hóa dân tộc, chữ Quốc ngữ và nền báo chí Việt Nam.
+*   **1989:** Hội Khoa học Lịch sử Việt Nam và Viện Khoa học Xã hội tại TP. Hồ Chí Minh tổ chức hội thảo khoa học nhân 150 năm ngày sinh Trương Vĩnh Ký, mở đầu cho bước chuyển hướng quan trọng trong giới sử học Việt Nam về việc đánh giá lại nhân vật lịch sử: thống nhất phân định rạch ròi giữa lập trường chính trị với những đóng góp to lớn, tiên phong của ông đối với văn hóa dân tộc, chữ Quốc ngữ và nền báo chí Việt Nam. [Nguồn: Kỷ yếu Hội thảo khoa học Danh nhân Nguyễn Tri Phương; Hội Khoa học Lịch sử Việt Nam; Báo Sài Gòn Giải Phóng]
 
 <!-- id: EVT-2840 -->
-* **06/01/1989:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho tập thể Tàu HQ-505 (Lữ đoàn 125 Hải quân), Thiếu tá Vũ Huy Lễ (Thuyền trưởng Tàu HQ-505) và truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Thiếu úy Trần Văn Phương (Phó Chỉ huy trưởng đảo Gạc Ma, Lữ đoàn 146 Hải quân) vì tinh thần chiến đấu quả cảm, quyết tử bảo vệ chủ quyền biển đảo Tổ quốc tại Trường Sa tháng 3/1988.
+* **06/01/1989:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho tập thể Tàu HQ-505 (Lữ đoàn 125 Hải quân), Thiếu tá Vũ Huy Lễ (Thuyền trưởng Tàu HQ-505) và truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Thiếu úy Trần Văn Phương (Phó Chỉ huy trưởng đảo Gạc Ma, Lữ đoàn 146 Hải quân) vì tinh thần chiến đấu quả cảm, quyết tử bảo vệ chủ quyền biển đảo Tổ quốc tại Trường Sa tháng 3/1988. [Nguồn: Lệnh số 15-LCT/HĐNN8 ngày 06/01/1989 của Chủ tịch Hội đồng Nhà nước phong tặng và truy tặng danh hiệu Anh hùng LLVTND; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2841 -->
-*   **03/1989:** Hội nghị lần thứ 6 Ban Chấp hành Trung ương Đảng (khóa VI) cụ thể hóa và phát triển chính sách kinh tế nhiều thành phần, thừa nhận sự tồn tại lâu dài của các thành phần kinh tế tư nhân.
+*   **03/1989:** Hội nghị lần thứ 6 Ban Chấp hành Trung ương Đảng (khóa VI) cụ thể hóa và phát triển chính sách kinh tế nhiều thành phần, thừa nhận sự tồn tại lâu dài của các thành phần kinh tế tư nhân. [Nguồn: Nghị quyết Hội nghị lần thứ 6 Ban Chấp hành Trung ương Đảng (khóa VI) ngày 29/03/1989; Văn kiện Đảng Toàn tập, tập 49 (1988 - 1989), NXB Chính trị quốc gia, Hà Nội, 2006]
 
 <!-- id: EVT-2842 -->
-*   **03/1989:** Dưới sự chỉ đạo trực tiếp của Chủ tịch Hội đồng Bộ trưởng Đỗ Mười, Chính phủ triển khai gói giải pháp kinh tế mang tính bước ngoặt: áp dụng chính sách lãi suất ngân hàng thực dương (lãi suất tiền gửi vượt lạm phát) và xóa bỏ chế độ hai giá để chuyển hẳn sang cơ chế một giá theo thị trường. Biện pháp này đã hút lượng tiền mặt khổng lồ về hệ thống ngân hàng, dập tắt cơn siêu lạm phát từ mức 393% (1987) xuống hai con số và đưa Việt Nam lần đầu xuất khẩu 1,4 triệu tấn gạo.
+*   **03/1989:** Dưới sự chỉ đạo trực tiếp của Chủ tịch Hội đồng Bộ trưởng Đỗ Mười, Chính phủ triển khai gói giải pháp kinh tế mang tính bước ngoặt: áp dụng chính sách lãi suất ngân hàng thực dương (lãi suất tiền gửi vượt lạm phát) và xóa bỏ chế độ hai giá để chuyển hẳn sang cơ chế một giá theo thị trường. Biện pháp này đã hút lượng tiền mặt khổng lồ về hệ thống ngân hàng, dập tắt cơn siêu lạm phát từ mức 393% (1987) xuống hai con số và đưa Việt Nam lần đầu xuất khẩu 1,4 triệu tấn gạo. [Nguồn: Văn phòng Chính phủ, Lịch sử Chính phủ Việt Nam, tập 3 (1976 - 2005), NXB Chính trị quốc gia, Hà Nội, 2005; Báo Nhân Dân]
 
 <!-- id: EVT-2843 -->
-*   **05/04/1989:** Chính phủ Việt Nam tuyên bố sẽ rút hết quân tình nguyện khỏi Campuchia vào cuối tháng 9/1989 dù có hay không có giải pháp chính trị.
+*   **05/04/1989:** Chính phủ Việt Nam tuyên bố sẽ rút hết quân tình nguyện khỏi Campuchia vào cuối tháng 9/1989 dù có hay không có giải pháp chính trị. [Nguồn: Tuyên bố chung của Chính phủ CHXHCN Việt Nam, CHND Campuchia và CHDCND Lào ngày 05/04/1989; Báo Nhân Dân; Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, 2002]
 
 <!-- id: EVT-2844 -->
-*   **05/1989:** Trung Quốc chiếm thêm một đảo nhỏ ở quần đảo Trường Sa, tiếp tục sự bành trướng kiểm soát sau cuộc đụng độ hải quân năm 1988.
+*   **05/1989:** Trung Quốc chiếm thêm một đảo nhỏ ở quần đảo Trường Sa, tiếp tục sự bành trướng kiểm soát sau cuộc đụng độ hải quân năm 1988. [Nguồn: Tuyên bố phản đối của Người Phát ngôn Bộ Ngoại giao nước CHXHCN Việt Nam tháng 05/1989; TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, 2013]
 
 <!-- id: EVT-2845 -->
-*   **19/06/1989:** Nhà thơ, nhà lý luận phê bình Chế Lan Viên qua đời tại Thành phố Hồ Chí Minh ở tuổi 69. Ông là một trong những trụ cột lớn của thi ca hiện đại và cách mạng Việt Nam (*Ánh sáng và phù sa*, *Người đi tìm hình của Nước*), được Nhà nước truy tặng Giải thưởng Hồ Chí Minh về Văn học - Nghệ thuật (đợt 1 năm 1996).
+*   **19/06/1989:** Nhà thơ, nhà lý luận phê bình Chế Lan Viên qua đời tại Thành phố Hồ Chí Minh ở tuổi 69. Ông là một trong những trụ cột lớn của thi ca hiện đại và cách mạng Việt Nam (*Ánh sáng và phù sa*, *Người đi tìm hình của Nước*), được Nhà nước truy tặng Giải thưởng Hồ Chí Minh về Văn học - Nghệ thuật (đợt 1 năm 1996). [Nguồn: Thông cáo của Hội Nhà văn Việt Nam; Báo Văn Nghệ số ra ngày 24/06/1989; Báo Nhân Dân; Viện Văn học]
 
 <!-- id: EVT-2846 -->
-*   **08/1989:** Việt Nam hoàn thành việc xây dựng một cụm dịch vụ - kinh tế - khoa học kỹ thuật tại Trường Sa, nằm trên thềm lục địa của Việt Nam.
+*   **08/1989:** Việt Nam hoàn thành việc xây dựng một cụm dịch vụ - kinh tế - khoa học kỹ thuật tại Trường Sa, nằm trên thềm lục địa của Việt Nam. [Nguồn: Bộ Tư lệnh Vùng 2 Hải quân, Ba mươi năm Nhà giàn DK1 - Cột mốc chủ quyền trên thềm lục địa phía Nam (1989 - 2019), NXB Quân đội nhân dân, 2019; Báo Hải quân Việt Nam]
 
 <!-- id: EVT-2847 -->
-*   **26/09/1989:** Những đơn vị Quân tình nguyện và chuyên gia quân sự Việt Nam cuối cùng chính thức hoàn thành việc rút toàn bộ quân khỏi Campuchia, kết thúc 10 năm thực hiện nghĩa vụ quốc tế giúp nước bạn hồi sinh sau thảm họa diệt chủng Khmer Đỏ.
+*   **26/09/1989:** Những đơn vị Quân tình nguyện và chuyên gia quân sự Việt Nam cuối cùng chính thức hoàn thành việc rút toàn bộ quân khỏi Campuchia, kết thúc 10 năm thực hiện nghĩa vụ quốc tế giúp nước bạn hồi sinh sau thảm họa diệt chủng Khmer Đỏ. [Nguồn: Thông cáo của Bộ Quốc phòng nước CHXHCN Việt Nam ngày 26/09/1989; Viện Lịch sử Quân sự Việt Nam, Lịch sử Quân tình nguyện Việt Nam tại Campuchia (1979 - 1989), 2005; Báo Nhân Dân]
 
 <!-- id: EVT-2848 -->
-*   **30/09/1989:** Huỳnh Tấn Phát qua đời tại Thành phố Hồ Chí Minh.
+*   **30/09/1989:** Huỳnh Tấn Phát qua đời tại Thành phố Hồ Chí Minh. [Nguồn: Thông cáo đặc biệt của Ban Chấp hành Trung ương Đảng, Quốc hội, Hội đồng Nhà nước, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam ngày 30/09/1989; Báo Nhân Dân số ra ngày 01/10/1989]
 
 <!-- id: EVT-2849 -->
-* **13/12/1989:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phùng Hồng Lâm (Đại tá, người chỉ huy trận đánh B52 ở sân bay U-Tapao năm 1968); đồng thời truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Vũ Phi Trừ (Đại úy, Thuyền trưởng tàu HQ-604 thuộc Lữ đoàn 125 Hải quân) và Trần Đức Thông (Trung tá, Phó Lữ đoàn trưởng kiêm Tham mưu trưởng Lữ đoàn 146 Hải quân) vì đã anh dũng chỉ huy chiến đấu bảo vệ chủ quyền tại bãi đá Gạc Ma và hy sinh cùng con tàu ngày 14/03/1988.
+* **13/12/1989:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phùng Hồng Lâm (Đại tá, người chỉ huy trận đánh B52 ở sân bay U-Tapao năm 1968); đồng thời truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Vũ Phi Trừ (Đại úy, Thuyền trưởng tàu HQ-604 thuộc Lữ đoàn 125 Hải quân) và Trần Đức Thông (Trung tá, Phó Lữ đoàn trưởng kiêm Tham mưu trưởng Lữ đoàn 146 Hải quân) vì đã anh dũng chỉ huy chiến đấu bảo vệ chủ quyền tại bãi đá Gạc Ma và hy sinh cùng con tàu ngày 14/03/1988. [Nguồn: Lệnh số 29-LCT/HĐNN8 ngày 13/12/1989 của Chủ tịch Hội đồng Nhà nước phong tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2850 -->
-*   **1990 - 1993:** Khi Cuba rơi vào "Thời kỳ đặc biệt" với khủng hoảng kinh tế trầm trọng sau khi Liên Xô và khối xã hội chủ nghĩa Đông Âu sụp đổ, Việt Nam đã mở các chiến dịch ủng hộ Cuba, quyên góp 50.000 tấn gạo, quần áo, đồ dùng học tập, thể hiện tình đoàn kết thủy chung.
+*   **1990 - 1993:** Khi Cuba rơi vào "Thời kỳ đặc biệt" với khủng hoảng kinh tế trầm trọng sau khi Liên Xô và khối xã hội chủ nghĩa Đông Âu sụp đổ, Việt Nam đã mở các chiến dịch ủng hộ Cuba, quyên góp 50.000 tấn gạo, quần áo, đồ dùng học tập, thể hiện tình đoàn kết thủy chung. [Nguồn: Bộ Ngoại giao, 60 năm quan hệ hữu nghị truyền thống đặc biệt Việt Nam - Cuba (1960 - 2020), NXB Chính trị quốc gia Sự thật, Hà Nội, 2020; Báo Nhân Dân]
 
 <!-- id: EVT-2851 -->
-*   **1990:** Khởi công xây dựng Nghĩa trang liệt sĩ quốc gia Vị Xuyên tại Hà Giang, nơi yên nghỉ của gần 2.000 liệt sĩ và là một địa chỉ đỏ giáo dục truyền thống cách mạng về cuộc chiến đấu bảo vệ biên giới phía Bắc.
+*   **1990:** Khởi công xây dựng Nghĩa trang liệt sĩ quốc gia Vị Xuyên tại Hà Giang, nơi yên nghỉ của gần 2.000 liệt sĩ và là một địa chỉ đỏ giáo dục truyền thống cách mạng về cuộc chiến đấu bảo vệ biên giới phía Bắc. [Nguồn: Ban Tuyên giáo Tỉnh ủy Hà Giang, Địa chí Hà Giang, NXB Chính trị quốc gia, 2006; Báo Hà Giang; Bộ Lao động - Thương binh và Xã hội]
 
 <!-- id: EVT-2852 -->
-* **1990:** Anh hùng Lực lượng vũ trang nhân dân Phạm Gia Triệu (Thượng tá, bác sĩ quân y, Viện phó Viện quân y 108; chuyên gia về thần kinh hàng đầu Việt Nam trong thời kỳ này, người xây dựng ngành phẫu thuật thần kinh trong quân đội. Sau là Thiếu tướng, Đại biểu Quốc hội Việt Nam khóa VI) từ trần.
+* **1990:** Anh hùng Lực lượng vũ trang nhân dân Phạm Gia Triệu (Thượng tá, bác sĩ quân y, Viện phó Viện quân y 108; chuyên gia về thần kinh hàng đầu Việt Nam trong thời kỳ này, người xây dựng ngành phẫu thuật thần kinh trong quân đội. Sau là Thiếu tướng, Đại biểu Quốc hội Việt Nam khóa VI) từ trần. [Nguồn: Bệnh viện Trung ương Quân đội 108, Lịch sử Bệnh viện Trung ương Quân đội 108 (1951 - 2011), NXB Quân đội nhân dân, 2011; Viện Lịch sử Quân sự Việt Nam]
 
 <!-- id: EVT-2853 -->
-* **1990:** Anh hùng Lực lượng vũ trang nhân dân Trần Tấn Mới (Đội trưởng Đội giao thông đường biển 128, có nhiệm vụ đưa đón cán bộ ra, vào hoạt động ở vùng địch và thu thập tin tức, giấy tờ, tài liệu địch) từ trần.
+* **1990:** Anh hùng Lực lượng vũ trang nhân dân Trần Tấn Mới (Đội trưởng Đội giao thông đường biển 128, có nhiệm vụ đưa đón cán bộ ra, vào hoạt động ở vùng địch và thu thập tin tức, giấy tờ, tài liệu địch) từ trần. [Nguồn: Bộ Chỉ huy Quân sự TP. Đà Nẵng, Lịch sử Lực lượng vũ trang thành phố Đà Nẵng (1945 - 2005), NXB Quân đội nhân dân, 2005; Bảo tàng Đà Nẵng]
 
 <!-- id: EVT-2854 -->
-* **1990:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Bình (Chỉ huy đội cảm tử quân Quốc gia tự vệ cuộc Cần Thơ, người chỉ huy trận tập kích đồn Cái Răng 1945).
+* **1990:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Bình (Chỉ huy đội cảm tử quân Quốc gia tự vệ cuộc Cần Thơ, người chỉ huy trận tập kích đồn Cái Răng 1945). [Nguồn: Lệnh của Chủ tịch Hội đồng Nhà nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 1990; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2855 -->
-* **1990:** Anh hùng Lực lượng vũ trang nhân dân Giáp Văn Cương (Đô đốc đầu tiên và Tư lệnh Hải quân Nhân dân Việt Nam) từ trần.
+* **1990:** Anh hùng Lực lượng vũ trang nhân dân Giáp Văn Cương (Đô đốc đầu tiên và Tư lệnh Hải quân Nhân dân Việt Nam) từ trần. [Nguồn: Bộ Tư lệnh Quân chủng Hải quân, Đô đốc Giáp Văn Cương - Vị tướng của biển đảo, NXB Quân đội nhân dân, Hà Nội, 2010; Báo Hải quân Việt Nam]
 
 <!-- id: EVT-2856 -->
-*   **15/03/1990:** Đại hội đại biểu nhân dân Liên Xô thông qua sửa đổi Điều 6 Hiến pháp, xóa bỏ vai trò lãnh đạo độc tôn của Đảng Cộng sản, chấp nhận đa nguyên chính trị.
+*   **15/03/1990:** Đại hội đại biểu nhân dân Liên Xô thông qua sửa đổi Điều 6 Hiến pháp, xóa bỏ vai trò lãnh đạo độc tôn của Đảng Cộng sản, chấp nhận đa nguyên chính trị. [Nguồn: Luật sửa đổi Hiến pháp Liên Xô ngày 15/03/1990; Báo Nhân Dân; Archie Brown, The Rise and Fall of Communism, Ecco, 2009]
 
 <!-- id: EVT-2857 -->
-*   **22/04/1990:** Thiếu tướng Trần Công Mân, Tổng Biên tập Báo Quân đội nhân dân viết bài "Cuộc chiến đấu chưa kết thúc", cảnh báo về trào lưu phủ nhận Đảng và CNXH.
+*   **22/04/1990:** Thiếu tướng Trần Công Mân, Tổng Biên tập Báo Quân đội nhân dân viết bài "Cuộc chiến đấu chưa kết thúc", cảnh báo về trào lưu phủ nhận Đảng và CNXH. [Nguồn: Báo Quân đội nhân dân số ra ngày 24/04/1990; Hội Nhà báo Việt Nam; Tổng cục Chính trị Quân đội nhân dân Việt Nam]
 
 <!-- id: EVT-2858 -->
-*   **08/1990:** Thủ tướng Trung Quốc Lý Bằng đề nghị cùng khai thác khu vực quần đảo Trường Sa.
+*   **08/1990:** Thủ tướng Trung Quốc Lý Bằng đề nghị cùng khai thác khu vực quần đảo Trường Sa. [Nguồn: Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, NXB Chính trị quốc gia, Hà Nội, 2002; Tân Hoa Xã; Báo Nhân Dân]
 
 <!-- id: EVT-2859 -->
-* **17/08/1990:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Đỗ Kim Tuyến (Tiến sĩ Luật, Trung tướng, Phó Tổng cục trưởng Tổng cục Cảnh sát Phòng chống tội phạm, Bộ Công an).
+* **17/08/1990:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Đỗ Kim Tuyến (Tiến sĩ Luật, Trung tướng, Phó Tổng cục trưởng Tổng cục Cảnh sát Phòng chống tội phạm, Bộ Công an). [Nguồn: Lệnh số 38-LCT/HĐNN8 ngày 17/08/1990 của Chủ tịch Hội đồng Nhà nước phong tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2860 -->
-*   **03-04/09/1990:** Diễn ra Hội nghị cấp cao không chính thức Việt Nam - Trung Quốc tại Thành Đô giữa đoàn đại biểu cấp cao Việt Nam (Tổng Bí thư Nguyễn Văn Linh, Chủ tịch Hội đồng Bộ trưởng Đỗ Mười và Cố vấn Ban Chấp hành Trung ương Phạm Văn Đồng) và lãnh đạo cấp cao Trung Quốc (Tổng Bí thư Giang Trạch Dân và Thủ tướng Lý Bằng), đặt nền tảng quyết định cho việc bình thường hóa quan hệ giữa hai nước.
+*   **03-04/09/1990:** Diễn ra Hội nghị cấp cao không chính thức Việt Nam - Trung Quốc tại Thành Đô giữa đoàn đại biểu cấp cao Việt Nam (Tổng Bí thư Nguyễn Văn Linh, Chủ tịch Hội đồng Bộ trưởng Đỗ Mười và Cố vấn Ban Chấp hành Trung ương Phạm Văn Đồng) và lãnh đạo cấp cao Trung Quốc (Tổng Bí thư Giang Trạch Dân và Thủ tướng Lý Bằng), đặt nền tảng quyết định cho việc bình thường hóa quan hệ giữa hai nước. [Nguồn: Bộ Ngoại giao, Biên niên các cuộc đàm phán bình thường hóa quan hệ Việt Nam - Trung Quốc; Báo Nhân Dân; Đại tướng Lê Đức Anh, Cuộc đời và sự nghiệp cách mạng (Hồi ký), 2015]
 
 <!-- id: EVT-2861 -->
-*   **22/09 - 07/10/1990:** Nhận lời mời của Chính phủ Trung Quốc, Phó Chủ tịch Hội đồng Bộ trưởng Đại tướng Võ Nguyên Giáp dẫn đầu đoàn đại biểu Việt Nam tham dự Đại hội Thể thao châu Á lần thứ 11 (ASIAD 11) tại Bắc Kinh với tư cách khách mời danh dự đặc biệt. Sự hiện diện và các cuộc tiếp xúc cấp cao của Đại tướng ("ngoại giao Tướng Giáp") ngay sau Hội nghị Thành Đô đã góp phần phá băng quan hệ, đẩy nhanh tiến trình bình thường hóa quan hệ ngoại giao giữa Việt Nam và Trung Quốc.
+*   **22/09 - 07/10/1990:** Nhận lời mời của Chính phủ Trung Quốc, Phó Chủ tịch Hội đồng Bộ trưởng Đại tướng Võ Nguyên Giáp dẫn đầu đoàn đại biểu Việt Nam tham dự Đại hội Thể thao châu Á lần thứ 11 (ASIAD 11) tại Bắc Kinh với tư cách khách mời danh dự đặc biệt. Sự hiện diện và các cuộc tiếp xúc cấp cao của Đại tướng ("ngoại giao Tướng Giáp") ngay sau Hội nghị Thành Đô đã góp phần phá băng quan hệ, đẩy nhanh tiến trình bình thường hóa quan hệ ngoại giao giữa Việt Nam và Trung Quốc. [Nguồn: Thông tấn xã Việt Nam (TTXVN), Bản tin ngày 24/09/1990; Tổng tập Hồi ký Đại tướng Võ Nguyên Giáp, NXB Quân đội nhân dân, 2011; Báo Nhân Dân]
 
 <!-- id: EVT-2862 -->
-*   **22/10/1990:** Cộng đồng châu Âu (EC), tiền thân của Liên minh châu Âu (EU), chính thức thiết lập quan hệ ngoại giao với Việt Nam.
+*   **22/10/1990:** Cộng đồng châu Âu (EC), tiền thân của Liên minh châu Âu (EU), chính thức thiết lập quan hệ ngoại giao với Việt Nam. [Nguồn: Tuyên bố chung thiết lập quan hệ ngoại giao giữa CHXHCN Việt Nam và Cộng đồng Châu Âu (EC) ngày 22/10/1990; Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, 2002; Báo Nhân Dân]
 
 <!-- id: EVT-2863 -->
 
 ### **Thời kỳ Đẩy mạnh Đổi mới - Thoát khỏi Khủng hoảng (1991 - 1995)**
 
-* **1991:** Anh hùng Lực lượng vũ trang nhân dân Tạ Quang Tỷ (Tiểu đoàn trưởng Tiểu đoàn 4, Trung đoàn 2, Sư đoàn 9; tham gia chiến dịch Bình Giã. Sau là Phó Tham mưu trưởng Quân đoàn 4) từ trần.
+* **1991:** Anh hùng Lực lượng vũ trang nhân dân Tạ Quang Tỷ (Tiểu đoàn trưởng Tiểu đoàn 4, Trung đoàn 2, Sư đoàn 9; tham gia chiến dịch Bình Giã. Sau là Phó Tham mưu trưởng Quân đoàn 4) từ trần. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, tập I, NXB Quân đội nhân dân, Hà Nội, 1996; Bộ Chỉ huy Quân sự TP. Cần Thơ]
 
 <!-- id: EVT-2864 -->
-*   **Đầu năm 1991:** Trong một hội thảo về Việt Nam tại Thượng viện Pháp, Georges Boudarel bị một cựu tù binh Pháp (lúc này là bộ trưởng) nhận ra và thóa mạ. Sau đó, một nhóm cựu tù binh đã đâm đơn kiện ông về "tội ác chống nhân loại" tại trại 113. Một chiến dịch bôi nhọ trên truyền thông nổ ra khiến ông đột quỵ hai lần liên tiếp. Bạn bè của ông, đứng đầu là nhà toán học Laurent Schwartz, đã thành lập "Hội những người bạn của Boudarel" để bảo vệ ông.
+*   **Đầu năm 1991:** Trong một hội thảo về Việt Nam tại Thượng viện Pháp, Georges Boudarel bị một cựu tù binh Pháp (lúc này là bộ trưởng) nhận ra và thóa mạ. Sau đó, một nhóm cựu tù binh đã đâm đơn kiện ông về "tội ác chống nhân loại" tại trại 113. Một chiến dịch bôi nhọ trên truyền thông nổ ra khiến ông đột quỵ hai lần liên tiếp. Bạn bè của ông, đứng đầu là nhà toán học Laurent Schwartz, đã thành lập "Hội những người bạn của Boudarel" để bảo vệ ông. [Nguồn: Le Monde, "L'affaire Boudarel devant le Sénat", số ra tháng 02/1991; Georges Boudarel, Giap, Éditions Atlas, Paris, 1977]
 
 <!-- id: EVT-2865 -->
-*   **17/03/1991:** Cuộc trưng cầu dân ý toàn Liên bang Xô viết được tổ chức, với 76,4% cử tri ủng hộ việc duy trì Liên bang Xô viết.
+*   **17/03/1991:** Cuộc trưng cầu dân ý toàn Liên bang Xô viết được tổ chức, với 76,4% cử tri ủng hộ việc duy trì Liên bang Xô viết. [Nguồn: Ủy ban Bầu cử Trung ương Liên Xô, Kết quả Trưng cầu dân ý toàn Liên bang ngày 17/03/1991; Báo Nhân Dân; Archie Brown, The Rise and Fall of Communism, 2009]
 
 <!-- id: EVT-2866 -->
-*   **24-27/06/1991:** Đại hội đại biểu toàn quốc lần thứ VII của Đảng Cộng sản Việt Nam thông qua **"Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội"** và **"Chiến lược ổn định và phát triển kinh tế - xã hội đến năm 2000"**, chính thức khẳng định Đảng lấy chủ nghĩa Mác-Lênin và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng, kim chỉ nam cho hành động. Tại Đại hội, đồng chí Nguyễn Văn Linh chủ động rút lui khỏi cương vị Tổng Bí thư để chuyển giao thế hệ lãnh đạo và được cử làm Cố vấn Ban Chấp hành Trung ương Đảng; Đại hội bầu đồng chí Đỗ Mười làm Tổng Bí thư.
+*   **24-27/06/1991:** Đại hội đại biểu toàn quốc lần thứ VII của Đảng Cộng sản Việt Nam thông qua **"Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội"** và **"Chiến lược ổn định và phát triển kinh tế - xã hội đến năm 2000"**, chính thức khẳng định Đảng lấy chủ nghĩa Mác-Lênin và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng, kim chỉ nam cho hành động. Tại Đại hội, đồng chí Nguyễn Văn Linh chủ động rút lui khỏi cương vị Tổng Bí thư để chuyển giao thế hệ lãnh đạo và được cử làm Cố vấn Ban Chấp hành Trung ương Đảng; Đại hội bầu đồng chí Đỗ Mười làm Tổng Bí thư. [Nguồn: Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (Cương lĩnh 1991); Văn kiện Đảng Toàn tập, tập 51 (1991), NXB Chính trị quốc gia, Hà Nội, 2007]
 
 <!-- id: EVT-2867 -->
-*   **15-18/07/1991:** Theo sáng kiến của Indonesia, một hội nghị quốc tế đã được tổ chức tại Bandung với các nước trong khu vực để thảo luận về vấn đề quần đảo Trường Sa, ra thông cáo chung khuyến khích đối thoại và đàm phán.
+*   **15-18/07/1991:** Theo sáng kiến của Indonesia, một hội nghị quốc tế đã được tổ chức tại Bandung với các nước trong khu vực để thảo luận về vấn đề quần đảo Trường Sa, ra thông cáo chung khuyến khích đối thoại và đàm phán. [Nguồn: Kỷ yếu Hội thảo quốc tế về quản lý tiềm năng xung đột ở Biển Đông (Bandung, 1991); Bộ Ngoại giao, Vấn đề Biển Đông: Lịch sử và pháp lý quốc tế, Hà Nội, 2012]
 
 <!-- id: EVT-2868 -->
-*   **08/08/1991:** Tại kỳ họp thứ 9 Quốc hội khóa VIII, Quốc hội đã bầu đồng chí Võ Văn Kiệt làm Chủ tịch Hội đồng Bộ trưởng nước CHXHCN Việt Nam thay đồng chí Đỗ Mười (được Đại hội VII bầu làm Tổng Bí thư). Trên cương vị mới, ông tập trung tháo gỡ điểm nghẽn hạ tầng, cải cách thể chế và mở rộng quan hệ đối ngoại.
+*   **08/08/1991:** Tại kỳ họp thứ 9 Quốc hội khóa VIII, Quốc hội đã bầu đồng chí Võ Văn Kiệt làm Chủ tịch Hội đồng Bộ trưởng nước CHXHCN Việt Nam thay đồng chí Đỗ Mười (được Đại hội VII bầu làm Tổng Bí thư). Trên cương vị mới, ông tập trung tháo gỡ điểm nghẽn hạ tầng, cải cách thể chế và mở rộng quan hệ đối ngoại. [Nguồn: Nghị quyết của Quốc hội khóa VIII tại Kỳ họp thứ 9, ngày 08/08/1991; Văn kiện Quốc hội Toàn tập, tập 7 (1987 - 1992), NXB Chính trị quốc gia, Hà Nội, 2008]
 
 <!-- id: EVT-2869 -->
-*   **19/08/1991:** Cuộc đảo chính tháng 8 nổ ra tại Liên Xô nhằm ngăn chặn sự tan rã của Liên bang nhưng thất bại, dẫn đến việc Đảng Cộng sản Liên Xô bị đình chỉ hoạt động.
+*   **19/08/1991:** Cuộc đảo chính tháng 8 nổ ra tại Liên Xô nhằm ngăn chặn sự tan rã của Liên bang nhưng thất bại, dẫn đến việc Đảng Cộng sản Liên Xô bị đình chỉ hoạt động. [Nguồn: Tuyên bố của Ủy ban Nhà nước về Tình trạng Khẩn cấp (GKChP) ngày 19/08/1991; Báo Nhân Dân số ra ngày 20/08/1991; Archie Brown, The Rise and Fall of Communism, 2009]
 
 <!-- id: EVT-2870 -->
-*   **25/11 - 04/12/1991:** Hội nghị lần thứ 2 Ban Chấp hành Trung ương Đảng (khóa VII) thông qua các nhiệm vụ và giải pháp phát triển kinh tế - xã hội cho giai đoạn 1992-1995, trong đó có mục tiêu kiên quyết đẩy lùi lạm phát.
+*   **25/11 - 04/12/1991:** Hội nghị lần thứ 2 Ban Chấp hành Trung ương Đảng (khóa VII) thông qua các nhiệm vụ và giải pháp phát triển kinh tế - xã hội cho giai đoạn 1992-1995, trong đó có mục tiêu kiên quyết đẩy lùi lạm phát. [Nguồn: Nghị quyết Hội nghị lần thứ 2 Ban Chấp hành Trung ương Đảng (khóa VII) ngày 04/12/1991; Văn kiện Đảng Toàn tập, tập 51 (1991), NXB Chính trị quốc gia, Hà Nội, 2007]
 
 <!-- id: EVT-2871 -->
-*   **Cuối năm 1991:** Tòa thượng thẩm Pháp tuyên bố miễn tố đối với Georges Boudarel dựa trên đạo luật ân xá năm 1966. Nguyên đơn tiếp tục kháng án.
+*   **Cuối năm 1991:** Tòa thượng thẩm Pháp tuyên bố miễn tố đối với Georges Boudarel dựa trên đạo luật ân xá năm 1966. Nguyên đơn tiếp tục kháng án. [Nguồn: Phán quyết của Tòa Thượng thẩm Paris ngày 18/12/1991; Le Monde; Thư viện Pháp luật Cộng hòa Pháp]
 
 <!-- id: EVT-2872 -->
-*   **08/12/1991:** Lãnh đạo Nga, Ukraina và Belarus ký Hiệp ước Belovezha, tuyên bố giải thể Liên Xô và thành lập Cộng đồng các Quốc gia Độc lập (SNG).
+*   **08/12/1991:** Lãnh đạo Nga, Ukraina và Belarus ký Hiệp ước Belovezha, tuyên bố giải thể Liên Xô và thành lập Cộng đồng các Quốc gia Độc lập (SNG). [Nguồn: Hiệp ước Belovezha thành lập Cộng đồng các Quốc gia Độc lập (SNG) ký ngày 08/12/1991; Báo Nhân Dân số ra ngày 10/12/1991; Archie Brown, The Rise and Fall of Communism, 2009]
 
 <!-- id: EVT-2873 -->
-*   **25/12/1991:** Mikhail Gorbachev từ chức Tổng thống Liên Xô. Lá cờ búa liềm trên đỉnh tháp Kremlin bị hạ xuống, đánh dấu sự sụp đổ hoàn toàn của Liên bang Xô viết. Sự kiện này tác động mạnh mẽ tới tư tưởng, tình cảm của cán bộ, đảng viên và nhân dân Việt Nam.
+*   **25/12/1991:** Mikhail Gorbachev từ chức Tổng thống Liên Xô. Lá cờ búa liềm trên đỉnh tháp Kremlin bị hạ xuống, đánh dấu sự sụp đổ hoàn toàn của Liên bang Xô viết. Sự kiện này tác động mạnh mẽ tới tư tưởng, tình cảm của cán bộ, đảng viên và nhân dân Việt Nam. [Nguồn: Diễn văn từ chức của Tổng thống Liên Xô Mikhail Gorbachev phát sóng ngày 25/12/1991; Báo Nhân Dân số ra ngày 26/12/1991; Thông tấn xã Nga ITAR-TASS]
 
 <!-- id: EVT-2874 -->
-*   **1992:** Các lực lượng vũ trang còn lại của FULRO tại Campuchia chính thức ra hàng Lực lượng Gìn giữ Hòa bình Liên Hợp Quốc (UNTAC), chấm dứt hoạt động vũ trang.
+*   **1992:** Các lực lượng vũ trang còn lại của FULRO tại Campuchia chính thức ra hàng Lực lượng Gìn giữ Hòa bình Liên Hợp Quốc (UNTAC), chấm dứt hoạt động vũ trang. [Nguồn: Báo cáo của Cơ quan Phái bộ Gìn giữ Hòa bình Liên Hợp Quốc tại Campuchia (UNTAC), 1992; Nate Thayer, "The Forgotten Army", Far Eastern Economic Review, 1992; Báo Công an nhân dân]
 
 <!-- id: EVT-2875 -->
-* **1992:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Tăng (Tư Tăng) (Tiểu đoàn phó biệt động Sài Gòn - Gia Định, tham gia kháng chiến từ năm 1947. Nguyên cụm trưởng cụm 3,4,5 Biệt động Sài Gòn, tham gia nghiên cứu, chỉ huy nhiều trận tập kích của lực lượng biệt động. Lữ đoàn phó kiêm Chỉ huy cánh Bắc của Lữ đoàn 316, tham gia trận đánh giữ cầu Rạch Chiếc trong Chiến dịch Hồ Chí Minh năm 1975. Sau là Đại tá, công tác tại Bộ tư lệnh Thành phố Hồ Chí Minh) từ trần.
+* **1992:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Tăng (Tư Tăng) (Tiểu đoàn phó biệt động Sài Gòn - Gia Định, tham gia kháng chiến từ năm 1947. Nguyên cụm trưởng cụm 3,4,5 Biệt động Sài Gòn, tham gia nghiên cứu, chỉ huy nhiều trận tập kích của lực lượng biệt động. Lữ đoàn phó kiêm Chỉ huy cánh Bắc của Lữ đoàn 316, tham gia trận đánh giữ cầu Rạch Chiếc trong Chiến dịch Hồ Chí Minh năm 1975. Sau là Đại tá, công tác tại Bộ tư lệnh Thành phố Hồ Chí Minh) từ trần. [Nguồn: Bộ Chỉ huy Quân sự TP. Hồ Chí Minh, Lịch sử Biệt động Sài Gòn - Gia Định (1945 - 1975), NXB Quân đội nhân dân, 2005; Bảo tàng Biệt động Sài Gòn]
 
 <!-- id: EVT-2876 -->
-* **1992:** Anh hùng Lực lượng vũ trang nhân dân Hoàng Văn Quyết (Nguyên xạ thủ A72, Đại đội 3, Tiểu đoàn 172, Trung đoàn tên lửa 64, Sư đoàn Phòng không 361, Quân chủng Phòng không - Không quân Việt Nam) từ trần.
+* **1992:** Anh hùng Lực lượng vũ trang nhân dân Hoàng Văn Quyết (Nguyên xạ thủ A72, Đại đội 3, Tiểu đoàn 172, Trung đoàn tên lửa 64, Sư đoàn Phòng không 361, Quân chủng Phòng không - Không quân Việt Nam) từ trần. [Nguồn: Quân chủng Phòng không - Không quân, Lịch sử Sư đoàn Phòng không 361 (1965 - 2005), NXB Quân đội nhân dân, 2005; Viện Lịch sử Quân sự Việt Nam]
 
 <!-- id: EVT-2877 -->
-* **1992:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Thị Định (Thiếu tướng Quân đội Nhân dân Việt Nam, Phó Chủ tịch Hội đồng Nhà nước) từ trần.
+* **1992:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Thị Định (Thiếu tướng Quân đội Nhân dân Việt Nam, Phó Chủ tịch Hội đồng Nhà nước) từ trần. [Nguồn: Thông cáo đặc biệt của Ban Chấp hành Trung ương Đảng, Quốc hội, Hội đồng Nhà nước, Hội LHPN Việt Nam ngày 27/08/1992; Báo Nhân Dân; Bảo tàng Phụ nữ Nam Bộ]
 
 <!-- id: EVT-2878 -->
-*   **12/02/1992:** Nhà nước Việt Nam phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho nữ chiến sĩ cách mạng Trần Thị Lý (Trần Thị Nhâm, quê Điện Bàn, Quảng Nam), ghi nhận sự hy sinh phi thường và tinh thần kiên trung bất khuất trước các đòn tra tấn tàn khốc của quân thù trong cuộc kháng chiến chống Mỹ.
+*   **12/02/1992:** Nhà nước Việt Nam phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho nữ chiến sĩ cách mạng Trần Thị Lý (Trần Thị Nhâm, quê Điện Bàn, Quảng Nam), ghi nhận sự hy sinh phi thường và tinh thần kiên trung bất khuất trước các đòn tra tấn tàn khốc của quân thù trong cuộc kháng chiến chống Mỹ. [Nguồn: Lệnh số 60-LCT/HĐNN8 ngày 12/02/1992 của Chủ tịch Hội đồng Nhà nước phong tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2879 -->
-*   **25/02/1992:** Trung Quốc thông qua một đạo luật mới về lãnh hải, bành trướng yêu sách coi các quần đảo là lãnh thổ của Trung Quốc.
+*   **25/02/1992:** Trung Quốc thông qua một đạo luật mới về lãnh hải, bành trướng yêu sách coi các quần đảo là lãnh thổ của Trung Quốc. [Nguồn: Tuyên bố phản đối của Người Phát ngôn Bộ Ngoại giao nước CHXHCN Việt Nam ngày 28/02/1992; Báo Nhân Dân; TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, 2013]
 
 <!-- id: EVT-2880 -->
-*   **04/1992:** Đồng chí Nguyễn Phú Trọng có bài viết "Vì sao Đảng Cộng sản Liên Xô tan rã?" đăng trên Tạp chí Cộng sản, chỉ ra 5 nguyên nhân chủ yếu dẫn đến sự sụp đổ.
+*   **04/1992:** Đồng chí Nguyễn Phú Trọng có bài viết "Vì sao Đảng Cộng sản Liên Xô tan rã?" đăng trên Tạp chí Cộng sản, chỉ ra 5 nguyên nhân chủ yếu dẫn đến sự sụp đổ. [Nguồn: Nguyễn Phú Trọng, "Vì sao Đảng Cộng sản Liên Xô tan rã?", Tạp chí Cộng sản, số 4/1992, tr. 14-19; NXB Chính trị quốc gia Sự thật]
 
 <!-- id: EVT-2881 -->
-*   **05/04/1992:** Chủ tịch Hội đồng Bộ trưởng Võ Văn Kiệt phát lệnh khởi công xây dựng Đường dây tải điện siêu cao áp 500 kV Bắc - Nam mạch 1 (dài 1.487 km từ Trạm biến áp Hòa Bình đến Trạm biến áp Phú Lâm, TP. Hồ Chí Minh). Đây là quyết sách táo bạo, giàu tầm nhìn chiến lược nhằm giải quyết tình trạng thiếu điện trầm trọng ở miền Nam, tạo xung lực phát triển kinh tế mạnh mẽ cho cả nước.
+*   **05/04/1992:** Chủ tịch Hội đồng Bộ trưởng Võ Văn Kiệt phát lệnh khởi công xây dựng Đường dây tải điện siêu cao áp 500 kV Bắc - Nam mạch 1 (dài 1.487 km từ Trạm biến áp Hòa Bình đến Trạm biến áp Phú Lâm, TP. Hồ Chí Minh). Đây là quyết sách táo bạo, giàu tầm nhìn chiến lược nhằm giải quyết tình trạng thiếu điện trầm trọng ở miền Nam, tạo xung lực phát triển kinh tế mạnh mẽ cho cả nước. [Nguồn: Quyết định số 106-CT ngày 05/04/1992 của Chủ tịch Hội đồng Bộ trưởng; Tập đoàn Điện lực Việt Nam, Kỷ yếu 20 năm Đường dây 500 kV Bắc - Nam (1994 - 2014); Báo Nhân Dân]
 
 <!-- id: EVT-2882 -->
-*   **15/04/1992:** Quốc hội khóa VIII thông qua **Hiến pháp nước CHXHCN Việt Nam năm 1992** (ngày 18/04/1992, Chủ tịch Hội đồng Nhà nước Võ Chí Công ký Lệnh công bố). Dưới sự chỉ đạo của đồng chí Võ Chí Công trên cương vị Chủ tịch Ủy ban sửa đổi Hiến pháp, Hiến pháp 1992 là bản hiến pháp của thời kỳ Đổi mới, thể chế hóa phát triển kinh tế nhiều thành phần theo định hướng XHCN và khôi phục chế định Chủ tịch nước.
+*   **15/04/1992:** Quốc hội khóa VIII thông qua **Hiến pháp nước CHXHCN Việt Nam năm 1992** (ngày 18/04/1992, Chủ tịch Hội đồng Nhà nước Võ Chí Công ký Lệnh công bố). Dưới sự chỉ đạo của đồng chí Võ Chí Công trên cương vị Chủ tịch Ủy ban sửa đổi Hiến pháp, Hiến pháp 1992 là bản hiến pháp của thời kỳ Đổi mới, thể chế hóa phát triển kinh tế nhiều thành phần theo định hướng XHCN và khôi phục chế định Chủ tịch nước. [Nguồn: Hiến pháp nước Cộng hòa Xã hội Chủ nghĩa Việt Nam năm 1992; Văn kiện Quốc hội Toàn tập, tập 7 (1987 - 1992), NXB Chính trị quốc gia, Hà Nội, 2008]
 
 <!-- id: EVT-2883 -->
-*   **05/1992:** Trung Quốc cấp cho công ty Crestone Energy của Mỹ một đặc nhượng thăm dò dầu khí ở khu vực Bãi Tư Chính (Vạn An Bắc), nằm trong thềm lục địa và vùng đặc quyền kinh tế mà Việt Nam yêu sách.
+*   **05/1992:** Trung Quốc cấp cho công ty Crestone Energy của Mỹ một đặc nhượng thăm dò dầu khí ở khu vực Bãi Tư Chính (Vạn An Bắc), nằm trong thềm lục địa và vùng đặc quyền kinh tế mà Việt Nam yêu sách. [Nguồn: Tuyên bố phản đối của Người Phát ngôn Bộ Ngoại giao nước CHXHCN Việt Nam ngày 16/05/1992; Tập đoàn Dầu khí Việt Nam; Báo Nhân Dân]
 
 <!-- id: EVT-2884 -->
-*   **07/1992:** Việt Nam chính thức ký Hiệp ước Thân thiện và Hợp tác ở Đông Nam Á (Hiệp ước Bali) và trở thành quan sát viên của ASEAN.
+*   **07/1992:** Việt Nam chính thức ký Hiệp ước Thân thiện và Hợp tác ở Đông Nam Á (Hiệp ước Bali) và trở thành quan sát viên của ASEAN. [Nguồn: Văn kiện gia nhập Hiệp ước Thân thiện và Hợp tác ở Đông Nam Á (Hiệp ước Bali) của Việt Nam tại Hội nghị Bộ trưởng Ngoại giao ASEAN lần thứ 25 tại Manila, ngày 22/07/1992; Báo Nhân Dân]
 
 <!-- id: EVT-2885 -->
-*   **08/07/1992:** Trung Quốc chiếm thêm một số đá ngầm tại quần đảo Trường Sa, củng cố sự hiện diện của mình sau khi thông qua luật lãnh hải bành trướng vào đầu năm đó.
+*   **08/07/1992:** Trung Quốc chiếm thêm một số đá ngầm tại quần đảo Trường Sa, củng cố sự hiện diện của mình sau khi thông qua luật lãnh hải bành trướng vào đầu năm đó. [Nguồn: Tuyên bố của Bộ Ngoại giao nước CHXHCN Việt Nam ngày 09/07/1992 phản đối Trung Quốc cắm mốc chủ quyền trái phép; TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, 2013]
 
 <!-- id: EVT-2886 -->
-*   **19/07/1992:** Bầu cử Quốc hội khóa IX.
+*   **19/07/1992:** Bầu cử Quốc hội khóa IX. [Nguồn: Báo cáo kết quả bầu cử Quốc hội khóa IX của Hội đồng Bầu cử; Văn kiện Quốc hội Toàn tập, tập 8 (1992 - 1997), NXB Chính trị quốc gia, Hà Nội, 2008]
 
 <!-- id: EVT-2887 -->
-*   **20/08/1992:** Hội đồng Nhà nước trao tặng Huân chương Sao Vàng – phần thưởng cao quý nhất của Đảng và Nhà nước Việt Nam – cho Đại tướng Võ Nguyên Giáp nhằm ghi nhận công lao to lớn, đặc biệt xuất sắc của ông đối với sự nghiệp cách mạng giải phóng dân tộc, xây dựng và bảo vệ Tổ quốc.
+*   **20/08/1992:** Hội đồng Nhà nước trao tặng Huân chương Sao Vàng – phần thưởng cao quý nhất của Đảng và Nhà nước Việt Nam – cho Đại tướng Võ Nguyên Giáp nhằm ghi nhận công lao to lớn, đặc biệt xuất sắc của ông đối với sự nghiệp cách mạng giải phóng dân tộc, xây dựng và bảo vệ Tổ quốc. [Nguồn: Quyết định số 106-KT/HĐNN8 ngày 20/08/1992 của Chủ tịch Hội đồng Nhà nước trao tặng Huân chương Sao Vàng cho Đại tướng Võ Nguyên Giáp; Báo Nhân Dân số ra ngày 21/08/1992]
 
 <!-- id: EVT-2888 -->
-*   **23/09/1992:** Tại kỳ họp thứ nhất Quốc hội khóa IX, Quốc hội đã bầu Đại tướng Lê Đức Anh làm Chủ tịch nước và bầu đồng chí Võ Văn Kiệt làm Thủ tướng Chính phủ nước CHXHCN Việt Nam (theo Hiến pháp năm 1992 khôi phục chế định Chủ tịch nước đơn nhất); đồng thời bầu bà Nguyễn Thị Bình làm Phó Chủ tịch nước (bà đảm nhiệm cương vị này hai nhiệm kỳ liên tiếp đến năm 2002).
+*   **23/09/1992:** Tại kỳ họp thứ nhất Quốc hội khóa IX, Quốc hội đã bầu Đại tướng Lê Đức Anh làm Chủ tịch nước và bầu đồng chí Võ Văn Kiệt làm Thủ tướng Chính phủ nước CHXHCN Việt Nam (theo Hiến pháp năm 1992 khôi phục chế định Chủ tịch nước đơn nhất); đồng thời bầu bà Nguyễn Thị Bình làm Phó Chủ tịch nước (bà đảm nhiệm cương vị này hai nhiệm kỳ liên tiếp đến năm 2002). [Nguồn: Nghị quyết của Quốc hội khóa IX tại Kỳ họp thứ nhất, ngày 23/09/1992; Văn kiện Quốc hội Toàn tập, tập 8 (1992 - 1997), NXB Chính trị quốc gia, Hà Nội, 2008]
 
 <!-- id: EVT-2889 -->
-*   **06/11/1992:** Chính phủ Nhật Bản chính thức tuyên bố nối lại viện trợ phát triển chính thức (ODA) cho Việt Nam sau khi hai nước đạt thỏa thuận xử lý dứt điểm khoản nợ 23,5 tỷ Yên của chính quyền Việt Nam Cộng hòa vay trước năm 1975 thông qua khoản tín dụng bắc cầu từ các ngân hàng thương mại. Cùng ngày, Nhật Bản cam kết khoản ODA ưu đãi đầu tiên trị giá 45,5 tỷ Yên, trở thành quốc gia phát triển đầu tiên trong nhóm G7 nối lại viện trợ kinh tế quy mô lớn cho Việt Nam thời kỳ Đổi mới.
+*   **06/11/1992:** Chính phủ Nhật Bản chính thức tuyên bố nối lại viện trợ phát triển chính thức (ODA) cho Việt Nam sau khi hai nước đạt thỏa thuận xử lý dứt điểm khoản nợ 23,5 tỷ Yên của chính quyền Việt Nam Cộng hòa vay trước năm 1975 thông qua khoản tín dụng bắc cầu từ các ngân hàng thương mại. Cùng ngày, Nhật Bản cam kết khoản ODA ưu đãi đầu tiên trị giá 45,5 tỷ Yên, trở thành quốc gia phát triển đầu tiên trong nhóm G7 nối lại viện trợ kinh tế quy mô lớn cho Việt Nam thời kỳ Đổi mới. [Nguồn: Tuyên bố của Chính phủ Nhật Bản ngày 06/11/1992 về việc nối lại ODA; Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, NXB Chính trị quốc gia, 2002; Báo Nhân Dân]
 
 <!-- id: EVT-2890 -->
-*   **20/11/1992:** Anh hùng Lực lượng vũ trang nhân dân Trần Thị Lý (tên khai sinh Trần Thị Nhâm, sinh năm 1933 tại xã Điện Quang, huyện Điện Bàn, tỉnh Quảng Nam; người nữ chiến sĩ kiên trung bất khuất trước các cực hình tra tấn của chế độ Mỹ - Diệm, nguyên mẫu hình tượng người con gái trong bài thơ *"Người con gái Việt Nam"* của nhà thơ Tố Hữu) từ trần tại Đà Nẵng, hưởng thọ 59 tuổi.
+*   **20/11/1992:** Anh hùng Lực lượng vũ trang nhân dân Trần Thị Lý (tên khai sinh Trần Thị Nhâm, sinh năm 1933 tại xã Điện Quang, huyện Điện Bàn, tỉnh Quảng Nam; người nữ chiến sĩ kiên trung bất khuất trước các cực hình tra tấn của chế độ Mỹ - Diệm, nguyên mẫu hình tượng người con gái trong bài thơ *"Người con gái Việt Nam"* của nhà thơ Tố Hữu) từ trần tại Đà Nẵng, hưởng thọ 59 tuổi. [Nguồn: Báo Đà Nẵng số ra ngày 22/11/1992; Hội Liên hiệp Phụ nữ Việt Nam; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2891 -->
-* **1993:** Anh hùng Lực lượng vũ trang nhân dân Đặng Quang Cầm (Trung đội phó thuộc đội vũ trang tuyên truyền Liên khu 5) từ trần.
+* **1993:** Anh hùng Lực lượng vũ trang nhân dân Đặng Quang Cầm (Trung đội phó thuộc đội vũ trang tuyên truyền Liên khu 5) từ trần. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, tập I, NXB Quân đội nhân dân, Hà Nội, 1996; Bộ Chỉ huy Quân sự tỉnh Nghệ An]
 
 <!-- id: EVT-2892 -->
-* **1993:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Hữu Trí (Trưởng phòng Tình báo chiến lược miền (J22), Nguyên Phó chỉ huy trưởng Bộ Chỉ huy quân sự Thành phố Hồ Chí Minh) từ trần.
+* **1993:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Hữu Trí (Trưởng phòng Tình báo chiến lược miền (J22), Nguyên Phó chỉ huy trưởng Bộ Chỉ huy quân sự Thành phố Hồ Chí Minh) từ trần. [Nguồn: Tổng cục Tình báo Quốc phòng, Lịch sử Tình báo Quốc phòng Việt Nam (1945 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2893 -->
-* **1993:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Bá Phát (Nguyên Tư lệnh Quân chủng Hải quân, nguyên Thứ trưởng Thường trực Bộ Hải sản) từ trần.
+* **1993:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Bá Phát (Nguyên Tư lệnh Quân chủng Hải quân, nguyên Thứ trưởng Thường trực Bộ Hải sản) từ trần. [Nguồn: Bộ Tư lệnh Quân chủng Hải quân, Thiếu tướng Nguyễn Bá Phát - Cuộc đời và sự nghiệp chỉ huy, NXB Quân đội nhân dân, 2005; Báo Hải quân Việt Nam]
 
 <!-- id: EVT-2894 -->
-* **1993:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Thanh Tùng (Mười Cơ) (Đại tá, nguyên Phó phòng Tình báo Miền (J22), Bộ Tham mưu Quân Giải phóng miền Nam) từ trần.
+* **1993:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Thanh Tùng (Mười Cơ) (Đại tá, nguyên Phó phòng Tình báo Miền (J22), Bộ Tham mưu Quân Giải phóng miền Nam) từ trần. [Nguồn: Bộ Chỉ huy Quân sự tỉnh Long An, Lịch sử Lực lượng vũ trang nhân dân tỉnh Long An (1945 - 2005), NXB Quân đội nhân dân, 2005; Báo Long An]
 
 <!-- id: EVT-2895 -->
-* **1993:** Anh hùng Lực lượng vũ trang nhân dân Hoàng Hữu Kháng (Đại tá, nguyên Cục trưởng Cục Cảnh vệ (nay là Bộ tư lệnh Cảnh vệ), cận vệ của Chủ tịch Hồ Chí Minh từ tháng 5 năm 1945 cho đến khi Người qua đời) từ trần.
+* **1993:** Anh hùng Lực lượng vũ trang nhân dân Hoàng Hữu Kháng (Đại tá, nguyên Cục trưởng Cục Cảnh vệ (nay là Bộ tư lệnh Cảnh vệ), cận vệ của Chủ tịch Hồ Chí Minh từ tháng 5 năm 1945 cho đến khi Người qua đời) từ trần. [Nguồn: Bộ Tư lệnh Cảnh vệ, Lịch sử Bộ Tư lệnh Cảnh vệ (1953 - 2013), NXB Công an nhân dân, Hà Nội, 2013; Bảo tàng Công an nhân dân]
 
 <!-- id: EVT-2896 -->
-*   **1993:** Doanh nhân kiều bào Johnathan Hạnh Nguyễn (thông qua Tập đoàn Liên Thái Bình Dương - IPPG) hợp tác với Cục Hàng không Dân dụng Việt Nam khai trương hai cửa hàng miễn thuế (Duty-Free) đầu tiên tại Sân bay quốc tế Tân Sơn Nhất và Sân bay quốc tế Nội Bài, mở đầu cho sự hình thành ngành bán lẻ miễn thuế và chuỗi dịch vụ thương mại phi hàng không tiêu chuẩn quốc tế tại các cửa khẩu hàng không Việt Nam.
+*   **1993:** Doanh nhân kiều bào Johnathan Hạnh Nguyễn (thông qua Tập đoàn Liên Thái Bình Dương - IPPG) hợp tác với Cục Hàng không Dân dụng Việt Nam khai trương hai cửa hàng miễn thuế (Duty-Free) đầu tiên tại Sân bay quốc tế Tân Sơn Nhất và Sân bay quốc tế Nội Bài, mở đầu cho sự hình thành ngành bán lẻ miễn thuế và chuỗi dịch vụ thương mại phi hàng không tiêu chuẩn quốc tế tại các cửa khẩu hàng không Việt Nam. [Nguồn: Cục Hàng không Dân dụng Việt Nam, Lịch sử Hàng không Dân dụng Việt Nam (1956 - 2006), NXB Giao thông Vận tải, 2006; Báo Sài Gòn Giải Phóng]
 
 <!-- id: EVT-2897 -->
-*   **03/1993:** Tòa phá án Pháp lặp lại kết luận miễn tố đối với vụ kiện Georges Boudarel.
+*   **03/1993:** Tòa phá án Pháp lặp lại kết luận miễn tố đối với vụ kiện Georges Boudarel. [Nguồn: Phán quyết của Tòa Phá án Cộng hòa Pháp (Cour de Cassation) ngày 01/04/1993 trong vụ án Boudarel; Bulletin des arrêts de la Cour de cassation, Paris, 1993]
 
 <!-- id: EVT-2898 -->
-*   **06/1993:** Hội nghị lần thứ 5 Ban Chấp hành Trung ương Đảng (khóa VII) ra nghị quyết về tiếp tục đổi mới và phát triển kinh tế - xã hội nông thôn.
+*   **06/1993:** Hội nghị lần thứ 5 Ban Chấp hành Trung ương Đảng (khóa VII) ra nghị quyết về tiếp tục đổi mới và phát triển kinh tế - xã hội nông thôn. [Nguồn: Nghị quyết Hội nghị lần thứ 5 Ban Chấp hành Trung ương Đảng (khóa VII) ngày 11/06/1993; Văn kiện Đảng Toàn tập, tập 52 (1992 - 1993), NXB Chính trị quốc gia, Hà Nội, 2007]
 
 <!-- id: EVT-2899 -->
-*   **02/07/1993:** Mỹ tuyên bố không còn phản đối các nước và tổ chức tài chính quốc tế cho Việt Nam vay vốn để trả nợ, một bước đi quan trọng tiến tới dỡ bỏ cấm vận.
+*   **02/07/1993:** Mỹ tuyên bố không còn phản đối các nước và tổ chức tài chính quốc tế cho Việt Nam vay vốn để trả nợ, một bước đi quan trọng tiến tới dỡ bỏ cấm vận. [Nguồn: Tuyên bố của Tổng thống Hoa Kỳ Bill Clinton ngày 02/07/1993; Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, NXB Chính trị quốc gia, 2002; Báo Nhân Dân]
 
 <!-- id: EVT-2900 -->
-*   **24/07/1993:** Chủ tịch nước công bố Luật Đất đai, quy định chi tiết về chế độ quản lý, sử dụng đất đai, cũng như quyền và nghĩa vụ của người sử dụng đất tại Việt Nam.
+*   **24/07/1993:** Chủ tịch nước công bố Luật Đất đai, quy định chi tiết về chế độ quản lý, sử dụng đất đai, cũng như quyền và nghĩa vụ của người sử dụng đất tại Việt Nam. [Nguồn: Luật Đất đai năm 1993, thông qua ngày 14/07/1993, công bố ngày 24/07/1993; Văn kiện Quốc hội Toàn tập, tập 8 (1992 - 1997), NXB Chính trị quốc gia, 2008]
 
 <!-- id: EVT-2901 -->
-*   **02/08/1993:** Nữ liệt sĩ Võ Thị Sáu được Nhà nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân nhằm vinh danh tinh thần chiến đấu kiên trung và sự hy sinh anh dũng trong cuộc kháng chiến chống Pháp.
+*   **02/08/1993:** Nữ liệt sĩ Võ Thị Sáu được Nhà nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân nhằm vinh danh tinh thần chiến đấu kiên trung và sự hy sinh anh dũng trong cuộc kháng chiến chống Pháp. [Nguồn: Quyết định số 149-KT/CTN ngày 02/08/1993 của Chủ tịch nước Lê Đức Anh truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2902 -->
-*   **06/10/1993:** Với khoản tài trợ và cho vay bắc cầu từ "Nhóm những người bạn của Việt Nam" gồm 15 quốc gia do Pháp và Nhật Bản đồng chủ trì, Việt Nam đã thanh toán dứt điểm khoản nợ quá hạn 140 triệu USD của chính quyền Việt Nam Cộng hòa để lại tại Quỹ Tiền tệ Quốc tế (IMF). Việc xóa bỏ nợ quá hạn đã mở đường cho IMF, Ngân hàng Thế giới (WB) và Ngân hàng Phát triển Châu Á (ADB) chính thức dỡ bỏ lệnh đình chỉ tín dụng kéo dài gần 20 năm, tái lập các chương trình cho vay tái thiết và phát triển cơ sở hạ tầng cho Việt Nam.
+*   **06/10/1993:** Với khoản tài trợ và cho vay bắc cầu từ "Nhóm những người bạn của Việt Nam" gồm 15 quốc gia do Pháp và Nhật Bản đồng chủ trì, Việt Nam đã thanh toán dứt điểm khoản nợ quá hạn 140 triệu USD của chính quyền Việt Nam Cộng hòa để lại tại Quỹ Tiền tệ Quốc tế (IMF). Việc xóa bỏ nợ quá hạn đã mở đường cho IMF, Ngân hàng Thế giới (WB) và Ngân hàng Phát triển Châu Á (ADB) chính thức dỡ bỏ lệnh đình chỉ tín dụng kéo dài gần 20 năm, tái lập các chương trình cho vay tái thiết và phát triển cơ sở hạ tầng cho Việt Nam. [Nguồn: Quỹ Tiền tệ Quốc tế (IMF), Thông cáo báo chí số 93/43 ngày 06/10/1993; Ngân hàng Nhà nước Việt Nam; Báo Nhân Dân số ra ngày 08/10/1993]
 
 <!-- id: EVT-2903 -->
-*   **11/12/1993:** Quần thể di tích Cố đô Huế được công nhận là Di sản Văn hóa Thế giới.
+*   **11/12/1993:** Quần thể di tích Cố đô Huế được công nhận là Di sản Văn hóa Thế giới. [Nguồn: UNESCO, Quyết định của Ủy ban Di sản Thế giới tại kỳ họp thứ 17 (Cartagena, 1993); Trung tâm Bảo tồn Di tích Cố đô Huế; Báo Nhân Dân]
 
 <!-- id: EVT-2904 -->
-*   **14/12/1993:** Tại Paris, Chính phủ Việt Nam đạt Thỏa ước lịch sử với Câu lạc bộ Paris về xử lý các khoản nợ công song phương do chính quyền Việt Nam Cộng hòa để lại trước năm 1975. Các quốc gia chủ nợ lớn gồm Pháp, Nhật Bản, Đức, Vương quốc Anh, Ý, Bỉ, Úc, Canada, Hàn Quốc, Áo, Thụy Sĩ, Hà Lan và Tây Ban Nha đã đặt điều kiện buộc Việt Nam phải kế thừa nghĩa vụ trả nợ để đổi lại việc bình thường hóa quan hệ tài chính; theo thỏa ước, các chủ nợ đồng ý xóa giảm 50% nợ quá hạn theo các điều khoản ưu đãi và tái cơ cấu phần nợ còn lại trong thời hạn 23 đến 30 năm, tạo bước ngoặt quyết định đưa Việt Nam tái hòa nhập hệ thống tài chính quốc tế.
+*   **14/12/1993:** Tại Paris, Chính phủ Việt Nam đạt Thỏa ước lịch sử với Câu lạc bộ Paris về xử lý các khoản nợ công song phương do chính quyền Việt Nam Cộng hòa để lại trước năm 1975. Các quốc gia chủ nợ lớn gồm Pháp, Nhật Bản, Đức, Vương quốc Anh, Ý, Bỉ, Úc, Canada, Hàn Quốc, Áo, Thụy Sĩ, Hà Lan và Tây Ban Nha đã đặt điều kiện buộc Việt Nam phải kế thừa nghĩa vụ trả nợ để đổi lại việc bình thường hóa quan hệ tài chính; theo thỏa ước, các chủ nợ đồng ý xóa giảm 50% nợ quá hạn theo các điều khoản ưu đãi và tái cơ cấu phần nợ còn lại trong thời hạn 23 đến 30 năm, tạo bước ngoặt quyết định đưa Việt Nam tái hòa nhập hệ thống tài chính quốc tế. [Nguồn: Thỏa ước giữa Chính phủ CHXHCN Việt Nam và các chủ nợ thuộc Câu lạc bộ Paris ký ngày 14/12/1993; Bộ Tài chính; Báo Nhân Dân số ra ngày 16/12/1993]
 
 <!-- id: EVT-2905 -->
-*   **1994:** Mẹ của Bùi Văn Thuyên là bà Lê Thị Mới - người đã có 5 người con hy sinh trong các cuộc kháng chiến - được Nhà nước Việt Nam tuyên dương danh hiệu "Bà mẹ Việt Nam anh hùng" trong đợt đầu tiên.
+*   **1994:** Mẹ của Bùi Văn Thuyên là bà Lê Thị Mới - người đã có 5 người con hy sinh trong các cuộc kháng chiến - được Nhà nước Việt Nam tuyên dương danh hiệu "Bà mẹ Việt Nam anh hùng" trong đợt đầu tiên. [Nguồn: Quyết định phong tặng danh hiệu vinh dự Nhà nước Bà mẹ Việt Nam anh hùng năm 1994 của Chủ tịch nước; Sở Lao động - Thương binh và Xã hội tỉnh Hưng Yên; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2906 -->
 *   **1994:** Bà Sùng Thị Plây (mẹ của Vừ A Dính) được Nhà nước truy tặng danh hiệu Bà mẹ Việt Nam Anh hùng trong đợt đầu tiên vì đã có chồng, con và bản thân là liệt sĩ.
