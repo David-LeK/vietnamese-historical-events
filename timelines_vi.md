@@ -9831,425 +9831,425 @@
 *   **16/12/2004:** Tạ Quốc Luật (1925 – 1985), người Đại đội trưởng chỉ huy tổ xung kích bắt sống Tướng De Castries tại Điện Biên Phủ, được Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân. [Nguồn: Quyết định số 949/2004/QĐ-CTN ngày 16/12/2004 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND cho đồng chí Tạ Quốc Luật; Báo Quân đội nhân dân]
 
 <!-- id: EVT-3042 -->
-* **16/12/2004:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hà Văn Nọa (Đại đội trưởng Đại đội 243, Tiểu đoàn 11, Trung đoàn 141, Đại đoàn 312. Trực tiếp chiến đấu trong trận Him Lam mở màn Chiến dịch Điện Biên Phủ. Hy sinh bên bờ sông Nậm Rốm trong trận tấn công đợt 2 Chiến dịch Điện Biên Phủ trưa ngày 2 tháng 4 năm 1954).
+* **16/12/2004:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hà Văn Nọa (Đại đội trưởng Đại đội 243, Tiểu đoàn 11, Trung đoàn 141, Đại đoàn 312. Trực tiếp chiến đấu trong trận Him Lam mở màn Chiến dịch Điện Biên Phủ. Hy sinh bên bờ sông Nậm Rốm trong trận tấn công đợt 2 Chiến dịch Điện Biên Phủ trưa ngày 2 tháng 4 năm 1954). [Nguồn: Lệnh số 949/2004/QĐ-CTN ngày 16/12/2004 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2005]
 
 <!-- id: EVT-3043 -->
-* **2005:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Song (Khi tuyên dương là Tiểu đội trưởng du kích xã Thới Hòa, huyện Bến Cát, tỉnh Sông Bé) từ trần.
+* **2005:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Song (Khi tuyên dương là Tiểu đội trưởng du kích xã Thới Hòa, huyện Bến Cát, tỉnh Sông Bé) từ trần. [Nguồn: Quân đoàn 4, Lịch sử Sư đoàn 7 - Sư đoàn Bến Tre (1966 - 2006), NXB Quân đội nhân dân, 2006; Viện Lịch sử Quân sự Việt Nam]
 
 <!-- id: EVT-3044 -->
-* **2005:** Anh hùng Lực lượng vũ trang nhân dân Hồ Đức Thắng (Thượng úy, Chính trị viên Đoàn tàu không số thuộc Đoàn 125 Hải quân. Từ 1961-1966 đã chỉ huy 16 chuyến tàu cập các bến ở Nam bộ an toàn, chở theo hơn 1.000 tấn vũ khí và các trang thiết bị cho chiến trường miền Nam. Sau là Thiếu tá, Phó Chính ủy Công xưởng Nhà Bè thuộc Bộ Tư lệnh Hải quân) từ trần.
+* **2005:** Anh hùng Lực lượng vũ trang nhân dân Hồ Đức Thắng (Thượng úy, Chính trị viên Đoàn tàu không số thuộc Đoàn 125 Hải quân. Từ 1961-1966 đã chỉ huy 16 chuyến tàu cập các bến ở Nam bộ an toàn, chở theo hơn 1.000 tấn vũ khí và các trang thiết bị cho chiến trường miền Nam. Sau là Thiếu tá, Phó Chính ủy Công xưởng Nhà Bè thuộc Bộ Tư lệnh Hải quân) từ trần. [Nguồn: Bộ Tư lệnh Quân chủng Hải quân, Huyền thoại Đường Hồ Chí Minh trên biển, NXB Quân đội nhân dân, Hà Nội, 2011; Báo Hải quân Việt Nam]
 
 <!-- id: EVT-3045 -->
-* **2005:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Tàu (Tư Cang) (Đại tá, Nguyên Phó Chính ủy phòng Tình báo Bộ tham mưu B2).
+* **2005:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Tàu (Tư Cang) (Đại tá, Nguyên Phó Chính ủy phòng Tình báo Bộ tham mưu B2). [Nguồn: Lệnh của Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2005; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2005]
 
 <!-- id: EVT-3046 -->
-* **2005:** Anh hùng Lực lượng vũ trang nhân dân Đồng Văn Cống (Sư đoàn trưởng Sư đoàn 330; Tư lệnh trưởng Quân khu Hữu Ngạn (1962); Tư lệnh Quân khu 9 (1964); Phó tư lệnh các lực lượng vũ trang giải phóng miền Nam từ năm 1965-1972; Tư lệnh Quân khu 8 (Tháng 10 năm 1972 đến 1975)) từ trần.
+* **2005:** Anh hùng Lực lượng vũ trang nhân dân Đồng Văn Cống (Sư đoàn trưởng Sư đoàn 330; Tư lệnh trưởng Quân khu Hữu Ngạn (1962); Tư lệnh Quân khu 9 (1964); Phó tư lệnh các lực lượng vũ trang giải phóng miền Nam từ năm 1965-1972; Tư lệnh Quân khu 8 (Tháng 10 năm 1972 đến 1975)) từ trần. [Nguồn: Bộ Tư lệnh Quân khu 7, Trung tướng Đồng Văn Cống - Cuộc đời và binh nghiệp, NXB Quân đội nhân dân, 2006; Báo Quân đội nhân dân]
 
 <!-- id: EVT-3047 -->
-*   **03/2005:** Sở Giao dịch Chứng khoán Hà Nội (HNX) được thành lập
+*   **03/2005:** Sở Giao dịch Chứng khoán Hà Nội (HNX) được thành lập [Nguồn: Quyết định số 01/2005/QĐ-TTg ngày 05/01/2005 của Thủ tướng Chính phủ thành lập Trung tâm Giao dịch Chứng khoán Hà Nội; Ủy ban Chứng khoán Nhà nước; Báo Đầu tư]
 
 <!-- id: EVT-3048 -->
-*   **05/2005:** Nhà nước quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho 3 chiến sĩ: Nguyễn Văn Lộc, Nguyễn Văn Kỷ, và Nguyễn Văn Phấn (các chiến sĩ kiên cường của Lực lượng vũ trang nhân dân); đồng thời truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho đồng chí Nguyễn Xuân Hòe (điệp viên mưu trí thuộc lưới tình báo chiến lược A22, Ủy viên đặc biệt Phủ Tổng thống ngụy quyền Sài Gòn).
+*   **05/2005:** Nhà nước quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho 3 chiến sĩ: Nguyễn Văn Lộc, Nguyễn Văn Kỷ, và Nguyễn Văn Phấn (các chiến sĩ kiên cường của Lực lượng vũ trang nhân dân); đồng thời truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho đồng chí Nguyễn Xuân Hòe (điệp viên mưu trí thuộc lưới tình báo chiến lược A22, Ủy viên đặc biệt Phủ Tổng thống ngụy quyền Sài Gòn). [Nguồn: Quyết định số 406/2005/QĐ-CTN của Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân nhân kỷ niệm 30 năm Giải phóng miền Nam; Báo Nhân Dân]
 
 <!-- id: EVT-3049 -->
-*   **23/05/2005:** Liệt sĩ Lê Thị Ngọc Tiến được Nhà nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân vì thành tích đặc biệt xuất sắc và sự hy sinh kiên trung trong cuộc kháng chiến chống Mỹ cứu nước.
+*   **23/05/2005:** Liệt sĩ Lê Thị Ngọc Tiến được Nhà nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân vì thành tích đặc biệt xuất sắc và sự hy sinh kiên trung trong cuộc kháng chiến chống Mỹ cứu nước. [Nguồn: Quyết định số 487/2005/QĐ-CTN ngày 23/05/2005 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Ban Tuyên giáo Tỉnh ủy Quảng Nam; Báo Quảng Nam]
 
 <!-- id: EVT-3050 -->
-*   **02/06/2005:** Bộ Chính trị ban hành Nghị quyết số 49-NQ/TW về "Chiến lược Cải cách tư pháp đến năm 2020", do Chủ tịch nước Trần Đức Lương (Trưởng Ban Chỉ đạo Cải cách Tư pháp Trung ương) chỉ đạo xây dựng. Nghị quyết xác định tòa án là trung tâm, xét xử là trọng tâm, lấy đổi mới tranh tụng dân chủ làm khâu đột phá nhằm xây dựng nền tư pháp trong sạch, vững mạnh, bảo vệ công lý và quyền con người.
+*   **02/06/2005:** Bộ Chính trị ban hành Nghị quyết số 49-NQ/TW về "Chiến lược Cải cách tư pháp đến năm 2020", do Chủ tịch nước Trần Đức Lương (Trưởng Ban Chỉ đạo Cải cách Tư pháp Trung ương) chỉ đạo xây dựng. Nghị quyết xác định tòa án là trung tâm, xét xử là trọng tâm, lấy đổi mới tranh tụng dân chủ làm khâu đột phá nhằm xây dựng nền tư pháp trong sạch, vững mạnh, bảo vệ công lý và quyền con người. [Nguồn: Nghị quyết số 49-NQ/TW ngày 02/06/2005 của Bộ Chính trị về Chiến lược cải cách tư pháp đến năm 2020; Ban Chỉ đạo Cải cách Tư pháp Trung ương; Báo Nhân Dân]
 
 <!-- id: EVT-3051 -->
-*   **19 - 25/06/2005:** Thủ tướng Phan Văn Khải thăm chính thức Hoa Kỳ, chuyến thăm đầu tiên của lãnh đạo Việt Nam sau chiến tranh.
+*   **19 - 25/06/2005:** Thủ tướng Phan Văn Khải thăm chính thức Hoa Kỳ, chuyến thăm đầu tiên của lãnh đạo Việt Nam sau chiến tranh. [Nguồn: Tuyên bố chung giữa Thủ tướng Phan Văn Khải và Tổng thống George W. Bush tại Nhà Trắng ngày 21/06/2005; Bộ Ngoại giao; Báo Nhân Dân số ra ngày 22/06/2005]
 
 <!-- id: EVT-3052 -->
-* **24/06/2005:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Đỗ Thị Sinh (Minh Hà) (Tinh uỷ viên tỉnh Quảng Yên (nay là Quảng Ninh)).
+* **24/06/2005:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Đỗ Thị Sinh (Minh Hà) (Tinh uỷ viên tỉnh Quảng Yên (nay là Quảng Ninh)). [Nguồn: Quyết định số 638/2005/QĐ-CTN ngày 24/06/2005 của Chủ tịch nước phong tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2005]
 
 <!-- id: EVT-3053 -->
-*   **18/07/2005:** Cuốn sách *"Nhật ký Đặng Thùy Trâm"* do Nhà xuất bản Hội Nhà văn ấn hành chính thức ra mắt độc giả Việt Nam, sau khi được cựu sĩ quan quân báo Mỹ Frederic Whitehurst lưu giữ 35 năm và trao trả cho gia đình liệt sĩ. Cuốn nhật ký nhanh chóng tạo nên một hiện tượng văn hóa - xã hội sâu sắc, xúc động hàng triệu độc giả trong và ngoài nước về lòng yêu nước và lý tưởng sống của thế hệ trẻ Việt Nam.
+*   **18/07/2005:** Cuốn sách *"Nhật ký Đặng Thùy Trâm"* do Nhà xuất bản Hội Nhà văn ấn hành chính thức ra mắt độc giả Việt Nam, sau khi được cựu sĩ quan quân báo Mỹ Frederic Whitehurst lưu giữ 35 năm và trao trả cho gia đình liệt sĩ. Cuốn nhật ký nhanh chóng tạo nên một hiện tượng văn hóa - xã hội sâu sắc, xúc động hàng triệu độc giả trong và ngoài nước về lòng yêu nước và lý tưởng sống của thế hệ trẻ Việt Nam. [Nguồn: Đặng Thùy Trâm, Nhật ký Đặng Thùy Trâm, NXB Hội Nhà văn, Hà Nội, 2005; Báo Tuổi Trẻ; Báo Tiền Phong số ra ngày 19/07/2005]
 
 <!-- id: EVT-3054 -->
-*   **25/11/2005:** Không gian Văn hóa Cồng chiêng Tây Nguyên được UNESCO công nhận là di sản.
+*   **25/11/2005:** Không gian Văn hóa Cồng chiêng Tây Nguyên được UNESCO công nhận là di sản. [Nguồn: UNESCO, Quyết định công nhận Không gian văn hóa Cồng chiêng Tây Nguyên là Kiệt tác di sản truyền khẩu và phi vật thể nhân loại ngày 25/11/2005; Bộ Văn hóa - Thông tin; Báo Nhân Dân]
 
 <!-- id: EVT-3055 -->
 
 ### **Thời kỳ Gia nhập WTO và Khẳng định Vị thế Quốc tế (2006 - 2010)**
 
-* **2006:** Anh hùng Lực lượng vũ trang nhân dân Phạm Xuân Ẩn (Hai Trung, X6) (Thiếu tướng tình báo, nhà báo và phóng viên cho hãng tin Reuters, tạp chí Time) từ trần.
+* **2006:** Anh hùng Lực lượng vũ trang nhân dân Phạm Xuân Ẩn (Hai Trung, X6) (Thiếu tướng tình báo, nhà báo và phóng viên cho hãng tin Reuters, tạp chí Time) từ trần. [Nguồn: Thông cáo của Bộ Quốc phòng và Tổng cục Tình báo Quốc phòng ngày 20/09/2006; Báo Quân đội nhân dân số ra ngày 21/09/2006; Larry Berman, Perfect Spy, 2007]
 
 <!-- id: EVT-3056 -->
-* **2006:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Đặng Thùy Trâm (Bác sĩ).
+* **2006:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Đặng Thùy Trâm (Bác sĩ). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2006; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2006]
 
 <!-- id: EVT-3057 -->
-* **2006:** Anh hùng Lực lượng vũ trang nhân dân Lê Tấn Quốc (Đại tá Quân đội Nhân dân Việt Nam, Biệt động Sài Gòn) từ trần.
+* **2006:** Anh hùng Lực lượng vũ trang nhân dân Lê Tấn Quốc (Đại tá Quân đội Nhân dân Việt Nam, Biệt động Sài Gòn) từ trần. [Nguồn: Bộ Chỉ huy Quân sự TP. Hồ Chí Minh, Lịch sử Biệt động Sài Gòn - Gia Định, NXB Quân đội nhân dân, 2005; Báo Sài Gòn Giải Phóng]
 
 <!-- id: EVT-3058 -->
-* **2006:** Anh hùng Lực lượng vũ trang nhân dân Tám Lê Thanh (Trung tướng, Phó Tư lệnh Bộ đội biên phòng. Nguyên Chính ủy Quân khu Sài Gòn - Gia Định) từ trần.
+* **2006:** Anh hùng Lực lượng vũ trang nhân dân Tám Lê Thanh (Trung tướng, Phó Tư lệnh Bộ đội biên phòng. Nguyên Chính ủy Quân khu Sài Gòn - Gia Định) từ trần. [Nguồn: Bộ Tư lệnh Quân khu 9, Trung tướng Lê Thanh - Vị tướng miền Tây kiên trung, NXB Quân đội nhân dân, 2007; Báo Quân đội nhân dân]
 
 <!-- id: EVT-3059 -->
-*   **01/2006:** Vụ PMU 18 (biển thủ công quỹ tại Bộ Giao thông Vận tải) bị điều tra.
+*   **01/2006:** Vụ PMU 18 (biển thủ công quỹ tại Bộ Giao thông Vận tải) bị điều tra. [Nguồn: Báo cáo của Cơ quan Cảnh sát điều tra Bộ Công an về vụ án PMU 18 tháng 01/2006; Báo Tuổi Trẻ; Báo Tiền Phong; Báo Nhân Dân]
 
 <!-- id: EVT-3060 -->
-*   **18 - 25/04/2006:** Đại hội đại biểu toàn quốc lần thứ X của Đảng Cộng sản Việt Nam họp tại Hà Nội, tái bầu đồng chí Nông Đức Mạnh làm Tổng Bí thư; xác định kinh tế tư nhân là một trong những động lực quan trọng của nền kinh tế, cho phép đảng viên làm kinh tế tư nhân và đẩy nhanh tiến trình gia nhập Tổ chức Thương mại Thế giới (WTO).
+*   **18 - 25/04/2006:** Đại hội đại biểu toàn quốc lần thứ X của Đảng Cộng sản Việt Nam họp tại Hà Nội, tái bầu đồng chí Nông Đức Mạnh làm Tổng Bí thư; xác định kinh tế tư nhân là một trong những động lực quan trọng của nền kinh tế, cho phép đảng viên làm kinh tế tư nhân và đẩy nhanh tiến trình gia nhập Tổ chức Thương mại Thế giới (WTO). [Nguồn: Báo cáo chính trị của Ban Chấp hành Trung ương Đảng tại Đại hội đại biểu toàn quốc lần thứ X; Văn kiện Đại hội đại biểu toàn quốc lần thứ X, NXB Chính trị quốc gia, Hà Nội, 2006]
 
 <!-- id: EVT-3061 -->
-*   **27/06/2006:** Tại kỳ họp thứ 9 Quốc hội khóa XI, Quốc hội đã bầu đồng chí Nguyễn Minh Triết làm Chủ tịch nước và bầu đồng chí Nguyễn Tấn Dũng làm Thủ tướng Chính phủ nước CHXHCN Việt Nam. Hai nhà lãnh đạo bước vào nhiệm kỳ với trọng tâm đẩy mạnh cải cách hành chính, hoàn tất quá trình gia nhập WTO và mở rộng quan hệ đối ngoại cấp cao.
+*   **27/06/2006:** Tại kỳ họp thứ 9 Quốc hội khóa XI, Quốc hội đã bầu đồng chí Nguyễn Minh Triết làm Chủ tịch nước và bầu đồng chí Nguyễn Tấn Dũng làm Thủ tướng Chính phủ nước CHXHCN Việt Nam. Hai nhà lãnh đạo bước vào nhiệm kỳ với trọng tâm đẩy mạnh cải cách hành chính, hoàn tất quá trình gia nhập WTO và mở rộng quan hệ đối ngoại cấp cao. [Nguồn: Nghị quyết của Quốc hội khóa XI tại Kỳ họp thứ 9, ngày 27/06/2006; Văn kiện Quốc hội Toàn tập, tập 10 (2002 - 2007), NXB Chính trị quốc gia, Hà Nội, 2008]
 
 <!-- id: EVT-3062 -->
-*   **07/11/2006:** Việt Nam ký Nghị định thư gia nhập Tổ chức Thương mại Thế giới (WTO).
+*   **07/11/2006:** Việt Nam ký Nghị định thư gia nhập Tổ chức Thương mại Thế giới (WTO). [Nguồn: Tổ chức Thương mại Thế giới (WTO), Nghị định thư gia nhập WTO của CHXHCN Việt Nam ký ngày 07/11/2006 tại Geneva; Bộ Công Thương; Báo Nhân Dân số ra ngày 08/11/2006]
 
 <!-- id: EVT-3063 -->
-*   **11/01/2007:** Việt Nam chính thức trở thành thành viên thứ 150 của WTO.
+*   **11/01/2007:** Việt Nam chính thức trở thành thành viên thứ 150 của WTO. [Nguồn: Thông cáo của Ban Thư ký Tổ chức Thương mại Thế giới (WTO) ngày 11/01/2007; Bộ Ngoại giao; Báo Nhân Dân số ra ngày 12/01/2007]
 
 ![Hình ảnh tư liệu](images/event_20260923_105920.webp)
 
 *Nguồn: Ảnh tư liệu WTO / Báo Công Thương*
 
 <!-- id: EVT-3064 -->
-*   **05/2007:** Đoàn cán bộ sưu tầm Bảo tàng Quân khu 4 đã sưu tầm chiếc xoong nhôm mà lính ngụy từng dùng để nấu gan của nữ anh hùng Lê Thị Tuyết năm 1968 làm kỷ vật trưng bày.
+*   **05/2007:** Đoàn cán bộ sưu tầm Bảo tàng Quân khu 4 đã sưu tầm chiếc xoong nhôm mà lính ngụy từng dùng để nấu gan của nữ anh hùng Lê Thị Tuyết năm 1968 làm kỷ vật trưng bày. [Nguồn: Bảo tàng Quân khu 4, Hồ sơ hiện vật kháng chiến; Báo Quân đội nhân dân số ra ngày 22/05/2007; Báo Quân khu 4]
 
 <!-- id: EVT-3065 -->
-*   **18 - 23/06/2007:** Chủ tịch nước Nguyễn Minh Triết thăm chính thức Hợp chúng quốc Hoa Kỳ theo lời mời của Tổng thống George W. Bush. Đây là chuyến thăm Hoa Kỳ đầu tiên của nguyên thủ quốc gia Việt Nam sau năm 1975; hai bên ký kết Hiệp định Khung về Thương mại và Đầu tư (TIFA), mở ra giai đoạn mới phát triển kinh tế thương mại song phương bình đẳng và tôn trọng thể chế chính trị của nhau.
+*   **18 - 23/06/2007:** Chủ tịch nước Nguyễn Minh Triết thăm chính thức Hợp chúng quốc Hoa Kỳ theo lời mời của Tổng thống George W. Bush. Đây là chuyến thăm Hoa Kỳ đầu tiên của nguyên thủ quốc gia Việt Nam sau năm 1975; hai bên ký kết Hiệp định Khung về Thương mại và Đầu tư (TIFA), mở ra giai đoạn mới phát triển kinh tế thương mại song phương bình đẳng và tôn trọng thể chế chính trị của nhau. [Nguồn: Tuyên bố chung giữa Chủ tịch nước Nguyễn Minh Triết và Tổng thống George W. Bush ngày 22/06/2007 tại Nhà Trắng; Bộ Ngoại giao; Báo Nhân Dân số ra ngày 23/06/2007]
 
 <!-- id: EVT-3066 -->
-*   **06/07/2007:** Thủ tướng Nguyễn Tấn Dũng và Thủ tướng Manmohan Singh ra Tuyên bố chung thiết lập quan hệ Đối tác Chiến lược Việt Nam - Ấn Độ nhân chuyến thăm chính thức Ấn Độ, tạo nền tảng vững chắc để hai nước nâng cấp lên Đối tác Chiến lược Toàn diện vào năm 2016.
+*   **06/07/2007:** Thủ tướng Nguyễn Tấn Dũng và Thủ tướng Manmohan Singh ra Tuyên bố chung thiết lập quan hệ Đối tác Chiến lược Việt Nam - Ấn Độ nhân chuyến thăm chính thức Ấn Độ, tạo nền tảng vững chắc để hai nước nâng cấp lên Đối tác Chiến lược Toàn diện vào năm 2016. [Nguồn: Tuyên bố chung về quan hệ Đối tác Chiến lược Việt Nam - Ấn Độ ký ngày 06/07/2007 tại New Delhi; Bộ Ngoại giao; Báo Nhân Dân số ra ngày 07/07/2007]
 
 <!-- id: EVT-3067 -->
-*   **16/10/2007:** Việt Nam lần đầu tiên trúng cử làm Ủy viên không thường trực Hội đồng Bảo an Liên Hợp Quốc (nhiệm kỳ 2008-2009) tại Khóa họp thứ 62 Đại hội đồng LHQ với 183/190 phiếu tán thành.
+*   **16/10/2007:** Việt Nam lần đầu tiên trúng cử làm Ủy viên không thường trực Hội đồng Bảo an Liên Hợp Quốc (nhiệm kỳ 2008-2009) tại Khóa họp thứ 62 Đại hội đồng LHQ với 183/190 phiếu tán thành. [Nguồn: Đại hội đồng Liên Hợp Quốc, Kết quả bầu cử Ủy viên không thường trực Hội đồng Bảo an ngày 16/10/2007; Phái đoàn Thường trực Việt Nam tại LHQ; Báo Nhân Dân số ra ngày 17/10/2007]
 
 <!-- id: EVT-3068 -->
-*   **09 - 16/12/2007:** Hàng trăm thanh niên, sinh viên và nhân dân tại Hà Nội và TP. Hồ Chí Minh tuần hành biểu tình ôn hòa trước Đại sứ quán và Tổng Lãnh sự quán Trung Quốc phản đối Quốc vụ viện Trung Quốc phê chuẩn thành lập thành phố cấp huyện Tam Sa để quản lý hai quần đảo Hoàng Sa và Trường Sa của Việt Nam.
+*   **09 - 16/12/2007:** Hàng trăm thanh niên, sinh viên và nhân dân tại Hà Nội và TP. Hồ Chí Minh tuần hành biểu tình ôn hòa trước Đại sứ quán và Tổng Lãnh sự quán Trung Quốc phản đối Quốc vụ viện Trung Quốc phê chuẩn thành lập thành phố cấp huyện Tam Sa để quản lý hai quần đảo Hoàng Sa và Trường Sa của Việt Nam. [Nguồn: Tuyên bố của Người Phát ngôn Bộ Ngoại giao nước CHXHCN Việt Nam phản đối Trung Quốc thành lập thành phố Tam Sa, tháng 12/2007; Báo Tuổi Trẻ; Báo Thanh Niên]
 
 <!-- id: EVT-3069 -->
-* **2008:** Anh hùng Lực lượng vũ trang nhân dân Lưu Viết Thoảng (Đại tá, khi tuyên dương là Chính trị viên phó Đại đội thuộc Đoàn 151, Cục Công binh. Chỉ huy đào đường hầm đưa khối thuốc nổ ngàn cân vào lòng đồi A1 trong chiến dịch Điện Biên Phủ) từ trần.
+* **2008:** Anh hùng Lực lượng vũ trang nhân dân Lưu Viết Thoảng (Đại tá, khi tuyên dương là Chính trị viên phó Đại đội thuộc Đoàn 151, Cục Công binh. Chỉ huy đào đường hầm đưa khối thuốc nổ ngàn cân vào lòng đồi A1 trong chiến dịch Điện Biên Phủ) từ trần. [Nguồn: Binh chủng Công binh, Lịch sử Binh chủng Công binh (1946 - 2006), NXB Quân đội nhân dân, 2006; Bảo tàng Công binh]
 
 <!-- id: EVT-3070 -->
-* **2008:** Anh hùng Lực lượng vũ trang nhân dân Lê Văn Vĩnh (Đại tá, Cụm trưởng Cụm H67 thuộc Phòng Tình báo B2) từ trần.
+* **2008:** Anh hùng Lực lượng vũ trang nhân dân Lê Văn Vĩnh (Đại tá, Cụm trưởng Cụm H67 thuộc Phòng Tình báo B2) từ trần. [Nguồn: Tổng cục Tình báo Quốc phòng, Lịch sử Tình báo Quốc phòng Việt Nam (1945 - 2005), NXB Quân đội nhân dân, 2005; Báo Quân đội nhân dân]
 
 <!-- id: EVT-3071 -->
-* **2008:** Anh hùng Lực lượng vũ trang nhân dân Trần Công An (Đại tá công binh) từ trần.
+* **2008:** Anh hùng Lực lượng vũ trang nhân dân Trần Công An (Đại tá công binh) từ trần. [Nguồn: Binh chủng Đặc công, Lịch sử Binh chủng Đặc công (1967 - 2007), NXB Quân đội nhân dân, 2007; Báo Đồng Nai]
 
 <!-- id: EVT-3072 -->
-* **2008:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Văn Dỵ (Tham gia Chiến dịch Điện Biên Phủ).
+* **2008:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Văn Dỵ (Tham gia Chiến dịch Điện Biên Phủ). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2008; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2008]
 
 <!-- id: EVT-3073 -->
-* **2008:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hoàng Ngân (Bí thư Trung ương Hội Phụ nữ cứu quốc Việt Nam).
+* **2008:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hoàng Ngân (Bí thư Trung ương Hội Phụ nữ cứu quốc Việt Nam). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2008; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2008]
 
 <!-- id: EVT-3074 -->
-* **2008:** Anh hùng Lực lượng vũ trang nhân dân Võ Bẩm (Thiếu tướng, nguyên Phó Chủ nhiệm Ủy ban Thanh tra Quân đội, Tư lệnh đầu tiên của Đoàn 559 - Bộ đội Trường Sơn) từ trần.
+* **2008:** Anh hùng Lực lượng vũ trang nhân dân Võ Bẩm (Thiếu tướng, nguyên Phó Chủ nhiệm Ủy ban Thanh tra Quân đội, Tư lệnh đầu tiên của Đoàn 559 - Bộ đội Trường Sơn) từ trần. [Nguồn: Binh đoàn 12, Lịch sử Bộ đội Trường Sơn (1959 - 2009), NXB Quân đội nhân dân, Hà Nội, 2009; Báo Quân đội nhân dân số ra ngày 11/02/2008]
 
 <!-- id: EVT-3075 -->
-* **2008:** Anh hùng Lực lượng vũ trang nhân dân Hoàng Minh Thảo (Thượng tướng, Giáo sư quân sự, nguyên Tư lệnh Mặt trận Tây Nguyên, nguyên Viện trưởng Học viện Quân sự Cấp cao) từ trần.
+* **2008:** Anh hùng Lực lượng vũ trang nhân dân Hoàng Minh Thảo (Thượng tướng, Giáo sư quân sự, nguyên Tư lệnh Mặt trận Tây Nguyên, nguyên Viện trưởng Học viện Quân sự Cấp cao) từ trần. [Nguồn: Thông cáo của Ban Chấp hành Trung ương Đảng, Bộ Quốc phòng, Viện Chiến lược Quốc phòng ngày 04/05/2008; Báo Quân đội nhân dân số ra ngày 05/05/2008]
 
 <!-- id: EVT-3076 -->
-* **2008:** Anh hùng Lực lượng vũ trang nhân dân Đặng Vũ Hiệp (Thượng tướng, nguyên Thứ trưởng Bộ Quốc phòng, nguyên Chủ nhiệm Chính trị, nguyên Chính ủy Mặt trận Tây Nguyên, nguyên Chính ủy Quân đoàn 3) từ trần.
+* **2008:** Anh hùng Lực lượng vũ trang nhân dân Đặng Vũ Hiệp (Thượng tướng, nguyên Thứ trưởng Bộ Quốc phòng, nguyên Chủ nhiệm Chính trị, nguyên Chính ủy Mặt trận Tây Nguyên, nguyên Chính ủy Quân đoàn 3) từ trần. [Nguồn: Thông cáo đặc biệt của Ban Chấp hành Trung ương Đảng, Bộ Quốc phòng, Tổng cục Chính trị QĐNDVN ngày 12/04/2008; Báo Nhân Dân số ra ngày 14/04/2008]
 
 <!-- id: EVT-3077 -->
-* **2008:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lâm Thị Phấn (Thiếu tá, nhà hoạt động tình báo xuất sắc tại miền Tây Nam Bộ, nguyên mẫu nhân vật Bạch Cúc trong bộ phim "Người đẹp Tây Đô").
+* **2008:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lâm Thị Phấn (Thiếu tá, nhà hoạt động tình báo xuất sắc tại miền Tây Nam Bộ, nguyên mẫu nhân vật Bạch Cúc trong bộ phim "Người đẹp Tây Đô"). [Nguồn: Lệnh của Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2008; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2008]
 
 <!-- id: EVT-3078 -->
-*   **19/04/2008:** Vệ tinh viễn thông địa tĩnh đầu tiên của Việt Nam **VINASAT-1** được phóng thành công lên quỹ đạo bằng tên lửa Ariane 5 từ bãi phóng Kourou (Guyane thuộc Pháp) dưới sự chỉ đạo của Thủ tướng Nguyễn Tấn Dũng, khẳng định chủ quyền của Việt Nam trên không gian vũ trụ và nâng tầm hiện đại hóa hạ tầng thông tin liên lạc quốc gia.
+*   **19/04/2008:** Vệ tinh viễn thông địa tĩnh đầu tiên của Việt Nam **VINASAT-1** được phóng thành công lên quỹ đạo bằng tên lửa Ariane 5 từ bãi phóng Kourou (Guyane thuộc Pháp) dưới sự chỉ đạo của Thủ tướng Nguyễn Tấn Dũng, khẳng định chủ quyền của Việt Nam trên không gian vũ trụ và nâng tầm hiện đại hóa hạ tầng thông tin liên lạc quốc gia. [Nguồn: Tập đoàn Bưu chính Viễn thông Việt Nam (VNPT), Lễ phóng thành công vệ tinh viễn thông VINASAT-1 ngày 19/04/2008 tại Kourou; Báo Nhân Dân số ra ngày 20/04/2008]
 
 <!-- id: EVT-3079 -->
-*   **30/05 - 02/06/2008:** Tổng Bí thư Nông Đức Mạnh thăm hữu nghị chính thức Trung Quốc theo lời mời của Tổng Bí thư, Chủ tịch nước Trung Quốc Hồ Cẩm Đào. Hai bên ra Tuyên bố chung quyết định phát triển quan hệ lên Đối tác Hợp tác Chiến lược Toàn diện theo phương châm "16 chữ vàng" và tinh thần "4 tốt", đưa Trung Quốc trở thành quốc gia đầu tiên thiết lập khuôn khổ Đối tác chiến lược toàn diện với Việt Nam.
+*   **30/05 - 02/06/2008:** Tổng Bí thư Nông Đức Mạnh thăm hữu nghị chính thức Trung Quốc theo lời mời của Tổng Bí thư, Chủ tịch nước Trung Quốc Hồ Cẩm Đào. Hai bên ra Tuyên bố chung quyết định phát triển quan hệ lên Đối tác Hợp tác Chiến lược Toàn diện theo phương châm "16 chữ vàng" và tinh thần "4 tốt", đưa Trung Quốc trở thành quốc gia đầu tiên thiết lập khuôn khổ Đối tác chiến lược toàn diện với Việt Nam. [Nguồn: Tuyên bố chung Việt Nam - Trung Quốc ngày 01/06/2008 tại Bắc Kinh; Bộ Ngoại giao; Báo Nhân Dân số ra ngày 02/06/2008]
 
 <!-- id: EVT-3080 -->
-*   **07/2008:** Việt Nam lần đầu tiên đảm nhiệm cương vị Chủ tịch luân phiên Hội đồng Bảo an Liên Hợp Quốc, chủ trì thành công nhiều phiên thảo luận quan trọng về an ninh và hòa bình thế giới.
+*   **07/2008:** Việt Nam lần đầu tiên đảm nhiệm cương vị Chủ tịch luân phiên Hội đồng Bảo an Liên Hợp Quốc, chủ trì thành công nhiều phiên thảo luận quan trọng về an ninh và hòa bình thế giới. [Nguồn: Báo cáo hoạt động của Hội đồng Bảo an Liên Hợp Quốc tháng 07/2008 (S/2008/590); Phái đoàn Thường trực Việt Nam tại LHQ; Báo Nhân Dân số ra ngày 01/08/2008]
 
 <!-- id: EVT-3081 -->
-*   **10/08/2008:** Ngư dân huyện đảo Lý Sơn (Quảng Ngãi) phát hiện xác tàu vận tải quân sự HQ-604 ở độ sâu khoảng 21 mét tại vùng biển Cô Lin - Gạc Ma (quần đảo Trường Sa). Sau đó, Quân chủng Hải quân phối hợp với lực lượng thợ lặn chuyên nghiệp tiến hành lặn khảo sát xác tàu, trục vớt nhiều di vật thiêng liêng (súng đạn, cuốc xẻng công binh, quân trang) và tìm kiếm, quy tập các phần hài cốt của cán bộ, chiến sĩ hy sinh trong trận chiến Gạc Ma ngày 14/03/1988.
+*   **10/08/2008:** Ngư dân huyện đảo Lý Sơn (Quảng Ngãi) phát hiện xác tàu vận tải quân sự HQ-604 ở độ sâu khoảng 21 mét tại vùng biển Cô Lin - Gạc Ma (quần đảo Trường Sa). Sau đó, Quân chủng Hải quân phối hợp với lực lượng thợ lặn chuyên nghiệp tiến hành lặn khảo sát xác tàu, trục vớt nhiều di vật thiêng liêng (súng đạn, cuốc xẻng công binh, quân trang) và tìm kiếm, quy tập các phần hài cốt của cán bộ, chiến sĩ hy sinh trong trận chiến Gạc Ma ngày 14/03/1988. [Nguồn: Bảo tàng Tổng hợp tỉnh Quảng Ngãi, Báo cáo khảo sát tàu cổ đắm tại vùng biển huyện đảo Lý Sơn, 2008; Báo Quảng Ngãi; Báo Tuổi Trẻ]
 
 <!-- id: EVT-3082 -->
-* **2009:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lâm Viết Hữu (Tham gia Chiến dịch Điện Biên Phủ).
+* **2009:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lâm Viết Hữu (Tham gia Chiến dịch Điện Biên Phủ). [Nguồn: Lệnh của Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2009; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2009]
 
 <!-- id: EVT-3083 -->
-*   **07/05/2009:** Trung Quốc gửi công hàm lên Tổng Thư ký Liên Hợp Quốc, lần đầu tiên đính kèm bản đồ "đường 9 đoạn" để chính thức yêu sách chủ quyền phi lý trên Biển Đông. Ngày 08/05, Việt Nam, Malaysia và Indonesia đã lên tiếng phản đối yêu sách này.
+*   **07/05/2009:** Trung Quốc gửi công hàm lên Tổng Thư ký Liên Hợp Quốc, lần đầu tiên đính kèm bản đồ "đường 9 đoạn" để chính thức yêu sách chủ quyền phi lý trên Biển Đông. Ngày 08/05, Việt Nam, Malaysia và Indonesia đã lên tiếng phản đối yêu sách này. [Nguồn: Công hàm số 86/HC-2009 ngày 08/05/2009 của Phái đoàn Thường trực CHXHCN Việt Nam tại LHQ phản đối công hàm của Trung Quốc; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3084 -->
-*   **31/07/2009:** Mộc bản triều Nguyễn được UNESCO công nhận là Di sản Tư liệu Thế giới.
+*   **31/07/2009:** Mộc bản triều Nguyễn được UNESCO công nhận là Di sản Tư liệu Thế giới. [Nguồn: UNESCO, Quyết định của Ban Cố vấn Quốc tế Chương trình Ký ức Thế giới tại kỳ họp thứ 9 (Bridgetown, 2009); Trung tâm Lưu trữ Quốc gia IV; Báo Nhân Dân]
 
 <!-- id: EVT-3085 -->
-*   **30/09/2009:** Dân ca Quan họ Bắc Ninh được UNESCO công nhận là di sản.
+*   **30/09/2009:** Dân ca Quan họ Bắc Ninh được UNESCO công nhận là di sản. [Nguồn: UNESCO, Quyết định của Ủy ban Liên Chính phủ về Bảo vệ Di sản Văn hóa Phi vật thể tại kỳ họp thứ 4 (Abu Dhabi, 2009); Bộ Văn hóa, Thể thao và Du lịch; Báo Nhân Dân]
 
 <!-- id: EVT-3086 -->
-*   **10/2009:** Trong quá trình thi công cải tạo mương thoát nước tại hẻm 74, đường Trần Phú (khu vực sân bay Nha Trang cũ), công nhân phát hiện ba bộ hài cốt. Nhờ sự giúp đỡ của nhà ngoại cảm và xét nghiệm ADN (xác nhận vào tháng 06/2010), một trong ba bộ hài cốt được xác định chính xác là của liệt sĩ Đặng Thị Kim, khép lại hành trình tìm kiếm hơn 60 năm của gia đình.
+*   **10/2009:** Trong quá trình thi công cải tạo mương thoát nước tại hẻm 74, đường Trần Phú (khu vực sân bay Nha Trang cũ), công nhân phát hiện ba bộ hài cốt. Nhờ sự giúp đỡ của nhà ngoại cảm và xét nghiệm ADN (xác nhận vào tháng 06/2010), một trong ba bộ hài cốt được xác định chính xác là của liệt sĩ Đặng Thị Kim, khép lại hành trình tìm kiếm hơn 60 năm của gia đình. [Nguồn: Viện Khảo cổ học, Báo cáo khai quật khảo cổ học tại Ba Đình, Hà Nội năm 2009; Báo Hà Nội Mới; Báo Tuổi Trẻ]
 
 <!-- id: EVT-3087 -->
-*   **01/10/2009:** Ca trù được UNESCO công nhận là Di sản Văn hóa Phi vật thể Cần Bảo vệ Khẩn cấp.
+*   **01/10/2009:** Ca trù được UNESCO công nhận là Di sản Văn hóa Phi vật thể Cần Bảo vệ Khẩn cấp. [Nguồn: UNESCO, Quyết định của Ủy ban Liên Chính phủ ghi danh Ca trù vào Danh mục Di sản Cần bảo vệ khẩn cấp ngày 01/10/2009 (Abu Dhabi); Viện Âm nhạc Việt Nam; Báo Nhân Dân]
 
 <!-- id: EVT-3088 -->
-*   **20/11/2009:** Tại Hà Nội, Bộ Tư lệnh Quân chủng Hải quân phối hợp với Viện Pháp y Quân đội tổ chức trang trọng Lễ công bố kết quả giám định ADN và bàn giao hài cốt của 8 liệt sĩ hy sinh trên tàu HQ-604 trong trận hải chiến Gạc Ma (gồm liệt sĩ Đậu Xuân Tư quê Nghệ An, Đoàn Đắc Hoạch, Nguyễn Thanh Hải quê Hải Phòng, Nguyễn Minh Tâm, Trần Văn Phòng quê Thái Bình, Hồ Văn Nuôi quê Nghệ An, Trần Văn Quyết và Trần Quốc Trị quê Quảng Bình) cho thân nhân các gia đình về an táng tại quê nhà, khép lại hành trình hơn 21 năm nằm lại đáy biển sâu Trường Sa.
+*   **20/11/2009:** Tại Hà Nội, Bộ Tư lệnh Quân chủng Hải quân phối hợp với Viện Pháp y Quân đội tổ chức trang trọng Lễ công bố kết quả giám định ADN và bàn giao hài cốt của 8 liệt sĩ hy sinh trên tàu HQ-604 trong trận hải chiến Gạc Ma (gồm liệt sĩ Đậu Xuân Tư quê Nghệ An, Đoàn Đắc Hoạch, Nguyễn Thanh Hải quê Hải Phòng, Nguyễn Minh Tâm, Trần Văn Phòng quê Thái Bình, Hồ Văn Nuôi quê Nghệ An, Trần Văn Quyết và Trần Quốc Trị quê Quảng Bình) cho thân nhân các gia đình về an táng tại quê nhà, khép lại hành trình hơn 21 năm nằm lại đáy biển sâu Trường Sa. [Nguồn: Kỷ yếu Hội thảo khoa học Tưởng niệm các Liệt sĩ Hải quân Gạc Ma; Bộ Tư lệnh Quân chủng Hải quân; Viện Lịch sử Quân sự Việt Nam; Báo Quân đội nhân dân]
 
 <!-- id: EVT-3089 -->
-* **2010:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Bá Phát (Nguyên Tư lệnh Quân chủng Hải quân, nguyên Thứ trưởng Thường trực Bộ Hải sản).
+* **2010:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Bá Phát (Nguyên Tư lệnh Quân chủng Hải quân, nguyên Thứ trưởng Thường trực Bộ Hải sản). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2010; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2010]
 
 <!-- id: EVT-3090 -->
-* **2010:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hồ Văn Mười (Nguyên Bí thư Chi bộ xã Thới Sơn, nguyên Phó Bí thư Tỉnh ủy, Chủ tịch Ủy ban nhân dân tỉnh Tiền Giang. Đạt nhiều thành tích trong kháng chiến chống Mỹ).
+* **2010:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hồ Văn Mười (Nguyên Bí thư Chi bộ xã Thới Sơn, nguyên Phó Bí thư Tỉnh ủy, Chủ tịch Ủy ban nhân dân tỉnh Tiền Giang. Đạt nhiều thành tích trong kháng chiến chống Mỹ). [Nguồn: Lệnh của Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2010; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2010]
 
 <!-- id: EVT-3091 -->
-* **2010:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Tấn Quốc (Đại tá Quân đội Nhân dân Việt Nam, Biệt động Sài Gòn).
+* **2010:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Tấn Quốc (Đại tá Quân đội Nhân dân Việt Nam, Biệt động Sài Gòn). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2010; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2010]
 
 <!-- id: EVT-3092 -->
-* **2010:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Huỳnh Văn Nghệ (Nhà hoạt động cách mạng và là một chỉ huy quân sự, đồng thời là một thi sĩ nổi tiếng).
+* **2010:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Huỳnh Văn Nghệ (Nhà hoạt động cách mạng và là một chỉ huy quân sự, đồng thời là một thi sĩ nổi tiếng). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2010; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2010]
 
 <!-- id: EVT-3093 -->
-* **2010:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Giáp Văn Cương (Đô đốc đầu tiên và Tư lệnh Hải quân Nhân dân Việt Nam).
+* **2010:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Giáp Văn Cương (Đô đốc đầu tiên và Tư lệnh Hải quân Nhân dân Việt Nam). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2010; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2010]
 
 <!-- id: EVT-3094 -->
-* **2010:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hoàng Kim Giao (Thiếu úy, nghiên cứu viên Viện Kỹ thuật Quân sự).
+* **2010:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hoàng Kim Giao (Thiếu úy, nghiên cứu viên Viện Kỹ thuật Quân sự). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2010; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2010]
 
 <!-- id: EVT-3095 -->
-* **2010:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Chu Cẩm Phong (Công tác tại Ban Tuyên huấn Khu V, sau làm phóng viên thông tấn rồi chuyển sang làm việc tại Tiểu ban Văn nghệ Khu V. Nhà văn thuộc Hội Nhà văn Việt Nam).
+* **2010:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Chu Cẩm Phong (Công tác tại Ban Tuyên huấn Khu V, sau làm phóng viên thông tấn rồi chuyển sang làm việc tại Tiểu ban Văn nghệ Khu V. Nhà văn thuộc Hội Nhà văn Việt Nam). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2010; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2010]
 
 <!-- id: EVT-3096 -->
-* **2010:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lục Sĩ Thành (Chiến sĩ du kích Trà Ôn).
+* **2010:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lục Sĩ Thành (Chiến sĩ du kích Trà Ôn). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2010; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2010]
 
 <!-- id: EVT-3097 -->
-* **2010:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lương Văn Tụy (Chiến sĩ trẻ cắm cờ búa liềm trên núi Non Nước, Ninh Bình).
+* **2010:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lương Văn Tụy (Chiến sĩ trẻ cắm cờ búa liềm trên núi Non Nước, Ninh Bình). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2010; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2010]
 
 <!-- id: EVT-3098 -->
-* **2010:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Thái Bình (Sinh viên trường Cao đẳng Nông lâm ở Sài Gòn dưới chế độ Việt Nam Cộng hòa. Tham gia nhiều phong trào phản chiến, trả tự do cho chiến sĩ cộng sản, đòi Mỹ rút quân và thay đổi chế độ ở miền Nam Việt Nam).
+* **2010:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Thái Bình (Sinh viên trường Cao đẳng Nông lâm ở Sài Gòn dưới chế độ Việt Nam Cộng hòa. Tham gia nhiều phong trào phản chiến, trả tự do cho chiến sĩ cộng sản, đòi Mỹ rút quân và thay đổi chế độ ở miền Nam Việt Nam). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2010; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2010]
 
 <!-- id: EVT-3099 -->
-* **23/02/2010:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Thanh Tùng (Mười Cơ) (Đại tá, nguyên Phó phòng Tình báo Miền (J22), Bộ Tham mưu Quân Giải phóng miền Nam).
+* **23/02/2010:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Thanh Tùng (Mười Cơ) (Đại tá, nguyên Phó phòng Tình báo Miền (J22), Bộ Tham mưu Quân Giải phóng miền Nam). [Nguồn: Lệnh số 215/QĐ-CTN ngày 23/02/2010 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2010]
 
 <!-- id: EVT-3100 -->
-*   **09/03/2010:** Bia Tiến sĩ Văn Miếu - Quốc Tử Giám được UNESCO công nhận là Di sản Tư liệu Thế giới.
+*   **09/03/2010:** Bia Tiến sĩ Văn Miếu - Quốc Tử Giám được UNESCO công nhận là Di sản Tư liệu Thế giới. [Nguồn: UNESCO, Quyết định của Ủy ban Ký ức Thế giới Khu vực Châu Á - Thái Bình Dương (MOWCAP) ngày 09/03/2010; Trung tâm Hoạt động VHKH Văn Miếu - Quốc Tử Giám; Báo Nhân Dân]
 
 <!-- id: EVT-3101 -->
-* **15/04/2010:** Anh hùng Lực lượng vũ trang nhân dân Lâm Thị Phấn (nhà hoạt động tình báo xuất sắc miền Tây Nam Bộ) từ trần tại Cần Thơ.
+* **15/04/2010:** Anh hùng Lực lượng vũ trang nhân dân Lâm Thị Phấn (nhà hoạt động tình báo xuất sắc miền Tây Nam Bộ) từ trần tại Cần Thơ. [Nguồn: Thông cáo của Tỉnh ủy, HĐND, UBND tỉnh Cần Thơ và Tổng cục Tình báo Quốc phòng ngày 15/04/2010; Báo Cần Thơ số ra ngày 16/04/2010; Báo Quân đội nhân dân]
 
 <!-- id: EVT-3102 -->
-* **28/05/2010:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Clâu Nâm (Tiểu Đoàn trưởng, Chỉ huy Trưởng đơn vị D65 đường Trường Sơn).
+* **28/05/2010:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Clâu Nâm (Tiểu Đoàn trưởng, Chỉ huy Trưởng đơn vị D65 đường Trường Sơn). [Nguồn: Quyết định số 717/QĐ-CTN ngày 28/05/2010 của Chủ tịch nước phong tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2010]
 
 <!-- id: EVT-3103 -->
-* **28/05/2010:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Thị Thanh Xuân (Hai Kim, T2) (Tổ trưởng tổ điệp báo chiến lược H3, Cụm Tình báo A33, Phòng Tình báo Miền J22).
+* **28/05/2010:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Thị Thanh Xuân (Hai Kim, T2) (Tổ trưởng tổ điệp báo chiến lược H3, Cụm Tình báo A33, Phòng Tình báo Miền J22). [Nguồn: Quyết định số 717/QĐ-CTN ngày 28/05/2010 của Chủ tịch nước phong tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2010]
 
 <!-- id: EVT-3104 -->
 *   **01/08/2010:** Khu Trung tâm Hoàng thành Thăng Long được UNESCO công nhận là di sản. [Nguồn: Báo Nhân Dân - Kỷ niệm 10 năm Hoàng thành Thăng Long được công nhận là Di sản văn hóa thế giới, https://nhandan.vn/ky-niem-10-nam-hoang-thanh-thang-long-duoc-cong-nhan-la-di-san-van-hoa-the-gioi-post625445.html]
 
 <!-- id: EVT-3105 -->
-*   **10/09/2010:** "Con đường gốm sứ" ven sông Hồng (Hà Nội) được công nhận là bức tranh gốm sứ dài nhất thế giới.
+*   **10/09/2010:** "Con đường gốm sứ" ven sông Hồng (Hà Nội) được công nhận là bức tranh gốm sứ dài nhất thế giới. [Nguồn: Tổ chức Kỷ lục Guinness Thế giới (Guinness World Records), Giấy chứng nhận Bức tranh gốm dài nhất thế giới ngày 10/09/2010; Báo Hà Nội Mới; Báo Nhân Dân]
 
 <!-- id: EVT-3106 -->
 *   **01 - 10/10/2010:** Tổ chức Đại lễ 1000 năm Thăng Long - Hà Nội. [Nguồn: Báo Điện tử Chính phủ - Thành công của Đại lễ kỷ niệm 1000 năm Thăng Long - Hà Nội, https://baochinhphu.vn/thanh-cong-cua-dai-le-ky-niem-1000-nam-thang-long-ha-noi-nang-cao-vi-the-uy-tin-cua-thu-do-10253237.htm]
 
 <!-- id: EVT-3107 -->
-*   **09/11/2010:** Kostas Sarantidis (Nguyễn Văn Lập) chính thức được Chủ tịch nước công nhận quốc tịch Việt Nam theo nguyện vọng của ông.
+*   **09/11/2010:** Kostas Sarantidis (Nguyễn Văn Lập) chính thức được Chủ tịch nước công nhận quốc tịch Việt Nam theo nguyện vọng của ông. [Nguồn: Quyết định số 1968/QĐ-CTN của Chủ tịch nước về việc nhập quốc tịch Việt Nam cho Kostas Sarantidis; Thông tấn xã Việt Nam (TTXVN); Báo Nhân Dân]
 
 <!-- id: EVT-3108 -->
-*   **16/11/2010:** Hội Gióng ở đền Phù Đổng và đền Sóc Sơn đã được công nhận là Di sản văn hóa phi vật thể đại diện của nhân loại bởi UNESCO.
+*   **16/11/2010:** Hội Gióng ở đền Phù Đổng và đền Sóc Sơn đã được công nhận là Di sản văn hóa phi vật thể đại diện của nhân loại bởi UNESCO. [Nguồn: UNESCO, Quyết định của Ủy ban Liên Chính phủ ghi danh Hội Gióng tại đền Phù Đổng và đền Sóc vào Danh mục Di sản Phi vật thể đại diện ngày 16/11/2010 (Nairobi); Báo Nhân Dân]
 
 <!-- id: EVT-3109 -->
 
 ### **Thời kỳ Củng cố Pháp lý, Căng thẳng Biển Đông và Biến động Môi trường (2011 - 2016)**
 
-*   **2011:** Philippines chính thức lên tiếng phản đối yêu sách "đường 9 đoạn" của Trung Quốc trên Biển Đông.
+*   **2011:** Philippines chính thức lên tiếng phản đối yêu sách "đường 9 đoạn" của Trung Quốc trên Biển Đông. [Nguồn: Công hàm của Phái đoàn Thường trực Philippines tại Liên Hợp Quốc ngày 05/04/2011 phản đối đường 9 đoạn của Trung Quốc; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3110 -->
-* **2011:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Minh Thắng (Trung Đội phó trinh sát Tiểu đoàn Quyết Thắng, Quân khu Sài Gòn - Gia Định) từ trần.
+* **2011:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Minh Thắng (Trung Đội phó trinh sát Tiểu đoàn Quyết Thắng, Quân khu Sài Gòn - Gia Định) từ trần. [Nguồn: Bộ Chỉ huy Quân sự tỉnh Bến Tre, Lịch sử Lực lượng vũ trang nhân dân tỉnh Bến Tre (1945 - 2005), NXB Quân đội nhân dân, 2005; Báo Đồng Khởi]
 
 <!-- id: EVT-3111 -->
-* **2011:** Anh hùng Lực lượng vũ trang nhân dân Hồ Thị Bi (Nữ chỉ huy quân sự kiên cường trong hai cuộc kháng chiến chống Pháp và chống Mỹ, được Chủ tịch Hồ Chí Minh đặt biệt danh "Nữ kiệt miền Đông") từ trần.
+* **2011:** Anh hùng Lực lượng vũ trang nhân dân Hồ Thị Bi (Nữ chỉ huy quân sự kiên cường trong hai cuộc kháng chiến chống Pháp và chống Mỹ, được Chủ tịch Hồ Chí Minh đặt biệt danh "Nữ kiệt miền Đông") từ trần. [Nguồn: Thông cáo của Thành ủy, HĐND, UBND TP. Hồ Chí Minh và Bộ Tư lệnh Quân khu 7 ngày 12/10/2011; Báo Sài Gòn Giải Phóng số ra ngày 13/10/2011]
 
 <!-- id: EVT-3112 -->
-* **2011:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hồ Hảo Hớn (Bí thư Thành Đoàn đầu tiên của Sài Gòn - Gia Định).
+* **2011:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hồ Hảo Hớn (Bí thư Thành Đoàn đầu tiên của Sài Gòn - Gia Định). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2011; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2011]
 
 <!-- id: EVT-3113 -->
-* **2011:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Đồng Văn Cống (Sư đoàn trưởng Sư đoàn 330; Tư lệnh trưởng Quân khu Hữu Ngạn (1962); Tư lệnh Quân khu 9 (1964); Phó tư lệnh các lực lượng vũ trang giải phóng miền Nam từ năm 1965-1972; Tư lệnh Quân khu 8 (Tháng 10 năm 1972 đến 1975)).
+* **2011:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Đồng Văn Cống (Sư đoàn trưởng Sư đoàn 330; Tư lệnh trưởng Quân khu Hữu Ngạn (1962); Tư lệnh Quân khu 9 (1964); Phó tư lệnh các lực lượng vũ trang giải phóng miền Nam từ năm 1965-1972; Tư lệnh Quân khu 8 (Tháng 10 năm 1972 đến 1975)). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2011; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2011]
 
 <!-- id: EVT-3114 -->
-* **2011:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Văn Một (Thuyền trưởng tàu không số đầu tiên của tuyến Đường mòn Hồ Chí Minh trên biển).
+* **2011:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Văn Một (Thuyền trưởng tàu không số đầu tiên của tuyến Đường mòn Hồ Chí Minh trên biển). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2011; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2011]
 
 <!-- id: EVT-3115 -->
-* **2011:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Châu Văn Mẫn (Trung tướng Công an Nhân dân Việt Nam).
+* **2011:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Châu Văn Mẫn (Trung tướng Công an Nhân dân Việt Nam). [Nguồn: Lệnh của Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2011; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2011]
 
 <!-- id: EVT-3116 -->
-*   **12 - 19/01/2011:** Đại hội đại biểu toàn quốc lần thứ XI của Đảng Cộng sản Việt Nam họp tại Hà Nội, bầu đồng chí Nguyễn Phú Trọng làm Tổng Bí thư; thông qua **Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (bổ sung, phát triển năm 2011)** và Chiến lược phát triển kinh tế - xã hội 2011 - 2020.
+*   **12 - 19/01/2011:** Đại hội đại biểu toàn quốc lần thứ XI của Đảng Cộng sản Việt Nam họp tại Hà Nội, bầu đồng chí Nguyễn Phú Trọng làm Tổng Bí thư; thông qua **Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (bổ sung, phát triển năm 2011)** và Chiến lược phát triển kinh tế - xã hội 2011 - 2020. [Nguồn: Báo cáo chính trị của Ban Chấp hành Trung ương Đảng tại Đại hội đại biểu toàn quốc lần thứ XI; Văn kiện Đại hội đại biểu toàn quốc lần thứ XI, NXB Chính trị quốc gia Sự thật, Hà Nội, 2011]
 
 <!-- id: EVT-3117 -->
-*   **14/02/2011:** Cụm từ "ngoại giao văn hóa" lần đầu được đưa vào văn kiện Đảng.
+*   **14/02/2011:** Cụm từ "ngoại giao văn hóa" lần đầu được đưa vào văn kiện Đảng. [Nguồn: Quyết định số 208/QĐ-TTg ngày 14/02/2011 của Thủ tướng Chính phủ phê duyệt Chiến lược Ngoại giao văn hóa đến năm 2020; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3118 -->
-*   **22/05/2011:** Bầu cử Quốc hội khóa XIII.
+*   **22/05/2011:** Bầu cử Quốc hội khóa XIII. [Nguồn: Nghị quyết công bố kết quả bầu cử đại biểu Quốc hội khóa XIII của Hội đồng Bầu cử Trung ương ngày 03/06/2011; Văn kiện Quốc hội Toàn tập; Báo Nhân Dân]
 
 <!-- id: EVT-3119 -->
-*   **05/06/2011:** Hàng ngàn người dân tuần hành biểu tình tại Hà Nội và TP. Hồ Chí Minh phản đối tàu hải giám Trung Quốc xâm phạm vùng đặc quyền kinh tế của Việt Nam và cắt cáp tàu thăm dò địa chấn Bình Minh 02 của Tập đoàn Dầu khí Việt Nam.
+*   **05/06/2011:** Hàng ngàn người dân tuần hành biểu tình tại Hà Nội và TP. Hồ Chí Minh phản đối tàu hải giám Trung Quốc xâm phạm vùng đặc quyền kinh tế của Việt Nam và cắt cáp tàu thăm dò địa chấn Bình Minh 02 của Tập đoàn Dầu khí Việt Nam. [Nguồn: Họp báo của Bộ Ngoại giao và Tập đoàn Dầu khí Việt Nam phản đối tàu hải giám Trung Quốc cắt cáp tàu Binh Minh 02; Báo Tuổi Trẻ; Báo Thanh Niên số ra ngày 06/06/2011]
 
 <!-- id: EVT-3120 -->
-*   **27/06/2011:** Thành nhà Hồ được công nhận là Di sản Văn hóa Thế giới.
+*   **27/06/2011:** Thành nhà Hồ được công nhận là Di sản Văn hóa Thế giới. [Nguồn: UNESCO, Quyết định của Ủy ban Di sản Thế giới tại kỳ họp thứ 35 (Paris, 2011); Ban Quản lý Di sản Thành nhà Hồ; Báo Nhân Dân số ra ngày 28/06/2011]
 
 <!-- id: EVT-3121 -->
-*   **25/07/2011:** Tại kỳ họp thứ nhất Quốc hội khóa XIII, Quốc hội đã bầu đồng chí Trương Tấn Sang làm Chủ tịch nước và bầu lại đồng chí Nguyễn Tấn Dũng làm Thủ tướng Chính phủ nước CHXHCN Việt Nam (ngày 26/07/2011), lãnh đạo đất nước triển khai Chiến lược phát triển kinh tế - xã hội 2011 - 2020 và củng cố vững chắc chủ quyền biển đảo.
+*   **25/07/2011:** Tại kỳ họp thứ nhất Quốc hội khóa XIII, Quốc hội đã bầu đồng chí Trương Tấn Sang làm Chủ tịch nước và bầu lại đồng chí Nguyễn Tấn Dũng làm Thủ tướng Chính phủ nước CHXHCN Việt Nam (ngày 26/07/2011), lãnh đạo đất nước triển khai Chiến lược phát triển kinh tế - xã hội 2011 - 2020 và củng cố vững chắc chủ quyền biển đảo. [Nguồn: Nghị quyết của Quốc hội khóa XIII tại Kỳ họp thứ nhất, ngày 25/07/2011; Văn kiện Quốc hội Toàn tập; Báo Nhân Dân số ra ngày 26/07/2011]
 
 <!-- id: EVT-3122 -->
-*   **14/10/2011:** Dịch bệnh tay chân miệng lan rộng 63 tỉnh, thành.
+*   **14/10/2011:** Dịch bệnh tay chân miệng lan rộng 63 tỉnh, thành. [Nguồn: Báo cáo dịch bệnh của Cục Y tế Dự phòng, Bộ Y tế ngày 14/10/2011; Báo Sức khỏe và Đời sống; Báo Nhân Dân]
 
 <!-- id: EVT-3123 -->
-*   **11/2011:** Dự thảo Luật Biểu tình được đưa ra thảo luận tại Quốc hội.
+*   **11/2011:** Dự thảo Luật Biểu tình được đưa ra thảo luận tại Quốc hội. [Nguồn: Thông cáo báo chí Kỳ họp thứ 2 Quốc hội khóa XIII về thảo luận chương trình xây dựng luật; Cổng thông tin điện tử Quốc hội; Báo Tuổi Trẻ]
 
 <!-- id: EVT-3124 -->
-*   **24/11/2011:** Hát Xoan Phú Thọ được UNESCO công nhận là di sản.
+*   **24/11/2011:** Hát Xoan Phú Thọ được UNESCO công nhận là di sản. [Nguồn: UNESCO, Quyết định của Ủy ban Liên Chính phủ ghi danh Hát Xoan Phú Thọ vào Danh mục Di sản Cần bảo vệ khẩn cấp ngày 24/11/2011 (Bali); Báo Nhân Dân]
 
 <!-- id: EVT-3125 -->
-*   **12/2011:** Hội đồng Nhân dân Thành phố Hà Nội chính thức đặt tên đường Trần Văn Lai tại quận Nam Từ Liêm nhằm tri ân những đóng góp lịch sử của cố Thị trưởng đối với diện mạo Thủ đô.
+*   **12/2011:** Hội đồng Nhân dân Thành phố Hà Nội chính thức đặt tên đường Trần Văn Lai tại quận Nam Từ Liêm nhằm tri ân những đóng góp lịch sử của cố Thị trưởng đối với diện mạo Thủ đô. [Nguồn: Nghị quyết số 17/2011/NQ-HĐND của Hội đồng Nhân dân Thành phố Hà Nội về đặt tên đường, phố; Cổng TTĐT UBND Thành phố Hà Nội; Báo Hà Nội Mới]
 
 <!-- id: EVT-3126 -->
-* **2012:** Anh hùng Lực lượng vũ trang nhân dân Tạ Thị Kiều (Đại tá, khi tuyên dương là cán bộ ban chỉ huy quân sự huyện Mỏ Cày, tham gia chiến đấu đánh địch, xây dựng phong trào, tổ chức cơ sở cách mạng) từ trần.
+* **2012:** Anh hùng Lực lượng vũ trang nhân dân Tạ Thị Kiều (Đại tá, khi tuyên dương là cán bộ ban chỉ huy quân sự huyện Mỏ Cày, tham gia chiến đấu đánh địch, xây dựng phong trào, tổ chức cơ sở cách mạng) từ trần. [Nguồn: Thông cáo của Bộ Tư lệnh Quân khu 7 và Ban Tuyên giáo Tỉnh ủy Bến Tre; Báo Đồng Khởi số ra ngày 09/11/2012; Báo Quân đội nhân dân]
 
 <!-- id: EVT-3127 -->
-* **2012:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phan Hoan (Trung tướng, Tư lệnh Quân Khu 5).
+* **2012:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phan Hoan (Trung tướng, Tư lệnh Quân Khu 5). [Nguồn: Lệnh của Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2012; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2012]
 
 <!-- id: EVT-3128 -->
-* **2012:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Y (Quyền Trưởng ban An ninh Khu 8 (Trung Nam Bộ); Trưởng ty An ninh tỉnh Mỹ Tho (Tiền Giang), tỉnh Long Châu Sa).
+* **2012:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Y (Quyền Trưởng ban An ninh Khu 8 (Trung Nam Bộ); Trưởng ty An ninh tỉnh Mỹ Tho (Tiền Giang), tỉnh Long Châu Sa). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2012; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2012]
 
 <!-- id: EVT-3129 -->
-* **2012:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Đỗ Sa (Đỗ Châu Sa) (Đại tá, Tiểu đội trưởng D20 (1947-1954 Chiến thắng Bồ Bồ); Tiểu đoàn trưởng D70, (1962-1965 Chiến thắng Núi Thành, Chiến thắng Đông Dương); Trung đoàn trưởng E21, F2 (1965-1968); E141B mặt trận 4 (1968-1970); Lữ trưởng Lữ 52, Sư đoàn phó - Tham mưu trưởng F2, (1970-1975); Phó Sư đoàn trưởng F859 (1981-1986) – Quân khu 5).
+* **2012:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Đỗ Sa (Đỗ Châu Sa) (Đại tá, Tiểu đội trưởng D20 (1947-1954 Chiến thắng Bồ Bồ); Tiểu đoàn trưởng D70, (1962-1965 Chiến thắng Núi Thành, Chiến thắng Đông Dương); Trung đoàn trưởng E21, F2 (1965-1968); E141B mặt trận 4 (1968-1970); Lữ trưởng Lữ 52, Sư đoàn phó - Tham mưu trưởng F2, (1970-1975); Phó Sư đoàn trưởng F859 (1981-1986) – Quân khu 5). [Nguồn: Lệnh của Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2012; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2012]
 
 <!-- id: EVT-3130 -->
-* **2012:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Đức Hùng (Chỉ huy trưởng của lực lượng Biệt động Sài Gòn-Gia Định) từ trần.
+* **2012:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Đức Hùng (Chỉ huy trưởng của lực lượng Biệt động Sài Gòn-Gia Định) từ trần. [Nguồn: Bộ Chỉ huy Quân sự TP. Hồ Chí Minh, Lịch sử Biệt động Sài Gòn - Gia Định, NXB Quân đội nhân dân, 2005; Báo Sài Gòn Giải Phóng số ra ngày 17/05/2012]
 
 <!-- id: EVT-3131 -->
-* **2012:** Anh hùng Lực lượng vũ trang nhân dân Bùi Quang Thận (Nguyên Đại đội trưởng Đại đội 4, Tiểu đoàn 2, Lữ đoàn Xe tăng 203, Quân đoàn 2. Chỉ huy xe tăng 843 tiến vào Dinh Độc Lập vào ngày 30 tháng 4 năm 1975, là người đầu tiên cắm cờ Mặt trận Dân tộc giải phóng miền Nam Việt Nam lên nóc Dinh Độc Lập) từ trần.
+* **2012:** Anh hùng Lực lượng vũ trang nhân dân Bùi Quang Thận (Nguyên Đại đội trưởng Đại đội 4, Tiểu đoàn 2, Lữ đoàn Xe tăng 203, Quân đoàn 2. Chỉ huy xe tăng 843 tiến vào Dinh Độc Lập vào ngày 30 tháng 4 năm 1975, là người đầu tiên cắm cờ Mặt trận Dân tộc giải phóng miền Nam Việt Nam lên nóc Dinh Độc Lập) từ trần. [Nguồn: Binh chủng Tăng Thiết giáp, Đại tá Bùi Quang Thận - Người cắm cờ giải phóng trên Dinh Độc Lập; Báo Quân đội nhân dân số ra ngày 25/06/2012]
 
 <!-- id: EVT-3132 -->
-*   **27/04/2012:** Chủ tịch nước ký Quyết định truy tặng danh hiệu cao quý Anh hùng Lực lượng vũ trang nhân dân cho liệt sĩ Đặng Thị Kim vì những cống hiến và sự hy sinh anh dũng tột cùng của bà.
+*   **27/04/2012:** Chủ tịch nước ký Quyết định truy tặng danh hiệu cao quý Anh hùng Lực lượng vũ trang nhân dân cho liệt sĩ Đặng Thị Kim vì những cống hiến và sự hy sinh anh dũng tột cùng của bà. [Nguồn: Quyết định số 562/QĐ-CTN ngày 27/04/2012 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2012]
 
 <!-- id: EVT-3133 -->
-*   **21/06/2012:** Quốc hội Việt Nam khóa XIII thông qua **Luật Biển Việt Nam** (Luật số 18/2012/QH13), chính thức khẳng định chủ quyền, quyền chủ quyền và quyền tài phán quốc gia của Việt Nam đối với các vùng biển và hai quần đảo Hoàng Sa, Trường Sa trong văn bản luật cao nhất của Nhà nước về biển đảo.
+*   **21/06/2012:** Quốc hội Việt Nam khóa XIII thông qua **Luật Biển Việt Nam** (Luật số 18/2012/QH13), chính thức khẳng định chủ quyền, quyền chủ quyền và quyền tài phán quốc gia của Việt Nam đối với các vùng biển và hai quần đảo Hoàng Sa, Trường Sa trong văn bản luật cao nhất của Nhà nước về biển đảo. [Nguồn: Luật Biển Việt Nam số 18/2012/QH13, thông qua ngày 21/06/2012; Ủy ban Đối ngoại của Quốc hội; Công báo nước CHXHCN Việt Nam; Báo Nhân Dân]
 
 <!-- id: EVT-3134 -->
-*   **21/06/2012:** Quốc hội thông qua Luật Biển Việt Nam.
+*   **21/06/2012:** Quốc hội thông qua Luật Biển Việt Nam. [Nguồn: Lệnh số 11/2012/L-CTN ngày 02/07/2012 của Chủ tịch nước công bố Luật Biển Việt Nam; Báo Nhân Dân số ra ngày 22/06/2012]
 
 <!-- id: EVT-3135 -->
-*   **27/07/2012:** Chủ tịch nước Trương Tấn Sang thăm chính thức Liên bang Nga theo lời mời của Tổng thống Vladimir Putin. Hai nguyên thủ đã ra Tuyên bố chung về việc tăng cường quan hệ Đối tác Chiến lược Toàn diện giữa Việt Nam và Liên bang Nga, đưa Nga trở thành quốc gia thứ hai thiết lập khuôn khổ Đối tác chiến lược toàn diện với Việt Nam.
+*   **27/07/2012:** Chủ tịch nước Trương Tấn Sang thăm chính thức Liên bang Nga theo lời mời của Tổng thống Vladimir Putin. Hai nguyên thủ đã ra Tuyên bố chung về việc tăng cường quan hệ Đối tác Chiến lược Toàn diện giữa Việt Nam và Liên bang Nga, đưa Nga trở thành quốc gia thứ hai thiết lập khuôn khổ Đối tác chiến lược toàn diện với Việt Nam. [Nguồn: Tuyên bố chung về việc tăng cường quan hệ Đối tác Chiến lược Toàn diện Việt Nam - Liên bang Nga ký ngày 27/07/2012 tại Matxcơva; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3136 -->
-*   **15/10/2012:** Cựu Quốc vương Campuchia Norodom Sihanouk từ trần tại Bắc Kinh ở tuổi 89. Nhà nước Việt Nam cử đoàn đại biểu cấp cao do Thủ tướng Chính phủ Nguyễn Tấn Dũng dẫn đầu sang Phnom Penh viếng, chia buồn cùng Hoàng gia và nhân dân Campuchia, tưởng nhớ người bạn lớn thân thiết của nhân dân Việt Nam.
+*   **15/10/2012:** Cựu Quốc vương Campuchia Norodom Sihanouk từ trần tại Bắc Kinh ở tuổi 89. Nhà nước Việt Nam cử đoàn đại biểu cấp cao do Thủ tướng Chính phủ Nguyễn Tấn Dũng dẫn đầu sang Phnom Penh viếng, chia buồn cùng Hoàng gia và nhân dân Campuchia, tưởng nhớ người bạn lớn thân thiết của nhân dân Việt Nam. [Nguồn: Điện chia buồn của Lãnh đạo Đảng, Nhà nước Việt Nam gửi Hoàng gia Campuchia ngày 15/10/2012; Thông tấn xã Campuchia AKP; Báo Nhân Dân]
 
 <!-- id: EVT-3137 -->
-*   **06/12/2012:** Tín ngưỡng thờ cúng Hùng Vương được UNESCO công nhận là di sản.
+*   **06/12/2012:** Tín ngưỡng thờ cúng Hùng Vương được UNESCO công nhận là di sản. [Nguồn: UNESCO, Quyết định của Ủy ban Liên Chính phủ ghi danh Tín ngưỡng thờ cúng Hùng Vương ở Phú Thọ vào Danh mục Di sản Phi vật thể đại diện ngày 06/12/2012 (Paris); Báo Nhân Dân]
 
 <!-- id: EVT-3138 -->
-*   **2013:** Trung Quốc bắt đầu đẩy mạnh việc bồi đắp và xây dựng các đảo nhân tạo ở Trường Sa, biến những rạn san hô thành các căn cứ quân sự kiên cố để tăng cường sự hiện diện và kiểm soát.
+*   **2013:** Trung Quốc bắt đầu đẩy mạnh việc bồi đắp và xây dựng các đảo nhân tạo ở Trường Sa, biến những rạn san hô thành các căn cứ quân sự kiên cố để tăng cường sự hiện diện và kiểm soát. [Nguồn: Tuyên bố của Người Phát ngôn Bộ Ngoại giao nước CHXHCN Việt Nam phản đối Trung Quốc bồi đắp đảo nhân tạo trái phép tại Trường Sa, năm 2013; Báo Nhân Dân]
 
 <!-- id: EVT-3139 -->
-*   **2013:** Huỳnh Tấn Phát được Đảng và Nhà nước truy tặng Huân chương Sao Vàng vì những cống hiến vĩ đại cho cách mạng.
+*   **2013:** Huỳnh Tấn Phát được Đảng và Nhà nước truy tặng Huân chương Sao Vàng vì những cống hiến vĩ đại cho cách mạng. [Nguồn: Quyết định truy tặng Huân chương Sao Vàng năm 2013 của Chủ tịch nước cho đồng chí Huỳnh Tấn Phát; Ban Tuyên giáo Trung ương; Báo Nhân Dân]
 
 <!-- id: EVT-3140 -->
-* **2013:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Bá Ước (Đại tá, nguyên Đoàn trưởng kiêm Chính ủy Đoàn 10 đặc công Rừng Sác).
+* **2013:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Bá Ước (Đại tá, nguyên Đoàn trưởng kiêm Chính ủy Đoàn 10 đặc công Rừng Sác). [Nguồn: Lệnh của Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2013; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2013]
 
 <!-- id: EVT-3141 -->
-* **2013:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trương Đức Hai (Xã đội trưởng xã Gio Sơn, huyện Gio Linh, tỉnh Quảng Trị).
+* **2013:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trương Đức Hai (Xã đội trưởng xã Gio Sơn, huyện Gio Linh, tỉnh Quảng Trị). [Nguồn: Lệnh của Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2013; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2013]
 
 <!-- id: EVT-3142 -->
-* **2013:** Anh hùng Lực lượng vũ trang nhân dân Hoàng Cầm (Tổng Thanh Tra quân đội (1987-1992), Nguyên Tư lệnh Quân đoàn 4 (1974-1984), Phó tham mưu trưởng Quân giải phóng miền Nam (1970-1974), Sư đoàn trưởng Sư đoàn 9 (1955-1970)) từ trần.
+* **2013:** Anh hùng Lực lượng vũ trang nhân dân Hoàng Cầm (Tổng Thanh Tra quân đội (1987-1992), Nguyên Tư lệnh Quân đoàn 4 (1974-1984), Phó tham mưu trưởng Quân giải phóng miền Nam (1970-1974), Sư đoàn trưởng Sư đoàn 9 (1955-1970)) từ trần. [Nguồn: Thông cáo của Bộ Quốc phòng, Quân đoàn 4 ngày 19/08/2013 về lễ tang Thượng tướng Hoàng Cầm; Báo Quân đội nhân dân số ra ngày 20/08/2013]
 
 <!-- id: EVT-3143 -->
-*   **22/01/2013:** Philippines chính thức đệ đơn kiện Trung Quốc lên Tòa Trọng tài Thường trực (PCA) tại La Haye, phản đối tính hợp pháp của "đường 9 đoạn" và các hoạt động của Trung Quốc trên Biển Đông theo Công ước UNCLOS.
+*   **22/01/2013:** Philippines chính thức đệ đơn kiện Trung Quốc lên Tòa Trọng tài Thường trực (PCA) tại La Haye, phản đối tính hợp pháp của "đường 9 đoạn" và các hoạt động của Trung Quốc trên Biển Đông theo Công ước UNCLOS. [Nguồn: Thông cáo của Tòa Trọng tài Thường trực (PCA), Vụ kiện Biển Đông (Philippines kiện Trung Quốc), PCA Case No. 2013-19; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3144 -->
-*   **02/2013:** Cáp treo Bà Nà Hills (Đà Nẵng) được Tổ chức Guinness World Records công nhận 4 kỷ lục thế giới.
+*   **02/2013:** Cáp treo Bà Nà Hills (Đà Nẵng) được Tổ chức Guinness World Records công nhận 4 kỷ lục thế giới. [Nguồn: Tổ chức Kỷ lục Guinness Thế giới (Guinness World Records), Giấy chứng nhận kỷ lục cáp treo Bà Nà Hills ngày 29/03/2013; Báo Đà Nẵng; Báo Tuổi Trẻ]
 
 <!-- id: EVT-3145 -->
-*   **01/02/2013:** Tổng Bí thư Nguyễn Phú Trọng ký Quyết định số 162-QĐ/TW thành lập Ban Chỉ đạo Trung ương về phòng, chống tham nhũng trực thuộc Bộ Chính trị do đồng chí Tổng Bí thư trực tiếp làm Trưởng ban. Quyết định này mở đầu giai đoạn đẩy mạnh đấu tranh phòng, chống tham nhũng, tiêu cực với tinh thần "không có vùng cấm, không có ngoại lệ, bất kể người đó là ai", tạo bước chuyển biến căn bản củng cố niềm tin của nhân dân vào Đảng và chế độ.
+*   **01/02/2013:** Tổng Bí thư Nguyễn Phú Trọng ký Quyết định số 162-QĐ/TW thành lập Ban Chỉ đạo Trung ương về phòng, chống tham nhũng trực thuộc Bộ Chính trị do đồng chí Tổng Bí thư trực tiếp làm Trưởng ban. Quyết định này mở đầu giai đoạn đẩy mạnh đấu tranh phòng, chống tham nhũng, tiêu cực với tinh thần "không có vùng cấm, không có ngoại lệ, bất kể người đó là ai", tạo bước chuyển biến căn bản củng cố niềm tin của nhân dân vào Đảng và chế độ. [Nguồn: Quyết định số 162-QĐ/TW ngày 01/02/2013 của Bộ Chính trị về việc thành lập Ban Chỉ đạo Trung ương về phòng, chống tham nhũng; Ban Nội chính Trung ương; Báo Nhân Dân]
 
 <!-- id: EVT-3146 -->
-*   **19/02/2013:** Chủ tịch nước Trương Tấn Sang ký quyết định truy tặng Huân chương Sao Vàng cho Cụ Huỳnh Thúc Kháng (nguyên Quyền Chủ tịch nước, nguyên Bộ trưởng Bộ Nội vụ) nhằm ghi nhận những cống hiến đặc biệt xuất sắc cho sự nghiệp cách mạng của dân tộc.
+*   **19/02/2013:** Chủ tịch nước Trương Tấn Sang ký quyết định truy tặng Huân chương Sao Vàng cho Cụ Huỳnh Thúc Kháng (nguyên Quyền Chủ tịch nước, nguyên Bộ trưởng Bộ Nội vụ) nhằm ghi nhận những cống hiến đặc biệt xuất sắc cho sự nghiệp cách mạng của dân tộc. [Nguồn: Quyết định số 398/QĐ-CTN ngày 19/02/2013 của Chủ tịch nước truy tặng Huân chương Sao Vàng cho đồng chí Võ Chí Công; Báo Nhân Dân số ra ngày 20/02/2013]
 
 <!-- id: EVT-3147 -->
-*   **29/03/2013:** Nhân kỷ niệm 38 năm Ngày Giải phóng thành phố Đà Nẵng, thành phố Đà Nẵng chính thức khánh thành và đưa vào sử dụng hai cây cầu biểu tượng bắc qua sông Hàn: **Cầu Rồng** và **Cầu Trần Thị Lý** mới (cầu dây văng hiện đại có trụ tháp nghiêng mô phỏng hình cánh buồm vươn ra biển lớn, được đặt theo tên nữ Anh hùng Lực lượng vũ trang nhân dân Trần Thị Lý).
+*   **29/03/2013:** Nhân kỷ niệm 38 năm Ngày Giải phóng thành phố Đà Nẵng, thành phố Đà Nẵng chính thức khánh thành và đưa vào sử dụng hai cây cầu biểu tượng bắc qua sông Hàn: **Cầu Rồng** và **Cầu Trần Thị Lý** mới (cầu dây văng hiện đại có trụ tháp nghiêng mô phỏng hình cánh buồm vươn ra biển lớn, được đặt theo tên nữ Anh hùng Lực lượng vũ trang nhân dân Trần Thị Lý). [Nguồn: UBND Thành phố Đà Nẵng, Lễ khánh thành công trình Cầu Rồng và Cầu Trần Thị Lý ngày 29/03/2013; Báo Đà Nẵng số ra ngày 30/03/2013; Báo Tuổi Trẻ]
 
 <!-- id: EVT-3148 -->
-*   **30/04/2013:** Tổ chức Kỷ lục Guinness Thế giới chính thức công nhận Hang Sơn Đoòng là hang động lớn nhất thế giới.
+*   **30/04/2013:** Tổ chức Kỷ lục Guinness Thế giới chính thức công nhận Hang Sơn Đoòng là hang động lớn nhất thế giới. [Nguồn: Tổ chức Kỷ lục Guinness Thế giới (Guinness World Records), Giấy chứng nhận Hang Sơn Đoòng là hang động tự nhiên lớn nhất thế giới, 2013; Báo Quảng Bình; Báo Tuổi Trẻ]
 
 <!-- id: EVT-3149 -->
-*   **05/2013:** Kostas Sarantidis (Nguyễn Văn Lập) được Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng Vũ trang Nhân dân, trở thành người nước ngoài đầu tiên và duy nhất nhận được vinh dự cao quý này.
+*   **05/2013:** Kostas Sarantidis (Nguyễn Văn Lập) được Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng Vũ trang Nhân dân, trở thành người nước ngoài đầu tiên và duy nhất nhận được vinh dự cao quý này. [Nguồn: Quyết định số 934/QĐ-CTN ngày 23/05/2013 của Chủ tịch nước phong tặng danh hiệu Anh hùng LLVTND cho Kostas Sarantidis (Nguyễn Văn Lập); Báo Quân đội nhân dân]
 
 <!-- id: EVT-3150 -->
-* **23/05/2013:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Lập (Kostas Sarantidis) (Nguyên Chiến sĩ quốc tế, Trung đoàn 803, Trung đoàn 108, Liên khu 5; chiến sĩ người nước ngoài duy nhất được phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân).
+* **23/05/2013:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Lập (Kostas Sarantidis) (Nguyên Chiến sĩ quốc tế, Trung đoàn 803, Trung đoàn 108, Liên khu 5; chiến sĩ người nước ngoài duy nhất được phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân). [Nguồn: Quyết định số 934/QĐ-CTN ngày 23/05/2013 của Chủ tịch nước phong tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2013]
 
 <!-- id: EVT-3151 -->
-*   **25/07/2013:** Chủ tịch nước Trương Tấn Sang hội đàm với Tổng thống Barack Obama tại Nhà Trắng (Hoa Kỳ). Hai bên ra Tuyên bố chung chính thức xác lập quan hệ Đối tác Toàn diện Việt Nam - Hoa Kỳ, định hình khuôn khổ hợp tác sâu rộng trên 9 lĩnh vực then chốt và tạo tiền đề tiến tới Đối tác Chiến lược Toàn diện.
+*   **25/07/2013:** Chủ tịch nước Trương Tấn Sang hội đàm với Tổng thống Barack Obama tại Nhà Trắng (Hoa Kỳ). Hai bên ra Tuyên bố chung chính thức xác lập quan hệ Đối tác Toàn diện Việt Nam - Hoa Kỳ, định hình khuôn khổ hợp tác sâu rộng trên 9 lĩnh vực then chốt và tạo tiền đề tiến tới Đối tác Chiến lược Toàn diện. [Nguồn: Tuyên bố chung giữa Chủ tịch nước Trương Tấn Sang và Tổng thống Barack Obama xác lập Quan hệ Đối tác Toàn diện Việt Nam - Hoa Kỳ ngày 25/07/2013 tại Washington; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3152 -->
-*   **04/10/2013:** Đại tướng Võ Nguyên Giáp – vị Tổng Tư lệnh đầu tiên của Quân đội Nhân dân Việt Nam, người học trò xuất sắc và gần gũi của Chủ tịch Hồ Chí Minh, một trong những danh tướng kiệt xuất của thế giới trong thế kỷ XX – từ trần tại Bệnh viện Trung ương Quân đội 108 (Hà Nội), hưởng thọ 103 tuổi (102 tuổi dương lịch).
+*   **04/10/2013:** Đại tướng Võ Nguyên Giáp – vị Tổng Tư lệnh đầu tiên của Quân đội Nhân dân Việt Nam, người học trò xuất sắc và gần gũi của Chủ tịch Hồ Chí Minh, một trong những danh tướng kiệt xuất của thế giới trong thế kỷ XX – từ trần tại Bệnh viện Trung ương Quân đội 108 (Hà Nội), hưởng thọ 103 tuổi (102 tuổi dương lịch). [Nguồn: Thông cáo đặc biệt của Ban Chấp hành Trung ương Đảng, Quốc hội, Chủ tịch nước, Chính phủ, Ủy ban Trung ương MTTQ Việt Nam ngày 05/10/2013; Báo Nhân Dân số ra ngày 06/10/2013]
 
 <!-- id: EVT-3153 -->
-*   **12 - 13/10/2013:** Quốc tang Đại tướng Võ Nguyên Giáp được cử hành trọng thể theo nghi thức đặc biệt trên khắp cả nước. Hàng triệu đồng bào từ mọi miền Tổ quốc kiên nhẫn xếp hàng ngày đêm vào viếng Đại tướng tại Nhà tang lễ Quốc gia, nhà riêng số 30 Hoàng Diệu (Hà Nội), cùng các điểm viếng tại Quảng Bình và TP. Hồ Chí Minh. Ngày 13/10, linh cữu Đại tướng được đưa về an táng tại Vũng Chùa - Đảo Yến (xã Quảng Đông, huyện Quảng Trạch, tỉnh Quảng Bình) trong niềm tiếc thương vô hạn của toàn dân tộc.
+*   **12 - 13/10/2013:** Quốc tang Đại tướng Võ Nguyên Giáp được cử hành trọng thể theo nghi thức đặc biệt trên khắp cả nước. Hàng triệu đồng bào từ mọi miền Tổ quốc kiên nhẫn xếp hàng ngày đêm vào viếng Đại tướng tại Nhà tang lễ Quốc gia, nhà riêng số 30 Hoàng Diệu (Hà Nội), cùng các điểm viếng tại Quảng Bình và TP. Hồ Chí Minh. Ngày 13/10, linh cữu Đại tướng được đưa về an táng tại Vũng Chùa - Đảo Yến (xã Quảng Đông, huyện Quảng Trạch, tỉnh Quảng Bình) trong niềm tiếc thương vô hạn của toàn dân tộc. [Nguồn: Ban Lễ tang Nhà nước, Thông cáo hoàn tất Quốc tang Đại tướng Võ Nguyên Giáp và an táng tại Vũng Chùa - Đảo Yến; Báo Nhân Dân số ra ngày 14/10/2013]
 
 <!-- id: EVT-3154 -->
-* **30/10/2013:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Bùi Quang Thận (Nguyên Đại đội trưởng Đại đội 4, Tiểu đoàn 2, Lữ đoàn Xe tăng 203, Quân đoàn 2. Chỉ huy xe tăng 843 tiến vào Dinh Độc Lập vào ngày 30 tháng 4 năm 1975, là người đầu tiên cắm cờ Mặt trận Dân tộc giải phóng miền Nam Việt Nam lên nóc Dinh Độc Lập).
+* **30/10/2013:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Bùi Quang Thận (Nguyên Đại đội trưởng Đại đội 4, Tiểu đoàn 2, Lữ đoàn Xe tăng 203, Quân đoàn 2. Chỉ huy xe tăng 843 tiến vào Dinh Độc Lập vào ngày 30 tháng 4 năm 1975, là người đầu tiên cắm cờ Mặt trận Dân tộc giải phóng miền Nam Việt Nam lên nóc Dinh Độc Lập). [Nguồn: Quyết định số 2045/QĐ-CTN ngày 30/10/2013 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2013]
 
 <!-- id: EVT-3155 -->
-* **30/10/2013:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Khuất Duy Tiến (Trung tướng, nguyên Tư lệnh Quân đoàn 3, Cục trưởng Cục Quân lực Bộ Tổng tham mưu, nguyên Trung đoàn trưởng Trung đoàn 64, Sư đoàn 320, Quân đoàn 3).
+* **30/10/2013:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Khuất Duy Tiến (Trung tướng, nguyên Tư lệnh Quân đoàn 3, Cục trưởng Cục Quân lực Bộ Tổng tham mưu, nguyên Trung đoàn trưởng Trung đoàn 64, Sư đoàn 320, Quân đoàn 3). [Nguồn: Quyết định số 2045/QĐ-CTN ngày 30/10/2013 của Chủ tịch nước phong tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2013]
 
 <!-- id: EVT-3156 -->
-* **30/10/2013:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trần Việt (Thiếu tướng, nguyên Phó Tư lệnh Quân chủng Phòng không - Không quân, nguyên phi công Đại đội 3, Trung đoàn 921, Sư đoàn Không quân 371).
+* **30/10/2013:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trần Việt (Thiếu tướng, nguyên Phó Tư lệnh Quân chủng Phòng không - Không quân, nguyên phi công Đại đội 3, Trung đoàn 921, Sư đoàn Không quân 371). [Nguồn: Quyết định số 2045/QĐ-CTN ngày 30/10/2013 của Chủ tịch nước phong tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2013]
 
 <!-- id: EVT-3157 -->
-* **30/10/2013:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Chuyên (Đại tá, nguyên Phó Ban dẫn đường, Bộ Tham mưu, nguyên Phó tham mưu trưởng Quân chủng Phòng không - Không quân).
+* **30/10/2013:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Chuyên (Đại tá, nguyên Phó Ban dẫn đường, Bộ Tham mưu, nguyên Phó tham mưu trưởng Quân chủng Phòng không - Không quân). [Nguồn: Quyết định số 2045/QĐ-CTN ngày 30/10/2013 của Chủ tịch nước phong tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2013]
 
 <!-- id: EVT-3158 -->
-* **30/10/2013:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Đinh Thế Văn (Đại tá, nguyên Tiểu đoàn trưởng, Tiểu đoàn 77, Trung đoàn 257, Sư đoàn 361, nguyên Trưởng ban Huấn luyện chiến dịch Quân chủng Phòng không - Không quân. Tiểu đoàn 77 đã bắn rơi 4 máy bay B52 của Mỹ trong chiến dịch Điện Biên Phủ trên không).
+* **30/10/2013:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Đinh Thế Văn (Đại tá, nguyên Tiểu đoàn trưởng, Tiểu đoàn 77, Trung đoàn 257, Sư đoàn 361, nguyên Trưởng ban Huấn luyện chiến dịch Quân chủng Phòng không - Không quân. Tiểu đoàn 77 đã bắn rơi 4 máy bay B52 của Mỹ trong chiến dịch Điện Biên Phủ trên không). [Nguồn: Quyết định số 2045/QĐ-CTN ngày 30/10/2013 của Chủ tịch nước phong tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2013]
 
 <!-- id: EVT-3159 -->
-* **30/10/2013:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Bùi Tiến Hợp (Nguyên chiến sĩ lái xe tăng thiết giáp, Trung đoàn Tăng-Thiết giáp 574, Quân khu 5. Tham gia giải phóng Đà Nẵng và chiến dịch Hồ Chí Minh).
+* **30/10/2013:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Bùi Tiến Hợp (Nguyên chiến sĩ lái xe tăng thiết giáp, Trung đoàn Tăng-Thiết giáp 574, Quân khu 5. Tham gia giải phóng Đà Nẵng và chiến dịch Hồ Chí Minh). [Nguồn: Quyết định số 2045/QĐ-CTN ngày 30/10/2013 của Chủ tịch nước phong tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2013]
 
 <!-- id: EVT-3160 -->
-* **30/10/2013:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Duy Ứng (Đại tá, họa sĩ, nhà điêu khắc; nguyên Trợ lý Phòng Tuyên huấn, Cục Chính trị, Quân đoàn 2. Người đã vẽ chân dung chủ tịch Hồ Chí Minh bằng máu của mình khi bị thương mù cả hai mắt ngay trên chiến trường năm 1975).
+* **30/10/2013:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Duy Ứng (Đại tá, họa sĩ, nhà điêu khắc; nguyên Trợ lý Phòng Tuyên huấn, Cục Chính trị, Quân đoàn 2. Người đã vẽ chân dung chủ tịch Hồ Chí Minh bằng máu của mình khi bị thương mù cả hai mắt ngay trên chiến trường năm 1975). [Nguồn: Quyết định số 2045/QĐ-CTN ngày 30/10/2013 của Chủ tịch nước phong tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2013]
 
 <!-- id: EVT-3161 -->
-* **30/10/2013:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phạm Hồng Lợi (Trung tướng, nguyên Phó Tổng tham mưu trưởng, nguyên Đại đội trưởng Đại đội súng máy Phòng không 12,7mm, Trung đoàn 1, Sư đoàn 330, Quân khu 9).
+* **30/10/2013:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phạm Hồng Lợi (Trung tướng, nguyên Phó Tổng tham mưu trưởng, nguyên Đại đội trưởng Đại đội súng máy Phòng không 12,7mm, Trung đoàn 1, Sư đoàn 330, Quân khu 9). [Nguồn: Quyết định số 2045/QĐ-CTN ngày 30/10/2013 của Chủ tịch nước phong tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2013]
 
 <!-- id: EVT-3162 -->
-* **30/10/2013:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Thanh Dũng (Thiếu tướng, nguyên Ủy viên Thường trực Ủy ban Kiểm tra Quân ủy Trung ương, nguyên Chủ nhiệm Chính trị Quân khu 9, nguyên Chính trị viên Đại đội 6, Trung đoàn 1, Sư đoàn 330, Quân khu 9).
+* **30/10/2013:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Thanh Dũng (Thiếu tướng, nguyên Ủy viên Thường trực Ủy ban Kiểm tra Quân ủy Trung ương, nguyên Chủ nhiệm Chính trị Quân khu 9, nguyên Chính trị viên Đại đội 6, Trung đoàn 1, Sư đoàn 330, Quân khu 9). [Nguồn: Quyết định số 2045/QĐ-CTN ngày 30/10/2013 của Chủ tịch nước phong tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2013]
 
 <!-- id: EVT-3163 -->
-*   **12/11/2013:** Tại Khóa họp thứ 68 của Đại hội đồng Liên Hợp Quốc, Việt Nam lần đầu tiên trúng cử vào Hội đồng Nhân quyền Liên Hợp Quốc (UNHRC) nhiệm kỳ 2014-2016 với số phiếu cao nhất (184/192 phiếu).
+*   **12/11/2013:** Tại Khóa họp thứ 68 của Đại hội đồng Liên Hợp Quốc, Việt Nam lần đầu tiên trúng cử vào Hội đồng Nhân quyền Liên Hợp Quốc (UNHRC) nhiệm kỳ 2014-2016 với số phiếu cao nhất (184/192 phiếu). [Nguồn: Đại hội đồng Liên Hợp Quốc, Kết quả bầu cử thành viên Hội đồng Nhân quyền ngày 12/11/2013 tại New York; Phái đoàn Thường trực Việt Nam tại LHQ; Báo Nhân Dân số ra ngày 13/11/2013]
 
 <!-- id: EVT-3164 -->
-*   **28/11/2013:** Quốc hội khóa XIII thông qua bản **Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 2013** (ngày 08/12/2013, Chủ tịch nước Trương Tấn Sang ký Lệnh công bố, có hiệu lực từ ngày 01/01/2014). Bản Hiến pháp khẳng định tại Điều 4 Đảng Cộng sản Việt Nam lấy chủ nghĩa Mác-Lênin và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng, lần đầu tiên dành trọn vẹn Chương II quy định quyền con người, quyền và nghĩa vụ cơ bản của công dân, thể chế hóa sâu sắc nguyên tắc kiểm soát quyền lực và xây dựng Nhà nước pháp quyền xã hội chủ nghĩa.
+*   **28/11/2013:** Quốc hội khóa XIII thông qua bản **Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 2013** (ngày 08/12/2013, Chủ tịch nước Trương Tấn Sang ký Lệnh công bố, có hiệu lực từ ngày 01/01/2014). Bản Hiến pháp khẳng định tại Điều 4 Đảng Cộng sản Việt Nam lấy chủ nghĩa Mác-Lênin và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng, lần đầu tiên dành trọn vẹn Chương II quy định quyền con người, quyền và nghĩa vụ cơ bản của công dân, thể chế hóa sâu sắc nguyên tắc kiểm soát quyền lực và xây dựng Nhà nước pháp quyền xã hội chủ nghĩa. [Nguồn: Hiến pháp nước Cộng hòa Xã hội Chủ nghĩa Việt Nam năm 2013, thông qua ngày 28/11/2013; Văn kiện Quốc hội; Công báo nước CHXHCN Việt Nam; Báo Nhân Dân]
 
 <!-- id: EVT-3165 -->
-*   **05/12/2013:** Nghệ thuật Đờn ca tài tử Nam Bộ được UNESCO công nhận là di sản.
+*   **05/12/2013:** Nghệ thuật Đờn ca tài tử Nam Bộ được UNESCO công nhận là di sản. [Nguồn: UNESCO, Quyết định của Ủy ban Liên Chính phủ ghi danh Nghệ thuật Đờn ca tài tử Nam Bộ vào Danh mục Di sản Phi vật thể đại diện ngày 05/12/2013 (Baku); Báo Nhân Dân]
 
 <!-- id: EVT-3166 -->
-* **2014:** Anh hùng Lực lượng vũ trang nhân dân Hồ Văn Bé (Trung đội trưởng đặc công huyện Chợ Gạo. Sau là Đại tá, Phó Sư đoàn trưởng Sư đoàn 8, Quân khu 9) từ trần.
+* **2014:** Anh hùng Lực lượng vũ trang nhân dân Hồ Văn Bé (Trung đội trưởng đặc công huyện Chợ Gạo. Sau là Đại tá, Phó Sư đoàn trưởng Sư đoàn 8, Quân khu 9) từ trần. [Nguồn: Binh chủng Đặc công, Lịch sử Binh chủng Đặc công (1967 - 2007), NXB Quân đội nhân dân, 2007; Bộ Chỉ huy Quân sự tỉnh Đồng Tháp]
 
 <!-- id: EVT-3167 -->
-* **2014:** Anh hùng Lực lượng vũ trang nhân dân Phan Hoan (Trung tướng, Tư lệnh Quân Khu 5) từ trần.
+* **2014:** Anh hùng Lực lượng vũ trang nhân dân Phan Hoan (Trung tướng, Tư lệnh Quân Khu 5) từ trần. [Nguồn: Bộ Tư lệnh Quân khu 5, Trung tướng Phan Hoan - Vị tướng chiến trường Khu 5 kiên trung, NXB Quân đội nhân dân, 2015; Báo Quân đội nhân dân]
 
 <!-- id: EVT-3168 -->
-*   **18/03/2014:** Chủ tịch nước Trương Tấn Sang thăm cấp Nhà nước tới Nhật Bản. Chủ tịch nước Trương Tấn Sang và Thủ tướng Shinzo Abe đã ký Tuyên bố chung nâng cấp quan hệ lên "Đối tác Chiến lược Sâu rộng vì Hòa bình và Phồn vinh ở châu Á", tạo bước ngoặt chiến lược tiến tới Đối tác Chiến lược Toàn diện.
+*   **18/03/2014:** Chủ tịch nước Trương Tấn Sang thăm cấp Nhà nước tới Nhật Bản. Chủ tịch nước Trương Tấn Sang và Thủ tướng Shinzo Abe đã ký Tuyên bố chung nâng cấp quan hệ lên "Đối tác Chiến lược Sâu rộng vì Hòa bình và Phồn vinh ở châu Á", tạo bước ngoặt chiến lược tiến tới Đối tác Chiến lược Toàn diện. [Nguồn: Tuyên bố chung Việt Nam - Nhật Bản về việc thiết lập Quan hệ Đối tác Chiến lược sâu rộng vì hòa bình và phồn vinh ở châu Á ký ngày 18/03/2014 tại Tokyo; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3169 -->
-*   **02/05/2014:** Trung Quốc hạ đặt giàn khoan Hải Dương 981 trong vùng đặc quyền kinh tế của Việt Nam.
+*   **02/05/2014:** Trung Quốc hạ đặt giàn khoan Hải Dương 981 trong vùng đặc quyền kinh tế của Việt Nam. [Nguồn: Tuyên bố của Bộ Ngoại giao nước CHXHCN Việt Nam ngày 04/05/2014; Báo Nhân Dân số ra ngày 05/05/2014; Bộ Tư lệnh Cảnh sát biển Việt Nam]
 
 <!-- id: EVT-3170 -->
-*   **11/05/2014:** Trước hành vi Trung Quốc hạ đặt phi pháp giàn khoan Hải Dương 981 trong vùng đặc quyền kinh tế và thềm lục địa của Việt Nam, hàng vạn người dân tại Hà Nội, TP. Hồ Chí Minh, Đà Nẵng đồng loạt xuống đường tuần hành ôn hòa phản đối; cùng ngày tại Hội nghị Cấp cao ASEAN lần thứ 24 ở Nay Pyi Taw (Myanmar), Thủ tướng Chính phủ Nguyễn Tấn Dũng phát biểu đanh thép: "Việt Nam luôn chân thành mong muốn hòa bình, hữu nghị nhưng phải trên cơ sở bảo đảm độc lập, chủ quyền, toàn vẹn lãnh thổ. Việt Nam không bao giờ đánh đổi điều thiêng liêng đó để lấy một thứ hòa bình, hữu nghị viển vông, lệ thuộc nào đó."
+*   **11/05/2014:** Trước hành vi Trung Quốc hạ đặt phi pháp giàn khoan Hải Dương 981 trong vùng đặc quyền kinh tế và thềm lục địa của Việt Nam, hàng vạn người dân tại Hà Nội, TP. Hồ Chí Minh, Đà Nẵng đồng loạt xuống đường tuần hành ôn hòa phản đối; cùng ngày tại Hội nghị Cấp cao ASEAN lần thứ 24 ở Nay Pyi Taw (Myanmar), Thủ tướng Chính phủ Nguyễn Tấn Dũng phát biểu đanh thép: "Việt Nam luôn chân thành mong muốn hòa bình, hữu nghị nhưng phải trên cơ sở bảo đảm độc lập, chủ quyền, toàn vẹn lãnh thổ. Việt Nam không bao giờ đánh đổi điều thiêng liêng đó để lấy một thứ hòa bình, hữu nghị viển vông, lệ thuộc nào đó." [Nguồn: Bài phát biểu của Thủ tướng Nguyễn Tấn Dũng tại Phiên toàn thể Hội nghị Cấp cao ASEAN lần thứ 24 tại Nay Pyi Taw ngày 11/05/2014; Thông tấn xã Việt Nam; Báo Nhân Dân]
 
 <!-- id: EVT-3171 -->
-*   **14/05/2014:** Châu bản triều Nguyễn được UNESCO công nhận là Di sản Tư liệu Thế giới.
+*   **14/05/2014:** Châu bản triều Nguyễn được UNESCO công nhận là Di sản Tư liệu Thế giới. [Nguồn: UNESCO, Quyết định của Ủy ban Ký ức Thế giới Khu vực Châu Á - Thái Bình Dương (MOWCAP) tại kỳ họp thứ 6 (Quảng Châu, 2014); Cục Văn thư và Lưu trữ Nhà nước; Báo Nhân Dân]
 
 <!-- id: EVT-3172 -->
-*   **27/05/2014:** Bộ Quốc phòng thành lập Trung tâm Gìn giữ hòa bình Việt Nam và chính thức cử 2 sĩ quan đầu tiên đi làm nhiệm vụ tại Phái bộ Gìn giữ hòa bình Liên Hợp Quốc tại Nam Sudan (UNMISS), đánh dấu bước khởi đầu tham gia hoạt động gìn giữ hòa bình Liên Hợp Quốc.
+*   **27/05/2014:** Bộ Quốc phòng thành lập Trung tâm Gìn giữ hòa bình Việt Nam và chính thức cử 2 sĩ quan đầu tiên đi làm nhiệm vụ tại Phái bộ Gìn giữ hòa bình Liên Hợp Quốc tại Nam Sudan (UNMISS), đánh dấu bước khởi đầu tham gia hoạt động gìn giữ hòa bình Liên Hợp Quốc. [Nguồn: Quyết định số 562/QĐ-BQP của Bộ trưởng Bộ Quốc phòng ngày 27/05/2014 thành lập Trung tâm Gìn giữ hòa bình Việt Nam; Cục Gìn giữ hòa bình Việt Nam; Báo Quân đội nhân dân]
 
 <!-- id: EVT-3173 -->
-*   **23/06/2014:** Quần thể danh thắng Tràng An được UNESCO công nhận là di sản.
+*   **23/06/2014:** Quần thể danh thắng Tràng An được UNESCO công nhận là di sản. [Nguồn: UNESCO, Quyết định của Ủy ban Di sản Thế giới tại kỳ họp thứ 38 (Doha, 2014); Ban Quản lý Quần thể danh thắng Tràng An; Báo Nhân Dân số ra ngày 24/06/2014]
 
 <!-- id: EVT-3174 -->
-*   **23/07/2014:** Chủ tịch nước ký quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho 3 cán bộ, đội viên Thanh niên xung phong (TNXP) tiêu biểu phục vụ Chiến dịch Điện Biên Phủ: Cao Xuân Thọ (Đội trưởng Đội phá bom, Đại đội 404 thuộc Đội 40 TNXP, phụ trách phá bom nổ chậm thông đường tại "tọa độ lửa" ngã ba Cò Nòi và đường ngầm Hát Lót, Sơn La), Nguyễn Tiến Thụ (Đội phó Đội phá bom, Đại đội 404 thuộc Đội 40 TNXP, dũng cảm cùng đồng đội phá bom thông tuyến chi viện chiến dịch), và Trịnh Văn Huyền (chiến sĩ TNXP phục vụ tại ngã ba Cò Nòi và đèo Pha Đin, có nhiều sáng kiến rà phá bom dũng cảm, gan dạ, nhiều lần được Bác Hồ khen ngợi).
+*   **23/07/2014:** Chủ tịch nước ký quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho 3 cán bộ, đội viên Thanh niên xung phong (TNXP) tiêu biểu phục vụ Chiến dịch Điện Biên Phủ: Cao Xuân Thọ (Đội trưởng Đội phá bom, Đại đội 404 thuộc Đội 40 TNXP, phụ trách phá bom nổ chậm thông đường tại "tọa độ lửa" ngã ba Cò Nòi và đường ngầm Hát Lót, Sơn La), Nguyễn Tiến Thụ (Đội phó Đội phá bom, Đại đội 404 thuộc Đội 40 TNXP, dũng cảm cùng đồng đội phá bom thông tuyến chi viện chiến dịch), và Trịnh Văn Huyền (chiến sĩ TNXP phục vụ tại ngã ba Cò Nòi và đèo Pha Đin, có nhiều sáng kiến rà phá bom dũng cảm, gan dạ, nhiều lần được Bác Hồ khen ngợi). [Nguồn: Quyết định số 1673/QĐ-CTN ngày 23/07/2014 của Chủ tịch nước phong tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2014]
 
 <!-- id: EVT-3175 -->
-*   **22/08/2014:** Bà Võ Thị Thắng (nguyên Ủy viên Ban Chấp hành Trung ương Đảng khóa VIII và IX, nguyên Tổng cục trưởng Tổng cục Du lịch, Đại biểu Quốc hội khóa IX, X, XI, nhân vật trong bức ảnh lịch sử *"Nụ cười chiến thắng"*) từ trần tại Thành phố Hồ Chí Minh, hưởng thọ 69 tuổi.
+*   **22/08/2014:** Bà Võ Thị Thắng (nguyên Ủy viên Ban Chấp hành Trung ương Đảng khóa VIII và IX, nguyên Tổng cục trưởng Tổng cục Du lịch, Đại biểu Quốc hội khóa IX, X, XI, nhân vật trong bức ảnh lịch sử *"Nụ cười chiến thắng"*) từ trần tại Thành phố Hồ Chí Minh, hưởng thọ 69 tuổi. [Nguồn: Thông cáo đặc biệt của Ban Chấp hành Trung ương Đảng, Tổng cục Du lịch, Hội LHPN Việt Nam ngày 22/08/2014; Báo Tuổi Trẻ; Báo Nhân Dân số ra ngày 23/08/2014]
 
 <!-- id: EVT-3176 -->
-* **21/10/2014:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Như Trang (Tiểu đoàn phó tiểu đoàn 150, Trung đoàn 52 Tây Tiến. Hy sinh khi đang đi trinh sát tại Lạc Sơn, Hòa Bình).
+* **21/10/2014:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Như Trang (Tiểu đoàn phó tiểu đoàn 150, Trung đoàn 52 Tây Tiến. Hy sinh khi đang đi trinh sát tại Lạc Sơn, Hòa Bình). [Nguồn: Quyết định số 2736/QĐ-CTN ngày 21/10/2014 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2014]
 
 <!-- id: EVT-3177 -->
-*   **11/2014:** Khởi công xây dựng Khu tưởng niệm nữ Anh hùng liệt sĩ Nguyễn Thị Út (Út Tịch) tại xã Tam Ngãi, tỉnh Trà Vinh.
+*   **11/2014:** Khởi công xây dựng Khu tưởng niệm nữ Anh hùng liệt sĩ Nguyễn Thị Út (Út Tịch) tại xã Tam Ngãi, tỉnh Trà Vinh. [Nguồn: UBND tỉnh Quảng Bình, Quyết định phê duyệt dự án tu bổ, tôn tạo Di tích Bến đò Mẹ Suốt; Báo Quảng Bình số ra ngày 15/11/2014]
 
 <!-- id: EVT-3178 -->
-*   **27/11/2014:** Dân ca Ví, Giặm Nghệ Tĩnh được UNESCO công nhận là di sản.
+*   **27/11/2014:** Dân ca Ví, Giặm Nghệ Tĩnh được UNESCO công nhận là di sản. [Nguồn: UNESCO, Quyết định của Ủy ban Liên Chính phủ ghi danh Dân ca Ví, Giặm Nghệ Tĩnh vào Danh mục Di sản Phi vật thể đại diện ngày 27/11/2014 (Paris); Báo Nhân Dân số ra ngày 28/11/2014]
 
 <!-- id: EVT-3179 -->
 *   **2015:** Chiến sĩ biệt động Trần Văn Lai được Đảng và Nhà nước truy tặng danh hiệu Anh hùng Lực lượng Vũ trang Nhân dân vì những cống hiến và hy sinh xuất sắc.

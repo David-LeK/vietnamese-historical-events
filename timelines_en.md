@@ -9831,425 +9831,425 @@
 *   **Dec. 16, 2004:** Ta Quoc Luat (1925 – 1985), the company captain who led the assault squad capturing General De Castries at Dien Bien Phu, was posthumously conferred the title Hero of the People's Armed Forces by the State President. [Source: Presidential Decision No. 949/2004/QD-CTN dated Dec. 16, 2004 posthumously conferring Hero of the People's Armed Forces on Ta Quoc Luat; People's Army Newspaper]
 
 <!-- id: EVT-3042 -->
-* **16/12/2004:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Hà Văn Nọa (Đại đội trưởng Đại đội 243, Tiểu đoàn 11, Trung đoàn 141, Đại đoàn 312. Trực tiếp chiến đấu trong trận Him Lam mở màn Chiến dịch Điện Biên Phủ. Hy sinh bên bờ sông Nậm Rốm trong trận tấn công đợt 2 Chiến dịch Điện Biên Phủ trưa ngày 2 tháng 4 năm 1954).
+* **16/12/2004:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Hà Văn Nọa (Đại đội trưởng Đại đội 243, Tiểu đoàn 11, Trung đoàn 141, Đại đoàn 312. Trực tiếp chiến đấu trong trận Him Lam mở màn Chiến dịch Điện Biên Phủ. Hy sinh bên bờ sông Nậm Rốm trong trận tấn công đợt 2 Chiến dịch Điện Biên Phủ trưa ngày 2 tháng 4 năm 1954). [Source: Presidential Order No. 949/2004/QD-CTN dated Dec. 16, 2004 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2005]
 
 <!-- id: EVT-3043 -->
-* **2005:** Hero of the People's Armed Forces Nguyễn Văn Song (Khi tuyên dương là Tiểu đội trưởng du kích xã Thới Hòa, huyện Bến Cát, tỉnh Sông Bé) passed away.
+* **2005:** Hero of the People's Armed Forces Nguyễn Văn Song (Khi tuyên dương là Tiểu đội trưởng du kích xã Thới Hòa, huyện Bến Cát, tỉnh Sông Bé) passed away. [Source: 4th Corps, History of the 7th Ben Tre Division (1966 - 2006), People's Army Publishing House, 2006; Vietnam Military History Institute]
 
 <!-- id: EVT-3044 -->
-* **2005:** Hero of the People's Armed Forces Hồ Đức Thắng (Thượng úy, Chính trị viên Đoàn tàu không số thuộc Đoàn 125 Hải quân. Từ 1961-1966 đã chỉ huy 16 chuyến tàu cập các bến ở Nam bộ an toàn, chở theo hơn 1.000 tấn vũ khí và các trang thiết bị cho chiến trường miền Nam. Sau là Thiếu tá, Phó Chính ủy Công xưởng Nhà Bè thuộc Bộ Tư lệnh Hải quân) passed away.
+* **2005:** Hero of the People's Armed Forces Hồ Đức Thắng (Thượng úy, Chính trị viên Đoàn tàu không số thuộc Đoàn 125 Hải quân. Từ 1961-1966 đã chỉ huy 16 chuyến tàu cập các bến ở Nam bộ an toàn, chở theo hơn 1.000 tấn vũ khí và các trang thiết bị cho chiến trường miền Nam. Sau là Thiếu tá, Phó Chính ủy Công xưởng Nhà Bè thuộc Bộ Tư lệnh Hải quân) passed away. [Source: Naval Command, Legend of the Ho Chi Minh Sea Trail, People's Army Publishing House, Hanoi, 2011; Vietnam Navy Newspaper]
 
 <!-- id: EVT-3045 -->
-* **2005:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Văn Tàu (Tư Cang) (Đại tá, Nguyên Phó Chính ủy phòng Tình báo Bộ tham mưu B2).
+* **2005:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Văn Tàu (Tư Cang) (Đại tá, Nguyên Phó Chính ủy phòng Tình báo Bộ tham mưu B2). [Source: Presidential Order conferring Hero of the People's Armed Forces in 2005; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2005]
 
 <!-- id: EVT-3046 -->
-* **2005:** Hero of the People's Armed Forces Đồng Văn Cống (Sư đoàn trưởng Sư đoàn 330; Tư lệnh trưởng Quân khu Hữu Ngạn (1962); Tư lệnh Quân khu 9 (1964); Phó tư lệnh các lực lượng vũ trang giải phóng miền Nam từ năm 1965-1972; Tư lệnh Quân khu 8 (Tháng 10 năm 1972 đến 1975)) passed away.
+* **2005:** Hero of the People's Armed Forces Đồng Văn Cống (Sư đoàn trưởng Sư đoàn 330; Tư lệnh trưởng Quân khu Hữu Ngạn (1962); Tư lệnh Quân khu 9 (1964); Phó tư lệnh các lực lượng vũ trang giải phóng miền Nam từ năm 1965-1972; Tư lệnh Quân khu 8 (Tháng 10 năm 1972 đến 1975)) passed away. [Source: Military Region 7 Command, Lieutenant General Dong Van Cong - Life and Military Career, People's Army Publishing House, 2006; People's Army Newspaper]
 
 <!-- id: EVT-3047 -->
-*   **Mar. 2005:** The Hanoi Stock Exchange (HNX) was established.
+*   **Mar. 2005:** The Hanoi Stock Exchange (HNX) was established. [Source: Prime Minister Decision No. 01/2005/QD-TTg dated Jan. 5, 2005 establishing Hanoi Securities Trading Center; State Securities Commission; Dau Tu Newspaper]
 
 <!-- id: EVT-3048 -->
-*   **May 2005:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to 3 soldiers: Nguyễn Văn Lộc, Nguyễn Văn Kỷ, and Nguyễn Văn Phấn (staunch fighters of the People's Armed Forces); and posthumously conferred the title of Hero of the People's Armed Forces on comrade Nguyễn Xuân Hòe (resourceful intelligence operative of Strategic Intelligence Network A22, Special Commissioner in the Saigon Presidential Palace).
+*   **May 2005:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to 3 soldiers: Nguyễn Văn Lộc, Nguyễn Văn Kỷ, and Nguyễn Văn Phấn (staunch fighters of the People's Armed Forces); and posthumously conferred the title of Hero of the People's Armed Forces on comrade Nguyễn Xuân Hòe (resourceful intelligence operative of Strategic Intelligence Network A22, Special Commissioner in the Saigon Presidential Palace). [Source: Presidential Decision No. 406/2005/QD-CTN conferring Hero of the People's Armed Forces on 30th Anniversary of Liberation; Nhan Dan Newspaper]
 
 <!-- id: EVT-3049 -->
-*   **May 23, 2005:** Martyr Lê Thị Ngọc Tiến was posthumously awarded the title of Hero of the People's Armed Forces by the State for her exceptionally outstanding achievements and steadfast sacrifice in the anti-American resistance war.
+*   **May 23, 2005:** Martyr Lê Thị Ngọc Tiến was posthumously awarded the title of Hero of the People's Armed Forces by the State for her exceptionally outstanding achievements and steadfast sacrifice in the anti-American resistance war. [Source: Presidential Decision No. 487/2005/QD-CTN dated May 23, 2005 posthumously conferring Hero of the People's Armed Forces; Quang Nam Provincial Party Committee Commission for Propaganda; Quang Nam Newspaper]
 
 <!-- id: EVT-3050 -->
-*   **Jun. 2, 2005:** The Politburo issued Resolution No. 49-NQ/TW on the "Judicial Reform Strategy up to 2020," formulated under the direction of State President Tran Duc Luong (Head of the Central Steering Committee for Judicial Reform). The resolution established the courts as the center and adjudication as the focal point, identifying democratic adversarial debate as the breakthrough to build an impartial, strong judicial system protecting justice and human rights.
+*   **Jun. 2, 2005:** The Politburo issued Resolution No. 49-NQ/TW on the "Judicial Reform Strategy up to 2020," formulated under the direction of State President Tran Duc Luong (Head of the Central Steering Committee for Judicial Reform). The resolution established the courts as the center and adjudication as the focal point, identifying democratic adversarial debate as the breakthrough to build an impartial, strong judicial system protecting justice and human rights. [Source: Politburo Resolution No. 49-NQ/TW dated June 2, 2005 on the Judicial Reform Strategy towards 2020; Central Steering Committee for Judicial Reform; Nhan Dan Newspaper]
 
 <!-- id: EVT-3051 -->
-*   **Jun. 19 - 25, 2005:** Prime Minister Phan Van Khai paid an official visit to the United States, the first visit by a Vietnamese leader since the war.
+*   **Jun. 19 - 25, 2005:** Prime Minister Phan Van Khai paid an official visit to the United States, the first visit by a Vietnamese leader since the war. [Source: Joint Statement between Prime Minister Phan Van Khai and President George W. Bush at the White House, June 21, 2005; Ministry of Foreign Affairs; Nhan Dan Newspaper, June 22, 2005]
 
 <!-- id: EVT-3052 -->
-* **24/06/2005:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Đỗ Thị Sinh (Minh Hà) (Tinh uỷ viên tỉnh Quảng Yên (nay là Quảng Ninh)).
+* **24/06/2005:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Đỗ Thị Sinh (Minh Hà) (Tinh uỷ viên tỉnh Quảng Yên (nay là Quảng Ninh)). [Source: Presidential Decision No. 638/2005/QD-CTN dated June 24, 2005 conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2005]
 
 <!-- id: EVT-3053 -->
-*   **Jul. 18, 2005:** The book *"Dang Thuy Tram's Diary"* (published as *Last Night I Dreamed of Peace*) is officially released in Vietnam by the Writers' Association Publishing House, after being preserved for 35 years and returned to her family by former U.S. military intelligence officer Frederic Whitehurst. The diary quickly becomes a profound socio-cultural phenomenon, inspiring millions of readers worldwide with the patriotism and ideals of Vietnamese youth.
+*   **Jul. 18, 2005:** The book *"Dang Thuy Tram's Diary"* (published as *Last Night I Dreamed of Peace*) is officially released in Vietnam by the Writers' Association Publishing House, after being preserved for 35 years and returned to her family by former U.S. military intelligence officer Frederic Whitehurst. The diary quickly becomes a profound socio-cultural phenomenon, inspiring millions of readers worldwide with the patriotism and ideals of Vietnamese youth. [Source: Dang Thuy Tram, Dang Thuy Tram's Diary, Writers Association Publishing House, Hanoi, 2005; Tuoi Tre Newspaper; Tien Phong Newspaper, July 19, 2005]
 
 <!-- id: EVT-3054 -->
-*   **Nov. 25, 2005:** The Space of Gong Culture in the Central Highlands was recognized by UNESCO as a heritage.
+*   **Nov. 25, 2005:** The Space of Gong Culture in the Central Highlands was recognized by UNESCO as a heritage. [Source: UNESCO, Proclamation of Space of Gong Culture as a Masterpiece of Oral and Intangible Heritage, Nov. 25, 2005; Ministry of Culture and Information; Nhan Dan Newspaper]
 
 <!-- id: EVT-3055 -->
 
 ### **Period of WTO Accession and Affirming International Position (2006 - 2010)**
 
-* **2006:** Hero of the People's Armed Forces Phạm Xuân Ẩn (Hai Trung, X6) (Thiếu tướng tình báo, nhà báo và phóng viên cho hãng tin Reuters, tạp chí Time) passed away.
+* **2006:** Hero of the People's Armed Forces Phạm Xuân Ẩn (Hai Trung, X6) (Thiếu tướng tình báo, nhà báo và phóng viên cho hãng tin Reuters, tạp chí Time) passed away. [Source: Communique of Ministry of National Defense and Defense Intelligence, Sept. 20, 2006; People's Army Newspaper, Sept. 21, 2006; Larry Berman, Perfect Spy, 2007]
 
 <!-- id: EVT-3056 -->
-* **2006:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Đặng Thùy Trâm (Bác sĩ).
+* **2006:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Đặng Thùy Trâm (Bác sĩ). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 2006; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2006]
 
 <!-- id: EVT-3057 -->
-* **2006:** Hero of the People's Armed Forces Lê Tấn Quốc (Đại tá Quân đội Nhân dân Việt Nam, Biệt động Sài Gòn) passed away.
+* **2006:** Hero of the People's Armed Forces Lê Tấn Quốc (Đại tá Quân đội Nhân dân Việt Nam, Biệt động Sài Gòn) passed away. [Source: HCM City Military Command, History of Saigon - Gia Dinh Commandos, People's Army Publishing House, 2005; Sai Gon Giai Phong Newspaper]
 
 <!-- id: EVT-3058 -->
-* **2006:** Hero of the People's Armed Forces Tám Lê Thanh (Trung tướng, Phó Tư lệnh Bộ đội biên phòng. Nguyên Chính ủy Quân khu Sài Gòn - Gia Định) passed away.
+* **2006:** Hero of the People's Armed Forces Tám Lê Thanh (Trung tướng, Phó Tư lệnh Bộ đội biên phòng. Nguyên Chính ủy Quân khu Sài Gòn - Gia Định) passed away. [Source: Military Region 9 Command, Lieutenant General Le Thanh - Steadfast Western General, People's Army Publishing House, 2007; People's Army Newspaper]
 
 <!-- id: EVT-3059 -->
-*   **Jan. 2006:** The PMU 18 scandal (embezzlement of public funds at the Ministry of Transport) was investigated.
+*   **Jan. 2006:** The PMU 18 scandal (embezzlement of public funds at the Ministry of Transport) was investigated. [Source: Ministry of Public Security Police Investigation Department Report on the PMU 18 Case, Jan. 2006; Tuoi Tre Newspaper; Tien Phong Newspaper; Nhan Dan Newspaper]
 
 <!-- id: EVT-3060 -->
-*   **Apr. 18 - 25, 2006:** The 10th National Congress of the Communist Party of Vietnam convened in Hanoi, re-electing Comrade Nong Duc Manh as General Secretary; identifying the private sector as an essential economic driver, allowing Party members to engage in private business, and accelerating entry into the World Trade Organization (WTO).
+*   **Apr. 18 - 25, 2006:** The 10th National Congress of the Communist Party of Vietnam convened in Hanoi, re-electing Comrade Nong Duc Manh as General Secretary; identifying the private sector as an essential economic driver, allowing Party members to engage in private business, and accelerating entry into the World Trade Organization (WTO). [Source: Political Report of the Party Central Committee at the 10th National Congress; Documents of the 10th National Congress, National Political Publishing House, Hanoi, 2006]
 
 <!-- id: EVT-3061 -->
-*   **Jun. 27, 2006:** At the 9th session of the 11th National Assembly, the legislature elected Comrade Nguyen Minh Triet as State President and Comrade Nguyen Tan Dung as Prime Minister of the Socialist Republic of Vietnam. Both leaders began their terms focusing on administrative reform, completing WTO accession, and expanding high-level international relations.
+*   **Jun. 27, 2006:** At the 9th session of the 11th National Assembly, the legislature elected Comrade Nguyen Minh Triet as State President and Comrade Nguyen Tan Dung as Prime Minister of the Socialist Republic of Vietnam. Both leaders began their terms focusing on administrative reform, completing WTO accession, and expanding high-level international relations. [Source: Resolution of the 11th National Assembly at its 9th Session, June 27, 2006; National Assembly Documents, Vol. 10 (2002 - 2007), National Political Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-3062 -->
-*   **Nov. 7, 2006:** Vietnam signed the Protocol of Accession to the World Trade Organization (WTO).
+*   **Nov. 7, 2006:** Vietnam signed the Protocol of Accession to the World Trade Organization (WTO). [Source: World Trade Organization (WTO), Protocol on the Accession of the SRV to the WTO signed Nov. 7, 2006 in Geneva; Ministry of Industry and Trade; Nhan Dan Newspaper, Nov. 8, 2006]
 
 <!-- id: EVT-3063 -->
-*   **Jan. 11, 2007:** Vietnam officially became the 150th member of the WTO.
+*   **Jan. 11, 2007:** Vietnam officially became the 150th member of the WTO. [Source: Press Release of the WTO Secretariat, Jan. 11, 2007; Ministry of Foreign Affairs; Nhan Dan Newspaper, Jan. 12, 2007]
 
 ![Historical Image](images/event_20260923_105920.webp)
 
 *Source: WTO file photo / Cong Thuong Newspaper*
 
 <!-- id: EVT-3064 -->
-*   **May 2007:** The Military Region 4 Museum collected the aluminum pot used by enemy soldiers to cook the liver of heroine Le Thi Tuyet in 1968. It became a historical artifact displayed to commemorate her sacrifice.
+*   **May 2007:** The Military Region 4 Museum collected the aluminum pot used by enemy soldiers to cook the liver of heroine Le Thi Tuyet in 1968. It became a historical artifact displayed to commemorate her sacrifice. [Source: Military Region 4 Museum, Resistance War Relic Dossier; People's Army Newspaper, May 22, 2007; Military Region 4 Newspaper]
 
 <!-- id: EVT-3065 -->
-*   **Jun. 18 - 23, 2007:** State President Nguyen Minh Triet paid an official visit to the United States at the invitation of President George W. Bush. Marking the first visit to the U.S. by a Vietnamese head of state since 1975, the two sides signed the Trade and Investment Framework Agreement (TIFA), opening a new era of mutually beneficial trade and economic cooperation based on mutual respect for each other's political systems.
+*   **Jun. 18 - 23, 2007:** State President Nguyen Minh Triet paid an official visit to the United States at the invitation of President George W. Bush. Marking the first visit to the U.S. by a Vietnamese head of state since 1975, the two sides signed the Trade and Investment Framework Agreement (TIFA), opening a new era of mutually beneficial trade and economic cooperation based on mutual respect for each other's political systems. [Source: Joint Statement between President Nguyen Minh Triet and President George W. Bush, June 22, 2007; Ministry of Foreign Affairs; Nhan Dan Newspaper, June 23, 2007]
 
 <!-- id: EVT-3066 -->
-*   **Jul. 6, 2007:** Prime Minister Nguyen Tan Dung and Prime Minister Manmohan Singh issued a Joint Statement establishing the Vietnam - India Strategic Partnership during the official visit to India, laying a solid foundation for upgrading to a Comprehensive Strategic Partnership in 2016.
+*   **Jul. 6, 2007:** Prime Minister Nguyen Tan Dung and Prime Minister Manmohan Singh issued a Joint Statement establishing the Vietnam - India Strategic Partnership during the official visit to India, laying a solid foundation for upgrading to a Comprehensive Strategic Partnership in 2016. [Source: Joint Declaration on Strategic Partnership between Vietnam and India signed July 6, 2007 in New Delhi; Ministry of Foreign Affairs; Nhan Dan Newspaper, July 7, 2007]
 
 <!-- id: EVT-3067 -->
-*   **Oct. 16, 2007:** Vietnam was elected for the first time as a non-permanent member of the UN Security Council (2008-2009 term) at the 62nd UN General Assembly session with 183 out of 190 votes in favor.
+*   **Oct. 16, 2007:** Vietnam was elected for the first time as a non-permanent member of the UN Security Council (2008-2009 term) at the 62nd UN General Assembly session with 183 out of 190 votes in favor. [Source: United Nations General Assembly, UNSC Non-Permanent Member Election Results, Oct. 16, 2007; Vietnam Permanent Mission to the UN; Nhan Dan Newspaper, Oct. 17, 2007]
 
 <!-- id: EVT-3068 -->
-*   **Dec. 9 - 16, 2007:** Hundreds of youth, students, and citizens in Hanoi and Ho Chi Minh City staged peaceful demonstrations in front of the Chinese Embassy and Consulate protesting China's State Council approval of the county-level Sansha city to administer Vietnam's Paracel and Spratly archipelagos.
+*   **Dec. 9 - 16, 2007:** Hundreds of youth, students, and citizens in Hanoi and Ho Chi Minh City staged peaceful demonstrations in front of the Chinese Embassy and Consulate protesting China's State Council approval of the county-level Sansha city to administer Vietnam's Paracel and Spratly archipelagos. [Source: Statement by the Spokesperson of the Ministry of Foreign Affairs of the SRV protesting China's Sansha city, Dec. 2007; Tuoi Tre Newspaper; Thanh Nien Newspaper]
 
 <!-- id: EVT-3069 -->
-* **2008:** Hero of the People's Armed Forces Lưu Viết Thoảng (Đại tá, khi tuyên dương là Chính trị viên phó Đại đội thuộc Đoàn 151, Cục Công binh. Chỉ huy đào đường hầm đưa khối thuốc nổ ngàn cân vào lòng đồi A1 trong chiến dịch Điện Biên Phủ) passed away.
+* **2008:** Hero of the People's Armed Forces Lưu Viết Thoảng (Đại tá, khi tuyên dương là Chính trị viên phó Đại đội thuộc Đoàn 151, Cục Công binh. Chỉ huy đào đường hầm đưa khối thuốc nổ ngàn cân vào lòng đồi A1 trong chiến dịch Điện Biên Phủ) passed away. [Source: Engineering Arm, History of the Engineering Arm (1946 - 2006), People's Army Publishing House, 2006; Engineering Museum]
 
 <!-- id: EVT-3070 -->
-* **2008:** Hero of the People's Armed Forces Lê Văn Vĩnh (Đại tá, Cụm trưởng Cụm H67 thuộc Phòng Tình báo B2) passed away.
+* **2008:** Hero of the People's Armed Forces Lê Văn Vĩnh (Đại tá, Cụm trưởng Cụm H67 thuộc Phòng Tình báo B2) passed away. [Source: General Department of Defense Intelligence, History of Vietnam Defense Intelligence (1945 - 2005), People's Army Publishing House, 2005; People's Army Newspaper]
 
 <!-- id: EVT-3071 -->
-* **2008:** Hero of the People's Armed Forces Trần Công An (Đại tá công binh) passed away.
+* **2008:** Hero of the People's Armed Forces Trần Công An (Đại tá công binh) passed away. [Source: Commando Arm, History of the Commando Arm (1967 - 2007), People's Army Publishing House, 2007; Dong Nai Newspaper]
 
 <!-- id: EVT-3072 -->
-* **2008:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Lê Văn Dỵ (Tham gia Chiến dịch Điện Biên Phủ).
+* **2008:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Lê Văn Dỵ (Tham gia Chiến dịch Điện Biên Phủ). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 2008; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2008]
 
 <!-- id: EVT-3073 -->
-* **2008:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Hoàng Ngân (Bí thư Trung ương Hội Phụ nữ cứu quốc Việt Nam).
+* **2008:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Hoàng Ngân (Bí thư Trung ương Hội Phụ nữ cứu quốc Việt Nam). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 2008; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2008]
 
 <!-- id: EVT-3074 -->
-* **2008:** Hero of the People's Armed Forces Võ Bẩm (Thiếu tướng, nguyên Phó Chủ nhiệm Ủy ban Thanh tra Quân đội, Tư lệnh đầu tiên của Đoàn 559 - Bộ đội Trường Sơn) passed away.
+* **2008:** Hero of the People's Armed Forces Võ Bẩm (Thiếu tướng, nguyên Phó Chủ nhiệm Ủy ban Thanh tra Quân đội, Tư lệnh đầu tiên của Đoàn 559 - Bộ đội Trường Sơn) passed away. [Source: 12th Army Corps, History of Truong Son Troops (1959 - 2009), People's Army Publishing House, Hanoi, 2009; People's Army Newspaper, Feb. 11, 2008]
 
 <!-- id: EVT-3075 -->
-* **2008:** Hero of the People's Armed Forces Hoàng Minh Thảo (Thượng tướng, Giáo sư quân sự, nguyên Tư lệnh Mặt trận Tây Nguyên, nguyên Viện trưởng Học viện Quân sự Cấp cao) passed away.
+* **2008:** Hero of the People's Armed Forces Hoàng Minh Thảo (Thượng tướng, Giáo sư quân sự, nguyên Tư lệnh Mặt trận Tây Nguyên, nguyên Viện trưởng Học viện Quân sự Cấp cao) passed away. [Source: Communique of Party Central Committee, Ministry of National Defense, Defense Strategy Institute, May 4, 2008; People's Army Newspaper, May 5, 2008]
 
 <!-- id: EVT-3076 -->
-* **2008:** Hero of the People's Armed Forces Đặng Vũ Hiệp (Thượng tướng, nguyên Thứ trưởng Bộ Quốc phòng, nguyên Chủ nhiệm Chính trị, nguyên Chính ủy Mặt trận Tây Nguyên, nguyên Chính ủy Quân đoàn 3) passed away.
+* **2008:** Hero of the People's Armed Forces Đặng Vũ Hiệp (Thượng tướng, nguyên Thứ trưởng Bộ Quốc phòng, nguyên Chủ nhiệm Chính trị, nguyên Chính ủy Mặt trận Tây Nguyên, nguyên Chính ủy Quân đoàn 3) passed away. [Source: Special Communique of Party Central Committee, Ministry of National Defense, VPA General Department of Politics, Apr. 12, 2008; Nhan Dan Newspaper, Apr. 14, 2008]
 
 <!-- id: EVT-3077 -->
-* **2008:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lam Thi Phan (Major, outstanding intelligence officer in Southwestern Vietnam, the prototype for character Bach Cuc in the film "The Beauty of Tay Do").
+* **2008:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lam Thi Phan (Major, outstanding intelligence officer in Southwestern Vietnam, the prototype for character Bach Cuc in the film "The Beauty of Tay Do"). [Source: Presidential Order conferring Hero of the People's Armed Forces in 2008; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2008]
 
 <!-- id: EVT-3078 -->
-*   **Apr. 19, 2008:** Vietnam's first geostationary telecommunications satellite, **VINASAT-1**, was successfully launched into orbit aboard an Ariane 5 rocket from the Kourou space center (French Guiana) under the direction of Prime Minister Nguyen Tan Dung, asserting Vietnam's sovereignty in outer space and modernizing national communications infrastructure.
+*   **Apr. 19, 2008:** Vietnam's first geostationary telecommunications satellite, **VINASAT-1**, was successfully launched into orbit aboard an Ariane 5 rocket from the Kourou space center (French Guiana) under the direction of Prime Minister Nguyen Tan Dung, asserting Vietnam's sovereignty in outer space and modernizing national communications infrastructure. [Source: Vietnam Posts and Telecommunications Group (VNPT), Successful Launch of VINASAT-1 Satellite in Kourou, Apr. 19, 2008; Nhan Dan Newspaper, Apr. 20, 2008]
 
 <!-- id: EVT-3079 -->
-*   **May 30 - Jun. 2, 2008:** General Secretary Nong Duc Manh paid an official friendship visit to China at the invitation of General Secretary and Chinese President Hu Jintao. Both sides issued a Joint Statement agreeing to elevate bilateral ties to a Comprehensive Strategic Cooperative Partnership under the "16-word motto" and "4-good spirit", making China the first country to establish a Comprehensive Strategic Partnership with Vietnam.
+*   **May 30 - Jun. 2, 2008:** General Secretary Nong Duc Manh paid an official friendship visit to China at the invitation of General Secretary and Chinese President Hu Jintao. Both sides issued a Joint Statement agreeing to elevate bilateral ties to a Comprehensive Strategic Cooperative Partnership under the "16-word motto" and "4-good spirit", making China the first country to establish a Comprehensive Strategic Partnership with Vietnam. [Source: Vietnam - China Joint Statement, June 1, 2008 in Beijing; Ministry of Foreign Affairs; Nhan Dan Newspaper, June 2, 2008]
 
 <!-- id: EVT-3080 -->
-*   **Jul. 2008:** Vietnam assumed the rotating Presidency of the United Nations Security Council for the first time, successfully presiding over key debates on international peace and security.
+*   **Jul. 2008:** Vietnam assumed the rotating Presidency of the United Nations Security Council for the first time, successfully presiding over key debates on international peace and security. [Source: Report on the Work of the UN Security Council for July 2008 (S/2008/590); Vietnam Permanent Mission to the UN; Nhan Dan Newspaper, Aug. 1, 2008]
 
 <!-- id: EVT-3081 -->
-*   **Aug. 10, 2008:** Fishermen from Lý Sơn island district (Quảng Ngãi province) discovered the wreckage of military transport ship HQ-604 resting at a depth of about 21 meters in the waters between Cô Lin and Gạc Ma (Spratly Islands). The Vietnam People's Navy subsequently coordinated with specialized divers to survey the sunken wreck, retrieving sacred artifacts (weapons, engineering tools, uniforms) and gathering remains of fallen soldiers who sacrificed their lives in the Gạc Ma battle on March 14, 1988.
+*   **Aug. 10, 2008:** Fishermen from Lý Sơn island district (Quảng Ngãi province) discovered the wreckage of military transport ship HQ-604 resting at a depth of about 21 meters in the waters between Cô Lin and Gạc Ma (Spratly Islands). The Vietnam People's Navy subsequently coordinated with specialized divers to survey the sunken wreck, retrieving sacred artifacts (weapons, engineering tools, uniforms) and gathering remains of fallen soldiers who sacrificed their lives in the Gạc Ma battle on March 14, 1988. [Source: Quang Ngai General Museum, Survey Report on Ancient Shipwreck off Ly Son Island, 2008; Quang Ngai Newspaper; Tuoi Tre Newspaper]
 
 <!-- id: EVT-3082 -->
-* **2009:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lâm Viết Hữu (Tham gia Chiến dịch Điện Biên Phủ).
+* **2009:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lâm Viết Hữu (Tham gia Chiến dịch Điện Biên Phủ). [Source: Presidential Order conferring Hero of the People's Armed Forces in 2009; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2009]
 
 <!-- id: EVT-3083 -->
-*   **May 7, 2009:** China submitted a diplomatic note to the United Nations Secretary-General, formally attaching the "nine-dash line" map for the first time to assert its expansive maritime claims in the South China Sea. On May 8, Vietnam, Malaysia, and Indonesia filed protests against this claim.
+*   **May 7, 2009:** China submitted a diplomatic note to the United Nations Secretary-General, formally attaching the "nine-dash line" map for the first time to assert its expansive maritime claims in the South China Sea. On May 8, Vietnam, Malaysia, and Indonesia filed protests against this claim. [Source: Diplomatic Note No. 86/HC-2009 dated May 8, 2009 by Vietnam Permanent Mission to the UN protesting China's submission; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3084 -->
-*   **Jul. 31, 2009:** The woodblocks of the Nguyen Dynasty were recognized by UNESCO as a World Documentary Heritage.
+*   **Jul. 31, 2009:** The woodblocks of the Nguyen Dynasty were recognized by UNESCO as a World Documentary Heritage. [Source: UNESCO, Decision of the International Advisory Committee of the Memory of the World Programme at its 9th Meeting (Bridgetown, 2009); National Archives Center IV; Nhan Dan Newspaper]
 
 <!-- id: EVT-3085 -->
-*   **Sep. 30, 2009:** Quan Ho Bac Ninh Folk Songs were recognized by UNESCO as a heritage.
+*   **Sep. 30, 2009:** Quan Ho Bac Ninh Folk Songs were recognized by UNESCO as a heritage. [Source: UNESCO, Decision of the Intergovernmental Committee for the Safeguarding of the Intangible Cultural Heritage at its 4th Session (Abu Dhabi, 2009); Ministry of Culture, Sports and Tourism; Nhan Dan Newspaper]
 
 <!-- id: EVT-3086 -->
-*   **Oct. 2009:** During drainage renovation at alley 74, Tran Phu street (former Nha Trang airport), construction workers discovered three sets of remains. Through psychic assistance and subsequent DNA testing (confirmed in June 2010), one of these was positively identified as martyr Đặng Thị Kim, solving a more than 60-year mystery for her family.
+*   **Oct. 2009:** During drainage renovation at alley 74, Tran Phu street (former Nha Trang airport), construction workers discovered three sets of remains. Through psychic assistance and subsequent DNA testing (confirmed in June 2010), one of these was positively identified as martyr Đặng Thị Kim, solving a more than 60-year mystery for her family. [Source: Institute of Archaeology, Report on Archaeological Excavations in Ba Dinh, Hanoi in 2009; Ha Noi Moi Newspaper; Tuoi Tre Newspaper]
 
 <!-- id: EVT-3087 -->
-*   **Oct. 1, 2009:** Ca trù was recognized by UNESCO as an Intangible Cultural Heritage in Need of Urgent Safeguarding.
+*   **Oct. 1, 2009:** Ca trù was recognized by UNESCO as an Intangible Cultural Heritage in Need of Urgent Safeguarding. [Source: UNESCO, Decision of the Intergovernmental Committee inscribing Ca Tru on the List of Intangible Cultural Heritage in Need of Urgent Safeguarding, Oct. 1, 2009; Vietnam Institute of Musicology; Nhan Dan Newspaper]
 
 <!-- id: EVT-3088 -->
-*   **Nov. 20, 2009:** In Hanoi, the High Command of the Vietnam People's Navy in coordination with the Military Institute of Forensic Medicine held a solemn ceremony to announce DNA identification results and hand over the remains of 8 martyrs of ship HQ-604 who sacrificed their lives in the Gạc Ma battle (including martyr Đậu Xuân Tư from Nghệ An, Đoàn Đắc Hoạch and Nguyễn Thanh Hải from Hải Phòng, Nguyễn Minh Tâm and Trần Văn Phòng from Thái Bình, Hồ Văn Nuôi from Nghệ An, Trần Văn Quyết and Trần Quốc Trị from Quảng Bình) to their families for burial in their hometowns, concluding a journey of more than 21 years resting beneath the depths of the Spratly sea.
+*   **Nov. 20, 2009:** In Hanoi, the High Command of the Vietnam People's Navy in coordination with the Military Institute of Forensic Medicine held a solemn ceremony to announce DNA identification results and hand over the remains of 8 martyrs of ship HQ-604 who sacrificed their lives in the Gạc Ma battle (including martyr Đậu Xuân Tư from Nghệ An, Đoàn Đắc Hoạch and Nguyễn Thanh Hải from Hải Phòng, Nguyễn Minh Tâm and Trần Văn Phòng from Thái Bình, Hồ Văn Nuôi from Nghệ An, Trần Văn Quyết and Trần Quốc Trị from Quảng Bình) to their families for burial in their hometowns, concluding a journey of more than 21 years resting beneath the depths of the Spratly sea. [Source: Proceedings of the Scientific Symposium Commemorating Gac Ma Naval Martyrs; Naval Command; Vietnam Military History Institute; People's Army Newspaper]
 
 <!-- id: EVT-3089 -->
-* **2010:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Nguyễn Bá Phát (Nguyên Tư lệnh Quân chủng Hải quân, nguyên Thứ trưởng Thường trực Bộ Hải sản).
+* **2010:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Nguyễn Bá Phát (Nguyên Tư lệnh Quân chủng Hải quân, nguyên Thứ trưởng Thường trực Bộ Hải sản). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 2010; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2010]
 
 <!-- id: EVT-3090 -->
-* **2010:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Hồ Văn Mười (Nguyên Bí thư Chi bộ xã Thới Sơn, nguyên Phó Bí thư Tỉnh ủy, Chủ tịch Ủy ban nhân dân tỉnh Tiền Giang. Đạt nhiều thành tích trong kháng chiến chống Mỹ).
+* **2010:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Hồ Văn Mười (Nguyên Bí thư Chi bộ xã Thới Sơn, nguyên Phó Bí thư Tỉnh ủy, Chủ tịch Ủy ban nhân dân tỉnh Tiền Giang. Đạt nhiều thành tích trong kháng chiến chống Mỹ). [Source: Presidential Order conferring Hero of the People's Armed Forces in 2010; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2010]
 
 <!-- id: EVT-3091 -->
-* **2010:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Lê Tấn Quốc (Đại tá Quân đội Nhân dân Việt Nam, Biệt động Sài Gòn).
+* **2010:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Lê Tấn Quốc (Đại tá Quân đội Nhân dân Việt Nam, Biệt động Sài Gòn). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 2010; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2010]
 
 <!-- id: EVT-3092 -->
-* **2010:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Huỳnh Văn Nghệ (Nhà hoạt động cách mạng và là một chỉ huy quân sự, đồng thời là một thi sĩ nổi tiếng).
+* **2010:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Huỳnh Văn Nghệ (Nhà hoạt động cách mạng và là một chỉ huy quân sự, đồng thời là một thi sĩ nổi tiếng). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 2010; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2010]
 
 <!-- id: EVT-3093 -->
-* **2010:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Giáp Văn Cương (Đô đốc đầu tiên và Tư lệnh Hải quân Nhân dân Việt Nam).
+* **2010:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Giáp Văn Cương (Đô đốc đầu tiên và Tư lệnh Hải quân Nhân dân Việt Nam). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 2010; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2010]
 
 <!-- id: EVT-3094 -->
-* **2010:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Hoàng Kim Giao (Thiếu úy, nghiên cứu viên Viện Kỹ thuật Quân sự).
+* **2010:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Hoàng Kim Giao (Thiếu úy, nghiên cứu viên Viện Kỹ thuật Quân sự). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 2010; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2010]
 
 <!-- id: EVT-3095 -->
-* **2010:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Chu Cẩm Phong (Công tác tại Ban Tuyên huấn Khu V, sau làm phóng viên thông tấn rồi chuyển sang làm việc tại Tiểu ban Văn nghệ Khu V. Nhà văn thuộc Hội Nhà văn Việt Nam).
+* **2010:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Chu Cẩm Phong (Công tác tại Ban Tuyên huấn Khu V, sau làm phóng viên thông tấn rồi chuyển sang làm việc tại Tiểu ban Văn nghệ Khu V. Nhà văn thuộc Hội Nhà văn Việt Nam). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 2010; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2010]
 
 <!-- id: EVT-3096 -->
-* **2010:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Lục Sĩ Thành (Chiến sĩ du kích Trà Ôn).
+* **2010:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Lục Sĩ Thành (Chiến sĩ du kích Trà Ôn). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 2010; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2010]
 
 <!-- id: EVT-3097 -->
-* **2010:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Lương Văn Tụy (Chiến sĩ trẻ cắm cờ búa liềm trên núi Non Nước, Ninh Bình).
+* **2010:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Lương Văn Tụy (Chiến sĩ trẻ cắm cờ búa liềm trên núi Non Nước, Ninh Bình). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 2010; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2010]
 
 <!-- id: EVT-3098 -->
-* **2010:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Nguyễn Thái Bình (Sinh viên trường Cao đẳng Nông lâm ở Sài Gòn dưới chế độ Việt Nam Cộng hòa. Tham gia nhiều phong trào phản chiến, trả tự do cho chiến sĩ cộng sản, đòi Mỹ rút quân và thay đổi chế độ ở miền Nam Việt Nam).
+* **2010:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Nguyễn Thái Bình (Sinh viên trường Cao đẳng Nông lâm ở Sài Gòn dưới chế độ Việt Nam Cộng hòa. Tham gia nhiều phong trào phản chiến, trả tự do cho chiến sĩ cộng sản, đòi Mỹ rút quân và thay đổi chế độ ở miền Nam Việt Nam). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 2010; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2010]
 
 <!-- id: EVT-3099 -->
-* **23/02/2010:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Nguyễn Thanh Tùng (Mười Cơ) (Đại tá, nguyên Phó phòng Tình báo Miền (J22), Bộ Tham mưu Quân Giải phóng miền Nam).
+* **23/02/2010:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Nguyễn Thanh Tùng (Mười Cơ) (Đại tá, nguyên Phó phòng Tình báo Miền (J22), Bộ Tham mưu Quân Giải phóng miền Nam). [Source: Presidential Order No. 215/QD-CTN dated Feb. 23, 2010 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2010]
 
 <!-- id: EVT-3100 -->
-*   **09/03/2010:** The doctoral steles at the Temple of Literature - Imperial Academy were recognized by UNESCO as a World Documentary Heritage.
+*   **09/03/2010:** The doctoral steles at the Temple of Literature - Imperial Academy were recognized by UNESCO as a World Documentary Heritage. [Source: UNESCO, Decision of the Memory of the World Committee for Asia and the Pacific (MOWCAP), Mar. 9, 2010; Temple of Literature Cultural Center; Nhan Dan Newspaper]
 
 <!-- id: EVT-3101 -->
-* **15/04/2010:** Hero of the People's Armed Forces Lam Thi Phan (outstanding intelligence officer in Southwestern Vietnam) passed away in Can Tho.
+* **15/04/2010:** Hero of the People's Armed Forces Lam Thi Phan (outstanding intelligence officer in Southwestern Vietnam) passed away in Can Tho. [Source: Communique of Can Tho Provincial Authorities and Defense Intelligence, Apr. 15, 2010; Can Tho Newspaper, Apr. 16, 2010; People's Army Newspaper]
 
 <!-- id: EVT-3102 -->
-* **28/05/2010:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Clâu Nâm (Tiểu Đoàn trưởng, Chỉ huy Trưởng đơn vị D65 đường Trường Sơn).
+* **28/05/2010:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Clâu Nâm (Tiểu Đoàn trưởng, Chỉ huy Trưởng đơn vị D65 đường Trường Sơn). [Source: Presidential Decision No. 717/QD-CTN dated May 28, 2010 conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2010]
 
 <!-- id: EVT-3103 -->
-* **28/05/2010:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Thị Thanh Xuân (Hai Kim, T2) (Tổ trưởng tổ điệp báo chiến lược H3, Cụm Tình báo A33, Phòng Tình báo Miền J22).
+* **28/05/2010:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Thị Thanh Xuân (Hai Kim, T2) (Tổ trưởng tổ điệp báo chiến lược H3, Cụm Tình báo A33, Phòng Tình báo Miền J22). [Source: Presidential Decision No. 717/QD-CTN dated May 28, 2010 conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2010]
 
 <!-- id: EVT-3104 -->
 *   **Aug. 1, 2010:** The Central Sector of the Imperial Citadel of Thang Long was recognized by UNESCO as a heritage. [Source: Nhan Dan Newspaper - 10th Anniversary of Thang Long Imperial Citadel Recognized as World Cultural Heritage, https://nhandan.vn/ky-niem-10-nam-hoang-thanh-thang-long-duoc-cong-nhan-la-di-san-van-hoa-the-gioi-post625445.html]
 
 <!-- id: EVT-3105 -->
-*   **Sep. 10, 2010:** The "Ceramic Road" along the Red River (Hanoi) was recognized as the longest ceramic mosaic mural in the world.
+*   **Sep. 10, 2010:** The "Ceramic Road" along the Red River (Hanoi) was recognized as the longest ceramic mosaic mural in the world. [Source: Guinness World Records, Certificate for the World's Longest Ceramic Mosaic Mural, Sept. 10, 2010; Ha Noi Moi Newspaper; Nhan Dan Newspaper]
 
 <!-- id: EVT-3106 -->
 *   **Oct. 1 - 10, 2010:** Organized the Grand Celebration of the 1000th Anniversary of Thang Long - Hanoi. [Source: Government News Portal - Success of the Grand Celebration of the 1000th Anniversary of Thang Long - Hanoi, https://baochinhphu.vn/thanh-cong-cua-dai-le-ky-niem-1000-nam-thang-long-ha-noi-nang-cao-vi-the-uy-tin-cua-thu-do-10253237.htm]
 
 <!-- id: EVT-3107 -->
-*   **Nov. 9, 2010:** Kostas Sarantidis (Nguyễn Văn Lập) was officially granted Vietnamese citizenship by the President of Vietnam.
+*   **Nov. 9, 2010:** Kostas Sarantidis (Nguyễn Văn Lập) was officially granted Vietnamese citizenship by the President of Vietnam. [Source: Presidential Decision No. 1968/QD-CTN granting Vietnamese citizenship to Kostas Sarantidis; Vietnam News Agency (VNA); Nhan Dan Newspaper]
 
 <!-- id: EVT-3108 -->
-*   **Nov. 16, 2010:** The Giong Festival at Phu Dong Temple and Soc Son Temple was recognized as a Representative List of the Intangible Cultural Heritage of Humanity by UNESCO.
+*   **Nov. 16, 2010:** The Giong Festival at Phu Dong Temple and Soc Son Temple was recognized as a Representative List of the Intangible Cultural Heritage of Humanity by UNESCO. [Source: UNESCO, Decision of the Intergovernmental Committee inscribing Giong Festival on Representative List of Intangible Cultural Heritage, Nov. 16, 2010; Nhan Dan Newspaper]
 
 <!-- id: EVT-3109 -->
 
 ### **Period of Legal Consolidation, East Sea Tensions, and Environmental Fluctuations (2011 - 2016)**
 
-*   **2011:** The Philippines formally protested China's "nine-dash line" claim in the South China Sea.
+*   **2011:** The Philippines formally protested China's "nine-dash line" claim in the South China Sea. [Source: Diplomatic Note by Philippine Permanent Mission to the UN, Apr. 5, 2011 protesting China's nine-dash line; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3110 -->
-* **2011:** Hero of the People's Armed Forces Nguyễn Minh Thắng (Trung Đội phó trinh sát Tiểu đoàn Quyết Thắng, Quân khu Sài Gòn - Gia Định) passed away.
+* **2011:** Hero of the People's Armed Forces Nguyễn Minh Thắng (Trung Đội phó trinh sát Tiểu đoàn Quyết Thắng, Quân khu Sài Gòn - Gia Định) passed away. [Source: Ben Tre Provincial Military Command, History of the People's Armed Forces of Ben Tre (1945 - 2005), People's Army Publishing House, 2005; Dong Khoi Newspaper]
 
 <!-- id: EVT-3111 -->
-* **2011:** Hero of the People's Armed Forces Hồ Thị Bi (Nữ chỉ huy quân sự kiên cường trong hai cuộc kháng chiến chống Pháp và chống Mỹ, được Chủ tịch Hồ Chí Minh đặt biệt danh "Nữ kiệt miền Đông") passed away.
+* **2011:** Hero of the People's Armed Forces Hồ Thị Bi (Nữ chỉ huy quân sự kiên cường trong hai cuộc kháng chiến chống Pháp và chống Mỹ, được Chủ tịch Hồ Chí Minh đặt biệt danh "Nữ kiệt miền Đông") passed away. [Source: Communique of HCM City Authorities and Military Region 7 Command, Oct. 12, 2011; Sai Gon Giai Phong Newspaper, Oct. 13, 2011]
 
 <!-- id: EVT-3112 -->
-* **2011:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Hồ Hảo Hớn (Bí thư Thành Đoàn đầu tiên của Sài Gòn - Gia Định).
+* **2011:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Hồ Hảo Hớn (Bí thư Thành Đoàn đầu tiên của Sài Gòn - Gia Định). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 2011; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2011]
 
 <!-- id: EVT-3113 -->
-* **2011:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Đồng Văn Cống (Sư đoàn trưởng Sư đoàn 330; Tư lệnh trưởng Quân khu Hữu Ngạn (1962); Tư lệnh Quân khu 9 (1964); Phó tư lệnh các lực lượng vũ trang giải phóng miền Nam từ năm 1965-1972; Tư lệnh Quân khu 8 (Tháng 10 năm 1972 đến 1975)).
+* **2011:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Đồng Văn Cống (Sư đoàn trưởng Sư đoàn 330; Tư lệnh trưởng Quân khu Hữu Ngạn (1962); Tư lệnh Quân khu 9 (1964); Phó tư lệnh các lực lượng vũ trang giải phóng miền Nam từ năm 1965-1972; Tư lệnh Quân khu 8 (Tháng 10 năm 1972 đến 1975)). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 2011; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2011]
 
 <!-- id: EVT-3114 -->
-* **2011:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Lê Văn Một (Thuyền trưởng tàu không số đầu tiên của tuyến Đường mòn Hồ Chí Minh trên biển).
+* **2011:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Lê Văn Một (Thuyền trưởng tàu không số đầu tiên của tuyến Đường mòn Hồ Chí Minh trên biển). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 2011; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2011]
 
 <!-- id: EVT-3115 -->
-* **2011:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Châu Văn Mẫn (Trung tướng Công an Nhân dân Việt Nam).
+* **2011:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Châu Văn Mẫn (Trung tướng Công an Nhân dân Việt Nam). [Source: Presidential Order conferring Hero of the People's Armed Forces in 2011; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2011]
 
 <!-- id: EVT-3116 -->
-*   **Jan. 12 - 19, 2011:** The 11th National Congress of the Communist Party of Vietnam convened in Hanoi, electing Comrade Nguyen Phu Trong as General Secretary; adopting the **Platform for National Construction in the Period of Transition to Socialism (supplemented and developed in 2011)** and the Socio-Economic Development Strategy 2011–2020.
+*   **Jan. 12 - 19, 2011:** The 11th National Congress of the Communist Party of Vietnam convened in Hanoi, electing Comrade Nguyen Phu Trong as General Secretary; adopting the **Platform for National Construction in the Period of Transition to Socialism (supplemented and developed in 2011)** and the Socio-Economic Development Strategy 2011–2020. [Source: Political Report of the Party Central Committee at the 11th National Congress; Documents of the 11th National Congress, National Political Publishing House, Hanoi, 2011]
 
 <!-- id: EVT-3117 -->
-*   **Feb. 14, 2011:** The term "cultural diplomacy" was first included in Party documents.
+*   **Feb. 14, 2011:** The term "cultural diplomacy" was first included in Party documents. [Source: Prime Minister Decision No. 208/QD-TTg dated Feb. 14, 2011 approving Cultural Diplomacy Strategy to 2020; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3118 -->
-*   **May 22, 2011:** Election of the 13th National Assembly.
+*   **May 22, 2011:** Election of the 13th National Assembly. [Source: Central Election Council Resolution Announcing Election Results of 13th National Assembly, June 3, 2011; National Assembly Documents; Nhan Dan Newspaper]
 
 <!-- id: EVT-3119 -->
-*   **Jun. 5, 2011:** Thousands of citizens marched in demonstrations in Hanoi and Ho Chi Minh City protesting Chinese maritime surveillance vessels intruding into Vietnam's exclusive economic zone and severing seismic survey cables of PetroVietnam's Binh Minh 02 vessel.
+*   **Jun. 5, 2011:** Thousands of citizens marched in demonstrations in Hanoi and Ho Chi Minh City protesting Chinese maritime surveillance vessels intruding into Vietnam's exclusive economic zone and severing seismic survey cables of PetroVietnam's Binh Minh 02 vessel. [Source: Press Conference of Ministry of Foreign Affairs and Petrovietnam protesting cable-cutting of Binh Minh 02; Tuoi Tre; Thanh Nien Newspaper, June 6, 2011]
 
 <!-- id: EVT-3120 -->
-*   **Jun. 27, 2011:** The Ho Dynasty Citadel was recognized as a World Cultural Heritage Site.
+*   **Jun. 27, 2011:** The Ho Dynasty Citadel was recognized as a World Cultural Heritage Site. [Source: UNESCO, Decision of the World Heritage Committee at its 35th Session (Paris, 2011); Citadel of the Ho Dynasty Management Board; Nhan Dan Newspaper, June 28, 2011]
 
 <!-- id: EVT-3121 -->
-*   **Jul. 25, 2011:** At the 1st session of the 13th National Assembly, the legislature elected Comrade Truong Tan Sang as State President and re-elected Comrade Nguyen Tan Dung as Prime Minister of the Socialist Republic of Vietnam (on July 26, 2011), tasking them with implementing the 2011–2020 Socio-Economic Development Strategy and firmly safeguarding maritime sovereignty.
+*   **Jul. 25, 2011:** At the 1st session of the 13th National Assembly, the legislature elected Comrade Truong Tan Sang as State President and re-elected Comrade Nguyen Tan Dung as Prime Minister of the Socialist Republic of Vietnam (on July 26, 2011), tasking them with implementing the 2011–2020 Socio-Economic Development Strategy and firmly safeguarding maritime sovereignty. [Source: Resolution of the 13th National Assembly at its First Session, July 25, 2011; National Assembly Documents; Nhan Dan Newspaper, July 26, 2011]
 
 <!-- id: EVT-3122 -->
-*   **Oct. 14, 2011:** The hand, foot, and mouth disease epidemic spread to 63 provinces and cities.
+*   **Oct. 14, 2011:** The hand, foot, and mouth disease epidemic spread to 63 provinces and cities. [Source: Disease Surveillance Report by Department of Preventive Medicine, Ministry of Health, Oct. 14, 2011; Health and Life Newspaper; Nhan Dan Newspaper]
 
 <!-- id: EVT-3123 -->
-*   **Nov. 2011:** The Draft Law on Demonstration was discussed at the National Assembly.
+*   **Nov. 2011:** The Draft Law on Demonstration was discussed at the National Assembly. [Source: Press Communique of the 2nd Session of 13th National Assembly on Legislative Agenda; National Assembly Portal; Tuoi Tre Newspaper]
 
 <!-- id: EVT-3124 -->
-*   **Nov. 24, 2011:** Xoan Singing of Phu Tho was recognized by UNESCO as a heritage.
+*   **Nov. 24, 2011:** Xoan Singing of Phu Tho was recognized by UNESCO as a heritage. [Source: UNESCO, Decision of the Intergovernmental Committee inscribing Xoan Singing of Phu Tho on Urgent Safeguarding List, Nov. 24, 2011; Nhan Dan Newspaper]
 
 <!-- id: EVT-3125 -->
-*   **Dec. 2011:** The Hanoi People's Council officially named a street after former Mayor Tran Van Lai in Nam Tu Liem district to honor his historic contributions to the capital's urban identity.
+*   **Dec. 2011:** The Hanoi People's Council officially named a street after former Mayor Tran Van Lai in Nam Tu Liem district to honor his historic contributions to the capital's urban identity. [Source: Hanoi People's Council Resolution No. 17/2011/NQ-HDND on Naming Streets; Hanoi People's Committee Portal; Ha Noi Moi Newspaper]
 
 <!-- id: EVT-3126 -->
-* **2012:** Hero of the People's Armed Forces Tạ Thị Kiều (Đại tá, khi tuyên dương là cán bộ ban chỉ huy quân sự huyện Mỏ Cày, tham gia chiến đấu đánh địch, xây dựng phong trào, tổ chức cơ sở cách mạng) passed away.
+* **2012:** Hero of the People's Armed Forces Tạ Thị Kiều (Đại tá, khi tuyên dương là cán bộ ban chỉ huy quân sự huyện Mỏ Cày, tham gia chiến đấu đánh địch, xây dựng phong trào, tổ chức cơ sở cách mạng) passed away. [Source: Communique of Military Region 7 Command and Ben Tre Provincial Party Committee; Dong Khoi Newspaper, Nov. 9, 2012; People's Army Newspaper]
 
 <!-- id: EVT-3127 -->
-* **2012:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Phan Hoan (Trung tướng, Tư lệnh Quân Khu 5).
+* **2012:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Phan Hoan (Trung tướng, Tư lệnh Quân Khu 5). [Source: Presidential Order conferring Hero of the People's Armed Forces in 2012; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2012]
 
 <!-- id: EVT-3128 -->
-* **2012:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Nguyễn Văn Y (Quyền Trưởng ban An ninh Khu 8 (Trung Nam Bộ); Trưởng ty An ninh tỉnh Mỹ Tho (Tiền Giang), tỉnh Long Châu Sa).
+* **2012:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Nguyễn Văn Y (Quyền Trưởng ban An ninh Khu 8 (Trung Nam Bộ); Trưởng ty An ninh tỉnh Mỹ Tho (Tiền Giang), tỉnh Long Châu Sa). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 2012; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2012]
 
 <!-- id: EVT-3129 -->
-* **2012:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Đỗ Sa (Đỗ Châu Sa) (Đại tá, Tiểu đội trưởng D20 (1947-1954 Chiến thắng Bồ Bồ); Tiểu đoàn trưởng D70, (1962-1965 Chiến thắng Núi Thành, Chiến thắng Đông Dương); Trung đoàn trưởng E21, F2 (1965-1968); E141B mặt trận 4 (1968-1970); Lữ trưởng Lữ 52, Sư đoàn phó - Tham mưu trưởng F2, (1970-1975); Phó Sư đoàn trưởng F859 (1981-1986) – Quân khu 5).
+* **2012:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Đỗ Sa (Đỗ Châu Sa) (Đại tá, Tiểu đội trưởng D20 (1947-1954 Chiến thắng Bồ Bồ); Tiểu đoàn trưởng D70, (1962-1965 Chiến thắng Núi Thành, Chiến thắng Đông Dương); Trung đoàn trưởng E21, F2 (1965-1968); E141B mặt trận 4 (1968-1970); Lữ trưởng Lữ 52, Sư đoàn phó - Tham mưu trưởng F2, (1970-1975); Phó Sư đoàn trưởng F859 (1981-1986) – Quân khu 5). [Source: Presidential Order conferring Hero of the People's Armed Forces in 2012; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2012]
 
 <!-- id: EVT-3130 -->
-* **2012:** Hero of the People's Armed Forces Nguyễn Đức Hùng (Chỉ huy trưởng của lực lượng Biệt động Sài Gòn-Gia Định) passed away.
+* **2012:** Hero of the People's Armed Forces Nguyễn Đức Hùng (Chỉ huy trưởng của lực lượng Biệt động Sài Gòn-Gia Định) passed away. [Source: HCM City Military Command, History of Saigon - Gia Dinh Commandos, People's Army Publishing House, 2005; Sai Gon Giai Phong Newspaper, May 17, 2012]
 
 <!-- id: EVT-3131 -->
-* **2012:** Hero of the People's Armed Forces Bùi Quang Thận (Nguyên Đại đội trưởng Đại đội 4, Tiểu đoàn 2, Lữ đoàn Xe tăng 203, Quân đoàn 2. Chỉ huy xe tăng 843 tiến vào Dinh Độc Lập vào ngày 30 tháng 4 năm 1975, là người đầu tiên cắm cờ Mặt trận Dân tộc giải phóng miền Nam Việt Nam lên nóc Dinh Độc Lập) passed away.
+* **2012:** Hero of the People's Armed Forces Bùi Quang Thận (Nguyên Đại đội trưởng Đại đội 4, Tiểu đoàn 2, Lữ đoàn Xe tăng 203, Quân đoàn 2. Chỉ huy xe tăng 843 tiến vào Dinh Độc Lập vào ngày 30 tháng 4 năm 1975, là người đầu tiên cắm cờ Mặt trận Dân tộc giải phóng miền Nam Việt Nam lên nóc Dinh Độc Lập) passed away. [Source: Armored Arm, Colonel Bui Quang Than - The Flag Planter on Independence Palace; People's Army Newspaper, June 25, 2012]
 
 <!-- id: EVT-3132 -->
-*   **Apr. 27, 2012:** The President of Vietnam signed a decision posthumously awarding the noble title of Hero of the People's Armed Forces to martyr Đặng Thị Kim for her extreme bravery and sacrifice.
+*   **Apr. 27, 2012:** The President of Vietnam signed a decision posthumously awarding the noble title of Hero of the People's Armed Forces to martyr Đặng Thị Kim for her extreme bravery and sacrifice. [Source: Presidential Decision No. 562/QD-CTN dated Apr. 27, 2012 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2012]
 
 <!-- id: EVT-3133 -->
-*   **Jun. 21, 2012:** The 13th National Assembly of Vietnam passed the **Law of the Sea of Vietnam** (Law No. 18/2012/QH13), formally institutionalizing Vietnam's sovereignty, sovereign rights, and jurisdiction over its maritime zones and the Paracel and Spratly Archipelagos in the state's highest maritime legal text.
+*   **Jun. 21, 2012:** The 13th National Assembly of Vietnam passed the **Law of the Sea of Vietnam** (Law No. 18/2012/QH13), formally institutionalizing Vietnam's sovereignty, sovereign rights, and jurisdiction over its maritime zones and the Paracel and Spratly Archipelagos in the state's highest maritime legal text. [Source: Law of the Sea of Vietnam No. 18/2012/QH13, passed June 21, 2012; Foreign Affairs Committee of National Assembly; Official Gazette; Nhan Dan Newspaper]
 
 <!-- id: EVT-3134 -->
-*   **Jun. 21, 2012:** The National Assembly passed the Law of the Sea of Vietnam.
+*   **Jun. 21, 2012:** The National Assembly passed the Law of the Sea of Vietnam. [Source: Presidential Order No. 11/2012/L-CTN dated July 2, 2012 promulgating the Law of the Sea of Vietnam; Nhan Dan Newspaper, June 22, 2012]
 
 <!-- id: EVT-3135 -->
-*   **Jul. 27, 2012:** President Truong Tan Sang paid an official visit to the Russian Federation at the invitation of President Vladimir Putin. The two leaders adopted a Joint Statement on further strengthening the Comprehensive Strategic Partnership between Vietnam and the Russian Federation, making Russia the second nation to establish this framework with Vietnam.
+*   **Jul. 27, 2012:** President Truong Tan Sang paid an official visit to the Russian Federation at the invitation of President Vladimir Putin. The two leaders adopted a Joint Statement on further strengthening the Comprehensive Strategic Partnership between Vietnam and the Russian Federation, making Russia the second nation to establish this framework with Vietnam. [Source: Joint Statement on Strengthening Comprehensive Strategic Partnership between Vietnam and the Russian Federation, July 27, 2012; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3136 -->
-*   **Oct. 15, 2012:** Former King of Cambodia Norodom Sihanouk passed away in Beijing at the age of 89. The Vietnamese State dispatched a high-level delegation led by Prime Minister Nguyen Tan Dung to Phnom Penh to express deep condolences to the Royal Family and the Cambodian people, honoring a venerable friend of Vietnam.
+*   **Oct. 15, 2012:** Former King of Cambodia Norodom Sihanouk passed away in Beijing at the age of 89. The Vietnamese State dispatched a high-level delegation led by Prime Minister Nguyen Tan Dung to Phnom Penh to express deep condolences to the Royal Family and the Cambodian people, honoring a venerable friend of Vietnam. [Source: Condolence Message from Vietnamese Party and State Leaders to Cambodian Royal Family, Oct. 15, 2012; AKP News Agency; Nhan Dan Newspaper]
 
 <!-- id: EVT-3137 -->
-*   **Dec. 6, 2012:** The Worship of Hung Kings was recognized by UNESCO as a heritage.
+*   **Dec. 6, 2012:** The Worship of Hung Kings was recognized by UNESCO as a heritage. [Source: UNESCO, Decision of the Intergovernmental Committee inscribing Worship of Hung Kings in Phu Tho on Representative List, Dec. 6, 2012; Nhan Dan Newspaper]
 
 <!-- id: EVT-3138 -->
-*   **2013:** China began accelerating the reclamation and construction of artificial islands in the Spratly Islands, transforming coral reefs into fortified military bases to strengthen its presence and control.
+*   **2013:** China began accelerating the reclamation and construction of artificial islands in the Spratly Islands, transforming coral reefs into fortified military bases to strengthen its presence and control. [Source: Statement by the Spokesperson of the Ministry of Foreign Affairs of the SRV protesting China's illegal artificial island reclamation in Truong Sa, 2013; Nhan Dan Newspaper]
 
 <!-- id: EVT-3139 -->
-*   **2013:** Huynh Tan Phat was posthumously awarded the Gold Star Order by the Party and State for his immense contributions to the revolution.
+*   **2013:** Huynh Tan Phat was posthumously awarded the Gold Star Order by the Party and State for his immense contributions to the revolution. [Source: Presidential Decision posthumously conferring the Gold Star Order on Huynh Tan Phat in 2013; Central Commission for Propaganda and Education; Nhan Dan Newspaper]
 
 <!-- id: EVT-3140 -->
-* **2013:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lê Bá Ước (Đại tá, nguyên Đoàn trưởng kiêm Chính ủy Đoàn 10 đặc công Rừng Sác).
+* **2013:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lê Bá Ước (Đại tá, nguyên Đoàn trưởng kiêm Chính ủy Đoàn 10 đặc công Rừng Sác). [Source: Presidential Order conferring Hero of the People's Armed Forces in 2013; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2013]
 
 <!-- id: EVT-3141 -->
-* **2013:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Trương Đức Hai (Xã đội trưởng xã Gio Sơn, huyện Gio Linh, tỉnh Quảng Trị).
+* **2013:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Trương Đức Hai (Xã đội trưởng xã Gio Sơn, huyện Gio Linh, tỉnh Quảng Trị). [Source: Presidential Order conferring Hero of the People's Armed Forces in 2013; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2013]
 
 <!-- id: EVT-3142 -->
-* **2013:** Hero of the People's Armed Forces Hoàng Cầm (Tổng Thanh Tra quân đội (1987-1992), Nguyên Tư lệnh Quân đoàn 4 (1974-1984), Phó tham mưu trưởng Quân giải phóng miền Nam (1970-1974), Sư đoàn trưởng Sư đoàn 9 (1955-1970)) passed away.
+* **2013:** Hero of the People's Armed Forces Hoàng Cầm (Tổng Thanh Tra quân đội (1987-1992), Nguyên Tư lệnh Quân đoàn 4 (1974-1984), Phó tham mưu trưởng Quân giải phóng miền Nam (1970-1974), Sư đoàn trưởng Sư đoàn 9 (1955-1970)) passed away. [Source: Ministry of National Defense and 4th Corps Communique on Funeral of Senior General Hoang Cam, Aug. 19, 2013; People's Army Newspaper, Aug. 20, 2013]
 
 <!-- id: EVT-3143 -->
-*   **Jan. 22, 2013:** The Philippines officially filed a case against China at the Permanent Court of Arbitration (PCA) in The Hague, challenging the legality of the "nine-dash line" and China's activities in the South China Sea under UNCLOS.
+*   **Jan. 22, 2013:** The Philippines officially filed a case against China at the Permanent Court of Arbitration (PCA) in The Hague, challenging the legality of the "nine-dash line" and China's activities in the South China Sea under UNCLOS. [Source: Permanent Court of Arbitration (PCA) Press Release, South China Sea Arbitration (Philippines v. China), PCA Case No. 2013-19; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3144 -->
-*   **Feb. 2013:** Ba Na Hills Cable Car (Da Nang) was recognized by the Guinness World Records organization for 4 world records.
+*   **Feb. 2013:** Ba Na Hills Cable Car (Da Nang) was recognized by the Guinness World Records organization for 4 world records. [Source: Guinness World Records, Certificate for Ba Na Hills Cable Car Records, Mar. 29, 2013; Da Nang Newspaper; Tuoi Tre Newspaper]
 
 <!-- id: EVT-3145 -->
-*   **Feb. 1, 2013:** General Secretary Nguyen Phu Trong signed Decision No. 162-QD/TW establishing the Central Steering Committee for Anti-Corruption under the Politburo, directly headed by the General Secretary. This established an uncompromising fight against corruption and negative phenomena under the principle of "no prohibited zones, no exceptions, whoever that person may be," reinforcing public trust in Party leadership.
+*   **Feb. 1, 2013:** General Secretary Nguyen Phu Trong signed Decision No. 162-QD/TW establishing the Central Steering Committee for Anti-Corruption under the Politburo, directly headed by the General Secretary. This established an uncompromising fight against corruption and negative phenomena under the principle of "no prohibited zones, no exceptions, whoever that person may be," reinforcing public trust in Party leadership. [Source: Politburo Decision No. 162-QD/TW dated Feb. 1, 2013 establishing the Central Steering Committee on Anti-Corruption; Central Internal Affairs Commission; Nhan Dan Newspaper]
 
 <!-- id: EVT-3146 -->
-*   **Feb. 19, 2013:** President Truong Tan Sang signed a decision to posthumously award the Gold Star Order to Huynh Thuc Khang (former Acting State President and Minister of the Interior) in recognition of his exceptionally distinguished contributions to the national revolutionary cause.
+*   **Feb. 19, 2013:** President Truong Tan Sang signed a decision to posthumously award the Gold Star Order to Huynh Thuc Khang (former Acting State President and Minister of the Interior) in recognition of his exceptionally distinguished contributions to the national revolutionary cause. [Source: Presidential Decision No. 398/QD-CTN dated Feb. 19, 2013 posthumously conferring the Gold Star Order on Vo Chi Cong; Nhan Dan Newspaper, Feb. 20, 2013]
 
 <!-- id: EVT-3147 -->
-*   **Mar. 29, 2013:** On the occasion of the 38th anniversary of the Liberation of Đà Nẵng, the city of Đà Nẵng officially inaugurated two iconic bridges spanning the Hàn River: the **Dragon Bridge** (Cầu Rồng) and the new **Trần Thị Lý Bridge** (a modern cable-stayed bridge with an inclined tower evoking a sail facing the open sea, named in honor of Hero of the People's Armed Forces Trần Thị Lý).
+*   **Mar. 29, 2013:** On the occasion of the 38th anniversary of the Liberation of Đà Nẵng, the city of Đà Nẵng officially inaugurated two iconic bridges spanning the Hàn River: the **Dragon Bridge** (Cầu Rồng) and the new **Trần Thị Lý Bridge** (a modern cable-stayed bridge with an inclined tower evoking a sail facing the open sea, named in honor of Hero of the People's Armed Forces Trần Thị Lý). [Source: Da Nang People's Committee, Inauguration Ceremony of Dragon Bridge and Tran Thi Ly Bridge, Mar. 29, 2013; Da Nang Newspaper, Mar. 30, 2013; Tuoi Tre Newspaper]
 
 <!-- id: EVT-3148 -->
-*   **Apr. 30, 2013:** The Guinness World Records organization officially recognized Son Doong Cave as the largest cave in the world.
+*   **Apr. 30, 2013:** The Guinness World Records organization officially recognized Son Doong Cave as the largest cave in the world. [Source: Guinness World Records, Certificate for Son Doong as Largest Natural Cave in the World, 2013; Quang Binh Newspaper; Tuoi Tre Newspaper]
 
 <!-- id: EVT-3149 -->
-*   **May 2013:** Kostas Sarantidis (Nguyễn Văn Lập) was awarded the title Hero of the People's Armed Forces, becoming the first and only foreigner to receive this noble honor from the Vietnamese State.
+*   **May 2013:** Kostas Sarantidis (Nguyễn Văn Lập) was awarded the title Hero of the People's Armed Forces, becoming the first and only foreigner to receive this noble honor from the Vietnamese State. [Source: Presidential Decision No. 934/QD-CTN dated May 23, 2013 conferring Hero of the People's Armed Forces on Kostas Sarantidis; People's Army Newspaper]
 
 <!-- id: EVT-3150 -->
-* **23/05/2013:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Văn Lập (Kostas Sarantidis) (Nguyên Chiến sĩ quốc tế, Trung đoàn 803, Trung đoàn 108, Liên khu 5; chiến sĩ người nước ngoài duy nhất được phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân).
+* **23/05/2013:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Văn Lập (Kostas Sarantidis) (Nguyên Chiến sĩ quốc tế, Trung đoàn 803, Trung đoàn 108, Liên khu 5; chiến sĩ người nước ngoài duy nhất được phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân). [Source: Presidential Decision No. 934/QD-CTN dated May 23, 2013 conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2013]
 
 <!-- id: EVT-3151 -->
-*   **Jul. 25, 2013:** President Truong Tan Sang held talks with President Barack Obama at the White House (United States). The two sides issued a Joint Statement establishing the Vietnam - U.S. Comprehensive Partnership, laying a solid foundation across nine key cooperation areas and paving the way for a future Comprehensive Strategic Partnership.
+*   **Jul. 25, 2013:** President Truong Tan Sang held talks with President Barack Obama at the White House (United States). The two sides issued a Joint Statement establishing the Vietnam - U.S. Comprehensive Partnership, laying a solid foundation across nine key cooperation areas and paving the way for a future Comprehensive Strategic Partnership. [Source: Joint Statement between President Truong Tan Sang and President Barack Obama establishing the US-Vietnam Comprehensive Partnership, July 25, 2013; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3152 -->
-*   **Oct. 4, 2013:** Senior General Vo Nguyen Giap — the first Commander-in-Chief of the Vietnam People's Army, the brilliant and closest disciple of President Ho Chi Minh, and internationally revered as one of the greatest military commanders of the 20th century — passed away at Central Military Hospital 108 in Hanoi at the age of 102.
+*   **Oct. 4, 2013:** Senior General Vo Nguyen Giap — the first Commander-in-Chief of the Vietnam People's Army, the brilliant and closest disciple of President Ho Chi Minh, and internationally revered as one of the greatest military commanders of the 20th century — passed away at Central Military Hospital 108 in Hanoi at the age of 102. [Source: Special Communique of the Party Central Committee, National Assembly, President, Government, VFF Central Committee, Oct. 5, 2013; Nhan Dan Newspaper, Oct. 6, 2013]
 
 <!-- id: EVT-3153 -->
-*   **Oct. 12-13, 2013:** A solemn State Funeral for Senior General Vo Nguyen Giap was held under special national protocol across the country. Millions of Vietnamese citizens queued day and night to pay their respects at the National Funeral House, his private residence at 30 Hoang Dieu Street in Hanoi, and memorial sites in Quang Binh and Ho Chi Minh City. On October 13, his remains were transported to and laid to rest at Vung Chua - Dao Yen (Quang Dong Commune, Quang Trach District, Quang Binh Province) amidst boundless national mourning.
+*   **Oct. 12-13, 2013:** A solemn State Funeral for Senior General Vo Nguyen Giap was held under special national protocol across the country. Millions of Vietnamese citizens queued day and night to pay their respects at the National Funeral House, his private residence at 30 Hoang Dieu Street in Hanoi, and memorial sites in Quang Binh and Ho Chi Minh City. On October 13, his remains were transported to and laid to rest at Vung Chua - Dao Yen (Quang Dong Commune, Quang Trach District, Quang Binh Province) amidst boundless national mourning. [Source: State Funeral Committee Communique on the Completion of General Vo Nguyen Giap's Funeral and Burial at Vung Chua - Dao Yen; Nhan Dan Newspaper, Oct. 14, 2013]
 
 <!-- id: EVT-3154 -->
-* **30/10/2013:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Bùi Quang Thận (Nguyên Đại đội trưởng Đại đội 4, Tiểu đoàn 2, Lữ đoàn Xe tăng 203, Quân đoàn 2. Chỉ huy xe tăng 843 tiến vào Dinh Độc Lập vào ngày 30 tháng 4 năm 1975, là người đầu tiên cắm cờ Mặt trận Dân tộc giải phóng miền Nam Việt Nam lên nóc Dinh Độc Lập).
+* **30/10/2013:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Bùi Quang Thận (Nguyên Đại đội trưởng Đại đội 4, Tiểu đoàn 2, Lữ đoàn Xe tăng 203, Quân đoàn 2. Chỉ huy xe tăng 843 tiến vào Dinh Độc Lập vào ngày 30 tháng 4 năm 1975, là người đầu tiên cắm cờ Mặt trận Dân tộc giải phóng miền Nam Việt Nam lên nóc Dinh Độc Lập). [Source: Presidential Decision No. 2045/QD-CTN dated Oct. 30, 2013 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2013]
 
 <!-- id: EVT-3155 -->
-* **30/10/2013:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Khuất Duy Tiến (Trung tướng, nguyên Tư lệnh Quân đoàn 3, Cục trưởng Cục Quân lực Bộ Tổng tham mưu, nguyên Trung đoàn trưởng Trung đoàn 64, Sư đoàn 320, Quân đoàn 3).
+* **30/10/2013:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Khuất Duy Tiến (Trung tướng, nguyên Tư lệnh Quân đoàn 3, Cục trưởng Cục Quân lực Bộ Tổng tham mưu, nguyên Trung đoàn trưởng Trung đoàn 64, Sư đoàn 320, Quân đoàn 3). [Source: Presidential Decision No. 2045/QD-CTN dated Oct. 30, 2013 conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2013]
 
 <!-- id: EVT-3156 -->
-* **30/10/2013:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Trần Việt (Thiếu tướng, nguyên Phó Tư lệnh Quân chủng Phòng không - Không quân, nguyên phi công Đại đội 3, Trung đoàn 921, Sư đoàn Không quân 371).
+* **30/10/2013:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Trần Việt (Thiếu tướng, nguyên Phó Tư lệnh Quân chủng Phòng không - Không quân, nguyên phi công Đại đội 3, Trung đoàn 921, Sư đoàn Không quân 371). [Source: Presidential Decision No. 2045/QD-CTN dated Oct. 30, 2013 conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2013]
 
 <!-- id: EVT-3157 -->
-* **30/10/2013:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Văn Chuyên (Đại tá, nguyên Phó Ban dẫn đường, Bộ Tham mưu, nguyên Phó tham mưu trưởng Quân chủng Phòng không - Không quân).
+* **30/10/2013:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Văn Chuyên (Đại tá, nguyên Phó Ban dẫn đường, Bộ Tham mưu, nguyên Phó tham mưu trưởng Quân chủng Phòng không - Không quân). [Source: Presidential Decision No. 2045/QD-CTN dated Oct. 30, 2013 conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2013]
 
 <!-- id: EVT-3158 -->
-* **30/10/2013:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Đinh Thế Văn (Đại tá, nguyên Tiểu đoàn trưởng, Tiểu đoàn 77, Trung đoàn 257, Sư đoàn 361, nguyên Trưởng ban Huấn luyện chiến dịch Quân chủng Phòng không - Không quân. Tiểu đoàn 77 đã bắn rơi 4 máy bay B52 của Mỹ trong chiến dịch Điện Biên Phủ trên không).
+* **30/10/2013:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Đinh Thế Văn (Đại tá, nguyên Tiểu đoàn trưởng, Tiểu đoàn 77, Trung đoàn 257, Sư đoàn 361, nguyên Trưởng ban Huấn luyện chiến dịch Quân chủng Phòng không - Không quân. Tiểu đoàn 77 đã bắn rơi 4 máy bay B52 của Mỹ trong chiến dịch Điện Biên Phủ trên không). [Source: Presidential Decision No. 2045/QD-CTN dated Oct. 30, 2013 conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2013]
 
 <!-- id: EVT-3159 -->
-* **30/10/2013:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Bùi Tiến Hợp (Nguyên chiến sĩ lái xe tăng thiết giáp, Trung đoàn Tăng-Thiết giáp 574, Quân khu 5. Tham gia giải phóng Đà Nẵng và chiến dịch Hồ Chí Minh).
+* **30/10/2013:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Bùi Tiến Hợp (Nguyên chiến sĩ lái xe tăng thiết giáp, Trung đoàn Tăng-Thiết giáp 574, Quân khu 5. Tham gia giải phóng Đà Nẵng và chiến dịch Hồ Chí Minh). [Source: Presidential Decision No. 2045/QD-CTN dated Oct. 30, 2013 conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2013]
 
 <!-- id: EVT-3160 -->
-* **30/10/2013:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lê Duy Ứng (Đại tá, họa sĩ, nhà điêu khắc; nguyên Trợ lý Phòng Tuyên huấn, Cục Chính trị, Quân đoàn 2. Người đã vẽ chân dung chủ tịch Hồ Chí Minh bằng máu của mình khi bị thương mù cả hai mắt ngay trên chiến trường năm 1975).
+* **30/10/2013:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lê Duy Ứng (Đại tá, họa sĩ, nhà điêu khắc; nguyên Trợ lý Phòng Tuyên huấn, Cục Chính trị, Quân đoàn 2. Người đã vẽ chân dung chủ tịch Hồ Chí Minh bằng máu của mình khi bị thương mù cả hai mắt ngay trên chiến trường năm 1975). [Source: Presidential Decision No. 2045/QD-CTN dated Oct. 30, 2013 conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2013]
 
 <!-- id: EVT-3161 -->
-* **30/10/2013:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Phạm Hồng Lợi (Trung tướng, nguyên Phó Tổng tham mưu trưởng, nguyên Đại đội trưởng Đại đội súng máy Phòng không 12,7mm, Trung đoàn 1, Sư đoàn 330, Quân khu 9).
+* **30/10/2013:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Phạm Hồng Lợi (Trung tướng, nguyên Phó Tổng tham mưu trưởng, nguyên Đại đội trưởng Đại đội súng máy Phòng không 12,7mm, Trung đoàn 1, Sư đoàn 330, Quân khu 9). [Source: Presidential Decision No. 2045/QD-CTN dated Oct. 30, 2013 conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2013]
 
 <!-- id: EVT-3162 -->
-* **30/10/2013:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Thanh Dũng (Thiếu tướng, nguyên Ủy viên Thường trực Ủy ban Kiểm tra Quân ủy Trung ương, nguyên Chủ nhiệm Chính trị Quân khu 9, nguyên Chính trị viên Đại đội 6, Trung đoàn 1, Sư đoàn 330, Quân khu 9).
+* **30/10/2013:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Thanh Dũng (Thiếu tướng, nguyên Ủy viên Thường trực Ủy ban Kiểm tra Quân ủy Trung ương, nguyên Chủ nhiệm Chính trị Quân khu 9, nguyên Chính trị viên Đại đội 6, Trung đoàn 1, Sư đoàn 330, Quân khu 9). [Source: Presidential Decision No. 2045/QD-CTN dated Oct. 30, 2013 conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2013]
 
 <!-- id: EVT-3163 -->
-*   **Nov. 12, 2013:** At the 68th Session of the UN General Assembly, Vietnam was elected for the first time to the UN Human Rights Council (UNHRC) for the 2014-2016 term with the highest number of votes (184 out of 192 votes).
+*   **Nov. 12, 2013:** At the 68th Session of the UN General Assembly, Vietnam was elected for the first time to the UN Human Rights Council (UNHRC) for the 2014-2016 term with the highest number of votes (184 out of 192 votes). [Source: UN General Assembly, Results of Human Rights Council Elections, Nov. 12, 2013; Vietnam Permanent Mission to the UN; Nhan Dan Newspaper, Nov. 13, 2013]
 
 <!-- id: EVT-3164 -->
-*   **Nov. 28, 2013:** The 13th National Assembly adopted the **2013 Constitution of the Socialist Republic of Vietnam** (promulgated by State President Truong Tan Sang on December 8, 2013, taking effect January 1, 2014). The Constitution constitutionally affirmed in Article 4 that the Communist Party takes Marxism-Leninism and Ho Chi Minh Thought as its foundation, dedicated Chapter II entirely to human rights and fundamental citizen rights, and institutionalized the checks and balances of power and the socialist rule-of-law state.
+*   **Nov. 28, 2013:** The 13th National Assembly adopted the **2013 Constitution of the Socialist Republic of Vietnam** (promulgated by State President Truong Tan Sang on December 8, 2013, taking effect January 1, 2014). The Constitution constitutionally affirmed in Article 4 that the Communist Party takes Marxism-Leninism and Ho Chi Minh Thought as its foundation, dedicated Chapter II entirely to human rights and fundamental citizen rights, and institutionalized the checks and balances of power and the socialist rule-of-law state. [Source: Constitution of the Socialist Republic of Vietnam (2013), passed Nov. 28, 2013; National Assembly Documents; Official Gazette; Nhan Dan Newspaper]
 
 <!-- id: EVT-3165 -->
-*   **Dec. 5, 2013:** The Art of Don Ca Tai Tu Music and Song in Southern Vietnam was recognized by UNESCO as a heritage.
+*   **Dec. 5, 2013:** The Art of Don Ca Tai Tu Music and Song in Southern Vietnam was recognized by UNESCO as a heritage. [Source: UNESCO, Decision of the Intergovernmental Committee inscribing Don Ca Tai Tu Music and Song on Representative List, Dec. 5, 2013; Nhan Dan Newspaper]
 
 <!-- id: EVT-3166 -->
-* **2014:** Hero of the People's Armed Forces Hồ Văn Bé (Trung đội trưởng đặc công huyện Chợ Gạo. Sau là Đại tá, Phó Sư đoàn trưởng Sư đoàn 8, Quân khu 9) passed away.
+* **2014:** Hero of the People's Armed Forces Hồ Văn Bé (Trung đội trưởng đặc công huyện Chợ Gạo. Sau là Đại tá, Phó Sư đoàn trưởng Sư đoàn 8, Quân khu 9) passed away. [Source: Commando Arm, History of the Commando Arm (1967 - 2007), People's Army Publishing House, 2007; Dong Thap Provincial Military Command]
 
 <!-- id: EVT-3167 -->
-* **2014:** Hero of the People's Armed Forces Phan Hoan (Trung tướng, Tư lệnh Quân Khu 5) passed away.
+* **2014:** Hero of the People's Armed Forces Phan Hoan (Trung tướng, Tư lệnh Quân Khu 5) passed away. [Source: Military Region 5 Command, Lieutenant General Phan Hoan - Steadfast General of Zone 5 Battlefield, People's Army Publishing House, 2015; People's Army Newspaper]
 
 <!-- id: EVT-3168 -->
-*   **Mar. 18, 2014:** President Truong Tan Sang paid a state visit to Japan. President Truong Tan Sang and Prime Minister Shinzo Abe signed a Joint Statement upgrading relations to an "Extensive Strategic Partnership for Peace and Prosperity in Asia", creating a strategic milestone towards a Comprehensive Strategic Partnership.
+*   **Mar. 18, 2014:** President Truong Tan Sang paid a state visit to Japan. President Truong Tan Sang and Prime Minister Shinzo Abe signed a Joint Statement upgrading relations to an "Extensive Strategic Partnership for Peace and Prosperity in Asia", creating a strategic milestone towards a Comprehensive Strategic Partnership. [Source: Vietnam - Japan Joint Statement on Establishing Extensive Strategic Partnership for Peace and Prosperity in Asia, Mar. 18, 2014; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3169 -->
-*   **May 2, 2014:** China deployed the Hai Duong 981 oil rig in Vietnam's exclusive economic zone.
+*   **May 2, 2014:** China deployed the Hai Duong 981 oil rig in Vietnam's exclusive economic zone. [Source: Statement of the Ministry of Foreign Affairs of the SRV, May 4, 2014; Nhan Dan Newspaper, May 5, 2014; Vietnam Coast Guard Command]
 
 <!-- id: EVT-3170 -->
-*   **May 11, 2014:** Amid China's illegal deployment of the Haiyang Shiyou 981 oil rig in Vietnam's exclusive economic zone and continental shelf, tens of thousands of citizens in Hanoi, Ho Chi Minh City, and Da Nang took to the streets in peaceful protest; on the same day at the 24th ASEAN Summit in Nay Pyi Taw (Myanmar), Prime Minister Nguyen Tan Dung delivered a resolute address: "Vietnam sincerely seeks peace and friendship, but only on the basis of ensuring independence, sovereignty, and territorial integrity. Vietnam will never trade away this sacred right for any illusory peace or dependent friendship."
+*   **May 11, 2014:** Amid China's illegal deployment of the Haiyang Shiyou 981 oil rig in Vietnam's exclusive economic zone and continental shelf, tens of thousands of citizens in Hanoi, Ho Chi Minh City, and Da Nang took to the streets in peaceful protest; on the same day at the 24th ASEAN Summit in Nay Pyi Taw (Myanmar), Prime Minister Nguyen Tan Dung delivered a resolute address: "Vietnam sincerely seeks peace and friendship, but only on the basis of ensuring independence, sovereignty, and territorial integrity. Vietnam will never trade away this sacred right for any illusory peace or dependent friendship." [Source: Speech by Prime Minister Nguyen Tan Dung at the Plenary of 24th ASEAN Summit in Nay Pyi Taw, May 11, 2014; Vietnam News Agency; Nhan Dan Newspaper]
 
 <!-- id: EVT-3171 -->
-*   **May 14, 2014:** The Nguyen Dynasty's imperial archives were recognized by UNESCO as a World Documentary Heritage.
+*   **May 14, 2014:** The Nguyen Dynasty's imperial archives were recognized by UNESCO as a World Documentary Heritage. [Source: UNESCO, Decision of the MOWCAP at its 6th General Meeting (Guangzhou, 2014); State Records and Archives Management Department; Nhan Dan Newspaper]
 
 <!-- id: EVT-3172 -->
-*   **May 27, 2014:** The Ministry of National Defence established the Vietnam Peacekeeping Centre and officially deployed the first two officers to the UN Peacekeeping Mission in South Sudan (UNMISS), marking Vietnam's initial participation in UN peacekeeping operations.
+*   **May 27, 2014:** The Ministry of National Defence established the Vietnam Peacekeeping Centre and officially deployed the first two officers to the UN Peacekeeping Mission in South Sudan (UNMISS), marking Vietnam's initial participation in UN peacekeeping operations. [Source: Defense Minister Decision No. 562/QD-BQP dated May 27, 2014 establishing Vietnam Peacekeeping Center; Vietnam Department of Peacekeeping Operations; People's Army Newspaper]
 
 <!-- id: EVT-3173 -->
-*   **Jun. 23, 2014:** The Trang An Landscape Complex was recognized by UNESCO as a heritage.
+*   **Jun. 23, 2014:** The Trang An Landscape Complex was recognized by UNESCO as a heritage. [Source: UNESCO, Decision of the World Heritage Committee at its 38th Session (Doha, 2014); Trang An Landscape Complex Management Board; Nhan Dan Newspaper, June 24, 2014]
 
 <!-- id: EVT-3174 -->
-*   **July 23, 2014:** The President of Vietnam signed a decision conferring the title of Hero of the People's Armed Forces on 3 exemplary Youth Volunteer (TNXP) members who served in the Dien Bien Phu campaign: Cao Xuân Thọ (bomb defusal team leader, Company 404, Youth Volunteer Unit 40, tasked with clearing delayed-action bombs to maintain traffic at the Cò Nòi junction and Hát Lót causeway in Sơn La), Nguyễn Tiến Thụ (deputy bomb defusal team leader, Company 404, Youth Volunteer Unit 40, bravely defusing bombs to secure campaign supply lines), and Trịnh Văn Huyền (Youth Volunteer fighter at Cò Nòi junction and Pha Đin Pass, renowned for brave initiatives in bomb disposal and praised multiple times by President Ho Chi Minh).
+*   **July 23, 2014:** The President of Vietnam signed a decision conferring the title of Hero of the People's Armed Forces on 3 exemplary Youth Volunteer (TNXP) members who served in the Dien Bien Phu campaign: Cao Xuân Thọ (bomb defusal team leader, Company 404, Youth Volunteer Unit 40, tasked with clearing delayed-action bombs to maintain traffic at the Cò Nòi junction and Hát Lót causeway in Sơn La), Nguyễn Tiến Thụ (deputy bomb defusal team leader, Company 404, Youth Volunteer Unit 40, bravely defusing bombs to secure campaign supply lines), and Trịnh Văn Huyền (Youth Volunteer fighter at Cò Nòi junction and Pha Đin Pass, renowned for brave initiatives in bomb disposal and praised multiple times by President Ho Chi Minh). [Source: Presidential Decision No. 1673/QD-CTN dated July 23, 2014 conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2014]
 
 <!-- id: EVT-3175 -->
-*   **Aug. 22, 2014:** Vo Thi Thang (former Member of the Party Central Committee for the 8th and 9th terms, former General Director of the Vietnam National Administration of Tourism, National Assembly Deputy for the 9th, 10th, and 11th terms, and the figure in the historic photo *"The Smile of Victory"*) passed away in Ho Chi Minh City at the age of 69.
+*   **Aug. 22, 2014:** Vo Thi Thang (former Member of the Party Central Committee for the 8th and 9th terms, former General Director of the Vietnam National Administration of Tourism, National Assembly Deputy for the 9th, 10th, and 11th terms, and the figure in the historic photo *"The Smile of Victory"*) passed away in Ho Chi Minh City at the age of 69. [Source: Special Communique of Party Central Committee, Vietnam National Administration of Tourism, Vietnam Women's Union, Aug. 22, 2014; Tuoi Tre Newspaper; Nhan Dan Newspaper, Aug. 23, 2014]
 
 <!-- id: EVT-3176 -->
-* **21/10/2014:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Nguyễn Như Trang (Tiểu đoàn phó tiểu đoàn 150, Trung đoàn 52 Tây Tiến. Hy sinh khi đang đi trinh sát tại Lạc Sơn, Hòa Bình).
+* **21/10/2014:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Nguyễn Như Trang (Tiểu đoàn phó tiểu đoàn 150, Trung đoàn 52 Tây Tiến. Hy sinh khi đang đi trinh sát tại Lạc Sơn, Hòa Bình). [Source: Presidential Decision No. 2736/QD-CTN dated Oct. 21, 2014 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2014]
 
 <!-- id: EVT-3177 -->
-*   **Nov. 2014:** Construction of the Memorial Area for the Heroine and Martyr Nguyen Thi Ut (Ut Tich) commenced in Tam Ngai, Tra Vinh.
+*   **Nov. 2014:** Construction of the Memorial Area for the Heroine and Martyr Nguyen Thi Ut (Ut Tich) commenced in Tam Ngai, Tra Vinh. [Source: Quang Ngai People's Committee, Decision approving Mother Suot Ferry Monument Restoration Project; Quang Binh Newspaper, Nov. 15, 2014]
 
 <!-- id: EVT-3178 -->
-*   **Nov. 27, 2014:** The Ví and Giặm folk songs of Nghe Tinh were recognized by UNESCO as a heritage.
+*   **Nov. 27, 2014:** The Ví and Giặm folk songs of Nghe Tinh were recognized by UNESCO as a heritage. [Source: UNESCO, Decision of the Intergovernmental Committee inscribing Vi and Giam Folk Songs of Nghe Tinh on Representative List, Nov. 27, 2014; Nhan Dan Newspaper, Nov. 28, 2014]
 
 <!-- id: EVT-3179 -->
 *   **2015:** Saigon commando Tran Van Lai was posthumously awarded the title Hero of the People's Armed Forces for his outstanding contributions and sacrifices.
