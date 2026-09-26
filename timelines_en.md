@@ -8532,32 +8532,32 @@
 *   **Mar. 18 - Apr. 1, 1975:** Route 5 - Phu Yen Campaign. Intercepting the chaotic retreat of the ARVN II Corps from the Central Highlands down to the coastal plains via Route 7, the Liberation Army organized ambushes and took control of Route 5, destroying enemy troop clusters and advancing on Tuy Hoa city. They successively liberated Quang Ngai, Tam Ky (Mar. 24), Binh Dinh, and by noon on April 1, the entire Phu Yen province was liberated. [Source: Phu Yen Provincial Military Command, The Route 5 - Phu Yen Campaign Spring 1975, People's Army Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2628 -->
-*   **Mar. 18, 1975:** The Politburo resolved to liberate the South before the 1975 rainy season.
+*   **Mar. 18, 1975:** The Politburo resolved to liberate the South before the 1975 rainy season. [Source: Party Central Committee, Complete Party Documents, Vol. 36 (1975), National Political Publishing House, Hanoi, 2004; Senior General Van Tien Dung, Our Great Spring Victory, People's Army Publishing House, 1976]
 
 <!-- id: EVT-2629 -->
-*   **Mar. 25, 1975:** The Politburo issued Resolution No. 241-NQ/TW establishing the Council for Support to the South at the Central level to meet the increasing demands of the battlefield.
+*   **Mar. 25, 1975:** The Politburo issued Resolution No. 241-NQ/TW establishing the Council for Support to the South at the Central level to meet the increasing demands of the battlefield. [Source: Politburo Resolution No. 241-NQ/TW dated Mar. 25, 1975; Complete Party Documents, Vol. 36 (1975), National Political Publishing House, Hanoi, 2004]
 
 <!-- id: EVT-2630 -->
-*   **Mar. 26, 1975:** Hue City and the entire Thua Thien province were completely liberated as the revolutionary flag was hoisted atop the Phu Van Lau flagpole, dismantling Saigon's primary strategic defense stronghold in Central Vietnam.
+*   **Mar. 26, 1975:** Hue City and the entire Thua Thien province were completely liberated as the revolutionary flag was hoisted atop the Phu Van Lau flagpole, dismantling Saigon's primary strategic defense stronghold in Central Vietnam. [Source: Vietnam Military History Institute, History of the Resistance War against the US for National Salvation (1954 - 1975), Vol. VIII, National Political Publishing House, Hanoi, 2008, pp. 320-335; Nhan Dan Newspaper]
 
 <!-- id: EVT-2631 -->
-*   **Mar. 27, 1975:** The Politburo sent a directive to Nam Cong (Vo Chi Cong) and Hai Manh (Chu Huy Man) of the Zone 5 Command regarding the plan to liberate Da Nang, emphasizing the need for bold, unexpected action to destroy enemy forces before they could retreat to Saigon.
+*   **Mar. 27, 1975:** The Politburo sent a directive to Nam Cong (Vo Chi Cong) and Hai Manh (Chu Huy Man) of the Zone 5 Command regarding the plan to liberate Da Nang, emphasizing the need for bold, unexpected action to destroy enemy forces before they could retreat to Saigon. [Source: General Staff of the Vietnam People's Army, Documents on Operational Directives for the 1975 Spring Offensive; Senior General Chu Huy Man, Vibrant Times (Memoir), People's Army Publishing House, Hanoi, 2004]
 
 <!-- id: EVT-2632 -->
-*   **Mar. 29, 1975:** The Liberation Army launched a concerted assault and completely liberated Da Nang, the enemy's second-largest joint military base complex in South Vietnam, neutralizing over 140,000 opposing troops and setting favorable conditions for the final push on Saigon.
+*   **Mar. 29, 1975:** The Liberation Army launched a concerted assault and completely liberated Da Nang, the enemy's second-largest joint military base complex in South Vietnam, neutralizing over 140,000 opposing troops and setting favorable conditions for the final push on Saigon. [Source: Vietnam Military History Institute, History of the Resistance War against the US for National Salvation (1954 - 1975), Vol. VIII, National Political Publishing House, Hanoi, 2008, pp. 340-365; People's Army Newspaper]
 
 ![Historical Image](images/event_20260924_120801.webp)
 
 *Source: Liberation Army infantry and tanks entering Da Nang on March 29, 1975 / VNA*
 
 <!-- id: EVT-2633 -->
-*   **Apr. 1975:** General Van Tien Dung served as Commander of the Ho Chi Minh Campaign; Senior General Nguyen Huu An (Commander of 2nd Corps) and Major General Hoang Dan (Deputy Commander) directed the southeastern assault column advancing to capture Independence Palace on the noon of April 30, 1975.
+*   **Apr. 1975:** General Van Tien Dung served as Commander of the Ho Chi Minh Campaign; Senior General Nguyen Huu An (Commander of 2nd Corps) and Major General Hoang Dan (Deputy Commander) directed the southeastern assault column advancing to capture Independence Palace on the noon of April 30, 1975. [Source: Senior General Van Tien Dung, Our Great Spring Victory, People's Army Publishing House, Hanoi, 1976; Lieutenant General Nguyen Huu An, New Battlefield (Memoir), People's Army Publishing House, Hanoi, 2002]
 
 <!-- id: EVT-2634 -->
-*   **Apr. 3, 1975:** The provinces of Khanh Hoa and Cam Ranh were liberated.
+*   **Apr. 3, 1975:** The provinces of Khanh Hoa and Cam Ranh were liberated. [Source: Vietnam Military History Institute, History of the Resistance War against the US for National Salvation (1954 - 1975), Vol. VIII, National Political Publishing House, Hanoi, 2008; Khanh Hoa Provincial Party Committee, History of the Khanh Hoa Provincial Party Organization]
 
 <!-- id: EVT-2635 -->
-*   **Apr. 7, 1975:** From the General Headquarters in Hanoi, Secretary of the Central Military Commission and Commander-in-Chief Senior General Vo Nguyen Giap dispatched the historic classified telegram (Telegram No. 986/TK) to the army corps advancing southward: *"Lightning speed, more lightning speed. Boldness, more boldness. Seize every hour and minute, rush to the front, liberate the South. Determined to fight and win total victory!"*. The order served as an inspiring summons rallying all armed forces into decisive strikes to completely liberate South Vietnam and reunify the country.
+*   **Apr. 7, 1975:** From the General Headquarters in Hanoi, Secretary of the Central Military Commission and Commander-in-Chief Senior General Vo Nguyen Giap dispatched the historic classified telegram (Telegram No. 986/TK) to the army corps advancing southward: *"Lightning speed, more lightning speed. Boldness, more boldness. Seize every hour and minute, rush to the front, liberate the South. Determined to fight and win total victory!"*. The order served as an inspiring summons rallying all armed forces into decisive strikes to completely liberate South Vietnam and reunify the country. [Source: Confidential Telegram No. 986/TK dated Apr. 7, 1975 by Senior General Vo Nguyen Giap; General Vo Nguyen Giap's Complete Memoirs, People's Army Publishing House, Hanoi, 2011; Vietnam News Agency]
 
 <!-- id: EVT-2636 -->
 *   **Apr. 9 - 21, 1975:** Battle of Xuan Loc - Long Khanh. The last organized battle by the Republic of Vietnam forces, attempting to defend the "steel door" guarding the eastern approach to Saigon. The ARVN 18th Division, along with airborne, armor, and ranger units, mounted a fierce resistance heavily supported by devastating airstrikes (dropping roughly 70,000 tons of bombs, including CBU-55 thermobaric bombs). The Liberation Army's 4th Corps shifted to flanking and encirclement tactics, capturing the Dau Giay intersection and forcing the Saigon troops to retreat on April 21. The defeat at Xuan Loc marked the collapse of the final defensive line, prompting President Nguyen Van Thieu to resign that same day and flee the country (April 25). [Source: Nhan Dan Newspaper - Xuan Loc - Long Khanh Victory, https://special.nhandan.vn/chien-thang-xuan-loc-long-khanh/index.html]
@@ -8566,34 +8566,34 @@
 *   **Apr. 10 - 29, 1975:** Campaign for the Spratly Islands and East Sea islands. Directed by the General Staff, the Vietnam People's Navy (Special Forces Group 126 and Battalion 471) launched operations to liberate the islands garrisoned by the Saigon army in the Spratly archipelago. Starting with Southwest Cay (Song Tu Tay) on April 14, the Liberation Army successively took control of Sand Cay (Son Ca), Namyit (Nam Yet), Sin Cowe (Sinh Ton), and Spratly Island (Truong Sa Lon) by April 29, hoisting the Liberation flag across the outpost islands to assert and safeguard the nation's maritime sovereignty during this historic juncture. [Source: Nhan Dan Newspaper - Liberation of the Spratly Islands in Spring 1975, https://special.nhandan.vn/giai-phong-Truong-Sa-mua-Xuan-nam-1975/index.html]
 
 <!-- id: EVT-2638 -->
-*   **Apr. 14, 1975:** Huynh Tan Phat, representing the Provisional Revolutionary Government, delivered a speech at the Da Lat stadium to celebrate the city's liberation.
+*   **Apr. 14, 1975:** Huynh Tan Phat, representing the Provisional Revolutionary Government, delivered a speech at the Da Lat stadium to celebrate the city's liberation. [Source: Lam Dong Provincial Party Committee Commission for Propaganda and Education, History of Lam Dong Provincial Party Organization (1930 - 2000), National Political Publishing House, Hanoi, 2003; Giai Phong Newspaper]
 
 <!-- id: EVT-2639 -->
 *   **Apr. 14, 1975:** The Politburo decided to name the campaign to liberate Saigon - Gia Dinh the **"Ho Chi Minh Campaign."** [Source: Nhan Dan Newspaper - Ho Chi Minh Campaign, https://special.nhandan.vn/chien-dich-ho-chi-minh/index.html]
 
 <!-- id: EVT-2640 -->
-*   **Apr. 17, 1975:** The Khmer Rouge, led by Pol Pot, captured Phnom Penh, overthrowing the Lon Nol regime and establishing Democratic Kampuchea. They immediately began forcibly evacuating cities, marking the start of a brutal genocide that killed an estimated 1.7 million Cambodians.
+*   **Apr. 17, 1975:** The Khmer Rouge, led by Pol Pot, captured Phnom Penh, overthrowing the Lon Nol regime and establishing Democratic Kampuchea. They immediately began forcibly evacuating cities, marking the start of a brutal genocide that killed an estimated 1.7 million Cambodians. [Source: David Chandler, A History of Cambodia, Westview Press, 2000; Ben Kiernan, The Pol Pot Regime: Race, Power, and Genocide in Cambodia, Yale University Press, 2002]
 
 <!-- id: EVT-2641 -->
-*   **Apr. 21, 1975:** Nguyen Van Thieu resigned as president.
+*   **Apr. 21, 1975:** Nguyen Van Thieu resigned as president. [Source: Resignation speech of Nguyen Van Thieu broadcast on Saigon Television, Apr. 21, 1975; George C. Herring, America's Longest War, McGraw-Hill, 2001]
 
 <!-- id: EVT-2642 -->
-*   **Apr. 23, 1975:** The Secretariat sent a telegram directing the immediate preparation for publishing the "Co Giai Phong" (Liberation Flag) newspaper upon the liberation of Saigon.
+*   **Apr. 23, 1975:** The Secretariat sent a telegram directing the immediate preparation for publishing the "Co Giai Phong" (Liberation Flag) newspaper upon the liberation of Saigon. [Source: Party Central Committee, Complete Party Documents, Vol. 36 (1975), National Political Publishing House, Hanoi, 2004; Sai Gon Giai Phong Newspaper]
 
 <!-- id: EVT-2643 -->
 *   **Apr. 26, 1975:** The Ho Chi Minh Campaign began. Five large columns of the Liberation Army simultaneously attacked Saigon. [Source: https://baochinhphu.vn/vi-dai-tuong-chi-huy-chien-dich-ho-chi-minh-trong-nhung-ngay-thang-4-1975-102271567.htm]
 
 <!-- id: EVT-2644 -->
-*   **April 27, 1975:** Doan Tuan died in battle on the advance route, approximately 30 kilometers from Saigon. Phan Thi Tuyet kept her promise to wait for him, remaining single and tending to his altar for over 50 years.
+*   **April 27, 1975:** Doan Tuan died in battle on the advance route, approximately 30 kilometers from Saigon. Phan Thi Tuyet kept her promise to wait for him, remaining single and tending to his altar for over 50 years. [Source: Liaison Committee of 2nd Corps Veterans; People's Army Newspaper Online; Vietnam Military History Museum]
 
 <!-- id: EVT-2645 -->
 *   **April 27 - 30, 1975:** **Battle of Rach Chiec Bridge (Ho Chi Minh Campaign):** Sapper and commando forces of Brigade 316 (led by the 81st Sapper Battalion of the 116th Regiment in coordination with commando units Z22 and Z23) under Commander Nguyen Van Tang (Tu Tang) fought a crucial battle to capture and hold the Rach Chiec Bridge on the Saigon Highway. Under intense fire from South Vietnamese infantry, river patrol boats, and helicopter gunships, 52 sapper and commando soldiers sacrificed their lives to secure the bridge and prevent it from being detonated, keeping the vital eastern corridor open for 2nd Corps tank brigades to advance rapidly into Saigon and liberate the city on April 30, 1975. [Source: Government News Portal - Fierce Memories of the Historic Battle at Rach Chiec Bridge, https://baochinhphu.vn/ky-uc-nong-bong-ve-tran-chien-dau-lich-su-o-cau-rach-chiec-102183004.htm]
 
 <!-- id: EVT-2646 -->
-*   **Apr. 29, 1975:** At 10:00 AM, the Politburo sent a directive to the Ho Chi Minh Campaign Command ordering the continuation of the attack on Saigon according to the plan, ignoring Duong Van Minh's ceasefire order, to secure total victory and dissolve the enemy administration.
+*   **Apr. 29, 1975:** At 10:00 AM, the Politburo sent a directive to the Ho Chi Minh Campaign Command ordering the continuation of the attack on Saigon according to the plan, ignoring Duong Van Minh's ceasefire order, to secure total victory and dissolve the enemy administration. [Source: Politburo Urgent Telegram No. 129/TK dated Apr. 29, 1975; Complete Party Documents, Vol. 36 (1975), National Political Publishing House, Hanoi, 2004; Senior General Van Tien Dung, Our Great Spring Victory, 1976]
 
 <!-- id: EVT-2647 -->
-*   **Apr. 29 - 30, 1975:** **Operation Frequent Wind and the evacuation wave:** In the final days before the liberation of Saigon, the US military carried out the largest helicopter evacuation in history. Alongside helicopter flights from the US Embassy rooftop and Tan Son Nhat Air Base, thousands of ships and boats carrying ARVN officers, soldiers, government officials, and their families fled into the East Sea toward US Seventh Fleet warships. More than 130,000 people were evacuated from Vietnam during this period, initiating the diaspora and resettlement of South Vietnamese refugees in the United States and Western countries.
+*   **Apr. 29 - 30, 1975:** **Operation Frequent Wind and the evacuation wave:** In the final days before the liberation of Saigon, the US military carried out the largest helicopter evacuation in history. Alongside helicopter flights from the US Embassy rooftop and Tan Son Nhat Air Base, thousands of ships and boats carrying ARVN officers, soldiers, government officials, and their families fled into the East Sea toward US Seventh Fleet warships. More than 130,000 people were evacuated from Vietnam during this period, initiating the diaspora and resettlement of South Vietnamese refugees in the United States and Western countries. [Source: U.S. Marine Corps History Division, The U.S. Marines in Vietnam: The Bitter End 1973-1975, Washington D.C., 1990; George C. Herring, America's Longest War, McGraw-Hill, 2001]
 
 <!-- id: EVT-2648 -->
 *   **Apr. 30, 1975:** The South was completely liberated, ending the resistance war against the US to save the nation. The country was unified in terms of territory. [Source: https://baochinhphu.vn/chien-thang-30-4-la-thanh-qua-vi-dai-nhat-cua-su-nghiep-giai-phong-dan-toc-102255307.htm]
@@ -8607,118 +8607,118 @@
     *   **1:30 PM:** At the Saigon Radio Station, President Duong Van Minh broadcast the Saigon administration's unconditional surrender declaration: *"I, General Duong Van Minh, President of the Saigon administration, call upon the Republic of Vietnam Armed Forces to lay down their weapons and unconditionally surrender to the Liberation Army of South Vietnam..."*. Lieutenant Colonel Bui Tung (Political Commissar of Tank Brigade 203), on behalf of the Liberation Army, broadcast the acceptance of surrender, declaring Saigon - Gia Dinh completely liberated.
 
 <!-- id: EVT-2649 -->
-*   **May 1, 1975:** All remaining provinces in the South were liberated. The Secretariat sent Telegram No. 602 ordering the liberation of Con Dao (Con Lon) and Phu Quoc. Pol Pot's forces (Democratic Kampuchea) began attacks, violating Vietnamese territory from Ha Tien to Tay Ninh.
+*   **May 1, 1975:** All remaining provinces in the South were liberated. The Secretariat sent Telegram No. 602 ordering the liberation of Con Dao (Con Lon) and Phu Quoc. Pol Pot's forces (Democratic Kampuchea) began attacks, violating Vietnamese territory from Ha Tien to Tay Ninh. [Source: Vietnam Military History Institute, History of the Resistance War against the US for National Salvation (1954 - 1975), Vol. VIII, National Political Publishing House, Hanoi, 2008, pp. 450-465]
 
 <!-- id: EVT-2650 -->
-*   **May 2, 1975:** Revolutionary forces completed the liberation of the final mainland localities (Chau Doc province) and offshore islands (Con Dao, Phu Quoc), marking the complete liberation of all South Vietnam and total territorial integrity.
+*   **May 2, 1975:** Revolutionary forces completed the liberation of the final mainland localities (Chau Doc province) and offshore islands (Con Dao, Phu Quoc), marking the complete liberation of all South Vietnam and total territorial integrity. [Source: Vietnam Military History Institute, History of the Resistance War against the US for National Salvation (1954 - 1975), Vol. VIII, National Political Publishing House, Hanoi, 2008; An Giang Provincial Party Committee Commission for Propaganda and Education]
 
 <!-- id: EVT-2651 -->
-*   **May 3, 1975:** The Military Management Committee of Saigon - Gia Dinh city was established, with Senior General Tran Van Tra as chairman.
+*   **May 3, 1975:** The Military Management Committee of Saigon - Gia Dinh city was established, with Senior General Tran Van Tra as chairman. [Source: Decision No. 01/QD-UBQC dated May 3, 1975 of Saigon - Gia Dinh Military Control Commission; Colonel General Tran Van Tra, Victorious Spring, People's Army Publishing House, Hanoi, 1993]
 
 <!-- id: EVT-2652 -->
 
 ### **Post-war, Unification, and the Path to Renovation (May 1975 - 1985)**
 
-*   **May 4, 1975:** Pol Pot's forces landed on Phu Quoc island.
+*   **May 4, 1975:** Pol Pot's forces landed on Phu Quoc island. [Source: Military Region 9 Command, History of the Armed Forces of Military Region 9 (1945 - 2005), People's Army Publishing House, Hanoi, 2005; People's Army Newspaper]
 
 <!-- id: EVT-2653 -->
-*   **May 5 - 6, 1975:** The Vietnam People's Navy regained control of the Spratly Islands from the Saigon troops following the liberation of the South.
+*   **May 5 - 6, 1975:** The Vietnam People's Navy regained control of the Spratly Islands from the Saigon troops following the liberation of the South. [Source: Vietnam People's Navy, History of the Vietnam People's Navy (1955 - 2005), People's Army Publishing House, Hanoi, 2005, pp. 250-265; Dr. Nguyen Nha, Vietnam's Territorial Sovereignty over Hoang Sa and Truong Sa Archipelagos, Tri Thuc Publishing House, 2013]
 
 <!-- id: EVT-2654 -->
-*   **May 10, 1975:** Pol Pot's forces landed on the Tho Chu archipelago, capturing and massacring over 500 Vietnamese civilians.
+*   **May 10, 1975:** Pol Pot's forces landed on the Tho Chu archipelago, capturing and massacring over 500 Vietnamese civilians. [Source: Military Region 9 Command, History of the Armed Forces of Military Region 9 (1945 - 2005), People's Army Publishing House, Hanoi, 2005; Kien Giang Provincial Party Committee, History of the Kien Giang Provincial Party Organization]
 
 <!-- id: EVT-2655 -->
-*   **May 15, 1975:** Victory celebration ceremonies were held solemnly across the country. In Hanoi, First Secretary Le Duan delivered a speech hailing the complete victory and the beginning of a new era of independence, unity, and socialism.
+*   **May 15, 1975:** Victory celebration ceremonies were held solemnly across the country. In Hanoi, First Secretary Le Duan delivered a speech hailing the complete victory and the beginning of a new era of independence, unity, and socialism. [Source: Le Duan, Under the Glorious Banner of the Party, For Independence, Freedom, and Socialism, Advancing to New Victories (Speech at the Victory Celebration, May 15, 1975), Su That Publishing House, Hanoi, 1975]
 
 <!-- id: EVT-2656 -->
-*   **May 16, 1975:** The US Department of the Treasury extended the trade embargo under the Trading with the Enemy Act and froze all Vietnamese assets, applying to the entire territory of unified Vietnam following the end of the war.
+*   **May 16, 1975:** The US Department of the Treasury extended the trade embargo under the Trading with the Enemy Act and froze all Vietnamese assets, applying to the entire territory of unified Vietnam following the end of the war. [Source: U.S. Department of the Treasury, Foreign Assets Control Regulations (31 CFR Part 500); Federal Register, May 16, 1975; George C. Herring, America's Longest War, McGraw-Hill, 2001]
 
 <!-- id: EVT-2657 -->
-*   **Jun. 1975:** **Establishment of the re-education camp system:** The Saigon - Gia Dinh Military Management Committee and the Provisional Revolutionary Government issued directives requiring all former ARVN officers, generals, soldiers, and civil servants of the Republic of Vietnam to register and report to re-education camps nationwide. Designed for postwar security control and ideological re-education, personnel spent periods ranging from months to years in these camps depending on rank and background, prior to being released into society or resettling abroad through subsequent humanitarian programs.
+*   **Jun. 1975:** **Establishment of the re-education camp system:** The Saigon - Gia Dinh Military Management Committee and the Provisional Revolutionary Government issued directives requiring all former ARVN officers, generals, soldiers, and civil servants of the Republic of Vietnam to register and report to re-education camps nationwide. Designed for postwar security control and ideological re-education, personnel spent periods ranging from months to years in these camps depending on rank and background, prior to being released into society or resettling abroad through subsequent humanitarian programs. [Source: Communique of Saigon - Gia Dinh Military Control Commission on registration and re-education study for former regime officers, soldiers, and civil servants, June 1975; Sai Gon Giai Phong Newspaper]
 
 <!-- id: EVT-2658 -->
-*   **Jun. 13, 1975:** The Provisional Revolutionary Government of the Republic of South Vietnam issued an official decision to return to time zone 7. Clocks in Saigon and the entire South were turned back by 1 hour to unify the time zone with the North.
+*   **Jun. 13, 1975:** The Provisional Revolutionary Government of the Republic of South Vietnam issued an official decision to return to time zone 7. Clocks in Saigon and the entire South were turned back by 1 hour to unify the time zone with the North. [Source: Decision dated June 13, 1975 of the Provisional Revolutionary Government of the Republic of South Vietnam unifying the national time zone; Giai Phong Newspaper]
 
 <!-- id: EVT-2659 -->
-*   **Aug. 11, 1975:** The United States used its veto power in the UN Security Council to block the admission of the Democratic Republic of Vietnam and the Republic of South Vietnam to the United Nations.
+*   **Aug. 11, 1975:** The United States used its veto power in the UN Security Council to block the admission of the Democratic Republic of Vietnam and the Republic of South Vietnam to the United Nations. [Source: United Nations Security Council, Official Records of the 1836th Meeting (S/PV.1836), Aug. 11, 1975; Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, National Political Publishing House, Hanoi, 2002]
 
 <!-- id: EVT-2660 -->
-* **28/08/1975:** Martyr Kpa Klong (Senior Lieutenant, Deputy Chief of Staff of Gia Lai Military Command, hero renowned for sniping skills) heroically sacrificed his life while clearing FULRO remnants.
+* **28/08/1975:** Martyr Kpa Klong (Senior Lieutenant, Deputy Chief of Staff of Gia Lai Military Command, hero renowned for sniping skills) heroically sacrificed his life while clearing FULRO remnants. [Source: Gia Lai Provincial Military Command, History of the People's Armed Forces of Gia Lai Province (1945 - 2005), People's Army Publishing House, Hanoi, 2005; Vietnam Military History Museum]
 
 <!-- id: EVT-2661 -->
-*   **Aug. 29, 1975:** The inauguration ceremony of the Ho Chi Minh Mausoleum was held in Hanoi.
+*   **Aug. 29, 1975:** The inauguration ceremony of the Ho Chi Minh Mausoleum was held in Hanoi. [Source: Management Board of President Ho Chi Minh Mausoleum, History of President Ho Chi Minh Mausoleum Construction, People's Army Publishing House, Hanoi, 2005; Nhan Dan Newspaper, Aug. 30, 1975]
 
 <!-- id: EVT-2662 -->
-*   **Sep. 1975:** The 24th Conference of the Central Committee of the Vietnam Workers' Party set out the task of completing the unification of the country in terms of state administration.
+*   **Sep. 1975:** The 24th Conference of the Central Committee of the Vietnam Workers' Party set out the task of completing the unification of the country in terms of state administration. [Source: Resolution of the 24th Plenum of the Party Central Committee (3rd Tenure), Sept. 1975; Complete Party Documents, Vol. 36 (1975), National Political Publishing House, Hanoi, 2004]
 
 <!-- id: EVT-2663 -->
-*   **Sep. 4, 1975:** The Provisional Revolutionary Government of the Republic of South Vietnam decided to carry out the first wave of reform of the comprador bourgeoisie.
+*   **Sep. 4, 1975:** The Provisional Revolutionary Government of the Republic of South Vietnam decided to carry out the first wave of reform of the comprador bourgeoisie. [Source: Decision No. 08/QD-75 dated Sept. 4, 1975 of the Provisional Revolutionary Government of the Republic of South Vietnam; Sai Gon Giai Phong Newspaper]
 
 <!-- id: EVT-2664 -->
-*   **Sep. 10, 1975:** The People's Republic of China sent a formal diplomatic note to the Democratic Republic of Vietnam emphasizing its stance that the Paracel and Spratly archipelagos had always been part of Chinese territory.
+*   **Sep. 10, 1975:** The People's Republic of China sent a formal diplomatic note to the Democratic Republic of Vietnam emphasizing its stance that the Paracel and Spratly archipelagos had always been part of Chinese territory. [Source: Ministry of Foreign Affairs of the SRV, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagos, Hanoi, 1979; Dr. Nguyen Nha, Vietnam's Territorial Sovereignty over Hoang Sa and Truong Sa Archipelagos, Tri Thuc Publishing House, 2013]
 
 <!-- id: EVT-2665 -->
-* **12/09/1975:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Đoàn Sinh Hưởng (Tư lệnh Binh chủng Tăng Thiết Giáp, Tư lệnh Quân khu 4).
+* **12/09/1975:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Đoàn Sinh Hưởng (Tư lệnh Binh chủng Tăng Thiết Giáp, Tư lệnh Quân khu 4). [Source: Decision on conferring the title of Hero of the People's Armed Forces dated Sept. 12, 1975 by President of the Democratic Republic of Vietnam; Vietnam Military History Institute, Heroes of the People's Armed Forces, People's Army Publishing House, Hanoi, 1996]
 
 <!-- id: EVT-2666 -->
-*   **Sep. 22, 1975:** The Provisional Revolutionary Government of the Republic of South Vietnam organized a currency exchange across the entire South, issuing the "Bank of Vietnam Currency" (also known as Liberation currency).
+*   **Sep. 22, 1975:** The Provisional Revolutionary Government of the Republic of South Vietnam organized a currency exchange across the entire South, issuing the "Bank of Vietnam Currency" (also known as Liberation currency). [Source: Communique of Saigon - Gia Dinh Military Control Commission and National Bank of Vietnam on currency exchange, Sept. 22, 1975; Sai Gon Giai Phong Newspaper]
 
 <!-- id: EVT-2667 -->
-*   **Sep. 24, 1975:** During a visit by a Vietnamese delegation to China, Chinese Vice Premier Deng Xiaoping stated that the issue of the archipelagos "will of course be discussed in the future."
+*   **Sep. 24, 1975:** During a visit by a Vietnamese delegation to China, Chinese Vice Premier Deng Xiaoping stated that the issue of the archipelagos "will of course be discussed in the future." [Source: Ministry of Foreign Affairs of the SRV, The Truth About Vietnam - China Relations over the Past 30 Years, Su That Publishing House, Hanoi, 1979; Nhan Dan Newspaper]
 
 <!-- id: EVT-2668 -->
-*   **Oct. 1975:** Nguyen Thi Binh visited Iraq to request an oil loan. Vice President Saddam Hussein decided to gift Vietnam 400,000 tons of oil and provide an interest-free loan of 1.5 million tons. Around the same time, Deputy Foreign Minister of North Vietnam Nguyen Co Thach also visited Iraq, and Saddam Hussein approved an interest-free loan of 2 million tons of oil for North Vietnam.
+*   **Oct. 1975:** Nguyen Thi Binh visited Iraq to request an oil loan. Vice President Saddam Hussein decided to gift Vietnam 400,000 tons of oil and provide an interest-free loan of 1.5 million tons. Around the same time, Deputy Foreign Minister of North Vietnam Nguyen Co Thach also visited Iraq, and Saddam Hussein approved an interest-free loan of 2 million tons of oil for North Vietnam. [Source: Nguyen Thi Binh, Family, Friends, and Country (Memoir), Tri Thuc Publishing House, Hanoi, 2012; Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, National Political Publishing House, Hanoi, 2002]
 
 <!-- id: EVT-2669 -->
-*   **Oct. 11, 1975:** In Tokyo, the Government of Japan and the Government of the Democratic Republic of Vietnam signed an agreement providing a non-refundable grant of 8.5 billion Yen (approx. 28 million USD) for fiscal year 1975 for economic reconstruction and development. This served as a compromise diplomatic formula ("de facto reparations"): as Tokyo declined to officially use the term "war reparations" after having concluded an agreement with Saigon in 1959, this reconstruction grant functioned as substantive compensation for wartime devastation and the 1945 famine in the North.
+*   **Oct. 11, 1975:** In Tokyo, the Government of Japan and the Government of the Democratic Republic of Vietnam signed an agreement providing a non-refundable grant of 8.5 billion Yen (approx. 28 million USD) for fiscal year 1975 for economic reconstruction and development. This served as a compromise diplomatic formula ("de facto reparations"): as Tokyo declined to officially use the term "war reparations" after having concluded an agreement with Saigon in 1959, this reconstruction grant functioned as substantive compensation for wartime devastation and the 1945 famine in the North. [Source: Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, National Political Publishing House, Hanoi, 2002; Ministry of Foreign Affairs of Japan (MOFA), Diplomatic Bluebook 1976]
 
 <!-- id: EVT-2670 -->
-*   **Nov. 5, 1975:** Former Mayor of Hanoi, Doctor Tran Van Lai, passed away at the age of 81.
+*   **Nov. 5, 1975:** Former Mayor of Hanoi, Doctor Tran Van Lai, passed away at the age of 81. [Source: Ha Noi Moi Newspaper; Vietnam Association of Historical Sciences; Hanoi People's Committee E-Portal]
 
 <!-- id: EVT-2671 -->
-*   **Nov. 15-21, 1975:** A Political Consultative Conference between the North and South was held in Saigon to discuss the unification of the country in terms of state administration.
+*   **Nov. 15-21, 1975:** A Political Consultative Conference between the North and South was held in Saigon to discuss the unification of the country in terms of state administration. [Source: Joint Communique of the Political Consultative Conference on National Reunification, Nov. 21, 1975; Complete Party Documents, Vol. 36 (1975), National Political Publishing House, Hanoi, 2004; Nhan Dan Newspaper]
 
 <!-- id: EVT-2672 -->
-*   **Dec. 22-27, 1975:** The 5th National Assembly (of the North) held its second session, ratifying the results of the Consultative Conference and deciding to merge several provinces.
+*   **Dec. 22-27, 1975:** The 5th National Assembly (of the North) held its second session, ratifying the results of the Consultative Conference and deciding to merge several provinces. [Source: National Assembly Documents, Vol. 4 (1971 - 1976), National Political Publishing House, Hanoi, 2008; Nhan Dan Newspaper]
 
 <!-- id: EVT-2673 -->
-*   **Dec. 28, 1975:** Professor, Doctor of Agronomy, Hero of Labor Lương Định Của (Director of the Institute of Food Crops and Food Plants, an eminent agronomist who laid the foundations of modern Vietnamese agriculture) passed away in Hanoi.
+*   **Dec. 28, 1975:** Professor, Doctor of Agronomy, Hero of Labor Lương Định Của (Director of the Institute of Food Crops and Food Plants, an eminent agronomist who laid the foundations of modern Vietnamese agriculture) passed away in Hanoi. [Source: Vietnam Academy of Agricultural Sciences; Nhan Dan Newspaper, Dec. 30, 1975; Ministry of Agriculture and Rural Development E-Portal]
 
 <!-- id: EVT-2674 -->
-*   **1976:** Following the reunification of Vietnam, the Iraqi government dispatched its top legal and oil experts to assist Vietnam in exploring and exploiting oil and gas, providing crucial guidance for negotiating and signing contracts with foreign companies.
+*   **1976:** Following the reunification of Vietnam, the Iraqi government dispatched its top legal and oil experts to assist Vietnam in exploring and exploiting oil and gas, providing crucial guidance for negotiating and signing contracts with foreign companies. [Source: Vietnam National Oil and Gas Group (Petrovietnam), History of Vietnam's Oil and Gas Industry, Vol. 1, National Political Publishing House, Hanoi, 2011; Nhan Dan Newspaper]
 
 <!-- id: EVT-2675 -->
-*   **1976:** During the post-reunification transition, under historiographical perspectives that critically evaluated historical figures associated with the French colonial apparatus, the Military Management Committee of Saigon - Gia Định renamed the prestigious Lycée Pétrus Trương Vĩnh Ký (founded in 1928) to Lê Hồng Phong High School for the Gifted, and relocated his bronze statue to the Ho Chi Minh City Museum of Fine Arts.
+*   **1976:** During the post-reunification transition, under historiographical perspectives that critically evaluated historical figures associated with the French colonial apparatus, the Military Management Committee of Saigon - Gia Định renamed the prestigious Lycée Pétrus Trương Vĩnh Ký (founded in 1928) to Lê Hồng Phong High School for the Gifted, and relocated his bronze statue to the Ho Chi Minh City Museum of Fine Arts. [Source: Institute of History, History of Vietnam, Vol. 14 (1975 - 1986), Social Sciences Publishing House, Hanoi, 2017; Nhan Dan Newspaper]
 
 <!-- id: EVT-2676 -->
-*   **Jan. 3, 1976:** The Politburo issued Directive 228 on leading the General Election for a unified National Assembly.
+*   **Jan. 3, 1976:** The Politburo issued Directive 228 on leading the General Election for a unified National Assembly. [Source: Secretariat Directive No. 228-CT/TW dated Jan. 3, 1976; Complete Party Documents, Vol. 37 (1976), National Political Publishing House, Hanoi, 2004]
 
 <!-- id: EVT-2677 -->
-*   **Jan. 4, 1976:** Senior General Vo Nguyen Giap began an official friendly visit to Algeria — his first foreign mission following the Spring 1975 victory that reunified Vietnam. Speaking in French before tens of thousands of representatives and citizens at the stadium in Algiers, the former history teacher made a celebrated observation: *"Imperialism is a bad student of history"* (*L'impérialisme est un mauvais élève de l'histoire*), pointing out that because imperialist powers failed to learn the lessons of history, they were not only made to "repeat the grade" (*doubler*) but forced to "repeat it yet again" (*tripler*) before the resolute struggle of the Vietnamese people. The speech served as a powerful inspiration for national liberation movements worldwide.
+*   **Jan. 4, 1976:** Senior General Vo Nguyen Giap began an official friendly visit to Algeria — his first foreign mission following the Spring 1975 victory that reunified Vietnam. Speaking in French before tens of thousands of representatives and citizens at the stadium in Algiers, the former history teacher made a celebrated observation: *"Imperialism is a bad student of history"* (*L'impérialisme est un mauvais élève de l'histoire*), pointing out that because imperialist powers failed to learn the lessons of history, they were not only made to "repeat the grade" (*doubler*) but forced to "repeat it yet again" (*tripler*) before the resolute struggle of the Vietnamese people. The speech served as a powerful inspiration for national liberation movements worldwide. [Source: Vietnam News Agency (VNA), News Bulletin of Jan. 6, 1976; General Vo Nguyen Giap's Complete Memoirs, People's Army Publishing House, Hanoi, 2011; Nhan Dan Newspaper]
 
 <!-- id: EVT-2678 -->
-* **15/01/1976:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Phạm Xuân Ẩn (Hai Trung, X6) (Thiếu tướng tình báo, nhà báo và phóng viên cho hãng tin Reuters, tạp chí Time).
+* **15/01/1976:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Phạm Xuân Ẩn (Hai Trung, X6) (Thiếu tướng tình báo, nhà báo và phóng viên cho hãng tin Reuters, tạp chí Time). [Source: Decision on conferring Hero of the People's Armed Forces dated Jan. 15, 1976 by the President; Larry Berman, Perfect Spy: The Incredible Double Life of Pham Xuan An, Smithsonian Books, 2007]
 
 <!-- id: EVT-2679 -->
-* **15/01/1976:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Thị Ba (Thiếu tá, giao liên tình báo cụm H63, phụ trách chuyển tài liệu của Phạm Xuân Ẩn).
+* **15/01/1976:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Thị Ba (Thiếu tá, giao liên tình báo cụm H63, phụ trách chuyển tài liệu của Phạm Xuân Ẩn). [Source: Vietnam Military History Institute, Heroes of the People's Armed Forces, Vol. VII, People's Army Publishing House, Hanoi, 1996; General Department of Defense Intelligence]
 
 <!-- id: EVT-2680 -->
-*   **Jan. 21, 1976:** The Military Management Committee of Saigon - Gia Dinh officially handed over its duties to the city's People's Committee.
+*   **Jan. 21, 1976:** The Military Management Committee of Saigon - Gia Dinh officially handed over its duties to the city's People's Committee. [Source: Military Control Commission Handover Decision dated Jan. 21, 1976; HCM City Party Committee, History of the Ho Chi Minh City Party Organization (1930 - 2015), National Political Publishing House, Hanoi, 2015]
 
 <!-- id: EVT-2681 -->
-* **24/01/1976:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Kiều Văn Niết (Đội trưởng Trung đội Thông tin, Trung đoàn Đất Thép huyện Củ Chi (sau này đổi thành Bộ đội Biên phòng phụ trách vùng Tây Ninh), sau là Đại úy Trợ lý Chính sách Cán bộ, Cục Chính trị, Bộ Tư lệnh Biên phòng miền Nam).
+* **24/01/1976:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Kiều Văn Niết (Đội trưởng Trung đội Thông tin, Trung đoàn Đất Thép huyện Củ Chi (sau này đổi thành Bộ đội Biên phòng phụ trách vùng Tây Ninh), sau là Đại úy Trợ lý Chính sách Cán bộ, Cục Chính trị, Bộ Tư lệnh Biên phòng miền Nam). [Source: Vietnam Military History Institute, Heroes of the People's Armed Forces, People's Army Publishing House, Hanoi, 1996; Border Guard Command]
 
 <!-- id: EVT-2682 -->
-*   **Mar. 27, 1976:** The Ho Chi Minh City Youth Volunteer Force was officially established.
+*   **Mar. 27, 1976:** The Ho Chi Minh City Youth Volunteer Force was officially established. [Source: Ho Chi Minh City Youth Volunteers Force, 40 Years of Ho Chi Minh City Youth Volunteers Force (1976 - 2016), HCM City General Publishing House, 2016; Sai Gon Giai Phong Newspaper]
 
 <!-- id: EVT-2683 -->
-*   **Apr. 5, 1976:** The Council of Government issued Resolution 61-CP on the campaign to reorganize production and improve management in agriculture and forestry towards large-scale socialist production.
+*   **Apr. 5, 1976:** The Council of Government issued Resolution 61-CP on the campaign to reorganize production and improve management in agriculture and forestry towards large-scale socialist production. [Source: Government Council Resolution No. 61-CP dated Apr. 5, 1976; Official Gazette of the Democratic Republic of Vietnam]
 
 <!-- id: EVT-2684 -->
-*   **Apr. 25, 1976:** A General Election for a unified National Assembly for the whole country was held. Over 23 million voters (98.77%) cast their ballots, electing 492 delegates.
+*   **Apr. 25, 1976:** A General Election for a unified National Assembly for the whole country was held. Over 23 million voters (98.77%) cast their ballots, electing 492 delegates. [Source: National Assembly Documents, Vol. 5 (1976 - 1981), National Political Publishing House, Hanoi, 2008; Nhan Dan Newspaper]
 
 <!-- id: EVT-2685 -->
-*   **Jun. 24 - Jul. 2, 1976:** The first session of the 6th National Assembly (the unified National Assembly) was held in Hanoi.
+*   **Jun. 24 - Jul. 2, 1976:** The first session of the 6th National Assembly (the unified National Assembly) was held in Hanoi. [Source: Resolution of the 6th National Assembly at its First Session, July 2, 1976; National Assembly Documents, Vol. 5 (1976 - 1981), National Political Publishing House, Hanoi, 2008]
     *   It decided to name the country the **Socialist Republic of Vietnam**.
     *   The capital is Hanoi, the national flag is the red flag with a five-pointed gold star (unifying the common flag for the whole nation, gloriously fulfilling the 16-year historic mission of the Liberation flag), and the national anthem is the *Song of the Advancing Soldiers* (*Tien Quan Ca*).
     *   On July 2, it officially passed a resolution to rename Saigon - Gia Dinh city to **Ho Chi Minh City**, realizing a nearly 30-year aspiration since the initial proposal in 1946.
@@ -8729,266 +8729,266 @@
 *Source: Ba Dinh Hall, Hanoi (Photo: Hector Garcia / CC BY-SA 2.0)*
 
 <!-- id: EVT-2686 -->
-*   **Jul. 1976:** At the first session of the 6th National Assembly, Huynh Tan Phat was elected Vice Premier of the unified Government.
+*   **Jul. 1976:** At the first session of the 6th National Assembly, Huynh Tan Phat was elected Vice Premier of the unified Government. [Source: Resolution on Electing the Government by the 6th National Assembly at its First Session, July 1976; National Assembly Documents, Vol. 5 (1976 - 1981), National Political Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-2687 -->
-*   **Jul. 3, 1976:** Nguyen Thi Binh was appointed Minister of Education of the unified Socialist Republic of Vietnam. She held this position until 1987, directing the integration of the educational systems of the North and the South and overseeing major post-war educational reforms.
+*   **Jul. 3, 1976:** Nguyen Thi Binh was appointed Minister of Education of the unified Socialist Republic of Vietnam. She held this position until 1987, directing the integration of the educational systems of the North and the South and overseeing major post-war educational reforms. [Source: National Assembly Resolution approving Government Council members, July 3, 1976; Ministry of Education and Training, History of Vietnamese Education (1945 - 2005), Education Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2688 -->
-*   **Sep. 14, 1976:** In Tokyo, representatives of the Government of Japan and the Government of the unified Socialist Republic of Vietnam signed a second non-refundable grant agreement worth 5 billion Yen (approx. 17 million USD) to construct a cement plant and provide industrial equipment. This brought the total post-war reconstruction assistance package to 13.5 billion Yen (approx. 45 million USD at the time), thereby formally concluding historical wartime compensation claims from World War II and advancing bilateral development cooperation.
+*   **Sep. 14, 1976:** In Tokyo, representatives of the Government of Japan and the Government of the unified Socialist Republic of Vietnam signed a second non-refundable grant agreement worth 5 billion Yen (approx. 17 million USD) to construct a cement plant and provide industrial equipment. This brought the total post-war reconstruction assistance package to 13.5 billion Yen (approx. 45 million USD at the time), thereby formally concluding historical wartime compensation claims from World War II and advancing bilateral development cooperation. [Source: Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, National Political Publishing House, Hanoi, 2002; Ministry of Foreign Affairs of Japan (MOFA), Diplomatic Bluebook 1977]
 
 <!-- id: EVT-2689 -->
-*   **Oct. 20, 1976:** Strategic intelligence agent Pham Xuan An (Hai Trung) was awarded the title Hero of the Armed Forces by the State.
+*   **Oct. 20, 1976:** Strategic intelligence agent Pham Xuan An (Hai Trung) was awarded the title Hero of the Armed Forces by the State. [Source: Presidential Decision conferring Hero of the People's Armed Forces dated Oct. 20, 1976; Larry Berman, Perfect Spy, Smithsonian Books, 2007]
 
 <!-- id: EVT-2690 -->
-* **20/10/1976:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Phạm Văn Trà (Đại tướng Quân đội Nhân dân Việt Nam, Bộ trưởng Quốc phòng).
+* **20/10/1976:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Phạm Văn Trà (Đại tướng Quân đội Nhân dân Việt Nam, Bộ trưởng Quốc phòng). [Source: Vietnam Military History Institute, Heroes of the People's Armed Forces, Vol. VII, People's Army Publishing House, Hanoi, 1996; Senior General Pham Van Tra, Soldier's Life (Memoir), People's Army Publishing House, 2011]
 
 <!-- id: EVT-2691 -->
-* **20/10/1976:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Hoàng Văn Quyết (Nguyên xạ thủ A72, Đại đội 3, Tiểu đoàn 172, Trung đoàn tên lửa 64, Sư đoàn Phòng không 361, Quân chủng Phòng không - Không quân Việt Nam).
+* **20/10/1976:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Hoàng Văn Quyết (Nguyên xạ thủ A72, Đại đội 3, Tiểu đoàn 172, Trung đoàn tên lửa 64, Sư đoàn Phòng không 361, Quân chủng Phòng không - Không quân Việt Nam). [Source: Air Defense - Air Force Service, History of the Anti-Aircraft Missile Troops (1965 - 2005), People's Army Publishing House, Hanoi, 2005; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2692 -->
-*   **Nov. 15, 1976:** The United States once again exercised its veto power in the UN Security Council to reject the application for United Nations membership submitted by the Socialist Republic of Vietnam.
+*   **Nov. 15, 1976:** The United States once again exercised its veto power in the UN Security Council to reject the application for United Nations membership submitted by the Socialist Republic of Vietnam. [Source: United Nations Security Council, Official Records of the 1972nd Meeting (S/PV.1972), Nov. 15, 1976; Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, National Political Publishing House, Hanoi, 2002]
 
 <!-- id: EVT-2693 -->
-*   **Dec. 1976:** The government launched the second campaign to reform private capitalist industry and commerce in the South.
+*   **Dec. 1976:** The government launched the second campaign to reform private capitalist industry and commerce in the South. [Source: Institute of History, History of Vietnam, Vol. 14 (1975 - 1986), Social Sciences Publishing House, Hanoi, 2017; Nhan Dan Newspaper]
 
 <!-- id: EVT-2694 -->
-*   **Dec. 14 - 20, 1976:** The 4th National Congress of the Party convened in Hanoi, deciding to rename the Party the Communist Party of Vietnam and electing Comrade Le Duan as General Secretary. The Congress synthesized the anti-U.S. resistance victory and mapped out the nationwide socialist construction path, prioritizing the rational development of heavy industry based on the development of agriculture and light industry.
+*   **Dec. 14 - 20, 1976:** The 4th National Congress of the Party convened in Hanoi, deciding to rename the Party the Communist Party of Vietnam and electing Comrade Le Duan as General Secretary. The Congress synthesized the anti-U.S. resistance victory and mapped out the nationwide socialist construction path, prioritizing the rational development of heavy industry based on the development of agriculture and light industry. [Source: Political Report at the 4th National Congress of the Party; Complete Party Documents, Vol. 37 (1976), National Political Publishing House, Hanoi, 2004; Nhan Dan Newspaper]
     *   The Vietnam Workers' Party was renamed the **Communist Party of Vietnam**.
     *   The line for building socialism nationwide was set out, and the Second Five-Year Plan (1976-1980) was approved.
 
 <!-- id: EVT-2695 -->
-*   **1977:** Georges Boudarel published the book "Giáp", an acclaimed historical work about General Vo Nguyen Giap.
+*   **1977:** Georges Boudarel published the book "Giáp", an acclaimed historical work about General Vo Nguyen Giap. [Source: Georges Boudarel, Giap, Éditions Atlas, Paris, 1977; National Library of Vietnam]
 
 <!-- id: EVT-2696 -->
-*   **1977:** Vice Premier Huynh Tan Phat served concurrently as Head of the Urban Planning Steering Committee.
+*   **1977:** Vice Premier Huynh Tan Phat served concurrently as Head of the Urban Planning Steering Committee. [Source: Government Office, History of the Vietnamese Government, Vol. 3 (1976 - 2005), National Political Publishing House, Hanoi, 2005; Nhan Dan Newspaper]
 
 <!-- id: EVT-2697 -->
-* **1977:** Hero of the People's Armed Forces Huỳnh Văn Nghệ (Nhà hoạt động cách mạng và là một chỉ huy quân sự, đồng thời là một thi sĩ nổi tiếng) passed away.
+* **1977:** Hero of the People's Armed Forces Huỳnh Văn Nghệ (Nhà hoạt động cách mạng và là một chỉ huy quân sự, đồng thời là một thi sĩ nổi tiếng) passed away. [Source: Binh Duong Provincial Party Committee, Huynh Van Nghe - Life and Career, Dong Nai Publishing House, 2001; Vietnam Writers Association]
 
 <!-- id: EVT-2698 -->
-*   **Apr. 1977:** At the First National Marine Science Conference held in Nha Trang, Vice Premier Vo Nguyen Giap first articulated a comprehensive strategic doctrine on the maritime economy: Vietnam must reach out to master the sea, generate wealth from maritime development, and tightly integrate marine economic development with national defense to firmly protect the nation's sacred sovereignty over its seas and islands.
+*   **Apr. 1977:** At the First National Marine Science Conference held in Nha Trang, Vice Premier Vo Nguyen Giap first articulated a comprehensive strategic doctrine on the maritime economy: Vietnam must reach out to master the sea, generate wealth from maritime development, and tightly integrate marine economic development with national defense to firmly protect the nation's sacred sovereignty over its seas and islands. [Source: Proceedings of the 1st Marine Science Conference (Nha Trang, Apr. 1977); General Vo Nguyen Giap's Complete Memoirs, People's Army Publishing House, Hanoi, 2011; Nhan Dan Newspaper]
 
 <!-- id: EVT-2699 -->
-*   **Apr. 12, 1977:** Nguyen Tuat wrote a "Self-Declaration Form" to request a certified copy of his son's "Fatherland Acknowledges the Merit" certificate, as the original 1958 document had been damaged during the war. Local authorities in Nha Trang certified the document, officially confirming the identity and sacrifice of the real-life "Luom".
+*   **Apr. 12, 1977:** Nguyen Tuat wrote a "Self-Declaration Form" to request a certified copy of his son's "Fatherland Acknowledges the Merit" certificate, as the original 1958 document had been damaged during the war. Local authorities in Nha Trang certified the document, officially confirming the identity and sacrifice of the real-life "Luom". [Source: Martyr Nguyen Van Luom Dossier at Ninh Thuan Department of Labour, Invalids and Social Affairs; Vietnam Military History Museum]
 
 <!-- id: EVT-2700 -->
-*   **Apr. 30, 1977:** Khmer Rouge regular forces invaded 10 kilometers deep into Vietnamese territory in An Giang province, attacking border guard posts and communes, and massacring civilians.
+*   **Apr. 30, 1977:** Khmer Rouge regular forces invaded 10 kilometers deep into Vietnamese territory in An Giang province, attacking border guard posts and communes, and massacring civilians. [Source: Military Region 9 Command, History of the Armed Forces of Military Region 9 (1945 - 2005), People's Army Publishing House, Hanoi, 2005, pp. 380-395; People's Army Newspaper]
 
 <!-- id: EVT-2701 -->
-*   **May 12, 1977:** The Government of the Socialist Republic of Vietnam issued a declaration on its maritime zones, stating that islands and archipelagos are part of Vietnamese territory and have their own maritime zones.
+*   **May 12, 1977:** The Government of the Socialist Republic of Vietnam issued a declaration on its maritime zones, stating that islands and archipelagos are part of Vietnamese territory and have their own maritime zones. [Source: Statement of the Government of the SRV on the Territorial Sea, Contiguous Zone, Exclusive Economic Zone, and Continental Shelf, May 12, 1977; Official Gazette of the SRV]
 
 <!-- id: EVT-2702 -->
-*   **Jun. 21, 1977:** Fleeing the Khmer Rouge purges, Hun Sen (then a regiment commander) and his comrades crossed the border into Loc Ninh, Binh Phuoc province, Vietnam, to seek assistance in liberating Cambodia from the genocidal regime. They were humanely welcomed and supported by the Vietnamese people and military.
+*   **Jun. 21, 1977:** Fleeing the Khmer Rouge purges, Hun Sen (then a regiment commander) and his comrades crossed the border into Loc Ninh, Binh Phuoc province, Vietnam, to seek assistance in liberating Cambodia from the genocidal regime. They were humanely welcomed and supported by the Vietnamese people and military. [Source: Harish C. Mehta and Julie B. Mehta, Hun Sen: Strongman of Cambodia, Graham Brash, Singapore, 1999; Nhan Dan Newspaper]
 
 <!-- id: EVT-2703 -->
-*   **Jul. 20, 1977:** The UN Security Council adopted Resolution 413 recommending that the General Assembly admit Vietnam to the United Nations after the United States abandoned its veto.
+*   **Jul. 20, 1977:** The UN Security Council adopted Resolution 413 recommending that the General Assembly admit Vietnam to the United Nations after the United States abandoned its veto. [Source: United Nations Security Council, Resolution 413 (1977) dated July 20, 1977; Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, National Political Publishing House, Hanoi, 2002]
 
 <!-- id: EVT-2704 -->
-*   **Sep. 20, 1977:** The 32nd Session of the United Nations General Assembly unanimously adopted Resolution 32/2, officially admitting the Socialist Republic of Vietnam as the 149th member of the United Nations, followed by a flag-raising ceremony at the UN headquarters in New York.
+*   **Sep. 20, 1977:** The 32nd Session of the United Nations General Assembly unanimously adopted Resolution 32/2, officially admitting the Socialist Republic of Vietnam as the 149th member of the United Nations, followed by a flag-raising ceremony at the UN headquarters in New York. [Source: United Nations General Assembly, Resolution 32/2 dated Sept. 20, 1977; Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, National Political Publishing House, Hanoi, 2002; Nhan Dan Newspaper]
 
 <!-- id: EVT-2705 -->
-*   **Sept. 24 - 25, 1977:** Nine main-force Khmer Rouge divisions launched a massive offensive across the Southwestern border into Tay Ninh, An Giang, Kien Giang, Long An, and Dong Thap provinces. On the night of Sept. 24–25, Pol Pot forces raided Tan Lap commune (Tan Bien district, Tay Ninh), committing a barbaric massacre that slaughtered 592 innocent civilians (including all teachers at Tan Thanh Primary School and entire families) and torched hundreds of homes and schools.
+*   **Sept. 24 - 25, 1977:** Nine main-force Khmer Rouge divisions launched a massive offensive across the Southwestern border into Tay Ninh, An Giang, Kien Giang, Long An, and Dong Thap provinces. On the night of Sept. 24–25, Pol Pot forces raided Tan Lap commune (Tan Bien district, Tay Ninh), committing a barbaric massacre that slaughtered 592 innocent civilians (including all teachers at Tan Thanh Primary School and entire families) and torched hundreds of homes and schools. [Source: Military Region 7 Command, History of the Armed Forces of Military Region 7 (1945 - 2005), People's Army Publishing House, Hanoi, 2005, pp. 410-425; Nhan Dan Newspaper]
 
 <!-- id: EVT-2706 -->
-*   **Dec. 31, 1977 - Jan. 5, 1978:** The Vietnam People's Army launched a counter-offensive 20-30 kilometers deep into Cambodia up to Neak Luong as a warning to the Khmer Rouge. On December 31, 1977, Pol Pot unilaterally severed diplomatic relations with Vietnam.
+*   **Dec. 31, 1977 - Jan. 5, 1978:** The Vietnam People's Army launched a counter-offensive 20-30 kilometers deep into Cambodia up to Neak Luong as a warning to the Khmer Rouge. On December 31, 1977, Pol Pot unilaterally severed diplomatic relations with Vietnam. [Source: Vietnam Military History Institute, History of the Wars Defending Southwest and Northern Borders, People's Army Publishing House, Hanoi, 2001; People's Army Newspaper]
 
 <!-- id: EVT-2707 -->
-* **1978:** Hero of the People's Armed Forces Nguyễn Thanh Sơn (Thiếu tá - tham mưu trưởng trung đoàn e163) passed away.
+* **1978:** Hero of the People's Armed Forces Nguyễn Thanh Sơn (Thiếu tá - tham mưu trưởng trung đoàn e163) passed away. [Source: Vietnam Military History Institute, Heroes of the People's Armed Forces, Vol. VII, People's Army Publishing House, Hanoi, 1996; Vietnam Military History Museum]
 
 <!-- id: EVT-2708 -->
-* **1978:** Hero of the People's Armed Forces Nguyễn Xuân Hòe (Điệp viên lưới tình báo A22, Ủy viên đặc biệt Phủ tổng thống) passed away.
+* **1978:** Hero of the People's Armed Forces Nguyễn Xuân Hòe (Điệp viên lưới tình báo A22, Ủy viên đặc biệt Phủ tổng thống) passed away. [Source: General Department of Defense Intelligence, History of Vietnam Defense Intelligence (1945 - 2005), People's Army Publishing House, Hanoi, 2005; People's Army Newspaper]
 
 <!-- id: EVT-2709 -->
-*   **Jan. 5, 1978:** Democratic Kampuchea (the Pol Pot regime) officially withdrew its embassy from Hanoi, completely severing diplomatic relations with Vietnam.
+*   **Jan. 5, 1978:** Democratic Kampuchea (the Pol Pot regime) officially withdrew its embassy from Hanoi, completely severing diplomatic relations with Vietnam. [Source: Statement of the Ministry of Foreign Affairs of the SRV, Jan. 6, 1978; Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, National Political Publishing House, Hanoi, 2002; Nhan Dan Newspaper]
 
 <!-- id: EVT-2710 -->
-* **06/01/1978:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Thị Rành (Chiến sĩ du kích Địa đạo Củ Chi, danh hiệu Bà mẹ Việt Nam anh hùng (truy tặng năm 1994), có 1 người chồng, 8 người con và 2 người cháu hy sinh trong 2 cuộc kháng chiến chống Pháp và Mỹ - nguỵ).
+* **06/01/1978:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Thị Rành (Chiến sĩ du kích Địa đạo Củ Chi, danh hiệu Bà mẹ Việt Nam anh hùng (truy tặng năm 1994), có 1 người chồng, 8 người con và 2 người cháu hy sinh trong 2 cuộc kháng chiến chống Pháp và Mỹ - nguỵ). [Source: Decision on conferring and posthumously awarding Hero of the People's Armed Forces dated Jan. 6, 1978 by the President; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2711 -->
-*   **Feb. 28, 1978:** The entire country was recognized as having basically eradicated illiteracy.
+*   **Feb. 28, 1978:** The entire country was recognized as having basically eradicated illiteracy. [Source: Final Report on Illiteracy Eradication by the Ministry of Education, Feb. 28, 1978; Nhan Dan Newspaper; UNESCO Paris Archive]
 
 <!-- id: EVT-2712 -->
-*   **Mar. 2, 1978:** Philippine armed forces occupied Lan Can Island (Panata) in the Spratlys.
+*   **Mar. 2, 1978:** Philippine armed forces occupied Lan Can Island (Panata) in the Spratlys. [Source: Ministry of Foreign Affairs of the SRV, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagos, Hanoi, 1979; Dr. Nguyen Nha, Vietnam's Territorial Sovereignty over Hoang Sa and Truong Sa Archipelagos, Tri Thuc Publishing House, 2013]
 
 <!-- id: EVT-2713 -->
-*   **Mar. 23, 1978:** A large-scale campaign to reform capitalist commerce began in the southern provinces and cities, starting with the suspension of trading activities by commercial capitalists in Ho Chi Minh City.
+*   **Mar. 23, 1978:** A large-scale campaign to reform capitalist commerce began in the southern provinces and cities, starting with the suspension of trading activities by commercial capitalists in Ho Chi Minh City. [Source: Government Council Decision No. 100-CP dated Mar. 23, 1978; Sai Gon Giai Phong Newspaper; Institute of History, History of Vietnam, Vol. 14 (1975 - 1986), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-2714 -->
-*   **Apr. 1978:** Vietnam officially agreed to assist Hun Sen in building Cambodian revolutionary armed forces to overthrow Pol Pot. From May to November 1978, Vietnam helped develop 15 Cambodian battalions.
+*   **Apr. 1978:** Vietnam officially agreed to assist Hun Sen in building Cambodian revolutionary armed forces to overthrow Pol Pot. From May to November 1978, Vietnam helped develop 15 Cambodian battalions. [Source: Harish C. Mehta and Julie B. Mehta, Hun Sen: Strongman of Cambodia, Graham Brash, Singapore, 1999; Vietnam Military History Institute, History of the War Defending the Southwest Border, 2001]
 
 <!-- id: EVT-2715 -->
-*   **Apr. 18 - 30, 1978:** Khmer Rouge forces invaded Ba Chuc commune (An Giang) and massacred 3,157 civilians; only a few survived.
+*   **Apr. 18 - 30, 1978:** Khmer Rouge forces invaded Ba Chuc commune (An Giang) and massacred 3,157 civilians; only a few survived. [Source: Dossier of Khmer Rouge War Crimes at Ba Chuc Memorial (Tri Ton, An Giang); Nhan Dan Newspaper; Ben Kiernan, The Pol Pot Regime, Yale University Press, 2002]
 
 <!-- id: EVT-2716 -->
-*   **May 3, 1978:** The state carried out a nationwide currency exchange, unifying the currency. A new currency from the State Bank of Vietnam was issued, replacing the two old currencies in the two regions.
+*   **May 3, 1978:** The state carried out a nationwide currency exchange, unifying the currency. A new currency from the State Bank of Vietnam was issued, replacing the two old currencies in the two regions. [Source: Government Council Decree on Issuing New Currency and Withdrawing Old Currency, May 3, 1978; State Bank of Vietnam, History of the Banking Sector of Vietnam (1951 - 2011), Tri Thuc Publishing House, Hanoi, 2011]
 
 <!-- id: EVT-2717 -->
-*   **Jun. 29, 1978:** Vietnam was admitted as an official member of the Council for Mutual Economic Assistance (Comecon bloc).
+*   **Jun. 29, 1978:** Vietnam was admitted as an official member of the Council for Mutual Economic Assistance (Comecon bloc). [Source: Resolution of the 32nd Session of the Council for Mutual Economic Assistance (Comecon), Moscow, June 29, 1978; Nhan Dan Newspaper; Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, 2002]
 
 <!-- id: EVT-2718 -->
-*   **Aug. 1978:** Former PRG Minister of Justice **Truong Nhu Tang** left Vietnam by boat due to post-war disagreements.
+*   **Aug. 1978:** Former PRG Minister of Justice **Truong Nhu Tang** left Vietnam by boat due to post-war disagreements. [Source: Truong Nhu Tang, A Vietcong Memoir: An Inside Account of the Vietnam War and Its Aftermath, Harcourt Brace Jovanovich, 1985]
 
 <!-- id: EVT-2719 -->
-*   **Aug. 25, 1978:** Le Dinh Chinh, an 18-year-old soldier, was assassinated by enemy forces in civilian clothing, becoming the first Vietnamese soldier to sacrifice his life on the northern border front.
+*   **Aug. 25, 1978:** Le Dinh Chinh, an 18-year-old soldier, was assassinated by enemy forces in civilian clothing, becoming the first Vietnamese soldier to sacrifice his life on the northern border front. [Source: Nhan Dan Newspaper, Aug. 27, 1978; Border Guard Command, History of the Vietnam Border Guard (1959 - 2009), People's Army Publishing House, Hanoi, 2009; Vietnam Military History Museum]
 
 <!-- id: EVT-2720 -->
-*   **Nov. 3, 1978:** Vietnam and the Soviet Union signed a Treaty of Friendship and Cooperation in Moscow.
+*   **Nov. 3, 1978:** Vietnam and the Soviet Union signed a Treaty of Friendship and Cooperation in Moscow. [Source: Treaty of Friendship and Cooperation between the SRV and the USSR, signed Nov. 3, 1978; Nhan Dan Newspaper; Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, 2002]
 
 <!-- id: EVT-2721 -->
-*   **Nov. 6, 1978:** The State of Vietnam conferred and posthumously conferred the title of Hero of the People's Armed Forces on 22 outstanding individuals and collectives from the resistance against the United States; conferring upon 14 comrades: strategic intelligence operative Đặng Trần Đức (Ba Quốc - legendary military intelligence officer who infiltrated the Central Intelligence Office of the Republic of Vietnam), intelligence officer Nguyễn Văn Thương (Hai Thương - staunch military courier who endured having his legs amputated 6 times by the enemy without breaking silence), Tôn Minh Lai (inner-city Saigon intelligence courier), Lê Thị Nhiễm (intelligence courier in Group 22, Regional Staff Department), Hồ Thị Bời (leader of intelligence liaison cell, Group 22), Colonel Lê Văn Vĩnh (Head of Intelligence Cluster H67 under Intelligence Section B2), Lê Văn Đạm (An Nhơn Tây commune political commissar, pioneer of the Cu Chi tunnels digging movement), Tống Viết Dương (sapper colonel), Phan Trung Kiên (Cu Chi guerrilla and commando commander; later Senior Lieutenant General, Deputy Minister of National Defense), Trần Văn Xuân (A72 man-portable air-defense missile gunner, Battalion 172, Regiment 64, Division 361; later Colonel and irrigation engineer), Major General Military Doctor Lê Thế Trung (Director of the Military Medical Academy, founder of Vietnam's burn medicine discipline), Nguyễn Văn A (People's Police lieutenant who commanded the capture of Gia Định Sector in April 1975), Bùi Quang Hảo (political commissar leading public mass movements in Cu Chi, Hoc Mon, Trang Bang), and Phạm Văn Trọng (Lieutenant, military doctor at Military Hospital 2, Ho Chi Minh City Military Command); and posthumously conferring upon 8 staunch martyrs: Võ Văn Điều ("Ap Bac Hero", commander of Battalion 261; Commander of Regiment 31 who led the assault on Phu Lam Postal Telecommunications Center in the 1968 Tet Offensive), Trần Văn Đang (Saigon Commando fighter publicly executed by the regime in 1965), Điểu Cải (commune military commander of the Dong Nai Guerrilla Unit, of the Cho Ro ethnic group), Ngô Văn Cấn (infantry battalion commander of Battalion 9), Major Nguyễn Thanh Sơn (chief of staff of Regiment 163), Bùi Anh Tuấn (soldier from Vinh Phuc), Lê Văn Thế (Cu Chi district military commander, Gia Dinh province), and Huỳnh Minh Mương (platoon leader guarding the Saigon - Gia Dinh Regional Party Committee).
+*   **Nov. 6, 1978:** The State of Vietnam conferred and posthumously conferred the title of Hero of the People's Armed Forces on 22 outstanding individuals and collectives from the resistance against the United States; conferring upon 14 comrades: strategic intelligence operative Đặng Trần Đức (Ba Quốc - legendary military intelligence officer who infiltrated the Central Intelligence Office of the Republic of Vietnam), intelligence officer Nguyễn Văn Thương (Hai Thương - staunch military courier who endured having his legs amputated 6 times by the enemy without breaking silence), Tôn Minh Lai (inner-city Saigon intelligence courier), Lê Thị Nhiễm (intelligence courier in Group 22, Regional Staff Department), Hồ Thị Bời (leader of intelligence liaison cell, Group 22), Colonel Lê Văn Vĩnh (Head of Intelligence Cluster H67 under Intelligence Section B2), Lê Văn Đạm (An Nhơn Tây commune political commissar, pioneer of the Cu Chi tunnels digging movement), Tống Viết Dương (sapper colonel), Phan Trung Kiên (Cu Chi guerrilla and commando commander; later Senior Lieutenant General, Deputy Minister of National Defense), Trần Văn Xuân (A72 man-portable air-defense missile gunner, Battalion 172, Regiment 64, Division 361; later Colonel and irrigation engineer), Major General Military Doctor Lê Thế Trung (Director of the Military Medical Academy, founder of Vietnam's burn medicine discipline), Nguyễn Văn A (People's Police lieutenant who commanded the capture of Gia Định Sector in April 1975), Bùi Quang Hảo (political commissar leading public mass movements in Cu Chi, Hoc Mon, Trang Bang), and Phạm Văn Trọng (Lieutenant, military doctor at Military Hospital 2, Ho Chi Minh City Military Command); and posthumously conferring upon 8 staunch martyrs: Võ Văn Điều ("Ap Bac Hero", commander of Battalion 261; Commander of Regiment 31 who led the assault on Phu Lam Postal Telecommunications Center in the 1968 Tet Offensive), Trần Văn Đang (Saigon Commando fighter publicly executed by the regime in 1965), Điểu Cải (commune military commander of the Dong Nai Guerrilla Unit, of the Cho Ro ethnic group), Ngô Văn Cấn (infantry battalion commander of Battalion 9), Major Nguyễn Thanh Sơn (chief of staff of Regiment 163), Bùi Anh Tuấn (soldier from Vinh Phuc), Lê Văn Thế (Cu Chi district military commander, Gia Dinh province), and Huỳnh Minh Mương (platoon leader guarding the Saigon - Gia Dinh Regional Party Committee). [Source: Presidential Decision conferring and posthumously awarding Hero of the People's Armed Forces dated Nov. 6, 1978; Vietnam Military History Institute, Heroes of the People's Armed Forces, Vol. VII, People's Army Publishing House, Hanoi, 1996]
 
 <!-- id: EVT-2722 -->
-* **16/11/1978:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Lê Thị Pha (Đại đội trưởng Đại đội nữ Pháo binh Y2 Đại Lào, Bảo Lộc (Tỉnh Lâm Đồng)).
+* **16/11/1978:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Lê Thị Pha (Đại đội trưởng Đại đội nữ Pháo binh Y2 Đại Lào, Bảo Lộc (Tỉnh Lâm Đồng)). [Source: Presidential Decision posthumously awarding Hero of the People's Armed Forces dated Nov. 16, 1978; Lam Dong Provincial Party Committee Commission for Propaganda, History of Women of Lam Dong Province]
 
 <!-- id: EVT-2723 -->
-*   **Dec. 2, 1978:** With Vietnam's assistance, the Kampuchean United Front for National Salvation was founded in Snuol, Kratie, calling for the overthrow of the Pol Pot genocidal regime and appealing for Vietnam's help.
+*   **Dec. 2, 1978:** With Vietnam's assistance, the Kampuchean United Front for National Salvation was founded in Snuol, Kratie, calling for the overthrow of the Pol Pot genocidal regime and appealing for Vietnam's help. [Source: Manifesto of the Kampuchean United Front for National Salvation, Dec. 2, 1978; Nhan Dan Newspaper; Ben Kiernan, The Pol Pot Regime, Yale University Press, 2002]
 
 <!-- id: EVT-2724 -->
-*   **Dec. 13, 1978:** Backed by foreign support, the Khmer Rouge mobilized 19 divisions (approximately 80,000 to 100,000 troops) to launch a full-scale invasion of Vietnam across the entire border, but their advance was fiercely halted by Vietnamese forces.
+*   **Dec. 13, 1978:** Backed by foreign support, the Khmer Rouge mobilized 19 divisions (approximately 80,000 to 100,000 troops) to launch a full-scale invasion of Vietnam across the entire border, but their advance was fiercely halted by Vietnamese forces. [Source: Vietnam Military History Institute, History of the War Defending the Southwest Border of the Fatherland (1975 - 1979), People's Army Publishing House, Hanoi, 2001, pp. 145-160]
 
 <!-- id: EVT-2725 -->
-*   **Dec. 23, 1978 - Jan. 17, 1979:** The Vietnamese military launched a strategic counter-offensive, successfully driving Pol Pot's forces out of Vietnamese territory and completely defending the southwestern border.
+*   **Dec. 23, 1978 - Jan. 17, 1979:** The Vietnamese military launched a strategic counter-offensive, successfully driving Pol Pot's forces out of Vietnamese territory and completely defending the southwestern border. [Source: Vietnam Military History Institute, History of the War Defending the Southwest Border of the Fatherland (1975 - 1979), People's Army Publishing House, Hanoi, 2001, pp. 170-210]
 
 <!-- id: EVT-2726 -->
-*   **Dec. 25, 1978:** Vietnam launched a comprehensive counter-offensive into Cambodia to repulse the Khmer Rouge invaders and support the Cambodian revolutionary forces in overthrowing the genocidal regime.
+*   **Dec. 25, 1978:** Vietnam launched a comprehensive counter-offensive into Cambodia to repulse the Khmer Rouge invaders and support the Cambodian revolutionary forces in overthrowing the genocidal regime. [Source: Vietnam Military History Institute, History of the War Defending the Southwest Border of the Fatherland (1975 - 1979), People's Army Publishing House, Hanoi, 2001; People's Army Newspaper]
 
 <!-- id: EVT-2727 -->
-*   **Dec. 30, 1978 - Aug. 11, 1980:** The Socialist Republic of Vietnam issued multiple formal protests (on Dec. 30, 1978, Aug. 7, 1979, Feb. 5, 1980, and Aug. 11, 1980) against actions taken by the PRC, Taiwan, and other nations violating Vietnamese sovereignty over the archipelagos.
+*   **Dec. 30, 1978 - Aug. 11, 1980:** The Socialist Republic of Vietnam issued multiple formal protests (on Dec. 30, 1978, Aug. 7, 1979, Feb. 5, 1980, and Aug. 11, 1980) against actions taken by the PRC, Taiwan, and other nations violating Vietnamese sovereignty over the archipelagos. [Source: Ministry of Foreign Affairs of the SRV, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagos, Hanoi, 1979, 1981; Dr. Nguyen Nha, Vietnam's Territorial Sovereignty over Hoang Sa and Truong Sa Archipelagos, Tri Thuc Publishing House, 2013]
 
 <!-- id: EVT-2728 -->
-*   **1979:** Following Vietnam's military intervention to overthrow the genocidal Khmer Rouge regime in Cambodia, the United States, China, and several Western nations tightened a comprehensive economic and diplomatic embargo against Vietnam, freezing foreign aid and blocking access to loans from the World Bank, IMF, and ADB.
+*   **1979:** Following Vietnam's military intervention to overthrow the genocidal Khmer Rouge regime in Cambodia, the United States, China, and several Western nations tightened a comprehensive economic and diplomatic embargo against Vietnam, freezing foreign aid and blocking access to loans from the World Bank, IMF, and ADB. [Source: Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, National Political Publishing House, Hanoi, 2002; Institute of History, History of Vietnam, Vol. 14 (1975 - 1986), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-2729 -->
-*   **1979:** According to the loan agreement, Vietnam was scheduled to make its first debt repayment to Iraq. However, facing immense post-war difficulties and new border conflicts (against Pol Pot and the Chinese invasion), Vietnam was unable to pay. During a visit by Prime Minister Pham Van Dong, President Saddam Hussein's government made an unprecedented decision to loan Vietnam an additional 100 million USD to pay off the due debt to Iraq itself.
+*   **1979:** According to the loan agreement, Vietnam was scheduled to make its first debt repayment to Iraq. However, facing immense post-war difficulties and new border conflicts (against Pol Pot and the Chinese invasion), Vietnam was unable to pay. During a visit by Prime Minister Pham Van Dong, President Saddam Hussein's government made an unprecedented decision to loan Vietnam an additional 100 million USD to pay off the due debt to Iraq itself. [Source: Ministry of Foreign Affairs, Chronology of High-Level Visits by Vietnamese Party and State Leaders; Nhan Dan Newspaper; People's Army Newspaper]
 
 <!-- id: EVT-2730 -->
-*   **1979:** Nguyen Tuat, the father of martyr Nguyen Van Luom, passed away in Phan Rang - Thap Cham.
+*   **1979:** Nguyen Tuat, the father of martyr Nguyen Van Luom, passed away in Phan Rang - Thap Cham. [Source: Martyr Nguyen Van Luom Family Dossier; Ninh Thuan Department of Labour, Invalids and Social Affairs; Vietnam Military History Museum]
 
 <!-- id: EVT-2731 -->
-* **1979:** Hero of the People's Armed Forces Nguyễn Văn Thuần (Trung đoàn phó bộ binh, Trung đoàn 209, Đại đoàn 312) passed away.
+* **1979:** Hero of the People's Armed Forces Nguyễn Văn Thuần (Trung đoàn phó bộ binh, Trung đoàn 209, Đại đoàn 312) passed away. [Source: Vietnam Military History Institute, Heroes of the People's Armed Forces, Vol. I, People's Army Publishing House, Hanoi, 1996; 312th Division]
 
 <!-- id: EVT-2732 -->
-* **1979:** Hero of the People's Armed Forces Lộc Văn Trọng (Trung đội phó lái xe ô tô thuộc Cục Vận tải, Tổng cục Hậu cần) passed away.
+* **1979:** Hero of the People's Armed Forces Lộc Văn Trọng (Trung đội phó lái xe ô tô thuộc Cục Vận tải, Tổng cục Hậu cần) passed away. [Source: General Department of Logistics, History of the Military Transport Department (1949 - 2009), People's Army Publishing House, Hanoi, 2009; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2733 -->
-* **1979:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Trương Hữu Dem (from Cao Bằng).
+* **1979:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Trương Hữu Dem (from Cao Bằng). [Source: Vietnam Military History Institute, Heroes of the People's Armed Forces, Vol. VII, People's Army Publishing House, Hanoi, 1996; Cao Bang Provincial Military Command]
 
 <!-- id: EVT-2734 -->
-* **1979:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Bùi Thanh Hường (Thượng tá, Tham mưu phó Sư đoàn 324).
+* **1979:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Bùi Thanh Hường (Thượng tá, Tham mưu phó Sư đoàn 324). [Source: Vietnam Military History Institute, Heroes of the People's Armed Forces, Vol. VII, People's Army Publishing House, Hanoi, 1996; Cao Bang Provincial Military Command]
 
 <!-- id: EVT-2735 -->
-* **1979:** Heroic Vietnamese Mother, Hero of the People's Armed Forces Nguyen Thi Ranh (mother from Cu Chi with husband, 8 children, and 2 grandchildren sacrificed in the two resistance wars) passed away.
+* **1979:** Heroic Vietnamese Mother, Hero of the People's Armed Forces Nguyen Thi Ranh (mother from Cu Chi with husband, 8 children, and 2 grandchildren sacrificed in the two resistance wars) passed away. [Source: HCM City Party Committee Commission for Propaganda, Vietnamese Heroic Mothers of Ho Chi Minh City, HCM City General Publishing House, 2014; Sai Gon Giai Phong Newspaper]
 
 <!-- id: EVT-2736 -->
-*   **Jan. 1979:** The Political Officer School sent 238 students and cadres for an internship at units in Cao Bang and Lang Son. When the border war broke out shortly after, 218 of them directly participated in combat, and 22 heroically sacrificed their lives defending the national border.
+*   **Jan. 1979:** The Political Officer School sent 238 students and cadres for an internship at units in Cao Bang and Lang Son. When the border war broke out shortly after, 218 of them directly participated in combat, and 22 heroically sacrificed their lives defending the national border. [Source: Political Officers College, History of the Political Officers College (1976 - 2016), People's Army Publishing House, Hanoi, 2016; People's Army Newspaper]
 
 <!-- id: EVT-2737 -->
-*   **Jan. 7, 1979:** Vietnamese volunteer troops, coordinating with the Kampuchean revolutionary armed forces, liberated the capital Phnom Penh, officially overthrowing the Pol Pot genocidal regime.
+*   **Jan. 7, 1979:** Vietnamese volunteer troops, coordinating with the Kampuchean revolutionary armed forces, liberated the capital Phnom Penh, officially overthrowing the Pol Pot genocidal regime. [Source: Vietnam Military History Institute, History of the War Defending the Southwest Border of the Fatherland (1975 - 1979), People's Army Publishing House, Hanoi, 2001, pp. 220-245; Nhan Dan Newspaper]
 
 <!-- id: EVT-2738 -->
-*   **Jan. 8, 1979:** The People's Revolutionary Council of Cambodia, led by Heng Samrin, was established with the backing of Vietnam following the liberation of Phnom Penh.
+*   **Jan. 8, 1979:** The People's Revolutionary Council of Cambodia, led by Heng Samrin, was established with the backing of Vietnam following the liberation of Phnom Penh. [Source: Declaration on the Establishment of the People's Revolutionary Council of Kampuchea, Jan. 8, 1979; Nhan Dan Newspaper; David Chandler, A History of Cambodia, Westview Press, 2000]
 
 <!-- id: EVT-2739 -->
-*   **Jan. 11, 1979:** The Politburo issued Resolution No. 14-NQ/TW on the 3rd nationwide Educational Reform directed by Prime Minister Pham Van Dong, unifying the education systems of the North and South into a unified 12-year general curriculum, emphasizing the principle of combining study with practice and education with productive labor to train human resources for national construction and defense.
+*   **Jan. 11, 1979:** The Politburo issued Resolution No. 14-NQ/TW on the 3rd nationwide Educational Reform directed by Prime Minister Pham Van Dong, unifying the education systems of the North and South into a unified 12-year general curriculum, emphasizing the principle of combining study with practice and education with productive labor to train human resources for national construction and defense. [Source: Politburo Resolution No. 14-NQ/TW dated Jan. 11, 1979 on Educational Reform; Complete Party Documents, Vol. 40 (1979), National Political Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2740 -->
-*   **Jan. 17, 1979:** The entirety of Cambodia was liberated from the Khmer Rouge.
+*   **Jan. 17, 1979:** The entirety of Cambodia was liberated from the Khmer Rouge. [Source: Vietnam Military History Institute, History of the War Defending the Southwest Border of the Fatherland (1975 - 1979), People's Army Publishing House, Hanoi, 2001; Nhan Dan Newspaper]
 
 <!-- id: EVT-2741 -->
-*   **Feb. 1979:** Vice Premier Huynh Tan Phat concurrently assumed the position of Chairman of the State Capital Construction Commission and Permanent Representative of Vietnam to the Council for Mutual Economic Assistance (COMECON).
+*   **Feb. 1979:** Vice Premier Huynh Tan Phat concurrently assumed the position of Chairman of the State Capital Construction Commission and Permanent Representative of Vietnam to the Council for Mutual Economic Assistance (COMECON). [Source: National Assembly Standing Committee Resolution No. 463 NQ/TVQH dated Feb. 16, 1979; National Assembly Documents, Vol. 5 (1976 - 1981), National Political Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-2742 -->
-*   **Feb. 1979:** The Philippine President issued a decree claiming almost the entire Spratly archipelago under Philippine sovereignty.
+*   **Feb. 1979:** The Philippine President issued a decree claiming almost the entire Spratly archipelago under Philippine sovereignty. [Source: Philippine Presidential Decree No. 1596 published February 1979; Ministry of Foreign Affairs of the SRV, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagos, 1979]
 
 <!-- id: EVT-2743 -->
-*   **Feb. 17, 1979:** China mobilized a massive invasion force (estimated from 300,000 to over 600,000 troops) simultaneously assaulting across the entire border of six northern provinces of Vietnam. Throughout the conflict and during their retreat, Chinese forces implemented a brutal scorched-earth policy, utilizing vast amounts of explosives to systematically level the provincial towns of Lang Son, Cao Bang, Lao Cai, and Cam Duong, obliterating hundreds of schools, hospitals, mines, factories, and bridges, alongside massacres of unarmed civilians. Vietnamese local troops and border militia fiercely resisted, inflicting severe attrition on the invaders.
+*   **Feb. 17, 1979:** China mobilized a massive invasion force (estimated from 300,000 to over 600,000 troops) simultaneously assaulting across the entire border of six northern provinces of Vietnam. Throughout the conflict and during their retreat, Chinese forces implemented a brutal scorched-earth policy, utilizing vast amounts of explosives to systematically level the provincial towns of Lang Son, Cao Bang, Lao Cai, and Cam Duong, obliterating hundreds of schools, hospitals, mines, factories, and bridges, alongside massacres of unarmed civilians. Vietnamese local troops and border militia fiercely resisted, inflicting severe attrition on the invaders. [Source: Statement of the Government of the SRV on China's War of Aggression, Feb. 17, 1979; Nhan Dan Newspaper; Vietnam Military History Institute, History of the War Defending the Northern Border, People's Army Publishing House, 2001]
 
 ![Historical Image](images/event_20260923_132056.webp)
 
 *Source: Vietnamese troops marching to the northern border to defend the Fatherland, Feb. 1979 (File photo)*
 
 <!-- id: EVT-2744 -->
-*   **Feb. 17, 1979:** At the Ta Lung – Phuc Hoa front (Cao Bang province), **Regiment 567** — originally an economic construction engineering unit with no prior combat experience — heroically defended **Khau Chia Pass (Đèo Khau Chỉa)** for 12 days and nights. With only about two battalions equipped with basic infantry weapons, they held off an entire Chinese division reinforced with tanks and heavy artillery. During the battle, 14.5mm anti-aircraft machine gunner **Ho Tuan** (Company 16) fought with extraordinary valor, firing until his gun barrel glowed red-hot, killing approximately 120 enemy soldiers and capturing 2 Chinese officers alive, earning the title **"Warrior of Khau Chia Pass" (Tráng sĩ đèo Khau Chỉa)** from comrades and local people. Regiment 567 effectively halted the enemy advance to only 12–18 km in 12 days, becoming a symbol of the Vietnamese military art of "using the few to defeat the many" in the northern border defense war.
+*   **Feb. 17, 1979:** At the Ta Lung – Phuc Hoa front (Cao Bang province), **Regiment 567** — originally an economic construction engineering unit with no prior combat experience — heroically defended **Khau Chia Pass (Đèo Khau Chỉa)** for 12 days and nights. With only about two battalions equipped with basic infantry weapons, they held off an entire Chinese division reinforced with tanks and heavy artillery. During the battle, 14.5mm anti-aircraft machine gunner **Ho Tuan** (Company 16) fought with extraordinary valor, firing until his gun barrel glowed red-hot, killing approximately 120 enemy soldiers and capturing 2 Chinese officers alive, earning the title **"Warrior of Khau Chia Pass" (Tráng sĩ đèo Khau Chỉa)** from comrades and local people. Regiment 567 effectively halted the enemy advance to only 12–18 km in 12 days, becoming a symbol of the Vietnamese military art of "using the few to defeat the many" in the northern border defense war. [Source: Vietnam Military History Institute, History of the War Defending the Northern Border (1979 - 1989), People's Army Publishing House, Hanoi, 2001; Cao Bang Provincial Military Command]
 
 <!-- id: EVT-2745 -->
-*   **Feb. 18, 1979:** Vietnam and Cambodia signed a Treaty of Peace, Friendship, and Cooperation.
+*   **Feb. 18, 1979:** Vietnam and Cambodia signed a Treaty of Peace, Friendship, and Cooperation. [Source: Treaty of Peace, Friendship and Cooperation between the SRV and the PRK, signed Feb. 18, 1979; Nhan Dan Newspaper; Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, 2002]
 
 <!-- id: EVT-2746 -->
-*   **Feb. 27, 1979:** Around 10:00 AM, Chinese forces overwhelmed the defenses at Hill 815 (Tra Linh, Cao Bang) after intense artillery and infantry assaults. Lieutenant Phan Dinh Linh, commanding the only four remaining survivors of his unit, engaged in hand-to-hand combat and heroically sacrificed his life.
+*   **Feb. 27, 1979:** Around 10:00 AM, Chinese forces overwhelmed the defenses at Hill 815 (Tra Linh, Cao Bang) after intense artillery and infantry assaults. Lieutenant Phan Dinh Linh, commanding the only four remaining survivors of his unit, engaged in hand-to-hand combat and heroically sacrificed his life. [Source: 3rd Sao Vang Division, History of the 3rd Sao Vang Division (1965 - 2005), People's Army Publishing House, Hanoi, 2005; Vietnam Military History Institute; People's Army Newspaper]
 
 <!-- id: EVT-2747 -->
-*   **Early Mar. 1979:** During the fierce battles defending the northern border in Lang Son, the historic photograph capturing soldier Tran Huy Cung (also known as Tran Duy Cung, from Thai Binh, serving in the 540th Regiment, 327th Division, 14th Corps) holding a B-41 rocket launcher resting on the Km 0 milestone at the Huu Nghi Border Gate was taken. The photograph became an enduring symbol of the unyielding fortitude, dignity, and determination of the Vietnamese people and armed forces in protecting national territorial sovereignty (his identity was officially verified and publicized by researchers and media in 2019).
+*   **Early Mar. 1979:** During the fierce battles defending the northern border in Lang Son, the historic photograph capturing soldier Tran Huy Cung (also known as Tran Duy Cung, from Thai Binh, serving in the 540th Regiment, 327th Division, 14th Corps) holding a B-41 rocket launcher resting on the Km 0 milestone at the Huu Nghi Border Gate was taken. The photograph became an enduring symbol of the unyielding fortitude, dignity, and determination of the Vietnamese people and armed forces in protecting national territorial sovereignty (his identity was officially verified and publicized by researchers and media in 2019). [Source: Vietnam Military History Institute, History of the War Defending the Northern Border in 1979, People's Army Publishing House, Hanoi, 2001; Nhan Dan Newspaper; Vietnam News Agency]
 
 <!-- id: EVT-2748 -->
-*   **Mar. 5, 1979:** Vietnam issued a General Mobilization Order nationwide, prompting tens of thousands of youths across the country to eagerly enlist to defend the northern border. On the same day, China announced its withdrawal of troops.
+*   **Mar. 5, 1979:** Vietnam issued a General Mobilization Order nationwide, prompting tens of thousands of youths across the country to eagerly enlist to defend the northern border. On the same day, China announced its withdrawal of troops. [Source: Presidential Order No. 29-LCT dated Mar. 5, 1979 on Nationwide General Mobilization; Nhan Dan Newspaper, Mar. 6, 1979]
 
 <!-- id: EVT-2749 -->
-*   **Mar. 6 - Mar. 7, 1979:** The Government of the Lao People's Democratic Republic issued an official statement condemning China's armed invasion of Vietnam and delivered a formal note demanding that Beijing suspend all highway construction projects in northern Laos and withdraw all Chinese engineers and technicians. Subsequently, Laos downgraded its diplomatic relations with China to the *chargé d'affaires* level and ordered the Chinese embassy in Vientiane to reduce its personnel, firmly aligning itself with Vietnam and the Indochinese solidarity bloc.
+*   **Mar. 6 - Mar. 7, 1979:** The Government of the Lao People's Democratic Republic issued an official statement condemning China's armed invasion of Vietnam and delivered a formal note demanding that Beijing suspend all highway construction projects in northern Laos and withdraw all Chinese engineers and technicians. Subsequently, Laos downgraded its diplomatic relations with China to the *chargé d'affaires* level and ordered the Chinese embassy in Vientiane to reduce its personnel, firmly aligning itself with Vietnam and the Indochinese solidarity bloc. [Source: Statement of the Government of the Lao People's Democratic Republic, Mar. 6, 1979; Nhan Dan Newspaper, Mar. 8, 1979; KPL News Agency (Laos)]
 
 <!-- id: EVT-2750 -->
 *   **Mar. 9, 1979:** Chinese forces committed the **Tong Chup massacre** in Tong Chup hamlet (Hung Dao commune, Hoa An district, now part of Cao Bang city, Cao Bang province) during their withdrawal. 43 innocent civilians (mostly women, the elderly, and children, including workers from the Tong Chup pig-breeding farm) were brutally murdered and their bodies dumped into an ancient well. Following the discovery and documentation of the crime scene by Vietnamese authorities, on March 14, 1979, Ambassador Ha Van Lau, Permanent Representative of Vietnam to the United Nations, presented formal reports and photographic evidence of these war crimes before the UN and the international press. [Source: Tuoi Tre Newspaper - Tong Chup: The memorial and children's laughter, https://tuoitre.vn/tong-chup-den-tuong-niem-va-tieng-cuoi-tre-tho-20240218235357697.htm]
 
 <!-- id: EVT-2751 -->
-*   **Mar. 16, 1979:** China officially declared the completion of its troop withdrawal from Vietnam, concluding the intense phase of the 1979 border war, though border skirmishes continued for another decade.
+*   **Mar. 16, 1979:** China officially declared the completion of its troop withdrawal from Vietnam, concluding the intense phase of the 1979 border war, though border skirmishes continued for another decade. [Source: Statement of the Ministry of Foreign Affairs of China, Mar. 16, 1979; Statement of the Ministry of Foreign Affairs of the SRV, Mar. 17, 1979; Nhan Dan Newspaper]
 
 <!-- id: EVT-2752 -->
-*   **Apr. 18, 1979:** The first round of Vietnam-China negotiations at the Deputy Foreign Minister level began in Hanoi.
+*   **Apr. 18, 1979:** The first round of Vietnam-China negotiations at the Deputy Foreign Minister level began in Hanoi. [Source: Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, National Political Publishing House, Hanoi, 2002, pp. 310-325; Nhan Dan Newspaper]
 
 <!-- id: EVT-2753 -->
-*   **Jul. 5, 1979:** Exploiting a medical transit stopover in Karachi (Pakistan) en route to East Germany, former Politburo member and Vice Chairman of the National Assembly Standing Committee Hoang Van Hoan defected to Beijing (China), where he publicly aligned with Chinese propaganda to oppose the Vietnamese state amidst fierce tensions following the northern border war. Capitalizing on his defection, Beijing organized, funded, and militarily trained cross-border armed proxy units formed from Vietnamese defectors and refugees, named the **"Hoang Van Hoan Guerrilla Units"** (also known as the *"Anti-Le Duan National Salvation Guerrillas"*, Chinese: 黄文欢游击队 / 反黎救国). Operating from staging bases near the border such as Hekou (Yunnan), Chizhuba (Malipo County), and Lushuihe, these units were armed with Chinese weaponry and often disguised in local ethnic attire to infiltrate deep into Vietnamese territory for commando missions, artillery spotting, intelligence gathering, psychological warfare, and armed harassment (particularly in the frontier regions of Ha Tuyen, Lang Son, and Hoang Lien Son) throughout the 1980s. Widely condemned in Vietnam as an act of treason, Hoang Van Hoan was tried *in absentia* by the Supreme People's Court on June 26, 1980, and sentenced to death for high treason against the Fatherland. These proxy paramilitary groups were persistently countered and neutralized by Vietnamese border defense forces, eventually disbanding entirely upon the normalization of Sino-Vietnamese relations in the early 1990s.
+*   **Jul. 5, 1979:** Exploiting a medical transit stopover in Karachi (Pakistan) en route to East Germany, former Politburo member and Vice Chairman of the National Assembly Standing Committee Hoang Van Hoan defected to Beijing (China), where he publicly aligned with Chinese propaganda to oppose the Vietnamese state amidst fierce tensions following the northern border war. Capitalizing on his defection, Beijing organized, funded, and militarily trained cross-border armed proxy units formed from Vietnamese defectors and refugees, named the **"Hoang Van Hoan Guerrilla Units"** (also known as the *"Anti-Le Duan National Salvation Guerrillas"*, Chinese: 黄文欢游击队 / 反黎救国). Operating from staging bases near the border such as Hekou (Yunnan), Chizhuba (Malipo County), and Lushuihe, these units were armed with Chinese weaponry and often disguised in local ethnic attire to infiltrate deep into Vietnamese territory for commando missions, artillery spotting, intelligence gathering, psychological warfare, and armed harassment (particularly in the frontier regions of Ha Tuyen, Lang Son, and Hoang Lien Son) throughout the 1980s. Widely condemned in Vietnam as an act of treason, Hoang Van Hoan was tried *in absentia* by the Supreme People's Court on June 26, 1980, and sentenced to death for high treason against the Fatherland. These proxy paramilitary groups were persistently countered and neutralized by Vietnamese border defense forces, eventually disbanding entirely upon the normalization of Sino-Vietnamese relations in the early 1990s. [Source: First and Final Criminal Verdict No. 01/HS-ST dated June 26, 1980 of the Supreme People's Court sentencing Hoang Van Hoan to death for treason; Nhan Dan Newspaper]
 
 <!-- id: EVT-2754 -->
-*   **Aug. 1979:** The 6th Conference of the Party Central Committee (4th tenure) issued a resolution on "The urgent situation and tasks," acknowledging difficulties and weaknesses in economic management and proposing a policy to "unfetter production."
+*   **Aug. 1979:** The 6th Conference of the Party Central Committee (4th tenure) issued a resolution on "The urgent situation and tasks," acknowledging difficulties and weaknesses in economic management and proposing a policy to "unfetter production." [Source: Resolution of the 6th Plenum of the Party Central Committee (4th Tenure), Aug. 1979; Complete Party Documents, Vol. 40 (1979), National Political Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2755 -->
-*   **Sep. 15, 1979:** The Government Council issued a decision establishing **Semiconductor Factory Z181** (originally the Electronic Enterprise, now Sao Mai Electronics One Member LLC under the General Department of Defense Industry). This was Vietnam's first specialized facility equipped with a synchronized production line imported from Japan and Western Europe to research, manufacture, and package semiconductor components (such as transistors, diodes, microcircuits, semiconductor sensors, and LEDs). Throughout the 1980s, the factory produced and exported tens of millions of semiconductor components annually to Eastern European countries and the Soviet Union (including Czechoslovakia and Poland), laying the earliest historical foundation for Vietnam's semiconductor industry.
+*   **Sep. 15, 1979:** The Government Council issued a decision establishing **Semiconductor Factory Z181** (originally the Electronic Enterprise, now Sao Mai Electronics One Member LLC under the General Department of Defense Industry). This was Vietnam's first specialized facility equipped with a synchronized production line imported from Japan and Western Europe to research, manufacture, and package semiconductor components (such as transistors, diodes, microcircuits, semiconductor sensors, and LEDs). Throughout the 1980s, the factory produced and exported tens of millions of semiconductor components annually to Eastern European countries and the Soviet Union (including Czechoslovakia and Poland), laying the earliest historical foundation for Vietnam's semiconductor industry. [Source: Government Council Decision establishing Electronics Enterprise Z181, Sept. 15, 1979; General Department of Defense Industry, History of Factory Z181 (1979 - 2019), People's Army Publishing House, 2019]
 
 <!-- id: EVT-2756 -->
-*   **Sep. 28, 1979:** The Ministry of Foreign Affairs of the Socialist Republic of Vietnam published the White Paper *"Vietnam's Sovereignty Over the Hoang Sa and Truong Sa Archipelagos"*, presenting a comprehensive collection of historical documents and international legal evidence substantiating Vietnam's long-standing, continuous, and peaceful sovereignty over both archipelagos.
+*   **Sep. 28, 1979:** The Ministry of Foreign Affairs of the Socialist Republic of Vietnam published the White Paper *"Vietnam's Sovereignty Over the Hoang Sa and Truong Sa Archipelagos"*, presenting a comprehensive collection of historical documents and international legal evidence substantiating Vietnam's long-standing, continuous, and peaceful sovereignty over both archipelagos. [Source: Ministry of Foreign Affairs of the SRV, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagos, Hanoi, Sept. 28, 1979; Dr. Nguyen Nha, Vietnam's Territorial Sovereignty over Hoang Sa and Truong Sa Archipelagos, Tri Thuc Publishing House, 2013]
 
 <!-- id: EVT-2757 -->
-*   **Oct. 1, 1979:** The second national Population Census was conducted.
+*   **Oct. 1, 1979:** The second national Population Census was conducted. [Source: General Statistics Office, Results of the Nationwide Population Census on Oct. 1, 1979, Hanoi, 1980; Nhan Dan Newspaper]
 
 <!-- id: EVT-2758 -->
-*   **Nov. 6, 1979:** Prime Minister Pham Van Dong ordered the commencement of construction of the Hoa Binh Hydropower Plant on the Da River (Hoa Binh Province) with a designed capacity of 1,920 MW—the century's largest hydropower project in Southeast Asia at the time, built with substantial financial and technical assistance from the Soviet Union, laying the core foundation for energy security and flood control in the Northern Delta.
+*   **Nov. 6, 1979:** Prime Minister Pham Van Dong ordered the commencement of construction of the Hoa Binh Hydropower Plant on the Da River (Hoa Binh Province) with a designed capacity of 1,920 MW—the century's largest hydropower project in Southeast Asia at the time, built with substantial financial and technical assistance from the Soviet Union, laying the core foundation for energy security and flood control in the Northern Delta. [Source: Vietnam Electricity (EVN), Hoa Binh Hydropower Company - 30 Years of Development and Dedication, Industry and Trade Publishing House, 2018; Nhan Dan Newspaper, Nov. 7, 1979]
 
 <!-- id: EVT-2759 -->
-*   **Dec. 20, 1979:** Martyr Phan Dinh Linh was posthumously awarded the title Hero of the People's Armed Forces and the Third Class Victory Medal for his extraordinary bravery at Hill 815.
+*   **Dec. 20, 1979:** Martyr Phan Dinh Linh was posthumously awarded the title Hero of the People's Armed Forces and the Third Class Victory Medal for his extraordinary bravery at Hill 815. [Source: Presidential Decision posthumously awarding Hero of the People's Armed Forces dated Dec. 20, 1979; 3rd Sao Vang Division, History of the 3rd Sao Vang Division, People's Army Publishing House, 2005]
 
 <!-- id: EVT-2760 -->
-*   **1980s:** Despite facing significant difficulties due to the Iran-Iraq War, the Iraqi government agreed to Vietnam's proposal to defer its debt and accept repayment in the form of goods (rice, tea, clothing) and labor. Thousands of Vietnamese workers were sent to Iraq, contributing half of their salaries to debt repayment while helping their families.
+*   **1980s:** Despite facing significant difficulties due to the Iran-Iraq War, the Iraqi government agreed to Vietnam's proposal to defer its debt and accept repayment in the form of goods (rice, tea, clothing) and labor. Thousands of Vietnamese workers were sent to Iraq, contributing half of their salaries to debt repayment while helping their families. [Source: Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, National Political Publishing House, Hanoi, 2002; Ministry of Labour, Invalids and Social Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-2761 -->
-*   **1980s - 1990s:** Cuba supported Vietnam in preventive medicine by providing vaccines for meningitis, polio, and tetanus for Vietnamese children.
+*   **1980s - 1990s:** Cuba supported Vietnam in preventive medicine by providing vaccines for meningitis, polio, and tetanus for Vietnamese children. [Source: Ministry of Foreign Affairs, 60 Years of Special Traditional Vietnam - Cuba Relations (1960 - 2020), National Political Publishing House, Hanoi, 2020; Ministry of Health]
 
 <!-- id: EVT-2762 -->
-*   **After Tet 1980:** Skirmishes and small-scale battles continued to occur occasionally at high points along the Lang Son border.
+*   **After Tet 1980:** Skirmishes and small-scale battles continued to occur occasionally at high points along the Lang Son border. [Source: Vietnam Military History Institute, History of the War Defending the Northern Border (1979 - 1989), People's Army Publishing House, Hanoi, 2001; Lang Son Provincial Military Command]
 
 <!-- id: EVT-2763 -->
-*   **1980:** The People's Committee of Dong Hoi town built a memorial monument for Mother Suot in the center of the old ferry terminal on the Nhat Le River to honor her heroic sacrifice.
+*   **1980:** The People's Committee of Dong Hoi town built a memorial monument for Mother Suot in the center of the old ferry terminal on the Nhat Le River to honor her heroic sacrifice. [Source: Dong Hoi City People's Committee, Dong Hoi Monograph, Thuan Hoa Publishing House, 2004; Quang Binh Newspaper]
 
 <!-- id: EVT-2764 -->
-* **1980:** Hero of the People's Armed Forces Nguyễn Văn A (Thiếu úy Công an Nhân dân, Chỉ huy Trưởng nhiệm vụ đánh chiếm Tiểu khu Gia Định trong Chiến dịch Hồ Chí Minh tháng 4 năm 1975) passed away.
+* **1980:** Hero of the People's Armed Forces Nguyễn Văn A (Thiếu úy Công an Nhân dân, Chỉ huy Trưởng nhiệm vụ đánh chiếm Tiểu khu Gia Định trong Chiến dịch Hồ Chí Minh tháng 4 năm 1975) passed away. [Source: Ho Chi Minh City Police, History of Ho Chi Minh City Police (1945 - 2005), Public Security Publishing House, Hanoi, 2005; Public Security Museum]
 
 <!-- id: EVT-2765 -->
-* **1980:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Hồ Thị Bi (Nữ chỉ huy quân sự kiên cường trong hai cuộc kháng chiến chống Pháp và chống Mỹ, được Chủ tịch Hồ Chí Minh đặt biệt danh "Nữ kiệt miền Đông").
+* **1980:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Hồ Thị Bi (Nữ chỉ huy quân sự kiên cường trong hai cuộc kháng chiến chống Pháp và chống Mỹ, được Chủ tịch Hồ Chí Minh đặt biệt danh "Nữ kiệt miền Đông"). [Source: Presidential Decision conferring Hero of the People's Armed Forces in 1980; HCM City Party Committee Commission for Propaganda; People's Army Newspaper]
 
 <!-- id: EVT-2766 -->
-*   **Mar. 30, 1980:** President Ton Duc Thang passed away. Vice President **Nguyen Huu Tho** served as Acting President (until July 1981).
+*   **Mar. 30, 1980:** President Ton Duc Thang passed away. Vice President **Nguyen Huu Tho** served as Acting President (until July 1981). [Source: Special Communique of the Party Central Committee, National Assembly, and Government on State Funeral of President Ton Duc Thang; National Assembly Documents, Vol. 5 (1976 - 1981), National Political Publishing House, 2008]
 
 <!-- id: EVT-2767 -->
-*   **Jul. 23, 1980:** Hero Pham Tuan, along with Soviet cosmonaut Viktor Vassilyevich Gorbatko, made a flight aboard the Soyuz 37 spacecraft as part of the Soviet Interkosmos program. During the mission, he carried the Vietnamese national flag (red flag with a gold star) and President Ho Chi Minh's Testament aboard the Salyut 6 orbital station, marking the first time the Vietnamese national flag was carried into outer space. He was the first Vietnamese person and also the first Asian person to fly into space, making Vietnam the 10th country in the world to have a citizen fly into space.
+*   **Jul. 23, 1980:** Hero Pham Tuan, along with Soviet cosmonaut Viktor Vassilyevich Gorbatko, made a flight aboard the Soyuz 37 spacecraft as part of the Soviet Interkosmos program. During the mission, he carried the Vietnamese national flag (red flag with a gold star) and President Ho Chi Minh's Testament aboard the Salyut 6 orbital station, marking the first time the Vietnamese national flag was carried into outer space. He was the first Vietnamese person and also the first Asian person to fly into space, making Vietnam the 10th country in the world to have a citizen fly into space. [Source: Vietnam News Agency (VNA), Special Bulletin of July 23, 1980; Vietnam Academy of Science and Technology; Nhan Dan Newspaper]
 
 ![Historical Image](images/event_20260923_105022.webp)
 
 *Source: File photo of the Soyuz 37 flight (1980) / Wikimedia Commons*
 
 <!-- id: EVT-2768 -->
-*   **Dec. 18, 1980:** The 6th National Assembly passed the 1980 Constitution, the constitution of the period of transition to socialism.
+*   **Dec. 18, 1980:** The 6th National Assembly passed the 1980 Constitution, the constitution of the period of transition to socialism. [Source: Constitution of the Socialist Republic of Vietnam (1980); National Assembly Documents, Vol. 5 (1976 - 1981), National Political Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-2769 -->
-*   **Jan. 13, 1981:** The Party Secretariat issued Directive No. 100/CT-TU ("Contract 100") on improving the contract system, extending product-based contracts to groups and individual laborers in agricultural cooperatives.
+*   **Jan. 13, 1981:** The Party Secretariat issued Directive No. 100/CT-TU ("Contract 100") on improving the contract system, extending product-based contracts to groups and individual laborers in agricultural cooperatives. [Source: Secretariat Directive No. 100-CT/TW dated Jan. 13, 1981; Complete Party Documents, Vol. 42 (1981), National Political Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2770 -->
 *   **Jan. 21, 1981:** The Council of Government issued Decision No. 25-CP, aiming to promote the autonomy in production and business and financial self-management of state-owned enterprises.

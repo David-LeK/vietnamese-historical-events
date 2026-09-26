@@ -8532,32 +8532,32 @@
 *   **18/03 - 01/04/1975:** Chiến dịch Đường 5 - Phú Yên. Đón lõng cuộc tháo chạy của Quân đoàn II (ngụy quân VNCH) từ Tây Nguyên xuống đồng bằng theo Đường số 7, Quân Giải phóng tổ chức phục kích và làm chủ Đường số 5, tiêu diệt các cụm quân địch và tiến đánh thị xã Tuy Hòa. Lần lượt giải phóng Quảng Ngãi, Tam Kỳ (24/03), Bình Định và đến trưa 01/04, toàn bộ tỉnh Phú Yên được giải phóng. [Nguồn: Bộ Chỉ huy Quân sự tỉnh Phú Yên, Chiến dịch Đường 5 - Phú Yên xuân 1975, NXB Quân đội nhân dân, Hà Nội, 2005]
 
 <!-- id: EVT-2628 -->
-*   **18/03/1975:** Bộ Chính trị hạ quyết tâm giải phóng miền Nam trước mùa mưa năm 1975.
+*   **18/03/1975:** Bộ Chính trị hạ quyết tâm giải phóng miền Nam trước mùa mưa năm 1975. [Nguồn: Ban Chấp hành Trung ương Đảng, Văn kiện Đảng Toàn tập, tập 36 (1975), NXB Chính trị quốc gia, Hà Nội, 2004; Đại tướng Văn Tiến Dũng, Đại thắng Mùa Xuân, NXB Quân đội nhân dân, 1976]
 
 <!-- id: EVT-2629 -->
-*   **25/03/1975:** Bộ Chính trị ra Nghị quyết số 241-NQ/TW thành lập Hội đồng Chi viện miền Nam ở Trung ương để đáp ứng yêu cầu chi viện ngày càng lớn của chiến trường.
+*   **25/03/1975:** Bộ Chính trị ra Nghị quyết số 241-NQ/TW thành lập Hội đồng Chi viện miền Nam ở Trung ương để đáp ứng yêu cầu chi viện ngày càng lớn của chiến trường. [Nguồn: Nghị quyết số 241-NQ/TW ngày 25/03/1975 của Bộ Chính trị; Văn kiện Đảng Toàn tập, tập 36 (1975), NXB Chính trị quốc gia, Hà Nội, 2004]
 
 <!-- id: EVT-2630 -->
-*   **26/03/1975:** Thành phố Huế và toàn bộ tỉnh Thừa Thiên được hoàn toàn giải phóng khi lá cờ cách mạng tung bay trên đỉnh Cột cờ Phu Văn Lâu, đập tan tuyến phòng thủ chiến lược then chốt của ngụy quyền Sài Gòn ở miền Trung.
+*   **26/03/1975:** Thành phố Huế và toàn bộ tỉnh Thừa Thiên được hoàn toàn giải phóng khi lá cờ cách mạng tung bay trên đỉnh Cột cờ Phu Văn Lâu, đập tan tuyến phòng thủ chiến lược then chốt của ngụy quyền Sài Gòn ở miền Trung. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Kháng chiến chống Mỹ cứu nước (1954 - 1975), tập VIII, NXB Chính trị quốc gia, Hà Nội, 2008, tr. 320-335; Báo Nhân Dân]
 
 <!-- id: EVT-2631 -->
-*   **27/03/1975:** Bộ Chính trị gửi điện (18 giờ) chỉ đạo Anh Năm Công (Võ Chí Công) và Hai Mạnh (**Chu Huy Mân**) về kế hoạch giải phóng Đà Nẵng, yêu cầu hành động táo bạo, bất ngờ để tiêu diệt sinh lực địch, không cho chúng rút về Sài Gòn.
+*   **27/03/1975:** Bộ Chính trị gửi điện (18 giờ) chỉ đạo Anh Năm Công (Võ Chí Công) và Hai Mạnh (**Chu Huy Mân**) về kế hoạch giải phóng Đà Nẵng, yêu cầu hành động táo bạo, bất ngờ để tiêu diệt sinh lực địch, không cho chúng rút về Sài Gòn. [Nguồn: Bộ Tổng Tham mưu Quân đội nhân dân Việt Nam, Văn kiện chỉ đạo tác chiến mùa Xuân 1975; Đại tướng Chu Huy Mân, Thời sôi động (Hồi ký), NXB Quân đội nhân dân, Hà Nội, 2004]
 
 <!-- id: EVT-2632 -->
-*   **29/03/1975:** Quân Giải phóng đồng loạt tiến công và giải phóng hoàn toàn thành phố Đà Nẵng - căn cứ quân sự liên hợp khổng lồ lớn thứ hai của địch ở miền Nam. Hơn 14 vạn sĩ quan, binh lính địch bị tiêu diệt và làm tan rã, tạo điều kiện thuận lợi cho đòn tiến công chiến lược cuối cùng giải phóng Sài Gòn.
+*   **29/03/1975:** Quân Giải phóng đồng loạt tiến công và giải phóng hoàn toàn thành phố Đà Nẵng - căn cứ quân sự liên hợp khổng lồ lớn thứ hai của địch ở miền Nam. Hơn 14 vạn sĩ quan, binh lính địch bị tiêu diệt và làm tan rã, tạo điều kiện thuận lợi cho đòn tiến công chiến lược cuối cùng giải phóng Sài Gòn. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Kháng chiến chống Mỹ cứu nước (1954 - 1975), tập VIII, NXB Chính trị quốc gia, Hà Nội, 2008, tr. 340-365; Báo Quân đội nhân dân]
 
 ![Hình ảnh tư liệu](images/event_20260924_120801.webp)
 
 *Nguồn: Bộ binh và xe tăng Quân Giải phóng tiến vào Đà Nẵng ngày 29/03/1975 / TTXVN*
 
 <!-- id: EVT-2633 -->
-*   **04/1975:** Đại tướng Văn Tiến Dũng làm Tư lệnh Chiến dịch Hồ Chí Minh; Thượng tướng Nguyễn Hữu An (Tư lệnh Quân đoàn 2) và Thiếu tướng Hoàng Đan (Phó Tư lệnh) chỉ đạo mũi tiến công hướng Đông Nam thọc sâu đánh chiếm Dinh Độc Lập trưa ngày 30/04/1975.
+*   **04/1975:** Đại tướng Văn Tiến Dũng làm Tư lệnh Chiến dịch Hồ Chí Minh; Thượng tướng Nguyễn Hữu An (Tư lệnh Quân đoàn 2) và Thiếu tướng Hoàng Đan (Phó Tư lệnh) chỉ đạo mũi tiến công hướng Đông Nam thọc sâu đánh chiếm Dinh Độc Lập trưa ngày 30/04/1975. [Nguồn: Đại tướng Văn Tiến Dũng, Đại thắng Mùa Xuân, NXB Quân đội nhân dân, Hà Nội, 1976; Thượng tướng Nguyễn Hữu An, Chiến trường mới (Hồi ký), NXB Quân đội nhân dân, Hà Nội, 2002]
 
 <!-- id: EVT-2634 -->
-*   **03/04/1975:** Giải phóng các tỉnh Khánh Hòa, Cam Ranh.
+*   **03/04/1975:** Giải phóng các tỉnh Khánh Hòa, Cam Ranh. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Kháng chiến chống Mỹ cứu nước (1954 - 1975), tập VIII, NXB Chính trị quốc gia, Hà Nội, 2008; Tỉnh ủy Khánh Hòa, Lịch sử Đảng bộ tỉnh Khánh Hòa]
 
 <!-- id: EVT-2635 -->
-*   **07/04/1975:** Tại Tổng hành dinh (Hà Nội), Bí thư Quân ủy Trung ương, Đại tướng - Tổng Tư lệnh Võ Nguyên Giáp phát đi bức điện khẩn lịch sử (bức điện mật số 986/TK) gửi các cánh quân đang thần tốc tiến về giải phóng miền Nam: *"Thần tốc, thần tốc hơn nữa. Táo bạo, táo bạo hơn nữa. Tranh thủ từng giờ, từng phút, xốc tới mặt trận, giải phóng miền Nam. Quyết chiến và toàn thắng!"*. Bức điện đã trở thành lời hiệu triệu non sông, thôi thúc toàn quân tiến công dũng mãnh, giải phóng hoàn toàn miền Nam, thống nhất đất nước.
+*   **07/04/1975:** Tại Tổng hành dinh (Hà Nội), Bí thư Quân ủy Trung ương, Đại tướng - Tổng Tư lệnh Võ Nguyên Giáp phát đi bức điện khẩn lịch sử (bức điện mật số 986/TK) gửi các cánh quân đang thần tốc tiến về giải phóng miền Nam: *"Thần tốc, thần tốc hơn nữa. Táo bạo, táo bạo hơn nữa. Tranh thủ từng giờ, từng phút, xốc tới mặt trận, giải phóng miền Nam. Quyết chiến và toàn thắng!"*. Bức điện đã trở thành lời hiệu triệu non sông, thôi thúc toàn quân tiến công dũng mãnh, giải phóng hoàn toàn miền Nam, thống nhất đất nước. [Nguồn: Bức điện mật số 986/TK ngày 07/04/1975 của Đại tướng Võ Nguyên Giáp; Tổng tập Hồi ký Đại tướng Võ Nguyên Giáp, NXB Quân đội nhân dân, Hà Nội, 2011; Thông tấn xã Việt Nam]
 
 <!-- id: EVT-2636 -->
 *   **09 - 21/04/1975:** Trận Xuân Lộc - Long Khánh. Trận đánh có tổ chức cuối cùng của ngụy quân VNCH nhằm tử thủ "cánh cửa thép" bảo vệ ngõ phía Đông Sài Gòn. Sư đoàn 18 cùng các lực lượng dù, thiết giáp, biệt động quân dưới sự yểm trợ tàn khốc của không quân (ném khoảng 70.000 tấn bom, kể cả bom CBU-55) đã chống cự quyết liệt. Quân đoàn 4 Quân Giải phóng thay đổi chiến thuật đánh vu hồi, bao vây chia cắt, đánh chiếm ngã ba Dầu Giây, buộc ngụy quân Sài Gòn phải rút chạy vào ngày 21/04. Thất bại tại Xuân Lộc đánh dấu sự sụp đổ tuyến phòng thủ cuối cùng, dẫn đến việc Tổng thống Nguyễn Văn Thiệu từ chức cùng ngày và bỏ trốn khỏi đất nước (25/04). [Nguồn: Báo Nhân Dân - Chiến thắng Xuân Lộc - Long Khánh, https://special.nhandan.vn/chien-thang-xuan-loc-long-khanh/index.html]
@@ -8566,34 +8566,34 @@
 *   **10 - 29/04/1975:** Chiến dịch Trường Sa và các đảo trên Biển Đông. Theo chỉ đạo của Bộ Tổng tham mưu, Hải quân Nhân dân Việt Nam (Đoàn 126 đặc công và Tiểu đoàn 471) tổ chức tiến công giải phóng các đảo do ngụy quân Sài Gòn đóng giữ tại quần đảo Trường Sa. Bắt đầu từ đảo Song Tử Tây (14/04), quân Giải phóng lần lượt làm chủ các đảo Sơn Ca, Nam Yết, Sinh Tồn và Trường Sa Lớn (29/04), kéo lá cờ giải phóng tung bay trên các đảo tiền tiêu, khẳng định và bảo vệ toàn vẹn chủ quyền biển đảo trong thời khắc lịch sử của dân tộc. [Nguồn: Báo Nhân Dân - Giải phóng Trường Sa mùa Xuân năm 1975, https://special.nhandan.vn/giai-phong-Truong-Sa-mua-Xuan-nam-1975/index.html]
 
 <!-- id: EVT-2638 -->
-*   **14/04/1975:** Huỳnh Tấn Phát, thay mặt Chính phủ Cách mạng Lâm thời, đọc diễn văn tại sân vận động Đà Lạt mừng thành phố được giải phóng.
+*   **14/04/1975:** Huỳnh Tấn Phát, thay mặt Chính phủ Cách mạng Lâm thời, đọc diễn văn tại sân vận động Đà Lạt mừng thành phố được giải phóng. [Nguồn: Ban Tuyên giáo Tỉnh ủy Lâm Đồng, Lịch sử Đảng bộ tỉnh Lâm Đồng (1930 - 2000), NXB Chính trị quốc gia, Hà Nội, 2003; Báo Giải Phóng]
 
 <!-- id: EVT-2639 -->
 *   **14/04/1975:** Bộ Chính trị quyết định đặt tên chiến dịch giải phóng Sài Gòn - Gia Định là **"Chiến dịch Hồ Chí Minh"**. [Nguồn: Báo Nhân Dân - Chiến dịch Hồ Chí Minh, https://special.nhandan.vn/chien-dich-ho-chi-minh/index.html]
 
 <!-- id: EVT-2640 -->
-*   **17/04/1975:** Khmer Đỏ do Pol Pot cầm đầu chiếm được Phnôm Pênh, lật đổ chế độ Lon Nol và lập nên nước Campuchia Dân chủ. Khmer Đỏ lập tức lùa dân cư rời thành phố về nông thôn, mở đầu cho chế độ diệt chủng tàn bạo cướp đi sinh mạng của khoảng 1,7 triệu người Campuchia.
+*   **17/04/1975:** Khmer Đỏ do Pol Pot cầm đầu chiếm được Phnôm Pênh, lật đổ chế độ Lon Nol và lập nên nước Campuchia Dân chủ. Khmer Đỏ lập tức lùa dân cư rời thành phố về nông thôn, mở đầu cho chế độ diệt chủng tàn bạo cướp đi sinh mạng của khoảng 1,7 triệu người Campuchia. [Nguồn: David Chandler, A History of Cambodia, Westview Press, 2000; Ben Kiernan, The Pol Pot Regime: Race, Power, and Genocide in Cambodia, Yale University Press, 2002]
 
 <!-- id: EVT-2641 -->
-*   **21/04/1975:** Nguyễn Văn Thiệu từ chức tổng thống.
+*   **21/04/1975:** Nguyễn Văn Thiệu từ chức tổng thống. [Nguồn: Diễn văn từ chức của Nguyễn Văn Thieu phát sóng trên Đài Truyền hình Việt Nam (Sài Gòn) ngày 21/04/1975; George C. Herring, America's Longest War, McGraw-Hill, 2001]
 
 <!-- id: EVT-2642 -->
-*   **23/04/1975:** Ban Bí thư gửi điện chỉ đạo chuẩn bị xuất bản ngay báo "Cờ giải phóng" khi Sài Gòn được giải phóng.
+*   **23/04/1975:** Ban Bí thư gửi điện chỉ đạo chuẩn bị xuất bản ngay báo "Cờ giải phóng" khi Sài Gòn được giải phóng. [Nguồn: Ban Chấp hành Trung ương Đảng, Văn kiện Đảng Toàn tập, tập 36 (1975), NXB Chính trị quốc gia, Hà Nội, 2004; Báo Sài Gòn Giải Phóng]
 
 <!-- id: EVT-2643 -->
 *   **26/04/1975:** Chiến dịch Hồ Chí Minh bắt đầu. 5 cánh quân lớn của Quân Giải phóng đồng loạt tiến công vào Sài Gòn. [Nguồn: https://baochinhphu.vn/vi-dai-tuong-chi-huy-chien-dich-ho-chi-minh-trong-nhung-ngay-thang-4-1975-102271567.htm]
 
 <!-- id: EVT-2644 -->
-*   **27/04/1975:** Ông Đoàn Tuân anh dũng hy sinh trên đường tiến quân, cách Sài Gòn khoảng 30km. Vợ ông, bà Phan Thị Tuyết, đã giữ trọn lời hứa "hãy đợi anh về", ở vậy thờ chồng suốt hơn 50 năm.
+*   **27/04/1975:** Ông Đoàn Tuân anh dũng hy sinh trên đường tiến quân, cách Sài Gòn khoảng 30km. Vợ ông, bà Phan Thị Tuyết, đã giữ trọn lời hứa "hãy đợi anh về", ở vậy thờ chồng suốt hơn 50 năm. [Nguồn: Ban Liên lạc Cựu chiến binh Quân đoàn 2; Báo Quân đội nhân dân điện tử; Bảo tàng Lịch sử Quân sự Việt Nam]
 
 <!-- id: EVT-2645 -->
 *   **27 - 30/04/1975:** **Trận đánh giữ Cầu Rạch Chiếc (Chiến dịch Hồ Chí Minh):** Lực lượng đặc công - biệt động thuộc Lữ đoàn 316 (chủ công là Tiểu đoàn Đặc công 81 thuộc Trung đoàn 116 phối hợp với các đội biệt động Z22, Z23) dưới sự chỉ huy của Cụm trưởng Nguyễn Văn Tăng (Tư Tăng) đã tiến hành trận đánh then chốt chiếm và giữ vững Cầu Rạch Chiếc trên Xa lộ Sài Gòn. Dưới hỏa lực ác liệt từ bộ binh, giang thuyền và máy bay trực thăng của quân đội Sài Gòn, 52 chiến sĩ đặc công - biệt động đã anh dũng hy sinh để bảo vệ an toàn tuyệt đối cho cây cầu, ngăn chặn đối phương gài mìn giật sập cầu, mở toang cửa ngõ phía Đông cho các lữ đoàn xe tăng của Quân đoàn 2 thần tốc tiến thẳng vào giải phóng Sài Gòn trưa ngày 30/04/1975. [Nguồn: Báo Điện tử Chính phủ - Ký ức nóng bỏng về trận chiến đấu lịch sử ở cầu Rạch Chiếc, https://baochinhphu.vn/ky-uc-nong-bong-ve-tran-chien-dau-lich-su-o-cau-rach-chiec-102183004.htm]
 
 <!-- id: EVT-2646 -->
-*   **29/04/1975:** Vào lúc 10 giờ, Bộ Chính trị gửi điện cho Bộ Chỉ huy Chiến dịch Hồ Chí Minh chỉ thị tiếp tục tiến công vào Sài Gòn theo kế hoạch, không vì lệnh ngừng bắn của Dương Văn Minh mà dừng lại, nhằm đập tan hoàn toàn sự kháng cự của địch và giải tán chính quyền ngụy.
+*   **29/04/1975:** Vào lúc 10 giờ, Bộ Chính trị gửi điện cho Bộ Chỉ huy Chiến dịch Hồ Chí Minh chỉ thị tiếp tục tiến công vào Sài Gòn theo kế hoạch, không vì lệnh ngừng bắn của Dương Văn Minh mà dừng lại, nhằm đập tan hoàn toàn sự kháng cự của địch và giải tán chính quyền ngụy. [Nguồn: Điện khẩn số 129/TK ngày 29/04/1975 của Bộ Chính trị; Văn kiện Đảng Toàn tập, tập 36 (1975), NXB Chính trị quốc gia, Hà Nội, 2004; Đại tướng Văn Tiến Dũng, Đại thắng Mùa Xuân, 1976]
 
 <!-- id: EVT-2647 -->
-*   **29 - 30/04/1975:** **Chiến dịch di tản Gió Lốc (*Operation Frequent Wind*) và làn sóng di tản:** Trong những ngày cuối cùng trước khi Sài Gòn giải phóng, quân đội Mỹ đã tiến hành cuộc di tản bằng trực thăng quy mô lớn nhất lịch sử. Cùng với các chuyến bay trực thăng từ nóc Tòa Đại sứ Mỹ và sân bay Tân Sơn Nhất, hàng nghìn tàu thuyền chở sĩ quan, binh lính ngụy quân VNCH, viên chức ngụy quyền và gia đình của họ đã ồ ạt tháo chạy ra Biển Đông để hướng về các chiến hạm thuộc Hạm đội 7 của Mỹ. Hơn 130.000 người đã được di tản khỏi Việt Nam trong đợt này, mở đầu cho làn sóng di cư và định cư của người Việt tại Hoa Kỳ và các nước phương Tây.
+*   **29 - 30/04/1975:** **Chiến dịch di tản Gió Lốc (*Operation Frequent Wind*) và làn sóng di tản:** Trong những ngày cuối cùng trước khi Sài Gòn giải phóng, quân đội Mỹ đã tiến hành cuộc di tản bằng trực thăng quy mô lớn nhất lịch sử. Cùng với các chuyến bay trực thăng từ nóc Tòa Đại sứ Mỹ và sân bay Tân Sơn Nhất, hàng nghìn tàu thuyền chở sĩ quan, binh lính ngụy quân VNCH, viên chức ngụy quyền và gia đình của họ đã ồ ạt tháo chạy ra Biển Đông để hướng về các chiến hạm thuộc Hạm đội 7 của Mỹ. Hơn 130.000 người đã được di tản khỏi Việt Nam trong đợt này, mở đầu cho làn sóng di cư và định cư của người Việt tại Hoa Kỳ và các nước phương Tây. [Nguồn: U.S. Marine Corps History Division, The U.S. Marines in Vietnam: The Bitter End 1973-1975, Washington D.C., 1990; George C. Herring, America's Longest War, McGraw-Hill, 2001]
 
 <!-- id: EVT-2648 -->
 *   **30/04/1975:** Miền Nam hoàn toàn giải phóng, kết thúc cuộc kháng chiến chống Mỹ, cứu nước. Đất nước thống nhất về mặt lãnh thổ. [Nguồn: https://baochinhphu.vn/chien-thang-30-4-la-thanh-qua-vi-dai-nhat-cua-su-nghiep-giai-phong-dan-toc-102255307.htm]
@@ -8607,118 +8607,118 @@
     *   **13 giờ 30 phút:** Tại Đài Phát thanh Sài Gòn, Tổng thống Dương Văn Minh đọc bản tuyên bố đầu hàng không điều kiện của ngụy quyền Sài Gòn: *"Tôi, Đại tướng Dương Văn Minh, Tổng thống chính quyền Sài Gòn, kêu gọi Quân lực Việt Nam Cộng hòa hạ vũ khí đầu hàng không điều kiện Quân Giải phóng miền Nam Việt Nam..."*. Trung tá Bùi Tùng (Chính ủy Lữ đoàn xe tăng 203) thay mặt Quân Giải phóng đọc lời tiếp nhận đầu hàng, tuyên bố Sài Gòn - Gia Định hoàn toàn giải phóng.
 
 <!-- id: EVT-2649 -->
-*   **01/05/1975:** Toàn bộ các tỉnh còn lại ở miền Nam được giải phóng. Ban Bí thư gửi điện số 602 chỉ thị giải phóng Côn Đảo (Côn Lôn) và Phú Quốc. Quân Pôn Pốt (Campuchia Dân chủ) bắt đầu các cuộc tấn công, xâm phạm lãnh thổ Việt Nam từ Hà Tiên đến Tây Ninh.
+*   **01/05/1975:** Toàn bộ các tỉnh còn lại ở miền Nam được giải phóng. Ban Bí thư gửi điện số 602 chỉ thị giải phóng Côn Đảo (Côn Lôn) và Phú Quốc. Quân Pôn Pốt (Campuchia Dân chủ) bắt đầu các cuộc tấn công, xâm phạm lãnh thổ Việt Nam từ Hà Tiên đến Tây Ninh. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Kháng chiến chống Mỹ cứu nước (1954 - 1975), tập VIII, NXB Chính trị quốc gia, Hà Nội, 2008, tr. 450-465]
 
 <!-- id: EVT-2650 -->
-*   **02/05/1975:** Lực lượng cách mạng giải phóng hoàn toàn các địa bàn cuối cùng trên đất liền (tỉnh Châu Đốc) và các đảo xa (Côn Đảo, Phú Quốc), đánh dấu mốc non sông hoàn toàn sạch bóng quân thù và toàn bộ miền Nam được giải phóng trọn vẹn.
+*   **02/05/1975:** Lực lượng cách mạng giải phóng hoàn toàn các địa bàn cuối cùng trên đất liền (tỉnh Châu Đốc) và các đảo xa (Côn Đảo, Phú Quốc), đánh dấu mốc non sông hoàn toàn sạch bóng quân thù và toàn bộ miền Nam được giải phóng trọn vẹn. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Kháng chiến chống Mỹ cứu nước (1954 - 1975), tập VIII, NXB Chính trị quốc gia, Hà Nội, 2008; Ban Tuyên giáo Tỉnh ủy An Giang]
 
 <!-- id: EVT-2651 -->
-*   **03/05/1975:** Thành lập Ủy ban Quân quản thành phố Sài Gòn - Gia Định do Thượng tướng Trần Văn Trà làm chủ tịch.
+*   **03/05/1975:** Thành lập Ủy ban Quân quản thành phố Sài Gòn - Gia Định do Thượng tướng Trần Văn Trà làm chủ tịch. [Nguồn: Quyết định số 01/QĐ-UBQC ngày 03/05/1975 của Ủy ban Quân quản Thành phố Sài Gòn - Gia Định; Thượng tướng Trần Văn Trà, Mùa Xuân vạn thắng, NXB Quân đội nhân dân, Hà Nội, 1993]
 
 <!-- id: EVT-2652 -->
 
 ### **Thời kỳ Hậu chiến, Thống nhất và Tìm đường Đổi mới (05/1975 - 1985)**
 
-*   **04/05/1975:** Quân Pôn Pốt đổ bộ lên đảo Phú Quốc.
+*   **04/05/1975:** Quân Pôn Pốt đổ bộ lên đảo Phú Quốc. [Nguồn: Bộ Tư lệnh Quân khu 9, Lịch sử Lực lượng vũ trang Quân khu 9 (1945 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2653 -->
-*   **05-06/05/1975:** Hải quân Nhân dân Việt Nam giành lại quyền kiểm soát quần đảo Trường Sa từ ngụy quân Sài Gòn sau khi giải phóng miền Nam.
+*   **05-06/05/1975:** Hải quân Nhân dân Việt Nam giành lại quyền kiểm soát quần đảo Trường Sa từ ngụy quân Sài Gòn sau khi giải phóng miền Nam. [Nguồn: Quân chủng Hải quân, Lịch sử Hải quân nhân dân Việt Nam (1955 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005, tr. 250-265; TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, NXB Tri thức, 2013]
 
 <!-- id: EVT-2654 -->
-*   **10/05/1975:** Quân Pôn Pốt đổ bộ lên quần đảo Thổ Chu, bắt và thảm sát hơn 500 thường dân Việt Nam.
+*   **10/05/1975:** Quân Pôn Pốt đổ bộ lên quần đảo Thổ Chu, bắt và thảm sát hơn 500 thường dân Việt Nam. [Nguồn: Bộ Tư lệnh Quân khu 9, Lịch sử Lực lượng vũ trang Quân khu 9 (1945 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005; Tỉnh ủy Kiên Giang, Lịch sử Đảng bộ tỉnh Kiên Giang]
 
 <!-- id: EVT-2655 -->
-*   **15/05/1975:** Lễ mừng chiến thắng được tổ chức long trọng trên khắp cả nước. Tại Hà Nội, Bí thư thứ nhất Lê Duẩn đọc diễn văn chào mừng kỷ nguyên mới của nước Việt Nam hòa bình, độc lập, thống nhất và đi lên chủ nghĩa xã hội.
+*   **15/05/1975:** Lễ mừng chiến thắng được tổ chức long trọng trên khắp cả nước. Tại Hà Nội, Bí thư thứ nhất Lê Duẩn đọc diễn văn chào mừng kỷ nguyên mới của nước Việt Nam hòa bình, độc lập, thống nhất và đi lên chủ nghĩa xã hội. [Nguồn: Lê Duẩn, Dưới cờ vẻ vang của Đảng, vì độc lập, tự do, vì chủ nghĩa xã hội, tiến lên giành những thắng lợi mới (Diễn văn tại Lễ mừng chiến thắng ngày 15/05/1975), NXB Sự thật, Hà Nội, 1975]
 
 <!-- id: EVT-2656 -->
-*   **16/05/1975:** Bộ Tài chính Hoa Kỳ mở rộng lệnh cấm vận thương mại theo Đạo luật Giao dịch với Kẻ thù và phong tỏa toàn bộ tài sản của Việt Nam, áp dụng trên phạm vi toàn bộ lãnh thổ nước Việt Nam thống nhất sau khi chiến tranh kết thúc.
+*   **16/05/1975:** Bộ Tài chính Hoa Kỳ mở rộng lệnh cấm vận thương mại theo Đạo luật Giao dịch với Kẻ thù và phong tỏa toàn bộ tài sản của Việt Nam, áp dụng trên phạm vi toàn bộ lãnh thổ nước Việt Nam thống nhất sau khi chiến tranh kết thúc. [Nguồn: U.S. Department of the Treasury, Foreign Assets Control Regulations (31 CFR Part 500); Federal Register, May 16, 1975; George C. Herring, America's Longest War, McGraw-Hill, 2001]
 
 <!-- id: EVT-2657 -->
-*   **06/1975:** **Thiết lập hệ thống trại học tập cải tạo:** Ủy ban Quân quản Thành phố Sài Gòn - Gia Định và Chính phủ Cách mạng Lâm thời ban hành các thông cáo triệu tập toàn bộ sĩ quan, tướng lĩnh, binh lính ngụy quân và viên chức của ngụy quyền Việt Nam Cộng hòa ra trình diện và tập trung vào các trại học tập cải tạo trên toàn quốc. Chính sách này nhằm mục đích quản lý an ninh, cải tạo tư tưởng và chuyển hóa nhân sự của chế độ cũ sau chiến tranh, kéo dài từ vài tháng đến nhiều năm tùy theo cấp bậc và chức vụ, trước khi họ được hoàn lương hòa nhập xã hội hoặc xuất cảnh theo các chương trình nhân đạo sau này.
+*   **06/1975:** **Thiết lập hệ thống trại học tập cải tạo:** Ủy ban Quân quản Thành phố Sài Gòn - Gia Định và Chính phủ Cách mạng Lâm thời ban hành các thông cáo triệu tập toàn bộ sĩ quan, tướng lĩnh, binh lính ngụy quân và viên chức của ngụy quyền Việt Nam Cộng hòa ra trình diện và tập trung vào các trại học tập cải tạo trên toàn quốc. Chính sách này nhằm mục đích quản lý an ninh, cải tạo tư tưởng và chuyển hóa nhân sự của chế độ cũ sau chiến tranh, kéo dài từ vài tháng đến nhiều năm tùy theo cấp bậc và chức vụ, trước khi họ được hoàn lương hòa nhập xã hội hoặc xuất cảnh theo các chương trình nhân đạo sau này. [Nguồn: Thông cáo của Ủy ban Quân quản Thành phố Sài Gòn - Gia Định về việc đăng ký, học tập cải tạo sĩ quan, binh lính và viên chức chế độ cũ, tháng 06/1975; Báo Sài Gòn Giải Phóng]
 
 <!-- id: EVT-2658 -->
-*   **13/06/1975:** Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam ra quyết định chính thức trở lại múi giờ 7. Giờ Sài Gòn và toàn miền Nam được vặn chậm lại 1 giờ, thống nhất múi giờ với miền Bắc.
+*   **13/06/1975:** Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam ra quyết định chính thức trở lại múi giờ 7. Giờ Sài Gòn và toàn miền Nam được vặn chậm lại 1 giờ, thống nhất múi giờ với miền Bắc. [Nguồn: Quyết định ngày 13/06/1975 của Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam về việc thống nhất múi giờ toàn quốc; Báo Giải Phóng]
 
 <!-- id: EVT-2659 -->
-*   **11/08/1975:** Hoa Kỳ sử dụng quyền phủ quyết tại Hội đồng Bảo an Liên Hợp Quốc để ngăn cản việc kết nạp Việt Nam Dân chủ Cộng hòa và Cộng hòa miền Nam Việt Nam vào Liên Hợp Quốc.
+*   **11/08/1975:** Hoa Kỳ sử dụng quyền phủ quyết tại Hội đồng Bảo an Liên Hợp Quốc để ngăn cản việc kết nạp Việt Nam Dân chủ Cộng hòa và Cộng hòa miền Nam Việt Nam vào Liên Hợp Quốc. [Nguồn: Hội đồng Bảo an Liên Hợp Quốc, Biên bản phiên họp thứ 1836 (S/PV.1836), ngày 11/08/1975; Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, NXB Chính trị quốc gia, Hà Nội, 2002]
 
 <!-- id: EVT-2660 -->
-* **28/08/1975:** Liệt sĩ Kpă KLơng (Thượng úy, Tham mưu phó Tỉnh đội Gia Lai, dũng sĩ diệt Mỹ với tài bắn tỉa) anh dũng hy sinh trong khi làm nhiệm vụ truy quét tàn quân FULRO.
+* **28/08/1975:** Liệt sĩ Kpă KLơng (Thượng úy, Tham mưu phó Tỉnh đội Gia Lai, dũng sĩ diệt Mỹ với tài bắn tỉa) anh dũng hy sinh trong khi làm nhiệm vụ truy quét tàn quân FULRO. [Nguồn: Bộ Chỉ huy Quân sự tỉnh Gia Lai, Lịch sử Lực lượng vũ trang nhân dân tỉnh Gia Lai (1945 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005; Bảo tàng Lịch sử Quân sự Việt Nam]
 
 <!-- id: EVT-2661 -->
-*   **29/08/1975:** Lễ khánh thành Lăng Chủ tịch Hồ Chí Minh tại Hà Nội.
+*   **29/08/1975:** Lễ khánh thành Lăng Chủ tịch Hồ Chí Minh tại Hà Nội. [Nguồn: Ban Quản lý Lăng Chủ tịch Hồ Chí Minh, Lịch sử công trình Lăng Chủ tịch Hồ Chí Minh, NXB Quân đội nhân dân, Hà Nội, 2005; Báo Nhân Dân số ra ngày 30/08/1975]
 
 <!-- id: EVT-2662 -->
-*   **09/1975:** Hội nghị lần thứ 24 Ban Chấp hành Trung ương Đảng Lao động Việt Nam đề ra nhiệm vụ hoàn thành thống nhất đất nước về mặt Nhà nước.
+*   **09/1975:** Hội nghị lần thứ 24 Ban Chấp hành Trung ương Đảng Lao động Việt Nam đề ra nhiệm vụ hoàn thành thống nhất đất nước về mặt Nhà nước. [Nguồn: Nghị quyết Hội nghị lần thứ 24 Ban Chấp hành Trung ương Đảng (khóa III), tháng 09/1975; Văn kiện Đảng Toàn tập, tập 36 (1975), NXB Chính trị quốc gia, Hà Nội, 2004]
 
 <!-- id: EVT-2663 -->
-*   **04/09/1975:** Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam quyết định tiến hành đợt cải tạo tư sản mại bản lần thứ nhất.
+*   **04/09/1975:** Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam quyết định tiến hành đợt cải tạo tư sản mại bản lần thứ nhất. [Nguồn: Quyết định số 08/QĐ-75 ngày 04/09/1975 của Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam; Báo Sài Gòn Giải Phóng]
 
 <!-- id: EVT-2664 -->
-*   **10/09/1975:** Cộng hòa Nhân dân Trung Hoa gửi một công hàm cho nước Việt Nam Dân chủ Cộng hòa nhấn mạnh lập trường rằng hai quần đảo Hoàng Sa và Trường Sa luôn luôn là một bộ phận của lãnh thổ Trung Quốc.
+*   **10/09/1975:** Cộng hòa Nhân dân Trung Hoa gửi một công hàm cho nước Việt Nam Dân chủ Cộng hòa nhấn mạnh lập trường rằng hai quần đảo Hoàng Sa và Trường Sa luôn luôn là một bộ phận của lãnh thổ Trung Quốc. [Nguồn: Bộ Ngoại giao nước CHXHCN Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1979; TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, NXB Tri thức, 2013]
 
 <!-- id: EVT-2665 -->
-* **12/09/1975:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Đoàn Sinh Hưởng (Tư lệnh Binh chủng Tăng Thiết Giáp, Tư lệnh Quân khu 4).
+* **12/09/1975:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Đoàn Sinh Hưởng (Tư lệnh Binh chủng Tăng Thiết Giáp, Tư lệnh Quân khu 4). [Nguồn: Quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ngày 12/09/1975 của Chủ tịch nước Việt Nam Dân chủ Cộng hòa; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, NXB Quân đội nhân dân, Hà Nội, 1996]
 
 <!-- id: EVT-2666 -->
-*   **22/09/1975:** Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam tổ chức cuộc đổi tiền trên quy mô toàn miền Nam, phát hành "Tiền Ngân hàng Việt Nam" (còn gọi là tiền Giải phóng).
+*   **22/09/1975:** Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam tổ chức cuộc đổi tiền trên quy mô toàn miền Nam, phát hành "Tiền Ngân hàng Việt Nam" (còn gọi là tiền Giải phóng). [Nguồn: Thông cáo của Ủy ban Quân quản Thành phố Sài Gòn - Gia Định và Ngân hàng Quốc gia Việt Nam về đổi tiền, ngày 22/09/1975; Báo Sài Gòn Giải Phóng]
 
 <!-- id: EVT-2667 -->
-*   **24/09/1975:** Trong chuyến thăm của một phái đoàn Việt Nam đến Trung Quốc, Phó Thủ tướng Trung Quốc Đặng Tiểu Bình đã tuyên bố rằng vấn đề các quần đảo "tất nhiên sẽ được đưa ra thảo luận trong tương lai".
+*   **24/09/1975:** Trong chuyến thăm của một phái đoàn Việt Nam đến Trung Quốc, Phó Thủ tướng Trung Quốc Đặng Tiểu Bình đã tuyên bố rằng vấn đề các quần đảo "tất nhiên sẽ được đưa ra thảo luận trong tương lai". [Nguồn: Bộ Ngoại giao nước CHXHCN Việt Nam, Sự thật về quan hệ Việt Nam - Trung Quốc trong 30 năm qua, NXB Sự thật, Hà Nội, 1979; Báo Nhân Dân]
 
 <!-- id: EVT-2668 -->
-*   **10/1975:** Bà Nguyễn Thị Bình thăm Iraq với nhiệm vụ vận động vay dầu. Phó Chủ tịch Hội đồng Chỉ huy Cách mạng Saddam Hussein đã quyết định tặng Việt Nam 400.000 tấn dầu và cho vay thêm 1,5 triệu tấn. Cùng thời điểm, Thứ trưởng Ngoại giao miền Bắc Nguyễn Cơ Thạch cũng sang thăm, và Saddam Hussein đã quyết định cho miền Bắc vay 2 triệu tấn dầu không tính lãi.
+*   **10/1975:** Bà Nguyễn Thị Bình thăm Iraq với nhiệm vụ vận động vay dầu. Phó Chủ tịch Hội đồng Chỉ huy Cách mạng Saddam Hussein đã quyết định tặng Việt Nam 400.000 tấn dầu và cho vay thêm 1,5 triệu tấn. Cùng thời điểm, Thứ trưởng Ngoại giao miền Bắc Nguyễn Cơ Thạch cũng sang thăm, và Saddam Hussein đã quyết định cho miền Bắc vay 2 triệu tấn dầu không tính lãi. [Nguồn: Nguyễn Thị Binh, Gia đình, bạn bè và đất nước (Hồi ký), NXB Tri thức, Hà Nội, 2012; Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, NXB Chính trị quốc gia, Hà Nội, 2002]
 
 <!-- id: EVT-2669 -->
-*   **11/10/1975:** Tại Tokyo, Chính phủ Nhật Bản và Chính phủ Việt Nam Dân chủ Cộng hòa ký kết Hiệp định cung cấp khoản viện trợ không hoàn lại trị giá 8,5 tỷ Yên (khoảng 28 triệu USD) cho năm tài khóa 1975 nhằm phục hồi và phát triển kinh tế. Đây là công thức ngoại giao thỏa hiệp ("bồi thường trên thực tế"): do Tokyo từ chối ký thỏa thuận mang tên "bồi thường chiến tranh" vì đã từng bồi thường cho chính quyền Sài Gòn năm 1959, khoản viện trợ tái thiết không hoàn lại này được sử dụng như giải pháp đền bù thực chất cho những mất mát to lớn trong Thế chiến II và nạn đói năm 1945 tại miền Bắc.
+*   **11/10/1975:** Tại Tokyo, Chính phủ Nhật Bản và Chính phủ Việt Nam Dân chủ Cộng hòa ký kết Hiệp định cung cấp khoản viện trợ không hoàn lại trị giá 8,5 tỷ Yên (khoảng 28 triệu USD) cho năm tài khóa 1975 nhằm phục hồi và phát triển kinh tế. Đây là công thức ngoại giao thỏa hiệp ("bồi thường trên thực tế"): do Tokyo từ chối ký thỏa thuận mang tên "bồi thường chiến tranh" vì đã từng bồi thường cho chính quyền Sài Gòn năm 1959, khoản viện trợ tái thiết không hoàn lại này được sử dụng như giải pháp đền bù thực chất cho những mất mát to lớn trong Thế chiến II và nạn đói năm 1945 tại miền Bắc. [Nguồn: Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, NXB Chính trị quốc gia, Hà Nội, 2002; Bộ Ngoại giao Nhật Bản (MOFA), Diplomatic Bluebook 1976]
 
 <!-- id: EVT-2670 -->
-*   **05/11/1975:** Cựu Thị trưởng Hà Nội, Bác sĩ Trần Văn Lai qua đời, hưởng thọ 81 tuổi.
+*   **05/11/1975:** Cựu Thị trưởng Hà Nội, Bác sĩ Trần Văn Lai qua đời, hưởng thọ 81 tuổi. [Nguồn: Báo Hà Nội Mới; Hội Khoa học Lịch sử Việt Nam; Cổng thông tin điện tử UBND Thành phố Hà Nội]
 
 <!-- id: EVT-2671 -->
-*   **15-21/11/1975:** Hội nghị Hiệp thương Chính trị giữa hai miền Nam - Bắc được tổ chức tại Sài Gòn, bàn về việc thống nhất nước nhà về mặt Nhà nước.
+*   **15-21/11/1975:** Hội nghị Hiệp thương Chính trị giữa hai miền Nam - Bắc được tổ chức tại Sài Gòn, bàn về việc thống nhất nước nhà về mặt Nhà nước. [Nguồn: Thông cáo chung Hội nghị Hiệp thương Chính trị thống nhất Tổ quốc ngày 21/11/1975; Văn kiện Đảng Toàn tập, tập 36 (1975), NXB Chính trị quốc gia, Hà Nội, 2004; Báo Nhân Dân]
 
 <!-- id: EVT-2672 -->
-*   **22-27/12/1975:** Quốc hội khóa V (miền Bắc) họp kỳ thứ hai, phê chuẩn kết quả Hội nghị Hiệp thương và quyết định hợp nhất một số tỉnh.
+*   **22-27/12/1975:** Quốc hội khóa V (miền Bắc) họp kỳ thứ hai, phê chuẩn kết quả Hội nghị Hiệp thương và quyết định hợp nhất một số tỉnh. [Nguồn: Văn kiện Quốc hội Toàn tập, tập 4 (1971 - 1976), NXB Chính trị quốc gia, Hà Nội, 2008; Báo Nhân Dân]
 
 <!-- id: EVT-2673 -->
-*   **28/12/1975:** Giáo sư, Tiến sĩ Nông học, Anh hùng Lao động Lương Định Của (Viện trưởng Viện Cây lương thực và Cây thực phẩm, nhà nông học lỗi lạc đặt nền móng cho nền nông nghiệp hiện đại Việt Nam) qua đời tại Hà Nội.
+*   **28/12/1975:** Giáo sư, Tiến sĩ Nông học, Anh hùng Lao động Lương Định Của (Viện trưởng Viện Cây lương thực và Cây thực phẩm, nhà nông học lỗi lạc đặt nền móng cho nền nông nghiệp hiện đại Việt Nam) qua đời tại Hà Nội. [Nguồn: Viện Khoa học Nông nghiệp Việt Nam; Báo Nhân Dân số ra ngày 30/12/1975; Cổng thông tin điện tử Bộ Nông nghiệp và Phát triển nông thôn]
 
 <!-- id: EVT-2674 -->
-*   **1976:** Sau khi đất nước thống nhất, chính phủ Iraq đã cử các chuyên gia luật pháp và dầu khí giỏi nhất sang giúp đỡ Việt Nam trong việc thăm dò, khai thác dầu khí và chia sẻ kinh nghiệm đàm phán hợp đồng với các công ty nước ngoài.
+*   **1976:** Sau khi đất nước thống nhất, chính phủ Iraq đã cử các chuyên gia luật pháp và dầu khí giỏi nhất sang giúp đỡ Việt Nam trong việc thăm dò, khai thác dầu khí và chia sẻ kinh nghiệm đàm phán hợp đồng với các công ty nước ngoài. [Nguồn: Tập đoàn Dầu khí Quốc gia Việt Nam (Petrovietnam), Lịch sử Ngành Dầu khí Việt Nam, tập 1, NXB Chính trị quốc gia, Hà Nội, 2011; Báo Nhân Dân]
 
 <!-- id: EVT-2675 -->
-*   **1976:** Trong giai đoạn tái cấu trúc xã hội sau ngày thống nhất đất nước, với quan điểm sử học thời kỳ này phê phán nghiêm khắc các trí thức từng cộng tác với chính quyền thực dân Pháp, Ủy ban Quân quản Thành phố Sài Gòn - Gia Định quyết định đổi tên Trường Trung học Petrus Ký (thành lập từ năm 1928) thành Trường Trung học Phổ thông Chuyên Lê Hồng Phong, đồng thời di dời tượng đồng Trương Vĩnh Ký về lưu giữ tại Bảo tàng Mỹ thuật TP. Hồ Chí Minh.
+*   **1976:** Trong giai đoạn tái cấu trúc xã hội sau ngày thống nhất đất nước, với quan điểm sử học thời kỳ này phê phán nghiêm khắc các trí thức từng cộng tác với chính quyền thực dân Pháp, Ủy ban Quân quản Thành phố Sài Gòn - Gia Định quyết định đổi tên Trường Trung học Petrus Ký (thành lập từ năm 1928) thành Trường Trung học Phổ thông Chuyên Lê Hồng Phong, đồng thời di dời tượng đồng Trương Vĩnh Ký về lưu giữ tại Bảo tàng Mỹ thuật TP. Hồ Chí Minh. [Nguồn: Viện Sử học, Lịch sử Việt Nam, tập 14 (1975 - 1986), NXB Khoa học Xã hội, Hà Nội, 2017; Báo Nhân Dân]
 
 <!-- id: EVT-2676 -->
-*   **03/01/1976:** Bộ Chính trị ra Chỉ thị 228 về việc lãnh đạo cuộc Tổng tuyển cử bầu Quốc hội chung.
+*   **03/01/1976:** Bộ Chính trị ra Chỉ thị 228 về việc lãnh đạo cuộc Tổng tuyển cử bầu Quốc hội chung. [Nguồn: Chỉ thị số 228-CT/TW ngày 03/01/1976 của Ban Bí thư Trung ương Đảng; Văn kiện Đảng Toàn tập, tập 37 (1976), NXB Chính trị quốc gia, Hà Nội, 2004]
 
 <!-- id: EVT-2677 -->
-*   **04/01/1976:** Đại tướng Võ Nguyên Giáp bắt đầu chuyến thăm hữu nghị chính thức Algeria — chuyến công du nước ngoài đầu tiên sau đại thắng Mùa Xuân 1975 thống nhất đất nước. Phát biểu bằng tiếng Pháp trước hàng vạn đại biểu và người dân tại sân vận động thủ đô Algiers, nguyên là thầy giáo dạy sử, Đại tướng đã có nhận định ví von nổi tiếng: *"Chủ nghĩa đế quốc là một học trò tồi môn lịch sử"* (*L'impérialisme est un mauvais élève de l'histoire*), vì không thuộc bài học lịch sử nên không những bị "lưu ban" (*doubler*) mà còn phải "lưu ban lần nữa" (*tripler*) trước tinh thần chiến đấu kiên cường của nhân dân Việt Nam. Bài phát biểu đã truyền cảm hứng mạnh mẽ cho phong trào giải phóng dân tộc trên khắp thế giới.
+*   **04/01/1976:** Đại tướng Võ Nguyên Giáp bắt đầu chuyến thăm hữu nghị chính thức Algeria — chuyến công du nước ngoài đầu tiên sau đại thắng Mùa Xuân 1975 thống nhất đất nước. Phát biểu bằng tiếng Pháp trước hàng vạn đại biểu và người dân tại sân vận động thủ đô Algiers, nguyên là thầy giáo dạy sử, Đại tướng đã có nhận định ví von nổi tiếng: *"Chủ nghĩa đế quốc là một học trò tồi môn lịch sử"* (*L'impérialisme est un mauvais élève de l'histoire*), vì không thuộc bài học lịch sử nên không những bị "lưu ban" (*doubler*) mà còn phải "lưu ban lần nữa" (*tripler*) trước tinh thần chiến đấu kiên cường của nhân dân Việt Nam. Bài phát biểu đã truyền cảm hứng mạnh mẽ cho phong trào giải phóng dân tộc trên khắp thế giới. [Nguồn: Thông tấn xã Việt Nam (TTXVN), Bản tin ngày 06/01/1976; Tổng tập Hồi ký Đại tướng Võ Nguyên Giáp, NXB Quân đội nhân dân, Hà Nội, 2011; Báo Nhân Dân]
 
 <!-- id: EVT-2678 -->
-* **15/01/1976:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phạm Xuân Ẩn (Hai Trung, X6) (Thiếu tướng tình báo, nhà báo và phóng viên cho hãng tin Reuters, tạp chí Time).
+* **15/01/1976:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phạm Xuân Ẩn (Hai Trung, X6) (Thiếu tướng tình báo, nhà báo và phóng viên cho hãng tin Reuters, tạp chí Time). [Nguồn: Quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ngày 15/01/1976 của Chủ tịch nước; Larry Berman, Perfect Spy: The Incredible Double Life of Pham Xuan An, Smithsonian Books, 2007]
 
 <!-- id: EVT-2679 -->
-* **15/01/1976:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Thị Ba (Thiếu tá, giao liên tình báo cụm H63, phụ trách chuyển tài liệu của Phạm Xuân Ẩn).
+* **15/01/1976:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Thị Ba (Thiếu tá, giao liên tình báo cụm H63, phụ trách chuyển tài liệu của Phạm Xuân Ẩn). [Nguồn: Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, tập VII, NXB Quân đội nhân dân, Hà Nội, 1996; Tổng cục Tình báo Quốc phòng]
 
 <!-- id: EVT-2680 -->
-*   **21/01/1976:** Ủy ban Quân quản Sài Gòn - Gia Định chính thức bàn giao nhiệm vụ cho Ủy ban nhân dân thành phố.
+*   **21/01/1976:** Ủy ban Quân quản Sài Gòn - Gia Định chính thức bàn giao nhiệm vụ cho Ủy ban nhân dân thành phố. [Nguồn: Quyết định chuyển giao nhiệm vụ quản lý thành phố của Ủy ban Quân quản ngày 21/01/1976; Ban Chấp hành Đảng bộ TP.HCM, Lịch sử Đảng bộ Thành phố Hồ Chí Minh (1930 - 2015), NXB Chính trị quốc gia, Hà Nội, 2015]
 
 <!-- id: EVT-2681 -->
-* **24/01/1976:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Kiều Văn Niết (Đội trưởng Trung đội Thông tin, Trung đoàn Đất Thép huyện Củ Chi (sau này đổi thành Bộ đội Biên phòng phụ trách vùng Tây Ninh), sau là Đại úy Trợ lý Chính sách Cán bộ, Cục Chính trị, Bộ Tư lệnh Biên phòng miền Nam).
+* **24/01/1976:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Kiều Văn Niết (Đội trưởng Trung đội Thông tin, Trung đoàn Đất Thép huyện Củ Chi (sau này đổi thành Bộ đội Biên phòng phụ trách vùng Tây Ninh), sau là Đại úy Trợ lý Chính sách Cán bộ, Cục Chính trị, Bộ Tư lệnh Biên phòng miền Nam). [Nguồn: Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, NXB Quân đội nhân dân, Hà Nội, 1996; Bộ Tư lệnh Bộ đội Biên phòng]
 
 <!-- id: EVT-2682 -->
-*   **27/03/1976:** Tổ chức Thanh niên xung phong TP. Sài Gòn chính thức được thành lập.
+*   **27/03/1976:** Tổ chức Thanh niên xung phong TP. Sài Gòn chính thức được thành lập. [Nguồn: Lực lượng Thanh niên xung phong Thành phố Hồ Chí Minh, 40 năm Lực lượng Thanh niên xung phong TP.HCM (1976 - 2016), NXB Tổng hợp TP.HCM, 2016; Báo Sài Gòn Giải Phóng]
 
 <!-- id: EVT-2683 -->
-*   **05/04/1976:** Hội đồng Chính phủ ra Nghị quyết 61-CP về cuộc vận động tổ chức lại sản xuất, cải tiến quản lý nông nghiệp, lâm nghiệp theo hướng sản xuất lớn xã hội chủ nghĩa.
+*   **05/04/1976:** Hội đồng Chính phủ ra Nghị quyết 61-CP về cuộc vận động tổ chức lại sản xuất, cải tiến quản lý nông nghiệp, lâm nghiệp theo hướng sản xuất lớn xã hội chủ nghĩa. [Nguồn: Nghị quyết số 61-CP ngày 05/04/1976 của Hội đồng Chính phủ; Công báo nước Việt Nam Dân chủ Cộng hòa]
 
 <!-- id: EVT-2684 -->
-*   **25/04/1976:** Cuộc Tổng tuyển cử bầu Quốc hội chung của cả nước được tiến hành. Hơn 23 triệu cử tri (98,77%) đi bỏ phiếu, bầu ra 492 đại biểu.
+*   **25/04/1976:** Cuộc Tổng tuyển cử bầu Quốc hội chung của cả nước được tiến hành. Hơn 23 triệu cử tri (98,77%) đi bỏ phiếu, bầu ra 492 đại biểu. [Nguồn: Văn kiện Quốc hội Toàn tập, tập 5 (1976 - 1981), NXB Chính trị quốc gia, Hà Nội, 2008; Báo Nhân Dân]
 
 <!-- id: EVT-2685 -->
-*   **24/06 - 02/07/1976:** Kỳ họp thứ nhất Quốc hội khóa VI (Quốc hội thống nhất) diễn ra tại Hà Nội.
+*   **24/06 - 02/07/1976:** Kỳ họp thứ nhất Quốc hội khóa VI (Quốc hội thống nhất) diễn ra tại Hà Nội. [Nguồn: Nghị quyết của Quốc hội khóa VI tại Kỳ họp thứ nhất, ngày 02/07/1976; Văn kiện Quốc hội Toàn tập, tập 5 (1976 - 1981), NXB Chính trị quốc gia, Hà Nội, 2008]
     *   Quyết định lấy tên nước là **Cộng hòa xã hội chủ nghĩa Việt Nam**.
     *   Thủ đô là Hà Nội, Quốc kỳ là cờ đỏ sao vàng năm cánh (thống nhất lá cờ chung cho cả nước, hoàn thành vẻ vang sứ mệnh lịch sử 16 năm của lá cờ Giải phóng), Quốc ca là bài *Tiến quân ca*.
     *   Ngày 02/07, chính thức thông qua quyết nghị đặt tên thành phố Sài Gòn - Gia Định là **Thành phố Hồ Chí Minh**, hiện thực hóa hành trình gần 30 năm ấp ủ kể từ lần đề xuất năm 1946.
@@ -8729,266 +8729,266 @@
 *Nguồn: Hội trường Ba Đình, Hà Nội (Ảnh: Hector Garcia / CC BY-SA 2.0)*
 
 <!-- id: EVT-2686 -->
-*   **07/1976:** Tại kỳ họp thứ nhất Quốc hội khóa VI, Huỳnh Tấn Phát được bầu làm Phó Thủ tướng Chính phủ của nước Việt Nam thống nhất.
+*   **07/1976:** Tại kỳ họp thứ nhất Quốc hội khóa VI, Huỳnh Tấn Phát được bầu làm Phó Thủ tướng Chính phủ của nước Việt Nam thống nhất. [Nguồn: Nghị quyết bầu Chính phủ của Quốc hội khóa VI tại Kỳ họp thứ nhất, tháng 07/1976; Văn kiện Quốc hội Toàn tập, tập 5 (1976 - 1981), NXB Chính trị quốc gia, Hà Nội, 2008]
 
 <!-- id: EVT-2687 -->
-*   **03/07/1976:** Bà Nguyễn Thị Bình được bổ nhiệm làm Bộ trưởng Bộ Giáo dục của nước Cộng hòa Xã hội chủ nghĩa Việt Nam thống nhất. Bà giữ chức vụ này đến năm 1987, chỉ đạo công cuộc hợp nhất hệ thống giáo dục hai miền Nam - Bắc và tiến hành các cuộc cải cách giáo dục thời hậu chiến.
+*   **03/07/1976:** Bà Nguyễn Thị Bình được bổ nhiệm làm Bộ trưởng Bộ Giáo dục của nước Cộng hòa Xã hội chủ nghĩa Việt Nam thống nhất. Bà giữ chức vụ này đến năm 1987, chỉ đạo công cuộc hợp nhất hệ thống giáo dục hai miền Nam - Bắc và tiến hành các cuộc cải cách giáo dục thời hậu chiến. [Nguồn: Nghị quyết của Quốc hội phê chuẩn thành viên Hội đồng Chính phủ ngày 03/07/1976; Bộ Giáo dục và Đào tạo, Lịch sử Giáo dục Việt Nam (1945 - 2005), NXB Giáo dục, Hà Nội, 2005]
 
 <!-- id: EVT-2688 -->
-*   **14/09/1976:** Tại Tokyo, đại diện Chính phủ Nhật Bản và Chính phủ Cộng hòa Xã hội chủ nghĩa Việt Nam thống nhất ký tiếp thỏa thuận viện trợ không hoàn lại đợt hai trị giá 5 tỷ Yên (khoảng 17 triệu USD) để xây dựng nhà máy xi măng và cung cấp thiết bị công nghiệp. Khoản viện trợ này nâng tổng gói hỗ trợ tái thiết kinh tế sau chiến tranh lên 13,5 tỷ Yên (khoảng 45 triệu USD thời giá bấy giờ), qua đó hai bên chính thức khép lại các yêu sách bồi thường lịch sử từ thời Thế chiến II và thúc đẩy hợp tác phát triển song phương.
+*   **14/09/1976:** Tại Tokyo, đại diện Chính phủ Nhật Bản và Chính phủ Cộng hòa Xã hội chủ nghĩa Việt Nam thống nhất ký tiếp thỏa thuận viện trợ không hoàn lại đợt hai trị giá 5 tỷ Yên (khoảng 17 triệu USD) để xây dựng nhà máy xi măng và cung cấp thiết bị công nghiệp. Khoản viện trợ này nâng tổng gói hỗ trợ tái thiết kinh tế sau chiến tranh lên 13,5 tỷ Yên (khoảng 45 triệu USD thời giá bấy giờ), qua đó hai bên chính thức khép lại các yêu sách bồi thường lịch sử từ thời Thế chiến II và thúc đẩy hợp tác phát triển song phương. [Nguồn: Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, NXB Chính trị quốc gia, Hà Nội, 2002; Bộ Ngoại giao Nhật Bản (MOFA), Diplomatic Bluebook 1977]
 
 <!-- id: EVT-2689 -->
-*   **20/10/1976:** Nhà tình báo chiến lược Phạm Xuân Ẩn (Hai Trung) được Nhà nước tuyên dương danh hiệu Anh hùng Lực lượng vũ trang nhân dân.
+*   **20/10/1976:** Nhà tình báo chiến lược Phạm Xuân Ẩn (Hai Trung) được Nhà nước tuyên dương danh hiệu Anh hùng Lực lượng vũ trang nhân dân. [Nguồn: Quyết định tuyên dương danh hiệu Anh hùng Lực lượng vũ trang nhân dân ngày 20/10/1976 của Chủ tịch nước; Larry Berman, Perfect Spy, Smithsonian Books, 2007]
 
 <!-- id: EVT-2690 -->
-* **20/10/1976:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phạm Văn Trà (Đại tướng Quân đội Nhân dân Việt Nam, Bộ trưởng Quốc phòng).
+* **20/10/1976:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phạm Văn Trà (Đại tướng Quân đội Nhân dân Việt Nam, Bộ trưởng Quốc phòng). [Nguồn: Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, tập VII, NXB Quân đội nhân dân, Hà Nội, 1996; Đại tướng Phạm Văn Tra, Đời binh nghiệp (Hồi ký), NXB Quân đội nhân dân, 2011]
 
 <!-- id: EVT-2691 -->
-* **20/10/1976:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hoàng Văn Quyết (Nguyên xạ thủ A72, Đại đội 3, Tiểu đoàn 172, Trung đoàn tên lửa 64, Sư đoàn Phòng không 361, Quân chủng Phòng không - Không quân Việt Nam).
+* **20/10/1976:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hoàng Văn Quyết (Nguyên xạ thủ A72, Đại đội 3, Tiểu đoàn 172, Trung đoàn tên lửa 64, Sư đoàn Phòng không 361, Quân chủng Phòng không - Không quân Việt Nam). [Nguồn: Quân chủng Phòng không - Không quân, Lịch sử Bộ đội Tên lửa phòng không (1965 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2692 -->
-*   **15/11/1976:** Hoa Kỳ tiếp tục dùng quyền phủ quyết tại Hội đồng Bảo an Liên Hợp Quốc để bác bỏ đơn xin gia nhập Liên Hợp Quốc của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam.
+*   **15/11/1976:** Hoa Kỳ tiếp tục dùng quyền phủ quyết tại Hội đồng Bảo an Liên Hợp Quốc để bác bỏ đơn xin gia nhập Liên Hợp Quốc của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam. [Nguồn: Hội đồng Bảo an Liên Hợp Quốc, Biên bản phiên họp thứ 1972 (S/PV.1972), ngày 15/11/1976; Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, NXB Chính trị quốc gia, Hà Nội, 2002]
 
 <!-- id: EVT-2693 -->
-*   **12/1976:** Chính phủ tiến hành chiến dịch cải tạo công thương nghiệp tư bản tư doanh lần thứ hai ở miền Nam.
+*   **12/1976:** Chính phủ tiến hành chiến dịch cải tạo công thương nghiệp tư bản tư doanh lần thứ hai ở miền Nam. [Nguồn: Viện Sử học, Lịch sử Việt Nam, tập 14 (1975 - 1986), NXB Khoa học Xã hội, Hà Nội, 2017; Báo Nhân Dân]
 
 <!-- id: EVT-2694 -->
-*   **14 - 20/12/1976:** Đại hội đại biểu toàn quốc lần thứ IV của Đảng diễn ra tại Hà Nội, quyết định đổi tên Đảng thành Đảng Cộng sản Việt Nam và bầu đồng chí Lê Duẩn làm Tổng Bí thư. Đại hội tổng kết cuộc kháng chiến chống Mỹ cứu nước và vạch ra đường lối xây dựng CNXH trên phạm vi cả nước, trong đó ưu tiên phát triển công nghiệp nặng một cách hợp lý trên cơ sở phát triển nông nghiệp và công nghiệp nhẹ.
+*   **14 - 20/12/1976:** Đại hội đại biểu toàn quốc lần thứ IV của Đảng diễn ra tại Hà Nội, quyết định đổi tên Đảng thành Đảng Cộng sản Việt Nam và bầu đồng chí Lê Duẩn làm Tổng Bí thư. Đại hội tổng kết cuộc kháng chiến chống Mỹ cứu nước và vạch ra đường lối xây dựng CNXH trên phạm vi cả nước, trong đó ưu tiên phát triển công nghiệp nặng một cách hợp lý trên cơ sở phát triển nông nghiệp và công nghiệp nhẹ. [Nguồn: Báo cáo chính trị tại Đại hội đại biểu toàn quốc lần thứ IV của Đảng; Văn kiện Đảng Toàn tập, tập 37 (1976), NXB Chính trị quốc gia, Hà Nội, 2004; Báo Nhân Dân]
     *   Đổi tên Đảng Lao động Việt Nam thành **Đảng Cộng sản Việt Nam**.
     *   Đề ra đường lối xây dựng chủ nghĩa xã hội trong cả nước và thông qua Kế hoạch 5 năm lần thứ hai (1976-1980).
 
 <!-- id: EVT-2695 -->
-*   **1977:** Georges Boudarel xuất bản cuốn "Giáp", một công trình nghiên cứu lịch sử giá trị viết về Đại tướng Võ Nguyên Giáp.
+*   **1977:** Georges Boudarel xuất bản cuốn "Giáp", một công trình nghiên cứu lịch sử giá trị viết về Đại tướng Võ Nguyên Giáp. [Nguồn: Georges Boudarel, Giap, Éditions Atlas, Paris, 1977; Thư viện Quốc gia Việt Nam]
 
 <!-- id: EVT-2696 -->
-*   **1977:** Phó Thủ tướng Huỳnh Tấn Phát kiêm nhiệm chức vụ Trưởng Ban chỉ đạo Quy hoạch đô thị.
+*   **1977:** Phó Thủ tướng Huỳnh Tấn Phát kiêm nhiệm chức vụ Trưởng Ban chỉ đạo Quy hoạch đô thị. [Nguồn: Văn phòng Chính phủ, Lịch sử Chính phủ Việt Nam, tập 3 (1976 - 2005), NXB Chính trị quốc gia, Hà Nội, 2005; Báo Nhân Dân]
 
 <!-- id: EVT-2697 -->
-* **1977:** Anh hùng Lực lượng vũ trang nhân dân Huỳnh Văn Nghệ (Nhà hoạt động cách mạng và là một chỉ huy quân sự, đồng thời là một thi sĩ nổi tiếng) từ trần.
+* **1977:** Anh hùng Lực lượng vũ trang nhân dân Huỳnh Văn Nghệ (Nhà hoạt động cách mạng và là một chỉ huy quân sự, đồng thời là một thi sĩ nổi tiếng) từ trần. [Nguồn: Tỉnh ủy Bình Dương, Huỳnh Văn Nghệ - Cuộc đời và sự nghiệp, NXB Đồng Nai, 2001; Hội Nhà văn Việt Nam]
 
 <!-- id: EVT-2698 -->
-*   **04/1977:** Tại Hội nghị khoa học về biển lần thứ nhất tổ chức tại Nha Trang, Phó Thủ tướng Chính phủ Võ Nguyên Giáp lần đầu tiên đề xuất luận điểm chiến lược toàn diện về kinh tế biển: Việt Nam phải vươn ra biển làm giàu từ biển, kết hợp chặt chẽ phát triển kinh tế biển với củng cố quốc phòng - an ninh để bảo vệ vững chắc chủ quyền biển đảo thiêng liêng của Tổ quốc.
+*   **04/1977:** Tại Hội nghị khoa học về biển lần thứ nhất tổ chức tại Nha Trang, Phó Thủ tướng Chính phủ Võ Nguyên Giáp lần đầu tiên đề xuất luận điểm chiến lược toàn diện về kinh tế biển: Việt Nam phải vươn ra biển làm giàu từ biển, kết hợp chặt chẽ phát triển kinh tế biển với củng cố quốc phòng - an ninh để bảo vệ vững chắc chủ quyền biển đảo thiêng liêng của Tổ quốc. [Nguồn: Kỷ yếu Hội nghị khoa học về biển lần thứ nhất (Nha Trang, 04/1977); Tổng tập Hồi ký Đại tướng Võ Nguyên Giáp, NXB Quân đội nhân dân, Hà Nội, 2011; Báo Nhân Dân]
 
 <!-- id: EVT-2699 -->
-*   **12/04/1977:** Ông Nguyễn Tuất làm "Tờ nhận tự khai" để xin sao y bản chính Bằng Tổ quốc ghi công của con trai do bản gốc năm 1958 bị hư hại trong chiến tranh. Giấy tờ này được chính quyền địa phương tại Nha Trang xác nhận, chính thức minh chứng nhân thân và sự hy sinh của nguyên mẫu "chú bé Lượm".
+*   **12/04/1977:** Ông Nguyễn Tuất làm "Tờ nhận tự khai" để xin sao y bản chính Bằng Tổ quốc ghi công của con trai do bản gốc năm 1958 bị hư hại trong chiến tranh. Giấy tờ này được chính quyền địa phương tại Nha Trang xác nhận, chính thức minh chứng nhân thân và sự hy sinh của nguyên mẫu "chú bé Lượm". [Nguồn: Hồ sơ Liệt sĩ Nguyễn Văn Lượm tại Sở Lao động - Thương binh và Xã hội tỉnh Ninh Thuận; Bảo tàng Lịch sử Quân sự Việt Nam]
 
 <!-- id: EVT-2700 -->
-*   **30/04/1977:** Quân chính quy Khmer Đỏ bất ngờ tiến sâu 10 km vào lãnh thổ Việt Nam tại tỉnh An Giang, đánh vào các đồn biên phòng và xã, thảm sát nhiều thường dân.
+*   **30/04/1977:** Quân chính quy Khmer Đỏ bất ngờ tiến sâu 10 km vào lãnh thổ Việt Nam tại tỉnh An Giang, đánh vào các đồn biên phòng và xã, thảm sát nhiều thường dân. [Nguồn: Bộ Tư lệnh Quân khu 9, Lịch sử Lực lượng vũ trang Quân khu 9 (1945 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005, tr. 380-395; Báo Nhân Dân]
 
 <!-- id: EVT-2701 -->
-*   **12/05/1977:** Chính phủ nước Cộng hòa Xã hội Chủ nghĩa Việt Nam ra tuyên bố về các vùng biển của mình, khẳng định các đảo và quần đảo là bộ phận lãnh thổ của Việt Nam và có vùng biển riêng.
+*   **12/05/1977:** Chính phủ nước Cộng hòa Xã hội Chủ nghĩa Việt Nam ra tuyên bố về các vùng biển của mình, khẳng định các đảo và quần đảo là bộ phận lãnh thổ của Việt Nam và có vùng biển riêng. [Nguồn: Tuyên bố của Chính phủ nước CHXHCN Việt Nam về lãnh hải, vùng tiếp giáp, vùng đặc quyền kinh tế và thềm lục địa ngày 12/05/1977; Công báo nước CHXHCN Việt Nam]
 
 <!-- id: EVT-2702 -->
-*   **21/06/1977:** Để thoát khỏi các cuộc thanh trừng của Khmer Đỏ, ông Hun Sen (khi đó là chỉ huy trung đoàn) cùng đồng đội vượt biên giới sang xã Lộc Tấn, huyện Lộc Ninh, tỉnh Bình Phước, Việt Nam để tìm kiếm sự giúp đỡ nhằm lật đổ chế độ diệt chủng. Đoàn đã được nhân dân và quân đội Việt Nam tiếp đón, cưu mang một cách nhân đạo.
+*   **21/06/1977:** Để thoát khỏi các cuộc thanh trừng của Khmer Đỏ, ông Hun Sen (khi đó là chỉ huy trung đoàn) cùng đồng đội vượt biên giới sang xã Lộc Tấn, huyện Lộc Ninh, tỉnh Bình Phước, Việt Nam để tìm kiếm sự giúp đỡ nhằm lật đổ chế độ diệt chủng. Đoàn đã được nhân dân và quân đội Việt Nam tiếp đón, cưu mang một cách nhân đạo. [Nguồn: Harish C. Mehta and Julie B. Mehta, Hun Sen: Strongman of Cambodia, Graham Brash, Singapore, 1999; Báo Nhân Dân]
 
 <!-- id: EVT-2703 -->
-*   **20/07/1977:** Hội đồng Bảo an Liên Hợp Quốc thông qua Nghị quyết 413 khuyến nghị Đại hội đồng kết nạp Việt Nam vào Liên Hợp Quốc sau khi Hoa Kỳ quyết định từ bỏ quyền phủ quyết.
+*   **20/07/1977:** Hội đồng Bảo an Liên Hợp Quốc thông qua Nghị quyết 413 khuyến nghị Đại hội đồng kết nạp Việt Nam vào Liên Hợp Quốc sau khi Hoa Kỳ quyết định từ bỏ quyền phủ quyết. [Nguồn: Hội đồng Bảo an Liên Hợp Quốc, Nghị quyết số 413 (1977) ngày 20/07/1977; Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, NXB Chính trị quốc gia, Hà Nội, 2002]
 
 <!-- id: EVT-2704 -->
-*   **20/09/1977:** Đại hội đồng Liên Hợp Quốc khóa 32 nhất trí thông qua Nghị quyết 32/2, chính thức kết nạp nước Cộng hòa Xã hội Chủ nghĩa Việt Nam làm thành viên thứ 149 của Liên Hợp Quốc. Lễ thượng cờ Việt Nam diễn ra trang trọng tại trụ sở Liên Hợp Quốc ở New York.
+*   **20/09/1977:** Đại hội đồng Liên Hợp Quốc khóa 32 nhất trí thông qua Nghị quyết 32/2, chính thức kết nạp nước Cộng hòa Xã hội Chủ nghĩa Việt Nam làm thành viên thứ 149 của Liên Hợp Quốc. Lễ thượng cờ Việt Nam diễn ra trang trọng tại trụ sở Liên Hợp Quốc ở New York. [Nguồn: Đại hội đồng Liên Hợp Quốc, Nghị quyết số 32/2 ngày 20/09/1977; Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, NXB Chính trị quốc gia, Hà Nội, 2002; Báo Nhân Dân]
 
 <!-- id: EVT-2705 -->
-*   **24 - 25/09/1977:** 9 sư đoàn chủ lực Khmer Đỏ ồ ạt mở cuộc tiến công xâm lấn biên giới Tây Nam vào các tỉnh Tây Ninh, An Giang, Kiên Giang, Long An và Đồng Tháp. Trong đêm 24 rạng sáng 25/09, quân Pol Pot tràn vào xã Tân Lập (huyện Tân Biên, Tây Ninh) gây ra vụ thảm sát man rợ, sát hại 592 thường dân vô tội (bao gồm toàn bộ thầy cô giáo tại Trường Tiểu học Tân Thành và nhiều gia đình), đốt phá hàng trăm nóc nhà và trường học.
+*   **24 - 25/09/1977:** 9 sư đoàn chủ lực Khmer Đỏ ồ ạt mở cuộc tiến công xâm lấn biên giới Tây Nam vào các tỉnh Tây Ninh, An Giang, Kiên Giang, Long An và Đồng Tháp. Trong đêm 24 rạng sáng 25/09, quân Pol Pot tràn vào xã Tân Lập (huyện Tân Biên, Tây Ninh) gây ra vụ thảm sát man rợ, sát hại 592 thường dân vô tội (bao gồm toàn bộ thầy cô giáo tại Trường Tiểu học Tân Thành và nhiều gia đình), đốt phá hàng trăm nóc nhà và trường học. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Lực lượng vũ trang Quân khu 7 (1945 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005, tr. 410-425; Báo Nhân Dân]
 
 <!-- id: EVT-2706 -->
-*   **31/12/1977 - 05/01/1978:** Quân đội Nhân dân Việt Nam mở đợt phản công sâu 20-30 km vào đất Campuchia đến tận Neak Luong như một lời cảnh cáo đối với Khmer Đỏ. Cùng ngày 31/12/1977, Pol Pot đơn phương cắt đứt quan hệ ngoại giao với Việt Nam.
+*   **31/12/1977 - 05/01/1978:** Quân đội Nhân dân Việt Nam mở đợt phản công sâu 20-30 km vào đất Campuchia đến tận Neak Luong như một lời cảnh cáo đối với Khmer Đỏ. Cùng ngày 31/12/1977, Pol Pot đơn phương cắt đứt quan hệ ngoại giao với Việt Nam. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử cuộc kháng chiến bảo vệ biên giới Tây Nam và phía Bắc, NXB Quân đội nhân dân, Hà Nội, 2001; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2707 -->
-* **1978:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Thanh Sơn (Thiếu tá - tham mưu trưởng trung đoàn e163) từ trần.
+* **1978:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Thanh Sơn (Thiếu tá - tham mưu trưởng trung đoàn e163) từ trần. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, tập VII, NXB Quân đội nhân dân, Hà Nội, 1996; Bảo tàng Lịch sử Quân sự Việt Nam]
 
 <!-- id: EVT-2708 -->
-* **1978:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Xuân Hòe (Điệp viên lưới tình báo A22, Ủy viên đặc biệt Phủ tổng thống) từ trần.
+* **1978:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Xuân Hòe (Điệp viên lưới tình báo A22, Ủy viên đặc biệt Phủ tổng thống) từ trần. [Nguồn: Tổng cục Tình báo Quốc phòng, Lịch sử Tình báo Quốc phòng Việt Nam (1945 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2709 -->
-*   **05/01/1978:** Campuchia Dân chủ (chính quyền Pol Pot) rút Đại sứ quán tại Hà Nội về nước, chính thức tuyên bố cắt đứt quan hệ ngoại giao với Việt Nam.
+*   **05/01/1978:** Campuchia Dân chủ (chính quyền Pol Pot) rút Đại sứ quán tại Hà Nội về nước, chính thức tuyên bố cắt đứt quan hệ ngoại giao với Việt Nam. [Nguồn: Tuyên bố của Bộ Ngoại giao nước CHXHCN Việt Nam ngày 06/01/1978; Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, NXB Chính trị quốc gia, Hà Nội, 2002; Báo Nhân Dân]
 
 <!-- id: EVT-2710 -->
-* **06/01/1978:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Thị Rành (Chiến sĩ du kích Địa đạo Củ Chi, danh hiệu Bà mẹ Việt Nam anh hùng (truy tặng năm 1994), có 1 người chồng, 8 người con và 2 người cháu hy sinh trong 2 cuộc kháng chiến chống Pháp và Mỹ - nguỵ).
+* **06/01/1978:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Thị Rành (Chiến sĩ du kích Địa đạo Củ Chi, danh hiệu Bà mẹ Việt Nam anh hùng (truy tặng năm 1994), có 1 người chồng, 8 người con và 2 người cháu hy sinh trong 2 cuộc kháng chiến chống Pháp và Mỹ - nguỵ). [Nguồn: Quyết định truy tặng và phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ngày 06/01/1978 của Chủ tịch nước; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2711 -->
-*   **28/02/1978:** Cả nước được công nhận về cơ bản đã xóa xong nạn mù chữ.
+*   **28/02/1978:** Cả nước được công nhận về cơ bản đã xóa xong nạn mù chữ. [Nguồn: Báo cáo Tổng kết công tác thanh toán nạn mù chữ của Bộ Giáo dục ngày 28/02/1978; Báo Nhân Dân; UNESCO Paris Archive]
 
 <!-- id: EVT-2712 -->
-*   **02/03/1978:** Lực lượng vũ trang Philippin chiếm đóng đảo Lan Can (Panata) ở quần đảo Trường Sa.
+*   **02/03/1978:** Lực lượng vũ trang Philippin chiếm đóng đảo Lan Can (Panata) ở quần đảo Trường Sa. [Nguồn: Bộ Ngoại giao nước CHXHCN Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1979; TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, NXB Tri thức, 2013]
 
 <!-- id: EVT-2713 -->
-*   **23/03/1978:** Bắt đầu chiến dịch cải tạo tư sản thương nghiệp quy mô lớn tại các tỉnh, thành phố phía Nam, khởi đầu bằng việc đình chỉ hoạt động buôn bán của tư sản thương nghiệp tại TP. Hồ Chí Minh.
+*   **23/03/1978:** Bắt đầu chiến dịch cải tạo tư sản thương nghiệp quy mô lớn tại các tỉnh, thành phố phía Nam, khởi đầu bằng việc đình chỉ hoạt động buôn bán của tư sản thương nghiệp tại TP. Hồ Chí Minh. [Nguồn: Quyết định số 100-CP ngày 23/03/1978 của Hội đồng Chính phủ; Báo Sài Gòn Giải Phóng; Viện Sử học, Lịch sử Việt Nam, tập 14 (1975 - 1986), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-2714 -->
-*   **04/1978:** Việt Nam chính thức đồng ý hỗ trợ ông Hun Sen xây dựng lực lượng vũ trang cách mạng Campuchia. Từ tháng 5 đến tháng 11/1978, Việt Nam đã giúp xây dựng và huấn luyện 15 tiểu đoàn quân Campuchia.
+*   **04/1978:** Việt Nam chính thức đồng ý hỗ trợ ông Hun Sen xây dựng lực lượng vũ trang cách mạng Campuchia. Từ tháng 5 đến tháng 11/1978, Việt Nam đã giúp xây dựng và huấn luyện 15 tiểu đoàn quân Campuchia. [Nguồn: Harish C. Mehta and Julie B. Mehta, Hun Sen: Strongman of Cambodia, Graham Brash, Singapore, 1999; Viện Lịch sử Quân sự Việt Nam, Lịch sử cuộc kháng chiến bảo vệ biên giới Tây Nam, 2001]
 
 <!-- id: EVT-2715 -->
-*   **18 - 30/04/1978:** Quân Khmer Đỏ tràn vào xã Ba Chúc (An Giang), gây ra vụ thảm sát 3.157 thường dân; chỉ có một số ít người sống sót.
+*   **18 - 30/04/1978:** Quân Khmer Đỏ tràn vào xã Ba Chúc (An Giang), gây ra vụ thảm sát 3.157 thường dân; chỉ có một số ít người sống sót. [Nguồn: Hồ sơ chứng tích tội ác Khmer Đỏ tại Nhà mồ Ba Chúc (Tri Tôn, An Giang); Báo Nhân Dân; Ben Kiernan, The Pol Pot Regime, Yale University Press, 2002]
 
 <!-- id: EVT-2716 -->
-*   **03/05/1978:** Nhà nước tiến hành cuộc đổi tiền trên cả nước, thống nhất tiền tệ. Một đồng tiền mới của Ngân hàng Nhà nước Việt Nam được phát hành, thay thế cho hai loại tiền cũ ở hai miền.
+*   **03/05/1978:** Nhà nước tiến hành cuộc đổi tiền trên cả nước, thống nhất tiền tệ. Một đồng tiền mới của Ngân hàng Nhà nước Việt Nam được phát hành, thay thế cho hai loại tiền cũ ở hai miền. [Nguồn: Nghị định của Hội đồng Chính phủ về phát hành tiền mới và thu hồi tiền cũ ngày 03/05/1978; Ngân hàng Nhà nước Việt Nam, Lịch sử Ngân hàng Việt Nam (1951 - 2011), NXB Tri thức, Hà Nội, 2011]
 
 <!-- id: EVT-2717 -->
-*   **29/06/1978:** Việt Nam được kết nạp làm thành viên chính thức của Hội đồng Tương trợ Kinh tế (khối SEV).
+*   **29/06/1978:** Việt Nam được kết nạp làm thành viên chính thức của Hội đồng Tương trợ Kinh tế (khối SEV). [Nguồn: Nghị quyết của Kỳ họp thứ 32 Hội đồng Tương trợ Kinh tế (SEV) tại Matxcơva ngày 29/06/1978; Báo Nhân Dân; Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, 2002]
 
 <!-- id: EVT-2718 -->
-*   **08/1978:** Nguyên Bộ trưởng Tư pháp Chính phủ Cách mạng Lâm thời **Trương Như Tảng** rời Việt Nam bằng thuyền do bất đồng quan điểm.
+*   **08/1978:** Nguyên Bộ trưởng Tư pháp Chính phủ Cách mạng Lâm thời **Trương Như Tảng** rời Việt Nam bằng thuyền do bất đồng quan điểm. [Nguồn: Truong Nhu Tang, A Vietcong Memoir: An Inside Account of the Vietnam War and Its Aftermath, Harcourt Brace Jovanovich, 1985]
 
 <!-- id: EVT-2719 -->
-*   **25/08/1978:** Lê Đình Chinh, người chiến sĩ 18 tuổi, đã bị sát hại bởi những kẻ côn đồ và lính Trung Quốc mặc thường phục, trở thành người lính đầu tiên ngã xuống trên mặt trận bảo vệ biên giới phía Bắc.
+*   **25/08/1978:** Lê Đình Chinh, người chiến sĩ 18 tuổi, đã bị sát hại bởi những kẻ côn đồ và lính Trung Quốc mặc thường phục, trở thành người lính đầu tiên ngã xuống trên mặt trận bảo vệ biên giới phía Bắc. [Nguồn: Báo Nhân Dân số ra ngày 27/08/1978; Bộ Tư lệnh Bộ đội Biên phòng, Lịch sử Bộ đội Biên phòng Việt Nam (1959 - 2009), NXB Quân đội nhân dân, Hà Nội, 2009; Bảo tàng Lịch sử Quân sự Việt Nam]
 
 <!-- id: EVT-2720 -->
-*   **03/11/1978:** Việt Nam và Liên Xô ký kết Hiệp ước hữu nghị và hợp tác tại Matxcơva.
+*   **03/11/1978:** Việt Nam và Liên Xô ký kết Hiệp ước hữu nghị và hợp tác tại Matxcơva. [Nguồn: Hiệp ước hữu nghị và hợp tác giữa CHXHCN Việt Nam và Liên bang CHXHCN Xô Viết, ký ngày 03/11/1978; Báo Nhân Dân; Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, 2002]
 
 <!-- id: EVT-2721 -->
-*   **06/11/1978:** Nhà nước Việt Nam quyết định phong tặng và truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho 22 tập thể và cá nhân có thành tích đặc biệt xuất sắc trong cuộc kháng chiến chống Mỹ cứu nước; gồm phong tặng cho 14 đồng chí: nhà tình báo chiến lược Đặng Trần Đức (Ba Quốc - cán bộ tình báo quân sự kiệt xuất thâm nhập sâu vào Phủ Đặc ủy Trung ương Tình báo Việt Nam Cộng hòa), Thiếu tá tình báo Nguyễn Văn Thương (Hai Thương - giao liên tình báo kiên trung chịu đựng 6 lần bị địch cưa chân mà vẫn giữ trọn khí tiết), Tôn Minh Lai (giao liên tình báo nội thành Sài Gòn), Lê Thị Nhiễm (chiến sĩ giao liên tình báo thuộc Đoàn 22, Cục Tham mưu Miền), Hồ Thị Bời (Tổ trưởng giao liên tình báo Đoàn 22), Đại tá Lê Văn Vĩnh (Cụm trưởng Tình báo H67 thuộc Phòng Tình báo B2), Lê Văn Đạm (Chính trị viên Xã đội An Nhơn Tây, Củ Chi, ngọn cờ đầu phong trào đào hầm địa đạo Củ Chi), Tống Viết Dương (Đại tá đặc công), Phan Trung Kiên (chỉ huy biệt động và du kích Củ Chi; sau là Thượng tướng, Thứ trưởng Bộ Quốc phòng), Trần Văn Xuân (xạ thủ tên lửa phòng không vác vai A72 thuộc Tiểu đoàn 172, Trung đoàn 64, Sư đoàn 361; sau là Thượng tá, Kỹ sư Thủy lợi), Thiếu tướng Quân y Lê Thế Trung (Giám đốc Học viện Quân y, người sáng lập ngành Bỏng Việt Nam), Nguyễn Văn A (Thiếu úy Công an nhân dân, chỉ huy đánh chiếm Tiểu khu Gia Định tháng 4 năm 1975), Bùi Quang Hảo (Chính trị viên lãnh đạo phong trào đấu tranh quần chúng tại Củ Chi, Hóc Môn, Trảng Bàng), và Phạm Văn Trọng (Thượng úy, Bác sĩ Quân y Viện 2 thuộc Bộ Tư lệnh TP.HCM); đồng thời truy tặng 8 liệt sĩ kiên trung: Võ Văn Điều ("Anh hùng Ấp Bắc", Tiểu đoàn trưởng Tiểu đoàn 261; Trung đoàn trưởng Trung đoàn 31 chỉ huy đánh Trung tâm Bưu chính Phú Lâm Tết Mậu Thân 1968), Trần Văn Đang (chiến sĩ Biệt động Sài Gòn bị giặc xử bắn công khai năm 1965), Điểu Cải (Xã đội trưởng Đội du kích Đồng Nai, người dân tộc Chơ Ro), Ngô Văn Cấn (Tiểu đoàn trưởng Tiểu đoàn 9 bộ binh), Thiếu tá Nguyễn Thanh Sơn (Tham mưu trưởng Trung đoàn 163), Bùi Anh Tuấn (chiến sĩ quê Vĩnh Phúc), Lê Văn Thế (Huyện đội trưởng huyện Củ Chi, tỉnh Gia Định), và Huỳnh Minh Mương (Trung đội trưởng bảo vệ Khu ủy Sài Gòn - Gia Định).
+*   **06/11/1978:** Nhà nước Việt Nam quyết định phong tặng và truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho 22 tập thể và cá nhân có thành tích đặc biệt xuất sắc trong cuộc kháng chiến chống Mỹ cứu nước; gồm phong tặng cho 14 đồng chí: nhà tình báo chiến lược Đặng Trần Đức (Ba Quốc - cán bộ tình báo quân sự kiệt xuất thâm nhập sâu vào Phủ Đặc ủy Trung ương Tình báo Việt Nam Cộng hòa), Thiếu tá tình báo Nguyễn Văn Thương (Hai Thương - giao liên tình báo kiên trung chịu đựng 6 lần bị địch cưa chân mà vẫn giữ trọn khí tiết), Tôn Minh Lai (giao liên tình báo nội thành Sài Gòn), Lê Thị Nhiễm (chiến sĩ giao liên tình báo thuộc Đoàn 22, Cục Tham mưu Miền), Hồ Thị Bời (Tổ trưởng giao liên tình báo Đoàn 22), Đại tá Lê Văn Vĩnh (Cụm trưởng Tình báo H67 thuộc Phòng Tình báo B2), Lê Văn Đạm (Chính trị viên Xã đội An Nhơn Tây, Củ Chi, ngọn cờ đầu phong trào đào hầm địa đạo Củ Chi), Tống Viết Dương (Đại tá đặc công), Phan Trung Kiên (chỉ huy biệt động và du kích Củ Chi; sau là Thượng tướng, Thứ trưởng Bộ Quốc phòng), Trần Văn Xuân (xạ thủ tên lửa phòng không vác vai A72 thuộc Tiểu đoàn 172, Trung đoàn 64, Sư đoàn 361; sau là Thượng tá, Kỹ sư Thủy lợi), Thiếu tướng Quân y Lê Thế Trung (Giám đốc Học viện Quân y, người sáng lập ngành Bỏng Việt Nam), Nguyễn Văn A (Thiếu úy Công an nhân dân, chỉ huy đánh chiếm Tiểu khu Gia Định tháng 4 năm 1975), Bùi Quang Hảo (Chính trị viên lãnh đạo phong trào đấu tranh quần chúng tại Củ Chi, Hóc Môn, Trảng Bàng), và Phạm Văn Trọng (Thượng úy, Bác sĩ Quân y Viện 2 thuộc Bộ Tư lệnh TP.HCM); đồng thời truy tặng 8 liệt sĩ kiên trung: Võ Văn Điều ("Anh hùng Ấp Bắc", Tiểu đoàn trưởng Tiểu đoàn 261; Trung đoàn trưởng Trung đoàn 31 chỉ huy đánh Trung tâm Bưu chính Phú Lâm Tết Mậu Thân 1968), Trần Văn Đang (chiến sĩ Biệt động Sài Gòn bị giặc xử bắn công khai năm 1965), Điểu Cải (Xã đội trưởng Đội du kích Đồng Nai, người dân tộc Chơ Ro), Ngô Văn Cấn (Tiểu đoàn trưởng Tiểu đoàn 9 bộ binh), Thiếu tá Nguyễn Thanh Sơn (Tham mưu trưởng Trung đoàn 163), Bùi Anh Tuấn (chiến sĩ quê Vĩnh Phúc), Lê Văn Thế (Huyện đội trưởng huyện Củ Chi, tỉnh Gia Định), và Huỳnh Minh Mương (Trung đội trưởng bảo vệ Khu ủy Sài Gòn - Gia Định). [Nguồn: Quyết định phong tặng và truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ngày 06/11/1978 của Chủ tịch nước; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, tập VII, NXB Quân đội nhân dân, Hà Nội, 1996]
 
 <!-- id: EVT-2722 -->
-* **16/11/1978:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Thị Pha (Đại đội trưởng Đại đội nữ Pháo binh Y2 Đại Lào, Bảo Lộc (Tỉnh Lâm Đồng)).
+* **16/11/1978:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Thị Pha (Đại đội trưởng Đại đội nữ Pháo binh Y2 Đại Lào, Bảo Lộc (Tỉnh Lâm Đồng)). [Nguồn: Quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ngày 16/11/1978 của Chủ tịch nước; Ban Tuyên giáo Tỉnh ủy Lâm Đồng, Lịch sử Phụ nữ tỉnh Lâm Đồng]
 
 <!-- id: EVT-2723 -->
-*   **02/12/1978:** Với sự giúp đỡ của Việt Nam, Mặt trận Đoàn kết Dân tộc Cứu nước Campuchia được thành lập tại Snuol (Kratie), kêu gọi lật đổ chế độ diệt chủng Pol Pot và khẩn thiết kêu gọi sự giúp đỡ của quân tình nguyện Việt Nam.
+*   **02/12/1978:** Với sự giúp đỡ của Việt Nam, Mặt trận Đoàn kết Dân tộc Cứu nước Campuchia được thành lập tại Snuol (Kratie), kêu gọi lật đổ chế độ diệt chủng Pol Pot và khẩn thiết kêu gọi sự giúp đỡ của quân tình nguyện Việt Nam. [Nguồn: Tuyên ngôn của Mặt trận Đoàn kết Dân tộc Cứu nước Campuchia ngày 02/12/1978; Báo Nhân Dân; Ben Kiernan, The Pol Pot Regime, Yale University Press, 2002]
 
 <!-- id: EVT-2724 -->
-*   **13/12/1978:** Dưới sự hậu thuẫn từ bên ngoài, Khmer Đỏ huy động 19 sư đoàn (khoảng 8 vạn đến 10 vạn quân) tiến công xâm lược Việt Nam trên toàn tuyến biên giới, nhưng đã bị quân đội Việt Nam chặn đứng.
+*   **13/12/1978:** Dưới sự hậu thuẫn từ bên ngoài, Khmer Đỏ huy động 19 sư đoàn (khoảng 8 vạn đến 10 vạn quân) tiến công xâm lược Việt Nam trên toàn tuyến biên giới, nhưng đã bị quân đội Việt Nam chặn đứng. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử cuộc chiến đấu bảo vệ biên giới Tây Nam của Tổ quốc (1975 - 1979), NXB Quân đội nhân dân, Hà Nội, 2001, tr. 145-160]
 
 <!-- id: EVT-2725 -->
-*   **23/12/1978 - 17/01/1979:** Quân đội Việt Nam tiến hành cuộc tổng phản công chiến lược, đánh đuổi hoàn toàn quân Pol Pot ra khỏi lãnh thổ, bảo vệ thành công biên giới Tây Nam của Tổ quốc.
+*   **23/12/1978 - 17/01/1979:** Quân đội Việt Nam tiến hành cuộc tổng phản công chiến lược, đánh đuổi hoàn toàn quân Pol Pot ra khỏi lãnh thổ, bảo vệ thành công biên giới Tây Nam của Tổ quốc. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử cuộc chiến đấu bảo vệ biên giới Tây Nam của Tổ quốc (1975 - 1979), NXB Quân đội nhân dân, Hà Nội, 2001, tr. 170-210]
 
 <!-- id: EVT-2726 -->
-*   **25/12/1978:** Việt Nam tiến hành cuộc phản công toàn diện vào Campuchia nhằm đánh đuổi quân xâm lược Khmer Đỏ và hỗ trợ lực lượng cách mạng Campuchia lật đổ chế độ diệt chủng.
+*   **25/12/1978:** Việt Nam tiến hành cuộc phản công toàn diện vào Campuchia nhằm đánh đuổi quân xâm lược Khmer Đỏ và hỗ trợ lực lượng cách mạng Campuchia lật đổ chế độ diệt chủng. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử cuộc chiến đấu bảo vệ biên giới Tây Nam của Tổ quốc (1975 - 1979), NXB Quân đội nhân dân, Hà Nội, 2001; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2727 -->
-*   **30/12/1978 - 11/08/1980:** Cộng hòa Xã hội Chủ nghĩa Việt Nam đã liên tiếp đưa ra nhiều lời phản kháng (vào các ngày 30/12/1978, 07/08/1979, 05/02/1980 và 11/08/1980) chống lại các hành vi vi phạm chủ quyền của CHND Trung Hoa, Đài Loan và các quốc gia khác đối với các quần đảo.
+*   **30/12/1978 - 11/08/1980:** Cộng hòa Xã hội Chủ nghĩa Việt Nam đã liên tiếp đưa ra nhiều lời phản kháng (vào các ngày 30/12/1978, 07/08/1979, 05/02/1980 và 11/08/1980) chống lại các hành vi vi phạm chủ quyền của CHND Trung Hoa, Đài Loan và các quốc gia khác đối với các quần đảo. [Nguồn: Bộ Ngoại giao nước CHXHCN Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1979, 1981; TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, NXB Tri thức, 2013]
 
 <!-- id: EVT-2728 -->
-*   **1979:** Sau khi Việt Nam đưa quân tình nguyện sang lật đổ chế độ diệt chủng Khmer Đỏ tại Campuchia, Hoa Kỳ, Trung Quốc và một số quốc gia phương Tây siết chặt bao vây cấm vận kinh tế - ngoại giao đối với Việt Nam, đồng thời phong tỏa các nguồn viện trợ và cản trở Việt Nam tiếp cận các khoản vay từ WB, IMF và ADB.
+*   **1979:** Sau khi Việt Nam đưa quân tình nguyện sang lật đổ chế độ diệt chủng Khmer Đỏ tại Campuchia, Hoa Kỳ, Trung Quốc và một số quốc gia phương Tây siết chặt bao vây cấm vận kinh tế - ngoại giao đối với Việt Nam, đồng thời phong tỏa các nguồn viện trợ và cản trở Việt Nam tiếp cận các khoản vay từ WB, IMF và ADB. [Nguồn: Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, NXB Chính trị quốc gia, Hà Nội, 2002; Viện Sử học, Lịch sử Việt Nam, tập 14 (1975 - 1986), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-2729 -->
-*   **1979:** Theo hiệp định vay nợ, Việt Nam bắt đầu phải trả đợt nợ đầu tiên cho Iraq. Tuy nhiên, do đất nước vừa ra khỏi chiến tranh và phải đối phó với chiến tranh biên giới Tây Nam và phía Bắc, Việt Nam không có khả năng trả nợ. Trong chuyến thăm của Thủ tướng Phạm Văn Đồng, chính phủ của Tổng thống Saddam Hussein đã quyết định cho Việt Nam vay 100 triệu USD để trả số nợ đến hạn cho chính Iraq, một quyết định có một không hai trong quan hệ quốc tế.
+*   **1979:** Theo hiệp định vay nợ, Việt Nam bắt đầu phải trả đợt nợ đầu tiên cho Iraq. Tuy nhiên, do đất nước vừa ra khỏi chiến tranh và phải đối phó với chiến tranh biên giới Tây Nam và phía Bắc, Việt Nam không có khả năng trả nợ. Trong chuyến thăm của Thủ tướng Phạm Văn Đồng, chính phủ của Tổng thống Saddam Hussein đã quyết định cho Việt Nam vay 100 triệu USD để trả số nợ đến hạn cho chính Iraq, một quyết định có một không hai trong quan hệ quốc tế. [Nguồn: Bộ Ngoại giao, Biên niên các chuyến thăm cấp cao của Lãnh đạo Đảng, Nhà nước Việt Nam; Báo Nhân Dân; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2730 -->
-*   **1979:** Ông Nguyễn Tuất, cha ruột của liệt sĩ Nguyễn Văn Lượm, qua đời tại Phan Rang - Tháp Chàm, thọ 70 tuổi.
+*   **1979:** Ông Nguyễn Tuất, cha ruột của liệt sĩ Nguyễn Văn Lượm, qua đời tại Phan Rang - Tháp Chàm, thọ 70 tuổi. [Nguồn: Hồ sơ gia đình Liệt sĩ Nguyễn Văn Lượm; Sở Lao động - Thương binh và Xã hội tỉnh Ninh Thuận; Bảo tàng Lịch sử Quân sự Việt Nam]
 
 <!-- id: EVT-2731 -->
-* **1979:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Thuần (Trung đoàn phó bộ binh, Trung đoàn 209, Đại đoàn 312) từ trần.
+* **1979:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Thuần (Trung đoàn phó bộ binh, Trung đoàn 209, Đại đoàn 312) từ trần. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, tập I, NXB Quân đội nhân dân, Hà Nội, 1996; Sư đoàn 312]
 
 <!-- id: EVT-2732 -->
-* **1979:** Anh hùng Lực lượng vũ trang nhân dân Lộc Văn Trọng (Trung đội phó lái xe ô tô thuộc Cục Vận tải, Tổng cục Hậu cần) từ trần.
+* **1979:** Anh hùng Lực lượng vũ trang nhân dân Lộc Văn Trọng (Trung đội phó lái xe ô tô thuộc Cục Vận tải, Tổng cục Hậu cần) từ trần. [Nguồn: Tổng cục Hậu cần, Lịch sử Cục Vận tải Quân sự (1949 - 2009), NXB Quân đội nhân dân, Hà Nội, 2009; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2733 -->
-* **1979:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trương Hữu Dem (quê tại Cao Bằng).
+* **1979:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trương Hữu Dem (quê tại Cao Bằng). [Nguồn: Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, tập VII, NXB Quân đội nhân dân, Hà Nội, 1996; Bộ Chỉ huy Quân sự tỉnh Cao Bằng]
 
 <!-- id: EVT-2734 -->
-* **1979:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Bùi Thanh Hường (Thượng tá, Tham mưu phó Sư đoàn 324).
+* **1979:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Bùi Thanh Hường (Thượng tá, Tham mưu phó Sư đoàn 324). [Nguồn: Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, tập VII, NXB Quân đội nhân dân, Hà Nội, 1996; Bộ Chỉ huy Quân sự tỉnh Cao Bằng]
 
 <!-- id: EVT-2735 -->
-* **1979:** Bà mẹ Việt Nam anh hùng, Anh hùng Lực lượng vũ trang nhân dân Nguyễn Thị Rành (người mẹ Củ Chi có chồng, 8 người con và 2 người cháu hy sinh trong hai cuộc kháng chiến) từ trần.
+* **1979:** Bà mẹ Việt Nam anh hùng, Anh hùng Lực lượng vũ trang nhân dân Nguyễn Thị Rành (người mẹ Củ Chi có chồng, 8 người con và 2 người cháu hy sinh trong hai cuộc kháng chiến) từ trần. [Nguồn: Ban Tuyên giáo Thành ủy TP.HCM, Bà mẹ Việt Nam anh hùng Thành phố Hồ Chí Minh, NXB Tổng hợp TP.HCM, 2014; Báo Sài Gòn Giải Phóng]
 
 <!-- id: EVT-2736 -->
-*   **01/1979:** Trường Sĩ quan Chính trị cử 238 học viên và cán bộ đi thực tập tại các đơn vị ở Cao Bằng và Lạng Sơn. Khi chiến tranh biên giới nổ ra, 218 đồng chí đã trực tiếp tham gia chiến đấu và 22 người đã anh dũng hy sinh để bảo vệ bờ cõi.
+*   **01/1979:** Trường Sĩ quan Chính trị cử 238 học viên và cán bộ đi thực tập tại các đơn vị ở Cao Bằng và Lạng Sơn. Khi chiến tranh biên giới nổ ra, 218 đồng chí đã trực tiếp tham gia chiến đấu và 22 người đã anh dũng hy sinh để bảo vệ bờ cõi. [Nguồn: Trường Sĩ quan Chính trị, Lịch sử Trường Sĩ quan Chính trị (1976 - 2016), NXB Quân đội nhân dân, Hà Nội, 2016; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2737 -->
-*   **07/01/1979:** Quân tình nguyện Việt Nam phối hợp cùng lực lượng vũ trang cách mạng Campuchia giải phóng Thủ đô Phnôm Pênh, chính thức lật đổ chế độ diệt chủng Pôn Pốt.
+*   **07/01/1979:** Quân tình nguyện Việt Nam phối hợp cùng lực lượng vũ trang cách mạng Campuchia giải phóng Thủ đô Phnôm Pênh, chính thức lật đổ chế độ diệt chủng Pôn Pốt. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử cuộc chiến đấu bảo vệ biên giới Tây Nam của Tổ quốc (1975 - 1979), NXB Quân đội nhân dân, Hà Nội, 2001, tr. 220-245; Báo Nhân Dân]
 
 <!-- id: EVT-2738 -->
-*   **08/01/1979:** Hội đồng Nhân dân Cách mạng Campuchia do Heng Samrin làm Chủ tịch được thành lập với sự hậu thuẫn của Việt Nam sau khi Phnôm Pênh được giải phóng.
+*   **08/01/1979:** Hội đồng Nhân dân Cách mạng Campuchia do Heng Samrin làm Chủ tịch được thành lập với sự hậu thuẫn của Việt Nam sau khi Phnôm Pênh được giải phóng. [Nguồn: Tuyên bố thành lập Hội đồng Nhân dân Cách mạng Campuchia ngày 08/01/1979; Báo Nhân Dân; David Chandler, A History of Cambodia, Westview Press, 2000]
 
 <!-- id: EVT-2739 -->
-*   **11/01/1979:** Bộ Chính trị ban hành Nghị quyết số 14-NQ/TW về cuộc Cải cách giáo dục lần thứ 3 trên phạm vi toàn quốc dưới sự chỉ đạo của Thủ tướng Phạm Văn Đồng, tiến hành hợp nhất hệ thống giáo dục phổ thông hai miền Nam - Bắc thành hệ thống 12 năm thống nhất, xác định phương châm học đi đôi với hành, giáo dục kết hợp với lao động sản xuất, đào tạo nguồn nhân lực phục vụ công cuộc xây dựng và bảo vệ Tổ quốc.
+*   **11/01/1979:** Bộ Chính trị ban hành Nghị quyết số 14-NQ/TW về cuộc Cải cách giáo dục lần thứ 3 trên phạm vi toàn quốc dưới sự chỉ đạo của Thủ tướng Phạm Văn Đồng, tiến hành hợp nhất hệ thống giáo dục phổ thông hai miền Nam - Bắc thành hệ thống 12 năm thống nhất, xác định phương châm học đi đôi với hành, giáo dục kết hợp với lao động sản xuất, đào tạo nguồn nhân lực phục vụ công cuộc xây dựng và bảo vệ Tổ quốc. [Nguồn: Nghị quyết số 14-NQ/TW ngày 11/01/1979 của Bộ Chính trị về Cải cách giáo dục; Văn kiện Đảng Toàn tập, tập 40 (1979), NXB Chính trị quốc gia, Hà Nội, 2005]
 
 <!-- id: EVT-2740 -->
-*   **17/01/1979:** Toàn bộ đất nước Campuchia được giải phóng khỏi ách thống trị của Khmer Đỏ.
+*   **17/01/1979:** Toàn bộ đất nước Campuchia được giải phóng khỏi ách thống trị của Khmer Đỏ. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử cuộc chiến đấu bảo vệ biên giới Tây Nam của Tổ quốc (1975 - 1979), NXB Quân đội nhân dân, Hà Nội, 2001; Báo Nhân Dân]
 
 <!-- id: EVT-2741 -->
-*   **02/1979:** Phó Thủ tướng Huỳnh Tấn Phát kiêm nhiệm chức vụ Chủ nhiệm Ủy ban Xây dựng cơ bản Nhà nước và làm Đại diện thường trực của Việt Nam tại Hội đồng Tương trợ Kinh tế (SEV).
+*   **02/1979:** Phó Thủ tướng Huỳnh Tấn Phát kiêm nhiệm chức vụ Chủ nhiệm Ủy ban Xây dựng cơ bản Nhà nước và làm Đại diện thường trực của Việt Nam tại Hội đồng Tương trợ Kinh tế (SEV). [Nguồn: Nghị quyết số 463 NQ/TVQH ngày 16/02/1979 của Ủy ban Thường vụ Quốc hội; Văn kiện Quốc hội Toàn tập, tập 5 (1976 - 1981), NXB Chính trị quốc gia, Hà Nội, 2008]
 
 <!-- id: EVT-2742 -->
-*   **02/1979:** Tổng thống Philippin ban hành một sắc lệnh tuyên bố chủ quyền của Philippin đối với gần như toàn bộ quần đảo Trường Sa (ngoại trừ đảo Trường Sa lớn).
+*   **02/1979:** Tổng thống Philippin ban hành một sắc lệnh tuyên bố chủ quyền của Philippin đối với gần như toàn bộ quần đảo Trường Sa (ngoại trừ đảo Trường Sa lớn). [Nguồn: Sắc lệnh Tổng thống Philippin số 1596 công bố tháng 02/1979; Bộ Ngoại giao nước CHXHCN Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, 1979]
 
 <!-- id: EVT-2743 -->
-*   **17/02/1979:** Trung Quốc huy động lực lượng khổng lồ (ước tính từ 30 vạn đến hơn 60 vạn quân) đồng loạt mở cuộc tấn công xâm lược trên toàn tuyến 6 tỉnh biên giới phía Bắc Việt Nam. Trong suốt cuộc chiến và trước khi rút lui, quân xâm lược Trung Quốc đã áp dụng chính sách tiêu thổ tàn bạo, sử dụng lượng lớn thuốc nổ giật sập và san phẳng triệt để toàn bộ thị xã Lạng Sơn, Cao Bằng, Lào Cai, Cam Đường; phá hủy hàng trăm bệnh viện, trường học, nhà máy mỏ và cầu cống, đồng thời thảm sát dã man nhiều dân thường vô tội. Bộ đội địa phương và dân quân tự vệ Việt Nam đã kiên cường đánh trả, tiêu hao nặng nề sinh lực đối phương.
+*   **17/02/1979:** Trung Quốc huy động lực lượng khổng lồ (ước tính từ 30 vạn đến hơn 60 vạn quân) đồng loạt mở cuộc tấn công xâm lược trên toàn tuyến 6 tỉnh biên giới phía Bắc Việt Nam. Trong suốt cuộc chiến và trước khi rút lui, quân xâm lược Trung Quốc đã áp dụng chính sách tiêu thổ tàn bạo, sử dụng lượng lớn thuốc nổ giật sập và san phẳng triệt để toàn bộ thị xã Lạng Sơn, Cao Bằng, Lào Cai, Cam Đường; phá hủy hàng trăm bệnh viện, trường học, nhà máy mỏ và cầu cống, đồng thời thảm sát dã man nhiều dân thường vô tội. Bộ đội địa phương và dân quân tự vệ Việt Nam đã kiên cường đánh trả, tiêu hao nặng nề sinh lực đối phương. [Nguồn: Tuyên bố của Chính phủ nước CHXHCN Việt Nam về cuộc chiến tranh xâm lược của nhà cầm quyền Trung Quốc ngày 17/02/1979; Báo Nhân Dân; Viện Lịch sử Quân sự Việt Nam, Lịch sử cuộc kháng chiến chống quân xâm lược bảo vệ biên giới phía Bắc, NXB Quân đội nhân dân, 2001]
 
 ![Hình ảnh tư liệu](images/event_20260923_132056.webp)
 
 *Nguồn: Bộ đội Việt Nam trên đường hành quân lên biên giới phía Bắc bảo vệ Tổ quốc, tháng 2/1979 (Ảnh tư liệu)*
 
 <!-- id: EVT-2744 -->
-*   **17/02/1979:** Tại mặt trận Tà Lùng – Phục Hòa (Cao Bằng), **Trung đoàn 567** – vốn là đơn vị công binh xây dựng kinh tế, chưa từng qua thực chiến – đã anh dũng chốt giữ **đèo Khau Chỉa** suốt 12 ngày đêm, chỉ với khoảng 2 tiểu đoàn trang bị vũ khí bộ binh cơ bản chống lại cả sư đoàn quân Trung Quốc được tăng cường xe tăng và pháo hạng nặng. Trong trận đánh, xạ thủ súng máy phòng không 14,5mm **Hồ Tuấn** (Đại đội 16) đã chiến đấu kiên cường, bắn cháy nòng súng, diệt khoảng 120 lính địch và bắt sống 2 sĩ quan Trung Quốc, được đồng đội và nhân dân tôn vinh là **"Tráng sĩ đèo Khau Chỉa"**. Trung đoàn 567 đã chặn đứng bước tiến của đối phương, khiến quân xâm lược chỉ tiến được khoảng 12–18 km trong suốt 12 ngày, trở thành biểu tượng cho nghệ thuật quân sự "lấy ít địch nhiều" trong cuộc chiến tranh bảo vệ biên giới phía Bắc.
+*   **17/02/1979:** Tại mặt trận Tà Lùng – Phục Hòa (Cao Bằng), **Trung đoàn 567** – vốn là đơn vị công binh xây dựng kinh tế, chưa từng qua thực chiến – đã anh dũng chốt giữ **đèo Khau Chỉa** suốt 12 ngày đêm, chỉ với khoảng 2 tiểu đoàn trang bị vũ khí bộ binh cơ bản chống lại cả sư đoàn quân Trung Quốc được tăng cường xe tăng và pháo hạng nặng. Trong trận đánh, xạ thủ súng máy phòng không 14,5mm **Hồ Tuấn** (Đại đội 16) đã chiến đấu kiên cường, bắn cháy nòng súng, diệt khoảng 120 lính địch và bắt sống 2 sĩ quan Trung Quốc, được đồng đội và nhân dân tôn vinh là **"Tráng sĩ đèo Khau Chỉa"**. Trung đoàn 567 đã chặn đứng bước tiến của đối phương, khiến quân xâm lược chỉ tiến được khoảng 12–18 km trong suốt 12 ngày, trở thành biểu tượng cho nghệ thuật quân sự "lấy ít địch nhiều" trong cuộc chiến tranh bảo vệ biên giới phía Bắc. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử cuộc kháng chiến chống quân xâm lược bảo vệ biên giới phía Bắc (1979 - 1989), NXB Quân đội nhân dân, Hà Nội, 2001; Bộ Chỉ huy Quân sự tỉnh Cao Bằng]
 
 <!-- id: EVT-2745 -->
-*   **18/02/1979:** Việt Nam và Campuchia ký Hiệp ước hòa bình, hữu nghị và hợp tác.
+*   **18/02/1979:** Việt Nam và Campuchia ký Hiệp ước hòa bình, hữu nghị và hợp tác. [Nguồn: Hiệp ước hòa bình, hữu nghị và hợp tác giữa CHXHCN Việt Nam và CHND Campuchia, ký ngày 18/02/1979; Báo Nhân Dân; Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, 2002]
 
 <!-- id: EVT-2746 -->
-*   **27/02/1979:** Khoảng 10 giờ sáng, quân Trung Quốc tràn ngập trận địa tại cao điểm 815 (Trà Lĩnh, Cao Bằng) sau các đợt pháo kích và bộ binh ồ ạt. Trung úy Phan Đình Linh, chỉ huy 4 người còn sống sót của đơn vị, đã bật lưỡi lê đánh giáp lá cà và hy sinh anh dũng cùng đồng đội.
+*   **27/02/1979:** Khoảng 10 giờ sáng, quân Trung Quốc tràn ngập trận địa tại cao điểm 815 (Trà Lĩnh, Cao Bằng) sau các đợt pháo kích và bộ binh ồ ạt. Trung úy Phan Đình Linh, chỉ huy 4 người còn sống sót của đơn vị, đã bật lưỡi lê đánh giáp lá cà và hy sinh anh dũng cùng đồng đội. [Nguồn: Sư đoàn 3 Sao Vàng, Lịch sử Sư đoàn 3 Sao Vàng (1965 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005; Viện Lịch sử Quân sự Việt Nam; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2747 -->
-*   **Đầu tháng 03/1979:** Trong cuộc chiến đấu bảo vệ biên giới phía Bắc tại Lạng Sơn, bức ảnh lịch sử ghi lại khoảnh khắc chiến sĩ Trần Huy Cung (còn gọi là Trần Duy Cung, quê Thái Bình, thuộc Trung đoàn 540, Sư đoàn 327, Quân đoàn 14) vác khẩu súng phóng lựu B41 tì lên cột mốc số 0 km tại Cửa khẩu Hữu Nghị đã được chụp lại. Bức ảnh trở thành một trong những biểu tượng bất tử cho khí phách hiên ngang, ý chí kiên cường và quyết tâm bảo vệ chủ quyền biên cương Tổ quốc của quân dân Việt Nam (danh tính của ông được báo chí và giới nghiên cứu làm sáng tỏ, công bố vào năm 2019).
+*   **Đầu tháng 03/1979:** Trong cuộc chiến đấu bảo vệ biên giới phía Bắc tại Lạng Sơn, bức ảnh lịch sử ghi lại khoảnh khắc chiến sĩ Trần Huy Cung (còn gọi là Trần Duy Cung, quê Thái Bình, thuộc Trung đoàn 540, Sư đoàn 327, Quân đoàn 14) vác khẩu súng phóng lựu B41 tì lên cột mốc số 0 km tại Cửa khẩu Hữu Nghị đã được chụp lại. Bức ảnh trở thành một trong những biểu tượng bất tử cho khí phách hiên ngang, ý chí kiên cường và quyết tâm bảo vệ chủ quyền biên cương Tổ quốc của quân dân Việt Nam (danh tính của ông được báo chí và giới nghiên cứu làm sáng tỏ, công bố vào năm 2019). [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử cuộc chiến đấu bảo vệ biên giới phía Bắc năm 1979, NXB Quân đội nhân dân, Hà Nội, 2001; Báo Nhân Dân; Thông tấn xã Việt Nam]
 
 <!-- id: EVT-2748 -->
-*   **05/03/1979:** Việt Nam ra Lệnh Tổng động viên toàn quốc, hàng vạn thanh niên cả nước đã hăng hái lên đường bảo vệ biên cương phía Bắc. Cùng ngày, Trung Quốc tuyên bố rút quân.
+*   **05/03/1979:** Việt Nam ra Lệnh Tổng động viên toàn quốc, hàng vạn thanh niên cả nước đã hăng hái lên đường bảo vệ biên cương phía Bắc. Cùng ngày, Trung Quốc tuyên bố rút quân. [Nguồn: Sắc lệnh số 29-LCT ngày 05/03/1979 của Chủ tịch nước Việt Nam Dân chủ Cộng hòa về Tổng động viên toàn quốc; Báo Nhân Dân số ra ngày 06/03/1979]
 
 <!-- id: EVT-2749 -->
-*   **06/03 - 07/03/1979:** Chính phủ nước Cộng hòa Dân chủ Nhân dân Lào ra tuyên bố chính thức lên án cuộc chiến tranh xâm lược của Trung Quốc đối với Việt Nam, đồng thời gửi công hàm yêu cầu Bắc Kinh đình chỉ mọi dự án làm đường ở Bắc Lào và rút toàn bộ chuyên gia, công nhân về nước. Tiếp sau đó, Lào chính thức hạ cấp quan hệ ngoại giao với Trung Quốc xuống mức Đại biện lâm thời và yêu cầu Đại sứ quán Trung Quốc tại Viêng Chăn cắt giảm nhân sự, khẳng định lập trường kiên quyết sát cánh bên cạnh Việt Nam và khối liên minh ba nước Đông Dương.
+*   **06/03 - 07/03/1979:** Chính phủ nước Cộng hòa Dân chủ Nhân dân Lào ra tuyên bố chính thức lên án cuộc chiến tranh xâm lược của Trung Quốc đối với Việt Nam, đồng thời gửi công hàm yêu cầu Bắc Kinh đình chỉ mọi dự án làm đường ở Bắc Lào và rút toàn bộ chuyên gia, công nhân về nước. Tiếp sau đó, Lào chính thức hạ cấp quan hệ ngoại giao với Trung Quốc xuống mức Đại biện lâm thời và yêu cầu Đại sứ quán Trung Quốc tại Viêng Chăn cắt giảm nhân sự, khẳng định lập trường kiên quyết sát cánh bên cạnh Việt Nam và khối liên minh ba nước Đông Dương. [Nguồn: Tuyên bố của Chính phủ nước Cộng hòa Dân chủ Nhân dân Lào ngày 06/03/1979; Báo Nhân Dân số ra ngày 08/03/1979; Thông tấn xã KPL (Lào)]
 
 <!-- id: EVT-2750 -->
 *   **09/03/1979:** Quân đội Trung Quốc gây ra **vụ thảm sát Tổng Chúp** tại thôn Tổng Chúp (xã Hưng Đạo, huyện Hòa An, nay thuộc thành phố Cao Bằng, tỉnh Cao Bằng) trong quá trình rút quân. 43 thường dân vô tội (phần lớn là phụ nữ, người già và trẻ em, trong đó có nhiều công nhân trại lợn giống Tổng Chúp) đã bị sát hại dã man và thi thể bị vứt xuống một giếng nước cổ để phi tang. Sau khi lực lượng chức năng Việt Nam tiếp cận hiện trường và lập hồ sơ chứng cứ, ngày 14/03/1979, Đại sứ Hà Văn Lâu - Trưởng phái đoàn đại diện thường trực Việt Nam tại Liên Hợp Quốc - đã gửi bản tường trình và công bố các chứng cứ về tội ác chiến tranh này trước Liên Hợp Quốc và báo chí quốc tế. [Nguồn: Báo Tuổi Trẻ - Tổng Chúp: Đền tưởng niệm và tiếng cười trẻ thơ, https://tuoitre.vn/tong-chup-den-tuong-niem-va-tieng-cuoi-tre-tho-20240218235357697.htm]
 
 <!-- id: EVT-2751 -->
-*   **16/03/1979:** Trung Quốc chính thức tuyên bố hoàn tất việc rút quân khỏi Việt Nam, kết thúc giai đoạn khốc liệt của cuộc chiến tranh biên giới 1979, mặc dù các cuộc xung đột nhỏ vẫn tiếp diễn trong hơn một thập kỷ sau đó.
+*   **16/03/1979:** Trung Quốc chính thức tuyên bố hoàn tất việc rút quân khỏi Việt Nam, kết thúc giai đoạn khốc liệt của cuộc chiến tranh biên giới 1979, mặc dù các cuộc xung đột nhỏ vẫn tiếp diễn trong hơn một thập kỷ sau đó. [Nguồn: Tuyên bố của Bộ Ngoại giao Trung Quốc ngày 16/03/1979; Tuyên bố của Bộ Ngoại giao nước CHXHCN Việt Nam ngày 17/03/1979; Báo Nhân Dân]
 
 <!-- id: EVT-2752 -->
-*   **18/04/1979:** Vòng đàm phán cấp Thứ trưởng Ngoại giao Việt Nam - Trung Quốc lần thứ nhất bắt đầu tại Hà Nội.
+*   **18/04/1979:** Vòng đàm phán cấp Thứ trưởng Ngoại giao Việt Nam - Trung Quốc lần thứ nhất bắt đầu tại Hà Nội. [Nguồn: Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, NXB Chính trị quốc gia, Hà Nội, 2002, tr. 310-325; Báo Nhân Dân]
 
 <!-- id: EVT-2753 -->
-*   **05/07/1979:** Lợi dụng chuyến đi sang Cộng hòa Dân chủ Đức chữa bệnh, khi máy bay quá cảnh tại Karachi (Pakistan), nguyên Ủy viên Bộ Chính trị, cựu Phó Chủ tịch Ủy ban Thường vụ Quốc hội Hoàng Văn Hoan đã bí mật đào tẩu sang Bắc Kinh (Trung Quốc) rồi công khai phụ họa luận điệu ngoại bang chống lại Đảng và Nhà nước Việt Nam giữa lúc chiến sự biên giới phía Bắc đang diễn biến khốc liệt. Lợi dụng sự phản bội này, phía Trung Quốc đã tổ chức, chu cấp tài chính và huấn luyện vũ trang cho một bộ phận người Việt vượt biên, người tị nạn lập thành các đơn vị mang tên **"Đội du kích Hoàng Văn Hoan"** (hay *"Kháng Lê cứu quốc du kích đội"*, *"Phản Lê cứu quốc"*, tiếng Trung: 黄文欢游击队 / 反黎救国). Đóng quân tại các căn cứ sát biên giới như Hà Khẩu (Vân Nam), Trì Trúc Bá (huyện Ma Lật Pha), Lục Thủy Hà..., lực lượng này được trang bị vũ khí Trung Quốc, cải trang bằng trang phục của các dân tộc bản địa để vượt biên thâm nhập vào lãnh thổ Việt Nam thực hiện các nhiệm vụ biệt kích, trinh sát chỉ điểm hỏa lực pháo binh, thu thập tình báo, rải truyền đơn chiến tranh tâm lý và tập kích quấy rối phá hoại (đặc biệt tại địa bàn Hà Tuyên, Lạng Sơn, Hoàng Liên Sơn) trong suốt thập niên 1980. Hành vi phản quốc nói trên bị nhân dân Việt Nam lên án gay gắt; ngày 26/06/1980, Tòa án Nhân dân Tối cao đã mở phiên tòa xét xử vắng mặt và tuyên án tử hình đối với Hoàng Văn Hoan về tội phản bội Tổ quốc. Các nhóm vũ trang này sau đó bị lực lượng vũ trang và nhân dân các tỉnh biên giới Việt Nam kiên quyết đấu tranh triệt phá, rồi hoàn toàn tan rã, giải thể khi hai nước bình thường hóa quan hệ vào đầu thập niên 1990.
+*   **05/07/1979:** Lợi dụng chuyến đi sang Cộng hòa Dân chủ Đức chữa bệnh, khi máy bay quá cảnh tại Karachi (Pakistan), nguyên Ủy viên Bộ Chính trị, cựu Phó Chủ tịch Ủy ban Thường vụ Quốc hội Hoàng Văn Hoan đã bí mật đào tẩu sang Bắc Kinh (Trung Quốc) rồi công khai phụ họa luận điệu ngoại bang chống lại Đảng và Nhà nước Việt Nam giữa lúc chiến sự biên giới phía Bắc đang diễn biến khốc liệt. Lợi dụng sự phản bội này, phía Trung Quốc đã tổ chức, chu cấp tài chính và huấn luyện vũ trang cho một bộ phận người Việt vượt biên, người tị nạn lập thành các đơn vị mang tên **"Đội du kích Hoàng Văn Hoan"** (hay *"Kháng Lê cứu quốc du kích đội"*, *"Phản Lê cứu quốc"*, tiếng Trung: 黄文欢游击队 / 反黎救国). Đóng quân tại các căn cứ sát biên giới như Hà Khẩu (Vân Nam), Trì Trúc Bá (huyện Ma Lật Pha), Lục Thủy Hà..., lực lượng này được trang bị vũ khí Trung Quốc, cải trang bằng trang phục của các dân tộc bản địa để vượt biên thâm nhập vào lãnh thổ Việt Nam thực hiện các nhiệm vụ biệt kích, trinh sát chỉ điểm hỏa lực pháo binh, thu thập tình báo, rải truyền đơn chiến tranh tâm lý và tập kích quấy rối phá hoại (đặc biệt tại địa bàn Hà Tuyên, Lạng Sơn, Hoàng Liên Sơn) trong suốt thập niên 1980. Hành vi phản quốc nói trên bị nhân dân Việt Nam lên án gay gắt; ngày 26/06/1980, Tòa án Nhân dân Tối cao đã mở phiên tòa xét xử vắng mặt và tuyên án tử hình đối với Hoàng Văn Hoan về tội phản bội Tổ quốc. Các nhóm vũ trang này sau đó bị lực lượng vũ trang và nhân dân các tỉnh biên giới Việt Nam kiên quyết đấu tranh triệt phá, rồi hoàn toàn tan rã, giải thể khi hai nước bình thường hóa quan hệ vào đầu thập niên 1990. [Nguồn: Bản án hình sự sơ thẩm kiêm chung thẩm số 01/HS-ST ngày 26/06/1980 của Tòa án Nhân dân Tối cao xử phạt tử hình Hoàng Văn Hoan về tội phản quốc; Báo Nhân Dân]
 
 <!-- id: EVT-2754 -->
-*   **08/1979:** Hội nghị lần thứ 6 Ban Chấp hành Trung ương Đảng (khóa IV) ra nghị quyết "Về tình hình và nhiệm vụ cấp bách", thừa nhận những khó khăn, yếu kém trong quản lý kinh tế và đề ra chủ trương "làm cho sản xuất bung ra".
+*   **08/1979:** Hội nghị lần thứ 6 Ban Chấp hành Trung ương Đảng (khóa IV) ra nghị quyết "Về tình hình và nhiệm vụ cấp bách", thừa nhận những khó khăn, yếu kém trong quản lý kinh tế và đề ra chủ trương "làm cho sản xuất bung ra". [Nguồn: Nghị quyết Hội nghị lần thứ 6 Ban Chấp hành Trung ương Đảng (khóa IV), tháng 08/1979; Văn kiện Đảng Toàn tập, tập 40 (1979), NXB Chính trị quốc gia, Hà Nội, 2005]
 
 <!-- id: EVT-2755 -->
-*   **15/09/1979:** Thành lập **Nhà máy Bán dẫn Z181** (tiền thân là Xí nghiệp Điện tử, nay là Công ty TNHH MTV Điện tử Sao Mai thuộc Tổng cục Công nghiệp Quốc phòng) theo quyết định của Hội đồng Chính phủ. Đây là cơ sở đầu tiên của Việt Nam đầu tư dây chuyền sản xuất đồng bộ được nhập khẩu từ Nhật Bản và Tây Âu nhằm nghiên cứu, chế tạo và đóng gói các linh kiện bán dẫn (như transistor, diode, vi mạch, cảm biến bán dẫn, LED). Trong suốt thập niên 1980, nhà máy đã sản xuất và xuất khẩu hàng chục triệu linh kiện bán dẫn mỗi năm sang các nước Đông Âu và Liên Xô (như Tiệp Khắc, Ba Lan), đặt nền móng sơ khai cho ngành công nghiệp vi mạch bán dẫn của Việt Nam.
+*   **15/09/1979:** Thành lập **Nhà máy Bán dẫn Z181** (tiền thân là Xí nghiệp Điện tử, nay là Công ty TNHH MTV Điện tử Sao Mai thuộc Tổng cục Công nghiệp Quốc phòng) theo quyết định của Hội đồng Chính phủ. Đây là cơ sở đầu tiên của Việt Nam đầu tư dây chuyền sản xuất đồng bộ được nhập khẩu từ Nhật Bản và Tây Âu nhằm nghiên cứu, chế tạo và đóng gói các linh kiện bán dẫn (như transistor, diode, vi mạch, cảm biến bán dẫn, LED). Trong suốt thập niên 1980, nhà máy đã sản xuất và xuất khẩu hàng chục triệu linh kiện bán dẫn mỗi năm sang các nước Đông Âu và Liên Xô (như Tiệp Khắc, Ba Lan), đặt nền móng sơ khai cho ngành công nghiệp vi mạch bán dẫn của Việt Nam. [Nguồn: Quyết định thành lập Xí nghiệp Điện tử Z181 của Hội đồng Chính phủ ngày 15/09/1979; Tổng cục Công nghiệp Quốc phòng, Lịch sử Nhà máy Z181 (1979 - 2019), NXB Quân đội nhân dân, 2019]
 
 <!-- id: EVT-2756 -->
-*   **28/09/1979:** Bộ Ngoại giao nước Cộng hòa Xã hội Chủ nghĩa Việt Nam công bố Sách trắng *"Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa"*, công bố hệ thống văn kiện, tư liệu lịch sử và căn cứ pháp lý quốc tế chứng minh toàn diện chủ quyền lâu đời, liên tục và hòa bình của Việt Nam đối với hai quần đảo.
+*   **28/09/1979:** Bộ Ngoại giao nước Cộng hòa Xã hội Chủ nghĩa Việt Nam công bố Sách trắng *"Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa"*, công bố hệ thống văn kiện, tư liệu lịch sử và căn cứ pháp lý quốc tế chứng minh toàn diện chủ quyền lâu đời, liên tục và hòa bình của Việt Nam đối với hai quần đảo. [Nguồn: Bộ Ngoại giao nước CHXHCN Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, ngày 28/09/1979; TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, NXB Tri thức, 2013]
 
 <!-- id: EVT-2757 -->
-*   **01/10/1979:** Tiến hành cuộc Tổng điều tra dân số lần thứ hai trong cả nước.
+*   **01/10/1979:** Tiến hành cuộc Tổng điều tra dân số lần thứ hai trong cả nước. [Nguồn: Tổng cục Thống kê, Kết quả Tổng điều tra dân số ngày 01/10/1979, Hà Nội, 1980; Báo Nhân Dân]
 
 <!-- id: EVT-2758 -->
-*   **06/11/1979:** Thủ tướng Chính phủ Phạm Văn Đồng phát lệnh khởi công xây dựng Nhà máy Thủy điện Hòa Bình trên sông Đà (tỉnh Hòa Bình) với công suất thiết kế 1.920 MW - công trình thủy điện thế kỷ có quy mô lớn nhất Đông Nam Á thời bấy giờ với sự giúp đỡ to lớn về tài chính và kỹ thuật của Liên Xô, đặt nền móng cốt lõi giải quyết bài toán an ninh năng lượng và phòng chống lũ lụt cho Đồng bằng Bắc Bộ.
+*   **06/11/1979:** Thủ tướng Chính phủ Phạm Văn Đồng phát lệnh khởi công xây dựng Nhà máy Thủy điện Hòa Bình trên sông Đà (tỉnh Hòa Bình) với công suất thiết kế 1.920 MW - công trình thủy điện thế kỷ có quy mô lớn nhất Đông Nam Á thời bấy giờ với sự giúp đỡ to lớn về tài chính và kỹ thuật của Liên Xô, đặt nền móng cốt lõi giải quyết bài toán an ninh năng lượng và phòng chống lũ lụt cho Đồng bằng Bắc Bộ. [Nguồn: Tập đoàn Điện lực Việt Nam (EVN), Công ty Thủy điện Hòa Bình - 30 năm phát triển và cống hiến, NXB Công Thương, 2018; Báo Nhân Dân số ra ngày 07/11/1979]
 
 <!-- id: EVT-2759 -->
-*   **20/12/1979:** Liệt sĩ Phan Đình Linh được Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân và Huân chương Chiến công hạng Ba vì sự hy sinh oanh liệt tại cao điểm 815.
+*   **20/12/1979:** Liệt sĩ Phan Đình Linh được Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân và Huân chương Chiến công hạng Ba vì sự hy sinh oanh liệt tại cao điểm 815. [Nguồn: Quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ngày 20/12/1979 của Chủ tịch nước; Sư đoàn 3 Sao Vàng, Lịch sử Sư đoàn 3 Sao Vàng, NXB Quân đội nhân dân, 2005]
 
 <!-- id: EVT-2760 -->
-*   **Những năm 1980:** Bất chấp những khó khăn to lớn do cuộc chiến tranh Iran - Iraq, chính phủ Iraq vẫn đồng ý với đề nghị của Việt Nam cho hoãn nợ và nhận trả nợ bằng hàng hóa (gạo, chè, quần áo) cùng lao động. Hàng ngàn lao động Việt Nam đã sang Iraq làm việc, trích một nửa tiền lương để trả nợ cho nước bạn.
+*   **Những năm 1980:** Bất chấp những khó khăn to lớn do cuộc chiến tranh Iran - Iraq, chính phủ Iraq vẫn đồng ý với đề nghị của Việt Nam cho hoãn nợ và nhận trả nợ bằng hàng hóa (gạo, chè, quần áo) cùng lao động. Hàng ngàn lao động Việt Nam đã sang Iraq làm việc, trích một nửa tiền lương để trả nợ cho nước bạn. [Nguồn: Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, NXB Chính trị quốc gia, Hà Nội, 2002; Bộ Lao động - Thương binh và Xã hội; Báo Nhân Dân]
 
 <!-- id: EVT-2761 -->
-*   **Những năm 1980 - 1990:** Cuba hỗ trợ Việt Nam trong lĩnh vực y tế dự phòng bằng cách viện trợ các loại vaccine phòng viêm màng não, bại liệt, uốn ván cho trẻ em Việt Nam.
+*   **Những năm 1980 - 1990:** Cuba hỗ trợ Việt Nam trong lĩnh vực y tế dự phòng bằng cách viện trợ các loại vaccine phòng viêm màng não, bại liệt, uốn ván cho trẻ em Việt Nam. [Nguồn: Bộ Ngoại giao, 60 năm quan hệ hữu nghị truyền thống đặc biệt Việt Nam - Cuba (1960 - 2020), NXB Chính trị quốc gia Sự thật, Hà Nội, 2020; Bộ Y tế]
 
 <!-- id: EVT-2762 -->
-*   **Sau Tết 1980:** Các trận đánh quy mô nhỏ thỉnh thoảng vẫn xảy ra ở những điểm cao dọc đường biên giới Lạng Sơn.
+*   **Sau Tết 1980:** Các trận đánh quy mô nhỏ thỉnh thoảng vẫn xảy ra ở những điểm cao dọc đường biên giới Lạng Sơn. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử cuộc chiến đấu bảo vệ biên giới phía Bắc (1979 - 1989), NXB Quân đội nhân dân, Hà Nội, 2001; Bộ Chỉ huy Quân sự tỉnh Lạng Sơn]
 
 <!-- id: EVT-2763 -->
-*   **1980:** Ủy ban Nhân dân thị xã Đồng Hới cho xây dựng bia đài tưởng niệm Mẹ Suốt nằm giữa trung tâm bến đò cũ bên sông Nhật Lệ nhằm tri ân sự hy sinh anh hùng của bà.
+*   **1980:** Ủy ban Nhân dân thị xã Đồng Hới cho xây dựng bia đài tưởng niệm Mẹ Suốt nằm giữa trung tâm bến đò cũ bên sông Nhật Lệ nhằm tri ân sự hy sinh anh hùng của bà. [Nguồn: UBND Thành phố Đồng Hới, Địa chí Đồng Hới, NXB Thuận Hóa, 2004; Báo Quảng Bình]
 
 <!-- id: EVT-2764 -->
-* **1980:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn A (Thiếu úy Công an Nhân dân, Chỉ huy Trưởng nhiệm vụ đánh chiếm Tiểu khu Gia Định trong Chiến dịch Hồ Chí Minh tháng 4 năm 1975) từ trần.
+* **1980:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn A (Thiếu úy Công an Nhân dân, Chỉ huy Trưởng nhiệm vụ đánh chiếm Tiểu khu Gia Định trong Chiến dịch Hồ Chí Minh tháng 4 năm 1975) từ trần. [Nguồn: Công an Thành phố Hồ Chí Minh, Lịch sử Công an Thành phố Hồ Chí Minh (1945 - 2005), NXB Công an nhân dân, Hà Nội, 2005; Bảo tàng Công an nhân dân]
 
 <!-- id: EVT-2765 -->
-* **1980:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hồ Thị Bi (Nữ chỉ huy quân sự kiên cường trong hai cuộc kháng chiến chống Pháp và chống Mỹ, được Chủ tịch Hồ Chí Minh đặt biệt danh "Nữ kiệt miền Đông").
+* **1980:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hồ Thị Bi (Nữ chỉ huy quân sự kiên cường trong hai cuộc kháng chiến chống Pháp và chống Mỹ, được Chủ tịch Hồ Chí Minh đặt biệt danh "Nữ kiệt miền Đông"). [Nguồn: Quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 1980 của Chủ tịch nước; Ban Tuyên giáo Thành ủy TP.HCM; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2766 -->
-*   **30/03/1980:** Chủ tịch nước Tôn Đức Thắng qua đời. Phó Chủ tịch nước **Nguyễn Hữu Thọ** giữ Quyền Chủ tịch nước (đến tháng 7/1981).
+*   **30/03/1980:** Chủ tịch nước Tôn Đức Thắng qua đời. Phó Chủ tịch nước **Nguyễn Hữu Thọ** giữ Quyền Chủ tịch nước (đến tháng 7/1981). [Nguồn: Thông cáo đặc biệt của Ban Chấp hành Trung ương Đảng, Quốc hội, Chính phủ về lễ quốc tang Chủ tịch Tôn Đức Thắng; Văn kiện Quốc hội Toàn tập, tập 5 (1976 - 1981), NXB Chính trị quốc gia, 2008]
 
 <!-- id: EVT-2767 -->
-*   **23/07/1980:** Anh hùng Phạm Tuân cùng nhà du hành vũ trụ Liên Xô Viktor Vassilyevich Gorbatko thực hiện chuyến bay trên tàu vũ trụ Soyuz 37 trong chương trình Interkosmos của Liên Xô. Trong chuyến bay, ông đã mang theo lá cờ Tổ quốc cờ đỏ sao vàng cùng bản Di chúc của Chủ tịch Hồ Chí Minh lên trạm quỹ đạo Salyut 6, lần đầu tiên đưa Quốc kỳ Việt Nam tung bay trong không gian vũ trụ. Ông là người Việt Nam đầu tiên và cũng là người châu Á đầu tiên bay vào vũ trụ, đưa Việt Nam trở thành quốc gia thứ 10 trên thế giới có công dân bay vào không gian.
+*   **23/07/1980:** Anh hùng Phạm Tuân cùng nhà du hành vũ trụ Liên Xô Viktor Vassilyevich Gorbatko thực hiện chuyến bay trên tàu vũ trụ Soyuz 37 trong chương trình Interkosmos của Liên Xô. Trong chuyến bay, ông đã mang theo lá cờ Tổ quốc cờ đỏ sao vàng cùng bản Di chúc của Chủ tịch Hồ Chí Minh lên trạm quỹ đạo Salyut 6, lần đầu tiên đưa Quốc kỳ Việt Nam tung bay trong không gian vũ trụ. Ông là người Việt Nam đầu tiên và cũng là người châu Á đầu tiên bay vào vũ trụ, đưa Việt Nam trở thành quốc gia thứ 10 trên thế giới có công dân bay vào không gian. [Nguồn: Thông tấn xã Việt Nam (TTXVN), Bản tin đặc biệt ngày 23/07/1980; Viện Hàn lâm Khoa học và Công nghệ Việt Nam; Báo Nhân Dân]
 
 ![Hình ảnh tư liệu](images/event_20260923_105022.webp)
 
 *Nguồn: Ảnh tư liệu chuyến bay Soyuz 37 (1980) / Wikimedia Commons*
 
 <!-- id: EVT-2768 -->
-*   **18/12/1980:** Quốc hội khóa VI thông qua Hiến pháp năm 1980, Hiến pháp của thời kỳ quá độ lên chủ nghĩa xã hội.
+*   **18/12/1980:** Quốc hội khóa VI thông qua Hiến pháp năm 1980, Hiến pháp của thời kỳ quá độ lên chủ nghĩa xã hội. [Nguồn: Hiến pháp nước Cộng hòa Xã hội Chủ nghĩa Việt Nam năm 1980; Văn kiện Quốc hội Toàn tập, tập 5 (1976 - 1981), NXB Chính trị quốc gia, Hà Nội, 2008]
 
 <!-- id: EVT-2769 -->
-*   **13/01/1981:** Ban Bí thư ra Chỉ thị số 100/CT-TƯ ("Khoán 100") về việc cải tiến công tác khoán, mở rộng khoán sản phẩm đến nhóm và người lao động trong hợp tác xã nông nghiệp.
+*   **13/01/1981:** Ban Bí thư ra Chỉ thị số 100/CT-TƯ ("Khoán 100") về việc cải tiến công tác khoán, mở rộng khoán sản phẩm đến nhóm và người lao động trong hợp tác xã nông nghiệp. [Nguồn: Chỉ thị số 100-CT/TW ngày 13/01/1981 của Ban Bí thư Trung ương Đảng; Văn kiện Đảng Toàn tập, tập 42 (1981), NXB Chính trị quốc gia, Hà Nội, 2005]
 
 <!-- id: EVT-2770 -->
 *   **21/01/1981:** Hội đồng Chính phủ ra Quyết định số 25-CP, nhằm phát huy quyền chủ động sản xuất kinh doanh và quyền tự chủ tài chính của các xí nghiệp quốc doanh.
