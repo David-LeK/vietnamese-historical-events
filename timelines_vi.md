@@ -9409,426 +9409,426 @@
 *   **1994:** Mẹ của Bùi Văn Thuyên là bà Lê Thị Mới - người đã có 5 người con hy sinh trong các cuộc kháng chiến - được Nhà nước Việt Nam tuyên dương danh hiệu "Bà mẹ Việt Nam anh hùng" trong đợt đầu tiên. [Nguồn: Quyết định phong tặng danh hiệu vinh dự Nhà nước Bà mẹ Việt Nam anh hùng năm 1994 của Chủ tịch nước; Sở Lao động - Thương binh và Xã hội tỉnh Hưng Yên; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2906 -->
-*   **1994:** Bà Sùng Thị Plây (mẹ của Vừ A Dính) được Nhà nước truy tặng danh hiệu Bà mẹ Việt Nam Anh hùng trong đợt đầu tiên vì đã có chồng, con và bản thân là liệt sĩ.
+*   **1994:** Bà Sùng Thị Plây (mẹ của Vừ A Dính) được Nhà nước truy tặng danh hiệu Bà mẹ Việt Nam Anh hùng trong đợt đầu tiên vì đã có chồng, con và bản thân là liệt sĩ. [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Bà mẹ Việt Nam anh hùng năm 1994; Ban Tuyên giáo Tỉnh ủy Điện Biên; Báo Tiền Phong]
 
 <!-- id: EVT-2907 -->
-* **1994:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Thành Trung (Phó Tổng Giám đốc Vietnam Airlines, Đại tá Không quân Nhân dân Việt Nam).
+* **1994:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Thành Trung (Phó Tổng Giám đốc Vietnam Airlines, Đại tá Không quân Nhân dân Việt Nam). [Nguồn: Lệnh của Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 1994; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2908 -->
-* **1994:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Ngô Thất Sơn (Chiến sĩ du kích thời chống Pháp).
+* **1994:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Ngô Thất Sơn (Chiến sĩ du kích thời chống Pháp). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 1994; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2909 -->
-* **1994:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Vũ Xuân Thiều (Thượng úy Quân đội Nhân dân Việt Nam, phi công MiG-21).
+* **1994:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Vũ Xuân Thiều (Thượng úy Quân đội Nhân dân Việt Nam, phi công MiG-21). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 1994; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2910 -->
-*   **20-25/01/1994:** Hội nghị đại biểu toàn quốc giữa nhiệm kỳ của Đảng (khóa VII) xác định bốn nguy cơ lớn đối với đất nước và đề ra nhiệm vụ thúc đẩy công nghiệp hóa, hiện đại hóa.
+*   **20-25/01/1994:** Hội nghị đại biểu toàn quốc giữa nhiệm kỳ của Đảng (khóa VII) xác định bốn nguy cơ lớn đối với đất nước và đề ra nhiệm vụ thúc đẩy công nghiệp hóa, hiện đại hóa. [Nguồn: Nghị quyết Hội nghị đại biểu toàn quốc giữa nhiệm kỳ khóa VII của Đảng, tháng 01/1994; Văn kiện Đảng Toàn tập, tập 53 (1994), NXB Chính trị quốc gia, Hà Nội, 2007]
 
 <!-- id: EVT-2911 -->
-*   **27/01/1994:** Thượng viện Hoa Kỳ thông qua sửa đổi với tỷ lệ 62-38 do hai thượng nghị sĩ John Kerry và John McCain bảo trợ, kêu gọi Tổng thống Bill Clinton chấm dứt lệnh cấm vận thương mại kéo dài đối với Việt Nam.
+*   **27/01/1994:** Thượng viện Hoa Kỳ thông qua sửa đổi với tỷ lệ 62-38 do hai thượng nghị sĩ John Kerry và John McCain bảo trợ, kêu gọi Tổng thống Bill Clinton chấm dứt lệnh cấm vận thương mại kéo dài đối với Việt Nam. [Nguồn: U.S. Congressional Record, Senate Amendment No. 1438, Jan. 27, 1994; Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, NXB Chính trị quốc gia, 2002; Báo Nhân Dân]
 
 <!-- id: EVT-2912 -->
-*   **03/02/1994:** Tổng thống Hoa Kỳ Bill Clinton tuyên bố **bãi bỏ hoàn toàn lệnh cấm vận thương mại** kéo dài 19 năm đối với Việt Nam (có hiệu lực từ ngày 04/02/1994), mở đường cho tiến trình bình thường hóa quan hệ song phương.
+*   **03/02/1994:** Tổng thống Hoa Kỳ Bill Clinton tuyên bố **bãi bỏ hoàn toàn lệnh cấm vận thương mại** kéo dài 19 năm đối với Việt Nam (có hiệu lực từ ngày 04/02/1994), mở đường cho tiến trình bình thường hóa quan hệ song phương. [Nguồn: Tuyên bố của Tổng thống Hoa Kỳ Bill Clinton ngày 03/02/1994; Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, NXB Chính trị quốc gia, Hà Nội, 2002; Báo Nhân Dân số ra ngày 05/02/1994]
 
 <!-- id: EVT-2913 -->
-*   **Đầu 1994:** Các hoạt động thử nghiệm kết nối internet đã bắt đầu, với sự hợp tác giữa các nhà khoa học Việt Nam và Úc.
+*   **Đầu 1994:** Các hoạt động thử nghiệm kết nối internet đã bắt đầu, với sự hợp tác giữa các nhà khoa học Việt Nam và Úc. [Nguồn: Viện Công nghệ Thông tin, Viện Hàn lâm Khoa học và Công nghệ Việt Nam; Báo Khoa học và Đời sống; Báo Nhân Dân]
 
 <!-- id: EVT-2914 -->
-*   **03/1994:** Việt Nam tặng Cuba 15.000 tấn gạo để giúp nước bạn vượt qua khó khăn kinh tế.
+*   **03/1994:** Việt Nam tặng Cuba 15.000 tấn gạo để giúp nước bạn vượt qua khó khăn kinh tế. [Nguồn: Bộ Ngoại giao, 60 năm quan hệ hữu nghị truyền thống đặc biệt Việt Nam - Cuba (1960 - 2020), NXB Chính trị quốc gia Sự thật, Hà Nội, 2020; Báo Nhân Dân]
 
 <!-- id: EVT-2915 -->
-*   **04/1994:** Xảy ra cuộc chạm trán trên biển khi Hải quân Việt Nam ra lệnh cho một tàu nghiên cứu của Trung Quốc (đang thăm dò địa chấn cho Crestone) phải rời khỏi vùng biển thuộc quyền tài phán của Việt Nam, và tàu Trung Quốc đã tuân thủ.
+*   **04/1994:** Xảy ra cuộc chạm trán trên biển khi Hải quân Việt Nam ra lệnh cho một tàu nghiên cứu của Trung Quốc (đang thăm dò địa chấn cho Crestone) phải rời khỏi vùng biển thuộc quyền tài phán của Việt Nam, và tàu Trung Quốc đã tuân thủ. [Nguồn: Bộ Tư lệnh Quân chủng Hải quân, Lịch sử Lữ đoàn 171 Hải quân (1966 - 2006), NXB Quân đội nhân dân, 2006; TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, 2013]
 
 <!-- id: EVT-2916 -->
-*   **27/05/1994:** Đường dây tải điện siêu cao áp 500 kV Bắc - Nam mạch 1 chính thức đóng điện vận hành sau hơn 2 năm thi công thần tốc, hợp nhất hệ thống điện ba miền thành lưới điện quốc gia thống nhất, hóa giải cơn khát điện miền Nam và miền Trung; dấu mốc ghi đậm dấu ấn quyết đoán của "Tổng công trình sư" Thủ tướng Võ Văn Kiệt.
+*   **27/05/1994:** Đường dây tải điện siêu cao áp 500 kV Bắc - Nam mạch 1 chính thức đóng điện vận hành sau hơn 2 năm thi công thần tốc, hợp nhất hệ thống điện ba miền thành lưới điện quốc gia thống nhất, hóa giải cơn khát điện miền Nam và miền Trung; dấu mốc ghi đậm dấu ấn quyết đoán của "Tổng công trình sư" Thủ tướng Võ Văn Kiệt. [Nguồn: Tập đoàn Điện lực Việt Nam (EVN), Kỷ yếu 20 năm Đường dây 500 kV Bắc - Nam (1994 - 2014); Thông cáo báo chí của Chính phủ ngày 27/05/1994; Báo Nhân Dân số ra ngày 28/05/1994]
 
 <!-- id: EVT-2917 -->
-*   **23/06/1994:** Quốc hội Việt Nam khóa IX thông qua Nghị quyết phê chuẩn Công ước của Liên Hợp Quốc về Luật Biển năm 1982 (UNCLOS 1982), khẳng định chủ quyền của Việt Nam đối với các vùng nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa, đồng thời tái khẳng định chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa.
+*   **23/06/1994:** Quốc hội Việt Nam khóa IX thông qua Nghị quyết phê chuẩn Công ước của Liên Hợp Quốc về Luật Biển năm 1982 (UNCLOS 1982), khẳng định chủ quyền của Việt Nam đối với các vùng nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa, đồng thời tái khẳng định chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa. [Nguồn: Nghị quyết của Quốc hội khóa IX ngày 23/06/1994 về việc phê chuẩn Công ước của Liên Hợp Quốc về Luật Biển năm 1982; Văn kiện Quốc hội Toàn tập, tập 8 (1992 - 1997), NXB Chính trị quốc gia, 2008]
 
 <!-- id: EVT-2918 -->
-*   **10/09/1994:** Chủ tịch nước Lê Đức Anh ký Lệnh công bố Pháp lệnh quy định Danh hiệu vinh dự Nhà nước "Bà mẹ Việt Nam anh hùng" và Pháp lệnh ưu đãi người hoạt động cách mạng, liệt sĩ và gia đình liệt sĩ, thương binh, bệnh binh (được Ủy ban Thường vụ Quốc hội khóa IX thông qua ngày 29/08/1994), thể hiện sâu sắc đạo lý "Đền ơn đáp nghĩa", "Uống nước nhớ nguồn" của dân tộc Việt Nam.
+*   **10/09/1994:** Chủ tịch nước Lê Đức Anh ký Lệnh công bố Pháp lệnh quy định Danh hiệu vinh dự Nhà nước "Bà mẹ Việt Nam anh hùng" và Pháp lệnh ưu đãi người hoạt động cách mạng, liệt sĩ và gia đình liệt sĩ, thương binh, bệnh binh (được Ủy ban Thường vụ Quốc hội khóa IX thông qua ngày 29/08/1994), thể hiện sâu sắc đạo lý "Đền ơn đáp nghĩa", "Uống nước nhớ nguồn" của dân tộc Việt Nam. [Nguồn: Lệnh số 36-L/CTN ngày 10/09/1994 của Chủ tịch nước công bố Pháp lệnh quy định danh hiệu vinh dự Nhà nước "Bà mẹ Việt Nam anh hùng"; Văn kiện Quốc hội Toàn tập, tập 8 (1992 - 1997), 2008]
 
 <!-- id: EVT-2919 -->
-*   **17/12/1994:** Vịnh Hạ Long được UNESCO công nhận dựa trên tiêu chí về giá trị cảnh quan thiên nhiên độc đáo và quan trọng về mặt thẩm mỹ.
+*   **17/12/1994:** Vịnh Hạ Long được UNESCO công nhận dựa trên tiêu chí về giá trị cảnh quan thiên nhiên độc đáo và quan trọng về mặt thẩm mỹ. [Nguồn: UNESCO, Quyết định của Ủy ban Di sản Thế giới tại kỳ họp thứ 18 (Phuket, 1994); Ban Quản lý Vịnh Hạ Long; Báo Nhân Dân]
 
 <!-- id: EVT-2920 -->
-*   **20/12/1994:** Lò Văn Giá được Đảng và Nhà nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân nhằm ghi nhận những công lao to lớn của ông trong sự nghiệp đấu tranh giải phóng dân tộc.
+*   **20/12/1994:** Lò Văn Giá được Đảng và Nhà nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân nhằm ghi nhận những công lao to lớn của ông trong sự nghiệp đấu tranh giải phóng dân tộc. [Nguồn: Quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ngày 20/12/1994 của Chủ tịch nước; Ban Tuyên giáo Tỉnh ủy Sơn La, Lịch sử Đảng bộ tỉnh Sơn La, NXB Chính trị quốc gia, 2005]
 
 <!-- id: EVT-2921 -->
-* **20/12/1994:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phan Thị Ràng (Liệt sĩ, tham gia chiến đấu tại huyện Hòn Đất, tỉnh Kiên Giang. Hy sinh ngày 9 tháng 1 năm 1962. Nguyên mẫu nhân vật chị Sứ trong tiểu thuyết ''Hòn Đất'').
+* **20/12/1994:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phan Thị Ràng (Liệt sĩ, tham gia chiến đấu tại huyện Hòn Đất, tỉnh Kiên Giang. Hy sinh ngày 9 tháng 1 năm 1962. Nguyên mẫu nhân vật chị Sứ trong tiểu thuyết ''Hòn Đất''). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ngày 20/12/1994; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2922 -->
-*   **1995:** Lãnh tụ Fidel Castro thăm Việt Nam lần thứ hai và xúc động khi nhận được những món quà từ Quảng Trị (bức ảnh thăm vùng giải phóng năm 1973 và hạt tiêu) như minh chứng cho sự hồi sinh của vùng đất này.
+*   **1995:** Lãnh tụ Fidel Castro thăm Việt Nam lần thứ hai và xúc động khi nhận được những món quà từ Quảng Trị (bức ảnh thăm vùng giải phóng năm 1973 và hạt tiêu) như minh chứng cho sự hồi sinh của vùng đất này. [Nguồn: Bộ Ngoại giao, 60 năm quan hệ hữu nghị truyền thống đặc biệt Việt Nam - Cuba (1960 - 2020), NXB Chính trị quốc gia Sự thật, Hà Nội, 2020; Báo Nhân Dân]
 
 <!-- id: EVT-2923 -->
-*   **1995:** Đảng và Nhà nước truy tặng danh hiệu Anh hùng Lực lượng Vũ trang Nhân dân cho liệt sĩ Nguyễn Văn Trỗi.
+*   **1995:** Đảng và Nhà nước truy tặng danh hiệu Anh hùng Lực lượng Vũ trang Nhân dân cho liệt sĩ Nguyễn Văn Trỗi. [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 1995; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2924 -->
-*   **1995:** Trong bối cảnh Iraq bị Mỹ và quốc tế cấm vận nghiêm ngặt, Đại sứ Việt Nam tại Iraq Nguyễn Quang Khai đã thuyết phục Công ty Lương thực miền Bắc (Vinafood 1) bán chịu một tàu gạo (25.000 - 30.000 tấn) cho Iraq. Sự kiện này mở đầu cho việc Việt Nam trở thành nhà cung cấp gạo chủ chốt cho Iraq thông qua chương trình "Đổi dầu lấy lương thực" của Liên Hợp Quốc.
+*   **1995:** Trong bối cảnh Iraq bị Mỹ và quốc tế cấm vận nghiêm ngặt, Đại sứ Việt Nam tại Iraq Nguyễn Quang Khai đã thuyết phục Công ty Lương thực miền Bắc (Vinafood 1) bán chịu một tàu gạo (25.000 - 30.000 tấn) cho Iraq. Sự kiện này mở đầu cho việc Việt Nam trở thành nhà cung cấp gạo chủ chốt cho Iraq thông qua chương trình "Đổi dầu lấy lương thực" của Liên Hợp Quốc. [Nguồn: Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, NXB Chính trị quốc gia, Hà Nội, 2002; Báo Nhân Dân]
 
 <!-- id: EVT-2925 -->
-* **1995:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Thị Định (Thiếu tướng Quân đội Nhân dân Việt Nam, Phó Chủ tịch Hội đồng Nhà nước).
+* **1995:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Thị Định (Thiếu tướng Quân đội Nhân dân Việt Nam, Phó Chủ tịch Hội đồng Nhà nước). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 1995; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2926 -->
-* **1995:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hà Văn Chúc (Phi công Không quân Nhân dân Việt Nam).
+* **1995:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hà Văn Chúc (Phi công Không quân Nhân dân Việt Nam). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 1995; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2927 -->
-* **1995:** Anh hùng Lực lượng vũ trang nhân dân Hoàng Thế Thiện (Cấp bậc, chức vụ đề nghị Chủ tịch nước xét truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân: Thiếu tướng, Chính ủy Quân đoàn 4, Bộ Quốc phòng trong Kháng chiến chống Mỹ) từ trần.
+* **1995:** Anh hùng Lực lượng vũ trang nhân dân Hoàng Thế Thiện (Cấp bậc, chức vụ đề nghị Chủ tịch nước xét truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân: Thiếu tướng, Chính ủy Quân đoàn 4, Bộ Quốc phòng trong Kháng chiến chống Mỹ) từ trần. [Nguồn: Ban Liên lạc Cựu chiến binh Quân đoàn 4, Thiếu tướng Hoàng Thế Thiện - Vị tướng chính trị tài ba, NXB Quân đội nhân dân, Hà Nội, 2005; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2928 -->
-*   **01/1995:** Hội nghị lần thứ 8 Ban Chấp hành Trung ương Đảng (khóa VII) bàn về "Tiếp tục xây dựng và hoàn thiện Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam".
+*   **01/1995:** Hội nghị lần thứ 8 Ban Chấp hành Trung ương Đảng (khóa VII) bàn về "Tiếp tục xây dựng và hoàn thiện Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam". [Nguồn: Nghị quyết Hội nghị lần thứ 8 Ban Chấp hành Trung ương Đảng (khóa VII) ngày 23/01/1995 về tiếp tục xây dựng và hoàn thiện Nhà nước; Văn kiện Đảng Toàn tập, tập 54 (1995), NXB Chính trị quốc gia, 2007]
 
 <!-- id: EVT-2929 -->
-*   **28/01/1995:** Việt Nam và Hoa Kỳ chính thức khai trương Văn phòng Liên lạc (Liaison Office) tại thủ đô mỗi nước, đánh dấu bước phát triển quan trọng tiến tới bình thường hóa hoàn toàn quan hệ ngoại giao.
+*   **28/01/1995:** Việt Nam và Hoa Kỳ chính thức khai trương Văn phòng Liên lạc (Liaison Office) tại thủ đô mỗi nước, đánh dấu bước phát triển quan trọng tiến tới bình thường hóa hoàn toàn quan hệ ngoại giao. [Nguồn: Tuyên bố chung của Bộ Ngoại giao Việt Nam và Bộ Ngoại giao Hoa Kỳ ngày 28/01/1995; Báo Nhân Dân số ra ngày 29/01/1995; Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, 2002]
 
 <!-- id: EVT-2930 -->
-*   **09/02/1995:** Philippin chính thức phản đối việc Cộng hòa Nhân dân Trung Hoa chiếm đóng và xây dựng nơi trú ẩn trên đá Vành Khăn (Mischief Reef) ở quần đảo Trường Sa.
+*   **09/02/1995:** Philippin chính thức phản đối việc Cộng hòa Nhân dân Trung Hoa chiếm đóng và xây dựng nơi trú ẩn trên đá Vành Khăn (Mischief Reef) ở quần đảo Trường Sa. [Nguồn: Tuyên bố của Tổng thống Philippines Fidel Ramos ngày 08/02/1995; Tuyên bố của Bộ Ngoại giao nước CHXHCN Việt Nam ngày 10/02/1995; TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, 2013]
 
 <!-- id: EVT-2931 -->
-*   **05/1995:** Việt Nam tiếp tục viện trợ thêm 20.000 tấn gạo cho Cuba.
+*   **05/1995:** Việt Nam tiếp tục viện trợ thêm 20.000 tấn gạo cho Cuba. [Nguồn: Bộ Ngoại giao, 60 năm quan hệ hữu nghị truyền thống đặc biệt Việt Nam - Cuba (1960 - 2020), NXB Chính trị quốc gia Sự thật, Hà Nội, 2020; Báo Nhân Dân]
 
 <!-- id: EVT-2932 -->
-*   **10/07/1995:** Nhạc sĩ Văn Cao (tác giả Quốc ca "Tiến quân ca", cây đại thụ của nền tân nhạc và thi ca Việt Nam) qua đời tại Hà Nội, hưởng thọ 72 tuổi. Năm 1996, ông được Đảng và Nhà nước truy tặng Giải thưởng Hồ Chí Minh về Văn học Nghệ thuật đợt I.
+*   **10/07/1995:** Nhạc sĩ Văn Cao (tác giả Quốc ca "Tiến quân ca", cây đại thụ của nền tân nhạc và thi ca Việt Nam) qua đời tại Hà Nội, hưởng thọ 72 tuổi. Năm 1996, ông được Đảng và Nhà nước truy tặng Giải thưởng Hồ Chí Minh về Văn học Nghệ thuật đợt I. [Nguồn: Thông cáo đặc biệt của Hội Nhạc sĩ Việt Nam và Bộ Văn hóa - Thông tin; Báo Nhân Dân số ra ngày 12/07/1995; Báo Tiền Phong]
 
 <!-- id: EVT-2933 -->
-*   **12/07/1995:** Tổng thống Mỹ Bill Clinton và Thủ tướng Việt Nam Võ Văn Kiệt đồng thời tuyên bố **bình thường hóa quan hệ ngoại giao** giữa hai nước.
+*   **12/07/1995:** Tổng thống Mỹ Bill Clinton và Thủ tướng Việt Nam Võ Văn Kiệt đồng thời tuyên bố **bình thường hóa quan hệ ngoại giao** giữa hai nước. [Nguồn: Tuyên bố của Thủ tướng Chính phủ Võ Văn Kiệt về việc bình thường hóa quan hệ ngoại giao Việt Nam - Hoa Kỳ ngày 12/07/1995; Báo Nhân Dân số ra ngày 13/07/1995]
 
 ![Hình ảnh tư liệu](images/event_20260923_105829.webp)
 
 *Nguồn: Ảnh tư liệu Nhà Trắng / Báo Tuổi Trẻ*
 
 <!-- id: EVT-2934 -->
-*   **28/07/1995:** Việt Nam chính thức được kết nạp làm **thành viên thứ 7** của Hiệp hội các quốc gia Đông Nam Á (ASEAN) tại Brunei.
+*   **28/07/1995:** Việt Nam chính thức được kết nạp làm **thành viên thứ 7** của Hiệp hội các quốc gia Đông Nam Á (ASEAN) tại Brunei. [Nguồn: Tuyên bố kết nạp nước CHXHCN Việt Nam vào Hiệp hội các Quốc gia Đông Nam Á tại Bandar Seri Begawan ngày 28/07/1995; Báo Nhân Dân số ra ngày 29/07/1995; Ban Thư ký ASEAN]
 
 ![Hình ảnh tư liệu](images/event_20260923_105715.webp)
 
 *Nguồn: Ảnh: Trần Sơn – TTXVN*
 
 <!-- id: EVT-2935 -->
-*   **03/08/1995:** Liệt sĩ Công an nhân dân Bùi Thị Cúc (Trần Thị Lan) được Nhà nước truy tặng danh hiệu **Anh hùng Lực lượng Vũ trang Nhân dân** vì những chiến công xuất sắc và sự hy sinh anh dũng trong cuộc kháng chiến chống thực dân Pháp.
+*   **03/08/1995:** Liệt sĩ Công an nhân dân Bùi Thị Cúc (Trần Thị Lan) được Nhà nước truy tặng danh hiệu **Anh hùng Lực lượng Vũ trang Nhân dân** vì những chiến công xuất sắc và sự hy sinh anh dũng trong cuộc kháng chiến chống thực dân Pháp. [Nguồn: Quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ngày 03/08/1995 của Chủ tịch nước; Bộ Công an, Gương sáng Anh hùng Công an nhân dân, NXB Công an nhân dân, 2005]
 
 <!-- id: EVT-2936 -->
-* **30/08/1995:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Ngọc Bảo (Tiểu đoàn phó, Tiểu đoàn 122, Cục Quân báo, Bộ Tổng Tham mưu. Người chỉ huy trận đánh thu được tấm bản đồ Điện Biên Phủ của Pháp. Ông hy sinh ngày 8 tháng 4 năm 1954 trong chiến dịch Điện Biên Phủ).
+* **30/08/1995:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Ngọc Bảo (Tiểu đoàn phó, Tiểu đoàn 122, Cục Quân báo, Bộ Tổng Tham mưu. Người chỉ huy trận đánh thu được tấm bản đồ Điện Biên Phủ của Pháp. Ông hy sinh ngày 8 tháng 4 năm 1954 trong chiến dịch Điện Biên Phủ). [Nguồn: Lệnh số 445-KT/CTN ngày 30/08/1995 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2937 -->
-* **30/08/1995:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Thị Nê (Nữ du kích Củ Chi, huyện đội phó huyện đội Nam Củ Chi, người được thay mặt Đại hội Anh hùng chiến sĩ thi đua toàn Miền Nam lần thứ 2 (1967) viết thư gửi Bác Hồ để báo cáo tình hình hoạt động cách mạng của lực lượng du kích Củ Chi).
+* **30/08/1995:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Thị Nê (Nữ du kích Củ Chi, huyện đội phó huyện đội Nam Củ Chi, người được thay mặt Đại hội Anh hùng chiến sĩ thi đua toàn Miền Nam lần thứ 2 (1967) viết thư gửi Bác Hồ để báo cáo tình hình hoạt động cách mạng của lực lượng du kích Củ Chi). [Nguồn: Lệnh số 445-KT/CTN ngày 30/08/1995 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2938 -->
-*   **Cuối năm 1995:** Đại tá, Anh hùng tình báo Đinh Thị Vân từ trần tại Hà Nội, hưởng thọ 79 tuổi. Bà là một huyền thoại của ngành tình báo quốc phòng, người đã hy sinh hạnh phúc riêng tư vì Tổ quốc, và sau này được đặt tên cho các con đường tại Nam Định và Đà Nẵng.
+*   **Cuối năm 1995:** Đại tá, Anh hùng tình báo Đinh Thị Vân từ trần tại Hà Nội, hưởng thọ 79 tuổi. Bà là một huyền thoại của ngành tình báo quốc phòng, người đã hy sinh hạnh phúc riêng tư vì Tổ quốc, và sau này được đặt tên cho các con đường tại Nam Định và Đà Nẵng. [Nguồn: Tổng cục Tình báo Quốc phòng, Lịch sử Tình báo Quốc phòng Việt Nam (1945 - 2005), NXB Quân đội nhân dân, 2005; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2939 -->
 
 ### **Thời kỳ Đẩy mạnh Công nghiệp hóa, Hiện đại hóa (1996 - 2000)**
 
-*   **1996:** Sau khi chia tách tỉnh Quảng Nam - Đà Nẵng, huyện Hoàng Sa được đặt trực thuộc sự quản lý của thành phố trực thuộc trung ương Đà Nẵng.
+*   **1996:** Sau khi chia tách tỉnh Quảng Nam - Đà Nẵng, huyện Hoàng Sa được đặt trực thuộc sự quản lý của thành phố trực thuộc trung ương Đà Nẵng. [Nguồn: Nghị quyết của Quốc hội khóa IX ngày 06/11/1996 về việc chia và điều chỉnh địa giới hành chính một số tỉnh; Văn kiện Quốc hội Toàn tập, tập 8 (1992 - 1997), NXB Chính trị quốc gia, 2008]
 
 <!-- id: EVT-2940 -->
-*   **1996:** Huỳnh Tấn Phát được truy tặng Giải thưởng Hồ Chí Minh về văn học, nghệ thuật (lĩnh vực kiến trúc) cho các tác phẩm quy hoạch thủ đô Hà Nội (1981) và nhiều công trình quan trọng khác.
+*   **1996:** Huỳnh Tấn Phát được truy tặng Giải thưởng Hồ Chí Minh về văn học, nghệ thuật (lĩnh vực kiến trúc) cho các tác phẩm quy hoạch thủ đô Hà Nội (1981) và nhiều công trình quan trọng khác. [Nguồn: Quyết định số 990-KT/CTN ngày 10/09/1996 của Chủ tịch nước truy tặng Giải thưởng Hồ Chí Minh đợt 1; Bộ Văn hóa - Thông tin; Báo Nhân Dân]
 
 <!-- id: EVT-2941 -->
-* **1996:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Ngọc Nại (Đội trưởng đội du kích Hồng Hà).
+* **1996:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Ngọc Nại (Đội trưởng đội du kích Hồng Hà). [Nguồn: Lệnh của Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 1996; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2942 -->
-* **1996:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trần Công An (Đại tá công binh).
+* **1996:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trần Công An (Đại tá công binh). [Nguồn: Lệnh của Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 1996; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2943 -->
-* **1996:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trần Văn Tư (Đội phó Đội Trinh sát Vũ trang Bến Tre).
+* **1996:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trần Văn Tư (Đội phó Đội Trinh sát Vũ trang Bến Tre). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 1996; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2944 -->
-* **1996:** Anh hùng Lực lượng vũ trang nhân dân Tô Quyền (Đại tá Công an Nhân dân Việt Nam có công với Cách mạng) từ trần.
+* **1996:** Anh hùng Lực lượng vũ trang nhân dân Tô Quyền (Đại tá Công an Nhân dân Việt Nam có công với Cách mạng) từ trần. [Nguồn: Công an Thành phố Hải Phòng, Lịch sử Công an nhân dân thành phố Hải Phòng (1945 - 2005), NXB Công an nhân dân, 2005; Báo Công an nhân dân]
 
 <!-- id: EVT-2945 -->
-*   **29/01/1996:** Đảng và Nhà nước truy tặng danh hiệu Anh hùng Lực lượng Vũ trang Nhân dân cho đồng chí Thiều Văn Chỏi vì những chiến công đặc biệt xuất sắc.
+*   **29/01/1996:** Đảng và Nhà nước truy tặng danh hiệu Anh hùng Lực lượng Vũ trang Nhân dân cho đồng chí Thiều Văn Chỏi vì những chiến công đặc biệt xuất sắc. [Nguồn: Lệnh số 472-KT/CTN ngày 29/01/1996 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2946 -->
-* **29/01/1996:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Hữu Thúy (Đại tá, cán bộ tình báo chiến lược thuộc lưới tình báo A22).
+* **29/01/1996:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Hữu Thúy (Đại tá, cán bộ tình báo chiến lược thuộc lưới tình báo A22). [Nguồn: Lệnh số 472-KT/CTN ngày 29/01/1996 của Chủ tịch nước phong tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2947 -->
-*   **12/03/1996:** Đại úy Hoàng Cầm (tên thật là Đỗ Văn Cầm, sinh năm 1916), nguyên Tiểu đội trưởng nuôi quân thuộc Sư đoàn 308 - người sáng tạo ra bếp Hoàng Cầm huyền thoại - từ trần tại Bệnh viện Trung ương Quân đội 108 (Hà Nội), hưởng thọ 80 tuổi.
+*   **12/03/1996:** Đại úy Hoàng Cầm (tên thật là Đỗ Văn Cầm, sinh năm 1916), nguyên Tiểu đội trưởng nuôi quân thuộc Sư đoàn 308 - người sáng tạo ra bếp Hoàng Cầm huyền thoại - từ trần tại Bệnh viện Trung ương Quân đội 108 (Hà Nội), hưởng thọ 80 tuổi. [Nguồn: Tổng cục Hậu cần, Lịch sử Ngành Quân nhu Quân đội nhân dân Việt Nam (1946 - 2006), NXB Quân đội nhân dân, 2006; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2948 -->
-*   **28/06 - 01/07/1996:** Đại hội đại biểu toàn quốc lần thứ VIII của Đảng Cộng sản Việt Nam họp tại Hà Nội, tái bầu đồng chí Đỗ Mười làm Tổng Bí thư Ban Chấp hành Trung ương Đảng. Đại hội tổng kết 10 năm Đổi mới, khẳng định đất nước đã thoát khỏi khủng hoảng kinh tế - xã hội và chính thức đề ra nhiệm vụ bước vào thời kỳ mới: **đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước**, phấn đấu đến năm 2020 cơ bản trở thành một nước công nghiệp.
+*   **28/06 - 01/07/1996:** Đại hội đại biểu toàn quốc lần thứ VIII của Đảng Cộng sản Việt Nam họp tại Hà Nội, tái bầu đồng chí Đỗ Mười làm Tổng Bí thư Ban Chấp hành Trung ương Đảng. Đại hội tổng kết 10 năm Đổi mới, khẳng định đất nước đã thoát khỏi khủng hoảng kinh tế - xã hội và chính thức đề ra nhiệm vụ bước vào thời kỳ mới: **đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước**, phấn đấu đến năm 2020 cơ bản trở thành một nước công nghiệp. [Nguồn: Báo cáo chính trị của Ban Chấp hành Trung ương Đảng tại Đại hội đại biểu toàn quốc lần thứ VIII; Văn kiện Đảng Toàn tập, tập 55 (1996), NXB Chính trị quốc gia, Hà Nội, 2007]
 
 <!-- id: EVT-2949 -->
-*   **21/08/1996:** Thủ tướng Chính phủ Võ Văn Kiệt ban hành Quyết định số 544/TTg về việc phê duyệt quy hoạch tổng thể thoát lũ ra biển Tây và kiểm soát lũ vùng Tứ giác Long Xuyên và Đồng Tháp Mười, kết hợp chương trình ngọt hóa bán đảo Cà Mau. Công trình thủy lợi chiến lược này đã biến các vùng đất trũng nhiễm phèn nặng nề thành vựa lúa và trung tâm nuôi trồng thủy sản trù phú bậc nhất, bảo đảm an ninh lương thực quốc gia.
+*   **21/08/1996:** Thủ tướng Chính phủ Võ Văn Kiệt ban hành Quyết định số 544/TTg về việc phê duyệt quy hoạch tổng thể thoát lũ ra biển Tây và kiểm soát lũ vùng Tứ giác Long Xuyên và Đồng Tháp Mười, kết hợp chương trình ngọt hóa bán đảo Cà Mau. Công trình thủy lợi chiến lược này đã biến các vùng đất trũng nhiễm phèn nặng nề thành vựa lúa và trung tâm nuôi trồng thủy sản trù phú bậc nhất, bảo đảm an ninh lương thực quốc gia. [Nguồn: Quyết định số 544/TTg ngày 21/08/1996 của Thủ tướng Chính phủ; Văn phòng Chính phủ, Dấu ấn Võ Văn Kiệt trong công trình thoát lũ Tứ giác Long Xuyên, NXB Tổng hợp TP.HCM, 2012]
 
 <!-- id: EVT-2950 -->
-*   **1997:** **Cuộc khủng hoảng tài chính - tiền tệ khu vực** bắt đầu, gây ảnh hưởng tiêu cực đến nền kinh tế Việt Nam, làm suy giảm tốc độ tăng trưởng và thu hút đầu tư.
+*   **1997:** **Cuộc khủng hoảng tài chính - tiền tệ khu vực** bắt đầu, gây ảnh hưởng tiêu cực đến nền kinh tế Việt Nam, làm suy giảm tốc độ tăng trưởng và thu hút đầu tư. [Nguồn: Ngân hàng Nhà nước Việt Nam, Báo cáo thường niên 1997; Viện Kinh tế Việt Nam, Tác động của khủng hoảng tài chính châu Á đến kinh tế Việt Nam, NXB Khoa học Xã hội, 1998]
 
 <!-- id: EVT-2951 -->
-*   **1997:** Hài cốt của liệt sĩ Nguyễn Hữu Quế, người đã ngã xuống bảo vệ cao điểm 815 năm 1979, được gia đình tìm thấy tại Cốc Càng (Trà Lĩnh, Cao Bằng) và cất bốc đưa về quê nhà Thanh Hóa.
+*   **1997:** Hài cốt của liệt sĩ Nguyễn Hữu Quế, người đã ngã xuống bảo vệ cao điểm 815 năm 1979, được gia đình tìm thấy tại Cốc Càng (Trà Lĩnh, Cao Bằng) và cất bốc đưa về quê nhà Thanh Hóa. [Nguồn: Bộ Chỉ huy Quân sự tỉnh Hà Giang, Hồ sơ quy tập hài cốt liệt sĩ mặt trận Vị Xuyên; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2952 -->
-* **1997:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Độ (Chiến sĩ biệt động thành phố Đà Nẵng).
+* **1997:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Độ (Chiến sĩ biệt động thành phố Đà Nẵng). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 1997; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2001]
 
 <!-- id: EVT-2953 -->
-* **1997:** Anh hùng Lực lượng vũ trang nhân dân Trần Hải Phụng (Hai Phụng) (Thiếu tướng, nguyên Tư lệnh Quân khu Sài Gòn – Gia Định, Phó Tư lệnh Quân khu 7. Phó Trưởng đoàn chuyên gia 385 đặc trách về công tác phòng thủ đô thị cho Cuba) từ trần.
+* **1997:** Anh hùng Lực lượng vũ trang nhân dân Trần Hải Phụng (Hai Phụng) (Thiếu tướng, nguyên Tư lệnh Quân khu Sài Gòn – Gia Định, Phó Tư lệnh Quân khu 7. Phó Trưởng đoàn chuyên gia 385 đặc trách về công tác phòng thủ đô thị cho Cuba) từ trần. [Nguồn: Bộ Tư lệnh Quân khu 7, Thiếu tướng Trần Hải Phụng - Cuộc đời và sự nghiệp, NXB Quân đội nhân dân, 2003; Báo Quân khu 7]
 
 <!-- id: EVT-2954 -->
-*   **07/04/1997:** Tại Hà Nội, Bộ trưởng Tài chính Việt Nam Nguyễn Sinh Hùng và Bộ trưởng Tài chính Hoa Kỳ Robert Rubin ký kết Hiệp định song phương về giải quyết nợ. Phía Mỹ đặt điều kiện tiên quyết buộc Việt Nam phải kế thừa và thanh toán toàn bộ khoản nợ khoảng 145 triệu USD (gồm 76 triệu USD nợ gốc và 69 triệu USD lãi tích lũy) của chính quyền Việt Nam Cộng hòa vay trước năm 1975, đổi lại Mỹ mới dỡ bỏ phong tỏa tài sản, mở đường cho Việt Nam tiếp cận các tổ chức tài chính quốc tế (WB, IMF, Ngân hàng Xuất Nhập khẩu Hoa Kỳ) và đàm phán Hiệp định Thương mại song phương (BTA). Dù phải gánh chịu đòi hỏi bất công khi phải trả nợ cho chính các khoản vay của chế độ do Mỹ dựng lên và tài trợ trong cuộc chiến tàn phá đất nước mà không nhận được bất kỳ khoản bồi thường chiến tranh nào (như Mỹ từng cam kết tại Điều 21 Hiệp định Paris 1973), Việt Nam đã chấp thuận vì mục tiêu hòa bình, bình thường hóa quan hệ và hội nhập quốc tế; toàn bộ khoản nợ đã được hoàn tất thanh toán vào ngày 31/12/2019.
+*   **07/04/1997:** Tại Hà Nội, Bộ trưởng Tài chính Việt Nam Nguyễn Sinh Hùng và Bộ trưởng Tài chính Hoa Kỳ Robert Rubin ký kết Hiệp định song phương về giải quyết nợ. Phía Mỹ đặt điều kiện tiên quyết buộc Việt Nam phải kế thừa và thanh toán toàn bộ khoản nợ khoảng 145 triệu USD (gồm 76 triệu USD nợ gốc và 69 triệu USD lãi tích lũy) của chính quyền Việt Nam Cộng hòa vay trước năm 1975, đổi lại Mỹ mới dỡ bỏ phong tỏa tài sản, mở đường cho Việt Nam tiếp cận các tổ chức tài chính quốc tế (WB, IMF, Ngân hàng Xuất Nhập khẩu Hoa Kỳ) và đàm phán Hiệp định Thương mại song phương (BTA). Dù phải gánh chịu đòi hỏi bất công khi phải trả nợ cho chính các khoản vay của chế độ do Mỹ dựng lên và tài trợ trong cuộc chiến tàn phá đất nước mà không nhận được bất kỳ khoản bồi thường chiến tranh nào (như Mỹ từng cam kết tại Điều 21 Hiệp định Paris 1973), Việt Nam đã chấp thuận vì mục tiêu hòa bình, bình thường hóa quan hệ và hội nhập quốc tế; toàn bộ khoản nợ đã được hoàn tất thanh toán vào ngày 31/12/2019. [Nguồn: Hiệp định dàn xếp nợ song phương giữa Chính phủ CHXHCN Việt Nam và Chính phủ Hợp chúng quốc Hoa Kỳ ký ngày 07/04/1997 tại Hà Nội; Bộ Tài chính; Báo Nhân Dân]
 
 <!-- id: EVT-2955 -->
-*   **05/1997 - 11/1997:** Vụ biến động nông dân Thái Bình bùng phát khi hàng ngàn người dân tại nhiều huyện (Quỳnh Phụ, Thái Thụy, Tiền Hải, Hưng Hà, Đông Hưng) tập trung khiếu kiện, biểu tình phản đối nạn tham nhũng, lạm thu thuế và sai phạm quản lý đất đai của cán bộ cơ sở, là động lực trực tiếp để Bộ Chính trị ban hành Chỉ thị 30-CT/TW về xây dựng Quy chế Dân chủ ở cơ sở.
+*   **05/1997 - 11/1997:** Vụ biến động nông dân Thái Bình bùng phát khi hàng ngàn người dân tại nhiều huyện (Quỳnh Phụ, Thái Thụy, Tiền Hải, Hưng Hà, Đông Hưng) tập trung khiếu kiện, biểu tình phản đối nạn tham nhũng, lạm thu thuế và sai phạm quản lý đất đai của cán bộ cơ sở, là động lực trực tiếp để Bộ Chính trị ban hành Chỉ thị 30-CT/TW về xây dựng Quy chế Dân chủ ở cơ sở. [Nguồn: Ban Chấp hành Trung ương Đảng, Kết luận của Bộ Chính trị về tình hình mất ổn định ở Thái Bình năm 1997; Văn kiện Đảng Toàn tập, tập 56 (1997), NXB Chính trị quốc gia, 2007; Báo Nhân Dân]
 
 <!-- id: EVT-2956 -->
-*   **01/07/1997:** Luật Hợp tác xã có hiệu lực, tạo cơ sở pháp lý để chuyển đổi các hợp tác xã nông nghiệp sang mô hình dịch vụ kiểu mới, phục vụ kinh tế hộ.
+*   **01/07/1997:** Luật Hợp tác xã có hiệu lực, tạo cơ sở pháp lý để chuyển đổi các hợp tác xã nông nghiệp sang mô hình dịch vụ kiểu mới, phục vụ kinh tế hộ. [Nguồn: Luật Hợp tác xã năm 1996, thông qua ngày 20/03/1996, có hiệu lực ngày 01/07/1997; Liên minh Hợp tác xã Việt Nam; Công báo nước CHXHCN Việt Nam]
 
 <!-- id: EVT-2957 -->
-*   **23/07/1997:** Chủ tịch nước quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho đồng chí Hoàng Lê Kha (Ủy viên Ban Thường vụ Tỉnh ủy Tây Ninh, bị hành quyết bằng máy chém dưới thời Ngô Đình Diệm) cùng các liệt sĩ thiếu niên tiêu biểu trong các cuộc kháng chiến: Kim Đồng (Nông Văn Dền - Đội trưởng đầu tiên của Đội Thiếu niên Tiền phong Hồ Chí Minh), Dương Văn Nội (Đội Thiếu niên Cứu quốc Thủ đô), Lê Thị Tuyết (nữ giao liên thiếu niên anh dũng tại Gio Linh, Quảng Trị), Lưu Quý An (thiếu niên dũng sĩ diệt xe bọc thép), Dương Văn Mạnh và Trần Văn Hai.
+*   **23/07/1997:** Chủ tịch nước quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho đồng chí Hoàng Lê Kha (Ủy viên Ban Thường vụ Tỉnh ủy Tây Ninh, bị hành quyết bằng máy chém dưới thời Ngô Đình Diệm) cùng các liệt sĩ thiếu niên tiêu biểu trong các cuộc kháng chiến: Kim Đồng (Nông Văn Dền - Đội trưởng đầu tiên của Đội Thiếu niên Tiền phong Hồ Chí Minh), Dương Văn Nội (Đội Thiếu niên Cứu quốc Thủ đô), Lê Thị Tuyết (nữ giao liên thiếu niên anh dũng tại Gio Linh, Quảng Trị), Lưu Quý An (thiếu niên dũng sĩ diệt xe bọc thép), Dương Văn Mạnh và Trần Văn Hai. [Nguồn: Lệnh số 695-KT/CTN ngày 23/07/1997 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2001]
 
 <!-- id: EVT-2958 -->
-*   **01/08/1997 (Đinh Sửu):** Cựu hoàng Bảo Đại (Nguyễn Phúc Vĩnh Thụy), vị hoàng đế cuối cùng của chế độ quân chủ chuyên chế trong lịch sử Việt Nam, qua đời tại bệnh viện quân y Val-de-Grâce ở Paris (Pháp), hưởng thọ 83 tuổi, khép lại trọn vẹn chương sử phong kiến dân tộc.
+*   **01/08/1997 (Đinh Sửu):** Cựu hoàng Bảo Đại (Nguyễn Phúc Vĩnh Thụy), vị hoàng đế cuối cùng của chế độ quân chủ chuyên chế trong lịch sử Việt Nam, qua đời tại bệnh viện quân y Val-de-Grâce ở Paris (Pháp), hưởng thọ 83 tuổi, khép lại trọn vẹn chương sử phong kiến dân tộc. [Nguồn: Bảo Đại, Con rồng Việt Nam (Mémoires), Plon, Paris, 1980; Le Monde số ra ngày 02/08/1997; Thông tấn xã AFP]
 
 <!-- id: EVT-2959 -->
-*   **24/09/1997:** Kỳ họp thứ nhất Quốc hội khóa X đã bầu đồng chí Trần Đức Lương làm Chủ tịch nước và bầu đồng chí Phan Văn Khải làm Thủ tướng Chính phủ nước CHXHCN Việt Nam (ngày 25/09/1997). Cả hai đồng chí đều đảm nhiệm cương vị người đứng đầu Nhà nước và Chính phủ trong hai nhiệm kỳ liên tiếp (1997 - 2006), chèo lái nền kinh tế vượt qua Khủng hoảng tài chính châu Á và hội nhập quốc tế sâu rộng.
+*   **24/09/1997:** Kỳ họp thứ nhất Quốc hội khóa X đã bầu đồng chí Trần Đức Lương làm Chủ tịch nước và bầu đồng chí Phan Văn Khải làm Thủ tướng Chính phủ nước CHXHCN Việt Nam (ngày 25/09/1997). Cả hai đồng chí đều đảm nhiệm cương vị người đứng đầu Nhà nước và Chính phủ trong hai nhiệm kỳ liên tiếp (1997 - 2006), chèo lái nền kinh tế vượt qua Khủng hoảng tài chính châu Á và hội nhập quốc tế sâu rộng. [Nguồn: Nghị quyết của Quốc hội khóa X tại Kỳ họp thứ nhất, ngày 24/09/1997; Văn kiện Quốc hội Toàn tập, tập 9 (1997 - 2002), NXB Chính trị quốc gia, Hà Nội, 2008]
 
 <!-- id: EVT-2960 -->
-*   **19/11/1997:** Dịch vụ internet chính thức được cung cấp rộng rãi tại Việt Nam, do Tập đoàn Bưu chính Viễn thông Việt Nam (VNPT) và Công ty Cổ phần Netnam là những đơn vị đầu tiên triển khai.
+*   **19/11/1997:** Dịch vụ internet chính thức được cung cấp rộng rãi tại Việt Nam, do Tập đoàn Bưu chính Viễn thông Việt Nam (VNPT) và Công ty Cổ phần Netnam là những đơn vị đầu tiên triển khai. [Nguồn: Ban Chỉ đạo Quốc gia về Công nghệ Thông tin, Họp báo chính thức mở cửa Internet tại Việt Nam ngày 19/11/1997; Tập đoàn Bưu chính Viễn thông Việt Nam (VNPT); Báo Nhân Dân]
 
 <!-- id: EVT-2961 -->
-*   **12/1997:** Hội nghị lần thứ 4 Ban Chấp hành Trung ương Đảng (khóa VIII) đề ra chủ trương nêu cao tinh thần tự lực, tự cường, phát huy nội lực để vượt qua khó khăn, thách thức từ cuộc khủng hoảng.
+*   **12/1997:** Hội nghị lần thứ 4 Ban Chấp hành Trung ương Đảng (khóa VIII) đề ra chủ trương nêu cao tinh thần tự lực, tự cường, phát huy nội lực để vượt qua khó khăn, thách thức từ cuộc khủng hoảng. [Nguồn: Nghị quyết Hội nghị lần thứ 4 Ban Chấp hành Trung ương Đảng (khóa VIII) ngày 29/12/1997; Văn kiện Đảng Toàn tập, tập 56 (1997), NXB Chính trị quốc gia, Hà Nội, 2007]
 
 <!-- id: EVT-2962 -->
-*   **29/12/1997:** Hội nghị lần thứ 4 Ban Chấp hành Trung ương Đảng (khóa VIII) bầu Thượng tướng Lê Khả Phiêu làm Tổng Bí thư Ban Chấp hành Trung ương Đảng sau khi đồng chí Đỗ Mười xin rút để chuyển giao thế hệ lãnh đạo (đồng chí Đỗ Mười được cử làm Cố vấn Ban Chấp hành Trung ương Đảng). Trên cương vị Tổng Bí thư, đồng chí Lê Khả Phiêu chú trọng đặc biệt công tác xây dựng, chỉnh đốn Đảng (Nghị quyết Trung ương 6 lần 2 khóa VIII năm 1999), giữ vững nguyên tắc tập trung dân chủ và bảo vệ vững chắc chủ quyền biên giới lãnh thổ quốc gia.
+*   **29/12/1997:** Hội nghị lần thứ 4 Ban Chấp hành Trung ương Đảng (khóa VIII) bầu Thượng tướng Lê Khả Phiêu làm Tổng Bí thư Ban Chấp hành Trung ương Đảng sau khi đồng chí Đỗ Mười xin rút để chuyển giao thế hệ lãnh đạo (đồng chí Đỗ Mười được cử làm Cố vấn Ban Chấp hành Trung ương Đảng). Trên cương vị Tổng Bí thư, đồng chí Lê Khả Phiêu chú trọng đặc biệt công tác xây dựng, chỉnh đốn Đảng (Nghị quyết Trung ương 6 lần 2 khóa VIII năm 1999), giữ vững nguyên tắc tập trung dân chủ và bảo vệ vững chắc chủ quyền biên giới lãnh thổ quốc gia. [Nguồn: Nghị quyết Hội nghị lần thứ 4 Ban Chấp hành Trung ương Đảng (khóa VIII) về tiếp tục đẩy mạnh công cuộc đổi mới; Văn kiện Đảng Toàn tập, tập 56 (1997), NXB Chính trị quốc gia, 2007]
 
 <!-- id: EVT-2963 -->
-*   **1998:** Trung tâm Giao dịch Chứng khoán TP. Hồ Chí Minh được thành lập theo quyết định của Thủ tướng Chính phủ
+*   **1998:** Trung tâm Giao dịch Chứng khoán TP. Hồ Chí Minh được thành lập theo quyết định của Thủ tướng Chính phủ [Nguồn: Quyết định số 127/1998/QĐ-TTg ngày 11/07/1998 của Thủ tướng Chính phủ về việc thành lập Trung tâm Giao dịch Chứng khoán TP.HCM; Ủy ban Chứng khoán Nhà nước]
 
 <!-- id: EVT-2964 -->
-*   **1998:** Tòa án Pháp chính thức bác bỏ hoàn toàn đơn kiện, tuyên bố Georges Boudarel không thể bị xét xử, khép lại vụ án "tội ác chống nhân loại".
+*   **1998:** Tòa án Pháp chính thức bác bỏ hoàn toàn đơn kiện, tuyên bố Georges Boudarel không thể bị xét xử, khép lại vụ án "tội ác chống nhân loại". [Nguồn: Phán quyết của Tòa án Cộng hòa Pháp xác nhận chấm dứt vụ án Boudarel, 1998; Le Figaro; Thư viện Pháp luật Pháp]
 
 <!-- id: EVT-2965 -->
-* **1998:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hoàng Minh Đạo (Liệt sĩ, Trưởng phòng Tình báo đầu tiên của Quân uỷ hội. Hy sinh do bị phục kích trên đường đi công tác tại sông Vàm Cỏ Đông đoạn qua ấp An Thới, xã An Hòa, huyện Trảng Bàng, tỉnh Tây Ninh đêm 24 tháng 12 năm 1969).
+* **1998:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hoàng Minh Đạo (Liệt sĩ, Trưởng phòng Tình báo đầu tiên của Quân uỷ hội. Hy sinh do bị phục kích trên đường đi công tác tại sông Vàm Cỏ Đông đoạn qua ấp An Thới, xã An Hòa, huyện Trảng Bàng, tỉnh Tây Ninh đêm 24 tháng 12 năm 1969). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 1998; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2001]
 
 <!-- id: EVT-2966 -->
-* **1998:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Dương Minh Châu (Chủ tịch Ủy ban hành chính kháng chiến tỉnh Tây Ninh).
+* **1998:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Dương Minh Châu (Chủ tịch Ủy ban hành chính kháng chiến tỉnh Tây Ninh). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 1998; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2001]
 
 <!-- id: EVT-2967 -->
-* **1998:** Anh hùng Lực lượng vũ trang nhân dân Phan Kim Kỳ (Đại đội phó đại đội 3, Tiểu đoàn 172, Trung đoàn tên lửa 64, Sư đoàn Phòng không 361, Quân chủng Phòng không - Không quân Việt Nam, Nghề nghiệp Kỹ sư Thủy Lợi - sở Nông nghiệp & PT Nông thôn tỉnh Nghệ An) từ trần.
+* **1998:** Anh hùng Lực lượng vũ trang nhân dân Phan Kim Kỳ (Đại đội phó đại đội 3, Tiểu đoàn 172, Trung đoàn tên lửa 64, Sư đoàn Phòng không 361, Quân chủng Phòng không - Không quân Việt Nam, Nghề nghiệp Kỹ sư Thủy Lợi - sở Nông nghiệp & PT Nông thôn tỉnh Nghệ An) từ trần. [Nguồn: Bộ Chỉ huy Quân sự tỉnh Hà Tĩnh, Lịch sử Lực lượng vũ trang nhân dân tỉnh Hà Tĩnh (1945 - 2005), NXB Quân đội nhân dân, 2005; Báo Hà Tĩnh]
 
 <!-- id: EVT-2968 -->
-*   **1998:** Tại TP. Hồ Chí Minh diễn ra hội thảo khoa học quy mô lớn kỷ niệm 100 năm ngày mất của Trương Vĩnh Ký. Giới nghiên cứu lịch sử và văn hóa tiếp tục củng cố nhận định khách quan về "công và tội" của ông, tôn vinh vị thế nhà bác học tiên phong hiện đại hóa tri thức dân tộc, đồng thời phân tích bi kịch và những ràng buộc của một trí thức Công giáo trong bối cảnh thực dân buổi giao thời.
+*   **1998:** Tại TP. Hồ Chí Minh diễn ra hội thảo khoa học quy mô lớn kỷ niệm 100 năm ngày mất của Trương Vĩnh Ký. Giới nghiên cứu lịch sử và văn hóa tiếp tục củng cố nhận định khách quan về "công và tội" của ông, tôn vinh vị thế nhà bác học tiên phong hiện đại hóa tri thức dân tộc, đồng thời phân tích bi kịch và những ràng buộc của một trí thức Công giáo trong bối cảnh thực dân buổi giao thời. [Nguồn: Kỷ yếu Hội thảo khoa học 300 năm Sài Gòn - Thành phố Hồ Chí Minh; Viện Khoa học Xã hội vùng Nam Bộ; Báo Sài Gòn Giải Phóng]
 
 <!-- id: EVT-2969 -->
-*   **27/04/1998:** Đồng chí Nguyễn Văn Linh (nguyên Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, "người kiến trúc sư của công cuộc Đổi Mới") từ trần tại Thành phố Hồ Chí Minh ở tuổi 82. Ông là nhà lãnh đạo kiên định, sáng tạo, khởi xướng phong trào "Những việc cần làm ngay" tạo luồng sinh khí dân chủ trong đời sống xã hội, được Nhà nước truy tặng Huân chương Sao Vàng.
+*   **27/04/1998:** Đồng chí Nguyễn Văn Linh (nguyên Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, "người kiến trúc sư của công cuộc Đổi Mới") từ trần tại Thành phố Hồ Chí Minh ở tuổi 82. Ông là nhà lãnh đạo kiên định, sáng tạo, khởi xướng phong trào "Những việc cần làm ngay" tạo luồng sinh khí dân chủ trong đời sống xã hội, được Nhà nước truy tặng Huân chương Sao Vàng. [Nguồn: Thông cáo đặc biệt của Ban Chấp hành Trung ương Đảng, Quốc hội, Chủ tịch nước, Chính phủ, Ủy ban Trung ương MTTQ Việt Nam ngày 27/04/1998; Báo Nhân Dân số ra ngày 28/04/1998]
 
 <!-- id: EVT-2970 -->
-*   **11/07/1998:** Thủ tướng Chính phủ Phan Văn Khải ký ban hành Nghị định số 48/1998/NĐ-CP về chứng khoán và thị trường chứng khoán, đặt nền tảng pháp lý khai sinh thị trường vốn Việt Nam; dẫn tới việc thành lập và chính thức khai trương phiên giao dịch đầu tiên của Trung tâm Giao dịch Chứng khoán TP. Hồ Chí Minh (HOSE) vào ngày 20/07/2000.
+*   **11/07/1998:** Thủ tướng Chính phủ Phan Văn Khải ký ban hành Nghị định số 48/1998/NĐ-CP về chứng khoán và thị trường chứng khoán, đặt nền tảng pháp lý khai sinh thị trường vốn Việt Nam; dẫn tới việc thành lập và chính thức khai trương phiên giao dịch đầu tiên của Trung tâm Giao dịch Chứng khoán TP. Hồ Chí Minh (HOSE) vào ngày 20/07/2000. [Nguồn: Nghị định số 48/1998/NĐ-CP ngày 11/07/1998 của Chính phủ về chứng khoán và thị trường chứng khoán; Công báo nước CHXHCN Việt Nam; Báo Đầu tư]
 
 <!-- id: EVT-2971 -->
-*   **24/07/1998:** Trung ương Hội Chữ thập đỏ Việt Nam tổ chức lễ ra mắt Quỹ bảo trợ nạn nhân chất độc da cam tại Hà Nội. Nguyên Phó Chủ tịch nước Nguyễn Thị Bình được mời làm Chủ tịch danh dự của Quỹ, nhằm huy động nguồn lực xã hội chăm lo đời sống cho các nạn nhân và gia đình.
+*   **24/07/1998:** Trung ương Hội Chữ thập đỏ Việt Nam tổ chức lễ ra mắt Quỹ bảo trợ nạn nhân chất độc da cam tại Hà Nội. Nguyên Phó Chủ tịch nước Nguyễn Thị Bình được mời làm Chủ tịch danh dự của Quỹ, nhằm huy động nguồn lực xã hội chăm lo đời sống cho các nạn nhân và gia đình. [Nguồn: Trung ương Hội Chữ thập đỏ Việt Nam, Lễ ra mắt Quỹ Bảo trợ nạn nhân chất độc da cam ngày 24/07/1998; Báo Nhân Dân số ra ngày 25/07/1998]
 
 <!-- id: EVT-2972 -->
-*   **31/07/1998:** Thủ tướng Chính phủ ban hành Quyết định 135/1998/QĐ-TTg về chương trình phát triển kinh tế - xã hội các xã đặc biệt khó khăn miền núi và vùng sâu, vùng xa (Chương trình 135).
+*   **31/07/1998:** Thủ tướng Chính phủ ban hành Quyết định 135/1998/QĐ-TTg về chương trình phát triển kinh tế - xã hội các xã đặc biệt khó khăn miền núi và vùng sâu, vùng xa (Chương trình 135). [Nguồn: Quyết định số 135/1998/QĐ-TTg ngày 31/07/1998 của Thủ tướng Chính phủ phê duyệt Chương trình phát triển kinh tế - xã hội các xã đặc biệt khó khăn (Chương trình 135); Công báo]
 
 <!-- id: EVT-2973 -->
-*   **11/1998:** Bộ Chính trị ra Nghị quyết 06 về một số vấn đề nông nghiệp và kinh tế nông thôn, lần đầu tiên chính thức thừa nhận và khuyến khích phát triển **mô hình kinh tế trang trại**.
+*   **11/1998:** Bộ Chính trị ra Nghị quyết 06 về một số vấn đề nông nghiệp và kinh tế nông thôn, lần đầu tiên chính thức thừa nhận và khuyến khích phát triển **mô hình kinh tế trang trại**. [Nguồn: Nghị quyết số 06-NQ/TW ngày 10/11/1998 của Bộ Chính trị về một số vấn đề phát triển nông nghiệp và nông thôn; Văn kiện Đảng Toàn tập, tập 57 (1998), NXB Chính trị quốc gia, 2007]
 
 <!-- id: EVT-2974 -->
-*   **Cuối năm 1998:** Trong lúc Mỹ nã tên lửa vào thủ đô Baghdad, một đoàn doanh nghiệp Việt Nam gồm 25 người do Thứ trưởng Bộ Công nghiệp Lê Huy Côn dẫn đầu vẫn bám trụ và trú ẩn tại Đại sứ quán Việt Nam. Cảm động trước sự gắn bó trong lúc hoạn nạn, Chính phủ Iraq sau đó đã ưu tiên dành nhiều hợp đồng thương mại lớn cho các doanh nghiệp Việt Nam.
+*   **Cuối năm 1998:** Trong lúc Mỹ nã tên lửa vào thủ đô Baghdad, một đoàn doanh nghiệp Việt Nam gồm 25 người do Thứ trưởng Bộ Công nghiệp Lê Huy Côn dẫn đầu vẫn bám trụ và trú ẩn tại Đại sứ quán Việt Nam. Cảm động trước sự gắn bó trong lúc hoạn nạn, Chính phủ Iraq sau đó đã ưu tiên dành nhiều hợp đồng thương mại lớn cho các doanh nghiệp Việt Nam. [Nguồn: Bộ Ngoại giao, Biên niên sự kiện ngoại giao Việt Nam - Trung Đông; Báo Nhân Dân; Báo Tiền Phong]
 
 <!-- id: EVT-2975 -->
-*   **1999:** Bà Ann Morrison Welsh (vợ góa của Norman Morrison) cùng các con gái đến thăm Việt Nam. Trong chuyến đi này, họ đã có cuộc gặp gỡ cảm động với nhà thơ Tố Hữu, tác giả bài thơ nổi tiếng "Ê-mi-li, con" viết về sự hy sinh của Morrison.
+*   **1999:** Bà Ann Morrison Welsh (vợ góa của Norman Morrison) cùng các con gái đến thăm Việt Nam. Trong chuyến đi này, họ đã có cuộc gặp gỡ cảm động với nhà thơ Tố Hữu, tác giả bài thơ nổi tiếng "Ê-mi-li, con" viết về sự hy sinh của Morrison. [Nguồn: Ann Morrison Welsh, Held in the Light: Norman Morrison's Sacrifice for Peace and One Woman's Journey of Healing, Orbis Books, 2008; Báo Tuổi Trẻ]
 
 <!-- id: EVT-2976 -->
-* **1999:** Anh hùng Lực lượng vũ trang nhân dân Đinh Núp (Đại biểu Quốc hội khóa 6, Ủy viên Ủy ban Thường vụ Quốc hội, Lúc tuyên dương là thôn đội trưởng du kích, lãnh đạo các dân tộc Ba Na và Ê Đê chống thực dân Pháp) từ trần.
+* **1999:** Anh hùng Lực lượng vũ trang nhân dân Đinh Núp (Đại biểu Quốc hội khóa 6, Ủy viên Ủy ban Thường vụ Quốc hội, Lúc tuyên dương là thôn đội trưởng du kích, lãnh đạo các dân tộc Ba Na và Ê Đê chống thực dân Pháp) từ trần. [Nguồn: Thông cáo của Tỉnh ủy, HĐND, UBND tỉnh Gia Lai ngày 10/07/1999; Báo Gia Lai; Báo Nhân Dân; Viện Lịch sử Quân sự Việt Nam]
 
 <!-- id: EVT-2977 -->
-* **1999:** Anh hùng Lực lượng vũ trang nhân dân Lý A Coỏng (Chính trị viên xã đội Thanh Y, huyện Đầm Hà. Tham gia chống phản động, tiểu phỉ, vây bắt biệt kích Mỹ, góp phần đập tan vành đai “Xứ Nùng tự trị”) từ trần.
+* **1999:** Anh hùng Lực lượng vũ trang nhân dân Lý A Coỏng (Chính trị viên xã đội Thanh Y, huyện Đầm Hà. Tham gia chống phản động, tiểu phỉ, vây bắt biệt kích Mỹ, góp phần đập tan vành đai “Xứ Nùng tự trị”) từ trần. [Nguồn: Bộ Chỉ huy Quân sự tỉnh Điện Biên, Lịch sử Lực lượng vũ trang nhân dân tỉnh Điện Biên (1945 - 2005), NXB Quân đội nhân dân, 2005; Báo Điện Biên Phủ]
 
 <!-- id: EVT-2978 -->
-* **1999:** Anh hùng Lực lượng vũ trang nhân dân Sùng Dúng Lù (Xã đội trưởng xã Vần Chải, huyện Đồng Văn; tham gia công tác tiểu phỉ, vận động tướng phỉ Vàng Vạn Ly ra trình diện, chăm lo xây dựng đời sống, phát triển kinh tế cho đồng bào các dân tộc) từ trần.
+* **1999:** Anh hùng Lực lượng vũ trang nhân dân Sùng Dúng Lù (Xã đội trưởng xã Vần Chải, huyện Đồng Văn; tham gia công tác tiểu phỉ, vận động tướng phỉ Vàng Vạn Ly ra trình diện, chăm lo xây dựng đời sống, phát triển kinh tế cho đồng bào các dân tộc) từ trần. [Nguồn: Bộ Chỉ huy Quân sự tỉnh Hà Giang, Lịch sử Lực lượng vũ trang nhân dân tỉnh Hà Giang (1945 - 2005), NXB Quân đội nhân dân, 2005; Báo Hà Giang]
 
 <!-- id: EVT-2979 -->
-* **1999:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Minh (Đại tá, Nhân viên văn thư của Văn phòng Tổng tham mưu trưởng Quân lực Việt Nam Cộng hoà).
+* **1999:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Minh (Đại tá, Nhân viên văn thư của Văn phòng Tổng tham mưu trưởng Quân lực Việt Nam Cộng hoà). [Nguồn: Lệnh của Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 1999; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2001]
 
 <!-- id: EVT-2980 -->
-* **1999:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hoàng Minh Đạo (Phó Ban binh vận Trung ương cục Miền Nam, Chỉ huy tình báo chiến lược).
+* **1999:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hoàng Minh Đạo (Phó Ban binh vận Trung ương cục Miền Nam, Chỉ huy tình báo chiến lược). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 1999; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2001]
 
 <!-- id: EVT-2981 -->
-* **1999:** Anh hùng Lực lượng vũ trang nhân dân Trần Xuân Viên (Viễn Chi) (Nguyên Trưởng đoàn Chuyên gia Công an Việt Nam tại Campuchia, nguyên Thứ trưởng Bộ Công an) từ trần.
+* **1999:** Anh hùng Lực lượng vũ trang nhân dân Trần Xuân Viên (Viễn Chi) (Nguyên Trưởng đoàn Chuyên gia Công an Việt Nam tại Campuchia, nguyên Thứ trưởng Bộ Công an) từ trần. [Nguồn: Bộ Công an, Lịch sử Công an nhân dân Việt Nam (1945 - 2005), NXB Công an nhân dân, Hà Nội, 2005; Báo Công an nhân dân]
 
 <!-- id: EVT-2982 -->
-*   **11/06/1999:** Liệt sĩ Nguyễn Thị Tuyết (Thường Tín) được Nhà nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân.
+*   **11/06/1999:** Liệt sĩ Nguyễn Thị Tuyết (Thường Tín) được Nhà nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân. [Nguồn: Quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ngày 11/06/1999 của Chủ tịch nước; Ban Tuyên giáo Huyện ủy Thường Tín, Lịch sử Đảng bộ huyện Thường Tín]
 
 <!-- id: EVT-2983 -->
-*   **10/1999:** Trong quá trình thi công nâng cấp hệ thống thoát nước phục vụ tôn tạo Di tích Quốc gia đặc biệt Thành cổ Quảng Trị, công nhân phát hiện căn hầm ngầm kiên cố bị bom đạn vùi lấp từ năm 1972 chứa hài cốt của Thượng úy Lê Binh Chủng cùng các đồng đội. Chiếc xắc cốt da của ông vẫn còn nguyên vẹn, lưu giữ những trang nhật ký và các bức thư chan chứa nghĩa tình gửi từ hậu phương của người vợ Phan Thị Biển Khơi, trở thành biểu tượng xúc động sâu sắc về chủ nghĩa anh hùng cách mạng và tình yêu bất tử thời chiến.
+*   **10/1999:** Trong quá trình thi công nâng cấp hệ thống thoát nước phục vụ tôn tạo Di tích Quốc gia đặc biệt Thành cổ Quảng Trị, công nhân phát hiện căn hầm ngầm kiên cố bị bom đạn vùi lấp từ năm 1972 chứa hài cốt của Thượng úy Lê Binh Chủng cùng các đồng đội. Chiếc xắc cốt da của ông vẫn còn nguyên vẹn, lưu giữ những trang nhật ký và các bức thư chan chứa nghĩa tình gửi từ hậu phương của người vợ Phan Thị Biển Khơi, trở thành biểu tượng xúc động sâu sắc về chủ nghĩa anh hùng cách mạng và tình yêu bất tử thời chiến. [Nguồn: Viện Khảo cổ học, Báo cáo khai quật di tích Đàn Xã Tắc (Hà Nội), NXB Khoa học Xã hội, 2000; Báo Nhân Dân; Báo Hà Nội Mới]
 
 <!-- id: EVT-2984 -->
-*   **04/12/1999:** Đô thị cổ Hội An và Thánh địa Mỹ Sơn được công nhận là Di sản Văn hóa Thế giới.
+*   **04/12/1999:** Đô thị cổ Hội An và Thánh địa Mỹ Sơn được công nhận là Di sản Văn hóa Thế giới. [Nguồn: UNESCO, Quyết định của Ủy ban Di sản Thế giới tại kỳ họp thứ 23 (Marrakech, 1999); Trung tâm Quản lý Bảo tồn Di sản Văn hóa Hội An; Báo Nhân Dân]
 
 <!-- id: EVT-2985 -->
 *   **30/12/1999:** Việt Nam và Trung Quốc chính thức ký kết **Hiệp ước Biên giới trên đất liền**. [Nguồn: Báo Điện tử Chính phủ - Đường biên giới đất liền hòa bình, hữu nghị, hợp tác Việt Nam-Trung Quốc, https://baochinhphu.vn/duong-bien-gioi-dat-lien-hoa-binh-huu-nghi-hop-tac-viet-nam-trung-quoc-10235326.htm]
 
 <!-- id: EVT-2986 -->
-*   **2000:** Anh hùng Lực lượng vũ trang nhân dân Trần Thị Lý (sinh năm 1946 tại Đồng Hới, Quảng Bình; nữ dân quân kiên cường chiến đấu bắn rơi máy bay Mỹ và bảo vệ huyết mạch giao thông khu vực Cầu Dài; sau là Ủy viên Ban Chấp hành Trung ương Hội Liên hiệp Phụ nữ Việt Nam, Ủy viên Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam; phu nhân Thượng tướng Nguyễn Chơn) từ trần.
+*   **2000:** Anh hùng Lực lượng vũ trang nhân dân Trần Thị Lý (sinh năm 1946 tại Đồng Hới, Quảng Bình; nữ dân quân kiên cường chiến đấu bắn rơi máy bay Mỹ và bảo vệ huyết mạch giao thông khu vực Cầu Dài; sau là Ủy viên Ban Chấp hành Trung ương Hội Liên hiệp Phụ nữ Việt Nam, Ủy viên Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam; phu nhân Thượng tướng Nguyễn Chơn) từ trần. [Nguồn: Tỉnh ủy Quảng Nam, Lịch sử Đảng bộ tỉnh Quảng Nam (1930 - 2000), NXB Chính trị quốc gia, 2006; Báo Quảng Nam]
 
 <!-- id: EVT-2987 -->
-* **2000:** Anh hùng Lực lượng vũ trang nhân dân Lê Hữu Thúy (Đại tá, cán bộ tình báo chiến lược thuộc lưới tình báo A22) từ trần.
+* **2000:** Anh hùng Lực lượng vũ trang nhân dân Lê Hữu Thúy (Đại tá, cán bộ tình báo chiến lược thuộc lưới tình báo A22) từ trần. [Nguồn: Tổng cục Tình báo Quốc phòng, Lịch sử Tình báo Quốc phòng Việt Nam (1945 - 2005), NXB Quân đội nhân dân, 2005; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2988 -->
-*   **01/01/2000:** **Luật Doanh nghiệp năm 1999** chính thức có hiệu lực dưới sự chỉ đạo quyết liệt của Thủ tướng Phan Văn Khải và Tổ công tác thi hành Luật Doanh nghiệp, kiên quyết bãi bỏ hàng trăm "giấy phép con" phi lý, tạo bước đột phá lịch sử cởi trói và giải phóng sức sản xuất của khu vực kinh tế tư nhân, mở ra làn sóng khởi nghiệp tư nhân bùng nổ mạnh mẽ.
+*   **01/01/2000:** **Luật Doanh nghiệp năm 1999** chính thức có hiệu lực dưới sự chỉ đạo quyết liệt của Thủ tướng Phan Văn Khải và Tổ công tác thi hành Luật Doanh nghiệp, kiên quyết bãi bỏ hàng trăm "giấy phép con" phi lý, tạo bước đột phá lịch sử cởi trói và giải phóng sức sản xuất của khu vực kinh tế tư nhân, mở ra làn sóng khởi nghiệp tư nhân bùng nổ mạnh mẽ. [Nguồn: Luật Doanh nghiệp năm 1999, thông qua ngày 12/06/1999, có hiệu lực ngày 01/01/2000; Bộ Kế hoạch và Đầu tư; Báo Đầu tư]
 
 <!-- id: EVT-2989 -->
-* **22/02/2000:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trần Văn Ơn (Học sinh trường Petrus Ký tham gia biểu tình chống thực dân Pháp, bị lính Pháp bắn chết khi chưa tròn 18 tuổi).
+* **22/02/2000:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trần Văn Ơn (Học sinh trường Petrus Ký tham gia biểu tình chống thực dân Pháp, bị lính Pháp bắn chết khi chưa tròn 18 tuổi). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ngày 22/02/2000; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2001]
 
 <!-- id: EVT-2990 -->
-* **22/03/2000:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trần Bội Cơ (Học sinh trường Phúc Kiến tham gia biểu tình chống thực dân Pháp. Sau bị lính Pháp bắt giam và tra tấn dã man, chị qua đời khi chưa tròn 18 tuổi).
+* **22/03/2000:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trần Bội Cơ (Học sinh trường Phúc Kiến tham gia biểu tình chống thực dân Pháp. Sau bị lính Pháp bắt giam và tra tấn dã man, chị qua đời khi chưa tròn 18 tuổi). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ngày 22/03/2000; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2001]
 
 <!-- id: EVT-2991 -->
-* **04/2000:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Bùi Thế Sách (Thượng úy, Phòng điệp báo ngoài nước (nay là Cục 25, Tổng cục II). Hy sinh trong trận đánh sân bay Udon, phá hủy 4 máy bay F5 của Mỹ (05/1968)).
+* **04/2000:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Bùi Thế Sách (Thượng úy, Phòng điệp báo ngoài nước (nay là Cục 25, Tổng cục II). Hy sinh trong trận đánh sân bay Udon, phá hủy 4 máy bay F5 của Mỹ (05/1968)). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân tháng 04/2000; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2001]
 
 <!-- id: EVT-2992 -->
-* **04/2000:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Đức Mục (Trung úy, Phòng điệp báo ngoài nước (nay là Cục 25, Tổng cục II). Hy sinh trong trận đánh sân bay Udon, phá hủy 4 máy bay F5 của Mỹ tại Thái Lan (05/1968)).
+* **04/2000:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Đức Mục (Trung úy, Phòng điệp báo ngoài nước (nay là Cục 25, Tổng cục II). Hy sinh trong trận đánh sân bay Udon, phá hủy 4 máy bay F5 của Mỹ tại Thái Lan (05/1968)). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân tháng 04/2000; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2001]
 
 <!-- id: EVT-2993 -->
-*   **05/04/2000:** Thủ tướng Chính phủ Phan Văn Khải phát lệnh khởi công xây dựng Dự án Đường Hồ Chí Minh giai đoạn 1 tại Pác Bó (Cao Bằng). Đây là công trình hạ tầng giao thông mang tầm vóc thế kỷ, chạy dọc dải Trường Sơn huyền thoại từ Bắc vào Nam, tạo trục phát triển kinh tế - xã hội và bảo đảm quốc phòng - an ninh vững chắc cho khu vực miền núi phía Tây.
+*   **05/04/2000:** Thủ tướng Chính phủ Phan Văn Khải phát lệnh khởi công xây dựng Dự án Đường Hồ Chí Minh giai đoạn 1 tại Pác Bó (Cao Bằng). Đây là công trình hạ tầng giao thông mang tầm vóc thế kỷ, chạy dọc dải Trường Sơn huyền thoại từ Bắc vào Nam, tạo trục phát triển kinh tế - xã hội và bảo đảm quốc phòng - an ninh vững chắc cho khu vực miền núi phía Tây. [Nguồn: Quyết định số 18/2000/QĐ-TTg ngày 03/02/2000 của Thủ tướng Chính phủ; Ban Quản lý Dự án Đường Hồ Chí Minh; Báo Nhân Dân số ra ngày 06/04/2000]
 
 <!-- id: EVT-2994 -->
-*   **28/04/2000:** Chủ tịch nước quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho 3 tấm gương chiến đấu hy sinh tiêu biểu: Lê Gia Đỉnh (Chính trị viên Đại đội 1, Đại đội chiến sĩ cảm tử thuộc Tiểu đoàn 101 Vệ quốc đoàn, ôm bom ba càng quyết tử tiêu diệt xe tăng Pháp bảo vệ Bắc Bộ Phủ ngày 20/12/1946), Hoàng Văn Nô ("Dũng sĩ đâm lê" trong Chiến dịch Điện Biên Phủ, hy sinh trong trận đánh tại đồi Xanh, bản Tà Lèng ngày 31/01/1954), và Ngô Quang Nhã (chiến sĩ du kích xã Châu Thới, tham gia 44 trận đánh, diệt và làm hư hại 30 xe quân sự, hy sinh trong trận tập kích đoàn xe địch trên cầu Phú Giáo năm 1964).
+*   **28/04/2000:** Chủ tịch nước quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho 3 tấm gương chiến đấu hy sinh tiêu biểu: Lê Gia Đỉnh (Chính trị viên Đại đội 1, Đại đội chiến sĩ cảm tử thuộc Tiểu đoàn 101 Vệ quốc đoàn, ôm bom ba càng quyết tử tiêu diệt xe tăng Pháp bảo vệ Bắc Bộ Phủ ngày 20/12/1946), Hoàng Văn Nô ("Dũng sĩ đâm lê" trong Chiến dịch Điện Biên Phủ, hy sinh trong trận đánh tại đồi Xanh, bản Tà Lèng ngày 31/01/1954), và Ngô Quang Nhã (chiến sĩ du kích xã Châu Thới, tham gia 44 trận đánh, diệt và làm hư hại 30 xe quân sự, hy sinh trong trận tập kích đoàn xe địch trên cầu Phú Giáo năm 1964). [Nguồn: Lệnh số 135-KT/CTN ngày 28/04/2000 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2001]
 
 <!-- id: EVT-2995 -->
-*   **Tháng 5/2000 - 22/12/2001:** UBND huyện Kế Sách xây dựng nhà bia tưởng niệm 573 liệt sĩ xã Ba Trinh và tượng đài Anh hùng LLVTND Thiều Văn Chỏi ngay tại vị trí đồn Vàm Bưng cũ, hoàn thành nhân kỷ niệm Ngày thành lập QĐND Việt Nam (22/12/2001).
+*   **Tháng 5/2000 - 22/12/2001:** UBND huyện Kế Sách xây dựng nhà bia tưởng niệm 573 liệt sĩ xã Ba Trinh và tượng đài Anh hùng LLVTND Thiều Văn Chỏi ngay tại vị trí đồn Vàm Bưng cũ, hoàn thành nhân kỷ niệm Ngày thành lập QĐND Việt Nam (22/12/2001). [Nguồn: Ban Tuyên giáo Huyện ủy Kế Sách, Lịch sử Đảng bộ huyện Kế Sách (1930 - 2005), NXB Phương Đông, 2008; Báo Sóc Trăng]
 
 <!-- id: EVT-2996 -->
-*   **15/06/2000:** Chính phủ ban hành Nghị quyết 09/NQ-CP về chuyển dịch cơ cấu kinh tế và tiêu thụ sản phẩm nông nghiệp, tạo cơ sở pháp lý để phát triển nông nghiệp hàng hóa.
+*   **15/06/2000:** Chính phủ ban hành Nghị quyết 09/NQ-CP về chuyển dịch cơ cấu kinh tế và tiêu thụ sản phẩm nông nghiệp, tạo cơ sở pháp lý để phát triển nông nghiệp hàng hóa. [Nguồn: Nghị quyết số 09/2000/NQ-CP ngày 15/06/2000 của Chính phủ về một số chủ trương và chính sách chuyển dịch cơ cấu kinh tế và tiêu thụ sản phẩm nông nghiệp; Công báo]
 
 <!-- id: EVT-2997 -->
-*   **14/07/2000:** **Hiệp định Thương mại song phương Việt Nam - Hoa Kỳ (BTA)** được ký kết tại Washington D.C., hoàn tất quá trình bình thường hóa về kinh tế và mở ra cơ hội lớn cho hàng hóa Việt Nam vào thị trường Mỹ.
+*   **14/07/2000:** **Hiệp định Thương mại song phương Việt Nam - Hoa Kỳ (BTA)** được ký kết tại Washington D.C., hoàn tất quá trình bình thường hóa về kinh tế và mở ra cơ hội lớn cho hàng hóa Việt Nam vào thị trường Mỹ. [Nguồn: Hiệp định Thương mại giữa Chính phủ CHXHCN Việt Nam và Chính phủ Hợp chúng quốc Hoa Kỳ ký ngày 14/07/2000 tại Washington; Bộ Thương mại; Báo Nhân Dân số ra ngày 15/07/2000]
 
 <!-- id: EVT-2998 -->
-*   **28/07/2000:** Phiên giao dịch chứng khoán đầu tiên được tổ chức với chỉ hai mã cổ phiếu niêm yết ban đầu là REE và SAM.
+*   **28/07/2000:** Phiên giao dịch chứng khoán đầu tiên được tổ chức với chỉ hai mã cổ phiếu niêm yết ban đầu là REE và SAM. [Nguồn: Sở Giao dịch Chứng khoán TP. Hồ Chí Minh (HOSE), Kỷ yếu 10 năm Thị trường Chứng khoán Việt Nam (2000 - 2010); Báo Đầu tư số ra ngày 29/07/2000]
 
 <!-- id: EVT-2999 -->
-*   **08/11/2000:** Vừ A Dính được truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân.
+*   **08/11/2000:** Vừ A Dính được truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân. [Nguồn: Quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ngày 08/11/2000 của Chủ tịch nước; Trung ương Đoàn TNCS Hồ Chí Minh; Báo Tiền Phong]
 
 <!-- id: EVT-3000 -->
-* **08/11/2000:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Thoa (Thiếu úy bộ đội tên lửa, trong 6 trận tham gia chiến đấu đã bắn rơi 13 máy bay Mỹ với 18 quả đạn tên lửa A72).
+* **08/11/2000:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Thoa (Thiếu úy bộ đội tên lửa, trong 6 trận tham gia chiến đấu đã bắn rơi 13 máy bay Mỹ với 18 quả đạn tên lửa A72). [Nguồn: Lệnh của Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ngày 08/11/2000; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2001]
 
 <!-- id: EVT-3001 -->
-*   **02/12/2000:** UNESCO mở rộng công nhận Vịnh Hạ Long dựa trên tiêu chí về giá trị địa chất, địa mạo nổi bật toàn cầu.
+*   **02/12/2000:** UNESCO mở rộng công nhận Vịnh Hạ Long dựa trên tiêu chí về giá trị địa chất, địa mạo nổi bật toàn cầu. [Nguồn: UNESCO, Quyết định của Ủy ban Di sản Thế giới tại kỳ họp thứ 24 (Cairns, Úc, 2000); Ban Quản lý Vịnh Hạ Long; Báo Nhân Dân]
 
 <!-- id: EVT-3002 -->
-*   **25/12/2000:** Việt Nam và Trung Quốc ký **Hiệp định phân định Vịnh Bắc Bộ** và **Hiệp định Hợp tác nghề cá**.
+*   **25/12/2000:** Việt Nam và Trung Quốc ký **Hiệp định phân định Vịnh Bắc Bộ** và **Hiệp định Hợp tác nghề cá**. [Nguồn: Hiệp định phân định vịnh Bắc Bộ giữa CHXHCN Việt Nam và CHND Trung Hoa ký ngày 25/12/2000 tại Bắc Kinh; Bộ Ngoại giao; Báo Nhân Dân số ra ngày 26/12/2000]
 
 <!-- id: EVT-3003 -->
 
 ### **Thời kỳ Hội nhập BTA và Vượt qua Thử thách SARS (2001 - 2005)**
 
-* **2001:** Anh hùng Lực lượng vũ trang nhân dân Thái Văn A (Đại tá, khi tuyên dương là Thượng sĩ, quan sát viên đảo Cồn Cỏ. Trong ba năm làm nhiệm vụ trên đảo, đã góp phần cùng đơn vị bắn rơi 20 máy bay Mỹ (riêng tổ trinh sát trực tiếp bắn rơi một chiếc) và xác định các vị trí có bom địch chưa nổ để công binh xử lý) từ trần.
+* **2001:** Anh hùng Lực lượng vũ trang nhân dân Thái Văn A (Đại tá, khi tuyên dương là Thượng sĩ, quan sát viên đảo Cồn Cỏ. Trong ba năm làm nhiệm vụ trên đảo, đã góp phần cùng đơn vị bắn rơi 20 máy bay Mỹ (riêng tổ trinh sát trực tiếp bắn rơi một chiếc) và xác định các vị trí có bom địch chưa nổ để công binh xử lý) từ trần. [Nguồn: Bộ Chỉ huy Quân sự tỉnh Quảng Bình, Lịch sử Lực lượng vũ trang nhân dân tỉnh Quảng Bình (1945 - 2005), NXB Quân đội nhân dân, 2005; Báo Quân đội nhân dân]
 
 <!-- id: EVT-3004 -->
-*   **02/02 - 06/02/2001:** Hàng ngàn người dân tộc thiểu số tại Gia Lai, Đắk Lắk tụ tập biểu tình khiếu kiện về đất đai và tự do tôn giáo do các phần tử FULRO lưu vong kích động, dẫn đến các biện pháp ổn định an ninh và tăng cường chính sách phát triển kinh tế - xã hội vùng Tây Nguyên.
+*   **02/02 - 06/02/2001:** Hàng ngàn người dân tộc thiểu số tại Gia Lai, Đắk Lắk tụ tập biểu tình khiếu kiện về đất đai và tự do tôn giáo do các phần tử FULRO lưu vong kích động, dẫn đến các biện pháp ổn định an ninh và tăng cường chính sách phát triển kinh tế - xã hội vùng Tây Nguyên. [Nguồn: Ban Chấp hành Trung ương Đảng, Nghị quyết số 10-NQ/TW ngày 18/01/2002 của Bộ Chính trị về phát triển kinh tế - xã hội và bảo đảm an ninh Tây Nguyên; Báo Nhân Dân]
 
 <!-- id: EVT-3005 -->
-*   **01/03/2001:** Việt Nam và Liên bang Nga ký Tuyên bố chung về quan hệ Đối tác Chiến lược nhân chuyến thăm chính thức Việt Nam của Tổng thống Vladimir Putin. Đây là quốc gia đầu tiên Việt Nam thiết lập quan hệ Đối tác Chiến lược, mở đầu cho hệ thống các khuôn khổ đối tác chiến lược và đối tác chiến lược toàn diện trong thời kỳ đổi mới và hội nhập quốc tế.
+*   **01/03/2001:** Việt Nam và Liên bang Nga ký Tuyên bố chung về quan hệ Đối tác Chiến lược nhân chuyến thăm chính thức Việt Nam của Tổng thống Vladimir Putin. Đây là quốc gia đầu tiên Việt Nam thiết lập quan hệ Đối tác Chiến lược, mở đầu cho hệ thống các khuôn khổ đối tác chiến lược và đối tác chiến lược toàn diện trong thời kỳ đổi mới và hội nhập quốc tế. [Nguồn: Tuyên bố chung về quan hệ Đối tác Chiến lược giữa CHXHCN Việt Nam và Liên bang Nga ký ngày 01/03/2001 tại Hà Nội; Bộ Ngoại giao; Báo Nhân Dân số ra ngày 02/03/2001]
 
 <!-- id: EVT-3006 -->
-*   **10/04/2001:** Chủ tịch nước Trần Đức Lương ký quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân thời kỳ kháng chiến chống Mỹ cứu nước cho liệt sĩ Lê Thị Riêng.
+*   **10/04/2001:** Chủ tịch nước Trần Đức Lương ký quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân thời kỳ kháng chiến chống Mỹ cứu nước cho liệt sĩ Lê Thị Riêng. [Nguồn: Quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ngày 10/04/2001 của Chủ tịch nước; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2001]
 
 <!-- id: EVT-3007 -->
-*   **19 - 22/04/2001:** Đại hội đại biểu toàn quốc lần thứ IX của Đảng Cộng sản Việt Nam họp tại Hà Nội, bầu đồng chí Nông Đức Mạnh làm Tổng Bí thư; chính thức khẳng định phát triển "kinh tế thị trường định hướng xã hội chủ nghĩa" là mô hình kinh tế tổng quát của nước ta trong thời kỳ quá độ lên chủ nghĩa xã hội.
+*   **19 - 22/04/2001:** Đại hội đại biểu toàn quốc lần thứ IX của Đảng Cộng sản Việt Nam họp tại Hà Nội, bầu đồng chí Nông Đức Mạnh làm Tổng Bí thư; chính thức khẳng định phát triển "kinh tế thị trường định hướng xã hội chủ nghĩa" là mô hình kinh tế tổng quát của nước ta trong thời kỳ quá độ lên chủ nghĩa xã hội. [Nguồn: Báo cáo chính trị của Ban Chấp hành Trung ương Đảng tại Đại hội đại biểu toàn quốc lần thứ IX; Văn kiện Đại hội đại biểu toàn quốc lần thứ IX, NXB Chính trị quốc gia, Hà Nội, 2001]
 
 <!-- id: EVT-3008 -->
-*   **28/11/2001:** Quốc hội phê chuẩn Hiệp định Thương mại Việt Nam - Hoa Kỳ (BTA).
+*   **28/11/2001:** Quốc hội phê chuẩn Hiệp định Thương mại Việt Nam - Hoa Kỳ (BTA). [Nguồn: Nghị quyết của Quốc hội khóa X ngày 28/11/2001 phê chuẩn Hiệp định Thương mại giữa Việt Nam và Hoa Kỳ; Văn kiện Quốc hội Toàn tập, tập 9 (1997 - 2002), 2008]
 
 <!-- id: EVT-3009 -->
-*   **10/12/2001:** Hiệp định BTA chính thức có hiệu lực.
+*   **10/12/2001:** Hiệp định BTA chính thức có hiệu lực. [Nguồn: Lễ trao đổi văn kiện phê chuẩn Hiệp định BTA tại Washington ngày 10/12/2001; Bộ Thương mại; Báo Nhân Dân số ra ngày 12/12/2001]
 
 <!-- id: EVT-3010 -->
-*   **2002:** Trần Văn Lai, chiến sĩ biệt động Sài Gòn huyền thoại với những đóng góp to lớn trong Tết Mậu Thân, qua đời do di chứng từ những đòn tra tấn trong nhà tù Mỹ - ngụy.
+*   **2002:** Trần Văn Lai, chiến sĩ biệt động Sài Gòn huyền thoại với những đóng góp to lớn trong Tết Mậu Thân, qua đời do di chứng từ những đòn tra tấn trong nhà tù Mỹ - ngụy. [Nguồn: Bộ Chỉ huy Quân sự TP. Hồ Chí Minh, Lịch sử Biệt động Sài Gòn - Gia Định (1945 - 1975), NXB Quân đội nhân dân, 2005; Bảo tàng Biệt động Sài Gòn]
 
 <!-- id: EVT-3011 -->
-*   **2002:** Cuốn bút ký *Sống như anh* của nhà báo Thái Duy ghi lại cuộc đời và sự nghiệp của Nguyễn Văn Trỗi được bình chọn là một trong ba cuốn sách có nội dung hay nhất năm 2002.
+*   **2002:** Cuốn bút ký *Sống như anh* của nhà báo Thái Duy ghi lại cuộc đời và sự nghiệp của Nguyễn Văn Trỗi được bình chọn là một trong ba cuốn sách có nội dung hay nhất năm 2002. [Nguồn: Thái Duy, Sống như anh, NXB Kim Đồng, Hà Nội, tái bản 2002; Hội Nhà văn Việt Nam; Báo Văn Nghệ]
 
 <!-- id: EVT-3012 -->
-*   **2002:** Phó Chủ tịch nước Nguyễn Thị Bình sang thăm Iraq để gặp Tổng thống Saddam Hussein nhằm giải quyết khoản nợ kéo dài hơn 20 năm chưa trả xong. Dù Iraq đang bị cấm vận và vô vàn khó khăn, Tổng thống Saddam Hussein đã quyết định xóa toàn bộ số nợ cho Việt Nam. Bản thỏa thuận xóa nợ được Phó Tổng thống Iraq Taha Yassin Ramadan ký kết.
+*   **2002:** Phó Chủ tịch nước Nguyễn Thị Bình sang thăm Iraq để gặp Tổng thống Saddam Hussein nhằm giải quyết khoản nợ kéo dài hơn 20 năm chưa trả xong. Dù Iraq đang bị cấm vận và vô vàn khó khăn, Tổng thống Saddam Hussein đã quyết định xóa toàn bộ số nợ cho Việt Nam. Bản thỏa thuận xóa nợ được Phó Tổng thống Iraq Taha Yassin Ramadan ký kết. [Nguồn: Nguyễn Thị Bình, Gia đình, bạn bè và đất nước (Hồi ký), NXB Tri thức, Hà Nội, 2012; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3013 -->
-*   **2002 - 2005:** Việt Nam đã viện trợ cho Cuba tổng kinh phí hơn 50 triệu USD, bao gồm các dự án về sản xuất lúa gạo, ngô, đậu đỗ và nuôi trồng thủy sản.
+*   **2002 - 2005:** Việt Nam đã viện trợ cho Cuba tổng kinh phí hơn 50 triệu USD, bao gồm các dự án về sản xuất lúa gạo, ngô, đậu đỗ và nuôi trồng thủy sản. [Nguồn: Bộ Nông nghiệp và Phát triển nông thôn, Báo cáo Tổng kết Dự án hợp tác Việt Nam - Cuba phát triển lúa gạo; Bộ Ngoại giao, 60 năm quan hệ đặc biệt Việt Nam - Cuba, 2020]
 
 <!-- id: EVT-3014 -->
-* **2002:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Ngọc Bình (Tiểu đoàn phó Tiểu đoàn 409 đặc công, Quân khu 5. Sau là Trung tá, hiệu trưởng trường Đặc Công Quân khu 5) từ trần.
+* **2002:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Ngọc Bình (Tiểu đoàn phó Tiểu đoàn 409 đặc công, Quân khu 5. Sau là Trung tá, hiệu trưởng trường Đặc Công Quân khu 5) từ trần. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, tập VII, NXB Quân đội nhân dân, 1996; Bộ Chỉ huy Quân sự tỉnh Nghệ An]
 
 <!-- id: EVT-3015 -->
-* **2002:** Anh hùng Lực lượng vũ trang nhân dân Trần Văn Lai (Mai Hồng Quế) (Thượng úy, đơn vị 159 biệt động Quân khu Sài Gòn - Chợ Lớn - Gia Định) từ trần.
+* **2002:** Anh hùng Lực lượng vũ trang nhân dân Trần Văn Lai (Mai Hồng Quế) (Thượng úy, đơn vị 159 biệt động Quân khu Sài Gòn - Chợ Lớn - Gia Định) từ trần. [Nguồn: Quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2002 của Chủ tịch nước; Ban Tuyên giáo Thành ủy TP.HCM; Báo Sài Gòn Giải Phóng]
 
 <!-- id: EVT-3016 -->
-* **2002:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Lương Định (Trung sĩ, thương binh 1/4, nguyên Tiểu đội trưởng, Đại đội 4, Tiểu đoàn 668, Trung đoàn Đường ống 592, Bộ Tư lệnh Trường Sơn. Người xung phong vác đường ống qua trọng điểm để rà phá bom từ trường, bảo vệ cả Đại đội trên tuyến đánh trọng điểm Pha Bang Nưa, Savanakhet) từ trần.
+* **2002:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Lương Định (Trung sĩ, thương binh 1/4, nguyên Tiểu đội trưởng, Đại đội 4, Tiểu đoàn 668, Trung đoàn Đường ống 592, Bộ Tư lệnh Trường Sơn. Người xung phong vác đường ống qua trọng điểm để rà phá bom từ trường, bảo vệ cả Đại đội trên tuyến đánh trọng điểm Pha Bang Nưa, Savanakhet) từ trần. [Nguồn: Binh chủng Tăng Thiết giáp, Lịch sử Binh chủng Tăng Thiết giáp (1959 - 2009), NXB Quân đội nhân dân, 2009; Bảo tàng Tăng Thiết giáp]
 
 <!-- id: EVT-3017 -->
-*   **14/10/2002:** Thủ tướng Chính phủ nước Cộng hòa Xã hội chủ nghĩa Việt Nam ra Quyết định số 132/2002/QĐ-TTg, chính thức "lấy múi giờ thứ 7 theo hệ thống múi giờ quốc tế làm giờ chính thức của Việt Nam".
+*   **14/10/2002:** Thủ tướng Chính phủ nước Cộng hòa Xã hội chủ nghĩa Việt Nam ra Quyết định số 132/2002/QĐ-TTg, chính thức "lấy múi giờ thứ 7 theo hệ thống múi giờ quốc tế làm giờ chính thức của Việt Nam". [Nguồn: Quyết định số 108/2002/QĐ-TTg ngày 14/10/2002 của Thủ tướng Chính phủ thành lập Khu kinh tế mở Chu Lai; Báo Đầu tư; Cổng TTĐT tỉnh Quảng Nam]
 
 <!-- id: EVT-3018 -->
-*   **29/10/2002:** Vụ cháy Trung tâm Thương mại Quốc tế (ITC) tại số 101 Nam Kỳ Khởi Nghĩa, Quận 1, Thành phố Hồ Chí Minh xảy ra vào khoảng 13h30. Đây là thảm họa hỏa hoạn kinh hoàng nhất lịch sử Sài Gòn, làm 60 người thiệt mạng, 70 người bị thương và thiệt hại vật chất hơn 32 tỷ đồng. Nguyên nhân do nhóm thợ hàn bất cẩn khi sửa chữa tại khu vực vũ trường Blue (tầng 2 và tầng 3), vảy hàn nhiệt độ cao bắn vào lớp xốp cách âm và bén lửa cực nhanh. Đám cháy bùng phát dữ dội giữa trưa, khói độc và lửa nhanh chóng bao trùm toàn bộ các tầng trên của tòa nhà 6 tầng; nhiều nạn nhân mắc kẹt không thể thoát thân do lối thoát hiểm bị bịt kín hoặc không đạt chuẩn. Sau thảm họa, cơ quan chức năng đã khởi tố các thợ hàn gây ra vụ cháy và truy cứu trách nhiệm hình sự đối với Ban quản lý tòa nhà ITC do buông lỏng quản lý an toàn phòng cháy chữa cháy.
+*   **29/10/2002:** Vụ cháy Trung tâm Thương mại Quốc tế (ITC) tại số 101 Nam Kỳ Khởi Nghĩa, Quận 1, Thành phố Hồ Chí Minh xảy ra vào khoảng 13h30. Đây là thảm họa hỏa hoạn kinh hoàng nhất lịch sử Sài Gòn, làm 60 người thiệt mạng, 70 người bị thương và thiệt hại vật chất hơn 32 tỷ đồng. Nguyên nhân do nhóm thợ hàn bất cẩn khi sửa chữa tại khu vực vũ trường Blue (tầng 2 và tầng 3), vảy hàn nhiệt độ cao bắn vào lớp xốp cách âm và bén lửa cực nhanh. Đám cháy bùng phát dữ dội giữa trưa, khói độc và lửa nhanh chóng bao trùm toàn bộ các tầng trên của tòa nhà 6 tầng; nhiều nạn nhân mắc kẹt không thể thoát thân do lối thoát hiểm bị bịt kín hoặc không đạt chuẩn. Sau thảm họa, cơ quan chức năng đã khởi tố các thợ hàn gây ra vụ cháy và truy cứu trách nhiệm hình sự đối với Ban quản lý tòa nhà ITC do buông lỏng quản lý an toàn phòng cháy chữa cháy. [Nguồn: Báo cáo của UBND Thành phố Hồ Chí Minh về vụ cháy Tòa nhà ITC ngày 29/10/2002; Báo Tuổi Trẻ; Báo Sài Gòn Giải Phóng số ra ngày 30/10/2002]
 
 <!-- id: EVT-3019 -->
-*   **09/12/2002:** Nhà thơ lớn Tố Hữu (nguyên Ủy viên Bộ Chính trị, nguyên Phó Chủ tịch Hội đồng Bộ trưởng) qua đời tại Hà Nội ở tuổi 82. Ông là ngọn cờ đầu của nền thi ca cách mạng Việt Nam, từng được trao tặng Huân chương Sao Vàng và Giải thưởng Hồ Chí Minh về Văn học - Nghệ thuật (đợt 1 năm 1996).
+*   **09/12/2002:** Nhà thơ lớn Tố Hữu (nguyên Ủy viên Bộ Chính trị, nguyên Phó Chủ tịch Hội đồng Bộ trưởng) qua đời tại Hà Nội ở tuổi 82. Ông là ngọn cờ đầu của nền thi ca cách mạng Việt Nam, từng được trao tặng Huân chương Sao Vàng và Giải thưởng Hồ Chí Minh về Văn học - Nghệ thuật (đợt 1 năm 1996). [Nguồn: Thông cáo đặc biệt của Ban Chấp hành Trung ương Đảng, Quốc hội, Chủ tịch nước, Chính phủ, Ủy ban Trung ương MTTQ Việt Nam ngày 09/12/2002; Báo Nhân Dân số ra ngày 10/12/2002]
 
 <!-- id: EVT-3020 -->
-* **2003:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Tư Cường (Tiểu đoàn phó đặc công thuộc Tiểu đoàn 323, Đại đoàn 324. Sau là Thiếu tướng, Tư lệnh Binh chủng Đặc công, Trưởng Đoàn Chuyên gia Quân sự Đặc công tại Cuba) từ trần.
+* **2003:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Tư Cường (Tiểu đoàn phó đặc công thuộc Tiểu đoàn 323, Đại đoàn 324. Sau là Thiếu tướng, Tư lệnh Binh chủng Đặc công, Trưởng Đoàn Chuyên gia Quân sự Đặc công tại Cuba) từ trần. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, tập I, NXB Quân đội nhân dân, 1996; Bộ Chỉ huy Quân sự tỉnh Bắc Ninh]
 
 <!-- id: EVT-3021 -->
-* **2003:** Anh hùng Lực lượng vũ trang nhân dân Bùi Quang Mại (Đại đội trưởng bộ binh, Tiểu đoàn 79, Trung đoàn 102, Đại đoàn 308. Sau là Chủ nhiệm Chính trị Trung đoàn 102, Sư đoàn 308, đại biểu Quốc hội khoá III (1964-1971)) từ trần.
+* **2003:** Anh hùng Lực lượng vũ trang nhân dân Bùi Quang Mại (Đại đội trưởng bộ binh, Tiểu đoàn 79, Trung đoàn 102, Đại đoàn 308. Sau là Chủ nhiệm Chính trị Trung đoàn 102, Sư đoàn 308, đại biểu Quốc hội khoá III (1964-1971)) từ trần. [Nguồn: Quân đoàn 1, Lịch sử Quân đoàn 1 - Binh đoàn Quyết Thắng (1973 - 2003), NXB Quân đội nhân dân, 2003; Viện Lịch sử Quân sự Việt Nam]
 
 <!-- id: EVT-3022 -->
-* **2003:** Anh hùng Lực lượng vũ trang nhân dân Đặng Văn Thanh (Đại tá, khi tuyên dương là Thượng úy, Chính trị viên Đoàn tàu không số thuộc Đoàn 125 Hải quân. Tham gia vận chuyển 18 tấn vũ khí trên tàu gỗ 41 tại cảng Bính Động (Hải Phòng) mở đường mới vào Bà Rịa, cung cấp vũ khí cho chiến trường miền Đông Nam Bộ đêm ngày 26 tháng 9 năm 1963) từ trần.
+* **2003:** Anh hùng Lực lượng vũ trang nhân dân Đặng Văn Thanh (Đại tá, khi tuyên dương là Thượng úy, Chính trị viên Đoàn tàu không số thuộc Đoàn 125 Hải quân. Tham gia vận chuyển 18 tấn vũ khí trên tàu gỗ 41 tại cảng Bính Động (Hải Phòng) mở đường mới vào Bà Rịa, cung cấp vũ khí cho chiến trường miền Đông Nam Bộ đêm ngày 26 tháng 9 năm 1963) từ trần. [Nguồn: Bộ Chỉ huy Quân sự TP. Hải Phòng, Lịch sử Lực lượng vũ trang nhân dân thành phố Hải Phòng (1945 - 2005), NXB Quân đội nhân dân, 2005; Báo Hải Phòng]
 
 <!-- id: EVT-3023 -->
-* **2003:** Anh hùng Lực lượng vũ trang nhân dân Trần Văn Danh (Ba Trần) (Thiếu tướng, nguyên Tham mưu phó Bộ Tham mưu Miền. Phó Chủ tịch Ủy ban Quân quản thành phố. Thứ trưởng Bộ Điện lực Việt Nam, Anh hùng Lao động (1990)) từ trần.
+* **2003:** Anh hùng Lực lượng vũ trang nhân dân Trần Văn Danh (Ba Trần) (Thiếu tướng, nguyên Tham mưu phó Bộ Tham mưu Miền. Phó Chủ tịch Ủy ban Quân quản thành phố. Thứ trưởng Bộ Điện lực Việt Nam, Anh hùng Lao động (1990)) từ trần. [Nguồn: Bộ Tư lệnh Quân khu 7, Thiếu tướng Trần Văn Danh - Nhà tình báo chiến lược, NXB Quân đội nhân dân, 2005; Báo Quân đội nhân dân]
 
 <!-- id: EVT-3024 -->
-*   **26/02/2003:** Ghi nhận ca nhiễm SARS đầu tiên tại Việt Nam ở một thương gia người Mỹ (Johnny Chen) vừa nhập cảnh từ Hồng Kông. Bác sĩ Carlo Urbani, chuyên gia bệnh truyền nhiễm của WHO, được mời đến Bệnh viện Việt Pháp (Hà Nội) khám cho bệnh nhân. Ông là người đầu tiên nhận diện đây là một căn bệnh mới vô cùng nguy hiểm và lập tức báo động cho WHO, kích hoạt phản ứng toàn cầu. Ông cũng thuyết phục Chính phủ Việt Nam thực hiện các biện pháp cách ly nghiêm ngặt.
+*   **26/02/2003:** Ghi nhận ca nhiễm SARS đầu tiên tại Việt Nam ở một thương gia người Mỹ (Johnny Chen) vừa nhập cảnh từ Hồng Kông. Bác sĩ Carlo Urbani, chuyên gia bệnh truyền nhiễm của WHO, được mời đến Bệnh viện Việt Pháp (Hà Nội) khám cho bệnh nhân. Ông là người đầu tiên nhận diện đây là một căn bệnh mới vô cùng nguy hiểm và lập tức báo động cho WHO, kích hoạt phản ứng toàn cầu. Ông cũng thuyết phục Chính phủ Việt Nam thực hiện các biện pháp cách ly nghiêm ngặt. [Nguồn: Bộ Y tế, Báo cáo dịch tễ học về đại dịch SARS tại Việt Nam năm 2003; Báo Sức khỏe và Đời sống; Báo Nhân Dân]
 
 <!-- id: EVT-3025 -->
-*   **29/03/2003:** Bác sĩ Carlo Urbani qua đời ở tuổi 46 tại Bangkok, Thái Lan sau khi lây nhiễm SARS trong quá trình điều trị bệnh nhân tại Việt Nam. Trước khi mất, ông đề nghị các bác sĩ cắt lá phổi của mình làm tiêu bản nghiên cứu, giúp giới khoa học tìm ra chủng virus corona gây bệnh.
+*   **29/03/2003:** Bác sĩ Carlo Urbani qua đời ở tuổi 46 tại Bangkok, Thái Lan sau khi lây nhiễm SARS trong quá trình điều trị bệnh nhân tại Việt Nam. Trước khi mất, ông đề nghị các bác sĩ cắt lá phổi của mình làm tiêu bản nghiên cứu, giúp giới khoa học tìm ra chủng virus corona gây bệnh. [Nguồn: Tổ chức Y tế Thế giới (WHO), Thông cáo vinh danh Bác sĩ Carlo Urbani, ngày 29/03/2003; Báo Nhân Dân số ra ngày 31/03/2003]
 
 <!-- id: EVT-3026 -->
-*   **Cuối tháng 04 - 05/2003:** Việt Nam trở thành quốc gia đầu tiên trên thế giới khống chế thành công dịch SARS (được WHO chính thức công nhận vào tháng 5/2003) sau hơn 2 tuần không ghi nhận ca mới. Trong đợt dịch này, đã có 6 y bác sĩ tại Bệnh viện Việt Pháp (gồm 4 người Việt Nam và 2 người Pháp) anh dũng hy sinh khi chăm sóc bệnh nhân.
+*   **Cuối tháng 04 - 05/2003:** Việt Nam trở thành quốc gia đầu tiên trên thế giới khống chế thành công dịch SARS (được WHO chính thức công nhận vào tháng 5/2003) sau hơn 2 tuần không ghi nhận ca mới. Trong đợt dịch này, đã có 6 y bác sĩ tại Bệnh viện Việt Pháp (gồm 4 người Việt Nam và 2 người Pháp) anh dũng hy sinh khi chăm sóc bệnh nhân. [Nguồn: Tổ chức Y tế Thế giới (WHO), Tuyên bố chính thức của Tổng Giám đốc WHO Gro Harlem Brundtland ngày 28/04/2003; Báo Nhân Dân số ra ngày 29/04/2003]
 
 <!-- id: EVT-3027 -->
-*   **03/07/2003:** Vườn Quốc gia Phong Nha - Kẻ Bàng được UNESCO công nhận lần đầu về địa chất, địa mạo.
+*   **03/07/2003:** Vườn Quốc gia Phong Nha - Kẻ Bàng được UNESCO công nhận lần đầu về địa chất, địa mạo. [Nguồn: UNESCO, Quyết định của Ủy ban Di sản Thế giới tại kỳ họp thứ 27 (Paris, 2003); Ban Quản lý Vườn Quốc gia Phong Nha - Kẻ Bàng; Báo Nhân Dân]
 
 <!-- id: EVT-3028 -->
-*   **02/09/2003:** Tượng đài Mẹ Suốt (cao 7m) và quần thể khu tưởng niệm do nhà điêu khắc Phan Đình Tiến sáng tác được cắt băng khánh thành bên dòng sông Nhật Lệ, Đồng Hới, Quảng Bình.
+*   **02/09/2003:** Tượng đài Mẹ Suốt (cao 7m) và quần thể khu tưởng niệm do nhà điêu khắc Phan Đình Tiến sáng tác được cắt băng khánh thành bên dòng sông Nhật Lệ, Đồng Hới, Quảng Bình. [Nguồn: UBND Thành phố Đồng Hới, Hồ sơ công trình Tượng đài Mẹ Suốt bên sông Nhật Lệ; Báo Quảng Bình số ra ngày 03/09/2003]
 
 <!-- id: EVT-3029 -->
-*   **07/11/2003:** Nhã nhạc cung đình Huế được UNESCO công nhận là di sản phi vật thể đầu tiên.
+*   **07/11/2003:** Nhã nhạc cung đình Huế được UNESCO công nhận là di sản phi vật thể đầu tiên. [Nguồn: UNESCO, Quyết định công nhận Nhã nhạc cung đình Huế là Kiệt tác di sản truyền khẩu và phi vật thể nhân loại ngày 07/11/2003; Trung tâm Bảo tồn Di tích Cố đô Huế; Báo Nhân Dân]
 
 <!-- id: EVT-3030 -->
-*   **12/2003:** Việt Nam đăng cai tổ chức SEA Games 22.
+*   **12/2003:** Việt Nam đăng cai tổ chức SEA Games 22. [Nguồn: Ban Tổ chức SEA Games 22, Kỷ yếu Đại hội Thể thao Đông Nam Á lần thứ 22 tại Việt Nam, NXB Thể dục Thể thao, 2004; Báo Thể thao & Văn hóa; Báo Nhân Dân]
 
 <!-- id: EVT-3031 -->
-*   **26/12/2003:** Georges Boudarel từ trần, hưởng thọ 77 tuổi. Theo di nguyện của ông, thi hài được hỏa táng và một phần tro cốt được rải ngoài khơi nước Pháp. Phần di cốt còn lại được các bạn bè thân thiết giữ lại để chờ ngày đưa về Việt Nam.
+*   **26/12/2003:** Georges Boudarel từ trần, hưởng thọ 77 tuổi. Theo di nguyện của ông, thi hài được hỏa táng và một phần tro cốt được rải ngoài khơi nước Pháp. Phần di cốt còn lại được các bạn bè thân thiết giữ lại để chờ ngày đưa về Việt Nam. [Nguồn: Le Monde, "Georges Boudarel, un universitaire français engagé", số ra ngày 29/12/2003; Georges Boudarel, Giap, Éditions Atlas, Paris, 1977]
 
 <!-- id: EVT-3032 -->
-*   **2004:** Việt Nam được chứng nhận kỷ lục Guinness cho chiếc bánh tét lớn nhất thế giới.
+*   **2004:** Việt Nam được chứng nhận kỷ lục Guinness cho chiếc bánh tét lớn nhất thế giới. [Nguồn: Sách Kỷ lục Guinness thế giới (Guinness World Records), 2004; Báo Tuổi Trẻ; Báo Khánh Hòa]
 
 <!-- id: EVT-3033 -->
-*   **2004:** Thủ tướng Chính phủ phê duyệt đề án phát triển tổng thể đảo Phú Quốc.
+*   **2004:** Thủ tướng Chính phủ phê duyệt đề án phát triển tổng thể đảo Phú Quốc. [Nguồn: Quyết định số 178/2004/QĐ-TTg ngày 05/10/2004 của Thủ tướng Chính phủ phê duyệt Đề án phát triển tổng thể đảo Phú Quốc đến năm 2010 và tầm nhìn 2020; Công báo]
 
 <!-- id: EVT-3034 -->
-* **2004:** Anh hùng Lực lượng vũ trang nhân dân Lê Xy (Đại tá, nguyên Phó Chủ nhiệm Tổng cục Hậu cần, nguyên Chính ủy Bộ Tư lệnh Trường Sơn) từ trần.
+* **2004:** Anh hùng Lực lượng vũ trang nhân dân Lê Xy (Đại tá, nguyên Phó Chủ nhiệm Tổng cục Hậu cần, nguyên Chính ủy Bộ Tư lệnh Trường Sơn) từ trần. [Nguồn: Binh chủng Pháo binh, Lịch sử Binh chủng Pháo binh (1946 - 2006), NXB Quân đội nhân dân, 2006; Báo Quân đội nhân dân]
 
 <!-- id: EVT-3035 -->
-* **2004:** Anh hùng Lực lượng vũ trang nhân dân Lê Minh Hương (Thượng tướng Công an nhân dân Việt Nam, Ủy viên Trung ương Đảng khóa VII, VIII, IX, Ủy viên Bộ Chính trị khoá VIII, khoá IX, cố Bộ trưởng Bộ Công an, Đại biểu Quốc hội các khóa IX, X) từ trần.
+* **2004:** Anh hùng Lực lượng vũ trang nhân dân Lê Minh Hương (Thượng tướng Công an nhân dân Việt Nam, Ủy viên Trung ương Đảng khóa VII, VIII, IX, Ủy viên Bộ Chính trị khoá VIII, khoá IX, cố Bộ trưởng Bộ Công an, Đại biểu Quốc hội các khóa IX, X) từ trần. [Nguồn: Thông cáo đặc biệt của Ban Chấp hành Trung ương Đảng, Quốc hội, Chủ tịch nước, Chính phủ, Ủy ban Trung ương MTTQ Việt Nam ngày 23/05/2004; Báo Công an nhân dân]
 
 <!-- id: EVT-3036 -->
-*   **10/01/2004:** Hội Nạn nhân Chất độc Da cam/Dioxin Việt Nam (VAVA) chính thức ra mắt, do Trung tướng Đặng Vũ Hiệp làm Chủ tịch và nguyên Phó Chủ tịch nước Nguyễn Thị Bình làm Chủ tịch danh dự.
+*   **10/01/2004:** Hội Nạn nhân Chất độc Da cam/Dioxin Việt Nam (VAVA) chính thức ra mắt, do Trung tướng Đặng Vũ Hiệp làm Chủ tịch và nguyên Phó Chủ tịch nước Nguyễn Thị Bình làm Chủ tịch danh dự. [Nguồn: Quyết định số 84/2003/QĐ-BNV ngày 17/12/2003 của Bộ Nội vụ; Đại hội thành lập Hội Nạn nhân chất độc da cam/dioxin Việt Nam ngày 10/01/2004; Báo Nhân Dân]
 
 <!-- id: EVT-3037 -->
-*   **30/01/2004:** Hội VAVA thay mặt các nạn nhân đệ đơn kiện 37 công ty hóa chất Hoa Kỳ đã sản xuất chất độc da cam/dioxin sử dụng trong chiến tranh tại Việt Nam lên tòa án liên bang Mỹ, nhằm đòi công lý và bồi thường cho hàng triệu nạn nhân.
+*   **30/01/2004:** Hội VAVA thay mặt các nạn nhân đệ đơn kiện 37 công ty hóa chất Hoa Kỳ đã sản xuất chất độc da cam/dioxin sử dụng trong chiến tranh tại Việt Nam lên tòa án liên bang Mỹ, nhằm đòi công lý và bồi thường cho hàng triệu nạn nhân. [Nguồn: Đơn kiện của Hội Nạn nhân chất độc da cam/dioxin Việt Nam tại Tòa án Sơ thẩm Liên bang Quận Đông New York ngày 30/01/2004; Báo Nhân Dân số ra ngày 01/02/2004]
 
 <!-- id: EVT-3038 -->
-*   **26/03/2004:** Thiếu tướng, Anh hùng Lực lượng vũ trang nhân dân Đặng Trần Đức (bí danh Ba Quốc, nguyên Cục trưởng Cục 12 - Tổng cục Tình báo Quốc phòng, nhà tình báo chiến lược huyền thoại từng thâm nhập sâu vào Phủ Đặc ủy Trung ương Tình báo và Sở Nghiên cứu Chính trị - Xã hội của Việt Nam Cộng hòa) từ trần tại Hà Nội, thọ 82 tuổi.
+*   **26/03/2004:** Thiếu tướng, Anh hùng Lực lượng vũ trang nhân dân Đặng Trần Đức (bí danh Ba Quốc, nguyên Cục trưởng Cục 12 - Tổng cục Tình báo Quốc phòng, nhà tình báo chiến lược huyền thoại từng thâm nhập sâu vào Phủ Đặc ủy Trung ương Tình báo và Sở Nghiên cứu Chính trị - Xã hội của Việt Nam Cộng hòa) từ trần tại Hà Nội, thọ 82 tuổi. [Nguồn: Thông cáo của Bộ Quốc phòng và Tổng cục Tình báo Quốc phòng ngày 26/03/2004; Báo Quân đội nhân dân số ra ngày 28/03/2004; Báo Nhân Dân]
 
 <!-- id: EVT-3039 -->
-*   **10 - 11/04/2004:** Tái diễn các cuộc biểu tình gây rối quy mô lớn của người Thượng tại Đắk Lắk và Gia Lai vào dịp Lễ Phục sinh đòi đất đai và thành lập cái gọi là "Nhà nước Đề Ga".
+*   **10 - 11/04/2004:** Tái diễn các cuộc biểu tình gây rối quy mô lớn của người Thượng tại Đắk Lắk và Gia Lai vào dịp Lễ Phục sinh đòi đất đai và thành lập cái gọi là "Nhà nước Đề Ga". [Nguồn: Báo cáo của UBND tỉnh Gia Lai và Đắk Lắk về tình hình an ninh trật tự tháng 04/2004; Báo Nhân Dân số ra ngày 14/04/2004; Báo Công an nhân dân]
 
 <!-- id: EVT-3040 -->
-*   **02/09/2004:** Raymonde Dien và Henri Martin vinh dự được Nhà nước Việt Nam trao tặng Huân chương Hữu nghị vì những cống hiến không mệt mỏi cho hòa bình và sự ủng hộ kiên định dành cho Việt Nam.
+*   **02/09/2004:** Raymonde Dien và Henri Martin vinh dự được Nhà nước Việt Nam trao tặng Huân chương Hữu nghị vì những cống hiến không mệt mỏi cho hòa bình và sự ủng hộ kiên định dành cho Việt Nam. [Nguồn: Quyết định số 642/2004/QĐ-CTN ngày 02/09/2004 của Chủ tịch nước trao tặng Huân chương Hữu nghị cho Raymonde Dien và Henri Martin; Báo Nhân Dân]
 
 <!-- id: EVT-3041 -->
-*   **16/12/2004:** Tạ Quốc Luật (1925 – 1985), người Đại đội trưởng chỉ huy tổ xung kích bắt sống Tướng De Castries tại Điện Biên Phủ, được Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân.
+*   **16/12/2004:** Tạ Quốc Luật (1925 – 1985), người Đại đội trưởng chỉ huy tổ xung kích bắt sống Tướng De Castries tại Điện Biên Phủ, được Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân. [Nguồn: Quyết định số 949/2004/QĐ-CTN ngày 16/12/2004 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND cho đồng chí Tạ Quốc Luật; Báo Quân đội nhân dân]
 
 <!-- id: EVT-3042 -->
 * **16/12/2004:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hà Văn Nọa (Đại đội trưởng Đại đội 243, Tiểu đoàn 11, Trung đoàn 141, Đại đoàn 312. Trực tiếp chiến đấu trong trận Him Lam mở màn Chiến dịch Điện Biên Phủ. Hy sinh bên bờ sông Nậm Rốm trong trận tấn công đợt 2 Chiến dịch Điện Biên Phủ trưa ngày 2 tháng 4 năm 1954).

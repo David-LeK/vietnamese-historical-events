@@ -9409,426 +9409,426 @@
 *   **1994:** Bui Van Thuyen's mother, Le Thi Moi - who lost five sons in the resistance wars - was among the first group to be honored by the Vietnamese State with the noble title of "Vietnamese Heroic Mother". [Source: Presidential Decision conferring the State Honorary Title of Vietnamese Heroic Mother in 1994; Hung Yen Department of Labour, Invalids and Social Affairs; People's Army Newspaper]
 
 <!-- id: EVT-2906 -->
-*   **1994:** Sung Thi Play (Vu A Dinh's mother) was posthumously awarded the title Vietnamese Heroic Mother in the first batch of recipients, having lost her husband, a son, and her own life to the resistance.
+*   **1994:** Sung Thi Play (Vu A Dinh's mother) was posthumously awarded the title Vietnamese Heroic Mother in the first batch of recipients, having lost her husband, a son, and her own life to the resistance. [Source: Presidential Order posthumously conferring Vietnamese Heroic Mother title in 1994; Dien Bien Provincial Party Committee Commission for Propaganda; Tien Phong Newspaper]
 
 <!-- id: EVT-2907 -->
-* **1994:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Thành Trung (Phó Tổng Giám đốc Vietnam Airlines, Đại tá Không quân Nhân dân Việt Nam).
+* **1994:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Thành Trung (Phó Tổng Giám đốc Vietnam Airlines, Đại tá Không quân Nhân dân Việt Nam). [Source: Presidential Order conferring Hero of the People's Armed Forces in 1994; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2908 -->
-* **1994:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Ngô Thất Sơn (Chiến sĩ du kích thời chống Pháp).
+* **1994:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Ngô Thất Sơn (Chiến sĩ du kích thời chống Pháp). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 1994; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2909 -->
-* **1994:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Vũ Xuân Thiều (Thượng úy Quân đội Nhân dân Việt Nam, phi công MiG-21).
+* **1994:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Vũ Xuân Thiều (Thượng úy Quân đội Nhân dân Việt Nam, phi công MiG-21). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 1994; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2910 -->
-*   **Jan. 20-25, 1994:** The Party's mid-term National Conference (7th tenure) identified four major risks facing the country and set out the task of promoting industrialization and modernization.
+*   **Jan. 20-25, 1994:** The Party's mid-term National Conference (7th tenure) identified four major risks facing the country and set out the task of promoting industrialization and modernization. [Source: Resolution of the Mid-term National Party Conference (7th Tenure), Jan. 1994; Complete Party Documents, Vol. 53 (1994), National Political Publishing House, Hanoi, 2007]
 
 <!-- id: EVT-2911 -->
-*   **Jan. 27, 1994:** The US Senate passed an amendment by a vote of 62-38, sponsored by Senators John Kerry and John McCain, urging President Bill Clinton to end the long-standing trade embargo against Vietnam.
+*   **Jan. 27, 1994:** The US Senate passed an amendment by a vote of 62-38, sponsored by Senators John Kerry and John McCain, urging President Bill Clinton to end the long-standing trade embargo against Vietnam. [Source: U.S. Congressional Record, Senate Amendment No. 1438, Jan. 27, 1994; Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, 2002; Nhan Dan Newspaper]
 
 <!-- id: EVT-2912 -->
-*   **Feb. 3, 1994:** US President Bill Clinton announced the **complete lifting of the 19-year trade embargo** against Vietnam (effective February 4, 1994), paving the way for the normalization of bilateral relations.
+*   **Feb. 3, 1994:** US President Bill Clinton announced the **complete lifting of the 19-year trade embargo** against Vietnam (effective February 4, 1994), paving the way for the normalization of bilateral relations. [Source: Statement by US President Bill Clinton, Feb. 3, 1994; Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, National Political Publishing House, Hanoi, 2002; Nhan Dan Newspaper, Feb. 5, 1994]
 
 <!-- id: EVT-2913 -->
-*   **Early 1994:** Experimental internet connectivity activities began, in collaboration between Vietnamese and Australian scientists.
+*   **Early 1994:** Experimental internet connectivity activities began, in collaboration between Vietnamese and Australian scientists. [Source: Institute of Information Technology, Vietnam Academy of Science and Technology; Science and Life Newspaper; Nhan Dan Newspaper]
 
 <!-- id: EVT-2914 -->
-*   **Mar. 1994:** Vietnam donated 15,000 tons of rice to Cuba to help alleviate its economic hardships.
+*   **Mar. 1994:** Vietnam donated 15,000 tons of rice to Cuba to help alleviate its economic hardships. [Source: Ministry of Foreign Affairs, 60 Years of Special Traditional Vietnam - Cuba Relations (1960 - 2020), National Political Publishing House, Hanoi, 2020; Nhan Dan Newspaper]
 
 <!-- id: EVT-2915 -->
-*   **Apr. 1994:** A naval encounter occurred when the Vietnamese Navy ordered a Chinese research vessel (conducting seismic surveys for Crestone) to leave Vietnam's jurisdictional waters, and the Chinese vessel complied.
+*   **Apr. 1994:** A naval encounter occurred when the Vietnamese Navy ordered a Chinese research vessel (conducting seismic surveys for Crestone) to leave Vietnam's jurisdictional waters, and the Chinese vessel complied. [Source: Naval Command, History of the 171st Naval Brigade (1966 - 2006), People's Army Publishing House, 2006; Dr. Nguyen Nha, Vietnam's Territorial Sovereignty over Hoang Sa and Truong Sa Archipelagos, 2013]
 
 <!-- id: EVT-2916 -->
-*   **May 27, 1994:** The 500 kV North-South Circuit 1 extra-high-voltage transmission line was officially energized and operational after more than two years of rapid construction, unifying the electrical systems of the three regions into a unified national grid and resolving severe power shortages in Central and Southern Vietnam; marking a monumental achievement of visionary Prime Minister Vo Van Kiet.
+*   **May 27, 1994:** The 500 kV North-South Circuit 1 extra-high-voltage transmission line was officially energized and operational after more than two years of rapid construction, unifying the electrical systems of the three regions into a unified national grid and resolving severe power shortages in Central and Southern Vietnam; marking a monumental achievement of visionary Prime Minister Vo Van Kiet. [Source: Vietnam Electricity (EVN), 20 Years of North-South 500 kV Transmission Line (1994 - 2014); Government Press Release, May 27, 1994; Nhan Dan Newspaper, May 28, 1994]
 
 <!-- id: EVT-2917 -->
-*   **Jun. 23, 1994:** The 9th National Assembly of Vietnam adopted a resolution ratifying the 1982 United Nations Convention on the Law of the Sea (UNCLOS 1982), affirming Vietnam's sovereignty and sovereign rights over its internal waters, territorial sea, exclusive economic zone, and continental shelf, while reaffirming sovereignty over the Paracel and Spratly Archipelagos.
+*   **Jun. 23, 1994:** The 9th National Assembly of Vietnam adopted a resolution ratifying the 1982 United Nations Convention on the Law of the Sea (UNCLOS 1982), affirming Vietnam's sovereignty and sovereign rights over its internal waters, territorial sea, exclusive economic zone, and continental shelf, while reaffirming sovereignty over the Paracel and Spratly Archipelagos. [Source: Resolution of the 9th National Assembly dated June 23, 1994 ratifying the 1982 UNCLOS; National Assembly Documents, Vol. 8 (1992 - 1997), National Political Publishing House, 2008]
 
 <!-- id: EVT-2918 -->
-*   **Sep. 10, 1994:** State President Le Duc Anh signed the Order promulgating the Ordinance on the State Honorary Title "Heroic Vietnamese Mother" and the Ordinance on Preferential Treatment for Revolutionary Activists, Martyrs, and Their Families, Wounded Soldiers, and Sick Soldiers (adopted by the 9th National Assembly Standing Committee on August 29, 1994), embodying the profound cultural ethos of national gratitude.
+*   **Sep. 10, 1994:** State President Le Duc Anh signed the Order promulgating the Ordinance on the State Honorary Title "Heroic Vietnamese Mother" and the Ordinance on Preferential Treatment for Revolutionary Activists, Martyrs, and Their Families, Wounded Soldiers, and Sick Soldiers (adopted by the 9th National Assembly Standing Committee on August 29, 1994), embodying the profound cultural ethos of national gratitude. [Source: Presidential Order No. 36-L/CTN dated Sept. 10, 1994 promulgating the Ordinance on the State Honorary Title "Vietnamese Heroic Mother"; National Assembly Documents, Vol. 8 (1992 - 1997), 2008]
 
 <!-- id: EVT-2919 -->
-*   **Dec. 17, 1994:** Ha Long Bay was recognized by UNESCO based on the criteria of its unique and aesthetically important natural landscape value.
+*   **Dec. 17, 1994:** Ha Long Bay was recognized by UNESCO based on the criteria of its unique and aesthetically important natural landscape value. [Source: UNESCO, Decision of the World Heritage Committee at its 18th Session (Phuket, 1994); Ha Long Bay Management Board; Nhan Dan Newspaper]
 
 <!-- id: EVT-2920 -->
-*   **Dec. 20, 1994:** Lò Văn Giá was posthumously awarded the title Hero of the People's Armed Forces by the Party and State, acknowledging his immense contributions to the national liberation struggle.
+*   **Dec. 20, 1994:** Lò Văn Giá was posthumously awarded the title Hero of the People's Armed Forces by the Party and State, acknowledging his immense contributions to the national liberation struggle. [Source: Presidential Decision posthumously conferring Hero of the People's Armed Forces dated Dec. 20, 1994; Son La Provincial Party Committee Commission for Propaganda, History of Son La Provincial Party Organization, 2005]
 
 <!-- id: EVT-2921 -->
-* **20/12/1994:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Phan Thị Ràng (Liệt sĩ, tham gia chiến đấu tại huyện Hòn Đất, tỉnh Kiên Giang. Hy sinh ngày 9 tháng 1 năm 1962. Nguyên mẫu nhân vật chị Sứ trong tiểu thuyết ''Hòn Đất'').
+* **20/12/1994:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Phan Thị Ràng (Liệt sĩ, tham gia chiến đấu tại huyện Hòn Đất, tỉnh Kiên Giang. Hy sinh ngày 9 tháng 1 năm 1962. Nguyên mẫu nhân vật chị Sứ trong tiểu thuyết ''Hòn Đất''). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces dated Dec. 20, 1994; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2922 -->
-*   **1995:** Fidel Castro visited Vietnam for the second time, receiving gifts from Quang Tri (a photo of his 1973 visit and local pepper) that reminded him of the region's strong recovery.
+*   **1995:** Fidel Castro visited Vietnam for the second time, receiving gifts from Quang Tri (a photo of his 1973 visit and local pepper) that reminded him of the region's strong recovery. [Source: Ministry of Foreign Affairs, 60 Years of Special Traditional Vietnam - Cuba Relations (1960 - 2020), National Political Publishing House, Hanoi, 2020; Nhan Dan Newspaper]
 
 <!-- id: EVT-2923 -->
-*   **1995:** The Party and State posthumously awarded Nguyễn Văn Trỗi the title Hero of the People's Armed Forces.
+*   **1995:** The Party and State posthumously awarded Nguyễn Văn Trỗi the title Hero of the People's Armed Forces. [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 1995; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2924 -->
-*   **1995:** During the severe US and international embargo against Iraq, Vietnamese Ambassador to Iraq Nguyen Quang Khai successfully persuaded Vinafood 1 to deliver a ship carrying 25,000 - 30,000 tons of rice to Iraq on credit. This marked the beginning of Vietnam becoming a major rice supplier to Iraq under the UN's "Oil for Food" program.
+*   **1995:** During the severe US and international embargo against Iraq, Vietnamese Ambassador to Iraq Nguyen Quang Khai successfully persuaded Vinafood 1 to deliver a ship carrying 25,000 - 30,000 tons of rice to Iraq on credit. This marked the beginning of Vietnam becoming a major rice supplier to Iraq under the UN's "Oil for Food" program. [Source: Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, National Political Publishing House, Hanoi, 2002; Nhan Dan Newspaper]
 
 <!-- id: EVT-2925 -->
-* **1995:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Nguyễn Thị Định (Thiếu tướng Quân đội Nhân dân Việt Nam, Phó Chủ tịch Hội đồng Nhà nước).
+* **1995:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Nguyễn Thị Định (Thiếu tướng Quân đội Nhân dân Việt Nam, Phó Chủ tịch Hội đồng Nhà nước). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 1995; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2926 -->
-* **1995:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Hà Văn Chúc (Phi công Không quân Nhân dân Việt Nam).
+* **1995:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Hà Văn Chúc (Phi công Không quân Nhân dân Việt Nam). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 1995; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2927 -->
-* **1995:** Hero of the People's Armed Forces Hoàng Thế Thiện (Cấp bậc, chức vụ đề nghị Chủ tịch nước xét truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân: Thiếu tướng, Chính ủy Quân đoàn 4, Bộ Quốc phòng trong Kháng chiến chống Mỹ) passed away.
+* **1995:** Hero of the People's Armed Forces Hoàng Thế Thiện (Cấp bậc, chức vụ đề nghị Chủ tịch nước xét truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân: Thiếu tướng, Chính ủy Quân đoàn 4, Bộ Quốc phòng trong Kháng chiến chống Mỹ) passed away. [Source: 4th Corps Veterans Liaison Committee, Major General Hoang The Thien - Talented Political General, People's Army Publishing House, Hanoi, 2005; People's Army Newspaper]
 
 <!-- id: EVT-2928 -->
-*   **Jan. 1995:** The 8th Conference of the Party Central Committee (7th tenure) discussed "Continuing to build and perfect the State of the Socialist Republic of Vietnam."
+*   **Jan. 1995:** The 8th Conference of the Party Central Committee (7th tenure) discussed "Continuing to build and perfect the State of the Socialist Republic of Vietnam." [Source: Resolution of the 8th Plenum of the Party Central Committee (7th Tenure) dated Jan. 23, 1995 on state administration reform; Complete Party Documents, Vol. 54 (1995), National Political Publishing House, 2007]
 
 <!-- id: EVT-2929 -->
-*   **Jan. 28, 1995:** Vietnam and the United States officially opened Liaison Offices in each other's capitals, marking a crucial milestone towards full diplomatic normalization.
+*   **Jan. 28, 1995:** Vietnam and the United States officially opened Liaison Offices in each other's capitals, marking a crucial milestone towards full diplomatic normalization. [Source: Joint Statement of Vietnam Ministry of Foreign Affairs and US Department of State, Jan. 28, 1995; Nhan Dan Newspaper, Jan. 29, 1995; Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, 2002]
 
 <!-- id: EVT-2930 -->
-*   **Feb. 9, 1995:** The Philippines formally protested the People's Republic of China's occupation and construction of shelters on Mischief Reef (Vanh Khan) in the Spratly Islands.
+*   **Feb. 9, 1995:** The Philippines formally protested the People's Republic of China's occupation and construction of shelters on Mischief Reef (Vanh Khan) in the Spratly Islands. [Source: Statement by Philippine President Fidel Ramos, Feb. 8, 1995; Statement of the Ministry of Foreign Affairs of the SRV, Feb. 10, 1995; Dr. Nguyen Nha, Vietnam's Territorial Sovereignty over Hoang Sa and Truong Sa Archipelagos, 2013]
 
 <!-- id: EVT-2931 -->
-*   **May 1995:** Vietnam donated an additional 20,000 tons of rice to Cuba.
+*   **May 1995:** Vietnam donated an additional 20,000 tons of rice to Cuba. [Source: Ministry of Foreign Affairs, 60 Years of Special Traditional Vietnam - Cuba Relations (1960 - 2020), National Political Publishing House, Hanoi, 2020; Nhan Dan Newspaper]
 
 <!-- id: EVT-2932 -->
-*   **Jul. 10, 1995:** Composer Van Cao (author of the National Anthem "Tien Quan Ca", giant of modern Vietnamese music and poetry) passed away in Hanoi at the age of 72. In 1996, he was posthumously awarded the first Ho Chi Minh Prize in Literature and Arts.
+*   **Jul. 10, 1995:** Composer Van Cao (author of the National Anthem "Tien Quan Ca", giant of modern Vietnamese music and poetry) passed away in Hanoi at the age of 72. In 1996, he was posthumously awarded the first Ho Chi Minh Prize in Literature and Arts. [Source: Special Communique of the Vietnam Musicians Association and Ministry of Culture and Information; Nhan Dan Newspaper, July 12, 1995; Tien Phong Newspaper]
 
 <!-- id: EVT-2933 -->
-*   **Jul. 12, 1995:** US President Bill Clinton and Vietnamese Prime Minister Vo Van Kiet simultaneously announced the **normalization of diplomatic relations** between the two countries.
+*   **Jul. 12, 1995:** US President Bill Clinton and Vietnamese Prime Minister Vo Van Kiet simultaneously announced the **normalization of diplomatic relations** between the two countries. [Source: Statement of Prime Minister Vo Van Kiet on the Normalization of Diplomatic Relations between Vietnam and the United States, July 12, 1995; Nhan Dan Newspaper, July 13, 1995]
 
 ![Historical Image](images/event_20260923_105829.webp)
 
 *Source: White House file photo / Tuoi Tre Newspaper*
 
 <!-- id: EVT-2934 -->
-*   **Jul. 28, 1995:** Vietnam was officially admitted as the **7th member** of the Association of Southeast Asian Nations (ASEAN) in Brunei.
+*   **Jul. 28, 1995:** Vietnam was officially admitted as the **7th member** of the Association of Southeast Asian Nations (ASEAN) in Brunei. [Source: Declaration on the Admission of the SRV into the Association of Southeast Asian Nations in Bandar Seri Begawan, July 28, 1995; Nhan Dan Newspaper, July 29, 1995; ASEAN Secretariat]
 
 ![Historical Image](images/event_20260923_105715.webp)
 
 *Source: Photo: Tran Son - TTXVN*
 
 <!-- id: EVT-2935 -->
-*   **Aug. 3, 1995:** Public Security martyr Bui Thi Cuc (Tran Thi Lan) was posthumously awarded the title **Hero of the People's Armed Forces** by the State for her outstanding exploits and heroic sacrifice in the resistance war against French colonialism.
+*   **Aug. 3, 1995:** Public Security martyr Bui Thi Cuc (Tran Thi Lan) was posthumously awarded the title **Hero of the People's Armed Forces** by the State for her outstanding exploits and heroic sacrifice in the resistance war against French colonialism. [Source: Presidential Decision posthumously conferring Hero of the People's Armed Forces dated Aug. 3, 1995; Ministry of Public Security, Shining Examples of Public Security Heroes, 2005]
 
 <!-- id: EVT-2936 -->
-* **30/08/1995:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Nguyễn Ngọc Bảo (Tiểu đoàn phó, Tiểu đoàn 122, Cục Quân báo, Bộ Tổng Tham mưu. Người chỉ huy trận đánh thu được tấm bản đồ Điện Biên Phủ của Pháp. Ông hy sinh ngày 8 tháng 4 năm 1954 trong chiến dịch Điện Biên Phủ).
+* **30/08/1995:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Nguyễn Ngọc Bảo (Tiểu đoàn phó, Tiểu đoàn 122, Cục Quân báo, Bộ Tổng Tham mưu. Người chỉ huy trận đánh thu được tấm bản đồ Điện Biên Phủ của Pháp. Ông hy sinh ngày 8 tháng 4 năm 1954 trong chiến dịch Điện Biên Phủ). [Source: Presidential Order No. 445-KT/CTN dated Aug. 30, 1995 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2937 -->
-* **30/08/1995:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Nguyễn Thị Nê (Nữ du kích Củ Chi, huyện đội phó huyện đội Nam Củ Chi, người được thay mặt Đại hội Anh hùng chiến sĩ thi đua toàn Miền Nam lần thứ 2 (1967) viết thư gửi Bác Hồ để báo cáo tình hình hoạt động cách mạng của lực lượng du kích Củ Chi).
+* **30/08/1995:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Nguyễn Thị Nê (Nữ du kích Củ Chi, huyện đội phó huyện đội Nam Củ Chi, người được thay mặt Đại hội Anh hùng chiến sĩ thi đua toàn Miền Nam lần thứ 2 (1967) viết thư gửi Bác Hồ để báo cáo tình hình hoạt động cách mạng của lực lượng du kích Củ Chi). [Source: Presidential Order No. 445-KT/CTN dated Aug. 30, 1995 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2938 -->
-*   **Late 1995:** Colonel and intelligence Hero Dinh Thi Van passed away in Hanoi at the age of 79. She was a legendary figure in Vietnam's military intelligence who sacrificed her personal happiness for her country, and was later honored by having streets named after her in Nam Dinh and Da Nang.
+*   **Late 1995:** Colonel and intelligence Hero Dinh Thi Van passed away in Hanoi at the age of 79. She was a legendary figure in Vietnam's military intelligence who sacrificed her personal happiness for her country, and was later honored by having streets named after her in Nam Dinh and Da Nang. [Source: General Department of Defense Intelligence, History of Vietnam Defense Intelligence (1945 - 2005), People's Army Publishing House, 2005; People's Army Newspaper]
 
 <!-- id: EVT-2939 -->
 
 ### **Period of Accelerating Industrialization and Modernization (1996 - 2000)**
 
-*   **1996:** Following the division of Quang Nam - Da Nang, Hoang Sa District was placed under the direct administration of the centrally-run city of Da Nang.
+*   **1996:** Following the division of Quang Nam - Da Nang, Hoang Sa District was placed under the direct administration of the centrally-run city of Da Nang. [Source: Resolution of the 9th National Assembly dated Nov. 6, 1996 on administrative boundary redivision; National Assembly Documents, Vol. 8 (1992 - 1997), National Political Publishing House, 2008]
 
 <!-- id: EVT-2940 -->
-*   **1996:** Huynh Tan Phat was posthumously awarded the Ho Chi Minh Prize in Literature and Arts for his architectural works, including the Quy Nhach of Hanoi Capital (1981).
+*   **1996:** Huynh Tan Phat was posthumously awarded the Ho Chi Minh Prize in Literature and Arts for his architectural works, including the Quy Nhach of Hanoi Capital (1981). [Source: Presidential Decision No. 990-KT/CTN dated Sept. 10, 1996 posthumously awarding the 1st Ho Chi Minh Prize; Ministry of Culture and Information; Nhan Dan Newspaper]
 
 <!-- id: EVT-2941 -->
-* **1996:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Ngọc Nại (Đội trưởng đội du kích Hồng Hà).
+* **1996:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Ngọc Nại (Đội trưởng đội du kích Hồng Hà). [Source: Presidential Order conferring Hero of the People's Armed Forces in 1996; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2942 -->
-* **1996:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Trần Công An (Đại tá công binh).
+* **1996:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Trần Công An (Đại tá công binh). [Source: Presidential Order conferring Hero of the People's Armed Forces in 1996; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2943 -->
-* **1996:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Trần Văn Tư (Đội phó Đội Trinh sát Vũ trang Bến Tre).
+* **1996:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Trần Văn Tư (Đội phó Đội Trinh sát Vũ trang Bến Tre). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 1996; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2944 -->
-* **1996:** Hero of the People's Armed Forces Tô Quyền (Đại tá Công an Nhân dân Việt Nam có công với Cách mạng) passed away.
+* **1996:** Hero of the People's Armed Forces Tô Quyền (Đại tá Công an Nhân dân Việt Nam có công với Cách mạng) passed away. [Source: Hai Phong Police, History of Hai Phong People's Police (1945 - 2005), Public Security Publishing House, 2005; People's Public Security Newspaper]
 
 <!-- id: EVT-2945 -->
-*   **Jan. 29, 1996:** The Party and State posthumously awarded Thiều Văn Chỏi the title Hero of the People's Armed Forces for his outstanding military exploits.
+*   **Jan. 29, 1996:** The Party and State posthumously awarded Thiều Văn Chỏi the title Hero of the People's Armed Forces for his outstanding military exploits. [Source: Presidential Order No. 472-KT/CTN dated Jan. 29, 1996 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2946 -->
-* **29/01/1996:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lê Hữu Thúy (Đại tá, cán bộ tình báo chiến lược thuộc lưới tình báo A22).
+* **29/01/1996:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lê Hữu Thúy (Đại tá, cán bộ tình báo chiến lược thuộc lưới tình báo A22). [Source: Presidential Order No. 472-KT/CTN dated Jan. 29, 1996 conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2947 -->
-*   **Mar. 12, 1996:** Captain Hoàng Cầm (birth name Đỗ Văn Cầm, born 1916), former mess squad leader in Division 308 and creator of the legendary Hoàng Cầm stove, passed away at Military Central Hospital 108 in Hanoi at the age of 80.
+*   **Mar. 12, 1996:** Captain Hoàng Cầm (birth name Đỗ Văn Cầm, born 1916), former mess squad leader in Division 308 and creator of the legendary Hoàng Cầm stove, passed away at Military Central Hospital 108 in Hanoi at the age of 80. [Source: General Department of Logistics, History of Military Quartermaster Branch (1946 - 2006), People's Army Publishing House, 2006; People's Army Newspaper]
 
 <!-- id: EVT-2948 -->
-*   **Jun. 28 - Jul. 1, 1996:** The 8th National Congress of the Communist Party of Vietnam convened in Hanoi, re-electing Comrade Do Muoi as General Secretary of the Party Central Committee. The Congress reviewed 10 years of Doi Moi, affirmed that the country had emerged from its socio-economic crisis, and formally proclaimed the transition into a new era: **accelerating national industrialization and modernization**, striving to fundamentally become an industrialized country by 2020.
+*   **Jun. 28 - Jul. 1, 1996:** The 8th National Congress of the Communist Party of Vietnam convened in Hanoi, re-electing Comrade Do Muoi as General Secretary of the Party Central Committee. The Congress reviewed 10 years of Doi Moi, affirmed that the country had emerged from its socio-economic crisis, and formally proclaimed the transition into a new era: **accelerating national industrialization and modernization**, striving to fundamentally become an industrialized country by 2020. [Source: Political Report of the Party Central Committee at the 8th National Congress; Complete Party Documents, Vol. 55 (1996), National Political Publishing House, Hanoi, 2007]
 
 <!-- id: EVT-2949 -->
-*   **Aug. 21, 1996:** Prime Minister Vo Van Kiet issued Decision No. 544/TTg approving the master plan for flood discharge into the West Sea and flood control in the Long Xuyen Quadrangle and Dong Thap Muoi, combined with the freshwater diversion program for the Ca Mau peninsula. This strategic hydraulic scheme transformed severely acidic flooded lowlands into Vietnam's most productive rice and aquaculture granaries, securing national food stability.
+*   **Aug. 21, 1996:** Prime Minister Vo Van Kiet issued Decision No. 544/TTg approving the master plan for flood discharge into the West Sea and flood control in the Long Xuyen Quadrangle and Dong Thap Muoi, combined with the freshwater diversion program for the Ca Mau peninsula. This strategic hydraulic scheme transformed severely acidic flooded lowlands into Vietnam's most productive rice and aquaculture granaries, securing national food stability. [Source: Prime Minister Decision No. 544/TTg dated Aug. 21, 1996; Government Office, Vo Van Kiet's Imprint on Long Xuyen Quadrangle Flood Drainage Project, 2012]
 
 <!-- id: EVT-2950 -->
-*   **1997:** The **regional financial-monetary crisis** began, negatively affecting Vietnam's economy, reducing its growth rate and investment attraction.
+*   **1997:** The **regional financial-monetary crisis** began, negatively affecting Vietnam's economy, reducing its growth rate and investment attraction. [Source: State Bank of Vietnam, Annual Report 1997; Institute of Economics, Impacts of the Asian Financial Crisis on Vietnam's Economy, Social Sciences Publishing House, 1998]
 
 <!-- id: EVT-2951 -->
-*   **1997:** The remains of martyr Nguyen Huu Que, who fell defending Hill 815 in 1979, were successfully located in Coc Cang (Tra Linh, Cao Bang) by his family and repatriated to Thanh Hoa.
+*   **1997:** The remains of martyr Nguyen Huu Que, who fell defending Hill 815 in 1979, were successfully located in Coc Cang (Tra Linh, Cao Bang) by his family and repatriated to Thanh Hoa. [Source: Ha Giang Provincial Military Command, Vi Xuyen Battlefield Fallen Soldiers Exhumation Dossier; People's Army Newspaper]
 
 <!-- id: EVT-2952 -->
-* **1997:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Lê Độ (Chiến sĩ biệt động thành phố Đà Nẵng).
+* **1997:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Lê Độ (Chiến sĩ biệt động thành phố Đà Nẵng). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 1997; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2001]
 
 <!-- id: EVT-2953 -->
-* **1997:** Hero of the People's Armed Forces Trần Hải Phụng (Hai Phụng) (Thiếu tướng, nguyên Tư lệnh Quân khu Sài Gòn – Gia Định, Phó Tư lệnh Quân khu 7. Phó Trưởng đoàn chuyên gia 385 đặc trách về công tác phòng thủ đô thị cho Cuba) passed away.
+* **1997:** Hero of the People's Armed Forces Trần Hải Phụng (Hai Phụng) (Thiếu tướng, nguyên Tư lệnh Quân khu Sài Gòn – Gia Định, Phó Tư lệnh Quân khu 7. Phó Trưởng đoàn chuyên gia 385 đặc trách về công tác phòng thủ đô thị cho Cuba) passed away. [Source: Military Region 7 Command, Major General Tran Hai Phung - Life and Career, People's Army Publishing House, 2003; Military Region 7 Newspaper]
 
 <!-- id: EVT-2954 -->
-*   **Apr. 7, 1997:** In Hanoi, Vietnamese Minister of Finance Nguyễn Sinh Hùng and US Treasury Secretary Robert Rubin signed a bilateral debt settlement agreement. The US set a prerequisite requiring Vietnam to assume and repay approximately $145 million (including $76 million in principal and $69 million in accrued interest) borrowed by the former Republic of Vietnam before 1975 in exchange for unfreezing Vietnamese assets, opening access to international financial institutions (World Bank, IMF, US Ex-Im Bank), and negotiating the Bilateral Trade Agreement (BTA). Despite the unjust burden of repaying debts incurred by the US-backed regime during a destructive war for which Vietnam received no war reparations (contrary to Article 21 of the 1973 Paris Peace Accords), Vietnam accepted the agreement for the sake of peace, economic development, and international integration; the debt was fully repaid by December 31, 2019.
+*   **Apr. 7, 1997:** In Hanoi, Vietnamese Minister of Finance Nguyễn Sinh Hùng and US Treasury Secretary Robert Rubin signed a bilateral debt settlement agreement. The US set a prerequisite requiring Vietnam to assume and repay approximately $145 million (including $76 million in principal and $69 million in accrued interest) borrowed by the former Republic of Vietnam before 1975 in exchange for unfreezing Vietnamese assets, opening access to international financial institutions (World Bank, IMF, US Ex-Im Bank), and negotiating the Bilateral Trade Agreement (BTA). Despite the unjust burden of repaying debts incurred by the US-backed regime during a destructive war for which Vietnam received no war reparations (contrary to Article 21 of the 1973 Paris Peace Accords), Vietnam accepted the agreement for the sake of peace, economic development, and international integration; the debt was fully repaid by December 31, 2019. [Source: Bilateral Debt Settlement Agreement between the Government of the SRV and the Government of the USA signed Apr. 7, 1997 in Hanoi; Ministry of Finance; Nhan Dan Newspaper]
 
 <!-- id: EVT-2955 -->
-*   **May - Nov. 1997:** The Thai Binh peasant unrest erupted as thousands of rural citizens across multiple districts (Quynh Phu, Thai Thuy, Tien Hai, Hung Ha, Dong Hung) gathered to petition and demonstrate against grassroots corruption, excessive taxation, and land mismanagement, directly prompting the Politburo to issue Directive 30-CT/TW on establishing Grassroots Democracy Regulations.
+*   **May - Nov. 1997:** The Thai Binh peasant unrest erupted as thousands of rural citizens across multiple districts (Quynh Phu, Thai Thuy, Tien Hai, Hung Ha, Dong Hung) gathered to petition and demonstrate against grassroots corruption, excessive taxation, and land mismanagement, directly prompting the Politburo to issue Directive 30-CT/TW on establishing Grassroots Democracy Regulations. [Source: Party Central Committee, Politburo Conclusions on Instability in Thai Binh in 1997; Complete Party Documents, Vol. 56 (1997), National Political Publishing House, 2007; Nhan Dan Newspaper]
 
 <!-- id: EVT-2956 -->
-*   **Jul. 1, 1997:** The Law on Cooperatives took effect, creating a legal basis for transforming agricultural cooperatives into new-style service models serving the household economy.
+*   **Jul. 1, 1997:** The Law on Cooperatives took effect, creating a legal basis for transforming agricultural cooperatives into new-style service models serving the household economy. [Source: Law on Cooperatives of 1996, passed Mar. 20, 1996, effective July 1, 1997; Vietnam Cooperative Alliance; Official Gazette of the SRV]
 
 <!-- id: EVT-2957 -->
-*   **July 23, 1997:** The President of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to comrade Hoàng Lê Kha (Standing Member of the Tây Ninh Provincial Party Committee, brutally executed by guillotine in 1960 under the Ngô Đình Diệm regime's Law 10/59) and 6 heroic youth martyrs: Kim Đồng (Nông Văn Dền - first leader of the Children's National Salvation Team), Dương Văn Nội (Thăng Long Youth Self-Defense Team, heroically sacrificed in 1947), Lê Thị Tuyết (Quảng Trị, resourceful young female liaison), Lưu Quý An (Vĩnh Phúc, heroically sacrificed destroying enemy motor vehicles in 1953), Dương Văn Mạnh (Bà Rịa - Vũng Tàu, deputy leader of the Children's National Salvation Team, heroically sacrificed in 1947), and Trần Văn Hai (Bà Rịa - Vũng Tàu, staunch youth courier).
+*   **July 23, 1997:** The President of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to comrade Hoàng Lê Kha (Standing Member of the Tây Ninh Provincial Party Committee, brutally executed by guillotine in 1960 under the Ngô Đình Diệm regime's Law 10/59) and 6 heroic youth martyrs: Kim Đồng (Nông Văn Dền - first leader of the Children's National Salvation Team), Dương Văn Nội (Thăng Long Youth Self-Defense Team, heroically sacrificed in 1947), Lê Thị Tuyết (Quảng Trị, resourceful young female liaison), Lưu Quý An (Vĩnh Phúc, heroically sacrificed destroying enemy motor vehicles in 1953), Dương Văn Mạnh (Bà Rịa - Vũng Tàu, deputy leader of the Children's National Salvation Team, heroically sacrificed in 1947), and Trần Văn Hai (Bà Rịa - Vũng Tàu, staunch youth courier). [Source: Presidential Order No. 695-KT/CTN dated July 23, 1997 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2001]
 
 <!-- id: EVT-2958 -->
-*   **Aug. 1, 1997 (Dinh Suu year):** Former Emperor Bao Dai (Nguyen Phuc Vinh Thuy), the last reigning emperor of imperial Vietnam, passed away at the Val-de-Grâce military hospital in Paris (France) at the age of 83, bringing a definitive close to Vietnam's monarchical era.
+*   **Aug. 1, 1997 (Dinh Suu year):** Former Emperor Bao Dai (Nguyen Phuc Vinh Thuy), the last reigning emperor of imperial Vietnam, passed away at the Val-de-Grâce military hospital in Paris (France) at the age of 83, bringing a definitive close to Vietnam's monarchical era. [Source: Bao Dai, Le Dragon d'Annam (Memoirs), Plon, Paris, 1980; Le Monde, Aug. 2, 1997; AFP News Agency]
 
 <!-- id: EVT-2959 -->
-*   **Sep. 24, 1997:** The 1st session of the 10th National Assembly elected Comrade Tran Duc Luong as State President and Comrade Phan Van Khai as Prime Minister of the Socialist Republic of Vietnam (on September 25, 1997). Both leaders served as heads of state and government for two consecutive terms (1997–2006), successfully steering the national economy through the Asian Financial Crisis and into comprehensive global integration.
+*   **Sep. 24, 1997:** The 1st session of the 10th National Assembly elected Comrade Tran Duc Luong as State President and Comrade Phan Van Khai as Prime Minister of the Socialist Republic of Vietnam (on September 25, 1997). Both leaders served as heads of state and government for two consecutive terms (1997–2006), successfully steering the national economy through the Asian Financial Crisis and into comprehensive global integration. [Source: Resolution of the 10th National Assembly at its First Session, Sept. 24, 1997; National Assembly Documents, Vol. 9 (1997 - 2002), National Political Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-2960 -->
-*   **Nov. 19, 1997:** Internet services were officially made widely available in Vietnam, with Vietnam Posts and Telecommunications Group (VNPT) and Netnam Joint Stock Company being among the first to implement them.
+*   **Nov. 19, 1997:** Internet services were officially made widely available in Vietnam, with Vietnam Posts and Telecommunications Group (VNPT) and Netnam Joint Stock Company being among the first to implement them. [Source: National Steering Committee on IT, Press Conference Officially Launching the Internet in Vietnam, Nov. 19, 1997; Vietnam Posts and Telecommunications Group (VNPT); Nhan Dan Newspaper]
 
 <!-- id: EVT-2961 -->
-*   **Dec. 1997:** The 4th Conference of the Party Central Committee (8th tenure) set out a policy of upholding the spirit of self-reliance and self-strengthening, and leveraging internal resources to overcome the difficulties and challenges from the crisis.
+*   **Dec. 1997:** The 4th Conference of the Party Central Committee (8th tenure) set out a policy of upholding the spirit of self-reliance and self-strengthening, and leveraging internal resources to overcome the difficulties and challenges from the crisis. [Source: Resolution of the 4th Plenum of the Party Central Committee (8th Tenure), Dec. 29, 1997; Complete Party Documents, Vol. 56 (1997), National Political Publishing House, Hanoi, 2007]
 
 <!-- id: EVT-2962 -->
-*   **Dec. 29, 1997:** The 4th Plenum of the 8th Party Central Committee elected Senior Lieutenant General Le Kha Phieu as General Secretary of the Party Central Committee following Do Muoi's voluntary transition (Do Muoi was appointed Senior Advisor to the Central Committee). As General Secretary, Le Kha Phieu placed paramount focus on Party building and rectification (Resolution of the 6th Plenum 2nd session in 1999), upholding democratic centralism and safeguarding national territorial sovereignty.
+*   **Dec. 29, 1997:** The 4th Plenum of the 8th Party Central Committee elected Senior Lieutenant General Le Kha Phieu as General Secretary of the Party Central Committee following Do Muoi's voluntary transition (Do Muoi was appointed Senior Advisor to the Central Committee). As General Secretary, Le Kha Phieu placed paramount focus on Party building and rectification (Resolution of the 6th Plenum 2nd session in 1999), upholding democratic centralism and safeguarding national territorial sovereignty. [Source: Resolution of the 4th Plenum of the Party Central Committee (8th Tenure) on continuing Doi Moi; Complete Party Documents, Vol. 56 (1997), National Political Publishing House, 2007]
 
 <!-- id: EVT-2963 -->
-*   **1998:** The Ho Chi Minh City Securities Trading Center was established by a decision of the Prime Minister.
+*   **1998:** The Ho Chi Minh City Securities Trading Center was established by a decision of the Prime Minister. [Source: Prime Minister Decision No. 127/1998/QD-TTg dated July 11, 1998 establishing the HCM City Securities Trading Center; State Securities Commission]
 
 <!-- id: EVT-2964 -->
-*   **1998:** The French Court of Cassation officially rejected the final appeals against Georges Boudarel, declaring that he could not be tried, definitively closing the "crimes against humanity" case.
+*   **1998:** The French Court of Cassation officially rejected the final appeals against Georges Boudarel, declaring that he could not be tried, definitively closing the "crimes against humanity" case. [Source: French Court Judgment confirming dismissal of the Boudarel litigation, 1998; Le Figaro; French Legal Archives]
 
 <!-- id: EVT-2965 -->
-* **1998:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Hoàng Minh Đạo (Liệt sĩ, Trưởng phòng Tình báo đầu tiên của Quân uỷ hội. Hy sinh do bị phục kích trên đường đi công tác tại sông Vàm Cỏ Đông đoạn qua ấp An Thới, xã An Hòa, huyện Trảng Bàng, tỉnh Tây Ninh đêm 24 tháng 12 năm 1969).
+* **1998:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Hoàng Minh Đạo (Liệt sĩ, Trưởng phòng Tình báo đầu tiên của Quân uỷ hội. Hy sinh do bị phục kích trên đường đi công tác tại sông Vàm Cỏ Đông đoạn qua ấp An Thới, xã An Hòa, huyện Trảng Bàng, tỉnh Tây Ninh đêm 24 tháng 12 năm 1969). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 1998; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2001]
 
 <!-- id: EVT-2966 -->
-* **1998:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Dương Minh Châu (Chủ tịch Ủy ban hành chính kháng chiến tỉnh Tây Ninh).
+* **1998:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Dương Minh Châu (Chủ tịch Ủy ban hành chính kháng chiến tỉnh Tây Ninh). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 1998; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2001]
 
 <!-- id: EVT-2967 -->
-* **1998:** Hero of the People's Armed Forces Phan Kim Kỳ (Đại đội phó đại đội 3, Tiểu đoàn 172, Trung đoàn tên lửa 64, Sư đoàn Phòng không 361, Quân chủng Phòng không - Không quân Việt Nam, Nghề nghiệp Kỹ sư Thủy Lợi - sở Nông nghiệp & PT Nông thôn tỉnh Nghệ An) passed away.
+* **1998:** Hero of the People's Armed Forces Phan Kim Kỳ (Đại đội phó đại đội 3, Tiểu đoàn 172, Trung đoàn tên lửa 64, Sư đoàn Phòng không 361, Quân chủng Phòng không - Không quân Việt Nam, Nghề nghiệp Kỹ sư Thủy Lợi - sở Nông nghiệp & PT Nông thôn tỉnh Nghệ An) passed away. [Source: Ha Tinh Provincial Military Command, History of the People's Armed Forces of Ha Tinh (1945 - 2005), People's Army Publishing House, 2005; Ha Tinh Newspaper]
 
 <!-- id: EVT-2968 -->
-*   **1998:** A major academic symposium commemorating the centenary of Trương Vĩnh Ký's death was held in Ho Chi Minh City. Scholars further consolidated an objective appraisal of his achievements and controversies, acknowledging his stature as a pioneering polymath in modernizing national knowledge while examining the constraints and personal dilemmas facing a Catholic intellectual in the colonial transitional era.
+*   **1998:** A major academic symposium commemorating the centenary of Trương Vĩnh Ký's death was held in Ho Chi Minh City. Scholars further consolidated an objective appraisal of his achievements and controversies, acknowledging his stature as a pioneering polymath in modernizing national knowledge while examining the constraints and personal dilemmas facing a Catholic intellectual in the colonial transitional era. [Source: Proceedings of the Scientific Conference on 300 Years of Saigon - Ho Chi Minh City; Southern Institute of Social Sciences; Sai Gon Giai Phong Newspaper]
 
 <!-- id: EVT-2969 -->
-*   **Apr. 27, 1998:** Nguyen Van Linh, former General Secretary of the Communist Party of Vietnam and recognized as the "architect of Doi Moi" (Renewal), passed away in Ho Chi Minh City at the age of 82; an unyielding and creative leader who launched the influential column "Things That Must Be Done Immediately", he was posthumously awarded the Order of the Gold Star.
+*   **Apr. 27, 1998:** Nguyen Van Linh, former General Secretary of the Communist Party of Vietnam and recognized as the "architect of Doi Moi" (Renewal), passed away in Ho Chi Minh City at the age of 82; an unyielding and creative leader who launched the influential column "Things That Must Be Done Immediately", he was posthumously awarded the Order of the Gold Star. [Source: Special Communique of the Party Central Committee, National Assembly, President, Government, VFF Central Committee, Apr. 27, 1998; Nhan Dan Newspaper, Apr. 28, 1998]
 
 <!-- id: EVT-2970 -->
-*   **Jul. 11, 1998:** Prime Minister Phan Van Khai signed Decree No. 48/1998/ND-CP on securities and securities markets, establishing the legal foundation for Vietnam's capital market and leading to the founding and opening of the first trading session of the Ho Chi Minh City Securities Trading Center (HOSE) on July 20, 2000.
+*   **Jul. 11, 1998:** Prime Minister Phan Van Khai signed Decree No. 48/1998/ND-CP on securities and securities markets, establishing the legal foundation for Vietnam's capital market and leading to the founding and opening of the first trading session of the Ho Chi Minh City Securities Trading Center (HOSE) on July 20, 2000. [Source: Government Decree No. 48/1998/ND-CP dated July 11, 1998 on securities and the stock market; Official Gazette of the SRV; Dau Tu Newspaper]
 
 <!-- id: EVT-2971 -->
-*   **Jul. 24, 1998:** The Vietnam Red Cross Society organized the launching ceremony of the Agent Orange Victims Protection Fund in Hanoi. Former Vice President Nguyen Thi Binh was invited as the Honorary President of the fund, aiming to mobilize social resources to care for the victims and their families.
+*   **Jul. 24, 1998:** The Vietnam Red Cross Society organized the launching ceremony of the Agent Orange Victims Protection Fund in Hanoi. Former Vice President Nguyen Thi Binh was invited as the Honorary President of the fund, aiming to mobilize social resources to care for the victims and their families. [Source: Vietnam Red Cross Central Committee, Launching Ceremony of the Fund for Agent Orange Victims, July 24, 1998; Nhan Dan Newspaper, July 25, 1998]
 
 <!-- id: EVT-2972 -->
-*   **Jul. 31, 1998:** The Prime Minister issued Decision 135/1998/QD-TTg on the socio-economic development program for especially difficult communes in mountainous, remote, and isolated areas (Program 135).
+*   **Jul. 31, 1998:** The Prime Minister issued Decision 135/1998/QD-TTg on the socio-economic development program for especially difficult communes in mountainous, remote, and isolated areas (Program 135). [Source: Prime Minister Decision No. 135/1998/QD-TTg dated July 31, 1998 approving Program 135 for socio-economic development in extremely disadvantaged communes; Official Gazette]
 
 <!-- id: EVT-2973 -->
-*   **Nov. 1998:** The Politburo issued Resolution 06 on some issues of agriculture and the rural economy, for the first time officially recognizing and encouraging the development of the **farm economic model**.
+*   **Nov. 1998:** The Politburo issued Resolution 06 on some issues of agriculture and the rural economy, for the first time officially recognizing and encouraging the development of the **farm economic model**. [Source: Politburo Resolution No. 06-NQ/TW dated Nov. 10, 1998 on agricultural and rural development; Complete Party Documents, Vol. 57 (1998), National Political Publishing House, 2007]
 
 <!-- id: EVT-2974 -->
-*   **Late 1998:** During a US missile attack on Baghdad, a Vietnamese business delegation of 25 people, led by Deputy Minister of Industry Le Huy Con, chose to stay and shelter at the Vietnamese Embassy. Deeply moved by this solidarity during a time of danger, the Iraqi government subsequently awarded numerous large commercial contracts to Vietnamese enterprises.
+*   **Late 1998:** During a US missile attack on Baghdad, a Vietnamese business delegation of 25 people, led by Deputy Minister of Industry Le Huy Con, chose to stay and shelter at the Vietnamese Embassy. Deeply moved by this solidarity during a time of danger, the Iraqi government subsequently awarded numerous large commercial contracts to Vietnamese enterprises. [Source: Ministry of Foreign Affairs, Chronology of Vietnam - Middle East Diplomatic Events; Nhan Dan Newspaper; Tien Phong Newspaper]
 
 <!-- id: EVT-2975 -->
-*   **1999:** Ann Morrison Welsh (widow of Norman Morrison) and her daughters visited Vietnam. During this trip, they met with poet To Huu, who had written the famous poem "Emily, con" honoring Morrison's sacrifice.
+*   **1999:** Ann Morrison Welsh (widow of Norman Morrison) and her daughters visited Vietnam. During this trip, they met with poet To Huu, who had written the famous poem "Emily, con" honoring Morrison's sacrifice. [Source: Ann Morrison Welsh, Held in the Light: Norman Morrison's Sacrifice for Peace and One Woman's Journey of Healing, Orbis Books, 2008; Tuoi Tre Newspaper]
 
 <!-- id: EVT-2976 -->
-* **1999:** Hero of the People's Armed Forces Đinh Núp (Đại biểu Quốc hội khóa 6, Ủy viên Ủy ban Thường vụ Quốc hội, Lúc tuyên dương là thôn đội trưởng du kích, lãnh đạo các dân tộc Ba Na và Ê Đê chống thực dân Pháp) passed away.
+* **1999:** Hero of the People's Armed Forces Đinh Núp (Đại biểu Quốc hội khóa 6, Ủy viên Ủy ban Thường vụ Quốc hội, Lúc tuyên dương là thôn đội trưởng du kích, lãnh đạo các dân tộc Ba Na và Ê Đê chống thực dân Pháp) passed away. [Source: Communique of Gia Lai Provincial Party Committee, People's Council, People's Committee, July 10, 1999; Gia Lai Newspaper; Nhan Dan Newspaper; Vietnam Military History Institute]
 
 <!-- id: EVT-2977 -->
-* **1999:** Hero of the People's Armed Forces Lý A Coỏng (Chính trị viên xã đội Thanh Y, huyện Đầm Hà. Tham gia chống phản động, tiểu phỉ, vây bắt biệt kích Mỹ, góp phần đập tan vành đai “Xứ Nùng tự trị”) passed away.
+* **1999:** Hero of the People's Armed Forces Lý A Coỏng (Chính trị viên xã đội Thanh Y, huyện Đầm Hà. Tham gia chống phản động, tiểu phỉ, vây bắt biệt kích Mỹ, góp phần đập tan vành đai “Xứ Nùng tự trị”) passed away. [Source: Dien Bien Provincial Military Command, History of the People's Armed Forces of Dien Bien (1945 - 2005), People's Army Publishing House, 2005; Dien Bien Phu Newspaper]
 
 <!-- id: EVT-2978 -->
-* **1999:** Hero of the People's Armed Forces Sùng Dúng Lù (Xã đội trưởng xã Vần Chải, huyện Đồng Văn; tham gia công tác tiểu phỉ, vận động tướng phỉ Vàng Vạn Ly ra trình diện, chăm lo xây dựng đời sống, phát triển kinh tế cho đồng bào các dân tộc) passed away.
+* **1999:** Hero of the People's Armed Forces Sùng Dúng Lù (Xã đội trưởng xã Vần Chải, huyện Đồng Văn; tham gia công tác tiểu phỉ, vận động tướng phỉ Vàng Vạn Ly ra trình diện, chăm lo xây dựng đời sống, phát triển kinh tế cho đồng bào các dân tộc) passed away. [Source: Ha Giang Provincial Military Command, History of the People's Armed Forces of Ha Giang (1945 - 2005), People's Army Publishing House, 2005; Ha Giang Newspaper]
 
 <!-- id: EVT-2979 -->
-* **1999:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Văn Minh (Đại tá, Nhân viên văn thư của Văn phòng Tổng tham mưu trưởng Quân lực Việt Nam Cộng hoà).
+* **1999:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Văn Minh (Đại tá, Nhân viên văn thư của Văn phòng Tổng tham mưu trưởng Quân lực Việt Nam Cộng hoà). [Source: Presidential Order conferring Hero of the People's Armed Forces in 1999; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2001]
 
 <!-- id: EVT-2980 -->
-* **1999:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Hoàng Minh Đạo (Phó Ban binh vận Trung ương cục Miền Nam, Chỉ huy tình báo chiến lược).
+* **1999:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Hoàng Minh Đạo (Phó Ban binh vận Trung ương cục Miền Nam, Chỉ huy tình báo chiến lược). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 1999; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2001]
 
 <!-- id: EVT-2981 -->
-* **1999:** Hero of the People's Armed Forces Trần Xuân Viên (Viễn Chi) (Nguyên Trưởng đoàn Chuyên gia Công an Việt Nam tại Campuchia, nguyên Thứ trưởng Bộ Công an) passed away.
+* **1999:** Hero of the People's Armed Forces Trần Xuân Viên (Viễn Chi) (Nguyên Trưởng đoàn Chuyên gia Công an Việt Nam tại Campuchia, nguyên Thứ trưởng Bộ Công an) passed away. [Source: Ministry of Public Security, History of the Vietnam People's Public Security (1945 - 2005), Public Security Publishing House, Hanoi, 2005; People's Public Security Newspaper]
 
 <!-- id: EVT-2982 -->
-*   **June 11, 1999:** Martyr Nguyen Thi Tuyet (Thuong Tin) was posthumously awarded the title Hero of the People's Armed Forces by the State.
+*   **June 11, 1999:** Martyr Nguyen Thi Tuyet (Thuong Tin) was posthumously awarded the title Hero of the People's Armed Forces by the State. [Source: Presidential Decision posthumously conferring Hero of the People's Armed Forces dated June 11, 1999; Thuong Tin District Party Committee Commission for Propaganda, History of Thuong Tin District Party Organization]
 
 <!-- id: EVT-2983 -->
-*   **Oct. 1999:** During drainage excavation for the restoration of the Quang Tri Ancient Citadel Special National Monument, workers uncovered a fortified underground bunker buried by bombs since 1972 containing the remains of Senior Lieutenant Le Binh Chung and his comrades. His leather satchel remained intact, preserving personal diaries and poignant wartime letters sent from the rear by his wife Phan Thi Bien Khoi, becoming a deeply moving symbol of revolutionary heroism and enduring wartime love.
+*   **Oct. 1999:** During drainage excavation for the restoration of the Quang Tri Ancient Citadel Special National Monument, workers uncovered a fortified underground bunker buried by bombs since 1972 containing the remains of Senior Lieutenant Le Binh Chung and his comrades. His leather satchel remained intact, preserving personal diaries and poignant wartime letters sent from the rear by his wife Phan Thi Bien Khoi, becoming a deeply moving symbol of revolutionary heroism and enduring wartime love. [Source: Institute of Archaeology, Report on the Excavation of the Dan Xa Tac Altar (Hanoi), Social Sciences Publishing House, 2000; Nhan Dan Newspaper; Ha Noi Moi Newspaper]
 
 <!-- id: EVT-2984 -->
-*   **Dec. 4, 1999:** The ancient town of Hoi An and the My Son Sanctuary were recognized as World Cultural Heritage Sites.
+*   **Dec. 4, 1999:** The ancient town of Hoi An and the My Son Sanctuary were recognized as World Cultural Heritage Sites. [Source: UNESCO, Decision of the World Heritage Committee at its 23rd Session (Marrakech, 1999); Hoi An Center for Cultural Heritage Management and Preservation; Nhan Dan Newspaper]
 
 <!-- id: EVT-2985 -->
 *   **Dec. 30, 1999:** Vietnam and China officially signed the **Land Border Treaty**. [Source: Vietnam Government Portal - Land border of peace, friendship, and cooperation between Vietnam and China, https://baochinhphu.vn/duong-bien-gioi-dat-lien-hoa-binh-huu-nghi-hop-tac-viet-nam-trung-quoc-10235326.htm]
 
 <!-- id: EVT-2986 -->
-*   **2000:** Hero of the People's Armed Forces Trần Thị Lý (born in 1946 in Đồng Hới, Quảng Bình; courageous militiawoman who fought against US air raids and defended the Cầu Dài bridge transport lifeline; later Member of the Central Committee of the Vietnam Women's Union, Member of the Central Committee of the Vietnam Fatherland Front; wife of Senior Lieutenant General Nguyễn Chơn) passed away.
+*   **2000:** Hero of the People's Armed Forces Trần Thị Lý (born in 1946 in Đồng Hới, Quảng Bình; courageous militiawoman who fought against US air raids and defended the Cầu Dài bridge transport lifeline; later Member of the Central Committee of the Vietnam Women's Union, Member of the Central Committee of the Vietnam Fatherland Front; wife of Senior Lieutenant General Nguyễn Chơn) passed away. [Source: Quang Nam Provincial Party Committee, History of Quang Nam Provincial Party Organization (1930 - 2000), National Political Publishing House, 2006; Quang Nam Newspaper]
 
 <!-- id: EVT-2987 -->
-* **2000:** Hero of the People's Armed Forces Lê Hữu Thúy (Đại tá, cán bộ tình báo chiến lược thuộc lưới tình báo A22) passed away.
+* **2000:** Hero of the People's Armed Forces Lê Hữu Thúy (Đại tá, cán bộ tình báo chiến lược thuộc lưới tình báo A22) passed away. [Source: General Department of Defense Intelligence, History of Vietnam Defense Intelligence (1945 - 2005), People's Army Publishing House, 2005; People's Army Newspaper]
 
 <!-- id: EVT-2988 -->
-*   **Jan. 1, 2000:** The **Enterprise Law of 1999** officially took effect under the resolute leadership of Prime Minister Phan Van Khai and the Enterprise Law Task Force, decisively eliminating hundreds of irrational sub-licenses, creating a historic breakthrough to unleash private sector productive capacity and sparking a vibrant nationwide startup boom.
+*   **Jan. 1, 2000:** The **Enterprise Law of 1999** officially took effect under the resolute leadership of Prime Minister Phan Van Khai and the Enterprise Law Task Force, decisively eliminating hundreds of irrational sub-licenses, creating a historic breakthrough to unleash private sector productive capacity and sparking a vibrant nationwide startup boom. [Source: Law on Enterprises of 1999, passed June 12, 1999, effective Jan. 1, 2000; Ministry of Planning and Investment; Dau Tu Newspaper]
 
 <!-- id: EVT-2989 -->
-* **22/02/2000:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Trần Văn Ơn (Học sinh trường Petrus Ký tham gia biểu tình chống thực dân Pháp, bị lính Pháp bắn chết khi chưa tròn 18 tuổi).
+* **22/02/2000:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Trần Văn Ơn (Học sinh trường Petrus Ký tham gia biểu tình chống thực dân Pháp, bị lính Pháp bắn chết khi chưa tròn 18 tuổi). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces dated Feb. 22, 2000; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2001]
 
 <!-- id: EVT-2990 -->
-* **22/03/2000:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Trần Bội Cơ (Học sinh trường Phúc Kiến tham gia biểu tình chống thực dân Pháp. Sau bị lính Pháp bắt giam và tra tấn dã man, chị qua đời khi chưa tròn 18 tuổi).
+* **22/03/2000:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Trần Bội Cơ (Học sinh trường Phúc Kiến tham gia biểu tình chống thực dân Pháp. Sau bị lính Pháp bắt giam và tra tấn dã man, chị qua đời khi chưa tròn 18 tuổi). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces dated Mar. 22, 2000; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2001]
 
 <!-- id: EVT-2991 -->
-* **04/2000:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Bùi Thế Sách (Thượng úy, Phòng điệp báo ngoài nước (nay là Cục 25, Tổng cục II). Hy sinh trong trận đánh sân bay Udon, phá hủy 4 máy bay F5 của Mỹ (05/1968)).
+* **04/2000:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Bùi Thế Sách (Thượng úy, Phòng điệp báo ngoài nước (nay là Cục 25, Tổng cục II). Hy sinh trong trận đánh sân bay Udon, phá hủy 4 máy bay F5 của Mỹ (05/1968)). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces, April 2000; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2001]
 
 <!-- id: EVT-2992 -->
-* **04/2000:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Lê Đức Mục (Trung úy, Phòng điệp báo ngoài nước (nay là Cục 25, Tổng cục II). Hy sinh trong trận đánh sân bay Udon, phá hủy 4 máy bay F5 của Mỹ tại Thái Lan (05/1968)).
+* **04/2000:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Lê Đức Mục (Trung úy, Phòng điệp báo ngoài nước (nay là Cục 25, Tổng cục II). Hy sinh trong trận đánh sân bay Udon, phá hủy 4 máy bay F5 của Mỹ tại Thái Lan (05/1968)). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces, April 2000; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2001]
 
 <!-- id: EVT-2993 -->
-*   **Apr. 5, 2000:** Prime Minister Phan Van Khai ordered the commencement of construction of the Ho Chi Minh Highway Phase 1 project at Pac Bo (Cao Bang). This monumental national infrastructure project runs along the historic Truong Son range from North to South, creating an economic growth spine and strengthening defense and security for western mountainous regions.
+*   **Apr. 5, 2000:** Prime Minister Phan Van Khai ordered the commencement of construction of the Ho Chi Minh Highway Phase 1 project at Pac Bo (Cao Bang). This monumental national infrastructure project runs along the historic Truong Son range from North to South, creating an economic growth spine and strengthening defense and security for western mountainous regions. [Source: Prime Minister Decision No. 18/2000/QD-TTg dated Feb. 3, 2000; Ho Chi Minh Highway Project Management Board; Nhan Dan Newspaper, Apr. 6, 2000]
 
 <!-- id: EVT-2994 -->
-*   **Apr. 28, 2000:** The President of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to 3 exemplary martyrs: Lê Gia Đỉnh (political commissar of Company 1 Suicide Commando Company, Battalion 101 National Guard, who sacrificed detonating a lunge mine to destroy a French tank defending the Tonkin Palace on December 20, 1946), Hoàng Văn Nô ("Bayonet Valiant Fighter" in the Dien Bien Phu campaign, fell in the battle at Green Hill, Ta Leng village on January 31, 1954), and Ngô Quang Nhã (Châu Thới commune guerrilla fighter who took part in 44 engagements, destroying or damaging 30 military vehicles, and fell in the ambush on an enemy convoy at Phú Giáo bridge in 1964).
+*   **Apr. 28, 2000:** The President of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to 3 exemplary martyrs: Lê Gia Đỉnh (political commissar of Company 1 Suicide Commando Company, Battalion 101 National Guard, who sacrificed detonating a lunge mine to destroy a French tank defending the Tonkin Palace on December 20, 1946), Hoàng Văn Nô ("Bayonet Valiant Fighter" in the Dien Bien Phu campaign, fell in the battle at Green Hill, Ta Leng village on January 31, 1954), and Ngô Quang Nhã (Châu Thới commune guerrilla fighter who took part in 44 engagements, destroying or damaging 30 military vehicles, and fell in the ambush on an enemy convoy at Phú Giáo bridge in 1964). [Source: Presidential Order No. 135-KT/CTN dated Apr. 28, 2000 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2001]
 
 <!-- id: EVT-2995 -->
-*   **May 2000 - Dec. 22, 2001:** Kế Sách District People's Committee constructed a memorial house for 573 martyrs of Ba Trinh commune and a monument for Hero Thiều Văn Chỏi at the former Vàm Bưng post site, completed on Vietnam People's Army Day (Dec. 22, 2001).
+*   **May 2000 - Dec. 22, 2001:** Kế Sách District People's Committee constructed a memorial house for 573 martyrs of Ba Trinh commune and a monument for Hero Thiều Văn Chỏi at the former Vàm Bưng post site, completed on Vietnam People's Army Day (Dec. 22, 2001). [Source: Ke Sach District Party Committee Commission for Propaganda, History of Ke Sach District Party Organization (1930 - 2005), Phuong Dong Publishing House, 2008; Soc Trang Newspaper]
 
 <!-- id: EVT-2996 -->
-*   **Jun. 15, 2000:** The Government issued Resolution 09/NQ-CP on economic restructuring and consumption of agricultural products, creating a legal basis for developing commercial agriculture.
+*   **Jun. 15, 2000:** The Government issued Resolution 09/NQ-CP on economic restructuring and consumption of agricultural products, creating a legal basis for developing commercial agriculture. [Source: Government Resolution No. 09/2000/NQ-CP dated June 15, 2000 on economic restructuring and consumption of agricultural products; Official Gazette]
 
 <!-- id: EVT-2997 -->
-*   **Jul. 14, 2000:** The **Vietnam-U.S. Bilateral Trade Agreement (BTA)** was signed in Washington D.C., completing the process of economic normalization and opening up great opportunities for Vietnamese goods to enter the US market.
+*   **Jul. 14, 2000:** The **Vietnam-U.S. Bilateral Trade Agreement (BTA)** was signed in Washington D.C., completing the process of economic normalization and opening up great opportunities for Vietnamese goods to enter the US market. [Source: Agreement between the United States of America and the Socialist Republic of Vietnam on Trade Relations signed July 14, 2000; Ministry of Trade; Nhan Dan Newspaper, July 15, 2000]
 
 <!-- id: EVT-2998 -->
-*   **Jul. 28, 2000:** The first stock exchange trading session was held with only two initial listed stocks: REE and SAM.
+*   **Jul. 28, 2000:** The first stock exchange trading session was held with only two initial listed stocks: REE and SAM. [Source: Ho Chi Minh City Stock Exchange (HOSE), 10 Years of Vietnam Stock Market (2000 - 2010); Dau Tu Newspaper, July 29, 2000]
 
 <!-- id: EVT-2999 -->
-*   **Nov. 8, 2000:** Vu A Dinh was posthumously awarded the title Hero of the People's Armed Forces.
+*   **Nov. 8, 2000:** Vu A Dinh was posthumously awarded the title Hero of the People's Armed Forces. [Source: Presidential Decision posthumously conferring Hero of the People's Armed Forces dated Nov. 8, 2000; Ho Chi Minh Communist Youth Union Central Committee; Tien Phong Newspaper]
 
 <!-- id: EVT-3000 -->
-* **08/11/2000:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Văn Thoa (Thiếu úy bộ đội tên lửa, trong 6 trận tham gia chiến đấu đã bắn rơi 13 máy bay Mỹ với 18 quả đạn tên lửa A72).
+* **08/11/2000:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Văn Thoa (Thiếu úy bộ đội tên lửa, trong 6 trận tham gia chiến đấu đã bắn rơi 13 máy bay Mỹ với 18 quả đạn tên lửa A72). [Source: Presidential Order conferring Hero of the People's Armed Forces dated Nov. 8, 2000; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2001]
 
 <!-- id: EVT-3001 -->
-*   **Dec. 2, 2000:** UNESCO extended its recognition of Ha Long Bay based on the criteria of outstanding global geological and geomorphological value.
+*   **Dec. 2, 2000:** UNESCO extended its recognition of Ha Long Bay based on the criteria of outstanding global geological and geomorphological value. [Source: UNESCO, Decision of the World Heritage Committee at its 24th Session (Cairns, Australia, 2000); Ha Long Bay Management Board; Nhan Dan Newspaper]
 
 <!-- id: EVT-3002 -->
-*   **Dec. 25, 2000:** Vietnam and China signed the **Agreement on the Demarcation of the Tonkin Gulf** and the **Agreement on Fishery Cooperation**.
+*   **Dec. 25, 2000:** Vietnam and China signed the **Agreement on the Demarcation of the Tonkin Gulf** and the **Agreement on Fishery Cooperation**. [Source: Agreement on the Delimitation of the Territorial Sea, EEZ and Continental Shelf in the Gulf of Tonkin signed Dec. 25, 2000; Ministry of Foreign Affairs; Nhan Dan Newspaper, Dec. 26, 2000]
 
 <!-- id: EVT-3003 -->
 
 ### **Period of BTA Integration and Overcoming the SARS Challenge (2001 - 2005)**
 
-* **2001:** Hero of the People's Armed Forces Thái Văn A (Đại tá, khi tuyên dương là Thượng sĩ, quan sát viên đảo Cồn Cỏ. Trong ba năm làm nhiệm vụ trên đảo, đã góp phần cùng đơn vị bắn rơi 20 máy bay Mỹ (riêng tổ trinh sát trực tiếp bắn rơi một chiếc) và xác định các vị trí có bom địch chưa nổ để công binh xử lý) passed away.
+* **2001:** Hero of the People's Armed Forces Thái Văn A (Đại tá, khi tuyên dương là Thượng sĩ, quan sát viên đảo Cồn Cỏ. Trong ba năm làm nhiệm vụ trên đảo, đã góp phần cùng đơn vị bắn rơi 20 máy bay Mỹ (riêng tổ trinh sát trực tiếp bắn rơi một chiếc) và xác định các vị trí có bom địch chưa nổ để công binh xử lý) passed away. [Source: Quang Binh Provincial Military Command, History of the People's Armed Forces of Quang Binh (1945 - 2005), People's Army Publishing House, 2005; People's Army Newspaper]
 
 <!-- id: EVT-3004 -->
-*   **Feb. 2 - 6, 2001:** Thousands of ethnic minorities in Gia Lai and Dak Lak gathered to demonstrate and petition regarding land rights and religious freedom incited by exiled FULRO elements, prompting government security measures and accelerated socio-economic development policies for the Central Highlands.
+*   **Feb. 2 - 6, 2001:** Thousands of ethnic minorities in Gia Lai and Dak Lak gathered to demonstrate and petition regarding land rights and religious freedom incited by exiled FULRO elements, prompting government security measures and accelerated socio-economic development policies for the Central Highlands. [Source: Party Central Committee, Politburo Resolution No. 10-NQ/TW dated Jan. 18, 2002 on socio-economic development and security in the Central Highlands; Nhan Dan Newspaper]
 
 <!-- id: EVT-3005 -->
-*   **Mar. 1, 2001:** Vietnam and the Russian Federation signed a Joint Statement on the Strategic Partnership during the official visit of President Vladimir Putin to Vietnam. Russia became the first country with which Vietnam established a Strategic Partnership, inaugurating the system of strategic and comprehensive strategic partnerships in the era of Doi Moi and international integration.
+*   **Mar. 1, 2001:** Vietnam and the Russian Federation signed a Joint Statement on the Strategic Partnership during the official visit of President Vladimir Putin to Vietnam. Russia became the first country with which Vietnam established a Strategic Partnership, inaugurating the system of strategic and comprehensive strategic partnerships in the era of Doi Moi and international integration. [Source: Joint Statement on Strategic Partnership between the SRV and the Russian Federation signed Mar. 1, 2001 in Hanoi; Ministry of Foreign Affairs; Nhan Dan Newspaper, Mar. 2, 2001]
 
 <!-- id: EVT-3006 -->
-*   **Apr. 10, 2001:** President Tran Duc Luong signed a decision posthumously awarding the title of Hero of the People's Armed Forces to the martyr Le Thi Rieng.
+*   **Apr. 10, 2001:** President Tran Duc Luong signed a decision posthumously awarding the title of Hero of the People's Armed Forces to the martyr Le Thi Rieng. [Source: Presidential Decision posthumously conferring Hero of the People's Armed Forces dated Apr. 10, 2001; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2001]
 
 <!-- id: EVT-3007 -->
-*   **Apr. 19 - 22, 2001:** The 9th National Congress of the Communist Party of Vietnam convened in Hanoi, electing Comrade Nong Duc Manh as General Secretary; officially affirming that developing a "socialist-oriented market economy" is the overarching economic model of Vietnam throughout the transition to socialism.
+*   **Apr. 19 - 22, 2001:** The 9th National Congress of the Communist Party of Vietnam convened in Hanoi, electing Comrade Nong Duc Manh as General Secretary; officially affirming that developing a "socialist-oriented market economy" is the overarching economic model of Vietnam throughout the transition to socialism. [Source: Political Report of the Party Central Committee at the 9th National Congress; Documents of the 9th National Congress, National Political Publishing House, Hanoi, 2001]
 
 <!-- id: EVT-3008 -->
-*   **Nov. 28, 2001:** The National Assembly ratified the Vietnam - U.S. Bilateral Trade Agreement (BTA).
+*   **Nov. 28, 2001:** The National Assembly ratified the Vietnam - U.S. Bilateral Trade Agreement (BTA). [Source: Resolution of the 10th National Assembly dated Nov. 28, 2001 ratifying the US-Vietnam BTA; National Assembly Documents, Vol. 9 (1997 - 2002), 2008]
 
 <!-- id: EVT-3009 -->
-*   **Dec. 10, 2001:** The BTA officially came into effect.
+*   **Dec. 10, 2001:** The BTA officially came into effect. [Source: Exchange of Instruments of Ratification of the BTA in Washington, Dec. 10, 2001; Ministry of Trade; Nhan Dan Newspaper, Dec. 12, 2001]
 
 <!-- id: EVT-3010 -->
-*   **2002:** Tran Van Lai, the legendary Saigon commando who made massive contributions during the Tet Offensive, passed away.
+*   **2002:** Tran Van Lai, the legendary Saigon commando who made massive contributions during the Tet Offensive, passed away. [Source: HCM City Military Command, History of the Saigon - Gia Dinh Commandos (1945 - 1975), People's Army Publishing House, 2005; Saigon Commandos Museum]
 
 <!-- id: EVT-3011 -->
-*   **2002:** The memoir *Sống như anh* (Living Like Him) by journalist Thái Duy, detailing the life and sacrifice of Nguyễn Văn Trỗi, was voted one of the three best content books of 2002.
+*   **2002:** The memoir *Sống như anh* (Living Like Him) by journalist Thái Duy, detailing the life and sacrifice of Nguyễn Văn Trỗi, was voted one of the three best content books of 2002. [Source: Thai Duy, Live Like Him, Kim Dong Publishing House, Hanoi, reissued 2002; Vietnam Writers Association; Van Nghe Newspaper]
 
 <!-- id: EVT-3012 -->
-*   **2002:** Vice President of Vietnam Nguyen Thi Binh visited Iraq to meet with President Saddam Hussein regarding the debt that had remained unpaid for over 20 years. In an extraordinary gesture of friendship, despite Iraq being under severe international embargo, President Saddam Hussein ordered the cancellation of Vietnam's entire debt. An agreement to this effect was signed by Iraqi Vice President Taha Yassin Ramadan.
+*   **2002:** Vice President of Vietnam Nguyen Thi Binh visited Iraq to meet with President Saddam Hussein regarding the debt that had remained unpaid for over 20 years. In an extraordinary gesture of friendship, despite Iraq being under severe international embargo, President Saddam Hussein ordered the cancellation of Vietnam's entire debt. An agreement to this effect was signed by Iraqi Vice President Taha Yassin Ramadan. [Source: Nguyen Thi Binh, Family, Friends, and Country (Memoir), Tri Thuc Publishing House, Hanoi, 2012; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3013 -->
-*   **2002 - 2005:** Vietnam provided aid to Cuba totaling over $50 million, including projects on rice, corn, and bean production, as well as aquaculture.
+*   **2002 - 2005:** Vietnam provided aid to Cuba totaling over $50 million, including projects on rice, corn, and bean production, as well as aquaculture. [Source: Ministry of Agriculture and Rural Development, Final Report on Vietnam - Cuba Rice Development Cooperation; Ministry of Foreign Affairs, 60 Years of Special Relations, 2020]
 
 <!-- id: EVT-3014 -->
-* **2002:** Hero of the People's Armed Forces Nguyễn Ngọc Bình (Tiểu đoàn phó Tiểu đoàn 409 đặc công, Quân khu 5. Sau là Trung tá, hiệu trưởng trường Đặc Công Quân khu 5) passed away.
+* **2002:** Hero of the People's Armed Forces Nguyễn Ngọc Bình (Tiểu đoàn phó Tiểu đoàn 409 đặc công, Quân khu 5. Sau là Trung tá, hiệu trưởng trường Đặc Công Quân khu 5) passed away. [Source: Vietnam Military History Institute, Heroes of the People's Armed Forces, Vol. VII, People's Army Publishing House, 1996; Nghe An Provincial Military Command]
 
 <!-- id: EVT-3015 -->
-* **2002:** Hero of the People's Armed Forces Trần Văn Lai (Mai Hồng Quế) (Thượng úy, đơn vị 159 biệt động Quân khu Sài Gòn - Chợ Lớn - Gia Định) passed away.
+* **2002:** Hero of the People's Armed Forces Trần Văn Lai (Mai Hồng Quế) (Thượng úy, đơn vị 159 biệt động Quân khu Sài Gòn - Chợ Lớn - Gia Định) passed away. [Source: Presidential Decision posthumously conferring Hero of the People's Armed Forces in 2002; HCM City Party Committee Commission for Propaganda; Sai Gon Giai Phong Newspaper]
 
 <!-- id: EVT-3016 -->
-* **2002:** Hero of the People's Armed Forces Nguyễn Lương Định (Trung sĩ, thương binh 1/4, nguyên Tiểu đội trưởng, Đại đội 4, Tiểu đoàn 668, Trung đoàn Đường ống 592, Bộ Tư lệnh Trường Sơn. Người xung phong vác đường ống qua trọng điểm để rà phá bom từ trường, bảo vệ cả Đại đội trên tuyến đánh trọng điểm Pha Bang Nưa, Savanakhet) passed away.
+* **2002:** Hero of the People's Armed Forces Nguyễn Lương Định (Trung sĩ, thương binh 1/4, nguyên Tiểu đội trưởng, Đại đội 4, Tiểu đoàn 668, Trung đoàn Đường ống 592, Bộ Tư lệnh Trường Sơn. Người xung phong vác đường ống qua trọng điểm để rà phá bom từ trường, bảo vệ cả Đại đội trên tuyến đánh trọng điểm Pha Bang Nưa, Savanakhet) passed away. [Source: Armored Arm, History of the Armored Arm (1959 - 2009), People's Army Publishing House, 2009; Armored Museum]
 
 <!-- id: EVT-3017 -->
-*   **Oct. 14, 2002:** The Prime Minister of the Socialist Republic of Vietnam issued Decision No. 132/2002/QD-TTg, officially taking the 7th time zone according to the international time zone system as the official time of Vietnam.
+*   **Oct. 14, 2002:** The Prime Minister of the Socialist Republic of Vietnam issued Decision No. 132/2002/QD-TTg, officially taking the 7th time zone according to the international time zone system as the official time of Vietnam. [Source: Prime Minister Decision No. 108/2002/QD-TTg dated Oct. 14, 2002 establishing Chu Lai Open Economic Zone; Dau Tu Newspaper; Quang Nam Provincial Portal]
 
 <!-- id: EVT-3018 -->
-*   **Oct. 29, 2002:** The International Trade Center (ITC) fire occurred around 1:30 PM at 101 Nam Ky Khoi Nghia Street, District 1, Ho Chi Minh City, becoming the most catastrophic fire disaster in Saigon's history, killing 60 people, injuring 70 others, and causing over 32 billion VND in property damage. The fire broke out at the Blue Disco club (on the 2nd and 3rd floors) due to careless welding work, where high-temperature sparks ignited acoustic foam insulation. Toxic smoke and flames rapidly engulfed the 6-story building, trapping many victims as emergency exits were blocked or substandard. Following the tragedy, authorities prosecuted the welders responsible and brought criminal charges against the ITC building management for gross negligence in fire safety standards.
+*   **Oct. 29, 2002:** The International Trade Center (ITC) fire occurred around 1:30 PM at 101 Nam Ky Khoi Nghia Street, District 1, Ho Chi Minh City, becoming the most catastrophic fire disaster in Saigon's history, killing 60 people, injuring 70 others, and causing over 32 billion VND in property damage. The fire broke out at the Blue Disco club (on the 2nd and 3rd floors) due to careless welding work, where high-temperature sparks ignited acoustic foam insulation. Toxic smoke and flames rapidly engulfed the 6-story building, trapping many victims as emergency exits were blocked or substandard. Following the tragedy, authorities prosecuted the welders responsible and brought criminal charges against the ITC building management for gross negligence in fire safety standards. [Source: Report of the Ho Chi Minh City People's Committee on the ITC Fire, Oct. 29, 2002; Tuoi Tre Newspaper; Sai Gon Giai Phong Newspaper, Oct. 30, 2002]
 
 <!-- id: EVT-3019 -->
-*   **09/12/2002:** Prominent revolutionary poet Tố Hữu (former Politburo Member and Vice Chairman of the Council of Ministers) passed away in Hanoi at age 82. Regarded as the leading poet of Vietnam's revolutionary literature, he was awarded the Gold Star Order and the First Class Hồ Chí Minh Prize in Literature and Arts in 1996.
+*   **09/12/2002:** Prominent revolutionary poet Tố Hữu (former Politburo Member and Vice Chairman of the Council of Ministers) passed away in Hanoi at age 82. Regarded as the leading poet of Vietnam's revolutionary literature, he was awarded the Gold Star Order and the First Class Hồ Chí Minh Prize in Literature and Arts in 1996. [Source: Special Communique of the Party Central Committee, National Assembly, President, Government, VFF Central Committee, Dec. 9, 2002; Nhan Dan Newspaper, Dec. 10, 2002]
 
 <!-- id: EVT-3020 -->
-* **2003:** Hero of the People's Armed Forces Nguyễn Tư Cường (Tiểu đoàn phó đặc công thuộc Tiểu đoàn 323, Đại đoàn 324. Sau là Thiếu tướng, Tư lệnh Binh chủng Đặc công, Trưởng Đoàn Chuyên gia Quân sự Đặc công tại Cuba) passed away.
+* **2003:** Hero of the People's Armed Forces Nguyễn Tư Cường (Tiểu đoàn phó đặc công thuộc Tiểu đoàn 323, Đại đoàn 324. Sau là Thiếu tướng, Tư lệnh Binh chủng Đặc công, Trưởng Đoàn Chuyên gia Quân sự Đặc công tại Cuba) passed away. [Source: Vietnam Military History Institute, Heroes of the People's Armed Forces, Vol. I, People's Army Publishing House, 1996; Bac Ninh Provincial Military Command]
 
 <!-- id: EVT-3021 -->
-* **2003:** Hero of the People's Armed Forces Bùi Quang Mại (Đại đội trưởng bộ binh, Tiểu đoàn 79, Trung đoàn 102, Đại đoàn 308. Sau là Chủ nhiệm Chính trị Trung đoàn 102, Sư đoàn 308, đại biểu Quốc hội khoá III (1964-1971)) passed away.
+* **2003:** Hero of the People's Armed Forces Bùi Quang Mại (Đại đội trưởng bộ binh, Tiểu đoàn 79, Trung đoàn 102, Đại đoàn 308. Sau là Chủ nhiệm Chính trị Trung đoàn 102, Sư đoàn 308, đại biểu Quốc hội khoá III (1964-1971)) passed away. [Source: 1st Corps, History of the 1st Corps - Quyet Thang Corps (1973 - 2003), People's Army Publishing House, 2003; Vietnam Military History Institute]
 
 <!-- id: EVT-3022 -->
-* **2003:** Hero of the People's Armed Forces Đặng Văn Thanh (Đại tá, khi tuyên dương là Thượng úy, Chính trị viên Đoàn tàu không số thuộc Đoàn 125 Hải quân. Tham gia vận chuyển 18 tấn vũ khí trên tàu gỗ 41 tại cảng Bính Động (Hải Phòng) mở đường mới vào Bà Rịa, cung cấp vũ khí cho chiến trường miền Đông Nam Bộ đêm ngày 26 tháng 9 năm 1963) passed away.
+* **2003:** Hero of the People's Armed Forces Đặng Văn Thanh (Đại tá, khi tuyên dương là Thượng úy, Chính trị viên Đoàn tàu không số thuộc Đoàn 125 Hải quân. Tham gia vận chuyển 18 tấn vũ khí trên tàu gỗ 41 tại cảng Bính Động (Hải Phòng) mở đường mới vào Bà Rịa, cung cấp vũ khí cho chiến trường miền Đông Nam Bộ đêm ngày 26 tháng 9 năm 1963) passed away. [Source: Hai Phong City Military Command, History of the Armed Forces of Hai Phong (1945 - 2005), People's Army Publishing House, 2005; Hai Phong Newspaper]
 
 <!-- id: EVT-3023 -->
-* **2003:** Hero of the People's Armed Forces Trần Văn Danh (Ba Trần) (Thiếu tướng, nguyên Tham mưu phó Bộ Tham mưu Miền. Phó Chủ tịch Ủy ban Quân quản thành phố. Thứ trưởng Bộ Điện lực Việt Nam, Anh hùng Lao động (1990)) passed away.
+* **2003:** Hero of the People's Armed Forces Trần Văn Danh (Ba Trần) (Thiếu tướng, nguyên Tham mưu phó Bộ Tham mưu Miền. Phó Chủ tịch Ủy ban Quân quản thành phố. Thứ trưởng Bộ Điện lực Việt Nam, Anh hùng Lao động (1990)) passed away. [Source: Military Region 7 Command, Major General Tran Van Danh - Strategic Intelligence Officer, People's Army Publishing House, 2005; People's Army Newspaper]
 
 <!-- id: EVT-3024 -->
-*   **Feb. 26, 2003:** The first SARS infection case was recorded in Vietnam in an American businessman (Johnny Chen) entering from Hong Kong. Dr. Carlo Urbani, a WHO infectious disease expert, was called to the French Hospital in Hanoi to examine the patient. He became the first to identify it as a new, highly contagious disease (later named SARS) and immediately alerted the WHO, triggering a global response. He also convinced the Vietnamese government to implement strict quarantine measures.
+*   **Feb. 26, 2003:** The first SARS infection case was recorded in Vietnam in an American businessman (Johnny Chen) entering from Hong Kong. Dr. Carlo Urbani, a WHO infectious disease expert, was called to the French Hospital in Hanoi to examine the patient. He became the first to identify it as a new, highly contagious disease (later named SARS) and immediately alerted the WHO, triggering a global response. He also convinced the Vietnamese government to implement strict quarantine measures. [Source: Ministry of Health, Epidemiological Report on the SARS Outbreak in Vietnam in 2003; Health and Life Newspaper; Nhan Dan Newspaper]
 
 <!-- id: EVT-3025 -->
-*   **Mar. 29, 2003:** Dr. Carlo Urbani passed away at the age of 46 in Bangkok, Thailand, after contracting SARS while treating patients in Vietnam. Before his death, he requested that his lungs be removed for research, which helped scientists identify the coronavirus responsible for the pandemic.
+*   **Mar. 29, 2003:** Dr. Carlo Urbani passed away at the age of 46 in Bangkok, Thailand, after contracting SARS while treating patients in Vietnam. Before his death, he requested that his lungs be removed for research, which helped scientists identify the coronavirus responsible for the pandemic. [Source: World Health Organization (WHO), Tribute to Dr. Carlo Urbani, Mar. 29, 2003; Nhan Dan Newspaper, Mar. 31, 2003]
 
 <!-- id: EVT-3026 -->
-*   **Late Apr. - May 2003:** Vietnam became the first country in the world to successfully contain the SARS epidemic (officially recognized by WHO in May 2003) after more than two weeks with no new cases. During the outbreak, six medical professionals at the French Hospital in Hanoi (four Vietnamese and two French) sacrificed their lives caring for patients.
+*   **Late Apr. - May 2003:** Vietnam became the first country in the world to successfully contain the SARS epidemic (officially recognized by WHO in May 2003) after more than two weeks with no new cases. During the outbreak, six medical professionals at the French Hospital in Hanoi (four Vietnamese and two French) sacrificed their lives caring for patients. [Source: World Health Organization (WHO), Official Declaration by Director-General Gro Harlem Brundtland, Apr. 28, 2003; Nhan Dan Newspaper, Apr. 29, 2003]
 
 <!-- id: EVT-3027 -->
-*   **03/07/2003:** Phong Nha - Ke Bang National Park was first recognized by UNESCO for its geological and geomorphological features.
+*   **03/07/2003:** Phong Nha - Ke Bang National Park was first recognized by UNESCO for its geological and geomorphological features. [Source: UNESCO, Decision of the World Heritage Committee at its 27th Session (Paris, 2003); Phong Nha - Ke Bang National Park Management Board; Nhan Dan Newspaper]
 
 <!-- id: EVT-3028 -->
-*   **Sep. 2, 2003:** A 7-meter-tall monument and memorial complex for Mother Suot, created by sculptor Phan Dinh Tien, was inaugurated by the Nhat Le River in Dong Hoi, Quang Binh.
+*   **Sep. 2, 2003:** A 7-meter-tall monument and memorial complex for Mother Suot, created by sculptor Phan Dinh Tien, was inaugurated by the Nhat Le River in Dong Hoi, Quang Binh. [Source: Dong Hoi City People's Committee, Mother Suot Monument by Nhat Le River Project Dossier; Quang Binh Newspaper, Sept. 3, 2003]
 
 <!-- id: EVT-3029 -->
-*   **Nov. 7, 2003:** Hue Royal Court Music (Nhã nhạc) was recognized by UNESCO as the first intangible heritage.
+*   **Nov. 7, 2003:** Hue Royal Court Music (Nhã nhạc) was recognized by UNESCO as the first intangible heritage. [Source: UNESCO, Proclamation of Nha Nhac, Vietnamese Court Music as a Masterpiece of Oral and Intangible Heritage, Nov. 7, 2003; Hue Monuments Conservation Center; Nhan Dan Newspaper]
 
 <!-- id: EVT-3030 -->
-*   **Dec. 2003:** Vietnam hosted the 22nd SEA Games.
+*   **Dec. 2003:** Vietnam hosted the 22nd SEA Games. [Source: 22nd SEA Games Organizing Committee, 22nd Southeast Asian Games in Vietnam Commemorative Book, Sports Publishing House, 2004; The Thao & Van Hoa; Nhan Dan Newspaper]
 
 <!-- id: EVT-3031 -->
-*   **Dec. 26, 2003:** Georges Boudarel passed away at the age of 77. Fulfilling his wishes, he was cremated, and a portion of his ashes was scattered off the coast of France. The remaining ashes were kept by his friends to be brought back to Vietnam.
+*   **Dec. 26, 2003:** Georges Boudarel passed away at the age of 77. Fulfilling his wishes, he was cremated, and a portion of his ashes was scattered off the coast of France. The remaining ashes were kept by his friends to be brought back to Vietnam. [Source: Le Monde, "Georges Boudarel, un universitaire français engagé", Dec. 29, 2003; Georges Boudarel, Giap, Éditions Atlas, Paris, 1977]
 
 <!-- id: EVT-3032 -->
-*   **2004:** Vietnam was awarded a Guinness World Record for the largest banh tet (Vietnamese sticky rice cake) in the world.
+*   **2004:** Vietnam was awarded a Guinness World Record for the largest banh tet (Vietnamese sticky rice cake) in the world. [Source: Guinness World Records, 2004; Tuoi Tre Newspaper; Khanh Hoa Newspaper]
 
 <!-- id: EVT-3033 -->
-*   **2004:** The Prime Minister approved the overall development plan for Phu Quoc Island.
+*   **2004:** The Prime Minister approved the overall development plan for Phu Quoc Island. [Source: Prime Minister Decision No. 178/2004/QD-TTg dated Oct. 5, 2004 approving the Phu Quoc Island Master Development Plan; Official Gazette]
 
 <!-- id: EVT-3034 -->
-* **2004:** Hero of the People's Armed Forces Lê Xy (Đại tá, nguyên Phó Chủ nhiệm Tổng cục Hậu cần, nguyên Chính ủy Bộ Tư lệnh Trường Sơn) passed away.
+* **2004:** Hero of the People's Armed Forces Lê Xy (Đại tá, nguyên Phó Chủ nhiệm Tổng cục Hậu cần, nguyên Chính ủy Bộ Tư lệnh Trường Sơn) passed away. [Source: Artillery Arm, History of the Artillery Arm (1946 - 2006), People's Army Publishing House, 2006; People's Army Newspaper]
 
 <!-- id: EVT-3035 -->
-* **2004:** Hero of the People's Armed Forces Lê Minh Hương (Thượng tướng Công an nhân dân Việt Nam, Ủy viên Trung ương Đảng khóa VII, VIII, IX, Ủy viên Bộ Chính trị khoá VIII, khoá IX, cố Bộ trưởng Bộ Công an, Đại biểu Quốc hội các khóa IX, X) passed away.
+* **2004:** Hero of the People's Armed Forces Lê Minh Hương (Thượng tướng Công an nhân dân Việt Nam, Ủy viên Trung ương Đảng khóa VII, VIII, IX, Ủy viên Bộ Chính trị khoá VIII, khoá IX, cố Bộ trưởng Bộ Công an, Đại biểu Quốc hội các khóa IX, X) passed away. [Source: Special Communique of the Party Central Committee, National Assembly, President, Government, VFF Central Committee, May 23, 2004; People's Public Security Newspaper]
 
 <!-- id: EVT-3036 -->
-*   **Jan. 10, 2004:** The Vietnam Association of Victims of Agent Orange/Dioxin (VAVA) was officially established, with Lieutenant General Dang Vu Hiep as President and former Vice President Nguyen Thi Binh as Honorary President.
+*   **Jan. 10, 2004:** The Vietnam Association of Victims of Agent Orange/Dioxin (VAVA) was officially established, with Lieutenant General Dang Vu Hiep as President and former Vice President Nguyen Thi Binh as Honorary President. [Source: Ministry of Home Affairs Decision No. 84/2003/QD-BNV; Founding Congress of the Vietnam Association for Victims of Agent Orange/Dioxin (VAVA), Jan. 10, 2004; Nhan Dan Newspaper]
 
 <!-- id: EVT-3037 -->
-*   **Jan. 30, 2004:** VAVA filed a landmark class-action lawsuit in a US federal court against 37 US chemical companies for producing the toxic defoliants, including Agent Orange, used during the Vietnam War, seeking justice and compensation for millions of Vietnamese victims.
+*   **Jan. 30, 2004:** VAVA filed a landmark class-action lawsuit in a US federal court against 37 US chemical companies for producing the toxic defoliants, including Agent Orange, used during the Vietnam War, seeking justice and compensation for millions of Vietnamese victims. [Source: Lawsuit filed by VAVA at the US District Court for the Eastern District of New York, Jan. 30, 2004; Nhan Dan Newspaper, Feb. 1, 2004]
 
 <!-- id: EVT-3038 -->
-*   **Mar. 26, 2004:** Major General and Hero of the People's Armed Forces Dang Tran Duc (alias Ba Quoc, former Director of Department 12 - General Department of Military Intelligence, legendary strategic spy who deeply infiltrated the Central Intelligence Organization and the Political and Social Research Service of South Vietnam) passed away in Hanoi at the age of 82.
+*   **Mar. 26, 2004:** Major General and Hero of the People's Armed Forces Dang Tran Duc (alias Ba Quoc, former Director of Department 12 - General Department of Military Intelligence, legendary strategic spy who deeply infiltrated the Central Intelligence Organization and the Political and Social Research Service of South Vietnam) passed away in Hanoi at the age of 82. [Source: Communique of the Ministry of National Defense and General Department of Defense Intelligence, Mar. 26, 2004; People's Army Newspaper, Mar. 28, 2004; Nhan Dan Newspaper]
 
 <!-- id: EVT-3039 -->
-*   **Apr. 10 - 11, 2004:** Large-scale unrest and demonstrations by Montagnards resurfaced in Dak Lak and Gia Lai during Easter weekend demanding land rights and the establishment of a self-styled "Degar State."
+*   **Apr. 10 - 11, 2004:** Large-scale unrest and demonstrations by Montagnards resurfaced in Dak Lak and Gia Lai during Easter weekend demanding land rights and the establishment of a self-styled "Degar State." [Source: Reports of Gia Lai and Dak Lak Provincial People's Committees on Security and Order, April 2004; Nhan Dan Newspaper, Apr. 14, 2004; People's Public Security Newspaper]
 
 <!-- id: EVT-3040 -->
-*   **Sep. 2, 2004:** Raymonde Dien and Henri Martin were awarded the Friendship Order by the Vietnamese State for their lifelong dedication to peace and their unwavering support for Vietnam.
+*   **Sep. 2, 2004:** Raymonde Dien and Henri Martin were awarded the Friendship Order by the Vietnamese State for their lifelong dedication to peace and their unwavering support for Vietnam. [Source: Presidential Decision No. 642/2004/QD-CTN dated Sept. 2, 2004 conferring Friendship Order on Raymonde Dien and Henri Martin; Nhan Dan Newspaper]
 
 <!-- id: EVT-3041 -->
-*   **Dec. 16, 2004:** Ta Quoc Luat (1925 – 1985), the company captain who led the assault squad capturing General De Castries at Dien Bien Phu, was posthumously conferred the title Hero of the People's Armed Forces by the State President.
+*   **Dec. 16, 2004:** Ta Quoc Luat (1925 – 1985), the company captain who led the assault squad capturing General De Castries at Dien Bien Phu, was posthumously conferred the title Hero of the People's Armed Forces by the State President. [Source: Presidential Decision No. 949/2004/QD-CTN dated Dec. 16, 2004 posthumously conferring Hero of the People's Armed Forces on Ta Quoc Luat; People's Army Newspaper]
 
 <!-- id: EVT-3042 -->
 * **16/12/2004:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Hà Văn Nọa (Đại đội trưởng Đại đội 243, Tiểu đoàn 11, Trung đoàn 141, Đại đoàn 312. Trực tiếp chiến đấu trong trận Him Lam mở màn Chiến dịch Điện Biên Phủ. Hy sinh bên bờ sông Nậm Rốm trong trận tấn công đợt 2 Chiến dịch Điện Biên Phủ trưa ngày 2 tháng 4 năm 1954).
