@@ -4911,16 +4911,16 @@
 *   **Dec. 24, 1925:** Governor-General Varenne signed an order "pardoning" and placing Phan Boi Chau under house arrest in Hue. [Source: Phan Boi Chau (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13903/phan-boi-chau-nha-chi-si-yeu-nuoc.html]
 
 <!-- id: EVT-1516 -->
-*   **1926:** Huynh Thuc Khang was elected as a representative and subsequently chosen as President of the People's Representative Assembly of Annam (Chambre des Représentants du Peuple de l'Annam), utilizing the platform to vigorously defend citizens' rights and demand fundamental democratic freedoms.
+*   **1926:** Huynh Thuc Khang was elected as a representative and subsequently chosen as President of the People's Representative Assembly of Annam (Chambre des Représentants du Peuple de l'Annam), utilizing the platform to vigorously defend citizens' rights and demand fundamental democratic freedoms. [Source: History of Vietnam (Vol. 8: 1919–1930), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1517 -->
-*   **Jan. 8, 1926 (25th day of the 11th lunar month, At Suu year):** Twelve-year-old Crown Prince Vinh Thuy was officially crowned at Thai Hoa Palace as Emperor Bao Dai, becoming the 13th and final monarch of the Nguyen Dynasty and of imperial Vietnam.
+*   **Jan. 8, 1926 (25th day of the 11th lunar month, At Suu year):** Twelve-year-old Crown Prince Vinh Thuy was officially crowned at Thai Hoa Palace as Emperor Bao Dai, becoming the 13th and final monarch of the Nguyen Dynasty and of imperial Vietnam. [Source: Emperor Bao Dai (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13777/vua-bao-dai.html]
 
 <!-- id: EVT-1518 -->
-*   **Feb. 1926:** Introduced by Comrade Nguyen Ai Quoc, Le Hong Phong was admitted to the Chinese Communist Party while training at the Guangzhou Military Aviation Academy.
+*   **Feb. 1926:** Introduced by Comrade Nguyen Ai Quoc, Le Hong Phong was admitted to the Chinese Communist Party while training at the Guangzhou Military Aviation Academy. [Source: Nguyen Q. Thang, Phan Chau Trinh – Life and Works, Literature Publishing House, Hanoi, 2002]
 
 <!-- id: EVT-1519 -->
-*   **Mar. 21, 1926:** The Jeune Annam (Youth Party) was established.
+*   **Mar. 21, 1926:** The Jeune Annam (Youth Party) was established. [Source: History of Vietnam (Vol. 8: 1919–1930), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1520 -->
 *   **Mar. 24, 1926:** Phan Chau Trinh passed away in Saigon. [Source: Vietnam National Museum of History - Phan Chau Trinh: Representative of Vietnamese Intellectuals in the Early 20th Century, https://baotanglichsu.vn/vi/Articles/2001/66932/phan-chau-trinh-djai-dien-tri-thuc-viet-nam-djau-the-ky-xx.html]
@@ -4930,94 +4930,94 @@
 *Source: Portrait of Phan Chau Trinh at age 37 / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-1521 -->
-*   **Mar. 24, 1926:** Patriotic journalist and activist Nguyen An Ninh was arrested by French colonial authorities in Saigon, triggering a wave of student strikes, rallies, and demonstrations across Southern Vietnam demanding his release.
+*   **Mar. 24, 1926:** Patriotic journalist and activist Nguyen An Ninh was arrested by French colonial authorities in Saigon, triggering a wave of student strikes, rallies, and demonstrations across Southern Vietnam demanding his release. [Source: Nguyen An Ninh – Ardent Patriot (Nhan Dan Newspaper), https://nhandan.vn/nguyen-an-ninh-nha-yeu-nuoc-nhiet-thanh-post614210.html]
 
 <!-- id: EVT-1522 -->
-*   **Apr. 4, 1926:** The funeral of patriot Phan Chu Trinh was solemnly held in Saigon with the participation of over 140,000 people, turning into a massive political demonstration and show of national solidarity that sparked nationwide student strikes and memorial services across Vietnam.
+*   **Apr. 4, 1926:** The funeral of patriot Phan Chu Trinh was solemnly held in Saigon with the participation of over 140,000 people, turning into a massive political demonstration and show of national solidarity that sparked nationwide student strikes and memorial services across Vietnam. [Source: National Funeral of Patriot Phan Chu Trinh (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13908/quoc-tang-phan-chu-trinh.html]
 
 <!-- id: EVT-1523 -->
-*   **Sep. 4, 1926:** A decree established the People's Agricultural Credit Banks in Tonkin.
+*   **Sep. 4, 1926:** A decree established the People's Agricultural Credit Banks in Tonkin. [Source: History of the Banking Sector in Vietnam (1951–2021), National Political Publishing House, Hanoi, 2021]
 
 <!-- id: EVT-1524 -->
-*   **Oct. 1926:** Phung Chi Kien and several members of the Vietnamese Revolutionary Youth League were sent to Guangzhou (China) to attend the first revolutionary training course organized by Nguyen Ai Quoc, subsequently enrolling in the Whampoa Military Academy.
+*   **Oct. 1926:** Phung Chi Kien and several members of the Vietnamese Revolutionary Youth League were sent to Guangzhou (China) to attend the first revolutionary training course organized by Nguyen Ai Quoc, subsequently enrolling in the Whampoa Military Academy. [Source: Central Committee of the Party, Comrade Phung Chi Kien – Exemplary Communist Soldier, National Political Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-1525 -->
-*   **Oct. 1926:** Le Hong Phong was sent to the Soviet Union to study at the Leningrad Military Theoretical School and subsequently at the Borisoglebsk 2nd Military Aviation School, becoming Vietnam's first military pilot and Red Army officer.
+*   **Oct. 1926:** Le Hong Phong was sent to the Soviet Union to study at the Leningrad Military Theoretical School and subsequently at the Borisoglebsk 2nd Military Aviation School, becoming Vietnam's first military pilot and Red Army officer. [Source: Comrade Le Hong Phong – Outstanding Leader of the Party (Nhan Dan Newspaper), https://nhandan.vn/dong-chi-le-hong-phong-nha-lanh-dao-xuat-sac-cua-dang-va-cach-mang-viet-nam-post713500.html]
 
 <!-- id: EVT-1526 -->
-*   **Nov. 12, 1926:** The Indochinese Labor Party was founded in Saigon.
+*   **Nov. 12, 1926:** The Indochinese Labor Party was founded in Saigon. [Source: History of the Vietnamese Working Class (Vol. 1), Su That Publishing House, Hanoi, 1982]
 
 <!-- id: EVT-1527 -->
-*   **1927:** The Japanese Consul General in Hanoi, Kurosawa, requested information from French officials regarding the territorial status of the Spratly Islands.
+*   **1927:** The Japanese Consul General in Hanoi, Kurosawa, requested information from French officials regarding the territorial status of the Spratly Islands. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1528 -->
-*   **Feb. 1927:** Nguyễn Ái Quốc's work *Đường Kách mệnh* (The Revolutionary Path) was published in Guangzhou, systemizing Marxist-Leninist lectures for Vietnamese revolutionaries and laying the theoretical foundation for the Vietnamese revolution.
+*   **Feb. 1927:** Nguyễn Ái Quốc's work *Đường Kách mệnh* (The Revolutionary Path) was published in Guangzhou, systemizing Marxist-Leninist lectures for Vietnamese revolutionaries and laying the theoretical foundation for the Vietnamese revolution. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1529 -->
-*   **Feb. 25, 1927:** The Resident Superior of Tonkin, Robin, issued a decree amending the reform of village administration, allowing the old council of village notables to exist alongside the council of representatives.
+*   **Feb. 25, 1927:** The Resident Superior of Tonkin, Robin, issued a decree amending the reform of village administration, allowing the old council of village notables to exist alongside the council of representatives. [Source: Chau Ban of the Nguyen Dynasty (National Archives Center I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1530 -->
-*   **Mar. 1927:** The General Assembly of the Protestant Church was held in Da Nang.
+*   **Mar. 1927:** The General Assembly of the Protestant Church was held in Da Nang. [Source: Government Committee for Religious Affairs, Religions in Vietnam, Religious Publishing House, Hanoi, 2015]
 
 <!-- id: EVT-1531 -->
-*   **May 1927 - 1928:** Evading Chiang Kai-shek's anti-communist crackdown in Guangzhou, Nguyen Ai Quoc secretly departed China via Hong Kong, Shanghai, and Vladivostok to Moscow; he then traveled to Berlin (Germany), attended the League Against Imperialism congress in Brussels (Belgium), and visited Switzerland and Italy (Rome, Naples) before sailing to Siam (Thailand).
+*   **May 1927 - 1928:** Evading Chiang Kai-shek's anti-communist crackdown in Guangzhou, Nguyen Ai Quoc secretly departed China via Hong Kong, Shanghai, and Vladivostok to Moscow; he then traveled to Berlin (Germany), attended the League Against Imperialism congress in Brussels (Belgium), and visited Switzerland and Italy (Rome, Naples) before sailing to Siam (Thailand). [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1532 -->
-*   **Jun. 13, 1927:** Luong Van Can, the Principal of Dong Kinh Nghia Thuc, passed away in Hanoi. His funeral turned into a mass demonstration of patriotism by students and workers.
+*   **Jun. 13, 1927:** Luong Van Can, the Principal of Dong Kinh Nghia Thuc, passed away in Hanoi. His funeral turned into a mass demonstration of patriotism by students and workers. [Source: Dong Kinh Nghia Thuc (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13904/dong-kinh-nghia-thuc.html]
 
 <!-- id: EVT-1533 -->
-*   **Jul. 1927:** The French oceanographic ship *De Lanessan* officially visited the Spratly Islands.
+*   **Jul. 1927:** The French oceanographic ship *De Lanessan* officially visited the Spratly Islands. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1534 -->
-*   **Jul. 14, 1927:** The Vietnamese Revolutionary Comrades' Association (precursor to Tan Viet) was founded.
+*   **Jul. 14, 1927:** The Vietnamese Revolutionary Comrades' Association (precursor to Tan Viet) was founded. [Source: History of Vietnam (Vol. 8: 1919–1930), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1535 -->
-*   **Jul. 19, 1927:** The General Inspectorate of Labor of Indochina was established.
+*   **Jul. 19, 1927:** The General Inspectorate of Labor of Indochina was established. [Source: History of the Vietnamese Working Class (Vol. 1), Su That Publishing House, Hanoi, 1982]
 
 <!-- id: EVT-1536 -->
-*   **Aug. 10, 1927:** Huynh Thuc Khang founded the newspaper *Tieng Dan* (Voice of the People) in Hue and published its inaugural issue. As the first independent national script (Quoc ngu) newspaper in Central Vietnam, it served as a progressive forum exposing social injustices and fostering patriotism over 16 years.
+*   **Aug. 10, 1927:** Huynh Thuc Khang founded the newspaper *Tieng Dan* (Voice of the People) in Hue and published its inaugural issue. As the first independent national script (Quoc ngu) newspaper in Central Vietnam, it served as a progressive forum exposing social injustices and fostering patriotism over 16 years. [Source: Patriotic Scholar Huynh Thuc Khang (Nhan Dan Newspaper), https://nhandan.vn/chi-si-yeu-nuoc-huynh-thuc-khang-nha-lanh-dao-tien-boi-tieu-bieu-cua-dang-va-cach-mang-viet-nam-post670559.html]
 
 <!-- id: EVT-1537 -->
-*   **Oct. 30, 1927:** A decree reorganized the administrative apparatus at the village level in Cochinchina.
+*   **Oct. 30, 1927:** A decree reorganized the administrative apparatus at the village level in Cochinchina. [Source: History of Vietnam (Vol. 8: 1919–1930), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1538 -->
-*   **Dec. 12, 1927:** Phung Chi Kien participated in the Guangzhou Uprising led by the Chinese Communist Party, serving as a Company Commander in the Chinese Workers' and Peasants' Red Army.
+*   **Dec. 12, 1927:** Phung Chi Kien participated in the Guangzhou Uprising led by the Chinese Communist Party, serving as a Company Commander in the Chinese Workers' and Peasants' Red Army. [Source: Central Committee of the Party, Comrade Phung Chi Kien – Exemplary Communist Soldier, National Political Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-1539 -->
 *   **Dec. 25, 1927:** Nguyen Thai Hoc and his associates founded the Viet Nam Quoc Dan Dang (VNQDD) in Hanoi, and he was elected Chairman of the Central Executive Committee. [Source: Vietnam National Museum of History - Nguyen Thai Hoc: Leader of the Vietnam Nationalist Party, https://baotanglichsu.vn/vi/Articles/3098/19711/nguyen-thai-hoc-vi-lanh-tu-cua-viet-nam-quoc-dan-djang.html]
 
 <!-- id: EVT-1540 -->
-*   **1928:** Le Duan joined the Vietnamese Revolutionary Youth League, marking the beginning of his nearly 60-year revolutionary career.
+*   **1928:** Le Duan joined the Vietnamese Revolutionary Youth League, marking the beginning of his nearly 60-year revolutionary career. [Source: General Secretary Le Duan – Prominent Leader of the Party (Nhan Dan Newspaper), https://nhandan.vn/tong-bi-thu-le-duan-nha-lanh-dao-kien-xuat-cua-dang-va-dan-toc-post692250.html]
 
 <!-- id: EVT-1541 -->
-*   **Jan. 25, 1928:** The Hue court issued an edict banning the propagation of Protestantism and Cao Daiism in Annam.
+*   **Jan. 25, 1928:** The Hue court issued an edict banning the propagation of Protestantism and Cao Daiism in Annam. [Source: Chau Ban of the Nguyen Dynasty (National Archives Center I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1542 -->
-*   **Jul. 1928 - Nov. 1929:** Nguyen Ai Quoc conducted revolutionary activities in Siam (Thailand) under the alias **Thau Chin** (in Phichit, Udon Thani, Nakhon Phanom, Bangkok). He consolidated the "Friendship Association", established schools teaching Vietnamese and Thai, published the newspaper *Than Ai*, translated theoretical texts, and organized the overseas patriotic community.
+*   **Jul. 1928 - Nov. 1929:** Nguyen Ai Quoc conducted revolutionary activities in Siam (Thailand) under the alias **Thau Chin** (in Phichit, Udon Thani, Nakhon Phanom, Bangkok). He consolidated the "Friendship Association", established schools teaching Vietnamese and Thai, published the newspaper *Than Ai*, translated theoretical texts, and organized the overseas patriotic community. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1543 -->
-*   **Jul. 14, 1928:** The Central Executive Committee of the Vietnamese Revolutionary Comrades' Association decided to change its name to the Tan Viet Cach mang Dang (New Vietnamese Revolutionary Party).
+*   **Jul. 14, 1928:** The Central Executive Committee of the Vietnamese Revolutionary Comrades' Association decided to change its name to the Tan Viet Cach mang Dang (New Vietnamese Revolutionary Party). [Source: History of Vietnam (Vol. 8: 1919–1930), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1544 -->
-*   **Oct. 1928:** Following fierce debates with the French Superior Resident over the rejection of popular petitions for tax cuts and democratic reforms, Huynh Thuc Khang resigned from his post as President of the People's Representative Assembly of Annam.
+*   **Oct. 1928:** Following fierce debates with the French Superior Resident over the rejection of popular petitions for tax cuts and democratic reforms, Huynh Thuc Khang resigned from his post as President of the People's Representative Assembly of Annam. [Source: Patriotic Scholar Huynh Thuc Khang (Nhan Dan Newspaper), https://nhandan.vn/chi-si-yeu-nuoc-huynh-thuc-khang-nha-lanh-dao-tien-boi-tieu-bieu-cua-dang-va-cach-mang-viet-nam-post670559.html]
 
 <!-- id: EVT-1545 -->
-*   **Nov. 1928:** A new US phosphate company requested permission from the Governor of Cochinchina to research mines on the Spratly Islands.
+*   **Nov. 1928:** A new US phosphate company requested permission from the Governor of Cochinchina to research mines on the Spratly Islands. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1546 -->
-*   **Nov. 4, 1928:** A decree established the Grand Council of Economic and Financial Interests of Indochina.
+*   **Nov. 4, 1928:** A decree established the Grand Council of Economic and Financial Interests of Indochina. [Source: History of Vietnam (Vol. 8: 1919–1930), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1547 -->
-*   **Dec. 1928:** Le Hong Phong enrolled at the Communist University of the Toilers of the East (KUTV) of the Communist International in Moscow under the pseudonym **Litvinov**, intensively studying Marxist-Leninist theory and proletarian party building.
+*   **Dec. 1928:** Le Hong Phong enrolled at the Communist University of the Toilers of the East (KUTV) of the Communist International in Moscow under the pseudonym **Litvinov**, intensively studying Marxist-Leninist theory and proletarian party building. [Source: Comrade Le Hong Phong – Outstanding Leader of the Party (Nhan Dan Newspaper), https://nhandan.vn/dong-chi-le-hong-phong-nha-lanh-dao-xuat-sac-cua-dang-va-cach-mang-viet-nam-post713500.html]
 
 <!-- id: EVT-1548 -->
-*   **Feb. 9, 1929:** The labor recruiter Bazin was assassinated in Hanoi by a member of the Vietnamese Nationalist Party, leading to a wave of white terror.
+*   **Feb. 9, 1929:** The labor recruiter Bazin was assassinated in Hanoi by a member of the Vietnamese Nationalist Party, leading to a wave of white terror. [Source: History of Vietnam (Vol. 8: 1919–1930), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1549 -->
 *   **Mar. 1929:** The first Communist cell was established at 5D Ham Long Street, Hanoi. [Source: Vietnam National Museum of History - Revolutionary Relic at 5D Ham Long: Site of the First Communist Cell in Vietnam, March 1929, https://baotanglichsu.vn/vi/Articles/3097/15896/di-tich-cach-mang-nha-so-5d-ham-long-noi-thanh-lap-chi-bo-cong-san-djau-tien-o-viet-nam-vao-thang-3-nam-1929.html]
 
 <!-- id: EVT-1550 -->
-*   **May 1-9, 1929:** The first congress of the Vietnamese Revolutionary Youth League was held in Hong Kong.
+*   **May 1-9, 1929:** The first congress of the Vietnamese Revolutionary Youth League was held in Hong Kong. [Source: History of Vietnam (Vol. 8: 1919–1930), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1551 -->
 *   **Jun. 17, 1929:** The Indochinese Communist Party was founded in Hanoi. [Source: Vietnam National Museum of History - June 17, 1929: Establishment of the Indochinese Communist Party, https://baotanglichsu.vn/vi/Articles/3097/19278/17-6-1929-thanh-lap-djong-duong-cong-san-djang.html]
@@ -5026,19 +5026,19 @@
 *   **Nov. 15, 1929:** The Annamese Communist Party was founded in Cochinchina. [Source: Vietnam National Museum of History - 84th Anniversary of the Founding of the Annamese Communist Party (Sep. 1929-Sep. 2013), https://baotanglichsu.vn/vi/Articles/3097/15139/ky-niem-84-nam-thanh-lap-an-nam-cong-san-djang-9-1929-9-2013.html]
 
 <!-- id: EVT-1553 -->
-*   **Nov. 27, 1929:** Pho bang Nguyen Sinh Sac (father of President Ho Chi Minh) passed away in Hoa An village, Cao Lanh (now Dong Thap province) at the age of 67. During his final years in Southern Vietnam, he practiced traditional medicine to heal the poor, disseminated patriotic thought, and was deeply revered, sheltered, and entombed by the local people of Dong Thap.
+*   **Nov. 27, 1929:** Pho bang Nguyen Sinh Sac (father of President Ho Chi Minh) passed away in Hoa An village, Cao Lanh (now Dong Thap province) at the age of 67. During his final years in Southern Vietnam, he practiced traditional medicine to heal the poor, disseminated patriotic thought, and was deeply revered, sheltered, and entombed by the local people of Dong Thap. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1554 -->
-*   **Dec. 19, 1929:** Đặng Thị Kim (also known as Đặng Thị Oanh) was born in Hành Thiện village, Xuân Trường district, Nam Định province. She would later become a prominent revolutionary and Hero of the People's Armed Forces, known for her unyielding spirit.
+*   **Dec. 19, 1929:** Đặng Thị Kim (also known as Đặng Thị Oanh) was born in Hành Thiện village, Xuân Trường district, Nam Định province. She would later become a prominent revolutionary and Hero of the People's Armed Forces, known for her unyielding spirit. [Source: History of the Party Committee of Nam Dinh Province (1930–2000), National Political Publishing House, Hanoi]
 
 <!-- id: EVT-1555 -->
-*   **1930:** Cù Chính Lan, who would later become a legendary tank-destroying hero, was born into a poor peasant family in Quynh Doi commune, Quynh Luu district, Nghe An province. Orphaned of his mother at the age of 4, he grew up enduring extreme hardship under the oppressive colonial and feudal regimes, forging a resilient and determined character.
+*   **1930:** Cù Chính Lan, who would later become a legendary tank-destroying hero, was born into a poor peasant family in Quynh Doi commune, Quynh Luu district, Nghe An province. Orphaned of his mother at the age of 4, he grew up enduring extreme hardship under the oppressive colonial and feudal regimes, forging a resilient and determined character. [Source: Military History Institute of Vietnam, Heroes of the People's Armed Forces, People's Army Publishing House, Hanoi]
 
 <!-- id: EVT-1556 -->
-*   **1930:** Luu Tan Phat joined the Communist Party, actively participating in revolutionary activities in My Tho.
+*   **1930:** Luu Tan Phat joined the Communist Party, actively participating in revolutionary activities in My Tho. [Source: History of the Party Committee of Ben Tre Province (Vol. 1), National Political Publishing House, Hanoi]
 
 <!-- id: EVT-1557 -->
-*   **1930 - 1932:** The French naval ships *Inconstant*, *Alerte*, *La Malicieuse*, and *De Lanessan* conducted successive patrols and sovereignty missions to the Paracel Islands.
+*   **1930 - 1932:** The French naval ships *Inconstant*, *Alerte*, *La Malicieuse*, and *De Lanessan* conducted successive patrols and sovereignty missions to the Paracel Islands. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1558 -->
 *   **Jan. 1, 1930:** The Indochinese Communist League was officially established in Ha Tinh. [Source: https://baotanglichsu.vn/vi/Articles/3097/15588/cach-djay-84-nam-1-1930-1-2014-djong-duong-cong-san-lien-djoan-ra-djoi.html]
@@ -5061,28 +5061,28 @@
 *Source: Comrade Nguyen Ai Quoc at the Congress of the French Communist Party (BNF Gallica file photo / Public domain)*
 
 <!-- id: EVT-1562 -->
-*   **Early 1930s:** A land ownership survey by Yves Henry revealed severe polarization under French colonialism. Public land accounted for only 21% in Tonkin, 25% in Annam, and 3% in Cochinchina. For private land, 94.8% of landowners held less than 5 hectares (accounting for 28.5% of total land), while 0.30% of landowners held over 50 hectares (accounting for 31.5% of total private land).
+*   **Early 1930s:** A land ownership survey by Yves Henry revealed severe polarization under French colonialism. Public land accounted for only 21% in Tonkin, 25% in Annam, and 3% in Cochinchina. For private land, 94.8% of landowners held less than 5 hectares (accounting for 28.5% of total land), while 0.30% of landowners held over 50 hectares (accounting for 31.5% of total private land). [Source: Yves Henry, Agricultural Economy of Indochina, Hanoi, 1932]
 
 <!-- id: EVT-1563 -->
 *   **Feb. 10, 1930:** The Yen Bai Uprising, led by the Vietnamese Nationalist Party, broke out but was quickly defeated. [Source: https://baotanglichsu.vn/vi/Articles/2002/68123/ky-niem-84-nam-khoi-nghia-yen-bai-10-2-1930-10-2-2014-khong-thanh-cong-thi-thanh-nhan.html]
 
 <!-- id: EVT-1564 -->
-*   **Mar. 9, 1930:** The first flight connecting Paris and Saigon was completed, marking the development of air transportation.
+*   **Mar. 9, 1930:** The first flight connecting Paris and Saigon was completed, marking the development of air transportation. [Source: History of Civil Aviation in Vietnam, Transport Publishing House, Hanoi, 2006]
 
 <!-- id: EVT-1565 -->
 *   **Mar. 25, 1930:** Over 4,000 workers at the Nam Dinh Textile Mill went on strike and staged demonstrations demanding wage increases, reduced working hours, and an end to mistreatment; the 21-day strike with widespread local public support marked the start of the 1930 labor movement in Northern Vietnam. [Source: Nhan Dan Newspaper - A Seething Revolutionary Movement (Nam Dinh Textile Mill Workers Strike of 1930), https://nhandan.vn/cuoc-bai-cong-cong-nhan-nha-may-det-nam-dinh-nam-1930-post414408.html]
 
 <!-- id: EVT-1566 -->
-*   **Apr. 13, 1930:** The Governor-General of Indochina dispatched the dispatch boat *La Malicieuse* to the Spratly Islands, where the crew raised the French flag on a high point.
+*   **Apr. 13, 1930:** The Governor-General of Indochina dispatched the dispatch boat *La Malicieuse* to the Spratly Islands, where the crew raised the French flag on a high point. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1567 -->
 *   **May 1, 1930:** For the first time, widespread struggles of workers and peasants broke out across the country to celebrate International Workers' Day, marking the beginning of the 1930-1931 revolutionary high tide. [Source: https://nhandan.vn/suc-soi-mot-phong-trao-cach-mang-post414408.html]
 
 <!-- id: EVT-1568 -->
-*   **May 1, 1930:** Nguyen Van Cuc (Nguyen Van Linh), at the age of 15, bravely distributed revolutionary leaflets commemorating International Workers' Day on Cat Dai Street (Haiphong); he was arrested by French authorities and sentenced to life imprisonment on Con Dao Island in early 1931, transforming the penal colony into a school of revolutionary endurance.
+*   **May 1, 1930:** Nguyen Van Cuc (Nguyen Van Linh), at the age of 15, bravely distributed revolutionary leaflets commemorating International Workers' Day on Cat Dai Street (Haiphong); he was arrested by French authorities and sentenced to life imprisonment on Con Dao Island in early 1931, transforming the penal colony into a school of revolutionary endurance. [Source: Comrade Nguyen Van Linh – Staunch, Creative Leader (Nhan Dan Newspaper), https://nhandan.vn/dong-chi-nguyen-van-linh-nha-lanh-dao-kien-cuong-sang-tao-post652130.html]
 
 <!-- id: EVT-1569 -->
-*   **May 31, 1930:** The French government issued a decree confirming the gold standard for the Indochinese piaster, ending the silver standard.
+*   **May 31, 1930:** The French government issued a decree confirming the gold standard for the Indochinese piaster, ending the silver standard. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1570 -->
 *   **Jun. 17, 1930:** Nguyen Thai Hoc and 12 other comrades of the Vietnamese Nationalist Party were executed in Yen Bai. [Source: https://baophutho.vn/nho-nguyen-thai-hoc-nguoi-da-thanh-nhan-247446.htm]
@@ -5092,7 +5092,7 @@
 *Source: Nguyen Thai Hoc (1902-1930), Chairman of the Viet Nam Quoc Dan Dang / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-1571 -->
-*   **Jun. 19, 1930:** The French Ministry of Foreign Affairs officially determined that the Paracel Islands were not *terra nullius* (nobody's land) and affirmed French sovereignty over them on behalf of Vietnam.
+*   **Jun. 19, 1930:** The French Ministry of Foreign Affairs officially determined that the Paracel Islands were not *terra nullius* (nobody's land) and affirmed French sovereignty over them on behalf of Vietnam. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1572 -->
 *   **Sep. 1930:** The Nghe-Tinh Soviets movement reached its peak, with revolutionary governments established in many villages in Nghe An and Ha Tinh provinces. [Source: https://nhandan.vn/tuong-niem-cac-anh-hung-liet-si-hy-sinh-trong-phong-trao-xo-viet-nghe-tinh-post771783.html]
@@ -5105,7 +5105,7 @@
 *Source: Nghe Tinh Soviet Museum in Vinh / Pho Nhay (Wikimedia Commons, Public domain)*
 
 <!-- id: EVT-1574 -->
-*   **Sep. 23, 1930:** The French government issued a communiqué informing other powers of the French occupation of the Spratly Islands.
+*   **Sep. 23, 1930:** The French government issued a communiqué informing other powers of the French occupation of the Spratly Islands. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1575 -->
 *   **Oct. 14-31, 1930:** The First Conference of the Party Central Committee was held in Hong Kong (China), approving the Political Theses and changing the Party's name to the Indochinese Communist Party. Comrade Tran Phu was elected General Secretary. [Source: https://nhandan.vn/dong-chi-tran-phu-voi-mat-tran-dan-toc-thong-nhat-post248082.html]
@@ -5117,10 +5117,10 @@
 
 ### **Period of Economic Crisis and Struggle to Restore Forces (1931 - 1935)**
 
-*   **1931:** China called for bids to exploit guano on the Paracel Islands.
+*   **1931:** China called for bids to exploit guano on the Paracel Islands. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1578 -->
-*   **Jan. 17, 1931:** The first postal flight between France and Indochina took place.
+*   **Jan. 17, 1931:** The first postal flight between France and Indochina took place. [Source: History of Posts and Telecommunications in Vietnam, Post Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-1579 -->
 *   **Feb. 9, 1931:** Ly Tu Trong shot and killed the French secret agent Le Grand in Saigon to protect a speaking comrade, after which he was captured by the enemy. [Source: Vietnam National Museum of History - National Relic Ranking for the Historical Relic of Ly Tu Trong's Tomb, https://baotanglichsu.vn/vi/Articles/3091/17207/xep-hang-di-tich-quoc-gia-voi-di-tich-lich-su-phan-mo-ly-tu-trong.html]
@@ -5129,13 +5129,13 @@
 *   **Apr. 11, 1931:** The Communist International issued a resolution recognizing the Indochinese Communist Party as an independent section. [Source: Vietnam National Museum of History - The Communist International Recognizes the Indochinese Communist Party as an Independent Section, https://baotanglichsu.vn/vi/Articles/3097/14852/quoc-te-cong-san-cong-nhan-djang-cong-san-djong-duong-la-chi-bo-djoc-lap.html]
 
 <!-- id: EVT-1581 -->
-*   **Apr. 19, 1931:** Nguyen Thi Ut (Ut Tich) was born in Tich Thien village, Cau Ke district, Can Tho (now Tam Ngai, Tra Vinh). She later became a legendary heroine of the Liberation Army of South Vietnam.
+*   **Apr. 19, 1931:** Nguyen Thi Ut (Ut Tich) was born in Tich Thien village, Cau Ke district, Can Tho (now Tam Ngai, Tra Vinh). She later became a legendary heroine of the Liberation Army of South Vietnam. [Source: Military History Institute of Vietnam, Heroes of the People's Armed Forces, People's Army Publishing House, Hanoi]
 
 <!-- id: EVT-1582 -->
 *   **Apr. 19, 1931:** General Secretary Tran Phu was arrested by the enemy. [Source: Vietnam National Museum of History - Tran Phu: The First General Secretary of the Party, https://baotanglichsu.vn/vi/Articles/3096/13053/tran-phu-tong-bi-thu-djau-tien-cua-djang.html]
 
 <!-- id: EVT-1583 -->
-*   **May 17, 1931:** Resolute communist courier Nguyen Thi Nghia (birth name Nguyen Thi Hen, who maintained vital communications between the Party Central Committee and the Annam Regional Party Committee during the Nghe Tinh Soviet movement) died courageously in Vinh Prison under brutal torture by French authorities.
+*   **May 17, 1931:** Resolute communist courier Nguyen Thi Nghia (birth name Nguyen Thi Hen, who maintained vital communications between the Party Central Committee and the Annam Regional Party Committee during the Nghe Tinh Soviet movement) died courageously in Vinh Prison under brutal torture by French authorities. [Source: History of the Party Committee of Nghe An Province (Vol. 1), National Political Publishing House, Hanoi]
 
 <!-- id: EVT-1584 -->
 *   **Jun. 6, 1931:** Nguyen Ai Quoc (under the alias Tong Van So / Sung Man Cho) was arrested by British police at 186 Tam Kung Road (Kowloon, Hong Kong) at the request of the French secret service, initiating the historic **Tong Van So Case**. French colonial authorities vigorously sought his extradition to Indochina to execute the death sentence in absentia handed down by the Court of Vinh in 1929. [Source: Vietnam National Museum of History - The Tong Van So Case of 1931-1933, https://baotanglichsu.vn/vi/Articles/3097/16003/vu-an-tong-van-so-nam-1931-1933.html]
@@ -5147,74 +5147,74 @@
 *   **Nov. 20, 1931:** Ly Tu Trong heroically sacrificed his life at the Saigon Main Prison guillotine at the age of 17, leaving behind the immortal quote: "The path for youth can only be the revolutionary path, there is no other path." [Source: Vietnam National Museum of History - Comrade Ly Tu Trong: A Steadfast, Indomitable Communist and Shining Example for Young Generations, https://baotanglichsu.vn/vi/Articles/3098/75013/djong-chi-ly-tu-trong-nguoi-cong-san-kien-trung-bat-khuat-tam-guong-sang-cho-the-he-tre-hoc-tap-va-noi-theo.html]
 
 <!-- id: EVT-1587 -->
-*   **Dec. 4, 1931:** The French government sent a diplomatic note to the Chinese legation in Paris officially claiming the Paracel Islands.
+*   **Dec. 4, 1931:** The French government sent a diplomatic note to the Chinese legation in Paris officially claiming the Paracel Islands. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1588 -->
-* **1932:** Hero of the People's Armed Forces Lương Văn Tụy (Chiến sĩ trẻ cắm cờ búa liềm trên núi Non Nước, Ninh Bình) passed away.
+* **1932:** Hero of the People's Armed Forces Lương Văn Tụy (Chiến sĩ trẻ cắm cờ búa liềm trên núi Non Nước, Ninh Bình) passed away. [Source: Young Communist Soldier Luong Van Tuy (Nhan Dan Newspaper), https://nhandan.vn/nguoi-thanh-nien-cong-san-luong-van-tuy-post632140.html]
 
 <!-- id: EVT-1589 -->
-*   **Apr. 29, 1932:** France issued a formal protest against Chinese claims, detailing historical evidence of Annam's possession of the Paracel Islands. In the same year, France proposed submitting the dispute to international arbitration, which China opposed.
+*   **Apr. 29, 1932:** France issued a formal protest against Chinese claims, detailing historical evidence of Annam's possession of the Paracel Islands. In the same year, France proposed submitting the dispute to international arbitration, which China opposed. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1590 -->
 *   **Jun. 15, 1932:** The Indochinese Communist Party published its *Action Program* to restore the organizational system and revolutionary movement. [Source: Vietnam National Museum of History - The Communist International Recognizes the Indochinese Communist Party as an Independent Section, https://baotanglichsu.vn/vi/Articles/3097/14852/quoc-te-cong-san-cong-nhan-djang-cong-san-djong-duong-la-chi-bo-djoc-lap.html]
 
 <!-- id: EVT-1591 -->
-*   **Jul. 21, 1932:** The Tong Van So Case achieved a decisive legal victory before the Judicial Committee of the Privy Council in London. Thanks to the dedicated and tireless defense mounted by British lawyer Francis Henry Loseby and progressive barristers, the Privy Council rejected the French extradition request and accepted a settlement, compelling Hong Kong authorities to release Tong Van So and allow his safe departure from the colony.
+*   **Jul. 21, 1932:** The Tong Van So Case achieved a decisive legal victory before the Judicial Committee of the Privy Council in London. Thanks to the dedicated and tireless defense mounted by British lawyer Francis Henry Loseby and progressive barristers, the Privy Council rejected the French extradition request and accepted a settlement, compelling Hong Kong authorities to release Tong Van So and allow his safe departure from the colony. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1592 -->
 *   **Aug. 16, 1932:** Emperor Bao Dai returned to the country to take up his reign after studying in France. [Source: Vietnam National Museum of History - Bao Dai: The Last Emperor of the Nguyen Dynasty, https://baotanglichsu.vn/vi/Articles/3098/15282/bao-djia-vi-vua-cuoi-cung-cua-trieu-nguyen.html]
 
 <!-- id: EVT-1593 -->
-*   **Dec. 21, 1932:** Nguyen Thanh (commonly known as Nguyen Van Luom), the real-life inspiration for the famous poem "Luom" by To Huu, was born in Quy Nhon. He would later become a guerrilla member and an immortal symbol of young, brave Vietnamese messengers during the resistance against the French.
+*   **Dec. 21, 1932:** Nguyen Thanh (commonly known as Nguyen Van Luom), the real-life inspiration for the famous poem "Luom" by To Huu, was born in Quy Nhon. He would later become a guerrilla member and an immortal symbol of young, brave Vietnamese messengers during the resistance against the French. [Source: Dictionary of Literature (New Edition), The Gioi Publishers, Hanoi, 2004]
 
 <!-- id: EVT-1594 -->
-*   **Dec. 28, 1932:** Tong Van So (Nguyen Ai Quoc) was released from Victoria Prison in Hong Kong. After a brief re-arrest and decisive intervention by Lawyer Loseby with the Governor of Hong Kong, on January 22, 1933, secretly assisted and disguised by the Loseby family, Nguyen Ai Quoc safely departed Hong Kong on a fishing boat heading to Xiamen (China), completely evading the French secret police.
+*   **Dec. 28, 1932:** Tong Van So (Nguyen Ai Quoc) was released from Victoria Prison in Hong Kong. After a brief re-arrest and decisive intervention by Lawyer Loseby with the Governor of Hong Kong, on January 22, 1933, secretly assisted and disguised by the Loseby family, Nguyen Ai Quoc safely departed Hong Kong on a fishing boat heading to Xiamen (China), completely evading the French secret police. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 ![Historical Image](images/event_20260924_103204.webp)
 
 *Source: Hong Kong Police jail where Tong Van So was detained in 1931 / People's Army Newspaper*
 
 <!-- id: EVT-1595 -->
-*   **1933:** At the age of 17, Dinh Thi Van joined revolutionary activities, undertaking communication tasks, safeguarding secret Party documents, and participating in mutual aid groups to protect revolutionary cadres in Nam Dinh.
+*   **1933:** At the age of 17, Dinh Thi Van joined revolutionary activities, undertaking communication tasks, safeguarding secret Party documents, and participating in mutual aid groups to protect revolutionary cadres in Nam Dinh. [Source: Intelligence Officer Dinh Thi Van (Nhan Dan Newspaper), https://nhandan.vn/nu-tinh-bao-dinh-thi-van-huyen-thoai-trong-long-dich-post645210.html]
 
 <!-- id: EVT-1596 -->
-*   **1933:** Huynh Tan Phat entered the Indochina Fine Arts College to study architecture.
+*   **1933:** Huynh Tan Phat entered the Indochina Fine Arts College to study architecture. [Source: Architect Huynh Tan Phat – Life and Career (Nhan Dan Newspaper), https://nhandan.vn/kien-truc-su-huynh-tan-phat-post738200.html]
 
 <!-- id: EVT-1597 -->
-*   **Mar. 1933:** Ha Huy Tap (alias Hong The Cong) published the work *Draft History of the Indochinese Communist Movement*.
+*   **Mar. 1933:** Ha Huy Tap (alias Hong The Cong) published the work *Draft History of the Indochinese Communist Movement*. [Source: Ha Huy Tap – Selected Works, National Political Publishing House, Hanoi, 2006]
 
 <!-- id: EVT-1598 -->
-*   **Apr. 13, 1933:** A French naval fleet commanded by De Lattre departed Saigon to officially take possession of the Spratly Islands with traditional ceremonies.
+*   **Apr. 13, 1933:** A French naval fleet commanded by De Lattre departed Saigon to officially take possession of the Spratly Islands with traditional ceremonies. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1599 -->
-*   **May 2, 1933:** Emperor Bao Dai issued an edict to reform the Southern Court's apparatus, establishing a new cabinet with ministers such as Pham Quynh and Ngo Dinh Diem.
+*   **May 2, 1933:** Emperor Bao Dai issued an edict to reform the Southern Court's apparatus, establishing a new cabinet with ministers such as Pham Quynh and Ngo Dinh Diem. [Source: Emperor Bao Dai (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13777/vua-bao-dai.html]
 
 <!-- id: EVT-1600 -->
-*   **Jul. 26, 1933:** The French government issued a decree officially announcing the possession of the Spratly Islands by the French Navy.
+*   **Jul. 26, 1933:** The French government issued a decree officially announcing the possession of the Spratly Islands by the French Navy. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1601 -->
-*   **Sep. 12, 1933:** Minister of the Interior Ngo Dinh Diem resigned after French colonial authorities rejected his proposals for administrative reform and granting greater legislative powers to the Chamber of Representatives of Annam, withdrawing from the imperial court before eventually going into exile abroad.
+*   **Sep. 12, 1933:** Minister of the Interior Ngo Dinh Diem resigned after French colonial authorities rejected his proposals for administrative reform and granting greater legislative powers to the Chamber of Representatives of Annam, withdrawing from the imperial court before eventually going into exile abroad. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1602 -->
-*   **Dec. 21, 1933:** Governor of Cochinchina Jean-Félix Krautheimer signed **Decree No. 4702-CP** officially annexing the Spratly Islands (including Itu Aba, Southwest Cay, Northeast Cay, Thitu, Loaita, Namyit, and adjacent reefs) into Ba Ria Province.
+*   **Dec. 21, 1933:** Governor of Cochinchina Jean-Félix Krautheimer signed **Decree No. 4702-CP** officially annexing the Spratly Islands (including Itu Aba, Southwest Cay, Northeast Cay, Thitu, Loaita, Namyit, and adjacent reefs) into Ba Ria Province. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1603 -->
-*   **1934 - 1935:** Nguyen Son (Hong Thuy) became the only Vietnamese soldier to participate in the historic 10,000 km Long March of the Chinese People's Liberation Army.
+*   **1934 - 1935:** Nguyen Son (Hong Thuy) became the only Vietnamese soldier to participate in the historic 10,000 km Long March of the Chinese People's Liberation Army. [Source: Ministry of National Defense, Two-Nation General Nguyen Son, People's Army Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-1604 -->
-*   **1934 - 1938:** Nguyen Ai Quoc returned to the Soviet Union under the alias **Linov** (Lin). He served as a researcher at the Institute for National and Colonial Questions in Moscow, graduated from the International Lenin School (1935 - 1938), and attended the 7th Comintern Congress (1935) with the Indochinese delegation.
+*   **1934 - 1938:** Nguyen Ai Quoc returned to the Soviet Union under the alias **Linov** (Lin). He served as a researcher at the Institute for National and Colonial Questions in Moscow, graduated from the International Lenin School (1935 - 1938), and attended the 7th Comintern Congress (1935) with the Indochinese delegation. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1605 -->
-*   **Mar. 1934:** Under the guidance of the Communist International, the **Overseas Command Bureau of the Indochinese Communist Party** was established in Macao with Comrade Le Hong Phong as Secretary; functioning as a provisional Central Committee, this body led the restoration of shattered Party networks and preparations for the 1st National Congress.
+*   **Mar. 1934:** Under the guidance of the Communist International, the **Overseas Command Bureau of the Indochinese Communist Party** was established in Macao with Comrade Le Hong Phong as Secretary; functioning as a provisional Central Committee, this body led the restoration of shattered Party networks and preparations for the 1st National Congress. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1606 -->
-*   **Mar. 20, 1934 (Feb. 5, Lunar Year of the Dog):** The imperial wedding of Emperor Bao Dai and Marie-Thérèse Nguyen Huu Thi Lan (Empress Nam Phuong) was solemnized at Thai Hoa Palace in Hue. The emperor instituted a landmark break with Nguyen court precedent by publicly pledging monogamy ('one husband, one wife'), disbanding the traditional imperial harem, and proclaiming his bride Empress on their wedding day.
+*   **Mar. 20, 1934 (Feb. 5, Lunar Year of the Dog):** The imperial wedding of Emperor Bao Dai and Marie-Thérèse Nguyen Huu Thi Lan (Empress Nam Phuong) was solemnized at Thai Hoa Palace in Hue. The emperor instituted a landmark break with Nguyen court precedent by publicly pledging monogamy ('one husband, one wife'), disbanding the traditional imperial harem, and proclaiming his bride Empress on their wedding day. [Source: Emperor Bao Dai (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13777/vua-bao-dai.html]
 
 <!-- id: EVT-1607 -->
 *   **Jun. 16 - 21, 1934:** In Macao (China), Comrade Le Hong Phong presided over a joint conference between the Overseas Command Bureau and domestic party delegates, adopting Political and Organizational Resolutions that unified the Party apparatus and mandated the publication of the journal *Bolshevik*. [Source: Vietnam National Museum of History - Le Hong Phong: The First International Communist of Vietnam, https://baotanglichsu.vn/vi/Articles/3098/15745/le-hong-phong-nguoi-cong-san-quoc-te-djau-tien-cua-viet-nam.html]
 
 <!-- id: EVT-1608 -->
-*   **Sep. 12, 1934:** Vu A Dinh, a courageous young hero of the Hmong ethnic group during the anti-French resistance, was born in Pu Nhung commune, Tuan Giao district, Dien Bien province.
+*   **Sep. 12, 1934:** Vu A Dinh, a courageous young hero of the Hmong ethnic group during the anti-French resistance, was born in Pu Nhung commune, Tuan Giao district, Dien Bien province. [Source: Young Hero Vu A Dinh (Nhan Dan Newspaper), https://nhandan.vn/anh-hung-thieu-nien-vu-a-dinh-post632150.html]
 
 <!-- id: EVT-1609 -->
 *   **Mar. 27 - 31, 1935:** The 1st National Congress of the Party met in Macao (China), electing a Central Executive Committee with Comrade Le Hong Phong as General Secretary; adopting the Political Resolution and Party Charter, marking the firm restoration and consolidation of the Party apparatus from central to grassroots levels after colonial white terror; Comrade Phung Chi Kien was elected to the Standing Committee in charge of military affairs. [Source: Vietnam National Museum of History - The First National Party Congress - Macau (1935), https://baotanglichsu.vn/vi/Articles/3097/15817/djoa-djai-hoi-djang-lan-thu-nhat-ma-cao-1935.html]
@@ -5226,85 +5226,85 @@
 
 ### **Democratic Front Period (1936 - 1938)**
 
-*   **1936 - 1939:** Comrade Vo Nguyen Giap taught history at the Thang Long Private School in Hanoi while completing his Bachelor of Law degree. Through inspiring history lectures on Vietnam's heroic resistance against foreign aggression and the French Revolution of 1789, teacher Vo Nguyen Giap fostered patriotism, spread democratic ideas, and enlightened generations of students with revolutionary ideals, turning Thang Long School into a vital revolutionary cradle for Hanoi's intellectual youth during the Democratic Front era.
+*   **1936 - 1939:** Comrade Vo Nguyen Giap taught history at the Thang Long Private School in Hanoi while completing his Bachelor of Law degree. Through inspiring history lectures on Vietnam's heroic resistance against foreign aggression and the French Revolution of 1789, teacher Vo Nguyen Giap fostered patriotism, spread democratic ideas, and enlightened generations of students with revolutionary ideals, turning Thang Long School into a vital revolutionary cradle for Hanoi's intellectual youth during the Democratic Front era. [Source: General Vo Nguyen Giap – Legendary Commander (Nhan Dan Newspaper), https://nhandan.vn/dai-tuong-vo-nguyen-giap-vi-tuong-huyen-thoai-post662100.html]
 
 <!-- id: EVT-1612 -->
-*   **1936:** The Dai Viet National Socialist Party was founded.
+*   **1936:** The Dai Viet National Socialist Party was founded. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1613 -->
-*   **1936:** The Vietnam Independence Motion Alliance Association (Viet Nam Doc Lap Van Dong Dong Minh Hoi), a precursor organization with a similar name to the Viet Minh, was established in Nanjing (China) by Vietnamese anti-imperialist activists.
+*   **1936:** The Vietnam Independence Motion Alliance Association (Viet Nam Doc Lap Van Dong Dong Minh Hoi), a precursor organization with a similar name to the Viet Minh, was established in Nanjing (China) by Vietnamese anti-imperialist activists. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1614 -->
-*   **1936:** Returning from Con Dao prison, Le Duan operated in Central Vietnam. As Secretary of the Party Committee of Central Vietnam (Xu uy Trung Ky), he led the Democratic Front movement (1936-1939), initiating struggles for livelihood and democratic rights.
+*   **1936:** Returning from Con Dao prison, Le Duan operated in Central Vietnam. As Secretary of the Party Committee of Central Vietnam (Xu uy Trung Ky), he led the Democratic Front movement (1936-1939), initiating struggles for livelihood and democratic rights. [Source: General Secretary Le Duan – Prominent Leader of the Party (Nhan Dan Newspaper), https://nhandan.vn/tong-bi-thu-le-duan-nha-lanh-dao-kien-xuat-cua-dang-va-dan-toc-post692250.html]
 
 <!-- id: EVT-1615 -->
-*   **1936:** Poet Hàn Mặc Tử (Nguyễn Trọng Trí) published his debut collection *Gái quê* (Country Girl) and co-founded the "Bàn Thành Tứ Hữu" (Four Friends of Bàn Thành / School of Disordered Poetry) with Chế Lan Viên, Yến Lan, and Quách Tấn in Bình Định, introducing a uniquely intense symbolist and surrealist style to the New Poetry Movement.
+*   **1936:** Poet Hàn Mặc Tử (Nguyễn Trọng Trí) published his debut collection *Gái quê* (Country Girl) and co-founded the "Bàn Thành Tứ Hữu" (Four Friends of Bàn Thành / School of Disordered Poetry) with Chế Lan Viên, Yến Lan, and Quách Tấn in Bình Định, introducing a uniquely intense symbolist and surrealist style to the New Poetry Movement. [Source: Dictionary of Literature (New Edition), The Gioi Publishers, Hanoi, 2004]
 
 <!-- id: EVT-1616 -->
-*   **May 3, 1936:** The French Popular Front, led by Léon Blum, won the election, opening a favorable period for the democratic movement in the colonies.
+*   **May 3, 1936:** The French Popular Front, led by Léon Blum, won the election, opening a favorable period for the democratic movement in the colonies. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1617 -->
-*   **May 31, 1936:** Professor, Doctor, People's Physician Dang Hanh De was born in Hanoi. He is one of the foremost pioneers who laid the groundwork and advanced cardiovascular and thoracic surgery in Vietnam, an outstanding disciple continuing the legacy of Professor Ton That Tung, and the Founding President of the Vietnam Society of Cardiovascular and Thoracic Surgery.
+*   **May 31, 1936:** Professor, Doctor, People's Physician Dang Hanh De was born in Hanoi. He is one of the foremost pioneers who laid the groundwork and advanced cardiovascular and thoracic surgery in Vietnam, an outstanding disciple continuing the legacy of Professor Ton That Tung, and the Founding President of the Vietnam Society of Cardiovascular and Thoracic Surgery. [Source: Professor Dang Hanh De – Luminary of Cardiovascular Surgery (Health & Life Newspaper), https://suckhoedoisong.vn/]
 
 <!-- id: EVT-1618 -->
 *   **Jul. 26, 1936:** The Party Central Committee conference in Shanghai (China), chaired by Comrade Le Hong Phong, appointed Comrade Ha Huy Tap as General Secretary (serving until March 1938). The plenum decided on the strategic reorientation for the Indochinese Democratic Front (1936–1939): temporarily shelving slogans for national independence and land confiscation to focus on democratic liberties, food, and peace; combining clandestine activities with open, semi-legal struggle and extensive legal publishing. [Source: Vietnam National Museum of History - Le Hong Phong: The First International Communist of Vietnam, https://baotanglichsu.vn/vi/Articles/3098/15745/le-hong-phong-nguoi-cong-san-quoc-te-djau-tien-cua-viet-nam.html]
 
 <!-- id: EVT-1619 -->
-*   **Aug. 1936:** The "Indochinese Congress" movement began vigorously, aiming to collect "people's aspirations" to send to the French Parliament's investigation delegation. Hundreds of "Action Committees" were formed across the country.
+*   **Aug. 1936:** The "Indochinese Congress" movement began vigorously, aiming to collect "people's aspirations" to send to the French Parliament's investigation delegation. Hundreds of "Action Committees" were formed across the country. [Source: Indochinese Congress Movement (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13909/dong-duong-dai-hoi.html]
 
 <!-- id: EVT-1620 -->
 *   **Nov. 13, 1936:** A general strike by over 30,000 miners in the Hon Gai and Cam Pha region broke out and achieved a major victory. [Source: Vietnam National Museum of History - The General Strike of Hon Gai and Cam Pha Miners (1936), https://baotanglichsu.vn/vi/Articles/3097/15893/cuoc-tong-bai-cong-cua-cong-nhan-mo-hon-gai-cam-pha-1936.html]
 
 <!-- id: EVT-1621 -->
-*   **Dec. 30, 1936:** The French government issued a decree on the Labor Law in Indochina, regulating certain conditions for workers.
+*   **Dec. 30, 1936:** The French government issued a decree on the Labor Law in Indochina, regulating certain conditions for workers. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1622 -->
-*   **1937:** Chief Public Works Engineer Gauthier, on behalf of the French colonial administration, carried out a mission to study the possibility of building maritime and aviation infrastructure and a lighthouse on the Paracel Islands.
+*   **1937:** Chief Public Works Engineer Gauthier, on behalf of the French colonial administration, carried out a mission to study the possibility of building maritime and aviation infrastructure and a lighthouse on the Paracel Islands. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1623 -->
-*   **1937:** The Indochinese Democratic Party was established.
+*   **1937:** The Indochinese Democratic Party was established. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1624 -->
-*   **1937:** Poet Chế Lan Viên (Phan Ngọc Hoan) published his groundbreaking debut poetry collection *Điêu tàn* (Ruins) at age 17, creating a sensation with its haunting, mystical reflections on ancient Champa and marking the emergence of the School of Disordered Poetry.
+*   **1937:** Poet Chế Lan Viên (Phan Ngọc Hoan) published his groundbreaking debut poetry collection *Điêu tàn* (Ruins) at age 17, creating a sensation with its haunting, mystical reflections on ancient Champa and marking the emergence of the School of Disordered Poetry. [Source: Dictionary of Literature (New Edition), The Gioi Publishers, Hanoi, 2004]
 
 <!-- id: EVT-1625 -->
-*   **Jan. 1 - Mar. 14, 1937:** Justin Godart, an envoy from the French government, visited Indochina to investigate the situation, sparking a vigorous mass movement to welcome him and present demands.
+*   **Jan. 1 - Mar. 14, 1937:** Justin Godart, an envoy from the French government, visited Indochina to investigate the situation, sparking a vigorous mass movement to welcome him and present demands. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1626 -->
-*   **Feb. 18, 1937:** The French Government sent a diplomatic note to the Chinese Embassy proposing an amicable settlement or, failing that, international arbitration regarding the sovereignty dispute over the Paracel Islands. The proposal was unsuccessful, and the sovereignty dispute continued.
+*   **Feb. 18, 1937:** The French Government sent a diplomatic note to the Chinese Embassy proposing an amicable settlement or, failing that, international arbitration regarding the sovereignty dispute over the Paracel Islands. The proposal was unsuccessful, and the sovereignty dispute continued. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1627 -->
-*   **Feb. 28, 1937:** The French cruiser *Lamotte-Picquet* conducted a survey of the Paracel Islands and found them deserted. The military authorities concluded that France could not tolerate any foreign occupation there.
+*   **Feb. 28, 1937:** The French cruiser *Lamotte-Picquet* conducted a survey of the Paracel Islands and found them deserted. The military authorities concluded that France could not tolerate any foreign occupation there. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1628 -->
-*   **May 5, 1937:** General Secretary Ha Huy Tap (alias Thanh Huong) published the book *Trotsky and Counter-Revolution*.
+*   **May 5, 1937:** General Secretary Ha Huy Tap (alias Thanh Huong) published the book *Trotsky and Counter-Revolution*. [Source: Ha Huy Tap – Selected Works, National Political Publishing House, Hanoi, 2006]
 
 <!-- id: EVT-1629 -->
 *   **07/1937:** Young revolutionary Nguyễn Kim Thành (Tố Hữu) was inducted into the Indochinese Communist Party in Huế and composed the landmark poem *Từ ấy* (Since Then), marking the beginning of his distinguished revolutionary poetic career intertwined with Vietnam's modern history. [Source: Vietnam National Museum of History - To Huu: The Great Revolutionary Poet of the Nation, https://baotanglichsu.vn/vi/Articles/3091/73855/to-huu-nha-tho-cach-mang-lon-cua-dat-nuoc.html]
 
 <!-- id: EVT-1630 -->
-*   **Nov. 10, 1937:** Comrade Le Hong Phong secretly returned to Vietnam, operating in Saigon - Cho Lon under the alias **La Anh** to directly guide the democratic mass struggle of the Indochinese Democratic Front alongside the Cochinchina Regional Party Committee.
+*   **Nov. 10, 1937:** Comrade Le Hong Phong secretly returned to Vietnam, operating in Saigon - Cho Lon under the alias **La Anh** to directly guide the democratic mass struggle of the Indochinese Democratic Front alongside the Cochinchina Regional Party Committee. [Source: Comrade Le Hong Phong – Outstanding Leader of the Party (Nhan Dan Newspaper), https://nhandan.vn/dong-chi-le-hong-phong-nha-lanh-dao-xuat-sac-cua-dang-va-cach-mang-viet-nam-post713500.html]
 
 <!-- id: EVT-1631 -->
 *   **1938:** In Hanoi, young revolutionaries Truong Chinh (pen name Qua Ninh) and Vo Nguyen Giap (pen name Van Dinh) published the classic theoretical treatise *"The Peasant Question"* (Van de dan cay). The work profoundly analyzed conditions in rural Vietnam, exposed colonial and feudal exploitation, and affirmed the strategic role of the peasantry and the worker-peasant alliance in the national liberation struggle. [Source: Vietnam National Museum of History - "The Peasant Question": A Work That Advanced the Vietnamese Revolutionary Movement, https://baotanglichsu.vn/vi/Articles/3091/70703/van-de-dan-cay-tac-pham-gop-phan-thuc-day-phong-trao-cach-mang-viet-nam.html]
 
 <!-- id: EVT-1632 -->
-*   **1938:** Nguyen Ai Quoc returned to China and worked in the Eighth Route Army.
+*   **1938:** Nguyen Ai Quoc returned to China and worked in the Eighth Route Army. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1633 -->
-*   **1938:** Huynh Tan Phat graduated valedictorian in architecture from the Indochina Fine Arts College.
+*   **1938:** Huynh Tan Phat graduated valedictorian in architecture from the Indochina Fine Arts College. [Source: Architect Huynh Tan Phat – Life and Career (Nhan Dan Newspaper), https://nhandan.vn/kien-truc-su-huynh-tan-phat-post738200.html]
 
 <!-- id: EVT-1634 -->
-*   **1938:** Poet Xuân Diệu published *Thơ thơ* (Poetry), a masterpiece that propelled him to the pinnacle of the New Poetry Movement and earned him induction into the Tự Lực Văn Đoàn (Self-Reliance Literary Group); he was celebrated as the "newest among the new poets" and Vietnam's "King of Love Poetry".
+*   **1938:** Poet Xuân Diệu published *Thơ thơ* (Poetry), a masterpiece that propelled him to the pinnacle of the New Poetry Movement and earned him induction into the Tự Lực Văn Đoàn (Self-Reliance Literary Group); he was celebrated as the "newest among the new poets" and Vietnam's "King of Love Poetry". [Source: Dictionary of Literature (New Edition), The Gioi Publishers, Hanoi, 2004]
 
 <!-- id: EVT-1635 -->
-*   **Feb. 1938:** The Dai Viet Democratic Party was founded.
+*   **Feb. 1938:** The Dai Viet Democratic Party was founded. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1636 -->
 *   **Mar. 29 - 30, 1938:** The Party Central Committee plenum convened in Tan Thoi Nhat, Ba Diem (Hoc Mon, Gia Dinh), deciding to rename the front to the Indochinese Democratic Front and electing Comrade Nguyen Van Cu as General Secretary of the Party Central Committee at the age of 26. As top leader, he demonstrated exceptional theoretical insight, guiding the consolidation of Party organization and the expansion of the democratic struggle movement. [Source: Vietnam National Museum of History - Le Hong Phong: The First International Communist of Vietnam, https://baotanglichsu.vn/vi/Articles/3098/15745/le-hong-phong-nguoi-cong-san-quoc-te-djau-tien-cua-viet-nam.html]
 
 <!-- id: EVT-1637 -->
-*   **Mar. 30, 1938:** Emperor Bao Dai issued **Imperial Decree No. 10**, separating the Paracel Islands (Archipel des îles Paracels) from Nam Ngai Province and annexing them to Thua Thien Province for enhanced administrative efficiency and coastal defense.
+*   **Mar. 30, 1938:** Emperor Bao Dai issued **Imperial Decree No. 10**, separating the Paracel Islands (Archipel des îles Paracels) from Nam Ngai Province and annexing them to Thua Thien Province for enhanced administrative efficiency and coastal defense. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1638 -->
 *   **May 1, 1938:** A huge rally with 25.000 participants was held openly at the Dau Xao area in Hanoi to celebrate International Workers' Day. [Source: Vietnam National Museum of History - The International Workers Day Rally on May 1, 1938 in Hanoi, https://baotanglichsu.vn/vi/Articles/3097/16188/mit-tinh-ngay-quoc-te-lao-dong-1-5-1938-tai-ha-noi.html]
@@ -5313,103 +5313,103 @@
 *   **May 25, 1938:** The Association for the Propagation of National Script (Hội Truyền bá Quốc ngữ) was founded in Hanoi with scholar Nguyễn Văn Tố (Ứng Hòe) serving as its President. Guided and supported by the Indochinese Communist Party, the association developed a widespread mass literacy campaign across Vietnam, establishing thousands of classes to eradicate illiteracy and foster patriotism before the August Revolution. [Source: Vietnam National Museum of History - The Society for the Propagation of the National Script (1938-1945), https://baotanglichsu.vn/vi/Articles/2001/66367/hoi-truyen-ba-quoc-ngu-1938-1945.html]
 
 <!-- id: EVT-1640 -->
-*   **Jun. 15, 1938:** Governor-General of Indochina Jules Brévié issued **Decree No. 156-S-C** establishing an administrative delegation (*Délégation administrative*) on the Paracel Islands under Thua Thien Province. France stationed an indigenous guard unit (*Garde Indigène*), built a lighthouse, a meteorological station (international code 48860), a radio station on Pattle Island (Hoang Sa), and erected a sovereignty stele inscribed: *"République Française - Royaume d'Annam - Archipel des Paracels 1816 - Île Pattle 1938"*, formally referencing the 1816 sovereign foundation.
+*   **Jun. 15, 1938:** Governor-General of Indochina Jules Brévié issued **Decree No. 156-S-C** establishing an administrative delegation (*Délégation administrative*) on the Paracel Islands under Thua Thien Province. France stationed an indigenous guard unit (*Garde Indigène*), built a lighthouse, a meteorological station (international code 48860), a radio station on Pattle Island (Hoang Sa), and erected a sovereignty stele inscribed: *"République Française - Royaume d'Annam - Archipel des Paracels 1816 - Île Pattle 1938"*, formally referencing the 1816 sovereign foundation. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1641 -->
-*   **Jul. 18, 1938:** The Chinese Ambassador in Paris submitted a diplomatic note strongly affirming China's claims over the Paracel Islands. The note acknowledged the French Ministry of Foreign Affairs' assurance that the French occupation "had absolutely no intention of affecting the respective legal positions of China and France" and reserved the rights of both parties.
+*   **Jul. 18, 1938:** The Chinese Ambassador in Paris submitted a diplomatic note strongly affirming China's claims over the Paracel Islands. The note acknowledged the French Ministry of Foreign Affairs' assurance that the French occupation "had absolutely no intention of affecting the respective legal positions of China and France" and reserved the rights of both parties. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1642 -->
-*   **Aug. 30, 1938:** The French government issued a decree on press freedom in Cochinchina, allowing the publication of Vietnamese-language newspapers without prior permission.
+*   **Aug. 30, 1938:** The French government issued a decree on press freedom in Cochinchina, allowing the publication of Vietnamese-language newspapers without prior permission. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1643 -->
-*   **Oct. 1938 - 1940:** Nguyen Ai Quoc departed Moscow for China. Operating under the alias **Ho Quang** (as a Major in the Eighth Route Army), he carried out activities in Yan'an, Xi'an, Guilin, and Kunming, re-establishing contact with the overseas leadership of the Indochinese Communist Party to prepare for his return to Vietnam.
+*   **Oct. 1938 - 1940:** Nguyen Ai Quoc departed Moscow for China. Operating under the alias **Ho Quang** (as a Major in the Eighth Route Army), he carried out activities in Yan'an, Xi'an, Guilin, and Kunming, re-establishing contact with the overseas leadership of the Indochinese Communist Party to prepare for his return to Vietnam. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1644 -->
-*   **Dec. 10, 1938:** Truong Tu Anh announced the theory of "Survivalism" (Chu nghia Dan toc Sinh ton), which later served as the ideological foundation for the Dai Viet Nationalist Party.
+*   **Dec. 10, 1938:** Truong Tu Anh announced the theory of "Survivalism" (Chu nghia Dan toc Sinh ton), which later served as the ideological foundation for the Dai Viet Nationalist Party. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1645 -->
 
 ### **Period of National Liberation Mobilization and August Revolution (1939 - 1945)**
 
-*   **1939 - 1940:** Bui Van Thuyen (also known as Hai Thieng) was born in a poor peasant family in Chau Thanh, Tay Ninh. Coming from a patriotic family where his father and brother fought against the French, he would later become a legendary guerrilla fighter, participating in over 1,000 battles and sustaining 72 wounds throughout the resistance against the US.
+*   **1939 - 1940:** Bui Van Thuyen (also known as Hai Thieng) was born in a poor peasant family in Chau Thanh, Tay Ninh. Coming from a patriotic family where his father and brother fought against the French, he would later become a legendary guerrilla fighter, participating in over 1,000 battles and sustaining 72 wounds throughout the resistance against the US. [Source: History of the Party Committee of Vinh Long Province (Vol. 1), National Political Publishing House, Hanoi]
 
 <!-- id: EVT-1646 -->
 *   **1939:** Dr. Ton That Tung published his research on liver anatomy, laying the foundation for the world-renowned "Ton That Tung liver resection method" (dry liver surgery). [Source: Vietnam National Museum of History - Professor Ton That Tung: A World-Leading Liver Surgeon, https://baotanglichsu.vn/vi/Articles/3091/73994/giao-su-ton-that-tung-nha-phau-thuat-gan-hang-dau-the-gioi.html]
 
 <!-- id: EVT-1647 -->
-*   **Mar. 12, 1939:** The Vietnam Restoration League (Phuc Quoc Hoi) was officially launched in Shanghai.
+*   **Mar. 12, 1939:** The Vietnam Restoration League (Phuc Quoc Hoi) was officially launched in Shanghai. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1648 -->
-*   **Mar. 31, 1939:** The Japanese Government declared its control over the Spratly Islands. France protested this action on April 4.
+*   **Mar. 31, 1939:** The Japanese Government declared its control over the Spratly Islands. France protested this action on April 4. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1649 -->
-*   **May 5, 1939:** Governor-General Jules Brévié issued **Decree No. 3283** amending the 1938 decree, dividing the Paracel Islands into two distinct administrative delegations under Thua Thien Province: the Crescent Group and its dependencies (*Croissant et ses dépendances*) and the Amphitrite Group and its dependencies (*Amphitrite et ses dépendances*).
+*   **May 5, 1939:** Governor-General Jules Brévié issued **Decree No. 3283** amending the 1938 decree, dividing the Paracel Islands into two distinct administrative delegations under Thua Thien Province: the Crescent Group and its dependencies (*Croissant et ses dépendances*) and the Amphitrite Group and its dependencies (*Amphitrite et ses dépendances*). [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1650 -->
-*   **07/06/1939:** Poet and journalist Tản Đà (Nguyễn Khắc Hiếu) passed away in Hanoi at age 50. Commemorated as "the man of two centuries," he was hailed by literary critic Hoài Thanh as the leading figure presiding over Vietnamese poetic transition before the New Poetry Movement.
+*   **07/06/1939:** Poet and journalist Tản Đà (Nguyễn Khắc Hiếu) passed away in Hanoi at age 50. Commemorated as "the man of two centuries," he was hailed by literary critic Hoài Thanh as the leading figure presiding over Vietnamese poetic transition before the New Poetry Movement. [Source: Dictionary of Literature (New Edition), The Gioi Publishers, Hanoi, 2004]
 
 <!-- id: EVT-1651 -->
-*   **Jun. 22, 1939:** Comrade Le Hong Phong was arrested by French police in Saigon; sentenced to prison and subsequent house arrest under strict surveillance in his hometown of Hung Nguyen (Nghe An), he continued to maintain clandestine links to advise the Party Central Committee.
+*   **Jun. 22, 1939:** Comrade Le Hong Phong was arrested by French police in Saigon; sentenced to prison and subsequent house arrest under strict surveillance in his hometown of Hung Nguyen (Nghe An), he continued to maintain clandestine links to advise the Party Central Committee. [Source: Comrade Le Hong Phong – Outstanding Leader of the Party (Nhan Dan Newspaper), https://nhandan.vn/dong-chi-le-hong-phong-nha-lanh-dao-xuat-sac-cua-dang-va-cach-mang-viet-nam-post713500.html]
 
 <!-- id: EVT-1652 -->
-*   **Jul. 1939:** General Secretary Nguyen Van Cu published the classic theoretical treatise *"Self-Criticism"* (Tu chi trich, under the pen name Tri Cuong). The work crystallized vital lessons in Party-building, establishing the methodological foundation for candid internal criticism and self-criticism to consolidate ideological and organizational unity throughout the Party.
+*   **Jul. 1939:** General Secretary Nguyen Van Cu published the classic theoretical treatise *"Self-Criticism"* (Tu chi trich, under the pen name Tri Cuong). The work crystallized vital lessons in Party-building, establishing the methodological foundation for candid internal criticism and self-criticism to consolidate ideological and organizational unity throughout the Party. [Source: Nguyen Van Cu – Selected Works, National Political Publishing House, Hanoi, 2007]
 
 <!-- id: EVT-1653 -->
-*   **Jul. 5, 1939:** Hoa Hao Buddhism, an indigenous religion, was founded by Mr. Huynh Phu So in An Giang province.
+*   **Jul. 5, 1939:** Hoa Hao Buddhism, an indigenous religion, was founded by Mr. Huynh Phu So in An Giang province. [Source: Government Committee for Religious Affairs, Religions in Vietnam, Religious Publishing House, Hanoi, 2015]
 
 <!-- id: EVT-1654 -->
-*   **Sep. 1, 1939:** World War II broke out, and France entered the war.
+*   **Sep. 1, 1939:** World War II broke out, and France entered the war. [Source: Modern World History, Education Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-1655 -->
-*   **Sep. 28, 1939:** The Governor-General of Indochina issued a decree outlawing the Indochinese Communist Party, beginning a period of white terror.
+*   **Sep. 28, 1939:** The Governor-General of Indochina issued a decree outlawing the Indochinese Communist Party, beginning a period of white terror. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1656 -->
-*   **Nov. 6 - 8, 1939:** The 6th Conference of the Party Central Committee in Ba Diem (Hoc Mon, Gia Dinh), chaired by General Secretary Nguyen Van Cu, decided to shift strategic direction: prioritizing national liberation above all and establishing the Indochinese Anti-Imperialist National United Front.
+*   **Nov. 6 - 8, 1939:** The 6th Conference of the Party Central Committee in Ba Diem (Hoc Mon, Gia Dinh), chaired by General Secretary Nguyen Van Cu, decided to shift strategic direction: prioritizing national liberation above all and establishing the Indochinese Anti-Imperialist National United Front. [Source: Complete Party Documents (Vol. 6: 1936–1939), National Political Publishing House, Hanoi, 2000]
 
 <!-- id: EVT-1657 -->
-*   **Dec. 10, 1939:** The Dai Viet Nationalist Party was founded.
+*   **Dec. 10, 1939:** The Dai Viet Nationalist Party was founded. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1658 -->
-*   **1940:** Architect Huynh Tan Phat opened the first private architectural office by a Vietnamese in Saigon. In the same year, Luu Tan Phat was a core leader in the Nam Ky Uprising in his home commune in Tien Giang.
+*   **1940:** Architect Huynh Tan Phat opened the first private architectural office by a Vietnamese in Saigon. In the same year, Luu Tan Phat was a core leader in the Nam Ky Uprising in his home commune in Tien Giang. [Source: Architect Huynh Tan Phat – Life and Career (Nhan Dan Newspaper), https://nhandan.vn/kien-truc-su-huynh-tan-phat-post738200.html]
 
 <!-- id: EVT-1659 -->
-*   **1940:** Poet Nguyễn Bính published the celebrated collection *Lỡ bước sang ngang* and received the Tự Lực Văn Đoàn poetry prize for *Tâm hồn tôi*, establishing himself as the preeminent folk-pastoral poet of the New Poetry Movement with verses rich in traditional Vietnamese rural soul and folk rhythms.
+*   **1940:** Poet Nguyễn Bính published the celebrated collection *Lỡ bước sang ngang* and received the Tự Lực Văn Đoàn poetry prize for *Tâm hồn tôi*, establishing himself as the preeminent folk-pastoral poet of the New Poetry Movement with verses rich in traditional Vietnamese rural soul and folk rhythms. [Source: Dictionary of Literature (New Edition), The Gioi Publishers, Hanoi, 2004]
 
 <!-- id: EVT-1660 -->
-*   **Feb. 1, 1940:** Nguyễn Văn Trỗi was born in Thanh Quýt village, Điện Bàn district, Quảng Nam province. He later became a heroic Saigon urban commando whose unyielding spirit before execution made him a national symbol of revolutionary patriotism.
+*   **Feb. 1, 1940:** Nguyễn Văn Trỗi was born in Thanh Quýt village, Điện Bàn district, Quảng Nam province. He later became a heroic Saigon urban commando whose unyielding spirit before execution made him a national symbol of revolutionary patriotism. [Source: Heroic Martyr Nguyen Van Troi (Nhan Dan Newspaper), https://nhandan.vn/anh-hung-liet-si-nguyen-van-troi-post621450.html]
 
 <!-- id: EVT-1661 -->
-*   **Feb. 6, 1940:** French authorities rearrested Comrade Le Hong Phong in Nghe An, detaining him at Saigon Central Prison (*Khám Lớn Sài Gòn*) and sentencing him to 5 years in prison and 10 years of banishment before deporting him to Con Dao Island prison.
+*   **Feb. 6, 1940:** French authorities rearrested Comrade Le Hong Phong in Nghe An, detaining him at Saigon Central Prison (*Khám Lớn Sài Gòn*) and sentencing him to 5 years in prison and 10 years of banishment before deporting him to Con Dao Island prison. [Source: Comrade Le Hong Phong – Outstanding Leader of the Party (Nhan Dan Newspaper), https://nhandan.vn/dong-chi-le-hong-phong-nha-lanh-dao-xuat-sac-cua-dang-va-cach-mang-viet-nam-post713500.html]
 
 <!-- id: EVT-1662 -->
-*   **Jun. 1940:** At Cuihu (Green Lake, Kunming, Yunnan, China), comrades Vo Nguyen Giap and Pham Van Dong met leader Nguyen Ai Quoc for the first time. This historic encounter proved to be a decisive turning point in Vo Nguyen Giap's revolutionary life, initiating a lifelong dedication to the revolutionary cause under the direct mentorship of President Ho Chi Minh.
+*   **Jun. 1940:** At Cuihu (Green Lake, Kunming, Yunnan, China), comrades Vo Nguyen Giap and Pham Van Dong met leader Nguyen Ai Quoc for the first time. This historic encounter proved to be a decisive turning point in Vo Nguyen Giap's revolutionary life, initiating a lifelong dedication to the revolutionary cause under the direct mentorship of President Ho Chi Minh. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1663 -->
-*   **Jun. 18, 1940:** Following General Charles de Gaulle's historic BBC radio appeal from London, former Emperor Duy Tan utilized his amateur wireless radio setup on Réunion to intercept, translate, and surreptitiously disseminate the French Resistance manifesto across the Southwest Indian Ocean. He subsequently enlisted in the Free French Forces (FFL) as a signals and communications officer, rising to the rank of Major.
+*   **Jun. 18, 1940:** Following General Charles de Gaulle's historic BBC radio appeal from London, former Emperor Duy Tan utilized his amateur wireless radio setup on Réunion to intercept, translate, and surreptitiously disseminate the French Resistance manifesto across the Southwest Indian Ocean. He subsequently enlisted in the Free French Forces (FFL) as a signals and communications officer, rising to the rank of Major. [Source: Modern World History, Education Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-1664 -->
-*   **Jun. 22, 1940:** The French government surrendered to Nazi Germany.
+*   **Jun. 22, 1940:** The French government surrendered to Nazi Germany. [Source: Modern World History, Education Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-1665 -->
-*   **Sep. 1940:** The Vietnam National Construction Army (military wing of Phuc Quoc Hoi) attacked Lang Son.
+*   **Sep. 1940:** The Vietnam National Construction Army (military wing of Phuc Quoc Hoi) attacked Lang Son. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1666 -->
-*   **Sep. 22, 1940:** Japanese troops crossed the border and attacked Lang Son. The French colonialists quickly signed a surrender agreement, allowing Japan to enter Indochina.
+*   **Sep. 22, 1940:** Japanese troops crossed the border and attacked Lang Son. The French colonialists quickly signed a surrender agreement, allowing Japan to enter Indochina. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1667 -->
-*   **Sep. 27, 1940:** The Bac Son Uprising broke out.
+*   **Sep. 27, 1940:** The Bac Son Uprising broke out. [Source: The Bac Son Uprising (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13910/khoi-nghia-bac-son.html]
 
 <!-- id: EVT-1668 -->
-*   **Nov. 6-9, 1940:** The 7th Conference of the Party Central Committee in Dinh Bang (Bac Ninh) decided to maintain the Bac Son armed forces and postpone the Nam Ky Uprising.
+*   **Nov. 6-9, 1940:** The 7th Conference of the Party Central Committee in Dinh Bang (Bac Ninh) decided to maintain the Bac Son armed forces and postpone the Nam Ky Uprising. [Source: Complete Party Documents (Vol. 7: 1940), National Political Publishing House, Hanoi, 2000]
 
 <!-- id: EVT-1669 -->
-*   **11/11/1940:** Gifted poet Hàn Mặc Tử passed away from leprosy at the Quy Hòa leprosarium (Quy Nhơn, Bình Định) at the age of 28, leaving behind immortal poetic masterpieces including *Đau thương* (*Mad Poetry*), *Xuân như ý*, *Đây thôn Vĩ Dạ*, and *Mùa xuân chín*.
+*   **11/11/1940:** Gifted poet Hàn Mặc Tử passed away from leprosy at the Quy Hòa leprosarium (Quy Nhơn, Bình Định) at the age of 28, leaving behind immortal poetic masterpieces including *Đau thương* (*Mad Poetry*), *Xuân như ý*, *Đây thôn Vĩ Dạ*, and *Mùa xuân chín*. [Source: Dictionary of Literature (New Edition), The Gioi Publishers, Hanoi, 2004]
 
 <!-- id: EVT-1670 -->
-*   **Nov. 23, 1940:** The Nam Ky Uprising broke out across many southern provinces but was brutally suppressed by the French colonialists. Amid the fervor of the uprising, the red flag with a five-pointed gold star (designed by revolutionary fighter Nguyen Huu Tien) made its first public appearance, fluttering proudly atop a tree in front of Long Hung communal house (Chau Thanh, My Tho - now Tien Giang, headquarters of the Uprising Committee), becoming a sacred symbol summoning the indomitable revolutionary spirit of the nation.
+*   **Nov. 23, 1940:** The Nam Ky Uprising broke out across many southern provinces but was brutally suppressed by the French colonialists. Amid the fervor of the uprising, the red flag with a five-pointed gold star (designed by revolutionary fighter Nguyen Huu Tien) made its first public appearance, fluttering proudly atop a tree in front of Long Hung communal house (Chau Thanh, My Tho - now Tien Giang, headquarters of the Uprising Committee), becoming a sacred symbol summoning the indomitable revolutionary spirit of the nation. [Source: The Nam Ky Uprising (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13911/khoi-nghia-nam-ky.html]
 
 <!-- id: EVT-1671 -->
-*   **1941:** Architect Huynh Tan Phat won first prize in the design competition for the Indochina Exhibition Center in Saigon.
+*   **1941:** Architect Huynh Tan Phat won first prize in the design competition for the Indochina Exhibition Center in Saigon. [Source: Architect Huynh Tan Phat – Life and Career (Nhan Dan Newspaper), https://nhandan.vn/kien-truc-su-huynh-tan-phat-post738200.html]
 
 <!-- id: EVT-1672 -->
 *   **Jan. 13, 1941:** The Do Luong Mutiny, led by Captain Cung, broke out in Nghe An.

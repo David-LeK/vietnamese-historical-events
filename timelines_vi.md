@@ -4911,16 +4911,16 @@
 *   **24/12/1925:** Toàn quyền Varenne ký lệnh "ân xá" và an trí Phan Bội Châu tại Huế. [Nguồn: Phan Bội Châu (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13903/phan-boi-chau-nha-chi-si-yeu-nuoc.html]
 
 <!-- id: EVT-1516 -->
-*   **1926:** Huỳnh Thúc Kháng đắc cử đại biểu rồi được bầu làm Viện trưởng Viện Dân biểu Trung Kỳ; tại diễn đàn này, ông đã kiên quyết đấu tranh bảo vệ quyền lợi của nhân dân và đòi các quyền tự do dân chủ tối thiểu.
+*   **1926:** Huỳnh Thúc Kháng đắc cử đại biểu rồi được bầu làm Viện trưởng Viện Dân biểu Trung Kỳ; tại diễn đàn này, ông đã kiên quyết đấu tranh bảo vệ quyền lợi của nhân dân và đòi các quyền tự do dân chủ tối thiểu. [Nguồn: Lịch sử Việt Nam (Tập 8: 1919–1930), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1517 -->
-*   **08/01/1926 (25/11 năm Ất Sửu):** Hoàng Thái tử Vĩnh Thụy (12 tuổi) chính thức làm lễ đăng quang lên ngôi hoàng đế tại điện Thái Hòa, lấy niên hiệu Bảo Đại, trở thành vị hoàng đế thứ 13 và cũng là vị vua cuối cùng của triều đại nhà Nguyễn cùng chế độ phong kiến Việt Nam.
+*   **08/01/1926 (25/11 năm Ất Sửu):** Hoàng Thái tử Vĩnh Thụy (12 tuổi) chính thức làm lễ đăng quang lên ngôi hoàng đế tại điện Thái Hòa, lấy niên hiệu Bảo Đại, trở thành vị hoàng đế thứ 13 và cũng là vị vua cuối cùng của triều đại nhà Nguyễn cùng chế độ phong kiến Việt Nam. [Nguồn: Vua Bảo Đại (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13777/vua-bao-dai.html]
 
 <!-- id: EVT-1518 -->
-*   **02/1926:** Được sự giới thiệu của đồng chí Nguyễn Ái Quốc, Lê Hồng Phong được kết nạp vào Đảng Cộng sản Trung Quốc khi đang theo học tại Trường Hàng không Quân sự Quảng Châu.
+*   **02/1926:** Được sự giới thiệu của đồng chí Nguyễn Ái Quốc, Lê Hồng Phong được kết nạp vào Đảng Cộng sản Trung Quốc khi đang theo học tại Trường Hàng không Quân sự Quảng Châu. [Nguồn: Nguyễn Q. Thắng, Phan Châu Trinh – Cuộc đời và tác phẩm, NXB Văn học, Hà Nội, 2002]
 
 <!-- id: EVT-1519 -->
-*   **21/03/1926:** Đảng Thanh niên Việt Nam (Jeune Annam) được thành lập.
+*   **21/03/1926:** Đảng Thanh niên Việt Nam (Jeune Annam) được thành lập. [Nguồn: Lịch sử Việt Nam (Tập 8: 1919–1930), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1520 -->
 *   **24/03/1926:** Phan Châu Trinh qua đời tại Sài Gòn. [Nguồn: Bảo tàng Lịch sử Quốc gia - Phan Châu Trinh - đại diện trí thức Việt Nam đầu thế kỷ XX, https://baotanglichsu.vn/vi/Articles/2001/66932/phan-chau-trinh-djai-dien-tri-thuc-viet-nam-djau-the-ky-xx.html]
@@ -4930,94 +4930,94 @@
 *Nguồn: Chân dung Phan Châu Trinh năm 37 tuổi / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-1521 -->
-*   **24/03/1926:** Nhà yêu nước, nhà báo Nguyễn An Ninh bị thực dân Pháp bắt giữ tại Sài Gòn, làm bùng lên làn sóng biểu tình, mít tinh và bãi khóa sôi nổi của học sinh, sinh viên và thanh niên Nam Kỳ đòi trả tự do cho ông.
+*   **24/03/1926:** Nhà yêu nước, nhà báo Nguyễn An Ninh bị thực dân Pháp bắt giữ tại Sài Gòn, làm bùng lên làn sóng biểu tình, mít tinh và bãi khóa sôi nổi của học sinh, sinh viên và thanh niên Nam Kỳ đòi trả tự do cho ông. [Nguồn: Nguyễn An Ninh – Nhà yêu nước nhiệt thành (Báo Nhân Dân), https://nhandan.vn/nguyen-an-ninh-nha-yeu-nuoc-nhiet-thanh-post614210.html]
 
 <!-- id: EVT-1522 -->
-*   **04/04/1926:** Lễ quốc táng chí sĩ Phan Chu Trinh được tổ chức trọng thể tại Sài Gòn với sự tham gia của hơn 14 vạn người, biến thành cuộc biểu tình chính trị và biểu dương lực lượng quần chúng rộng lớn, châm ngòi cho phong trào bãi khóa và lễ truy điệu cụ Phan lan rộng khắp ba kỳ.
+*   **04/04/1926:** Lễ quốc táng chí sĩ Phan Chu Trinh được tổ chức trọng thể tại Sài Gòn với sự tham gia của hơn 14 vạn người, biến thành cuộc biểu tình chính trị và biểu dương lực lượng quần chúng rộng lớn, châm ngòi cho phong trào bãi khóa và lễ truy điệu cụ Phan lan rộng khắp ba kỳ. [Nguồn: Lễ quốc táng chí sĩ Phan Chu Trinh (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13908/quoc-tang-phan-chu-trinh.html]
 
 <!-- id: EVT-1523 -->
-*   **04/09/1926:** Nghị định thành lập các Ngân hàng Nông phố bình dân (Tín dụng nông nghiệp) ở Bắc Kỳ.
+*   **04/09/1926:** Nghị định thành lập các Ngân hàng Nông phố bình dân (Tín dụng nông nghiệp) ở Bắc Kỳ. [Nguồn: Lịch sử Ngân hàng Việt Nam (1951–2021), NXB Chính trị Quốc gia, Hà Nội, 2021]
 
 <!-- id: EVT-1524 -->
-*   **10/1926:** Phùng Chí Kiên cùng một số hội viên Việt Nam Thanh niên Cách mạng Đồng chí Hội được giới thiệu sang Quảng Châu (Trung Quốc) dự lớp huấn luyện cách mạng do Nguyễn Ái Quốc trực tiếp tổ chức và giảng dạy, sau đó nhập học Trường Quân sự Hoàng Phố.
+*   **10/1926:** Phùng Chí Kiên cùng một số hội viên Việt Nam Thanh niên Cách mạng Đồng chí Hội được giới thiệu sang Quảng Châu (Trung Quốc) dự lớp huấn luyện cách mạng do Nguyễn Ái Quốc trực tiếp tổ chức và giảng dạy, sau đó nhập học Trường Quân sự Hoàng Phố. [Nguồn: Ban Chấp hành Trung ương Đảng, Đồng chí Phùng Chí Kiên – Người chiến sĩ cộng sản mẫu mực, NXB Chính trị Quốc gia, Hà Nội, 2008]
 
 <!-- id: EVT-1525 -->
-*   **10/1926:** Lê Hồng Phong được cử sang Liên Xô theo học tại Trường Lý luận Quân sự Lênin-grát (Leningrad) rồi chuyển sang Trường Hàng không Quân sự số 2 Borisoglebsk, trở thành phi công quân sự đầu tiên và là sĩ quan Hồng quân Liên Xô người Việt Nam.
+*   **10/1926:** Lê Hồng Phong được cử sang Liên Xô theo học tại Trường Lý luận Quân sự Lênin-grát (Leningrad) rồi chuyển sang Trường Hàng không Quân sự số 2 Borisoglebsk, trở thành phi công quân sự đầu tiên và là sĩ quan Hồng quân Liên Xô người Việt Nam. [Nguồn: Đồng chí Lê Hồng Phong – Nhà lãnh đạo xuất sắc của Đảng (Báo Nhân Dân), https://nhandan.vn/dong-chi-le-hong-phong-nha-lanh-dao-xuat-sac-cua-dang-va-cach-mang-viet-nam-post713500.html]
 
 <!-- id: EVT-1526 -->
-*   **12/11/1926:** Đông Dương Lao động Đảng được thành lập tại Sài Gòn.
+*   **12/11/1926:** Đông Dương Lao động Đảng được thành lập tại Sài Gòn. [Nguồn: Lịch sử Giai cấp Công nhân Việt Nam (Tập 1), NXB Sự thật, Hà Nội, 1982]
 
 <!-- id: EVT-1527 -->
-*   **1927:** Tổng Lãnh sự Nhật Bản tại Hà Nội, Kurosawa, đã yêu cầu các quan chức Pháp cung cấp thông tin về quy chế lãnh thổ của quần đảo Trường Sa.
+*   **1927:** Tổng Lãnh sự Nhật Bản tại Hà Nội, Kurosawa, đã yêu cầu các quan chức Pháp cung cấp thông tin về quy chế lãnh thổ của quần đảo Trường Sa. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1528 -->
-*   **02/1927:** Tác phẩm *Đường Kách mệnh* của Nguyễn Ái Quốc được xuất bản tại Quảng Châu, hệ thống hóa các bài giảng lý luận Mác-Lênin cho cán bộ cách mạng Việt Nam, đặt nền móng lý luận cho cách mạng Việt Nam.
+*   **02/1927:** Tác phẩm *Đường Kách mệnh* của Nguyễn Ái Quốc được xuất bản tại Quảng Châu, hệ thống hóa các bài giảng lý luận Mác-Lênin cho cán bộ cách mạng Việt Nam, đặt nền móng lý luận cho cách mạng Việt Nam. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1529 -->
-*   **25/02/1927:** Thống sứ Bắc Kỳ Robin ra nghị định sửa đổi cuộc cải lương hương chính, cho phép Hội đồng kỳ mục cũ tồn tại song song với Hội đồng tộc biểu.
+*   **25/02/1927:** Thống sứ Bắc Kỳ Robin ra nghị định sửa đổi cuộc cải lương hương chính, cho phép Hội đồng kỳ mục cũ tồn tại song song với Hội đồng tộc biểu. [Nguồn: Châu bản triều Nguyễn (Trung tâm Lưu trữ Quốc gia I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1530 -->
-*   **03/1927:** Đại hội đồng Giáo hội Tin Lành được tổ chức tại Đà Nẵng.
+*   **03/1927:** Đại hội đồng Giáo hội Tin Lành được tổ chức tại Đà Nẵng. [Nguồn: Ban Tôn giáo Chính phủ, Các tôn giáo ở Việt Nam, NXB Tôn giáo, Hà Nội, 2015]
 
 <!-- id: EVT-1531 -->
-*   **05/1927 - 1928:** Tránh sự khủng bố phản cách mạng của Tưởng Giới Thạch tại Quảng Châu, Nguyễn Ái Quốc bí mật rời Trung Quốc qua Hong Kong, Thượng Hải, Vladivostok về Moskva (Liên Xô); sau đó sang Berlin (Đức), dự Đại hội Liên đoàn chống chiến tranh đế quốc tại Brussels (Bỉ), rồi khảo sát tại Thụy Sĩ, Ý (Rome, Naples) trước khi lên tàu sang Xiêm (Thái Lan).
+*   **05/1927 - 1928:** Tránh sự khủng bố phản cách mạng của Tưởng Giới Thạch tại Quảng Châu, Nguyễn Ái Quốc bí mật rời Trung Quốc qua Hong Kong, Thượng Hải, Vladivostok về Moskva (Liên Xô); sau đó sang Berlin (Đức), dự Đại hội Liên đoàn chống chiến tranh đế quốc tại Brussels (Bỉ), rồi khảo sát tại Thụy Sĩ, Ý (Rome, Naples) trước khi lên tàu sang Xiêm (Thái Lan). [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1532 -->
-*   **13/06/1927:** Cụ Lương Văn Can, Thục trưởng Đông Kinh Nghĩa Thục, qua đời tại Hà Nội. Đám tang của cụ trở thành sự kiện biểu dương lòng yêu nước của học sinh và thợ thuyền.
+*   **13/06/1927:** Cụ Lương Văn Can, Thục trưởng Đông Kinh Nghĩa Thục, qua đời tại Hà Nội. Đám tang của cụ trở thành sự kiện biểu dương lòng yêu nước của học sinh và thợ thuyền. [Nguồn: Đông Kinh Nghĩa Thục (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13904/dong-kinh-nghia-thuc.html]
 
 <!-- id: EVT-1533 -->
-*   **07/1927:** Tàu hải dương học của Pháp *De Lanessan* chính thức thăm quần đảo Trường Sa.
+*   **07/1927:** Tàu hải dương học của Pháp *De Lanessan* chính thức thăm quần đảo Trường Sa. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1534 -->
-*   **14/07/1927:** Hội Việt Nam Cách mệnh đồng chí Hội (tiền thân của Tân Việt) được thành lập.
+*   **14/07/1927:** Hội Việt Nam Cách mệnh đồng chí Hội (tiền thân của Tân Việt) được thành lập. [Nguồn: Lịch sử Việt Nam (Tập 8: 1919–1930), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1535 -->
-*   **19/07/1927:** Thành lập Tổng Thanh tra lao động Đông Dương.
+*   **19/07/1927:** Thành lập Tổng Thanh tra lao động Đông Dương. [Nguồn: Lịch sử Giai cấp Công nhân Việt Nam (Tập 1), NXB Sự thật, Hà Nội, 1982]
 
 <!-- id: EVT-1536 -->
-*   **10/08/1927:** Huỳnh Thúc Kháng sáng lập tờ báo *Tiếng Dân* tại Huế và phát hành số đầu tiên. Đây là tờ báo độc lập đầu tiên bằng chữ Quốc ngữ tại Trung Kỳ, đóng vai trò cơ quan ngôn luận tiến bộ, công khai vạch trần bất công xã hội và cổ vũ tinh thần yêu nước trong suốt 16 năm.
+*   **10/08/1927:** Huỳnh Thúc Kháng sáng lập tờ báo *Tiếng Dân* tại Huế và phát hành số đầu tiên. Đây là tờ báo độc lập đầu tiên bằng chữ Quốc ngữ tại Trung Kỳ, đóng vai trò cơ quan ngôn luận tiến bộ, công khai vạch trần bất công xã hội và cổ vũ tinh thần yêu nước trong suốt 16 năm. [Nguồn: Chí sĩ yêu nước Huỳnh Thúc Kháng (Báo Nhân Dân), https://nhandan.vn/chi-si-yeu-nuoc-huynh-thuc-khang-nha-lanh-dao-tien-boi-tieu-bieu-cua-dang-va-cach-mang-viet-nam-post670559.html]
 
 <!-- id: EVT-1537 -->
-*   **30/10/1927:** Nghị định tái tổ chức bộ máy hành chính cấp làng xã ở Nam Kỳ.
+*   **30/10/1927:** Nghị định tái tổ chức bộ máy hành chính cấp làng xã ở Nam Kỳ. [Nguồn: Lịch sử Việt Nam (Tập 8: 1919–1930), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1538 -->
-*   **12/12/1927:** Phùng Chí Kiên tham gia Cuộc khởi nghĩa Quảng Châu do Đảng Cộng sản Trung Quốc lãnh đạo, đảm nhiệm chức vụ Đại đội trưởng trong lực lượng Hồng quân công nông Trung Quốc.
+*   **12/12/1927:** Phùng Chí Kiên tham gia Cuộc khởi nghĩa Quảng Châu do Đảng Cộng sản Trung Quốc lãnh đạo, đảm nhiệm chức vụ Đại đội trưởng trong lực lượng Hồng quân công nông Trung Quốc. [Nguồn: Ban Chấp hành Trung ương Đảng, Đồng chí Phùng Chí Kiên – Người chiến sĩ cộng sản mẫu mực, NXB Chính trị Quốc gia, Hà Nội, 2008]
 
 <!-- id: EVT-1539 -->
 *   **25/12/1927:** Nguyễn Thái Học cùng các cộng sự thành lập Việt Nam Quốc dân Đảng tại Hà Nội, ông được bầu làm Chủ tịch Ban Chấp hành Trung ương. [Nguồn: Bảo tàng Lịch sử Quốc gia - Nguyễn Thái Học - vị lãnh tụ của Việt Nam Quốc dân Đảng, https://baotanglichsu.vn/vi/Articles/3098/19711/nguyen-thai-hoc-vi-lanh-tu-cua-viet-nam-quoc-dan-djang.html]
 
 <!-- id: EVT-1540 -->
-*   **1928:** Lê Duẩn tham gia Hội Việt Nam Cách mạng Thanh niên, bắt đầu cuộc đời hoạt động cách mạng sôi nổi gần 60 năm.
+*   **1928:** Lê Duẩn tham gia Hội Việt Nam Cách mạng Thanh niên, bắt đầu cuộc đời hoạt động cách mạng sôi nổi gần 60 năm. [Nguồn: Tổng Bí thư Lê Duẩn – Nhà lãnh đạo kiệt xuất của Đảng và dân tộc (Báo Nhân Dân), https://nhandan.vn/tong-bi-thu-le-duan-nha-lanh-dao-kien-xuat-cua-dang-va-dan-toc-post692250.html]
 
 <!-- id: EVT-1541 -->
-*   **25/01/1928:** Triều đình Huế ra chỉ dụ cấm truyền bá đạo Tin Lành và đạo Cao Đài ở Trung Kỳ.
+*   **25/01/1928:** Triều đình Huế ra chỉ dụ cấm truyền bá đạo Tin Lành và đạo Cao Đài ở Trung Kỳ. [Nguồn: Châu bản triều Nguyễn (Trung tâm Lưu trữ Quốc gia I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1542 -->
-*   **07/1928 - 11/1929:** Nguyễn Ái Quốc hoạt động cách mạng tại Xiêm (Thái Lan) với bí danh **Thầu Chín** (ở Bản Đông - Phichit, Udon Thani, Nakhon Phanom, Bangkok...). Người củng cố tổ chức "Hội Thân ái", mở trường dạy chữ tiếng Việt và tiếng Thái, lập tờ báo *Thân ái*, dịch sách lý luận và giác ngộ cộng đồng kiều bào hướng về Tổ quốc.
+*   **07/1928 - 11/1929:** Nguyễn Ái Quốc hoạt động cách mạng tại Xiêm (Thái Lan) với bí danh **Thầu Chín** (ở Bản Đông - Phichit, Udon Thani, Nakhon Phanom, Bangkok...). Người củng cố tổ chức "Hội Thân ái", mở trường dạy chữ tiếng Việt và tiếng Thái, lập tờ báo *Thân ái*, dịch sách lý luận và giác ngộ cộng đồng kiều bào hướng về Tổ quốc. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1543 -->
-*   **14/07/1928:** Hội nghị Ban Chấp hành Trung ương Việt Nam Cách mệnh đồng chí Hội quyết định đổi tên thành Tân Việt Cách mạng Đảng.
+*   **14/07/1928:** Hội nghị Ban Chấp hành Trung ương Việt Nam Cách mệnh đồng chí Hội quyết định đổi tên thành Tân Việt Cách mạng Đảng. [Nguồn: Lịch sử Việt Nam (Tập 8: 1919–1930), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1544 -->
-*   **10/1928:** Sau nhiều cuộc tranh luận gay gắt với Khâm sứ Pháp nhằm phản đối chính sách hà khắc cùng việc thực dân bác bỏ các thỉnh cầu giảm thuế và cải cách dân quyền, Huỳnh Thúc Kháng tuyên bố từ chức Viện trưởng Viện Dân biểu Trung Kỳ.
+*   **10/1928:** Sau nhiều cuộc tranh luận gay gắt với Khâm sứ Pháp nhằm phản đối chính sách hà khắc cùng việc thực dân bác bỏ các thỉnh cầu giảm thuế và cải cách dân quyền, Huỳnh Thúc Kháng tuyên bố từ chức Viện trưởng Viện Dân biểu Trung Kỳ. [Nguồn: Chí sĩ yêu nước Huỳnh Thúc Kháng (Báo Nhân Dân), https://nhandan.vn/chi-si-yeu-nuoc-huynh-thuc-khang-nha-lanh-dao-tien-boi-tieu-bieu-cua-dang-va-cach-mang-viet-nam-post670559.html]
 
 <!-- id: EVT-1545 -->
-*   **11/1928:** Một công ty phốt phát mới của Mỹ đã xin Thống đốc Nam Kỳ cấp phép nghiên cứu mỏ trên quần đảo Trường Sa.
+*   **11/1928:** Một công ty phốt phát mới của Mỹ đã xin Thống đốc Nam Kỳ cấp phép nghiên cứu mỏ trên quần đảo Trường Sa. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1546 -->
-*   **04/11/1928:** Sắc lệnh thành lập Đại Hội đồng kinh tế và tài chính Đông Dương.
+*   **04/11/1928:** Sắc lệnh thành lập Đại Hội đồng kinh tế và tài chính Đông Dương. [Nguồn: Lịch sử Việt Nam (Tập 8: 1919–1930), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1547 -->
-*   **12/1928:** Lê Hồng Phong nhập học Trường Đại học Lao động Cộng sản Phương Đông (KUTV) của Quốc tế Cộng sản tại Moskva với bí danh **Litvinov**, chuyên sâu nghiên cứu lý luận chủ nghĩa Mác - Lênin và tích lũy kiến thức xây dựng Đảng vô sản.
+*   **12/1928:** Lê Hồng Phong nhập học Trường Đại học Lao động Cộng sản Phương Đông (KUTV) của Quốc tế Cộng sản tại Moskva với bí danh **Litvinov**, chuyên sâu nghiên cứu lý luận chủ nghĩa Mác - Lênin và tích lũy kiến thức xây dựng Đảng vô sản. [Nguồn: Đồng chí Lê Hồng Phong – Nhà lãnh đạo xuất sắc của Đảng (Báo Nhân Dân), https://nhandan.vn/dong-chi-le-hong-phong-nha-lanh-dao-xuat-sac-cua-dang-va-cach-mang-viet-nam-post713500.html]
 
 <!-- id: EVT-1548 -->
-*   **09/02/1929:** Trùm mộ phu Bazin bị đảng viên Việt Nam Quốc dân Đảng ám sát tại Hà Nội, dẫn đến một đợt khủng bố trắng.
+*   **09/02/1929:** Trùm mộ phu Bazin bị đảng viên Việt Nam Quốc dân Đảng ám sát tại Hà Nội, dẫn đến một đợt khủng bố trắng. [Nguồn: Lịch sử Việt Nam (Tập 8: 1919–1930), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1549 -->
 *   **03/1929:** Chi bộ Cộng sản đầu tiên được thành lập tại số nhà 5D Hàm Long, Hà Nội. [Nguồn: Bảo tàng Lịch sử Quốc gia - Di tích cách mạng nhà số 5D Hàm Long - Nơi thành lập Chi bộ Cộng sản đầu tiên ở Việt Nam vào tháng 3 năm 1929, https://baotanglichsu.vn/vi/Articles/3097/15896/di-tich-cach-mang-nha-so-5d-ham-long-noi-thanh-lap-chi-bo-cong-san-djau-tien-o-viet-nam-vao-thang-3-nam-1929.html]
 
 <!-- id: EVT-1550 -->
-*   **01-09/05/1929:** Đại hội lần thứ nhất của Hội Việt Nam Cách mạng Thanh niên diễn ra tại Hương Cảng.
+*   **01-09/05/1929:** Đại hội lần thứ nhất của Hội Việt Nam Cách mạng Thanh niên diễn ra tại Hương Cảng. [Nguồn: Lịch sử Việt Nam (Tập 8: 1919–1930), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1551 -->
 *   **17/06/1929:** Đông Dương Cộng sản Đảng được thành lập tại Hà Nội. [Nguồn: Bảo tàng Lịch sử Quốc gia - 17-6-1929: Thành lập Đông Dương Cộng sản Đảng, https://baotanglichsu.vn/vi/Articles/3097/19278/17-6-1929-thanh-lap-djong-duong-cong-san-djang.html]
@@ -5026,19 +5026,19 @@
 *   **15/11/1929:** An Nam Cộng sản Đảng được thành lập tại Sài Gòn. [Nguồn: Bảo tàng Lịch sử Quốc gia - Kỷ niệm 84 năm thành lập An Nam Cộng sản Đảng (9/1929-9/2013), https://baotanglichsu.vn/vi/Articles/3097/15139/ky-niem-84-nam-thanh-lap-an-nam-cong-san-djang-9-1929-9-2013.html]
 
 <!-- id: EVT-1553 -->
-*   **27/11/1929:** Cụ Phó bảng Nguyễn Sinh Sắc (thân phụ Chủ tịch Hồ Chí Minh) qua đời tại làng Hòa An, Cao Lãnh (nay thuộc tỉnh Đồng Tháp), hưởng thọ 67 tuổi. Suốt những năm tháng cuối đời ở Nam Bộ, cụ đã bốc thuốc cứu người, truyền bá tư tưởng yêu nước và được nhân dân Đồng Tháp hết lòng kính trọng, che chở và xây cất lăng mộ trang nghiêm.
+*   **27/11/1929:** Cụ Phó bảng Nguyễn Sinh Sắc (thân phụ Chủ tịch Hồ Chí Minh) qua đời tại làng Hòa An, Cao Lãnh (nay thuộc tỉnh Đồng Tháp), hưởng thọ 67 tuổi. Suốt những năm tháng cuối đời ở Nam Bộ, cụ đã bốc thuốc cứu người, truyền bá tư tưởng yêu nước và được nhân dân Đồng Tháp hết lòng kính trọng, che chở và xây cất lăng mộ trang nghiêm. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1554 -->
-*   **19/12/1929:** Đặng Thị Kim (tên thường gọi là Đặng Thị Oanh) sinh ra tại làng Hành Thiện, xã Xuân Hồng, huyện Xuân Trường, tỉnh Nam Định. Bà sau này trở thành nữ chiến sĩ cách mạng kiên trung và Anh hùng Lực lượng vũ trang nhân dân.
+*   **19/12/1929:** Đặng Thị Kim (tên thường gọi là Đặng Thị Oanh) sinh ra tại làng Hành Thiện, xã Xuân Hồng, huyện Xuân Trường, tỉnh Nam Định. Bà sau này trở thành nữ chiến sĩ cách mạng kiên trung và Anh hùng Lực lượng vũ trang nhân dân. [Nguồn: Lịch sử Đảng bộ tỉnh Nam Định (1930–2000), NXB Chính trị Quốc gia, Hà Nội]
 
 <!-- id: EVT-1555 -->
-*   **1930:** Cù Chính Lan, người sau này trở thành anh hùng diệt xe tăng huyền thoại, sinh ra trong một gia đình nông dân nghèo ở xã Quỳnh Đôi, huyện Quỳnh Lưu, tỉnh Nghệ An. Mồ côi mẹ từ năm 4 tuổi, ông lớn lên trong cảnh nghèo đói dưới ách bóc lột hà khắc của chế độ thực dân phong kiến, rèn luyện nên tính cách cần cù, nhẫn nại và kiên cường.
+*   **1930:** Cù Chính Lan, người sau này trở thành anh hùng diệt xe tăng huyền thoại, sinh ra trong một gia đình nông dân nghèo ở xã Quỳnh Đôi, huyện Quỳnh Lưu, tỉnh Nghệ An. Mồ côi mẹ từ năm 4 tuổi, ông lớn lên trong cảnh nghèo đói dưới ách bóc lột hà khắc của chế độ thực dân phong kiến, rèn luyện nên tính cách cần cù, nhẫn nại và kiên cường. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng Vũ trang Nhân dân, NXB Quân đội Nhân dân, Hà Nội]
 
 <!-- id: EVT-1556 -->
-*   **1930:** Lưu Tấn Phát gia nhập Đảng Cộng sản, tích cực tham gia các hoạt động cách mạng tại Mỹ Tho.
+*   **1930:** Lưu Tấn Phát gia nhập Đảng Cộng sản, tích cực tham gia các hoạt động cách mạng tại Mỹ Tho. [Nguồn: Lịch sử Đảng bộ tỉnh Bến Tre (Tập 1), NXB Chính trị Quốc gia, Hà Nội]
 
 <!-- id: EVT-1557 -->
-*   **1930 - 1932:** Các tàu chiến *Inconstant*, *Alerte*, *La Malicieuse* và *De Lanessan* của hải quân Pháp liên tiếp thực hiện các cuộc tuần tiễu và khẳng định chủ quyền tại quần đảo Hoàng Sa.
+*   **1930 - 1932:** Các tàu chiến *Inconstant*, *Alerte*, *La Malicieuse* và *De Lanessan* của hải quân Pháp liên tiếp thực hiện các cuộc tuần tiễu và khẳng định chủ quyền tại quần đảo Hoàng Sa. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1558 -->
 *   **01/01/1930:** Đông Dương Cộng sản Liên đoàn chính thức thành lập tại Hà Tĩnh. [Nguồn: https://baotanglichsu.vn/vi/Articles/3097/15588/cach-djay-84-nam-1-1930-1-2014-djong-duong-cong-san-lien-djoan-ra-djoi.html]
@@ -5061,28 +5061,28 @@
 *Nguồn: Đồng chí Nguyễn Ái Quốc tại Đại hội Đảng Cộng sản Pháp (Ảnh tư liệu BNF Gallica / Public domain)*
 
 <!-- id: EVT-1562 -->
-*   **Đầu những năm 1930:** Theo kết quả điều tra của Yves Henry, dưới tác động của chủ nghĩa thực dân Pháp, tình trạng sở hữu ruộng đất phân hóa cực kỳ sâu sắc. Ruộng đất công chỉ còn 21% ở Bắc Kỳ, 25% ở Trung Kỳ và 3% ở Nam Kỳ. Về ruộng đất tư hữu, 94,8% số chủ sở hữu dưới 5 ha (chiếm 28,5% diện tích), trong khi 0,30% chủ sở hữu trên 50 ha (chiếm tới 31,5% diện tích).
+*   **Đầu những năm 1930:** Theo kết quả điều tra của Yves Henry, dưới tác động của chủ nghĩa thực dân Pháp, tình trạng sở hữu ruộng đất phân hóa cực kỳ sâu sắc. Ruộng đất công chỉ còn 21% ở Bắc Kỳ, 25% ở Trung Kỳ và 3% ở Nam Kỳ. Về ruộng đất tư hữu, 94,8% số chủ sở hữu dưới 5 ha (chiếm 28,5% diện tích), trong khi 0,30% chủ sở hữu trên 50 ha (chiếm tới 31,5% diện tích). [Nguồn: Yves Henry, Kinh tế nông nghiệp Đông Dương, Hà Nội, 1932]
 
 <!-- id: EVT-1563 -->
 *   **10/02/1930:** Cuộc khởi nghĩa Yên Bái do Việt Nam Quốc dân Đảng lãnh đạo bùng nổ nhưng nhanh chóng thất bại. [Nguồn: https://baotanglichsu.vn/vi/Articles/2002/68123/ky-niem-84-nam-khoi-nghia-yen-bai-10-2-1930-10-2-2014-khong-thanh-cong-thi-thanh-nhan.html]
 
 <!-- id: EVT-1564 -->
-*   **09/03/1930:** Chuyến bay đầu tiên nối liền Paris - Sài Gòn được thực hiện, đánh dấu sự phát triển giao thông hàng không.
+*   **09/03/1930:** Chuyến bay đầu tiên nối liền Paris - Sài Gòn được thực hiện, đánh dấu sự phát triển giao thông hàng không. [Nguồn: Lịch sử Hàng không Dân dụng Việt Nam, NXB Giao thông Vận tải, Hà Nội, 2006]
 
 <!-- id: EVT-1565 -->
 *   **25/03/1930:** Hơn 4.000 công nhân Nhà máy Dệt Nam Định bãi công và tuần hành biểu tình đòi tăng lương, giảm giờ làm và chống đánh đập; cuộc bãi công kéo dài 21 ngày với sự ủng hộ rộng rãi của nhân dân địa phương, mở đầu phong trào công nhân miền Bắc năm 1930. [Nguồn: Báo Nhân Dân - Sục sôi một phong trào cách mạng (Cuộc bãi công công nhân Nhà máy Dệt Nam Định năm 1930), https://nhandan.vn/cuoc-bai-cong-cong-nhan-nha-may-det-nam-dinh-nam-1930-post414408.html]
 
 <!-- id: EVT-1566 -->
-*   **13/04/1930:** Toàn quyền Đông Dương phái thông báo hạm *La Malicieuse* tới quần đảo Trường Sa, nơi thủy thủ đoàn đã kéo quốc kỳ Pháp trên một điểm cao.
+*   **13/04/1930:** Toàn quyền Đông Dương phái thông báo hạm *La Malicieuse* tới quần đảo Trường Sa, nơi thủy thủ đoàn đã kéo quốc kỳ Pháp trên một điểm cao. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1567 -->
 *   **01/05/1930:** Lần đầu tiên, các cuộc đấu tranh của công nhân và nông dân nổ ra rầm rộ trên cả nước để kỷ niệm ngày Quốc tế Lao động, mở đầu cho cao trào cách mạng 1930-1931. [Nguồn: https://nhandan.vn/suc-soi-mot-phong-trao-cach-mang-post414408.html]
 
 <!-- id: EVT-1568 -->
-*   **01/05/1930:** Đồng chí Nguyễn Văn Cúc (Nguyễn Văn Linh) khi mới 15 tuổi dũng cảm rải truyền đơn cách mạng kỷ niệm Ngày Quốc tế Lao động tại phố Cát Dài (Hải Phòng), bị mật thám Pháp bắt giữ và đầu năm 1931 bị tòa án thực dân kết án tù chung thân, đày ra Côn Đảo - nơi trở thành "trường học cách mạng" tôi luyện ý chí kiên trung của ông.
+*   **01/05/1930:** Đồng chí Nguyễn Văn Cúc (Nguyễn Văn Linh) khi mới 15 tuổi dũng cảm rải truyền đơn cách mạng kỷ niệm Ngày Quốc tế Lao động tại phố Cát Dài (Hải Phòng), bị mật thám Pháp bắt giữ và đầu năm 1931 bị tòa án thực dân kết án tù chung thân, đày ra Côn Đảo - nơi trở thành "trường học cách mạng" tôi luyện ý chí kiên trung của ông. [Nguồn: Đồng chí Nguyễn Văn Linh – Nhà lãnh đạo kiên cường, sáng tạo (Báo Nhân Dân), https://nhandan.vn/dong-chi-nguyen-van-linh-nha-lanh-dao-kien-cuong-sang-tao-post652130.html]
 
 <!-- id: EVT-1569 -->
-*   **31/05/1930:** Chính phủ Pháp ra sắc lệnh xác nhận chế độ kim bản vị (Gold Standard) cho đồng bạc Đông Dương, chấm dứt bản vị bạc.
+*   **31/05/1930:** Chính phủ Pháp ra sắc lệnh xác nhận chế độ kim bản vị (Gold Standard) cho đồng bạc Đông Dương, chấm dứt bản vị bạc. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1570 -->
 *   **17/06/1930:** Nguyễn Thái Học cùng 12 đồng chí khác của Việt Nam Quốc dân Đảng bị hành quyết tại Yên Bái. [Nguồn: https://baophutho.vn/nho-nguyen-thai-hoc-nguoi-da-thanh-nhan-247446.htm]
@@ -5092,7 +5092,7 @@
 *Nguồn: Nguyễn Thái Học (1902–1930), Chủ tịch Việt Nam Quốc dân Đảng / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-1571 -->
-*   **19/06/1930:** Bộ Ngoại giao Pháp chính thức xác định quần đảo Hoàng Sa không phải là đất vô chủ (*terra nullius*) và khẳng định chủ quyền của Pháp (nhân danh Việt Nam) đối với quần đảo này.
+*   **19/06/1930:** Bộ Ngoại giao Pháp chính thức xác định quần đảo Hoàng Sa không phải là đất vô chủ (*terra nullius*) và khẳng định chủ quyền của Pháp (nhân danh Việt Nam) đối với quần đảo này. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1572 -->
 *   **09/1930:** Phong trào Xô viết Nghệ - Tĩnh lên đến đỉnh cao, chính quyền cách mạng được thành lập ở nhiều làng xã tại Nghệ An và Hà Tĩnh. [Nguồn: https://nhandan.vn/tuong-niem-cac-anh-hung-liet-si-hy-sinh-trong-phong-trao-xo-viet-nghe-tinh-post771783.html]
@@ -5105,7 +5105,7 @@
 *Nguồn: Bảo tàng Xô viết Nghệ Tĩnh tại Vinh / Phó Nháy (Wikimedia Commons, Public domain)*
 
 <!-- id: EVT-1574 -->
-*   **23/09/1930:** Chính phủ Pháp ra thông cáo báo cho các cường quốc khác biết việc Pháp chiếm đóng quần đảo Trường Sa.
+*   **23/09/1930:** Chính phủ Pháp ra thông cáo báo cho các cường quốc khác biết việc Pháp chiếm đóng quần đảo Trường Sa. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1575 -->
 *   **14-31/10/1930:** Hội nghị lần thứ nhất Ban Chấp hành Trung ương Đảng họp tại Hương Cảng (Trung Quốc), thông qua Luận cương chính trị và đổi tên Đảng thành Đảng Cộng sản Đông Dương. Đồng chí Trần Phú được bầu làm Tổng Bí thư. [Nguồn: https://nhandan.vn/dong-chi-tran-phu-voi-mat-tran-dan-toc-thong-nhat-post248082.html]
@@ -5117,10 +5117,10 @@
 
 ### **Thời kỳ Khủng hoảng Kinh tế và Đấu tranh Phục hồi Lực lượng (1931 - 1935)**
 
-*   **1931:** Trung Quốc cho đấu thầu việc khai thác phân chim trên quần đảo Hoàng Sa.
+*   **1931:** Trung Quốc cho đấu thầu việc khai thác phân chim trên quần đảo Hoàng Sa. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1578 -->
-*   **17/01/1931:** Chuyến bay bưu chính đầu tiên giữa Pháp và Đông Dương diễn ra.
+*   **17/01/1931:** Chuyến bay bưu chính đầu tiên giữa Pháp và Đông Dương diễn ra. [Nguồn: Lịch sử Bưu chính Viễn thông Việt Nam, NXB Bưu điện, Hà Nội, 2005]
 
 <!-- id: EVT-1579 -->
 *   **09/02/1931:** Lý Tự Trọng bắn chết tên mật thám Le Grand tại Sài Gòn để bảo vệ đồng chí diễn thuyết, sau đó bị địch bắt. [Nguồn: Bảo tàng Lịch sử Quốc gia - Xếp hạng di tích quốc gia với di tích lịch sử phần mộ Lý Tự Trọng, https://baotanglichsu.vn/vi/Articles/3091/17207/xep-hang-di-tich-quoc-gia-voi-di-tich-lich-su-phan-mo-ly-tu-trong.html]
@@ -5129,13 +5129,13 @@
 *   **11/04/1931:** Quốc tế Cộng sản ra nghị quyết công nhận Đảng Cộng sản Đông Dương là chi bộ độc lập. [Nguồn: Bảo tàng Lịch sử Quốc gia - Quốc tế Cộng sản công nhận Đảng Cộng sản Đông Dương là chi bộ độc lập, https://baotanglichsu.vn/vi/Articles/3097/14852/quoc-te-cong-san-cong-nhan-djang-cong-san-djong-duong-la-chi-bo-djoc-lap.html]
 
 <!-- id: EVT-1581 -->
-*   **19/04/1931:** Nguyễn Thị Út (Út Tịch) sinh ra tại làng Tích Thiện, quận Cầu Kè, tỉnh Cần Thơ (nay thuộc Tam Ngãi, Trà Vinh). Bà sau này trở thành một nữ anh hùng huyền thoại của Quân Giải phóng miền Nam Việt Nam.
+*   **19/04/1931:** Nguyễn Thị Út (Út Tịch) sinh ra tại làng Tích Thiện, quận Cầu Kè, tỉnh Cần Thơ (nay thuộc Tam Ngãi, Trà Vinh). Bà sau này trở thành một nữ anh hùng huyền thoại của Quân Giải phóng miền Nam Việt Nam. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng Vũ trang Nhân dân, NXB Quân đội Nhân dân, Hà Nội]
 
 <!-- id: EVT-1582 -->
 *   **19/04/1931:** Tổng Bí thư Trần Phú bị địch bắt. [Nguồn: Bảo tàng Lịch sử Quốc gia - Trần Phú: Tổng Bí thư đầu tiên của Đảng, https://baotanglichsu.vn/vi/Articles/3096/13053/tran-phu-tong-bi-thu-djau-tien-cua-djang.html]
 
 <!-- id: EVT-1583 -->
-*   **17/05/1931:** Nữ chiến sĩ cộng sản kiên trung Nguyễn Thị Nghĩa (tên thật là Nguyễn Thị Hẹn, phụ trách giao thông liên lạc giữa Ban Chấp hành Trung ương Đảng và Xứ ủy Trung Kỳ trong cao trào Xô viết Nghệ Tĩnh) anh dũng hy sinh tại Nhà lao Vinh sau chuỗi ngày bị thực dân Pháp tra tấn tàn khốc.
+*   **17/05/1931:** Nữ chiến sĩ cộng sản kiên trung Nguyễn Thị Nghĩa (tên thật là Nguyễn Thị Hẹn, phụ trách giao thông liên lạc giữa Ban Chấp hành Trung ương Đảng và Xứ ủy Trung Kỳ trong cao trào Xô viết Nghệ Tĩnh) anh dũng hy sinh tại Nhà lao Vinh sau chuỗi ngày bị thực dân Pháp tra tấn tàn khốc. [Nguồn: Lịch sử Đảng bộ tỉnh Nghệ An (Tập 1), NXB Chính trị Quốc gia, Hà Nội]
 
 <!-- id: EVT-1584 -->
 *   **06/06/1931:** Nguyễn Ái Quốc (dưới bí danh Tống Văn Sơ) bị cảnh sát Anh bắt giữ tại số nhà 186 phố Tam Kung (Cửu Long, Hồng Kông) theo yêu cầu của mật thám Pháp, mở đầu **Vụ án Tống Văn Sơ** chấn động lịch sử. Thực dân Pháp tìm mọi cách đòi dẫn độ ông về Đông Dương để thi hành bản án tử hình vắng mặt năm 1929 của Tòa án Vinh. [Nguồn: Bảo tàng Lịch sử Quốc gia - Vụ án Tống Văn Sơ năm 1931-1933, https://baotanglichsu.vn/vi/Articles/3097/16003/vu-an-tong-van-so-nam-1931-1933.html]
@@ -5147,74 +5147,74 @@
 *   **20/11/1931:** Lý Tự Trọng anh dũng hy sinh trên máy chém tại khám lớn Sài Gòn khi mới 17 tuổi, để lại câu nói bất hủ: "Con đường của thanh niên chỉ là con đường cách mạng, không thể có con đường nào khác". [Nguồn: Bảo tàng Lịch sử Quốc gia - Đồng chí Lý Tự Trọng - người cộng sản kiên trung, bất khuất, tấm gương sáng cho thế hệ trẻ học tập và noi theo, https://baotanglichsu.vn/vi/Articles/3098/75013/djong-chi-ly-tu-trong-nguoi-cong-san-kien-trung-bat-khuat-tam-guong-sang-cho-the-he-tre-hoc-tap-va-noi-theo.html]
 
 <!-- id: EVT-1587 -->
-*   **04/12/1931:** Chính phủ Pháp gửi công hàm cho Công sứ quán Trung Quốc tại Paris chính thức yêu sách chủ quyền đối với quần đảo Hoàng Sa.
+*   **04/12/1931:** Chính phủ Pháp gửi công hàm cho Công sứ quán Trung Quốc tại Paris chính thức yêu sách chủ quyền đối với quần đảo Hoàng Sa. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1588 -->
-* **1932:** Anh hùng Lực lượng vũ trang nhân dân Lương Văn Tụy (Chiến sĩ trẻ cắm cờ búa liềm trên núi Non Nước, Ninh Bình) từ trần.
+* **1932:** Anh hùng Lực lượng vũ trang nhân dân Lương Văn Tụy (Chiến sĩ trẻ cắm cờ búa liềm trên núi Non Nước, Ninh Bình) từ trần. [Nguồn: Người thanh niên cộng sản Lương Văn Tụy (Báo Nhân Dân), https://nhandan.vn/nguoi-thanh-nien-cong-san-luong-van-tuy-post632140.html]
 
 <!-- id: EVT-1589 -->
-*   **29/04/1932:** Pháp chính thức phản kháng các yêu sách của Trung Quốc, nêu rõ các danh nghĩa lịch sử và bằng chứng về sự chiếm hữu của An Nam đối với quần đảo Hoàng Sa. Cùng năm, Pháp đề nghị đưa vụ tranh chấp ra trọng tài quốc tế, nhưng Trung Quốc đã phản đối.
+*   **29/04/1932:** Pháp chính thức phản kháng các yêu sách của Trung Quốc, nêu rõ các danh nghĩa lịch sử và bằng chứng về sự chiếm hữu của An Nam đối với quần đảo Hoàng Sa. Cùng năm, Pháp đề nghị đưa vụ tranh chấp ra trọng tài quốc tế, nhưng Trung Quốc đã phản đối. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1590 -->
 *   **15/06/1932:** Đảng Cộng sản Đông Dương công bố *Chương trình hành động* để khôi phục hệ thống tổ chức và phong trào cách mạng. [Nguồn: Bảo tàng Lịch sử Quốc gia - Quốc tế Cộng sản công nhận Đảng Cộng sản Đông Dương là chi bộ độc lập, https://baotanglichsu.vn/vi/Articles/3097/14852/quoc-te-cong-san-cong-nhan-djang-cong-san-djong-duong-la-chi-bo-djoc-lap.html]
 
 <!-- id: EVT-1591 -->
-*   **21/07/1932:** Vụ án Tống Văn Sơ giành thắng lợi pháp lý quyết định trước Ủy ban Tư pháp Viện Cơ mật Hoàng gia Anh tại London. Nhờ sự bào chữa tận tụy và kiên định của Luật sư Francis Henry Loseby cùng các luật sư tiến bộ người Anh, Cơ mật viện Anh đã bác bỏ yêu cầu dẫn độ của thực dân Pháp và chấp thuận giải pháp hòa giải, buộc chính quyền Hồng Kông phải phóng thích Tống Văn Sơ và tạo điều kiện cho ông rời khỏi thuộc địa an toàn.
+*   **21/07/1932:** Vụ án Tống Văn Sơ giành thắng lợi pháp lý quyết định trước Ủy ban Tư pháp Viện Cơ mật Hoàng gia Anh tại London. Nhờ sự bào chữa tận tụy và kiên định của Luật sư Francis Henry Loseby cùng các luật sư tiến bộ người Anh, Cơ mật viện Anh đã bác bỏ yêu cầu dẫn độ của thực dân Pháp và chấp thuận giải pháp hòa giải, buộc chính quyền Hồng Kông phải phóng thích Tống Văn Sơ và tạo điều kiện cho ông rời khỏi thuộc địa an toàn. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1592 -->
 *   **16/08/1932:** Vua Bảo Đại lên đường về nước để chấp chính sau thời gian du học tại Pháp. [Nguồn: Bảo tàng Lịch sử Quốc gia - Bảo Đại: vị vua cuối cùng của triều Nguyễn, https://baotanglichsu.vn/vi/Articles/3098/15282/bao-djia-vi-vua-cuoi-cung-cua-trieu-nguyen.html]
 
 <!-- id: EVT-1593 -->
-*   **21/12/1932:** Nguyễn Thanh (tên thường gọi là Nguyễn Văn Lượm), nguyên mẫu lịch sử của bài thơ "Lượm" nổi tiếng do Tố Hữu sáng tác, sinh ra tại Quy Nhơn. Cậu sau này trở thành đội viên du kích và là biểu tượng bất tử của thế hệ thiếu niên liên lạc dũng cảm trong kháng chiến chống Pháp.
+*   **21/12/1932:** Nguyễn Thanh (tên thường gọi là Nguyễn Văn Lượm), nguyên mẫu lịch sử của bài thơ "Lượm" nổi tiếng do Tố Hữu sáng tác, sinh ra tại Quy Nhơn. Cậu sau này trở thành đội viên du kích và là biểu tượng bất tử của thế hệ thiếu niên liên lạc dũng cảm trong kháng chiến chống Pháp. [Nguồn: Từ điển văn học (bộ mới), NXB Thế giới, Hà Nội, 2004]
 
 <!-- id: EVT-1594 -->
-*   **28/12/1932:** Tống Văn Sơ (Nguyễn Ái Quốc) được thả tự do khỏi nhà tù Victoria (Hồng Kông). Sau khi bị bắt lại trong thời gian ngắn và được Luật sư Loseby can thiệp can quyết với Thống đốc Hồng Kông, đến ngày 22/01/1933, dưới sự bố trí và bảo vệ bí mật của gia đình Luật sư Loseby, Nguyễn Ái Quốc đã cải trang rời Hồng Kông trên một chiếc thuyền buồm sang Hạ Môn (Trung Quốc), thoát khỏi hoàn toàn nanh vuốt của mật thám Pháp.
+*   **28/12/1932:** Tống Văn Sơ (Nguyễn Ái Quốc) được thả tự do khỏi nhà tù Victoria (Hồng Kông). Sau khi bị bắt lại trong thời gian ngắn và được Luật sư Loseby can thiệp can quyết với Thống đốc Hồng Kông, đến ngày 22/01/1933, dưới sự bố trí và bảo vệ bí mật của gia đình Luật sư Loseby, Nguyễn Ái Quốc đã cải trang rời Hồng Kông trên một chiếc thuyền buồm sang Hạ Môn (Trung Quốc), thoát khỏi hoàn toàn nanh vuốt của mật thám Pháp. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 ![Hình ảnh tư liệu](images/event_20260924_103204.webp)
 
 *Nguồn: Nhà giam Sở Cảnh sát Hồng Kông, nơi giam giữ Tống Văn Sơ năm 1931 / Báo Quân đội nhân dân*
 
 <!-- id: EVT-1595 -->
-*   **1933:** Ở tuổi 17, Đinh Thị Vân tham gia hoạt động cách mạng, làm giao thông liên lạc, cất giữ tài liệu bí mật của Đảng và tham gia tổ chức nhóm "ái hữu tương tế", nuôi dưỡng, bảo vệ cán bộ cách mạng tại địa phương.
+*   **1933:** Ở tuổi 17, Đinh Thị Vân tham gia hoạt động cách mạng, làm giao thông liên lạc, cất giữ tài liệu bí mật của Đảng và tham gia tổ chức nhóm "ái hữu tương tế", nuôi dưỡng, bảo vệ cán bộ cách mạng tại địa phương. [Nguồn: Nữ tình báo Đinh Thị Vân (Báo Nhân Dân), https://nhandan.vn/nu-tinh-bao-dinh-thi-van-huyen-thoai-trong-long-dich-post645210.html]
 
 <!-- id: EVT-1596 -->
-*   **1933:** Huỳnh Tấn Phát thi đỗ vào khoa Kiến trúc, Trường Cao đẳng Mỹ thuật Đông Dương.
+*   **1933:** Huỳnh Tấn Phát thi đỗ vào khoa Kiến trúc, Trường Cao đẳng Mỹ thuật Đông Dương. [Nguồn: Kiến trúc sư Huỳnh Tấn Phát – Cuộc đời và sự nghiệp (Báo Nhân Dân), https://nhandan.vn/kien-truc-su-huynh-tan-phat-post738200.html]
 
 <!-- id: EVT-1597 -->
-*   **03/1933:** Hà Huy Tập (bút danh Hồng Thế Công) công bố tác phẩm *Sơ thảo lịch sử phong trào cộng sản Đông Dương*.
+*   **03/1933:** Hà Huy Tập (bút danh Hồng Thế Công) công bố tác phẩm *Sơ thảo lịch sử phong trào cộng sản Đông Dương*. [Nguồn: Hà Huy Tập – Tác phẩm chọn lọc, NXB Chính trị Quốc gia, Hà Nội, 2006]
 
 <!-- id: EVT-1598 -->
-*   **13/04/1933:** Một hạm đội nhỏ của Hải quân Pháp do Trung tá De Lattre chỉ huy rời Sài Gòn để chính thức chiếm hữu quần đảo Trường Sa với các nghi thức truyền thống.
+*   **13/04/1933:** Một hạm đội nhỏ của Hải quân Pháp do Trung tá De Lattre chỉ huy rời Sài Gòn để chính thức chiếm hữu quần đảo Trường Sa với các nghi thức truyền thống. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1599 -->
-*   **02/05/1933:** Vua Bảo Đại ra đạo Dụ cải tổ bộ máy Nam triều, lập ra nội các mới gồm các Thượng thư như Phạm Quỳnh, Ngô Đình Diệm.
+*   **02/05/1933:** Vua Bảo Đại ra đạo Dụ cải tổ bộ máy Nam triều, lập ra nội các mới gồm các Thượng thư như Phạm Quỳnh, Ngô Đình Diệm. [Nguồn: Vua Bảo Đại (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13777/vua-bao-dai.html]
 
 <!-- id: EVT-1600 -->
-*   **26/07/1933:** Chính phủ Pháp ban hành nghị định chính thức công bố việc Hải quân Pháp chiếm hữu quần đảo Trường Sa.
+*   **26/07/1933:** Chính phủ Pháp ban hành nghị định chính thức công bố việc Hải quân Pháp chiếm hữu quần đảo Trường Sa. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1601 -->
-*   **12/09/1933:** Thượng thư Bộ Lại Ngô Đình Diệm nộp đơn từ chức sau khi các đề xuất cải cách hành chính và gia tăng thực quyền cho Viện Dân biểu Trung Kỳ bị Khâm sứ Pháp bác bỏ, chính thức rút lui khỏi triều đình Huế trước khi sang nước ngoài lưu vong.
+*   **12/09/1933:** Thượng thư Bộ Lại Ngô Đình Diệm nộp đơn từ chức sau khi các đề xuất cải cách hành chính và gia tăng thực quyền cho Viện Dân biểu Trung Kỳ bị Khâm sứ Pháp bác bỏ, chính thức rút lui khỏi triều đình Huế trước khi sang nước ngoài lưu vong. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1602 -->
-*   **21/12/1933:** Thống đốc Nam Kỳ Jean-Félix Krautheimer ký **Nghị định số 4702-CP** chính thức sáp nhập toàn bộ các đảo thuộc quần đảo Trường Sa (gồm đảo Ba Bình, Song Tử Tây, Song Tử Đông, Thị Tứ, Loaita, Nam Yết, Cồn San Hô và các đảo phụ cận) vào địa hạt tỉnh Bà Rịa.
+*   **21/12/1933:** Thống đốc Nam Kỳ Jean-Félix Krautheimer ký **Nghị định số 4702-CP** chính thức sáp nhập toàn bộ các đảo thuộc quần đảo Trường Sa (gồm đảo Ba Bình, Song Tử Tây, Song Tử Đông, Thị Tứ, Loaita, Nam Yết, Cồn San Hô và các đảo phụ cận) vào địa hạt tỉnh Bà Rịa. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1603 -->
-*   **1934 - 1935:** Nguyễn Sơn (Hồng Thủy) trở thành chiến sĩ người Việt duy nhất tham gia cuộc Vạn lý Trường chinh lịch sử 10.000 km của Quân giải phóng Nhân dân Trung Quốc.
+*   **1934 - 1935:** Nguyễn Sơn (Hồng Thủy) trở thành chiến sĩ người Việt duy nhất tham gia cuộc Vạn lý Trường chinh lịch sử 10.000 km của Quân giải phóng Nhân dân Trung Quốc. [Nguồn: Bộ Quốc phòng, Lưỡng quốc Tướng quân Nguyễn Sơn, NXB Quân đội Nhân dân, Hà Nội, 2008]
 
 <!-- id: EVT-1604 -->
-*   **1934 - 1938:** Nguyễn Ái Quốc trở lại Liên Xô, tiếp tục mang bí danh **Linov** (Lin). Người làm nghiên cứu viên tại Viện Nghiên cứu các vấn đề dân tộc và thuộc địa ở Moskva, theo học và tốt nghiệp Trường Quốc tế Lênin (1935 - 1938), đồng thời tham gia Đoàn đại biểu Đảng Cộng sản Đông Dương dự Đại hội VII Quốc tế Cộng sản (1935).
+*   **1934 - 1938:** Nguyễn Ái Quốc trở lại Liên Xô, tiếp tục mang bí danh **Linov** (Lin). Người làm nghiên cứu viên tại Viện Nghiên cứu các vấn đề dân tộc và thuộc địa ở Moskva, theo học và tốt nghiệp Trường Quốc tế Lênin (1935 - 1938), đồng thời tham gia Đoàn đại biểu Đảng Cộng sản Đông Dương dự Đại hội VII Quốc tế Cộng sản (1935). [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1605 -->
-*   **03/1934:** Dưới sự chỉ đạo của Quốc tế Cộng sản, **Ban Chỉ huy Hải ngoại của Đảng Cộng sản Đông Dương** được thành lập tại Ma Cao do đồng chí Lê Hồng Phong làm Thư ký (Bí thư); cơ quan này đảm trách vai trò như Ban Chấp hành Trung ương lâm thời nhằm khôi phục các cơ sở Đảng bị tàn phá sau khủng bố trắng và chuẩn bị Đại hội đại biểu toàn quốc lần thứ I.
+*   **03/1934:** Dưới sự chỉ đạo của Quốc tế Cộng sản, **Ban Chỉ huy Hải ngoại của Đảng Cộng sản Đông Dương** được thành lập tại Ma Cao do đồng chí Lê Hồng Phong làm Thư ký (Bí thư); cơ quan này đảm trách vai trò như Ban Chấp hành Trung ương lâm thời nhằm khôi phục các cơ sở Đảng bị tàn phá sau khủng bố trắng và chuẩn bị Đại hội đại biểu toàn quốc lần thứ I. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1606 -->
-*   **20/03/1934 (05/02 năm Giáp Tuất):** Lễ thành hôn của vua Bảo Đại với bà Marie-Thérèse Nguyễn Hữu Thị Lan (Nam Phương Hoàng hậu) được tổ chức trọng thể tại điện Thái Hòa (Huế). Nhà vua thực hiện bước đột phá chưa từng có trong hoàng gia triều Nguyễn: tuyên bố cam kết thực thi chế độ **'nhất phu nhất phụ'** (một vợ một chồng), giải tán tam cung lục viện và tấn phong ngay tước vị Hoàng hậu trong ngày cưới.
+*   **20/03/1934 (05/02 năm Giáp Tuất):** Lễ thành hôn của vua Bảo Đại với bà Marie-Thérèse Nguyễn Hữu Thị Lan (Nam Phương Hoàng hậu) được tổ chức trọng thể tại điện Thái Hòa (Huế). Nhà vua thực hiện bước đột phá chưa từng có trong hoàng gia triều Nguyễn: tuyên bố cam kết thực thi chế độ **'nhất phu nhất phụ'** (một vợ một chồng), giải tán tam cung lục viện và tấn phong ngay tước vị Hoàng hậu trong ngày cưới. [Nguồn: Vua Bảo Đại (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13777/vua-bao-dai.html]
 
 <!-- id: EVT-1607 -->
 *   **16 - 21/06/1934:** Tại Ma Cao (Trung Quốc), đồng chí Lê Hồng Phong chủ trì Hội nghị Ban Chỉ huy Hải ngoại Đảng Cộng sản Đông Dương cùng đại diện các tổ chức Đảng trong nước, thông qua Nghị quyết Chính trị và Nghị quyết Về các vấn đề tổ chức, thống nhất đường lối và quyết định xuất bản Tạp chí *Bônsơvích*. [Nguồn: Bảo tàng Lịch sử Quốc gia - Lê Hồng Phong: người cộng sản quốc tế đầu tiên của Việt Nam, https://baotanglichsu.vn/vi/Articles/3098/15745/le-hong-phong-nguoi-cong-san-quoc-te-djau-tien-cua-viet-nam.html]
 
 <!-- id: EVT-1608 -->
-*   **12/09/1934:** Vừ A Dính, người thiếu niên anh hùng dũng cảm người dân tộc HMông trong kháng chiến chống Pháp, sinh ra tại xã Pú Nhung, huyện Tuần Giáo, tỉnh Điện Biên.
+*   **12/09/1934:** Vừ A Dính, người thiếu niên anh hùng dũng cảm người dân tộc HMông trong kháng chiến chống Pháp, sinh ra tại xã Pú Nhung, huyện Tuần Giáo, tỉnh Điện Biên. [Nguồn: Anh hùng thiếu niên Vừ A Dính (Báo Nhân Dân), https://nhandan.vn/anh-hung-thieu-nien-vu-a-dinh-post632150.html]
 
 <!-- id: EVT-1609 -->
 *   **27 - 31/03/1935:** Đại hội đại biểu toàn quốc lần thứ I của Đảng họp tại Ma Cao (Trung Quốc) bầu Ban Chấp hành Trung ương do đồng chí Lê Hồng Phong làm Tổng Bí thư; thông qua Nghị quyết chính trị và Điều lệ Đảng, đánh dấu sự khôi phục và củng cố vững chắc hệ thống tổ chức của Đảng từ Trung ương đến cơ sở sau thời kỳ khủng bố trắng của thực dân Pháp; đồng chí Phùng Chí Kiên được bầu vào Ban Thường vụ Ban Chấp hành Trung ương Đảng, trực tiếp phụ trách công tác quân sự. [Nguồn: Bảo tàng Lịch sử Quốc gia - Đại hội Đảng lần thứ nhất - Ma Cao (1935), https://baotanglichsu.vn/vi/Articles/3097/15817/djoa-djai-hoi-djang-lan-thu-nhat-ma-cao-1935.html]
@@ -5226,85 +5226,85 @@
 
 ### **Thời kỳ Mặt trận Dân chủ (1936 - 1938)**
 
-*   **1936 - 1939:** Đồng chí Võ Nguyên Giáp giảng dạy môn Lịch sử tại Trường tư thục Thăng Long (Hà Nội) đồng thời hoàn thành chương trình Cử nhân Luật. Bằng những bài giảng hào hùng về truyền thống chống ngoại xâm của dân tộc và Cách mạng Pháp 1789, thầy giáo Võ Nguyên Giáp đã khơi dậy lòng yêu nước, truyền bá tư tưởng dân chủ và giác ngộ lý tưởng cách mạng cho nhiều thế hệ học sinh, biến trường Thăng Long thành cái nôi cách mạng quan trọng của giới trí thức, thanh niên Thủ đô thời kỳ Mặt trận Dân chủ.
+*   **1936 - 1939:** Đồng chí Võ Nguyên Giáp giảng dạy môn Lịch sử tại Trường tư thục Thăng Long (Hà Nội) đồng thời hoàn thành chương trình Cử nhân Luật. Bằng những bài giảng hào hùng về truyền thống chống ngoại xâm của dân tộc và Cách mạng Pháp 1789, thầy giáo Võ Nguyên Giáp đã khơi dậy lòng yêu nước, truyền bá tư tưởng dân chủ và giác ngộ lý tưởng cách mạng cho nhiều thế hệ học sinh, biến trường Thăng Long thành cái nôi cách mạng quan trọng của giới trí thức, thanh niên Thủ đô thời kỳ Mặt trận Dân chủ. [Nguồn: Đại tướng Võ Nguyên Giáp – Tổng Tư lệnh huyền thoại (Báo Nhân Dân), https://nhandan.vn/dai-tuong-vo-nguyen-giap-vi-tuong-huyen-thoai-post662100.html]
 
 <!-- id: EVT-1612 -->
-*   **1936:** Đại Việt Quốc gia Xã hội Đảng được thành lập.
+*   **1936:** Đại Việt Quốc gia Xã hội Đảng được thành lập. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1613 -->
-*   **1936:** Việt Nam Độc lập Vận động Đồng minh Hội, một tổ chức có tên gọi tương tự Việt Minh, được thành lập tại Nam Kinh (Trung Quốc) bởi các nhà hoạt động chống đế quốc.
+*   **1936:** Việt Nam Độc lập Vận động Đồng minh Hội, một tổ chức có tên gọi tương tự Việt Minh, được thành lập tại Nam Kinh (Trung Quốc) bởi các nhà hoạt động chống đế quốc. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1614 -->
-*   **1936:** Rời nhà tù Côn Đảo trở về, Lê Duẩn hoạt động ở Trung Kỳ. Trên cương vị Bí thư Xứ ủy Trung Kỳ, ông đã lãnh đạo phong trào Mặt trận Dân chủ (1936 - 1939), đấu tranh đòi quyền dân sinh, dân chủ.
+*   **1936:** Rời nhà tù Côn Đảo trở về, Lê Duẩn hoạt động ở Trung Kỳ. Trên cương vị Bí thư Xứ ủy Trung Kỳ, ông đã lãnh đạo phong trào Mặt trận Dân chủ (1936 - 1939), đấu tranh đòi quyền dân sinh, dân chủ. [Nguồn: Tổng Bí thư Lê Duẩn – Nhà lãnh đạo kiệt xuất của Đảng và dân tộc (Báo Nhân Dân), https://nhandan.vn/tong-bi-thu-le-duan-nha-lanh-dao-kien-xuat-cua-dang-va-dan-toc-post692250.html]
 
 <!-- id: EVT-1615 -->
-*   **1936:** Nhà thơ Hàn Mặc Tử (Nguyễn Trọng Trí) xuất bản tập thơ đầu tay *Gái quê* và cùng Chế Lan Viên, Yến Lan, Quách Tấn sáng lập nhóm "Bàn Thành Tứ Hữu" (Trường thơ Loạn) tại Bình Định, tạo nên một trường phái thơ tượng trưng - siêu thực độc đáo và mãnh liệt trong phong trào Thơ mới.
+*   **1936:** Nhà thơ Hàn Mặc Tử (Nguyễn Trọng Trí) xuất bản tập thơ đầu tay *Gái quê* và cùng Chế Lan Viên, Yến Lan, Quách Tấn sáng lập nhóm "Bàn Thành Tứ Hữu" (Trường thơ Loạn) tại Bình Định, tạo nên một trường phái thơ tượng trưng - siêu thực độc đáo và mãnh liệt trong phong trào Thơ mới. [Nguồn: Từ điển văn học (bộ mới), NXB Thế giới, Hà Nội, 2004]
 
 <!-- id: EVT-1616 -->
-*   **03/05/1936:** Mặt trận Nhân dân Pháp do Léon Blum đứng đầu thắng cử, mở ra một thời kỳ thuận lợi cho phong trào dân chủ ở các thuộc địa.
+*   **03/05/1936:** Mặt trận Nhân dân Pháp do Léon Blum đứng đầu thắng cử, mở ra một thời kỳ thuận lợi cho phong trào dân chủ ở các thuộc địa. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1617 -->
-*   **31/05/1936:** Giáo sư, Bác sĩ, Thầy thuốc Nhân dân Đặng Hanh Đệ sinh ra tại Hà Nội. Ông là một trong những chuyên gia đầu ngành đặt nền móng và phát triển vượt bậc chuyên ngành Phẫu thuật Tim mạch và Lồng ngực tại Việt Nam, học trò xuất sắc kế tục sự nghiệp của GS Tôn Thất Tùng và là Chủ tịch sáng lập Hội Phẫu thuật Tim mạch và Lồng ngực Việt Nam.
+*   **31/05/1936:** Giáo sư, Bác sĩ, Thầy thuốc Nhân dân Đặng Hanh Đệ sinh ra tại Hà Nội. Ông là một trong những chuyên gia đầu ngành đặt nền móng và phát triển vượt bậc chuyên ngành Phẫu thuật Tim mạch và Lồng ngực tại Việt Nam, học trò xuất sắc kế tục sự nghiệp của GS Tôn Thất Tùng và là Chủ tịch sáng lập Hội Phẫu thuật Tim mạch và Lồng ngực Việt Nam. [Nguồn: Giáo sư Đặng Hanh Đệ – Cây đại thụ ngành phẫu thuật tim mạch (Báo Sức khỏe & Đời sống), https://suckhoedoisong.vn/]
 
 <!-- id: EVT-1618 -->
 *   **26/07/1936:** Hội nghị Ban Chấp hành Trung ương Đảng tại Thượng Hải (Trung Quốc) do đồng chí Lê Hồng Phong chủ trì, cử đồng chí Hà Huy Tập làm Tổng Bí thư (đảm nhiệm đến tháng 3/1938). Hội nghị quyết định chuyển hướng chỉ đạo chiến lược thời kỳ Mặt trận Dân chủ Đông Dương (1936 - 1939): tạm gác các khẩu hiệu độc lập dân tộc và tịch thu ruộng đất, tập trung đòi tự do dân chủ, cơm áo, hòa bình; kết hợp đấu tranh bí mật với công khai, nửa công khai và xuất bản báo chí hợp pháp rộng rãi. [Nguồn: Bảo tàng Lịch sử Quốc gia - Lê Hồng Phong: người cộng sản quốc tế đầu tiên của Việt Nam, https://baotanglichsu.vn/vi/Articles/3098/15745/le-hong-phong-nguoi-cong-san-quoc-te-djau-tien-cua-viet-nam.html]
 
 <!-- id: EVT-1619 -->
-*   **08/1936:** Phong trào "Đông Dương Đại hội" bắt đầu sôi nổi, nhằm thu thập "dân nguyện" để gửi cho phái đoàn điều tra của Quốc hội Pháp. Hàng trăm "Ủy ban hành động" được thành lập trên cả nước.
+*   **08/1936:** Phong trào "Đông Dương Đại hội" bắt đầu sôi nổi, nhằm thu thập "dân nguyện" để gửi cho phái đoàn điều tra của Quốc hội Pháp. Hàng trăm "Ủy ban hành động" được thành lập trên cả nước. [Nguồn: Phong trào Đông Dương Đại hội (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13909/dong-duong-dai-hoi.html]
 
 <!-- id: EVT-1620 -->
 *   **13/11/1936:** Cuộc tổng bãi công của hơn 3 vạn công nhân mỏ vùng Hòn Gai, Cẩm Phả nổ ra và giành thắng lợi lớn. [Nguồn: Bảo tàng Lịch sử Quốc gia - Cuộc tổng bãi công của công nhân mỏ Hòn Gai, Cẩm Phả (1936), https://baotanglichsu.vn/vi/Articles/3097/15893/cuoc-tong-bai-cong-cua-cong-nhan-mo-hon-gai-cam-pha-1936.html]
 
 <!-- id: EVT-1621 -->
-*   **30/12/1936:** Chính phủ Pháp ban hành Sắc lệnh về Luật Lao động ở Đông Dương, quy định một số chế độ cho người lao động.
+*   **30/12/1936:** Chính phủ Pháp ban hành Sắc lệnh về Luật Lao động ở Đông Dương, quy định một số chế độ cho người lao động. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1622 -->
-*   **1937:** Kỹ sư trưởng công chính Gauthier, nhân danh chính quyền thuộc địa Pháp, thực hiện nhiệm vụ nghiên cứu khả năng xây dựng các công trình biển, hàng không và một ngọn hải đăng trên quần đảo Hoàng Sa.
+*   **1937:** Kỹ sư trưởng công chính Gauthier, nhân danh chính quyền thuộc địa Pháp, thực hiện nhiệm vụ nghiên cứu khả năng xây dựng các công trình biển, hàng không và một ngọn hải đăng trên quần đảo Hoàng Sa. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1623 -->
-*   **1937:** Đảng Dân chủ Đông Dương được thành lập.
+*   **1937:** Đảng Dân chủ Đông Dương được thành lập. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1624 -->
-*   **1937:** Nhà thơ Chế Lan Viên (Phan Ngọc Hoan) xuất bản tập thơ đầu tay *Điêu tàn* khi mới 17 tuổi, tạo nên một hiện tượng thi ca chấn động với phong cách kỳ ảo, hoài niệm về vương quốc Chiêm Thành cổ xưa, mở đầu sự hình thành của "Trường thơ Loạn".
+*   **1937:** Nhà thơ Chế Lan Viên (Phan Ngọc Hoan) xuất bản tập thơ đầu tay *Điêu tàn* khi mới 17 tuổi, tạo nên một hiện tượng thi ca chấn động với phong cách kỳ ảo, hoài niệm về vương quốc Chiêm Thành cổ xưa, mở đầu sự hình thành của "Trường thơ Loạn". [Nguồn: Từ điển văn học (bộ mới), NXB Thế giới, Hà Nội, 2004]
 
 <!-- id: EVT-1625 -->
-*   **01/01 - 14/03/1937:** Phái viên Justin Godart của chính phủ Pháp sang điều tra tình hình Đông Dương, làm dấy lên một phong trào quần chúng rầm rộ đón tiếp và đưa yêu sách.
+*   **01/01 - 14/03/1937:** Phái viên Justin Godart của chính phủ Pháp sang điều tra tình hình Đông Dương, làm dấy lên một phong trào quần chúng rầm rộ đón tiếp và đưa yêu sách. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1626 -->
-*   **18/02/1937:** Chính phủ Pháp gửi một công hàm cho Đại sứ quán Trung Quốc đề nghị một cuộc dàn xếp hữu nghị, hoặc nếu không được, thì giải quyết bằng trọng tài quốc tế về vấn đề chủ quyền quần đảo Hoàng Sa. Đề nghị này không có hiệu quả và tranh chấp chủ quyền vẫn tiếp diễn.
+*   **18/02/1937:** Chính phủ Pháp gửi một công hàm cho Đại sứ quán Trung Quốc đề nghị một cuộc dàn xếp hữu nghị, hoặc nếu không được, thì giải quyết bằng trọng tài quốc tế về vấn đề chủ quyền quần đảo Hoàng Sa. Đề nghị này không có hiệu quả và tranh chấp chủ quyền vẫn tiếp diễn. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1627 -->
-*   **28/02/1937:** Tuần dương hạm *Lamotte-Picquet* của Pháp tiến hành thăm dò quần đảo Hoàng Sa và nhận thấy các đảo đều hoang vắng. Nhà chức trách quân sự kết luận rằng Pháp không thể dung thứ cho bất kỳ sự chiếm đóng nào của nước ngoài tại đây.
+*   **28/02/1937:** Tuần dương hạm *Lamotte-Picquet* của Pháp tiến hành thăm dò quần đảo Hoàng Sa và nhận thấy các đảo đều hoang vắng. Nhà chức trách quân sự kết luận rằng Pháp không thể dung thứ cho bất kỳ sự chiếm đóng nào của nước ngoài tại đây. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1628 -->
-*   **05/05/1937:** Tổng Bí thư Hà Huy Tập (bút danh Thanh Hương) xuất bản tác phẩm *Tờrốtxky và phản cách mạng*.
+*   **05/05/1937:** Tổng Bí thư Hà Huy Tập (bút danh Thanh Hương) xuất bản tác phẩm *Tờrốtxky và phản cách mạng*. [Nguồn: Hà Huy Tập – Tác phẩm chọn lọc, NXB Chính trị Quốc gia, Hà Nội, 2006]
 
 <!-- id: EVT-1629 -->
 *   **07/1937:** Nhà cách mạng trẻ Nguyễn Kim Thành (Tố Hữu) được kết nạp vào Đảng Cộng sản Đông Dương tại Huế và sáng tác bài thơ *Từ ấy*, cột mốc mở đầu cho sự nghiệp thơ ca cách mạng vẻ vang gắn liền với các chặng đường lịch sử của dân tộc. [Nguồn: Bảo tàng Lịch sử Quốc gia - Tố Hữu: nhà thơ cách mạng lớn của đất nước, https://baotanglichsu.vn/vi/Articles/3091/73855/to-huu-nha-tho-cach-mang-lon-cua-dat-nuoc.html]
 
 <!-- id: EVT-1630 -->
-*   **10/11/1937:** Đồng chí Lê Hồng Phong bí mật về nước, hoạt động tại Sài Gòn - Chợ Lớn dưới bí danh **La Anh**, trực tiếp cùng Xứ ủy Nam Kỳ chỉ đạo phong trào đấu tranh dân sinh, dân chủ trong thời kỳ Mặt trận Dân chủ Đông Dương.
+*   **10/11/1937:** Đồng chí Lê Hồng Phong bí mật về nước, hoạt động tại Sài Gòn - Chợ Lớn dưới bí danh **La Anh**, trực tiếp cùng Xứ ủy Nam Kỳ chỉ đạo phong trào đấu tranh dân sinh, dân chủ trong thời kỳ Mặt trận Dân chủ Đông Dương. [Nguồn: Đồng chí Lê Hồng Phong – Nhà lãnh đạo xuất sắc của Đảng (Báo Nhân Dân), https://nhandan.vn/dong-chi-le-hong-phong-nha-lanh-dao-xuat-sac-cua-dang-va-cach-mang-viet-nam-post713500.html]
 
 <!-- id: EVT-1631 -->
 *   **1938:** Tại Hà Nội, hai nhà cách mạng trẻ Trường Chinh (bút danh Qua Ninh) và Võ Nguyên Giáp (bút danh Vân Đình) xuất bản tác phẩm lý luận kinh điển *"Vấn đề dân cày"*. Tác phẩm phân tích sâu sắc thực trạng nông thôn Việt Nam, vạch trần tội ác bóc lột của thực dân và phong kiến địa chủ, khẳng định vai trò chiến lược của giai cấp nông dân và liên minh công nông trong sự nghiệp cách mạng giải phóng dân tộc. [Nguồn: Bảo tàng Lịch sử Quốc gia - "Vấn đề dân cày": tác phẩm góp phần thúc đẩy phong trào cách mạng Việt Nam, https://baotanglichsu.vn/vi/Articles/3091/70703/van-de-dan-cay-tac-pham-gop-phan-thuc-day-phong-trao-cach-mang-viet-nam.html]
 
 <!-- id: EVT-1632 -->
-*   **1938:** Nguyễn Ái Quốc trở lại Trung Quốc, hoạt động trong Bát lộ quân.
+*   **1938:** Nguyễn Ái Quốc trở lại Trung Quốc, hoạt động trong Bát lộ quân. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1633 -->
-*   **1938:** Huỳnh Tấn Phát tốt nghiệp thủ khoa ngành Kiến trúc, Trường Cao đẳng Mỹ thuật Đông Dương.
+*   **1938:** Huỳnh Tấn Phát tốt nghiệp thủ khoa ngành Kiến trúc, Trường Cao đẳng Mỹ thuật Đông Dương. [Nguồn: Kiến trúc sư Huỳnh Tấn Phát – Cuộc đời và sự nghiệp (Báo Nhân Dân), https://nhandan.vn/kien-truc-su-huynh-tan-phat-post738200.html]
 
 <!-- id: EVT-1634 -->
-*   **1938:** Nhà thơ Xuân Diệu xuất bản tập *Thơ thơ*, kiệt tác đưa ông lên vị trí đỉnh cao của phong trào Thơ mới và được kết nạp vào Tự Lực Văn Đoàn; ông được mệnh danh là "nhà thơ mới nhất trong các nhà thơ mới" và "ông hoàng thơ tình Việt Nam".
+*   **1938:** Nhà thơ Xuân Diệu xuất bản tập *Thơ thơ*, kiệt tác đưa ông lên vị trí đỉnh cao của phong trào Thơ mới và được kết nạp vào Tự Lực Văn Đoàn; ông được mệnh danh là "nhà thơ mới nhất trong các nhà thơ mới" và "ông hoàng thơ tình Việt Nam". [Nguồn: Từ điển văn học (bộ mới), NXB Thế giới, Hà Nội, 2004]
 
 <!-- id: EVT-1635 -->
-*   **02/1938:** Đại Việt Dân chính Đảng được thành lập.
+*   **02/1938:** Đại Việt Dân chính Đảng được thành lập. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1636 -->
 *   **29 - 30/03/1938:** Hội nghị Ban Chấp hành Trung ương Đảng họp tại Tân Thới Nhất, Bà Điểm (Hóc Môn, Gia Định), quyết định đổi tên Mặt trận thành Mặt trận Dân chủ Đông Dương và bầu đồng chí Nguyễn Văn Cừ làm Tổng Bí thư Ban Chấp hành Trung ương Đảng ở tuổi 26. Trên cương vị lãnh đạo cao nhất, ông đã thể hiện phẩm chất lý luận xuất sắc, chỉ đạo củng cố tổ chức Đảng và mở rộng phong trào đấu tranh dân chủ. [Nguồn: Bảo tàng Lịch sử Quốc gia - Lê Hồng Phong: người cộng sản quốc tế đầu tiên của Việt Nam, https://baotanglichsu.vn/vi/Articles/3098/15745/le-hong-phong-nguoi-cong-san-quoc-te-djau-tien-cua-viet-nam.html]
 
 <!-- id: EVT-1637 -->
-*   **30/03/1938 (29/02 năm Mậu Dần):** Vua Bảo Đại ban hành **Dụ số 10**, cải biến các cù lao Hoàng Sa (Archipel des îles Paracels), tách khỏi địa hạt tỉnh Nam Ngãi và sáp nhập vào tỉnh Thừa Thiên để thuận tiện cho việc quản lý hành chính và tuần phòng biển đảo.
+*   **30/03/1938 (29/02 năm Mậu Dần):** Vua Bảo Đại ban hành **Dụ số 10**, cải biến các cù lao Hoàng Sa (Archipel des îles Paracels), tách khỏi địa hạt tỉnh Nam Ngãi và sáp nhập vào tỉnh Thừa Thiên để thuận tiện cho việc quản lý hành chính và tuần phòng biển đảo. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1638 -->
 *   **01/05/1938:** Cuộc mít tinh khổng lồ với 25.000 người tham gia được tổ chức công khai tại khu Đấu Xảo, Hà Nội để kỷ niệm ngày Quốc tế Lao động. [Nguồn: Bảo tàng Lịch sử Quốc gia - Mít tinh ngày Quốc tế Lao động 1/5/1938 tại Hà Nội, https://baotanglichsu.vn/vi/Articles/3097/16188/mit-tinh-ngay-quoc-te-lao-dong-1-5-1938-tai-ha-noi.html]
@@ -5313,103 +5313,103 @@
 *   **25/05/1938:** Hội Truyền bá Quốc ngữ được thành lập tại Hà Nội do học giả Nguyễn Văn Tố (Ứng Hòe) làm Hội trưởng. Dưới sự cổ vũ và giúp đỡ của Đảng Cộng sản Đông Dương, Hội đã phát triển phong trào xóa mù chữ rộng khắp cả nước, mở hàng ngàn lớp học bình dân giúp nâng cao dân trí và khơi dậy tinh thần yêu nước của nhân dân trước Cách mạng tháng Tám. [Nguồn: Bảo tàng Lịch sử Quốc gia - Hội Truyền bá Quốc ngữ (1938-1945), https://baotanglichsu.vn/vi/Articles/2001/66367/hoi-truyen-ba-quoc-ngu-1938-1945.html]
 
 <!-- id: EVT-1640 -->
-*   **15/06/1938:** Toàn quyền Đông Dương Jules Brévié ký **Nghị định số 156-S-C** thành lập một Đại lý hành chính (Délégation administrative) tại quần đảo Hoàng Sa thuộc tỉnh Thừa Thiên. Pháp cử một đơn vị lính bảo an (Garde Indigène) đồn trú, xây dựng một ngọn hải đăng, một trạm khí tượng thủy văn (mã quốc tế 48860), một trạm vô tuyến điện trên đảo Hoàng Sa (Pattle), đồng thời dựng cột bia chủ quyền khắc dòng chữ: *"République Française - Royaume d'Annam - Archipel des Paracels 1816 - Île Pattle 1938"* để khẳng định chủ quyền kế thừa từ năm 1816.
+*   **15/06/1938:** Toàn quyền Đông Dương Jules Brévié ký **Nghị định số 156-S-C** thành lập một Đại lý hành chính (Délégation administrative) tại quần đảo Hoàng Sa thuộc tỉnh Thừa Thiên. Pháp cử một đơn vị lính bảo an (Garde Indigène) đồn trú, xây dựng một ngọn hải đăng, một trạm khí tượng thủy văn (mã quốc tế 48860), một trạm vô tuyến điện trên đảo Hoàng Sa (Pattle), đồng thời dựng cột bia chủ quyền khắc dòng chữ: *"République Française - Royaume d'Annam - Archipel des Paracels 1816 - Île Pattle 1938"* để khẳng định chủ quyền kế thừa từ năm 1816. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1641 -->
-*   **18/07/1938:** Đại sứ Trung Quốc tại Paris gửi một công hàm khẳng định mạnh mẽ các yêu sách của Trung Quốc đối với quần đảo Hoàng Sa. Công hàm ghi nhận bảo đảm của Bộ Ngoại giao Pháp rằng "hành động đó hoàn toàn không có ý tác động đến các lập trường pháp lý tương ứng của Trung Quốc và của Pháp", đồng thời bảo lưu quyền lợi của cả hai bên.
+*   **18/07/1938:** Đại sứ Trung Quốc tại Paris gửi một công hàm khẳng định mạnh mẽ các yêu sách của Trung Quốc đối với quần đảo Hoàng Sa. Công hàm ghi nhận bảo đảm của Bộ Ngoại giao Pháp rằng "hành động đó hoàn toàn không có ý tác động đến các lập trường pháp lý tương ứng của Trung Quốc và của Pháp", đồng thời bảo lưu quyền lợi của cả hai bên. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1642 -->
-*   **30/08/1938:** Chính phủ Pháp ban hành Sắc lệnh về tự do báo chí ở Nam Kỳ, cho phép xuất bản báo chí tiếng Việt mà không cần xin phép trước.
+*   **30/08/1938:** Chính phủ Pháp ban hành Sắc lệnh về tự do báo chí ở Nam Kỳ, cho phép xuất bản báo chí tiếng Việt mà không cần xin phép trước. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1643 -->
-*   **10/1938 - 1940:** Nguyễn Ái Quốc rời Moskva trở lại Trung Quốc. Với bí danh **Hồ Quang** (trong quân phục Thiếu tá Bát lộ quân), Người hoạt động tại Diên An, Tây An, Quế Lâm, Côn Minh, bắt liên lạc với Ban Chỉ huy ở ngoài của Đảng Cộng sản Đông Dương và trực tiếp chuẩn bị các điều kiện để trở về nước.
+*   **10/1938 - 1940:** Nguyễn Ái Quốc rời Moskva trở lại Trung Quốc. Với bí danh **Hồ Quang** (trong quân phục Thiếu tá Bát lộ quân), Người hoạt động tại Diên An, Tây An, Quế Lâm, Côn Minh, bắt liên lạc với Ban Chỉ huy ở ngoài của Đảng Cộng sản Đông Dương và trực tiếp chuẩn bị các điều kiện để trở về nước. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1644 -->
-*   **10/12/1938:** Trương Tử Anh công bố chủ thuyết "Chủ nghĩa Dân tộc Sinh tồn", làm nền tảng tư tưởng cho Đại Việt Quốc dân Đảng sau này.
+*   **10/12/1938:** Trương Tử Anh công bố chủ thuyết "Chủ nghĩa Dân tộc Sinh tồn", làm nền tảng tư tưởng cho Đại Việt Quốc dân Đảng sau này. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1645 -->
 
 ### **Thời kỳ Vận động Giải phóng Dân tộc và Cách mạng tháng Tám (1939 - 1945)**
 
-*   **1939 - 1940:** Bùi Văn Thuyên (còn gọi là Hai Thiêng) sinh ra trong một gia đình nông dân nghèo tại Châu Thành, Tây Ninh. Xuất thân từ một gia đình giàu truyền thống yêu nước có cha và anh tham gia kháng chiến chống Pháp, ông sau này trở thành một chiến sĩ du kích huyền thoại, tham gia hơn 1.000 trận đánh và mang trên mình 72 vết thương trong suốt cuộc kháng chiến chống Mỹ.
+*   **1939 - 1940:** Bùi Văn Thuyên (còn gọi là Hai Thiêng) sinh ra trong một gia đình nông dân nghèo tại Châu Thành, Tây Ninh. Xuất thân từ một gia đình giàu truyền thống yêu nước có cha và anh tham gia kháng chiến chống Pháp, ông sau này trở thành một chiến sĩ du kích huyền thoại, tham gia hơn 1.000 trận đánh và mang trên mình 72 vết thương trong suốt cuộc kháng chiến chống Mỹ. [Nguồn: Lịch sử Đảng bộ tỉnh Vĩnh Long (Tập 1), NXB Chính trị Quốc gia, Hà Nội]
 
 <!-- id: EVT-1646 -->
 *   **1939:** Bác sĩ Tôn Thất Tùng công bố công trình nghiên cứu về cấu trúc gan, đặt nền móng cho "Phương pháp mổ gan Tôn Thất Tùng" (mổ gan khô) nổi tiếng thế giới. [Nguồn: Bảo tàng Lịch sử Quốc gia - Giáo sư Tôn Thất Tùng: nhà phẫu thuật gan hàng đầu thế giới, https://baotanglichsu.vn/vi/Articles/3091/73994/giao-su-ton-that-tung-nha-phau-thuat-gan-hang-dau-the-gioi.html]
 
 <!-- id: EVT-1647 -->
-*   **12/03/1939:** Việt Nam Phục quốc Đồng minh Hội chính thức ra mắt tại Thượng Hải.
+*   **12/03/1939:** Việt Nam Phục quốc Đồng minh Hội chính thức ra mắt tại Thượng Hải. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1648 -->
-*   **31/03/1939:** Chính phủ Nhật Bản tuyên bố quyền kiểm soát đối với quần đảo Trường Sa. Pháp đã lên tiếng phản đối hành động này vào ngày 4 tháng 4.
+*   **31/03/1939:** Chính phủ Nhật Bản tuyên bố quyền kiểm soát đối với quần đảo Trường Sa. Pháp đã lên tiếng phản đối hành động này vào ngày 4 tháng 4. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1649 -->
-*   **05/05/1939:** Toàn quyền Đông Dương Jules Brévié ký **Nghị định số 3283** sửa đổi nghị định năm 1938, chia quần đảo Hoàng Sa thành hai đại lý hành chính riêng biệt thuộc tỉnh Thừa Thiên: Đại lý "Nhóm Lưỡi Liềm và các đảo phụ cận" (Croissant et ses dépendances) và Đại lý "Nhóm An Vĩnh và các đảo phụ cận" (Amphitrite et ses dépendances).
+*   **05/05/1939:** Toàn quyền Đông Dương Jules Brévié ký **Nghị định số 3283** sửa đổi nghị định năm 1938, chia quần đảo Hoàng Sa thành hai đại lý hành chính riêng biệt thuộc tỉnh Thừa Thiên: Đại lý "Nhóm Lưỡi Liềm và các đảo phụ cận" (Croissant et ses dépendances) và Đại lý "Nhóm An Vĩnh và các đảo phụ cận" (Amphitrite et ses dépendances). [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1650 -->
-*   **07/06/1939:** Nhà thơ, nhà báo Tản Đà (Nguyễn Khắc Hiếu) qua đời tại Hà Nội ở tuổi 50. Ông được phong tặng là "người của hai thế kỷ" và được Hoài Thanh suy tôn là "chủ soái của thi đàn Việt Nam" trước phong trào Thơ mới.
+*   **07/06/1939:** Nhà thơ, nhà báo Tản Đà (Nguyễn Khắc Hiếu) qua đời tại Hà Nội ở tuổi 50. Ông được phong tặng là "người của hai thế kỷ" và được Hoài Thanh suy tôn là "chủ soái của thi đàn Việt Nam" trước phong trào Thơ mới. [Nguồn: Từ điển văn học (bộ mới), NXB Thế giới, Hà Nội, 2004]
 
 <!-- id: EVT-1651 -->
-*   **22/06/1939:** Đồng chí Lê Hồng Phong bị mật thám Pháp bắt giữ tại Sài Gòn; bị kết án tù và sau đó trục xuất về quản thúc tại quê nhà Hưng Nguyên (Nghệ An), ông vẫn kiên cường tìm cách giữ liên lạc và đóng góp ý kiến chỉ đạo cho Trung ương Đảng.
+*   **22/06/1939:** Đồng chí Lê Hồng Phong bị mật thám Pháp bắt giữ tại Sài Gòn; bị kết án tù và sau đó trục xuất về quản thúc tại quê nhà Hưng Nguyên (Nghệ An), ông vẫn kiên cường tìm cách giữ liên lạc và đóng góp ý kiến chỉ đạo cho Trung ương Đảng. [Nguồn: Đồng chí Lê Hồng Phong – Nhà lãnh đạo xuất sắc của Đảng (Báo Nhân Dân), https://nhandan.vn/dong-chi-le-hong-phong-nha-lanh-dao-xuat-sac-cua-dang-va-cach-mang-viet-nam-post713500.html]
 
 <!-- id: EVT-1652 -->
-*   **07/1939:** Tổng Bí thư Nguyễn Văn Cừ xuất bản tác phẩm lý luận kinh điển *"Tự chỉ trích"* (dưới bút danh Trí Cường). Tác phẩm khái quát những bài học xương máu trong công tác xây dựng Đảng, đặt nền tảng phương pháp luận cho việc tự phê bình và phê bình nghiêm túc, thẳng thắn nhằm củng cố sự thống nhất ý chí và hành động của toàn Đảng.
+*   **07/1939:** Tổng Bí thư Nguyễn Văn Cừ xuất bản tác phẩm lý luận kinh điển *"Tự chỉ trích"* (dưới bút danh Trí Cường). Tác phẩm khái quát những bài học xương máu trong công tác xây dựng Đảng, đặt nền tảng phương pháp luận cho việc tự phê bình và phê bình nghiêm túc, thẳng thắn nhằm củng cố sự thống nhất ý chí và hành động của toàn Đảng. [Nguồn: Nguyễn Văn Cừ – Tác phẩm chọn lọc, NXB Chính trị Quốc gia, Hà Nội, 2007]
 
 <!-- id: EVT-1653 -->
-*   **05/07/1939:** Phật giáo Hòa Hảo, một tôn giáo nội sinh, được ông Huỳnh Phú Sổ sáng lập tại tỉnh An Giang.
+*   **05/07/1939:** Phật giáo Hòa Hảo, một tôn giáo nội sinh, được ông Huỳnh Phú Sổ sáng lập tại tỉnh An Giang. [Nguồn: Ban Tôn giáo Chính phủ, Các tôn giáo ở Việt Nam, NXB Tôn giáo, Hà Nội, 2015]
 
 <!-- id: EVT-1654 -->
-*   **01/09/1939:** Chiến tranh Thế giới thứ hai bùng nổ, Pháp tham chiến.
+*   **01/09/1939:** Chiến tranh Thế giới thứ hai bùng nổ, Pháp tham chiến. [Nguồn: Lịch sử thế giới hiện đại, NXB Giáo dục, Hà Nội, 2008]
 
 <!-- id: EVT-1655 -->
-*   **28/09/1939:** Toàn quyền Đông Dương ra nghị định đặt Đảng Cộng sản Đông Dương ra ngoài vòng pháp luật, bắt đầu thời kỳ khủng bố trắng.
+*   **28/09/1939:** Toàn quyền Đông Dương ra nghị định đặt Đảng Cộng sản Đông Dương ra ngoài vòng pháp luật, bắt đầu thời kỳ khủng bố trắng. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1656 -->
-*   **06 - 08/11/1939:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ VI tại Bà Điểm (Hóc Môn, Gia Định) do Tổng Bí thư Nguyễn Văn Cừ chủ trì, quyết định chuyển hướng chỉ đạo chiến lược: đặt nhiệm vụ giải phóng dân tộc lên hàng đầu và thành lập Mặt trận Thống nhất Dân tộc Phản đế Đông Dương.
+*   **06 - 08/11/1939:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ VI tại Bà Điểm (Hóc Môn, Gia Định) do Tổng Bí thư Nguyễn Văn Cừ chủ trì, quyết định chuyển hướng chỉ đạo chiến lược: đặt nhiệm vụ giải phóng dân tộc lên hàng đầu và thành lập Mặt trận Thống nhất Dân tộc Phản đế Đông Dương. [Nguồn: Văn kiện Đảng Toàn tập (Tập 6: 1936–1939), NXB Chính trị Quốc gia, Hà Nội, 2000]
 
 <!-- id: EVT-1657 -->
-*   **10/12/1939:** Đại Việt Quốc dân Đảng được thành lập.
+*   **10/12/1939:** Đại Việt Quốc dân Đảng được thành lập. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1658 -->
-*   **1940:** Kiến trúc sư Huỳnh Tấn Phát mở văn phòng kiến trúc sư tư đầu tiên của người Việt ở Sài Gòn. Cùng năm, Lưu Tấn Phát là một trong những hạt nhân nòng cốt của Khởi nghĩa Nam Kỳ tại xã nhà ở Tiền Giang.
+*   **1940:** Kiến trúc sư Huỳnh Tấn Phát mở văn phòng kiến trúc sư tư đầu tiên của người Việt ở Sài Gòn. Cùng năm, Lưu Tấn Phát là một trong những hạt nhân nòng cốt của Khởi nghĩa Nam Kỳ tại xã nhà ở Tiền Giang. [Nguồn: Kiến trúc sư Huỳnh Tấn Phát – Cuộc đời và sự nghiệp (Báo Nhân Dân), https://nhandan.vn/kien-truc-su-huynh-tan-phat-post738200.html]
 
 <!-- id: EVT-1659 -->
-*   **1940:** Nhà thơ Nguyễn Bính xuất bản tập thơ *Lỡ bước sang ngang* và được trao giải thưởng thơ của Tự Lực Văn Đoàn với tập *Tâm hồn tôi*, khẳng định vị thế "nhà thơ chân quê" xuất sắc nhất của phong trào Thơ mới với những vần thơ mang đậm hồn quê và phong vị dân ca dân tộc.
+*   **1940:** Nhà thơ Nguyễn Bính xuất bản tập thơ *Lỡ bước sang ngang* và được trao giải thưởng thơ của Tự Lực Văn Đoàn với tập *Tâm hồn tôi*, khẳng định vị thế "nhà thơ chân quê" xuất sắc nhất của phong trào Thơ mới với những vần thơ mang đậm hồn quê và phong vị dân ca dân tộc. [Nguồn: Từ điển văn học (bộ mới), NXB Thế giới, Hà Nội, 2004]
 
 <!-- id: EVT-1660 -->
-*   **01/02/1940:** Nguyễn Văn Trỗi sinh tại làng Thanh Quýt, huyện Điện Bàn, tỉnh Quảng Nam. Ông sau này trở thành chiến sĩ biệt động Sài Gòn quả cảm, người có khí tiết lẫm liệt trước pháp trường trở thành biểu tượng của lòng yêu nước.
+*   **01/02/1940:** Nguyễn Văn Trỗi sinh tại làng Thanh Quýt, huyện Điện Bàn, tỉnh Quảng Nam. Ông sau này trở thành chiến sĩ biệt động Sài Gòn quả cảm, người có khí tiết lẫm liệt trước pháp trường trở thành biểu tượng của lòng yêu nước. [Nguồn: Anh hùng liệt sĩ Nguyễn Văn Trỗi (Báo Nhân Dân), https://nhandan.vn/anh-hung-liet-si-nguyen-van-troi-post621450.html]
 
 <!-- id: EVT-1661 -->
-*   **06/02/1940:** Thực dân Pháp bắt lại đồng chí Lê Hồng Phong tại Nghệ An, giam tại Khám Lớn Sài Gòn rồi kết án 5 năm tù và 10 năm quản thúc, sau đó đày ra nhà tù Côn Đảo.
+*   **06/02/1940:** Thực dân Pháp bắt lại đồng chí Lê Hồng Phong tại Nghệ An, giam tại Khám Lớn Sài Gòn rồi kết án 5 năm tù và 10 năm quản thúc, sau đó đày ra nhà tù Côn Đảo. [Nguồn: Đồng chí Lê Hồng Phong – Nhà lãnh đạo xuất sắc của Đảng (Báo Nhân Dân), https://nhandan.vn/dong-chi-le-hong-phong-nha-lanh-dao-xuat-sac-cua-dang-va-cach-mang-viet-nam-post713500.html]
 
 <!-- id: EVT-1662 -->
-*   **06/1940:** Tại Thúy Hồ (Côn Minh, Vân Nam, Trung Quốc), đồng chí Võ Nguyên Giáp và đồng chí Phạm Văn Đồng lần đầu tiên gặp Lãnh tụ Nguyễn Ái Quốc. Cuộc gặp lịch sử này đã trở thành bước ngoặt quyết định trong cuộc đời cách mạng của Võ Nguyên Giáp, mở đầu chặng đường cống hiến trọn đời cho sự nghiệp cách mạng dưới sự dìu dắt trực tiếp của Bác Hồ.
+*   **06/1940:** Tại Thúy Hồ (Côn Minh, Vân Nam, Trung Quốc), đồng chí Võ Nguyên Giáp và đồng chí Phạm Văn Đồng lần đầu tiên gặp Lãnh tụ Nguyễn Ái Quốc. Cuộc gặp lịch sử này đã trở thành bước ngoặt quyết định trong cuộc đời cách mạng của Võ Nguyên Giáp, mở đầu chặng đường cống hiến trọn đời cho sự nghiệp cách mạng dưới sự dìu dắt trực tiếp của Bác Hồ. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1663 -->
-*   **18/06/1940:** Sau khi Tướng Charles de Gaulle phát đi 'Lời kêu gọi ngày 18 tháng 6' qua đài BBC từ London, cựu hoàng Duy Tân đã tự dùng đài thu phát vô tuyến của mình tại đảo Réunion để bắt sóng, dịch và bí mật phổ biến bản tin hiệu triệu kháng chiến chống phát xít tại vùng Tây Nam Ấn Độ Dương. Về sau ông chính thức gia nhập quân đội Pháp Tự Do với tư cách sĩ quan truyền tin vô tuyến điện và được thăng đến cấp Thiếu tá.
+*   **18/06/1940:** Sau khi Tướng Charles de Gaulle phát đi 'Lời kêu gọi ngày 18 tháng 6' qua đài BBC từ London, cựu hoàng Duy Tân đã tự dùng đài thu phát vô tuyến của mình tại đảo Réunion để bắt sóng, dịch và bí mật phổ biến bản tin hiệu triệu kháng chiến chống phát xít tại vùng Tây Nam Ấn Độ Dương. Về sau ông chính thức gia nhập quân đội Pháp Tự Do với tư cách sĩ quan truyền tin vô tuyến điện và được thăng đến cấp Thiếu tá. [Nguồn: Lịch sử thế giới hiện đại, NXB Giáo dục, Hà Nội, 2008]
 
 <!-- id: EVT-1664 -->
-*   **22/06/1940:** Chính phủ Pháp đầu hàng phát xít Đức.
+*   **22/06/1940:** Chính phủ Pháp đầu hàng phát xít Đức. [Nguồn: Lịch sử thế giới hiện đại, NXB Giáo dục, Hà Nội, 2008]
 
 <!-- id: EVT-1665 -->
-*   **09/1940:** Việt Nam Kiến quốc quân (lực lượng vũ trang của Phục quốc Hội) tiến đánh Lạng Sơn.
+*   **09/1940:** Việt Nam Kiến quốc quân (lực lượng vũ trang của Phục quốc Hội) tiến đánh Lạng Sơn. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1666 -->
-*   **22/09/1940:** Quân Nhật vượt biên giới, tấn công Lạng Sơn. Thực dân Pháp nhanh chóng ký hiệp định đầu hàng, chấp nhận cho Nhật vào Đông Dương.
+*   **22/09/1940:** Quân Nhật vượt biên giới, tấn công Lạng Sơn. Thực dân Pháp nhanh chóng ký hiệp định đầu hàng, chấp nhận cho Nhật vào Đông Dương. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1667 -->
-*   **27/09/1940:** Cuộc khởi nghĩa Bắc Sơn nổ ra.
+*   **27/09/1940:** Cuộc khởi nghĩa Bắc Sơn nổ ra. [Nguồn: Khởi nghĩa Bắc Sơn (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13910/khoi-nghia-bac-son.html]
 
 <!-- id: EVT-1668 -->
-*   **06-09/11/1940:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ VII tại Đình Bảng (Bắc Ninh), quyết định duy trì lực lượng vũ trang Bắc Sơn và hoãn cuộc khởi nghĩa Nam Kỳ.
+*   **06-09/11/1940:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ VII tại Đình Bảng (Bắc Ninh), quyết định duy trì lực lượng vũ trang Bắc Sơn và hoãn cuộc khởi nghĩa Nam Kỳ. [Nguồn: Văn kiện Đảng Toàn tập (Tập 7: 1940), NXB Chính trị Quốc gia, Hà Nội, 2000]
 
 <!-- id: EVT-1669 -->
-*   **11/11/1940:** Thi sĩ tài hoa Hàn Mặc Tử qua đời vì bệnh phong tại trại phong Quy Hòa (Quy Nhơn, Bình Định) khi mới 28 tuổi, để lại những kiệt tác thơ ca bất hủ như *Đau thương* (*Thơ Điên*), *Xuân như ý*, *Đây thôn Vĩ Dạ*, *Mùa xuân chín*.
+*   **11/11/1940:** Thi sĩ tài hoa Hàn Mặc Tử qua đời vì bệnh phong tại trại phong Quy Hòa (Quy Nhơn, Bình Định) khi mới 28 tuổi, để lại những kiệt tác thơ ca bất hủ như *Đau thương* (*Thơ Điên*), *Xuân như ý*, *Đây thôn Vĩ Dạ*, *Mùa xuân chín*. [Nguồn: Từ điển văn học (bộ mới), NXB Thế giới, Hà Nội, 2004]
 
 <!-- id: EVT-1670 -->
-*   **23/11/1940:** Cuộc khởi nghĩa Nam Kỳ bùng nổ đồng loạt tại nhiều tỉnh Nam Bộ nhưng bị thực dân Pháp đàn áp dã man. Trong khói lửa khởi nghĩa, lá cờ đỏ sao vàng năm cánh (do chiến sĩ cách mạng Nguyễn Hữu Tiến thiết kế) lần đầu tiên xuất hiện công khai và kiêu hãnh tung bay trên ngọn bàng trước đình Long Hưng (Châu Thành, Mỹ Tho - nay thuộc Tiền Giang, nơi đặt trụ sở Ủy ban Khởi nghĩa), trở thành biểu tượng thiêng liêng hiệu triệu tinh thần quật khởi của toàn dân tộc.
+*   **23/11/1940:** Cuộc khởi nghĩa Nam Kỳ bùng nổ đồng loạt tại nhiều tỉnh Nam Bộ nhưng bị thực dân Pháp đàn áp dã man. Trong khói lửa khởi nghĩa, lá cờ đỏ sao vàng năm cánh (do chiến sĩ cách mạng Nguyễn Hữu Tiến thiết kế) lần đầu tiên xuất hiện công khai và kiêu hãnh tung bay trên ngọn bàng trước đình Long Hưng (Châu Thành, Mỹ Tho - nay thuộc Tiền Giang, nơi đặt trụ sở Ủy ban Khởi nghĩa), trở thành biểu tượng thiêng liêng hiệu triệu tinh thần quật khởi của toàn dân tộc. [Nguồn: Khởi nghĩa Nam Kỳ (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13911/khoi-nghia-nam-ky.html]
 
 <!-- id: EVT-1671 -->
-*   **1941:** Kiến trúc sư Huỳnh Tấn Phát đoạt giải nhất cuộc thi thiết kế khu Trung tâm Hội chợ Triển lãm Đông Dương tại Sài Gòn.
+*   **1941:** Kiến trúc sư Huỳnh Tấn Phát đoạt giải nhất cuộc thi thiết kế khu Trung tâm Hội chợ Triển lãm Đông Dương tại Sài Gòn. [Nguồn: Kiến trúc sư Huỳnh Tấn Phát – Cuộc đời và sự nghiệp (Báo Nhân Dân), https://nhandan.vn/kien-truc-su-huynh-tan-phat-post738200.html]
 
 <!-- id: EVT-1672 -->
 *   **13/01/1941:** Cuộc binh biến Đô Lương do Đội Cung lãnh đạo nổ ra ở Nghệ An.
