@@ -3305,10 +3305,10 @@
 *   **1800:** Hai tướng chủ chốt của Tây Sơn là Trần Quang Diệu và Vũ Văn Dũng đem quân vào vây thành Bình Định. [Nguồn: Danh tướng Võ Tánh trấn thủ Quy Nhơn (Lưu trữ Quốc gia), https://archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/danh-tuong-vo-tanh-nguoi-tran-thu-thanh-quy-nhon.htm]
 
 <!-- id: EVT-1015 -->
-*   **1800:** (Năm Canh Thân) Công nữ **Ngọc Huyên** (bà vãi Vân Dương), hoạt động tình báo cho Nguyễn Ánh tại Phú Xuân, đã bí mật cho người khảo sát và vẽ bản đồ bố phòng của quân Tây Sơn tại cửa biển Tư Hiền và Thuận An, giúp quân Nguyễn chuẩn bị cho cuộc tấn công quyết định.
+*   **1800:** (Năm Canh Thân) Công nữ **Ngọc Huyên** (bà vãi Vân Dương), hoạt động tình báo cho Nguyễn Ánh tại Phú Xuân, đã bí mật cho người khảo sát và vẽ bản đồ bố phòng của quân Tây Sơn tại cửa biển Tư Hiền và Thuận An, giúp quân Nguyễn chuẩn bị cho cuộc tấn công quyết định. [Nguồn: Nữ gián điệp dưới vương triều Việt Nam (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/14535/nga-mu-truoc-nu-gian-djiep-xinh-tai-duoi-vuong-trieu-vn.html]
 
 <!-- id: EVT-1016 -->
-*   **Thế kỷ XIX:** Dưới triều Nguyễn, trong tổng số gần 4 triệu mẫu ruộng đất thực trưng trên toàn quốc, ruộng đất tư chiếm 81%, ruộng đất công và các loại khác chiếm 19%.
+*   **Thế kỷ XIX:** Dưới triều Nguyễn, trong tổng số gần 4 triệu mẫu ruộng đất thực trưng trên toàn quốc, ruộng đất tư chiếm 81%, ruộng đất công và các loại khác chiếm 19%. [Nguồn: Lịch sử hình thành và phát triển ngành quản lý đất đai (Trường ĐH Nông Lâm TP.HCM), https://lrem.hcmuaf.edu.vn/lrem-19967-1/vn/lich-su-hinh-thanh-va-phattrien-nganh-quan-ly-dat-dai-viet-nam.html]
 
 <!-- id: EVT-1017 -->
 *   **27/02/1801:** Đại chiến thủy quân tại Thị Nại. Thủy quân nhà Nguyễn, do đích thân Nguyễn Ánh và Lê Văn Duyệt chỉ huy, đã mở cuộc tấn công bất ngờ và quy mô lớn vào hạm đội Tây Sơn đang phòng thủ đầm Thị Nại. Lợi dụng sức gió và hỏa công, quân Nguyễn đã tiêu diệt hoàn toàn lực lượng thủy quân Tây Sơn, thiêu rụi hơn 700 chiến thuyền và thu được nhiều súng ống. Thắng lợi mang tính quyết định này được vinh danh là "Đệ nhất vũ công" của triều Nguyễn, mở đường cho việc tiến đánh Phú Xuân. [Nguồn: Trận Thị Nại 1801 (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_Th%E1%BB%8B_N%E1%BA%A1i_(1801)]
@@ -3320,7 +3320,7 @@
 *   **07/07/1801:** (25 - 27 tháng 5 âm lịch) Ngô Tùng Châu uống thuốc độc tự vẫn hai ngày trước khi Võ Tánh tự thiêu để giữ thành Bình Định, cầm chân quân Tây Sơn giúp quân Nguyễn rảnh tay đánh chiếm Phú Xuân. [Nguồn: Danh tướng Võ Tánh trấn thủ Quy Nhơn (Lưu trữ Quốc gia), https://archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/danh-tuong-vo-tanh-nguoi-tran-thu-thanh-quy-nhon.htm]
 
 <!-- id: EVT-1020 -->
-*   **Cuối thế kỷ XIX:** Thực dân Pháp bắt đầu khai thác tài nguyên trên đảo Phú Quốc như dừa, hồ tiêu và thành lập một trại giam.
+*   **Cuối thế kỷ XIX:** Thực dân Pháp bắt đầu khai thác tài nguyên trên đảo Phú Quốc như dừa, hồ tiêu và thành lập một trại giam. [Nguồn: Lịch sử Phú Quốc (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Ph%C3%BA_Qu%E1%BB%91c#L%E1%BB%8Bch_s%E1%BB%AD]
 
 <!-- id: EVT-1021 -->
 
@@ -3348,7 +3348,7 @@
 *   **06/1802:** Sau khi thành Bình Định thất thủ, Nguyễn Ánh chính thức lên ngôi Hoàng đế ở Phú Xuân, đặt niên hiệu là Gia Long. [Nguồn: Hoàng đế Gia Long 1802-1820 (Trung tâm Bảo tồn Cố đô Huế), https://hueworldheritage.org.vn/Di-san/Chi-tiet/pid/2843/cid/149?tid=1-Hoang-de-Gia-Long-1802-1820.html]
 
 <!-- id: EVT-1027 -->
-*   **16/06/1802:** Trên đường rút chạy ra Bắc, tại Xương Giang, Đô đốc Tuyết (Nguyễn Văn Tuyết) tử trận khi bảo vệ vua Cảnh Thịnh. Thái hậu Bùi Thị Nhạn cùng các nữ tướng Trần Thị Lan, Nguyễn Thị Dung đều tự sát để giữ tròn khí tiết.
+*   **16/06/1802:** Trên đường rút chạy ra Bắc, tại Xương Giang, Đô đốc Tuyết (Nguyễn Văn Tuyết) tử trận khi bảo vệ vua Cảnh Thịnh. Thái hậu Bùi Thị Nhạn cùng các nữ tướng Trần Thị Lan, Nguyễn Thị Dung đều tự sát để giữ tròn khí tiết. [Nguồn: Tây Sơn ngũ phụng thư (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13766/tay-son-that-ho-tuong-ky-5-tay-son-ngu-phung-thu.html]
 
 <!-- id: EVT-1028 -->
 *   **20/07/1802:** Nguyễn Ánh tiến vào thành Thăng Long, kế thừa thành quả thống nhất non sông của phong trào Tây Sơn, hoàn thành việc củng cố và xác lập nền thống nhất đất nước về mặt hành chính, chính thức chấm dứt triều đại Tây Sơn. Trước đó, quân Nguyễn đã bắt người dân Bắc Hà đóng góp nhiều khoản nặng nề. Vua Cảnh Thịnh bị bắt. Gia Long ra lệnh đào mộ Nguyễn Nhạc, Nguyễn Huệ, giã nát hài cốt rồi vứt đi, còn xương đầu thì bỏ vào ngục tối. Sự kiện này mở đầu cho triều đại nhà Nguyễn cai trị một nước Việt Nam thống nhất toàn vẹn từ Bắc chí Nam. [Nguồn: Thăng Long - Hà Nội thời Nguyễn (Di tích Hoàng thành Thăng Long), https://hoangthanhthanglong.vn/thang-long-ha-noi-thoi-nguyen/]
@@ -3358,13 +3358,13 @@
 *Nguồn: Đoan Môn, Hoàng thành Thăng Long, Hà Nội (Ảnh: Ahia / CC BY 2.0)*
 
 <!-- id: EVT-1029 -->
-*   **08/1802:** Vua Gia Long sai biên soạn và ban hành 15 điều luật đầu tiên về kiện tụng.
+*   **08/1802:** Vua Gia Long sai biên soạn và ban hành 15 điều luật đầu tiên về kiện tụng. [Nguồn: Hoàng đế Gia Long và công cuộc kiến thiết triều Nguyễn (Lưu trữ Quốc gia), https://archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/hoang-de-gia-long-va-cong-cuoc-khai-lap-trieu-nguyen-200-nam-nhin-lai-ky-ii-cong-cuoc-kien-thiet-trieu-nguyen.htm]
 
 <!-- id: EVT-1030 -->
 *   **20/11/1802 (06/11 năm Nhâm Tuất):** Vua Gia Long cử hành đại lễ hiến hung tại Thái miếu (Phú Xuân), xử tử vua Cảnh Thịnh (Nguyễn Quang Toản) cùng tôn thất Tây Sơn và các đại tướng triều trước. Danh tướng **Trần Quang Diệu** bị xử trảm, nữ tướng **Bùi Thị Xuân** và con gái bị voi giày. Sự kiện này chính thức khép lại hoàn toàn 24 năm trị vì của vương triều Tây Sơn. [Nguồn: Bùi Thị Xuân (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/B%C3%B9i_Th%E1%BB%8B_Xu%C3%A2n]
 
 <!-- id: EVT-1031 -->
-*   **1803:** Vua Gia Long ra lệnh đắp lại **Thành Thăng Long** (Hà Nội). Vua định lệ lương bổng cho quan và quân ở Bắc thành. Triều đình thiết lập Tràng Tiền tại Thăng Long để đúc tiền "Gia Long thông bảo".
+*   **1803:** Vua Gia Long ra lệnh đắp lại **Thành Thăng Long** (Hà Nội). Vua định lệ lương bổng cho quan và quân ở Bắc thành. Triều đình thiết lập Tràng Tiền tại Thăng Long để đúc tiền "Gia Long thông bảo". [Nguồn: Thăng Long - Hà Nội thời Nguyễn (Trung tâm Bảo tồn Di sản Thăng Long - Hà Nội), https://hoangthanhthanglong.vn/thang-long-ha-noi-thoi-nguyen/]
 
 <!-- id: EVT-1032 -->
 *   **1803 - 1808:** Tả quân Lê Văn Duyệt được cử đi đánh dẹp cuộc nổi dậy của "Mọi Thạch Bích" (đồng bào dân tộc thiểu số) ở vùng Quảng Ngãi, ổn định biên giới. [Nguồn: Lê Văn Duyệt (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/L%C3%AA_V%C4%83n_Duy%E1%BB%87t]
@@ -3379,7 +3379,7 @@
 *   **07/1803 (tháng 7 năm Quý Hợi, Gia Long năm thứ 2):** Vua Gia Long cho tái lập Đội Hoàng Sa và Đội Bắc Hải, cử Cai cơ Võ Văn Phú làm Thủ ngự cửa biển Sa Kỳ kiêm quản đội Hoàng Sa để tiếp tục phái thuyền ra quần đảo Hoàng Sa đo đạc hải trình, tuần thám và thu lượm hóa vật. [Nguồn: Vua Gia Long 3 lần phái quân ra Hoàng Sa (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3096/8306/vua-gia-long-3-lan-phai-quan-ra-hoang-sa.html]
 
 <!-- id: EVT-1036 -->
-*   **1804 (Năm Gia Long thứ ba):** Triều đình quy định rõ mức tiền cheo (nhà giàu 1 quan 5 tiền, bậc trung 6 tiền, nhà nghèo 3 tiền) và bắt buộc nộp gấp đôi nếu lấy người làng khác, nhằm thắt chặt sự cố kết cộng đồng làng xã.
+*   **1804 (Năm Gia Long thứ ba):** Triều đình quy định rõ mức tiền cheo (nhà giàu 1 quan 5 tiền, bậc trung 6 tiền, nhà nghèo 3 tiền) và bắt buộc nộp gấp đôi nếu lấy người làng khác, nhằm thắt chặt sự cố kết cộng đồng làng xã. [Nguồn: Tiền cheo (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Ti%E1%BB%81n_cheo]
 
 <!-- id: EVT-1037 -->
 *   **1804:** Vua Gia Long chính thức đặt quốc hiệu là **Việt Nam** (sau khi nhà Thanh chấp thuận và phái sứ bộ sang tuyên phong). Dù có hiềm khích sâu sắc với triều Tây Sơn, triều đình Gia Long muốn thu phục nhân tâm sĩ phu Bắc Hà và cần một bậc đại Nho có uy tín bang giao quốc tế vượt trội để đối đãi với sứ Thanh, nên đã tạm triệu cựu Thượng thư bộ Lễ Tây Sơn là Phan Huy Ích ra Thăng Long soạn thảo áng văn lịch sử "Tuyên cáo định quốc hiệu" ban bố cho toàn quốc. Hoàn thành trọng trách vì quốc thể, Phan Huy Ích kiên quyết khước từ lời mời ra làm quan cho triều Nguyễn để giữ trọn khí tiết kẻ sĩ, lui về ẩn cư tại Sài Sơn và Thu Hoạch. Vua Gia Long cũng cho đúc ấn của 6 bộ và ban hành phép quân điền; khởi công xây dựng **Cung Thành** ở phía sau điện Thái Hòa (đến năm 1822 đổi tên là Tử Cấm Thành); dời trấn sở An Quảng về xã Quỳnh Lâu (Quảng Yên) và phá tháp Tường Long lấy gạch đá xây thành Hải Dương. [Nguồn: Vua Gia Long với quốc hiệu Việt Nam (Thanh Niên), https://thanhnien.vn/vua-gia-long-voi-quoc-hieu-viet-nam-1852410032347117.htm]
@@ -3391,7 +3391,7 @@
 *   **16/09/1804 (13/08 năm Giáp Tý):** Hài cốt của vua Lê Chiêu Thống, Hoàng Thái hậu và Thái tử được đưa từ Trung Quốc về đến cửa ải. [Nguồn: Ông vua cuối cùng nhà Hậu Lê (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3096/6822/an-xua-chuyen-ve-ong-vua-cuoi-cung-nha-hau-le.html]
 
 <!-- id: EVT-1040 -->
-*   **14/11/1804 (13/10 năm Giáp Tý):** Hoàng phi Nguyễn Thị Kim uống thuốc độc tự tử để theo vua Lê Chiêu Thống, sau khi linh cữu vua được đưa về Thăng Long và làm lễ tế.
+*   **14/11/1804 (13/10 năm Giáp Tý):** Hoàng phi Nguyễn Thị Kim uống thuốc độc tự tử để theo vua Lê Chiêu Thống, sau khi linh cữu vua được đưa về Thăng Long và làm lễ tế. [Nguồn: Nguyễn Thị Kim (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Th%E1%BB%8B_Kim_(v%E1%BB%A3_Chi%C3%AAu_Th%E1%BB%91ng)]
 
 <!-- id: EVT-1041 -->
 *   **25/12/1804 (24/11 năm Giáp Tý):** Lễ an táng vua Lê và hoàng quyến được tổ chức tại núi Bàn Thạch (Thanh Hóa), cạnh lăng vua Lê Hiển Tông. [Nguồn: Ông vua cuối cùng nhà Hậu Lê (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3096/6822/an-xua-chuyen-ve-ong-vua-cuoi-cung-nha-hau-le.html]
@@ -3428,10 +3428,10 @@
 *   **1808:** Gia Long cho đổi Gia Định trấn thành Gia Định thành. [Nguồn: Gia Định đầu rồi (Nông nghiệp Môi trường), https://nongnghiepmoitruong.vn/tri-thuc-nong-dan/gia-dinh-dau-roi-d332029.html]
 
 <!-- id: EVT-1050 -->
-*   **1808 - 1819:** Cuộc nổi dậy của Thổ tù Quách Tất Thúc ở vùng Sơn Âm (nay thuộc Ninh Bình, Hòa Bình).
+*   **1808 - 1819:** Cuộc nổi dậy của Thổ tù Quách Tất Thúc ở vùng Sơn Âm (nay thuộc Ninh Bình, Hòa Bình). [Nguồn: Đại Nam thực lục – Chính biên (Đệ nhất kỷ, Quyển 37); Gia Long, https://vi.wikipedia.org/wiki/Gia_Long]
 
 <!-- id: EVT-1051 -->
-*   **1809:** Vua Gia Long đặt đủ các chức quan cho 6 bộ.
+*   **1809:** Vua Gia Long đặt đủ các chức quan cho 6 bộ. [Nguồn: Quan chế nhà Nguyễn (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Quan_ch%E1%BA%BF_nh%C3%A0_Nguy%E1%BB%85n]
 
 <!-- id: EVT-1052 -->
 *   **1809 - 1819:** Học giả Phan Huy Chú biên soạn bộ bách khoa thư **"Lịch triều hiến chương loại chí"**, ghi chép về điển chương, chế độ qua các triều đại. [Nguồn: Phan Huy Chú, văn chương nết đất (CAND), https://cand.vn/phan-huy-chu-van-chuong-net-dat-post704944.html]
@@ -3449,7 +3449,7 @@
 *   **07/1812:** Hoàn thành bộ luật *Hoàng Việt luật lệ* (thường gọi là Luật Gia Long). [Nguồn: Mộc bản Hoàng Việt luật lệ (Mộc Bản), https://mocban.vn/moc-ban-hoang-viet-luat-le-bo-luat-gia-long/]
 
 <!-- id: EVT-1058 -->
-*   **12/1812:** Vua Gia Long xuống chiếu lấy lại quốc hiệu là **Đại Việt**.
+*   **12/1812:** Vua Gia Long xuống chiếu lấy lại quốc hiệu là **Đại Việt**. [Nguồn: Phan Thúc Trực, Quốc sử di biên (Nhà xuất bản Văn hóa - Thông tin, 2009)]
 
 <!-- id: EVT-1059 -->
 *   **1813:** Lê Văn Duyệt và Nguyễn Văn Thụy đưa vua Nặc Ông Chân về nước Chân Lạp (Campuchia) phục vị. Lê Văn Duyệt cho xây thành Nam Vang và thành La Lem để chứa lương thực, khí giới bảo hộ Chân Lạp. [Nguồn: Tả quân Lê Văn Duyệt (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3096/9271/ta-quan-le-van-duyet-than-thai-giam-lam-nen-nghiep-lon.html]
@@ -3488,16 +3488,16 @@
 *   **11/06/1816:** Vua Gia Long lập Hoàng tử thứ tư (Nguyễn Phúc Đảm) làm Hoàng Thái tử. [Nguồn: Lăng Minh Mạng - Hiếu Lăng (Trung tâm Bảo tồn Cố đô Huế), http://hueworldheritage.org.vn/Di-san/Chi-tiet/pid/447/cid/87?tid=LANG-HOANG-DE-MINH-MANG-Hieu-Lang.html]
 
 <!-- id: EVT-1072 -->
-*   **1817:** Vua Gia Long định lệ "tập ấm" (quyền lợi kế thừa cho con cháu công thần).
+*   **1817:** Vua Gia Long định lệ "tập ấm" (quyền lợi kế thừa cho con cháu công thần). [Nguồn: Đại Nam thực lục – Chính biên (Đệ nhất kỷ, Quyển 55)]
 
 <!-- id: EVT-1073 -->
-*   **06/1817:** Một thuyền buôn Ma Cao cập bến Đà Nẵng và dâng bản đồ quần đảo Hoàng Sa lên vua Gia Long. Nhà vua đã ban thưởng, khẳng định sự quan tâm của triều đình đối với chủ quyền biển đảo.
+*   **06/1817:** Một thuyền buôn Ma Cao cập bến Đà Nẵng và dâng bản đồ quần đảo Hoàng Sa lên vua Gia Long. Nhà vua đã ban thưởng, khẳng định sự quan tâm của triều đình đối với chủ quyền biển đảo. [Nguồn: Đối sách của triều Nguyễn với thuyền buôn nước ngoài ở Hoàng Sa (Bộ đội Biên phòng), http://bienphongvietnam.gov.vn/nhung-doi-sach-cua-vuong-trieu-nguyen-voi-thuyen-buon-nuoc-ngoai-o-quan-dao-hoang-sa.html]
 
 <!-- id: EVT-1074 -->
 *   **Cuối 1817 - Đầu 1818:** Khởi công đào kênh Thoại Hà (An Giang) dưới sự chỉ huy của Nguyễn Văn Thoại, phục vụ giao thông và quốc phòng. [Nguồn: Thoại Ngọc Hầu Nguyễn Văn Thoại (CADN), https://cadn.com.vn/thoai-ngoc-hau-nguyen-van-thoai-niem-tu-hao-cua-que-huong-da-nang-post16577.html]
 
 <!-- id: EVT-1075 -->
-*   **1818:** Vua Gia Long ban hành điển lệ chính thức về lương bổng và tiền xuân phục cho quan lại; thực thi lệ "dưỡng liêm" (phụ cấp chống tham nhũng) cho quan phủ, huyện.
+*   **1818:** Vua Gia Long ban hành điển lệ chính thức về lương bổng và tiền xuân phục cho quan lại; thực thi lệ "dưỡng liêm" (phụ cấp chống tham nhũng) cho quan phủ, huyện. [Nguồn: Đại Nam thực lục – Chính biên (Đệ nhất kỷ, Quyển 57)]
 
 <!-- id: EVT-1076 -->
 *   **1819:** Lê Văn Duyệt cho xây **Trường Lũy** (Tĩnh Man trường lũy) dài hơn 127 km từ Quảng Ngãi đến Bình Định để ngăn chặn sự xâm lấn của các bộ tộc miền núi, ổn định biên giới phía Tây. [Nguồn: Lê Văn Duyệt (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/L%C3%AA_V%C4%83n_Duy%E1%BB%87t]
@@ -3506,7 +3506,7 @@
 *   **1819:** Lê Văn Duyệt được cử làm Kinh lược sứ vùng Thanh Hóa, Nghệ An để dẹp loạn trộm cướp và nạn đói. Ông thực hiện chính sách khoan hồng, cho phép trộm cướp ra đầu thú và sung vào quân đội (lập quân Thanh Thuận và An Thuận). [Nguồn: Tả quân Lê Văn Duyệt (Lưu trữ Quốc gia), https://www.archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/ta-quan-le-van-duyet.htm]
 
 <!-- id: EVT-1077 -->
-*   **1819:** Vua Gia Long ra lệnh đào **sông An Thông** (kênh Ruột Ngựa) tại Gia Định để thuận tiện cho giao thông đường thủy.
+*   **1819:** Vua Gia Long ra lệnh đào **sông An Thông** (kênh Ruột Ngựa) tại Gia Định để thuận tiện cho giao thông đường thủy. [Nguồn: Kênh Ruột Ngựa (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/K%C3%AAnh_Ru%E1%BB%99t_Ng%E1%BB%B1a]
 
 <!-- id: EVT-1078 -->
 *   **1819 - 1824:** Đào kênh Vĩnh Tế (chạy dọc biên giới An Giang - Kiên Giang), công trình thủy lợi và quốc phòng lớn nhất thời bấy giờ, huy động hàng vạn nhân lực. [Nguồn: Vĩnh Tế, dòng kênh lịch sử (Nhân Dân), https://nhandan.vn/vinh-te-dong-kenh-lich-su-post846690.html]
@@ -3518,7 +3518,7 @@
 *   **1820:** Cuộc nổi dậy của **"Giặc Sãi"** (do một nhà sư tên Kế cầm đầu) nổ ra ở Chân Lạp và vùng biên giới. Tổng trấn Gia Định Lê Văn Duyệt đã cử quân dẹp tan, ổn định tình hình biên giới Tây Nam. [Nguồn: Tả quân Lê Văn Duyệt (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3096/9271/ta-quan-le-van-duyet-than-thai-giam-lam-nen-nghiep-lon.html]
 
 <!-- id: EVT-1081 -->
-*   **1820:** Bắt đầu chế độ **Châu bản** (các bản tấu sớ có bút phê của nhà vua bằng mực son).
+*   **1820:** Bắt đầu chế độ **Châu bản** (các bản tấu sớ có bút phê của nhà vua bằng mực son). [Nguồn: Châu bản triều Nguyễn (Trung tâm Lưu trữ Quốc gia I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1082 -->
 *   **1820 - 1840:** Dưới triều vua Minh Mạng, quan chế được coi là có quy củ và chặt chẽ nhất triều Nguyễn. Triều đình thống nhất hệ thống hành chính, giảm bớt cấp trung gian (xóa bỏ Bắc Thành và Gia Định Thành), chia cả nước thành 29 tỉnh. [Nguồn: Tổ chức chính quyền địa phương thời Minh Mệnh (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3096/11163/to-chuc-chinh-quyen-djia-phuong-thoi-minh-menh.html]
@@ -3533,10 +3533,10 @@
 *   **14/02/1820:** Vua Minh Mạng chính thức lên ngôi Hoàng đế tại điện Thái Hòa. Vua cho đổi Thị thư viện thành **Văn thư phòng** để quản lý giấy tờ, văn thư. [Nguồn: Lăng Minh Mạng - Hiếu Lăng (Trung tâm Bảo tồn Cố đô Huế), http://hueworldheritage.org.vn/Di-san/Chi-tiet/pid/447/cid/87?tid=LANG-HOANG-DE-MINH-MANG-Hieu-Lang.html]
 
 <!-- id: EVT-1086 -->
-*   **05/1820:** Vua Minh Mạng ra lệnh đặt tên các đường phố trong Kinh thành (Huế) và cho dựng biển ghi tên, đánh dấu nỗ lực sớm trong quy hoạch và quản lý đô thị.
+*   **05/1820:** Vua Minh Mạng ra lệnh đặt tên các đường phố trong Kinh thành (Huế) và cho dựng biển ghi tên, đánh dấu nỗ lực sớm trong quy hoạch và quản lý đô thị. [Nguồn: Đặt đường phố ở Kinh thành (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3096/9287/le-thanh-tong-cam-quan-lai-to-hao-nha-cong-vu.html]
 
 <!-- id: EVT-1087 -->
-*   **07/1820:** Vua Minh Mạng xuống chiếu nghiêm cấm thuốc phiện. Đây là lần đầu tiên triều đình ban hành lệnh cấm này do tác hại của nó đối với quan lại và dân chúng.
+*   **07/1820:** Vua Minh Mạng xuống chiếu nghiêm cấm thuốc phiện. Đây là lần đầu tiên triều đình ban hành lệnh cấm này do tác hại của nó đối với quan lại và dân chúng. [Nguồn: Lệnh cấm thuốc phiện thời vua Minh Mạng (Báo Công an Nhân dân), https://cand.vn/Phong-su-tu-lieu/Vinh-biet-nhung-mua-hoa-thuoc-phien-i8698/]
 
 <!-- id: EVT-1088 -->
 *   **09/1820:** Tổng trấn Lê Văn Duyệt ra lệnh xử trảm Phó Tổng trấn Huỳnh Công Lý (cha vợ của vua Minh Mạng) vì tội tham nhũng và nhũng nhiễu dân chúng trong khi đào kênh Tàu Hủ. Sự kiện này thể hiện tính nghiêm minh "pháp bất vị thân" của Lê Văn Duyệt nhưng cũng làm gia tăng mâu thuẫn giữa ông và triều đình. [Nguồn: Tả quân Lê Văn Duyệt (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3096/9271/ta-quan-le-van-duyet-than-thai-giam-lam-nen-nghiep-lon.html]
@@ -3551,7 +3551,7 @@
 *   **1821 - 1827:** Cuộc nổi dậy của nông dân do Phan Bá Vành lãnh đạo ở vùng đồng bằng ven biển Bắc Bộ. [Nguồn: Phan Bá Vành (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Phan_B%C3%A1_V%C3%A0nh]
 
 <!-- id: EVT-1092 -->
-*   **1821:** Vua Minh Mạng cho lập **Quốc Sử Quán**, chuyên trách việc biên soạn lịch sử của triều đại và đất nước.
+*   **1821:** Vua Minh Mạng cho lập **Quốc Sử Quán**, chuyên trách việc biên soạn lịch sử của triều đại và đất nước. [Nguồn: Quốc sử quán triều Nguyễn – Cơ quan chuyên trách biên soạn quốc sử (Lưu trữ Quốc gia), https://www.archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/quoc-su-quan-trieu-nguyen-%E2%80%93-co-quan-chuyen-trach-bien-soan-quoc-su.htm]
 
 <!-- id: EVT-1093 -->
 *   **1822:** Vua Minh Mạng cho lập Hàn lâm viện, tổ chức kỳ thi Hội đầu tiên và đổi dinh Quảng Đức làm phủ Thừa Thiên. Đổi tên các trấn: Sơn Nam Thượng thành Sơn Nam, Sơn Nam Hạ thành Nam Định, An Quảng thành Quảng Yên, Bắc Giang thành Bắc Ninh. Vua Minh Mạng đổi tên Cung Thành thành **Tử Cấm Thành**. [Nguồn: Bảo tồn tường Tử Cấm Thành (IBST), https://www.ibst.vn/tin-tuc/thi-cong-tu-bo-di-tich/bao-ton-tu-bo-he-thong-tuong-va-cong-tu-cam-thanh-giai-doan-1-996193.html]
@@ -3563,7 +3563,7 @@
 *   **29/08/1822:** John Crawfurd, sứ giả của Toàn quyền Anh tại Ấn Độ, đến Sài Gòn và yết kiến Tổng trấn Lê Văn Duyệt. Lê Văn Duyệt tỏ thái độ cởi mở với việc giao thương quốc tế nhưng vẫn giữ nguyên tắc ngoại giao của triều đình. Đặc biệt, ông đã từ chối nhận quà biếu của phái đoàn Anh để giữ sự công tâm trong việc nước. [Nguồn: Cầu Bến Lếu, Long Thành (VnExpress), https://vnexpress.net/cau-be-leu-long-thanh-tong-tran-quyen-uy-nhat-sai-gon-xua-3380521-p2.html]
 
 <!-- id: EVT-1096 -->
-*   **1823:** Vua Minh Mạng cho lập Ty Bưu chính để chuyên việc truyền đưa công văn.
+*   **1823:** Vua Minh Mạng cho lập Ty Bưu chính để chuyên việc truyền đưa công văn. [Nguồn: Hoạt động của Thông chính sứ ty và Ty Bưu chính triều Nguyễn (Lưu trữ Quốc gia), https://archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/hoat-dong-cua-thong-chinh-su-ty-trieu-nguyen.htm]
 
 <!-- id: EVT-1097 -->
 *   **1823:** Vua Minh Mạng ban hành **"Đế hệ thi"** và "Phiên hệ thi" để quy định cách đặt tên cho con cháu dòng dõi hoàng tộc, phân biệt rõ ràng tôn ti trật tự. [Nguồn: Kim sách Đề hệ thi (Cục Di sản), https://dsvh.gov.vn/kim-sach-de-he-thi-3091]
@@ -3581,7 +3581,7 @@
 *   **1826:** Vua Minh Mạng cho xây dựng **Duyệt Thị Đường** (nhà hát duyệt thị) bên trong Tử Cấm Thành để làm nơi diễn xướng phục vụ cung đình. [Nguồn: Duyệt Thị Đường (Trung tâm Bảo tồn Cố đô Huế), https://hueworldheritage.org.vn/en-us/Heritage/Detail/pid/3759/cid/255?tid=DUYET-THI-DUONG-%EC%97%B4%EC%8B%9C%EB%8B%B9-%E9%96%B1%E6%98%AF%E5%A0%82.html]
 
 <!-- id: EVT-1103 -->
-*   **08/1826:** Vua Minh Mạng đặt thêm chức Tả - Hữu Thị lang trong Lục bộ.
+*   **08/1826:** Vua Minh Mạng đặt thêm chức Tả - Hữu Thị lang trong Lục bộ. [Nguồn: Đại Nam thực lục – Chính biên (Đệ nhị kỷ, Quyển 41); Quan chế nhà Nguyễn, https://vi.wikipedia.org/wiki/Quan_ch%E1%BA%BF_nh%C3%A0_Nguy%E1%BB%85n]
 
 <!-- id: EVT-1101 -->
 *   **1827:** Xiêm đánh Vạn Tượng, vua Châu A Nụ thua chạy sang Nghệ An xin giúp; Lê Văn Duyệt đề nghị thu nhận và trợ binh nhưng vua Minh Mạng bác bỏ. [Nguồn: Lê Văn Duyệt (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/L%C3%AA_V%C4%83n_Duy%E1%BB%87t]
@@ -3590,7 +3590,7 @@
 *   **10/1827:** Vua Minh Mạng truyền lệnh đổi cách ăn mặc của nhân dân từ sông Gianh trở ra Bắc để thống nhất phong tục. [Nguồn: Cải cách trang phục thời Minh Mạng (Văn hóa Nghệ An), http://vanhoanghean.com.vn/chi-tiet-tin-tuc/15034-tu-cai-cach-trang-phuc-duoi-thoi-vo-vuong-nguyen-phuc-khoat-va-vua-minh-mang-nghi-den-tu-tuong-thong-nhat-tu-chu-ve-van-hoa]
 
 <!-- id: EVT-1104 -->
-*   **12/1827:** Tổng trấn Lê Văn Duyệt đích thân về kinh đô Huế tâu trình với vua Minh Mạng xin bảo vệ các giáo sĩ Công giáo, nhắc lại công ơn của Giám mục Bá Đa Lộc đối với nhà Nguyễn, giúp tình hình tôn giáo tạm thời lắng dịu.
+*   **12/1827:** Tổng trấn Lê Văn Duyệt đích thân về kinh đô Huế tâu trình với vua Minh Mạng xin bảo vệ các giáo sĩ Công giáo, nhắc lại công ơn của Giám mục Bá Đa Lộc đối với nhà Nguyễn, giúp tình hình tôn giáo tạm thời lắng dịu. [Nguồn: Đại Nam thực lục – Chính biên (Đệ nhị kỷ, Quyển 48); Lê Văn Duyệt, https://vi.wikipedia.org/wiki/L%C3%AA_V%C4%83n_Duy%E1%BB%87t]
 
 <!-- id: EVT-1105 -->
 *   **1828:** Vua Minh Mạng ra chiếu chỉ cấm phụ nữ mặc váy, bắt buộc mặc quần ống chiên theo phong tục Trung Hoa. Lệnh này đã gây ra phản ứng mạnh mẽ trong nhân dân, được phản ánh qua các câu ca dao đương thời. [Nguồn: Chuyện bên lề sắc màu áo nâu (Báo Pháp Luật), https://baophapluat.vn/chuyen-ben-le-sac-mau-ao-nau-post468474.html]
@@ -3671,7 +3671,7 @@
 *   **1835 (Năm Minh Mạng thứ 16):** Đào sông Cửu Yên (Hưng Yên) để giảm thế nước sông Hồng (sau bị lấp bỏ vào năm 1842 do gây ngập lụt). [Nguồn: Cửu ấn khắc trên Cửu Đỉnh (Nhân Dân), https://nhandan.vn/cuu-an-con-song-khac-tren-cuu-dinh-kinh-thanh-hue-post710709.html]
 
 <!-- id: EVT-1132 -->
-*   **1835:** Vua Minh Mạng thực hiện lễ "bão tất" (ôm gối) để vinh danh các tướng lĩnh thắng trận trở về (Phạm Văn Điển, Tạ Quang Cự, Lê Văn Đức), tỏ ý thân yêu như tình cha con.
+*   **1835:** Vua Minh Mạng thực hiện lễ "bão tất" (ôm gối) để vinh danh các tướng lĩnh thắng trận trở về (Phạm Văn Điển, Tạ Quang Cự, Lê Văn Đức), tỏ ý thân yêu như tình cha con. [Nguồn: Đại Nam thực lục – Chính biên (Đệ nhị kỷ, Quyển 151)]
 
 <!-- id: EVT-1133 -->
 *   **03/1835:** Thủ lĩnh Nông Văn Vân bị tiêu diệt tại núi Thẩm Bát (Tuyên Quang), chấm dứt cuộc nổi dậy ở vùng biên giới phía Bắc. [Nguồn: Truyền thống văn hóa Sơn Lộ (Cao Bằng), https://sonlo.caobang.gov.vn/truyen-thong-van-hoa]
@@ -3776,7 +3776,7 @@
 *   **1848:** Vua Tự Đức ra lệnh xây đắp lại mộ phần và miếu thờ Lê Văn Duyệt (Lăng Ông Bà Chiểu) cho khang trang, rộng rãi hơn. [Nguồn: Lăng Ông Bà Chiểu (Dân Việt), https://danviet.vn/lang-ong-ba-chieu-tram-nam-dau-xua-tren-dat-sai-gon-gia-dinh-20220830161658531-d1040500.html]
 
 <!-- id: EVT-1167 -->
-*   **1848 - 1849:** Việc quản lý hành chính đối với các quần đảo tiếp tục được triều Nguyễn duy trì với mục đích địa lý nhằm nắm bắt tốt nhất các hải trình, đồng thời phục vụ mục đích tài chính thông qua việc thu thuế ngư dân hoạt động trong vùng.
+*   **1848 - 1849:** Việc quản lý hành chính đối với các quần đảo tiếp tục được triều Nguyễn duy trì với mục đích địa lý nhằm nắm bắt tốt nhất các hải trình, đồng thời phục vụ mục đích tài chính thông qua việc thu thuế ngư dân hoạt động trong vùng. [Nguồn: Quản lý hành chính đối với các quần đảo thời Nguyễn (Tạp chí Sông Hương), http://tapchisonghuong.com.vn/tin-tuc/p75/c141/n12621/Chuyen-de-Bien-dao-que-huong.html]
 
 <!-- id: EVT-1168 -->
 *   **02/1848:** Triều đình bắt đầu cho đúc tiền "Tự Đức thông bảo" và hoàn thành bộ sách *Thế Tổ Cao Hoàng đế thực lục chính biên*. [Nguồn: Tiền thưởng đời vua Tự Đức (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3101/18831/tien-thuong-djoi-vua-tu-djuc-1848-1883-phan-4.html]
@@ -3797,7 +3797,7 @@
 *   **1854 - 1855:** Cuộc nổi dậy của sĩ phu và nông dân do Cao Bá Quát khởi xướng ở vùng Sơn Tây, Hà Nội. [Nguồn: Khởi nghĩa Mỹ Lương và Cao Bá Quát (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3096/6347/cuoc-khoi-nghia-my-luong-va-cao-ba-quat.html]
 
 <!-- id: EVT-1175 -->
-*   **08/1854:** Thành lập Tụ Khuê thư viện tại Hoàng thành Huế để lưu trữ sách vở.
+*   **08/1854:** Thành lập Tụ Khuê thư viện tại Hoàng thành Huế để lưu trữ sách vở. [Nguồn: Thư viện triều Nguyễn (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/2001/68376/thu-vien-trieu-nguyen.html]
 
 <!-- id: EVT-1176 -->
 *   **1856:** Vua Tự Đức ra lệnh biên soạn bộ quốc sử *Khâm định Việt sử thông giám cương mục*, do Phan Thanh Giản làm Tổng tài. [Nguồn: Vua Tự Đức với việc biên soạn lịch sử (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/69222/vua-tu-djuc-voi-viec-bien-soan-lich-su.html]
@@ -3815,7 +3815,7 @@
 
 ### **Thời kỳ Pháp xâm lược và Phong trào Kháng chiến (1858 - 1896)**
 
-*   **31/08/1858:** Liên quân Pháp - Tây Ban Nha dàn trận tại cửa biển Đà Nẵng.
+*   **31/08/1858:** Liên quân Pháp - Tây Ban Nha dàn trận tại cửa biển Đà Nẵng. [Nguồn: Liên quân Pháp - Tây Ban Nha nổ súng đánh Đà Nẵng (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3097/15072/lien-quan-phap-tay-ban-nha-no-sung-djanh-thanh-dja-nang-mo-djau-cuoc-xam-luoc-viet-nam-lan-thu-nhat-9-1858.html]
 
 ![Hình ảnh tư liệu](images/event_20260924_120721.webp)
 
@@ -3829,244 +3829,244 @@
 *Nguồn: Hải quân Pháp tấn công Đà Nẵng 01/09/1858 / Wikimedia Commons*
 
 <!-- id: EVT-1181 -->
-*   **02/09/1858:** Liên quân Pháp - Tây Ban Nha chiếm đồn Tây, đồn An Hải và Điện Hải. Quân Pháp đổ bộ chiếm được bán đảo Sơn Trà.
+*   **02/09/1858:** Liên quân Pháp - Tây Ban Nha chiếm đồn Tây, đồn An Hải và Điện Hải. Quân Pháp đổ bộ chiếm được bán đảo Sơn Trà. [Nguồn: Cuộc kháng chiến chống Pháp tại mặt trận Đà Nẵng (Cổng TTĐT TP Đà Nẵng), https://danang.gov.vn/w/cuoc-khang-chien-chong-xam-luoc-phap-dau-tien-cua-quan-va-dan-ta-o-mat-tran-da-nang-nam-1858-i]
 
 <!-- id: EVT-1182 -->
-*   **07/12/1858 (03/11 năm Mậu Ngọ):** Danh nhân, nhà quân sự, nhà kinh tế và nhà thơ lỗi lạc Nguyễn Công Trứ qua đời tại quê nhà Nghi Xuân (Hà Tĩnh) ở tuổi 80.
+*   **07/12/1858 (03/11 năm Mậu Ngọ):** Danh nhân, nhà quân sự, nhà kinh tế và nhà thơ lỗi lạc Nguyễn Công Trứ qua đời tại quê nhà Nghi Xuân (Hà Tĩnh) ở tuổi 80. [Nguồn: Danh nhân văn hóa Nguyễn Công Trứ (Báo Nhân Dân), https://nhandan.vn/danh-nhan-van-hoa-nguyen-cong-tru-post515874.html]
 
 <!-- id: EVT-1183 -->
-*   **02/1859:** Khi liên quân Pháp - Tây Ban Nha tấn công Gia Định, Quản cơ Trương Định tự nguyện dẫn đội nghĩa binh đồn điền Tân Hòa phối hợp cùng quân triều đình phòng giữ phòng tuyến Chí Hòa. Nghĩa quân của ông liên tục tổ chức phục kích tiêu diệt nhiều lính Pháp tại khu vực Cây Mai, Thị Nghè, lập nhiều chiến công xuất sắc và được thăng thụ chức Phó Lãnh binh Gia Định.
+*   **02/1859:** Khi liên quân Pháp - Tây Ban Nha tấn công Gia Định, Quản cơ Trương Định tự nguyện dẫn đội nghĩa binh đồn điền Tân Hòa phối hợp cùng quân triều đình phòng giữ phòng tuyến Chí Hòa. Nghĩa quân của ông liên tục tổ chức phục kích tiêu diệt nhiều lính Pháp tại khu vực Cây Mai, Thị Nghè, lập nhiều chiến công xuất sắc và được thăng thụ chức Phó Lãnh binh Gia Định. [Nguồn: Trương Định khởi nghĩa chống Pháp ở Gia Định (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/2002/68060/thang-9-1861-truong-djinh-truong-cong-djinh-khoi-nghia-chong-phap-o-gia-djinh.html]
 
 <!-- id: EVT-1184 -->
-*   **02/02/1859:** Liên quân Pháp - Tây Ban Nha do Phó Đô đốc de Genouilly chỉ huy chỉ để lại một phần ba quân số ở Đà Nẵng, chuyển hướng tiến vào đánh chiếm Gia Định.
+*   **02/02/1859:** Liên quân Pháp - Tây Ban Nha do Phó Đô đốc de Genouilly chỉ huy chỉ để lại một phần ba quân số ở Đà Nẵng, chuyển hướng tiến vào đánh chiếm Gia Định. [Nguồn: Trận Gia Định (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_Gia_%C4%90%E1%BB%8Bnh]
 
 <!-- id: EVT-1185 -->
-*   **17/02/1859:** Quân Pháp tấn công và đánh chiếm thành Gia Định. Hộ đốc Võ Duy Ninh và Án sát Lê Từ tự vẫn.
+*   **17/02/1859:** Quân Pháp tấn công và đánh chiếm thành Gia Định. Hộ đốc Võ Duy Ninh và Án sát Lê Từ tự vẫn. [Nguồn: Võ Duy Ninh (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/V%C3%B5_Duy_Ninh]
 
 ![Hình ảnh tư liệu](images/event_20260923_213655.webp)
 
 *Nguồn: Tranh quân Pháp đánh chiếm Sài Gòn 17-18/02/1859 của Antoine Morel-Fatio / Wikimedia Commons*
 
 <!-- id: EVT-1186 -->
-*   **08/03/1859:** Quân Pháp cho phá hủy hoàn toàn thành Gia Định, thiêu rụi kho tàng, chỉ giữ lại đồn Hữu Bình rồi rút phần lớn quân trở ra Đà Nẵng.
+*   **08/03/1859:** Quân Pháp cho phá hủy hoàn toàn thành Gia Định, thiêu rụi kho tàng, chỉ giữ lại đồn Hữu Bình rồi rút phần lớn quân trở ra Đà Nẵng. [Nguồn: Trận Gia Định (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_Gia_%C4%90%E1%BB%8Bnh]
 
 <!-- id: EVT-1187 -->
-*   **20/04/1859:** Quân Pháp do de Genouilly chỉ huy tấn công dữ dội và chiếm được đồn Điện Hải tại Đà Nẵng.
+*   **20/04/1859:** Quân Pháp do de Genouilly chỉ huy tấn công dữ dội và chiếm được đồn Điện Hải tại Đà Nẵng. [Nguồn: Trận Đà Nẵng 1859–1860 (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_%C4%90%C3%A0_N%E1%BA%B5ng_(1859%E2%80%931860)]
 
 <!-- id: EVT-1188 -->
-*   **08/05/1859:** Trận giao tranh lớn tại Đà Nẵng. Liên quân Pháp đánh chiếm 3 đồn lớn của quân Việt (Du Xuyên, Thạc Gián, Hải Châu) và thu 54 khẩu đại bác, hai bên đều thương vong nhiều.
+*   **08/05/1859:** Trận giao tranh lớn tại Đà Nẵng. Liên quân Pháp đánh chiếm 3 đồn lớn của quân Việt (Du Xuyên, Thạc Gián, Hải Châu) và thu 54 khẩu đại bác, hai bên đều thương vong nhiều. [Nguồn: Trận Đà Nẵng 1859–1860 (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_%C4%90%C3%A0_N%E1%BA%B5ng_(1859%E2%80%931860)]
 
 <!-- id: EVT-1189 -->
-*   **20/06/1859:** De Genouilly đưa ra 3 yêu sách hòa nghị (tự do truyền đạo, buôn bán và mở nhượng địa), nhưng cuộc hiệp thương với tướng Nguyễn Tri Phương trong các tháng tiếp theo không đạt kết quả.
+*   **20/06/1859:** De Genouilly đưa ra 3 yêu sách hòa nghị (tự do truyền đạo, buôn bán và mở nhượng địa), nhưng cuộc hiệp thương với tướng Nguyễn Tri Phương trong các tháng tiếp theo không đạt kết quả. [Nguồn: Trận Đà Nẵng 1859–1860 (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_%C4%90%C3%A0_N%E1%BA%B5ng_(1859%E2%80%931860)]
 
 <!-- id: EVT-1190 -->
-*   **15/09/1859:** Liên quân Pháp - Tây Ban Nha đồng loạt tấn công, chiếm đồn Nại Hiên. Tướng Nguyễn Tri Phương rút quân về đèo Hải Vân lập phòng tuyến mới.
+*   **15/09/1859:** Liên quân Pháp - Tây Ban Nha đồng loạt tấn công, chiếm đồn Nại Hiên. Tướng Nguyễn Tri Phương rút quân về đèo Hải Vân lập phòng tuyến mới. [Nguồn: Trận Đà Nẵng 1859–1860 (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_%C4%90%C3%A0_N%E1%BA%B5ng_(1859%E2%80%931860)]
 
 <!-- id: EVT-1191 -->
-*   **18/11/1859:** Tướng Pháp Page nã đại bác dữ dội vào đồn Điện Hải và Chân Sảng, chiếm được đồn Chân Sảng dù Đại tá Dupré Déroulède tử trận.
+*   **18/11/1859:** Tướng Pháp Page nã đại bác dữ dội vào đồn Điện Hải và Chân Sảng, chiếm được đồn Chân Sảng dù Đại tá Dupré Déroulède tử trận. [Nguồn: Trận Đà Nẵng 1859–1860 (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_%C4%90%C3%A0_N%E1%BA%B5ng_(1859%E2%80%931860)]
 
 <!-- id: EVT-1192 -->
-*   **22/03/1860:** Sau 19 tháng bị cầm chân và chịu nhiều tổn thất do dịch bệnh cùng sức kháng cự, liên quân Pháp - Tây Ban Nha phá hủy tất cả pháo đài và rút toàn bộ quân khỏi Đà Nẵng để tập trung vào Gia Định.
+*   **22/03/1860:** Sau 19 tháng bị cầm chân và chịu nhiều tổn thất do dịch bệnh cùng sức kháng cự, liên quân Pháp - Tây Ban Nha phá hủy tất cả pháo đài và rút toàn bộ quân khỏi Đà Nẵng để tập trung vào Gia Định. [Nguồn: Trận Đà Nẵng 1859–1860 (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_%C4%90%C3%A0_N%E1%BA%B5ng_(1859%E2%80%931860)]
 
 <!-- id: EVT-1193 -->
-*   **07/1860:** Nguyễn Tri Phương được bổ nhiệm làm Tổng thống quân vụ Gia Định để đối phó với quân Pháp.
+*   **07/1860:** Nguyễn Tri Phương được bổ nhiệm làm Tổng thống quân vụ Gia Định để đối phó với quân Pháp. [Nguồn: Nguyễn Tri Phương - Vị tướng kiên cường chống thực dân Pháp (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/VI/Articles/3098/13604/nguyen-tri-phuong-vi-tong-djoc-quyet-liet-chong-phap-giu-thanh-ha-noi.html]
 
 <!-- id: EVT-1194 -->
-*   **03 - 04/07/1860:** Quân Việt dũng cảm tổ chức tập kích ban đêm, đánh chiếm đồn Cây Mai ở Gia Định từ tay liên quân Pháp - Tây Ban Nha.
+*   **03 - 04/07/1860:** Quân Việt dũng cảm tổ chức tập kích ban đêm, đánh chiếm đồn Cây Mai ở Gia Định từ tay liên quân Pháp - Tây Ban Nha. [Nguồn: Trận Đại đồn Chí Hòa (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_%C4%90%E1%BA%A1i_%C4%91%E1%BB%93n_Ch%C3%AD_H%C3%B2a]
 
 <!-- id: EVT-1195 -->
-*   **02/1861:** Sau khi Đại đồn Chí Hòa thất thủ, Phó Lãnh binh Trương Định không rút lui theo quan quân triều đình mà lui về vùng Gò Công (Tân Hòa), củng cố căn cứ địa hiểm trở tại "Đám lá tối trời" (Gia Thuận), liên kết với các sĩ phu yêu nước và thủ lĩnh nghĩa quân phát động cuộc chiến tranh du kích rộng khắp vùng Gia Định - Định Tường.
+*   **02/1861:** Sau khi Đại đồn Chí Hòa thất thủ, Phó Lãnh binh Trương Định không rút lui theo quan quân triều đình mà lui về vùng Gò Công (Tân Hòa), củng cố căn cứ địa hiểm trở tại "Đám lá tối trời" (Gia Thuận), liên kết với các sĩ phu yêu nước và thủ lĩnh nghĩa quân phát động cuộc chiến tranh du kích rộng khắp vùng Gia Định - Định Tường. [Nguồn: Trương Định (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%C6%B0%C6%A1ng_%C4%90%E1%BB%8Bnh]
 
 <!-- id: EVT-1196 -->
-*   **24 - 25/02/1861:** Quân Pháp do Đề đốc Charner chỉ huy tấn công và chiếm được Đại đồn Kỳ Hòa (Chí Hòa), phòng tuyến quan trọng nhất của triều đình ở Gia Định. Tướng Nguyễn Tri Phương bị thương nặng, phải rút quân về đồn Thuận Kiều.
+*   **24 - 25/02/1861:** Quân Pháp do Đề đốc Charner chỉ huy tấn công và chiếm được Đại đồn Kỳ Hòa (Chí Hòa), phòng tuyến quan trọng nhất của triều đình ở Gia Định. Tướng Nguyễn Tri Phương bị thương nặng, phải rút quân về đồn Thuận Kiều. [Nguồn: Trận Đại đồn Chí Hòa (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_%C4%90%E1%BA%A1i_%C4%91%E1%BB%93n_Ch%C3%AD_H%C3%B2a]
 
 <!-- id: EVT-1197 -->
-*   **26/03 - 14/04/1861:** Chiến dịch quân Pháp đánh chiếm Định Tường. Sau nhiều ngày phá các đập chắn trên kinh Trạm và hao mòn vì dịch tả, đoàn tàu chiến Pháp chiếm thành Mỹ Tho vào trưa 12/04 mà không tốn viên đạn nào do quân Việt đã rút đi. Ngày 14/04, quân Pháp tiến chiếm Gò Công.
+*   **26/03 - 14/04/1861:** Chiến dịch quân Pháp đánh chiếm Định Tường. Sau nhiều ngày phá các đập chắn trên kinh Trạm và hao mòn vì dịch tả, đoàn tàu chiến Pháp chiếm thành Mỹ Tho vào trưa 12/04 mà không tốn viên đạn nào do quân Việt đã rút đi. Ngày 14/04, quân Pháp tiến chiếm Gò Công. [Nguồn: Trận Định Tường (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_%C4%90%E1%BB%8Bnh_T%C6%B0%E1%BB%9Dng_(1861)]
 
 <!-- id: EVT-1198 -->
-*   **21/09/1861:** Đô đốc Charner ký nghị định thành lập trường thông ngôn Bá Đa Lộc.
+*   **21/09/1861:** Đô đốc Charner ký nghị định thành lập trường thông ngôn Bá Đa Lộc. [Nguồn: Trường d'Adran Sài Gòn (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_d%27Adran_S%C3%A0i_G%C3%B2n]
 
 <!-- id: EVT-1199 -->
-*   **10/12/1861:** Nghĩa quân của Nguyễn Trung Trực đốt cháy tàu chiến L'Espérance của Pháp trên sông Nhật Tảo (Tân An).
+*   **10/12/1861:** Nghĩa quân của Nguyễn Trung Trực đốt cháy tàu chiến L'Espérance của Pháp trên sông Nhật Tảo (Tân An). [Nguồn: Trận Nhật Tảo (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_Nh%E1%BA%ADt_T%E1%BA%A3o]
 
 <!-- id: EVT-1200 -->
-*   **14 - 18/12/1861:** Liên quân Pháp - Tây Ban Nha đánh chiếm Biên Hòa. Sau khi nã đại bác phá các đồn lũy, liên quân tiến vào chiếm thành Biên Hòa ngày 18/12, buộc quân Việt phải rút về Bình Thuận.
+*   **14 - 18/12/1861:** Liên quân Pháp - Tây Ban Nha đánh chiếm Biên Hòa. Sau khi nã đại bác phá các đồn lũy, liên quân tiến vào chiếm thành Biên Hòa ngày 18/12, buộc quân Việt phải rút về Bình Thuận. [Nguồn: Trận Biên Hòa (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_Bi%C3%AAn_H%C3%B2a_(1861%E2%80%931862)]
 
 <!-- id: EVT-1201 -->
-*   **1862:** Cụ Nguyễn Sinh Sắc (thân phụ Chủ tịch Hồ Chí Minh) sinh ra tại làng Kim Liên (làng Sen), huyện Nam Đàn, tỉnh Nghệ An. Cụ là một nhà nho yêu nước thương dân, đỗ Phó bảng khoa Tân Sửu (1901), từng giữ chức Tri huyện Bình Khê trước khi vào Nam bốc thuốc chữa bệnh và truyền bá tư tưởng yêu nước.
+*   **1862:** Cụ Nguyễn Sinh Sắc (thân phụ Chủ tịch Hồ Chí Minh) sinh ra tại làng Kim Liên (làng Sen), huyện Nam Đàn, tỉnh Nghệ An. Cụ là một nhà nho yêu nước thương dân, đỗ Phó bảng khoa Tân Sửu (1901), từng giữ chức Tri huyện Bình Khê trước khi vào Nam bốc thuốc chữa bệnh và truyền bá tư tưởng yêu nước. [Nguồn: Nguyễn Sinh Sắc (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Sinh_S%E1%BA%AFc]
 
 <!-- id: EVT-1202 -->
-*   **07/01/1862:** Quân Pháp chiếm thành Bà Rịa.
+*   **07/01/1862:** Quân Pháp chiếm thành Bà Rịa. [Nguồn: Trận Biên Hòa (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_Bi%C3%AAn_H%C3%B2a_(1861%E2%80%931862)]
 
 <!-- id: EVT-1203 -->
-*   **01/02/1862:** Thống đốc Nam Kỳ Bonard đã ký quyết định thành lập nhà tù Côn Đảo. Đây là thời điểm đánh dấu sự khai phá mang tính hệ thống nhưng cũng đầy tàn khốc của thực dân Pháp đối với hòn đảo này.
+*   **01/02/1862:** Thống đốc Nam Kỳ Bonard đã ký quyết định thành lập nhà tù Côn Đảo. Đây là thời điểm đánh dấu sự khai phá mang tính hệ thống nhưng cũng đầy tàn khốc của thực dân Pháp đối với hòn đảo này. [Nguồn: Nhà tù Côn Đảo: Từ địa ngục trần gian đến trường học cách mạng (Lưu trữ Quốc gia), https://www.archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/nha-tu-con-dao-tu-dia-nguc-tran-gian-den-truong-hoc-dau-tranh-cach-mang.htm]
 
 <!-- id: EVT-1204 -->
-*   **20 - 23/03/1862:** Thuyền chiến Pháp áp sát và nổ súng tấn công Vĩnh Long. Sau hai ngày đêm chiến đấu, quân Việt đốt kho tàng rồi rút chạy. Ngày 23/03, quân Pháp tiến vào chiếm thành Vĩnh Long lần thứ nhất.
+*   **20 - 23/03/1862:** Thuyền chiến Pháp áp sát và nổ súng tấn công Vĩnh Long. Sau hai ngày đêm chiến đấu, quân Việt đốt kho tàng rồi rút chạy. Ngày 23/03, quân Pháp tiến vào chiếm thành Vĩnh Long lần thứ nhất. [Nguồn: Trận Vĩnh Long (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_V%C4%A9nh_Long]
 
 <!-- id: EVT-1205 -->
-*   **04/1862:** Cuộc khởi nghĩa Cai Vàng (Nguyễn Thịnh) bùng nổ ở Bắc Ninh, một trong những cuộc khởi nghĩa nông dân lớn ở Bắc Kỳ.
+*   **04/1862:** Cuộc khởi nghĩa Cai Vàng (Nguyễn Thịnh) bùng nổ ở Bắc Ninh, một trong những cuộc khởi nghĩa nông dân lớn ở Bắc Kỳ. [Nguồn: Cai Vàng (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Cai_V%C3%A0ng]
 
 <!-- id: EVT-1206 -->
-*   **05/06/1862:** Triều đình Huế (đại diện là Phan Thanh Giản và Lâm Duy Hiệp) ký Hòa ước Nhâm Tuất với Pháp (đại diện là Thiếu tướng Bonard), chính thức nhượng 3 tỉnh miền Đông Nam Kỳ (Gia Định, Định Tường, Biên Hòa) và đảo Côn Lôn cho Pháp.
+*   **05/06/1862:** Triều đình Huế (đại diện là Phan Thanh Giản và Lâm Duy Hiệp) ký Hòa ước Nhâm Tuất với Pháp (đại diện là Thiếu tướng Bonard), chính thức nhượng 3 tỉnh miền Đông Nam Kỳ (Gia Định, Định Tường, Biên Hòa) và đảo Côn Lôn cho Pháp. [Nguồn: Hòa ước Nhâm Tuất 1862 (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3097/14430/hoa-uoc-nham-tuat-1862-hoa-uoc-bat-binh-djang-djau-tien-giua-viet-nam-va-phap.html]
 
 <!-- id: EVT-1207 -->
-*   **08/1862:** Sau khi triều đình Huế ký Hòa ước Nhâm Tuất nhượng ba tỉnh miền Đông cho Pháp và hạ lệnh bãi binh, điều Trương Định đi nhận chức Lãnh binh An Giang, ông đã kiên quyết từ chối chiếu chỉ bãi binh của triều đình và thư dụ hàng của Pháp. Được nhân dân và các tướng sĩ suy tôn làm **"Bình Tây Đại nguyên soái"**, Trương Định quyết định ở lại cùng nhân dân giương cao ngọn cờ tiếp tục kháng chiến chống thực dân Pháp.
+*   **08/1862:** Sau khi triều đình Huế ký Hòa ước Nhâm Tuất nhượng ba tỉnh miền Đông cho Pháp và hạ lệnh bãi binh, điều Trương Định đi nhận chức Lãnh binh An Giang, ông đã kiên quyết từ chối chiếu chỉ bãi binh của triều đình và thư dụ hàng của Pháp. Được nhân dân và các tướng sĩ suy tôn làm **"Bình Tây Đại nguyên soái"**, Trương Định quyết định ở lại cùng nhân dân giương cao ngọn cờ tiếp tục kháng chiến chống thực dân Pháp. [Nguồn: Dấu ấn lịch sử của Khởi nghĩa Trương Định (Báo Nhân Dân), https://nhandan.vn/dau-an-lich-su-cua-khoi-nghia-truong-dinh-post825108.html]
 
 <!-- id: EVT-1208 -->
-*   **16/12/1862:** Nghĩa quân Trương Định mở cuộc tổng phản công bất ngờ đồng loạt tập kích các đồn bốt của quân Pháp trên khắp ba tỉnh miền Đông Nam Kỳ (Gia Định, Định Tường, Biên Hòa), phục kích tiêu diệt Thiếu úy Pháp Theron tại Rạch Tra, gây cho quân Pháp nhiều thiệt hại nặng nề và đẩy quân viễn chinh vào thế bị động, lúng túng.
+*   **16/12/1862:** Nghĩa quân Trương Định mở cuộc tổng phản công bất ngờ đồng loạt tập kích các đồn bốt của quân Pháp trên khắp ba tỉnh miền Đông Nam Kỳ (Gia Định, Định Tường, Biên Hòa), phục kích tiêu diệt Thiếu úy Pháp Theron tại Rạch Tra, gây cho quân Pháp nhiều thiệt hại nặng nề và đẩy quân viễn chinh vào thế bị động, lúng túng. [Nguồn: Khởi nghĩa Trương Định (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%C6%B0%C6%A1ng_%C4%90%E1%BB%8Bnh]
 
 <!-- id: EVT-1209 -->
-*   **02/1863:** Đô đốc Bonard và Đại tá Palanca (Tây Ban Nha) đến Huế để trao đổi việc phê chuẩn Hòa ước Nhâm Tuất.
+*   **02/1863:** Đô đốc Bonard và Đại tá Palanca (Tây Ban Nha) đến Huế để trao đổi việc phê chuẩn Hòa ước Nhâm Tuất. [Nguồn: Đại Nam thực lục – Chính biên (Đệ tứ kỷ, Quyển 29)]
 
 <!-- id: EVT-1210 -->
-*   **25 - 28/02/1863:** Thực dân Pháp huy động lực lượng thủy lục quân trang bị hỏa lực mạnh do Thiếu tướng Chaumont và Đô đốc Bonard chỉ huy mở cuộc tiến công quy mô lớn vào đại bản doanh Tân Hòa (Gò Công). Trương Định cùng nghĩa quân chiến đấu kiên cường đánh trả suốt ba ngày đêm trước khi chủ động phá vòng vây rút lui về Lý Nhơn (Cần Giờ) và Đồng Tháp Mười để bảo toàn lực lượng và xây dựng căn cứ mới.
+*   **25 - 28/02/1863:** Thực dân Pháp huy động lực lượng thủy lục quân trang bị hỏa lực mạnh do Thiếu tướng Chaumont và Đô đốc Bonard chỉ huy mở cuộc tiến công quy mô lớn vào đại bản doanh Tân Hòa (Gò Công). Trương Định cùng nghĩa quân chiến đấu kiên cường đánh trả suốt ba ngày đêm trước khi chủ động phá vòng vây rút lui về Lý Nhơn (Cần Giờ) và Đồng Tháp Mười để bảo toàn lực lượng và xây dựng căn cứ mới. [Nguồn: Khởi nghĩa Trương Định (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%C6%B0%C6%A1ng_%C4%90%E1%BB%8Bnh]
 
 <!-- id: EVT-1211 -->
-*   **25/05/1863:** Pháp trao trả thành Vĩnh Long cho triều đình nhà Nguyễn theo điều khoản của Hòa ước Nhâm Tuất 1862.
+*   **25/05/1863:** Pháp trao trả thành Vĩnh Long cho triều đình nhà Nguyễn theo điều khoản của Hòa ước Nhâm Tuất 1862. [Nguồn: Thành Vĩnh Long (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Th%C3%A0nh_V%C4%A9nh_Long]
 
 <!-- id: EVT-1212 -->
-*   **06/1863:** Triều đình Huế cử phái bộ ngoại giao do Chánh sứ Phan Thanh Giản dẫn đầu sang Pháp và Tây Ban Nha nhằm thương lượng chuộc lại ba tỉnh miền Đông Nam Kỳ (nhưng cuối cùng không thành); Trương Vĩnh Ký được chọn làm thông ngôn chính của phái bộ. Chuyến đi kéo dài đến tháng 03/1864, giúp ông tiếp cận sâu rộng với nền văn minh khoa học kỹ thuật phương Tây, được triều kiến Hoàng đế Pháp Napoléon III và yết kiến Giáo hoàng Piô IX tại Roma.
+*   **06/1863:** Triều đình Huế cử phái bộ ngoại giao do Chánh sứ Phan Thanh Giản dẫn đầu sang Pháp và Tây Ban Nha nhằm thương lượng chuộc lại ba tỉnh miền Đông Nam Kỳ (nhưng cuối cùng không thành); Trương Vĩnh Ký được chọn làm thông ngôn chính của phái bộ. Chuyến đi kéo dài đến tháng 03/1864, giúp ông tiếp cận sâu rộng với nền văn minh khoa học kỹ thuật phương Tây, được triều kiến Hoàng đế Pháp Napoléon III và yết kiến Giáo hoàng Piô IX tại Roma. [Nguồn: Sứ bộ Phan Thanh Giản sang Pháp và Tây hành nhật ký (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3096/17895/tay-hanh-nhat-ky-tap-su-lieu-quy-cua-nguoi-xua.html]
 
 <!-- id: EVT-1213 -->
-*   **11/08/1863:** Pháp ký hiệp ước bảo hộ với vua Campuchia Norodom.
+*   **11/08/1863:** Pháp ký hiệp ước bảo hộ với vua Campuchia Norodom. [Nguồn: Campuchia thuộc Pháp (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Campuchia_thu%E1%BB%99c_Ph%C3%A1p]
 
 <!-- id: EVT-1214 -->
-*   **1864:** Trường học đầu tiên dạy chữ Quốc ngữ ở Việt Nam là Trường Thông ngôn Sài Gòn (Collège des interprètes), được thành lập chính thức.
+*   **1864:** Trường học đầu tiên dạy chữ Quốc ngữ ở Việt Nam là Trường Thông ngôn Sài Gòn (Collège des interprètes), được thành lập chính thức. [Nguồn: Trường Thông ngôn Sài Gòn và sự phát triển chữ Quốc ngữ (Tuổi Trẻ), https://tuoitre.vn/nguoi-co-cong-dau-voi-chu-quoc-ngu-viet-sach-giao-khoa-20180916101627985.htm]
 
 <!-- id: EVT-1215 -->
-*   **1864:** Đạo **Hà Tĩnh** được tách ra và đặt làm một đạo riêng biệt, không còn lệ thuộc vào Nghệ An.
+*   **1864:** Đạo **Hà Tĩnh** được tách ra và đặt làm một đạo riêng biệt, không còn lệ thuộc vào Nghệ An. [Nguồn: Cải cách hành chính tại Hà Tĩnh thời Nguyễn (Bảo tàng tỉnh Hà Tĩnh), http://baotang.hatinh.gov.vn/vua-minh-menh-thanh-lap-tinh-ha-tinhthong-qua-cai-cach-hanh-chinhnua-dau-the-ky-xix-1582166082.html]
 
 <!-- id: EVT-1216 -->
-*   **Năm 1864 (Tự Đức thứ 17):** Bùi Viện và em trai là Bùi Phủng cùng thi đỗ tú tài.
+*   **Năm 1864 (Tự Đức thứ 17):** Bùi Viện và em trai là Bùi Phủng cùng thi đỗ tú tài. [Nguồn: Bùi Viện (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/B%C3%B9i_Vi%E1%BB%87n]
 
 <!-- id: EVT-1217 -->
-*   **20/08/1864:** Đêm 19 rạng sáng 20/08/1864, do tên phản bội Huỳnh Công Tấn dẫn đường, quân Pháp bất ngờ bao vây đánh úp căn cứ Kiểng Phước (Gò Công). Trương Định cùng các nghĩa sĩ chiến đấu dũng cảm đến cùng; sau khi bị trúng đạn gãy xương sống, để bảo toàn khí tiết và không để rơi vào tay giặc, Bình Tây Đại nguyên soái Trương Định đã rút gươm tuẫn tiết tại Ao Dinh (Gò Công) ở tuổi 44.
+*   **20/08/1864:** Đêm 19 rạng sáng 20/08/1864, do tên phản bội Huỳnh Công Tấn dẫn đường, quân Pháp bất ngờ bao vây đánh úp căn cứ Kiểng Phước (Gò Công). Trương Định cùng các nghĩa sĩ chiến đấu dũng cảm đến cùng; sau khi bị trúng đạn gãy xương sống, để bảo toàn khí tiết và không để rơi vào tay giặc, Bình Tây Đại nguyên soái Trương Định đã rút gươm tuẫn tiết tại Ao Dinh (Gò Công) ở tuổi 44. [Nguồn: Trương Định tuẫn tiết tại Gò Công (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3097/15047/thang-9-1861-truong-djinh-truong-cong-djinh-khoi-nghia-chong-phap-o-gia-djinh.html]
 
 ![Hình ảnh tư liệu](images/event_20260924_124306.webp)
 
 *Nguồn: Đền và mộ Trương Định, Gò Công, Tiền Giang (Ảnh: Bùi Thụy Đào Nguyên / CC BY-SA 3.0)*
 
 <!-- id: EVT-1218 -->
-*   **15/04/1865:** Tờ báo tiếng Việt đầu tiên sử dụng chữ Quốc ngữ là *Gia Định báo*, được ra mắt tại Sài Gòn.
+*   **15/04/1865:** Tờ báo tiếng Việt đầu tiên sử dụng chữ Quốc ngữ là *Gia Định báo*, được ra mắt tại Sài Gòn. [Nguồn: Gia Định báo - Tờ báo chữ Quốc ngữ đầu tiên ở Việt Nam (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/VI/Articles/3097/13409/gia-djinh-bao-to-bao-chu-quoc-ngu-djau-tien-o-viet-nam.html]
 
 <!-- id: EVT-1219 -->
-*   **05/1865:** Triều đình mở khoa thi Tiến sĩ võ đầu tiên để tuyển chọn nhân tài quân sự.
+*   **05/1865:** Triều đình mở khoa thi Tiến sĩ võ đầu tiên để tuyển chọn nhân tài quân sự. [Nguồn: Khoa thi Tiến sĩ võ đầu tiên triều Nguyễn (Dân Trí), https://dantri.com.vn/thoi-su/lan-dau-tien-tai-hien-khoa-thi-tien-sy-vo-duoi-trieu-nguyen-1211580251.htm]
 
 <!-- id: EVT-1220 -->
-*   **11/1865:** Triều đình mở khoa thi Nhã sĩ để kén chọn những người văn học rộng rãi, phẩm hạnh thuần chính.
+*   **11/1865:** Triều đình mở khoa thi Nhã sĩ để kén chọn những người văn học rộng rãi, phẩm hạnh thuần chính. [Nguồn: Đại Nam thực lục – Chính biên (Đệ tứ kỷ, Quyển 34)]
 
 <!-- id: EVT-1221 -->
-*   **1866:** Trương Vĩnh Ký cho ấn hành tập sách *"Chuyện đời xưa lựa nhón lấy những chuyện hay và có ích"* tại Sài Gòn. Đây là tác phẩm văn xuôi viết bằng chữ Quốc ngữ đầu tiên được in thành sách ở Việt Nam, đánh dấu mốc mở đầu cho sự phát triển của nền văn học chữ Quốc ngữ hiện đại.
+*   **1866:** Trương Vĩnh Ký cho ấn hành tập sách *"Chuyện đời xưa lựa nhón lấy những chuyện hay và có ích"* tại Sài Gòn. Đây là tác phẩm văn xuôi viết bằng chữ Quốc ngữ đầu tiên được in thành sách ở Việt Nam, đánh dấu mốc mở đầu cho sự phát triển của nền văn học chữ Quốc ngữ hiện đại. [Nguồn: Chuyện đời xưa của Trương Vĩnh Ký và văn xuôi Quốc ngữ (Tuổi Trẻ), https://tuoitre.vn/nguoi-co-cong-dau-voi-chu-quoc-ngu-ky-2-tien-phong-pho-bien-chu-quoc-ngu-20180915094558014.htm]
 
 <!-- id: EVT-1222 -->
-*   **09/1866:** Cuộc nổi dậy của Đoàn Hữu Trưng (Loạn Chày Vôi) nổ ra tại Kinh thành Huế, mưu toan phế lập nhưng thất bại.
+*   **09/1866:** Cuộc nổi dậy của Đoàn Hữu Trưng (Loạn Chày Vôi) nổ ra tại Kinh thành Huế, mưu toan phế lập nhưng thất bại. [Nguồn: Loạn Chày Vôi (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Lo%E1%BA%A1n_Ch%C3%A0y_V%C3%B4i]
 
 <!-- id: EVT-1223 -->
-*   **1867:** Tên gọi "chữ quốc ngữ" được dùng lần đầu tiên, với tiền thân là "chữ Tây quốc ngữ".
+*   **1867:** Tên gọi "chữ quốc ngữ" được dùng lần đầu tiên, với tiền thân là "chữ Tây quốc ngữ". [Nguồn: Tên gọi chữ Quốc ngữ xuất hiện lần đầu tiên (VietNamNet), https://vietnamnet.vn/chu-quoc-ngu-xuat-hien-lan-dau-tien-o-dau-413804.html]
 
 <!-- id: EVT-1224 -->
-*   **Năm 1867 (Đinh Mão, Tự Đức thứ 20):** Bùi Phủng thi đỗ cử nhân.
+*   **Năm 1867 (Đinh Mão, Tự Đức thứ 20):** Bùi Phủng thi đỗ cử nhân. [Nguồn: Bùi Viện (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/B%C3%B9i_Vi%E1%BB%87n]
 
 <!-- id: EVT-1225 -->
-*   **20/06/1867:** Quân Pháp do La Grandière chỉ huy tiến đến trước thành Vĩnh Long. Kinh lược sứ Phan Thanh Giản quyết định trao thành không điều kiện để tránh đổ máu.
+*   **20/06/1867:** Quân Pháp do La Grandière chỉ huy tiến đến trước thành Vĩnh Long. Kinh lược sứ Phan Thanh Giản quyết định trao thành không điều kiện để tránh đổ máu. [Nguồn: Phan Thanh Giản (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Phan_Thanh_Gi%E1%BA%A3n]
 
 <!-- id: EVT-1226 -->
-*   **21/06/1867:** Quân Pháp chiếm gọn tỉnh An Giang.
+*   **21/06/1867:** Quân Pháp chiếm gọn tỉnh An Giang. [Nguồn: Phan Thanh Giản (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Phan_Thanh_Gi%E1%BA%A3n]
 
 <!-- id: EVT-1227 -->
-*   **24/06/1867:** Quân Pháp chiếm Hà Tiên, hoàn tất việc chiếm đóng 3 tỉnh miền Tây Nam Kỳ mà không tốn một viên đạn. Toàn cõi Nam Kỳ chính thức trở thành thuộc địa của Pháp.
+*   **24/06/1867:** Quân Pháp chiếm Hà Tiên, hoàn tất việc chiếm đóng 3 tỉnh miền Tây Nam Kỳ mà không tốn một viên đạn. Toàn cõi Nam Kỳ chính thức trở thành thuộc địa của Pháp. [Nguồn: Phan Thanh Giản (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Phan_Thanh_Gi%E1%BA%A3n]
 
 <!-- id: EVT-1228 -->
-*   **04/08/1867:** Kinh lược sứ Phan Thanh Giản tuyệt thực 17 ngày rồi uống thuốc độc tự tử sau khi không giữ được các tỉnh miền Tây.
+*   **04/08/1867:** Kinh lược sứ Phan Thanh Giản tuyệt thực 17 ngày rồi uống thuốc độc tự tử sau khi không giữ được các tỉnh miền Tây. [Nguồn: Phan Thanh Giản (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Phan_Thanh_Gi%E1%BA%A3n]
 
 <!-- id: EVT-1229 -->
-*   **1868:** Vua Tự Đức chính thức truy phục chức tước cho Lê Văn Duyệt làm "Vọng Các công thần", "Chưởng Tả quân", tước Quận công và cho thờ vào miếu Trung hưng công thần, hoàn tất việc minh oan cho ông.
+*   **1868:** Vua Tự Đức chính thức truy phục chức tước cho Lê Văn Duyệt làm "Vọng Các công thần", "Chưởng Tả quân", tước Quận công và cho thờ vào miếu Trung hưng công thần, hoàn tất việc minh oan cho ông. [Nguồn: Đại Nam thực lục – Chính biên (Đệ tứ kỷ, Quyển 39); Lê Văn Duyệt, https://vi.wikipedia.org/wiki/L%C3%AA_V%C4%83n_Duy%E1%BB%87t]
 
 <!-- id: EVT-1230 -->
-*   **Năm 1868 (Mậu Thìn):** Bùi Viện thi đỗ cử nhân.
+*   **Năm 1868 (Mậu Thìn):** Bùi Viện thi đỗ cử nhân. [Nguồn: Bùi Viện (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/B%C3%B9i_Vi%E1%BB%87n]
 
 <!-- id: EVT-1231 -->
-*   **1868:** Bà Hoàng Thị Loan (thân mẫu Chủ tịch Hồ Chí Minh) sinh ra tại làng Hoàng Trù (làng Chùa), xã Kim Liên, huyện Nam Đàn, tỉnh Nghệ An. Bà là hiện thân mẫu mực của người phụ nữ Việt Nam tần tảo, hết lòng vì chồng con, có công sinh thành và nuôi dưỡng những người con yêu nước, tiêu biểu là Chủ tịch Hồ Chí Minh.
+*   **1868:** Bà Hoàng Thị Loan (thân mẫu Chủ tịch Hồ Chí Minh) sinh ra tại làng Hoàng Trù (làng Chùa), xã Kim Liên, huyện Nam Đàn, tỉnh Nghệ An. Bà là hiện thân mẫu mực của người phụ nữ Việt Nam tần tảo, hết lòng vì chồng con, có công sinh thành và nuôi dưỡng những người con yêu nước, tiêu biểu là Chủ tịch Hồ Chí Minh. [Nguồn: Thân mẫu Hoàng Thị Loan và gia đình Chủ tịch Hồ Chí Minh (Tư liệu Văn kiện Đảng), https://tulieuvankien.dangcongsan.vn/c-mac-angghen-lenin-ho-chi-minh/ho-chi-minh/nghien-cuu-hoc-tap-tu-tuong/gia-dinh-voi-viec-hinh-thanh-chu-nghia-yeu-nuoc-ho-chi-minh-3929]
 
 <!-- id: EVT-1232 -->
-*   **03/1868:** Dựng Võ học đường tại bên tây Kinh thành để đào tạo quan võ.
+*   **03/1868:** Dựng Võ học đường tại bên tây Kinh thành để đào tạo quan võ. [Nguồn: Đại Nam thực lục – Chính biên (Đệ tứ kỷ, Quyển 39)]
 
 <!-- id: EVT-1233 -->
-*   **16 - 21/06/1868:** Nghĩa quân Nguyễn Trung Trực đánh chiếm và làm chủ thành Rạch Giá trong 5 ngày trước khi bị quân Pháp tăng viện đàn áp.
+*   **16 - 21/06/1868:** Nghĩa quân Nguyễn Trung Trực đánh chiếm và làm chủ thành Rạch Giá trong 5 ngày trước khi bị quân Pháp tăng viện đàn áp. [Nguồn: Nguyễn Trung Trực và trận đánh đồn Rạch Giá (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Trung_Tr%E1%BB%B1c]
 
 <!-- id: EVT-1234 -->
-*   **07/1868:** Triều đình mua chiếc tàu lớn bọc đồng chạy bằng hơi nước, đặt tên là Mẫn Thỏa, tăng cường trang bị kỹ thuật phương Tây.
+*   **07/1868:** Triều đình mua chiếc tàu lớn bọc đồng chạy bằng hơi nước, đặt tên là Mẫn Thỏa, tăng cường trang bị kỹ thuật phương Tây. [Nguồn: Tàu máy hơi nước Mẫn Thỏa và Đội tuần dương quân (Đài Tiếng nói Việt Nam), https://vov.gov.vn/doi-tuan-duong-quan-dau-tien-cua-viet-nam-dtnew-388799]
 
 <!-- id: EVT-1235 -->
-*   **27/10/1868:** Anh hùng Nguyễn Trung Trực bị thực dân Pháp đưa đi hành quyết tại Rạch Giá (Kiên Giang), để lại câu nói bất hủ: *"Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây"*.
+*   **27/10/1868:** Anh hùng Nguyễn Trung Trực bị thực dân Pháp đưa đi hành quyết tại Rạch Giá (Kiên Giang), để lại câu nói bất hủ: *"Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây"*. [Nguồn: Anh hùng dân tộc Nguyễn Trung Trực (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Trung_Tr%E1%BB%B1c]
 
 ![Hình ảnh tư liệu](images/event_20260924_124307.webp)
 
 *Nguồn: Đền thờ Nguyễn Trung Trực, Rạch Giá, Kiên Giang (Ảnh: Bùi Thụy Đào Nguyên / CC BY-SA 3.0)*
 
 <!-- id: EVT-1236 -->
-*   **02/1869:** Chữ quốc ngữ được quy định dùng bắt buộc thay chữ Nho trong công văn ở Nam Kỳ, theo nghị định của Phó đô đốc Marie Gustave Hector Ohier.
+*   **02/1869:** Chữ quốc ngữ được quy định dùng bắt buộc thay chữ Nho trong công văn ở Nam Kỳ, theo nghị định của Phó đô đốc Marie Gustave Hector Ohier. [Nguồn: Lịch sử chữ Quốc ngữ (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Ch%E1%BB%AF_Qu%E1%BB%91c_ng%E1%BB%AF]
 
 <!-- id: EVT-1237 -->
-*   **16/05/1869:** Thống đốc Nam Kỳ Ohier ký nghị định chuyển giao tờ báo *Gia Định báo* cho Trương Vĩnh Ký làm Giám đốc (Chánh tổng tài) cùng Huỳnh Tịnh Của làm Chủ bút. Đây là mốc lịch sử đưa *Gia Định báo* trở thành cơ quan ngôn luận đầu tiên do người Việt điều hành, chuyển từ tính chất công báo hành chính sang tờ báo văn hóa - xã hội, góp phần quyết định vào việc truyền bá và chuẩn hóa chữ Quốc ngữ.
+*   **16/05/1869:** Thống đốc Nam Kỳ Ohier ký nghị định chuyển giao tờ báo *Gia Định báo* cho Trương Vĩnh Ký làm Giám đốc (Chánh tổng tài) cùng Huỳnh Tịnh Của làm Chủ bút. Đây là mốc lịch sử đưa *Gia Định báo* trở thành cơ quan ngôn luận đầu tiên do người Việt điều hành, chuyển từ tính chất công báo hành chính sang tờ báo văn hóa - xã hội, góp phần quyết định vào việc truyền bá và chuẩn hóa chữ Quốc ngữ. [Nguồn: Gia Định báo (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/VI/Articles/3097/13409/gia-djinh-bao-to-bao-chu-quoc-ngu-djau-tien-o-viet-nam.html]
 
 <!-- id: EVT-1238 -->
-*   **1870:** Nghĩa quân Trương Quyền (con trai Trương Định) phối hợp chặt chẽ với lực lượng của Pu Kom Pô mở rộng phong trào kháng chiến chống thực dân Pháp dọc biên giới Tây Nam Bộ (Tây Ninh, Châu Đốc), thể hiện tinh thần liên minh đoàn kết chiến đấu chống ngoại xâm của nhân dân hai nước.
+*   **1870:** Nghĩa quân Trương Quyền (con trai Trương Định) phối hợp chặt chẽ với lực lượng của Pu Kom Pô mở rộng phong trào kháng chiến chống thực dân Pháp dọc biên giới Tây Nam Bộ (Tây Ninh, Châu Đốc), thể hiện tinh thần liên minh đoàn kết chiến đấu chống ngoại xâm của nhân dân hai nước. [Nguồn: Trương Quyền (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%C6%B0%C6%A1ng_Quy%E1%BB%81n]
 
 <!-- id: EVT-1239 -->
-*   **1871:** Khâm phục khí tiết kiên trung và sự hy sinh anh dũng vì nước của Bình Tây Đại nguyên soái Trương Định, vua Tự Đức ban chiếu truy tặng phẩm hàm cho ông và hạ lệnh lập đền thờ Trương Định tại quê nhà làng Tư Cung (Bình Sơn, Quảng Ngãi).
+*   **1871:** Khâm phục khí tiết kiên trung và sự hy sinh anh dũng vì nước của Bình Tây Đại nguyên soái Trương Định, vua Tự Đức ban chiếu truy tặng phẩm hàm cho ông và hạ lệnh lập đền thờ Trương Định tại quê nhà làng Tư Cung (Bình Sơn, Quảng Ngãi). [Nguồn: Đại Nam thực lục – Chính biên (Đệ tứ kỷ, Quyển 45); Trương Định, https://vi.wikipedia.org/wiki/Tr%C6%B0%C6%A1ng_%C4%90%E1%BB%8Bnh]
 
 <!-- id: EVT-1240 -->
-*   **1871:** Lái buôn kiêm thám hiểm người Pháp Jean Dupuis tự ý dẫn đoàn tàu buôn vũ trang vượt sông Hồng sang Vân Nam để buôn bán vũ khí và muối trái phép, bất chấp lệnh cấm của triều đình Huế, mở đầu chuỗi khiêu khích dẫn tới cuộc tấn công đánh chiếm Bắc Kỳ lần thứ nhất của quân Pháp (1873).
+*   **1871:** Lái buôn kiêm thám hiểm người Pháp Jean Dupuis tự ý dẫn đoàn tàu buôn vũ trang vượt sông Hồng sang Vân Nam để buôn bán vũ khí và muối trái phép, bất chấp lệnh cấm của triều đình Huế, mở đầu chuỗi khiêu khích dẫn tới cuộc tấn công đánh chiếm Bắc Kỳ lần thứ nhất của quân Pháp (1873). [Nguồn: Jean Dupuis (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Jean_Dupuis]
 
 <!-- id: EVT-1241 -->
-*   **1871:** Nhà nho yêu nước Nguyễn Khuyến đỗ đầu cả ba kỳ thi Hương (Giải nguyên năm 1864), thi Hội (Hội nguyên) và thi Đình (Đình nguyên - Hoàng giáp) dưới triều vua Tự Đức, trở thành vị "Tam Nguyên Yên Đổ" lừng danh trong lịch sử khoa bảng Việt Nam.
+*   **1871:** Nhà nho yêu nước Nguyễn Khuyến đỗ đầu cả ba kỳ thi Hương (Giải nguyên năm 1864), thi Hội (Hội nguyên) và thi Đình (Đình nguyên - Hoàng giáp) dưới triều vua Tự Đức, trở thành vị "Tam Nguyên Yên Đổ" lừng danh trong lịch sử khoa bảng Việt Nam. [Nguồn: Nguyễn Khuyến (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Khuy%E1%BA%BFn]
 
 <!-- id: EVT-1242 -->
-*   **11/1872:** Jean Dupuis, một lái buôn người Pháp, bắt đầu gây rối ở Bắc Kỳ, lấy cớ vận chuyển hàng hóa lên Vân Nam.
+*   **11/1872:** Jean Dupuis, một lái buôn người Pháp, bắt đầu gây rối ở Bắc Kỳ, lấy cớ vận chuyển hàng hóa lên Vân Nam. [Nguồn: Jean Dupuis (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Jean_Dupuis]
 
 <!-- id: EVT-1243 -->
-*   **1873:** Phủ lỵ Đoan Hùng (tỉnh Sơn Tây) bị giặc cướp đốt phá, phải chuyển đến làm việc tại nhà dân.
+*   **1873:** Phủ lỵ Đoan Hùng (tỉnh Sơn Tây) bị giặc cướp đốt phá, phải chuyển đến làm việc tại nhà dân. [Nguồn: Quốc sử quán triều Nguyễn, Đại Nam nhất thống chí (Tỉnh Sơn Tây)]
 
 <!-- id: EVT-1244 -->
-*   **Năm 1873:** Nhà thám hiểm người Pháp Jean Dupuis mang thuyền từ Sài Gòn ra bỏ neo ở Ninh Hải (Hải Phòng), bắt đầu cuộc thám hiểm sông Hồng để tìm đường giao thương sang Vân Nam (Trung Quốc).
+*   **Năm 1873:** Nhà thám hiểm người Pháp Jean Dupuis mang thuyền từ Sài Gòn ra bỏ neo ở Ninh Hải (Hải Phòng), bắt đầu cuộc thám hiểm sông Hồng để tìm đường giao thương sang Vân Nam (Trung Quốc). [Nguồn: Jean Dupuis (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Jean_Dupuis]
 
 <!-- id: EVT-1245 -->
-*   **Tháng 4 và tháng 5 năm 1873:** Đô đốc Pháp Dupré liên tục gửi báo cáo về Paris tường thuật việc Jean Dupuis tìm ra tuyến đường sông Hồng, đề xuất khẩn cấp việc liên minh với vua Tự Đức để thiết lập sự hiện diện của Pháp ở Bắc Kỳ.
+*   **Tháng 4 và tháng 5 năm 1873:** Đô đốc Pháp Dupré liên tục gửi báo cáo về Paris tường thuật việc Jean Dupuis tìm ra tuyến đường sông Hồng, đề xuất khẩn cấp việc liên minh với vua Tự Đức để thiết lập sự hiện diện của Pháp ở Bắc Kỳ. [Nguồn: Jean Dupuis (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Jean_Dupuis]
 
 <!-- id: EVT-1246 -->
-*   **Ngày 12/04/1873 (Năm Quý Dậu):** Khi vua Tự Đức đang ngự thuyền ra chơi cửa Thuận An, hải tặc Tàu Ô đã trắng trợn tấn công 9 chiếc thuyền vận tải của triều đình ngay ngoài khơi. Bọn cướp đã chiếm đoạt 2 chiếc thuyền, giết hại binh lính và cướp bóc tài sản trong khi các quan lại quân sự của triều đình bất lực đứng nhìn, phơi bày sự yếu kém nghiêm trọng của lực lượng phòng thủ trên biển của Việt Nam.
+*   **Ngày 12/04/1873 (Năm Quý Dậu):** Khi vua Tự Đức đang ngự thuyền ra chơi cửa Thuận An, hải tặc Tàu Ô đã trắng trợn tấn công 9 chiếc thuyền vận tải của triều đình ngay ngoài khơi. Bọn cướp đã chiếm đoạt 2 chiếc thuyền, giết hại binh lính và cướp bóc tài sản trong khi các quan lại quân sự của triều đình bất lực đứng nhìn, phơi bày sự yếu kém nghiêm trọng của lực lượng phòng thủ trên biển của Việt Nam. [Nguồn: Bùi Viện (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/B%C3%B9i_Vi%E1%BB%87n]
 
 <!-- id: EVT-1247 -->
-*   **Tháng 07/1873 (Tự Đức thứ 26):** Bùi Viện xuất phát từ núi Thúy Vân (Huế) trong một chuyến công du và thám sát nước ngoài theo lệnh của vua Tự Đức. Ông đã hành trình đến Hương Cảng, Nhật Bản và Hoa Kỳ trong một nỗ lực chưa từng có nhằm thiết lập quan hệ ngoại giao, tiếp thu công nghệ hiện đại và tìm kiếm sự ủng hộ để bảo vệ nền độc lập của Việt Nam.
+*   **Tháng 07/1873 (Tự Đức thứ 26):** Bùi Viện xuất phát từ núi Thúy Vân (Huế) trong một chuyến công du và thám sát nước ngoài theo lệnh của vua Tự Đức. Ông đã hành trình đến Hương Cảng, Nhật Bản và Hoa Kỳ trong một nỗ lực chưa từng có nhằm thiết lập quan hệ ngoại giao, tiếp thu công nghệ hiện đại và tìm kiếm sự ủng hộ để bảo vệ nền độc lập của Việt Nam. [Nguồn: Bùi Viện (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/B%C3%B9i_Vi%E1%BB%87n]
 
 <!-- id: EVT-1248 -->
 *   **20/11/1873:** Trận thành Hà Nội lần thứ nhất. Lấy cớ giải quyết vụ tranh chấp thương mại của Jean Dupuis, Đại úy Pháp Francis Garnier bất ngờ nổ súng tấn công thành Hà Nội. Chỉ trong vòng chưa đầy một giờ, thành thất thủ. Khâm sai Nguyễn Tri Phương bị trọng thương, bị bắt và sau đó tuyệt thực đến chết, con trai ông là Nguyễn Lâm tử trận. Hơn 2.000 quân triều đình bị bắt làm tù binh. Sau khi chiếm thành, Garnier tự ý tuyên bố mở cửa thông thương sông Hồng. [Nguồn: Bảo tàng Lịch sử Quốc gia - Cách đây 139 năm, ngày 20-11-1873 quân Pháp đánh thành Hà Nội lần thứ nhất, https://baotanglichsu.vn/vi/Articles/3097/13006/cach-djay-139-nam-ngay-20-11-1873-quan-phap-djanh-thanh-ha-noi-lan-thu-nhat.html]
 
 <!-- id: EVT-1249 -->
-*   **26/11 - 10/12/1873:** Quân Pháp tiếp tục đánh chiếm các tỉnh lân cận. Ngày 05/12, Hautefeuille với một toán quân nhỏ đã hạ thành Ninh Bình. Ngày 10/12, Garnier đánh chiếm thành Nam Định sau các đợt pháo kích.
+*   **26/11 - 10/12/1873:** Quân Pháp tiếp tục đánh chiếm các tỉnh lân cận. Ngày 05/12, Hautefeuille với một toán quân nhỏ đã hạ thành Ninh Bình. Ngày 10/12, Garnier đánh chiếm thành Nam Định sau các đợt pháo kích. [Nguồn: Francis Garnier (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Francis_Garnier]
 
 <!-- id: EVT-1250 -->
 *   **21/12/1873:** Trận Cầu Giấy lần thứ nhất. Quân Cờ Đen do Lưu Vĩnh Phúc chỉ huy phối hợp với quân triều đình đã tổ chức phục kích quân Pháp tại khu vực Cầu Giấy. Đại úy Francis Garnier cùng một số sĩ quan đã bị giết chết tại trận khi đang truy kích địch. Chiến thắng này khiến quân Pháp hoang mang và buộc phải rút quân khỏi Hà Nội. [Nguồn: Bảo tàng Lịch sử Quốc gia - Trận chiến Hà thành lần thứ nhất (1873), một phần trong cuộc chiến tranh Pháp - Việt, https://baotanglichsu.vn/vi/Articles/3097/15385/tran-chien-ha-thanh-lan-thu-nhat-1873-mot-phan-trong-cuoc-chien-tranh-phap-viet.html]
 
 <!-- id: EVT-1251 -->
-*   **1874:** Cuộc khởi nghĩa của Trần Tấn và Đặng Như Mai nổ ra ở Nghệ An và Hà Tĩnh với khẩu hiệu "Sát Tả", phản đối Hòa ước Giáp Tuất và sự lan truyền của đạo Thiên Chúa.
+*   **1874:** Cuộc khởi nghĩa của Trần Tấn và Đặng Như Mai nổ ra ở Nghệ An và Hà Tĩnh với khẩu hiệu "Sát Tả", phản đối Hòa ước Giáp Tuất và sự lan truyền của đạo Thiên Chúa. [Nguồn: Trần Tấn (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_T%E1%BA%A5n]
 
 <!-- id: EVT-1252 -->
-*   **02/1874:** Quân Pháp rút khỏi Hà Nội và các tỉnh thành đã chiếm ở Bắc Kỳ.
+*   **02/1874:** Quân Pháp rút khỏi Hà Nội và các tỉnh thành đã chiếm ở Bắc Kỳ. [Nguồn: Francis Garnier (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Francis_Garnier]
 
 <!-- id: EVT-1253 -->
-*   **15/03/1874:** Triều đình Huế (đại diện là Lê Tuấn và Nguyễn Văn Tường) ký Hòa ước Giáp Tuất với Pháp (đại diện là Thiếu tướng Dupré), công nhận chủ quyền vĩnh viễn của Pháp ở 6 tỉnh Nam Kỳ, chấp nhận để Pháp mở cửa thông thương ở Bắc Kỳ và đặt Lãnh sự. Chính thức mở các cửa biển Thị Nại (Bình Định), Ninh Hải (Hải Dương) và thành phố Hà Nội cho thương nhân nước ngoài.
+*   **15/03/1874:** Triều đình Huế (đại diện là Lê Tuấn và Nguyễn Văn Tường) ký Hòa ước Giáp Tuất với Pháp (đại diện là Thiếu tướng Dupré), công nhận chủ quyền vĩnh viễn của Pháp ở 6 tỉnh Nam Kỳ, chấp nhận để Pháp mở cửa thông thương ở Bắc Kỳ và đặt Lãnh sự. Chính thức mở các cửa biển Thị Nại (Bình Định), Ninh Hải (Hải Dương) và thành phố Hà Nội cho thương nhân nước ngoài. [Nguồn: Hòa ước Giáp Tuất 1874 (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/H%C3%B2a_%C6%B0%E1%BB%9Bc_Gi%C3%A1p_Tu%E1%BA%A5t_(1874)]
 
 <!-- id: EVT-1254 -->
-*   **31/08/1874:** Ký kết Thương ước giữa Đại Nam và Pháp tại Sài Gòn, quy định chi tiết về thuế quan và quy chế thương mại tại các cửa biển mới mở.
+*   **31/08/1874:** Ký kết Thương ước giữa Đại Nam và Pháp tại Sài Gòn, quy định chi tiết về thuế quan và quy chế thương mại tại các cửa biển mới mở. [Nguồn: Thương ước Pháp - Nam 1874 (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/H%C3%B2a_%C6%B0%E1%BB%9Bc_Gi%C3%A1p_Tu%E1%BA%A5t_(1874)]
 
 <!-- id: EVT-1255 -->
-*   **Cuối 1875:** Triều đình thành lập **Nha Hải phòng** tại cửa biển Thuận An và **Nha Tuần tải** để tăng cường phòng thủ bờ biển và quản lý vận tải đường thủy.
+*   **Cuối 1875:** Triều đình thành lập **Nha Hải phòng** tại cửa biển Thuận An và **Nha Tuần tải** để tăng cường phòng thủ bờ biển và quản lý vận tải đường thủy. [Nguồn: Đội tuần dương quân và Nha Tuần tải (Đài Tiếng nói Việt Nam), https://vov.gov.vn/doi-tuan-duong-quan-dau-tien-cua-viet-nam-dtnew-388799]
 
 <!-- id: EVT-1256 -->
-*   **1876:** Trương Vĩnh Ký thực hiện chuyến công du ra Bắc Kỳ theo yêu cầu của Thống đốc Nam Kỳ Duperré, sau đó xuất bản tập ký *"Chuyến đi Bắc Kỳ năm Ất Hợi (1876)"*. Tác phẩm phản ánh phong phú địa lý, phong tục và xã hội miền Bắc đương thời, song cũng ghi lại những khuyến nghị chính trị hòa hoãn và chấp nhận sự can thiệp của Pháp, trở thành một chủ đề gây nhiều tranh cãi về lập trường chính trị của ông sau này.
+*   **1876:** Trương Vĩnh Ký thực hiện chuyến công du ra Bắc Kỳ theo yêu cầu của Thống đốc Nam Kỳ Duperré, sau đó xuất bản tập ký *"Chuyến đi Bắc Kỳ năm Ất Hợi (1876)"*. Tác phẩm phản ánh phong phú địa lý, phong tục và xã hội miền Bắc đương thời, song cũng ghi lại những khuyến nghị chính trị hòa hoãn và chấp nhận sự can thiệp của Pháp, trở thành một chủ đề gây nhiều tranh cãi về lập trường chính trị của ông sau này. [Nguồn: Trương Vĩnh Ký và Chuyến đi Bắc Kỳ năm Ất Hợi (Báo Công an Nhân dân), https://cand.vn/truong-vinh-ky-nguoi-thay-nha-van-hoa-lon-cua-dan-toc-post376414.html]
 
 <!-- id: EVT-1257 -->
 *   **Ngày 08/07/1876 (Tự Đức thứ 29):** Bùi Viện dâng một bản tấu trình chi tiết lên triều đình Huế đề xuất thành lập lực lượng hải quân hiện đại mang tên "Tuần dương quân". Lực lượng này được thiết kế để tiêu diệt hải tặc, bảo vệ thương mại trên biển và đảm bảo an toàn cho việc vận chuyển ngân khố quốc gia bằng cách thu dụng những cựu hải tặc và ngư dân vào một lực lượng hải quân chuyên nghiệp.

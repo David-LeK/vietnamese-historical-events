@@ -3305,10 +3305,10 @@
 *   **1800:** Two key Tay Son generals, Tran Quang Dieu and Vu Van Dung, led troops to besiege Binh Dinh Citadel. [Source: General Vo Tanh Defending Quy Nhon (National Archives), https://archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/danh-tuong-vo-tanh-nguoi-tran-thu-thanh-quy-nhon.htm]
 
 <!-- id: EVT-1015 -->
-*   **1800:** Princess **Ngoc Huyen** (daughter of Lord Nguyen Phuc Khoat, known as Nun Van Duong), operating a spy network for Nguyen Anh in Phu Xuan, sent critical maps of the Tay Son defenses at Tu Hien and Thuan An estuaries, aiding the upcoming Nguyen offensive.
+*   **1800:** Princess **Ngoc Huyen** (daughter of Lord Nguyen Phuc Khoat, known as Nun Van Duong), operating a spy network for Nguyen Anh in Phu Xuan, sent critical maps of the Tay Son defenses at Tu Hien and Thuan An estuaries, aiding the upcoming Nguyen offensive. [Source: Female Spy Under the Vietnamese Dynasties (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/14535/nga-mu-truoc-nu-gian-djiep-xinh-tai-duoi-vuong-trieu-vn.html]
 
 <!-- id: EVT-1016 -->
-*   **19th century:** Under the Nguyen Dynasty, out of nearly 4 million mau of registered land nationwide, private land accounted for 81%, while public and other types of land accounted for 19%.
+*   **19th century:** Under the Nguyen Dynasty, out of nearly 4 million mau of registered land nationwide, private land accounted for 81%, while public and other types of land accounted for 19%. [Source: History and Development of Land Administration (Nong Lam University HCMC), https://lrem.hcmuaf.edu.vn/lrem-19967-1/vn/lich-su-hinh-thanh-va-phattrien-nganh-quan-ly-dat-dai-viet-nam.html]
 
 <!-- id: EVT-1017 -->
 *   **Feb. 27, 1801:** The Great Naval Battle of Thi Nai took place. The Nguyen navy, commanded by Nguyen Anh and Le Van Duyet, launched a massive surprise attack against the Tay Son fleet defending the Thi Nai lagoon. Utilizing the wind and fire ships, the Nguyen forces completely destroyed the Tay Son naval capabilities, burning over 700 ships and capturing numerous cannons. This decisive victory, known as the "First Martial Achievement" of the Nguyen dynasty, decimated the Tay Son's naval forces and paved the way for the capture of Phu Xuan. [Source: Thi Nai Battle 1801 (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_Th%E1%BB%8B_N%E1%BA%A1i_(1801)]
@@ -3320,7 +3320,7 @@
 *   **Jul. 7, 1801:** (25th-27th of the 5th lunar month) Ngo Tung Chau took poison two days before Vo Tanh set himself ablaze to defend Binh Dinh Citadel, allowing the main Nguyen army to focus on capturing Phu Xuan. [Source: General Vo Tanh Defending Quy Nhon (National Archives), https://archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/danh-tuong-vo-tanh-nguoi-tran-thu-thanh-quy-nhon.htm]
 
 <!-- id: EVT-1020 -->
-*   **Late 19th century:** The French colonialists began exploiting resources on Phu Quoc Island, such as coconuts and pepper, and established a prison camp.
+*   **Late 19th century:** The French colonialists began exploiting resources on Phu Quoc Island, such as coconuts and pepper, and established a prison camp. [Source: History of Phu Quoc (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Ph%C3%BA_Qu%E1%BB%91c#L%E1%BB%8Bch_s%E1%BB%AD]
 
 <!-- id: EVT-1021 -->
 
@@ -3348,7 +3348,7 @@
 *   **Jun. 1802:** After Binh Dinh Citadel fell, Nguyen Anh officially ascended the throne as Emperor in Phu Xuan, establishing the era name Gia Long. [Source: Emperor Gia Long 1802-1820 (Hue Heritage Centre), https://hueworldheritage.org.vn/Di-san/Chi-tiet/pid/2843/cid/149?tid=1-Hoang-de-Gia-Long-1802-1820.html]
 
 <!-- id: EVT-1027 -->
-*   **Jun. 16, 1802:** In the retreat to the North, General Nguyen Van Tuyet (Do Doc Tuyet) died in battle at Xuong Giang protecting King Canh Thinh. Empress Dowager Bui Thi Nhan, along with female generals Tran Thi Lan and Nguyen Thi Dung, committed suicide to avoid capture.
+*   **Jun. 16, 1802:** In the retreat to the North, General Nguyen Van Tuyet (Do Doc Tuyet) died in battle at Xuong Giang protecting King Canh Thinh. Empress Dowager Bui Thi Nhan, along with female generals Tran Thi Lan and Nguyen Thi Dung, committed suicide to avoid capture. [Source: The Five Phoenixes of Tay Son (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13766/tay-son-that-ho-tuong-ky-5-tay-son-ngu-phung-thu.html]
 
 <!-- id: EVT-1028 -->
 *   **Jul. 20, 1802:** Nguyen Anh entered Thang Long citadel, inheriting the fruits of national unification initiated by the Tay Son movement and completing the administrative and territorial reunification of the country, officially ending the Tay Son dynasty. Before the capture, the advancing Nguyen forces had already imposed heavy contributions on the northern population. King Canh Thinh and prominent generals were captured. Gia Long also ordered the exhumation of the graves of Nguyen Nhac and Nguyen Hue, pounding their bones into powder and imprisoning their skulls in a dungeon. This marked the beginning of the Nguyen Dynasty's rule over a fully unified Vietnam stretching from the North to the South. [Source: Thang Long - Hanoi Under the Nguyen (Thang Long Heritage), https://hoangthanhthanglong.vn/thang-long-ha-noi-thoi-nguyen/]
@@ -3358,13 +3358,13 @@
 *Source: Doan Gate, Thang Long Imperial Citadel, Hanoi (Photo: Ahia / CC BY 2.0)*
 
 <!-- id: EVT-1029 -->
-*   **Aug. 1802:** Emperor Gia Long ordered the compilation and promulgation of the first 15 laws regarding litigation.
+*   **Aug. 1802:** Emperor Gia Long ordered the compilation and promulgation of the first 15 laws regarding litigation. [Source: Emperor Gia Long and the Establishment of the Nguyen Dynasty (National Archives of Vietnam), https://archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/hoang-de-gia-long-va-cong-cuoc-khai-lap-trieu-nguyen-200-nam-nhin-lai-ky-ii-cong-cuoc-kien-thiet-trieu-nguyen.htm]
 
 <!-- id: EVT-1030 -->
 *   **Nov. 20, 1802 (Nov. 6, Lunar Year of the Dog):** Emperor Gia Long held a formal victory ritual at the Ancestral Temple in Phu Xuan, executing Emperor Canh Thinh (Nguyen Quang Toan), members of the Tay Son royal family, and prominent commanders. Renowned general **Tran Quang Dieu** was executed, while female commander **Bui Thi Xuan** and her daughter were trampled by war elephants, definitively ending the 24-year reign of the Tay Son Dynasty. [Source: Bui Thi Xuan (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/B%C3%B9i_Th%E1%BB%8B_Xu%C3%A2n]
 
 <!-- id: EVT-1031 -->
-*   **1803:** Emperor Gia Long ordered the reconstruction of the **Thang Long Citadel** (Hanoi Citadel). He set the salary regulations for officials and soldiers in the Northern Citadel. The court established Trang Tien in Thang Long to mint "Gia Long Thong Bao" coins.
+*   **1803:** Emperor Gia Long ordered the reconstruction of the **Thang Long Citadel** (Hanoi Citadel). He set the salary regulations for officials and soldiers in the Northern Citadel. The court established Trang Tien in Thang Long to mint "Gia Long Thong Bao" coins. [Source: Thang Long - Hanoi in the Nguyen Dynasty (Thang Long - Hanoi Heritage Conservation Center), https://hoangthanhthanglong.vn/thang-long-ha-noi-thoi-nguyen/]
 
 <!-- id: EVT-1032 -->
 *   **1803 - 1808:** General Le Van Duyet was dispatched to suppress the uprising of the "Thach Bich savages" (ethnic minorities) in the Quang Ngai region, stabilizing the border areas. [Source: Le Van Duyet (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/L%C3%AA_V%C4%83n_Duy%E1%BB%87t]
@@ -3379,7 +3379,7 @@
 *   **Jul. 1803:** Emperor Gia Long re-established the Hoang Sa and Bac Hai flotillas, appointing Officer Vo Van Phu as Commander of the Sa Ky port and head of the Hoang Sa team to continue maritime surveys, patrols, and salvage operations in the Paracel Islands. [Source: Gia Long Sent Troops to Hoang Sa 3 Times (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/8306/vua-gia-long-3-lan-phai-quan-ra-hoang-sa.html]
 
 <!-- id: EVT-1036 -->
-*   **1804:** A formal regulation was issued standardizing the "cheo" (marriage tax) based on wealth (1 quan 5 tien for the rich, 6 tien for middle-class, 3 tien for the poor), and explicitly doubling the tax for marrying outside the village to preserve village cohesion.
+*   **1804:** A formal regulation was issued standardizing the "cheo" (marriage tax) based on wealth (1 quan 5 tien for the rich, 6 tien for middle-class, 3 tien for the poor), and explicitly doubling the tax for marrying outside the village to preserve village cohesion. [Source: Tien cheo (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Ti%E1%BB%81n_cheo]
 
 <!-- id: EVT-1037 -->
 *   **1804:** Emperor Gia Long officially established the national title **"Viet Nam"** (following formal recognition and the arrival of an investiture mission from the Qing dynasty). Despite the Nguyen court's intense animosity toward the defeated Tay Son, Gia Long sought to reconcile with Northern literati and required an elite Confucian master with peerless diplomatic stature before the Qing envoys; thus, he temporarily summoned former Tay Son Minister of Rites Phan Huy Ich to Thang Long to draft the historic "Proclamation Establishing the National Name" promulgated to all subjects. Fulfilling this solemn duty for national prestige, Phan Huy Ich firmly declined official court appointments under the Nguyen to preserve the integrity of a Confucian scholar, returning to permanent seclusion in Sai Son and Thu Hoach. The court also cast official seals for the six ministries, instituted communal land allocation, commenced construction of the **Palace City** (Cung Thanh, renamed Purple Forbidden City in 1822), relocated An Quang garrison to Quynh Lau (Quang Yen), and dismantled Tuong Long Tower for building materials. [Source: Gia Long and the Name Viet Nam (Thanh Nien), https://thanhnien.vn/vua-gia-long-voi-quoc-hieu-viet-nam-1852410032347117.htm]
@@ -3391,7 +3391,7 @@
 *   **Sep. 16, 1804 (13th of the 8th lunar month):** The remains of King Le Chieu Thong, the Queen Mother, and the Crown Prince were returned to the Vietnamese border from China. [Source: The Last King of the Later Le (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/6822/an-xua-chuyen-ve-ong-vua-cuoi-cung-nha-hau-le.html]
 
 <!-- id: EVT-1040 -->
-*   **Nov. 14, 1804 (13th of the 10th lunar month):** Imperial Concubine Nguyen Thi Kim committed suicide by poison to follow King Le Chieu Thong, after his remains were brought back to Thang Long and a funeral ceremony was held.
+*   **Nov. 14, 1804 (13th of the 10th lunar month):** Imperial Concubine Nguyen Thi Kim committed suicide by poison to follow King Le Chieu Thong, after his remains were brought back to Thang Long and a funeral ceremony was held. [Source: Nguyen Thi Kim (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Th%E1%BB%8B_Kim_(v%E1%BB%A3_Chi%C3%AAu_Th%E1%BB%91ng)]
 
 <!-- id: EVT-1041 -->
 *   **Dec. 25, 1804 (24th of the 11th lunar month):** The remains of the Le royals were buried at Ban Thach mountain (Thanh Hoa), next to the mausoleum of King Le Hien Tong. [Source: The Last King of the Later Le (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/6822/an-xua-chuyen-ve-ong-vua-cuoi-cung-nha-hau-le.html]
@@ -3428,10 +3428,10 @@
 *   **1808:** Gia Long changed Gia Dinh Garrison to Gia Dinh Citadel. [Source: Early Gia Dinh History (Nong Nghiep Moi Truong), https://nongnghiepmoitruong.vn/tri-thuc-nong-dan/gia-dinh-dau-roi-d332029.html]
 
 <!-- id: EVT-1050 -->
-*   **1808 - 1819:** The uprising of the Tho chieftain Quach Tat Thuc in the Son Am region (now part of Ninh Binh, Hoa Binh).
+*   **1808 - 1819:** The uprising of the Tho chieftain Quach Tat Thuc in the Son Am region (now part of Ninh Binh, Hoa Binh). [Source: Veritable Records of Dai Nam – Main Part (First Chronicle, Vol. 37); Gia Long, https://vi.wikipedia.org/wiki/Gia_Long]
 
 <!-- id: EVT-1051 -->
-*   **1809:** Emperor Gia Long appointed all official positions for the six ministries.
+*   **1809:** Emperor Gia Long appointed all official positions for the six ministries. [Source: Mandarin System of the Nguyen Dynasty (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Quan_ch%E1%BA%BF_nh%C3%A0_Nguy%E1%BB%85n]
 
 <!-- id: EVT-1052 -->
 *   **1809 - 1819:** Scholar Phan Huy Chu compiled the **"Lich Trieu Hien Chuong Loai Chi"** (Regulations of Successive Dynasties by Subject), a monumental encyclopedic work on Vietnam's institutions and history. [Source: Scholar Phan Huy Chu (CAND), https://cand.vn/phan-huy-chu-van-chuong-net-dat-post704944.html]
@@ -3449,7 +3449,7 @@
 *   **Jul. 1812:** The law code *Hoang Viet luat le* (commonly known as the Gia Long Code) was completed. [Source: Law Codification Under Vietnamese Monarchies (Vietnam Law Magazine), https://vietnamlawmagazine.vn/law-codification-under-vietnamese-monarchies-71420.html]
 
 <!-- id: EVT-1058 -->
-*   **Dec. 1812:** Emperor Gia Long issued an edict temporarily reusing the national title **Dai Viet**.
+*   **Dec. 1812:** Emperor Gia Long issued an edict temporarily reusing the national title **Dai Viet**. [Source: Phan Thuc Truc, Quoc su di bien (Culture and Information Publishing House, 2009)]
 
 <!-- id: EVT-1059 -->
 *   **1813:** Le Van Duyet and Nguyen Van Thuy escorted King Ang Chan II (Nac Ong Chan) back to Cambodia to restore his throne. Le Van Duyet oversaw the construction of the Nam Vang (Phnom Penh) Citadel and the La Lem Citadel to store grain and weapons. [Source: Marshal Le Van Duyet (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/9271/ta-quan-le-van-duyet-than-thai-giam-lam-nen-nghiep-lon.html]
@@ -3488,16 +3488,16 @@
 *   **Jun. 11, 1816:** Emperor Gia Long officially invested Prince Dam as Crown Prince, establishing the principle of succession to the throne. [Source: Minh Mang Tomb - Hieu Lang (Hue Heritage Centre), http://hueworldheritage.org.vn/Di-san/Chi-tiet/pid/447/cid/87?tid=LANG-HOANG-DE-MINH-MANG-Hieu-Lang.html]
 
 <!-- id: EVT-1072 -->
-*   **1817:** Emperor Gia Long established the "tap am" regulation (hereditary benefits for descendants of meritorious officials).
+*   **1817:** Emperor Gia Long established the "tap am" regulation (hereditary benefits for descendants of meritorious officials). [Source: Veritable Records of Dai Nam – Main Part (First Chronicle, Vol. 55)]
 
 <!-- id: EVT-1073 -->
-*   **Jun. 1817:** A merchant ship from Macau arrived in Da Nang and presented a map of the Paracel Islands (Hoang Sa) to Emperor Gia Long, who rewarded them, further affirming the court's attention to these islands.
+*   **Jun. 1817:** A merchant ship from Macau arrived in Da Nang and presented a map of the Paracel Islands (Hoang Sa) to Emperor Gia Long, who rewarded them, further affirming the court's attention to these islands. [Source: Nguyen Dynasty Policies Toward Foreign Merchant Ships in Paracel (Vietnam Border Guard), http://bienphongvietnam.gov.vn/nhung-doi-sach-cua-vuong-trieu-nguyen-voi-thuyen-buon-nuoc-ngoai-o-quan-dao-hoang-sa.html]
 
 <!-- id: EVT-1074 -->
 *   **Late 1817 - Early 1818:** Construction of the Thoai Ha Canal in An Giang began under the direction of Nguyen Van Thoai, serving both defense and agricultural irrigation in the Mekong Delta. [Source: Thoai Ngoc Hau Nguyen Van Thoai (CADN), https://cadn.com.vn/thoai-ngoc-hau-nguyen-van-thoai-niem-tu-hao-cua-que-huong-da-nang-post16577.html]
 
 <!-- id: EVT-1075 -->
-*   **1818:** Emperor Gia Long promulgated official regulations on salaries and spring attire allowances for officials; implemented the "duong liem" (anti-corruption allowance) for prefectural and district officials.
+*   **1818:** Emperor Gia Long promulgated official regulations on salaries and spring attire allowances for officials; implemented the "duong liem" (anti-corruption allowance) for prefectural and district officials. [Source: Veritable Records of Dai Nam – Main Part (First Chronicle, Vol. 57)]
 
 <!-- id: EVT-1076 -->
 *   **1819:** Le Van Duyet ordered the construction of the **Truong Luy** (Static Barbarian Wall), a defensive line over 127 km long from Quang Ngai to Binh Dinh, to prevent raids from mountain tribes and stabilize the western border. [Source: Long Wall of Quang Ngai (English Wikipedia), https://en.wikipedia.org/wiki/Long_Wall_of_Qu%E1%BA%A3ng_Ng%C3%A3i]
@@ -3506,7 +3506,7 @@
 *   **1819:** Le Van Duyet was appointed as the Imperial Commissioner (Kinh Luoc Su) to Thanh Hoa and Nghe An to suppress banditry and stabilize the region suffering from famine and unrest. He implemented policies to pardon surrendering bandits and recruit them into the army, forming the **Thanh Thuan** and **An Thuan** regiments. [Source: Marshal Le Van Duyet (National Archives), https://www.archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/ta-quan-le-van-duyet.htm]
 
 <!-- id: EVT-1077 -->
-*   **1819:** Emperor Gia Long ordered the digging of the **An Thong River** (Ruot Ngua Canal) in Gia Dinh to facilitate water transport.
+*   **1819:** Emperor Gia Long ordered the digging of the **An Thong River** (Ruot Ngua Canal) in Gia Dinh to facilitate water transport. [Source: Ruot Ngua Canal (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/K%C3%AAnh_Ru%E1%BB%99t_Ng%E1%BB%B1a]
 
 <!-- id: EVT-1078 -->
 *   **1819 - 1824:** The Vinh Te Canal was dug along the southwestern border (An Giang, Kien Giang), a massive project employing tens of thousands of workers to define the border and develop the region. [Source: Vinh Te Canal 200 Years (Lao Dong), https://news.laodong.vn/van-hoa-giai-tri/kenh-vinh-te-va-nhung-ky-luc-cach-day-200-nam-1418514.ldo]
@@ -3518,7 +3518,7 @@
 *   **1820:** The "Monk Ke" rebellion (Giặc Sãi) broke out in Cambodia and the border region. Governor Le Van Duyet dispatched troops to suppress it, stabilizing the southwestern border. [Source: Marshal Le Van Duyet (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/9271/ta-quan-le-van-duyet-than-thai-giam-lam-nen-nghiep-lon.html]
 
 <!-- id: EVT-1081 -->
-*   **1820:** The system of **Chau Ban** (Vermilion Records), official administrative documents with the Emperor's comments in red ink, was established.
+*   **1820:** The system of **Chau Ban** (Vermilion Records), official administrative documents with the Emperor's comments in red ink, was established. [Source: Chau Ban of the Nguyen Dynasty (National Archives Center I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1082 -->
 *   **1820 - 1840:** Under Emperor Minh Mang, the mandarin system was considered the most systematic and tightest of the Nguyen dynasty. Administrative reforms eventually divided the country into 29 provinces, eliminating intermediary levels like Bac Thanh and Gia Dinh Thanh to centralize power. [Source: Minh Menh-Era Local Government (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/11163/to-chuc-chinh-quyen-djia-phuong-thoi-minh-menh.html]
@@ -3533,10 +3533,10 @@
 *   **Feb. 14, 1820:** Emperor Minh Mang officially ascended the throne at the Thai Hoa Palace. He established the *Van thu phong* (Chancellery) to handle administrative documents. [Source: Minh Mang Tomb - Hieu Lang (Hue Heritage Centre), http://hueworldheritage.org.vn/Di-san/Chi-tiet/pid/447/cid/87?tid=LANG-HOANG-DE-MINH-MANG-Hieu-Lang.html]
 
 <!-- id: EVT-1086 -->
-*   **May 1820:** Emperor Minh Mang ordered the naming of streets in the Capital (Hue) and the erection of stone signposts, marking an early effort in urban planning and management.
+*   **May 1820:** Emperor Minh Mang ordered the naming of streets in the Capital (Hue) and the erection of stone signposts, marking an early effort in urban planning and management. [Source: Naming Streets in the Imperial Citadel (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/9287/le-thanh-tong-cam-quan-lai-to-hao-nha-cong-vu.html]
 
 <!-- id: EVT-1087 -->
-*   **Jul. 1820:** Emperor Minh Mang issued an edict prohibiting opium, marking the first official ban on this drug due to its harmful effects on the administration and populace.
+*   **Jul. 1820:** Emperor Minh Mang issued an edict prohibiting opium, marking the first official ban on this drug due to its harmful effects on the administration and populace. [Source: Emperor Minh Mang's Opium Ban (People's Police Newspaper), https://cand.vn/Phong-su-tu-lieu/Vinh-biet-nhung-mua-hoa-thuoc-phien-i8698/]
 
 <!-- id: EVT-1088 -->
 *   **Sep. 1820:** Le Van Duyet ordered the execution of Deputy Governor Huynh Cong Ly (Emperor Minh Mang's father-in-law) for corruption and oppressing the people during the digging of the Tau Hu canal. This event demonstrated the strict enforcement of the law regardless of royal connections but also deepened the rift between Le Van Duyet and Emperor Minh Mang. [Source: Marshal Le Van Duyet (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/9271/ta-quan-le-van-duyet-than-thai-giam-lam-nen-nghiep-lon.html]
@@ -3551,7 +3551,7 @@
 *   **1821 - 1827:** The peasant uprising led by Phan Ba Vanh in the northern coastal plains. [Source: Phan Ba Vanh (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Phan_B%C3%A1_V%C3%A0nh]
 
 <!-- id: EVT-1092 -->
-*   **1821:** The **National History Office** (Quoc Su Quan) was established to compile the national history and veritable records of the dynasty.
+*   **1821:** The **National History Office** (Quoc Su Quan) was established to compile the national history and veritable records of the dynasty. [Source: National History Office of the Nguyen Dynasty (National Archives of Vietnam), https://www.archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/quoc-su-quan-trieu-nguyen-%E2%80%93-co-quan-chuyen-trach-bien-soan-quoc-su.htm]
 
 <!-- id: EVT-1093 -->
 *   **1822:** Emperor Minh Mang established the Han Lam Vien (Imperial Academy), organized the first metropolitan examination (thi Hoi), and changed Quang Duc garrison to Thua Thien Prefecture. Several towns were renamed: Son Nam Thuong became Son Nam, Son Nam Ha became Nam Dinh, An Quang became Quang Yen, and Bac Giang became Bac Ninh. Emperor Minh Mang renamed the Palace City to **Tu Cam Thanh** (Purple Forbidden City). [Source: Restoring the Forbidden City Walls (IBST), https://www.ibst.vn/tin-tuc/thi-cong-tu-bo-di-tich/bao-ton-tu-bo-he-thong-tuong-va-cong-tu-cam-thanh-giai-doan-1-996193.html]
@@ -3563,7 +3563,7 @@
 *   **Aug. 29, 1822:** John Crawfurd, an envoy of the British Governor-General of India, visited Saigon and had an audience with Governor-General Le Van Duyet. Le Van Duyet expressed openness to international trade but adhered to the court's protocol regarding diplomatic correspondence. Notably, he refused gifts from the British envoy to maintain impartiality in state affairs. [Source: Ben Leu Bridge, Long Thanh (VnExpress), https://vnexpress.net/cau-be-leu-long-thanh-tong-tran-quyen-uy-nhat-sai-gon-xua-3380521-p2.html]
 
 <!-- id: EVT-1096 -->
-*   **1823:** Emperor Minh Mang established the Ty Buu chinh (Postal Service) to handle the transmission of official documents.
+*   **1823:** Emperor Minh Mang established the Ty Buu chinh (Postal Service) to handle the transmission of official documents. [Source: Operations of the Postal Service in the Nguyen Dynasty (National Archives of Vietnam), https://archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/hoat-dong-cua-thong-chinh-su-ty-trieu-nguyen.htm]
 
 <!-- id: EVT-1097 -->
 *   **1823:** Emperor Minh Mang composed and promulgated the **Imperial Lineage Poem** (De He Thi) and Peerage Lineage Poems (Phien He Thi) to regulate the naming conventions for generations of the royal family. [Source: De He Thi Golden Book (Heritage Department), https://dsvh.gov.vn/kim-sach-de-he-thi-3091]
@@ -3581,7 +3581,7 @@
 *   **1826:** The **Duyet Thi Duong** (Royal Theater) was built within the Purple Forbidden City. It served as a venue for performing arts (Tuong opera, dance) for the royal court. [Source: Duyet Thi Duong Theatre (Hue Heritage Centre), https://hueworldheritage.org.vn/en-us/Heritage/Detail/pid/3759/cid/255?tid=DUYET-THI-DUONG-%EC%97%B4%EC%8B%9C%EB%8B%B9-%E9%96%B1%E6%98%AF%E5%A0%82.html]
 
 <!-- id: EVT-1103 -->
-*   **Aug. 1826:** Emperor Minh Mang added the positions of Left and Right Vice Ministers in the Six Ministries.
+*   **Aug. 1826:** Emperor Minh Mang added the positions of Left and Right Vice Ministers in the Six Ministries. [Source: Veritable Records of Dai Nam – Main Part (Second Chronicle, Vol. 41); Mandarin System of the Nguyen Dynasty, https://vi.wikipedia.org/wiki/Quan_ch%E1%BA%BF_nh%C3%A0_Nguy%E1%BB%85n]
 
 <!-- id: EVT-1101 -->
 *   **1827:** After Siam attacked Vientiane, Chao Anou fled to Nghe An to seek help; Le Van Duyet proposed sheltering him and sending reinforcements, but Emperor Minh Mang rejected the proposal. [Source: Le Van Duyet (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/L%C3%AA_V%C4%83n_Duy%E1%BB%87t]
@@ -3590,7 +3590,7 @@
 *   **Oct. 1827:** Emperor Minh Mang issued a decree reforming the dress code in the territory north of the Gianh River to unify national customs. [Source: Minh Mang-Era Costume Reform (Nghe An Culture), http://vanhoanghean.com.vn/chi-tiet-tin-tuc/15034-tu-cai-cach-trang-phuc-duoi-thoi-vo-vuong-nguyen-phuc-khoat-va-vua-minh-mang-nghi-den-tu-tuong-thong-nhat-tu-chu-ve-van-hoa]
 
 <!-- id: EVT-1104 -->
-*   **Dec. 1827:** Governor-General Le Van Duyet traveled to Hue to petition Emperor Minh Mang to stop the persecution of Catholic missionaries, recalling the help of Bishop Pigneau de Béhaine to the Nguyen dynasty. This temporarily eased tensions between the court and the Catholic community.
+*   **Dec. 1827:** Governor-General Le Van Duyet traveled to Hue to petition Emperor Minh Mang to stop the persecution of Catholic missionaries, recalling the help of Bishop Pigneau de Béhaine to the Nguyen dynasty. This temporarily eased tensions between the court and the Catholic community. [Source: Veritable Records of Dai Nam – Main Part (Second Chronicle, Vol. 48); Le Van Duyet, https://vi.wikipedia.org/wiki/L%C3%AA_V%C4%83n_Duy%E1%BB%87t]
 
 <!-- id: EVT-1105 -->
 *   **1828:** Emperor Minh Mang issued a strict edict banning women from wearing traditional skirts (váy) and forcing them to wear trousers in a thorough emulation of Chinese customs, which provoked strong popular resistance expressed in folk songs. [Source: The Brown Robe Story (Phap Luat), https://baophapluat.vn/chuyen-ben-le-sac-mau-ao-nau-post468474.html]
@@ -3671,7 +3671,7 @@
 *   **1835:** The Cuu Yen River was excavated in Hung Yen to divert Red River floods (it was later filled in 1842 due to causing floods in Khoai Chau). [Source: Nine Seals on the Nine Urns (Nhan Dan), https://nhandan.vn/cuu-an-con-song-khac-tren-cuu-dinh-kinh-thanh-hue-post710709.html]
 
 <!-- id: EVT-1132 -->
-*   **1835:** Emperor Minh Mang performed the "Om Goi" (Embracing Knees) ceremony for the first time to honor victorious generals (Pham Van Dien, Ta Quang Cu, Le Van Duc) upon their return from the Northern campaign.
+*   **1835:** Emperor Minh Mang performed the "Om Goi" (Embracing Knees) ceremony for the first time to honor victorious generals (Pham Van Dien, Ta Quang Cu, Le Van Duc) upon their return from the Northern campaign. [Source: Veritable Records of Dai Nam – Main Part (Second Chronicle, Vol. 151)]
 
 <!-- id: EVT-1133 -->
 *   **Mar. 1835:** The uprising leader Nong Van Van was killed at Tham Bat mountain (Tuyen Quang), ending the rebellion in the northern border region. [Source: Son Lo Cultural Traditions (Cao Bang), https://sonlo.caobang.gov.vn/truyen-thong-van-hoa]
@@ -3776,7 +3776,7 @@
 *   **1848:** Emperor Tu Duc ordered the reconstruction and expansion of Le Van Duyet's tomb and temple (Lang Ong Ba Chieu in Gia Dinh), restoring it to a dignified state. [Source: Lang Ong Ba Chieu Shrine (Dan Viet), https://danviet.vn/lang-ong-ba-chieu-tram-nam-dau-xua-tren-dat-sai-gon-gia-dinh-20220830161658531-d1040500.html]
 
 <!-- id: EVT-1167 -->
-*   **1848 - 1849:** Administrative management of the archipelagos was continuously maintained by the Nguyen court for geographical purposes to optimize sea routes, and for financial purposes to collect taxes from fishermen operating in the region.
+*   **1848 - 1849:** Administrative management of the archipelagos was continuously maintained by the Nguyen court for geographical purposes to optimize sea routes, and for financial purposes to collect taxes from fishermen operating in the region. [Source: Administrative Management of Archipelagos under the Nguyen Dynasty (Song Huong Magazine), http://tapchisonghuong.com.vn/tin-tuc/p75/c141/n12621/Chuyen-de-Bien-dao-que-huong.html]
 
 <!-- id: EVT-1168 -->
 *   **Feb. 1848:** The court began minting "Tu Duc Thong Bao" coins and completed the *Veritable Records of Emperor Gia Long*. [Source: Tu Duc-Era Reward Coins (National Museum of History), https://baotanglichsu.vn/vi/Articles/3101/18831/tien-thuong-djoi-vua-tu-djuc-1848-1883-phan-4.html]
@@ -3797,7 +3797,7 @@
 *   **1854 - 1855:** The uprising of scholars and peasants initiated by Cao Ba Quat in the Son Tay and Hanoi regions. [Source: My Luong Uprising and Cao Ba Quat (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/6347/cuoc-khoi-nghia-my-luong-va-cao-ba-quat.html]
 
 <!-- id: EVT-1175 -->
-*   **Aug. 1854:** The **Tu Khue Library** was established within the Imperial Citadel to store royal books and documents.
+*   **Aug. 1854:** The **Tu Khue Library** was established within the Imperial Citadel to store royal books and documents. [Source: Libraries of the Nguyen Dynasty (National Museum of History), https://baotanglichsu.vn/vi/Articles/2001/68376/thu-vien-trieu-nguyen.html]
 
 <!-- id: EVT-1176 -->
 *   **1856:** Emperor Tu Duc ordered the compilation of the **"Kham dinh Viet su thong giam cuong muc"** (The Imperially Ordered Mirror of Viet History Text and Commentary), appointing Phan Thanh Gian as the Chief Editor. [Source: Tu Duc and History Compilation (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/69222/vua-tu-djuc-voi-viec-bien-soan-lich-su.html]
@@ -3815,7 +3815,7 @@
 
 ### **Period of French Invasion and Resistance Movements (1858 - 1896)**
 
-*   **Aug. 31, 1858:** A French-Spanish coalition force deployed at the Da Nang estuary.
+*   **Aug. 31, 1858:** A French-Spanish coalition force deployed at the Da Nang estuary. [Source: French-Spanish Forces Attack Da Nang (National Museum of History), https://baotanglichsu.vn/vi/Articles/3097/15072/lien-quan-phap-tay-ban-nha-no-sung-djanh-thanh-dja-nang-mo-djau-cuoc-xam-luoc-viet-nam-lan-thu-nhat-9-1858.html]
 
 ![Historical Image](images/event_20260924_120721.webp)
 
@@ -3829,244 +3829,244 @@
 *Source: French Navy attacking Da Nang, Sep. 1, 1858 / Wikimedia Commons*
 
 <!-- id: EVT-1181 -->
-*   **Sep. 2, 1858:** The French-Spanish coalition force captured the Tay Fort, An Hai, and Dien Hai fortresses. French forces occupied the Son Tra peninsula.
+*   **Sep. 2, 1858:** The French-Spanish coalition force captured the Tay Fort, An Hai, and Dien Hai fortresses. French forces occupied the Son Tra peninsula. [Source: Resistance Against the French on the Da Nang Front (Da Nang City Portal), https://danang.gov.vn/w/cuoc-khang-chien-chong-xam-luoc-phap-dau-tien-cua-quan-va-dan-ta-o-mat-tran-da-nang-nam-1858-i]
 
 <!-- id: EVT-1182 -->
-*   **Dec. 7, 1858:** Prominent statesman, military commander, economist, and celebrated poet Nguyen Cong Tru passed away in his hometown of Nghi Xuan (Ha Tinh) at the age of 80.
+*   **Dec. 7, 1858:** Prominent statesman, military commander, economist, and celebrated poet Nguyen Cong Tru passed away in his hometown of Nghi Xuan (Ha Tinh) at the age of 80. [Source: Cultural Figure Nguyen Cong Tru (Nhan Dan Newspaper), https://nhandan.vn/danh-nhan-van-hoa-nguyen-cong-tru-post515874.html]
 
 <!-- id: EVT-1183 -->
-*   **Feb. 1859:** When French and Spanish forces assaulted Gia Định, Militia Commander Trương Định voluntarily led his Tân Hòa agricultural militia to join royal troops in defending the Chí Hòa line. His forces repeatedly ambushed enemy patrols in Cây Mai and Thị Nghè, inflicting significant casualties and earning him a promotion to Deputy Commander (*Phó Lãnh binh*) of Gia Định.
+*   **Feb. 1859:** When French and Spanish forces assaulted Gia Định, Militia Commander Trương Định voluntarily led his Tân Hòa agricultural militia to join royal troops in defending the Chí Hòa line. His forces repeatedly ambushed enemy patrols in Cây Mai and Thị Nghè, inflicting significant casualties and earning him a promotion to Deputy Commander (*Phó Lãnh binh*) of Gia Định. [Source: Truong Dinh's Anti-French Resistance in Gia Dinh (National Museum of History), https://baotanglichsu.vn/vi/Articles/2002/68060/thang-9-1861-truong-djinh-truong-cong-djinh-khoi-nghia-chong-phap-o-gia-djinh.html]
 
 <!-- id: EVT-1184 -->
-*   **Feb. 2, 1859:** The French-Spanish coalition force, led by Vice Admiral Charles Rigault de Genouilly, left a fraction of its troops in Da Nang, changed course, and advanced on Gia Dinh.
+*   **Feb. 2, 1859:** The French-Spanish coalition force, led by Vice Admiral Charles Rigault de Genouilly, left a fraction of its troops in Da Nang, changed course, and advanced on Gia Dinh. [Source: Siege of Saigon (Wikipedia), https://en.wikipedia.org/wiki/Siege_of_Saigon]
 
 <!-- id: EVT-1185 -->
-*   **Feb. 17, 1859:** French forces attacked and captured Gia Dinh Citadel. Defending Vietnamese commanders Vo Duy Ninh and Le Tu committed suicide.
+*   **Feb. 17, 1859:** French forces attacked and captured Gia Dinh Citadel. Defending Vietnamese commanders Vo Duy Ninh and Le Tu committed suicide. [Source: Vo Duy Ninh (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/V%C3%B5_Duy_Ninh]
 
 ![Historical Image](images/event_20260923_213655.webp)
 
 *Source: Painting of the capture of Saigon, Feb. 17-18, 1859, by Antoine Morel-Fatio / Wikimedia Commons*
 
 <!-- id: EVT-1186 -->
-*   **Mar. 8, 1859:** French forces completely destroyed Gia Dinh Citadel, setting fire to granaries and keeping only a small garrison at the Huu Binh fort before withdrawing most of their troops back to Da Nang.
+*   **Mar. 8, 1859:** French forces completely destroyed Gia Dinh Citadel, setting fire to granaries and keeping only a small garrison at the Huu Binh fort before withdrawing most of their troops back to Da Nang. [Source: Siege of Saigon (Wikipedia), https://en.wikipedia.org/wiki/Siege_of_Saigon]
 
 <!-- id: EVT-1187 -->
-*   **Apr. 20, 1859:** French forces led by de Genouilly launched a fierce attack on the Dien Hai fortress in Da Nang and successfully captured it.
+*   **Apr. 20, 1859:** French forces led by de Genouilly launched a fierce attack on the Dien Hai fortress in Da Nang and successfully captured it. [Source: Siege of Tourane (Wikipedia), https://en.wikipedia.org/wiki/Siege_of_Tourane]
 
 <!-- id: EVT-1188 -->
-*   **May 8, 1859:** A major battle took place in Da Nang. French forces launched a three-pronged attack, capturing three large Vietnamese forts (Du Xuyen, Thac Gian, Hai Chau) and 54 cannons, inflicting heavy casualties on both sides.
+*   **May 8, 1859:** A major battle took place in Da Nang. French forces launched a three-pronged attack, capturing three large Vietnamese forts (Du Xuyen, Thac Gian, Hai Chau) and 54 cannons, inflicting heavy casualties on both sides. [Source: Siege of Tourane (Wikipedia), https://en.wikipedia.org/wiki/Siege_of_Tourane]
 
 <!-- id: EVT-1189 -->
-*   **Jun. 20, 1859:** De Genouilly proposed a peace treaty with three demands (freedom of religion, freedom of trade, and land concessions), but negotiations with Vietnamese General Nguyen Tri Phuong failed over the following months.
+*   **Jun. 20, 1859:** De Genouilly proposed a peace treaty with three demands (freedom of religion, freedom of trade, and land concessions), but negotiations with Vietnamese General Nguyen Tri Phuong failed over the following months. [Source: Siege of Tourane (Wikipedia), https://en.wikipedia.org/wiki/Siege_of_Tourane]
 
 <!-- id: EVT-1190 -->
-*   **Sep. 15, 1859:** French and Spanish forces launched a coordinated attack in Da Nang, capturing Nai Hien fort. General Nguyen Tri Phuong retreated to Hai Van pass to establish a new defense line.
+*   **Sep. 15, 1859:** French and Spanish forces launched a coordinated attack in Da Nang, capturing Nai Hien fort. General Nguyen Tri Phuong retreated to Hai Van pass to establish a new defense line. [Source: Siege of Tourane (Wikipedia), https://en.wikipedia.org/wiki/Siege_of_Tourane]
 
 <!-- id: EVT-1191 -->
-*   **Nov. 18, 1859:** French General François Page bombarded Dien Hai and Chan Sang forts, capturing Chan Sang, though Colonel Dupré Déroulède was killed in action.
+*   **Nov. 18, 1859:** French General François Page bombarded Dien Hai and Chan Sang forts, capturing Chan Sang, though Colonel Dupré Déroulède was killed in action. [Source: Siege of Tourane (Wikipedia), https://en.wikipedia.org/wiki/Siege_of_Tourane]
 
 <!-- id: EVT-1192 -->
-*   **Mar. 22, 1860:** After being pinned down for 19 months and suffering heavy losses from disease and resistance, the French-Spanish coalition forces destroyed all remaining fortresses and completely withdrew from Da Nang to concentrate on Gia Dinh.
+*   **Mar. 22, 1860:** After being pinned down for 19 months and suffering heavy losses from disease and resistance, the French-Spanish coalition forces destroyed all remaining fortresses and completely withdrew from Da Nang to concentrate on Gia Dinh. [Source: Siege of Tourane (Wikipedia), https://en.wikipedia.org/wiki/Siege_of_Tourane]
 
 <!-- id: EVT-1193 -->
-*   **Jul. 1860:** Nguyen Tri Phuong was appointed Imperial Commissioner of Gia Dinh to reorganize the defense against French forces.
+*   **Jul. 1860:** Nguyen Tri Phuong was appointed Imperial Commissioner of Gia Dinh to reorganize the defense against French forces. [Source: Nguyen Tri Phuong - Resolute Defender Against French Colonialism (National Museum of History), https://baotanglichsu.vn/VI/Articles/3098/13604/nguyen-tri-phuong-vi-tong-djoc-quyet-liet-chong-phap-giu-thanh-ha-noi.html]
 
 <!-- id: EVT-1194 -->
-*   **Jul. 3 - 4, 1860:** Vietnamese forces launched a courageous night attack to capture the Cay Mai outpost in Gia Dinh from the Spanish and French forces.
+*   **Jul. 3 - 4, 1860:** Vietnamese forces launched a courageous night attack to capture the Cay Mai outpost in Gia Dinh from the Spanish and French forces. [Source: Battle of Ky Hoa (Wikipedia), https://en.wikipedia.org/wiki/Battle_of_Ky_Hoa]
 
 <!-- id: EVT-1195 -->
-*   **Feb. 1861:** After the fall of the Chí Hòa Grand Entrenchment, Deputy Commander Trương Định withdrew his forces to Gò Công (Tân Hòa) rather than retreating with imperial troops. Establishing a formidable guerrilla base in the "Đám lá tối trời" mangrove forest (Gia Thuận), he forged alliances with patriotic scholars and local leaders to launch a widespread guerrilla war across Gia Định and Định Tường.
+*   **Feb. 1861:** After the fall of the Chí Hòa Grand Entrenchment, Deputy Commander Trương Định withdrew his forces to Gò Công (Tân Hòa) rather than retreating with imperial troops. Establishing a formidable guerrilla base in the "Đám lá tối trời" mangrove forest (Gia Thuận), he forged alliances with patriotic scholars and local leaders to launch a widespread guerrilla war across Gia Định and Định Tường. [Source: Truong Dinh (Wikipedia), https://en.wikipedia.org/wiki/Truong_Dinh]
 
 <!-- id: EVT-1196 -->
-*   **Feb. 24 - 25, 1861:** With reinforcements, French forces led by Admiral Charner attacked and captured the Ky Hoa (Chi Hoa) Grand Redoubt, the court's most important defense line in Gia Dinh. General Nguyen Tri Phuong was severely wounded and retreated to Thuan Kieu.
+*   **Feb. 24 - 25, 1861:** With reinforcements, French forces led by Admiral Charner attacked and captured the Ky Hoa (Chi Hoa) Grand Redoubt, the court's most important defense line in Gia Dinh. General Nguyen Tri Phuong was severely wounded and retreated to Thuan Kieu. [Source: Battle of Ky Hoa (Wikipedia), https://en.wikipedia.org/wiki/Battle_of_Ky_Hoa]
 
 <!-- id: EVT-1197 -->
-*   **Mar. 26 - Apr. 14, 1861:** The French campaign to capture Dinh Tuong province. After days of clearing obstacles on the Bao Dinh canal and suffering heavily from cholera, French naval forces captured My Tho Citadel on April 12 without firing a shot, as Vietnamese forces had already retreated. On April 14, French forces occupied Go Cong.
+*   **Mar. 26 - Apr. 14, 1861:** The French campaign to capture Dinh Tuong province. After days of clearing obstacles on the Bao Dinh canal and suffering heavily from cholera, French naval forces captured My Tho Citadel on April 12 without firing a shot, as Vietnamese forces had already retreated. On April 14, French forces occupied Go Cong. [Source: Capture of My Tho (Wikipedia), https://en.wikipedia.org/wiki/Capture_of_My_Tho]
 
 <!-- id: EVT-1198 -->
-*   **Sep. 21, 1861:** Admiral Charner signed a decree establishing the Bá Đa Lộc School of Interpreters.
+*   **Sep. 21, 1861:** Admiral Charner signed a decree establishing the Bá Đa Lộc School of Interpreters. [Source: D'Adran School of Saigon (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_d%27Adran_S%C3%A0i_G%C3%B2n]
 
 <!-- id: EVT-1199 -->
-*   **Dec. 10, 1861:** The righteous army of Nguyen Trung Truc burned the French warship L'Espérance on the Nhat Tao River (Tan An).
+*   **Dec. 10, 1861:** The righteous army of Nguyen Trung Truc burned the French warship L'Espérance on the Nhat Tao River (Tan An). [Source: Battle of Nhat Tao (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_Nh%E1%BA%ADt_T%E1%BA%A3o]
 
 <!-- id: EVT-1200 -->
-*   **Dec. 14 - 18, 1861:** French and Spanish forces attacked Bien Hoa. After heavy bombardment, they captured Bien Hoa Citadel on December 18, forcing the Vietnamese defenders to retreat to Binh Thuan.
+*   **Dec. 14 - 18, 1861:** French and Spanish forces attacked Bien Hoa. After heavy bombardment, they captured Bien Hoa Citadel on December 18, forcing the Vietnamese defenders to retreat to Binh Thuan. [Source: Capture of Bien Hoa (Wikipedia), https://en.wikipedia.org/wiki/Capture_of_Bien_Hoa]
 
 <!-- id: EVT-1201 -->
-*   **1862:** Nguyen Sinh Sac (father of President Ho Chi Minh) was born in Kim Lien village, Nam Dan district, Nghe An province. He was a patriotic Confucian scholar who passed the imperial examination as Pho bang (Junior Doctor) in 1901 and served as the magistrate of Binh Khe district before traveling to Southern Vietnam to practice traditional medicine and spread patriotic ideology.
+*   **1862:** Nguyen Sinh Sac (father of President Ho Chi Minh) was born in Kim Lien village, Nam Dan district, Nghe An province. He was a patriotic Confucian scholar who passed the imperial examination as Pho bang (Junior Doctor) in 1901 and served as the magistrate of Binh Khe district before traveling to Southern Vietnam to practice traditional medicine and spread patriotic ideology. [Source: Nguyen Sinh Sac (Wikipedia), https://en.wikipedia.org/wiki/Nguyen_Sinh_Sac]
 
 <!-- id: EVT-1202 -->
-*   **Jan. 7, 1862:** French forces captured Ba Ria Citadel.
+*   **Jan. 7, 1862:** French forces captured Ba Ria Citadel. [Source: Capture of Bien Hoa (Wikipedia), https://en.wikipedia.org/wiki/Capture_of_Bien_Hoa]
 
 <!-- id: EVT-1203 -->
-*   **01/02/1862:** Governor Bonard of Cochinchina signed the decision to establish Con Dao prison. This marked the beginning of the systematic but also brutal exploitation of this island by the French colonialists.
+*   **01/02/1862:** Governor Bonard of Cochinchina signed the decision to establish Con Dao prison. This marked the beginning of the systematic but also brutal exploitation of this island by the French colonialists. [Source: Con Dao Prison: From Earthly Hell to School of Revolutionary Struggle (National Archives of Vietnam), https://www.archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/nha-tu-con-dao-tu-dia-nguc-tran-gian-den-truong-hoc-dau-tranh-cach-mang.htm]
 
 <!-- id: EVT-1204 -->
-*   **Mar. 20 - 23, 1862:** French gunboats attacked Vinh Long. After days of fierce fighting, Vietnamese forces burned their own facilities and retreated. French forces occupied Vinh Long Citadel on March 23.
+*   **Mar. 20 - 23, 1862:** French gunboats attacked Vinh Long. After days of fierce fighting, Vietnamese forces burned their own facilities and retreated. French forces occupied Vinh Long Citadel on March 23. [Source: Capture of Vinh Long (Wikipedia), https://en.wikipedia.org/wiki/Capture_of_Vinh_Long]
 
 <!-- id: EVT-1205 -->
-*   **Apr. 1862:** The Cai Vang (Nguyen Thinh) Rebellion broke out in Bac Ninh, a major peasant uprising in Tonkin.
+*   **Apr. 1862:** The Cai Vang (Nguyen Thinh) Rebellion broke out in Bac Ninh, a major peasant uprising in Tonkin. [Source: Cai Vang (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Cai_V%C3%A0ng]
 
 <!-- id: EVT-1206 -->
-*   **Jun. 5, 1862:** The Hue court (represented by Phan Thanh Gian and Lam Duy Hiep) signed the Treaty of Nham Tuat with France (represented by Admiral Bonard), officially ceding the three eastern provinces of Cochinchina (Gia Dinh, Dinh Tuong, Bien Hoa) and Con Lon island to France.
+*   **Jun. 5, 1862:** The Hue court (represented by Phan Thanh Gian and Lam Duy Hiep) signed the Treaty of Nham Tuat with France (represented by Admiral Bonard), officially ceding the three eastern provinces of Cochinchina (Gia Dinh, Dinh Tuong, Bien Hoa) and Con Lon island to France. [Source: Treaty of Saigon 1862 (National Museum of History), https://baotanglichsu.vn/vi/Articles/3097/14430/hoa-uoc-nham-tuat-1862-hoa-uoc-bat-binh-djang-djau-tien-giua-viet-nam-va-phap.html]
 
 <!-- id: EVT-1207 -->
-*   **Aug. 1862:** Following the Treaty of Saigon ceding three eastern Cochinchinese provinces to France and ordering all local resistance disbanded, the royal court ordered Trương Định to take up a post as Commander of An Giang. Resolutely defying both the royal disarmament decree and French surrender appeals, Trương Định accepted the title of **"Bình Tây Đại nguyên soái"** (Grand Marshal of the West-Pacification Campaign) conferred by the people and insurgents, pledging to remain in eastern Cochinchina to lead the resistance.
+*   **Aug. 1862:** Following the Treaty of Saigon ceding three eastern Cochinchinese provinces to France and ordering all local resistance disbanded, the royal court ordered Trương Định to take up a post as Commander of An Giang. Resolutely defying both the royal disarmament decree and French surrender appeals, Trương Định accepted the title of **"Bình Tây Đại nguyên soái"** (Grand Marshal of the West-Pacification Campaign) conferred by the people and insurgents, pledging to remain in eastern Cochinchina to lead the resistance. [Source: Historical Imprint of the Truong Dinh Uprising (Nhan Dan Newspaper), https://nhandan.vn/dau-an-lich-su-cua-khoi-nghia-truong-dinh-post825108.html]
 
 <!-- id: EVT-1208 -->
-*   **Dec. 16, 1862:** Trương Định's righteous army launched a surprise general counter-offensive against French outposts across the three eastern provinces of Cochinchina (Gia Định, Định Tường, Biên Hòa), killing French Sub-Lieutenant Theron in an ambush at Rạch Tra, inflicting heavy losses on French forces and throwing the expeditionary army on the defensive.
+*   **Dec. 16, 1862:** Trương Định's righteous army launched a surprise general counter-offensive against French outposts across the three eastern provinces of Cochinchina (Gia Định, Định Tường, Biên Hòa), killing French Sub-Lieutenant Theron in an ambush at Rạch Tra, inflicting heavy losses on French forces and throwing the expeditionary army on the defensive. [Source: Truong Dinh Rebellion (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Tr%C6%B0%C6%A1ng_%C4%90%E1%BB%8Bnh]
 
 <!-- id: EVT-1209 -->
-*   **Feb. 1863:** Admiral Bonard and Colonel Palanca visited Hue to exchange the ratified Treaty of Nham Tuat.
+*   **Feb. 1863:** Admiral Bonard and Colonel Palanca visited Hue to exchange the ratified Treaty of Nham Tuat. [Source: Veritable Records of Dai Nam – Main Part (Fourth Chronicle, Vol. 29)]
 
 <!-- id: EVT-1210 -->
-*   **Feb. 25 - 28, 1863:** French colonial forces mobilized a large combined army and naval flotilla under General Chaumont and Admiral Bonard to mount a massive offensive against the Tân Hòa headquarters in Gò Công. Trương Định and his insurgent force mounted a fierce defense for three days and nights before breaking through the enemy encirclement to withdraw to Lý Nhơn (Cần Giờ) and the Plain of Reeds (Đồng Tháp Mười) to preserve their strength and rebuild bases.
+*   **Feb. 25 - 28, 1863:** French colonial forces mobilized a large combined army and naval flotilla under General Chaumont and Admiral Bonard to mount a massive offensive against the Tân Hòa headquarters in Gò Công. Trương Định and his insurgent force mounted a fierce defense for three days and nights before breaking through the enemy encirclement to withdraw to Lý Nhơn (Cần Giờ) and the Plain of Reeds (Đồng Tháp Mười) to preserve their strength and rebuild bases. [Source: Truong Dinh (Wikipedia), https://en.wikipedia.org/wiki/Truong_Dinh]
 
 <!-- id: EVT-1211 -->
-*   **May 25, 1863:** France returned Vinh Long Citadel to the Nguyen court as stipulated in the 1862 Treaty of Nham Tuat.
+*   **May 25, 1863:** France returned Vinh Long Citadel to the Nguyen court as stipulated in the 1862 Treaty of Nham Tuat. [Source: Vinh Long Citadel (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Th%C3%A0nh_V%C4%A9nh_Long]
 
 <!-- id: EVT-1212 -->
-*   **Jun. 1863:** The Court of Huế dispatched a diplomatic embassy headed by Grand Envoy Phan Thanh Giản to France and Spain to negotiate the redemption of the three eastern provinces of Cochinchina (which ultimately failed); Trương Vĩnh Ký served as the mission's chief interpreter. The journey, lasting until March 1864, enabled him to deeply observe Western scientific and technical civilization, and obtain audiences with French Emperor Napoleon III and Pope Pius IX in Rome.
+*   **Jun. 1863:** The Court of Huế dispatched a diplomatic embassy headed by Grand Envoy Phan Thanh Giản to France and Spain to negotiate the redemption of the three eastern provinces of Cochinchina (which ultimately failed); Trương Vĩnh Ký served as the mission's chief interpreter. The journey, lasting until March 1864, enabled him to deeply observe Western scientific and technical civilization, and obtain audiences with French Emperor Napoleon III and Pope Pius IX in Rome. [Source: Phan Thanh Gian Embassy to France and Tay Hanh Nhat Ky (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/17895/tay-hanh-nhat-ky-tap-su-lieu-quy-cua-nguoi-xua.html]
 
 <!-- id: EVT-1213 -->
-*   **Aug. 11, 1863:** France signed a protectorate treaty with the Cambodian King Norodom.
+*   **Aug. 11, 1863:** France signed a protectorate treaty with the Cambodian King Norodom. [Source: French Protectorate of Cambodia (Wikipedia), https://en.wikipedia.org/wiki/French_Protectorate_of_Cambodia]
 
 <!-- id: EVT-1214 -->
-*   **1864:** The first school in Vietnam to teach chữ Quốc ngữ (the romanized Vietnamese script), the Saigon School of Interpreters (Collège des interprètes), was officially established.
+*   **1864:** The first school in Vietnam to teach chữ Quốc ngữ (the romanized Vietnamese script), the Saigon School of Interpreters (Collège des interprètes), was officially established. [Source: Saigon School of Interpreters and the Development of Quoc Ngu (Tuoi Tre), https://tuoitre.vn/nguoi-co-cong-dau-voi-chu-quoc-ngu-viet-sach-giao-khoa-20180916101627985.htm]
 
 <!-- id: EVT-1215 -->
-*   **1864:** **Ha Tinh** was re-established as a separate "dao" (county), independent from Nghe An.
+*   **1864:** **Ha Tinh** was re-established as a separate "dao" (county), independent from Nghe An. [Source: Administrative Reforms in Ha Tinh during the Nguyen Dynasty (Ha Tinh Provincial Museum), http://baotang.hatinh.gov.vn/vua-minh-menh-thanh-lap-tinh-ha-tinhthong-qua-cai-cach-hanh-chinhnua-dau-the-ky-xix-1582166082.html]
 
 <!-- id: EVT-1216 -->
-*   **1864 (Tu Duc 17):** Bui Vien and his younger brother Bui Phung passed the Tu Tai (bachelor's) examination.
+*   **1864 (Tu Duc 17):** Bui Vien and his younger brother Bui Phung passed the Tu Tai (bachelor's) examination. [Source: Bui Vien (Wikipedia), https://en.wikipedia.org/wiki/Bui_Vien]
 
 <!-- id: EVT-1217 -->
-*   **Aug. 20, 1864:** During the night of August 19 to the early morning of August 20, 1864, French troops ambushed the Kiểng Phước base in Gò Công guided by the traitor Huỳnh Công Tấn. Trương Định and his fighters resisted heroically until he was severely wounded by gunfire that broke his spine. To maintain his honor and avoid falling into enemy hands, Grand Marshal Trương Định drew his sword and took his own life at Ao Dinh (Gò Công) at the age of 44.
+*   **Aug. 20, 1864:** During the night of August 19 to the early morning of August 20, 1864, French troops ambushed the Kiểng Phước base in Gò Công guided by the traitor Huỳnh Công Tấn. Trương Định and his fighters resisted heroically until he was severely wounded by gunfire that broke his spine. To maintain his honor and avoid falling into enemy hands, Grand Marshal Trương Định drew his sword and took his own life at Ao Dinh (Gò Công) at the age of 44. [Source: Martyrdom of Truong Dinh in Go Cong (National Museum of History), https://baotanglichsu.vn/vi/Articles/3097/15047/thang-9-1861-truong-djinh-truong-cong-djinh-khoi-nghia-chong-phap-o-gia-djinh.html]
 
 ![Historical Image](images/event_20260924_124306.webp)
 
 *Source: Truong Dinh Temple and Tomb, Go Cong, Tien Giang (Photo: Bui Thuy Dao Nguyen / CC BY-SA 3.0)*
 
 <!-- id: EVT-1218 -->
-*   **Apr. 15, 1865:** The first Vietnamese-language newspaper using chữ Quốc ngữ, the Gia Định báo, was launched in Saigon.
+*   **Apr. 15, 1865:** The first Vietnamese-language newspaper using chữ Quốc ngữ, the Gia Định báo, was launched in Saigon. [Source: Gia Dinh Bao - The First Romanized Vietnamese Newspaper (National Museum of History), https://baotanglichsu.vn/VI/Articles/3097/13409/gia-djinh-bao-to-bao-chu-quoc-ngu-djau-tien-o-viet-nam.html]
 
 <!-- id: EVT-1219 -->
-*   **May 1865:** The first Military Doctorate (Vo Tien si) examination was held to select military talents.
+*   **May 1865:** The first Military Doctorate (Vo Tien si) examination was held to select military talents. [Source: The First Military Doctorate Examination of the Nguyen Dynasty (Dan Tri), https://dantri.com.vn/thoi-su/lan-dau-tien-tai-hien-khoa-thi-tien-sy-vo-duoi-trieu-nguyen-1211580251.htm]
 
 <!-- id: EVT-1220 -->
-*   **Nov. 1865:** The "Nha si" (Elegant Scholar) examination was held for the first time to recruit virtuous and learned scholars.
+*   **Nov. 1865:** The "Nha si" (Elegant Scholar) examination was held for the first time to recruit virtuous and learned scholars. [Source: Veritable Records of Dai Nam – Main Part (Fourth Chronicle, Vol. 34)]
 
 <!-- id: EVT-1221 -->
-*   **1866:** Trương Vĩnh Ký published *"Chuyện đời xưa"* (Tales of Old Times) in Saigon. This was the first Vietnamese prose work written in chữ Quốc ngữ to be published in book form in Vietnam, marking the genesis of modern romanized Vietnamese literature.
+*   **1866:** Trương Vĩnh Ký published *"Chuyện đời xưa"* (Tales of Old Times) in Saigon. This was the first Vietnamese prose work written in chữ Quốc ngữ to be published in book form in Vietnam, marking the genesis of modern romanized Vietnamese literature. [Source: Truong Vinh Ky's Chuyen Doi Xua and Prose in Quoc Ngu (Tuoi Tre), https://tuoitre.vn/nguoi-co-cong-dau-voi-chu-quoc-ngu-ky-2-tien-phong-pho-bien-chu-quoc-ngu-20180915094558014.htm]
 
 <!-- id: EVT-1222 -->
-*   **Sep. 1866:** The Doan Huu Trung Rebellion (Chay Voi Rebellion) broke out in the Imperial City of Hue, attempting a coup but failed.
+*   **Sep. 1866:** The Doan Huu Trung Rebellion (Chay Voi Rebellion) broke out in the Imperial City of Hue, attempting a coup but failed. [Source: Chay Voi Rebellion (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Lo%E1%BA%A1n_Ch%C3%A0y_V%C3%B4i]
 
 <!-- id: EVT-1223 -->
-*   **1867:** The name "chữ quốc ngữ" (national script) was used for the first time, evolving from its precursor "chữ Tây quốc ngữ" (Western national script).
+*   **1867:** The name "chữ quốc ngữ" (national script) was used for the first time, evolving from its precursor "chữ Tây quốc ngữ" (Western national script). [Source: First Appearance of the Term Chu Quoc Ngu (VietNamNet), https://vietnamnet.vn/chu-quoc-ngu-xuat-hien-lan-dau-tien-o-dau-413804.html]
 
 <!-- id: EVT-1224 -->
-*   **1867 (Dinh Mao year, Tu Duc 20):** Bui Phung passed the Cu Nhan (master's) examination.
+*   **1867 (Dinh Mao year, Tu Duc 20):** Bui Phung passed the Cu Nhan (master's) examination. [Source: Bui Vien (Wikipedia), https://en.wikipedia.org/wiki/Bui_Vien]
 
 <!-- id: EVT-1225 -->
-*   **Jun. 20, 1867:** French forces led by De Lagrandière arrived at Vinh Long Citadel. Viceroy Phan Thanh Gian surrendered the citadel unconditionally to avoid bloodshed.
+*   **Jun. 20, 1867:** French forces led by De Lagrandière arrived at Vinh Long Citadel. Viceroy Phan Thanh Gian surrendered the citadel unconditionally to avoid bloodshed. [Source: Phan Thanh Gian (Wikipedia), https://en.wikipedia.org/wiki/Phan_Thanh_Gian]
 
 <!-- id: EVT-1226 -->
-*   **Jun. 21, 1867:** French forces captured An Giang province.
+*   **Jun. 21, 1867:** French forces captured An Giang province. [Source: Phan Thanh Gian (Wikipedia), https://en.wikipedia.org/wiki/Phan_Thanh_Gian]
 
 <!-- id: EVT-1227 -->
-*   **Jun. 24, 1867:** French forces captured Ha Tien province, unilaterally completing the annexation of the three western provinces of Cochinchina without firing a shot. All of Cochinchina became a French colony.
+*   **Jun. 24, 1867:** French forces captured Ha Tien province, unilaterally completing the annexation of the three western provinces of Cochinchina without firing a shot. All of Cochinchina became a French colony. [Source: Phan Thanh Gian (Wikipedia), https://en.wikipedia.org/wiki/Phan_Thanh_Gian]
 
 <!-- id: EVT-1228 -->
-*   **Aug. 4, 1867:** After fasting for 17 days, Phan Thanh Gian committed suicide by poison, having failed to defend the western provinces.
+*   **Aug. 4, 1867:** After fasting for 17 days, Phan Thanh Gian committed suicide by poison, having failed to defend the western provinces. [Source: Phan Thanh Gian (Wikipedia), https://en.wikipedia.org/wiki/Phan_Thanh_Gian]
 
 <!-- id: EVT-1229 -->
-*   **1868:** Emperor Tu Duc officially restored Le Van Duyet's titles as "Vong Cac Merit Official" and "Commander of the Left Army", allowing him to be worshipped in the Temple of Meritorious Officials, completing his rehabilitation.
+*   **1868:** Emperor Tu Duc officially restored Le Van Duyet's titles as "Vong Cac Merit Official" and "Commander of the Left Army", allowing him to be worshipped in the Temple of Meritorious Officials, completing his rehabilitation. [Source: Veritable Records of Dai Nam – Main Part (Fourth Chronicle, Vol. 39); Le Van Duyet, https://vi.wikipedia.org/wiki/L%C3%AA_V%C4%83n_Duy%E1%BB%87t]
 
 <!-- id: EVT-1230 -->
-*   **1868 (Mau Thin year):** Bui Vien passed the Cu Nhan examination.
+*   **1868 (Mau Thin year):** Bui Vien passed the Cu Nhan examination. [Source: Bui Vien (Wikipedia), https://en.wikipedia.org/wiki/Bui_Vien]
 
 <!-- id: EVT-1231 -->
-*   **1868:** Hoang Thi Loan (mother of President Ho Chi Minh) was born in Hoang Tru village, Kim Lien commune, Nam Dan district, Nghe An province. She was an exemplary model of the hardworking, devoted Vietnamese mother who nurtured and raised patriotic children, most notably President Ho Chi Minh.
+*   **1868:** Hoang Thi Loan (mother of President Ho Chi Minh) was born in Hoang Tru village, Kim Lien commune, Nam Dan district, Nghe An province. She was an exemplary model of the hardworking, devoted Vietnamese mother who nurtured and raised patriotic children, most notably President Ho Chi Minh. [Source: Mother Hoang Thi Loan and the Family of President Ho Chi Minh (Party Document Archive), https://tulieuvankien.dangcongsan.vn/c-mac-angghen-lenin-ho-chi-minh/ho-chi-minh/nghien-cuu-hoc-tap-tu-tuong/gia-dinh-voi-viec-hinh-thanh-chu-nghia-yeu-nuoc-ho-chi-minh-3929]
 
 <!-- id: EVT-1232 -->
-*   **Mar. 1868:** The Military Academy (Vo Hoc Duong) was established west of the Capital Citadel.
+*   **Mar. 1868:** The Military Academy (Vo Hoc Duong) was established west of the Capital Citadel. [Source: Veritable Records of Dai Nam – Main Part (Fourth Chronicle, Vol. 39)]
 
 <!-- id: EVT-1233 -->
-*   **Jun. 16 - 21, 1868:** Nguyen Trung Truc's righteous army successfully attacked and controlled Rach Gia Citadel for 5 days before being suppressed by French reinforcements.
+*   **Jun. 16 - 21, 1868:** Nguyen Trung Truc's righteous army successfully attacked and controlled Rach Gia Citadel for 5 days before being suppressed by French reinforcements. [Source: Nguyen Trung Truc and the Battle of Rach Gia (Wikipedia), https://en.wikipedia.org/wiki/Nguyen_Trung_Truc]
 
 <!-- id: EVT-1234 -->
-*   **Jul. 1868:** The court purchased a large copper-clad steamship named "Man Thoa", marking efforts to adopt Western technology.
+*   **Jul. 1868:** The court purchased a large copper-clad steamship named "Man Thoa", marking efforts to adopt Western technology. [Source: Steamship Man Thoa and Vietnam's First Cruiser Fleet (Voice of Vietnam), https://vov.gov.vn/doi-tuan-duong-quan-dau-tien-cua-viet-nam-dtnew-388799]
 
 <!-- id: EVT-1235 -->
-*   **Oct. 27, 1868:** Hero Nguyen Trung Truc is executed by the French in Rach Gia (Kien Giang), leaving behind the immortal quote: *"Only when the French pull up all the grass in Vietnam will there be no more Vietnamese fighting the French."*
+*   **Oct. 27, 1868:** Hero Nguyen Trung Truc is executed by the French in Rach Gia (Kien Giang), leaving behind the immortal quote: *"Only when the French pull up all the grass in Vietnam will there be no more Vietnamese fighting the French."* [Source: National Hero Nguyen Trung Truc (Wikipedia), https://en.wikipedia.org/wiki/Nguyen_Trung_Truc]
 
 ![Historical Image](images/event_20260924_124307.webp)
 
 *Source: Nguyen Trung Truc Temple, Rach Gia, Kien Giang (Photo: Bui Thuy Dao Nguyen / CC BY-SA 3.0)*
 
 <!-- id: EVT-1236 -->
-*   **Feb. 1869:** Chữ Quốc ngữ was mandated for use in official documents in Cochinchina, replacing chữ Nho (classical Chinese characters), according to a decree by Vice Admiral Marie Gustave Hector Ohier.
+*   **Feb. 1869:** Chữ Quốc ngữ was mandated for use in official documents in Cochinchina, replacing chữ Nho (classical Chinese characters), according to a decree by Vice Admiral Marie Gustave Hector Ohier. [Source: History of the Vietnamese Alphabet (Wikipedia), https://en.wikipedia.org/wiki/Vietnamese_alphabet]
 
 <!-- id: EVT-1237 -->
-*   **May 16, 1869:** Cochinchina Governor Ohier signed a decree transferring management of the *Gia Định báo* newspaper to Trương Vĩnh Ký as Director and Huỳnh Tịnh Của as Editor-in-Chief. This marked the milestone of *Gia Định báo* becoming the first newspaper managed by Vietnamese intellectuals, transforming it from an administrative gazette into a socio-cultural publication that decisively popularized and standardized chữ Quốc ngữ.
+*   **May 16, 1869:** Cochinchina Governor Ohier signed a decree transferring management of the *Gia Định báo* newspaper to Trương Vĩnh Ký as Director and Huỳnh Tịnh Của as Editor-in-Chief. This marked the milestone of *Gia Định báo* becoming the first newspaper managed by Vietnamese intellectuals, transforming it from an administrative gazette into a socio-cultural publication that decisively popularized and standardized chữ Quốc ngữ. [Source: Gia Dinh Bao (National Museum of History), https://baotanglichsu.vn/VI/Articles/3097/13409/gia-djinh-bao-to-bao-chu-quoc-ngu-djau-tien-o-viet-nam.html]
 
 <!-- id: EVT-1238 -->
-*   **1870:** The insurgent forces of Truong Quyen (son of Truong Dinh) closely coordinated with the movement of Pu Kom Po, expanding anti-French resistance operations along the southwestern border (Tay Ninh, Chau Doc), demonstrating a historic alliance against colonial aggression.
+*   **1870:** The insurgent forces of Truong Quyen (son of Truong Dinh) closely coordinated with the movement of Pu Kom Po, expanding anti-French resistance operations along the southwestern border (Tay Ninh, Chau Doc), demonstrating a historic alliance against colonial aggression. [Source: Truong Quyen (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Tr%C6%B0%C6%A1ng_Quy%E1%BB%81n]
 
 <!-- id: EVT-1239 -->
-*   **1871:** In tribute to the unyielding loyalty and heroic sacrifice of Grand Marshal Trương Định, Emperor Tự Đức issued an imperial decree posthumously conferring honorary ranks upon him and ordering the construction of a memorial temple at his ancestral village of Tư Cung (Bình Sơn, Quảng Ngãi).
+*   **1871:** In tribute to the unyielding loyalty and heroic sacrifice of Grand Marshal Trương Định, Emperor Tự Đức issued an imperial decree posthumously conferring honorary ranks upon him and ordering the construction of a memorial temple at his ancestral village of Tư Cung (Bình Sơn, Quảng Ngãi). [Source: Veritable Records of Dai Nam – Main Part (Fourth Chronicle, Vol. 45); Truong Dinh, https://vi.wikipedia.org/wiki/Tr%C6%B0%C6%A1ng_%C4%90%E1%BB%8Bnh]
 
 <!-- id: EVT-1240 -->
-*   **1871:** French merchant and explorer Jean Dupuis unilaterally led an armed flotilla up the Red River to Yunnan to illicitly trade weapons and salt, defying prohibitions from the Hue imperial court and initiating a series of provocations that led to the first French assault and capture of Tonkin (1873).
+*   **1871:** French merchant and explorer Jean Dupuis unilaterally led an armed flotilla up the Red River to Yunnan to illicitly trade weapons and salt, defying prohibitions from the Hue imperial court and initiating a series of provocations that led to the first French assault and capture of Tonkin (1873). [Source: Jean Dupuis (Wikipedia), https://en.wikipedia.org/wiki/Jean_Dupuis]
 
 <!-- id: EVT-1241 -->
-*   **1871:** Patriotic Confucian scholar Nguyễn Khuyến achieved first place across all three imperial examination tiers—Regional (Giải nguyên in 1864), Metropolitan (Hội nguyên), and Palace (Đình nguyên - Hoàng giáp) exams—under Emperor Tự Đức, earning the illustrious title "Tam Nguyên Yên Đổ" in Vietnamese academic history.
+*   **1871:** Patriotic Confucian scholar Nguyễn Khuyến achieved first place across all three imperial examination tiers—Regional (Giải nguyên in 1864), Metropolitan (Hội nguyên), and Palace (Đình nguyên - Hoàng giáp) exams—under Emperor Tự Đức, earning the illustrious title "Tam Nguyên Yên Đổ" in Vietnamese academic history. [Source: Nguyen Khuyen (Wikipedia), https://en.wikipedia.org/wiki/Nguyen_Khuyen]
 
 <!-- id: EVT-1242 -->
-*   **Nov. 1872:** Jean Dupuis, a French merchant, began causing disturbances in Tonkin (Bac Ky), under the pretext of transporting goods to Yunnan.
+*   **Nov. 1872:** Jean Dupuis, a French merchant, began causing disturbances in Tonkin (Bac Ky), under the pretext of transporting goods to Yunnan. [Source: Jean Dupuis (Wikipedia), https://en.wikipedia.org/wiki/Jean_Dupuis]
 
 <!-- id: EVT-1243 -->
-*   **1873:** The administrative seat of Doan Hung prefecture (Son Tay province) was burned and destroyed by bandits.
+*   **1873:** The administrative seat of Doan Hung prefecture (Son Tay province) was burned and destroyed by bandits. [Source: National History Office of the Nguyen Dynasty, Dai Nam Nhat Thong Chi (Son Tay Province)]
 
 <!-- id: EVT-1244 -->
-*   **1873:** French explorer Jean Dupuis arrived at Ninh Hai (Hai Phong) with small boats from Saigon, beginning his exploration of the Red River to find a trade route to Yunnan, China.
+*   **1873:** French explorer Jean Dupuis arrived at Ninh Hai (Hai Phong) with small boats from Saigon, beginning his exploration of the Red River to find a trade route to Yunnan, China. [Source: Jean Dupuis (Wikipedia), https://en.wikipedia.org/wiki/Jean_Dupuis]
 
 <!-- id: EVT-1245 -->
-*   **April and May 1873:** French Admiral Dupré sent reports to Paris detailing Jean Dupuis's "discovery" of the Red River route, proposing an urgent alliance with King Tu Duc to establish a French presence in Tonkin (Northern Vietnam).
+*   **April and May 1873:** French Admiral Dupré sent reports to Paris detailing Jean Dupuis's "discovery" of the Red River route, proposing an urgent alliance with King Tu Duc to establish a French presence in Tonkin (Northern Vietnam). [Source: Jean Dupuis (Wikipedia), https://en.wikipedia.org/wiki/Jean_Dupuis]
 
 <!-- id: EVT-1246 -->
-*   **April 12, 1873 (Quy Dau year):** While King Tu Duc was touring the Thuan An estuary, Chinese pirates (Tau O) brazenly attacked nine transport ships of the Nguyen court right off the coast. The pirates seized two ships, killed soldiers, and plundered wealth while the court's military officials watched helplessly, exposing the severe weakness of Vietnam's naval defenses.
+*   **April 12, 1873 (Quy Dau year):** While King Tu Duc was touring the Thuan An estuary, Chinese pirates (Tau O) brazenly attacked nine transport ships of the Nguyen court right off the coast. The pirates seized two ships, killed soldiers, and plundered wealth while the court's military officials watched helplessly, exposing the severe weakness of Vietnam's naval defenses. [Source: Bui Vien (Wikipedia), https://en.wikipedia.org/wiki/Bui_Vien]
 
 <!-- id: EVT-1247 -->
-*   **July 1873 (Tu Duc 26):** Bui Vien departed from Thuy Van mountain (Hue) on a diplomatic and exploratory mission abroad, sanctioned by King Tu Duc. He traveled to Hong Kong, Japan, and the United States in an unprecedented effort to forge diplomatic ties, acquire modern technology, and seek support to preserve Vietnam's independence.
+*   **July 1873 (Tu Duc 26):** Bui Vien departed from Thuy Van mountain (Hue) on a diplomatic and exploratory mission abroad, sanctioned by King Tu Duc. He traveled to Hong Kong, Japan, and the United States in an unprecedented effort to forge diplomatic ties, acquire modern technology, and seek support to preserve Vietnam's independence. [Source: Bui Vien (Wikipedia), https://en.wikipedia.org/wiki/Bui_Vien]
 
 <!-- id: EVT-1248 -->
 *   **Nov. 20, 1873:** First Battle of Hanoi. Under the pretext of resolving a commercial dispute, French Captain Francis Garnier and merchant Jean Dupuis led an assault on the Hanoi Citadel. The citadel fell in less than an hour. Governor-General Nguyen Tri Phuong was severely wounded and captured, subsequently starving himself to death, while his son Nguyen Lam was killed. Over 2,000 Vietnamese troops were taken prisoner. Following this, Garnier unilaterally declared the Red River open to free trade. [Source: Vietnam National Museum of History - 139 years ago, November 20, 1873: French troops attack Hanoi Citadel for the first time, https://baotanglichsu.vn/vi/Articles/3097/13006/cach-djay-139-nam-ngay-20-11-1873-quan-phap-djanh-thanh-ha-noi-lan-thu-nhat.html]
 
 <!-- id: EVT-1249 -->
-*   **Nov. 26 - Dec. 10, 1873:** French forces expanded control across the Tonkin Delta. Hautefeuille captured the Ninh Binh Citadel on December 5 with a tiny force, and Garnier captured the Nam Dinh Citadel on December 10 after fierce bombardments.
+*   **Nov. 26 - Dec. 10, 1873:** French forces expanded control across the Tonkin Delta. Hautefeuille captured the Ninh Binh Citadel on December 5 with a tiny force, and Garnier captured the Nam Dinh Citadel on December 10 after fierce bombardments. [Source: Francis Garnier (Wikipedia), https://en.wikipedia.org/wiki/Francis_Garnier]
 
 <!-- id: EVT-1250 -->
 *   **Dec. 21, 1873:** First Battle of Cau Giay. Vietnamese royal forces and the Black Flag Army, commanded by Luu Vinh Phuc, ambushed French troops outside Hanoi. Captain Francis Garnier and several officers were killed while pursuing the retreating forces. This significant victory for Vietnam temporarily halted French expansion in Tonkin. [Source: Vietnam National Museum of History - The First Battle of Hanoi (1873), a part of the Franco-Vietnamese War, https://baotanglichsu.vn/vi/Articles/3097/15385/tran-chien-ha-thanh-lan-thu-nhat-1873-mot-phan-trong-cuoc-chien-tranh-phap-viet.html]
 
 <!-- id: EVT-1251 -->
-*   **1874:** The uprising of Tran Tan and Dang Nhu Mai broke out in Nghe An and Ha Tinh with the slogan "Sat Ta" (Kill the Heretics), opposing the Treaty of Giap Tuat and the spread of Catholicism.
+*   **1874:** The uprising of Tran Tan and Dang Nhu Mai broke out in Nghe An and Ha Tinh with the slogan "Sat Ta" (Kill the Heretics), opposing the Treaty of Giap Tuat and the spread of Catholicism. [Source: Tran Tan (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_T%E1%BA%A5n]
 
 <!-- id: EVT-1252 -->
-*   **Feb. 1874:** French forces withdrew from Hanoi and the other occupied cities in Tonkin.
+*   **Feb. 1874:** French forces withdrew from Hanoi and the other occupied cities in Tonkin. [Source: Francis Garnier (Wikipedia), https://en.wikipedia.org/wiki/Francis_Garnier]
 
 <!-- id: EVT-1253 -->
-*   **Mar. 15, 1874:** The Hue court (represented by Le Tuan and Nguyen Van Tuong) signed the Treaty of Giap Tuat with France (represented by Rear Admiral Dupré), recognizing France's permanent sovereignty over the six provinces of Cochinchina and agreeing to open Tonkin to French trade and the stationing of a Consul.
+*   **Mar. 15, 1874:** The Hue court (represented by Le Tuan and Nguyen Van Tuong) signed the Treaty of Giap Tuat with France (represented by Rear Admiral Dupré), recognizing France's permanent sovereignty over the six provinces of Cochinchina and agreeing to open Tonkin to French trade and the stationing of a Consul. [Source: Treaty of Saigon 1874 (Wikipedia), https://en.wikipedia.org/wiki/Treaty_of_Saigon_(1874)]
 
 <!-- id: EVT-1254 -->
-*   **Aug. 31, 1874:** The Commercial Treaty was signed in Saigon, regulating trade duties and regulations at the newly opened ports of Thi Nai (Binh Dinh), Ninh Hai (Hai Duong), and Hanoi.
+*   **Aug. 31, 1874:** The Commercial Treaty was signed in Saigon, regulating trade duties and regulations at the newly opened ports of Thi Nai (Binh Dinh), Ninh Hai (Hai Duong), and Hanoi. [Source: Commercial Treaty of Saigon 1874 (Wikipedia), https://en.wikipedia.org/wiki/Treaty_of_Saigon_(1874)]
 
 <!-- id: EVT-1255 -->
-*   **Late 1875:** The Hue court established the **Coastal Defense Office** (Nha Hai Phong) at Thuan An estuary and the **Patrol and Transport Office** (Nha Tuan Tai) to strengthen coastal defense and manage water transport.
+*   **Late 1875:** The Hue court established the **Coastal Defense Office** (Nha Hai Phong) at Thuan An estuary and the **Patrol and Transport Office** (Nha Tuan Tai) to strengthen coastal defense and manage water transport. [Source: First Cruiser Fleet and Patrol Office (Voice of Vietnam), https://vov.gov.vn/doi-tuan-duong-quan-dau-tien-cua-viet-nam-dtnew-388799]
 
 <!-- id: EVT-1256 -->
-*   **1876:** Trương Vĩnh Ký undertook an exploratory journey to Tonkin (Northern Vietnam) at the behest of Cochinchina Governor Duperré, subsequently publishing the travelogue *"Chuyến đi Bắc Kỳ năm Ất Hợi (1876)"*. While offering valuable observations on northern geography, customs, and society, the text also documented conciliatory political advice favoring French oversight, later becoming a subject of intense controversy regarding his political stance.
+*   **1876:** Trương Vĩnh Ký undertook an exploratory journey to Tonkin (Northern Vietnam) at the behest of Cochinchina Governor Duperré, subsequently publishing the travelogue *"Chuyến đi Bắc Kỳ năm Ất Hợi (1876)"*. While offering valuable observations on northern geography, customs, and society, the text also documented conciliatory political advice favoring French oversight, later becoming a subject of intense controversy regarding his political stance. [Source: Truong Vinh Ky and Journey to Tonkin in the Year of At Hoi (People's Police Newspaper), https://cand.vn/truong-vinh-ky-nguoi-thay-nha-van-hoa-lon-cua-dan-toc-post376414.html]
 
 <!-- id: EVT-1257 -->
 *   **July 8, 1876 (Tu Duc 29):** Bui Vien submitted a comprehensive report to the Hue court proposing the establishment of a modernized naval force ("Tuan duong quan"). The force was designed to eradicate piracy, protect maritime trade, and secure the transport of state funds by integrating former pirates and fishermen into a professional navy.
