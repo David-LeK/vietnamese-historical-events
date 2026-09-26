@@ -4069,88 +4069,88 @@
 *   **1876:** Trương Vĩnh Ký thực hiện chuyến công du ra Bắc Kỳ theo yêu cầu của Thống đốc Nam Kỳ Duperré, sau đó xuất bản tập ký *"Chuyến đi Bắc Kỳ năm Ất Hợi (1876)"*. Tác phẩm phản ánh phong phú địa lý, phong tục và xã hội miền Bắc đương thời, song cũng ghi lại những khuyến nghị chính trị hòa hoãn và chấp nhận sự can thiệp của Pháp, trở thành một chủ đề gây nhiều tranh cãi về lập trường chính trị của ông sau này. [Nguồn: Trương Vĩnh Ký và Chuyến đi Bắc Kỳ năm Ất Hợi (Báo Công an Nhân dân), https://cand.vn/truong-vinh-ky-nguoi-thay-nha-van-hoa-lon-cua-dan-toc-post376414.html]
 
 <!-- id: EVT-1257 -->
-*   **Ngày 08/07/1876 (Tự Đức thứ 29):** Bùi Viện dâng một bản tấu trình chi tiết lên triều đình Huế đề xuất thành lập lực lượng hải quân hiện đại mang tên "Tuần dương quân". Lực lượng này được thiết kế để tiêu diệt hải tặc, bảo vệ thương mại trên biển và đảm bảo an toàn cho việc vận chuyển ngân khố quốc gia bằng cách thu dụng những cựu hải tặc và ngư dân vào một lực lượng hải quân chuyên nghiệp.
+*   **Ngày 08/07/1876 (Tự Đức thứ 29):** Bùi Viện dâng một bản tấu trình chi tiết lên triều đình Huế đề xuất thành lập lực lượng hải quân hiện đại mang tên "Tuần dương quân". Lực lượng này được thiết kế để tiêu diệt hải tặc, bảo vệ thương mại trên biển và đảm bảo an toàn cho việc vận chuyển ngân khố quốc gia bằng cách thu dụng những cựu hải tặc và ngư dân vào một lực lượng hải quân chuyên nghiệp. [Nguồn: Bùi Viện với triều đình Tự Đức (Báo Công an Nhân dân), https://cand.com.vn/Tu-lieu-antg/Nha-ngoai-giao-dau-tien-sang-My-va-cai-chet-bi-an-i396264/]
 
 <!-- id: EVT-1258 -->
-*   **10/1876:** Thành lập **đạo Mỹ Đức** (gồm các huyện Chương Đức, Hoài Yên, Mỹ Lương thuộc Hà Nội và Sơn Tây) để tăng cường phòng bị và khai khẩn.
+*   **10/1876:** Thành lập **đạo Mỹ Đức** (gồm các huyện Chương Đức, Hoài Yên, Mỹ Lương thuộc Hà Nội và Sơn Tây) để tăng cường phòng bị và khai khẩn. [Nguồn: Đại Nam thực lục chính biên (Đệ tứ kỷ, quyển 56)]
 
 <!-- id: EVT-1259 -->
-*   **01/10/1876:** Huỳnh Thúc Kháng (tên khai sinh là Huỳnh Văn Thước, tự Giới Sanh, hiệu Mính Viên) sinh ra tại làng Thạnh Bình, huyện Tiên Phước, tỉnh Quảng Nam. Ông là một chí sĩ yêu nước lỗi lạc, nhà văn hóa lớn, nhà báo kiệt xuất, nguyên Viện trưởng Viện Dân biểu Trung Kỳ, nguyên Bộ trưởng Bộ Nội vụ và Quyền Chủ tịch nước Việt Nam Dân chủ Cộng hòa.
+*   **01/10/1876:** Huỳnh Thúc Kháng (tên khai sinh là Huỳnh Văn Thước, tự Giới Sanh, hiệu Mính Viên) sinh ra tại làng Thạnh Bình, huyện Tiên Phước, tỉnh Quảng Nam. Ông là một chí sĩ yêu nước lỗi lạc, nhà văn hóa lớn, nhà báo kiệt xuất, nguyên Viện trưởng Viện Dân biểu Trung Kỳ, nguyên Bộ trưởng Bộ Nội vụ và Quyền Chủ tịch nước Việt Nam Dân chủ Cộng hòa. [Nguồn: Chí sĩ yêu nước Huỳnh Thúc Kháng (Báo Nhân Dân), https://nhandan.vn/chi-si-yeu-nuoc-huynh-thuc-khang-nha-lanh-dao-tien-boi-tieu-bieu-cua-dang-va-cach-mang-viet-nam-post670559.html]
 
 <!-- id: EVT-1260 -->
-*   **Tháng 04/1878 (Tự Đức thứ 31):** Đội Tuần dương quân mới thành lập do Bùi Viện chỉ huy đã tham gia một trận hải chiến ác liệt chống lại hải tặc Tàu Ô tại vùng biển Hà Tĩnh. Sử dụng hỏa công, hải quân Việt Nam đã buộc bọn cướp biển phải bỏ chạy, thu giữ một chiếc thuyền, nhiều vũ khí và bắt sống 18 tên giặc.
+*   **Tháng 04/1878 (Tự Đức thứ 31):** Đội Tuần dương quân mới thành lập do Bùi Viện chỉ huy đã tham gia một trận hải chiến ác liệt chống lại hải tặc Tàu Ô tại vùng biển Hà Tĩnh. Sử dụng hỏa công, hải quân Việt Nam đã buộc bọn cướp biển phải bỏ chạy, thu giữ một chiếc thuyền, nhiều vũ khí và bắt sống 18 tên giặc. [Nguồn: Đại Nam thực lục chính biên (Đệ tứ kỷ, quyển 59); Báo Công an Nhân dân, https://cand.com.vn/Tu-lieu-antg/Nha-ngoai-giao-dau-tien-sang-My-va-cai-chet-bi-an-i396264/]
 
 <!-- id: EVT-1261 -->
-*   **6/4/1878:** Nghị định 82 do Thống đốc Nam Kỳ Lafont ký đã đề ra mốc hẹn bốn năm phải chuyển hẳn sang chữ quốc ngữ.
+*   **6/4/1878:** Nghị định 82 do Thống đốc Nam Kỳ Lafont ký đã đề ra mốc hẹn bốn năm phải chuyển hẳn sang chữ quốc ngữ. [Nguồn: Chữ Quốc ngữ trong chính sách của người Pháp ở Nam Kỳ (Báo VietNamNet), https://vietnamnet.vn/chu-quoc-ngu-trong-chinh-sach-ngon-ngu-cua-nguoi-phap-o-nam-ky-728860.html]
 
 <!-- id: EVT-1262 -->
-*   **Tháng 05/1878 (Tự Đức thứ 31):** Tuần dương quân của Bùi Viện đã tiến hành trận đánh lớn thứ hai chống lại hải tặc Tàu Ô ở vùng biển Thanh Hóa khi đang bảo vệ một thuyền buôn. Hải quân Việt Nam đã truy kích bọn cướp biển đến tận đảo Hải Nam (Trung Quốc), buộc chúng phải bỏ lại một chiếc thuyền chứa đầy vũ khí và quân lương.
+*   **Tháng 05/1878 (Tự Đức thứ 31):** Tuần dương quân của Bùi Viện đã tiến hành trận đánh lớn thứ hai chống lại hải tặc Tàu Ô ở vùng biển Thanh Hóa khi đang bảo vệ một thuyền buôn. Hải quân Việt Nam đã truy kích bọn cướp biển đến tận đảo Hải Nam (Trung Quốc), buộc chúng phải bỏ lại một chiếc thuyền chứa đầy vũ khí và quân lương. [Nguồn: Đại Nam thực lục chính biên (Đệ tứ kỷ, quyển 59); Báo Công an Nhân dân, https://cand.com.vn/Tu-lieu-antg/Nha-ngoai-giao-dau-tien-sang-My-va-cai-chet-bi-an-i396264/]
 
 <!-- id: EVT-1263 -->
-*   **Tháng 10/1878 (Tự Đức thứ 31):** Triều đình Huế ban hành nghị định cho phép con em các quan chức khoảng 20 tuổi được đi du học ở Hương Cảng và các nước phương Tây bằng chi phí của nhà nước. Học sinh sẽ học tập trong hơn 5 năm để tiếp thu ngoại ngữ và các kỹ năng kỹ thuật như đóng tàu, khai mỏ hoặc huấn luyện quân sự.
+*   **Tháng 10/1878 (Tự Đức thứ 31):** Triều đình Huế ban hành nghị định cho phép con em các quan chức khoảng 20 tuổi được đi du học ở Hương Cảng và các nước phương Tây bằng chi phí của nhà nước. Học sinh sẽ học tập trong hơn 5 năm để tiếp thu ngoại ngữ và các kỹ năng kỹ thuật như đóng tàu, khai mỏ hoặc huấn luyện quân sự. [Nguồn: Đại Nam thực lục chính biên (Đệ tứ kỷ, quyển 60)]
 
 <!-- id: EVT-1264 -->
-*   **24/11/1878:** Bùi Viện đột ngột qua đời vào nửa đêm tại Huế sau khi bị đau nhức khắp mình mẩy. Cái chết bất ngờ của ông để lại một khoảng trống lớn trong triều đình nhà Nguyễn, dẫn đến cuộc nổi loạn của binh lính dưới quyền và làm thất thoát ngân khố, ảnh hưởng nghiêm trọng đến công cuộc duy tân của Việt Nam.
+*   **24/11/1878:** Bùi Viện đột ngột qua đời vào nửa đêm tại Huế sau khi bị đau nhức khắp mình mẩy. Cái chết bất ngờ của ông để lại một khoảng trống lớn trong triều đình nhà Nguyễn, dẫn đến cuộc nổi loạn của binh lính dưới quyền và làm thất thoát ngân khố, ảnh hưởng nghiêm trọng đến công cuộc duy tân của Việt Nam. [Nguồn: Nhà ngoại giao đầu tiên sang Mỹ và cái chết bí ẩn (Báo Công an Nhân dân), https://cand.com.vn/Tu-lieu-antg/Nha-ngoai-giao-dau-tien-sang-My-va-cai-chet-bi-an-i396264/]
 
 <!-- id: EVT-1265 -->
-*   **1880:** Triều đình Huế sai sứ sang nhà Thanh dâng biểu xưng thần, tiếp tục quan hệ bang giao với Trung Quốc bất chấp Hòa ước 1874 với Pháp.
+*   **1880:** Triều đình Huế sai sứ sang nhà Thanh dâng biểu xưng thần, tiếp tục quan hệ bang giao với Trung Quốc bất chấp Hòa ước 1874 với Pháp. [Nguồn: Đại Nam thực lục chính biên (Đệ tứ kỷ, quyển 63)]
 
 <!-- id: EVT-1266 -->
-*   **Năm 1880 (Tự Đức thứ 33):** Triều đình Huế phái một cửu phẩm y sinh sang Hương Cảng để học phương pháp chủng đậu (tiêm phòng đậu mùa) của người Anh, thể hiện nỗ lực tiếp thu kiến thức y học hiện đại của phương Tây.
+*   **Năm 1880 (Tự Đức thứ 33):** Triều đình Huế phái một cửu phẩm y sinh sang Hương Cảng để học phương pháp chủng đậu (tiêm phòng đậu mùa) của người Anh, thể hiện nỗ lực tiếp thu kiến thức y học hiện đại của phương Tây. [Nguồn: Đại Nam thực lục chính biên (Đệ tứ kỷ, quyển 63)]
 
 <!-- id: EVT-1267 -->
-*   **02/1880:** Thành lập **đạo Lạng Giang** (Bắc Ninh) và **đạo Đoan Hùng** (Sơn Tây/Tuyên Quang) để củng cố an ninh biên giới phía Bắc.
+*   **02/1880:** Thành lập **đạo Lạng Giang** (Bắc Ninh) và **đạo Đoan Hùng** (Sơn Tây/Tuyên Quang) để củng cố an ninh biên giới phía Bắc. [Nguồn: Đại Nam thực lục chính biên (Đệ tứ kỷ, quyển 63)]
 
 <!-- id: EVT-1268 -->
-*   **1881 - 1884:** Người Đức tiến hành nghiên cứu có hệ thống tình hình thủy văn của quần đảo Hoàng Sa mà không đưa ra bất kỳ yêu sách nào về chủ quyền.
+*   **1881 - 1884:** Người Đức tiến hành nghiên cứu có hệ thống tình hình thủy văn của quần đảo Hoàng Sa mà không đưa ra bất kỳ yêu sách nào về chủ quyền. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1269 -->
-*   **Năm 1881 (Tự Đức thứ 34):** Lễ bộ Thị lang Phạm Bính được cử sang Hương Cảng để bán hai chiếc tàu cũ (Lợi Tái và Thuận Tiệp) và đóng tàu mới. Ông cũng được giao nhiệm vụ đưa 12 thanh niên Việt Nam sang nhập học tại một ngôi trường của người Anh ở Hương Cảng.
+*   **Năm 1881 (Tự Đức thứ 34):** Lễ bộ Thị lang Phạm Bính được cử sang Hương Cảng để bán hai chiếc tàu cũ (Lợi Tái và Thuận Tiệp) và đóng tàu mới. Ông cũng được giao nhiệm vụ đưa 12 thanh niên Việt Nam sang nhập học tại một ngôi trường của người Anh ở Hương Cảng. [Nguồn: Đại Nam thực lục chính biên (Đệ tứ kỷ, quyển 65)]
 
 <!-- id: EVT-1270 -->
-*   **02/1881:** Thành lập **Cục Thuyền chính** để chuyên trách quản lý tàu thuyền và vận tải đường thủy của nhà nước.
+*   **02/1881:** Thành lập **Cục Thuyền chính** để chuyên trách quản lý tàu thuyền và vận tải đường thủy của nhà nước. [Nguồn: Đại Nam thực lục chính biên (Đệ tứ kỷ, quyển 65)]
 
 <!-- id: EVT-1271 -->
-*   **1882:** Bộ sách dư địa chí chính thống *Đại Nam Nhất Thống Chí* do Quốc Sử Quán triều Nguyễn biên soạn hoàn tất (ấn hành thời vua Đồng Khánh), ghi chép tường tận về địa lý, tài nguyên và khẳng định chủ quyền của Việt Nam đối với quần đảo Hoàng Sa và Vạn Lý Trường Sa thuộc địa hạt tỉnh Quảng Ngãi.
+*   **1882:** Bộ sách dư địa chí chính thống *Đại Nam Nhất Thống Chí* do Quốc Sử Quán triều Nguyễn biên soạn hoàn tất (ấn hành thời vua Đồng Khánh), ghi chép tường tận về địa lý, tài nguyên và khẳng định chủ quyền của Việt Nam đối với quần đảo Hoàng Sa và Vạn Lý Trường Sa thuộc địa hạt tỉnh Quảng Ngãi. [Nguồn: Quốc sử quán triều Nguyễn, Đại Nam nhất thống chí (Tập 1), NXB Thuận Hóa, Huế, 2006]
 
 <!-- id: EVT-1272 -->
-*   **01/01/1882:** Mọi công văn, văn bản niêm yết đều phải viết bằng chữ quốc ngữ. Đồng thời, chỉ người biết chữ quốc ngữ mới được bổ nhiệm vào cơ quan cai trị (cấp phủ, huyện, tổng) hoặc được xét tăng trật.
+*   **01/01/1882:** Mọi công văn, văn bản niêm yết đều phải viết bằng chữ quốc ngữ. Đồng thời, chỉ người biết chữ quốc ngữ mới được bổ nhiệm vào cơ quan cai trị (cấp phủ, huyện, tổng) hoặc được xét tăng trật. [Nguồn: Chữ Quốc ngữ trong chính sách của người Pháp ở Nam Kỳ (Báo VietNamNet), https://vietnamnet.vn/chu-quoc-ngu-trong-chinh-sach-ngon-ngu-cua-nguoi-phap-o-nam-ky-728860.html]
 
 <!-- id: EVT-1273 -->
-*   **30/01/1882:** Thống đốc Nam Kỳ ra nghị định buộc công văn phải viết bằng tiếng Pháp. Nếu dùng chữ quốc ngữ, bắt buộc phải kèm theo bản dịch tiếng Pháp.
+*   **30/01/1882:** Thống đốc Nam Kỳ ra nghị định buộc công văn phải viết bằng tiếng Pháp. Nếu dùng chữ quốc ngữ, bắt buộc phải kèm theo bản dịch tiếng Pháp. [Nguồn: Chữ Quốc ngữ trong chính sách của người Pháp ở Nam Kỳ (Báo VietNamNet), https://vietnamnet.vn/chu-quoc-ngu-trong-chinh-sach-ngon-ngu-cua-nguoi-phap-o-nam-ky-728860.html]
 
 <!-- id: EVT-1274 -->
-*   **03/04/1882:** Đại tá Henri Rivière đổ bộ lên Hà Nội, bắt đầu cuộc xâm lược Bắc Kỳ lần thứ hai.
+*   **03/04/1882:** Đại tá Henri Rivière đổ bộ lên Hà Nội, bắt đầu cuộc xâm lược Bắc Kỳ lần thứ hai. [Nguồn: Chiến sự Hà Nội năm 1882 (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13670/chien-su-ha-noi-nam-1882.html]
 
 <!-- id: EVT-1275 -->
 *   **25/04/1882:** Trận thành Hà Nội lần thứ hai. Đại tá hải quân Pháp Henri Rivière gửi tối hậu thư đòi Tổng đốc Hoàng Diệu giao thành, sau đó nổ súng tấn công. Dù quân dân kháng cự quyết liệt, thành Hà Nội nhanh chóng thất thủ. Tổng đốc Hoàng Diệu đã thắt cổ tự vẫn để bảo toàn khí tiết. Thất bại này đánh dấu bước leo thang nghiêm trọng trong tham vọng xâm lược Bắc Kỳ của thực dân Pháp. [Nguồn: Bảo tàng Lịch sử Quốc gia - Cách đây 131 năm, ngày 25/4/1882 quân Pháp đánh thành Hà Nội lần thứ hai, https://baotanglichsu.vn/vi/Articles/3097/14192/cach-djay-131-nam-ngay-25-4-1882-quan-phap-djanh-thanh-ha-noi-lan-thu-hai.html]
 
 <!-- id: EVT-1276 -->
-*   **1883:** Ông Nguyễn Sinh Sắc kết duyên cùng bà Hoàng Thị Loan tại làng Hoàng Trù (Nam Đàn, Nghệ An). Cuộc hôn nhân đánh dấu sự gắn kết nghĩa tình của hai gia đình nhà nho nghèo hiếu học, mở ra tổ ấm gia đình nơi sinh thành người con vĩ đại của dân tộc - Chủ tịch Hồ Chí Minh.
+*   **1883:** Ông Nguyễn Sinh Sắc kết duyên cùng bà Hoàng Thị Loan tại làng Hoàng Trù (Nam Đàn, Nghệ An). Cuộc hôn nhân đánh dấu sự gắn kết nghĩa tình của hai gia đình nhà nho nghèo hiếu học, mở ra tổ ấm gia đình nơi sinh thành người con vĩ đại của dân tộc - Chủ tịch Hồ Chí Minh. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1277 -->
-*   **1883 - 1892:** Cuộc khởi nghĩa Bãi Sậy (Hưng Yên) bùng nổ do Đinh Gia Quế và Nguyễn Thiện Thuật (Tán Thuật) lãnh đạo, là một trong những cuộc khởi nghĩa tiêu biểu nhất ở đồng bằng Bắc Kỳ thời kỳ Cần Vương.
+*   **1883 - 1892:** Cuộc khởi nghĩa Bãi Sậy (Hưng Yên) bùng nổ do Đinh Gia Quế và Nguyễn Thiện Thuật (Tán Thuật) lãnh đạo, là một trong những cuộc khởi nghĩa tiêu biểu nhất ở đồng bằng Bắc Kỳ thời kỳ Cần Vương. [Nguồn: Khởi nghĩa Bãi Sậy (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13898/khoi-nghia-bai-say.html]
 
 <!-- id: EVT-1278 -->
-*   **27 - 28/02/1883:** Trận Gia Quất - Gia Lâm. Nhân lúc Henri Rivière dẫn quân đi vắng, lực lượng quân triều đình và quân Cờ Đen đã vượt sông Hồng bao vây thành Hà Nội. Thiếu tá Pháp Berthe de Villers chỉ huy quân đồn trú phản công, đẩy lui vòng vây của quân Việt.
+*   **27 - 28/02/1883:** Trận Gia Quất - Gia Lâm. Nhân lúc Henri Rivière dẫn quân đi vắng, lực lượng quân triều đình và quân Cờ Đen đã vượt sông Hồng bao vây thành Hà Nội. Thiếu tá Pháp Berthe de Villers chỉ huy quân đồn trú phản công, đẩy lui vòng vây của quân Việt. [Nguồn: Viện Sử học, Lịch sử Việt Nam (Tập 6: 1858–1897), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1279 -->
-*   **27/03/1883:** Trận Nam Định. Henri Rivière chỉ huy hạm đội pháo thuyền và quân thủy bộ tấn công thành Nam Định. Dù có 6.200 quân triều đình và 600 quân Cờ Đen phòng thủ, thành Nam Định vẫn rơi vào tay quân Pháp sau các đợt pháo kích dữ dội, giúp Pháp kiểm soát tuyến giao thông ra biển.
+*   **27/03/1883:** Trận Nam Định. Henri Rivière chỉ huy hạm đội pháo thuyền và quân thủy bộ tấn công thành Nam Định. Dù có 6.200 quân triều đình và 600 quân Cờ Đen phòng thủ, thành Nam Định vẫn rơi vào tay quân Pháp sau các đợt pháo kích dữ dội, giúp Pháp kiểm soát tuyến giao thông ra biển. [Nguồn: Viện Sử học, Lịch sử Việt Nam (Tập 6: 1858–1897), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1280 -->
 *   **19/05/1883:** Trận Cầu Giấy lần thứ hai. Khi quân Pháp tổ chức hành quân từ Hà Nội ra hướng Phủ Hoài, quân Cờ Đen và quân của Hoàng Tá Viêm đã mai phục sẵn tại Cầu Giấy. Quân Pháp bị đánh thiệt hại nặng, Đại tá Henri Rivière và Thiếu tá Berthe de Villers đều tử trận. Thất bại này khiến chính phủ Pháp tức giận, quyết định đổ thêm viện binh. Vua Tự Đức hạ lệnh thương lượng, không cho quân đánh tiếp, ra chiếu dụ: "Bàn hòa là người có công, bàn chiến là kẻ có tội". [Nguồn: Báo Quân đội nhân dân - Cuộc kháng Pháp xâm lược nửa cuối thế kỷ 19 - bài học khơi dậy và phát huy truyền thống yêu nước của dân tộc, https://www.qdnd.vn/chinh-tri/cac-van-de/cuoc-khang-phap-xam-luoc-nua-cuoi-the-ky-19-bai-hoc-khoi-day-va-phat-huy-truyen-thong-yeu-nuoc-cua-dan-toc-548294]
 
 <!-- id: EVT-1281 -->
-*   **17/07/1883:** Vua Tự Đức qua đời, nội bộ triều đình Huế lục đục, rối loạn.
+*   **17/07/1883:** Vua Tự Đức qua đời, nội bộ triều đình Huế lục đục, rối loạn. [Nguồn: Vua Tự Đức (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13768/vua-tu-duc.html]
 
 <!-- id: EVT-1282 -->
-*   **19/07 - 23/07/1883 (Quý Mùi):** Sau khi vua Tự Đức qua đời, Hoàng tử trưởng nuôi là Ưng Chân được tôn lên ngôi hoàng đế (vua Dục Đức). Tuy nhiên chỉ 3 ngày sau, nhà vua bị hai phụ chính đại thần Nguyễn Văn Tường và Tôn Thất Thuyết cáo buộc sửa đổi di chiếu rồi phế truất, sau đó bị biệt giam và qua đời vì đói vào tháng 10/1884.
+*   **19/07 - 23/07/1883 (Quý Mùi):** Sau khi vua Tự Đức qua đời, Hoàng tử trưởng nuôi là Ưng Chân được tôn lên ngôi hoàng đế (vua Dục Đức). Tuy nhiên chỉ 3 ngày sau, nhà vua bị hai phụ chính đại thần Nguyễn Văn Tường và Tôn Thất Thuyết cáo buộc sửa đổi di chiếu rồi phế truất, sau đó bị biệt giam và qua đời vì đói vào tháng 10/1884. [Nguồn: Vua Dục Đức (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13769/vua-duc-duc.html]
 
 <!-- id: EVT-1283 -->
-*   **30/07/1883 (Quý Mùi):** Sau khi vua Dục Đức bị phế truất, Lãng Quốc công Nguyễn Phúc Hồng Dật (con thứ 29 của vua Thiệu Trị) được tôn lên ngôi hoàng đế, đặt niên hiệu Hiệp Hòa. Trước sức ép quân sự dữ dội của Pháp sau khi cửa biển Thuận An thất thủ, triều đình buộc phải ký Hòa ước Quý Mùi (Harmand) chấp nhận sự bảo hộ của thực dân Pháp.
+*   **30/07/1883 (Quý Mùi):** Sau khi vua Dục Đức bị phế truất, Lãng Quốc công Nguyễn Phúc Hồng Dật (con thứ 29 của vua Thiệu Trị) được tôn lên ngôi hoàng đế, đặt niên hiệu Hiệp Hòa. Trước sức ép quân sự dữ dội của Pháp sau khi cửa biển Thuận An thất thủ, triều đình buộc phải ký Hòa ước Quý Mùi (Harmand) chấp nhận sự bảo hộ của thực dân Pháp. [Nguồn: Vua Hiệp Hòa (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13770/vua-hiep-hoa.html]
 
 <!-- id: EVT-1284 -->
-*   **15 - 16/08/1883:** Trận Phủ Hoài (Trận Dịch Vọng). Tướng Pháp Bouët mở cuộc tấn công quy mô lớn vào phòng tuyến của quân Cờ Đen do Lưu Vĩnh Phúc chỉ huy ở phía tây bắc Hà Nội. Một trận lụt lớn vỡ đê sông Hồng đã làm ngập lụt chiến trường, buộc quân Cờ Đen phải rút lui và bỏ lại nhiều vũ khí, cản trở quân Pháp giáng một đòn quyết định.
+*   **15 - 16/08/1883:** Trận Phủ Hoài (Trận Dịch Vọng). Tướng Pháp Bouët mở cuộc tấn công quy mô lớn vào phòng tuyến của quân Cờ Đen do Lưu Vĩnh Phúc chỉ huy ở phía tây bắc Hà Nội. Một trận lụt lớn vỡ đê sông Hồng đã làm ngập lụt chiến trường, buộc quân Cờ Đen phải rút lui và bỏ lại nhiều vũ khí, cản trở quân Pháp giáng một đòn quyết định. [Nguồn: Viện Sử học, Lịch sử Việt Nam (Tập 6: 1858–1897), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1285 -->
 *   **18 - 20/08/1883:** Trận cửa Thuận An. Hạm đội Pháp do Đô đốc Amédée Courbet chỉ huy tiến hành pháo kích ác liệt và đổ bộ đánh chiếm các hải đồn phòng thủ tại cửa Thuận An, khống chế hoàn toàn cửa ngõ đường thủy tiến vào kinh thành Huế. Quân phòng thủ triều đình chịu thương vong rất lớn, buộc triều đình nhà Nguyễn phải xin đình chiến. [Nguồn: Quốc sử quán triều Nguyễn, Đại Nam thực lục, Đệ ngũ kỷ - Quyển 8; Cao Xuân Dục, Quốc triều chánh biên toát yếu]
@@ -4163,31 +4163,31 @@
 *   **25/08/1883:** Triều đình Huế ký Hòa ước Quý Mùi (Hiệp ước Harmand), chính thức công nhận nền bảo hộ của Pháp trên toàn cõi Việt Nam. [Nguồn: Bảo tàng Lịch sử Quốc gia - Hiệp ước Harman (25-8-1883), bản Hiệp ước chính thức đánh dấu thời Pháp thuộc ở Việt Nam, https://baotanglichsu.vn/vi/Articles/3097/14946/hiep-uoc-harman-25-8-1883-ban-hiep-uoc-chinh-thuc-djanh-dau-thoi-phap-thuoc-o-viet-nam.html]
 
 <!-- id: EVT-1287 -->
-*   **29/11/1883 (Quý Mùi):** Sau 4 tháng trị vì, do có ý định liên lạc với Pháp để kiềm chế quyền hành của phái chủ chiến, vua Hiệp Hòa bị hai quyền thần Nguyễn Văn Tường và Tôn Thất Thuyết phế truất và ép uống thuốc độc tự tử tại viện Dục Đức. Hoàng tử Ưng Đăng (14 tuổi) được đưa lên nối ngôi (vua Kiến Phúc).
+*   **29/11/1883 (Quý Mùi):** Sau 4 tháng trị vì, do có ý định liên lạc với Pháp để kiềm chế quyền hành của phái chủ chiến, vua Hiệp Hòa bị hai quyền thần Nguyễn Văn Tường và Tôn Thất Thuyết phế truất và ép uống thuốc độc tự tử tại viện Dục Đức. Hoàng tử Ưng Đăng (14 tuổi) được đưa lên nối ngôi (vua Kiến Phúc). [Nguồn: Vua Hiệp Hòa (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13770/vua-hiep-hoa.html]
 
 <!-- id: EVT-1288 -->
-*   **30/11/1883:** Hai Phụ chính đại thần Nguyễn Văn Tường và Tôn Thất Thuyết ra lệnh giết hại Phụ chính đại thần Trần Tiễn Thành do bất đồng chính kiến về việc phế lập vua và chủ trương đối ngoại.
+*   **30/11/1883:** Hai Phụ chính đại thần Nguyễn Văn Tường và Tôn Thất Thuyết ra lệnh giết hại Phụ chính đại thần Trần Tiễn Thành do bất đồng chính kiến về việc phế lập vua và chủ trương đối ngoại. [Nguồn: Đại Nam thực lục chính biên (Đệ ngũ kỷ, quyển 1)]
 
 <!-- id: EVT-1289 -->
-*   **11 - 16/12/1883:** Trận Sơn Tây. Đô đốc Courbet huy động 9.000 quân Pháp tấn công thành cổ Sơn Tây, trung tâm kháng chiến mạnh nhất do quân Cờ Đen, quân nhà Nguyễn và quân nhà Thanh phòng thủ. Trận chiến diễn ra đẫm máu với thương vong rất lớn. Quân Pháp dùng đại bác phá vỡ cửa Tây, buộc Lưu Vĩnh Phúc phải rút quân. Việc mất Sơn Tây là một đòn giáng nặng nề vào lực lượng kháng chiến.
+*   **11 - 16/12/1883:** Trận Sơn Tây. Đô đốc Courbet huy động 9.000 quân Pháp tấn công thành cổ Sơn Tây, trung tâm kháng chiến mạnh nhất do quân Cờ Đen, quân nhà Nguyễn và quân nhà Thanh phòng thủ. Trận chiến diễn ra đẫm máu với thương vong rất lớn. Quân Pháp dùng đại bác phá vỡ cửa Tây, buộc Lưu Vĩnh Phúc phải rút quân. Việc mất Sơn Tây là một đòn giáng nặng nề vào lực lượng kháng chiến. [Nguồn: Viện Sử học, Lịch sử Việt Nam (Tập 6: 1858–1897), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1290 -->
-*   **1884 - 1945:** Pháp tiếp tục quản lý hai quần đảo Hoàng Sa và Trường Sa với tư cách là lãnh thổ của Liên bang Đông Dương thuộc Pháp.
+*   **1884 - 1945:** Pháp tiếp tục quản lý hai quần đảo Hoàng Sa và Trường Sa với tư cách là lãnh thổ của Liên bang Đông Dương thuộc Pháp. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1291 -->
-*   **1884:** Nhà nghiên cứu người Pháp Julien ghi nhận sự tổ chức các phố nghề (Hàng Bát Sứ, Hàng Đàn, Hàng Đồng...) tại Hà Nội, cho thấy sự chuyển hóa độc đáo của mô hình phường hội nông thôn vào không gian đô thị Việt Nam.
+*   **1884:** Nhà nghiên cứu người Pháp Julien ghi nhận sự tổ chức các phố nghề (Hàng Bát Sứ, Hàng Đàn, Hàng Đồng...) tại Hà Nội, cho thấy sự chuyển hóa độc đáo của mô hình phường hội nông thôn vào không gian đô thị Việt Nam. [Nguồn: Viện Sử học, Lịch sử Việt Nam (Tập 6: 1858–1897), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1292 -->
-*   **1884:** Sau khi triều đình nhà Nguyễn ký Hiệp ước Giáp Thân (1884) thừa nhận quyền bảo hộ của thực dân Pháp, quan Tổng đốc Nguyễn Khuyến cáo quan về ở ẩn tại làng Yên Đổ (Hà Nam), giữ tròn khí tiết thanh cao, sáng tác nhiều tác phẩm thơ ca hiện thực - trào phúng và chùm thơ thu bất hủ (*Thu điếu*, *Thu vịnh*, *Thu ẩm*).
+*   **1884:** Sau khi triều đình nhà Nguyễn ký Hiệp ước Giáp Thân (1884) thừa nhận quyền bảo hộ của thực dân Pháp, quan Tổng đốc Nguyễn Khuyến cáo quan về ở ẩn tại làng Yên Đổ (Hà Nam), giữ tròn khí tiết thanh cao, sáng tác nhiều tác phẩm thơ ca hiện thực - trào phúng và chùm thơ thu bất hủ (*Thu điếu*, *Thu vịnh*, *Thu ẩm*). [Nguồn: Viện Sử học, Lịch sử Việt Nam (Tập 6: 1858–1897), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1293 -->
-*   **01/1884:** Vua Kiến Phúc ra lệnh cho chế tạo thử súng kiểu phương Tây và dệt thử các loại vải theo kỹ thuật phương Tây.
+*   **01/1884:** Vua Kiến Phúc ra lệnh cho chế tạo thử súng kiểu phương Tây và dệt thử các loại vải theo kỹ thuật phương Tây. [Nguồn: Đại Nam thực lục chính biên (Đệ ngũ kỷ, quyển 2)]
 
 <!-- id: EVT-1294 -->
-*   **02/1884:** Vua Kiến Phúc xuống dụ buộc tất cả những người có khoa bảng (Tiến sĩ, Cử nhân...) phải ra làm quan để phục vụ đất nước, ai trốn tránh sẽ bị tước bằng sắc.
+*   **02/1884:** Vua Kiến Phúc xuống dụ buộc tất cả những người có khoa bảng (Tiến sĩ, Cử nhân...) phải ra làm quan để phục vụ đất nước, ai trốn tránh sẽ bị tước bằng sắc. [Nguồn: Đại Nam thực lục chính biên (Đệ ngũ kỷ, quyển 3)]
 
 <!-- id: EVT-1295 -->
-*   **06 - 12/03/1884:** Trận Bắc Ninh. Trung tướng Charles-Théodore Millot chỉ huy 16.300 quân Pháp mở chiến dịch lớn đánh chiếm thành Bắc Ninh, nơi tập trung hơn 2 vạn quân Thanh. Quân Pháp sử dụng chiến thuật vu hồi qua sông Đuống và nã pháo dữ dội, khiến quân Thanh hoảng loạn tháo chạy. Pháp chiếm được Bắc Ninh, củng cố sự kiểm soát đồng bằng Bắc Bộ.
+*   **06 - 12/03/1884:** Trận Bắc Ninh. Trung tướng Charles-Théodore Millot chỉ huy 16.300 quân Pháp mở chiến dịch lớn đánh chiếm thành Bắc Ninh, nơi tập trung hơn 2 vạn quân Thanh. Quân Pháp sử dụng chiến thuật vu hồi qua sông Đuống và nã pháo dữ dội, khiến quân Thanh hoảng loạn tháo chạy. Pháp chiếm được Bắc Ninh, củng cố sự kiểm soát đồng bằng Bắc Bộ. [Nguồn: Viện Sử học, Lịch sử Việt Nam (Tập 6: 1858–1897), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1296 -->
 *   **16/03/1884:** Cuộc khởi nghĩa Yên Thế (Bắc Giang) bùng nổ dưới sự lãnh đạo của Lương Văn Nắm (Đề Nắm) và Hoàng Hoa Thám (Đề Thám), mở đầu phong trào kháng chiến vũ trang nông dân kiên cường kéo dài gần 30 năm chống thực dân Pháp. [Nguồn: http://baotanglichsu.vn/vi/Articles/3096/12398/khoi-nghia-yen-the-1884-1913.html]
@@ -4197,13 +4197,13 @@
 *Nguồn: Hoàng Hoa Thám (Đề Thám), lãnh tụ khởi nghĩa Yên Thế / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-1297 -->
-*   **11 - 12/04/1884:** Trận Hưng Hóa. Quân Pháp dưới hỏa lực pháo binh áp đảo và sự hỗ trợ chỉ điểm từ khinh khí cầu đã tấn công và chiếm thành Hưng Hóa. Tuần phủ Nguyễn Quang Bích kiên quyết không đầu hàng, rút quân lên vùng rừng núi Tiên Động để tiếp tục kháng chiến.
+*   **11 - 12/04/1884:** Trận Hưng Hóa. Quân Pháp dưới hỏa lực pháo binh áp đảo và sự hỗ trợ chỉ điểm từ khinh khí cầu đã tấn công và chiếm thành Hưng Hóa. Tuần phủ Nguyễn Quang Bích kiên quyết không đầu hàng, rút quân lên vùng rừng núi Tiên Động để tiếp tục kháng chiến. [Nguồn: Viện Sử học, Lịch sử Việt Nam (Tập 6: 1858–1897), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1298 -->
-*   **11/05/1884:** Pháp và nhà Thanh ký Quy ước Thiên Tân, nhà Thanh đồng ý rút quân khỏi Bắc Kỳ.
+*   **11/05/1884:** Pháp và nhà Thanh ký Quy ước Thiên Tân, nhà Thanh đồng ý rút quân khỏi Bắc Kỳ. [Nguồn: Viện Sử học, Lịch sử Việt Nam (Tập 6: 1858–1897), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1299 -->
-*   **31/05/1884:** Quân Pháp do Trung tá Duchesne chỉ huy dùng pháo hạm ngược sông Lô tấn công và hạ thành Tuyên Quang, buộc quân Cờ Đen phải bỏ thành tháo chạy.
+*   **31/05/1884:** Quân Pháp do Trung tá Duchesne chỉ huy dùng pháo hạm ngược sông Lô tấn công và hạ thành Tuyên Quang, buộc quân Cờ Đen phải bỏ thành tháo chạy. [Nguồn: Viện Sử học, Lịch sử Việt Nam (Tập 6: 1858–1897), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1300 -->
 *   **06/06/1884:** Triều đình Huế (đại diện là Phạm Thận Duật, Nguyễn Văn Tường, Tôn Thất Phan) ký Hòa ước Giáp Thân (Hiệp ước Patenôtre) với Pháp (đại diện là Công sứ Patenôtre), xác lập một cách hoàn chỉnh nền bảo hộ của Pháp trên toàn Việt Nam. [Nguồn: Bảo tàng Lịch sử Quốc gia - Triều đình Nguyễn ký Hòa ước Giáp Thân 1884 (Hòa ước Patenôtre) với thực dân Pháp, https://baotanglichsu.vn/vi/Articles/3097/14428/cach-djay-129-nam-6-6-1884-6-6-2013-trieu-djinh-nguyen-ky-hoa-uoc-giap-than-1884-con-co-ten-khac-la-hoa-uoc-patenotre-voi-thuc-dan-phap.html]
@@ -4213,23 +4213,23 @@
 *Nguồn: Tranh cổ động của Pháp vinh danh cuộc chinh phục Bắc Kỳ / Wikimedia Commons*
 
 <!-- id: EVT-1301 -->
-*   **23 - 24/06/1884:** Trận Bắc Lệ (Trận cầu Quan Âm). Một toán quân Pháp do Trung tá Dugenne chỉ huy trên đường lên tiếp quản Lạng Sơn theo Quy ước Thiên Tân đã bị liên quân Việt - Thanh phục kích tại khu vực Bắc Lệ. Quân Pháp thất bại thảm hại, thương vong nặng nề và phải rút chạy. Sự kiện này làm bùng nổ cuộc Chiến tranh Pháp - Thanh.
+*   **23 - 24/06/1884:** Trận Bắc Lệ (Trận cầu Quan Âm). Một toán quân Pháp do Trung tá Dugenne chỉ huy trên đường lên tiếp quản Lạng Sơn theo Quy ước Thiên Tân đã bị liên quân Việt - Thanh phục kích tại khu vực Bắc Lệ. Quân Pháp thất bại thảm hại, thương vong nặng nề và phải rút chạy. Sự kiện này làm bùng nổ cuộc Chiến tranh Pháp - Thanh. [Nguồn: Viện Sử học, Lịch sử Việt Nam (Tập 6: 1858–1897), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1302 -->
-*   **08/1884:** Vua Kiến Phúc qua đời (nghi bị đầu độc). Hàm Nghi được đưa lên ngôi vua.
+*   **08/1884:** Vua Kiến Phúc qua đời (nghi bị đầu độc). Hàm Nghi được đưa lên ngôi vua. [Nguồn: Vua Kiến Phúc (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13771/vua-kien-phuc.html]
 
 <!-- id: EVT-1303 -->
-*   **10/1884 - 03/03/1885:** Trận Tuyên Quang. Khoảng 12.000 quân Cờ Đen và quân Thanh đã bao vây chặt hơn 600 lính đồn trú Pháp tại thành Tuyên Quang. Các cuộc giao tranh, đào hầm ngầm, và pháo kích diễn ra ác liệt trong nhiều tháng cho đến khi binh đoàn của tướng Giovanninelli đánh phá vòng vây đến giải cứu.
+*   **10/1884 - 03/03/1885:** Trận Tuyên Quang. Khoảng 12.000 quân Cờ Đen và quân Thanh đã bao vây chặt hơn 600 lính đồn trú Pháp tại thành Tuyên Quang. Các cuộc giao tranh, đào hầm ngầm, và pháo kích diễn ra ác liệt trong nhiều tháng cho đến khi binh đoàn của tướng Giovanninelli đánh phá vòng vây đến giải cứu. [Nguồn: Viện Sử học, Lịch sử Việt Nam (Tập 6: 1858–1897), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1304 -->
-*   **1885 - 1896:** Diễn ra cuộc khởi nghĩa Hương Khê do Phan Đình Phùng và Cao Thắng lãnh đạo, là đỉnh cao của phong trào Cần Vương.
+*   **1885 - 1896:** Diễn ra cuộc khởi nghĩa Hương Khê do Phan Đình Phùng và Cao Thắng lãnh đạo, là đỉnh cao của phong trào Cần Vương. [Nguồn: Khởi nghĩa Hương Khê (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13900/khoi-nghia-huong-khe.html]
 
 ![Hình ảnh tư liệu](images/event_20260924_111641.webp)
 
 *Nguồn: Chân dung Phan Đình Phùng / Bách khoa toàn thư Việt Nam (Wikimedia Commons, Public domain)*
 
 <!-- id: EVT-1305 -->
-*   **13/02 - 28/03/1885:** Chiến dịch Lạng Sơn. Quân Pháp do Thiếu tướng De Négrier chỉ huy đánh chiếm thành Lạng Sơn (13/02). Tuy nhiên, đến cuối tháng 3, quân Thanh do Phùng Tử Tài chỉ huy phản công mạnh mẽ, chiếm lại Nam Quan và đánh thiệt hại nặng quân Pháp tại Kỳ Lừa. Tướng De Négrier bị thương nặng. Người thay thế là Trung tá Herbinger đã hoảng loạn ra lệnh rút chạy hỗn loạn khỏi Lạng Sơn, vứt bỏ vô số vũ khí đạn dược. Tin tức về 'thảm kịch Lạng Sơn' đã khiến chính phủ của Thủ tướng Pháp Jules Ferry sụp đổ.
+*   **13/02 - 28/03/1885:** Chiến dịch Lạng Sơn. Quân Pháp do Thiếu tướng De Négrier chỉ huy đánh chiếm thành Lạng Sơn (13/02). Tuy nhiên, đến cuối tháng 3, quân Thanh do Phùng Tử Tài chỉ huy phản công mạnh mẽ, chiếm lại Nam Quan và đánh thiệt hại nặng quân Pháp tại Kỳ Lừa. Tướng De Négrier bị thương nặng. Người thay thế là Trung tá Herbinger đã hoảng loạn ra lệnh rút chạy hỗn loạn khỏi Lạng Sơn, vứt bỏ vô số vũ khí đạn dược. Tin tức về 'thảm kịch Lạng Sơn' đã khiến chính phủ của Thủ tướng Pháp Jules Ferry sụp đổ. [Nguồn: Viện Sử học, Lịch sử Việt Nam (Tập 6: 1858–1897), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1306 -->
 *   **04 - 05/07/1885:** Trận Kinh thành Huế. Phái chủ chiến do Thượng thư Bộ Binh Tôn Thất Thuyết và Đề đốc Trần Xuân Soạn chỉ huy đã tổ chức cuộc tấn công bất ngờ trong đêm bằng đại bác và lực lượng lớn quân triều đình vào đồn Mang Cá và Tòa Khâm sứ Pháp. Đến rạng sáng, quân Pháp với hỏa lực vượt trội đã phản công, chiếm giữ Kinh thành. Một cuộc thảm sát tàn khốc đã diễn ra khiến hơn 1.500 binh lính và dân thường thiệt mạng. Quân Pháp đã cướp bóc vô số vàng bạc, châu báu và ấn tín hoàng gia. Tôn Thất Thuyết phải đưa vua Hàm Nghi rút chạy ra Tân Sở, mở đầu cho phong trào Cần Vương. [Nguồn: Bảo tàng Lịch sử Quốc gia - Cuộc tấn công vào Tòa Khâm sứ Pháp (5/7/1885) tại Kinh thành Huế - sự vùng dậy cuối cùng của Vương triều Nguyễn, https://baotanglichsu.vn/vi/Articles/3097/14612/cuoc-tan-cong-vao-toa-kham-su-phap-5-7-1885-tai-kinh-thanh-hue-su-vung-day-cuoi-cung-cua-vuong-trieu-nguyen.html]
@@ -4246,55 +4246,55 @@
 *Nguồn: Chân dung vua Hàm Nghi / Wikimedia Commons*
 
 <!-- id: EVT-1308 -->
-*   **09/1885:** Nguyễn Bá Loan lãnh đạo Nghĩa hội Quảng Ngãi hưởng ứng Dụ Cần Vương.
+*   **09/1885:** Nguyễn Bá Loan lãnh đạo Nghĩa hội Quảng Ngãi hưởng ứng Dụ Cần Vương. [Nguồn: Chí sĩ Nguyễn Bá Loan – Người khởi xướng Nghĩa hội Quảng Ngãi (Báo Quảng Ngãi), https://baoquangngai.vn/van-hoa-van-nghe/202107/chi-si-nguyen-ba-loan-nguoi-khoi-xuong-nghia-hoi-quang-ngai-3067160/]
 
 <!-- id: EVT-1309 -->
-*   **19/09/1885:** Vua Đồng Khánh lên ngôi tại điện Thái Hòa.
+*   **19/09/1885:** Vua Đồng Khánh lên ngôi tại điện Thái Hòa. [Nguồn: Vua Đồng Khánh (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13773/vua-dong-khanh.html]
 
 <!-- id: EVT-1310 -->
-*   **11/1885:** Triều đình Huế thành lập cục **Đại Nam Công báo**, tờ công báo đầu tiên của Việt Nam, phát hành 10 ngày một kỳ.
+*   **11/1885:** Triều đình Huế thành lập cục **Đại Nam Công báo**, tờ công báo đầu tiên của Việt Nam, phát hành 10 ngày một kỳ. [Nguồn: Đại Nam Công báo – Tờ báo đầu tiên của triều Nguyễn (Báo Đà Nẵng), https://baodanang.vn/channel/5414/202106/dai-nam-cong-bao-to-bao-dau-tien-cua-trieu-nguyen-3883652/]
 
 <!-- id: EVT-1311 -->
-*   **1886 - 1888:** Quốc sử quán triều Nguyễn biên soạn bộ *Đồng Khánh địa dư chí*, ghi chép chi tiết về địa lý, phong tục, sản vật các tỉnh phía Bắc.
+*   **1886 - 1888:** Quốc sử quán triều Nguyễn biên soạn bộ *Đồng Khánh địa dư chí*, ghi chép chi tiết về địa lý, phong tục, sản vật các tỉnh phía Bắc. [Nguồn: Quốc sử quán triều Nguyễn, Đồng Khánh địa dư chí, NXB Thế giới, Hà Nội, 2003]
 
 <!-- id: EVT-1312 -->
-*   **1886 - 1887:** Diễn ra cuộc khởi nghĩa Ba Đình (Thanh Hóa) do Phạm Bành và Đinh Công Tráng lãnh đạo.
+*   **1886 - 1887:** Diễn ra cuộc khởi nghĩa Ba Đình (Thanh Hóa) do Phạm Bành và Đinh Công Tráng lãnh đạo. [Nguồn: Khởi nghĩa Ba Đình (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13899/khoi-nghia-ba-dinh.html]
 
 <!-- id: EVT-1313 -->
-*   **01/1886 (Tháng Chạp năm Ất Dậu):** Vua Đồng Khánh cho phép các quan Pháp chụp ảnh chân dung mình, trở thành vị vua Việt Nam đầu tiên được chụp ảnh.
+*   **01/1886 (Tháng Chạp năm Ất Dậu):** Vua Đồng Khánh cho phép các quan Pháp chụp ảnh chân dung mình, trở thành vị vua Việt Nam đầu tiên được chụp ảnh. [Nguồn: Vua Đồng Khánh (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13773/vua-dong-khanh.html]
 
 <!-- id: EVT-1314 -->
-*   **23/02/1886:** Triều đình Huế và Pháp trao đổi bản Hòa ước Giáp Thân (Patenôtre) và Thương ước đã được phê chuẩn tại Huế.
+*   **23/02/1886:** Triều đình Huế và Pháp trao đổi bản Hòa ước Giáp Thân (Patenôtre) và Thương ước đã được phê chuẩn tại Huế. [Nguồn: Đại Nam thực lục chính biên (Đệ lục kỷ, quyển 3)]
 
 <!-- id: EVT-1315 -->
-*   **03/1886:** Vua Đồng Khánh thành lập **Viện Long Tinh** (Đại Nam Long tinh) để khen thưởng cho các quan văn võ.
+*   **03/1886:** Vua Đồng Khánh thành lập **Viện Long Tinh** (Đại Nam Long tinh) để khen thưởng cho các quan văn võ. [Nguồn: Đại Nam thực lục chính biên (Đệ lục kỷ, quyển 3)]
 
 <!-- id: EVT-1316 -->
-*   **04/1886:** Triều đình cho đúc tiền "Đồng Khánh thông bảo" (1 đồng ăn 10 đồng kẽm).
+*   **04/1886:** Triều đình cho đúc tiền "Đồng Khánh thông bảo" (1 đồng ăn 10 đồng kẽm). [Nguồn: Đại Nam thực lục chính biên (Đệ lục kỷ, quyển 3)]
 
 <!-- id: EVT-1317 -->
-*   **05/1886:** Vua Đồng Khánh ngự giá thân chinh ra Quảng Bình để phủ dụ dân chúng và dẹp loạn.
+*   **05/1886:** Vua Đồng Khánh ngự giá thân chinh ra Quảng Bình để phủ dụ dân chúng và dẹp loạn. [Nguồn: Đại Nam thực lục chính biên (Đệ lục kỷ, quyển 3)]
 
 <!-- id: EVT-1318 -->
-*   **06/1886:** Giữa lúc phong trào Cần Vương kháng Pháp đang lan rộng, Tổng công sứ Pháp Paul Bert mời Trương Vĩnh Ký ra Huế tham chính; ông được vua Đồng Khánh bổ nhiệm chức Tham tá Cơ mật viện kiêm Thị giảng học sĩ Hàn lâm viện. Vai trò trung gian điều đình giữa chính quyền bảo hộ Pháp và triều đình Huế của ông đã vấp phải sự chỉ trích, châm biếm gay gắt từ giới sĩ phu yêu nước đương thời; sau khi Paul Bert đột ngột qua đời vào cuối năm 1886, ông xin từ quan về lại Sài Gòn chuyên tâm nghiên cứu và sáng tác.
+*   **06/1886:** Giữa lúc phong trào Cần Vương kháng Pháp đang lan rộng, Tổng công sứ Pháp Paul Bert mời Trương Vĩnh Ký ra Huế tham chính; ông được vua Đồng Khánh bổ nhiệm chức Tham tá Cơ mật viện kiêm Thị giảng học sĩ Hàn lâm viện. Vai trò trung gian điều đình giữa chính quyền bảo hộ Pháp và triều đình Huế của ông đã vấp phải sự chỉ trích, châm biếm gay gắt từ giới sĩ phu yêu nước đương thời; sau khi Paul Bert đột ngột qua đời vào cuối năm 1886, ông xin từ quan về lại Sài Gòn chuyên tâm nghiên cứu và sáng tác. [Nguồn: Nguyễn Phan Quang, Lịch sử Việt Nam (1858–1945), NXB Giáo dục, Hà Nội]
 
 <!-- id: EVT-1319 -->
-*   **04/08/1886:** Học giả Trương Vĩnh Ký được chính phủ Pháp trao tặng Huân chương Bắc Đẩu Bội tinh đệ ngũ đẳng (Chevalier de la Légion d'honneur) theo đề nghị của Tổng công sứ Paul Bert và Thống đốc Nam Kỳ nhằm ghi nhận vai trò trung gian điều đình và đóng góp học thuật của ông. Sự kiện này cùng với các khoản đãi ngộ đặc biệt từ chính quyền bảo hộ đã trở thành một trong những tâm điểm tranh cãi lớn của hậu thế về mối quan hệ giữa ông và thực dân Pháp.
+*   **04/08/1886:** Học giả Trương Vĩnh Ký được chính phủ Pháp trao tặng Huân chương Bắc Đẩu Bội tinh đệ ngũ đẳng (Chevalier de la Légion d'honneur) theo đề nghị của Tổng công sứ Paul Bert và Thống đốc Nam Kỳ nhằm ghi nhận vai trò trung gian điều đình và đóng góp học thuật của ông. Sự kiện này cùng với các khoản đãi ngộ đặc biệt từ chính quyền bảo hộ đã trở thành một trong những tâm điểm tranh cãi lớn của hậu thế về mối quan hệ giữa ông và thực dân Pháp. [Nguồn: Nguyễn Phan Quang, Lịch sử Việt Nam (1858–1945), NXB Giáo dục, Hà Nội]
 
 <!-- id: EVT-1320 -->
 *   **01/1887:** Căn cứ Ba Đình thất thủ sau các cuộc tấn công ác liệt của quân Pháp. [Nguồn: Bảo tàng Lịch sử Quốc gia - Địa danh Ba Đình và Quảng trường Ba Đình, Hà Nội, https://baotanglichsu.vn/vi/Articles/3096/14937/djia-danh-ba-djinh-va-quang-truong-ba-djinh-ha-noi.html]
 
 <!-- id: EVT-1321 -->
-*   **07/06/1887:** Lãnh tụ phong trào Cần Vương kháng Pháp tại Bình Định – Bình Tây Đại nguyên soái Mai Xuân Thưởng bị thực dân Pháp xử tử tại Gò Chàm sau khi các căn cứ kháng chiến bị triệt hạ, biểu tượng cho khí tiết kiên trung, bất khuất của nghĩa sĩ miền Trung.
+*   **07/06/1887:** Lãnh tụ phong trào Cần Vương kháng Pháp tại Bình Định – Bình Tây Đại nguyên soái Mai Xuân Thưởng bị thực dân Pháp xử tử tại Gò Chàm sau khi các căn cứ kháng chiến bị triệt hạ, biểu tượng cho khí tiết kiên trung, bất khuất của nghĩa sĩ miền Trung. [Nguồn: Mai Xuân Thưởng – Anh hùng phong trào Cần Vương ở Bình Định (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13901/mai-xuan-thuong-nguoi-anh-hung-phong-trao-can-vuong-o-binh-dinh.html]
 
 <!-- id: EVT-1322 -->
-*   **26/06/1887:** Pháp và nhà Thanh ký kết Công ước Constans 1887 (Công ước Pháp – Thanh 1887) hoạch định biên giới giữa Bắc Kỳ và Trung Quốc. Để đổi lấy việc nhà Thanh công nhận quyền bảo hộ của Pháp tại Bắc Kỳ, thực dân Pháp nhân nhượng cắt giao nhiều vùng lãnh thổ lịch sử của Việt Nam cho nhà Thanh: nhượng 3/4 diện tích tổng Tụ Long (khoảng 750 km² thuộc Hà Giang) cho tỉnh Vân Nam, và cắt các vùng đất thuộc phủ Hải Ninh (tỉnh Quảng Yên) gồm vùng Phòng Thành, Đông Hưng, mũi Bạch Long (bán đảo Bạch Long Vĩ cổ / Paklung) cùng vùng Giang Bình (Tam Đảo Vạn Vĩ, Mễ Sơn, Mi Sơn) cho tỉnh Quảng Đông; về mặt biển, công ước quy định các đảo nằm ở phía Đông kinh tuyến Paris 105°43' Đông thuộc Trung Quốc, các đảo ở phía Tây (như đảo Cô Tô) thuộc về An Nam (công ước chỉ giải quyết các đảo ven bờ, không bao gồm các quần đảo xa bờ).
+*   **26/06/1887:** Pháp và nhà Thanh ký kết Công ước Constans 1887 (Công ước Pháp – Thanh 1887) hoạch định biên giới giữa Bắc Kỳ và Trung Quốc. Để đổi lấy việc nhà Thanh công nhận quyền bảo hộ của Pháp tại Bắc Kỳ, thực dân Pháp nhân nhượng cắt giao nhiều vùng lãnh thổ lịch sử của Việt Nam cho nhà Thanh: nhượng 3/4 diện tích tổng Tụ Long (khoảng 750 km² thuộc Hà Giang) cho tỉnh Vân Nam, và cắt các vùng đất thuộc phủ Hải Ninh (tỉnh Quảng Yên) gồm vùng Phòng Thành, Đông Hưng, mũi Bạch Long (bán đảo Bạch Long Vĩ cổ / Paklung) cùng vùng Giang Bình (Tam Đảo Vạn Vĩ, Mễ Sơn, Mi Sơn) cho tỉnh Quảng Đông; về mặt biển, công ước quy định các đảo nằm ở phía Đông kinh tuyến Paris 105°43' Đông thuộc Trung Quốc, các đảo ở phía Tây (như đảo Cô Tô) thuộc về An Nam (công ước chỉ giải quyết các đảo ven bờ, không bao gồm các quần đảo xa bờ). [Nguồn: Ban Biên giới Chính phủ, Lịch sử biên giới lãnh thổ Việt Nam, NXB Chính trị Quốc gia, Hà Nội]
 
 <!-- id: EVT-1323 -->
 *   **17/10/1887:** Liên bang Đông Dương được thành lập, dẫn đến một chính quyền thuộc địa được đẩy mạnh đặc biệt dưới thời Toàn quyền Paul Doumer. [Nguồn: Cục Văn thư và Lưu trữ Nhà nước - Vài nét về chế độ Toàn quyền của thực dân Pháp ở Đông Dương, https://www.archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/vai-net-ve-che-do-toan-quyen-cua-thuc-dan-phap-o-dong-duong.htm]
 
 <!-- id: EVT-1324 -->
-*   **05/1888:** Người Pháp thành lập cục "Đại Nam nhật báo".
+*   **05/1888:** Người Pháp thành lập cục "Đại Nam nhật báo". [Nguồn: Đại Nam Công báo – Tờ báo đầu tiên của triều Nguyễn (Báo Đà Nẵng), https://baodanang.vn/channel/5414/202106/dai-nam-cong-bao-to-bao-dau-tien-cua-trieu-nguyen-3883652/]
 
 <!-- id: EVT-1325 -->
 *   **11/1888:** Vua Hàm Nghi bị bắt do Trương Quang Ngọc phản bội, sau đó bị đày sang Algérie. [Nguồn: Bảo tàng Lịch sử Quốc gia - Vua Hàm Nghi luôn giữ gìn bản sắc Việt ở đất khách, https://baotanglichsu.vn/vi/Articles/3096/12242/vua-ham-nghi-luon-giu-gin-ban-sac-viet-o-djat-khach.html]
@@ -4303,10 +4303,10 @@
 *   **1889:** Nguyễn Thiện Thuật sang Trung Quốc, khởi nghĩa Bãi Sậy suy yếu. [Nguồn: Bảo tàng Lịch sử Quốc gia - Nguyễn Thiện Thuật – Linh hồn của cuộc khởi nghĩa Bãi Sậy, https://baotanglichsu.vn/vi/Articles/3098/15723/nguyen-thien-thuat-linh-hon-cua-cuoc-khoi-nghia-bai-say.html]
 
 <!-- id: EVT-1327 -->
-*   **13/01/1889:** Cựu hoàng Hàm Nghi đến thủ đô Algiers (Algérie), bắt đầu cuộc sống lưu đày; tại đây ông đã trở thành một họa sĩ và kết hôn với phụ nữ Pháp.
+*   **13/01/1889:** Cựu hoàng Hàm Nghi đến thủ đô Algiers (Algérie), bắt đầu cuộc sống lưu đày; tại đây ông đã trở thành một họa sĩ và kết hôn với phụ nữ Pháp. [Nguồn: Vua Hàm Nghi (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13772/vua-ham-nghi.html]
 
 <!-- id: EVT-1328 -->
-*   **28/01/1889:** Vua Đồng Khánh băng hà.
+*   **28/01/1889:** Vua Đồng Khánh băng hà. [Nguồn: Vua Đồng Khánh (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13773/vua-dong-khanh.html]
 
 <!-- id: EVT-1329 -->
 *   **31/01/1889 (01/01 năm Kỷ Sửu):** Sau khi vua Đồng Khánh đột ngột băng hà, triều đình Huế cùng Khâm sứ Pháp lập Hoàng tử Bửu Lân (10 tuổi, con trai vua Dục Đức) lên ngôi hoàng đế tại điện Thái Hòa, lấy niên hiệu Thành Thái. [Nguồn: Bảo tàng Lịch sử Quốc gia - Vua Thành Thái và những uẩn ức của một ông vua yêu nước, https://baotanglichsu.vn/vi/Articles/3098/70690/vua-thanh-thai-va-nhung-uan-uc-cua-mot-ong-vua-yeu-nuoc.html]
@@ -4316,16 +4316,16 @@
 *Nguồn: Vua Thành Thái trong triều phục / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-1330 -->
-*   **1890 - 1898:** Thuế trực thu tăng gấp đôi từ năm 1890 đến 1896, và tiếp tục tăng gấp rưỡi từ năm 1896 đến 1898.
+*   **1890 - 1898:** Thuế trực thu tăng gấp đôi từ năm 1890 đến 1896, và tiếp tục tăng gấp rưỡi từ năm 1896 đến 1898. [Nguồn: Lịch sử Việt Nam (Tập 7: 1897–1918), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1331 -->
 *   **19/05/1890:** Chủ tịch Hồ Chí Minh (tên khai sinh là Nguyễn Sinh Cung, tự Tất Thành) sinh ra tại làng Hoàng Trù (quê ngoại), xã Kim Liên, huyện Nam Đàn, tỉnh Nghệ An. Người sau này trở thành vị lãnh tụ vĩ đại của Đảng, Nhà nước và nhân dân Việt Nam, Anh hùng giải phóng dân tộc, Danh nhân văn hóa kiệt xuất. [Nguồn: https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1332 -->
-*   **1891:** Hải Phòng được coi là thành phố đầu tiên có đèn điện trước cả Hà Nội.
+*   **1891:** Hải Phòng được coi là thành phố đầu tiên có đèn điện trước cả Hà Nội. [Nguồn: Những dấu mốc lịch sử của Ngành Điện lực Việt Nam (EVN), https://www.evn.com.vn/d6/news/Nhung-dau-moc-lich-su-cua-Nganh-Dien-luc-Viet-Nam-141-11-2679.aspx]
 
 <!-- id: EVT-1333 -->
-*   **1892:** Khởi nghĩa Bãi Sậy tan rã. Tống Duy Tân (lãnh đạo khởi nghĩa Hùng Lĩnh) bị bắt.
+*   **1892:** Khởi nghĩa Bãi Sậy tan rã. Tống Duy Tân (lãnh đạo khởi nghĩa Hùng Lĩnh) bị bắt. [Nguồn: Tống Duy Tân và cuộc khởi nghĩa Hùng Lĩnh (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13902/tong-duy-tan-va-khoi-nghia-hung-linh.html]
 
 <!-- id: EVT-1334 -->
 *   **21/06/1893:** Bác sĩ Alexandre Yersin phát hiện ra cao nguyên Lang Biang trong chuyến thám hiểm thung lũng Lâm Viên, mở đường cho Toàn quyền Paul Doumer sau này chọn vùng đất này để xây dựng thành phố nghỉ dưỡng Đà Lạt. [Nguồn: Cổng thông tin điện tử tỉnh Lâm Đồng - Địa chí Đà Lạt: Alexandre Yersin, https://lamdong.gov.vn/sites/book/diachidalat/Tongluan/bai7.htm]
@@ -4337,10 +4337,10 @@
 *   **10/1894:** Hoàng Hoa Thám giảng hòa với Pháp lần thứ nhất để củng cố lực lượng Yên Thế. [Nguồn: Bảo tàng Lịch sử Quốc gia - Tướng quân Hoàng Hoa Thám - linh hồn của cuộc khởi nghĩa Yên Thế, https://baotanglichsu.vn/vi/Articles/3098/15307/tuong-quan-hoang-hoa-tham-linh-hon-cua-cuoc-khoi-nghia-yen-the.html]
 
 <!-- id: EVT-1337 -->
-*   **1895:** Viên công sứ một tỉnh ở Bắc Kỳ tước đoạt ruộng đất của một làng để cấp cho một làng khác theo đạo Thiên Chúa, bắt dân tiếp tục nộp thuế cho đất đã mất đến năm 1910.
+*   **1895:** Viên công sứ một tỉnh ở Bắc Kỳ tước đoạt ruộng đất của một làng để cấp cho một làng khác theo đạo Thiên Chúa, bắt dân tiếp tục nộp thuế cho đất đã mất đến năm 1910. [Nguồn: Nguyễn Phan Quang, Lịch sử Việt Nam (1858–1945), NXB Giáo dục, Hà Nội]
 
 <!-- id: EVT-1338 -->
-*   **1895 - 1898:** Hai vụ đắm tàu tại quần đảo Hoàng Sa - tàu *Bellona* của Đức (1895) và tàu *Imeji Maru* (hay *Umeji Maru*) của Nhật Bản (1896) chở các thỏi đồng được các công ty bảo hiểm Anh bảo hiểm - đã dẫn đến tranh chấp ngoại giao và pháp lý khi ngư dân đảo Hải Nam ra cướp bóc, hôi của số hàng hóa này. Các công ty bảo hiểm Anh cùng đại diện ngoại giao Anh tại Bắc Kinh và Quảng Châu đã gửi công hàm yêu cầu triều đình Mãn Thanh điều tra, trừng trị thủ phạm và bồi thường thiệt hại. Ngày 14/04/1898, Tổng đốc Lưỡng Quảng Đàm Chung Lân (Tan Zhonglin) chính thức ra văn bản từ chối bồi thường với lý do quần đảo Hoàng Sa là những đảo hoang ngoài biển khơi ('tuyệt đảo'), không thuộc lãnh thổ Trung Quốc, không thuộc An Nam và không trực thuộc quyền quản lý hành chính của bất kỳ châu hay huyện nào thuộc phủ Quỳnh Châu (Hải Nam), do đó chính quyền nhà Thanh không có trách nhiệm tài phán. Đây là bằng chứng pháp lý lịch sử quan trọng khẳng định vào cuối thế kỷ XIX, chính quyền phong kiến Trung Quốc đã chính thức thừa nhận Hoàng Sa không thuộc chủ quyền của họ.
+*   **1895 - 1898:** Hai vụ đắm tàu tại quần đảo Hoàng Sa - tàu *Bellona* của Đức (1895) và tàu *Imeji Maru* (hay *Umeji Maru*) của Nhật Bản (1896) chở các thỏi đồng được các công ty bảo hiểm Anh bảo hiểm - đã dẫn đến tranh chấp ngoại giao và pháp lý khi ngư dân đảo Hải Nam ra cướp bóc, hôi của số hàng hóa này. Các công ty bảo hiểm Anh cùng đại diện ngoại giao Anh tại Bắc Kinh và Quảng Châu đã gửi công hàm yêu cầu triều đình Mãn Thanh điều tra, trừng trị thủ phạm và bồi thường thiệt hại. Ngày 14/04/1898, Tổng đốc Lưỡng Quảng Đàm Chung Lân (Tan Zhonglin) chính thức ra văn bản từ chối bồi thường với lý do quần đảo Hoàng Sa là những đảo hoang ngoài biển khơi ('tuyệt đảo'), không thuộc lãnh thổ Trung Quốc, không thuộc An Nam và không trực thuộc quyền quản lý hành chính của bất kỳ châu hay huyện nào thuộc phủ Quỳnh Châu (Hải Nam), do đó chính quyền nhà Thanh không có trách nhiệm tài phán. Đây là bằng chứng pháp lý lịch sử quan trọng khẳng định vào cuối thế kỷ XIX, chính quyền phong kiến Trung Quốc đã chính thức thừa nhận Hoàng Sa không thuộc chủ quyền của họ. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1339 -->
 *   **28/12/1895:** Phan Đình Phùng hy sinh, khởi nghĩa Hương Khê dần tan rã, đánh dấu sự kết thúc về cơ bản của phong trào Cần Vương có tổ chức trên quy mô lớn. [Nguồn: Bảo tàng Lịch sử Quốc gia - Phan Đình Phùng vạch trần mưu hèn của bọn bán nước, https://baotanglichsu.vn/vi/Articles/3096/12621/phan-djinh-phung-vach-tran-muu-hen-cua-bon-ban-nuoc.html]
@@ -4352,91 +4352,91 @@
 
 ### **Giai đoạn Khai thác Thuộc địa lần thứ nhất và Phong trào Yêu nước (1897 - 1913)**
 
-*   **1897 - 1907:** Vua Thành Thái thể hiện tinh thần canh tân và chí khí yêu nước độc đáo: là vị vua triều Nguyễn đầu tiên cắt tóc ngắn, tự lái xe hơi, học tiếng Pháp để đọc báo phương Tây. Nhằm chuẩn bị lực lượng chống Pháp và che mắt sự theo dõi gắt gao của mật thám thực dân, nhà vua bí mật thành lập một đội nữ binh hộ vệ (ngụy trang làm cung nữ) và nhiều lần 'giả điên', lập dị để bí mật liên lạc, ủng hộ phong trào Đông Du của Phan Bội Châu cùng các sĩ phu Duy Tân trước khi bị thực dân Pháp ép thoái vị.
+*   **1897 - 1907:** Vua Thành Thái thể hiện tinh thần canh tân và chí khí yêu nước độc đáo: là vị vua triều Nguyễn đầu tiên cắt tóc ngắn, tự lái xe hơi, học tiếng Pháp để đọc báo phương Tây. Nhằm chuẩn bị lực lượng chống Pháp và che mắt sự theo dõi gắt gao của mật thám thực dân, nhà vua bí mật thành lập một đội nữ binh hộ vệ (ngụy trang làm cung nữ) và nhiều lần 'giả điên', lập dị để bí mật liên lạc, ủng hộ phong trào Đông Du của Phan Bội Châu cùng các sĩ phu Duy Tân trước khi bị thực dân Pháp ép thoái vị. [Nguồn: Vua Thành Thái (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13774/vua-thanh-thai.html]
 
 <!-- id: EVT-1342 -->
-*   **02/1897:** Paul Doumer được bổ nhiệm làm Toàn quyền Đông Dương, bắt đầu một giai đoạn mới với chính sách cai trị tập trung và khai thác kinh tế quy mô lớn.
+*   **02/1897:** Paul Doumer được bổ nhiệm làm Toàn quyền Đông Dương, bắt đầu một giai đoạn mới với chính sách cai trị tập trung và khai thác kinh tế quy mô lớn. [Nguồn: Lịch sử Việt Nam (Tập 7: 1897–1918), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1343 -->
-*   **13/08/1897:** Triều đình Huế ra dụ bãi bỏ chức Kinh lược sứ Bắc Kỳ, trao toàn bộ quyền cai trị ở Bắc Kỳ cho Thống sứ Pháp.
+*   **13/08/1897:** Triều đình Huế ra dụ bãi bỏ chức Kinh lược sứ Bắc Kỳ, trao toàn bộ quyền cai trị ở Bắc Kỳ cho Thống sứ Pháp. [Nguồn: Châu bản triều Nguyễn (Trung tâm Lưu trữ Quốc gia I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1344 -->
-*   **27/09/1897:** Vua Thành Thái ra Dụ cải tổ Chính phủ Nam triều, bãi bỏ Hội đồng Phụ chính và Hội đồng Thượng thư, thành lập Hội đồng Cơ mật do Khâm sứ Trung Kỳ đứng đầu, thâu tóm quyền lực của triều Nguyễn.
+*   **27/09/1897:** Vua Thành Thái ra Dụ cải tổ Chính phủ Nam triều, bãi bỏ Hội đồng Phụ chính và Hội đồng Thượng thư, thành lập Hội đồng Cơ mật do Khâm sứ Trung Kỳ đứng đầu, thâu tóm quyền lực của triều Nguyễn. [Nguồn: Châu bản triều Nguyễn (Trung tâm Lưu trữ Quốc gia I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1345 -->
-*   **1898:** (Năm Mậu Tuất) Khoa thi Hương tại trường thi Thừa Thiên có 5 sĩ tử người Quảng Nam cùng đỗ đại khoa (3 Tiến sĩ, 2 Phó bảng). Vua Thành Thái đã ban tặng danh hiệu **"Ngũ Phụng Tề Phi"**, tôn vinh truyền thống hiếu học của vùng đất Quảng Nam.
+*   **1898:** (Năm Mậu Tuất) Khoa thi Hương tại trường thi Thừa Thiên có 5 sĩ tử người Quảng Nam cùng đỗ đại khoa (3 Tiến sĩ, 2 Phó bảng). Vua Thành Thái đã ban tặng danh hiệu **"Ngũ Phụng Tề Phi"**, tôn vinh truyền thống hiếu học của vùng đất Quảng Nam. [Nguồn: Đặng Đức Thiêm, Khoa bảng Quảng Nam dưới triều Nguyễn, NXB Đà Nẵng, 2005]
 
 <!-- id: EVT-1346 -->
-*   **1898:** Thực dân Pháp bắt đầu xây dựng hàng loạt công trình hạ tầng lớn, bao gồm các tuyến đường sắt Hà Nội - Nam Định - Vinh, Đà Nẵng - Huế, Sài Gòn - Khánh Hòa...
+*   **1898:** Thực dân Pháp bắt đầu xây dựng hàng loạt công trình hạ tầng lớn, bao gồm các tuyến đường sắt Hà Nội - Nam Định - Vinh, Đà Nẵng - Huế, Sài Gòn - Khánh Hòa... [Nguồn: Lịch sử Đường sắt Việt Nam (Tổng công ty Đường sắt Việt Nam), https://vr.com.vn/lich-su-phat-trien.html]
 
 <!-- id: EVT-1347 -->
 *   **09/1898:** Khởi công xây dựng cầu Long Biên tại Hà Nội. [Nguồn: Bảo tàng Lịch sử Quốc gia - Phương hướng bảo vệ và phát huy giá trị di tích Cầu Long Biên (Hà Nội), https://baotanglichsu.vn/vi/Articles/3096/16968/phuong-huong-bao-ve-va-phat-huy-gia-tri-di-tich-cau-long-bien-ha-noi-phan-1.html]
 
 <!-- id: EVT-1348 -->
-*   **01/09/1898:** Học giả Trương Vĩnh Ký tạ thế tại tư gia ở Chợ Quán (Sài Gòn), thọ 60 tuổi. Ông để lại di sản trước tác đồ sộ gồm hơn 100 tác phẩm khảo cứu ngôn ngữ, lịch sử, văn hóa, giáo dục và biên dịch các tác phẩm kinh điển (*Truyện Kiều*, *Lục Vân Tiên*) sang chữ Quốc ngữ, cùng phương châm sống trăn trở được khắc trên mộ phần: *"Sic vos non vobis"* (Các bạn làm việc nhưng không phải cho mình).
+*   **01/09/1898:** Học giả Trương Vĩnh Ký tạ thế tại tư gia ở Chợ Quán (Sài Gòn), thọ 60 tuổi. Ông để lại di sản trước tác đồ sộ gồm hơn 100 tác phẩm khảo cứu ngôn ngữ, lịch sử, văn hóa, giáo dục và biên dịch các tác phẩm kinh điển (*Truyện Kiều*, *Lục Vân Tiên*) sang chữ Quốc ngữ, cùng phương châm sống trăn trở được khắc trên mộ phần: *"Sic vos non vobis"* (Các bạn làm việc nhưng không phải cho mình). [Nguồn: Đinh Xuân Lâm (chủ biên), Đại cương lịch sử Việt Nam (Tập 2), NXB Giáo dục, Hà Nội]
 
 <!-- id: EVT-1349 -->
-*   **12/1898 - 06/1899:** Bộ Thuộc địa Pháp chuyển đề nghị của nhà báo Chabrier về việc lập các cửa hàng cung cấp hàng hóa cho ngư dân trên quần đảo Hoàng Sa. Tháng 6/1899, Toàn quyền Paul Doumer phản hồi rằng dự án thương mại khó thành công, nhưng đề xuất xây dựng một ngọn hải đăng để khẳng định chủ quyền của Pháp và ngăn các cường quốc khác chiếm đóng. Dự án hải đăng ban đầu bị hoãn do thiếu ngân sách.
+*   **12/1898 - 06/1899:** Bộ Thuộc địa Pháp chuyển đề nghị của nhà báo Chabrier về việc lập các cửa hàng cung cấp hàng hóa cho ngư dân trên quần đảo Hoàng Sa. Tháng 6/1899, Toàn quyền Paul Doumer phản hồi rằng dự án thương mại khó thành công, nhưng đề xuất xây dựng một ngọn hải đăng để khẳng định chủ quyền của Pháp và ngăn các cường quốc khác chiếm đóng. Dự án hải đăng ban đầu bị hoãn do thiếu ngân sách. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1350 -->
-*   **30/12/1898:** Tổng thống Pháp ra sắc lệnh về chế độ báo chí ở Đông Dương, siết chặt kiểm soát và hạn chế quyền tự do ngôn luận của người bản xứ.
+*   **30/12/1898:** Tổng thống Pháp ra sắc lệnh về chế độ báo chí ở Đông Dương, siết chặt kiểm soát và hạn chế quyền tự do ngôn luận của người bản xứ. [Nguồn: Châu bản triều Nguyễn (Trung tâm Lưu trữ Quốc gia I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1351 -->
-*   **1899:** Nhà máy xi măng Portland Hải Phòng được thành lập; Nhà tù Hỏa Lò bắt đầu được xây dựng tại Hà Nội.
+*   **1899:** Nhà máy xi măng Portland Hải Phòng được thành lập; Nhà tù Hỏa Lò bắt đầu được xây dựng tại Hà Nội. [Nguồn: Lịch sử Việt Nam (Tập 7: 1897–1918), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1352 -->
-*   **1900:** Huỳnh Thúc Kháng đỗ Giải nguyên (thủ khoa) kỳ thi Hương tại trường thi Thừa Thiên, nổi danh khắp xứ Quảng về tài năng văn chương và đức độ.
+*   **1900:** Huỳnh Thúc Kháng đỗ Giải nguyên (thủ khoa) kỳ thi Hương tại trường thi Thừa Thiên, nổi danh khắp xứ Quảng về tài năng văn chương và đức độ. [Nguồn: Chí sĩ yêu nước Huỳnh Thúc Kháng (Báo Nhân Dân), https://nhandan.vn/chi-si-yeu-nuoc-huynh-thuc-khang-nha-lanh-dao-tien-boi-tieu-bieu-cua-dang-va-cach-mang-viet-nam-post670559.html]
 
 <!-- id: EVT-1353 -->
-*   **1900:** Phan Bội Châu đỗ Giải nguyên trong kỳ thi Hương tại Nghệ An, bắt đầu con đường hoạt động cách mạng chuyên nghiệp.
+*   **1900:** Phan Bội Châu đỗ Giải nguyên trong kỳ thi Hương tại Nghệ An, bắt đầu con đường hoạt động cách mạng chuyên nghiệp. [Nguồn: Phan Bội Châu (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13903/phan-boi-chau-nha-chi-si-yeu-nuoc.html]
 
 <!-- id: EVT-1354 -->
-*   **11/04/1900:** Tỉnh Tuyên Quang được tái lập.
+*   **11/04/1900:** Tỉnh Tuyên Quang được tái lập. [Nguồn: Địa chí Tuyên Quang, NXB Từ điển Bách khoa, Hà Nội, 2014]
 
 <!-- id: EVT-1355 -->
-*   **1901:** Cụ Nguyễn Sinh Sắc đỗ Phó bảng khoa thi Hội năm Tân Sửu dưới triều vua Thành Thái. Triều đình ban tặng biển ngạch "Ân tứ Đệ nhị giáp Tiến sĩ xuất thân đồng Tiến sĩ xuất thân Đệ nhị danh", làng Sen dựng nhà gỗ mừng đón cụ vinh quy bái tổ.
+*   **1901:** Cụ Nguyễn Sinh Sắc đỗ Phó bảng khoa thi Hội năm Tân Sửu dưới triều vua Thành Thái. Triều đình ban tặng biển ngạch "Ân tứ Đệ nhị giáp Tiến sĩ xuất thân đồng Tiến sĩ xuất thân Đệ nhị danh", làng Sen dựng nhà gỗ mừng đón cụ vinh quy bái tổ. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1356 -->
-*   **1901:** Khi thân phụ Nguyễn Sinh Sắc đỗ Phó bảng khoa thi Hội, Nguyễn Sinh Cung được làm lễ vào làng và đặt tên mới là Nguyễn Tất Thành (với ý nghĩa "nhất định sẽ thành công"), bắt đầu học chữ Hán và tiếp thu sâu sắc tư tưởng yêu nước thương dân.
+*   **1901:** Khi thân phụ Nguyễn Sinh Sắc đỗ Phó bảng khoa thi Hội, Nguyễn Sinh Cung được làm lễ vào làng và đặt tên mới là Nguyễn Tất Thành (với ý nghĩa "nhất định sẽ thành công"), bắt đầu học chữ Hán và tiếp thu sâu sắc tư tưởng yêu nước thương dân. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1357 -->
-*   **10/02/1901:** Bà Hoàng Thị Loan (thân mẫu Chủ tịch Hồ Chí Minh) qua đời tại kinh đô Huế ở tuổi 33 sau khi sinh người con thứ tư, trong hoàn cảnh chồng đang đi coi thi ở Thanh Hóa. Người con trai mười một tuổi Nguyễn Sinh Cung (Chủ tịch Hồ Chí Minh) đã cùng bà con chòm xóm lo liệu tang lễ cho mẹ.
+*   **10/02/1901:** Bà Hoàng Thị Loan (thân mẫu Chủ tịch Hồ Chí Minh) qua đời tại kinh đô Huế ở tuổi 33 sau khi sinh người con thứ tư, trong hoàn cảnh chồng đang đi coi thi ở Thanh Hóa. Người con trai mười một tuổi Nguyễn Sinh Cung (Chủ tịch Hồ Chí Minh) đã cùng bà con chòm xóm lo liệu tang lễ cho mẹ. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1358 -->
-*   **18/05/1901:** Phùng Chí Kiên (tên khai sinh là Nguyễn Vỹ) sinh tại xã Diễn Yên, huyện Diễn Châu, tỉnh Nghệ An. Ông là một trong những nhà lãnh đạo tiền bối xuất sắc của Đảng, chỉ huy quân sự đầu tiên của Đảng Cộng sản Việt Nam và là vị tướng đầu tiên của Quân đội nhân dân Việt Nam.
+*   **18/05/1901:** Phùng Chí Kiên (tên khai sinh là Nguyễn Vỹ) sinh tại xã Diễn Yên, huyện Diễn Châu, tỉnh Nghệ An. Ông là một trong những nhà lãnh đạo tiền bối xuất sắc của Đảng, chỉ huy quân sự đầu tiên của Đảng Cộng sản Việt Nam và là vị tướng đầu tiên của Quân đội nhân dân Việt Nam. [Nguồn: Ban Chấp hành Trung ương Đảng, Đồng chí Phùng Chí Kiên – Người chiến sĩ cộng sản mẫu mực, NXB Chính trị Quốc gia, Hà Nội, 2008]
 
 <!-- id: EVT-1359 -->
-*   **01/09/1901:** Báo *Nông Cổ Mín Đàm*, một trong những tờ báo chữ Quốc ngữ quan trọng đầu tiên, ra đời tại Sài Gòn.
+*   **01/09/1901:** Báo *Nông Cổ Mín Đàm*, một trong những tờ báo chữ Quốc ngữ quan trọng đầu tiên, ra đời tại Sài Gòn. [Nguồn: Huỳnh Văn Tòng, Lịch sử báo chí Việt Nam từ khởi thủy đến năm 1945, NXB TP. Hồ Chí Minh, 2000]
 
 <!-- id: EVT-1360 -->
 *   **1902:** Cầu Long Biên (Hà Nội) và tuyến đường sắt Hà Nội - Hải Phòng hoàn thành. Trường Y khoa Đông Dương được thành lập. [Nguồn: Bảo tàng Lịch sử Quốc gia - Cầu Long Biên - Nơi lắng đọng ký ức Hà Nội, https://baotanglichsu.vn/vi/Articles/3096/15820/cau-long-bien-noi-lang-djong-ky-uc-ha-noi.html]
 
 <!-- id: EVT-1361 -->
-*   **01/07/1902:** Paul Beau nhậm chức Toàn quyền, thay thế Paul Doumer và bắt đầu thực thi chính sách "hợp tác với người bản xứ".
+*   **01/07/1902:** Paul Beau nhậm chức Toàn quyền, thay thế Paul Doumer và bắt đầu thực thi chính sách "hợp tác với người bản xứ". [Nguồn: Lịch sử Việt Nam (Tập 7: 1897–1918), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1362 -->
-*   **06/09/1902:** Lê Huy Doãn (sau này là đồng chí Lê Hồng Phong, Tổng Bí thư thứ hai của Đảng Cộng sản Đông Dương) sinh ra tại tổng Thông Lãng, huyện Hưng Nguyên, tỉnh Nghệ An. Ông là nhà lãnh đạo xuất sắc của Đảng và cách mạng Việt Nam, người học trò ưu tú của Chủ tịch Hồ Chí Minh.
+*   **06/09/1902:** Lê Huy Doãn (sau này là đồng chí Lê Hồng Phong, Tổng Bí thư thứ hai của Đảng Cộng sản Đông Dương) sinh ra tại tổng Thông Lãng, huyện Hưng Nguyên, tỉnh Nghệ An. Ông là nhà lãnh đạo xuất sắc của Đảng và cách mạng Việt Nam, người học trò ưu tú của Chủ tịch Hồ Chí Minh. [Nguồn: Đồng chí Lê Hồng Phong – Nhà lãnh đạo xuất sắc của Đảng (Báo Nhân Dân), https://nhandan.vn/dong-chi-le-hong-phong-nha-lanh-dao-xuat-sac-cua-dang-va-cach-mang-viet-nam-post713500.html]
 
 <!-- id: EVT-1363 -->
-*   **20/12/1902:** Toàn quyền Đông Dương ra nghị định chính thức thực hiện chế độ độc quyền về rượu trên toàn cõi Việt Nam.
+*   **20/12/1902:** Toàn quyền Đông Dương ra nghị định chính thức thực hiện chế độ độc quyền về rượu trên toàn cõi Việt Nam. [Nguồn: Châu bản triều Nguyễn (Trung tâm Lưu trữ Quốc gia I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1364 -->
 *   **1903:** Phan Bội Châu gặp Nguyễn Thành (Tiểu La) tại Quảng Nam để bàn định phương lược cứu nước, thống nhất liên kết dư đảng Cần Vương và cầu ngoại viện. [Nguồn: Báo Đà Nẵng - Tiểu La - nhà chí sĩ yêu nước chủ trương hành động, https://baodanang.vn/tieu-la-nha-chi-si-yeu-nuoc-chu-truong-hanh-dong-3034997.html]
 
 <!-- id: EVT-1365 -->
-*   **1904:** Cuộc "cải lương hương chính" đầu tiên được Pháp thí điểm ở Nam Kỳ nhằm kiểm soát chặt chẽ hơn bộ máy hành chính làng xã.
+*   **1904:** Cuộc "cải lương hương chính" đầu tiên được Pháp thí điểm ở Nam Kỳ nhằm kiểm soát chặt chẽ hơn bộ máy hành chính làng xã. [Nguồn: Nguyễn Phan Quang, Lịch sử Việt Nam (1858–1945), NXB Giáo dục, Hà Nội]
 
 <!-- id: EVT-1366 -->
-*   **1904:** Huỳnh Thúc Kháng đỗ Đệ tam giáp Đồng tiến sĩ xuất thân trong kỳ thi Hội và thi Đình năm Giáp Thìn dưới triều vua Thành Thái, cùng Phan Châu Trinh và Trần Quý Cáp khởi xướng phong trào canh tân đất nước.
+*   **1904:** Huỳnh Thúc Kháng đỗ Đệ tam giáp Đồng tiến sĩ xuất thân trong kỳ thi Hội và thi Đình năm Giáp Thìn dưới triều vua Thành Thái, cùng Phan Châu Trinh và Trần Quý Cáp khởi xướng phong trào canh tân đất nước. [Nguồn: Chí sĩ yêu nước Huỳnh Thúc Kháng (Báo Nhân Dân), https://nhandan.vn/chi-si-yeu-nuoc-huynh-thuc-khang-nha-lanh-dao-tien-boi-tieu-bieu-cua-dang-va-cach-mang-viet-nam-post670559.html]
 
 <!-- id: EVT-1367 -->
 *   **1904:** Phan Bội Châu thành lập Hội Duy tân với mục đích đánh đuổi giặc Pháp, khôi phục Việt Nam, lập ra chính phủ độc lập. [Nguồn: http://baotanglichsu.vn/vi/Articles/3096/12411/hoi-duy-tan-va-phong-trao-dong-du.html]
 
 <!-- id: EVT-1368 -->
-*   **1904:** Tại Paris (Pháp), cựu hoàng Hàm Nghi (lấy nghệ danh **Tử Xuân** / Prince d'Annam) tham gia triển lãm tác phẩm tại Bảo tàng Guimet (Musée Guimet), giới thiệu các bức họa phấn màu và tác phẩm điêu khắc theo trường phái Ấn tượng sau thời gian thọ giáo các danh họa Marius Reynaud và nhà điêu khắc lừng danh Auguste Rodin, trở thành nghệ sĩ tạo hình hiện đại đầu tiên của Việt Nam có tác phẩm được đón nhận tại phương Tây.
+*   **1904:** Tại Paris (Pháp), cựu hoàng Hàm Nghi (lấy nghệ danh **Tử Xuân** / Prince d'Annam) tham gia triển lãm tác phẩm tại Bảo tàng Guimet (Musée Guimet), giới thiệu các bức họa phấn màu và tác phẩm điêu khắc theo trường phái Ấn tượng sau thời gian thọ giáo các danh họa Marius Reynaud và nhà điêu khắc lừng danh Auguste Rodin, trở thành nghệ sĩ tạo hình hiện đại đầu tiên của Việt Nam có tác phẩm được đón nhận tại phương Tây. [Nguồn: Vua Hàm Nghi (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13772/vua-ham-nghi.html]
 
 <!-- id: EVT-1369 -->
-*   **Cuối năm 1904:** Phan Châu Trinh, Trần Quý Cáp và Huỳnh Thúc Kháng cùng nhau Nam du. Tại Bình Định, các ông mượn kỳ thi hạch để làm bài thơ *Chí thành thông thánh* và bài phú *Lương ngọc danh sơn*, đả kích lối học từ chương.
+*   **Cuối năm 1904:** Phan Châu Trinh, Trần Quý Cáp và Huỳnh Thúc Kháng cùng nhau Nam du. Tại Bình Định, các ông mượn kỳ thi hạch để làm bài thơ *Chí thành thông thánh* và bài phú *Lương ngọc danh sơn*, đả kích lối học từ chương. [Nguồn: Huỳnh Thúc Kháng, Tự truyện (Anh Minh xuất bản, Huế, 1963)]
 
 <!-- id: EVT-1370 -->
 *   **1905:** Phong trào Đông du do Phan Bội Châu khởi xướng bắt đầu, đưa thanh niên yêu nước sang Nhật Bản học tập. Phan Bội Châu viết tác phẩm *Việt Nam vong quốc sử*. [Nguồn: http://baotanglichsu.vn/vi/Articles/3096/12411/hoi-duy-tan-va-phong-trao-dong-du.html]
@@ -4446,40 +4446,40 @@
 *Nguồn: Chân dung Phan Bội Châu / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-1371 -->
-*   **1905:** Quyền Thống đốc Nam Kỳ Outrey tăng thuế điền thổ lên 100%, khiến các đại biểu người Việt trong Hội đồng Quản hạt từ chức.
+*   **1905:** Quyền Thống đốc Nam Kỳ Outrey tăng thuế điền thổ lên 100%, khiến các đại biểu người Việt trong Hội đồng Quản hạt từ chức. [Nguồn: Nguyễn Phan Quang, Lịch sử Việt Nam (1858–1945), NXB Giáo dục, Hà Nội]
 
 <!-- id: EVT-1372 -->
-*   **1905:** Ông Nguyễn Trọng Lợi mở hội Thanh niên thể dục và trường Dục Anh tại Bình Thuận để dạy học theo tinh thần mới.
+*   **1905:** Ông Nguyễn Trọng Lợi mở hội Thanh niên thể dục và trường Dục Anh tại Bình Thuận để dạy học theo tinh thần mới. [Nguồn: Lịch sử Đảng bộ tỉnh Bình Thuận (Tập 1: 1930–1954), NXB Chính trị Quốc gia, Hà Nội]
 
 <!-- id: EVT-1373 -->
-*   **14/11/1905:** Sắc lệnh thành lập Nha Học chính Đông Dương, bắt đầu cuộc cải cách giáo dục lần thứ nhất.
+*   **14/11/1905:** Sắc lệnh thành lập Nha Học chính Đông Dương, bắt đầu cuộc cải cách giáo dục lần thứ nhất. [Nguồn: Châu bản triều Nguyễn (Trung tâm Lưu trữ Quốc gia I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1374 -->
 *   **1906:** Phong trào Duy tân do Phan Châu Trinh, Huỳnh Thúc Kháng, Trần Quý Cáp khởi xướng lan rộng ở Trung Kỳ, chủ trương "khai dân trí, chấn dân khí, hậu dân sinh". [Nguồn: http://baotanglichsu.vn/vi/Articles/3096/19494/phan-chau-trinh-voi-tu-tuong-canh-tan-djat-nuoc.html]
 
 <!-- id: EVT-1375 -->
-*   **1906 - 1908:** Tại làng Phú Lâm (Quảng Nam), Lý trưởng Lê Cơ tiên phong thực hiện cải cách: lập trường học (có trường nữ học đầu tiên trong vùng), hội buôn, đồn điền, trở thành mô hình thực tế của phong trào Duy Tân.
+*   **1906 - 1908:** Tại làng Phú Lâm (Quảng Nam), Lý trưởng Lê Cơ tiên phong thực hiện cải cách: lập trường học (có trường nữ học đầu tiên trong vùng), hội buôn, đồn điền, trở thành mô hình thực tế của phong trào Duy Tân. [Nguồn: Nguyễn Q. Thắng, Phong trào Duy Tân và các gương mặt tiêu biểu, NXB Văn hóa Thông tin, Hà Nội, 2006]
 
 <!-- id: EVT-1376 -->
-*   **1906 (hoặc 4 tháng 8 năm 1908):** Nguyễn Thị Suốt, thường được biết đến với tên gọi Mẹ Suốt, sinh ra tại Bảo Ninh, Đồng Hới, Quảng Bình. Bà sau này trở thành một Nữ Anh hùng Lao động tiêu biểu và là biểu tượng cho sự dũng cảm của người phụ nữ Việt Nam trong cuộc kháng chiến chống Mỹ, cứu nước.
+*   **1906 (hoặc 4 tháng 8 năm 1908):** Nguyễn Thị Suốt, thường được biết đến với tên gọi Mẹ Suốt, sinh ra tại Bảo Ninh, Đồng Hới, Quảng Bình. Bà sau này trở thành một Nữ Anh hùng Lao động tiêu biểu và là biểu tượng cho sự dũng cảm của người phụ nữ Việt Nam trong cuộc kháng chiến chống Mỹ, cứu nước. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng Vũ trang Nhân dân, NXB Quân đội Nhân dân, Hà Nội]
 
 <!-- id: EVT-1377 -->
-*   **16/05/1906:** Toàn quyền Paul Beau ký Nghị định thành lập Đại học Đông Dương.
+*   **16/05/1906:** Toàn quyền Paul Beau ký Nghị định thành lập Đại học Đông Dương. [Nguồn: Lịch sử Việt Nam (Tập 7: 1897–1918), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1378 -->
-*   **06/06/1906:** Liên Thành thương quán được sáu sĩ phu yêu nước thành lập tại Phan Thiết nhằm hưởng ứng phong trào Duy Tân. Ban đầu đăng ký là công ty nặc danh với thời hạn 10 năm, công ty sản xuất nước mắm để tạo nguồn quỹ cho các hoạt động yêu nước và tạo việc làm cho người lao động.
+*   **06/06/1906:** Liên Thành thương quán được sáu sĩ phu yêu nước thành lập tại Phan Thiết nhằm hưởng ứng phong trào Duy Tân. Ban đầu đăng ký là công ty nặc danh với thời hạn 10 năm, công ty sản xuất nước mắm để tạo nguồn quỹ cho các hoạt động yêu nước và tạo việc làm cho người lao động. [Nguồn: Lịch sử Đảng bộ tỉnh Bình Thuận (Tập 1: 1930–1954), NXB Chính trị Quốc gia, Hà Nội]
 
 <!-- id: EVT-1379 -->
-*   **1907:** Dục Thanh học hiệu được các nhà sáng lập Liên Thành thương quán lập ra để dạy những tư tưởng tiến bộ yêu nước cho con em lao động nghèo.
+*   **1907:** Dục Thanh học hiệu được các nhà sáng lập Liên Thành thương quán lập ra để dạy những tư tưởng tiến bộ yêu nước cho con em lao động nghèo. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1380 -->
 *   **03/1907:** Các sĩ phu yêu nước Lương Văn Can, Nguyễn Quyền, Nguyễn Hữu Cầu (Giản Thạch) cùng sáng lập Đông Kinh Nghĩa Thục tại số 4 Hàng Đào (Hà Nội), mở các lớp dạy chữ Quốc ngữ cho cả nam và nữ, truyền bá tư tưởng duy tân và nâng cao dân trí. [Nguồn: Bảo tàng Lịch sử Quốc gia - Đông Kinh Nghĩa Thục và tư tưởng cải cách giáo dục, https://baotanglichsu.vn/vi/Articles/2001/66339/djong-kinh-nghia-thuc-va-tu-tuong-cai-cach-giao-duc.html]
 
 <!-- id: EVT-1381 -->
-*   **07/04/1907:** Lê Duẩn sinh ra tại Triệu Phong, Quảng Trị. Ông sau này trở thành Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, nhà lãnh đạo kiệt xuất của cách mạng Việt Nam.
+*   **07/04/1907:** Lê Duẩn sinh ra tại Triệu Phong, Quảng Trị. Ông sau này trở thành Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, nhà lãnh đạo kiệt xuất của cách mạng Việt Nam. [Nguồn: Tổng Bí thư Lê Duẩn – Nhà lãnh đạo kiệt xuất của Đảng và dân tộc (Báo Nhân Dân), https://nhandan.vn/tong-bi-thu-le-duan-nha-lanh-dao-kien-xuat-cua-dang-va-dan-toc-post692250.html]
 
 <!-- id: EVT-1382 -->
-*   **05/1907:** Đông Kinh Nghĩa Thục chính thức được cấp giấy phép, mở rộng quy mô dạy học, diễn thuyết và cổ động thực nghiệp.
+*   **05/1907:** Đông Kinh Nghĩa Thục chính thức được cấp giấy phép, mở rộng quy mô dạy học, diễn thuyết và cổ động thực nghiệp. [Nguồn: Đông Kinh Nghĩa Thục (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13904/dong-kinh-nghia-thuc.html]
 
 <!-- id: EVT-1383 -->
 *   **03/09/1907 (Đinh Mùi):** Thực dân Pháp ép vua Thành Thái phải thoái vị với cớ 'bệnh tâm thần' do nhà vua kiên quyết chống đối sự bảo hộ và luôn ủng hộ các sĩ phu yêu nước, sau đó đưa ông đi quản thúc tại Vũng Tàu. Đến ngày 05/09/1907, con trai nhà vua là Hoàng tử Vĩnh San (mới 7 tuổi) được đưa lên nối ngôi (vua Duy Tân). [Nguồn: Bảo tàng Lịch sử Quốc gia - Hoàng đế Thành Thái - Vị vua yêu nước của vương triều Nguyễn, https://baotanglichsu.vn/vi/Articles/3098/15571/hoang-dje-thanh-thai-vi-vua-yeu-nuoc-cua-vuong-trieu-nguyen.html]

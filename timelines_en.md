@@ -4069,88 +4069,88 @@
 *   **1876:** Trương Vĩnh Ký undertook an exploratory journey to Tonkin (Northern Vietnam) at the behest of Cochinchina Governor Duperré, subsequently publishing the travelogue *"Chuyến đi Bắc Kỳ năm Ất Hợi (1876)"*. While offering valuable observations on northern geography, customs, and society, the text also documented conciliatory political advice favoring French oversight, later becoming a subject of intense controversy regarding his political stance. [Source: Truong Vinh Ky and Journey to Tonkin in the Year of At Hoi (People's Police Newspaper), https://cand.vn/truong-vinh-ky-nguoi-thay-nha-van-hoa-lon-cua-dan-toc-post376414.html]
 
 <!-- id: EVT-1257 -->
-*   **July 8, 1876 (Tu Duc 29):** Bui Vien submitted a comprehensive report to the Hue court proposing the establishment of a modernized naval force ("Tuan duong quan"). The force was designed to eradicate piracy, protect maritime trade, and secure the transport of state funds by integrating former pirates and fishermen into a professional navy.
+*   **July 8, 1876 (Tu Duc 29):** Bui Vien submitted a comprehensive report to the Hue court proposing the establishment of a modernized naval force ("Tuan duong quan"). The force was designed to eradicate piracy, protect maritime trade, and secure the transport of state funds by integrating former pirates and fishermen into a professional navy. [Source: Bui Vien and Court of Tu Duc (People's Police Newspaper), https://cand.com.vn/Tu-lieu-antg/Nha-ngoai-giao-dau-tien-sang-My-va-cai-chet-bi-an-i396264/]
 
 <!-- id: EVT-1258 -->
-*   **Oct. 1876:** The **My Duc Circuit** (Dao My Duc) was established to reinforce defense and land reclamation in the Hanoi and Son Tay region.
+*   **Oct. 1876:** The **My Duc Circuit** (Dao My Duc) was established to reinforce defense and land reclamation in the Hanoi and Son Tay region. [Source: Veritable Records of Dai Nam – Main Part (Fourth Chronicle, Vol. 56)]
 
 <!-- id: EVT-1259 -->
-*   **Oct. 1, 1876:** Huynh Thuc Khang (birth name Huynh Van Thuoc, courtesy name Gioi Sanh, art name Minh Vien) was born in Thanh Binh village, Tien Phuoc district, Quang Nam province. He was a prominent patriotic scholar, cultural figure, journalist, former President of the People's Representative Assembly of Annam, Minister of the Interior, and Acting President of the Democratic Republic of Vietnam.
+*   **Oct. 1, 1876:** Huynh Thuc Khang (birth name Huynh Van Thuoc, courtesy name Gioi Sanh, art name Minh Vien) was born in Thanh Binh village, Tien Phuoc district, Quang Nam province. He was a prominent patriotic scholar, cultural figure, journalist, former President of the People's Representative Assembly of Annam, Minister of the Interior, and Acting President of the Democratic Republic of Vietnam. [Source: Patriotic Scholar Huynh Thuc Khang (Nhan Dan Newspaper), https://nhandan.vn/chi-si-yeu-nuoc-huynh-thuc-khang-nha-lanh-dao-tien-boi-tieu-bieu-cua-dang-va-cach-mang-viet-nam-post670559.html]
 
 <!-- id: EVT-1260 -->
-*   **April 1878 (Tu Duc 31):** The newly established Tuan duong quan, commanded by Bui Vien, engaged in a fierce naval battle against Chinese pirates (Tau O) in the waters of Ha Tinh. Using fire tactics, the Vietnamese navy forced the pirates to flee, capturing a ship, weapons, and 18 pirates.
+*   **April 1878 (Tu Duc 31):** The newly established Tuan duong quan, commanded by Bui Vien, engaged in a fierce naval battle against Chinese pirates (Tau O) in the waters of Ha Tinh. Using fire tactics, the Vietnamese navy forced the pirates to flee, capturing a ship, weapons, and 18 pirates. [Source: Veritable Records of Dai Nam – Main Part (Fourth Chronicle, Vol. 59); People's Police Newspaper, https://cand.com.vn/Tu-lieu-antg/Nha-ngoai-giao-dau-tien-sang-My-va-cai-chet-bi-an-i396264/]
 
 <!-- id: EVT-1261 -->
-*   **Apr. 6, 1878:** Decree 82, signed by the Governor of Cochinchina Lafont, set a four-year deadline to fully transition to chữ Quốc ngữ.
+*   **Apr. 6, 1878:** Decree 82, signed by the Governor of Cochinchina Lafont, set a four-year deadline to fully transition to chữ Quốc ngữ. [Source: Chữ Quốc ngữ in French Language Policy in Cochinchina (VietNamNet), https://vietnamnet.vn/chu-quoc-ngu-trong-chinh-sach-ngon-ngu-cua-nguoi-phap-o-nam-ky-728860.html]
 
 <!-- id: EVT-1262 -->
-*   **May 1878 (Tu Duc 31):** Bui Vien's Tuan duong quan fought a second major battle against Chinese pirates off the coast of Thanh Hoa while defending a merchant ship. The Vietnamese navy pursued the pirates all the way to Hainan Island (China), forcing them to abandon a ship filled with weapons and supplies.
+*   **May 1878 (Tu Duc 31):** Bui Vien's Tuan duong quan fought a second major battle against Chinese pirates off the coast of Thanh Hoa while defending a merchant ship. The Vietnamese navy pursued the pirates all the way to Hainan Island (China), forcing them to abandon a ship filled with weapons and supplies. [Source: Veritable Records of Dai Nam – Main Part (Fourth Chronicle, Vol. 59); People's Police Newspaper, https://cand.com.vn/Tu-lieu-antg/Nha-ngoai-giao-dau-tien-sang-My-va-cai-chet-bi-an-i396264/]
 
 <!-- id: EVT-1263 -->
-*   **October 1878 (Tu Duc 31):** The Hue court issued a decree allowing children of mandarins, aged around twenty, to study abroad in Hong Kong and Western countries at the government's expense. Students were to study for over five years to learn foreign languages and technical skills like shipbuilding, mining, or military training.
+*   **October 1878 (Tu Duc 31):** The Hue court issued a decree allowing children of mandarins, aged around twenty, to study abroad in Hong Kong and Western countries at the government's expense. Students were to study for over five years to learn foreign languages and technical skills like shipbuilding, mining, or military training. [Source: Veritable Records of Dai Nam – Main Part (Fourth Chronicle, Vol. 60)]
 
 <!-- id: EVT-1264 -->
-*   **Nov. 24th, 1878:** Bui Vien suddenly passed away at midnight in Hue due to severe body aches. His unexpected death left a massive void in the Nguyen court, leading to a mutiny among his naval troops, the loss of state funds, and severely impacting Vietnam's modernization efforts.
+*   **Nov. 24th, 1878:** Bui Vien suddenly passed away at midnight in Hue due to severe body aches. His unexpected death left a massive void in the Nguyen court, leading to a mutiny among his naval troops, the loss of state funds, and severely impacting Vietnam's modernization efforts. [Source: The First Diplomat to America and Mysterious Death (People's Police Newspaper), https://cand.com.vn/Tu-lieu-antg/Nha-ngoai-giao-dau-tien-sang-My-va-cai-chet-bi-an-i396264/]
 
 <!-- id: EVT-1265 -->
-*   **1880:** The Hue court sent envoys to the Qing court to present tribute, maintaining diplomatic relations with China despite the 1874 Treaty with France.
+*   **1880:** The Hue court sent envoys to the Qing court to present tribute, maintaining diplomatic relations with China despite the 1874 Treaty with France. [Source: Veritable Records of Dai Nam – Main Part (Fourth Chronicle, Vol. 63)]
 
 <!-- id: EVT-1266 -->
-*   **1880 (Tu Duc 33):** The Hue court dispatched a ninth-grade medical official to Hong Kong to learn the British method of smallpox vaccination, demonstrating efforts to acquire modern Western medical knowledge.
+*   **1880 (Tu Duc 33):** The Hue court dispatched a ninth-grade medical official to Hong Kong to learn the British method of smallpox vaccination, demonstrating efforts to acquire modern Western medical knowledge. [Source: Veritable Records of Dai Nam – Main Part (Fourth Chronicle, Vol. 63)]
 
 <!-- id: EVT-1267 -->
-*   **Feb. 1880:** The **Lang Giang Circuit** (Bac Ninh) and **Doan Hung Circuit** (Son Tay/Tuyen Quang) were established to strengthen border defense.
+*   **Feb. 1880:** The **Lang Giang Circuit** (Bac Ninh) and **Doan Hung Circuit** (Son Tay/Tuyen Quang) were established to strengthen border defense. [Source: Veritable Records of Dai Nam – Main Part (Fourth Chronicle, Vol. 63)]
 
 <!-- id: EVT-1268 -->
-*   **1881 - 1884:** Germany conducted systematic hydrographic research on the Paracel Islands without any accompanying sovereignty claims.
+*   **1881 - 1884:** Germany conducted systematic hydrographic research on the Paracel Islands without any accompanying sovereignty claims. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1269 -->
-*   **1881 (Tu Duc 34):** Vice Minister of Rites Pham Binh was sent to Hong Kong to sell two old ships (Loi Tai and Thuan Tiep) and commission a new one. He was also tasked with bringing 12 Vietnamese youths to enroll in an English school in Hong Kong.
+*   **1881 (Tu Duc 34):** Vice Minister of Rites Pham Binh was sent to Hong Kong to sell two old ships (Loi Tai and Thuan Tiep) and commission a new one. He was also tasked with bringing 12 Vietnamese youths to enroll in an English school in Hong Kong. [Source: Veritable Records of Dai Nam – Main Part (Fourth Chronicle, Vol. 65)]
 
 <!-- id: EVT-1270 -->
-*   **Feb. 1881:** The **Ship Administration Bureau** (Cuc Thuyen Chinh) was established to manage state vessels and water transport.
+*   **Feb. 1881:** The **Ship Administration Bureau** (Cuc Thuyen Chinh) was established to manage state vessels and water transport. [Source: Veritable Records of Dai Nam – Main Part (Fourth Chronicle, Vol. 65)]
 
 <!-- id: EVT-1271 -->
-*   **1882:** The official gazetteer *Dai Nam Nhat Thong Chi* (Gazetteer of Imperial Dai Nam), compiled by the Nguyen Dynasty's National Bureau of History, was completed, meticulously detailing the geography and resources of the Paracel and Spratly Islands (Van Ly Truong Sa) as integral parts of Quang Ngai Province.
+*   **1882:** The official gazetteer *Dai Nam Nhat Thong Chi* (Gazetteer of Imperial Dai Nam), compiled by the Nguyen Dynasty's National Bureau of History, was completed, meticulously detailing the geography and resources of the Paracel and Spratly Islands (Van Ly Truong Sa) as integral parts of Quang Ngai Province. [Source: National History Office of the Nguyen Dynasty, Dai Nam Nhat Thong Chi (Vol. 1), Thuan Hoa Publishing House, Hue, 2006]
 
 <!-- id: EVT-1272 -->
-*   **Jan. 1, 1882:** All official dispatches and public notices were required to be written in chữ Quốc ngữ. Concurrently, only those literate in chữ Quốc ngữ could be appointed to administrative bodies (at the prefecture, district, and canton levels) or be considered for promotion.
+*   **Jan. 1, 1882:** All official dispatches and public notices were required to be written in chữ Quốc ngữ. Concurrently, only those literate in chữ Quốc ngữ could be appointed to administrative bodies (at the prefecture, district, and canton levels) or be considered for promotion. [Source: Chữ Quốc ngữ in French Language Policy in Cochinchina (VietNamNet), https://vietnamnet.vn/chu-quoc-ngu-trong-chinh-sach-ngon-ngu-cua-nguoi-phap-o-nam-ky-728860.html]
 
 <!-- id: EVT-1273 -->
-*   **Jan. 30, 1882:** The Governor of Cochinchina issued a decree requiring official documents to be written in French. If chữ Quốc ngữ was used, it had to be accompanied by a French translation.
+*   **Jan. 30, 1882:** The Governor of Cochinchina issued a decree requiring official documents to be written in French. If chữ Quốc ngữ was used, it had to be accompanied by a French translation. [Source: Chữ Quốc ngữ in French Language Policy in Cochinchina (VietNamNet), https://vietnamnet.vn/chu-quoc-ngu-trong-chinh-sach-ngon-ngu-cua-nguoi-phap-o-nam-ky-728860.html]
 
 <!-- id: EVT-1274 -->
-*   **Apr. 3, 1882:** Colonel Henri Rivière landed in Hanoi, beginning the second invasion of Tonkin.
+*   **Apr. 3, 1882:** Colonel Henri Rivière landed in Hanoi, beginning the second invasion of Tonkin. [Source: Hostilities in Hanoi in 1882 (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13670/chien-su-ha-noi-nam-1882.html]
 
 <!-- id: EVT-1275 -->
 *   **Apr. 25, 1882:** Second Battle of Hanoi. French Colonel Henri Rivière issued an ultimatum to Governor Hoang Dieu and attacked the Hanoi Citadel. The citadel fell rapidly despite fierce resistance. Governor Hoang Dieu committed suicide to preserve his honor. This marked a major escalation in French colonial ambitions in Tonkin. [Source: Vietnam National Museum of History - 131 years ago, April 25, 1882: French troops attack Hanoi Citadel for the second time, https://baotanglichsu.vn/vi/Articles/3097/14192/cach-djay-131-nam-ngay-25-4-1882-quan-phap-djanh-thanh-ha-noi-lan-thu-hai.html]
 
 <!-- id: EVT-1276 -->
-*   **1883:** Nguyen Sinh Sac married Hoang Thi Loan in Hoang Tru village (Nam Dan, Nghe An). The marriage marked the union of two studious Confucian families, creating the nurturing cradle that would give birth to the nation's great leader, President Ho Chi Minh.
+*   **1883:** Nguyen Sinh Sac married Hoang Thi Loan in Hoang Tru village (Nam Dan, Nghe An). The marriage marked the union of two studious Confucian families, creating the nurturing cradle that would give birth to the nation's great leader, President Ho Chi Minh. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1277 -->
-*   **1883 - 1892:** The Bai Say Uprising (Hung Yen) broke out under the leadership of Dinh Gia Que and Nguyen Thien Thuat (Tan Thuat), becoming one of the most prominent uprisings in the Tonkin delta during the Can Vuong movement.
+*   **1883 - 1892:** The Bai Say Uprising (Hung Yen) broke out under the leadership of Dinh Gia Que and Nguyen Thien Thuat (Tan Thuat), becoming one of the most prominent uprisings in the Tonkin delta during the Can Vuong movement. [Source: The Bai Say Uprising (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13898/khoi-nghia-bai-say.html]
 
 <!-- id: EVT-1278 -->
-*   **Feb. 27 - 28, 1883:** Battle of Gia Quat - Gia Lam. While Henri Rivière was absent, Vietnamese royal forces and the Black Flag Army encircled Hanoi. French Major Berthe de Villers led a successful counter-attack, repelling the Vietnamese forces.
+*   **Feb. 27 - 28, 1883:** Battle of Gia Quat - Gia Lam. While Henri Rivière was absent, Vietnamese royal forces and the Black Flag Army encircled Hanoi. French Major Berthe de Villers led a successful counter-attack, repelling the Vietnamese forces. [Source: Institute of History, History of Vietnam (Vol. 6: 1858–1897), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1279 -->
-*   **Mar. 27, 1883:** Battle of Nam Dinh. Henri Rivière led a naval and infantry assault against the Nam Dinh Citadel. Defended by 6,200 Vietnamese troops and 600 Black Flag soldiers, the citadel fell to the heavily armed French forces, securing French communications to the sea.
+*   **Mar. 27, 1883:** Battle of Nam Dinh. Henri Rivière led a naval and infantry assault against the Nam Dinh Citadel. Defended by 6,200 Vietnamese troops and 600 Black Flag soldiers, the citadel fell to the heavily armed French forces, securing French communications to the sea. [Source: Institute of History, History of Vietnam (Vol. 6: 1858–1897), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1280 -->
 *   **May 19, 1883:** Second Battle of Cau Giay. A combined force of the Black Flag Army and Vietnamese royal troops ambushed a French military column attempting to break out of Hanoi. French commanders Henri Rivière and Berthe de Villers were killed in the fierce engagement. This defeat shocked the French government, prompting massive reinforcements. Emperor Tu Duc, hoping for negotiations, issued an edict stating: "Those who discuss peace are meritorious, those who discuss war are guilty," preventing further attacks. [Source: People's Army Newspaper - The anti-French resistance in the late 19th century: Lessons on inspiring and promoting patriotism, https://www.qdnd.vn/chinh-tri/cac-van-de/cuoc-khang-phap-xam-luoc-nua-cuoi-the-ky-19-bai-hoc-khoi-day-va-phat-huy-truyen-thong-yeu-nuoc-cua-dan-toc-548294]
 
 <!-- id: EVT-1281 -->
-*   **Jul. 17, 1883:** Emperor Tu Duc passed away, and the Hue court fell into turmoil and disarray.
+*   **Jul. 17, 1883:** Emperor Tu Duc passed away, and the Hue court fell into turmoil and disarray. [Source: Emperor Tu Duc (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13768/vua-tu-duc.html]
 
 <!-- id: EVT-1282 -->
-*   **Jul. 19 - 23, 1883 (Quy Mui year):** Following Emperor Tu Duc's death, his adopted son Ung Chan ascended the throne as Emperor Duc Duc. However, only three days later, powerful regents Nguyen Van Tuong and Ton That Thuyet accused him of altering the imperial will and deposed him; he was subsequently starved to death in prison in October 1884.
+*   **Jul. 19 - 23, 1883 (Quy Mui year):** Following Emperor Tu Duc's death, his adopted son Ung Chan ascended the throne as Emperor Duc Duc. However, only three days later, powerful regents Nguyen Van Tuong and Ton That Thuyet accused him of altering the imperial will and deposed him; he was subsequently starved to death in prison in October 1884. [Source: Emperor Duc Duc (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13769/vua-duc-duc.html]
 
 <!-- id: EVT-1283 -->
-*   **Jul. 30, 1883 (Quy Mui year):** Following Duc Duc's deposition, Prince Nguyen Phuc Hong Dat (29th son of Emperor Thieu Tri) was enthroned as Emperor Hiep Hoa. Under severe French military coercion after the fall of Thuan An coastal forts, the court was compelled to sign the Treaty of Hue (Harmand Treaty), accepting French protectorate status.
+*   **Jul. 30, 1883 (Quy Mui year):** Following Duc Duc's deposition, Prince Nguyen Phuc Hong Dat (29th son of Emperor Thieu Tri) was enthroned as Emperor Hiep Hoa. Under severe French military coercion after the fall of Thuan An coastal forts, the court was compelled to sign the Treaty of Hue (Harmand Treaty), accepting French protectorate status. [Source: Emperor Hiep Hoa (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13770/vua-hiep-hoa.html]
 
 <!-- id: EVT-1284 -->
-*   **Aug. 15 - 16, 1883:** Battle of Phu Hoai. French General Alexandre-Eugène Bouët launched a major offensive against the Black Flag Army's fortified defense line west of Hanoi. Heavy flooding from a broken Red River dike abruptly ended the battle, causing significant losses in war materiel for the Black Flag Army as they retreated.
+*   **Aug. 15 - 16, 1883:** Battle of Phu Hoai. French General Alexandre-Eugène Bouët launched a major offensive against the Black Flag Army's fortified defense line west of Hanoi. Heavy flooding from a broken Red River dike abruptly ended the battle, causing significant losses in war materiel for the Black Flag Army as they retreated. [Source: Institute of History, History of Vietnam (Vol. 6: 1858–1897), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1285 -->
 *   **Aug. 18 - 20, 1883:** Battle of Thuan An. A French naval fleet commanded by Admiral Amédée Courbet heavily bombarded and captured the strategic coastal forts at the Thuan An estuary, directly threatening the imperial capital of Hue. The overwhelmed Vietnamese defenders suffered immense casualties, forcing the Hue court to sue for peace. [Source: Nguyen Dynasty National History Academy, Dai Nam Thuc Luc (Veritable Records of Dai Nam); Cao Xuan Duc, Quoc Trieu Chanh Bien Toat Yeu]
@@ -4163,31 +4163,31 @@
 *   **Aug. 25, 1883:** The Hue court signed the Treaty of Quy Mui (Harmand Treaty), officially recognizing the French protectorate over all of Vietnam. [Source: Vietnam National Museum of History - Harmand Treaty (Aug. 25, 1883): The treaty officially marking the French colonial period in Vietnam, https://baotanglichsu.vn/vi/Articles/3097/14946/hiep-uoc-harman-25-8-1883-ban-hiep-uoc-chinh-thuc-djanh-dau-thoi-phap-thuoc-o-viet-nam.html]
 
 <!-- id: EVT-1287 -->
-*   **Nov. 29, 1883 (Quy Mui year):** After a four-month reign, Emperor Hiep Hoa's clandestine overtures to French authorities to curb the regents' dominance were uncovered. Regential leaders Nguyen Van Tuong and Ton That Thuyet deposed him and forced him to drink poison at the Duc Duc pavilion. Fourteen-year-old Prince Ung Dang was enthroned as Emperor Kien Phuc.
+*   **Nov. 29, 1883 (Quy Mui year):** After a four-month reign, Emperor Hiep Hoa's clandestine overtures to French authorities to curb the regents' dominance were uncovered. Regential leaders Nguyen Van Tuong and Ton That Thuyet deposed him and forced him to drink poison at the Duc Duc pavilion. Fourteen-year-old Prince Ung Dang was enthroned as Emperor Kien Phuc. [Source: Emperor Hiep Hoa (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13770/vua-hiep-hoa.html]
 
 <!-- id: EVT-1288 -->
-*   **Nov. 30, 1883:** Regents Nguyen Van Tuong and Ton That Thuyet ordered the execution of Regent Tran Tien Thanh due to disagreements over the royal succession and foreign policy.
+*   **Nov. 30, 1883:** Regents Nguyen Van Tuong and Ton That Thuyet ordered the execution of Regent Tran Tien Thanh due to disagreements over the royal succession and foreign policy. [Source: Veritable Records of Dai Nam – Main Part (Fifth Chronicle, Vol. 1)]
 
 <!-- id: EVT-1289 -->
-*   **Dec. 11 - 16, 1883:** Battle of Son Tay. French Admiral Amédée Courbet led a massive expeditionary force of 9,000 troops to attack the heavily fortified Son Tay Citadel, defended by the Black Flag Army alongside Vietnamese and Qing forces. After several days of bloody fighting, the French breached the western gate, forcing Luu Vinh Phuc to retreat. The capture of Son Tay was a devastating blow to the anti-French resistance.
+*   **Dec. 11 - 16, 1883:** Battle of Son Tay. French Admiral Amédée Courbet led a massive expeditionary force of 9,000 troops to attack the heavily fortified Son Tay Citadel, defended by the Black Flag Army alongside Vietnamese and Qing forces. After several days of bloody fighting, the French breached the western gate, forcing Luu Vinh Phuc to retreat. The capture of Son Tay was a devastating blow to the anti-French resistance. [Source: Institute of History, History of Vietnam (Vol. 6: 1858–1897), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1290 -->
-*   **1884 - 1945:** France continued to administer the Spratly and Paracel Islands as territories of French Indochina.
+*   **1884 - 1945:** France continued to administer the Spratly and Paracel Islands as territories of French Indochina. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1291 -->
-*   **1884:** French researcher Julien recorded the distinct guild street organization in Hanoi (e.g., Hang Dong, Hang Tranh), highlighting the unique urban adaptation of rural village guild structures where each trade concentrated on a specific street.
+*   **1884:** French researcher Julien recorded the distinct guild street organization in Hanoi (e.g., Hang Dong, Hang Tranh), highlighting the unique urban adaptation of rural village guild structures where each trade concentrated on a specific street. [Source: Institute of History, History of Vietnam (Vol. 6: 1858–1897), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1292 -->
-*   **1884:** Following the Nguyễn court's signing of the Treaty of Giáp Thân (1884) recognizing French protectorate rule, Governor-General Nguyễn Khuyến resigned from government service and retired in seclusion to Yên Đổ village (Hà Nam), preserving Confucian integrity and penning realism-satirical verse and celebrated autumn poems (*Thu điếu*, *Thu vịnh*, *Thu ẩm*).
+*   **1884:** Following the Nguyễn court's signing of the Treaty of Giáp Thân (1884) recognizing French protectorate rule, Governor-General Nguyễn Khuyến resigned from government service and retired in seclusion to Yên Đổ village (Hà Nam), preserving Confucian integrity and penning realism-satirical verse and celebrated autumn poems (*Thu điếu*, *Thu vịnh*, *Thu ẩm*). [Source: Institute of History, History of Vietnam (Vol. 6: 1858–1897), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1293 -->
-*   **Jan. 1884:** Emperor Kien Phuc ordered the study and manufacturing of Western-style guns and the testing of Western textile techniques.
+*   **Jan. 1884:** Emperor Kien Phuc ordered the study and manufacturing of Western-style guns and the testing of Western textile techniques. [Source: Veritable Records of Dai Nam – Main Part (Fifth Chronicle, Vol. 2)]
 
 <!-- id: EVT-1294 -->
-*   **Feb. 1884:** Emperor Kien Phuc issued a decree requiring all degree holders (Doctors, Bachelors) to accept government posts to serve the country, penalizing those who refused.
+*   **Feb. 1884:** Emperor Kien Phuc issued a decree requiring all degree holders (Doctors, Bachelors) to accept government posts to serve the country, penalizing those who refused. [Source: Veritable Records of Dai Nam – Main Part (Fifth Chronicle, Vol. 3)]
 
 <!-- id: EVT-1295 -->
-*   **Mar. 6 - 12, 1884:** Battle of Bac Ninh. French forces under General Charles-Théodore Millot launched a massive campaign with over 16,000 troops to capture the highly strategic Bac Ninh Citadel, defended by 20,000 Qing and Black Flag troops. Utilizing superior artillery and a flanking maneuver across the Duong River, the French routed the defenders.
+*   **Mar. 6 - 12, 1884:** Battle of Bac Ninh. French forces under General Charles-Théodore Millot launched a massive campaign with over 16,000 troops to capture the highly strategic Bac Ninh Citadel, defended by 20,000 Qing and Black Flag troops. Utilizing superior artillery and a flanking maneuver across the Duong River, the French routed the defenders. [Source: Institute of History, History of Vietnam (Vol. 6: 1858–1897), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1296 -->
 *   **Mar. 16, 1884:** The Yen The Uprising (Bac Giang) broke out under the leadership of Luong Van Nam (De Nam) and Hoang Hoa Tham (De Tham), initiating a nearly 30-year resilient armed peasant resistance against French colonialism. [Source: http://baotanglichsu.vn/vi/Articles/3096/12398/khoi-nghia-yen-the-1884-1913.html]
@@ -4197,13 +4197,13 @@
 *Source: Hoang Hoa Tham (De Tham), leader of the Yen The Uprising / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-1297 -->
-*   **Apr. 11 - 12, 1884:** Battle of Hung Hoa. French forces captured the Hung Hoa Citadel from the Black Flag Army and Vietnamese forces led by Nguyen Quang Bich. The defenders retreated under heavy artillery bombardment. Nguyen Quang Bich refused to surrender and moved to the mountains to continue the resistance.
+*   **Apr. 11 - 12, 1884:** Battle of Hung Hoa. French forces captured the Hung Hoa Citadel from the Black Flag Army and Vietnamese forces led by Nguyen Quang Bich. The defenders retreated under heavy artillery bombardment. Nguyen Quang Bich refused to surrender and moved to the mountains to continue the resistance. [Source: Institute of History, History of Vietnam (Vol. 6: 1858–1897), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1298 -->
-*   **May 11, 1884:** France and the Qing dynasty signed the Tientsin Accord, in which the Qing agreed to withdraw their troops from Tonkin.
+*   **May 11, 1884:** France and the Qing dynasty signed the Tientsin Accord, in which the Qing agreed to withdraw their troops from Tonkin. [Source: Institute of History, History of Vietnam (Vol. 6: 1858–1897), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1299 -->
-*   **May 31, 1884:** French forces under Colonel Duchesne captured the Tuyen Quang Citadel on the Lo River, forcing the Black Flag Army to abandon the stronghold.
+*   **May 31, 1884:** French forces under Colonel Duchesne captured the Tuyen Quang Citadel on the Lo River, forcing the Black Flag Army to abandon the stronghold. [Source: Institute of History, History of Vietnam (Vol. 6: 1858–1897), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1300 -->
 *   **Jun. 6, 1884:** The Hue court (represented by Pham Than Duat, Nguyen Van Tuong, and Ton That Phan) signed the Treaty of Giap Than (Patenôtre Treaty) with France (represented by Minister Patenôtre), which completely established the French protectorate over all of Vietnam. [Source: Vietnam National Museum of History - The Nguyen Court signs the Treaty of Giap Than 1884 (Patenotre Treaty) with France, https://baotanglichsu.vn/vi/Articles/3097/14428/cach-djay-129-nam-6-6-1884-6-6-2013-trieu-djinh-nguyen-ky-hoa-uoc-giap-than-1884-con-co-ten-khac-la-hoa-uoc-patenotre-voi-thuc-dan-phap.html]
@@ -4213,23 +4213,23 @@
 *Source: French propaganda poster honoring the conquest of Tonkin / Wikimedia Commons*
 
 <!-- id: EVT-1301 -->
-*   **Jun. 23 - 24, 1884:** Battle of Bac Le. A French column marching to occupy Lang Son under the terms of the Tientsin Accord was ambushed by Qing and Vietnamese forces near the Quan Am bridge. The French suffered a severe defeat and retreated with heavy casualties, sparking the Sino-French War.
+*   **Jun. 23 - 24, 1884:** Battle of Bac Le. A French column marching to occupy Lang Son under the terms of the Tientsin Accord was ambushed by Qing and Vietnamese forces near the Quan Am bridge. The French suffered a severe defeat and retreated with heavy casualties, sparking the Sino-French War. [Source: Institute of History, History of Vietnam (Vol. 6: 1858–1897), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1302 -->
-*   **Aug. 1884:** Emperor Kien Phuc passed away (suspected poisoned). Ham Nghi was enthroned.
+*   **Aug. 1884:** Emperor Kien Phuc passed away (suspected poisoned). Ham Nghi was enthroned. [Source: Emperor Kien Phuc (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13771/vua-kien-phuc.html]
 
 <!-- id: EVT-1303 -->
-*   **Oct. 1884 - Mar. 3, 1885:** Siege of Tuyen Quang. A small French garrison of 600 men in Tuyen Quang was besieged by 12,000 troops of the Black Flag Army and Qing forces. The French withstood intense tunneling and continuous assaults for months until a relief column commanded by General Giovanninelli broke the siege.
+*   **Oct. 1884 - Mar. 3, 1885:** Siege of Tuyen Quang. A small French garrison of 600 men in Tuyen Quang was besieged by 12,000 troops of the Black Flag Army and Qing forces. The French withstood intense tunneling and continuous assaults for months until a relief column commanded by General Giovanninelli broke the siege. [Source: Institute of History, History of Vietnam (Vol. 6: 1858–1897), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1304 -->
-*   **1885 - 1896:** The Huong Khe Uprising, led by Phan Dinh Phung and Cao Thang, took place, marking the peak of the Can Vuong movement.
+*   **1885 - 1896:** The Huong Khe Uprising, led by Phan Dinh Phung and Cao Thang, took place, marking the peak of the Can Vuong movement. [Source: The Huong Khe Uprising (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13900/khoi-nghia-huong-khe.html]
 
 ![Historical Image](images/event_20260924_111641.webp)
 
 *Source: Portrait of Phan Dinh Phung / Encyclopedia of Vietnam (Wikimedia Commons, Public domain)*
 
 <!-- id: EVT-1305 -->
-*   **Feb. 13 - Mar. 28, 1885:** The Lang Son Campaign and Retreat. French forces under General De Négrier captured Lang Son on February 13. However, Qing forces commanded by Feng Zicai launched a massive counter-offensive in late March, recapturing the Nam Quan pass and severely wounding De Négrier at the Battle of Ky Lua. The French forces panicked and ordered a disastrous retreat from Lang Son. The news caused the collapse of Prime Minister Jules Ferry's government in France.
+*   **Feb. 13 - Mar. 28, 1885:** The Lang Son Campaign and Retreat. French forces under General De Négrier captured Lang Son on February 13. However, Qing forces commanded by Feng Zicai launched a massive counter-offensive in late March, recapturing the Nam Quan pass and severely wounding De Négrier at the Battle of Ky Lua. The French forces panicked and ordered a disastrous retreat from Lang Son. The news caused the collapse of Prime Minister Jules Ferry's government in France. [Source: Institute of History, History of Vietnam (Vol. 6: 1858–1897), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1306 -->
 *   **Jul. 4 - 5, 1885:** Battle of the Hue Imperial City. Regent Ton That Thuyet and General Tran Xuan Soan launched a massive, surprise night attack with thousands of royal troops against the French garrison at the Mang Ca fortress and the French Residency. The French forces counter-attacked at dawn with superior firepower, storming the Imperial City. The battle resulted in a horrific massacre, with over 1,500 Vietnamese soldiers and civilians killed. The French looted immense amounts of treasures from the palaces. Ton That Thuyet escorted King Ham Nghi to the mountain base of Tan So (Quang Tri). [Source: Vietnam National Museum of History - The attack on the French Residency (Jul. 5, 1885) in the Hue Imperial City: The final uprising of the Nguyen Dynasty, https://baotanglichsu.vn/vi/Articles/3097/14612/cuoc-tan-cong-vao-toa-kham-su-phap-5-7-1885-tai-kinh-thanh-hue-su-vung-day-cuoi-cung-cua-vuong-trieu-nguyen.html]
@@ -4246,55 +4246,55 @@
 *Source: Portrait of Emperor Ham Nghi / Wikimedia Commons*
 
 <!-- id: EVT-1308 -->
-*   **Sep. 1885:** Nguyen Ba Loan led the Quang Ngai Righteous Association in response to the Can Vuong Edict.
+*   **Sep. 1885:** Nguyen Ba Loan led the Quang Ngai Righteous Association in response to the Can Vuong Edict. [Source: Nguyen Ba Loan and the Quang Ngai Righteous Association (Quang Ngai Newspaper), https://baoquangngai.vn/van-hoa-van-nghe/202107/chi-si-nguyen-ba-loan-nguoi-khoi-xuong-nghia-hoi-quang-ngai-3067160/]
 
 <!-- id: EVT-1309 -->
-*   **Sep. 19, 1885:** Emperor Dong Khanh was enthroned at the Thai Hoa Palace.
+*   **Sep. 19, 1885:** Emperor Dong Khanh was enthroned at the Thai Hoa Palace. [Source: Emperor Dong Khanh (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13773/vua-dong-khanh.html]
 
 <!-- id: EVT-1310 -->
-*   **Nov. 1885:** The Hue court established the **Dai Nam Cong Bao** (Dai Nam Official Gazette), the first official gazette in Vietnam, publishing government decrees and news every 10 days.
+*   **Nov. 1885:** The Hue court established the **Dai Nam Cong Bao** (Dai Nam Official Gazette), the first official gazette in Vietnam, publishing government decrees and news every 10 days. [Source: Dai Nam Cong Bao – First Official Gazette of the Nguyen Court (Da Nang Newspaper), https://baodanang.vn/channel/5414/202106/dai-nam-cong-bao-to-bao-dau-tien-cua-trieu-nguyen-3883652/]
 
 <!-- id: EVT-1311 -->
-*   **1886 - 1888:** The *Descriptive Geography of the Emperor Dong Khanh* (Dong Khanh Dia Du Chi) was compiled by the National History Office, detailing the geography, customs, and products of northern provinces.
+*   **1886 - 1888:** The *Descriptive Geography of the Emperor Dong Khanh* (Dong Khanh Dia Du Chi) was compiled by the National History Office, detailing the geography, customs, and products of northern provinces. [Source: National History Office of the Nguyen Dynasty, Dong Khanh Dia Du Chi, The Gioi Publishers, Hanoi, 2003]
 
 <!-- id: EVT-1312 -->
-*   **1886 - 1887:** The Ba Dinh Uprising (Thanh Hoa), led by Pham Banh and Dinh Cong Trang, took place.
+*   **1886 - 1887:** The Ba Dinh Uprising (Thanh Hoa), led by Pham Banh and Dinh Cong Trang, took place. [Source: The Ba Dinh Uprising (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13899/khoi-nghia-ba-dinh.html]
 
 <!-- id: EVT-1313 -->
-*   **Jan. 1886 (Dec. Year of the Rooster):** King Dong Khanh permitted French photographers to take his portrait, becoming the first Vietnamese monarch to be photographed.
+*   **Jan. 1886 (Dec. Year of the Rooster):** King Dong Khanh permitted French photographers to take his portrait, becoming the first Vietnamese monarch to be photographed. [Source: Emperor Dong Khanh (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13773/vua-dong-khanh.html]
 
 <!-- id: EVT-1314 -->
-*   **Feb. 23, 1886:** The Hue court and France exchanged the ratified Treaty of Giap Than (Patenôtre Treaty) and the Mining Treaty in Hue.
+*   **Feb. 23, 1886:** The Hue court and France exchanged the ratified Treaty of Giap Than (Patenôtre Treaty) and the Mining Treaty in Hue. [Source: Veritable Records of Dai Nam – Main Part (Sixth Chronicle, Vol. 3)]
 
 <!-- id: EVT-1315 -->
-*   **Mar. 1886:** Emperor Dong Khanh established the **Order of the Dragon of Annam** (Dai Nam Long Tinh Vien) to reward civil and military officials.
+*   **Mar. 1886:** Emperor Dong Khanh established the **Order of the Dragon of Annam** (Dai Nam Long Tinh Vien) to reward civil and military officials. [Source: Veritable Records of Dai Nam – Main Part (Sixth Chronicle, Vol. 3)]
 
 <!-- id: EVT-1316 -->
-*   **Apr. 1886:** The court began minting "Dong Khanh Thong Bao" coins (10 zinc coins equal to 1 copper coin).
+*   **Apr. 1886:** The court began minting "Dong Khanh Thong Bao" coins (10 zinc coins equal to 1 copper coin). [Source: Veritable Records of Dai Nam – Main Part (Sixth Chronicle, Vol. 3)]
 
 <!-- id: EVT-1317 -->
-*   **May 1886:** Emperor Dong Khanh personally led a military campaign ("Imperial Inspection") to Quang Binh to pacify the region and suppress the Can Vuong movement.
+*   **May 1886:** Emperor Dong Khanh personally led a military campaign ("Imperial Inspection") to Quang Binh to pacify the region and suppress the Can Vuong movement. [Source: Veritable Records of Dai Nam – Main Part (Sixth Chronicle, Vol. 3)]
 
 <!-- id: EVT-1318 -->
-*   **Jun. 1886:** Amid the widespread anti-French Cần Vương resistance, French Resident-General Paul Bert invited Trương Vĩnh Ký to Huế to join the administration; Emperor Đồng Khánh appointed him Privy Council Advisor (Cơ mật viện Tham tá) and Imperial Lecturer. His mediating role between French authorities and the Court of Huế drew sharp criticism and satire from contemporary patriotic scholars; following Paul Bert's sudden death in late 1886, he resigned and returned to Saigon to focus entirely on scholarship and writing.
+*   **Jun. 1886:** Amid the widespread anti-French Cần Vương resistance, French Resident-General Paul Bert invited Trương Vĩnh Ký to Huế to join the administration; Emperor Đồng Khánh appointed him Privy Council Advisor (Cơ mật viện Tham tá) and Imperial Lecturer. His mediating role between French authorities and the Court of Huế drew sharp criticism and satire from contemporary patriotic scholars; following Paul Bert's sudden death in late 1886, he resigned and returned to Saigon to focus entirely on scholarship and writing. [Source: Nguyen Phan Quang, History of Vietnam (1858–1945), Education Publishing House, Hanoi]
 
 <!-- id: EVT-1319 -->
-*   **Aug. 4, 1886:** Scholar Trương Vĩnh Ký was awarded the Legion of Honour, 5th class (Chevalier de la Légion d'honneur) by the French government upon the recommendation of Resident-General Paul Bert and the Governor of Cochinchina for his diplomatic conciliation and scholarly contributions. This prestigious decoration, alongside the colonial administration's special privileges, later became a major focal point of historiographical controversy regarding his relationship with French colonial rule.
+*   **Aug. 4, 1886:** Scholar Trương Vĩnh Ký was awarded the Legion of Honour, 5th class (Chevalier de la Légion d'honneur) by the French government upon the recommendation of Resident-General Paul Bert and the Governor of Cochinchina for his diplomatic conciliation and scholarly contributions. This prestigious decoration, alongside the colonial administration's special privileges, later became a major focal point of historiographical controversy regarding his relationship with French colonial rule. [Source: Nguyen Phan Quang, History of Vietnam (1858–1945), Education Publishing House, Hanoi]
 
 <!-- id: EVT-1320 -->
 *   **Jan. 1887:** The Ba Dinh base fell after fierce attacks by French forces. [Source: Vietnam National Museum of History - The Place Name Ba Dinh and Ba Dinh Square, Hanoi, https://baotanglichsu.vn/vi/Articles/3096/14937/djia-danh-ba-djinh-va-quang-truong-ba-djinh-ha-noi.html]
 
 <!-- id: EVT-1321 -->
-*   **June 7, 1887:** Leader of the Can Vuong anti-French resistance movement in Binh Dinh – Grand Commander Mai Xuan Thuong was executed by French colonial forces at Go Cham after rebel strongholds fell, epitomizing the unyielding patriotic spirit of Central Vietnam's resistance fighters.
+*   **June 7, 1887:** Leader of the Can Vuong anti-French resistance movement in Binh Dinh – Grand Commander Mai Xuan Thuong was executed by French colonial forces at Go Cham after rebel strongholds fell, epitomizing the unyielding patriotic spirit of Central Vietnam's resistance fighters. [Source: Mai Xuan Thuong – Can Vuong Leader in Binh Dinh (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13901/mai-xuan-thuong-nguoi-anh-hung-phong-trao-can-vuong-o-binh-dinh.html]
 
 <!-- id: EVT-1322 -->
-*   **Jun. 26, 1887:** France and the Qing dynasty signed the Constans Convention of 1887 (Franco-Chinese Convention of 1887) delimiting the border between Tonkin and China. In exchange for Qing recognition of French rule over Tonkin, French colonial authorities made major concessions surrendering historic Vietnamese lands to the Qing: ceding three-quarters of Tu Long canton (approx. 750 km² in Ha Giang) to Yunnan province, and ceding areas of Hai Ninh prefecture (Quang Yen province) including Fangcheng, Dongxing, Paklung Cape (the historic peninsula of Bach Long Vi), and Giang Binh (the three islands of Van Vi, Me Son, Mi Son) to Guangdong province; maritally, it designated islands east of Paris meridian 105°43' East to China and islands to the west (such as Co To) to Annam (only addressing coastal islands, not distant archipelagos).
+*   **Jun. 26, 1887:** France and the Qing dynasty signed the Constans Convention of 1887 (Franco-Chinese Convention of 1887) delimiting the border between Tonkin and China. In exchange for Qing recognition of French rule over Tonkin, French colonial authorities made major concessions surrendering historic Vietnamese lands to the Qing: ceding three-quarters of Tu Long canton (approx. 750 km² in Ha Giang) to Yunnan province, and ceding areas of Hai Ninh prefecture (Quang Yen province) including Fangcheng, Dongxing, Paklung Cape (the historic peninsula of Bach Long Vi), and Giang Binh (the three islands of Van Vi, Me Son, Mi Son) to Guangdong province; maritally, it designated islands east of Paris meridian 105°43' East to China and islands to the west (such as Co To) to Annam (only addressing coastal islands, not distant archipelagos). [Source: Government Boundary Commission, History of Vietnam's Territorial Borders, National Political Publishing House, Hanoi]
 
 <!-- id: EVT-1323 -->
 *   **Oct. 17, 1887:** The Indochinese Union was established, leading to a centralized colonial administration pushed forward especially under Governor-General Paul Doumer. [Source: State Records and Archives Management Department of Vietnam - An Overview of the French Colonial Governor-General System in Indochina, https://www.archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/vai-net-ve-che-do-toan-quyen-cua-thuc-dan-phap-o-dong-duong.htm]
 
 <!-- id: EVT-1324 -->
-*   **May 1888:** The French authorities established the "Dai Nam Nhat Bao" bureau.
+*   **May 1888:** The French authorities established the "Dai Nam Nhat Bao" bureau. [Source: Dai Nam Cong Bao – First Official Gazette of the Nguyen Court (Da Nang Newspaper), https://baodanang.vn/channel/5414/202106/dai-nam-cong-bao-to-bao-dau-tien-cua-trieu-nguyen-3883652/]
 
 <!-- id: EVT-1325 -->
 *   **Nov. 1888:** King Ham Nghi was captured due to the betrayal of Truong Quang Ngoc and was later exiled to Algeria. [Source: Vietnam National Museum of History - Emperor Ham Nghi Always Preserved Vietnamese Identity Abroad, https://baotanglichsu.vn/vi/Articles/3096/12242/vua-ham-nghi-luon-giu-gin-ban-sac-viet-o-djat-khach.html]
@@ -4303,10 +4303,10 @@
 *   **1889:** Nguyen Thien Thuat went to China, and the Bai Say Uprising weakened. [Source: Vietnam National Museum of History - Nguyen Thien Thuat: Soul of the Bai Say Uprising, https://baotanglichsu.vn/vi/Articles/3098/15723/nguyen-thien-thuat-linh-hon-cua-cuoc-khoi-nghia-bai-say.html]
 
 <!-- id: EVT-1327 -->
-*   **Jan. 13, 1889:** King Ham Nghi arrived in Algiers (Algeria), beginning his long exile where he later became known as a painter and married a French woman.
+*   **Jan. 13, 1889:** King Ham Nghi arrived in Algiers (Algeria), beginning his long exile where he later became known as a painter and married a French woman. [Source: Emperor Ham Nghi (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13772/vua-ham-nghi.html]
 
 <!-- id: EVT-1328 -->
-*   **Jan. 28, 1889:** Emperor Dong Khanh passed away.
+*   **Jan. 28, 1889:** Emperor Dong Khanh passed away. [Source: Emperor Dong Khanh (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13773/vua-dong-khanh.html]
 
 <!-- id: EVT-1329 -->
 *   **Jan. 31, 1889 (Jan. 1, Lunar Year of the Ox):** Following Emperor Dong Khanh's sudden passing, the Hue imperial court and the French Resident Superior enthroned 10-year-old Prince Buu Lan (son of Emperor Duc Duc) at Thai Hoa Palace as Emperor Thanh Thai. [Source: Vietnam National Museum of History - Emperor Thanh Thai and the Sorrows of a Patriotic King, https://baotanglichsu.vn/vi/Articles/3098/70690/vua-thanh-thai-va-nhung-uan-uc-cua-mot-ong-vua-yeu-nuoc.html]
@@ -4316,16 +4316,16 @@
 *Source: Emperor Thanh Thai in court attire / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-1330 -->
-*   **1890 - 1898:** Direct taxes doubled between 1890 and 1896, then increased by another 50% from 1896 to 1898.
+*   **1890 - 1898:** Direct taxes doubled between 1890 and 1896, then increased by another 50% from 1896 to 1898. [Source: History of Vietnam (Vol. 7: 1897–1918), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1331 -->
 *   **May 19, 1890:** President Ho Chi Minh (birth name Nguyen Sinh Cung, courtesy name Tat Thanh) was born in Hoang Tru village, Kim Lien commune, Nam Dan district, Nghe An province. He would later become the great leader of the Vietnamese nation, Hero of National Liberation, and Great Man of Culture. [Source: https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1332 -->
-*   **1891:** Hai Phong was considered the first city to have electric lights, even before Hanoi.
+*   **1891:** Hai Phong was considered the first city to have electric lights, even before Hanoi. [Source: Historical Milestones of Vietnam Power Sector (EVN), https://www.evn.com.vn/d6/news/Nhung-dau-moc-lich-su-cua-Nganh-Dien-luc-Viet-Nam-141-11-2679.aspx]
 
 <!-- id: EVT-1333 -->
-*   **1892:** The Bai Say Uprising disintegrated. Tong Duy Tan (leader of the Hung Linh Uprising) was captured.
+*   **1892:** The Bai Say Uprising disintegrated. Tong Duy Tan (leader of the Hung Linh Uprising) was captured. [Source: Tong Duy Tan and the Hung Linh Uprising (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13902/tong-duy-tan-va-khoi-nghia-hung-linh.html]
 
 <!-- id: EVT-1334 -->
 *   **Jun. 21, 1893:** Dr. Alexandre Yersin discovered the Lang Biang plateau during his expedition in the Lam Vien region, paving the way for Governor-General Paul Doumer to later designate this site for the development of the resort city of Da Lat. [Source: Lam Dong Provincial Portal - Monograph of Da Lat: Alexandre Yersin, https://lamdong.gov.vn/sites/book/diachidalat/Tongluan/bai7.htm]
@@ -4337,10 +4337,10 @@
 *   **Oct. 1894:** Hoang Hoa Tham made peace with the French for the first time to consolidate his forces in Yen The. [Source: Vietnam National Museum of History - General Hoang Hoa Tham: Soul of the Yen The Uprising, https://baotanglichsu.vn/vi/Articles/3098/15307/tuong-quan-hoang-hoa-tham-linh-hon-cua-cuoc-khoi-nghia-yen-the.html]
 
 <!-- id: EVT-1337 -->
-*   **1895:** A French Resident in Tonkin confiscated land from a village to give to a Catholic village, forcing the original owners to continue paying taxes on the lost land until 1910.
+*   **1895:** A French Resident in Tonkin confiscated land from a village to give to a Catholic village, forcing the original owners to continue paying taxes on the lost land until 1910. [Source: Nguyen Phan Quang, History of Vietnam (1858–1945), Education Publishing House, Hanoi]
 
 <!-- id: EVT-1338 -->
-*   **1895 - 1898:** Two shipwrecks at the Paracel Islands - the German ship *Bellona* (1895) and the Japanese ship *Imeji Maru* (or *Umeji Maru*, 1896) carrying copper ingots insured by British insurance companies - sparked diplomatic and legal disputes when Chinese fishermen from Hainan looted the cargo. British insurers alongside British diplomatic representatives in Beijing and Guangzhou sent diplomatic notes demanding that the Qing imperial government investigate, punish the looters, and pay compensation. On April 14, 1898, Viceroy of Liangguang Tan Zhonglin formally issued an official response refusing compensation on the grounds that the Paracel Islands were isolated, abandoned offshore islets on the high seas that belonged neither to China nor Annam, and were not administratively attached to any district or prefecture of Hainan (Qiongzhou), thereby disclaiming Qing imperial jurisdiction. This constitutes crucial historical and legal evidence that by the late 19th century, the Qing imperial government formally recognized that the Paracel Islands were outside Chinese territory.
+*   **1895 - 1898:** Two shipwrecks at the Paracel Islands - the German ship *Bellona* (1895) and the Japanese ship *Imeji Maru* (or *Umeji Maru*, 1896) carrying copper ingots insured by British insurance companies - sparked diplomatic and legal disputes when Chinese fishermen from Hainan looted the cargo. British insurers alongside British diplomatic representatives in Beijing and Guangzhou sent diplomatic notes demanding that the Qing imperial government investigate, punish the looters, and pay compensation. On April 14, 1898, Viceroy of Liangguang Tan Zhonglin formally issued an official response refusing compensation on the grounds that the Paracel Islands were isolated, abandoned offshore islets on the high seas that belonged neither to China nor Annam, and were not administratively attached to any district or prefecture of Hainan (Qiongzhou), thereby disclaiming Qing imperial jurisdiction. This constitutes crucial historical and legal evidence that by the late 19th century, the Qing imperial government formally recognized that the Paracel Islands were outside Chinese territory. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1339 -->
 *   **Dec. 28, 1895:** Phan Dinh Phung was killed, and the Huong Khe Uprising gradually disintegrated, marking the essential end of the organized, large-scale Can Vuong movement. [Source: Vietnam National Museum of History - Phan Dinh Phung Exposes the Base Schemes of Traitors, https://baotanglichsu.vn/vi/Articles/3096/12621/phan-djinh-phung-vach-tran-muu-hen-cua-bon-ban-nuoc.html]
@@ -4352,91 +4352,91 @@
 
 ### **Period of First Colonial Exploitation and Patriotic Movements (1897 - 1913)**
 
-*   **1897 - 1907:** Emperor Thanh Thai demonstrated a fiercely independent and modernizing disposition: he became the first Nguyen monarch to cut his hair short, drive an automobile, and master the French language to read Western periodicals. To prepare clandestine resistance while evading pervasive colonial surveillance, he covertly formed a personal female defense corps disguised as palace concubines and feigned eccentricity and madness ('gia dien') to secretly contact and subsidize Phan Boi Chau's Dong Du movement and Duy Tan reformists before being forced to abdicate.
+*   **1897 - 1907:** Emperor Thanh Thai demonstrated a fiercely independent and modernizing disposition: he became the first Nguyen monarch to cut his hair short, drive an automobile, and master the French language to read Western periodicals. To prepare clandestine resistance while evading pervasive colonial surveillance, he covertly formed a personal female defense corps disguised as palace concubines and feigned eccentricity and madness ('gia dien') to secretly contact and subsidize Phan Boi Chau's Dong Du movement and Duy Tan reformists before being forced to abdicate. [Source: Emperor Thanh Thai (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13774/vua-thanh-thai.html]
 
 <!-- id: EVT-1342 -->
-*   **Feb. 1897:** Paul Doumer was appointed Governor-General of Indochina, beginning a new period of centralized rule and large-scale economic exploitation.
+*   **Feb. 1897:** Paul Doumer was appointed Governor-General of Indochina, beginning a new period of centralized rule and large-scale economic exploitation. [Source: History of Vietnam (Vol. 7: 1897–1918), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1343 -->
-*   **Aug. 13, 1897:** The Hue court issued an edict abolishing the position of Imperial Commissioner of Tonkin, transferring all administrative power in Tonkin to the French Resident Superior.
+*   **Aug. 13, 1897:** The Hue court issued an edict abolishing the position of Imperial Commissioner of Tonkin, transferring all administrative power in Tonkin to the French Resident Superior. [Source: Chau Ban of the Nguyen Dynasty (National Archives Center I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1344 -->
-*   **Sep. 27, 1897:** King Thanh Thai issued an edict to reform the Southern Court's government, abolishing the Council of Regents and the Council of Ministers, and establishing a Privy Council headed by the Resident Superior of Annam, thus usurping the power of the Nguyen court.
+*   **Sep. 27, 1897:** King Thanh Thai issued an edict to reform the Southern Court's government, abolishing the Council of Regents and the Council of Ministers, and establishing a Privy Council headed by the Resident Superior of Annam, thus usurping the power of the Nguyen court. [Source: Chau Ban of the Nguyen Dynasty (National Archives Center I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1345 -->
-*   **1898:** In the Metropolitan Examination of the Mau Tuat year, five candidates from Quang Nam province passed with high honors (3 Doctors, 2 Junior Doctors). King Thanh Thai bestowed upon them the title **"Ngu Phung Te Phi"** (Five Phoenixes Flying Together), celebrating the region's academic excellence.
+*   **1898:** In the Metropolitan Examination of the Mau Tuat year, five candidates from Quang Nam province passed with high honors (3 Doctors, 2 Junior Doctors). King Thanh Thai bestowed upon them the title **"Ngu Phung Te Phi"** (Five Phoenixes Flying Together), celebrating the region's academic excellence. [Source: Dang Duc Thiem, Imperial Examinations in Quang Nam under the Nguyen Dynasty, Da Nang Publishing House, 2005]
 
 <!-- id: EVT-1346 -->
-*   **1898:** The French colonialists began constructing numerous large-scale infrastructure projects, including the Hanoi - Nam Dinh - Vinh, Da Nang - Hue, and Saigon - Khanh Hoa railway lines.
+*   **1898:** The French colonialists began constructing numerous large-scale infrastructure projects, including the Hanoi - Nam Dinh - Vinh, Da Nang - Hue, and Saigon - Khanh Hoa railway lines. [Source: History of Vietnam Railways (Vietnam Railways), https://vr.com.vn/lich-su-phat-trien.html]
 
 <!-- id: EVT-1347 -->
 *   **Sep. 1898:** Construction began on the Long Bien Bridge in Hanoi. [Source: Vietnam National Museum of History - Directions for Preserving and Promoting the Value of the Long Bien Bridge Historical Relic (Hanoi), https://baotanglichsu.vn/vi/Articles/3096/16968/phuong-huong-bao-ve-va-phat-huy-gia-tri-di-tich-cau-long-bien-ha-noi-phan-1.html]
 
 <!-- id: EVT-1348 -->
-*   **Sep. 1, 1898:** Scholar Trương Vĩnh Ký passed away at his residence in Chợ Quán (Saigon) at age 60. He left a monumental legacy of over 100 works spanning linguistics, history, culture, education, and romanized transcriptions of literary classics (*Truyện Kiều*, *Lục Vân Tiên*), alongside his reflective epitaph: *"Sic vos non vobis"* (You work, but not for yourselves).
+*   **Sep. 1, 1898:** Scholar Trương Vĩnh Ký passed away at his residence in Chợ Quán (Saigon) at age 60. He left a monumental legacy of over 100 works spanning linguistics, history, culture, education, and romanized transcriptions of literary classics (*Truyện Kiều*, *Lục Vân Tiên*), alongside his reflective epitaph: *"Sic vos non vobis"* (You work, but not for yourselves). [Source: Dinh Xuan Lam (ed.), General History of Vietnam (Vol. 2), Education Publishing House, Hanoi]
 
 <!-- id: EVT-1349 -->
-*   **Dec. 1898 - Jun. 1899:** The French Ministry of Colonies forwarded a proposal from a journalist named Chabrier to establish supply stores for fishermen on the Paracel Islands. In response, in June 1899, Governor-General Paul Doumer deemed the commercial project unlikely to succeed but proposed building a lighthouse to assert French sovereignty and prevent other powers from occupying the islands. The lighthouse project was initially delayed due to budget constraints.
+*   **Dec. 1898 - Jun. 1899:** The French Ministry of Colonies forwarded a proposal from a journalist named Chabrier to establish supply stores for fishermen on the Paracel Islands. In response, in June 1899, Governor-General Paul Doumer deemed the commercial project unlikely to succeed but proposed building a lighthouse to assert French sovereignty and prevent other powers from occupying the islands. The lighthouse project was initially delayed due to budget constraints. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1350 -->
-*   **Dec. 30, 1898:** The French President issued a decree on the press regime in Indochina, tightening control and restricting the freedom of speech of the native people.
+*   **Dec. 30, 1898:** The French President issued a decree on the press regime in Indochina, tightening control and restricting the freedom of speech of the native people. [Source: Chau Ban of the Nguyen Dynasty (National Archives Center I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1351 -->
-*   **1899:** The Haiphong Portland Cement Plant was established; construction of Hoa Lo Prison began in Hanoi.
+*   **1899:** The Haiphong Portland Cement Plant was established; construction of Hoa Lo Prison began in Hanoi. [Source: History of Vietnam (Vol. 7: 1897–1918), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1352 -->
-*   **1900:** Huynh Thuc Khang achieved Giai nguyen (valedictorian/first rank) in the regional imperial examination (Thi Huong) in Thua Thien, gaining renown throughout Quang Nam for his literary brilliance and virtue.
+*   **1900:** Huynh Thuc Khang achieved Giai nguyen (valedictorian/first rank) in the regional imperial examination (Thi Huong) in Thua Thien, gaining renown throughout Quang Nam for his literary brilliance and virtue. [Source: Patriotic Scholar Huynh Thuc Khang (Nhan Dan Newspaper), https://nhandan.vn/chi-si-yeu-nuoc-huynh-thuc-khang-nha-lanh-dao-tien-boi-tieu-bieu-cua-dang-va-cach-mang-viet-nam-post670559.html]
 
 <!-- id: EVT-1353 -->
-*   **1900:** Phan Boi Chau passed the regional examination in Nghe An with the highest honors, beginning his career as a professional revolutionary.
+*   **1900:** Phan Boi Chau passed the regional examination in Nghe An with the highest honors, beginning his career as a professional revolutionary. [Source: Phan Boi Chau (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13903/phan-boi-chau-nha-chi-si-yeu-nuoc.html]
 
 <!-- id: EVT-1354 -->
-*   **Apr. 11, 1900:** The province of Tuyen Quang was re-established.
+*   **Apr. 11, 1900:** The province of Tuyen Quang was re-established. [Source: Gazetteer of Tuyen Quang, Encyclopedia Publishing House, Hanoi, 2014]
 
 <!-- id: EVT-1355 -->
-*   **1901:** Nguyen Sinh Sac passed the metropolitan imperial examination as a Pho bang (Junior Doctor) in the Tan Suu year under King Thanh Thai. The royal court bestowed honors upon him, and the villagers of Sen built a wooden house to celebrate his triumphant return.
+*   **1901:** Nguyen Sinh Sac passed the metropolitan imperial examination as a Pho bang (Junior Doctor) in the Tan Suu year under King Thanh Thai. The royal court bestowed honors upon him, and the villagers of Sen built a wooden house to celebrate his triumphant return. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1356 -->
-*   **1901:** When his father Nguyen Sinh Sac passed the imperial metropolitan examination as Pho Bang, Nguyen Sinh Cung was formally renamed Nguyen Tat Thanh (meaning "destined for success"), pursuing classical Confucian education and absorbing profound patriotic values.
+*   **1901:** When his father Nguyen Sinh Sac passed the imperial metropolitan examination as Pho Bang, Nguyen Sinh Cung was formally renamed Nguyen Tat Thanh (meaning "destined for success"), pursuing classical Confucian education and absorbing profound patriotic values. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1357 -->
-*   **Feb. 10, 1901:** Hoang Thi Loan (mother of President Ho Chi Minh) passed away in the imperial capital of Hue at the age of 33 following the birth of her fourth child, while her husband was away supervising exams in Thanh Hoa. Her eleven-year-old son Nguyen Sinh Cung (President Ho Chi Minh) and caring neighbors organized her funeral.
+*   **Feb. 10, 1901:** Hoang Thi Loan (mother of President Ho Chi Minh) passed away in the imperial capital of Hue at the age of 33 following the birth of her fourth child, while her husband was away supervising exams in Thanh Hoa. Her eleven-year-old son Nguyen Sinh Cung (President Ho Chi Minh) and caring neighbors organized her funeral. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1358 -->
-*   **May 18, 1901:** Phung Chi Kien (born Nguyen Vy) was born in Dien Yen commune, Dien Chau district, Nghe An province. He was a prominent early leader of the Communist Party, the first military commander of the Party, and the first general of the Vietnam People's Army.
+*   **May 18, 1901:** Phung Chi Kien (born Nguyen Vy) was born in Dien Yen commune, Dien Chau district, Nghe An province. He was a prominent early leader of the Communist Party, the first military commander of the Party, and the first general of the Vietnam People's Army. [Source: Central Committee of the Party, Comrade Phung Chi Kien – Exemplary Communist Soldier, National Political Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-1359 -->
-*   **Sep. 1, 1901:** *Nong Co Min Dam*, one of the first important newspapers in the Quoc Ngu script, was launched in Saigon.
+*   **Sep. 1, 1901:** *Nong Co Min Dam*, one of the first important newspapers in the Quoc Ngu script, was launched in Saigon. [Source: Huynh Van Tong, History of Vietnamese Press from Inception to 1945, Ho Chi Minh City Publishing House, 2000]
 
 <!-- id: EVT-1360 -->
 *   **1902:** The Long Bien Bridge (Hanoi) and the Hanoi - Haiphong railway line were completed. The Indochina Medical School was founded. [Source: Vietnam National Museum of History - Long Bien Bridge: Where Hanoi's Memories Linger, https://baotanglichsu.vn/vi/Articles/3096/15820/cau-long-bien-noi-lang-djong-ky-uc-ha-noi.html]
 
 <!-- id: EVT-1361 -->
-*   **Jul. 1, 1902:** Paul Beau assumed the post of Governor-General, replacing Paul Doumer, and began implementing a policy of "association with the natives."
+*   **Jul. 1, 1902:** Paul Beau assumed the post of Governor-General, replacing Paul Doumer, and began implementing a policy of "association with the natives." [Source: History of Vietnam (Vol. 7: 1897–1918), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1362 -->
-*   **Sep. 6, 1902:** Le Huy Doan (later Comrade Le Hong Phong, the second General Secretary of the Indochinese Communist Party) was born in Thong Lang Canton, Hung Nguyen District, Nghe An Province. He was an outstanding leader of the Party and the Vietnamese revolution, and an exemplary disciple of President Ho Chi Minh.
+*   **Sep. 6, 1902:** Le Huy Doan (later Comrade Le Hong Phong, the second General Secretary of the Indochinese Communist Party) was born in Thong Lang Canton, Hung Nguyen District, Nghe An Province. He was an outstanding leader of the Party and the Vietnamese revolution, and an exemplary disciple of President Ho Chi Minh. [Source: Comrade Le Hong Phong – Outstanding Leader of the Party (Nhan Dan Newspaper), https://nhandan.vn/dong-chi-le-hong-phong-nha-lanh-dao-xuat-sac-cua-dang-va-cach-mang-viet-nam-post713500.html]
 
 <!-- id: EVT-1363 -->
-*   **Dec. 20, 1902:** The Governor-General of Indochina issued a decree officially implementing a monopoly on alcohol throughout Vietnam.
+*   **Dec. 20, 1902:** The Governor-General of Indochina issued a decree officially implementing a monopoly on alcohol throughout Vietnam. [Source: Chau Ban of the Nguyen Dynasty (National Archives Center I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1364 -->
 *   **1903:** Phan Boi Chau met Nguyen Thanh (Tieu La) in Quang Nam to discuss revolutionary strategies, agreeing to unite former Can Vuong members, support Prince Cuong De, and seek foreign aid. [Source: Da Nang Newspaper - Tieu La: The Patriotic Scholar Advocating Action, https://baodanang.vn/tieu-la-nha-chi-si-yeu-nuoc-chu-truong-hanh-dong-3034997.html]
 
 <!-- id: EVT-1365 -->
-*   **1904:** The first "reform of village administration" was piloted by the French in Cochinchina to tighten control over the village administrative apparatus.
+*   **1904:** The first "reform of village administration" was piloted by the French in Cochinchina to tighten control over the village administrative apparatus. [Source: Nguyen Phan Quang, History of Vietnam (1858–1945), Education Publishing House, Hanoi]
 
 <!-- id: EVT-1366 -->
-*   **1904:** Huynh Thuc Khang obtained the Third-class Doctorate degree (Dong Tien si xuat than) in the imperial court examinations under Emperor Thanh Thai, subsequently joining Phan Chau Trinh and Tran Quy Cap to initiate the modernization and reform movement.
+*   **1904:** Huynh Thuc Khang obtained the Third-class Doctorate degree (Dong Tien si xuat than) in the imperial court examinations under Emperor Thanh Thai, subsequently joining Phan Chau Trinh and Tran Quy Cap to initiate the modernization and reform movement. [Source: Patriotic Scholar Huynh Thuc Khang (Nhan Dan Newspaper), https://nhandan.vn/chi-si-yeu-nuoc-huynh-thuc-khang-nha-lanh-dao-tien-boi-tieu-bieu-cua-dang-va-cach-mang-viet-nam-post670559.html]
 
 <!-- id: EVT-1367 -->
 *   **1904:** Phan Boi Chau founded the Duy Tan Hoi (Modernization Society) with the aim of driving out the French invaders, restoring Vietnam, and establishing an independent government. [Source: http://baotanglichsu.vn/vi/Articles/3096/12411/hoi-duy-tan-va-phong-trao-dong-du.html]
 
 <!-- id: EVT-1368 -->
-*   **1904:** In Paris, exiled Emperor Ham Nghi (using the artistic pseudonym **Tu Xuan** / Prince d'Annam) exhibited his artworks at the Musée Guimet, showcasing Impressionist pastels and sculptures created under the tutelage of painter Marius Reynaud and celebrated sculptor Auguste Rodin, becoming the first modern Vietnamese visual artist to gain acclaim in Western artistic circles.
+*   **1904:** In Paris, exiled Emperor Ham Nghi (using the artistic pseudonym **Tu Xuan** / Prince d'Annam) exhibited his artworks at the Musée Guimet, showcasing Impressionist pastels and sculptures created under the tutelage of painter Marius Reynaud and celebrated sculptor Auguste Rodin, becoming the first modern Vietnamese visual artist to gain acclaim in Western artistic circles. [Source: Emperor Ham Nghi (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13772/vua-ham-nghi.html]
 
 <!-- id: EVT-1369 -->
-*   **Late 1904:** Phan Chau Trinh, Tran Qui Cap, and Huynh Thuc Khang undertook a "Southern Trip" (Nam du). In Binh Dinh, they wrote *Chi thanh thong thanh* and *Luong ngoc danh son* to criticize the obsolete examination system.
+*   **Late 1904:** Phan Chau Trinh, Tran Qui Cap, and Huynh Thuc Khang undertook a "Southern Trip" (Nam du). In Binh Dinh, they wrote *Chi thanh thong thanh* and *Luong ngoc danh son* to criticize the obsolete examination system. [Source: Huynh Thuc Khang, Autobiography (Anh Minh Publishing, Hue, 1963)]
 
 <!-- id: EVT-1370 -->
 *   **1905:** The Dong Du (Go East) Movement, initiated by Phan Boi Chau, began, sending patriotic youth to Japan to study. Phan Boi Chau wrote the work *Viet Nam vong quoc su* (History of the Loss of Vietnam). [Source: http://baotanglichsu.vn/vi/Articles/3096/12411/hoi-duy-tan-va-phong-trao-dong-du.html]
@@ -4446,40 +4446,40 @@
 *Source: Portrait of Phan Boi Chau / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-1371 -->
-*   **1905:** Acting Governor Outrey increased land tax in Cochinchina by 100%, leading to the resignation of all Vietnamese councilors.
+*   **1905:** Acting Governor Outrey increased land tax in Cochinchina by 100%, leading to the resignation of all Vietnamese councilors. [Source: Nguyen Phan Quang, History of Vietnam (1858–1945), Education Publishing House, Hanoi]
 
 <!-- id: EVT-1372 -->
-*   **1905:** Nguyen Trong Loi established the Youth Physical Education Association and the Duc Anh School in Binh Thuan to promote modern education.
+*   **1905:** Nguyen Trong Loi established the Youth Physical Education Association and the Duc Anh School in Binh Thuan to promote modern education. [Source: History of the Party Committee of Binh Thuan Province (Vol. 1: 1930–1954), National Political Publishing House, Hanoi]
 
 <!-- id: EVT-1373 -->
-*   **Nov. 14, 1905:** A decree established the General Directorate of Public Education of Indochina, initiating the first educational reform.
+*   **Nov. 14, 1905:** A decree established the General Directorate of Public Education of Indochina, initiating the first educational reform. [Source: Chau Ban of the Nguyen Dynasty (National Archives Center I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1374 -->
 *   **1906:** The Duy Tan (Modernization) Movement, initiated by Phan Chau Trinh, Huynh Thuc Khang, and Tran Quy Cap, spread throughout Annam, advocating for "enlightening the people's minds, strengthening the people's spirit, improving the people's livelihood." [Source: http://baotanglichsu.vn/vi/Articles/3096/19494/phan-chau-trinh-voi-tu-tuong-canh-tan-djat-nuoc.html]
 
 <!-- id: EVT-1375 -->
-*   **1906 - 1908:** Village Chief Le Co implemented comprehensive reforms in Phu Lam village (Quang Nam), establishing schools (including the first girls' school in the region), commercial associations, and plantations, serving as a practical model for the Duy Tan movement.
+*   **1906 - 1908:** Village Chief Le Co implemented comprehensive reforms in Phu Lam village (Quang Nam), establishing schools (including the first girls' school in the region), commercial associations, and plantations, serving as a practical model for the Duy Tan movement. [Source: Nguyen Q. Thang, The Duy Tan Movement and Prominent Figures, Culture and Information Publishing House, Hanoi, 2006]
 
 <!-- id: EVT-1376 -->
-*   **1906 (or August 4, 1908):** Nguyen Thi Suot, famously known as Mother Suot (Mẹ Suốt), was born in Bao Ninh, Dong Hoi, Quang Binh. She would later become a prominent Hero of Labor and a symbol of the bravery of Vietnamese women during the resistance war against the US.
+*   **1906 (or August 4, 1908):** Nguyen Thi Suot, famously known as Mother Suot (Mẹ Suốt), was born in Bao Ninh, Dong Hoi, Quang Binh. She would later become a prominent Hero of Labor and a symbol of the bravery of Vietnamese women during the resistance war against the US. [Source: Military History Institute of Vietnam, Heroes of the People's Armed Forces, People's Army Publishing House, Hanoi]
 
 <!-- id: EVT-1377 -->
-*   **May 16, 1906:** Governor-General Paul Beau signed a decree establishing the University of Indochina.
+*   **May 16, 1906:** Governor-General Paul Beau signed a decree establishing the University of Indochina. [Source: History of Vietnam (Vol. 7: 1897–1918), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1378 -->
-*   **June 6, 1906:** Lien Thanh Thuong Quan (Lien Thanh Commercial House) was established in Phan Thiet by six patriotic scholars to respond to the Duy Tan movement. Initially registered as an anonymous company for 10 years, it produced traditional fish sauce to fund patriotic activities and provide employment.
+*   **June 6, 1906:** Lien Thanh Thuong Quan (Lien Thanh Commercial House) was established in Phan Thiet by six patriotic scholars to respond to the Duy Tan movement. Initially registered as an anonymous company for 10 years, it produced traditional fish sauce to fund patriotic activities and provide employment. [Source: History of the Party Committee of Binh Thuan Province (Vol. 1: 1930–1954), National Political Publishing House, Hanoi]
 
 <!-- id: EVT-1379 -->
-*   **1907:** Duc Thanh Hoc Hieu (Duc Thanh School) was established by the founders of Lien Thanh to teach progressive patriotic ideas to the children of poor laborers.
+*   **1907:** Duc Thanh Hoc Hieu (Duc Thanh School) was established by the founders of Lien Thanh to teach progressive patriotic ideas to the children of poor laborers. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1380 -->
 *   **Mar. 1907:** Patriotic scholars Luong Van Can, Nguyen Quyen, and Nguyen Huu Cau (Gian Thach) co-founded Dong Kinh Nghia Thuc (Tonkin Free School) at 4 Hang Dao (Hanoi), offering Quoc Ngu classes for both men and women to spread reformist ideas and modernize education. [Source: Vietnam National Museum of History - Dong Kinh Nghia Thuc and Educational Reform Thought, https://baotanglichsu.vn/vi/Articles/2001/66339/djong-kinh-nghia-thuc-va-tu-tuong-cai-cach-giao-duc.html]
 
 <!-- id: EVT-1381 -->
-*   **Apr. 7, 1907:** Le Duan was born in Trieu Phong, Quang Tri. He later became the General Secretary of the Communist Party of Vietnam, a prominent leader of the Party and the Vietnamese revolution.
+*   **Apr. 7, 1907:** Le Duan was born in Trieu Phong, Quang Tri. He later became the General Secretary of the Communist Party of Vietnam, a prominent leader of the Party and the Vietnamese revolution. [Source: General Secretary Le Duan – Prominent Leader of the Party (Nhan Dan Newspaper), https://nhandan.vn/tong-bi-thu-le-duan-nha-lanh-dao-kien-xuat-cua-dang-va-dan-toc-post692250.html]
 
 <!-- id: EVT-1382 -->
-*   **May 1907:** Dong Kinh Nghia Thuc was officially granted a license, expanding its activities in teaching, public speaking, and promoting industry and commerce.
+*   **May 1907:** Dong Kinh Nghia Thuc was officially granted a license, expanding its activities in teaching, public speaking, and promoting industry and commerce. [Source: Dong Kinh Nghia Thuc (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13904/dong-kinh-nghia-thuc.html]
 
 <!-- id: EVT-1383 -->
 *   **Sep. 3, 1907 (Dinh Mui year):** French colonial authorities forced Emperor Thanh Thai to abdicate on fabricated pretexts of mental illness due to his defiance of colonial dictate and sympathy for nationalist movements, interning him at Cap Saint-Jacques (Vung Tau). On September 5, 1907, his seven-year-old son Prince Vinh San was enthroned as Emperor Duy Tan. [Source: Vietnam National Museum of History - Emperor Thanh Thai: The Patriotic King of the Nguyen Dynasty, https://baotanglichsu.vn/vi/Articles/3098/15571/hoang-dje-thanh-thai-vi-vua-yeu-nuoc-cua-vuong-trieu-nguyen.html]
