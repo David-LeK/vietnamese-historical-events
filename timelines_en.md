@@ -4485,25 +4485,25 @@
 *   **Sep. 3, 1907 (Dinh Mui year):** French colonial authorities forced Emperor Thanh Thai to abdicate on fabricated pretexts of mental illness due to his defiance of colonial dictate and sympathy for nationalist movements, interning him at Cap Saint-Jacques (Vung Tau). On September 5, 1907, his seven-year-old son Prince Vinh San was enthroned as Emperor Duy Tan. [Source: Vietnam National Museum of History - Emperor Thanh Thai: The Patriotic King of the Nguyen Dynasty, https://baotanglichsu.vn/vi/Articles/3098/15571/hoang-dje-thanh-thai-vi-vua-yeu-nuoc-cua-vuong-trieu-nguyen.html]
 
 <!-- id: EVT-1384 -->
-*   **Nov. 10, 1907:** The University of Indochina opened its first academic year.
+*   **Nov. 10, 1907:** The University of Indochina opened its first academic year. [Source: History of Vietnam (Vol. 7: 1897–1918), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1385 -->
-*   **1908:** The poem *Thiet tien ca* (Iron Money Song) by Nguyen Phan Lang was circulated, calling for a boycott of French iron coins, causing significant economic disruption for the colonial administration.
+*   **1908:** The poem *Thiet tien ca* (Iron Money Song) by Nguyen Phan Lang was circulated, calling for a boycott of French iron coins, causing significant economic disruption for the colonial administration. [Source: Nguyen Q. Thang, The Duy Tan Movement and Prominent Figures, Culture and Information Publishing House, Hanoi, 2006]
 
 <!-- id: EVT-1386 -->
 *   **1908:** The colonial administration brutally suppressed the Duy Tan movement. Dr. **Tran Qui Cap** was executed in Khanh Hoa; **Le Khiet** and **Nguyen Ba Loan** were executed in Quang Ngai. **Phan Chau Trinh** was arrested, sentenced to death, but later commuted to exile in Con Dao. [Source: Vietnam National Museum of History - Patriotic Scholar Tran Quy Cap: The Teacher of Intellectual Awakening and Patriotism, https://baotanglichsu.vn/vi/Articles/3098/72869/chi-si-tran-quy-cap-nguoi-thay-khai-dan-tri-chan-dan-khi-truyen-lua-yeu-nuoc.html]
 
 <!-- id: EVT-1387 -->
-*   **1908:** Due to his leadership in the Duy Tan (Modernization) Movement and the anti-tax resistance across Central Vietnam, Huynh Thuc Khang was arrested by French colonial authorities and exiled to hard labor at Con Dao Prison for 13 years.
+*   **1908:** Due to his leadership in the Duy Tan (Modernization) Movement and the anti-tax resistance across Central Vietnam, Huynh Thuc Khang was arrested by French colonial authorities and exiled to hard labor at Con Dao Prison for 13 years. [Source: Patriotic Scholar Huynh Thuc Khang (Nhan Dan Newspaper), https://nhandan.vn/chi-si-yeu-nuoc-huynh-thuc-khang-nha-lanh-dao-tien-boi-tieu-bieu-cua-dang-va-cach-mang-viet-nam-post670559.html]
 
 <!-- id: EVT-1388 -->
-*   **Jan. 1908:** The French colonial administration revoked the license of Dong Kinh Nghia Thuc due to fears of its growing influence.
+*   **Jan. 1908:** The French colonial administration revoked the license of Dong Kinh Nghia Thuc due to fears of its growing influence. [Source: Dong Kinh Nghia Thuc (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13904/dong-kinh-nghia-thuc.html]
 
 <!-- id: EVT-1389 -->
-*   **11/03/1908:** The anti-corvée and tax resistance movement ("Xin Xau") erupted when thousands of peasants from Dai Loc district (Quang Nam) marched to the French Residency in Hoi An demanding reductions in taxes and forced labor, sparking a massive wave of anti-tax demonstrations across Central Vietnam (Quang Nam, Quang Ngai, Binh Dinh, Thua Thien, Phu Yen...).
+*   **11/03/1908:** The anti-corvée and tax resistance movement ("Xin Xau") erupted when thousands of peasants from Dai Loc district (Quang Nam) marched to the French Residency in Hoi An demanding reductions in taxes and forced labor, sparking a massive wave of anti-tax demonstrations across Central Vietnam (Quang Nam, Quang Ngai, Binh Dinh, Thua Thien, Phu Yen...). [Source: History of Vietnam (Vol. 7: 1897–1918), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1390 -->
-*   **Apr. 1908:** During the anti-tax protest movement in Central Vietnam, patriotic youth Nguyen Tat Thanh joined peasant demonstrations in Hue and acted as an interpreter presenting the people's petitions to reduce taxes before the French Superior Residency.
+*   **Apr. 1908:** During the anti-tax protest movement in Central Vietnam, patriotic youth Nguyen Tat Thanh joined peasant demonstrations in Hue and acted as an interpreter presenting the people's petitions to reduce taxes before the French Superior Residency. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1391 -->
 *   **Jun. 27, 1908:** The "Hanoi Poisoning Plot" broke out, in which a group of Vietnamese soldiers and patriots attempted to poison French soldiers in Hanoi and launch an uprising, but it failed. [Source: Vietnam National Museum of History - Looking Back at the 1908 Hanoi Mutiny, https://baotanglichsu.vn/vi/Articles/3096/11569/nhin-lai-vu-binh-bien-ha-thanh-1908.html]
@@ -4512,37 +4512,37 @@
 *   **Sep. 1908:** France and Japan signed a treaty, under which the Japanese government expelled Vietnamese patriots and students, leading to the collapse of the Dong Du Movement. [Source: Vietnam National Museum of History - The Dong Du Movement (1905 - 1908): A Form of Revolutionary Force Building in the Early 20th Century, https://baotanglichsu.vn/vi/Articles/3097/14624/phong-trao-djongdu-1905-1908-mot-hinh-thuc-xay-dung-luc-luong-cach-mang-nhung-namdjau-the-ky-xx.html]
 
 <!-- id: EVT-1393 -->
-*   **Dec. 1908:** The French colonialists ordered the closure of the Dong Kinh Nghia Thuc school and suppressed its participants.
+*   **Dec. 1908:** The French colonialists ordered the closure of the Dong Kinh Nghia Thuc school and suppressed its participants. [Source: Dong Kinh Nghia Thuc (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13904/dong-kinh-nghia-thuc.html]
 
 <!-- id: EVT-1394 -->
-*   **05/02/1909 (15th day of the 1st lunar month, Year of the Earth Rooster):** Prominent poet Nguyễn Khuyến (Tam Nguyên Yên Đổ) passed away in his hometown of Yên Đổ (Hà Nam) at age 74, leaving an extensive Sino-Vietnamese and Nôm literary heritage depicting rural life and sorrow over national subjugation.
+*   **05/02/1909 (15th day of the 1st lunar month, Year of the Earth Rooster):** Prominent poet Nguyễn Khuyến (Tam Nguyên Yên Đổ) passed away in his hometown of Yên Đổ (Hà Nam) at age 74, leaving an extensive Sino-Vietnamese and Nôm literary heritage depicting rural life and sorrow over national subjugation. [Source: Dictionary of Literature (New Edition), The Gioi Publishers, Hanoi, 2004]
 
 <!-- id: EVT-1395 -->
-*   **Mar. 27, 1909:** Nguyen Tuat, the father of the real-life "Luom" (Nguyen Thanh), was born in Lai Trung, Quang Tho commune, Quang Dien district, Binh Tri Thien province (now Thua Thien - Hue). He later worked as a postal escort and moved to various locations, including Quy Nhon and Nha Trang.
+*   **Mar. 27, 1909:** Nguyen Tuat, the father of the real-life "Luom" (Nguyen Thanh), was born in Lai Trung, Quang Tho commune, Quang Dien district, Binh Tri Thien province (now Thua Thien - Hue). He later worked as a postal escort and moved to various locations, including Quy Nhon and Nha Trang. [Source: Vietnam Military History Museum, Records of the Heroes of the People's Armed Forces, Hanoi]
 
 <!-- id: EVT-1396 -->
-*   **Jun. 6, 1909:** The Viceroy of Liangguang (China) sent a brief expedition, commanded by Admiral Li Chun, for a 24-hour landing on several islands of the Paracels to fire cannons and raise the Chinese flag. France made no official protest at the time.
+*   **Jun. 6, 1909:** The Viceroy of Liangguang (China) sent a brief expedition, commanded by Admiral Li Chun, for a 24-hour landing on several islands of the Paracels to fire cannons and raise the Chinese flag. France made no official protest at the time. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1397 -->
-*   **Jul. 1, 1909:** Pho bang Nguyen Sinh Sac was appointed by the royal court as the magistrate of Binh Khe district (Binh Dinh province). During his tenure, he consistently sided with the poor and punished oppressive local bullies, famously remarking that serving as a feudal mandarin was merely being "a slave among slaves, and further enslaved."
+*   **Jul. 1, 1909:** Pho bang Nguyen Sinh Sac was appointed by the royal court as the magistrate of Binh Khe district (Binh Dinh province). During his tenure, he consistently sided with the poor and punished oppressive local bullies, famously remarking that serving as a feudal mandarin was merely being "a slave among slaves, and further enslaved." [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1398 -->
-*   **Aug. 1909 - Jan. 1910:** The uprising of the Muong people in Hoa Binh, led by Doc Bang and Tong Kiem.
+*   **Aug. 1909 - Jan. 1910:** The uprising of the Muong people in Hoa Binh, led by Doc Bang and Tong Kiem. [Source: History of the Party Committee of Hoa Binh Province (Vol. 1), National Political Publishing House, Hanoi]
 
 <!-- id: EVT-1399 -->
-*   **Sep. 1910:** After teaching and promoting patriotic values at Duc Thanh School (Phan Thiet), teacher Nguyen Tat Thanh left Duc Thanh, traveling by Lien Thanh company boat to Saigon, where he stayed at company premises and worked while preparing to journey abroad for national salvation.
+*   **Sep. 1910:** After teaching and promoting patriotic values at Duc Thanh School (Phan Thiet), teacher Nguyen Tat Thanh left Duc Thanh, traveling by Lien Thanh company boat to Saigon, where he stayed at company premises and worked while preparing to journey abroad for national salvation. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1400 -->
-*   **1911:** Duc Thanh School closed after five years of operation. Lien Thanh Company supported Nguyen Tat Thanh with 18 Indochinese piastres for his travel expenses to seek a path for national salvation.
+*   **1911:** Duc Thanh School closed after five years of operation. Lien Thanh Company supported Nguyen Tat Thanh with 18 Indochinese piastres for his travel expenses to seek a path for national salvation. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1401 -->
-*   **1911:** Following intervention by the French League for Human Rights, Phan Chau Trinh was released from Con Dao prison and subsequently traveled to France, where he wrote the *Trung Ky dan bien thi mat ki* (A Complete Account of the Peasants' Uprising in the Central Region).
+*   **1911:** Following intervention by the French League for Human Rights, Phan Chau Trinh was released from Con Dao prison and subsequently traveled to France, where he wrote the *Trung Ky dan bien thi mat ki* (A Complete Account of the Peasants' Uprising in the Central Region). [Source: Nguyen Q. Thang, Phan Chau Trinh – Life and Works, Literature Publishing House, Hanoi, 2002]
 
 <!-- id: EVT-1402 -->
-*   **1911 - 1912:** Working on French merchant vessels, Nguyen Tat Thanh sailed across multiple oceans, stopping at ports and colonial territories across Africa (Senegal, Gabon, Dahomey/Benin, Djibouti, Algeria, Réunion, Madagascar) and the Americas (Martinique, Uruguay, Argentina), witnessing firsthand the common plight and suffering of oppressed peoples.
+*   **1911 - 1912:** Working on French merchant vessels, Nguyen Tat Thanh sailed across multiple oceans, stopping at ports and colonial territories across Africa (Senegal, Gabon, Dahomey/Benin, Djibouti, Algeria, Réunion, Madagascar) and the Americas (Martinique, Uruguay, Argentina), witnessing firsthand the common plight and suffering of oppressed peoples. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1403 -->
-*   **May 1911:** Prior to departing Nha Rong Port for the West to seek national liberation, patriotic youth Nguyen Tat Thanh shared an emotional farewell in Saigon with Le Thi Hue (Ut Hue)—his pure and devoted youthful first love. This historic parting for the greater cause of national independence, symbolized by the keepsake comb, was later movingly chronicled by author Son Tung in *Blue Lotus*, becoming an enduring symbol in Vietnamese literary and historical memory.
+*   **May 1911:** Prior to departing Nha Rong Port for the West to seek national liberation, patriotic youth Nguyen Tat Thanh shared an emotional farewell in Saigon with Le Thi Hue (Ut Hue)—his pure and devoted youthful first love. This historic parting for the greater cause of national independence, symbolized by the keepsake comb, was later movingly chronicled by author Son Tung in *Blue Lotus*, becoming an enduring symbol in Vietnamese literary and historical memory. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1404 -->
 *   **Jun. 5, 1911:** From Nha Rong Harbor (Saigon), young patriot Nguyen Tat Thanh assumed the name **Van Ba**, boarding the French merchant ship *Amiral Latouche-Tréville* as an assistant cook, beginning a historic 30-year journey across nearly 30 countries on four continents to seek national liberation. [Source: https://nhandan.vn/ngay-5-6-1911-nguoi-thanh-nien-nguyen-tat-thanh-ra-di-tim-duong-cuu-nuoc-post649362.html]
@@ -4556,331 +4556,331 @@
 *Source: Nha Rong Wharf - Ho Chi Minh Museum in Ho Chi Minh City (Photo: Gary Todd / CC0)*
 
 <!-- id: EVT-1405 -->
-*   **Jul. 6, 1911:** The ship *Amiral Latouche-Tréville* docked at the port of Marseille (France). Nguyen Tat Thanh (Van Ba) set foot on French soil for the first time after sailing through ports in Singapore, Colombo (Sri Lanka), and Port Said (Egypt), initiating his firsthand investigation of Western society.
+*   **Jul. 6, 1911:** The ship *Amiral Latouche-Tréville* docked at the port of Marseille (France). Nguyen Tat Thanh (Van Ba) set foot on French soil for the first time after sailing through ports in Singapore, Colombo (Sri Lanka), and Port Said (Egypt), initiating his firsthand investigation of Western society. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1406 -->
 *   **Aug. 25, 1911:** Senior General Vo Nguyen Giap (birth name Vo Giap, alias Van) was born in An Xa village, Loc Thuy Commune, Le Thuy District, Quang Binh Province. He was an eminent military strategist and statesman, the first Senior General and Commander-in-Chief of the Vietnam People's Army, a brilliant and close disciple of President Ho Chi Minh, and internationally revered as one of the greatest military commanders of the 20th century. [Source: https://baochinhphu.vn/tom-tat-tieu-su-dai-tuong-vo-nguyen-giap-102150438.htm]
 
 <!-- id: EVT-1407 -->
-*   **Nov. 1911:** Albert Sarraut assumed the post of Governor-General, continuing to promote the "association" policy and demagogic reforms.
+*   **Nov. 1911:** Albert Sarraut assumed the post of Governor-General, continuing to promote the "association" policy and demagogic reforms. [Source: History of Vietnam (Vol. 7: 1897–1918), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1408 -->
-*   **Nov. 18, 1911:** Protestantism established its first base in Da Nang, officially entering Vietnam.
+*   **Nov. 18, 1911:** Protestantism established its first base in Da Nang, officially entering Vietnam. [Source: Government Committee for Religious Affairs, Religions in Vietnam, Religious Publishing House, Hanoi, 2015]
 
 <!-- id: EVT-1409 -->
 *   **May 1912:** Phan Boi Chau founded the Viet Nam Quang Phuc Hoi (Vietnam Restoration League) in Guangzhou (China), shifting from a constitutional monarchy stance to a democratic republic. [Source: Vietnam National Museum of History - Duy Tan Hoi: An Anti-French Organization in Early 20th Century Vietnam, https://baotanglichsu.vn/vi/Articles/2001/68013/duy-tan-hoi-mot-to-chuc-chong-phap-nhung-nam-djau-the-ky-xx-o-viet-nam.html]
 
 <!-- id: EVT-1410 -->
-*   **Late 1912:** Nguyen Tat Thanh arrived in the United States, living and working in New York and Boston. He worked as a pastry cook at the Omni Parker House Hotel in Boston, studied the 1776 US Declaration of Independence, and observed the civil rights struggles of African Americans in Harlem (New York).
+*   **Late 1912:** Nguyen Tat Thanh arrived in the United States, living and working in New York and Boston. He worked as a pastry cook at the Omni Parker House Hotel in Boston, studied the 1776 US Declaration of Independence, and observed the civil rights struggles of African Americans in Harlem (New York). [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1411 -->
-*   **1913:** The North-South railway line was basically completed, connecting Hanoi and Saigon.
+*   **1913:** The North-South railway line was basically completed, connecting Hanoi and Saigon. [Source: History of Vietnam Railways (Vietnam Railways), https://vr.com.vn/lich-su-phat-trien.html]
 
 <!-- id: EVT-1412 -->
-*   **1913 - 1917:** Nguyen Tat Thanh lived and worked in London, United Kingdom, using the name **Paul Thanh**. He undertook various laborious jobs such as school snow sweeper, boiler stoker, and pastry assistant at the luxury Carlton Hotel under legendary chef Auguste Escoffier, while self-studying English and joining the Overseas Workers Association.
+*   **1913 - 1917:** Nguyen Tat Thanh lived and worked in London, United Kingdom, using the name **Paul Thanh**. He undertook various laborious jobs such as school snow sweeper, boiler stoker, and pastry assistant at the luxury Carlton Hotel under legendary chef Auguste Escoffier, while self-studying English and joining the Overseas Workers Association. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1413 -->
 *   **Feb. 10, 1913:** Hoang Hoa Tham (De Tham), leader of the Yen The Uprising, was assassinated by agents of French colonialists, marking the end of the most enduring armed peasant uprising against French colonial rule (1884–1913). [Source: https://tuoitre.vn/sach-giai-ma-nhieu-bi-an-trong-cuoc-doi-hoang-hoa-tham-594552.htm]
 
 <!-- id: EVT-1414 -->
-*   **Apr. 12, 1913:** A member of the Vietnam Restoration League assassinated the governor of Thai Binh, Nguyen Duy Han.
+*   **Apr. 12, 1913:** A member of the Vietnam Restoration League assassinated the governor of Thai Binh, Nguyen Duy Han. [Source: History of Vietnam (Vol. 7: 1897–1918), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1415 -->
-*   **Apr. 26, 1913:** Another bombing occurred at the Hanoi Hotel, killing two French officers.
+*   **Apr. 26, 1913:** Another bombing occurred at the Hanoi Hotel, killing two French officers. [Source: History of Vietnam (Vol. 7: 1897–1918), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1416 -->
-*   **Dec. 24, 1913:** Phan Boi Chau was arrested in Guangdong, China.
+*   **Dec. 24, 1913:** Phan Boi Chau was arrested in Guangdong, China. [Source: Phan Boi Chau (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13903/phan-boi-chau-nha-chi-si-yeu-nuoc.html]
 
 <!-- id: EVT-1417 -->
 
 ### **Period of World War I (1914 - 1918)**
 
-*   **1914:** Pre-insurrection revolutionary and martyr Vu Quy was born in Cong My village, Nam Son commune, An Duong district, Hai Phong. He was a prominent cadre of the Viet Minh and Acting Secretary of the Hanoi Party Committee, instrumental in mobilizing intellectuals and artists into the Cultural Salvation Association and directly assigning composer Van Cao to compose "Tien Quan Ca".
+*   **1914:** Pre-insurrection revolutionary and martyr Vu Quy was born in Cong My village, Nam Son commune, An Duong district, Hai Phong. He was a prominent cadre of the Viet Minh and Acting Secretary of the Hanoi Party Committee, instrumental in mobilizing intellectuals and artists into the Cultural Salvation Association and directly assigning composer Van Cao to compose "Tien Quan Ca". [Source: History of the Party Committee of Hanoi (1930–2010), Hanoi Publishing House, 2010]
 
 <!-- id: EVT-1418 -->
-*   **Jan. 1, 1914:** Senior General Nguyen Chi Thanh (born Nguyen Vinh) was born in Niem Pho village, Quang Dien district, Thua Thien Hue province. He was an eminent military and political leader of the Communist Party and the Vietnam People's Army, an outstanding disciple of President Ho Chi Minh, who served as Director of the General Political Department and Secretary of the Central Office for South Vietnam.
+*   **Jan. 1, 1914:** Senior General Nguyen Chi Thanh (born Nguyen Vinh) was born in Niem Pho village, Quang Dien district, Thua Thien Hue province. He was an eminent military and political leader of the Communist Party and the Vietnam People's Army, an outstanding disciple of President Ho Chi Minh, who served as Director of the General Political Department and Secretary of the Central Office for South Vietnam. [Source: General Nguyen Chi Thanh – Eminent Military and Political Leader (Nhan Dan Newspaper), https://nhandan.vn/dai-tuong-nguyen-chi-thanh-nha-chinh-tri-quan-su-loi-lac-post790123.html]
 
 <!-- id: EVT-1419 -->
-*   **Aug. 3, 1914:** France entered World War I, beginning to intensify the plunder of human and material resources in Indochina.
+*   **Aug. 3, 1914:** France entered World War I, beginning to intensify the plunder of human and material resources in Indochina. [Source: History of Vietnam (Vol. 7: 1897–1918), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1420 -->
-*   **Nov. 10, 1914:** The Sam Neua Uprising broke out under the leadership of Chao Muang Kham Bang in coordination with ethnic minorities in the Northwest region and Upper Laos against French colonialism, lasting through 1916–1917.
+*   **Nov. 10, 1914:** The Sam Neua Uprising broke out under the leadership of Chao Muang Kham Bang in coordination with ethnic minorities in the Northwest region and Upper Laos against French colonialism, lasting through 1916–1917. [Source: History of the Special Relationship between Vietnam and Laos (1930–2007), National Political Publishing House, Hanoi, 2011]
 
 <!-- id: EVT-1421 -->
-*   **1915 - 1916:** The French colonial administration began a large-scale "volunteer" recruitment (forced conscription) campaign in Indochina for World War I.
+*   **1915 - 1916:** The French colonial administration began a large-scale "volunteer" recruitment (forced conscription) campaign in Indochina for World War I. [Source: History of Vietnam (Vol. 7: 1897–1918), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1422 -->
-*   **1915:** The last regional examination was held in Tonkin, marking the end of the Confucian civil service examination system there.
+*   **1915:** The last regional examination was held in Tonkin, marking the end of the Confucian civil service examination system there. [Source: Nguyen Phan Quang, History of Vietnam (1858–1945), Education Publishing House, Hanoi]
 
 <!-- id: EVT-1423 -->
-*   **Mar. 13, 1915:** The righteous army of the Vietnam Restoration League attacked the Ta Lung post (Lang Son) but failed.
+*   **Mar. 13, 1915:** The righteous army of the Vietnam Restoration League attacked the Ta Lung post (Lang Son) but failed. [Source: History of Vietnam (Vol. 7: 1897–1918), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1424 -->
-*   **Sep. 28, 1915:** Political prisoners at Lao Bao Prison, led by Ho Ba Kien and Lieu Thanh, rebelled and broke out of the prison.
+*   **Sep. 28, 1915:** Political prisoners at Lao Bao Prison, led by Ho Ba Kien and Lieu Thanh, rebelled and broke out of the prison. [Source: Lao Bao Prison Historical Site (Quang Tri Provincial Portal), https://quangtri.gov.vn/]
 
 <!-- id: EVT-1425 -->
-*   **1916:** Dinh Thi Van (real name Dinh Thi Mau) was born in Dong An village, Xuan Truong district, Nam Dinh province. She would later become a legendary female intelligence colonel and a Hero of the People's Armed Forces, renowned for her undercover operations in South Vietnam.
+*   **1916:** Dinh Thi Van (real name Dinh Thi Mau) was born in Dong An village, Xuan Truong district, Nam Dinh province. She would later become a legendary female intelligence colonel and a Hero of the People's Armed Forces, renowned for her undercover operations in South Vietnam. [Source: Intelligence Officer Dinh Thi Van (Nhan Dan Newspaper), https://nhandan.vn/nu-tinh-bao-dinh-thi-van-huyen-thoai-trong-long-dich-post645210.html]
 
 <!-- id: EVT-1426 -->
-*   **1916:** Poet Tản Đà (Nguyễn Khắc Hiếu) published the poetry volume *Khối tình con I* (Little Love Block I) and *Giấc mộng con I*, creating a major literary phenomenon in the early 20th century that bridged classical literature and modern Vietnamese poetry.
+*   **1916:** Poet Tản Đà (Nguyễn Khắc Hiếu) published the poetry volume *Khối tình con I* (Little Love Block I) and *Giấc mộng con I*, creating a major literary phenomenon in the early 20th century that bridged classical literature and modern Vietnamese poetry. [Source: Dictionary of Literature (New Edition), The Gioi Publishers, Hanoi, 2004]
 
 <!-- id: EVT-1427 -->
-*   **Feb. 15, 1916:** Secret societies in Cochinchina organized a major riot in Saigon, attempting to break into the Central Prison to rescue Phan Xich Long, but it failed.
+*   **Feb. 15, 1916:** Secret societies in Cochinchina organized a major riot in Saigon, attempting to break into the Central Prison to rescue Phan Xich Long, but it failed. [Source: History of Vietnam (Vol. 7: 1897–1918), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1428 -->
-*   **May 3, 1916:** The uprising led by King Duy Tan along with Thai Phien and Tran Cao Van was discovered and failed. King Duy Tan was arrested and exiled to Réunion Island.
+*   **May 3, 1916:** The uprising led by King Duy Tan along with Thai Phien and Tran Cao Van was discovered and failed. King Duy Tan was arrested and exiled to Réunion Island. [Source: Emperor Duy Tan and the 1916 Uprising (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13775/vua-duy-tan.html]
 
 <!-- id: EVT-1429 -->
-*   **May 18, 1916 (Binh Thin year):** Following the abortive anti-colonial uprising led by Emperor Duy Tan and the Quang Phuc Hoi, French authorities deposed and exiled the young king, installing Prince Buu Dao (eldest son of Emperor Dong Khanh) on the imperial throne as Emperor Khai Dinh.
+*   **May 18, 1916 (Binh Thin year):** Following the abortive anti-colonial uprising led by Emperor Duy Tan and the Quang Phuc Hoi, French authorities deposed and exiled the young king, installing Prince Buu Dao (eldest son of Emperor Dong Khanh) on the imperial throne as Emperor Khai Dinh. [Source: Emperor Khai Dinh (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13776/vua-khai-dinh.html]
 
 <!-- id: EVT-1430 -->
-*   **Aug. 1916:** Emperor Khai Dinh issued a ban on commoners wearing yellow clothing and colors resembling yellow to maintain distinction from royalty.
+*   **Aug. 1916:** Emperor Khai Dinh issued a ban on commoners wearing yellow clothing and colors resembling yellow to maintain distinction from royalty. [Source: Chau Ban of the Nguyen Dynasty (National Archives Center I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1431 -->
 *   **Aug. 30, 1917:** The Thai Nguyen Uprising broke out, led by Trinh Van Can (Doi Can) and Luong Ngoc Quyen. The rebels controlled the provincial capital for six days. [Source: Vietnam National Museum of History - A Family Sacrificing for the Cause of National Modernization, https://baotanglichsu.vn/vi/Articles/3098/18575/ca-gia-djinh-hi-sinh-cho-su-nghiep-canh-tan-djat-nuoc.html]
 
 <!-- id: EVT-1432 -->
-*   **Sep. 5, 1917:** French forces counter-attacked and recaptured the provincial capital of Thai Nguyen.
+*   **Sep. 5, 1917:** French forces counter-attacked and recaptured the provincial capital of Thai Nguyen. [Source: The 1917 Thai Nguyen Uprising (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13905/khoi-nghia-thai-nguyen.html]
 
 <!-- id: EVT-1433 -->
-*   **Late 1917:** Nguyen Tat Thanh returned from the UK to Paris (France) amidst World War I. He engaged with the French workers' movement, formed the "Group of Annamite Patriots" in Paris alongside Phan Chau Trinh and Phan Van Truong, and began using the name **Nguyen Ai Quoc** (Nguyen the Patriot).
+*   **Late 1917:** Nguyen Tat Thanh returned from the UK to Paris (France) amidst World War I. He engaged with the French workers' movement, formed the "Group of Annamite Patriots" in Paris alongside Phan Chau Trinh and Phan Van Truong, and began using the name **Nguyen Ai Quoc** (Nguyen the Patriot). [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1434 -->
-*   **1918:** The last regional examination was held in Annam.
+*   **1918:** The last regional examination was held in Annam. [Source: Nguyen Phan Quang, History of Vietnam (1858–1945), Education Publishing House, Hanoi]
 
 <!-- id: EVT-1435 -->
-*   **Jan. 11, 1918:** Doi Can committed suicide after being surrounded, and the Thai Nguyen Uprising disintegrated.
+*   **Jan. 11, 1918:** Doi Can committed suicide after being surrounded, and the Thai Nguyen Uprising disintegrated. [Source: The 1917 Thai Nguyen Uprising (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13905/khoi-nghia-thai-nguyen.html]
 
 <!-- id: EVT-1436 -->
-*   **Mar. 1918:** Emperor Khai Dinh conducted the "Northern Inspection Tour" (Ngu gia Bac tuan), visiting provinces from Quang Tri to Lang Son and Hai Phong.
+*   **Mar. 1918:** Emperor Khai Dinh conducted the "Northern Inspection Tour" (Ngu gia Bac tuan), visiting provinces from Quang Tri to Lang Son and Hai Phong. [Source: Emperor Khai Dinh (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13776/vua-khai-dinh.html]
 
 <!-- id: EVT-1437 -->
-*   **May 1918:** Governor-General Albert Sarraut drafted the "Five-Year Program for Political and Economic Activities," laying the foundation for the second colonial exploitation.
+*   **May 1918:** Governor-General Albert Sarraut drafted the "Five-Year Program for Political and Economic Activities," laying the foundation for the second colonial exploitation. [Source: History of Vietnam (Vol. 7: 1897–1918), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1438 -->
-*   **May 2, 1918:** The "Khanh niem Hung Quoc" (National Restoration Commemoration) holiday was established to celebrate the unification of the country by Emperor Gia Long, set annually on the 2nd day of the 5th lunar month.
+*   **May 2, 1918:** The "Khanh niem Hung Quoc" (National Restoration Commemoration) holiday was established to celebrate the unification of the country by Emperor Gia Long, set annually on the 2nd day of the 5th lunar month. [Source: Chau Ban of the Nguyen Dynasty (National Archives Center I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1439 -->
-*   **Jul. 1918:** An uprising of the Hmong people in Lai Chau, led by Giang Ta Chay, broke out, spreading to the Northwest provinces and Upper Laos.
+*   **Jul. 1918:** An uprising of the Hmong people in Lai Chau, led by Giang Ta Chay, broke out, spreading to the Northwest provinces and Upper Laos. [Source: History of the Party Committee of Lai Chau Province (Vol. 1), National Political Publishing House, Hanoi]
 
 <!-- id: EVT-1440 -->
-*   **Nov. 11, 1918:** World War I ended.
+*   **Nov. 11, 1918:** World War I ended. [Source: Modern World History, Education Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-1441 -->
-*   **Nov. 16, 1918:** A mutiny broke out at the Binh Lieu post (Quang Ninh), led by Tham Cam Say and Chinese and Vietnamese soldiers, lasting until June 1919.
+*   **Nov. 16, 1918:** A mutiny broke out at the Binh Lieu post (Quang Ninh), led by Tham Cam Say and Chinese and Vietnamese soldiers, lasting until June 1919. [Source: History of the Party Committee of Quang Ninh Province (Vol. 1), National Political Publishing House, Hanoi]
 
 <!-- id: EVT-1442 -->
 
 ### **Period of Seeking National Salvation and Founding of the Party (1919 - 1930)**
 
-*   **1919:** Lò Văn Giá was born in Cọ village, Chiềng An commune, Mường La district (now Chiềng An ward, Sơn La city) into a poor Thai ethnic family. He later became an outstanding revolutionary guide and a Hero of the People's Armed Forces, renowned for his intelligence, bravery, and absolute loyalty to the revolution.
+*   **1919:** Lò Văn Giá was born in Cọ village, Chiềng An commune, Mường La district (now Chiềng An ward, Sơn La city) into a poor Thai ethnic family. He later became an outstanding revolutionary guide and a Hero of the People's Armed Forces, renowned for his intelligence, bravery, and absolute loyalty to the revolution. [Source: Martyr Lo Van Gia – Outstanding Son of Son La (Son La Newspaper), https://baosonla.org.vn/]
 
 <!-- id: EVT-1443 -->
-*   **Jan. 1919:** Emperor Khai Dinh decreed the Metropolitan Examination of that year to be the "Imperial Grace Examination" (Ngu tu an khoa), which was the final Metropolitan Examination of the dynasty.
+*   **Jan. 1919:** Emperor Khai Dinh decreed the Metropolitan Examination of that year to be the "Imperial Grace Examination" (Ngu tu an khoa), which was the final Metropolitan Examination of the dynasty. [Source: Chau Ban of the Nguyen Dynasty (National Archives Center I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1444 -->
-*   **Feb. 1919:** Nguyen Ai Quoc joined the French Socialist Party.
+*   **Feb. 1919:** Nguyen Ai Quoc joined the French Socialist Party. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1445 -->
-*   **Feb. 5, 1919:** The Association for the Intellectual and Moral Formation of the Annamites (AFIMA) was established in Hanoi, a cultural organization sponsored by the French colonialists to implement the "Franco-Vietnamese collaboration" policy.
+*   **Feb. 5, 1919:** The Association for the Intellectual and Moral Formation of the Annamites (AFIMA) was established in Hanoi, a cultural organization sponsored by the French colonialists to implement the "Franco-Vietnamese collaboration" policy. [Source: AFIMA in the Cultural History of Hanoi (Xua & Nay Magazine), Hanoi]
 
 <!-- id: EVT-1446 -->
-*   **Apr. 1919:** The final Metropolitan Examination (Hoi exam) was held, designated as the "Imperial Grace Examination" (Ngu tu an khoa), marking the end of the traditional Confucian examination system before its official abolition.
+*   **Apr. 1919:** The final Metropolitan Examination (Hoi exam) was held, designated as the "Imperial Grace Examination" (Ngu tu an khoa), marking the end of the traditional Confucian examination system before its official abolition. [Source: Nguyen Phan Quang, History of Vietnam (1858–1945), Education Publishing House, Hanoi]
 
 <!-- id: EVT-1447 -->
-*   **Apr. 18, 1919:** A decree allowed the recruitment of Vietnamese staff into the Office of the Governor-General.
+*   **Apr. 18, 1919:** A decree allowed the recruitment of Vietnamese staff into the Office of the Governor-General. [Source: Chau Ban of the Nguyen Dynasty (National Archives Center I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1448 -->
-*   **May 19, 1919:** A decree authorized the Governor-General of Indochina to change the judicial system in Annam and Laos.
+*   **May 19, 1919:** A decree authorized the Governor-General of Indochina to change the judicial system in Annam and Laos. [Source: Chau Ban of the Nguyen Dynasty (National Archives Center I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1449 -->
-*   **Jun. 14, 1919:** King Khai Dinh issued a Royal Edict abolishing the examination system and Chinese-character schools, ending the traditional examination-based education system.
+*   **Jun. 14, 1919:** King Khai Dinh issued a Royal Edict abolishing the examination system and Chinese-character schools, ending the traditional examination-based education system. [Source: Chau Ban of the Nguyen Dynasty (National Archives Center I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1450 -->
-*   **Jun. 18, 1919:** On behalf of the Association of Annamite Patriots in France, Nguyen Ai Quoc submitted the eight-point *Demands of the Annamite People* claiming basic freedom, democracy, and equality for Indochinese people to the Versailles Peace Conference, creating a profound resonance across French and international political circles.
+*   **Jun. 18, 1919:** On behalf of the Association of Annamite Patriots in France, Nguyen Ai Quoc submitted the eight-point *Demands of the Annamite People* claiming basic freedom, democracy, and equality for Indochinese people to the Versailles Peace Conference, creating a profound resonance across French and international political circles. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1451 -->
-*   **Jun. 29, 1919:** A decree reorganized the Ministry of Colonies in France and established the General Representation of the Colonies, strengthening the metropole's control.
+*   **Jun. 29, 1919:** A decree reorganized the Ministry of Colonies in France and established the General Representation of the Colonies, strengthening the metropole's control. [Source: History of Vietnam (Vol. 8: 1919–1930), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1452 -->
-*   **Aug. 1919:** The "Boycott of Resident Aliens" (Hoa kieu) movement broke out, starting in Saigon and spreading throughout the country, demonstrating the national economic consciousness of the Vietnamese bourgeoisie.
+*   **Aug. 1919:** The "Boycott of Resident Aliens" (Hoa kieu) movement broke out, starting in Saigon and spreading throughout the country, demonstrating the national economic consciousness of the Vietnamese bourgeoisie. [Source: History of Vietnam (Vol. 8: 1919–1930), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1453 -->
-*   **Sep. 1919:** The court issued "Khai Dinh Thong Bao" brass coins.
+*   **Sep. 1919:** The court issued "Khai Dinh Thong Bao" brass coins. [Source: Chau Ban of the Nguyen Dynasty (National Archives Center I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1454 -->
-*   **Sep. 1, 1919:** The newspaper *Hoc bao* was launched to guide the new French education system in Tonkin and Annam.
+*   **Sep. 1, 1919:** The newspaper *Hoc bao* was launched to guide the new French education system in Tonkin and Annam. [Source: Huynh Van Tong, History of Vietnamese Press from Inception to 1945, Ho Chi Minh City Publishing House, 2000]
 
 <!-- id: EVT-1455 -->
-*   **Dec. 11, 1919:** The Resident Superior of Tonkin issued a decree imposing a uniform poll tax of 2.5 piastres on all natives aged 18 to 60.
+*   **Dec. 11, 1919:** The Resident Superior of Tonkin issued a decree imposing a uniform poll tax of 2.5 piastres on all natives aged 18 to 60. [Source: History of Vietnam (Vol. 8: 1919–1930), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1456 -->
-*   **1920:** Cao Dai, an indigenous religion, was founded (specifically in 1926 in Tay Ninh).
+*   **1920:** Cao Dai, an indigenous religion, was founded (specifically in 1926 in Tay Ninh). [Source: Government Committee for Religious Affairs, Religions in Vietnam, Religious Publishing House, Hanoi, 2015]
 
 <!-- id: EVT-1457 -->
-*   **1920:** The Japanese company Mitsui-Bussan Kaisha began exploiting phosphate on some islands of the Paracels after contacting French authorities. In the same year, France initiated maritime and customs control over the Paracel Islands.
+*   **1920:** The Japanese company Mitsui-Bussan Kaisha began exploiting phosphate on some islands of the Paracels after contacting French authorities. In the same year, France initiated maritime and customs control over the Paracel Islands. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1458 -->
-*   **Mar. 1920:** The **Consultative Council of Annam** (Hội đồng Tư vấn Trung Kỳ) was established to advise on matters of public interest.
+*   **Mar. 1920:** The **Consultative Council of Annam** (Hội đồng Tư vấn Trung Kỳ) was established to advise on matters of public interest. [Source: Chau Ban of the Nguyen Dynasty (National Archives Center I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1459 -->
-*   **Jul. 16-17, 1920:** The newspaper *L'Humanité* published V.I. Lenin's *First Draft of Theses on the National and Colonial Questions*. Nguyễn Ái Quốc read the work, identifying the path for national liberation and affirming his faith in Marxism-Leninism.
+*   **Jul. 16-17, 1920:** The newspaper *L'Humanité* published V.I. Lenin's *First Draft of Theses on the National and Colonial Questions*. Nguyễn Ái Quốc read the work, identifying the path for national liberation and affirming his faith in Marxism-Leninism. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1460 -->
-*   **Sep. 1920:** A fixed exchange rate was established where 1 new "Khai Dinh Thong Bao" coin equaled 6 zinc coins.
+*   **Sep. 1920:** A fixed exchange rate was established where 1 new "Khai Dinh Thong Bao" coin equaled 6 zinc coins. [Source: Chau Ban of the Nguyen Dynasty (National Archives Center I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1461 -->
-*   **Sep. 28, 1920:** A decree reorganized the High Council of the Colonies in France.
+*   **Sep. 28, 1920:** A decree reorganized the High Council of the Colonies in France. [Source: History of Vietnam (Vol. 8: 1919–1930), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1462 -->
-*   **Nov. 1920:** Emperor Khai Dinh conferred honorary titles on businessman Bach Thai Buoi and mechanic Nguyen Van Phuc for successfully building the ship *Binh Chuan*, promoting Vietnamese industrial capability.
+*   **Nov. 1920:** Emperor Khai Dinh conferred honorary titles on businessman Bach Thai Buoi and mechanic Nguyen Van Phuc for successfully building the ship *Binh Chuan*, promoting Vietnamese industrial capability. [Source: Entrepreneur Bach Thai Buoi (Nhan Dan Newspaper), https://nhandan.vn/bach-thai-buoi-nha-kinh-doanh-yeu-nuoc-post621300.html]
 
 <!-- id: EVT-1463 -->
 *   **Dec. 25-30, 1920:** Nguyễn Ái Quốc attended the 18th Congress of the French Socialist Party in Tours, voted to join the Third International, and co-founded the French Communist Party, marking his transition from patriotism to Marxism-Leninism. [Source: https://nhandan.vn/theo-dau-chan-bac-ho-tro-lai-tp-tours-post192039.html]
 
 <!-- id: EVT-1464 -->
-*   **1921:** After enduring 13 years of arduous penal servitude at Con Dao Prison with unyielding integrity, Huynh Thuc Khang was released by French colonial authorities.
+*   **1921:** After enduring 13 years of arduous penal servitude at Con Dao Prison with unyielding integrity, Huynh Thuc Khang was released by French colonial authorities. [Source: Patriotic Scholar Huynh Thuc Khang (Nhan Dan Newspaper), https://nhandan.vn/chi-si-yeu-nuoc-huynh-thuc-khang-nha-lanh-dao-tien-boi-tieu-bieu-cua-dang-va-cach-mang-viet-nam-post670559.html]
 
 <!-- id: EVT-1465 -->
-*   **1921:** In Paris, Nguyen Ai Quoc along with revolutionary activists from French colonies (Algeria, Madagascar, Senegal, Guadeloupe, Martinique) founded the **Intercolonial Union** (Union Intercoloniale), establishing the first united solidarity front connecting liberation movements of oppressed peoples worldwide.
+*   **1921:** In Paris, Nguyen Ai Quoc along with revolutionary activists from French colonies (Algeria, Madagascar, Senegal, Guadeloupe, Martinique) founded the **Intercolonial Union** (Union Intercoloniale), establishing the first united solidarity front connecting liberation movements of oppressed peoples worldwide. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1466 -->
-*   **1921:** Poet Tản Đà founded *An Nam tạp chí* (Annam Magazine) in Hanoi, an influential literary and intellectual periodical that gathered prominent Vietnamese writers and intellectuals in the early 20th century.
+*   **1921:** Poet Tản Đà founded *An Nam tạp chí* (Annam Magazine) in Hanoi, an influential literary and intellectual periodical that gathered prominent Vietnamese writers and intellectuals in the early 20th century. [Source: Huynh Van Tong, History of Vietnamese Press from Inception to 1945, Ho Chi Minh City Publishing House, 2000]
 
 <!-- id: EVT-1467 -->
-*   **Mar. 30, 1921:** The Southern Military Government in Guangdong (not recognized by the central Chinese government or foreign powers) announced the administrative annexation of the Paracel Islands into Ya District (Hainan). France did not officially protest to avoid stimulating Chinese nationalism.
+*   **Mar. 30, 1921:** The Southern Military Government in Guangdong (not recognized by the central Chinese government or foreign powers) announced the administrative annexation of the Paracel Islands into Ya District (Hainan). France did not officially protest to avoid stimulating Chinese nationalism. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1468 -->
-*   **Apr. 12, 1921:** Albert Sarraut, then Minister of Colonies, presented the "Bill on Colonial Exploitation" to the French National Assembly.
+*   **Apr. 12, 1921:** Albert Sarraut, then Minister of Colonies, presented the "Bill on Colonial Exploitation" to the French National Assembly. [Source: History of Vietnam (Vol. 8: 1919–1930), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1469 -->
-*   **Jun. 1921:** The Committee for Colonial Studies was established within the French Communist Party, with Nguyen Ai Quoc in charge of the Indochina subcommittee.
+*   **Jun. 1921:** The Committee for Colonial Studies was established within the French Communist Party, with Nguyen Ai Quoc in charge of the Indochina subcommittee. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1470 -->
-*   **Jun. 20, 1921:** An educational decree (Article 500 bis) required natives wishing to study in France to obtain permission from the Governor-General, tightening control over overseas students.
+*   **Jun. 20, 1921:** An educational decree (Article 500 bis) required natives wishing to study in France to obtain permission from the Governor-General, tightening control over overseas students. [Source: Chau Ban of the Nguyen Dynasty (National Archives Center I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1471 -->
-*   **Aug. 12, 1921:** The Resident Superior of Tonkin issued a decree to carry out "reform of village administration," reorganizing the administrative apparatus at the village level.
+*   **Aug. 12, 1921:** The Resident Superior of Tonkin issued a decree to carry out "reform of village administration," reorganizing the administrative apparatus at the village level. [Source: Chau Ban of the Nguyen Dynasty (National Archives Center I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1472 -->
-*   **Sep. 1921:** The Civil Code (*Dan Luat*) was promulgated for application in Tonkin (Bac Ky), drafted with the assistance of French legal experts.
+*   **Sep. 1921:** The Civil Code (*Dan Luat*) was promulgated for application in Tonkin (Bac Ky), drafted with the assistance of French legal experts. [Source: Chau Ban of the Nguyen Dynasty (National Archives Center I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1473 -->
-*   **Oct. 11, 1921:** The Governor-General of Indochina issued a decree to issue bonds worth 6 million piasters to build the Vinh - Dong Ha railway.
+*   **Oct. 11, 1921:** The Governor-General of Indochina issued a decree to issue bonds worth 6 million piasters to build the Vinh - Dong Ha railway. [Source: Chau Ban of the Nguyen Dynasty (National Archives Center I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1474 -->
-*   **Oct. 17, 1921:** The city of Nam Dinh was established.
+*   **Oct. 17, 1921:** The city of Nam Dinh was established. [Source: Gazetteer of Nam Dinh, National Political Publishing House, Hanoi, 2003]
 
 <!-- id: EVT-1475 -->
-*   **1922:** The Colonial Exhibition was held in Marseille (France), costing the Indochina budget 12 million francs.
+*   **1922:** The Colonial Exhibition was held in Marseille (France), costing the Indochina budget 12 million francs. [Source: History of Vietnam (Vol. 8: 1919–1930), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1476 -->
-*   **1922:** Nguyen Ai Quoc was issued a French Communist Party membership card under the name Henri Tchen, becoming the first Vietnamese to hold official party membership in the international communist movement.
+*   **1922:** Nguyen Ai Quoc was issued a French Communist Party membership card under the name Henri Tchen, becoming the first Vietnamese to hold official party membership in the international communist movement. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 ![Historical Image](images/event_20260924_103210.webp)
 
 *Source: Nguyen Ai Quoc's identity card in France / Ho Chi Minh Museum*
 
 <!-- id: EVT-1477 -->
-*   **Mar. 1922:** A customs officer in Ba Ria (Cochinchina) brutally beat a female salt porter, an incident highlighting the abuse of power by colonial officials.
+*   **Mar. 1922:** A customs officer in Ba Ria (Cochinchina) brutally beat a female salt porter, an incident highlighting the abuse of power by colonial officials. [Source: History of Vietnam (Vol. 8: 1919–1930), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1478 -->
-*   **Apr. 1922:** The investiture ceremony of Crown Prince Vinh Thuy (later Emperor Bao Dai) was solemnly held at the Thai Hoa Palace.
+*   **Apr. 1922:** The investiture ceremony of Crown Prince Vinh Thuy (later Emperor Bao Dai) was solemnly held at the Thai Hoa Palace. [Source: Emperor Bao Dai (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13777/vua-bao-dai.html]
 
 <!-- id: EVT-1479 -->
-*   **Apr. 1, 1922:** The newspaper *Le Paria* (The Outcast) - the official voice of the Intercolonial Union founded, directed, and edited by Nguyen Ai Quoc - published its first issue in Paris, serving as a powerful weapon disseminating Marxism-Leninism and awakening anti-colonial movements.
+*   **Apr. 1, 1922:** The newspaper *Le Paria* (The Outcast) - the official voice of the Intercolonial Union founded, directed, and edited by Nguyen Ai Quoc - published its first issue in Paris, serving as a powerful weapon disseminating Marxism-Leninism and awakening anti-colonial movements. [Source: Le Paria – Sharp Weapon of Nguyen Ai Quoc (Nhan Dan Newspaper), https://nhandan.vn/bao-le-paria-nguoi-cung-kho-vu-khi-chien-dau-sac-ben-post691400.html]
 
 <!-- id: EVT-1480 -->
-*   **Jun. 1922:** Emperor Khai Dinh arrived in Marseille and Paris, becoming the first reigning Vietnamese monarch to officially visit France (bringing Crown Prince Vinh Thuy for study).
+*   **Jun. 1922:** Emperor Khai Dinh arrived in Marseille and Paris, becoming the first reigning Vietnamese monarch to officially visit France (bringing Crown Prince Vinh Thuy for study). [Source: Emperor Khai Dinh (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13776/vua-khai-dinh.html]
 
 <!-- id: EVT-1481 -->
-*   **Jun. 9, 1922:** A decree reorganized the Colonial Council of Cochinchina.
+*   **Jun. 9, 1922:** A decree reorganized the Colonial Council of Cochinchina. [Source: Chau Ban of the Nguyen Dynasty (National Archives Center I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1482 -->
-*   **Jul. 15, 1922:** Phan Chau Trinh wrote the "Seven-Point Petition" addressed to King Khai Dinh, who was in France, denouncing the king's seven great crimes.
+*   **Jul. 15, 1922:** Phan Chau Trinh wrote the "Seven-Point Petition" addressed to King Khai Dinh, who was in France, denouncing the king's seven great crimes. [Source: Phan Chau Trinh – Complete Works (Vol. 2), Da Nang Publishing House, 2005]
 
 <!-- id: EVT-1483 -->
-*   **Jul. 24, 1922:** Nguyen Ai Quoc (Ho Chi Minh) attended a meeting of the 17th District Cell of the French Communist Party at 100 Cardine Street, Paris. Around this time, he also moved his residence to 9 Compoint Alley.
+*   **Jul. 24, 1922:** Nguyen Ai Quoc (Ho Chi Minh) attended a meeting of the 17th District Cell of the French Communist Party at 100 Cardine Street, Paris. Around this time, he also moved his residence to 9 Compoint Alley. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1484 -->
-*   **Sep. 1922:** The Translation Office was reorganized into the **Institute of Ancient Studies** (Vien Co Hoc) under the Ministry of Education.
+*   **Sep. 1922:** The Translation Office was reorganized into the **Institute of Ancient Studies** (Vien Co Hoc) under the Ministry of Education. [Source: Chau Ban of the Nguyen Dynasty (National Archives Center I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1485 -->
-*   **Nov. 1922:** 600 dyers in Cho Lon (Cochinchina) went on strike to protest wage cuts. This was noted as one of the first organized workers' movements in the colony.
+*   **Nov. 1922:** 600 dyers in Cho Lon (Cochinchina) went on strike to protest wage cuts. This was noted as one of the first organized workers' movements in the colony. [Source: History of the Vietnamese Working Class (Vol. 1), Su That Publishing House, Hanoi, 1982]
 
 <!-- id: EVT-1486 -->
-*   **1923:** The revolutionary organization **Tam Tam Xa** (Heart-to-Heart Association, also known as the New Vietnam Youth League) was founded in Guangzhou (China) by patriotic youths (including Ho Tung Mau, Le Hong Son, Pham Hong Thai, and Lam Duc Thu) with the mission of uniting like-minded patriots to "restore the human rights of the Vietnamese people," serving as a crucial precursor nucleus for the later establishment of the Vietnamese Revolutionary Youth League.
+*   **1923:** The revolutionary organization **Tam Tam Xa** (Heart-to-Heart Association, also known as the New Vietnam Youth League) was founded in Guangzhou (China) by patriotic youths (including Ho Tung Mau, Le Hong Son, Pham Hong Thai, and Lam Duc Thu) with the mission of uniting like-minded patriots to "restore the human rights of the Vietnamese people," serving as a crucial precursor nucleus for the later establishment of the Vietnamese Revolutionary Youth League. [Source: History of Vietnam (Vol. 8: 1919–1930), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1487 -->
-*   **1923:** Construction of the **Kien Trung Palace** was completed within the Purple Forbidden City, featuring a blend of European and Asian architectural styles.
+*   **1923:** Construction of the **Kien Trung Palace** was completed within the Purple Forbidden City, featuring a blend of European and Asian architectural styles. [Source: Hue Monuments Conservation Center, Kien Trung Palace in the Hue Imperial Citadel, Hue, 2023]
 
 <!-- id: EVT-1488 -->
-*   **1923:** The Service for the Control and Assistance of Natives of the Colonies (C.A.I.) was established in France to monitor the Vietnamese.
+*   **1923:** The Service for the Control and Assistance of Natives of the Colonies (C.A.I.) was established in France to monitor the Vietnamese. [Source: History of Vietnam (Vol. 8: 1919–1930), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1489 -->
-*   **1923 - 1924:** In Moscow (USSR), Nguyen Ai Quoc used the alias **Linov** (or Lin) while studying at the Communist University of the Toilers of the East (KUTV). He attended Lenin's funeral (Jan. 1924), authored the memorial article "Lenin and the Peoples of the East" in *Pravda*, and systematically studied Marxist-Leninist political theory.
+*   **1923 - 1924:** In Moscow (USSR), Nguyen Ai Quoc used the alias **Linov** (or Lin) while studying at the Communist University of the Toilers of the East (KUTV). He attended Lenin's funeral (Jan. 1924), authored the memorial article "Lenin and the Peoples of the East" in *Pravda*, and systematically studied Marxist-Leninist political theory. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1490 -->
-*   **Jun. 13 - 30, 1923:** Nguyen Ai Quoc secretly departed Paris for Berlin (Germany), then sailed from Hamburg on the ship *Karl Liebknecht* to Petrograd (Leningrad, USSR) on June 30, 1923, officially arriving in the homeland of the October Revolution to work and study at the Communist International.
+*   **Jun. 13 - 30, 1923:** Nguyen Ai Quoc secretly departed Paris for Berlin (Germany), then sailed from Hamburg on the ship *Karl Liebknecht* to Petrograd (Leningrad, USSR) on June 30, 1923, officially arriving in the homeland of the October Revolution to work and study at the Communist International. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 ![Historical Image](images/event_20260924_103201.webp)
 
 *Source: Nguyen Ai Quoc's journey from Paris to the Soviet Union in June 1923 / Ho Chi Minh Museum*
 
 <!-- id: EVT-1491 -->
-*   **Oct. 10 - 15, 1923:** In Moscow, Nguyen Ai Quoc attended the First International Peasant Conference and was elected to the Presidium of the International Peasant Council, becoming the first Vietnamese to hold a leadership position in a Comintern mass organization.
+*   **Oct. 10 - 15, 1923:** In Moscow, Nguyen Ai Quoc attended the First International Peasant Conference and was elected to the Presidium of the International Peasant Council, becoming the first Vietnamese to hold a leadership position in a Comintern mass organization. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1492 -->
-*   **Nov. 15, 1923:** Composer Van Cao (born Nguyen Van Cao) was born in Lach Tray, Hai Phong (originally from Vu Ban, Nam Dinh). He was one of the most prominent cultural giants of modern Vietnamese music, poetry, and painting, and the composer of "Tien Quan Ca" (The Marching Song) - the National Anthem of the Socialist Republic of Vietnam.
+*   **Nov. 15, 1923:** Composer Van Cao (born Nguyen Van Cao) was born in Lach Tray, Hai Phong (originally from Vu Ban, Nam Dinh). He was one of the most prominent cultural giants of modern Vietnamese music, poetry, and painting, and the composer of "Tien Quan Ca" (The Marching Song) - the National Anthem of the Socialist Republic of Vietnam. [Source: Composer Van Cao – Author of Vietnam National Anthem (Nhan Dan Newspaper), https://nhandan.vn/nhac-si-van-cao-nguoi-nghe-si-tai-hoa-post782100.html]
 
 <!-- id: EVT-1493 -->
-*   **1924:** Ngo May, a prominent hero of the Vietnam People's Armed Forces known for his suicide bomb attack against French forces, was born in Cat Chanh commune, Phu Cat district, Binh Dinh province.
+*   **1924:** Ngo May, a prominent hero of the Vietnam People's Armed Forces known for his suicide bomb attack against French forces, was born in Cat Chanh commune, Phu Cat district, Binh Dinh province. [Source: Military History Institute of Vietnam, Heroes of the People's Armed Forces, People's Army Publishing House, Hanoi]
 
 <!-- id: EVT-1494 -->
-*   **Jan. 1924:** Le Huy Doan (later alias Le Hong Phong), alongside his fellow townsman Pham Hong Thai and several patriotic youths, crossed into Siam (Thailand) and proceeded to Guangzhou (China), joining Tam Tam Xa and committing to full-time revolutionary struggle.
+*   **Jan. 1924:** Le Huy Doan (later alias Le Hong Phong), alongside his fellow townsman Pham Hong Thai and several patriotic youths, crossed into Siam (Thailand) and proceeded to Guangzhou (China), joining Tam Tam Xa and committing to full-time revolutionary struggle. [Source: Comrade Le Hong Phong – Outstanding Leader of the Party (Nhan Dan Newspaper), https://nhandan.vn/dong-chi-le-hong-phong-nha-lanh-dao-xuat-sac-cua-dang-va-cach-mang-viet-nam-post713500.html]
 
 <!-- id: EVT-1495 -->
-*   **June 17 - July 8, 1924:** Nguyen Ai Quoc attended the 5th Congress of the Communist International in Moscow.
+*   **June 17 - July 8, 1924:** Nguyen Ai Quoc attended the 5th Congress of the Communist International in Moscow. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 ![Historical Image](images/event_20260924_103203.webp)
 
 *Source: Nguyen Ai Quoc at the 5th Comintern Congress, Moscow in June-July 1924 / Ho Chi Minh Museum*
 
 <!-- id: EVT-1496 -->
-*   **Jun. 19, 1924:** Martyr **Pham Hong Thai**, a prominent member of Tam Tam Xa, launched a bomb attack attempting to assassinate French Governor-General Martial Merlin at the Victoria Hotel in the Shamian concession (Guangzhou, China). Although Merlin escaped with slight injuries, the "Bombing of Shamian" reverberated internationally and was likened by leader Nguyen Ai Quoc to "a swallow heralding the spring" of national liberation; after the attack, Pham Hong Thai plunged into the Pearl River and heroically sacrificed his life.
+*   **Jun. 19, 1924:** Martyr **Pham Hong Thai**, a prominent member of Tam Tam Xa, launched a bomb attack attempting to assassinate French Governor-General Martial Merlin at the Victoria Hotel in the Shamian concession (Guangzhou, China). Although Merlin escaped with slight injuries, the "Bombing of Shamian" reverberated internationally and was likened by leader Nguyen Ai Quoc to "a swallow heralding the spring" of national liberation; after the attack, Pham Hong Thai plunged into the Pearl River and heroically sacrificed his life. [Source: Martyr Pham Hong Thai and the Shake-Up Bomb in Shamian (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13906/tieng-bom-sa-dien.html]
 
 <!-- id: EVT-1497 -->
-*   **Sep. 18, 1924:** Governor-General Merlin signed a decree amending the General Code of Public Education, advocating for the development of primary education ("horizontal education").
+*   **Sep. 18, 1924:** Governor-General Merlin signed a decree amending the General Code of Public Education, advocating for the development of primary education ("horizontal education"). [Source: History of Vietnam (Vol. 8: 1919–1930), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1498 -->
-*   **Oct. 27, 1924:** The Indochina School of Fine Arts was established in Hanoi.
+*   **Oct. 27, 1924:** The Indochina School of Fine Arts was established in Hanoi. [Source: Vietnam University of Fine Arts, Indochina Fine Arts College Annals (1924–2014), Hanoi, 2014]
 
 <!-- id: EVT-1499 -->
-*   **Nov. 11, 1924:** Nguyen Ai Quoc arrived in Guangzhou (China) from Moscow under the alias **Ly Thuy**, serving as an interpreter and envoy in Mikhail Borodin's Soviet Advisory Mission to Sun Yat-sen's government, initiating comprehensive preparations for the Vietnamese revolution.
+*   **Nov. 11, 1924:** Nguyen Ai Quoc arrived in Guangzhou (China) from Moscow under the alias **Ly Thuy**, serving as an interpreter and envoy in Mikhail Borodin's Soviet Advisory Mission to Sun Yat-sen's government, initiating comprehensive preparations for the Vietnamese revolution. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1500 -->
-*   **1925:** A scientific mission led by Dr. A. Krempf, Director of the Institute of Oceanography, was conducted on the Paracel Islands aboard the ship *De Lanessan*.
+*   **1925:** A scientific mission led by Dr. A. Krempf, Director of the Institute of Oceanography, was conducted on the Paracel Islands aboard the ship *De Lanessan*. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1501 -->
-*   **1925:** Le Thi Rieng was born in Vinh My village, Gia Rai district (Bac Lieu). She later became a prominent revolutionary leader and heroine of the South.
+*   **1925:** Le Thi Rieng was born in Vinh My village, Gia Rai district (Bac Lieu). She later became a prominent revolutionary leader and heroine of the South. [Source: Heroic Martyr Le Thi Rieng (Nhan Dan Newspaper), https://nhandan.vn/nu-anh-hung-liet-si-le-thi-rieng-post634210.html]
 
 <!-- id: EVT-1502 -->
-*   **1925:** Nguyen Ai Quoc's seminal polemical work *French Colonialism on Trial* (Le Procès de la colonisation française) was published in Paris by the Librairie du Travail, exposing colonial atrocities and inspiring liberation movements across colonized nations.
+*   **1925:** Nguyen Ai Quoc's seminal polemical work *French Colonialism on Trial* (Le Procès de la colonisation française) was published in Paris by the Librairie du Travail, exposing colonial atrocities and inspiring liberation movements across colonized nations. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1503 -->
-*   **1925:** On Réunion Island (where he was exiled by the French), deposed Emperor Duy Tan (Prince Vinh San) staunchly refused special colonial stipends to maintain his honor, mastering electromechanics to establish his own shop, **'Radio-Laboratoire Vinh San,'** at 41 Rue Labourdonnais in Saint-Denis. He personally assembled and repaired wireless telegraph and radio receivers (TSF), earning recognition as a premier wireless technician tasked with installing the island's first radio broadcast system and later securing an international amateur radio license (callsign **FR8VX**).
+*   **1925:** On Réunion Island (where he was exiled by the French), deposed Emperor Duy Tan (Prince Vinh San) staunchly refused special colonial stipends to maintain his honor, mastering electromechanics to establish his own shop, **'Radio-Laboratoire Vinh San,'** at 41 Rue Labourdonnais in Saint-Denis. He personally assembled and repaired wireless telegraph and radio receivers (TSF), earning recognition as a premier wireless technician tasked with installing the island's first radio broadcast system and later securing an international amateur radio license (callsign **FR8VX**). [Source: Emperor Duy Tan (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13775/vua-duy-tan.html]
 
 <!-- id: EVT-1504 -->
-*   **Jan. 1925:** Nguyen Ai Quoc opened political training classes for patriotic youth in Guangzhou.
+*   **Jan. 1925:** Nguyen Ai Quoc opened political training classes for patriotic youth in Guangzhou. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1505 -->
-*   **Feb. 1925:** In Guangzhou (China), leader Nguyen Ai Quoc reached out to active members of Tam Tam Xa and selected nine outstanding revolutionaries (including Le Hong Phong, Le Hong Son, and Ho Tung Mau) to establish the **Communist League** (*Cộng sản đoàn*), the first Vietnamese communist core group paving the way for the Vietnamese Revolutionary Youth League.
+*   **Feb. 1925:** In Guangzhou (China), leader Nguyen Ai Quoc reached out to active members of Tam Tam Xa and selected nine outstanding revolutionaries (including Le Hong Phong, Le Hong Son, and Ho Tung Mau) to establish the **Communist League** (*Cộng sản đoàn*), the first Vietnamese communist core group paving the way for the Vietnamese Revolutionary Youth League. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1506 -->
-*   **Mar. 3, 1925:** Minister of War Than Trong Hue sent a formal letter to the French Resident Superior, affirming that "The Paracel Islands have always belonged to Vietnam," asserting sovereignty amidst rising disputes.
+*   **Mar. 3, 1925:** Minister of War Than Trong Hue sent a formal letter to the French Resident Superior, affirming that "The Paracel Islands have always belonged to Vietnam," asserting sovereignty amidst rising disputes. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1507 -->
-*   **Mar. 8, 1925:** Governor-General of Indochina Martial Merlin issued a declaration officially asserting French sovereignty over the Paracel and Spratly Islands on behalf of the Protectorate of Annam.
+*   **Mar. 8, 1925:** Governor-General of Indochina Martial Merlin issued a declaration officially asserting French sovereignty over the Paracel and Spratly Islands on behalf of the Protectorate of Annam. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1508 -->
 *   **Jun. 1925:** Nguyen Ai Quoc, alongside Ho Tung Mau and revolutionary comrades, founded the Vietnamese Revolutionary Youth League in Guangzhou (China), organizing theoretical training courses to prepare for the birth of the Communist Party of Vietnam. [Source: http://baotanglichsu.vn/vi/Articles/3096/12467/su-thanh-lap-hoi-viet-nam-cach-mang-thanh-nien-6-1925.html]
@@ -4890,25 +4890,25 @@
 *Source: Nguyen Ai Quoc in the Soviet Union, 1923 — two years before the League founding / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-1509 -->
-*   **Summer 1925:** Recommended by Comrade Nguyen Ai Quoc, Le Hong Phong (Le Huy Doan), along with Le Hong Son and Le Quang Dat, enrolled in the second class of the Whampoa Military Academy (Guangzhou, China), initiating the formal military officer training for the Vietnamese revolution.
+*   **Summer 1925:** Recommended by Comrade Nguyen Ai Quoc, Le Hong Phong (Le Huy Doan), along with Le Hong Son and Le Quang Dat, enrolled in the second class of the Whampoa Military Academy (Guangzhou, China), initiating the formal military officer training for the Vietnamese revolution. [Source: Comrade Le Hong Phong – Outstanding Leader of the Party (Nhan Dan Newspaper), https://nhandan.vn/dong-chi-le-hong-phong-nha-lanh-dao-xuat-sac-cua-dang-va-cach-mang-viet-nam-post713500.html]
 
 <!-- id: EVT-1510 -->
-*   **Jun. 21, 1925:** The weekly newspaper *Thanh nien* (Youth), the organ of the Vietnamese Revolutionary Youth League, published its first issue.
+*   **Jun. 21, 1925:** The weekly newspaper *Thanh nien* (Youth), the organ of the Vietnamese Revolutionary Youth League, published its first issue. [Source: Thanh Nien Weekly – First Proletarian Revolutionary Journal of Vietnam (Nhan Dan Newspaper), https://nhandan.vn/tuan-bao-thanh-nien-to-bao-cach-mang-dau-tien-post652100.html]
 
 <!-- id: EVT-1511 -->
 *   **Jun. 30, 1925:** Phan Boi Chau was kidnapped by French colonialists in Shanghai. [Source: Vietnam National Museum of History - Solemn 84th Anniversary Memorial of Patriot Phan Boi Chau, https://baotanglichsu.vn/vi/Articles/3091/75017/trang-trong-le-gio-lan-thu-84-cua-chi-si-yeu-nuoc-phan-boi-chau.html]
 
 <!-- id: EVT-1512 -->
-*   **Aug. 1925:** A strike by over 1,000 workers at the Ba Son shipyard (Saigon), led by Ton Duc Thang, delayed the repair of the French battleship Jules Michelet.
+*   **Aug. 1925:** A strike by over 1,000 workers at the Ba Son shipyard (Saigon), led by Ton Duc Thang, delayed the repair of the French battleship Jules Michelet. [Source: The 1925 Ba Son Strike (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13907/bai-cong-ba-son.html]
 
 <!-- id: EVT-1513 -->
-*   **Nov. 6, 1925 (20th day of the 9th lunar month, At Suu year):** Emperor Khai Dinh passed away from tuberculosis at Kien Trung Palace inside the Hue Imperial Citadel at age 40 after a nine-year reign, and was entombed in the Ung Lang mausoleum.
+*   **Nov. 6, 1925 (20th day of the 9th lunar month, At Suu year):** Emperor Khai Dinh passed away from tuberculosis at Kien Trung Palace inside the Hue Imperial Citadel at age 40 after a nine-year reign, and was entombed in the Ung Lang mausoleum. [Source: Emperor Khai Dinh (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13776/vua-khai-dinh.html]
 
 <!-- id: EVT-1514 -->
 *   **Nov. 23, 1925:** The French colonialists put Phan Boi Chau on trial in Hanoi, sparking a large mass movement demanding his release. [Source: Vietnam National Museum of History - Solemn 84th Anniversary Memorial of Patriot Phan Boi Chau, https://baotanglichsu.vn/vi/Articles/3091/75017/trang-trong-le-gio-lan-thu-84-cua-chi-si-yeu-nuoc-phan-boi-chau.html]
 
 <!-- id: EVT-1515 -->
-*   **Dec. 24, 1925:** Governor-General Varenne signed an order "pardoning" and placing Phan Boi Chau under house arrest in Hue.
+*   **Dec. 24, 1925:** Governor-General Varenne signed an order "pardoning" and placing Phan Boi Chau under house arrest in Hue. [Source: Phan Boi Chau (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13903/phan-boi-chau-nha-chi-si-yeu-nuoc.html]
 
 <!-- id: EVT-1516 -->
 *   **1926:** Huynh Thuc Khang was elected as a representative and subsequently chosen as President of the People's Representative Assembly of Annam (Chambre des Représentants du Peuple de l'Annam), utilizing the platform to vigorously defend citizens' rights and demand fundamental democratic freedoms.

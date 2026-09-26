@@ -4485,25 +4485,25 @@
 *   **03/09/1907 (Đinh Mùi):** Thực dân Pháp ép vua Thành Thái phải thoái vị với cớ 'bệnh tâm thần' do nhà vua kiên quyết chống đối sự bảo hộ và luôn ủng hộ các sĩ phu yêu nước, sau đó đưa ông đi quản thúc tại Vũng Tàu. Đến ngày 05/09/1907, con trai nhà vua là Hoàng tử Vĩnh San (mới 7 tuổi) được đưa lên nối ngôi (vua Duy Tân). [Nguồn: Bảo tàng Lịch sử Quốc gia - Hoàng đế Thành Thái - Vị vua yêu nước của vương triều Nguyễn, https://baotanglichsu.vn/vi/Articles/3098/15571/hoang-dje-thanh-thai-vi-vua-yeu-nuoc-cua-vuong-trieu-nguyen.html]
 
 <!-- id: EVT-1384 -->
-*   **10/11/1907:** Đại học Đông Dương khai giảng khóa đầu tiên.
+*   **10/11/1907:** Đại học Đông Dương khai giảng khóa đầu tiên. [Nguồn: Lịch sử Việt Nam (Tập 7: 1897–1918), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1385 -->
-*   **1908:** Bài *Thiết tiền ca* của Nguyễn Phan Lăng (Đoàn Xuyên) được phổ biến, kêu gọi tẩy chay tiền sắt của Pháp, gây ảnh hưởng lớn đến chính sách kinh tế của thực dân.
+*   **1908:** Bài *Thiết tiền ca* của Nguyễn Phan Lăng (Đoàn Xuyên) được phổ biến, kêu gọi tẩy chay tiền sắt của Pháp, gây ảnh hưởng lớn đến chính sách kinh tế của thực dân. [Nguồn: Nguyễn Q. Thắng, Phong trào Duy Tân và các gương mặt tiêu biểu, NXB Văn hóa Thông tin, Hà Nội, 2006]
 
 <!-- id: EVT-1386 -->
 *   **1908:** Thực dân Pháp và Nam triều đàn áp đẫm máu phong trào. Tiến sĩ **Trần Quý Cáp** bị xử chém tại Khánh Hòa; **Lê Khiết** và **Nguyễn Bá Loan** bị xử chém tại Quảng Ngãi. **Phan Châu Trinh** bị bắt, kết án tử hình rồi giảm án thành đày ra Côn Đảo. [Nguồn: Bảo tàng Lịch sử Quốc gia - Chí sĩ Trần Quý Cáp – người thầy “khai dân trí, chấn dân khí” truyền lửa yêu nước, https://baotanglichsu.vn/vi/Articles/3098/72869/chi-si-tran-quy-cap-nguoi-thay-khai-dan-tri-chan-dan-khi-truyen-lua-yeu-nuoc.html]
 
 <!-- id: EVT-1387 -->
-*   **1908:** Do tham gia lãnh đạo phong trào Duy Tân và phong trào chống sưu thuế ở Trung Kỳ, Huỳnh Thúc Kháng bị thực dân Pháp bắt giam và kết án đày ra nhà tù Côn Đảo với mức án 13 năm khổ sai.
+*   **1908:** Do tham gia lãnh đạo phong trào Duy Tân và phong trào chống sưu thuế ở Trung Kỳ, Huỳnh Thúc Kháng bị thực dân Pháp bắt giam và kết án đày ra nhà tù Côn Đảo với mức án 13 năm khổ sai. [Nguồn: Chí sĩ yêu nước Huỳnh Thúc Kháng (Báo Nhân Dân), https://nhandan.vn/chi-si-yeu-nuoc-huynh-thuc-khang-nha-lanh-dao-tien-boi-tieu-bieu-cua-dang-va-cach-mang-viet-nam-post670559.html]
 
 <!-- id: EVT-1388 -->
-*   **01/1908:** Thực dân Pháp thu giấy phép của Đông Kinh Nghĩa Thục vì lo ngại phong trào làm náo động lòng dân.
+*   **01/1908:** Thực dân Pháp thu giấy phép của Đông Kinh Nghĩa Thục vì lo ngại phong trào làm náo động lòng dân. [Nguồn: Đông Kinh Nghĩa Thục (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13904/dong-kinh-nghia-thuc.html]
 
 <!-- id: EVT-1389 -->
-*   **11/03/1908:** Phong trào "xin xâu" (chống sưu thuế) bùng nổ khi hàng ngàn nông dân huyện Đại Lộc (Quảng Nam) kéo về Tòa sứ Hội An biểu tình đòi giảm sưu thuế và lao dịch, mở đầu phong trào biểu tình chống sưu thuế rầm rộ lan rộng khắp các tỉnh Trung Kỳ (Quảng Nam, Quảng Ngãi, Bình Định, Thừa Thiên, Phú Yên...).
+*   **11/03/1908:** Phong trào "xin xâu" (chống sưu thuế) bùng nổ khi hàng ngàn nông dân huyện Đại Lộc (Quảng Nam) kéo về Tòa sứ Hội An biểu tình đòi giảm sưu thuế và lao dịch, mở đầu phong trào biểu tình chống sưu thuế rầm rộ lan rộng khắp các tỉnh Trung Kỳ (Quảng Nam, Quảng Ngãi, Bình Định, Thừa Thiên, Phú Yên...). [Nguồn: Lịch sử Việt Nam (Tập 7: 1897–1918), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1390 -->
-*   **04/1908:** Trong phong trào chống sưu thuế sôi nổi của nhân dân Trung Kỳ, người thanh niên yêu nước Nguyễn Tất Thành tham gia cuộc biểu tình của nông dân tại kinh thành Huế và làm người thông ngôn chuyển đạt nguyện vọng giảm sưu thuế trước Tòa Khâm sứ Pháp.
+*   **04/1908:** Trong phong trào chống sưu thuế sôi nổi của nhân dân Trung Kỳ, người thanh niên yêu nước Nguyễn Tất Thành tham gia cuộc biểu tình của nông dân tại kinh thành Huế và làm người thông ngôn chuyển đạt nguyện vọng giảm sưu thuế trước Tòa Khâm sứ Pháp. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1391 -->
 *   **27/06/1908:** Vụ "Hà thành đầu độc" nổ ra, một nhóm binh lính người Việt và các nhà yêu nước mưu đồ đầu độc binh lính Pháp ở Hà Nội và khởi nghĩa nhưng thất bại. [Nguồn: Bảo tàng Lịch sử Quốc gia - Nhìn lại vụ binh biến Hà Thành 1908, https://baotanglichsu.vn/vi/Articles/3096/11569/nhin-lai-vu-binh-bien-ha-thanh-1908.html]
@@ -4512,37 +4512,37 @@
 *   **09/1908:** Pháp và Nhật ký hiệp ước, theo đó chính phủ Nhật trục xuất các nhà yêu nước và du học sinh Việt Nam, Phong trào Đông du tan rã. [Nguồn: Bảo tàng Lịch sử Quốc gia - Phong trào Đông Du (1905 – 1908) - Một hình thức xây dựng lực lượng cách mạng những năm đầu thế kỷ XX, https://baotanglichsu.vn/vi/Articles/3097/14624/phong-trao-djongdu-1905-1908-mot-hinh-thuc-xay-dung-luc-luong-cach-mang-nhung-namdjau-the-ky-xx.html]
 
 <!-- id: EVT-1393 -->
-*   **12/1908:** Thực dân Pháp ra lệnh đóng cửa trường Đông Kinh Nghĩa thục và đàn áp những người tham gia.
+*   **12/1908:** Thực dân Pháp ra lệnh đóng cửa trường Đông Kinh Nghĩa thục và đàn áp những người tham gia. [Nguồn: Đông Kinh Nghĩa Thục (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13904/dong-kinh-nghia-thuc.html]
 
 <!-- id: EVT-1394 -->
-*   **05/02/1909 (Rằm tháng Giêng năm Kỷ Dậu):** Nhà thơ lớn Nguyễn Khuyến (Tam Nguyên Yên Đổ) qua đời tại quê nhà Yên Đổ (Hà Nam), thọ 74 tuổi, để lại di sản thơ văn Hán - Nôm đồ sộ phản ánh sâu sắc đời sống nông thôn và nỗi đau mất nước.
+*   **05/02/1909 (Rằm tháng Giêng năm Kỷ Dậu):** Nhà thơ lớn Nguyễn Khuyến (Tam Nguyên Yên Đổ) qua đời tại quê nhà Yên Đổ (Hà Nam), thọ 74 tuổi, để lại di sản thơ văn Hán - Nôm đồ sộ phản ánh sâu sắc đời sống nông thôn và nỗi đau mất nước. [Nguồn: Từ điển văn học (bộ mới), NXB Thế giới, Hà Nội, 2004]
 
 <!-- id: EVT-1395 -->
-*   **27/03/1909:** Ông Nguyễn Tuất, cha đẻ của liệt sĩ "Lượm" (Nguyễn Thanh), sinh ra tại Lai Trung, xã Quảng Thọ, huyện Quảng Điền, tỉnh Bình Trị Thiên (nay là Thừa Thiên - Huế). Ông sau này làm hộ tống viên bưu điện và công tác ở nhiều nơi như Quy Nhơn, Nha Trang.
+*   **27/03/1909:** Ông Nguyễn Tuất, cha đẻ của liệt sĩ "Lượm" (Nguyễn Thanh), sinh ra tại Lai Trung, xã Quảng Thọ, huyện Quảng Điền, tỉnh Bình Trị Thiên (nay là Thừa Thiên - Huế). Ông sau này làm hộ tống viên bưu điện và công tác ở nhiều nơi như Quy Nhơn, Nha Trang. [Nguồn: Bảo tàng Lịch sử Quân sự Việt Nam, Kỷ yếu Anh hùng Lực lượng Vũ trang Nhân dân, Hà Nội]
 
 <!-- id: EVT-1396 -->
-*   **06/06/1909:** Tổng đốc Lưỡng Quảng (Trung Quốc) phái một đoàn thám hiểm ngắn ngày, do Thủy sư Đô đốc Lý Chuẩn chỉ huy, đổ bộ chớp nhoáng (24 giờ) lên vài đảo thuộc quần đảo Hoàng Sa để bắn đại bác và kéo cờ Trung Quốc. Pháp đã không có phản kháng chính thức nào vào thời điểm đó.
+*   **06/06/1909:** Tổng đốc Lưỡng Quảng (Trung Quốc) phái một đoàn thám hiểm ngắn ngày, do Thủy sư Đô đốc Lý Chuẩn chỉ huy, đổ bộ chớp nhoáng (24 giờ) lên vài đảo thuộc quần đảo Hoàng Sa để bắn đại bác và kéo cờ Trung Quốc. Pháp đã không có phản kháng chính thức nào vào thời điểm đó. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1397 -->
-*   **01/07/1909:** Cụ Phó bảng Nguyễn Sinh Sắc được triều đình bổ nhiệm làm Tri huyện Bình Khê (tỉnh Bình Định). Trong thời gian tại vị, cụ luôn đứng về phía người nghèo, trừng trị bọn cường hào ức hiếp dân lành với quan niệm "Quan trường thị nô lệ trung chi nô lệ, hựu nô lệ" (Làm quan là nô lệ trong những kẻ nô lệ, lại càng nô lệ hơn).
+*   **01/07/1909:** Cụ Phó bảng Nguyễn Sinh Sắc được triều đình bổ nhiệm làm Tri huyện Bình Khê (tỉnh Bình Định). Trong thời gian tại vị, cụ luôn đứng về phía người nghèo, trừng trị bọn cường hào ức hiếp dân lành với quan niệm "Quan trường thị nô lệ trung chi nô lệ, hựu nô lệ" (Làm quan là nô lệ trong những kẻ nô lệ, lại càng nô lệ hơn). [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1398 -->
-*   **08/1909 - 01/1910:** Cuộc khởi nghĩa của đồng bào Mường ở Hòa Bình do Đốc Bang và Tổng Kiêm lãnh đạo.
+*   **08/1909 - 01/1910:** Cuộc khởi nghĩa của đồng bào Mường ở Hòa Bình do Đốc Bang và Tổng Kiêm lãnh đạo. [Nguồn: Lịch sử Đảng bộ tỉnh Hòa Bình (Tập 1), NXB Chính trị Quốc gia, Hà Nội]
 
 <!-- id: EVT-1399 -->
-*   **09/1910:** Sau thời gian dạy học truyền bá tư tưởng yêu nước tại Trường Dục Thanh (Phan Thiết), thầy giáo Nguyễn Tất Thành rời Dục Thanh, đi ghe bầu của Công ty Liên Thành vào Sài Gòn, lưu trú tại các cơ sở của công ty và làm việc để chuẩn bị cho hành trình ra nước ngoài tìm đường cứu nước.
+*   **09/1910:** Sau thời gian dạy học truyền bá tư tưởng yêu nước tại Trường Dục Thanh (Phan Thiết), thầy giáo Nguyễn Tất Thành rời Dục Thanh, đi ghe bầu của Công ty Liên Thành vào Sài Gòn, lưu trú tại các cơ sở của công ty và làm việc để chuẩn bị cho hành trình ra nước ngoài tìm đường cứu nước. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1400 -->
-*   **1911:** Dục Thanh học hiệu đóng cửa sau 5 năm hoạt động. Công ty Liên Thành đã hỗ trợ Nguyễn Tất Thành 18 đồng bạc Đông Dương làm lộ phí cho chuyến đi tìm đường cứu nước.
+*   **1911:** Dục Thanh học hiệu đóng cửa sau 5 năm hoạt động. Công ty Liên Thành đã hỗ trợ Nguyễn Tất Thành 18 đồng bạc Đông Dương làm lộ phí cho chuyến đi tìm đường cứu nước. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1401 -->
-*   **1911:** Phan Châu Trinh được trả tự do từ Côn Đảo nhờ sự can thiệp của Hội Nhân quyền Pháp, sau đó ông cùng con trai sang Pháp và viết tác phẩm *Trung Kỳ dân biến thỉ mạt ký*.
+*   **1911:** Phan Châu Trinh được trả tự do từ Côn Đảo nhờ sự can thiệp của Hội Nhân quyền Pháp, sau đó ông cùng con trai sang Pháp và viết tác phẩm *Trung Kỳ dân biến thỉ mạt ký*. [Nguồn: Nguyễn Q. Thắng, Phan Châu Trinh – Cuộc đời và tác phẩm, NXB Văn học, Hà Nội, 2002]
 
 <!-- id: EVT-1402 -->
-*   **1911 - 1912:** Làm việc trên các tàu buôn của Pháp, Nguyễn Tất Thành tiếp tục hải trình qua nhiều đại dương, cập bến các hải cảng và xứ thuộc địa tại châu Phi (Sénégal, Gabon, Dahomey/Benin, Djibouti, Algeria, Réunion, Madagascar) và châu Mỹ (Martinique, Uruguay, Argentina), trực tiếp chứng kiến nỗi thống khổ và tình cảnh nô lệ chung của các dân tộc bị áp bức.
+*   **1911 - 1912:** Làm việc trên các tàu buôn của Pháp, Nguyễn Tất Thành tiếp tục hải trình qua nhiều đại dương, cập bến các hải cảng và xứ thuộc địa tại châu Phi (Sénégal, Gabon, Dahomey/Benin, Djibouti, Algeria, Réunion, Madagascar) và châu Mỹ (Martinique, Uruguay, Argentina), trực tiếp chứng kiến nỗi thống khổ và tình cảnh nô lệ chung của các dân tộc bị áp bức. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1403 -->
-*   **05/1911:** Trước ngày rời Bến cảng Nhà Rồng sang phương Tây tìm đường cứu nước, người thanh niên yêu nước Nguyễn Tất Thành đã có cuộc chia tay đầy lưu luyến tại Sài Gòn với bà Lê Thị Huệ (Út Huệ) — người con gái mang mối tình đầu trong sáng, son sắt thời thanh niên của Người. Cuộc chia ly lịch sử vì nghĩa lớn giải phóng dân tộc cùng kỷ vật chiếc lược sau này được nhà văn Sơn Tùng khắc họa sâu sắc trong tác phẩm *Búp sen xanh*, trở thành biểu tượng cảm động trong văn học và lịch sử Việt Nam.
+*   **05/1911:** Trước ngày rời Bến cảng Nhà Rồng sang phương Tây tìm đường cứu nước, người thanh niên yêu nước Nguyễn Tất Thành đã có cuộc chia tay đầy lưu luyến tại Sài Gòn với bà Lê Thị Huệ (Út Huệ) — người con gái mang mối tình đầu trong sáng, son sắt thời thanh niên của Người. Cuộc chia ly lịch sử vì nghĩa lớn giải phóng dân tộc cùng kỷ vật chiếc lược sau này được nhà văn Sơn Tùng khắc họa sâu sắc trong tác phẩm *Búp sen xanh*, trở thành biểu tượng cảm động trong văn học và lịch sử Việt Nam. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1404 -->
 *   **05/06/1911:** Từ Bến cảng Nhà Rồng (Sài Gòn), người thanh niên yêu nước Nguyễn Tất Thành lấy tên là **Văn Ba** (anh Ba), lên con tàu buôn Pháp *Amiral Latouche-Tréville* nhận làm phụ bếp, bắt đầu cuộc hành trình lịch sử 30 năm bôn ba qua gần 30 quốc gia trên khắp 4 châu lục tìm con đường giải phóng dân tộc. [Nguồn: https://nhandan.vn/ngay-5-6-1911-nguoi-thanh-nien-nguyen-tat-thanh-ra-di-tim-duong-cuu-nuoc-post649362.html]
@@ -4556,331 +4556,331 @@
 *Nguồn: Bến Nhà Rồng – Bảo tàng Hồ Chí Minh tại TP. Hồ Chí Minh (Ảnh: Gary Todd / CC0)*
 
 <!-- id: EVT-1405 -->
-*   **06/07/1911:** Tàu *Amiral Latouche-Tréville* cập cảng Marseille (Pháp). Nguyễn Tất Thành (Văn Ba) lần đầu tiên đặt chân lên đất Pháp sau khi vượt hải trình qua các cảng Singapore, Colombo (Sri Lanka) và Port Said (Ai Cập), bắt đầu quá trình khảo sát trực tiếp xã hội phương Tây.
+*   **06/07/1911:** Tàu *Amiral Latouche-Tréville* cập cảng Marseille (Pháp). Nguyễn Tất Thành (Văn Ba) lần đầu tiên đặt chân lên đất Pháp sau khi vượt hải trình qua các cảng Singapore, Colombo (Sri Lanka) và Port Said (Ai Cập), bắt đầu quá trình khảo sát trực tiếp xã hội phương Tây. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1406 -->
 *   **25/08/1911:** Đại tướng Võ Nguyên Giáp (tên khai sinh: Võ Giáp, bí danh Văn) sinh ra tại làng An Xá, xã Lộc Thủy, huyện Lệ Thủy, tỉnh Quảng Bình. Ông là nhà chỉ huy quân sự và chính khách lỗi lạc, Đại tướng đầu tiên và Tổng Tư lệnh tối cao của Quân đội Nhân dân Việt Nam, người học trò xuất sắc và gần gũi của Chủ tịch Hồ Chí Minh, một trong những danh tướng kiệt xuất của thế giới trong thế kỷ XX. [Nguồn: https://baochinhphu.vn/tom-tat-tieu-su-dai-tuong-vo-nguyen-giap-102150438.htm]
 
 <!-- id: EVT-1407 -->
-*   **11/1911:** Albert Sarraut nhậm chức Toàn quyền, tiếp tục đẩy mạnh chính sách "hợp tác" và các cải cách mị dân.
+*   **11/1911:** Albert Sarraut nhậm chức Toàn quyền, tiếp tục đẩy mạnh chính sách "hợp tác" và các cải cách mị dân. [Nguồn: Lịch sử Việt Nam (Tập 7: 1897–1918), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1408 -->
-*   **18/11/1911:** Đạo Tin Lành đặt cơ sở đầu tiên tại Đà Nẵng, chính thức du nhập vào Việt Nam.
+*   **18/11/1911:** Đạo Tin Lành đặt cơ sở đầu tiên tại Đà Nẵng, chính thức du nhập vào Việt Nam. [Nguồn: Ban Tôn giáo Chính phủ, Các tôn giáo ở Việt Nam, NXB Tôn giáo, Hà Nội, 2015]
 
 <!-- id: EVT-1409 -->
 *   **05/1912:** Phan Bội Châu thành lập Hội Việt Nam Quang Phục tại Quảng Châu (Trung Quốc), chuyển từ chủ trương quân chủ lập hiến sang dân chủ cộng hòa. [Nguồn: Bảo tàng Lịch sử Quốc gia - Duy Tân hội - Một tổ chức chống Pháp những năm đầu thế kỷ XX ở Việt Nam, https://baotanglichsu.vn/vi/Articles/2001/68013/duy-tan-hoi-mot-to-chuc-chong-phap-nhung-nam-djau-the-ky-xx-o-viet-nam.html]
 
 <!-- id: EVT-1410 -->
-*   **Cuối năm 1912:** Nguyễn Tất Thành đến Hợp chúng quốc Hoa Kỳ, sinh sống và làm việc tại New York và Boston. Người làm thợ làm bánh tại Khách sạn Omni Parker House (Boston), tìm hiểu bản Tuyên ngôn Độc lập năm 1776 của Mỹ và theo dõi phong trào đấu tranh đòi quyền bình đẳng của người da màu tại khu Harlem (New York).
+*   **Cuối năm 1912:** Nguyễn Tất Thành đến Hợp chúng quốc Hoa Kỳ, sinh sống và làm việc tại New York và Boston. Người làm thợ làm bánh tại Khách sạn Omni Parker House (Boston), tìm hiểu bản Tuyên ngôn Độc lập năm 1776 của Mỹ và theo dõi phong trào đấu tranh đòi quyền bình đẳng của người da màu tại khu Harlem (New York). [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1411 -->
-*   **1913:** Tuyến đường sắt Bắc - Nam về cơ bản được hoàn thành, nối liền Hà Nội và Sài Gòn.
+*   **1913:** Tuyến đường sắt Bắc - Nam về cơ bản được hoàn thành, nối liền Hà Nội và Sài Gòn. [Nguồn: Lịch sử Đường sắt Việt Nam (Tổng công ty Đường sắt Việt Nam), https://vr.com.vn/lich-su-phat-trien.html]
 
 <!-- id: EVT-1412 -->
-*   **1913 - 1917:** Nguyễn Tất Thành sang Vương quốc Anh sinh sống và làm việc tại London dưới tên gọi **Paul Thành**. Người trải qua nhiều nghề lao động vất vả như cào tuyết tại một trường học, thợ đốt lò, rồi phụ bếp tại Khách sạn sang trọng Carlton dưới sự chỉ dẫn của bếp trưởng huyền thoại Auguste Escoffier; đồng thời tự học tiếng Anh và gia nhập Hội những người lao động hải ngoại (Overseas Workers Association).
+*   **1913 - 1917:** Nguyễn Tất Thành sang Vương quốc Anh sinh sống và làm việc tại London dưới tên gọi **Paul Thành**. Người trải qua nhiều nghề lao động vất vả như cào tuyết tại một trường học, thợ đốt lò, rồi phụ bếp tại Khách sạn sang trọng Carlton dưới sự chỉ dẫn của bếp trưởng huyền thoại Auguste Escoffier; đồng thời tự học tiếng Anh và gia nhập Hội những người lao động hải ngoại (Overseas Workers Association). [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1413 -->
 *   **10/02/1913:** Thủ lĩnh phong trào khởi nghĩa Yên Thế Hoàng Hoa Thám (Đề Thám) bị tay sai của thực dân Pháp sát hại, đánh dấu sự kết thúc của cuộc khởi nghĩa vũ trang nông dân bền bỉ nhất chống ách đô hộ của Pháp (1884 - 1913). [Nguồn: https://tuoitre.vn/sach-giai-ma-nhieu-bi-an-trong-cuoc-doi-hoang-hoa-tham-594552.htm]
 
 <!-- id: EVT-1414 -->
-*   **19/04/1913:** Thành viên của Việt Nam Quang Phục Hội (Phạm Văn Tráng) ám sát Tuần phủ Thái Bình Nguyễn Duy Hàn.
+*   **19/04/1913:** Thành viên của Việt Nam Quang Phục Hội (Phạm Văn Tráng) ám sát Tuần phủ Thái Bình Nguyễn Duy Hàn. [Nguồn: Lịch sử Việt Nam (Tập 7: 1897–1918), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1415 -->
-*   **26/04/1913:** Một vụ ném bom khác xảy ra tại Khách sạn Hà Nội, giết chết 2 sĩ quan Pháp.
+*   **26/04/1913:** Một vụ ném bom khác xảy ra tại Khách sạn Hà Nội, giết chết 2 sĩ quan Pháp. [Nguồn: Lịch sử Việt Nam (Tập 7: 1897–1918), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1416 -->
-*   **24/12/1913:** Phan Bội Châu bị bắt tại Quảng Đông, Trung Quốc.
+*   **24/12/1913:** Phan Bội Châu bị bắt tại Quảng Đông, Trung Quốc. [Nguồn: Phan Bội Châu (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13903/phan-boi-chau-nha-chi-si-yeu-nuoc.html]
 
 <!-- id: EVT-1417 -->
 
 ### **Giai đoạn Chiến tranh Thế giới thứ nhất (1914 - 1918)**
 
-*   **1914:** Nhà hoạt động cách mạng, liệt sĩ tiền khởi nghĩa Vũ Quý sinh ra tại thôn Cống Mỹ, xã Nam Sơn, huyện An Dương, Hải Phòng. Ông là cán bộ cốt cán của Việt Minh, Quyền Bí thư Ban cán sự Đảng Hà Nội, người có công lớn trong việc giác ngộ, vận động các trí thức, văn nghệ sĩ tham gia Hội Văn hóa Cứu quốc và trực tiếp giao nhiệm vụ cho nhạc sĩ Văn Cao sáng tác bài "Tiến quân ca".
+*   **1914:** Nhà hoạt động cách mạng, liệt sĩ tiền khởi nghĩa Vũ Quý sinh ra tại thôn Cống Mỹ, xã Nam Sơn, huyện An Dương, Hải Phòng. Ông là cán bộ cốt cán của Việt Minh, Quyền Bí thư Ban cán sự Đảng Hà Nội, người có công lớn trong việc giác ngộ, vận động các trí thức, văn nghệ sĩ tham gia Hội Văn hóa Cứu quốc và trực tiếp giao nhiệm vụ cho nhạc sĩ Văn Cao sáng tác bài "Tiến quân ca". [Nguồn: Lịch sử Đảng bộ thành phố Hà Nội (1930–2010), NXB Hà Nội, 2010]
 
 <!-- id: EVT-1418 -->
-*   **01/01/1914:** Đại tướng Nguyễn Chí Thanh (tên khai sinh là Nguyễn Vịnh) sinh ra tại làng Niêm Phò, huyện Quảng Điền, tỉnh Thừa Thiên Huế. Ông là nhà lãnh đạo chính trị, quân sự lỗi lạc của Đảng và Quân đội nhân dân Việt Nam, người học trò xuất sắc của Chủ tịch Hồ Chí Minh, từng giữ chức Chủ nhiệm Tổng cục Chính trị và Bí thư Trung ương Cục miền Nam.
+*   **01/01/1914:** Đại tướng Nguyễn Chí Thanh (tên khai sinh là Nguyễn Vịnh) sinh ra tại làng Niêm Phò, huyện Quảng Điền, tỉnh Thừa Thiên Huế. Ông là nhà lãnh đạo chính trị, quân sự lỗi lạc của Đảng và Quân đội nhân dân Việt Nam, người học trò xuất sắc của Chủ tịch Hồ Chí Minh, từng giữ chức Chủ nhiệm Tổng cục Chính trị và Bí thư Trung ương Cục miền Nam. [Nguồn: Đại tướng Nguyễn Chí Thanh – Nhà chính trị, quân sự lỗi lạc (Báo Nhân Dân), https://nhandan.vn/dai-tuong-nguyen-chi-thanh-nha-chinh-tri-quan-su-loi-lac-post790123.html]
 
 <!-- id: EVT-1419 -->
-*   **03/08/1914:** Pháp tham chiến trong Chiến tranh Thế giới thứ nhất, bắt đầu tăng cường vơ vét sức người sức của ở Đông Dương.
+*   **03/08/1914:** Pháp tham chiến trong Chiến tranh Thế giới thứ nhất, bắt đầu tăng cường vơ vét sức người sức của ở Đông Dương. [Nguồn: Lịch sử Việt Nam (Tập 7: 1897–1918), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1420 -->
-*   **10/11/1914:** Bùng nổ cuộc khởi nghĩa Sầm Nưa do Chậu Mương Khăm Bàng lãnh đạo phối hợp cùng đồng bào các dân tộc thiểu số vùng Tây Bắc và Thượng Lào chống thực dân Pháp, kéo dài đến giai đoạn 1916 - 1917.
+*   **10/11/1914:** Bùng nổ cuộc khởi nghĩa Sầm Nưa do Chậu Mương Khăm Bàng lãnh đạo phối hợp cùng đồng bào các dân tộc thiểu số vùng Tây Bắc và Thượng Lào chống thực dân Pháp, kéo dài đến giai đoạn 1916 - 1917. [Nguồn: Lịch sử quan hệ đặc biệt Việt Nam - Lào (1930–2007), NXB Chính trị Quốc gia, Hà Nội, 2011]
 
 <!-- id: EVT-1421 -->
-*   **1915 - 1916:** Thực dân Pháp bắt đầu chế độ "lính tình nguyện" (bắt lính) quy mô lớn ở Đông Dương để phục vụ cho Chiến tranh thế giới thứ nhất.
+*   **1915 - 1916:** Thực dân Pháp bắt đầu chế độ "lính tình nguyện" (bắt lính) quy mô lớn ở Đông Dương để phục vụ cho Chiến tranh thế giới thứ nhất. [Nguồn: Lịch sử Việt Nam (Tập 7: 1897–1918), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1422 -->
-*   **1915:** Kỳ thi Hương cuối cùng được tổ chức ở Bắc Kỳ, đánh dấu sự kết thúc của nền khoa cử Nho học tại đây.
+*   **1915:** Kỳ thi Hương cuối cùng được tổ chức ở Bắc Kỳ, đánh dấu sự kết thúc của nền khoa cử Nho học tại đây. [Nguồn: Nguyễn Phan Quang, Lịch sử Việt Nam (1858–1945), NXB Giáo dục, Hà Nội]
 
 <!-- id: EVT-1423 -->
-*   **13/03/1915:** Nghĩa quân của Hội Việt Nam Quang Phục tấn công đồn Tà Lùng (Lạng Sơn) nhưng thất bại.
+*   **13/03/1915:** Nghĩa quân của Hội Việt Nam Quang Phục tấn công đồn Tà Lùng (Lạng Sơn) nhưng thất bại. [Nguồn: Lịch sử Việt Nam (Tập 7: 1897–1918), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1424 -->
-*   **28/09/1915:** Tù nhân chính trị ở nhà tù Lao Bảo do Hồ Bá Kiện và Liêu Thanh lãnh đạo nổi dậy phá ngục.
+*   **28/09/1915:** Tù nhân chính trị ở nhà tù Lao Bảo do Hồ Bá Kiện và Liêu Thanh lãnh đạo nổi dậy phá ngục. [Nguồn: Di tích lịch sử Nhà tù Lao Bảo (Cổng TTĐT tỉnh Quảng Trị), https://quangtri.gov.vn/]
 
 <!-- id: EVT-1425 -->
-*   **1916:** Đinh Thị Vân (tên thật là Đinh Thị Mậu) sinh ra tại làng Đông An, huyện Xuân Trường, tỉnh Nam Định. Bà sau này trở thành nữ đại tá tình báo huyền thoại và Anh hùng Lực lượng vũ trang nhân dân.
+*   **1916:** Đinh Thị Vân (tên thật là Đinh Thị Mậu) sinh ra tại làng Đông An, huyện Xuân Trường, tỉnh Nam Định. Bà sau này trở thành nữ đại tá tình báo huyền thoại và Anh hùng Lực lượng vũ trang nhân dân. [Nguồn: Nữ tình báo Đinh Thị Vân (Báo Nhân Dân), https://nhandan.vn/nu-tinh-bao-dinh-thi-van-huyen-thoai-trong-long-dich-post645210.html]
 
 <!-- id: EVT-1426 -->
-*   **1916:** Nhà thơ Tản Đà (Nguyễn Khắc Hiếu) xuất bản tập thơ *Khối tình con I* và tác phẩm *Giấc mộng con I*, tạo nên một hiện tượng văn học lớn đầu thế kỷ XX, được xem là gạch nối mở đường cho sự chuyển biến từ văn học cổ điển sang thi ca hiện đại Việt Nam.
+*   **1916:** Nhà thơ Tản Đà (Nguyễn Khắc Hiếu) xuất bản tập thơ *Khối tình con I* và tác phẩm *Giấc mộng con I*, tạo nên một hiện tượng văn học lớn đầu thế kỷ XX, được xem là gạch nối mở đường cho sự chuyển biến từ văn học cổ điển sang thi ca hiện đại Việt Nam. [Nguồn: Từ điển văn học (bộ mới), NXB Thế giới, Hà Nội, 2004]
 
 <!-- id: EVT-1427 -->
-*   **15/02/1916:** Các hội kín ở Nam Kỳ tổ chức cuộc bạo động lớn tại Sài Gòn, mưu đồ phá Khám lớn để giải cứu Phan Xích Long nhưng thất bại.
+*   **15/02/1916:** Các hội kín ở Nam Kỳ tổ chức cuộc bạo động lớn tại Sài Gòn, mưu đồ phá Khám lớn để giải cứu Phan Xích Long nhưng thất bại. [Nguồn: Lịch sử Việt Nam (Tập 7: 1897–1918), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1428 -->
-*   **03/05/1916:** Cuộc khởi nghĩa do vua Duy Tân cùng Thái Phiên, Trần Cao Vân lãnh đạo bị bại lộ và thất bại. Vua Duy Tân bị bắt và bị đày sang đảo Réunion.
+*   **03/05/1916:** Cuộc khởi nghĩa do vua Duy Tân cùng Thái Phiên, Trần Cao Vân lãnh đạo bị bại lộ và thất bại. Vua Duy Tân bị bắt và bị đày sang đảo Réunion. [Nguồn: Vua Duy Tân và cuộc khởi nghĩa năm 1916 (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13775/vua-duy-tan.html]
 
 <!-- id: EVT-1429 -->
-*   **18/05/1916 (Bính Thìn):** Sau khi cuộc khởi nghĩa yêu nước của vua Duy Tân và tổ chức Quang Phục hội thất bại, thực dân Pháp phế truất và lưu đày nhà vua, đồng thời đưa Hoàng tử Phụng Hóa công Bửu Đảo (con trưởng vua Đồng Khánh) lên ngôi hoàng đế tại điện Thái Hòa, đặt niên hiệu Khải Định.
+*   **18/05/1916 (Bính Thìn):** Sau khi cuộc khởi nghĩa yêu nước của vua Duy Tân và tổ chức Quang Phục hội thất bại, thực dân Pháp phế truất và lưu đày nhà vua, đồng thời đưa Hoàng tử Phụng Hóa công Bửu Đảo (con trưởng vua Đồng Khánh) lên ngôi hoàng đế tại điện Thái Hòa, đặt niên hiệu Khải Định. [Nguồn: Vua Khải Định (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13776/vua-khai-dinh.html]
 
 <!-- id: EVT-1430 -->
-*   **08/1916:** Vua Khải Định ra lệnh cấm dân chúng mặc quần áo màu vàng và các màu gần với màu vàng để phân biệt tôn ti.
+*   **08/1916:** Vua Khải Định ra lệnh cấm dân chúng mặc quần áo màu vàng và các màu gần với màu vàng để phân biệt tôn ti. [Nguồn: Châu bản triều Nguyễn (Trung tâm Lưu trữ Quốc gia I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1431 -->
 *   **30/08/1917:** Cuộc khởi nghĩa Thái Nguyên bùng nổ do Trịnh Văn Cấn (Đội Cấn) và Lương Ngọc Quyến lãnh đạo. Nghĩa quân làm chủ tỉnh lỵ trong 6 ngày. [Nguồn: Bảo tàng Lịch sử Quốc gia - Cả gia đình hi sinh cho sự nghiệp canh tân đất nước, https://baotanglichsu.vn/vi/Articles/3098/18575/ca-gia-djinh-hi-sinh-cho-su-nghiep-canh-tan-djat-nuoc.html]
 
 <!-- id: EVT-1432 -->
-*   **05/09/1917:** Quân Pháp phản công và chiếm lại tỉnh lỵ Thái Nguyên.
+*   **05/09/1917:** Quân Pháp phản công và chiếm lại tỉnh lỵ Thái Nguyên. [Nguồn: Cuộc khởi nghĩa Thái Nguyên năm 1917 (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13905/khoi-nghia-thai-nguyen.html]
 
 <!-- id: EVT-1433 -->
-*   **Cuối năm 1917:** Nguyễn Tất Thành từ Anh trở lại Paris (Pháp) giữa bối cảnh Chiến tranh thế giới thứ nhất. Người tham gia phong trào công nhân Pháp, cùng các nhà yêu nước Phan Châu Trinh, Phan Văn Trường thành lập "Nhóm người An Nam yêu nước" tại Paris và bắt đầu sử dụng tên gọi **Nguyễn Ái Quốc** (Nguyễn người yêu nước).
+*   **Cuối năm 1917:** Nguyễn Tất Thành từ Anh trở lại Paris (Pháp) giữa bối cảnh Chiến tranh thế giới thứ nhất. Người tham gia phong trào công nhân Pháp, cùng các nhà yêu nước Phan Châu Trinh, Phan Văn Trường thành lập "Nhóm người An Nam yêu nước" tại Paris và bắt đầu sử dụng tên gọi **Nguyễn Ái Quốc** (Nguyễn người yêu nước). [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1434 -->
-*   **1918:** Kỳ thi Hương cuối cùng được tổ chức ở Trung Kỳ.
+*   **1918:** Kỳ thi Hương cuối cùng được tổ chức ở Trung Kỳ. [Nguồn: Nguyễn Phan Quang, Lịch sử Việt Nam (1858–1945), NXB Giáo dục, Hà Nội]
 
 <!-- id: EVT-1435 -->
-*   **11/01/1918:** Đội Cấn tự sát sau khi bị vây ráp, cuộc khởi nghĩa Thái Nguyên tan rã.
+*   **11/01/1918:** Đội Cấn tự sát sau khi bị vây ráp, cuộc khởi nghĩa Thái Nguyên tan rã. [Nguồn: Cuộc khởi nghĩa Thái Nguyên năm 1917 (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13905/khoi-nghia-thai-nguyen.html]
 
 <!-- id: EVT-1436 -->
-*   **03/1918:** Vua Khải Định thực hiện chuyến "Ngự giá Bắc tuần" đi thăm các tỉnh từ Quảng Trị ra đến Lạng Sơn, Hải Phòng.
+*   **03/1918:** Vua Khải Định thực hiện chuyến "Ngự giá Bắc tuần" đi thăm các tỉnh từ Quảng Trị ra đến Lạng Sơn, Hải Phòng. [Nguồn: Vua Khải Định (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13776/vua-khai-dinh.html]
 
 <!-- id: EVT-1437 -->
-*   **05/1918:** Toàn quyền Albert Sarraut phác thảo "Chương trình 5 năm hoạt động chính trị và kinh tế", đặt nền móng cho cuộc khai thác thuộc địa lần thứ hai.
+*   **05/1918:** Toàn quyền Albert Sarraut phác thảo "Chương trình 5 năm hoạt động chính trị và kinh tế", đặt nền móng cho cuộc khai thác thuộc địa lần thứ hai. [Nguồn: Lịch sử Việt Nam (Tập 7: 1897–1918), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1438 -->
-*   **02/05/1918:** (Âm lịch) Triều đình định lệ lấy ngày 2 tháng 5 làm lễ "Khánh niệm Hưng Quốc" (kỷ niệm ngày Thế Tổ Cao Hoàng đế Gia Long thống nhất đất nước), quan lại binh lính và nhân dân được nghỉ ngơi vui chơi.
+*   **02/05/1918:** (Âm lịch) Triều đình định lệ lấy ngày 2 tháng 5 làm lễ "Khánh niệm Hưng Quốc" (kỷ niệm ngày Thế Tổ Cao Hoàng đế Gia Long thống nhất đất nước), quan lại binh lính và nhân dân được nghỉ ngơi vui chơi. [Nguồn: Châu bản triều Nguyễn (Trung tâm Lưu trữ Quốc gia I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1439 -->
-*   **07/1918:** Cuộc khởi nghĩa của đồng bào HMông ở Lai Châu do Giàng Tả Chay lãnh đạo bùng nổ, lan rộng sang các tỉnh Tây Bắc và Thượng Lào.
+*   **07/1918:** Cuộc khởi nghĩa của đồng bào HMông ở Lai Châu do Giàng Tả Chay lãnh đạo bùng nổ, lan rộng sang các tỉnh Tây Bắc và Thượng Lào. [Nguồn: Lịch sử Đảng bộ tỉnh Lai Châu (Tập 1), NXB Chính trị Quốc gia, Hà Nội]
 
 <!-- id: EVT-1440 -->
-*   **11/11/1918:** Chiến tranh Thế giới thứ nhất kết thúc.
+*   **11/11/1918:** Chiến tranh Thế giới thứ nhất kết thúc. [Nguồn: Lịch sử thế giới hiện đại, NXB Giáo dục, Hà Nội, 2008]
 
 <!-- id: EVT-1441 -->
-*   **16/11/1918:** Nổ ra cuộc binh biến ở đồn Bình Liêu (Quảng Ninh) do Thàm Cam Say và các binh lính người Hoa, người Việt lãnh đạo, kéo dài đến tháng 6/1919.
+*   **16/11/1918:** Nổ ra cuộc binh biến ở đồn Bình Liêu (Quảng Ninh) do Thàm Cam Say và các binh lính người Hoa, người Việt lãnh đạo, kéo dài đến tháng 6/1919. [Nguồn: Lịch sử Đảng bộ tỉnh Quảng Ninh (Tập 1), NXB Chính trị Quốc gia, Hà Nội]
 
 <!-- id: EVT-1442 -->
 
 ### **Giai đoạn Vận động Cứu nước và Thành lập Đảng (1919 - 1930)**
 
-*   **1919:** Lò Văn Giá sinh ra tại bản Cọ, xã Chiềng An, châu Mường La (nay là phường Chiềng An, thành phố Sơn La) trong một gia đình dân tộc Thái nghèo. Ông sau này trở thành một người dẫn đường cách mạng xuất sắc và Anh hùng Lực lượng vũ trang nhân dân, nổi tiếng với sự thông minh, lòng dũng cảm và tinh thần trung thành tuyệt đối với cách mạng.
+*   **1919:** Lò Văn Giá sinh ra tại bản Cọ, xã Chiềng An, châu Mường La (nay là phường Chiềng An, thành phố Sơn La) trong một gia đình dân tộc Thái nghèo. Ông sau này trở thành một người dẫn đường cách mạng xuất sắc và Anh hùng Lực lượng vũ trang nhân dân, nổi tiếng với sự thông minh, lòng dũng cảm và tinh thần trung thành tuyệt đối với cách mạng. [Nguồn: Liệt sĩ Lò Văn Giá – Người con ưu tú của quê hương Sơn La (Báo Sơn La), https://baosonla.org.vn/]
 
 <!-- id: EVT-1443 -->
-*   **01/1919:** (Tháng Giêng năm Khải Định thứ 4) Chuẩn y lấy khoa thi Hội năm này làm "Ngự tứ ân khoa", đây là khoa thi Hội cuối cùng của triều đình.
+*   **01/1919:** (Tháng Giêng năm Khải Định thứ 4) Chuẩn y lấy khoa thi Hội năm này làm "Ngự tứ ân khoa", đây là khoa thi Hội cuối cùng của triều đình. [Nguồn: Châu bản triều Nguyễn (Trung tâm Lưu trữ Quốc gia I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1444 -->
-*   **02/1919:** Nguyễn Ái Quốc gia nhập Đảng Xã hội Pháp.
+*   **02/1919:** Nguyễn Ái Quốc gia nhập Đảng Xã hội Pháp. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1445 -->
-*   **05/02/1919:** Thành lập Hội Khai trí - Tiến đức (AFIMA) tại Hà Nội, một tổ chức văn hóa do thực dân Pháp bảo trợ nhằm thực hiện chính sách "Pháp-Việt đề huề".
+*   **05/02/1919:** Thành lập Hội Khai trí - Tiến đức (AFIMA) tại Hà Nội, một tổ chức văn hóa do thực dân Pháp bảo trợ nhằm thực hiện chính sách "Pháp-Việt đề huề". [Nguồn: Hội Khai trí Tiến đức trong lịch sử văn hóa Hà Nội (Tạp chí Xưa & Nay), Hà Nội]
 
 <!-- id: EVT-1446 -->
-*   **04/1919:** Kỳ thi Hội cuối cùng được tổ chức (gọi là Ngự tứ ân khoa) trước khi chế độ khoa cử chính thức bị bãi bỏ.
+*   **04/1919:** Kỳ thi Hội cuối cùng được tổ chức (gọi là Ngự tứ ân khoa) trước khi chế độ khoa cử chính thức bị bãi bỏ. [Nguồn: Nguyễn Phan Quang, Lịch sử Việt Nam (1858–1945), NXB Giáo dục, Hà Nội]
 
 <!-- id: EVT-1447 -->
-*   **18/04/1919:** Nghị định cho phép tuyển dụng nhân viên người Việt vào Văn phòng Phủ Toàn quyền.
+*   **18/04/1919:** Nghị định cho phép tuyển dụng nhân viên người Việt vào Văn phòng Phủ Toàn quyền. [Nguồn: Châu bản triều Nguyễn (Trung tâm Lưu trữ Quốc gia I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1448 -->
-*   **19/05/1919:** Sắc lệnh cho phép Toàn quyền Đông Dương thay đổi hệ thống tư pháp ở Trung Kỳ và Lào.
+*   **19/05/1919:** Sắc lệnh cho phép Toàn quyền Đông Dương thay đổi hệ thống tư pháp ở Trung Kỳ và Lào. [Nguồn: Châu bản triều Nguyễn (Trung tâm Lưu trữ Quốc gia I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1449 -->
-*   **14/06/1919:** Vua Khải Định ra Đạo dụ bãi bỏ các khoa thi và trường học chữ Hán, chấm dứt nền giáo dục khoa cử truyền thống.
+*   **14/06/1919:** Vua Khải Định ra Đạo dụ bãi bỏ các khoa thi và trường học chữ Hán, chấm dứt nền giáo dục khoa cử truyền thống. [Nguồn: Châu bản triều Nguyễn (Trung tâm Lưu trữ Quốc gia I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1450 -->
-*   **18/06/1919:** Thay mặt Hội Những người An Nam yêu nước tại Pháp, Nguyễn Ái Quốc gửi bản *Yêu sách của nhân dân An Nam* (gồm 8 điểm đòi các quyền tự do, dân chủ, bình đẳng cho nhân dân Đông Dương) đến Hội nghị Hòa bình Versailles, làm chấn động dư luận chính giới Pháp và quốc tế.
+*   **18/06/1919:** Thay mặt Hội Những người An Nam yêu nước tại Pháp, Nguyễn Ái Quốc gửi bản *Yêu sách của nhân dân An Nam* (gồm 8 điểm đòi các quyền tự do, dân chủ, bình đẳng cho nhân dân Đông Dương) đến Hội nghị Hòa bình Versailles, làm chấn động dư luận chính giới Pháp và quốc tế. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1451 -->
-*   **29/06/1919:** Sắc lệnh tái tổ chức Bộ Thuộc địa tại Pháp và thành lập Tổng Đại diện các thuộc địa, tăng cường sự kiểm soát của chính quốc.
+*   **29/06/1919:** Sắc lệnh tái tổ chức Bộ Thuộc địa tại Pháp và thành lập Tổng Đại diện các thuộc địa, tăng cường sự kiểm soát của chính quốc. [Nguồn: Lịch sử Việt Nam (Tập 8: 1919–1930), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1452 -->
-*   **08/1919:** Bùng nổ phong trào "Tẩy chay khách trú" (Hoa kiều) bắt đầu từ Sài Gòn rồi lan ra cả nước, thể hiện ý thức kinh tế dân tộc của giai cấp tư sản Việt Nam.
+*   **08/1919:** Bùng nổ phong trào "Tẩy chay khách trú" (Hoa kiều) bắt đầu từ Sài Gòn rồi lan ra cả nước, thể hiện ý thức kinh tế dân tộc của giai cấp tư sản Việt Nam. [Nguồn: Lịch sử Việt Nam (Tập 8: 1919–1930), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1453 -->
-*   **09/1919:** (Tháng 9 năm Khải Định thứ 4) Triều đình ban hành tiền "Khải Định thông bảo" bằng đồng thau.
+*   **09/1919:** (Tháng 9 năm Khải Định thứ 4) Triều đình ban hành tiền "Khải Định thông bảo" bằng đồng thau. [Nguồn: Châu bản triều Nguyễn (Trung tâm Lưu trữ Quốc gia I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1454 -->
-*   **01/09/1919:** Tờ *Học báo* ra đời nhằm hướng dẫn hệ thống giáo dục mới của Pháp ở Bắc và Trung Kỳ.
+*   **01/09/1919:** Tờ *Học báo* ra đời nhằm hướng dẫn hệ thống giáo dục mới của Pháp ở Bắc và Trung Kỳ. [Nguồn: Huỳnh Văn Tòng, Lịch sử báo chí Việt Nam từ khởi thủy đến năm 1945, NXB TP. Hồ Chí Minh, 2000]
 
 <!-- id: EVT-1455 -->
-*   **11/12/1919:** Thống sứ Bắc Kỳ ra nghị định bắt tất cả người bản xứ từ 18 đến 60 tuổi phải đóng thuế thân đồng loạt là 2 đồng rưỡi.
+*   **11/12/1919:** Thống sứ Bắc Kỳ ra nghị định bắt tất cả người bản xứ từ 18 đến 60 tuổi phải đóng thuế thân đồng loạt là 2 đồng rưỡi. [Nguồn: Lịch sử Việt Nam (Tập 8: 1919–1930), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1456 -->
-*   **1920:** Đạo Cao Đài, một tôn giáo nội sinh, được thành lập (cụ thể là năm 1926 tại Tây Ninh).
+*   **1920:** Đạo Cao Đài, một tôn giáo nội sinh, được thành lập (cụ thể là năm 1926 tại Tây Ninh). [Nguồn: Ban Tôn giáo Chính phủ, Các tôn giáo ở Việt Nam, NXB Tôn giáo, Hà Nội, 2015]
 
 <!-- id: EVT-1457 -->
-*   **1920:** Công ty Nhật Bản Mitsui-Bussan Kaisha bắt đầu khai thác phốt phát trên một số đảo thuộc quần đảo Hoàng Sa sau khi liên hệ với nhà cầm quyền Pháp. Cùng năm, Pháp bắt đầu thực hiện việc kiểm soát trên biển và kiểm soát hải quan đối với quần đảo Hoàng Sa.
+*   **1920:** Công ty Nhật Bản Mitsui-Bussan Kaisha bắt đầu khai thác phốt phát trên một số đảo thuộc quần đảo Hoàng Sa sau khi liên hệ với nhà cầm quyền Pháp. Cùng năm, Pháp bắt đầu thực hiện việc kiểm soát trên biển và kiểm soát hải quan đối với quần đảo Hoàng Sa. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1458 -->
-*   **03/1920:** (Tháng 3 năm Khải Định thứ 5) Thiết lập Hội đồng Tư vấn Trung Kỳ (Chambre des Représentants du Peuple de l'Annam) để tư vấn các vấn đề lợi ích cho dân.
+*   **03/1920:** (Tháng 3 năm Khải Định thứ 5) Thiết lập Hội đồng Tư vấn Trung Kỳ (Chambre des Représentants du Peuple de l'Annam) để tư vấn các vấn đề lợi ích cho dân. [Nguồn: Châu bản triều Nguyễn (Trung tâm Lưu trữ Quốc gia I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1459 -->
-*   **16-17/07/1920:** Báo *L'Humanité* (Nhân đạo) ở Pháp đăng bản *Sơ thảo lần thứ nhất những luận đề về vấn đề dân tộc và vấn đề thuộc địa* của V.I. Lênin. Nguyễn Ái Quốc đọc tác phẩm này, tìm ra con đường giải phóng dân tộc và bước đầu khẳng định niềm tin theo chủ nghĩa Mác-Lênin.
+*   **16-17/07/1920:** Báo *L'Humanité* (Nhân đạo) ở Pháp đăng bản *Sơ thảo lần thứ nhất những luận đề về vấn đề dân tộc và vấn đề thuộc địa* của V.I. Lênin. Nguyễn Ái Quốc đọc tác phẩm này, tìm ra con đường giải phóng dân tộc và bước đầu khẳng định niềm tin theo chủ nghĩa Mác-Lênin. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1460 -->
-*   **09/1920:** Triều đình định tỷ giá 1 đồng tiền "Khải Định thông bảo" mới bằng 6 đồng tiền kẽm.
+*   **09/1920:** Triều đình định tỷ giá 1 đồng tiền "Khải Định thông bảo" mới bằng 6 đồng tiền kẽm. [Nguồn: Châu bản triều Nguyễn (Trung tâm Lưu trữ Quốc gia I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1461 -->
-*   **28/09/1920:** Sắc lệnh tái tổ chức Hội đồng cấp cao thuộc địa tại Pháp.
+*   **28/09/1920:** Sắc lệnh tái tổ chức Hội đồng cấp cao thuộc địa tại Pháp. [Nguồn: Lịch sử Việt Nam (Tập 8: 1919–1930), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1462 -->
-*   **11/1920:** Vua Khải Định phong hàm tước cho doanh nhân Bạch Thái Bưởi và người thợ Nguyễn Văn Phúc vì thành tích chế tạo thành công tàu thủy *Bình Chuẩn*, khuyến khích năng lực công nghiệp của người Việt.
+*   **11/1920:** Vua Khải Định phong hàm tước cho doanh nhân Bạch Thái Bưởi và người thợ Nguyễn Văn Phúc vì thành tích chế tạo thành công tàu thủy *Bình Chuẩn*, khuyến khích năng lực công nghiệp của người Việt. [Nguồn: Doanh nhân Bạch Thái Bưởi (Báo Nhân Dân), https://nhandan.vn/bach-thai-buoi-nha-kinh-doanh-yeu-nuoc-post621300.html]
 
 <!-- id: EVT-1463 -->
 *   **25-30/12/1920:** Tại Đại hội Tours (Đại hội XVIII) của Đảng Xã hội Pháp, Nguyễn Ái Quốc bỏ phiếu tán thành gia nhập Quốc tế III và trở thành một trong những người sáng lập Đảng Cộng sản Pháp, đánh dấu bước ngoặt từ chủ nghĩa yêu nước đến chủ nghĩa Mác-Lênin. [Nguồn: https://nhandan.vn/theo-dau-chan-bac-ho-tro-lai-tp-tours-post192039.html]
 
 <!-- id: EVT-1464 -->
-*   **1921:** Sau 13 năm kiên cường chịu cảnh tù đày khổ sai tại Côn Đảo với khí tiết bất khuất, Huỳnh Thúc Kháng được thực dân Pháp trả tự do về đất liền.
+*   **1921:** Sau 13 năm kiên cường chịu cảnh tù đày khổ sai tại Côn Đảo với khí tiết bất khuất, Huỳnh Thúc Kháng được thực dân Pháp trả tự do về đất liền. [Nguồn: Chí sĩ yêu nước Huỳnh Thúc Kháng (Báo Nhân Dân), https://nhandan.vn/chi-si-yeu-nuoc-huynh-thuc-khang-nha-lanh-dao-tien-boi-tieu-bieu-cua-dang-va-cach-mang-viet-nam-post670559.html]
 
 <!-- id: EVT-1465 -->
-*   **1921:** Tại Paris, Nguyễn Ái Quốc cùng các nhà hoạt động cách mạng đến từ các xứ thuộc địa của Pháp (Algérie, Madagascar, Sénégal, Guadeloupe, Martinique...) thành lập **Hội Liên hiệp Thuộc địa** (Union Intercoloniale), tổ chức mặt trận đoàn kết đầu tiên kết nối phong trào đấu tranh của các dân tộc bị áp bức trên toàn thế giới.
+*   **1921:** Tại Paris, Nguyễn Ái Quốc cùng các nhà hoạt động cách mạng đến từ các xứ thuộc địa của Pháp (Algérie, Madagascar, Sénégal, Guadeloupe, Martinique...) thành lập **Hội Liên hiệp Thuộc địa** (Union Intercoloniale), tổ chức mặt trận đoàn kết đầu tiên kết nối phong trào đấu tranh của các dân tộc bị áp bức trên toàn thế giới. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1466 -->
-*   **1921:** Nhà thơ Tản Đà sáng lập *An Nam tạp chí* tại Hà Nội, một trong những tờ báo văn học và tư tưởng có ảnh hưởng sâu rộng trong giới trí thức, văn nghệ sĩ Việt Nam thời kỳ đầu thế kỷ XX.
+*   **1921:** Nhà thơ Tản Đà sáng lập *An Nam tạp chí* tại Hà Nội, một trong những tờ báo văn học và tư tưởng có ảnh hưởng sâu rộng trong giới trí thức, văn nghệ sĩ Việt Nam thời kỳ đầu thế kỷ XX. [Nguồn: Huỳnh Văn Tòng, Lịch sử báo chí Việt Nam từ khởi thủy đến năm 1945, NXB TP. Hồ Chí Minh, 2000]
 
 <!-- id: EVT-1467 -->
-*   **30/03/1921:** Chính phủ quân sự miền Nam tại Quảng Đông (không được chính quyền trung ương Trung Quốc hay các cường quốc công nhận) tuyên bố sáp nhập về mặt hành chính quần đảo Hoàng Sa vào huyện Nhai (Hải Nam). Pháp đã không phản đối chính thức để tránh kích động chủ nghĩa dân tộc Trung Quốc.
+*   **30/03/1921:** Chính phủ quân sự miền Nam tại Quảng Đông (không được chính quyền trung ương Trung Quốc hay các cường quốc công nhận) tuyên bố sáp nhập về mặt hành chính quần đảo Hoàng Sa vào huyện Nhai (Hải Nam). Pháp đã không phản đối chính thức để tránh kích động chủ nghĩa dân tộc Trung Quốc. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1468 -->
-*   **12/04/1921:** Albert Sarraut, lúc này là Bộ trưởng Bộ Thuộc địa, trình "Dự luật khai thác thuộc địa" trước Quốc hội Pháp.
+*   **12/04/1921:** Albert Sarraut, lúc này là Bộ trưởng Bộ Thuộc địa, trình "Dự luật khai thác thuộc địa" trước Quốc hội Pháp. [Nguồn: Lịch sử Việt Nam (Tập 8: 1919–1930), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1469 -->
-*   **06/1921:** Ban Nghiên cứu thuộc địa được thành lập trong Đảng Cộng sản Pháp, Nguyễn Ái Quốc phụ trách tiểu ban Đông Dương.
+*   **06/1921:** Ban Nghiên cứu thuộc địa được thành lập trong Đảng Cộng sản Pháp, Nguyễn Ái Quốc phụ trách tiểu ban Đông Dương. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1470 -->
-*   **20/06/1921:** Nghị định về học chính (Điều 500 bis) quy định người bản xứ muốn sang Pháp du học phải được Toàn quyền cho phép và hồ sơ bị kiểm soát chặt chẽ.
+*   **20/06/1921:** Nghị định về học chính (Điều 500 bis) quy định người bản xứ muốn sang Pháp du học phải được Toàn quyền cho phép và hồ sơ bị kiểm soát chặt chẽ. [Nguồn: Châu bản triều Nguyễn (Trung tâm Lưu trữ Quốc gia I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1471 -->
-*   **12/08/1921:** Thống sứ Bắc Kỳ ra nghị định tiến hành "cải lương hương chính", cải tổ bộ máy hành chính cấp làng xã.
+*   **12/08/1921:** Thống sứ Bắc Kỳ ra nghị định tiến hành "cải lương hương chính", cải tổ bộ máy hành chính cấp làng xã. [Nguồn: Châu bản triều Nguyễn (Trung tâm Lưu trữ Quốc gia I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1472 -->
-*   **09/1921:** Chuẩn y cho thi hành Bộ Dân luật tại Bắc Kỳ (quyển thứ nhất về người và tài sản).
+*   **09/1921:** Chuẩn y cho thi hành Bộ Dân luật tại Bắc Kỳ (quyển thứ nhất về người và tài sản). [Nguồn: Châu bản triều Nguyễn (Trung tâm Lưu trữ Quốc gia I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1473 -->
-*   **11/10/1921:** Toàn quyền Đông Dương ra nghị định phát hành công trái 6 triệu đồng để xây dựng đường sắt Vinh - Đông Hà.
+*   **11/10/1921:** Toàn quyền Đông Dương ra nghị định phát hành công trái 6 triệu đồng để xây dựng đường sắt Vinh - Đông Hà. [Nguồn: Châu bản triều Nguyễn (Trung tâm Lưu trữ Quốc gia I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1474 -->
-*   **17/10/1921:** Thành phố Nam Định được thành lập.
+*   **17/10/1921:** Thành phố Nam Định được thành lập. [Nguồn: Địa chí Nam Định, NXB Chính trị Quốc gia, Hà Nội, 2003]
 
 <!-- id: EVT-1475 -->
-*   **1922:** Hội chợ triển lãm thuộc địa được tổ chức tại Marseille (Pháp), tiêu tốn ngân sách Đông Dương 12 triệu franc.
+*   **1922:** Hội chợ triển lãm thuộc địa được tổ chức tại Marseille (Pháp), tiêu tốn ngân sách Đông Dương 12 triệu franc. [Nguồn: Lịch sử Việt Nam (Tập 8: 1919–1930), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1476 -->
-*   **1922:** Nguyễn Ái Quốc được cấp Thẻ đảng viên Đảng Cộng sản Pháp với tên Henri Tchen (Hăngri Trần), trở thành người cộng sản Việt Nam đầu tiên có tư cách đảng viên chính thức trong phong trào cộng sản quốc tế.
+*   **1922:** Nguyễn Ái Quốc được cấp Thẻ đảng viên Đảng Cộng sản Pháp với tên Henri Tchen (Hăngri Trần), trở thành người cộng sản Việt Nam đầu tiên có tư cách đảng viên chính thức trong phong trào cộng sản quốc tế. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 ![Hình ảnh tư liệu](images/event_20260924_103210.webp)
 
 *Nguồn: Thẻ căn cước của Nguyễn Ái Quốc tại Pháp / Bảo tàng Hồ Chí Minh*
 
 <!-- id: EVT-1477 -->
-*   **03/1922:** Một nhân viên nhà đoan ở Bà Rịa (Nam Kỳ) đánh đập tàn nhẫn một nữ phu gánh muối, gây phẫn nộ trong dân chúng.
+*   **03/1922:** Một nhân viên nhà đoan ở Bà Rịa (Nam Kỳ) đánh đập tàn nhẫn một nữ phu gánh muối, gây phẫn nộ trong dân chúng. [Nguồn: Lịch sử Việt Nam (Tập 8: 1919–1930), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1478 -->
-*   **04/1922:** Lễ sách phong Đông cung Hoàng Thái tử Vĩnh Thụy (sau là vua Bảo Đại) được tổ chức long trọng tại điện Thái Hòa.
+*   **04/1922:** Lễ sách phong Đông cung Hoàng Thái tử Vĩnh Thụy (sau là vua Bảo Đại) được tổ chức long trọng tại điện Thái Hòa. [Nguồn: Vua Bảo Đại (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13777/vua-bao-dai.html]
 
 <!-- id: EVT-1479 -->
-*   **01/04/1922:** Báo *Le Paria* (Người cùng khổ) - cơ quan ngôn luận của Hội Liên hiệp Thuộc địa do Nguyễn Ái Quốc sáng lập kiêm chủ nhiệm và chủ bút - xuất bản số đầu tiên tại Paris, trở thành vũ khí sắc bén truyền bá chủ nghĩa Mác-Lênin và thức tỉnh tinh thần đấu tranh của các dân tộc thuộc địa.
+*   **01/04/1922:** Báo *Le Paria* (Người cùng khổ) - cơ quan ngôn luận của Hội Liên hiệp Thuộc địa do Nguyễn Ái Quốc sáng lập kiêm chủ nhiệm và chủ bút - xuất bản số đầu tiên tại Paris, trở thành vũ khí sắc bén truyền bá chủ nghĩa Mác-Lênin và thức tỉnh tinh thần đấu tranh của các dân tộc thuộc địa. [Nguồn: Báo Le Paria – Vũ khí chiến đấu sắc bén của Nguyễn Ái Quốc (Báo Nhân Dân), https://nhandan.vn/bao-le-paria-nguoi-cung-kho-vu-khi-chien-dau-sac-ben-post691400.html]
 
 <!-- id: EVT-1480 -->
-*   **06/1922:** Vua Khải Định đến Marseille và Paris (Pháp), trở thành vị vua đầu tiên của triều Nguyễn chính thức sang thăm Pháp (đưa Đông cung Thái tử Vĩnh Thụy đi du học).
+*   **06/1922:** Vua Khải Định đến Marseille và Paris (Pháp), trở thành vị vua đầu tiên của triều Nguyễn chính thức sang thăm Pháp (đưa Đông cung Thái tử Vĩnh Thụy đi du học). [Nguồn: Vua Khải Định (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13776/vua-khai-dinh.html]
 
 <!-- id: EVT-1481 -->
-*   **09/06/1922:** Sắc lệnh tái tổ chức Hội đồng thuộc địa Nam Kỳ.
+*   **09/06/1922:** Sắc lệnh tái tổ chức Hội đồng thuộc địa Nam Kỳ. [Nguồn: Châu bản triều Nguyễn (Trung tâm Lưu trữ Quốc gia I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1482 -->
-*   **15/07/1922:** Phan Châu Trinh viết "Thất điều trần" gửi vua Khải Định đang ở Pháp, lên án 7 tội lớn của nhà vua.
+*   **15/07/1922:** Phan Châu Trinh viết "Thất điều trần" gửi vua Khải Định đang ở Pháp, lên án 7 tội lớn của nhà vua. [Nguồn: Phan Châu Trinh – Toàn tập (Tập 2), NXB Đà Nẵng, 2005]
 
 <!-- id: EVT-1483 -->
-*   **24/07/1922:** Nguyễn Ái Quốc họp Chi bộ quận 17 Đảng Cộng sản Pháp tại số nhà 100 phố Cardine, Paris. Cũng vào thời điểm này, Người bắt đầu chuyển về cư ngụ tại số 9 ngõ Compoint.
+*   **24/07/1922:** Nguyễn Ái Quốc họp Chi bộ quận 17 Đảng Cộng sản Pháp tại số nhà 100 phố Cardine, Paris. Cũng vào thời điểm này, Người bắt đầu chuyển về cư ngụ tại số 9 ngõ Compoint. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1484 -->
-*   **09/1922:** (Tháng 9 năm Khải Định thứ 7) Đổi Sở Phiên dịch thành Viện Cổ học (thuộc Bộ Học).
+*   **09/1922:** (Tháng 9 năm Khải Định thứ 7) Đổi Sở Phiên dịch thành Viện Cổ học (thuộc Bộ Học). [Nguồn: Châu bản triều Nguyễn (Trung tâm Lưu trữ Quốc gia I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
 
 <!-- id: EVT-1485 -->
-*   **11/1922:** 600 thợ nhuộm ở Chợ Lớn (Nam Kỳ) bãi công phản đối việc bớt lương. Đây là lần đầu tiên một phong trào đấu tranh của công nhân như vậy nổ ra ở thuộc địa.
+*   **11/1922:** 600 thợ nhuộm ở Chợ Lớn (Nam Kỳ) bãi công phản đối việc bớt lương. Đây là lần đầu tiên một phong trào đấu tranh của công nhân như vậy nổ ra ở thuộc địa. [Nguồn: Lịch sử Giai cấp Công nhân Việt Nam (Tập 1), NXB Sự thật, Hà Nội, 1982]
 
 <!-- id: EVT-1486 -->
-*   **1923:** Tổ chức cách mạng **Tâm Tâm xã** (còn gọi là Tân Việt Thanh niên Đoàn) được các thanh niên yêu nước (Hồ Tùng Mậu, Lê Hồng Sơn, Phạm Hồng Thái, Lâm Đức Thụ...) thành lập tại Quảng Châu (Trung Quốc) với tôn chỉ tập hợp những người cùng chí hướng, sẵn sàng hy sinh để "khôi phục quyền làm người của người Việt Nam". Đây là tổ chức cách mạng cấp tiến, trở thành hạt nhân quan trọng cho sự ra đời của Hội Việt Nam Cách mạng Thanh niên sau này.
+*   **1923:** Tổ chức cách mạng **Tâm Tâm xã** (còn gọi là Tân Việt Thanh niên Đoàn) được các thanh niên yêu nước (Hồ Tùng Mậu, Lê Hồng Sơn, Phạm Hồng Thái, Lâm Đức Thụ...) thành lập tại Quảng Châu (Trung Quốc) với tôn chỉ tập hợp những người cùng chí hướng, sẵn sàng hy sinh để "khôi phục quyền làm người của người Việt Nam". Đây là tổ chức cách mạng cấp tiến, trở thành hạt nhân quan trọng cho sự ra đời của Hội Việt Nam Cách mạng Thanh niên sau này. [Nguồn: Lịch sử Việt Nam (Tập 8: 1919–1930), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1487 -->
-*   **1923:** Việc xây dựng **lầu Kiến Trung** (kết hợp kiến trúc Âu - Á) trong Tử Cấm Thành được hoàn thành.
+*   **1923:** Việc xây dựng **lầu Kiến Trung** (kết hợp kiến trúc Âu - Á) trong Tử Cấm Thành được hoàn thành. [Nguồn: Trung tâm Bảo tồn Di tích Cố đô Huế, Điện Kiến Trung trong Hoàng thành Huế, Huế, 2023]
 
 <!-- id: EVT-1488 -->
-*   **1923:** Cơ quan Kiểm tra và Cứu trợ người bản xứ của các thuộc địa (C.A.I.) được thành lập tại Pháp để giám sát người Việt.
+*   **1923:** Cơ quan Kiểm tra và Cứu trợ người bản xứ của các thuộc địa (C.A.I.) được thành lập tại Pháp để giám sát người Việt. [Nguồn: Lịch sử Việt Nam (Tập 8: 1919–1930), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1489 -->
-*   **1923 - 1924:** Tại Moskva (Liên Xô), Nguyễn Ái Quốc lấy bí danh là **Linov** (hoặc Lin), học tập tại Trường Đại học Lao động Cộng sản Phương Đông (KUTV). Người tham dự lễ tang V.I. Lênin (01/1924), viết bài tưởng niệm "Lênin và các dân tộc phương Đông" đăng trên báo *Pravda*, và tích cực nghiên cứu lý luận chính trị chủ nghĩa Mác-Lênin.
+*   **1923 - 1924:** Tại Moskva (Liên Xô), Nguyễn Ái Quốc lấy bí danh là **Linov** (hoặc Lin), học tập tại Trường Đại học Lao động Cộng sản Phương Đông (KUTV). Người tham dự lễ tang V.I. Lênin (01/1924), viết bài tưởng niệm "Lênin và các dân tộc phương Đông" đăng trên báo *Pravda*, và tích cực nghiên cứu lý luận chính trị chủ nghĩa Mác-Lênin. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1490 -->
-*   **13 - 30/06/1923:** Nguyễn Ái Quốc bí mật rời Paris đi Berlin (Đức), sau đó từ cảng Hamburg lên con tàu *Karl Liebknecht* đến Petrograd (Leningrad, Liên Xô) vào ngày 30/06/1923, chính thức đặt chân đến quê hương của Cách mạng Tháng Mười Nga để làm việc và học tập tại Quốc tế Cộng sản.
+*   **13 - 30/06/1923:** Nguyễn Ái Quốc bí mật rời Paris đi Berlin (Đức), sau đó từ cảng Hamburg lên con tàu *Karl Liebknecht* đến Petrograd (Leningrad, Liên Xô) vào ngày 30/06/1923, chính thức đặt chân đến quê hương của Cách mạng Tháng Mười Nga để làm việc và học tập tại Quốc tế Cộng sản. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 ![Hình ảnh tư liệu](images/event_20260924_103201.webp)
 
 *Nguồn: Hành trình Nguyễn Ái Quốc từ Paris sang Liên Xô tháng 06/1923 / Bảo tàng Hồ Chí Minh*
 
 <!-- id: EVT-1491 -->
-*   **10 - 15/10/1923:** Tại Moskva, Nguyễn Ái Quốc tham dự Hội nghị lần thứ nhất Quốc tế Nông dân và được bầu vào Đoàn Chủ tịch Ủy ban Quốc tế Nông dân, trở thành người Việt Nam đầu tiên giữ cương vị lãnh đạo trong một tổ chức quần chúng của Quốc tế Cộng sản.
+*   **10 - 15/10/1923:** Tại Moskva, Nguyễn Ái Quốc tham dự Hội nghị lần thứ nhất Quốc tế Nông dân và được bầu vào Đoàn Chủ tịch Ủy ban Quốc tế Nông dân, trở thành người Việt Nam đầu tiên giữ cương vị lãnh đạo trong một tổ chức quần chúng của Quốc tế Cộng sản. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1492 -->
-*   **15/11/1923:** Nhạc sĩ Văn Cao (tên khai sinh là Nguyễn Văn Cao) sinh ra tại Lạch Tray, Hải Phòng (quê gốc tại Vụ Bản, Nam Định). Ông là một trong những gương mặt vĩ đại nhất của nền tân nhạc, thi ca và hội họa hiện đại Việt Nam, tác giả của bài hát "Tiến quân ca" - Quốc ca của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam.
+*   **15/11/1923:** Nhạc sĩ Văn Cao (tên khai sinh là Nguyễn Văn Cao) sinh ra tại Lạch Tray, Hải Phòng (quê gốc tại Vụ Bản, Nam Định). Ông là một trong những gương mặt vĩ đại nhất của nền tân nhạc, thi ca và hội họa hiện đại Việt Nam, tác giả của bài hát "Tiến quân ca" - Quốc ca của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam. [Nguồn: Nhạc sĩ Văn Cao – Tác giả Quốc ca Việt Nam (Báo Nhân Dân), https://nhandan.vn/nhac-si-van-cao-nguoi-nghe-si-tai-hoa-post782100.html]
 
 <!-- id: EVT-1493 -->
-*   **1924:** Ngô Mây, người anh hùng tiêu biểu của Lực lượng Vũ trang Nhân dân Việt Nam nổi tiếng với chiến công ôm bom quyết tử đánh xe tăng Pháp, sinh ra tại xã Cát Chánh, huyện Phù Cát, tỉnh Bình Định.
+*   **1924:** Ngô Mây, người anh hùng tiêu biểu của Lực lượng Vũ trang Nhân dân Việt Nam nổi tiếng với chiến công ôm bom quyết tử đánh xe tăng Pháp, sinh ra tại xã Cát Chánh, huyện Phù Cát, tỉnh Bình Định. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng Vũ trang Nhân dân, NXB Quân đội Nhân dân, Hà Nội]
 
 <!-- id: EVT-1494 -->
-*   **01/1924:** Lê Huy Doãn (sau mang bí danh Lê Hồng Phong) cùng bạn cùng quê là Phạm Hồng Thái và một số thanh niên yêu nước vượt biên sang Xiêm (Thái Lan) rồi tới Quảng Châu (Trung Quốc), gia nhập Tâm Tâm xã và dấn thân vào con đường hoạt động cách mạng chuyên nghiệp.
+*   **01/1924:** Lê Huy Doãn (sau mang bí danh Lê Hồng Phong) cùng bạn cùng quê là Phạm Hồng Thái và một số thanh niên yêu nước vượt biên sang Xiêm (Thái Lan) rồi tới Quảng Châu (Trung Quốc), gia nhập Tâm Tâm xã và dấn thân vào con đường hoạt động cách mạng chuyên nghiệp. [Nguồn: Đồng chí Lê Hồng Phong – Nhà lãnh đạo xuất sắc của Đảng (Báo Nhân Dân), https://nhandan.vn/dong-chi-le-hong-phong-nha-lanh-dao-xuat-sac-cua-dang-va-cach-mang-viet-nam-post713500.html]
 
 <!-- id: EVT-1495 -->
-*   **17/06 - 08/07/1924:** Nguyễn Ái Quốc tham dự Đại hội lần thứ V Quốc tế Cộng sản tại Moskva.
+*   **17/06 - 08/07/1924:** Nguyễn Ái Quốc tham dự Đại hội lần thứ V Quốc tế Cộng sản tại Moskva. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 ![Hình ảnh tư liệu](images/event_20260924_103203.webp)
 
 *Nguồn: Nguyễn Ái Quốc tại Đại hội V Quốc tế Cộng sản, Moskva tháng 06-07/1924 / Bảo tàng Hồ Chí Minh*
 
 <!-- id: EVT-1496 -->
-*   **19/06/1924:** Liệt sĩ **Phạm Hồng Thái**, thành viên ưu tú của Tâm Tâm xã, thực hiện vụ nổ bom mưu sát Toàn quyền Đông Dương Martial Merlin tại khách sạn Victoria ở tô giới Sa Diện (Quảng Châu, Trung Quốc). Dù Merlin chỉ bị thương nhẹ nhưng "Tiếng bom Sa Diện" đã gây chấn động quốc tế, được lãnh tụ Nguyễn Ái Quốc ví như "chim én nhỏ báo hiệu mùa xuân" của phong trào giải phóng dân tộc; sau khi hành động, Phạm Hồng Thái đã gieo mình xuống dòng Châu Giang anh dũng tuẫn tiết.
+*   **19/06/1924:** Liệt sĩ **Phạm Hồng Thái**, thành viên ưu tú của Tâm Tâm xã, thực hiện vụ nổ bom mưu sát Toàn quyền Đông Dương Martial Merlin tại khách sạn Victoria ở tô giới Sa Diện (Quảng Châu, Trung Quốc). Dù Merlin chỉ bị thương nhẹ nhưng "Tiếng bom Sa Diện" đã gây chấn động quốc tế, được lãnh tụ Nguyễn Ái Quốc ví như "chim én nhỏ báo hiệu mùa xuân" của phong trào giải phóng dân tộc; sau khi hành động, Phạm Hồng Thái đã gieo mình xuống dòng Châu Giang anh dũng tuẫn tiết. [Nguồn: Liệt sĩ Phạm Hồng Thái và tiếng bom Sa Điện (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13906/tieng-bom-sa-dien.html]
 
 <!-- id: EVT-1497 -->
-*   **18/09/1924:** Toàn quyền Merlin ký nghị định sửa đổi Bộ Học chính tổng quy, chủ trương phát triển giáo dục tiểu học ("giáo dục theo chiều ngang").
+*   **18/09/1924:** Toàn quyền Merlin ký nghị định sửa đổi Bộ Học chính tổng quy, chủ trương phát triển giáo dục tiểu học ("giáo dục theo chiều ngang"). [Nguồn: Lịch sử Việt Nam (Tập 8: 1919–1930), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1498 -->
-*   **27/10/1924:** Trường Mỹ thuật Đông Dương được thành lập tại Hà Nội.
+*   **27/10/1924:** Trường Mỹ thuật Đông Dương được thành lập tại Hà Nội. [Nguồn: Trường Đại học Mỹ thuật Việt Nam, Kỷ yếu Trường Mỹ thuật Đông Dương (1924–2014), Hà Nội, 2014]
 
 <!-- id: EVT-1499 -->
-*   **11/11/1924:** Nguyễn Ái Quốc từ Moskva đến Quảng Châu (Trung Quốc) với bí danh **Lý Thụy**, làm thông ngôn kiêm phái viên trong Phái đoàn Cố vấn Liên Xô của Mikhail Borodin bên cạnh Chính phủ Tôn Trung Sơn, bắt đầu chuẩn bị về chính trị, tư tưởng và tổ chức cho cách mạng Việt Nam.
+*   **11/11/1924:** Nguyễn Ái Quốc từ Moskva đến Quảng Châu (Trung Quốc) với bí danh **Lý Thụy**, làm thông ngôn kiêm phái viên trong Phái đoàn Cố vấn Liên Xô của Mikhail Borodin bên cạnh Chính phủ Tôn Trung Sơn, bắt đầu chuẩn bị về chính trị, tư tưởng và tổ chức cho cách mạng Việt Nam. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1500 -->
-*   **1925:** Một phái đoàn khoa học do Tiến sĩ A. Krempf, Giám đốc Viện Hải dương học Đông Dương dẫn đầu, đã tiến hành nghiên cứu trên quần đảo Hoàng Sa bằng tàu *De Lanessan*.
+*   **1925:** Một phái đoàn khoa học do Tiến sĩ A. Krempf, Giám đốc Viện Hải dương học Đông Dương dẫn đầu, đã tiến hành nghiên cứu trên quần đảo Hoàng Sa bằng tàu *De Lanessan*. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1501 -->
-*   **1925:** Lê Thị Riêng sinh ra tại làng Vĩnh Mỹ, huyện Giá Rai (Bạc Liêu). Bà sau này trở thành một nhà lãnh đạo cách mạng và nữ anh hùng kiên trung của miền Nam.
+*   **1925:** Lê Thị Riêng sinh ra tại làng Vĩnh Mỹ, huyện Giá Rai (Bạc Liêu). Bà sau này trở thành một nhà lãnh đạo cách mạng và nữ anh hùng kiên trung của miền Nam. [Nguồn: Nữ anh hùng liệt sĩ Lê Thị Riêng (Báo Nhân Dân), https://nhandan.vn/nu-anh-hung-liet-si-le-thi-rieng-post634210.html]
 
 <!-- id: EVT-1502 -->
-*   **1925:** Tác phẩm chính luận xuất sắc *Bản án chế độ thực dân Pháp* (Le Procès de la colonisation française) của Nguyễn Ái Quốc được Thư quán Lao động (Librairie du Travail) xuất bản lần đầu tiên tại Paris (Pháp), tố cáo tội ác của chủ nghĩa thực dân và khơi dậy phong trào đấu tranh của các dân tộc thuộc địa.
+*   **1925:** Tác phẩm chính luận xuất sắc *Bản án chế độ thực dân Pháp* (Le Procès de la colonisation française) của Nguyễn Ái Quốc được Thư quán Lao động (Librairie du Travail) xuất bản lần đầu tiên tại Paris (Pháp), tố cáo tội ác của chủ nghĩa thực dân và khơi dậy phong trào đấu tranh của các dân tộc thuộc địa. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1503 -->
-*   **1925:** Tại đảo Réunion (nơi bị thực dân Pháp lưu đày), cựu hoàng Duy Tân (lấy tên hoàng thân Vĩnh San) kiên quyết từ chối trợ cấp đặc biệt để giữ khí tiết, tự học nghề kỹ thuật và mở tiệm **'Radio-Laboratoire Vĩnh San'** tại số 41 phố Labourdonnais (Saint-Denis). Ông trực tiếp sửa chữa, lắp ráp máy móc và thiết bị thu thanh vô tuyến (TSF), trở thành chuyên gia vô tuyến điện hàng đầu được chính quyền đảo nhờ thiết lập trạm truyền tin đầu tiên, và sau đó được cấp chứng chỉ điện đài nghiệp dư quốc tế (hô hiệu **FR8VX**).
+*   **1925:** Tại đảo Réunion (nơi bị thực dân Pháp lưu đày), cựu hoàng Duy Tân (lấy tên hoàng thân Vĩnh San) kiên quyết từ chối trợ cấp đặc biệt để giữ khí tiết, tự học nghề kỹ thuật và mở tiệm **'Radio-Laboratoire Vĩnh San'** tại số 41 phố Labourdonnais (Saint-Denis). Ông trực tiếp sửa chữa, lắp ráp máy móc và thiết bị thu thanh vô tuyến (TSF), trở thành chuyên gia vô tuyến điện hàng đầu được chính quyền đảo nhờ thiết lập trạm truyền tin đầu tiên, và sau đó được cấp chứng chỉ điện đài nghiệp dư quốc tế (hô hiệu **FR8VX**). [Nguồn: Vua Duy Tân (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13775/vua-duy-tan.html]
 
 <!-- id: EVT-1504 -->
-*   **01/1925:** Nguyễn Ái Quốc mở các lớp huấn luyện chính trị cho thanh niên yêu nước tại Quảng Châu.
+*   **01/1925:** Nguyễn Ái Quốc mở các lớp huấn luyện chính trị cho thanh niên yêu nước tại Quảng Châu. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1505 -->
-*   **02/1925:** Tại Quảng Châu (Trung Quốc), lãnh tụ Nguyễn Ái Quốc tiếp xúc và vận động các thành viên tích cực của Tâm Tâm xã, lựa chọn 9 chiến sĩ ưu tú (trong đó có Lê Hồng Phong, Lê Hồng Sơn, Hồ Tùng Mậu) để thành lập **Cộng sản đoàn** - tổ chức cộng sản đầu tiên của Việt Nam làm hạt nhân nòng cốt chuẩn bị cho sự ra đời của Hội Việt Nam Cách mạng Thanh niên.
+*   **02/1925:** Tại Quảng Châu (Trung Quốc), lãnh tụ Nguyễn Ái Quốc tiếp xúc và vận động các thành viên tích cực của Tâm Tâm xã, lựa chọn 9 chiến sĩ ưu tú (trong đó có Lê Hồng Phong, Lê Hồng Sơn, Hồ Tùng Mậu) để thành lập **Cộng sản đoàn** - tổ chức cộng sản đầu tiên của Việt Nam làm hạt nhân nòng cốt chuẩn bị cho sự ra đời của Hội Việt Nam Cách mạng Thanh niên. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1506 -->
-*   **03/03/1925:** Thượng thư Bộ Binh Thân Trọng Huề gửi văn thư cho Khâm sứ Pháp, khẳng định "Các đảo Hoàng Sa bao giờ cũng thuộc về nước An Nam", xác nhận chủ quyền trước các tranh chấp gia tăng.
+*   **03/03/1925:** Thượng thư Bộ Binh Thân Trọng Huề gửi văn thư cho Khâm sứ Pháp, khẳng định "Các đảo Hoàng Sa bao giờ cũng thuộc về nước An Nam", xác nhận chủ quyền trước các tranh chấp gia tăng. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1507 -->
-*   **08/03/1925:** Toàn quyền Đông Dương Martial Merlin ra tuyên bố chính thức khẳng định hai quần đảo Hoàng Sa và Trường Sa là lãnh thổ thuộc chủ quyền của Pháp (với tư cách là đại diện bảo hộ cho Nhà nước An Nam).
+*   **08/03/1925:** Toàn quyền Đông Dương Martial Merlin ra tuyên bố chính thức khẳng định hai quần đảo Hoàng Sa và Trường Sa là lãnh thổ thuộc chủ quyền của Pháp (với tư cách là đại diện bảo hộ cho Nhà nước An Nam). [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1508 -->
 *   **06/1925:** Nguyễn Ái Quốc cùng Hồ Tùng Mậu và các chiến sĩ cách mạng thành lập Hội Việt Nam Cách mạng Thanh niên (Việt Nam Thanh niên Cách mạng Đồng chí Hội) tại Quảng Châu (Trung Quốc), tổ chức các khóa đào tạo lý luận Mác-Lênin chuẩn bị về tư tưởng và tổ chức cho sự ra đời của Đảng Cộng sản Việt Nam. [Nguồn: http://baotanglichsu.vn/vi/Articles/3096/12467/su-thanh-lap-hoi-viet-nam-cach-mang-thanh-nien-6-1925.html]
@@ -4890,25 +4890,25 @@
 *Nguồn: Nguyễn Ái Quốc tại Liên Xô, 1923 — hai năm trước khi thành lập Hội / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-1509 -->
-*   **Mùa hè 1925:** Được sự giới thiệu của đồng chí Nguyễn Ái Quốc, Lê Hồng Phong (Lê Huy Doãn) cùng Lê Hồng Sơn và Lê Quang Đạt trúng tuyển vào khóa II Trường Quân sự Hoàng Phố (Quảng Châu, Trung Quốc), mở đầu quá trình đào tạo cán bộ quân sự chính quy đầu tiên cho cách mạng Việt Nam.
+*   **Mùa hè 1925:** Được sự giới thiệu của đồng chí Nguyễn Ái Quốc, Lê Hồng Phong (Lê Huy Doãn) cùng Lê Hồng Sơn và Lê Quang Đạt trúng tuyển vào khóa II Trường Quân sự Hoàng Phố (Quảng Châu, Trung Quốc), mở đầu quá trình đào tạo cán bộ quân sự chính quy đầu tiên cho cách mạng Việt Nam. [Nguồn: Đồng chí Lê Hồng Phong – Nhà lãnh đạo xuất sắc của Đảng (Báo Nhân Dân), https://nhandan.vn/dong-chi-le-hong-phong-nha-lanh-dao-xuat-sac-cua-dang-va-cach-mang-viet-nam-post713500.html]
 
 <!-- id: EVT-1510 -->
-*   **21/06/1925:** Tuần báo *Thanh niên*, cơ quan ngôn luận của Hội Việt Nam Cách mạng Thanh niên, ra số đầu tiên.
+*   **21/06/1925:** Tuần báo *Thanh niên*, cơ quan ngôn luận của Hội Việt Nam Cách mạng Thanh niên, ra số đầu tiên. [Nguồn: Tuần báo Thanh Niên – Cơ quan ngôn luận đầu tiên của cách mạng vô sản Việt Nam (Báo Nhân Dân), https://nhandan.vn/tuan-bao-thanh-nien-to-bao-cach-mang-dau-tien-post652100.html]
 
 <!-- id: EVT-1511 -->
 *   **30/06/1925:** Phan Bội Châu bị thực dân Pháp bắt cóc tại Thượng Hải. [Nguồn: Bảo tàng Lịch sử Quốc gia - Trang trọng lễ giỗ lần thứ 84 của chí sĩ yêu nước Phan Bội Châu, https://baotanglichsu.vn/vi/Articles/3091/75017/trang-trong-le-gio-lan-thu-84-cua-chi-si-yeu-nuoc-phan-boi-chau.html]
 
 <!-- id: EVT-1512 -->
-*   **08/1925:** Cuộc bãi công của hơn 1.000 công nhân xưởng Ba Son (Sài Gòn) do Tôn Đức Thắng lãnh đạo, trì hoãn việc sửa chữa chiến hạm Jules Michelet của Pháp.
+*   **08/1925:** Cuộc bãi công của hơn 1.000 công nhân xưởng Ba Son (Sài Gòn) do Tôn Đức Thắng lãnh đạo, trì hoãn việc sửa chữa chiến hạm Jules Michelet của Pháp. [Nguồn: Cuộc bãi công Ba Son năm 1925 (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13907/bai-cong-ba-son.html]
 
 <!-- id: EVT-1513 -->
-*   **06/11/1925 (20/09 năm Ất Sửu):** Vua Khải Định băng hà tại cung Kiến Trung bên trong Hoàng thành Huế ở tuổi 40 vì bệnh lao phổi sau 9 năm trị vì, thọ táng tại Ứng Lăng (Lăng Khải Định).
+*   **06/11/1925 (20/09 năm Ất Sửu):** Vua Khải Định băng hà tại cung Kiến Trung bên trong Hoàng thành Huế ở tuổi 40 vì bệnh lao phổi sau 9 năm trị vì, thọ táng tại Ứng Lăng (Lăng Khải Định). [Nguồn: Vua Khải Định (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13776/vua-khai-dinh.html]
 
 <!-- id: EVT-1514 -->
 *   **23/11/1925:** Thực dân Pháp đưa Phan Bội Châu ra xét xử tại Hà Nội, làm dấy lên một phong trào quần chúng rộng lớn đòi thả ông. [Nguồn: Bảo tàng Lịch sử Quốc gia - Trang trọng lễ giỗ lần thứ 84 của chí sĩ yêu nước Phan Bội Châu, https://baotanglichsu.vn/vi/Articles/3091/75017/trang-trong-le-gio-lan-thu-84-cua-chi-si-yeu-nuoc-phan-boi-chau.html]
 
 <!-- id: EVT-1515 -->
-*   **24/12/1925:** Toàn quyền Varenne ký lệnh "ân xá" và an trí Phan Bội Châu tại Huế.
+*   **24/12/1925:** Toàn quyền Varenne ký lệnh "ân xá" và an trí Phan Bội Châu tại Huế. [Nguồn: Phan Bội Châu (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13903/phan-boi-chau-nha-chi-si-yeu-nuoc.html]
 
 <!-- id: EVT-1516 -->
 *   **1926:** Huỳnh Thúc Kháng đắc cử đại biểu rồi được bầu làm Viện trưởng Viện Dân biểu Trung Kỳ; tại diễn đàn này, ông đã kiên quyết đấu tranh bảo vệ quyền lợi của nhân dân và đòi các quyền tự do dân chủ tối thiểu.
