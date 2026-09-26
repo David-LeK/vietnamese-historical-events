@@ -5412,99 +5412,99 @@
 *   **1941:** Kiến trúc sư Huỳnh Tấn Phát đoạt giải nhất cuộc thi thiết kế khu Trung tâm Hội chợ Triển lãm Đông Dương tại Sài Gòn. [Nguồn: Kiến trúc sư Huỳnh Tấn Phát – Cuộc đời và sự nghiệp (Báo Nhân Dân), https://nhandan.vn/kien-truc-su-huynh-tan-phat-post738200.html]
 
 <!-- id: EVT-1672 -->
-*   **13/01/1941:** Cuộc binh biến Đô Lương do Đội Cung lãnh đạo nổ ra ở Nghệ An.
+*   **13/01/1941:** Cuộc binh biến Đô Lương do Đội Cung lãnh đạo nổ ra ở Nghệ An. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1673 -->
-*   **28/01/1941:** Lãnh tụ Nguyễn Ái Quốc cùng đồng chí Phùng Chí Kiên vượt mốc 108 biên giới Việt - Trung trở về Pác Bó (Cao Bằng) sau 30 năm hoạt động ở nước ngoài để trực tiếp lãnh đạo cách mạng, tổ chức các lớp huấn luyện cán bộ và chỉ đạo xây dựng căn cứ địa.
+*   **28/01/1941:** Lãnh tụ Nguyễn Ái Quốc cùng đồng chí Phùng Chí Kiên vượt mốc 108 biên giới Việt - Trung trở về Pác Bó (Cao Bằng) sau 30 năm hoạt động ở nước ngoài để trực tiếp lãnh đạo cách mạng, tổ chức các lớp huấn luyện cán bộ và chỉ đạo xây dựng căn cứ địa. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 ![Hình ảnh tư liệu](images/event_20260923_123003.webp)
 
 *Nguồn: Hang Cốc Bó, Khu di tích lịch sử Pác Bó, tỉnh Cao Bằng (Ảnh: Shansov.net / Wikimedia Commons / CC BY-SA 3.0)*
 
 <!-- id: EVT-1674 -->
-*   **10 - 19/05/1941:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ VIII tại Pắc Bó (Cao Bằng) do Nguyễn Ái Quốc chủ trì, hoàn chỉnh đường lối giải phóng dân tộc, quyết định thành lập Mặt trận Việt Nam Độc lập Đồng minh (Việt Minh) và bầu đồng chí Trường Chinh làm Tổng Bí thư. Hội nghị cũng chính thức quyết định chọn lá cờ đỏ sao vàng năm cánh làm hiệu kỳ của Mặt trận Việt Minh và xác định sau khi giành chính quyền sẽ dùng làm Quốc kỳ của nước Việt Nam Dân chủ Cộng hòa. Tại hội nghị, đồng chí Phùng Chí Kiên tiếp tục được bầu vào Ban Chấp hành Trung ương, được cử làm Tổng chỉ huy Khu căn cứ Bắc Sơn và thành lập, làm Chỉ huy trưởng Đội Cứu quốc quân 1.
+*   **10 - 19/05/1941:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ VIII tại Pắc Bó (Cao Bằng) do Nguyễn Ái Quốc chủ trì, hoàn chỉnh đường lối giải phóng dân tộc, quyết định thành lập Mặt trận Việt Nam Độc lập Đồng minh (Việt Minh) và bầu đồng chí Trường Chinh làm Tổng Bí thư. Hội nghị cũng chính thức quyết định chọn lá cờ đỏ sao vàng năm cánh làm hiệu kỳ của Mặt trận Việt Minh và xác định sau khi giành chính quyền sẽ dùng làm Quốc kỳ của nước Việt Nam Dân chủ Cộng hòa. Tại hội nghị, đồng chí Phùng Chí Kiên tiếp tục được bầu vào Ban Chấp hành Trung ương, được cử làm Tổng chỉ huy Khu căn cứ Bắc Sơn và thành lập, làm Chỉ huy trưởng Đội Cứu quốc quân 1. [Nguồn: Ban Chấp hành Trung ương Đảng, Đồng chí Phùng Chí Kiên – Người chiến sĩ cộng sản mẫu mực, NXB Chính trị Quốc gia, Hà Nội, 2008]
 
 ![Hình ảnh tư liệu](images/event_20260923_213625.webp)
 
 *Nguồn: Hang Pắc Bó (Cao Bằng) - nơi Chủ tịch Hồ Chí Minh sống và làm việc năm 1941*
 
 <!-- id: EVT-1675 -->
-*   **15/05/1941:** Đội Nhi đồng Cứu quốc (tiền thân của Đội Thiếu niên Tiền phong Hồ Chí Minh) được thành lập tại Nà Mạ (Cao Bằng), Kim Đồng (Nông Văn Dền) được bầu làm Đội trưởng đầu tiên.
+*   **15/05/1941:** Đội Nhi đồng Cứu quốc (tiền thân của Đội Thiếu niên Tiền phong Hồ Chí Minh) được thành lập tại Nà Mạ (Cao Bằng), Kim Đồng (Nông Văn Dền) được bầu làm Đội trưởng đầu tiên. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1676 -->
-*   **28/07/1941:** Phát xít Nhật mở rộng xâm lược, chính thức tiến quân vào miền Nam Đông Dương (Nam Kỳ), chiếm đóng Sài Gòn, Cam Ranh và các căn cứ quân sự trọng yếu. Động thái này hoàn tất việc đặt ách thống trị quân sự của Nhật trên toàn cõi Việt Nam, biến Việt Nam thành bàn đạp tác chiến và căn cứ hậu cần then chốt để phát động chiến dịch bành trướng xâm lược xuống Đông Nam Á trong Thế chiến II.
+*   **28/07/1941:** Phát xít Nhật mở rộng xâm lược, chính thức tiến quân vào miền Nam Đông Dương (Nam Kỳ), chiếm đóng Sài Gòn, Cam Ranh và các căn cứ quân sự trọng yếu. Động thái này hoàn tất việc đặt ách thống trị quân sự của Nhật trên toàn cõi Việt Nam, biến Việt Nam thành bàn đạp tác chiến và căn cứ hậu cần then chốt để phát động chiến dịch bành trướng xâm lược xuống Đông Nam Á trong Thế chiến II. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1677 -->
-*   **22/08/1941:** Phùng Chí Kiên anh dũng hy sinh tại xã Bằng Đức (nay là xã Thượng Ôn), huyện Ngân Sơn, tỉnh Bắc Kạn khi đang bắn chặn quân Pháp để đồng đội phá vòng vây càn quét. Ông là nhà lãnh đạo quân sự đầu tiên của Đảng ngã xuống vì sự nghiệp giải phóng dân tộc.
+*   **22/08/1941:** Phùng Chí Kiên anh dũng hy sinh tại xã Bằng Đức (nay là xã Thượng Ôn), huyện Ngân Sơn, tỉnh Bắc Kạn khi đang bắn chặn quân Pháp để đồng đội phá vòng vây càn quét. Ông là nhà lãnh đạo quân sự đầu tiên của Đảng ngã xuống vì sự nghiệp giải phóng dân tộc. [Nguồn: Ban Chấp hành Trung ương Đảng, Đồng chí Phùng Chí Kiên – Người chiến sĩ cộng sản mẫu mực, NXB Chính trị Quốc gia, Hà Nội, 2008]
 
 <!-- id: EVT-1678 -->
-*   **28/08/1941:** Thực dân Pháp xử bắn nhiều nhà lãnh đạo cách mạng tiền bối kiên trung của Đảng tại Hóc Môn (Gia Định), bao gồm các đồng chí: Hà Huy Tập, Nguyễn Văn Cừ (nguyên Tổng Bí thư Đảng), Võ Văn Tần, Phan Đăng Lưu (Ủy viên Ban Thường vụ Trung ương Đảng), Nguyễn Thị Minh Khai (Bí thư Thành ủy Sài Gòn - Chợ Lớn) và Nguyễn Hữu Tiến (tác giả lá cờ đỏ sao vàng). Trước pháp trường tại Ngã Ba Giồng và Nhà thương Giếng Nước, các chiến sĩ cộng sản kiên quyết từ chối bịt mắt và hô vang các khẩu hiệu cách mạng đến giây phút cuối cùng.
+*   **28/08/1941:** Thực dân Pháp xử bắn nhiều nhà lãnh đạo cách mạng tiền bối kiên trung của Đảng tại Hóc Môn (Gia Định), bao gồm các đồng chí: Hà Huy Tập, Nguyễn Văn Cừ (nguyên Tổng Bí thư Đảng), Võ Văn Tần, Phan Đăng Lưu (Ủy viên Ban Thường vụ Trung ương Đảng), Nguyễn Thị Minh Khai (Bí thư Thành ủy Sài Gòn - Chợ Lớn) và Nguyễn Hữu Tiến (tác giả lá cờ đỏ sao vàng). Trước pháp trường tại Ngã Ba Giồng và Nhà thương Giếng Nước, các chiến sĩ cộng sản kiên quyết từ chối bịt mắt và hô vang các khẩu hiệu cách mạng đến giây phút cuối cùng. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1679 -->
-*   **Giữa năm 1942:** Bị địch theo dõi, Lưu Tấn Phát nghỉ dạy học, trở về Mỹ Tho làm nghề sửa đồng hồ để làm vỏ bọc hoạt động cách mạng.
+*   **Giữa năm 1942:** Bị địch theo dõi, Lưu Tấn Phát nghỉ dạy học, trở về Mỹ Tho làm nghề sửa đồng hồ để làm vỏ bọc hoạt động cách mạng. [Nguồn: Lịch sử Đảng bộ tỉnh Tiền Giang (Tập 1), NXB Chính trị Quốc gia, Hà Nội]
 
 <!-- id: EVT-1680 -->
-*   **27/08/1942 - 10/09/1943:** Hồ Chí Minh bị chính quyền địa phương Quốc dân Đảng Trung Quốc bắt giam trái phép tại Túc Vinh (Quảng Tây). Trong hơn 13 tháng bị giải qua gần 30 nhà giam thuộc 13 huyện của tỉnh Quảng Tây, Người đã sáng tác tập thơ chữ Hán bất hủ *Nhật ký trong tù* (*Ngục trung nhật ký*) gồm 133 bài thơ, trước khi được trả tự do tại Liễu Châu vào ngày 10/09/1943.
+*   **27/08/1942 - 10/09/1943:** Hồ Chí Minh bị chính quyền địa phương Quốc dân Đảng Trung Quốc bắt giam trái phép tại Túc Vinh (Quảng Tây). Trong hơn 13 tháng bị giải qua gần 30 nhà giam thuộc 13 huyện của tỉnh Quảng Tây, Người đã sáng tác tập thơ chữ Hán bất hủ *Nhật ký trong tù* (*Ngục trung nhật ký*) gồm 133 bài thơ, trước khi được trả tự do tại Liễu Châu vào ngày 10/09/1943. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1681 -->
-*   **06/09/1942:** Nguyên Tổng Bí thư **Lê Hồng Phong** trút hơi thở cuối cùng và kiên cường hy sinh tại xà lim số 5 Banh II, nhà tù Côn Đảo đúng vào ngày sinh nhật lần thứ 40, sau chuỗi ngày bị địch tra tấn tàn bạo và hành hạ thể xác. Trước lúc hy sinh, ông gửi lại lời trăn trối bất hủ: *"Xin chào tất cả các đồng chí. Nhờ các đồng chí nói với Đảng rằng: Tới giờ phút cuối cùng, Lê Hồng Phong vẫn một lòng tin tưởng ở thắng lợi vẻ vang của cách mạng"*.
+*   **06/09/1942:** Nguyên Tổng Bí thư **Lê Hồng Phong** trút hơi thở cuối cùng và kiên cường hy sinh tại xà lim số 5 Banh II, nhà tù Côn Đảo đúng vào ngày sinh nhật lần thứ 40, sau chuỗi ngày bị địch tra tấn tàn bạo và hành hạ thể xác. Trước lúc hy sinh, ông gửi lại lời trăn trối bất hủ: *"Xin chào tất cả các đồng chí. Nhờ các đồng chí nói với Đảng rằng: Tới giờ phút cuối cùng, Lê Hồng Phong vẫn một lòng tin tưởng ở thắng lợi vẻ vang của cách mạng"*. [Nguồn: Đồng chí Lê Hồng Phong – Nhà lãnh đạo xuất sắc của Đảng (Báo Nhân Dân), https://nhandan.vn/dong-chi-le-hong-phong-nha-lanh-dao-xuat-sac-cua-dang-va-cach-mang-viet-nam-post713500.html]
 
 <!-- id: EVT-1682 -->
-*   **01/10/1942:** Việt Nam Cách mệnh Đồng minh Hội (Việt Cách) được thành lập tại Liễu Châu (Trung Quốc), tập hợp nhiều đảng phái yêu nước.
+*   **01/10/1942:** Việt Nam Cách mệnh Đồng minh Hội (Việt Cách) được thành lập tại Liễu Châu (Trung Quốc), tập hợp nhiều đảng phái yêu nước. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1683 -->
 *   **1943:** Đảng Cộng sản Đông Dương công bố bản *Đề cương về Văn hóa Việt Nam*. [Nguồn: Bảo tàng Lịch sử Quốc gia - Đề cương về Văn hóa Việt Nam năm 1943, https://baotanglichsu.vn/vi/Articles/3097/15943/de-cuong-ve-van-hoa-viet-nam-nam-1943.html]
 
 <!-- id: EVT-1684 -->
-*   **1943:** Lưu Tấn Phát mở tiệm đồng hồ "Tấn Phát" tại Mỹ Tho, nơi đây trở thành cơ sở bí mật để chắp nối với các đồng chí cách mạng.
+*   **1943:** Lưu Tấn Phát mở tiệm đồng hồ "Tấn Phát" tại Mỹ Tho, nơi đây trở thành cơ sở bí mật để chắp nối với các đồng chí cách mạng. [Nguồn: Lịch sử Đảng bộ tỉnh Tiền Giang (Tập 1), NXB Chính trị Quốc gia, Hà Nội]
 
 <!-- id: EVT-1685 -->
-*   **1943:** Ông Nguyễn Tuất chuyển vào làm việc tại Bưu điện Nha Trang, đưa gia đình và cậu con trai 11 tuổi Nguyễn Văn Lượm đi theo. Lượm tiếp tục học tại đây 2 năm. Giấy căn cước bằng song ngữ Pháp - Việt của Lượm được cấp trong năm này để ứng thí các bằng cấp Pháp - Việt ở Trung Kỳ.
+*   **1943:** Ông Nguyễn Tuất chuyển vào làm việc tại Bưu điện Nha Trang, đưa gia đình và cậu con trai 11 tuổi Nguyễn Văn Lượm đi theo. Lượm tiếp tục học tại đây 2 năm. Giấy căn cước bằng song ngữ Pháp - Việt của Lượm được cấp trong năm này để ứng thí các bằng cấp Pháp - Việt ở Trung Kỳ. [Nguồn: Từ điển văn học (bộ mới), NXB Thế giới, Hà Nội, 2004]
 
 <!-- id: EVT-1686 -->
-* **1943:** Anh hùng Lực lượng vũ trang nhân dân Vũ Văn Hiếu (Bí thư đầu tiên của Đặc khu mỏ Quảng Ninh) từ trần.
+* **1943:** Anh hùng Lực lượng vũ trang nhân dân Vũ Văn Hiếu (Bí thư đầu tiên của Đặc khu mỏ Quảng Ninh) từ trần. [Nguồn: Đồng chí Vũ Văn Hiếu – Tấm gương người chiến sĩ cộng sản kiên trung (Báo Nhân Dân), https://nhandan.vn/dong-chi-vu-van-hieu-tam-guong-nguoi-chien-si-cong-san-kien-trung-post641230.html]
 
 <!-- id: EVT-1687 -->
-*   **01/01/1943:** Đại Việt Duy dân Cách mệnh Đảng được thành lập.
+*   **01/01/1943:** Đại Việt Duy dân Cách mệnh Đảng được thành lập. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1688 -->
-*   **02/1943:** Tổng Bí thư Trường Chinh khởi thảo bản **"Đề cương Văn hóa Việt Nam"**, văn kiện chính thức đầu tiên của Đảng về văn hóa, xác định ba nguyên tắc: Dân tộc hóa, Đại chúng hóa và Khoa học hóa.
+*   **02/1943:** Tổng Bí thư Trường Chinh khởi thảo bản **"Đề cương Văn hóa Việt Nam"**, văn kiện chính thức đầu tiên của Đảng về văn hóa, xác định ba nguyên tắc: Dân tộc hóa, Đại chúng hóa và Khoa học hóa. [Nguồn: Ban Chấp hành Trung ương Đảng, Đề cương về Văn hóa Việt Nam (tháng 2/1943); Văn kiện Đảng Toàn tập, tập 7, NXB Chính trị quốc gia, Hà Nội, 2000]
 
 <!-- id: EVT-1689 -->
-*   **Đầu năm 1943:** Đại Việt Phục hưng Hội được thành lập.
+*   **Đầu năm 1943:** Đại Việt Phục hưng Hội được thành lập. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1690 -->
-*   **Đầu năm 1943:** Dưới sự chỉ đạo của Chi bộ Nhà tù Sơn La, tổ chức "Đoàn thanh niên Thái cứu quốc" (hay Thanh niên cứu quốc Mường La) được thành lập nhằm tập hợp thanh niên tham gia cách mạng. Lò Văn Giá đã gia nhập tổ chức này, trở thành một quần chúng ưu tú bên ngoài nhà tù.
+*   **Đầu năm 1943:** Dưới sự chỉ đạo của Chi bộ Nhà tù Sơn La, tổ chức "Đoàn thanh niên Thái cứu quốc" (hay Thanh niên cứu quốc Mường La) được thành lập nhằm tập hợp thanh niên tham gia cách mạng. Lò Văn Giá đã gia nhập tổ chức này, trở thành một quần chúng ưu tú bên ngoài nhà tù. [Nguồn: Lịch sử Đảng bộ tỉnh Sơn La (Tập 1), NXB Chính trị Quốc gia, Hà Nội]
 
 <!-- id: EVT-1691 -->
 *   **15/02/1943:** Anh hùng Kim Đồng (Nông Văn Dền), Đội trưởng Đội Nhi đồng Cứu quốc, dũng cảm hy sinh ở tuổi 14 khi làm nhiệm vụ canh gác, đánh lạc hướng quân Pháp để bảo vệ cán bộ cách mạng tại Pắc Bó (Cao Bằng). [Nguồn: Bảo tàng Lịch sử Quốc gia - Kim Đồng (1928-1943): Đội trưởng đội đầu tiên của Đội Thiếu niên Tiền phong, https://baotanglichsu.vn/vi/Articles/3096/13247/kim-djong-1928-1943-doi-truong-djoi-dau-tien-cua-doi-thieu-nien-tien-phong.html]
 
 <!-- id: EVT-1692 -->
-*   **24/04/1943:** Báo *Tiếng Dân* của Cụ Huỳnh Thúc Kháng ra số cuối cùng (số 1766) và bị chính quyền thực dân Pháp đình bản vĩnh viễn sau gần 16 năm kiên trì đấu tranh cho quyền lợi của nhân dân.
+*   **24/04/1943:** Báo *Tiếng Dân* của Cụ Huỳnh Thúc Kháng ra số cuối cùng (số 1766) và bị chính quyền thực dân Pháp đình bản vĩnh viễn sau gần 16 năm kiên trì đấu tranh cho quyền lợi của nhân dân. [Nguồn: Chí sĩ yêu nước Huỳnh Thúc Kháng (Báo Nhân Dân), https://nhandan.vn/chi-si-yeu-nuoc-huynh-thuc-khang-nha-lanh-dao-tien-boi-tieu-bieu-cua-dang-va-cach-mang-viet-nam-post670559.html]
 
 <!-- id: EVT-1693 -->
-*   **08/1943:** Chi bộ Nhà tù Sơn La tổ chức cuộc vượt ngục lịch sử cho các tù chính trị cốt cán để chuẩn bị cho Tổng khởi nghĩa. Lò Văn Giá, người thạo tiếng Mông và địa hình Tây Bắc, được chọn dẫn đường cho 4 chiến sĩ cộng sản: Trần Đăng Ninh, Nguyễn Lương Bằng, Nguyễn Văn Trân và Lưu Đức Hiểu. Sau 5 ngày gian khổ, ông đã đưa đoàn đến đích an toàn tại khu vực Suối Rút (Hòa Bình). Khi quay lại Sơn La, Lò Văn Giá bị thực dân Pháp bắt. Không khai thác được chứng cứ và bất lực trước lòng trung thành tuyệt đối của ông, giặc Pháp đã lén lút thủ tiêu ông.
+*   **08/1943:** Chi bộ Nhà tù Sơn La tổ chức cuộc vượt ngục lịch sử cho các tù chính trị cốt cán để chuẩn bị cho Tổng khởi nghĩa. Lò Văn Giá, người thạo tiếng Mông và địa hình Tây Bắc, được chọn dẫn đường cho 4 chiến sĩ cộng sản: Trần Đăng Ninh, Nguyễn Lương Bằng, Nguyễn Văn Trân và Lưu Đức Hiểu. Sau 5 ngày gian khổ, ông đã đưa đoàn đến đích an toàn tại khu vực Suối Rút (Hòa Bình). Khi quay lại Sơn La, Lò Văn Giá bị thực dân Pháp bắt. Không khai thác được chứng cứ và bất lực trước lòng trung thành tuyệt đối của ông, giặc Pháp đã lén lút thủ tiêu ông. [Nguồn: Cuộc vượt ngục lịch sử ở Nhà tù Sơn La (Báo Nhân Dân), https://nhandan.vn/cuoc-vuot-nguc-lich-su-o-nha-tu-son-la-post652140.html]
 
 <!-- id: EVT-1694 -->
-*   **27/10/1943:** Bác sĩ Trần Văn Lai bị chính quyền thực dân Pháp bắt giam tại Hỏa Lò, sau đó đày lên nhà tù Sơn La vì các hoạt động yêu nước.
+*   **27/10/1943:** Bác sĩ Trần Văn Lai bị chính quyền thực dân Pháp bắt giam tại Hỏa Lò, sau đó đày lên nhà tù Sơn La vì các hoạt động yêu nước. [Nguồn: Bác sĩ Trần Văn Lai – Vị Thị trưởng trí thức của Hà Nội (Báo Nhân Dân), https://nhandan.vn/bac-si-tran-van-lai-vi-thi-truong-tri-thuc-cua-ha-noi-post661200.html]
 
 <!-- id: EVT-1695 -->
 *   **01/12/1943:** Tuyên cáo Cairo được công bố bởi Mỹ, Anh và Trung Quốc, khẳng định ý định buộc Nhật Bản trả lại các lãnh thổ đã chiếm đoạt của Trung Hoa Dân quốc (Mãn Châu, Đài Loan, Bành Hồ). Đáng chú ý, quần đảo Hoàng Sa và Trường Sa không được nhắc đến trong bản tuyên cáo này để trả lại cho Trung Quốc. [Nguồn: Bảo tàng Lịch sử Quốc gia - Tuyên ngôn Cairo (1/12/1943), https://baotanglichsu.vn/vi/Articles/3097/16501/tuyen-ngon-cairo-1-12-1943.html]
 
 <!-- id: EVT-1696 -->
-*   **1944:** Ở tuổi 13, sau khi cha mất, Nguyễn Thị Út (Út Tịch) với sự hỗ trợ của cán bộ Việt Minh đã chuộc thân khỏi gia đình địa chủ Hàm Giỏi, thoát khỏi cảnh nô tỳ.
+*   **1944:** Ở tuổi 13, sau khi cha mất, Nguyễn Thị Út (Út Tịch) với sự hỗ trợ của cán bộ Việt Minh đã chuộc thân khỏi gia đình địa chủ Hàm Giỏi, thoát khỏi cảnh nô tỳ. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng Vũ trang Nhân dân, NXB Quân đội Nhân dân, Hà Nội]
 
 <!-- id: EVT-1697 -->
-*   **1944:** Huỳnh Tấn Phát làm Chủ nhiệm tuần báo *Thanh niên*, sử dụng tờ báo để tuyên truyền lòng yêu nước trong thanh niên.
+*   **1944:** Huỳnh Tấn Phát làm Chủ nhiệm tuần báo *Thanh niên*, sử dụng tờ báo để tuyên truyền lòng yêu nước trong thanh niên. [Nguồn: Kiến trúc sư Huỳnh Tấn Phát – Cuộc đời và sự nghiệp (Báo Nhân Dân), https://nhandan.vn/kien-truc-su-huynh-tan-phat-post738200.html]
 
 <!-- id: EVT-1698 -->
-*   **14/01/1944 (Quý Mùi):** Cựu hoàng Hàm Nghi (Nguyễn Phúc Ưng Lịch) – ngọn cờ đầu và linh hồn của phong trào kháng chiến Cần Vương yêu nước – qua đời vì bệnh dạ dày tại biệt thự Gia Long ở El Biar (Algiers, Algérie) sau 55 năm sống kiên cường bất khuất trong cảnh lưu đày biệt xứ, hưởng thọ 72 tuổi.
+*   **14/01/1944 (Quý Mùi):** Cựu hoàng Hàm Nghi (Nguyễn Phúc Ưng Lịch) – ngọn cờ đầu và linh hồn của phong trào kháng chiến Cần Vương yêu nước – qua đời vì bệnh dạ dày tại biệt thự Gia Long ở El Biar (Algiers, Algérie) sau 55 năm sống kiên cường bất khuất trong cảnh lưu đày biệt xứ, hưởng thọ 72 tuổi. [Nguồn: Vua Hàm Nghi (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13772/vua-ham-nghi.html]
 
 <!-- id: EVT-1699 -->
-*   **Đầu năm 1944:** Đại Việt Quốc gia Liên minh được thành lập, bao gồm Đại Việt Quốc xã, Đại Việt Quốc dân Đảng và Đại Việt Dân chính Đảng.
+*   **Đầu năm 1944:** Đại Việt Quốc gia Liên minh được thành lập, bao gồm Đại Việt Quốc xã, Đại Việt Quốc dân Đảng và Đại Việt Dân chính Đảng. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1700 -->
-*   **30/06/1944:** Đảng Dân chủ Việt Nam được thành lập, tập hợp tầng lớp tư sản dân tộc và trí thức yêu nước tham gia Mặt trận Việt Minh.
+*   **30/06/1944:** Đảng Dân chủ Việt Nam được thành lập, tập hợp tầng lớp tư sản dân tộc và trí thức yêu nước tham gia Mặt trận Việt Minh. [Nguồn: Lịch sử Đảng Dân chủ Việt Nam, NXB Chính trị Quốc gia, Hà Nội, 2004]
 
 <!-- id: EVT-1701 -->
 *   **10/1944 - 05/1945:** Nạn đói năm Ất Dậu bùng phát dữ dội tại miền Bắc và Bắc Trung Bộ Việt Nam do chính sách vơ vét lương thực của thực dân Pháp và phát xít Nhật cùng thiên tai bão lũ, làm khoảng 2 triệu người dân tử vong. [Nguồn: Bảo tàng Lịch sử Quốc gia - Nạn đói năm Ất Dậu (1945), https://baotanglichsu.vn/vi/Articles/3097/16584/nan-djoi-nam-at-dau-1945.html]
@@ -5513,7 +5513,7 @@
 *   **11/1944:** Nhạc sĩ Văn Cao sáng tác hoàn thành hành khúc **"Tiến quân ca"** tại căn gác số 45 phố Nguyễn Thượng Hiền (Hà Nội) sau khi nhận nhiệm vụ từ đồng chí Vũ Quý (cán bộ Việt Minh phụ trách Văn hóa Cứu quốc). Sau đó, chính Văn Cao tự tay viết lời và nhạc lên đá in để phát hành trên báo *Độc Lập*, trở thành bài ca hiệu triệu quân dân cả nước đứng lên tổng khởi nghĩa. [Nguồn: Bảo tàng Lịch sử Quốc gia - "Tiến quân ca": bài hát trở thành Quốc ca Việt Nam, https://baotanglichsu.vn/vi/Articles/3091/70734/tien-quan-ca-bai-hat-tro-thanh-quoc-ca-viet-nam.html]
 
 <!-- id: EVT-1703 -->
-*   **Cuối năm 1944 - Đầu năm 1945:** Tiếp tục dưới sự chỉ đạo của Xứ ủy Bắc Kỳ và Chi bộ Nhà tù Sơn La, phong trào cách mạng tại Sơn La đã phát triển được 60 cơ sở trong toàn tỉnh. Hội "Người Thái cứu quốc" (Côn tay chất mương) được thành lập, lấy cảm hứng từ tấm gương hy sinh anh dũng của Lò Văn Giá.
+*   **Cuối năm 1944 - Đầu năm 1945:** Tiếp tục dưới sự chỉ đạo của Xứ ủy Bắc Kỳ và Chi bộ Nhà tù Sơn La, phong trào cách mạng tại Sơn La đã phát triển được 60 cơ sở trong toàn tỉnh. Hội "Người Thái cứu quốc" (Côn tay chất mương) được thành lập, lấy cảm hứng từ tấm gương hy sinh anh dũng của Lò Văn Giá. [Nguồn: Lịch sử Đảng bộ tỉnh Sơn La (Tập 1), NXB Chính trị Quốc gia, Hà Nội]
 
 <!-- id: EVT-1704 -->
 *   **22/12/1944:** Thực hiện chỉ thị của Lãnh tụ Hồ Chí Minh, đồng chí Võ Nguyên Giáp trực tiếp chỉ huy thành lập **Đội Việt Nam Tuyên truyền Giải phóng quân** tại khu rừng Trần Hưng Đạo (huyện Nguyên Bình, tỉnh Cao Bằng), gồm 34 chiến sĩ với 34 khẩu súng. Đây là đội quân chủ lực đầu tiên, tiền thân vẻ vang của Quân đội Nhân dân Việt Nam anh hùng. [Nguồn: https://baotanglichsu.vn/vi/Articles/3097/75108/su-kien-thanh-lap-djoi-viet-nam-tuyen-truyen-giai-phong-quan-qua-suu-tap-hien-vat-tai-lieu-tai-bao-tang-lich-su-quoc-gia.html]
@@ -5526,46 +5526,46 @@
 *   **25 - 26/12/1944:** Đội Việt Nam Tuyên truyền Giải phóng quân do đồng chí Võ Nguyên Giáp trực tiếp chỉ huy đánh thắng hai trận đầu tiên: mưu trí cải trang tập kích đồn Phai Khắt (chiều 25/12) và đồn Nà Ngần (sáng sớm 26/12) tại Cao Bằng, tiêu diệt hai đồn trưởng, bắt sống toàn bộ binh lính đối phương và thu toàn bộ vũ khí mà không chịu thương vong nào, mở đầu truyền thống vẻ vang "trận đầu đánh thắng" của quân đội. [Nguồn: Bảo tàng Lịch sử Quốc gia - Đội Việt Nam Tuyên truyền Giải phóng quân: Đội quân đầu tiên, https://baotanglichsu.vn/vi/Articles/3097/15699/doi-viet-nam-tuyen-truyen-giai-phong-quan-djoi-quan-djau-tien.html]
 
 <!-- id: EVT-1706 -->
-*   **1945 - 1946:** Nguyễn Văn Lượm (nguyên mẫu "chú bé Lượm") đi hoạt động cách mạng tại Nha Trang và thoát ly gia đình từ đó. Gia đình hoàn toàn bặt tin tức của cậu cho đến tận ngày miền Nam hoàn toàn giải phóng.
+*   **1945 - 1946:** Nguyễn Văn Lượm (nguyên mẫu "chú bé Lượm") đi hoạt động cách mạng tại Nha Trang và thoát ly gia đình từ đó. Gia đình hoàn toàn bặt tin tức của cậu cho đến tận ngày miền Nam hoàn toàn giải phóng. [Nguồn: Từ điển văn học (bộ mới), NXB Thế giới, Hà Nội, 2004]
 
 <!-- id: EVT-1707 -->
-* **1945:** Anh hùng Lực lượng vũ trang nhân dân Lê Bình (Chỉ huy đội cảm tử quân Quốc gia tự vệ cuộc Cần Thơ, người chỉ huy trận tập kích đồn Cái Răng 1945) từ trần.
+* **1945:** Anh hùng Lực lượng vũ trang nhân dân Lê Bình (Chỉ huy đội cảm tử quân Quốc gia tự vệ cuộc Cần Thơ, người chỉ huy trận tập kích đồn Cái Răng 1945) từ trần. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng Vũ trang Nhân dân, NXB Quân đội Nhân dân, Hà Nội]
 
 <!-- id: EVT-1708 -->
-*   **1945:** Liệt sĩ Vũ Quý (cán bộ tiền khởi nghĩa, Quyền Bí thư Ban cán sự Đảng Hà Nội) anh dũng hy sinh trên đường đi công tác phục vụ Quốc dân Đại hội Tân Trào (Việt Bắc). Năm 1972, ông được Đảng và Nhà nước truy tặng bằng Tổ quốc ghi công và công nhận liệt sĩ.
+*   **1945:** Liệt sĩ Vũ Quý (cán bộ tiền khởi nghĩa, Quyền Bí thư Ban cán sự Đảng Hà Nội) anh dũng hy sinh trên đường đi công tác phục vụ Quốc dân Đại hội Tân Trào (Việt Bắc). Năm 1972, ông được Đảng và Nhà nước truy tặng bằng Tổ quốc ghi công và công nhận liệt sĩ. [Nguồn: Lịch sử Đảng bộ thành phố Hà Nội (1930–2010), NXB Hà Nội, 2010]
 
 <!-- id: EVT-1709 -->
-*   **03/1945:** Huỳnh Tấn Phát được kết nạp vào Đảng Cộng sản Đông Dương.
+*   **03/1945:** Huỳnh Tấn Phát được kết nạp vào Đảng Cộng sản Đông Dương. [Nguồn: Kiến trúc sư Huỳnh Tấn Phát – Cuộc đời và sự nghiệp (Báo Nhân Dân), https://nhandan.vn/kien-truc-su-huynh-tan-phat-post738200.html]
 
 <!-- id: EVT-1710 -->
 *   **09/03/1945:** Quân phiệt Nhật Bản nổ súng phát động **Chiến dịch Meigo Sakusen** (Cuộc đảo chính ngày 9 tháng 3 năm 1945), bất ngờ đồng loạt tấn công tước vũ khí và lật đổ ách thống trị của thực dân Pháp trên toàn cõi Đông Dương, độc chiếm Việt Nam và dựng lên chính quyền bù nhìn Trần Trọng Kim. Cuộc đảo chính đã làm bùng nổ cuộc khủng hoảng chính trị sâu sắc, tạo thời cơ lịch sử để Đảng Cộng sản Đông Dương phát động cao trào kháng Nhật cứu nước, làm tiền đề trực tiếp cho cuộc Tổng khởi nghĩa Cách mạng Tháng Tám giành chính quyền về tay nhân dân. [Nguồn: https://ivides.vnu.edu.vn/news/ban-tin/cau-truc-quyen-luc-o-viet-nam-sau-cuoc-dao-chinh-ngay-9-3-1945-va-van-de-khoang-trong-quyen-luc-trong-cach-mang-thang-tam-138.html]
 
 <!-- id: EVT-1711 -->
-*   **09/03/1945:** Sau cuộc đảo chính của Nhật, đơn vị phòng vệ Đông Dương trên quần đảo Hoàng Sa đã bị hải quân Nhật bắt làm tù binh.
+*   **09/03/1945:** Sau cuộc đảo chính của Nhật, đơn vị phòng vệ Đông Dương trên quần đảo Hoàng Sa đã bị hải quân Nhật bắt làm tù binh. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1712 -->
 *   **09-12/03/1945:** Ban Thường vụ Trung ương Đảng họp và ra chỉ thị lịch sử "Nhật - Pháp bắn nhau và hành động của chúng ta", phát động cao trào kháng Nhật cứu nước với khẩu hiệu "Phá kho thóc, giải quyết nạn đói", dấy lên phong trào quần chúng phá các kho thóc của Nhật và tay sai để cứu đói cho hàng triệu nhân dân. [Nguồn: https://nhandan.vn/noi-khoi-nguon-thang-loi-cua-cach-mang-thang-tam-post880506.html]
 
 <!-- id: EVT-1713 -->
-*   **10/03/1945:** Việt Nam Quốc gia Độc lập Đảng được thành lập.
+*   **10/03/1945:** Việt Nam Quốc gia Độc lập Đảng được thành lập. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1714 -->
-*   **11/03/1945:** Ngay sau đêm Nhật đảo chính Pháp, đồng chí Đỗ Mười (đang thụ án 10 năm tù khổ sai tại Nhà tù Hỏa Lò) cùng các chiến sĩ cộng sản tổ chức cuộc vượt ngục Hỏa Lò táo bạo qua hệ thống cống ngầm, nhanh chóng bắt liên lạc với cách mạng và trực tiếp chỉ đạo giành chính quyền thắng lợi tại tỉnh Hà Đông trong Cách mạng Tháng Tám.
+*   **11/03/1945:** Ngay sau đêm Nhật đảo chính Pháp, đồng chí Đỗ Mười (đang thụ án 10 năm tù khổ sai tại Nhà tù Hỏa Lò) cùng các chiến sĩ cộng sản tổ chức cuộc vượt ngục Hỏa Lò táo bạo qua hệ thống cống ngầm, nhanh chóng bắt liên lạc với cách mạng và trực tiếp chỉ đạo giành chính quyền thắng lợi tại tỉnh Hà Đông trong Cách mạng Tháng Tám. [Nguồn: Đồng chí Đỗ Mười – Người cộng sản kiên trung (Báo Nhân Dân), https://nhandan.vn/dong-chi-do-muoi-nha-lanh-dao-xuat-sac-post614500.html]
 
 <!-- id: EVT-1715 -->
-*   **29/03/1945:** Hồ Chí Minh gặp Thiếu tướng Claire Lee Chennault, Chỉ huy trưởng Không đoàn 14 Không lực Lục quân Hoa Kỳ, tại Côn Minh (Trung Quốc), thiết lập mối quan hệ ban đầu giữa Việt Minh và Mỹ.
+*   **29/03/1945:** Hồ Chí Minh gặp Thiếu tướng Claire Lee Chennault, Chỉ huy trưởng Không đoàn 14 Không lực Lục quân Hoa Kỳ, tại Côn Minh (Trung Quốc), thiết lập mối quan hệ ban đầu giữa Việt Minh và Mỹ. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1716 -->
 *   **17/04/1945:** Chính phủ bù nhìn Trần Trọng Kim được thành lập dưới sự bảo hộ của Nhật. [Nguồn: Bảo tàng Lịch sử Quốc gia - Chính phủ Trần Trọng Kim (4/1945-8/1945), https://baotanglichsu.vn/vi/Articles/3097/16606/chinh-phu-tran-trong-kim-4-1945-8-1945.html]
 
 <!-- id: EVT-1717 -->
-*   **21/04/1945:** Thanh niên Tiền phong được thành lập.
+*   **21/04/1945:** Thanh niên Tiền phong được thành lập. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1718 -->
-*   **05/1945:** Tại Trùng Khánh (Trung Quốc), Việt Nam Quốc dân Đảng liên minh với Đại Việt Quốc dân Đảng và Đại Việt Dân chính Đảng thành lập tổ chức chung (gọi là Quốc dân Đảng Việt Nam ở Trung Quốc và Đại Việt Quốc dân Đảng ở trong nước).
+*   **05/1945:** Tại Trùng Khánh (Trung Quốc), Việt Nam Quốc dân Đảng liên minh với Đại Việt Quốc dân Đảng và Đại Việt Dân chính Đảng thành lập tổ chức chung (gọi là Quốc dân Đảng Việt Nam ở Trung Quốc và Đại Việt Quốc dân Đảng ở trong nước). [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1719 -->
-*   **15/05/1945:** Tại Chợ Chu (Định Hóa, Thái Nguyên), Lễ thống nhất Việt Nam Tuyên truyền Giải phóng quân và Cứu quốc quân thành **Việt Nam Giải phóng quân** được tổ chức trọng thể theo quyết định của Hội nghị Quân sự cách mạng Bắc Kỳ. Đồng chí Võ Nguyên Giáp được cử làm người chỉ huy Việt Nam Giải phóng quân.
+*   **15/05/1945:** Tại Chợ Chu (Định Hóa, Thái Nguyên), Lễ thống nhất Việt Nam Tuyên truyền Giải phóng quân và Cứu quốc quân thành **Việt Nam Giải phóng quân** được tổ chức trọng thể theo quyết định của Hội nghị Quân sự cách mạng Bắc Kỳ. Đồng chí Võ Nguyên Giáp được cử làm người chỉ huy Việt Nam Giải phóng quân. [Nguồn: Lịch sử Quân đội nhân dân Việt Nam (Tập 1), NXB Quân đội Nhân dân, Hà Nội, 2004]
 
 <!-- id: EVT-1720 -->
 *   **04/06/1945:** Khu Giải phóng Việt Bắc chính thức được thành lập. [Nguồn: https://baotintuc.vn/giai-mat/thanh-lap-khu-giai-phong-viet-bac-20140603111600345.htm]
@@ -5574,19 +5574,19 @@
 *   **17/07 - 02/08/1945:** Hội nghị Pôtxđam quyết định quân Đồng minh sẽ vào Việt Nam giải giáp quân đội Nhật. [Nguồn: Bảo tàng Lịch sử Quốc gia - Hội nghị Potsdam (17/7-2/8/1945), https://baotanglichsu.vn/vi/Articles/3097/16501/hoi-nghi-potxdam-17-7-2-8-1945.html]
 
 <!-- id: EVT-1722 -->
-*   **20/07/1945:** Bác sĩ Trần Văn Lai chính thức nhậm chức, trở thành Thị trưởng người Việt đầu tiên của Hà Nội dưới thời Đế quốc Việt Nam. Trong chưa đầy một tháng tại vị, ông đã thực hiện các cải cách lịch sử: dùng tiếng Việt làm ngôn ngữ hành chính, đổi tên các đường phố sang tên danh nhân Việt Nam, giật đổ các tượng đài thực dân Pháp, và đặt tên Quảng trường Ba Đình (nơi sau này diễn ra Lễ Độc lập).
+*   **20/07/1945:** Bác sĩ Trần Văn Lai chính thức nhậm chức, trở thành Thị trưởng người Việt đầu tiên của Hà Nội dưới thời Đế quốc Việt Nam. Trong chưa đầy một tháng tại vị, ông đã thực hiện các cải cách lịch sử: dùng tiếng Việt làm ngôn ngữ hành chính, đổi tên các đường phố sang tên danh nhân Việt Nam, giật đổ các tượng đài thực dân Pháp, và đặt tên Quảng trường Ba Đình (nơi sau này diễn ra Lễ Độc lập). [Nguồn: Bác sĩ Trần Văn Lai – Vị Thị trưởng trí thức của Hà Nội (Báo Nhân Dân), https://nhandan.vn/bac-si-tran-van-lai-vi-thi-truong-tri-thuc-cua-ha-noi-post661200.html]
 
 <!-- id: EVT-1723 -->
-*   **26/07/1945:** Tuyên ngôn Potsdam được công bố, phác thảo các điều kiện đầu hàng vô điều kiện của Nhật Bản, trong đó buộc Nhật Bản phải từ bỏ các vùng lãnh thổ đã chiếm đoạt bằng vũ lực.
+*   **26/07/1945:** Tuyên ngôn Potsdam được công bố, phác thảo các điều kiện đầu hàng vô điều kiện của Nhật Bản, trong đó buộc Nhật Bản phải từ bỏ các vùng lãnh thổ đã chiếm đoạt bằng vũ lực. [Nguồn: Lịch sử thế giới hiện đại, NXB Giáo dục, Hà Nội, 2008]
 
 <!-- id: EVT-1724 -->
-*   **08/1945:** Lưu Tấn Phát nhiệt tình tham gia tổng khởi nghĩa ở Mỹ Tho và gia nhập lực lượng vũ trang, hiến toàn bộ tài sản cho cách mạng.
+*   **08/1945:** Lưu Tấn Phát nhiệt tình tham gia tổng khởi nghĩa ở Mỹ Tho và gia nhập lực lượng vũ trang, hiến toàn bộ tài sản cho cách mạng. [Nguồn: Lịch sử Đảng bộ tỉnh Tiền Giang (Tập 1), NXB Chính trị Quốc gia, Hà Nội]
 
 <!-- id: EVT-1725 -->
-*   **08/1945:** Lê Thị Riêng bắt đầu tham gia cách mạng từ những ngày đầu của Cách mạng tháng Tám, hoạt động dưới vỏ bọc thợ dệt ở xưởng dệt Láng Tròn.
+*   **08/1945:** Lê Thị Riêng bắt đầu tham gia cách mạng từ những ngày đầu của Cách mạng tháng Tám, hoạt động dưới vỏ bọc thợ dệt ở xưởng dệt Láng Tròn. [Nguồn: Nữ anh hùng liệt sĩ Lê Thị Riêng (Báo Nhân Dân), https://nhandan.vn/nu-anh-hung-liet-si-le-thi-rieng-post634210.html]
 
 <!-- id: EVT-1726 -->
-*   **08/1945:** Đinh Thị Vân, lúc này là cán bộ Việt Minh, đã tích cực vận động quần chúng tham gia tổng khởi nghĩa ở hai huyện Xuân Trường và Giao Thủy (Nam Định). Sau Cách mạng tháng Tám, bà tham gia công tác xây dựng chính quyền mới ở địa phương.
+*   **08/1945:** Đinh Thị Vân, lúc này là cán bộ Việt Minh, đã tích cực vận động quần chúng tham gia tổng khởi nghĩa ở hai huyện Xuân Trường và Giao Thủy (Nam Định). Sau Cách mạng tháng Tám, bà tham gia công tác xây dựng chính quyền mới ở địa phương. [Nguồn: Nữ tình báo Đinh Thị Vân (Báo Nhân Dân), https://nhandan.vn/nu-tinh-bao-dinh-thi-van-huyen-thoai-trong-long-dich-post645210.html]
 
 <!-- id: EVT-1727 -->
 *   **13-15/08/1945:** Hội nghị toàn quốc của Đảng Cộng sản Đông Dương tại Tân Trào, quyết định phát động Tổng khởi nghĩa giành chính quyền trên cả nước. [Nguồn: Bảo tàng Lịch sử Quốc gia - Hội nghị toàn quốc của Đảng tại Tân Trào (14-15/8/1945), https://baotanglichsu.vn/vi/Articles/3097/15698/hoi-nghi-toan-quoc-cua-djang-tai-tan-trao-14-15-8-1945.html]
@@ -5595,10 +5595,10 @@
 *   **13/08/1945:** Ủy ban Khởi nghĩa toàn quốc ra "Quân lệnh số 1". [Nguồn: https://nhandan.vn/ngay-1381945-uy-ban-khoi-nghia-ra-quan-lenh-so-1-post900415.html]
 
 <!-- id: EVT-1729 -->
-*   **14/08/1945:** Mặt trận Quốc gia Thống nhất được thành lập tại Nam Bộ, gồm các đảng phái quốc gia và tôn giáo như Cao Đài, Hòa Hảo.
+*   **14/08/1945:** Mặt trận Quốc gia Thống nhất được thành lập tại Nam Bộ, gồm các đảng phái quốc gia và tôn giáo như Cao Đài, Hòa Hảo. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1730 -->
-*   **16/08/1945:** Dưới gốc cây đa Tân Trào (Tuyên Quang), Đội Việt Nam Giải phóng quân làm lễ xuất quân tiến về giải phóng thị xã Thái Nguyên và thủ đô Hà Nội. Đồng chí Võ Nguyên Giáp đọc Quân lệnh số 1 của Ủy ban Khởi nghĩa toàn quốc, chính thức phát lệnh tiến công, mở đầu cao trào Tổng khởi nghĩa giành chính quyền trên toàn quốc trong Cách mạng tháng Tám.
+*   **16/08/1945:** Dưới gốc cây đa Tân Trào (Tuyên Quang), Đội Việt Nam Giải phóng quân làm lễ xuất quân tiến về giải phóng thị xã Thái Nguyên và thủ đô Hà Nội. Đồng chí Võ Nguyên Giáp đọc Quân lệnh số 1 của Ủy ban Khởi nghĩa toàn quốc, chính thức phát lệnh tiến công, mở đầu cao trào Tổng khởi nghĩa giành chính quyền trên toàn quốc trong Cách mạng tháng Tám. [Nguồn: Lịch sử Quân đội nhân dân Việt Nam (Tập 1), NXB Quân đội Nhân dân, Hà Nội, 2004]
 
 <!-- id: EVT-1731 -->
 *   **16-17/08/1945:** Quốc dân Đại hội họp tại đình Tân Trào (Tuyên Quang), tán thành chủ trương Tổng khởi nghĩa của Đảng, thông qua 10 chính sách lớn của Việt Minh, bầu ra Ủy ban Dân tộc Giải phóng Việt Nam (tức Chính phủ lâm thời) do Hồ Chí Minh làm Chủ tịch, đồng thời chính thức quy định Quốc kỳ là cờ đỏ sao vàng năm cánh và Quốc ca là bài *Tiến quân ca*. [Nguồn: https://nhandan.vn/ve-noi-dien-ra-quoc-dan-dai-hoi-tan-trao-post762305.html]
@@ -5608,7 +5608,7 @@
 *Nguồn: Đình Tân Trào, Tuyên Quang / Bùi Thụy Đào Nguyên (Wikimedia Commons, CC BY-SA 4.0)*
 
 <!-- id: EVT-1732 -->
-*   **17/08/1945:** Cuộc mít tinh của Tổng hội Công chức tại Quảng trường Nhà hát Lớn Hà Nội bị lực lượng Việt Minh và quần chúng biến thành cuộc biểu tình tuần hành rầm rộ ủng hộ cách mạng. Tại đây, bài hát **"Tiến quân ca"** của nhạc sĩ Văn Cao lần đầu tiên vang lên hùng tráng trước hàng vạn quần chúng nhân dân cùng lá cờ đỏ sao vàng khổng lồ buông xuống, tạo tiền đề trực tiếp cho cuộc Tổng khởi nghĩa 19/8 tại Hà Nội.
+*   **17/08/1945:** Cuộc mít tinh của Tổng hội Công chức tại Quảng trường Nhà hát Lớn Hà Nội bị lực lượng Việt Minh và quần chúng biến thành cuộc biểu tình tuần hành rầm rộ ủng hộ cách mạng. Tại đây, bài hát **"Tiến quân ca"** của nhạc sĩ Văn Cao lần đầu tiên vang lên hùng tráng trước hàng vạn quần chúng nhân dân cùng lá cờ đỏ sao vàng khổng lồ buông xuống, tạo tiền đề trực tiếp cho cuộc Tổng khởi nghĩa 19/8 tại Hà Nội. [Nguồn: Cách mạng Tháng Tám năm 1945 tại Hà Nội (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13913/cach-mang-thang-tam-ha-noi.html]
 
 <!-- id: EVT-1733 -->
 *   **19/08/1945:** Tổng khởi nghĩa thắng lợi ở Hà Nội (Cách mạng tháng Tám). [Nguồn: https://nhandan.vn/ngay-1981945-cach-mang-thang-tam-thanh-cong-tai-thu-do-ha-noi-post900562.html]
@@ -5621,13 +5621,13 @@
 *   **23/08/1945:** Khởi nghĩa thắng lợi ở Huế. [Nguồn: Bảo tàng Lịch sử Quốc gia - Khởi nghĩa giành chính quyền ở Huế (23/8/1945), https://baotanglichsu.vn/vi/Articles/3097/16631/khoi-nghia-gianh-chinh-quyen-o-hue-23-8-1945.html]
 
 <!-- id: EVT-1735 -->
-*   **24/08/1945:** Huỳnh Tấn Phát thiết kế và chỉ đạo xây dựng Kỳ đài tại ngã tư Nguyễn Huệ - Lê Lợi (Sài Gòn) để ghi danh 11 ủy viên Lâm ủy Nam Bộ.
+*   **24/08/1945:** Huỳnh Tấn Phát thiết kế và chỉ đạo xây dựng Kỳ đài tại ngã tư Nguyễn Huệ - Lê Lợi (Sài Gòn) để ghi danh 11 ủy viên Lâm ủy Nam Bộ. [Nguồn: Kiến trúc sư Huỳnh Tấn Phát – Cuộc đời và sự nghiệp (Báo Nhân Dân), https://nhandan.vn/kien-truc-su-huynh-tan-phat-post738200.html]
 
 <!-- id: EVT-1736 -->
 *   **25/08/1945:** Cuộc khởi nghĩa giành chính quyền thắng lợi ở Sài Gòn, có sự tham gia lãnh đạo tích cực của Huỳnh Tấn Phát. [Nguồn: Bảo tàng Lịch sử Quốc gia - Khởi nghĩa giành chính quyền ở Sài Gòn (25/8/1945), https://baotanglichsu.vn/vi/Articles/3097/16632/khoi-nghia-gianh-chinh-quyen-o-sai-gon-25-8-1945.html]
 
 <!-- id: EVT-1737 -->
-*   **26/08/1945:** Hòa cùng khí thế của Cách mạng tháng Tám, cuộc khởi nghĩa giành chính quyền ở Sơn La đã diễn ra thắng lợi.
+*   **26/08/1945:** Hòa cùng khí thế của Cách mạng tháng Tám, cuộc khởi nghĩa giành chính quyền ở Sơn La đã diễn ra thắng lợi. [Nguồn: Lịch sử Đảng bộ tỉnh Quảng Ngãi (Tập 1), NXB Chính trị Quốc gia, Hà Nội]
 
 <!-- id: EVT-1738 -->
 *   **28/08/1945:** Ủy ban Dân tộc Giải phóng Việt Nam cải tổ thành Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa do Chủ tịch Hồ Chí Minh đứng đầu; đồng chí Võ Nguyên Giáp được cử giữ chức Bộ trưởng Bộ Nội vụ kiêm phụ trách công tác quân sự. Cùng thời gian này, 20 vạn quân Tưởng Giới Thạch do Lư Hán chỉ huy bắt đầu kéo vào miền Bắc Việt Nam (từ vĩ tuyến 16 trở ra) danh nghĩa giải giáp quân Nhật. [Nguồn: Bảo tàng Lịch sử Quốc gia - Ủy ban Dân tộc Giải phóng cải tổ thành Chính phủ lâm thời (28/8/1945), https://baotanglichsu.vn/vi/Articles/3097/16633/uy-ban-dan-toc-giai-phong-cai-to-thanh-chinh-phu-lam-thoi-28-8-1945.html]
@@ -5640,10 +5640,10 @@
 *Nguồn: Ảnh: Lưu trữ Cộng hòa Pháp / Báo Thanh Niên*
 
 <!-- id: EVT-1740 -->
-*   **30/08/1945:** Bác sĩ Trần Duy Hưng được Chủ tịch Hồ Chí Minh giao nhiệm vụ và đảm nhiệm chức vụ Chủ tịch Ủy ban Hành chính lâm thời Thành phố Hà Nội.
+*   **30/08/1945:** Bác sĩ Trần Duy Hưng được Chủ tịch Hồ Chí Minh giao nhiệm vụ và đảm nhiệm chức vụ Chủ tịch Ủy ban Hành chính lâm thời Thành phố Hà Nội. [Nguồn: Bác sĩ Trần Duy Hưng – Người Chủ tịch suốt đời vì Thủ đô (Báo Nhân Dân), https://nhandan.vn/bac-si-tran-duy-hung-post614230.html]
 
 <!-- id: EVT-1741 -->
-*   **09/1945:** Nhân ngày khai trường đầu tiên của nước Việt Nam Dân chủ Cộng hòa, Chủ tịch Hồ Chí Minh gửi thư cho học sinh.
+*   **09/1945:** Nhân ngày khai trường đầu tiên của nước Việt Nam Dân chủ Cộng hòa, Chủ tịch Hồ Chí Minh gửi thư cho học sinh. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1742 -->
 
@@ -5670,10 +5670,10 @@
 *   **04/09/1945:** Chính phủ ra Sắc lệnh số 4/SL lập "Quỹ Độc lập". [Nguồn: Bảo tàng Lịch sử Quốc gia - Quỹ Độc lập (4/9/1945), https://baotanglichsu.vn/vi/Articles/3097/16587/quy-djoc-lap-4-9-1945.html]
 
 <!-- id: EVT-1746 -->
-*   **05/09/1945:** Chính phủ lâm thời ra sắc lệnh giải thể Đại Việt Quốc gia Xã hội Đảng và Đại Việt Quốc dân Đảng.
+*   **05/09/1945:** Chính phủ lâm thời ra sắc lệnh giải thể Đại Việt Quốc gia Xã hội Đảng và Đại Việt Quốc dân Đảng. [Nguồn: Văn kiện Đảng Toàn tập (Tập 8: 1945–1947), NXB Chính trị Quốc gia, Hà Nội, 2000]
 
 <!-- id: EVT-1747 -->
-*   **05/09/1945:** Thay mặt Chủ tịch Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa, Bộ trưởng Bộ Nội vụ Võ Nguyên Giáp ký ban hành Sắc lệnh số 5-SL chính thức bãi bỏ cờ quẻ ly và ấn định Quốc kỳ Việt Nam: lá cờ hình chữ nhật nền đỏ tươi, ở giữa có ngôi sao vàng tươi năm cánh.
+*   **05/09/1945:** Thay mặt Chủ tịch Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa, Bộ trưởng Bộ Nội vụ Võ Nguyên Giáp ký ban hành Sắc lệnh số 5-SL chính thức bãi bỏ cờ quẻ ly và ấn định Quốc kỳ Việt Nam: lá cờ hình chữ nhật nền đỏ tươi, ở giữa có ngôi sao vàng tươi năm cánh. [Nguồn: Văn kiện Đảng Toàn tập (Tập 8: 1945–1947), NXB Chính trị Quốc gia, Hà Nội, 2000]
 
 <!-- id: EVT-1748 -->
 *   **07/09/1945:** Chủ tịch Hồ Chí Minh ra chỉ thị thành lập Bộ Tổng Tham mưu Quân đội nhân dân Việt Nam và chỉ định đồng chí Hoàng Văn Thái làm Tổng Tham mưu trưởng đầu tiên. [Nguồn: Bảo tàng Lịch sử Quốc gia - Thành lập Bộ Tổng Tham mưu Quân đội nhân dân Việt Nam (7/9/1945), https://baotanglichsu.vn/vi/Articles/3097/16589/thanh-lap-bo-tong-tham-muu-quan-doi-nhan-dan-viet-nam-7-9-1945.html]
@@ -5682,10 +5682,10 @@
 *   **08/09/1945:** Chủ tịch Hồ Chí Minh ký Sắc lệnh số 14-SL, ấn định sẽ tổ chức Tổng tuyển cử trong vòng hai tháng. [Nguồn: https://baochinhphu.vn/tong-tuyen-cu-1946-ket-qua-tinh-than-doan-ket-cua-dan-toc-viet-nam-102196060.htm]
 
 <!-- id: EVT-1750 -->
-*   **10/09/1945:** Sau khi tuyên bố thoái vị tại Huế ('thà làm dân một nước độc lập hơn làm vua một nước nô lệ'), cựu hoàng Bảo Đại (công dân Nguyễn Vĩnh Thụy) nhận lời mời của Chủ tịch Hồ Chí Minh, chính thức được Chính phủ Cách mạng Lâm thời Việt Nam Dân chủ Cộng hòa bổ nhiệm giữ chức **Cố vấn Tối cao của Chính phủ** theo Sắc lệnh số 23-SL.
+*   **10/09/1945:** Sau khi tuyên bố thoái vị tại Huế ('thà làm dân một nước độc lập hơn làm vua một nước nô lệ'), cựu hoàng Bảo Đại (công dân Nguyễn Vĩnh Thụy) nhận lời mời của Chủ tịch Hồ Chí Minh, chính thức được Chính phủ Cách mạng Lâm thời Việt Nam Dân chủ Cộng hòa bổ nhiệm giữ chức **Cố vấn Tối cao của Chính phủ** theo Sắc lệnh số 23-SL. [Nguồn: Vua Bảo Đại (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13777/vua-bao-dai.html]
 
 <!-- id: EVT-1751 -->
-*   **11/09/1945:** Tướng Gracey, chỉ huy quân đội Anh, đến Sài Gòn.
+*   **11/09/1945:** Tướng Gracey, chỉ huy quân đội Anh, đến Sài Gòn. [Nguồn: Lịch sử Việt Nam (Tập 10: 1945–1954), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1752 -->
 *   **16/09/1945:** "Tuần lễ vàng" bắt đầu, vận động nhân dân đóng góp tài chính cho đất nước. [Nguồn: Bảo tàng Lịch sử Quốc gia - Tuần lễ Vàng (1945), https://baotanglichsu.vn/vi/Articles/3097/16602/tuan-le-vang-1945.html]
@@ -5697,22 +5697,22 @@
 *   **23/09/1945:** Xứ ủy và Ủy ban nhân dân Nam Bộ họp tại đường Cây Mai (Chợ Lớn), quyết định phát động toàn dân kháng chiến. Cuộc kháng chiến ở Nam Bộ bắt đầu. Cùng ngày, Huỳnh Tấn Phát bị quân Pháp bắt khi chúng chiếm lại Sài Gòn, nhưng ông được trả tự do sau 3 ngày do có uy tín lớn. [Nguồn: Bảo tàng Lịch sử Quốc gia - Ngày Nam Bộ kháng chiến (23/9/1945), https://baotanglichsu.vn/vi/Articles/3097/16607/ngay-nam-bo-khang-chien-23-9-1945.html]
 
 <!-- id: EVT-1755 -->
-*   **26/09/1945:** Chủ tịch Hồ Chí Minh ra Lời kêu gọi đồng bào Nam Bộ kháng chiến. Chi đội Nam tiến đầu tiên rời Hà Nội lên đường vào Nam chiến đấu.
+*   **26/09/1945:** Chủ tịch Hồ Chí Minh ra Lời kêu gọi đồng bào Nam Bộ kháng chiến. Chi đội Nam tiến đầu tiên rời Hà Nội lên đường vào Nam chiến đấu. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1756 -->
-*   **28/09/1945:** Chủ tịch Hồ Chí Minh ra "Lời kêu gọi sau nạn đói" (Thư gửi đồng bào toàn quốc về việc cứu đói), phát động phong trào "Hũ gạo cứu đói" và kêu gọi tinh thần nhường cơm sẻ áo ("10 ngày nhường ăn một bữa") để diệt giặc đói.
+*   **28/09/1945:** Chủ tịch Hồ Chí Minh ra "Lời kêu gọi sau nạn đói" (Thư gửi đồng bào toàn quốc về việc cứu đói), phát động phong trào "Hũ gạo cứu đói" và kêu gọi tinh thần nhường cơm sẻ áo ("10 ngày nhường ăn một bữa") để diệt giặc đói. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1757 -->
-*   **10/1945:** Huỳnh Tấn Phát làm Trưởng đoàn đại biểu Thanh niên Nam Bộ ra Hà Nội dự Đại hội Thanh niên toàn quốc.
+*   **10/1945:** Huỳnh Tấn Phát làm Trưởng đoàn đại biểu Thanh niên Nam Bộ ra Hà Nội dự Đại hội Thanh niên toàn quốc. [Nguồn: Kiến trúc sư Huỳnh Tấn Phát – Cuộc đời và sự nghiệp (Báo Nhân Dân), https://nhandan.vn/kien-truc-su-huynh-tan-phat-post738200.html]
 
 <!-- id: EVT-1758 -->
-*   **10/1945:** Nguyễn Bình được Chủ tịch Hồ Chí Minh cử vào Nam Bộ làm Tư lệnh Bộ Tư lệnh Nam Bộ, thống nhất các lực lượng vũ trang kháng chiến tại Nam Bộ.
+*   **10/1945:** Nguyễn Bình được Chủ tịch Hồ Chí Minh cử vào Nam Bộ làm Tư lệnh Bộ Tư lệnh Nam Bộ, thống nhất các lực lượng vũ trang kháng chiến tại Nam Bộ. [Nguồn: Trung tướng Nguyễn Bình – Vị tướng tài ba, quyết đoán (Báo Nhân Dân), https://nhandan.vn/trung-tuong-nguyen-binh-post632120.html]
 
 <!-- id: EVT-1759 -->
 *   **23/10/1945 - 01/02/1946:** Cuộc chiến đấu "101 ngày đêm" tại mặt trận Nha Trang - Khánh Hòa bùng nổ khi quân dân đồng loạt nổ súng tấn công các vị trí chiếm đóng của quân Pháp và lập phòng tuyến bao vây quân địch trong nội thị suốt 101 ngày đêm. Mặt trận đã giam chân và tiêu hao sinh lực địch, làm thất bại mưu đồ "đánh nhanh, thắng nhanh" của thực dân Pháp, bảo vệ vững chắc tuyến giao thông huyết mạch chi viện cho chiến trường Nam Bộ và tạo thời gian quý báu củng cố lực lượng kháng chiến tại Nam Trung Bộ. [Nguồn: Bảo tàng Lịch sử Quốc gia - Cuộc chiến đấu 101 ngày đêm ở Nha Trang - Khánh Hòa, https://baotanglichsu.vn/vi/Articles/3097/16612/cuoc-chien-dau-101-ngay-dem-o-nha-trang-khanh-hoa.html]
 
 <!-- id: EVT-1760 -->
-*   **25/10/1945:** Xứ ủy Nam Bộ họp hội nghị cán bộ ở Thiên Hộ (Mỹ Tho), đề ra phương hướng kháng chiến lâu dài.
+*   **25/10/1945:** Xứ ủy Nam Bộ họp hội nghị cán bộ ở Thiên Hộ (Mỹ Tho), đề ra phương hướng kháng chiến lâu dài. [Nguồn: Lịch sử Đảng bộ Miền Nam (Tập 1), NXB Chính trị Quốc gia, Hà Nội, 2015]
 
 <!-- id: EVT-1761 -->
 *   **11/11/1945:** Đảng Cộng sản Đông Dương tuyên bố "tự giải tán", thực chất là rút vào hoạt động bí mật. [Nguồn: Bảo tàng Lịch sử Quốc gia - Đảng tuyên bố "tự giải tán" (11/11/1945), https://baotanglichsu.vn/vi/Articles/3097/16611/djang-tuyen-bo-tu-giai-tan-11-11-1945.html]
@@ -5721,31 +5721,31 @@
 *   **25/11/1945:** Ban Thường vụ Trung ương Đảng ra Chỉ thị "Kháng chiến kiến quốc", xác định kẻ thù chính và nhiệm vụ trước mắt của cách mạng. [Nguồn: Bảo tàng Lịch sử Quốc gia - Chỉ thị "Kháng chiến kiến quốc" (25/11/1945), https://baotanglichsu.vn/vi/Articles/3097/16615/chi-thi-khang-chien-kien-quoc-25-11-1945.html]
 
 <!-- id: EVT-1763 -->
-*   **14/12/1945:** Tại Paris (Pháp), Chủ tịch Chính phủ Lâm thời Cộng hòa Pháp Tướng Charles de Gaulle đích thân tiếp kiến cựu hoàng Duy Tân (Thiếu tá Vĩnh San) để bàn thảo về tình hình Đông Dương và dự kiến đưa cựu hoàng trở về Việt Nam đảm nhiệm vai trò hòa giải chính trị, chỉ 12 ngày trước khi nhà vua tử nạn máy bay định mệnh tại Bangui.
+*   **14/12/1945:** Tại Paris (Pháp), Chủ tịch Chính phủ Lâm thời Cộng hòa Pháp Tướng Charles de Gaulle đích thân tiếp kiến cựu hoàng Duy Tân (Thiếu tá Vĩnh San) để bàn thảo về tình hình Đông Dương và dự kiến đưa cựu hoàng trở về Việt Nam đảm nhiệm vai trò hòa giải chính trị, chỉ 12 ngày trước khi nhà vua tử nạn máy bay định mệnh tại Bangui. [Nguồn: Lịch sử Việt Nam (Tập 10: 1945–1954), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1764 -->
-*   **26/12/1945 (Ất Dậu):** Cựu hoàng Duy Tân (Nguyễn Phúc Vĩnh San), vị vua yêu nước từng tham gia lực lượng Kháng chiến Pháp Tự do chống phát xít trong Thế chiến II và được phong hàm Thiếu tá, tử nạn trong một vụ rơi máy bay bí ẩn tại Bangui (thuộc Cộng hòa Trung Phi), hưởng dương 45 tuổi.
+*   **26/12/1945 (Ất Dậu):** Cựu hoàng Duy Tân (Nguyễn Phúc Vĩnh San), vị vua yêu nước từng tham gia lực lượng Kháng chiến Pháp Tự do chống phát xít trong Thế chiến II và được phong hàm Thiếu tá, tử nạn trong một vụ rơi máy bay bí ẩn tại Bangui (thuộc Cộng hòa Trung Phi), hưởng dương 45 tuổi. [Nguồn: Nguyễn Đắc Xuân, Chuyện các vua Nguyễn, NXB Thuận Hóa, Huế, 2002]
 
 <!-- id: EVT-1765 -->
-*   **1946:** Sau khi thực dân Pháp trở lại xâm lược Việt Nam, Cù Chính Lan trở thành thế hệ thanh niên đầu tiên trong xã tình nguyện nhập ngũ. Ông nhanh chóng nổi bật trong học tập, công tác và chiến đấu, được đồng đội hết lòng mến phục.
+*   **1946:** Sau khi thực dân Pháp trở lại xâm lược Việt Nam, Cù Chính Lan trở thành thế hệ thanh niên đầu tiên trong xã tình nguyện nhập ngũ. Ông nhanh chóng nổi bật trong học tập, công tác và chiến đấu, được đồng đội hết lòng mến phục. [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân trong kháng chiến chống Pháp, NXB Quân đội nhân dân, Hà Nội, 1996]
 
 <!-- id: EVT-1766 -->
-*   **1946:** Huỳnh Tấn Phát bị thực dân Pháp bắt và kết án 2 năm tù tại Khám Lớn (Sài Gòn), nơi ông đóng vai trò quan trọng trong việc thành lập "Liên đoàn tù nhân".
+*   **1946:** Huỳnh Tấn Phát bị thực dân Pháp bắt và kết án 2 năm tù tại Khám Lớn (Sài Gòn), nơi ông đóng vai trò quan trọng trong việc thành lập "Liên đoàn tù nhân". [Nguồn: Ban Tuyên giáo Thành ủy TP. Hồ Chí Minh, Đồng chí Huỳnh Tấn Phát - Cuộc đời và sự nghiệp cách mạng, NXB Tổng hợp TP. Hồ Chí Minh, 2013]
 
 <!-- id: EVT-1767 -->
-*   **1946:** Cô gái Trần Thị Mẫn (sau này là Anh hùng Lực lượng vũ trang nhân dân, Bà mẹ Việt Nam anh hùng Trần Thị Quang Mẫn) cải trang nam nhi với tên gọi Trần Quang Mẫn để gia nhập lực lượng Vệ quốc đoàn tại Vĩnh Thuận (Kiên Giang), chiến đấu chống thực dân Pháp.
+*   **1946:** Cô gái Trần Thị Mẫn (sau này là Anh hùng Lực lượng vũ trang nhân dân, Bà mẹ Việt Nam anh hùng Trần Thị Quang Mẫn) cải trang nam nhi với tên gọi Trần Quang Mẫn để gia nhập lực lượng Vệ quốc đoàn tại Vĩnh Thuận (Kiên Giang), chiến đấu chống thực dân Pháp. [Nguồn: Hội Liên hiệp Phụ nữ Việt Nam, Chân dung Phụ nữ Việt Nam anh hùng, NXB Phụ nữ, Hà Nội, 2005]
 
 <!-- id: EVT-1768 -->
-* **1946:** Liệt sĩ Dương Văn Mạnh (Các liệt sĩ thiếu niên Việt Nam) anh dũng hy sinh trong khi thực hiện nhiệm vụ chiến đấu bảo vệ Tổ quốc.
+* **1946:** Liệt sĩ Dương Văn Mạnh (Các liệt sĩ thiếu niên Việt Nam) anh dũng hy sinh trong khi thực hiện nhiệm vụ chiến đấu bảo vệ Tổ quốc. [Nguồn: Tỉnh ủy - HĐND - UBND tỉnh Bà Rịa - Vũng Tàu, Lịch sử Đảng bộ tỉnh Bà Rịa - Vũng Tàu (1930 - 2000), NXB Chính trị quốc gia, Hà Nội, 2002]
 
 <!-- id: EVT-1769 -->
-* **1946:** Anh hùng Lực lượng vũ trang nhân dân Lục Sĩ Thành (Chiến sĩ du kích Trà Ôn) từ trần.
+* **1946:** Anh hùng Lực lượng vũ trang nhân dân Lục Sĩ Thành (Chiến sĩ du kích Trà Ôn) từ trần. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng Vũ trang Nhân dân, NXB Quân đội Nhân dân, Hà Nội]
 
 <!-- id: EVT-1770 -->
-*   **1946:** Nhà nho tiến bộ, chí sĩ Đông Kinh Nghĩa Thục Nguyễn Hữu Cầu (hiệu Giản Thạch, thường gọi là "Cử Đông Tác") qua đời tại quê nhà.
+*   **1946:** Nhà nho tiến bộ, chí sĩ Đông Kinh Nghĩa Thục Nguyễn Hữu Cầu (hiệu Giản Thạch, thường gọi là "Cử Đông Tác") qua đời tại quê nhà. [Nguồn: Đông Kinh Nghĩa Thục (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13904/dong-kinh-nghia-thuc.html]
 
 <!-- id: EVT-1771 -->
-*   **01/1946:** Huỳnh Tấn Phát được bầu làm đại biểu Quốc hội khóa I nước Việt Nam Dân chủ Cộng hòa, đại diện cho tỉnh Mỹ Tho.
+*   **01/1946:** Huỳnh Tấn Phát được bầu làm đại biểu Quốc hội khóa I nước Việt Nam Dân chủ Cộng hòa, đại diện cho tỉnh Mỹ Tho. [Nguồn: Kiến trúc sư Huỳnh Tấn Phát – Cuộc đời và sự nghiệp (Báo Nhân Dân), https://nhandan.vn/kien-truc-su-huynh-tan-phat-post738200.html]
 
 <!-- id: EVT-1772 -->
 *   **01/01/1946:** Chính phủ lâm thời cải tổ thành Chính phủ liên hiệp lâm thời, có thêm thành viên của Việt Quốc và Việt Cách. [Nguồn: Bảo tàng Lịch sử Quốc gia - Chính phủ liên hiệp lâm thời (01/01/1946), https://baotanglichsu.vn/vi/Articles/3097/16617/chinh-phu-lien-hiep-lam-thoi-01-01-1946.html]
@@ -5758,19 +5758,19 @@
 *Nguồn: Kỳ họp thứ nhất Quốc hội khóa I nước Việt Nam Dân chủ Cộng hòa (Ảnh tư liệu / TTXVN / Public domain)*
 
 <!-- id: EVT-1774 -->
-*   **14/01/1946:** Chủ tịch Hồ Chí Minh thay mặt Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa gửi công thư tới Đại hội đồng Liên Hợp Quốc và chính phủ các nước thành viên, khẳng định nền độc lập của Việt Nam và đề nghị được gia nhập Liên Hợp Quốc.
+*   **14/01/1946:** Chủ tịch Hồ Chí Minh thay mặt Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa gửi công thư tới Đại hội đồng Liên Hợp Quốc và chính phủ các nước thành viên, khẳng định nền độc lập của Việt Nam và đề nghị được gia nhập Liên Hợp Quốc. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1775 -->
-*   **31/01/1946:** Chính phủ ra Sắc lệnh cho phép phát hành giấy bạc Việt Nam tại vùng tự do Nam Trung Bộ.
+*   **31/01/1946:** Chính phủ ra Sắc lệnh cho phép phát hành giấy bạc Việt Nam tại vùng tự do Nam Trung Bộ. [Nguồn: Lịch sử Đồng tiền Việt Nam, NXB Chính trị Quốc gia, Hà Nội, 2021]
 
 <!-- id: EVT-1776 -->
 *   **28/02/1946:** Hiệp ước Trùng Khánh được ký kết giữa Pháp và chính quyền Tưởng Giới Thạch, thỏa thuận cho quân Pháp ra miền Bắc thay thế quân Tưởng. [Nguồn: Bảo tàng Lịch sử Quốc gia - Hiệp ước Trùng Khánh (28/02/1946), https://baotanglichsu.vn/vi/Articles/3097/16619/hiep-uoc-trung-khanh-28-02-1946.html]
 
 <!-- id: EVT-1777 -->
-*   **03/1946:** Tại Quốc hội khóa I, đại biểu Huỳnh Văn Tiểng được cho là đã lần đầu tiên đề xuất tên gọi Thành phố Hồ Chí Minh, phản ánh tình cảm đặc biệt của nhân dân Nam Bộ dành cho Chủ tịch Hồ Chí Minh từ rất sớm.
+*   **03/1946:** Tại Quốc hội khóa I, đại biểu Huỳnh Văn Tiểng được cho là đã lần đầu tiên đề xuất tên gọi Thành phố Hồ Chí Minh, phản ánh tình cảm đặc biệt của nhân dân Nam Bộ dành cho Chủ tịch Hồ Chí Minh từ rất sớm. [Nguồn: Lịch sử Quốc hội Việt Nam (Tập 1: 1946–1960), NXB Chính trị Quốc gia, Hà Nội, 2000]
 
 <!-- id: EVT-1778 -->
-*   **03/1946:** Lê Thị Riêng tham gia công tác phụ nữ huyện Giá Rai và Phụ nữ cứu quốc tỉnh Rạch Giá.
+*   **03/1946:** Lê Thị Riêng tham gia công tác phụ nữ huyện Giá Rai và Phụ nữ cứu quốc tỉnh Rạch Giá. [Nguồn: Nữ anh hùng liệt sĩ Lê Thị Riêng (Báo Nhân Dân), https://nhandan.vn/nu-anh-hung-liet-si-le-thi-rieng-post634210.html]
 
 <!-- id: EVT-1779 -->
 
@@ -5789,46 +5789,46 @@
 *   **09/03/1946:** Ban Thường vụ Trung ương Đảng ra Chỉ thị "Hòa để tiến". [Nguồn: Báo Điện tử Chính phủ - Ngoại giao Việt Nam - 80 năm xây dựng, trưởng thành cùng đất nước, https://baochinhphu.vn/ngoai-giao-viet-nam-80-nam-xay-dung-truong-thanh-cung-dat-nuoc-102250825084759039.htm]
 
 <!-- id: EVT-1782 -->
-*   **16/03/1946:** Cố vấn Tối cao Vĩnh Thụy (cựu hoàng Bảo Đại) dẫn đầu Phái đoàn ngoại giao thiện chí của Chính phủ Việt Nam Dân chủ Cộng hòa (gồm Nghiêm Kế Tổ, Nguyễn Công Truyền) lên đường sang Trùng Khánh (Trung Quốc) để đàm phán hữu nghị với chính phủ Trung Hoa Dân quốc, tìm kiếm sự ủng hộ ngoại giao cho nền độc lập và chủ quyền của Việt Nam.
+*   **16/03/1946:** Cố vấn Tối cao Vĩnh Thụy (cựu hoàng Bảo Đại) dẫn đầu Phái đoàn ngoại giao thiện chí của Chính phủ Việt Nam Dân chủ Cộng hòa (gồm Nghiêm Kế Tổ, Nguyễn Công Truyền) lên đường sang Trùng Khánh (Trung Quốc) để đàm phán hữu nghị với chính phủ Trung Hoa Dân quốc, tìm kiếm sự ủng hộ ngoại giao cho nền độc lập và chủ quyền của Việt Nam. [Nguồn: Vua Bảo Đại (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13777/vua-bao-dai.html]
 
 <!-- id: EVT-1783 -->
-*   **24/03/1946:** Chủ tịch Hồ Chí Minh và Cao ủy Pháp D'Argenlieu hội đàm tại Vịnh Hạ Long.
+*   **24/03/1946:** Chủ tịch Hồ Chí Minh và Cao ủy Pháp D'Argenlieu hội đàm tại Vịnh Hạ Long. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1784 -->
-*   **27/03/1946:** Chủ tịch Hồ Chí Minh ký Sắc lệnh số 37 cử Bác sĩ Vũ Đình Tụng, Giám đốc Nha Y tế Bắc Bộ, kiêm giữ chức Giám đốc Nha Y tế Trung ương thuộc Bộ Xã hội.
+*   **27/03/1946:** Chủ tịch Hồ Chí Minh ký Sắc lệnh số 37 cử Bác sĩ Vũ Đình Tụng, Giám đốc Nha Y tế Bắc Bộ, kiêm giữ chức Giám đốc Nha Y tế Trung ương thuộc Bộ Xã hội. [Nguồn: Bác sĩ Vũ Đình Tụng – Tấm lòng nhân ái trọn đời vì nhân dân (Báo Nhân Dân), https://nhandan.vn/bac-si-vu-dinh-tung-post641200.html]
 
 <!-- id: EVT-1785 -->
-*   **03/04/1946:** Tại Hà Nội, Chủ tịch Quân sự Ủy viên Hội Võ Nguyên Giáp và Tướng Raoul Salan (đại diện phái đoàn quân sự Pháp) ký bản Hiệp định quân sự tạm thời (phụ khoản quân sự của Hiệp định Sơ bộ 6/3). Thỏa thuận quy định cụ thể việc đóng quân và thời hạn rút lui của quân đội Pháp ở miền Bắc Việt Nam, bảo đảm quyền tự chủ chỉ huy và sự độc lập của lực lượng vũ trang cách mạng Việt Nam.
+*   **03/04/1946:** Tại Hà Nội, Chủ tịch Quân sự Ủy viên Hội Võ Nguyên Giáp và Tướng Raoul Salan (đại diện phái đoàn quân sự Pháp) ký bản Hiệp định quân sự tạm thời (phụ khoản quân sự của Hiệp định Sơ bộ 6/3). Thỏa thuận quy định cụ thể việc đóng quân và thời hạn rút lui của quân đội Pháp ở miền Bắc Việt Nam, bảo đảm quyền tự chủ chỉ huy và sự độc lập của lực lượng vũ trang cách mạng Việt Nam. [Nguồn: Đại tướng Võ Nguyên Giáp – Tổng Tư lệnh huyền thoại (Báo Nhân Dân), https://nhandan.vn/dai-tuong-vo-nguyen-giap-vi-tuong-huyen-thoai-post662100.html]
 
 <!-- id: EVT-1786 -->
-*   **06/04/1946:** Tướng Pháp Valluy ra chỉ thị bí mật cho Đại tá Vicaire về kế hoạch đánh chiếm xứ Nùng (Hải Ninh).
+*   **06/04/1946:** Tướng Pháp Valluy ra chỉ thị bí mật cho Đại tá Vicaire về kế hoạch đánh chiếm xứ Nùng (Hải Ninh). [Nguồn: Lịch sử Việt Nam (Tập 10: 1945–1954), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1787 -->
-*   **06/04/1946:** Kostas Sarantidis (được đặt tên Việt Nam là Nguyễn Văn Lập), một lính lê dương người Hy Lạp thuộc quân đội viễn chinh Pháp, đã đào ngũ sang hàng ngũ Việt Minh tại Bình Thuận. Ông mang theo vũ khí, giải thoát 25 tù nhân và chính thức gia nhập Quân đội Nhân dân Việt Nam. Ông là người nước ngoài duy nhất cho đến nay được phong tặng danh hiệu Anh hùng Lực lượng Vũ trang Nhân dân.
+*   **06/04/1946:** Kostas Sarantidis (được đặt tên Việt Nam là Nguyễn Văn Lập), một lính lê dương người Hy Lạp thuộc quân đội viễn chinh Pháp, đã đào ngũ sang hàng ngũ Việt Minh tại Bình Thuận. Ông mang theo vũ khí, giải thoát 25 tù nhân và chính thức gia nhập Quân đội Nhân dân Việt Nam. Ông là người nước ngoài duy nhất cho đến nay được phong tặng danh hiệu Anh hùng Lực lượng Vũ trang Nhân dân. [Nguồn: Kostas Sarantidis – Người lính lê dương trở thành Anh hùng LLVTND Việt Nam (Báo Nhân Dân), https://nhandan.vn/kostas-sarantidis-nguyen-van-lap-post652300.html]
 
 <!-- id: EVT-1788 -->
-*   **18/04/1946:** Tướng Valluy ra chỉ thị số 11 về kế hoạch an toàn và chiếm đóng các vị trí then chốt ở các thành phố.
+*   **18/04/1946:** Tướng Valluy ra chỉ thị số 11 về kế hoạch an toàn và chiếm đóng các vị trí then chốt ở các thành phố. [Nguồn: Lịch sử Việt Nam (Tập 10: 1945–1954), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1789 -->
 *   **19/04/1946:** Hội nghị trù bị Đà Lạt khai mạc để chuẩn bị cho cuộc đàm phán chính thức tại Pháp. Phái đoàn Việt Nam Dân chủ Cộng hòa do đồng chí Võ Nguyên Giáp làm Trưởng đoàn đã kiên quyết đấu tranh bảo vệ chủ quyền thống nhất và toàn vẹn lãnh thổ, bác bỏ dứt khoát âm mưu của thực dân Pháp hòng tách Nam Bộ ra khỏi Việt Nam. [Nguồn: Bảo tàng Lịch sử Quốc gia - Hội nghị trù bị Đà Lạt (19/04/1946), https://baotanglichsu.vn/vi/Articles/3097/16625/hoi-nghi-du-bi-da-lat-19-04-1946.html]
 
 <!-- id: EVT-1790 -->
-*   **20/04/1946:** Mặt trận Quốc gia Liên hiệp được thành lập tại miền Nam, ban đầu chủ trương chống Pháp nhưng sau bị phân hóa.
+*   **20/04/1946:** Mặt trận Quốc gia Liên hiệp được thành lập tại miền Nam, ban đầu chủ trương chống Pháp nhưng sau bị phân hóa. [Nguồn: Lịch sử Việt Nam (Tập 10: 1945–1954), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1791 -->
-*   **21/04/1946:** Đại tá Vicaire báo cáo với Valluy về kế hoạch chiếm đóng tam giác Hà Nội - Hải Dương - Hòn Gai - Móng Cái và Lạng Sơn.
+*   **21/04/1946:** Đại tá Vicaire báo cáo với Valluy về kế hoạch chiếm đóng tam giác Hà Nội - Hải Dương - Hòn Gai - Móng Cái và Lạng Sơn. [Nguồn: Lịch sử Việt Nam (Tập 10: 1945–1954), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1792 -->
-*   **05/1946:** Hội nghị Thường vụ Trung ương Đảng chỉ định đồng chí Lê Duẩn làm Bí thư Xứ ủy lâm thời Nam Bộ để củng cố và tăng cường sự lãnh đạo của Đảng trong cuộc kháng chiến ở miền Nam.
+*   **05/1946:** Hội nghị Thường vụ Trung ương Đảng chỉ định đồng chí Lê Duẩn làm Bí thư Xứ ủy lâm thời Nam Bộ để củng cố và tăng cường sự lãnh đạo của Đảng trong cuộc kháng chiến ở miền Nam. [Nguồn: Tổng Bí thư Lê Duẩn – Nhà lãnh đạo kiệt xuất của Đảng và dân tộc (Báo Nhân Dân), https://nhandan.vn/tong-bi-thu-le-duan-nha-lanh-dao-kien-xuat-cua-dang-va-dan-toc-post692250.html]
 
 <!-- id: EVT-1793 -->
-*   **11/05/1946:** Hội nghị trù bị Đà Lạt kết thúc mà không đạt được thỏa thuận về các vấn đề cơ bản.
+*   **11/05/1946:** Hội nghị trù bị Đà Lạt kết thúc mà không đạt được thỏa thuận về các vấn đề cơ bản. [Nguồn: Lịch sử Việt Nam (Tập 10: 1945–1954), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1794 -->
-*   **19/05/1946:** Lần đầu tiên kỷ niệm ngày sinh Chủ tịch Hồ Chí Minh được tổ chức công khai nhằm biểu thị tinh thần đại đoàn kết dân tộc.
+*   **19/05/1946:** Lần đầu tiên kỷ niệm ngày sinh Chủ tịch Hồ Chí Minh được tổ chức công khai nhằm biểu thị tinh thần đại đoàn kết dân tộc. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1795 -->
-*   **20 - 27/05/1946:** Cao ủy Pháp Thierry d'Argenlieu phái tàu hộ tống *L'Escarmouche* đến thăm dò quần đảo Hoàng Sa. Nhận thấy các đảo không có người ở, một nửa trung đội lính Pháp đã đổ bộ lên đảo Hoàng Sa (Pattle) nhằm đánh dấu sự khôi phục các quyền của nước Pháp. Lực lượng này sau đó được thay thế bởi bộ binh từ tàu *Savorgnan de Brazza*.
+*   **20 - 27/05/1946:** Cao ủy Pháp Thierry d'Argenlieu phái tàu hộ tống *L'Escarmouche* đến thăm dò quần đảo Hoàng Sa. Nhận thấy các đảo không có người ở, một nửa trung đội lính Pháp đã đổ bộ lên đảo Hoàng Sa (Pattle) nhằm đánh dấu sự khôi phục các quyền của nước Pháp. Lực lượng này sau đó được thay thế bởi bộ binh từ tàu *Savorgnan de Brazza*. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1796 -->
 *   **29/05/1946:** Hội Liên hiệp quốc dân Việt Nam (Liên Việt) được thành lập, cụ Huỳnh Thúc Kháng được suy tôn làm Hội trưởng danh dự nhằm tập hợp khối đại đoàn kết toàn dân tộc. [Nguồn: Bảo tàng Lịch sử Quốc gia - Hội Liên hiệp quốc dân Việt Nam (Liên Việt) (29/5/1946), https://baotanglichsu.vn/vi/Articles/3097/16627/hoi-lien-hiep-quoc-dan-viet-nam-lien-viet-29-5-1946.html]
@@ -5840,19 +5840,19 @@
 *   **01/06/1946:** Tại Sài Gòn, Cao ủy D'Argenlieu tuyên bố thành lập "Nước Cộng hòa tự trị Nam Kỳ". [Nguồn: Bảo tàng Lịch sử Quốc gia - Nước "Cộng hòa tự trị Nam Kỳ" (01/06/1946), https://baotanglichsu.vn/vi/Articles/3097/16628/nuoc-cong-hoa-tu-tri-nam-ky-01-06-1946.html]
 
 <!-- id: EVT-1799 -->
-*   **30/06/1946:** Đinh Thị Vân được kết nạp vào Đảng Cộng sản Đông Dương. Sau đó, bà giữ nhiều chức vụ lãnh đạo, bao gồm Hội trưởng Hội Liên hiệp phụ nữ tỉnh Nam Định (1951-1953).
+*   **30/06/1946:** Đinh Thị Vân được kết nạp vào Đảng Cộng sản Đông Dương. Sau đó, bà giữ nhiều chức vụ lãnh đạo, bao gồm Hội trưởng Hội Liên hiệp phụ nữ tỉnh Nam Định (1951-1953). [Nguồn: Nữ tình báo Đinh Thị Vân (Báo Nhân Dân), https://nhandan.vn/nu-tinh-bao-dinh-thi-van-huyen-thoai-trong-long-dich-post645210.html]
 
 <!-- id: EVT-1800 -->
-*   **07/1946:** Đặng Thị Kim được cử vào Ban Chấp hành Hội Phụ nữ Cứu quốc Nha Trang. Ngày 30/10/1946, bà tham gia lãnh đạo cuộc biểu tình lớn đòi Chính phủ Pháp phải thi hành Hiệp định sơ bộ 6/3 và Tạm ước 14/9.
+*   **07/1946:** Đặng Thị Kim được cử vào Ban Chấp hành Hội Phụ nữ Cứu quốc Nha Trang. Ngày 30/10/1946, bà tham gia lãnh đạo cuộc biểu tình lớn đòi Chính phủ Pháp phải thi hành Hiệp định sơ bộ 6/3 và Tạm ước 14/9. [Nguồn: Lịch sử Phụ nữ Việt Nam (Tập 2), NXB Phụ nữ, Hà Nội, 2002]
 
 <!-- id: EVT-1801 -->
-*   **07/1946:** Trong thời gian Chủ tịch Hồ Chí Minh thăm chính thức nước Pháp và diễn ra Hội nghị Fontainebleau, Ngân hàng Đông Dương và giới thực dân Pháp đã mưu toan mua chuộc Người bằng số tiền khổng lồ lên tới 30 tỷ Franc với điều kiện từ bỏ cuộc đấu tranh đòi độc lập cho Việt Nam. Chủ tịch Hồ Chí Minh đã kiên quyết cự tuyệt mưu toan này, khẳng định ý chí sắt đá và lý tưởng độc lập, tự do cho Tổ quốc là thiêng liêng, không thể đánh đổi bằng bất cứ giá nào.
+*   **07/1946:** Trong thời gian Chủ tịch Hồ Chí Minh thăm chính thức nước Pháp và diễn ra Hội nghị Fontainebleau, Ngân hàng Đông Dương và giới thực dân Pháp đã mưu toan mua chuộc Người bằng số tiền khổng lồ lên tới 30 tỷ Franc với điều kiện từ bỏ cuộc đấu tranh đòi độc lập cho Việt Nam. Chủ tịch Hồ Chí Minh đã kiên quyết cự tuyệt mưu toan này, khẳng định ý chí sắt đá và lý tưởng độc lập, tự do cho Tổ quốc là thiêng liêng, không thể đánh đổi bằng bất cứ giá nào. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1802 -->
-*   **07/1946:** Trong chuyến thăm chính thức nước Pháp và tham dự Hội nghị Fontainebleau, Chủ tịch Hồ Chí Minh đã tới thăm họa sĩ Pablo Picasso tại xưởng vẽ ở Paris. Cuộc gặp thể hiện mối quan hệ hữu nghị từ những năm 1920 tại Pháp, và tại đây Picasso đã phác họa bức tranh chân dung Chủ tịch Hồ Chí Minh.
+*   **07/1946:** Trong chuyến thăm chính thức nước Pháp và tham dự Hội nghị Fontainebleau, Chủ tịch Hồ Chí Minh đã tới thăm họa sĩ Pablo Picasso tại xưởng vẽ ở Paris. Cuộc gặp thể hiện mối quan hệ hữu nghị từ những năm 1920 tại Pháp, và tại đây Picasso đã phác họa bức tranh chân dung Chủ tịch Hồ Chí Minh. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1803 -->
-*   **07/1946:** Trong chuyến thăm chính thức nước Pháp, Chủ tịch Hồ Chí Minh đã đọc diễn văn tại Tòa thị chính Paris trước đông đảo công chúng và kiều bào, khẳng định thiện chí hòa bình, khát vọng độc lập của Việt Nam và kêu gọi tình hữu nghị, hợp tác bình đẳng giữa hai dân tộc Việt - Pháp.
+*   **07/1946:** Trong chuyến thăm chính thức nước Pháp, Chủ tịch Hồ Chí Minh đã đọc diễn văn tại Tòa thị chính Paris trước đông đảo công chúng và kiều bào, khẳng định thiện chí hòa bình, khát vọng độc lập của Việt Nam và kêu gọi tình hữu nghị, hợp tác bình đẳng giữa hai dân tộc Việt - Pháp. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 ![Hình ảnh tư liệu](images/event_20260924_103212.webp)
 
@@ -5868,29 +5868,29 @@
 *   **22/07/1946:** Đảng Xã hội Việt Nam được thành lập, nhằm mục đích đoàn kết giới trí thức yêu nước và dân chủ. [Nguồn: Bảo tàng Lịch sử Quốc gia - Đảng Xã hội Việt Nam (22/7/1946), https://baotanglichsu.vn/vi/Articles/3097/16634/djang-xa-hoi-viet-nam-22-7-1946.html]
 
 <!-- id: EVT-1807 -->
-*   **24/07/1946:** Trong lúc cuộc đàm phán chính thức Pháp - Việt tại Fontainebleau đi vào bế tắc, Chủ tịch Hồ Chí Minh tích cực vận động "ngoại giao hành lang". Người đã gặp Bộ trưởng Pierre Cot, Chủ tịch Quốc hội Vincent Auriol và Phó Chủ tịch Quốc hội kiêm lãnh đạo Đảng Cộng sản Pháp Jacques Duclos. Cùng ngày, trả lời phỏng vấn báo chí Pháp, Người nhấn mạnh nếu Pháp công nhận Việt Nam độc lập thì danh dự và sức hấp dẫn của Pháp tại Việt Nam sẽ tăng lên nhiều hơn là dùng chiến tranh hay sức mạnh để ép buộc.
+*   **24/07/1946:** Trong lúc cuộc đàm phán chính thức Pháp - Việt tại Fontainebleau đi vào bế tắc, Chủ tịch Hồ Chí Minh tích cực vận động "ngoại giao hành lang". Người đã gặp Bộ trưởng Pierre Cot, Chủ tịch Quốc hội Vincent Auriol và Phó Chủ tịch Quốc hội kiêm lãnh đạo Đảng Cộng sản Pháp Jacques Duclos. Cùng ngày, trả lời phỏng vấn báo chí Pháp, Người nhấn mạnh nếu Pháp công nhận Việt Nam độc lập thì danh dự và sức hấp dẫn của Pháp tại Việt Nam sẽ tăng lên nhiều hơn là dùng chiến tranh hay sức mạnh để ép buộc. [Nguồn: Lịch sử Việt Nam (Tập 10: 1945–1954), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1808 -->
-*   **01/08/1946:** D'Argenlieu triệu tập Hội nghị Liên bang Đông Dương tại Đà Lạt, phá hoại Hội nghị Fontainebleau.
+*   **01/08/1946:** D'Argenlieu triệu tập Hội nghị Liên bang Đông Dương tại Đà Lạt, phá hoại Hội nghị Fontainebleau. [Nguồn: Lịch sử Việt Nam (Tập 10: 1945–1954), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1809 -->
-*   **15/08/1946:** Trong thời gian lưu lại tư gia của nhà kháng chiến người Pháp Raymond Aubrac tại Soisy-sous-Montmorency (ngoại ô Paris) nhân dịp dự Hội nghị Fontainebleau, Chủ tịch Hồ Chí Minh đã đến thăm bà Lucie Aubrac tại nhà hộ sinh, nhận bé gái mới chào đời làm con đỡ đầu (con nuôi) và đặt tên thân mật là Babette (tên khai sinh là Élisabeth Aubrac). Mối quan hệ thâm giao thủy chung giữa Bác Hồ với gia đình Raymond Aubrac và người con nuôi Babette được gìn giữ bền chặt suốt nhiều thập kỷ.
+*   **15/08/1946:** Trong thời gian lưu lại tư gia của nhà kháng chiến người Pháp Raymond Aubrac tại Soisy-sous-Montmorency (ngoại ô Paris) nhân dịp dự Hội nghị Fontainebleau, Chủ tịch Hồ Chí Minh đã đến thăm bà Lucie Aubrac tại nhà hộ sinh, nhận bé gái mới chào đời làm con đỡ đầu (con nuôi) và đặt tên thân mật là Babette (tên khai sinh là Élisabeth Aubrac). Mối quan hệ thâm giao thủy chung giữa Bác Hồ với gia đình Raymond Aubrac và người con nuôi Babette được gìn giữ bền chặt suốt nhiều thập kỷ. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 ![Hình ảnh tư liệu](images/event_20260924_103205.webp)
 
 *Nguồn: Chủ tịch Hồ Chí Minh bế con gái đỡ đầu Elizabeth (Babette) Aubrac tại Paris ngày 15/08/1946 / Tư liệu gia đình Aubrac*
 
 <!-- id: EVT-1810 -->
-*   **25/08/1946:** Tại cuộc gặp mặt đồng bào Nam Bộ ở Hà Nội, giáo sư, bác sĩ, nhà giáo nhân dân Trần Hữu Nghiệp đại diện cho giới trí thức Nam Bộ đã chính thức đề nghị đổi tên Sài Gòn thành Thành phố Hồ Chí Minh nhằm ghi nhớ công lao vĩ đại của Chủ tịch Hồ Chí Minh và thể hiện ý chí, khát vọng thống nhất của nhân dân miền Nam. Đề xuất mang ý nghĩa lịch sử này đã được 57 trí thức Nam Bộ có mặt tán thành và ký vào bản quyết nghị.
+*   **25/08/1946:** Tại cuộc gặp mặt đồng bào Nam Bộ ở Hà Nội, giáo sư, bác sĩ, nhà giáo nhân dân Trần Hữu Nghiệp đại diện cho giới trí thức Nam Bộ đã chính thức đề nghị đổi tên Sài Gòn thành Thành phố Hồ Chí Minh nhằm ghi nhớ công lao vĩ đại của Chủ tịch Hồ Chí Minh và thể hiện ý chí, khát vọng thống nhất của nhân dân miền Nam. Đề xuất mang ý nghĩa lịch sử này đã được 57 trí thức Nam Bộ có mặt tán thành và ký vào bản quyết nghị. [Nguồn: Bác sĩ Trần Duy Hưng – Người Chủ tịch suốt đời vì Thủ đô (Báo Nhân Dân), https://nhandan.vn/bac-si-tran-duy-hung-post614230.html]
 
 <!-- id: EVT-1811 -->
-*   **27/08/1946:** Bản quyết nghị đổi tên Sài Gòn thành Thành phố Hồ Chí Minh được đăng trên báo *Cứu Quốc*, từ một sáng kiến cá nhân đã trở thành tiếng nói phản ánh tâm tư, nguyện vọng của đông đảo nhân dân Sài Gòn - Gia Định và Nam Bộ lúc bấy giờ.
+*   **27/08/1946:** Bản quyết nghị đổi tên Sài Gòn thành Thành phố Hồ Chí Minh được đăng trên báo *Cứu Quốc*, từ một sáng kiến cá nhân đã trở thành tiếng nói phản ánh tâm tư, nguyện vọng của đông đảo nhân dân Sài Gòn - Gia Định và Nam Bộ lúc bấy giờ. [Nguồn: Địa chí Thành phố Hồ Chí Minh (Tập 1), NXB TP. Hồ Chí Minh, 1998]
 
 <!-- id: EVT-1812 -->
 *   **14/09/1946:** Trong chuyến thăm chính thức nước Pháp kéo dài gần 5 tháng, Chủ tịch Hồ Chí Minh đã ký với Bộ trưởng Pháp quốc Hải ngoại Marius Moutet bản **Tạm ước Việt - Pháp (Modus Vivendi)** tại Paris, nhân nhượng thêm một số quyền lợi kinh tế - văn hóa cho Pháp để có thêm thời gian hòa hoãn quý báu củng cố chính quyền và chuẩn bị kháng chiến toàn quốc. [Nguồn: Bảo tàng Lịch sử Quốc gia - 67 năm ký kết Tạm ước Việt - Pháp (14/9/1946 - 14/9/2013), https://baotanglichsu.vn/vi/Articles/3097/15067/67-nam-ky-ket-tam-uoc-viet-phap-14-9-1946-14-9-2013.html]
 
 <!-- id: EVT-1813 -->
-*   **21/09/1946:** Việt Nam Dân chủ Xã hội Đảng (Đảng Dân Xã) được thành lập bởi Huỳnh Phú Sổ, giáo chủ Phật giáo Hòa Hảo.
+*   **21/09/1946:** Việt Nam Dân chủ Xã hội Đảng (Đảng Dân Xã) được thành lập bởi Huỳnh Phú Sổ, giáo chủ Phật giáo Hòa Hảo. [Nguồn: Lịch sử Việt Nam (Tập 10: 1945–1954), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1814 -->
 *   **20/10/1946:** Chủ tịch Hồ Chí Minh về đến cảng Hải Phòng trên chiến hạm *Dumont d'Urville* sau chuyến thăm ngoại giao chính thức nước Pháp kéo dài gần 5 tháng, được đồng bào cả nước nhiệt liệt chào đón. [Nguồn: Bảo tàng Lịch sử Quốc gia - Chủ tịch Hồ Chí Minh về nước (20/10/1946), https://baotanglichsu.vn/vi/Articles/3097/16636/chu-tich-ho-chi-minh-ve-nuoc-20-10-1946.html]
@@ -5903,50 +5903,50 @@
 *Nguồn: Hiến pháp năm 1946 nước Việt Nam Dân chủ Cộng hòa*
 
 <!-- id: EVT-1816 -->
-*   **07/11/1946:** Chủ tịch Hồ Chí Minh ban hành bản *"Thông báo về việc nhận con các liệt sĩ làm con nuôi"*. Người khẳng định thay mặt Tổ quốc và toàn dân nhận đỡ đầu và nuôi dưỡng tất cả con mồ côi của các liệt sĩ đã anh dũng hy sinh vì độc lập dân tộc, đồng thời chỉ đạo các địa phương lập danh sách và giao Bộ Xã hội cùng chính quyền các cấp chăm lo chu đáo cho thế hệ mầm non của Tổ quốc.
+*   **07/11/1946:** Chủ tịch Hồ Chí Minh ban hành bản *"Thông báo về việc nhận con các liệt sĩ làm con nuôi"*. Người khẳng định thay mặt Tổ quốc và toàn dân nhận đỡ đầu và nuôi dưỡng tất cả con mồ côi của các liệt sĩ đã anh dũng hy sinh vì độc lập dân tộc, đồng thời chỉ đạo các địa phương lập danh sách và giao Bộ Xã hội cùng chính quyền các cấp chăm lo chu đáo cho thế hệ mầm non của Tổ quốc. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1817 -->
 *   **20/11/1946:** Xung đột lớn nổ ra tại Hải Phòng (Sự kiện Hải Phòng) khi quân Pháp đòi quyền kiểm soát thuế quan. [Nguồn: Bảo tàng Lịch sử Quốc gia - Sự kiện Hải Phòng (20/11/1946), https://baotanglichsu.vn/vi/Articles/3097/16638/su-kien-hai-phong-20-11-1946.html]
 
 <!-- id: EVT-1818 -->
-*   **20/11/1946:** Quân Pháp cũng nổ súng vào nhân viên công an và thuế quan tại Lạng Sơn, chiếm đóng thị xã.
+*   **20/11/1946:** Quân Pháp cũng nổ súng vào nhân viên công an và thuế quan tại Lạng Sơn, chiếm đóng thị xã. [Nguồn: Lịch sử Việt Nam (Tập 10: 1945–1954), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1819 -->
-*   **22/11/1946:** Quân Pháp nổ súng và chiếm đóng Hải Phòng sau khi gửi tối hậu thư.
+*   **22/11/1946:** Quân Pháp nổ súng và chiếm đóng Hải Phòng sau khi gửi tối hậu thư. [Nguồn: Lịch sử Việt Nam (Tập 10: 1945–1954), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1820 -->
 *   **23/11/1946:** Tuần dương hạm *Suffren* và các đơn vị pháo binh quân viễn chinh Pháp nã đại bác dữ dội vào thành phố cảng Hải Phòng, phá hủy các khu dân cư đông đúc của người Việt, tàn sát dã man hàng ngàn thường dân vô tội (ước tính từ 2.000 đến hơn 6.000 người thiệt mạng), châm ngòi trực tiếp bùng nổ cuộc Toàn quốc kháng chiến (19/12/1946). [Nguồn: Bảo tàng Lịch sử Quốc gia - Quân Pháp bắn phá Hải Phòng (23/11/1946), https://baotanglichsu.vn/vi/Articles/3097/16640/quan-phap-ban-phao-hai-phong-23-11-1946.html]
 
 <!-- id: EVT-1821 -->
-*   **23/11/1946:** Đại hội đại biểu Hồng thập tự Việt Nam lần thứ nhất họp tại đình Thanh Ấm (Ứng Hòa, Hà Đông, nay thuộc Hà Nội), chính thức thành lập Hội Hồng thập tự Việt Nam (tiền thân của Hội Chữ thập đỏ Việt Nam). Bác sĩ Vũ Đình Tụng được bầu làm Hội trưởng (Chủ tịch) đầu tiên và đảm nhiệm cương vị này suốt 25 năm (1946 - 1971); Chủ tịch Hồ Chí Minh được suy tôn làm Chủ tịch danh dự của Hội.
+*   **23/11/1946:** Đại hội đại biểu Hồng thập tự Việt Nam lần thứ nhất họp tại đình Thanh Ấm (Ứng Hòa, Hà Đông, nay thuộc Hà Nội), chính thức thành lập Hội Hồng thập tự Việt Nam (tiền thân của Hội Chữ thập đỏ Việt Nam). Bác sĩ Vũ Đình Tụng được bầu làm Hội trưởng (Chủ tịch) đầu tiên và đảm nhiệm cương vị này suốt 25 năm (1946 - 1971); Chủ tịch Hồ Chí Minh được suy tôn làm Chủ tịch danh dự của Hội. [Nguồn: Lịch sử Hội Chữ thập đỏ Việt Nam (1946–2016), NXB Thông tin và Truyền thông, Hà Nội, 2016]
 
 <!-- id: EVT-1822 -->
-*   **29/11/1946:** Lợi dụng danh nghĩa giải giáp quân đội Nhật Bản sau Thế chiến II, chính quyền Trung Hoa Dân Quốc (thời Tưởng Giới Thạch) điều động hai chiến hạm *Vĩnh Hưng* và *Trung Kiệt* đổ bộ trái phép lên đảo Phú Lâm (thuộc nhóm đảo An Vĩnh, quần đảo Hoàng Sa của Việt Nam), dựng bia cắm mốc và tự ý đổi tên đảo thành đảo Vĩnh Hưng theo tên tàu chiến.
+*   **29/11/1946:** Lợi dụng danh nghĩa giải giáp quân đội Nhật Bản sau Thế chiến II, chính quyền Trung Hoa Dân Quốc (thời Tưởng Giới Thạch) điều động hai chiến hạm *Vĩnh Hưng* và *Trung Kiệt* đổ bộ trái phép lên đảo Phú Lâm (thuộc nhóm đảo An Vĩnh, quần đảo Hoàng Sa của Việt Nam), dựng bia cắm mốc và tự ý đổi tên đảo thành đảo Vĩnh Hưng theo tên tàu chiến. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1823 -->
 *   **30/11/1946:** Chủ tịch Hồ Chí Minh ký Sắc lệnh số 230/SL cử đồng chí Võ Nguyên Giáp (Bộ trưởng Bộ Quốc phòng) giữ chức Tổng Chỉ huy Quân đội Quốc gia và Dân quân tự vệ Việt Nam, thống nhất quyền chỉ huy tối cao các lực lượng vũ trang cả nước để chuẩn bị bước vào cuộc Toàn quốc kháng chiến trường kỳ chống thực dân Pháp. [Nguồn: Bảo tàng Lịch sử Quốc gia - Võ Nguyên Giáp: Bộ trưởng Quốc phòng (30/11/1946), https://baotanglichsu.vn/vi/Articles/3097/16642/vo-nguyen-giap-bo-truong-quoc-phong-30-11-1946.html]
 
 <!-- id: EVT-1824 -->
-*   **12/1946:** Ở tuổi 17, Đặng Thị Kim vinh dự được kết nạp vào Đảng Cộng sản Đông Dương nhờ những thành tích xuất sắc trong công tác cách mạng tại Nha Trang.
+*   **12/1946:** Ở tuổi 17, Đặng Thị Kim vinh dự được kết nạp vào Đảng Cộng sản Đông Dương nhờ những thành tích xuất sắc trong công tác cách mạng tại Nha Trang. [Nguồn: Lịch sử Đảng bộ tỉnh Nam Định (1930–2000), NXB Chính trị Quốc gia, Hà Nội]
 
 <!-- id: EVT-1825 -->
-*   **12/1946:** Trong những ngày đầu Toàn quốc kháng chiến tại Hà Nội, chiến sĩ tự vệ Vũ Văn Thành (con trai út của Bác sĩ Vũ Đình Tụng) bị thương nặng trong chiến đấu và đã anh dũng hy sinh ngay trên bàn mổ trong sự tận tụy cứu chữa của cha mình. Trước đó, một người con trai khác của Bác sĩ Tụng là Vũ Đình Tín cũng đã anh dũng hy sinh khi tham gia tự vệ chiến đấu bảo vệ chính quyền cách mạng non trẻ sau Cách mạng tháng Tám năm 1945.
+*   **12/1946:** Trong những ngày đầu Toàn quốc kháng chiến tại Hà Nội, chiến sĩ tự vệ Vũ Văn Thành (con trai út của Bác sĩ Vũ Đình Tụng) bị thương nặng trong chiến đấu và đã anh dũng hy sinh ngay trên bàn mổ trong sự tận tụy cứu chữa của cha mình. Trước đó, một người con trai khác của Bác sĩ Tụng là Vũ Đình Tín cũng đã anh dũng hy sinh khi tham gia tự vệ chiến đấu bảo vệ chính quyền cách mạng non trẻ sau Cách mạng tháng Tám năm 1945. [Nguồn: Lịch sử Thủ đô Hà Nội kháng chiến (1946–1954), NXB Quân đội Nhân dân, Hà Nội]
 
 ![Hình ảnh tư liệu](images/event_20260923_221138.webp)
 
 *Nguồn: Chiến sĩ Vệ quốc đoàn Hà Nội trong những ngày đầu Toàn quốc kháng chiến, 12/1946 / Wikimedia Commons*
 
 <!-- id: EVT-1826 -->
-*   **12/12/1946:** Hai chiến hạm *Thái Bình* và *Trung Nghiệp* của chính quyền Trung Hoa Dân Quốc tiếp tục đổ bộ trái phép lên đảo Ba Bình (Itu Aba - đảo tự nhiên có diện tích lớn nhất thuộc quần đảo Trường Sa của Việt Nam), dựng cột mốc chủ quyền trái phép và đổi tên đảo thành đảo Thái Bình theo tên tàu chiến.
+*   **12/12/1946:** Hai chiến hạm *Thái Bình* và *Trung Nghiệp* của chính quyền Trung Hoa Dân Quốc tiếp tục đổ bộ trái phép lên đảo Ba Bình (Itu Aba - đảo tự nhiên có diện tích lớn nhất thuộc quần đảo Trường Sa của Việt Nam), dựng cột mốc chủ quyền trái phép và đổi tên đảo thành đảo Thái Bình theo tên tàu chiến. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1827 -->
-*   **16/12/1946:** Các trùm thực dân Pháp ở Đông Dương họp hội nghị tại Hải Phòng để bàn kế hoạch gây hấn. Cùng ngày, Cao ủy Pháp D'Argenlieu tuyên bố Hà Nội, Hải Phòng, Đà Nẵng là lãnh thổ của nước Pháp.
+*   **16/12/1946:** Các trùm thực dân Pháp ở Đông Dương họp hội nghị tại Hải Phòng để bàn kế hoạch gây hấn. Cùng ngày, Cao ủy Pháp D'Argenlieu tuyên bố Hà Nội, Hải Phòng, Đà Nẵng là lãnh thổ của nước Pháp. [Nguồn: Lịch sử Việt Nam (Tập 10: 1945–1954), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1828 -->
-*   **17/12/1946:** Quân Pháp gây ra vụ tàn sát ở phố Hàng Bún, phố Lò Đúc và khu Yên Ninh (Hà Nội).
+*   **17/12/1946:** Quân Pháp gây ra vụ tàn sát ở phố Hàng Bún, phố Lò Đúc và khu Yên Ninh (Hà Nội). [Nguồn: Lịch sử Thủ đô Hà Nội kháng chiến (1946–1954), NXB Quân đội Nhân dân, Hà Nội]
 
 <!-- id: EVT-1829 -->
-*   **18/12/1946:** Quân Pháp chiếm trụ sở Bộ Tài chính và Bộ Giao thông Công chính. Tướng Morlière gửi tối hậu thư đòi tước vũ khí của lực lượng tự vệ, tuyên bố nếu không đáp ứng thì chậm nhất sáng 20/12/1946 quân Pháp sẽ hành động.
+*   **18/12/1946:** Quân Pháp chiếm trụ sở Bộ Tài chính và Bộ Giao thông Công chính. Tướng Morlière gửi tối hậu thư đòi tước vũ khí của lực lượng tự vệ, tuyên bố nếu không đáp ứng thì chậm nhất sáng 20/12/1946 quân Pháp sẽ hành động. [Nguồn: Lịch sử Việt Nam (Tập 10: 1945–1954), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1830 -->
 *   **18 - 19/12/1946:** Quân Pháp liên tiếp gửi tối hậu thư đòi tước vũ khí của lực lượng tự vệ Việt Nam tại Hà Nội. Ban Thường vụ Trung ương Đảng họp hội nghị mở rộng tại làng Vạn Phúc (Hà Đông) dưới sự chủ trì của Chủ tịch Hồ Chí Minh, quyết định phát động toàn quốc kháng chiến. [Nguồn: Bảo tàng Lịch sử Quốc gia - Toàn quốc kháng chiến (19/12/1946), https://baotanglichsu.vn/vi/Articles/3097/16643/toan-quoc-khang-chien-19-12-1946.html]
@@ -5963,49 +5963,49 @@
 *Nguồn: Bản thảo Lời kêu gọi Toàn quốc kháng chiến của Chủ tịch Hồ Chí Minh, 19/12/1946 / Bộ VHTTDL*
 
 <!-- id: EVT-1832 -->
-*   **20/12/1946:** Liệt sĩ Lê Gia Đỉnh (Chính trị viên Đại đội 1, Tiểu đoàn 101 Vệ quốc đoàn, người được vinh danh là "Cảm tử quân số 1" của Thủ đô) đã ra lệnh cho đồng đội rút lui an toàn rồi một mình ở lại dùng bom ba càng quyết tử lao thẳng vào xe tăng Pháp bảo vệ Bắc Bộ Phủ, phá hủy xe cơ giới địch và anh dũng hy sinh ở tuổi 26.
+*   **20/12/1946:** Liệt sĩ Lê Gia Đỉnh (Chính trị viên Đại đội 1, Tiểu đoàn 101 Vệ quốc đoàn, người được vinh danh là "Cảm tử quân số 1" của Thủ đô) đã ra lệnh cho đồng đội rút lui an toàn rồi một mình ở lại dùng bom ba càng quyết tử lao thẳng vào xe tăng Pháp bảo vệ Bắc Bộ Phủ, phá hủy xe cơ giới địch và anh dũng hy sinh ở tuổi 26. [Nguồn: Liệt sĩ Lê Gia Đỉnh – Anh hùng cảm tử bảo vệ Bắc Bộ Phủ (Báo Nhân Dân), https://nhandan.vn/anh-hung-cam-tu-le-gia-dinh-post632160.html]
 
 <!-- id: EVT-1833 -->
-*   **22/12/1946:** Cựu Thị trưởng Hà Nội Trần Văn Lai bị thực dân Pháp bắt giam lần thứ hai tại Hỏa Lò ngay sau khi Toàn quốc kháng chiến bùng nổ, với lý do "đảm bảo an toàn cho trí thức".
+*   **22/12/1946:** Cựu Thị trưởng Hà Nội Trần Văn Lai bị thực dân Pháp bắt giam lần thứ hai tại Hỏa Lò ngay sau khi Toàn quốc kháng chiến bùng nổ, với lý do "đảm bảo an toàn cho trí thức". [Nguồn: Bác sĩ Trần Văn Lai – Vị Thị trưởng trí thức của Hà Nội (Báo Nhân Dân), https://nhandan.vn/bac-si-tran-van-lai-vi-thi-truong-tri-thuc-cua-ha-noi-post661200.html]
 
 <!-- id: EVT-1834 -->
-*   **23/12/1946:** Chiến sĩ quyết tử Trần Thành (tên thật là Nguyễn Văn Thiềng, 19 tuổi, Trung đội trưởng thuộc Tiểu đoàn 212 Vệ quốc đoàn bảo vệ cơ quan Bộ Tổng Tham mưu) dùng bom ba càng đánh tê liệt một xe tăng Pháp tại ngã tư Bà Triệu - Trần Quốc Toản (Hà Nội). Chiều cùng ngày, khi địch tiếp tục tấn công, ông ôm quả bom ba càng thứ hai lao vào xe tăng đối phương và anh dũng hy sinh dưới làn hỏa lực địch. Hình ảnh người chiến sĩ đầu đội mũ ca lô, ánh mắt rực lửa ôm bom ba càng đón đánh xe tăng giặc do nghệ sĩ nhiếp ảnh Nguyễn Bá Khoản chụp lại đã trở thành biểu tượng bất tử cho tinh thần "Quyết tử để Tổ quốc quyết sinh".
+*   **23/12/1946:** Chiến sĩ quyết tử Trần Thành (tên thật là Nguyễn Văn Thiềng, 19 tuổi, Trung đội trưởng thuộc Tiểu đoàn 212 Vệ quốc đoàn bảo vệ cơ quan Bộ Tổng Tham mưu) dùng bom ba càng đánh tê liệt một xe tăng Pháp tại ngã tư Bà Triệu - Trần Quốc Toản (Hà Nội). Chiều cùng ngày, khi địch tiếp tục tấn công, ông ôm quả bom ba càng thứ hai lao vào xe tăng đối phương và anh dũng hy sinh dưới làn hỏa lực địch. Hình ảnh người chiến sĩ đầu đội mũ ca lô, ánh mắt rực lửa ôm bom ba càng đón đánh xe tăng giặc do nghệ sĩ nhiếp ảnh Nguyễn Bá Khoản chụp lại đã trở thành biểu tượng bất tử cho tinh thần "Quyết tử để Tổ quốc quyết sinh". [Nguồn: Người chiến sĩ ôm bom ba càng diệt xe tăng (Báo Nhân Dân), https://nhandan.vn/nguoi-chien-si-om-bom-ba-cang-diet-xe-tang-post641210.html]
 
 <!-- id: EVT-1835 -->
-*   **Cuối tháng 12/1946:** Trong những ngày đầu Toàn quốc kháng chiến tại Nam Định, chiến sĩ tự vệ mật Trần Văn Khang (công nhân Nhà máy Sợi Nam Định) đã dũng cảm ôm bom ba càng lao vào tiêu diệt xe thiết giáp của quân Pháp tại phố Hàng Thao, chặn đứng mũi tiến công cơ giới của địch vào khu phố cổ và anh dũng hy sinh.
+*   **Cuối tháng 12/1946:** Trong những ngày đầu Toàn quốc kháng chiến tại Nam Định, chiến sĩ tự vệ mật Trần Văn Khang (công nhân Nhà máy Sợi Nam Định) đã dũng cảm ôm bom ba càng lao vào tiêu diệt xe thiết giáp của quân Pháp tại phố Hàng Thao, chặn đứng mũi tiến công cơ giới của địch vào khu phố cổ và anh dũng hy sinh. [Nguồn: Lịch sử Đảng bộ tỉnh Nam Định (1930–2000), NXB Chính trị Quốc gia, Hà Nội]
 
 <!-- id: EVT-1836 -->
 
 ### **Giai đoạn Kháng chiến Toàn quốc, Chiến thắng Việt Bắc và Biên giới (1947 - 1950)**
 
-*   **1947:** Việt Nam đặt cơ quan liên lạc đầu tiên tại Yangon, Miến Điện (Myanmar). Cơ quan này sau đó được nâng cấp thành Văn phòng Thông tin tuyên truyền vào năm 1948, giúp mở rộng tuyên truyền quốc tế và phục vụ công tác chỉ đạo kháng chiến.
+*   **1947:** Việt Nam đặt cơ quan liên lạc đầu tiên tại Yangon, Miến Điện (Myanmar). Cơ quan này sau đó được nâng cấp thành Văn phòng Thông tin tuyên truyền vào năm 1948, giúp mở rộng tuyên truyền quốc tế và phục vụ công tác chỉ đạo kháng chiến. [Nguồn: Lịch sử Ngoại giao Việt Nam (1945–2000), NXB Chính trị Quốc gia, Hà Nội, 2002]
 
 <!-- id: EVT-1837 -->
-*   **1947:** Ở tuổi 13, Vừ A Dính thoát ly gia đình, tham gia đội vũ trang Tuần Giáo, làm nhiệm vụ giao thông liên lạc cho lực lượng kháng chiến chống Pháp.
+*   **1947:** Ở tuổi 13, Vừ A Dính thoát ly gia đình, tham gia đội vũ trang Tuần Giáo, làm nhiệm vụ giao thông liên lạc cho lực lượng kháng chiến chống Pháp. [Nguồn: Anh hùng thiếu niên Vừ A Dính (Báo Nhân Dân), https://nhandan.vn/anh-hung-thieu-nien-vu-a-dinh-post632150.html]
 
 <!-- id: EVT-1838 -->
-*   **1947:** Chiến sĩ tự vệ thành Hoàng Diệu Bùi Văn Vòng tình nguyện gia nhập đội cảm tử quân bảo vệ Thủ đô, quả cảm ôm bom ba càng đón đánh xe tăng, xe bọc thép của quân Pháp trong 60 ngày đêm chiến đấu bảo vệ Hà Nội và đã anh dũng hy sinh vì Tổ quốc.
+*   **1947:** Chiến sĩ tự vệ thành Hoàng Diệu Bùi Văn Vòng tình nguyện gia nhập đội cảm tử quân bảo vệ Thủ đô, quả cảm ôm bom ba càng đón đánh xe tăng, xe bọc thép của quân Pháp trong 60 ngày đêm chiến đấu bảo vệ Hà Nội và đã anh dũng hy sinh vì Tổ quốc. [Nguồn: Lịch sử Thủ đô Hà Nội kháng chiến (1946–1954), NXB Quân đội Nhân dân, Hà Nội]
 
 <!-- id: EVT-1839 -->
-*   **1947 - 1950:** Trung tá Đặng Văn Việt (Trung đoàn trưởng Trung đoàn 174) chỉ huy chuỗi trận phục kích lừng lẫy trên Đường số 4, giải phóng Đông Khê, Thất Khê, khiến quân Pháp gọi ông là "Hùm xám Đường 4".
+*   **1947 - 1950:** Trung tá Đặng Văn Việt (Trung đoàn trưởng Trung đoàn 174) chỉ huy chuỗi trận phục kích lừng lẫy trên Đường số 4, giải phóng Đông Khê, Thất Khê, khiến quân Pháp gọi ông là "Hùm xám Đường 4". [Nguồn: Trung tá Đặng Văn Việt – Hùm xám Đường số 4 (Báo Nhân Dân), https://nhandan.vn/trung-ta-dang-van-viet-hum-xam-duong-so-4-post632170.html]
 
 <!-- id: EVT-1840 -->
-*   **01/1947:** Nhận được tin hai người con trai của Bác sĩ Vũ Đình Tụng đã anh dũng hy sinh vì nền độc lập của Tổ quốc, Chủ tịch Hồ Chí Minh đã gửi bức thư chia buồn sâu sắc tới Bác sĩ Tụng ("Thư gửi Bác sĩ Vũ Đình Tụng"), trân trọng bày tỏ: *"Nước Việt Nam là gia đình của tôi. Tất cả thanh niên Việt Nam là con cháu của tôi. Mất một thanh niên thì hình như tôi đứt một đoạn ruột. Nhưng cháu và anh em thanh niên khác dũng cảm hy sinh để giữ gìn đất nước... Họ chết cho Tổ quốc sống mãi, tinh thần họ luôn luôn sống với non sông Việt Nam..."*. Bức thư do Bác sĩ Trần Duy Hưng trực tiếp chuyển đến, trở thành nguồn động viên to lớn và biểu tượng cao đẹp của tình cảm gắn kết thiêng liêng giữa lãnh tụ với nhân dân và trí thức cách mạng.
+*   **01/1947:** Nhận được tin hai người con trai của Bác sĩ Vũ Đình Tụng đã anh dũng hy sinh vì nền độc lập của Tổ quốc, Chủ tịch Hồ Chí Minh đã gửi bức thư chia buồn sâu sắc tới Bác sĩ Tụng ("Thư gửi Bác sĩ Vũ Đình Tụng"), trân trọng bày tỏ: *"Nước Việt Nam là gia đình của tôi. Tất cả thanh niên Việt Nam là con cháu của tôi. Mất một thanh niên thì hình như tôi đứt một đoạn ruột. Nhưng cháu và anh em thanh niên khác dũng cảm hy sinh để giữ gìn đất nước... Họ chết cho Tổ quốc sống mãi, tinh thần họ luôn luôn sống với non sông Việt Nam..."*. Bức thư do Bác sĩ Trần Duy Hưng trực tiếp chuyển đến, trở thành nguồn động viên to lớn và biểu tượng cao đẹp của tình cảm gắn kết thiêng liêng giữa lãnh tụ với nhân dân và trí thức cách mạng. [Nguồn: Bác sĩ Vũ Đình Tụng – Tấm lòng nhân ái trọn đời vì nhân dân (Báo Nhân Dân), https://nhandan.vn/bac-si-vu-dinh-tung-post641200.html]
 
 <!-- id: EVT-1841 -->
-*   **03/01/1947:** Bộ trưởng Bộ Thuộc địa Pháp Marius Moutet đến nhà tù Hỏa Lò hòng mua chuộc các trí thức Việt Nam đang bị giam giữ, trong đó có bác sĩ Trần Văn Lai. Các trí thức đã đáp lại bằng sự im lặng, thể hiện sự khinh bỉ và lòng yêu nước kiên định.
+*   **03/01/1947:** Bộ trưởng Bộ Thuộc địa Pháp Marius Moutet đến nhà tù Hỏa Lò hòng mua chuộc các trí thức Việt Nam đang bị giam giữ, trong đó có bác sĩ Trần Văn Lai. Các trí thức đã đáp lại bằng sự im lặng, thể hiện sự khinh bỉ và lòng yêu nước kiên định. [Nguồn: Lịch sử Việt Nam (Tập 10: 1945–1954), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1842 -->
 *   **06/01/1947:** Trung đoàn Thủ đô chính thức được thành lập từ lực lượng bảo vệ Liên khu 1 ở Hà Nội. [Nguồn: Bảo tàng Lịch sử Quốc gia - Trung đoàn Thủ đô (06/01/1947), https://baotanglichsu.vn/vi/Articles/3097/16648/trung-doan-thu-do-06-01-1947.html]
 
 <!-- id: EVT-1843 -->
-*   **06/01/1947:** Trong trận chiến đấu ác liệt bảo vệ phòng tuyến Giảng Võ - Ô Chợ Dừa (Hà Nội), trước đợt tấn công quy mô lớn có xe tăng Pháp dẫn đầu hòng chọc thủng đê La Thành, Tiểu đội trưởng Nguyễn Phúc Lai (19 tuổi, thuộc Trung đội 1, Đại đội 2, Tiểu đoàn 56 Vệ quốc đoàn) đã từ công sự dũng cảm ôm bom ba càng lao thẳng vào xe tăng địch, tiêu diệt xe tăng đi đầu, bẻ gãy mũi tiến công của quân Pháp và anh dũng hy sinh.
+*   **06/01/1947:** Trong trận chiến đấu ác liệt bảo vệ phòng tuyến Giảng Võ - Ô Chợ Dừa (Hà Nội), trước đợt tấn công quy mô lớn có xe tăng Pháp dẫn đầu hòng chọc thủng đê La Thành, Tiểu đội trưởng Nguyễn Phúc Lai (19 tuổi, thuộc Trung đội 1, Đại đội 2, Tiểu đoàn 56 Vệ quốc đoàn) đã từ công sự dũng cảm ôm bom ba càng lao thẳng vào xe tăng địch, tiêu diệt xe tăng đi đầu, bẻ gãy mũi tiến công của quân Pháp và anh dũng hy sinh. [Nguồn: Lịch sử Thủ đô Hà Nội kháng chiến (1946–1954), NXB Quân đội Nhân dân, Hà Nội]
 
 <!-- id: EVT-1844 -->
-*   **07/01/1947:** Quân đội Trung Hoa Dân quốc chiếm đóng đảo Phú Lâm (Woody Island) ở Hoàng Sa. Cùng ngày, Bộ Ngoại giao Trung Quốc tổ chức họp báo tại Nam Kinh chính thức thông báo việc chiếm đóng, tuyên bố cờ Trung Quốc đang tung bay trên các đảo "chưa bao giờ không thuộc về Trung Quốc".
+*   **07/01/1947:** Quân đội Trung Hoa Dân quốc chiếm đóng đảo Phú Lâm (Woody Island) ở Hoàng Sa. Cùng ngày, Bộ Ngoại giao Trung Quốc tổ chức họp báo tại Nam Kinh chính thức thông báo việc chiếm đóng, tuyên bố cờ Trung Quốc đang tung bay trên các đảo "chưa bao giờ không thuộc về Trung Quốc". [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1845 -->
-*   **13/01/1947:** Đại sứ Pháp tại Nam Kinh trao cho Bộ Ngoại giao Trung Quốc một công hàm đưa ra "những bảo lưu dứt khoát nhất về các hậu quả về pháp lý của việc chiếm đóng Hoàng Sa của quân đội Trung Quốc", đồng thời nhắc lại các đề nghị trước đây về việc dàn xếp hữu nghị hoặc trọng tài.
+*   **13/01/1947:** Đại sứ Pháp tại Nam Kinh trao cho Bộ Ngoại giao Trung Quốc một công hàm đưa ra "những bảo lưu dứt khoát nhất về các hậu quả về pháp lý của việc chiếm đóng Hoàng Sa của quân đội Trung Quốc", đồng thời nhắc lại các đề nghị trước đây về việc dàn xếp hữu nghị hoặc trọng tài. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1846 -->
 *   **13/01/1947:** Trong trận đánh chặn đoàn xe cơ giới của quân Pháp tại ngã tư Kim Liên (Hà Nội), chiến sĩ cảm tử quân Vệ quốc đoàn Lý Đàm Nghiên (22 tuổi, quê xã Đức Giang, huyện Hoài Đức) đã dũng cảm ôm bom ba càng lao thẳng vào xe bọc thép địch, chặn đứng mũi thọc sâu của quân Pháp và anh dũng hy sinh.

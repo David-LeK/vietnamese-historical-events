@@ -5412,99 +5412,99 @@
 *   **1941:** Architect Huynh Tan Phat won first prize in the design competition for the Indochina Exhibition Center in Saigon. [Source: Architect Huynh Tan Phat – Life and Career (Nhan Dan Newspaper), https://nhandan.vn/kien-truc-su-huynh-tan-phat-post738200.html]
 
 <!-- id: EVT-1672 -->
-*   **Jan. 13, 1941:** The Do Luong Mutiny, led by Captain Cung, broke out in Nghe An.
+*   **Jan. 13, 1941:** The Do Luong Mutiny, led by Captain Cung, broke out in Nghe An. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1673 -->
-*   **Jan. 28, 1941:** Leader Nguyen Ai Quoc accompanied by Comrade Phung Chi Kien crossed Marker 108 on the Sino-Vietnamese border to return to Pac Bo (Cao Bang) after 30 years abroad to directly lead the revolution, organize cadre training, and establish revolutionary bases.
+*   **Jan. 28, 1941:** Leader Nguyen Ai Quoc accompanied by Comrade Phung Chi Kien crossed Marker 108 on the Sino-Vietnamese border to return to Pac Bo (Cao Bang) after 30 years abroad to directly lead the revolution, organize cadre training, and establish revolutionary bases. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 ![Historical Image](images/event_20260923_123003.webp)
 
 *Source: Coc Bo Cave, Pac Bo Historical Site, Cao Bang Province (Photo: Shansov.net / Wikimedia Commons / CC BY-SA 3.0)*
 
 <!-- id: EVT-1674 -->
-*   **May 10 - 19, 1941:** The 8th Conference of the Party Central Committee in Pac Bo (Cao Bang), chaired by Nguyen Ai Quoc, completed the national liberation line, established the Viet Minh Front, and elected Comrade Truong Chinh as General Secretary. The conference also officially decided to adopt the red flag with a five-pointed gold star as the emblem of the Viet Minh Front, determining that upon national victory it would serve as the National Flag of the future Democratic Republic of Vietnam. At the conference, Comrade Phung Chi Kien was re-elected to the Central Committee and appointed Chief Commander of the Bac Son Base Area, forming and commanding National Rescue Army Unit 1 (Cứu quốc quân 1).
+*   **May 10 - 19, 1941:** The 8th Conference of the Party Central Committee in Pac Bo (Cao Bang), chaired by Nguyen Ai Quoc, completed the national liberation line, established the Viet Minh Front, and elected Comrade Truong Chinh as General Secretary. The conference also officially decided to adopt the red flag with a five-pointed gold star as the emblem of the Viet Minh Front, determining that upon national victory it would serve as the National Flag of the future Democratic Republic of Vietnam. At the conference, Comrade Phung Chi Kien was re-elected to the Central Committee and appointed Chief Commander of the Bac Son Base Area, forming and commanding National Rescue Army Unit 1 (Cứu quốc quân 1). [Source: Central Committee of the Party, Comrade Phung Chi Kien – Exemplary Communist Soldier, National Political Publishing House, Hanoi, 2008]
 
 ![Historical Image](images/event_20260923_213625.webp)
 
 *Source: Pac Bo Cave (Cao Bang) - where President Ho Chi Minh lived and worked in 1941*
 
 <!-- id: EVT-1675 -->
-*   **May 15, 1941:** The Children's Alliance for National Salvation (predecessor of the Ho Chi Minh Young Pioneer Organization) is established in Na Ma (Cao Bang), with Kim Dong (Nong Van Den) elected as its first leader.
+*   **May 15, 1941:** The Children's Alliance for National Salvation (predecessor of the Ho Chi Minh Young Pioneer Organization) is established in Na Ma (Cao Bang), with Kim Dong (Nong Van Den) elected as its first leader. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1676 -->
-*   **Jul. 28, 1941:** Expanding its aggressive expansion, the Japanese Empire officially advanced military forces into southern Indochina (Cochinchina), occupying Saigon, Cam Ranh, and strategic military bases. This move finalized Japanese military domination over all of Vietnam, turning the country into a forward staging ground and key logistics springboard to launch its imperialist expansion across Southeast Asia during World War II.
+*   **Jul. 28, 1941:** Expanding its aggressive expansion, the Japanese Empire officially advanced military forces into southern Indochina (Cochinchina), occupying Saigon, Cam Ranh, and strategic military bases. This move finalized Japanese military domination over all of Vietnam, turning the country into a forward staging ground and key logistics springboard to launch its imperialist expansion across Southeast Asia during World War II. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1677 -->
-*   **Aug. 22, 1941:** Phung Chi Kien heroically sacrificed his life in Bang Duc commune (now Thuong On commune), Ngan Son district, Bac Kan province while covering his comrades' escape during a French siege. He was the first military leader of the Party to fall in the national liberation movement.
+*   **Aug. 22, 1941:** Phung Chi Kien heroically sacrificed his life in Bang Duc commune (now Thuong On commune), Ngan Son district, Bac Kan province while covering his comrades' escape during a French siege. He was the first military leader of the Party to fall in the national liberation movement. [Source: Central Committee of the Party, Comrade Phung Chi Kien – Exemplary Communist Soldier, National Political Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-1678 -->
-*   **Aug. 28, 1941:** French colonialists executed many prominent and steadfast revolutionary Party leaders in Hoc Mon (Gia Dinh), including comrades Ha Huy Tap and Nguyen Van Cu (former General Secretaries of the Party), Vo Van Tan and Phan Dang Luu (members of the Party Central Standing Committee), Nguyen Thi Minh Khai (Secretary of the Saigon - Cho Lon Municipal Party Committee), and Nguyen Huu Tien (creator of the national red flag with a yellow star). At the execution grounds of Nga Ba Giong and Gieng Nuoc Hospital, the communist fighters refused blindfolds and shouted revolutionary slogans until their final moments.
+*   **Aug. 28, 1941:** French colonialists executed many prominent and steadfast revolutionary Party leaders in Hoc Mon (Gia Dinh), including comrades Ha Huy Tap and Nguyen Van Cu (former General Secretaries of the Party), Vo Van Tan and Phan Dang Luu (members of the Party Central Standing Committee), Nguyen Thi Minh Khai (Secretary of the Saigon - Cho Lon Municipal Party Committee), and Nguyen Huu Tien (creator of the national red flag with a yellow star). At the execution grounds of Nga Ba Giong and Gieng Nuoc Hospital, the communist fighters refused blindfolds and shouted revolutionary slogans until their final moments. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1679 -->
-*   **Mid-1942:** Luu Tan Phat left his teaching career due to enemy surveillance and returned to My Tho to work as a watch repairer, using it as a cover for revolutionary activities.
+*   **Mid-1942:** Luu Tan Phat left his teaching career due to enemy surveillance and returned to My Tho to work as a watch repairer, using it as a cover for revolutionary activities. [Source: History of the Party Committee of Tien Giang Province (Vol. 1), National Political Publishing House, Hanoi]
 
 <!-- id: EVT-1680 -->
-*   **Aug. 27, 1942 - Sep. 10, 1943:** Ho Chi Minh was unlawfully detained by Chinese Nationalist local authorities in Tuc Vinh (Guangxi). During over 13 months of harsh detention transferred across nearly 30 jails in 13 Guangxi counties, he composed the immortal classical Chinese poetry collection *Prison Diary* (*Nguc Trung Nhat Ky*) containing 133 poems, before being released in Liuzhou on September 10, 1943.
+*   **Aug. 27, 1942 - Sep. 10, 1943:** Ho Chi Minh was unlawfully detained by Chinese Nationalist local authorities in Tuc Vinh (Guangxi). During over 13 months of harsh detention transferred across nearly 30 jails in 13 Guangxi counties, he composed the immortal classical Chinese poetry collection *Prison Diary* (*Nguc Trung Nhat Ky*) containing 133 poems, before being released in Liuzhou on September 10, 1943. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1681 -->
-*   **Sep. 6, 1942:** Former General Secretary **Le Hong Phong** breathed his last and heroically passed away in Cell No. 5 of Banh II at Con Dao Prison on his 40th birthday, following years of brutal torture and mistreatment by French jailers. Before departing, he left an immortal pledge: *"Greetings to all comrades. Please tell the Party that until my very last breath, Le Hong Phong firmly believes in the glorious victory of the revolution"*.
+*   **Sep. 6, 1942:** Former General Secretary **Le Hong Phong** breathed his last and heroically passed away in Cell No. 5 of Banh II at Con Dao Prison on his 40th birthday, following years of brutal torture and mistreatment by French jailers. Before departing, he left an immortal pledge: *"Greetings to all comrades. Please tell the Party that until my very last breath, Le Hong Phong firmly believes in the glorious victory of the revolution"*. [Source: Comrade Le Hong Phong – Outstanding Leader of the Party (Nhan Dan Newspaper), https://nhandan.vn/dong-chi-le-hong-phong-nha-lanh-dao-xuat-sac-cua-dang-va-cach-mang-viet-nam-post713500.html]
 
 <!-- id: EVT-1682 -->
-*   **Oct. 1, 1942:** The Vietnam Revolutionary League (Viet Cach) was founded in Liuzhou, China, gathering various patriotic groups.
+*   **Oct. 1, 1942:** The Vietnam Revolutionary League (Viet Cach) was founded in Liuzhou, China, gathering various patriotic groups. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1683 -->
 *   **1943:** The Indochinese Communist Party published the *Theses on Vietnamese Culture*. [Source: Vietnam National Museum of History - The Outline of Vietnamese Culture of 1943, https://baotanglichsu.vn/vi/Articles/3097/15943/de-cuong-ve-van-hoa-viet-nam-nam-1943.html]
 
 <!-- id: EVT-1684 -->
-*   **1943:** Luu Tan Phat opened the "Tan Phat" watch shop in My Tho, which served as a secret base for connecting with other revolutionaries.
+*   **1943:** Luu Tan Phat opened the "Tan Phat" watch shop in My Tho, which served as a secret base for connecting with other revolutionaries. [Source: History of the Party Committee of Tien Giang Province (Vol. 1), National Political Publishing House, Hanoi]
 
 <!-- id: EVT-1685 -->
-*   **1943:** Nguyen Tuat was transferred to the Nha Trang Post Office, bringing his family, including the 11-year-old Nguyen Van Luom, with him. A bilingual (French-Vietnamese) identity card for Luom was issued this year to allow him to take the Franco-Vietnamese degree exams in Annam. Luom continued his studies in Nha Trang for two years.
+*   **1943:** Nguyen Tuat was transferred to the Nha Trang Post Office, bringing his family, including the 11-year-old Nguyen Van Luom, with him. A bilingual (French-Vietnamese) identity card for Luom was issued this year to allow him to take the Franco-Vietnamese degree exams in Annam. Luom continued his studies in Nha Trang for two years. [Source: Dictionary of Literature (New Edition), The Gioi Publishers, Hanoi, 2004]
 
 <!-- id: EVT-1686 -->
-* **1943:** Hero of the People's Armed Forces Vũ Văn Hiếu (Bí thư đầu tiên của Đặc khu mỏ Quảng Ninh) passed away.
+* **1943:** Hero of the People's Armed Forces Vũ Văn Hiếu (Bí thư đầu tiên của Đặc khu mỏ Quảng Ninh) passed away. [Source: Comrade Vu Van Hieu – Exemplary Staunch Communist (Nhan Dan Newspaper), https://nhandan.vn/dong-chi-vu-van-hieu-tam-guong-nguoi-chien-si-cong-san-kien-trung-post641230.html]
 
 <!-- id: EVT-1687 -->
-*   **Jan. 1, 1943:** The Dai Viet Populist Revolutionary Party was founded.
+*   **Jan. 1, 1943:** The Dai Viet Populist Revolutionary Party was founded. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1688 -->
-*   **Feb. 1943:** General Secretary Truong Chinh drafted the **"Outline of Vietnamese Culture"**, the Party's first official document on culture, defining three principles: Nationalization, Popularization, and Scientification.
+*   **Feb. 1943:** General Secretary Truong Chinh drafted the **"Outline of Vietnamese Culture"**, the Party's first official document on culture, defining three principles: Nationalization, Popularization, and Scientification. [Source: Central Committee of the Communist Party of Vietnam, Outline of Vietnamese Culture (Feb. 1943); Party Documents, Vol. 7, National Political Publishing House, Hanoi, 2000]
 
 <!-- id: EVT-1689 -->
-*   **Early 1943:** The Dai Viet Restoration Association was established.
+*   **Early 1943:** The Dai Viet Restoration Association was established. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1690 -->
-*   **Early 1943:** Under the direction of the Son La Prison Party Cell, the "Thai Youth National Salvation" (Đoàn thanh niên Thái cứu quốc) organization was established to gather patriotic youth. Lò Văn Giá joined this organization, becoming an outstanding mass element supporting the revolution from outside the prison.
+*   **Early 1943:** Under the direction of the Son La Prison Party Cell, the "Thai Youth National Salvation" (Đoàn thanh niên Thái cứu quốc) organization was established to gather patriotic youth. Lò Văn Giá joined this organization, becoming an outstanding mass element supporting the revolution from outside the prison. [Source: History of the Party Committee of Son La Province (Vol. 1), National Political Publishing House, Hanoi]
 
 <!-- id: EVT-1691 -->
 *   **Feb. 15, 1943:** Hero Kim Dong (Nong Van Den), leader of the Children's Alliance for National Salvation, courageously falls at age 14 while distracting French forces to protect revolutionary cadres in Pac Bo (Cao Bang). [Source: Vietnam National Museum of History - Kim Dong (1928-1943): First Squad Leader of the Vanguard Youth Brigade, https://baotanglichsu.vn/vi/Articles/3096/13247/kim-djong-1928-1943-doi-truong-djoi-dau-tien-cua-doi-thieu-nien-tien-phong.html]
 
 <!-- id: EVT-1692 -->
-*   **Apr. 24, 1943:** The newspaper *Tieng Dan*, founded by Huynh Thuc Khang, published its final issue (Issue No. 1766) before being permanently banned by the French colonial administration after nearly 16 years of persistent advocacy for the people's rights.
+*   **Apr. 24, 1943:** The newspaper *Tieng Dan*, founded by Huynh Thuc Khang, published its final issue (Issue No. 1766) before being permanently banned by the French colonial administration after nearly 16 years of persistent advocacy for the people's rights. [Source: Patriotic Scholar Huynh Thuc Khang (Nhan Dan Newspaper), https://nhandan.vn/chi-si-yeu-nuoc-huynh-thuc-khang-nha-lanh-dao-tien-boi-tieu-bieu-cua-dang-va-cach-mang-viet-nam-post670559.html]
 
 <!-- id: EVT-1693 -->
-*   **Aug. 1943:** The Son La Prison Party Cell organized a historic prison break for key political prisoners to prepare for the General Uprising. Lò Văn Giá, fluent in the Hmong language and familiar with the Northwest terrain, was chosen to guide four communist fighters: Tran Dang Ninh, Nguyen Luong Bang, Nguyen Van Tran, and Luu Duc Hieu. After a 5-day arduous journey, he successfully guided them to safety in the Suoi Rut area (Hoa Binh). Upon returning to Son La, Lo Van Gia was arrested by the French colonialists. Unable to extract any confessions and powerless against his absolute loyalty, they secretly assassinated him.
+*   **Aug. 1943:** The Son La Prison Party Cell organized a historic prison break for key political prisoners to prepare for the General Uprising. Lò Văn Giá, fluent in the Hmong language and familiar with the Northwest terrain, was chosen to guide four communist fighters: Tran Dang Ninh, Nguyen Luong Bang, Nguyen Van Tran, and Luu Duc Hieu. After a 5-day arduous journey, he successfully guided them to safety in the Suoi Rut area (Hoa Binh). Upon returning to Son La, Lo Van Gia was arrested by the French colonialists. Unable to extract any confessions and powerless against his absolute loyalty, they secretly assassinated him. [Source: Historic Escape from Son La Prison (Nhan Dan Newspaper), https://nhandan.vn/cuoc-vuot-nguc-lich-su-o-nha-tu-son-la-post652140.html]
 
 <!-- id: EVT-1694 -->
-*   **Oct. 27, 1943:** Doctor Tran Van Lai was arrested by the French colonial administration and imprisoned in Hoa Lo, then Son La prison, for his patriotic activities.
+*   **Oct. 27, 1943:** Doctor Tran Van Lai was arrested by the French colonial administration and imprisoned in Hoa Lo, then Son La prison, for his patriotic activities. [Source: Doctor Tran Van Lai – Intellectual Mayor of Hanoi (Nhan Dan Newspaper), https://nhandan.vn/bac-si-tran-van-lai-vi-thi-truong-tri-thuc-cua-ha-noi-post661200.html]
 
 <!-- id: EVT-1695 -->
 *   **Dec. 1, 1943:** The Cairo Declaration was issued by the US, UK, and China, affirming the intention to force Japan to return territories stolen from the Republic of China (Manchuria, Taiwan, Penghu). Notably, the Paracel and Spratly Islands were not mentioned in this declaration for return to China. [Source: Vietnam National Museum of History - The Cairo Declaration (December 1, 1943), https://baotanglichsu.vn/vi/Articles/3097/16501/tuyen-ngon-cairo-1-12-1943.html]
 
 <!-- id: EVT-1696 -->
-*   **1944:** At the age of 13, after her father's death, Nguyen Thi Ut (Ut Tich), with the support of Viet Minh cadres, redeemed herself from a local landlord, escaping her life as a servant.
+*   **1944:** At the age of 13, after her father's death, Nguyen Thi Ut (Ut Tich), with the support of Viet Minh cadres, redeemed herself from a local landlord, escaping her life as a servant. [Source: Military History Institute of Vietnam, Heroes of the People's Armed Forces, People's Army Publishing House, Hanoi]
 
 <!-- id: EVT-1697 -->
-*   **1944:** Huynh Tan Phat became the director of the *Thanh Nien* (Youth) weekly magazine, using it to spread patriotism among the youth.
+*   **1944:** Huynh Tan Phat became the director of the *Thanh Nien* (Youth) weekly magazine, using it to spread patriotism among the youth. [Source: Architect Huynh Tan Phat – Life and Career (Nhan Dan Newspaper), https://nhandan.vn/kien-truc-su-huynh-tan-phat-post738200.html]
 
 <!-- id: EVT-1698 -->
-*   **Jan. 14, 1944 (Quy Mui year):** Former Emperor Ham Nghi (Nguyen Phuc Ung Lich) – the iconic rallying figure of the patriotic Can Vuong resistance movement – passed away from stomach cancer at Villa Gia Long in El Biar (Algiers, Algeria) after 55 years of dignified anti-colonial exile, aged 72.
+*   **Jan. 14, 1944 (Quy Mui year):** Former Emperor Ham Nghi (Nguyen Phuc Ung Lich) – the iconic rallying figure of the patriotic Can Vuong resistance movement – passed away from stomach cancer at Villa Gia Long in El Biar (Algiers, Algeria) after 55 years of dignified anti-colonial exile, aged 72. [Source: Emperor Ham Nghi (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13772/vua-ham-nghi.html]
 
 <!-- id: EVT-1699 -->
-*   **Early 1944:** The Dai Viet National Alliance (Dai Viet Quoc Gia Lien Minh) was formed, comprised of various nationalist parties such as the Dai Viet National Socialist Party, Dai Viet Nationalist Party, and Dai Viet Democratic Party.
+*   **Early 1944:** The Dai Viet National Alliance (Dai Viet Quoc Gia Lien Minh) was formed, comprised of various nationalist parties such as the Dai Viet National Socialist Party, Dai Viet Nationalist Party, and Dai Viet Democratic Party. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1700 -->
-*   **Jun. 30, 1944:** The Vietnam Democratic Party was founded, gathering intellectuals and national bourgeoisie to join the Viet Minh Front.
+*   **Jun. 30, 1944:** The Vietnam Democratic Party was founded, gathering intellectuals and national bourgeoisie to join the Viet Minh Front. [Source: History of the Democratic Party of Vietnam, National Political Publishing House, Hanoi, 2004]
 
 <!-- id: EVT-1701 -->
 *   **Oct. 1944 - May 1945:** The 1944–1945 Ất Dậu Famine struck Northern and North-Central Vietnam due to harsh grain requisitions by French colonialists and Japanese forces alongside severe weather, resulting in approximately 2 million deaths. [Source: Vietnam National Museum of History - The Great Famine of 1945 (Year of the Rooster), https://baotanglichsu.vn/vi/Articles/3097/16584/nan-djoi-nam-at-dau-1945.html]
@@ -5513,7 +5513,7 @@
 *   **Nov. 1944:** Composer Van Cao completed the march **"Tien Quan Ca"** (The Marching Song) at 45 Nguyen Thuong Hien Street (Hanoi) upon receiving an assignment from Viet Minh cadre Vu Quy. Van Cao personally lithographed the lyrics and music for publication in the underground newspaper *Doc Lap* (Independence), transforming the march into an inspiring anthem rallying the nation toward the General Uprising. [Source: Vietnam National Museum of History - "Tien Quan Ca": The Song That Became the National Anthem of Vietnam, https://baotanglichsu.vn/vi/Articles/3091/70734/tien-quan-ca-bai-hat-tro-thanh-quoc-ca-viet-nam.html]
 
 <!-- id: EVT-1703 -->
-*   **Late 1944 - Early 1945:** Continuing under the direction of the Tonkin Party Committee (Xu uy Bac Ky) and the Son La Prison Party Cell, the revolutionary movement in Son La expanded to 60 bases across the province. The "Thai National Salvation" Association (Con tay chat muong) was established, drawing strength from Lo Van Gia's heroic sacrifice.
+*   **Late 1944 - Early 1945:** Continuing under the direction of the Tonkin Party Committee (Xu uy Bac Ky) and the Son La Prison Party Cell, the revolutionary movement in Son La expanded to 60 bases across the province. The "Thai National Salvation" Association (Con tay chat muong) was established, drawing strength from Lo Van Gia's heroic sacrifice. [Source: History of the Party Committee of Son La Province (Vol. 1), National Political Publishing House, Hanoi]
 
 <!-- id: EVT-1704 -->
 *   **Dec. 22, 1944:** Carrying out directives from Leader Ho Chi Minh, comrade Vo Nguyen Giap directly commanded the founding of the **Vietnam Propaganda and Liberation Army** in the Tran Hung Dao forest (Nguyen Binh District, Cao Bang Province), comprising 34 soldiers equipped with 34 firearms. This was the first regular armed force and the precursor to the heroic Vietnam People's Army. [Source: https://baotanglichsu.vn/vi/Articles/3097/75108/su-kien-thanh-lap-djoi-viet-nam-tuyen-truyen-giai-phong-quan-qua-suu-tap-hien-vat-tai-lieu-tai-bao-tang-lich-su-quoc-gia.html]
@@ -5526,46 +5526,46 @@
 *   **Dec. 25-26, 1944:** The Vietnam Propaganda and Liberation Army under the direct command of Vo Nguyen Giap achieved resounding victories in its first two battles: disguising troops to launch surprise attacks on the French posts of Phai Khat (afternoon of Dec. 25) and Na Ngan (early morning of Dec. 26) in Cao Bang, killing both post commanders, capturing all enemy garrison troops, and seizing all weaponry without suffering a single casualty, establishing the army's proud tradition of "victorious in the first battle". [Source: Vietnam National Museum of History - The Vietnam Propaganda Liberation Army: The First Military Unit, https://baotanglichsu.vn/vi/Articles/3097/15699/doi-viet-nam-tuyen-truyen-giai-phong-quan-djoi-quan-djau-tien.html]
 
 <!-- id: EVT-1706 -->
-*   **1945 - 1946:** Nguyen Van Luom (the real-life "Luom") left his family to participate in revolutionary activities in Nha Trang. His family lost contact with him from this point until after the country's reunification.
+*   **1945 - 1946:** Nguyen Van Luom (the real-life "Luom") left his family to participate in revolutionary activities in Nha Trang. His family lost contact with him from this point until after the country's reunification. [Source: Dictionary of Literature (New Edition), The Gioi Publishers, Hanoi, 2004]
 
 <!-- id: EVT-1707 -->
-* **1945:** Hero of the People's Armed Forces Lê Bình (Chỉ huy đội cảm tử quân Quốc gia tự vệ cuộc Cần Thơ, người chỉ huy trận tập kích đồn Cái Răng 1945) passed away.
+* **1945:** Hero of the People's Armed Forces Lê Bình (Chỉ huy đội cảm tử quân Quốc gia tự vệ cuộc Cần Thơ, người chỉ huy trận tập kích đồn Cái Răng 1945) passed away. [Source: Military History Institute of Vietnam, Heroes of the People's Armed Forces, People's Army Publishing House, Hanoi]
 
 <!-- id: EVT-1708 -->
-*   **1945:** Martyr Vu Quy (pre-insurrection revolutionary cadre, Acting Secretary of the Hanoi Party Committee) heroically sacrificed his life while on an official mission to the Tan Trao National Congress in Viet Bac. In 1972, the Party and State posthumously awarded him the Fatherland Merit Certificate and officially recognized him as a martyr.
+*   **1945:** Martyr Vu Quy (pre-insurrection revolutionary cadre, Acting Secretary of the Hanoi Party Committee) heroically sacrificed his life while on an official mission to the Tan Trao National Congress in Viet Bac. In 1972, the Party and State posthumously awarded him the Fatherland Merit Certificate and officially recognized him as a martyr. [Source: History of the Party Committee of Hanoi (1930–2010), Hanoi Publishing House, 2010]
 
 <!-- id: EVT-1709 -->
-*   **Mar. 1945:** Huynh Tan Phat was admitted to the Indochinese Communist Party.
+*   **Mar. 1945:** Huynh Tan Phat was admitted to the Indochinese Communist Party. [Source: Architect Huynh Tan Phat – Life and Career (Nhan Dan Newspaper), https://nhandan.vn/kien-truc-su-huynh-tan-phat-post738200.html]
 
 <!-- id: EVT-1710 -->
 *   **Mar. 9, 1945:** The Japanese military launched **Operation Meigo Sakusen** (the Coup d'État of March 9, 1945), staging simultaneous surprise attacks to disarm and overthrow the French colonial administration across Indochina, monopolizing control over Vietnam and establishing the puppet government of Tran Trong Kim. The coup triggered a profound political crisis, creating a historic opportunity for the Indochinese Communist Party to launch the nation-wide Anti-Japanese National Salvation movement, serving as the direct prelude to the August Revolution that seized state power for the people. [Source: https://ivides.vnu.edu.vn/news/ban-tin/cau-truc-quyen-luc-o-viet-nam-sau-cuoc-dao-chinh-ngay-9-3-1945-va-van-de-khoang-trong-quyen-luc-trong-cach-mang-thang-tam-138.html]
 
 <!-- id: EVT-1711 -->
-*   **Mar. 9, 1945:** Following the Japanese coup, the Indochinese guard unit on the Paracel Islands was taken prisoner by the Japanese navy.
+*   **Mar. 9, 1945:** Following the Japanese coup, the Indochinese guard unit on the Paracel Islands was taken prisoner by the Japanese navy. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1712 -->
 *   **Mar. 9-12, 1945:** The Party Central Standing Committee met and issued the historic directive "The Japanese-French Clash and Our Actions," launching the anti-Japanese national salvation high tide under the banner "Break open rice granaries to relieve hunger," sparking a nationwide movement seizing rice stores from Japanese forces to save millions from starvation. [Source: https://nhandan.vn/noi-khoi-nguon-thang-loi-cua-cach-mang-thang-tam-post880506.html]
 
 <!-- id: EVT-1713 -->
-*   **Mar. 10, 1945:** The Vietnam National Independence Party was founded.
+*   **Mar. 10, 1945:** The Vietnam National Independence Party was founded. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1714 -->
-*   **Mar. 11, 1945:** Immediately following the Japanese coup against French forces, Do Muoi (then serving a 10-year penal sentence in Hoa Lo Prison) along with fellow communist inmates staged a daring escape through the sewer system, quickly re-establishing contact with revolutionary organizations and directly leading the victorious seizure of power in Ha Dong province during the August Revolution.
+*   **Mar. 11, 1945:** Immediately following the Japanese coup against French forces, Do Muoi (then serving a 10-year penal sentence in Hoa Lo Prison) along with fellow communist inmates staged a daring escape through the sewer system, quickly re-establishing contact with revolutionary organizations and directly leading the victorious seizure of power in Ha Dong province during the August Revolution. [Source: Comrade Do Muoi – Staunch Communist Leader (Nhan Dan Newspaper), https://nhandan.vn/dong-chi-do-muoi-nha-lanh-dao-xuat-sac-post614500.html]
 
 <!-- id: EVT-1715 -->
-*   **Mar. 29, 1945:** Ho Chi Minh met with Major General Claire Lee Chennault, Commander of the 14th Air Force of the US Army Air Forces, in Kunming (China), establishing initial contact between the Viet Minh and the US.
+*   **Mar. 29, 1945:** Ho Chi Minh met with Major General Claire Lee Chennault, Commander of the 14th Air Force of the US Army Air Forces, in Kunming (China), establishing initial contact between the Viet Minh and the US. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1716 -->
 *   **Apr. 17, 1945:** The puppet government of Tran Trong Kim was established under Japanese protection. [Source: Vietnam National Museum of History - The Tran Trong Kim Government (April-August 1945), https://baotanglichsu.vn/vi/Articles/3097/16606/chinh-phu-tran-trong-kim-4-1945-8-1945.html]
 
 <!-- id: EVT-1717 -->
-*   **Apr. 21, 1945:** The Vanguard Youth (Thanh Nien Tien Phong) was established.
+*   **Apr. 21, 1945:** The Vanguard Youth (Thanh Nien Tien Phong) was established. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1718 -->
-*   **May 1945:** In Chongqing (China), the Vietnam Nationalist Party (Viet Quoc) merged with the Dai Viet Nationalist Party and the Dai Viet Democratic Party to form a new organization (called the Nationalist Party of Vietnam in China and Dai Viet Nationalist Party in Vietnam).
+*   **May 1945:** In Chongqing (China), the Vietnam Nationalist Party (Viet Quoc) merged with the Dai Viet Nationalist Party and the Dai Viet Democratic Party to form a new organization (called the Nationalist Party of Vietnam in China and Dai Viet Nationalist Party in Vietnam). [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1719 -->
-*   **May 15, 1945:** At Cho Chu (Dinh Hoa, Thai Nguyen), the Vietnam Propaganda and Liberation Army and the National Salvation Army were officially unified into the **Vietnam Liberation Army** following resolutions of the Tonkin Revolutionary Military Conference. Comrade Vo Nguyen Giap was appointed commander of the unified Vietnam Liberation Army.
+*   **May 15, 1945:** At Cho Chu (Dinh Hoa, Thai Nguyen), the Vietnam Propaganda and Liberation Army and the National Salvation Army were officially unified into the **Vietnam Liberation Army** following resolutions of the Tonkin Revolutionary Military Conference. Comrade Vo Nguyen Giap was appointed commander of the unified Vietnam Liberation Army. [Source: History of the Vietnam People's Army (Vol. 1), People's Army Publishing House, Hanoi, 2004]
 
 <!-- id: EVT-1720 -->
 *   **Jun. 4, 1945:** The Viet Bac Liberated Zone was officially established. [Source: https://baotintuc.vn/giai-mat/thanh-lap-khu-giai-phong-viet-bac-20140603111600345.htm]
@@ -5574,19 +5574,19 @@
 *   **Jul. 17 - Aug. 2, 1945:** The Potsdam Conference decided that Allied forces would enter Vietnam to disarm the Japanese army. [Source: Vietnam National Museum of History - The Potsdam Conference (July 17 - August 2, 1945), https://baotanglichsu.vn/vi/Articles/3097/16501/hoi-nghi-potxdam-17-7-2-8-1945.html]
 
 <!-- id: EVT-1722 -->
-*   **Jul. 20, 1945:** Doctor Tran Van Lai officially took office as the first Vietnamese Mayor of Hanoi under the Empire of Vietnam. During his brief tenure of less than a month, he enacted significant reforms: making Vietnamese the official administrative language, renaming streets after Vietnamese historical figures, pulling down French colonial statues, and naming Ba Dinh Square (formerly Puginier Park), which later became the site of the Declaration of Independence.
+*   **Jul. 20, 1945:** Doctor Tran Van Lai officially took office as the first Vietnamese Mayor of Hanoi under the Empire of Vietnam. During his brief tenure of less than a month, he enacted significant reforms: making Vietnamese the official administrative language, renaming streets after Vietnamese historical figures, pulling down French colonial statues, and naming Ba Dinh Square (formerly Puginier Park), which later became the site of the Declaration of Independence. [Source: Doctor Tran Van Lai – Intellectual Mayor of Hanoi (Nhan Dan Newspaper), https://nhandan.vn/bac-si-tran-van-lai-vi-thi-truong-tri-thuc-cua-ha-noi-post661200.html]
 
 <!-- id: EVT-1723 -->
-*   **Jul. 26, 1945:** The Potsdam Declaration was issued, outlining the terms for Japan's unconditional surrender, which mandated the relinquishment of territories seized by force.
+*   **Jul. 26, 1945:** The Potsdam Declaration was issued, outlining the terms for Japan's unconditional surrender, which mandated the relinquishment of territories seized by force. [Source: Modern World History, Education Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-1724 -->
-*   **Aug. 1945:** Luu Tan Phat enthusiastically participated in the general uprising in My Tho and joined the armed forces, donating his entire fortune to the revolution.
+*   **Aug. 1945:** Luu Tan Phat enthusiastically participated in the general uprising in My Tho and joined the armed forces, donating his entire fortune to the revolution. [Source: History of the Party Committee of Tien Giang Province (Vol. 1), National Political Publishing House, Hanoi]
 
 <!-- id: EVT-1725 -->
-*   **Aug. 1945:** Le Thi Rieng began participating in the revolution during the August Revolution, operating under the guise of a weaver at the Lang Tron factory.
+*   **Aug. 1945:** Le Thi Rieng began participating in the revolution during the August Revolution, operating under the guise of a weaver at the Lang Tron factory. [Source: Heroic Martyr Le Thi Rieng (Nhan Dan Newspaper), https://nhandan.vn/nu-anh-hung-liet-si-le-thi-rieng-post634210.html]
 
 <!-- id: EVT-1726 -->
-*   **Aug. 1945:** Dinh Thi Van, serving as a Viet Minh cadre, actively mobilized the masses to participate in the general uprising in Xuan Truong and Giao Thuy districts (Nam Dinh). Following the August Revolution, she contributed to building the new local government.
+*   **Aug. 1945:** Dinh Thi Van, serving as a Viet Minh cadre, actively mobilized the masses to participate in the general uprising in Xuan Truong and Giao Thuy districts (Nam Dinh). Following the August Revolution, she contributed to building the new local government. [Source: Intelligence Officer Dinh Thi Van (Nhan Dan Newspaper), https://nhandan.vn/nu-tinh-bao-dinh-thi-van-huyen-thoai-trong-long-dich-post645210.html]
 
 <!-- id: EVT-1727 -->
 *   **Aug. 13-15, 1945:** The National Conference of the Indochinese Communist Party in Tan Trao decided to launch a General Uprising to seize power nationwide. [Source: Vietnam National Museum of History - The National Party Conference at Tan Trao (August 14-15, 1945), https://baotanglichsu.vn/vi/Articles/3097/15698/hoi-nghi-toan-quoc-cua-djang-tai-tan-trao-14-15-8-1945.html]
@@ -5595,10 +5595,10 @@
 *   **Aug. 13, 1945:** The National Uprising Committee issued "Military Order No. 1." [Source: https://nhandan.vn/ngay-1381945-uy-ban-khoi-nghia-ra-quan-lenh-so-1-post900415.html]
 
 <!-- id: EVT-1729 -->
-*   **Aug. 14, 1945:** The United National Front (Mat tran Quoc gia Thong nhat) was established in Southern Vietnam, comprised of various nationalist parties and religious groups like Cao Dai and Hoa Hao.
+*   **Aug. 14, 1945:** The United National Front (Mat tran Quoc gia Thong nhat) was established in Southern Vietnam, comprised of various nationalist parties and religious groups like Cao Dai and Hoa Hao. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1730 -->
-*   **Aug. 16, 1945:** Under the shade of the Tân Trào Banyan Tree (Tuyên Quang), the Vietnam National Liberation Army held an oath and departure ceremony to liberate Thái Nguyên town and advance toward Hanoi. Comrade Võ Nguyên Giáp read Military Order No. 1 of the National Uprising Committee, officially launching the military offensive and opening the nationwide General Insurrection in the August Revolution.
+*   **Aug. 16, 1945:** Under the shade of the Tân Trào Banyan Tree (Tuyên Quang), the Vietnam National Liberation Army held an oath and departure ceremony to liberate Thái Nguyên town and advance toward Hanoi. Comrade Võ Nguyên Giáp read Military Order No. 1 of the National Uprising Committee, officially launching the military offensive and opening the nationwide General Insurrection in the August Revolution. [Source: History of the Vietnam People's Army (Vol. 1), People's Army Publishing House, Hanoi, 2004]
 
 <!-- id: EVT-1731 -->
 *   **Aug. 16-17, 1945:** The National Congress convened at Tan Trao communal house (Tuyen Quang), unanimously supporting the Party's General Uprising policy and adopting the 10 major policies of the Viet Minh, electing the National Liberation Committee of Vietnam (the Provisional Government) chaired by Ho Chi Minh, and officially designating the red flag with a five-pointed gold star as the National Flag and *Tien Quan Ca* (The Song of the Marching Army) as the National Anthem. [Source: https://nhandan.vn/ve-noi-dien-ra-quoc-dan-dai-hoi-tan-trao-post762305.html]
@@ -5608,7 +5608,7 @@
 *Source: Tan Trao communal house, Tuyen Quang / Bui Thuy Dao Nguyen (Wikimedia Commons, CC BY-SA 4.0)*
 
 <!-- id: EVT-1732 -->
-*   **Aug. 17, 1945:** A rally organized by the Civil Servants' Association at the Hanoi Opera House Square was transformed by Viet Minh forces and the masses into a massive pro-revolutionary demonstration. Here, composer Van Cao's **"Tien Quan Ca"** was sung publicly for the first time before tens of thousands of citizens under a gigantic red flag with a gold star, paving the direct path for the August 19 General Uprising in Hanoi.
+*   **Aug. 17, 1945:** A rally organized by the Civil Servants' Association at the Hanoi Opera House Square was transformed by Viet Minh forces and the masses into a massive pro-revolutionary demonstration. Here, composer Van Cao's **"Tien Quan Ca"** was sung publicly for the first time before tens of thousands of citizens under a gigantic red flag with a gold star, paving the direct path for the August 19 General Uprising in Hanoi. [Source: August Revolution of 1945 in Hanoi (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13913/cach-mang-thang-tam-ha-noi.html]
 
 <!-- id: EVT-1733 -->
 *   **Aug. 19, 1945:** The General Uprising succeeded in Hanoi (August Revolution). [Source: https://nhandan.vn/ngay-1981945-cach-mang-thang-tam-thanh-cong-tai-thu-do-ha-noi-post900562.html]
@@ -5621,13 +5621,13 @@
 *   **Aug. 23, 1945:** The uprising succeeded in Hue. [Source: Vietnam National Museum of History - The August Uprising and Seizure of Power in Hue (August 23, 1945), https://baotanglichsu.vn/vi/Articles/3097/16631/khoi-nghia-gianh-chinh-quyen-o-hue-23-8-1945.html]
 
 <!-- id: EVT-1735 -->
-*   **Aug. 24, 1945:** Huynh Tan Phat designed and directed the construction of the Monumental Flagpole at the Nguyen Hue - Le Loi intersection (Saigon) to honor the Provisional Committee of Nam Bo.
+*   **Aug. 24, 1945:** Huynh Tan Phat designed and directed the construction of the Monumental Flagpole at the Nguyen Hue - Le Loi intersection (Saigon) to honor the Provisional Committee of Nam Bo. [Source: Architect Huynh Tan Phat – Life and Career (Nhan Dan Newspaper), https://nhandan.vn/kien-truc-su-huynh-tan-phat-post738200.html]
 
 <!-- id: EVT-1736 -->
 *   **Aug. 25, 1945:** The uprising to seize power in Saigon succeeded, actively co-led by Huynh Tan Phat. [Source: Vietnam National Museum of History - The August Uprising and Seizure of Power in Saigon (August 25, 1945), https://baotanglichsu.vn/vi/Articles/3097/16632/khoi-nghia-gianh-chinh-quyen-o-sai-gon-25-8-1945.html]
 
 <!-- id: EVT-1737 -->
-*   **Aug. 26, 1945:** Following the momentum of the August Revolution, the uprising to seize power was successfully carried out in Son La province.
+*   **Aug. 26, 1945:** Following the momentum of the August Revolution, the uprising to seize power was successfully carried out in Son La province. [Source: History of the Party Committee of Quang Ngai Province (Vol. 1), National Political Publishing House, Hanoi]
 
 <!-- id: EVT-1738 -->
 *   **Aug. 28, 1945:** The Vietnam National Liberation Committee was reorganized into the Provisional Government of the Democratic Republic of Vietnam headed by President Ho Chi Minh; comrade Vo Nguyen Giap was appointed Minister of Internal Affairs and placed in charge of military affairs. Simultaneously, 200,000 Kuomintang troops under Lu Han began entering northern Vietnam (north of the 16th parallel) ostensibly to disarm Japanese forces. [Source: Vietnam National Museum of History - The National Liberation Committee Reorganized as the Provisional Government (Aug. 28, 1945), https://baotanglichsu.vn/vi/Articles/3097/16633/uy-ban-dan-toc-giai-phong-cai-to-thanh-chinh-phu-lam-thoi-28-8-1945.html]
@@ -5640,10 +5640,10 @@
 *Source: Photo: French Republic Archives / Thanh Nien Newspaper*
 
 <!-- id: EVT-1740 -->
-*   **Aug. 30, 1945:** Dr. Tran Duy Hung was assigned by President Ho Chi Minh to serve as Chairman of the Provisional Administrative Committee of Hanoi.
+*   **Aug. 30, 1945:** Dr. Tran Duy Hung was assigned by President Ho Chi Minh to serve as Chairman of the Provisional Administrative Committee of Hanoi. [Source: Doctor Tran Duy Hung – Lifelong Chairman of the Capital (Nhan Dan Newspaper), https://nhandan.vn/bac-si-tran-duy-hung-post614230.html]
 
 <!-- id: EVT-1741 -->
-*   **Sep. 1945:** On the occasion of the first opening of school in the Democratic Republic of Vietnam, President Ho Chi Minh sent a letter to students.
+*   **Sep. 1945:** On the occasion of the first opening of school in the Democratic Republic of Vietnam, President Ho Chi Minh sent a letter to students. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1742 -->
 
@@ -5670,10 +5670,10 @@
 *   **Sep. 4, 1945:** The government issued Decree No. 4/SL to establish the "Independence Fund." [Source: Vietnam National Museum of History - The Independence Fund (September 4, 1945), https://baotanglichsu.vn/vi/Articles/3097/16587/quy-djoc-lap-4-9-1945.html]
 
 <!-- id: EVT-1746 -->
-*   **Sep. 5, 1945:** The Provisional Government issued a decree dissolving the Dai Viet National Socialist Party and the Dai Viet Nationalist Party.
+*   **Sep. 5, 1945:** The Provisional Government issued a decree dissolving the Dai Viet National Socialist Party and the Dai Viet Nationalist Party. [Source: Complete Party Documents (Vol. 8: 1945–1947), National Political Publishing House, Hanoi, 2000]
 
 <!-- id: EVT-1747 -->
-*   **Sep. 5, 1945:** On behalf of the President of the Provisional Government of the Democratic Republic of Vietnam, Minister of the Interior Vo Nguyen Giap signed Decree No. 5-SL, officially abolishing the Que Ly flag and formally instituting the National Flag of Vietnam: a rectangular flag with a bright red field and a bright yellow five-pointed star in the center.
+*   **Sep. 5, 1945:** On behalf of the President of the Provisional Government of the Democratic Republic of Vietnam, Minister of the Interior Vo Nguyen Giap signed Decree No. 5-SL, officially abolishing the Que Ly flag and formally instituting the National Flag of Vietnam: a rectangular flag with a bright red field and a bright yellow five-pointed star in the center. [Source: Complete Party Documents (Vol. 8: 1945–1947), National Political Publishing House, Hanoi, 2000]
 
 <!-- id: EVT-1748 -->
 *   **Sep. 7, 1945:** President Ho Chi Minh directed the establishment of the General Staff of the Vietnam People's Army and appointed Comrade Hoang Van Thai as its first Chief of the General Staff. [Source: Vietnam National Museum of History - Establishment of the General Staff of the Vietnam People's Army (September 7, 1945), https://baotanglichsu.vn/vi/Articles/3097/16589/thanh-lap-bo-tong-tham-muu-quan-doi-nhan-dan-viet-nam-7-9-1945.html]
@@ -5682,10 +5682,10 @@
 *   **Sep. 8, 1945:** President Ho Chi Minh signed Decree No. 14-SL, stipulating that a General Election would be held within two months. [Source: https://baochinhphu.vn/tong-tuyen-cu-1946-ket-qua-tinh-than-doan-ket-cua-dan-toc-viet-nam-102196060.htm]
 
 <!-- id: EVT-1750 -->
-*   **Sep. 10, 1945:** Following his abdication in Hue ('preferring to be a citizen of a free nation rather than the ruler of an enslaved one'), former Emperor Bao Dai (citizen Nguyen Vinh Thuy) accepted President Ho Chi Minh's invitation and was formally appointed **Supreme Advisor to the Provisional Government of the Democratic Republic of Vietnam** under Decree No. 23-SL.
+*   **Sep. 10, 1945:** Following his abdication in Hue ('preferring to be a citizen of a free nation rather than the ruler of an enslaved one'), former Emperor Bao Dai (citizen Nguyen Vinh Thuy) accepted President Ho Chi Minh's invitation and was formally appointed **Supreme Advisor to the Provisional Government of the Democratic Republic of Vietnam** under Decree No. 23-SL. [Source: Emperor Bao Dai (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13777/vua-bao-dai.html]
 
 <!-- id: EVT-1751 -->
-*   **Sep. 11, 1945:** General Gracey, commander of the British forces, arrived in Saigon.
+*   **Sep. 11, 1945:** General Gracey, commander of the British forces, arrived in Saigon. [Source: History of Vietnam (Vol. 10: 1945–1954), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1752 -->
 *   **Sep. 16, 1945:** The "Golden Week" began, mobilizing the people to contribute financially to the country. [Source: Vietnam National Museum of History - The Gold Week Campaign (1945), https://baotanglichsu.vn/vi/Articles/3097/16602/tuan-le-vang-1945.html]
@@ -5697,22 +5697,22 @@
 *   **Sep. 23, 1945:** The Party Committee and People's Committee of the South met on Cay Mai Street (Cho Lon) and decided to launch a nationwide resistance. The resistance in the South began. On the same day, Huynh Tan Phat was arrested when French troops reoccupied Saigon, but he was released after three days. [Source: Vietnam National Museum of History - Southern Vietnam Resistance Day (September 23, 1945), https://baotanglichsu.vn/vi/Articles/3097/16607/ngay-nam-bo-khang-chien-23-9-1945.html]
 
 <!-- id: EVT-1755 -->
-*   **Sep. 26, 1945:** President Ho Chi Minh issued an appeal to the people of the South to resist. The first Southward March detachment left Hanoi for the South to fight.
+*   **Sep. 26, 1945:** President Ho Chi Minh issued an appeal to the people of the South to resist. The first Southward March detachment left Hanoi for the South to fight. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1756 -->
-*   **Sep. 28, 1945:** President Ho Chi Minh issued an urgent appeal to the nation for famine relief, launching the "Hunger Relief Rice Jar" (Hũ gạo cứu đói) movement and calling on citizens to skip one meal every ten days to share food with the needy.
+*   **Sep. 28, 1945:** President Ho Chi Minh issued an urgent appeal to the nation for famine relief, launching the "Hunger Relief Rice Jar" (Hũ gạo cứu đói) movement and calling on citizens to skip one meal every ten days to share food with the needy. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1757 -->
-*   **Oct. 1945:** Huynh Tan Phat led the Southern Youth delegation to Hanoi to attend the National Youth Congress.
+*   **Oct. 1945:** Huynh Tan Phat led the Southern Youth delegation to Hanoi to attend the National Youth Congress. [Source: Architect Huynh Tan Phat – Life and Career (Nhan Dan Newspaper), https://nhandan.vn/kien-truc-su-huynh-tan-phat-post738200.html]
 
 <!-- id: EVT-1758 -->
-*   **Oct. 1945:** Nguyen Binh was assigned by President Ho Chi Minh to Southern Vietnam as Commander of the Nam Bo Command, unifying the armed resistance forces in the South.
+*   **Oct. 1945:** Nguyen Binh was assigned by President Ho Chi Minh to Southern Vietnam as Commander of the Nam Bo Command, unifying the armed resistance forces in the South. [Source: Lieutenant General Nguyen Binh (Nhan Dan Newspaper), https://nhandan.vn/trung-tuong-nguyen-binh-post632120.html]
 
 <!-- id: EVT-1759 -->
 *   **Oct. 23, 1945 - Feb. 1, 1946:** The "101-Day and Night Siege" at the Nha Trang - Khanh Hoa front broke out as Vietnamese forces launched coordinated attacks against French occupying positions and established a defensive encirclement around enemy troops for 101 days and nights. The campaign pinned down and wore down French forces, thwarting France's "quick fight, quick victory" strategy, securing vital transit routes for reinforcements to the Southern battlefield, and providing crucial time to consolidate resistance forces in South Central Vietnam. [Source: Vietnam National Museum of History - The 101-Day Battle in Nha Trang - Khanh Hoa, https://baotanglichsu.vn/vi/Articles/3097/16612/cuoc-chien-dau-101-ngay-dem-o-nha-trang-khanh-hoa.html]
 
 <!-- id: EVT-1760 -->
-*   **Oct. 25, 1945:** The Party Committee of the South held a cadres' conference in Thien Ho (My Tho), setting out the direction for a long-term resistance.
+*   **Oct. 25, 1945:** The Party Committee of the South held a cadres' conference in Thien Ho (My Tho), setting out the direction for a long-term resistance. [Source: History of the Southern Party Committee (Vol. 1), National Political Publishing House, Hanoi, 2015]
 
 <!-- id: EVT-1761 -->
 *   **Nov. 11, 1945:** The Indochinese Communist Party announced its "self-dissolution," in reality going underground. [Source: Vietnam National Museum of History - The Party Declares "Self-Dissolution" (November 11, 1945), https://baotanglichsu.vn/vi/Articles/3097/16611/djang-tuyen-bo-tu-giai-tan-11-11-1945.html]
@@ -5721,31 +5721,31 @@
 *   **Nov. 25, 1945:** The Party Central Standing Committee issued the directive "Resistance and National Construction" (Khang chien kien quoc), identifying the main enemy and urgent tasks. [Source: Vietnam National Museum of History - The "Resistance and Nation-Building" Directive (November 25, 1945), https://baotanglichsu.vn/vi/Articles/3097/16615/chi-thi-khang-chien-kien-quoc-25-11-1945.html]
 
 <!-- id: EVT-1763 -->
-*   **Dec. 14, 1945:** In Paris, General Charles de Gaulle, President of the Provisional Government of the French Republic, held an official audience with former Emperor Duy Tan (Major Vinh San) to discuss the political future of Indochina and deliberate plans for his return to Vietnam as a unifying figure, merely twelve days prior to the prince's fatal plane crash at Bangui.
+*   **Dec. 14, 1945:** In Paris, General Charles de Gaulle, President of the Provisional Government of the French Republic, held an official audience with former Emperor Duy Tan (Major Vinh San) to discuss the political future of Indochina and deliberate plans for his return to Vietnam as a unifying figure, merely twelve days prior to the prince's fatal plane crash at Bangui. [Source: History of Vietnam (Vol. 10: 1945–1954), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1764 -->
-*   **Dec. 26, 1945 (At Dau year):** Former Emperor Duy Tan (Nguyen Phuc Vinh San), the patriotic monarch who had fought with the Free French resistance against the Axis powers in World War II achieving the rank of major, died in an airplane crash at Bangui (Central African Republic) at age 45.
+*   **Dec. 26, 1945 (At Dau year):** Former Emperor Duy Tan (Nguyen Phuc Vinh San), the patriotic monarch who had fought with the Free French resistance against the Axis powers in World War II achieving the rank of major, died in an airplane crash at Bangui (Central African Republic) at age 45. [Source: Nguyen Dac Xuan, Stories of Nguyen Kings, Thuan Hoa Publishing House, Hue, 2002]
 
 <!-- id: EVT-1765 -->
-*   **1946:** Following the return of French colonialists to invade Vietnam, Cù Chính Lan became part of the first generation of youth in his commune to volunteer for the army. He quickly distinguished himself in training and combat, earning the admiration of his comrades.
+*   **1946:** Following the return of French colonialists to invade Vietnam, Cù Chính Lan became part of the first generation of youth in his commune to volunteer for the army. He quickly distinguished himself in training and combat, earning the admiration of his comrades. [Source: Department of Propaganda and Training, Heroes of the People's Armed Forces in the Anti-French Resistance, People's Army Publishing House, Hanoi, 1996]
 
 <!-- id: EVT-1766 -->
-*   **1946:** Huynh Tan Phat was arrested by the French and sentenced to two years in the Kham Lon prison (Saigon), where he played a key role in establishing a prisoners' union.
+*   **1946:** Huynh Tan Phat was arrested by the French and sentenced to two years in the Kham Lon prison (Saigon), where he played a key role in establishing a prisoners' union. [Source: Ho Chi Minh City Party Committee, Comrade Huynh Tan Phat - Life and Revolutionary Career, Ho Chi Minh City General Publishing House, 2013]
 
 <!-- id: EVT-1767 -->
-*   **1946:** Tran Thi Man (later Hero of the People's Armed Forces and Heroic Vietnamese Mother Tran Thi Quang Man) disguised herself as a man under the name Tran Quang Man to join the Viet Quoc Doan (National Guard) forces in Vinh Thuan (Kien Giang), fighting against French colonial forces.
+*   **1946:** Tran Thi Man (later Hero of the People's Armed Forces and Heroic Vietnamese Mother Tran Thi Quang Man) disguised herself as a man under the name Tran Quang Man to join the Viet Quoc Doan (National Guard) forces in Vinh Thuan (Kien Giang), fighting against French colonial forces. [Source: Vietnam Women's Union, Portraits of Heroic Vietnamese Women, Women's Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-1768 -->
-* **1946:** Martyr Dương Văn Mạnh (Các liệt sĩ thiếu niên Việt Nam) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland.
+* **1946:** Martyr Dương Văn Mạnh (Các liệt sĩ thiếu niên Việt Nam) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland. [Source: Ba Ria - Vung Tau Provincial Party Committee, History of Ba Ria - Vung Tau Provincial Party Committee (1930 - 2000), National Political Publishing House, Hanoi, 2002]
 
 <!-- id: EVT-1769 -->
-* **1946:** Hero of the People's Armed Forces Lục Sĩ Thành (Chiến sĩ du kích Trà Ôn) passed away.
+* **1946:** Hero of the People's Armed Forces Lục Sĩ Thành (Chiến sĩ du kích Trà Ôn) passed away. [Source: Military History Institute of Vietnam, Heroes of the People's Armed Forces, People's Army Publishing House, Hanoi]
 
 <!-- id: EVT-1770 -->
-*   **1946:** Progressive Confucian scholar and Dong Kinh Nghia Thuc activist Nguyen Huu Cau (known as Gian Thach) passed away.
+*   **1946:** Progressive Confucian scholar and Dong Kinh Nghia Thuc activist Nguyen Huu Cau (known as Gian Thach) passed away. [Source: Dong Kinh Nghia Thuc (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13904/dong-kinh-nghia-thuc.html]
 
 <!-- id: EVT-1771 -->
-*   **Jan. 1946:** Huynh Tan Phat was elected as a representative for My Tho province in the First National Assembly of the Democratic Republic of Vietnam.
+*   **Jan. 1946:** Huynh Tan Phat was elected as a representative for My Tho province in the First National Assembly of the Democratic Republic of Vietnam. [Source: Architect Huynh Tan Phat – Life and Career (Nhan Dan Newspaper), https://nhandan.vn/kien-truc-su-huynh-tan-phat-post738200.html]
 
 <!-- id: EVT-1772 -->
 *   **Jan. 1, 1946:** The Provisional Government was reformed into the Provisional Coalition Government, with added members from Viet Quoc and Viet Cach parties. [Source: Vietnam National Museum of History - The Provisional Coalition Government (January 1, 1946), https://baotanglichsu.vn/vi/Articles/3097/16617/chinh-phu-lien-hiep-lam-thoi-01-01-1946.html]
@@ -5758,19 +5758,19 @@
 *Source: First session of the 1st National Assembly of the Democratic Republic of Vietnam (File photo / TTXVN / Public domain)*
 
 <!-- id: EVT-1774 -->
-*   **Jan. 14, 1946:** On behalf of the Provisional Government of the Democratic Republic of Vietnam, President Ho Chi Minh sent an official message to the United Nations General Assembly and member states, affirming Vietnam's independence and expressing the desire to join the United Nations.
+*   **Jan. 14, 1946:** On behalf of the Provisional Government of the Democratic Republic of Vietnam, President Ho Chi Minh sent an official message to the United Nations General Assembly and member states, affirming Vietnam's independence and expressing the desire to join the United Nations. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1775 -->
-*   **Jan. 31, 1946:** The government issued a decree allowing the issuance of Vietnamese banknotes in the free zones of South-Central Vietnam.
+*   **Jan. 31, 1946:** The government issued a decree allowing the issuance of Vietnamese banknotes in the free zones of South-Central Vietnam. [Source: History of Vietnamese Currency, National Political Publishing House, Hanoi, 2021]
 
 <!-- id: EVT-1776 -->
 *   **Feb. 28, 1946:** The Chongqing Agreement was signed between France and the Chiang Kai-shek government, agreeing to allow French troops to enter the North to replace Chiang's troops. [Source: Vietnam National Museum of History - The Chongqing Treaty (February 28, 1946), https://baotanglichsu.vn/vi/Articles/3097/16619/hiep-uoc-trung-khanh-28-02-1946.html]
 
 <!-- id: EVT-1777 -->
-*   **Mar. 1946:** During the 1st National Assembly, delegate Huynh Van Tieng reportedly proposed renaming Saigon to Ho Chi Minh City, reflecting the early sentiments of the Southern people towards President Ho Chi Minh.
+*   **Mar. 1946:** During the 1st National Assembly, delegate Huynh Van Tieng reportedly proposed renaming Saigon to Ho Chi Minh City, reflecting the early sentiments of the Southern people towards President Ho Chi Minh. [Source: History of the National Assembly of Vietnam (Vol. 1: 1946–1960), National Political Publishing House, Hanoi, 2000]
 
 <!-- id: EVT-1778 -->
-*   **Mar. 1946:** Le Thi Rieng participated in women's affairs in Gia Rai district and the National Salvation Women's Association of Rach Gia province.
+*   **Mar. 1946:** Le Thi Rieng participated in women's affairs in Gia Rai district and the National Salvation Women's Association of Rach Gia province. [Source: Heroic Martyr Le Thi Rieng (Nhan Dan Newspaper), https://nhandan.vn/nu-anh-hung-liet-si-le-thi-rieng-post634210.html]
 
 <!-- id: EVT-1779 -->
 
@@ -5789,46 +5789,46 @@
 *   **Mar. 9, 1946:** The Party Central Standing Committee issued the directive "Peace to Advance." [Source: Vietnam Government Portal - Vietnamese Diplomacy: 80 years of development and maturity alongside the nation, https://baochinhphu.vn/ngoai-giao-viet-nam-80-nam-xay-dung-truong-thanh-cung-dat-nuoc-102250825084759039.htm]
 
 <!-- id: EVT-1782 -->
-*   **Mar. 16, 1946:** Supreme Advisor Vinh Thuy (former Emperor Bao Dai) led a diplomatic goodwill delegation of the Democratic Republic of Vietnam (including Nghiem Ke To and Nguyen Cong Truyen) to Chongqing (China) to conduct talks with the Republic of China government, seeking international diplomatic recognition for Vietnam's sovereignty.
+*   **Mar. 16, 1946:** Supreme Advisor Vinh Thuy (former Emperor Bao Dai) led a diplomatic goodwill delegation of the Democratic Republic of Vietnam (including Nghiem Ke To and Nguyen Cong Truyen) to Chongqing (China) to conduct talks with the Republic of China government, seeking international diplomatic recognition for Vietnam's sovereignty. [Source: Emperor Bao Dai (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13777/vua-bao-dai.html]
 
 <!-- id: EVT-1783 -->
-*   **Mar. 24, 1946:** President Ho Chi Minh and French High Commissioner D'Argenlieu held talks in Ha Long Bay.
+*   **Mar. 24, 1946:** President Ho Chi Minh and French High Commissioner D'Argenlieu held talks in Ha Long Bay. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1784 -->
-*   **Mar. 27, 1946:** President Ho Chi Minh signed Decree No. 37 appointing Dr. Vu Dinh Tung, Director of the Northern Health Department, concurrently as Director of the Central Health Department under the Ministry of Social Affairs.
+*   **Mar. 27, 1946:** President Ho Chi Minh signed Decree No. 37 appointing Dr. Vu Dinh Tung, Director of the Northern Health Department, concurrently as Director of the Central Health Department under the Ministry of Social Affairs. [Source: Doctor Vu Dinh Tung – Benevolent Physician for the People (Nhan Dan Newspaper), https://nhandan.vn/bac-si-vu-dinh-tung-post641200.html]
 
 <!-- id: EVT-1785 -->
-*   **Apr. 3, 1946:** In Hanoi, Chairman of the Military Commission Vo Nguyen Giap and General Raoul Salan (representing the French military mission) signed the preliminary military convention (a military annex to the Preliminary Accord of March 6). The agreement specifically regulated the garrisoning and phased withdrawal of French troops in northern Vietnam while safeguarding the operational autonomy and independence of Vietnamese revolutionary forces.
+*   **Apr. 3, 1946:** In Hanoi, Chairman of the Military Commission Vo Nguyen Giap and General Raoul Salan (representing the French military mission) signed the preliminary military convention (a military annex to the Preliminary Accord of March 6). The agreement specifically regulated the garrisoning and phased withdrawal of French troops in northern Vietnam while safeguarding the operational autonomy and independence of Vietnamese revolutionary forces. [Source: General Vo Nguyen Giap – Legendary Commander (Nhan Dan Newspaper), https://nhandan.vn/dai-tuong-vo-nguyen-giap-vi-tuong-huyen-thoai-post662100.html]
 
 <!-- id: EVT-1786 -->
-*   **Apr. 6, 1946:** French General Valluy issued secret instructions to Colonel Vicaire regarding plans to occupy the Nung territory (Hai Ninh).
+*   **Apr. 6, 1946:** French General Valluy issued secret instructions to Colonel Vicaire regarding plans to occupy the Nung territory (Hai Ninh). [Source: History of Vietnam (Vol. 10: 1945–1954), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1787 -->
-*   **Apr. 6, 1946:** Kostas Sarantidis (later given the Vietnamese name Nguyễn Văn Lập), a Greek soldier in the French Foreign Legion, defected to the Viet Minh in Binh Thuan. He brought weapons with him, rescued 25 prisoners, and officially joined the Vietnam People's Army. He later became the only foreigner to be awarded the title Hero of the People's Armed Forces of Vietnam.
+*   **Apr. 6, 1946:** Kostas Sarantidis (later given the Vietnamese name Nguyễn Văn Lập), a Greek soldier in the French Foreign Legion, defected to the Viet Minh in Binh Thuan. He brought weapons with him, rescued 25 prisoners, and officially joined the Vietnam People's Army. He later became the only foreigner to be awarded the title Hero of the People's Armed Forces of Vietnam. [Source: Kostas Sarantidis – Legionnaire Who Became a Hero of Vietnam (Nhan Dan Newspaper), https://nhandan.vn/kostas-sarantidis-nguyen-van-lap-post652300.html]
 
 <!-- id: EVT-1788 -->
-*   **Apr. 18, 1946:** General Valluy issued Instruction No. 11 outlining plans to occupy key positions in cities and stage coups.
+*   **Apr. 18, 1946:** General Valluy issued Instruction No. 11 outlining plans to occupy key positions in cities and stage coups. [Source: History of Vietnam (Vol. 10: 1945–1954), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1789 -->
 *   **Apr. 19, 1946:** The Da Lat preparatory conference opened to prepare for official negotiations in France. The delegation of the Democratic Republic of Vietnam, headed by comrade Vo Nguyen Giap, staunchly defended national sovereignty and territorial integrity, resolutely rejecting French colonial schemes to sever Southern Vietnam (Nam Bo) from the unified nation. [Source: Vietnam National Museum of History - The Dalat Preliminary Conference (April 19, 1946), https://baotanglichsu.vn/vi/Articles/3097/16625/hoi-nghi-du-bi-da-lat-19-04-1946.html]
 
 <!-- id: EVT-1790 -->
-*   **Apr. 20, 1946:** The United National Front (Mat tran Quoc gia Lien hiep) was established in the South, initially with an anti-French stance but later divided.
+*   **Apr. 20, 1946:** The United National Front (Mat tran Quoc gia Lien hiep) was established in the South, initially with an anti-French stance but later divided. [Source: History of Vietnam (Vol. 10: 1945–1954), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1791 -->
-*   **Apr. 21, 1946:** Colonel Vicaire reported to Valluy on plans to occupy the strategic triangle of Hanoi - Hai Duong - Hon Gai - Mong Cai and Lang Son.
+*   **Apr. 21, 1946:** Colonel Vicaire reported to Valluy on plans to occupy the strategic triangle of Hanoi - Hai Duong - Hon Gai - Mong Cai and Lang Son. [Source: History of Vietnam (Vol. 10: 1945–1954), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1792 -->
-*   **May 1946:** The Standing Committee of the Party Central Committee appointed Le Duan as Secretary of the Provisional Party Committee of Nam Bo to consolidate and strengthen the Party's leadership in the South.
+*   **May 1946:** The Standing Committee of the Party Central Committee appointed Le Duan as Secretary of the Provisional Party Committee of Nam Bo to consolidate and strengthen the Party's leadership in the South. [Source: General Secretary Le Duan – Prominent Leader of the Party (Nhan Dan Newspaper), https://nhandan.vn/tong-bi-thu-le-duan-nha-lanh-dao-kien-xuat-cua-dang-va-dan-toc-post692250.html]
 
 <!-- id: EVT-1793 -->
-*   **May 11, 1946:** The Da Lat Preparatory Conference concluded without reaching agreement on fundamental issues.
+*   **May 11, 1946:** The Da Lat Preparatory Conference concluded without reaching agreement on fundamental issues. [Source: History of Vietnam (Vol. 10: 1945–1954), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1794 -->
-*   **May 19, 1946:** The birthday of President Ho Chi Minh was celebrated publicly for the first time, becoming a demonstration of national unity.
+*   **May 19, 1946:** The birthday of President Ho Chi Minh was celebrated publicly for the first time, becoming a demonstration of national unity. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1795 -->
-*   **May 20 - 27, 1946:** French High Commissioner Thierry d'Argenlieu dispatched the escort ship *L'Escarmouche* to survey the Paracel Islands. Finding the islands uninhabited, a half-platoon of French troops landed on Pattle Island (Hoang Sa) to mark the restoration of French rights. They would later be relieved by troops from the *Savorgnan de Brazza*.
+*   **May 20 - 27, 1946:** French High Commissioner Thierry d'Argenlieu dispatched the escort ship *L'Escarmouche* to survey the Paracel Islands. Finding the islands uninhabited, a half-platoon of French troops landed on Pattle Island (Hoang Sa) to mark the restoration of French rights. They would later be relieved by troops from the *Savorgnan de Brazza*. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1796 -->
 *   **May 29, 1946:** The Vietnamese National Popular League (Lien Viet) was established, with Huynh Thuc Khang serving as President to unite broad patriotic strata across the nation. [Source: Vietnam National Museum of History - The Vietnam National United Front (Lien Viet) (May 29, 1946), https://baotanglichsu.vn/vi/Articles/3097/16627/hoi-lien-hiep-quoc-dan-viet-nam-lien-viet-29-5-1946.html]
@@ -5840,19 +5840,19 @@
 *   **Jun. 1, 1946:** In Saigon, High Commissioner D'Argenlieu announced the establishment of the "Autonomous Republic of Cochinchina." [Source: Vietnam National Museum of History - The "Autonomous Republic of Cochinchina" (June 1, 1946), https://baotanglichsu.vn/vi/Articles/3097/16628/nuoc-cong-hoa-tu-tri-nam-ky-01-06-1946.html]
 
 <!-- id: EVT-1799 -->
-*   **Jun. 30, 1946:** Dinh Thi Van was admitted to the Indochinese Communist Party. She subsequently held various leadership roles, including President of the Women's Union of Nam Dinh province from 1951 to 1953.
+*   **Jun. 30, 1946:** Dinh Thi Van was admitted to the Indochinese Communist Party. She subsequently held various leadership roles, including President of the Women's Union of Nam Dinh province from 1951 to 1953. [Source: Intelligence Officer Dinh Thi Van (Nhan Dan Newspaper), https://nhandan.vn/nu-tinh-bao-dinh-thi-van-huyen-thoai-trong-long-dich-post645210.html]
 
 <!-- id: EVT-1800 -->
-*   **Jul. 1946:** Đặng Thị Kim was appointed to the Executive Committee of the Nha Trang Women's National Salvation Association. On October 30, 1946, she co-led a major protest demanding the French government implement the March 6 Preliminary Accord and September 14 Modus Vivendi.
+*   **Jul. 1946:** Đặng Thị Kim was appointed to the Executive Committee of the Nha Trang Women's National Salvation Association. On October 30, 1946, she co-led a major protest demanding the French government implement the March 6 Preliminary Accord and September 14 Modus Vivendi. [Source: History of Vietnamese Women (Vol. 2), Women's Publishing House, Hanoi, 2002]
 
 <!-- id: EVT-1801 -->
-*   **Jul. 1946:** During President Ho Chi Minh's official visit to France and the Fontainebleau Conference, the Bank of Indochina and French colonial interests attempted to bribe him with an immense sum of 30 billion Francs on the condition that he abandon the struggle for Vietnam's independence. President Ho Chi Minh resolutely rejected the bribery attempt, affirming that national independence, freedom, and the Fatherland are sacred and cannot be traded at any price.
+*   **Jul. 1946:** During President Ho Chi Minh's official visit to France and the Fontainebleau Conference, the Bank of Indochina and French colonial interests attempted to bribe him with an immense sum of 30 billion Francs on the condition that he abandon the struggle for Vietnam's independence. President Ho Chi Minh resolutely rejected the bribery attempt, affirming that national independence, freedom, and the Fatherland are sacred and cannot be traded at any price. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1802 -->
-*   **Jul. 1946:** During his official visit to France for the Fontainebleau Conference, President Ho Chi Minh visited painter Pablo Picasso at his studio in Paris. The meeting reflected their friendship dating back to the 1920s in France, during which Picasso sketched a portrait of President Ho Chi Minh.
+*   **Jul. 1946:** During his official visit to France for the Fontainebleau Conference, President Ho Chi Minh visited painter Pablo Picasso at his studio in Paris. The meeting reflected their friendship dating back to the 1920s in France, during which Picasso sketched a portrait of President Ho Chi Minh. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1803 -->
-*   **July 1946:** During an official visit to France, President Ho Chi Minh delivered a speech at Paris City Hall before a large public and overseas Vietnamese audience, affirming Vietnam's goodwill for peace, aspiration for independence and calling for friendship and equal cooperation between Vietnamese and French peoples.
+*   **July 1946:** During an official visit to France, President Ho Chi Minh delivered a speech at Paris City Hall before a large public and overseas Vietnamese audience, affirming Vietnam's goodwill for peace, aspiration for independence and calling for friendship and equal cooperation between Vietnamese and French peoples. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 ![Historical Image](images/event_20260924_103212.webp)
 
@@ -5868,29 +5868,29 @@
 *   **Jul. 22, 1946:** The Vietnam Socialist Party was founded, aiming to unite patriotic intellectuals. [Source: Vietnam National Museum of History - The Vietnamese Socialist Party (July 22, 1946), https://baotanglichsu.vn/vi/Articles/3097/16634/djang-xa-hoi-viet-nam-22-7-1946.html]
 
 <!-- id: EVT-1807 -->
-*   **Jul. 24, 1946:** While the formal French-Vietnamese negotiations at Fontainebleau were deadlocked, President Ho Chi Minh engaged in active "corridor diplomacy." He met with French Minister Pierre Cot, National Assembly President Vincent Auriol, and French Communist Party leader Jacques Duclos. In an interview with the French press on the same day, he emphasized that France recognizing Vietnam's independence would enhance its honor and influence far more than using war or coercion.
+*   **Jul. 24, 1946:** While the formal French-Vietnamese negotiations at Fontainebleau were deadlocked, President Ho Chi Minh engaged in active "corridor diplomacy." He met with French Minister Pierre Cot, National Assembly President Vincent Auriol, and French Communist Party leader Jacques Duclos. In an interview with the French press on the same day, he emphasized that France recognizing Vietnam's independence would enhance its honor and influence far more than using war or coercion. [Source: History of Vietnam (Vol. 10: 1945–1954), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1808 -->
-*   **Aug. 1, 1946:** D'Argenlieu convened the Conference of the Indochinese Federation in Da Lat, sabotaging the Fontainebleau Conference.
+*   **Aug. 1, 1946:** D'Argenlieu convened the Conference of the Indochinese Federation in Da Lat, sabotaging the Fontainebleau Conference. [Source: History of Vietnam (Vol. 10: 1945–1954), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1809 -->
-*   **Aug. 15, 1946:** During his stay at the private residence of French resistance fighter Raymond Aubrac in Soisy-sous-Montmorency (suburb of Paris) while attending the Fontainebleau Conference, President Ho Chi Minh visited Lucie Aubrac at the maternity clinic, adopted the newborn baby girl as his goddaughter, and affectionately named her Babette (born Élisabeth Aubrac). The profound and steadfast friendship between President Ho Chi Minh, the Aubrac family, and his goddaughter Babette endured for decades.
+*   **Aug. 15, 1946:** During his stay at the private residence of French resistance fighter Raymond Aubrac in Soisy-sous-Montmorency (suburb of Paris) while attending the Fontainebleau Conference, President Ho Chi Minh visited Lucie Aubrac at the maternity clinic, adopted the newborn baby girl as his goddaughter, and affectionately named her Babette (born Élisabeth Aubrac). The profound and steadfast friendship between President Ho Chi Minh, the Aubrac family, and his goddaughter Babette endured for decades. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 ![Historical Image](images/event_20260924_103205.webp)
 
 *Source: President Ho Chi Minh holding goddaughter Elizabeth (Babette) Aubrac in Paris on August 15, 1946 / Aubrac family archives*
 
 <!-- id: EVT-1810 -->
-*   **Aug. 25, 1946:** At a gathering of Southern compatriots in Hanoi, professor, doctor, and People's Teacher Tran Huu Nghiep, representing Southern intellectuals, formally proposed renaming Saigon to Ho Chi Minh City to honor President Ho Chi Minh's great contributions and to express the Southern people's aspiration for national reunification. This historic proposal was supported and signed by 57 Southern intellectuals present at the meeting.
+*   **Aug. 25, 1946:** At a gathering of Southern compatriots in Hanoi, professor, doctor, and People's Teacher Tran Huu Nghiep, representing Southern intellectuals, formally proposed renaming Saigon to Ho Chi Minh City to honor President Ho Chi Minh's great contributions and to express the Southern people's aspiration for national reunification. This historic proposal was supported and signed by 57 Southern intellectuals present at the meeting. [Source: Doctor Tran Duy Hung – Lifelong Chairman of the Capital (Nhan Dan Newspaper), https://nhandan.vn/bac-si-tran-duy-hung-post614230.html]
 
 <!-- id: EVT-1811 -->
-*   **Aug. 27, 1946:** The proposal and resolution by the 57 Southern intellectuals to rename Saigon to Ho Chi Minh City were published in the *Cuu Quoc* (National Salvation) newspaper, transforming an individual initiative into a widespread reflection of the people's aspirations in Saigon - Gia Dinh and the South.
+*   **Aug. 27, 1946:** The proposal and resolution by the 57 Southern intellectuals to rename Saigon to Ho Chi Minh City were published in the *Cuu Quoc* (National Salvation) newspaper, transforming an individual initiative into a widespread reflection of the people's aspirations in Saigon - Gia Dinh and the South. [Source: Gazetteer of Ho Chi Minh City (Vol. 1), Ho Chi Minh City Publishing House, 1998]
 
 <!-- id: EVT-1812 -->
 *   **Sep. 14, 1946:** During his nearly five-month official state visit to France, President Ho Chi Minh signed the **Franco-Vietnamese Modus Vivendi** with French Overseas Minister Marius Moutet in Paris, making concessions on certain economic and cultural interests to gain vital peace time to strengthen the revolutionary administration and prepare for national resistance. [Source: Vietnam National Museum of History - 67th anniversary of signing the Franco-Vietnamese Modus Vivendi (Sep. 14, 1946 - Sep. 14, 2013), https://baotanglichsu.vn/vi/Articles/3097/15067/67-nam-ky-ket-tam-uoc-viet-phap-14-9-1946-14-9-2013.html]
 
 <!-- id: EVT-1813 -->
-*   **Sep. 21, 1946:** The Vietnam Democratic Social Party (Dan Chu Xa Hoi Dang or Dan Xa) was founded by Huynh Phu So, the founder of Hoa Hao Buddhism.
+*   **Sep. 21, 1946:** The Vietnam Democratic Social Party (Dan Chu Xa Hoi Dang or Dan Xa) was founded by Huynh Phu So, the founder of Hoa Hao Buddhism. [Source: History of Vietnam (Vol. 10: 1945–1954), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1814 -->
 *   **Oct. 20, 1946:** President Ho Chi Minh arrived back at Haiphong port aboard the warship *Dumont d'Urville* following his nearly five-month state visit to France, warmly welcomed by the entire nation. [Source: Vietnam National Museum of History - President Ho Chi Minh Returns Home (October 20, 1946), https://baotanglichsu.vn/vi/Articles/3097/16636/chu-tich-ho-chi-minh-ve-nuoc-20-10-1946.html]
@@ -5903,50 +5903,50 @@
 *Source: The 1946 Constitution of the Democratic Republic of Vietnam*
 
 <!-- id: EVT-1816 -->
-*   **Nov. 7, 1946:** President Ho Chi Minh issued the *"Notice on Adopting the Children of Martyrs"*, declaring that on behalf of the Fatherland and the people, he would sponsor and foster all orphaned children of martyrs who sacrificed their lives for national independence, instructing local authorities to compile lists and ensure full welfare support for the nation's young generation.
+*   **Nov. 7, 1946:** President Ho Chi Minh issued the *"Notice on Adopting the Children of Martyrs"*, declaring that on behalf of the Fatherland and the people, he would sponsor and foster all orphaned children of martyrs who sacrificed their lives for national independence, instructing local authorities to compile lists and ensure full welfare support for the nation's young generation. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1817 -->
 *   **Nov. 20, 1946:** A major conflict broke out in Haiphong (the Haiphong Incident) when French troops demanded control of customs. [Source: Vietnam National Museum of History - The Haiphong Incident (November 20, 1946), https://baotanglichsu.vn/vi/Articles/3097/16638/su-kien-hai-phong-20-11-1946.html]
 
 <!-- id: EVT-1818 -->
-*   **Nov. 20, 1946:** French troops also fired on police and customs officers in Lang Son, occupying the town.
+*   **Nov. 20, 1946:** French troops also fired on police and customs officers in Lang Son, occupying the town. [Source: History of Vietnam (Vol. 10: 1945–1954), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1819 -->
-*   **Nov. 22, 1946:** French troops opened fire and occupied Haiphong after sending an ultimatum.
+*   **Nov. 22, 1946:** French troops opened fire and occupied Haiphong after sending an ultimatum. [Source: History of Vietnam (Vol. 10: 1945–1954), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1820 -->
 *   **Nov. 23, 1946:** The French cruiser *Suffren* and colonial artillery units launched a devastating naval bombardment of the port city of Haiphong, shelling densely populated civilian quarters and massacring thousands of innocent civilians (estimated between 2,000 and over 6,000 casualties), directly triggering the outbreak of the nationwide Resistance War (Dec. 19, 1946). [Source: Vietnam National Museum of History - French Forces Shell Haiphong (November 23, 1946), https://baotanglichsu.vn/vi/Articles/3097/16640/quan-phap-ban-phao-hai-phong-23-11-1946.html]
 
 <!-- id: EVT-1821 -->
-*   **Nov. 23, 1946:** The First National Congress of the Vietnam Red Cross Society convened at Thanh Am communal house (Ung Hoa, Ha Dong, now Hanoi), officially founding the Vietnam Red Cross Society. Dr. Vu Dinh Tung was elected as its first President, serving for 25 years (1946–1971), with President Ho Chi Minh honored as Honorary President.
+*   **Nov. 23, 1946:** The First National Congress of the Vietnam Red Cross Society convened at Thanh Am communal house (Ung Hoa, Ha Dong, now Hanoi), officially founding the Vietnam Red Cross Society. Dr. Vu Dinh Tung was elected as its first President, serving for 25 years (1946–1971), with President Ho Chi Minh honored as Honorary President. [Source: History of the Vietnam Red Cross Society (1946–2016), Information and Communications Publishing House, Hanoi, 2016]
 
 <!-- id: EVT-1822 -->
-*   **Nov. 29, 1946:** Under the pretext of disarming Japanese forces after World War II, the Republic of China (Chiang Kai-shek regime) dispatched naval warships *Yung-hsing* and *Chung-chien* to illegally land on Woody Island (Phu Lam, Amphitrite Group, Vietnam's Paracel Islands), unlawfully erecting boundary markers and renaming it Yongxing Island after their warship.
+*   **Nov. 29, 1946:** Under the pretext of disarming Japanese forces after World War II, the Republic of China (Chiang Kai-shek regime) dispatched naval warships *Yung-hsing* and *Chung-chien* to illegally land on Woody Island (Phu Lam, Amphitrite Group, Vietnam's Paracel Islands), unlawfully erecting boundary markers and renaming it Yongxing Island after their warship. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1823 -->
 *   **Nov. 30, 1946:** President Ho Chi Minh signed Decree No. 230/SL appointing comrade Vo Nguyen Giap (Minister of National Defense) as Commander-in-Chief of the National Army and Self-Defense Militia of Vietnam, establishing unified supreme operational command over all armed forces nationwide in preparation for protracted nationwide resistance against French colonialism. [Source: Vietnam National Museum of History - Vo Nguyen Giap as Defense Minister (November 30, 1946), https://baotanglichsu.vn/vi/Articles/3097/16642/vo-nguyen-giap-bo-truong-quoc-phong-30-11-1946.html]
 
 <!-- id: EVT-1824 -->
-*   **Dec. 1946:** At the age of 17, Đặng Thị Kim was admitted to the Indochinese Communist Party for her outstanding revolutionary activities in Nha Trang.
+*   **Dec. 1946:** At the age of 17, Đặng Thị Kim was admitted to the Indochinese Communist Party for her outstanding revolutionary activities in Nha Trang. [Source: History of the Party Committee of Nam Dinh Province (1930–2000), National Political Publishing House, Hanoi]
 
 <!-- id: EVT-1825 -->
-*   **Dec. 1946:** During the early days of the National Resistance in Hanoi, self-defense fighter Vu Van Thanh (the youngest son of Dr. Vu Dinh Tung) was mortally wounded in combat and heroically sacrificed his life on the operating table under the dedicated emergency care of his father. Earlier, Dr. Tung's other son, Vu Dinh Tin, had also heroically sacrificed his life while fighting in the self-defense militia to defend the fledgling revolutionary government following the August 1945 Revolution.
+*   **Dec. 1946:** During the early days of the National Resistance in Hanoi, self-defense fighter Vu Van Thanh (the youngest son of Dr. Vu Dinh Tung) was mortally wounded in combat and heroically sacrificed his life on the operating table under the dedicated emergency care of his father. Earlier, Dr. Tung's other son, Vu Dinh Tin, had also heroically sacrificed his life while fighting in the self-defense militia to defend the fledgling revolutionary government following the August 1945 Revolution. [Source: History of Resistance in Hanoi (1946–1954), People's Army Publishing House, Hanoi]
 
 ![Historical Image](images/event_20260923_221138.webp)
 
 *Source: Hanoi Ve Quoc Doan (National Guard) fighters in the early days of the National Resistance, Dec. 1946 / Wikimedia Commons*
 
 <!-- id: EVT-1826 -->
-*   **Dec. 12, 1946:** Republic of China naval warships *Tai-ping* and *Chung-yeh* illegally landed on Itu Aba Island (Ba Binh - the largest natural island in Vietnam's Spratly Islands), unlawfully erecting boundary markers and renaming the island Taiping Island after their warship.
+*   **Dec. 12, 1946:** Republic of China naval warships *Tai-ping* and *Chung-yeh* illegally landed on Itu Aba Island (Ba Binh - the largest natural island in Vietnam's Spratly Islands), unlawfully erecting boundary markers and renaming the island Taiping Island after their warship. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1827 -->
-*   **Dec. 16, 1946:** French colonial leaders held a conference in Haiphong to plan further aggression. On the same day, French High Commissioner d'Argenlieu blatantly declared that Hanoi, Haiphong, and Da Nang were French territory.
+*   **Dec. 16, 1946:** French colonial leaders held a conference in Haiphong to plan further aggression. On the same day, French High Commissioner d'Argenlieu blatantly declared that Hanoi, Haiphong, and Da Nang were French territory. [Source: History of Vietnam (Vol. 10: 1945–1954), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1828 -->
-*   **Dec. 17, 1946:** French troops staged a provocation and massacre in Lo Duc, Hang Bun, and Yen Ninh streets in Hanoi.
+*   **Dec. 17, 1946:** French troops staged a provocation and massacre in Lo Duc, Hang Bun, and Yen Ninh streets in Hanoi. [Source: History of Resistance in Hanoi (1946–1954), People's Army Publishing House, Hanoi]
 
 <!-- id: EVT-1829 -->
-*   **Dec. 18, 1946:** French troops occupied the headquarters of the Ministry of Finance and the Ministry of Transport and Public Works. General Morlière issued an ultimatum demanding the disarmament of Vietnamese self-defense forces, stating that French troops would take action by the morning of Dec. 20 if demands were not met.
+*   **Dec. 18, 1946:** French troops occupied the headquarters of the Ministry of Finance and the Ministry of Transport and Public Works. General Morlière issued an ultimatum demanding the disarmament of Vietnamese self-defense forces, stating that French troops would take action by the morning of Dec. 20 if demands were not met. [Source: History of Vietnam (Vol. 10: 1945–1954), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1830 -->
 *   **Dec. 18 - 19, 1946:** French troops repeatedly sent ultimatums demanding the disarmament of Vietnamese self-defense forces in Hanoi. The Standing Bureau of the Party Central Committee met at Van Phuc village (Ha Dong) under the chair of President Ho Chi Minh, deciding to launch the nationwide resistance. [Source: Vietnam National Museum of History - National Resistance War (December 19, 1946), https://baotanglichsu.vn/vi/Articles/3097/16643/toan-quoc-khang-chien-19-12-1946.html]
@@ -5963,49 +5963,49 @@
 *Source: Manuscript of President Ho Chi Minh's Appeal for National Resistance, Dec. 19, 1946 / Ministry of Culture, Sports and Tourism*
 
 <!-- id: EVT-1832 -->
-*   **Dec. 20, 1946:** Martyr Lê Gia Đỉnh (Political Commissar of Company 1, Battalion 101 of the National Guard, hailed as Hanoi's "Suicide Fighter No. 1") ordered his comrades to withdraw safely while remaining behind alone, heroically using a lunge mine in a suicide attack against advancing French tanks defending the Tonkin Palace, destroying the armored vehicle and sacrificing his life at age 26.
+*   **Dec. 20, 1946:** Martyr Lê Gia Đỉnh (Political Commissar of Company 1, Battalion 101 of the National Guard, hailed as Hanoi's "Suicide Fighter No. 1") ordered his comrades to withdraw safely while remaining behind alone, heroically using a lunge mine in a suicide attack against advancing French tanks defending the Tonkin Palace, destroying the armored vehicle and sacrificing his life at age 26. [Source: Heroic Martyr Le Gia Dinh (Nhan Dan Newspaper), https://nhandan.vn/anh-hung-cam-tu-le-gia-dinh-post632160.html]
 
 <!-- id: EVT-1833 -->
-*   **Dec. 22, 1946:** Former Mayor of Hanoi Tran Van Lai was arrested for the second time by the French colonialists right after the outbreak of the Nationwide Resistance, under the pretext of "ensuring safety for intellectuals," and was imprisoned in Hoa Lo.
+*   **Dec. 22, 1946:** Former Mayor of Hanoi Tran Van Lai was arrested for the second time by the French colonialists right after the outbreak of the Nationwide Resistance, under the pretext of "ensuring safety for intellectuals," and was imprisoned in Hoa Lo. [Source: Doctor Tran Van Lai – Intellectual Mayor of Hanoi (Nhan Dan Newspaper), https://nhandan.vn/bac-si-tran-van-lai-vi-thi-truong-tri-thuc-cua-ha-noi-post661200.html]
 
 <!-- id: EVT-1834 -->
-*   **Dec. 23, 1946:** Suicide fighter Trần Thành (birth name Nguyễn Văn Thiềng, 19 years old, platoon leader in Battalion 212 of the National Guard protecting the General Staff Headquarters) used a lunge mine to disable a French tank at the intersection of Bà Triệu and Trần Quốc Toản streets in Hanoi. Later that afternoon, as French armor mounted another assault, he charged a second tank with another lunge mine and heroically fell under enemy fire. The photograph of him wearing a calot cap and steadfastly holding a lunge mine taken by war photographer Nguyễn Bá Khoản became an immortal symbol of the spirit "Determined to brave death for the survival of the Fatherland."
+*   **Dec. 23, 1946:** Suicide fighter Trần Thành (birth name Nguyễn Văn Thiềng, 19 years old, platoon leader in Battalion 212 of the National Guard protecting the General Staff Headquarters) used a lunge mine to disable a French tank at the intersection of Bà Triệu and Trần Quốc Toản streets in Hanoi. Later that afternoon, as French armor mounted another assault, he charged a second tank with another lunge mine and heroically fell under enemy fire. The photograph of him wearing a calot cap and steadfastly holding a lunge mine taken by war photographer Nguyễn Bá Khoản became an immortal symbol of the spirit "Determined to brave death for the survival of the Fatherland." [Source: Soldier Who Embraced the Lunge Mine to Destroy Tanks (Nhan Dan Newspaper), https://nhandan.vn/nguoi-chien-si-om-bom-ba-cang-diet-xe-tang-post641210.html]
 
 <!-- id: EVT-1835 -->
-*   **Late Dec. 1946:** During the opening days of the Nationwide Resistance in Nam Định, secret self-defense fighter Trần Văn Khang (a worker at the Nam Định Textile Mill) heroically charged and destroyed an advancing French armored vehicle with a lunge mine on Hàng Thao street, halting the enemy mechanized thrust into the ancient quarter and sacrificing his life.
+*   **Late Dec. 1946:** During the opening days of the Nationwide Resistance in Nam Định, secret self-defense fighter Trần Văn Khang (a worker at the Nam Định Textile Mill) heroically charged and destroyed an advancing French armored vehicle with a lunge mine on Hàng Thao street, halting the enemy mechanized thrust into the ancient quarter and sacrificing his life. [Source: History of the Party Committee of Nam Dinh Province (1930–2000), National Political Publishing House, Hanoi]
 
 <!-- id: EVT-1836 -->
 
 ### **Period of Nationwide Resistance, Viet Bac and Border Victories (1947 - 1950)**
 
-*   **1947:** Vietnam established its first liaison office in Yangon, Myanmar. It was upgraded to a Propaganda Information Office in 1948, expanding international propaganda and monitoring world news for the resistance.
+*   **1947:** Vietnam established its first liaison office in Yangon, Myanmar. It was upgraded to a Propaganda Information Office in 1948, expanding international propaganda and monitoring world news for the resistance. [Source: History of Vietnamese Diplomacy (1945–2000), National Political Publishing House, Hanoi, 2002]
 
 <!-- id: EVT-1837 -->
-*   **1947:** At the age of 13, Vu A Dinh escaped his family's imprisonment to join the Tuan Giao armed communication team, acting as a liaison for the resistance against the French.
+*   **1947:** At the age of 13, Vu A Dinh escaped his family's imprisonment to join the Tuan Giao armed communication team, acting as a liaison for the resistance against the French. [Source: Young Hero Vu A Dinh (Nhan Dan Newspaper), https://nhandan.vn/anh-hung-thieu-nien-vu-a-dinh-post632150.html]
 
 <!-- id: EVT-1838 -->
-*   **1947:** Self-defense fighter Bùi Văn Vòng of the Hoàng Diệu Self-Defense Corps volunteered for the Hanoi defense suicide squad, courageously wielding a lunge mine to ambush French tanks and armored vehicles during the 60-day battle to defend the capital and heroically sacrificing his life.
+*   **1947:** Self-defense fighter Bùi Văn Vòng of the Hoàng Diệu Self-Defense Corps volunteered for the Hanoi defense suicide squad, courageously wielding a lunge mine to ambush French tanks and armored vehicles during the 60-day battle to defend the capital and heroically sacrificing his life. [Source: History of Resistance in Hanoi (1946–1954), People's Army Publishing House, Hanoi]
 
 <!-- id: EVT-1839 -->
-*   **1947 - 1950:** Lieutenant Colonel Dang Van Viet (Commander of Regiment 174) commanded a famed series of ambushes along Route 4, liberating Dong Khe and That Khe, earning the nickname "Gray Tiger of Route 4" from French forces.
+*   **1947 - 1950:** Lieutenant Colonel Dang Van Viet (Commander of Regiment 174) commanded a famed series of ambushes along Route 4, liberating Dong Khe and That Khe, earning the nickname "Gray Tiger of Route 4" from French forces. [Source: Lieutenant Colonel Dang Van Viet – The Grey Tiger of Route 4 (Nhan Dan Newspaper), https://nhandan.vn/trung-ta-dang-van-viet-hum-xam-duong-so-4-post632170.html]
 
 <!-- id: EVT-1840 -->
-*   **Jan. 1947:** Upon learning that both sons of Dr. Vu Dinh Tung had heroically sacrificed their lives for the nation's independence, President Ho Chi Minh sent a deeply touching letter of condolence to Dr. Tung, writing: *"Vietnam is my family. All Vietnamese youths are my children. Losing a young person feels like losing a piece of my own heart. But your son and other youths bravely sacrificed themselves to defend the country... They died so that the Fatherland may live forever."* Delivered in person by Dr. Tran Duy Hung, the letter became an enduring symbol of profound solidarity between the national leader, the people, and patriotic intellectuals.
+*   **Jan. 1947:** Upon learning that both sons of Dr. Vu Dinh Tung had heroically sacrificed their lives for the nation's independence, President Ho Chi Minh sent a deeply touching letter of condolence to Dr. Tung, writing: *"Vietnam is my family. All Vietnamese youths are my children. Losing a young person feels like losing a piece of my own heart. But your son and other youths bravely sacrificed themselves to defend the country... They died so that the Fatherland may live forever."* Delivered in person by Dr. Tran Duy Hung, the letter became an enduring symbol of profound solidarity between the national leader, the people, and patriotic intellectuals. [Source: Doctor Vu Dinh Tung – Benevolent Physician for the People (Nhan Dan Newspaper), https://nhandan.vn/bac-si-vu-dinh-tung-post641200.html]
 
 <!-- id: EVT-1841 -->
-*   **Jan. 3, 1947:** French Minister of Overseas Marius Moutet visited Hoa Lo prison in an attempt to persuade and bribe imprisoned Vietnamese intellectuals, including Tran Van Lai. The intellectuals responded with absolute silence, demonstrating their unwavering patriotism and contempt for the colonialists.
+*   **Jan. 3, 1947:** French Minister of Overseas Marius Moutet visited Hoa Lo prison in an attempt to persuade and bribe imprisoned Vietnamese intellectuals, including Tran Van Lai. The intellectuals responded with absolute silence, demonstrating their unwavering patriotism and contempt for the colonialists. [Source: History of Vietnam (Vol. 10: 1945–1954), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1842 -->
 *   **Jan. 6, 1947:** The Capital Regiment was officially established from the defenders of Inter-zone 1 in Hanoi. [Source: Vietnam National Museum of History - The Capital Regiment (January 6, 1947), https://baotanglichsu.vn/vi/Articles/3097/16648/trung-doan-thu-do-06-01-1947.html]
 
 <!-- id: EVT-1843 -->
-*   **Jan. 6, 1947:** During the fierce battle defending the Giảng Võ - Ô Chợ Dừa defensive line in Hanoi, facing a major French assault spearheaded by tanks attempting to breach the La Thành dike, 19-year-old Squad Leader Nguyễn Phúc Lai (Platoon 1, Company 2, Battalion 56 of the National Guard) heroically charged from his trench with a lunge mine directly into the lead enemy tank, destroying it, shattering the French advance, and sacrificing his life.
+*   **Jan. 6, 1947:** During the fierce battle defending the Giảng Võ - Ô Chợ Dừa defensive line in Hanoi, facing a major French assault spearheaded by tanks attempting to breach the La Thành dike, 19-year-old Squad Leader Nguyễn Phúc Lai (Platoon 1, Company 2, Battalion 56 of the National Guard) heroically charged from his trench with a lunge mine directly into the lead enemy tank, destroying it, shattering the French advance, and sacrificing his life. [Source: History of Resistance in Hanoi (1946–1954), People's Army Publishing House, Hanoi]
 
 <!-- id: EVT-1844 -->
-*   **Jan. 7, 1947:** Republic of China troops occupied Woody Island (Phu Lam) in the Paracels. On the same day, the Chinese Ministry of Foreign Affairs held a press conference in Nanjing officially announcing the occupation, claiming the flag was flying over islands that "had never ceased to belong to China."
+*   **Jan. 7, 1947:** Republic of China troops occupied Woody Island (Phu Lam) in the Paracels. On the same day, the Chinese Ministry of Foreign Affairs held a press conference in Nanjing officially announcing the occupation, claiming the flag was flying over islands that "had never ceased to belong to China." [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1845 -->
-*   **Jan. 13, 1947:** The French Ambassador in Nanjing handed a diplomatic note to the Chinese Ministry of Foreign Affairs making the "most categorical reservations regarding the legal consequences of the occupation of the Paracel Islands by Chinese troops," and reiterated previous proposals for amicable settlement or arbitration.
+*   **Jan. 13, 1947:** The French Ambassador in Nanjing handed a diplomatic note to the Chinese Ministry of Foreign Affairs making the "most categorical reservations regarding the legal consequences of the occupation of the Paracel Islands by Chinese troops," and reiterated previous proposals for amicable settlement or arbitration. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1846 -->
 *   **Jan. 13, 1947:** During an ambush against a French mechanized convoy at the Kim Liên crossroads in Hanoi, 22-year-old National Guard suicide fighter Lý Đàm Nghiên (native of Đức Giang commune, Hoài Đức district) heroically charged an enemy armored car with a lunge mine, halting the French armored thrust and sacrificing his life.
