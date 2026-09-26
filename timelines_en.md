@@ -3211,6 +3211,9 @@
 *   **Autumn 1789:** Emperor Quang Trung sent his nephew **Nguyen Quang Hien** to Beijing to pay tribute and attend Emperor Qianlong's birthday celebration at the Mountain Resort (Jehol). Emperor Qianlong accepted the peace and officially invested Nguyen Hue as the King of An Nam. [Source: Tay Son-Era Vietnamese Diplomacy (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Ngo%E1%BA%A1i_giao_Vi%E1%BB%87t_Nam_th%E1%BB%9Di_T%C3%A2y_S%C6%A1n]
 
 <!-- id: EVT-0985 -->
+*   **Summer 1789:** Upon learning that Qing forces had entered Thang Long, Lord Nguyen Phuc Anh in Gia Dinh dispatched envoys Phan Van Trong and Lam Do carrying 500,000 catties of rice by sea to resupply the Qing army against the Tay Son; however, the transport fleet was caught in a violent storm and sank entirely at sea, resulting in the total loss of provisions and crew. [Source: Veritable Records of Dai Nam – Primary Chronicle (First Epoch, Vol. 5)]
+
+<!-- id: EVT-3456 -->
 *   **1790:** A high-level Dai Viet diplomatic mission led by Pham Cong Tri (impersonating Emperor Quang Trung), with Phan Huy Ich and Grand Marshal Ngo Van So serving as principal diplomatic envoys, arrived in Beijing and the Chengde Mountain Resort (Jehol) to attend Emperor Qianlong's 80th birthday celebration. Through eloquent diplomacy and scholarly stature, the delegation was received with unprecedented royal honors by the Qing court, consolidating peaceful relations between the two empires. [Source: Tay Son-Era Vietnamese Diplomacy (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Ngo%E1%BA%A1i_giao_Vi%E1%BB%87t_Nam_th%E1%BB%9Di_T%C3%A2y_S%C6%A1n]
 
 <!-- id: EVT-0986 -->
@@ -3336,6 +3339,9 @@
 *   **1802:** Nguyễn Du (1765 - 1820) began serving as an imperial official under Emperor Gia Long of the Nguyễn Dynasty, holding posts such as Magistrate of Phù Dung, Prefect of Thường Tín, and later Right Vice Minister of Rites. [Source: Nguyen Du and The Tale of Kieu (VNA), https://nvsk.vnanet.vn/nguyen-du-va-di-san-truyen-kieu-ky-1-cuoc-doi-nhieu-thang-tram-1-136011.vna]
 
 <!-- id: EVT-1023 -->
+*   **1802:** Emperor Gia Long granted administrative control over the Tran Ninh territory (Xieng Khouang) to the Kingdom of Vientiane (Lan Xang) in recognition of King Inthavong's military support and joint campaigns against Tay Son forces in Nghe An. [Source: Veritable Records of Dai Nam – Primary Chronicle (Second Epoch, Vol. 53)]
+
+<!-- id: EVT-3457 -->
 *   **Feb. 3, 1802:** Battle of Tran Ninh. The final decisive clash between Tay Son forces and the army of Lord Nguyen Phuc Anh. Although female general Bui Thi Xuan valiantly rode war elephants to direct fierce assaults, Tay Son forces were ultimately defeated before the formidable fortifications of the Nguyen army at Tran Ninh wall. Simultaneously, the Tay Son naval fleet was wiped out at the Nhat Le estuary. This crushing defeat marked the total collapse of the Tay Son Dynasty. [Source: Tay Son Heroine Tran Ninh (QDND), http://sknc.qdnd.vn/chuyen-xua-nay/tran-tran-ninh-cua-tay-son-nu-tuong-501173]
 
 <!-- id: EVT-1024 -->
@@ -3599,6 +3605,9 @@
 *   **May 1828:** Emperor Minh Mang personally performed the **Tich Dien** (Plowing) ceremony at the newly established field in the capital, reviving an ancient tradition to encourage agriculture. [Source: Nguyen Dynasty Economy (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Kinh_t%E1%BA%BF_nh%C3%A0_Nguy%E1%BB%85n]
 
 <!-- id: EVT-1107 -->
+*   **Aug. 1828:** Following the destruction of Vientiane by Siamese forces, chieftain Chao Noi of Tran Ninh submitted his territory to the Hue court. Emperor Minh Mang officially reannexed the ancient territory, re-establishing Tran Ninh Prefecture (comprising seven districts) under Nghe An Province with imperial magistrates. [Source: Veritable Records of Dai Nam – Primary Chronicle (Second Epoch, Vol. 53)]
+
+<!-- id: EVT-3458 -->
 *   **Sep. 1828:** Land Reclamation Envoy Nguyen Cong Tru completed the reclamation of coastal Tien Chau to establish Tien Hai District (now in Thai Binh Province). [Source: Nguyen Cong Tru (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_C%C3%B4ng_Tr%E1%BB%A9]
 
 <!-- id: EVT-1108 -->

@@ -3211,6 +3211,9 @@
 *   **Mùa thu 1789:** Vua Quang Trung cử cháu là **Nguyễn Quang Hiển** sang Yên Kinh (Bắc Kinh) chầu vua Càn Long và dự lễ Vạn Thọ tại Nhiệt Hà. Vua Càn Long chấp nhận giảng hòa và phong Nguyễn Huệ làm An Nam Quốc vương. [Nguồn: Ngoại giao Việt Nam thời Tây Sơn (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Ngo%E1%BA%A1i_giao_Vi%E1%BB%87t_Nam_th%E1%BB%9Di_T%C3%A2y_S%C6%A1n]
 
 <!-- id: EVT-0985 -->
+*   **Mùa hè 1789:** Hay tin quân Thanh tiến vào Thăng Long, chúa Nguyễn Phúc Ánh tại Gia Định phái sứ thần Phan Văn Trọng và Lâm Đồ chở 50 vạn cân gạo theo đường biển ra Bắc định tiếp viện quân lương cho quân Thanh để phối hợp đánh Tây Sơn; tuy nhiên đoàn thuyền gặp bão lớn trên biển bị đắm chìm hoàn toàn, người và lương thảo đều mất. [Nguồn: Đại Nam thực lục – Chính biên (Đệ nhất kỷ, Quyển 5)]
+
+<!-- id: EVT-3456 -->
 *   **1790:** Phái đoàn sứ giả Đại Việt do Phạm Công Trị (đóng giả vua Quang Trung) dẫn đầu, cùng Phan Huy Ích và Đại tư mã Ngô Văn Sở giữ vai trò trọng thần ngoại giao, sang Yên Kinh và Nhiệt Hà (Trung Quốc) triều kiến vua Càn Long nhân dịp lễ Bát tuần đại khánh. Bằng tài năng văn từ và phong thái đĩnh đạc, phái đoàn được triều đình Mãn Thanh tiếp đón trọng thể theo nghi thức ngoại lệ cao nhất, củng cố vững chắc nền hòa hiếu giữa hai nước. [Nguồn: Ngoại giao Việt Nam thời Tây Sơn (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Ngo%E1%BA%A1i_giao_Vi%E1%BB%87t_Nam_th%E1%BB%9Di_T%C3%A2y_S%C6%A1n]
 
 <!-- id: EVT-0986 -->
@@ -3336,6 +3339,9 @@
 *   **1802:** Nguyễn Du (1765 - 1820) bắt đầu ra làm quan triều Nguyễn dưới thời vua Gia Long, từng giữ các chức Tri huyện Phù Dung, Tri phủ Thường Tín, rồi Hữu Tham tri Bộ Lễ. [Nguồn: Nguyễn Du và di sản Truyện Kiều (TTXVN), https://nvsk.vnanet.vn/nguyen-du-va-di-san-truyen-kieu-ky-1-cuoc-doi-nhieu-thang-tram-1-136011.vna]
 
 <!-- id: EVT-1023 -->
+*   **1802:** Vua Gia Long trao quyền quản hạt xứ Trấn Ninh (Xiêng Khoảng) cho Vương quốc Vạn Tượng (Lan Xang - Viêng Chăn) nhằm ghi nhận sự ủng hộ và phối hợp quân sự của vua Inthavong (Chiêu Ấn) trong cuộc chiến đánh phá Tây Sơn tại vùng Nghệ An. [Nguồn: Đại Nam thực lục – Chính biên (Đệ nhị kỷ, Quyển 53)]
+
+<!-- id: EVT-3457 -->
 *   **03/02/1802:** Trận Trấn Ninh. Trận kịch chiến cuối cùng giữa quân Tây Sơn và quân chúa Nguyễn Phúc Ánh. Mặc dù nữ tướng Bùi Thị Xuân đã dũng cảm cưỡi voi chỉ huy những đợt tiến công quyết liệt, quân Tây Sơn cuối cùng vẫn bị đánh bại trước hệ thống phòng thủ vững chắc của quân Nguyễn tại lũy Trấn Ninh. Cùng lúc đó, thủy quân Tây Sơn cũng bị tiêu diệt tại cửa Nhật Lệ. Thất bại thảm hại này đã đánh dấu sự sụp đổ hoàn toàn của vương triều Tây Sơn. [Nguồn: Trần Thị Lan của Tây Sơn nữ tướng (Báo QĐND), http://sknc.qdnd.vn/chuyen-xua-nay/tran-tran-ninh-cua-tay-son-nu-tuong-501173]
 
 <!-- id: EVT-1024 -->
@@ -3599,6 +3605,9 @@
 *   **05/1828:** Vua Minh Mạng đích thân làm lễ cày **Tịch điền** tại ruộng Tịch điền (được lập ở phường Hậu Sinh và An Trạch), nhằm khuyến khích nông nghiệp. [Nguồn: Kinh tế nhà Nguyễn (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Kinh_t%E1%BA%BF_nh%C3%A0_Nguy%E1%BB%85n]
 
 <!-- id: EVT-1107 -->
+*   **08/1828:** Sau khi Vạn Tượng bị quân Xiêm tàn phá, tù trưởng xứ Trấn Ninh là Chao Noi (Chiêu Nội) đem đất xin quy phục triều đình Huế. Vua Minh Mạng quyết định thu hồi vùng đất cũ, chính thức tái lập phủ Trấn Ninh (gồm 7 huyện) trực thuộc tỉnh Nghệ An và cử quan lại cai trị. [Nguồn: Đại Nam thực lục – Chính biên (Đệ nhị kỷ, Quyển 53)]
+
+<!-- id: EVT-3458 -->
 *   **09/1828:** Doanh điền sứ Nguyễn Công Trứ hoàn thành công cuộc khai hoang lấn biển vùng Tiền Châu, lập nên huyện Tiền Hải (nay thuộc tỉnh Thái Bình). [Nguồn: Nguyễn Công Trứ (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_C%C3%B4ng_Tr%E1%BB%A9]
 
 <!-- id: EVT-1108 -->
