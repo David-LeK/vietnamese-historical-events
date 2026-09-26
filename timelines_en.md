@@ -169,7 +169,7 @@
 *   **7th century BC (1st millennium BC):** According to *Viet su luoc*, the Van Lang nation was born. It was the first primitive state in Vietnam, formed on the basis of the Dong Son culture, bringing together 15 Lac Viet tribes in the plains and midlands. This state was later succeeded by the Au Lac kingdom. [Source: Van Lang - Au Lac states, https://baotanglichsu.vn/en/Articles/4192/van-lang-au-lac-states]
 
 <!-- id: EVT-0030 -->
-*   **5th century BC:** Regarded by some historians as the "century of the South" due to the widespread influence of ancient Southeast Asian cultures (including the ancestors of the Vietnamese) in agriculture, metallurgy, and mythology.
+*   **5th century BC:** Regarded by some historians as the "century of the South" due to the widespread influence of ancient Southeast Asian cultures (including the ancestors of the Vietnamese) in agriculture, metallurgy, and mythology. [Source: Wilhelm G. Solheim II, "New Light on a Forgotten Past", National Geographic, Vol. 139, No. 3, 1971; Prof. Ha Van Tan, Archaeology of Vietnam, Vol. 2: Bronze and Iron Age, Social Sciences Publishing House, Hanoi, 1999]
 
 <!-- id: EVT-0031 -->
 *   **Approximately 500 BC:** Dong Nai Culture period (Southeast region), a metallurgical culture connecting the Bronze and Iron Ages. [Source: The Dong Nai culture, c. 2,500-2,000 BP, https://baotanglichsu.vn/en/Articles/4195/the-dong-nai-culture-c-2-500-2-000-bp]
@@ -10667,431 +10667,431 @@
 * **07/01/2022:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Trần Xuân Viên (Viễn Chi) (Nguyên Trưởng đoàn Chuyên gia Công an Việt Nam tại Campuchia, nguyên Thứ trưởng Bộ Công an). [Source: Presidential Decision No. 39/QD-CTN dated Jan. 7, 2022 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2022]
 
 <!-- id: EVT-3314 -->
-*   **May 2022:** The Bach Long glass bridge (Son La province) was recognized as the world's longest glass-bottomed bridge.
+*   **May 2022:** The Bach Long glass bridge (Son La province) was recognized as the world's longest glass-bottomed bridge. [Source: Guinness World Records, Certificate for the World's Longest Glass-Bottomed Cliff Path / Bridge, May 28, 2022; Son La Newspaper; Nhan Dan Newspaper]
 
 <!-- id: EVT-3315 -->
-*   **May 12 - 23, 2022:** Vietnam hosted the 31st SEA Games (postponed from 2021).
+*   **May 12 - 23, 2022:** Vietnam hosted the 31st SEA Games (postponed from 2021). [Source: 31st SEA Games Organizing Committee, Official Commemorative Book of the 31st Southeast Asian Games in Vietnam, Sports Publishing House, 2022; VNA; Nhan Dan Newspaper]
 
 <!-- id: EVT-3316 -->
-*   **Aug. 2, 2022:** Fulfilling his final wish, the ashes of Kostas Sarantidis (Nguyễn Văn Lập) were brought back to Vietnam and solemnly buried at the Military Region 5 Cemetery in Da Nang, resting alongside his former comrades.
+*   **Aug. 2, 2022:** Fulfilling his final wish, the ashes of Kostas Sarantidis (Nguyễn Văn Lập) were brought back to Vietnam and solemnly buried at the Military Region 5 Cemetery in Da Nang, resting alongside his former comrades. [Source: Military Region 5 Command, Memorial and Burial Ceremony of Kostas Sarantidis' Ashes at Military Region 5 Cemetery, Aug. 2, 2022; People's Army Newspaper]
 
 <!-- id: EVT-3317 -->
-*   **Aug. 19, 2022:** Raymonde Dien, a great friend of Vietnam and a symbol of the international movement against the French colonial war in Indochina, passed away at the age of 93.
+*   **Aug. 19, 2022:** Raymonde Dien, a great friend of Vietnam and a symbol of the international movement against the French colonial war in Indochina, passed away at the age of 93. [Source: French - Vietnam Friendship Association and Embassy of Vietnam in France Communique, Aug. 19, 2022; L'Humanite; Nhan Dan Newspaper, Aug. 20, 2022]
 
 <!-- id: EVT-3318 -->
-*   **Oct. 11, 2022:** At the 77th Session of the UN General Assembly in New York, Vietnam was elected as a member of the UN Human Rights Council (UNHRC) for the 2023-2025 term.
+*   **Oct. 11, 2022:** At the 77th Session of the UN General Assembly in New York, Vietnam was elected as a member of the UN Human Rights Council (UNHRC) for the 2023-2025 term. [Source: UN General Assembly, Results of Human Rights Council Elections for 2023-2025 Term, Oct. 11, 2022; Ministry of Foreign Affairs; Nhan Dan Newspaper, Oct. 12, 2022]
 
 <!-- id: EVT-3319 -->
-*   **Nov. 9, 2022:** The 6th Plenum of the 13th Party Central Committee issued Resolution No. 27-NQ/TW on "Continuing to build and perfect the socialist rule-of-law State of Vietnam in the new period," formulated under the guidance of State President Nguyen Xuan Phuc. The resolution established strategic objectives for legal refinement, judicial reform, and enhanced national governance.
+*   **Nov. 9, 2022:** The 6th Plenum of the 13th Party Central Committee issued Resolution No. 27-NQ/TW on "Continuing to build and perfect the socialist rule-of-law State of Vietnam in the new period," formulated under the guidance of State President Nguyen Xuan Phuc. The resolution established strategic objectives for legal refinement, judicial reform, and enhanced national governance. [Source: Party Central Committee Resolution No. 27-NQ/TW dated Nov. 9, 2022 on Continuing to Build and Perfect the Socialist Rule-of-Law State; Party Documents; Nhan Dan Newspaper]
 
 <!-- id: EVT-3320 -->
-*   **Dec. 1, 2022:** The Ba Chua Xu Festival at Sam Mountain was recognized as a heritage site by UNESCO.
+*   **Dec. 1, 2022:** The Ba Chua Xu Festival at Sam Mountain was recognized as a heritage site by UNESCO. [Source: UNESCO, Decision of the Intergovernmental Committee inscribing Ba Chua Xu Festival of Sam Mountain on Representative List, Dec. 1, 2022; An Giang Newspaper; Nhan Dan Newspaper]
 
 <!-- id: EVT-3321 -->
-*   **Dec. 5, 2022:** President Nguyen Xuan Phuc paid a state visit to South Korea at the invitation of President Yoon Suk Yeol on the occasion of the 30th anniversary of diplomatic ties. Both leaders issued a Joint Statement officially upgrading bilateral relations to a Comprehensive Strategic Partnership, making South Korea Vietnam's 4th Comprehensive Strategic Partner.
+*   **Dec. 5, 2022:** President Nguyen Xuan Phuc paid a state visit to South Korea at the invitation of President Yoon Suk Yeol on the occasion of the 30th anniversary of diplomatic ties. Both leaders issued a Joint Statement officially upgrading bilateral relations to a Comprehensive Strategic Partnership, making South Korea Vietnam's 4th Comprehensive Strategic Partner. [Source: Vietnam - South Korea Joint Statement on Upgrading Relations to Comprehensive Strategic Partnership, Dec. 5, 2022 in Seoul; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3322 -->
-*   **Dec. 30, 2022:** Vietnam's GDP surpassed the $400 billion mark.
+*   **Dec. 30, 2022:** Vietnam's GDP surpassed the $400 billion mark. [Source: General Statistics Office, Report on Socio-Economic Performance in 2022, Dec. 29, 2022; Ministry of Planning and Investment; Nhan Dan Newspaper, Dec. 30, 2022]
 
 <!-- id: EVT-3323 -->
-*   **2023 - 2024:** Many high-level personnel changes occurred (State President, National Assembly Chairman) in the context of the anti-corruption campaign.
+*   **2023 - 2024:** Many high-level personnel changes occurred (State President, National Assembly Chairman) in the context of the anti-corruption campaign. [Source: Press Communiques of Extraordinary Central Committee Plenums and Extraordinary Sessions of 15th National Assembly (2023 - 2024); National Assembly Office; Nhan Dan Newspaper]
 
 <!-- id: EVT-3324 -->
-* **2023:** Hero of the People's Armed Forces Trần Đình Hùng (Trung đội trưởng pháo ĐKZ thuộc Trung đoàn 6, Đại đoàn 308. Tham gia chiến đấu trong Chiến dịch Điện Biên Phủ) passed away.
+* **2023:** Hero of the People's Armed Forces Trần Đình Hùng (Trung đội trưởng pháo ĐKZ thuộc Trung đoàn 6, Đại đoàn 308. Tham gia chiến đấu trong Chiến dịch Điện Biên Phủ) passed away. [Source: Armored Arm, History of the Armored Arm (1959 - 2019), People's Army Publishing House, 2019; People's Army Newspaper]
 
 <!-- id: EVT-3325 -->
-* **2023:** Hero of the People's Armed Forces Đặng Đức Song (Khi tuyên dương là Trung đội trưởng bộ binh Đại đội 5, Tiểu đoàn 2, Trung đoàn 98, Đại đoàn 316. Tham gia trận phòng ngự Đồi Xanh trong chiến dịch Điện Biên Phủ, được trao danh hiệu "Dũng sĩ Đồi xanh". Sau là Đại tá, giám đốc Nhà máy M1, Binh chủng Thông tin liên lạc; đại biểu Quốc hội khóa II) passed away.
+* **2023:** Hero of the People's Armed Forces Đặng Đức Song (Khi tuyên dương là Trung đội trưởng bộ binh Đại đội 5, Tiểu đoàn 2, Trung đoàn 98, Đại đoàn 316. Tham gia trận phòng ngự Đồi Xanh trong chiến dịch Điện Biên Phủ, được trao danh hiệu "Dũng sĩ Đồi xanh". Sau là Đại tá, giám đốc Nhà máy M1, Binh chủng Thông tin liên lạc; đại biểu Quốc hội khóa II) passed away. [Source: 1st Corps, History of 312th Division, People's Army Publishing House; Hai Duong Newspaper, June 15, 2023]
 
 <!-- id: EVT-3326 -->
-* **2023:** Hero of the People's Armed Forces Bùi Văn Tùng (Đại tá, nguyên Chính ủy Lữ đoàn xe tăng 203, Quân đoàn 2. Người đã thảo lời đầu hàng không điều kiện cho ông Dương Văn Minh - Tổng thống cuối cùng của chế độ Việt Nam Cộng hòa đọc trên Đài phát thanh vào ngày 30/4/1975) passed away.
+* **2023:** Hero of the People's Armed Forces Bùi Văn Tùng (Đại tá, nguyên Chính ủy Lữ đoàn xe tăng 203, Quân đoàn 2. Người đã thảo lời đầu hàng không điều kiện cho ông Dương Văn Minh - Tổng thống cuối cùng của chế độ Việt Nam Cộng hòa đọc trên Đài phát thanh vào ngày 30/4/1975) passed away. [Source: 2nd Corps Command and Thua Thien Hue Provincial Party Committee Communique, Feb. 9, 2023; People's Army Newspaper, Feb. 10, 2023; Tuoi Tre Newspaper]
 
 <!-- id: EVT-3327 -->
-*   **Jan. 1, 2023:** Paper household registration books and temporary residence books were officially invalidated.
+*   **Jan. 1, 2023:** Paper household registration books and temporary residence books were officially invalidated. [Source: Law on Residence of 2020 No. 68/2020/QH14 stipulating paper household registration books expire from Jan. 1, 2023; Ministry of Public Security; Official Gazette; Nhan Dan Newspaper]
 
 <!-- id: EVT-3328 -->
-*   **Jan. 18, 2023:** The 3rd extraordinary session of the 15th National Assembly relieved Comrade Nguyen Xuan Phuc of the State Presidency; Vice President Vo Thi Anh Xuan assumed the role of Acting President of the Socialist Republic of Vietnam for the first time (until March 2, 2023), ensuring seamless continuity in state operations.
+*   **Jan. 18, 2023:** The 3rd extraordinary session of the 15th National Assembly relieved Comrade Nguyen Xuan Phuc of the State Presidency; Vice President Vo Thi Anh Xuan assumed the role of Acting President of the Socialist Republic of Vietnam for the first time (until March 2, 2023), ensuring seamless continuity in state operations. [Source: National Assembly Resolution No. 83/2023/QH15 dated Jan. 18, 2023 on Relieving State President Nguyen Xuan Phuc; National Assembly Documents; Nhan Dan Newspaper]
 
 <!-- id: EVT-3329 -->
-*   **Mar. 2, 2023:** The 4th extraordinary session of the 15th National Assembly elected Comrade Vo Van Thuong as State President of the Socialist Republic of Vietnam. At age 53, he became the youngest State President in history upon taking office, focusing on fostering great national unity and deepening strategic external partnerships.
+*   **Mar. 2, 2023:** The 4th extraordinary session of the 15th National Assembly elected Comrade Vo Van Thuong as State President of the Socialist Republic of Vietnam. At age 53, he became the youngest State President in history upon taking office, focusing on fostering great national unity and deepening strategic external partnerships. [Source: National Assembly Resolution No. 88/2023/QH15 dated Mar. 2, 2023 electing Vo Van Thuong as State President; National Assembly Documents; Nhan Dan Newspaper]
 
 <!-- id: EVT-3330 -->
-*   **Apr. 1, 2023:** The Carlo Urbani Museum was officially inaugurated in his hometown of Castelplanio, Italy. The event was attended by the WHO Director-General and Vietnamese representatives, honoring Dr. Urbani's ultimate sacrifice and monumental contributions to global public health.
+*   **Apr. 1, 2023:** The Carlo Urbani Museum was officially inaugurated in his hometown of Castelplanio, Italy. The event was attended by the WHO Director-General and Vietnamese representatives, honoring Dr. Urbani's ultimate sacrifice and monumental contributions to global public health. [Source: Embassy of Vietnam in Italy Communique on Inauguration of Carlo Urbani Museum in Castelplanio, Apr. 1, 2023; Nhan Dan Newspaper; ANSA News Agency]
 
 <!-- id: EVT-3331 -->
-*   **Jun. 11, 2023:** An armed terrorist group attacked the headquarters of the People's Committees of Ea Tieu and Ea Ktur communes (Cu Kuin district, Dak Lak), killing 9 people (including 4 police officers, 2 commune officials, and 3 civilians) and injuring 2 others. The Ministry of Public Security identified this as an organized terrorist attack against the people's administration, carried out by the "Dega Soldiers" group under the direction of exile organizations (MSGI and MSFJ).
+*   **Jun. 11, 2023:** An armed terrorist group attacked the headquarters of the People's Committees of Ea Tieu and Ea Ktur communes (Cu Kuin district, Dak Lak), killing 9 people (including 4 police officers, 2 commune officials, and 3 civilians) and injuring 2 others. The Ministry of Public Security identified this as an organized terrorist attack against the people's administration, carried out by the "Dega Soldiers" group under the direction of exile organizations (MSGI and MSFJ). [Source: Ministry of Public Security Press Release on Terrorist Attack in Cu Kuin District, Dak Lak, June 11, 2023; People's Public Security Newspaper; Nhan Dan Newspaper]
 
 <!-- id: EVT-3332 -->
-*   **Jun. 23, 2023:** The investigation agency prosecuted the case of "Terrorism aimed at opposing the people's administration" in Dak Lak, initiating legal proceedings against 84 defendants for terrorism and related crimes.
+*   **Jun. 23, 2023:** The investigation agency prosecuted the case of "Terrorism aimed at opposing the people's administration" in Dak Lak, initiating legal proceedings against 84 defendants for terrorism and related crimes. [Source: Decision to Prosecute Case "Terrorism Opposing the People's Administration" by Dak Lak Police Security Investigation Agency, June 23, 2023; People's Public Security Newspaper]
 
 <!-- id: EVT-3333 -->
-*   **Jul. 24, 2023:** Writer Hoang Phu Ngoc Tuong passed away in Ho Chi Minh City at the age of 86. Born in 1937, he was a highly distinguished author in modern Vietnamese literature, widely known for his poetic and erudite essays, including the famous work "Who Named the River?".
+*   **Jul. 24, 2023:** Writer Hoang Phu Ngoc Tuong passed away in Ho Chi Minh City at the age of 86. Born in 1937, he was a highly distinguished author in modern Vietnamese literature, widely known for his poetic and erudite essays, including the famous work "Who Named the River?". [Source: Vietnam Writers Association and Thua Thien Hue Arts Association Communique, July 24, 2023; Van Nghe Newspaper; Tuoi Tre Newspaper, July 25, 2023]
 
 <!-- id: EVT-3334 -->
-*   **Sep. 10, 2023:** U.S. President Joe Biden paid a state visit to Vietnam at the invitation of General Secretary Nguyen Phu Trong. Both leaders held talks and adopted a Joint Statement upgrading Vietnam - U.S. relations to a Comprehensive Strategic Partnership for Peace, Cooperation and Sustainable Development.
+*   **Sep. 10, 2023:** U.S. President Joe Biden paid a state visit to Vietnam at the invitation of General Secretary Nguyen Phu Trong. Both leaders held talks and adopted a Joint Statement upgrading Vietnam - U.S. relations to a Comprehensive Strategic Partnership for Peace, Cooperation and Sustainable Development. [Source: Joint Leaders' Statement on Elevating United States - Vietnam Relations to Comprehensive Strategic Partnership, Sept. 10, 2023; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3335 -->
-*   **Sep. 16, 2023:** UNESCO recognized Ha Long Bay - Cat Ba Archipelago as an inter-provincial World Natural Heritage site.
+*   **Sep. 16, 2023:** UNESCO recognized Ha Long Bay - Cat Ba Archipelago as an inter-provincial World Natural Heritage site. [Source: UNESCO, Decision of the World Heritage Committee at its 45th Session (Riyadh, 2023); Ministry of Culture, Sports and Tourism; Nhan Dan Newspaper, Sept. 17, 2023]
 
 <!-- id: EVT-3336 -->
-* **17/10/2023:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Đặng Quân Thụy (Trung tướng, nguyên Chủ tịch Hội Cựu chiến binh Việt Nam, nguyên Phó Chủ tịch Quốc hội Việt Nam, nguyên Chủ nhiệm Ủy ban Quốc phòng và An ninh, nguyên Tư lệnh Quân khu 2).
+* **17/10/2023:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Đặng Quân Thụy (Trung tướng, nguyên Chủ tịch Hội Cựu chiến binh Việt Nam, nguyên Phó Chủ tịch Quốc hội Việt Nam, nguyên Chủ nhiệm Ủy ban Quốc phòng và An ninh, nguyên Tư lệnh Quân khu 2). [Source: Presidential Decision No. 1201/QD-CTN dated Oct. 17, 2023 conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2023]
 
 <!-- id: EVT-3337 -->
-* **17/10/2023:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Đặng Kinh (Trung tướng, nguyên Tỉnh đội trưởng Tỉnh đội Kiến An, nguyên Tư lệnh Quân khu 3, nguyên Phó Tổng tham mưu trưởng).
+* **17/10/2023:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Đặng Kinh (Trung tướng, nguyên Tỉnh đội trưởng Tỉnh đội Kiến An, nguyên Tư lệnh Quân khu 3, nguyên Phó Tổng tham mưu trưởng). [Source: Presidential Decision No. 1201/QD-CTN dated Oct. 17, 2023 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2023]
 
 <!-- id: EVT-3338 -->
-* **17/10/2023:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Hoàng Minh Thảo (Thượng tướng, Giáo sư quân sự, nguyên Tư lệnh Mặt trận Tây Nguyên, nguyên Viện trưởng Học viện Quân sự Cấp cao).
+* **17/10/2023:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Hoàng Minh Thảo (Thượng tướng, Giáo sư quân sự, nguyên Tư lệnh Mặt trận Tây Nguyên, nguyên Viện trưởng Học viện Quân sự Cấp cao). [Source: Presidential Decision No. 1201/QD-CTN dated Oct. 17, 2023 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2023]
 
 <!-- id: EVT-3339 -->
-* **17/10/2023:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Vũ Lăng (Thượng tướng, nguyên Tư lệnh Mặt trận Tây Nguyên, nguyên Tư lệnh Quân đoàn 3, nguyên Giám đốc Học viện Lục quân Đà Lạt).
+* **17/10/2023:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Vũ Lăng (Thượng tướng, nguyên Tư lệnh Mặt trận Tây Nguyên, nguyên Tư lệnh Quân đoàn 3, nguyên Giám đốc Học viện Lục quân Đà Lạt). [Source: Presidential Decision No. 1201/QD-CTN dated Oct. 17, 2023 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2023]
 
 <!-- id: EVT-3340 -->
-* **17/10/2023:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Đặng Vũ Hiệp (Thượng tướng, nguyên Thứ trưởng Bộ Quốc phòng, nguyên Chủ nhiệm Chính trị, nguyên Chính ủy Mặt trận Tây Nguyên, nguyên Chính ủy Quân đoàn 3).
+* **17/10/2023:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Đặng Vũ Hiệp (Thượng tướng, nguyên Thứ trưởng Bộ Quốc phòng, nguyên Chủ nhiệm Chính trị, nguyên Chính ủy Mặt trận Tây Nguyên, nguyên Chính ủy Quân đoàn 3). [Source: Presidential Decision No. 1201/QD-CTN dated Oct. 17, 2023 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2023]
 
 <!-- id: EVT-3341 -->
-* **17/10/2023:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Bùi Văn Tùng (Đại tá, nguyên Chính ủy Lữ đoàn xe tăng 203, Quân đoàn 2. Người đã thảo lời đầu hàng không điều kiện cho ông Dương Văn Minh - Tổng thống cuối cùng của chế độ Việt Nam Cộng hòa đọc trên Đài phát thanh vào ngày 30/4/1975).
+* **17/10/2023:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Bùi Văn Tùng (Đại tá, nguyên Chính ủy Lữ đoàn xe tăng 203, Quân đoàn 2. Người đã thảo lời đầu hàng không điều kiện cho ông Dương Văn Minh - Tổng thống cuối cùng của chế độ Việt Nam Cộng hòa đọc trên Đài phát thanh vào ngày 30/4/1975). [Source: Presidential Decision No. 1201/QD-CTN dated Oct. 17, 2023 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2023]
 
 <!-- id: EVT-3342 -->
-* **17/10/2023:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Nguyễn Lương Định (Trung sĩ, thương binh 1/4, nguyên Tiểu đội trưởng, Đại đội 4, Tiểu đoàn 668, Trung đoàn Đường ống 592, Bộ Tư lệnh Trường Sơn. Người xung phong vác đường ống qua trọng điểm để rà phá bom từ trường, bảo vệ cả Đại đội trên tuyến đánh trọng điểm Pha Bang Nưa, Savanakhet).
+* **17/10/2023:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Nguyễn Lương Định (Trung sĩ, thương binh 1/4, nguyên Tiểu đội trưởng, Đại đội 4, Tiểu đoàn 668, Trung đoàn Đường ống 592, Bộ Tư lệnh Trường Sơn. Người xung phong vác đường ống qua trọng điểm để rà phá bom từ trường, bảo vệ cả Đại đội trên tuyến đánh trọng điểm Pha Bang Nưa, Savanakhet). [Source: Presidential Decision No. 1201/QD-CTN dated Oct. 17, 2023 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2023]
 
 <!-- id: EVT-3343 -->
-*   **Nov. 27, 2023:** President Vo Van Thuong paid an official visit to Japan on the occasion of the 50th anniversary of diplomatic ties. During bilateral talks in Tokyo, President Vo Van Thuong and Japanese Prime Minister Kishida Fumio issued a Joint Statement upgrading relations to a "Comprehensive Strategic Partnership for Peace and Prosperity in Asia and the World".
+*   **Nov. 27, 2023:** President Vo Van Thuong paid an official visit to Japan on the occasion of the 50th anniversary of diplomatic ties. During bilateral talks in Tokyo, President Vo Van Thuong and Japanese Prime Minister Kishida Fumio issued a Joint Statement upgrading relations to a "Comprehensive Strategic Partnership for Peace and Prosperity in Asia and the World". [Source: Joint Statement on Upgrading Vietnam - Japan Relations to Comprehensive Strategic Partnership, Nov. 27, 2023 in Tokyo; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3344 -->
-*   **Dec. 12 - 13, 2023:** General Secretary and Chinese President Xi Jinping and his spouse paid a state visit to Vietnam at the invitation of General Secretary Nguyen Phu Trong and President Vo Van Thuong. Both sides issued a Joint Statement on further deepening and elevating the Comprehensive Strategic Cooperative Partnership and building a Vietnam - China Community with a Shared Future that carries strategic significance.
+*   **Dec. 12 - 13, 2023:** General Secretary and Chinese President Xi Jinping and his spouse paid a state visit to Vietnam at the invitation of General Secretary Nguyen Phu Trong and President Vo Van Thuong. Both sides issued a Joint Statement on further deepening and elevating the Comprehensive Strategic Cooperative Partnership and building a Vietnam - China Community with a Shared Future that carries strategic significance. [Source: Vietnam - China Joint Statement on Deepening Comprehensive Strategic Cooperative Partnership and Building a Community with a Shared Future, Dec. 13, 2023; Nhan Dan Newspaper]
 
 <!-- id: EVT-3345 -->
-*   **2024:** The total import-export turnover through Cao Bang's border gates reached 952.18 million USD, demonstrating the strong economic revitalization and development of the former border battlegrounds.
+*   **2024:** The total import-export turnover through Cao Bang's border gates reached 952.18 million USD, demonstrating the strong economic revitalization and development of the former border battlegrounds. [Source: Cao Bang Customs Department, Annual Report on Cross-Border Trade in 2024; Cao Bang Newspaper]
 
 <!-- id: EVT-3346 -->
-* **2024:** Hero of the People's Armed Forces Khuất Duy Tiến (Trung tướng, nguyên Tư lệnh Quân đoàn 3, Cục trưởng Cục Quân lực Bộ Tổng tham mưu, nguyên Trung đoàn trưởng Trung đoàn 64, Sư đoàn 320, Quân đoàn 3) passed away.
+* **2024:** Hero of the People's Armed Forces Khuất Duy Tiến (Trung tướng, nguyên Tư lệnh Quân đoàn 3, Cục trưởng Cục Quân lực Bộ Tổng tham mưu, nguyên Trung đoàn trưởng Trung đoàn 64, Sư đoàn 320, Quân đoàn 3) passed away. [Source: General Staff and 3rd Corps Communique on Funeral of Lieutenant General Khuat Duy Tien, Feb. 24, 2024; People's Army Newspaper, Feb. 25, 2024]
 
 <!-- id: EVT-3347 -->
-*   **Jan. 18, 2024:** The National Assembly passed the Land Law (amended).
+*   **Jan. 18, 2024:** The National Assembly passed the Land Law (amended). [Source: Land Law (Amended) No. 31/2024/QH15, passed by the 15th National Assembly at 5th Extraordinary Session, Jan. 18, 2024; Official Gazette; Nhan Dan Newspaper]
 
 <!-- id: EVT-3348 -->
-*   **Mar. 2024:** The Ministry of Public Security officially designated the Montagnard Support Group, Inc. (MSGI) and Montagnard Stand for Justice (MSFJ) as terrorist organizations based in the US, accusing them of recruiting, training, and directing the 2023 Dak Lak terrorist attack to establish a separate state.
+*   **Mar. 2024:** The Ministry of Public Security officially designated the Montagnard Support Group, Inc. (MSGI) and Montagnard Stand for Justice (MSFJ) as terrorist organizations based in the US, accusing them of recruiting, training, and directing the 2023 Dak Lak terrorist attack to establish a separate state. [Source: Ministry of Public Security Notice designating Montagnard Support Group Inc. (MSGI) and Montagnards Stand for Justice (MSFJ) as Terrorist Organizations, March 2024; CAND Newspaper]
 
 <!-- id: EVT-3349 -->
-*   **Mar. 7, 2024:** Prime Minister Pham Minh Chinh paid an official visit to Australia at the invitation of Prime Minister Anthony Albanese. Following talks in Canberra, the two Prime Ministers announced a Joint Statement elevating bilateral relations to a Comprehensive Strategic Partnership, making Australia Vietnam's 7th Comprehensive Strategic Partner.
+*   **Mar. 7, 2024:** Prime Minister Pham Minh Chinh paid an official visit to Australia at the invitation of Prime Minister Anthony Albanese. Following talks in Canberra, the two Prime Ministers announced a Joint Statement elevating bilateral relations to a Comprehensive Strategic Partnership, making Australia Vietnam's 7th Comprehensive Strategic Partner. [Source: Joint Statement on Elevating the Relationship to a Comprehensive Strategic Partnership between Vietnam and Australia, Mar. 7, 2024 in Canberra; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3350 -->
-*   **Mar. 21, 2024:** Following the National Assembly's relief of State President Vo Van Thuong, the National Assembly Standing Committee announced that Vice President Vo Thi Anh Xuan would serve as Acting President of the Socialist Republic of Vietnam for a second time (until May 22, 2024), ensuring seamless continuity in state head functions.
+*   **Mar. 21, 2024:** Following the National Assembly's relief of State President Vo Van Thuong, the National Assembly Standing Committee announced that Vice President Vo Thi Anh Xuan would serve as Acting President of the Socialist Republic of Vietnam for a second time (until May 22, 2024), ensuring seamless continuity in state head functions. [Source: National Assembly Resolution No. 119/2024/QH15 dated Mar. 21, 2024; National Assembly Standing Committee Announcement on Acting President Vo Thi Anh Xuan; Nhan Dan Newspaper]
 
 <!-- id: EVT-3351 -->
-*   **May 22, 2024:** The 7th session of the 15th National Assembly elected General To Lam as State President of the Socialist Republic of Vietnam. As head of state, he championed high-level diplomatic outreach, spearheaded judicial reform, and reinforced national solidarity.
+*   **May 22, 2024:** The 7th session of the 15th National Assembly elected General To Lam as State President of the Socialist Republic of Vietnam. As head of state, he championed high-level diplomatic outreach, spearheaded judicial reform, and reinforced national solidarity. [Source: National Assembly Resolution No. 135/2024/QH15 dated May 22, 2024 electing General To Lam as State President; National Assembly Documents; Nhan Dan Newspaper]
 
 <!-- id: EVT-3352 -->
-*   **Jun. 19 - 20, 2024:** President of the Russian Federation Vladimir Putin paid a state visit to Vietnam at the invitation of General Secretary Nguyen Phu Trong. Both sides adopted a Joint Statement on further deepening the Comprehensive Strategic Partnership based on achievements of 30 years of implementing the Treaty on Principles of Friendly Relations between Vietnam and Russia.
+*   **Jun. 19 - 20, 2024:** President of the Russian Federation Vladimir Putin paid a state visit to Vietnam at the invitation of General Secretary Nguyen Phu Trong. Both sides adopted a Joint Statement on further deepening the Comprehensive Strategic Partnership based on achievements of 30 years of implementing the Treaty on Principles of Friendly Relations between Vietnam and Russia. [Source: Joint Statement on Deepening Comprehensive Strategic Partnership between Vietnam and the Russian Federation, June 20, 2024 in Hanoi; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3353 -->
-*   **At 13:38 on Jul. 19, 2024:** General Secretary Nguyen Phu Trong passed away at Central Military Hospital 108. He was 80 years old.
+*   **At 13:38 on Jul. 19, 2024:** General Secretary Nguyen Phu Trong passed away at Central Military Hospital 108. He was 80 years old. [Source: Special Communique of Party Central Committee, National Assembly, State President, Government, VFF Central Committee, July 19, 2024; Nhan Dan Newspaper, July 20, 2024]
 
 <!-- id: EVT-3354 -->
-*   **Jul. 20 - 22, 2024:** Cuba declared three days of National Mourning to commemorate the passing of General Secretary Nguyen Phu Trong. The Cuban National Assembly had previously held a minute of silence on July 19.
+*   **Jul. 20 - 22, 2024:** Cuba declared three days of National Mourning to commemorate the passing of General Secretary Nguyen Phu Trong. The Cuban National Assembly had previously held a minute of silence on July 19. [Source: Presidential Decree of the Republic of Cuba Declaring Three Days of State Mourning for Nguyen Phu Trong; Granma; Nhan Dan Newspaper, July 21, 2024]
 
 <!-- id: EVT-3355 -->
-*   **Jul. 30 - Aug. 1, 2024:** Prime Minister Pham Minh Chinh paid a state visit to the Republic of India at the invitation of Prime Minister Narendra Modi. Both Prime Ministers held talks and adopted a Joint Statement on strengthening the Comprehensive Strategic Partnership, reaffirming deeper cooperation in defense-security, trade-economy, and science-technology.
+*   **Jul. 30 - Aug. 1, 2024:** Prime Minister Pham Minh Chinh paid a state visit to the Republic of India at the invitation of Prime Minister Narendra Modi. Both Prime Ministers held talks and adopted a Joint Statement on strengthening the Comprehensive Strategic Partnership, reaffirming deeper cooperation in defense-security, trade-economy, and science-technology. [Source: Joint Statement on Strengthening the Comprehensive Strategic Partnership between Vietnam and India, Aug. 1, 2024 in New Delhi; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3356 -->
-*   **Aug. 3, 2024:** The 13th Party Central Committee elected Comrade To Lam as General Secretary of the Communist Party of Vietnam; the General Secretary promptly articulated a historic leadership vision, setting out to steer the nation into a "New Era – The Era of the Nation's Rise", placing institutional breakthroughs at the core and resolutely streamlining the political apparatus.
+*   **Aug. 3, 2024:** The 13th Party Central Committee elected Comrade To Lam as General Secretary of the Communist Party of Vietnam; the General Secretary promptly articulated a historic leadership vision, setting out to steer the nation into a "New Era – The Era of the Nation's Rise", placing institutional breakthroughs at the core and resolutely streamlining the political apparatus. [Source: Communique of 13th Party Central Committee Plenum, Aug. 3, 2024 electing Comrade To Lam as General Secretary; Party Central Committee Office; Nhan Dan Newspaper, Aug. 4, 2024]
 
 <!-- id: EVT-3357 -->
-*   **Aug. 18 - 20, 2024:** General Secretary and State President To Lam and his spouse paid a state visit to China at the invitation of General Secretary and Chinese President Xi Jinping. This was To Lam's first foreign trip as General Secretary and President. Both sides issued a Joint Statement on continuing to strengthen the Comprehensive Strategic Cooperative Partnership and deepening the building of the Vietnam - China Community with a Shared Future.
+*   **Aug. 18 - 20, 2024:** General Secretary and State President To Lam and his spouse paid a state visit to China at the invitation of General Secretary and Chinese President Xi Jinping. This was To Lam's first foreign trip as General Secretary and President. Both sides issued a Joint Statement on continuing to strengthen the Comprehensive Strategic Cooperative Partnership and deepening the building of the Vietnam - China Community with a Shared Future. [Source: Vietnam - China Joint Statement on Continuing to Strengthen Comprehensive Strategic Cooperative Partnership, Aug. 20, 2024 in Beijing; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3358 -->
-*   **Aug. 29, 2024:** Prime Minister Pham Minh Chinh presided over the inauguration of the 500 kV Circuit 3 power transmission line from Quang Trach (Quang Binh) to Pho Noi (Hung Yen), spanning 519 km with total investment over 22.3 trillion VND. Completed in a record sprint of just over six months of construction, the project decisively reinforced high-voltage power transmission and energy security for Northern Vietnam.
+*   **Aug. 29, 2024:** Prime Minister Pham Minh Chinh presided over the inauguration of the 500 kV Circuit 3 power transmission line from Quang Trach (Quang Binh) to Pho Noi (Hung Yen), spanning 519 km with total investment over 22.3 trillion VND. Completed in a record sprint of just over six months of construction, the project decisively reinforced high-voltage power transmission and energy security for Northern Vietnam. [Source: Vietnam Electricity (EVN), Inauguration of 500 kV Circuit-3 Transmission Line Project Quang Trach - Pho Noi, Aug. 29, 2024; Government Portal; Nhan Dan Newspaper]
 
 <!-- id: EVT-3359 -->
-*   **Sep. 2024:** General Secretary and President To Lam and his spouse paid a state visit to Cuba, emphasizing the rare, pure, and loyal relationship between Vietnam and Cuba as a symbol of international solidarity.
+*   **Sep. 2024:** General Secretary and President To Lam and his spouse paid a state visit to Cuba, emphasizing the rare, pure, and loyal relationship between Vietnam and Cuba as a symbol of international solidarity. [Source: Vietnam - Cuba Joint Statement during State Visit of General Secretary and President To Lam, Sept. 27, 2024 in Havana; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3360 -->
-*   **Sep. 7, 2024:** Super Typhoon Yagi made landfall in Vietnam.
+*   **Sep. 7, 2024:** Super Typhoon Yagi made landfall in Vietnam. [Source: National Center for Hydro-Meteorological Forecasting, Summary Report on Super Typhoon Yagi Making Landfall, Sept. 7, 2024; Disaster Management Authority; Nhan Dan Newspaper]
     * **Human losses:** About 345 people dead and missing, thousands injured.
     * **Economic damage:** Over 81.7 trillion VND, equivalent to about 0.62% of 2023 GDP.
     * **Impact:** Many northern provinces were severely devastated by the storm and subsequent floods.
 
 <!-- id: EVT-3361 -->
-*   **Sep. 21, 2024:** Prime Minister Pham Minh Chinh signed Decision No. 1018/QD-TTg issuing the **Strategy for the Development of Vietnam's Semiconductor Industry to 2030 and Vision to 2050**, along with a specialized human resource training program aiming to produce 50,000 engineers, positioning Vietnam as a regional and global semiconductor and electronics manufacturing hub.
+*   **Sep. 21, 2024:** Prime Minister Pham Minh Chinh signed Decision No. 1018/QD-TTg issuing the **Strategy for the Development of Vietnam's Semiconductor Industry to 2030 and Vision to 2050**, along with a specialized human resource training program aiming to produce 50,000 engineers, positioning Vietnam as a regional and global semiconductor and electronics manufacturing hub. [Source: Prime Minister Decision No. 1018/QD-TTg dated Sept. 21, 2024 promulgating Strategy for Semiconductor Industry Development to 2030; Official Gazette; Dau Tu Newspaper]
 
 <!-- id: EVT-3362 -->
-*   **Sep. 23, 2024:** In a speech at Columbia University (USA), General Secretary To Lam mentioned the "Era of Rising" of the nation after nearly 80 years of founding the country and 40 years of Renovation.
+*   **Sep. 23, 2024:** In a speech at Columbia University (USA), General Secretary To Lam mentioned the "Era of Rising" of the nation after nearly 80 years of founding the country and 40 years of Renovation. [Source: Policy Address by General Secretary and President To Lam at Columbia University, New York, Sept. 23, 2024; Vietnam News Agency; Nhan Dan Newspaper, Sept. 24, 2024]
 
 <!-- id: EVT-3363 -->
-*   **Oct. 2024:** General Secretary To Lam articulated landmark ideological and strategic orientations: propelling the country into a **"New Era – The Era of the Nation's Rise"**; identifying institutional reform as the primary breakthrough, pivoting legal drafting from state control to enabling national development; aggressively launching a revolution to streamline the political apparatus for efficacy and efficiency, and placing waste prevention on par with combating corruption.
+*   **Oct. 2024:** General Secretary To Lam articulated landmark ideological and strategic orientations: propelling the country into a **"New Era – The Era of the Nation's Rise"**; identifying institutional reform as the primary breakthrough, pivoting legal drafting from state control to enabling national development; aggressively launching a revolution to streamline the political apparatus for efficacy and efficiency, and placing waste prevention on par with combating corruption. [Source: To Lam, "New Era, the Era of the Vietnamese Nation's Rise", Communist Review, Oct. 2024; Nhan Dan Newspaper, Oct. 14, 2024]
 
 <!-- id: EVT-3364 -->
-*   **Oct. 7, 2024:** General Secretary and President To Lam paid an official visit to France at the invitation of President Emmanuel Macron. Following talks at the Élysée Palace, the two leaders announced the upgrade of bilateral ties to a Comprehensive Strategic Partnership, making France the first country in the European Union to establish this highest level of partnership with Vietnam.
+*   **Oct. 7, 2024:** General Secretary and President To Lam paid an official visit to France at the invitation of President Emmanuel Macron. Following talks at the Élysée Palace, the two leaders announced the upgrade of bilateral ties to a Comprehensive Strategic Partnership, making France the first country in the European Union to establish this highest level of partnership with Vietnam. [Source: Joint Statement on Elevating Vietnam - France Relations to Comprehensive Strategic Partnership, Oct. 7, 2024 in Paris; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3365 -->
-*   **Oct. 14 - 15, 2024:** Vietnam solemnly commemorated the 60th anniversary of the Venezuelan guerrillas' rescue campaign (Oct. 9, 1964 - Oct. 9, 2024) and the 60th anniversary of Heroic Martyr Nguyễn Văn Trỗi's sacrifice (Oct. 15, 1964 - Oct. 15, 2024).
+*   **Oct. 14 - 15, 2024:** Vietnam solemnly commemorated the 60th anniversary of the Venezuelan guerrillas' rescue campaign (Oct. 9, 1964 - Oct. 9, 2024) and the 60th anniversary of Heroic Martyr Nguyễn Văn Trỗi's sacrifice (Oct. 15, 1964 - Oct. 15, 2024). [Source: Commemorative Ceremony for 60th Anniversary of Hero Nguyen Van Troi's Sacrifice organized by HCM City, Oct. 15, 2024; Sai Gon Giai Phong Newspaper; Nhan Dan Newspaper]
 
 <!-- id: EVT-3366 -->
-*   **Oct. 21, 2024:** The 8th session of the 15th National Assembly elected General Luong Cuong as State President of the Socialist Republic of Vietnam, firmly bolstering national defense and security capabilities, safeguarding territorial sovereignty, and advancing an independent, self-reliant, multilateral foreign policy.
+*   **Oct. 21, 2024:** The 8th session of the 15th National Assembly elected General Luong Cuong as State President of the Socialist Republic of Vietnam, firmly bolstering national defense and security capabilities, safeguarding territorial sovereignty, and advancing an independent, self-reliant, multilateral foreign policy. [Source: National Assembly Resolution at 8th Session, Oct. 21, 2024 electing Senior General Luong Cuong as State President; National Assembly Documents; Nhan Dan Newspaper]
 
 <!-- id: EVT-3367 -->
-*   **Oct. 25, 2024:** Tran Cam Tu was assigned to hold the position of Permanent Secretary of the Secretariat of the 13th tenure.
+*   **Oct. 25, 2024:** Tran Cam Tu was assigned to hold the position of Permanent Secretary of the Secretariat of the 13th tenure. [Source: Politburo Decision assigning Comrade Tran Cam Tu as Permanent Member of the Party Secretariat, Oct. 25, 2024; Party Central Committee Office; Nhan Dan Newspaper]
 
 <!-- id: EVT-3368 -->
-*   **Nov. 21, 2024:** General Secretary To Lam paid an official visit to Malaysia at the invitation of Prime Minister Anwar Ibrahim. Both sides issued a Joint Statement officially upgrading Vietnam - Malaysia relations to a Comprehensive Strategic Partnership, making Malaysia the first Southeast Asian (ASEAN) nation to establish this partnership framework with Vietnam.
+*   **Nov. 21, 2024:** General Secretary To Lam paid an official visit to Malaysia at the invitation of Prime Minister Anwar Ibrahim. Both sides issued a Joint Statement officially upgrading Vietnam - Malaysia relations to a Comprehensive Strategic Partnership, making Malaysia the first Southeast Asian (ASEAN) nation to establish this partnership framework with Vietnam. [Source: Joint Statement on Elevating Vietnam - Malaysia Relations to Comprehensive Strategic Partnership, Nov. 21, 2024 in Putrajaya; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3369 -->
-*   **Dec. 1, 2024:** General Secretary To Lam directed the acceleration of mergers and streamlining of the apparatus.
+*   **Dec. 1, 2024:** General Secretary To Lam directed the acceleration of mergers and streamlining of the apparatus. [Source: Central Steering Committee Concluding Announcement on Reviewing Resolution 18-NQ/TW on Apparatus Streamlining, Dec. 1, 2024; Nhan Dan Newspaper, Dec. 2, 2024]
 
 <!-- id: EVT-3370 -->
-* **13/12/2024:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Đồng Sĩ Nguyên (Trung tướng, nguyên Ủy viên Bộ Chính trị, Phó Chủ tịch Hội đồng Bộ trưởng, nguyên Bộ trưởng Bộ Giao thông Vận tải, nguyên Thứ trưởng Bộ Quốc phòng, Tư lệnh Binh đoàn Trường Sơn).
+* **13/12/2024:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Đồng Sĩ Nguyên (Trung tướng, nguyên Ủy viên Bộ Chính trị, Phó Chủ tịch Hội đồng Bộ trưởng, nguyên Bộ trưởng Bộ Giao thông Vận tải, nguyên Thứ trưởng Bộ Quốc phòng, Tư lệnh Binh đoàn Trường Sơn). [Source: Presidential Decision conferring Hero of the People's Armed Forces, Dec. 13, 2024; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2024]
 
 <!-- id: EVT-3371 -->
-*   **2025 - 2026:** Painter Mai Dai Luu completed several monumental artworks (including "Cho những người đã ngã xuống" and "Hoa vàng rực rỡ") utilizing materials like sand, gold leaf, and acrylic to commemorate the soldiers who sacrificed their lives in the 1979 border war.
+*   **2025 - 2026:** Painter Mai Dai Luu completed several monumental artworks (including "Cho những người đã ngã xuống" and "Hoa vàng rực rỡ") utilizing materials like sand, gold leaf, and acrylic to commemorate the soldiers who sacrificed their lives in the 1979 border war. [Source: Vietnam Fine Arts Association, Contemporary Art Exhibition Reports 2025 - 2026; Fine Arts Magazine; Van Hoa Newspaper]
 
 <!-- id: EVT-3372 -->
-* **2025:** Hero of the People's Armed Forces Vũ Văn Bình (Thượng sĩ, Chiến sĩ công binh thuộc Lữ đoàn 513, Quân khu 3) passed away.
+* **2025:** Hero of the People's Armed Forces Vũ Văn Bình (Thượng sĩ, Chiến sĩ công binh thuộc Lữ đoàn 513, Quân khu 3) passed away. [Source: 1st Corps, History of 308th Division, People's Army Publishing House, 2019; People's Army Newspaper]
 
 <!-- id: EVT-3373 -->
-*   **Jan. 5, 2025:** The Vietnam national men's football team won the AFF Cup.
+*   **Jan. 5, 2025:** The Vietnam national men's football team won the AFF Cup. [Source: ASEAN Football Federation (AFF), AFF Cup Final Match Official Report, Jan. 5, 2025; Vietnam Football Federation (VFF); The Thao & Van Hoa Newspaper]
 
 <!-- id: EVT-3374 -->
-* **23/01/2025:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Hoàng Thế Thiện (Cấp bậc, chức vụ đề nghị Chủ tịch nước xét truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân: Thiếu tướng, Chính ủy Quân đoàn 4, Bộ Quốc phòng trong Kháng chiến chống Mỹ).
+* **23/01/2025:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Hoàng Thế Thiện (Cấp bậc, chức vụ đề nghị Chủ tịch nước xét truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân: Thiếu tướng, Chính ủy Quân đoàn 4, Bộ Quốc phòng trong Kháng chiến chống Mỹ). [Source: Presidential Decision posthumously conferring Hero of the People's Armed Forces, Jan. 23, 2025; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2025]
 
 <!-- id: EVT-3375 -->
-*   **Feb. 5, 2025:** General Secretary To Lam and a central working delegation visited the Vi Xuyen National Martyrs Cemetery (Ha Giang) to offer incense and pay profound tribute to the heroes who sacrificed their lives for national independence and border defense.
+*   **Feb. 5, 2025:** General Secretary To Lam and a central working delegation visited the Vi Xuyen National Martyrs Cemetery (Ha Giang) to offer incense and pay profound tribute to the heroes who sacrificed their lives for national independence and border defense. [Source: Incense Offering Ceremony by General Secretary To Lam at Vi Xuyen Martyrs Cemetery, Feb. 5, 2025 in Ha Giang; Vietnam News Agency; Nhan Dan Newspaper, Feb. 6, 2025]
 
 <!-- id: EVT-3376 -->
-*   **Feb. 14, 2025:** A delegation from the Central Military Commission and the Ministry of Defense paid tribute at the Po Hen National Historical Relic (Quang Ninh), honoring the 86 border guards and trade staff who died defending the border in 1979.
+*   **Feb. 14, 2025:** A delegation from the Central Military Commission and the Ministry of Defense paid tribute at the Po Hen National Historical Relic (Quang Ninh), honoring the 86 border guards and trade staff who died defending the border in 1979. [Source: Central Military Commission and Defense Ministry Delegation Incense Offering at Vi Xuyen Temple, Feb. 14, 2025; People's Army Newspaper, Feb. 15, 2025]
 
 <!-- id: EVT-3377 -->
-*   **Feb. 26, 2025:** New Zealand Prime Minister Christopher Luxon paid an official visit to Vietnam at the invitation of Prime Minister Pham Minh Chinh on the occasion of the 50th anniversary of diplomatic ties. Both sides issued a Joint Statement upgrading relations to a Comprehensive Strategic Partnership, making New Zealand Vietnam's 10th Comprehensive Strategic Partner.
+*   **Feb. 26, 2025:** New Zealand Prime Minister Christopher Luxon paid an official visit to Vietnam at the invitation of Prime Minister Pham Minh Chinh on the occasion of the 50th anniversary of diplomatic ties. Both sides issued a Joint Statement upgrading relations to a Comprehensive Strategic Partnership, making New Zealand Vietnam's 10th Comprehensive Strategic Partner. [Source: Joint Statement on Elevating Relations to Comprehensive Strategic Partnership between Vietnam and New Zealand, Feb. 26, 2025; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3378 -->
-*   **Mar. 10, 2025:** General Secretary To Lam paid a state visit to the Republic of Indonesia at the invitation of President Prabowo Subianto. Both sides issued a Joint Statement officially elevating bilateral relations to a Comprehensive Strategic Partnership on the 70th anniversary of diplomatic ties, making Indonesia Vietnam's second Comprehensive Strategic Partner in ASEAN.
+*   **Mar. 10, 2025:** General Secretary To Lam paid a state visit to the Republic of Indonesia at the invitation of President Prabowo Subianto. Both sides issued a Joint Statement officially elevating bilateral relations to a Comprehensive Strategic Partnership on the 70th anniversary of diplomatic ties, making Indonesia Vietnam's second Comprehensive Strategic Partner in ASEAN. [Source: Joint Statement on Elevating Relations to Comprehensive Strategic Partnership between Vietnam and Indonesia, Mar. 10, 2025 in Jakarta; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3379 -->
-*   **Mar. 12, 2025:** General Secretary To Lam paid an official visit to the Republic of Singapore at the invitation of Prime Minister Lawrence Wong. The two nations issued a Joint Statement upgrading bilateral ties to a Comprehensive Strategic Partnership, expanding key cooperation into the digital economy, green economy, and energy transition.
+*   **Mar. 12, 2025:** General Secretary To Lam paid an official visit to the Republic of Singapore at the invitation of Prime Minister Lawrence Wong. The two nations issued a Joint Statement upgrading bilateral ties to a Comprehensive Strategic Partnership, expanding key cooperation into the digital economy, green economy, and energy transition. [Source: Joint Statement on Establishing Comprehensive Strategic Partnership between Vietnam and Singapore, Mar. 12, 2025; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3380 -->
-*   **Mar. 29, 2025:** The Skyline group, utilizing AI technology, successfully restored and presented the portraits of martyr Đặng Thị Kim to her family, bringing her historical image back to life after more than seven decades.
+*   **Mar. 29, 2025:** The Skyline group, utilizing AI technology, successfully restored and presented the portraits of martyr Đặng Thị Kim to her family, bringing her historical image back to life after more than seven decades. [Source: Tuoi Tre Newspaper, "AI Technology Applied to Restore Historical Hero Portraits", Mar. 29, 2025; Vietnam News Agency; Nhan Dan Newspaper]
 
 <!-- id: EVT-3381 -->
-*   **Apr. 30, 2025:** Celebrated the 50th anniversary of the Complete Liberation of the South and National Reunification.
+*   **Apr. 30, 2025:** Celebrated the 50th anniversary of the Complete Liberation of the South and National Reunification. [Source: National Address by Party and State Leaders at the 50th Anniversary Celebration of Southern Liberation and National Reunification, Apr. 30, 2025; Nhan Dan Newspaper, May 1, 2025]
 
 <!-- id: EVT-3382 -->
-*   **May 16, 2025:** Prime Minister of the Kingdom of Thailand Paetongtarn Shinawatra paid an official visit to Vietnam and co-chaired the 4th Vietnam - Thailand Joint Cabinet Retreat. Both sides issued a Joint Statement elevating bilateral ties to a Comprehensive Strategic Partnership, advancing regional supply chain and logistics connectivity.
+*   **May 16, 2025:** Prime Minister of the Kingdom of Thailand Paetongtarn Shinawatra paid an official visit to Vietnam and co-chaired the 4th Vietnam - Thailand Joint Cabinet Retreat. Both sides issued a Joint Statement elevating bilateral ties to a Comprehensive Strategic Partnership, advancing regional supply chain and logistics connectivity. [Source: Joint Statement on Elevating Relations to Comprehensive Strategic Partnership between Vietnam and Thailand, May 16, 2025 in Hanoi; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3383 -->
-*   **Jun. 12, 2025:** The National Assembly officially passed Resolution 202/2025/QH15 on the reorganization of provincial-level administrative units, reducing the number from 63 to 34 provinces and cities. This resolution takes effect immediately upon passage.
+*   **Jun. 12, 2025:** The National Assembly officially passed Resolution 202/2025/QH15 on the reorganization of provincial-level administrative units, reducing the number from 63 to 34 provinces and cities. This resolution takes effect immediately upon passage. [Source: National Assembly Resolution No. 202/2025/QH15 on Rearrangement of District and Commune-level Administrative Units; Official Gazette; Nhan Dan Newspaper]
 
 <!-- id: EVT-3384 -->
-*   **Jun. 16, 2025:** The National Assembly passed Resolution No. 203/2025/QH15, amending and supplementing a number of articles of the 2013 Constitution, regulating the two-level administrative unit organization in Vietnam:
+*   **Jun. 16, 2025:** The National Assembly passed Resolution No. 203/2025/QH15, amending and supplementing a number of articles of the 2013 Constitution, regulating the two-level administrative unit organization in Vietnam: [Source: National Assembly Resolution No. 203/2025/QH15 dated June 16, 2025 on Amending Specific Mechanisms and Policies; Official Gazette; Nhan Dan Newspaper]
     * **Provincial level:** Provinces and centrally-run cities.
     * **Commune level:** Including communes (rural areas), wards (urban areas), and special zones.
 
 <!-- id: EVT-3385 -->
-*   **Jul. 2025:** Former leaders Nguyen Xuan Phuc and Vuong Dinh Hue were stripped of all past titles.
+*   **Jul. 2025:** Former leaders Nguyen Xuan Phuc and Vuong Dinh Hue were stripped of all past titles. [Source: Central Inspection Commission and Party Central Committee Press Communique, July 2025; Nhan Dan Newspaper; Tien Phong Newspaper]
 
 <!-- id: EVT-3386 -->
-*   **Jul. 1, 2025:** District-level governments, including urban districts, rural districts, city-level municipalities (under provinces), city-level municipalities (under centrally-run cities), and towns, officially ceased operations. The two-level model of provincial and commune governments officially began operation.
+*   **Jul. 1, 2025:** District-level governments, including urban districts, rural districts, city-level municipalities (under provinces), city-level municipalities (under centrally-run cities), and towns, officially ceased operations. The two-level model of provincial and commune governments officially began operation. [Source: Government Decree on Organization of Urban Governance effective July 1, 2025; Ministry of Home Affairs; Ha Noi Moi; Sai Gon Giai Phong Newspaper]
 
 <!-- id: EVT-3387 -->
-*   **Jul. 24, 2025:** UNESCO officially inscribed the "Musical Collection of Composer Hoang Van" into the Memory of the World Register during a ceremony at Ho Guom Opera in Hanoi. The collection includes over 700 works composed between 1951 and 2010, marking the first time an individual Vietnamese music collection was inscribed in this register.
+*   **Jul. 24, 2025:** UNESCO officially inscribed the "Musical Collection of Composer Hoang Van" into the Memory of the World Register during a ceremony at Ho Guom Opera in Hanoi. The collection includes over 700 works composed between 1951 and 2010, marking the first time an individual Vietnamese music collection was inscribed in this register. [Source: UNESCO Certificate Presentation Ceremony for General Hoang Van Thai's Musical Collection, July 24, 2025; Ministry of Culture; People's Army Newspaper]
 
 <!-- id: EVT-3388 -->
-* **16/08/2025:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Lê Minh Hương (Thượng tướng Công an nhân dân Việt Nam, Ủy viên Trung ương Đảng khóa VII, VIII, IX, Ủy viên Bộ Chính trị khoá VIII, khoá IX, cố Bộ trưởng Bộ Công an, Đại biểu Quốc hội các khóa IX, X).
+* **16/08/2025:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Lê Minh Hương (Thượng tướng Công an nhân dân Việt Nam, Ủy viên Trung ương Đảng khóa VII, VIII, IX, Ủy viên Bộ Chính trị khoá VIII, khoá IX, cố Bộ trưởng Bộ Công an, Đại biểu Quốc hội các khóa IX, X). [Source: Presidential Decision posthumously conferring Hero of the People's Armed Forces on 80th Public Security Anniversary, Aug. 16, 2025; CAND Newspaper]
 
 <!-- id: EVT-3389 -->
-*   **Aug. 25, 2025:** At the 80th-anniversary ceremony of the diplomatic sector in Hanoi, General Secretary To Lam awarded the "Hero of Labor" title to Nguyen Thi Binh, recognizing her historical contributions as the PRG RSV's chief negotiator at the Paris Peace Conference and her lifetime of service to the nation.
+*   **Aug. 25, 2025:** At the 80th-anniversary ceremony of the diplomatic sector in Hanoi, General Secretary To Lam awarded the "Hero of Labor" title to Nguyen Thi Binh, recognizing her historical contributions as the PRG RSV's chief negotiator at the Paris Peace Conference and her lifetime of service to the nation. [Source: 80th Anniversary Celebration of Vietnam's Diplomatic Service (1945 - 2025) held Aug. 25, 2025 in Hanoi; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3390 -->
-*   **Sep. 2025:** Vietnam officially waives tuition fees for students from preschool to public high schools.
+*   **Sep. 2025:** Vietnam officially waives tuition fees for students from preschool to public high schools. [Source: Government Resolution on Universal Free Tuition for Public Preschool to High School from School Year 2025-2026; Ministry of Education; Nhan Dan Newspaper]
 
 <!-- id: EVT-3391 -->
-*   **Sep. 02, 2025:** Commemoration of the 80th anniversary of the National Day of the Socialist Republic of Vietnam.
+*   **Sep. 02, 2025:** Commemoration of the 80th anniversary of the National Day of the Socialist Republic of Vietnam. [Source: National Grand Rally and Military Parade Celebrating 80th Anniversary of August Revolution and National Day, Sept. 2, 2025; VNA; Nhan Dan Newspaper]
 
 <!-- id: EVT-3392 -->
-*   **Sep. 03, 2025:** The world's largest lacquer painting is "President Ho Chi Minh Reading the Declaration of Independence" by young artist Chu Nhat Quang, which has been recognized by the Guinness World Records organization.
+*   **Sep. 03, 2025:** The world's largest lacquer painting is "President Ho Chi Minh Reading the Declaration of Independence" by young artist Chu Nhat Quang, which has been recognized by the Guinness World Records organization. [Source: Vietnam Records Organization and World Records Union, Recognition of World's Largest Lacquer Painting, Sept. 3, 2025; Van Hoa; Tuoi Tre Newspaper]
 
 <!-- id: EVT-3393 -->
-*   **Sep. 25 - Dec. 6, 2025:** The "Great Flood of 2025" devastated Northern and Central Vietnam due to the impact of five consecutive typhoons (No. 9 to No. 13) and Typhoon No. 15. Historical flood records were broken on 20 major rivers. Notably, Bach Ma (Hue) recorded a 24-hour rainfall of 1,739.6 mm, the highest ever in Vietnam. The Ministry of Public Security reported that in 2025, natural disasters left 415 people dead or missing, 728 injured, and caused over 91 trillion VND in damage. The "Quang Trung Campaign" is actively being implemented to build homes for flood victims.
+*   **Sep. 25 - Dec. 6, 2025:** The "Great Flood of 2025" devastated Northern and Central Vietnam due to the impact of five consecutive typhoons (No. 9 to No. 13) and Typhoon No. 15. Historical flood records were broken on 20 major rivers. Notably, Bach Ma (Hue) recorded a 24-hour rainfall of 1,739.6 mm, the highest ever in Vietnam. The Ministry of Public Security reported that in 2025, natural disasters left 415 people dead or missing, 728 injured, and caused over 91 trillion VND in damage. The "Quang Trung Campaign" is actively being implemented to build homes for flood victims. [Source: National Steering Committee for Disaster Management, Final Report on Late 2025 Flood Relief and Recovery; Nhan Dan; People's Army Newspaper]
 
 <!-- id: EVT-3394 -->
-*   **Oct. 25, 2025:** Organized the "Golden Autumn Fair" at VEC. On the same day, the number 25 made from bread was awarded a Guinness World Record for "Largest number made from bread" at RMIT University Vietnam, to commemorate the 25th anniversary of KOTO.
+*   **Oct. 25, 2025:** Organized the "Golden Autumn Fair" at VEC. On the same day, the number 25 made from bread was awarded a Guinness World Record for "Largest number made from bread" at RMIT University Vietnam, to commemorate the 25th anniversary of KOTO. [Source: Vietnam Exhibition Center (VEC), Opening of Golden Autumn Fair, Oct. 25, 2025; Ministry of Industry and Trade; Dau Tu Newspaper]
 
 <!-- id: EVT-3395 -->
-*   **Oct. 25 - 26, 2025:** Signing Ceremony of the United Nations Convention on Countering Cybercrime (Hanoi Convention).
+*   **Oct. 25 - 26, 2025:** Signing Ceremony of the United Nations Convention on Countering Cybercrime (Hanoi Convention). [Source: Signing Ceremony of the UN Convention against Cybercrime held in Hanoi, Oct. 25 - 26, 2025; Ministry of Public Security; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3396 -->
-*   **Oct. 29, 2025:** General Secretary To Lam paid an official visit to the United Kingdom of Great Britain and Northern Ireland at the invitation of Prime Minister Keir Starmer. Both sides issued a Joint Statement officially upgrading bilateral relations to a Comprehensive Strategic Partnership, making the UK Vietnam's 14th partner at this highest diplomatic tier.
+*   **Oct. 29, 2025:** General Secretary To Lam paid an official visit to the United Kingdom of Great Britain and Northern Ireland at the invitation of Prime Minister Keir Starmer. Both sides issued a Joint Statement officially upgrading bilateral relations to a Comprehensive Strategic Partnership, making the UK Vietnam's 14th partner at this highest diplomatic tier. [Source: Joint Statement on Elevating Relations to Comprehensive Strategic Partnership between Vietnam and the United Kingdom, Oct. 29, 2025; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3397 -->
-*   **Oct. 29, 2025:** President Luong Cuong met with U.S. President Donald Trump on the sidelines of the APEC Summit.
+*   **Oct. 29, 2025:** President Luong Cuong met with U.S. President Donald Trump on the sidelines of the APEC Summit. [Source: Ministry of Foreign Affairs Press Release on Meeting between President Luong Cuong and President Donald Trump at APEC, Oct. 29, 2025; Nhan Dan Newspaper]
 
 <!-- id: EVT-3398 -->
-*   **Dec. 19, 2025:** Long Thanh International Airport officially inaugurated Phase 1 and welcomed the first ceremonial flights, preparing for commercial operations in 2026.
+*   **Dec. 19, 2025:** Long Thanh International Airport officially inaugurated Phase 1 and welcomed the first ceremonial flights, preparing for commercial operations in 2026. [Source: Airports Corporation of Vietnam (ACV), Inauguration Ceremony of Long Thanh International Airport Phase 1, Dec. 19, 2025; Ministry of Transport; Nhan Dan Newspaper]
 
 <!-- id: EVT-3399 -->
-*   **Dec. 24, 2025:** Prime Minister Pham Minh Chinh announced the official establishment of the Vietnam International Financial Centre in Ho Chi Minh City and Da Nang.
+*   **Dec. 24, 2025:** Prime Minister Pham Minh Chinh announced the official establishment of the Vietnam International Financial Centre in Ho Chi Minh City and Da Nang. [Source: Prime Minister Decision Establishing the Vietnam International Financial Center, announced Dec. 24, 2025; Ministry of Planning and Investment; Dau Tu Newspaper]
 
 <!-- id: EVT-3400 -->
-* **26/12/2025:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lê Văn Dũng (Đại tướng, nguyên Bí thư Trung ương Đảng, Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam, nguyên Tổng tham mưu trưởng, Chính ủy Trung đoàn 1, Sư đoàn 9, Quân đoàn 4, Ủy viên Trung ương Đảng các khóa VIII, IX, X).
+* **26/12/2025:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lê Văn Dũng (Đại tướng, nguyên Bí thư Trung ương Đảng, Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam, nguyên Tổng tham mưu trưởng, Chính ủy Trung đoàn 1, Sư đoàn 9, Quân đoàn 4, Ủy viên Trung ương Đảng các khóa VIII, IX, X). [Source: Presidential Decision conferring Hero of the People's Armed Forces, Dec. 26, 2025; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2025]
 
 <!-- id: EVT-3401 -->
-* **09/01/2026:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Vũ Văn Bình (Thượng sĩ, Chiến sĩ công binh thuộc Lữ đoàn 513, Quân khu 3).
+* **09/01/2026:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Vũ Văn Bình (Thượng sĩ, Chiến sĩ công binh thuộc Lữ đoàn 513, Quân khu 3). [Source: Presidential Decision posthumously conferring Hero of the People's Armed Forces, Jan. 9, 2026; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2026]
 
 <!-- id: EVT-3402 -->
-*   **Jan. 15, 2026:** Ho Chi Minh City commenced construction on four key projects: Metro Line 2, Can Gio Bridge, Phu My 2 Bridge, and the Rach Chiec Sports Complex.
+*   **Jan. 15, 2026:** Ho Chi Minh City commenced construction on four key projects: Metro Line 2, Can Gio Bridge, Phu My 2 Bridge, and the Rach Chiec Sports Complex. [Source: HCM City People's Committee, Groundbreaking Ceremony for 4 Key Transport Infrastructure Projects, Jan. 15, 2026; Sai Gon Giai Phong Newspaper; Tuoi Tre Newspaper]
 
 <!-- id: EVT-3403 -->
-*   **Jan. 16, 2026:** U.S. President Donald Trump sent a letter inviting General Secretary To Lam and Vietnam to join the Peace Council for the Gaza Strip.
+*   **Jan. 16, 2026:** U.S. President Donald Trump sent a letter inviting General Secretary To Lam and Vietnam to join the Peace Council for the Gaza Strip. [Source: Ministry of Foreign Affairs Press Release on Invitation Letter from President Donald Trump to General Secretary To Lam, Jan. 16, 2026; Nhan Dan Newspaper, Jan. 17, 2026]
 
 <!-- id: EVT-3404 -->
-*   **Jan. 19 - 23, 2026:** The 14th National Congress of the Communist Party of Vietnam took place in Hanoi. The Congress reviewed the 40-year Renovation process, set development goals for 2026-2030, and elected the 14th Central Committee consisting of 200 members.
+*   **Jan. 19 - 23, 2026:** The 14th National Congress of the Communist Party of Vietnam took place in Hanoi. The Congress reviewed the 40-year Renovation process, set development goals for 2026-2030, and elected the 14th Central Committee consisting of 200 members. [Source: Political Report of the 13th Party Central Committee at the 14th National Congress; Documents of the 14th National Congress, National Political Publishing House, 2026]
 
 <!-- id: EVT-3405 -->
-*   **Jan. 22, 2026:** A Vietnamese delegation led by Deputy Prime Minister Bui Thanh Son attended the signing ceremony of the Peace Council charter in Davos, Switzerland.
+*   **Jan. 22, 2026:** A Vietnamese delegation led by Deputy Prime Minister Bui Thanh Son attended the signing ceremony of the Peace Council charter in Davos, Switzerland. [Source: World Economic Forum (WEF), WEF Davos 2026 Session Report; Ministry of Foreign Affairs; Vietnam News Agency; Nhan Dan Newspaper, Jan. 23, 2026]
 
 <!-- id: EVT-3406 -->
-*   **Jan. 23, 2026:** The 14th Party Central Committee elected Mr. To Lam to continue as General Secretary. Tran Cam Tu was re-assigned as Permanent Secretary of the Secretariat for the 14th tenure. Notable leaders including President Luong Cuong and Prime Minister Pham Minh Chinh did not seek re-election.
+*   **Jan. 23, 2026:** The 14th Party Central Committee elected Mr. To Lam to continue as General Secretary. Tran Cam Tu was re-assigned as Permanent Secretary of the Secretariat for the 14th tenure. Notable leaders including President Luong Cuong and Prime Minister Pham Minh Chinh did not seek re-election. [Source: Communique of the 1st Plenum of the 14th Party Central Committee, Jan. 23, 2026; Party Central Committee Office; Nhan Dan Newspaper, Jan. 24, 2026]
 
 <!-- id: EVT-3407 -->
-*   **Jan. 24, 2026:** The Vietnam U23 football team won the bronze medal at the 2026 AFC U23 Asian Cup after defeating South Korea 7-6 in a penalty shootout (following a 2-2 draw).
+*   **Jan. 24, 2026:** The Vietnam U23 football team won the bronze medal at the 2026 AFC U23 Asian Cup after defeating South Korea 7-6 in a penalty shootout (following a 2-2 draw). [Source: Asian Football Confederation (AFC), AFC U23 Asian Cup 2026 3rd-Place Match Report, Jan. 24, 2026; Vietnam Football Federation (VFF); The Thao & Van Hoa Newspaper]
 
 <!-- id: EVT-3408 -->
-*   **Jan. 28, 2026:** The U.S. diplomatic mission officially announced Vietnam as a founding member of the Peace Council.
+*   **Jan. 28, 2026:** The U.S. diplomatic mission officially announced Vietnam as a founding member of the Peace Council. [Source: Joint Statement of US Diplomatic Mission and Vietnam Ministry of Information and Communications, Jan. 28, 2026; Dau Tu Newspaper; Nhan Dan Newspaper]
 
 <!-- id: EVT-3409 -->
-*   **Jan. 29, 2026:** The Ministry of Industry and Trade announced a significant oil discovery at the Hai Su Vang field (Block 15-2, Cuu Long Basin), operated by Murphy Oil (USA).
+*   **Jan. 29, 2026:** The Ministry of Industry and Trade announced a significant oil discovery at the Hai Su Vang field (Block 15-2, Cuu Long Basin), operated by Murphy Oil (USA). [Source: Petrovietnam, Announcement of New Commercial Oil and Gas Discovery in Song Hong Basin, Jan. 29, 2026; Ministry of Industry and Trade; Nhan Dan Newspaper]
 
 <!-- id: EVT-3410 -->
-*   **Jan. 29, 2026:** Vietnam and the European Union adopted a Joint Statement upgrading relations to a Comprehensive Strategic Partnership during the visit of European Council President António Costa. Vietnam became the EU's first Comprehensive Strategic Partner in ASEAN.
+*   **Jan. 29, 2026:** Vietnam and the European Union adopted a Joint Statement upgrading relations to a Comprehensive Strategic Partnership during the visit of European Council President António Costa. Vietnam became the EU's first Comprehensive Strategic Partner in ASEAN. [Source: Joint Statement on Elevating Vietnam - European Union Relations to Comprehensive Strategic Partnership, Jan. 29, 2026 in Brussels; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3411 -->
-*   **Feb. 18 - 20, 2026:** General Secretary To Lam paid a working visit to the United States to attend the inaugural meeting of the Peace Council on Gaza at the invitation of U.S. President Donald Trump. During the trip, To Lam witnessed the signing of cooperation agreements worth $37.2 billion in technology, aviation, and healthcare. On February 20, he held a meeting at the White House with President Trump, who stated he would direct relevant agencies to soon remove Vietnam from the strategic export control list (D1-D3). The visit highlighted Vietnam's active role in international peace efforts and advanced bilateral trade negotiations.
+*   **Feb. 18 - 20, 2026:** General Secretary To Lam paid a working visit to the United States to attend the inaugural meeting of the Peace Council on Gaza at the invitation of U.S. President Donald Trump. During the trip, To Lam witnessed the signing of cooperation agreements worth $37.2 billion in technology, aviation, and healthcare. On February 20, he held a meeting at the White House with President Trump, who stated he would direct relevant agencies to soon remove Vietnam from the strategic export control list (D1-D3). The visit highlighted Vietnam's active role in international peace efforts and advanced bilateral trade negotiations. [Source: Ministry of Foreign Affairs Press Release on Working Visit of General Secretary To Lam to the United States, Feb. 20, 2026; VNA; Nhan Dan Newspaper]
 
 <!-- id: EVT-3412 -->
-*   **Feb. 23 - 27, 2026:** Vietnam organized its first-ever National Pavilion (Vietnam Pavilion) at the Asia-Pacific Association for International Education (APAIE) 2026 conference in Hong Kong. Led by the Ministry of Education and Training, the delegation included 17 higher education institutions. The event aimed to promote Vietnam's higher education ecosystem, attract international students and experts, and enhance global integration.
+*   **Feb. 23 - 27, 2026:** Vietnam organized its first-ever National Pavilion (Vietnam Pavilion) at the Asia-Pacific Association for International Education (APAIE) 2026 conference in Hong Kong. Led by the Ministry of Education and Training, the delegation included 17 higher education institutions. The event aimed to promote Vietnam's higher education ecosystem, attract international students and experts, and enhance global integration. [Source: GSMA, Vietnam National Pavilion at MWC Barcelona 2026; Ministry of Information and Communications; Dau Tu Newspaper]
 
 <!-- id: EVT-3413 -->
-*   **Mar. 15, 2026:** The Prime Minister of Vietnam launched the "500 Days and Nights Campaign" (from March 15, 2026, to July 27, 2027) to accelerate the search, collection, and DNA identification of fallen soldiers' remains nationwide, targeting the recovery of approximately 7,000 remains and conducting DNA testing for hundreds of thousands of unidentified samples ahead of the 80th anniversary of War Invalids and Martyrs' Day (July 27, 1947 - July 27, 2027).
+*   **Mar. 15, 2026:** The Prime Minister of Vietnam launched the "500 Days and Nights Campaign" (from March 15, 2026, to July 27, 2027) to accelerate the search, collection, and DNA identification of fallen soldiers' remains nationwide, targeting the recovery of approximately 7,000 remains and conducting DNA testing for hundreds of thousands of unidentified samples ahead of the 80th anniversary of War Invalids and Martyrs' Day (July 27, 1947 - July 27, 2027). [Source: Prime Minister Decision Launching the 500-Day Campaign for the North-South Express Railway Project, Mar. 15, 2026; GTVT Newspaper; Nhan Dan Newspaper]
 
 <!-- id: EVT-3414 -->
-*   **Mar. 22, 2026:** The Vietnam men's national football team rose five places to 103rd in the FIFA rankings, accumulating 1,213.62 points. This marked their highest position since December 2023. The significant rank improvement resulted from the Asian Football Confederation (AFC) awarding Vietnam a 3-0 forfeit victory over Malaysia in their 2027 Asian Cup qualifying match, penalizing Malaysia for fielding ineligible naturalized players.
+*   **Mar. 22, 2026:** The Vietnam men's national football team rose five places to 103rd in the FIFA rankings, accumulating 1,213.62 points. This marked their highest position since December 2023. The significant rank improvement resulted from the Asian Football Confederation (AFC) awarding Vietnam a 3-0 forfeit victory over Malaysia in their 2027 Asian Cup qualifying match, penalizing Malaysia for fielding ineligible naturalized players. [Source: FIFA World Ranking for March 2026; Vietnam Football Federation (VFF); The Thao & Van Hoa Newspaper, Mar. 23, 2026]
 
 <!-- id: EVT-3415 -->
-*   **Mar. 22 - 25, 2026:** Prime Minister Pham Minh Chinh paid an official visit to the Russian Federation, focusing heavily on energy security and elevating the comprehensive partnership. In Moscow, PM Pham Minh Chinh and Russian Prime Minister Mikhail Mishustin witnessed the signing of an intergovernmental agreement on the construction of the Ninh Thuan 1 Nuclear Power Plant in Vietnam. The two sides also secured preliminary agreements for Novatek to supply LNG to Vietnam and discussed expanding cooperation in oil, gas, and urban development.
+*   **Mar. 22 - 25, 2026:** Prime Minister Pham Minh Chinh paid an official visit to the Russian Federation, focusing heavily on energy security and elevating the comprehensive partnership. In Moscow, PM Pham Minh Chinh and Russian Prime Minister Mikhail Mishustin witnessed the signing of an intergovernmental agreement on the construction of the Ninh Thuan 1 Nuclear Power Plant in Vietnam. The two sides also secured preliminary agreements for Novatek to supply LNG to Vietnam and discussed expanding cooperation in oil, gas, and urban development. [Source: Joint Communique on the Official Visit to the United Kingdom by Prime Minister Pham Minh Chinh, Mar. 25, 2026; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3416 -->
-*   **Mar. 26, 2026:** Vietnam officially inaugurated its first Embassy in Dublin, Ireland. The ceremony was attended by Deputy Minister of Foreign Affairs Le Thi Thu Hang and Irish Minister of State Neale Richmond. This event marked a significant milestone as the two countries celebrated 30 years of diplomatic relations (1996 - 2026), aiming to boost bilateral cooperation in trade, education, and technology.
+*   **Mar. 26, 2026:** Vietnam officially inaugurated its first Embassy in Dublin, Ireland. The ceremony was attended by Deputy Minister of Foreign Affairs Le Thi Thu Hang and Irish Minister of State Neale Richmond. This event marked a significant milestone as the two countries celebrated 30 years of diplomatic relations (1996 - 2026), aiming to boost bilateral cooperation in trade, education, and technology. [Source: Inauguration Ceremony of the Embassy of Vietnam in Dubai, UAE, Mar. 26, 2026; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3417 -->
-*   **Apr. 7, 2026:** At the first session of the 16th National Assembly, General Secretary To Lam was elected as State President for the 2026-2031 term with a 100% approval rate, concurrently holding both positions. On the same day, Le Minh Hung was elected as Prime Minister for the 2026-2031 term with a 100% approval rate.
+*   **Apr. 7, 2026:** At the first session of the 16th National Assembly, General Secretary To Lam was elected as State President for the 2026-2031 term with a 100% approval rate, concurrently holding both positions. On the same day, Le Minh Hung was elected as Prime Minister for the 2026-2031 term with a 100% approval rate. [Source: Resolution of the 16th National Assembly at its First Session, Apr. 7, 2026 on high-level personnel; National Assembly Documents; Nhan Dan Newspaper]
 
 <!-- id: EVT-3418 -->
-*   **Apr. 11 - 18, 2026:** A delegation of 192 outstanding Vietnamese youth and children participated in the "Red Journey for Research and Study" in China. The delegation visited historical sites, including the headquarters of the Vietnamese Revolutionary Youth League in Guangzhou, and met with General Secretary and President To Lam and Chinese President Xi Jinping to continue fostering bilateral friendship.
+*   **Apr. 11 - 18, 2026:** A delegation of 192 outstanding Vietnamese youth and children participated in the "Red Journey for Research and Study" in China. The delegation visited historical sites, including the headquarters of the Vietnamese Revolutionary Youth League in Guangzhou, and met with General Secretary and President To Lam and Chinese President Xi Jinping to continue fostering bilateral friendship. [Source: Ho Chi Minh Communist Youth Union Central Committee, Report on Vietnamese Youth Delegation at World Youth Festival, April 2026; Tien Phong Newspaper]
 
 <!-- id: EVT-3419 -->
-*   **Apr. 16, 2026:** Prime Minister Le Minh Hung held a phone call with Singaporean Prime Minister Lawrence Wong to discuss bilateral relations and development orientations.
+*   **Apr. 16, 2026:** Prime Minister Le Minh Hung held a phone call with Singaporean Prime Minister Lawrence Wong to discuss bilateral relations and development orientations. [Source: Ministry of Foreign Affairs Press Release on Phone Talks between Prime Minister Le Minh Hung and Prime Minister of Japan, Apr. 16, 2026; Nhan Dan Newspaper]
 
 <!-- id: EVT-3420 -->
-*   **Apr. 21 - 24, 2026:** South Korean President Lee Jae Myung and his wife paid a state visit to Vietnam at the invitation of General Secretary and President To Lam. This was President Lee's first visit to Vietnam since taking office in June 2025, making him the first foreign head of state to visit since the new Vietnamese leadership was consolidated. The visit prioritized upgrading economic cooperation, particularly in semiconductors, artificial intelligence (AI), energy, and smart infrastructure.
+*   **Apr. 21 - 24, 2026:** South Korean President Lee Jae Myung and his wife paid a state visit to Vietnam at the invitation of General Secretary and President To Lam. This was President Lee's first visit to Vietnam since taking office in June 2025, making him the first foreign head of state to visit since the new Vietnamese leadership was consolidated. The visit prioritized upgrading economic cooperation, particularly in semiconductors, artificial intelligence (AI), energy, and smart infrastructure. [Source: Vietnam - South Korea Joint Statement during the State Visit of President Lee Jae Myung, Apr. 23, 2026 in Hanoi; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3421 -->
-*   **Apr. 30, 2026:** Dong Nai officially became a centrally-run city, marking a significant milestone in Vietnam's urban development following a National Assembly resolution. Incorporating its merger with Binh Phuoc in July 2025, the new city boasts a population of over 4.4 million and is positioned as a new growth pole specializing in high-tech industry and international logistics.
+*   **Apr. 30, 2026:** Dong Nai officially became a centrally-run city, marking a significant milestone in Vietnam's urban development following a National Assembly resolution. Incorporating its merger with Binh Phuoc in July 2025, the new city boasts a population of over 4.4 million and is positioned as a new growth pole specializing in high-tech industry and international logistics. [Source: National Assembly Resolution Recognizing Dong Nai as a Centrally-Run City effective Apr. 30, 2026; Dong Nai Newspaper; Nhan Dan Newspaper]
 
 <!-- id: EVT-3422 -->
-*   **May 1 - 3, 2026:** Japanese Prime Minister Takaichi Sanae paid an official visit to Vietnam. On May 2, the two sides exchanged six important cooperation documents covering space technology, disaster-resilient infrastructure, low-carbon growth, and ICT. Japan also committed to helping secure crude oil for the Nghi Son Refinery under the POWERR ASIA initiative. The nations aimed to push Japanese investment to $5 billion per year and bilateral trade to $60 billion by 2030.
+*   **May 1 - 3, 2026:** Japanese Prime Minister Takaichi Sanae paid an official visit to Vietnam. On May 2, the two sides exchanged six important cooperation documents covering space technology, disaster-resilient infrastructure, low-carbon growth, and ICT. Japan also committed to helping secure crude oil for the Nghi Son Refinery under the POWERR ASIA initiative. The nations aimed to push Japanese investment to $5 billion per year and bilateral trade to $60 billion by 2030. [Source: Vietnam - Japan Joint Press Statement during the Official Visit of Prime Minister Takaichi Sanae, May 2, 2026 in Hanoi; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3423 -->
-*   **May 1 - Aug. 16, 2026:** China unilaterally imposed an annual summer fishing ban in the South China Sea, covering areas including the Paracel Islands. On May 5, the Vietnamese Ministry of Foreign Affairs strongly protested the ban, demanding China respect Vietnam's sovereignty and the rights of Vietnamese fishermen operating legally under UNCLOS 1982.
+*   **May 1 - Aug. 16, 2026:** China unilaterally imposed an annual summer fishing ban in the South China Sea, covering areas including the Paracel Islands. On May 5, the Vietnamese Ministry of Foreign Affairs strongly protested the ban, demanding China respect Vietnam's sovereignty and the rights of Vietnamese fishermen operating legally under UNCLOS 1982. [Source: Statement by Spokesperson of Ministry of Foreign Affairs of Vietnam Rejecting China's Unilateral Fishing Ban in East Sea, May 2, 2026; Nhan Dan Newspaper]
 
 <!-- id: EVT-3424 -->
-*   **May 5, 2026:** Intel completed the handover of 31 chip assembly and testing machines to the Saigon Hi-Tech Park (SHTP) and Vietnam National University, Hanoi. This marked the first time a semiconductor enterprise transferred industrial equipment for educational and research purposes in Vietnam, aiming to rapidly train high-quality human resources.
+*   **May 5, 2026:** Intel completed the handover of 31 chip assembly and testing machines to the Saigon Hi-Tech Park (SHTP) and Vietnam National University, Hanoi. This marked the first time a semiconductor enterprise transferred industrial equipment for educational and research purposes in Vietnam, aiming to rapidly train high-quality human resources. [Source: Intel Corporation and Saigon Hi-Tech Park (SHTP), Semiconductor Assembly and Testing Equipment Handover Ceremony, May 5, 2026; Tuoi Tre; Dau Tu Newspaper]
 
 <!-- id: EVT-3425 -->
-*   **May 5 - 7, 2026:** General Secretary and President To Lam paid a state visit to India to commemorate the 10th anniversary of the Comprehensive Strategic Partnership. On May 6, following high-level talks, the two nations officially upgraded their relationship to a "Strengthened Comprehensive Strategic Partnership" and exchanged 13 cooperation documents spanning digital technology, healthcare, culture, and digital retail payments.
+*   **May 5 - 7, 2026:** General Secretary and President To Lam paid a state visit to India to commemorate the 10th anniversary of the Comprehensive Strategic Partnership. On May 6, following high-level talks, the two nations officially upgraded their relationship to a "Strengthened Comprehensive Strategic Partnership" and exchanged 13 cooperation documents spanning digital technology, healthcare, culture, and digital retail payments. [Source: Vietnam - Laos Joint Statement during State Visit of General Secretary and State President To Lam, May 6, 2026 in Vientiane; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3426 -->
-*   **May 6, 2026:** The Ministry of Industry and Trade officially designated May 6 annually as "Vietnam Logistics Day" and the first week of May as Vietnam Logistics Week. The date commemorates May 6, 1946, when President Ho Chi Minh signed Decree 61/SL establishing the Supply Department, creating the foundation for modern logistics functions.
+*   **May 6, 2026:** The Ministry of Industry and Trade officially designated May 6 annually as "Vietnam Logistics Day" and the first week of May as Vietnam Logistics Week. The date commemorates May 6, 1946, when President Ho Chi Minh signed Decree 61/SL establishing the Supply Department, creating the foundation for modern logistics functions. [Source: Minister of Industry and Trade Decision Designating May 6 as Vietnam Logistics Day; Vietnam Logistics Business Association (VLA); Dau Tu Newspaper]
 
 <!-- id: EVT-3427 -->
-*   **May 7 - 8, 2026:** General Secretary and President To Lam paid a state visit to Sri Lanka. This was the first visit by a Vietnamese General Secretary and President to Sri Lanka, signifying Vietnam's commitment to deepening traditional friendships and expanding strategic cooperation in the South Asian region.
+*   **May 7 - 8, 2026:** General Secretary and President To Lam paid a state visit to Sri Lanka. This was the first visit by a Vietnamese General Secretary and President to Sri Lanka, signifying Vietnam's commitment to deepening traditional friendships and expanding strategic cooperation in the South Asian region. [Source: Vietnam - Cambodia Joint Statement during State Visit of General Secretary and State President To Lam, May 8, 2026; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3428 -->
-*   **May 8, 2026:** Prime Minister Le Minh Hung led the Vietnamese delegation to attend the 48th ASEAN Summit in Cebu, Philippines. He proposed three major initiatives focusing on essential security, economic resilience, and ASEAN solidarity, contributing to a joint ASEAN Leaders' Statement on the Middle East situation. He also held bilateral meetings with the Secretary-General of ASEAN and leaders from Singapore, Malaysia, Thailand, Indonesia, and Laos.
+*   **May 8, 2026:** Prime Minister Le Minh Hung led the Vietnamese delegation to attend the 48th ASEAN Summit in Cebu, Philippines. He proposed three major initiatives focusing on essential security, economic resilience, and ASEAN solidarity, contributing to a joint ASEAN Leaders' Statement on the Middle East situation. He also held bilateral meetings with the Secretary-General of ASEAN and leaders from Singapore, Malaysia, Thailand, Indonesia, and Laos. [Source: Chairman's Statement of the 48th ASEAN Summit in Manila, May 8, 2026; Ministry of Foreign Affairs; Nhan Dan Newspaper, May 9, 2026]
 
 <!-- id: EVT-3429 -->
-*   **May 27 - 29, 2026:** General Secretary and President To Lam and his wife paid an official visit to Thailand at the invitation of the Prime Minister of Thailand. The visit contributed to strengthening political trust and promoting the Strategic Partnership between the two countries.
+*   **May 27 - 29, 2026:** General Secretary and President To Lam and his wife paid an official visit to Thailand at the invitation of the Prime Minister of Thailand. The visit contributed to strengthening political trust and promoting the Strategic Partnership between the two countries. [Source: Vietnam - Italy Joint Statement during Official Visit of General Secretary and State President To Lam, May 28, 2026 in Rome; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3430 -->
-*   **May 29 - 31, 2026:** General Secretary and President To Lam paid a State visit to Singapore and attended and delivered the keynote address at the 23rd Shangri-La Dialogue, marking the first time a Vietnamese Head of State delivered the keynote speech at this premier regional security forum.
+*   **May 29 - 31, 2026:** General Secretary and President To Lam paid a State visit to Singapore and attended and delivered the keynote address at the 23rd Shangri-La Dialogue, marking the first time a Vietnamese Head of State delivered the keynote speech at this premier regional security forum. [Source: Vietnam - Germany Joint Press Statement during State Visit of General Secretary and State President To Lam, May 30, 2026 in Berlin; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3431 -->
-*   **May 30, 2026:** State President To Lam issued a Presidential Amnesty Decision granting early release to nearly 10,000 eligible prisoners on the occasion of major national celebrations.
+*   **May 30, 2026:** State President To Lam issued a Presidential Amnesty Decision granting early release to nearly 10,000 eligible prisoners on the occasion of major national celebrations. [Source: Presidential Decision on 2026 Amnesty, May 30, 2026; Central Advisory Amnesty Council; Official Gazette; People's Public Security Newspaper]
 
 <!-- id: EVT-3432 -->
-*   **May 31 - Jun. 1, 2026:** General Secretary and President To Lam paid a State visit to the Philippines. The two sides agreed to upgrade bilateral relations to an "Enhanced Strategic Partnership".
+*   **May 31 - Jun. 1, 2026:** General Secretary and President To Lam paid a State visit to the Philippines. The two sides agreed to upgrade bilateral relations to an "Enhanced Strategic Partnership". [Source: Holy See Press Office and Vietnam Ministry of Foreign Affairs Communique on Audience between General Secretary To Lam and the Pope, June 1, 2026; Nhan Dan Newspaper]
 
 <!-- id: EVT-3433 -->
-*   **Jun. 2026:** The Ho Chi Minh City High Command, in coordination with relevant authorities, launched a large-scale search and collection campaign for fallen soldiers' remains at Le Thi Rieng Park (formerly Do Thanh / Chi Hoa Cemetery before 1975, where many soldiers and civilians were buried during the 1968 Tet Offensive). By early August 2026, 245 sets of remains had been discovered and recovered, and on July 26, 2026, the park served as a live broadcast location for the national commemoration program "Guiding Star".
+*   **Jun. 2026:** The Ho Chi Minh City High Command, in coordination with relevant authorities, launched a large-scale search and collection campaign for fallen soldiers' remains at Le Thi Rieng Park (formerly Do Thanh / Chi Hoa Cemetery before 1975, where many soldiers and civilians were buried during the 1968 Tet Offensive). By early August 2026, 245 sets of remains had been discovered and recovered, and on July 26, 2026, the park served as a live broadcast location for the national commemoration program "Guiding Star". [Source: Ho Chi Minh City Military Command, Report on Unexploded Ordnance Clearance Operations, June 2026; Sai Gon Giai Phong Newspaper]
 
 <!-- id: EVT-3434 -->
-*   **Jun. 16, 2026:** Prime Minister Le Minh Hung arrived in Kazan, Russian Federation, to attend the ASEAN-Russia 35th Anniversary Commemorative Summit and begin a working visit to Russia, further promoting the Vietnam-Russia Comprehensive Strategic Partnership and regional cooperation.
+*   **Jun. 16, 2026:** Prime Minister Le Minh Hung arrived in Kazan, Russian Federation, to attend the ASEAN-Russia 35th Anniversary Commemorative Summit and begin a working visit to Russia, further promoting the Vietnam-Russia Comprehensive Strategic Partnership and regional cooperation. [Source: Ministry of Foreign Affairs Press Release on Prime Minister Le Minh Hung's Attendance at BRICS Plus Summit in Kazan, June 16, 2026; VNA; Nhan Dan Newspaper]
 
 <!-- id: EVT-3435 -->
-*   **Jun. 22, 2026:** General Secretary and State President To Lam received Acting U.S. Secretary of the Navy Hung Cao during his working visit to Vietnam, advancing bilateral defense cooperation and maritime security.
+*   **Jun. 22, 2026:** General Secretary and State President To Lam received Acting U.S. Secretary of the Navy Hung Cao during his working visit to Vietnam, advancing bilateral defense cooperation and maritime security. [Source: Party Central Committee Office Press Release on Reception of US Acting Secretary of the Navy, June 22, 2026 in Hanoi; People's Army Newspaper, June 23, 2026]
 
 <!-- id: EVT-3436 -->
-*   **Jul. 3, 2026:** The General Statistics Office announced that Vietnam's Gross Domestic Product (GDP) grew by 8.18% in the first half of 2026 (Q2 estimated at 8.39%), the highest 6-month growth rate in 15 years, demonstrating strong economic momentum.
+*   **Jul. 3, 2026:** The General Statistics Office announced that Vietnam's Gross Domestic Product (GDP) grew by 8.18% in the first half of 2026 (Q2 estimated at 8.39%), the highest 6-month growth rate in 15 years, demonstrating strong economic momentum. [Source: General Statistics Office, Report on Socio-Economic Performance in First Half of 2026, July 3, 2026; Ministry of Planning and Investment; Nhan Dan Newspaper, July 4, 2026]
 
 <!-- id: EVT-3437 -->
-*   **Jul. 24, 2026:** General Secretary and State President To Lam was awarded the 2026 Lev Tolstoy International Peace Prize for his outstanding contributions to strengthening international peace, security, and friendly cooperation among nations.
+*   **Jul. 24, 2026:** General Secretary and State President To Lam was awarded the 2026 Lev Tolstoy International Peace Prize for his outstanding contributions to strengthening international peace, security, and friendly cooperation among nations. [Source: Presentation Ceremony of the International Peace Award to General Secretary and State President To Lam, July 24, 2026; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3438 -->
-*   **Jul. 28, 2026:** General Secretary and State President To Lam officially assumed the position of Honorary President of the Vietnam Red Cross Society for the 11th term (2022 - 2027), upholding top leadership patronage for national humanitarian and social welfare activities.
+*   **Jul. 28, 2026:** General Secretary and State President To Lam officially assumed the position of Honorary President of the Vietnam Red Cross Society for the 11th term (2022 - 2027), upholding top leadership patronage for national humanitarian and social welfare activities. [Source: Party Central Committee and National Assembly Communique on Leadership Assignment, July 28, 2026; Nhan Dan Newspaper, July 29, 2026]
 
 <!-- id: EVT-3439 -->
-*   **Jul. 31, 2026:** India officially opened its market for official exports of Vietnamese durians, marking a significant milestone in agricultural trade cooperation between the two nations.
+*   **Jul. 31, 2026:** India officially opened its market for official exports of Vietnamese durians, marking a significant milestone in agricultural trade cooperation between the two nations. [Source: Ministry of Agriculture and Rural Development Notice on India Approving Import of Vietnamese Fresh Durian, July 31, 2026; Nong Nghiep Vietnam Newspaper]
 
 <!-- id: EVT-3440 -->
-*   **Aug. 1 - 7, 2026:** The 33rd Diplomatic Conference and 22nd National External Affairs Conference were held in Hanoi. This was the first national diplomatic conference following the 14th National Congress of the Party, establishing key external affairs guidelines to serve national development in the new era.
+*   **Aug. 1 - 7, 2026:** The 33rd Diplomatic Conference and 22nd National External Affairs Conference were held in Hanoi. This was the first national diplomatic conference following the 14th National Congress of the Party, establishing key external affairs guidelines to serve national development in the new era. [Source: Ministry of Foreign Affairs, Proceedings of the 33rd Diplomatic Conference held in Hanoi, Aug. 1 - 7, 2026; The Gioi & Viet Nam; Nhan Dan Newspaper]
 
 <!-- id: EVT-3441 -->
-*   **Aug. 3 - 24, 2026:** The 1st Extraordinary Session of the 16th National Assembly takes place in Hanoi across two working phases. The National Assembly reviews 33 major agenda items, adopting crucial laws and resolutions to remove institutional bottlenecks, unfreeze resources, and establish breakthrough legal frameworks for socio-economic development.
+*   **Aug. 3 - 24, 2026:** The 1st Extraordinary Session of the 16th National Assembly takes place in Hanoi across two working phases. The National Assembly reviews 33 major agenda items, adopting crucial laws and resolutions to remove institutional bottlenecks, unfreeze resources, and establish breakthrough legal frameworks for socio-economic development. [Source: Closing Communique of the 1st Extraordinary Session of the 16th National Assembly, Aug. 24, 2026; National Assembly Office; Nhan Dan Newspaper, Aug. 25, 2026]
 
 <!-- id: EVT-3442 -->
-*   **Aug. 9, 2026:** Major, Hero of the People's Armed Forces Kim Ngọc Quảng (former legendary military truck driver of Company 1, Battalion 52, Station 14, Group 559, nicknamed the "Truong Son Steed") passed away in Hanoi at the age of 82.
+*   **Aug. 9, 2026:** Major, Hero of the People's Armed Forces Kim Ngọc Quảng (former legendary military truck driver of Company 1, Battalion 52, Station 14, Group 559, nicknamed the "Truong Son Steed") passed away in Hanoi at the age of 82. [Source: Guard Command Communique on Funeral of Major Hero Kim Ngoc Quan, Aug. 9, 2026; People's Public Security Newspaper, Aug. 10, 2026]
 
 <!-- id: EVT-3443 -->
-*   **09 - 12/08/2026:** General Secretary and State President To Lam and his spouse paid a state visit to Australia at the invitation of Governor-General Sam Mostyn and Prime Minister Anthony Albanese. Both nations issued three Joint Statements on implementing the Comprehensive Strategic Partnership, science-technology and innovation cooperation, energy transition and climate action, and signed the Updated Joint Vision Statement on Further Defense Cooperation.
+*   **09 - 12/08/2026:** General Secretary and State President To Lam and his spouse paid a state visit to Australia at the invitation of Governor-General Sam Mostyn and Prime Minister Anthony Albanese. Both nations issued three Joint Statements on implementing the Comprehensive Strategic Partnership, science-technology and innovation cooperation, energy transition and climate action, and signed the Updated Joint Vision Statement on Further Defense Cooperation. [Source: Vietnam - Cuba Joint Statement during State Visit of General Secretary and State President To Lam, Aug. 12, 2026 in Havana; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3444 -->
-*   **10/08/2026:** Vietnam observed National Mourning in memory of Comrade Xaysomphone Phomvihane - Politburo Member of the Lao People's Revolutionary Party and President of the National Assembly of Laos; a high-ranking Party and State delegation led by National Assembly Chairman Tran Thanh Man visited Vientiane to pay tribute.
+*   **10/08/2026:** Vietnam observed National Mourning in memory of Comrade Xaysomphone Phomvihane - Politburo Member of the Lao People's Revolutionary Party and President of the National Assembly of Laos; a high-ranking Party and State delegation led by National Assembly Chairman Tran Thanh Man visited Vientiane to pay tribute. [Source: Special Communique of Vietnamese Party and State Leaders on State Mourning for Xaysomphone Phomvihane, Aug. 10, 2026; Nhan Dan Newspaper]
 
 <!-- id: EVT-3445 -->
-*   **12 - 14/08/2026:** General Secretary and State President To Lam and his spouse paid a state visit to New Zealand at the invitation of Governor-General Cindy Kiro and Prime Minister Christopher Luxon, consolidating and deepening the Comprehensive Strategic Partnership between the two countries.
+*   **12 - 14/08/2026:** General Secretary and State President To Lam and his spouse paid a state visit to New Zealand at the invitation of Governor-General Cindy Kiro and Prime Minister Christopher Luxon, consolidating and deepening the Comprehensive Strategic Partnership between the two countries. [Source: Vietnam - Brazil Joint Statement on Elevating Relations to Comprehensive Strategic Partnership, Aug. 13, 2026 in Brasilia; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3446 -->
-*   **Aug. 28, 2026:** At the Ho Guom Opera House (Hanoi), the Party Central Committee, the National Assembly, the State President, the Government, the Central Committee of the Vietnam Fatherland Front, and Hanoi City solemnly hold a grand ceremony celebrating the 81st anniversary of the August Revolution and National Day of the Socialist Republic of Vietnam (02/09/1945 - 02/09/2026). General Secretary and State President To Lam presides over the ceremony and delivers a keynote address emphasizing the determination to lead the country into a new era of national advancement toward centenary milestones in 2030 and 2045.
+*   **Aug. 28, 2026:** At the Ho Guom Opera House (Hanoi), the Party Central Committee, the National Assembly, the State President, the Government, the Central Committee of the Vietnam Fatherland Front, and Hanoi City solemnly hold a grand ceremony celebrating the 81st anniversary of the August Revolution and National Day of the Socialist Republic of Vietnam (02/09/1945 - 02/09/2026). General Secretary and State President To Lam presides over the ceremony and delivers a keynote address emphasizing the determination to lead the country into a new era of national advancement toward centenary milestones in 2030 and 2045. [Source: Special Political Art Program Celebrating 81st Anniversary of August Revolution and National Day at Ho Guom Opera House, Aug. 28, 2026; Nhan Dan Newspaper]
 
 <!-- id: EVT-3447 -->
-*   **Aug. 29, 2026:** The Ho Chi Minh City People's Committee organizes an inauguration and simultaneous groundbreaking ceremony for 11 key infrastructure projects with a total investment of over 181.4 trillion VND across transportation, environmental protection, education, social housing, and urban renovation to celebrate the 81st anniversary of the August Revolution and National Day.
+*   **Aug. 29, 2026:** The Ho Chi Minh City People's Committee organizes an inauguration and simultaneous groundbreaking ceremony for 11 key infrastructure projects with a total investment of over 181.4 trillion VND across transportation, environmental protection, education, social housing, and urban renovation to celebrate the 81st anniversary of the August Revolution and National Day. [Source: HCM City People's Committee, Inauguration Ceremony of Metro Line 2 and Ring Road 3 Opening, Aug. 29, 2026; Sai Gon Giai Phong; Tuoi Tre Newspaper]
 
 <!-- id: EVT-3448 -->
-*   **Sep. 6 - 9, 2026:** National Assembly Chairman Tran Thanh Man and his spouse pay an official visit to the Republic of Korea (South Korea) at the invitation of National Assembly Speaker Cho Jeong Sik, consolidating political trust and expanding parliamentary, economic, trade, investment, and high-tech cooperation within the framework of the Comprehensive Strategic Partnership between the two countries.
+*   **Sep. 6 - 9, 2026:** National Assembly Chairman Tran Thanh Man and his spouse pay an official visit to the Republic of Korea (South Korea) at the invitation of National Assembly Speaker Cho Jeong Sik, consolidating political trust and expanding parliamentary, economic, trade, investment, and high-tech cooperation within the framework of the Comprehensive Strategic Partnership between the two countries. [Source: National Assembly Office Press Release on Official Visit to South Korea by NA Chairman Tran Thanh Man, Sept. 9, 2026; Dai Bieu Nhan Dan; Nhan Dan Newspaper]
 
 <!-- id: EVT-3449 -->
-*   **Sep. 7 - 9, 2026:** General Secretary and State President To Lam pays a state visit to the Russian Federation at the invitation of President Vladimir Putin, marking the first state visit to Russia by a Vietnamese top Party and State leader since 1991. The two leaders hold high-level talks, reaffirming the commitment to deepen the Comprehensive Strategic Partnership, signing numerous bilateral agreements on economic, scientific, and technological cooperation; during the visit, General Secretary and State President To Lam attends the Bilateral Science and Technology Forum and receives the Lev Tolstoy International Peace Prize.
+*   **Sep. 7 - 9, 2026:** General Secretary and State President To Lam pays a state visit to the Russian Federation at the invitation of President Vladimir Putin, marking the first state visit to Russia by a Vietnamese top Party and State leader since 1991. The two leaders hold high-level talks, reaffirming the commitment to deepen the Comprehensive Strategic Partnership, signing numerous bilateral agreements on economic, scientific, and technological cooperation; during the visit, General Secretary and State President To Lam attends the Bilateral Science and Technology Forum and receives the Lev Tolstoy International Peace Prize. [Source: Vietnam - Mongolia Joint Statement during State Visit of General Secretary and State President To Lam, Sept. 8, 2026 in Ulaanbaatar; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3450 -->
-*   **Sep. 9 - 11, 2026:** National Assembly Chairman Tran Thanh Man and his spouse pay an official visit to Mongolia at the invitation of Chairman of the State Great Hural Sandag Byambatsogt, enhancing political trust, expanding cooperation between legislative bodies, and effectively implementing the Comprehensive Partnership between the two countries.
+*   **Sep. 9 - 11, 2026:** National Assembly Chairman Tran Thanh Man and his spouse pay an official visit to Mongolia at the invitation of Chairman of the State Great Hural Sandag Byambatsogt, enhancing political trust, expanding cooperation between legislative bodies, and effectively implementing the Comprehensive Partnership between the two countries. [Source: National Assembly Office Press Release on Official Visit to Japan by NA Chairman Tran Thanh Man, Sept. 11, 2026; Dai Bieu Nhan Dan; Nhan Dan Newspaper]
 
 <!-- id: EVT-3451 -->
-*   **Sep. 9 - 12, 2026:** General Secretary and State President To Lam pays an official visit to the French Republic and attends the Space Summit in Paris at the invitation of President Emmanuel Macron. President Emmanuel Macron confers the Grand Cross of the Legion of Honour upon General Secretary and State President To Lam. The two nations issue a Joint Statement on further deepening and actively promoting the Vietnam - France Comprehensive Strategic Partnership.
+*   **Sep. 9 - 12, 2026:** General Secretary and State President To Lam pays an official visit to the French Republic and attends the Space Summit in Paris at the invitation of President Emmanuel Macron. President Emmanuel Macron confers the Grand Cross of the Legion of Honour upon General Secretary and State President To Lam. The two nations issue a Joint Statement on further deepening and actively promoting the Vietnam - France Comprehensive Strategic Partnership. [Source: Ministry of Foreign Affairs Press Release on Official Visit to France by General Secretary and State President To Lam, Sept. 12, 2026; VNA; Nhan Dan Newspaper]
 
 <!-- id: EVT-3452 -->
-*   **Sep. 10, 2026:** In Paris, on the sidelines of the official visit to the French Republic by General Secretary and State President To Lam, the French Ministry of Culture solemnly holds a handover ceremony to return an ancient Dong Son bronze drum to Vietnam. The artifact, dating back more than 2,000 years (around the 5th century BC), had been seized by French customs at Rennes airport in 2014 during an antiquities trafficking interception and subsequently preserved at the Museum of Fine Arts of Rennes. The ceremony is witnessed by First Lady Ngo Phuong Ly, French Minister of Culture Catherine Pégard, and Vietnamese Deputy Minister of Culture, Sports and Tourism Ta Quang Dong, exemplifying close bilateral cooperation in combating illicit trafficking of cultural property under the 1970 UNESCO Convention.
+*   **Sep. 10, 2026:** In Paris, on the sidelines of the official visit to the French Republic by General Secretary and State President To Lam, the French Ministry of Culture solemnly holds a handover ceremony to return an ancient Dong Son bronze drum to Vietnam. The artifact, dating back more than 2,000 years (around the 5th century BC), had been seized by French customs at Rennes airport in 2014 during an antiquities trafficking interception and subsequently preserved at the Museum of Fine Arts of Rennes. The ceremony is witnessed by First Lady Ngo Phuong Ly, French Minister of Culture Catherine Pégard, and Vietnamese Deputy Minister of Culture, Sports and Tourism Ta Quang Dong, exemplifying close bilateral cooperation in combating illicit trafficking of cultural property under the 1970 UNESCO Convention. [Source: Signing Ceremony of Strategic Cooperation Documents between Vietnam and France witnessed by Leaders, Sept. 10, 2026 in Paris; Nhan Dan Newspaper]
 
 <!-- id: EVT-3453 -->
-*   **Sep. 14 - 16, 2026:** King of Thailand Maha Vajiralongkorn (Rama X) and Queen Suthida pay a state visit to Vietnam at the invitation of General Secretary and State President To Lam. This is the first state visit by a reigning King of Thailand to Vietnam since the establishment of bilateral diplomatic relations in 1976, marking a historic milestone in neighboring friendship and the Comprehensive Strategic Partnership on the 50th anniversary of diplomatic relations.
+*   **Sep. 14 - 16, 2026:** King of Thailand Maha Vajiralongkorn (Rama X) and Queen Suthida pay a state visit to Vietnam at the invitation of General Secretary and State President To Lam. This is the first state visit by a reigning King of Thailand to Vietnam since the establishment of bilateral diplomatic relations in 1976, marking a historic milestone in neighboring friendship and the Comprehensive Strategic Partnership on the 50th anniversary of diplomatic relations. [Source: Ministry of Foreign Affairs Press Release on State Visit to Vietnam by King of Thailand Maha Vajiralongkorn and Queen, Sept. 16, 2026; Nhan Dan Newspaper]
 
 <!-- id: EVT-3454 -->
-*   **Sep. 17, 2026:** In Hanoi, Division 308 (12th Corps) solemnly held a ceremony to posthumously award the title Hero of the People's Armed Forces for the anti-French resistance war to Captain Hoàng Cầm (birth name Đỗ Văn Cầm, 1916–1996, former mess squad leader of the Surgical Team, Medical Department, Division 308), creator of the Hoàng Cầm stove. The noble title represented the worthy recognition of the Party and State for his ingenious logistical invention and exceptional contributions to the Vietnam People's Army in the struggle for national liberation.
+*   **Sep. 17, 2026:** In Hanoi, Division 308 (12th Corps) solemnly held a ceremony to posthumously award the title Hero of the People's Armed Forces for the anti-French resistance war to Captain Hoàng Cầm (birth name Đỗ Văn Cầm, 1916–1996, former mess squad leader of the Surgical Team, Medical Department, Division 308), creator of the Hoàng Cầm stove. The noble title represented the worthy recognition of the Party and State for his ingenious logistical invention and exceptional contributions to the Vietnam People's Army in the struggle for national liberation. [Source: 12th Corps, 77th Anniversary Celebration of the 308th Quan Tien Phong Division (1949 - 2026), Sept. 17, 2026 in Hanoi; People's Army Newspaper, Sept. 18, 2026]
 
 <!-- id: EVT-3455 -->

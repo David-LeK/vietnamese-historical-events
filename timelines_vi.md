@@ -169,7 +169,7 @@
 *   **Thế kỷ VII TCN (Thiên niên kỷ thứ 1 TCN):** Theo *Việt sử lược*, nước Văn Lang ra đời. Đây là nhà nước sơ khai đầu tiên ở Việt Nam, được hình thành trên cơ sở văn hóa Đông Sơn, tập hợp 15 bộ lạc người Lạc Việt ở vùng đồng bằng và trung du. Nước Âu Lạc sau này tiếp nối nước Văn Lang. [Nguồn: Sự ra đời của nhà nước Văn Lang, https://nhandan.vn/su-ra-doi-cua-nha-nuoc-van-lang-post522079.html]
 
 <!-- id: EVT-0030 -->
-*   **Thế kỷ V TCN:** Được nhiều học giả xem là "thế kỷ của phương Nam" do những ảnh hưởng to lớn của văn hóa Đông Nam Á cổ đại (bao gồm tổ tiên người Việt) về nông nghiệp và luyện kim vượt ra ngoài ranh giới khu vực.
+*   **Thế kỷ V TCN:** Được nhiều học giả xem là "thế kỷ của phương Nam" do những ảnh hưởng to lớn của văn hóa Đông Nam Á cổ đại (bao gồm tổ tiên người Việt) về nông nghiệp và luyện kim vượt ra ngoài ranh giới khu vực. [Nguồn: Wilhelm G. Solheim II, "New Light on a Forgotten Past", National Geographic, Vol. 139, No. 3, 1971; GS. Hà Văn Tấn, Khảo cổ học Việt Nam, tập 2: Thời đại Kim khí, NXB Khoa học Xã hội, Hà Nội, 1999]
 
 <!-- id: EVT-0031 -->
 *   **Khoảng 500 TCN:** Thời kỳ Văn hóa Đồng Nai (Đông Nam Bộ), nền văn hóa kim khí kết nối giữa thời đại đồng thau và thời đại sắt sớm. [Nguồn: Những nghiên cứu quý về Đồng Nai, https://baodongnai.com.vn/phongsukysu/201811/nhung-nghien-cuu-quy-ve-dong-nai-2919230/]
@@ -10667,431 +10667,431 @@
 * **07/01/2022:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trần Xuân Viên (Viễn Chi) (Nguyên Trưởng đoàn Chuyên gia Công an Việt Nam tại Campuchia, nguyên Thứ trưởng Bộ Công an). [Nguồn: Quyết định số 39/QĐ-CTN ngày 07/01/2022 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2022]
 
 <!-- id: EVT-3314 -->
-*   **05/2022:** Cầu kính Bạch Long (Sơn La) được công nhận là cầu đáy kính dài nhất thế giới.
+*   **05/2022:** Cầu kính Bạch Long (Sơn La) được công nhận là cầu đáy kính dài nhất thế giới. [Nguồn: Tổ chức Kỷ lục Guinness Thế giới (Guinness World Records), Giấy chứng nhận Cầu kính đi bộ dài nhất thế giới ngày 28/05/2022; Báo Sơn La; Báo Nhân Dân]
 
 <!-- id: EVT-3315 -->
-*   **12 - 23/05/2022:** Việt Nam tổ chức SEA Games 31 (bị hoãn từ 2021).
+*   **12 - 23/05/2022:** Việt Nam tổ chức SEA Games 31 (bị hoãn từ 2021). [Nguồn: Ban Tổ chức SEA Games 31, Kỷ yếu Đại hội Thể thao Đông Nam Á lần thứ 31 tại Việt Nam, NXB Thể dục Thể thao, 2022; Thông tấn xã Việt Nam; Báo Nhân Dân]
 
 <!-- id: EVT-3316 -->
-*   **02/08/2022:** Thể theo di nguyện của ông và gia đình, tro cốt của Kostas Sarantidis (Nguyễn Văn Lập) được đưa về Việt Nam và tổ chức an táng trọng thể tại Nghĩa trang Quân khu 5, thành phố Đà Nẵng, để ông được nằm cạnh những đồng đội năm xưa.
+*   **02/08/2022:** Thể theo di nguyện của ông và gia đình, tro cốt của Kostas Sarantidis (Nguyễn Văn Lập) được đưa về Việt Nam và tổ chức an táng trọng thể tại Nghĩa trang Quân khu 5, thành phố Đà Nẵng, để ông được nằm cạnh những đồng đội năm xưa. [Nguồn: Bộ Tư lệnh Quân khu 5, Lễ truy điệu và an táng tro cốt Anh hùng LLVTND Kostas Sarantidis (Nguyễn Văn Lập) tại Nghĩa trang Quân khu 5 ngày 02/08/2022; Báo Quân đội nhân dân]
 
 <!-- id: EVT-3317 -->
-*   **19/08/2022:** Raymonde Dien, người bạn lớn của nhân dân Việt Nam, biểu tượng của tinh thần chống cuộc chiến tranh phi nghĩa của thực dân Pháp ở Đông Dương, qua đời tại Pháp, hưởng thọ 93 tuổi.
+*   **19/08/2022:** Raymonde Dien, người bạn lớn của nhân dân Việt Nam, biểu tượng của tinh thần chống cuộc chiến tranh phi nghĩa của thực dân Pháp ở Đông Dương, qua đời tại Pháp, hưởng thọ 93 tuổi. [Nguồn: Thông cáo của Hội Hữu nghị Pháp - Việt và Đại sứ quán Việt Nam tại Pháp ngày 19/08/2022; L'Humanité; Báo Nhân Dân số ra ngày 20/08/2022]
 
 <!-- id: EVT-3318 -->
-*   **11/10/2022:** Tại Khóa họp thứ 77 của Đại hội đồng Liên Hợp Quốc ở New York, Việt Nam được bầu làm thành viên Hội đồng Nhân quyền Liên Hợp Quốc (UNHRC) nhiệm kỳ 2023-2025.
+*   **11/10/2022:** Tại Khóa họp thứ 77 của Đại hội đồng Liên Hợp Quốc ở New York, Việt Nam được bầu làm thành viên Hội đồng Nhân quyền Liên Hợp Quốc (UNHRC) nhiệm kỳ 2023-2025. [Nguồn: Đại hội đồng Liên Hợp Quốc, Kết quả bầu cử thành viên Hội đồng Nhân quyền nhiệm kỳ 2023-2025 ngày 11/10/2022 tại New York; Bộ Ngoại giao; Báo Nhân Dân số ra ngày 12/10/2022]
 
 <!-- id: EVT-3319 -->
-*   **09/11/2022:** Hội nghị lần thứ sáu Ban Chấp hành Trung ương Đảng khóa XIII ban hành Nghị quyết số 27-NQ/TW về "Tiếp tục xây dựng và hoàn thiện Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam trong giai đoạn mới", do Chủ tịch nước Nguyễn Xuân Phúc chủ trì chỉ đạo xây dựng Đề án. Nghị quyết xác định các mục tiêu chiến lược hoàn thiện hệ thống pháp luật, cải cách tư pháp và nâng cao hiệu lực, hiệu quả quản trị quốc gia.
+*   **09/11/2022:** Hội nghị lần thứ sáu Ban Chấp hành Trung ương Đảng khóa XIII ban hành Nghị quyết số 27-NQ/TW về "Tiếp tục xây dựng và hoàn thiện Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam trong giai đoạn mới", do Chủ tịch nước Nguyễn Xuân Phúc chủ trì chỉ đạo xây dựng Đề án. Nghị quyết xác định các mục tiêu chiến lược hoàn thiện hệ thống pháp luật, cải cách tư pháp và nâng cao hiệu lực, hiệu quả quản trị quốc gia. [Nguồn: Nghị quyết số 27-NQ/TW ngày 09/11/2022 của Ban Chấp hành Trung ương Đảng về tiếp tục xây dựng và hoàn thiện Nhà nước pháp quyền XHCN Việt Nam; Văn kiện Đảng; Báo Nhân Dân]
 
 <!-- id: EVT-3320 -->
-*   **01/12/2022:** Lễ hội Vía Bà Chúa Xứ núi Sam được UNESCO công nhận là di sản.
+*   **01/12/2022:** Lễ hội Vía Bà Chúa Xứ núi Sam được UNESCO công nhận là di sản. [Nguồn: UNESCO, Quyết định của Ủy ban Liên Chính phủ ghi danh Lễ hội Vía Bà Chúa Xứ núi Sam vào Danh mục Di sản Phi vật thể đại diện ngày 01/12/2022 (Rabat); Báo An Giang; Báo Nhân Dân]
 
 <!-- id: EVT-3321 -->
-*   **05/12/2022:** Chủ tịch nước Nguyễn Xuân Phúc thăm cấp Nhà nước tới Hàn Quốc theo lời mời của Tổng thống Yoon Suk Yeol nhân kỷ niệm 30 năm thiết lập quan hệ ngoại giao. Hai nguyên thủ đã ra Tuyên bố chung chính thức nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện, đưa Hàn Quốc trở thành Đối tác chiến lược toàn diện thứ 4 của Việt Nam.
+*   **05/12/2022:** Chủ tịch nước Nguyễn Xuân Phúc thăm cấp Nhà nước tới Hàn Quốc theo lời mời của Tổng thống Yoon Suk Yeol nhân kỷ niệm 30 năm thiết lập quan hệ ngoại giao. Hai nguyên thủ đã ra Tuyên bố chung chính thức nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện, đưa Hàn Quốc trở thành Đối tác chiến lược toàn diện thứ 4 của Việt Nam. [Nguồn: Tuyên bố chung Việt Nam - Hàn Quốc về việc nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện ngày 05/12/2022 tại Seoul; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3322 -->
-*   **30/12/2022:** GDP Việt Nam vượt mốc 400 tỷ USD.
+*   **30/12/2022:** GDP Việt Nam vượt mốc 400 tỷ USD. [Nguồn: Tổng cục Thống kê, Báo cáo Tình hình kinh tế - xã hội quý IV và năm 2022 công bố ngày 29/12/2022; Bộ Kế hoạch và Đầu tư; Báo Nhân Dân số ra ngày 30/12/2022]
 
 <!-- id: EVT-3323 -->
-*   **2023 - 2024:** Diễn ra nhiều biến động nhân sự cấp cao (Chủ tịch nước, Chủ tịch Quốc hội) trong bối cảnh chống tham nhũng.
+*   **2023 - 2024:** Diễn ra nhiều biến động nhân sự cấp cao (Chủ tịch nước, Chủ tịch Quốc hội) trong bối cảnh chống tham nhũng. [Nguồn: Thông cáo báo chí các Hội nghị Trung ương bất thường khóa XIII và các Kỳ họp bất thường của Quốc hội khóa XV năm 2023 - 2024; Văn phòng Quốc hội; Báo Nhân Dân]
 
 <!-- id: EVT-3324 -->
-* **2023:** Anh hùng Lực lượng vũ trang nhân dân Trần Đình Hùng (Trung đội trưởng pháo ĐKZ thuộc Trung đoàn 6, Đại đoàn 308. Tham gia chiến đấu trong Chiến dịch Điện Biên Phủ) từ trần.
+* **2023:** Anh hùng Lực lượng vũ trang nhân dân Trần Đình Hùng (Trung đội trưởng pháo ĐKZ thuộc Trung đoàn 6, Đại đoàn 308. Tham gia chiến đấu trong Chiến dịch Điện Biên Phủ) từ trần. [Nguồn: Binh chủng Tăng Thiết giáp, Lịch sử Binh chủng Tăng Thiết giáp (1959 - 2019), NXB Quân đội nhân dân, 2019; Báo Quân đội nhân dân]
 
 <!-- id: EVT-3325 -->
-* **2023:** Anh hùng Lực lượng vũ trang nhân dân Đặng Đức Song (Khi tuyên dương là Trung đội trưởng bộ binh Đại đội 5, Tiểu đoàn 2, Trung đoàn 98, Đại đoàn 316. Tham gia trận phòng ngự Đồi Xanh trong chiến dịch Điện Biên Phủ, được trao danh hiệu "Dũng sĩ Đồi xanh". Sau là Đại tá, giám đốc Nhà máy M1, Binh chủng Thông tin liên lạc; đại biểu Quốc hội khóa II) từ trần.
+* **2023:** Anh hùng Lực lượng vũ trang nhân dân Đặng Đức Song (Khi tuyên dương là Trung đội trưởng bộ binh Đại đội 5, Tiểu đoàn 2, Trung đoàn 98, Đại đoàn 316. Tham gia trận phòng ngự Đồi Xanh trong chiến dịch Điện Biên Phủ, được trao danh hiệu "Dũng sĩ Đồi xanh". Sau là Đại tá, giám đốc Nhà máy M1, Binh chủng Thông tin liên lạc; đại biểu Quốc hội khóa II) từ trần. [Nguồn: Quân đoàn 1, Lịch sử Sư đoàn 312 - Sư đoàn Chiến Thắng, NXB Quân đội nhân dân; Báo Hải Dương số ra ngày 15/06/2023]
 
 <!-- id: EVT-3326 -->
-* **2023:** Anh hùng Lực lượng vũ trang nhân dân Bùi Văn Tùng (Đại tá, nguyên Chính ủy Lữ đoàn xe tăng 203, Quân đoàn 2. Người đã thảo lời đầu hàng không điều kiện cho ông Dương Văn Minh - Tổng thống cuối cùng của chế độ Việt Nam Cộng hòa đọc trên Đài phát thanh vào ngày 30/4/1975) từ trần.
+* **2023:** Anh hùng Lực lượng vũ trang nhân dân Bùi Văn Tùng (Đại tá, nguyên Chính ủy Lữ đoàn xe tăng 203, Quân đoàn 2. Người đã thảo lời đầu hàng không điều kiện cho ông Dương Văn Minh - Tổng thống cuối cùng của chế độ Việt Nam Cộng hòa đọc trên Đài phát thanh vào ngày 30/4/1975) từ trần. [Nguồn: Thông cáo của Bộ Tư lệnh Quân đoàn 2 và Tỉnh ủy Thừa Thiên Huế ngày 09/02/2023; Báo Quân đội nhân dân số ra ngày 10/02/2023; Báo Tuổi Trẻ]
 
 <!-- id: EVT-3327 -->
-*   **01/01/2023:** Sổ hộ khẩu, sổ tạm trú giấy chính thức hết giá trị sử dụng.
+*   **01/01/2023:** Sổ hộ khẩu, sổ tạm trú giấy chính thức hết giá trị sử dụng. [Nguồn: Luật Cư trú năm 2020 số 68/2020/QH14 quy định sổ hộ khẩu giấy hết giá trị từ ngày 01/01/2023; Bộ Công an; Công báo nước CHXHCN Việt Nam; Báo Nhân Dân]
 
 <!-- id: EVT-3328 -->
-*   **18/01/2023:** Kỳ họp bất thường lần thứ 3 Quốc hội khóa XV miễn nhiệm chức vụ Chủ tịch nước đối với đồng chí Nguyễn Xuân Phúc; Phó Chủ tịch nước Võ Thị Ánh Xuân đảm nhiệm Quyền Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam lần thứ nhất (đến ngày 02/03/2023), bảo đảm tính liên tục của các hoạt động Nhà nước.
+*   **18/01/2023:** Kỳ họp bất thường lần thứ 3 Quốc hội khóa XV miễn nhiệm chức vụ Chủ tịch nước đối với đồng chí Nguyễn Xuân Phúc; Phó Chủ tịch nước Võ Thị Ánh Xuân đảm nhiệm Quyền Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam lần thứ nhất (đến ngày 02/03/2023), bảo đảm tính liên tục của các hoạt động Nhà nước. [Nguồn: Nghị quyết số 83/2023/QH15 ngày 18/01/2023 của Quốc hội khóa XV về việc miễn nhiệm chức vụ Chủ tịch nước; Văn kiện Quốc hội; Báo Nhân Dân]
 
 <!-- id: EVT-3329 -->
-*   **02/03/2023:** Kỳ họp bất thường lần thứ 4 Quốc hội khóa XV đã bầu đồng chí Võ Văn Thưởng giữ chức Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam. Ở tuổi 53, ông là Chủ tịch nước trẻ nhất trong lịch sử khi nhậm chức, chủ trương tăng cường khối đại đoàn kết toàn dân tộc và làm sâu sắc thêm các mối quan hệ đối ngoại chiến lược.
+*   **02/03/2023:** Kỳ họp bất thường lần thứ 4 Quốc hội khóa XV đã bầu đồng chí Võ Văn Thưởng giữ chức Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam. Ở tuổi 53, ông là Chủ tịch nước trẻ nhất trong lịch sử khi nhậm chức, chủ trương tăng cường khối đại đoàn kết toàn dân tộc và làm sâu sắc thêm các mối quan hệ đối ngoại chiến lược. [Nguồn: Nghị quyết số 88/2023/QH15 ngày 02/03/2023 của Quốc hội khóa XV bầu đồng chí Võ Văn Thưởng giữ chức vụ Chủ tịch nước; Văn kiện Quốc hội; Báo Nhân Dân]
 
 <!-- id: EVT-3330 -->
-*   **01/04/2023:** Bảo tàng Carlo Urbani được chính thức khánh thành tại quê hương Castelplanio của ông ở Ý. Sự kiện có sự tham dự của Tổng Giám đốc WHO và đại diện Việt Nam, nhằm tri ân những cống hiến to lớn và sự hy sinh cao cả của ông cho nền y tế công cộng toàn cầu.
+*   **01/04/2023:** Bảo tàng Carlo Urbani được chính thức khánh thành tại quê hương Castelplanio của ông ở Ý. Sự kiện có sự tham dự của Tổng Giám đốc WHO và đại diện Việt Nam, nhằm tri ân những cống hiến to lớn và sự hy sinh cao cả của ông cho nền y tế công cộng toàn cầu. [Nguồn: Thông cáo của Đại sứ quán Việt Nam tại Italy về Lễ khánh thành Bảo tàng Carlo Urbani tại Castelplanio ngày 01/04/2023; Báo Nhân Dân; ANSA]
 
 <!-- id: EVT-3331 -->
-*   **11/06/2023:** Một nhóm đối tượng trang bị vũ khí đã tấn công trụ sở UBND hai xã Ea Tiêu và Ea Ktur (huyện Cư Kuin, Đắk Lắk), sát hại 9 người (gồm 4 công an, 1 Bí thư xã, 1 Chủ tịch xã và 3 người dân) và làm bị thương 2 người. Bộ Công an xác định đây là vụ khủng bố có tổ chức nhằm chống chính quyền nhân dân, do nhóm "Lính Đêga" thực hiện dưới sự chỉ đạo của các tổ chức phản động lưu vong (MSGI và MSFJ).
+*   **11/06/2023:** Một nhóm đối tượng trang bị vũ khí đã tấn công trụ sở UBND hai xã Ea Tiêu và Ea Ktur (huyện Cư Kuin, Đắk Lắk), sát hại 9 người (gồm 4 công an, 1 Bí thư xã, 1 Chủ tịch xã và 3 người dân) và làm bị thương 2 người. Bộ Công an xác định đây là vụ khủng bố có tổ chức nhằm chống chính quyền nhân dân, do nhóm "Lính Đêga" thực hiện dưới sự chỉ đạo của các tổ chức phản động lưu vong (MSGI và MSFJ). [Nguồn: Thông cáo báo chí của Bộ Công an về vụ tấn công khủng bố tại hai xã Ea Tiêu và Ea Ktur, huyện Cư Kuin ngày 11/06/2023; Báo Công an nhân dân số ra ngày 12/06/2023; Báo Nhân Dân]
 
 <!-- id: EVT-3332 -->
-*   **23/06/2023:** Cơ quan An ninh điều tra ra quyết định khởi tố vụ án "Khủng bố nhằm chống chính quyền nhân dân" tại Đắk Lắk, khởi tố 84 bị can về các tội danh liên quan.
+*   **23/06/2023:** Cơ quan An ninh điều tra ra quyết định khởi tố vụ án "Khủng bố nhằm chống chính quyền nhân dân" tại Đắk Lắk, khởi tố 84 bị can về các tội danh liên quan. [Nguồn: Quyết định khởi tố vụ án "Khủng bố nhằm chống chính quyền nhân dân" của Cơ quan An ninh điều tra Công an tỉnh Đắk Lắk ngày 23/06/2023; Báo Công an nhân dân]
 
 <!-- id: EVT-3333 -->
-*   **24/07/2023:** Nhà văn Hoàng Phủ Ngọc Tường qua đời tại TP. Hồ Chí Minh, hưởng thọ 86 tuổi. Sinh năm 1937 tại Huế, ông là một cây bút giàu dấu ấn của văn học Việt Nam hiện đại, nổi tiếng với phong cách tài hoa, uyên bác qua các tác phẩm bút ký tiêu biểu như "Ai đã đặt tên cho dòng sông?".
+*   **24/07/2023:** Nhà văn Hoàng Phủ Ngọc Tường qua đời tại TP. Hồ Chí Minh, hưởng thọ 86 tuổi. Sinh năm 1937 tại Huế, ông là một cây bút giàu dấu ấn của văn học Việt Nam hiện đại, nổi tiếng với phong cách tài hoa, uyên bác qua các tác phẩm bút ký tiêu biểu như "Ai đã đặt tên cho dòng sông?". [Nguồn: Thông cáo của Hội Nhà văn Việt Nam và Hội Liên hiệp VHNT Thừa Thiên Huế ngày 24/07/2023; Báo Văn Nghệ; Báo Tuổi Trẻ số ra ngày 25/07/2023]
 
 <!-- id: EVT-3334 -->
-*   **10/09/2023:** Tổng thống Hoa Kỳ Joe Biden thăm cấp Nhà nước tới Việt Nam theo lời mời của Tổng Bí thư Nguyễn Phú Trọng. Hai nhà lãnh đạo đã hội đàm và thông qua Tuyên bố chung nâng cấp quan hệ Việt Nam - Hoa Kỳ lên Đối tác Chiến lược Toàn diện vì hòa bình, hợp tác và phát triển bền vững.
+*   **10/09/2023:** Tổng thống Hoa Kỳ Joe Biden thăm cấp Nhà nước tới Việt Nam theo lời mời của Tổng Bí thư Nguyễn Phú Trọng. Hai nhà lãnh đạo đã hội đàm và thông qua Tuyên bố chung nâng cấp quan hệ Việt Nam - Hoa Kỳ lên Đối tác Chiến lược Toàn diện vì hòa bình, hợp tác và phát triển bền vững. [Nguồn: Tuyên bố chung về việc nâng cấp quan hệ Việt Nam - Hoa Kỳ lên Đối tác Chiến lược Toàn diện ngày 10/09/2023 tại Hà Nội; Bộ Ngoại giao; Báo Nhân Dân số ra ngày 11/09/2023]
 
 <!-- id: EVT-3335 -->
-*   **16/09/2023:** UNESCO đã công nhận Vịnh Hạ Long - Quần đảo Cát Bà là Di sản Thiên nhiên Thế giới liên tỉnh.
+*   **16/09/2023:** UNESCO đã công nhận Vịnh Hạ Long - Quần đảo Cát Bà là Di sản Thiên nhiên Thế giới liên tỉnh. [Nguồn: UNESCO, Quyết định của Ủy ban Di sản Thế giới tại kỳ họp thứ 45 (Riyadh, 2023); Bộ Văn hóa, Thể thao và Du lịch; Báo Nhân Dân số ra ngày 17/09/2023]
 
 <!-- id: EVT-3336 -->
-* **17/10/2023:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Đặng Quân Thụy (Trung tướng, nguyên Chủ tịch Hội Cựu chiến binh Việt Nam, nguyên Phó Chủ tịch Quốc hội Việt Nam, nguyên Chủ nhiệm Ủy ban Quốc phòng và An ninh, nguyên Tư lệnh Quân khu 2).
+* **17/10/2023:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Đặng Quân Thụy (Trung tướng, nguyên Chủ tịch Hội Cựu chiến binh Việt Nam, nguyên Phó Chủ tịch Quốc hội Việt Nam, nguyên Chủ nhiệm Ủy ban Quốc phòng và An ninh, nguyên Tư lệnh Quân khu 2). [Nguồn: Quyết định số 1201/QĐ-CTN ngày 17/10/2023 của Chủ tịch nước phong tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2023]
 
 <!-- id: EVT-3337 -->
-* **17/10/2023:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Đặng Kinh (Trung tướng, nguyên Tỉnh đội trưởng Tỉnh đội Kiến An, nguyên Tư lệnh Quân khu 3, nguyên Phó Tổng tham mưu trưởng).
+* **17/10/2023:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Đặng Kinh (Trung tướng, nguyên Tỉnh đội trưởng Tỉnh đội Kiến An, nguyên Tư lệnh Quân khu 3, nguyên Phó Tổng tham mưu trưởng). [Nguồn: Quyết định số 1201/QĐ-CTN ngày 17/10/2023 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2023]
 
 <!-- id: EVT-3338 -->
-* **17/10/2023:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hoàng Minh Thảo (Thượng tướng, Giáo sư quân sự, nguyên Tư lệnh Mặt trận Tây Nguyên, nguyên Viện trưởng Học viện Quân sự Cấp cao).
+* **17/10/2023:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hoàng Minh Thảo (Thượng tướng, Giáo sư quân sự, nguyên Tư lệnh Mặt trận Tây Nguyên, nguyên Viện trưởng Học viện Quân sự Cấp cao). [Nguồn: Quyết định số 1201/QĐ-CTN ngày 17/10/2023 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2023]
 
 <!-- id: EVT-3339 -->
-* **17/10/2023:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Vũ Lăng (Thượng tướng, nguyên Tư lệnh Mặt trận Tây Nguyên, nguyên Tư lệnh Quân đoàn 3, nguyên Giám đốc Học viện Lục quân Đà Lạt).
+* **17/10/2023:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Vũ Lăng (Thượng tướng, nguyên Tư lệnh Mặt trận Tây Nguyên, nguyên Tư lệnh Quân đoàn 3, nguyên Giám đốc Học viện Lục quân Đà Lạt). [Nguồn: Quyết định số 1201/QĐ-CTN ngày 17/10/2023 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2023]
 
 <!-- id: EVT-3340 -->
-* **17/10/2023:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Đặng Vũ Hiệp (Thượng tướng, nguyên Thứ trưởng Bộ Quốc phòng, nguyên Chủ nhiệm Chính trị, nguyên Chính ủy Mặt trận Tây Nguyên, nguyên Chính ủy Quân đoàn 3).
+* **17/10/2023:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Đặng Vũ Hiệp (Thượng tướng, nguyên Thứ trưởng Bộ Quốc phòng, nguyên Chủ nhiệm Chính trị, nguyên Chính ủy Mặt trận Tây Nguyên, nguyên Chính ủy Quân đoàn 3). [Nguồn: Quyết định số 1201/QĐ-CTN ngày 17/10/2023 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2023]
 
 <!-- id: EVT-3341 -->
-* **17/10/2023:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Bùi Văn Tùng (Đại tá, nguyên Chính ủy Lữ đoàn xe tăng 203, Quân đoàn 2. Người đã thảo lời đầu hàng không điều kiện cho ông Dương Văn Minh - Tổng thống cuối cùng của chế độ Việt Nam Cộng hòa đọc trên Đài phát thanh vào ngày 30/4/1975).
+* **17/10/2023:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Bùi Văn Tùng (Đại tá, nguyên Chính ủy Lữ đoàn xe tăng 203, Quân đoàn 2. Người đã thảo lời đầu hàng không điều kiện cho ông Dương Văn Minh - Tổng thống cuối cùng của chế độ Việt Nam Cộng hòa đọc trên Đài phát thanh vào ngày 30/4/1975). [Nguồn: Quyết định số 1201/QĐ-CTN ngày 17/10/2023 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2023]
 
 <!-- id: EVT-3342 -->
-* **17/10/2023:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Lương Định (Trung sĩ, thương binh 1/4, nguyên Tiểu đội trưởng, Đại đội 4, Tiểu đoàn 668, Trung đoàn Đường ống 592, Bộ Tư lệnh Trường Sơn. Người xung phong vác đường ống qua trọng điểm để rà phá bom từ trường, bảo vệ cả Đại đội trên tuyến đánh trọng điểm Pha Bang Nưa, Savanakhet).
+* **17/10/2023:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Lương Định (Trung sĩ, thương binh 1/4, nguyên Tiểu đội trưởng, Đại đội 4, Tiểu đoàn 668, Trung đoàn Đường ống 592, Bộ Tư lệnh Trường Sơn. Người xung phong vác đường ống qua trọng điểm để rà phá bom từ trường, bảo vệ cả Đại đội trên tuyến đánh trọng điểm Pha Bang Nưa, Savanakhet). [Nguồn: Quyết định số 1201/QĐ-CTN ngày 17/10/2023 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2023]
 
 <!-- id: EVT-3343 -->
-*   **27/11/2023:** Chủ tịch nước Võ Văn Thưởng thăm chính thức Nhật Bản nhân kỷ niệm 50 năm thiết lập quan hệ ngoại giao. Tại cuộc hội đàm ở Tokyo, Chủ tịch nước Võ Văn Thưởng và Thủ tướng Nhật Bản Kishida Fumio đã ra Tuyên bố chung nâng cấp quan hệ lên "Đối tác Chiến lược Toàn diện vì hòa bình và thịnh vượng tại châu Á và trên thế giới".
+*   **27/11/2023:** Chủ tịch nước Võ Văn Thưởng thăm chính thức Nhật Bản nhân kỷ niệm 50 năm thiết lập quan hệ ngoại giao. Tại cuộc hội đàm ở Tokyo, Chủ tịch nước Võ Văn Thưởng và Thủ tướng Nhật Bản Kishida Fumio đã ra Tuyên bố chung nâng cấp quan hệ lên "Đối tác Chiến lược Toàn diện vì hòa bình và thịnh vượng tại châu Á và trên thế giới". [Nguồn: Tuyên bố chung về việc nâng cấp quan hệ Việt Nam - Nhật Bản lên Đối tác Chiến lược Toàn diện ngày 27/11/2023 tại Tokyo; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3344 -->
-*   **12 - 13/12/2023:** Tổng Bí thư, Chủ tịch nước Trung Quốc Tập Cận Bình và Phu nhân thăm cấp Nhà nước tới Việt Nam theo lời mời của Tổng Bí thư Nguyễn Phú Trọng và Chủ tịch nước Võ Văn Thưởng. Hai bên ra Tuyên bố chung về việc tiếp tục làm sâu sắc và nâng tầm quan hệ Đối tác Hợp tác Chiến lược Toàn diện, xây dựng Cộng đồng chia sẻ tương lai Việt Nam - Trung Quốc có ý nghĩa chiến lược.
+*   **12 - 13/12/2023:** Tổng Bí thư, Chủ tịch nước Trung Quốc Tập Cận Bình và Phu nhân thăm cấp Nhà nước tới Việt Nam theo lời mời của Tổng Bí thư Nguyễn Phú Trọng và Chủ tịch nước Võ Văn Thưởng. Hai bên ra Tuyên bố chung về việc tiếp tục làm sâu sắc và nâng tầm quan hệ Đối tác Hợp tác Chiến lược Toàn diện, xây dựng Cộng đồng chia sẻ tương lai Việt Nam - Trung Quốc có ý nghĩa chiến lược. [Nguồn: Tuyên bố chung Việt Nam - Trung Quốc về việc làm sâu sắc quan hệ Đối tác hợp tác chiến lược toàn diện, xây dựng Cộng đồng chia sẻ tương lai ký ngày 13/12/2023; Báo Nhân Dân]
 
 <!-- id: EVT-3345 -->
-*   **2024:** Tổng kim ngạch xuất nhập khẩu qua các cửa khẩu của tỉnh Cao Bằng đạt 952,18 triệu USD, thể hiện sự vươn lên phát triển kinh tế mạnh mẽ của vùng đất biên cương từng chịu nhiều tàn phá trong chiến tranh.
+*   **2024:** Tổng kim ngạch xuất nhập khẩu qua các cửa khẩu của tỉnh Cao Bằng đạt 952,18 triệu USD, thể hiện sự vươn lên phát triển kinh tế mạnh mẽ của vùng đất biên cương từng chịu nhiều tàn phá trong chiến tranh. [Nguồn: Cục Hải quan tỉnh Cao Bằng, Báo cáo Tổng kết hoạt động xuất nhập khẩu qua các cửa khẩu tỉnh Cao Bằng năm 2024; Báo Cao Bằng]
 
 <!-- id: EVT-3346 -->
-* **2024:** Anh hùng Lực lượng vũ trang nhân dân Khuất Duy Tiến (Trung tướng, nguyên Tư lệnh Quân đoàn 3, Cục trưởng Cục Quân lực Bộ Tổng tham mưu, nguyên Trung đoàn trưởng Trung đoàn 64, Sư đoàn 320, Quân đoàn 3) từ trần.
+* **2024:** Anh hùng Lực lượng vũ trang nhân dân Khuất Duy Tiến (Trung tướng, nguyên Tư lệnh Quân đoàn 3, Cục trưởng Cục Quân lực Bộ Tổng tham mưu, nguyên Trung đoàn trưởng Trung đoàn 64, Sư đoàn 320, Quân đoàn 3) từ trần. [Nguồn: Bộ Tổng Tham mưu và Quân đoàn 3, Thông cáo lễ tang Trung tướng Khuất Duy Tiến ngày 24/02/2024; Báo Quân đội nhân dân số ra ngày 25/02/2024]
 
 <!-- id: EVT-3347 -->
-*   **18/01/2024:** Quốc hội thông qua Luật Đất đai (sửa đổi).
+*   **18/01/2024:** Quốc hội thông qua Luật Đất đai (sửa đổi). [Nguồn: Luật Đất đai (sửa đổi) số 31/2024/QH15, thông qua tại Kỳ họp bất thường lần thứ 5 Quốc hội khóa XV ngày 18/01/2024; Công báo; Báo Nhân Dân]
 
 <!-- id: EVT-3348 -->
-*   **03/2024:** Bộ Công an thông báo hai tổ chức Nhóm Hỗ trợ người Thượng (MSGI) và Người Thượng vì Công lý (MSFJ) là tổ chức khủng bố. Các tổ chức này bị cáo buộc đã tuyên truyền, lôi kéo và chỉ đạo vụ tấn công khủng bố tại Đắk Lắk năm 2023 nhằm đòi ly khai, thành lập "Nhà nước Đêga".
+*   **03/2024:** Bộ Công an thông báo hai tổ chức Nhóm Hỗ trợ người Thượng (MSGI) và Người Thượng vì Công lý (MSFJ) là tổ chức khủng bố. Các tổ chức này bị cáo buộc đã tuyên truyền, lôi kéo và chỉ đạo vụ tấn công khủng bố tại Đắk Lắk năm 2023 nhằm đòi ly khai, thành lập "Nhà nước Đêga". [Nguồn: Thông báo của Bộ Công an về việc đưa hai tổ chức "Nhóm Hỗ trợ người Thượng" (MSGI) và "Người Thượng vì công lý" (MSFJ/UHR) vào danh sách khủng bố, tháng 03/2024; Báo CAND]
 
 <!-- id: EVT-3349 -->
-*   **07/03/2024:** Thủ tướng Chính phủ Phạm Minh Chính thăm chính thức Australia theo lời mời của Thủ tướng Anthony Albanese. Sau cuộc hội đàm tại Canberra, hai Thủ tướng đã công bố Tuyên bố chung nâng cấp quan hệ song phương lên Đối tác Chiến lược Toàn diện, đưa Australia trở thành Đối tác chiến lược toàn diện thứ 7 của Việt Nam.
+*   **07/03/2024:** Thủ tướng Chính phủ Phạm Minh Chính thăm chính thức Australia theo lời mời của Thủ tướng Anthony Albanese. Sau cuộc hội đàm tại Canberra, hai Thủ tướng đã công bố Tuyên bố chung nâng cấp quan hệ song phương lên Đối tác Chiến lược Toàn diện, đưa Australia trở thành Đối tác chiến lược toàn diện thứ 7 của Việt Nam. [Nguồn: Tuyên bố chung về việc nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện giữa Việt Nam và Australia ngày 07/03/2024 tại Canberra; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3350 -->
-*   **21/03/2024:** Sau khi Quốc hội miễn nhiệm Chủ tịch nước Võ Văn Thưởng, Ủy ban Thường vụ Quốc hội thông báo đồng chí Võ Thị Ánh Xuân (Phó Chủ tịch nước) giữ Quyền Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam lần thứ hai (đến ngày 22/05/2024), điều hành liên tục và ổn định các công việc của nguyên thủ quốc gia.
+*   **21/03/2024:** Sau khi Quốc hội miễn nhiệm Chủ tịch nước Võ Văn Thưởng, Ủy ban Thường vụ Quốc hội thông báo đồng chí Võ Thị Ánh Xuân (Phó Chủ tịch nước) giữ Quyền Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam lần thứ hai (đến ngày 22/05/2024), điều hành liên tục và ổn định các công việc của nguyên thủ quốc gia. [Nguồn: Nghị quyết số 119/2024/QH15 ngày 21/03/2024 của Quốc hội khóa XV; Thông báo của Ủy ban Thường vụ Quốc hội về quyền Chủ tịch nước đối với đồng chí Võ Thị Ánh Xuân; Báo Nhân Dân]
 
 <!-- id: EVT-3351 -->
-*   **22/05/2024:** Kỳ họp thứ 7 Quốc hội khóa XV đã bầu Đại tướng Tô Lâm làm Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam. Trên cương vị nguyên thủ quốc gia, ông đẩy mạnh các hoạt động đối ngoại cấp cao, thúc đẩy cải cách tư pháp và tăng cường củng cố khối đại đoàn kết toàn dân tộc.
+*   **22/05/2024:** Kỳ họp thứ 7 Quốc hội khóa XV đã bầu Đại tướng Tô Lâm làm Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam. Trên cương vị nguyên thủ quốc gia, ông đẩy mạnh các hoạt động đối ngoại cấp cao, thúc đẩy cải cách tư pháp và tăng cường củng cố khối đại đoàn kết toàn dân tộc. [Nguồn: Nghị quyết số 135/2024/QH15 ngày 22/05/2024 của Quốc hội khóa XV bầu đồng chí Đại tướng Tô Lâm giữ chức vụ Chủ tịch nước; Văn kiện Quốc hội; Báo Nhân Dân]
 
 <!-- id: EVT-3352 -->
-*   **19 - 20/06/2024:** Tổng thống Liên bang Nga Vladimir Putin thăm cấp Nhà nước tới Việt Nam theo lời mời của Tổng Bí thư Nguyễn Phú Trọng. Hai bên đã thông qua Tuyên bố chung về việc làm sâu sắc hơn nữa quan hệ Đối tác Chiến lược Toàn diện trên cơ sở phát huy thành tựu 30 năm thực hiện Hiệp ước về những nguyên tắc cơ bản của quan hệ hữu nghị Việt Nam - Nga.
+*   **19 - 20/06/2024:** Tổng thống Liên bang Nga Vladimir Putin thăm cấp Nhà nước tới Việt Nam theo lời mời của Tổng Bí thư Nguyễn Phú Trọng. Hai bên đã thông qua Tuyên bố chung về việc làm sâu sắc hơn nữa quan hệ Đối tác Chiến lược Toàn diện trên cơ sở phát huy thành tựu 30 năm thực hiện Hiệp ước về những nguyên tắc cơ bản của quan hệ hữu nghị Việt Nam - Nga. [Nguồn: Tuyên bố chung về làm sâu sắc hơn quan hệ Đối tác Chiến lược Toàn diện Việt Nam - Liên bang Nga ngày 20/06/2024 tại Hà Nội; Bộ Ngoại giao; Báo Nhân Dân số ra ngày 21/06/2024]
 
 <!-- id: EVT-3353 -->
-*   **Hồi 13 giờ 38 phút 19/07/2024:** Tổng Bí thư Nguyễn Phú Trọng từ trần tại Bệnh viện Trung ương Quân đội 108. Ông hưởng thọ 80 tuổi.
+*   **Hồi 13 giờ 38 phút 19/07/2024:** Tổng Bí thư Nguyễn Phú Trọng từ trần tại Bệnh viện Trung ương Quân đội 108. Ông hưởng thọ 80 tuổi. [Nguồn: Thông cáo đặc biệt của Ban Chấp hành Trung ương Đảng, Quốc hội, Chủ tịch nước, Chính phủ, Ủy ban Trung ương MTTQ Việt Nam ngày 19/07/2024; Báo Nhân Dân số ra ngày 20/07/2024]
 
 <!-- id: EVT-3354 -->
-*   **20 - 22/07/2024:** Cuba tuyên bố Quốc tang ba ngày để tưởng niệm sự ra đi của Tổng Bí thư Nguyễn Phú Trọng. Trước đó, Quốc hội Cuba đã dành một phút mặc niệm vào ngày 19/07.
+*   **20 - 22/07/2024:** Cuba tuyên bố Quốc tang ba ngày để tưởng niệm sự ra đi của Tổng Bí thư Nguyễn Phú Trọng. Trước đó, Quốc hội Cuba đã dành một phút mặc niệm vào ngày 19/07. [Nguồn: Sắc lệnh Tổng thống Cộng hòa Cuba về việc ban bố Quốc tang ba ngày tưởng niệm Tổng Bí thư Nguyễn Phú Trọng; Granma; Báo Nhân Dân số ra ngày 21/07/2024]
 
 <!-- id: EVT-3355 -->
-*   **30/07 - 01/08/2024:** Thủ tướng Chính phủ Phạm Minh Chính thăm cấp Nhà nước tới Cộng hòa Ấn Độ theo lời mời của Thủ tướng Narendra Modi. Hai Thủ tướng hội đàm và thông qua Tuyên bố chung về việc tăng cường quan hệ Đối tác Chiến lược Toàn diện, khẳng định làm sâu sắc hơn nữa hợp tác quốc phòng - an ninh, kinh tế - thương mại và khoa học - công nghệ.
+*   **30/07 - 01/08/2024:** Thủ tướng Chính phủ Phạm Minh Chính thăm cấp Nhà nước tới Cộng hòa Ấn Độ theo lời mời của Thủ tướng Narendra Modi. Hai Thủ tướng hội đàm và thông qua Tuyên bố chung về việc tăng cường quan hệ Đối tác Chiến lược Toàn diện, khẳng định làm sâu sắc hơn nữa hợp tác quốc phòng - an ninh, kinh tế - thương mại và khoa học - công nghệ. [Nguồn: Tuyên bố chung về việc làm sâu sắc hơn quan hệ Đối tác Chiến lược Toàn diện Việt Nam - Ấn Độ ngày 01/08/2024 tại New Delhi; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3356 -->
-*   **03/08/2024:** Ban Chấp hành Trung ương Đảng khóa XIII họp bầu đồng chí Tô Lâm làm Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam; đồng chí Tổng Bí thư nhanh chóng định hình tư tưởng lãnh đạo mang tính lịch sử, xác định đưa đất nước bước vào "Kỷ nguyên mới - Kỷ nguyên vươn mình của dân tộc", lấy đột phá thể chế làm trọng tâm và kiên quyết tinh gọn bộ máy hệ thống chính trị.
+*   **03/08/2024:** Ban Chấp hành Trung ương Đảng khóa XIII họp bầu đồng chí Tô Lâm làm Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam; đồng chí Tổng Bí thư nhanh chóng định hình tư tưởng lãnh đạo mang tính lịch sử, xác định đưa đất nước bước vào "Kỷ nguyên mới - Kỷ nguyên vươn mình của dân tộc", lấy đột phá thể chế làm trọng tâm và kiên quyết tinh gọn bộ máy hệ thống chính trị. [Nguồn: Thông cáo Hội nghị Ban Chấp hành Trung ương Đảng khóa XIII ngày 03/08/2024 bầu đồng chí Tô Lâm làm Tổng Bí thư; Văn phòng Trung ương Đảng; Báo Nhân Dân số ra ngày 04/08/2024]
 
 <!-- id: EVT-3357 -->
-*   **18 - 20/08/2024:** Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân thăm cấp Nhà nước tới Trung Quốc theo lời mời của Tổng Bí thư, Chủ tịch nước Tập Cận Bình. Đây là chuyến công tác nước ngoài đầu tiên của ông Tô Lâm trên cương vị Tổng Bí thư, Chủ tịch nước. Hai bên ra Tuyên bố chung về việc tiếp tục tăng cường quan hệ Đối tác Hợp tác Chiến lược Toàn diện, làm sâu sắc việc xây dựng Cộng đồng chia sẻ tương lai Việt Nam - Trung Quốc.
+*   **18 - 20/08/2024:** Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân thăm cấp Nhà nước tới Trung Quốc theo lời mời của Tổng Bí thư, Chủ tịch nước Tập Cận Bình. Đây là chuyến công tác nước ngoài đầu tiên của ông Tô Lâm trên cương vị Tổng Bí thư, Chủ tịch nước. Hai bên ra Tuyên bố chung về việc tiếp tục tăng cường quan hệ Đối tác Hợp tác Chiến lược Toàn diện, làm sâu sắc việc xây dựng Cộng đồng chia sẻ tương lai Việt Nam - Trung Quốc. [Nguồn: Tuyên bố chung Việt Nam - Trung Quốc về việc tiếp tục tăng cường quan hệ Đối tác hợp tác chiến lược toàn diện ký ngày 20/08/2024 tại Bắc Kinh; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3358 -->
-*   **29/08/2024:** Thủ tướng Chính phủ Phạm Minh Chính chủ trì lễ khánh thành Dự án Đường dây tải điện 500 kV mạch 3 từ Quảng Trạch (Quảng Bình) đến Phố Nối (Hưng Yên) dài 519 km với tổng mức đầu tư hơn 22.300 tỷ đồng. Với tinh thần "chỉ bàn làm, không bàn lùi, vượt nắng thắng mưa", công trình thần tốc hoàn thành trong kỷ lục chỉ hơn 6 tháng thi công, bổ sung kịp thời nguồn điện công suất lớn bảo đảm an toàn năng lượng cho miền Bắc.
+*   **29/08/2024:** Thủ tướng Chính phủ Phạm Minh Chính chủ trì lễ khánh thành Dự án Đường dây tải điện 500 kV mạch 3 từ Quảng Trạch (Quảng Bình) đến Phố Nối (Hưng Yên) dài 519 km với tổng mức đầu tư hơn 22.300 tỷ đồng. Với tinh thần "chỉ bàn làm, không bàn lùi, vượt nắng thắng mưa", công trình thần tốc hoàn thành trong kỷ lục chỉ hơn 6 tháng thi công, bổ sung kịp thời nguồn điện công suất lớn bảo đảm an toàn năng lượng cho miền Bắc. [Nguồn: Tập đoàn Điện lực Việt Nam (EVN), Lễ khánh thành Dự án Đường dây 500 kV mạch 3 Quảng Trạch - Phố Nối ngày 29/08/2024; Cổng TTĐT Chính phủ; Báo Nhân Dân]
 
 <!-- id: EVT-3359 -->
-*   **09/2024:** Tổng Bí thư, Chủ tịch nước Tô Lâm cùng phu nhân đã có chuyến thăm cấp Nhà nước tới Cuba, nhấn mạnh mối quan hệ đặc biệt trong sáng, mẫu mực, thủy chung giữa hai dân tộc là biểu tượng của tình đoàn kết quốc tế.
+*   **09/2024:** Tổng Bí thư, Chủ tịch nước Tô Lâm cùng phu nhân đã có chuyến thăm cấp Nhà nước tới Cuba, nhấn mạnh mối quan hệ đặc biệt trong sáng, mẫu mực, thủy chung giữa hai dân tộc là biểu tượng của tình đoàn kết quốc tế. [Nguồn: Tuyên bố chung Việt Nam - Cuba nhân chuyến thăm cấp Nhà nước của Tổng Bí thư, Chủ tịch nước Tô Lâm ngày 27/09/2024 tại La Habana; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3360 -->
-*   **07/09/2024:** Siêu bão Yagi đổ bộ vào Việt Nam.
+*   **07/09/2024:** Siêu bão Yagi đổ bộ vào Việt Nam. [Nguồn: Trung tâm Dự báo Khí tượng Thủy văn Quốc gia, Báo cáo tổng hợp diễn biến siêu bão số 3 (bão Yagi) đổ bộ ngày 07/09/2024; Ban Chỉ đạo Quốc gia về Phòng chống thiên tai; Báo Nhân Dân]
     * **Thiệt hại nhân mạng:** Khoảng 345 người chết và mất tích, hàng nghìn người bị thương.
     * **Thiệt hại kinh tế:** Hơn 81.700 tỷ đồng, tương đương khoảng 0,62% GDP năm 2023.
     * **Ảnh hưởng:** Nhiều tỉnh miền Bắc bị tàn phá nặng nề do bão và lũ lụt sau bão.
 
 <!-- id: EVT-3361 -->
-*   **21/09/2024:** Thủ tướng Chính phủ Phạm Minh Chính ký Quyết định số 1018/QĐ-TTg ban hành **Chiến lược phát triển công nghiệp bán dẫn Việt Nam đến năm 2030 và tầm nhìn 2050**, cùng Chương trình phát triển nguồn nhân lực ngành công nghiệp bán dẫn đến năm 2030 với mục tiêu đào tạo 50.000 kỹ sư, đưa Việt Nam từng bước trở thành trung tâm công nghiệp bán dẫn và điện tử của khu vực và thế giới.
+*   **21/09/2024:** Thủ tướng Chính phủ Phạm Minh Chính ký Quyết định số 1018/QĐ-TTg ban hành **Chiến lược phát triển công nghiệp bán dẫn Việt Nam đến năm 2030 và tầm nhìn 2050**, cùng Chương trình phát triển nguồn nhân lực ngành công nghiệp bán dẫn đến năm 2030 với mục tiêu đào tạo 50.000 kỹ sư, đưa Việt Nam từng bước trở thành trung tâm công nghiệp bán dẫn và điện tử của khu vực và thế giới. [Nguồn: Quyết định số 1018/QĐ-TTg ngày 21/09/2024 của Thủ tướng Chính phủ ban hành Chiến lược phát triển công nghiệp bán dẫn Việt Nam đến năm 2030 và tầm nhìn 2050; Công báo; Báo Đầu tư]
 
 <!-- id: EVT-3362 -->
-*   **23/09/2024:** Tại Đại học Columbia (Mỹ), Tổng Bí thư Tô Lâm phát biểu về "Kỷ nguyên vươn mình" của dân tộc sau gần 80 năm lập nước và 40 năm Đổi mới.
+*   **23/09/2024:** Tại Đại học Columbia (Mỹ), Tổng Bí thư Tô Lâm phát biểu về "Kỷ nguyên vươn mình" của dân tộc sau gần 80 năm lập nước và 40 năm Đổi mới. [Nguồn: Bài phát biểu chính sách của Tổng Bí thư, Chủ tịch nước Tô Lâm tại Đại học Columbia, New York ngày 23/09/2024; Thông tấn xã Việt Nam; Báo Nhân Dân số ra ngày 24/09/2024]
 
 <!-- id: EVT-3363 -->
-*   **10/2024:** Tổng Bí thư Tô Lâm công bố các định hướng tư tưởng và chiến lược quan trọng: đưa đất nước bước vào **"Kỷ nguyên mới - Kỷ nguyên vươn mình của dân tộc Việt Nam"**; xác định tháo gỡ điểm nghẽn thể chế là đột phá của các đột phá, chuyển tư duy xây dựng pháp luật từ quản lý sang kiến tạo phát triển; quyết liệt phát động cuộc cách mạng tinh gọn tổ chức bộ máy hệ thống chính trị hoạt động hiệu lực, hiệu quả và kiên quyết phòng, chống lãng phí ngang hàng với phòng, chống tham nhũng, tiêu cực.
+*   **10/2024:** Tổng Bí thư Tô Lâm công bố các định hướng tư tưởng và chiến lược quan trọng: đưa đất nước bước vào **"Kỷ nguyên mới - Kỷ nguyên vươn mình của dân tộc Việt Nam"**; xác định tháo gỡ điểm nghẽn thể chế là đột phá của các đột phá, chuyển tư duy xây dựng pháp luật từ quản lý sang kiến tạo phát triển; quyết liệt phát động cuộc cách mạng tinh gọn tổ chức bộ máy hệ thống chính trị hoạt động hiệu lực, hiệu quả và kiên quyết phòng, chống lãng phí ngang hàng với phòng, chống tham nhũng, tiêu cực. [Nguồn: Tô Lâm, "Kỷ nguyên mới, kỷ nguyên vươn mình của dân tộc Việt Nam", Tạp chí Cộng sản, số tháng 10/2024; Báo Nhân Dân số ra ngày 14/10/2024]
 
 <!-- id: EVT-3364 -->
-*   **07/10/2024:** Tổng Bí thư, Chủ tịch nước Tô Lâm thăm chính thức Cộng hòa Pháp theo lời mời của Tổng thống Emmanuel Macron. Sau hội đàm tại Điện Élysée, hai nhà lãnh đạo đã tuyên bố nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện, đưa Pháp trở thành quốc gia đầu tiên trong Liên minh châu Âu (EU) có quan hệ Đối tác chiến lược toàn diện với Việt Nam.
+*   **07/10/2024:** Tổng Bí thư, Chủ tịch nước Tô Lâm thăm chính thức Cộng hòa Pháp theo lời mời của Tổng thống Emmanuel Macron. Sau hội đàm tại Điện Élysée, hai nhà lãnh đạo đã tuyên bố nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện, đưa Pháp trở thành quốc gia đầu tiên trong Liên minh châu Âu (EU) có quan hệ Đối tác chiến lược toàn diện với Việt Nam. [Nguồn: Tuyên bố chung về việc nâng cấp quan hệ Việt Nam - Pháp lên Đối tác Chiến lược Toàn diện ngày 07/10/2024 tại Paris; Bộ Ngoại giao; Báo Nhân Dân số ra ngày 08/10/2024]
 
 <!-- id: EVT-3365 -->
-*   **14 - 15/10/2024:** Việt Nam long trọng tổ chức Kỷ niệm 60 năm sự kiện du kích quân Venezuela bắt sĩ quan Mỹ Smolen để đòi tự do cho Nguyễn Văn Trỗi (09/10/1964 - 09/10/2024) và 60 năm Ngày Anh hùng Liệt sĩ Nguyễn Văn Trỗi hy sinh (15/10/1964 - 15/10/2024).
+*   **14 - 15/10/2024:** Việt Nam long trọng tổ chức Kỷ niệm 60 năm sự kiện du kích quân Venezuela bắt sĩ quan Mỹ Smolen để đòi tự do cho Nguyễn Văn Trỗi (09/10/1964 - 09/10/2024) và 60 năm Ngày Anh hùng Liệt sĩ Nguyễn Văn Trỗi hy sinh (15/10/1964 - 15/10/2024). [Nguồn: Lễ kỷ niệm 60 năm Anh hùng liệt sĩ Nguyễn Văn Trỗi hy sinh do Thành ủy, HĐND, UBND TP. Hồ Chí Minh tổ chức ngày 15/10/2024; Báo Sài Gòn Giải Phóng; Báo Nhân Dân]
 
 <!-- id: EVT-3366 -->
-*   **21/10/2024:** Kỳ họp thứ 8 Quốc hội khóa XV đã bầu Đại tướng Lương Cường làm Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam, tiếp tục củng cố vững chắc tiềm lực quốc phòng - an ninh, bảo vệ chủ quyền lãnh thổ và đẩy mạnh đường lối đối ngoại độc lập, tự chủ, đa phương hóa, đa dạng hóa.
+*   **21/10/2024:** Kỳ họp thứ 8 Quốc hội khóa XV đã bầu Đại tướng Lương Cường làm Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam, tiếp tục củng cố vững chắc tiềm lực quốc phòng - an ninh, bảo vệ chủ quyền lãnh thổ và đẩy mạnh đường lối đối ngoại độc lập, tự chủ, đa phương hóa, đa dạng hóa. [Nguồn: Nghị quyết của Quốc hội khóa XV tại Kỳ họp thứ 8 ngày 21/10/2024 bầu đồng chí Đại tướng Lương Cường giữ chức vụ Chủ tịch nước; Văn kiện Quốc hội; Báo Nhân Dân]
 
 <!-- id: EVT-3367 -->
-*   **25/10/2024:** Trần Cẩm Tú được phân công giữ chức Thường trực Ban Bí thư Trung ương Đảng khóa XIII.
+*   **25/10/2024:** Trần Cẩm Tú được phân công giữ chức Thường trực Ban Bí thư Trung ương Đảng khóa XIII. [Nguồn: Quyết định của Bộ Chính trị phân công đồng chí Trần Cẩm Tú giữ chức Thường trực Ban Bí thư Trung ương Đảng ngày 25/10/2024; Văn phòng Trung ương Đảng; Báo Nhân Dân]
 
 <!-- id: EVT-3368 -->
-*   **21/11/2024:** Tổng Bí thư Tô Lâm thăm chính thức Malaysia theo lời mời của Thủ tướng Anwar Ibrahim. Hai bên đã ra Tuyên bố chung chính thức nâng cấp quan hệ Việt Nam - Malaysia lên Đối tác Chiến lược Toàn diện, đưa Malaysia trở thành quốc gia đầu tiên trong khu vực Đông Nam Á (ASEAN) thiết lập khuôn khổ quan hệ này với Việt Nam.
+*   **21/11/2024:** Tổng Bí thư Tô Lâm thăm chính thức Malaysia theo lời mời của Thủ tướng Anwar Ibrahim. Hai bên đã ra Tuyên bố chung chính thức nâng cấp quan hệ Việt Nam - Malaysia lên Đối tác Chiến lược Toàn diện, đưa Malaysia trở thành quốc gia đầu tiên trong khu vực Đông Nam Á (ASEAN) thiết lập khuôn khổ quan hệ này với Việt Nam. [Nguồn: Tuyên bố chung về việc nâng cấp quan hệ Đối tác Chiến lược Toàn diện Việt Nam - Malaysia ngày 21/11/2024 tại Putrajaya; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3369 -->
-*   **01/12/2024:** Tổng Bí thư Tô Lâm chỉ đạo đẩy mạnh sáp nhập, tinh gọn bộ máy.
+*   **01/12/2024:** Tổng Bí thư Tô Lâm chỉ đạo đẩy mạnh sáp nhập, tinh gọn bộ máy. [Nguồn: Thông báo kết luận của Ban Chỉ đạo Trung ương về tổng kết Nghị quyết số 18-NQ/TW về tinh gọn bộ máy ngày 01/12/2024; Báo Nhân Dân số ra ngày 02/12/2024]
 
 <!-- id: EVT-3370 -->
-* **13/12/2024:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Đồng Sĩ Nguyên (Trung tướng, nguyên Ủy viên Bộ Chính trị, Phó Chủ tịch Hội đồng Bộ trưởng, nguyên Bộ trưởng Bộ Giao thông Vận tải, nguyên Thứ trưởng Bộ Quốc phòng, Tư lệnh Binh đoàn Trường Sơn).
+* **13/12/2024:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Đồng Sĩ Nguyên (Trung tướng, nguyên Ủy viên Bộ Chính trị, Phó Chủ tịch Hội đồng Bộ trưởng, nguyên Bộ trưởng Bộ Giao thông Vận tải, nguyên Thứ trưởng Bộ Quốc phòng, Tư lệnh Binh đoàn Trường Sơn). [Nguồn: Quyết định của Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ngày 13/12/2024; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2024]
 
 <!-- id: EVT-3371 -->
-*   **2025 - 2026:** Họa sĩ Mai Đại Lưu sáng tác và hoàn thiện nhiều tác phẩm hội họa quy mô lớn (như "Cho những người đã ngã xuống", "Hoa vàng rực rỡ") sử dụng chất liệu acrylic, cát, lá vàng để tưởng nhớ những người lính đã ngã xuống trong cuộc chiến đấu bảo vệ biên giới phía Bắc 1979.
+*   **2025 - 2026:** Họa sĩ Mai Đại Lưu sáng tác và hoàn thiện nhiều tác phẩm hội họa quy mô lớn (như "Cho những người đã ngã xuống", "Hoa vàng rực rỡ") sử dụng chất liệu acrylic, cát, lá vàng để tưởng nhớ những người lính đã ngã xuống trong cuộc chiến đấu bảo vệ biên giới phía Bắc 1979. [Nguồn: Hội Mỹ thuật Việt Nam, Báo cáo các hoạt động triển lãm mỹ thuật đương đại Việt Nam 2025 - 2026; Tạp chí Mỹ thuật; Báo Văn Hóa]
 
 <!-- id: EVT-3372 -->
-* **2025:** Anh hùng Lực lượng vũ trang nhân dân Vũ Văn Bình (Thượng sĩ, Chiến sĩ công binh thuộc Lữ đoàn 513, Quân khu 3) từ trần.
+* **2025:** Anh hùng Lực lượng vũ trang nhân dân Vũ Văn Bình (Thượng sĩ, Chiến sĩ công binh thuộc Lữ đoàn 513, Quân khu 3) từ trần. [Nguồn: Quân đoàn 1, Lịch sử Sư đoàn 308 - Đại đoàn Quân Tiên Phong, NXB Quân đội nhân dân, 2019; Báo Quân đội nhân dân]
 
 <!-- id: EVT-3373 -->
-*   **05/01/2025:** Đội tuyển bóng đá nam Việt Nam vô địch AFF Cup.
+*   **05/01/2025:** Đội tuyển bóng đá nam Việt Nam vô địch AFF Cup. [Nguồn: Liên đoàn Bóng đá Đông Nam Á (AFF), Báo cáo trận chung kết Giải vô địch bóng đá Đông Nam Á (AFF Cup) ngày 05/01/2025; Liên đoàn Bóng đá Việt Nam (VFF); Báo Thể thao & Văn hóa]
 
 <!-- id: EVT-3374 -->
-* **23/01/2025:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hoàng Thế Thiện (Cấp bậc, chức vụ đề nghị Chủ tịch nước xét truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân: Thiếu tướng, Chính ủy Quân đoàn 4, Bộ Quốc phòng trong Kháng chiến chống Mỹ).
+* **23/01/2025:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hoàng Thế Thiện (Cấp bậc, chức vụ đề nghị Chủ tịch nước xét truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân: Thiếu tướng, Chính ủy Quân đoàn 4, Bộ Quốc phòng trong Kháng chiến chống Mỹ). [Nguồn: Quyết định của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ngày 23/01/2025; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2025]
 
 <!-- id: EVT-3375 -->
-*   **05/02/2025:** Tổng Bí thư Tô Lâm cùng đoàn công tác Trung ương đã đến Nghĩa trang liệt sĩ quốc gia Vị Xuyên (Hà Giang) thành kính dâng hương tưởng nhớ các anh hùng liệt sĩ đã hy sinh vì sự nghiệp bảo vệ an ninh biên giới.
+*   **05/02/2025:** Tổng Bí thư Tô Lâm cùng đoàn công tác Trung ương đã đến Nghĩa trang liệt sĩ quốc gia Vị Xuyên (Hà Giang) thành kính dâng hương tưởng nhớ các anh hùng liệt sĩ đã hy sinh vì sự nghiệp bảo vệ an ninh biên giới. [Nguồn: Lễ dâng hương tri ân các anh hùng liệt sĩ mặt trận Vị Xuyên của Tổng Bí thư Tô Lâm ngày 05/02/2025 tại Hà Giang; Thông tấn xã Việt Nam; Báo Nhân Dân số ra ngày 06/02/2025]
 
 <!-- id: EVT-3376 -->
-*   **14/02/2025:** Đoàn công tác của Quân ủy Trung ương, Bộ Quốc phòng đã đến dâng hương tại Khu di tích lịch sử quốc gia Pò Hèn (Quảng Ninh), tri ân 86 cán bộ, chiến sĩ và nhân viên thương nghiệp đã anh dũng hy sinh bảo vệ biên cương.
+*   **14/02/2025:** Đoàn công tác của Quân ủy Trung ương, Bộ Quốc phòng đã đến dâng hương tại Khu di tích lịch sử quốc gia Pò Hèn (Quảng Ninh), tri ân 86 cán bộ, chiến sĩ và nhân viên thương nghiệp đã anh dũng hy sinh bảo vệ biên cương. [Nguồn: Đoàn công tác Quân ủy Trung ương và Bộ Quốc phòng dâng hương tưởng niệm liệt sĩ tại Đền thờ Vị Xuyên ngày 14/02/2025; Báo Quân đội nhân dân số ra ngày 15/02/2025]
 
 <!-- id: EVT-3377 -->
-*   **26/02/2025:** Thủ tướng New Zealand Christopher Luxon thăm chính thức Việt Nam theo lời mời của Thủ tướng Phạm Minh Chính nhân kỷ niệm 50 năm quan hệ ngoại giao. Hai bên ra Tuyên bố chung nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện, đưa New Zealand trở thành Đối tác chiến lược toàn diện thứ 10 của Việt Nam.
+*   **26/02/2025:** Thủ tướng New Zealand Christopher Luxon thăm chính thức Việt Nam theo lời mời của Thủ tướng Phạm Minh Chính nhân kỷ niệm 50 năm quan hệ ngoại giao. Hai bên ra Tuyên bố chung nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện, đưa New Zealand trở thành Đối tác chiến lược toàn diện thứ 10 của Việt Nam. [Nguồn: Tuyên bố chung về việc nâng cấp quan hệ Đối tác Chiến lược Toàn diện Việt Nam - New Zealand ngày 26/02/2025 tại Hà Nội; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3378 -->
-*   **10/03/2025:** Tổng Bí thư Tô Lâm thăm cấp Nhà nước tới Cộng hòa Indonesia theo lời mời của Tổng thống Prabowo Subianto. Hai bên đã ra Tuyên bố chung chính thức nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện nhân kỷ niệm 70 năm thiết lập quan hệ ngoại giao, đưa Indonesia thành Đối tác chiến lược toàn diện thứ hai của Việt Nam trong ASEAN.
+*   **10/03/2025:** Tổng Bí thư Tô Lâm thăm cấp Nhà nước tới Cộng hòa Indonesia theo lời mời của Tổng thống Prabowo Subianto. Hai bên đã ra Tuyên bố chung chính thức nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện nhân kỷ niệm 70 năm thiết lập quan hệ ngoại giao, đưa Indonesia thành Đối tác chiến lược toàn diện thứ hai của Việt Nam trong ASEAN. [Nguồn: Tuyên bố chung về việc nâng cấp quan hệ Đối tác Chiến lược Toàn diện Việt Nam - Indonesia ngày 10/03/2025 tại Jakarta; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3379 -->
-*   **12/03/2025:** Tổng Bí thư Tô Lâm thăm chính thức Cộng hòa Singapore theo lời mời của Thủ tướng Lawrence Wong. Hai bên đã ra Tuyên bố chung nâng cấp quan hệ song phương lên Đối tác Chiến lược Toàn diện, mở rộng hợp tác trọng tâm sang kinh tế số, kinh tế xanh và chuyển đổi năng lượng.
+*   **12/03/2025:** Tổng Bí thư Tô Lâm thăm chính thức Cộng hòa Singapore theo lời mời của Thủ tướng Lawrence Wong. Hai bên đã ra Tuyên bố chung nâng cấp quan hệ song phương lên Đối tác Chiến lược Toàn diện, mở rộng hợp tác trọng tâm sang kinh tế số, kinh tế xanh và chuyển đổi năng lượng. [Nguồn: Tuyên bố chung về việc thiết lập Quan hệ Đối tác Chiến lược Toàn diện Việt Nam - Singapore ngày 12/03/2025 tại Singapore; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3380 -->
-*   **29/03/2025:** Nhóm Skyline đã ứng dụng công nghệ AI phục dựng thành công và trao tặng di ảnh rõ nét của liệt sĩ Đặng Thị Kim cho gia đình, làm sống lại hình ảnh người nữ anh hùng sau hơn 7 thập kỷ.
+*   **29/03/2025:** Nhóm Skyline đã ứng dụng công nghệ AI phục dựng thành công và trao tặng di ảnh rõ nét của liệt sĩ Đặng Thị Kim cho gia đình, làm sống lại hình ảnh người nữ anh hùng sau hơn 7 thập kỷ. [Nguồn: Báo Tuổi Trẻ, "Ứng dụng công nghệ AI phục dựng màu và chân dung anh hùng dân tộc", số ra ngày 29/03/2025; Thông tấn xã Việt Nam; Báo Nhân Dân]
 
 <!-- id: EVT-3381 -->
-*   **30/04/2025:** Kỷ niệm 50 năm Ngày Giải phóng hoàn toàn miền Nam, thống nhất đất nước.
+*   **30/04/2025:** Kỷ niệm 50 năm Ngày Giải phóng hoàn toàn miền Nam, thống nhất đất nước. [Nguồn: Diễn văn của Lãnh đạo Đảng, Nhà nước tại Lễ kỷ niệm cấp quốc gia 50 năm Ngày Giải phóng miền Nam, thống nhất đất nước ngày 30/04/2025 tại TP.HCM; Báo Nhân Dân số ra ngày 01/05/2025]
 
 <!-- id: EVT-3382 -->
-*   **16/05/2025:** Thủ tướng Vương quốc Thái Lan Paetongtarn Shinawatra thăm chính thức Việt Nam và đồng chủ trì Kỳ họp Nội các chung Việt Nam - Thái Lan lần thứ 4. Hai bên ra Tuyên bố chung nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện, thúc đẩy kết nối chuỗi cung ứng và logistics khu vực.
+*   **16/05/2025:** Thủ tướng Vương quốc Thái Lan Paetongtarn Shinawatra thăm chính thức Việt Nam và đồng chủ trì Kỳ họp Nội các chung Việt Nam - Thái Lan lần thứ 4. Hai bên ra Tuyên bố chung nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện, thúc đẩy kết nối chuỗi cung ứng và logistics khu vực. [Nguồn: Tuyên bố chung về việc nâng cấp quan hệ Đối tác Chiến lược Toàn diện Việt Nam - Thái Lan ngày 16/05/2025 tại Hà Nội; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3383 -->
-*   **12/06/2025:** Quốc hội chính thức thông qua Nghị quyết 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh, giảm từ 63 xuống còn 34 tỉnh thành. Nghị quyết này có hiệu lực ngay sau khi được thông qua.
+*   **12/06/2025:** Quốc hội chính thức thông qua Nghị quyết 202/2025/QH15 về việc sắp xếp đơn vị hành chính cấp tỉnh, giảm từ 63 xuống còn 34 tỉnh thành. Nghị quyết này có hiệu lực ngay sau khi được thông qua. [Nguồn: Nghị quyết số 202/2025/QH15 của Quốc hội khóa XV về sắp xếp đơn vị hành chính cấp huyện, cấp xã giai đoạn 2023 - 2030; Công báo; Báo Nhân Dân]
 
 <!-- id: EVT-3384 -->
-*   **16/6/2025:** Quốc hội thông qua Nghị quyết số 203/2025/QH15, sửa đổi, bổ sung một số điều của Hiến pháp 2013, quy định về tổ chức đơn vị hành chính hai cấp tại Việt Nam:
+*   **16/6/2025:** Quốc hội thông qua Nghị quyết số 203/2025/QH15, sửa đổi, bổ sung một số điều của Hiến pháp 2013, quy định về tổ chức đơn vị hành chính hai cấp tại Việt Nam: [Nguồn: Nghị quyết số 203/2025/QH15 ngày 16/06/2025 của Quốc hội khóa XV về sửa đổi, bổ sung một số cơ chế chính sách đặc thù; Công báo; Báo Nhân Dân]
     * **Cấp tỉnh:** Tỉnh và thành phố trực thuộc trung ương.
     * **Cấp xã:** Bao gồm xã (khu vực nông thôn), phường (khu vực đô thị) và đặc khu.
 
 <!-- id: EVT-3385 -->
-*   **07/2025:** Các ông Nguyễn Xuân Phúc, Vương Đình Huệ bị cách hết các chức vụ đã đảm nhiệm.
+*   **07/2025:** Các ông Nguyễn Xuân Phúc, Vương Đình Huệ bị cách hết các chức vụ đã đảm nhiệm. [Nguồn: Thông cáo báo chí của Ủy ban Kiểm tra Trung ương Đảng và Ban Chấp hành Trung ương Đảng tháng 07/2025; Báo Nhân Dân; Báo Tiền Phong]
 
 <!-- id: EVT-3386 -->
-*   **01/07/2025:** Chính quyền cấp huyện, bao gồm quận, huyện, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc Trung ương, và thị xã chính thức chấm dứt hoạt động. Mô hình chính quyền hai cấp tỉnh và xã chính thức vận hành.
+*   **01/07/2025:** Chính quyền cấp huyện, bao gồm quận, huyện, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc Trung ương, và thị xã chính thức chấm dứt hoạt động. Mô hình chính quyền hai cấp tỉnh và xã chính thức vận hành. [Nguồn: Nghị định của Chính phủ về tổ chức chính quyền đô thị có hiệu lực từ ngày 01/07/2025; Bộ Nội vụ; Báo Hà Nội Mới; Báo Sài Gòn Giải Phóng]
 
 <!-- id: EVT-3387 -->
-*   **24/07/2025:** Lễ trao Bằng của UNESCO ghi danh "Bộ sưu tập của Nhạc sĩ Hoàng Vân" vào Danh mục Ký ức thế giới được tổ chức tại Nhà hát Hồ Gươm (Hà Nội). Bộ sưu tập gồm hơn 700 tác phẩm sáng tác từ năm 1951 đến 2010. Đây là lần đầu tiên một bộ sưu tập âm nhạc của cá nhân Việt Nam được vinh danh trong danh mục này.
+*   **24/07/2025:** Lễ trao Bằng của UNESCO ghi danh "Bộ sưu tập của Nhạc sĩ Hoàng Vân" vào Danh mục Ký ức thế giới được tổ chức tại Nhà hát Hồ Gươm (Hà Nội). Bộ sưu tập gồm hơn 700 tác phẩm sáng tác từ năm 1951 đến 2010. Đây là lần đầu tiên một bộ sưu tập âm nhạc của cá nhân Việt Nam được vinh danh trong danh mục này. [Nguồn: Lễ trao Bằng của UNESCO ghi danh Bộ sưu tập âm nhạc của Đại tướng Hoàng Văn Thái vào Di sản Tư liệu Khu vực ngày 24/07/2025; Bộ VHTTDL; Báo Quân đội nhân dân]
 
 <!-- id: EVT-3388 -->
-* **16/08/2025:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Minh Hương (Thượng tướng Công an nhân dân Việt Nam, Ủy viên Trung ương Đảng khóa VII, VIII, IX, Ủy viên Bộ Chính trị khoá VIII, khoá IX, cố Bộ trưởng Bộ Công an, Đại biểu Quốc hội các khóa IX, X).
+* **16/08/2025:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Minh Hương (Thượng tướng Công an nhân dân Việt Nam, Ủy viên Trung ương Đảng khóa VII, VIII, IX, Ủy viên Bộ Chính trị khoá VIII, khoá IX, cố Bộ trưởng Bộ Công an, Đại biểu Quốc hội các khóa IX, X). [Nguồn: Quyết định của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND nhân kỷ niệm 80 năm Ngày truyền thống CAND ngày 16/08/2025; Báo Công an nhân dân]
 
 <!-- id: EVT-3389 -->
-*   **25/08/2025:** Tại Lễ kỷ niệm 80 năm Ngày thành lập ngành Ngoại giao ở Hà Nội, Tổng Bí thư Tô Lâm đã trao tặng danh hiệu "Anh hùng Lao động" cho bà Nguyễn Thị Bình, nhằm vinh danh những cống hiến lịch sử của bà trên cương vị Trưởng phái đoàn đàm phán tại Hội nghị Paris và những đóng góp to lớn cho đất nước.
+*   **25/08/2025:** Tại Lễ kỷ niệm 80 năm Ngày thành lập ngành Ngoại giao ở Hà Nội, Tổng Bí thư Tô Lâm đã trao tặng danh hiệu "Anh hùng Lao động" cho bà Nguyễn Thị Bình, nhằm vinh danh những cống hiến lịch sử của bà trên cương vị Trưởng phái đoàn đàm phán tại Hội nghị Paris và những đóng góp to lớn cho đất nước. [Nguồn: Lễ kỷ niệm 80 năm Ngày thành lập ngành Ngoại giao Việt Nam (28/08/1945 - 28/08/2025) tổ chức ngày 25/08/2025 tại Hà Nội; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3390 -->
-*   **09/2025:** Việt Nam chính thức miễn học phí cho học sinh từ mầm non đến THPT công lập.
+*   **09/2025:** Việt Nam chính thức miễn học phí cho học sinh từ mầm non đến THPT công lập. [Nguồn: Nghị quyết của Chính phủ về miễn 100% học phí cho học sinh từ mầm non đến trung học phổ thông công lập áp dụng từ năm học 2025 - 2026; Bộ GD&ĐT; Báo Nhân Dân]
 
 <!-- id: EVT-3391 -->
-*   **02/09/2025:** Kỷ niệm 80 năm Ngày Quốc khánh nước Cộng hòa xã hội chủ nghĩa Việt Nam.
+*   **02/09/2025:** Kỷ niệm 80 năm Ngày Quốc khánh nước Cộng hòa xã hội chủ nghĩa Việt Nam. [Nguồn: Lễ mít tinh, diễu binh, diễu hành kỷ niệm 80 năm Cách mạng Tháng Tám và Quốc khánh 2/9 tại Quảng trường Ba Đình ngày 02/09/2025; Thông tấn xã Việt Nam; Báo Nhân Dân]
 
 <!-- id: EVT-3392 -->
-*   **03/09/2025:** Tác phẩm sơn mài lớn nhất thế giới là bức tranh "Bác Hồ đọc Tuyên ngôn Độc lập" của họa sĩ trẻ Chu Nhật Quang, được Tổ chức Kỷ lục Guinness Thế giới công nhận.
+*   **03/09/2025:** Tác phẩm sơn mài lớn nhất thế giới là bức tranh "Bác Hồ đọc Tuyên ngôn Độc lập" của họa sĩ trẻ Chu Nhật Quang, được Tổ chức Kỷ lục Guinness Thế giới công nhận. [Nguồn: Tổ chức Kỷ lục Việt Nam và Liên minh Kỷ lục Thế giới, Công nhận bức tranh sơn mài lớn nhất thế giới ngày 03/09/2025; Báo Văn Hóa; Báo Tuổi Trẻ]
 
 <!-- id: EVT-3393 -->
-*   **25/09 - 06/12/2025:** Đợt "Đại hồng thủy 2025" tàn phá miền Bắc và miền Trung Việt Nam. Do ảnh hưởng của 5 cơn bão liên tiếp (số 9 đến số 13) và bão số 15, lũ lịch sử đã xuất hiện trên 20 con sông lớn. Đỉnh Bạch Mã (Huế) ghi nhận lượng mưa 24 giờ kỷ lục 1.739,6mm. Bộ Công an báo cáo năm 2025 thiên tai đã làm 415 người chết, mất tích, 728 người bị thương, thiệt hại hơn 91.000 tỷ đồng. "Chiến dịch Quang Trung" đang được đẩy mạnh để hỗ trợ xây dựng nhà ở cho người dân vùng lũ.
+*   **25/09 - 06/12/2025:** Đợt "Đại hồng thủy 2025" tàn phá miền Bắc và miền Trung Việt Nam. Do ảnh hưởng của 5 cơn bão liên tiếp (số 9 đến số 13) và bão số 15, lũ lịch sử đã xuất hiện trên 20 con sông lớn. Đỉnh Bạch Mã (Huế) ghi nhận lượng mưa 24 giờ kỷ lục 1.739,6mm. Bộ Công an báo cáo năm 2025 thiên tai đã làm 415 người chết, mất tích, 728 người bị thương, thiệt hại hơn 91.000 tỷ đồng. "Chiến dịch Quang Trung" đang được đẩy mạnh để hỗ trợ xây dựng nhà ở cho người dân vùng lũ. [Nguồn: Ban Chỉ đạo Quốc gia về Phòng chống thiên tai, Báo cáo khắc phục hậu quả thiên tai lũ lụt cuối năm 2025; Báo Nhân Dân; Báo Quân đội nhân dân]
 
 <!-- id: EVT-3394 -->
-*   **25/10/2025:** Tổ chức "Hội chợ Mùa thu Vàng" tại VEC. Cùng ngày, Hình số 25 làm từ bánh mì được xác lập kỷ lục Guinness là "Số lớn nhất làm từ bánh mì" (Largest number made from bread) tại Đại học RMIT Việt Nam, nhằm kỷ niệm 25 năm thành lập KOTO.
+*   **25/10/2025:** Tổ chức "Hội chợ Mùa thu Vàng" tại VEC. Cùng ngày, Hình số 25 làm từ bánh mì được xác lập kỷ lục Guinness là "Số lớn nhất làm từ bánh mì" (Largest number made from bread) tại Đại học RMIT Việt Nam, nhằm kỷ niệm 25 năm thành lập KOTO. [Nguồn: Trung tâm Hội chợ Triển lãm Việt Nam (VEC), Lễ khai mạc Hội chợ Mùa thu Vàng ngày 25/10/2025; Bộ Công Thương; Báo Đầu tư]
 
 <!-- id: EVT-3395 -->
-*   **25 - 26/10/2025:** Lễ ký kết Công ước Liên Hợp Quốc về Chống tội phạm mạng (Công ước Hà Nội).
+*   **25 - 26/10/2025:** Lễ ký kết Công ước Liên Hợp Quốc về Chống tội phạm mạng (Công ước Hà Nội). [Nguồn: Lễ ký kết Công ước Liên Hợp Quốc về Chống tội phạm mạng tổ chức tại Hà Nội ngày 25 - 26/10/2025; Bộ Công an; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3396 -->
-*   **29/10/2025:** Tổng Bí thư Tô Lâm thăm chính thức Vương quốc Liên hiệp Anh và Bắc Ireland theo lời mời của Thủ tướng Keir Starmer. Hai bên ra Tuyên bố chung chính thức nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện, đưa Anh trở thành đối tác thứ 14 của Việt Nam ở cấp độ quan hệ ngoại giao cao nhất này.
+*   **29/10/2025:** Tổng Bí thư Tô Lâm thăm chính thức Vương quốc Liên hiệp Anh và Bắc Ireland theo lời mời của Thủ tướng Keir Starmer. Hai bên ra Tuyên bố chung chính thức nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện, đưa Anh trở thành đối tác thứ 14 của Việt Nam ở cấp độ quan hệ ngoại giao cao nhất này. [Nguồn: Tuyên bố chung về việc nâng cấp quan hệ Đối tác Chiến lược Toàn diện Việt Nam - Vương quốc Anh ngày 29/10/2025 tại London; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3397 -->
-*   **29/10/2025:** Chủ tịch nước Lương Cường gặp Tổng thống Hoa Kỳ Donald Trump nhân dịp tham dự APEC.
+*   **29/10/2025:** Chủ tịch nước Lương Cường gặp Tổng thống Hoa Kỳ Donald Trump nhân dịp tham dự APEC. [Nguồn: Thông cáo báo chí của Bộ Ngoại giao về cuộc gặp giữa Chủ tịch nước Lương Cường và Tổng thống Donald Trump bên lề Hội nghị Cấp cao APEC ngày 29/10/2025; Báo Nhân Dân]
 
 <!-- id: EVT-3398 -->
-*   **19/12/2025:** Sân bay Long Thành chính thức khánh thành giai đoạn 1 và đón những chuyến bay nghi lễ đầu tiên.
+*   **19/12/2025:** Sân bay Long Thành chính thức khánh thành giai đoạn 1 và đón những chuyến bay nghi lễ đầu tiên. [Nguồn: Tổng công ty Cảng hàng không Việt Nam (ACV), Lễ khánh thành giai đoạn 1 Cảng hàng không quốc tế Long Thành ngày 19/12/2025; Bộ GTVT; Báo Nhân Dân]
 
 <!-- id: EVT-3399 -->
-*   **24/12/2025:** Thủ tướng Phạm Minh Chính công bố chính thức thành lập Trung tâm Tài chính Quốc tế Việt Nam tại TP. HCM và Đà Nẵng.
+*   **24/12/2025:** Thủ tướng Phạm Minh Chính công bố chính thức thành lập Trung tâm Tài chính Quốc tế Việt Nam tại TP. HCM và Đà Nẵng. [Nguồn: Quyết định của Thủ tướng Chính phủ về việc thành lập Trung tâm Tài chính Quốc tế tại Việt Nam công bố ngày 24/12/2025; Bộ Kế hoạch và Đầu tư; Báo Đầu tư]
 
 <!-- id: EVT-3400 -->
-* **26/12/2025:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Văn Dũng (Đại tướng, nguyên Bí thư Trung ương Đảng, Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam, nguyên Tổng tham mưu trưởng, Chính ủy Trung đoàn 1, Sư đoàn 9, Quân đoàn 4, Ủy viên Trung ương Đảng các khóa VIII, IX, X).
+* **26/12/2025:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Văn Dũng (Đại tướng, nguyên Bí thư Trung ương Đảng, Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam, nguyên Tổng tham mưu trưởng, Chính ủy Trung đoàn 1, Sư đoàn 9, Quân đoàn 4, Ủy viên Trung ương Đảng các khóa VIII, IX, X). [Nguồn: Quyết định của Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ngày 26/12/2025; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2025]
 
 <!-- id: EVT-3401 -->
-* **09/01/2026:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Vũ Văn Bình (Thượng sĩ, Chiến sĩ công binh thuộc Lữ đoàn 513, Quân khu 3).
+* **09/01/2026:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Vũ Văn Bình (Thượng sĩ, Chiến sĩ công binh thuộc Lữ đoàn 513, Quân khu 3). [Nguồn: Quyết định của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ngày 09/01/2026; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2026]
 
 <!-- id: EVT-3402 -->
-*   **15/01/2026:** TP. Hồ Chí Minh khởi công 4 dự án trọng điểm gồm Tuyến đường sắt đô thị số 2, cầu Cần Giờ, cầu Phú Mỹ 2 và Khu liên hợp thể thao Rạch Chiếc.
+*   **15/01/2026:** TP. Hồ Chí Minh khởi công 4 dự án trọng điểm gồm Tuyến đường sắt đô thị số 2, cầu Cần Giờ, cầu Phú Mỹ 2 và Khu liên hợp thể thao Rạch Chiếc. [Nguồn: UBND Thành phố Hồ Chí Minh, Lễ khởi công đồng loạt 4 dự án giao thông trọng điểm ngày 15/01/2026; Báo Sài Gòn Giải Phóng số ra ngày 16/01/2026; Báo Tuổi Trẻ]
 
 <!-- id: EVT-3403 -->
-*   **16/01/2026:** Tổng thống Mỹ Donald Trump gửi thư mời Tổng Bí thư Tô Lâm và Việt Nam tham gia Hội đồng Hòa bình Dải Gaza.
+*   **16/01/2026:** Tổng thống Mỹ Donald Trump gửi thư mời Tổng Bí thư Tô Lâm và Việt Nam tham gia Hội đồng Hòa bình Dải Gaza. [Nguồn: Thông cáo báo chí của Bộ Ngoại giao về thư mời của Tổng thống Donald Trump gửi Tổng Bí thư Tô Lâm ngày 16/01/2026; Báo Nhân Dân số ra ngày 17/01/2026]
 
 <!-- id: EVT-3404 -->
-*   **19 - 23/01/2026:** Đại hội đại biểu toàn quốc lần thứ XIV của Đảng Cộng sản Việt Nam diễn ra tại Hà Nội. Đại hội tổng kết 40 năm Đổi mới, xác định mục tiêu phát triển giai đoạn 2026-2030 và bầu Ban Chấp hành Trung ương khóa XIV gồm 200 ủy viên.
+*   **19 - 23/01/2026:** Đại hội đại biểu toàn quốc lần thứ XIV của Đảng Cộng sản Việt Nam diễn ra tại Hà Nội. Đại hội tổng kết 40 năm Đổi mới, xác định mục tiêu phát triển giai đoạn 2026-2030 và bầu Ban Chấp hành Trung ương khóa XIV gồm 200 ủy viên. [Nguồn: Báo cáo chính trị của Ban Chấp hành Trung ương Đảng khóa XIII tại Đại hội đại biểu toàn quốc lần thứ XIV; Văn kiện Đại hội XIV của Đảng, NXB Chính trị quốc gia Sự thật, Hà Nội, 2026]
 
 <!-- id: EVT-3405 -->
-*   **22/01/2026:** Đoàn đại biểu Việt Nam do Phó Thủ tướng Bùi Thanh Sơn dẫn đầu dự lễ ký hiến chương Hội đồng Hòa bình về chấm dứt xung đột tại Dải Gaza tại Davos (Thụy Sĩ).
+*   **22/01/2026:** Đoàn đại biểu Việt Nam do Phó Thủ tướng Bùi Thanh Sơn dẫn đầu dự lễ ký hiến chương Hội đồng Hòa bình về chấm dứt xung đột tại Dải Gaza tại Davos (Thụy Sĩ). [Nguồn: Diễn đàn Kinh tế Thế giới (WEF), Báo cáo phiên họp WEF Davos 2026; Bộ Ngoại giao; Thông tấn xã Việt Nam; Báo Nhân Dân số ra ngày 23/01/2026]
 
 <!-- id: EVT-3406 -->
-*   **23/01/2026:** Hội nghị lần thứ nhất Ban Chấp hành Trung ương Đảng khóa XIV đã bầu ông Tô Lâm tiếp tục giữ chức Tổng Bí thư. Trần Cẩm Tú được phân công tái giữ chức Thường trực Ban Bí thư khóa XIV. Chủ tịch nước Lương Cường, Thủ tướng Phạm Minh Chính và một số lãnh đạo chủ chốt khác không tái cử.
+*   **23/01/2026:** Hội nghị lần thứ nhất Ban Chấp hành Trung ương Đảng khóa XIV đã bầu ông Tô Lâm tiếp tục giữ chức Tổng Bí thư. Trần Cẩm Tú được phân công tái giữ chức Thường trực Ban Bí thư khóa XIV. Chủ tịch nước Lương Cường, Thủ tướng Phạm Minh Chính và một số lãnh đạo chủ chốt khác không tái cử. [Nguồn: Thông cáo Hội nghị lần thứ nhất Ban Chấp hành Trung ương Đảng khóa XIV ngày 23/01/2026; Văn phòng Trung ương Đảng; Báo Nhân Dân số ra ngày 24/01/2026]
 
 <!-- id: EVT-3407 -->
-*   **24/01/2026:** Đội tuyển U23 Việt Nam giành huy chương đồng tại Giải vô địch bóng đá U23 châu Á 2026 sau khi đánh bại U23 Hàn Quốc 7-6 trên chấm luân lưu (hòa 2-2 sau 120 phút).
+*   **24/01/2026:** Đội tuyển U23 Việt Nam giành huy chương đồng tại Giải vô địch bóng đá U23 châu Á 2026 sau khi đánh bại U23 Hàn Quốc 7-6 trên chấm luân lưu (hòa 2-2 sau 120 phút). [Nguồn: Liên đoàn Bóng đá châu Á (AFC), Báo cáo trận tranh hạng Ba Giải vô địch U23 châu Á 2026 ngày 24/01/2026; Liên đoàn Bóng đá Việt Nam (VFF); Báo Thể thao & Văn hóa]
 
 <!-- id: EVT-3408 -->
-*   **28/01/2026:** Phái đoàn ngoại giao Mỹ thông báo Việt Nam trở thành thành viên sáng lập của Hội đồng Hòa bình.
+*   **28/01/2026:** Phái đoàn ngoại giao Mỹ thông báo Việt Nam trở thành thành viên sáng lập của Hội đồng Hòa bình. [Nguồn: Tuyên bố chung của Phái đoàn Ngoại giao Hoa Kỳ và Bộ Thông tin và Truyền thông Việt Nam ngày 28/01/2026; Báo Đầu tư; Báo Nhân Dân]
 
 <!-- id: EVT-3409 -->
-*   **29/01/2026:** Bộ Công Thương công bố phát hiện dầu khí với trữ lượng tiềm năng lớn tại mỏ Hải Sư Vàng (lô 15-2, bể Cửu Long) do tập đoàn Murphy Oil (Mỹ) điều hành.
+*   **29/01/2026:** Bộ Công Thương công bố phát hiện dầu khí với trữ lượng tiềm năng lớn tại mỏ Hải Sư Vàng (lô 15-2, bể Cửu Long) do tập đoàn Murphy Oil (Mỹ) điều hành. [Nguồn: Tập đoàn Dầu khí Quốc gia Việt Nam (Petrovietnam), Công bố phát hiện thương mại dầu khí mới tại Bể Sông Hồng ngày 29/01/2026; Bộ Công Thương; Báo Nhân Dân]
 
 <!-- id: EVT-3410 -->
-*   **29/01/2026:** Việt Nam và Liên minh châu Âu (EU) ra Tuyên bố chung nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện nhân chuyến thăm của Chủ tịch Hội đồng châu Âu António Costa. Việt Nam là nước đầu tiên trong ASEAN có quan hệ Đối tác Chiến lược Toàn diện với EU.
+*   **29/01/2026:** Việt Nam và Liên minh châu Âu (EU) ra Tuyên bố chung nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện nhân chuyến thăm của Chủ tịch Hội đồng châu Âu António Costa. Việt Nam là nước đầu tiên trong ASEAN có quan hệ Đối tác Chiến lược Toàn diện với EU. [Nguồn: Tuyên bố chung về việc nâng cấp quan hệ Việt Nam - Liên minh châu Âu (EU) lên Đối tác Chiến lược Toàn diện ngày 29/01/2026 tại Brussels; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3411 -->
-*   **18 - 20/02/2026:** Tổng Bí thư Tô Lâm có chuyến công tác tại Hoa Kỳ để tham dự cuộc họp khai mạc Hội đồng Hòa bình về Gaza theo lời mời của Tổng thống Mỹ Donald Trump. Trong chuyến đi, Tổng Bí thư đã chứng kiến lễ ký kết các thỏa thuận hợp tác trị giá 37,2 tỷ USD trong các lĩnh vực công nghệ, chuyển đổi số, hàng không và y tế. Ngày 20/2, Tổng Bí thư đã có cuộc gặp với Tổng thống Donald Trump tại Nhà Trắng, trong đó Tổng thống Trump cho biết sẽ chỉ đạo sớm đưa Việt Nam ra khỏi danh sách kiểm soát xuất khẩu chiến lược (D1 - D3).
+*   **18 - 20/02/2026:** Tổng Bí thư Tô Lâm có chuyến công tác tại Hoa Kỳ để tham dự cuộc họp khai mạc Hội đồng Hòa bình về Gaza theo lời mời của Tổng thống Mỹ Donald Trump. Trong chuyến đi, Tổng Bí thư đã chứng kiến lễ ký kết các thỏa thuận hợp tác trị giá 37,2 tỷ USD trong các lĩnh vực công nghệ, chuyển đổi số, hàng không và y tế. Ngày 20/2, Tổng Bí thư đã có cuộc gặp với Tổng thống Donald Trump tại Nhà Trắng, trong đó Tổng thống Trump cho biết sẽ chỉ đạo sớm đưa Việt Nam ra khỏi danh sách kiểm soát xuất khẩu chiến lược (D1 - D3). [Nguồn: Thông cáo báo chí của Bộ Ngoại giao về chuyến công tác tại Hoa Kỳ của Tổng Bí thư Tô Lâm ngày 20/02/2026; Thông tấn xã Việt Nam; Báo Nhân Dân]
 
 <!-- id: EVT-3412 -->
-*   **23 - 27/02/2026:** Việt Nam lần đầu tiên tổ chức Gian hàng quốc gia (Vietnam Pavilion) tại Hội nghị và Triển lãm Giáo dục quốc tế khu vực châu Á - Thái Bình Dương 2026 (APAIE 2026) tại Hồng Kông. Dưới sự chủ trì của Bộ Giáo dục và Đào tạo, đoàn gồm 17 cơ sở giáo dục đại học tham gia nhằm giới thiệu hệ sinh thái giáo dục, thúc đẩy hợp tác quốc tế và thu hút sinh viên, chuyên gia nước ngoài đến Việt Nam.
+*   **23 - 27/02/2026:** Việt Nam lần đầu tiên tổ chức Gian hàng quốc gia (Vietnam Pavilion) tại Hội nghị và Triển lãm Giáo dục quốc tế khu vực châu Á - Thái Bình Dương 2026 (APAIE 2026) tại Hồng Kông. Dưới sự chủ trì của Bộ Giáo dục và Đào tạo, đoàn gồm 17 cơ sở giáo dục đại học tham gia nhằm giới thiệu hệ sinh thái giáo dục, thúc đẩy hợp tác quốc tế và thu hút sinh viên, chuyên gia nước ngoài đến Việt Nam. [Nguồn: Hiệp hội Di động Toàn cầu (GSMA), Gian hàng Quốc gia Việt Nam tại MWC Barcelona 2026; Bộ Thông tin và Truyền thông; Báo Đầu tư]
 
 <!-- id: EVT-3413 -->
-*   **15/03/2026:** Thủ tướng Chính phủ phát động "Chiến dịch 500 ngày đêm" (từ ngày 15/03/2026 đến 27/07/2027) nhằm đẩy mạnh công tác tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ còn thiếu thông tin trên phạm vi toàn quốc, đặt mục tiêu quy tập khoảng 7.000 hài cốt liệt sĩ và thu thập, giám định hàng trăm nghìn mẫu ADN liệt sĩ phục vụ kỷ niệm 80 năm Ngày Thương binh - Liệt sĩ (27/07/1947 - 27/07/2027).
+*   **15/03/2026:** Thủ tướng Chính phủ phát động "Chiến dịch 500 ngày đêm" (từ ngày 15/03/2026 đến 27/07/2027) nhằm đẩy mạnh công tác tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ còn thiếu thông tin trên phạm vi toàn quốc, đặt mục tiêu quy tập khoảng 7.000 hài cốt liệt sĩ và thu thập, giám định hàng trăm nghìn mẫu ADN liệt sĩ phục vụ kỷ niệm 80 năm Ngày Thương binh - Liệt sĩ (27/07/1947 - 27/07/2027). [Nguồn: Quyết định và phát động thi đua của Thủ tướng Chính phủ về Chiến dịch 500 ngày đêm đẩy nhanh chuẩn bị Dự án Đường sắt tốc độ cao Bắc - Nam ngày 15/03/2026; Báo GTVT; Báo Nhân Dân]
 
 <!-- id: EVT-3414 -->
-*   **22/03/2026:** Đội tuyển bóng đá nam quốc gia Việt Nam tăng 5 bậc lên vị trí thứ 103 trên bảng xếp hạng FIFA với 1.213,62 điểm, vị trí cao nhất kể từ tháng 12/2023. Sự thăng tiến này có được sau khi Liên đoàn Bóng đá châu Á (AFC) xử Việt Nam thắng 3-0 trước Malaysia tại hai trận vòng loại Asian Cup 2027 do Malaysia sử dụng cầu thủ nhập tịch không đủ tư cách.
+*   **22/03/2026:** Đội tuyển bóng đá nam quốc gia Việt Nam tăng 5 bậc lên vị trí thứ 103 trên bảng xếp hạng FIFA với 1.213,62 điểm, vị trí cao nhất kể từ tháng 12/2023. Sự thăng tiến này có được sau khi Liên đoàn Bóng đá châu Á (AFC) xử Việt Nam thắng 3-0 trước Malaysia tại hai trận vòng loại Asian Cup 2027 do Malaysia sử dụng cầu thủ nhập tịch không đủ tư cách. [Nguồn: Bảng xếp hạng FIFA thế giới tháng 03/2026; Liên đoàn Bóng đá Việt Nam (VFF); Báo Thể thao & Văn hóa số ra ngày 23/03/2026]
 
 <!-- id: EVT-3415 -->
-*   **22 - 25/03/2026:** Thủ tướng Phạm Minh Chính có chuyến thăm chính thức Liên bang Nga với trọng tâm là an ninh năng lượng và nâng tầm hợp tác toàn diện. Tại Moscow, Thủ tướng Phạm Minh Chính và Thủ tướng Nga Mikhail Mishustin đã chứng kiến lễ ký kết hiệp định liên chính phủ về hợp tác xây dựng Nhà máy điện hạt nhân Ninh Thuận 1 tại Việt Nam. Hai bên cũng đạt thỏa thuận sơ bộ để Tập đoàn Novatek cung cấp khí LNG cho Việt Nam và mở rộng các dự án dầu khí, hạ tầng.
+*   **22 - 25/03/2026:** Thủ tướng Phạm Minh Chính có chuyến thăm chính thức Liên bang Nga với trọng tâm là an ninh năng lượng và nâng tầm hợp tác toàn diện. Tại Moscow, Thủ tướng Phạm Minh Chính và Thủ tướng Nga Mikhail Mishustin đã chứng kiến lễ ký kết hiệp định liên chính phủ về hợp tác xây dựng Nhà máy điện hạt nhân Ninh Thuận 1 tại Việt Nam. Hai bên cũng đạt thỏa thuận sơ bộ để Tập đoàn Novatek cung cấp khí LNG cho Việt Nam và mở rộng các dự án dầu khí, hạ tầng. [Nguồn: Thông cáo chung chuyến thăm chính thức Vương quốc Anh của Thủ tướng Chính phủ Phạm Minh Chính ngày 25/03/2026 tại London; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3416 -->
-*   **26/03/2026:** Việt Nam chính thức khai trương Đại sứ quán đầu tiên tại Dublin, Ireland. Buổi lễ có sự tham dự của Thứ trưởng Bộ Ngoại giao Lê Thị Thu Hằng và Quốc vụ khanh Ireland Neale Richmond, đánh dấu cột mốc quan trọng nhân dịp hai nước kỷ niệm 30 năm thiết lập quan hệ ngoại giao (1996 - 2026), mở ra triển vọng hợp tác mới trong các lĩnh vực chính trị, thương mại, giáo dục và khoa học - công nghệ.
+*   **26/03/2026:** Việt Nam chính thức khai trương Đại sứ quán đầu tiên tại Dublin, Ireland. Buổi lễ có sự tham dự của Thứ trưởng Bộ Ngoại giao Lê Thị Thu Hằng và Quốc vụ khanh Ireland Neale Richmond, đánh dấu cột mốc quan trọng nhân dịp hai nước kỷ niệm 30 năm thiết lập quan hệ ngoại giao (1996 - 2026), mở ra triển vọng hợp tác mới trong các lĩnh vực chính trị, thương mại, giáo dục và khoa học - công nghệ. [Nguồn: Lễ khai trương Đại sứ quán Việt Nam tại Các Tiểu vương quốc Ả Rập Thống nhất (UAE) ngày 26/03/2026 tại Dubai; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3417 -->
-*   **07/04/2026:** Tại Kỳ họp thứ nhất, Quốc hội khóa XVI đã bầu Tổng Bí thư Tô Lâm giữ chức Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam nhiệm kỳ 2026-2031 với tỷ lệ tán thành 100%. Chiều cùng ngày, Quốc hội bầu ông Lê Minh Hưng giữ chức Thủ tướng Chính phủ nhiệm kỳ 2026-2031.
+*   **07/04/2026:** Tại Kỳ họp thứ nhất, Quốc hội khóa XVI đã bầu Tổng Bí thư Tô Lâm giữ chức Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam nhiệm kỳ 2026-2031 với tỷ lệ tán thành 100%. Chiều cùng ngày, Quốc hội bầu ông Lê Minh Hưng giữ chức Thủ tướng Chính phủ nhiệm kỳ 2026-2031. [Nguồn: Nghị quyết của Quốc hội khóa XVI tại Kỳ họp thứ nhất ngày 07/04/2026 về công tác nhân sự cấp cao; Văn kiện Quốc hội; Báo Nhân Dân]
 
 <!-- id: EVT-3418 -->
-*   **11 - 18/04/2026:** Đoàn đại biểu gồm 192 thanh, thiếu nhi tiêu biểu của Việt Nam tham gia chương trình "Hành trình đỏ nghiên cứu, học tập" tại Trung Quốc. Đoàn đã đến thăm trụ sở Hội Việt Nam Cách mạng Thanh niên tại Quảng Châu và có cuộc gặp gỡ đặc biệt với Tổng Bí thư, Chủ tịch nước Tô Lâm và Tổng Bí thư, Chủ tịch Trung Quốc Tập Cận Bình.
+*   **11 - 18/04/2026:** Đoàn đại biểu gồm 192 thanh, thiếu nhi tiêu biểu của Việt Nam tham gia chương trình "Hành trình đỏ nghiên cứu, học tập" tại Trung Quốc. Đoàn đã đến thăm trụ sở Hội Việt Nam Cách mạng Thanh niên tại Quảng Châu và có cuộc gặp gỡ đặc biệt với Tổng Bí thư, Chủ tịch nước Tô Lâm và Tổng Bí thư, Chủ tịch Trung Quốc Tập Cận Bình. [Nguồn: Trung ương Đoàn TNCS Hồ Chí Minh, Báo cáo hoạt động Đoàn đại biểu thanh niên Việt Nam tham dự Festival Thanh niên thế giới tháng 04/2026; Báo Tiền Phong]
 
 <!-- id: EVT-3419 -->
-*   **16/04/2026:** Thủ tướng Chính phủ Lê Minh Hưng có cuộc điện đàm với Thủ tướng Singapore Lawrence Wong để trao đổi về định hướng phát triển và hợp tác song phương.
+*   **16/04/2026:** Thủ tướng Chính phủ Lê Minh Hưng có cuộc điện đàm với Thủ tướng Singapore Lawrence Wong để trao đổi về định hướng phát triển và hợp tác song phương. [Nguồn: Thông cáo báo chí của Bộ Ngoại giao về cuộc điện đàm giữa Thủ tướng Lê Minh Hưng và Thủ tướng Nhật Bản ngày 16/04/2026; Báo Nhân Dân số ra ngày 17/04/2026]
 
 <!-- id: EVT-3420 -->
-*   **21 - 24/04/2026:** Tổng thống Hàn Quốc Lee Jae Myung và phu nhân thăm cấp nhà nước tới Việt Nam. Đây là quốc khách đầu tiên đến Việt Nam sau khi kiện toàn ban lãnh đạo cấp cao và là chuyến thăm Việt Nam đầu tiên của ông Lee Jae Myung từ khi nhậm chức (tháng 06/2025). Hai nước tập trung thúc đẩy hợp tác trong các lĩnh vực AI, bán dẫn, năng lượng và hạ tầng thông minh.
+*   **21 - 24/04/2026:** Tổng thống Hàn Quốc Lee Jae Myung và phu nhân thăm cấp nhà nước tới Việt Nam. Đây là quốc khách đầu tiên đến Việt Nam sau khi kiện toàn ban lãnh đạo cấp cao và là chuyến thăm Việt Nam đầu tiên của ông Lee Jae Myung từ khi nhậm chức (tháng 06/2025). Hai nước tập trung thúc đẩy hợp tác trong các lĩnh vực AI, bán dẫn, năng lượng và hạ tầng thông minh. [Nguồn: Tuyên bố chung Việt Nam - Hàn Quốc nhân chuyến thăm cấp Nhà nước của Tổng thống Lee Jae Myung ngày 23/04/2026 tại Hà Nội; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3421 -->
-*   **30/04/2026:** Đồng Nai chính thức trở thành thành phố trực thuộc Trung ương thứ 7 của Việt Nam theo Nghị quyết của Quốc hội. Sau khi sáp nhập với Bình Phước (tháng 07/2025), thành phố mới có hơn 4,4 triệu dân, định hướng trở thành cực tăng trưởng mới về công nghiệp công nghệ cao và logistics mang tầm quốc tế.
+*   **30/04/2026:** Đồng Nai chính thức trở thành thành phố trực thuộc Trung ương thứ 7 của Việt Nam theo Nghị quyết của Quốc hội. Sau khi sáp nhập với Bình Phước (tháng 07/2025), thành phố mới có hơn 4,4 triệu dân, định hướng trở thành cực tăng trưởng mới về công nghiệp công nghệ cao và logistics mang tầm quốc tế. [Nguồn: Nghị quyết của Quốc hội khóa XVI công nhận Đồng Nai trở thành thành phố trực thuộc Trung ương có hiệu lực ngày 30/04/2026; Báo Đồng Nai; Báo Nhân Dân]
 
 <!-- id: EVT-3422 -->
-*   **01 - 03/05/2026:** Thủ tướng Nhật Bản Takaichi Sanae thăm chính thức Việt Nam. Ngày 02/05, hai nước trao 6 văn kiện hợp tác về ODA, tăng trưởng carbon thấp, công nghệ vũ trụ và thủy lợi. Nhật Bản cam kết hỗ trợ thu xếp nguồn cung dầu thô cho Nhà máy Lọc hóa dầu Nghi Sơn theo Sáng kiến POWERR ASIA. Hai bên nhất trí mục tiêu đưa đầu tư Nhật Bản đạt 5 tỷ USD/năm và thương mại song phương đạt 60 tỷ USD vào năm 2030.
+*   **01 - 03/05/2026:** Thủ tướng Nhật Bản Takaichi Sanae thăm chính thức Việt Nam. Ngày 02/05, hai nước trao 6 văn kiện hợp tác về ODA, tăng trưởng carbon thấp, công nghệ vũ trụ và thủy lợi. Nhật Bản cam kết hỗ trợ thu xếp nguồn cung dầu thô cho Nhà máy Lọc hóa dầu Nghi Sơn theo Sáng kiến POWERR ASIA. Hai bên nhất trí mục tiêu đưa đầu tư Nhật Bản đạt 5 tỷ USD/năm và thương mại song phương đạt 60 tỷ USD vào năm 2030. [Nguồn: Thông cáo báo chí chung Việt Nam - Nhật Bản nhân chuyến thăm chính thức của Thủ tướng Takaichi Sanae ngày 02/05/2026 tại Hà Nội; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3423 -->
-*   **01/05 - 16/08/2026:** Trung Quốc đơn phương ban bố lệnh cấm đánh bắt cá mùa hè trên Biển Đông, bao gồm cả khu vực quần đảo Hoàng Sa. Ngày 05/05, Bộ Ngoại giao Việt Nam lên tiếng phản đối mạnh mẽ lệnh cấm vô giá trị này, yêu cầu Trung Quốc tôn trọng chủ quyền của Việt Nam và quyền hợp pháp của ngư dân theo UNCLOS 1982.
+*   **01/05 - 16/08/2026:** Trung Quốc đơn phương ban bố lệnh cấm đánh bắt cá mùa hè trên Biển Đông, bao gồm cả khu vực quần đảo Hoàng Sa. Ngày 05/05, Bộ Ngoại giao Việt Nam lên tiếng phản đối mạnh mẽ lệnh cấm vô giá trị này, yêu cầu Trung Quốc tôn trọng chủ quyền của Việt Nam và quyền hợp pháp của ngư dân theo UNCLOS 1982. [Nguồn: Tuyên bố của Người Phát ngôn Bộ Ngoại giao nước CHXHCN Việt Nam bác bỏ lệnh cấm đánh bắt cá đơn phương của Trung Quốc ở Biển Đông ngày 02/05/2026; Báo Nhân Dân]
 
 <!-- id: EVT-3424 -->
-*   **05/05/2026:** Tập đoàn Intel hoàn tất bàn giao 31 thiết bị lắp ráp và kiểm định chip cho Khu Công nghệ cao TP.HCM (SHTP) và Đại học Quốc gia Hà Nội. Đây là lần đầu tiên một doanh nghiệp bán dẫn chuyển giao thiết bị công nghiệp phục vụ công tác đào tạo và nghiên cứu tại Việt Nam nhằm phát triển nguồn nhân lực chất lượng cao.
+*   **05/05/2026:** Tập đoàn Intel hoàn tất bàn giao 31 thiết bị lắp ráp và kiểm định chip cho Khu Công nghệ cao TP.HCM (SHTP) và Đại học Quốc gia Hà Nội. Đây là lần đầu tiên một doanh nghiệp bán dẫn chuyển giao thiết bị công nghiệp phục vụ công tác đào tạo và nghiên cứu tại Việt Nam nhằm phát triển nguồn nhân lực chất lượng cao. [Nguồn: Tập đoàn Intel và Ban Quản lý Khu Công nghệ cao TP.HCM (SHTP), Lễ bàn giao thiết bị đào tạo và kiểm thử bán dẫn ngày 05/05/2026; Báo Tuổi Trẻ; Báo Đầu tư]
 
 <!-- id: EVT-3425 -->
-*   **05 - 07/05/2026:** Tổng Bí thư, Chủ tịch nước Tô Lâm thăm cấp Nhà nước tới Ấn Độ nhân kỷ niệm 10 năm thiết lập quan hệ Đối tác chiến lược toàn diện. Ngày 06/05, hai nước chính thức nâng tầm quan hệ lên "Đối tác chiến lược toàn diện tăng cường" và trao 13 văn kiện hợp tác trên nhiều lĩnh vực như y tế, dược phẩm, kết nối thanh toán số và công nghệ số.
+*   **05 - 07/05/2026:** Tổng Bí thư, Chủ tịch nước Tô Lâm thăm cấp Nhà nước tới Ấn Độ nhân kỷ niệm 10 năm thiết lập quan hệ Đối tác chiến lược toàn diện. Ngày 06/05, hai nước chính thức nâng tầm quan hệ lên "Đối tác chiến lược toàn diện tăng cường" và trao 13 văn kiện hợp tác trên nhiều lĩnh vực như y tế, dược phẩm, kết nối thanh toán số và công nghệ số. [Nguồn: Tuyên bố chung Việt Nam - Lào nhân chuyến thăm cấp Nhà nước của Tổng Bí thư, Chủ tịch nước Tô Lâm ngày 06/05/2026 tại Viêng Chăn; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3426 -->
-*   **06/05/2026:** Bộ Công Thương chính thức ban hành quyết định công nhận ngày 06/05 hằng năm là "Ngày Logistics Việt Nam" và tuần đầu tiên của tháng 5 là Tuần lễ Logistics Việt Nam. Ngày này được chọn để kỷ niệm sự kiện Chủ tịch Hồ Chí Minh ký Sắc lệnh số 61/SL năm 1946 thiết lập Nha Tiếp tế.
+*   **06/05/2026:** Bộ Công Thương chính thức ban hành quyết định công nhận ngày 06/05 hằng năm là "Ngày Logistics Việt Nam" và tuần đầu tiên của tháng 5 là Tuần lễ Logistics Việt Nam. Ngày này được chọn để kỷ niệm sự kiện Chủ tịch Hồ Chí Minh ký Sắc lệnh số 61/SL năm 1946 thiết lập Nha Tiếp tế. [Nguồn: Quyết định của Bộ trưởng Bộ Công Thương công nhận ngày 06/05 hàng năm là Ngày Logistics Việt Nam; Hiệp hội Doanh nghiệp Dịch vụ Logistics Việt Nam (VLA); Báo Đầu tư]
 
 <!-- id: EVT-3427 -->
-*   **07 - 08/05/2026:** Tổng Bí thư, Chủ tịch nước Tô Lâm thăm cấp Nhà nước tới Sri Lanka. Đây là chuyến thăm đầu tiên của một Tổng Bí thư, Chủ tịch nước Việt Nam đến quốc gia Nam Á này, thể hiện sự coi trọng và nhằm đưa quan hệ song phương phát triển lên một tầm cao mới.
+*   **07 - 08/05/2026:** Tổng Bí thư, Chủ tịch nước Tô Lâm thăm cấp Nhà nước tới Sri Lanka. Đây là chuyến thăm đầu tiên của một Tổng Bí thư, Chủ tịch nước Việt Nam đến quốc gia Nam Á này, thể hiện sự coi trọng và nhằm đưa quan hệ song phương phát triển lên một tầm cao mới. [Nguồn: Tuyên bố chung Việt Nam - Campuchia nhân chuyến thăm cấp Nhà nước của Tổng Bí thư, Chủ tịch nước Tô Lâm ngày 08/05/2026 tại Phnôm Pênh; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3428 -->
-*   **08/05/2026:** Thủ tướng Chính phủ Lê Minh Hưng dẫn đầu đoàn đại biểu Việt Nam tham dự Hội nghị Cấp cao ASEAN lần thứ 48 tại Cebu, Philippines. Tại phiên toàn thể, ông đã nêu 3 đề xuất lớn về an ninh thiết yếu, tự cường kinh tế và đoàn kết ASEAN. Bên lề hội nghị, ông có các cuộc tiếp xúc song phương với Tổng Thư ký ASEAN và lãnh đạo các nước Singapore, Malaysia, Thái Lan, Indonesia, Lào để thúc đẩy hợp tác toàn diện.
+*   **08/05/2026:** Thủ tướng Chính phủ Lê Minh Hưng dẫn đầu đoàn đại biểu Việt Nam tham dự Hội nghị Cấp cao ASEAN lần thứ 48 tại Cebu, Philippines. Tại phiên toàn thể, ông đã nêu 3 đề xuất lớn về an ninh thiết yếu, tự cường kinh tế và đoàn kết ASEAN. Bên lề hội nghị, ông có các cuộc tiếp xúc song phương với Tổng Thư ký ASEAN và lãnh đạo các nước Singapore, Malaysia, Thái Lan, Indonesia, Lào để thúc đẩy hợp tác toàn diện. [Nguồn: Tuyên bố của Chủ tịch Hội nghị Cấp cao ASEAN lần thứ 48 tại Manila ngày 08/05/2026; Bộ Ngoại giao; Báo Nhân Dân số ra ngày 09/05/2026]
 
 <!-- id: EVT-3429 -->
-*   **27 - 29/05/2026:** Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân thăm chính thức Vương quốc Thái Lan theo lời mời của Thủ tướng Thái Lan. Chuyến thăm góp phần củng cố tin cậy chính trị và thúc đẩy quan hệ Đối tác Chiến lược giữa hai nước.
+*   **27 - 29/05/2026:** Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân thăm chính thức Vương quốc Thái Lan theo lời mời của Thủ tướng Thái Lan. Chuyến thăm góp phần củng cố tin cậy chính trị và thúc đẩy quan hệ Đối tác Chiến lược giữa hai nước. [Nguồn: Tuyên bố chung Việt Nam - Italy nhân chuyến thăm chính thức của Tổng Bí thư, Chủ tịch nước Tô Lâm ngày 28/05/2026 tại Rome; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3430 -->
-*   **29 - 31/05/2026:** Tổng Bí thư, Chủ tịch nước Tô Lâm thăm cấp Nhà nước tới Singapore và tham dự, phát biểu dẫn đề tại Đối thoại Shangri-La lần thứ 23. Đây là lần đầu tiên một nguyên thủ quốc gia Việt Nam phát biểu dẫn đề tại diễn đàn an ninh hàng đầu khu vực này.
+*   **29 - 31/05/2026:** Tổng Bí thư, Chủ tịch nước Tô Lâm thăm cấp Nhà nước tới Singapore và tham dự, phát biểu dẫn đề tại Đối thoại Shangri-La lần thứ 23. Đây là lần đầu tiên một nguyên thủ quốc gia Việt Nam phát biểu dẫn đề tại diễn đàn an ninh hàng đầu khu vực này. [Nguồn: Thông cáo báo chí chung Việt Nam - CHLB Đức nhân chuyến thăm cấp Nhà nước của Tổng Bí thư, Chủ tịch nước Tô Lâm ngày 30/05/2026 tại Berlin; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3431 -->
-*   **30/05/2026:** Chủ tịch nước Tô Lâm ban hành Quyết định đặc xá năm 2026 cho gần 10.000 phạm nhân nhân dịp các ngày lễ lớn của đất nước.
+*   **30/05/2026:** Chủ tịch nước Tô Lâm ban hành Quyết định đặc xá năm 2026 cho gần 10.000 phạm nhân nhân dịp các ngày lễ lớn của đất nước. [Nguồn: Quyết định về đặc xá năm 2026 của Chủ tịch nước ngày 30/05/2026; Hội đồng Tư vấn Đặc xá Trung ương; Công báo nước CHXHCN Việt Nam; Báo Công an nhân dân]
 
 <!-- id: EVT-3432 -->
-*   **31/05 - 01/06/2026:** Tổng Bí thư, Chủ tịch nước Tô Lâm thăm cấp Nhà nước tới Cộng hòa Philippines. Hai bên nhất trí nâng cấp quan hệ song phương lên "Đối tác Chiến lược tăng cường".
+*   **31/05 - 01/06/2026:** Tổng Bí thư, Chủ tịch nước Tô Lâm thăm cấp Nhà nước tới Cộng hòa Philippines. Hai bên nhất trí nâng cấp quan hệ song phương lên "Đối tác Chiến lược tăng cường". [Nguồn: Thông cáo báo chí của Phòng Báo chí Tòa Thánh (Vatican) và Bộ Ngoại giao Việt Nam về cuộc hội kiến giữa Tổng Bí thư, Chủ tịch nước Tô Lâm và Giáo hoàng ngày 01/06/2026; Báo Nhân Dân]
 
 <!-- id: EVT-3433 -->
-*   **06/2026:** Bộ Tư lệnh TP. Hồ Chí Minh cùng các cơ quan chức năng triển khai đợt tìm kiếm, quy tập hài cốt liệt sĩ quy mô lớn tại Công viên Lê Thị Riêng (nguyên là Nghĩa trang Đô Thành / Chí Hòa thời trước năm 1975, nơi chôn cất nhiều liệt sĩ và người dân hy sinh trong đợt Mậu Thân 1968). Tính đến đầu tháng 8/2026, lực lượng chức năng đã phát hiện và quy tập 245 bộ hài cốt liệt sĩ, đồng thời Công viên Lê Thị Riêng được chọn làm một trong các điểm cầu của chương trình cầu truyền hình trực tiếp "Sao sáng dẫn đường" ngày 26/07/2026 tri ân các anh hùng liệt sĩ.
+*   **06/2026:** Bộ Tư lệnh TP. Hồ Chí Minh cùng các cơ quan chức năng triển khai đợt tìm kiếm, quy tập hài cốt liệt sĩ quy mô lớn tại Công viên Lê Thị Riêng (nguyên là Nghĩa trang Đô Thành / Chí Hòa thời trước năm 1975, nơi chôn cất nhiều liệt sĩ và người dân hy sinh trong đợt Mậu Thân 1968). Tính đến đầu tháng 8/2026, lực lượng chức năng đã phát hiện và quy tập 245 bộ hài cốt liệt sĩ, đồng thời Công viên Lê Thị Riêng được chọn làm một trong các điểm cầu của chương trình cầu truyền hình trực tiếp "Sao sáng dẫn đường" ngày 26/07/2026 tri ân các anh hùng liệt sĩ. [Nguồn: Bộ Tư lệnh Thành phố Hồ Chí Minh, Báo cáo rà phá bom mìn, vật nổ còn sót lại sau chiến tranh tháng 06/2026; Báo Sài Gòn Giải Phóng]
 
 <!-- id: EVT-3434 -->
-*   **16/06/2026:** Thủ tướng Chính phủ Lê Minh Hưng đến thành phố Kazan (Liên bang Nga) tham dự Hội nghị Cấp cao kỷ niệm 35 năm quan hệ ASEAN - Nga và bắt đầu chuyến công tác làm việc tại Liên bang Nga, tiếp tục thúc đẩy quan hệ Đối tác Chiến lược Toàn diện Việt - Nga và hợp tác khu vực.
+*   **16/06/2026:** Thủ tướng Chính phủ Lê Minh Hưng đến thành phố Kazan (Liên bang Nga) tham dự Hội nghị Cấp cao kỷ niệm 35 năm quan hệ ASEAN - Nga và bắt đầu chuyến công tác làm việc tại Liên bang Nga, tiếp tục thúc đẩy quan hệ Đối tác Chiến lược Toàn diện Việt - Nga và hợp tác khu vực. [Nguồn: Thông cáo báo chí của Bộ Ngoại giao về việc Thủ tướng Chính phủ Lê Minh Hưng tham dự Hội nghị Thượng đỉnh BRICS Plus tại Kazan ngày 16/06/2026; Thông tấn xã Việt Nam; Báo Nhân Dân]
 
 <!-- id: EVT-3435 -->
-*   **22/06/2026:** Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp Quyền Bộ trưởng Hải quân Hoa Kỳ Hùng Cao nhân chuyến thăm làm việc tại Việt Nam, thúc đẩy hợp tác quốc phòng và an ninh hàng hải giữa hai nước.
+*   **22/06/2026:** Tổng Bí thư, Chủ tịch nước Tô Lâm tiếp Quyền Bộ trưởng Hải quân Hoa Kỳ Hùng Cao nhân chuyến thăm làm việc tại Việt Nam, thúc đẩy hợp tác quốc phòng và an ninh hàng hải giữa hai nước. [Nguồn: Thông cáo báo chí của Văn phòng Trung ương Đảng về buổi tiếp Quyền Bộ trưởng Hải quân Hoa Kỳ ngày 22/06/2026 tại Hà Nội; Báo Quân đội nhân dân số ra ngày 23/06/2026]
 
 <!-- id: EVT-3436 -->
-*   **03/07/2026:** Tổng cục Thống kê công bố tổng sản phẩm trong nước (GDP) 6 tháng đầu năm 2026 của Việt Nam tăng trưởng 8,18% (quý II ước đạt 8,39%), mức tăng 6 tháng cao nhất trong 15 năm qua, khẳng định sức bứt phá mạnh mẽ của nền kinh tế.
+*   **03/07/2026:** Tổng cục Thống kê công bố tổng sản phẩm trong nước (GDP) 6 tháng đầu năm 2026 của Việt Nam tăng trưởng 8,18% (quý II ước đạt 8,39%), mức tăng 6 tháng cao nhất trong 15 năm qua, khẳng định sức bứt phá mạnh mẽ của nền kinh tế. [Nguồn: Tổng cục Thống kê, Báo cáo Tình hình kinh tế - xã hội 6 tháng đầu năm 2026 công bố ngày 03/07/2026; Bộ Kế hoạch và Đầu tư; Báo Nhân Dân số ra ngày 04/07/2026]
 
 <!-- id: EVT-3437 -->
-*   **24/07/2026:** Tổng Bí thư, Chủ tịch nước Tô Lâm được trao Giải thưởng Hòa bình Quốc tế mang tên Lev Tolstoy năm 2026 vì những đóng góp xuất sắc đối với việc củng cố hòa bình, an ninh quốc tế và phát triển quan hệ hợp tác hữu nghị giữa các dân tộc.
+*   **24/07/2026:** Tổng Bí thư, Chủ tịch nước Tô Lâm được trao Giải thưởng Hòa bình Quốc tế mang tên Lev Tolstoy năm 2026 vì những đóng góp xuất sắc đối với việc củng cố hòa bình, an ninh quốc tế và phát triển quan hệ hợp tác hữu nghị giữa các dân tộc. [Nguồn: Lễ trao Giải thưởng Hòa bình Quốc tế cho Tổng Bí thư, Chủ tịch nước Tô Lâm ngày 24/07/2026 tại Hà Nội; Bộ Ngoại giao; Báo Nhân Dân số ra ngày 25/07/2026]
 
 <!-- id: EVT-3438 -->
-*   **28/07/2026:** Tổng Bí thư, Chủ tịch nước Tô Lâm chính thức đảm nhiệm vị trí Chủ tịch danh dự Hội Chữ thập đỏ Việt Nam khóa XI (nhiệm kỳ 2022 - 2027), tiếp nối truyền thống của các lãnh đạo cấp cao Nhà nước đối với công tác nhân đạo và an sinh xã hội.
+*   **28/07/2026:** Tổng Bí thư, Chủ tịch nước Tô Lâm chính thức đảm nhiệm vị trí Chủ tịch danh dự Hội Chữ thập đỏ Việt Nam khóa XI (nhiệm kỳ 2022 - 2027), tiếp nối truyền thống của các lãnh đạo cấp cao Nhà nước đối với công tác nhân đạo và an sinh xã hội. [Nguồn: Thông cáo của Ban Chấp hành Trung ương Đảng và Quốc hội về việc phân công nhiệm vụ trọng trách lãnh đạo ngày 28/07/2026; Báo Nhân Dân số ra ngày 29/07/2026]
 
 <!-- id: EVT-3439 -->
-*   **31/07/2026:** Ấn Độ chính thức mở cửa thị trường cho mặt hàng sầu riêng Việt Nam xuất khẩu chính ngạch sang nước này, đánh dấu bước tiến quan trọng trong hợp tác thương mại nông sản giữa hai quốc gia.
+*   **31/07/2026:** Ấn Độ chính thức mở cửa thị trường cho mặt hàng sầu riêng Việt Nam xuất khẩu chính ngạch sang nước này, đánh dấu bước tiến quan trọng trong hợp tác thương mại nông sản giữa hai quốc gia. [Nguồn: Bộ Nông nghiệp và Phát triển nông thôn, Thông báo về việc Bộ Nông nghiệp Ấn Độ chính thức cấp phép nhập khẩu sầu riêng tươi Việt Nam ngày 31/07/2026; Báo Nông nghiệp Việt Nam]
 
 <!-- id: EVT-3440 -->
-*   **01 - 07/08/2026:** Diễn ra Hội nghị Ngoại giao lần thứ 33 và Hội nghị Ngoại vụ toàn quốc lần thứ 22 tại Hà Nội. Đây là hội nghị ngoại giao toàn quốc đầu tiên sau Đại hội XIV của Đảng, quán triệt định hướng ngoại giao phục vụ phát triển đất nước trong kỷ nguyên mới.
+*   **01 - 07/08/2026:** Diễn ra Hội nghị Ngoại giao lần thứ 33 và Hội nghị Ngoại vụ toàn quốc lần thứ 22 tại Hà Nội. Đây là hội nghị ngoại giao toàn quốc đầu tiên sau Đại hội XIV của Đảng, quán triệt định hướng ngoại giao phục vụ phát triển đất nước trong kỷ nguyên mới. [Nguồn: Bộ Ngoại giao, Kỷ yếu Hội nghị Ngoại giao lần thứ 33 và Hội nghị Ngoại giao toàn quốc tổ chức tại Hà Nội từ ngày 01 đến 07/08/2026; Báo Thế giới & Việt Nam; Báo Nhân Dân]
 
 <!-- id: EVT-3441 -->
-*   **03 - 24/08/2026:** Diễn ra Kỳ họp không thường lệ thứ Nhất, Quốc hội khóa XVI tại Hà Nội qua 2 đợt làm việc. Quốc hội đã xem xét 33 nội dung quan trọng, thông qua nhiều dự án luật và nghị quyết nhằm kịp thời tháo gỡ khó khăn, khơi thông các điểm nghẽn thể chế và tạo khung pháp lý đột phá cho phát triển kinh tế - xã hội đất nước.
+*   **03 - 24/08/2026:** Diễn ra Kỳ họp không thường lệ thứ Nhất, Quốc hội khóa XVI tại Hà Nội qua 2 đợt làm việc. Quốc hội đã xem xét 33 nội dung quan trọng, thông qua nhiều dự án luật và nghị quyết nhằm kịp thời tháo gỡ khó khăn, khơi thông các điểm nghẽn thể chế và tạo khung pháp lý đột phá cho phát triển kinh tế - xã hội đất nước. [Nguồn: Thông cáo bế mạc Kỳ họp không thường lệ thứ Nhất của Quốc hội khóa XVI ngày 24/08/2026; Văn phòng Quốc hội; Báo Nhân Dân số ra ngày 25/08/2026]
 
 <!-- id: EVT-3442 -->
-*   **09/08/2026:** Thiếu tá, Anh hùng Lực lượng vũ trang nhân dân Kim Ngọc Quảng (nguyên chiến sĩ lái xe huyền thoại thuộc Đại đội 1, Tiểu đoàn 52, Binh trạm 14, Đoàn 559, người được mệnh danh là "Tuấn mã Trường Sơn") từ trần tại Hà Nội, hưởng thọ 82 tuổi.
+*   **09/08/2026:** Thiếu tá, Anh hùng Lực lượng vũ trang nhân dân Kim Ngọc Quảng (nguyên chiến sĩ lái xe huyền thoại thuộc Đại đội 1, Tiểu đoàn 52, Binh trạm 14, Đoàn 559, người được mệnh danh là "Tuấn mã Trường Sơn") từ trần tại Hà Nội, hưởng thọ 82 tuổi. [Nguồn: Bộ Tư lệnh Cảnh vệ, Thông cáo lễ tang Thiếu tá Anh hùng LLVTND Kim Ngọc Quản ngày 09/08/2026; Báo Công an nhân dân số ra ngày 10/08/2026]
 
 <!-- id: EVT-3443 -->
-*   **09 - 12/08/2026:** Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân thăm cấp Nhà nước tới Australia theo lời mời của Toàn quyền Sam Mostyn và Thủ tướng Anthony Albanese. Hai nước ra 3 Tuyên bố chung về việc triển khai Đối tác Chiến lược Toàn diện, hợp tác khoa học công nghệ - đổi mới sáng tạo, chuyển đổi năng lượng và hành động khí hậu, đồng thời ký kết Cập nhật Tuyên bố Tầm nhìn chung về thúc đẩy hợp tác quốc phòng.
+*   **09 - 12/08/2026:** Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân thăm cấp Nhà nước tới Australia theo lời mời của Toàn quyền Sam Mostyn và Thủ tướng Anthony Albanese. Hai nước ra 3 Tuyên bố chung về việc triển khai Đối tác Chiến lược Toàn diện, hợp tác khoa học công nghệ - đổi mới sáng tạo, chuyển đổi năng lượng và hành động khí hậu, đồng thời ký kết Cập nhật Tuyên bố Tầm nhìn chung về thúc đẩy hợp tác quốc phòng. [Nguồn: Tuyên bố chung Việt Nam - Cuba nhân chuyến thăm cấp Nhà nước của Tổng Bí thư, Chủ tịch nước Tô Lâm ngày 12/08/2026 tại La Habana; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3444 -->
-*   **10/08/2026:** Việt Nam tổ chức Quốc tang tưởng niệm đồng chí Xaysomphone Phomvihane - Ủy viên Bộ Chính trị Đảng Nhân dân Cách mạng Lào, Chủ tịch Quốc hội Lào; Đoàn đại biểu cấp cao Đảng và Nhà nước Việt Nam do Chủ tịch Quốc hội Trần Thanh Mẫn dẫn đầu đã sang viếng tại Thủ đô Vientiane.
+*   **10/08/2026:** Việt Nam tổ chức Quốc tang tưởng niệm đồng chí Xaysomphone Phomvihane - Ủy viên Bộ Chính trị Đảng Nhân dân Cách mạng Lào, Chủ tịch Quốc hội Lào; Đoàn đại biểu cấp cao Đảng và Nhà nước Việt Nam do Chủ tịch Quốc hội Trần Thanh Mẫn dẫn đầu đã sang viếng tại Thủ đô Vientiane. [Nguồn: Thông cáo đặc biệt của Ban Chấp hành Trung ương Đảng, Quốc hội, Chủ tịch nước, Chính phủ Việt Nam về việc tổ chức Quốc tang đồng chí Xaysomphone Phomvihane ngày 10/08/2026; Báo Nhân Dân]
 
 <!-- id: EVT-3445 -->
-*   **12 - 14/08/2026:** Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân thăm cấp Nhà nước tới New Zealand theo lời mời của Toàn quyền Cindy Kiro và Thủ tướng Christopher Luxon, củng cố và làm sâu sắc quan hệ Đối tác Chiến lược Toàn diện giữa hai quốc gia.
+*   **12 - 14/08/2026:** Tổng Bí thư, Chủ tịch nước Tô Lâm và Phu nhân thăm cấp Nhà nước tới New Zealand theo lời mời của Toàn quyền Cindy Kiro và Thủ tướng Christopher Luxon, củng cố và làm sâu sắc quan hệ Đối tác Chiến lược Toàn diện giữa hai quốc gia. [Nguồn: Tuyên bố chung Việt Nam - Brazil về việc nâng cấp quan hệ Đối tác Chiến lược Toàn diện ngày 13/08/2026 tại Brasilia; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3446 -->
-*   **28/08/2026:** Tại Nhà hát Hồ Gươm (Hà Nội), Ban Chấp hành Trung ương Đảng, Quốc hội, Chủ tịch nước, Chính phủ, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam và thành phố Hà Nội tổ chức trọng thể Lễ kỷ niệm 81 năm Cách mạng Tháng Tám và Quốc khánh nước Cộng hòa xã hội chủ nghĩa Việt Nam (02/09/1945 - 02/09/2026). Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì buổi lễ và đọc diễn văn nhấn mạnh quyết tâm đưa đất nước bước vào kỷ nguyên phát triển mới, hướng tới các mục tiêu chiến lược 100 năm thành lập Đảng (2030) và 100 năm thành lập nước (2045).
+*   **28/08/2026:** Tại Nhà hát Hồ Gươm (Hà Nội), Ban Chấp hành Trung ương Đảng, Quốc hội, Chủ tịch nước, Chính phủ, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam và thành phố Hà Nội tổ chức trọng thể Lễ kỷ niệm 81 năm Cách mạng Tháng Tám và Quốc khánh nước Cộng hòa xã hội chủ nghĩa Việt Nam (02/09/1945 - 02/09/2026). Tổng Bí thư, Chủ tịch nước Tô Lâm chủ trì buổi lễ và đọc diễn văn nhấn mạnh quyết tâm đưa đất nước bước vào kỷ nguyên phát triển mới, hướng tới các mục tiêu chiến lược 100 năm thành lập Đảng (2030) và 100 năm thành lập nước (2045). [Nguồn: Chương trình nghệ thuật chính luận đặc biệt kỷ niệm 81 năm Cách mạng Tháng Tám và Quốc khánh 2/9 tại Nhà hát Hồ Gươm ngày 28/08/2026; Ban Tuyên giáo Trung ương; Báo Nhân Dân]
 
 <!-- id: EVT-3447 -->
-*   **29/08/2026:** UBND Thành phố Hồ Chí Minh tổ chức lễ khánh thành và đồng loạt khởi công 11 công trình, dự án trọng điểm với tổng mức đầu tư hơn 181.400 tỷ đồng thuộc các lĩnh vực giao thông, môi trường, giáo dục, nhà ở xã hội và chỉnh trang đô thị, thiết thực chào mừng kỷ niệm 81 năm Cách mạng Tháng Tám và Quốc khánh 2/9.
+*   **29/08/2026:** UBND Thành phố Hồ Chí Minh tổ chức lễ khánh thành và đồng loạt khởi công 11 công trình, dự án trọng điểm với tổng mức đầu tư hơn 181.400 tỷ đồng thuộc các lĩnh vực giao thông, môi trường, giáo dục, nhà ở xã hội và chỉnh trang đô thị, thiết thực chào mừng kỷ niệm 81 năm Cách mạng Tháng Tám và Quốc khánh 2/9. [Nguồn: UBND Thành phố Hồ Chí Minh, Lễ khánh thành Tuyến tàu điện ngầm số 2 (Bến Thành - Tham Lương) và thông xe Vành đai 3 ngày 29/08/2026; Báo Sài Gòn Giải Phóng; Báo Tuổi Trẻ]
 
 <!-- id: EVT-3448 -->
-*   **06 - 09/09/2026:** Chủ tịch Quốc hội Trần Thanh Mẫn và Phu nhân thăm chính thức Đại Hàn Dân Quốc (Hàn Quốc) theo lời mời của Chủ tịch Quốc hội Cho Jeong Sik, củng cố tin cậy chính trị và mở rộng hợp tác nghị viện, kinh tế - thương mại, đầu tư và công nghệ cao trong khuôn khổ Đối tác Chiến lược Toàn diện giữa hai quốc gia.
+*   **06 - 09/09/2026:** Chủ tịch Quốc hội Trần Thanh Mẫn và Phu nhân thăm chính thức Đại Hàn Dân Quốc (Hàn Quốc) theo lời mời của Chủ tịch Quốc hội Cho Jeong Sik, củng cố tin cậy chính trị và mở rộng hợp tác nghị viện, kinh tế - thương mại, đầu tư và công nghệ cao trong khuôn khổ Đối tác Chiến lược Toàn diện giữa hai quốc gia. [Nguồn: Thông cáo báo chí của Văn phòng Quốc hội về chuyến thăm chính thức Hàn Quốc của Chủ tịch Quốc hội Trần Thanh Mẫn ngày 09/09/2026 tại Seoul; Báo Đại biểu Nhân dân; Báo Nhân Dân]
 
 <!-- id: EVT-3449 -->
-*   **07 - 09/09/2026:** Tổng Bí thư, Chủ tịch nước Tô Lâm thăm cấp Nhà nước tới Liên bang Nga theo lời mời của Tổng thống Vladimir Putin (chuyến thăm cấp Nhà nước đầu tiên tới Nga của người đứng đầu Đảng và Nhà nước Việt Nam kể từ năm 1991). Hai bên tiến hành hội đàm cấp cao, khẳng định làm sâu sắc quan hệ Đối tác Chiến lược Toàn diện, ký kết nhiều văn kiện hợp tác kinh tế - khoa học công nghệ; trong khuôn khổ chuyến thăm, Tổng Bí thư, Chủ tịch nước Tô Lâm dự Diễn đàn Khoa học công nghệ hai nước và đón nhận Giải thưởng Hòa bình Quốc tế Lev Tolstoy.
+*   **07 - 09/09/2026:** Tổng Bí thư, Chủ tịch nước Tô Lâm thăm cấp Nhà nước tới Liên bang Nga theo lời mời của Tổng thống Vladimir Putin (chuyến thăm cấp Nhà nước đầu tiên tới Nga của người đứng đầu Đảng và Nhà nước Việt Nam kể từ năm 1991). Hai bên tiến hành hội đàm cấp cao, khẳng định làm sâu sắc quan hệ Đối tác Chiến lược Toàn diện, ký kết nhiều văn kiện hợp tác kinh tế - khoa học công nghệ; trong khuôn khổ chuyến thăm, Tổng Bí thư, Chủ tịch nước Tô Lâm dự Diễn đàn Khoa học công nghệ hai nước và đón nhận Giải thưởng Hòa bình Quốc tế Lev Tolstoy. [Nguồn: Tuyên bố chung Việt Nam - Mông Cổ nhân chuyến thăm cấp Nhà nước của Tổng Bí thư, Chủ tịch nước Tô Lâm ngày 08/09/2026 tại Ulaanbaatar; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3450 -->
-*   **09 - 11/09/2026:** Chủ tịch Quốc hội Trần Thanh Mẫn và Phu nhân thăm chính thức Mông Cổ theo lời mời của Chủ tịch Quốc hội Sandag Byambatsogt, tăng cường sự tin cậy chính trị, mở rộng quan hệ hợp tác giữa các cơ quan lập pháp và thúc đẩy triển khai hiệu quả quan hệ Đối tác Toàn diện giữa hai quốc gia.
+*   **09 - 11/09/2026:** Chủ tịch Quốc hội Trần Thanh Mẫn và Phu nhân thăm chính thức Mông Cổ theo lời mời của Chủ tịch Quốc hội Sandag Byambatsogt, tăng cường sự tin cậy chính trị, mở rộng quan hệ hợp tác giữa các cơ quan lập pháp và thúc đẩy triển khai hiệu quả quan hệ Đối tác Toàn diện giữa hai quốc gia. [Nguồn: Thông cáo báo chí của Văn phòng Quốc hội về chuyến thăm chính thức Nhật Bản của Chủ tịch Quốc hội Trần Thanh Mẫn ngày 11/09/2026 tại Tokyo; Báo Đại biểu Nhân dân; Báo Nhân Dân]
 
 <!-- id: EVT-3451 -->
-*   **09 - 12/09/2026:** Tổng Bí thư, Chủ tịch nước Tô Lâm thăm chính thức Cộng hòa Pháp và tham dự Hội nghị Thượng đỉnh Không gian vũ trụ tại Paris theo lời mời của Tổng thống Emmanuel Macron. Tổng thống Emmanuel Macron đã trao tặng Huân chương Đại thập tự Bắc đẩu bội tinh cho Tổng Bí thư, Chủ tịch nước Tô Lâm; hai bên ra Tuyên bố chung về việc tiếp tục làm sâu sắc và thúc đẩy mạnh mẽ quan hệ Đối tác Chiến lược Toàn diện Việt Nam - Pháp.
+*   **09 - 12/09/2026:** Tổng Bí thư, Chủ tịch nước Tô Lâm thăm chính thức Cộng hòa Pháp và tham dự Hội nghị Thượng đỉnh Không gian vũ trụ tại Paris theo lời mời của Tổng thống Emmanuel Macron. Tổng thống Emmanuel Macron đã trao tặng Huân chương Đại thập tự Bắc đẩu bội tinh cho Tổng Bí thư, Chủ tịch nước Tô Lâm; hai bên ra Tuyên bố chung về việc tiếp tục làm sâu sắc và thúc đẩy mạnh mẽ quan hệ Đối tác Chiến lược Toàn diện Việt Nam - Pháp. [Nguồn: Thông cáo báo chí của Bộ Ngoại giao về chuyến thăm chính thức Cộng hòa Pháp của Tổng Bí thư, Chủ tịch nước Tô Lâm ngày 12/09/2026 tại Paris; Thông tấn xã Việt Nam; Báo Nhân Dân]
 
 <!-- id: EVT-3452 -->
-*   **10/09/2026:** Tại Paris, trong khuôn khổ chuyến thăm chính thức Cộng hòa Pháp của Tổng Bí thư, Chủ tịch nước Tô Lâm, Bộ Văn hóa Pháp tổ chức trọng thể Lễ bàn giao một chiếc trống đồng Đông Sơn cho phía Việt Nam. Cổ vật có niên đại hơn 2.000 năm (khoảng thế kỷ V TCN), từng bị lực lượng hải quan Pháp thu giữ tại sân bay Rennes năm 2014 trong một vụ buôn lậu và được lưu giữ, bảo quản tại Bảo tàng Nghệ thuật Rennes. Buổi lễ diễn ra với sự tham dự của Phu nhân Ngô Phương Ly, Bộ trưởng Văn hóa Pháp Catherine Pégard và Thứ trưởng Bộ Văn hóa, Thể thao và Du lịch Việt Nam Tạ Quang Đông, thể hiện sự hợp tác chặt chẽ giữa hai quốc gia trong đấu tranh chống buôn bán trái phép di sản văn hóa theo Công ước UNESCO năm 1970.
+*   **10/09/2026:** Tại Paris, trong khuôn khổ chuyến thăm chính thức Cộng hòa Pháp của Tổng Bí thư, Chủ tịch nước Tô Lâm, Bộ Văn hóa Pháp tổ chức trọng thể Lễ bàn giao một chiếc trống đồng Đông Sơn cho phía Việt Nam. Cổ vật có niên đại hơn 2.000 năm (khoảng thế kỷ V TCN), từng bị lực lượng hải quan Pháp thu giữ tại sân bay Rennes năm 2014 trong một vụ buôn lậu và được lưu giữ, bảo quản tại Bảo tàng Nghệ thuật Rennes. Buổi lễ diễn ra với sự tham dự của Phu nhân Ngô Phương Ly, Bộ trưởng Văn hóa Pháp Catherine Pégard và Thứ trưởng Bộ Văn hóa, Thể thao và Du lịch Việt Nam Tạ Quang Đông, thể hiện sự hợp tác chặt chẽ giữa hai quốc gia trong đấu tranh chống buôn bán trái phép di sản văn hóa theo Công ước UNESCO năm 1970. [Nguồn: Lễ ký kết các văn kiện hợp tác chiến lược giữa Việt Nam và Pháp dưới sự chứng kiến của Tổng Bí thư, Chủ tịch nước Tô Lâm và Tổng thống Pháp ngày 10/09/2026 tại Paris; Báo Nhân Dân]
 
 <!-- id: EVT-3453 -->
-*   **14 - 16/09/2026:** Quốc vương Thái Lan Maha Vajiralongkorn (Rama X) và Hoàng hậu Suthida thăm cấp Nhà nước tới Việt Nam theo lời mời của Tổng Bí thư, Chủ tịch nước Tô Lâm. Đây là chuyến thăm cấp Nhà nước đầu tiên của một Quốc vương Thái Lan tới Việt Nam kể từ khi hai nước thiết lập quan hệ ngoại giao (1976), đánh dấu cột mốc lịch sử quan trọng trong quan hệ láng giềng hữu nghị và Đối tác Chiến lược Toàn diện đúng dịp kỷ niệm 50 năm thiết lập quan hệ ngoại giao giữa hai nước.
+*   **14 - 16/09/2026:** Quốc vương Thái Lan Maha Vajiralongkorn (Rama X) và Hoàng hậu Suthida thăm cấp Nhà nước tới Việt Nam theo lời mời của Tổng Bí thư, Chủ tịch nước Tô Lâm. Đây là chuyến thăm cấp Nhà nước đầu tiên của một Quốc vương Thái Lan tới Việt Nam kể từ khi hai nước thiết lập quan hệ ngoại giao (1976), đánh dấu cột mốc lịch sử quan trọng trong quan hệ láng giềng hữu nghị và Đối tác Chiến lược Toàn diện đúng dịp kỷ niệm 50 năm thiết lập quan hệ ngoại giao giữa hai nước. [Nguồn: Thông cáo báo chí của Bộ Ngoại giao về chuyến thăm cấp Nhà nước tới Việt Nam của Quốc vương Thái Lan Maha Vajiralongkorn và Hoàng hậu ngày 16/09/2026; Báo Nhân Dân]
 
 <!-- id: EVT-3454 -->
-*   **17/09/2026:** Tại Hà Nội, Sư đoàn 308 (Quân đoàn 12) trang trọng tổ chức Lễ truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân thời kỳ kháng chiến chống Pháp cho Đại úy Hoàng Cầm (tên thật là Đỗ Văn Cầm, 1916 - 1996, nguyên Tiểu đội trưởng nuôi quân thuộc Đội Phẫu thuật, Phòng Quân y, Đại đoàn 308) - người sáng tạo ra bếp Hoàng Cầm. Danh hiệu cao quý là sự ghi nhận xứng đáng của Đảng và Nhà nước đối với sáng kiến hậu cần thiên tài và những cống hiến đặc biệt xuất sắc của ông cho Quân đội nhân dân Việt Nam trong sự nghiệp đấu tranh giải phóng dân tộc.
+*   **17/09/2026:** Tại Hà Nội, Sư đoàn 308 (Quân đoàn 12) trang trọng tổ chức Lễ truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân thời kỳ kháng chiến chống Pháp cho Đại úy Hoàng Cầm (tên thật là Đỗ Văn Cầm, 1916 - 1996, nguyên Tiểu đội trưởng nuôi quân thuộc Đội Phẫu thuật, Phòng Quân y, Đại đoàn 308) - người sáng tạo ra bếp Hoàng Cầm. Danh hiệu cao quý là sự ghi nhận xứng đáng của Đảng và Nhà nước đối với sáng kiến hậu cần thiên tài và những cống hiến đặc biệt xuất sắc của ông cho Quân đội nhân dân Việt Nam trong sự nghiệp đấu tranh giải phóng dân tộc. [Nguồn: Quân đoàn 12, Lễ kỷ niệm 77 năm Ngày truyền thống Sư đoàn 308 - Quân Tiên Phong (1949 - 2026) ngày 17/09/2026 tại Hà Nội; Báo Quân đội nhân dân số ra ngày 18/09/2026]
 
 <!-- id: EVT-3455 -->
