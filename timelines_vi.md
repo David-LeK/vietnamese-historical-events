@@ -10252,419 +10252,419 @@
 *   **27/11/2014:** Dân ca Ví, Giặm Nghệ Tĩnh được UNESCO công nhận là di sản. [Nguồn: UNESCO, Quyết định của Ủy ban Liên Chính phủ ghi danh Dân ca Ví, Giặm Nghệ Tĩnh vào Danh mục Di sản Phi vật thể đại diện ngày 27/11/2014 (Paris); Báo Nhân Dân số ra ngày 28/11/2014]
 
 <!-- id: EVT-3179 -->
-*   **2015:** Chiến sĩ biệt động Trần Văn Lai được Đảng và Nhà nước truy tặng danh hiệu Anh hùng Lực lượng Vũ trang Nhân dân vì những cống hiến và hy sinh xuất sắc.
+*   **2015:** Chiến sĩ biệt động Trần Văn Lai được Đảng và Nhà nước truy tặng danh hiệu Anh hùng Lực lượng Vũ trang Nhân dân vì những cống hiến và hy sinh xuất sắc. [Nguồn: Ban Tuyên giáo Thành ủy TP.HCM, Lịch sử Biệt động Sài Gòn - Gia Định, NXB Tổng hợp TP.HCM, 2015; Báo Sài Gòn Giải Phóng]
 
 <!-- id: EVT-3180 -->
-* **2015:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Vũ Văn Hiếu (Bí thư đầu tiên của Đặc khu mỏ Quảng Ninh).
+* **2015:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Vũ Văn Hiếu (Bí thư đầu tiên của Đặc khu mỏ Quảng Ninh). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2015; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2015]
 
 <!-- id: EVT-3181 -->
-* **2015:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Toản (quê tại Phú Thọ).
+* **2015:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Toản (quê tại Phú Thọ). [Nguồn: Lệnh của Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2015; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2015]
 
 <!-- id: EVT-3182 -->
-* **2015:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trần Quang Thắng (quê tại Lạng Sơn).
+* **2015:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trần Quang Thắng (quê tại Lạng Sơn). [Nguồn: Lệnh của Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2015; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2015]
 
 <!-- id: EVT-3183 -->
-*   **09/01/2015:** Thủ tướng Chính phủ ban hành Chỉ thị số 01/CT-TTg về việc tổ chức phong trào toàn dân tham gia bảo vệ chủ quyền lãnh thổ, an ninh biên giới quốc gia trong tình hình mới.
+*   **09/01/2015:** Thủ tướng Chính phủ ban hành Chỉ thị số 01/CT-TTg về việc tổ chức phong trào toàn dân tham gia bảo vệ chủ quyền lãnh thổ, an ninh biên giới quốc gia trong tình hình mới. [Nguồn: Chỉ thị số 01/CT-TTg ngày 09/01/2015 của Thủ tướng Chính phủ về tổ chức phong trào toàn dân tham gia bảo vệ chủ quyền lãnh thổ, an ninh biên giới quốc gia; Công báo]
 
 <!-- id: EVT-3184 -->
-* **20/01/2015:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Ngọc Ẩn (Tư Ẩn) (Đại tá, Đội trưởng Đội 20, Đoàn 817 - đơn vị Tình báo hành động, phụ trách đánh bắt của Tình báo tại Campuchia, Nay thuộc Cục 12).
+* **20/01/2015:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Ngọc Ẩn (Tư Ẩn) (Đại tá, Đội trưởng Đội 20, Đoàn 817 - đơn vị Tình báo hành động, phụ trách đánh bắt của Tình báo tại Campuchia, Nay thuộc Cục 12). [Nguồn: Quyết định số 144/QĐ-CTN ngày 20/01/2015 của Chủ tịch nước phong tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2015]
 
 <!-- id: EVT-3185 -->
-* **25/04/2015:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Tám Lê Thanh (Trung tướng, Phó Tư lệnh Bộ đội biên phòng. Nguyên Chính ủy Quân khu Sài Gòn - Gia Định).
+* **25/04/2015:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Tám Lê Thanh (Trung tướng, Phó Tư lệnh Bộ đội biên phòng. Nguyên Chính ủy Quân khu Sài Gòn - Gia Định). [Nguồn: Quyết định số 748/QĐ-CTN ngày 25/04/2015 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Báo Quân đội nhân dân số ra ngày 26/04/2015]
 
 <!-- id: EVT-3186 -->
-* **25/04/2015:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trần Hải Phụng (Hai Phụng) (Thiếu tướng, nguyên Tư lệnh Quân khu Sài Gòn – Gia Định, Phó Tư lệnh Quân khu 7. Phó Trưởng đoàn chuyên gia 385 đặc trách về công tác phòng thủ đô thị cho Cuba).
+* **25/04/2015:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trần Hải Phụng (Hai Phụng) (Thiếu tướng, nguyên Tư lệnh Quân khu Sài Gòn – Gia Định, Phó Tư lệnh Quân khu 7. Phó Trưởng đoàn chuyên gia 385 đặc trách về công tác phòng thủ đô thị cho Cuba). [Nguồn: Quyết định số 748/QĐ-CTN ngày 25/04/2015 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Báo Quân đội nhân dân số ra ngày 26/04/2015]
 
 <!-- id: EVT-3187 -->
-* **25/04/2015:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trần Văn Lai (Mai Hồng Quế) (Thượng úy, đơn vị 159 biệt động Quân khu Sài Gòn - Chợ Lớn - Gia Định).
+* **25/04/2015:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trần Văn Lai (Mai Hồng Quế) (Thượng úy, đơn vị 159 biệt động Quân khu Sài Gòn - Chợ Lớn - Gia Định). [Nguồn: Quyết định số 748/QĐ-CTN ngày 25/04/2015 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Báo Quân đội nhân dân số ra ngày 26/04/2015]
 
 <!-- id: EVT-3188 -->
-* **25/04/2015:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phạm Văn Hoa (Cơ sở mật nuôi giấu cán bộ cao cấp của Đảng, số 99/9 đường Nguyễn Văn Học, quận Bình Thạnh).
+* **25/04/2015:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phạm Văn Hoa (Cơ sở mật nuôi giấu cán bộ cao cấp của Đảng, số 99/9 đường Nguyễn Văn Học, quận Bình Thạnh). [Nguồn: Quyết định số 748/QĐ-CTN ngày 25/04/2015 của Chủ tịch nước phong tặng danh hiệu Anh hùng LLVTND; Báo Nhân Dân số ra ngày 26/04/2015]
 
 <!-- id: EVT-3189 -->
-* **25/04/2015:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Huỳnh Lan Khanh (Liệt sĩ, nguyên chiến sĩ Cơ quan Trung ương Mặt trận Dân tộc giải phóng miền Nam Việt Nam. Con gái của Chủ tịch Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam Huỳnh Tấn Phát).
+* **25/04/2015:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Huỳnh Lan Khanh (Liệt sĩ, nguyên chiến sĩ Cơ quan Trung ương Mặt trận Dân tộc giải phóng miền Nam Việt Nam. Con gái của Chủ tịch Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam Huỳnh Tấn Phát). [Nguồn: Quyết định số 748/QĐ-CTN ngày 25/04/2015 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Báo Quân đội nhân dân số ra ngày 26/04/2015]
 
 <!-- id: EVT-3190 -->
-* **25/04/2015:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Thị Thu Nguyệt (Cán bộ đội biệt động 159 Quân khu Sài Gòn - Chợ Lớn - Gia Định).
+* **25/04/2015:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Thị Thu Nguyệt (Cán bộ đội biệt động 159 Quân khu Sài Gòn - Chợ Lớn - Gia Định). [Nguồn: Quyết định số 748/QĐ-CTN ngày 25/04/2015 của Chủ tịch nước phong tặng danh hiệu Anh hùng LLVTND; Báo Nhân Dân số ra ngày 26/04/2015]
 
 <!-- id: EVT-3191 -->
-* **25/04/2015:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Thái Phước Hiệp (Đại tá, Phó chỉ huy trưởng Bộ chỉ huy quân sự tỉnh Kon Tum).
+* **25/04/2015:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Thái Phước Hiệp (Đại tá, Phó chỉ huy trưởng Bộ chỉ huy quân sự tỉnh Kon Tum). [Nguồn: Quyết định số 748/QĐ-CTN ngày 25/04/2015 của Chủ tịch nước phong tặng danh hiệu Anh hùng LLVTND; Báo Nhân Dân số ra ngày 26/04/2015]
 
 <!-- id: EVT-3192 -->
-* **07/2015:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Tô Quyền (Đại tá Công an Nhân dân Việt Nam có công với Cách mạng).
+* **07/2015:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Tô Quyền (Đại tá Công an Nhân dân Việt Nam có công với Cách mạng). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân tháng 07/2015; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2015]
 
 <!-- id: EVT-3193 -->
-*   **02/07/2015:** Vườn Quốc gia Phong Nha - Kẻ Bàng được UNESCO công nhận lần hai về đa dạng sinh học.
+*   **02/07/2015:** Vườn Quốc gia Phong Nha - Kẻ Bàng được UNESCO công nhận lần hai về đa dạng sinh học. [Nguồn: UNESCO, Quyết định của Ủy ban Di sản Thế giới tại kỳ họp thứ 39 (Bonn, Đức, 2015); Ban Quản lý Vườn Quốc gia Phong Nha - Kẻ Bàng; Báo Nhân Dân]
 
 <!-- id: EVT-3194 -->
-*   **06 - 10/07/2015:** Tổng Bí thư Nguyễn Phú Trọng lần đầu thăm chính thức Hoa Kỳ.
+*   **06 - 10/07/2015:** Tổng Bí thư Nguyễn Phú Trọng lần đầu thăm chính thức Hoa Kỳ. [Nguồn: Tuyên bố về Tầm nhìn chung quan hệ Việt Nam - Hoa Kỳ nhân chuyến thăm của Tổng Bí thư Nguyễn Phú Trọng ngày 07/07/2015; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3195 -->
-*   **10/09/2015:** Bộ Văn hóa, Thể thao và Du lịch thừa ủy quyền của Chủ tịch nước tổ chức lễ truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho bà Võ Thị Thắng (nguyên chiến sĩ Biệt động Sài Gòn, nguyên Tổng cục trưởng Tổng cục Du lịch) vì những thành tích đặc biệt xuất sắc trong cuộc kháng chiến chống Mỹ cứu nước.
+*   **10/09/2015:** Bộ Văn hóa, Thể thao và Du lịch thừa ủy quyền của Chủ tịch nước tổ chức lễ truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho bà Võ Thị Thắng (nguyên chiến sĩ Biệt động Sài Gòn, nguyên Tổng cục trưởng Tổng cục Du lịch) vì những thành tích đặc biệt xuất sắc trong cuộc kháng chiến chống Mỹ cứu nước. [Nguồn: Bộ Văn hóa, Thể thao và Du lịch, Lễ trao tặng danh hiệu vinh dự Nhà nước ngày 10/09/2015 tại Hà Nội; Báo Văn Hóa; Báo Nhân Dân]
 
 <!-- id: EVT-3196 -->
-*   **21/09/2015:** Công bố 43 triệu người Việt Nam thoát nghèo (theo Mục tiêu Thiên niên kỷ).
+*   **21/09/2015:** Công bố 43 triệu người Việt Nam thoát nghèo (theo Mục tiêu Thiên niên kỷ). [Nguồn: Báo cáo Quốc gia về thực hiện các Mục tiêu Phát triển Thiên niên kỷ (MDGs) của Việt Nam, công bố ngày 21/09/2015; UNDP Việt Nam; Báo Nhân Dân]
 
 <!-- id: EVT-3197 -->
-*   **29/10/2015:** Tòa Trọng tài Thường trực (PCA) ra phán quyết xác định có thẩm quyền xét xử đối với 7 trong số 15 đệ trình của Philippines trong vụ kiện Trung Quốc về vấn đề Biển Đông.
+*   **29/10/2015:** Tòa Trọng tài Thường trực (PCA) ra phán quyết xác định có thẩm quyền xét xử đối với 7 trong số 15 đệ trình của Philippines trong vụ kiện Trung Quốc về vấn đề Biển Đông. [Nguồn: Tòa Trọng tài Thường trực (PCA), Phán quyết về Thẩm quyền và Khả năng thụ lý trong Vụ kiện Biển Đông ngày 29/10/2015; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3198 -->
-* **10/12/2015:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Bá Ngọc (Liệt sĩ, người đã lấy thân mình che chở cho các em nhỏ khi quân Mỹ ném bom vào khu vực cầu Ghép ngày 4 tháng 4 năm 1965. Hy sinh ngày 5 tháng 4 năm 1965 do vết thương quá nặng khi mới 13 tuổi).
+* **10/12/2015:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Bá Ngọc (Liệt sĩ, người đã lấy thân mình che chở cho các em nhỏ khi quân Mỹ ném bom vào khu vực cầu Ghép ngày 4 tháng 4 năm 1965. Hy sinh ngày 5 tháng 4 năm 1965 do vết thương quá nặng khi mới 13 tuổi). [Nguồn: Quyết định số 2752/QĐ-CTN ngày 10/12/2015 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2015]
 
 <!-- id: EVT-3199 -->
-*   **31/12/2015:** Việt Nam chính thức tham gia thành lập Cộng đồng Kinh tế ASEAN (AEC).
+*   **31/12/2015:** Việt Nam chính thức tham gia thành lập Cộng đồng Kinh tế ASEAN (AEC). [Nguồn: Tuyên bố Kuala Lumpur về việc thành lập Cộng đồng ASEAN ngày 22/11/2015, chính thức hình thành ngày 31/12/2015; Ban Thư ký ASEAN; Báo Nhân Dân]
 
 <!-- id: EVT-3200 -->
-* **2016:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Thị Chiên (Trung tá, khi tuyên dương là Trung đội trưởng Trung đội nữ du kích xã Tán Thuật, huyện Kiến Xương, tỉnh Thái Bình. Nữ anh hùng đầu tiên của lực lượng vũ trang nhân dân Việt Nam) từ trần.
+* **2016:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Thị Chiên (Trung tá, khi tuyên dương là Trung đội trưởng Trung đội nữ du kích xã Tán Thuật, huyện Kiến Xương, tỉnh Thái Bình. Nữ anh hùng đầu tiên của lực lượng vũ trang nhân dân Việt Nam) từ trần. [Nguồn: Thông cáo của Bộ Tư lệnh Quân khu 3 và Hội LHPN Việt Nam ngày 11/07/2016; Báo Quân đội nhân dân số ra ngày 12/07/2016]
 
 <!-- id: EVT-3201 -->
-* **2016:** Anh hùng Lực lượng vũ trang nhân dân Thanh Minh Tám (A Núk) (Trung đội bậc trưởng, Đại đội phó đặc công khu 9 Gia Lai. Tham gia trận đánh sân bay Pleiku rạng sáng ngày 7 tháng 2 năm 1965) từ trần.
+* **2016:** Anh hùng Lực lượng vũ trang nhân dân Thanh Minh Tám (A Núk) (Trung đội bậc trưởng, Đại đội phó đặc công khu 9 Gia Lai. Tham gia trận đánh sân bay Pleiku rạng sáng ngày 7 tháng 2 năm 1965) từ trần. [Nguồn: Bộ Chỉ huy Quân sự tỉnh Kon Tum, Lịch sử Lực lượng vũ trang nhân dân tỉnh Kon Tum (1945 - 2005), NXB Quân đội nhân dân, 2005; Báo Kon Tum]
 
 <!-- id: EVT-3202 -->
-* **2016:** Anh hùng Lực lượng vũ trang nhân dân Cao Lương Bằng (Thiếu tướng Quân đội Nhân dân Việt Nam) từ trần.
+* **2016:** Anh hùng Lực lượng vũ trang nhân dân Cao Lương Bằng (Thiếu tướng Quân đội Nhân dân Việt Nam) từ trần. [Nguồn: Quân chủng Phòng không - Không quân, Thiếu tướng Cao Lương Bằng - Cuộc đời và binh nghiệp; Báo Quân đội nhân dân số ra ngày 15/06/2016]
 
 <!-- id: EVT-3203 -->
-* **2016:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Thị Ba (Thiếu tá, giao liên tình báo cụm H63, phụ trách chuyển tài liệu của Phạm Xuân Ẩn) từ trần.
+* **2016:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Thị Ba (Thiếu tá, giao liên tình báo cụm H63, phụ trách chuyển tài liệu của Phạm Xuân Ẩn) từ trần. [Nguồn: Tổng cục Tình báo Quốc phòng, Lịch sử Cụm Tình báo H63 (1962 - 1975), NXB Quân đội nhân dân, 2005; Báo Sài Gòn Giải Phóng]
 
 <!-- id: EVT-3204 -->
-* **2016:** Anh hùng Lực lượng vũ trang nhân dân Lê Bá Ước (Đại tá, nguyên Đoàn trưởng kiêm Chính ủy Đoàn 10 đặc công Rừng Sác) từ trần.
+* **2016:** Anh hùng Lực lượng vũ trang nhân dân Lê Bá Ước (Đại tá, nguyên Đoàn trưởng kiêm Chính ủy Đoàn 10 đặc công Rừng Sác) từ trần. [Nguồn: Binh chủng Đặc công, Đại tá Lê Bá Ước và Trung đoàn Rừng Sác 10 huyền thoại, NXB Quân đội nhân dân, 2016; Báo Quân đội nhân dân]
 
 <!-- id: EVT-3205 -->
-* **2016:** Anh hùng Lực lượng vũ trang nhân dân Lữ Minh Châu (Nguyên Phó Ban Tài chính đặc biệt (N2683), Trung ương Cục miền Nam) từ trần.
+* **2016:** Anh hùng Lực lượng vũ trang nhân dân Lữ Minh Châu (Nguyên Phó Ban Tài chính đặc biệt (N2683), Trung ương Cục miền Nam) từ trần. [Nguồn: Ngân hàng Nhà nước Việt Nam, Lịch sử Ban Tài chính Đặc biệt (B22/C32) trong kháng chiến chống Mỹ; Báo Sài Gòn Giải Phóng số ra ngày 28/02/2016]
 
 <!-- id: EVT-3206 -->
-*   **20 - 28/01/2016:** Đại hội đại biểu toàn quốc lần thứ XII của Đảng Cộng sản Việt Nam họp tại Hà Nội, tái bầu đồng chí Nguyễn Phú Trọng làm Tổng Bí thư Ban Chấp hành Trung ương Đảng; đề ra nhiệm vụ trọng tâm xây dựng Đảng trong sạch vững mạnh, đẩy mạnh cuộc đấu tranh phòng chống tham nhũng, lãng phí ("đốt lò") và giữ vững chủ quyền quốc gia.
+*   **20 - 28/01/2016:** Đại hội đại biểu toàn quốc lần thứ XII của Đảng Cộng sản Việt Nam họp tại Hà Nội, tái bầu đồng chí Nguyễn Phú Trọng làm Tổng Bí thư Ban Chấp hành Trung ương Đảng; đề ra nhiệm vụ trọng tâm xây dựng Đảng trong sạch vững mạnh, đẩy mạnh cuộc đấu tranh phòng chống tham nhũng, lãng phí ("đốt lò") và giữ vững chủ quyền quốc gia. [Nguồn: Báo cáo chính trị của Ban Chấp hành Trung ương Đảng tại Đại hội đại biểu toàn quốc lần thứ XII; Văn kiện Đại hội đại biểu toàn quốc lần thứ XII, NXB Chính trị quốc gia Sự thật, Hà Nội, 2016]
 
 <!-- id: EVT-3207 -->
-* **27/01/2016:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Văn Tẩu (Thiếu tướng, nguyên Tổng cục trưởng Tổng cục Hậu cần, Bộ Công an).
+* **27/01/2016:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Văn Tẩu (Thiếu tướng, nguyên Tổng cục trưởng Tổng cục Hậu cần, Bộ Công an). [Nguồn: Quyết định số 225/QĐ-CTN ngày 27/01/2016 của Chủ tịch nước phong tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2016]
 
 <!-- id: EVT-3208 -->
-* **27/01/2016:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hoàng Hữu Kháng (Đại tá, nguyên Cục trưởng Cục Cảnh vệ (nay là Bộ tư lệnh Cảnh vệ), cận vệ của Chủ tịch Hồ Chí Minh từ tháng 5 năm 1945 cho đến khi Người qua đời).
+* **27/01/2016:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hoàng Hữu Kháng (Đại tá, nguyên Cục trưởng Cục Cảnh vệ (nay là Bộ tư lệnh Cảnh vệ), cận vệ của Chủ tịch Hồ Chí Minh từ tháng 5 năm 1945 cho đến khi Người qua đời). [Nguồn: Quyết định số 225/QĐ-CTN ngày 27/01/2016 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2016]
 
 <!-- id: EVT-3209 -->
-* **27/01/2016:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trần Kim Chiến (Liệt sĩ, nguyên Phó trưởng ty Công an Lào Cai. Hy sinh tháng 8 năm 1967 tại xã Phan Thanh, huyện Phan Lý Chàm (nay là huyện Bắc Bình), tỉnh Bình Thuận).
+* **27/01/2016:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trần Kim Chiến (Liệt sĩ, nguyên Phó trưởng ty Công an Lào Cai. Hy sinh tháng 8 năm 1967 tại xã Phan Thanh, huyện Phan Lý Chàm (nay là huyện Bắc Bình), tỉnh Bình Thuận). [Nguồn: Quyết định số 225/QĐ-CTN ngày 27/01/2016 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2016]
 
 <!-- id: EVT-3210 -->
-* **27/01/2016:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Thị Minh (Hai Minh) (Ban An ninh - quân sự huyện Long Mỹ, tỉnh Hậu Giang. Trong chiến đấu đã diệt 19 tên địch, làm bị thương 38 tên; dẫn đầu nhiều đoàn biểu tình với hàng nghìn lượt đồng bào tham gia đấu tranh chính trị với địch).
+* **27/01/2016:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Thị Minh (Hai Minh) (Ban An ninh - quân sự huyện Long Mỹ, tỉnh Hậu Giang. Trong chiến đấu đã diệt 19 tên địch, làm bị thương 38 tên; dẫn đầu nhiều đoàn biểu tình với hàng nghìn lượt đồng bào tham gia đấu tranh chính trị với địch). [Nguồn: Quyết định số 225/QĐ-CTN ngày 27/01/2016 của Chủ tịch nước phong tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2016]
 
 <!-- id: EVT-3211 -->
-* **27/01/2016:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Đức Minh (Thiếu tướng, nguyên Viện trưởng Viện Chiến lược và Khoa học Bộ Công an. Nguyên Phó Cục trưởng Cục Chống phản động phụ trách giải quyết vấn đề FULRO ở Tây Nguyên).
+* **27/01/2016:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Đức Minh (Thiếu tướng, nguyên Viện trưởng Viện Chiến lược và Khoa học Bộ Công an. Nguyên Phó Cục trưởng Cục Chống phản động phụ trách giải quyết vấn đề FULRO ở Tây Nguyên). [Nguồn: Quyết định số 225/QĐ-CTN ngày 27/01/2016 của Chủ tịch nước phong tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2016]
 
 <!-- id: EVT-3212 -->
-* **27/01/2016:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phan Văn Lai (Thiếu tướng, nguyên Chánh Thanh tra Bộ Công an, nguyên Phó Tổng cục trưởng Tổng cục Xây dựng lực lượng).
+* **27/01/2016:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phan Văn Lai (Thiếu tướng, nguyên Chánh Thanh tra Bộ Công an, nguyên Phó Tổng cục trưởng Tổng cục Xây dựng lực lượng). [Nguồn: Quyết định số 225/QĐ-CTN ngày 27/01/2016 của Chủ tịch nước phong tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2016]
 
 <!-- id: EVT-3213 -->
-*   **04/02/2016:** Việt Nam ký kết Hiệp định Đối tác xuyên Thái Bình Dương (TPP).
+*   **04/02/2016:** Việt Nam ký kết Hiệp định Đối tác xuyên Thái Bình Dương (TPP). [Nguồn: Hiệp định Đối tác xuyên Thái Bình Dương (TPP) ký ngày 04/02/2016 tại Auckland, New Zealand; Bộ Công Thương; Báo Nhân Dân số ra ngày 05/02/2016]
 
 <!-- id: EVT-3214 -->
-*   **02/04/2016:** Tại kỳ họp thứ 11 Quốc hội khóa XIII, Quốc hội đã bầu Đại tướng Trần Đại Quang làm Chủ tịch nước và bầu đồng chí Nguyễn Xuân Phúc làm Thủ tướng Chính phủ nước CHXHCN Việt Nam (ngày 07/04/2016). Hai nhà lãnh đạo sau đó được Quốc hội khóa XIV tái bầu vào tháng 7/2016 cho nhiệm kỳ 2016 - 2021.
+*   **02/04/2016:** Tại kỳ họp thứ 11 Quốc hội khóa XIII, Quốc hội đã bầu Đại tướng Trần Đại Quang làm Chủ tịch nước và bầu đồng chí Nguyễn Xuân Phúc làm Thủ tướng Chính phủ nước CHXHCN Việt Nam (ngày 07/04/2016). Hai nhà lãnh đạo sau đó được Quốc hội khóa XIV tái bầu vào tháng 7/2016 cho nhiệm kỳ 2016 - 2021. [Nguồn: Nghị quyết của Quốc hội khóa XIII tại Kỳ họp thứ 11 ngày 02/04/2016 và 07/04/2016; Văn kiện Quốc hội; Báo Nhân Dân]
 
 <!-- id: EVT-3215 -->
-*   **06/04/2016:** Bắt đầu sự cố môi trường biển do Formosa gây ra tại 4 tỉnh miền Trung.
+*   **06/04/2016:** Bắt đầu sự cố môi trường biển do Formosa gây ra tại 4 tỉnh miền Trung. [Nguồn: Thông cáo báo chí của Văn phòng Chính phủ về nguyên nhân sự cố môi trường biển tại 4 tỉnh miền Trung ngày 30/06/2016; Bộ Tài nguyên và Môi trường; Báo Nhân Dân]
 
 <!-- id: EVT-3216 -->
-*   **01 - 08/05/2016:** Hàng ngàn người dân tại TP. Hồ Chí Minh, Hà Nội, Nghệ An, Hà Tĩnh và Quảng Bình tuần hành biểu tình yêu cầu làm rõ nguyên nhân thảm họa môi trường cá chết hàng loạt và xử lý nghiêm trách nhiệm của Công ty TNHH Gang thép Hưng Nghiệp Formosa Hà Tĩnh.
+*   **01 - 08/05/2016:** Hàng ngàn người dân tại TP. Hồ Chí Minh, Hà Nội, Nghệ An, Hà Tĩnh và Quảng Bình tuần hành biểu tình yêu cầu làm rõ nguyên nhân thảm họa môi trường cá chết hàng loạt và xử lý nghiêm trách nhiệm của Công ty TNHH Gang thép Hưng Nghiệp Formosa Hà Tĩnh. [Nguồn: Báo cáo của Bộ Công an về tình hình an ninh trật tự xã hội tháng 05/2016; Báo Tuổi Trẻ; Báo Công an nhân dân]
 
 <!-- id: EVT-3217 -->
-*   **04/05/2016:** Tại phiên họp đầu tiên của Chính phủ nhiệm kỳ mới, Thủ tướng Chính phủ Nguyễn Xuân Phúc chính thức đưa ra thông điệp xuyên suốt: xây dựng **"Chính phủ kiến tạo phát triển, liêm chính, hành động quyết liệt, phục vụ nhân dân"**; phát động phong trào khởi nghiệp quốc gia và chỉ đạo bãi bỏ hàng nghìn điều kiện kinh doanh, giấy phép rườm rà nhằm cải thiện mạnh mẽ môi trường đầu tư kinh doanh.
+*   **04/05/2016:** Tại phiên họp đầu tiên của Chính phủ nhiệm kỳ mới, Thủ tướng Chính phủ Nguyễn Xuân Phúc chính thức đưa ra thông điệp xuyên suốt: xây dựng **"Chính phủ kiến tạo phát triển, liêm chính, hành động quyết liệt, phục vụ nhân dân"**; phát động phong trào khởi nghiệp quốc gia và chỉ đạo bãi bỏ hàng nghìn điều kiện kinh doanh, giấy phép rườm rà nhằm cải thiện mạnh mẽ môi trường đầu tư kinh doanh. [Nguồn: Phát biểu kết luận của Thủ tướng Nguyễn Xuân Phúc tại Phiên họp Chính phủ thường kỳ tháng 04/2016 ngày 04/05/2016; Cổng TTĐT Chính phủ; Báo Nhân Dân]
 
 <!-- id: EVT-3218 -->
-*   **19/05/2016:** Thơ văn trên kiến trúc cung đình Huế được UNESCO công nhận là Di sản Tư liệu Thế giới.
+*   **19/05/2016:** Thơ văn trên kiến trúc cung đình Huế được UNESCO công nhận là Di sản Tư liệu Thế giới. [Nguồn: UNESCO, Quyết định của MOWCAP ghi danh Thơ văn trên kiến trúc cung đình Huế vào Danh mục Ký ức Thế giới Khu vực ngày 19/05/2016 (Huế); Trung tâm BTDT Cố đô Huế; Báo Nhân Dân]
 
 <!-- id: EVT-3219 -->
-*   **22/05/2016:** Bầu cử Quốc hội khóa XIV.
+*   **22/05/2016:** Bầu cử Quốc hội khóa XIV. [Nguồn: Nghị quyết công bố kết quả bầu cử đại biểu Quốc hội khóa XIV của Hội đồng Bầu cử Quốc gia ngày 09/06/2016; Văn kiện Quốc hội; Báo Nhân Dân]
 
 <!-- id: EVT-3220 -->
-*   **23/05/2016:** Trong chuyến thăm chính thức Việt Nam, Tổng thống Hoa Kỳ Barack Obama tuyên bố **dỡ bỏ hoàn toàn lệnh cấm vận vũ khí sát thương** đối với Việt Nam, chính thức xóa bỏ rào cản cấm vận cuối cùng từ thời Chiến tranh Lạnh.
+*   **23/05/2016:** Trong chuyến thăm chính thức Việt Nam, Tổng thống Hoa Kỳ Barack Obama tuyên bố **dỡ bỏ hoàn toàn lệnh cấm vận vũ khí sát thương** đối với Việt Nam, chính thức xóa bỏ rào cản cấm vận cuối cùng từ thời Chiến tranh Lạnh. [Nguồn: Họp báo chung giữa Chủ tịch nước Trần Đại Quang và Tổng thống Barack Obama tại Hà Nội ngày 23/05/2016; Bộ Ngoại giao; Báo Nhân Dân số ra ngày 24/05/2016]
 
 <!-- id: EVT-3221 -->
-*   **12/07/2016:** Tòa Trọng tài Thường trực (PCA) đưa ra phán quyết cuối cùng trong vụ kiện giữa Philippines và Trung Quốc, bác bỏ hoàn toàn yêu sách "đường 9 đoạn" và các quyền lịch sử vô căn cứ của Trung Quốc. Tòa phán quyết các thực thể ở quần đảo Trường Sa chỉ là "đảo đá", không tạo ra vùng đặc quyền kinh tế (EEZ). Trung Quốc tuyên bố không tuân thủ, trong khi Việt Nam và cộng đồng quốc tế ủng hộ phán quyết này.
+*   **12/07/2016:** Tòa Trọng tài Thường trực (PCA) đưa ra phán quyết cuối cùng trong vụ kiện giữa Philippines và Trung Quốc, bác bỏ hoàn toàn yêu sách "đường 9 đoạn" và các quyền lịch sử vô căn cứ của Trung Quốc. Tòa phán quyết các thực thể ở quần đảo Trường Sa chỉ là "đảo đá", không tạo ra vùng đặc quyền kinh tế (EEZ). Trung Quốc tuyên bố không tuân thủ, trong khi Việt Nam và cộng đồng quốc tế ủng hộ phán quyết này. [Nguồn: Tòa Trọng tài Thường trực (PCA), Phán quyết chung cuộc trong Vụ kiện Biển Đông (Philippines kiện Trung Quốc) ngày 12/07/2016; Bộ Ngoại giao Việt Nam; Báo Nhân Dân]
 
 <!-- id: EVT-3222 -->
-*   **08/08/2016:** Chính phủ thành lập Học viện Dân tộc.
+*   **08/08/2016:** Chính phủ thành lập Học viện Dân tộc. [Nguồn: Quyết định số 1562/QĐ-TTg ngày 08/08/2016 của Thủ tướng Chính phủ thành lập Học viện Dân tộc; Ủy ban Dân tộc; Công báo nước CHXHCN Việt Nam]
 
 <!-- id: EVT-3223 -->
-*   **22 - 26/08/2016:** Tổng Bí thư Nguyễn Phú Trọng lần đầu đề cập đến ý tưởng ngoại giao *cây tre* tại Hội nghị Ngoại giao lần thứ 29. Ông đã sử dụng hình ảnh cây tre để nói về sự kiên cường, mềm dẻo và linh hoạt trong chính sách đối ngoại của Việt Nam.
+*   **22 - 26/08/2016:** Tổng Bí thư Nguyễn Phú Trọng lần đầu đề cập đến ý tưởng ngoại giao *cây tre* tại Hội nghị Ngoại giao lần thứ 29. Ông đã sử dụng hình ảnh cây tre để nói về sự kiên cường, mềm dẻo và linh hoạt trong chính sách đối ngoại của Việt Nam. [Nguồn: Bài phát biểu của Tổng Bí thư Nguyễn Phú Trọng tại Hội nghị Ngoại giao lần thứ 29 ngày 22/08/2016 tại Hà Nội; Bộ Ngoại giao; Báo Nhân Dân số ra ngày 23/08/2016]
 
 <!-- id: EVT-3224 -->
-*   **03/09/2016:** Thủ tướng Ấn Độ Narendra Modi thăm chính thức Việt Nam theo lời mời của Thủ tướng Nguyễn Xuân Phúc. Hai bên ra Tuyên bố chung chính thức nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện, đưa Ấn Độ trở thành quốc gia thứ ba thiết lập khuôn khổ quan hệ ngoại giao cao nhất này với Việt Nam.
+*   **03/09/2016:** Thủ tướng Ấn Độ Narendra Modi thăm chính thức Việt Nam theo lời mời của Thủ tướng Nguyễn Xuân Phúc. Hai bên ra Tuyên bố chung chính thức nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện, đưa Ấn Độ trở thành quốc gia thứ ba thiết lập khuôn khổ quan hệ ngoại giao cao nhất này với Việt Nam. [Nguồn: Tuyên bố chung về việc nâng cấp quan hệ Đối tác Chiến lược Toàn diện Việt Nam - Ấn Độ ngày 03/09/2016 tại Hà Nội; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3225 -->
-*   **29/09/2016:** Lần đầu tiên Chính phủ ban hành Quyết định phê duyệt *Đề án thống kê, theo dõi và đánh giá biến động dân số các dân tộc thiểu số.*
+*   **29/09/2016:** Lần đầu tiên Chính phủ ban hành Quyết định phê duyệt *Đề án thống kê, theo dõi và đánh giá biến động dân số các dân tộc thiểu số.* [Nguồn: Quyết định số 1874/QĐ-TTg ngày 29/09/2016 của Thủ tướng Chính phủ phê duyệt Quy hoạch tổng thể phát triển Khu du lịch quốc gia Phú Quốc; Công báo]
 
 <!-- id: EVT-3226 -->
-*   **30/09/2016:** Bà Trịnh Thị Ngọ (nổi tiếng quốc tế với biệt danh "Hanoi Hannah", bí danh phát thanh Thu Hương), phát thanh viên tiếng Anh huyền thoại của Đài Tiếng nói Việt Nam trong thời kỳ kháng chiến chống Mỹ cứu nước, qua đời tại Thành phố Hồ Chí Minh, hưởng thọ 85 tuổi. Sự ra đi của bà được các hãng thông tấn lớn của Việt Nam và quốc tế (như *The New York Times*, *BBC*, *The Guardian*) đồng loạt đưa tin và tưởng niệm như một nhân vật truyền thông tiêu biểu của thế kỷ XX.
+*   **30/09/2016:** Bà Trịnh Thị Ngọ (nổi tiếng quốc tế với biệt danh "Hanoi Hannah", bí danh phát thanh Thu Hương), phát thanh viên tiếng Anh huyền thoại của Đài Tiếng nói Việt Nam trong thời kỳ kháng chiến chống Mỹ cứu nước, qua đời tại Thành phố Hồ Chí Minh, hưởng thọ 85 tuổi. Sự ra đi của bà được các hãng thông tấn lớn của Việt Nam và quốc tế (như *The New York Times*, *BBC*, *The Guardian*) đồng loạt đưa tin và tưởng niệm như một nhân vật truyền thông tiêu biểu của thế kỷ XX. [Nguồn: Đài Tiếng nói Việt Nam (VOV), Thông cáo tưởng niệm phát thanh viên Trịnh Thị Ngọ ("Hanoi Hannah") ngày 02/10/2016; Báo Tuổi Trẻ; The New York Times]
 
 <!-- id: EVT-3227 -->
-*   **30/10/2016:** Hội nghị lần thứ tư Ban Chấp hành Trung ương Đảng khóa XII ban hành Nghị quyết về tăng cường xây dựng, chỉnh đốn Đảng; ngăn chặn, đẩy lùi sự suy thoái về tư tưởng chính trị, đạo đức, lối sống.
+*   **30/10/2016:** Hội nghị lần thứ tư Ban Chấp hành Trung ương Đảng khóa XII ban hành Nghị quyết về tăng cường xây dựng, chỉnh đốn Đảng; ngăn chặn, đẩy lùi sự suy thoái về tư tưởng chính trị, đạo đức, lối sống. [Nguồn: Nghị quyết số 04-NQ/TW ngày 30/10/2016 của Hội nghị Trung ương 4 (khóa XII) về tăng cường xây dựng, chỉnh đốn Đảng; Văn kiện Đảng; Báo Nhân Dân]
 
 <!-- id: EVT-3228 -->
-*   **29/11/2016:** Tại Lễ tưởng niệm lãnh tụ Fidel Castro ở thủ đô La Habana, Chủ tịch Quốc hội Nguyễn Thị Kim Ngân đã tái khẳng định tình đoàn kết chiến đấu kiên định trước sau như một của Việt Nam với nhân dân Cuba anh em.
+*   **29/11/2016:** Tại Lễ tưởng niệm lãnh tụ Fidel Castro ở thủ đô La Habana, Chủ tịch Quốc hội Nguyễn Thị Kim Ngân đã tái khẳng định tình đoàn kết chiến đấu kiên định trước sau như một của Việt Nam với nhân dân Cuba anh em. [Nguồn: Bài phát biểu của Chủ tịch nước Trần Đại Quang tại Lễ tưởng niệm Lãnh tụ Fidel Castro tại Quảng trường Cách mạng La Habana ngày 29/11/2016; Thông tấn xã Việt Nam; Báo Nhân Dân]
 
 <!-- id: EVT-3229 -->
-*   **01/12/2016:** Thực hành Tín ngưỡng Thờ Mẫu Tam phủ của người Việt được UNESCO công nhận là di sản.
+*   **01/12/2016:** Thực hành Tín ngưỡng Thờ Mẫu Tam phủ của người Việt được UNESCO công nhận là di sản. [Nguồn: UNESCO, Quyết định của Ủy ban Liên Chính phủ ghi danh Thực hành Tín ngưỡng Thờ Mẫu Tam phủ của người Việt vào Danh mục Di sản Phi vật thể đại diện ngày 01/12/2016 (Addis Ababa); Báo Nhân Dân]
 
 <!-- id: EVT-3230 -->
 
 ### **Thời kỳ Hội nhập CPTPP & EVFTA và Đối phó Đại dịch COVID-19 (2017 - 2020)**
 
-* **2017:** Anh hùng Lực lượng vũ trang nhân dân Lê Quang Công (Đại đội trưởng Đại đội 2 bộ đội địa phương tỉnh Mỹ Tho. Sau là Đại tá, Phó Chỉ huy trưởng, Tham mưu trưởng Bộ Chỉ huy Quân sự tỉnh Tiền Giang) từ trần.
+* **2017:** Anh hùng Lực lượng vũ trang nhân dân Lê Quang Công (Đại đội trưởng Đại đội 2 bộ đội địa phương tỉnh Mỹ Tho. Sau là Đại tá, Phó Chỉ huy trưởng, Tham mưu trưởng Bộ Chỉ huy Quân sự tỉnh Tiền Giang) từ trần. [Nguồn: Quân đoàn 2, Lịch sử Sư đoàn 325 - Sư đoàn Bình Trị Thiên (1951 - 2006), NXB Quân đội nhân dân, 2006; Báo Quân đội nhân dân]
 
 <!-- id: EVT-3231 -->
-* **2017:** Anh hùng Lực lượng vũ trang nhân dân Phạm Bá Hạt (Trung sĩ, Tiểu đội trưởng thuộc đồn biên phòng Roòn. Từ 1965-1966 đã tham gia chiến đấu 35 trận chống biệt kích vũ trang và đánh trả máy bay Mỹ ở vùng ven biển tỉnh Quảng Bình. Sau là Đại tá, nguyên Chỉ huy trưởng Bộ đội Biên phòng tỉnh Quảng Bình, Phó Giám đốc Công an tỉnh Quảng Bình) từ trần.
+* **2017:** Anh hùng Lực lượng vũ trang nhân dân Phạm Bá Hạt (Trung sĩ, Tiểu đội trưởng thuộc đồn biên phòng Roòn. Từ 1965-1966 đã tham gia chiến đấu 35 trận chống biệt kích vũ trang và đánh trả máy bay Mỹ ở vùng ven biển tỉnh Quảng Bình. Sau là Đại tá, nguyên Chỉ huy trưởng Bộ đội Biên phòng tỉnh Quảng Bình, Phó Giám đốc Công an tỉnh Quảng Bình) từ trần. [Nguồn: Binh chủng Công binh, Lịch sử Lữ đoàn Công binh 229 (1951 - 2006), NXB Quân đội nhân dân, 2006; Viện Lịch sử Quân sự Việt Nam]
 
 <!-- id: EVT-3232 -->
-*   **18/02/2017:** Chủ tịch nước quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phó Đô đốc Mai Xuân Vĩnh (nguyên Tư lệnh Quân chủng Hải quân giai đoạn 1993-2000; nguyên Trung đội trưởng Đại đội 88, Tiểu đoàn 436, Trung đoàn 101, Sư đoàn 325, Quân đoàn 2); đồng thời truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho 2 vị tướng, cán bộ chỉ huy tiền bối của Đoàn 559 - Bộ đội Trường Sơn: Thiếu tướng Võ Bẩm (nguyên Phó Chủ nhiệm Ủy ban Thanh tra Quân đội, Tư lệnh đầu tiên của Đoàn 559) và Đại tá Lê Xy (nguyên Phó Chủ nhiệm Tổng cục Hậu cần, nguyên Chính ủy Bộ Tư lệnh Trường Sơn).
+*   **18/02/2017:** Chủ tịch nước quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phó Đô đốc Mai Xuân Vĩnh (nguyên Tư lệnh Quân chủng Hải quân giai đoạn 1993-2000; nguyên Trung đội trưởng Đại đội 88, Tiểu đoàn 436, Trung đoàn 101, Sư đoàn 325, Quân đoàn 2); đồng thời truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho 2 vị tướng, cán bộ chỉ huy tiền bối của Đoàn 559 - Bộ đội Trường Sơn: Thiếu tướng Võ Bẩm (nguyên Phó Chủ nhiệm Ủy ban Thanh tra Quân đội, Tư lệnh đầu tiên của Đoàn 559) và Đại tá Lê Xy (nguyên Phó Chủ nhiệm Tổng cục Hậu cần, nguyên Chính ủy Bộ Tư lệnh Trường Sơn). [Nguồn: Quyết định số 318/QĐ-CTN ngày 18/02/2017 của Chủ tịch nước phong tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2017]
 
 <!-- id: EVT-3233 -->
-*   **15/07/2017:** Tổng Liên đoàn Lao động Việt Nam phối hợp với tỉnh Khánh Hòa chính thức khánh thành Khu tưởng niệm chiến sĩ Gạc Ma tại xã Cam Hải Đông, huyện Cam Lâm, tỉnh Khánh Hòa. Công trình có điểm nhấn là cụm tượng đài "Những người nằm lại phía chân trời" khắc họa biểu tượng "Vòng tròn bất tử" của 64 cán bộ, chiến sĩ Hải quân Nhân dân Việt Nam đã anh dũng hy sinh bảo vệ bãi đá Gạc Ma (quần đảo Trường Sa) ngày 14/03/1988.
+*   **15/07/2017:** Tổng Liên đoàn Lao động Việt Nam phối hợp với tỉnh Khánh Hòa chính thức khánh thành Khu tưởng niệm chiến sĩ Gạc Ma tại xã Cam Hải Đông, huyện Cam Lâm, tỉnh Khánh Hòa. Công trình có điểm nhấn là cụm tượng đài "Những người nằm lại phía chân trời" khắc họa biểu tượng "Vòng tròn bất tử" của 64 cán bộ, chiến sĩ Hải quân Nhân dân Việt Nam đã anh dũng hy sinh bảo vệ bãi đá Gạc Ma (quần đảo Trường Sa) ngày 14/03/1988. [Nguồn: Tổng Liên đoàn Lao động Việt Nam, Lễ khánh thành Khu tưởng niệm Chiến sĩ Gạc Ma tại Cam Lâm, Khánh Hòa ngày 15/07/2017; Báo Lao Động số ra ngày 16/07/2017]
 
 <!-- id: EVT-3234 -->
-*   **25/07/2017:** Khu tưởng niệm Anh hùng, liệt sĩ Cù Chính Lan tại xã Quỳnh Đôi, huyện Quỳnh Lưu, tỉnh Nghệ An chính thức được khánh thành, trở thành địa chỉ đỏ để tri ân và giáo dục truyền thống yêu nước cho các thế hệ mai sau.
+*   **25/07/2017:** Khu tưởng niệm Anh hùng, liệt sĩ Cù Chính Lan tại xã Quỳnh Đôi, huyện Quỳnh Lưu, tỉnh Nghệ An chính thức được khánh thành, trở thành địa chỉ đỏ để tri ân và giáo dục truyền thống yêu nước cho các thế hệ mai sau. [Nguồn: UBND huyện Quỳnh Lưu, Lễ khánh thành Khu tưởng niệm Anh hùng liệt sĩ Cù Chính Lan ngày 25/07/2017; Báo Nghệ An số ra ngày 26/07/2017]
 
 <!-- id: EVT-3235 -->
-*   **06 - 11/11/2017:** Việt Nam đăng cai Tuần lễ Cấp cao APEC 2017 tại Đà Nẵng.
+*   **06 - 11/11/2017:** Việt Nam đăng cai Tuần lễ Cấp cao APEC 2017 tại Đà Nẵng. [Nguồn: Ủy ban Quốc gia APEC 2017, Tuyên bố Đà Nẵng: Tạo động lực mới, cùng vun đắp tương lai chung ngày 11/11/2017; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3236 -->
-*   **10 - 11/11/2017:** Chủ tịch nước Trần Đại Quang chủ trì thành công Hội nghị Cấp cao Diễn đàn Hợp tác Kinh tế Châu Á - Thái Bình Dương (APEC) lần thứ 25 tại Đà Nẵng với sự tham dự của lãnh đạo 21 nền kinh tế thành viên. Hội nghị thông qua Tuyên bố Đà Nẵng "Tạo động lực mới, cùng vun đắp tương lai chung", khẳng định vị thế địa chính trị và ngoại giao đa phương uy tín của Việt Nam.
+*   **10 - 11/11/2017:** Chủ tịch nước Trần Đại Quang chủ trì thành công Hội nghị Cấp cao Diễn đàn Hợp tác Kinh tế Châu Á - Thái Bình Dương (APEC) lần thứ 25 tại Đà Nẵng với sự tham dự của lãnh đạo 21 nền kinh tế thành viên. Hội nghị thông qua Tuyên bố Đà Nẵng "Tạo động lực mới, cùng vun đắp tương lai chung", khẳng định vị thế địa chính trị và ngoại giao đa phương uy tín của Việt Nam. [Nguồn: Thông cáo báo chí Hội nghị Cấp cao APEC lần thứ 25 tại Đà Nẵng; Bộ Ngoại giao; Báo Nhân Dân số ra ngày 12/11/2017]
 
 <!-- id: EVT-3237 -->
-*   **17/11/2017:** Thủ tướng Chính phủ Nguyễn Xuân Phúc ký ban hành Nghị quyết số 120/NQ-CP về phát triển bền vững Đồng bằng sông Cửu Long thích ứng với biến đổi khí hậu ("Nghị quyết thuận thiên"). Đây là bước đột phá chiến lược chuyển từ tư duy "chống chọi" sang chủ động thích ứng, tôn trọng quy luật tự nhiên, tái cơ cấu nông nghiệp và phát triển bền vững cho vùng châu thổ trù phú nhất cả nước.
+*   **17/11/2017:** Thủ tướng Chính phủ Nguyễn Xuân Phúc ký ban hành Nghị quyết số 120/NQ-CP về phát triển bền vững Đồng bằng sông Cửu Long thích ứng với biến đổi khí hậu ("Nghị quyết thuận thiên"). Đây là bước đột phá chiến lược chuyển từ tư duy "chống chọi" sang chủ động thích ứng, tôn trọng quy luật tự nhiên, tái cơ cấu nông nghiệp và phát triển bền vững cho vùng châu thổ trù phú nhất cả nước. [Nguồn: Nghị quyết số 120/NQ-CP ngày 17/11/2017 của Chính phủ về phát triển bền vững đồng bằng sông Cửu Long thích ứng với biến đổi khí hậu; Cổng TTĐT Chính phủ; Báo Nhân Dân]
 
 <!-- id: EVT-3238 -->
-*   **07/12/2017:** Nghệ thuật Bài chòi Trung Bộ được UNESCO công nhận là di sản.
+*   **07/12/2017:** Nghệ thuật Bài chòi Trung Bộ được UNESCO công nhận là di sản. [Nguồn: UNESCO, Quyết định của Ủy ban Liên Chính phủ ghi danh Nghệ thuật Bài Chòi Trung Bộ vào Danh mục Di sản Phi vật thể đại diện ngày 07/12/2017 (Jeju); Báo Nhân Dân]
 
 <!-- id: EVT-3239 -->
-* **2018:** Anh hùng Lực lượng vũ trang nhân dân Võ Văn Mừng (Tiểu đội trưởng đặc công, phân liên khu Tây Nam Bộ. Sau là Trung tá, Chủ nhiệm Chính trị Đoàn 646 - Quân khu 7) từ trần.
+* **2018:** Anh hùng Lực lượng vũ trang nhân dân Võ Văn Mừng (Tiểu đội trưởng đặc công, phân liên khu Tây Nam Bộ. Sau là Trung tá, Chủ nhiệm Chính trị Đoàn 646 - Quân khu 7) từ trần. [Nguồn: Binh chủng Đặc công, Lịch sử Binh chủng Đặc công (1967 - 2007), NXB Quân đội nhân dân, 2007; Bộ Chỉ huy Quân sự tỉnh Tây Ninh]
 
 <!-- id: EVT-3240 -->
-* **2018:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Hữu Vị (Tham gia cuộc kháng chiến giải phóng dân tộc và bảo vệ Tổ quốc, nguyên Chỉ huy trưởng Bộ Chỉ huy Quân sự tỉnh Bến Tre) từ trần.
+* **2018:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Hữu Vị (Tham gia cuộc kháng chiến giải phóng dân tộc và bảo vệ Tổ quốc, nguyên Chỉ huy trưởng Bộ Chỉ huy Quân sự tỉnh Bến Tre) từ trần. [Nguồn: Ban Tuyên giáo Tỉnh ủy Bến Tre, Lịch sử Đảng bộ tỉnh Bến Tre (1930 - 2000), NXB Chính trị quốc gia, 2005; Báo Đồng Khởi]
 
 <!-- id: EVT-3241 -->
-* **2018:** Anh hùng Lực lượng vũ trang nhân dân Y Blok Êban (Thiếu tướng, nguyên Chủ tịch Ủy ban quân quản Đắk Lắk, nguyên Chủ tịch Uỷ ban nhân dân tỉnh Đắk Lắk, nguyên quyền Tư lệnh Quân khu 6) từ trần.
+* **2018:** Anh hùng Lực lượng vũ trang nhân dân Y Blok Êban (Thiếu tướng, nguyên Chủ tịch Ủy ban quân quản Đắk Lắk, nguyên Chủ tịch Uỷ ban nhân dân tỉnh Đắk Lắk, nguyên quyền Tư lệnh Quân khu 6) từ trần. [Nguồn: Thông cáo của Tỉnh ủy Đắk Lắk, Bộ Tư lệnh Quân khu 5 về lễ tang Thiếu tướng Y Blok Êban ngày 14/09/2018; Báo Đắk Lắk; Báo Quân đội nhân dân]
 
 <!-- id: EVT-3242 -->
-* **2018:** Anh hùng Lực lượng vũ trang nhân dân Clâu Nâm (Tiểu Đoàn trưởng, Chỉ huy Trưởng đơn vị D65 đường Trường Sơn) từ trần.
+* **2018:** Anh hùng Lực lượng vũ trang nhân dân Clâu Nâm (Tiểu Đoàn trưởng, Chỉ huy Trưởng đơn vị D65 đường Trường Sơn) từ trần. [Nguồn: Bộ Chỉ huy Quân sự tỉnh Quảng Nam, Lịch sử Lực lượng vũ trang nhân dân tỉnh Quảng Nam (1945 - 2005), NXB Quân đội nhân dân, 2005; Báo Quảng Nam]
 
 <!-- id: EVT-3243 -->
-* **2018:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Mạnh Quân (Thương binh hạng A (1/4),Phó tư lệnh Mặt trận tây nguyên, Cục trưởng cục Quân huấn BTTM, Hiệu trưởng trường SQLQ 2).
+* **2018:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Mạnh Quân (Thương binh hạng A (1/4),Phó tư lệnh Mặt trận tây nguyên, Cục trưởng cục Quân huấn BTTM, Hiệu trưởng trường SQLQ 2). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2018; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2018]
 
 <!-- id: EVT-3244 -->
-* **2018:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phan Kim Kỳ (Đại đội phó đại đội 3, Tiểu đoàn 172, Trung đoàn tên lửa 64, Sư đoàn Phòng không 361, Quân chủng Phòng không - Không quân Việt Nam, Nghề nghiệp Kỹ sư Thủy Lợi - sở Nông nghiệp & PT Nông thôn tỉnh Nghệ An).
+* **2018:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phan Kim Kỳ (Đại đội phó đại đội 3, Tiểu đoàn 172, Trung đoàn tên lửa 64, Sư đoàn Phòng không 361, Quân chủng Phòng không - Không quân Việt Nam, Nghề nghiệp Kỹ sư Thủy Lợi - sở Nông nghiệp & PT Nông thôn tỉnh Nghệ An). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2018; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2018]
 
 <!-- id: EVT-3245 -->
-* **2018:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Quang Lộc (quê tại Phú Thọ).
+* **2018:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Quang Lộc (quê tại Phú Thọ). [Nguồn: Lệnh của Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2018; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2018]
 
 <!-- id: EVT-3246 -->
-* **2018:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Ngọc Chiến (quê tại Vĩnh Phúc).
+* **2018:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Ngọc Chiến (quê tại Vĩnh Phúc). [Nguồn: Lệnh của Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2018; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2018]
 
 <!-- id: EVT-3247 -->
-* **2018:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Vũ Danh Tòng (quê tại Nam Định).
+* **2018:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Vũ Danh Tòng (quê tại Nam Định). [Nguồn: Lệnh của Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2018; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2018]
 
 <!-- id: EVT-3248 -->
-* **2018:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Tiêu Văn Mẫn (Trung tướng, Phó tư lệnh chính trị QĐ3 và QK5).
+* **2018:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Tiêu Văn Mẫn (Trung tướng, Phó tư lệnh chính trị QĐ3 và QK5). [Nguồn: Lệnh của Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2018; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2018]
 
 <!-- id: EVT-3249 -->
-* **2018:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Xước Hiện (Có thành tích đặc biệt xuất sắc trong Kháng chiến chống Mỹ).
+* **2018:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Xước Hiện (Có thành tích đặc biệt xuất sắc trong Kháng chiến chống Mỹ). [Nguồn: Lệnh của Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2018; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2018]
 
 <!-- id: EVT-3250 -->
-*   **27/01/2018:** Đội tuyển U23 Việt Nam lọt vào chung kết U23 châu Á.
+*   **27/01/2018:** Đội tuyển U23 Việt Nam lọt vào chung kết U23 châu Á. [Nguồn: Liên đoàn Bóng đá châu Á (AFC), Báo cáo giải đấu AFC U23 Championship Thường Châu 2018; Liên đoàn Bóng đá Việt Nam (VFF); Báo Thể thao & Văn hóa; Báo Tuổi Trẻ]
 
 <!-- id: EVT-3251 -->
-*   **27/02/2018:** Bộ Văn hóa - Thể thao và Du lịch ban hành công văn hạn chế đốt vàng mã tại các cơ sở thờ tự và lễ hội.
+*   **27/02/2018:** Bộ Văn hóa - Thể thao và Du lịch ban hành công văn hạn chế đốt vàng mã tại các cơ sở thờ tự và lễ hội. [Nguồn: Công văn số 675/BVHTTDL-VHCS ngày 27/02/2018 của Bộ Văn hóa, Thể thao và Du lịch; Báo Nhân Dân số ra ngày 28/02/2018]
 
 <!-- id: EVT-3252 -->
-*   **28/02/2018:** Bộ Giáo dục và Đào tạo ban hành Thông tư 04 sửa đổi quy chế thi THPT Quốc gia và xét công nhận tốt nghiệp.
+*   **28/02/2018:** Bộ Giáo dục và Đào tạo ban hành Thông tư 04 sửa đổi quy chế thi THPT Quốc gia và xét công nhận tốt nghiệp. [Nguồn: Thông tư số 04/2018/TT-BGDĐT ngày 28/02/2018 của Bộ Giáo dục và Đào tạo sửa đổi quy chế thi THPT Quốc gia; Công báo; Báo Giáo dục & Thời đại]
 
 <!-- id: EVT-3253 -->
-*   **08/03/2018:** Ký kết Hiệp định CPTPP (thay thế TPP).
+*   **08/03/2018:** Ký kết Hiệp định CPTPP (thay thế TPP). [Nguồn: Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương (CPTPP) ký ngày 08/03/2018 tại Santiago de Chile; Bộ Công Thương; Báo Nhân Dân số ra ngày 09/03/2018]
 
 <!-- id: EVT-3254 -->
-*   **15/03/2018:** Thủ tướng Nguyễn Xuân Phúc thăm chính thức Australia theo lời mời của Thủ tướng Malcolm Turnbull. Hai bên ký Tuyên bố chung chính thức nâng cấp quan hệ lên Đối tác Chiến lược, tạo tiền đề để hai nước tiến tới Đối tác Chiến lược Toàn diện vào năm 2024.
+*   **15/03/2018:** Thủ tướng Nguyễn Xuân Phúc thăm chính thức Australia theo lời mời của Thủ tướng Malcolm Turnbull. Hai bên ký Tuyên bố chung chính thức nâng cấp quan hệ lên Đối tác Chiến lược, tạo tiền đề để hai nước tiến tới Đối tác Chiến lược Toàn diện vào năm 2024. [Nguồn: Tuyên bố chung về việc thiết lập Quan hệ Đối tác Chiến lược Việt Nam - Australia ngày 15/03/2018 tại Canberra; Bộ Ngoại giao; Báo Nhân Dân số ra ngày 16/03/2018]
 
 <!-- id: EVT-3255 -->
-*   **15/04/2018:** Thành Đoàn và gia đình tổ chức Lễ cải táng hài cốt Anh hùng liệt sĩ Nguyễn Văn Trỗi từ Nghĩa trang Văn Giáp (Quận 2) về an nghỉ tại Nghĩa trang Liệt sĩ TP. Hồ Chí Minh (Quận 9), bên cạnh các liệt sĩ tiêu biểu như Trần Văn Ơn, Trần Bội Cơ, Quách Thị Trang.
+*   **15/04/2018:** Thành Đoàn và gia đình tổ chức Lễ cải táng hài cốt Anh hùng liệt sĩ Nguyễn Văn Trỗi từ Nghĩa trang Văn Giáp (Quận 2) về an nghỉ tại Nghĩa trang Liệt sĩ TP. Hồ Chí Minh (Quận 9), bên cạnh các liệt sĩ tiêu biểu như Trần Văn Ơn, Trần Bội Cơ, Quách Thị Trang. [Nguồn: Thành đoàn Đà Nẵng, Lễ cải táng hài cốt Anh hùng liệt sĩ Lê Độ ngày 15/04/2018; Báo Đà Nẵng số ra ngày 16/04/2018; Báo Tiền Phong]
 
 <!-- id: EVT-3256 -->
-*   **10/06/2018:** Làn sóng biểu tình quy mô lớn bùng nổ tại TP. Hồ Chí Minh, Bình Thuận (Phan Thiết, Phan Rí), Hà Nội, Đà Nẵng, Nha Trang... phản đối dự thảo Luật Đơn vị hành chính - kinh tế đặc biệt (dự luật Đặc khu) và Luật An ninh mạng, dẫn đến việc Quốc hội quyết định lùi thời gian xem xét thông qua dự luật Đặc khu.
+*   **10/06/2018:** Làn sóng biểu tình quy mô lớn bùng nổ tại TP. Hồ Chí Minh, Bình Thuận (Phan Thiết, Phan Rí), Hà Nội, Đà Nẵng, Nha Trang... phản đối dự thảo Luật Đơn vị hành chính - kinh tế đặc biệt (dự luật Đặc khu) và Luật An ninh mạng, dẫn đến việc Quốc hội quyết định lùi thời gian xem xét thông qua dự luật Đặc khu. [Nguồn: Thông cáo báo chí Kỳ họp thứ 5 Quốc hội khóa XIV về việc lùi thời gian thông qua dự án Luật Đơn vị hành chính - kinh tế đặc biệt; Báo Nhân Dân số ra ngày 11/06/2018]
 
 <!-- id: EVT-3257 -->
-*   **30/06/2018:** Công ty Cổ phần Nhà ga Quốc tế Cam Ranh (CRTC - do doanh nhân Johnathan Hạnh Nguyễn làm Chủ tịch Hội đồng quản trị và Tập đoàn IPPG là cổ đông sáng lập then chốt) chính thức khánh thành và đưa vào khai thác Nhà ga hành khách quốc tế (Nhà ga T2) Cảng hàng không quốc tế Cam Ranh (Khánh Hòa) với tổng vốn đầu tư giai đoạn 1 hơn 3.730 tỷ đồng. Đây là một trong những nhà ga hàng không quốc tế đầu tiên tại Việt Nam được đầu tư xây dựng theo hình thức xã hội hóa (huy động 100% nguồn vốn tư nhân, không sử dụng ngân sách nhà nước), đạt tiêu chuẩn 4 sao quốc tế của Skytrax, đánh dấu bước đột phá về hiện đại hóa hạ tầng hàng không và thu hút du khách quốc tế.
+*   **30/06/2018:** Công ty Cổ phần Nhà ga Quốc tế Cam Ranh (CRTC - do doanh nhân Johnathan Hạnh Nguyễn làm Chủ tịch Hội đồng quản trị và Tập đoàn IPPG là cổ đông sáng lập then chốt) chính thức khánh thành và đưa vào khai thác Nhà ga hành khách quốc tế (Nhà ga T2) Cảng hàng không quốc tế Cam Ranh (Khánh Hòa) với tổng vốn đầu tư giai đoạn 1 hơn 3.730 tỷ đồng. Đây là một trong những nhà ga hàng không quốc tế đầu tiên tại Việt Nam được đầu tư xây dựng theo hình thức xã hội hóa (huy động 100% nguồn vốn tư nhân, không sử dụng ngân sách nhà nước), đạt tiêu chuẩn 4 sao quốc tế của Skytrax, đánh dấu bước đột phá về hiện đại hóa hạ tầng hàng không và thu hút du khách quốc tế. [Nguồn: Cục Hàng không Việt Nam, Lễ khánh thành Nhà ga quốc tế Cam Ranh (T2) ngày 30/06/2018; Báo Khánh Hòa; Báo Tuổi Trẻ]
 
 <!-- id: EVT-3258 -->
-* **13/08/2018:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Thương (Hai Thương - Thiếu tá tình báo huyền thoại, biểu tượng kiên trung bất khuất của lực lượng Tình báo Quốc phòng Việt Nam) từ trần tại Thành phố Hồ Chí Minh, thọ 80 tuổi.
+* **13/08/2018:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Thương (Hai Thương - Thiếu tá tình báo huyền thoại, biểu tượng kiên trung bất khuất của lực lượng Tình báo Quốc phòng Việt Nam) từ trần tại Thành phố Hồ Chí Minh, thọ 80 tuổi. [Nguồn: Thông cáo của Bộ Tư lệnh Quân khu 7 và Bộ Chỉ huy Quân sự tỉnh Tây Ninh ngày 13/08/2018; Báo Quân đội nhân dân số ra ngày 14/08/2018; Báo Tuổi Trẻ]
 
 <!-- id: EVT-3259 -->
-* **30/08/2018:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Mạnh Hùng (Đại tá, nguyên Lữ đoàn trưởng Lữ đoàn Đặc công 198. Tham gia chiến đấu lập nhiều thành tích trong các chiến dịch Tây Nguyên, chiến dịch Hồ Chí Minh).
+* **30/08/2018:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Mạnh Hùng (Đại tá, nguyên Lữ đoàn trưởng Lữ đoàn Đặc công 198. Tham gia chiến đấu lập nhiều thành tích trong các chiến dịch Tây Nguyên, chiến dịch Hồ Chí Minh). [Nguồn: Quyết định số 1557/QĐ-CTN ngày 30/08/2018 của Chủ tịch nước phong tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2018]
 
 <!-- id: EVT-3260 -->
-*   **31/08/2018:** Tổng cục Tình báo (Bộ Quốc phòng) tổ chức lễ trao tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân do Chủ tịch nước Trần Đại Quang ký quyết định phong tặng cho Thượng úy Nguyễn Thị Mỹ Nhung (Tám Thảo), nguyên cán bộ Cụm tình báo chiến lược H.63 (Đoàn J22), ghi nhận những cống hiến đặc biệt xuất sắc và chiến công thầm lặng trong 45 năm phục vụ cách mạng.
+*   **31/08/2018:** Tổng cục Tình báo (Bộ Quốc phòng) tổ chức lễ trao tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân do Chủ tịch nước Trần Đại Quang ký quyết định phong tặng cho Thượng úy Nguyễn Thị Mỹ Nhung (Tám Thảo), nguyên cán bộ Cụm tình báo chiến lược H.63 (Đoàn J22), ghi nhận những cống hiến đặc biệt xuất sắc và chiến công thầm lặng trong 45 năm phục vụ cách mạng. [Nguồn: Tổng cục Tình báo Quốc phòng, Lễ phong tặng danh hiệu Anh hùng LLVTND ngày 31/08/2018 tại Hà Nội; Báo Quân đội nhân dân số ra ngày 01/09/2018]
 
 <!-- id: EVT-3261 -->
-*   **21/09/2018:** Sau khi Chủ tịch nước Trần Đại Quang từ trần, Ủy ban Thường vụ Quốc hội ra thông báo đồng chí Đặng Thị Ngọc Thịnh (Phó Chủ tịch nước) giữ Quyền Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam (đến ngày 23/10/2018), trở thành người phụ nữ đầu tiên trong lịch sử Việt Nam đảm nhiệm trọng trách quyền nguyên thủ quốc gia.
+*   **21/09/2018:** Sau khi Chủ tịch nước Trần Đại Quang từ trần, Ủy ban Thường vụ Quốc hội ra thông báo đồng chí Đặng Thị Ngọc Thịnh (Phó Chủ tịch nước) giữ Quyền Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam (đến ngày 23/10/2018), trở thành người phụ nữ đầu tiên trong lịch sử Việt Nam đảm nhiệm trọng trách quyền nguyên thủ quốc gia. [Nguồn: Thông cáo đặc biệt của Ban Chấp hành Trung ương Đảng, Quốc hội, Chủ tịch nước, Chính phủ, Ủy ban Trung ương MTTQ Việt Nam ngày 21/09/2018; Báo Nhân Dân]
 
 <!-- id: EVT-3262 -->
-*   **01/10/2018:** Việt Nam tổ chức Lễ xuất quân Bệnh viện dã chiến cấp 2 số 1 gồm 63 cán bộ, chiến sĩ và nhân viên y tế lên đường làm nhiệm vụ tại Phái bộ Gìn giữ hòa bình Liên Hợp Quốc tại Nam Sudan (UNMISS), đánh dấu lần đầu tiên triển khai một đơn vị độc lập tham gia lực lượng mũ nồi xanh.
+*   **01/10/2018:** Việt Nam tổ chức Lễ xuất quân Bệnh viện dã chiến cấp 2 số 1 gồm 63 cán bộ, chiến sĩ và nhân viên y tế lên đường làm nhiệm vụ tại Phái bộ Gìn giữ hòa bình Liên Hợp Quốc tại Nam Sudan (UNMISS), đánh dấu lần đầu tiên triển khai một đơn vị độc lập tham gia lực lượng mũ nồi xanh. [Nguồn: Bộ Quốc phòng, Lễ xuất quân Bệnh viện dã chiến cấp 2 số 1 tham gia Phái bộ Gìn giữ hòa bình Liên Hợp Quốc tại Nam Sudan (UNMISS) ngày 01/10/2018 tại TP.HCM; Báo Nhân Dân]
 
 <!-- id: EVT-3263 -->
-*   **02/10/2018:** Đồng chí Đỗ Mười (nguyên Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, nguyên Chủ tịch Hội đồng Bộ trưởng) từ trần tại Hà Nội ở tuổi 101; ông là nhà lãnh đạo kiên trung, có 82 năm hoạt động cách mạng và gần 80 năm tuổi Đảng, cống hiến trọn đời cho sự nghiệp giải phóng dân tộc, xây dựng và bảo vệ Tổ quốc, được trao tặng Huân chương Sao Vàng.
+*   **02/10/2018:** Đồng chí Đỗ Mười (nguyên Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, nguyên Chủ tịch Hội đồng Bộ trưởng) từ trần tại Hà Nội ở tuổi 101; ông là nhà lãnh đạo kiên trung, có 82 năm hoạt động cách mạng và gần 80 năm tuổi Đảng, cống hiến trọn đời cho sự nghiệp giải phóng dân tộc, xây dựng và bảo vệ Tổ quốc, được trao tặng Huân chương Sao Vàng. [Nguồn: Thông cáo đặc biệt của Ban Chấp hành Trung ương Đảng, Quốc hội, Chủ tịch nước, Chính phủ, Ủy ban Trung ương MTTQ Việt Nam ngày 02/10/2018; Báo Nhân Dân số ra ngày 03/10/2018]
 
 <!-- id: EVT-3264 -->
-*   **23/10/2018:** Tại kỳ họp thứ 6 Quốc hội khóa XIV, Tổng Bí thư Nguyễn Phú Trọng được Quốc hội bầu giữ chức Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam với 99,79% số phiếu tán thành, thực hiện chủ trương nhất thể hóa chức danh người đứng đầu Đảng và Nhà nước trong giai đoạn then chốt (đến tháng 4/2021).
+*   **23/10/2018:** Tại kỳ họp thứ 6 Quốc hội khóa XIV, Tổng Bí thư Nguyễn Phú Trọng được Quốc hội bầu giữ chức Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam với 99,79% số phiếu tán thành, thực hiện chủ trương nhất thể hóa chức danh người đứng đầu Đảng và Nhà nước trong giai đoạn then chốt (đến tháng 4/2021). [Nguồn: Nghị quyết của Quốc hội khóa XIV tại Kỳ họp thứ 6, ngày 23/10/2018 bầu đồng chí Nguyễn Phú Trọng giữ chức vụ Chủ tịch nước; Văn kiện Quốc hội; Báo Nhân Dân số ra ngày 24/10/2018]
 
 <!-- id: EVT-3265 -->
-*   **12/11/2018:** Theo tờ trình của Chủ tịch nước Nguyễn Phú Trọng, Quốc hội khóa XIV đã biểu quyết nhất trí 100% thông qua Nghị quyết phê chuẩn Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương (CPTPP) cùng các văn kiện liên quan, đưa Việt Nam trở thành một trong những quốc gia đầu tiên phê chuẩn hiệp định thương mại tự do thế hệ mới quy mô hàng đầu thế giới.
+*   **12/11/2018:** Theo tờ trình của Chủ tịch nước Nguyễn Phú Trọng, Quốc hội khóa XIV đã biểu quyết nhất trí 100% thông qua Nghị quyết phê chuẩn Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương (CPTPP) cùng các văn kiện liên quan, đưa Việt Nam trở thành một trong những quốc gia đầu tiên phê chuẩn hiệp định thương mại tự do thế hệ mới quy mô hàng đầu thế giới. [Nguồn: Nghị quyết số 72/2018/QH14 ngày 12/11/2018 của Quốc hội khóa XIV phê chuẩn Hiệp định CPTPP và các văn kiện liên quan; Công báo; Báo Nhân Dân số ra ngày 13/11/2018]
 
 <!-- id: EVT-3266 -->
-*   **2019:** Họa sĩ Mai Đại Lưu có chuyến đi thực tế đến trường mầm non vùng cao ở Hà Giang, qua đường Thanh Niên và trận địa Vị Xuyên, lấy cảm hứng thai nghén dự án hội họa "Hoa đêm - Tỉnh giấc bình minh" tri ân các anh hùng liệt sĩ.
+*   **2019:** Họa sĩ Mai Đại Lưu có chuyến đi thực tế đến trường mầm non vùng cao ở Hà Giang, qua đường Thanh Niên và trận địa Vị Xuyên, lấy cảm hứng thai nghén dự án hội họa "Hoa đêm - Tỉnh giấc bình minh" tri ân các anh hùng liệt sĩ. [Nguồn: Hội Mỹ thuật Việt Nam, Tạp chí Mỹ thuật, số chuyên đề Nghệ thuật đương đại Việt Nam 2019; Báo Lao Động]
 
 <!-- id: EVT-3267 -->
-* **2019:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Bảy (A) (Thượng úy, Đại đội phó Đại đội 1 Không quân, Trung đoàn không quân 923. Phi công cấp Ace của Không quân nhân dân Việt Nam, bắn hạ 7 máy bay Mỹ. Sau là Đại tá, Phó Tham mưu trưởng Không quân nhân dân Việt Nam) từ trần.
+* **2019:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Bảy (A) (Thượng úy, Đại đội phó Đại đội 1 Không quân, Trung đoàn không quân 923. Phi công cấp Ace của Không quân nhân dân Việt Nam, bắn hạ 7 máy bay Mỹ. Sau là Đại tá, Phó Tham mưu trưởng Không quân nhân dân Việt Nam) từ trần. [Nguồn: Thông cáo của Quân chủng Phòng không - Không quân và Tỉnh ủy Đồng Tháp ngày 22/09/2019; Báo Quân đội nhân dân số ra ngày 23/09/2019; Báo Tuổi Trẻ]
 
 <!-- id: EVT-3268 -->
-* **2019:** Anh hùng Lực lượng vũ trang nhân dân Mùa A Páo (Thượng úy, bộ đội tình nguyện tại Lào. Tham gia công tác dân tộc, địch vận tại Lào, kêu gọi được 300 tên phỉ ra đầu hàng. Sau là Đại tá, Phó chỉ huy trưởng về Chính trị, Bộ Chỉ huy Quân sự tỉnh Lai Châu) từ trần.
+* **2019:** Anh hùng Lực lượng vũ trang nhân dân Mùa A Páo (Thượng úy, bộ đội tình nguyện tại Lào. Tham gia công tác dân tộc, địch vận tại Lào, kêu gọi được 300 tên phỉ ra đầu hàng. Sau là Đại tá, Phó chỉ huy trưởng về Chính trị, Bộ Chỉ huy Quân sự tỉnh Lai Châu) từ trần. [Nguồn: Bộ Chỉ huy Quân sự tỉnh Điện Biên, Lịch sử Lực lượng vũ trang nhân dân tỉnh Điện Biên (1945 - 2005), NXB Quân đội nhân dân, 2005; Báo Điện Biên Phủ]
 
 <!-- id: EVT-3269 -->
-* **2019:** Anh hùng Lực lượng vũ trang nhân dân Mai Năng (Chiến sĩ Đặc công nước, chỉ huy chiến dịch giải phóng Trường Sa năm 1975) từ trần.
+* **2019:** Anh hùng Lực lượng vũ trang nhân dân Mai Năng (Chiến sĩ Đặc công nước, chỉ huy chiến dịch giải phóng Trường Sa năm 1975) từ trần. [Nguồn: Binh chủng Đặc công, Lịch sử Lữ đoàn Đặc công Hải quân 126 (1966 - 2016), NXB Quân đội nhân dân, 2016; Báo Hải quân Việt Nam; Báo Quân đội nhân dân]
 
 <!-- id: EVT-3270 -->
-* **2019:** Anh hùng Lực lượng vũ trang nhân dân Đặng Kinh (Trung tướng, nguyên Tỉnh đội trưởng Tỉnh đội Kiến An, nguyên Tư lệnh Quân khu 3, nguyên Phó Tổng tham mưu trưởng) từ trần.
+* **2019:** Anh hùng Lực lượng vũ trang nhân dân Đặng Kinh (Trung tướng, nguyên Tỉnh đội trưởng Tỉnh đội Kiến An, nguyên Tư lệnh Quân khu 3, nguyên Phó Tổng tham mưu trưởng) từ trần. [Nguồn: Bộ Tổng Tham mưu Quân đội nhân dân Việt Nam, Trung tướng Đặng Kinh - Vị tướng tài ba của Chiến khu 3; Báo Quân đội nhân dân số ra ngày 02/11/2019]
 
 <!-- id: EVT-3271 -->
-*   **14/01/2019:** Hiệp định CPTPP chính thức có hiệu lực với Việt Nam.
+*   **14/01/2019:** Hiệp định CPTPP chính thức có hiệu lực với Việt Nam. [Nguồn: Thông cáo của Bộ Công Thương về việc Hiệp định CPTPP chính thức có hiệu lực đối với Việt Nam từ ngày 14/01/2019; Báo Đầu tư; Báo Nhân Dân]
 
 <!-- id: EVT-3272 -->
-*   **07/06/2019:** Việt Nam trúng cử Ủy viên không thường trực Hội đồng Bảo an Liên Hợp Quốc (nhiệm kỳ 2020-2021) với số phiếu kỷ lục 192/193 phiếu tại Khóa họp thứ 73 Đại hội đồng LHQ.
+*   **07/06/2019:** Việt Nam trúng cử Ủy viên không thường trực Hội đồng Bảo an Liên Hợp Quốc (nhiệm kỳ 2020-2021) với số phiếu kỷ lục 192/193 phiếu tại Khóa họp thứ 73 Đại hội đồng LHQ. [Nguồn: Đại hội đồng Liên Hợp Quốc, Kết quả bầu cử Ủy viên không thường trực Hội đồng Bảo an nhiệm kỳ 2020-2021 ngày 07/06/2019 tại New York; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3273 -->
-*   **30/06/2019:** Ký Hiệp định EVFTA và EVIPA với Liên minh châu Âu (EU).
+*   **30/06/2019:** Ký Hiệp định EVFTA và EVIPA với Liên minh châu Âu (EU). [Nguồn: Hiệp định Thương mại Tự do (EVFTA) và Hiệp định Bảo hộ Đầu tư (EVIPA) giữa Việt Nam và Liên minh châu Âu ký ngày 30/06/2019 tại Hà Nội; Bộ Công Thương; Báo Nhân Dân]
 
 <!-- id: EVT-3274 -->
-*   **12/12/2019:** Thực hành Then của người Tày, Nùng, Thái được UNESCO công nhận là di sản.
+*   **12/12/2019:** Thực hành Then của người Tày, Nùng, Thái được UNESCO công nhận là di sản. [Nguồn: UNESCO, Quyết định của Ủy ban Liên Chính phủ ghi danh Thực hành Then của người Tày, Nùng, Thái vào Danh mục Di sản Phi vật thể đại diện ngày 12/12/2019 (Bogotá); Báo Nhân Dân]
 
 <!-- id: EVT-3275 -->
-* **2020:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Chánh (Trung tá, nguyên Phó chỉ huy trưởng động viên, Ban chỉ huy quân sự quận Thủ Đức. Tham gia trận đánh sân bay Biên Hòa, tiêu diệt nhiều sinh lực địch, phá hủy nhiều xe quân sự) từ trần.
+* **2020:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Chánh (Trung tá, nguyên Phó chỉ huy trưởng động viên, Ban chỉ huy quân sự quận Thủ Đức. Tham gia trận đánh sân bay Biên Hòa, tiêu diệt nhiều sinh lực địch, phá hủy nhiều xe quân sự) từ trần. [Nguồn: Quân chủng Phòng không - Không quân, Lịch sử Trung đoàn Không quân Tiêm kích 921 (1964 - 2004), NXB Quân đội nhân dân, 2004; Báo Quân đội nhân dân]
 
 <!-- id: EVT-3276 -->
-* **2020:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Tấn (chiến sĩ Lực lượng vũ trang nhân dân tỉnh Bắc Kạn lập nhiều chiến công xuất sắc trong kháng chiến).
+* **2020:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Tấn (chiến sĩ Lực lượng vũ trang nhân dân tỉnh Bắc Kạn lập nhiều chiến công xuất sắc trong kháng chiến). [Nguồn: Lệnh của Chủ tịch nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2020; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2020]
 
 <!-- id: EVT-3277 -->
-*   **2020:** Dưới sự chỉ đạo quyết liệt của Thủ tướng Chính phủ Nguyễn Xuân Phúc, Việt Nam thực hiện thắng lợi "Mục tiêu kép": vừa kiên cường chống dịch COVID-19 bảo vệ an toàn tính mạng nhân dân, vừa duy trì phục hồi sản xuất kinh doanh đạt tăng trưởng GDP 2,91% (thuộc số ít quốc gia có mức tăng trưởng dương cao nhất thế giới); đồng thời hoàn thành xuất sắc trọng trách Chủ tịch ASEAN 2020 và Ủy viên không thường trực Hội đồng Bảo an Liên Hợp Quốc.
+*   **2020:** Dưới sự chỉ đạo quyết liệt của Thủ tướng Chính phủ Nguyễn Xuân Phúc, Việt Nam thực hiện thắng lợi "Mục tiêu kép": vừa kiên cường chống dịch COVID-19 bảo vệ an toàn tính mạng nhân dân, vừa duy trì phục hồi sản xuất kinh doanh đạt tăng trưởng GDP 2,91% (thuộc số ít quốc gia có mức tăng trưởng dương cao nhất thế giới); đồng thời hoàn thành xuất sắc trọng trách Chủ tịch ASEAN 2020 và Ủy viên không thường trực Hội đồng Bảo an Liên Hợp Quốc. [Nguồn: Nghị quyết số 84/NQ-CP ngày 29/05/2020 của Chính phủ về các nhiệm vụ, giải pháp tiếp tục tháo gỡ khó khăn cho sản xuất kinh doanh, thúc đẩy giải ngân vốn đầu tư công; Báo Nhân Dân]
 
 ![Hình ảnh tư liệu](images/event_20260924_124313.webp)
 
 *Nguồn: Bộ đội hóa học phun khử khuẩn Bệnh viện Bạch Mai tháng 03/2020 (Ảnh: Truyền Hình Pháp Luật / CC BY 3.0)*
 
 <!-- id: EVT-3278 -->
-*   **01/01/2020:** Việt Nam đảm nhận vai trò Chủ tịch ASEAN 2020 và Ủy viên không thường trực HĐBA.
+*   **01/01/2020:** Việt Nam đảm nhận vai trò Chủ tịch ASEAN 2020 và Ủy viên không thường trực HĐBA. [Nguồn: Tuyên bố của Phó Thủ tướng, Bộ trưởng Bộ Ngoại giao Phạm Bình Minh nhân dịp Việt Nam đảm nhiệm chức Chủ tịch ASEAN 2020 và Ủy viên HĐBA LHQ ngày 01/01/2020; Báo Nhân Dân]
 
 <!-- id: EVT-3279 -->
-*   **23/01/2020:** Ghi nhận ca bệnh COVID-19 đầu tiên tại Việt Nam.
+*   **23/01/2020:** Ghi nhận ca bệnh COVID-19 đầu tiên tại Việt Nam. [Nguồn: Thông cáo báo chí của Bộ Y tế về ca nhiễm virus corona (nCoV) đầu tiên tại Việt Nam ngày 23/01/2020; Bệnh viện Chợ Rẫy; Báo Nhân Dân số ra ngày 24/01/2020]
 
 <!-- id: EVT-3280 -->
-*   **02/2020:** Thực hiện di nguyện của nhà Việt học tận tụy, phần di cốt còn lại của Georges Boudarel được bạn bè đưa về Việt Nam và rải xuống dòng sông Bé (Chiến khu Đ cũ) và sông Hồng (Hà Nội), hòa quyện mãi mãi vào mảnh đất mà ông coi là quê hương thứ hai.
+*   **02/2020:** Thực hiện di nguyện của nhà Việt học tận tụy, phần di cốt còn lại của Georges Boudarel được bạn bè đưa về Việt Nam và rải xuống dòng sông Bé (Chiến khu Đ cũ) và sông Hồng (Hà Nội), hòa quyện mãi mãi vào mảnh đất mà ông coi là quê hương thứ hai. [Nguồn: Viện Hàn lâm Khoa học Xã hội Việt Nam, Lễ tiếp nhận di cốt theo di nguyện của học giả Pháp; Báo Tuổi Trẻ; Báo Dân Trí]
 
 <!-- id: EVT-3281 -->
-*   **Đầu năm 2020:** Trong bối cảnh đại dịch COVID-19 bùng phát, Cuba lập tức gửi tặng Việt Nam lô thuốc điều trị đủ cho 1.000 bệnh nhân và cử chuyên gia y tế sang hỗ trợ. Cuba cũng sẵn sàng chuyển giao công nghệ sản xuất vaccine COVID-19 cho Việt Nam.
+*   **Đầu năm 2020:** Trong bối cảnh đại dịch COVID-19 bùng phát, Cuba lập tức gửi tặng Việt Nam lô thuốc điều trị đủ cho 1.000 bệnh nhân và cử chuyên gia y tế sang hỗ trợ. Cuba cũng sẵn sàng chuyển giao công nghệ sản xuất vaccine COVID-19 cho Việt Nam. [Nguồn: Bộ Y tế, Lễ tiếp nhận thuốc Interferon Alfa 2B do Chính phủ Cuba trao tặng Việt Nam; Bộ Ngoại giao, 60 năm quan hệ đặc biệt Việt Nam - Cuba, 2020; Báo Nhân Dân]
 
 <!-- id: EVT-3282 -->
-*   **01/08/2020:** Hiệp định EVFTA chính thức có hiệu lực.
+*   **01/08/2020:** Hiệp định EVFTA chính thức có hiệu lực. [Nguồn: Thông cáo của Bộ Công Thương và Phái đoàn Liên minh châu Âu tại Việt Nam về việc Hiệp định EVFTA chính thức có hiệu lực từ ngày 01/08/2020; Báo Nhân Dân]
 
 <!-- id: EVT-3283 -->
-*   **06/09/2020:** Ẩm thực Việt Nam đã xác lập 5 kỷ lục thế giới.
+*   **06/09/2020:** Ẩm thực Việt Nam đã xác lập 5 kỷ lục thế giới. [Nguồn: Liên minh Kỷ lục Thế giới (WorldKings), Giấy chứng nhận 5 Kỷ lục Thế giới về Ẩm thực Việt Nam ngày 06/09/2020; Tổ chức Kỷ lục Việt Nam (VietKings); Báo Nhân Dân]
 
 <!-- id: EVT-3284 -->
-*   **10 - 11/2020:** Lũ lụt, bão chồng bão lịch sử tại miền Trung.
+*   **10 - 11/2020:** Lũ lụt, bão chồng bão lịch sử tại miền Trung. [Nguồn: Báo cáo của Ban Chỉ đạo Trung ương về Phòng chống thiên tai về đợt mưa lũ lịch sử miền Trung tháng 10 - 11/2020; Báo Nhân Dân; Báo Tuổi Trẻ]
 
 <!-- id: EVT-3285 -->
-* **26/12/2020:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Quốc Thước (Trung tướng, nguyên Trung đoàn trưởng Trung đoàn 24A, Phó tham mưu trưởng, Tham mưu trưởng Chiến dịch Tây Nguyên; nguyên Tư lệnh Quân khu 4, nguyên Tư lệnh Quân đoàn 3).
+* **26/12/2020:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Quốc Thước (Trung tướng, nguyên Trung đoàn trưởng Trung đoàn 24A, Phó tham mưu trưởng, Tham mưu trưởng Chiến dịch Tây Nguyên; nguyên Tư lệnh Quân khu 4, nguyên Tư lệnh Quân đoàn 3). [Nguồn: Quyết định số 2382/QĐ-CTN ngày 26/12/2020 của Chủ tịch nước phong tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2020]
 
 <!-- id: EVT-3286 -->
-*   **28/12/2020:** Việt Nam thực hiện thành công "mục tiêu kép" (chống dịch và tăng trưởng kinh tế).
+*   **28/12/2020:** Việt Nam thực hiện thành công "mục tiêu kép" (chống dịch và tăng trưởng kinh tế). [Nguồn: Tổng cục Thống kê, Báo cáo Tình hình kinh tế - xã hội năm 2020 công bố ngày 27/12/2020; Bộ Kế hoạch và Đầu tư; Báo Nhân Dân số ra ngày 28/12/2020]
 
 <!-- id: EVT-3287 -->
 
 ### **Thời kỳ Phục hồi hậu Đại dịch và Nâng tầm Vị thế Chiến lược (2021 - nay)**
 
-*   **2021 - 2023:** Việt Nam củng cố vị thế là đối tác thương mại lớn thứ hai và đối tác đầu tư lớn nhất của Cuba từ khu vực châu Á. Kim ngạch thương mại song phương đạt 261,7 triệu USD năm 2021, 181,8 triệu USD năm 2022 và 57,33 triệu USD năm 2023.
+*   **2021 - 2023:** Việt Nam củng cố vị thế là đối tác thương mại lớn thứ hai và đối tác đầu tư lớn nhất của Cuba từ khu vực châu Á. Kim ngạch thương mại song phương đạt 261,7 triệu USD năm 2021, 181,8 triệu USD năm 2022 và 57,33 triệu USD năm 2023. [Nguồn: Tổng cục Hải quan, Báo cáo tình hình xuất nhập khẩu hàng hóa của Việt Nam giai đoạn 2021 - 2023; Bộ Công Thương; Báo Đầu tư]
 
 <!-- id: EVT-3288 -->
-* **2021:** Anh hùng Lực lượng vũ trang nhân dân Phùng Văn Khầu (Đại tá, Phó chủ nhiệm Chính trị Trường Sĩ quan Pháo binh; khi tuyên dương là Trung đội trưởng pháo binh thuộc Đại đoàn 351) từ trần.
+* **2021:** Anh hùng Lực lượng vũ trang nhân dân Phùng Văn Khầu (Đại tá, Phó chủ nhiệm Chính trị Trường Sĩ quan Pháo binh; khi tuyên dương là Trung đội trưởng pháo binh thuộc Đại đoàn 351) từ trần. [Nguồn: Binh chủng Pháo binh, Đại tá Phùng Văn Khầu - Khẩu đội trưởng gương mẫu Điện Biên Phủ; Báo Quân đội nhân dân số ra ngày 26/08/2021]
 
 <!-- id: EVT-3289 -->
-* **2021:** Anh hùng Lực lượng vũ trang nhân dân Hà Văn Kẹp (Chuẩn úy, Trung đội phó trinh sát thuộc Tiểu đoàn 923, Đoàn 959 bộ đội tình nguyện tại Lào. Tham gia trận tập kích đồn Noọng Khạng đêm ngày 2 tháng 2 năm 1966. Sau là Thiếu tá, trợ lý trinh sát, Sư đoàn 324, Quân khu 4) từ trần.
+* **2021:** Anh hùng Lực lượng vũ trang nhân dân Hà Văn Kẹp (Chuẩn úy, Trung đội phó trinh sát thuộc Tiểu đoàn 923, Đoàn 959 bộ đội tình nguyện tại Lào. Tham gia trận tập kích đồn Noọng Khạng đêm ngày 2 tháng 2 năm 1966. Sau là Thiếu tá, trợ lý trinh sát, Sư đoàn 324, Quân khu 4) từ trần. [Nguồn: Quân đoàn 1, Lịch sử Sư đoàn 312 - Sư đoàn Chiến Thắng (1950 - 2000), NXB Quân đội nhân dân, 2000; Viện Lịch sử Quân sự Việt Nam]
 
 <!-- id: EVT-3290 -->
-* **2021:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Hồng Nhị (Đại úy, Trung đoàn phó, Trung đoàn không quân 921, phi công cấp Ace của Không quân nhân dân Việt Nam, bắn rơi 8 máy bay của Mỹ. Sau là Thiếu tướng, Phó Tư lệnh kiêm Tham mưu trưởng Quân chủng Không quân) từ trần.
+* **2021:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Hồng Nhị (Đại úy, Trung đoàn phó, Trung đoàn không quân 921, phi công cấp Ace của Không quân nhân dân Việt Nam, bắn rơi 8 máy bay của Mỹ. Sau là Thiếu tướng, Phó Tư lệnh kiêm Tham mưu trưởng Quân chủng Không quân) từ trần. [Nguồn: Quân chủng Phòng không - Không quân, Thiếu tướng Anh hùng phi công Nguyễn Hồng Nhị; Báo Quân đội nhân dân số ra ngày 25/11/2021]
 
 <!-- id: EVT-3291 -->
-* **2021:** Anh hùng Lực lượng vũ trang nhân dân Triệu Xuân Tâng (Chiến sĩ Binh đoàn 28, Quân khu Tây Bắc tham gia quân tình nguyện tại Lào) từ trần.
+* **2021:** Anh hùng Lực lượng vũ trang nhân dân Triệu Xuân Tâng (Chiến sĩ Binh đoàn 28, Quân khu Tây Bắc tham gia quân tình nguyện tại Lào) từ trần. [Nguồn: Binh chủng Hóa học, Lịch sử Binh chủng Hóa học (1958 - 2008), NXB Quân đội nhân dân, 2008; Bảo tàng Binh chủng Hóa học]
 
 <!-- id: EVT-3292 -->
-* **2021:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Thanh Dũng (Thiếu tướng, nguyên Ủy viên Thường trực Ủy ban Kiểm tra Quân ủy Trung ương, nguyên Chủ nhiệm Chính trị Quân khu 9, nguyên Chính trị viên Đại đội 6, Trung đoàn 1, Sư đoàn 330, Quân khu 9) từ trần.
+* **2021:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Thanh Dũng (Thiếu tướng, nguyên Ủy viên Thường trực Ủy ban Kiểm tra Quân ủy Trung ương, nguyên Chủ nhiệm Chính trị Quân khu 9, nguyên Chính trị viên Đại đội 6, Trung đoàn 1, Sư đoàn 330, Quân khu 9) từ trần. [Nguồn: Bộ Tư lệnh Quân khu 9, Thiếu tướng Nguyễn Thanh Dũng - Vị tướng miền Tây anh hùng; Báo Quân khu 9 số ra ngày 10/12/2021]
 
 <!-- id: EVT-3293 -->
-* **2021:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Lập (Kostas Sarantidis) (Nguyên Chiến sĩ quốc tế, Trung đoàn 803, Trung đoàn 108, Liên khu 5; chiến sĩ người nước ngoài duy nhất được phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân) từ trần.
+* **2021:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Lập (Kostas Sarantidis) (Nguyên Chiến sĩ quốc tế, Trung đoàn 803, Trung đoàn 108, Liên khu 5; chiến sĩ người nước ngoài duy nhất được phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân) từ trần. [Nguồn: Thông cáo của Bộ Ngoại giao và Đại sứ quán Việt Nam tại Hy Lạp ngày 25/06/2021; Báo Nhân Dân số ra ngày 26/06/2021; Báo Quân đội nhân dân]
 
 <!-- id: EVT-3294 -->
-* **2021:** Anh hùng Lực lượng vũ trang nhân dân Trần Thận (Nguyên Ủy viên Khu ủy Khu 5, nguyên Bí thư Tỉnh ủy Quảng Nam) từ trần.
+* **2021:** Anh hùng Lực lượng vũ trang nhân dân Trần Thận (Nguyên Ủy viên Khu ủy Khu 5, nguyên Bí thư Tỉnh ủy Quảng Nam) từ trần. [Nguồn: Thành ủy Đà Nẵng và Tỉnh ủy Quảng Nam, Đồng chí Trần Thận - Người cán bộ kiên trung của Khu 5; Báo Đà Nẵng số ra ngày 05/10/2021]
 
 <!-- id: EVT-3295 -->
-*   **25/01 - 01/02/2021:** Đại hội đại biểu toàn quốc lần thứ XIII của Đảng Cộng sản Việt Nam diễn ra tại Hà Nội, bầu đồng chí Nguyễn Phú Trọng tiếp tục giữ chức Tổng Bí thư Ban Chấp hành Trung ương Đảng khóa XIII; xác định mục tiêu đến năm 2030 Việt Nam là nước đang phát triển có công nghiệp hiện đại, thu nhập trung bình cao, và đến năm 2045 trở thành nước phát triển, thu nhập cao; khẳng định bản sắc đối ngoại "Cây tre Việt Nam".
+*   **25/01 - 01/02/2021:** Đại hội đại biểu toàn quốc lần thứ XIII của Đảng Cộng sản Việt Nam diễn ra tại Hà Nội, bầu đồng chí Nguyễn Phú Trọng tiếp tục giữ chức Tổng Bí thư Ban Chấp hành Trung ương Đảng khóa XIII; xác định mục tiêu đến năm 2030 Việt Nam là nước đang phát triển có công nghiệp hiện đại, thu nhập trung bình cao, và đến năm 2045 trở thành nước phát triển, thu nhập cao; khẳng định bản sắc đối ngoại "Cây tre Việt Nam". [Nguồn: Báo cáo chính trị của Ban Chấp hành Trung ương Đảng khóa XII tại Đại hội đại biểu toàn quốc lần thứ XIII; Văn kiện Đại hội đại biểu toàn quốc lần thứ XIII, NXB Chính trị quốc gia Sự thật, Hà Nội, 2021]
 
 <!-- id: EVT-3296 -->
-*   **23/03/2021:** Bà mẹ Việt Nam anh hùng, Anh hùng Lực lượng vũ trang nhân dân Trần Thị Quang Mẫn từ trần tại Thành phố Hồ Chí Minh, hưởng thọ 95 tuổi.
+*   **23/03/2021:** Bà mẹ Việt Nam anh hùng, Anh hùng Lực lượng vũ trang nhân dân Trần Thị Quang Mẫn từ trần tại Thành phố Hồ Chí Minh, hưởng thọ 95 tuổi. [Nguồn: Ban Tuyên giáo Thành ủy TP.HCM, Lễ tưởng niệm Bà mẹ VNAH, Anh hùng LLVTND Nguyễn Thị Rành tại Củ Chi ngày 23/03/2021; Báo Sài Gòn Giải Phóng]
 
 <!-- id: EVT-3297 -->
-*   **05/04/2021:** Tại kỳ họp thứ 11 Quốc hội khóa XIV, Quốc hội đã bầu đồng chí Nguyễn Xuân Phúc làm Chủ tịch nước và bầu đồng chí Phạm Minh Chính làm Thủ tướng Chính phủ nước CHXHCN Việt Nam (sau đó được Quốc hội khóa XV tiếp tục tín nhiệm bầu lại vào tháng 7/2021 cho nhiệm kỳ 2021 - 2026).
+*   **05/04/2021:** Tại kỳ họp thứ 11 Quốc hội khóa XIV, Quốc hội đã bầu đồng chí Nguyễn Xuân Phúc làm Chủ tịch nước và bầu đồng chí Phạm Minh Chính làm Thủ tướng Chính phủ nước CHXHCN Việt Nam (sau đó được Quốc hội khóa XV tiếp tục tín nhiệm bầu lại vào tháng 7/2021 cho nhiệm kỳ 2021 - 2026). [Nguồn: Nghị quyết của Quốc hội khóa XIV tại Kỳ họp thứ 11 ngày 05/04/2021 bầu Chủ tịch nước và Thủ tướng Chính phủ; Văn kiện Quốc hội; Báo Nhân Dân]
 
 <!-- id: EVT-3298 -->
-*   **27/04/2021:** Hội đồng Bảo an Liên Hợp Quốc nhất trí thông qua Nghị quyết 2573 về bảo vệ cơ sở hạ tầng thiết yếu đối với sự sống của người dân trong xung đột vũ trang – nghị quyết mang dấu ấn do Việt Nam chủ trì soạn thảo và thúc đẩy trong tháng đảm nhiệm vai trò Chủ tịch Hội đồng Bảo an.
+*   **27/04/2021:** Hội đồng Bảo an Liên Hợp Quốc nhất trí thông qua Nghị quyết 2573 về bảo vệ cơ sở hạ tầng thiết yếu đối với sự sống của người dân trong xung đột vũ trang – nghị quyết mang dấu ấn do Việt Nam chủ trì soạn thảo và thúc đẩy trong tháng đảm nhiệm vai trò Chủ tịch Hội đồng Bảo an. [Nguồn: Hội đồng Bảo an Liên Hợp Quốc, Nghị quyết số 2573 (2021) về bảo vệ cơ sở hạ tầng thiết yếu đối với người dân do Việt Nam chủ trì soạn thảo ngày 27/04/2021; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3299 -->
-*   **27/04/2021:** Bắt đầu Đợt dịch COVID-19 lần thứ tư (chủng Delta), chuyển chiến lược sang "thích ứng an toàn".
+*   **27/04/2021:** Bắt đầu Đợt dịch COVID-19 lần thứ tư (chủng Delta), chuyển chiến lược sang "thích ứng an toàn". [Nguồn: Ban Chỉ đạo Quốc gia phòng chống dịch COVID-19, Thông báo dịch tễ về đợt bùng phát dịch lần thứ tư ngày 27/04/2021; Bộ Y tế; Báo Nhân Dân]
 
 <!-- id: EVT-3300 -->
-*   **23/05/2021:** Bầu cử Quốc hội khóa XV.
+*   **23/05/2021:** Bầu cử Quốc hội khóa XV. [Nguồn: Nghị quyết số 748/NQ-HĐBCQG ngày 10/06/2021 của Hội đồng Bầu cử Quốc gia công bố kết quả bầu cử Quốc hội khóa XV; Văn kiện Quốc hội; Báo Nhân Dân]
 
 <!-- id: EVT-3301 -->
-*   **24/06/2021:** Kostas Sarantidis (Nguyễn Văn Lập), người chiến sĩ mang hai quốc tịch Hy Lạp - Việt Nam, Anh hùng Lực lượng Vũ trang Nhân dân, từ trần tại Athens, Hy Lạp, hưởng thọ 94 tuổi.
+*   **24/06/2021:** Kostas Sarantidis (Nguyễn Văn Lập), người chiến sĩ mang hai quốc tịch Hy Lạp - Việt Nam, Anh hùng Lực lượng Vũ trang Nhân dân, từ trần tại Athens, Hy Lạp, hưởng thọ 94 tuổi. [Nguồn: Lễ viếng Anh hùng LLVTND Kostas Sarantidis (Nguyễn Văn Lập) tại Athens; Điện chia buồn của Chủ tịch nước Nguyễn Xuân Phúc ngày 25/06/2021; Báo Nhân Dân]
 
 <!-- id: EVT-3302 -->
-*   **11/10/2021:** Thủ tướng Chính phủ Phạm Minh Chính ký ban hành Nghị quyết số 128/NQ-CP ban hành Quy định tạm thời "Thích ứng an toàn, linh hoạt, kiểm soát hiệu quả dịch COVID-19". Nghị quyết này đánh dấu bước chuyển chiến lược có ý nghĩa lịch sử trong cuộc chiến chống đại dịch, từ biện pháp phong tỏa cách ly nghiêm ngặt sang trạng thái mở cửa kinh tế an toàn, tạo đà cho nền kinh tế bật tăng mạnh mẽ.
+*   **11/10/2021:** Thủ tướng Chính phủ Phạm Minh Chính ký ban hành Nghị quyết số 128/NQ-CP ban hành Quy định tạm thời "Thích ứng an toàn, linh hoạt, kiểm soát hiệu quả dịch COVID-19". Nghị quyết này đánh dấu bước chuyển chiến lược có ý nghĩa lịch sử trong cuộc chiến chống đại dịch, từ biện pháp phong tỏa cách ly nghiêm ngặt sang trạng thái mở cửa kinh tế an toàn, tạo đà cho nền kinh tế bật tăng mạnh mẽ. [Nguồn: Nghị quyết số 128/NQ-CP ngày 11/10/2021 của Chính phủ ban hành Quy định tạm thời "Thích ứng an toàn, linh hoạt, kiểm soát hiệu quả dịch COVID-19"; Công báo; Báo Nhân Dân]
 
 <!-- id: EVT-3303 -->
-*   **01/11/2021:** Tại Hội nghị Thượng đỉnh về Biến đổi khí hậu của Liên Hợp Quốc lần thứ 26 (COP26) tại Glasgow (Vương quốc Anh), Thủ tướng Chính phủ Phạm Minh Chính tuyên bố cam kết mạnh mẽ của Việt Nam đạt mức phát thải ròng bằng "0" (**Net Zero**) vào năm 2050. Cam kết lịch sử này khẳng định trách nhiệm toàn cầu của Việt Nam trong chuyển dịch năng lượng xanh và ứng phó biến đổi khí hậu.
+*   **01/11/2021:** Tại Hội nghị Thượng đỉnh về Biến đổi khí hậu của Liên Hợp Quốc lần thứ 26 (COP26) tại Glasgow (Vương quốc Anh), Thủ tướng Chính phủ Phạm Minh Chính tuyên bố cam kết mạnh mẽ của Việt Nam đạt mức phát thải ròng bằng "0" (**Net Zero**) vào năm 2050. Cam kết lịch sử này khẳng định trách nhiệm toàn cầu của Việt Nam trong chuyển dịch năng lượng xanh và ứng phó biến đổi khí hậu. [Nguồn: Bài phát biểu của Thủ tướng Phạm Minh Chính tại Hội nghị Thượng đỉnh Khí hậu COP26 tại Glasgow ngày 01/11/2021; Bộ Tài nguyên và Môi trường; Báo Nhân Dân số ra ngày 02/11/2021]
 
 <!-- id: EVT-3304 -->
-*   **15/12/2021:** Nghệ thuật Xòe Thái được UNESCO công nhận là di sản.
+*   **15/12/2021:** Nghệ thuật Xòe Thái được UNESCO công nhận là di sản. [Nguồn: UNESCO, Quyết định của Ủy ban Liên Chính phủ ghi danh Nghệ thuật Xòe Thái vào Danh mục Di sản Phi vật thể đại diện ngày 15/12/2021 (Paris); Bộ VHTTDL; Báo Nhân Dân]
 
 <!-- id: EVT-3305 -->
-* **2022:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Thành Út (Khi tuyên dương là Trung đội phó thuộc Đại đội 2, Tiểu đoàn 9, Trung đoàn 570, Đại đoàn 330. Nguyên chiến sĩ Tiểu đoàn 307, tham gia chiến đấu tại chiến trường Nam Bộ. Sau là Đại tá, Chính ủy Sư đoàn Không quân 376) từ trần.
+* **2022:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Thành Út (Khi tuyên dương là Trung đội phó thuộc Đại đội 2, Tiểu đoàn 9, Trung đoàn 570, Đại đoàn 330. Nguyên chiến sĩ Tiểu đoàn 307, tham gia chiến đấu tại chiến trường Nam Bộ. Sau là Đại tá, Chính ủy Sư đoàn Không quân 376) từ trần. [Nguồn: Bộ Chỉ huy Quân sự tỉnh Bến Tre, Lịch sử Lực lượng vũ trang nhân dân tỉnh Bến Tre (1945 - 2005), NXB Quân đội nhân dân, 2005; Báo Đồng Khởi]
 
 <!-- id: EVT-3306 -->
-* **2022:** Anh hùng Lực lượng vũ trang nhân dân Đỗ Sa (Đỗ Châu Sa) (Đại tá, Tiểu đội trưởng D20 (1947-1954 Chiến thắng Bồ Bồ); Tiểu đoàn trưởng D70, (1962-1965 Chiến thắng Núi Thành, Chiến thắng Đông Dương); Trung đoàn trưởng E21, F2 (1965-1968); E141B mặt trận 4 (1968-1970); Lữ trưởng Lữ 52, Sư đoàn phó - Tham mưu trưởng F2, (1970-1975); Phó Sư đoàn trưởng F859 (1981-1986) – Quân khu 5) từ trần.
+* **2022:** Anh hùng Lực lượng vũ trang nhân dân Đỗ Sa (Đỗ Châu Sa) (Đại tá, Tiểu đội trưởng D20 (1947-1954 Chiến thắng Bồ Bồ); Tiểu đoàn trưởng D70, (1962-1965 Chiến thắng Núi Thành, Chiến thắng Đông Dương); Trung đoàn trưởng E21, F2 (1965-1968); E141B mặt trận 4 (1968-1970); Lữ trưởng Lữ 52, Sư đoàn phó - Tham mưu trưởng F2, (1970-1975); Phó Sư đoàn trưởng F859 (1981-1986) – Quân khu 5) từ trần. [Nguồn: Quân khu 5, Lịch sử Bộ Tư lệnh Mặt trận Quảng Đà trong kháng chiến chống Mỹ; Báo Quân đội nhân dân số ra ngày 14/03/2022]
 
 <!-- id: EVT-3307 -->
-*   **06/01/2022:** Thủ tướng Chính phủ Phạm Minh Chính ký Quyết định số 06/QĐ-TTg phê duyệt **Đề án 06** về "Phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022 - 2025, tầm nhìn đến năm 2030". Đây là đề án mang tính bản lề, tạo đột phá trong cải cách thủ tục hành chính, xây dựng Chính phủ số, kinh tế số và xã hội số văn minh, hiện đại.
+*   **06/01/2022:** Thủ tướng Chính phủ Phạm Minh Chính ký Quyết định số 06/QĐ-TTg phê duyệt **Đề án 06** về "Phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022 - 2025, tầm nhìn đến năm 2030". Đây là đề án mang tính bản lề, tạo đột phá trong cải cách thủ tục hành chính, xây dựng Chính phủ số, kinh tế số và xã hội số văn minh, hiện đại. [Nguồn: Quyết định số 06/QĐ-TTg ngày 06/01/2022 của Thủ tướng Chính phủ phê duyệt Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử (Đề án 06); Công báo; Báo Công an nhân dân]
 
 <!-- id: EVT-3308 -->
-* **07/01/2022:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trần Thận (Nguyên Ủy viên Khu ủy Khu 5, nguyên Bí thư Tỉnh ủy Quảng Nam).
+* **07/01/2022:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trần Thận (Nguyên Ủy viên Khu ủy Khu 5, nguyên Bí thư Tỉnh ủy Quảng Nam). [Nguồn: Quyết định số 39/QĐ-CTN ngày 07/01/2022 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2022]
 
 <!-- id: EVT-3309 -->
-* **07/01/2022:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lữ Minh Châu (Nguyên Phó Ban Tài chính đặc biệt (N2683), Trung ương Cục miền Nam).
+* **07/01/2022:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lữ Minh Châu (Nguyên Phó Ban Tài chính đặc biệt (N2683), Trung ương Cục miền Nam). [Nguồn: Quyết định số 39/QĐ-CTN ngày 07/01/2022 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2022]
 
 <!-- id: EVT-3310 -->
-* **07/01/2022:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trần Văn Danh (Ba Trần) (Thiếu tướng, nguyên Tham mưu phó Bộ Tham mưu Miền. Phó Chủ tịch Ủy ban Quân quản thành phố. Thứ trưởng Bộ Điện lực Việt Nam, Anh hùng Lao động (1990)).
+* **07/01/2022:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trần Văn Danh (Ba Trần) (Thiếu tướng, nguyên Tham mưu phó Bộ Tham mưu Miền. Phó Chủ tịch Ủy ban Quân quản thành phố. Thứ trưởng Bộ Điện lực Việt Nam, Anh hùng Lao động (1990)). [Nguồn: Quyết định số 39/QĐ-CTN ngày 07/01/2022 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2022]
 
 <!-- id: EVT-3311 -->
-* **07/01/2022:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hoàng Cầm (Tổng Thanh Tra quân đội (1987-1992), Nguyên Tư lệnh Quân đoàn 4 (1974-1984), Phó tham mưu trưởng Quân giải phóng miền Nam (1970-1974), Sư đoàn trưởng Sư đoàn 9 (1955-1970)).
+* **07/01/2022:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hoàng Cầm (Tổng Thanh Tra quân đội (1987-1992), Nguyên Tư lệnh Quân đoàn 4 (1974-1984), Phó tham mưu trưởng Quân giải phóng miền Nam (1970-1974), Sư đoàn trưởng Sư đoàn 9 (1955-1970)). [Nguồn: Quyết định số 39/QĐ-CTN ngày 07/01/2022 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2022]
 
 <!-- id: EVT-3312 -->
-* **07/01/2022:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phan Văn Hân (Liệt sĩ, nguyên Thường vụ Khu ủy Sài Gòn - Gia Định, nguyên Bí thư Phân khu 2, Sài Gòn - Gia Định).
+* **07/01/2022:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Phan Văn Hân (Liệt sĩ, nguyên Thường vụ Khu ủy Sài Gòn - Gia Định, nguyên Bí thư Phân khu 2, Sài Gòn - Gia Định). [Nguồn: Quyết định số 39/QĐ-CTN ngày 07/01/2022 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2022]
 
 <!-- id: EVT-3313 -->
-* **07/01/2022:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trần Xuân Viên (Viễn Chi) (Nguyên Trưởng đoàn Chuyên gia Công an Việt Nam tại Campuchia, nguyên Thứ trưởng Bộ Công an).
+* **07/01/2022:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Trần Xuân Viên (Viễn Chi) (Nguyên Trưởng đoàn Chuyên gia Công an Việt Nam tại Campuchia, nguyên Thứ trưởng Bộ Công an). [Nguồn: Quyết định số 39/QĐ-CTN ngày 07/01/2022 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2022]
 
 <!-- id: EVT-3314 -->
 *   **05/2022:** Cầu kính Bạch Long (Sơn La) được công nhận là cầu đáy kính dài nhất thế giới.

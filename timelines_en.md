@@ -10252,419 +10252,419 @@
 *   **Nov. 27, 2014:** The Ví and Giặm folk songs of Nghe Tinh were recognized by UNESCO as a heritage. [Source: UNESCO, Decision of the Intergovernmental Committee inscribing Vi and Giam Folk Songs of Nghe Tinh on Representative List, Nov. 27, 2014; Nhan Dan Newspaper, Nov. 28, 2014]
 
 <!-- id: EVT-3179 -->
-*   **2015:** Saigon commando Tran Van Lai was posthumously awarded the title Hero of the People's Armed Forces for his outstanding contributions and sacrifices.
+*   **2015:** Saigon commando Tran Van Lai was posthumously awarded the title Hero of the People's Armed Forces for his outstanding contributions and sacrifices. [Source: HCM City Party Committee Commission for Propaganda, History of Saigon - Gia Dinh Commandos, 2015; Sai Gon Giai Phong Newspaper]
 
 <!-- id: EVT-3180 -->
-* **2015:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Vũ Văn Hiếu (Bí thư đầu tiên của Đặc khu mỏ Quảng Ninh).
+* **2015:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Vũ Văn Hiếu (Bí thư đầu tiên của Đặc khu mỏ Quảng Ninh). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 2015; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2015]
 
 <!-- id: EVT-3181 -->
-* **2015:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Văn Toản (from Phú Thọ).
+* **2015:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Văn Toản (from Phú Thọ). [Source: Presidential Order conferring Hero of the People's Armed Forces in 2015; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2015]
 
 <!-- id: EVT-3182 -->
-* **2015:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Trần Quang Thắng (from Lạng Sơn).
+* **2015:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Trần Quang Thắng (from Lạng Sơn). [Source: Presidential Order conferring Hero of the People's Armed Forces in 2015; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2015]
 
 <!-- id: EVT-3183 -->
-*   **Jan. 9, 2015:** The Prime Minister of Vietnam issued Directive 01/CT-TTg on organizing the all-people movement to participate in protecting territorial sovereignty and national border security in the new situation.
+*   **Jan. 9, 2015:** The Prime Minister of Vietnam issued Directive 01/CT-TTg on organizing the all-people movement to participate in protecting territorial sovereignty and national border security in the new situation. [Source: Prime Minister Directive No. 01/CT-TTg dated Jan. 9, 2015 on organizing the all-people movement for national border protection; Official Gazette]
 
 <!-- id: EVT-3184 -->
-* **20/01/2015:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Ngọc Ẩn (Tư Ẩn) (Đại tá, Đội trưởng Đội 20, Đoàn 817 - đơn vị Tình báo hành động, phụ trách đánh bắt của Tình báo tại Campuchia, Nay thuộc Cục 12).
+* **20/01/2015:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Ngọc Ẩn (Tư Ẩn) (Đại tá, Đội trưởng Đội 20, Đoàn 817 - đơn vị Tình báo hành động, phụ trách đánh bắt của Tình báo tại Campuchia, Nay thuộc Cục 12). [Source: Presidential Decision No. 144/QD-CTN dated Jan. 20, 2015 conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2015]
 
 <!-- id: EVT-3185 -->
-* **25/04/2015:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Tám Lê Thanh (Trung tướng, Phó Tư lệnh Bộ đội biên phòng. Nguyên Chính ủy Quân khu Sài Gòn - Gia Định).
+* **25/04/2015:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Tám Lê Thanh (Trung tướng, Phó Tư lệnh Bộ đội biên phòng. Nguyên Chính ủy Quân khu Sài Gòn - Gia Định). [Source: Presidential Decision No. 748/QD-CTN dated Apr. 25, 2015 posthumously conferring Hero of the People's Armed Forces; People's Army Newspaper, Apr. 26, 2015]
 
 <!-- id: EVT-3186 -->
-* **25/04/2015:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Trần Hải Phụng (Hai Phụng) (Thiếu tướng, nguyên Tư lệnh Quân khu Sài Gòn – Gia Định, Phó Tư lệnh Quân khu 7. Phó Trưởng đoàn chuyên gia 385 đặc trách về công tác phòng thủ đô thị cho Cuba).
+* **25/04/2015:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Trần Hải Phụng (Hai Phụng) (Thiếu tướng, nguyên Tư lệnh Quân khu Sài Gòn – Gia Định, Phó Tư lệnh Quân khu 7. Phó Trưởng đoàn chuyên gia 385 đặc trách về công tác phòng thủ đô thị cho Cuba). [Source: Presidential Decision No. 748/QD-CTN dated Apr. 25, 2015 posthumously conferring Hero of the People's Armed Forces; People's Army Newspaper, Apr. 26, 2015]
 
 <!-- id: EVT-3187 -->
-* **25/04/2015:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Trần Văn Lai (Mai Hồng Quế) (Thượng úy, đơn vị 159 biệt động Quân khu Sài Gòn - Chợ Lớn - Gia Định).
+* **25/04/2015:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Trần Văn Lai (Mai Hồng Quế) (Thượng úy, đơn vị 159 biệt động Quân khu Sài Gòn - Chợ Lớn - Gia Định). [Source: Presidential Decision No. 748/QD-CTN dated Apr. 25, 2015 posthumously conferring Hero of the People's Armed Forces; People's Army Newspaper, Apr. 26, 2015]
 
 <!-- id: EVT-3188 -->
-* **25/04/2015:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Phạm Văn Hoa (Cơ sở mật nuôi giấu cán bộ cao cấp của Đảng, số 99/9 đường Nguyễn Văn Học, quận Bình Thạnh).
+* **25/04/2015:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Phạm Văn Hoa (Cơ sở mật nuôi giấu cán bộ cao cấp của Đảng, số 99/9 đường Nguyễn Văn Học, quận Bình Thạnh). [Source: Presidential Decision No. 748/QD-CTN dated Apr. 25, 2015 conferring Hero of the People's Armed Forces; Nhan Dan Newspaper, Apr. 26, 2015]
 
 <!-- id: EVT-3189 -->
-* **25/04/2015:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Huỳnh Lan Khanh (Liệt sĩ, nguyên chiến sĩ Cơ quan Trung ương Mặt trận Dân tộc giải phóng miền Nam Việt Nam. Con gái của Chủ tịch Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam Huỳnh Tấn Phát).
+* **25/04/2015:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Huỳnh Lan Khanh (Liệt sĩ, nguyên chiến sĩ Cơ quan Trung ương Mặt trận Dân tộc giải phóng miền Nam Việt Nam. Con gái của Chủ tịch Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam Huỳnh Tấn Phát). [Source: Presidential Decision No. 748/QD-CTN dated Apr. 25, 2015 posthumously conferring Hero of the People's Armed Forces; People's Army Newspaper, Apr. 26, 2015]
 
 <!-- id: EVT-3190 -->
-* **25/04/2015:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lê Thị Thu Nguyệt (Cán bộ đội biệt động 159 Quân khu Sài Gòn - Chợ Lớn - Gia Định).
+* **25/04/2015:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lê Thị Thu Nguyệt (Cán bộ đội biệt động 159 Quân khu Sài Gòn - Chợ Lớn - Gia Định). [Source: Presidential Decision No. 748/QD-CTN dated Apr. 25, 2015 conferring Hero of the People's Armed Forces; Nhan Dan Newspaper, Apr. 26, 2015]
 
 <!-- id: EVT-3191 -->
-* **25/04/2015:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Thái Phước Hiệp (Đại tá, Phó chỉ huy trưởng Bộ chỉ huy quân sự tỉnh Kon Tum).
+* **25/04/2015:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Thái Phước Hiệp (Đại tá, Phó chỉ huy trưởng Bộ chỉ huy quân sự tỉnh Kon Tum). [Source: Presidential Decision No. 748/QD-CTN dated Apr. 25, 2015 conferring Hero of the People's Armed Forces; Nhan Dan Newspaper, Apr. 26, 2015]
 
 <!-- id: EVT-3192 -->
-* **07/2015:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Tô Quyền (Đại tá Công an Nhân dân Việt Nam có công với Cách mạng).
+* **07/2015:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Tô Quyền (Đại tá Công an Nhân dân Việt Nam có công với Cách mạng). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces, July 2015; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2015]
 
 <!-- id: EVT-3193 -->
-*   **Jul. 2, 2015:** Phong Nha - Ke Bang National Park was recognized by UNESCO for the second time for its biodiversity.
+*   **Jul. 2, 2015:** Phong Nha - Ke Bang National Park was recognized by UNESCO for the second time for its biodiversity. [Source: UNESCO, Decision of the World Heritage Committee at its 39th Session (Bonn, Germany, 2015); Phong Nha - Ke Bang National Park Management Board; Nhan Dan Newspaper]
 
 <!-- id: EVT-3194 -->
-*   **Jul. 6 - 10, 2015:** General Secretary Nguyen Phu Trong paid his first official visit to the United States.
+*   **Jul. 6 - 10, 2015:** General Secretary Nguyen Phu Trong paid his first official visit to the United States. [Source: United States - Vietnam Joint Vision Statement during the Visit of General Secretary Nguyen Phu Trong, July 7, 2015; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3195 -->
-*   **Sep. 10, 2015:** Authorized by the State President, the Ministry of Culture, Sports and Tourism held a ceremony to posthumously award the title of Hero of the People's Armed Forces to Vo Thi Thang (former Saigon commando, former General Director of the Vietnam National Administration of Tourism) for her exceptionally outstanding achievements in the resistance war against the US.
+*   **Sep. 10, 2015:** Authorized by the State President, the Ministry of Culture, Sports and Tourism held a ceremony to posthumously award the title of Hero of the People's Armed Forces to Vo Thi Thang (former Saigon commando, former General Director of the Vietnam National Administration of Tourism) for her exceptionally outstanding achievements in the resistance war against the US. [Source: Ministry of Culture, Sports and Tourism, State Honorary Title Award Ceremony, Sept. 10, 2015; Van Hoa Newspaper; Nhan Dan Newspaper]
 
 <!-- id: EVT-3196 -->
-*   **Sep. 21, 2015:** Announced that 43 million Vietnamese people had escaped poverty (according to the Millennium Development Goals).
+*   **Sep. 21, 2015:** Announced that 43 million Vietnamese people had escaped poverty (according to the Millennium Development Goals). [Source: Vietnam National MDGs Report 2015, published Sept. 21, 2015; UNDP Vietnam; Nhan Dan Newspaper]
 
 <!-- id: EVT-3197 -->
-*   **Oct. 29, 2015:** The Permanent Court of Arbitration (PCA) ruled that it had jurisdiction to hear 7 of the 15 submissions in the case brought by the Philippines against China regarding the South China Sea.
+*   **Oct. 29, 2015:** The Permanent Court of Arbitration (PCA) ruled that it had jurisdiction to hear 7 of the 15 submissions in the case brought by the Philippines against China regarding the South China Sea. [Source: Permanent Court of Arbitration (PCA), Award on Jurisdiction and Admissibility, Oct. 29, 2015; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3198 -->
-* **10/12/2015:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Nguyễn Bá Ngọc (Liệt sĩ, người đã lấy thân mình che chở cho các em nhỏ khi quân Mỹ ném bom vào khu vực cầu Ghép ngày 4 tháng 4 năm 1965. Hy sinh ngày 5 tháng 4 năm 1965 do vết thương quá nặng khi mới 13 tuổi).
+* **10/12/2015:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Nguyễn Bá Ngọc (Liệt sĩ, người đã lấy thân mình che chở cho các em nhỏ khi quân Mỹ ném bom vào khu vực cầu Ghép ngày 4 tháng 4 năm 1965. Hy sinh ngày 5 tháng 4 năm 1965 do vết thương quá nặng khi mới 13 tuổi). [Source: Presidential Decision No. 2752/QD-CTN dated Dec. 10, 2015 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2015]
 
 <!-- id: EVT-3199 -->
-*   **Dec. 31, 2015:** Vietnam officially joined the establishment of the ASEAN Economic Community (AEC).
+*   **Dec. 31, 2015:** Vietnam officially joined the establishment of the ASEAN Economic Community (AEC). [Source: Kuala Lumpur Declaration on the Establishment of the ASEAN Community, effective Dec. 31, 2015; ASEAN Secretariat; Nhan Dan Newspaper]
 
 <!-- id: EVT-3200 -->
-* **2016:** Hero of the People's Armed Forces Nguyễn Thị Chiên (Trung tá, khi tuyên dương là Trung đội trưởng Trung đội nữ du kích xã Tán Thuật, huyện Kiến Xương, tỉnh Thái Bình. Nữ anh hùng đầu tiên của lực lượng vũ trang nhân dân Việt Nam) passed away.
+* **2016:** Hero of the People's Armed Forces Nguyễn Thị Chiên (Trung tá, khi tuyên dương là Trung đội trưởng Trung đội nữ du kích xã Tán Thuật, huyện Kiến Xương, tỉnh Thái Bình. Nữ anh hùng đầu tiên của lực lượng vũ trang nhân dân Việt Nam) passed away. [Source: Military Region 3 Command and Vietnam Women's Union Communique, July 11, 2016; People's Army Newspaper, July 12, 2016]
 
 <!-- id: EVT-3201 -->
-* **2016:** Hero of the People's Armed Forces Thanh Minh Tám (A Núk) (Trung đội bậc trưởng, Đại đội phó đặc công khu 9 Gia Lai. Tham gia trận đánh sân bay Pleiku rạng sáng ngày 7 tháng 2 năm 1965) passed away.
+* **2016:** Hero of the People's Armed Forces Thanh Minh Tám (A Núk) (Trung đội bậc trưởng, Đại đội phó đặc công khu 9 Gia Lai. Tham gia trận đánh sân bay Pleiku rạng sáng ngày 7 tháng 2 năm 1965) passed away. [Source: Kon Tum Provincial Military Command, History of the People's Armed Forces of Kon Tum (1945 - 2005), People's Army Publishing House, 2005; Kon Tum Newspaper]
 
 <!-- id: EVT-3202 -->
-* **2016:** Hero of the People's Armed Forces Cao Lương Bằng (Thiếu tướng Quân đội Nhân dân Việt Nam) passed away.
+* **2016:** Hero of the People's Armed Forces Cao Lương Bằng (Thiếu tướng Quân đội Nhân dân Việt Nam) passed away. [Source: Air Defense - Air Force Service, Major General Cao Luong Bang - Life and Career; People's Army Newspaper, June 15, 2016]
 
 <!-- id: EVT-3203 -->
-* **2016:** Hero of the People's Armed Forces Nguyễn Thị Ba (Thiếu tá, giao liên tình báo cụm H63, phụ trách chuyển tài liệu của Phạm Xuân Ẩn) passed away.
+* **2016:** Hero of the People's Armed Forces Nguyễn Thị Ba (Thiếu tá, giao liên tình báo cụm H63, phụ trách chuyển tài liệu của Phạm Xuân Ẩn) passed away. [Source: General Department of Defense Intelligence, History of Intelligence Unit H63 (1962 - 1975), People's Army Publishing House, 2005; Sai Gon Giai Phong Newspaper]
 
 <!-- id: EVT-3204 -->
-* **2016:** Hero of the People's Armed Forces Lê Bá Ước (Đại tá, nguyên Đoàn trưởng kiêm Chính ủy Đoàn 10 đặc công Rừng Sác) passed away.
+* **2016:** Hero of the People's Armed Forces Lê Bá Ước (Đại tá, nguyên Đoàn trưởng kiêm Chính ủy Đoàn 10 đặc công Rừng Sác) passed away. [Source: Commando Arm, Colonel Le Ba Uoc and Legendary 10th Rung Sac Regiment, People's Army Publishing House, 2016; People's Army Newspaper]
 
 <!-- id: EVT-3205 -->
-* **2016:** Hero of the People's Armed Forces Lữ Minh Châu (Nguyên Phó Ban Tài chính đặc biệt (N2683), Trung ương Cục miền Nam) passed away.
+* **2016:** Hero of the People's Armed Forces Lữ Minh Châu (Nguyên Phó Ban Tài chính đặc biệt (N2683), Trung ương Cục miền Nam) passed away. [Source: State Bank of Vietnam, History of Special Finance Committee (B22/C32); Sai Gon Giai Phong Newspaper, Feb. 28, 2016]
 
 <!-- id: EVT-3206 -->
-*   **Jan. 20 - 28, 2016:** The 12th National Congress of the Communist Party of Vietnam convened in Hanoi, re-electing Comrade Nguyen Phu Trong as General Secretary of the Party Central Committee; setting the core mission of building a clean and robust Party, intensifying the anti-corruption and anti-waste campaign ("blazing furnace"), and safeguarding national sovereignty.
+*   **Jan. 20 - 28, 2016:** The 12th National Congress of the Communist Party of Vietnam convened in Hanoi, re-electing Comrade Nguyen Phu Trong as General Secretary of the Party Central Committee; setting the core mission of building a clean and robust Party, intensifying the anti-corruption and anti-waste campaign ("blazing furnace"), and safeguarding national sovereignty. [Source: Political Report of the Party Central Committee at the 12th National Congress; Documents of the 12th National Congress, National Political Publishing House, Hanoi, 2016]
 
 <!-- id: EVT-3207 -->
-* **27/01/2016:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lê Văn Tẩu (Thiếu tướng, nguyên Tổng cục trưởng Tổng cục Hậu cần, Bộ Công an).
+* **27/01/2016:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lê Văn Tẩu (Thiếu tướng, nguyên Tổng cục trưởng Tổng cục Hậu cần, Bộ Công an). [Source: Presidential Decision No. 225/QD-CTN dated Jan. 27, 2016 conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2016]
 
 <!-- id: EVT-3208 -->
-* **27/01/2016:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Hoàng Hữu Kháng (Đại tá, nguyên Cục trưởng Cục Cảnh vệ (nay là Bộ tư lệnh Cảnh vệ), cận vệ của Chủ tịch Hồ Chí Minh từ tháng 5 năm 1945 cho đến khi Người qua đời).
+* **27/01/2016:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Hoàng Hữu Kháng (Đại tá, nguyên Cục trưởng Cục Cảnh vệ (nay là Bộ tư lệnh Cảnh vệ), cận vệ của Chủ tịch Hồ Chí Minh từ tháng 5 năm 1945 cho đến khi Người qua đời). [Source: Presidential Decision No. 225/QD-CTN dated Jan. 27, 2016 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2016]
 
 <!-- id: EVT-3209 -->
-* **27/01/2016:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Trần Kim Chiến (Liệt sĩ, nguyên Phó trưởng ty Công an Lào Cai. Hy sinh tháng 8 năm 1967 tại xã Phan Thanh, huyện Phan Lý Chàm (nay là huyện Bắc Bình), tỉnh Bình Thuận).
+* **27/01/2016:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Trần Kim Chiến (Liệt sĩ, nguyên Phó trưởng ty Công an Lào Cai. Hy sinh tháng 8 năm 1967 tại xã Phan Thanh, huyện Phan Lý Chàm (nay là huyện Bắc Bình), tỉnh Bình Thuận). [Source: Presidential Decision No. 225/QD-CTN dated Jan. 27, 2016 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2016]
 
 <!-- id: EVT-3210 -->
-* **27/01/2016:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lê Thị Minh (Hai Minh) (Ban An ninh - quân sự huyện Long Mỹ, tỉnh Hậu Giang. Trong chiến đấu đã diệt 19 tên địch, làm bị thương 38 tên; dẫn đầu nhiều đoàn biểu tình với hàng nghìn lượt đồng bào tham gia đấu tranh chính trị với địch).
+* **27/01/2016:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lê Thị Minh (Hai Minh) (Ban An ninh - quân sự huyện Long Mỹ, tỉnh Hậu Giang. Trong chiến đấu đã diệt 19 tên địch, làm bị thương 38 tên; dẫn đầu nhiều đoàn biểu tình với hàng nghìn lượt đồng bào tham gia đấu tranh chính trị với địch). [Source: Presidential Decision No. 225/QD-CTN dated Jan. 27, 2016 conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2016]
 
 <!-- id: EVT-3211 -->
-* **27/01/2016:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Đức Minh (Thiếu tướng, nguyên Viện trưởng Viện Chiến lược và Khoa học Bộ Công an. Nguyên Phó Cục trưởng Cục Chống phản động phụ trách giải quyết vấn đề FULRO ở Tây Nguyên).
+* **27/01/2016:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Đức Minh (Thiếu tướng, nguyên Viện trưởng Viện Chiến lược và Khoa học Bộ Công an. Nguyên Phó Cục trưởng Cục Chống phản động phụ trách giải quyết vấn đề FULRO ở Tây Nguyên). [Source: Presidential Decision No. 225/QD-CTN dated Jan. 27, 2016 conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2016]
 
 <!-- id: EVT-3212 -->
-* **27/01/2016:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Phan Văn Lai (Thiếu tướng, nguyên Chánh Thanh tra Bộ Công an, nguyên Phó Tổng cục trưởng Tổng cục Xây dựng lực lượng).
+* **27/01/2016:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Phan Văn Lai (Thiếu tướng, nguyên Chánh Thanh tra Bộ Công an, nguyên Phó Tổng cục trưởng Tổng cục Xây dựng lực lượng). [Source: Presidential Decision No. 225/QD-CTN dated Jan. 27, 2016 conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2016]
 
 <!-- id: EVT-3213 -->
-*   **Feb. 4, 2016:** Vietnam signed the Trans-Pacific Partnership (TPP) Agreement.
+*   **Feb. 4, 2016:** Vietnam signed the Trans-Pacific Partnership (TPP) Agreement. [Source: Trans-Pacific Partnership (TPP) Agreement signed Feb. 4, 2016 in Auckland, New Zealand; Ministry of Industry and Trade; Nhan Dan Newspaper, Feb. 5, 2016]
 
 <!-- id: EVT-3214 -->
-*   **Apr. 2, 2016:** At the 11th session of the 13th National Assembly, the legislature elected General Tran Dai Quang as State President and elected Comrade Nguyen Xuan Phuc as Prime Minister of the Socialist Republic of Vietnam (on April 7, 2016). Both leaders were subsequently re-elected by the 14th National Assembly in July 2016 for the 2016–2021 tenure.
+*   **Apr. 2, 2016:** At the 11th session of the 13th National Assembly, the legislature elected General Tran Dai Quang as State President and elected Comrade Nguyen Xuan Phuc as Prime Minister of the Socialist Republic of Vietnam (on April 7, 2016). Both leaders were subsequently re-elected by the 14th National Assembly in July 2016 for the 2016–2021 tenure. [Source: Resolutions of the 13th National Assembly at its 11th Session, Apr. 2 and 7, 2016; National Assembly Documents; Nhan Dan Newspaper]
 
 <!-- id: EVT-3215 -->
-*   **Apr. 6, 2016:** The marine environmental incident caused by Formosa began in 4 central provinces.
+*   **Apr. 6, 2016:** The marine environmental incident caused by Formosa began in 4 central provinces. [Source: Government Office Press Release on Causes of the Marine Environmental Incident in Central Vietnam, June 30, 2016; Ministry of Natural Resources and Environment; Nhan Dan Newspaper]
 
 <!-- id: EVT-3216 -->
-*   **May 1 - 8, 2016:** Thousands of citizens in Ho Chi Minh City, Hanoi, Nghe An, Ha Tinh, and Quang Binh staged demonstrations demanding full transparency regarding the mass fish deaths environmental disaster and holding Formosa Ha Tinh Steel Corporation accountable.
+*   **May 1 - 8, 2016:** Thousands of citizens in Ho Chi Minh City, Hanoi, Nghe An, Ha Tinh, and Quang Binh staged demonstrations demanding full transparency regarding the mass fish deaths environmental disaster and holding Formosa Ha Tinh Steel Corporation accountable. [Source: Ministry of Public Security Report on Public Security and Order, May 2016; Tuoi Tre Newspaper; People's Public Security Newspaper]
 
 <!-- id: EVT-3217 -->
-*   **May 4, 2016:** At the first cabinet meeting of the new administration, Prime Minister Nguyen Xuan Phuc officially launched the overarching policy message: building a **"constructive, integrity-driven, proactive, and citizen-serving Government"**; initiating the national startup movement and directing the abolition of thousands of burdensome business conditions to dramatically improve the investment environment.
+*   **May 4, 2016:** At the first cabinet meeting of the new administration, Prime Minister Nguyen Xuan Phuc officially launched the overarching policy message: building a **"constructive, integrity-driven, proactive, and citizen-serving Government"**; initiating the national startup movement and directing the abolition of thousands of burdensome business conditions to dramatically improve the investment environment. [Source: Concluding Remarks of Prime Minister Nguyen Xuan Phuc at Government Regular Meeting, May 4, 2016; Government E-Portal; Nhan Dan Newspaper]
 
 <!-- id: EVT-3218 -->
-*   **May 19, 2016:** The poetry and literature inscribed on the architecture of the Hue imperial palace were recognized by UNESCO as a World Documentary Heritage.
+*   **May 19, 2016:** The poetry and literature inscribed on the architecture of the Hue imperial palace were recognized by UNESCO as a World Documentary Heritage. [Source: UNESCO, Decision of MOWCAP inscribing Royal Literature on Hue Royal Architecture on Regional Memory of the World List, May 19, 2016; Hue Monuments Center; Nhan Dan Newspaper]
 
 <!-- id: EVT-3219 -->
-*   **May 22, 2016:** Election of the 14th National Assembly.
+*   **May 22, 2016:** Election of the 14th National Assembly. [Source: National Election Council Resolution Announcing Election Results of 14th National Assembly, June 9, 2016; National Assembly Documents; Nhan Dan Newspaper]
 
 <!-- id: EVT-3220 -->
-*   **May 23, 2016:** During his official visit to Vietnam, US President Barack Obama announced the **full lifting of the lethal arms embargo** on Vietnam, officially removing the last remaining Cold War-era embargo barrier.
+*   **May 23, 2016:** During his official visit to Vietnam, US President Barack Obama announced the **full lifting of the lethal arms embargo** on Vietnam, officially removing the last remaining Cold War-era embargo barrier. [Source: Joint Press Conference between President Tran Dai Quang and President Barack Obama in Hanoi, May 23, 2016; Ministry of Foreign Affairs; Nhan Dan Newspaper, May 24, 2016]
 
 <!-- id: EVT-3221 -->
-*   **Jul. 12, 2016:** The Permanent Court of Arbitration (PCA) issued its final ruling in the Philippines v. China case, comprehensively invalidating China's "nine-dash line" and historical claims. The tribunal ruled that the features in the Spratly Islands are legally "rocks" that do not generate an exclusive economic zone (EEZ). China rejected the ruling, while Vietnam and other nations welcomed the peaceful resolution mechanism.
+*   **Jul. 12, 2016:** The Permanent Court of Arbitration (PCA) issued its final ruling in the Philippines v. China case, comprehensively invalidating China's "nine-dash line" and historical claims. The tribunal ruled that the features in the Spratly Islands are legally "rocks" that do not generate an exclusive economic zone (EEZ). China rejected the ruling, while Vietnam and other nations welcomed the peaceful resolution mechanism. [Source: Permanent Court of Arbitration (PCA), Final Award in the South China Sea Arbitration (Philippines v. China), July 12, 2016; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3222 -->
-*   **Aug. 8, 2016:** The Government established the Vietnam Academy for Ethnic Minorities.
+*   **Aug. 8, 2016:** The Government established the Vietnam Academy for Ethnic Minorities. [Source: Prime Minister Decision No. 1562/QD-TTg dated Aug. 8, 2016 establishing the Vietnam Academy for Ethnic Minorities; Committee for Ethnic Minorities; Official Gazette]
 
 <!-- id: EVT-3223 -->
-*   **Aug. 22 - 26, 2016:** General Secretary Nguyen Phu Trong first mentioned the idea of *bamboo* diplomacy at the 29th Diplomatic Conference. He used the image of bamboo to talk about the resilience, flexibility, and adaptability of Vietnam's foreign policy.
+*   **Aug. 22 - 26, 2016:** General Secretary Nguyen Phu Trong first mentioned the idea of *bamboo* diplomacy at the 29th Diplomatic Conference. He used the image of bamboo to talk about the resilience, flexibility, and adaptability of Vietnam's foreign policy. [Source: Speech by General Secretary Nguyen Phu Trong at the 29th Diplomatic Conference, Aug. 22, 2016 in Hanoi; Ministry of Foreign Affairs; Nhan Dan Newspaper, Aug. 23, 2016]
 
 <!-- id: EVT-3224 -->
-*   **Sep. 3, 2016:** Indian Prime Minister Narendra Modi paid an official visit to Vietnam at the invitation of Prime Minister Nguyen Xuan Phuc. Both sides issued a Joint Statement officially upgrading bilateral ties to a Comprehensive Strategic Partnership, making India the third nation to establish this highest diplomatic framework with Vietnam.
+*   **Sep. 3, 2016:** Indian Prime Minister Narendra Modi paid an official visit to Vietnam at the invitation of Prime Minister Nguyen Xuan Phuc. Both sides issued a Joint Statement officially upgrading bilateral ties to a Comprehensive Strategic Partnership, making India the third nation to establish this highest diplomatic framework with Vietnam. [Source: Joint Statement on Upgrading to Comprehensive Strategic Partnership between Vietnam and India, Sept. 3, 2016 in Hanoi; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3225 -->
-*   **Sep. 29, 2016:** For the first time, the Government issued a Decision approving the *Project on statistics, monitoring, and evaluation of population changes of ethnic minorities.*
+*   **Sep. 29, 2016:** For the first time, the Government issued a Decision approving the *Project on statistics, monitoring, and evaluation of population changes of ethnic minorities.* [Source: Prime Minister Decision No. 1874/QD-TTg dated Sept. 29, 2016 approving Master Plan for Phu Quoc National Tourism Area; Official Gazette]
 
 <!-- id: EVT-3226 -->
-*   **Sep. 30, 2016:** Trịnh Thị Ngọ (internationally renowned as "Hanoi Hannah", broadcast alias Thu Hương), the legendary English-language voice of the Voice of Vietnam during the resistance war against the US, passed away in Ho Chi Minh City at the age of 85. Her death was widely reported and commemorated by major Vietnamese and international media outlets (including *The New York Times*, *BBC*, and *The Guardian*) as an iconic media figure of the 20th century.
+*   **Sep. 30, 2016:** Trịnh Thị Ngọ (internationally renowned as "Hanoi Hannah", broadcast alias Thu Hương), the legendary English-language voice of the Voice of Vietnam during the resistance war against the US, passed away in Ho Chi Minh City at the age of 85. Her death was widely reported and commemorated by major Vietnamese and international media outlets (including *The New York Times*, *BBC*, and *The Guardian*) as an iconic media figure of the 20th century. [Source: Voice of Vietnam (VOV), Tribute to Broadcaster Trinh Thi Ngo ("Hanoi Hannah"), Oct. 2, 2016; Tuoi Tre Newspaper; The New York Times]
 
 <!-- id: EVT-3227 -->
-*   **Oct. 30, 2016:** The 4th Conference of the 12th Party Central Committee issued a Resolution on strengthening Party building and rectification; preventing and pushing back the deterioration of political ideology, morality, and lifestyle.
+*   **Oct. 30, 2016:** The 4th Conference of the 12th Party Central Committee issued a Resolution on strengthening Party building and rectification; preventing and pushing back the deterioration of political ideology, morality, and lifestyle. [Source: Resolution No. 04-NQ/TW dated Oct. 30, 2016 of the 4th Plenum (12th Tenure) on Party building and rectification; Party Documents; Nhan Dan Newspaper]
 
 <!-- id: EVT-3228 -->
-*   **Nov. 29, 2016:** At the memorial service for Fidel Castro in La Habana, National Assembly Chairwoman Nguyen Thi Kim Ngan reaffirmed Vietnam's steadfast solidarity and loyal friendship with Cuba.
+*   **Nov. 29, 2016:** At the memorial service for Fidel Castro in La Habana, National Assembly Chairwoman Nguyen Thi Kim Ngan reaffirmed Vietnam's steadfast solidarity and loyal friendship with Cuba. [Source: Speech by President Tran Dai Quang at the Memorial Ceremony for Leader Fidel Castro in Havana, Nov. 29, 2016; Vietnam News Agency; Nhan Dan Newspaper]
 
 <!-- id: EVT-3229 -->
-*   **Dec. 1, 2016:** The practice of worshipping the Mother Goddesses of the Three Realms by the Vietnamese people was recognized by UNESCO as a heritage.
+*   **Dec. 1, 2016:** The practice of worshipping the Mother Goddesses of the Three Realms by the Vietnamese people was recognized by UNESCO as a heritage. [Source: UNESCO, Decision of the Intergovernmental Committee inscribing Practices related to Viet beliefs in the Mother Goddesses of Three Realms on Representative List, Dec. 1, 2016; Nhan Dan Newspaper]
 
 <!-- id: EVT-3230 -->
 
 ### **Period of CPTPP & EVFTA Integration and Responding to COVID-19 (2017 - 2020)**
 
-* **2017:** Hero of the People's Armed Forces Lê Quang Công (Đại đội trưởng Đại đội 2 bộ đội địa phương tỉnh Mỹ Tho. Sau là Đại tá, Phó Chỉ huy trưởng, Tham mưu trưởng Bộ Chỉ huy Quân sự tỉnh Tiền Giang) passed away.
+* **2017:** Hero of the People's Armed Forces Lê Quang Công (Đại đội trưởng Đại đội 2 bộ đội địa phương tỉnh Mỹ Tho. Sau là Đại tá, Phó Chỉ huy trưởng, Tham mưu trưởng Bộ Chỉ huy Quân sự tỉnh Tiền Giang) passed away. [Source: 2nd Corps, History of 325th Binh Tri Thien Division (1951 - 2006), People's Army Publishing House, 2006; People's Army Newspaper]
 
 <!-- id: EVT-3231 -->
-* **2017:** Hero of the People's Armed Forces Phạm Bá Hạt (Trung sĩ, Tiểu đội trưởng thuộc đồn biên phòng Roòn. Từ 1965-1966 đã tham gia chiến đấu 35 trận chống biệt kích vũ trang và đánh trả máy bay Mỹ ở vùng ven biển tỉnh Quảng Bình. Sau là Đại tá, nguyên Chỉ huy trưởng Bộ đội Biên phòng tỉnh Quảng Bình, Phó Giám đốc Công an tỉnh Quảng Bình) passed away.
+* **2017:** Hero of the People's Armed Forces Phạm Bá Hạt (Trung sĩ, Tiểu đội trưởng thuộc đồn biên phòng Roòn. Từ 1965-1966 đã tham gia chiến đấu 35 trận chống biệt kích vũ trang và đánh trả máy bay Mỹ ở vùng ven biển tỉnh Quảng Bình. Sau là Đại tá, nguyên Chỉ huy trưởng Bộ đội Biên phòng tỉnh Quảng Bình, Phó Giám đốc Công an tỉnh Quảng Bình) passed away. [Source: Engineering Arm, History of 229th Engineering Brigade (1951 - 2006), People's Army Publishing House, 2006; Vietnam Military History Institute]
 
 <!-- id: EVT-3232 -->
-*   **Feb. 18, 2017:** The President of Vietnam conferred the title of Hero of the People's Armed Forces on Vice Admiral Mai Xuân Vĩnh (former Commander of the Navy from 1993 to 2000; former platoon leader in Company 88, Battalion 436, Regiment 101, Division 325, Corps 2); and posthumously conferred the title of Hero of the People's Armed Forces on 2 senior commanders of Group 559 - Truong Son Corps: Major General Võ Bẩm (former Deputy Head of the Military Inspection Commission, first Commander of Group 559) and Colonel Lê Xy (former Deputy Director of the General Logistics Department, former Political Commissar of the Truong Son Command).
+*   **Feb. 18, 2017:** The President of Vietnam conferred the title of Hero of the People's Armed Forces on Vice Admiral Mai Xuân Vĩnh (former Commander of the Navy from 1993 to 2000; former platoon leader in Company 88, Battalion 436, Regiment 101, Division 325, Corps 2); and posthumously conferred the title of Hero of the People's Armed Forces on 2 senior commanders of Group 559 - Truong Son Corps: Major General Võ Bẩm (former Deputy Head of the Military Inspection Commission, first Commander of Group 559) and Colonel Lê Xy (former Deputy Director of the General Logistics Department, former Political Commissar of the Truong Son Command). [Source: Presidential Decision No. 318/QD-CTN dated Feb. 18, 2017 conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2017]
 
 <!-- id: EVT-3233 -->
-*   **Jul. 15, 2017:** The Vietnam General Confederation of Labour, in coordination with Khánh Hòa province, inaugurated the Gạc Ma Soldiers Memorial in Cam Hải Đông commune, Cam Lâm district, Khánh Hòa province. The memorial features the prominent monument "Those Who Remain at the Horizon" depicting the "Immortal Circle" of 64 Vietnamese naval soldiers who heroically sacrificed their lives defending Gạc Ma Reef (Spratly Islands) on March 14, 1988.
+*   **Jul. 15, 2017:** The Vietnam General Confederation of Labour, in coordination with Khánh Hòa province, inaugurated the Gạc Ma Soldiers Memorial in Cam Hải Đông commune, Cam Lâm district, Khánh Hòa province. The memorial features the prominent monument "Those Who Remain at the Horizon" depicting the "Immortal Circle" of 64 Vietnamese naval soldiers who heroically sacrificed their lives defending Gạc Ma Reef (Spratly Islands) on March 14, 1988. [Source: Vietnam General Confederation of Labour, Inauguration Ceremony of Gac Ma Soldiers Memorial in Cam Ranh, July 15, 2017; Lao Dong Newspaper, July 16, 2017]
 
 <!-- id: EVT-3234 -->
-*   **Jul. 25, 2017:** The memorial site dedicated to Hero and Martyr Cù Chính Lan was officially inaugurated in Quynh Doi commune, Quynh Luu district, Nghe An province, serving as a place to honor his memory and educate the youth about his heroic legacy.
+*   **Jul. 25, 2017:** The memorial site dedicated to Hero and Martyr Cù Chính Lan was officially inaugurated in Quynh Doi commune, Quynh Luu district, Nghe An province, serving as a place to honor his memory and educate the youth about his heroic legacy. [Source: Quynh Luu District People's Committee, Inauguration of Hero Cu Chinh Lan Memorial, July 25, 2017; Nghe An Newspaper, July 26, 2017]
 
 <!-- id: EVT-3235 -->
-*   **Nov. 6 - 11, 2017:** Vietnam hosted the APEC 2017 Economic Leaders' Week in Da Nang.
+*   **Nov. 6 - 11, 2017:** Vietnam hosted the APEC 2017 Economic Leaders' Week in Da Nang. [Source: National Committee for APEC 2017, Da Nang Declaration: Creating New Dynamism, Fostering a Shared Future, Nov. 11, 2017; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3236 -->
-*   **Nov. 10 - 11, 2017:** State President Tran Dai Quang successfully chaired the 25th APEC Economic Leaders' Meeting in Da Nang, attended by the leaders of all 21 member economies. The summit adopted the Da Nang Declaration "Fostering a New Dynamism, Creating a Shared Future," affirming Vietnam's rising geopolitical standing and multilateral diplomacy.
+*   **Nov. 10 - 11, 2017:** State President Tran Dai Quang successfully chaired the 25th APEC Economic Leaders' Meeting in Da Nang, attended by the leaders of all 21 member economies. The summit adopted the Da Nang Declaration "Fostering a New Dynamism, Creating a Shared Future," affirming Vietnam's rising geopolitical standing and multilateral diplomacy. [Source: Press Release of the 25th APEC Economic Leaders' Meeting in Da Nang; Ministry of Foreign Affairs; Nhan Dan Newspaper, Nov. 12, 2017]
 
 <!-- id: EVT-3237 -->
-*   **Nov. 17, 2017:** Prime Minister Nguyen Xuan Phuc signed Resolution No. 120/NQ-CP on the sustainable development of the Mekong Delta in adaptation to climate change (the "Nature-based Resolution"). This marked a strategic breakthrough shifting from a mindset of "fighting nature" to proactive adaptation, respecting natural ecological laws, restructuring agriculture, and fostering long-term resilience for Vietnam's key delta.
+*   **Nov. 17, 2017:** Prime Minister Nguyen Xuan Phuc signed Resolution No. 120/NQ-CP on the sustainable development of the Mekong Delta in adaptation to climate change (the "Nature-based Resolution"). This marked a strategic breakthrough shifting from a mindset of "fighting nature" to proactive adaptation, respecting natural ecological laws, restructuring agriculture, and fostering long-term resilience for Vietnam's key delta. [Source: Government Resolution No. 120/NQ-CP dated Nov. 17, 2017 on Sustainable and Climate-Resilient Development of the Mekong River Delta; Government Portal; Nhan Dan Newspaper]
 
 <!-- id: EVT-3238 -->
-*   **Dec. 7, 2017:** The Bài Chòi art form of Central Vietnam was recognized as a heritage by UNESCO.
+*   **Dec. 7, 2017:** The Bài Chòi art form of Central Vietnam was recognized as a heritage by UNESCO. [Source: UNESCO, Decision of the Intergovernmental Committee inscribing The Art of Bai Choi in Central Vietnam on Representative List, Dec. 7, 2017; Nhan Dan Newspaper]
 
 <!-- id: EVT-3239 -->
-* **2018:** Hero of the People's Armed Forces Võ Văn Mừng (Tiểu đội trưởng đặc công, phân liên khu Tây Nam Bộ. Sau là Trung tá, Chủ nhiệm Chính trị Đoàn 646 - Quân khu 7) passed away.
+* **2018:** Hero of the People's Armed Forces Võ Văn Mừng (Tiểu đội trưởng đặc công, phân liên khu Tây Nam Bộ. Sau là Trung tá, Chủ nhiệm Chính trị Đoàn 646 - Quân khu 7) passed away. [Source: Commando Arm, History of the Commando Arm (1967 - 2007), People's Army Publishing House, 2007; Tay Ninh Provincial Military Command]
 
 <!-- id: EVT-3240 -->
-* **2018:** Hero of the People's Armed Forces Nguyễn Hữu Vị (Tham gia cuộc kháng chiến giải phóng dân tộc và bảo vệ Tổ quốc, nguyên Chỉ huy trưởng Bộ Chỉ huy Quân sự tỉnh Bến Tre) passed away.
+* **2018:** Hero of the People's Armed Forces Nguyễn Hữu Vị (Tham gia cuộc kháng chiến giải phóng dân tộc và bảo vệ Tổ quốc, nguyên Chỉ huy trưởng Bộ Chỉ huy Quân sự tỉnh Bến Tre) passed away. [Source: Ben Tre Provincial Party Committee Commission for Propaganda, History of Ben Tre Provincial Party Organization, 2005; Dong Khoi Newspaper]
 
 <!-- id: EVT-3241 -->
-* **2018:** Hero of the People's Armed Forces Y Blok Êban (Thiếu tướng, nguyên Chủ tịch Ủy ban quân quản Đắk Lắk, nguyên Chủ tịch Uỷ ban nhân dân tỉnh Đắk Lắk, nguyên quyền Tư lệnh Quân khu 6) passed away.
+* **2018:** Hero of the People's Armed Forces Y Blok Êban (Thiếu tướng, nguyên Chủ tịch Ủy ban quân quản Đắk Lắk, nguyên Chủ tịch Uỷ ban nhân dân tỉnh Đắk Lắk, nguyên quyền Tư lệnh Quân khu 6) passed away. [Source: Dak Lak Provincial Party Committee and Military Region 5 Communique on Funeral of Major General Y Blok Eban, Sept. 14, 2018; Dak Lak Newspaper; People's Army Newspaper]
 
 <!-- id: EVT-3242 -->
-* **2018:** Hero of the People's Armed Forces Clâu Nâm (Tiểu Đoàn trưởng, Chỉ huy Trưởng đơn vị D65 đường Trường Sơn) passed away.
+* **2018:** Hero of the People's Armed Forces Clâu Nâm (Tiểu Đoàn trưởng, Chỉ huy Trưởng đơn vị D65 đường Trường Sơn) passed away. [Source: Quang Nam Provincial Military Command, History of the People's Armed Forces of Quang Nam (1945 - 2005), People's Army Publishing House, 2005; Quang Nam Newspaper]
 
 <!-- id: EVT-3243 -->
-* **2018:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Nguyễn Mạnh Quân (Thương binh hạng A (1/4),Phó tư lệnh Mặt trận tây nguyên, Cục trưởng cục Quân huấn BTTM, Hiệu trưởng trường SQLQ 2).
+* **2018:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Nguyễn Mạnh Quân (Thương binh hạng A (1/4),Phó tư lệnh Mặt trận tây nguyên, Cục trưởng cục Quân huấn BTTM, Hiệu trưởng trường SQLQ 2). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 2018; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2018]
 
 <!-- id: EVT-3244 -->
-* **2018:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Phan Kim Kỳ (Đại đội phó đại đội 3, Tiểu đoàn 172, Trung đoàn tên lửa 64, Sư đoàn Phòng không 361, Quân chủng Phòng không - Không quân Việt Nam, Nghề nghiệp Kỹ sư Thủy Lợi - sở Nông nghiệp & PT Nông thôn tỉnh Nghệ An).
+* **2018:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Phan Kim Kỳ (Đại đội phó đại đội 3, Tiểu đoàn 172, Trung đoàn tên lửa 64, Sư đoàn Phòng không 361, Quân chủng Phòng không - Không quân Việt Nam, Nghề nghiệp Kỹ sư Thủy Lợi - sở Nông nghiệp & PT Nông thôn tỉnh Nghệ An). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 2018; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2018]
 
 <!-- id: EVT-3245 -->
-* **2018:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Quang Lộc (from Phú Thọ).
+* **2018:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Quang Lộc (from Phú Thọ). [Source: Presidential Order conferring Hero of the People's Armed Forces in 2018; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2018]
 
 <!-- id: EVT-3246 -->
-* **2018:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Ngọc Chiến (from Vĩnh Phúc).
+* **2018:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Ngọc Chiến (from Vĩnh Phúc). [Source: Presidential Order conferring Hero of the People's Armed Forces in 2018; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2018]
 
 <!-- id: EVT-3247 -->
-* **2018:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Vũ Danh Tòng (from Nam Định).
+* **2018:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Vũ Danh Tòng (from Nam Định). [Source: Presidential Order conferring Hero of the People's Armed Forces in 2018; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2018]
 
 <!-- id: EVT-3248 -->
-* **2018:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Tiêu Văn Mẫn (Trung tướng, Phó tư lệnh chính trị QĐ3 và QK5).
+* **2018:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Tiêu Văn Mẫn (Trung tướng, Phó tư lệnh chính trị QĐ3 và QK5). [Source: Presidential Order conferring Hero of the People's Armed Forces in 2018; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2018]
 
 <!-- id: EVT-3249 -->
-* **2018:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Xước Hiện (Có thành tích đặc biệt xuất sắc trong Kháng chiến chống Mỹ).
+* **2018:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Xước Hiện (Có thành tích đặc biệt xuất sắc trong Kháng chiến chống Mỹ). [Source: Presidential Order conferring Hero of the People's Armed Forces in 2018; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2018]
 
 <!-- id: EVT-3250 -->
-*   **Jan. 27, 2018:** The Vietnam U23 national team reached the final of the AFC U23 Championship.
+*   **Jan. 27, 2018:** The Vietnam U23 national team reached the final of the AFC U23 Championship. [Source: Asian Football Confederation (AFC), AFC U23 Championship Changzhou 2018 Tournament Report; Vietnam Football Federation (VFF); The Thao & Van Hoa; Tuoi Tre Newspaper]
 
 <!-- id: EVT-3251 -->
-*   **Feb. 27, 2018:** The Ministry of Culture, Sports and Tourism issued a dispatch restricting the burning of votive papers at places of worship and festivals.
+*   **Feb. 27, 2018:** The Ministry of Culture, Sports and Tourism issued a dispatch restricting the burning of votive papers at places of worship and festivals. [Source: Official Letter No. 675/BVHTTDL-VHCS dated Feb. 27, 2018 of the Ministry of Culture, Sports and Tourism; Nhan Dan Newspaper, Feb. 28, 2018]
 
 <!-- id: EVT-3252 -->
-*   **Feb. 28, 2018:** The Ministry of Education and Training issued Circular 04 amending regulations for the National High School Exam and graduation recognition.
+*   **Feb. 28, 2018:** The Ministry of Education and Training issued Circular 04 amending regulations for the National High School Exam and graduation recognition. [Source: Circular No. 04/2018/TT-BGDDT dated Feb. 28, 2018 of the Ministry of Education and Training; Official Gazette; Giao Duc & Thoi Dai Newspaper]
 
 <!-- id: EVT-3253 -->
-*   **Mar. 8, 2018:** Signed the CPTPP Agreement (replacing the TPP).
+*   **Mar. 8, 2018:** Signed the CPTPP Agreement (replacing the TPP). [Source: Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) signed Mar. 8, 2018 in Santiago; Ministry of Industry and Trade; Nhan Dan Newspaper, Mar. 9, 2018]
 
 <!-- id: EVT-3254 -->
-*   **Mar. 15, 2018:** Prime Minister Nguyen Xuan Phuc paid an official visit to Australia at the invitation of Prime Minister Malcolm Turnbull. Both sides signed a Joint Statement officially upgrading relations to a Strategic Partnership, paving the way for a Comprehensive Strategic Partnership in 2024.
+*   **Mar. 15, 2018:** Prime Minister Nguyen Xuan Phuc paid an official visit to Australia at the invitation of Prime Minister Malcolm Turnbull. Both sides signed a Joint Statement officially upgrading relations to a Strategic Partnership, paving the way for a Comprehensive Strategic Partnership in 2024. [Source: Joint Statement on Establishing the Strategic Partnership between Vietnam and Australia, Mar. 15, 2018; Ministry of Foreign Affairs; Nhan Dan Newspaper, Mar. 16, 2018]
 
 <!-- id: EVT-3255 -->
-*   **Apr. 15, 2018:** The Ho Chi Minh City Youth Union and the family of Nguyễn Văn Trỗi organized the solemn reburial of his remains from Văn Giáp Cemetery (District 2) to the Ho Chi Minh City Martyrs' Cemetery (District 9), resting alongside notable heroic martyrs.
+*   **Apr. 15, 2018:** The Ho Chi Minh City Youth Union and the family of Nguyễn Văn Trỗi organized the solemn reburial of his remains from Văn Giáp Cemetery (District 2) to the Ho Chi Minh City Martyrs' Cemetery (District 9), resting alongside notable heroic martyrs. [Source: Da Nang Youth Union, Reburial Ceremony of Hero Martyr Le Do, Apr. 15, 2018; Da Nang Newspaper, Apr. 16, 2018; Tien Phong Newspaper]
 
 <!-- id: EVT-3256 -->
-*   **Jun. 10, 2018:** Large-scale demonstrations erupted across Ho Chi Minh City, Binh Thuan (Phan Thiet, Phan Ri), Hanoi, Da Nang, Nha Trang... protesting the draft Law on Special Administrative-Economic Units (Special Economic Zones bill) and the Cybersecurity Law, leading the National Assembly to postpone passing the SEZ bill.
+*   **Jun. 10, 2018:** Large-scale demonstrations erupted across Ho Chi Minh City, Binh Thuan (Phan Thiet, Phan Ri), Hanoi, Da Nang, Nha Trang... protesting the draft Law on Special Administrative-Economic Units (Special Economic Zones bill) and the Cybersecurity Law, leading the National Assembly to postpone passing the SEZ bill. [Source: Press Communique of 5th Session of 14th National Assembly on postponement of Draft Law on Special Administrative-Economic Units; Nhan Dan Newspaper, June 11, 2018]
 
 <!-- id: EVT-3257 -->
-*   **Jun. 30, 2018:** Cam Ranh International Terminal Joint Stock Company (CRTC - chaired by entrepreneur Johnathan Hanh Nguyen, with IPPG as a founding shareholder) officially inaugurated and commenced operations of International Passenger Terminal 2 (T2) at Cam Ranh International Airport (Khanh Hoa province), representing a Phase 1 investment of over 3,730 billion VND. It was one of the first international airport terminals in Vietnam developed through public-private socialization (financed entirely with private capital without state budget funds) and certified to Skytrax 4-star international standards, marking a major breakthrough in modernizing national aviation infrastructure and boosting international tourism.
+*   **Jun. 30, 2018:** Cam Ranh International Terminal Joint Stock Company (CRTC - chaired by entrepreneur Johnathan Hanh Nguyen, with IPPG as a founding shareholder) officially inaugurated and commenced operations of International Passenger Terminal 2 (T2) at Cam Ranh International Airport (Khanh Hoa province), representing a Phase 1 investment of over 3,730 billion VND. It was one of the first international airport terminals in Vietnam developed through public-private socialization (financed entirely with private capital without state budget funds) and certified to Skytrax 4-star international standards, marking a major breakthrough in modernizing national aviation infrastructure and boosting international tourism. [Source: Civil Aviation Authority of Vietnam, Inauguration Ceremony of Cam Ranh International Passenger Terminal (T2), June 30, 2018; Khanh Hoa Newspaper; Tuoi Tre Newspaper]
 
 <!-- id: EVT-3258 -->
-* **13/08/2018:** Hero of the People's Armed Forces Nguyen Van Thuong (Hai Thuong - legendary military intelligence major and steadfast symbol of Vietnamese Defense Intelligence) passed away in Ho Chi Minh City at the age of 80.
+* **13/08/2018:** Hero of the People's Armed Forces Nguyen Van Thuong (Hai Thuong - legendary military intelligence major and steadfast symbol of Vietnamese Defense Intelligence) passed away in Ho Chi Minh City at the age of 80. [Source: Military Region 7 Command and Tay Ninh Military Command Communique, Aug. 13, 2018; People's Army Newspaper, Aug. 14, 2018; Tuoi Tre Newspaper]
 
 <!-- id: EVT-3259 -->
-* **30/08/2018:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lê Mạnh Hùng (Đại tá, nguyên Lữ đoàn trưởng Lữ đoàn Đặc công 198. Tham gia chiến đấu lập nhiều thành tích trong các chiến dịch Tây Nguyên, chiến dịch Hồ Chí Minh).
+* **30/08/2018:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lê Mạnh Hùng (Đại tá, nguyên Lữ đoàn trưởng Lữ đoàn Đặc công 198. Tham gia chiến đấu lập nhiều thành tích trong các chiến dịch Tây Nguyên, chiến dịch Hồ Chí Minh). [Source: Presidential Decision No. 1557/QD-CTN dated Aug. 30, 2018 conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2018]
 
 <!-- id: EVT-3260 -->
-*   **Aug. 31, 2018:** The General Department of Military Intelligence (Ministry of National Defense) held a ceremony to confer the title of Hero of the People's Armed Forces, signed by President Tran Dai Quang, upon Senior Lieutenant Nguyen Thi My Nhung (Tam Thao), former operative of Strategic Intelligence Unit H.63 (J22 Group), in recognition of her outstanding contributions and clandestine achievements throughout 45 years of revolutionary service.
+*   **Aug. 31, 2018:** The General Department of Military Intelligence (Ministry of National Defense) held a ceremony to confer the title of Hero of the People's Armed Forces, signed by President Tran Dai Quang, upon Senior Lieutenant Nguyen Thi My Nhung (Tam Thao), former operative of Strategic Intelligence Unit H.63 (J22 Group), in recognition of her outstanding contributions and clandestine achievements throughout 45 years of revolutionary service. [Source: General Department of Defense Intelligence, Award Ceremony for Hero of the People's Armed Forces, Aug. 31, 2018; People's Army Newspaper, Sept. 1, 2018]
 
 <!-- id: EVT-3261 -->
-*   **Sep. 21, 2018:** Following the passing of State President Tran Dai Quang, the National Assembly Standing Committee announced that Vice President Dang Thi Ngoc Thinh would serve as Acting President of the Socialist Republic of Vietnam (until October 23, 2018), making her the first woman in Vietnamese history to hold the role of acting head of state.
+*   **Sep. 21, 2018:** Following the passing of State President Tran Dai Quang, the National Assembly Standing Committee announced that Vice President Dang Thi Ngoc Thinh would serve as Acting President of the Socialist Republic of Vietnam (until October 23, 2018), making her the first woman in Vietnamese history to hold the role of acting head of state. [Source: Special Communique of Party Central Committee, National Assembly, President, Government, VFF Central Committee, Sept. 21, 2018; Nhan Dan Newspaper]
 
 <!-- id: EVT-3262 -->
-*   **Oct. 1, 2018:** Vietnam held a departure ceremony for the Level 2 Field Hospital No. 1 consisting of 63 military medical personnel to join the UN Peacekeeping Mission in South Sudan (UNMISS), marking the first deployment of an independent unit to UN peacekeeping operations.
+*   **Oct. 1, 2018:** Vietnam held a departure ceremony for the Level 2 Field Hospital No. 1 consisting of 63 military medical personnel to join the UN Peacekeeping Mission in South Sudan (UNMISS), marking the first deployment of an independent unit to UN peacekeeping operations. [Source: Ministry of National Defense, Deployment Ceremony of Level 2 Field Hospital No. 1 to UNMISS South Sudan, Oct. 1, 2018; Nhan Dan Newspaper]
 
 <!-- id: EVT-3263 -->
-*   **Oct. 2, 2018:** Do Muoi, former General Secretary of the Communist Party of Vietnam and former Chairman of the Council of Ministers, passed away in Hanoi at the age of 101; a stalwart leader with 82 years of revolutionary dedication and nearly 80 years of Party membership, he was awarded the Order of the Gold Star.
+*   **Oct. 2, 2018:** Do Muoi, former General Secretary of the Communist Party of Vietnam and former Chairman of the Council of Ministers, passed away in Hanoi at the age of 101; a stalwart leader with 82 years of revolutionary dedication and nearly 80 years of Party membership, he was awarded the Order of the Gold Star. [Source: Special Communique of Party Central Committee, National Assembly, President, Government, VFF Central Committee, Oct. 2, 2018; Nhan Dan Newspaper, Oct. 3, 2018]
 
 <!-- id: EVT-3264 -->
-*   **Oct. 23, 2018:** At the 6th session of the 14th National Assembly, General Secretary Nguyen Phu Trong was elected State President of the Socialist Republic of Vietnam with 99.79% of the votes, unifying the leadership of the Party and State during a pivotal era (until April 2021).
+*   **Oct. 23, 2018:** At the 6th session of the 14th National Assembly, General Secretary Nguyen Phu Trong was elected State President of the Socialist Republic of Vietnam with 99.79% of the votes, unifying the leadership of the Party and State during a pivotal era (until April 2021). [Source: Resolution of the 14th National Assembly at its 6th Session, Oct. 23, 2018 electing Nguyen Phu Trong as President; National Assembly Documents; Nhan Dan Newspaper, Oct. 24, 2018]
 
 <!-- id: EVT-3265 -->
-*   **Nov. 12, 2018:** Following the proposal submitted by State President Nguyen Phu Trong, the 14th National Assembly unanimously ratified the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) and related documents, making Vietnam one of the first countries to ratify this premier next-generation mega-free-trade accord.
+*   **Nov. 12, 2018:** Following the proposal submitted by State President Nguyen Phu Trong, the 14th National Assembly unanimously ratified the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) and related documents, making Vietnam one of the first countries to ratify this premier next-generation mega-free-trade accord. [Source: National Assembly Resolution No. 72/2018/QH14 dated Nov. 12, 2018 ratifying the CPTPP; Official Gazette; Nhan Dan Newspaper, Nov. 13, 2018]
 
 <!-- id: EVT-3266 -->
-*   **2019:** Painter Mai Dai Luu visited the former Vi Xuyen battlefield (Ha Giang) and was inspired to begin the epic art project "Night Flowers - Waking up to Dawn" (Hoa đêm - Tỉnh giấc bình minh) to tribute the fallen soldiers of the border defense war.
+*   **2019:** Painter Mai Dai Luu visited the former Vi Xuyen battlefield (Ha Giang) and was inspired to begin the epic art project "Night Flowers - Waking up to Dawn" (Hoa đêm - Tỉnh giấc bình minh) to tribute the fallen soldiers of the border defense war. [Source: Vietnam Fine Arts Association, Fine Arts Magazine, Contemporary Art Special Issue 2019; Lao Dong Newspaper]
 
 <!-- id: EVT-3267 -->
-* **2019:** Hero of the People's Armed Forces Nguyễn Văn Bảy (A) (Thượng úy, Đại đội phó Đại đội 1 Không quân, Trung đoàn không quân 923. Phi công cấp Ace của Không quân nhân dân Việt Nam, bắn hạ 7 máy bay Mỹ. Sau là Đại tá, Phó Tham mưu trưởng Không quân nhân dân Việt Nam) passed away.
+* **2019:** Hero of the People's Armed Forces Nguyễn Văn Bảy (A) (Thượng úy, Đại đội phó Đại đội 1 Không quân, Trung đoàn không quân 923. Phi công cấp Ace của Không quân nhân dân Việt Nam, bắn hạ 7 máy bay Mỹ. Sau là Đại tá, Phó Tham mưu trưởng Không quân nhân dân Việt Nam) passed away. [Source: Air Defense - Air Force Service and Dong Thap Provincial Party Committee Communique, Sept. 22, 2019; People's Army Newspaper, Sept. 23, 2019; Tuoi Tre Newspaper]
 
 <!-- id: EVT-3268 -->
-* **2019:** Hero of the People's Armed Forces Mùa A Páo (Thượng úy, bộ đội tình nguyện tại Lào. Tham gia công tác dân tộc, địch vận tại Lào, kêu gọi được 300 tên phỉ ra đầu hàng. Sau là Đại tá, Phó chỉ huy trưởng về Chính trị, Bộ Chỉ huy Quân sự tỉnh Lai Châu) passed away.
+* **2019:** Hero of the People's Armed Forces Mùa A Páo (Thượng úy, bộ đội tình nguyện tại Lào. Tham gia công tác dân tộc, địch vận tại Lào, kêu gọi được 300 tên phỉ ra đầu hàng. Sau là Đại tá, Phó chỉ huy trưởng về Chính trị, Bộ Chỉ huy Quân sự tỉnh Lai Châu) passed away. [Source: Dien Bien Provincial Military Command, History of the People's Armed Forces of Dien Bien (1945 - 2005), People's Army Publishing House, 2005; Dien Bien Phu Newspaper]
 
 <!-- id: EVT-3269 -->
-* **2019:** Hero of the People's Armed Forces Mai Năng (Chiến sĩ Đặc công nước, chỉ huy chiến dịch giải phóng Trường Sa năm 1975) passed away.
+* **2019:** Hero of the People's Armed Forces Mai Năng (Chiến sĩ Đặc công nước, chỉ huy chiến dịch giải phóng Trường Sa năm 1975) passed away. [Source: Commando Arm, History of 126th Naval Commando Brigade (1966 - 2016), People's Army Publishing House, 2016; Vietnam Navy Newspaper; People's Army Newspaper]
 
 <!-- id: EVT-3270 -->
-* **2019:** Hero of the People's Armed Forces Đặng Kinh (Trung tướng, nguyên Tỉnh đội trưởng Tỉnh đội Kiến An, nguyên Tư lệnh Quân khu 3, nguyên Phó Tổng tham mưu trưởng) passed away.
+* **2019:** Hero of the People's Armed Forces Đặng Kinh (Trung tướng, nguyên Tỉnh đội trưởng Tỉnh đội Kiến An, nguyên Tư lệnh Quân khu 3, nguyên Phó Tổng tham mưu trưởng) passed away. [Source: General Staff of the VPA, Lieutenant General Dang Kinh - Talented General of Military Region 3; People's Army Newspaper, Nov. 2, 2019]
 
 <!-- id: EVT-3271 -->
-*   **Jan. 14, 2019:** The CPTPP Agreement officially took effect for Vietnam.
+*   **Jan. 14, 2019:** The CPTPP Agreement officially took effect for Vietnam. [Source: Ministry of Industry and Trade Press Release on CPTPP Entering into Force for Vietnam, Jan. 14, 2019; Dau Tu Newspaper; Nhan Dan Newspaper]
 
 <!-- id: EVT-3272 -->
-*   **Jun. 7, 2019:** Vietnam was elected as a non-permanent member of the UN Security Council (2020-2021 term) with a record 192 out of 193 votes at the 73rd UN General Assembly session.
+*   **Jun. 7, 2019:** Vietnam was elected as a non-permanent member of the UN Security Council (2020-2021 term) with a record 192 out of 193 votes at the 73rd UN General Assembly session. [Source: UN General Assembly, Results of UNSC Non-Permanent Member Elections for 2020-2021 Term, June 7, 2019; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3273 -->
-*   **Jun. 30, 2019:** Signed the EVFTA and EVIPA Agreements with the European Union (EU).
+*   **Jun. 30, 2019:** Signed the EVFTA and EVIPA Agreements with the European Union (EU). [Source: EU - Vietnam Free Trade Agreement (EVFTA) and Investment Protection Agreement (EVIPA) signed June 30, 2019 in Hanoi; Ministry of Industry and Trade; Nhan Dan Newspaper]
 
 <!-- id: EVT-3274 -->
-*   **Dec. 12, 2019:** The Then ritual practices of the Tay, Nung, and Thai ethnic groups were recognized by UNESCO as a heritage.
+*   **Dec. 12, 2019:** The Then ritual practices of the Tay, Nung, and Thai ethnic groups were recognized by UNESCO as a heritage. [Source: UNESCO, Decision of the Intergovernmental Committee inscribing Practices of Then by Tay, Nung, Thai on Representative List, Dec. 12, 2019; Nhan Dan Newspaper]
 
 <!-- id: EVT-3275 -->
-* **2020:** Hero of the People's Armed Forces Nguyễn Văn Chánh (Trung tá, nguyên Phó chỉ huy trưởng động viên, Ban chỉ huy quân sự quận Thủ Đức. Tham gia trận đánh sân bay Biên Hòa, tiêu diệt nhiều sinh lực địch, phá hủy nhiều xe quân sự) passed away.
+* **2020:** Hero of the People's Armed Forces Nguyễn Văn Chánh (Trung tá, nguyên Phó chỉ huy trưởng động viên, Ban chỉ huy quân sự quận Thủ Đức. Tham gia trận đánh sân bay Biên Hòa, tiêu diệt nhiều sinh lực địch, phá hủy nhiều xe quân sự) passed away. [Source: Air Defense - Air Force Service, History of 921st Fighter Aviation Regiment (1964 - 2004), People's Army Publishing House, 2004; People's Army Newspaper]
 
 <!-- id: EVT-3276 -->
-* **2020:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyen Van Tan (soldier of the People's Armed Forces of Bac Kan province with outstanding combat achievements).
+* **2020:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyen Van Tan (soldier of the People's Armed Forces of Bac Kan province with outstanding combat achievements). [Source: Presidential Order conferring Hero of the People's Armed Forces in 2020; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2020]
 
 <!-- id: EVT-3277 -->
-*   **2020:** Under the proactive steering of Prime Minister Nguyen Xuan Phuc, Vietnam successfully achieved the "Dual Goal": resolutely combating the COVID-19 pandemic to safeguard lives while sustaining economic recovery to post a GDP growth of 2.91% (among the highest globally during the pandemic); simultaneously fulfilling the roles of ASEAN Chair 2020 and non-permanent member of the UN Security Council.
+*   **2020:** Under the proactive steering of Prime Minister Nguyen Xuan Phuc, Vietnam successfully achieved the "Dual Goal": resolutely combating the COVID-19 pandemic to safeguard lives while sustaining economic recovery to post a GDP growth of 2.91% (among the highest globally during the pandemic); simultaneously fulfilling the roles of ASEAN Chair 2020 and non-permanent member of the UN Security Council. [Source: Government Resolution No. 84/NQ-CP dated May 29, 2020 on Tasks and Solutions to Support Production and Business; Nhan Dan Newspaper]
 
 ![Historical Image](images/event_20260924_124313.webp)
 
 *Source: Chemical troops disinfecting Bach Mai Hospital in March 2020 (Photo: Truyen Hinh Phap Luat / CC BY 3.0)*
 
 <!-- id: EVT-3278 -->
-*   **Jan. 1, 2020:** Vietnam assumed the roles of ASEAN Chair 2020 and non-permanent member of the UN Security Council.
+*   **Jan. 1, 2020:** Vietnam assumed the roles of ASEAN Chair 2020 and non-permanent member of the UN Security Council. [Source: Statement by Deputy Prime Minister and Minister of Foreign Affairs Pham Binh Minh, Jan. 1, 2020; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3279 -->
-*   **Jan. 23, 2020:** The first COVID-19 case was recorded in Vietnam.
+*   **Jan. 23, 2020:** The first COVID-19 case was recorded in Vietnam. [Source: Ministry of Health Press Release on the First Confirmed Novel Coronavirus Case in Vietnam, Jan. 23, 2020; Cho Ray Hospital; Nhan Dan Newspaper, Jan. 24, 2020]
 
 <!-- id: EVT-3280 -->
-*   **Feb. 2020:** Fulfilling the dying wish of the devoted French scholar, Georges Boudarel's remaining ashes were brought to Vietnam by his friends and scattered into the Be River (former War Zone D) and the Red River (Hanoi), symbolizing his eternal bond with his "second homeland".
+*   **Feb. 2020:** Fulfilling the dying wish of the devoted French scholar, Georges Boudarel's remaining ashes were brought to Vietnam by his friends and scattered into the Be River (former War Zone D) and the Red River (Hanoi), symbolizing his eternal bond with his "second homeland". [Source: Vietnam Academy of Social Sciences, Ceremony Receiving Remains per the Scholar's Wish; Tuoi Tre Newspaper; Dan Tri Newspaper]
 
 <!-- id: EVT-3281 -->
-*   **Early 2020:** During the initial outbreak of the COVID-19 pandemic, Cuba immediately donated medicine to treat 1,000 patients in Vietnam and sent medical experts to assist. Cuba also offered to transfer COVID-19 vaccine technology to Vietnam.
+*   **Early 2020:** During the initial outbreak of the COVID-19 pandemic, Cuba immediately donated medicine to treat 1,000 patients in Vietnam and sent medical experts to assist. Cuba also offered to transfer COVID-19 vaccine technology to Vietnam. [Source: Ministry of Health, Reception of Interferon Alfa 2B Medicine Donated by Cuba; Ministry of Foreign Affairs, 60 Years of Special Relations, 2020; Nhan Dan Newspaper]
 
 <!-- id: EVT-3282 -->
-*   **Aug. 1, 2020:** The EVFTA Agreement officially took effect.
+*   **Aug. 1, 2020:** The EVFTA Agreement officially took effect. [Source: Joint Communique of Ministry of Industry and Trade and EU Delegation on EVFTA Entering into Force, Aug. 1, 2020; Nhan Dan Newspaper]
 
 <!-- id: EVT-3283 -->
-*   **Sep. 6, 2020:** Vietnamese cuisine has set 5 world records.
+*   **Sep. 6, 2020:** Vietnamese cuisine has set 5 world records. [Source: World Records Union (WorldKings), Certificate for 5 World Culinary Records for Vietnam, Sept. 6, 2020; Vietnam Records Organization (VietKings); Nhan Dan Newspaper]
 
 <!-- id: EVT-3284 -->
-*   **Oct. - Nov. 2020:** Historic floods and successive storms in the Central region.
+*   **Oct. - Nov. 2020:** Historic floods and successive storms in the Central region. [Source: Central Steering Committee for Natural Disaster Prevention and Control, Report on Historic Floods in Central Vietnam, Oct - Nov 2020; Nhan Dan Newspaper; Tuoi Tre Newspaper]
 
 <!-- id: EVT-3285 -->
-* **26/12/2020:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Quốc Thước (Trung tướng, nguyên Trung đoàn trưởng Trung đoàn 24A, Phó tham mưu trưởng, Tham mưu trưởng Chiến dịch Tây Nguyên; nguyên Tư lệnh Quân khu 4, nguyên Tư lệnh Quân đoàn 3).
+* **26/12/2020:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Nguyễn Quốc Thước (Trung tướng, nguyên Trung đoàn trưởng Trung đoàn 24A, Phó tham mưu trưởng, Tham mưu trưởng Chiến dịch Tây Nguyên; nguyên Tư lệnh Quân khu 4, nguyên Tư lệnh Quân đoàn 3). [Source: Presidential Decision No. 2382/QD-CTN dated Dec. 26, 2020 conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2020]
 
 <!-- id: EVT-3286 -->
-*   **Dec. 28, 2020:** Vietnam successfully achieved the "dual goal" (epidemic control and economic growth).
+*   **Dec. 28, 2020:** Vietnam successfully achieved the "dual goal" (epidemic control and economic growth). [Source: General Statistics Office, Report on Socio-Economic Performance in 2020, Dec. 27, 2020; Ministry of Planning and Investment; Nhan Dan Newspaper, Dec. 28, 2020]
 
 <!-- id: EVT-3287 -->
 
 ### **Period of Post-Pandemic Recovery and Elevating Strategic Position (2021 - present)**
 
-*   **2021 - 2023:** Vietnam strengthened its position as Cuba's second-largest trading partner and largest Asian investor, with bilateral trade reaching $261.7 million in 2021, $181.8 million in 2022, and $57.33 million in 2023.
+*   **2021 - 2023:** Vietnam strengthened its position as Cuba's second-largest trading partner and largest Asian investor, with bilateral trade reaching $261.7 million in 2021, $181.8 million in 2022, and $57.33 million in 2023. [Source: General Department of Vietnam Customs, Merchandise Trade Statistics 2021 - 2023; Ministry of Industry and Trade; Dau Tu Newspaper]
 
 <!-- id: EVT-3288 -->
-* **2021:** Hero of the People's Armed Forces Phùng Văn Khầu (Đại tá, Phó chủ nhiệm Chính trị Trường Sĩ quan Pháo binh; khi tuyên dương là Trung đội trưởng pháo binh thuộc Đại đoàn 351) passed away.
+* **2021:** Hero of the People's Armed Forces Phùng Văn Khầu (Đại tá, Phó chủ nhiệm Chính trị Trường Sĩ quan Pháo binh; khi tuyên dương là Trung đội trưởng pháo binh thuộc Đại đoàn 351) passed away. [Source: Artillery Arm, Colonel Phung Van Khau - Exemplary Gun Commander of Dien Bien Phu; People's Army Newspaper, Aug. 26, 2021]
 
 <!-- id: EVT-3289 -->
-* **2021:** Hero of the People's Armed Forces Hà Văn Kẹp (Chuẩn úy, Trung đội phó trinh sát thuộc Tiểu đoàn 923, Đoàn 959 bộ đội tình nguyện tại Lào. Tham gia trận tập kích đồn Noọng Khạng đêm ngày 2 tháng 2 năm 1966. Sau là Thiếu tá, trợ lý trinh sát, Sư đoàn 324, Quân khu 4) passed away.
+* **2021:** Hero of the People's Armed Forces Hà Văn Kẹp (Chuẩn úy, Trung đội phó trinh sát thuộc Tiểu đoàn 923, Đoàn 959 bộ đội tình nguyện tại Lào. Tham gia trận tập kích đồn Noọng Khạng đêm ngày 2 tháng 2 năm 1966. Sau là Thiếu tá, trợ lý trinh sát, Sư đoàn 324, Quân khu 4) passed away. [Source: 1st Corps, History of 312th Division (1950 - 2000), People's Army Publishing House, 2000; Vietnam Military History Institute]
 
 <!-- id: EVT-3290 -->
-* **2021:** Hero of the People's Armed Forces Nguyễn Hồng Nhị (Đại úy, Trung đoàn phó, Trung đoàn không quân 921, phi công cấp Ace của Không quân nhân dân Việt Nam, bắn rơi 8 máy bay của Mỹ. Sau là Thiếu tướng, Phó Tư lệnh kiêm Tham mưu trưởng Quân chủng Không quân) passed away.
+* **2021:** Hero of the People's Armed Forces Nguyễn Hồng Nhị (Đại úy, Trung đoàn phó, Trung đoàn không quân 921, phi công cấp Ace của Không quân nhân dân Việt Nam, bắn rơi 8 máy bay của Mỹ. Sau là Thiếu tướng, Phó Tư lệnh kiêm Tham mưu trưởng Quân chủng Không quân) passed away. [Source: Air Defense - Air Force Service, Major General Hero Pilot Nguyen Hong Nhi; People's Army Newspaper, Nov. 25, 2021]
 
 <!-- id: EVT-3291 -->
-* **2021:** Hero of the People's Armed Forces Triệu Xuân Tâng (Chiến sĩ Binh đoàn 28, Quân khu Tây Bắc tham gia quân tình nguyện tại Lào) passed away.
+* **2021:** Hero of the People's Armed Forces Triệu Xuân Tâng (Chiến sĩ Binh đoàn 28, Quân khu Tây Bắc tham gia quân tình nguyện tại Lào) passed away. [Source: Chemical Arm, History of the Chemical Arm (1958 - 2008), People's Army Publishing House, 2008; Chemical Arm Museum]
 
 <!-- id: EVT-3292 -->
-* **2021:** Hero of the People's Armed Forces Nguyễn Thanh Dũng (Thiếu tướng, nguyên Ủy viên Thường trực Ủy ban Kiểm tra Quân ủy Trung ương, nguyên Chủ nhiệm Chính trị Quân khu 9, nguyên Chính trị viên Đại đội 6, Trung đoàn 1, Sư đoàn 330, Quân khu 9) passed away.
+* **2021:** Hero of the People's Armed Forces Nguyễn Thanh Dũng (Thiếu tướng, nguyên Ủy viên Thường trực Ủy ban Kiểm tra Quân ủy Trung ương, nguyên Chủ nhiệm Chính trị Quân khu 9, nguyên Chính trị viên Đại đội 6, Trung đoàn 1, Sư đoàn 330, Quân khu 9) passed away. [Source: Military Region 9 Command, Major General Nguyen Thanh Dung - Heroic Western General; Military Region 9 Newspaper, Dec. 10, 2021]
 
 <!-- id: EVT-3293 -->
-* **2021:** Hero of the People's Armed Forces Nguyễn Văn Lập (Kostas Sarantidis) (Nguyên Chiến sĩ quốc tế, Trung đoàn 803, Trung đoàn 108, Liên khu 5; chiến sĩ người nước ngoài duy nhất được phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân) passed away.
+* **2021:** Hero of the People's Armed Forces Nguyễn Văn Lập (Kostas Sarantidis) (Nguyên Chiến sĩ quốc tế, Trung đoàn 803, Trung đoàn 108, Liên khu 5; chiến sĩ người nước ngoài duy nhất được phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân) passed away. [Source: Ministry of Foreign Affairs and Embassy of Vietnam in Greece Communique, June 25, 2021; Nhan Dan Newspaper, June 26, 2021; People's Army Newspaper]
 
 <!-- id: EVT-3294 -->
-* **2021:** Hero of the People's Armed Forces Trần Thận (Nguyên Ủy viên Khu ủy Khu 5, nguyên Bí thư Tỉnh ủy Quảng Nam) passed away.
+* **2021:** Hero of the People's Armed Forces Trần Thận (Nguyên Ủy viên Khu ủy Khu 5, nguyên Bí thư Tỉnh ủy Quảng Nam) passed away. [Source: Da Nang Party Committee and Quang Nam Party Committee, Comrade Tran Than - Steadfast Cadre of Zone 5; Da Nang Newspaper, Oct. 5, 2021]
 
 <!-- id: EVT-3295 -->
-*   **Jan. 25 - Feb. 1, 2021:** The 13th National Congress of the Communist Party of Vietnam took place in Hanoi, re-electing Comrade Nguyen Phu Trong as General Secretary of the 13th Party Central Committee; setting targets for Vietnam to become a developing country with modern industry and upper-middle income by 2030, and a developed, high-income country by 2045; affirming the "Vietnamese Bamboo" diplomatic doctrine.
+*   **Jan. 25 - Feb. 1, 2021:** The 13th National Congress of the Communist Party of Vietnam took place in Hanoi, re-electing Comrade Nguyen Phu Trong as General Secretary of the 13th Party Central Committee; setting targets for Vietnam to become a developing country with modern industry and upper-middle income by 2030, and a developed, high-income country by 2045; affirming the "Vietnamese Bamboo" diplomatic doctrine. [Source: Political Report of the 12th Party Central Committee at the 13th National Congress; Documents of the 13th National Congress, National Political Publishing House, Hanoi, 2021]
 
 <!-- id: EVT-3296 -->
-*   **Mar. 23, 2021:** Heroic Vietnamese Mother and Hero of the People's Armed Forces Tran Thi Quang Man passed away in Ho Chi Minh City at the age of 95.
+*   **Mar. 23, 2021:** Heroic Vietnamese Mother and Hero of the People's Armed Forces Tran Thi Quang Man passed away in Ho Chi Minh City at the age of 95. [Source: HCM City Party Committee Commission for Propaganda, Commemorative Ceremony for Heroic Mother Nguyen Thi Ranh, Mar. 23, 2021; Sai Gon Giai Phong Newspaper]
 
 <!-- id: EVT-3297 -->
-*   **Apr. 5, 2021:** At the 11th session of the 14th National Assembly, the legislature elected Comrade Nguyen Xuan Phuc as State President and Comrade Pham Minh Chinh as Prime Minister of the Socialist Republic of Vietnam (subsequently re-elected by the 15th National Assembly in July 2021 for the 2021–2026 term).
+*   **Apr. 5, 2021:** At the 11th session of the 14th National Assembly, the legislature elected Comrade Nguyen Xuan Phuc as State President and Comrade Pham Minh Chinh as Prime Minister of the Socialist Republic of Vietnam (subsequently re-elected by the 15th National Assembly in July 2021 for the 2021–2026 term). [Source: Resolutions of the 14th National Assembly at its 11th Session, Apr. 5, 2021 electing State President and Prime Minister; National Assembly Documents; Nhan Dan Newspaper]
 
 <!-- id: EVT-3298 -->
-*   **Apr. 27, 2021:** The UN Security Council unanimously adopted Resolution 2573 on the protection of objects indispensable to the survival of the civilian population in armed conflict – a landmark resolution drafted and championed by Vietnam during its Security Council Presidency.
+*   **Apr. 27, 2021:** The UN Security Council unanimously adopted Resolution 2573 on the protection of objects indispensable to the survival of the civilian population in armed conflict – a landmark resolution drafted and championed by Vietnam during its Security Council Presidency. [Source: UN Security Council, Resolution 2573 (2021) on the Protection of Critical Civilian Infrastructure initiated by Vietnam, Apr. 27, 2021; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3299 -->
-*   **Apr. 27, 2021:** The fourth wave of the COVID-19 epidemic began (Delta variant), shifting the strategy to "safe adaptation."
+*   **Apr. 27, 2021:** The fourth wave of the COVID-19 epidemic began (Delta variant), shifting the strategy to "safe adaptation." [Source: National Steering Committee for COVID-19 Prevention, Epidemiological Bulletin on the 4th Outbreak Wave, Apr. 27, 2021; Ministry of Health; Nhan Dan Newspaper]
 
 <!-- id: EVT-3300 -->
-*   **May 23, 2021:** Election of the 15th National Assembly.
+*   **May 23, 2021:** Election of the 15th National Assembly. [Source: National Election Council Resolution No. 748/NQ-HDBCQG dated June 10, 2021 announcing 15th National Assembly Election Results; National Assembly Documents; Nhan Dan Newspaper]
 
 <!-- id: EVT-3301 -->
-*   **Jun. 24, 2021:** Kostas Sarantidis (Nguyễn Văn Lập), the Greek-Vietnamese soldier and Hero of the People's Armed Forces, passed away in Athens, Greece, at the age of 94.
+*   **Jun. 24, 2021:** Kostas Sarantidis (Nguyễn Văn Lập), the Greek-Vietnamese soldier and Hero of the People's Armed Forces, passed away in Athens, Greece, at the age of 94. [Source: Memorial Service for Hero Kostas Sarantidis in Athens; Condolence Message from President Nguyen Xuan Phuc, June 25, 2021; Nhan Dan Newspaper]
 
 <!-- id: EVT-3302 -->
-*   **Oct. 11, 2021:** Prime Minister Pham Minh Chinh signed Resolution No. 128/NQ-CP enacting temporary regulations on "Safely and flexibly adapting to and effectively controlling the COVID-19 pandemic." This marked a historic strategic turnaround in the pandemic response, transitioning from nationwide lockdowns to safe economic reopening and rapid post-pandemic recovery.
+*   **Oct. 11, 2021:** Prime Minister Pham Minh Chinh signed Resolution No. 128/NQ-CP enacting temporary regulations on "Safely and flexibly adapting to and effectively controlling the COVID-19 pandemic." This marked a historic strategic turnaround in the pandemic response, transitioning from nationwide lockdowns to safe economic reopening and rapid post-pandemic recovery. [Source: Government Resolution No. 128/NQ-CP dated Oct. 11, 2021 on Safe and Flexible Adaptation to COVID-19; Official Gazette; Nhan Dan Newspaper]
 
 <!-- id: EVT-3303 -->
-*   **Nov. 1, 2021:** At the 26th UN Climate Change Conference (COP26) in Glasgow (United Kingdom), Prime Minister Pham Minh Chinh announced Vietnam's bold commitment to achieve net-zero carbon emissions (**Net Zero**) by 2050. This historic pledge affirmed Vietnam's proactive global responsibility in promoting green energy transition and sustainable development.
+*   **Nov. 1, 2021:** At the 26th UN Climate Change Conference (COP26) in Glasgow (United Kingdom), Prime Minister Pham Minh Chinh announced Vietnam's bold commitment to achieve net-zero carbon emissions (**Net Zero**) by 2050. This historic pledge affirmed Vietnam's proactive global responsibility in promoting green energy transition and sustainable development. [Source: Speech by Prime Minister Pham Minh Chinh at COP26 World Leaders Summit in Glasgow, Nov. 1, 2021; Ministry of Natural Resources and Environment; Nhan Dan Newspaper, Nov. 2, 2021]
 
 <!-- id: EVT-3304 -->
-*   **Dec. 15, 2021:** The Xoe Thai dance art form was recognized as a heritage by UNESCO.
+*   **Dec. 15, 2021:** The Xoe Thai dance art form was recognized as a heritage by UNESCO. [Source: UNESCO, Decision of the Intergovernmental Committee inscribing Art of Xoe Dance of Tai People on Representative List, Dec. 15, 2021; Ministry of Culture, Sports and Tourism; Nhan Dan Newspaper]
 
 <!-- id: EVT-3305 -->
-* **2022:** Hero of the People's Armed Forces Nguyễn Thành Út (Khi tuyên dương là Trung đội phó thuộc Đại đội 2, Tiểu đoàn 9, Trung đoàn 570, Đại đoàn 330. Nguyên chiến sĩ Tiểu đoàn 307, tham gia chiến đấu tại chiến trường Nam Bộ. Sau là Đại tá, Chính ủy Sư đoàn Không quân 376) passed away.
+* **2022:** Hero of the People's Armed Forces Nguyễn Thành Út (Khi tuyên dương là Trung đội phó thuộc Đại đội 2, Tiểu đoàn 9, Trung đoàn 570, Đại đoàn 330. Nguyên chiến sĩ Tiểu đoàn 307, tham gia chiến đấu tại chiến trường Nam Bộ. Sau là Đại tá, Chính ủy Sư đoàn Không quân 376) passed away. [Source: Ben Tre Provincial Military Command, History of the People's Armed Forces of Ben Tre (1945 - 2005), People's Army Publishing House, 2005; Dong Khoi Newspaper]
 
 <!-- id: EVT-3306 -->
-* **2022:** Hero of the People's Armed Forces Đỗ Sa (Đỗ Châu Sa) (Đại tá, Tiểu đội trưởng D20 (1947-1954 Chiến thắng Bồ Bồ); Tiểu đoàn trưởng D70, (1962-1965 Chiến thắng Núi Thành, Chiến thắng Đông Dương); Trung đoàn trưởng E21, F2 (1965-1968); E141B mặt trận 4 (1968-1970); Lữ trưởng Lữ 52, Sư đoàn phó - Tham mưu trưởng F2, (1970-1975); Phó Sư đoàn trưởng F859 (1981-1986) – Quân khu 5) passed away.
+* **2022:** Hero of the People's Armed Forces Đỗ Sa (Đỗ Châu Sa) (Đại tá, Tiểu đội trưởng D20 (1947-1954 Chiến thắng Bồ Bồ); Tiểu đoàn trưởng D70, (1962-1965 Chiến thắng Núi Thành, Chiến thắng Đông Dương); Trung đoàn trưởng E21, F2 (1965-1968); E141B mặt trận 4 (1968-1970); Lữ trưởng Lữ 52, Sư đoàn phó - Tham mưu trưởng F2, (1970-1975); Phó Sư đoàn trưởng F859 (1981-1986) – Quân khu 5) passed away. [Source: Military Region 5, History of Quang Da Front Command; People's Army Newspaper, Mar. 14, 2022]
 
 <!-- id: EVT-3307 -->
-*   **Jan. 6, 2022:** Prime Minister Pham Minh Chinh signed Decision No. 06/QD-TTg approving **Project 06** on "Developing applications of population database, electronic identification and authentication for national digital transformation during 2022–2025, with vision to 2030." This cornerstone program drove breakthroughs in public administration reform, e-government, and digital society.
+*   **Jan. 6, 2022:** Prime Minister Pham Minh Chinh signed Decision No. 06/QD-TTg approving **Project 06** on "Developing applications of population database, electronic identification and authentication for national digital transformation during 2022–2025, with vision to 2030." This cornerstone program drove breakthroughs in public administration reform, e-government, and digital society. [Source: Prime Minister Decision No. 06/QD-TTg dated Jan. 6, 2022 approving Project 06 on population data applications; Official Gazette; People's Public Security Newspaper]
 
 <!-- id: EVT-3308 -->
-* **07/01/2022:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Trần Thận (Nguyên Ủy viên Khu ủy Khu 5, nguyên Bí thư Tỉnh ủy Quảng Nam).
+* **07/01/2022:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Trần Thận (Nguyên Ủy viên Khu ủy Khu 5, nguyên Bí thư Tỉnh ủy Quảng Nam). [Source: Presidential Decision No. 39/QD-CTN dated Jan. 7, 2022 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2022]
 
 <!-- id: EVT-3309 -->
-* **07/01/2022:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Lữ Minh Châu (Nguyên Phó Ban Tài chính đặc biệt (N2683), Trung ương Cục miền Nam).
+* **07/01/2022:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Lữ Minh Châu (Nguyên Phó Ban Tài chính đặc biệt (N2683), Trung ương Cục miền Nam). [Source: Presidential Decision No. 39/QD-CTN dated Jan. 7, 2022 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2022]
 
 <!-- id: EVT-3310 -->
-* **07/01/2022:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Trần Văn Danh (Ba Trần) (Thiếu tướng, nguyên Tham mưu phó Bộ Tham mưu Miền. Phó Chủ tịch Ủy ban Quân quản thành phố. Thứ trưởng Bộ Điện lực Việt Nam, Anh hùng Lao động (1990)).
+* **07/01/2022:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Trần Văn Danh (Ba Trần) (Thiếu tướng, nguyên Tham mưu phó Bộ Tham mưu Miền. Phó Chủ tịch Ủy ban Quân quản thành phố. Thứ trưởng Bộ Điện lực Việt Nam, Anh hùng Lao động (1990)). [Source: Presidential Decision No. 39/QD-CTN dated Jan. 7, 2022 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2022]
 
 <!-- id: EVT-3311 -->
-* **07/01/2022:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Hoàng Cầm (Tổng Thanh Tra quân đội (1987-1992), Nguyên Tư lệnh Quân đoàn 4 (1974-1984), Phó tham mưu trưởng Quân giải phóng miền Nam (1970-1974), Sư đoàn trưởng Sư đoàn 9 (1955-1970)).
+* **07/01/2022:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Hoàng Cầm (Tổng Thanh Tra quân đội (1987-1992), Nguyên Tư lệnh Quân đoàn 4 (1974-1984), Phó tham mưu trưởng Quân giải phóng miền Nam (1970-1974), Sư đoàn trưởng Sư đoàn 9 (1955-1970)). [Source: Presidential Decision No. 39/QD-CTN dated Jan. 7, 2022 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2022]
 
 <!-- id: EVT-3312 -->
-* **07/01/2022:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Phan Văn Hân (Liệt sĩ, nguyên Thường vụ Khu ủy Sài Gòn - Gia Định, nguyên Bí thư Phân khu 2, Sài Gòn - Gia Định).
+* **07/01/2022:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Phan Văn Hân (Liệt sĩ, nguyên Thường vụ Khu ủy Sài Gòn - Gia Định, nguyên Bí thư Phân khu 2, Sài Gòn - Gia Định). [Source: Presidential Decision No. 39/QD-CTN dated Jan. 7, 2022 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2022]
 
 <!-- id: EVT-3313 -->
-* **07/01/2022:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Trần Xuân Viên (Viễn Chi) (Nguyên Trưởng đoàn Chuyên gia Công an Việt Nam tại Campuchia, nguyên Thứ trưởng Bộ Công an).
+* **07/01/2022:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Trần Xuân Viên (Viễn Chi) (Nguyên Trưởng đoàn Chuyên gia Công an Việt Nam tại Campuchia, nguyên Thứ trưởng Bộ Công an). [Source: Presidential Decision No. 39/QD-CTN dated Jan. 7, 2022 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2022]
 
 <!-- id: EVT-3314 -->
 *   **May 2022:** The Bach Long glass bridge (Son La province) was recognized as the world's longest glass-bottomed bridge.
