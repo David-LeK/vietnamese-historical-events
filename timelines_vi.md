@@ -162,6 +162,10 @@
 <!-- id: EVT-0028 -->
 *   **Khoảng thế kỷ VIII TCN - thế kỷ II SCN:** Thời kỳ Văn hóa Đông Sơn. [Nguồn: Báo cáo viên - Lịch sử Thanh Hóa, https://baocaovien.vn/tin-tuc/lich-su-tinh-thanh-hoa-noi-phat-trien-ruc-ro-cua-nen-van-hoa-dong-son/198690.html]
 
+![Dao găm đồng Văn hóa Đông Sơn](images/event_20260928_194611.webp)
+
+*Nguồn: Dao găm đồng Văn hóa Đông Sơn trưng bày tại Bảo tàng Lịch sử Quốc gia. Ảnh: Bình Giang / Wikimedia Commons, Public domain*
+
 <!-- id: EVT-0029 -->
 
 ### **Thời kỳ Dựng nước và Bắc thuộc (800 TCN - 938)**
@@ -532,6 +536,10 @@
 <!-- id: EVT-0134 -->
 *   **766 - 791:** Cuộc khởi nghĩa của Phùng Hưng (Bố Cái Đại Vương). [Nguồn: Bố Cái Đại Vương Phùng Hưng và khát vọng tự chủ dân tộc, https://vov2.vov.vn/van-hoa-giai-tri/bo-cai-dai-vuong-phung-hung-va-khat-vong-tu-chu-dan-toc-59542.vov2]
 
+![Tượng Bố Cái Đại Vương Phùng Hưng tại Đường Lâm](images/event_20260928_194614.webp)
+
+*Nguồn: Tượng Bố Cái Đại Vương Phùng Hưng tại đền thờ ở làng cổ Đường Lâm (Sơn Tây, Hà Nội). Ảnh: Doãn Hiệu / Wikimedia Commons, CC BY 3.0*
+
 <!-- id: EVT-0135 -->
 *   **767:** Quân Srivijaya (Chà Và) và Côn Lôn xâm phạm Giao Châu, bị Kinh lược sứ Trương Bá Nghi đánh tan. [Nguồn: Srivijaya (Wikipedia tiếng Việt) – cuộc tấn công Giao Châu năm 767, https://vi.wikipedia.org/wiki/Srivijaya]
 
@@ -755,6 +763,10 @@
 
 <!-- id: EVT-0201 -->
 *   **1005:** Vua Lê Đại Hành băng hà dẫn đến cuộc tranh giành ngôi vị kéo dài 8 tháng giữa các hoàng tử. Thái tử Lê Long Việt dẹp tan các phe phái và lên ngôi hoàng đế (Lê Trung Tông). Tuy nhiên, chỉ sau 3 ngày trị vì, nhà vua bị người em trai là Lê Long Đĩnh sai thuộc hạ đang đêm trèo tường vào cấm cung ám sát để cướp ngôi. [Nguồn: Nhà Tiền Lê: tồn tại bao nhiêu năm, mấy vị hoàng đế?, https://danviet.vn/nha-tien-le-do-le-hoan-thanh-lap-ton-tai-bao-nhieu-nam-co-may-vi-hoang-de-d1396007.html]
+
+![Lăng vua Lê Đại Hành tại Cố đô Hoa Lư](images/event_20260928_194618.webp)
+
+*Nguồn: Khu lăng mộ vua Lê Đại Hành tại Cố đô Hoa Lư (Ninh Bình). Ảnh: Nguyễn Thanh Quang / Wikimedia Commons, CC BY-SA 4.0*
 
 <!-- id: EVT-0202 -->
 *   **06/1006 (Bính Ngọ):** Vua Tống từ chối lời thỉnh cầu của Lăng Sách về việc đem quân đánh Đại Cồ Việt nhân lúc nội bộ triều Lê rối ren. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Lê (Ngọa Triều hoàng đế), https://vi.wikipedia.org/wiki/L%C3%AA_Ng%E1%BB%8Da_Tri%E1%BB%81u]
@@ -1433,6 +1445,10 @@
 <!-- id: EVT-0410 -->
 *   **14/12/1308 (01/11 năm Mậu Thân):** Thái thượng hoàng Trần Nhân Tông (Trần Khâm) – vị vua anh minh kiệt xuất lãnh đạo Đại Việt đánh bại hoàn toàn các đạo quân xâm lược Nguyên Mông, sau xuất gia sáng lập Thiền phái Trúc Lâm Yên Tử (Phật Hoàng Trần Nhân Tông) – viên tịch tại am Ngọa Vân trên đỉnh núi Yên Tử, thọ 51 tuổi. [Nguồn: Tưởng niệm 715 năm Phật hoàng Trần Nhân Tông nhập niết bàn (Công Lý), https://congly.vn/dai-le-tuong-niem-715-nam-phat-hoang-tran-nhan-tong-nhap-niet-ban-tai-yen-tu-409292.html]
 
+![Tượng Phật hoàng Trần Nhân Tông tại Yên Tử](images/event_20260928_194622.webp)
+
+*Nguồn: Tượng Phật hoàng Trần Nhân Tông, vị vua sáng lập Thiền phái Trúc Lâm tại đỉnh non thiêng Yên Tử (Quảng Ninh). Ảnh: Bùi Thụy Đào Nguyên / Wikimedia Commons, CC BY-SA 3.0*
+
 <!-- id: EVT-0411 -->
 *   **1309:** Cho đào sông Thiên Đức (sông Đuống) để thuận tiện cho việc giao thông. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Trần (Anh Tông hoàng đế, đào sông Thiên Đức), https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Anh_T%C3%B4ng]
 
@@ -2008,6 +2024,10 @@
 <!-- id: EVT-0594 -->
 *   **05/1419:** Quân Minh vây khốn núi Chí Linh. Lê Lai đã đóng giả Lê Lợi, hy sinh thân mình để cứu chủ tướng và quân sĩ. [Nguồn: Lê Lai quên mình cứu Chúa (Báo Pháp Luật), https://baophapluat.vn/ve-lam-kinh-nghe-chuyen-trung-than-ky-1-le-lai-quen-minh-cuu-chua-post359245.html]
 
+![Đền thờ Lê Lai tại Thanh Hóa](images/event_20260928_194625.webp)
+
+*Nguồn: Cổng chính Đền thờ Trung túc vương Lê Lai tại làng Tép (Kiên Thọ, Ngọc Lặc, Thanh Hóa). Ảnh: Bùi Lê Việt Cường / Wikimedia Commons, CC BY-SA 4.0*
+
 <!-- id: EVT-0595 -->
 *   **09/1419:** Được sự giúp đỡ của Lan Xang, nghĩa quân tiến xuống hoạt động ở vùng Lỗi Giang, lập trại tại Ba Lãm. [Nguồn: Việt Nam sử lược I-III-XIV (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_XIV]
 
@@ -2291,6 +2311,10 @@
 <!-- id: EVT-0682 -->
 *   **1479:** Bộ sách *Đại Việt sử ký toàn thư* lần đầu được hoàn thành bởi Ngô Sĩ Liên. [Nguồn: Ngô Sĩ Liên biên soạn Toàn thư (VnExpress), https://vnexpress.net/vua-nao-nha-hau-le-tri-vi-lau-nhat-3577429-p11.html]
 
+![Bản khắc Đại Việt sử ký toàn thư](images/event_20260928_194628.webp)
+
+*Nguồn: Bản in mộc bản bộ quốc sử "Đại Việt sử ký toàn thư" của Quốc sử quán triều Lê. Ảnh: Lâm Hạo Sinh / Wikimedia Commons, CC BY-SA 3.0*
+
 <!-- id: EVT-0683 -->
 *   **1479:** Vua Lê Thánh Tông phát động đại chiến dịch quân sự đánh dẹp Ai Lao (Lan Xang) và Bồn Man quấy nhiễu biên cương phía Tây; quân Đại Việt tiến sâu vào đất Lào, chiếm đóng kinh đô Luang Prabang, tiến đến lưu vực sông Mê Kông và sáp nhập xứ Bồn Man thành phủ Trấn Ninh thuộc thừa tuyên Nghệ An. [Nguồn: Chiến tranh Đại Việt - Lan Xang (Dân Việt), https://danviet.vn/chien-tranh-dai-viet-lan-xang-khi-nguoi-viet-doi-dau-ca-dong-nam-a-20221027211907189-d1052712.html]
 
@@ -2487,6 +2511,10 @@
 
 <!-- id: EVT-0745 -->
 *   **1585:** Thế tử Nguyễn Phúc Nguyên chỉ huy thủy quân đánh tan đoàn thuyền của hải tặc Nhật Bản do Shirahama Kenchi chỉ huy tại Cửa Việt. [Nguồn: Hội An (Trung tâm Di sản Hội An), https://hoianheritage.net/vi/trao-doi-chuyen-nganh/chuyen-de-nghien-cuu-trao-doi/mang-luoi-giao-thuong-dong-a-truoc-thoi-dai-mo-cua-va-nhung-he-qua-phat-trien-truong-hop-hoi-an-458.html]
+
+![Khu phố cổ Hội An bên bờ sông Hoài](images/event_20260928_194632.webp)
+
+*Nguồn: Khu phố cổ Hội An (Quảng Nam), thương cảng quốc tế sầm uất xứ Đàng Trong thời các chúa Nguyễn. Ảnh: Steffen Schmitz / Wikimedia Commons, CC BY-SA 4.0*
 
 <!-- id: EVT-0746 -->
 *   **1585:** Nguyễn Bỉnh Khiêm qua đời tại quê nhà (28 tháng 11 năm Ất Dậu). [Nguồn: Nguyễn Bỉnh Khiêm (TP Hải Phòng), https://www.haiphong.gov.vn/di-tich-danh-thang/den-tho-danh-nhan-van-hoa-trang-trinh-nguyen-binh-khiem-di-tich-lich-su-quoc-gia-dac-biet-742809]
@@ -2698,6 +2726,10 @@
 
 <!-- id: EVT-0813 -->
 *   **1651:** Alexandre de Rhodes xuất bản hai cuốn sách đầu tiên bằng chữ Quốc ngữ tại Rome: "Dictionarium annamiticum, lusitanum, et latinum" (Từ điển Việt - Bồ - La) và "Cathechismus" (Phép giảng tám ngày). Đây là một cột mốc vĩ đại giúp chính thức hóa và chuẩn hóa chữ Quốc ngữ. [Nguồn: Chữ quốc ngữ (VnExpress), https://vnexpress.net/300-nam-thang-tram-cua-chu-quoc-ngu-4757030.html]
+
+![Chân dung Alexandre de Rhodes](images/event_20260928_194637.webp)
+
+*Nguồn: Chân dung giáo sĩ Alexandre de Rhodes, tác giả cuốn Từ điển Việt - Bồ - La xuất bản năm 1651. Ảnh: Wikimedia Commons, Public domain*
 
 <!-- id: EVT-0814 -->
 *   **1653:** Chúa Nguyễn Phúc Tần (Hiền Vương) đánh bại vua Chiêm Thành là Bà Tấm, lấy đất từ sông Phan Rang đến Phú Yên, lập ra dinh Thái Khang (nay là Khánh Hòa). [Nguồn: Đất và người Khánh Hòa (Tỉnh ủy Khánh Hòa), https://tinhuykhanhhoa.vn/tin-bai/dat-va-nguoi-khanh-hoa/dep-thay-dat-va-nguoi-khanh-hoa-13243]
@@ -3215,6 +3247,10 @@
 <!-- id: EVT-0979 -->
 *   **18/12/1788:** Tôn Sĩ Nghị dẫn quân Thanh tiến vào Thăng Long, bắt đầu thời kỳ chiếm đóng ngắn ngủi của quân Thanh tại kinh đô. [Nguồn: Trận Ngọc Hồi - Đống Đa (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_Ng%E1%BB%8Dc_H%E1%BB%93i_%E2%80%93_%C4%90%E1%BB%91ng_%C4%90a]
 
+![Khu di tích Gò Đống Đa tại Hà Nội](images/event_20260928_194640.webp)
+
+*Nguồn: Khu di tích lịch sử Gò Đống Đa (Hà Nội), nơi ghi dấu trận đại phá quân Thanh mùa xuân năm Kỷ Dậu 1789. Ảnh: Bình Giang / Wikimedia Commons, Public domain*
+
 <!-- id: EVT-0980 -->
 *   **22/12/1788 (25 tháng 11 năm Mậu Thân):** Tại Phú Xuân, Nguyễn Huệ lên ngôi Hoàng đế, lấy niên hiệu Quang Trung. Ông lập tức chỉ huy đại quân thần tốc tiến ra Bắc để đánh đuổi 29 vạn quân xâm lược Mãn Thanh đang chiếm đóng Thăng Long. [Nguồn: Quang Trung (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Quang_Trung]
 
@@ -3663,6 +3699,10 @@
 <!-- id: EVT-1115 -->
 *   **10/1831:** Vua Minh Mạng tiến hành cuộc cải cách hành chính lớn, xóa bỏ các tổng trấn, đổi các dinh, trấn ở Bắc Hà thành 18 tỉnh. [Nguồn: Cải cách chính quyền địa phương của Minh Mệnh (Lưu trữ Quốc gia), https://www.archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/to-chuc-bo-may-chinh-quyen-dia-phuong-nhin-tu-cai-cach-cua-vua-minh-menh.htm]
 
+![Khu lăng mộ vua Minh Mạng tại Huế](images/event_20260928_194644.webp)
+
+*Nguồn: Hiếu Lăng (Lăng Minh Mạng) tại Cố đô Huế, nơi an nghỉ của vị vua có nhiều cải cách hành chính lớn. Ảnh: Uwe Aranas / Wikimedia Commons, CC BY-SA 3.0*
+
 <!-- id: EVT-1116 -->
 *   **1832:** Ty Đài hiến được đổi thành Đô sát viện; thành lập Tam pháp ty (gồm đại diện của Hình bộ, Đô sát viện và Đại lý tự). [Nguồn: Chính quyền trung ương thời Minh Mệnh (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3096/10273/to-chuc-bo-may-chinh-quyen-trung-uong-thoi-minh-menh.html]
 
@@ -3734,6 +3774,10 @@
 
 <!-- id: EVT-1139 -->
 *   **03/1837:** **Cửu Đỉnh** được chính thức đặt tại sân Thế Miếu trong Hoàng thành Huế. [Nguồn: Hoàng Sa, Trường Sa trên Cửu Đỉnh Huế (VietnamPlus), https://www.vietnamplus.vn/hinh-anh-quan-dao-hoang-sa-va-truong-sa-tren-cuu-dinh-o-hue-post420709.vnp]
+
+![Cửu Đỉnh tại Hoàng thành Huế](images/event_20260928_194648.webp)
+
+*Nguồn: Cửu Đỉnh bằng đồng đặt trước sân Thế Miếu tại Đại Nội Huế, đúc năm 1835-1837 thời vua Minh Mạng (Bảo vật Quốc gia). Ảnh: AJ Oswald / Wikimedia Commons, CC BY-SA 2.0*
 
 <!-- id: EVT-1140 -->
 *   **1838:** Liên quan đến vụ án Lê Văn Khôi, triều đình ra lệnh xử trảm hai người cháu của Lê Văn Duyệt là Lê Văn Yên và Lê Văn Tễ, các thân thuộc khác bị phát phối đi đày. [Nguồn: Lê Văn Duyệt (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/L%C3%AA_V%C4%83n_Duy%E1%BB%87t]
@@ -3953,6 +3997,10 @@
 
 <!-- id: EVT-1207 -->
 *   **08/1862:** Sau khi triều đình Huế ký Hòa ước Nhâm Tuất nhượng ba tỉnh miền Đông cho Pháp và hạ lệnh bãi binh, điều Trương Định đi nhận chức Lãnh binh An Giang, ông đã kiên quyết từ chối chiếu chỉ bãi binh của triều đình và thư dụ hàng của Pháp. Được nhân dân và các tướng sĩ suy tôn làm **"Bình Tây Đại nguyên soái"**, Trương Định quyết định ở lại cùng nhân dân giương cao ngọn cờ tiếp tục kháng chiến chống thực dân Pháp. [Nguồn: Dấu ấn lịch sử của Khởi nghĩa Trương Định (Báo Nhân Dân), https://nhandan.vn/dau-an-lich-su-cua-khoi-nghia-truong-dinh-post825108.html]
+
+![Tượng đài Trương Định tại Gò Công](images/event_20260928_194652.webp)
+
+*Nguồn: Tượng đài Bình Tây Đại nguyên soái Trương Định tại thị xã Gò Công (Tiền Giang). Ảnh: Bùi Thụy Đào Nguyên / Wikimedia Commons, CC BY-SA 4.0*
 
 <!-- id: EVT-1208 -->
 *   **16/12/1862:** Nghĩa quân Trương Định mở cuộc tổng phản công bất ngờ đồng loạt tập kích các đồn bốt của quân Pháp trên khắp ba tỉnh miền Đông Nam Kỳ (Gia Định, Định Tường, Biên Hòa), phục kích tiêu diệt Thiếu úy Pháp Theron tại Rạch Tra, gây cho quân Pháp nhiều thiệt hại nặng nề và đẩy quân viễn chinh vào thế bị động, lúng túng. [Nguồn: Khởi nghĩa Trương Định (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%C6%B0%C6%A1ng_%C4%90%E1%BB%8Bnh]
@@ -4374,6 +4422,10 @@
 
 <!-- id: EVT-1334 -->
 *   **21/06/1893:** Bác sĩ Alexandre Yersin phát hiện ra cao nguyên Lang Biang trong chuyến thám hiểm thung lũng Lâm Viên, mở đường cho Toàn quyền Paul Doumer sau này chọn vùng đất này để xây dựng thành phố nghỉ dưỡng Đà Lạt. [Nguồn: Cổng thông tin điện tử tỉnh Lâm Đồng - Địa chí Đà Lạt: Alexandre Yersin, https://lamdong.gov.vn/sites/book/diachidalat/Tongluan/bai7.htm]
+
+![Chân dung bác sĩ Alexandre Yersin](images/event_20260928_194655.webp)
+
+*Nguồn: Chân dung bác sĩ, nhà khoa học Alexandre Yersin, người thám hiểm và phát hiện cao nguyên Lang Biang năm 1893. Ảnh: CIPH / Wikimedia Commons, Public domain*
 
 <!-- id: EVT-1335 -->
 *   **11/1893:** Cao Thắng hy sinh trong trận tấn công đồn Nu (Nghệ An), một tổn thất lớn cho khởi nghĩa Hương Khê. [Nguồn: Báo Hà Tĩnh - Cao Thắng (1864-1893), https://baohatinh.vn/cao-thang-1864-1893-post47589.html]
@@ -4956,6 +5008,10 @@
 <!-- id: EVT-1510 -->
 *   **21/06/1925:** Tuần báo *Thanh niên*, cơ quan ngôn luận của Hội Việt Nam Cách mạng Thanh niên, ra số đầu tiên. [Nguồn: Tuần báo Thanh Niên – Cơ quan ngôn luận đầu tiên của cách mạng vô sản Việt Nam (Báo Nhân Dân), https://nhandan.vn/tuan-bao-thanh-nien-to-bao-cach-mang-dau-tien-post652100.html]
 
+![Báo Thanh niên xuất bản năm 1925](images/event_20260928_194658.webp)
+
+*Nguồn: Tờ báo "Thanh niên" do lãnh tụ Nguyễn Ái Quốc sáng lập tại Quảng Châu (Trung Quốc), ra số đầu ngày 21/06/1925. Ảnh: Wikimedia Commons, Public domain*
+
 <!-- id: EVT-1511 -->
 *   **30/06/1925:** Phan Bội Châu bị thực dân Pháp bắt cóc tại Thượng Hải. [Nguồn: Bảo tàng Lịch sử Quốc gia - Trang trọng lễ giỗ lần thứ 84 của chí sĩ yêu nước Phan Bội Châu, https://baotanglichsu.vn/vi/Articles/3091/75017/trang-trong-le-gio-lan-thu-84-cua-chi-si-yeu-nuoc-phan-boi-chau.html]
 
@@ -4964,6 +5020,10 @@
 
 <!-- id: EVT-1513 -->
 *   **06/11/1925 (20/09 năm Ất Sửu):** Vua Khải Định băng hà tại cung Kiến Trung bên trong Hoàng thành Huế ở tuổi 40 vì bệnh lao phổi sau 9 năm trị vì, thọ táng tại Ứng Lăng (Lăng Khải Định). [Nguồn: Vua Khải Định (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13776/vua-khai-dinh.html]
+
+![Toàn cảnh Lăng Khải Định tại Huế](images/event_20260928_194702.webp)
+
+*Nguồn: Ứng Lăng (Lăng Khải Định) tại Cố đô Huế, công trình lăng tẩm mang phong cách kết hợp Đông - Tây hoàn thành năm 1931. Ảnh: Chainwit / Wikimedia Commons, CC BY 4.0*
 
 <!-- id: EVT-1514 -->
 *   **23/11/1925:** Thực dân Pháp đưa Phan Bội Châu ra xét xử tại Hà Nội, làm dấy lên một phong trào quần chúng rộng lớn đòi thả ông. [Nguồn: Bảo tàng Lịch sử Quốc gia - Trang trọng lễ giỗ lần thứ 84 của chí sĩ yêu nước Phan Bội Châu, https://baotanglichsu.vn/vi/Articles/3091/75017/trang-trong-le-gio-lan-thu-84-cua-chi-si-yeu-nuoc-phan-boi-chau.html]
@@ -7563,6 +7623,10 @@
 <!-- id: EVT-2297 -->
 *   **03-04/04/1965:** Không quân Nhân dân Việt Nam xuất trận lần đầu, cùng các lực lượng phòng không bắn rơi 57 máy bay Mỹ trong trận bảo vệ cầu Hàm Rồng và phà Ghép. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Biệt động Sài Gòn - Gia Định (1945 - 1975), NXB Quân đội nhân dân, Hà Nội, 2010]
 
+![Cầu Hàm Rồng bắc qua sông Mã](images/event_20260928_194706.webp)
+
+*Nguồn: Cầu Hàm Rồng bắc qua sông Mã (Thanh Hóa), biểu tượng kiên cường bất khuất của quân và dân trong kháng chiến chống Mỹ. Ảnh: Rolers.FTU / Wikimedia Commons, CC BY-SA 3.0*
+
 <!-- id: EVT-2298 -->
 *   **04/04/1965:** Không quân Mỹ huy động hàng trăm lượt máy bay đánh phá ác liệt Cầu Dài và thị xã Đồng Hới (Quảng Bình); nữ dân quân Trần Thị Lý dũng cảm chèo đò chở cán bộ vượt sông dưới bom đạn để chỉ đạo chiến đấu, kiên cường bám trụ trận địa phòng không bảo vệ huyết mạch giao thông, đào hầm cứu đồng đội và nhân dân bị bom vùi (sau này được phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 1967). [Nguồn: Ban Chấp hành Trung ương Đảng, Văn kiện Đảng Toàn tập, tập 26, NXB Chính trị quốc gia, Hà Nội, 2003]
 
@@ -8654,6 +8718,10 @@
 <!-- id: EVT-2637 -->
 *   **10 - 29/04/1975:** Chiến dịch Trường Sa và các đảo trên Biển Đông. Theo chỉ đạo của Bộ Tổng tham mưu, Hải quân Nhân dân Việt Nam (Đoàn 126 đặc công và Tiểu đoàn 471) tổ chức tiến công giải phóng các đảo do ngụy quân Sài Gòn đóng giữ tại quần đảo Trường Sa. Bắt đầu từ đảo Song Tử Tây (14/04), quân Giải phóng lần lượt làm chủ các đảo Sơn Ca, Nam Yết, Sinh Tồn và Trường Sa Lớn (29/04), kéo lá cờ giải phóng tung bay trên các đảo tiền tiêu, khẳng định và bảo vệ toàn vẹn chủ quyền biển đảo trong thời khắc lịch sử của dân tộc. [Nguồn: Báo Nhân Dân - Giải phóng Trường Sa mùa Xuân năm 1975, https://special.nhandan.vn/giai-phong-Truong-Sa-mua-Xuan-nam-1975/index.html]
 
+![Cột mốc chủ quyền đảo Trường Sa Lớn](images/event_20260928_194709.webp)
+
+*Nguồn: Cột mốc chủ quyền thiêng liêng trên đảo Trường Sa Lớn thuộc Quần đảo Trường Sa của Việt Nam. Ảnh: Châu Hà / Wikimedia Commons, Public domain*
+
 <!-- id: EVT-2638 -->
 *   **14/04/1975:** Huỳnh Tấn Phát, thay mặt Chính phủ Cách mạng Lâm thời, đọc diễn văn tại sân vận động Đà Lạt mừng thành phố được giải phóng. [Nguồn: Ban Tuyên giáo Tỉnh ủy Lâm Đồng, Lịch sử Đảng bộ tỉnh Lâm Đồng (1930 - 2000), NXB Chính trị quốc gia, Hà Nội, 2003; Báo Giải Phóng]
 
@@ -9041,6 +9109,10 @@
 
 <!-- id: EVT-2758 -->
 *   **06/11/1979:** Thủ tướng Chính phủ Phạm Văn Đồng phát lệnh khởi công xây dựng Nhà máy Thủy điện Hòa Bình trên sông Đà (tỉnh Hòa Bình) với công suất thiết kế 1.920 MW - công trình thủy điện thế kỷ có quy mô lớn nhất Đông Nam Á thời bấy giờ với sự giúp đỡ to lớn về tài chính và kỹ thuật của Liên Xô, đặt nền móng cốt lõi giải quyết bài toán an ninh năng lượng và phòng chống lũ lụt cho Đồng bằng Bắc Bộ. [Nguồn: Tập đoàn Điện lực Việt Nam (EVN), Công ty Thủy điện Hòa Bình - 30 năm phát triển và cống hiến, NXB Công Thương, 2018; Báo Nhân Dân số ra ngày 07/11/1979]
+
+![Nhà máy Thủy điện Hòa Bình trên sông Đà](images/event_20260928_194716.webp)
+
+*Nguồn: Nhà máy Thủy điện Hòa Bình trên sông Đà, công trình thủy điện thế kỷ biểu tượng cho tình hữu nghị Việt - Xô khởi công năm 1979. Ảnh: Tycho / Wikimedia Commons, CC BY-SA 3.0*
 
 <!-- id: EVT-2759 -->
 *   **20/12/1979:** Liệt sĩ Phan Đình Linh được Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân và Huân chương Chiến công hạng Ba vì sự hy sinh oanh liệt tại cao điểm 815. [Nguồn: Quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ngày 20/12/1979 của Chủ tịch nước; Sư đoàn 3 Sao Vàng, Lịch sử Sư đoàn 3 Sao Vàng, NXB Quân đội nhân dân, 2005]
@@ -10123,6 +10195,10 @@
 <!-- id: EVT-3104 -->
 *   **01/08/2010:** Khu Trung tâm Hoàng thành Thăng Long được UNESCO công nhận là di sản. [Nguồn: Báo Nhân Dân - Kỷ niệm 10 năm Hoàng thành Thăng Long được công nhận là Di sản văn hóa thế giới, https://nhandan.vn/ky-niem-10-nam-hoang-thanh-thang-long-duoc-cong-nhan-la-di-san-van-hoa-the-gioi-post625445.html]
 
+![Khu Trung tâm Hoàng thành Thăng Long](images/event_20260928_194720.webp)
+
+*Nguồn: Khu di tích Trung tâm Hoàng thành Thăng Long (Hà Nội), Di sản Văn hóa Thế giới được UNESCO vinh danh năm 2010. Ảnh: katiebordner / Wikimedia Commons, CC BY 2.0*
+
 <!-- id: EVT-3105 -->
 *   **10/09/2010:** "Con đường gốm sứ" ven sông Hồng (Hà Nội) được công nhận là bức tranh gốm sứ dài nhất thế giới. [Nguồn: Tổ chức Kỷ lục Guinness Thế giới (Guinness World Records), Giấy chứng nhận Bức tranh gốm dài nhất thế giới ngày 10/09/2010; Báo Hà Nội Mới; Báo Nhân Dân]
 
@@ -10255,6 +10331,10 @@
 <!-- id: EVT-3147 -->
 *   **29/03/2013:** Nhân kỷ niệm 38 năm Ngày Giải phóng thành phố Đà Nẵng, thành phố Đà Nẵng chính thức khánh thành và đưa vào sử dụng hai cây cầu biểu tượng bắc qua sông Hàn: **Cầu Rồng** và **Cầu Trần Thị Lý** mới (cầu dây văng hiện đại có trụ tháp nghiêng mô phỏng hình cánh buồm vươn ra biển lớn, được đặt theo tên nữ Anh hùng Lực lượng vũ trang nhân dân Trần Thị Lý). [Nguồn: UBND Thành phố Đà Nẵng, Lễ khánh thành công trình Cầu Rồng và Cầu Trần Thị Lý ngày 29/03/2013; Báo Đà Nẵng số ra ngày 30/03/2013; Báo Tuổi Trẻ]
 
+![Cầu Rồng bắc qua sông Hàn tại Đà Nẵng](images/event_20260928_194723.webp)
+
+*Nguồn: Cầu Rồng bắc qua sông Hàn (Đà Nẵng), công trình cầu thép hiện đại độc đáo khánh thành năm 2013. Ảnh: Person-with-No Name / Wikimedia Commons, CC BY 2.0*
+
 <!-- id: EVT-3148 -->
 *   **30/04/2013:** Tổ chức Kỷ lục Guinness Thế giới chính thức công nhận Hang Sơn Đoòng là hang động lớn nhất thế giới. [Nguồn: Tổ chức Kỷ lục Guinness Thế giới (Guinness World Records), Giấy chứng nhận Hang Sơn Đoòng là hang động tự nhiên lớn nhất thế giới, 2013; Báo Quảng Bình; Báo Tuổi Trẻ]
 
@@ -10332,6 +10412,10 @@
 
 <!-- id: EVT-3173 -->
 *   **23/06/2014:** Quần thể danh thắng Tràng An được UNESCO công nhận là di sản. [Nguồn: UNESCO, Quyết định của Ủy ban Di sản Thế giới tại kỳ họp thứ 38 (Doha, 2014); Ban Quản lý Quần thể danh thắng Tràng An; Báo Nhân Dân số ra ngày 24/06/2014]
+
+![Quần thể danh thắng Tràng An tại Ninh Bình](images/event_20260928_194728.webp)
+
+*Nguồn: Quần thể danh thắng Tràng An (Ninh Bình), Di sản Thế giới hỗn hợp đầu tiên của Việt Nam được UNESCO ghi danh năm 2014. Ảnh: Jakub Hałun / Wikimedia Commons, CC BY 4.0*
 
 <!-- id: EVT-3174 -->
 *   **23/07/2014:** Chủ tịch nước ký quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho 3 cán bộ, đội viên Thanh niên xung phong (TNXP) tiêu biểu phục vụ Chiến dịch Điện Biên Phủ: Cao Xuân Thọ (Đội trưởng Đội phá bom, Đại đội 404 thuộc Đội 40 TNXP, phụ trách phá bom nổ chậm thông đường tại "tọa độ lửa" ngã ba Cò Nòi và đường ngầm Hát Lót, Sơn La), Nguyễn Tiến Thụ (Đội phó Đội phá bom, Đại đội 404 thuộc Đội 40 TNXP, dũng cảm cùng đồng đội phá bom thông tuyến chi viện chiến dịch), và Trịnh Văn Huyền (chiến sĩ TNXP phục vụ tại ngã ba Cò Nòi và đèo Pha Đin, có nhiều sáng kiến rà phá bom dũng cảm, gan dạ, nhiều lần được Bác Hồ khen ngợi). [Nguồn: Quyết định số 1673/QĐ-CTN ngày 23/07/2014 của Chủ tịch nước phong tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2014]
