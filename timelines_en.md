@@ -7137,7 +7137,7 @@
 *   **1959:** Huynh Tan Phat operated in the "Iron Triangle" area (Cu Chi - Trang Bang - Ben Cat). [Source: Ben Tre Provincial Party Committee, Ben Tre Dong Khoi - History and Lessons, National Political Publishing House, Hanoi, 2010; Nguyen Thi Dinh, No Name in the Roster]
 
 <!-- id: EVT-2152 -->
-*   **1959 - 1960:** Dinh Thi Van's intelligence network meticulously investigated the defense system of the Saigon army south of the 17th parallel, providing vital information to support the opening of the Truong Son strategic supply route. [Source: Larry Berman, Perfect Spy: The Incredible Double Life of Pham Xuan An, HarperCollins, New York, 2007; VNA Publishing House, Hanoi, 2007]
+*   **1959 - 1960:** Dinh Thi Van's intelligence network meticulously investigated the defense system of the Saigon army south of the 17th parallel, providing vital information to support the opening of the Truong Son strategic supply route. [Source: People's Army Newspaper - Dinh Thi Van: The Heroic Female Intelligence Officer, https://www.qdnd.vn/phong-su-dieu-tra/ky-su/bai-1-dinh-thi-van-nu-anh-hung-uy-vu-bat-nang-khuat-258982; Dinh Thi Van, In Search of Comrades, Women's Publishing House]
 
 <!-- id: EVT-2153 -->
 *   **1959:** President Ho Chi Minh together with General Vo Nguyen Giap attended and encouraged athletes at a mass sports event in Hanoi, demonstrating the Party and State's care for the physical training movement following Uncle Ho's example. [Source: Tra Vinh Provincial Party Committee, Heroic Vietnamese Mothers of Tra Vinh Province, Dong Nai Publishing House, 2014]
@@ -7855,7 +7855,7 @@
 * **20/12/1966:** Martyr To Thi Huynh (Deputy Commander of Luong Hoa Commune Military Command, female guerrilla squad leader) heroically sacrificed her life defending the base during a counter-sweep battle. [Source: Military Region 7 High Command, History of the Saigon - Gia Dinh Commandos (1945 - 1975), People's Army Publishing House, Hanoi, 2010; Saigon Commando Weapons Cache Relic]
 
 <!-- id: EVT-2371 -->
-*   **1967:** The family of Nguyễn Văn Trỗi secretly exhumed and reinterred his remains at Văn Giáp Cemetery in District 2, Saigon, planting trees around the grave to conceal it from enemy authorities. [Source: Larry Berman, Perfect Spy: The Incredible Double Life of Pham Xuan An, HarperCollins, New York, 2007; General Department II - Ministry of National Defense]
+*   **1967:** The family of Nguyễn Văn Trỗi secretly exhumed and reinterred his remains at Văn Giáp Cemetery in District 2, Saigon, planting trees around the grave to conceal it from enemy authorities. [Source: Tuoi Tre Newspaper - Relocating the Grave of Hero Nguyen Van Troi to HCMC Martyrs Cemetery, https://tuoitre.vn/di-doi-phan-mo-anh-hung-nguyen-van-troi-ve-nghia-trang-liet-si-tp-hcm-20180415104443916.htm; HCMC Youth Union]
 
 <!-- id: EVT-2372 -->
 *   **1967:** Le Thi Tuyet (Quang Tri) served as a nurse for the Hai Lang district military unit, operating secretly in ru Thi Ong and ru Tra Loc, areas considered as rear bases for guerrillas and wounded soldiers. [Source: Central Committee of Vietnam Women's Union, Mother Suot - Transport Heroine, Women's Publishing House, Hanoi, 1999; Nhan Dan Newspaper]
@@ -8160,9 +8160,6 @@
 * **1969:** Hero of the People's Armed Forces Điểu Cải (Xã đội trưởng Đội du kích Đồng Nai) passed away. [Source: Military Region 7 High Command, History of the Saigon - Gia Dinh Commandos (1945 - 1975), People's Army Publishing House, Hanoi, 2010]
 
 <!-- id: EVT-2465 -->
-* **1969:** Hero of the People's Armed Forces Nguyễn Thị Nê (Nữ du kích Củ Chi, huyện đội phó huyện đội Nam Củ Chi, người được thay mặt Đại hội Anh hùng chiến sĩ thi đua toàn Miền Nam lần thứ 2 (1967) viết thư gửi Bác Hồ để báo cáo tình hình hoạt động cách mạng của lực lượng du kích Củ Chi) passed away. [Source: Larry Berman, Perfect Spy: The Incredible Double Life of Pham Xuan An, HarperCollins, New York, 2007; General Department II - Ministry of National Defense]
-
-<!-- id: EVT-2466 -->
 *   **Jan. 19, 1969:** Raising the NLF Flag atop Notre-Dame Cathedral in Paris (France): On the eve of the opening preparatory session of the four-party Paris Peace Talks on Vietnam, three young Swiss peace activists (Bernard Bachelard, Olivier Parriaux, and Noé Graff) secretly scaled the nearly 100-meter spire of Notre-Dame de Paris to hoist the Liberation flag (half red, half blue with a gold star) measuring nearly 10 square meters. The flag fluttered proudly over Paris all day, creating a worldwide media sensation and focusing international public opinion in solidarity with the just resistance of the Vietnamese people. [Source: Tuoi Tre Newspaper - Raising the Vietnamese flag atop Notre-Dame Cathedral in Paris in 1969 deeply cherished, https://tuoitre.vn/hanh-dong-treo-co-viet-nam-o-nha-tho-duc-ba-paris-nam-1969-rat-dang-tran-trong-20241117185131924.htm]
 
 <!-- id: EVT-2467 -->
@@ -8236,6 +8233,9 @@
 *   **Oct. 21, 1969:** The Prime Minister of the Republic of Vietnam signed **Decree No. 709-ND/NV** merging Dinh Hai Commune (Paracel Islands) into Hoa Long Commune, Hoa Vang District, Quang Nam Province. [Source: Richard Nixon Presidential Library, Address to the Nation on the War in Vietnam, Nov. 3, 1969]
 
 <!-- id: EVT-2489 -->
+*   **Oct. 27, 1969:** Hero of the People's Armed Forces Nguyen Thi Ne (Bay Ne, Commander of the Cu Chi Female Guerrilla Unit and Deputy Commander of the South Cu Chi District Military Command, who represented the unit to send a reporting letter to President Ho Chi Minh in 1967) heroically sacrificed her life during the assault on the Cay Bai strategic hamlet (Phuoc Vinh An commune, Cu Chi). [Source: People's Army Newspaper - Female Guerrilla Commander Sends Letter to Uncle Ho, http://sknc.qdnd.vn/nhan-vat/nu-doi-truong-du-kich-gui-thu-cho-bac-ho-501409; Vietnam Women's Union Portal]
+
+<!-- id: EVT-2466 -->
 *   **Nov. 17, 1969:** At 8:00 AM, Thiều Văn Chỏi single-handedly engaged an enemy platoon of 27 soldiers traversing Bưng Sấu field, killing 13 (including an officer), wounding 8, and capturing 2. This 1-versus-27 victory led enemy troops at Vàm Bưng post to erect a shrine to "Ông Thần Chỏi" in front of their base to pray for safety. [Source: Hau Giang Provincial Military Command, History of the People's Armed Forces of Can Tho (1945 - 2005), People's Army Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2490 -->
@@ -8278,9 +8278,6 @@
 * **1970:** Hero of the People's Armed Forces Lê Văn Dỵ (Tham gia Chiến dịch Điện Biên Phủ) passed away. [Source: Quang Tri Provincial Party Committee, History of Quang Tri Provincial Party Committee, Vol. 2, National Political Publishing House, Hanoi, 2007]
 
 <!-- id: EVT-2503 -->
-* **1970:** Hero of the People's Armed Forces Nguyễn Văn Y (Quyền Trưởng ban An ninh Khu 8 (Trung Nam Bộ); Trưởng ty An ninh tỉnh Mỹ Tho (Tiền Giang), tỉnh Long Châu Sa) passed away. [Source: Larry Berman, Perfect Spy: The Incredible Double Life of Pham Xuan An, HarperCollins, New York, 2007; General Department II - Ministry of National Defense]
-
-<!-- id: EVT-2504 -->
 * **10/02/1970:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Nguyễn Văn Hùng (Chiến sĩ đặc công thủy Quân khu Sài Gòn - Gia Định, Trung Đội Phó đội Công binh LLVT Sài Gòn - Gia Định, chiến sĩ nòng cốt trong nhiệm vụ đánh sập các cây cầu huyết mạch của miền Đông Nam Bộ bao gồm: Ông Nhiêu (Thủ Đức), Chẹt Sậy (Lương Quới),Giồng Quéo (Bình Chánh), Bến Lức (Long An),,). [Source: Party Central Committee, Party Documents, Vol. 31, National Political Publishing House, Hanoi, 2004]
 
 <!-- id: EVT-2505 -->
@@ -8317,6 +8314,9 @@
 *   **Apr. 30 - Jun. 30, 1970:** Over 100,000 US and Saigon troops launched the Cambodian Campaign, conducting 23 large-scale operations up to 80 kilometers deep into Cambodian territory to seek and destroy the COSVN headquarters. [Source: Ho Chi Minh City Women's Union, Life and Revolutionary Career of Comrade Le Thi Rieng, Ho Chi Minh City General Publishing House, 2007]
 
 <!-- id: EVT-2516 -->
+*   **May 12, 1970:** Hero of the People's Armed Forces Nguyen Van Y (real name Nguyen Van Tra, alias Nam Tra, Acting Head of the Security Department of Region 8 - Central Southern Vietnam, former Head of My Tho and Long Chau Sa Provincial Police) passed away in the Dong Thap Muoi base area. [Source: People's Police Newspaper - Nguyen Van Tra: The Police Officer Devoted to the Country, https://cand.vn/Tu-lieu-antg/Nguyen-Van-Tra---nguoi-can-bo-Cong-an-vi-nuoc-quen-than-i298205/; Ministry of Public Security]
+
+<!-- id: EVT-2504 -->
 *   **Jun. 22, 1970:** Doctor and martyr Dang Thuy Tram courageously falls in Duc Pho (Quang Ngai) at age 28 while single-handedly fighting to defend her field clinic and wounded soldiers against a US raid. Her two diary notebooks ("Dang Thuy Tram's Diary") were subsequently saved by former U.S. military intelligence officer Frederic Whitehurst because *"it already has fire in it."* [Source: Hau Giang Provincial Military Command, History of the People's Armed Forces of Can Tho (1945 - 2005), People's Army Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2517 -->
@@ -8585,7 +8585,7 @@
 *   **Dec. 3, 1973:** Eight commandos from Team 5 (Group 10 Rung Sac) attacked the Shell fuel depot at Nha Be, destroying 35 million gallons of gasoline and oil, and many facilities of the enemy. [Source: War Powers Resolution, US Public Law 93-148, 87 Stat. 555, Nov. 7, 1973; Institute of History, Hanoi, 2014]
 
 <!-- id: EVT-2599 -->
-* **03/12/1973:** Martyr Nguyen Cong Bao (Sergeant Major, suicide squad platoon leader, 5th Company, 10th Rung Sac Commando Group) heroically sacrificed his life after raiding and destroying the Nha Be Fuel Depot. [Source: Larry Berman, Perfect Spy: The Incredible Double Life of Pham Xuan An, HarperCollins, New York, 2007; General Department II - Ministry of National Defense]
+* **03/12/1973:** Martyr Nguyen Cong Bao (Sergeant Major, suicide squad platoon leader, 5th Company, 10th Rung Sac Commando Group) heroically sacrificed his life after raiding and destroying the Nha Be Fuel Depot. [Source: Quang Ninh Newspaper - Heroes of the Rung Sac Commandos, https://baoquangninh.vn/nhung-anh-hung-dac-cong-rung-sac-post3354090.html; People's Army Newspaper, https://ct.qdnd.vn/phong-su-dieu-tra/bai-3-tang-hinh-tap-kich-dich-528024]
 
 <!-- id: EVT-2600 -->
 *   **Dec. 9, 1973:** In Saigon, the Faculty of Letters of the University of Saigon in conjunction with the National Cultural Council convened a major scholarly symposium commemorating the 75th anniversary of Trương Vĩnh Ký's passing. The seminar gathered prominent southern intellectuals, reflecting lively academic debates contrasting his pioneering role in romanized culture and journalism against questions regarding his political engagement during early French colonial rule. [Source: Vietnam Women's Union, Portraits of Heroic Vietnamese Women, Women's Publishing House, Hanoi, 2005]

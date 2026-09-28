@@ -7137,7 +7137,7 @@
 *   **1959:** Huỳnh Tấn Phát hoạt động tại vùng "Tam giác sắt" (Củ Chi - Trảng Bàng - Bến Cát). [Nguồn: Tỉnh ủy - UBND tỉnh Bến Tre, Bến Tre Đồng Khởi - Lịch sử và Bài học kinh nghiệm, NXB Chính trị quốc gia, Hà Nội, 2010; Nguyễn Thị Định, Không tên trong sổ bộ]
 
 <!-- id: EVT-2152 -->
-*   **1959 - 1960:** Mạng lưới tình báo do Đinh Thị Vân phụ trách đã điều tra tỉ mỉ hệ thống phòng ngự của ngụy quân Sài Gòn ở nam vĩ tuyến 17, cung cấp thông tin quan trọng hỗ trợ cho việc mở đường Trường Sơn. [Nguồn: Larry Berman, Perfect Spy: The Incredible Double Life of Pham Xuan An, HarperCollins, New York, 2007; NXB Thông tấn, Hà Nội, 2007]
+*   **1959 - 1960:** Mạng lưới tình báo do Đinh Thị Vân phụ trách đã điều tra tỉ mỉ hệ thống phòng ngự của ngụy quân Sài Gòn ở nam vĩ tuyến 17, cung cấp thông tin quan trọng hỗ trợ cho việc mở đường Trường Sơn. [Nguồn: Báo Quân đội nhân dân - Đinh Thị Vân: Nữ anh hùng uy vũ bất năng khuất, https://www.qdnd.vn/phong-su-dieu-tra/ky-su/bai-1-dinh-thi-van-nu-anh-hung-uy-vu-bat-nang-khuat-258982; Đinh Thị Vân, Tôi đi tìm đồng đội, NXB Phụ nữ]
 
 <!-- id: EVT-2153 -->
 *   **1959:** Chủ tịch Hồ Chí Minh cùng Đại tướng Võ Nguyên Giáp đến dự khán và động viên các vận động viên tại hoạt động thể thao quần chúng ở Hà Nội, thể hiện sự quan tâm của Đảng và Nhà nước đối với phong trào rèn luyện thân thể theo gương Bác Hồ vĩ đại. [Nguồn: Ban Tuyên giáo Tỉnh ủy Trà Vinh, Bà mẹ Việt Nam anh hùng tỉnh Trà Vinh, NXB Đồng Nai, 2014]
@@ -7855,7 +7855,7 @@
 * **20/12/1966:** Liệt sĩ Tô Thị Huỳnh (Xã đội phó xã Lương Hòa, Tiểu đội trưởng nữ du kích) anh dũng hy sinh trong trận chống càn bảo vệ căn cứ. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Biệt động Sài Gòn - Gia Định (1945 - 1975), NXB Quân đội nhân dân, Hà Nội, 2010; Di tích Hầm chứa vũ khí Biệt động Sài Gòn]
 
 <!-- id: EVT-2371 -->
-*   **1967:** Gia đình Nguyễn Văn Trỗi bí mật cải táng hài cốt ông về Nghĩa trang Văn Giáp (Quận 2, Sài Gòn), trồng cây xung quanh để che mắt ngụy quyền Sài Gòn. [Nguồn: Larry Berman, Điệp viên hoàn hảo X6 (Perfect Spy), NXB Thông tấn, Hà Nội, 2007; Tổng cục II - Bộ Quốc phòng]
+*   **1967:** Gia đình Nguyễn Văn Trỗi bí mật cải táng hài cốt ông về Nghĩa trang Văn Giáp (Quận 2, Sài Gòn), trồng cây xung quanh để che mắt ngụy quyền Sài Gòn. [Nguồn: Báo Tuổi Trẻ - Di dời phần mộ anh hùng Nguyễn Văn Trỗi về Nghĩa trang Liệt sĩ TP.HCM, https://tuoitre.vn/di-doi-phan-mo-anh-hung-nguyen-van-troi-ve-nghia-trang-liet-si-tp-hcm-20180415104443916.htm; Thành đoàn TP. Hồ Chí Minh]
 
 <!-- id: EVT-2372 -->
 *   **1967:** Lê Thị Tuyết (Quảng Trị) làm y tá Huyện đội Hải Lăng, thường xuyên hoạt động bí mật tại khu vực rú Thi Ông, rú Trà Lộc, nơi được coi là hậu cứ của bộ đội và du kích. [Nguồn: Trung ương Hội Liên hiệp Phụ nữ Việt Nam, Mẹ Suốt - Anh hùng ngành Giao thông Vận tải, NXB Phụ nữ, Hà Nội, 1999; Báo Nhân Dân]
@@ -8160,9 +8160,6 @@
 * **1969:** Anh hùng Lực lượng vũ trang nhân dân Điểu Cải (Xã đội trưởng Đội du kích Đồng Nai) từ trần. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Biệt động Sài Gòn - Gia Định (1945 - 1975), NXB Quân đội nhân dân, Hà Nội, 2010]
 
 <!-- id: EVT-2465 -->
-* **1969:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Thị Nê (Nữ du kích Củ Chi, huyện đội phó huyện đội Nam Củ Chi, người được thay mặt Đại hội Anh hùng chiến sĩ thi đua toàn Miền Nam lần thứ 2 (1967) viết thư gửi Bác Hồ để báo cáo tình hình hoạt động cách mạng của lực lượng du kích Củ Chi) từ trần. [Nguồn: Larry Berman, Điệp viên hoàn hảo X6 (Perfect Spy), NXB Thông tấn, Hà Nội, 2007; Tổng cục II - Bộ Quốc phòng]
-
-<!-- id: EVT-2466 -->
 *   **19/01/1969:** Sự kiện cắm cờ Mặt trận Dân tộc Giải phóng miền Nam Việt Nam trên đỉnh Nhà thờ Đức Bà Paris (Pháp): Đúng rạng sáng trước ngày khai mạc phiên họp trù bị Hội nghị Paris 4 bên về Việt Nam, ba thanh niên Thụy Sĩ yêu chuộng hòa bình (Bernard Bachelard, Olivier Parriaux và Noé Graff) đã bí mật leo lên ngọn tháp chóp cao gần 100m của Nhà thờ Đức Bà Paris và treo lá cờ giải phóng nửa đỏ nửa xanh sao vàng rộng gần 10m². Lá cờ kiêu hãnh tung bay trên bầu trời Paris suốt cả ngày, gây chấn động truyền thông thế giới và thu hút sự chú ý của dư luận quốc tế ủng hộ cuộc đấu tranh chính nghĩa của nhân dân Việt Nam. [Nguồn: Báo Tuổi Trẻ - Hành động treo cờ Việt Nam ở nhà thờ Đức Bà Paris năm 1969 rất đáng trân trọng, https://tuoitre.vn/hanh-dong-treo-co-viet-nam-o-nha-tho-duc-ba-paris-nam-1969-rat-dang-tran-trong-20241117185131924.htm]
 
 <!-- id: EVT-2467 -->
@@ -8236,6 +8233,9 @@
 *   **21/10/1969:** Thủ tướng Việt Nam Cộng hòa ký **Nghị định số 709-NĐ/NV** sáp nhập xã Định Hải (quần đảo Hoàng Sa) vào xã Hòa Long thuộc quận Hòa Vang, tỉnh Quảng Nam. [Nguồn: Thư viện Tổng thống Richard Nixon, Diễn văn trước quốc dân về chiến tranh Việt Nam, ngày 03/11/1969]
 
 <!-- id: EVT-2489 -->
+*   **27/10/1969:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Thị Nê (Bảy Nê, Đội trưởng Đội nữ du kích Củ Chi, Huyện đội phó Huyện đội Nam Củ Chi, người từng thay mặt Đội nữ du kích Củ Chi viết thư báo công lên Bác Hồ năm 1967) anh dũng hy sinh trong trận tiến công ấp chiến lược Cây Bài (xã Phước Vĩnh An, Củ Chi). [Nguồn: Báo Quân đội nhân dân - Nữ đội trưởng du kích gửi thư cho Bác Hồ, http://sknc.qdnd.vn/nhan-vat/nu-doi-truong-du-kich-gui-thu-cho-bac-ho-501409; Cổng TTĐT Hội Liên hiệp Phụ nữ Việt Nam]
+
+<!-- id: EVT-2466 -->
 *   **17/11/1969:** Vào lúc 8 giờ sáng, Thiều Văn Chỏi một mình phục kích và truy kích một trung đội địch 27 lính tại cánh đồng Bưng Sấu, tiêu diệt 13 tên (có 1 sĩ quan), làm bị thương 8 tên, bắt sống 2 tên. Trận đánh "1 chọi 27" lừng lẫy khiến lính đồn Vàm Bưng lập miếu thờ "Ông Thần Chỏi" ngay trước cửa đồn để cầu an. [Nguồn: Bộ Chỉ huy Quân sự tỉnh Hậu Giang, Lịch sử Lực lượng vũ trang nhân dân tỉnh Cần Thơ (1945 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005]
 
 <!-- id: EVT-2490 -->
@@ -8278,9 +8278,6 @@
 * **1970:** Anh hùng Lực lượng vũ trang nhân dân Lê Văn Dỵ (Tham gia Chiến dịch Điện Biên Phủ) từ trần. [Nguồn: Ban Tuyên giáo Tỉnh ủy Quảng Trị, Lịch sử Đảng bộ tỉnh Quảng Trị, tập 2, NXB Chính trị quốc gia, Hà Nội, 2007]
 
 <!-- id: EVT-2503 -->
-* **1970:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Y (Quyền Trưởng ban An ninh Khu 8 (Trung Nam Bộ); Trưởng ty An ninh tỉnh Mỹ Tho (Tiền Giang), tỉnh Long Châu Sa) từ trần. [Nguồn: Larry Berman, Điệp viên hoàn hảo X6 (Perfect Spy), NXB Thông tấn, Hà Nội, 2007; Tổng cục II - Bộ Quốc phòng]
-
-<!-- id: EVT-2504 -->
 * **10/02/1970:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Văn Hùng (Chiến sĩ đặc công thủy Quân khu Sài Gòn - Gia Định, Trung Đội Phó đội Công binh LLVT Sài Gòn - Gia Định, chiến sĩ nòng cốt trong nhiệm vụ đánh sập các cây cầu huyết mạch của miền Đông Nam Bộ bao gồm: Ông Nhiêu (Thủ Đức), Chẹt Sậy (Lương Quới),Giồng Quéo (Bình Chánh), Bến Lức (Long An),,). [Nguồn: Ban Chấp hành Trung ương Đảng, Văn kiện Đảng Toàn tập, tập 31, NXB Chính trị quốc gia, Hà Nội, 2004]
 
 <!-- id: EVT-2505 -->
@@ -8317,6 +8314,9 @@
 *   **30/04 - 30/06/1970:** Hơn 10 vạn quân Mỹ và ngụy quân Sài Gòn mở Chiến dịch Campuchia, thực hiện 23 cuộc hành quân ồ ạt đánh sâu vào đất Campuchia từ 30 đến 80 km nhằm truy tìm và tiêu diệt cơ quan đầu não Trung ương Cục miền Nam. [Nguồn: Hội Liên hiệp Phụ nữ TP. Hồ Chí Minh, Cuộc đời và sự nghiệp đồng chí Lê Thị Riêng, NXB Tổng hợp TP. Hồ Chí Minh, 2007]
 
 <!-- id: EVT-2516 -->
+*   **12/05/1970:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Văn Y (tên thật là Nguyễn Văn Trà, bí danh Năm Trà, Quyền Trưởng ban An ninh Khu 8 - Trung Nam Bộ, nguyên Trưởng ty Công an tỉnh Mỹ Tho và Long Châu Sa) từ trần tại vùng căn cứ Đồng Tháp Mười. [Nguồn: Báo Công an nhân dân - Nguyễn Văn Trà: Người cán bộ Công an vì nước quên thân, https://cand.vn/Tu-lieu-antg/Nguyen-Van-Tra---nguoi-can-bo-Cong-an-vi-nuoc-quen-than-i298205/; Bộ Công an]
+
+<!-- id: EVT-2504 -->
 *   **22/06/1970:** Bác sĩ, liệt sĩ Đặng Thùy Trâm anh dũng hy sinh tại chiến trường Đức Phổ (Quảng Ngãi) khi mới 28 tuổi trong lúc một mình chiến đấu bảo vệ trạm xá và thương binh trước trận càn của quân Mỹ. Hai cuốn nhật ký của bà ("Nhật ký Đặng Thùy Trâm") sau đó được cựu sĩ quan quân báo Mỹ Frederic Whitehurst lưu giữ vì *"bản thân nó đã có lửa"*. [Nguồn: Bộ Chỉ huy Quân sự tỉnh Hậu Giang, Lịch sử Lực lượng vũ trang nhân dân tỉnh Cần Thơ (1945 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005]
 
 <!-- id: EVT-2517 -->
@@ -8585,7 +8585,7 @@
 *   **03/12/1973:** 8 chiến sĩ đặc công thuộc Đội 5 (Đoàn 10 Rừng Sác) tập kích kho xăng Nhà Bè, thiêu hủy 35 triệu gallon xăng dầu và nhiều cơ sở vật chất của địch. [Nguồn: Đạo luật Quyền lực Chiến tranh, Công luật Hoa Kỳ 93-148 ngày 07/11/1973; Viện Sử học, Hà Nội, 2014]
 
 <!-- id: EVT-2599 -->
-* **03/12/1973:** Liệt sĩ Nguyễn Công Bao (Thượng sĩ, Trung đội trưởng chiến sĩ cảm tử Đại đội 5, Đoàn 10 Đặc công Rừng Sác) anh dũng hy sinh sau trận tập kích thiêu hủy Tổng kho xăng dầu Nhà Bè. [Nguồn: Larry Berman, Điệp viên hoàn hảo X6 (Perfect Spy), NXB Thông tấn, Hà Nội, 2007; Tổng cục II - Bộ Quốc phòng]
+* **03/12/1973:** Liệt sĩ Nguyễn Công Bao (Thượng sĩ, Trung đội trưởng chiến sĩ cảm tử Đại đội 5, Đoàn 10 Đặc công Rừng Sác) anh dũng hy sinh sau trận tập kích thiêu hủy Tổng kho xăng dầu Nhà Bè. [Nguồn: Báo Quảng Ninh - Những anh hùng đặc công Rừng Sác, https://baoquangninh.vn/nhung-anh-hung-dac-cong-rung-sac-post3354090.html; Báo Quân đội nhân dân, https://ct.qdnd.vn/phong-su-dieu-tra/bai-3-tang-hinh-tap-kich-dich-528024]
 
 <!-- id: EVT-2600 -->
 *   **09/12/1973:** Tại Sài Gòn, Đại học Văn khoa Sài Gòn phối hợp cùng Hội đồng Văn hóa Quốc gia tổ chức cuộc hội thảo khoa học lớn nhân kỷ niệm 75 năm ngày mất của Trương Vĩnh Ký. Hội thảo quy tụ đông đảo học giả miền Nam, phản ánh cuộc tranh luận học thuật sôi nổi xoay quanh hai luồng ý kiến: khẳng định công lao khai sáng văn hóa, báo chí chữ Quốc ngữ và đặt vấn đề về trách nhiệm chính trị của ông trong thời kỳ đầu Pháp đô hộ. [Nguồn: Hội Liên hiệp Phụ nữ Việt Nam, Chân dung Phụ nữ Việt Nam anh hùng, NXB Phụ nữ, Hà Nội, 2005]
