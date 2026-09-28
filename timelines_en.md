@@ -7441,11 +7441,11 @@
 *   **1964:** Ut Tich was admitted to the Southern People's Revolutionary Party. [Source: Vietnam Buddhist Sangha, Vietnamese Buddhism in the 20th Century, Religious Publishing House, Hanoi, 2001]
 
 <!-- id: EVT-2242 -->
-*   **1964 - 1967:** Following the Gulf of Tonkin incident, Mother Suot, despite being nearly 60 years old, volunteered to row a wooden boat across the Nhat Le River (Quang Binh) under fierce US bombing. She safely transported thousands of cadres, wounded soldiers, and weapons, making an estimated 1,400 trips per year. [Source: Vietnam Buddhist Sangha, Vietnamese Buddhism in the 20th Century, Religious Publishing House, Hanoi, 2001]
+*   **1964 - 1967:** Following the Gulf of Tonkin incident, Mother Suot, despite being nearly 60 years old, volunteered to row a wooden boat across the Nhat Le River (Quang Binh) under fierce US bombing. She safely transported thousands of cadres, wounded soldiers, and weapons, making an estimated 1,400 trips per year. [Source: Vietnam Women's Newspaper, Vietnamese Mothers - a Monument of Art, https://phunuvietnam.vn/me-viet-sung-sung-mot-tuong-dai-nghe-thuat-2025072515340946.htm; Vietnam Women's Union]
 
-![Historical Image](images/event_20260924_124310.webp)
+![Historical Image](images/event_20260928_220030.webp)
 
-*Source: Me Suot statue by the Nhat Le River, Dong Hoi, Quang Binh (Photo: Linhcandng / CC BY-SA 3.0)*
+*Source: Mother Suot rowing her boat across the Nhat Le River, Quang Binh (Documentary photo / Wikimedia Commons, Public domain)*
 
 <!-- id: EVT-2243 -->
 *   **1964:** The Hanoi Film Studio, in collaboration with the Vietnam People's Army Cinema, produced the film "Người chiến sĩ trẻ" (The Young Soldier), vividly bringing the life and heroic sacrifices of Cù Chính Lan to the screen to inspire future generations. [Source: Vietnam Buddhist Sangha, Vietnamese Buddhism in the 20th Century, Religious Publishing House, Hanoi, 2001]
@@ -7585,6 +7585,10 @@
 
 <!-- id: EVT-2286 -->
 *   **Feb. 7, 1965:** The US Air Force launched a massive bombing campaign on Dong Hoi with 160 modern jet sorties. Amidst the intense bombardment, Mother Suot bravely continued rowing her boat across the Nhat Le River to transport troops and ammunition. During February 7 and 8, the local armed forces shot down 14 US aircraft. [Source: Ho Chi Minh City Youth Union, Shining Examples of Uncle Ho's Generation of Youth Union Members, Tre Publishing House, 2000]
+
+![Historical Image](images/event_20260928_220030_1.webp)
+
+*Source: Hero Nguyen Thi Suot at the Nhat Le River ferry (Documentary photo / Vietnam Women's Newspaper)*
 
 <!-- id: EVT-2287 -->
 *   **Feb. 14 - Apr. 28, 1965:** Five US warships were sunk or set on fire at the Nhat Le sea by the armed forces and people of Quang Binh. [Source: Department of Propaganda and Training, Heroes of the People's Armed Forces in the Resistance against French Colonialism, People's Army Publishing House, Hanoi, 1996]
@@ -9955,6 +9959,10 @@
 
 <!-- id: EVT-3028 -->
 *   **Sep. 2, 2003:** A 7-meter-tall monument and memorial complex for Mother Suot, created by sculptor Phan Dinh Tien, was inaugurated by the Nhat Le River in Dong Hoi, Quang Binh. [Source: Dong Hoi City People's Committee, Mother Suot Monument by Nhat Le River Project Dossier; Quang Binh Newspaper, Sept. 3, 2003]
+
+![Historical Image](images/event_20260924_124310.webp)
+
+*Source: Me Suot statue by the Nhat Le River, Dong Hoi, Quang Binh (Photo: Linhcandng / CC BY-SA 3.0)*
 
 <!-- id: EVT-3029 -->
 *   **Nov. 7, 2003:** Hue Royal Court Music (Nhã nhạc) was recognized by UNESCO as the first intangible heritage. [Source: UNESCO, Proclamation of Nha Nhac, Vietnamese Court Music as a Masterpiece of Oral and Intangible Heritage, Nov. 7, 2003; Hue Monuments Conservation Center; Nhan Dan Newspaper]

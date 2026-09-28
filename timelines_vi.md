@@ -7441,11 +7441,11 @@
 *   **1964:** Út Tịch được kết nạp vào Đảng Nhân dân cách mạng miền Nam. [Nguồn: Giáo hội Phật giáo Việt Nam, Phật giáo Việt Nam thế kỷ XX, NXB Tôn giáo, Hà Nội, 2001]
 
 <!-- id: EVT-2242 -->
-*   **1964 - 1967:** Sau Sự kiện Vịnh Bắc Bộ, dù đã gần 60 tuổi, Mẹ Suốt vẫn xung phong chèo đò ngang qua sông Nhật Lệ (Quảng Bình) dưới làn mưa bom bão đạn của không quân Mỹ. Bà đã vận chuyển an toàn hàng ngàn lượt cán bộ, thương binh và vũ khí, ước tính mỗi năm thực hiện tới 1.400 chuyến đò. [Nguồn: Giáo hội Phật giáo Việt Nam, Phật giáo Việt Nam thế kỷ XX, NXB Tôn giáo, Hà Nội, 2001]
+*   **1964 - 1967:** Sau Sự kiện Vịnh Bắc Bộ, dù đã gần 60 tuổi, Mẹ Suốt vẫn xung phong chèo đò ngang qua sông Nhật Lệ (Quảng Bình) dưới làn mưa bom bão đạn của không quân Mỹ. Bà đã vận chuyển an toàn hàng ngàn lượt cán bộ, thương binh và vũ khí, ước tính mỗi năm thực hiện tới 1.400 chuyến đò. [Nguồn: Báo Phụ nữ Việt Nam, Mẹ Việt - sừng sững một tượng đài nghệ thuật, https://phunuvietnam.vn/me-viet-sung-sung-mot-tuong-dai-nghe-thuat-2025072515340946.htm; Trung ương Hội Liên hiệp Phụ nữ Việt Nam]
 
-![Hình ảnh tư liệu](images/event_20260924_124310.webp)
+![Hình ảnh tư liệu](images/event_20260928_220030.webp)
 
-*Nguồn: Tượng Mẹ Suốt bên sông Nhật Lệ, Đồng Hới, Quảng Bình (Ảnh: Linhcandng / CC BY-SA 3.0)*
+*Nguồn: Mẹ Suốt chèo đò trên sông Nhật Lệ, Quảng Bình (Ảnh tư liệu / Wikimedia Commons, Public domain)*
 
 <!-- id: EVT-2243 -->
 *   **1964:** Xưởng phim Hà Nội phối hợp cùng Điện ảnh Quân đội nhân dân Việt Nam sản xuất bộ phim "Người chiến sĩ trẻ", khắc họa chân thực và sinh động cuộc đời cũng như sự hy sinh anh dũng của Cù Chính Lan để giáo dục truyền thống cho thế hệ trẻ. [Nguồn: Giáo hội Phật giáo Việt Nam, Phật giáo Việt Nam thế kỷ XX, NXB Tôn giáo, Hà Nội, 2001]
@@ -7585,6 +7585,10 @@
 
 <!-- id: EVT-2286 -->
 *   **07/02/1965:** Không lực Hoa Kỳ huy động 160 lần chiếc máy bay phản lực ồ ạt ném bom thị xã Đồng Hới. Giữa lúc đạn bom ác liệt, Mẹ Suốt vẫn hiên ngang chèo đò đưa bộ đội sang sông và vận chuyển đạn dược. Trong hai ngày 7 và 8 tháng 2, quân và dân Đồng Hới đã bắn rơi 14 máy bay Mỹ. [Nguồn: Thành đoàn TP. Hồ Chí Minh, Gương sáng đoàn viên thế hệ Bác Hồ, NXB Trẻ, TP. Hồ Chí Minh, 2000]
+
+![Hình ảnh tư liệu](images/event_20260928_220030_1.webp)
+
+*Nguồn: Anh hùng Nguyễn Thị Suốt trên bến đò sông Nhật Lệ (Ảnh tư liệu / Báo Phụ nữ Việt Nam)*
 
 <!-- id: EVT-2287 -->
 *   **14/02 - 28/04/1965:** 5 tàu chiến Mỹ bị bắn chìm và bắn cháy tại vùng biển Nhật Lệ bởi quân và dân Quảng Bình. [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân trong kháng chiến chống thực dân Pháp, NXB Quân đội nhân dân, Hà Nội, 1996]
@@ -9955,6 +9959,10 @@
 
 <!-- id: EVT-3028 -->
 *   **02/09/2003:** Tượng đài Mẹ Suốt (cao 7m) và quần thể khu tưởng niệm do nhà điêu khắc Phan Đình Tiến sáng tác được cắt băng khánh thành bên dòng sông Nhật Lệ, Đồng Hới, Quảng Bình. [Nguồn: UBND Thành phố Đồng Hới, Hồ sơ công trình Tượng đài Mẹ Suốt bên sông Nhật Lệ; Báo Quảng Bình số ra ngày 03/09/2003]
+
+![Hình ảnh tư liệu](images/event_20260924_124310.webp)
+
+*Nguồn: Tượng Mẹ Suốt bên sông Nhật Lệ, Đồng Hới, Quảng Bình (Ảnh: Linhcandng / CC BY-SA 3.0)*
 
 <!-- id: EVT-3029 -->
 *   **07/11/2003:** Nhã nhạc cung đình Huế được UNESCO công nhận là di sản phi vật thể đầu tiên. [Nguồn: UNESCO, Quyết định công nhận Nhã nhạc cung đình Huế là Kiệt tác di sản truyền khẩu và phi vật thể nhân loại ngày 07/11/2003; Trung tâm Bảo tồn Di tích Cố đô Huế; Báo Nhân Dân]
