@@ -7074,7 +7074,7 @@
 *Nguồn: Bác Hồ chụp ảnh cùng bé Vương Tiểu Hồng ngày 20/05/1957 tại Hà Nội / Báo Thương hiệu và Công luận*
 
 <!-- id: EVT-2135 -->
-*   **Giữa năm 1957:** Trung ương điều động đồng chí Lê Duẩn ra Hà Nội công tác bên cạnh Chủ tịch Hồ Chí Minh để chuẩn bị cho Đại hội III của Đảng và hoạch định chiến lược cách mạng cả nước. [Nguồn: Tổng cục II - Bộ Quốc phòng, Lịch sử Tình báo Quốc phòng Việt Nam (1945 - 2015), NXB Quân đội nhân dân, Hà Nội, 2015]
+*   **Giữa năm 1957:** Trung ương điều động đồng chí Lê Duẩn ra Hà Nội công tác bên cạnh Chủ tịch Hồ Chí Minh để chuẩn bị cho Đại hội III của Đảng và hoạch định chiến lược cách mạng cả nước. [Nguồn: Báo Nhân Dân, "Tổng Bí thư Lê Duẩn – Nhà lãnh đạo kiệt xuất của Đảng và dân tộc"; Ban Chấp hành Trung ương Đảng, Văn kiện Đảng Toàn tập, tập 18, NXB Chính trị quốc gia, Hà Nội, 2002]
 
 <!-- id: EVT-2136 -->
 *   **08/07/1957:** Chủ tịch Hồ Chí Minh dẫn đầu Đoàn đại biểu Đảng và Chính phủ Việt Nam thăm hữu nghị chính thức Cộng hòa Dân chủ Nhân dân Triều Tiên, được Chủ tịch Kim Nhật Thành đón tiếp trọng thể tại sân bay Sunan (Bình Nhưỡng). Chuyến thăm mở ra giai đoạn mới cho quan hệ hữu nghị Việt - Triều. [Nguồn: Bảo tàng Hồ Chí Minh - Hồ Chí Minh Biên niên tiểu sử, NXB Chính trị quốc gia Sự thật; Báo Nhân Dân]
@@ -7942,7 +7942,7 @@
 *   **29/09/1967:** Tổng thống Mỹ Lyndon B. Johnson tuyên bố "Công thức San Antonio", sẵn sàng ngưng ném bom miền Bắc nếu Việt Nam Dân chủ Cộng hòa chấp nhận đàm phán. [Nguồn: Thư viện Tổng thống Lyndon B. Johnson, Bài phát biểu tại San Antonio, Texas, ngày 29/09/1967; Viện Sử học]
 
 <!-- id: EVT-2400 -->
-*   **10/1967:** Trung ương Cục miền Nam quyết định giải thể Khu 7 và Quân khu Sài Gòn - Gia Định, lập ra **Khu Trọng điểm** gồm Sài Gòn - Gia Định và các vùng phụ cận, chia làm 6 Phân khu để chuẩn bị cho Tổng tiến công. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Biệt động Sài Gòn - Gia Định (1945 - 1975), NXB Quân đội nhân dân, Hà Nội, 2010]
+*   **10/1967:** Trung ương Cục miền Nam quyết định giải thể Khu 7 và Quân khu Sài Gòn - Gia Định, lập ra **Khu Trọng điểm** gồm Sài Gòn - Gia Định và các vùng phụ cận, chia làm 6 Phân khu để chuẩn bị cho Tổng tiến công. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Lực lượng vũ trang miền Đông Nam Bộ (1945 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005; Viện Lịch sử Quân sự Việt Nam]
 
 <!-- id: EVT-2401 -->
 *   **17/10/1967:** Trận Ông Thành. Cuộc đụng độ giữa Tiểu đoàn 2, Trung đoàn 28 (Sư tử đen) thuộc Sư đoàn 1 Bộ binh Hoa Kỳ và lực lượng Quân Giải phóng miền Nam Việt Nam (2 tiểu đoàn thuộc Trung đoàn 1, Sư đoàn 9) tại suối Ông Thành (Bình Dương). Quân Giải phóng tổ chức phòng thủ, phục kích và tấn công bất ngờ, tiêu diệt hoàn toàn Đại đội A và gây thiệt hại nặng Đại đội D của Mỹ, khiến 64 lính và sĩ quan Mỹ tử trận (bao gồm cả Trung tá tiểu đoàn trưởng Terry Allen). Trận đánh thể hiện hiệu quả của chiến thuật phòng thủ chủ động và phục kích của Quân Giải phóng, mặc dù phía Mỹ không công bố chi tiết trận đánh này đến công chúng cho đến năm 1991. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Kháng chiến chống Mỹ cứu nước (1954 - 1975), tập 3, NXB Chính trị quốc gia, Hà Nội, 2013; David Maraniss, They Marched into Sunlight, 2003]
