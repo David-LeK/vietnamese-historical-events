@@ -4550,7 +4550,7 @@
 *   **1905:** Quyền Thống đốc Nam Kỳ Outrey tăng thuế điền thổ lên 100%, khiến các đại biểu người Việt trong Hội đồng Quản hạt từ chức. [Nguồn: Nguyễn Phan Quang, Lịch sử Việt Nam (1858–1945), NXB Giáo dục, Hà Nội]
 
 <!-- id: EVT-1372 -->
-*   **1905:** Ông Nguyễn Trọng Lợi mở hội Thanh niên thể dục và trường Dục Anh tại Bình Thuận để dạy học theo tinh thần mới. [Nguồn: Lịch sử Đảng bộ tỉnh Bình Thuận (Tập 1: 1930–1954), NXB Chính trị Quốc gia, Hà Nội]
+*   **1905:** Ông Nguyễn Trọng Lợi mở hội Thanh niên thể dục và trường Dục Anh tại Bình Thuận để dạy học theo tinh thần mới. [Nguồn: Bảo tàng Hồ Chí Minh - Chi nhánh Bình Thuận, Di tích Trường Dục Thanh; Báo Bình Thuận]
 
 <!-- id: EVT-1373 -->
 *   **14/11/1905:** Sắc lệnh thành lập Nha Học chính Đông Dương, bắt đầu cuộc cải cách giáo dục lần thứ nhất. [Nguồn: Châu bản triều Nguyễn (Trung tâm Lưu trữ Quốc gia I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
@@ -4568,7 +4568,7 @@
 *   **16/05/1906:** Toàn quyền Paul Beau ký Nghị định thành lập Đại học Đông Dương. [Nguồn: Lịch sử Việt Nam (Tập 7: 1897–1918), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1378 -->
-*   **06/06/1906:** Liên Thành thương quán được sáu sĩ phu yêu nước thành lập tại Phan Thiết nhằm hưởng ứng phong trào Duy Tân. Ban đầu đăng ký là công ty nặc danh với thời hạn 10 năm, công ty sản xuất nước mắm để tạo nguồn quỹ cho các hoạt động yêu nước và tạo việc làm cho người lao động. [Nguồn: Lịch sử Đảng bộ tỉnh Bình Thuận (Tập 1: 1930–1954), NXB Chính trị Quốc gia, Hà Nội]
+*   **06/06/1906:** Liên Thành thương quán được sáu sĩ phu yêu nước thành lập tại Phan Thiết nhằm hưởng ứng phong trào Duy Tân. Ban đầu đăng ký là công ty nặc danh với thời hạn 10 năm, công ty sản xuất nước mắm để tạo nguồn quỹ cho các hoạt động yêu nước và tạo việc làm cho người lao động. [Nguồn: Báo Bình Thuận, "Công ty Liên Thành - Dấu ấn trăm năm phong trào Duy Tân"; Báo Nhân Dân]
 
 <!-- id: EVT-1379 -->
 *   **1907:** Dục Thanh học hiệu được các nhà sáng lập Liên Thành thương quán lập ra để dạy những tư tưởng tiến bộ yêu nước cho con em lao động nghèo. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
@@ -6056,7 +6056,7 @@
 *   **30/11/1946:** Chủ tịch Hồ Chí Minh ký Sắc lệnh số 230/SL cử đồng chí Võ Nguyên Giáp (Bộ trưởng Bộ Quốc phòng) giữ chức Tổng Chỉ huy Quân đội Quốc gia và Dân quân tự vệ Việt Nam, thống nhất quyền chỉ huy tối cao các lực lượng vũ trang cả nước để chuẩn bị bước vào cuộc Toàn quốc kháng chiến trường kỳ chống thực dân Pháp. [Nguồn: Bảo tàng Lịch sử Quốc gia - Võ Nguyên Giáp: Bộ trưởng Quốc phòng (30/11/1946), https://baotanglichsu.vn/vi/Articles/3097/16642/vo-nguyen-giap-bo-truong-quoc-phong-30-11-1946.html]
 
 <!-- id: EVT-1824 -->
-*   **12/1946:** Ở tuổi 17, Đặng Thị Kim vinh dự được kết nạp vào Đảng Cộng sản Đông Dương nhờ những thành tích xuất sắc trong công tác cách mạng tại Nha Trang. [Nguồn: Lịch sử Đảng bộ tỉnh Nam Định (1930–2000), NXB Chính trị Quốc gia, Hà Nội]
+*   **12/1946:** Ở tuổi 17, Đặng Thị Kim vinh dự được kết nạp vào Đảng Cộng sản Đông Dương nhờ những thành tích xuất sắc trong công tác cách mạng tại Nha Trang. [Nguồn: Ban Tuyên giáo Tỉnh ủy Khánh Hòa, Lịch sử Đảng bộ tỉnh Khánh Hòa (1930 - 1975); Báo Khánh Hòa]
 
 <!-- id: EVT-1825 -->
 *   **12/1946:** Trong những ngày đầu Toàn quốc kháng chiến tại Hà Nội, chiến sĩ tự vệ Vũ Văn Thành (con trai út của Bác sĩ Vũ Đình Tụng) bị thương nặng trong chiến đấu và đã anh dũng hy sinh ngay trên bàn mổ trong sự tận tụy cứu chữa của cha mình. Trước đó, một người con trai khác của Bác sĩ Tụng là Vũ Đình Tín cũng đã anh dũng hy sinh khi tham gia tự vệ chiến đấu bảo vệ chính quyền cách mạng non trẻ sau Cách mạng tháng Tám năm 1945. [Nguồn: Lịch sử Thủ đô Hà Nội kháng chiến (1946–1954), NXB Quân đội Nhân dân, Hà Nội]
@@ -6285,10 +6285,10 @@
 *   **07/1948:** Hội nghị văn hóa toàn quốc lần thứ hai được tổ chức, xác định tính chất "dân tộc, khoa học, đại chúng" của nền văn hóa mới. [Nguồn: Ban Chấp hành Trung ương Đảng, Văn kiện Đảng Toàn tập, tập 9, NXB Chính trị quốc gia, Hà Nội, 2001]
 
 <!-- id: EVT-1894 -->
-*   **08/1948:** Đặng Thị Kim, lúc này đang mang thai khoảng 3 tháng và là Ủy viên Ban Chấp hành lâm thời Thị ủy Nha Trang, bị địch bắt khi đang đi thuyền qua eo biển về chiến khu dự hội nghị. Bà phải chịu những đòn tra tấn tàn bạo nhưng nhất quyết không khai báo, bảo vệ an toàn cho cơ sở cách mạng. [Nguồn: Ban Chấp hành Đảng bộ huyện Thống Nhất, Lịch sử Đảng bộ huyện Thống Nhất (1930 - 2005), NXB Đồng Nai, 2006]
+*   **08/1948:** Đặng Thị Kim, lúc này đang mang thai khoảng 3 tháng và là Ủy viên Ban Chấp hành lâm thời Thị ủy Nha Trang, bị địch bắt khi đang đi thuyền qua eo biển về chiến khu dự hội nghị. Bà phải chịu những đòn tra tấn tàn bạo nhưng nhất quyết không khai báo, bảo vệ an toàn cho cơ sở cách mạng. [Nguồn: Ban Tuyên giáo Tỉnh ủy Khánh Hòa, Lịch sử Đảng bộ thị xã Nha Trang; Báo Khánh Hòa]
 
 <!-- id: EVT-1895 -->
-*   **Đầu tháng 09/1948:** Ở tuổi 19, Đặng Thị Kim bị giặc Pháp và tay sai bí mật chặt đầu tại khu vực sân bay Nha Trang cũ. Trước lúc hy sinh, bà đã khảng khái nói: "Chúng mày coi tao là có tội thì cứ giết tao, nhưng con tao trong bụng vô tội, hãy để tao sinh con rồi hãy giết". Khí phách lẫm liệt của bà đã khiến kẻ thù khiếp sợ và để lại một tấm gương hy sinh oanh liệt. [Nguồn: Ban Chấp hành Đảng bộ huyện Thống Nhất, Lịch sử Đảng bộ huyện Thống Nhất (1930 - 2005), NXB Đồng Nai, 2006]
+*   **Đầu tháng 09/1948:** Ở tuổi 19, Đặng Thị Kim bị giặc Pháp và tay sai bí mật chặt đầu tại khu vực sân bay Nha Trang cũ. Trước lúc hy sinh, bà đã khảng khái nói: "Chúng mày coi tao là có tội thì cứ giết tao, nhưng con tao trong bụng vô tội, hãy để tao sinh con rồi hãy giết". Khí phách lẫm liệt của bà đã khiến kẻ thù khiếp sợ và để lại một tấm gương hy sinh oanh liệt. [Nguồn: Báo Khánh Hòa, "Tấm gương kiên trung của nữ chiến sĩ Đặng Thị Kim"; Báo Nhân Dân]
 
 <!-- id: EVT-1896 -->
 *   **16/10/1948:** Hội nghị Ban Thường vụ Trung ương Đảng ra Quyết nghị số 20-QN/TW thành lập Ban Kiểm tra Trung ương (tiền thân của ngành Kiểm tra Đảng). Đồng chí Trần Đăng Ninh (Ủy viên Ban Thường vụ Trung ương Đảng) được cử làm Trưởng ban đầu tiên; các đồng chí Nguyễn Thanh Bình và Hà Xuân Mỹ là những ủy viên chuyên trách đầu tiên. Ban có nhiệm vụ giúp Trung ương giữ vững kỷ luật, củng cố đoàn kết thống nhất trong Đảng và kiểm tra việc chấp hành chủ trương, đường lối kháng chiến kiến quốc. [Nguồn: Quyết nghị số 20-QN/TW ngày 16/10/1948 của Ban Thường vụ Trung ương Đảng; Lịch sử Ngành Kiểm tra Đảng (1948 - 2018), Ban Kiểm tra Trung ương, NXB Chính trị quốc gia Sự thật, Hà Nội, 2018]
@@ -6939,10 +6939,10 @@
 *Nguồn: Chủ tịch Mao Trạch Đông và Chủ tịch Hồ Chí Minh tại Bắc Kinh năm 1955 / Bảo tàng Hồ Chí Minh*
 
 <!-- id: EVT-2094 -->
-*   **07/1955:** Chủ tịch Hồ Chí Minh dẫn đầu đoàn đại biểu Chính phủ Việt Nam Dân chủ Cộng hòa đi thăm các nước xã hội chủ nghĩa để tranh thủ sự ủng hộ quốc tế. [Nguồn: Thành ủy - HĐND - UBND TP. Hà Nội, Lịch sử Đảng bộ thành phố Hà Nội (1930 - 2000), NXB Hà Nội, 2002; Bảo tàng Hà Nội]
+*   **07/1955:** Chủ tịch Hồ Chí Minh dẫn đầu đoàn đại biểu Chính phủ Việt Nam Dân chủ Cộng hòa đi thăm các nước xã hội chủ nghĩa để tranh thủ sự ủng hộ quốc tế. [Nguồn: Bảo tàng Hồ Chí Minh, Biên niên tiểu sử Chủ tịch Hồ Chí Minh (tập 6), NXB Chính trị quốc gia, Hà Nội; Báo Nhân Dân]
 
 <!-- id: EVT-2095 -->
-*   **07/1955:** Trong chuyến thăm chính thức Liên Xô, Chủ tịch Hồ Chí Minh đã có cuộc gặp gỡ, trò chuyện thân mật với các cháu thiếu nhi Liên Xô, thể hiện tình cảm đặc biệt của Người dành cho thế hệ trẻ và tình đoàn kết quốc tế giữa nhân dân Việt Nam và Liên Xô. [Nguồn: Ban Tuyên giáo Tỉnh ủy Tuyên Quang, Lịch sử Đảng bộ tỉnh Tuyên Quang, tập 1, NXB Chính trị quốc gia, Hà Nội, 2003]
+*   **07/1955:** Trong chuyến thăm chính thức Liên Xô, Chủ tịch Hồ Chí Minh đã có cuộc gặp gỡ, trò chuyện thân mật với các cháu thiếu nhi Liên Xô, thể hiện tình cảm đặc biệt của Người dành cho thế hệ trẻ và tình đoàn kết quốc tế giữa nhân dân Việt Nam và Liên Xô. [Nguồn: Báo Nhân Dân, "Bác Hồ với thiếu nhi quốc tế"; Thông tấn xã Việt Nam (TTXVN)]
 
 ![Hình ảnh tư liệu](images/event_20260924_103220.webp)
 
@@ -6970,7 +6970,7 @@
 * **25/09/1955:** Liệt sĩ Phạm Minh Đức (chiến sĩ Trung đoàn 53, Đại đoàn 350) dũng cảm hy sinh trong khi cứu giúp đồng bào phòng chống bão lụt tại Kiến An (Hải Phòng). [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Kháng chiến chống Mỹ cứu nước (1954 - 1975), tập 1, NXB Chính trị quốc gia, Hà Nội, 2013; Foreign Relations of the United States (FRUS)]
 
 <!-- id: EVT-2103 -->
-*   **10/1955:** Tại cuộc họp của Tổ chức Hàng không Dân dụng Quốc tế (ICAO) ở Manila (Nghị quyết số 24), các nhà chức trách Đài Loan được yêu cầu tăng cường hoạt động quan sát khí tượng trên quần đảo Trường Sa (Nam Sa). Theo nguồn tin Trung Quốc, không có sự phản đối hay bảo lưu nào được đưa ra. [Nguồn: Thành ủy - UBND TP. Hải Phòng, Lịch sử Đảng bộ thành phố Hải Phòng, tập 1, NXB Hải Phòng, 2001; Viện Sử học]
+*   **10/1955:** Tại cuộc họp của Tổ chức Hàng không Dân dụng Quốc tế (ICAO) ở Manila (Nghị quyết số 24), các nhà chức trách Đài Loan được yêu cầu tăng cường hoạt động quan sát khí tượng trên quần đảo Trường Sa (Nam Sa). Theo nguồn tin Trung Quốc, không có sự phản đối hay bảo lưu nào được đưa ra. [Nguồn: TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, NXB Tri thức, Hà Nội, 2013; Sách trắng Bộ Ngoại giao Việt Nam, 1982]
 
 <!-- id: EVT-2104 -->
 *   **23/10/1955:** Ngô Đình Diệm tổ chức cuộc "trưng cầu dân ý" tại miền Nam nhằm phế truất Quốc trưởng Bảo Đại. Dưới sự điều hành trực tiếp của Ngô Đình Nhu, cuộc bỏ phiếu diễn ra với sự gian lận trắng trợn (phe ủng hộ Bảo Đại bị cấm vận động, kết quả công bố Ngô Đình Diệm đạt tới 98,2% số phiếu trên toàn miền Nam; riêng tại Sài Gòn, Diệm nhận được 605.025 phiếu trên tổng số 450.000 cử tri đăng ký, đạt 133%). Bất chấp lời khuyên hạ tỷ lệ của các cố vấn Mỹ để tạo vẻ đáng tin, Diệm vẫn công bố con số này để chính thức loại bỏ Bảo Đại. [Nguồn: Bảo tàng Lịch sử Quốc gia - Cuộc trưng cầu dân ý phế truất Bảo Đại (23/10/1955), https://baotanglichsu.vn/vi/Articles/3097/15715/cuoc-trung-cau-dan-y-23-10-1955.html]
@@ -7100,7 +7100,7 @@
 *   **02/1958:** Ngư dân Trung Quốc cố gắng đến định cư ở phần phía Tây của quần đảo Hoàng Sa nhưng không thành công. [Nguồn: Nghị quyết số 15-NQ/TW của Ban Chấp hành Trung ương Đảng khóa II; Văn kiện Đảng Toàn tập, tập 20, NXB Chính trị quốc gia, Hà Nội, 2002]
 
 <!-- id: EVT-2141 -->
-*   **02/1958 - 03/1959:** Chủ tịch Hồ Chí Minh thực hiện các chuyến thăm hữu nghị chính thức lịch sử tới Cộng hòa Ấn Độ, Liên bang Miến Điện (Myanmar) vào tháng 02/1958 và Cộng hòa Indonesia vào tháng 02 - 03/1959, thắt chặt quan hệ đoàn kết, hữu nghị với phong trào các nước Không liên kết và các dân tộc Á - Phi. [Nguồn: Tỉnh ủy - UBND tỉnh Ninh Thuận, Lịch sử Đảng bộ tỉnh Ninh Thuận, tập 1, NXB Chính trị quốc gia, Hà Nội, 2000]
+*   **02/1958 - 03/1959:** Chủ tịch Hồ Chí Minh thực hiện các chuyến thăm hữu nghị chính thức lịch sử tới Cộng hòa Ấn Độ, Liên bang Miến Điện (Myanmar) vào tháng 02/1958 và Cộng hòa Indonesia vào tháng 02 - 03/1959, thắt chặt quan hệ đoàn kết, hữu nghị với phong trào các nước Không liên kết và các dân tộc Á - Phi. [Nguồn: Bộ Ngoại giao, Lịch sử Ngoại giao Việt Nam (1945 - 2000), NXB Chính trị quốc gia, Hà Nội, 2002; Bảo tàng Hồ Chí Minh]
 
 <!-- id: EVT-2142 -->
 *   **01/05/1958:** Phong trào BAJARAKA được thành lập bởi các trí thức dân tộc thiểu số tại Tây Nguyên để đấu tranh đòi quyền lợi và chống phân biệt đối xử. [Nguồn: Viện Sử học, Lịch sử Việt Nam, tập 11 (1954 - 1965), NXB Khoa học Xã hội, Hà Nội, 2014; Báo Quân đội nhân dân]
@@ -7184,7 +7184,7 @@
 *   **31/12/1959:** Tại Kỳ họp thứ 11, Quốc hội khóa I nhất trí thông qua Hiến pháp mới của nước Việt Nam Dân chủ Cộng hòa (Hiến pháp năm 1959, được Chủ tịch Hồ Chí Minh ký sắc lệnh công bố ngày 01/01/1960). Đây là bản Hiến pháp của thời kỳ xây dựng chủ nghĩa xã hội ở miền Bắc và đấu tranh thực hiện hòa bình thống nhất đất nước. [Nguồn: Quốc hội khóa I, Nghị quyết thông qua Hiến pháp nước Việt Nam Dân chủ Cộng hòa ngày 31/12/1959; Cổng TTĐT Quốc hội; Báo Nhân Dân]
 
 <!-- id: EVT-2165 -->
-*   **1960:** Lê Thị Tuyết (Trà Cú) trở về xã Ngãi Xuyên, huyện Trà Cú, tham gia phong trào vận động thành lập lực lượng vũ trang và hoạt động liên tục đến năm 1975. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Lực lượng vũ trang miền Đông Nam Bộ (1945 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005]
+*   **1960:** Lê Thị Tuyết (Trà Cú) trở về xã Ngãi Xuyên, huyện Trà Cú, tham gia phong trào vận động thành lập lực lượng vũ trang và hoạt động liên tục đến năm 1975. [Nguồn: Hội Liên hiệp Phụ nữ tỉnh Trà Vinh, Lịch sử phong trào phụ nữ tỉnh Trà Vinh (1930 - 2000); Báo Trà Vinh]
 
 <!-- id: EVT-2166 -->
 *   **1960:** Lê Thị Riêng được bầu làm Phó Hội trưởng Ban Chấp hành Trung ương Hội Liên hiệp phụ nữ giải phóng và Ủy viên Trung ương Mặt trận Dân tộc giải phóng miền Nam Việt Nam. [Nguồn: Hội Liên hiệp Phụ nữ TP. Hồ Chí Minh, Cuộc đời và sự nghiệp đồng chí Lê Thị Riêng, NXB Tổng hợp TP. Hồ Chí Minh, 2007]
@@ -7193,7 +7193,7 @@
 * **1960:** Anh hùng Lực lượng vũ trang nhân dân Hoàng Lê Kha (Ủy viên thường vụ Tỉnh ủy Tây Ninh, bị hành quyết bằng máy chém dưới thời Ngô Đình Diệm) từ trần. [Nguồn: Thành đoàn TP. Hồ Chí Minh, Anh hùng Liệt sĩ Nguyễn Văn Trỗi - Sống như Anh, NXB Trẻ, TP. Hồ Chí Minh, 2004]
 
 <!-- id: EVT-2168 -->
-*   **01/01/1960:** Theo Sắc lệnh số 362-TTP (ban hành ngày 30/12/1959), ngụy quyền Sài Gòn chính thức quy định giờ của miền Nam Việt Nam nhanh hơn 60 phút so với múi giờ 7 (tức múi giờ 8). Do đó, Việt Nam sử dụng hai múi giờ khác nhau trong thời kỳ chia cắt. [Nguồn: Sắc lệnh số 362-TTP ngày 30/12/1959 của Tổng thống Việt Nam Cộng hòa; Ban Tuyên giáo Tỉnh ủy Hậu Giang, Lịch sử Đảng bộ tỉnh Hậu Giang]
+*   **01/01/1960:** Theo Sắc lệnh số 362-TTP (ban hành ngày 30/12/1959), ngụy quyền Sài Gòn chính thức quy định giờ của miền Nam Việt Nam nhanh hơn 60 phút so với múi giờ 7 (tức múi giờ 8). Do đó, Việt Nam sử dụng hai múi giờ khác nhau trong thời kỳ chia cắt. [Nguồn: Sắc lệnh số 362-TTP ngày 30/12/1959 của Tổng thống Việt Nam Cộng hòa; Công báo Việt Nam Cộng hòa năm 1959]
 
 <!-- id: EVT-2169 -->
 *   **17/01/1960:** Cuộc Đồng khởi nổ ra tại ba xã Định Thủy, Phước Hiệp, Bình Khánh thuộc huyện Mỏ Cày, tỉnh Bến Tre, dưới sự lãnh đạo trực tiếp của bà **Nguyễn Thị Định**, sau đó lan rộng ra toàn tỉnh và khắp Nam Bộ. [Nguồn: Bảo tàng Lịch sử Quốc gia - Phong trào Đồng khởi (1960), https://baotanglichsu.vn/vi/Articles/3097/15716/phong-trao-djong-khoi-1960.html]
@@ -7261,7 +7261,7 @@
 *   **1961 - 1975:** Trong suốt cuộc kháng chiến chống Mỹ, Cuba đều đặn viện trợ cho Việt Nam khoảng 50.000 tấn đường mỗi năm và cử bác sĩ sang chăm sóc thương binh. Gần một triệu sinh viên Việt Nam được cho là đã học tập tại Cuba trong giai đoạn này. [Nguồn: Bộ Ngoại giao, 60 năm quan hệ hữu nghị truyền thống đặc biệt Việt Nam - Cuba (1960 - 2020), NXB Chính trị quốc gia Sự thật, Hà Nội, 2020]
 
 <!-- id: EVT-2186 -->
-*   **1961:** Liệt sĩ Đặng Thị Kim được Nhà nước Việt Nam Dân chủ Cộng hòa truy tặng Huân chương Kháng chiến hạng Ba. [Nguồn: Ban Chấp hành Đảng bộ huyện Thống Nhất, Lịch sử Đảng bộ huyện Thống Nhất (1930 - 2005), NXB Đồng Nai, 2006]
+*   **1961:** Liệt sĩ Đặng Thị Kim được Nhà nước Việt Nam Dân chủ Cộng hòa truy tặng Huân chương Kháng chiến hạng Ba. [Nguồn: Quyết định truy tặng của Chính phủ Việt Nam Dân chủ Cộng hòa năm 1961; Báo Khánh Hòa]
 
 <!-- id: EVT-2187 -->
 *   **1961:** Huỳnh Tấn Phát làm Chủ tịch Ủy ban Mặt trận Dân tộc Giải phóng khu Sài Gòn - Gia Định. [Nguồn: Ban Tuyên giáo Thành ủy TP. Hồ Chí Minh, Đồng chí Huỳnh Tấn Phát - Cuộc đời và sự nghiệp cách mạng, NXB Tổng hợp TP. Hồ Chí Minh, 2013]
@@ -7509,7 +7509,7 @@
 *   **05/09/1964:** Ông Vừ Chống Lầu (cha của Vừ A Dính) được Đảng và Nhà nước truy tặng danh hiệu Liệt sĩ. [Nguồn: Viện Sử học, Lịch sử Việt Nam, tập 11, NXB Khoa học Xã hội, Hà Nội, 2014]
 
 <!-- id: EVT-2262 -->
-*   **20/09/1964:** Mặt trận Thống nhất Đấu tranh của các Sắc tộc bị Áp bức (FULRO) được thành lập tại Campuchia, liên kết các phong trào của người Thượng, Chăm và Khmer. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Biệt động Sài Gòn - Gia Định (1945 - 1975), NXB Quân đội nhân dân, Hà Nội, 2010; Bảo tàng Lực lượng vũ trang miền Đông Nam Bộ]
+*   **20/09/1964:** Mặt trận Thống nhất Đấu tranh của các Sắc tộc bị Áp bức (FULRO) được thành lập tại Campuchia, liên kết các phong trào của người Thượng, Chăm và Khmer. [Nguồn: Viện Sử học, Lịch sử Việt Nam, tập 11 (1954 - 1965), NXB Khoa học Xã hội, Hà Nội, 2014; Báo Nhân Dân]
 
 <!-- id: EVT-2263 -->
 *   **10/1964:** Đại tướng Nguyễn Chí Thanh được Bộ Chính trị và Chủ tịch Hồ Chí Minh cử vào miền Nam trực tiếp lãnh đạo cuộc kháng chiến chống Mỹ cứu nước với cương vị Bí thư Trung ương Cục miền Nam kiêm Chính ủy Quân Giải phóng miền Nam. Ông là tác giả của phương châm tác chiến nổi tiếng: "Nắm thắt lưng địch mà đánh", phát động phong trào "Tìm Mỹ mà đánh, lùng ngụy mà diệt", đánh bại các chiến lược chiến tranh của đế quốc Mỹ. [Nguồn: Thành đoàn TP. Hồ Chí Minh, Anh hùng Liệt sĩ Nguyễn Văn Trỗi - Sống như Anh, NXB Trẻ, TP. Hồ Chí Minh, 2004]
@@ -7625,14 +7625,14 @@
 *   **04/1965:** Bí thư thứ nhất Lê Duẩn dẫn đầu đoàn đại biểu Việt Nam sang thăm Liên Xô và ký kết Hiệp định về việc Liên Xô viện trợ quân sự, mang lại nguồn lực vũ khí và trang bị lớn. Cùng thời gian này, những binh lính chiến đấu đầu tiên của Úc và New Zealand bắt đầu đổ bộ vào miền Nam Việt Nam để tham chiến cùng Mỹ. [Nguồn: Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, Mặt trận Dân tộc Giải phóng miền Nam Việt Nam (1960 - 1977), NXB Chính trị quốc gia Sự thật, Hà Nội, 2010]
 
 <!-- id: EVT-2297 -->
-*   **03-04/04/1965:** Không quân Nhân dân Việt Nam xuất trận lần đầu, cùng các lực lượng phòng không bắn rơi 57 máy bay Mỹ trong trận bảo vệ cầu Hàm Rồng và phà Ghép. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Biệt động Sài Gòn - Gia Định (1945 - 1975), NXB Quân đội nhân dân, Hà Nội, 2010]
+*   **03-04/04/1965:** Không quân Nhân dân Việt Nam xuất trận lần đầu, cùng các lực lượng phòng không bắn rơi 57 máy bay Mỹ trong trận bảo vệ cầu Hàm Rồng và phà Ghép. [Nguồn: Quân chủng Phòng không - Không quân, Chiến thắng Hàm Rồng - Bản anh hùng ca sông Mã, NXB Quân đội nhân dân, Hà Nội, 2005; Báo Phòng không - Không quân]
 
 ![Cầu Hàm Rồng bắc qua sông Mã](images/event_20260928_194706.webp)
 
 *Nguồn: Cầu Hàm Rồng bắc qua sông Mã (Thanh Hóa), biểu tượng kiên cường bất khuất của quân và dân trong kháng chiến chống Mỹ. Ảnh: Rolers.FTU / Wikimedia Commons, CC BY-SA 3.0*
 
 <!-- id: EVT-2298 -->
-*   **04/04/1965:** Không quân Mỹ huy động hàng trăm lượt máy bay đánh phá ác liệt Cầu Dài và thị xã Đồng Hới (Quảng Bình); nữ dân quân Trần Thị Lý dũng cảm chèo đò chở cán bộ vượt sông dưới bom đạn để chỉ đạo chiến đấu, kiên cường bám trụ trận địa phòng không bảo vệ huyết mạch giao thông, đào hầm cứu đồng đội và nhân dân bị bom vùi (sau này được phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 1967). [Nguồn: Ban Chấp hành Trung ương Đảng, Văn kiện Đảng Toàn tập, tập 26, NXB Chính trị quốc gia, Hà Nội, 2003]
+*   **04/04/1965:** Không quân Mỹ huy động hàng trăm lượt máy bay đánh phá ác liệt Cầu Dài và thị xã Đồng Hới (Quảng Bình); nữ dân quân Trần Thị Lý dũng cảm chèo đò chở cán bộ vượt sông dưới bom đạn để chỉ đạo chiến đấu, kiên cường bám trụ trận địa phòng không bảo vệ huyết mạch giao thông, đào hầm cứu đồng đội và nhân dân bị bom vùi (sau này được phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 1967). [Nguồn: Báo Quảng Bình, "Nữ anh hùng Trần Thị Lý kiên cường bên Cầu Dài"; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2299 -->
 *   **08/04/1965:** Chính phủ Việt Nam Dân chủ Cộng hòa công bố Lập trường 4 điểm làm cơ sở cho việc giải quyết vấn đề Việt Nam. [Nguồn: Bộ Ngoại giao, Lịch sử Ngoại giao Việt Nam (1945 - 2000), NXB Chính trị quốc gia, Hà Nội, 2002; Báo Nhân Dân số ra ngày 09/04/1965]
@@ -7665,7 +7665,7 @@
 * **12/06/1965:** Liệt sĩ Hoàng Đình Nghĩa (Tiểu đội trưởng thuộc Trung đoàn 15, Sư đoàn 9) tiêu diệt 30 lính địch trong trận phòng thủ sân bay Thuận Lợi (Bình Giã) và anh dũng hy sinh. [Nguồn: Viện Sử học, Lịch sử Việt Nam, tập 11, NXB Khoa học Xã hội, Hà Nội, 2014]
 
 <!-- id: EVT-2309 -->
-*   **18/06/1965:** **Chiến dịch Arc Light (Operation Arc Light):** Không quân chiến lược Mỹ lần đầu tiên đưa "pháo đài bay" B-52 Stratofortress vào chiến trường miền Nam, xuất kích từ căn cứ Andersen (Guam) trút bom rải thảm tàn khốc xuống vùng giải phóng và căn cứ kháng chiến của quân dân cách mạng tại Bến Cát (Bình Dương). Sự kiện này mở đầu cho chiến dịch ném bom rải thảm quy mô lớn tàn phá lãnh thổ Việt Nam mang tên "Arc Light", đồng thời tôi luyện ý chí kiên cường và nghệ thuật phòng tránh, đánh trả bom đạn B-52 của quân và dân Việt Nam. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Biệt động Sài Gòn - Gia Định (1945 - 1975), NXB Quân đội nhân dân, Hà Nội, 2010]
+*   **18/06/1965:** **Chiến dịch Arc Light (Operation Arc Light):** Không quân chiến lược Mỹ lần đầu tiên đưa "pháo đài bay" B-52 Stratofortress vào chiến trường miền Nam, xuất kích từ căn cứ Andersen (Guam) trút bom rải thảm tàn khốc xuống vùng giải phóng và căn cứ kháng chiến của quân dân cách mạng tại Bến Cát (Bình Dương). Sự kiện này mở đầu cho chiến dịch ném bom rải thảm quy mô lớn tàn phá lãnh thổ Việt Nam mang tên "Arc Light", đồng thời tôi luyện ý chí kiên cường và nghệ thuật phòng tránh, đánh trả bom đạn B-52 của quân và dân Việt Nam. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Kháng chiến chống Mỹ cứu nước (1954 - 1975), tập 3, NXB Chính trị quốc gia, Hà Nội, 2013; Báo Bình Dương]
 
 <!-- id: EVT-2310 -->
 *   **25/06/1965:** **Trận đánh Nhà hàng nổi Mỹ Cảnh (Sài Gòn):** Lực lượng Biệt động Sài Gòn kích nổ hai khối thuốc nổ liên hoàn tại Nhà hàng nổi Mỹ Cảnh neo đậu ở Bến Bạch Đằng trên sông Sài Gòn – nơi tập trung đông đảo sĩ quan, binh lính Mỹ và quan chức ngụy quyền. Vụ nổ làm chết hơn 30 người (trong đó có nhiều quân nhân Mỹ) và làm bị thương hơn 40 người khác, gây chấn động tâm lý đối với giới chức quân sự nước ngoài tại Sài Gòn. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Biệt động Sài Gòn - Gia Định (1945 - 1975), NXB Quân đội nhân dân, Hà Nội; Báo Sài Gòn Giải Phóng]
@@ -7677,7 +7677,7 @@
 *   **06/07/1965:** Hội đồng Bộ trưởng Liên Xô quyết định thành lập Đoàn chuyên gia quân sự tại Việt Nam để giúp đỡ lực lượng phòng không và không quân. [Nguồn: Bộ Ngoại giao, Lịch sử Ngoại giao Việt Nam (1945 - 2000), NXB Chính trị quốc gia, Hà Nội, 2002; Ilya V. Gaiduk, The Soviet Union and the Vietnam War, Ivan R. Dee, 1996]
 
 <!-- id: EVT-2313 -->
-*   **16/07/1965:** Nhà tình báo chiến lược Phạm Ngọc Thảo anh dũng hy sinh tại Sài Gòn sau khi bị chính quyền Nguyễn Văn Thiệu bắt giữ và tra tấn dã man; ông sau đó được truy tặng danh hiệu Anh hùng LLVTND và quân hàm Thiếu tướng. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Biệt động Sài Gòn - Gia Định (1945 - 1975), NXB Quân đội nhân dân, Hà Nội, 2010]
+*   **16/07/1965:** Nhà tình báo chiến lược Phạm Ngọc Thảo anh dũng hy sinh tại Sài Gòn sau khi bị chính quyền Nguyễn Văn Thiệu bắt giữ và tra tấn dã man; ông sau đó được truy tặng danh hiệu Anh hùng LLVTND và quân hàm Thiếu tướng. [Nguồn: Báo Quân đội nhân dân, "Nhà tình báo chiến lược Phạm Ngọc Thảo"; Tổng cục II - Bộ Quốc phòng, Lịch sử Tình báo Quốc phòng Việt Nam]
 
 <!-- id: EVT-2314 -->
 *   **24/07/1965:** Ngày truyền thống Bộ đội Tên lửa Phòng không. Đúng 15 giờ 53 phút, Trung đoàn Tên lửa 236 (đơn vị chủ lực phòng không đầu tiên của Quân đội nhân dân Việt Nam, với sự hỗ trợ của chuyên gia Liên Xô) đã đánh thắng trận đầu khi phóng 2 quả tên lửa bắn rơi tại chỗ một chiếc máy bay F-4C của Mỹ ở độ cao 7.000m tại trận địa Suối Hai (Sơn Tây) và bắt sống phi công. Chiến công này đã làm nức lòng quân dân cả nước và khiến Lầu Năm Góc hết sức hoang mang. [Nguồn: Bộ Tư lệnh Quân chủng Phòng không - Không quân, Lịch sử Bộ đội Tên lửa Phòng không (1965 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005; Báo Quân đội nhân dân]
@@ -7699,7 +7699,7 @@
 *   **19/10 - 26/11/1965:** **Chiến dịch Plei Me và Trận Ia Đrăng (Tây Nguyên):** Mặt trận B3 của Quân Giải phóng mở chiến dịch Plei Me nhằm kéo địch ra khỏi căn cứ để tiêu diệt. Sau khi vây hãm đồn Plei Me và đánh bại viện binh ngụy quân VNCH (19/10 - 25/10), Sư đoàn 1 Không kỵ của Mỹ mở cuộc hành quân phản kích, dẫn đến **Trận Ia Đrăng lịch sử (14 - 18/11)** tại bãi đáp X-Ray và Albany. Đây là cuộc đụng độ quy mô lớn đầu tiên giữa quân chủ lực Mỹ và Quân Giải phóng. Bằng chiến thuật "nắm thắt lưng địch mà đánh" (cận chiến áp sát để vô hiệu hóa ưu thế hỏa lực phi pháo và B-52 của Mỹ), Quân Giải phóng đã gây thương vong nặng nề cho các tiểu đoàn Không kỵ Mỹ. Trận đánh làm thay đổi nhận thức chiến lược của giới lãnh đạo quân sự Mỹ, dập tắt hy vọng về một chiến thắng dễ dàng. [Nguồn: Bộ Tư lệnh Quân khu 5, Lịch sử Lực lượng vũ trang nhân dân Quân khu 5 (1945 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005]
 
 <!-- id: EVT-2319 -->
-*   **02/11/1965:** Norman Morrison, một tín hữu Quaker người Mỹ yêu chuộng hòa bình, đã tự thiêu trước Lầu Năm Góc (Mỹ) để phản đối cuộc chiến tranh xâm lược của Mỹ tại Việt Nam. Ông đã bế theo con gái một tuổi Emily trước khi hành động. Sự hy sinh của ông đã gây chấn động và làm xúc động sâu sắc nhân dân Việt Nam cũng như phong trào phản chiến trên toàn thế giới. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Biệt động Sài Gòn - Gia Định (1945 - 1975), NXB Quân đội nhân dân, Hà Nội, 2010]
+*   **02/11/1965:** Norman Morrison, một tín hữu Quaker người Mỹ yêu chuộng hòa bình, đã tự thiêu trước Lầu Năm Góc (Mỹ) để phản đối cuộc chiến tranh xâm lược của Mỹ tại Việt Nam. Ông đã bế theo con gái một tuổi Emily trước khi hành động. Sự hy sinh của ông đã gây chấn động và làm xúc động sâu sắc nhân dân Việt Nam cũng như phong trào phản chiến trên toàn thế giới. [Nguồn: The Washington Post số ra ngày 03/11/1965; Báo Nhân Dân, "Ngọn lửa Norman Morrison bất diệt"]
 
 <!-- id: EVT-2320 -->
 *   **04/11/1965:** Nhà thơ Tố Hữu đến Đồng Hới và có cuộc trò chuyện với Mẹ Suốt. Lấy cảm hứng từ lòng quả cảm của bà, ông đã sáng tác bài thơ nổi tiếng "Mẹ Suốt", khắc họa thành công hình ảnh người mẹ anh hùng trong văn học Việt Nam hiện đại. [Nguồn: Ban Chấp hành Trung ương Đảng, Văn kiện Đảng Toàn tập, tập 26, NXB Chính trị quốc gia, Hà Nội, 2003]
@@ -7834,10 +7834,10 @@
 *   **17/11/1966:** Một tiểu đội quân đội Hoa Kỳ gồm 5 binh lính được giao nhiệm vụ trinh sát các hang động quanh đồi 192 ở thung lũng Bồng Sơn (Hoài Nhơn, Bình Định) đã lên kế hoạch bắt cóc, hãm hiếp và sát hại một cô gái Việt Nam trong quá trình làm nhiệm vụ. [Nguồn: Foreign Relations of the United States (FRUS), 1964–1968, Vol. IV, Vietnam; Viện Lịch sử Quân sự Việt Nam]
 
 <!-- id: EVT-2364 -->
-*   **18/11/1966:** Tiểu đội lính Mỹ tiến vào ấp nhỏ thuộc làng Cát Tường (huyện Phù Mỹ, Bình Định) và bắt cóc Phan Thị Mao, một phụ nữ trẻ người Việt. Cô bị trói, bịt miệng và sau đó bị 4 lính Mỹ thay nhau hãm hiếp. Một binh sĩ là Robert M. Storeby đã từ chối tham gia và đứng gác. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Biệt động Sài Gòn - Gia Định (1945 - 1975), NXB Quân đội nhân dân, Hà Nội, 2010]
+*   **18/11/1966:** Tiểu đội lính Mỹ tiến vào ấp nhỏ thuộc làng Cát Tường (huyện Phù Mỹ, Bình Định) và bắt cóc Phan Thị Mao, một phụ nữ trẻ người Việt. Cô bị trói, bịt miệng và sau đó bị 4 lính Mỹ thay nhau hãm hiếp. Một binh sĩ là Robert M. Storeby đã từ chối tham gia và đứng gác. [Nguồn: Daniel Lang, Casualties of War, The New Yorker (18/10/1969); Báo Bình Định]
 
 <!-- id: EVT-2365 -->
-*   **19/11/1966:** Trong lúc đọ súng với lực lượng Việt Cộng, binh nhất Steven Cabbot Thomas đã kéo Phan Thị Mao vào bụi rậm, đâm cô nhiều nhát và cuối cùng bắn vào đầu cô bằng súng M16. Tội ác chiến tranh dã man này sau đó được chính thức biết đến với tên gọi "Sự cố đồi 192". [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Biệt động Sài Gòn - Gia Định (1945 - 1975), NXB Quân đội nhân dân, Hà Nội, 2010]
+*   **19/11/1966:** Trong lúc đọ súng với lực lượng Việt Cộng, binh nhất Steven Cabbot Thomas đã kéo Phan Thị Mao vào bụi rậm, đâm cô nhiều nhát và cuối cùng bắn vào đầu cô bằng súng M16. Tội ác chiến tranh dã man này sau đó được chính thức biết đến với tên gọi "Sự cố đồi 192". [Nguồn: Daniel Lang, Casualties of War, McGraw-Hill, New York, 1969; Báo Bình Định]
 
 <!-- id: EVT-2366 -->
 *   **Mùa khô 1966-1967:** Quân và dân miền Nam đánh bại cuộc phản công chiến lược mùa khô lần thứ hai của Mỹ. [Nguồn: Tỉnh ủy - UBND tỉnh Quảng Ngãi, Tội ác chiến tranh của lính đánh thuê Nam Triều Tiên tại Bình Hòa, NXB Quảng Ngãi, 2000]
@@ -8069,16 +8069,16 @@
 *   **31/03/1968:** Tổng thống Mỹ Johnson tuyên bố ngừng ném bom hạn chế miền Bắc (từ vĩ tuyến 20 trở ra) và chấp nhận đàm phán. [Nguồn: Lyndon B. Johnson Presidential Library, Address to the Nation Announcing Steps To Limit the War in Vietnam, March 31, 1968; Báo Nhân Dân số ra ngày 02/04/1968]
 
 <!-- id: EVT-2437 -->
-*   **04/1968:** Bộ Tư lệnh Đoàn 559 và Tổng cục Hậu cần khởi công xây dựng tuyến đường ống dẫn xăng dầu dã chiến đầu tiên (tuyến X42 dài 42 km từ Nam Đàn qua Linh Cảm), mở đầu kỳ tích xây dựng hệ thống đường ống xăng dầu xuyên Trường Sơn dài hơn 5.000 km, tiếp tế hàng trăm ngàn tấn nhiên liệu vào tận chiến trường Nam Bộ phục vụ các chiến dịch lớn giải phóng miền Nam. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Biệt động Sài Gòn - Gia Định (1945 - 1975), NXB Quân đội nhân dân, Hà Nội, 2010]
+*   **04/1968:** Bộ Tư lệnh Đoàn 559 và Tổng cục Hậu cần khởi công xây dựng tuyến đường ống dẫn xăng dầu dã chiến đầu tiên (tuyến X42 dài 42 km từ Nam Đàn qua Linh Cảm), mở đầu kỳ tích xây dựng hệ thống đường ống xăng dầu xuyên Trường Sơn dài hơn 5.000 km, tiếp tế hàng trăm ngàn tấn nhiên liệu vào tận chiến trường Nam Bộ phục vụ các chiến dịch lớn giải phóng miền Nam. [Nguồn: Binh đoàn 12 - Bộ đội Trường Sơn, Lịch sử Bộ đội Xăng dầu đường Trường Sơn, NXB Quân đội nhân dân, Hà Nội; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2438 -->
-*   **01 - 14/04/1968:** **Chiến dịch Pegasus (Operation Pegasus):** Quân đội Mỹ điều động Sư đoàn 1 Kỵ binh Không vận và Thủy quân Lục chiến mở Chiến dịch Pegasus (Chiến dịch Phi Mã) dọc theo Quốc lộ 9 nhằm giải tỏa vòng vây cô lập nghẹt thở mà Quân đội Nhân dân Việt Nam siết chặt quanh Căn cứ Khe Sanh (Quảng Trị). Dưới làn hỏa lực yểm trợ dữ dội của địch, các chiến sĩ Quân Giải phóng đã kiên cường chặn đánh từng bước tiến của quân Mỹ, bắn rơi nhiều máy bay trực thăng và tiêu hao nhiều sinh lực địch trước khi chủ động chuyển hướng thế trận tác chiến. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Biệt động Sài Gòn - Gia Định (1945 - 1975), NXB Quân đội nhân dân, Hà Nội, 2010]
+*   **01 - 14/04/1968:** **Chiến dịch Pegasus (Operation Pegasus):** Quân đội Mỹ điều động Sư đoàn 1 Kỵ binh Không vận và Thủy quân Lục chiến mở Chiến dịch Pegasus (Chiến dịch Phi Mã) dọc theo Quốc lộ 9 nhằm giải tỏa vòng vây cô lập nghẹt thở mà Quân đội Nhân dân Việt Nam siết chặt quanh Căn cứ Khe Sanh (Quảng Trị). Dưới làn hỏa lực yểm trợ dữ dội của địch, các chiến sĩ Quân Giải phóng đã kiên cường chặn đánh từng bước tiến của quân Mỹ, bắn rơi nhiều máy bay trực thăng và tiêu hao nhiều sinh lực địch trước khi chủ động chuyển hướng thế trận tác chiến. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Chiến dịch Khe Sanh - Đường 9 Xuân Hè 1968, NXB Quân đội nhân dân, Hà Nội, 1998; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2439 -->
-*   **06 - 07/04/1968:** Trong quá trình chốt giữ cao điểm 595 thuộc Chiến dịch Đường 9 - Khe Sanh, một tiểu đội của Quân Giải phóng đã kiên cường đánh trả nhiều đợt tấn công của lính thủy đánh bộ Mỹ. Qua 45 ngày chốt giữ, đỉnh điểm là các trận chiến đấu khốc liệt trong hai ngày này, chiến sĩ Trần Hữu Bào đã mưu trí, dũng cảm chiến đấu, cá nhân tiêu diệt 78 lính Mỹ. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Biệt động Sài Gòn - Gia Định (1945 - 1975), NXB Quân đội nhân dân, Hà Nội, 2010]
+*   **06 - 07/04/1968:** Trong quá trình chốt giữ cao điểm 595 thuộc Chiến dịch Đường 9 - Khe Sanh, một tiểu đội của Quân Giải phóng đã kiên cường đánh trả nhiều đợt tấn công của lính thủy đánh bộ Mỹ. Qua 45 ngày chốt giữ, đỉnh điểm là các trận chiến đấu khốc liệt trong hai ngày này, chiến sĩ Trần Hữu Bào đã mưu trí, dũng cảm chiến đấu, cá nhân tiêu diệt 78 lính Mỹ. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng Vũ trang Nhân dân, NXB Quân đội nhân dân, Hà Nội; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2440 -->
-*   **19/04 - 17/05/1968:** **Chiến dịch Delaware (Operation Delaware):** Quân đội Mỹ huy động Sư đoàn 1 Kỵ binh Không vận và Sư đoàn 101 Không vận ồ ạt đổ bộ trực thăng đánh vào thung lũng A Sầu (tỉnh Thừa Thiên) hòng phá hủy căn cứ hậu cần huyết mạch trên tuyến Đường Trường Sơn của Quân Giải phóng. Cán bộ chiến sĩ Quân Giải phóng cùng lực lượng phòng không anh dũng đã giăng lưới lửa kiên cường đánh trả, bắn rơi và phá hủy hàng chục máy bay trực thăng tối tân của Mỹ, bẻ gãy các mũi càn quét và buộc quân viễn chinh Mỹ phải rút chạy khỏi thung lũng. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Biệt động Sài Gòn - Gia Định (1945 - 1975), NXB Quân đội nhân dân, Hà Nội, 2010]
+*   **19/04 - 17/05/1968:** **Chiến dịch Delaware (Operation Delaware):** Quân đội Mỹ huy động Sư đoàn 1 Kỵ binh Không vận và Sư đoàn 101 Không vận ồ ạt đổ bộ trực thăng đánh vào thung lũng A Sầu (tỉnh Thừa Thiên) hòng phá hủy căn cứ hậu cần huyết mạch trên tuyến Đường Trường Sơn của Quân Giải phóng. Cán bộ chiến sĩ Quân Giải phóng cùng lực lượng phòng không anh dũng đã giăng lưới lửa kiên cường đánh trả, bắn rơi và phá hủy hàng chục máy bay trực thăng tối tân của Mỹ, bẻ gãy các mũi càn quét và buộc quân viễn chinh Mỹ phải rút chạy khỏi thung lũng. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Kháng chiến chống Mỹ cứu nước (1954 - 1975), tập 4, NXB Chính trị quốc gia, Hà Nội, 2013; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2441 -->
 *   **19/04/1968:** Tám Hà (Trần Văn Đắc), Phó Chính ủy Mặt trận cánh Bắc của Quân Giải phóng, ra đầu hàng quân Mỹ - Việt Nam Cộng hòa. Y đã khai báo toàn bộ kế hoạch, quân số và các địa điểm giấu pháo binh, hỏa tiễn của đợt 2 Tổng tiến công Mậu Thân, gây thiệt hại lớn cho lực lượng cách mạng. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Biệt động Sài Gòn - Gia Định (1945 - 1975), NXB Quân đội nhân dân, Hà Nội, 2010]
@@ -9829,7 +9829,7 @@
 *   **30/12/1999:** Việt Nam và Trung Quốc chính thức ký kết **Hiệp ước Biên giới trên đất liền**. [Nguồn: Báo Điện tử Chính phủ - Đường biên giới đất liền hòa bình, hữu nghị, hợp tác Việt Nam-Trung Quốc, https://baochinhphu.vn/duong-bien-gioi-dat-lien-hoa-binh-huu-nghi-hop-tac-viet-nam-trung-quoc-10235326.htm]
 
 <!-- id: EVT-2986 -->
-*   **2000:** Anh hùng Lực lượng vũ trang nhân dân Trần Thị Lý (sinh năm 1946 tại Đồng Hới, Quảng Bình; nữ dân quân kiên cường chiến đấu bắn rơi máy bay Mỹ và bảo vệ huyết mạch giao thông khu vực Cầu Dài; sau là Ủy viên Ban Chấp hành Trung ương Hội Liên hiệp Phụ nữ Việt Nam, Ủy viên Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam; phu nhân Thượng tướng Nguyễn Chơn) từ trần. [Nguồn: Tỉnh ủy Quảng Nam, Lịch sử Đảng bộ tỉnh Quảng Nam (1930 - 2000), NXB Chính trị quốc gia, 2006; Báo Quảng Nam]
+*   **2000:** Anh hùng Lực lượng vũ trang nhân dân Trần Thị Lý (sinh năm 1946 tại Đồng Hới, Quảng Bình; nữ dân quân kiên cường chiến đấu bắn rơi máy bay Mỹ và bảo vệ huyết mạch giao thông khu vực Cầu Dài; sau là Ủy viên Ban Chấp hành Trung ương Hội Liên hiệp Phụ nữ Việt Nam, Ủy viên Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam; phu nhân Thượng tướng Nguyễn Chơn) từ trần. [Nguồn: Báo Quảng Bình, "Nữ anh hùng Trần Thị Lý - Bông hoa thép bên dòng Nhật Lệ"; Báo Quân đội nhân dân; Báo Phụ nữ Việt Nam]
 
 <!-- id: EVT-2987 -->
 * **2000:** Anh hùng Lực lượng vũ trang nhân dân Lê Hữu Thúy (Đại tá, cán bộ tình báo chiến lược thuộc lưới tình báo A22) từ trần. [Nguồn: Tổng cục Tình báo Quốc phòng, Lịch sử Tình báo Quốc phòng Việt Nam (1945 - 2005), NXB Quân đội nhân dân, 2005; Báo Quân đội nhân dân]
