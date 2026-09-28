@@ -658,6 +658,10 @@
 <!-- id: EVT-0171 -->
 *   **970:** King Đinh Tiên Hoàng established the era name Thái Bình and minted "Thái Bình hưng bảo" bronze coins, the first metallic currency in independent Vietnamese history, affirming national economic and monetary sovereignty. [Source: Dinh Tien Hoang (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Đinh_Tiên_Hoàng]
 
+![Thai Binh Hung Bao bronze coin](images/event_20260928_185553.webp)
+
+*Source: Obverse of the Thai Binh Hung Bao bronze coin minted under King Dinh Tien Hoang (970). Photo: Donald Trung / Wikimedia Commons, CC BY-SA 4.0*
+
 <!-- id: EVT-0172 -->
 *   **971:** Dinh Tien Hoang began to regulate the ranks for civil, military, and monastic officials. Ngo Chan Luu was appointed as the first Sangha Overseer (Tang thong) with the title Grand Master Khuong Viet. [Source: Le Dai Hanh (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Lê_Đại_Hành]
 
@@ -1456,6 +1460,10 @@
 <!-- id: EVT-0419 -->
 *   **1323:** King Tran Minh Tong opened the Thai hoc sinh examination to select talented individuals to serve the country, bringing capable scholars like Doan Nhu Hai and Chu Van An into the administration. [Source: The Tran Dynasty (Vietnam National Administration of Tourism), https://vietnamtourism.vn/index.php/about/items/1958]
 
+![Statue of Chu Van An at the Temple of Literature](images/event_20260928_185557.webp)
+
+*Source: Statue of Chu Van An at the Temple of Literature, Hanoi. Photo: davidhealy / Wikimedia Commons, CC BY-SA 2.0*
+
 <!-- id: EVT-0420 -->
 *   **1324:** Minister Van Hue Vuong donated 300 mau of land in Gia Lam, over 1,000 mau in Dong Gia and An Lu, along with over 1,000 household slaves to Quynh Lam Pagoda. [Source: Phap Loa Contributions to Vietnamese Buddhism (VASS Journal), http://tapchikhxh.vass.gov.vn/dong-gop-cua-phap-loa-doi-voi-phat-giao-viet-nam-n50235.html]
 
@@ -1993,6 +2001,10 @@
 <!-- id: EVT-0593 -->
 *   **Feb. 7, 1418:** Le Loi raised the flag of rebellion at Lam Son (Thanh Hoa), proclaiming himself Binh Dinh Vuong (Pacification King). [Source: The Lam Son Uprising (Thai Nguyen News), https://baothainguyen.vn/chinh-tri/200809/khoi-nghia-lam-son-dau-son-trong-lich-su-giu-nuoc-cua-dan-toc-367AB67]
 
+![Lam Kinh historical site](images/event_20260928_185601.webp)
+
+*Source: Lam Kinh Special National Historical Site (Thanh Hoa), base of the Lam Son uprising. Photo: Bui Le Viet Cuong / Wikimedia Commons, CC BY-SA 4.0*
+
 <!-- id: EVT-0594 -->
 *   **May 1419:** Ming forces besieged Chi Linh mountain. General Le Lai disguised himself as Le Loi and sacrificed himself to save the commander and the remaining troops. [Source: Le Lai Sacrifices Himself to Save His Lord (Phap Luat), https://baophapluat.vn/ve-lam-kinh-nghe-chuyen-trung-than-ky-1-le-lai-quen-minh-cuu-chua-post359245.html]
 
@@ -2116,6 +2128,10 @@
 <!-- id: EVT-0634 -->
 *   **Oct. 8, 1427 (Sep. 18, Lunar):** The Chi Lang - Xuong Giang Campaign began. The Ming reinforcement army led by Liu Sheng was ambushed and annihilated at the Chi Lang Pass. [Source: How Le Loi Took Dong Quan (Hoàng thành Thăng Long), http://www.hoangthanhthanglong.vn/en/222/222]
 
+![Chi Lang Pass historical site](images/event_20260928_185604.webp)
+
+*Source: Chi Lang Pass (Lang Son), where Lam Son forces ambushed and killed Liu Sheng in 1427. Photo: Bui Thuy Dao Nguyen / Wikimedia Commons, CC BY-SA 3.0*
+
 <!-- id: EVT-0635 -->
 *   **Oct. 10, 1427 (Sep. 20, Lunar):** Ming commander Liu Sheng was beheaded at Ma Yen Mountain. [Source: Lang Son Through History (Lang Son Portal), https://langson.gov.vn/en/tong-quan/lang-son-qua-cac-thoi-ky-lich-su]
 
@@ -2130,6 +2146,10 @@
 
 <!-- id: EVT-0638 -->
 *   **Dec. 10, 1427:** The Dong Quan Oath Ceremony took place. Wang Tong and Ming generals formally surrendered and agreed to withdraw all troops. [Source: Le Thai To Death Anniversary (Hoàng thành Thăng Long), https://hoangthanhthanglong.vn/en/579th-anniversary-of-king-le-thai-tos-death-1433-2012-be-held/1975]
+
+![Portrait of scholar Nguyen Trai](images/event_20260928_185608.webp)
+
+*Source: Portrait of scholar Nguyen Trai, author of the Dong Quan Oath treaty in 1427. Photo: Vietnam National Museum of History / Wikimedia Commons, Public domain*
 
 <!-- id: EVT-0641 -->
 *   **Dec. 14, 1427:** Upon hearing of Liu Sheng's defeat, Mu Sheng's Yunnan reinforcement army retreated but was ambushed and heavily defeated by Lam Son forces at Thuy Vi. [Source: How Le Loi Took Dong Quan (Hoàng thành Thăng Long), http://www.hoangthanhthanglong.vn/en/222/222]
@@ -2386,6 +2406,10 @@
 <!-- id: EVT-0718 -->
 *   **1535:** Nguyen Binh Khiem, a renowned scholar, poet, and prophet (known as Trang Trinh), passed the imperial examination as Trang Nguyen under the Mac dynasty. [Source: Nguyen Binh Khiem Temple (Hai Phong City), https://www.haiphong.gov.vn/di-tich-danh-thang/den-tho-danh-nhan-van-hoa-trang-trinh-nguyen-binh-khiem-di-tich-lich-su-quoc-gia-dac-biet-742809]
 
+![Statue of Nguyen Binh Khiem](images/event_20260928_185611.webp)
+
+*Source: Statue of Nguyen Binh Khiem at the Nguyen Binh Khiem Temple (Hai Phong). Photo: Wikimedia Commons, Public domain*
+
 <!-- id: EVT-0720 -->
 *   **1537:** The Ming dynasty, under the pretext of "punishing" the Mac, prepared troops at the border, putting pressure on the Mac court. [Source: Mac Dang Dung Submits to the Ming (International Studies), https://nghiencuuquocte.org/2024/05/25/mac-dang-dung-den-tran-nam-quan-xin-hang-nha-minh/]
 
@@ -2619,6 +2643,10 @@
 
 <!-- id: EVT-0796 -->
 *   **1634:** General Nguyen Huu Dat directed the construction of the Truong Sa Wall (Luy Dong Hoi), a 7 km coastal fortification, further completing the Luy Thay system. [Source: Nguyen Huu Dat (Van VN), https://vanvn.vn/nguyen-huu-dat-gia-cat-nuoc-nam-giup-chua-nguyen-mo-mang-bo-coi/]
+
+![Quang Binh Quan gate](images/event_20260928_185614.webp)
+
+*Source: Quang Binh Quan gate (Dong Hoi), a strategic pass in the Thay Defense Wall built during the Trinh-Nguyen period. Photo: Toanvungtau / Wikimedia Commons, Public domain*
 
 <!-- id: EVT-0797 -->
 *   **Oct. 1634:** Dao Duy Tu passed away at the age of 63. He was honored as the foremost meritorious official in the founding of the Nguyen Lords' dominion. [Source: Dao Duy Tu (Thanh Hoa News), https://baothanhhoa.vn/le-hoi-den-tho-thai-su-hoang-quoc-cong-dao-duy-tu-khoi-day-net-dep-truyen-thong-van-hoa-long-tu-hao-dan-toc-230362.htm]
@@ -3378,6 +3406,10 @@
 <!-- id: EVT-1033 -->
 *   **Jan. 1803:** Emperor Gia Long ordered the casting of the **Nine Holy Cannons** (Cửu Vị Thần Công) from captured bronze weapons, completed in December 1804, symbolizing the power and longevity of the dynasty. [Source: The Nine Holy Cannons (Discover Hue), https://khamphahue.com.vn/Du-lich/Ban-can-biet/Chi-tiet/tid/Cuu-Vi-Than-cong.html/pid/13265/cid/324]
 
+![Nine Holy Cannons at Hue Imperial Citadel](images/event_20260928_185618.webp)
+
+*Source: The Nine Holy Cannons cast in 1803 under Emperor Gia Long at the Hue Citadel. Photo: Luu Ly / Wikimedia Commons, Public domain*
+
 <!-- id: EVT-1034 -->
 *   **Mar. 9, 1803 (Feb. 16, Lunar Year of Quy Hoi):** The public flogging at the Temple of Literature (Van Mieu Thang Long) and the death of renowned scholar Ngo Thi Nham. Following the collapse of the Tay Son dynasty, prominent civil officials including Ngo Thi Nham, Phan Huy Ich, and Nguyen Gia Phan were subjected to punitive public flogging presided over by Dang Tran Thuong. Facing his vindictive foe, Ngo Thi Nham retained unflinching intellectual dignity and uttered the legendary parallel verse: *"The Warring States era, the Spring and Autumn era; when facing shifting times, one must adapt to the times"*. Fatally wounded by the venomous grudge-beating ordered by Thuong, Ngo Thi Nham passed away at his ancestral village of Ta Thanh Oai on March 9, 1803 (16th day of the 2nd lunar month), aged 57. In contrast, Phan Huy Ich, bearing no personal enmity and demonstrating dignified composure, survived the punishment and was granted an imperial pardon to return home as a private citizen. [Source: Ngo Thi Nham (Thang Long Heritage), https://hoangthanhthanglong.vn/ngo-thi-nham-2]
 
@@ -4134,6 +4166,10 @@
 <!-- id: EVT-1275 -->
 *   **Apr. 25, 1882:** Second Battle of Hanoi. French Colonel Henri Rivière issued an ultimatum to Governor Hoang Dieu and attacked the Hanoi Citadel. The citadel fell rapidly despite fierce resistance. Governor Hoang Dieu committed suicide to preserve his honor. This marked a major escalation in French colonial ambitions in Tonkin. [Source: Vietnam National Museum of History - 131 years ago, April 25, 1882: French troops attack Hanoi Citadel for the second time, https://baotanglichsu.vn/vi/Articles/3097/14192/cach-djay-131-nam-ngay-25-4-1882-quan-phap-djanh-thanh-ha-noi-lan-thu-hai.html]
 
+![North Gate of Hanoi Citadel with cannonball impact from 1882](images/event_20260928_185627.webp)
+
+*Source: The North Gate (Bac Mon) of Hanoi Citadel bearing the cannonball mark from the French attack on April 25, 1882. Photo: Nguyen Thanh Quang / Wikimedia Commons, CC BY-SA 3.0*
+
 <!-- id: EVT-1276 -->
 *   **1883:** Nguyen Sinh Sac married Hoang Thi Loan in Hoang Tru village (Nam Dan, Nghe An). The marriage marked the union of two studious Confucian families, creating the nurturing cradle that would give birth to the nation's great leader, President Ho Chi Minh. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
@@ -4420,6 +4456,10 @@
 <!-- id: EVT-1360 -->
 *   **1902:** The Long Bien Bridge (Hanoi) and the Hanoi - Haiphong railway line were completed. The Indochina Medical School was founded. [Source: Vietnam National Museum of History - Long Bien Bridge: Where Hanoi's Memories Linger, https://baotanglichsu.vn/vi/Articles/3096/15820/cau-long-bien-noi-lang-djong-ky-uc-ha-noi.html]
 
+![Paul Doumer Bridge (Long Bien Bridge) in colonial era](images/event_20260928_185630.webp)
+
+*Source: Paul Doumer Bridge (now Long Bien Bridge) over the Red River completed in 1902. Photo: Wikimedia Commons, Public domain*
+
 <!-- id: EVT-1361 -->
 *   **Jul. 1, 1902:** Paul Beau assumed the post of Governor-General, replacing Paul Doumer, and began implementing a policy of "association with the natives." [Source: History of Vietnam (Vol. 7: 1897–1918), Social Sciences Publishing House, Hanoi, 2017]
 
@@ -4483,6 +4523,10 @@
 
 <!-- id: EVT-1380 -->
 *   **Mar. 1907:** Patriotic scholars Luong Van Can, Nguyen Quyen, and Nguyen Huu Cau (Gian Thach) co-founded Dong Kinh Nghia Thuc (Tonkin Free School) at 4 Hang Dao (Hanoi), offering Quoc Ngu classes for both men and women to spread reformist ideas and modernize education. [Source: Vietnam National Museum of History - Dong Kinh Nghia Thuc and Educational Reform Thought, https://baotanglichsu.vn/vi/Articles/2001/66339/djong-kinh-nghia-thuc-va-tu-tuong-cai-cach-giao-duc.html]
+
+![Portrait of Luong Van Can](images/event_20260928_185634.webp)
+
+*Source: Portrait of patriotic educator Luong Van Can, headmaster of the Dong Kinh Nghia Thuc school (1907). Photo: Wikimedia Commons, Public domain*
 
 <!-- id: EVT-1381 -->
 *   **Apr. 7, 1907:** Le Duan was born in Trieu Phong, Quang Tri. He later became the General Secretary of the Communist Party of Vietnam, a prominent leader of the Party and the Vietnamese revolution. [Source: General Secretary Le Duan – Prominent Leader of the Party (Nhan Dan Newspaper), https://nhandan.vn/tong-bi-thu-le-duan-nha-lanh-dao-kien-xuat-cua-dang-va-dan-toc-post692250.html]
@@ -4708,6 +4752,10 @@
 <!-- id: EVT-1450 -->
 *   **Jun. 18, 1919:** On behalf of the Association of Annamite Patriots in France, Nguyen Ai Quoc submitted the eight-point *Demands of the Annamite People* claiming basic freedom, democracy, and equality for Indochinese people to the Versailles Peace Conference, creating a profound resonance across French and international political circles. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
+![Claims of the Annamite People in 1919](images/event_20260928_185637.webp)
+
+*Source: Printed flyer of the "Claims of the Annamite People" sent by Nguyen Ai Quoc to the Versailles Conference in 1919. Photo: Wikimedia Commons, CC BY 4.0*
+
 <!-- id: EVT-1451 -->
 *   **Jun. 29, 1919:** A decree reorganized the Ministry of Colonies in France and established the General Representation of the Colonies, strengthening the metropole's control. [Source: History of Vietnam (Vol. 8: 1919–1930), Social Sciences Publishing House, Hanoi, 2017]
 
@@ -4746,6 +4794,10 @@
 
 <!-- id: EVT-1463 -->
 *   **Dec. 25-30, 1920:** Nguyễn Ái Quốc attended the 18th Congress of the French Socialist Party in Tours, voted to join the Third International, and co-founded the French Communist Party, marking his transition from patriotism to Marxism-Leninism. [Source: https://nhandan.vn/theo-dau-chan-bac-ho-tro-lai-tp-tours-post192039.html]
+
+![Nguyen Ai Quoc at the Tours Congress in 1920](images/event_20260928_185641.webp)
+
+*Source: Comrade Nguyen Ai Quoc addressing the 18th Congress of the French Socialist Party in Tours (December 1920). Photo: Wikimedia Commons, Public domain*
 
 <!-- id: EVT-1464 -->
 *   **1921:** After enduring 13 years of arduous penal servitude at Con Dao Prison with unyielding integrity, Huynh Thuc Khang was released by French colonial authorities. [Source: Patriotic Scholar Huynh Thuc Khang (Nhan Dan Newspaper), https://nhandan.vn/chi-si-yeu-nuoc-huynh-thuc-khang-nha-lanh-dao-tien-boi-tieu-bieu-cua-dang-va-cach-mang-viet-nam-post670559.html]
@@ -5609,6 +5661,10 @@
 <!-- id: EVT-1730 -->
 *   **Aug. 16, 1945:** Under the shade of the Tân Trào Banyan Tree (Tuyên Quang), the Vietnam National Liberation Army held an oath and departure ceremony to liberate Thái Nguyên town and advance toward Hanoi. Comrade Võ Nguyên Giáp read Military Order No. 1 of the National Uprising Committee, officially launching the military offensive and opening the nationwide General Insurrection in the August Revolution. [Source: History of the Vietnam People's Army (Vol. 1), People's Army Publishing House, Hanoi, 2004]
 
+![Historic Tan Trao Banyan Tree](images/event_20260928_185645.webp)
+
+*Source: Historic Tan Trao Banyan Tree (Tuyen Quang), where the Vietnam National Liberation Army held its departure ceremony on August 16, 1945. Photo: Liftold / Wikimedia Commons, CC BY-SA 3.0*
+
 <!-- id: EVT-1731 -->
 *   **Aug. 16-17, 1945:** The National Congress convened at Tan Trao communal house (Tuyen Quang), unanimously supporting the Party's General Uprising policy and adopting the 10 major policies of the Viet Minh, electing the National Liberation Committee of Vietnam (the Provisional Government) chaired by Ho Chi Minh, and officially designating the red flag with a five-pointed gold star as the National Flag and *Tien Quan Ca* (The Song of the Marching Army) as the National Anthem. [Source: https://nhandan.vn/ve-noi-dien-ra-quoc-dan-dai-hoi-tan-trao-post762305.html]
 
@@ -5793,6 +5849,10 @@
 
 <!-- id: EVT-1780 -->
 *   **Mar. 6, 1946:** President Ho Chi Minh and Vu Hong Khanh, on behalf of the Vietnamese Government, signed the Preliminary Agreement with J. Sainteny, representative of the French Government. [Source: Vietnam Government Portal - Diplomatic lessons prior to National Resistance Day, https://baochinhphu.vn/nhung-bai-hoc-ngoai-giao-truoc-ngay-toan-quoc-khang-chien-102213930.htm]
+
+![Signing of the Preliminary Agreement on March 6, 1946](images/event_20260928_190007.webp)
+
+*Source: Signing ceremony of the Preliminary Agreement on March 6, 1946 in Hanoi between President Ho Chi Minh and French envoy Jean Sainteny. Photo: Wikimedia Commons, Public domain*
 
 <!-- id: EVT-1781 -->
 *   **Mar. 9, 1946:** The Party Central Standing Committee issued the directive "Peace to Advance." [Source: Vietnam Government Portal - Vietnamese Diplomacy: 80 years of development and maturity alongside the nation, https://baochinhphu.vn/ngoai-giao-viet-nam-80-nam-xay-dung-truong-thanh-cung-dat-nuoc-102250825084759039.htm]
@@ -6087,6 +6147,10 @@
 
 <!-- id: EVT-1869 -->
 *   **Oct. 7 - Dec. 19, 1947:** Under the direct command and leadership of Commander-in-Chief Vo Nguyen Giap, the Vietnamese army and people victoriously executed the **Viet Bac Autumn-Winter Counter-offensive Campaign 1947**, repelling France's massive assault against the revolutionary base (Operations Léa and Ceinture), scoring resounding victories on the Lo River, at Doan Hung, and Bong Lau Pass, safely guarding the Party Central Committee, the Government, and President Ho Chi Minh, and utterly shattering France's strategy of "a swift fight, a swift victory". [Source: Vietnam National Museum of History - The Viet Bac Campaign - Autumn-Winter 1947, https://baotanglichsu.vn/vi/Articles/3097/15702/chien-dich-viet-bac-thu-dong-1947.html]
+
+![Campaign map of the Viet Bac Autumn-Winter 1947 campaign](images/event_20260928_185648.webp)
+
+*Source: Map of the French military offensive into the Viet Bac base during the Autumn-Winter Campaign 1947. Photo: Wikimedia Commons, CC BY-SA 3.0*
 
 <!-- id: EVT-1870 -->
 *   **Oct. 7, 1947:** France launched a large-scale offensive against the Viet Bac resistance base (Operation Léa), dropping 800 paratroopers on Bac Kan. During this airborne raid, scholar Nguyễn Văn Tố (former Chairman of the Standing Committee of the National Assembly, Minister without Portfolio) was captured by French troops in Cho Don (Bac Kan); steadfastly enduring torture and refusing enemy coercion or collaboration, he heroically sacrificed his life for the Motherland. [Source: Vietnam National Museum of History - The Viet Bac Campaign - Autumn-Winter 1947, https://baotanglichsu.vn/vi/Articles/3097/15702/chien-dich-viet-bac-thu-dong-1947.html]
@@ -6764,6 +6828,10 @@
 
 <!-- id: EVT-2082 -->
 *   **Oct. 8, 1954:** The Democratic Republic of Vietnam erected the first flagpole on the northern bank of the Hien Luong Bridge across the Ben Hai River (Quang Tri), inaugurating the resilient and legendary "flag war" lasting over 20 years across the 17th parallel temporary military demarcation line (1954–1975). Despite relentless enemy bombardments attempting to destroy the symbolic mast, the red flag with a gold star was steadfastly defended by local soldiers and civilians, fluttering proudly over the demarcation zone as an unyielding testament to the determination for national reunification. [Source: Vietnam National Museum of History - The First Flag Pole on the North Bank of Hien Luong Bridge (October 8, 1954), https://baotanglichsu.vn/vi/Articles/3097/16692/cot-co-dau-tien-bo-bac-cau-hien-luong-08-10-1954.html]
+
+![Hien Luong Bridge over Ben Hai River](images/event_20260928_185653.webp)
+
+*Source: Hien Luong Bridge across the Ben Hai River (Quang Tri), the temporary 17th parallel military demarcation line since 1954. Photo: But Chien / Wikimedia Commons, CC BY-SA 3.0*
 
 <!-- id: EVT-2083 -->
 *   **Oct. 10, 1954 - 1977:** Dr. Tran Duy Hung served as Chairman of the Hanoi Administrative Committee continuously for 23 years, becoming an endearing symbol of people-centered governance. [Source: Institute of History, Vietnam - Historical Events (1945 - 1975), Education Publishing House, Hanoi, 2006]
@@ -7552,6 +7620,10 @@
 <!-- id: EVT-2316 -->
 *   **Aug. 18, 1965:** **Battle of Van Tuong (Quang Ngai):** The United States launched Operation Starlite, deploying around 9,000 Marines supported by armor, air, and naval gunfire to search and destroy the Liberation Army's 1st Regiment (Ba Gia Regiment). This was the first major ground engagement between US forces and the Liberation Army. Despite absolute superiority in firepower, the US Marines were intercepted and ambushed by approximately 2,000 Liberation Army troops utilizing fortified trenches and anti-tank weapons. Both sides claimed victory, but the battle proved that the Liberation Army could successfully engage and withstand large-scale US conventional forces, earning it the title "the Ap Bac against the US military." [Source: Nhan Dan Newspaper - Van Tuong Victory, a glorious milestone in national history, https://nhandan.vn/chien-thang-van-tuong-moc-son-choi-loi-trong-lich-su-dan-toc-post901618.html]
 
+![Map of the Battle of Van Tuong (Operation Starlite)](images/event_20260928_185657.webp)
+
+*Source: Map of US Marine Operation Starlite at Van Tuong (Quang Ngai) on August 18–19, 1965. Photo: United States Marine Corps / Wikimedia Commons, Public domain*
+
 <!-- id: EVT-2317 -->
 *   **Oct. 15, 1965:** Exactly one year after Nguyễn Văn Trỗi's martyrdom, Phan Thị Quyên presented their wedding photograph to Trần Độ (Chín Vinh), Member of the Central Office for South Vietnam and Deputy Political Commissar of the Liberation Army. [Source: 4th Army Corps, History of the 9th Division (1965 - 2005), People's Army Publishing House, Hanoi, 2005]
 
@@ -7886,6 +7958,10 @@
 <!-- id: EVT-2426 -->
 *   **January 31, 1968:** **Attack on the U.S. Embassy in Saigon:** In the early morning of Tet Mau Than, 19 fighters of Saigon Commando Team 11, commanded by Ngo Thanh Van (Ba Den) and political commissar Ta Van Pham (Ut Nho), approached the fortified U.S. Embassy on Thong Nhut Boulevard. Using C4 explosives to breach the perimeter wall, they eliminated security guards and secured the ground floor and grounds of the compound. For six hours, the commandos fiercely resisted counterattacks by the U.S. 716th Military Police Battalion and 101st Airborne Division paratroopers landing on the chancery roof by helicopter. Fifteen commandos fell in combat after inflicting significant American casualties. The assault on America's diplomatic stronghold in Saigon was broadcast globally, dispelling claims of wartime progress and dealing a decisive blow to American public support for the war. [Source: Government News Portal - Strategic Leadership of the Party in the 1968 Tet Offensive, https://baochinhphu.vn/su-chi-dao-chien-luoc-cua-dang-trong-cuoc-tong-tien-cong-va-noi-day-mau-than-1968-10223020118390215.htm]
 
+![Breached wall of the US Embassy after the Tet Offensive attack](images/event_20260928_185700.webp)
+
+*Source: Breached outer wall of the US Embassy in Saigon following the assault by Saigon Commando Team 11 on January 31, 1968. Photo: J.T. Luscan and L.R. Robinson / Wikimedia Commons, Public domain*
+
 <!-- id: EVT-2427 -->
 *   **January 31 - February 1, 1968:** **Attack on the Independence Palace:** In the early hours of January 31, 1968, 15 fighters of Saigon Commando Team 5 (14 men and female fighter Vu Minh Nghia), led by To Hoai Thanh (Ba Thanh), launched an assault on the rear gate of the Independence Palace (Nguyen Du Street), staging from Hero Tran Van Lai's secret weapons depot at 287/70 Phan Dinh Phung Street. When their primary demolition charge failed against the iron gate, the team engaged guard posts with B40 rockets and automatic weapons, inflicting heavy casualties on presidential guards. Confronting overwhelming fire from armored vehicles, Team 5 withdrew to an unfinished building at 56 Thu Khoa Huan Street, fortifying upper floors and holding off dozens of enemy counterattacks for nearly two days and nights. Exhausting their ammunition, seven commandos (including commander Ba Thanh) were killed in action, and the remaining wounded fighters were captured. [Source: https://nhandan.vn/biet-dong-thanh-chien-cong-nhu-huyen-thoai-post314935.html]
 
@@ -7959,6 +8035,10 @@
 
 <!-- id: EVT-2448 -->
 *   **Jul. 24, 1968:** At 16:00, 10 female Youth Volunteers belonging to Squad 4, Company 552, General Squad 55 died heroically at Dong Loc Junction (Ha Tinh). While they were sheltering in an A-shaped bunker after leveling bomb craters to ensure the traffic artery for the southern battlefield, a US bomb directly hit their position. The youngest was 17, and the three oldest were 24. Their sacrifice became an immortal epic of the Vietnamese youth's indomitable spirit. [Source: Quang Nam Provincial Party Committee, War Crimes of South Korean Mercenaries in Quang Nam, National Political Publishing House, Hanoi, 2000]
+
+![Memorial graves of 10 female martyrs at Dong Loc Junction](images/event_20260928_190011.webp)
+
+*Source: Memorial graves of the 10 female Youth Volunteer martyrs at Dong Loc Junction (Ha Tinh). Photo: Khoitran1957 / Wikimedia Commons, CC BY-SA 4.0*
 
 <!-- id: EVT-2449 -->
 *   **Aug. 1968:** The Central Office for South Vietnam decided to re-establish the Saigon - Gia Dinh City Party Committee (code name Binh Gia). The City Party Committee's base was moved to Ba Thu (border area). [Source: Walter Cronkite, Report from Vietnam: Who, What, When, Where, Why?, CBS News Special Report, Feb. 27, 1968]
@@ -9183,6 +9263,10 @@
 <!-- id: EVT-2828 -->
 *   **Mar. 14, 1988:** The Johnson South Reef Skirmish (Hải chiến Trường Sa) took place during Campaign CQ-88. Transport ship HQ-604 (Brigade 125), commanded by Captain Vũ Phi Trừ, carrying combat engineers of Regiment 83 and island defense troops from Brigade 146 led directly by Lieutenant Colonel Trần Đức Thông (Deputy Brigade Commander), arrived to secure Gạc Ma Reef (Johnson South Reef). At dawn, a 5-man flag protection team (Senior Lieutenant Nguyễn Mậu Phong, Second Lieutenant Trần Văn Phương, Sergeant Đậu Xuân Tư, Sergeant Lê Hữu Thảo, and Hoàng Văn Chúc) landed on the reef to plant the national flag. Heavily armed Chinese warships opened fire, killing Second Lieutenant Trần Văn Phương (who heroically shielded the flag, uttering his immortal dying oath: "Rather sacrifice than lose the island...") and Sergeant Đậu Xuân Tư along with fellow comrades, creating the legendary "Immortal Circle". Chinese artillery sank HQ-604 (with Captain Vũ Phi Trừ, Deputy Brigade Commander Trần Đức Thông, and crew members fighting tenaciously until the end and perishing with the ship) and HQ-605 at Len Đao, while Captain Vũ Huy Lễ intentionally beached the burning HQ-505 onto Cô Lin Reef to secure Vietnamese sovereignty. Sixty-four Vietnamese naval soldiers sacrificed their lives; China illegally seized Gạc Ma Reef, while Vietnam successfully retained Cô Lin and Len Đao. [Source: Naval Command, History of the Vietnam People's Navy (1955 - 2005), People's Army Publishing House, Hanoi, 2005, pp. 385-405; Statement of the Ministry of Foreign Affairs of the SRV, Mar. 14, 1988; Nhan Dan Newspaper]
 
+![Gac Ma Memorial Site](images/event_20260928_185704.webp)
+
+*Source: Monument "Those Who Remained on the Horizon" at the Gac Ma Memorial Site (Cam Ranh, Khanh Hoa). Photo: Vinhtantran / Wikimedia Commons, CC BY 4.0*
+
 <!-- id: EVT-2829 -->
 *   **Apr. 1988:** The Philippine government elected a mayor for the town established on the Spratly islets they controlled (Thi Tu), attempting to establish a more organized administrative basis for their claims. [Source: Protest Statement by the Spokesperson of the Ministry of Foreign Affairs of the SRV, April 1988; Dr. Nguyen Nha, Vietnam's Territorial Sovereignty over Hoang Sa and Truong Sa Archipelagos, 2013]
 
@@ -9877,6 +9961,10 @@
 
 <!-- id: EVT-3054 -->
 *   **Nov. 25, 2005:** The Space of Gong Culture in the Central Highlands was recognized by UNESCO as a heritage. [Source: UNESCO, Proclamation of Space of Gong Culture as a Masterpiece of Oral and Intangible Heritage, Nov. 25, 2005; Ministry of Culture and Information; Nhan Dan Newspaper]
+
+![Central Highlands gong performance](images/event_20260928_190015.webp)
+
+*Source: Artisans performing gong music in a traditional Central Highlands festival. Photo: Do Tuan Hung / Wikimedia Commons, CC BY-SA 3.0*
 
 <!-- id: EVT-3055 -->
 
