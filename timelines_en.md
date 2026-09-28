@@ -4571,7 +4571,7 @@
 *   **June 6, 1906:** Lien Thanh Thuong Quan (Lien Thanh Commercial House) was established in Phan Thiet by six patriotic scholars to respond to the Duy Tan movement. Initially registered as an anonymous company for 10 years, it produced traditional fish sauce to fund patriotic activities and provide employment. [Source: Binh Thuan Newspaper, "Lien Thanh Company - A Century Mark of the Duy Tan Movement"; Nhan Dan Newspaper]
 
 <!-- id: EVT-1379 -->
-*   **1907:** Duc Thanh Hoc Hieu (Duc Thanh School) was established by the founders of Lien Thanh to teach progressive patriotic ideas to the children of poor laborers. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
+*   **1907:** Duc Thanh Hoc Hieu (Duc Thanh School) was established by the founders of Lien Thanh to teach progressive patriotic ideas to the children of poor laborers. [Source: Binh Thuan Museum - Ho Chi Minh Museum in Phan Thiet (Duc Thanh School where Nguyen Tat Thanh taught in 1910 - 1911), https://baotangbinhthuan.com/bao-tang-ho-chi-minh-o-phan-thiet.html]
 
 <!-- id: EVT-1380 -->
 *   **Mar. 1907:** Patriotic scholars Luong Van Can, Nguyen Quyen, and Nguyen Huu Cau (Gian Thach) co-founded Dong Kinh Nghia Thuc (Tonkin Free School) at 4 Hang Dao (Hanoi), offering Quoc Ngu classes for both men and women to spread reformist ideas and modernize education. [Source: Vietnam National Museum of History - Dong Kinh Nghia Thuc and Educational Reform Thought, https://baotanglichsu.vn/vi/Articles/2001/66339/djong-kinh-nghia-thuc-va-tu-tuong-cai-cach-giao-duc.html]
@@ -5156,7 +5156,7 @@
 *   **1930:** Cù Chính Lan, who would later become a legendary tank-destroying hero, was born into a poor peasant family in Quynh Doi commune, Quynh Luu district, Nghe An province. Orphaned of his mother at the age of 4, he grew up enduring extreme hardship under the oppressive colonial and feudal regimes, forging a resilient and determined character. [Source: Military History Institute of Vietnam, Heroes of the People's Armed Forces, People's Army Publishing House, Hanoi]
 
 <!-- id: EVT-1556 -->
-*   **1930:** Luu Tan Phat joined the Communist Party, actively participating in revolutionary activities in My Tho. [Source: History of the Party Committee of Ben Tre Province (Vol. 1), National Political Publishing House, Hanoi]
+*   **1930:** Luu Tan Phat joined the Communist Party, actively participating in revolutionary activities in My Tho. [Source: History of the Party Committee of Tien Giang Province (Vol. 1), National Political Publishing House, Hanoi]
 
 <!-- id: EVT-1557 -->
 *   **1930 - 1932:** The French naval ships *Inconstant*, *Alerte*, *La Malicieuse*, and *De Lanessan* conducted successive patrols and sovereignty missions to the Paracel Islands. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
@@ -5422,7 +5422,7 @@
 *   **Feb. 1938:** The Dai Viet Democratic Party was founded. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1636 -->
-*   **Mar. 29 - 30, 1938:** The Party Central Committee plenum convened in Tan Thoi Nhat, Ba Diem (Hoc Mon, Gia Dinh), deciding to rename the front to the Indochinese Democratic Front and electing Comrade Nguyen Van Cu as General Secretary of the Party Central Committee at the age of 26. As top leader, he demonstrated exceptional theoretical insight, guiding the consolidation of Party organization and the expansion of the democratic struggle movement. [Source: Vietnam National Museum of History - Le Hong Phong: The First International Communist of Vietnam, https://baotanglichsu.vn/vi/Articles/3098/15745/le-hong-phong-nguoi-cong-san-quoc-te-djau-tien-cua-viet-nam.html]
+*   **Mar. 29 - 30, 1938:** The Party Central Committee plenum convened in Tan Thoi Nhat, Ba Diem (Hoc Mon, Gia Dinh), deciding to rename the front to the Indochinese Democratic Front and electing Comrade Nguyen Van Cu as General Secretary of the Party Central Committee at the age of 26. As top leader, he demonstrated exceptional theoretical insight, guiding the consolidation of Party organization and the expansion of the democratic struggle movement. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1637 -->
 *   **Mar. 30, 1938:** Emperor Bao Dai issued **Imperial Decree No. 10**, separating the Paracel Islands (Archipel des îles Paracels) from Nam Ngai Province and annexing them to Thua Thien Province for enhanced administrative efficiency and coastal defense. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
@@ -5452,7 +5452,7 @@
 
 ### **Period of National Liberation Mobilization and August Revolution (1939 - 1945)**
 
-*   **1939 - 1940:** Bui Van Thuyen (also known as Hai Thieng) was born in a poor peasant family in Chau Thanh, Tay Ninh. Coming from a patriotic family where his father and brother fought against the French, he would later become a legendary guerrilla fighter, participating in over 1,000 battles and sustaining 72 wounds throughout the resistance against the US. [Source: History of the Party Committee of Vinh Long Province (Vol. 1), National Political Publishing House, Hanoi]
+*   **1939 - 1940:** Bui Van Thuyen (also known as Hai Thieng) was born in a poor peasant family in Chau Thanh, Tay Ninh. Coming from a patriotic family where his father and brother fought against the French, he would later become a legendary guerrilla fighter, participating in over 1,000 battles and sustaining 72 wounds throughout the resistance against the US. [Source: Tay Ninh Newspaper - Tua Hai uprising and hero Bui Van Thuyen, https://baotayninh.vn/dong-khoi-tua-hai-va-anh-hung-bui-van-thuyen-a117264.html]
 
 <!-- id: EVT-1646 -->
 *   **1939:** Dr. Ton That Tung published his research on liver anatomy, laying the foundation for the world-renowned "Ton That Tung liver resection method" (dry liver surgery). [Source: Vietnam National Museum of History - Professor Ton That Tung: A World-Leading Liver Surgeon, https://baotanglichsu.vn/vi/Articles/3091/73994/giao-su-ton-that-tung-nha-phau-thuat-gan-hang-dau-the-gioi.html]
@@ -5543,7 +5543,7 @@
 *Source: Coc Bo Cave, Pac Bo Historical Site, Cao Bang Province (Photo: Shansov.net / Wikimedia Commons / CC BY-SA 3.0)*
 
 <!-- id: EVT-1674 -->
-*   **May 10 - 19, 1941:** The 8th Conference of the Party Central Committee in Pac Bo (Cao Bang), chaired by Nguyen Ai Quoc, completed the national liberation line, established the Viet Minh Front, and elected Comrade Truong Chinh as General Secretary. The conference also officially decided to adopt the red flag with a five-pointed gold star as the emblem of the Viet Minh Front, determining that upon national victory it would serve as the National Flag of the future Democratic Republic of Vietnam. At the conference, Comrade Phung Chi Kien was re-elected to the Central Committee and appointed Chief Commander of the Bac Son Base Area, forming and commanding National Rescue Army Unit 1 (Cứu quốc quân 1). [Source: Central Committee of the Party, Comrade Phung Chi Kien – Exemplary Communist Soldier, National Political Publishing House, Hanoi, 2008]
+*   **May 10 - 19, 1941:** The 8th Conference of the Party Central Committee in Pac Bo (Cao Bang), chaired by Nguyen Ai Quoc, completed the national liberation line, established the Viet Minh Front, and elected Comrade Truong Chinh as General Secretary. The conference also officially decided to adopt the red flag with a five-pointed gold star as the emblem of the Viet Minh Front, determining that upon national victory it would serve as the National Flag of the future Democratic Republic of Vietnam. At the conference, Comrade Phung Chi Kien was re-elected to the Central Committee and appointed Chief Commander of the Bac Son Base Area, forming and commanding National Rescue Army Unit 1 (Cứu quốc quân 1). [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 ![Historical Image](images/event_20260923_213625.webp)
 
@@ -5752,7 +5752,7 @@
 *   **Aug. 25, 1945:** The uprising to seize power in Saigon succeeded, actively co-led by Huynh Tan Phat. [Source: Vietnam National Museum of History - The August Uprising and Seizure of Power in Saigon (August 25, 1945), https://baotanglichsu.vn/vi/Articles/3097/16632/khoi-nghia-gianh-chinh-quyen-o-sai-gon-25-8-1945.html]
 
 <!-- id: EVT-1737 -->
-*   **Aug. 26, 1945:** Following the momentum of the August Revolution, the uprising to seize power was successfully carried out in Son La province. [Source: History of the Party Committee of Quang Ngai Province (Vol. 1), National Political Publishing House, Hanoi]
+*   **Aug. 26, 1945:** Following the momentum of the August Revolution, the uprising to seize power was successfully carried out in Son La province. [Source: History of the Party Committee of Son La Province (Vol. 1), National Political Publishing House, Hanoi]
 
 <!-- id: EVT-1738 -->
 *   **Aug. 28, 1945:** The Vietnam National Liberation Committee was reorganized into the Provisional Government of the Democratic Republic of Vietnam headed by President Ho Chi Minh; comrade Vo Nguyen Giap was appointed Minister of Internal Affairs and placed in charge of military affairs. Simultaneously, 200,000 Kuomintang troops under Lu Han began entering northern Vietnam (north of the 16th parallel) ostensibly to disarm Japanese forces. [Source: Vietnam National Museum of History - The National Liberation Committee Reorganized as the Provisional Government (Aug. 28, 1945), https://baotanglichsu.vn/vi/Articles/3097/16633/uy-ban-dan-toc-giai-phong-cai-to-thanh-chinh-phu-lam-thoi-28-8-1945.html]
@@ -7067,7 +7067,7 @@
 *   **May 17, 1957:** The Politburo decided to merge the Southern Committee and the Unification Committee into the Central Unification Committee (*Ban Thong Nhat Trung Uong*) to assist the Central Committee in leading the struggle for national reunification. [Source: Central Committee of the Communist Party of Vietnam, Complete Party Documents, Vol. 18, National Political Publishing House, Hanoi, 2002; Nhan Dan Newspaper]
 
 <!-- id: EVT-2134 -->
-*   **May 20, 1957:** In Hanoi, President Ho Chi Minh took a souvenir photo with Chinese girl Wang Xiaohong (later Mrs Wang Feng) at age 6, during a visit by a Chinese children's delegation. The photo became a moving symbol of Vietnam - China friendship and Uncle Ho's love for international children. [Source: Binh Duong Provincial Party Committee, History of Phu Loi Prison (1957 - 1975), National Political Publishing House, Hanoi, 2008; Phu Loi Prison National Monument]
+*   **May 20, 1957:** In Hanoi, President Ho Chi Minh took a souvenir photo with Chinese girl Wang Xiaohong (later Mrs Wang Feng) at age 6, during a visit by a Chinese children's delegation. The photo became a moving symbol of Vietnam - China friendship and Uncle Ho's love for international children. [Source: Vietnam News Agency (VietnamPlus) - Meeting the Chinese girl photographed with Uncle Ho, https://www.vietnamplus.vn/gap-co-be-trung-quoc-duoc-chup-anh-voi-bac-ho-post182208.vnp]
 
 ![Historical Image](images/event_20260924_103223.webp)
 
@@ -7084,7 +7084,7 @@
 *Source: President Ho Chi Minh and Premier Kim Il Sung toasting in 1957 / Archives*
 
 <!-- id: EVT-2137 -->
-*   **August 1957:** During a visit to China, President Ho Chi Minh and Chairman Mao Zedong raised glasses to toast evergreen, everlasting Vietnam - China friendship, affirming solidarity between the two Parties and countries in the revolutionary cause. [Source: Ba Ria - Vung Tau Provincial Party Committee, Heroic Martyr Vo Thi Sau, Ho Chi Minh City General Publishing House, 2012]
+*   **August 1957:** During a visit to China, President Ho Chi Minh and Chairman Mao Zedong raised glasses to toast evergreen, everlasting Vietnam - China friendship, affirming solidarity between the two Parties and countries in the revolutionary cause. [Source: Ministry of Foreign Affairs, History of Vietnamese Diplomacy (1945 - 2000), National Political Publishing House, Hanoi, 2002]
 
 ![Historical Image](images/event_20260924_103228.webp)
 
@@ -7134,7 +7134,7 @@
 *Source: Mrs. Nguyen Thi Dinh (center) with her husband and friends in Ben Tre, 1939 / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-2151 -->
-*   **1959:** Huynh Tan Phat operated in the "Iron Triangle" area (Cu Chi - Trang Bang - Ben Cat). [Source: Ben Tre Provincial Party Committee, Ben Tre Dong Khoi - History and Lessons, National Political Publishing House, Hanoi, 2010; Nguyen Thi Dinh, No Name in the Roster]
+*   **1959:** Huynh Tan Phat operated in the "Iron Triangle" area (Cu Chi - Trang Bang - Ben Cat). [Source: Comrade Huynh Tan Phat (Nhan Dan Newspaper), https://special.nhandan.vn/dong-chi-Huynh-Tan-Phat/index.html]
 
 <!-- id: EVT-2152 -->
 *   **1959 - 1960:** Dinh Thi Van's intelligence network meticulously investigated the defense system of the Saigon army south of the 17th parallel, providing vital information to support the opening of the Truong Son strategic supply route. [Source: People's Army Newspaper - Dinh Thi Van: The Heroic Female Intelligence Officer, https://www.qdnd.vn/phong-su-dieu-tra/ky-su/bai-1-dinh-thi-van-nu-anh-hung-uy-vu-bat-nang-khuat-258982; Dinh Thi Van, In Search of Comrades, Women's Publishing House]
@@ -7156,7 +7156,7 @@
 *   **May 1959:** The Ngo Dinh Diem administration enacted **Law 10/59**, dragging guillotines across South Vietnam to brutally suppress the revolutionary movement. [Source: Vietnam National Museum of History - Law 10/59 under the US-Diem Regime (1959), https://baotanglichsu.vn/vi/Articles/3097/16701/luat-10-59-my-diem-1959.html]
 
 <!-- id: EVT-2157 -->
-*   **May 13, 1959:** In Saigon, Japan and the Republic of Vietnam (South Vietnam) signed the "Reparations Agreement Between Japan and the Republic of Vietnam". Under the agreement, Japan agreed to pay 39 million USD (14.04 billion Yen) in reparations along with 16.6 million USD in loans and commercial credits (funds predominantly used to build the Da Nhim Hydroelectric Power Plant). This agreement created a profound historical paradox: while the catastrophic famine of 1944–1945 caused by Japanese wartime occupation claimed approximately 2 million lives almost exclusively in Northern and North-Central Vietnam, Japan—driven by Cold War geopolitical calculations—recognized and paid war reparations solely to the Ngo Dinh Diem administration in the South, which suffered virtually no famine casualties. The Government of the Democratic Republic of Vietnam in Hanoi vehemently protested, declaring the agreement illegal and void, and reserved the right to demand reparations for the entire Vietnamese people. [Source: Tay Ninh Provincial Military Command, History of the People's Armed Forces of Tay Ninh (1945 - 2005), People's Army Publishing House, Hanoi, 2005]
+*   **May 13, 1959:** In Saigon, Japan and the Republic of Vietnam (South Vietnam) signed the "Reparations Agreement Between Japan and the Republic of Vietnam". Under the agreement, Japan agreed to pay 39 million USD (14.04 billion Yen) in reparations along with 16.6 million USD in loans and commercial credits (funds predominantly used to build the Da Nhim Hydroelectric Power Plant). This agreement created a profound historical paradox: while the catastrophic famine of 1944–1945 caused by Japanese wartime occupation claimed approximately 2 million lives almost exclusively in Northern and North-Central Vietnam, Japan—driven by Cold War geopolitical calculations—recognized and paid war reparations solely to the Ngo Dinh Diem administration in the South, which suffered virtually no famine casualties. The Government of the Democratic Republic of Vietnam in Hanoi vehemently protested, declaring the agreement illegal and void, and reserved the right to demand reparations for the entire Vietnamese people. [Source: Ministry of Foreign Affairs, History of Vietnamese Diplomacy (1945 - 2000), National Political Publishing House, Hanoi, 2002]
 
 <!-- id: EVT-2158 -->
 *   **May 19, 1959:** Under the leadership of Central Military Commission Secretary Vo Nguyen Giap, the Standing Committee of the Commission resolved to establish the "Special Military Task Force" (subsequently designated **Group 559**) commanded by Senior Colonel Vo Bam, tasked with opening a strategic overland transport corridor to reinforce the southern battlefields. Named after President Ho Chi Minh (the Ho Chi Minh Trail / Truong Son Strategic Route), it became the vital logistics artery deciding the victory of the Anti-American Resistance War for National Salvation. [Source: Vietnam National Museum of History - The Ho Chi Minh Trail (1959), https://baotanglichsu.vn/vi/Articles/3097/15849/duong-ho-chi-minh-1959.html]
@@ -7500,7 +7500,7 @@
 *   **Aug. 10, 1964:** Nguyễn Văn Trỗi was sentenced to death by the Saigon Military Court under Nguyễn Khánh's regime, declaring boldly at court: "I killed those who stole my country" and "I only regret that I have not yet killed McNamara." [Source: Cao Bang Newspaper - Nguyen Van Troi: A hero in the Vietnam War (sentenced to death on Aug. 10, 1964), https://baocaobang.vn/Nguyen-Van-Troi-Nguoi-anh-hung-trong-Chien-tranh-Viet-Nam-37701.html]
 
 <!-- id: EVT-2259 -->
-*   **Aug. 21 - 27, 1964:** A massive wave of demonstrations by hundreds of thousands of students, Buddhists, and citizens erupted in Saigon, Hue, and Da Nang besieging the US Embassy and Prime Minister's Office to oppose General Nguyen Khanh's "Vung Tau Charter" establishing military dictatorship, forcing Khanh to repeal the charter and step down as head of state. [Source: Long An Provincial Military Command, History of the People's Armed Forces of Long An (1945 - 2005), People's Army Publishing House, Hanoi, 2005]
+*   **Aug. 21 - 27, 1964:** A massive wave of demonstrations by hundreds of thousands of students, Buddhists, and citizens erupted in Saigon, Hue, and Da Nang besieging the US Embassy and Prime Minister's Office to oppose General Nguyen Khanh's "Vung Tau Charter" establishing military dictatorship, forcing Khanh to repeal the charter and step down as head of state. [Source: Institute of History, History of Vietnam, Vol. 11, Social Sciences Publishing House, Hanoi, 2014]
 
 <!-- id: EVT-2260 -->
 *   **August 25, 1964:** **Caravelle Hotel Bombing (Saigon):** Commando Team 65, led by Nguyen Thanh Xuan (Bay Be), covertly placed an explosive charge in room 514 of the Caravelle Hotel in Lam Son Square, where numerous high-ranking American officers and military advisers were billeted. The explosion collapsed multiple floors, severely damaging officer accommodations and resonating internationally. [Source: Party Central Committee, Party Documents, Vol. 24, National Political Publishing House, Hanoi, 2003]
@@ -7594,7 +7594,7 @@
 *   **Feb. 14 - Apr. 28, 1965:** Five US warships were sunk or set on fire at the Nhat Le sea by the armed forces and people of Quang Binh. [Source: Department of Propaganda and Training, Heroes of the People's Armed Forces in the Resistance against French Colonialism, People's Army Publishing House, Hanoi, 1996]
 
 <!-- id: EVT-2288 -->
-*   **Feb. 16, 1965:** **The Vung Ro Incident:** Group 125's Unnumbered Vessel 143 (commanded by Captain Le Van Them), after delivering over 63 tons of weapons to Vung Ro (Phu Yen) to resupply Military Region 5, was detected by enemy aircraft. The crew and local forces fought tenaciously and scuttled the ship to protect operational secrecy, prompting Unnumbered Vessels to adopt deep-sea routes across international waters. [Source: Ca Mau Provincial Military Command, History of the People's Armed Forces of Ca Mau (1945 - 2005), People's Army Publishing House, Hanoi, 2005]
+*   **Feb. 16, 1965:** **The Vung Ro Incident:** Group 125's Unnumbered Vessel 143 (commanded by Captain Le Van Them), after delivering over 63 tons of weapons to Vung Ro (Phu Yen) to resupply Military Region 5, was detected by enemy aircraft. The crew and local forces fought tenaciously and scuttled the ship to protect operational secrecy, prompting Unnumbered Vessels to adopt deep-sea routes across international waters. [Source: People's Public Security Newspaper - Vung Ro event: heroic chapter of the No-Number Ship flotilla, https://cand.com.vn/Phong-su-tu-lieu/Su-kien-Vung-Ro-Khuc-bi-trang-trong-lich-su-Doan-tau-khong-so-i188579/]
 
 <!-- id: EVT-2289 -->
 *   **Mar. 01 - 09, 1965:** The Indochinese Peoples' Conference convened in Phnom Penh upon the initiative of Cambodian Head of State Norodom Sihanouk, bringing together delegations from the Vietnam Fatherland Front, the National Liberation Front of South Vietnam, the Neo Lao Hak Sat, and progressive Cambodian forces, issuing a joint declaration solidifying mutual unity against US military escalation across Indochina. [Source: National Assembly Documents, Vol. 3 (1964 - 1971), National Political Publishing House, Hanoi, 2008]
@@ -7650,7 +7650,7 @@
 *   **May 26, 1965:** In Quang Xuong (Thanh Hoa), 13-year-old student Nguyen Ba Ngoc bravely uses his body to shield and save two younger children during an intense US bombing raid, sacrificing his life from severe wounds. [Source: Military History Institute of Vietnam, History of the Resistance War against the US (1954 - 1975), Vol. 3, National Political Publishing House, Hanoi, 2013]
 
 <!-- id: EVT-2304 -->
-*   **May 28 - Jul. 20, 1965:** **Ba Gia Campaign (Quang Ngai):** The Liberation Army of South Vietnam (Military Region 5) launched a campaign against Republic of Vietnam forces. In the primary phase (Battle of Ba Gia, May 28 - 31), through mobile ambush and encirclement tactics, Regiment 1 (2nd Division) commanded by Nguyen Chon completely destroyed an ARVN mixed task force (comprising Infantry, Rangers, and Marines) for the first time, wiping out over 900 enemy troops. This victory further dismantled the "Special War" strategy. [Source: Quang Nam Provincial Military Command, The Nui Thanh Victory - Historical Milestone, People's Army Publishing House, Hanoi, 2005]
+*   **May 28 - Jul. 20, 1965:** **Ba Gia Campaign (Quang Ngai):** The Liberation Army of South Vietnam (Military Region 5) launched a campaign against Republic of Vietnam forces. In the primary phase (Battle of Ba Gia, May 28 - 31), through mobile ambush and encirclement tactics, Regiment 1 (2nd Division) commanded by Nguyen Chon completely destroyed an ARVN mixed task force (comprising Infantry, Rangers, and Marines) for the first time, wiping out over 900 enemy troops. This victory further dismantled the "Special War" strategy. [Source: Quang Ngai Newspaper - Ba Gia victory and its lasting historic value, https://baoquangngai.vn/chien-thang-ba-gia-ven-nguyen-gia-tri-lich-su-3582509.html]
 
 <!-- id: EVT-2305 -->
 *   **Jun. 1965 - Sep. 1966:** At Vietnam's request, China sent engineering troops to northeastern Vietnam to help build defense works on 13 islands and 8 mainland locations. Between 1965 and 1968, China dispatched 346 experts and over 310,000 troops (anti-aircraft, engineers, railway builders) to assist Vietnam, fighting 1,659 battles and shooting down numerous US aircraft. [Source: Military History Institute of Vietnam, History of the Resistance War against the US for National Salvation (1954 - 1975), Vol. 3, National Political Publishing House, Hanoi, 2013; Chronology of Vietnamese Military History]
@@ -7774,7 +7774,7 @@
 * **08/02/1966:** Martyr Nguyen Van Quang (Deputy Squad Leader, 2nd Company, 303rd Battalion, Southwestern Main Force) heroically sacrificed his life in a counter-sweep battle at Co Tuat canal. [Source: Foreign Relations of the United States (FRUS), 1964–1968, Vol. IV, Vietnam; Institute of History, Hanoi, 2014]
 
 <!-- id: EVT-2344 -->
-*   **Feb. 9, 1966:** The Party Committee and the Command of the Saigon - Gia Dinh Military Zone directed the establishment of an "Anti-American Belt" surrounding the Dong Du base (Cu Chi). [Source: Binh Dinh Provincial Party Committee, War Crimes of US Expeditionary Forces and South Korean Mercenaries in Binh Dinh, National Political Publishing House, Hanoi, 2000]
+*   **Feb. 9, 1966:** The Party Committee and the Command of the Saigon - Gia Dinh Military Zone directed the establishment of an "Anti-American Belt" surrounding the Dong Du base (Cu Chi). [Source: Military Region 7 High Command, History of Armed Forces in Eastern Nam Bo (1945 - 2005), People's Army Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2345 -->
 *   **Feb. 12 - Mar. 17, 1966:** The South Korean Tiger Division carried out Operation Maengho 6 across Binh An commune (now Tay Vinh commune, Tay Son district, Binh Dinh province), brutally massacring 1,004 unarmed civilians across 15 hamlets. The atrocity culminated on Feb. 26, 1966, at Go Dai, where South Korean troops herded and slaughtered 380 innocent villagers (mostly women, elderly, and children) in a single day (the Go Dai Massacre). [Source: Binh Dinh Provincial People's Committee, Go Dai Massacre Memorial Site Dossier (1966); Binh Dinh Newspaper; Tuoi Tre Newspaper]
@@ -7819,10 +7819,10 @@
 *   **Sep. 14 - Nov. 25, 1966:** **Operation Attleboro:** The US military deployed over 22,000 troops under II Field Force (spearheaded by the 1st and 25th Infantry Divisions) in Operation Attleboro, a massive "search and destroy" sweep targeting the Dau Tieng - Tay Ninh area to destroy bases and logistics supply lines of the Liberation Army. Utilizing extensive tunnel systems, fortifications, and guerrilla tactics, the army and people of Eastern Nam Bo fought tenaciously, repelling enemy spearheads, inflicting over 3,200 casualties on US troops, and safeguarding the revolutionary base areas. [Source: Military History Institute of Vietnam, History of the Resistance War against the US (1954 - 1975), Vol. 3, National Political Publishing House, Hanoi, 2013]
 
 <!-- id: EVT-2359 -->
-* **25/09/1966:** Martyr Huynh Viet Thanh (Commander of Hau Thanh Commune Military Command) heroically sacrificed his life during a counter-sweep battle protecting local civilians. [Source: Soc Trang Provincial Military Command, History of the People's Armed Forces of Soc Trang (1945 - 2005), People's Army Publishing House, Hanoi, 2005]
+* **25/09/1966:** Martyr Huynh Viet Thanh (Commander of Hau Thanh Commune Military Command) heroically sacrificed his life during a counter-sweep battle protecting local civilians. [Source: Long An Provincial Military Command, History of the Long An People's Armed Forces (1945 - 2005), People's Army Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2360 -->
-* **08/10/1966:** Martyr Huynh Van Tao (Deputy Squad Leader, 2nd Company, 2nd Battalion of Long An Local Forces) heroically sacrificed his life in the assault on Tan Quy outpost. [Source: Soc Trang Provincial Military Command, History of the People's Armed Forces of Soc Trang (1945 - 2005), People's Army Publishing House, Hanoi, 2005]
+* **08/10/1966:** Martyr Huynh Van Tao (Deputy Squad Leader, 2nd Company, 2nd Battalion of Long An Local Forces) heroically sacrificed his life in the assault on Tan Quy outpost. [Source: Long An Provincial Military Command, History of the Long An People's Armed Forces (1945 - 2005), People's Army Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2361 -->
 *   **Oct. 9 - 13, 1966:** South Korean troops (Blue Dragon Brigade) massacred 180 civilians in Phuoc Binh and Dien Nien hamlets (Tinh Son, Quang Ngai). [Source: Quang Ngai Provincial People's Committee, Dien Nien - Phuoc Binh Massacre Memorial Site; Quang Ngai Newspaper; Tuoi Tre Newspaper]
@@ -7840,7 +7840,7 @@
 *   **Nov. 19, 1966:** During a firefight with Viet Cong forces, PFC Steven Cabbot Thomas took Phan Thi Mao into the bushes, stabbed her multiple times, and ultimately shot her in the head with an M16 rifle. This brutal war crime became formally known as the "Hill 192 Incident". [Source: Daniel Lang, Casualties of War, McGraw-Hill, New York, 1969; Binh Dinh Newspaper]
 
 <!-- id: EVT-2366 -->
-*   **1966-1967 Dry Season:** The army and people of the South defeated the second dry-season strategic counter-offensive of the US. [Source: Quang Ngai Provincial Party Committee, War Crimes of South Korean Mercenaries at Binh Hoa, Quang Ngai Publishing House, 2000]
+*   **1966-1967 Dry Season:** The army and people of the South defeated the second dry-season strategic counter-offensive of the US. [Source: Military History Institute of Vietnam, History of the Resistance War against the US (1954 - 1975), Vol. 4, National Political Publishing House, Hanoi]
 
 <!-- id: EVT-2367 -->
 *   **Late 1966:** The Soviet Union dispatched additional groups of military experts in missile science, defense industry, and electronic warfare to assist Vietnam in countering new and changing US air force tactics. [Source: Air Defense - Air Force Service, History of the Anti-Aircraft Troops (1953 - 2003), People's Army Publishing House, Hanoi, 2003]
@@ -8112,7 +8112,7 @@
 *   **Aug. 1968:** The Central Office for South Vietnam decided to re-establish the Saigon - Gia Dinh City Party Committee (code name Binh Gia). The City Party Committee's base was moved to Ba Thu (border area). [Source: Walter Cronkite, Report from Vietnam: Who, What, When, Where, Why?, CBS News Special Report, Feb. 27, 1968]
 
 <!-- id: EVT-2450 -->
-*   **Aug. 2, 1968:** At the Saigon regime's Field Military Court of Tactical Zone 3, Saigon commando Vo Thi Thang was sentenced to 20 years of hard labor. Upon hearing the verdict, she indomitably smiled and boldly stated: *"Will your government survive 20 years to imprison me?"*. Captured by a Japanese photojournalist, the photograph titled *"The Smile of Victory"* became an immortal symbol of the unyielding spirit of the Vietnamese people. [Source: Quang Ngai Provincial Party Committee, The Son My Massacre (March 16, 1968), National Political Publishing House, Hanoi, 1998; Seymour Hersh, My Lai 4, Random House, 1970]
+*   **Aug. 2, 1968:** At the Saigon regime's Field Military Court of Tactical Zone 3, Saigon commando Vo Thi Thang was sentenced to 20 years of hard labor. Upon hearing the verdict, she indomitably smiled and boldly stated: *"Will your government survive 20 years to imprison me?"*. Captured by a Japanese photojournalist, the photograph titled *"The Smile of Victory"* became an immortal symbol of the unyielding spirit of the Vietnamese people. [Source: Tien Phong Newspaper - Farewell to Victory Smile Vo Thi Thang, https://tienphong.vn/vinh-biet-nu-cuoi-chien-thang-vo-thi-thang-post715222.tpo]
 
 <!-- id: EVT-2451 -->
 * **18/08/1968:** Martyr Vo Lai (Battalion Commander of the 52nd Local Battalion of Binh Dinh Province) heroically sacrificed his life in a battle in Binh Dinh. [Source: Binh Dinh Provincial Military Command, History of the People's Armed Forces of Binh Dinh (1945 - 2005), People's Army Publishing House; Binh Dinh Newspaper]
@@ -8434,13 +8434,13 @@
 *   **May 8, 1972:** US President Richard Nixon ordered Operation Pocket Money, laying over 3,000 magnetic mines and delayed-action bombs to blockade Haiphong harbor and strategic northern river mouths to sever maritime supply lines. Facing extremely dangerous mine-clearing missions with slim chances of survival, volunteer suicide squads (from Naval Engineer Team 8, the Maritime Safety Directorate, Tràng Cát Border Guard Post, and clearing detachments) held emotional "living funeral" ceremonies (*lễ truy điệu sống*) directly on the docks before setting out. During these solemn farewell rituals, soldiers wrote final letters, received wreaths, swore the oath *"Decide to die for the Fatherland to live"*, and courageously steered iron motorboats to detonate and defuse mines, successfully reopening the strategic shipping channels. [Source: Naval Command, History of the Vietnam People's Navy (1955 - 2005), People's Army Publishing House, Hanoi, 2005; Hai Phong Newspaper]
 
 <!-- id: EVT-2555 -->
-* **19/05/1972:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Hồ Thị Kỷ (Nữ chiến sĩ Biệt động). [Source: Ben Tre Women's Union, The Long-Haired Army of Ben Tre in the Anti-US Resistance, Ben Tre Publishing House, 2000]
+* **19/05/1972:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Hồ Thị Kỷ (Nữ chiến sĩ Biệt động). [Source: Ca Mau Newspaper - Ca Mau town commando unit meets a participant: the story of Ho Thi Ky, https://baocamau.vn/doi-biet-dong-thi-xa-ca-mau-gap-nguoi-trong-cuoc-sau-hon-40-nam-bai-2-chuyen-it-biet-ve-ho-thi-ky--a8806.html]
 
 <!-- id: EVT-2556 -->
 * **19/05/1972:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lê Xuân Tấu (Tư lệnh Binh chủng Tăng-Thiết Giáp). [Source: Military History Institute of Vietnam, The 1972 Strategic Offensive, People's Army Publishing House, Hanoi, 2002]
 
 <!-- id: EVT-2557 -->
-*   **Jun. 1, 1972:** The Politburo issued Resolution No. 220-NQ/TW on shifting and promoting tasks in the North, transitioning the economy to wartime conditions to continue defeating the US aggressors. [Source: Binh Phuoc Provincial Military Command, History of the People's Armed Forces of Binh Phuoc (1945 - 2005), People's Army Publishing House, Hanoi, 2005]
+*   **Jun. 1, 1972:** The Politburo issued Resolution No. 220-NQ/TW on shifting and promoting tasks in the North, transitioning the economy to wartime conditions to continue defeating the US aggressors. [Source: Party Central Committee, Party Documents, Vol. 33, National Political Publishing House, Hanoi, 2004]
 
 <!-- id: EVT-2558 -->
 *   **Mid-1972:** At Vietnam's request, China sent personnel and equipment to assist in sweeping and dismantling naval mines and bombs dropped by the US in Vietnamese rivers and coastal waters. [Source: Military History Institute of Vietnam, History of the Resistance War against the US for National Salvation (1954 - 1975), Vol. 5, National Political Publishing House, Hanoi, 2013; Chronology of Vietnamese Military History]
@@ -9036,7 +9036,7 @@
 * **1979:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Trương Hữu Dem (from Cao Bằng). [Source: Vietnam Military History Institute, Heroes of the People's Armed Forces, Vol. VII, People's Army Publishing House, Hanoi, 1996; Cao Bang Provincial Military Command]
 
 <!-- id: EVT-2734 -->
-* **1979:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Bùi Thanh Hường (Thượng tá, Tham mưu phó Sư đoàn 324). [Source: Vietnam Military History Institute, Heroes of the People's Armed Forces, Vol. VII, People's Army Publishing House, Hanoi, 1996; Cao Bang Provincial Military Command]
+* **1979:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Bùi Thanh Hường (Thượng tá, Tham mưu phó Sư đoàn 324). [Source: Stories of the War Era - Hero Bui Thanh Huong, steel drill of Naval Special Forces (native of Dien Ban, Quang Nam), https://cauchuyenlichsu.vn/ky-uc-song-mai/anh-hung-bui-thanh-huong-mui-khoan-thep-cua-dac-cong-hai-quan-dung-si-diet-can-cu-noi-va-tau-chien-tren-vung-bien-mien-trung-739501]
 
 <!-- id: EVT-2735 -->
 * **1979:** Heroic Vietnamese Mother, Hero of the People's Armed Forces Nguyen Thi Ranh (mother from Cu Chi with husband, 8 children, and 2 grandchildren sacrificed in the two resistance wars) passed away. [Source: HCM City Party Committee Commission for Propaganda, Vietnamese Heroic Mothers of Ho Chi Minh City, HCM City General Publishing House, 2014; Sai Gon Giai Phong Newspaper]
@@ -9542,7 +9542,7 @@
 * **1993:** Hero of the People's Armed Forces Nguyễn Bá Phát (Nguyên Tư lệnh Quân chủng Hải quân, nguyên Thứ trưởng Thường trực Bộ Hải sản) passed away. [Source: Naval Command, Major General Nguyen Ba Phat - Life and Commander Career, People's Army Publishing House, 2005; Vietnam Navy Newspaper]
 
 <!-- id: EVT-2894 -->
-* **1993:** Hero of the People's Armed Forces Nguyễn Thanh Tùng (Mười Cơ) (Đại tá, nguyên Phó phòng Tình báo Miền (J22), Bộ Tham mưu Quân Giải phóng miền Nam) passed away. [Source: Long An Provincial Military Command, History of the People's Armed Forces of Long An (1945 - 2005), People's Army Publishing House, 2005; Long An Newspaper]
+* **1993:** Hero of the People's Armed Forces Nguyễn Thanh Tùng (Mười Cơ) (Đại tá, nguyên Phó phòng Tình báo Miền (J22), Bộ Tham mưu Quân Giải phóng miền Nam) passed away. [Source: Nhan Dan Newspaper - The legendary intelligence cluster chief (Nguyen Thanh Tung, alias Muoi Co, of the J22 Regional Intelligence Section), https://nhandan.vn/nguoi-cum-truong-cum-tinh-bao-huyen-thoai-post643911.html]
 
 <!-- id: EVT-2895 -->
 * **1993:** Hero of the People's Armed Forces Hoàng Hữu Kháng (Đại tá, nguyên Cục trưởng Cục Cảnh vệ (nay là Bộ tư lệnh Cảnh vệ), cận vệ của Chủ tịch Hồ Chí Minh từ tháng 5 năm 1945 cho đến khi Người qua đời) passed away. [Source: Guard Command, History of the Guard Command (1953 - 2013), Public Security Publishing House, Hanoi, 2013; Public Security Museum]
@@ -9724,7 +9724,7 @@
 *   **1997:** The **regional financial-monetary crisis** began, negatively affecting Vietnam's economy, reducing its growth rate and investment attraction. [Source: State Bank of Vietnam, Annual Report 1997; Institute of Economics, Impacts of the Asian Financial Crisis on Vietnam's Economy, Social Sciences Publishing House, 1998]
 
 <!-- id: EVT-2951 -->
-*   **1997:** The remains of martyr Nguyen Huu Que, who fell defending Hill 815 in 1979, were successfully located in Coc Cang (Tra Linh, Cao Bang) by his family and repatriated to Thanh Hoa. [Source: Ha Giang Provincial Military Command, Vi Xuyen Battlefield Fallen Soldiers Exhumation Dossier; People's Army Newspaper]
+*   **1997:** The remains of martyr Nguyen Huu Que, who fell defending Hill 815 in 1979, were successfully located in Coc Cang (Tra Linh, Cao Bang) by his family and repatriated to Thanh Hoa. [Source: Cao Bang Provincial Military Command; People's Army Newspaper]
 
 <!-- id: EVT-2952 -->
 * **1997:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Lê Độ (Chiến sĩ biệt động thành phố Đà Nẵng). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 1997; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2001]
@@ -9802,7 +9802,7 @@
 * **1999:** Hero of the People's Armed Forces Đinh Núp (Đại biểu Quốc hội khóa 6, Ủy viên Ủy ban Thường vụ Quốc hội, Lúc tuyên dương là thôn đội trưởng du kích, lãnh đạo các dân tộc Ba Na và Ê Đê chống thực dân Pháp) passed away. [Source: Communique of Gia Lai Provincial Party Committee, People's Council, People's Committee, July 10, 1999; Gia Lai Newspaper; Nhan Dan Newspaper; Vietnam Military History Institute]
 
 <!-- id: EVT-2977 -->
-* **1999:** Hero of the People's Armed Forces Lý A Coỏng (Chính trị viên xã đội Thanh Y, huyện Đầm Hà. Tham gia chống phản động, tiểu phỉ, vây bắt biệt kích Mỹ, góp phần đập tan vành đai “Xứ Nùng tự trị”) passed away. [Source: Dien Bien Provincial Military Command, History of the People's Armed Forces of Dien Bien (1945 - 2005), People's Army Publishing House, 2005; Dien Bien Phu Newspaper]
+* **1999:** Hero of the People's Armed Forces Lý A Coỏng (Chính trị viên xã đội Thanh Y, huyện Đầm Hà. Tham gia chống phản động, tiểu phỉ, vây bắt biệt kích Mỹ, góp phần đập tan vành đai “Xứ Nùng tự trị”) passed away. [Source: VietnamNet Newspaper - Gold cannot buy the Dao people's loyalty to the Party (hero Ly A Coong, native of Thanh Y, Dam Ha, Quang Ninh), https://vietnamnet.vn/vang-khong-mua-noi-long-nguoi-dao-theo-dang-2512929.html]
 
 <!-- id: EVT-2978 -->
 * **1999:** Hero of the People's Armed Forces Sùng Dúng Lù (Xã đội trưởng xã Vần Chải, huyện Đồng Văn; tham gia công tác tiểu phỉ, vận động tướng phỉ Vàng Vạn Ly ra trình diện, chăm lo xây dựng đời sống, phát triển kinh tế cho đồng bào các dân tộc) passed away. [Source: Ha Giang Provincial Military Command, History of the People's Armed Forces of Ha Giang (1945 - 2005), People's Army Publishing House, 2005; Ha Giang Newspaper]
@@ -9934,7 +9934,7 @@
 *   **09/12/2002:** Prominent revolutionary poet Tố Hữu (former Politburo Member and Vice Chairman of the Council of Ministers) passed away in Hanoi at age 82. Regarded as the leading poet of Vietnam's revolutionary literature, he was awarded the Gold Star Order and the First Class Hồ Chí Minh Prize in Literature and Arts in 1996. [Source: Special Communique of the Party Central Committee, National Assembly, President, Government, VFF Central Committee, Dec. 9, 2002; Nhan Dan Newspaper, Dec. 10, 2002]
 
 <!-- id: EVT-3020 -->
-* **2003:** Hero of the People's Armed Forces Nguyễn Tư Cường (Tiểu đoàn phó đặc công thuộc Tiểu đoàn 323, Đại đoàn 324. Sau là Thiếu tướng, Tư lệnh Binh chủng Đặc công, Trưởng Đoàn Chuyên gia Quân sự Đặc công tại Cuba) passed away. [Source: Vietnam Military History Institute, Heroes of the People's Armed Forces, Vol. I, People's Army Publishing House, 1996; Bac Ninh Provincial Military Command]
+* **2003:** Hero of the People's Armed Forces Nguyễn Tư Cường (Tiểu đoàn phó đặc công thuộc Tiểu đoàn 323, Đại đoàn 324. Sau là Thiếu tướng, Tư lệnh Binh chủng Đặc công, Trưởng Đoàn Chuyên gia Quân sự Đặc công tại Cuba) passed away. [Source: Stories of the War Era - Major General Nguyen Tu Cuong (native of Ninh Hoa, Khanh Hoa), https://cauchuyenlichsu.vn/ky-uc-song-mai/thieu-tuong-nguyen-tu-cuong]
 
 <!-- id: EVT-3021 -->
 * **2003:** Hero of the People's Armed Forces Bùi Quang Mại (Đại đội trưởng bộ binh, Tiểu đoàn 79, Trung đoàn 102, Đại đoàn 308. Sau là Chủ nhiệm Chính trị Trung đoàn 102, Sư đoàn 308, đại biểu Quốc hội khoá III (1964-1971)) passed away. [Source: 1st Corps, History of the 1st Corps - Quyet Thang Corps (1973 - 2003), People's Army Publishing House, 2003; Vietnam Military History Institute]
@@ -10226,7 +10226,7 @@
 *   **2011:** The Philippines formally protested China's "nine-dash line" claim in the South China Sea. [Source: Diplomatic Note by Philippine Permanent Mission to the UN, Apr. 5, 2011 protesting China's nine-dash line; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3110 -->
-* **2011:** Hero of the People's Armed Forces Nguyễn Minh Thắng (Trung Đội phó trinh sát Tiểu đoàn Quyết Thắng, Quân khu Sài Gòn - Gia Định) passed away. [Source: Ben Tre Provincial Military Command, History of the People's Armed Forces of Ben Tre (1945 - 2005), People's Army Publishing House, 2005; Dong Khoi Newspaper]
+* **2011:** Hero of the People's Armed Forces Nguyễn Minh Thắng (Trung Đội phó trinh sát Tiểu đoàn Quyết Thắng, Quân khu Sài Gòn - Gia Định) passed away. [Source: Saigon Giai Phong Newspaper - The mark of Saigon - Gia Dinh in the Spring 1975 victory (Quyet Thang Regiment), https://www.sggp.org.vn/dau-an-cua-sai-gon-gia-dinh-trong-dai-thang-mua-xuan-1975-post687671.html; Military History Institute of Vietnam, Heroes of the People's Armed Forces]
 
 <!-- id: EVT-3111 -->
 * **2011:** Hero of the People's Armed Forces Hồ Thị Bi (Nữ chỉ huy quân sự kiên cường trong hai cuộc kháng chiến chống Pháp và chống Mỹ, được Chủ tịch Hồ Chí Minh đặt biệt danh "Nữ kiệt miền Đông") passed away. [Source: Communique of HCM City Authorities and Military Region 7 Command, Oct. 12, 2011; Sai Gon Giai Phong Newspaper, Oct. 13, 2011]
@@ -10398,7 +10398,7 @@
 *   **Dec. 5, 2013:** The Art of Don Ca Tai Tu Music and Song in Southern Vietnam was recognized by UNESCO as a heritage. [Source: UNESCO, Decision of the Intergovernmental Committee inscribing Don Ca Tai Tu Music and Song on Representative List, Dec. 5, 2013; Nhan Dan Newspaper]
 
 <!-- id: EVT-3166 -->
-* **2014:** Hero of the People's Armed Forces Hồ Văn Bé (Trung đội trưởng đặc công huyện Chợ Gạo. Sau là Đại tá, Phó Sư đoàn trưởng Sư đoàn 8, Quân khu 9) passed away. [Source: Commando Arm, History of the Commando Arm (1967 - 2007), People's Army Publishing House, 2007; Dong Thap Provincial Military Command]
+* **2014:** Hero of the People's Armed Forces Hồ Văn Bé (Trung đội trưởng đặc công huyện Chợ Gạo. Sau là Đại tá, Phó Sư đoàn trưởng Sư đoàn 8, Quân khu 9) passed away. [Source: Tien Giang Provincial Military Command; Military History Institute of Vietnam, Heroes of the People's Armed Forces]
 
 <!-- id: EVT-3167 -->
 * **2014:** Hero of the People's Armed Forces Phan Hoan (Trung tướng, Tư lệnh Quân Khu 5) passed away. [Source: Military Region 5 Command, Lieutenant General Phan Hoan - Steadfast General of Zone 5 Battlefield, People's Army Publishing House, 2015; People's Army Newspaper]
@@ -10624,7 +10624,7 @@
 *   **Dec. 7, 2017:** The Bài Chòi art form of Central Vietnam was recognized as a heritage by UNESCO. [Source: UNESCO, Decision of the Intergovernmental Committee inscribing The Art of Bai Choi in Central Vietnam on Representative List, Dec. 7, 2017; Nhan Dan Newspaper]
 
 <!-- id: EVT-3239 -->
-* **2018:** Hero of the People's Armed Forces Võ Văn Mừng (Tiểu đội trưởng đặc công, phân liên khu Tây Nam Bộ. Sau là Trung tá, Chủ nhiệm Chính trị Đoàn 646 - Quân khu 7) passed away. [Source: Commando Arm, History of the Commando Arm (1967 - 2007), People's Army Publishing House, 2007; Tay Ninh Provincial Military Command]
+* **2018:** Hero of the People's Armed Forces Võ Văn Mừng (Tiểu đội trưởng đặc công, phân liên khu Tây Nam Bộ. Sau là Trung tá, Chủ nhiệm Chính trị Đoàn 646 - Quân khu 7) passed away. [Source: Special Forces Command, History of the Special Forces (1967 - 2007), People's Army Publishing House, 2007; Stories of the War Era - Dong Thap inaugurates the statue of Hero Vo Van Mung, https://cauchuyenlichsu.vn/ky-uc-song-mai/dong-thap-khanh-thanh-tuong-anh-hung-llvt-nhan-dan-vo-van-mung]
 
 <!-- id: EVT-3240 -->
 * **2018:** Hero of the People's Armed Forces Nguyễn Hữu Vị (Tham gia cuộc kháng chiến giải phóng dân tộc và bảo vệ Tổ quốc, nguyên Chỉ huy trưởng Bộ Chỉ huy Quân sự tỉnh Bến Tre) passed away. [Source: Ben Tre Provincial Party Committee Commission for Propaganda, History of Ben Tre Provincial Party Organization, 2005; Dong Khoi Newspaper]
@@ -10892,7 +10892,7 @@
 * **2023:** Hero of the People's Armed Forces Đặng Đức Song (Khi tuyên dương là Trung đội trưởng bộ binh Đại đội 5, Tiểu đoàn 2, Trung đoàn 98, Đại đoàn 316. Tham gia trận phòng ngự Đồi Xanh trong chiến dịch Điện Biên Phủ, được trao danh hiệu "Dũng sĩ Đồi xanh". Sau là Đại tá, giám đốc Nhà máy M1, Binh chủng Thông tin liên lạc; đại biểu Quốc hội khóa II) passed away. [Source: 1st Corps, History of 312th Division, People's Army Publishing House; Hai Duong Newspaper, June 15, 2023]
 
 <!-- id: EVT-3326 -->
-* **2023:** Hero of the People's Armed Forces Bùi Văn Tùng (Đại tá, nguyên Chính ủy Lữ đoàn xe tăng 203, Quân đoàn 2. Người đã thảo lời đầu hàng không điều kiện cho ông Dương Văn Minh - Tổng thống cuối cùng của chế độ Việt Nam Cộng hòa đọc trên Đài phát thanh vào ngày 30/4/1975) passed away. [Source: 2nd Corps Command and Thua Thien Hue Provincial Party Committee Communique, Feb. 9, 2023; People's Army Newspaper, Feb. 10, 2023; Tuoi Tre Newspaper]
+* **2023:** Hero of the People's Armed Forces Bùi Văn Tùng (Đại tá, nguyên Chính ủy Lữ đoàn xe tăng 203, Quân đoàn 2. Người đã thảo lời đầu hàng không điều kiện cho ông Dương Văn Minh - Tổng thống cuối cùng của chế độ Việt Nam Cộng hòa đọc trên Đài phát thanh vào ngày 30/4/1975) passed away. [Source: Voice of Vietnam (VOV) - Colonel and former Commissar of Tank Brigade 203 Bui Van Tung passes away (born in Da Nang), https://vov.gov.vn/dai-ta-nguyen-chinh-uy-lu-doan-xe-tang-203-bui-van-tung-qua-doi-dtnew-466432]
 
 <!-- id: EVT-3327 -->
 *   **Jan. 1, 2023:** Paper household registration books and temporary residence books were officially invalidated. [Source: Law on Residence of 2020 No. 68/2020/QH14 stipulating paper household registration books expire from Jan. 1, 2023; Ministry of Public Security; Official Gazette; Nhan Dan Newspaper]
