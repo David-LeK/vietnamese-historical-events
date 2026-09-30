@@ -298,6 +298,10 @@
 <!-- id: EVT-0060 -->
 *   **Năm 34:** Vua Quang Vũ nhà Hán sai Tô Định sang làm Thái thú quận Giao Chỉ. Sự cai trị tàn bạo và thuế khóa hà khắc của Tô Định là nguyên nhân trực tiếp dẫn đến cuộc khởi nghĩa của Hai Bà Trưng. [Nguồn: Khởi nghĩa Hai Bà Trưng và kháng chiến chống Đông Hán (40-43), https://nvsk.vnanet.vn/khoi-nghia-hai-ba-trung-va-khang-chien-chong-dong-han-40-43-1-34961.vna]
 
+![Hình ảnh tư liệu](images/event_20260930_214523.webp)
+
+*Nguồn: Tượng quan Thái thú Tô Định thời Đông Hán. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-0061 -->
 *   **40:** Hai Bà Trưng dấy binh khởi nghĩa, giành lại độc lập. Trưng Trắc lên ngôi vua, đóng đô ở Mê Linh. [Nguồn: Khởi nghĩa Hai Bà Trưng và kháng chiến chống Đông Hán (40-43), https://nvsk.vnanet.vn/khoi-nghia-hai-ba-trung-va-khang-chien-chong-dong-han-40-43-1-34961.vna]
 
@@ -697,6 +701,10 @@
 <!-- id: EVT-0172 -->
 *   **971:** Đinh Tiên Hoàng bắt đầu quy định cấp bậc cho quan lại văn, võ và tăng đạo. Ngô Chân Lưu được phong làm Khuông Việt Đại sư (chức Tăng thống). [Nguồn: Lê Đại Hành (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Lê_Đại_Hành]
 
+![Hình ảnh tư liệu](images/event_20260930_214523_1.webp)
+
+*Nguồn: Thiền sư Khuông Việt (Ngô Chân Lưu). Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-0173 -->
 *   **974:** Đinh Tiên Hoàng chia cả nước làm 10 đạo. [Nguồn: Nhà nước Đại Cồ Việt dưới thời Tiền Lê (980-1009), https://baoninhbinh.org.vn/nha-nuoc-dai-co-viet-duoi-thoi-tien-le-980-1009-va-thoi-ky/d20180313090239782.htm]
 
@@ -708,6 +716,10 @@
 
 <!-- id: EVT-0176 -->
 *   **10/979 (Kỷ Mão):** Đỗ Thích ám sát vua Đinh Tiên Hoàng và Nam Việt vương Đinh Liễn. Vệ vương Đinh Toàn (6 tuổi) lên ngôi. Lê Hoàn làm nhiếp chính. [Nguồn: Giải mã cái chết bất đắc kỳ tử của các ông vua VN (kỳ 3), https://baotanglichsu.vn/vi/Articles/3096/8190/giai-ma-cai-chet-bat-djac-ky-tu-cua-cac-ong-vua-vn-ky-3.html]
+
+![Hình ảnh tư liệu](images/event_20260930_214523_2.webp)
+
+*Nguồn: Cổng Đông cố đô Hoa Lư. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-0177 -->
 *   **Cuối năm 979:** Đinh Điền và Nguyễn Bặc dấy binh chống Lê Hoàn và bị giết. Phò mã Ngô Nhật Khánh dẫn quân Chiêm Thành định tấn công nhưng bị bão đánh chìm và chết đuối. [Nguồn: Đinh Phế Đế (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Đinh_Phế_Đế]
@@ -748,6 +760,10 @@
 <!-- id: EVT-0185 -->
 *   **982:** Vua Lê Đại Hành thân chinh chỉ huy thủy bộ binh tiến đánh Chiêm Thành sau khi vua Chiêm giam giữ sứ thần Đại Cồ Việt; chém vua Chiêm Bê Mị Thuế (Paramesvaravarman I) tại trận, bình định kinh thành Indrapura (Đồng Dương) và giải cứu các sứ giả. [Nguồn: Nhân vật lịch sử Lê Hoàn, https://xuantin.thanhhoa.gov.vn/Default.aspx?catid=134989&catname=thong-tin-tuyen-truyen&id=456786&pageid=87222&sid=3556&title=nhan-vat-lich-su-le-hoan]
 
+![Hình ảnh tư liệu](images/event_20260930_214509_1.webp)
+
+*Nguồn: Tháp Po Nagar, Nha Trang. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-0186 -->
 *   **983:** Lê Đại Hành ra lệnh đào kênh Bà Hòa (Thanh Hóa) và kênh Đa Cái (Nghệ An) để thuận tiện cho việc vận chuyển quân lương và giao thông đường thủy. Vua Lê Đại Hành rút đại quân về Hoa Lư, lưu lại một đạo quân trú phòng tại miền bắc Chiêm Thành (từ Hoành Sơn đến mũi Varella) do Quản giáp **Lưu Kế Tông** chỉ huy. [Nguồn: Lê Đại Hành (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Lê_Đại_Hành]
 
@@ -768,6 +784,10 @@
 
 <!-- id: EVT-0192 -->
 *   **988:** Lê Hoàn (Lê Đại Hành) được phong làm Khai quốc hầu và được hưởng 3.000 hộ làm thực ấp. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Lê (Đại Hành hoàng đế), https://vi.wikipedia.org/wiki/L%C3%AA_%C4%90%E1%BA%A1i_H%C3%A0nh]
+
+![Hình ảnh tư liệu](images/event_20260930_215036.webp)
+
+*Nguồn: Sập đá đền Lê Đại Hành, Hoa Lư. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-0193 -->
 *   **989:** **Lưu Kế Tông** qua đời. Vua Chiêm Harivarman II khôi phục lại vùng Amaravati và bắc bộ Nhật Nam đến tận châu Địa Lý. [Nguồn: Lưu Kế Tông (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Lưu_Kế_Tông]
@@ -825,6 +845,10 @@
 <!-- id: EVT-0207 -->
 *   **1010:** Vua Lý Thái Tổ đến châu Cổ Pháp (Thiên Đức) yết lăng Thái hậu, sai các quan đo đất vài mươi dặm đặt làm cấm địa thuộc sơn lăng. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Lý (Thái Tổ hoàng đế), https://vi.wikipedia.org/wiki/L%C3%BD_Th%C3%A1i_T%E1%BB%95]
 
+![Hình ảnh tư liệu](images/event_20260930_214509_2.webp)
+
+*Nguồn: Đền Đô thờ tám vua Lý, Bắc Ninh. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-0208 -->
 *   **07/1010:** Lý Thái Tổ ra "Chiếu dời đô", chuyển kinh đô từ Hoa Lư về thành Đại La và đổi tên thành Thăng Long. Đổi Hoa Lư làm phủ Trường Yên. [Nguồn: Chiếu dời đô, https://hoangthanhthanglong.vn/chieu-doi-do/]
 
@@ -841,6 +865,10 @@
 
 <!-- id: EVT-0210 -->
 *   **1013:** Lý Thái Tổ định ra các hạng thuế trong cả nước, bao gồm thuế bãi dâu thu bằng thóc và tiền, chính thức thừa nhận và bảo vệ nghề trồng dâu nuôi tằm, dệt lụa. [Nguồn: Những cuộc cải cách của Lý Thái Tổ, https://vjol.info.vn/index.php/khxhvn/article/download/40092/32257]
+
+![Hình ảnh tư liệu](images/event_20260930_215538.webp)
+
+*Nguồn: Thợ dệt lụa Vạn Phúc. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-0211 -->
 *   **01/1014:** Trận bến Kim Hoa. Vua Đại Lý Đoàn Tố Liêm cử hai tướng Dương Trường Huệ và Đoàn Kính Chí dẫn 20 vạn quân sang xâm lược Đại Cồ Việt, đóng đồn lập trại Ngũ Hoa tại bến Kim Hoa (vùng Tuyên Quang - Hà Giang). Vua Lý Thái Tổ sai Dực Thánh Vương đem quân đón đánh; quân Đại Cồ Việt hiệp đồng tượng binh và bộ binh đại phá kỵ binh Đại Lý, chém đầu hàng vạn giặc và bắt sống vô số quân lính, chiến mã. Đến tháng 07/1014, nhà Lý cử sứ thần đem 100 con ngựa chiến lợi phẩm dâng tặng triều Tống. [Nguồn: Dực Thánh vương (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Dực_Thánh_vương]
@@ -889,6 +917,10 @@
 
 <!-- id: EVT-0226 -->
 *   **1039:** Hoàng tử Lý Nhật Quang (Lý Hoảng) được cử vào quản lý châu Nghệ An, thực hiện việc thu thuế và ổn định vùng biên viễn phía Nam. [Nguồn: Đền Lý Nhật Quang - Xã Đô Lương, https://doluong.nghean.gov.vn/den-ly-nhat-quang]
+
+![Hình ảnh tư liệu](images/event_20260930_214523_3.webp)
+
+*Nguồn: Cầu Bến Thủy bắc qua sông Lam. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-0227 -->
 *   **02/1040:** Vua Lý Thái Tông dạy các cung nữ dệt gấm vóc, xuống chiếu phát hết gấm vóc của nước Tống trong kho ban cho các quan để tỏ ý dùng hàng nội, không dùng hàng Tống nữa. [Nguồn: Lý Thái Tông – nhà chính trị, nhà quân sự tài giỏi, https://nguoihanoi.vn/ly-thai-tong-nha-chinh-tri-nha-quan-su-tai-gioi-78820.html]
@@ -1488,11 +1520,19 @@
 <!-- id: EVT-0407 -->
 *   **1305:** Triều đình nhà Trần cho xây dựng Tháp Phổ Minh cao 14 tầng tại khuôn viên Chùa Phổ Minh (Nam Định) để lưu giữ xá lỵ của Phật hoàng Trần Nhân Tông, một kiệt tác kiến trúc và điêu khắc thời Trần. [Nguồn: Tháp cổ 14 tầng ở Nam Định (Dân Việt), https://danviet.vn/mot-ngoi-thap-co-14-tang-o-nam-dinh-dam-dau-tich-hao-khi-dong-a-nuoc-dai-viet-thoi-nha-tran-20230828222615715-d1114778.html]
 
+![Hình ảnh tư liệu](images/event_20260930_214523_4.webp)
+
+*Nguồn: Tháp Phổ Minh, Nam Định. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-0408 -->
 *   **1306:** Vua Champa là Chế Mân dâng hai châu Ô và Lý để làm sính lễ cưới công chúa Huyền Trân. [Nguồn: Huyền Trân công chúa và bang giao Đại Việt - Chăm-pa (Giác Ngộ), https://giacngo.vn/huyen-tran-cong-chua-va-cuoc-bang-giao-dai-viet-cham-pa-post61652.html]
 
 <!-- id: EVT-0409 -->
 *   **1307:** Nhà Trần đổi tên hai châu Ô, Lý thành châu Thuận và châu Hóa, sáp nhập vào lãnh thổ Đại Việt. [Nguồn: Thuận Hóa - Phú Xuân - Huế trong dòng lịch sử (Lưu trữ Quốc gia), https://archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/thuan-hoa-phu-xuan-hue-trong-dong-lich-su.htm]
+
+![Hình ảnh tư liệu](images/event_20260930_214510_2.webp)
+
+*Nguồn: Đèo Hải Vân giữa Thừa Thiên và Đà Nẵng. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-0410 -->
 *   **14/12/1308 (01/11 năm Mậu Thân):** Thái thượng hoàng Trần Nhân Tông (Trần Khâm) – vị vua anh minh kiệt xuất lãnh đạo Đại Việt đánh bại hoàn toàn các đạo quân xâm lược Nguyên Mông, sau xuất gia sáng lập Thiền phái Trúc Lâm Yên Tử (Phật Hoàng Trần Nhân Tông) – viên tịch tại am Ngọa Vân trên đỉnh núi Yên Tử, thọ 51 tuổi. [Nguồn: Tưởng niệm 715 năm Phật hoàng Trần Nhân Tông nhập niết bàn (Công Lý), https://congly.vn/dai-le-tuong-niem-715-nam-phat-hoang-tran-nhan-tong-nhap-niet-ban-tai-yen-tu-409292.html]
@@ -1906,6 +1946,10 @@
 <!-- id: EVT-0537 -->
 *   **12/1400:** Hồ Quý Ly nhường ngôi cho con là Hồ Hán Thương, tự xưng là Thái thượng hoàng nhưng vẫn thâu tóm quyền lực. Đánh thuế thuyền buôn theo 3 mức thượng, trung, hạ. [Nguồn: Nhà Hồ (1400-1407): quốc hiệu Đại Ngu, kinh đô Tây Đô, https://scov.gov.vn/dat-nuoc-con-nguoi/tom-tat-bien-nien-su-vn/xv.-nha-ho-1400-1407-quoc-hieu-dai-ngu-kinh-do-tay-do-thanh-hoa-.html]
 
+![Hình ảnh tư liệu](images/event_20260930_214510_3.webp)
+
+*Nguồn: Tiền đồng thời Hồ. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-0538 -->
 *   **1401:** Lập kho Thường bình, dùng tiền giấy mua lúa thóc trữ để cứu đói và bình ổn giá cả thị trường. Định hình luật nước Đại Ngu. [Nguồn: Nhà Hồ (1400-1407): quốc hiệu Đại Ngu, kinh đô Tây Đô, https://scov.gov.vn/dat-nuoc-con-nguoi/tom-tat-bien-nien-su-vn/xv.-nha-ho-1400-1407-quoc-hieu-dai-ngu-kinh-do-tay-do-thanh-hoa-.html]
 
@@ -2005,6 +2049,10 @@
 <!-- id: EVT-0570 -->
 *   **1407 - 1414:** Quân xâm lược nhà Minh do Trương Phụ chỉ huy tiến hành hàng loạt vụ tàn sát man rợ dân thường, chặt đầu, moi ruột, nấu mỡ người, chất xác thành gò đống để khủng bố tinh thần nhân dân Đại Việt; đồng thời cưỡng bức hàng vạn người dân lặn biển mò ngọc trai, lên rừng đào vàng, bắt thợ thủ công tài hoa cướp về Kim Lăng, gây nên nỗi thống khổ vô tận từng được Nguyễn Trãi đanh thép vạch trần trong *"Bình Ngô đại cáo"*: *"Nướng dân đen trên ngọn lửa hung tàn, Vùi con đỏ xuống dưới hầm tai vạ"*. [Nguồn: Từ Bình Ngô đại cáo đến Tuyên ngôn Độc lập (Cổng TTĐT TP.HCM), https://hochiminh.vn/tin-tuc/tu-binh-ngo-dai-cao-den-tuyen-ngon-doc-lap-938]
 
+![Hình ảnh tư liệu](images/event_20260930_214510_4.webp)
+
+*Nguồn: Chân dung Nguyễn Trãi. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-0571 -->
 *   **20/02/1407 (âm lịch):** Trận Mộc Phàm trên sông Lô. Thủy bộ quân nhà Hồ giao chiến nhưng thất bại nặng nề, mất 100 thuyền chiến và 1 vạn quân, phải lui về Muộn Hải. [Nguồn: Nhà Minh xâm lược Đại Ngu (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Nh%C3%A0_Minh_x%C3%A2m_l%C6%B0%E1%BB%A3c_%C4%90%E1%BA%A1i_Ngu]
 
@@ -2064,6 +2112,10 @@
 
 <!-- id: EVT-0589 -->
 *   **02/1416:** Tại Lũng Nhai (Thanh Hóa), Lê Lợi cùng 18 người bạn thân tổ chức hội thề, quyết tâm đánh đuổi quân Minh. [Nguồn: Hội thề Lũng Nhai (Báo Thanh Hóa), https://baothanhhoa.vn/hoi-the-lung-nhai-dau-tich-va-y-nghia-thoi-dai-88231.htm]
+
+![Hình ảnh tư liệu](images/event_20260930_214523_5.webp)
+
+*Nguồn: Hồ Gươm gắn truyền thuyết Lê Lợi trả gươm. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-0590 -->
 *   **02/1418 (09/01 năm Mậu Tuất):** Nghĩa quân bị địch vây bức, phải lui về đóng ở Lạc Thủy. [Nguồn: Việt Nam sử lược I-III-XIV (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_I/Ph%E1%BA%A7n_III/Ch%C6%B0%C6%A1ng_XIV]
@@ -2325,6 +2377,10 @@
 <!-- id: EVT-0664 -->
 *   **01/09/1442 (04/08 năm Nhâm Tuất):** Vua Lê Thái Tông sau khi duyệt võ ở Chí Linh đột ngột băng hà tại Lệ Chi Viên (Gia Bình, Bắc Ninh) ở tuổi 20. Sự kiện này dẫn tới Vụ án Lệ Chi Viên oan khốc khiến đại công thần khai quốc Nguyễn Trãi cùng gia tộc bị tru di tam tộc (về sau được vua Lê Thánh Tông chính thức minh oan và truy phục danh dự vào năm 1464). [Nguồn: Lệ Chi Viên (Báo Pháp Luật), https://baophapluat.vn/le-chi-vien-ngay-ay-bay-gio-post203501.html]
 
+![Hình ảnh tư liệu](images/event_20260930_214511_2.webp)
+
+*Nguồn: Chùa Côn Sơn, Hải Dương. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-0665 -->
 *   **1443:** Lê Nhân Tông lên ngôi. [Nguồn: Vua lên ngôi khi hơn 1 tuổi (VnExpress), https://vnexpress.net/vua-nao-len-ngoi-khi-moi-hon-1-tuoi-4381489-p3.html]
 
@@ -2336,6 +2392,10 @@
 
 <!-- id: EVT-0668 -->
 *   **1453:** Tuyên Từ Hoàng thái hậu Nguyễn Thị Anh trao trả quyền bính; vua Lê Nhân Tông bắt đầu thân chính điều hành đất nước ở tuổi 12, đổi niên hiệu sang Diên Ninh. Nhà vua ban hành nhiều chính sách khoan hòa, miễn giảm thuế khóa, khuyến khích nông nghiệp và xuống chiếu minh oan, truy phục quan tước cho các công thần khai quốc bị hàm oan trước đó như Nguyễn Trãi, Lê Sát, Trình Khả. [Nguồn: Bản án 2 dũng tướng (lsvn.vn), https://lsvn.vn/ban-an-ky-la-day-oan-nghiet-giang-xuong-dau-2-dung-tuong-la-bo-vo-cua-vua-a23209.html]
+
+![Hình ảnh tư liệu](images/event_20260930_214512.webp)
+
+*Nguồn: Tiền Diên Ninh thời Lê Nhân Tông. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-0669 -->
 *   **28/10/1459:** Lạng Sơn vương Lê Nghi Dân cùng thuộc hạ đang đêm bắc thang trèo tường vào cấm cung làm binh biến sát hại vua Lê Nhân Tông và Hoàng thái hậu Nguyễn Thị Anh, cướp ngôi và đặt niên hiệu Thiên Hưng. [Nguồn: Vua Lê bị anh sát hại cướp ngôi? (Dân Việt), https://danviet.vn/vi-vua-tai-ba-nao-cua-nha-le-bi-anh-ruot-sat-hai-cuop-ngoi-20250129200625785-d1208262.html]
@@ -2363,6 +2423,10 @@
 
 <!-- id: EVT-0677 -->
 *   **1466:** Lê Thánh Tông chia cả nước thành 12 đạo Thừa tuyên. Bắt đầu đặt **Năm phủ** (Ngũ phủ quân) và kiện toàn Sáu bộ để thống nhất quản lý quân sự và hành chính. [Nguồn: Lê Thánh Tông đại cải cách (Báo Pháp Luật), https://baophapluat.vn/vua-le-thanh-tong-va-cuoc-dai-cai-cach-giup-vuong-trieu-cuc-thinh-post508791.html]
+
+![Hình ảnh tư liệu](images/event_20260930_214512_1.webp)
+
+*Nguồn: Đền Quán Thánh, Hà Nội. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-0678 -->
 *   **1469:** Vua Lê Thánh Tông cho định bản đồ 12 thừa tuyên trong cả nước. Thừa tuyên Nam Sách đổi tên thành Thừa tuyên Hải Dương, danh xưng "Hải Dương" chính thức xuất hiện. [Nguồn: Hải Dương tứ trấn (TTXVN), https://www.vietnamplus.vn/lich-su-tinh-hai-duong-mot-trong-tu-tran-bao-ve-kinh-thanh-xua-post1021214.vnp]
@@ -2430,8 +2494,16 @@
 <!-- id: EVT-0695 -->
 *   **Thế kỷ XVI:** Các nhà thám hiểm Bồ Đào Nha gọi Hoàng Sa là "Ilhas do Pracel". [Nguồn: Chủ quyền Hoàng Sa - Trường Sa (Thanh Niên), https://thanhnien.vn/luat-quoc-te-va-chu-quyen-tren-hai-quan-dao-hoang-sa-truong-sa-ky-9-tu-lieu-khach-quan-thua-nhan-chu-quyen-viet-nam-185292172.htm]
 
+![Hình ảnh tư liệu](images/event_20260930_214512_2.webp)
+
+*Nguồn: Tàu caravel Bồ Đào Nha thế kỷ XVI. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-0696 -->
 *   **1504 (Tháng 6 âm lịch năm Giáp Tý):** Sau khi vua Lê Hiến Tông băng hà, Hoàng thái tử Lê Thuần lên ngôi hoàng đế (Lê Túc Tông), đặt niên hiệu Thái Trinh. Là vị vua hiếu học, tính tình thuần hậu, nhà vua chủ trương giữ gìn kỷ cương triều đình, giảm bớt thuế khóa và trọng dụng hiền thần. [Nguồn: Bia Kính Lăng (VnExpress), https://vnexpress.net/bao-vat-hon-500-tuoi-khac-ghi-cong-trang-vi-vua-doan-menh-4717608.html]
+
+![Hình ảnh tư liệu](images/event_20260930_214512_3.webp)
+
+*Nguồn: Điện Kính Thiên, Hoàng thành Thăng Long. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-0697 -->
 *   **08/12/1504 (08/11 năm Giáp Tý):** Vua Lê Túc Tông lâm bệnh nặng và băng hà ở tuổi 17 sau 6 tháng trị vì. Trước khi mất, nhà vua để lại di chiếu truyền ngôi cho người anh thứ hai là Giản Tu công Lê Tuấn (sau là vua Lê Uy Mục). [Nguồn: Lăng Lê Túc Tông (Thanh Niên), https://thanhnien.vn/can-canh-lang-mo-vua-le-tuc-tong-185250507155024013.htm]
@@ -2457,6 +2529,10 @@
 <!-- id: EVT-0704 -->
 *   **1516 (Tháng 5 âm lịch năm Bính Tý):** Sau khi tướng Trịnh Duy Sản làm binh biến giết vua Lê Tương Dực, hoàng tộc và các đại thần đã tôn hoàng tử Lê Y (cháu nội vua Lê Thánh Tông) lên ngôi hoàng đế tại Thăng Long, đặt niên hiệu Quang Thiệu (vua Lê Chiêu Tông). [Nguồn: Lê Y lên ngôi Chiêu Tông 1516 (Thư viện Đồng Nai), https://www.thuviendongnai.gov.vn/baiviet2015/lichsu/default.aspx?Category=&ItemID=280&Mode=1]
 
+![Hình ảnh tư liệu](images/event_20260930_214523_6.webp)
+
+*Nguồn: Tiền thời Lê Tương Dực. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-0705 -->
 *   **07/05/1516:** Trịnh Duy Sản làm binh biến, giết vua Lê Tương Dực. [Nguồn: Trịnh Duy Sản giết Lê Tương Dực (Nghiên cứu Quốc tế), https://nghiencuuquocte.org/2024/02/24/trinh-duy-san-giet-vua-le-tuong-duc/]
 
@@ -2480,6 +2556,10 @@
 
 <!-- id: EVT-0711 -->
 *   **11/1527 (Tháng 10 năm Đinh Hợi):** Sau khi đoạt ngôi lập ra triều Mạc, Mạc Đăng Dung ép cựu hoàng Lê Cung Hoàng cùng mẹ là Hoàng thái hậu Trịnh Thị Loan phải uống thuốc độc tự vẫn tại phường Tây Mỗ, chính thức khép lại giai đoạn 99 năm hưng thịnh của vương triều Lê Sơ. [Nguồn: Mạc Đăng Dung lấn át Lê sơ (VnExpress), https://vnexpress.net/mac-dang-dung-lan-at-nha-le-so-tu-khi-nao-3589531-p11.html]
+
+![Hình ảnh tư liệu](images/event_20260930_214512_4.webp)
+
+*Nguồn: Tư liệu nhà Minh về An Nam. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-0712 -->
 *   **1528:** Mạc Đăng Dung cho đúc tiền Minh Đức thông bảo và tổ chức lại quân đội. [Nguồn: Tiền Mạc Thái Tổ (Thời báo Ngân hàng), https://thoibaonganhang.vn/tien-trieu-mac-1527-1592-ky-i-tien-doi-vua-mac-thai-to-1527-1529-168162.html]
@@ -2533,6 +2613,10 @@
 <!-- id: EVT-0728 -->
 *   **1548 (Mậu Thân):** Vua Lê Trang Tông (Lê Ninh), vị vua mở đầu công cuộc Trung hưng nhà Lê, băng hà tại hành tại Vạn Lại (Thanh Hóa). Thái úy Lượng Quốc công Trịnh Kiểm cùng triều thần tôn Hoàng thái tử Lê Huyên lên nối ngôi (vua Lê Trung Tông), đặt niên hiệu Thuận Bình. [Nguồn: XX. Lê Trung Hưng 255 năm (Ủy ban NVNONN), https://scov.gov.vn/dat-nuoc-con-nguoi/tom-tat-bien-nien-su-vn/xx.-nha-le-trung-hung-255-nam-1533-1788-.html]
 
+![Hình ảnh tư liệu](images/event_20260930_214524.webp)
+
+*Nguồn: Vua Lê Trang Tông. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-0729 -->
 *   **1551:** Cuộc nổi loạn của Phạm Tử Nghi và Mạc Chính Trung bị dẹp yên. [Nguồn: Mạc Kính Điển (TP Hải Phòng), https://haiphong.gov.vn/danh-nhan/mac-kinh-dien-chu-han-1580-623847]
 
@@ -2576,6 +2660,10 @@
 <!-- id: EVT-0741 -->
 *   **1578:** Hải tặc Nhật Bản (Wako) tấn công vùng biển Đàng Trong, cướp thuyền của thương nhân Trung Hoa. [Nguồn: Hội An (Trung tâm Di sản Hội An), https://hoianheritage.net/vi/trao-doi-chuyen-nganh/chuyen-de-nghien-cuu-trao-doi/mang-luoi-giao-thuong-dong-a-truoc-thoi-dai-mo-cua-va-nhung-he-qua-phat-trien-truong-hop-hoi-an-458.html]
 
+![Hình ảnh tư liệu](images/event_20260930_214513.webp)
+
+*Nguồn: Bản đồ vùng Oa Khấu hoạt động. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-0742 -->
 *   **21/02/1578:** Mạc Mậu Hợp bị sét đánh trúng trong cung, liệt nửa người và phải chữa trị rất lâu mới khỏi. Sự kiện này khiến nhiều quan lại nhà Mạc thêm hoang mang trong thời kỳ suy vi. [Nguồn: XIX. Nhà Mạc 65 năm (Ủy ban NVNONN), https://scov.gov.vn/dat-nuoc-con-nguoi/tom-tat-bien-nien-su-vn/xix.-nha-mac-65-nam-1527-1592-kinh-do-dong-do-ha-noi-.html]
 
@@ -2597,6 +2685,10 @@
 
 <!-- id: EVT-0747 -->
 *   **01/1592:** Trịnh Tùng tiến vào giải phóng Thăng Long. Mạc Mậu Hợp bỏ kinh thành chạy. [Nguồn: Trịnh Tùng đốt Thăng Long (Ủy ban NVNONN), https://scov.gov.vn/dat-nuoc-con-nguoi/trinh-tung-dot-pha-thang-long-san-phang-la-thanh.html]
+
+![Hình ảnh tư liệu](images/event_20260930_214513_1.webp)
+
+*Nguồn: Chúa Trịnh Tùng. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-0748 -->
 *   **Đầu 1592:** Trịnh Tùng thống lĩnh đại quân tiến ra Bắc, đánh bại quân chủ lực của nhà Mạc trong một trận quyết định. [Nguồn: Trịnh Tùng đốt Thăng Long (Ủy ban NVNONN), https://scov.gov.vn/dat-nuoc-con-nguoi/trinh-tung-dot-pha-thang-long-san-phang-la-thanh.html]
@@ -2665,6 +2757,10 @@
 <!-- id: EVT-0767 -->
 *   **1613:** Nguyễn Phúc Nguyên (con Nguyễn Hoàng) lên thay, cải tổ bộ máy hành chính, tự bổ dụng quan lại, chính thức cắt đứt quan hệ lệ thuộc với họ Trịnh. [Nguồn: Chúa Nguyễn đầu tiên tách khỏi Lê – Trịnh (VnExpress), https://vnexpress.net/chua-nguyen-dau-tien-tach-khoi-chinh-quyen-le-trinh-3689527-p3.html]
 
+![Hình ảnh tư liệu](images/event_20260930_214513_2.webp)
+
+*Nguồn: Chúa Nguyễn Phúc Nguyên. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-0768 -->
 *   **18/01/1615:** Các tu sĩ Dòng Tên Francesco Buzomi, Diego Carvalho và Thầy Antonio Dias đến Cửa Hàn (Đà Nẵng), chính thức đánh dấu sự khởi đầu của sứ mệnh truyền giáo Dòng Tên tại Việt Nam. [Nguồn: Hội An – Thanh Chiêm chữ Quốc ngữ (TP Đà Nẵng), https://danang.gov.vn/vi/web/dng/w/hoi-an-thanh-chiem-cai-noi-ra-doi-chu-quoc-ngu-i]
 
@@ -2683,6 +2779,10 @@
 
 <!-- id: EVT-0772 -->
 *   **1619 - 1620:** Chúa Trịnh Tùng mưu tính can thiệp quân sự vào Thuận Quảng nhưng thất bại. Chúa Nguyễn Phúc Nguyên dứt khoát chấm dứt việc nộp thuế cống cho họ Trịnh, đánh dấu sự ly khai và mở đầu cuộc đối đầu Trịnh - Nguyễn. [Nguồn: Trịnh – Nguyễn phân tranh (Nghiên cứu Quốc tế), https://nghiencuuquocte.org/2024/09/22/bat-dau-thoi-ky-trinh-nguyen-phan-tranh/]
+
+![Hình ảnh tư liệu](images/event_20260930_214513_3.webp)
+
+*Nguồn: Quảng Bình Quan, Đồng Hới. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-0773 -->
 *   **05/1619 (Kỷ Mùi):** Vua Lê Kính Tông bất mãn với quyền thế áp đảo của chúa Trịnh nên cùng Trịnh Xuân (con trai Trịnh Tùng) mưu tính chính biến lật đổ Bình An vương Trịnh Tùng nhưng việc bại lộ. Trịnh Tùng ép vua phải thắt cổ tự tử; sau đó tôn Hoàng tử trưởng Lê Duy Kỳ (12 tuổi) lên ngôi (vua Lê Thần Tông), đặt niên hiệu Vĩnh Tộ. [Nguồn: XX. Lê Trung Hưng 255 năm (Ủy ban NVNONN), https://scov.gov.vn/dat-nuoc-con-nguoi/tom-tat-bien-nien-su-vn/xx.-nha-le-trung-hung-255-nam-1533-1788-.html]
@@ -2940,6 +3040,10 @@
 <!-- id: EVT-0852 -->
 *   **1702:** Dưới thời Chúa Minh Nguyễn Phúc Chu, Đội Hoàng Sa trong chuyến hải trình thực thi nhiệm vụ tại quần đảo Hoàng Sa đã thu lượm được 30 thỏi bạc từ các xác tàu đắm ngoại quốc nộp về phủ chúa, theo ghi chép trong *Phủ biên tạp lục* của Lê Quý Đôn. [Nguồn: Hoàng Sa - Trường Sa trong chính sử (VietnamNet), https://vietnamnet.vn/chu-quyen-hoang-sa-truong-sa-trong-chinh-su-179065.html]
 
+![Hình ảnh tư liệu](images/event_20260930_214513_4.webp)
+
+*Nguồn: Đảo Lý Sơn, Quảng Ngãi. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-0853 -->
 *   **1704:** Đội Hoàng Sa thu lượm được 5.100 cân thiếc tại quần đảo Hoàng Sa. [Nguồn: Hoàng Sa - Trường Sa trong chính sử (VietnamNet), https://vietnamnet.vn/chu-quyen-hoang-sa-truong-sa-trong-chinh-su-179065.html]
 
@@ -3052,6 +3156,10 @@
 <!-- id: EVT-0887 -->
 *   **1753:** Dưới thời Chúa Võ Nguyễn Phúc Khoát, 8 người lính thuộc Đội Hoàng Sa (xã An Vĩnh, phủ Quảng Ngãi) đi làm nhiệm vụ gặp bão dạt vào cảng Thanh Lan, huyện Văn Xương (đảo Hải Nam, Trung Quốc). Sau khi tra xét, Tri huyện Văn Xương đã cấp công văn xác nhận họ là lính tuần biển của chúa Nguyễn xứ Đàng Trong và phái quan binh hộ tống đưa 8 người lính cùng thuyền về Thuận Hóa an toàn mà không hề có bất kỳ sự phản kháng hay tranh chấp chủ quyền nào đối với các hoạt động của Đại Việt tại Hoàng Sa. [Nguồn: Hoàng Sa - Trường Sa trong chính sử (VietnamNet), https://vietnamnet.vn/chu-quyen-hoang-sa-truong-sa-trong-chinh-su-179065.html]
 
+![Hình ảnh tư liệu](images/event_20260930_214524_1.webp)
+
+*Nguồn: Lễ khao lề thế lính Hoàng Sa tại Lý Sơn. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-0888 -->
 *   **1754:** Danh tướng Phạm Đình Trọng, người có công dẹp các cuộc nổi dậy của Nguyễn Hữu Cầu và Nguyễn Danh Phương, qua đời (Mùng 1 tháng 1 năm Giáp Tuất). [Nguồn: Khởi nghĩa nông dân thế kỷ 18 (TTXVN), https://nvsk.vnanet.vn/print/khoi-nghia-nong-dan-the-ki-18-39040.vna]
 
@@ -3116,6 +3224,10 @@
 <!-- id: EVT-0907 -->
 *   **1774:** Quân Trịnh do Hoàng Ngũ Phúc chỉ huy vượt sông Gianh tiến vào Nam, chiếm được Phú Xuân. Chúa Nguyễn Phúc Thuần phải chạy vào Quảng Nam. [Nguồn: Việp quận công Hoàng Ngũ Phúc (Dân Việt), https://danviet.vn/viep-quan-cong-hoang-ngu-phuc-tung-khien-quan-tay-son-phai-dau-hang-ra-sao-d1353739.html]
 
+![Hình ảnh tư liệu](images/event_20260930_214514.webp)
+
+*Nguồn: Sông Hương, Huế. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-0908 -->
 *   **Đầu năm 1774:** Quân Tây Sơn giết chết 1.600 lính của nhà Nguyễn trong các cuộc giao tranh, cho thấy sự khốc liệt ngày càng tăng của cuộc chiến. [Nguồn: Đại Nam thực lục – Tiền biên (Khởi nghĩa Tây Sơn), https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_T%C3%A2y_S%C6%A1n]
 
@@ -3158,6 +3270,10 @@
 
 <!-- id: EVT-0920 -->
 *   **Đầu 1776:** Lê Quý Đôn được triều đình Lê - Trịnh cử làm Hiệp trấn tham tán quân cơ trấn Thuận Hóa, tại đây ông đã biên soạn bộ sách *Phủ Biên Tạp Lục*. Tác phẩm này ghi chép chi tiết về việc các đời chúa Nguyễn (từ thời Chúa Tiên Nguyễn Hoàng, Chúa Sãi Nguyễn Phúc Nguyên đến Chúa Minh Nguyễn Phúc Chu, Chúa Võ Nguyễn Phúc Khoát) đã liên tục tổ chức, quản lý Đội Hoàng Sa (70 suất xã An Vĩnh) và Đội Bắc Hải định kỳ từ tháng hai đến tháng tám âm lịch hàng năm để thực thi chủ quyền tại quần đảo Hoàng Sa và Vạn Lý Trường Sa. [Nguồn: Phủ biên tạp lục và chủ quyền Hoàng Sa (Thanh Niên), https://thanhnien.vn/phu-bien-tap-luc-va-chu-quyen-cua-nuoc-ta-tren-quan-dao-hoang-sa-truong-sa-18525110721315124.htm]
+
+![Hình ảnh tư liệu](images/event_20260930_214514_1.webp)
+
+*Nguồn: Nhà bác học Lê Quý Đôn. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-0921 -->
 *   **03/1776:** Nguyễn Nhạc tự xưng là Tây Sơn Vương tại thành Quy Nhơn. [Nguồn: Vai trò của Nguyễn Nhạc (Báo Gia Lai), https://baogialai.com.vn/vai-tro-cua-nguyen-nhac-o-tay-son-thuong-dao-post290985.html]
@@ -3256,11 +3372,23 @@
 <!-- id: EVT-0950 -->
 *   **06/1786:** Lấy danh nghĩa "phù Lê diệt Trịnh", Nguyễn Huệ chỉ huy đại quân Tây Sơn tiến ra Bắc. [Nguồn: Đài Thắng Thần Tộc tết Kỷ Dậu (Hưng Nguyên, Nghệ An), https://hungnguyen.nghean.gov.vn/danh-lam-thang-canh/dai-thang-than-toc-tet-ky-dau-464723]
 
+![Hình ảnh tư liệu](images/event_20260930_215538_1.webp)
+
+*Nguồn: Cầu Thanh Trì bắc qua sông Hồng. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-0951 -->
 *   **15/06/1786:** Quân Tây Sơn lợi dụng đêm tối và nước thủy triều dâng cao, bất ngờ tấn công và hạ thành Phú Xuân. Tướng Trịnh là Hoàng Đình Thể chiến đấu đến khi hết đạn rồi tử trận, còn trấn thủ Phạm Ngô Cầu mở cửa thành đầu hàng. Thắng lợi này đã tiêu diệt hoàn toàn lực lượng quân Trịnh ở phía nam sông Gianh. [Nguồn: Hoàng Lê nhất thống chí – Hồi thứ 5; Trận Phú Xuân (1786), https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Ph%C3%BA_Xu%C3%A2n_1786]
 
+![Hình ảnh tư liệu](images/event_20260930_214524_2.webp)
+
+*Nguồn: Cổng thành Phú Xuân, Huế. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-0952 -->
 *   **17/07/1786:** Trận Sơn Nam. Nguyễn Huệ dùng kế tâm lý chiến, cho những người nộm rơm lên thuyền để dụ địch bắn tên đạn. Khi quân Trịnh cạn kiệt đạn dược, thủy quân và tinh binh Tây Sơn đồng loạt tấn công, đánh tan quân Trịnh và chiếm được trấn Sơn Nam. [Nguồn: Hoàng Lê nhất thống chí - Hồi thứ 4; Khâm định Việt sử thông giám Cương mục]
+
+![Hình ảnh tư liệu](images/event_20260930_214515.webp)
+
+*Nguồn: Phố Hiến, Hưng Yên. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-0953 -->
 *   **21/07/1786:** Quân Tây Sơn tiến vào Thăng Long sau một chiến dịch thần tốc, lật đổ hoàn toàn nền thống trị hơn 200 năm của họ Trịnh. Chúa Trịnh Tông tìm đường bỏ trốn nhưng bị người dân bắt giữ, sau đó đã dùng dao tự sát. Thắng lợi này cùng việc lật đổ chúa Nguyễn ở Đàng Trong (1777) đã xóa bỏ ranh giới chia cắt Đàng Trong - Đàng Ngoài kéo dài hơn hai thế kỷ, bước đầu tái lập nền thống nhất đất nước. [Nguồn: Đài Thắng Thần Tộc tết Kỷ Dậu (Hưng Nguyên, Nghệ An), https://hungnguyen.nghean.gov.vn/danh-lam-thang-canh/dai-thang-than-toc-tet-ky-dau-464723]
@@ -3386,6 +3514,10 @@
 <!-- id: EVT-0984 -->
 *   **Mùa thu 1789:** Vua Quang Trung cử cháu là **Nguyễn Quang Hiển** sang Yên Kinh (Bắc Kinh) chầu vua Càn Long và dự lễ Vạn Thọ tại Nhiệt Hà. Vua Càn Long chấp nhận giảng hòa và phong Nguyễn Huệ làm An Nam Quốc vương. [Nguồn: Ngoại giao Việt Nam thời Tây Sơn (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Ngo%E1%BA%A1i_giao_Vi%E1%BB%87t_Nam_th%E1%BB%9Di_T%C3%A2y_S%C6%A1n]
 
+![Hình ảnh tư liệu](images/event_20260930_214515_1.webp)
+
+*Nguồn: Tử Cấm Thành, Bắc Kinh. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-0985 -->
 *   **Mùa hè 1789:** Hay tin quân Thanh tiến vào Thăng Long, chúa Nguyễn Phúc Ánh tại Gia Định phái sứ thần Phan Văn Trọng và Lâm Đồ chở 50 vạn cân gạo theo đường biển ra Bắc định tiếp viện quân lương cho quân Thanh để phối hợp đánh Tây Sơn; tuy nhiên đoàn thuyền gặp bão lớn trên biển bị đắm chìm hoàn toàn, người và lương thảo đều mất. [Nguồn: Đại Nam thực lục – Chính biên (Đệ nhất kỷ, Quyển 5)]
 
@@ -3430,6 +3562,10 @@
 
 <!-- id: EVT-0998 -->
 *   **27/07/1792 (09/06 năm Nhâm Tý):** Nhà giáo dục lỗi lạc Võ Trường Toản – "cụ tổ ngành giáo dục xứ Nam Kỳ", người có công đào tạo nên nhiều danh thần và trí thức kiệt xuất (như "Gia Định tam gia" Trịnh Hoài Đức, Lê Quang Định, Ngô Nhơn Tĩnh) – qua đời tại Hòa Hưng (Gia Định), được chúa Nguyễn Phúc Ánh truy tặng danh hiệu "Gia Định xử sĩ Sùng Đức Võ tiên sinh". [Nguồn: Võ Trường Toản 1792 (Cổng TTĐT Huế), https://hue.gov.vn/Du-dia-chi/tb/Vo-Truong-Toan-1792-876205]
+
+![Hình ảnh tư liệu](images/event_20260930_214525.webp)
+
+*Nguồn: Nhà giáo Võ Trường Toản. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-0999 -->
 *   **16/09/1792 (29 tháng 7 âm lịch):** Vua Quang Trung đột ngột qua đời ở tuổi 40. Con trai là Nguyễn Quang Toản (10 tuổi) lên kế vị, lấy niên hiệu là Cảnh Thịnh. [Nguồn: Lễ kỷ niệm 233 năm ngày mất Hoàng đế Quang Trung (Nghệ An), https://nghean.dcs.vn/vi-vn/tin/trang-trong-le-ky-niem-233-nam-ngay-mat-hoang-de-quang-trung/156332-597732-718240]
@@ -3495,6 +3631,10 @@
 <!-- id: EVT-1018 -->
 *   **Tháng 5 âm lịch năm 1801:** Trong chiến dịch đánh chiếm Phú Xuân, Lê Văn Duyệt và Lê Chất đã dùng mưu kế bất ngờ tại cửa Tư Dung, cho quân khiêng thuyền chiến qua bãi cát để đánh úp phía sau phòng tuyến quân Tây Sơn. Quân Nguyễn Ánh tiến vào kinh thành Phú Xuân (Huế), buộc vua Cảnh Thịnh phải bỏ chạy ra Bắc. Sự kiện này đánh dấu sự sụp đổ của trung tâm quyền lực nhà Tây Sơn. [Nguồn: Chúa Nguyễn Ánh đánh Phú Xuân (Thanh Niên), https://thanhnien.vn/ai-dang-ke-cho-chua-nguyen-anh-bo-thanh-binh-dinh-tien-danh-phu-xuan-1851397039.htm]
 
+![Hình ảnh tư liệu](images/event_20260930_214515_2.webp)
+
+*Nguồn: Chân dung Lê Văn Duyệt. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-1019 -->
 *   **07/07/1801:** (25 - 27 tháng 5 âm lịch) Ngô Tùng Châu uống thuốc độc tự vẫn hai ngày trước khi Võ Tánh tự thiêu để giữ thành Bình Định, cầm chân quân Tây Sơn giúp quân Nguyễn rảnh tay đánh chiếm Phú Xuân. [Nguồn: Danh tướng Võ Tánh trấn thủ Quy Nhơn (Lưu trữ Quốc gia), https://archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/danh-tuong-vo-tanh-nguoi-tran-thu-thanh-quy-nhon.htm]
 
@@ -3552,6 +3692,10 @@
 
 <!-- id: EVT-1030 -->
 *   **20/11/1802 (06/11 năm Nhâm Tuất):** Vua Gia Long cử hành đại lễ hiến hung tại Thái miếu (Phú Xuân), xử tử vua Cảnh Thịnh (Nguyễn Quang Toản) cùng tôn thất Tây Sơn và các đại tướng triều trước. Danh tướng **Trần Quang Diệu** bị xử trảm, nữ tướng **Bùi Thị Xuân** và con gái bị voi giày. Sự kiện này chính thức khép lại hoàn toàn 24 năm trị vì của vương triều Tây Sơn. [Nguồn: Bùi Thị Xuân (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/B%C3%B9i_Th%E1%BB%8B_Xu%C3%A2n]
+
+![Hình ảnh tư liệu](images/event_20260930_214525_1.webp)
+
+*Nguồn: Thái Miếu, Kinh thành Huế. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-1031 -->
 *   **1803:** Vua Gia Long ra lệnh đắp lại **Thành Thăng Long** (Hà Nội). Vua định lệ lương bổng cho quan và quân ở Bắc thành. Triều đình thiết lập Tràng Tiền tại Thăng Long để đúc tiền "Gia Long thông bảo". [Nguồn: Thăng Long - Hà Nội thời Nguyễn (Trung tâm Bảo tồn Di sản Thăng Long - Hà Nội), https://hoangthanhthanglong.vn/thang-long-ha-noi-thoi-nguyen/]
@@ -3698,14 +3842,26 @@
 <!-- id: EVT-1069 -->
 *   **03/1816 (tháng 3 năm Bính Tý, Gia Long năm thứ 15):** Vua Gia Long chính thức phái Thủy quân và Đội Hoàng Sa ra quần đảo Hoàng Sa, cắm cờ và dựng cột mốc khẳng định chủ quyền của Vương triều Nguyễn trên toàn bộ quần đảo (sự kiện được ghi nhận trong *Đại Nam Thực Lục Chính Biên* và được các nhân chứng phương Tây như Giám mục Jean-Louis Taberd, John Crawfurd, J.B. Chaigneau xác nhận). Đội Bắc Hải do Đội Hoàng Sa kiêm quản cũng tiếp tục tuần phòng vùng biển Trường Sa và các cù lao phía nam. [Nguồn: Cuốn sách tư liệu quý về Hoàng Sa (Báo Quốc Tế), https://baoquocte.vn/cuon-sach-mang-nhieu-tu-lieu-quy-ve-hoang-sa-truong-sa-355569.html]
 
+![Hình ảnh tư liệu](images/event_20260930_214525_2.webp)
+
+*Nguồn: Hải đăng Lý Sơn. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-1071 -->
 *   **11/06/1816:** Vua Gia Long lập Hoàng tử thứ tư (Nguyễn Phúc Đảm) làm Hoàng Thái tử. [Nguồn: Lăng Minh Mạng - Hiếu Lăng (Trung tâm Bảo tồn Cố đô Huế), http://hueworldheritage.org.vn/Di-san/Chi-tiet/pid/447/cid/87?tid=LANG-HOANG-DE-MINH-MANG-Hieu-Lang.html]
+
+![Hình ảnh tư liệu](images/event_20260930_214515_3.webp)
+
+*Nguồn: Chân dung vua Minh Mạng. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-1072 -->
 *   **1817:** Vua Gia Long định lệ "tập ấm" (quyền lợi kế thừa cho con cháu công thần). [Nguồn: Đại Nam thực lục – Chính biên (Đệ nhất kỷ, Quyển 55)]
 
 <!-- id: EVT-1073 -->
 *   **06/1817:** Một thuyền buôn Ma Cao cập bến Đà Nẵng và dâng bản đồ quần đảo Hoàng Sa lên vua Gia Long. Nhà vua đã ban thưởng, khẳng định sự quan tâm của triều đình đối với chủ quyền biển đảo. [Nguồn: Đối sách của triều Nguyễn với thuyền buôn nước ngoài ở Hoàng Sa (Bộ đội Biên phòng), http://bienphongvietnam.gov.vn/nhung-doi-sach-cua-vuong-trieu-nguyen-voi-thuyen-buon-nuoc-ngoai-o-quan-dao-hoang-sa.html]
+
+![Hình ảnh tư liệu](images/event_20260930_214525_3.webp)
+
+*Nguồn: Bán đảo Ma Cao. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-1074 -->
 *   **Cuối 1817 - Đầu 1818:** Khởi công đào kênh Thoại Hà (An Giang) dưới sự chỉ huy của Nguyễn Văn Thoại, phục vụ giao thông và quốc phòng. [Nguồn: Thoại Ngọc Hầu Nguyễn Văn Thoại (CADN), https://cadn.com.vn/thoai-ngoc-hau-nguyen-van-thoai-niem-tu-hao-cua-que-huong-da-nang-post16577.html]
@@ -3752,6 +3908,10 @@
 
 <!-- id: EVT-1086 -->
 *   **05/1820:** Vua Minh Mạng ra lệnh đặt tên các đường phố trong Kinh thành (Huế) và cho dựng biển ghi tên, đánh dấu nỗ lực sớm trong quy hoạch và quản lý đô thị. [Nguồn: Đặt đường phố ở Kinh thành (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3096/9287/le-thanh-tong-cam-quan-lai-to-hao-nha-cong-vu.html]
+
+![Hình ảnh tư liệu](images/event_20260930_214516.webp)
+
+*Nguồn: Sông Hương về đêm, Huế. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-1087 -->
 *   **07/1820:** Vua Minh Mạng xuống chiếu nghiêm cấm thuốc phiện. Đây là lần đầu tiên triều đình ban hành lệnh cấm này do tác hại của nó đối với quan lại và dân chúng. [Nguồn: Lệnh cấm thuốc phiện thời vua Minh Mạng (Báo Công an Nhân dân), https://cand.vn/Phong-su-tu-lieu/Vinh-biet-nhung-mua-hoa-thuoc-phien-i8698/]
@@ -3881,6 +4041,10 @@
 <!-- id: EVT-1120 -->
 *   **1833:** Vua Minh Mạng cho xây dựng **Ngọ Môn**, cửa chính của Hoàng thành, và dời **điện Thái Hòa** về vị trí trung tâm hiện nay. Cửa Đại Cung cũng được xây dựng trong dịp này. [Nguồn: Ngọ Môn Huế (Vietnam Tourism), https://vietnamtourism.gov.vn/post/10707]
 
+![Hình ảnh tư liệu](images/event_20260930_214525_4.webp)
+
+*Nguồn: Đại Cung Môn, Hoàng thành Huế. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-1121 -->
 *   **1833:** Vua Minh Mạng ra chỉ dụ cho Bộ Công phái người ra quần đảo Hoàng Sa dựng miếu, lập bia, trồng nhiều cây cối để làm dấu hiệu nhận biết cho tàu thuyền qua lại tránh bị mắc cạn, đồng thời tiến hành lập bản đồ quần đảo. [Nguồn: Chủ quyền biển đảo qua bản đồ cổ (Báo Chính Phủ), https://baochinhphu.vn/chu-quyen-bien-dao-viet-nam-qua-cac-ban-do-co-10287191.htm]
 
@@ -3902,6 +4066,10 @@
 <!-- id: EVT-1128 -->
 *   **1834:** Vua Minh Mạng cử Giám thành Trương Phúc Sĩ ra quần đảo Hoàng Sa để khảo sát và vẽ bản đồ, nằm trong nỗ lực liên tục nhằm quản lý các quần đảo. [Nguồn: Chủ quyền Hoàng Sa - Trường Sa (VUSTA), https://vusta.vn/chu-quyen-hoang-sa-truong-sa-la-cua-viet-nam-p71334.html]
 
+![Hình ảnh tư liệu](images/event_20260930_214516_1.webp)
+
+*Nguồn: Quần đảo Hoàng Sa nhìn từ vệ tinh. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-1129 -->
 *   **1834:** Quân đội triều đình do Trương Minh Giảng và Nguyễn Xuân chỉ huy đánh bại quân Xiêm tại sông Cổ Hỗ và Thuận Cảng, thu hồi Hà Tiên, Châu Đốc và Nam Vang. Vua Minh Mạng cho đúc tiền bạc "Minh Mạng Phi Long". [Nguồn: Dấu son chiến thắng ngoại xâm (Báo Cần Thơ), https://baocantho.com.vn/them-mot-dau-son-chien-thang-ngoai-xam-a172735.html]
 
@@ -3919,6 +4087,10 @@
 
 <!-- id: EVT-1134 -->
 *   **06/1835 (tháng 6 năm Ất Mùi, Minh Mạng năm thứ 16):** Vua Minh Mạng phái Cai đội Thủy quân Phạm Văn Nguyên chỉ huy lính thợ và dân phu hai tỉnh Quảng Ngãi, Bình Định ra đảo Hoàng Sa (bãi Bàn Than) xây dựng miếu Hoàng Sa (Hoàng Sa tự), dựng bia đá ghi nhớ và trồng cây xanh xung quanh đảo để làm dấu hiệu nhận biết cho tàu thuyền qua lại tránh mắc cạn. [Nguồn: Xác lập chủ quyền Hoàng Sa - Trường Sa (Báo Tin Tức), https://baotintuc.vn/viet-nam-xac-lap-chu-quyen-tu-rat-lau-doi-voi-hoang-sa-truong-sa-post921854.html]
+
+![Hình ảnh tư liệu](images/event_20260930_214526.webp)
+
+*Nguồn: Bia chủ quyền Hoàng Sa. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-1135 -->
 *   **10/1835:** Bắt đầu đúc **Cửu Đỉnh** (9 đỉnh đồng lớn) để đặt trước Thế Miếu (đúc thô xong tháng 5/1836, hoàn thành ngày 1/3/1837). [Nguồn: Hoàng Sa, Trường Sa trên Cửu Đỉnh (TTXVN), https://vietnam.vnanet.vn/vietnamese/tin-tuc/hoang-sa-va-truong-sa-tren-cuu-dinh-o-hue-133035.html]
@@ -3944,6 +4116,10 @@
 
 <!-- id: EVT-1141 -->
 *   **1838:** quan Bố chính tỉnh Quảng Ngãi tâu xin và được vua Minh Mạng chấp thuận bãi bỏ các khoản thuế khóa đánh vào tàu thuyền của đội Hoàng Sa. Cùng năm, Thượng thư Bộ Công làm bản báo cáo lên nhà vua về các hoạt động của đội tại quần đảo Hoàng Sa. [Nguồn: Châu bản miễn thuế thuyền Hoàng Sa (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3096/16622/chau-ban-trieu-nguyen-tu-lieu-co-co-gia-tri-kep-khang-djinh-chu-quyen-hoang-sa-truong-sa-cua-viet-nam.html]
+
+![Hình ảnh tư liệu](images/event_20260930_214516_2.webp)
+
+*Nguồn: Cầu Rồng, Đà Nẵng. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-1142 -->
 *   **1838:** Quốc Sử Quán triều Nguyễn phát hành bản đồ *Đại Nam Nhất Thống Toàn Đồ*, chính thức định danh và vẽ rõ ràng hai quần đảo "Hoàng Sa" và "Vạn Lý Trường Sa" nằm trong cương giới lãnh thổ Đại Nam. Cùng năm, Giám mục Jean-Louis Taberd xuất bản *An Nam đại quốc họa đồ* (Tabula Geographica Imperii Anamitici) ghi chú rõ tọa độ và khẳng định "Paracel seu Cát Vàng" thuộc lãnh thổ Việt Nam. [Nguồn: Bản đồ khẳng định chủ quyền (MTTQ Khánh Hòa), https://mattrankhanhhoa.org.vn/tin-bai/bien-dao/ban-do-khang-dinh-chu-quyen-cua-viet-nam-doi-voi-hai-quan-dao-hoang-sa-va-truong-sa-93]
@@ -4378,6 +4554,10 @@
 <!-- id: EVT-1271 -->
 *   **1882:** Bộ sách dư địa chí chính thống *Đại Nam Nhất Thống Chí* do Quốc Sử Quán triều Nguyễn biên soạn hoàn tất (ấn hành thời vua Đồng Khánh), ghi chép tường tận về địa lý, tài nguyên và khẳng định chủ quyền của Việt Nam đối với quần đảo Hoàng Sa và Vạn Lý Trường Sa thuộc địa hạt tỉnh Quảng Ngãi. [Nguồn: Quốc sử quán triều Nguyễn, Đại Nam nhất thống chí (Tập 1), NXB Thuận Hóa, Huế, 2006]
 
+![Hình ảnh tư liệu](images/event_20260930_214526_1.webp)
+
+*Nguồn: Bộ sách Đại Nam nhất thống chí. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-1272 -->
 *   **01/01/1882:** Mọi công văn, văn bản niêm yết đều phải viết bằng chữ quốc ngữ. Đồng thời, chỉ người biết chữ quốc ngữ mới được bổ nhiệm vào cơ quan cai trị (cấp phủ, huyện, tổng) hoặc được xét tăng trật. [Nguồn: Chữ Quốc ngữ trong chính sách của người Pháp ở Nam Kỳ (Báo VietNamNet), https://vietnamnet.vn/chu-quoc-ngu-trong-chinh-sach-ngon-ngu-cua-nguoi-phap-o-nam-ky-728860.html]
 
@@ -4642,6 +4822,10 @@
 <!-- id: EVT-1346 -->
 *   **1898:** Thực dân Pháp bắt đầu xây dựng hàng loạt công trình hạ tầng lớn, bao gồm các tuyến đường sắt Hà Nội - Nam Định - Vinh, Đà Nẵng - Huế, Sài Gòn - Khánh Hòa... [Nguồn: Lịch sử Đường sắt Việt Nam (Tổng công ty Đường sắt Việt Nam), https://vr.com.vn/lich-su-phat-trien.html]
 
+![Hình ảnh tư liệu](images/event_20260930_214516_3.webp)
+
+*Nguồn: Ga Hà Nội. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-1347 -->
 *   **09/1898:** Khởi công xây dựng cầu Long Biên tại Hà Nội. [Nguồn: Bảo tàng Lịch sử Quốc gia - Phương hướng bảo vệ và phát huy giá trị di tích Cầu Long Biên (Hà Nội), https://baotanglichsu.vn/vi/Articles/3096/16968/phuong-huong-bao-ve-va-phat-huy-gia-tri-di-tich-cau-long-bien-ha-noi-phan-1.html]
 
@@ -4794,6 +4978,10 @@
 <!-- id: EVT-1390 -->
 *   **04/1908:** Trong phong trào chống sưu thuế sôi nổi của nhân dân Trung Kỳ, người thanh niên yêu nước Nguyễn Tất Thành tham gia cuộc biểu tình của nông dân tại kinh thành Huế và làm người thông ngôn chuyển đạt nguyện vọng giảm sưu thuế trước Tòa Khâm sứ Pháp. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
+![Hình ảnh tư liệu](images/event_20260930_214516_5.webp)
+
+*Nguồn: Trường Quốc Học Huế. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-1391 -->
 *   **27/06/1908:** Vụ "Hà thành đầu độc" nổ ra, một nhóm binh lính người Việt và các nhà yêu nước mưu đồ đầu độc binh lính Pháp ở Hà Nội và khởi nghĩa nhưng thất bại. [Nguồn: Bảo tàng Lịch sử Quốc gia - Nhìn lại vụ binh biến Hà Thành 1908, https://baotanglichsu.vn/vi/Articles/3096/11569/nhin-lai-vu-binh-bien-ha-thanh-1908.html]
 
@@ -4882,6 +5070,10 @@
 <!-- id: EVT-1410 -->
 *   **Cuối năm 1912:** Nguyễn Tất Thành đến Hợp chúng quốc Hoa Kỳ, sinh sống và làm việc tại New York và Boston. Người làm thợ làm bánh tại Khách sạn Omni Parker House (Boston), tìm hiểu bản Tuyên ngôn Độc lập năm 1776 của Mỹ và theo dõi phong trào đấu tranh đòi quyền bình đẳng của người da màu tại khu Harlem (New York). [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
+![Hình ảnh tư liệu](images/event_20260930_214517.webp)
+
+*Nguồn: Khách sạn Omni Parker House, Boston. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-1411 -->
 *   **1913:** Tuyến đường sắt Bắc - Nam về cơ bản được hoàn thành, nối liền Hà Nội và Sài Gòn. [Nguồn: Lịch sử Đường sắt Việt Nam (Tổng công ty Đường sắt Việt Nam), https://vr.com.vn/lich-su-phat-trien.html]
 
@@ -4957,6 +5149,10 @@
 
 <!-- id: EVT-1433 -->
 *   **Cuối năm 1917:** Nguyễn Tất Thành từ Anh trở lại Paris (Pháp) giữa bối cảnh Chiến tranh thế giới thứ nhất. Người tham gia phong trào công nhân Pháp, cùng các nhà yêu nước Phan Châu Trinh, Phan Văn Trường thành lập "Nhóm người An Nam yêu nước" tại Paris và bắt đầu sử dụng tên gọi **Nguyễn Ái Quốc** (Nguyễn người yêu nước). [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
+
+![Hình ảnh tư liệu](images/event_20260930_214517_1.webp)
+
+*Nguồn: Khải Hoàn Môn, Paris. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-1434 -->
 *   **1918:** Kỳ thi Hương cuối cùng được tổ chức ở Trung Kỳ. [Nguồn: Nguyễn Phan Quang, Lịch sử Việt Nam (1858–1945), NXB Giáo dục, Hà Nội]
@@ -5134,6 +5330,10 @@
 
 <!-- id: EVT-1487 -->
 *   **1923:** Việc xây dựng **lầu Kiến Trung** (kết hợp kiến trúc Âu - Á) trong Tử Cấm Thành được hoàn thành. [Nguồn: Trung tâm Bảo tồn Di tích Cố đô Huế, Điện Kiến Trung trong Hoàng thành Huế, Huế, 2023]
+
+![Hình ảnh tư liệu](images/event_20260930_214526_2.webp)
+
+*Nguồn: Lầu Kiến Trung, Tử Cấm Thành Huế. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-1488 -->
 *   **1923:** Cơ quan Kiểm tra và Cứu trợ người bản xứ của các thuộc địa (C.A.I.) được thành lập tại Pháp để giám sát người Việt. [Nguồn: Lịch sử Việt Nam (Tập 8: 1919–1930), NXB Khoa học Xã hội, Hà Nội, 2017]
@@ -5482,6 +5682,10 @@
 <!-- id: EVT-1587 -->
 *   **04/12/1931:** Chính phủ Pháp gửi công hàm cho Công sứ quán Trung Quốc tại Paris chính thức yêu sách chủ quyền đối với quần đảo Hoàng Sa. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
+![Hình ảnh tư liệu](images/event_20260930_214517_2.webp)
+
+*Nguồn: Cung điện Bourbon, Paris. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-1588 -->
 * **1932:** Anh hùng Lực lượng vũ trang nhân dân Lương Văn Tụy (Chiến sĩ trẻ cắm cờ búa liềm trên núi Non Nước, Ninh Bình) từ trần. [Nguồn: Người thanh niên cộng sản Lương Văn Tụy (Báo Nhân Dân), https://nhandan.vn/nguoi-thanh-nien-cong-san-luong-van-tuy-post632140.html]
 
@@ -5518,6 +5722,10 @@
 
 <!-- id: EVT-1598 -->
 *   **13/04/1933:** Một hạm đội nhỏ của Hải quân Pháp do Trung tá De Lattre chỉ huy rời Sài Gòn để chính thức chiếm hữu quần đảo Trường Sa với các nghi thức truyền thống. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
+
+![Hình ảnh tư liệu](images/event_20260930_214526_3.webp)
+
+*Nguồn: Đảo Trường Sa. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-1599 -->
 *   **02/05/1933:** Vua Bảo Đại ra đạo Dụ cải tổ bộ máy Nam triều, lập ra nội các mới gồm các Thượng thư như Phạm Quỳnh, Ngô Đình Diệm. [Nguồn: Vua Bảo Đại (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13777/vua-bao-dai.html]
@@ -6271,6 +6479,10 @@
 <!-- id: EVT-1823 -->
 *   **30/11/1946:** Chủ tịch Hồ Chí Minh ký Sắc lệnh số 230/SL cử đồng chí Võ Nguyên Giáp (Bộ trưởng Bộ Quốc phòng) giữ chức Tổng Chỉ huy Quân đội Quốc gia và Dân quân tự vệ Việt Nam, thống nhất quyền chỉ huy tối cao các lực lượng vũ trang cả nước để chuẩn bị bước vào cuộc Toàn quốc kháng chiến trường kỳ chống thực dân Pháp. [Nguồn: Bảo tàng Lịch sử Quốc gia - Võ Nguyên Giáp: Bộ trưởng Quốc phòng (30/11/1946), https://baotanglichsu.vn/vi/Articles/3097/16642/vo-nguyen-giap-bo-truong-quoc-phong-30-11-1946.html]
 
+![Hình ảnh tư liệu](images/event_20260930_214518.webp)
+
+*Nguồn: Quân kỳ Quân đội nhân dân Việt Nam. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-1824 -->
 *   **12/1946:** Ở tuổi 17, Đặng Thị Kim vinh dự được kết nạp vào Đảng Cộng sản Đông Dương nhờ những thành tích xuất sắc trong công tác cách mạng tại Nha Trang. [Nguồn: Ban Tuyên giáo Tỉnh ủy Khánh Hòa, Lịch sử Đảng bộ tỉnh Khánh Hòa (1930 - 1975); Báo Khánh Hòa]
 
@@ -6552,6 +6764,10 @@
 <!-- id: EVT-1909 -->
 *   **04/1949:** Hoàng thân Bửu Lộc, Đổng lý văn phòng của Cựu hoàng Bảo Đại, đã công khai khẳng định lại các quyền của Việt Nam đối với quần đảo Trường Sa trong một cuộc họp báo tại Sài Gòn. [Nguồn: TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, NXB Tri thức, Hà Nội, 2013]
 
+![Hình ảnh tư liệu](images/event_20260930_214520_1.webp)
+
+*Nguồn: Cựu hoàng Bảo Đại. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-1910 -->
 *   **23/04/1949:** Đại tướng Võ Nguyên Giáp ra bản Mệnh lệnh mở Chiến dịch Thập Vạn Đại Sơn nhằm phối hợp giúp Giải phóng quân Trung Quốc đánh tàn quân Quốc dân Đảng. Đây là nhiệm vụ quốc tế đầu tiên của Quân đội nhân dân Việt Nam. Trước khi lên đường, Chủ tịch Hồ Chí Minh đã căn dặn Tư lệnh chiến dịch Lê Quảng Ba: "Cẩn thận, bí mật, đoàn kết, hữu nghị, thắng lợi". [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Quân tình nguyện Việt Nam tại Trung Quốc (1949 - 1950), NXB Quân đội nhân dân, Hà Nội, 2000]
 
@@ -6745,6 +6961,10 @@
 
 <!-- id: EVT-1969 -->
 *   **05-07/09/1951:** Tại Hội nghị Hòa bình San Francisco, một tu chính án của Liên Xô đề nghị Nhật Bản công nhận chủ quyền của Cộng hòa Nhân dân Trung Hoa đối với quần đảo Hoàng Sa và Trường Sa đã bị bác bỏ với tỷ lệ áp đảo (48 phiếu chống, 3 phiếu thuận). Ngày 7 tháng 9, Trần Văn Hữu, Thủ tướng chính phủ Bảo Đại, đã trịnh trọng tuyên bố hai quần đảo là lãnh thổ của Việt Nam mà không có sự phản đối nào từ các đại biểu tham dự. [Nguồn: TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, NXB Tri thức, Hà Nội, 2013]
+
+![Hình ảnh tư liệu](images/event_20260930_214526_4.webp)
+
+*Nguồn: Cầu Cổng Vàng, San Francisco. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-1970 -->
 *   **27/09 - 05/10/1951:** Ban Chấp hành Trung ương họp Hội nghị lần thứ hai, đề ra ba nhiệm vụ lớn: tiêu diệt sinh lực địch, phá âm mưu "lấy chiến tranh nuôi chiến tranh" của địch, và bồi dưỡng sức dân. [Nguồn: Ban Chấp hành Trung ương Đảng, Văn kiện Đảng Toàn tập, tập 12, NXB Chính trị quốc gia, Hà Nội, 2001]
@@ -6965,6 +7185,10 @@
 <!-- id: EVT-2038 -->
 *   **1954:** Ngụy quyền Sài Gòn tiếp quản Côn Đảo và tiếp tục sử dụng nơi đây làm nhà tù, với các "chuồng cọp" nổi tiếng tàn bạo. Ngụy quyền Sài Gòn cũng tiếp tục phát triển Phú Quốc và xây dựng trại giam tù binh lớn nhất lúc bấy giờ. [Nguồn: Ban Quản lý Di tích Quốc gia đặc biệt Côn Đảo; Báo Nhân Dân, "Địa ngục trần gian Côn Đảo"]
 
+![Hình ảnh tư liệu](images/event_20260930_214518_1.webp)
+
+*Nguồn: Nhà tù Côn Đảo. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-2039 -->
 *   **1954:** Lê Thị Tuyết (Trà Cú) cùng chồng là Nguyễn Văn Nguy được đưa đi học chính trị tại Cà Mau. [Nguồn: Hội Liên hiệp Phụ nữ tỉnh Trà Vinh, Lịch sử phong trào phụ nữ tỉnh Trà Vinh (1930 - 2000); Báo Trà Vinh]
 
@@ -7019,6 +7243,10 @@
 
 <!-- id: EVT-2055 -->
 *   **24/03/1954 (Giáp Ngọ):** Cựu hoàng Thành Thái (Nguyễn Phúc Bửu Lân), vị vua yêu nước kiên cường từng bị thực dân Pháp lưu đày sang đảo Réunion gần 30 năm, qua đời tại Sài Gòn ở tuổi 75 sau khi được phép trở về sống tại quê hương, được an táng tại khu lăng An Lăng (Huế). [Nguồn: Nguyễn Đắc Xuân, Chuyện các vua Nguyễn, NXB Thuận Hóa, Huế, 2002; Trung tâm Bảo tồn Di tích Cố đô Huế]
+
+![Hình ảnh tư liệu](images/event_20260930_214516_4.webp)
+
+*Nguồn: Cựu hoàng Thành Thái. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-2056 -->
 *   **30/03 - 26/04/1954:** Đợt 2 của chiến dịch bắt đầu lúc 18h00 ngày 30/03. Bộ đội Việt Nam đồng loạt tiến công các cao điểm phía đông (như C1, D1, E), thắt chặt vòng vây bằng hệ thống giao thông hào chằng chịt, khống chế hoàn toàn sân bay và cắt đứt nguồn tiếp tế của địch. [Nguồn: Bảo tàng Lịch sử Quốc gia - Chiến dịch Điện Biên Phủ (1954), https://baotanglichsu.vn/vi/Articles/3097/15713/chien-dich-dien-bien-phu-1954.html]
@@ -7098,6 +7326,10 @@
 
 <!-- id: EVT-2073 -->
 *   **08/1954:** Sau khi Chiến dịch Điện Biên Phủ toàn thắng và Hiệp định Giơnevơ được ký kết, Chủ tịch Hồ Chí Minh cùng các cơ quan Trung ương Đảng và Chính phủ rời ATK Kim Quan (Tuyên Quang) trở về tiếp quản Thủ đô Hà Nội. [Nguồn: Alain Ruscio, La guerre française d'Indochine (1945 - 1954), Éditions Complexe, Paris, 1992]
+
+![Hình ảnh tư liệu](images/event_20260930_214518_2.webp)
+
+*Nguồn: Cầu Long Biên, Hà Nội năm 1954. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-2074 -->
 *   **08/1954 - 05/1955:** **Cuộc di cư vào Nam năm 1954 ("Bắc 54"):** Sau Hiệp định Giơnevơ quy định 300 ngày tự do đi lại giữa hai miền, khoảng 800.000 đến 1 triệu người dân miền Bắc (chủ yếu là đồng bào Công giáo, công chức, quân nhân thuộc chính quyền và quân đội Quốc gia Việt Nam, cùng trí thức, tiểu thương) đã di cư vào miền Nam. Bản chất của cuộc di cư gắn liền với toan tính chiến lược của Mỹ và chính quyền Ngô Đình Diệm nhằm tạo dựng chỗ dựa chính trị - xã hội trung thành và bổ sung lực lượng quân sự chống cộng tại miền Nam, phục vụ mưu đồ chia cắt lâu dài đất nước và tuyên truyền chiến tranh tâm lý chống lại Việt Nam Dân chủ Cộng hòa; trong khi Pháp muốn hỗ trợ di tản các lực lượng bản xứ từng cộng tác với họ. Để lôi kéo và kích động dân chúng, Cơ quan Tình báo Trung ương Mỹ (CIA, do Edward Lansdale chỉ huy) phối hợp với chính quyền Sài Gòn đã phát động chiến dịch tâm lý chiến quy mô lớn: khai thác tâm lý tôn giáo bằng các khẩu hiệu kích động và tin đồn thất thiệt (như *"Chúa đã vào Nam"*, *"Đức Mẹ vào Nam"*, thêu dệt tin Mỹ sắp ném bom nguyên tử xuống miền Bắc hay Việt Minh đàn áp tôn giáo), vận động các linh mục bảo thủ kéo toàn bộ giáo xứ ra đi, đồng thời hứa hẹn cấp đất đai, nhà ở, tiền bạc và viện trợ khi vào Nam. Dưới sự hỗ trợ hậu cần và vận tải biển/hàng không khổng lồ của quân đội Pháp và Hải quân Hoa Kỳ (*Chiến dịch Con đường đến Tự do - Operation Passage to Freedom*), làn sóng di cư đã hình thành nên cộng đồng "Bắc 54", mang lại chỗ dựa nền tảng cho chính quyền Diệm và làm thay đổi sâu sắc cơ cấu nhân khẩu, chính trị, kinh tế và xã hội của miền Nam Việt Nam. [Nguồn: Bảo tàng Lịch sử Quốc gia - Mỹ tổ chức cưỡng ép đồng bào miền Bắc di cư vào Nam, https://baotanglichsu.vn/vi/Articles/3097/14900/8-1954-my-to-chuc-cuong-ep-djong-bao-mien-bac-di-cu-vao-nam.html]
@@ -7248,6 +7480,10 @@
 <!-- id: EVT-2115 -->
 *   **07/05/1956:** Nhân dịp kỷ niệm 2 năm Chiến thắng Điện Biên Phủ, Chủ tịch Hồ Chí Minh ký Sắc lệnh phong tặng và truy tặng danh hiệu Anh hùng Quân đội (sau này là Anh hùng Lực lượng vũ trang nhân dân) cho 42 cán bộ, chiến sĩ; gồm phong tặng 32 đồng chí: Trần Á (Đại đội trưởng vận tải thuộc Liên khu 5, vận tải đường biển đưa vũ khí và cán bộ vào cực Nam Trung Bộ), Bùi Văn Ba (Trung đội phó đặc công, Phân liên khu miền Tây Nam Bộ, trực tiếp điều tra và tham gia chiến đấu trận đánh sân bay Tân Sơn Nhất năm 1952), Triệu Văn Báo (Đại đội phó thông tin thuộc Đại đoàn 316; sau là Đại tá, Sư đoàn trưởng Sư đoàn 353 Quân khu 1), Lò Văn Bường (Trung đội phó bộ binh thuộc Đoàn 335, bộ đội tình nguyện tại Lào), Dương Quảng Châu (Trung đội phó Đại đội quân báo Trung đoàn 36, Đại đoàn 308, tham gia Chiến dịch Điện Biên Phủ), Đỗ Văn Châu (Trung đội phó bộ binh tải thương thuộc Trung đoàn 48, Đại đoàn 320), Nguyễn Tư Cường (Tiểu đoàn phó đặc công thuộc Tiểu đoàn 323, Đại đoàn 324; sau là Thiếu tướng, Tư lệnh Binh chủng Đặc công), Phan Trọng Dường (Trung đội phó bộ binh bộ đội tình nguyện, hoạt động xây dựng cơ sở cách mạng tại khu vực ngã ba Đông Dương), Đặng Đình Hồ (Tiểu đoàn phó bộ binh, Đại đoàn 304, tham gia Chiến dịch Điện Biên Phủ), Trần Đình Hùng (Trung đội trưởng pháo ĐKZ thuộc Trung đoàn 6, Đại đoàn 308, chiến đấu tại Điện Biên Phủ), Nguyễn Xuân Lực (Tiểu đoàn phó bộ binh thuộc Đại đoàn 325, tham gia chiến trường Bình - Trị - Thiên; sau là Tư lệnh Phân khu Sài Gòn - Gia Định), Bùi Quang Mại (Đại đội trưởng bộ binh, Tiểu đoàn 79, Trung đoàn 102, Đại đoàn 308; sau là Chủ nhiệm Chính trị Trung đoàn 102, Sư đoàn 308, đại biểu Quốc hội khóa III), Vũ Mạnh (Đại đội trưởng bộ binh, Đại đội 2, Tiểu đoàn 9, Trung đoàn 675, Quân khu Tả Ngạn), Võ Văn Mừng (Tiểu đội trưởng đặc công Phân liên khu Tây Nam Bộ; sau là Trung tá, Chủ nhiệm Chính trị Đoàn 646 - Quân khu 7), Đinh Văn Mẫu (Tiểu đội trưởng nuôi quân thuộc Đại đội 9, Tiểu đoàn 11, Trung đoàn 209, Đại đoàn 312, vận chuyển cơm nước phục vụ bộ đội tại Điện Biên Phủ), Lê Văn Nổ (Chính trị viên phó Đại đội bộ binh 59, Tiểu đoàn 664, Trung đoàn 42, Quân khu Tả Ngạn, chiến đấu tại đồng bằng Bắc Bộ), Đàm Văn Ngụy (Tiểu đoàn phó phụ trách Tiểu đoàn trưởng thuộc Tiểu đoàn 11, Trung đoàn 196, Đại đoàn 316; sau là Trung tướng, Tư lệnh Quân khu 1), Nguyễn Thái Nhự (Đại đội trưởng bộ binh thuộc Tiểu đoàn 80, Trung đoàn 812, Liên khu 5, chiến đấu tại cực Nam Trung Bộ), Hoàng Văn Phác (Trung tá, khi tuyên dương là Đại đội phó công binh thuộc Trung đoàn 333, Cục Công binh, phụ trách xây dựng cầu đường các chiến dịch lớn), Trần Hiền Quang (Đại tá, khi tuyên dương là Đại đội trưởng công binh thuộc Đại đoàn 330, đánh chìm 5 tàu chiến, 1 xe lội nước và đánh hỏng nặng 2 tàu khác), Nguyễn Riềng (Tiểu đoàn phó bộ binh bộ đội tình nguyện, chiến đấu ở cực Nam Trung Bộ và miền Tây), Phạm Văn Ry (Tiểu đội trưởng đặc công Phân khu miền Tây Nam Bộ, tự tay phá hủy 5 đầu máy xe lửa và 1 xe bọc thép), Sùng Phái Sinh (Xã đội trưởng xã Pú Nhung, huyện Tuần Giáo, chỉ huy du kích xây dựng phong trào Tây Bắc), Đặng Đức Song (Trung đội trưởng bộ binh Đại đội 5, Tiểu đoàn 2, Trung đoàn 98, Đại đoàn 316, dũng sĩ phòng ngự Đồi Xanh trong Chiến dịch Điện Biên Phủ; sau là Đại tá, đại biểu Quốc hội khóa II), Nguyễn Văn Thành (Đại đội trưởng bộ binh thuộc Trung đoàn 48, Đại đoàn 320, chiến đấu tại đồng bằng Bắc Bộ), Nguyễn Văn Thậm (Tiểu đội trưởng công binh thuộc Trung đoàn 1, Phân liên khu miền Tây Nam Bộ, đặt mìn đánh sập 10 chiếc cầu, phá 4 xe quân sự, diệt 178 tên địch), Hà Nguyên Thị (chiến sĩ quân y Cục Quân y, Tổng cục Hậu cần, tận tụy cứu chữa và vận chuyển thương bệnh binh), Võ Thiết (Tiểu đoàn phó thuộc Đại đoàn 305, lập công lớn trong trận Đak Pơ tiêu diệt binh đoàn cơ động số 100 của Pháp), Lưu Viết Thoảng (Đại tá, khi tuyên dương là Chính trị viên phó Đại đội thuộc Đoàn 151, Cục Công binh, chỉ huy đào đường hầm đưa khối bộc phá ngàn cân vào lòng đồi A1 Điện Biên Phủ), Nguyễn Văn Tịch (Đại đội trưởng đặc công Tiểu đoàn 303, chiến đấu ở chiến trường miền Đông Nam Bộ), Nguyễn Thành Út (Trung đội phó Đại đội 2, Tiểu đoàn 9, Trung đoàn 570, Đại đoàn 330, nguyên chiến sĩ Tiểu đoàn 307 Nam Bộ; sau là Đại tá, Chính ủy Sư đoàn Không quân 376), và Nông Văn Vương (Chính trị viên phó Đại đội bộ binh thuộc Đại đoàn 316, chiến đấu tại Việt Bắc và Tây Bắc); đồng thời truy tặng 10 liệt sĩ anh dũng: Tô Vĩnh Diện (Tiểu đội trưởng pháo cao xạ 37 ly thuộc Đại đội 827, Tiểu đoàn 394, Trung đoàn 367, lấy thân mình chèn pháo trong Chiến dịch Điện Biên Phủ), Trần Can (Đại đội phó bộ binh thuộc Trung đoàn 209, Đại đoàn 312, cắm cờ trên cứ điểm Him Lam và hy sinh tại đồi A1 Điện Biên Phủ), Cao Thế Chiến (Đại đội phó Đại đội 2, Trung đoàn 101, Đại đoàn 325, hy sinh tại Na Kham trong Chiến dịch Trung Lào năm 1954), Lê Công Khai (Đại đội trưởng bộ binh Liên khu 5, hy sinh khi công đồn Đak Đoa), Phạm Minh Đức (chiến sĩ bộ binh Đại đội 1, Tiểu đoàn 1, Trung đoàn 53, Đại đoàn 350, hy sinh khi cứu giúp nhân dân chống bão lụt tại Kiến An, Hải Phòng năm 1955), Nguyễn Đô Lương (Trung đội trưởng trinh sát thuộc Trung đoàn 108, Đại đoàn 305, chiến đấu tại Liên khu 5), Trương Văn Ly (Đại đội trưởng bộ binh, Tiểu đoàn 86, Trung đoàn 812, Đại đoàn 305, hy sinh trong trận Cầu Cháy năm 1952), Lý Văn Mưu (chiến sĩ bộ binh Trung đoàn 174, Đại đoàn 316, hy sinh khi tấn công đồn Đông Khê năm 1950), Ngô Chí Quốc (Tiểu đội phó trinh sát Tiểu đoàn 303, Đại đoàn 330, hy sinh trong trận Cầu Đinh năm 1954), và Wừu (Bok Wừu - Chủ tịch xã kiêm Xã đội trưởng xã Nam Đak Đoa, kiên cường bất khuất trước đòn tra tấn dã man của giặc Pháp). [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân trong kháng chiến chống thực dân Pháp, NXB Quân đội nhân dân, Hà Nội, 1996; Hồ Chí Minh - Biên niên tiểu sử, tập 6]
 
+![Hình ảnh tư liệu](images/event_20260930_214527.webp)
+
+*Nguồn: Nghĩa trang liệt sĩ Điện Biên Phủ. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-2116 -->
 *   **19/05/1956:** Trong một cuộc họp báo ở Manila, Bộ trưởng Ngoại giao Philippin lại dựa vào lập luận kế cận địa lý để đưa ra ý kiến về các quyền của Philippin trên quần đảo Trường Sa, sau sự kiện Thomas Cloma. Ngày 31/5, Bắc Kinh đã ra thông cáo phản đối mạnh mẽ. [Nguồn: TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, NXB Tri thức, Hà Nội, 2013]
 
@@ -7284,6 +7520,10 @@
 
 <!-- id: EVT-2126 -->
 *   **22/10/1956:** Tổng thống Việt Nam Cộng hòa Ngô Đình Diệm ký **Sắc lệnh số 143-NV** quy định địa giới hành chính, sáp nhập quần đảo Hoàng Sa vào tỉnh Thừa Thiên và quần đảo Trường Sa vào tỉnh Phước Tuy. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Kháng chiến chống Mỹ cứu nước (1954 - 1975), tập 1, NXB Chính trị quốc gia, Hà Nội, 2013; Foreign Relations of the United States (FRUS)]
+
+![Hình ảnh tư liệu](images/event_20260930_214530_4.webp)
+
+*Nguồn: Tòa Đô chính Sài Gòn (nay là UBND TP.HCM). Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-2127 -->
 *   **26/10/1956:** Ngô Đình Diệm ban hành hiến pháp, chính thức thành lập chính thể "Việt Nam Cộng hòa". [Nguồn: Ban Chấp hành Trung ương Đảng, Văn kiện Đảng Toàn tập, tập 18, NXB Chính trị quốc gia, Hà Nội, 2002]
@@ -7480,6 +7720,10 @@
 <!-- id: EVT-2178 -->
 *   **11/11/1960:** Cuộc đảo chính của nhóm sĩ quan dù do Nguyễn Chánh Thi cầm đầu nhằm lật đổ Ngô Đình Diệm bị thất bại, phản ánh mâu thuẫn nội bộ sâu sắc của chế độ Sài Gòn. [Nguồn: Hồ Chí Minh Toàn tập, tập 12 (1960), NXB Chính trị quốc gia, Hà Nội, 2011, tr. 718-724]
 
+![Hình ảnh tư liệu](images/event_20260930_214527_1.webp)
+
+*Nguồn: Sài Gòn năm 1960. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-2179 -->
 *   **11/11/1960:** Trong cuộc đảo chính quân sự chống Tổng thống Ngô Đình Diệm do lực lượng nhảy dù Sài Gòn cầm đầu, nhà tình báo Đặng Trần Đức (Ba Quốc) mưu trí lái xe đưa trùm mật vụ Trần Kim Tuyến thoát khỏi vòng vây của quân đảo chính. Chiến công này giúp ông giành trọn sự tin cậy tuyệt đối của cơ quan an ninh ngụy, tạo bàn đạp thâm nhập sâu vào các cơ quan tình báo đầu não của Việt Nam Cộng hòa. [Nguồn: Tổng cục II - Bộ Quốc phòng, Lịch sử Tình báo Quốc phòng Việt Nam (1945 - 2015), NXB Quân đội nhân dân, Hà Nội, 2015; Báo Nhân Dân]
 
@@ -7531,6 +7775,10 @@
 <!-- id: EVT-2194 -->
 *   **28/01/1961:** Quân đội Việt Nam Cộng hòa tổ chức càn quét vào rừng Bào Trăng (Nhuận Đức, Củ Chi), nơi đóng căn cứ của Khu ủy Sài Gòn - Gia Định. Lực lượng cách mạng phải rút lui, mất mát một số tài liệu và trang bị. [Nguồn: Thành ủy TP. Hồ Chí Minh, Lịch sử Đảng bộ Đảng Cộng sản Việt Nam Thành phố Hồ Chí Minh, tập 2, NXB Thành phố Hồ Chí Minh, 2005]
 
+![Hình ảnh tư liệu](images/event_20260930_214527_2.webp)
+
+*Nguồn: Đền tưởng niệm Bến Dược, Củ Chi. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-2195 -->
 *   **15/02/1961:** Các lực lượng vũ trang cách mạng ở miền Nam được thống nhất thành **Quân Giải phóng miền Nam Việt Nam** (bộ phận quân sự của Mặt trận Dân tộc Giải phóng miền Nam Việt Nam) tại Chiến khu Đ. Trong buổi lễ ra mắt, đại diện Ủy ban Trung ương Mặt trận đã trao cho Quân Giải phóng lá **Quân kỳ** thiêng liêng (cờ Giải phóng nửa đỏ nửa xanh sao vàng) thêu dòng chữ vàng: *"Giải phóng quân anh dũng chiến thắng"*, mở đầu trang sử hào hùng của các lực lượng vũ trang giải phóng trên chiến trường miền Nam. [Nguồn: Báo Nhân Dân - Quân Giải phóng miền nam Việt Nam 15 năm xây dựng, chiến đấu và trưởng thành, https://special.nhandan.vn/15_nam_quan_giai_phong_mien_nam/index.html]
 
@@ -7546,6 +7794,10 @@
 <!-- id: EVT-2199 -->
 *   **13/07/1961:** Tổng thống Việt Nam Cộng hòa Ngô Đình Diệm ký **Sắc lệnh số 174-NV** sáp nhập toàn bộ quần đảo Hoàng Sa vào tỉnh Quảng Nam và thành lập xã Định Hải trực thuộc quận Hòa Vang để quản lý toàn diện quần đảo này. [Nguồn: Sắc lệnh số 174-NV ngày 13/07/1961 của Tổng thống Việt Nam Cộng hòa; Sách trắng: Chủ quyền của Việt Nam đối với Hoàng Sa và Trường Sa, Bộ Ngoại giao Việt Nam, 1982]
 
+![Hình ảnh tư liệu](images/event_20260930_214528.webp)
+
+*Nguồn: Đảo Phú Lâm, Hoàng Sa. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-2200 -->
 * **08/08/1961:** Liệt sĩ Trần Văn Thọ (Thiếu úy, đồn biên phòng Leng Su Sìn, Anh hùng đầu tiên của Bộ đội Biên phòng) từ trần do sốt rét ác tính trong quá trình công tác tiễu phỉ và vận động đồng bào vùng biên giới. [Nguồn: Bộ Tư lệnh Bộ đội Biên phòng, Lịch sử Bộ đội Biên phòng (1959 - 2019), NXB Quân đội nhân dân, Hà Nội, 2019]
 
@@ -7557,6 +7809,10 @@
 
 <!-- id: EVT-2203 -->
 *   **23/10/1961:** Bộ trưởng Bộ Quốc phòng Đại tướng Võ Nguyên Giáp ký ban hành Quyết định số 97/QP thành lập **Đoàn 759** (tiền thân của Lữ đoàn 125 Hải quân) với mật danh "Đoàn tàu Không số", do Trung tá Đoàn Hồng Phước làm Đoàn trưởng. Đơn vị có nhiệm vụ mở tuyến vận tải quân sự chiến lược bí mật trên Biển Đông (Đường mòn Hồ Chí Minh trên biển), vận chuyển vũ khí hạng nặng, đạn dược và cán bộ chi viện cho các chiến trường Nam Bộ và Nam Trung Bộ. [Nguồn: Báo Nhân Dân - Đường Hồ Chí Minh trên biển và đường Trường Sơn, https://special.nhandan.vn/duong-Ho-Chi-Minh-tren-bien-va-duong-Truong-Son/index.html]
+
+![Hình ảnh tư liệu](images/event_20260930_214518_3.webp)
+
+*Nguồn: Tàu không số của Đoàn 759. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-2204 -->
 *   **30/10/1961:** Bộ Ngoại giao Việt Nam Dân chủ Cộng hòa gửi công hàm cho 103 quốc gia trên thế giới tố cáo hành động phá hoại Hiệp định Giơnevơ của Mỹ. [Nguồn: Bộ Ngoại giao, Lịch sử Ngoại giao Việt Nam (1945 - 2000), NXB Chính trị quốc gia, Hà Nội, 2002]
@@ -7650,6 +7906,10 @@
 
 <!-- id: EVT-2230 -->
 *   **20 - 21/08/1963:** Đêm 20 rạng sáng 21/08, Lực lượng Đặc biệt và Cảnh sát Dã chiến dưới sự chỉ đạo trực tiếp của Ngô Đình Nhu đồng loạt mở Chiến dịch Nước lũ bố ráp chùa Xá Lợi (Sài Gòn), chùa Từ Đàm (Huế) cùng hàng trăm ngôi chùa trên toàn miền Nam. Thiết quân luật được ban bố trên toàn quốc; hơn 1.400 tăng ni và Phật tử bị bắt giữ, nhiều cơ sở thờ tự bị tàn phá nặng nề. Vụ bố ráp tàn bạo gây phẫn nộ sâu sắc trong công chúng, giới quân sự và truyền thông quốc tế, đẩy quan hệ giữa Mỹ và gia đình họ Ngô đến bờ vực rạn nứt hoàn toàn. [Nguồn: Viện Sử học, Lịch sử Việt Nam, tập 11 (1954 - 1965), NXB Khoa học Xã hội, Hà Nội, 2014]
+
+![Hình ảnh tư liệu](images/event_20260930_214518_4.webp)
+
+*Nguồn: Chùa Xá Lợi, Sài Gòn. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-2231 -->
 *   **24/08/1963:** Bộ Ngoại giao Mỹ gửi **Bức điện tín số 243 (Cable 243 / Telegram 243)** cho tân Đại sứ Henry Cabot Lodge Jr. tại Sài Gòn. Được soạn thảo khẩn cấp trong kỳ nghỉ cuối tuần bởi Roger Hilsman, Michael Forrestal và Averell Harriman, bức điện tuyên bố Mỹ không thể chấp nhận sự lũng đoạn và đàn áp Phật giáo của Ngô Đình Nhu, chỉ thị cho Đại sứ Lodge gây áp lực buộc Diệm phế truất Nhu, đồng thời cho phép bật "đèn xanh" bảo đảm Mỹ sẽ ủng hộ các tướng lĩnh quân đội Việt Nam Cộng hòa tiến hành đảo chính nếu Diệm từ chối. [Nguồn: Giáo hội Phật giáo Việt Nam, Bồ tát Thích Quảng Đức - Vị pháp thiêu thân, NXB Tôn giáo, Hà Nội, 2013; Viện Sử học]
@@ -7750,6 +8010,10 @@
 <!-- id: EVT-2259 -->
 *   **21 - 27/08/1964:** Làn sóng biểu tình khổng lồ của hàng chục vạn sinh viên, học sinh, Phật tử và nhân dân bùng nổ tại Sài Gòn, Huế, Đà Nẵng bao vây Tòa Đại sứ Mỹ và Dinh Thủ tướng phản đối "Hiến chương Vũng Tàu" thiết lập chế độ độc tài quân sự của Tướng Nguyễn Khánh, buộc Nguyễn Khánh phải tuyên bố hủy bỏ hiến chương và từ chức Quốc trưởng. [Nguồn: Viện Sử học, Lịch sử Việt Nam, tập 11, NXB Khoa học Xã hội, Hà Nội, 2014]
 
+![Hình ảnh tư liệu](images/event_20260930_214519.webp)
+
+*Nguồn: Bồ tát Thích Quảng Đức. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-2260 -->
 *   **25/08/1964:** **Trận đánh Khách sạn Caravelle (Sài Gòn):** Đội Biệt động 65 do Nguyễn Thanh Xuân (Bảy Bê) chỉ huy bí mật đưa khối chất nổ vào phòng 514 khách sạn Caravelle tại Công trường Lam Sơn – nơi đồn trú của đông đảo sĩ quan cấp cao và phái đoàn cố vấn quân sự Mỹ. Vụ nổ làm sụp đổ nhiều tầng nhà, phá hủy cơ sở lưu trú của sĩ quan đối phương và gây tiếng vang lớn trên trường quốc tế. [Nguồn: Ban Chấp hành Trung ương Đảng, Văn kiện Đảng Toàn tập, tập 24, NXB Chính trị quốc gia, Hà Nội, 2003]
 
@@ -7803,6 +8067,10 @@
 
 <!-- id: EVT-2276 -->
 *   **1965:** Lê Thị Riêng được phân công làm Trưởng ban Phụ vận khu Sài Gòn - Gia Định (T4), trực tiếp vào nội thành chỉ huy phong trào phụ nữ. Cùng năm, Út Tịch dự Đại hội anh hùng chiến sĩ thi đua lực lượng vũ trang toàn miền Nam, được bầu là nữ anh hùng và tặng thưởng Huân chương Quân công Giải phóng hạng Nhì vì thành tích tham gia 23 trận đánh. [Nguồn: Hội Liên hiệp Phụ nữ TP. Hồ Chí Minh, Cuộc đời và sự nghiệp đồng chí Lê Thị Riêng, NXB Tổng hợp TP. Hồ Chí Minh, 2007; Nguyễn Thi, Người mẹ cầm súng]
+
+![Hình ảnh tư liệu](images/event_20260930_214519_1.webp)
+
+*Nguồn: Chợ Bến Thành, Sài Gòn. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-2277 -->
 *   **1965:** Kostas Sarantidis (Nguyễn Văn Lập) cùng gia đình trở về Hy Lạp sau nhiều năm sinh sống và công tác tại miền Bắc Việt Nam (từ năm 1954). Dù ở quê hương, ông vẫn tiếp tục vận động, quyên góp ủng hộ cho Việt Nam. [Nguồn: Báo Quân đội nhân dân; Bảo tàng Lịch sử Quân sự Việt Nam, Tư liệu Anh hùng Kostas Sarantidis - Nguyễn Văn Lập]
@@ -7887,6 +8155,10 @@
 
 <!-- id: EVT-2300 -->
 *   **05/05/1965:** Tại Đại hội Anh hùng và Chiến sĩ thi đua toàn miền Nam lần thứ nhất, Ủy ban Trung ương Mặt trận Dân tộc Giải phóng miền Nam Việt Nam tuyên dương và truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân giải phóng cho 22 cá nhân tiêu biểu; gồm tuyên dương nữ anh hùng Nguyễn Thị Út (Út Tịch, với câu nói bất hủ: "Còn cái lai quần cũng đánh!") cùng 14 cán bộ, chiến sĩ: Hồ Văn Bé (Trung đội trưởng đặc công huyện Chợ Gạo; sau là Đại tá, Phó Sư đoàn trưởng Sư đoàn 8, Quân khu 9), Trần Dưỡng (chiến sĩ trinh sát đơn vị V.10 tỉnh Quảng Nam; sau là Trung tá, Phó Phòng Quân báo Quân khu 5), Lê Quang Công (Đại đội trưởng Đại đội 2 bộ đội địa phương tỉnh Mỹ Tho; sau là Đại tá, Phó Chỉ huy trưởng kiêm Tham mưu trưởng Bộ Chỉ huy Quân sự tỉnh Tiền Giang), Nguyễn Hội (Đại đội trưởng đặc công tỉnh Bình Thuận, trực tiếp tham gia 32 trận, diệt và bắt sống hơn 100 tên địch, thu 41 súng), Phạm Văn Hai (Đội trưởng Biệt động 65 nội thành Sài Gòn, tham gia trận đánh kho bom Phú Thọ Hòa năm 1954, chỉ huy hơn 30 trận tập kích mục tiêu Mỹ - ngụy; hy sinh tại Củ Chi năm 1966), Tạ Thị Kiều (Đại tá, khi tuyên dương là cán bộ Ban Chỉ huy Quân sự huyện Mỏ Cày, Bến Tre, kiên cường đánh địch và xây dựng cơ sở cách mạng), Nguyễn Kim (Tiểu đội trưởng bộ đội địa phương tỉnh Bình Định, tham gia 20 trận, chỉ huy thọc sâu phá 13 ấp chiến lược), Đoàn Thanh Liêm (Đại đội trưởng bộ đội địa phương huyện Sơn Tịnh, một trong những người đầu tiên gây dựng lực lượng vũ trang Khu 5), Nguyễn Văn Quỳ (Đại đội phó bộ đội địa phương huyện Nhà Bè, đánh 24 trận; hy sinh trong trận chống càn Cedar Falls vào Tam giác sắt năm 1967), Pinăng Tắc (Chính trị viên phó Huyện đội Bác Ái, chỉ huy trận phục kích bằng bẫy đá tại đèo Gia Túc tiêu diệt hơn 100 tên địch năm 1961), Nguyễn Minh Tua (Trung đội trưởng thuộc Đại đội 1, Tiểu đoàn 261 Giron, đánh 24 trận, diệt và bắt 43 tên địch, bắn cháy 1 tàu chiến và 4 xe GMC), Nguyễn Trung Thành (Phó Ban Quân giới T.3, Bí thư Chi bộ Binh công xưởng tỉnh Cà Mau, nghiên cứu sản xuất vũ khí phục vụ chiến trường), Hồ Vai (Xã đội trưởng du kích xã A Lưới, chỉ huy nhiều trận chống càn; sau là Trung tá, đại biểu Quốc hội khóa VI, VII; cậu ruột Anh hùng Hồ Kan Lịch), và Puih Thu (Puih Banh - Trung đội trưởng du kích xã Ia Lớp, huyện Chư Prông, chỉ huy nổi dậy diệt đồn địch và dùng súng trường bắn rơi máy bay lên thẳng Mỹ); đồng thời truy tặng cho 7 liệt sĩ kiên cường: Nguyễn Văn Đừng (Tiểu đội trưởng thuộc Tiểu đoàn 261A Giron, chỉ huy đơn vị bẻ gãy các đợt tiến công, diệt xe bọc thép M-113, lập công xuất sắc và anh dũng hy sinh trong trận Ấp Bắc), Võ Như Hưng (Trung đội trưởng đặc công Quảng Đà, cùng đơn vị tiêu diệt gần 2 đại đội địch trong trận chống càn tại Điện Bàn năm 1963), Nguyễn Việt Khái (Trung đội phó thuộc Tiểu đoàn U Minh 2, dùng súng carbine bắn 8 phát hạ 4 trực thăng Mỹ năm 1962; hy sinh tại đồn Vàm Cái Tàu năm 1963), Nguyễn Văn Tư (Tiểu đội phó du kích xã Tân Thành Bình, sáng tạo cách đánh bằng ong vò vẽ diệt địch, tham gia hơn 200 trận), Mai Thanh Thế (chiến sĩ đặc công huyện Thạnh Trị, hy sinh trong trận đánh đồn Cầu Trâu), Trừ Văn Thố (chiến sĩ trinh sát đặc công đơn vị Q.272, Trung đoàn 2, Sư đoàn 9, lấy thân mình bịt lỗ châu mai đồn Cây Trường năm 1963), và Ngô Minh Trị (Tiểu đội phó đơn vị đặc công 60, hy sinh anh dũng trong trận tập kích đồn Tua Hai năm 1960). [Nguồn: Báo Văn Hóa - Đại hội thi đua lực lượng vũ trang giải phóng miền Nam (2 - 6/5/1965), https://baovanhoa.vn/doi-song/dai-hoi-thi-dua-luc-luong-vu-trang-giai-phong-mien-nam-224199.html; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân]
+
+![Hình ảnh tư liệu](images/event_20260930_214519_2.webp)
+
+*Nguồn: Cờ Mặt trận Dân tộc Giải phóng. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-2301 -->
 *   **09/05/1965:** Chính phủ Việt Nam Dân chủ Cộng hòa ra tuyên bố phản đối việc Mỹ ấn định "khu vực tác chiến" tại Việt Nam. Theo nguồn tin từ Trung Quốc, bản tuyên bố này có thể đã nhắc đến việc khu vực tác chiến của Mỹ bao gồm cả một phần vùng biển của CHND Trung Hoa ở "quần đảo Tây Sa" (Hoàng Sa). [Nguồn: Hồ Chí Minh Toàn tập, tập 14 (1963 - 1965), NXB Chính trị quốc gia, Hà Nội, 2011, tr. 524-533]
@@ -8212,6 +8484,10 @@
 <!-- id: EVT-2404 -->
 * **1968:** Liệt sĩ Bành Văn Trân (chiến sĩ đặc công biệt động Sài Gòn, người tham gia trận tập kích sân bay Tân Sơn Nhất đêm 02/12/1966) anh dũng hy sinh tại Nhà tù Côn Đảo. [Nguồn: Ban Tuyên giáo Tỉnh ủy Bà Rịa - Vũng Tàu, Lịch sử Nhà tù Côn Đảo (1862 - 1975), NXB Chính trị quốc gia, Hà Nội, 2002]
 
+![Hình ảnh tư liệu](images/event_20260930_214519_3.webp)
+
+*Nguồn: Sân bay Tân Sơn Nhất. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-2405 -->
 *   **1968:** Trong cuộc Tổng tiến công và nổi dậy Tết Mậu Thân, nữ tình báo Đinh Thị Vân trực tiếp hướng dẫn chuẩn bị kế hoạch "Vụ Mùa" ở Sài Gòn, chuẩn bị giao liên dẫn đường cho lực lượng bên ngoài vào, cung cấp tin tức kịp thời và giữ bí mật tuyệt đối mạng lưới tình báo. [Nguồn: Tổng cục II - Bộ Quốc phòng, Lịch sử Tình báo Quốc phòng Việt Nam (1945 - 2015), NXB Quân đội nhân dân, Hà Nội, 2015]
 
@@ -8512,6 +8788,10 @@
 <!-- id: EVT-2491 -->
 *   **20/12/1969:** Nhà nước Việt Nam quyết định phong tặng và truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho các cán bộ, chiến sĩ có chiến công xuất sắc; gồm phong tặng cho Mai Năng (Đoàn trưởng Đoàn Đặc công nước 126 Hải quân, người sau này trực tiếp chỉ huy lực lượng hải quân đánh chiếm và giải phóng quần đảo Trường Sa tháng 4 năm 1975; sau là Thiếu tướng, Tư lệnh Binh chủng Đặc công); đồng thời truy tặng 4 liệt sĩ: Bùi Ngọc Dương (sĩ quan công binh quê Hà Nội, dũng cảm chiến đấu mở đường và hy sinh anh dũng tại mặt trận Khe Sanh năm 1968), Bế Văn Cắm (chiến sĩ quân y quê Cao Bằng, dũng cảm cứu thương trên chiến trường), Nguyễn Văn Bích (Trung đội phó Công binh đánh cầu Phân khu 1 Sài Gòn - Gia Định, chỉ huy nhiệm vụ đánh sập cầu Phú Cường tại Bình Dương năm 1968), và Nguyễn Văn Xơ (Phó Chính ủy Trung đoàn 1, Sư đoàn 9 miền Đông Nam Bộ, chỉ huy tiến công Trung tâm Huấn luyện Quang Trung trong cuộc Tổng tiến công và nổi dậy Tết Mậu Thân 1968). [Nguồn: Bộ Tư lệnh Binh chủng Đặc công, Lịch sử Binh chủng Đặc công (1967 - 2007), NXB Quân đội nhân dân, Hà Nội, 2007]
 
+![Hình ảnh tư liệu](images/event_20260930_214528_1.webp)
+
+*Nguồn: Nữ tướng Nguyễn Thị Định. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-2492 -->
 *   **20/12/1969:** Nhân dịp kỷ niệm 9 năm ngày thành lập Mặt trận Dân tộc Giải phóng miền Nam Việt Nam, Ủy ban Trung ương Mặt trận quyết định tuyên dương và phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân giải phóng cho lực lượng Biệt động Sài Gòn - Gia Định, đồng thời trân trọng khắc ghi 16 chữ vàng do Chủ tịch Hồ Chí Minh khen tặng: *"Đoàn kết một lòng, mưu trí kiên cường, anh dũng tuyệt vời, trung thành vô hạn"*. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Biệt động Sài Gòn - Gia Định (1945 - 1975), NXB Quân đội nhân dân, Hà Nội, 2010]
 
@@ -8605,6 +8885,10 @@
 <!-- id: EVT-2522 -->
 *   **30/08/1970:** Phong trào Phụ nữ Đòi quyền sống (do Luật sư Ngô Bá Thành lãnh đạo) cùng Ủy ban Đòi quyền sống Đồng bào và các tổ chức nghiệp đoàn tổ chức các cuộc biểu tình rầm rộ tại Sài Gòn phản đối chính sách tăng thuế, lạm phát đời sống, đòi quân đội Mỹ rút khỏi Việt Nam và lập lại hòa bình. [Nguồn: Thành đoàn TP. Hồ Chí Minh, Lịch sử phong trào đô thị Sài Gòn - Gia Định (1954 - 1975), NXB Trẻ, TP. Hồ Chí Minh, 2005]
 
+![Hình ảnh tư liệu](images/event_20260930_214521_2.webp)
+
+*Nguồn: Luật sư Ngô Bá Thành. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-2523 -->
 *   **21/11/1970:** **Chiến dịch Ivory Coast (Vụ tập kích Sơn Tây / Operation Ivory Coast):** Quân đội Mỹ triển khai lực lượng đặc nhiệm hỗn hợp bất ngờ tập kích đường không vào trại tù binh Sơn Tây (thị xã Sơn Tây, Hà Tây) nhằm giải cứu các phi công tù binh Mỹ bị giam giữ ở miền Bắc. Với tinh thần cảnh giác cao độ và sự chỉ đạo tài tình, quân và dân miền Bắc đã sớm nắm chắc tình hình và chủ động sơ tán toàn bộ tù binh Mỹ đến nơi an toàn khác từ trước đó. Cuộc đột kích đường không của biệt kích Mỹ hoàn toàn trắng tay, chuốc lấy thất bại ê chề, trong khi lực lượng phòng không và tự vệ địa phương đã anh dũng đánh trả, bắn rơi máy bay trực thăng và tiêm kích của địch. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Kháng chiến chống Mỹ cứu nước (1954 - 1975), tập 4, NXB Chính trị quốc gia, Hà Nội, 2013]
 
@@ -8625,6 +8909,10 @@
 
 <!-- id: EVT-2529 -->
 *   **08/02 - 24/03/1971:** Chiến dịch Đường 9 - Nam Lào (Lam Sơn 719). ngụy quân VNCH, yểm trợ bởi 10.000 quân Mỹ cùng 1.200 máy bay và pháo binh hạng nặng, huy động hơn 21.000 quân tinh nhuệ nhất (Dù, Thủy quân lục chiến, Thiết giáp) tiến công sang Hạ Lào nhằm cắt đứt đường mòn Hồ Chí Minh tại Xê-pôn. Quân Giải phóng miền Nam Việt Nam (với 60.000 quân) đã thực hiện chiến dịch phản công hiệp đồng binh chủng quy mô lớn chưa từng có. Nổi bật là trận đại phá Bản Đông (12/03 - 20/03), Quân Giải phóng đập tan Lữ đoàn 1 Dù và 2 thiết đoàn ngụy quân VNCH. Chiến dịch kết thúc với thất bại thảm hại của ngụy quân Sài Gòn (thương vong trên 1.500 người, hàng trăm bị bắt; mất 71 xe tăng, 163 xe thiết giáp, hơn 100 trực thăng bị phá hủy và hơn 600 chiếc bị bắn hỏng). Thắng lợi này đánh dấu sự trưởng thành vượt bậc của Quân Giải phóng, làm phá sản mục tiêu cắt đứt đường Trường Sơn và giáng đòn chí mạng vào chiến lược "Việt Nam hóa chiến tranh" của Mỹ. [Nguồn: Báo Nhân Dân - Chiến dịch Đường 9 - Nam Lào, https://special.nhandan.vn/chien-dich-duong-9-nam-lao/index.html]
+
+![Hình ảnh tư liệu](images/event_20260930_214519_4.webp)
+
+*Nguồn: Quốc lộ 9, Quảng Trị. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-2530 -->
 *   **20/04/1971:** Bộ Ngoại giao Việt Nam Cộng hòa đưa ra lời phản kháng đối với Malaysia về các vấn đề lãnh thổ, đồng thời nhân dịp này khẳng định lại chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa. [Nguồn: TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, NXB Tri thức, Hà Nội, 2013]
@@ -8656,6 +8944,10 @@
 <!-- id: EVT-2539 -->
 *   **03/10/1971:** Làn sóng biểu tình dữ dội bùng nổ trên đường phố Sài Gòn, Huế, Đà Nẵng, Quy Nhơn phản đối cuộc bầu cử tổng thống "độc diễn" chỉ có một liên danh duy nhất của Nguyễn Văn Thiệu; người biểu tình đã đốt xe quân sự Mỹ và đụng độ với cảnh sát chống bạo động. [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân, NXB Quân đội nhân dân, Hà Nội, 1996]
 
+![Hình ảnh tư liệu](images/event_20260930_214520.webp)
+
+*Nguồn: Chùa Ấn Quang, Sài Gòn. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-2540 -->
 *   **12/1971:** Đại hội lần thứ ba của Mặt trận Tổ quốc Việt Nam được tổ chức tại Hà Nội. [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân, NXB Quân đội nhân dân, Hà Nội, 1996]
 
@@ -8686,8 +8978,16 @@
 <!-- id: EVT-2549 -->
 *   **30/03/1972 - 31/01/1973:** Chiến dịch Xuân - Hè 1972 nổ ra với ba đòn tiến công chiến lược hiệp đồng binh chủng quy mô lớn của Quân Giải phóng miền Nam Việt Nam trên ba hướng: Trị - Thiên, Bắc Tây Nguyên và miền Đông Nam Bộ (Chiến dịch Nguyễn Huệ). Quân Giải phóng huy động hơn 200.000 quân chính quy cùng hàng trăm xe tăng, đại bác. Tại Trị - Thiên, Quân Giải phóng chọc thủng phòng tuyến Đường 9, đánh tan Sư đoàn 3 VNCH, giải phóng tỉnh Quảng Trị (02/05). Tại Đông Nam Bộ, đánh chiếm Lộc Ninh (07/04), bao vây An Lộc và chốt chặn Đường 13. Cuộc tiến công giáng đòn nặng nề vào chiến lược "Việt Nam hóa chiến tranh", mở rộng 10-20% vùng kiểm soát của Chính phủ Cách mạng lâm thời, tạo vị thế lớn tại Hội nghị Paris. [Nguồn: Báo Nhân Dân - Cuộc tiến công chiến lược năm 1972, https://special.nhandan.vn/cuoc-tien-cong-chien-luoc-nam-1972/index.html]
 
+![Hình ảnh tư liệu](images/event_20260930_214528_2.webp)
+
+*Nguồn: Sông Thạch Hãn, Quảng Trị. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-2550 -->
 *   **02/04/1972:** Trọng pháo vây hãm, đạn dược cạn kiệt, không được cấp trên cho rút lui hay chi viện, Trung tá Phạm Văn Đính đã quyết định kéo cờ trắng, dẫn 1.500 sĩ quan và binh sĩ Trung đoàn 56 ra đầu hàng Quân Giải phóng để cứu sinh mạng binh lính. Sự kiện này gây chấn động mạnh mẽ ngụy quyền Sài Gòn. Ông được cách mạng khoan hồng, giữ nguyên cấp bậc Trung tá (sau là Thượng tá) trong Quân đội Nhân dân Việt Nam và được giao phụ trách công tác địch vận. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Chiến dịch Trị Thiên - Huế và 81 ngày đêm Thành Cổ Quảng Trị năm 1972, NXB Quân đội nhân dân, Hà Nội, 2002]
+
+![Hình ảnh tư liệu](images/event_20260930_214528_3.webp)
+
+*Nguồn: Căn cứ Carroll, Quảng Trị. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-2551 -->
 *   **06/04/1972:** Mỹ tiến hành cuộc chiến tranh phá hoại miền Bắc lần thứ hai (Chiến dịch Linebacker I). [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân, NXB Quân đội nhân dân, Hà Nội, 1996]
@@ -8744,6 +9044,10 @@
 
 <!-- id: EVT-2566 -->
 *   **26/10/1972:** Sau khi chính quyền Nixon lật lọng, viện cớ ngụy quyền Sài Gòn phản đối để trì hoãn ký kết và đòi sửa đổi 69 điều khoản, Chính phủ Việt Nam Dân chủ Cộng hòa ra Tuyên bố công khai toàn bộ nội dung thỏa thuận ngầm và thời gian biểu đã thống nhất, vạch trần hành động nuốt lời của Mỹ trước dư luận quốc tế. Bị dồn vào thế lúng túng khi chỉ còn 12 ngày trước cuộc bầu cử Tổng thống Mỹ, Cố vấn An ninh Quốc gia Henry Kissinger buộc phải tổ chức họp báo khẩn cấp tại Nhà Trắng và đưa ra phát ngôn lịch sử: *"Hòa bình đang ở trong tầm tay"* (*"Peace is at hand"*). Tuyên bố này thực chất là đòn tâm lý chính trị nhằm trấn an dư luận và cử tri Mỹ rằng chiến tranh sắp chấm dứt để bảo đảm chiến thắng áp đảo cho Richard Nixon trong ngày bầu cử 07/11, đồng thời là thủ thuật ngoại giao hoãn binh để Mỹ chuẩn bị mở cuộc tập kích chiến lược rải thảm B-52 vào tháng 12/1972 nhằm gây sức ép buộc Hà Nội nhượng bộ. [Nguồn: Bộ Ngoại giao, Mặt trận Ngoại giao với Cuộc đàm phán Paris, NXB Chính trị quốc gia, Hà Nội, 2004]
+
+![Hình ảnh tư liệu](images/event_20260930_214520_2.webp)
+
+*Nguồn: Tháp Eiffel, Paris. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-2567 -->
 *   **18 - 30/12/1972:** Chiến dịch "Hà Nội 12 ngày đêm" - Chiến thắng "Điện Biên Phủ trên không" (đánh bại cuộc tập kích đường không chiến lược Linebacker II của Mỹ). Nhằm cứu vãn chiến lược "Việt Nam hóa chiến tranh" và gây sức ép buộc Việt Nam Dân chủ Cộng hòa nhượng bộ các điều khoản cốt lõi tại bàn đàm phán Paris, Tổng thống Mỹ Richard Nixon mở cuộc tập kích đường không chiến lược hủy diệt bằng máy bay ném bom B-52 vào Hà Nội, Hải Phòng và các vùng phụ cận (phá sập phố Khâm Thiên, Bệnh viện Bạch Mai, ga Yên Viên...). Dưới sự chỉ đạo trực tiếp của Quân ủy Trung ương và Đại tướng Tổng Tư lệnh Võ Nguyên Giáp từ Tổng hành dinh (Nhà và Hầm D67 tại Hoàng thành Thăng Long), suốt 12 ngày đêm chiến đấu kiên cường, mưu trí ("vạch nhiễu tìm thù"), quân và dân Thủ đô Hà Nội cùng Quân chủng Phòng không - Không quân Việt Nam đã làm nên kỳ tích lịch sử: bắn rơi 81 máy bay Mỹ, trong đó có 34 pháo đài bay B-52 (16 chiếc rơi tại chỗ) và 5 máy bay F-111, bắt sống nhiều phi công. Đòn giáng trả đanh thép này đập tan uy thế không lực chiến lược của Mỹ, bẻ gãy mưu đồ "đưa miền Bắc trở về thời kỳ đồ đá", buộc Mỹ phải đơn phương tuyên bố ngừng ném bom từ vĩ tuyến 20 trở ra vào ngày 30/12 và ký kết Hiệp định Paris (27/01/1973), rút toàn bộ quân viễn chinh về nước. [Nguồn: https://special.nhandan.vn/HaNoi_DienBienPhutrenkhong_12ngaydem/index.html]
@@ -8889,8 +9193,16 @@
 <!-- id: EVT-2609 -->
 *   **15-20/01/1974:** Nhân lúc Mỹ rút quân, Cộng hòa Nhân dân Trung Hoa đã dùng vũ lực quân sự đổ bộ lên phần phía Tây quần đảo Hoàng Sa (nhóm Lưỡi Liềm) và giao tranh quyết liệt trên biển và trên bộ với lực lượng ngụy quân VNCH. Trung Quốc sau đó chiếm quyền kiểm soát toàn bộ quần đảo Hoàng Sa. Ngụy quyền Sài Gòn phản đối kịch liệt và yêu cầu Hội đồng Bảo an Liên Hợp Quốc can thiệp. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với Hoàng Sa và Trường Sa, Hà Nội, 1982; TS. Nguyễn Nhã, 2013]
 
+![Hình ảnh tư liệu](images/event_20260930_214529.webp)
+
+*Nguồn: Hải chiến Hoàng Sa 1974. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-2610 -->
 *   **18/01/1974:** Đại sứ Đài Loan tại Sài Gòn gửi công hàm ngoại giao khẳng định lại yêu sách của Trung Hoa Dân quốc đối với các quần đảo trong bối cảnh xung đột leo thang giữa Việt Nam Cộng hòa và Cộng hòa Nhân dân Trung Hoa ở Hoàng Sa. [Nguồn: TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, NXB Tri thức, Hà Nội, 2013]
+
+![Hình ảnh tư liệu](images/event_20260930_214520_3.webp)
+
+*Nguồn: Thành phố Đài Bắc. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-2611 -->
 *   **07/03/1974:** Thực hiện Hiệp định Paris về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam, nữ chiến sĩ cách mạng Võ Thị Thắng được trao trả tự do tại sân bay Lộc Ninh (Bình Phước) sau gần 6 năm bị giam cầm và tra tấn qua nhiều nhà tù khét tiếng như Thủ Đức, Chí Hòa và Côn Đảo. [Nguồn: Thành đoàn TP. Hồ Chí Minh, Nụ cười chiến thắng Võ Thị Thắng, NXB Trẻ, TP. Hồ Chí Minh, 2014; Báo Nhân Dân]
@@ -8968,6 +9280,10 @@
 
 <!-- id: EVT-2630 -->
 *   **26/03/1975:** Thành phố Huế và toàn bộ tỉnh Thừa Thiên được hoàn toàn giải phóng khi lá cờ cách mạng tung bay trên đỉnh Cột cờ Phu Văn Lâu, đập tan tuyến phòng thủ chiến lược then chốt của ngụy quyền Sài Gòn ở miền Trung. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Kháng chiến chống Mỹ cứu nước (1954 - 1975), tập VIII, NXB Chính trị quốc gia, Hà Nội, 2008, tr. 320-335; Báo Nhân Dân]
+
+![Hình ảnh tư liệu](images/event_20260930_214521.webp)
+
+*Nguồn: Phu Văn Lâu, Huế. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-2631 -->
 *   **27/03/1975:** Bộ Chính trị gửi điện (18 giờ) chỉ đạo Anh Năm Công (Võ Chí Công) và Hai Mạnh (**Chu Huy Mân**) về kế hoạch giải phóng Đà Nẵng, yêu cầu hành động táo bạo, bất ngờ để tiêu diệt sinh lực địch, không cho chúng rút về Sài Gòn. [Nguồn: Bộ Tổng Tham mưu Quân đội nhân dân Việt Nam, Văn kiện chỉ đạo tác chiến mùa Xuân 1975; Đại tướng Chu Huy Mân, Thời sôi động (Hồi ký), NXB Quân đội nhân dân, Hà Nội, 2004]
@@ -9060,6 +9376,10 @@
 
 <!-- id: EVT-2653 -->
 *   **05-06/05/1975:** Hải quân Nhân dân Việt Nam giành lại quyền kiểm soát quần đảo Trường Sa từ ngụy quân Sài Gòn sau khi giải phóng miền Nam. [Nguồn: Quân chủng Hải quân, Lịch sử Hải quân nhân dân Việt Nam (1955 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005, tr. 250-265; TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, NXB Tri thức, 2013]
+
+![Hình ảnh tư liệu](images/event_20260930_214521_1.webp)
+
+*Nguồn: Đảo Song Tử Tây, Trường Sa. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-2654 -->
 *   **10/05/1975:** Quân Pôn Pốt đổ bộ lên quần đảo Thổ Chu, bắt và thảm sát hơn 500 thường dân Việt Nam. [Nguồn: Bộ Tư lệnh Quân khu 9, Lịch sử Lực lượng vũ trang Quân khu 9 (1945 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005; Tỉnh ủy Kiên Giang, Lịch sử Đảng bộ tỉnh Kiên Giang]
@@ -9279,6 +9599,10 @@
 <!-- id: EVT-2721 -->
 *   **06/11/1978:** Nhà nước Việt Nam quyết định phong tặng và truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho 22 tập thể và cá nhân có thành tích đặc biệt xuất sắc trong cuộc kháng chiến chống Mỹ cứu nước; gồm phong tặng cho 14 đồng chí: nhà tình báo chiến lược Đặng Trần Đức (Ba Quốc - cán bộ tình báo quân sự kiệt xuất thâm nhập sâu vào Phủ Đặc ủy Trung ương Tình báo Việt Nam Cộng hòa), Thiếu tá tình báo Nguyễn Văn Thương (Hai Thương - giao liên tình báo kiên trung chịu đựng 6 lần bị địch cưa chân mà vẫn giữ trọn khí tiết), Tôn Minh Lai (giao liên tình báo nội thành Sài Gòn), Lê Thị Nhiễm (chiến sĩ giao liên tình báo thuộc Đoàn 22, Cục Tham mưu Miền), Hồ Thị Bời (Tổ trưởng giao liên tình báo Đoàn 22), Đại tá Lê Văn Vĩnh (Cụm trưởng Tình báo H67 thuộc Phòng Tình báo B2), Lê Văn Đạm (Chính trị viên Xã đội An Nhơn Tây, Củ Chi, ngọn cờ đầu phong trào đào hầm địa đạo Củ Chi), Tống Viết Dương (Đại tá đặc công), Phan Trung Kiên (chỉ huy biệt động và du kích Củ Chi; sau là Thượng tướng, Thứ trưởng Bộ Quốc phòng), Trần Văn Xuân (xạ thủ tên lửa phòng không vác vai A72 thuộc Tiểu đoàn 172, Trung đoàn 64, Sư đoàn 361; sau là Thượng tá, Kỹ sư Thủy lợi), Thiếu tướng Quân y Lê Thế Trung (Giám đốc Học viện Quân y, người sáng lập ngành Bỏng Việt Nam), Nguyễn Văn A (Thiếu úy Công an nhân dân, chỉ huy đánh chiếm Tiểu khu Gia Định tháng 4 năm 1975), Bùi Quang Hảo (Chính trị viên lãnh đạo phong trào đấu tranh quần chúng tại Củ Chi, Hóc Môn, Trảng Bàng), và Phạm Văn Trọng (Thượng úy, Bác sĩ Quân y Viện 2 thuộc Bộ Tư lệnh TP.HCM); đồng thời truy tặng 8 liệt sĩ kiên trung: Võ Văn Điều ("Anh hùng Ấp Bắc", Tiểu đoàn trưởng Tiểu đoàn 261; Trung đoàn trưởng Trung đoàn 31 chỉ huy đánh Trung tâm Bưu chính Phú Lâm Tết Mậu Thân 1968), Trần Văn Đang (chiến sĩ Biệt động Sài Gòn bị giặc xử bắn công khai năm 1965), Điểu Cải (Xã đội trưởng Đội du kích Đồng Nai, người dân tộc Chơ Ro), Ngô Văn Cấn (Tiểu đoàn trưởng Tiểu đoàn 9 bộ binh), Thiếu tá Nguyễn Thanh Sơn (Tham mưu trưởng Trung đoàn 163), Bùi Anh Tuấn (chiến sĩ quê Vĩnh Phúc), Lê Văn Thế (Huyện đội trưởng huyện Củ Chi, tỉnh Gia Định), và Huỳnh Minh Mương (Trung đội trưởng bảo vệ Khu ủy Sài Gòn - Gia Định). [Nguồn: Quyết định phong tặng và truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ngày 06/11/1978 của Chủ tịch nước; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, tập VII, NXB Quân đội nhân dân, Hà Nội, 1996]
 
+![Hình ảnh tư liệu](images/event_20260930_214529_1.webp)
+
+*Nguồn: Quảng trường Ba Đình, Hà Nội. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-2722 -->
 * **16/11/1978:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Thị Pha (Đại đội trưởng Đại đội nữ Pháo binh Y2 Đại Lào, Bảo Lộc (Tỉnh Lâm Đồng)). [Nguồn: Quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ngày 16/11/1978 của Chủ tịch nước; Ban Tuyên giáo Tỉnh ủy Lâm Đồng, Lịch sử Phụ nữ tỉnh Lâm Đồng]
 
@@ -9470,6 +9794,10 @@
 
 <!-- id: EVT-2781 -->
 *   **09/12/1982:** Hội đồng Bộ trưởng nước CHXHCN Việt Nam ban hành **Quyết định số 193-HĐBT** thành lập huyện Hoàng Sa trực thuộc tỉnh Quảng Nam - Đà Nẵng và **Quyết định số 194-HĐBT** thành lập huyện Trường Sa trực thuộc tỉnh Đồng Nai (sau đó Quốc hội ra Nghị quyết chuyển huyện Trường Sa về tỉnh Phú Khánh vào ngày 28/12/1982, nay trực thuộc tỉnh Khánh Hòa). [Nguồn: Quyết định số 193-HĐBT ngày 09/12/1982 của Hội đồng Bộ trưởng về việc thành lập huyện Trường Sa; Công báo nước CHXHCN Việt Nam]
+
+![Hình ảnh tư liệu](images/event_20260930_214522.webp)
+
+*Nguồn: Bán đảo Sơn Trà, Đà Nẵng. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-2782 -->
 *   **09/12/1982:** Hội đồng Bộ trưởng Việt Nam ra các quyết định tái cơ cấu việc quản lý hành chính đối với các quần đảo. [Nguồn: Quyết định số 194-HĐBT ngày 09/12/1982 của Hội đồng Bộ trưởng về việc thành lập huyện Hoàng Sa; Công báo nước CHXHCN Việt Nam]
@@ -9664,6 +9992,10 @@
 <!-- id: EVT-2839 -->
 *   **1989:** Hội Khoa học Lịch sử Việt Nam và Viện Khoa học Xã hội tại TP. Hồ Chí Minh tổ chức hội thảo khoa học nhân 150 năm ngày sinh Trương Vĩnh Ký, mở đầu cho bước chuyển hướng quan trọng trong giới sử học Việt Nam về việc đánh giá lại nhân vật lịch sử: thống nhất phân định rạch ròi giữa lập trường chính trị với những đóng góp to lớn, tiên phong của ông đối với văn hóa dân tộc, chữ Quốc ngữ và nền báo chí Việt Nam. [Nguồn: Kỷ yếu Hội thảo khoa học Danh nhân Nguyễn Tri Phương; Hội Khoa học Lịch sử Việt Nam; Báo Sài Gòn Giải Phóng]
 
+![Hình ảnh tư liệu](images/event_20260930_214522_1.webp)
+
+*Nguồn: Học giả Trương Vĩnh Ký. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-2840 -->
 * **06/01/1989:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho tập thể Tàu HQ-505 (Lữ đoàn 125 Hải quân), Thiếu tá Vũ Huy Lễ (Thuyền trưởng Tàu HQ-505) và truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Thiếu úy Trần Văn Phương (Phó Chỉ huy trưởng đảo Gạc Ma, Lữ đoàn 146 Hải quân) vì tinh thần chiến đấu quả cảm, quyết tử bảo vệ chủ quyền biển đảo Tổ quốc tại Trường Sa tháng 3/1988. [Nguồn: Lệnh số 15-LCT/HĐNN8 ngày 06/01/1989 của Chủ tịch Hội đồng Nhà nước phong tặng và truy tặng danh hiệu Anh hùng LLVTND; Báo Quân đội nhân dân]
 
@@ -9837,6 +10169,10 @@
 
 <!-- id: EVT-2896 -->
 *   **1993:** Doanh nhân kiều bào Johnathan Hạnh Nguyễn (thông qua Tập đoàn Liên Thái Bình Dương - IPPG) hợp tác với Cục Hàng không Dân dụng Việt Nam khai trương hai cửa hàng miễn thuế (Duty-Free) đầu tiên tại Sân bay quốc tế Tân Sơn Nhất và Sân bay quốc tế Nội Bài, mở đầu cho sự hình thành ngành bán lẻ miễn thuế và chuỗi dịch vụ thương mại phi hàng không tiêu chuẩn quốc tế tại các cửa khẩu hàng không Việt Nam. [Nguồn: Cục Hàng không Dân dụng Việt Nam, Lịch sử Hàng không Dân dụng Việt Nam (1956 - 2006), NXB Giao thông Vận tải, 2006; Báo Sài Gòn Giải Phóng]
+
+![Hình ảnh tư liệu](images/event_20260930_214522_2.webp)
+
+*Nguồn: Máy bay Vietnam Airlines. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-2897 -->
 *   **03/1993:** Tòa phá án Pháp lặp lại kết luận miễn tố đối với vụ kiện Georges Boudarel. [Nguồn: Phán quyết của Tòa Phá án Cộng hòa Pháp (Cour de Cassation) ngày 01/04/1993 trong vụ án Boudarel; Bulletin des arrêts de la Cour de cassation, Paris, 1993]
@@ -10039,6 +10375,10 @@
 
 <!-- id: EVT-2957 -->
 *   **23/07/1997:** Chủ tịch nước quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho đồng chí Hoàng Lê Kha (Ủy viên Ban Thường vụ Tỉnh ủy Tây Ninh, bị hành quyết bằng máy chém dưới thời Ngô Đình Diệm) cùng các liệt sĩ thiếu niên tiêu biểu trong các cuộc kháng chiến: Kim Đồng (Nông Văn Dền - Đội trưởng đầu tiên của Đội Thiếu niên Tiền phong Hồ Chí Minh), Dương Văn Nội (Đội Thiếu niên Cứu quốc Thủ đô), Lê Thị Tuyết (nữ giao liên thiếu niên anh dũng tại Gio Linh, Quảng Trị), Lưu Quý An (thiếu niên dũng sĩ diệt xe bọc thép), Dương Văn Mạnh và Trần Văn Hai. [Nguồn: Lệnh số 695-KT/CTN ngày 23/07/1997 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2001]
+
+![Hình ảnh tư liệu](images/event_20260930_214530.webp)
+
+*Nguồn: Núi Bà Đen, Tây Ninh. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-2958 -->
 *   **01/08/1997 (Đinh Sửu):** Cựu hoàng Bảo Đại (Nguyễn Phúc Vĩnh Thụy), vị hoàng đế cuối cùng của chế độ quân chủ chuyên chế trong lịch sử Việt Nam, qua đời tại bệnh viện quân y Val-de-Grâce ở Paris (Pháp), hưởng thọ 83 tuổi, khép lại trọn vẹn chương sử phong kiến dân tộc. [Nguồn: Bảo Đại, Con rồng Việt Nam (Mémoires), Plon, Paris, 1980; Le Monde số ra ngày 02/08/1997; Thông tấn xã AFP]
@@ -10275,6 +10615,10 @@
 <!-- id: EVT-3029 -->
 *   **07/11/2003:** Nhã nhạc cung đình Huế được UNESCO công nhận là di sản phi vật thể đầu tiên. [Nguồn: UNESCO, Quyết định công nhận Nhã nhạc cung đình Huế là Kiệt tác di sản truyền khẩu và phi vật thể nhân loại ngày 07/11/2003; Trung tâm Bảo tồn Di tích Cố đô Huế; Báo Nhân Dân]
 
+![Hình ảnh tư liệu](images/event_20260930_214530_1.webp)
+
+*Nguồn: Nhã nhạc cung đình Huế. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-3030 -->
 *   **12/2003:** Việt Nam đăng cai tổ chức SEA Games 22. [Nguồn: Ban Tổ chức SEA Games 22, Kỷ yếu Đại hội Thể thao Đông Nam Á lần thứ 22 tại Việt Nam, NXB Thể dục Thể thao, 2004; Báo Thể thao & Văn hóa; Báo Nhân Dân]
 
@@ -10402,6 +10746,10 @@
 
 <!-- id: EVT-3068 -->
 *   **09 - 16/12/2007:** Hàng trăm thanh niên, sinh viên và nhân dân tại Hà Nội và TP. Hồ Chí Minh tuần hành biểu tình ôn hòa trước Đại sứ quán và Tổng Lãnh sự quán Trung Quốc phản đối Quốc vụ viện Trung Quốc phê chuẩn thành lập thành phố cấp huyện Tam Sa để quản lý hai quần đảo Hoàng Sa và Trường Sa của Việt Nam. [Nguồn: Tuyên bố của Người Phát ngôn Bộ Ngoại giao nước CHXHCN Việt Nam phản đối Trung Quốc thành lập thành phố Tam Sa, tháng 12/2007; Báo Tuổi Trẻ; Báo Thanh Niên]
+
+![Hình ảnh tư liệu](images/event_20260930_214522_3.webp)
+
+*Nguồn: Nhà hát Lớn Hà Nội. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-3069 -->
 * **2008:** Anh hùng Lực lượng vũ trang nhân dân Lưu Viết Thoảng (Đại tá, khi tuyên dương là Chính trị viên phó Đại đội thuộc Đoàn 151, Cục Công binh. Chỉ huy đào đường hầm đưa khối thuốc nổ ngàn cân vào lòng đồi A1 trong chiến dịch Điện Biên Phủ) từ trần. [Nguồn: Binh chủng Công binh, Lịch sử Binh chủng Công binh (1946 - 2006), NXB Quân đội nhân dân, 2006; Bảo tàng Công binh]
@@ -10912,6 +11260,10 @@
 <!-- id: EVT-3218 -->
 *   **19/05/2016:** Thơ văn trên kiến trúc cung đình Huế được UNESCO công nhận là Di sản Tư liệu Thế giới. [Nguồn: UNESCO, Quyết định của MOWCAP ghi danh Thơ văn trên kiến trúc cung đình Huế vào Danh mục Ký ức Thế giới Khu vực ngày 19/05/2016 (Huế); Trung tâm BTDT Cố đô Huế; Báo Nhân Dân]
 
+![Hình ảnh tư liệu](images/event_20260930_214530_2.webp)
+
+*Nguồn: Thế Tổ Miếu, Kinh thành Huế. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-3219 -->
 *   **22/05/2016:** Bầu cử Quốc hội khóa XIV. [Nguồn: Nghị quyết công bố kết quả bầu cử đại biểu Quốc hội khóa XIV của Hội đồng Bầu cử Quốc gia ngày 09/06/2016; Văn kiện Quốc hội; Báo Nhân Dân]
 
@@ -11168,6 +11520,10 @@
 <!-- id: EVT-3296 -->
 *   **23/03/2021:** Bà mẹ Việt Nam anh hùng, Anh hùng Lực lượng vũ trang nhân dân Trần Thị Quang Mẫn từ trần tại Thành phố Hồ Chí Minh, hưởng thọ 95 tuổi. [Nguồn: Ban Tuyên giáo Thành ủy TP.HCM, Lễ tưởng niệm Bà mẹ VNAH, Anh hùng LLVTND Nguyễn Thị Rành tại Củ Chi ngày 23/03/2021; Báo Sài Gòn Giải Phóng]
 
+![Hình ảnh tư liệu](images/event_20260930_214522_4.webp)
+
+*Nguồn: Nghĩa trang liệt sĩ TP.HCM. Ảnh: Wikimedia Commons*
+
 <!-- id: EVT-3297 -->
 *   **05/04/2021:** Tại kỳ họp thứ 11 Quốc hội khóa XIV, Quốc hội đã bầu đồng chí Nguyễn Xuân Phúc làm Chủ tịch nước và bầu đồng chí Phạm Minh Chính làm Thủ tướng Chính phủ nước CHXHCN Việt Nam (sau đó được Quốc hội khóa XV tiếp tục tín nhiệm bầu lại vào tháng 7/2021 cho nhiệm kỳ 2021 - 2026). [Nguồn: Nghị quyết của Quốc hội khóa XIV tại Kỳ họp thứ 11 ngày 05/04/2021 bầu Chủ tịch nước và Thủ tướng Chính phủ; Văn kiện Quốc hội; Báo Nhân Dân]
 
@@ -11191,6 +11547,10 @@
 
 <!-- id: EVT-3304 -->
 *   **15/12/2021:** Nghệ thuật Xòe Thái được UNESCO công nhận là di sản. [Nguồn: UNESCO, Quyết định của Ủy ban Liên Chính phủ ghi danh Nghệ thuật Xòe Thái vào Danh mục Di sản Phi vật thể đại diện ngày 15/12/2021 (Paris); Bộ VHTTDL; Báo Nhân Dân]
+
+![Hình ảnh tư liệu](images/event_20260930_214530_3.webp)
+
+*Nguồn: Vũ điệu Xòe Thái, Sơn La. Ảnh: Báo Pháp Luật*
 
 <!-- id: EVT-3305 -->
 * **2022:** Anh hùng Lực lượng vũ trang nhân dân Nguyễn Thành Út (Khi tuyên dương là Trung đội phó thuộc Đại đội 2, Tiểu đoàn 9, Trung đoàn 570, Đại đoàn 330. Nguyên chiến sĩ Tiểu đoàn 307, tham gia chiến đấu tại chiến trường Nam Bộ. Sau là Đại tá, Chính ủy Sư đoàn Không quân 376) từ trần. [Nguồn: Bộ Chỉ huy Quân sự tỉnh Bến Tre, Lịch sử Lực lượng vũ trang nhân dân tỉnh Bến Tre (1945 - 2005), NXB Quân đội nhân dân, 2005; Báo Đồng Khởi]
@@ -11583,6 +11943,10 @@
 
 <!-- id: EVT-3433 -->
 *   **06/2026:** Bộ Tư lệnh TP. Hồ Chí Minh cùng các cơ quan chức năng triển khai đợt tìm kiếm, quy tập hài cốt liệt sĩ quy mô lớn tại Công viên Lê Thị Riêng (nguyên là Nghĩa trang Đô Thành / Chí Hòa thời trước năm 1975, nơi chôn cất nhiều liệt sĩ và người dân hy sinh trong đợt Mậu Thân 1968). Tính đến đầu tháng 8/2026, lực lượng chức năng đã phát hiện và quy tập 245 bộ hài cốt liệt sĩ, đồng thời Công viên Lê Thị Riêng được chọn làm một trong các điểm cầu của chương trình cầu truyền hình trực tiếp "Sao sáng dẫn đường" ngày 26/07/2026 tri ân các anh hùng liệt sĩ. [Nguồn: Bộ Tư lệnh Thành phố Hồ Chí Minh, Báo cáo rà phá bom mìn, vật nổ còn sót lại sau chiến tranh tháng 06/2026; Báo Sài Gòn Giải Phóng]
+
+![Hình ảnh tư liệu](images/event_20260930_214522_5.webp)
+
+*Nguồn: Nghĩa trang Trường Sơn. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-3434 -->
 *   **16/06/2026:** Thủ tướng Chính phủ Lê Minh Hưng đến thành phố Kazan (Liên bang Nga) tham dự Hội nghị Cấp cao kỷ niệm 35 năm quan hệ ASEAN - Nga và bắt đầu chuyến công tác làm việc tại Liên bang Nga, tiếp tục thúc đẩy quan hệ Đối tác Chiến lược Toàn diện Việt - Nga và hợp tác khu vực. [Nguồn: Thông cáo báo chí của Bộ Ngoại giao về việc Thủ tướng Chính phủ Lê Minh Hưng tham dự Hội nghị Thượng đỉnh BRICS Plus tại Kazan ngày 16/06/2026; Thông tấn xã Việt Nam; Báo Nhân Dân]
