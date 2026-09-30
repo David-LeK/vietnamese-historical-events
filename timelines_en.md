@@ -203,6 +203,10 @@
 <!-- id: EVT-0036 -->
 *   **257 BC:** Thuc Phan An Duong Vuong erected a sacred stone oath pillar on the peak of Nghia Linh Mountain (Phong Chau), swearing eternal preservation of the realm handed down by the Hung Kings. [Source: Unique architectural works at the Hung Kings Temple relic site, including the stone oath column of Thuc Phan, https://tapchixaydung.vn/nhung-cong-trinh-kien-truc-doc-dao-tai-khu-di-tich-lich-su-den-hung--20201224000015595.html]
 
+![Hung Temple Gate](images/event_20260930_102320.webp)
+
+*Source: Tam quan gate of Hung Temple, Phu Tho. Photo: Wikimedia Commons*
+
 <!-- id: EVT-0037 -->
 *   **257 BC:** An Duong Vuong constructed the Loa Thanh (Co Loa Citadel). [Source: Hanoi legendary Co Loa Citadel, https://vietnamnet.vn/en/hanoi-s-legendary-co-loa-citadel-2057023.html]
 
@@ -230,6 +234,10 @@
 
 <!-- id: EVT-0042 -->
 *   **208 BC:** The Tay Au and Lac Viet alliance under Thuc Phan launched a major counter-offensive, ambushing and killing General-in-Chief Tu Shu and crushing the 500,000 Qin army to defend national independence. Following the victory, Thuc Phan unified Tay Au and Lac Viet into Au Lac. Around the same time, Zhao Tuo began attacks against Au Lac. [Source: Thuc Phan – King An Duong Vuong, https://hoangthanhthanglong.vn/en/thuc-phan-king-an-duong-vuong/]
+
+![Co Loa Temple Gate](images/event_20260930_101729_1.webp)
+
+*Source: An Duong Vuong Temple gate at Co Loa Citadel, Hanoi. Photo: Wikimedia Commons*
 
 <!-- id: EVT-0043 -->
 *   **207 BC:** Taking advantage of the fall of the Qin dynasty, Zhao Tuo severed transport links with the Central Plains, established the Nanyue kingdom with its capital at Panyu (Guangzhou), and proclaimed himself King Wu of Nanyue. [Source: Palace of the Nanyue Kingdom, https://www.nywmuseum.org.cn/En/News/Exhibition]
@@ -299,6 +307,10 @@
 
 <!-- id: EVT-0062 -->
 *   **41:** Ma Yuan led an army of about 20,000 to invade. [Source: Trung Sisters (d. 43 CE), https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/trung-sisters-d-43-ce]
+
+![Hai Ba Trung Temple](images/event_20260930_102320_1.webp)
+
+*Source: Gate of Hai Ba Trung Temple, Me Linh, Hanoi. Photo: Wikimedia Commons*
 
 <!-- id: EVT-0063 -->
 *   **43:** The uprising failed following an attack by the Han general Ma Yuan. The Trung Sisters committed suicide in the Hat River. Ma Yuan erected bronze pillars to mark the border. [Source: Trung Sisters (d. 43 CE), https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/trung-sisters-d-43-ce]
@@ -603,8 +615,16 @@
 <!-- id: EVT-0155 -->
 *   **937:** Kieu Cong Tien killed Duong Dinh Nghe to usurp the position. [Source: Ngo Quyen and the Historic Bach Dang Victory, https://nhandan.vn/ngo-quyen-va-chien-thang-bach-dang-lich-su-post484767.html]
 
+![Historical image](images/event_20260930_104250.webp)
+
+*Source: Bach Dang River, site of the 938 naval battle. Photo: Wikimedia Commons*
+
 <!-- id: EVT-0156 -->
 *   **Dec. 937:** Ngo Quyen marched from Ai Chau to the North to punish Kieu Cong Tien. [Source: Ngo Quyen and the Historic Bach Dang Victory, https://nhandan.vn/ngo-quyen-va-chien-thang-bach-dang-lich-su-post484767.html]
+
+![Statue of Ngo Quyen](images/event_20260930_101730.webp)
+
+*Source: Worship statue of Ngo Quyen in the temple. Photo: Wikimedia Commons*
 
 <!-- id: EVT-0157 -->
 *   **Late Winter 938:** Battle of Bach Dang River. Ngo Quyen used iron-tipped stakes hidden under high tide to impale Southern Han ships when the tide receded. Southern Han commander Luu Hoang Thao was killed, and over half the 20,000 Han troops died. This decisive victory ended over 1000 years of Northern domination. [Source: Three Naval Battles on the Bach Dang River, https://haiphong.gov.vn/tin-tuc-su-kien/3-tran-thuy-chien-lam-nen-nhungtrang-su-hao-hung-tren-Bach-Dang-Giang-55795]
@@ -625,6 +645,10 @@
 
 <!-- id: EVT-0159 -->
 *   **944:** Ngo Quyen passed away. His brother-in-law, Duong Tam Kha, usurped the throne from Ngo Quyen's son Ngo Xuong Ngap, proclaiming himself Binh Vuong. [Source: Why Did the Ngo Clan Lose the Throne? (Vietnamese Historical Anecdotes), https://daibieunhandan.vn/viet-su-giai-thoai-vi-sao-ho-ngo-mat-ngoi-10038576.html]
+
+![Tomb of Ngo Quyen](images/event_20260930_101730_1.webp)
+
+*Source: Tomb and temple of Ngo Quyen at Co Loa. Photo: Wikimedia Commons*
 
 <!-- id: EVT-0160 -->
 *   **950:** Ngo Xuong Van overthrew Duong Tam Kha, demoted him to Chuong Duong Cong, and granted him the land of Chuong Duong as an appanage (thực ấp). He reclaimed the throne as Nam Tan Vuong and co-ruled with his brother Ngo Xuong Ngap (Thien Sach Vuong). [Source: Why Did the Ngo Clan Lose the Throne? (Vietnamese Historical Anecdotes), https://daibieunhandan.vn/viet-su-giai-thoai-vi-sao-ho-ngo-mat-ngoi-10038576.html]
@@ -691,8 +715,16 @@
 <!-- id: EVT-0178 -->
 *   **Jul. 980:** Facing the threat of invasion from the Song dynasty, General Pham Cu Luong and the army proclaimed Le Hoan as Emperor. Le Hoan ascended the throne (Le Dai Hanh), establishing the Early Le dynasty. [Source: The Early Le Dynasty Began in 980, https://vnexpress.net/trac-nghiem-ve-trieu-dai-tien-le-keo-dai-gan-30-nam-3532354-p3.html]
 
+![Painting of Le Dai Hanh](images/event_20260930_101730_2.webp)
+
+*Source: Worship painting of Emperor Le Dai Hanh. Photo: Wikimedia Commons*
+
 <!-- id: EVT-0179 -->
 *   **Aug. 19, 980:** The Song Emperor issued an edict to invade Dai Co Viet, appointing Hou Renbao as the commander. [Source: Le Dai Hanh and the 981 Bach Dang Victory, https://quansu.haiphong.gov.vn/Lich-su-truyen-thong/Nhung-chien-cong-tieu-bieu/Le-Dai-Hanh-va-chien-thang-Bach-Dang-nam-981-121421.html]
+
+![Historical image](images/event_20260930_104256_4.webp)
+
+*Source: Temple of Emperor Dinh Tien Hoang at Hoa Lu Ancient Capital. Photo: Wikimedia Commons*
 
 <!-- id: EVT-0180 -->
 *   **Jan. 24, 981:** First Battle of Bach Dang. Song naval forces commanded by Hou Renbao entered the Bach Dang River. Dai Co Viet forces were initially defeated, losing over 1,000 soldiers and 200 ships. Le Dai Hanh retreated to consolidate forces and sent a fake surrender letter. [Source: Spring 981 – Victory in the First Resistance Against the Song, https://baotanglichsu.vn/vi/Articles/3097/15910/mua-xuan-nam-981-khang-chien-chong-quan-tong-lan-thu-nhat-thang-loi.html]
@@ -786,6 +818,10 @@
 <!-- id: EVT-0206 -->
 *   **Nov. 21, 1009:** Le Long Dinh (Le Ngoa Trieu) passed away. Ly Cong Uan was enthroned as king (Ly Thai To), founding the Ly dynasty. [Source: Ly Thai To (1010-1028), https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/ly-thai-to-1010-1028-.html]
 
+![Statue of Ly Thai To](images/event_20260930_101730_3.webp)
+
+*Source: Statue of Ly Thai To by Hoan Kiem Lake, Hanoi. Photo: Wikimedia Commons*
+
 <!-- id: EVT-0207 -->
 *   **1010:** Emperor Ly Thai To visited Co Phap (Thien Duc) circuit to pay respects at the Queen Mother's tomb, ordering officials to survey several dozen li of land to designate as a royal tomb restricted zone. [Source: Complete Annals of Dai Viet – Ly Dynasty (Emperor Ly Thai To), https://en.wikipedia.org/wiki/L%C3%BD_Th%C3%A1i_T%E1%BB%95]
 
@@ -798,6 +834,10 @@
 
 <!-- id: EVT-0209 -->
 *   **Dec. 1010:** Ly Thai To carried out administrative reforms, dividing the country into 24 routes (lo), below which were phu - chau, huyen - huong, and giap. [Source: Ly Thai To (1010-1028), https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/ly-thai-to-1010-1028-.html]
+
+![Historical image](images/event_20260930_104250_1.webp)
+
+*Source: Doan Gate, Thang Long Imperial Citadel, Hanoi. Photo: Wikimedia Commons*
 
 <!-- id: EVT-0210 -->
 *   **1013:** Ly Thai To established tax categories nationwide, including a mulberry field tax collected in grain and cash, officially recognizing and protecting sericulture and silk weaving. [Source: The Reforms of Ly Thai To (Journal of Social Sciences), https://vjol.info.vn/index.php/khxhvn/article/download/40092/32257]
@@ -999,6 +1039,10 @@
 
 <!-- id: EVT-0272 -->
 *   **1091:** Grand Marshal Ly Cong renovated Huong Nghiem Pagoda, purchased and distributed land to local sub-divisions (giap: Binh, Boi Ly, Vien Dam), reflecting land administration at the village level. [Source: Ly Thuong Kiet Through Steles and Edicts - Part 2 (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/5833/ly-thuong-kiet-qua-van-bia-sac-phong-ky-2-19-nam-tong-tran.html]
+
+![Historical image](images/event_20260930_102842.webp)
+
+*Source: Huong Pagoda, Hanoi in morning mist. Photo: Wikimedia Commons*
 
 <!-- id: EVT-0273 -->
 *   **1096:** Fisherman Muc Than was granted land at West Lake as an appanage to reward him for saving Emperor Ly Nhan Tong from drowning. [Source: Fisherman Muc Than Catches the Tiger to Save the King (Nguoi Dua Tin), https://www.nguoiduatin.vn/chuyen-ly-ky-ve-nguoi-chai-muc-than-bat-ho-cuu-vua-20475513.htm]
@@ -1239,6 +1283,10 @@
 <!-- id: EVT-0348 -->
 *   **Spring 1251:** Emperor Tran Thai Tong had betrothed his eldest daughter, Princess Thien Thanh, to Trung Thanh Vuong (son of Nhan Dao Vuong). However, Tran Quoc Tuan (later Tran Hung Dao), deeply in love with the Princess from childhood, boldly infiltrated her room at night. Princess Thuy Ba (the Emperor's sister, who raised Quoc Tuan) presented 10 trays of gold to the Emperor to request the marriage. To avoid punishing Quoc Tuan, Emperor Tran Thai Tong sanctioned their union and compensated Nhan Dao Vuong with 2,000 mau of land in Ung Thien prefecture. This marriage later produced four prominent generals (Hung Vu Vuong, Hung Tri Vuong, Hung Nhuong Vuong, Hung Hien Vuong) and two daughters (including Queen Kham Tu). [Source: Princess Thien Thanh (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Thi%C3%AAn_Th%C3%A0nh_C%C3%B4ng_ch%C3%BAa]
 
+![Historical image](images/event_20260930_102843.webp)
+
+*Source: Bronze statue of Tran Hung Dao at Kiep Bac Temple. Photo: Wikimedia Commons*
+
 <!-- id: EVT-0349 -->
 *   **1252:** Tran Thai Tong personally led a campaign against Champa. [Source: King Tran Thai Tong and Champa Policy (Mot The Gioi), https://1thegioi.vn/vua-tran-thai-tong-va-chinh-sach-cung-ran-voi-chiem-thanh-17233.html]
 
@@ -1389,6 +1437,10 @@
 
 <!-- id: EVT-0393 -->
 *   **Sep. 1288:** Nguyen Tu Quoc Mau (Princess Thien Thanh, wife of Tran Hung Dao) passed away after 37 years of marriage. While her husband fought on the front lines, she managed logistics in the rear. She was one of the only two women (along with Linh Tu Quoc Mau Tran Thi Dung) honored with the supreme title "Quoc Mau" (Mother of the Nation) for their immense contributions to the Tran dynasty. [Source: Princess Thien Thanh Temple (Hai Phong News), https://baohaiphong.vn/linh-thieng-den-tho-thien-thanh-cong-chua-phu-nhan-hung-dao-dai-vuong-367928.html]
+
+![Historical image](images/event_20260930_102843_1.webp)
+
+*Source: Kiep Bac Temple, Hai Duong in the early 20th century. Photo: Wikimedia Commons*
 
 <!-- id: EVT-0394 -->
 *   **1289:** Emperor Tran Nhan Tong enfeoffed Nguyen Khoai as a Marquis and granted Khoai Lo district as a "thang moc ap" (bathing appanage). [Source: Dan Viet Newspaper - Nguyen Khoai: General commanding the Thanh Dyc army, https://danviet.vn/nguyen-khoai-danh-tuong-chi-huy-quan-thanh-duc-khien-giac-nguyen-mong-khiep-so-20240507214953772-d1160127.html]
@@ -1785,6 +1837,10 @@
 <!-- id: EVT-0519 -->
 *   **03/1397:** Le Quy Ly began constructing the Western Capital (Tây Đô) (Hồ Dynasty Citadel, Vĩnh Lộc, Thanh Hóa) and prepared to move the capital city. [Source: From Tay Do Citadel to Ho Citadel Villages, https://thanhnhaho.vn/NewsDetail.aspx?Id=7657]
 
+![Historical image](images/event_20260930_102843_2.webp)
+
+*Source: South Gate of the Ho Citadel, Thanh Hoa. Photo: Wikimedia Commons*
+
 <!-- id: EVT-0520 -->
 *   **Apr. 1397:** Under the direction of Le Quy Ly, the court carried out major administrative reforms, changing routes (lo) to circuits (tran) and reorganizing the levels of prefectures (phu), sub-prefectures (chau), and districts (huyen). [Source: Reforms of Ho Quy Ly (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/14720/nhung-cai-cach-cua-ho-quy-ly-cuoi-the-ky-xiv-djau-the-ky-xv.html]
 
@@ -1842,6 +1898,10 @@
 
 <!-- id: EVT-0536 -->
 *   **Aug. 1400:** The Ho court organized the first Thai hoc sinh (National University student) examination, passing 20 people, including Nguyen Trai. [Source: The Ho-Dynasty State (Ho Citadel Portal), https://thanhnhaho.vn/NewsDetail.aspx?Id=9687]
+
+![Historical image](images/event_20260930_104251_1.webp)
+
+*Source: Portrait of Nguyen Trai, doctoral laureate of 1400. Photo: Wikimedia Commons*
 
 <!-- id: EVT-0537 -->
 *   **Dec. 1400:** Ho Quy Ly ceded the throne to his son Ho Han Thuong, proclaiming himself Retired Emperor but retaining absolute power. The court began taxing merchant ships according to three tiers. [Source: The Ho Dynasty (1400-1407): Dai Ngu and Tay Do, https://scov.gov.vn/dat-nuoc-con-nguoi/tom-tat-bien-nien-su-vn/xv.-nha-ho-1400-1407-quoc-hieu-dai-ngu-kinh-do-tay-do-thanh-hoa-.html]
@@ -2118,6 +2178,10 @@
 <!-- id: EVT-0624 -->
 *   **Nov. 7, 1426:**   **Battle of Tot Dong - Chuc Dong.** Lam Son commanders Dinh Le (Le Loi's nephew), Ly Trien, and Nguyen Xi skillfully turned the enemy's trap against them, laying ambushes at Tot Dong and Chuc Dong and detonating flares to lure Wang Tong's main force into the kill zone. Over 50,000 Ming soldiers were killed, 10,000 captured, Ming Minister Chen Xie and Eunuch Li Liang were slain, and commander Wang Tong was severely wounded and forced to retreat to Dong Quan. [Source: Tot Dong - Chuc Dong (Dan Viet), https://danviet.vn/hai-danh-tuong-cua-le-loi-khien-10-van-quan-minh-sa-lay-o-tran-dai-chien-tot-dong-chuc-dong-20230321201745448-d1082423.html]
 
+![Historical image](images/event_20260930_104251_2.webp)
+
+*Source: Tot Dong Communal House, site of the 1426 ambush. Photo: Wikimedia Commons*
+
 <!-- id: EVT-0625 -->
 *   **Nov. 22, 1426:** Lam Son naval and land forces launched coordinated attacks on the outer camps of Dong Quan, forcing the Ming army to retreat entirely inside the citadel. Le Loi advanced his main army to the Luong River bridge and besieged Dong Quan Citadel. [Source: Dinh Le (Nguoi Ha Noi), https://nguoihanoi.vn/dinh-le-danh-tuong-khang-chien-chong-minh-79027.html]
 
@@ -2239,6 +2303,10 @@
 <!-- id: EVT-0658 -->
 *   **Dec. 1433 (Oct. 23, Lunar Year of the Buffalo):** Le Thai To was buried at Vinh Lang, Lam Son. Nguyen Trai composed the inscription for the Vinh Lang Stele. [Source: Vinh Lang Stone Stele (Lam Kinh Heritage), https://ditichlamkinh.vn/vi/bia-da-vinh-lang-bau-vat-ve-vua-le-thai-to-AE92AD564C1C58498DEFEB06CC25742E.html]
 
+![Historical image](images/event_20260930_104251_3.webp)
+
+*Source: Main hall of Lam Kinh, Thanh Hoa. Photo: Wikimedia Commons*
+
 <!-- id: EVT-0659 -->
 *   **1434:** Le Thai Tong ascended the throne. Regulations for the doctoral examination were established. [Source: Later Le Talent Selection (National Museum of History), https://baotanglichsuquocgia.vn/vi/Articles/3091/6356/phep-chon-nhan-tai-cua-nha-hau-le.html]
 
@@ -2342,6 +2410,10 @@
 
 <!-- id: EVT-0690 -->
 *   **1495:** King Lê Thánh Tông founded the Tao Đàn Literary Society (Tao Đàn of Twenty-Eight Constellations), serving as Supreme Commander alongside 28 eminent scholar-officials, inaugurating the golden age of Đại Việt royal literature and poetry. [Source: Tao Dan Society (Thang Long Citadel), https://hoangthanhthanglong.vn/tao-dan-nhi-thap-bat-tu-quynh-uyen-cuu-ca-trong-hoang-thanh-thang-long-thoi-le/]
+
+![Historical image](images/event_20260930_102843_3.webp)
+
+*Source: Portrait of Emperor Le Thanh Tong. Photo: Wikimedia Commons*
 
 <!-- id: EVT-0691 -->
 *   **Feb. 1496:** King Le Thanh Tong composed a poem praying for rain at the Hoang Huu temple; it rained heavily shortly after. [Source: Le Thanh Tong Rainmaking (Kien Thuc), https://kienthuc.net.vn/tai-cau-mua-ky-la-cua-vua-le-thanh-tong-post77082.html]
@@ -2473,6 +2545,10 @@
 <!-- id: EVT-0732 -->
 *   **1558:** Trinh Kiem appointed Nguyen Hoang (son of Nguyen Kim) as governor of Thuan Hoa to expand his power and guard against Mac forces from the sea. Nguyen Hoang began building a base for his separate domain in the South. [Source: Lord Nguyen Hoang (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/19375/chua-nguyen-hoang-1525-1613-nguoi-mo-mang-bo-coi.html]
 
+![Historical image](images/event_20260930_102844.webp)
+
+*Source: Portrait of Lord Nguyen Hoang. Photo: Wikimedia Commons*
+
 <!-- id: EVT-0733 -->
 *   **1562 (Nham Tuat year):** Emperor Mac Tuyen Tong (Mac Phuc Nguyen) succumbed to smallpox. His eldest son Mac Mau Hop was proclaimed emperor at only two years of age, with Prince Mac Kinh Dien acting as regent to oversee civil and military affairs. [Source: XIX. 65-Year Mac Dynasty (Overseas Vietnamese Committee), https://scov.gov.vn/dat-nuoc-con-nguoi/tom-tat-bien-nien-su-vn/xix.-nha-mac-65-nam-1527-1592-kinh-do-dong-do-ha-noi-.html]
 
@@ -2576,6 +2652,10 @@
 <!-- id: EVT-0719 -->
 *   **First half of the 17th century:** Under Lord Tien Nguyen Hoang and Lord Sai Nguyen Phuc Nguyen, the government of Dang Trong established and dispatched the *Hoang Sa flotilla* (consisting of 70 recruits from An Vinh village, Binh Son district, Quang Ngai prefecture) and the *Bac Hai flotilla* to the Paracel and Spratly Islands (Golden Sandbanks) to exploit resources, salvage shipwrecked goods, and assert sovereignty annually from the second to the eighth lunar months. Phu Quoc remained an undeveloped frontier territory, subject to disputes between Chenla (Cambodia) and neighboring forces. [Source: Hoang Sa Truong Sa Sovereignty (Nhan Dan), https://nhandan.vn/khang-dinh-chu-quyen-cua-viet-nam-tren-hai-quan-dao-hoang-sa-truong-sa-post744843.html]
 
+![Historical image](images/event_20260930_104251_4.webp)
+
+*Source: Beach of the Hoang Sa Islands. Photo: Wikimedia Commons*
+
 <!-- id: EVT-0764 -->
 *   **1604:** Lord Nguyen Hoang renamed Tien Binh prefecture to **Quang Binh** prefecture. [Source: Quang Binh Name Origin (Lao Dong), https://laodong.vn/dttg/van-hoa-kien-truc/danh-xung-quang-binh-co-tu-dau-1328465.html]
 
@@ -2590,6 +2670,10 @@
 
 <!-- id: EVT-0769 -->
 *   **1617:** Jesuit priest Francisco de Pina arrived in Dang Trong (Cochinchina). He is considered the first European to become fluent in Vietnamese and the pioneer in creating Chữ Quốc ngữ (the romanized Vietnamese script). [Source: Francisco de Pina (Hoi An Heritage Center), https://hoianheritage.net/vi/trao-doi-chuyen-nganh/chuyen-de-nghien-cuu-trao-doi/Giao-si-Francisco-De-Pina-voi-su-hinh-thanh-chu-Quoc-ngu-151.html]
+
+![Historical image](images/event_20260930_102844_1.webp)
+
+*Source: Japanese Covered Bridge in Hoi An. Photo: Wikimedia Commons*
 
 <!-- id: EVT-0770 -->
 *   **1618:** Jesuit priest Cristoforo Borri arrived in Dang Trong. He quickly learned the language and later published a book containing early romanized Vietnamese words. [Source: Borri (Da Nang News), https://baodanang.vn/nguoi-quang-xua-qua-goc-nhin-cua-cristoforo-borri-3027146.html]
@@ -2633,6 +2717,10 @@
 <!-- id: EVT-0783 -->
 *   **Dec. 15, 1625:** Father Francisco de Pina, the pioneer of Chữ Quốc ngữ, drowned off the coast of Quang Nam. [Source: Francisco de Pina (Hoi An Heritage Center), https://hoianheritage.net/vi/trao-doi-chuyen-nganh/chuyen-de-nghien-cuu-trao-doi/Giao-si-Francisco-De-Pina-voi-su-hinh-thanh-chu-Quoc-ngu-151.html]
 
+![Relief of two missionaries](images/event_20260930_101731.webp)
+
+*Source: Relief of Francisco de Pina and Alexandre de Rhodes. Photo: Wikimedia Commons*
+
 <!-- id: EVT-0784 -->
 *   **1626:** The Jesuit missionary Juliano Baldinotti arrived in Tonkin (Dang Ngoai), marking one of the earliest official Western accounts of the region. [Source: Jesuits in Vietnam (Saigon Archdiocese), https://tgpsaigon.net/bai-viet/doi-dong-lich-su-dong-ten-tai-viet-nam-44746]
 
@@ -2650,6 +2738,10 @@
 
 <!-- id: EVT-0789 -->
 *   **Mar. 1630:** Following the advice of Dao Duy Tu, the Nguyen Lord Nguyen Phuc Nguyen ordered the construction of the Truong Duc defensive wall (Luy Truong Duc) from Truong Duc mountain to Hac Hai lagoon to block the Trinh army from advancing up the Nhat Le river. [Source: Thay Rampart (Quang Tri News), https://baoquangtri.vn/dat-va-nguoi-quang-binh/202205/dau-rang-co-canh-kho-qua-luy-thay-2200059/]
+
+![Historical image](images/event_20260930_102844_2.webp)
+
+*Source: Gianh River, the Dang Trong – Dang Ngoai boundary. Photo: Wikimedia Commons*
 
 <!-- id: EVT-0790 -->
 *   **Sep. 1630:** Acting on Dao Duy Tu's strategy, Lord Nguyen Phuc Nguyen launched an attack on the Southern Bo Chinh prefecture and captured it. [Source: Short History of Vietnam IV-IV (Wikisource), https://vi.wikisource.org/wiki/Vi%E1%BB%87t_Nam_s%E1%BB%AD_l%C6%B0%E1%BB%A3c/Quy%E1%BB%83n_II/1928/Quy%E1%BB%83n_IV/Ch%C6%B0%C6%A1ng_IV]
@@ -2878,6 +2970,10 @@
 <!-- id: EVT-0862 -->
 *   **1710:** Lord Nguyen Phuc Chu had the Thien Mu Pagoda bell cast, proclaiming himself **"Dai Viet Quoc Vuong"** (King of Dai Viet) in its inscription; the pagoda was majorly renovated in 1714. [Source: Nguyen Lords Proclaim Kingship (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/68789/chua-nguyen-xung-vuong-o-djang-trong.html]
 
+![Phuoc Duyen Tower](images/event_20260930_101731_1.webp)
+
+*Source: Phuoc Duyen Tower of Thien Mu Pagoda, Hue. Photo: Wikimedia Commons*
+
 <!-- id: EVT-0863 -->
 *   **1717:** The second largest stele erection campaign in the history of the Temple of Literature occurred, erecting 21 missing doctoral steles for the laureates of the Restored Le dynasty. [Source: Van Mieu Doctoral Stelae (VNA), https://nvsk.vnanet.vn/bia-tien-si-van-mieu-di-san-tu-lieu-the-gioi-1-118122.vna]
 
@@ -3041,6 +3137,10 @@
 <!-- id: EVT-0914 -->
 *   **Jan. 30, 1775:** The Trinh army, commanded by Hoang Ngu Phuc, attacked and captured Phu Xuan. Lord Nguyen Phuc Thuan was forced to flee by sea to Quang Nam and later to Gia Dinh, marking the collapse of the Nguyen Lords' central power in Dang Trong. [Source: General Hoang Ngu Phuc vs Tay Son (Dan Viet), https://danviet.vn/viep-quan-cong-hoang-ngu-phuc-tung-khien-quan-tay-son-phai-dau-hang-ra-sao-d1353739.html]
 
+![Historical image](images/event_20260930_104251_5.webp)
+
+*Source: Gate of Phu Xuan Citadel, Hue. Photo: Wikimedia Commons*
+
 <!-- id: EVT-0915 -->
 *   **Apr. 22 - 24, 1775:** The Battle of Cam Sa took place in Quang Nam. The Trinh army under Hoang Ngu Phuc engaged the Tay Son forces commanded by Nguyen Nhac and Tap Dinh. Utilizing war elephants and elite cavalry to break the fierce charges of the Tay Son vanguard, the Trinh army secured a decisive victory. Facing threats from both the Trinh in the north and Nguyen forces in the south, Nguyen Nhac temporarily surrendered to the Trinh to preserve his forces. [Source: Unification Records of the Le Dynasty – Chapter 2; Battle of Cam Sa, https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_C%E1%BA%A9m_Sa]
 
@@ -3202,6 +3302,10 @@
 <!-- id: EVT-0964 -->
 *   **Nov. 28, 1787:** Bishop Pigneau de Béhaine (representing Nguyen Anh) signed the Treaty of Versailles with Count de Montmorin (France). Article II promised to cede the port of Hoi An and Con Lon Island to France in exchange for military support. [Source: Emperor Gia Long and the Nguyen Founding III (National Archives), https://www.archives.org.vn/hoang-de-gia-long-va-cong-cuoc-khai-lap-trieu-nguyen-200-nam-nhin-lai-ky-iii-chan-dung-va-cuoc-doi.htm]
 
+![Treaty of Versailles](images/event_20260930_101731_2.webp)
+
+*Source: Signatures on the 1787 Treaty of Versailles. Photo: Wikimedia Commons*
+
 <!-- id: EVT-0965 -->
 *   **1788:** Nguyen Anh returned from Siam and, taking advantage of Nguyen Lu's weakness, recaptured Gia Dinh. [Source: The Nguyen Dynasty History (Tuoi Tre), https://tuoitre.vn/nha-nguyen---lich-su-thang-tram-cua-mot-dong-ho-ky-cuoi---khoi-dong-lich-su-292820.htm]
 
@@ -3220,6 +3324,10 @@
 <!-- id: EVT-0970 -->
 *   **Apr. 1788:** Nguyen Hue marched swiftly to Thang Long and executed his own general, Vu Van Nham, for arrogance and potential rebellion (after Nham had eliminated Nguyen Huu Chinh), further consolidating his control over the North. After the execution of Vu Van Nham, General Nguyen Van Tuyet (Do Doc Tuyet) was entrusted by Nguyen Hue to remain in the North as a key aide to Ngo Van So. [Source: Ngoc Hoi - Dong Da Battle (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_Ng%E1%BB%8Dc_H%E1%BB%93i_%E2%80%93_%C4%90%E1%BB%91ng_%C4%90a]
 
+![Statue of Quang Trung](images/event_20260930_101732.webp)
+
+*Source: Statue of Quang Trung – Nguyen Hue. Photo: Wikimedia Commons*
+
 <!-- id: EVT-0971 -->
 *   **May 1788 (Lunar):** The family of King Le Chieu Thong fled to Longzhou (Guangxi) to seek aid from the Qing dynasty. [Source: Le Chieu Thong (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/L%C3%AA_Chi%C3%AAu_Th%E1%BB%91ng]
 
@@ -3237,6 +3345,10 @@
 
 <!-- id: EVT-0976 -->
 *   **Late 1788:** Confronted by the massive invasion of 290,000 Manchu Qing troops under Sun Shiyi, scholar Ngo Thi Nham devised a pivotal strategic retreat for Grand Marshal Ngo Van So: deliberately withdrawing all Tay Son naval and land forces to establish the synchronized defense lines of Tam Diep - Bien Son (Ninh Binh - Thanh Hoa), luring the Qing forces into an overconfident occupation of Thang Long ("letting the enemy lodge for a night") while keeping the Tay Son army completely intact; meanwhile, Admiral Nguyen Van Tuyet rode post-haste to Phu Xuan to alert Emperor Quang Trung. [Source: Tam Diep Defense Line (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Ph%C3%B2ng_tuy%E1%BA%BFn_Tam_%C4%90i%E1%BB%87p]
+
+![Historical image](images/event_20260930_102844_3.webp)
+
+*Source: Portrait of scholar Ngo Thi Nham. Photo: Wikimedia Commons*
 
 <!-- id: EVT-0977 -->
 *   **Dec. 12, 1788 (Nov. 15, Lunar Year of the Monkey):** Qing forces reached the northern bank of the **Thi Cau River**. [Source: Unification Records of the Le Dynasty – Chapter 13; Advance to Thi Cau River, https://en.wikipedia.org/wiki/Sun_Shiyi]
@@ -3414,8 +3526,16 @@
 <!-- id: EVT-1025 -->
 *   **May 31, 1802:** Nguyen Anh officially established the era name **Gia Long** and issued a general amnesty. [Source: Emperor Gia Long 1802-1820 (Hue Heritage Centre), https://hueworldheritage.org.vn/Di-san/Chi-tiet/pid/2843/cid/149?tid=1-Hoang-de-Gia-Long-1802-1820.html]
 
+![Thien Tho Tomb](images/event_20260930_102321.webp)
+
+*Source: Thien Tho Tomb, mausoleum of Emperor Gia Long in Hue. Photo: Wikimedia Commons*
+
 <!-- id: EVT-1026 -->
 *   **Jun. 1802:** After Binh Dinh Citadel fell, Nguyen Anh officially ascended the throne as Emperor in Phu Xuan, establishing the era name Gia Long. [Source: Emperor Gia Long 1802-1820 (Hue Heritage Centre), https://hueworldheritage.org.vn/Di-san/Chi-tiet/pid/2843/cid/149?tid=1-Hoang-de-Gia-Long-1802-1820.html]
+
+![Historical image](images/event_20260930_104252.webp)
+
+*Source: Ngo Mon Gate, Hue Imperial City. Photo: Wikimedia Commons*
 
 <!-- id: EVT-1027 -->
 *   **Jun. 16, 1802:** In the retreat to the North, General Nguyen Van Tuyet (Do Doc Tuyet) died in battle at Xuong Giang protecting King Canh Thinh. Empress Dowager Bui Thi Nhan, along with female generals Tran Thi Lan and Nguyen Thi Dung, committed suicide to avoid capture. [Source: The Five Phoenixes of Tay Son (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13766/tay-son-that-ho-tuong-ky-5-tay-son-ngu-phung-thu.html]
@@ -3436,6 +3556,10 @@
 <!-- id: EVT-1031 -->
 *   **1803:** Emperor Gia Long ordered the reconstruction of the **Thang Long Citadel** (Hanoi Citadel). He set the salary regulations for officials and soldiers in the Northern Citadel. The court established Trang Tien in Thang Long to mint "Gia Long Thong Bao" coins. [Source: Thang Long - Hanoi in the Nguyen Dynasty (Thang Long - Hanoi Heritage Conservation Center), https://hoangthanhthanglong.vn/thang-long-ha-noi-thoi-nguyen/]
 
+![Historical image](images/event_20260930_104252_1.webp)
+
+*Source: North Gate of Hanoi Citadel with cannon scars. Photo: Wikimedia Commons*
+
 <!-- id: EVT-1032 -->
 *   **1803 - 1808:** General Le Van Duyet was dispatched to suppress the uprising of the "Thach Bich savages" (ethnic minorities) in the Quang Ngai region, stabilizing the border areas. [Source: Le Van Duyet (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/L%C3%AA_V%C4%83n_Duy%E1%BB%87t]
 
@@ -3448,6 +3572,10 @@
 
 <!-- id: EVT-1034 -->
 *   **Mar. 9, 1803 (Feb. 16, Lunar Year of Quy Hoi):** The public flogging at the Temple of Literature (Van Mieu Thang Long) and the death of renowned scholar Ngo Thi Nham. Following the collapse of the Tay Son dynasty, prominent civil officials including Ngo Thi Nham, Phan Huy Ich, and Nguyen Gia Phan were subjected to punitive public flogging presided over by Dang Tran Thuong. Facing his vindictive foe, Ngo Thi Nham retained unflinching intellectual dignity and uttered the legendary parallel verse: *"The Warring States era, the Spring and Autumn era; when facing shifting times, one must adapt to the times"*. Fatally wounded by the venomous grudge-beating ordered by Thuong, Ngo Thi Nham passed away at his ancestral village of Ta Thanh Oai on March 9, 1803 (16th day of the 2nd lunar month), aged 57. In contrast, Phan Huy Ich, bearing no personal enmity and demonstrating dignified composure, survived the punishment and was granted an imperial pardon to return home as a private citizen. [Source: Ngo Thi Nham (Thang Long Heritage), https://hoangthanhthanglong.vn/ngo-thi-nham-2]
+
+![Historical image](images/event_20260930_104252_2.webp)
+
+*Source: Doctoral stelae at the Temple of Literature. Photo: Wikimedia Commons*
 
 <!-- id: EVT-1035 -->
 *   **Jul. 1803:** Emperor Gia Long re-established the Hoang Sa and Bac Hai flotillas, appointing Officer Vo Van Phu as Commander of the Sa Ky port and head of the Hoang Sa team to continue maritime surveys, patrols, and salvage operations in the Paracel Islands. [Source: Gia Long Sent Troops to Hoang Sa 3 Times (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/8306/vua-gia-long-3-lan-phai-quan-ra-hoang-sa.html]
@@ -3478,6 +3606,10 @@
 
 <!-- id: EVT-1044 -->
 *   **1805:** Emperor Gia Long ordered the construction of the Hanoi Citadel (Vauban style) and the Hanoi Flag Tower (Cot Co), reinforcing the administrative center of Northern Vietnam. [Source: Hanoi Flag Tower (Thang Long Heritage), https://hoangthanhthanglong.vn/cot-co-ha-noi-bieu-tuong-lich-su-cua-thu-do/]
+
+![Historical image](images/event_20260930_104253.webp)
+
+*Source: Hanoi Flag Tower. Photo: Wikimedia Commons*
 
 <!-- id: EVT-1045 -->
 *   **1805 - 1820:** The great poet Nguyễn Du composed the masterpiece Nôm verse narrative *The Tale of Kiều* (*Đoạn trường tân thanh*) comprising 3,254 lục bát lines, representing the supreme zenith of classical Vietnamese literature. [Source: Nguyen Du Brings Vietnamese Poem to New High (VietnamPlus English), https://en.vietnamplus.vn/nguyen-du-who-brings-vietnamese-poem-to-new-high-post85260.vnp]
@@ -3516,6 +3648,10 @@
 <!-- id: EVT-1055 -->
 *   **Sep. 1811:** Empress Dowager Hieu Khang (mother of Emperor Gia Long) passed away. [Source: Secrets of Thien Tho Tomb (Tuoi Tre), https://tuoitre.vn/bi-an-nghin-thu-thien-tho-lang-ky-1-giac-ngu-nghin-thu-giua-trung-son-20211101084841142.htm]
 
+![Historical image](images/event_20260930_102845.webp)
+
+*Source: Thien Tho Tomb, Hue. Photo: Wikimedia Commons*
+
 <!-- id: EVT-1056 -->
 *   **1812:** Le Van Duyet was appointed Governor-General of Gia Dinh Citadel (first term, 1812-1816), with authority over the entire Southern region. During this time, he established strict laws, eliminated banditry, and brought peace to the people. [Source: Most Powerful Governor of the Nguyen Era (Thanh Nien), https://thanhnien.vn/tong-tran-quyen-luc-nhat-trong-lich-su-nha-nguyen-185251027233047685.htm]
 
@@ -3533,6 +3669,10 @@
 
 <!-- id: EVT-1061 -->
 *   **1813:** Emperor Gia Long appointed Nguyễn Du as Chief Envoy leading an embassy to the Qing Dynasty in China. During his two-year diplomatic mission, he composed the immortal Sino-Vietnamese poetry collection *Bắc hành tạp lục* (Record of a Journey to the North), demonstrating profound humanist philosophy and acute social critique. [Source: Nguyen Du, Great National Poet (Nguoi Ha Noi), https://nguoihanoi.vn/nguyen-du-dai-thi-hao-dan-toc-79516.html]
+
+![Historical image](images/event_20260930_104253_1.webp)
+
+*Source: Illustration of The Tale of Kieu by Nguyen Du. Photo: Wikimedia Commons*
 
 <!-- id: EVT-1062 -->
 *   **1814:** The poetess Hồ Xuân Hương compiled the poetry collection *Lưu hương ký* (Collection of Fragrant Memories, comprising 24 Classical Chinese and 28 Nôm poems). Renowned for her groundbreaking Nôm poetry championing women's rights and humanism, she is revered as the "Queen of Nôm Poetry" and was honored by UNESCO as a World Cultural Celebrity in 2021. [Source: Ho Xuan Huong Honoured by UNESCO (VietnamNet), https://vietnamnet.vn/unesco-vinh-danh-ba-chua-tho-nom-ho-xuan-huong-2087478.html]
@@ -3606,6 +3746,10 @@
 <!-- id: EVT-1085 -->
 *   **Feb. 14, 1820:** Emperor Minh Mang officially ascended the throne at the Thai Hoa Palace. He established the *Van thu phong* (Chancellery) to handle administrative documents. [Source: Minh Mang Tomb - Hieu Lang (Hue Heritage Centre), http://hueworldheritage.org.vn/Di-san/Chi-tiet/pid/447/cid/87?tid=LANG-HOANG-DE-MINH-MANG-Hieu-Lang.html]
 
+![Historical image](images/event_20260930_104712_1.webp)
+
+*Source: Thai Hoa Palace, Hue Imperial City. Photo: Wikimedia Commons*
+
 <!-- id: EVT-1086 -->
 *   **May 1820:** Emperor Minh Mang ordered the naming of streets in the Capital (Hue) and the erection of stone signposts, marking an early effort in urban planning and management. [Source: Naming Streets in the Imperial Citadel (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/9287/le-thanh-tong-cam-quan-lai-to-hao-nha-cong-vu.html]
 
@@ -3617,6 +3761,10 @@
 
 <!-- id: EVT-1089 -->
 *   **16/09/1820 (August 10 of the Year of the Metal Dragon):** The great national poet Nguyễn Du passed away in the imperial capital of Huế while preparing to lead his second diplomatic mission to the Qing Dynasty. In 1965, the World Peace Council honoured him; in 2013, UNESCO passed a resolution honoring him as a World Cultural Celebrity. [Source: Nguyen Du Brings Vietnamese Poem to New High (VietnamPlus English), https://en.vietnamplus.vn/nguyen-du-who-brings-vietnamese-poem-to-new-high-post85260.vnp]
+
+![Historical image](images/event_20260930_102845_1.webp)
+
+*Source: Nguyen Du Memorial Site, Ha Tinh. Photo: Wikimedia Commons*
 
 <!-- id: EVT-1090 -->
 *   **1821:** Phan Huy Chu presented his work **"Lich Trieu Hien Chuong Loai Chi"** to Emperor Minh Mang and was appointed as an editor at the Imperial Academy. [Source: Scholar-Phan Huy Chu (Nguoi Ha Noi), https://nguoihanoi.vn/phan-huy-chu-nha-bac-hoc-nha-tho-lon-79462.html]
@@ -3648,11 +3796,19 @@
 <!-- id: EVT-1109 -->
 *   **Nov. 1823:** Princess Nguyen Thi Ngoc Anh (Emperor Gia Long's third daughter) committed suicide at Dai Giac Pagoda (Bien Hoa) following the self-immolation of High Monk Lieu Dat Thiet Thanh, ending a tragic unrequited love story. [Source: Dai Giac Ancient Pagoda (Thanh Nien), https://thanhnien.vn/theo-dau-nguoi-xua-ky-16-dai-giac-co-tu-va-moi-tinh-cong-chua-18543459.htm]
 
+![Historical image](images/event_20260930_104253_3.webp)
+
+*Source: Dai Giac Pagoda, Bien Hoa. Photo: Wikimedia Commons*
+
 <!-- id: EVT-1099 -->
 *   **May 1824:** The construction of the **Vinh Te Canal** was officially completed. [Source: Vinh Te Canal 200 Years (Lao Dong), https://news.laodong.vn/van-hoa-giai-tri/kenh-vinh-te-va-nhung-ky-luc-cach-day-200-nam-1418514.ldo]
 
 <!-- id: EVT-1100 -->
 *   **1826:** The **Duyet Thi Duong** (Royal Theater) was built within the Purple Forbidden City. It served as a venue for performing arts (Tuong opera, dance) for the royal court. [Source: Duyet Thi Duong Theatre (Hue Heritage Centre), https://hueworldheritage.org.vn/en-us/Heritage/Detail/pid/3759/cid/255?tid=DUYET-THI-DUONG-%EC%97%B4%EC%8B%9C%EB%8B%B9-%E9%96%B1%E6%98%AF%E5%A0%82.html]
+
+![Historical image](images/event_20260930_102845_2.webp)
+
+*Source: Stage of Duyet Thi Duong Theatre, Hue. Photo: Wikimedia Commons*
 
 <!-- id: EVT-1103 -->
 *   **Aug. 1826:** Emperor Minh Mang added the positions of Left and Right Vice Ministers in the Six Ministries. [Source: Veritable Records of Dai Nam – Main Part (Second Chronicle, Vol. 41); Mandarin System of the Nguyen Dynasty, https://vi.wikipedia.org/wiki/Quan_ch%E1%BA%BF_nh%C3%A0_Nguy%E1%BB%85n]
@@ -3692,6 +3848,10 @@
 
 <!-- id: EVT-1113 -->
 *   **Jan. 1830:** Emperor Minh Mang ordered the construction of the **Ho Quyen** (Tiger Arena) at Long Tho hill (Hue), a unique colosseum for elephant and tiger fights. [Source: Hue Ancient Capital Relics (Vietnam Tourism), https://vietnamtourism.vn/index.php/tourism/items/480]
+
+![Historical image](images/event_20260930_102845_3.webp)
+
+*Source: Ho Quyen, the elephant-tiger arena in Hue. Photo: Wikimedia Commons*
 
 <!-- id: EVT-1114 -->
 *   **1831 - 1832:** Administrative reform divided the country into provinces. The provinces of **Son Tay**, **Tuyen Quang**, **Hung Hoa**, **Ninh Binh**, **Thanh Hoa**, **Nghe An**, **Ha Tinh**, **Quang Binh**, and **Quang Tri** were officially established during this period. [Source: Minh Menh Local Government Reform (National Archives), https://www.archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/to-chuc-bo-may-chinh-quyen-dia-phuong-nhin-tu-cai-cach-cua-vua-minh-menh.htm]
@@ -3791,6 +3951,10 @@
 <!-- id: EVT-1143 -->
 *   **Mar. 1838:** Emperor Minh Mang officially changed the national title to **Dai Nam**. [Source: Dai Nam on the Nine Urns (Hue Heritage Centre), https://hueworldheritage.org.vn/Di-san/Chi-tiet/pid/379/cid/126?tid=NUOC-DAI-NAM-TREN-CUU-DINH.html]
 
+![Historical image](images/event_20260930_104712_2.webp)
+
+*Source: Complete Map of Dai Nam 1834–1838. Photo: Wikimedia Commons*
+
 <!-- id: EVT-1144 -->
 *   **Apr. 2, 1838:** Imperial Archives (*Chau ban*) of the Nguyen Dynasty recorded a memorial submitted by the Ministry of Public Works reporting that Do Mau Thuong and Captain Le Trong Bieu were dispatched with naval boats to the Paracel Islands, successfully surveying the area, drawing three detailed maps, and collecting marine specimens for Emperor Minh Mang. [Source: Emperor Issuing Most Paracel Documents (QDND), https://ct.qdnd.vn/phong-su-dieu-tra/vi-vua-cong-bo-nhieu-van-ban-nhat-ve-quan-ly-hoang-sa-516734]
 
@@ -3817,6 +3981,10 @@
 
 <!-- id: EVT-1152 -->
 *   **Jan. 20, 1841:** Emperor Minh Mang passed away. [Source: Clarifying Nguyen Dynasty Tombs (Tuoi Tre), https://tuoitre.vn/nld/danh-cho-ban-doc-vip/sang-toa-lang-mo-trieu-nguyen-14-nam-tim-dat-xay-lang-20220831224409279.htm]
+
+![Historical image](images/event_20260930_102845_4.webp)
+
+*Source: Hieu Tomb, Minh Mang Mausoleum, Hue. Photo: Wikimedia Commons*
 
 <!-- id: EVT-1153 -->
 *   **Feb. 11, 1841:** Emperor Thieu Tri ascended the throne at the Thai Hoa Palace. [Source: Thieu Tri Compiling Official History (National Archives), https://www.archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/vua-thieu-tri-voi-viec-bien-soan-chinh-su-qua-chau-ban-trieu-nguyen.htm]
@@ -3859,6 +4027,10 @@
 
 <!-- id: EVT-1166 -->
 *   **1848:** Emperor Tu Duc ordered the reconstruction and expansion of Le Van Duyet's tomb and temple (Lang Ong Ba Chieu in Gia Dinh), restoring it to a dignified state. [Source: Lang Ong Ba Chieu Shrine (Dan Viet), https://danviet.vn/lang-ong-ba-chieu-tram-nam-dau-xua-tren-dat-sai-gon-gia-dinh-20220830161658531-d1040500.html]
+
+![Historical image](images/event_20260930_102846.webp)
+
+*Source: Lang Ong Ba Chieu, Ho Chi Minh City. Photo: Wikimedia Commons*
 
 <!-- id: EVT-1167 -->
 *   **1848 - 1849:** Administrative management of the archipelagos was continuously maintained by the Nguyen court for geographical purposes to optimize sea routes, and for financial purposes to collect taxes from fishermen operating in the region. [Source: Administrative Management of Archipelagos under the Nguyen Dynasty (Song Huong Magazine), http://tapchisonghuong.com.vn/tin-tuc/p75/c141/n12621/Chuyen-de-Bien-dao-que-huong.html]
@@ -4105,6 +4277,10 @@
 
 <!-- id: EVT-1239 -->
 *   **1871:** In tribute to the unyielding loyalty and heroic sacrifice of Grand Marshal Trương Định, Emperor Tự Đức issued an imperial decree posthumously conferring honorary ranks upon him and ordering the construction of a memorial temple at his ancestral village of Tư Cung (Bình Sơn, Quảng Ngãi). [Source: Veritable Records of Dai Nam – Main Part (Fourth Chronicle, Vol. 45); Truong Dinh, https://vi.wikipedia.org/wiki/Tr%C6%B0%C6%A1ng_%C4%90%E1%BB%8Bnh]
+
+![Historical image](images/event_20260930_102846_1.webp)
+
+*Source: Temple of General Truong Dinh. Photo: Wikimedia Commons*
 
 <!-- id: EVT-1240 -->
 *   **1871:** French merchant and explorer Jean Dupuis unilaterally led an armed flotilla up the Red River to Yunnan to illicitly trade weapons and salt, defying prohibitions from the Hue imperial court and initiating a series of provocations that led to the first French assault and capture of Tonkin (1873). [Source: Jean Dupuis (Wikipedia), https://en.wikipedia.org/wiki/Jean_Dupuis]
@@ -4496,6 +4672,10 @@
 <!-- id: EVT-1356 -->
 *   **1901:** When his father Nguyen Sinh Sac passed the imperial metropolitan examination as Pho Bang, Nguyen Sinh Cung was formally renamed Nguyen Tat Thanh (meaning "destined for success"), pursuing classical Confucian education and absorbing profound patriotic values. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
+![Historical image](images/event_20260930_102846_2.webp)
+
+*Source: Nguyen Sinh Sac relic site, Cao Lanh. Photo: Wikimedia Commons*
+
 <!-- id: EVT-1357 -->
 *   **Feb. 10, 1901:** Hoang Thi Loan (mother of President Ho Chi Minh) passed away in the imperial capital of Hue at the age of 33 following the birth of her fourth child, while her husband was away supervising exams in Thanh Hoa. Her eleven-year-old son Nguyen Sinh Cung (President Ho Chi Minh) and caring neighbors organized her funeral. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
@@ -4573,6 +4753,10 @@
 <!-- id: EVT-1379 -->
 *   **1907:** Duc Thanh Hoc Hieu (Duc Thanh School) was established by the founders of Lien Thanh to teach progressive patriotic ideas to the children of poor laborers. [Source: Binh Thuan Museum - Ho Chi Minh Museum in Phan Thiet (Duc Thanh School where Nguyen Tat Thanh taught in 1910 - 1911), https://baotangbinhthuan.com/bao-tang-ho-chi-minh-o-phan-thiet.html]
 
+![Historical image](images/event_20260930_102846_3.webp)
+
+*Source: Duc Thanh School, Phan Thiet. Photo: Wikimedia Commons*
+
 <!-- id: EVT-1380 -->
 *   **Mar. 1907:** Patriotic scholars Luong Van Can, Nguyen Quyen, and Nguyen Huu Cau (Gian Thach) co-founded Dong Kinh Nghia Thuc (Tonkin Free School) at 4 Hang Dao (Hanoi), offering Quoc Ngu classes for both men and women to spread reformist ideas and modernize education. [Source: Vietnam National Museum of History - Dong Kinh Nghia Thuc and Educational Reform Thought, https://baotanglichsu.vn/vi/Articles/2001/66339/djong-kinh-nghia-thuc-va-tu-tuong-cai-cach-giao-duc.html]
 
@@ -4637,6 +4821,10 @@
 <!-- id: EVT-1399 -->
 *   **Sep. 1910:** After teaching and promoting patriotic values at Duc Thanh School (Phan Thiet), teacher Nguyen Tat Thanh left Duc Thanh, traveling by Lien Thanh company boat to Saigon, where he stayed at company premises and worked while preparing to journey abroad for national salvation. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
+![Historical image](images/event_20260930_104256_5.webp)
+
+*Source: Ca Ty River, Phan Thiet in 1967. Photo: Wikimedia Commons*
+
 <!-- id: EVT-1400 -->
 *   **1911:** Duc Thanh School closed after five years of operation. Lien Thanh Company supported Nguyen Tat Thanh with 18 Indochinese piastres for his travel expenses to seek a path for national salvation. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
@@ -4646,8 +4834,16 @@
 <!-- id: EVT-1402 -->
 *   **1911 - 1912:** Working on French merchant vessels, Nguyen Tat Thanh sailed across multiple oceans, stopping at ports and colonial territories across Africa (Senegal, Gabon, Dahomey/Benin, Djibouti, Algeria, Réunion, Madagascar) and the Americas (Martinique, Uruguay, Argentina), witnessing firsthand the common plight and suffering of oppressed peoples. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
+![Historical image](images/event_20260930_105125.webp)
+
+*Source: Steamship of the Messageries Maritimes, early 20th century. Photo: Wikimedia Commons*
+
 <!-- id: EVT-1403 -->
 *   **May 1911:** Prior to departing Nha Rong Port for the West to seek national liberation, patriotic youth Nguyen Tat Thanh shared an emotional farewell in Saigon with Le Thi Hue (Ut Hue)—his pure and devoted youthful first love. This historic parting for the greater cause of national independence, symbolized by the keepsake comb, was later movingly chronicled by author Son Tung in *Blue Lotus*, becoming an enduring symbol in Vietnamese literary and historical memory. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
+
+![Historical image](images/event_20260930_104254_1.webp)
+
+*Source: The ship Amiral Latouche-Treville at Saigon Port. Photo: Wikimedia Commons*
 
 <!-- id: EVT-1404 -->
 *   **Jun. 5, 1911:** From Nha Rong Harbor (Saigon), young patriot Nguyen Tat Thanh assumed the name **Van Ba**, boarding the French merchant ship *Amiral Latouche-Tréville* as an assistant cook, beginning a historic 30-year journey across nearly 30 countries on four continents to seek national liberation. [Source: https://nhandan.vn/ngay-5-6-1911-nguoi-thanh-nien-nguyen-tat-thanh-ra-di-tim-duong-cuu-nuoc-post649362.html]
@@ -4663,8 +4859,16 @@
 <!-- id: EVT-1405 -->
 *   **Jul. 6, 1911:** The ship *Amiral Latouche-Tréville* docked at the port of Marseille (France). Nguyen Tat Thanh (Van Ba) set foot on French soil for the first time after sailing through ports in Singapore, Colombo (Sri Lanka), and Port Said (Egypt), initiating his firsthand investigation of Western society. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
+![Historical image](images/event_20260930_102847_1.webp)
+
+*Source: Port of Marseille, France in the early 20th century. Photo: Wikimedia Commons*
+
 <!-- id: EVT-1406 -->
 *   **Aug. 25, 1911:** Senior General Vo Nguyen Giap (birth name Vo Giap, alias Van) was born in An Xa village, Loc Thuy Commune, Le Thuy District, Quang Binh Province. He was an eminent military strategist and statesman, the first Senior General and Commander-in-Chief of the Vietnam People's Army, a brilliant and close disciple of President Ho Chi Minh, and internationally revered as one of the greatest military commanders of the 20th century. [Source: https://baochinhphu.vn/tom-tat-tieu-su-dai-tuong-vo-nguyen-giap-102150438.htm]
+
+![Historical image](images/event_20260930_102847_2.webp)
+
+*Source: Memorial house of General Vo Nguyen Giap in Quang Binh. Photo: Wikimedia Commons*
 
 <!-- id: EVT-1407 -->
 *   **Nov. 1911:** Albert Sarraut assumed the post of Governor-General, continuing to promote the "association" policy and demagogic reforms. [Source: History of Vietnam (Vol. 7: 1897–1918), Social Sciences Publishing House, Hanoi, 2017]
@@ -4683,6 +4887,10 @@
 
 <!-- id: EVT-1412 -->
 *   **1913 - 1917:** Nguyen Tat Thanh lived and worked in London, United Kingdom, using the name **Paul Thanh**. He undertook various laborious jobs such as school snow sweeper, boiler stoker, and pastry assistant at the luxury Carlton Hotel under legendary chef Auguste Escoffier, while self-studying English and joining the Overseas Workers Association. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
+
+![Historical image](images/event_20260930_104254_2.webp)
+
+*Source: London Docks in the early 20th century. Photo: Wikimedia Commons*
 
 <!-- id: EVT-1413 -->
 *   **Feb. 10, 1913:** Hoang Hoa Tham (De Tham), leader of the Yen The Uprising, was assassinated by agents of French colonialists, marking the end of the most enduring armed peasant uprising against French colonial rule (1884–1913). [Source: https://tuoitre.vn/sach-giai-ma-nhieu-bi-an-trong-cuoc-doi-hoang-hoa-tham-594552.htm]
@@ -5149,6 +5357,10 @@
 <!-- id: EVT-1553 -->
 *   **Nov. 27, 1929:** Pho bang Nguyen Sinh Sac (father of President Ho Chi Minh) passed away in Hoa An village, Cao Lanh (now Dong Thap province) at the age of 67. During his final years in Southern Vietnam, he practiced traditional medicine to heal the poor, disseminated patriotic thought, and was deeply revered, sheltered, and entombed by the local people of Dong Thap. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
+![Historical image](images/event_20260930_104254_3.webp)
+
+*Source: Hoa An Village, Cao Lanh, Dong Thap. Photo: Wikimedia Commons*
+
 <!-- id: EVT-1554 -->
 *   **Dec. 19, 1929:** Đặng Thị Kim (also known as Đặng Thị Oanh) was born in Hành Thiện village, Xuân Trường district, Nam Định province. She would later become a prominent revolutionary and Hero of the People's Armed Forces, known for her unyielding spirit. [Source: History of the Party Committee of Nam Dinh Province (1930–2000), National Political Publishing House, Hanoi]
 
@@ -5504,6 +5716,10 @@
 
 <!-- id: EVT-1662 -->
 *   **Jun. 1940:** At Cuihu (Green Lake, Kunming, Yunnan, China), comrades Vo Nguyen Giap and Pham Van Dong met leader Nguyen Ai Quoc for the first time. This historic encounter proved to be a decisive turning point in Vo Nguyen Giap's revolutionary life, initiating a lifelong dedication to the revolutionary cause under the direct mentorship of President Ho Chi Minh. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
+
+![Historical image](images/event_20260930_102848.webp)
+
+*Source: Kunming street, Yunnan in the 1940s. Photo: Wikimedia Commons*
 
 <!-- id: EVT-1663 -->
 *   **Jun. 18, 1940:** Following General Charles de Gaulle's historic BBC radio appeal from London, former Emperor Duy Tan utilized his amateur wireless radio setup on Réunion to intercept, translate, and surreptitiously disseminate the French Resistance manifesto across the Southwest Indian Ocean. He subsequently enlisted in the Free French Forces (FFL) as a signals and communications officer, rising to the rank of Major. [Source: Modern World History, Education Publishing House, Hanoi, 2008]
@@ -6269,6 +6485,10 @@
 <!-- id: EVT-1888 -->
 *   **Jan. 20, 1948:** President Ho Chi Minh signed Decree No. 110/SL conferring the rank of Senior General upon comrade Vo Nguyen Giap (Commander-in-Chief of the National Army and Self-Defense Militia), making him the first Senior General of the Vietnam People's Army at age 37. Concurrently, decrees were issued promoting Nguyen Binh to Lieutenant General; and Nguyen Son, Chu Van Tan, Hoang Van Thai, Hoang Sam, Tran Tu Binh, Le Thiet Hung, and other senior commanders to Major General. [Source: Vietnam National Museum of History - Promotion of Vo Nguyen Giap to General (January 20, 1948), https://baotanglichsu.vn/vi/Articles/3097/16660/phong-quan-ham-dai-tuong-cho-vo-nguyen-giap-20-01-1948.html]
 
+![Historical image](images/event_20260930_104712.webp)
+
+*Source: French artillery position at Dien Bien Phu. Photo: Wikimedia Commons*
+
 <!-- id: EVT-1889 -->
 *   **Jan. 25, 1948:** The government issued a decree establishing Inter-zones to unify the command of the resistance. [Source: Decree No. 120/SL of Jan. 25, 1948 by the President of the Democratic Republic of Vietnam; Party Documents, Vol. 9, National Political Publishing House, Hanoi, 2001]
 
@@ -6628,6 +6848,10 @@
 <!-- id: EVT-2003 -->
 *   **Oct. 14 - Dec. 10, 1952:** Under the direct leadership of Senior General Vo Nguyen Giap (Campaign Commander and Party Secretary), the Vietnamese army and people launched the **Northwest Campaign**. Revolutionary forces achieved decisive victories: capturing the Nghia Lo subsector (Oct. 18) and defeating France's Operation Lorraine with the Chan Mong - Tram Than ambush (Nov. 17). The campaign liberated a vast area including Dien Bien Phu (Nov. 30) and most of Son La province, dismantling the colonial puppet scheme of an "Autonomous Thai State" and connecting Viet Bac with Upper Laos. [Source: Nhan Dan Newspaper - Northwest Campaign, https://special.nhandan.vn/chien-dich-tay-bac-1952/index.html]
 
+![Historical image](images/event_20260930_104254_4.webp)
+
+*Source: Mountains of Northwest Vietnam. Photo: Wikimedia Commons*
+
 <!-- id: EVT-2004 -->
 *   **1953:** Le Van Ba returned to the South to fight and married Le Thi Rieng. [Source: Ho Chi Minh City Women's Union, Life and Revolutionary Career of Comrade Le Thi Rieng, Ho Chi Minh City General Publishing House, 2007]
 
@@ -6703,6 +6927,10 @@
 <!-- id: EVT-2028 -->
 *   **Nov. 20, 1953:** French paratroopers occupied Dien Bien Phu (Operation Castor), beginning to build it into the strongest fortified base complex in Indochina. [Source: https://archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/dien-bien-phu-chien-dich-mang-lai-hoa-binh-o-dong-duong.htm]
 
+![Historical image](images/event_20260930_104257.webp)
+
+*Source: French prisoners at Dien Bien Phu 1954. Photo: Wikimedia Commons*
+
 <!-- id: EVT-2029 -->
 *   **Nov. 26, 1953:** President Ho Chi Minh, in an interview with the Swedish newspaper *Expressen*, stated Vietnam's goodwill for peace and affirmed its negotiating stance. [Source: Vietnam National Museum of History - Ho Chi Minh's Interview with Expressen Newspaper (November 26, 1953), https://baotanglichsu.vn/vi/Articles/3097/16681/ho-chi-minh-tra-loi-bao-expressen-26-11-1953.html]
 
@@ -6711,6 +6939,10 @@
 
 <!-- id: EVT-2031 -->
 *   **Dec. 6, 1953:** At the Tin Keo hut (ATK Dinh Hoa, Thai Nguyen), the Politburo met to approve the decision to launch the **Dien Bien Phu Campaign** (codename "Tran Dinh"), appointing Senior General Vo Nguyen Giap as Campaign Commander and Secretary of the Campaign Party Committee. Before General Giap departed for the front lines, President Ho Chi Minh instructed: *"This battle is of paramount importance; you must fight to win. Strike only when victory is certain; do not strike if certainty is lacking. I entrust you with full decision-making power."* [Source: https://nhandan.vn/an-toan-khu-dinh-hoa-noi-khoi-nguon-chien-thang-dien-bien-phu-post457551.html]
+
+![Historical image](images/event_20260930_104254_5.webp)
+
+*Source: Tin Keo Hut, Dinh Hoa, Thai Nguyen. Photo: Wikimedia Commons*
 
 <!-- id: EVT-2032 -->
 *   **Dec. 10 - 12, 1953:** Vietnamese forces wiped out a retreating French column at Muong Pon (Dec. 10) and advanced to liberate Lai Chau town (Dec. 12) after the French forces retreated to Dien Bien Phu. [Source: Military History Institute of Vietnam, Dien Bien Phu Campaign - Events and Witnesses, People's Army Publishing House, Hanoi, 2004]
@@ -6759,6 +6991,10 @@
 
 <!-- id: EVT-2047 -->
 *   **Jan. 26, 1954:** At the Muong Phang Command Post (Dien Bien), Campaign Commander Senior General Vo Nguyen Giap made the historic decision: postponing the assault, ordering troops to pull back to assembly points and hauling artillery out to switch the operational doctrine from "swift attack, swift victory" to **"steady attack, steady advance"**. This is widely acknowledged as the most grueling yet brilliant decision of the General's military career, laying the indispensable foundation for complete victory at Dien Bien Phu. [Source: https://nhandan.vn/ve-chu-truong-danh-chac-tien-chac-trong-chien-dich-dien-bien-phu-post465699.html]
+
+![Historical image](images/event_20260930_104257_1.webp)
+
+*Source: Captured French tank at De Castries bunker, Dien Bien Phu. Photo: Wikimedia Commons*
 
 <!-- id: EVT-2048 -->
 * **01/02/1954:** Martyr To Vinh Dien (37mm anti-aircraft gun squad leader of Company 827, Battalion 394, Regiment 367) heroically used his own body to block and save an artillery piece from falling into an abyss during the Battle of Dien Bien Phu. [Source: https://nhandan.vn/ai-la-nguoi-lay-than-minh-chen-phao-post801932.html]
@@ -6821,6 +7057,10 @@
 
 <!-- id: EVT-2065 -->
 *   **May 19, 1954:** On the occasion of President Ho Chi Minh's 64th birthday at the Kim Quan Safe Zone (Tuyen Quang), Captain Ta Quoc Luat represented the Dien Bien Phu combatants to report victory achievements to Uncle Ho and presented Him with General De Castries' officer badge. [Source: Ho Chi Minh Museum, Chronicle of President Ho Chi Minh's Biography; People's Army Newspaper]
+
+![Historical image](images/event_20260930_104711.webp)
+
+*Source: President Ho Chi Minh with the OSS Deer Team in 1945. Photo: Wikimedia Commons, Public domain*
 
 <!-- id: EVT-2066 -->
 *   **Jun. 1954:** Dinh Thi Van was assigned to the Research Department of the General Staff (Ministry of National Defense) and sent to operate covertly in Hanoi. She built reliable intelligence bases and gathered crucial information during the "300 days of assembly" period. Demonstrating immense personal sacrifice for the revolution, she arranged for her husband to marry another woman so he would be cared for while she dedicated herself to her secret missions. [Source: Female intelligence agent Dinh Thi Van (Nhan Dan Newspaper), https://nhandan.vn/nu-tinh-bao-dinh-thi-van-huyen-thoai-trong-long-dich-post645210.html]
@@ -7227,6 +7467,10 @@
 <!-- id: EVT-2176 -->
 *   **Feb. 23, 1960:** Implementing the resolution of the Nam Bo Party Committee, the Cu Chi District Party Committee launched a concerted uprising with the call to "rise up together, destroy tyrants, break the grip, and liberate the countryside." [Source: Ho Chi Minh Complete Works, Vol. 12 (1960), National Political Publishing House, Hanoi, 2011, pp. 627-632]
 
+![Historical image](images/event_20260930_102848_3.webp)
+
+*Source: Cu Chi uprising in 1960. Photo: Wikimedia Commons*
+
 <!-- id: EVT-2177 -->
 *   **Sep. 1960:** The **3rd National Congress** of the Vietnam Workers' Party was held in Hanoi, setting out two strategic tasks: [Source: Party Central Committee, Party Documents, Vol. 21, National Political Publishing House, Hanoi, 2002]
     *   Carry out the socialist revolution in the North.
@@ -7421,6 +7665,10 @@
 
 <!-- id: EVT-2235 -->
 *   **Nov. 1 - 2, 1963:** The 1963 South Vietnamese coup d'état: A faction of ARVN generals led by Duong Van Minh, Tran Van Don, and Le Van Kim, backed and coordinated with the CIA and the US Embassy, launched a military coup to overthrow the First Republic. On the night of November 1, Ngo Dinh Diem and Ngo Dinh Nhu escaped Gia Long Palace through a secret tunnel and took refuge at Saint Francis Xavier Church (Cha Tam Church) in Cholon. On the morning of November 2, after surrendering on assurances of safe exile, both brothers were taken into custody and assassinated inside an M113 armored personnel carrier while being escorted to the Joint General Staff headquarters, bringing an end to the First Republic. [Source: Nhan Dan Newspaper - The Historic Confrontation, https://nhandan.vn/bai-1-cuoc-doi-dau-lich-su-post456835.html]
+
+![Historical image](images/event_20260930_102849.webp)
+
+*Source: Independence Palace, Saigon. Photo: Wikimedia Commons*
 
 <!-- id: EVT-2236 -->
 *   **Nov. 22, 1963:** US President Kennedy was assassinated, and Vice President Lyndon B. Johnson succeeded him, advocating for an escalation of the war in Vietnam. [Source: David Halberstam, The Making of a Quagmire: America and Vietnam during the Kennedy Era, Random House, 1965]
@@ -7764,6 +8012,10 @@
 <!-- id: EVT-2340 -->
 *   **Jan. 25, 1966:** The Saigon - Gia Dinh Military Command held a conference to summarize the battle, evaluating the great effectiveness of the tunnel system in "tunnel warfare." [Source: Military Region 7 High Command, Cu Chi Tunnels - A Wonder of Combat, People's Army Publishing House, Hanoi, 2008]
 
+![Historical image](images/event_20260930_102849_1.webp)
+
+*Source: Entrance of Cu Chi tunnels. Photo: Wikimedia Commons*
+
 <!-- id: EVT-2341 -->
 * **04/02/1966:** Martyr Luu Van Liet (commando fighter of Vinh Long town) heroically sacrificed his life during a surprise attack eliminating numerous enemy officers and troops at Le Hoa restaurant. [Source: Vinh Long Provincial Military Command, History of the People's Armed Forces of Vinh Long (1945 - 2005), People's Army Publishing House, Hanoi, 2005]
 
@@ -7953,6 +8205,10 @@
 <!-- id: EVT-2403 -->
 *   **Nov. 27, 1967:** The Central Military Commission established the Command of Group 559 (Truong Son Troops Command) under Senior Colonel Dong Si Nguyen as Commander. This marked a pivotal transition shifting the Truong Son logistics route from manual methods to large-scale mechanized transport and combined-arms operations, turning the Ho Chi Minh Trail into a robust network overcoming enemy aerial interdiction. [Source: Nhan Dan Newspaper - Lieutenant General Dong Si Nguyen - Legendary Commander of the Truong Son Trail, https://nhandan.vn/special/Trung-tuong-Dong-Sy-Nguyen-Tu-lenh-Duong-Truong-Son-huyen-thoai/index.html]
 
+![Historical image](images/event_20260930_105124.webp)
+
+*Source: GMC truck of the Truong Son Force. Photo: Wikimedia Commons, Public domain*
+
 <!-- id: EVT-2404 -->
 * **1968:** Martyr Banh Van Tran (Saigon commando fighter who participated in the Tan Son Nhat Airport raid on Dec. 2, 1966) heroically sacrificed his life in Con Dao Prison. [Source: Ba Ria - Vung Tau Provincial Party Committee, History of Con Dao Prison (1862 - 1975), National Political Publishing House, Hanoi, 2002]
 
@@ -8004,6 +8260,10 @@
 <!-- id: EVT-2420 -->
 *   **Jan. 20 - Jul. 15, 1968:** Battle of Khe Sanh (Route 9 - Khe Sanh Campaign). The Liberation Army of South Vietnam launched a massive offensive against the US defense complex at Khe Sanh in Quang Tri. Serving as a strategic diversion for the Tet Offensive, the Liberation Army closely besieged the base (with 17,000 troops), forcing the US to deploy strategic bombers to drop over 114,000 tons of bombs for support. For the first time, the Liberation Army deployed PT-76 tanks, overrunning the Lang Vei Special Forces camp (Feb. 7). Despite casualties from intense US firepower, the campaign successfully pinned down a large US force, destroyed the command center of the McNamara Line, and ultimately forced the US military to abandon Khe Sanh in July 1968. This marked the first time the US military had to abandon a major base due to enemy pressure. [Source: Nhan Dan Newspaper - The Route 9 - Khe Sanh Victory, https://special.nhandan.vn/chien-thang-Duong9-Khe-Sanh-tran-danh-lam-nen-chien-cong-bat-tu-Tet-Mau-Than-1968-/index.html]
 
+![Historical image](images/event_20260930_104255_1.webp)
+
+*Source: Khe Sanh Combat Base, Quang Tri. Photo: Wikimedia Commons*
+
 <!-- id: EVT-2421 -->
 *   **Night of Jan. 30-31, 1968:** The 1968 Tet General Offensive and Uprising broke out simultaneously across South Vietnam, attacking cities, towns, and the enemy's command centers, shaking the US's will to aggression. [Source: https://nhandan.vn/tong-tien-cong-noi-day-xuan-mau-than-1968-sang-tao-trong-dieu-hanh-chien-tranh-cua-dang-post865087.html]
 
@@ -8016,6 +8276,10 @@
 
 <!-- id: EVT-2423 -->
 *   **Jan. 31, 1968:** In the early morning hours of the Tet Offensive, intelligence commander Tu Cang (Nguyen Van Tau) and female operative Tam Thao (Nguyen Thi My Nhung) witnessed the fierce assault by Commando Group 5 on the Independence Palace from an undercover base house 100 meters away. Tu Cang opened fire with his K54 pistol, killing two enemy officers to support his surrounded commando comrades. When enemy police stormed the house to search, Tam Thao calmly utilized her poise and undercover role with the US Naval Advisor to mislead them, ensuring Tu Cang's safe cover. [Source: General Department II - Ministry of National Defense, The Man Whose Legs Were Severed Six Times - Major Nguyen Van Thuong, People's Army Publishing House, Hanoi, 2005]
+
+![Historical image](images/event_20260930_104255_2.webp)
+
+*Source: Saigon street during the 1968 Tet Offensive. Photo: Wikimedia Commons*
 
 <!-- id: EVT-2424 -->
 *   **Jan. 31 - Feb. 24, 1968:** Battle of Hue during the Tet Offensive. Commencing in the early hours of the Lunar New Year, the Liberation Army of South Vietnam launched a surprise attack and seized control of most of Hue city, raising the Front's flag over the Citadel. US and Republic of Vietnam forces mobilized massive reinforcements for a counterattack. To retake the city, the US military utilized heavy firepower (bombs and naval artillery), resulting in the severe destruction of 80% of Hue's structures and significant civilian casualties. After holding the city in fierce urban combat for 25 days, the Liberation Army proactively withdrew to preserve their forces. The battle dealt a colossal psychological and political blow to the United States, demonstrating the Liberation Army's ability to hold a major city for an extended period. [Source: Nhan Dan Newspaper - Tet Offensive Assault in Hue, https://special.nhandan.vn/tran-tien-cong-Tet-Mau-Than/index.html]
@@ -8051,6 +8315,10 @@
 
 <!-- id: EVT-2432 -->
 *   **Feb. 7, 1968:**   **Battle of Lang Vei (Route 9 - Khe Sanh Campaign):** The Liberation Army of South Vietnam launched a decisive assault to overrun the fortified Lang Vei Special Forces Camp (Huong Hoa, Quang Tri) – a vital outpost commanded by US Army Special Forces (Green Berets - Detachment A-101) shielding the western approach to the Khe Sanh Combat Base. The assault force was spearheaded by the 24th Regiment (304th Division, commanded by Le Cong Phe and Political Commissar Le Tam), supported by the 3rd Battalion (101st Regiment), sappers, combat engineers, and artillery. The battle marked a historic milestone as the **first combat deployment of armor by the Vietnam People's Army** in the Vietnam War: the 198th Armored Battalion (commanded by Ha Tien Tuan) secretly marched over 1,300 km from the North to deploy 16 PT-76 amphibious light tanks. Commencing at 23:30 on the night of February 6 with preparatory artillery barrages, PT-76 tanks shocked the defenders by tearing through heavy barbed wire entanglements and crushing hardened bunkers and machine-gun nests, paving the way for infantry to penetrate the inner perimeter; notably, Tank No. 555 led by Deputy Platoon Commander Le Xuan Tau spearheaded the vanguard breakthrough. By the morning of February 7, the camp was completely overrun; over 300 enemy troops were killed and 253 captured (including US advisors), and vast quantities of arms were seized. The victory at Lang Vei shattered the enemy's western defensive shield, completely isolating Khe Sanh (Ta Con base) and establishing the legendary tradition *"Once deployed, victory is secured"* for the Vietnam Tank and Armored Corps. [Source: Ho Chi Minh Complete Works, Vol. 15 (1966 - 1969), National Political Publishing House, Hanoi, 2011, p. 418; Nhan Dan Newspaper]
+
+![Historical image](images/event_20260930_102849_2.webp)
+
+*Source: Lang Vay strongpoint relic, Quang Tri. Photo: Wikimedia Commons*
 
 <!-- id: EVT-2433 -->
 *   **Feb. 12, 1968:** South Korean troops massacred 69-79 unarmed civilians in Phong Nhat and Phong Nhi villages (Dien Ban, Quang Nam). [Source: Dien Ban Town Portal (Quang Nam); Seoul Central District Court Ruling of February 7, 2023 on the Phong Nhat - Phong Nhi Massacre Lawsuit; Tuoi Tre Newspaper]
@@ -8458,6 +8726,10 @@
 <!-- id: EVT-2561 -->
 *   **Jul. 13, 1972:** During the fierce battle to defend Quang Tri Ancient Citadel, after three comrades sacrificed their lives attempting to reconnect a severed communication line, Corporal Mai Ngoc Thoang and Quach Manh Nhac volunteered for the mission. While Nhac operated the crank generator on the bank, Thoang swam to the middle of the fast-flowing Thach Han River under intense enemy artillery fire. Finding the broken wires but lacking spare wire to tie them, he used his teeth to bite and hold the two ends together for 30 minutes, enduring severe electric shocks that caused him to repeatedly faint. His extraordinary act created a "living bridge" for communications, allowing General Vo Nguyen Giap to direct the 48th Regiment in repelling enemy attacks. [Source: People's Army Newspaper, "The Living Communication Bridge across the Thach Han River"; Propaganda and Training Commission of the Quang Tri Provincial Party Committee]
 
+![Historical image](images/event_20260930_102849_3.webp)
+
+*Source: Quang Tri Ancient Citadel. Photo: Wikimedia Commons*
+
 <!-- id: EVT-2562 -->
 *   **Aug. 3, 1972:** During the 81-day-and-night defense of the Quang Tri Ancient Citadel, Senior Lieutenant Le Binh Chung (Deputy Political Commissar of the 3rd Battalion, Quang Tri Provincial Military Command) and his comrades tenaciously held their ground inside a command bunker under ferocious enemy bombardment. When surrounded and facing overwhelming firepower, the soldiers held firm to the last breath, courageously using their radio to call friendly artillery fire directly onto their own bunker coordinates to eliminate the assaulting enemy forces and heroically sacrifice for the nation. [Source: Quang Tri Provincial Party Committee, History of Quang Tri Provincial Party Committee, Vol. 2, National Political Publishing House, Hanoi, 2007]
 
@@ -8750,6 +9022,10 @@
 <!-- id: EVT-2645 -->
 *   **April 27 - 30, 1975:** **Battle of Rach Chiec Bridge (Ho Chi Minh Campaign):** Sapper and commando forces of Brigade 316 (led by the 81st Sapper Battalion of the 116th Regiment in coordination with commando units Z22 and Z23) under Commander Nguyen Van Tang (Tu Tang) fought a crucial battle to capture and hold the Rach Chiec Bridge on the Saigon Highway. Under intense fire from South Vietnamese infantry, river patrol boats, and helicopter gunships, 52 sapper and commando soldiers sacrificed their lives to secure the bridge and prevent it from being detonated, keeping the vital eastern corridor open for 2nd Corps tank brigades to advance rapidly into Saigon and liberate the city on April 30, 1975. [Source: Government News Portal - Fierce Memories of the Historic Battle at Rach Chiec Bridge, https://baochinhphu.vn/ky-uc-nong-bong-ve-tran-chien-dau-lich-su-o-cau-rach-chiec-102183004.htm]
 
+![Historical image](images/event_20260930_102849_4.webp)
+
+*Source: Rach Chiec Bridge, Saigon. Photo: Wikimedia Commons*
+
 <!-- id: EVT-2646 -->
 *   **Apr. 29, 1975:** At 10:00 AM, the Politburo sent a directive to the Ho Chi Minh Campaign Command ordering the continuation of the attack on Saigon according to the plan, ignoring Duong Van Minh's ceasefire order, to secure total victory and dissolve the enemy administration. [Source: Politburo Urgent Telegram No. 129/TK dated Apr. 29, 1975; Complete Party Documents, Vol. 36 (1975), National Political Publishing House, Hanoi, 2004; Senior General Van Tien Dung, Our Great Spring Victory, 1976]
 
@@ -8808,6 +9084,10 @@
 
 <!-- id: EVT-2661 -->
 *   **Aug. 29, 1975:** The inauguration ceremony of the Ho Chi Minh Mausoleum was held in Hanoi. [Source: Management Board of President Ho Chi Minh Mausoleum, History of President Ho Chi Minh Mausoleum Construction, People's Army Publishing House, Hanoi, 2005; Nhan Dan Newspaper, Aug. 30, 1975]
+
+![Historical image](images/event_20260930_102850.webp)
+
+*Source: Ho Chi Minh Mausoleum, Hanoi. Photo: Wikimedia Commons*
 
 <!-- id: EVT-2662 -->
 *   **Sep. 1975:** The 24th Conference of the Central Committee of the Vietnam Workers' Party set out the task of completing the unification of the country in terms of state administration. [Source: Resolution of the 24th Plenum of the Party Central Committee (3rd Tenure), Sept. 1975; Complete Party Documents, Vol. 36 (1975), National Political Publishing House, Hanoi, 2004]
@@ -9215,6 +9495,10 @@
 <!-- id: EVT-2789 -->
 *   **Jul. 1983:** Ho Chi Minh City Party Secretary Nguyen Van Linh convened a historic working session in Da Lat bringing directors of dynamic city enterprises to report directly to General Secretary Le Duan on breakthrough economic practices; the meeting fundamentally shifted the Party leadership's economic thinking, paving the way for comprehensive Renewal (Doi Moi). [Source: HCM City Party Committee, Comrade Nguyen Van Linh with the Party Organization and People of HCM City, National Political Publishing House, Hanoi, 2015; Sai Gon Giai Phong Newspaper]
 
+![Historical image](images/event_20260930_102850_1.webp)
+
+*Source: Da Lat city in the 1980s. Photo: Wikimedia Commons*
+
 <!-- id: EVT-2790 -->
 *   **Sep. 27, 1983:** Australian international journalist Wilfred Burchett (a steadfast friend and loyal comrade of President Ho Chi Minh and the Vietnamese people throughout both the anti-French and anti-US resistance wars) passed away in Sofia, Bulgaria at the age of 72. [Source: Wilfred Burchett, At the Barricades: The Memoirs of a Rebel Journalist, Times Books, 1981; Vietnam Journalists Association Communique; Nhan Dan Newspaper]
 
@@ -9314,6 +9598,10 @@
 
 <!-- id: EVT-2820 -->
 *   **Oct. 20 - Nov. 20, 1987:** The 24th General Conference of the United Nations Educational, Scientific and Cultural Organization (UNESCO) in Paris adopted Resolution 24C/18.65 on the occasion of the centenary of his birth (1890 - 1990), officially honoring President Ho Chi Minh as a "**Vietnamese Hero of National Liberation and Great Man of Culture**". [Source: UNESCO 24th General Conference, Resolution 24C/18.65 on the Centenary of the Birth of President Ho Chi Minh (Paris, 1987); Ministry of Foreign Affairs, Vietnam and UNESCO, 2007]
+
+![Historical image](images/event_20260930_104257_2.webp)
+
+*Source: UNESCO Headquarters in Paris. Photo: Wikimedia Commons*
 
 <!-- id: EVT-2821 -->
 *   **Nov. 1987:** During a visit to the Soviet Union for the 70th anniversary of the October Revolution, General Secretary Nguyen Van Linh warned Soviet leaders about the dangers of removing Article 6 of the Constitution regarding the Party's leadership role. [Source: Joint Communique on the Official Visit of General Secretary Nguyen Van Linh to the USSR, Nov. 1987; Nhan Dan Newspaper, Nov. 22, 1987]
@@ -9571,6 +9859,10 @@
 <!-- id: EVT-2903 -->
 *   **Dec. 11, 1993:** The complex of monuments of the former imperial capital of Hue was recognized as a World Cultural Heritage site. [Source: UNESCO, Decision of the World Heritage Committee at its 17th Session (Cartagena, 1993); Hue Monuments Conservation Center; Nhan Dan Newspaper]
 
+![Ngo Mon Gate Hue](images/event_20260930_101732_2.webp)
+
+*Source: Ngo Mon Gate, Hue Imperial City. Photo: Wikimedia Commons*
+
 <!-- id: EVT-2904 -->
 *   **Dec. 14, 1993:** In Paris, the Government of Vietnam reached a landmark agreement with the Paris Club to resolve bilateral official debts inherited from the pre-1975 Republic of Vietnam. Major creditor nations—including France, Japan, Germany, the United Kingdom, Italy, Belgium, Australia, Canada, South Korea, Austria, Switzerland, the Netherlands, and Spain—conditioned the normalization of financial relations on Vietnam assuming liability for these debts; in return, creditors agreed to cancel 50% of the arrears under concessional terms and reschedule the remainder over 23 to 30 years, marking a decisive milestone in Vietnam's reintegration into the global financial system. [Source: Agreed Minute between the Government of the SRV and Paris Club Creditors signed Dec. 14, 1993; Ministry of Finance; Nhan Dan Newspaper, Dec. 16, 1993]
 
@@ -9618,6 +9910,10 @@
 
 <!-- id: EVT-2919 -->
 *   **Dec. 17, 1994:** Ha Long Bay was recognized by UNESCO based on the criteria of its unique and aesthetically important natural landscape value. [Source: UNESCO, Decision of the World Heritage Committee at its 18th Session (Phuket, 1994); Ha Long Bay Management Board; Nhan Dan Newspaper]
+
+![Ha Long Bay](images/event_20260930_101732_3.webp)
+
+*Source: Ha Long Bay seen from above. Photo: Wikimedia Commons*
 
 <!-- id: EVT-2920 -->
 *   **Dec. 20, 1994:** Lò Văn Giá was posthumously awarded the title Hero of the People's Armed Forces by the Party and State, acknowledging his immense contributions to the national liberation struggle. [Source: Presidential Decision posthumously conferring Hero of the People's Armed Forces dated Dec. 20, 1994; Son La Provincial Party Committee Commission for Propaganda, History of Son La Provincial Party Organization, 2005]
@@ -9825,6 +10121,10 @@
 <!-- id: EVT-2984 -->
 *   **Dec. 4, 1999:** The ancient town of Hoi An and the My Son Sanctuary were recognized as World Cultural Heritage Sites. [Source: UNESCO, Decision of the World Heritage Committee at its 23rd Session (Marrakech, 1999); Hoi An Center for Cultural Heritage Management and Preservation; Nhan Dan Newspaper]
 
+![Historical image](images/event_20260930_104255_3.webp)
+
+*Source: Cham towers at My Son Sanctuary. Photo: Wikimedia Commons*
+
 <!-- id: EVT-2985 -->
 *   **Dec. 30, 1999:** Vietnam and China officially signed the **Land Border Treaty**. [Source: Vietnam Government Portal - Land border of peace, friendship, and cooperation between Vietnam and China, https://baochinhphu.vn/duong-bien-gioi-dat-lien-hoa-binh-huu-nghi-hop-tac-viet-nam-trung-quoc-10235326.htm]
 
@@ -9875,6 +10175,10 @@
 
 <!-- id: EVT-3001 -->
 *   **Dec. 2, 2000:** UNESCO extended its recognition of Ha Long Bay based on the criteria of outstanding global geological and geomorphological value. [Source: UNESCO, Decision of the World Heritage Committee at its 24th Session (Cairns, Australia, 2000); Ha Long Bay Management Board; Nhan Dan Newspaper]
+
+![Boats on Ha Long Bay](images/event_20260930_101732_4.webp)
+
+*Source: Cruise boats on Ha Long Bay. Photo: Wikimedia Commons*
 
 <!-- id: EVT-3002 -->
 *   **Dec. 25, 2000:** Vietnam and China signed the **Agreement on the Demarcation of the Tonkin Gulf** and the **Agreement on Fishery Cooperation**. [Source: Agreement on the Delimitation of the Territorial Sea, EEZ and Continental Shelf in the Gulf of Tonkin signed Dec. 25, 2000; Ministry of Foreign Affairs; Nhan Dan Newspaper, Dec. 26, 2000]
@@ -9956,6 +10260,10 @@
 
 <!-- id: EVT-3027 -->
 *   **03/07/2003:** Phong Nha - Ke Bang National Park was first recognized by UNESCO for its geological and geomorphological features. [Source: UNESCO, Decision of the World Heritage Committee at its 27th Session (Paris, 2003); Phong Nha - Ke Bang National Park Management Board; Nhan Dan Newspaper]
+
+![Son River Phong Nha](images/event_20260930_101732_5.webp)
+
+*Source: Son River in Phong Nha – Ke Bang National Park. Photo: Wikimedia Commons*
 
 <!-- id: EVT-3028 -->
 *   **Sep. 2, 2003:** A 7-meter-tall monument and memorial complex for Mother Suot, created by sculptor Phan Dinh Tien, was inaugurated by the Nhat Le River in Dong Hoi, Quang Binh. [Source: Dong Hoi City People's Committee, Mother Suot Monument by Nhat Le River Project Dossier; Quang Binh Newspaper, Sept. 3, 2003]
@@ -10143,14 +10451,26 @@
 <!-- id: EVT-3084 -->
 *   **Jul. 31, 2009:** The woodblocks of the Nguyen Dynasty were recognized by UNESCO as a World Documentary Heritage. [Source: UNESCO, Decision of the International Advisory Committee of the Memory of the World Programme at its 9th Meeting (Bridgetown, 2009); National Archives Center IV; Nhan Dan Newspaper]
 
+![Nguyen Dynasty Woodblocks](images/event_20260930_101733.webp)
+
+*Source: Shelves holding Nguyen dynasty woodblocks. Photo: Wikimedia Commons*
+
 <!-- id: EVT-3085 -->
 *   **Sep. 30, 2009:** Quan Ho Bac Ninh Folk Songs were recognized by UNESCO as a heritage. [Source: UNESCO, Decision of the Intergovernmental Committee for the Safeguarding of the Intangible Cultural Heritage at its 4th Session (Abu Dhabi, 2009); Ministry of Culture, Sports and Tourism; Nhan Dan Newspaper]
+
+![Quan ho Singers](images/event_20260930_101733_1.webp)
+
+*Source: Quan ho singers on a dragon boat. Photo: Wikimedia Commons*
 
 <!-- id: EVT-3086 -->
 *   **Oct. 2009:** During drainage renovation at alley 74, Tran Phu street (former Nha Trang airport), construction workers discovered three sets of remains. Through psychic assistance and subsequent DNA testing (confirmed in June 2010), one of these was positively identified as martyr Đặng Thị Kim, solving a more than 60-year mystery for her family. [Source: Institute of Archaeology, Report on Archaeological Excavations in Ba Dinh, Hanoi in 2009; Ha Noi Moi Newspaper; Tuoi Tre Newspaper]
 
 <!-- id: EVT-3087 -->
 *   **Oct. 1, 2009:** Ca trù was recognized by UNESCO as an Intangible Cultural Heritage in Need of Urgent Safeguarding. [Source: UNESCO, Decision of the Intergovernmental Committee inscribing Ca Tru on the List of Intangible Cultural Heritage in Need of Urgent Safeguarding, Oct. 1, 2009; Vietnam Institute of Musicology; Nhan Dan Newspaper]
+
+![Ca tru Performance](images/event_20260930_101733_2.webp)
+
+*Source: Artists performing Ca tru. Photo: Wikimedia Commons*
 
 <!-- id: EVT-3088 -->
 *   **Nov. 20, 2009:** In Hanoi, the High Command of the Vietnam People's Navy in coordination with the Military Institute of Forensic Medicine held a solemn ceremony to announce DNA identification results and hand over the remains of 8 martyrs of ship HQ-604 who sacrificed their lives in the Gạc Ma battle (including martyr Đậu Xuân Tư from Nghệ An, Đoàn Đắc Hoạch and Nguyễn Thanh Hải from Hải Phòng, Nguyễn Minh Tâm and Trần Văn Phòng from Thái Bình, Hồ Văn Nuôi from Nghệ An, Trần Văn Quyết and Trần Quốc Trị from Quảng Bình) to their families for burial in their hometowns, concluding a journey of more than 21 years resting beneath the depths of the Spratly sea. [Source: Proceedings of the Scientific Symposium Commemorating Gac Ma Naval Martyrs; Naval Command; Vietnam Military History Institute; People's Army Newspaper]
@@ -10191,6 +10511,10 @@
 <!-- id: EVT-3100 -->
 *   **09/03/2010:** The doctoral steles at the Temple of Literature - Imperial Academy were recognized by UNESCO as a World Documentary Heritage. [Source: UNESCO, Decision of the Memory of the World Committee for Asia and the Pacific (MOWCAP), Mar. 9, 2010; Temple of Literature Cultural Center; Nhan Dan Newspaper]
 
+![Temple of Literature Hanoi](images/event_20260930_101733_3.webp)
+
+*Source: Gate of the Temple of Literature, Hanoi. Photo: Wikimedia Commons*
+
 <!-- id: EVT-3101 -->
 * **15/04/2010:** Hero of the People's Armed Forces Lam Thi Phan (outstanding intelligence officer in Southwestern Vietnam) passed away in Can Tho. [Source: Communique of Can Tho Provincial Authorities and Defense Intelligence, Apr. 15, 2010; Can Tho Newspaper, Apr. 16, 2010; People's Army Newspaper]
 
@@ -10218,6 +10542,10 @@
 
 <!-- id: EVT-3108 -->
 *   **Nov. 16, 2010:** The Giong Festival at Phu Dong Temple and Soc Son Temple was recognized as a Representative List of the Intangible Cultural Heritage of Humanity by UNESCO. [Source: UNESCO, Decision of the Intergovernmental Committee inscribing Giong Festival on Representative List of Intangible Cultural Heritage, Nov. 16, 2010; Nhan Dan Newspaper]
+
+![Historical image](images/event_20260930_102850_2.webp)
+
+*Source: Giong Festival at Soc Son, Hanoi. Photo: Wikimedia Commons*
 
 <!-- id: EVT-3109 -->
 
@@ -10270,6 +10598,10 @@
 <!-- id: EVT-3124 -->
 *   **Nov. 24, 2011:** Xoan Singing of Phu Tho was recognized by UNESCO as a heritage. [Source: UNESCO, Decision of the Intergovernmental Committee inscribing Xoan Singing of Phu Tho on Urgent Safeguarding List, Nov. 24, 2011; Nhan Dan Newspaper]
 
+![Historical image](images/event_20260930_102851.webp)
+
+*Source: Xoan singing at a Phu Tho communal house. Photo: Wikimedia Commons*
+
 <!-- id: EVT-3125 -->
 *   **Dec. 2011:** The Hanoi People's Council officially named a street after former Mayor Tran Van Lai in Nam Tu Liem district to honor his historic contributions to the capital's urban identity. [Source: Hanoi People's Council Resolution No. 17/2011/NQ-HDND on Naming Streets; Hanoi People's Committee Portal; Ha Noi Moi Newspaper]
 
@@ -10308,6 +10640,10 @@
 
 <!-- id: EVT-3137 -->
 *   **Dec. 6, 2012:** The Worship of Hung Kings was recognized by UNESCO as a heritage. [Source: UNESCO, Decision of the Intergovernmental Committee inscribing Worship of Hung Kings in Phu Tho on Representative List, Dec. 6, 2012; Nhan Dan Newspaper]
+
+![Historical image](images/event_20260930_104256.webp)
+
+*Source: Hung Kings commemoration procession. Photo: Wikimedia Commons*
 
 <!-- id: EVT-3138 -->
 *   **2013:** China began accelerating the reclamation and construction of artificial islands in the Spratly Islands, transforming coral reefs into fortified military bases to strengthen its presence and control. [Source: Statement by the Spokesperson of the Ministry of Foreign Affairs of the SRV protesting China's illegal artificial island reclamation in Truong Sa, 2013; Nhan Dan Newspaper]
@@ -10358,8 +10694,16 @@
 <!-- id: EVT-3152 -->
 *   **Oct. 4, 2013:** Senior General Vo Nguyen Giap — the first Commander-in-Chief of the Vietnam People's Army, the brilliant and closest disciple of President Ho Chi Minh, and internationally revered as one of the greatest military commanders of the 20th century — passed away at Central Military Hospital 108 in Hanoi at the age of 102. [Source: Special Communique of the Party Central Committee, National Assembly, President, Government, VFF Central Committee, Oct. 5, 2013; Nhan Dan Newspaper, Oct. 6, 2013]
 
+![Historical image](images/event_20260930_104257_4.webp)
+
+*Source: Grave marker of General Vo Nguyen Giap at Vung Chua. Photo: Wikimedia Commons*
+
 <!-- id: EVT-3153 -->
 *   **Oct. 12-13, 2013:** A solemn State Funeral for Senior General Vo Nguyen Giap was held under special national protocol across the country. Millions of Vietnamese citizens queued day and night to pay their respects at the National Funeral House, his private residence at 30 Hoang Dieu Street in Hanoi, and memorial sites in Quang Binh and Ho Chi Minh City. On October 13, his remains were transported to and laid to rest at Vung Chua - Dao Yen (Quang Dong Commune, Quang Trach District, Quang Binh Province) amidst boundless national mourning. [Source: State Funeral Committee Communique on the Completion of General Vo Nguyen Giap's Funeral and Burial at Vung Chua - Dao Yen; Nhan Dan Newspaper, Oct. 14, 2013]
+
+![Historical image](images/event_20260930_104256_1.webp)
+
+*Source: State funeral in Hanoi 2013. Photo: Wikimedia Commons*
 
 <!-- id: EVT-3154 -->
 * **30/10/2013:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Bùi Quang Thận (Nguyên Đại đội trưởng Đại đội 4, Tiểu đoàn 2, Lữ đoàn Xe tăng 203, Quân đoàn 2. Chỉ huy xe tăng 843 tiến vào Dinh Độc Lập vào ngày 30 tháng 4 năm 1975, là người đầu tiên cắm cờ Mặt trận Dân tộc giải phóng miền Nam Việt Nam lên nóc Dinh Độc Lập). [Source: Presidential Decision No. 2045/QD-CTN dated Oct. 30, 2013 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2013]
@@ -10397,6 +10741,10 @@
 <!-- id: EVT-3165 -->
 *   **Dec. 5, 2013:** The Art of Don Ca Tai Tu Music and Song in Southern Vietnam was recognized by UNESCO as a heritage. [Source: UNESCO, Decision of the Intergovernmental Committee inscribing Don Ca Tai Tu Music and Song on Representative List, Dec. 5, 2013; Nhan Dan Newspaper]
 
+![Historical image](images/event_20260930_104256_2.webp)
+
+*Source: Don ca tai tu instruments of the South. Photo: Wikimedia Commons*
+
 <!-- id: EVT-3166 -->
 * **2014:** Hero of the People's Armed Forces Hồ Văn Bé (Trung đội trưởng đặc công huyện Chợ Gạo. Sau là Đại tá, Phó Sư đoàn trưởng Sư đoàn 8, Quân khu 9) passed away. [Source: Tien Giang Provincial Military Command; Military History Institute of Vietnam, Heroes of the People's Armed Forces]
 
@@ -10414,6 +10762,10 @@
 
 <!-- id: EVT-3171 -->
 *   **May 14, 2014:** The Nguyen Dynasty's imperial archives were recognized by UNESCO as a World Documentary Heritage. [Source: UNESCO, Decision of the MOWCAP at its 6th General Meeting (Guangzhou, 2014); State Records and Archives Management Department; Nhan Dan Newspaper]
+
+![Historical image](images/event_20260930_104256_3.webp)
+
+*Source: Chau Ban archives of the Nguyen dynasty. Photo: Wikimedia Commons*
 
 <!-- id: EVT-3172 -->
 *   **May 27, 2014:** The Ministry of National Defence established the Vietnam Peacekeeping Centre and officially deployed the first two officers to the UN Peacekeeping Mission in South Sudan (UNMISS), marking Vietnam's initial participation in UN peacekeeping operations. [Source: Defense Minister Decision No. 562/QD-BQP dated May 27, 2014 establishing Vietnam Peacekeeping Center; Vietnam Department of Peacekeeping Operations; People's Army Newspaper]
@@ -10593,6 +10945,10 @@
 <!-- id: EVT-3229 -->
 *   **Dec. 1, 2016:** The practice of worshipping the Mother Goddesses of the Three Realms by the Vietnamese people was recognized by UNESCO as a heritage. [Source: UNESCO, Decision of the Intergovernmental Committee inscribing Practices related to Viet beliefs in the Mother Goddesses of Three Realms on Representative List, Dec. 1, 2016; Nhan Dan Newspaper]
 
+![Historical image](images/event_20260930_102851_1.webp)
+
+*Source: Temple of the Mother Goddesses. Photo: Wikimedia Commons*
+
 <!-- id: EVT-3230 -->
 
 ### **Period of CPTPP & EVFTA Integration and Responding to COVID-19 (2017 - 2020)**
@@ -10622,6 +10978,10 @@
 
 <!-- id: EVT-3238 -->
 *   **Dec. 7, 2017:** The Bài Chòi art form of Central Vietnam was recognized as a heritage by UNESCO. [Source: UNESCO, Decision of the Intergovernmental Committee inscribing The Art of Bai Choi in Central Vietnam on Representative List, Dec. 7, 2017; Nhan Dan Newspaper]
+
+![Historical image](images/event_20260930_102851_2.webp)
+
+*Source: Bai choi festival of Central Vietnam. Photo: Wikimedia Commons*
 
 <!-- id: EVT-3239 -->
 * **2018:** Hero of the People's Armed Forces Võ Văn Mừng (Tiểu đội trưởng đặc công, phân liên khu Tây Nam Bộ. Sau là Trung tá, Chủ nhiệm Chính trị Đoàn 646 - Quân khu 7) passed away. [Source: Special Forces Command, History of the Special Forces (1967 - 2007), People's Army Publishing House, 2007; Stories of the War Era - Dong Thap inaugurates the statue of Hero Vo Van Mung, https://cauchuyenlichsu.vn/ky-uc-song-mai/dong-thap-khanh-thanh-tuong-anh-hung-llvt-nhan-dan-vo-van-mung]
@@ -10730,6 +11090,10 @@
 
 <!-- id: EVT-3274 -->
 *   **Dec. 12, 2019:** The Then ritual practices of the Tay, Nung, and Thai ethnic groups were recognized by UNESCO as a heritage. [Source: UNESCO, Decision of the Intergovernmental Committee inscribing Practices of Then by Tay, Nung, Thai on Representative List, Dec. 12, 2019; Nhan Dan Newspaper]
+
+![Historical image](images/event_20260930_102852.webp)
+
+*Source: Then singing with tinh lute. Photo: Wikimedia Commons*
 
 <!-- id: EVT-3275 -->
 * **2020:** Hero of the People's Armed Forces Nguyễn Văn Chánh (Trung tá, nguyên Phó chỉ huy trưởng động viên, Ban chỉ huy quân sự quận Thủ Đức. Tham gia trận đánh sân bay Biên Hòa, tiêu diệt nhiều sinh lực địch, phá hủy nhiều xe quân sự) passed away. [Source: Air Defense - Air Force Service, History of 921st Fighter Aviation Regiment (1964 - 2004), People's Army Publishing House, 2004; People's Army Newspaper]
@@ -11276,6 +11640,10 @@
 
 <!-- id: EVT-3452 -->
 *   **Sep. 10, 2026:** In Paris, on the sidelines of the official visit to the French Republic by General Secretary and State President To Lam, the French Ministry of Culture solemnly holds a handover ceremony to return an ancient Dong Son bronze drum to Vietnam. The artifact, dating back more than 2,000 years (around the 5th century BC), had been seized by French customs at Rennes airport in 2014 during an antiquities trafficking interception and subsequently preserved at the Museum of Fine Arts of Rennes. The ceremony is witnessed by First Lady Ngo Phuong Ly, French Minister of Culture Catherine Pégard, and Vietnamese Deputy Minister of Culture, Sports and Tourism Ta Quang Dong, exemplifying close bilateral cooperation in combating illicit trafficking of cultural property under the 1970 UNESCO Convention. [Source: Signing Ceremony of Strategic Cooperation Documents between Vietnam and France witnessed by Leaders, Sept. 10, 2026 in Paris; Nhan Dan Newspaper]
+
+![Historical image](images/event_20260930_104257_3.webp)
+
+*Source: Elysee Palace in Paris. Photo: Wikimedia Commons*
 
 <!-- id: EVT-3453 -->
 *   **Sep. 14 - 16, 2026:** King of Thailand Maha Vajiralongkorn (Rama X) and Queen Suthida pay a state visit to Vietnam at the invitation of General Secretary and State President To Lam. This is the first state visit by a reigning King of Thailand to Vietnam since the establishment of bilateral diplomatic relations in 1976, marking a historic milestone in neighboring friendship and the Comprehensive Strategic Partnership on the 50th anniversary of diplomatic relations. [Source: Ministry of Foreign Affairs Press Release on State Visit to Vietnam by King of Thailand Maha Vajiralongkorn and Queen, Sept. 16, 2026; Nhan Dan Newspaper]
