@@ -6,6 +6,7 @@ __pycache__/
 
 # Generated data & build artifacts
 timelines_data.js
+images/images.zip
 .build/
 noto.css
 
