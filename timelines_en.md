@@ -4863,6 +4863,10 @@
 <!-- id: EVT-1357 -->
 *   **Feb. 10, 1901:** Hoang Thi Loan (mother of President Ho Chi Minh) passed away in the imperial capital of Hue at the age of 33 following the birth of her fourth child, while her husband was away supervising exams in Thanh Hoa. Her eleven-year-old son Nguyen Sinh Cung (President Ho Chi Minh) and caring neighbors organized her funeral. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
+![Tomb of Hoang Thi Loan](images/event_20261002_163118.webp)
+
+*Source: Tomb of Hoang Thi Loan (mother of President Ho Chi Minh) in the Kim Lien relic complex, Nghi Loc district, Nghe An province / David Brewer (CC BY-SA 2.0)*
+
 <!-- id: EVT-1358 -->
 *   **May 18, 1901:** Phung Chi Kien (born Nguyen Vy) was born in Dien Yen commune, Dien Chau district, Nghe An province. He was a prominent early leader of the Communist Party, the first military commander of the Party, and the first general of the Vietnam People's Army. [Source: Central Committee of the Party, Comrade Phung Chi Kien – Exemplary Communist Soldier, National Political Publishing House, Hanoi, 2008]
 
@@ -5261,6 +5265,10 @@
 <!-- id: EVT-1465 -->
 *   **1921:** In Paris, Nguyen Ai Quoc along with revolutionary activists from French colonies (Algeria, Madagascar, Senegal, Guadeloupe, Martinique) founded the **Intercolonial Union** (Union Intercoloniale), establishing the first united solidarity front connecting liberation movements of oppressed peoples worldwide. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
+![Portrait of Nguyen Ai Quoc](images/event_20261002_163119_1.webp)
+
+*Source: Portrait of Nguyen Ai Quoc at the age of 30 in France / Hochiminh.vn (Public domain)*
+
 <!-- id: EVT-1466 -->
 *   **1921:** Poet Tản Đà founded *An Nam tạp chí* (Annam Magazine) in Hanoi, an influential literary and intellectual periodical that gathered prominent Vietnamese writers and intellectuals in the early 20th century. [Source: Huynh Van Tong, History of Vietnamese Press from Inception to 1945, Ho Chi Minh City Publishing House, 2000]
 
@@ -5306,6 +5314,10 @@
 
 <!-- id: EVT-1479 -->
 *   **Apr. 1, 1922:** The newspaper *Le Paria* (The Outcast) - the official voice of the Intercolonial Union founded, directed, and edited by Nguyen Ai Quoc - published its first issue in Paris, serving as a powerful weapon disseminating Marxism-Leninism and awakening anti-colonial movements. [Source: Le Paria – Sharp Weapon of Nguyen Ai Quoc (Nhan Dan Newspaper), https://nhandan.vn/bao-le-paria-nguoi-cung-kho-vu-khi-chien-dau-sac-ben-post691400.html]
+
+![Portrait of Ho Chi Minh dated 1922](images/event_20261002_163119_2.webp)
+
+*Source: Portrait of Ho Chi Minh dated 1922, when he edited the paper Le Paria in Paris / Getty Images (Public domain)*
 
 <!-- id: EVT-1480 -->
 *   **Jun. 1922:** Emperor Khai Dinh arrived in Marseille and Paris, becoming the first reigning Vietnamese monarch to officially visit France (bringing Crown Prince Vinh Thuy for study). [Source: Emperor Khai Dinh (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13776/vua-khai-dinh.html]
@@ -5356,6 +5368,10 @@
 
 <!-- id: EVT-1493 -->
 *   **1924:** Ngo May, a prominent hero of the Vietnam People's Armed Forces known for his suicide bomb attack against French forces, was born in Cat Chanh commune, Phu Cat district, Binh Dinh province. [Source: Military History Institute of Vietnam, Heroes of the People's Armed Forces, People's Army Publishing House, Hanoi]
+
+![Portrait of Hero Ngo May](images/event_20261002_163119_3.webp)
+
+*Source: Portrait of Hero Ngo May / Nguyen Thi Yen (Public domain)*
 
 <!-- id: EVT-1494 -->
 *   **Jan. 1924:** Le Huy Doan (later alias Le Hong Phong), alongside his fellow townsman Pham Hong Thai and several patriotic youths, crossed into Siam (Thailand) and proceeded to Guangzhou (China), joining Tam Tam Xa and committing to full-time revolutionary struggle. [Source: Comrade Le Hong Phong – Outstanding Leader of the Party (Nhan Dan Newspaper), https://nhandan.vn/dong-chi-le-hong-phong-nha-lanh-dao-xuat-sac-cua-dang-va-cach-mang-viet-nam-post713500.html]
@@ -5976,6 +5992,10 @@
 <!-- id: EVT-1675 -->
 *   **May 15, 1941:** The Children's Alliance for National Salvation (predecessor of the Ho Chi Minh Young Pioneer Organization) is established in Na Ma (Cao Bang), with Kim Dong (Nong Van Den) elected as its first leader. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
+![Statue of Hero Kim Dong](images/event_20261002_163119_4.webp)
+
+*Source: Statue of Hero Kim Dong (Nong Van Den) in Nung costume, raising a messenger dove / Phuong Huy (Public domain)*
+
 <!-- id: EVT-1676 -->
 *   **Jul. 28, 1941:** Expanding its aggressive expansion, the Japanese Empire officially advanced military forces into southern Indochina (Cochinchina), occupying Saigon, Cam Ranh, and strategic military bases. This move finalized Japanese military domination over all of Vietnam, turning the country into a forward staging ground and key logistics springboard to launch its imperialist expansion across Southeast Asia during World War II. [Source: Institute of History, History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017; Nhan Dan Newspaper]
 
@@ -5990,6 +6010,10 @@
 
 <!-- id: EVT-1680 -->
 *   **Aug. 27, 1942 - Sep. 10, 1943:** Ho Chi Minh was unlawfully detained by Chinese Nationalist local authorities in Tuc Vinh (Guangxi). During over 13 months of harsh detention transferred across nearly 30 jails in 13 Guangxi counties, he composed the immortal classical Chinese poetry collection *Prison Diary* (*Nguc Trung Nhat Ky*) containing 133 poems, before being released in Liuzhou on September 10, 1943. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
+
+![Last page of the Prison Diary](images/event_20261002_163119_5.webp)
+
+*Source: Page 53 with the last two poems of the Prison Diary, dated August 29, 1942 - September 10, 1943 above the word "Hoan" (The End) / 7ieulong (Public domain)*
 
 <!-- id: EVT-1681 -->
 *   **Sep. 6, 1942:** Former General Secretary **Le Hong Phong** breathed his last and heroically passed away in Cell No. 5 of Banh II at Con Dao Prison on his 40th birthday, following years of brutal torture and mistreatment by French jailers. Before departing, he left an immortal pledge: *"Greetings to all comrades. Please tell the Party that until my very last breath, Le Hong Phong firmly believes in the glorious victory of the revolution"*. [Source: Comrade Le Hong Phong – Outstanding Leader of the Party (Nhan Dan Newspaper), https://nhandan.vn/dong-chi-le-hong-phong-nha-lanh-dao-xuat-sac-cua-dang-va-cach-mang-viet-nam-post713500.html]
@@ -6023,6 +6047,10 @@
 
 <!-- id: EVT-1691 -->
 *   **Feb. 15, 1943:** Hero Kim Dong (Nong Van Den), leader of the Children's Alliance for National Salvation, courageously falls at age 14 while distracting French forces to protect revolutionary cadres in Pac Bo (Cao Bang). [Source: Vietnam National Museum of History - Kim Dong (1928-1943): First Squad Leader of the Vanguard Youth Brigade, https://baotanglichsu.vn/vi/Articles/3096/13247/kim-djong-1928-1943-doi-truong-djoi-dau-tien-cua-doi-thieu-nien-tien-phong.html]
+
+![Tomb of Hero Kim Dong](images/event_20261002_163119_6.webp)
+
+*Source: Tomb of Hero Kim Dong and the monument within the cemetery, Cao Bang province / Leminhel (CC BY-SA 3.0)*
 
 <!-- id: EVT-1692 -->
 *   **Apr. 24, 1943:** The newspaper *Tieng Dan*, founded by Huynh Thuc Khang, published its final issue (Issue No. 1766) before being permanently banned by the French colonial administration after nearly 16 years of persistent advocacy for the people's rights. [Source: Patriotic Scholar Huynh Thuc Khang (Nhan Dan Newspaper), https://nhandan.vn/chi-si-yeu-nuoc-huynh-thuc-khang-nha-lanh-dao-tien-boi-tieu-bieu-cua-dang-va-cach-mang-viet-nam-post670559.html]
@@ -6099,6 +6127,10 @@
 
 <!-- id: EVT-1715 -->
 *   **Mar. 29, 1945:** Ho Chi Minh met with Major General Claire Lee Chennault, Commander of the 14th Air Force of the US Army Air Forces, in Kunming (China), establishing initial contact between the Viet Minh and the US. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
+
+![Maj. Gen. Claire L. Chennault](images/event_20261002_163120.webp)
+
+*Source: Maj. Gen. Claire L. Chennault, July 23, 1945 / US National Archives and Records Administration (NARA, Public domain)*
 
 <!-- id: EVT-1716 -->
 *   **Apr. 17, 1945:** The puppet government of Tran Trong Kim was established under Japanese protection. [Source: Vietnam National Museum of History - The Tran Trong Kim Government (April-August 1945), https://baotanglichsu.vn/vi/Articles/3097/16606/chinh-phu-tran-trong-kim-4-1945-8-1945.html]
@@ -6181,6 +6213,10 @@
 <!-- id: EVT-1738 -->
 *   **Aug. 28, 1945:** The Vietnam National Liberation Committee was reorganized into the Provisional Government of the Democratic Republic of Vietnam headed by President Ho Chi Minh; comrade Vo Nguyen Giap was appointed Minister of Internal Affairs and placed in charge of military affairs. Simultaneously, 200,000 Kuomintang troops under Lu Han began entering northern Vietnam (north of the 16th parallel) ostensibly to disarm Japanese forces. [Source: Vietnam National Museum of History - The National Liberation Committee Reorganized as the Provisional Government (Aug. 28, 1945), https://baotanglichsu.vn/vi/Articles/3097/16633/uy-ban-dan-toc-giai-phong-cai-to-thanh-chinh-phu-lam-thoi-28-8-1945.html]
 
+![Ho Chi Minh and Vo Nguyen Giap](images/event_20261002_163120_1.webp)
+
+*Source: President Ho Chi Minh and comrade Vo Nguyen Giap, 1945 / Public domain*
+
 <!-- id: EVT-1739 -->
 *   **Aug. 30, 1945:** Emperor Bao Dai read the Abdication Edict in Hue, ending the feudal regime in Vietnam. [Source: https://nhandan.vn/ngay-3081945-vua-bao-dai-thoai-vi-post902540.html]
 
@@ -6233,6 +6269,10 @@
 <!-- id: EVT-1750 -->
 *   **Sep. 10, 1945:** Following his abdication in Hue ('preferring to be a citizen of a free nation rather than the ruler of an enslaved one'), former Emperor Bao Dai (citizen Nguyen Vinh Thuy) accepted President Ho Chi Minh's invitation and was formally appointed **Supreme Advisor to the Provisional Government of the Democratic Republic of Vietnam** under Decree No. 23-SL. [Source: Emperor Bao Dai (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13777/vua-bao-dai.html]
 
+![Ho Chi Minh, Bao Dai and Siphanouvong](images/event_20261002_163120_2.webp)
+
+*Source: Ho Chi Minh, Bao Dai and Laotian Prince Siphanouvong at the meeting on September 4, 1945 / US Army Center for Military History (Public domain)*
+
 <!-- id: EVT-1751 -->
 *   **Sep. 11, 1945:** General Gracey, commander of the British forces, arrived in Saigon. [Source: History of Vietnam (Vol. 10: 1945–1954), Social Sciences Publishing House, Hanoi, 2017]
 
@@ -6248,8 +6288,16 @@
 <!-- id: EVT-1755 -->
 *   **Sep. 26, 1945:** President Ho Chi Minh issued an appeal to the people of the South to resist. The first Southward March detachment left Hanoi for the South to fight. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
+![Hanoi Opera House, November 5, 1945](images/event_20261002_163120_3.webp)
+
+*Source: Hanoi Opera House, November 5, 1945: the "Day of Resistance" rally supporting the struggle of the people of Southern Vietnam / Public domain*
+
 <!-- id: EVT-1756 -->
 *   **Sep. 28, 1945:** President Ho Chi Minh issued an urgent appeal to the nation for famine relief, launching the "Hunger Relief Rice Jar" (Hũ gạo cứu đói) movement and calling on citizens to skip one meal every ten days to share food with the needy. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
+
+![Famine Eradication Day conference](images/event_20261002_163120_4.webp)
+
+*Source: Hanoi: Famine Eradication Day, October 11, 1945; front row: Nguyen Van To, Maj. Gen. Philip E. Gallagher, President Ho Chi Minh, advisor Vinh Thuy; Ngo Tu Ha speaking / Ministry of Information and Propaganda (Public domain)*
 
 <!-- id: EVT-1757 -->
 *   **Oct. 1945:** Huynh Tan Phat led the Southern Youth delegation to Hanoi to attend the National Youth Congress. [Source: Architect Huynh Tan Phat – Life and Career (Nhan Dan Newspaper), https://nhandan.vn/kien-truc-su-huynh-tan-phat-post738200.html]
@@ -6331,6 +6379,10 @@
 
 *Source: Delegates to the first session of the 1st National Assembly at the Hanoi Opera House, Mar. 2, 1946 / TTXVN*
 
+![Resistance Coalition Government](images/event_20261002_163120_5.webp)
+
+*Source: The Resistance Coalition Government of the Democratic Republic of Vietnam, 1946 / Government of Vietnam (Public domain)*
+
 <!-- id: EVT-1780 -->
 *   **Mar. 6, 1946:** President Ho Chi Minh and Vu Hong Khanh, on behalf of the Vietnamese Government, signed the Preliminary Agreement with J. Sainteny, representative of the French Government. [Source: Vietnam Government Portal - Diplomatic lessons prior to National Resistance Day, https://baochinhphu.vn/nhung-bai-hoc-ngoai-giao-truoc-ngay-toan-quoc-khang-chien-102213930.htm]
 
@@ -6389,6 +6441,10 @@
 <!-- id: EVT-1797 -->
 *   **May 31, 1946:** President Ho Chi Minh departed for an official state visit to France, entrusting Huynh Thuc Khang as Acting State President and Acting Head of Government with the famous maxim "Adapt to all changes with an unchanging purpose" (Di bat bien, ung van bien) to steer the fledgling republic through perilous times until Oct. 21, 1946. [Source: People's Army Newspaper - Adapting to all changes with an unchanging purpose, https://ct.qdnd.vn/clb-chien-si/di-bat-bien-ung-van-bien-530799]
 
+![Seeing off President Ho Chi Minh for France](images/event_20261002_163120_6.webp)
+
+*Source: Representatives of the French Government and the Chiang Kai-shek Government at Gia Lam Airport, Hanoi, seeing off President Ho Chi Minh on his departure for France, May 31, 1946 / Public domain*
+
 <!-- id: EVT-1798 -->
 *   **Jun. 1, 1946:** In Saigon, High Commissioner D'Argenlieu announced the establishment of the "Autonomous Republic of Cochinchina." [Source: Vietnam National Museum of History - The "Autonomous Republic of Cochinchina" (June 1, 1946), https://baotanglichsu.vn/vi/Articles/3097/16628/nuoc-cong-hoa-tu-tri-nam-ky-01-06-1946.html]
 
@@ -6411,6 +6467,10 @@
 
 *Source: President Ho Chi Minh delivering a speech at Paris City Hall in July 1946 / Getty Images*
 
+![Ho Chi Minh with expatriates in France](images/event_20261002_163120_7.webp)
+
+*Source: Ho Chi Minh in conversation with Vietnamese expatriates in France, 1946 / Public domain*
+
 <!-- id: EVT-1804 -->
 *   **Jul. 6, 1946:** The Fontainebleau Conference opened. [Source: Nhan Dan Newspaper - National Resistance: Affirming national dignity, https://nhandan.vn/toan-quoc-khang-chien-khang-dinh-pham-gia-dan-toc-post678920.html]
 
@@ -6422,6 +6482,10 @@
 
 <!-- id: EVT-1807 -->
 *   **Jul. 24, 1946:** While the formal French-Vietnamese negotiations at Fontainebleau were deadlocked, President Ho Chi Minh engaged in active "corridor diplomacy." He met with French Minister Pierre Cot, National Assembly President Vincent Auriol, and French Communist Party leader Jacques Duclos. In an interview with the French press on the same day, he emphasized that France recognizing Vietnam's independence would enhance its honor and influence far more than using war or coercion. [Source: History of Vietnam (Vol. 10: 1945–1954), Social Sciences Publishing House, Hanoi, 2017]
+
+![Vietnamese delegation at Fontainebleau](images/event_20261002_163121.webp)
+
+*Source: Minister Nguyen Van Huyen (second from left) in the Vietnamese Government delegation at the Fontainebleau negotiations (France), 1946 / Public domain*
 
 <!-- id: EVT-1808 -->
 *   **Aug. 1, 1946:** D'Argenlieu convened the Conference of the Indochinese Federation in Da Lat, sabotaging the Fontainebleau Conference. [Source: History of Vietnam (Vol. 10: 1945–1954), Social Sciences Publishing House, Hanoi, 2017]
@@ -6441,6 +6505,10 @@
 
 <!-- id: EVT-1812 -->
 *   **Sep. 14, 1946:** During his nearly five-month official state visit to France, President Ho Chi Minh signed the **Franco-Vietnamese Modus Vivendi** with French Overseas Minister Marius Moutet in Paris, making concessions on certain economic and cultural interests to gain vital peace time to strengthen the revolutionary administration and prepare for national resistance. [Source: Vietnam National Museum of History - 67th anniversary of signing the Franco-Vietnamese Modus Vivendi (Sep. 14, 1946 - Sep. 14, 2013), https://baotanglichsu.vn/vi/Articles/3097/15067/67-nam-ky-ket-tam-uoc-viet-phap-14-9-1946-14-9-2013.html]
+
+![Ho Chi Minh and Marius Moutet](images/event_20261002_163121_1.webp)
+
+*Source: Ho Chi Minh and Minister Marius Moutet shaking hands after signing the Franco-Vietnamese modus vivendi / French Government (Public domain)*
 
 <!-- id: EVT-1813 -->
 *   **Sep. 21, 1946:** The Vietnam Democratic Social Party (Dan Chu Xa Hoi Dang or Dan Xa) was founded by Huynh Phu So, the founder of Hoa Hao Buddhism. [Source: History of Vietnam (Vol. 10: 1945–1954), Social Sciences Publishing House, Hanoi, 2017]
@@ -6666,6 +6734,10 @@
 
 <!-- id: EVT-1878 -->
 *   **Late 1947 (Oct. 20 or Dec. 11):** Battle of Suoi Voi bridge (An Khe, Binh Dinh). Hero Ngo May sacrificed his life by charging at a French armored vehicle with a bomb. His heroic action destroyed the vehicle and a platoon of enemy troops, turning the tide of the battle and securing a victory for the Vietnamese forces. [Source: Binh Dinh Provincial Military Command, History of the People's Armed Forces of Binh Dinh (1945 - 2000), People's Army Publishing House, Hanoi, 2002]
+
+![Monument to Hero Ngo May](images/event_20261002_163121_2.webp)
+
+*Source: Monument to Hero Ngo May (modern photograph) / Wikimedia Commons (CC BY-SA 4.0)*
 
 <!-- id: EVT-1879 -->
 *   **Nov. 29, 1947:** French colonial expeditionary forces raided My Trach village (My Thuy commune, Le Thuy district, Quang Binh province), herding 326 unarmed civilians (mostly pregnant women, the elderly, and children) to the foot of My Trach Bridge by the Kien Giang River before slaughtering them with machine guns and torching over 300 homes, completely wiping out entire family lineages. [Source: Quang Binh Provincial Party Committee, History of Quang Binh Provincial Party Committee, Vol. 1 (1930 - 1954), National Political Publishing House, Hanoi, 1995; My Trach Massacre National Monument]
@@ -7056,6 +7128,10 @@
 <!-- id: EVT-1999 -->
 *   **May 19, 1952:** President Ho Chi Minh signs a decree conferring the title of Hero of the People's Armed Forces in the first nationwide award to La Van Cau and outstanding soldiers at the First National Emulation Congress. [Source: Government News Portal - Senior Colonel, Hero of the People's Armed Forces La Van Cau passes away, https://baochinhphu.vn/dai-ta-anh-hung-luc-luong-vu-trang-nhan-dan-la-van-cau-tu-tran-10226062509124879.htm]
 
+![Colonel La Van Cau](images/event_20261002_163121_3.webp)
+
+*Source: Colonel, Hero of the People's Armed Forces La Van Cau in 2009 / Luong Van Phuc (CC BY 2.0)*
+
 <!-- id: EVT-2000 -->
 *   **Mid-1952:** Georges Boudarel was assigned to march north to the Viet Bac resistance base, an arduous six-month journey on foot. In Viet Bac, he was assigned to teach politics at Camp 113, enduring severe privations to re-educate prisoners of war, primarily French and African officers, transforming many into peace advocates. [Source: Georges Boudarel, Memoirs of a Frenchman in the Vietminh, Editions Bernard Grasset, Paris, 1991]
 
@@ -7352,6 +7428,10 @@
 <!-- id: EVT-2079 -->
 *   **Sep. 19, 1954:** At Giếng Temple within the Hùng Kings Temple historical site (Phú Thọ), President Hồ Chí Minh met and delivered an address to cadres and soldiers of Division 308 (Vanguard Division) before their march to take over the capital Hanoi. During this historic gathering, he gave the immortal instruction: *"The Hùng Kings founded the nation; we must together defend and protect it."* This sacred counsel paid profound tribute to ancestral nation-builders while crystallizing the enduring imperative of Vietnamese history—nation-building must go hand in hand with nation-defending—entrusting the armed forces and future generations with the historic mission of safeguarding the fatherland's independence and territorial unity. [Source: https://nhandan.vn/tuong-dai-bac-ho-voi-ngay-hoi-non-song-bieu-tuong-cua-tinh-than-dai-doan-ket-toan-dan-toc-post984471.html]
 
+![President Ho Chi Minh with Division 308](images/event_20261002_163121_4.webp)
+
+*Source: President Ho Chi Minh talking with the soldiers of Division 308 / VietnamNet (Public domain)*
+
 <!-- id: EVT-2080 -->
 *   **Oct. 1954:** Following the Geneva Accords, Dinh Thi Van received orders to secretly relocate to the South to build an intelligence network in Saigon. To protect her cover as a refugee merchant, the revolutionary leadership issued a fake death sentence against her for "betraying the Party." [Source: Party Central Committee, Party Documents, Vol. 15, National Political Publishing House, Hanoi, 2001]
 
@@ -7582,6 +7662,10 @@
 <!-- id: EVT-2141 -->
 *   **Feb. 1958 - Mar. 1959:** President Ho Chi Minh paid historic official goodwill visits to the Republic of India and the Union of Burma (Myanmar) in February 1958, and the Republic of Indonesia in February-March 1959, consolidating solidarity and friendship with the Non-Aligned Movement and Asian-African nations. [Source: Ministry of Foreign Affairs, History of Vietnamese Diplomacy (1945 - 2000), National Political Publishing House, Hanoi, 2002; Ho Chi Minh Museum]
 
+![Ho Chi Minh in New Delhi, 1958](images/event_20261002_163121_5.webp)
+
+*Source: President Ho Chi Minh escorted by Indian President Rajendra Prasad (left) and Prime Minister Jawaharlal Nehru (right) after arriving in New Delhi, 1958 / Public domain*
+
 <!-- id: EVT-2142 -->
 *   **May 1, 1958:** The BAJARAKA movement was founded by ethnic minority intellectuals in the Central Highlands to demand rights and fight discrimination. [Source: Institute of History, History of Vietnam, Vol. 11 (1954 - 1965), Social Sciences Publishing House, Hanoi, 2014; People's Army Newspaper]
 
@@ -7662,6 +7746,10 @@
 
 <!-- id: EVT-2164 -->
 *   **Dec. 31, 1959:** At its 11th session, the 1st National Assembly unanimously adopted the new Constitution of the Democratic Republic of Vietnam (the 1959 Constitution, promulgated by President Ho Chi Minh on January 1, 1960). It served as the fundamental law for socialist construction in the North and the struggle for national reunification. [Source: 1st National Assembly, Resolution Adopting the Constitution of the Democratic Republic of Vietnam, Dec. 31, 1959; National Assembly Portal; Nhan Dan Newspaper]
+
+![Decree promulgating the 1959 Constitution](images/event_20261002_163121_6.webp)
+
+*Source: Decree 01-SL dated January 1, 1960 by President Ho Chi Minh promulgating the 1959 Constitution / Government of the Democratic Republic of Vietnam (Public domain)*
 
 <!-- id: EVT-2165 -->
 *   **1960:** Le Thi Tuyet (Tra Cu) returned to Ngai Xuyen commune, Tra Cu district, joining the movement to establish armed forces and participating until 1975. [Source: Tra Vinh Provincial Women's Union, History of the Women's Movement in Tra Vinh Province (1930 - 2000); Tra Vinh Newspaper]
@@ -8034,6 +8122,10 @@
 
 <!-- id: EVT-2266 -->
 *   **Oct. 15, 1964:** At 09:45 AM, Nguyễn Văn Trỗi was executed by firing squad at Chi Hòa Prison in Saigon at age 24. Before his execution, he ripped off his blindfold and shouted: "Keep my words in mind! Down with US imperialism! Down with Nguyen Khanh! Long live Ho Chi Minh! Long live Vietnam!", becoming an enduring symbol of heroism. [Source: Nhan Dan Newspaper - Troi's words, shining like steel, https://nhandan.vn/loi-anh-troi-sang-ngoi-anh-thep-post560644.html]
+
+![Statue of Nguyen Van Troi](images/event_20261002_163121_7.webp)
+
+*Source: Reproduction of the bronze statue "Nguyen Van Troi" by sculptor Nguyen Hai (1994), held at the Ho Chi Minh City Fine Arts Museum / Wikimedia Commons (CC BY 4.0)*
 
 <!-- id: EVT-2267 -->
 *   **Oct. 17, 1964:** The Central Committee of the National Liberation Front for South Vietnam held an extraordinary session and posthumously awarded Nguyễn Văn Trỗi the title Hero of the People's Liberation Armed Forces and the First Class Iron Fort Medal. [Source: Central Committee of the National Liberation Front for South Vietnam, Posthumous Award Decision of October 17, 1964; Co Giai Phong Newspaper; Nhan Dan Newspaper]
@@ -9743,6 +9835,10 @@
 <!-- id: EVT-2765 -->
 * **1980:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Hồ Thị Bi (Nữ chỉ huy quân sự kiên cường trong hai cuộc kháng chiến chống Pháp và chống Mỹ, được Chủ tịch Hồ Chí Minh đặt biệt danh "Nữ kiệt miền Đông"). [Source: Presidential Decision conferring Hero of the People's Armed Forces in 1980; HCM City Party Committee Commission for Propaganda; People's Army Newspaper]
 
+![Letter to Ho Thi Bi](images/event_20261002_163122.webp)
+
+*Source: Letter from the Southern Vietnam Party Committee to Ho Thi Bi (alias Ba Bi), 1951, exhibited at the Vietnamese Women's Museum, Hanoi / Daderot (CC0)*
+
 <!-- id: EVT-2766 -->
 *   **Mar. 30, 1980:** President Ton Duc Thang passed away. Vice President **Nguyen Huu Tho** served as Acting President (until July 1981). [Source: Special Communique of the Party Central Committee, National Assembly, and Government on State Funeral of President Ton Duc Thang; National Assembly Documents, Vol. 5 (1976 - 1981), National Political Publishing House, 2008]
 
@@ -10262,6 +10358,10 @@
 
 <!-- id: EVT-2923 -->
 *   **1995:** The Party and State posthumously awarded Nguyễn Văn Trỗi the title Hero of the People's Armed Forces. [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 1995; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
+
+![Monument to Nguyen Van Troi](images/event_20261002_163122_1.webp)
+
+*Source: Monument to Nguyen Van Troi in District 3, Ho Chi Minh City / Phuong Huy (Public domain)*
 
 <!-- id: EVT-2924 -->
 *   **1995:** During the severe US and international embargo against Iraq, Vietnamese Ambassador to Iraq Nguyen Quang Khai successfully persuaded Vinafood 1 to deliver a ship carrying 25,000 - 30,000 tons of rice to Iraq on credit. This marked the beginning of Vietnam becoming a major rice supplier to Iraq under the UN's "Oil for Food" program. [Source: Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, National Political Publishing House, Hanoi, 2002; Nhan Dan Newspaper]
@@ -10907,6 +11007,10 @@
 <!-- id: EVT-3111 -->
 * **2011:** Hero of the People's Armed Forces Hồ Thị Bi (Nữ chỉ huy quân sự kiên cường trong hai cuộc kháng chiến chống Pháp và chống Mỹ, được Chủ tịch Hồ Chí Minh đặt biệt danh "Nữ kiệt miền Đông") passed away. [Source: Communique of HCM City Authorities and Military Region 7 Command, Oct. 12, 2011; Sai Gon Giai Phong Newspaper, Oct. 13, 2011]
 
+![Portrait of Ho Thi Bi](images/event_20261002_163122_2.webp)
+
+*Source: Portrait of Ho Thi Bi, 1969 / CalCoWSpiBudSu (CC BY-SA 4.0)*
+
 <!-- id: EVT-3112 -->
 * **2011:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Hồ Hảo Hớn (Bí thư Thành Đoàn đầu tiên của Sài Gòn - Gia Định). [Source: Presidential Order posthumously conferring Hero of the People's Armed Forces in 2011; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2011]
 
@@ -11130,6 +11234,10 @@
 
 <!-- id: EVT-3175 -->
 *   **Aug. 22, 2014:** Vo Thi Thang (former Member of the Party Central Committee for the 8th and 9th terms, former General Director of the Vietnam National Administration of Tourism, National Assembly Deputy for the 9th, 10th, and 11th terms, and the figure in the historic photo *"The Smile of Victory"*) passed away in Ho Chi Minh City at the age of 69. [Source: Special Communique of Party Central Committee, Vietnam National Administration of Tourism, Vietnam Women's Union, Aug. 22, 2014; Tuoi Tre Newspaper; Nhan Dan Newspaper, Aug. 23, 2014]
+
+![Ms. Vo Thi Thang in New Delhi, 2004](images/event_20261002_163123.webp)
+
+*Source: Ms. Vo Thi Thang, Director General of the Vietnam National Administration of Tourism, at bilateral talks with India in New Delhi, October 18, 2004 / Government of India (GODL-India)*
 
 <!-- id: EVT-3176 -->
 * **21/10/2014:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Nguyễn Như Trang (Tiểu đoàn phó tiểu đoàn 150, Trung đoàn 52 Tây Tiến. Hy sinh khi đang đi trinh sát tại Lạc Sơn, Hòa Bình). [Source: Presidential Decision No. 2736/QD-CTN dated Oct. 21, 2014 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2014]

@@ -4863,6 +4863,10 @@
 <!-- id: EVT-1357 -->
 *   **10/02/1901:** Bà Hoàng Thị Loan (thân mẫu Chủ tịch Hồ Chí Minh) qua đời tại kinh đô Huế ở tuổi 33 sau khi sinh người con thứ tư, trong hoàn cảnh chồng đang đi coi thi ở Thanh Hóa. Người con trai mười một tuổi Nguyễn Sinh Cung (Chủ tịch Hồ Chí Minh) đã cùng bà con chòm xóm lo liệu tang lễ cho mẹ. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
+![Mộ bà Hoàng Thị Loan](images/event_20261002_163118.webp)
+
+*Nguồn: Mộ bà Hoàng Thị Loan (mẹ Chủ tịch Hồ Chí Minh) trong khu di tích Kim Liên, huyện Nghi Lộc, tỉnh Nghệ An / David Brewer (CC BY-SA 2.0)*
+
 <!-- id: EVT-1358 -->
 *   **18/05/1901:** Phùng Chí Kiên (tên khai sinh là Nguyễn Vỹ) sinh tại xã Diễn Yên, huyện Diễn Châu, tỉnh Nghệ An. Ông là một trong những nhà lãnh đạo tiền bối xuất sắc của Đảng, chỉ huy quân sự đầu tiên của Đảng Cộng sản Việt Nam và là vị tướng đầu tiên của Quân đội nhân dân Việt Nam. [Nguồn: Ban Chấp hành Trung ương Đảng, Đồng chí Phùng Chí Kiên – Người chiến sĩ cộng sản mẫu mực, NXB Chính trị Quốc gia, Hà Nội, 2008]
 
@@ -5261,6 +5265,10 @@
 <!-- id: EVT-1465 -->
 *   **1921:** Tại Paris, Nguyễn Ái Quốc cùng các nhà hoạt động cách mạng đến từ các xứ thuộc địa của Pháp (Algérie, Madagascar, Sénégal, Guadeloupe, Martinique...) thành lập **Hội Liên hiệp Thuộc địa** (Union Intercoloniale), tổ chức mặt trận đoàn kết đầu tiên kết nối phong trào đấu tranh của các dân tộc bị áp bức trên toàn thế giới. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
+![Chân dung Nguyễn Ái Quốc](images/event_20261002_163119_1.webp)
+
+*Nguồn: Chân dung Nguyễn Ái Quốc ở tuổi 30 tại Pháp / Hochiminh.vn (Public domain)*
+
 <!-- id: EVT-1466 -->
 *   **1921:** Nhà thơ Tản Đà sáng lập *An Nam tạp chí* tại Hà Nội, một trong những tờ báo văn học và tư tưởng có ảnh hưởng sâu rộng trong giới trí thức, văn nghệ sĩ Việt Nam thời kỳ đầu thế kỷ XX. [Nguồn: Huỳnh Văn Tòng, Lịch sử báo chí Việt Nam từ khởi thủy đến năm 1945, NXB TP. Hồ Chí Minh, 2000]
 
@@ -5306,6 +5314,10 @@
 
 <!-- id: EVT-1479 -->
 *   **01/04/1922:** Báo *Le Paria* (Người cùng khổ) - cơ quan ngôn luận của Hội Liên hiệp Thuộc địa do Nguyễn Ái Quốc sáng lập kiêm chủ nhiệm và chủ bút - xuất bản số đầu tiên tại Paris, trở thành vũ khí sắc bén truyền bá chủ nghĩa Mác-Lênin và thức tỉnh tinh thần đấu tranh của các dân tộc thuộc địa. [Nguồn: Báo Le Paria – Vũ khí chiến đấu sắc bén của Nguyễn Ái Quốc (Báo Nhân Dân), https://nhandan.vn/bao-le-paria-nguoi-cung-kho-vu-khi-chien-dau-sac-ben-post691400.html]
+
+![Chân dung Hồ Chí Minh năm 1922](images/event_20261002_163119_2.webp)
+
+*Nguồn: Chân dung Nguyễn Ái Quốc năm 1922, trong thời kỳ ông biên tập báo Le Paria tại Paris / Getty Images (Public domain)*
 
 <!-- id: EVT-1480 -->
 *   **06/1922:** Vua Khải Định đến Marseille và Paris (Pháp), trở thành vị vua đầu tiên của triều Nguyễn chính thức sang thăm Pháp (đưa Đông cung Thái tử Vĩnh Thụy đi du học). [Nguồn: Vua Khải Định (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13776/vua-khai-dinh.html]
@@ -5356,6 +5368,10 @@
 
 <!-- id: EVT-1493 -->
 *   **1924:** Ngô Mây, người anh hùng tiêu biểu của Lực lượng Vũ trang Nhân dân Việt Nam nổi tiếng với chiến công ôm bom quyết tử đánh xe tăng Pháp, sinh ra tại xã Cát Chánh, huyện Phù Cát, tỉnh Bình Định. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng Vũ trang Nhân dân, NXB Quân đội Nhân dân, Hà Nội]
+
+![Chân dung Anh hùng Ngô Mây](images/event_20261002_163119_3.webp)
+
+*Nguồn: Chân dung Anh hùng Ngô Mây / Nguyễn Thi Yên (Public domain)*
 
 <!-- id: EVT-1494 -->
 *   **01/1924:** Lê Huy Doãn (sau mang bí danh Lê Hồng Phong) cùng bạn cùng quê là Phạm Hồng Thái và một số thanh niên yêu nước vượt biên sang Xiêm (Thái Lan) rồi tới Quảng Châu (Trung Quốc), gia nhập Tâm Tâm xã và dấn thân vào con đường hoạt động cách mạng chuyên nghiệp. [Nguồn: Đồng chí Lê Hồng Phong – Nhà lãnh đạo xuất sắc của Đảng (Báo Nhân Dân), https://nhandan.vn/dong-chi-le-hong-phong-nha-lanh-dao-xuat-sac-cua-dang-va-cach-mang-viet-nam-post713500.html]
@@ -5976,6 +5992,10 @@
 <!-- id: EVT-1675 -->
 *   **15/05/1941:** Đội Nhi đồng Cứu quốc (tiền thân của Đội Thiếu niên Tiền phong Hồ Chí Minh) được thành lập tại Nà Mạ (Cao Bằng), Kim Đồng (Nông Văn Dền) được bầu làm Đội trưởng đầu tiên. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
+![Tượng Anh hùng Kim Đồng](images/event_20261002_163119_4.webp)
+
+*Nguồn: Tượng Anh hùng Kim Đồng (Nông Văn Dền) trong bộ quần áo dân tộc Nùng, tay nâng cao con chim bồ câu đưa thư / Phương Huy (Public domain)*
+
 <!-- id: EVT-1676 -->
 *   **28/07/1941:** Phát xít Nhật mở rộng xâm lược, chính thức tiến quân vào miền Nam Đông Dương (Nam Kỳ), chiếm đóng Sài Gòn, Cam Ranh và các căn cứ quân sự trọng yếu. Động thái này hoàn tất việc đặt ách thống trị quân sự của Nhật trên toàn cõi Việt Nam, biến Việt Nam thành bàn đạp tác chiến và căn cứ hậu cần then chốt để phát động chiến dịch bành trướng xâm lược xuống Đông Nam Á trong Thế chiến II. [Nguồn: Viện Sử học, Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017; Báo Nhân Dân]
 
@@ -5990,6 +6010,10 @@
 
 <!-- id: EVT-1680 -->
 *   **27/08/1942 - 10/09/1943:** Hồ Chí Minh bị chính quyền địa phương Quốc dân Đảng Trung Quốc bắt giam trái phép tại Túc Vinh (Quảng Tây). Trong hơn 13 tháng bị giải qua gần 30 nhà giam thuộc 13 huyện của tỉnh Quảng Tây, Người đã sáng tác tập thơ chữ Hán bất hủ *Nhật ký trong tù* (*Ngục trung nhật ký*) gồm 133 bài thơ, trước khi được trả tự do tại Liễu Châu vào ngày 10/09/1943. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
+
+![Tờ cuối Nhật ký trong tù](images/event_20261002_163119_5.webp)
+
+*Nguồn: Tờ 53 chép hai bài thơ cuối tập Nhật ký trong tù, ghi cặp ngày 29/8/1942 - 10/9/1943 phía trên chữ "Hoàn" / 7ieulong (Public domain)*
 
 <!-- id: EVT-1681 -->
 *   **06/09/1942:** Nguyên Tổng Bí thư **Lê Hồng Phong** trút hơi thở cuối cùng và kiên cường hy sinh tại xà lim số 5 Banh II, nhà tù Côn Đảo đúng vào ngày sinh nhật lần thứ 40, sau chuỗi ngày bị địch tra tấn tàn bạo và hành hạ thể xác. Trước lúc hy sinh, ông gửi lại lời trăn trối bất hủ: *"Xin chào tất cả các đồng chí. Nhờ các đồng chí nói với Đảng rằng: Tới giờ phút cuối cùng, Lê Hồng Phong vẫn một lòng tin tưởng ở thắng lợi vẻ vang của cách mạng"*. [Nguồn: Đồng chí Lê Hồng Phong – Nhà lãnh đạo xuất sắc của Đảng (Báo Nhân Dân), https://nhandan.vn/dong-chi-le-hong-phong-nha-lanh-dao-xuat-sac-cua-dang-va-cach-mang-viet-nam-post713500.html]
@@ -6023,6 +6047,10 @@
 
 <!-- id: EVT-1691 -->
 *   **15/02/1943:** Anh hùng Kim Đồng (Nông Văn Dền), Đội trưởng Đội Nhi đồng Cứu quốc, dũng cảm hy sinh ở tuổi 14 khi làm nhiệm vụ canh gác, đánh lạc hướng quân Pháp để bảo vệ cán bộ cách mạng tại Pắc Bó (Cao Bằng). [Nguồn: Bảo tàng Lịch sử Quốc gia - Kim Đồng (1928-1943): Đội trưởng đội đầu tiên của Đội Thiếu niên Tiền phong, https://baotanglichsu.vn/vi/Articles/3096/13247/kim-djong-1928-1943-doi-truong-djoi-dau-tien-cua-doi-thieu-nien-tien-phong.html]
+
+![Mộ Anh hùng Kim Đồng](images/event_20261002_163119_6.webp)
+
+*Nguồn: Mộ Anh hùng Kim Đồng và tượng đài trong khu mộ, tỉnh Cao Bằng / Leminhel (CC BY-SA 3.0)*
 
 <!-- id: EVT-1692 -->
 *   **24/04/1943:** Báo *Tiếng Dân* của Cụ Huỳnh Thúc Kháng ra số cuối cùng (số 1766) và bị chính quyền thực dân Pháp đình bản vĩnh viễn sau gần 16 năm kiên trì đấu tranh cho quyền lợi của nhân dân. [Nguồn: Chí sĩ yêu nước Huỳnh Thúc Kháng (Báo Nhân Dân), https://nhandan.vn/chi-si-yeu-nuoc-huynh-thuc-khang-nha-lanh-dao-tien-boi-tieu-bieu-cua-dang-va-cach-mang-viet-nam-post670559.html]
@@ -6099,6 +6127,10 @@
 
 <!-- id: EVT-1715 -->
 *   **29/03/1945:** Hồ Chí Minh gặp Thiếu tướng Claire Lee Chennault, Chỉ huy trưởng Không đoàn 14 Không lực Lục quân Hoa Kỳ, tại Côn Minh (Trung Quốc), thiết lập mối quan hệ ban đầu giữa Việt Minh và Mỹ. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
+
+![Trung tướng Claire L. Chennault](images/event_20261002_163120.webp)
+
+*Nguồn: Trung tướng Claire L. Chennault, ngày 23/7/1945 / Cục Lưu trữ Quốc gia Hoa Kỳ (NARA, Public domain)*
 
 <!-- id: EVT-1716 -->
 *   **17/04/1945:** Chính phủ bù nhìn Trần Trọng Kim được thành lập dưới sự bảo hộ của Nhật. [Nguồn: Bảo tàng Lịch sử Quốc gia - Chính phủ Trần Trọng Kim (4/1945-8/1945), https://baotanglichsu.vn/vi/Articles/3097/16606/chinh-phu-tran-trong-kim-4-1945-8-1945.html]
@@ -6181,6 +6213,10 @@
 <!-- id: EVT-1738 -->
 *   **28/08/1945:** Ủy ban Dân tộc Giải phóng Việt Nam cải tổ thành Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa do Chủ tịch Hồ Chí Minh đứng đầu; đồng chí Võ Nguyên Giáp được cử giữ chức Bộ trưởng Bộ Nội vụ kiêm phụ trách công tác quân sự. Cùng thời gian này, 20 vạn quân Tưởng Giới Thạch do Lư Hán chỉ huy bắt đầu kéo vào miền Bắc Việt Nam (từ vĩ tuyến 16 trở ra) danh nghĩa giải giáp quân Nhật. [Nguồn: Bảo tàng Lịch sử Quốc gia - Ủy ban Dân tộc Giải phóng cải tổ thành Chính phủ lâm thời (28/8/1945), https://baotanglichsu.vn/vi/Articles/3097/16633/uy-ban-dan-toc-giai-phong-cai-to-thanh-chinh-phu-lam-thoi-28-8-1945.html]
 
+![Hồ Chí Minh và Võ Nguyên Giáp](images/event_20261002_163120_1.webp)
+
+*Nguồn: Chủ tịch Hồ Chí Minh và đồng chí Võ Nguyên Giáp, năm 1945 / Public domain*
+
 <!-- id: EVT-1739 -->
 *   **30/08/1945:** Vua Bảo Đại đọc Chiếu thoái vị tại Huế, chấm dứt chế độ phong kiến ở Việt Nam. [Nguồn: https://nhandan.vn/ngay-3081945-vua-bao-dai-thoai-vi-post902540.html]
 
@@ -6233,6 +6269,10 @@
 <!-- id: EVT-1750 -->
 *   **10/09/1945:** Sau khi tuyên bố thoái vị tại Huế ('thà làm dân một nước độc lập hơn làm vua một nước nô lệ'), cựu hoàng Bảo Đại (công dân Nguyễn Vĩnh Thụy) nhận lời mời của Chủ tịch Hồ Chí Minh, chính thức được Chính phủ Cách mạng Lâm thời Việt Nam Dân chủ Cộng hòa bổ nhiệm giữ chức **Cố vấn Tối cao của Chính phủ** theo Sắc lệnh số 23-SL. [Nguồn: Vua Bảo Đại (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13777/vua-bao-dai.html]
 
+![Hồ Chí Minh, Bảo Đại và Siphanouvong](images/event_20261002_163120_2.webp)
+
+*Nguồn: Hồ Chí Minh, Bảo Đại và Vương thân Siphanouvong (Lào) tại cuộc gặp ngày 04/09/1945 / US Army Center for Military History (Public domain)*
+
 <!-- id: EVT-1751 -->
 *   **11/09/1945:** Tướng Gracey, chỉ huy quân đội Anh, đến Sài Gòn. [Nguồn: Lịch sử Việt Nam (Tập 10: 1945–1954), NXB Khoa học Xã hội, Hà Nội, 2017]
 
@@ -6248,8 +6288,16 @@
 <!-- id: EVT-1755 -->
 *   **26/09/1945:** Chủ tịch Hồ Chí Minh ra Lời kêu gọi đồng bào Nam Bộ kháng chiến. Chi đội Nam tiến đầu tiên rời Hà Nội lên đường vào Nam chiến đấu. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
+![Nhà hát lớn Hà Nội, 05/11/1945](images/event_20261002_163120_3.webp)
+
+*Nguồn: Nhà hát lớn Hà Nội, ngày 05/11/1945: mít tinh "Ngày Kháng chiến" ủng hộ cuộc đấu tranh của nhân dân Nam Bộ / Public domain*
+
 <!-- id: EVT-1756 -->
 *   **28/09/1945:** Chủ tịch Hồ Chí Minh ra "Lời kêu gọi sau nạn đói" (Thư gửi đồng bào toàn quốc về việc cứu đói), phát động phong trào "Hũ gạo cứu đói" và kêu gọi tinh thần nhường cơm sẻ áo ("10 ngày nhường ăn một bữa") để diệt giặc đói. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
+
+![Hội nghị Ngày Tiễu trừ nạn đói](images/event_20261002_163120_4.webp)
+
+*Nguồn: Hà Nội: Ngày Tiễu trừ nạn đói, 11/10/1945; hàng ghế đầu có Nguyễn Văn Tố, tướng Philip E. Gallagher, Chủ tịch Hồ Chí Minh, cố vấn Vĩnh Thụy; ông Ngô Tử Hạ đang phát biểu / Bộ Thông tin Tuyên truyền (Public domain)*
 
 <!-- id: EVT-1757 -->
 *   **10/1945:** Huỳnh Tấn Phát làm Trưởng đoàn đại biểu Thanh niên Nam Bộ ra Hà Nội dự Đại hội Thanh niên toàn quốc. [Nguồn: Kiến trúc sư Huỳnh Tấn Phát – Cuộc đời và sự nghiệp (Báo Nhân Dân), https://nhandan.vn/kien-truc-su-huynh-tan-phat-post738200.html]
@@ -6331,6 +6379,10 @@
 
 *Nguồn: Đại biểu dự Kỳ họp thứ nhất, Quốc hội khóa I tại Nhà hát Lớn Hà Nội, 02/03/1946 / TTXVN*
 
+![Chính phủ Liên hiệp Kháng chiến](images/event_20261002_163120_5.webp)
+
+*Nguồn: Chính phủ Liên hiệp Kháng chiến nước Việt Nam Dân chủ Cộng hòa, năm 1946 / Chính phủ Việt Nam (Public domain)*
+
 <!-- id: EVT-1780 -->
 *   **06/03/1946:** Chủ tịch Hồ Chí Minh và Vũ Hồng Khanh thay mặt Chính phủ Việt Nam ký với J. Sainteny, đại diện Chính phủ Pháp, bản Hiệp định Sơ bộ. [Nguồn: Báo Điện tử Chính phủ - Những bài học ngoại giao trước ngày toàn quốc kháng chiến, https://baochinhphu.vn/nhung-bai-hoc-ngoai-giao-truoc-ngay-toan-quoc-khang-chien-102213930.htm]
 
@@ -6389,6 +6441,10 @@
 <!-- id: EVT-1797 -->
 *   **31/05/1946:** Chủ tịch Hồ Chí Minh rời Hà Nội sang thăm chính thức nước Pháp và trao quyền Quyền Chủ tịch nước kiêm Quyền Chủ tịch Chính phủ Việt Nam Dân chủ Cộng hòa cho cụ Huỳnh Thúc Kháng với lời căn dặn nổi tiếng "Dĩ bất biến, ứng vạn biến", chèo lái đất nước qua thời khắc hiểm nghèo (kéo dài đến 21/10/1946). [Nguồn: Báo Quân đội nhân dân - Dĩ bất biến ứng vạn biến, https://ct.qdnd.vn/clb-chien-si/di-bat-bien-ung-van-bien-530799]
 
+![Tiễn Chủ tịch Hồ Chí Minh sang Pháp](images/event_20261002_163120_6.webp)
+
+*Nguồn: Đại diện Chính phủ Pháp và Chính phủ Tưởng Giới Thạch tại sân bay Gia Lâm, Hà Nội tiễn Chủ tịch Hồ Chí Minh sang Pháp, ngày 31/05/1946 / Public domain*
+
 <!-- id: EVT-1798 -->
 *   **01/06/1946:** Tại Sài Gòn, Cao ủy D'Argenlieu tuyên bố thành lập "Nước Cộng hòa tự trị Nam Kỳ". [Nguồn: Bảo tàng Lịch sử Quốc gia - Nước "Cộng hòa tự trị Nam Kỳ" (01/06/1946), https://baotanglichsu.vn/vi/Articles/3097/16628/nuoc-cong-hoa-tu-tri-nam-ky-01-06-1946.html]
 
@@ -6411,6 +6467,10 @@
 
 *Nguồn: Chủ tịch Hồ Chí Minh đọc diễn văn tại Tòa thị chính Paris tháng 07/1946 / Getty Images*
 
+![Hồ Chí Minh với kiều bào tại Pháp](images/event_20261002_163120_7.webp)
+
+*Nguồn: Hồ Chí Minh trò chuyện với kiều bào Việt Nam tại Pháp, năm 1946 / Public domain*
+
 <!-- id: EVT-1804 -->
 *   **06/07/1946:** Hội nghị Fontainebleau khai mạc. [Nguồn: Báo Nhân Dân - Toàn quốc kháng chiến – khẳng định phẩm giá dân tộc, https://nhandan.vn/toan-quoc-khang-chien-khang-dinh-pham-gia-dan-toc-post678920.html]
 
@@ -6422,6 +6482,10 @@
 
 <!-- id: EVT-1807 -->
 *   **24/07/1946:** Trong lúc cuộc đàm phán chính thức Pháp - Việt tại Fontainebleau đi vào bế tắc, Chủ tịch Hồ Chí Minh tích cực vận động "ngoại giao hành lang". Người đã gặp Bộ trưởng Pierre Cot, Chủ tịch Quốc hội Vincent Auriol và Phó Chủ tịch Quốc hội kiêm lãnh đạo Đảng Cộng sản Pháp Jacques Duclos. Cùng ngày, trả lời phỏng vấn báo chí Pháp, Người nhấn mạnh nếu Pháp công nhận Việt Nam độc lập thì danh dự và sức hấp dẫn của Pháp tại Việt Nam sẽ tăng lên nhiều hơn là dùng chiến tranh hay sức mạnh để ép buộc. [Nguồn: Lịch sử Việt Nam (Tập 10: 1945–1954), NXB Khoa học Xã hội, Hà Nội, 2017]
+
+![Phái đoàn Việt Nam tại Fontainebleau](images/event_20261002_163121.webp)
+
+*Nguồn: Bộ trưởng Nguyễn Văn Huyên (thứ hai, từ trái sang) trong phái đoàn Chính phủ Việt Nam đàm phán tại Fontainebleau (Pháp), năm 1946 / Public domain*
 
 <!-- id: EVT-1808 -->
 *   **01/08/1946:** D'Argenlieu triệu tập Hội nghị Liên bang Đông Dương tại Đà Lạt, phá hoại Hội nghị Fontainebleau. [Nguồn: Lịch sử Việt Nam (Tập 10: 1945–1954), NXB Khoa học Xã hội, Hà Nội, 2017]
@@ -6441,6 +6505,10 @@
 
 <!-- id: EVT-1812 -->
 *   **14/09/1946:** Trong chuyến thăm chính thức nước Pháp kéo dài gần 5 tháng, Chủ tịch Hồ Chí Minh đã ký với Bộ trưởng Pháp quốc Hải ngoại Marius Moutet bản **Tạm ước Việt - Pháp (Modus Vivendi)** tại Paris, nhân nhượng thêm một số quyền lợi kinh tế - văn hóa cho Pháp để có thêm thời gian hòa hoãn quý báu củng cố chính quyền và chuẩn bị kháng chiến toàn quốc. [Nguồn: Bảo tàng Lịch sử Quốc gia - 67 năm ký kết Tạm ước Việt - Pháp (14/9/1946 - 14/9/2013), https://baotanglichsu.vn/vi/Articles/3097/15067/67-nam-ky-ket-tam-uoc-viet-phap-14-9-1946-14-9-2013.html]
+
+![Hồ Chí Minh và Marius Moutet](images/event_20261002_163121_1.webp)
+
+*Nguồn: Hồ Chí Minh và Bộ trưởng Marius Moutet bắt tay sau khi ký bản Tạm ước Việt - Pháp (modus vivendi) / Chính phủ Pháp (Public domain)*
 
 <!-- id: EVT-1813 -->
 *   **21/09/1946:** Việt Nam Dân chủ Xã hội Đảng (Đảng Dân Xã) được thành lập bởi Huỳnh Phú Sổ, giáo chủ Phật giáo Hòa Hảo. [Nguồn: Lịch sử Việt Nam (Tập 10: 1945–1954), NXB Khoa học Xã hội, Hà Nội, 2017]
@@ -6666,6 +6734,10 @@
 
 <!-- id: EVT-1878 -->
 *   **Cuối năm 1947 (20/10 hoặc 11/12):** Trận đánh tại cầu Suối Vối (An Khê, Bình Định). Anh hùng Ngô Mây đã hy sinh thân mình ôm bom lao thẳng vào xe thiết giáp của quân Pháp. Hành động quả cảm của ông đã phá hủy chiếc xe và tiêu diệt hơn một trung đội lính Âu Phi, làm xoay chuyển tình thế chiến đấu và mang lại thắng lợi cho quân đội Việt Nam. [Nguồn: Bộ Chỉ huy Quân sự tỉnh Bình Định, Lịch sử Lực lượng vũ trang nhân dân tỉnh Bình Định (1945 - 2000), NXB Quân đội nhân dân, Hà Nội, 2002]
+
+![Tượng đài Anh hùng Ngô Mây](images/event_20261002_163121_2.webp)
+
+*Nguồn: Tượng đài Anh hùng Ngô Mây (ảnh hiện đại) / Wikimedia Commons (CC BY-SA 4.0)*
 
 <!-- id: EVT-1879 -->
 *   **29/11/1947:** Quân đội viễn chinh Pháp mở cuộc hành quân càn quét vào làng Mỹ Trạch (xã Mỹ Thủy, huyện Lệ Thủy, tỉnh Quảng Bình), dồn 326 thường dân vô tội (phần lớn là phụ nữ mang thai, người già và trẻ em) ra chân cầu Mỹ Trạch bên bờ sông Kiến Giang rồi xả súng máy tàn sát dã man, đồng thời thiêu rụi hơn 300 nóc nhà, xóa sổ nhiều dòng họ. [Nguồn: Tỉnh ủy - UBND tỉnh Quảng Bình, Lịch sử Đảng bộ tỉnh Quảng Bình, tập 1 (1930 - 1954), NXB Chính trị quốc gia, Hà Nội, 1995; Di tích Quốc gia vụ thảm sát Mỹ Trạch]
@@ -7056,6 +7128,10 @@
 <!-- id: EVT-1999 -->
 *   **19/05/1952:** Chủ tịch Hồ Chí Minh ký sắc lệnh phong tặng danh hiệu Anh hùng Lực lượng Vũ trang Nhân dân đợt đầu tiên cho La Văn Cầu cùng các chiến sĩ tiêu biểu tại Đại hội Thi đua Toàn quốc lần thứ nhất. [Nguồn: Báo Điện tử Chính phủ - Đại tá, Anh hùng Lực lượng vũ trang nhân dân La Văn Cầu từ trần, https://baochinhphu.vn/dai-ta-anh-hung-luc-luong-vu-trang-nhan-dan-la-van-cau-tu-tran-10226062509124879.htm]
 
+![Đại tá La Văn Cầu](images/event_20261002_163121_3.webp)
+
+*Nguồn: Đại tá, Anh hùng Lực lượng vũ trang nhân dân La Văn Cầu năm 2009 / Lương Văn Phúc (CC BY 2.0)*
+
 <!-- id: EVT-2000 -->
 *   **Giữa năm 1952:** Georges Boudarel được chỉ định hành quân ra căn cứ địa Việt Bắc, trải qua chặng đường đi bộ vô cùng gian khổ ròng rã 6 tháng. Tại Việt Bắc, ông được phân công giảng dạy chính trị tại trại tù binh 113 (thuộc Cục Địch vận), vượt qua nhiều thiếu thốn khắc nghiệt để cảm hóa các sĩ quan Pháp và châu Phi thành những chiến sĩ hòa bình. [Nguồn: Georges Boudarel, Mémoires d'un Français du Vietminh, Éditions Bernard Grasset, Paris, 1991]
 
@@ -7352,6 +7428,10 @@
 <!-- id: EVT-2079 -->
 *   **19/09/1954:** Tại Đền Giếng thuộc Khu di tích Đền Hùng (Phú Thọ), Chủ tịch Hồ Chí Minh gặp gỡ và huấn thị cho cán bộ, chiến sĩ Đại đoàn 308 (Đại đoàn Quân Tiên phong) trước khi đơn vị về tiếp quản Thủ đô Hà Nội. Tại buổi nói chuyện lịch sử này, Người đã căn dặn câu nói bất hủ: *"Các Vua Hùng đã có công dựng nước, Bác cháu ta phải cùng nhau giữ lấy nước."* Lời căn dặn thiêng liêng vừa là sự tri ân công đức tổ tiên, vừa đúc kết quy luật sinh tồn ngàn đời của dân tộc: dựng nước phải đi đôi với giữ nước, đồng thời khẳng định ý chí quật cường và giao phó sứ mệnh lịch sử bảo vệ độc lập, thống nhất non sông cho toàn quân và các thế hệ mai sau. [Nguồn: https://nhandan.vn/tuong-dai-bac-ho-voi-ngay-hoi-non-song-bieu-tuong-cua-tinh-than-dai-doan-ket-toan-dan-toc-post984471.html]
 
+![Bác Hồ nói chuyện với Đại đoàn 308](images/event_20261002_163121_4.webp)
+
+*Nguồn: Bác Hồ nói chuyện với các chiến sĩ Đại đoàn 308 / VietnamNet (Public domain)*
+
 <!-- id: EVT-2080 -->
 *   **10/1954:** Sau Hiệp định Giơnevơ, Đinh Thị Vân nhận lệnh bí mật vào Nam hoạt động, đóng vai "người đi buôn" để xây dựng mạng lưới tình báo ở Sài Gòn. Để tạo vỏ bọc an toàn, cấp trên đã phát thông báo giả rằng bà "phản Đảng, chạy trốn vào Nam" và "tuyên án tử hình vắng mặt". [Nguồn: Ban Chấp hành Trung ương Đảng, Văn kiện Đảng Toàn tập, tập 15, NXB Chính trị quốc gia, Hà Nội, 2001]
 
@@ -7582,6 +7662,10 @@
 <!-- id: EVT-2141 -->
 *   **02/1958 - 03/1959:** Chủ tịch Hồ Chí Minh thực hiện các chuyến thăm hữu nghị chính thức lịch sử tới Cộng hòa Ấn Độ, Liên bang Miến Điện (Myanmar) vào tháng 02/1958 và Cộng hòa Indonesia vào tháng 02 - 03/1959, thắt chặt quan hệ đoàn kết, hữu nghị với phong trào các nước Không liên kết và các dân tộc Á - Phi. [Nguồn: Bộ Ngoại giao, Lịch sử Ngoại giao Việt Nam (1945 - 2000), NXB Chính trị quốc gia, Hà Nội, 2002; Bảo tàng Hồ Chí Minh]
 
+![Hồ Chí Minh tại New Delhi 1958](images/event_20261002_163121_5.webp)
+
+*Nguồn: Chủ tịch Hồ Chí Minh được Tổng thống Rajendra Prasad (trái) và Thủ tướng Jawaharlal Nehru (phải) đón tại New Delhi, năm 1958 / Public domain*
+
 <!-- id: EVT-2142 -->
 *   **01/05/1958:** Phong trào BAJARAKA được thành lập bởi các trí thức dân tộc thiểu số tại Tây Nguyên để đấu tranh đòi quyền lợi và chống phân biệt đối xử. [Nguồn: Viện Sử học, Lịch sử Việt Nam, tập 11 (1954 - 1965), NXB Khoa học Xã hội, Hà Nội, 2014; Báo Quân đội nhân dân]
 
@@ -7662,6 +7746,10 @@
 
 <!-- id: EVT-2164 -->
 *   **31/12/1959:** Tại Kỳ họp thứ 11, Quốc hội khóa I nhất trí thông qua Hiến pháp mới của nước Việt Nam Dân chủ Cộng hòa (Hiến pháp năm 1959, được Chủ tịch Hồ Chí Minh ký sắc lệnh công bố ngày 01/01/1960). Đây là bản Hiến pháp của thời kỳ xây dựng chủ nghĩa xã hội ở miền Bắc và đấu tranh thực hiện hòa bình thống nhất đất nước. [Nguồn: Quốc hội khóa I, Nghị quyết thông qua Hiến pháp nước Việt Nam Dân chủ Cộng hòa ngày 31/12/1959; Cổng TTĐT Quốc hội; Báo Nhân Dân]
+
+![Sắc lệnh công bố Hiến pháp 1959](images/event_20261002_163121_6.webp)
+
+*Nguồn: Sắc lệnh 01-SL ngày 01/01/1960 của Chủ tịch Hồ Chí Minh công bố Hiến pháp năm 1959 / Chính phủ Việt Nam Dân chủ Cộng hòa (Public domain)*
 
 <!-- id: EVT-2165 -->
 *   **1960:** Lê Thị Tuyết (Trà Cú) trở về xã Ngãi Xuyên, huyện Trà Cú, tham gia phong trào vận động thành lập lực lượng vũ trang và hoạt động liên tục đến năm 1975. [Nguồn: Hội Liên hiệp Phụ nữ tỉnh Trà Vinh, Lịch sử phong trào phụ nữ tỉnh Trà Vinh (1930 - 2000); Báo Trà Vinh]
@@ -8034,6 +8122,10 @@
 
 <!-- id: EVT-2266 -->
 *   **15/10/1964:** Vào lúc 9 giờ 45 phút (hoặc 9 giờ 59 phút), Nguyễn Văn Trỗi bị xử bắn tại Khám Chí Hòa (Sài Gòn) ở tuổi 24. Trước pháp trường, ông giật băng bịt mắt, từ chối rửa tội và dõng dạc hô lớn: "Hãy nhớ lấy lời tôi! Đả đảo đế quốc Mỹ! Đả đảo Nguyễn Khánh! Hồ Chí Minh muôn năm! Việt Nam muôn năm!", trở thành biểu tượng anh hùng cách mạng bất khuất. [Nguồn: Báo Nhân Dân - Lời anh Trỗi, sáng ngời ánh thép, https://nhandan.vn/loi-anh-troi-sang-ngoi-anh-thep-post560644.html]
+
+![Tượng Nguyễn Văn Trỗi](images/event_20261002_163121_7.webp)
+
+*Nguồn: Bản sao tượng đồng "Nguyễn Văn Trỗi" của nhà điêu khắc Nguyễn Hải (1994), hiện lưu tại Bảo tàng Mỹ thuật Thành phố Hồ Chí Minh / Wikimedia Commons (CC BY 4.0)*
 
 <!-- id: EVT-2267 -->
 *   **17/10/1964:** Ủy ban Trung ương Mặt trận Dân tộc Giải phóng miền Nam Việt Nam họp phiên bất thường, quyết định truy tặng Nguyễn Văn Trỗi danh hiệu Anh hùng các Lực lượng Vũ trang Nhân dân Giải phóng và Huân chương Thành đồng hạng Nhất. [Nguồn: Ủy ban Trung ương Mặt trận Dân tộc Giải phóng miền Nam Việt Nam, Quyết định truy tặng ngày 17/10/1964; Báo Cờ Giải Phóng; Báo Nhân Dân]
@@ -9743,6 +9835,10 @@
 <!-- id: EVT-2765 -->
 * **1980:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hồ Thị Bi (Nữ chỉ huy quân sự kiên cường trong hai cuộc kháng chiến chống Pháp và chống Mỹ, được Chủ tịch Hồ Chí Minh đặt biệt danh "Nữ kiệt miền Đông"). [Nguồn: Quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 1980 của Chủ tịch nước; Ban Tuyên giáo Thành ủy TP.HCM; Báo Quân đội nhân dân]
 
+![Thư gửi Hồ Thị Bi](images/event_20261002_163122.webp)
+
+*Nguồn: Thư của Xứ ủy miền Nam gửi Hồ Thị Bi (tức Ba Bi), năm 1951, hiện vật trưng bày tại Bảo tàng Phụ nữ Việt Nam, Hà Nội / Daderot (CC0)*
+
 <!-- id: EVT-2766 -->
 *   **30/03/1980:** Chủ tịch nước Tôn Đức Thắng qua đời. Phó Chủ tịch nước **Nguyễn Hữu Thọ** giữ Quyền Chủ tịch nước (đến tháng 7/1981). [Nguồn: Thông cáo đặc biệt của Ban Chấp hành Trung ương Đảng, Quốc hội, Chính phủ về lễ quốc tang Chủ tịch Tôn Đức Thắng; Văn kiện Quốc hội Toàn tập, tập 5 (1976 - 1981), NXB Chính trị quốc gia, 2008]
 
@@ -10262,6 +10358,10 @@
 
 <!-- id: EVT-2923 -->
 *   **1995:** Đảng và Nhà nước truy tặng danh hiệu Anh hùng Lực lượng Vũ trang Nhân dân cho liệt sĩ Nguyễn Văn Trỗi. [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 1995; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
+
+![Tượng đài Nguyễn Văn Trỗi](images/event_20261002_163122_1.webp)
+
+*Nguồn: Tượng đài Nguyễn Văn Trỗi tại Quận 3, Thành phố Hồ Chí Minh / Phương Huy (Public domain)*
 
 <!-- id: EVT-2924 -->
 *   **1995:** Trong bối cảnh Iraq bị Mỹ và quốc tế cấm vận nghiêm ngặt, Đại sứ Việt Nam tại Iraq Nguyễn Quang Khai đã thuyết phục Công ty Lương thực miền Bắc (Vinafood 1) bán chịu một tàu gạo (25.000 - 30.000 tấn) cho Iraq. Sự kiện này mở đầu cho việc Việt Nam trở thành nhà cung cấp gạo chủ chốt cho Iraq thông qua chương trình "Đổi dầu lấy lương thực" của Liên Hợp Quốc. [Nguồn: Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, NXB Chính trị quốc gia, Hà Nội, 2002; Báo Nhân Dân]
@@ -10907,6 +11007,10 @@
 <!-- id: EVT-3111 -->
 * **2011:** Anh hùng Lực lượng vũ trang nhân dân Hồ Thị Bi (Nữ chỉ huy quân sự kiên cường trong hai cuộc kháng chiến chống Pháp và chống Mỹ, được Chủ tịch Hồ Chí Minh đặt biệt danh "Nữ kiệt miền Đông") từ trần. [Nguồn: Thông cáo của Thành ủy, HĐND, UBND TP. Hồ Chí Minh và Bộ Tư lệnh Quân khu 7 ngày 12/10/2011; Báo Sài Gòn Giải Phóng số ra ngày 13/10/2011]
 
+![Chân dung Hồ Thị Bi](images/event_20261002_163122_2.webp)
+
+*Nguồn: Chân dung Anh hùng Hồ Thị Bi, năm 1969 / CalCoWSpiBudSu (CC BY-SA 4.0)*
+
 <!-- id: EVT-3112 -->
 * **2011:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Hồ Hảo Hớn (Bí thư Thành Đoàn đầu tiên của Sài Gòn - Gia Định). [Nguồn: Lệnh của Chủ tịch nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2011; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2011]
 
@@ -11130,6 +11234,10 @@
 
 <!-- id: EVT-3175 -->
 *   **22/08/2014:** Bà Võ Thị Thắng (nguyên Ủy viên Ban Chấp hành Trung ương Đảng khóa VIII và IX, nguyên Tổng cục trưởng Tổng cục Du lịch, Đại biểu Quốc hội khóa IX, X, XI, nhân vật trong bức ảnh lịch sử *"Nụ cười chiến thắng"*) từ trần tại Thành phố Hồ Chí Minh, hưởng thọ 69 tuổi. [Nguồn: Thông cáo đặc biệt của Ban Chấp hành Trung ương Đảng, Tổng cục Du lịch, Hội LHPN Việt Nam ngày 22/08/2014; Báo Tuổi Trẻ; Báo Nhân Dân số ra ngày 23/08/2014]
+
+![Bà Võ Thị Thắng tại New Delhi 2004](images/event_20261002_163123.webp)
+
+*Nguồn: Bà Võ Thị Thắng, Tổng cục trưởng Tổng cục Du lịch, tại phiên họp với phía Ấn Độ ở New Delhi, ngày 18/10/2004 / Government of India (GODL-India)*
 
 <!-- id: EVT-3176 -->
 * **21/10/2014:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Như Trang (Tiểu đoàn phó tiểu đoàn 150, Trung đoàn 52 Tây Tiến. Hy sinh khi đang đi trinh sát tại Lạc Sơn, Hòa Bình). [Nguồn: Quyết định số 2736/QĐ-CTN ngày 21/10/2014 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2014]
