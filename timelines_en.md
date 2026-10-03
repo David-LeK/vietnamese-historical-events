@@ -5669,6 +5669,9 @@
 *   **1931:** China called for bids to exploit guano on the Paracel Islands. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1578 -->
+*   **1931:** Alang Bhuoch, a Co Tu man, was born into a poor family in A Zrut village (now Arung hamlet), A Vuong commune (now Bha Lee commune), Tay Giang district, Quang Nam province. After a severe fever caused by measles, he lost both eyes at the age of 10, yet with a staff to feel his way he memorized every footpath, stream and pass of the Truong Son highlands. [Source: Bao Cong An Nhan Dan - "A Lang Buoc carried dozens of tons of cargo with his bamboo-staff eyes", 07/06/2009, https://cand.vn/a-lang-bhuoch-cong-hang-chuc-tan-hang-voi-con-mat-gay-tre-post295586.html; Wikipedia - Alang Bhuoch, https://vi.wikipedia.org/wiki/Al%C4%83ng_Bhu%C3%B4ch]
+
+<!-- id: EVT-3461 -->
 *   **Jan. 17, 1931:** The first postal flight between France and Indochina took place. [Source: History of Posts and Telecommunications in Vietnam, Post Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-1579 -->
@@ -7657,6 +7660,9 @@
 *   **1958 - 1960:** The North implemented the **Three-Year Plan** for economic and cultural transformation and development. [Source: Vietnam National Museum of History - The Three-Year Plan (1958-1960), https://baotanglichsu.vn/vi/Articles/3097/15848/ke-hoach-3-nam-1958-1960.html]
 
 <!-- id: EVT-2140 -->
+*   **1958:** Alang Bhuoch volunteered for the front-line civilian (dan cong hoa tuyen) caravan launched by Tay Giang district; although first refused because he was blind in both eyes, he persuaded the district secretary Brieu Brame and the caravan commander A Lang Bhoc with the words "my eyes are dead, but I am not", and began carrying food and weapons from Ta Coo stream to the Plach station (A Vuong commune), opening a 14-year period of civilian service on the Truong Son. [Source: Bao Cong An Nhan Dan - "A Lang Buoc carried dozens of tons of cargo with his bamboo-staff eyes", 07/06/2009, https://cand.vn/a-lang-bhuoch-cong-hang-chuc-tan-hang-voi-con-mat-gay-tre-post295586.html]
+
+<!-- id: EVT-3462 -->
 *   **Feb. 1958:** Chinese fishermen attempted to settle on the western part of the Paracel Islands but were unsuccessful. [Source: Resolution No. 15-NQ/TW of the 2nd Party Central Committee; Party Documents, Vol. 20, National Political Publishing House, Hanoi, 2002]
 
 <!-- id: EVT-2141 -->
@@ -8729,6 +8735,9 @@
 *   **May 1968:** **Exploits of the Le Thi Rieng Female Commando Unit (The 11 Saigon Commando Girls):** During Phase 2 of the Tet Offensive, the all-female commando unit named after martyr Le Thi Rieng under Sub-region 6 (comprising 11 young women led by Le Hong Quan) boldly spearheaded assaults against key installations in downtown Saigon. The unit captured the District 5 Administrative Building and held defensive positions at Thiec Market and the Lido Cinema, beating back intense counterattacks by paratroopers, rangers, and armored units for days and nights, safeguarding critical urban corridors and becoming a legendary symbol of revolutionary courage among Saigon women. [Source: People's Army Newspaper - Southern women in the Spring 1968 Tet Offensive and Uprising, https://www.qdnd.vn/50nam-tong-tien-cong-va-noi-day-xuan-mau-than1968/danh-gia-phan-tich/phu-nu-mien-nam-trong-cuoc-tong-tien-cong-va-noi-day-xuan-mau-than-1968-530402]
 
 <!-- id: EVT-2445 -->
+*   **May 1968:** Alang Bhuoch and his comrades carried the body and muzzle of a DKZ A12 recoilless rifle, each trip weighing over 100 kg - double his own body weight - into the Quang Da battlefield. For this feat he was conferred the title of National Emulation Soldier and sent to give a report of his exemplary deeds at the western Quang Da combat zone. [Source: Bao Cong An Nhan Dan - "A Lang Buoc carried dozens of tons of cargo with his bamboo-staff eyes", 07/06/2009, https://cand.vn/a-lang-bhuoch-cong-hang-chuc-tan-hang-voi-con-mat-gay-tre-post295586.html; Wikipedia - Alang Bhuoch, https://vi.wikipedia.org/wiki/Al%C4%83ng_Bhu%C3%B4ch]
+
+<!-- id: EVT-3463 -->
 *   **May 4, 1968:** The second wave of the Tet Offensive commenced in Saigon despite compromised plans. The fierce attacks dealt a massive psychological blow to the US, contributing to General William Westmoreland's dismissal and President Lyndon B. Johnson's decision not to seek re-election, pushing the US toward peace negotiations. [Source: Military History Institute of Vietnam, History of the 1968 Tet Offensive and Uprising, People's Army Publishing House, Hanoi, 2008; People's Army Newspaper]
 
 <!-- id: EVT-2446 -->
@@ -9069,6 +9078,9 @@
 * **1972:** Martyr Phan Văn Hân (Liệt sĩ, nguyên Thường vụ Khu ủy Sài Gòn - Gia Định, nguyên Bí thư Phân khu 2, Sài Gòn - Gia Định) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland. [Source: Propaganda Department of HCMC Party Committee, History of Ho Chi Minh City Party Committee (1930 - 1975), National Political Publishing House; Sai Gon Giai Phong Newspaper]
 
 <!-- id: EVT-2547 -->
+*   **1972:** For health reasons Alang Bhuoch left front-line civilian service in 1972, closing the 1958 - 1972 period with a total of 182 tons of goods of all kinds carried through the Truong Son forest, including 120 tons of weapons and over 60 tons of food - the largest amount ever carried by a blind civilian in the war. [Source: Bao Thanh Nien - "Truong Son legend Alang Bhuoch has passed away", 04/11/2015, https://thanhnien.vn/huyen-thoai-truong-son-alang-bhuoch-da-tu-tran-185514926.htm; Wikipedia - Alang Bhuoch, https://vi.wikipedia.org/wiki/Al%C4%83ng_Bhu%C3%B4ch]
+
+<!-- id: EVT-3464 -->
 *   **Feb. 14, 1972:** Female guerrilla liaison Nguyen Thi Tu (wife of Vinh Hung commune guerrilla commander Le Van Dong, known as Nam Dong) heroically sacrificed her life in Vinh Hung commune (Vinh Loi district, Bac Lieu province). Captured alongside her 10-month-old daughter and brutally tortured to force her to reveal the secret bunkers and resistance forces of her husband, she steadfastly refused to yield; before being executed, she courageously asked to breastfeed her baby daughter for the last time. Her unyielding sacrifice and sacred maternal love became the prototype for the renowned vọng cổ work "Giọt sữa cuối cùng" (The Last Drop of Milk) by playwright Trọng Nguyễn. [Source: Ben Tre Women's Union, The Long-Haired Army of Ben Tre in the Anti-US Resistance, Ben Tre Publishing House, 2000]
 
 <!-- id: EVT-2548 -->
@@ -11099,6 +11111,13 @@
 *   **Jun. 21, 2012:** The National Assembly passed the Law of the Sea of Vietnam. [Source: Presidential Order No. 11/2012/L-CTN dated July 2, 2012 promulgating the Law of the Sea of Vietnam; Nhan Dan Newspaper, June 22, 2012]
 
 <!-- id: EVT-3135 -->
+*   **Jul. 26, 2012:** President Truong Tan Sang signed Decision No. 1096/QD-CTN conferring the title Hero of the People's Armed Forces on Alang Bhuoch (former civilian of A Zrut village, A Vuong commune, Hien district - now Tay Giang district, Quang Nam) for his exceptionally outstanding merit in the resistance against the US to save the country; earlier he had been awarded the Third Class Combat Merit Order and the First Class Resistance Order Against the US to Save the Country. [Source: Vietnam Land Force Academy - "Hero A Lang Buoc", 19/10/2023, https://hvlq.vn/tin-tuc/tin-trong-nuoc/anh-hung-a-lang-bhuoch.html; Bao Thanh Nien, 04/11/2015, https://thanhnien.vn/huyen-thoai-truong-son-alang-bhuoch-da-tu-tran-185514926.htm]
+
+![Historical Image](images/event_20261003_120729.webp)
+
+*Source: Hero Alang Bhuoch (center) during a meeting with Ho Chi Minh City Party Secretary Le Thanh Hai / Bao Quang Nam*
+
+<!-- id: EVT-3465 -->
 *   **Jul. 27, 2012:** President Truong Tan Sang paid an official visit to the Russian Federation at the invitation of President Vladimir Putin. The two leaders adopted a Joint Statement on further strengthening the Comprehensive Strategic Partnership between Vietnam and the Russian Federation, making Russia the second nation to establish this framework with Vietnam. [Source: Joint Statement on Strengthening Comprehensive Strategic Partnership between Vietnam and the Russian Federation, July 27, 2012; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3136 -->
@@ -11320,6 +11339,13 @@
 *   **Oct. 29, 2015:** The Permanent Court of Arbitration (PCA) ruled that it had jurisdiction to hear 7 of the 15 submissions in the case brought by the Philippines against China regarding the South China Sea. [Source: Permanent Court of Arbitration (PCA), Award on Jurisdiction and Admissibility, Oct. 29, 2015; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3198 -->
+*   **Nov. 2, 2015:** Hero of the People's Armed Forces Alang Bhuoch passed away at his home at the age of 84; on Nov. 4, 2015 the Tay Giang district authorities and his family held his funeral at the family cemetery in Arung hamlet, Bha Lee commune. The people of Tay Giang, Nam Giang, Dong Giang, Hoa Vang and A Lui gave him the nickname "the blind legend of the Truong Son Range". [Source: Bao Thanh Nien - "Truong Son legend Alang Bhuoch has passed away", 04/11/2015, https://thanhnien.vn/huyen-thoai-truong-son-alang-bhuoch-da-tu-tran-185514926.htm; Bao Nguoi Lao Dong - "Farewell to the visually impaired legend who carried cargo across Truong Son", 04/11/2015, https://nld.com.vn/thoi-su-trong-nuoc/vinh-biet-huyen-thoai-khiem-thi-cong-hang-vuot-truong-son-2015110419592325.htm; Van Hoa Va Phat Trien, https://vanhoavaphattrien.vn/qua-aruung-nho-nguoi-anh-hung-mu-huyen-thoai-tren-day-truong-son-a25142.html]
+
+![Historical Image](images/event_20261003_120729_1.webp)
+
+*Source: Hero Alang Bhuoch / Bao Thanh Nien*
+
+<!-- id: EVT-3466 -->
 * **10/12/2015:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Nguyễn Bá Ngọc (Liệt sĩ, người đã lấy thân mình che chở cho các em nhỏ khi quân Mỹ ném bom vào khu vực cầu Ghép ngày 4 tháng 4 năm 1965. Hy sinh ngày 5 tháng 4 năm 1965 do vết thương quá nặng khi mới 13 tuổi). [Source: Presidential Decision No. 2752/QD-CTN dated Dec. 10, 2015 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 2015]
 
 <!-- id: EVT-3199 -->

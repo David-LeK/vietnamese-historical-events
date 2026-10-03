@@ -5669,6 +5669,9 @@
 *   **1931:** Trung Quốc cho đấu thầu việc khai thác phân chim trên quần đảo Hoàng Sa. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1578 -->
+*   **1931:** Alăng Bhuôch, người dân tộc Cơ Tu, sinh ra trong một gia đình nghèo ở làng A Zứt (nay là thôn Arung), xã A Vương (nay là xã Bha Lêê), huyện Tây Giang, tỉnh Quảng Nam. Sau một cơn sốt nặng do bệnh sởi, ông mù cả hai mắt từ năm 10 tuổi, nhưng nhờ cây gậy dò đường ông đã thuộc đường và tự gùi, cõng trên khắp đường mòn, khe suối, đèo dốc của vùng núi Trường Sơn. [Nguồn: Báo Công an nhân dân, "A Lăng Bhuốch cõng hàng chục tấn hàng với con mắt gậy tre", 07/06/2009, https://cand.vn/a-lang-bhuoch-cong-hang-chuc-tan-hang-voi-con-mat-gay-tre-post295586.html; Wikipedia - Alăng Bhuôch, https://vi.wikipedia.org/wiki/Al%C4%83ng_Bhu%C3%B4ch]
+
+<!-- id: EVT-3461 -->
 *   **17/01/1931:** Chuyến bay bưu chính đầu tiên giữa Pháp và Đông Dương diễn ra. [Nguồn: Lịch sử Bưu chính Viễn thông Việt Nam, NXB Bưu điện, Hà Nội, 2005]
 
 <!-- id: EVT-1579 -->
@@ -7657,6 +7660,9 @@
 *   **1958 - 1960:** Miền Bắc thực hiện **Kế hoạch 3 năm** cải tạo và phát triển kinh tế, văn hóa. [Nguồn: Bảo tàng Lịch sử Quốc gia - Kế hoạch 3 năm (1958-1960), https://baotanglichsu.vn/vi/Articles/3097/15848/ke-hoach-3-nam-1958-1960.html]
 
 <!-- id: EVT-2140 -->
+*   **1958:** Alăng Bhuôch xin tham gia đoàn dân công hỏa tuyến do huyện Tây Giang phát động; dẫu bị từ chối ban đầu vì mù cả hai mắt, ông đã thuyết phục được Bí thư Huyện ủy Bríu Brăm và chỉ huy đoàn dân công A Lăng Bhốc bằng câu nói "cái mắt mình chết, nhưng mình không chết", rồi bắt đầu gùi lương thực, vũ khí từ khe Tà Coo về trạm suối Plách (xã A Vương), mở đầu 14 năm phục vụ dân công trên Trường Sơn. [Nguồn: Báo Công an nhân dân, "A Lăng Bhuốch cõng hàng chục tấn hàng với con mắt gậy tre", 07/06/2009, https://cand.vn/a-lang-bhuoch-cong-hang-chuc-tan-hang-voi-con-mat-gay-tre-post295586.html]
+
+<!-- id: EVT-3462 -->
 *   **02/1958:** Ngư dân Trung Quốc cố gắng đến định cư ở phần phía Tây của quần đảo Hoàng Sa nhưng không thành công. [Nguồn: Nghị quyết số 15-NQ/TW của Ban Chấp hành Trung ương Đảng khóa II; Văn kiện Đảng Toàn tập, tập 20, NXB Chính trị quốc gia, Hà Nội, 2002]
 
 <!-- id: EVT-2141 -->
@@ -8729,6 +8735,9 @@
 *   **05/1968:** **Chiến công của Đội Nữ Biệt động Lê Thị Riêng (11 cô gái Biệt động Sài Gòn):** Trong đợt 2 cuộc Tổng tiến công và nổi dậy Tết Mậu Thân, Đội Nữ Biệt động mang tên nữ liệt sĩ Lê Thị Riêng thuộc Phân khu 6 (gồm 11 nữ chiến sĩ trẻ do đồng chí Lê Hồng Quân làm Đội trưởng) đã dũng cảm phối hợp cùng các lực lượng vũ trang tiến công các mục tiêu trọng điểm ở trung tâm Sài Gòn. Đội đã trực tiếp đánh chiếm Tòa Hành chính Quận 5, chốt giữ chợ Thiếc, rạp Lido, kiên cường đánh trả nhiều đợt phản kích ác liệt của các tiểu đoàn dù, biệt động quân và thiết giáp đối phương suốt nhiều ngày đêm, bảo vệ an toàn tuyến hành lang nội đô và trở thành biểu tượng huyền thoại về chủ nghĩa anh hùng cách mạng của phụ nữ Sài Gòn. [Nguồn: Báo Quân đội nhân dân - Phụ nữ miền Nam trong cuộc Tổng tiến công và nổi dậy Xuân Mậu Thân 1968, https://www.qdnd.vn/50nam-tong-tien-cong-va-noi-day-xuan-mau-than1968/danh-gia-phan-tich/phu-nu-mien-nam-trong-cuoc-tong-tien-cong-va-noi-day-xuan-mau-than-1968-530402]
 
 <!-- id: EVT-2445 -->
+*   **Tháng 05/1968:** Alăng Bhuôch cùng đồng đội gùi, cõng thân và đầu khẩu súng phản lực DKZ A12, mỗi chuyến nặng hơn 100 kg - gấp đôi cân nặng cơ thể ông - vào chiến trường Quảng Đà. Thành tích này được cấp trên tuyên dương danh hiệu Chiến sĩ thi đua toàn quốc; ông được cử đi báo cáo điển hình tại chiến khu miền Tây Quảng Đà. [Nguồn: Báo Công an nhân dân, "A Lăng Bhuốch cõng hàng chục tấn hàng với con mắt gậy tre", 07/06/2009, https://cand.vn/a-lang-bhuoch-cong-hang-chuc-tan-hang-voi-con-mat-gay-tre-post295586.html; Wikipedia - Alăng Bhuôch, https://vi.wikipedia.org/wiki/Al%C4%83ng_Bhu%C3%B4ch]
+
+<!-- id: EVT-3463 -->
 *   **04/05/1968:** Đợt 2 của cuộc Tổng tiến công Mậu Thân nổ ra rền vang khắp Sài Gòn bất chấp kế hoạch bị lộ. Cú đánh bồi này đã giáng một đòn tâm lý tàn khốc, góp phần khiến tướng Westmoreland mất chức và Tổng thống Mỹ Lyndon B. Johnson từ bỏ ý định tái tranh cử, đẩy Mỹ vào bàn đàm phán hòa bình. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử cuộc Tổng tiến công và nổi dậy Tết Mậu Thân 1968, NXB Quân đội nhân dân, Hà Nội, 2008; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2446 -->
@@ -9069,6 +9078,9 @@
 * **1972:** Liệt sĩ Phan Văn Hân (Liệt sĩ, nguyên Thường vụ Khu ủy Sài Gòn - Gia Định, nguyên Bí thư Phân khu 2, Sài Gòn - Gia Định) anh dũng hy sinh trong khi thực hiện nhiệm vụ chiến đấu bảo vệ Tổ quốc. [Nguồn: Ban Tuyên giáo Thành ủy TP. Hồ Chí Minh, Lịch sử Đảng bộ Thành phố Hồ Chí Minh (1930 - 1975), NXB Chính trị quốc gia Sự thật; Báo Sài Gòn Giải Phóng]
 
 <!-- id: EVT-2547 -->
+*   **1972:** Do sức khỏe giảm sút, Alăng Bhuôch rời đời sống dân công năm 1972, khép lại giai đoạn 1958 - 1972 với tổng cộng 182 tấn hàng các loại gùi, cõng qua rừng Trường Sơn, trong đó có 120 tấn vũ khí và hơn 60 tấn lương thực - con số lớn nhất của một người dân công mù trong chiến tranh. [Nguồn: Báo Thanh Niên, "Huyền thoại Trường Sơn Alăng Bhuôch đã từ trần", 04/11/2015, https://thanhnien.vn/huyen-thoai-truong-son-alang-bhuoch-da-tu-tran-185514926.htm; Wikipedia - Alăng Bhuôch, https://vi.wikipedia.org/wiki/Al%C4%83ng_Bhu%C3%B4ch]
+
+<!-- id: EVT-3464 -->
 *   **14/02/1972:** Nữ giao liên du kích Nguyễn Thị Tư (vợ của Xã đội trưởng du kích xã Vĩnh Hưng Lê Văn Dõng, tức Năm Dõng) anh dũng hy sinh tại xã Vĩnh Hưng (huyện Vĩnh Lợi, tỉnh Bạc Liêu). Bị địch bắt giữ cùng con gái 10 tháng tuổi và tra tấn dã man hòng truy tìm hầm bí mật cùng lực lượng kháng chiến của chồng, bà kiên quyết không khai báo; trước khi bị xử bắn, bà đã hiên ngang xin cho con bú những giọt sữa mẹ cuối cùng. Sự hy sinh bất khuất và tình mẫu tử thiêng liêng của bà đã trở thành nguyên mẫu cho bài vọng cổ nổi tiếng "Giọt sữa cuối cùng" của soạn giả Trọng Nguyễn. [Nguồn: Hội Liên hiệp Phụ nữ tỉnh Bến Tre, Đội quân tóc dài Bến Tre trong kháng chiến chống Mỹ, NXB Bến Tre, 2000]
 
 <!-- id: EVT-2548 -->
@@ -11099,6 +11111,13 @@
 *   **21/06/2012:** Quốc hội thông qua Luật Biển Việt Nam. [Nguồn: Lệnh số 11/2012/L-CTN ngày 02/07/2012 của Chủ tịch nước công bố Luật Biển Việt Nam; Báo Nhân Dân số ra ngày 22/06/2012]
 
 <!-- id: EVT-3135 -->
+*   **26/07/2012:** Chủ tịch nước Trương Tấn Sang ký Quyết định số 1096/QĐ-CTN phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho đồng chí Alăng Bhuôch (nguyên dân công làng A Zứt, xã A Vương, huyện Hiên - nay là huyện Tây Giang, Quảng Nam) vì thành tích đặc biệt xuất sắc trong kháng chiến chống Mỹ, cứu nước; trước đó ông đã được tặng thưởng Huân chương Chiến công hạng Ba và Huân chương Kháng chiến chống Mỹ, cứu nước hạng Nhất. [Nguồn: Học viện Lục quân, "Anh hùng A Lăng Bhuôch", 19/10/2023, https://hvlq.vn/tin-tuc/tin-trong-nuoc/anh-hung-a-lang-bhuoch.html; Báo Thanh Niên, 04/11/2015, https://thanhnien.vn/huyen-thoai-truong-son-alang-bhuoch-da-tu-tran-185514926.htm]
+
+![Hình ảnh tư liệu](images/event_20261003_120729.webp)
+
+*Nguồn: Anh hùng Alăng Bhuôch (giữa) trong một lần gặp gỡ Bí thư Thành ủy TP. Hồ Chí Minh Lê Thanh Hải / Báo Quảng Nam*
+
+<!-- id: EVT-3465 -->
 *   **27/07/2012:** Chủ tịch nước Trương Tấn Sang thăm chính thức Liên bang Nga theo lời mời của Tổng thống Vladimir Putin. Hai nguyên thủ đã ra Tuyên bố chung về việc tăng cường quan hệ Đối tác Chiến lược Toàn diện giữa Việt Nam và Liên bang Nga, đưa Nga trở thành quốc gia thứ hai thiết lập khuôn khổ Đối tác chiến lược toàn diện với Việt Nam. [Nguồn: Tuyên bố chung về việc tăng cường quan hệ Đối tác Chiến lược Toàn diện Việt Nam - Liên bang Nga ký ngày 27/07/2012 tại Matxcơva; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3136 -->
@@ -11320,6 +11339,13 @@
 *   **29/10/2015:** Tòa Trọng tài Thường trực (PCA) ra phán quyết xác định có thẩm quyền xét xử đối với 7 trong số 15 đệ trình của Philippines trong vụ kiện Trung Quốc về vấn đề Biển Đông. [Nguồn: Tòa Trọng tài Thường trực (PCA), Phán quyết về Thẩm quyền và Khả năng thụ lý trong Vụ kiện Biển Đông ngày 29/10/2015; Bộ Ngoại giao; Báo Nhân Dân]
 
 <!-- id: EVT-3198 -->
+*   **02/11/2015:** Anh hùng Lực lượng vũ trang nhân dân Alăng Bhuôch từ trần tại nhà riêng, hưởng thọ 84 tuổi; ngày 04/11/2015 chính quyền huyện Tây Giang cùng gia đình tổ chức lễ an táng tại nghĩa trang gia tộc thôn Arung, xã Bha Lêê. Đồng bào các vùng Tây Giang, Nam Giang, Đông Giang, Hòa Vang và A Lưới kính tặng ông biệt danh "ông già mù huyền thoại trên dãy Trường Sơn". [Nguồn: Báo Thanh Niên, "Huyền thoại Trường Sơn Alăng Bhuôch đã từ trần", 04/11/2015, https://thanhnien.vn/huyen-thoai-truong-son-alang-bhuoch-da-tu-tran-185514926.htm; Báo Người Lao Động, "Vĩnh biệt huyền thoại khiếm thị cõng hàng vượt Trường Sơn", 04/11/2015, https://nld.com.vn/thoi-su-trong-nuoc/vinh-biet-huyen-thoai-khiem-thi-cong-hang-vuot-truong-son-2015110419592325.htm; Văn hóa và Phát triển, https://vanhoavaphattrien.vn/qua-aruung-nho-nguoi-anh-hung-mu-huyen-thoai-tren-day-truong-son-a25142.html]
+
+![Hình ảnh tư liệu](images/event_20261003_120729_1.webp)
+
+*Nguồn: Anh hùng Alăng Bhuôch / Báo Thanh Niên*
+
+<!-- id: EVT-3466 -->
 * **10/12/2015:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Bá Ngọc (Liệt sĩ, người đã lấy thân mình che chở cho các em nhỏ khi quân Mỹ ném bom vào khu vực cầu Ghép ngày 4 tháng 4 năm 1965. Hy sinh ngày 5 tháng 4 năm 1965 do vết thương quá nặng khi mới 13 tuổi). [Nguồn: Quyết định số 2752/QĐ-CTN ngày 10/12/2015 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 2015]
 
 <!-- id: EVT-3199 -->
