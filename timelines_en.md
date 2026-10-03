@@ -9044,6 +9044,13 @@
 *   **Dec. 1971:** The 3rd Congress of the Vietnam Fatherland Front was held in Hanoi. [Source: Department of Propaganda and Training, Heroes of the People's Armed Forces, People's Army Publishing House, Hanoi, 1996]
 
 <!-- id: EVT-2541 -->
+*   **Dec. 18, 1971 - Apr. 6, 1972:** The joint Vietnamese-Laotian forces launched the Plain of Jars - Long Cheng Offensive (Campaign Z), fully liberating the Plain of Jars area on the Xieng Khouang Plateau, consolidating the Lao revolutionary base and protecting the strategic transport corridor from North Vietnam into the Indochinese battlefield, creating favorable conditions for switching to a defensive posture in the rainy season of 1972. [Source: Vietnam National Defence Journal - The 1972 Plain of Jars - Xieng Khouang Victory, https://tapchiqptd.vn/vi/su-kien-lich-su/chien-thang-canh-dong-chum-xieng-khoang-nam-1972-bieu-tuong-cua-tinh-doan-ket-huu-nghi-dac/18718.html]
+
+![Historical Image](images/event_20261003_104426.webp)
+
+*Source: Stone jars at the Plain of Jars, Xieng Khouang (Laos) / Spolloman / Wikimedia Commons (CC BY-SA 2.5)*
+
+<!-- id: EVT-3459 -->
 *   **Dec. 20, 1971:** At the Congress of Heroes of the People's Armed Forces organized by the Mien Command, Bui Van Thuyen was officially awarded the title Hero of the People's Armed Forces by the Provisional Revolutionary Government of the Republic of South Vietnam for his exceptional bravery, creativity, and combat achievements. [Source: Military History Institute of Vietnam, Heroes of the People's Armed Forces (Vol. 3), People's Army Publishing House, Hanoi; Binh Phuoc Newspaper]
 
 <!-- id: EVT-2542 -->
@@ -9100,6 +9107,13 @@
 * **19/05/1972:** The State of Vietnam awarded the title of Hero of the People's Armed Forces to Lê Xuân Tấu (Tư lệnh Binh chủng Tăng-Thiết Giáp). [Source: Military History Institute of Vietnam, The 1972 Strategic Offensive, People's Army Publishing House, Hanoi, 2002]
 
 <!-- id: EVT-2557 -->
+*   **May 21 - Nov. 15, 1972:** Vietnamese volunteer forces, in coordination with the Lao army and people, launched the Plain of Jars - Xieng Khouang Defensive Campaign across the Muong Soui - Nong Pet - Xieng Khouang town - Tham Lung quadrilateral. Over four phases with 244 engagements (170 by Vietnamese forces, 74 by Lao forces), the Vietnamese-Laotian coalition put more than 5,700 enemy troops out of action, including US-backed Royal Lao and Thai units, shot down 38 aircraft and captured over 800 guns of various types, firmly holding the strategic Plain of Jars and contributing to the collapse of the US Vietnamization strategy. [Source: VnExpress - The Plain of Jars - Xieng Khouang Defensive Campaign 50 Years On, https://vnexpress.net/chien-dich-phong-ngu-canh-dong-chum-xieng-khoang-50-nam-truoc-4466124.html]
+
+![Historical Image](images/event_20261003_104428.webp)
+
+*Source: Wreck of a PT-76 amphibious tank from the Indochina Wars in northern Laos / Gavilan1644 / Wikimedia Commons (CC BY 3.0)*
+
+<!-- id: EVT-3460 -->
 *   **Jun. 1, 1972:** The Politburo issued Resolution No. 220-NQ/TW on shifting and promoting tasks in the North, transitioning the economy to wartime conditions to continue defeating the US aggressors. [Source: Party Central Committee, Party Documents, Vol. 33, National Political Publishing House, Hanoi, 2004]
 
 <!-- id: EVT-2558 -->

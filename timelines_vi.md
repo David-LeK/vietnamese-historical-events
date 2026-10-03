@@ -9044,6 +9044,13 @@
 *   **12/1971:** Đại hội lần thứ ba của Mặt trận Tổ quốc Việt Nam được tổ chức tại Hà Nội. [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân, NXB Quân đội nhân dân, Hà Nội, 1996]
 
 <!-- id: EVT-2541 -->
+*   **18/12/1971 - 06/04/1972:** Liên quân Việt - Lào mở Chiến dịch tiến công Cánh Đồng Chum - Long Chẹng (Chiến dịch Z), giải phóng hoàn toàn khu vực Cánh Đồng Chum trên cao nguyên Xiêng Khoảng, củng cố vùng căn cứ cách mạng của Lào và bảo vệ hành lang tuyến vận tải chiến lược từ miền Bắc Việt Nam vào chiến trường Đông Dương, tạo thế có lợi để chuyển sang thế phòng ngự trong mùa mưa 1972. [Nguồn: Tạp chí Quốc phòng toàn dân - Chiến thắng Cánh Đồng Chum - Xiêng Khoảng năm 1972, https://tapchiqptd.vn/vi/su-kien-lich-su/chien-thang-canh-dong-chum-xieng-khoang-nam-1972-bieu-tuong-cua-tinh-doan-ket-huu-nghi-dac/18718.html]
+
+![Hình ảnh tư liệu](images/event_20261003_104426.webp)
+
+*Nguồn: Những chum đá tại Cánh Đồng Chum, Xiêng Khoảng (Lào) / Spolloman / Wikimedia Commons (CC BY-SA 2.5)*
+
+<!-- id: EVT-3459 -->
 *   **20/12/1971:** Tại Đại hội Anh hùng Lực lượng vũ trang nhân dân do Bộ Chỉ huy Miền tổ chức, Bùi Văn Thuyên được Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam tuyên dương danh hiệu Anh hùng Lực lượng vũ trang nhân dân vì những thành tích đặc biệt xuất sắc, mưu trí và dũng cảm trong chiến đấu. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng Vũ trang Nhân dân (tập 3), NXB Quân đội nhân dân, Hà Nội; Báo Bình Phước]
 
 <!-- id: EVT-2542 -->
@@ -9100,6 +9107,13 @@
 * **19/05/1972:** Nhà nước Việt Nam quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Xuân Tấu (Tư lệnh Binh chủng Tăng-Thiết Giáp). [Nguồn: Viện Lịch sử Quân sự Việt Nam, Cuộc Tiến công chiến lược năm 1972, NXB Quân đội nhân dân, Hà Nội, 2002]
 
 <!-- id: EVT-2557 -->
+*   **21/05 - 15/11/1972:** Quân tình nguyện Việt Nam phối hợp với quân và dân Lào mở Chiến dịch phòng ngự Cánh Đồng Chum - Xiêng Khoảng trên địa bàn tứ giác Mường Sủi - Nọng Pẹt - thị xã Xiêng Khoảng - Thẩm Lửng. Trải qua 4 đợt chiến đấu với 244 trận đánh (Việt Nam đánh 170 trận, Lào đánh 74 trận), liên quân Việt - Lào loại khỏi vòng chiến đấu hơn 5.700 quân đối phương gồm quân phái hữu Lào và quân Thái Lan do Mỹ hậu thuẫn, bắn rơi 38 máy bay, thu hơn 800 súng các loại, giữ vững địa bàn chiến lược Cánh Đồng Chum, góp phần làm phá sản chiến lược “Việt Nam hóa chiến tranh” của Mỹ. [Nguồn: VnExpress - Chiến dịch phòng ngự Cánh đồng Chum - Xiêng Khoảng 50 năm trước, https://vnexpress.net/chien-dich-phong-ngu-canh-dong-chum-xieng-khoang-50-nam-truoc-4466124.html]
+
+![Hình ảnh tư liệu](images/event_20261003_104428.webp)
+
+*Nguồn: Xác xe tăng lội nước PT-76 từ thời chiến tranh Đông Dương ở Bắc Lào / Gavilan1644 / Wikimedia Commons (CC BY 3.0)*
+
+<!-- id: EVT-3460 -->
 *   **01/06/1972:** Bộ Chính trị ra Nghị quyết số 220-NQ/TW về chuyển hướng và đẩy mạnh công tác ở miền Bắc, chuyển nền kinh tế sang thời chiến để tiếp tục đánh thắng giặc Mỹ. [Nguồn: Ban Chấp hành Trung ương Đảng, Văn kiện Đảng Toàn tập, tập 33, NXB Chính trị quốc gia, Hà Nội, 2004]
 
 <!-- id: EVT-2558 -->
