@@ -965,6 +965,10 @@
 <!-- id: EVT-0239 -->
 *   **1054:** Lý Thái Tông mất, Lý Nhật Tôn lên ngôi (Lý Thánh Tông), đổi quốc hiệu từ Đại Cồ Việt thành Đại Việt. [Nguồn: Quốc hiệu Việt Nam qua lịch sử dựng nước (Báo Nhân Dân), https://nhandan.vn/quoc-hieu-viet-nam-qua-lich-su-dung-nuoc-post362337.html]
 
+![Tượng đồng Hoàng đế Lý Thánh Tông](images/event_20261008_150047.webp)
+
+*Nguồn: Tượng đồng Hoàng đế Lý Thánh Tông tại Văn Miếu – Quốc Tử Giám, Hà Nội / Nguyễn Thanh Quang / Wikimedia Commons (CC BY-SA 3.0)*
+
 <!-- id: EVT-0240 -->
 *   **1055:** Hoàng tử Lý Nhật Quang đánh dẹp giặc Ông Kệ, Lý Phủ, ổn định vùng Nghệ An. [Nguồn: Việt điện u linh tập – Uy Minh Dũng Triết Chiêu Cảm Đại Vương; Lý Nhật Quang, https://vi.wikipedia.org/wiki/L%C3%BD_Nh%E1%BA%ADt_Quang]
 
@@ -2370,6 +2374,10 @@
 
 <!-- id: EVT-0662 -->
 *   **1442:** Triều Lê tổ chức khoa thi Tiến sĩ đầu tiên, lấy đỗ 33 người, trong đó có Trạng nguyên Nguyễn Trực. Bắt đầu cho dựng bia Tiến sĩ ở Văn Miếu. [Nguồn: Trạng nguyên đầu tiên có bia ở Văn Miếu (Dân Việt), https://danviet.vn/vi-trang-nguyen-dau-tien-duoc-dung-bia-tien-si-o-van-mieu-7777759045-d510757.html]
+
+![Gác Khuê Văn tại Văn Miếu](images/event_20261008_150046_6.webp)
+
+*Nguồn: Gác Khuê Văn bên giếng Thiên Quang tại Văn Miếu – Quốc Tử Giám, Hà Nội / Phuongcacanh / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-0663 -->
 *   **1442:** Triều Lê lần đầu tiên chuẩn hóa chức danh của các quan chịu trách nhiệm trong kỳ thi Hội (như Đề điệu, Giám thí) và chính thức chia người thi đỗ làm hai bảng: Chính bảng và Phụ bảng. Lần đầu tiên, các vị tân khoa được triều đình ban áo mũ, dự yến tiệc, và cấp ngựa cùng lính hầu để vinh quy bái tổ. [Nguồn: Phép chọn nhân tài nhà Hậu Lê (Bảo tàng Lịch sử Quốc gia), https://baotanglichsuquocgia.vn/vi/Articles/3091/6356/phep-chon-nhan-tai-cua-nha-hau-le.html]
@@ -4334,6 +4342,10 @@
 <!-- id: EVT-1203 -->
 *   **01/02/1862:** Thống đốc Nam Kỳ Bonard đã ký quyết định thành lập nhà tù Côn Đảo. Đây là thời điểm đánh dấu sự khai phá mang tính hệ thống nhưng cũng đầy tàn khốc của thực dân Pháp đối với hòn đảo này. [Nguồn: Nhà tù Côn Đảo: Từ địa ngục trần gian đến trường học cách mạng (Lưu trữ Quốc gia), https://www.archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/nha-tu-con-dao-tu-dia-nguc-tran-gian-den-truong-hoc-dau-tranh-cach-mang.htm]
 
+![Quần đảo Côn Đảo nhìn từ vệ tinh](images/event_20261008_150047_3.webp)
+
+*Nguồn: Quần đảo Côn Đảo ngoài khơi Nam Bộ nhìn từ vệ tinh Landsat 8, ngày 23/05/2015 / NASA và USGS / Wikimedia Commons (Public domain)*
+
 <!-- id: EVT-1204 -->
 *   **20 - 23/03/1862:** Thuyền chiến Pháp áp sát và nổ súng tấn công Vĩnh Long. Sau hai ngày đêm chiến đấu, quân Việt đốt kho tàng rồi rút chạy. Ngày 23/03, quân Pháp tiến vào chiếm thành Vĩnh Long lần thứ nhất. [Nguồn: Trận Vĩnh Long (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_V%C4%A9nh_Long]
 
@@ -4800,6 +4812,10 @@
 
 <!-- id: EVT-1340 -->
 *   **1896:** Nhà tù Hỏa Lò được xây dựng tại Hà Nội. [Nguồn: Ban Quản lý Di tích Nhà tù Hỏa Lò - Quá trình hình thành và xây dựng, https://hoalo.vn/Articles/38/48/qua-trinh-hinh-thanh-va-xay-dung.html]
+
+![Cổng Nhà tù Hỏa Lò](images/event_20261008_150045.webp)
+
+*Nguồn: Cổng Nhà tù Hỏa Lò với dòng chữ Maison Centrale, Hà Nội / thalling55 / Wikimedia Commons (CC BY 2.0)*
 
 <!-- id: EVT-1341 -->
 
@@ -5404,6 +5420,10 @@
 <!-- id: EVT-1502 -->
 *   **1925:** Tác phẩm chính luận xuất sắc *Bản án chế độ thực dân Pháp* (Le Procès de la colonisation française) của Nguyễn Ái Quốc được Thư quán Lao động (Librairie du Travail) xuất bản lần đầu tiên tại Paris (Pháp), tố cáo tội ác của chủ nghĩa thực dân và khơi dậy phong trào đấu tranh của các dân tộc thuộc địa. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
+![Bìa tác phẩm Bản án chế độ thực dân Pháp](images/event_20261008_150045_2.webp)
+
+*Nguồn: Bìa ấn bản đầu của tác phẩm Bản án chế độ thực dân Pháp (Le Procès de la colonisation française) của Nguyễn Ái Quốc, Thư quán Lao động, Paris / Lưu Ly / Wikimedia Commons (Public domain)*
+
 <!-- id: EVT-1503 -->
 *   **1925:** Tại đảo Réunion (nơi bị thực dân Pháp lưu đày), cựu hoàng Duy Tân (lấy tên hoàng thân Vĩnh San) kiên quyết từ chối trợ cấp đặc biệt để giữ khí tiết, tự học nghề kỹ thuật và mở tiệm **'Radio-Laboratoire Vĩnh San'** tại số 41 phố Labourdonnais (Saint-Denis). Ông trực tiếp sửa chữa, lắp ráp máy móc và thiết bị thu thanh vô tuyến (TSF), trở thành chuyên gia vô tuyến điện hàng đầu được chính quyền đảo nhờ thiết lập trạm truyền tin đầu tiên, và sau đó được cấp chứng chỉ điện đài nghiệp dư quốc tế (hô hiệu **FR8VX**). [Nguồn: Vua Duy Tân (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13775/vua-duy-tan.html]
 
@@ -5497,6 +5517,10 @@
 
 <!-- id: EVT-1528 -->
 *   **02/1927:** Tác phẩm *Đường Kách mệnh* của Nguyễn Ái Quốc được xuất bản tại Quảng Châu, hệ thống hóa các bài giảng lý luận Mác-Lênin cho cán bộ cách mạng Việt Nam, đặt nền móng lý luận cho cách mạng Việt Nam. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
+
+![Bản in gốc tác phẩm Đường Kách mệnh](images/event_20261008_150046.webp)
+
+*Nguồn: Bản in gốc tác phẩm Đường Kách mệnh trưng bày tại Bảo tàng Lịch sử Quốc gia, Bảo vật Quốc gia / Hoangkid / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-1529 -->
 *   **25/02/1927:** Thống sứ Bắc Kỳ Robin ra nghị định sửa đổi cuộc cải lương hương chính, cho phép Hội đồng kỳ mục cũ tồn tại song song với Hội đồng tộc biểu. [Nguồn: Châu bản triều Nguyễn (Trung tâm Lưu trữ Quốc gia I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
@@ -5676,6 +5700,10 @@
 
 <!-- id: EVT-1579 -->
 *   **09/02/1931:** Lý Tự Trọng bắn chết tên mật thám Le Grand tại Sài Gòn để bảo vệ đồng chí diễn thuyết, sau đó bị địch bắt. [Nguồn: Bảo tàng Lịch sử Quốc gia - Xếp hạng di tích quốc gia với di tích lịch sử phần mộ Lý Tự Trọng, https://baotanglichsu.vn/vi/Articles/3091/17207/xep-hang-di-tich-quoc-gia-voi-di-tich-lich-su-phan-mo-ly-tu-trong.html]
+
+![Chân dung Lý Tự Trọng](images/event_20261008_150045_1.webp)
+
+*Nguồn: Chân dung liệt sĩ Lý Tự Trọng (1914–1931) / Tác giả không rõ / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-1580 -->
 *   **11/04/1931:** Quốc tế Cộng sản ra nghị quyết công nhận Đảng Cộng sản Đông Dương là chi bộ độc lập. [Nguồn: Bảo tàng Lịch sử Quốc gia - Quốc tế Cộng sản công nhận Đảng Cộng sản Đông Dương là chi bộ độc lập, https://baotanglichsu.vn/vi/Articles/3097/14852/quoc-te-cong-san-cong-nhan-djang-cong-san-djong-duong-la-chi-bo-djoc-lap.html]
@@ -6194,6 +6222,10 @@
 <!-- id: EVT-1732 -->
 *   **17/08/1945:** Cuộc mít tinh của Tổng hội Công chức tại Quảng trường Nhà hát Lớn Hà Nội bị lực lượng Việt Minh và quần chúng biến thành cuộc biểu tình tuần hành rầm rộ ủng hộ cách mạng. Tại đây, bài hát **"Tiến quân ca"** của nhạc sĩ Văn Cao lần đầu tiên vang lên hùng tráng trước hàng vạn quần chúng nhân dân cùng lá cờ đỏ sao vàng khổng lồ buông xuống, tạo tiền đề trực tiếp cho cuộc Tổng khởi nghĩa 19/8 tại Hà Nội. [Nguồn: Cách mạng Tháng Tám năm 1945 tại Hà Nội (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13913/cach-mang-thang-tam-ha-noi.html]
 
+![Bản nhạc Quốc ca Tiến quân ca](images/event_20261008_150046_1.webp)
+
+*Nguồn: Bản nhạc bài Tiến quân ca của nhạc sĩ Văn Cao, sáng tác năm 1944, nay là Quốc ca / Cục Nghệ thuật biểu diễn, Bộ Văn hóa, Thể thao và Du lịch qua Cổng Thông tin Chính phủ / Wikimedia Commons (Public domain)*
+
 <!-- id: EVT-1733 -->
 *   **19/08/1945:** Tổng khởi nghĩa thắng lợi ở Hà Nội (Cách mạng tháng Tám). [Nguồn: https://nhandan.vn/ngay-1981945-cach-mang-thang-tam-thanh-cong-tai-thu-do-ha-noi-post900562.html]
 
@@ -6401,6 +6433,10 @@
 
 <!-- id: EVT-1783 -->
 *   **24/03/1946:** Chủ tịch Hồ Chí Minh và Cao ủy Pháp D'Argenlieu hội đàm tại Vịnh Hạ Long. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
+
+![Chân dung Cao ủy Pháp Thierry d'Argenlieu](images/event_20261008_150046_2.webp)
+
+*Nguồn: Cao ủy Pháp tại Đông Dương, Đô đốc Thierry d'Argenlieu, trong chuyến thăm Canada năm 1941 / Conrad Poirier / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-1784 -->
 *   **27/03/1946:** Chủ tịch Hồ Chí Minh ký Sắc lệnh số 37 cử Bác sĩ Vũ Đình Tụng, Giám đốc Nha Y tế Bắc Bộ, kiêm giữ chức Giám đốc Nha Y tế Trung ương thuộc Bộ Xã hội. [Nguồn: Bác sĩ Vũ Đình Tụng – Tấm lòng nhân ái trọn đời vì nhân dân (Báo Nhân Dân), https://nhandan.vn/bac-si-vu-dinh-tung-post641200.html]
@@ -6658,6 +6694,10 @@
 
 <!-- id: EVT-1853 -->
 *   **Đêm 17/02/1947:** Sau 60 ngày đêm chiến đấu ngoan cường, Trung đoàn Thủ đô thực hiện cuộc rút quân thần kỳ bằng cách lặng lẽ đi dưới gầm cầu Long Biên và vượt sông Hồng, sông Đuống để rút khỏi Hà Nội, bảo toàn lực lượng phục vụ kháng chiến lâu dài. [Nguồn: Bảo tàng Lịch sử Quốc gia - Trung đoàn Thủ đô rút lui (17/02/1947), https://baotanglichsu.vn/vi/Articles/3097/16652/trung-doan-thu-do-rut-lui-17-02-1947.html]
+
+![Bưu thiếp cầu Paul Doumer đầu thế kỷ XX](images/event_20261008_150046_3.webp)
+
+*Nguồn: Bưu thiếp thời Pháp thuộc chụp cầu Paul Doumer (nay là cầu Long Biên) bắc qua sông Hồng, dài 1.800 mét / Tác giả không rõ / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-1854 -->
 *   **17/02/1947:** Mặt trận Thống nhất Quốc gia Liên hiệp được thành lập tại Nam Kinh (Trung Quốc) bởi các lãnh đạo Việt Cách và Việt Quốc để ủng hộ giải pháp Bảo Đại. [Nguồn: Viện Sử học, Lịch sử Việt Nam, tập 10, NXB Khoa học Xã hội, Hà Nội, 2014]
@@ -7327,6 +7367,10 @@
 <!-- id: EVT-2051 -->
 *   **03/1954:** Nhà báo quốc tế người Australia Wilfred Burchett lần đầu tiên vượt rừng vào An toàn khu Định Hóa (Việt Bắc) phỏng vấn Chủ tịch Hồ Chí Minh trong lúc Chiến dịch Điện Biên Phủ đang diễn ra. Trong cuộc gặp, khi được hỏi về cục diện chiến trường, Chủ tịch Hồ Chí Minh đã lật ngửa chiếc mũ cối và ví lòng chảo Điện Biên Phủ như lòng mũ: quân Pháp đang ở dưới đáy thung lũng còn bộ đội Việt Nam ở trên vành mũ, khẳng định chắc chắn quân Pháp không thể thoát khỏi thất bại. [Nguồn: Wilfred Burchett, Đường mòn Hồ Chí Minh (bản dịch tiếng Việt), NXB Thông tấn, Hà Nội, 2005; Hồ Chí Minh - Biên niên tiểu sử, tập 5, NXB Chính trị quốc gia Sự thật, Hà Nội, 2016]
 
+![Bản đồ tình huống trận Điện Biên Phủ](images/event_20261008_150644.webp)
+
+*Nguồn: Bản đồ tình huống trận Điện Biên Phủ (20/11/1953–07/05/1954) với vị trí các đại đoàn 308, 312, 351 của Việt Minh / Tác giả không rõ / Wikimedia Commons (CC0)*
+
 <!-- id: EVT-2052 -->
 *   **13 - 17/03/1954:** Trong đợt 1 của chiến dịch Điện Biên Phủ, bộ đội Việt Nam nổ súng vào lúc 17h05 ngày 13/03. Nhanh chóng tiêu diệt cứ điểm Him Lam (13/03) và Độc Lập (15/03), khiến chỉ huy pháo binh Pháp Piroth phải tự sát. Bản Kéo xin hàng vào ngày 17/03. Trong đợt này, ngày 14/03, chiếc máy bay đầu tiên của Pháp đã bị cao xạ Việt Nam bắn rơi. [Nguồn: https://baochinhphu.vn/chien-dich-dien-bien-phu-3-dot-tan-cong-ac-liet-10224050209051285.htm]
 
@@ -7411,6 +7455,10 @@
 
 <!-- id: EVT-2071 -->
 *   **20/07/1954:** Giáo sư Tạ Quang Bửu, đại diện Bộ Tổng Tư lệnh Quân đội nhân dân Việt Nam, ký Hiệp định đình chiến Giơnevơ tại Thụy Sĩ. [Nguồn: Bảo tàng Lịch sử Quốc gia - Tạ Quang Bửu ký Hiệp định (20/07/1954), https://baotanglichsu.vn/vi/Articles/3097/16683/ta-quang-buu-ky-hiep-dinh-20-07-1954.html]
+
+![Chân dung Giáo sư Tạ Quang Bửu](images/event_20261008_150046_4.webp)
+
+*Nguồn: Giáo sư Tạ Quang Bửu, đại diện Bộ Tổng Tư lệnh ký Hiệp định Giơnevơ / Nguyễn Xuân Hãn / Wikimedia Commons (CC BY-SA 4.0)*
 
 <!-- id: EVT-2072 -->
 *   **25/07/1954:** Sau khi Hiệp định Giơ-ne-vơ được ký kết lập lại hòa bình ở Đông Dương, danh họa Pablo Picasso sáng tác tác phẩm "Hòa bình muôn năm" (Vive la paix) với hình ảnh bồ câu hòa bình và nét vẽ đậm chất Việt Nam, biểu thị sự ủng hộ cuộc đấu tranh vì hòa bình và độc lập của dân tộc Việt Nam. [Nguồn: Hồ Chí Minh Toàn tập, tập 8 (1953 - 1954), NXB Chính trị quốc gia, Hà Nội, 2011, tr. 506]
@@ -7849,6 +7897,10 @@
 
 <!-- id: EVT-2182 -->
 *   **20/12/1960:** **Mặt trận Dân tộc Giải phóng miền Nam Việt Nam** được thành lập tại vùng căn cứ Tây Ninh (xã Tân Lập, huyện Châu Thành, nay thuộc huyện Tân Biên). Đại hội đã thông qua bản Tuyên ngôn, Chương trình hành động 10 điểm và chính thức công bố lá **Cờ Mặt trận** (do Kiến trúc sư Huỳnh Tấn Phát thiết kế): nền cờ chia đôi theo chiều ngang gồm nửa trên màu đỏ (tượng trưng cho độc lập, cách mạng và hậu phương lớn miền Bắc), nửa dưới màu xanh hòa bình (tượng trưng cho miền Nam ruột thịt đang kiên cường chiến đấu), ở giữa là ngôi sao vàng năm cánh (tượng trưng cho khối đại đoàn kết toàn dân tộc). Lá cờ giải phóng trở thành ngọn cờ hiệu triệu đồng bào và chiến sĩ miền Nam trong cuộc kháng chiến chống Mỹ cứu nước. [Nguồn: Bảo tàng Lịch sử Quốc gia - Mặt trận Giải phóng miền Nam Việt Nam (1960), https://baotanglichsu.vn/vi/Articles/3097/15717/mat-tran-giai-phong-mien-nam-viet-nam-1960.html]
+
+![Chân dung luật sư Nguyễn Hữu Thọ năm 1932](images/event_20261008_150047_1.webp)
+
+*Nguồn: Luật sư Nguyễn Hữu Thọ năm 1932, Chủ tịch Mặt trận Dân tộc Giải phóng miền Nam Việt Nam / Tác giả không rõ / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-2183 -->
 
@@ -9533,6 +9585,10 @@
 
 <!-- id: EVT-2647 -->
 *   **29 - 30/04/1975:** **Chiến dịch di tản Gió Lốc (*Operation Frequent Wind*) và làn sóng di tản:** Trong những ngày cuối cùng trước khi Sài Gòn giải phóng, quân đội Mỹ đã tiến hành cuộc di tản bằng trực thăng quy mô lớn nhất lịch sử. Cùng với các chuyến bay trực thăng từ nóc Tòa Đại sứ Mỹ và sân bay Tân Sơn Nhất, hàng nghìn tàu thuyền chở sĩ quan, binh lính ngụy quân VNCH, viên chức ngụy quyền và gia đình của họ đã ồ ạt tháo chạy ra Biển Đông để hướng về các chiến hạm thuộc Hạm đội 7 của Mỹ. Hơn 130.000 người đã được di tản khỏi Việt Nam trong đợt này, mở đầu cho làn sóng di cư và định cư của người Việt tại Hoa Kỳ và các nước phương Tây. [Nguồn: U.S. Marine Corps History Division, The U.S. Marines in Vietnam: The Bitter End 1973-1975, Washington D.C., 1990; George C. Herring, America's Longest War, McGraw-Hill, 2001]
+
+![Trực thăng CH-53 trong Chiến dịch Gió Lốc](images/event_20261008_150047_2.webp)
+
+*Nguồn: Hai trực thăng CH-53 hạ cánh xuống khu nhà Tùy viên Quốc phòng trong Chiến dịch Gió Lốc, binh sĩ Mỹ làm nhiệm vụ bảo vệ, ngày 29–30/04/1975 / Dirck Halstead / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-2648 -->
 *   **30/04/1975:** Miền Nam hoàn toàn giải phóng, kết thúc cuộc kháng chiến chống Mỹ, cứu nước. Đất nước thống nhất về mặt lãnh thổ. [Nguồn: https://baochinhphu.vn/chien-thang-30-4-la-thanh-qua-vi-dai-nhat-cua-su-nghiep-giai-phong-dan-toc-102255307.htm]

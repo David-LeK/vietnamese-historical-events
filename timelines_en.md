@@ -965,6 +965,10 @@
 <!-- id: EVT-0239 -->
 *   **1054:** Ly Thai Tong passed away, Ly Nhat Ton ascended the throne (Ly Thanh Tong), and changed the national name from Dai Co Viet to Dai Viet. [Source: Vietnam National Titles Through Nation-Building History (Nhan Dan), https://nhandan.vn/quoc-hieu-viet-nam-qua-lich-su-dung-nuoc-post362337.html]
 
+![Bronze statue of Emperor Ly Thanh Tong](images/event_20261008_150047.webp)
+
+*Source: Bronze statue of Emperor Ly Thanh Tong at the Temple of Literature, Hanoi / Nguyen Thanh Quang / Wikimedia Commons (CC BY-SA 3.0)*
+
 <!-- id: EVT-0240 -->
 *   **1055:** Prince Ly Nhat Quang suppressed the rebellion of Ong Ke and Ly Phu, ensuring stability in the Nghe An region. [Source: Viet Dien U Linh Tap – Story of Prince Ly Nhat Quang, https://vi.wikipedia.org/wiki/L%C3%BD_Nh%E1%BA%ADt_Quang]
 
@@ -2370,6 +2374,10 @@
 
 <!-- id: EVT-0662 -->
 *   **1442:** The Le court held the first doctoral examination, passing 33 people, including Trang Nguyen (First Laureate) Nguyen Truc. The practice of erecting doctoral stelae at the Temple of Literature began. [Source: First Laureate Honored at the Temple of Literature (Dan Viet), https://danviet.vn/vi-trang-nguyen-dau-tien-duoc-dung-bia-tien-si-o-van-mieu-7777759045-d510757.html]
+
+![Khue Van pavilion at the Temple of Literature](images/event_20261008_150046_6.webp)
+
+*Source: Khue Van pavilion beside the Thien Quang well at the Temple of Literature, Hanoi / Phuongcacanh / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-0663 -->
 *   **1442:** The Le court standardized the titles of officials responsible for the metropolitan examinations (such as De dieu and Giam thi) and formally divided successful candidates into two lists: the primary list (Chinh bang) and the supplementary list. For the first time, new laureates were granted scholarly attire, attended royal banquets, and were provided with horses and escorts to return to their hometowns in honor (vinh quy bai to). [Source: Later Le Talent Selection (National Museum of History), https://baotanglichsuquocgia.vn/vi/Articles/3091/6356/phep-chon-nhan-tai-cua-nha-hau-le.html]
@@ -4334,6 +4342,10 @@
 <!-- id: EVT-1203 -->
 *   **01/02/1862:** Governor Bonard of Cochinchina signed the decision to establish Con Dao prison. This marked the beginning of the systematic but also brutal exploitation of this island by the French colonialists. [Source: Con Dao Prison: From Earthly Hell to School of Revolutionary Struggle (National Archives of Vietnam), https://www.archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/nha-tu-con-dao-tu-dia-nguc-tran-gian-den-truong-hoc-dau-tranh-cach-mang.htm]
 
+![Con Dao Islands from satellite](images/event_20261008_150047_3.webp)
+
+*Source: Con Dao Islands off the southern coast seen by Landsat 8 satellite, May 23, 2015 / NASA and USGS / Wikimedia Commons (Public domain)*
+
 <!-- id: EVT-1204 -->
 *   **Mar. 20 - 23, 1862:** French gunboats attacked Vinh Long. After days of fierce fighting, Vietnamese forces burned their own facilities and retreated. French forces occupied Vinh Long Citadel on March 23. [Source: Capture of Vinh Long (Wikipedia), https://en.wikipedia.org/wiki/Capture_of_Vinh_Long]
 
@@ -4800,6 +4812,10 @@
 
 <!-- id: EVT-1340 -->
 *   **1896:** Hoa Lo Prison was built in Hanoi. [Source: Management Board of Hoa Lo Prison Historical Relic - Formation and Construction Process, https://hoalo.vn/Articles/38/48/qua-trinh-hinh-thanh-va-xay-dung.html]
+
+![Hoa Lo Prison gate](images/event_20261008_150045.webp)
+
+*Source: Gate of Hoa Lo Prison with the Maison Centrale inscription, Hanoi / thalling55 / Wikimedia Commons (CC BY 2.0)*
 
 <!-- id: EVT-1341 -->
 
@@ -5404,6 +5420,10 @@
 <!-- id: EVT-1502 -->
 *   **1925:** Nguyen Ai Quoc's seminal polemical work *French Colonialism on Trial* (Le Procès de la colonisation française) was published in Paris by the Librairie du Travail, exposing colonial atrocities and inspiring liberation movements across colonized nations. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
+![Cover of French Colonialism on Trial](images/event_20261008_150045_2.webp)
+
+*Source: First-edition cover of Nguyen Ai Quoc's French Colonialism on Trial (Le Proces de la colonisation francaise), Librairie du Travail, Paris / Luu Ly / Wikimedia Commons (Public domain)*
+
 <!-- id: EVT-1503 -->
 *   **1925:** On Réunion Island (where he was exiled by the French), deposed Emperor Duy Tan (Prince Vinh San) staunchly refused special colonial stipends to maintain his honor, mastering electromechanics to establish his own shop, **'Radio-Laboratoire Vinh San,'** at 41 Rue Labourdonnais in Saint-Denis. He personally assembled and repaired wireless telegraph and radio receivers (TSF), earning recognition as a premier wireless technician tasked with installing the island's first radio broadcast system and later securing an international amateur radio license (callsign **FR8VX**). [Source: Emperor Duy Tan (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13775/vua-duy-tan.html]
 
@@ -5497,6 +5517,10 @@
 
 <!-- id: EVT-1528 -->
 *   **Feb. 1927:** Nguyễn Ái Quốc's work *Đường Kách mệnh* (The Revolutionary Path) was published in Guangzhou, systemizing Marxist-Leninist lectures for Vietnamese revolutionaries and laying the theoretical foundation for the Vietnamese revolution. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
+
+![Original print of The Revolutionary Path](images/event_20261008_150046.webp)
+
+*Source: Original print of The Revolutionary Path displayed at the National Museum of Vietnamese History, National Treasure of Vietnam / Hoangkid / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-1529 -->
 *   **Feb. 25, 1927:** The Resident Superior of Tonkin, Robin, issued a decree amending the reform of village administration, allowing the old council of village notables to exist alongside the council of representatives. [Source: Chau Ban of the Nguyen Dynasty (National Archives Center I), https://archives.org.vn/chau-ban-trieu-nguyen/gioi-thieu.htm]
@@ -5676,6 +5700,10 @@
 
 <!-- id: EVT-1579 -->
 *   **Feb. 9, 1931:** Ly Tu Trong shot and killed the French secret agent Le Grand in Saigon to protect a speaking comrade, after which he was captured by the enemy. [Source: Vietnam National Museum of History - National Relic Ranking for the Historical Relic of Ly Tu Trong's Tomb, https://baotanglichsu.vn/vi/Articles/3091/17207/xep-hang-di-tich-quoc-gia-voi-di-tich-lich-su-phan-mo-ly-tu-trong.html]
+
+![Portrait of Ly Tu Trong](images/event_20261008_150045_1.webp)
+
+*Source: Portrait of martyr Ly Tu Trong (1914-1931) / Unknown author / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-1580 -->
 *   **Apr. 11, 1931:** The Communist International issued a resolution recognizing the Indochinese Communist Party as an independent section. [Source: Vietnam National Museum of History - The Communist International Recognizes the Indochinese Communist Party as an Independent Section, https://baotanglichsu.vn/vi/Articles/3097/14852/quoc-te-cong-san-cong-nhan-djang-cong-san-djong-duong-la-chi-bo-djoc-lap.html]
@@ -6194,6 +6222,10 @@
 <!-- id: EVT-1732 -->
 *   **Aug. 17, 1945:** A rally organized by the Civil Servants' Association at the Hanoi Opera House Square was transformed by Viet Minh forces and the masses into a massive pro-revolutionary demonstration. Here, composer Van Cao's **"Tien Quan Ca"** was sung publicly for the first time before tens of thousands of citizens under a gigantic red flag with a gold star, paving the direct path for the August 19 General Uprising in Hanoi. [Source: August Revolution of 1945 in Hanoi (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13913/cach-mang-thang-tam-ha-noi.html]
 
+![National anthem sheet music](images/event_20261008_150046_1.webp)
+
+*Source: Sheet music of Tien Quan Ca by composer Van Cao, written in 1944, now the national anthem / Performing Arts Department, Ministry of Culture, Sports and Tourism via the Government Portal / Wikimedia Commons (Public domain)*
+
 <!-- id: EVT-1733 -->
 *   **Aug. 19, 1945:** The General Uprising succeeded in Hanoi (August Revolution). [Source: https://nhandan.vn/ngay-1981945-cach-mang-thang-tam-thanh-cong-tai-thu-do-ha-noi-post900562.html]
 
@@ -6401,6 +6433,10 @@
 
 <!-- id: EVT-1783 -->
 *   **Mar. 24, 1946:** President Ho Chi Minh and French High Commissioner D'Argenlieu held talks in Ha Long Bay. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
+
+![Portrait of French High Commissioner Thierry d'Argenlieu](images/event_20261008_150046_2.webp)
+
+*Source: French High Commissioner in Indochina, Admiral Thierry d'Argenlieu, during his 1941 visit to Canada / Conrad Poirier / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-1784 -->
 *   **Mar. 27, 1946:** President Ho Chi Minh signed Decree No. 37 appointing Dr. Vu Dinh Tung, Director of the Northern Health Department, concurrently as Director of the Central Health Department under the Ministry of Social Affairs. [Source: Doctor Vu Dinh Tung – Benevolent Physician for the People (Nhan Dan Newspaper), https://nhandan.vn/bac-si-vu-dinh-tung-post641200.html]
@@ -6658,6 +6694,10 @@
 
 <!-- id: EVT-1853 -->
 *   **Night of Feb. 17, 1947:** After 60 days and nights of resilient fighting, the Capital Regiment miraculously withdrew from Hanoi by quietly crossing under the Long Bien bridge and traversing the Red and Duong rivers to preserve its forces for long-term resistance. [Source: Vietnam National Museum of History - The Capital Regiment Withdraws (February 17, 1947), https://baotanglichsu.vn/vi/Articles/3097/16652/trung-doan-thu-do-rut-lui-17-02-1947.html]
+
+![Early-20th-century postcard of the Paul Doumer Bridge](images/event_20261008_150046_3.webp)
+
+*Source: French-era postcard showing the Paul Doumer Bridge (now Long Bien Bridge) over the Red River, 1,800 metres long / Unknown author / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-1854 -->
 *   **Feb. 17, 1947:** The National United Front (Mat tran Thong nhat Quoc gia Lien hiep) was established in Nanjing (China) by leaders of Viet Cach and Viet Quoc to support Bao Dai. [Source: Institute of History, History of Vietnam, Vol. 10, Social Sciences Publishing House, Hanoi, 2014]
@@ -7327,6 +7367,10 @@
 <!-- id: EVT-2051 -->
 *   **Mar. 1954:** Australian international journalist Wilfred Burchett journeyed into the Dinh Hoa Safe Zone (Viet Bac) to interview President Ho Chi Minh as the Dien Bien Phu Campaign was unfolding. In this historic meeting, President Ho Chi Minh inverted his pith helmet to illustrate the battlefield: the French expeditionary forces were trapped in the bottom of the helmet while Vietnamese troops commanded the rim, foretelling an inevitable defeat for the French. [Source: Wilfred Burchett, Passport: An Autobiography, Thomas Nelson, Melbourne, 1969; Ho Chi Minh - A Chronological Biography, Vol. 5, National Political Publishing House, Hanoi, 2016]
 
+![Situation map of the Dien Bien Phu battle](images/event_20261008_150644.webp)
+
+*Source: Situation map of the Dien Bien Phu battle (November 20, 1953-May 7, 1954) showing Viet Minh divisions 308, 312 and 351 / Unknown author / Wikimedia Commons (CC0)*
+
 <!-- id: EVT-2052 -->
 *   **Mar. 13 - 17, 1954:** In the first phase of the Dien Bien Phu Campaign, the Vietnamese forces opened fire at 5:05 PM on March 13. They rapidly annihilated the Him Lam (Mar. 13) and Doc Lap (Mar. 15) strongpoints, forcing the French artillery commander Piroth to commit suicide. Ban Keo surrendered on March 17, breaking the enemy's northern defense system. During this phase, on March 14, the first French aircraft was shot down by Vietnamese anti-aircraft fire. [Source: https://baochinhphu.vn/chien-dich-dien-bien-phu-3-dot-tan-cong-ac-liet-10224050209051285.htm]
 
@@ -7411,6 +7455,10 @@
 
 <!-- id: EVT-2071 -->
 *   **Jul. 20, 1954:** Professor Ta Quang Buu, representing the High Command of the Vietnam People's Army, signed the Geneva Armistice Agreement in Switzerland. [Source: Vietnam National Museum of History - Ta Quang Buu Signs the Agreement (July 20, 1954), https://baotanglichsu.vn/vi/Articles/3097/16683/ta-quang-buu-ky-hiep-dinh-20-07-1954.html]
+
+![Portrait of Professor Ta Quang Buu](images/event_20261008_150046_4.webp)
+
+*Source: Professor Ta Quang Buu, representative of the High Command who signed the Geneva Agreement / Nguyen Xuan Han / Wikimedia Commons (CC BY-SA 4.0)*
 
 <!-- id: EVT-2072 -->
 *   **Jul. 25, 1954:** Following the signing of the Geneva Accords restoring peace in Indochina, painter Pablo Picasso created the artwork "Vive la paix" (Long Live Peace) featuring his iconic peace dove and imagery of the Vietnamese people, expressing support for Vietnam's struggle for peace and independence. [Source: Ho Chi Minh Complete Works, Vol. 8 (1953 - 1954), National Political Publishing House, Hanoi, 2011, p. 506]
@@ -7849,6 +7897,10 @@
 
 <!-- id: EVT-2182 -->
 *   **Dec. 20, 1960:** The **National Liberation Front for South Vietnam** (NLF) was established in the base area of Tay Ninh (Tan Lap commune, Chau Thanh district, now Tan Bien district). The congress adopted its Manifesto, a 10-point Action Program, and officially unveiled the **NLF Flag** (designed by architect Huynh Tan Phat): horizontally divided into a red upper half (symbolizing independence, revolution, and the Northern rear base) and a peace-blue lower half (symbolizing the beloved South enduring resolute struggle), centered with a five-pointed gold star (symbolizing great national unity). The Liberation flag became the rallying banner uniting and inspiring the southern armed forces and people throughout the anti-US resistance war. [Source: Vietnam National Museum of History - The National Liberation Front of South Vietnam (1960), https://baotanglichsu.vn/vi/Articles/3097/15717/mat-tran-giai-phong-mien-nam-viet-nam-1960.html]
+
+![Portrait of lawyer Nguyen Huu Tho in 1932](images/event_20261008_150047_1.webp)
+
+*Source: Lawyer Nguyen Huu Tho in 1932, Chairman of the National Liberation Front of South Vietnam / Unknown author / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-2183 -->
 
@@ -9533,6 +9585,10 @@
 
 <!-- id: EVT-2647 -->
 *   **Apr. 29 - 30, 1975:** **Operation Frequent Wind and the evacuation wave:** In the final days before the liberation of Saigon, the US military carried out the largest helicopter evacuation in history. Alongside helicopter flights from the US Embassy rooftop and Tan Son Nhat Air Base, thousands of ships and boats carrying ARVN officers, soldiers, government officials, and their families fled into the East Sea toward US Seventh Fleet warships. More than 130,000 people were evacuated from Vietnam during this period, initiating the diaspora and resettlement of South Vietnamese refugees in the United States and Western countries. [Source: U.S. Marine Corps History Division, The U.S. Marines in Vietnam: The Bitter End 1973-1975, Washington D.C., 1990; George C. Herring, America's Longest War, McGraw-Hill, 2001]
+
+![CH-53 helicopters during Operation Frequent Wind](images/event_20261008_150047_2.webp)
+
+*Source: Two CH-53 helicopters landing at the Defense Attache Office compound during Operation Frequent Wind, with a US Marine on security duty, April 29-30, 1975 / Dirck Halstead / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-2648 -->
 *   **Apr. 30, 1975:** The South was completely liberated, ending the resistance war against the US to save the nation. The country was unified in terms of territory. [Source: https://baochinhphu.vn/chien-thang-30-4-la-thanh-qua-vi-dai-nhat-cua-su-nghiep-giai-phong-dan-toc-102255307.htm]
