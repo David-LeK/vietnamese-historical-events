@@ -6049,6 +6049,10 @@
 <!-- id: EVT-1681 -->
 *   **06/09/1942:** Nguyên Tổng Bí thư **Lê Hồng Phong** trút hơi thở cuối cùng và kiên cường hy sinh tại xà lim số 5 Banh II, nhà tù Côn Đảo đúng vào ngày sinh nhật lần thứ 40, sau chuỗi ngày bị địch tra tấn tàn bạo và hành hạ thể xác. Trước lúc hy sinh, ông gửi lại lời trăn trối bất hủ: *"Xin chào tất cả các đồng chí. Nhờ các đồng chí nói với Đảng rằng: Tới giờ phút cuối cùng, Lê Hồng Phong vẫn một lòng tin tưởng ở thắng lợi vẻ vang của cách mạng"*. [Nguồn: Đồng chí Lê Hồng Phong – Nhà lãnh đạo xuất sắc của Đảng (Báo Nhân Dân), https://nhandan.vn/dong-chi-le-hong-phong-nha-lanh-dao-xuat-sac-cua-dang-va-cach-mang-viet-nam-post713500.html]
 
+![Chân dung Lê Hồng Phong](images/event_20261008_163114_4.webp)
+
+*Nguồn: Chân dung Tổng Bí thư Lê Hồng Phong (1902–1942), ảnh chụp trước năm 1940 / Tác giả không rõ / Wikimedia Commons (Public domain)*
+
 <!-- id: EVT-1682 -->
 *   **01/10/1942:** Việt Nam Cách mệnh Đồng minh Hội (Việt Cách) được thành lập tại Liễu Châu (Trung Quốc), tập hợp nhiều đảng phái yêu nước. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
@@ -6088,6 +6092,10 @@
 
 <!-- id: EVT-1693 -->
 *   **08/1943:** Chi bộ Nhà tù Sơn La tổ chức cuộc vượt ngục lịch sử cho các tù chính trị cốt cán để chuẩn bị cho Tổng khởi nghĩa. Lò Văn Giá, người thạo tiếng Mông và địa hình Tây Bắc, được chọn dẫn đường cho 4 chiến sĩ cộng sản: Trần Đăng Ninh, Nguyễn Lương Bằng, Nguyễn Văn Trân và Lưu Đức Hiểu. Sau 5 ngày gian khổ, ông đã đưa đoàn đến đích an toàn tại khu vực Suối Rút (Hòa Bình). Khi quay lại Sơn La, Lò Văn Giá bị thực dân Pháp bắt. Không khai thác được chứng cứ và bất lực trước lòng trung thành tuyệt đối của ông, giặc Pháp đã lén lút thủ tiêu ông. [Nguồn: Cuộc vượt ngục lịch sử ở Nhà tù Sơn La (Báo Nhân Dân), https://nhandan.vn/cuoc-vuot-nguc-lich-su-o-nha-tu-son-la-post652140.html]
+
+![Di tích Nhà tù Sơn La](images/event_20261008_163116_2.webp)
+
+*Nguồn: Phế tích Di tích Nhà tù Sơn La, nơi Chi bộ nhà tù tổ chức cuộc vượt ngục lịch sử tháng 08/1943 / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-1694 -->
 *   **27/10/1943:** Bác sĩ Trần Văn Lai bị chính quyền thực dân Pháp bắt giam tại Hỏa Lò, sau đó đày lên nhà tù Sơn La vì các hoạt động yêu nước. [Nguồn: Bác sĩ Trần Văn Lai – Vị Thị trưởng trí thức của Hà Nội (Báo Nhân Dân), https://nhandan.vn/bac-si-tran-van-lai-vi-thi-truong-tri-thuc-cua-ha-noi-post661200.html]
@@ -6155,6 +6163,10 @@
 
 <!-- id: EVT-1714 -->
 *   **11/03/1945:** Ngay sau đêm Nhật đảo chính Pháp, đồng chí Đỗ Mười (đang thụ án 10 năm tù khổ sai tại Nhà tù Hỏa Lò) cùng các chiến sĩ cộng sản tổ chức cuộc vượt ngục Hỏa Lò táo bạo qua hệ thống cống ngầm, nhanh chóng bắt liên lạc với cách mạng và trực tiếp chỉ đạo giành chính quyền thắng lợi tại tỉnh Hà Đông trong Cách mạng Tháng Tám. [Nguồn: Đồng chí Đỗ Mười – Người cộng sản kiên trung (Báo Nhân Dân), https://nhandan.vn/dong-chi-do-muoi-nha-lanh-dao-xuat-sac-post614500.html]
+
+![Chân dung Đỗ Mười 2008](images/event_20261008_163116_1.webp)
+
+*Nguồn: Đồng chí Đỗ Mười tại lễ Vesak 2008 ở Hà Nội / Lưu Ly / Wikimedia Commons (CC BY-SA 3.0)*
 
 <!-- id: EVT-1715 -->
 *   **29/03/1945:** Hồ Chí Minh gặp Thiếu tướng Claire Lee Chennault, Chỉ huy trưởng Không đoàn 14 Không lực Lục quân Hoa Kỳ, tại Côn Minh (Trung Quốc), thiết lập mối quan hệ ban đầu giữa Việt Minh và Mỹ. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
@@ -7200,6 +7212,10 @@
 <!-- id: EVT-2002 -->
 *   **10/1952:** Trước thềm Chiến dịch Tây Bắc, Đại đoàn 308 (Đại đoàn Quân Tiên phong) chính thức lấy tên của chiến sĩ nuôi quân Hoàng Cầm để đặt tên cho sáng kiến bếp dã chiến không khói là **"bếp Hoàng Cầm"**, đồng thời tổ chức tập huấn kỹ thuật và nhân rộng mô hình ra toàn quân. Sáng kiến hậu cần mang tính bước ngoặt này đã giúp Quân đội Nhân dân Việt Nam thực hiện triệt để phương châm tác chiến "đi không dấu, nấu không khói, nói không tiếng", trở thành trang bị hậu cần kinh điển bảo đảm sức khỏe và hậu cần cho bộ đội trong Chiến dịch Điện Biên Phủ (1954) cũng như suốt cuộc kháng chiến chống Mỹ cứu nước sau này. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Đại đoàn 308 - Quân Tiên phong (1949 - 1979), NXB Quân đội nhân dân, Hà Nội, 1979; Báo Quân đội nhân dân]
 
+![Mô hình bếp Hoàng Cầm](images/event_20261008_163113.webp)
+
+*Nguồn: Mô hình phục dựng bếp Hoàng Cầm tại Chiến khu Đ, bếp dã chiến không khói mang tên chiến sĩ nuôi quân Hoàng Cầm / Phương Huy / Wikimedia Commons (CC BY-SA 4.0)*
+
 <!-- id: EVT-2003 -->
 *   **14/10 - 10/12/1952:** Dưới sự chỉ huy trực tiếp của Đại tướng Võ Nguyên Giáp (Chỉ huy trưởng kiêm Bí thư Đảng ủy chiến dịch), quân và dân ta mở **Chiến dịch Tây Bắc**. Quân ta lập nên các chiến thắng vang dội: hạ phân khu Nghĩa Lộ (18/10) và đánh bại cuộc hành quân Lorraine của Pháp bằng trận phục kích Chân Mộng - Trạm Thản (17/11). Chiến dịch giải phóng một vùng rộng lớn bao gồm Điện Biên Phủ (30/11) và hầu hết tỉnh Sơn La (trừ Nà Sản), đập tan âm mưu "Xứ Thái tự trị" và nối liền căn cứ địa Việt Bắc với Thượng Lào. [Nguồn: Báo Nhân Dân - Chiến dịch Tây Bắc, https://special.nhandan.vn/chien-dich-tay-bac-1952/index.html]
 
@@ -7358,6 +7374,10 @@
 <!-- id: EVT-2048 -->
 * **01/02/1954:** Liệt sĩ Tô Vĩnh Diện (Tiểu đội trưởng pháo cao xạ 37mm thuộc Đại đội 827, Tiểu đoàn 394, Trung đoàn 367) anh dũng lấy thân mình chèn pháo để bảo vệ khẩu pháo không rơi xuống vực trong Chiến dịch Điện Biên Phủ. [Nguồn: https://nhandan.vn/ai-la-nguoi-lay-than-minh-chen-phao-post801932.html]
 
+![Bia mộ liệt sĩ Tô Vĩnh Diện](images/event_20261008_163113_1.webp)
+
+*Nguồn: Bia mộ Anh hùng Tô Vĩnh Diện tại Nghĩa trang liệt sĩ Điện Biên Phủ, khắc quê quán Nông Cống – Thanh Hóa và ngày hy sinh 21-01-1954 / Hoàng Văn Thái / Wikimedia Commons (CC BY 3.0)*
+
 <!-- id: EVT-2049 -->
 *   **Đầu năm 1954:** Georges Boudarel đảm nhiệm việc đưa một số tù binh được trao đổi với phía Pháp. Sau khi trại 113 đóng cửa, ông trở lại An toàn khu Việt Bắc, làm việc cho chương trình tiếng Pháp của đài tiếng nói cách mạng, kịp thời phát đi những tin tức chiến sự và bình luận sắc sảo trong suốt Chiến dịch Điện Biên Phủ để nhân dân Pháp và thế giới hiểu rõ thực chất cuộc chiến. [Nguồn: Georges Boudarel, Mémoires d'un Français du Vietminh, Éditions Bernard Grasset, Paris, 1991]
 
@@ -7376,6 +7396,10 @@
 
 <!-- id: EVT-2053 -->
 *   **13/03/1954:** Trong trận mở màn Chiến dịch Điện Biên Phủ đánh căn cứ Him Lam, anh hùng Phan Đình Giót dũng cảm lấy thân mình lấp lỗ châu mai của hỏa lực địch, mở đường cho đơn vị xông lên tiêu diệt căn cứ. [Nguồn: https://vtv.vn/xa-hoi/tam-guong-anh-hung-liet-si-phan-dinh-giot-lay-than-minh-lap-lo-chau-mai-20240313085553919.htm]
+
+![Tem bưu chính Phan Đình Giót](images/event_20261008_163114.webp)
+
+*Nguồn: Tem bưu chính Việt Nam Dân chủ Cộng hòa phát hành năm 1970 khắc họa chân dung và chiến công lấp lỗ châu mai của anh hùng Phan Đình Giót / Wikimedia Commons (CC BY-SA 4.0)*
 
 <!-- id: EVT-2054 -->
 *   **15/03/1954:** Tại căn cứ ATK Kim Quan (Tuyên Quang), Chủ tịch Hồ Chí Minh chủ trì phiên họp Hội đồng Chính phủ nhằm nghe báo cáo công tác chuẩn bị tham dự Hội nghị Giơnevơ và chỉ đạo các nhiệm vụ quân sự, ngân sách, cải cách ruộng đất. [Nguồn: Viện Hồ Chí Minh và các lãnh tụ của Đảng, Hồ Chí Minh - Biên niên tiểu sử, tập 5 (1951 - 1954), NXB Chính trị quốc gia Sự thật, Hà Nội, 2016, tr. 445]
@@ -7419,6 +7443,10 @@
 <!-- id: EVT-2063 -->
 * **07/05/1954:** Liệt sĩ Trần Can (Đại đội phó bộ binh thuộc Trung đoàn 209, Đại đoàn 312) anh dũng hy sinh trong trận đánh đồi C2 mở đường tổng tiến công căn cứ Điện Biên Phủ. [Nguồn: Báo Quân đội nhân dân - Trần Can: Anh hùng cắm cờ trên Cứ điểm Him Lam, https://www.qdnd.vn/quoc-phong-an-ninh/chien-thang-dien-bien-phu-moc-son-lich-su/anh-hung/tran-can-anh-hung-cam-co-tren-cu-diem-him-lam-770396]
 
+![Bia mộ liệt sĩ Trần Can](images/event_20261008_163114_1.webp)
+
+*Nguồn: Bia mộ Anh hùng Trần Can tại Nghĩa trang liệt sĩ Điện Biên Phủ, khắc quê quán Yên Thành – Nghệ An và ngày hy sinh 07-05-1954 / Hoàng Văn Thái / Wikimedia Commons (CC BY-SA 3.0)*
+
 <!-- id: EVT-2064 -->
 *   **08/05/1954:** **Hội nghị Giơnevơ** bắt đầu phiên họp đầu tiên bàn về vấn đề lập lại hòa bình ở Đông Dương. [Nguồn: Bảo tàng Lịch sử Quốc gia - Hội nghị Giơnevơ (1954), https://baotanglichsu.vn/vi/Articles/3097/15714/hoi-nghi-gionevo-1954.html]
 
@@ -7437,6 +7465,10 @@
 
 <!-- id: EVT-2068 -->
 *   **17/06/1954:** Họa sĩ Tô Ngọc Vân – một trong những bậc thầy đặt nền móng cho nền mỹ thuật hiện đại Việt Nam (thuộc bộ tứ "Trí, Vân, Lân, Cẩn") – hy sinh tại đèo Lũng Lô (Yên Bái) khi đang tham gia chiến dịch Điện Biên Phủ, trở thành liệt sĩ đầu tiên của nền mỹ thuật cách mạng Việt Nam. [Nguồn: Báo Nhân Dân - Những tác phẩm tiêu biểu của các danh họa về Điện Biên Phủ, https://nhandan.vn/nhung-tac-pham-tieu-bieu-cua-cac-danh-hoa-ve-dien-bien-phu-post807422.html]
+
+![Chân dung họa sĩ Tô Ngọc Vân](images/event_20261008_163114_2.webp)
+
+*Nguồn: Chân dung họa sĩ Tô Ngọc Vân trong sách Souverains et notabilités d'Indochine xuất bản năm 1943 / Phủ Toàn quyền Đông Dương / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-2069 -->
 *   **07/07/1954:** Ngô Đình Diệm chính thức nhậm chức Thủ tướng tại Sài Gòn. [Nguồn: Bộ Ngoại giao, Lịch sử Ngoại giao Việt Nam (1945 - 2000), NXB Chính trị quốc gia, Hà Nội, 2002]
@@ -7569,6 +7601,10 @@
 
 <!-- id: EVT-2096 -->
 *   **17/07/1955:** Ngô Đình Diệm tuyên bố từ chối hiệp thương tổng tuyển cử để thống nhất đất nước. [Nguồn: Bảo tàng Lịch sử Quốc gia - Ngô Đình Diệm từ chối tổng tuyển cử (17/07/1955), https://baotanglichsu.vn/vi/Articles/3097/16687/ngo-dinh-diem-tu-choi-tong-tuyen-cu-17-07-1955.html]
+
+![Diệm gặp Eisenhower tại Washington 1957](images/event_20261008_163114_3.webp)
+
+*Nguồn: Tổng thống ngụy Ngô Đình Diệm bắt tay Tổng thống Mỹ Eisenhower tại sân bay Washington ngày 08/05/1957, trong chuyến thăm Hoa Kỳ / Không quân Hoa Kỳ, Lưu trữ Quốc gia Hoa Kỳ / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-2097 -->
 *   **08/1955:** Hội nghị lần thứ 8 Ban Chấp hành Trung ương Đảng Lao động Việt Nam khẳng định miền Bắc phải tiến lên chủ nghĩa xã hội. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Kháng chiến chống Mỹ cứu nước (1954 - 1975), tập 1, NXB Chính trị quốc gia, Hà Nội, 2013]
@@ -7948,6 +7984,10 @@
 <!-- id: EVT-2195 -->
 *   **15/02/1961:** Các lực lượng vũ trang cách mạng ở miền Nam được thống nhất thành **Quân Giải phóng miền Nam Việt Nam** (bộ phận quân sự của Mặt trận Dân tộc Giải phóng miền Nam Việt Nam) tại Chiến khu Đ. Trong buổi lễ ra mắt, đại diện Ủy ban Trung ương Mặt trận đã trao cho Quân Giải phóng lá **Quân kỳ** thiêng liêng (cờ Giải phóng nửa đỏ nửa xanh sao vàng) thêu dòng chữ vàng: *"Giải phóng quân anh dũng chiến thắng"*, mở đầu trang sử hào hùng của các lực lượng vũ trang giải phóng trên chiến trường miền Nam. [Nguồn: Báo Nhân Dân - Quân Giải phóng miền nam Việt Nam 15 năm xây dựng, chiến đấu và trưởng thành, https://special.nhandan.vn/15_nam_quan_giai_phong_mien_nam/index.html]
 
+![Rừng Mã Đà, Chiến khu Đ](images/event_20261008_163115_2.webp)
+
+*Nguồn: Rừng Mã Đà tại Chiến khu Đ (Đồng Nai), căn cứ nơi Quân Giải phóng miền Nam Việt Nam ra mắt ngày 15/02/1961 / Phương Huy / Wikimedia Commons (CC BY-SA 4.0)*
+
 <!-- id: EVT-2196 -->
 *   **03/1961:** Chính phủ nước Việt Nam có chuyến thăm chính thức đầu tiên đến Cuba do Bộ trưởng Văn hóa Hoàng Minh Giám làm Trưởng đoàn. Trong chuyến thăm, Fidel Castro đã gợi ý cử thanh niên Việt Nam sang Cuba học tiếng Tây Ban Nha. [Nguồn: Bộ Ngoại giao, 60 năm quan hệ hữu nghị truyền thống đặc biệt Việt Nam - Cuba (1960 - 2020), NXB Chính trị quốc gia Sự thật, Hà Nội, 2020]
 
@@ -8238,6 +8278,10 @@
 <!-- id: EVT-2273 -->
 *   **28/12/1964 - 01/01/1965:** **Trận Bình Giã (Phước Tuy):** Quân Giải phóng miền Nam Việt Nam mở cuộc tấn công lớn vào làng Bình Giã, liên tục phục kích và đánh thiệt hại nặng nhiều tiểu đoàn tinh nhuệ (Biệt động quân, Thủy quân lục chiến) của Việt Nam Cộng hòa được cử đến ứng cứu. Quân Giải phóng đã bắn rơi 21 trực thăng và 1 máy bay trinh sát, đánh gục chiến thuật "trực thăng vận" và "thiết xa vận" của đối phương, đánh dấu sự phát triển nghệ thuật chiến tranh và đẩy nhanh sự phá sản của chiến lược "Chiến tranh đặc biệt". [Nguồn: Báo Điện tử Chính phủ - Lễ kỷ niệm 60 năm Chiến thắng Bình Giã, https://baochinhphu.vn/thu-tuong-pham-minh-chinh-du-le-ky-niem-60-nam-chien-thang-binh-gia-10224120222072819.htm]
 
+![Tượng đài Chiến thắng Bình Giã](images/event_20261008_163114_5.webp)
+
+*Nguồn: Tượng đài Chiến thắng Bình Giã tại huyện Châu Đức, Bà Rịa – Vũng Tàu / TuanUt / Wikimedia Commons (CC BY-SA 3.0)*
+
 <!-- id: EVT-2274 -->
 
 ### **Thời kỳ Đánh bại Chiến lược Chiến tranh Cục bộ (1965 - 1968)**
@@ -8262,6 +8306,10 @@
 
 <!-- id: EVT-2279 -->
 *   **1965:** Hình thành **"Đường mòn Sihanouk"** (Sihanouk Trail) theo thỏa thuận giữa Quốc trưởng Campuchia Norodom Sihanouk với Việt Nam Dân chủ Cộng hòa và Trung Quốc. Hàng chục ngàn tấn vũ khí, khí tài quân sự và lương thực được tiếp nhận qua cảng Sihanoukville và trung chuyển qua đất Campuchia chi viện trực tiếp cho các căn cứ của Quân Giải phóng miền Nam tại miền Đông Nam Bộ và Tây Nguyên. [Nguồn: Binh đoàn 12 - Tổng công ty Xây dựng Trường Sơn, Lịch sử Bộ đội Trường Sơn - Đường Hồ Chí Minh (1959 - 2009), NXB Quân đội nhân dân, Hà Nội, 2009]
+
+![Chân dung Norodom Sihanouk 1983](images/event_20261008_163115.webp)
+
+*Nguồn: Quốc trưởng Campuchia Norodom Sihanouk năm 1983 / Rob Croes cho Anefo / Wikimedia Commons (CC0)*
 
 <!-- id: EVT-2280 -->
 * **1965:** Anh hùng Lực lượng vũ trang nhân dân Trần Văn Đang (Chiến sĩ Biệt động Sài Gòn) từ trần. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Biệt động Sài Gòn - Gia Định (1945 - 1975), NXB Quân đội nhân dân, Hà Nội, 2010]
@@ -8309,6 +8357,10 @@
 
 <!-- id: EVT-2292 -->
 *   **11/03/1965:** **Chiến dịch Market Time (Operation Market Time):** Hải quân Mỹ và ngụy quyền Sài Gòn thành lập Lực lượng Đặc nhiệm 115 phát động Chiến dịch Market Time, thiết lập mạng lưới phong tỏa bờ biển gắt gao dài hàng nghìn hải lý từ vĩ tuyến 17 đến vịnh Thái Lan bằng tàu chiến, radar và máy bay tuần tra nhằm ngăn chặn tuyến chi viện vũ khí của Đường Hồ Chí Minh trên biển vào miền Nam. Bất chấp sự phong tỏa dày đặc và vũ khí tối tân của địch, các chiến sĩ Hải quân Nhân dân Việt Nam thuộc Đoàn tàu Không số vẫn mưu trí, quả cảm vượt qua sóng gió và vòng vây giặc, đưa hàng vạn tấn vũ khí, đạn dược cập bến an toàn tiếp sức cho tiền tuyến miền Nam. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Kháng chiến chống Mỹ cứu nước (1954 - 1975), tập 3, NXB Chính trị quốc gia, Hà Nội, 2013]
+
+![Tàu USCGC Owasco tuần tra Market Time](images/event_20261008_163115_1.webp)
+
+*Nguồn: Tàu tuần duyên Mỹ USCGC Owasco (WHEC-39) đang tiếp nhiên liệu từ tàu USS Guadalupe trong chuyến tuần tra Market Time ngoài khơi Việt Nam, 1968–1969 / Hải quân Hoa Kỳ / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-2293 -->
 *   **22/03/1965:** Mặt trận Dân tộc giải phóng miền Nam Việt Nam ra Tuyên bố 5 điểm, khẳng định quyết tâm đánh đuổi đế quốc Mỹ. [Nguồn: Ủy ban Trung ương Mặt trận Dân tộc Giải phóng miền Nam Việt Nam, Tuyên bố 5 điểm ngày 22/03/1965; Báo Cờ Giải Phóng; Báo Nhân Dân]
@@ -9603,6 +9655,10 @@
 
 <!-- id: EVT-2649 -->
 *   **01/05/1975:** Toàn bộ các tỉnh còn lại ở miền Nam được giải phóng. Ban Bí thư gửi điện số 602 chỉ thị giải phóng Côn Đảo (Côn Lôn) và Phú Quốc. Quân Pôn Pốt (Campuchia Dân chủ) bắt đầu các cuộc tấn công, xâm phạm lãnh thổ Việt Nam từ Hà Tiên đến Tây Ninh. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Kháng chiến chống Mỹ cứu nước (1954 - 1975), tập VIII, NXB Chính trị quốc gia, Hà Nội, 2008, tr. 450-465]
+
+![Bản đồ Phú Quốc 1897](images/event_20261008_163116.webp)
+
+*Nguồn: Bản đồ tổng Phú Quốc, hạt Hà Tiên do Pháp lập năm 1897 / Barrère và Renouard / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-2650 -->
 *   **02/05/1975:** Lực lượng cách mạng giải phóng hoàn toàn các địa bàn cuối cùng trên đất liền (tỉnh Châu Đốc) và các đảo xa (Côn Đảo, Phú Quốc), đánh dấu mốc non sông hoàn toàn sạch bóng quân thù và toàn bộ miền Nam được giải phóng trọn vẹn. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Kháng chiến chống Mỹ cứu nước (1954 - 1975), tập VIII, NXB Chính trị quốc gia, Hà Nội, 2008; Ban Tuyên giáo Tỉnh ủy An Giang]

@@ -6049,6 +6049,10 @@
 <!-- id: EVT-1681 -->
 *   **Sep. 6, 1942:** Former General Secretary **Le Hong Phong** breathed his last and heroically passed away in Cell No. 5 of Banh II at Con Dao Prison on his 40th birthday, following years of brutal torture and mistreatment by French jailers. Before departing, he left an immortal pledge: *"Greetings to all comrades. Please tell the Party that until my very last breath, Le Hong Phong firmly believes in the glorious victory of the revolution"*. [Source: Comrade Le Hong Phong – Outstanding Leader of the Party (Nhan Dan Newspaper), https://nhandan.vn/dong-chi-le-hong-phong-nha-lanh-dao-xuat-sac-cua-dang-va-cach-mang-viet-nam-post713500.html]
 
+![Portrait of Le Hong Phong](images/event_20261008_163114_4.webp)
+
+*Source: Portrait of General Secretary Le Hong Phong (1902-1942), photo taken before 1940 / Unknown author / Wikimedia Commons (Public domain)*
+
 <!-- id: EVT-1682 -->
 *   **Oct. 1, 1942:** The Vietnam Revolutionary League (Viet Cach) was founded in Liuzhou, China, gathering various patriotic groups. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
@@ -6088,6 +6092,10 @@
 
 <!-- id: EVT-1693 -->
 *   **Aug. 1943:** The Son La Prison Party Cell organized a historic prison break for key political prisoners to prepare for the General Uprising. Lò Văn Giá, fluent in the Hmong language and familiar with the Northwest terrain, was chosen to guide four communist fighters: Tran Dang Ninh, Nguyen Luong Bang, Nguyen Van Tran, and Luu Duc Hieu. After a 5-day arduous journey, he successfully guided them to safety in the Suoi Rut area (Hoa Binh). Upon returning to Son La, Lo Van Gia was arrested by the French colonialists. Unable to extract any confessions and powerless against his absolute loyalty, they secretly assassinated him. [Source: Historic Escape from Son La Prison (Nhan Dan Newspaper), https://nhandan.vn/cuoc-vuot-nguc-lich-su-o-nha-tu-son-la-post652140.html]
+
+![Son La Prison relic](images/event_20261008_163116_2.webp)
+
+*Source: Ruins of the Son La Prison relic site, where the prison Party cell organized the historic escape in August 1943 / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-1694 -->
 *   **Oct. 27, 1943:** Doctor Tran Van Lai was arrested by the French colonial administration and imprisoned in Hoa Lo, then Son La prison, for his patriotic activities. [Source: Doctor Tran Van Lai – Intellectual Mayor of Hanoi (Nhan Dan Newspaper), https://nhandan.vn/bac-si-tran-van-lai-vi-thi-truong-tri-thuc-cua-ha-noi-post661200.html]
@@ -6155,6 +6163,10 @@
 
 <!-- id: EVT-1714 -->
 *   **Mar. 11, 1945:** Immediately following the Japanese coup against French forces, Do Muoi (then serving a 10-year penal sentence in Hoa Lo Prison) along with fellow communist inmates staged a daring escape through the sewer system, quickly re-establishing contact with revolutionary organizations and directly leading the victorious seizure of power in Ha Dong province during the August Revolution. [Source: Comrade Do Muoi – Staunch Communist Leader (Nhan Dan Newspaper), https://nhandan.vn/dong-chi-do-muoi-nha-lanh-dao-xuat-sac-post614500.html]
+
+![Portrait of Do Muoi 2008](images/event_20261008_163116_1.webp)
+
+*Source: Comrade Do Muoi at the 2008 Vesak celebration in Hanoi / Luu Ly / Wikimedia Commons (CC BY-SA 3.0)*
 
 <!-- id: EVT-1715 -->
 *   **Mar. 29, 1945:** Ho Chi Minh met with Major General Claire Lee Chennault, Commander of the 14th Air Force of the US Army Air Forces, in Kunming (China), establishing initial contact between the Viet Minh and the US. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
@@ -7200,6 +7212,10 @@
 <!-- id: EVT-2002 -->
 *   **Oct. 1952:** Ahead of the Northwest Campaign, Division 308 (Vanguard Division) officially named the smokeless trench stove the **"Hoàng Cầm stove"** after army cook Hoàng Cầm, organizing technical training and scaling the model across the entire army. This landmark logistical breakthrough enabled the Vietnam People's Army to fully implement the tactical doctrine "march without a trace, cook without smoke, speak without sound," becoming a classic military logistics invention that safeguarded troop sustenance in the Điện Biên Phủ Campaign (1954) and throughout the subsequent resistance war against the United States. [Source: Military History Institute of Vietnam, History of the 308th Division - Vanguard Division (1949 - 1979), People's Army Publishing House, Hanoi, 1979; People's Army Newspaper]
 
+![Hoang Cam stove diorama](images/event_20261008_163113.webp)
+
+*Source: Reconstructed model of the Hoang Cam stove at War Zone D, the smokeless field stove named after army cook Hoang Cam / Phuong Huy / Wikimedia Commons (CC BY-SA 4.0)*
+
 <!-- id: EVT-2003 -->
 *   **Oct. 14 - Dec. 10, 1952:** Under the direct leadership of Senior General Vo Nguyen Giap (Campaign Commander and Party Secretary), the Vietnamese army and people launched the **Northwest Campaign**. Revolutionary forces achieved decisive victories: capturing the Nghia Lo subsector (Oct. 18) and defeating France's Operation Lorraine with the Chan Mong - Tram Than ambush (Nov. 17). The campaign liberated a vast area including Dien Bien Phu (Nov. 30) and most of Son La province, dismantling the colonial puppet scheme of an "Autonomous Thai State" and connecting Viet Bac with Upper Laos. [Source: Nhan Dan Newspaper - Northwest Campaign, https://special.nhandan.vn/chien-dich-tay-bac-1952/index.html]
 
@@ -7358,6 +7374,10 @@
 <!-- id: EVT-2048 -->
 * **01/02/1954:** Martyr To Vinh Dien (37mm anti-aircraft gun squad leader of Company 827, Battalion 394, Regiment 367) heroically used his own body to block and save an artillery piece from falling into an abyss during the Battle of Dien Bien Phu. [Source: https://nhandan.vn/ai-la-nguoi-lay-than-minh-chen-phao-post801932.html]
 
+![Tombstone of martyr To Vinh Dien](images/event_20261008_163113_1.webp)
+
+*Source: Tombstone of Hero To Vinh Dien at the Dien Bien Phu Martyrs Cemetery, inscribed with home district Nong Cong – Thanh Hoa and sacrifice date January 21, 1954 / Hoang Van Thai / Wikimedia Commons (CC BY 3.0)*
+
 <!-- id: EVT-2049 -->
 *   **Early 1954:** Georges Boudarel was placed in charge of escorting a group of prisoners of war being exchanged with the French. Following the closure of Camp 113, he returned to the Viet Bac Safe Zone to work for the revolutionary radio station's French program, broadcasting timely war news and sharp commentary during the Dien Bien Phu Campaign to inform the French public and the world. [Source: Georges Boudarel, Memoirs of a Frenchman in the Vietminh, Editions Bernard Grasset, Paris, 1991]
 
@@ -7376,6 +7396,10 @@
 
 <!-- id: EVT-2053 -->
 *   **Mar. 13, 1954:** In the opening battle of the Dien Bien Phu Campaign at Him Lam, hero Phan Dinh Giot bravely smothers an enemy bunker embrasure with his body, enabling his unit to advance and destroy the base. [Source: https://vtv.vn/xa-hoi/tam-guong-anh-hung-liet-si-phan-dinh-giot-lay-than-minh-lap-lo-chau-mai-20240313085553919.htm]
+
+![Phan Dinh Giot postage stamp](images/event_20261008_163114.webp)
+
+*Source: Democratic Republic of Vietnam postage stamp issued in 1970 depicting hero Phan Dinh Giot and his bunker-embrasure feat / Wikimedia Commons (CC BY-SA 4.0)*
 
 <!-- id: EVT-2054 -->
 *   **15/03/1954:** At the Kim Quan Safe Zone (Tuyên Quang), President Ho Chi Minh chaired a Government Council meeting to hear reports on preparations for the Geneva Conference and direct military affairs, state budget, and land reform. [Source: Ho Chi Minh Institute, Ho Chi Minh - A Chronological Biography, Vol. 5 (1951 - 1954), National Political Publishing House, Hanoi, 2016, p. 445]
@@ -7419,6 +7443,10 @@
 <!-- id: EVT-2063 -->
 * **07/05/1954:** Martyr Tran Can (deputy infantry company commander, Regiment 209, Division 312) heroically sacrificed his life in the assault on Hill C2 during the Battle of Dien Bien Phu. [Source: People's Army Newspaper - Tran Can: Hero who hoisted the flag on Him Lam Stronghold, https://www.qdnd.vn/quoc-phong-an-ninh/chien-thang-dien-bien-phu-moc-son-lich-su/anh-hung/tran-can-anh-hung-cam-co-tren-cu-diem-him-lam-770396]
 
+![Tombstone of martyr Tran Can](images/event_20261008_163114_1.webp)
+
+*Source: Tombstone of Hero Tran Can at the Dien Bien Phu Martyrs Cemetery, inscribed with home district Yen Thanh – Nghe An and sacrifice date May 7, 1954 / Hoang Van Thai / Wikimedia Commons (CC BY-SA 3.0)*
+
 <!-- id: EVT-2064 -->
 *   **May 8, 1954:** The **Geneva Conference** began its first session to discuss the restoration of peace in Indochina. [Source: Vietnam National Museum of History - The Geneva Conference (1954), https://baotanglichsu.vn/vi/Articles/3097/15714/hoi-nghi-gionevo-1954.html]
 
@@ -7437,6 +7465,10 @@
 
 <!-- id: EVT-2068 -->
 *   **June 17, 1954:** Master painter To Ngoc Van – a pioneer of modern Vietnamese fine arts (of the celebrated quartet "Tri, Van, Lan, Can") – was killed in action at Lung Lo Pass (Yen Bai) during the Dien Bien Phu campaign, becoming the first martyr of Vietnam's revolutionary fine arts. [Source: Nhan Dan Newspaper - Masterpieces of Painters on Dien Bien Phu, https://nhandan.vn/nhung-tac-pham-tieu-bieu-cua-cac-danh-hoa-ve-dien-bien-phu-post807422.html]
+
+![Portrait of painter To Ngoc Van](images/event_20261008_163114_2.webp)
+
+*Source: Portrait of painter To Ngoc Van in the book Souverains et notabilites d'Indochine published in 1943 / General Government of Indochina / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-2069 -->
 *   **Jul. 7, 1954:** Ngo Dinh Diem officially took office as Prime Minister in Saigon. [Source: Ministry of Foreign Affairs, History of Vietnamese Diplomacy (1945 - 2000), National Political Publishing House, Hanoi, 2002]
@@ -7569,6 +7601,10 @@
 
 <!-- id: EVT-2096 -->
 *   **Jul. 17, 1955:** Ngo Dinh Diem declared his refusal to hold consultations for a general election to reunify the country. [Source: Vietnam National Museum of History - Ngo Dinh Diem Refuses General Elections (July 17, 1955), https://baotanglichsu.vn/vi/Articles/3097/16687/ngo-dinh-diem-tu-choi-tong-tuyen-cu-17-07-1955.html]
+
+![Diem meets Eisenhower in Washington 1957](images/event_20261008_163114_3.webp)
+
+*Source: President Ngo Dinh Diem shakes hands with US President Eisenhower at Washington airport on May 8, 1957, during his US visit / US Air Force, US National Archives / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-2097 -->
 *   **08/1955:** The 8th Conference of the Central Committee of the Vietnam Workers' Party affirmed that the North must advance to socialism. [Source: Military History Institute of Vietnam, History of the Resistance War against the US (1954 - 1975), Vol. 1, National Political Publishing House, Hanoi, 2013]
@@ -7948,6 +7984,10 @@
 <!-- id: EVT-2195 -->
 *   **Feb. 15, 1961:** The revolutionary armed forces in the South were unified into the **South Vietnam Liberation Army** (the military arm of the National Liberation Front) at War Zone D. During the founding ceremony, representatives of the NLF Central Committee presented the Liberation Army with its sacred **Military Banner** (the Liberation flag of red and blue with a gold star) emblazoned with the golden inscription: *"Liberation Army Valiant and Victorious"*, inaugurating the heroic combat saga of the southern liberation forces. [Source: Nhan Dan Newspaper - The Liberation Army of South Vietnam 15 years of construction, combat and growth, https://special.nhandan.vn/15_nam_quan_giai_phong_mien_nam/index.html]
 
+![Ma Da forest, War Zone D](images/event_20261008_163115_2.webp)
+
+*Source: Ma Da forest at War Zone D (Dong Nai), the base where the South Vietnam Liberation Army was founded on February 15, 1961 / Phuong Huy / Wikimedia Commons (CC BY-SA 4.0)*
+
 <!-- id: EVT-2196 -->
 *   **Mar. 1961:** The Government of Vietnam made its first official visit to Cuba, led by Minister of Culture Hoang Minh Giam. During the visit, Fidel Castro suggested sending Vietnamese youth to study Spanish in Cuba. [Source: Ministry of Foreign Affairs, 60 Years of Special Traditional Vietnam - Cuba Relations (1960 - 2020), National Political Publishing House, Hanoi, 2020]
 
@@ -8238,6 +8278,10 @@
 <!-- id: EVT-2273 -->
 *   **Dec. 28, 1964 - Jan. 1, 1965:** **Battle of Binh Gia (Phuoc Tuy):** The Liberation Army of South Vietnam launched a major offensive against Binh Gia village, successfully ambushing and decimating several elite Republic of Vietnam battalions (including Rangers and Marines) sent as reinforcements. The Liberation Army shot down 21 helicopters and 1 reconnaissance plane, effectively countering the US-backed "helicopterborne" and "armored vehicle" tactics. This victory significantly escalated the conventional warfare capabilities of the Liberation Army and contributed to the bankruptcy of the "Special War" strategy. [Source: Government News Portal - 60th Anniversary Commemoration of Binh Gia Victory, https://baochinhphu.vn/thu-tuong-pham-minh-chinh-du-le-ky-niem-60-nam-chien-thang-binh-gia-10224120222072819.htm]
 
+![Binh Gia Victory Monument](images/event_20261008_163114_5.webp)
+
+*Source: Binh Gia Victory Monument in Chau Duc district, Ba Ria – Vung Tau / TuanUt / Wikimedia Commons (CC BY-SA 3.0)*
+
 <!-- id: EVT-2274 -->
 
 ### **Period of Defeating the Local War Strategy (1965 - 1968)**
@@ -8262,6 +8306,10 @@
 
 <!-- id: EVT-2279 -->
 *   **1965:** The **"Sihanouk Trail"** was established following agreements between Cambodian Head of State Norodom Sihanouk, the Democratic Republic of Vietnam, and China. Tens of thousands of tons of weapons, military hardware, and provisions were received via Sihanoukville Port and transported through Cambodia to support National Liberation Front bases in Eastern Nam Bo and the Central Highlands. [Source: 12th Army Corps, History of Truong Son Soldiers - Ho Chi Minh Trail (1959 - 2009), People's Army Publishing House, Hanoi, 2009]
+
+![Portrait of Norodom Sihanouk 1983](images/event_20261008_163115.webp)
+
+*Source: Cambodian Head of State Norodom Sihanouk in 1983 / Rob Croes for Anefo / Wikimedia Commons (CC0)*
 
 <!-- id: EVT-2280 -->
 * **1965:** Hero of the People's Armed Forces Trần Văn Đang (Chiến sĩ Biệt động Sài Gòn) passed away. [Source: Military Region 7 High Command, History of the Saigon - Gia Dinh Commandos (1945 - 1975), People's Army Publishing House, Hanoi, 2010]
@@ -8309,6 +8357,10 @@
 
 <!-- id: EVT-2292 -->
 *   **Mar. 11, 1965:** **Operation Market Time:** The US Navy and the Saigon administration formed Task Force 115 and launched Operation Market Time, establishing a tight coastal blockade stretching thousands of nautical miles from the 17th parallel to the Gulf of Thailand with naval vessels, coastal radar, and maritime patrol aircraft to sever the sea-based supply routes of the Ho Chi Minh Trail to the South. Despite the enemy's dense blockade and modern weaponry, courageous sailors of the Vietnam People's Navy aboard the Unnumbered Ships skillfully bypassed hostile patrols, successfully delivering tens of thousands of tons of weapons and ammunition to reinforce the southern front lines. [Source: Military History Institute of Vietnam, History of the Resistance War against the US (1954 - 1975), Vol. 3, National Political Publishing House, Hanoi, 2013]
+
+![USCGC Owasco on Market Time patrol](images/event_20261008_163115_1.webp)
+
+*Source: US Coast Guard cutter USCGC Owasco (WHEC-39) refueling from USS Guadalupe during a Market Time patrol off Vietnam, 1968-1969 / US Navy / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-2293 -->
 *   **Mar. 22, 1965:** The National Liberation Front for South Vietnam issued a 5-point statement, affirming its determination to drive out the US imperialists. [Source: Central Committee of the National Liberation Front for South Vietnam, 5-Point Statement of March 22, 1965; Co Giai Phong Newspaper; Nhan Dan Newspaper]
@@ -9603,6 +9655,10 @@
 
 <!-- id: EVT-2649 -->
 *   **May 1, 1975:** All remaining provinces in the South were liberated. The Secretariat sent Telegram No. 602 ordering the liberation of Con Dao (Con Lon) and Phu Quoc. Pol Pot's forces (Democratic Kampuchea) began attacks, violating Vietnamese territory from Ha Tien to Tay Ninh. [Source: Vietnam Military History Institute, History of the Resistance War against the US for National Salvation (1954 - 1975), Vol. VIII, National Political Publishing House, Hanoi, 2008, pp. 450-465]
+
+![1897 map of Phu Quoc](images/event_20261008_163116.webp)
+
+*Source: French map of Phu Quoc canton, Ha Tien district, drawn in 1897 / Barrere and Renouard / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-2650 -->
 *   **May 2, 1975:** Revolutionary forces completed the liberation of the final mainland localities (Chau Doc province) and offshore islands (Con Dao, Phu Quoc), marking the complete liberation of all South Vietnam and total territorial integrity. [Source: Vietnam Military History Institute, History of the Resistance War against the US for National Salvation (1954 - 1975), Vol. VIII, National Political Publishing House, Hanoi, 2008; An Giang Provincial Party Committee Commission for Propaganda and Education]
