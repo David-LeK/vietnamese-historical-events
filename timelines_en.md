@@ -6745,6 +6745,10 @@
 <!-- id: EVT-1879 -->
 *   **Nov. 29, 1947:** French colonial expeditionary forces raided My Trach village (My Thuy commune, Le Thuy district, Quang Binh province), herding 326 unarmed civilians (mostly pregnant women, the elderly, and children) to the foot of My Trach Bridge by the Kien Giang River before slaughtering them with machine guns and torching over 300 homes, completely wiping out entire family lineages. [Source: Quang Binh Provincial Party Committee, History of Quang Binh Provincial Party Committee, Vol. 1 (1930 - 1954), National Political Publishing House, Hanoi, 1995; My Trach Massacre National Monument]
 
+![Historical image](images/event_20261008_143349.webp)
+
+*Source: Memorial pavilion honoring the victims of the My Trach massacre of Nov. 29, 1947, in My Thuy commune, Le Thuy district, Quang Binh. Photo: Wikimedia Commons (Public domain)*
+
 <!-- id: EVT-1880 -->
 *   **Nov. 30, 1947:** Vietnamese forces attacked the Phu Thong post, marking the first time French troops were destroyed from within their fortifications. [Source: Military History Institute of Vietnam, History of the People's Army of Vietnam, Vol. 1, People's Army Publishing House, Hanoi, 1994]
 
@@ -6885,6 +6889,10 @@
 <!-- id: EVT-1923 -->
 *   **Jan. 9, 1950:** Thousands of students demonstrated in Saigon demanding the release of arrested peers. The protest was violently suppressed, and student Tran Van On was shot dead. His funeral on January 12 drew hundreds of thousands of people, turning into a massive show of anti-colonial resistance. [Source: Vietnam National Museum of History - Students Protest in Saigon (January 9, 1950), https://baotanglichsu.vn/vi/Articles/3097/16673/hoc-sinh-sinh-vien-bieu-tinh-tai-sai-gon-09-01-1950.html]
 
+![Historical image](images/event_20261008_143349_1.webp)
+
+*Source: Statue of martyr Tran Van On (1931–1950) at Bach Tung Diep Park, District 1, Ho Chi Minh City. Photo: Phuong Huy/Wikimedia Commons (CC BY-SA 4.0)*
+
 <!-- id: EVT-1924 -->
 *   **Jan. 14, 1950:** President Ho Chi Minh issued a statement, ready to establish diplomatic relations with all countries. [Source: Vietnam National Museum of History - Ho Chi Minh's Declaration of Readiness to Establish Diplomatic Relations (January 14, 1950), https://baotanglichsu.vn/vi/Articles/3097/16667/tuyen-bo-cua-ho-chi-minh-san-sang-dat-quan-he-ngoai-giao-14-01-1950.html]
 
@@ -6908,6 +6916,10 @@
 
 <!-- id: EVT-1931 -->
 *   **Feb. 23, 1950:** Raymonde Dien, a young French Communist Party member, lay down on the train tracks at the Saint-Pierre-des-Corps station (Tours, France) to block a train carrying weapons destined for the war in Indochina. She was arrested the same day, but her courageous act became a powerful symbol of the international anti-war movement supporting Vietnam. [Source: Nhan Dan Newspaper, Raymonde Dien - Shining Symbol of Anti-Indochina War Movement; Alain Ruscio, The French War in Indochina, Editions Complexe, Paris, 1992]
+
+![Historical image](images/event_20261008_143350.webp)
+
+*Source: Raymonde Dien in Berlin, August 1951 — a year after lying on the rails to block a weapons train bound for Indochina. Photo: Horst Sturm/German Federal Archive (CC BY-SA 3.0, via Wikimedia Commons)*
 
 <!-- id: EVT-1932 -->
 *   **Mar. 19, 1950:** A massive anti-US and anti-French demonstration involving approximately half a million people erupted in Saigon-Cho Lon. Led by prominent figures including lawyer Nguyen Huu Tho, the protest successfully forced two US warships (the USS *Stickell* and USS *Anderson*) to leave the harbor. This merged with the ongoing student protests to become a major milestone in the urban resistance movement. [Source: Vietnam National Museum of History - Anti-US and Anti-French Protests (March 19, 1950), https://baotanglichsu.vn/vi/Articles/3097/16671/bieu-tinh-chong-my-phap-19-03-1950.html]
@@ -7115,6 +7127,10 @@
 
 <!-- id: EVT-1994 -->
 *   **Jan. 23, 1952:** Female guerrilla fighter Võ Thị Sáu heroically sacrificed her life at Côn Đảo at the age of 19 after being executed by French colonial authorities. She was the first female prisoner executed at Côn Đảo Prison, steadfastly maintaining her revolutionary spirit until the very end. [Source: Vietnam National Museum of History - Vo Thi Sau: Female Heroic Martyr, https://baotanglichsu.vn/vi/Articles/3096/13055/vo-thi-sau-nu-anh-hung-liet-si.html]
+
+![Historical image](images/event_20261008_143350_1.webp)
+
+*Source: Portrait of female martyr Vo Thi Sau (1933–1952). Photo: Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-1995 -->
 *   **Mar. 26, 1952:** Maurice Faure, the rapporteur on the ratification of the San Francisco Peace Treaty in the French Parliament, reported that the Japanese renunciation of the Paracel and Spratly Islands essentially rendered them *terra derelictae* (abandoned land), a view that contradicted other French statements affirming the islands belonged to the French Union. [Source: Dr. Nguyen Nha, Vietnam's Territorial Sovereignty over the Paracel and Spratly Archipelagos, Tri Thuc Publishing House, Hanoi, 2013]
@@ -7690,6 +7706,10 @@
 <!-- id: EVT-2147 -->
 *   **Oct. 25, 1958:** The Voice of Vietnam broadcast a report that shocked domestic and international public opinion regarding revolutionary fighter Trần Thị Lý (born Trần Thị Nhâm, from Điện Bàn, Quảng Nam): after enduring brutal torture in the prisons of the Ngô Đình Diệm regime and being discarded when thought dead, she was secretly rescued by underground networks, transported through Cambodia, and flown to Hanoi for medical treatment at the Viet - Soviet Friendship Hospital in a severely exhausted state (weighing only 26 kg with 42 wounds). The revelation became damning evidence exposing the brutality of the Ngô Đình Diệm regime and its violations of the Geneva Accords. [Source: Dan Tri Newspaper - Little-known facts about heroine Tran Thi Ly, https://dantri.com.vn/thoi-su/nhung-dieu-chua-biet-ve-nu-anh-hung-tran-thi-ly-1156284712.htm]
 
+![Historical image](images/event_20261008_143350_2.webp)
+
+*Source: A doctor tending Tran Thi Ly's wounds at the Viet–Soviet Friendship Hospital, 1958. Photo: Vietnam National Museum of History*
+
 <!-- id: EVT-2148 -->
 *   **Nov. 14, 1958:** President Ho Chi Minh, leaders of the Party and State, and numerous international delegations visited and encouraged revolutionary fighter Trần Thị Lý at the Viet - Soviet Friendship Hospital; her indomitable spirit and miraculous recovery inspired poet Tố Hữu to compose the famous poem *"Người con gái Việt Nam"* (The Vietnamese Girl, December 1958), portraying an eternal symbol of the courage and steadfastness of Vietnamese women during the anti-American resistance. [Source: Party Central Committee, Party Documents, Vol. 20, National Political Publishing House, Hanoi, 2002]
 
@@ -7898,6 +7918,10 @@
 <!-- id: EVT-2201 -->
 *   **Aug. 10, 1961:** The US Air Force conducted its first aerial defoliation mission spraying toxic herbicides along Highway 14 north of Kon Tum, inaugurating a large-scale chemical warfare campaign spanning over a decade in Vietnam (Operation Ranch Hand). Over 80 million liters of toxic chemical herbicides (61% being Agent Orange containing 366 kg of hyper-toxic dioxin) were sprayed over nearly a quarter of South Vietnam's land area, devastating ecological systems and leaving horrific legacies of cancers and severe multi-generational congenital birth defects for more than 4.8 million Vietnamese victims. Aug. 10 was later designated as "Day for Victims of Agent Orange in Vietnam". [Source: Vietnam Association of Victims of Agent Orange/Dioxin (VAVA), The Agent Orange Disaster in Vietnam and Remediation Efforts, Information and Communications Publishing House, Hanoi, 2016]
 
+![Historical image](images/event_20261008_143350_3.webp)
+
+*Source: U.S. Air Force C-123 aircraft spraying toxic herbicides over South Vietnamese forests during Operation Ranch Hand. Photo: U.S. Army (Public domain, via Wikimedia Commons)*
+
 <!-- id: EVT-2202 -->
 *   **Sep. 20, 1961:** The Saigon - Gia Dinh Zone Party Committee held the first Military Conference, dividing the battlefield into three zones: the liberated base zone (focusing on armed struggle), the suburban disputed zone (combining political and armed struggle), and the urban zone (focusing on political struggle). [Source: Military Region 7 High Command, History of Armed Forces in Eastern Nam Bo (1945 - 2005), People's Army Publishing House, Hanoi, 2005]
 
@@ -7995,8 +8019,16 @@
 <!-- id: EVT-2228 -->
 *   **May 8, 1963:** The Hue Vesak shootings: South Vietnamese government security forces fired and used grenades against thousands of unarmed Buddhist demonstrators at the Hue radio station protesting a ban on flying religious flags on Vesak (just days after Vatican flags were prominently displayed throughout the city for Archbishop Ngo Dinh Thuc's silver jubilee). The assault killed nine people (including children) and injured dozens, sparking the **1963 Buddhist crisis** and nationwide civil unrest across South Vietnam's urban centers. [Source: Institute of History, History of Vietnam, Vol. 11 (1954 - 1965), Social Sciences Publishing House, Hanoi, 2014; The New York Times, May 9, 1963 issue]
 
+![Historical image](images/event_20261008_143350_4.webp)
+
+*Source: Memorial to the martyrs in Hue commemorating the victims of the May 8, 1963 Vesak shootings. Photo: Chainwit./Wikimedia Commons (CC BY 4.0)*
+
 <!-- id: EVT-2229 -->
 *   **Jun. 11, 1963:** Mahayana Buddhist monk **Thich Quang Duc** burned himself to death at the intersection of Phan Dinh Phung and Le Van Duyet streets in Saigon to protest the discriminatory and repressive policies of the Ngo Dinh Diem regime. Malcolm Browne's photograph of the self-immolation sent shockwaves around the world, creating intense diplomatic pressure on Washington and prompting further self-immolations by other monks and nuns. Rather than easing tensions, callous reactions and inflammatory remarks by members of the ruling family (such as Tran Le Xuan publicly mocking the martyrdoms as "barbecues") further isolated the regime internationally and domestically. [Source: Communist Review - Commemorating 50 years of Most Venerable Thich Quang Duc's self-immolation, https://www.tapchicongsan.org.vn/web/guest/hoat-ong-cua-lanh-ao-ang-nha-nuoc/-/2018/21739/tuong-niem-50-nam-hoa-thuong-thich-quang-duc-tu-thieu.aspx]
+
+![Historical image](images/event_20261008_143351.webp)
+
+*Source: Thich Quang Duc self-immolating at the Phan Dinh Phung – Le Van Duyet intersection, Saigon, June 11, 1963. Photo: Malcolm Browne/AP (Public domain in the U.S.)*
 
 <!-- id: EVT-2230 -->
 *   **Aug. 20 - 21, 1963:** On the night of August 20-21, Special Forces and combat police under the direct command of Ngo Dinh Nhu launched synchronized raids on Xa Loi Pagoda in Saigon, Tu Dam Pagoda in Hue, and hundreds of Buddhist temples across South Vietnam (Operation Water Lily). Nationwide martial law was declared, more than 1,400 monks, nuns, and Buddhist leaders were arrested, and sacred shrines were ransacked. The brutal crackdowns caused massive domestic outrage, alienated South Vietnamese military officers, and brought relations between Washington and the Diem-Nhu regime to a breaking point. [Source: Institute of History, History of Vietnam, Vol. 11 (1954 - 1965), Social Sciences Publishing House, Hanoi, 2014]
@@ -8010,6 +8042,10 @@
 
 <!-- id: EVT-2232 -->
 *   **Aug. 25, 1963:** Student **Quach Thi Trang** (15 years old) was shot dead by police at the Ben Thanh Market roundabout during a protest against the repression of Buddhists. [Source: Nhan Dan Newspaper - The square named after the brave Saigon schoolgirl, https://nhandan.vn/quang-truong-mang-ten-nu-sinh-sai-gon-dung-cam-post568833.html]
+
+![Historical image](images/event_20261008_143351_1.webp)
+
+*Source: Bust of Quach Thi Trang at the roundabout in front of Ben Thanh Market, Ho Chi Minh City. Photo: Bui Thuy Dao Nguyen/Wikimedia Commons (CC BY-SA 3.0)*
 
 <!-- id: EVT-2233 -->
 *   **Sep. 23, 1963:** Cuba became the first country to establish a Committee for Solidarity with South Vietnam, founded by heroine Melba Hernandez. Cuba was also the first nation to recognize the National Liberation Front of South Vietnam and invite it to establish a permanent representative office in La Habana. [Source: Institute of History, History of Vietnam, Vol. 11, Social Sciences Publishing House, Hanoi, 2014]
@@ -8103,10 +8139,6 @@
 
 <!-- id: EVT-2259 -->
 *   **Aug. 21 - 27, 1964:** A massive wave of demonstrations by hundreds of thousands of students, Buddhists, and citizens erupted in Saigon, Hue, and Da Nang besieging the US Embassy and Prime Minister's Office to oppose General Nguyen Khanh's "Vung Tau Charter" establishing military dictatorship, forcing Khanh to repeal the charter and step down as head of state. [Source: Institute of History, History of Vietnam, Vol. 11, Social Sciences Publishing House, Hanoi, 2014]
-
-![Historical image](images/event_20260930_214519.webp)
-
-*Source: Thich Quang Duc. Photo: Wikimedia Commons*
 
 <!-- id: EVT-2260 -->
 *   **August 25, 1964:** **Caravelle Hotel Bombing (Saigon):** Commando Team 65, led by Nguyen Thanh Xuan (Bay Be), covertly placed an explosive charge in room 514 of the Caravelle Hotel in Lam Son Square, where numerous high-ranking American officers and military advisers were billeted. The explosion collapsed multiple floors, severely damaging officer accommodations and resonating internationally. [Source: Party Central Committee, Party Documents, Vol. 24, National Political Publishing House, Hanoi, 2003]
@@ -8319,6 +8351,10 @@
 <!-- id: EVT-2319 -->
 *   **Nov. 2, 1965:** Norman Morrison, an American Quaker and pacifist, self-immolated in front of the Pentagon (USA) to protest the United States' involvement in the Vietnam War. He brought his one-year-old daughter Emily with him before committing the act. His ultimate sacrifice deeply moved the Vietnamese people and anti-war activists worldwide. [Source: The Washington Post, November 3, 1965 issue; Nhan Dan Newspaper, "The Immortal Flame of Norman Morrison"]
 
+![Historical image](images/event_20261008_143351_2.webp)
+
+*Source: Portrait of Norman Morrison, the American who self-immolated to protest the Vietnam War on Nov. 2, 1965. Photo: Vietnam National Museum of History*
+
 <!-- id: EVT-2320 -->
 *   **Nov. 4, 1965:** Poet To Huu visited Dong Hoi and conversed with Mother Suot. Inspired by her bravery, he composed the famous poem "Mẹ Suốt," which immortalized her image in modern Vietnamese literature. [Source: Party Central Committee, Party Documents, Vol. 26, National Political Publishing House, Hanoi, 2003]
 
@@ -8401,6 +8437,10 @@
 <!-- id: EVT-2345 -->
 *   **Feb. 12 - Mar. 17, 1966:** The South Korean Tiger Division carried out Operation Maengho 6 across Binh An commune (now Tay Vinh commune, Tay Son district, Binh Dinh province), brutally massacring 1,004 unarmed civilians across 15 hamlets. The atrocity culminated on Feb. 26, 1966, at Go Dai, where South Korean troops herded and slaughtered 380 innocent villagers (mostly women, elderly, and children) in a single day (the Go Dai Massacre). [Source: Binh Dinh Provincial People's Committee, Go Dai Massacre Memorial Site Dossier (1966); Binh Dinh Newspaper; Tuoi Tre Newspaper]
 
+![Historical image](images/event_20261008_143351_3.webp)
+
+*Source: Memorial ceremony honoring the Binh An massacre victims at the Go Dai Memorial Site, Tay Vinh commune, Tay Son district, Binh Dinh. Photo: VietnamPlus/VNA*
+
 <!-- id: EVT-2346 -->
 *   **Feb. 14, 1966:** South Korean troops of the Tiger Division committed the Thai Binh Massacre, brutally killing 65 unarmed civilians (mostly elderly people, women, and children) in Thai Binh village (now Canh Hoa commune, Van Canh district, Binh Dinh province). [Source: Quang Ngai Provincial Party Committee, War Crimes of the US Military and Allies in Quang Ngai, Quang Ngai Publishing House, 2005]
 
@@ -8409,6 +8449,10 @@
 
 <!-- id: EVT-2348 -->
 *   **Mar. 10 - Jun. 19, 1966:** The "Central Vietnam Crisis" erupted as hundreds of thousands of citizens, Buddhist monastics, students, and ARVN I Corps soldiers in Da Nang and Hue took to the streets to protest the military junta of Nguyen Cao Ky and Nguyen Van Thieu and US intervention. The movement peaked in early June 1966 with the "Buddhist Altars in the Streets" campaign halting military vehicles and riot police. [Source: Institute of History, History of Vietnam, Vol. 11 (1954 - 1965), Social Sciences Publishing House, Hanoi, 2014]
+
+![Historical image](images/event_20261008_143352.webp)
+
+*Source: U.S. military trucks passing a row of Buddhist altars placed across a street in Hue during the 1966 Central Vietnam crisis. Photo: NARA (Public domain, via Wikimedia Commons)*
 
 <!-- id: EVT-2349 -->
 *   **April 1, 1966:** **Victoria BOQ Bombing (Saigon):** Saigon Commandos drove an explosive-laden truck to breach and detonate a massive charge at the Victoria Bachelor Officers Quarters on Tran Hung Dao Street, housing over 200 U.S. officers. The explosion shook central Saigon, collapsing sections of the multi-story structure and destroying vehicles, killing and wounding dozens of American military personnel. [Source: Military Region 7 High Command, History of the Saigon - Gia Dinh Commandos (1945 - 1975), People's Army Publishing House, Hanoi, 2010]
@@ -8470,6 +8514,10 @@
 <!-- id: EVT-2368 -->
 *   **Dec. 3 - 6, 1966:** South Korean troops massacred over 400 civilians in Binh Hoa commune (Quang Ngai), mostly women, children, and the elderly. [Source: Ministry of Foreign Affairs, History of Vietnamese Diplomacy (1945 - 2000), National Political Publishing House, Hanoi, 2002]
 
+![Historical image](images/event_20261008_143352_3.webp)
+
+*Source: Memorial stele honoring the victims of the Binh Hoa massacre (Dec. 3–6, 1966) in Binh Hoa commune, Binh Son district, Quang Ngai. Photo: Quang Ngai Department of Culture, Sports and Tourism*
+
 <!-- id: EVT-2369 -->
 *   **December 4, 1966:** **Raid on Tan Son Nhut Air Base:** Commando Group F100, led by Banh Van Tran (Nam Vung), coordinated with regional sappers to covertly penetrate multiple barbed-wire perimeters and minefields at Tan Son Nhut Air Base. Utilizing B40 rockets and timed demolition charges, the commandos destroyed and damaged 67 aircraft, incinerated a fuel depot, and inflicted over 100 enemy casualties, delivering a devastating blow to the principal air base of U.S. and South Vietnamese forces. [Source: Command of Military Region 7, History of Saigon - Gia Dinh Commandos (1945 - 1975), People's Army Publishing House, Hanoi, 2010; Sai Gon Giai Phong Newspaper]
 
@@ -8524,6 +8572,10 @@
 <!-- id: EVT-2386 -->
 *   **Jan. 31 - Feb. 1, 1967:** The Thủy Bồ incident (Thủy Bồ massacre) occurred in Thủy Bồ hamlet (Điện Thọ commune, Điện Bàn district, now Điện Bàn town, Quảng Nam province). During a sweep operation, US Marines (Company H, 2nd Battalion, 1st Marines) tossed grenades into bomb shelters, torched homes, and massacred 145 unarmed civilians—predominantly women, the elderly, and children—just before the Lunar New Year. In 1977, local authorities and residents erected a memorial monument commemorating the victims of the war crime (featuring the poignant sculpture of a fallen mother sheltering her surviving nursing infant). [Source: Military History Institute of Vietnam, Defeating Operation Junction City, People's Army Publishing House, Hanoi, 1982]
 
+![Historical image](images/event_20261008_143352_1.webp)
+
+*Source: Memorial monument to the 145 victims of the Thuy Bo massacre (1967) amid the rice fields of Thuy Bo hamlet, Dien Tho commune, Dien Ban town, Quang Nam. Photo: Tien Phong Newspaper*
+
 <!-- id: EVT-2387 -->
 *   **Feb. 22 - May 14, 1967:** **Operation Junction City:** The US military committed over 30,000 expeditionary troops, thousands of armored vehicles, and hundreds of aircraft in Operation Junction City—the largest ground sweep operation of the war—striking War Zone C (Tay Ninh province) to annihilate the Central Office for South Vietnam (COSVN) and the Liberation Army Command. Standing firm with unyielding resolve, the army and people of War Zone C waged people's forest warfare for 81 days and nights, putting thousands of enemy troops out of action, destroying hundreds of aircraft and armored fighting vehicles, safeguarding leadership organs completely, and thoroughly crushing this major US strategic offensive. [Source: Military History Institute of Vietnam, History of the Resistance War against the US for National Salvation (1954 - 1975), Vol. 4, National Political Publishing House, Hanoi, 2013; People's Army Newspaper]
 
@@ -8538,6 +8590,10 @@
 
 <!-- id: EVT-2391 -->
 *   **May 16, 1967:** Buddhist nun **Nhat Chi Mai** self-immolated at Tu Nghiem Pagoda (Saigon) to pray for peace. [Source: 1967 Constitution of the Republic of Vietnam; Institute of History, History of Vietnam, Vol. 11, Social Sciences Publishing House, Hanoi, 2014]
+
+![Historical image](images/event_20261008_143352_2.webp)
+
+*Source: Nuns of Tu Nghiem Pagoda (Saigon) in the 1960s – where nun Nhat Chi Mai self-immolated on May 16, 1967. Photo: Buddhist Studies Review*
 
 <!-- id: EVT-2392 -->
 *   **June 23, 1967:** The Democratic Republic of Vietnam and the Kingdom of Cambodia formally established diplomatic relations at the ambassadorial level. The Royal Government of Cambodia led by Head of State Norodom Sihanouk recognized and respected the territorial integrity of Vietnam within its current borders. [Source: Ministry of Foreign Affairs, History of Vietnamese Diplomacy (1945 - 2000), National Political Publishing House, Hanoi, 2002; Joint Communiqué on the Establishment of Diplomatic Relations between Vietnam and Cambodia, June 23, 1967; Nhan Dan Newspaper]
@@ -8822,6 +8878,10 @@
 <!-- id: EVT-2471 -->
 *   **Feb. 25, 1969:** A US Navy SEAL team led by Bob Kerrey killed 21 civilians in Thanh Phong (Ben Tre). [Source: Ben Tre Provincial People's Committee, Thanh Phong Massacre Memorial Dossier, Feb. 25, 1969; Tuoi Tre Newspaper; Ben Tre Newspaper]
 
+![Historical image](images/event_20261008_143352_4.webp)
+
+*Source: Stele commemorating the 21 victims of the Thanh Phong massacre of Feb. 25, 1969, at Thanh Hoa hamlet, Ben Tre. Photo: Lao Dong Newspaper (via Soha)*
+
 <!-- id: EVT-2472 -->
 *   **Mar. 1969:** Due to declining health from previous years of imprisonment, brutal torture by the enemy, and harsh operating conditions in the South, Dinh Thi Van was transferred back to Hanoi for medical treatment and assigned to intelligence training tasks. [Source: Nhan Dan Newspaper, "Female Intelligence Agent Dinh Thi Van - Legend in Enemy Territory"; General Department II - Ministry of National Defense, History of Vietnam Defense Intelligence]
 
@@ -8938,6 +8998,10 @@
 <!-- id: EVT-2507 -->
 *   **Mar. 10, 1970:** Following the arrest of Saigon Student Union President Huynh Tan Mam, urban student movements across Southern Vietnam erupted in campus strikes, street demonstrations, hunger strikes, and the anti-war musical movement "Sing for My Compatriots," demanding university autonomy, release of student detainees, and an end to the war. [Source: Ministry of Foreign Affairs, History of Vietnamese Diplomacy (1945 - 2000), National Political Publishing House, Hanoi, 2002]
 
+![Historical image](images/event_20261008_143352_6.webp)
+
+*Source: Musician Ton That Lap (second from right) with colleagues in the “Sing for My Compatriots” movement in the late 1960s. Archival photo: Hanoimoi Newspaper*
+
 <!-- id: EVT-2508 -->
 *   **Mar. 12, 1970:** Cambodian Prime Minister Lon Nol closed the Sihanoukville port to North Vietnamese shipments and issued a 72-hour ultimatum for all Vietnamese forces to leave Cambodia. [Source: Military History Institute of Vietnam, History of the Resistance War against the US (1954 - 1975), Vol. 4, National Political Publishing House, Hanoi, 2013]
 
@@ -8973,6 +9037,10 @@
 
 <!-- id: EVT-2518 -->
 *   **July 2, 1970:** US congressional aides Tom Harkin and Don Luce, accompanied by international journalists, secretly discovered and photographed the concealed "Tiger Cages" at Con Son (Con Dao) Prison—where hundreds of patriotic Vietnamese political prisoners were subjected to inhumane torture (lime dusting, dirty water hosing, starvation, and shackling under US-funded advisory programs). The shocking exposé published in *Life* magazine laid bare these atrocities before global public opinion, igniting intense international anti-war protests demanding the closure of the cages and an end to the war. [Source: Don Luce, Hostages of War: Saigon's Political Prisoners, Indochina Mobile Education Project, 1973; Nhan Dan Newspaper]
+
+![Historical image](images/event_20261008_143352_5.webp)
+
+*Source: “The Tiger Cages” expose in Life magazine, July 17, 1970, with Tom Harkin's photos of prisoners inside Con Dao's underground tiger cages. Photo: Life/VOV*
 
 <!-- id: EVT-2519 -->
 *   **Aug. 25, 1970:** Dinh Thi Van was awarded the noble title of Hero of the People's Armed Forces for her outstanding contributions to Vietnam's military intelligence. Tran Huu Bao also received this title for his exceptional combat achievements during the defense of Hill 595. [Source: General Department II - Ministry of National Defense, History of Vietnam Defense Intelligence (1945 - 2015), People's Army Publishing House, Hanoi, 2015]

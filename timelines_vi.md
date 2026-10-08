@@ -6745,6 +6745,10 @@
 <!-- id: EVT-1879 -->
 *   **29/11/1947:** Quân đội viễn chinh Pháp mở cuộc hành quân càn quét vào làng Mỹ Trạch (xã Mỹ Thủy, huyện Lệ Thủy, tỉnh Quảng Bình), dồn 326 thường dân vô tội (phần lớn là phụ nữ mang thai, người già và trẻ em) ra chân cầu Mỹ Trạch bên bờ sông Kiến Giang rồi xả súng máy tàn sát dã man, đồng thời thiêu rụi hơn 300 nóc nhà, xóa sổ nhiều dòng họ. [Nguồn: Tỉnh ủy - UBND tỉnh Quảng Bình, Lịch sử Đảng bộ tỉnh Quảng Bình, tập 1 (1930 - 1954), NXB Chính trị quốc gia, Hà Nội, 1995; Di tích Quốc gia vụ thảm sát Mỹ Trạch]
 
+![Hình ảnh tư liệu](images/event_20261008_143349.webp)
+
+*Nguồn: Nhà bia tưởng niệm các nạn nhân vụ thảm sát Mỹ Trạch ngày 29/11/1947 tại xã Mỹ Thủy, huyện Lệ Thủy, Quảng Bình. Ảnh: Wikimedia Commons (Public domain)*
+
 <!-- id: EVT-1880 -->
 *   **30/11/1947:** Bộ đội Việt Nam tập kích đồn Phủ Thông. Đây là trận đầu tiên quân Pháp bị tiêu diệt ngay trong công sự. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Quân đội nhân dân Việt Nam, tập 1, NXB Quân đội nhân dân, Hà Nội, 1994]
 
@@ -6885,6 +6889,10 @@
 <!-- id: EVT-1923 -->
 *   **09/01/1950:** Hàng ngàn học sinh, sinh viên biểu tình tại Sài Gòn đòi trả tự do cho các học sinh bị bắt. Cuộc biểu tình bị đàn áp, học sinh Trần Văn Ơn trúng đạn hy sinh. Đám tang anh vào ngày 12/01 đã thu hút hàng chục vạn người từ khắp các tỉnh Nam Bộ tham gia, trở thành một cuộc biểu dương lực lượng khổng lồ chống thực dân Pháp và tay sai. [Nguồn: Bảo tàng Lịch sử Quốc gia - Học sinh, sinh viên biểu tình tại Sài Gòn (09/01/1950), https://baotanglichsu.vn/vi/Articles/3097/16673/hoc-sinh-sinh-vien-bieu-tinh-tai-sai-gon-09-01-1950.html]
 
+![Hình ảnh tư liệu](images/event_20261008_143349_1.webp)
+
+*Nguồn: Tượng liệt sĩ Trần Văn Ơn (1931–1950) tại Công viên Bách Tùng Diệp, Quận 1, TP. Hồ Chí Minh. Ảnh: Phương Huy/Wikimedia Commons (CC BY-SA 4.0)*
+
 <!-- id: EVT-1924 -->
 *   **14/01/1950:** Chủ tịch Hồ Chí Minh ra Tuyên bố, sẵn sàng đặt quan hệ ngoại giao với các nước. [Nguồn: Bảo tàng Lịch sử Quốc gia - Tuyên bố của Hồ Chí Minh sẵn sàng đặt quan hệ ngoại giao (14/01/1950), https://baotanglichsu.vn/vi/Articles/3097/16667/tuyen-bo-cua-ho-chi-minh-san-sang-dat-quan-he-ngoai-giao-14-01-1950.html]
 
@@ -6908,6 +6916,10 @@
 
 <!-- id: EVT-1931 -->
 *   **23/02/1950:** Raymonde Dien, một đảng viên trẻ của Đảng Cộng sản Pháp, đã nằm xoài trên đường ray tại nhà ga Saint-Pierre-des-Corps (Tours, Pháp) để chặn một đoàn tàu chở vũ khí sang Đông Dương. Bà bị bắt ngay trong ngày, nhưng hành động quả cảm này đã trở thành biểu tượng của phong trào quốc tế chống chiến tranh, ủng hộ Việt Nam. [Nguồn: Báo Nhân Dân, Raymonde Dien - Biểu tượng sáng ngời của phong trào phản đối chiến tranh Đông Dương; Alain Ruscio, La guerre française d'Indochine, Éditions Complexe, Paris, 1992]
+
+![Hình ảnh tư liệu](images/event_20261008_143350.webp)
+
+*Nguồn: Raymonde Dien tại Berlin, tháng 8/1951 — một năm sau hành động nằm trên đường ray chặn đoàn tàu vũ khí sang Đông Dương. Ảnh: Horst Sturm/Lưu trữ Liên bang Đức (CC BY-SA 3.0, qua Wikimedia Commons)*
 
 <!-- id: EVT-1932 -->
 *   **19/03/1950:** Một cuộc biểu tình chống Mỹ và Pháp khổng lồ với khoảng nửa triệu người tham gia đã nổ ra tại Sài Gòn - Chợ Lớn. Dưới sự dẫn dắt của các trí thức như luật sư Nguyễn Hữu Thọ, cuộc biểu tình đã buộc hai tàu chiến Mỹ (soái hạm *Stickell* và khu trục hạm *Anderson*) phải nhổ neo rời khỏi cảng. Đây là cuộc biểu tình chống can thiệp Mỹ quy mô lớn đầu tiên tại Việt Nam. [Nguồn: Bảo tàng Lịch sử Quốc gia - Biểu tình chống Mỹ, Pháp (19/03/1950), https://baotanglichsu.vn/vi/Articles/3097/16671/bieu-tinh-chong-my-phap-19-03-1950.html]
@@ -7115,6 +7127,10 @@
 
 <!-- id: EVT-1994 -->
 *   **23/01/1952:** Nữ du kích Võ Thị Sáu anh dũng hy sinh tại Côn Đảo ở tuổi 19 sau khi bị chính quyền thực dân Pháp thi hành án tử hình. Chị là người nữ tử tù đầu tiên tại nhà tù Côn Đảo, kiên cường giữ vững khí tiết cách mạng cho đến phút cuối cùng. [Nguồn: Bảo tàng Lịch sử Quốc gia - Võ Thị Sáu: Nữ Anh hùng liệt sĩ, https://baotanglichsu.vn/vi/Articles/3096/13055/vo-thi-sau-nu-anh-hung-liet-si.html]
+
+![Hình ảnh tư liệu](images/event_20261008_143350_1.webp)
+
+*Nguồn: Chân dung nữ liệt sĩ Võ Thị Sáu (1933–1952). Ảnh: Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-1995 -->
 *   **26/03/1952:** Maurice Faure, báo cáo viên về luật phê chuẩn Hiệp ước Hòa bình San Francisco tại Quốc hội Pháp, cho rằng việc Nhật Bản từ bỏ quần đảo Hoàng Sa và Trường Sa khiến các đảo này trở thành *terra derelictae* (đất đai bị bỏ rơi). Quan điểm này mâu thuẫn với các tuyên bố khác của Pháp khẳng định các quần đảo thuộc Liên hiệp Pháp. [Nguồn: TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, NXB Tri thức, Hà Nội, 2013]
@@ -7690,6 +7706,10 @@
 <!-- id: EVT-2147 -->
 *   **25/10/1958:** Đài Tiếng nói Việt Nam phát đi thông tin làm chấn động dư luận trong nước và quốc tế về nữ chiến sĩ cách mạng Trần Thị Lý (Trần Thị Nhâm, quê Điện Bàn, Quảng Nam): sau thời gian kiên cường chịu đựng các cực hình tra tấn dã man trong các nhà tù của chính quyền Ngô Đình Diệm và bị vứt xác khi đã kiệt sức, bà được cơ sở cách mạng bí mật cứu sống, chuyển qua Campuchia rồi đưa ra miền Bắc chữa trị tại Bệnh viện Hữu nghị Việt - Xô trong tình trạng suy kiệt nặng nề (chỉ còn nặng 26 kg với 42 vết thương). Vụ việc trở thành bằng chứng đanh thép tố cáo tội ác tàn bạo của chế độ Ngô Đình Diệm và sự vi phạm Hiệp định Genève. [Nguồn: Báo Dân Trí - Những điều chưa biết về nữ anh hùng Trần Thị Lý, https://dantri.com.vn/thoi-su/nhung-dieu-chua-biet-ve-nu-anh-hung-tran-thi-ly-1156284712.htm]
 
+![Hình ảnh tư liệu](images/event_20261008_143350_2.webp)
+
+*Nguồn: Bác sĩ chăm sóc vết thương cho chị Trần Thị Lý tại Bệnh viện Hữu nghị Việt – Xô, năm 1958. Ảnh: Bảo tàng Lịch sử Quốc gia*
+
 <!-- id: EVT-2148 -->
 *   **14/11/1958:** Chủ tịch Hồ Chí Minh cùng các đồng chí lãnh đạo Đảng, Nhà nước và nhiều đoàn đại biểu quốc tế đến Bệnh viện Hữu nghị Việt - Xô thăm hỏi, động viên nữ chiến sĩ Trần Thị Lý; ý chí kiên trung và sự hồi sinh kỳ diệu của bà đã trở thành nguồn cảm hứng để nhà thơ Tố Hữu sáng tác bài thơ nổi tiếng *"Người con gái Việt Nam"* (tháng 12/1958), khắc họa biểu tượng bất khuất của người phụ nữ Việt Nam trong cuộc kháng chiến chống Mỹ. [Nguồn: Ban Chấp hành Trung ương Đảng, Văn kiện Đảng Toàn tập, tập 20, NXB Chính trị quốc gia, Hà Nội, 2002]
 
@@ -7898,6 +7918,10 @@
 <!-- id: EVT-2201 -->
 *   **10/08/1961:** Không quân Mỹ thực hiện chuyến bay rải chất khai quang diệt cỏ độc hại đầu tiên dọc Quốc lộ 14 ở phía bắc Kon Tum, mở đầu cho cuộc chiến tranh hóa học quy mô lớn kéo dài hơn một thập kỷ tại Việt Nam (Chiến dịch Ranch Hand). Hơn 80 triệu lít chất độc hóa học (với 61% là chất da cam chứa 366 kg dioxin siêu độc) đã bị rải xuống gần 1/4 diện tích miền Nam Việt Nam, hủy diệt thảm thực vật sinh thái và để lại hậu quả di chứng ung thư, dị tật bẩm sinh di truyền qua nhiều thế hệ cho hơn 4,8 triệu người dân Việt Nam. Ngày 10/08 sau này được chọn làm "Ngày Vì nạn nhân chất độc da cam Việt Nam". [Nguồn: Hội Nạn nhân chất độc da cam/dioxin Việt Nam (VAVA), Thảm họa da cam ở Việt Nam và công cuộc khắc phục hậu quả, NXB Thông tin và Truyền thông, Hà Nội, 2016]
 
+![Hình ảnh tư liệu](images/event_20261008_143350_3.webp)
+
+*Nguồn: Máy bay C-123 của Không quân Mỹ rải chất độc hóa học xuống rừng miền Nam trong Chiến dịch Ranch Hand. Ảnh: Quân đội Mỹ (Public domain, qua Wikimedia Commons)*
+
 <!-- id: EVT-2202 -->
 *   **20/09/1961:** Khu ủy Sài Gòn - Gia Định mở Hội nghị Quân sự lần thứ nhất, phân chia chiến trường thành 3 vùng: vùng căn cứ giải phóng (lấy vũ trang làm chính), vùng tranh chấp ven đô (kết hợp chính trị và vũ trang) và vùng nội thành (lấy đấu tranh chính trị làm chính). [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Lực lượng vũ trang miền Đông Nam Bộ (1945 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005]
 
@@ -7995,8 +8019,16 @@
 <!-- id: EVT-2228 -->
 *   **08/05/1963:** Sự kiện Đài phát thanh Huế: Lực lượng an ninh và quân đội của chính quyền Ngô Đình Diệm nổ súng và dùng lựu đạn đàn áp cuộc biểu tình ôn hòa của hàng ngàn Phật tử tại Đài Phát thanh Huế phản đối lệnh triệt hạ cờ Phật giáo nhân Đại lễ Phật Đản (chỉ vài ngày sau khi cờ Vatican được treo công khai khắp thành phố mừng lễ Tổng Giám mục Ngô Đình Thục). Vụ nổ súng làm 9 người thiệt mạng (trong đó có trẻ em) và nhiều người bị thương, chính thức châm ngòi cho **cuộc khủng hoảng Phật giáo năm 1963** và làn sóng phản kháng đô thị trên toàn miền Nam. [Nguồn: Viện Sử học, Lịch sử Việt Nam, tập 11 (1954 - 1965), NXB Khoa học Xã hội, Hà Nội, 2014; The New York Times số ra ngày 09/05/1963]
 
+![Hình ảnh tư liệu](images/event_20261008_143350_4.webp)
+
+*Nguồn: Đài Kỷ niệm Thánh tử đạo tại Huế, tưởng nhớ các nạn nhân vụ xả súng lễ Phật Đản ngày 08/05/1963. Ảnh: Chainwit./Wikimedia Commons (CC BY 4.0)*
+
 <!-- id: EVT-2229 -->
 *   **11/06/1963:** Hòa thượng **Thích Quảng Đức** tẩm xăng tự thiêu tại ngã tư đường Phan Đình Phùng và Lê Văn Duyệt (Sài Gòn) để phản đối chính sách kỳ thị và đàn áp Phật giáo của chính quyền Ngô Đình Diệm. Bức ảnh ghi lại khoảnh khắc bi tráng của phóng viên Malcolm Browne đã gây chấn động toàn cầu, tạo áp lực ngoại giao dữ dội lên Washington và châm ngòi cho làn sóng tiếp tục tự thiêu của nhiều chư tăng ni. Thay vì xoa dịu, gia đình Ngô Đình Diệm (tiêu biểu là những phát ngôn miệt thị "nướng thịt" của Trần Lệ Xuân) càng đẩy chính quyền vào thế cô lập cùng cực. [Nguồn: Tạp chí Cộng sản - Tưởng niệm 50 năm Hòa thượng Thích Quảng Đức tự thiêu, https://www.tapchicongsan.org.vn/web/guest/hoat-ong-cua-lanh-ao-ang-nha-nuoc/-/2018/21739/tuong-niem-50-nam-hoa-thuong-thich-quang-duc-tu-thieu.aspx]
+
+![Hình ảnh tư liệu](images/event_20261008_143351.webp)
+
+*Nguồn: Hòa thượng Thích Quảng Đức tự thiêu tại ngã tư Phan Đình Phùng – Lê Văn Duyệt, Sài Gòn, ngày 11/06/1963. Ảnh: Malcolm Browne/AP (Public domain tại Mỹ)*
 
 <!-- id: EVT-2230 -->
 *   **20 - 21/08/1963:** Đêm 20 rạng sáng 21/08, Lực lượng Đặc biệt và Cảnh sát Dã chiến dưới sự chỉ đạo trực tiếp của Ngô Đình Nhu đồng loạt mở Chiến dịch Nước lũ bố ráp chùa Xá Lợi (Sài Gòn), chùa Từ Đàm (Huế) cùng hàng trăm ngôi chùa trên toàn miền Nam. Thiết quân luật được ban bố trên toàn quốc; hơn 1.400 tăng ni và Phật tử bị bắt giữ, nhiều cơ sở thờ tự bị tàn phá nặng nề. Vụ bố ráp tàn bạo gây phẫn nộ sâu sắc trong công chúng, giới quân sự và truyền thông quốc tế, đẩy quan hệ giữa Mỹ và gia đình họ Ngô đến bờ vực rạn nứt hoàn toàn. [Nguồn: Viện Sử học, Lịch sử Việt Nam, tập 11 (1954 - 1965), NXB Khoa học Xã hội, Hà Nội, 2014]
@@ -8010,6 +8042,10 @@
 
 <!-- id: EVT-2232 -->
 *   **25/08/1963:** Nữ sinh **Quách Thị Trang** (15 tuổi) bị cảnh sát bắn chết tại bùng binh Chợ Bến Thành trong cuộc biểu tình chống chính sách đàn áp Phật giáo. [Nguồn: Báo Nhân Dân - Quảng trường mang tên nữ sinh Sài Gòn dũng cảm, https://nhandan.vn/quang-truong-mang-ten-nu-sinh-sai-gon-dung-cam-post568833.html]
+
+![Hình ảnh tư liệu](images/event_20261008_143351_1.webp)
+
+*Nguồn: Tượng bán thân Quách Thị Trang tại bùng binh trước chợ Bến Thành, TP. Hồ Chí Minh. Ảnh: Bùi Thụy Đào Nguyên/Wikimedia Commons (CC BY-SA 3.0)*
 
 <!-- id: EVT-2233 -->
 *   **23/09/1963:** Cuba là nước đầu tiên thành lập Ủy ban Cuba đoàn kết với miền Nam Việt Nam do nữ anh hùng Melba Hernandez sáng lập. Cuba cũng là nước đầu tiên công nhận Mặt trận Dân tộc Giải phóng miền Nam Việt Nam và mời đặt cơ quan đại diện thường trú tại La Habana. [Nguồn: Viện Sử học, Lịch sử Việt Nam, tập 11, NXB Khoa học Xã hội, Hà Nội, 2014]
@@ -8103,10 +8139,6 @@
 
 <!-- id: EVT-2259 -->
 *   **21 - 27/08/1964:** Làn sóng biểu tình khổng lồ của hàng chục vạn sinh viên, học sinh, Phật tử và nhân dân bùng nổ tại Sài Gòn, Huế, Đà Nẵng bao vây Tòa Đại sứ Mỹ và Dinh Thủ tướng phản đối "Hiến chương Vũng Tàu" thiết lập chế độ độc tài quân sự của Tướng Nguyễn Khánh, buộc Nguyễn Khánh phải tuyên bố hủy bỏ hiến chương và từ chức Quốc trưởng. [Nguồn: Viện Sử học, Lịch sử Việt Nam, tập 11, NXB Khoa học Xã hội, Hà Nội, 2014]
-
-![Hình ảnh tư liệu](images/event_20260930_214519.webp)
-
-*Nguồn: Bồ tát Thích Quảng Đức. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-2260 -->
 *   **25/08/1964:** **Trận đánh Khách sạn Caravelle (Sài Gòn):** Đội Biệt động 65 do Nguyễn Thanh Xuân (Bảy Bê) chỉ huy bí mật đưa khối chất nổ vào phòng 514 khách sạn Caravelle tại Công trường Lam Sơn – nơi đồn trú của đông đảo sĩ quan cấp cao và phái đoàn cố vấn quân sự Mỹ. Vụ nổ làm sụp đổ nhiều tầng nhà, phá hủy cơ sở lưu trú của sĩ quan đối phương và gây tiếng vang lớn trên trường quốc tế. [Nguồn: Ban Chấp hành Trung ương Đảng, Văn kiện Đảng Toàn tập, tập 24, NXB Chính trị quốc gia, Hà Nội, 2003]
@@ -8319,6 +8351,10 @@
 <!-- id: EVT-2319 -->
 *   **02/11/1965:** Norman Morrison, một tín hữu Quaker người Mỹ yêu chuộng hòa bình, đã tự thiêu trước Lầu Năm Góc (Mỹ) để phản đối cuộc chiến tranh xâm lược của Mỹ tại Việt Nam. Ông đã bế theo con gái một tuổi Emily trước khi hành động. Sự hy sinh của ông đã gây chấn động và làm xúc động sâu sắc nhân dân Việt Nam cũng như phong trào phản chiến trên toàn thế giới. [Nguồn: The Washington Post số ra ngày 03/11/1965; Báo Nhân Dân, "Ngọn lửa Norman Morrison bất diệt"]
 
+![Hình ảnh tư liệu](images/event_20261008_143351_2.webp)
+
+*Nguồn: Chân dung Norman Morrison, người Mỹ tự thiêu phản đối chiến tranh Việt Nam ngày 02/11/1965. Ảnh: Bảo tàng Lịch sử Quốc gia*
+
 <!-- id: EVT-2320 -->
 *   **04/11/1965:** Nhà thơ Tố Hữu đến Đồng Hới và có cuộc trò chuyện với Mẹ Suốt. Lấy cảm hứng từ lòng quả cảm của bà, ông đã sáng tác bài thơ nổi tiếng "Mẹ Suốt", khắc họa thành công hình ảnh người mẹ anh hùng trong văn học Việt Nam hiện đại. [Nguồn: Ban Chấp hành Trung ương Đảng, Văn kiện Đảng Toàn tập, tập 26, NXB Chính trị quốc gia, Hà Nội, 2003]
 
@@ -8401,6 +8437,10 @@
 <!-- id: EVT-2345 -->
 *   **12/02 - 17/03/1966:** Sư đoàn lính Mãnh Hổ (Hàn Quốc) mở chiến dịch càn quét Maengho 6 tại xã Bình An (nay thuộc xã Tây Vinh, huyện Tây Sơn, tỉnh Bình Định), tàn sát dã man 1.004 thường dân vô tội trên địa bàn 15 thôn xóm. Đỉnh điểm là ngày 26/02/1966 tại Gò Dài, lính Hàn Quốc đã dồn và sát hại dã man 380 người dân vô tội (chủ yếu là phụ nữ, người già và trẻ em) trong một ngày (Thảm sát Gò Dài). [Nguồn: Ủy ban Nhân dân tỉnh Bình Định, Khu chứng tích vụ thảm sát Gò Dài (1966); Báo Bình Định; Báo Tuổi Trẻ]
 
+![Hình ảnh tư liệu](images/event_20261008_143351_3.webp)
+
+*Nguồn: Lễ dâng hương tưởng niệm nạn nhân vụ thảm sát Bình An tại Khu chứng tích Gò Dài, xã Tây Vinh, huyện Tây Sơn, Bình Định. Ảnh: VietnamPlus/TTXVN*
+
 <!-- id: EVT-2346 -->
 *   **14/02/1966:** Lính thuộc Sư đoàn Mãnh Hổ (Hàn Quốc) gây ra vụ thảm sát Thái Bình, sát hại dã man 65 thường dân vô tội không có vũ khí (phần lớn là người già, phụ nữ và trẻ em) tại làng Thái Bình (nay thuộc xã Canh Hòa, huyện Vân Canh, tỉnh Bình Định). [Nguồn: Tỉnh ủy - UBND tỉnh Quảng Ngãi, Tội ác chiến tranh của quân đội Mỹ và đồng minh tại Quảng Ngãi, NXB Quảng Ngãi, 2005]
 
@@ -8409,6 +8449,10 @@
 
 <!-- id: EVT-2348 -->
 *   **10/03 - 19/06/1966:** "Biến động Miền Trung" bùng nổ khi hàng chục vạn quần chúng, tăng ni Phật tử, sinh viên học sinh và binh sĩ Quân đoàn I tại Đà Nẵng, Huế xuống đường biểu tình chống chính quyền quân sự Nguyễn Cao Kỳ - Nguyễn Văn Thiệu và sự can thiệp của Mỹ. Phong trào lên đỉnh điểm vào đầu tháng 6/1966 với chiến dịch "Bàn thờ Phật xuống đường" chặn xe cơ giới và cảnh sát dã chiến. [Nguồn: Viện Sử học, Lịch sử Việt Nam, tập 11 (1954 - 1965), NXB Khoa học Xã hội, Hà Nội, 2014]
+
+![Hình ảnh tư liệu](images/event_20261008_143352.webp)
+
+*Nguồn: Xe quân sự Mỹ đi qua dãy bàn thờ Phật được đưa ra chặn giữa đường ở Huế trong Biến động Miền Trung năm 1966. Ảnh: NARA (Public domain, qua Wikimedia Commons)*
 
 <!-- id: EVT-2349 -->
 *   **01/04/1966:** **Trận đánh Cư xá Sĩ quan Mỹ Victoria (Sài Gòn):** Lực lượng Biệt động Sài Gòn dùng xe tải chở khối lượng lớn chất nổ áp sát và kích nổ phá sập một phần Cư xá Sĩ quan Mỹ Victoria (Victoria Bachelor Officers Quarters) trên đường Trần Hưng Đạo – nơi cư trú của hơn 200 sĩ quan quân đội Mỹ. Vụ nổ làm rung chuyển trung tâm Sài Gòn, phá hủy nhiều tầng nhà và phương tiện quân sự, làm chết và bị thương hàng chục sĩ quan và lính Mỹ. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Biệt động Sài Gòn - Gia Định (1945 - 1975), NXB Quân đội nhân dân, Hà Nội, 2010]
@@ -8470,6 +8514,10 @@
 <!-- id: EVT-2368 -->
 *   **03 - 06/12/1966:** Lính Nam Triều Tiên gây ra vụ thảm sát Bình Hòa (Quảng Ngãi), giết hại hơn 400 thường dân, chủ yếu là người già, phụ nữ và trẻ em. [Nguồn: Bộ Ngoại giao, Lịch sử Ngoại giao Việt Nam (1945 - 2000), NXB Chính trị quốc gia, Hà Nội, 2002]
 
+![Hình ảnh tư liệu](images/event_20261008_143352_3.webp)
+
+*Nguồn: Nhà bia tưởng niệm các nạn nhân vụ thảm sát Bình Hòa (03–06/12/1966) tại xã Bình Hòa, huyện Bình Sơn, Quảng Ngãi. Ảnh: Sở Văn hóa, Thể thao và Du lịch tỉnh Quảng Ngãi*
+
 <!-- id: EVT-2369 -->
 *   **04/12/1966:** **Trận tập kích Sân bay Tân Sơn Nhất:** Đội Biệt động F100 do Bành Văn Trân (Năm Vững) chỉ huy phối hợp cùng đặc công quân khu bí mật tiềm nhập qua nhiều tầng rào thép gai và bãi mìn kiên cố vào sân bay quân sự Tân Sơn Nhất. Bằng hỏa lực B40 và khối thuốc nổ hẹn giờ, các chiến sĩ đã phá hủy và làm hư hại 67 máy bay các loại, thiêu rụi kho xăng dầu và tiêu diệt hơn 100 binh lính, chuyên gia kỹ thuật đối phương, giáng đòn sấm sét vào căn cứ không quân đầu não của Mỹ và quân đội Sài Gòn. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Biệt động Sài Gòn - Gia Định (1945 - 1975), NXB Quân đội nhân dân, Hà Nội, 2010; Báo Sài Gòn Giải Phóng]
 
@@ -8524,6 +8572,10 @@
 <!-- id: EVT-2386 -->
 *   **31/01 - 01/02/1967:** Vụ thảm sát Thủy Bồ diễn ra tại thôn Thủy Bồ (xã Điện Thọ, huyện Điện Bàn, nay thuộc thị xã Điện Bàn, tỉnh Quảng Nam). Trong cuộc càn quét tại khu vực, lính Thủy quân Lục chiến Hoa Kỳ (Đại đội H, Tiểu đoàn 2, Trung đoàn 1) đã ném lựu đạn xuống hầm trú ẩn, phóng hỏa đốt nhà và sát hại dã man 145 thường dân vô tội (phần lớn là phụ nữ, người già và trẻ em) ngay trước thềm Tết Đinh Mùi. Năm 1977, chính quyền và nhân dân địa phương đã dựng đài tưởng niệm ghi dấu tội ác chiến tranh và tưởng nhớ các nạn nhân (nổi bật với cụm tượng người mẹ tử nạn che chở cho đứa con sơ sinh còn sống sót). [Nguồn: Viện Lịch sử Quân sự Việt Nam, Đánh bại cuộc hành quân Gian-xơn Xi-ti, NXB Quân đội nhân dân, Hà Nội, 1982]
 
+![Hình ảnh tư liệu](images/event_20261008_143352_1.webp)
+
+*Nguồn: Tượng đài tưởng niệm 145 nạn nhân vụ thảm sát Thủy Bồ (1967) giữa cánh đồng thôn Thủy Bồ, xã Điện Thọ, thị xã Điện Bàn, Quảng Nam. Ảnh: Báo Tiền Phong*
+
 <!-- id: EVT-2387 -->
 *   **22/02 - 14/05/1967:** **Chiến dịch Junction City (Operation Junction City):** Quân đội Mỹ huy động hơn 30.000 quân viễn chinh, hàng ngàn xe tăng, thiết giáp và hàng trăm máy bay mở cuộc hành quân càn quét khổng lồ Junction City đánh vào Chiến khu C (Tây Ninh) nhằm tiêu diệt cơ quan đầu não Trung ương Cục miền Nam và Bộ Chỉ huy Quân Giải phóng. Đây là cuộc hành quân càn quét trên bộ có quy mô lớn nhất của quân Mỹ trong toàn bộ cuộc chiến tranh xâm lược. Với tinh thần quyết tử, quân và dân Chiến khu C đã dựa vào làng rừng chiến đấu, kiên cường đánh trả suốt 81 ngày đêm, loại khỏi vòng chiến đấu hàng nghìn tên giặc, bắn rơi và phá hủy hàng trăm máy bay, xe bọc thép, bảo vệ tuyệt đối an toàn cơ quan đầu não kháng chiến và đánh bại hoàn toàn cuộc càn quét chiến lược của Mỹ. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Kháng chiến chống Mỹ cứu nước (1954 - 1975), tập 4, NXB Chính trị quốc gia, Hà Nội, 2013; Báo Quân đội nhân dân]
 
@@ -8538,6 +8590,10 @@
 
 <!-- id: EVT-2391 -->
 *   **16/05/1967:** Nhất Chi Mai (Phan Thị Mai) tự thiêu tại chùa Từ Nghiêm (Sài Gòn) để cầu nguyện cho hòa bình. [Nguồn: Hiến pháp Việt Nam Cộng hòa năm 1967; Viện Sử học, Lịch sử Việt Nam, tập 11, NXB Khoa học Xã hội, Hà Nội, 2014]
+
+![Hình ảnh tư liệu](images/event_20261008_143352_2.webp)
+
+*Nguồn: Ni chúng chùa Từ Nghiêm (Sài Gòn) trong thập niên 1960 – ngôi chùa nơi Ni sư Nhất Chi Mai tự thiêu ngày 16/05/1967. Ảnh: Tạp chí Nghiên cứu Phật học*
 
 <!-- id: EVT-2392 -->
 *   **23/06/1967:** Việt Nam Dân chủ Cộng hòa và Vương quốc Campuchia chính thức thiết lập quan hệ ngoại giao cấp Đại sứ. Chính phủ Hoàng gia Campuchia do Quốc trưởng Norodom Sihanouk đứng đầu tuyên bố công nhận và tôn trọng toàn vẹn lãnh thổ của Việt Nam trong ranh giới hiện tại. [Nguồn: Bộ Ngoại giao, Lịch sử Ngoại giao Việt Nam (1945 - 2000), NXB Chính trị quốc gia, Hà Nội, 2002; Thông cáo chung thiết lập quan hệ ngoại giao Việt Nam - Campuchia ngày 23/06/1967; Báo Nhân Dân]
@@ -8822,6 +8878,10 @@
 <!-- id: EVT-2471 -->
 *   **25/02/1969:** Biệt kích SEAL của Mỹ do Bob Kerrey chỉ huy thảm sát 21 thường dân tại Thạnh Phong (Bến Tre). [Nguồn: Ủy ban Nhân dân tỉnh Bến Tre, Di tích Vụ thảm sát Thạnh Phong ngày 25/02/1969; Báo Tuổi Trẻ; Báo Bến Tre]
 
+![Hình ảnh tư liệu](images/event_20261008_143352_4.webp)
+
+*Nguồn: Bia tưởng niệm 21 nạn nhân vụ thảm sát Thạnh Phong ngày 25/02/1969 tại ấp Thạnh Hòa, Bến Tre. Ảnh: Báo Lao Động (qua Soha)*
+
 <!-- id: EVT-2472 -->
 *   **03/1969:** Do sức khỏe giảm sút sau những năm tháng bị địch bắt giam, tra tấn dã man và hoạt động căng thẳng, Đinh Thị Vân được điều ra Hà Nội để điều trị và phân công làm công tác huấn luyện tình báo. [Nguồn: Báo Nhân Dân, "Nữ tình báo Đinh Thị Vân - Huyền thoại trong lòng địch"; Tổng cục II - Bộ Quốc phòng, Lịch sử Tình báo Quốc phòng Việt Nam]
 
@@ -8938,6 +8998,10 @@
 <!-- id: EVT-2507 -->
 *   **10/03/1970:** Sau vụ bắt giữ Chủ tịch Tổng hội Sinh viên Sài Gòn Huỳnh Tấn Mẫm, phong trào sinh viên đô thị miền Nam bùng nổ làn sóng bãi khóa, biểu tình, tuyệt thực và phong trào âm nhạc phản chiến "Hát cho đồng bào tôi nghe" đòi tự trị đại học, trả tự do cho sinh viên bị bắt và chấm dứt chiến tranh. [Nguồn: Bộ Ngoại giao, Lịch sử Ngoại giao Việt Nam (1945 - 2000), NXB Chính trị quốc gia, Hà Nội, 2002]
 
+![Hình ảnh tư liệu](images/event_20261008_143352_6.webp)
+
+*Nguồn: Nhạc sĩ Tôn Thất Lập (thứ hai từ phải sang) cùng các đồng nghiệp trong phong trào “Hát cho đồng bào tôi nghe” cuối thập niên 1960. Ảnh tư liệu: Báo Hà Nội Mới*
+
 <!-- id: EVT-2508 -->
 *   **12/03/1970:** Thủ tướng Campuchia Lon Nol ra lệnh đóng cửa cảng Sihanoukville và gửi tối hậu thư yêu cầu toàn bộ lực lượng quân đội Việt Nam phải rút khỏi Campuchia trong vòng 72 giờ. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Kháng chiến chống Mỹ cứu nước (1954 - 1975), tập 4, NXB Chính trị quốc gia, Hà Nội, 2013]
 
@@ -8973,6 +9037,10 @@
 
 <!-- id: EVT-2518 -->
 *   **02/07/1970:** Đoàn trợ lý Quốc hội Mỹ (gồm Tom Harkin, Don Luce) cùng các nhà báo quốc tế bí mật phát hiện và chụp ảnh hệ thống "Chuồng cọp" ngầm tại Trại giam Côn Đảo - nơi giam cầm và tra tấn vô nhân đạo hàng trăm tù nhân chính trị yêu nước Việt Nam (bị rắc vôi bột, xối nước bẩn, cùm chân bỏ đói dưới sự bảo trợ của cố vấn Mỹ). Các phóng sự và hình ảnh chấn động công bố trên tạp chí *Life* đã phơi bày tội ác trước toàn thế giới, thổi bùng làn sóng phản chiến dữ dội đòi đóng cửa chuồng cọp và chấm dứt chiến tranh. [Nguồn: Don Luce, Hostages of War: Saigon's Political Prisoners, Indochina Mobile Education Project, 1973; Báo Nhân Dân]
+
+![Hình ảnh tư liệu](images/event_20261008_143352_5.webp)
+
+*Nguồn: Bài phóng sự “The Tiger Cages” trên tạp chí Life số ra ngày 17/07/1970 với ảnh tù nhân trong chuồng cọp ngầm Côn Đảo do Tom Harkin chụp. Ảnh: Life/VOV*
 
 <!-- id: EVT-2519 -->
 *   **25/08/1970:** Đinh Thị Vân được Nhà nước phong tặng danh hiệu cao quý: Anh hùng Lực lượng vũ trang nhân dân vì những cống hiến xuất sắc cho ngành tình báo quân sự Việt Nam. Trần Hữu Bào cũng được phong tặng danh hiệu này vì những chiến công đặc biệt xuất sắc tại cao điểm 595. [Nguồn: Tổng cục II - Bộ Quốc phòng, Lịch sử Tình báo Quốc phòng Việt Nam (1945 - 2015), NXB Quân đội nhân dân, Hà Nội, 2015]
