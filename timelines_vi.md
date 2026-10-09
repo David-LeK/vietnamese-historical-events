@@ -8598,6 +8598,9 @@
 *   **09 - 13/10/1966:** Lính Nam Triều Tiên (Lữ đoàn Rồng Xanh) thảm sát 180 thường dân tại thôn Phước Bình và Diên Niên (Tịnh Sơn, Quảng Ngãi). [Nguồn: Ủy ban Nhân dân tỉnh Quảng Ngãi, Di tích vụ thảm sát Diên Niên - Phước Bình; Báo Quảng Ngãi; Báo Tuổi Trẻ]
 
 <!-- id: EVT-2362 -->
+*   **25/10/1966:** Nữ cán bộ Mặt trận Dân tộc Giải phóng miền Nam Việt Nam Tô Thị Nâu (23 tuổi) bị bắt tại vùng núi Dinh cùng một máy điện đài và bị thẩm vấn trong lều tại căn cứ Núi Đất (tỉnh Phước Tuy) của Lực lượng Đặc nhiệm Úc số 1 bởi Phân đội 1 Đơn vị Tình báo Sư đoàn trong khoảng 30 phút trước khi bị bàn giao cho chính quyền Việt Nam Cộng hòa; trong quá trình thẩm vấn, sĩ quan phụ trách đã đe dọa dùng cái gọi là 'water treatment' nhằm hù dọa để khai thác tin, rồi cưỡng bức đổ nước vào miệng buộc cô nuốt khoảng một cốc nước (khác với việc uống nước bình thường) trước khi các sĩ quan khác can thiệp; do hành vi bị chặn sớm nên việc có cấu thành tra tấn bằng nước hay không còn gây nhiều tranh cãi. [Nguồn: Australian War Memorial, https://www.awm.gov.au/collection/C296337; https://www.awm.gov.au/collection/C296340]
+
+<!-- id: EVT-3468 -->
 *   **11/1966:** Hơn ba vạn công nhân thủ đô La Habana, Cuba tổ chức mít-tinh rầm rộ nhằm biểu thị tình đoàn kết và ủng hộ nhân dân Việt Nam kháng chiến chống Mỹ. [Nguồn: Viện Sử học, Lịch sử Việt Nam, tập 11, NXB Khoa học Xã hội, Hà Nội, 2014]
 
 <!-- id: EVT-2363 -->

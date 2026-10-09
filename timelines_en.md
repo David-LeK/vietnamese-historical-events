@@ -8598,6 +8598,9 @@
 *   **Oct. 9 - 13, 1966:** South Korean troops (Blue Dragon Brigade) massacred 180 civilians in Phuoc Binh and Dien Nien hamlets (Tinh Son, Quang Ngai). [Source: Quang Ngai Provincial People's Committee, Dien Nien - Phuoc Binh Massacre Memorial Site; Quang Ngai Newspaper; Tuoi Tre Newspaper]
 
 <!-- id: EVT-2362 -->
+*   **Oct. 25, 1966:** National Liberation Front cadre To Thi Nau (23) was captured in the Nui Dinh Hills with a radio and interrogated in a tent at the 1st Australian Task Force base at Nui Dat (Phuoc Tuy Province) by Detachment 1 Division Intelligence Unit for about 30 minutes before being handed over to Republic of Vietnam authorities; during the interrogation, the warrant officer in charge threatened her with what was called 'water treatment' in order to frighten her into giving information, then forcibly poured water into her mouth, forcing her to swallow about a cup of water (unlike drinking water normally) before other officers intervened; because the act was stopped early, whether it constituted water torture remains highly controversial. [Source: Australian War Memorial, https://www.awm.gov.au/collection/C296337; https://www.awm.gov.au/collection/C296340]
+
+<!-- id: EVT-3468 -->
 *   **Nov. 1966:** Over 30,000 workers in Havana, Cuba, held a massive rally to strongly express their solidarity with the Vietnamese people's anti-US resistance. [Source: Institute of History, History of Vietnam, Vol. 11, Social Sciences Publishing House, Hanoi, 2014]
 
 <!-- id: EVT-2363 -->
