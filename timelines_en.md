@@ -9036,6 +9036,13 @@
 *   **Sep. 23, 1969:** The 3rd National Assembly elected Comrade Ton Duc Thang as President and Comrade Nguyen Luong Bang as Vice President of the Democratic Republic of Vietnam. [Source: National Assembly Documents, Vol. 3 (1964 - 1971), National Political Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-2487 -->
+*   **Sep. 26, 1969:** At Phu Quoc Prison, after newly captured comrades confirmed that President Ho Chi Minh had passed away, more than 900 political prisoners quietly held a funeral for him right in the roll-call yard amid surrounding guards and military police. With no banners and no mourning bands, 917 bare-headed prisoners stood in utter silence for a three-minute tribute on the morning of September 30, then raised a liberation flag patched from shirt cloth (red ground from ground laterite stone, blue from leaves, yellow star from quinine medicine), recounted his biography, recited poems from Prison Diary and poems by To Huu, and vowed to study his Testament and uphold revolutionary integrity. [Source: Cong An Nhan Dan newspaper - Holding Uncle Ho's funeral in Phu Quoc prison, https://cand.vn/to-chuc-tang-le-bac-trong-nha-lao-phu-quoc-post161455.html]
+
+![Historical Image](images/event_20261009_143232.webp)
+
+*Source: Gate of the Phu Quoc Prison memorial site today / Bui Thuy Dao Nguyen / Wikimedia Commons (CC BY-SA 3.0)*
+
+<!-- id: EVT-3467 -->
 *   **Oct. 4, 1969 (or Oct. 7, 1970 according to varying accounts):** **Battle of Suoi Soc (Sa Nghe).** Bui Van Thuyen and a militiaman named Chien were ambushed by two US battalions. After Chien was wounded, Thuyen fought alone from morning until 5:00 PM. Utilizing seven different types of captured and existing weapons, he continuously maneuvered and repelled multiple enemy assaults, reportedly eliminating hundreds of US troops (recorded as 360). In 1995, a US MIA delegation visiting the battlefield acknowledged the severe casualties and expressed astonishment upon learning they had faced a single Vietnamese fighter. [Source: Tom Wells, The War Within: America's Battle over Vietnam, University of California Press, 1994; Nhan Dan Newspaper]
 
 <!-- id: EVT-2488 -->

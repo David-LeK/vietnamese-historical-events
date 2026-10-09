@@ -9036,6 +9036,13 @@
 *   **23/09/1969:** Quốc hội khóa III bầu đồng chí Tôn Đức Thắng giữ chức Chủ tịch nước và đồng chí Nguyễn Lương Bằng giữ chức Phó Chủ tịch nước Việt Nam Dân chủ Cộng hòa. [Nguồn: Văn kiện Quốc hội Toàn tập, tập 3 (1964 - 1971), NXB Chính trị quốc gia, Hà Nội, 2008]
 
 <!-- id: EVT-2487 -->
+*   **26/09/1969:** Tại Nhà lao Phú Quốc, sau khi được các đồng chí mới bị bắt đưa tin xác nhận Chủ tịch Hồ Chí Minh đã từ trần, hơn 900 tù binh chính trị lặng lẽ tổ chức lễ tang Người ngay trong sân điểm danh giữa vòng vây của cai ngục và quân cảnh. Không cờ quạt, không khăn tang, 917 người đầu trần đứng im phăng phắc dành ba phút mặc niệm vào sáng 30/09, rồi dựng cờ giải phóng chắp từ mảnh áo (màu đỏ mài từ đá son, màu xanh từ lá cây, ngôi sao vàng từ thuốc ký ninh), kể tiểu sử, ngâm thơ trong Ngục trung nhật ký và thơ Tố Hữu, nguyện học tập Di chúc và giữ vững khí tiết. [Nguồn: Báo Công an nhân dân - Tổ chức tang lễ Bác trong nhà lao Phú Quốc, https://cand.vn/to-chuc-tang-le-bac-trong-nha-lao-phu-quoc-post161455.html]
+
+![Hình ảnh tư liệu](images/event_20261009_143232.webp)
+
+*Nguồn: Cổng Khu di tích Nhà tù Phú Quốc ngày nay / Bùi Thụy Đào Nguyên / Wikimedia Commons (CC BY-SA 3.0)*
+
+<!-- id: EVT-3467 -->
 *   **04/10/1969 (hoặc cuối 1969/tháng 10/1970 theo các tài liệu khác nhau):** **Trận Suối Sóc (bàu Sa Nghe).** Bùi Văn Thuyên cùng dân quân tên Chiến đụng độ lực lượng lớn quân Mỹ đi càn. Khi đồng đội bị thương, ông đã một mình chiến đấu từ sáng đến 5 giờ chiều. Luân phiên sử dụng 7 loại vũ khí khác nhau (như AK, B40, M79, đại liên), ông liên tục cơ động, bẻ gãy nhiều đợt tiến công và tiêu diệt hàng trăm lính Mỹ (được ghi nhận là 360 tên). Năm 1995, phái đoàn MIA của Mỹ khi trở lại chiến trường này đã thừa nhận tổn thất nặng nề và vô cùng kinh ngạc khi biết họ chỉ đối đầu với một người duy nhất. [Nguồn: Tom Wells, The War Within: America's Battle over Vietnam, University of California Press, 1994; Báo Nhân Dân]
 
 <!-- id: EVT-2488 -->
