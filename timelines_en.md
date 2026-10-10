@@ -3356,6 +3356,9 @@
 *   **Jul. 25, 1784:** 50,000 Siamese troops (20,000 naval, 30,000 land) led by Chao Tseng and Chao Sương, along with Nguyen Anh, invaded Gia Dinh. [Source: Rach Gam - Xoai Mut Victory (QDND), http://hc.qdnd.vn/lich-su-hau-can/chien-thang-rach-gam-xoai-mut-va-bai-hoc-ve-cong-tac-hau-can-482369]
 
 <!-- id: EVT-0944 -->
+*   **Aug. 1784:** In Aug. 1784, after entering Gia Dinh at Nguyen Anh's request, Siamese naval forces seized Kien Giang and joined infantry to take Can Tho, controlling nearly half of western Gia Dinh. In the occupied areas, Siamese troops looted property, raped women and killed civilians, provoking popular resentment and sympathy for Tay Son. In his letter to missionary J. Liot on Jan. 25, 1785, Nguyen Anh himself admitted that Siamese soldiers looted, raped women, seized property and killed young and old alike. [Source: Siamese Resistance in the Late 18th Century (Faculty of History, VNU-USSH), https://his.ussh.vnu.edu.vn/vi/news/bui-minh-hanh/cuoc-khang-chien-chong-xiem-cuoi-the-ky-xviii-su-the-hien-sau-sac-y-thuc-ve-chu-quyen-cua-nguoi-viet-nam-tren-vung-dat-nam-bo-5812.html; Rach Gam - Xoai Mut Historical Site (Vietnam National Museum of History), https://baotanglichsu.vn/vi/Articles/3091/19881/di-tich-lich-su-rach-gam-xoai-mut.html]
+
+<!-- id: EVT-3469 -->
 *   **Winter 1784:** Bishop Pigneau de Béhaine (Bá Đa Lộc) represented Nguyen Anh in going to France to ask for help. [Source: Short-Lived Nguyen Prince (Dan Viet), https://danviet.vn/mot-hoang-tu-vuong-trieu-nha-nguyen-yeu-menh-so-phan-long-dong-gian-truan-dau-don-ong-la-ai-20241105225453868-d1193481.html]
 
 <!-- id: EVT-0945 -->

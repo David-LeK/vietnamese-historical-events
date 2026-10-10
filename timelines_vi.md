@@ -3356,6 +3356,9 @@
 *   **25/07/1784:** 5 vạn quân Xiêm (2 vạn thủy, 3 vạn bộ) do Chiêu Tăng, Chiêu Sương chỉ huy cùng Nguyễn Ánh tiến vào xâm lược Gia Định. [Nguồn: Chiến thắng Rạch Gầm - Xoài Mút (Báo QĐND), http://hc.qdnd.vn/lich-su-hau-can/chien-thang-rach-gam-xoai-mut-va-bai-hoc-ve-cong-tac-hau-can-482369]
 
 <!-- id: EVT-0944 -->
+*   **08/1784:** Tháng 8/1784, sau khi tiến vào Gia Định theo lời cầu viện của Nguyễn Ánh, thủy quân Xiêm chiếm Kiên Giang rồi phối hợp bộ binh chiếm Cần Thơ, kiểm soát gần nửa phía tây Gia Định. Trong vùng chiếm đóng, quân Xiêm cướp bóc của cải, hãm hiếp phụ nữ và giết hại dân thường, khiến nhân dân oán hận và hướng về Tây Sơn. Trong thư gửi giáo sĩ J. Liot ngày 25/01/1785, chính Nguyễn Ánh thú nhận bọn lính Xiêm cướp bóc, hãm hiếp đàn bà con gái, vơ vét của cải, giết hại bất kỳ già trẻ. [Nguồn: Cuộc kháng chiến chống Xiêm cuối thế kỷ XVIII (Khoa Lịch sử, ĐHQGHN-USSH), https://his.ussh.vnu.edu.vn/vi/news/bui-minh-hanh/cuoc-khang-chien-chong-xiem-cuoi-the-ky-xviii-su-the-hien-sau-sac-y-thuc-ve-chu-quyen-cua-nguoi-viet-nam-tren-vung-dat-nam-bo-5812.html; Di tích lịch sử Rạch Gầm - Xoài Mút (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3091/19881/di-tich-lich-su-rach-gam-xoai-mut.html]
+
+<!-- id: EVT-3469 -->
 *   **Mùa đông 1784:** Nguyễn Ánh cử Hoàng tử Cảnh đi cùng Giám mục Pigneau de Béhaine (Bá Đa Lộc) sang Pháp cầu viện. [Nguồn: Hoàng tử yểu mệnh nhà Nguyễn (Dân Việt), https://danviet.vn/mot-hoang-tu-vuong-trieu-nha-nguyen-yeu-menh-so-phan-long-dong-gian-truan-dau-don-ong-la-ai-20241105225453868-d1193481.html]
 
 <!-- id: EVT-0945 -->
