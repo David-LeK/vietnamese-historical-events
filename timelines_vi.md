@@ -5021,6 +5021,9 @@
 *   **27/03/1909:** Ông Nguyễn Tuất, cha đẻ của liệt sĩ "Lượm" (Nguyễn Thanh), sinh ra tại Lai Trung, xã Quảng Thọ, huyện Quảng Điền, tỉnh Bình Trị Thiên (nay là Thừa Thiên - Huế). Ông sau này làm hộ tống viên bưu điện và công tác ở nhiều nơi như Quy Nhơn, Nha Trang. [Nguồn: Bảo tàng Lịch sử Quân sự Việt Nam, Kỷ yếu Anh hùng Lực lượng Vũ trang Nhân dân, Hà Nội]
 
 <!-- id: EVT-1396 -->
+*   **07/05/1909:** Bác sĩ Phạm Ngọc Thạch sinh ra tại Quy Nhơn, tỉnh Bình Định, trong một gia đình trí thức yêu nước; ông là con của nhà giáo Phạm Ngọc Thọ, từ nhỏ đã nổi tiếng thông minh, luôn đứng đầu lớp và đỗ đầu các kỳ thi. [Nguồn: Bác sĩ Phạm Ngọc Thạch - Bộ trưởng Y tế đầu tiên, người thầy thuốc vì nhân dân (TTXVN), https://nvsk.vnanet.vn/print/bac-si-pham-ngoc-thach-bo-truong-y-te-dau-tien-nguoi-thay-thuoc-vi-nhan-dan-142101.vna]
+
+<!-- id: EVT-3470 -->
 *   **06/06/1909:** Tổng đốc Lưỡng Quảng (Trung Quốc) phái một đoàn thám hiểm ngắn ngày, do Thủy sư Đô đốc Lý Chuẩn chỉ huy, đổ bộ chớp nhoáng (24 giờ) lên vài đảo thuộc quần đảo Hoàng Sa để bắn đại bác và kéo cờ Trung Quốc. Pháp đã không có phản kháng chính thức nào vào thời điểm đó. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1397 -->
@@ -5796,6 +5799,9 @@
 *   **1934 - 1938:** Nguyễn Ái Quốc trở lại Liên Xô, tiếp tục mang bí danh **Linov** (Lin). Người làm nghiên cứu viên tại Viện Nghiên cứu các vấn đề dân tộc và thuộc địa ở Moskva, theo học và tốt nghiệp Trường Quốc tế Lênin (1935 - 1938), đồng thời tham gia Đoàn đại biểu Đảng Cộng sản Đông Dương dự Đại hội VII Quốc tế Cộng sản (1935). [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1605 -->
+*   **1934:** Sau khi theo học Trường Đại học Y khoa Hà Nội từ năm 1928, Phạm Ngọc Thạch sang Pháp học tiếp và tốt nghiệp bác sĩ Y khoa tại Paris; nhờ thành tích xuất sắc, ông được giữ làm trợ lý tại Trường Đại học Y khoa Paris chuyên ngành lao và bệnh phổi đồng thời là trợ lý tại Bệnh viện Laennec trong 2 năm, và từ năm 1936 là hội viên duy nhất ở Đông Dương của Hội Nghiên cứu bệnh lao Pháp. [Nguồn: Bác sĩ Phạm Ngọc Thạch - Nguyên cố Bộ trưởng Bộ Y tế (Trường Đại học Y khoa Phạm Ngọc Thạch), https://www.pnt.edu.vn/vi/gioi-thieu/bac-si-pham-ngoc-thach]
+
+<!-- id: EVT-3471 -->
 *   **03/1934:** Dưới sự chỉ đạo của Quốc tế Cộng sản, **Ban Chỉ huy Hải ngoại của Đảng Cộng sản Đông Dương** được thành lập tại Ma Cao do đồng chí Lê Hồng Phong làm Thư ký (Bí thư); cơ quan này đảm trách vai trò như Ban Chấp hành Trung ương lâm thời nhằm khôi phục các cơ sở Đảng bị tàn phá sau khủng bố trắng và chuẩn bị Đại hội đại biểu toàn quốc lần thứ I. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1606 -->
@@ -6153,6 +6159,9 @@
 *   **03/1945:** Huỳnh Tấn Phát được kết nạp vào Đảng Cộng sản Đông Dương. [Nguồn: Kiến trúc sư Huỳnh Tấn Phát – Cuộc đời và sự nghiệp (Báo Nhân Dân), https://nhandan.vn/kien-truc-su-huynh-tan-phat-post738200.html]
 
 <!-- id: EVT-1710 -->
+*   **03/1945:** Phạm Ngọc Thạch được kết nạp vào Đảng Cộng sản Đông Dương; Xứ ủy Nam Kỳ giao cho ông trọng trách tập hợp thanh niên vào một tổ chức làm chỗ dựa cho đấu tranh cách mạng, với Đảng đoàn 3 người do ông làm Bí thư. [Nguồn: Bác sĩ Phạm Ngọc Thạch - Nguyên cố Bộ trưởng Bộ Y tế (Trường Đại học Y khoa Phạm Ngọc Thạch), https://www.pnt.edu.vn/vi/gioi-thieu/bac-si-pham-ngoc-thach]
+
+<!-- id: EVT-3472 -->
 *   **09/03/1945:** Quân phiệt Nhật Bản nổ súng phát động **Chiến dịch Meigo Sakusen** (Cuộc đảo chính ngày 9 tháng 3 năm 1945), bất ngờ đồng loạt tấn công tước vũ khí và lật đổ ách thống trị của thực dân Pháp trên toàn cõi Đông Dương, độc chiếm Việt Nam và dựng lên chính quyền bù nhìn Trần Trọng Kim. Cuộc đảo chính đã làm bùng nổ cuộc khủng hoảng chính trị sâu sắc, tạo thời cơ lịch sử để Đảng Cộng sản Đông Dương phát động cao trào kháng Nhật cứu nước, làm tiền đề trực tiếp cho cuộc Tổng khởi nghĩa Cách mạng Tháng Tám giành chính quyền về tay nhân dân. [Nguồn: https://ivides.vnu.edu.vn/news/ban-tin/cau-truc-quyen-luc-o-viet-nam-sau-cuoc-dao-chinh-ngay-9-3-1945-va-van-de-khoang-trong-quyen-luc-trong-cach-mang-thang-tam-138.html]
 
 <!-- id: EVT-1711 -->
@@ -6182,7 +6191,11 @@
 *   **17/04/1945:** Chính phủ bù nhìn Trần Trọng Kim được thành lập dưới sự bảo hộ của Nhật. [Nguồn: Bảo tàng Lịch sử Quốc gia - Chính phủ Trần Trọng Kim (4/1945-8/1945), https://baotanglichsu.vn/vi/Articles/3097/16606/chinh-phu-tran-trong-kim-4-1945-8-1945.html]
 
 <!-- id: EVT-1717 -->
-*   **21/04/1945:** Thanh niên Tiền phong được thành lập. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
+*   **21/04/1945:** Tổ chức Thanh niên Tiền phong được thành lập tại Sài Gòn do bác sĩ Phạm Ngọc Thạch làm Bí thư Đảng đoàn kiêm Chủ tịch Hội đồng quản trị; chỉ trong 3 tháng đầu tổ chức đã phát triển tới hơn 1.200.000 đoàn viên (riêng Sài Gòn 200.000 người), trở thành lực lượng nòng cốt của cuộc Tổng khởi nghĩa giành chính quyền ở Sài Gòn ngày 25/08/1945 và gia nhập Mặt trận Việt Minh ngày 22/08/1945. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017; Sức mạnh Phù Đổng trong Tổng khởi nghĩa ở Sài Gòn tháng 8/1945 (Thông tin Đối ngoại, Ban Tuyên giáo Trung ương), https://ttdn.vn/nghien-cuu-trao-doi/ly-luan-thuc-tien/suc-manh-phu-dong-trong-tong-khoi-nghia-o-sai-gon-thang-8-1945-39577; Bác sĩ Phạm Ngọc Thạch và lời tuyên thệ ngày 2/9/1945 (Báo Tin Tức - TTXVN), https://baotintuc.vn/bac-si-pham-ngoc-thach-mot-doi-giu-vung-tinh-than-cua-loi-tuyen-the-ngay-291945-post933355.html]
+
+![Sắc chỉ bổ nhiệm Phạm Ngọc Thạch tháng 08/1945](images/event_20261010_211700.webp)
+
+*Nguồn: Sắc chỉ ngày 10/08/1945 của Hoàng đế Bảo Đại chuẩn cho Bác sĩ Phạm Ngọc Thạch sung chức Xứ trưởng Thanh niên, đại diện Bộ trưởng Bộ Thanh niên tại Nam Bộ Việt Nam / Public domain*
 
 <!-- id: EVT-1718 -->
 *   **05/1945:** Tại Trùng Khánh (Trung Quốc), Việt Nam Quốc dân Đảng liên minh với Đại Việt Quốc dân Đảng và Đại Việt Dân chính Đảng thành lập tổ chức chung (gọi là Quốc dân Đảng Việt Nam ở Trung Quốc và Đại Việt Quốc dân Đảng ở trong nước). [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
@@ -6261,7 +6274,7 @@
 *   **26/08/1945:** Hòa cùng khí thế của Cách mạng tháng Tám, cuộc khởi nghĩa giành chính quyền ở Sơn La đã diễn ra thắng lợi. [Nguồn: Lịch sử Đảng bộ tỉnh Sơn La (Tập 1), NXB Chính trị Quốc gia, Hà Nội]
 
 <!-- id: EVT-1738 -->
-*   **28/08/1945:** Ủy ban Dân tộc Giải phóng Việt Nam cải tổ thành Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa do Chủ tịch Hồ Chí Minh đứng đầu; đồng chí Võ Nguyên Giáp được cử giữ chức Bộ trưởng Bộ Nội vụ kiêm phụ trách công tác quân sự. Cùng thời gian này, 20 vạn quân Tưởng Giới Thạch do Lư Hán chỉ huy bắt đầu kéo vào miền Bắc Việt Nam (từ vĩ tuyến 16 trở ra) danh nghĩa giải giáp quân Nhật. [Nguồn: Bảo tàng Lịch sử Quốc gia - Ủy ban Dân tộc Giải phóng cải tổ thành Chính phủ lâm thời (28/8/1945), https://baotanglichsu.vn/vi/Articles/3097/16633/uy-ban-dan-toc-giai-phong-cai-to-thanh-chinh-phu-lam-thoi-28-8-1945.html]
+*   **28/08/1945:** Ủy ban Dân tộc Giải phóng Việt Nam cải tổ thành Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa do Chủ tịch Hồ Chí Minh đứng đầu; đồng chí Võ Nguyên Giáp được cử giữ chức Bộ trưởng Bộ Nội vụ kiêm phụ trách công tác quân sự, bác sĩ Phạm Ngọc Thạch được cử làm Bộ trưởng Bộ Y tế đầu tiên đồng thời là Ủy viên Ủy ban Nhân dân Nam Bộ. Cùng thời gian này, 20 vạn quân Tưởng Giới Thạch do Lư Hán chỉ huy bắt đầu kéo vào miền Bắc Việt Nam (từ vĩ tuyến 16 trở ra) danh nghĩa giải giáp quân Nhật. [Nguồn: Bảo tàng Lịch sử Quốc gia - Ủy ban Dân tộc Giải phóng cải tổ thành Chính phủ lâm thời (28/8/1945), https://baotanglichsu.vn/vi/Articles/3097/16633/uy-ban-dan-toc-giai-phong-cai-to-thanh-chinh-phu-lam-thoi-28-8-1945.html; Bác sĩ Phạm Ngọc Thạch - Nguyên cố Bộ trưởng Bộ Y tế (Trường Đại học Y khoa Phạm Ngọc Thạch), https://www.pnt.edu.vn/vi/gioi-thieu/bac-si-pham-ngoc-thach; Bác sĩ Phạm Ngọc Thạch - Bộ trưởng Y tế đầu tiên, người thầy thuốc vì nhân dân (TTXVN), https://nvsk.vnanet.vn/print/bac-si-pham-ngoc-thach-bo-truong-y-te-dau-tien-nguoi-thay-thuoc-vi-nhan-dan-142101.vna]
 
 ![Hồ Chí Minh và Võ Nguyên Giáp](images/event_20261002_163120_1.webp)
 
@@ -6942,6 +6955,9 @@
 * **1950:** Liệt sĩ Lý Văn Mưu (Chiến sĩ bộ binh thuộc Đại đội 675, Tiểu đoàn 251, Trung đoàn 174, Đại đoàn 316. Hy sinh khi tấn công đồn Đông Khê tháng 10 năm 1950) anh dũng hy sinh trong khi thực hiện nhiệm vụ chiến đấu bảo vệ Tổ quốc. [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân trong kháng chiến chống thực dân Pháp, NXB Quân đội nhân dân, Hà Nội, 1996]
 
 <!-- id: EVT-1923 -->
+*   **1950:** Phạm Ngọc Thạch được cử làm Ủy viên Thường vụ Khu ủy kiêm Chủ tịch Ủy ban Kháng chiến Hành chính Đặc khu Sài Gòn - Chợ Lớn, lãnh đạo chính quyền kháng chiến tại đô thị lớn nhất Nam Bộ trong kháng chiến chống Pháp. [Nguồn: Bác sĩ Phạm Ngọc Thạch - Bộ trưởng Y tế đầu tiên, người thầy thuốc vì nhân dân (TTXVN), https://nvsk.vnanet.vn/print/bac-si-pham-ngoc-thach-bo-truong-y-te-dau-tien-nguoi-thay-thuoc-vi-nhan-dan-142101.vna]
+
+<!-- id: EVT-3473 -->
 *   **09/01/1950:** Hàng ngàn học sinh, sinh viên biểu tình tại Sài Gòn đòi trả tự do cho các học sinh bị bắt. Cuộc biểu tình bị đàn áp, học sinh Trần Văn Ơn trúng đạn hy sinh. Đám tang anh vào ngày 12/01 đã thu hút hàng chục vạn người từ khắp các tỉnh Nam Bộ tham gia, trở thành một cuộc biểu dương lực lượng khổng lồ chống thực dân Pháp và tay sai. [Nguồn: Bảo tàng Lịch sử Quốc gia - Học sinh, sinh viên biểu tình tại Sài Gòn (09/01/1950), https://baotanglichsu.vn/vi/Articles/3097/16673/hoc-sinh-sinh-vien-bieu-tinh-tai-sai-gon-09-01-1950.html]
 
 ![Hình ảnh tư liệu](images/event_20261008_143349_1.webp)
@@ -7702,6 +7718,9 @@
 *   **10/1956:** Lấy cớ phản đối tuyên bố của công dân Philippines Tomas Cloma, chính quyền Trung Hoa Dân Quốc (Đài Loan) điều lực lượng đặc nhiệm hải quân và thủy quân lục chiến đổ bộ tái chiếm đóng trái phép đảo Ba Bình (Itu Aba - đảo tự nhiên lớn nhất quần đảo Trường Sa của Việt Nam, sau khi từng tạm rút năm 1950) và duy trì đồn trú quân sự bất hợp pháp từ đó đến nay. [Nguồn: Hồ Chí Minh Toàn tập, tập 10 (1955 - 1957), NXB Chính trị quốc gia, Hà Nội, 2011, tr. 473-485]
 
 <!-- id: EVT-2125 -->
+*   **10/1956:** Đại hội tại Nhà hát Lớn Hà Nội thống nhất các tổ chức thanh niên toàn quốc thành Hội Liên hiệp Thanh niên Việt Nam; bác sĩ Phạm Ngọc Thạch được bầu làm Chủ tịch đầu tiên của Hội (nhiệm kỳ 1956 - 1961). [Nguồn: Bác sĩ Phạm Ngọc Thạch - người thầy thuốc lớn, thủ lĩnh thanh niên (Thành Đoàn TP. Hồ Chí Minh), http://thanhdoan.hochiminhcity.gov.vn/ThanhDoan/webtd/News/8102]
+
+<!-- id: EVT-3474 -->
 *   **22/10/1956:** Chính quyền Ngô Đình Diệm ban hành Dụ số 57 về cải cách điền địa (khống chế điền sản), tước đoạt ruộng đất của nông dân. [Nguồn: Ban Bí thư Trung ương Đảng, Đồng chí Lê Duẩn - Nhà lãnh đạo kiệt xuất của Đảng và nhân dân ta, NXB Chính trị quốc gia, Hà Nội, 2007]
 
 <!-- id: EVT-2126 -->
@@ -7743,6 +7762,9 @@
 *   **Giữa năm 1957:** Trung ương điều động đồng chí Lê Duẩn ra Hà Nội công tác bên cạnh Chủ tịch Hồ Chí Minh để chuẩn bị cho Đại hội III của Đảng và hoạch định chiến lược cách mạng cả nước. [Nguồn: Báo Nhân Dân, "Tổng Bí thư Lê Duẩn – Nhà lãnh đạo kiệt xuất của Đảng và dân tộc"; Ban Chấp hành Trung ương Đảng, Văn kiện Đảng Toàn tập, tập 18, NXB Chính trị quốc gia, Hà Nội, 2002]
 
 <!-- id: EVT-2136 -->
+*   **24/06/1957:** Chính phủ ký quyết định thành lập Viện Chống lao Trung ương (tiền thân của Bệnh viện Phổi Trung ương ngày nay); bác sĩ Phạm Ngọc Thạch đồng thời giữ cương vị Viện trưởng đầu tiên, đặt nền móng cho công cuộc phòng chống lao và phát triển nền y tế Việt Nam hiện đại. [Nguồn: Kỷ niệm 116 năm Ngày sinh BS. Phạm Ngọc Thạch (Bệnh viện Phổi Trung ương), https://benhvienphoitrunguong.vn/tin-tuc-su-kien/tin-trang-chu/ky-niem-116-nam-ngay-sinh-bs-pham-ngoc-thach-soi-chi-do-trong-tu-tuong-va-hanh-dong]
+
+<!-- id: EVT-3475 -->
 *   **08/07/1957:** Chủ tịch Hồ Chí Minh dẫn đầu Đoàn đại biểu Đảng và Chính phủ Việt Nam thăm hữu nghị chính thức Cộng hòa Dân chủ Nhân dân Triều Tiên, được Chủ tịch Kim Nhật Thành đón tiếp trọng thể tại sân bay Sunan (Bình Nhưỡng). Chuyến thăm mở ra giai đoạn mới cho quan hệ hữu nghị Việt - Triều. [Nguồn: Bảo tàng Hồ Chí Minh - Hồ Chí Minh Biên niên tiểu sử, NXB Chính trị quốc gia Sự thật; Báo Nhân Dân]
 
 ![Hình ảnh tư liệu](images/event_20260924_103225.webp)
@@ -7782,6 +7804,9 @@
 *   **05/05/1958:** Bằng Tổ quốc ghi công được cấp cho liệt sĩ Nguyễn Văn Lượm, chính thức ghi nhận sự hy sinh anh dũng của ông cho nền độc lập của đất nước. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Kháng chiến chống Mỹ cứu nước (1954 - 1975), tập 1, NXB Chính trị quốc gia, Hà Nội, 2013]
 
 <!-- id: EVT-2144 -->
+*   **07/1958:** Tại Đại hội liên hoan Anh hùng, chiến sĩ thi đua công-nông-binh lần thứ II, bác sĩ Phạm Ngọc Thạch được tuyên dương danh hiệu Anh hùng Lao động, trở thành Anh hùng Lao động đầu tiên của ngành y tế. [Nguồn: Bác sĩ Phạm Ngọc Thạch - Bộ trưởng Y tế đầu tiên, người thầy thuốc vì nhân dân (TTXVN), https://nvsk.vnanet.vn/print/bac-si-pham-ngoc-thach-bo-truong-y-te-dau-tien-nguoi-thay-thuoc-vi-nhan-dan-142101.vna]
+
+<!-- id: EVT-3476 -->
 *   **19/07/1958:** Trần Thị Quang Mẫn thực hiện trận đánh bằng dao tiêu diệt Thiếu tá Lâm Quang Phòng, Chi khu trưởng kiêm Quận trưởng An Phước (Rạch Giá). Trận đánh khiến sĩ quan đối phương bị trọng thương, còn bà bị bắt và kết án tù khổ sai. [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân (tập 2), NXB Quân đội nhân dân, Hà Nội; Báo Tiền Giang]
 
 <!-- id: EVT-2145 -->
@@ -7801,6 +7826,9 @@
 *   **14/11/1958:** Chủ tịch Hồ Chí Minh cùng các đồng chí lãnh đạo Đảng, Nhà nước và nhiều đoàn đại biểu quốc tế đến Bệnh viện Hữu nghị Việt - Xô thăm hỏi, động viên nữ chiến sĩ Trần Thị Lý; ý chí kiên trung và sự hồi sinh kỳ diệu của bà đã trở thành nguồn cảm hứng để nhà thơ Tố Hữu sáng tác bài thơ nổi tiếng *"Người con gái Việt Nam"* (tháng 12/1958), khắc họa biểu tượng bất khuất của người phụ nữ Việt Nam trong cuộc kháng chiến chống Mỹ. [Nguồn: Ban Chấp hành Trung ương Đảng, Văn kiện Đảng Toàn tập, tập 20, NXB Chính trị quốc gia, Hà Nội, 2002]
 
 <!-- id: EVT-2149 -->
+*   **12/1958:** Phạm Ngọc Thạch được cử giữ chức Bộ trưởng Bộ Y tế (lần thứ hai, nhiệm kỳ đến năm 1968), đồng thời là Bí thư Đảng đoàn Bộ Y tế, Trưởng Ban y học thuộc Ủy ban Khoa học và Kỹ thuật Nhà nước và Viện trưởng Viện Chống lao Trung ương; ông đề ra 5 nguyên tắc chỉ đạo xây dựng nền y tế nhân dân với phương châm phòng bệnh là chính. [Nguồn: Bác sĩ Phạm Ngọc Thạch - Bộ trưởng Y tế đầu tiên, người thầy thuốc vì nhân dân (TTXVN), https://nvsk.vnanet.vn/print/bac-si-pham-ngoc-thach-bo-truong-y-te-dau-tien-nguoi-thay-thuoc-vi-nhan-dan-142101.vna]
+
+<!-- id: EVT-3477 -->
 *   **01/12/1958:** Vụ thảm sát Phú Lợi xảy ra, chế độ Mỹ - Diệm đầu độc hàng ngàn tù nhân chính trị, gây phẫn nộ lớn và thúc đẩy phong trào đấu tranh cách mạng. [Nguồn: Bảo tàng Lịch sử Quốc gia - Vụ thảm sát Phú Lợi (01/12/1958), https://baotanglichsu.vn/vi/Articles/3097/16700/vu-tham-sat-phu-loi-01-12-1958.html]
 
 <!-- id: EVT-2150 -->
@@ -8923,6 +8951,9 @@
 *   **08/1968:** Trung ương Cục quyết định thành lập lại Thành ủy Sài Gòn - Gia Định (mật danh là Bình Giã). Căn cứ Thành ủy chuyển lên Ba Thu (vùng biên giới). [Nguồn: Walter Cronkite, Báo cáo từ Việt Nam: Chúng ta là ai, điều gì, khi nào, ở đâu, tại sao?, CBS News, ngày 27/02/1968]
 
 <!-- id: EVT-2450 -->
+*   **08/1968:** Được sự đồng ý của Chủ tịch Hồ Chí Minh, Trung ương Đảng và Chính phủ, Bộ trưởng Bộ Y tế Phạm Ngọc Thạch hóa trang, rèn luyện sức khỏe và có mặt tại chiến trường miền Nam vào cuối tháng 8/1968; ông là vị bộ trưởng đương nhiệm đầu tiên đi B, trực tiếp khảo sát, tổ chức cứu chữa thương binh và chăm sóc sức khỏe bộ đội, nhân dân vùng giải phóng. [Nguồn: Bác sĩ Phạm Ngọc Thạch - Nguyên cố Bộ trưởng Bộ Y tế (Trường Đại học Y khoa Phạm Ngọc Thạch), https://www.pnt.edu.vn/vi/gioi-thieu/bac-si-pham-ngoc-thach]
+
+<!-- id: EVT-3478 -->
 *   **02/08/1968:** Tại Tòa án quân sự mặt trận Vùng 3 chiến thuật của ngụy quyền Sài Gòn, nữ chiến sĩ Biệt động Sài Gòn Võ Thị Thắng bị kết án 20 năm tù khổ sai. Khi nghe tuyên án, bà mỉm cười bất khuất và dõng dạc tuyên bố: *"Liệu chính quyền các ông có tồn tại đến 20 năm để bỏ tù tôi không?"*. Khoảnh khắc này được một phóng viên ảnh người Nhật Bản ghi lại qua bức ảnh nổi tiếng mang tên *"Nụ cười chiến thắng"*, trở thành biểu tượng kiên cường bất khuất của dân tộc Việt Nam. [Nguồn: Báo Tiền Phong - Vĩnh biệt Nụ cười chiến thắng Võ Thị Thắng, https://tienphong.vn/vinh-biet-nu-cuoi-chien-thang-vo-thi-thang-post715222.tpo]
 
 <!-- id: EVT-2451 -->
@@ -8938,6 +8969,9 @@
 *   **01/11/1968:** Mỹ buộc phải chấm dứt hoàn toàn và không điều kiện việc ném bom, bắn phá miền Bắc. Miền Bắc đánh thắng cuộc chiến tranh phá hoại lần thứ nhất, bắn rơi 3.234 máy bay Mỹ. [Nguồn: Bộ Ngoại giao, Lịch sử Ngoại giao Việt Nam (1945 - 2000), NXB Chính trị quốc gia, Hà Nội, 2002; Báo Nhân Dân]
 
 <!-- id: EVT-2455 -->
+*   **07/11/1968:** Bộ trưởng Bộ Y tế Phạm Ngọc Thạch hy sinh tại chiến khu miền Đông Nam Bộ (Tây Ninh, gần biên giới Việt Nam - Campuchia trên bờ sông Vàm Cỏ Đông) sau một cơn sốt rét ác tính trên nền viêm phúc mạc mật, hưởng thọ 59 tuổi, chỉ vài giờ sau khi còn dặn dò công việc cho ngày hôm sau; Chính phủ tổ chức lễ truy điệu trọng thể tại Hà Nội, Thủ tướng Phạm Văn Đồng đọc điếu văn. [Nguồn: Bác sĩ Phạm Ngọc Thạch - Bộ trưởng Y tế đầu tiên, người thầy thuốc vì nhân dân (TTXVN), https://nvsk.vnanet.vn/print/bac-si-pham-ngoc-thach-bo-truong-y-te-dau-tien-nguoi-thay-thuoc-vi-nhan-dan-142101.vna; Bác sĩ Phạm Ngọc Thạch - Nguyên cố Bộ trưởng Bộ Y tế (Trường Đại học Y khoa Phạm Ngọc Thạch), https://www.pnt.edu.vn/vi/gioi-thieu/bac-si-pham-ngoc-thach]
+
+<!-- id: EVT-3479 -->
 *   **27/11/1968:** Trong một trận rải thảm B-52 của Không lực Hoa Kỳ xuống vùng Tân Châu, Châu Đốc (nay thuộc An Giang), Út Tịch và người con gái thứ ba (Lâm Thị Thơ) bị thương nặng và anh dũng hy sinh. [Nguồn: Nguyễn Thi, Người mẹ cầm súng, NXB Văn học, Hà Nội, 1965; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân]
 
 <!-- id: EVT-2456 -->
@@ -10657,6 +10691,9 @@
 * **1996:** Anh hùng Lực lượng vũ trang nhân dân Tô Quyền (Đại tá Công an Nhân dân Việt Nam có công với Cách mạng) từ trần. [Nguồn: Công an Thành phố Hải Phòng, Lịch sử Công an nhân dân thành phố Hải Phòng (1945 - 2005), NXB Công an nhân dân, 2005; Báo Công an nhân dân]
 
 <!-- id: EVT-2945 -->
+*   **1996:** Nhà nước truy tặng Giải thưởng Hồ Chí Minh đợt 1 về Khoa học Y - Dược cho bác sĩ Phạm Ngọc Thạch cho cụm công trình gồm 34 công trình khoa học về phòng chống bệnh lao ở Việt Nam và 5 nguyên tắc của ngành Y tế nhân dân cùng việc xây dựng mạng lưới y tế cơ sở - y tế nông thôn. [Nguồn: Bác sĩ Phạm Ngọc Thạch - Bộ trưởng Y tế đầu tiên, người thầy thuốc vì nhân dân (TTXVN), https://nvsk.vnanet.vn/print/bac-si-pham-ngoc-thach-bo-truong-y-te-dau-tien-nguoi-thay-thuoc-vi-nhan-dan-142101.vna]
+
+<!-- id: EVT-3480 -->
 *   **29/01/1996:** Đảng và Nhà nước truy tặng danh hiệu Anh hùng Lực lượng Vũ trang Nhân dân cho đồng chí Thiều Văn Chỏi vì những chiến công đặc biệt xuất sắc. [Nguồn: Lệnh số 472-KT/CTN ngày 29/01/1996 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2946 -->

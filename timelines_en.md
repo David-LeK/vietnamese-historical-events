@@ -5021,6 +5021,9 @@
 *   **Mar. 27, 1909:** Nguyen Tuat, the father of the real-life "Luom" (Nguyen Thanh), was born in Lai Trung, Quang Tho commune, Quang Dien district, Binh Tri Thien province (now Thua Thien - Hue). He later worked as a postal escort and moved to various locations, including Quy Nhon and Nha Trang. [Source: Vietnam Military History Museum, Records of the Heroes of the People's Armed Forces, Hanoi]
 
 <!-- id: EVT-1396 -->
+*   **May 7, 1909:** Doctor Pham Ngoc Thach was born in Quy Nhon, Binh Dinh province, into a patriotic intellectual family as the son of teacher Pham Ngoc Tho; from childhood he was known for outstanding academic performance, consistently ranking first in his class and examinations. [Source: Doctor Pham Ngoc Thach - the first Minister of Health, a doctor for the people (Vietnam News Agency), https://nvsk.vnanet.vn/print/bac-si-pham-ngoc-thach-bo-truong-y-te-dau-tien-nguoi-thay-thuoc-vi-nhan-dan-142101.vna]
+
+<!-- id: EVT-3470 -->
 *   **Jun. 6, 1909:** The Viceroy of Liangguang (China) sent a brief expedition, commanded by Admiral Li Chun, for a 24-hour landing on several islands of the Paracels to fire cannons and raise the Chinese flag. France made no official protest at the time. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1397 -->
@@ -5796,6 +5799,9 @@
 *   **1934 - 1938:** Nguyen Ai Quoc returned to the Soviet Union under the alias **Linov** (Lin). He served as a researcher at the Institute for National and Colonial Questions in Moscow, graduated from the International Lenin School (1935 - 1938), and attended the 7th Comintern Congress (1935) with the Indochinese delegation. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1605 -->
+*   **1934:** After studying at Hanoi Medical University from 1928, Pham Ngoc Thach continued his training in France and graduated as a Doctor of Medicine in Paris; thanks to his outstanding record, he was retained as an assistant at the Paris Faculty of Medicine specializing in tuberculosis and pulmonary diseases while also serving as an assistant at Laennec Hospital for two years, and from 1936 he was the only member in Indochina of the French Society for Tuberculosis Research. [Source: Doctor Pham Ngoc Thach - former Minister of Health (Pham Ngoc Thach University of Medicine), https://www.pnt.edu.vn/vi/gioi-thieu/bac-si-pham-ngoc-thach]
+
+<!-- id: EVT-3471 -->
 *   **Mar. 1934:** Under the guidance of the Communist International, the **Overseas Command Bureau of the Indochinese Communist Party** was established in Macao with Comrade Le Hong Phong as Secretary; functioning as a provisional Central Committee, this body led the restoration of shattered Party networks and preparations for the 1st National Congress. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1606 -->
@@ -6153,6 +6159,9 @@
 *   **Mar. 1945:** Huynh Tan Phat was admitted to the Indochinese Communist Party. [Source: Architect Huynh Tan Phat – Life and Career (Nhan Dan Newspaper), https://nhandan.vn/kien-truc-su-huynh-tan-phat-post738200.html]
 
 <!-- id: EVT-1710 -->
+*   **Mar. 1945:** Pham Ngoc Thach was admitted to the Indochinese Communist Party; the Cochinchina Regional Party Committee entrusted him with gathering youth into an organization to support the revolutionary struggle, through a three-member Party cell with him as secretary. [Source: Doctor Pham Ngoc Thach - former Minister of Health (Pham Ngoc Thach University of Medicine), https://www.pnt.edu.vn/vi/gioi-thieu/bac-si-pham-ngoc-thach]
+
+<!-- id: EVT-3472 -->
 *   **Mar. 9, 1945:** The Japanese military launched **Operation Meigo Sakusen** (the Coup d'État of March 9, 1945), staging simultaneous surprise attacks to disarm and overthrow the French colonial administration across Indochina, monopolizing control over Vietnam and establishing the puppet government of Tran Trong Kim. The coup triggered a profound political crisis, creating a historic opportunity for the Indochinese Communist Party to launch the nation-wide Anti-Japanese National Salvation movement, serving as the direct prelude to the August Revolution that seized state power for the people. [Source: https://ivides.vnu.edu.vn/news/ban-tin/cau-truc-quyen-luc-o-viet-nam-sau-cuoc-dao-chinh-ngay-9-3-1945-va-van-de-khoang-trong-quyen-luc-trong-cach-mang-thang-tam-138.html]
 
 <!-- id: EVT-1711 -->
@@ -6182,7 +6191,11 @@
 *   **Apr. 17, 1945:** The puppet government of Tran Trong Kim was established under Japanese protection. [Source: Vietnam National Museum of History - The Tran Trong Kim Government (April-August 1945), https://baotanglichsu.vn/vi/Articles/3097/16606/chinh-phu-tran-trong-kim-4-1945-8-1945.html]
 
 <!-- id: EVT-1717 -->
-*   **Apr. 21, 1945:** The Vanguard Youth (Thanh Nien Tien Phong) was established. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
+*   **Apr. 21, 1945:** The Vanguard Youth (Thanh Nien Tien Phong) organization was founded in Saigon under Doctor Pham Ngoc Thach as secretary of its Party cell and Chairman of its Governing Council; within its first three months it grew to more than 1,200,000 members (200,000 in Saigon alone), becoming a core force in the August 25, 1945 seizure of power in Saigon and joining the Viet Minh Front on August 22, 1945. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017; Phu Dong strength in the August 1945 General Uprising in Saigon (External Information, Central Propaganda Department), https://ttdn.vn/nghien-cuu-trao-doi/ly-luan-thuc-tien/suc-manh-phu-dong-trong-tong-khoi-nghia-o-sai-gon-thang-8-1945-39577; Doctor Pham Ngoc Thach and the oath of September 2, 1945 (Tin Tuc Newspaper - Vietnam News Agency), https://baotintuc.vn/bac-si-pham-ngoc-thach-mot-doi-giu-vung-tinh-than-cua-loi-tuyen-the-ngay-291945-post933355.html]
+
+![Edict appointing Pham Ngoc Thach, Aug. 1945](images/event_20261010_211700.webp)
+
+*Source: Imperial edict of Aug. 10, 1945 by Emperor Bao Dai appointing Doctor Pham Ngoc Thach as Southern Youth Chief, representing the Minister of Youth in Southern Vietnam / Public domain*
 
 <!-- id: EVT-1718 -->
 *   **May 1945:** In Chongqing (China), the Vietnam Nationalist Party (Viet Quoc) merged with the Dai Viet Nationalist Party and the Dai Viet Democratic Party to form a new organization (called the Nationalist Party of Vietnam in China and Dai Viet Nationalist Party in Vietnam). [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
@@ -6261,7 +6274,7 @@
 *   **Aug. 26, 1945:** Following the momentum of the August Revolution, the uprising to seize power was successfully carried out in Son La province. [Source: History of the Party Committee of Son La Province (Vol. 1), National Political Publishing House, Hanoi]
 
 <!-- id: EVT-1738 -->
-*   **Aug. 28, 1945:** The Vietnam National Liberation Committee was reorganized into the Provisional Government of the Democratic Republic of Vietnam headed by President Ho Chi Minh; comrade Vo Nguyen Giap was appointed Minister of Internal Affairs and placed in charge of military affairs. Simultaneously, 200,000 Kuomintang troops under Lu Han began entering northern Vietnam (north of the 16th parallel) ostensibly to disarm Japanese forces. [Source: Vietnam National Museum of History - The National Liberation Committee Reorganized as the Provisional Government (Aug. 28, 1945), https://baotanglichsu.vn/vi/Articles/3097/16633/uy-ban-dan-toc-giai-phong-cai-to-thanh-chinh-phu-lam-thoi-28-8-1945.html]
+*   **Aug. 28, 1945:** The Vietnam National Liberation Committee was reorganized into the Provisional Government of the Democratic Republic of Vietnam headed by President Ho Chi Minh; comrade Vo Nguyen Giap was appointed Minister of Internal Affairs and placed in charge of military affairs, while Doctor Pham Ngoc Thach was appointed as the first Minister of Health and concurrently a member of the Southern People Committee. Simultaneously, 200,000 Kuomintang troops under Lu Han began entering northern Vietnam (north of the 16th parallel) ostensibly to disarm Japanese forces. [Source: Vietnam National Museum of History - The National Liberation Committee Reorganized as the Provisional Government (Aug. 28, 1945), https://baotanglichsu.vn/vi/Articles/3097/16633/uy-ban-dan-toc-giai-phong-cai-to-thanh-chinh-phu-lam-thoi-28-8-1945.html; Doctor Pham Ngoc Thach - former Minister of Health (Pham Ngoc Thach University of Medicine), https://www.pnt.edu.vn/vi/gioi-thieu/bac-si-pham-ngoc-thach; Doctor Pham Ngoc Thach - the first Minister of Health, a doctor for the people (Vietnam News Agency), https://nvsk.vnanet.vn/print/bac-si-pham-ngoc-thach-bo-truong-y-te-dau-tien-nguoi-thay-thuoc-vi-nhan-dan-142101.vna]
 
 ![Ho Chi Minh and Vo Nguyen Giap](images/event_20261002_163120_1.webp)
 
@@ -6942,6 +6955,9 @@
 * **1950:** Martyr Lý Văn Mưu (Chiến sĩ bộ binh thuộc Đại đội 675, Tiểu đoàn 251, Trung đoàn 174, Đại đoàn 316. Hy sinh khi tấn công đồn Đông Khê tháng 10 năm 1950) heroically sacrificed his/her life while carrying out combat missions defending the Fatherland. [Source: Department of Propaganda and Training, Heroes of the People's Armed Forces in the Resistance against French Colonialism, People's Army Publishing House, Hanoi, 1996]
 
 <!-- id: EVT-1923 -->
+*   **1950:** Pham Ngoc Thach was appointed to the Standing Committee of the Regional Party Committee and as Chairman of the Resistance and Administrative Committee of the Saigon - Cho Lon Special Zone, leading the resistance administration in the largest urban center of the South during the anti-French war. [Source: Doctor Pham Ngoc Thach - the first Minister of Health, a doctor for the people (Vietnam News Agency), https://nvsk.vnanet.vn/print/bac-si-pham-ngoc-thach-bo-truong-y-te-dau-tien-nguoi-thay-thuoc-vi-nhan-dan-142101.vna]
+
+<!-- id: EVT-3473 -->
 *   **Jan. 9, 1950:** Thousands of students demonstrated in Saigon demanding the release of arrested peers. The protest was violently suppressed, and student Tran Van On was shot dead. His funeral on January 12 drew hundreds of thousands of people, turning into a massive show of anti-colonial resistance. [Source: Vietnam National Museum of History - Students Protest in Saigon (January 9, 1950), https://baotanglichsu.vn/vi/Articles/3097/16673/hoc-sinh-sinh-vien-bieu-tinh-tai-sai-gon-09-01-1950.html]
 
 ![Historical image](images/event_20261008_143349_1.webp)
@@ -7702,6 +7718,9 @@
 *   **Oct. 1956:** Under the pretext of countering claims by Philippine citizen Tomas Cloma, the Republic of China (Taiwan) dispatched naval task forces and marines to illegally reoccupy Itu Aba Island (Ba Binh - the largest natural island in Vietnam's Spratly Islands, after their temporary withdrawal in 1950), maintaining an unlawful military garrison there ever since. [Source: Ho Chi Minh Complete Works, Vol. 10 (1955 - 1957), National Political Publishing House, Hanoi, 2011, pp. 473-485]
 
 <!-- id: EVT-2125 -->
+*   **Oct. 1956:** A congress at the Hanoi Grand Theatre unified national youth organizations into the Vietnam Youth Federation; Doctor Pham Ngoc Thach was elected as its first Chairman (term 1956 - 1961). [Source: Doctor Pham Ngoc Thach - great physician and youth leader (Ho Chi Minh City Youth Union), http://thanhdoan.hochiminhcity.gov.vn/ThanhDoan/webtd/News/8102]
+
+<!-- id: EVT-3474 -->
 *   **Oct. 22, 1956:** Ngo Dinh Diem issued Ordinance No. 57 on land reform, taking land back from peasants to restore the landlord class. [Source: Central Party Secretariat, Comrade Le Duan - An Outstanding Leader of Our Party and People, National Political Publishing House, Hanoi, 2007]
 
 <!-- id: EVT-2126 -->
@@ -7743,6 +7762,9 @@
 *   **Mid-1957:** The Central Committee transferred Le Duan to Hanoi to work alongside President Ho Chi Minh in preparing for the 3rd Party Congress and making strategic decisions for the revolution nationwide. [Source: Nhan Dan Newspaper, "General Secretary Le Duan – Eminent Leader of the Party and Nation"; Central Committee of the Communist Party of Vietnam, Complete Party Documents, Vol. 18, National Political Publishing House, Hanoi, 2002]
 
 <!-- id: EVT-2136 -->
+*   **Jun. 24, 1957:** The Government signed the decision establishing the Central Anti-Tuberculosis Institute (predecessor of today's National Lung Hospital); Doctor Pham Ngoc Thach concurrently served as its first Director, laying the foundation for tuberculosis control and the development of modern Vietnamese medicine. [Source: 116th anniversary of the birth of Doctor Pham Ngoc Thach (National Lung Hospital), https://benhvienphoitrunguong.vn/tin-tuc-su-kien/tin-trang-chu/ky-niem-116-nam-ngay-sinh-bs-pham-ngoc-thach-soi-chi-do-trong-tu-tuong-va-hanh-dong]
+
+<!-- id: EVT-3475 -->
 *   **July 8, 1957:** President Ho Chi Minh led a Party and Government delegation on an official friendship visit to the Democratic People's Republic of Korea, warmly welcomed by Premier Kim Il Sung at Sunan Airport (Pyongyang). The visit opened a new stage for Vietnam - Korea friendship. [Source: Ho Chi Minh Museum - Ho Chi Minh A Chronological Biography, National Political Publishing House; Nhan Dan Newspaper]
 
 ![Historical Image](images/event_20260924_103225.webp)
@@ -7782,6 +7804,9 @@
 *   **May 5, 1958:** A "Fatherland Acknowledges the Merit" (Bang To quoc ghi cong) certificate was issued for the martyr Nguyen Van Luom, officially recognizing his sacrifice for the nation. [Source: Military History Institute of Vietnam, History of the Resistance War against the US (1954 - 1975), Vol. 1, National Political Publishing House, Hanoi, 2013]
 
 <!-- id: EVT-2144 -->
+*   **Jul. 1958:** At the second National Congress of Heroes and Emulation Fighters of workers, peasants and soldiers, Doctor Pham Ngoc Thach was proclaimed a Hero of Labor, becoming the first Hero of Labor in the health sector. [Source: Doctor Pham Ngoc Thach - the first Minister of Health, a doctor for the people (Vietnam News Agency), https://nvsk.vnanet.vn/print/bac-si-pham-ngoc-thach-bo-truong-y-te-dau-tien-nguoi-thay-thuoc-vi-nhan-dan-142101.vna]
+
+<!-- id: EVT-3476 -->
 *   **Jul. 19, 1958:** Tran Thi Quang Man executed a knife attack targeting Major Lam Quang Phong, Chief of An Phuoc District (Rach Gia). The attack severely wounded the enemy officer, while she was captured and sentenced to hard labor. [Source: General Political Department, Heroes of the People's Armed Forces (Vol. 2), People's Army Publishing House, Hanoi; Tien Giang Newspaper]
 
 <!-- id: EVT-2145 -->
@@ -7801,6 +7826,9 @@
 *   **Nov. 14, 1958:** President Ho Chi Minh, leaders of the Party and State, and numerous international delegations visited and encouraged revolutionary fighter Trần Thị Lý at the Viet - Soviet Friendship Hospital; her indomitable spirit and miraculous recovery inspired poet Tố Hữu to compose the famous poem *"Người con gái Việt Nam"* (The Vietnamese Girl, December 1958), portraying an eternal symbol of the courage and steadfastness of Vietnamese women during the anti-American resistance. [Source: Party Central Committee, Party Documents, Vol. 20, National Political Publishing House, Hanoi, 2002]
 
 <!-- id: EVT-2149 -->
+*   **Dec. 1958:** Pham Ngoc Thach was appointed Minister of Health (second tenure, lasting until 1968), concurrently serving as Secretary of the Ministry Party Caucus, Head of the Medical Board of the State Committee for Science and Technology, and Director of the Central Anti-Tuberculosis Institute; he formulated five guiding principles for building a people health system with prevention as the central motto. [Source: Doctor Pham Ngoc Thach - the first Minister of Health, a doctor for the people (Vietnam News Agency), https://nvsk.vnanet.vn/print/bac-si-pham-ngoc-thach-bo-truong-y-te-dau-tien-nguoi-thay-thuoc-vi-nhan-dan-142101.vna]
+
+<!-- id: EVT-3477 -->
 *   **Dec. 1, 1958:** The Phu Loi massacre occurred where the US-Diem regime poisoned over 1,000 political prisoners. This event sparked widespread outrage and became a catalyst for the revolutionary movement in the South. [Source: Vietnam National Museum of History - The Phu Loi Massacre (December 1, 1958), https://baotanglichsu.vn/vi/Articles/3097/16700/vu-tham-sat-phu-loi-01-12-1958.html]
 
 <!-- id: EVT-2150 -->
@@ -8923,6 +8951,9 @@
 *   **Aug. 1968:** The Central Office for South Vietnam decided to re-establish the Saigon - Gia Dinh City Party Committee (code name Binh Gia). The City Party Committee's base was moved to Ba Thu (border area). [Source: Walter Cronkite, Report from Vietnam: Who, What, When, Where, Why?, CBS News Special Report, Feb. 27, 1968]
 
 <!-- id: EVT-2450 -->
+*   **Aug. 1968:** With the approval of President Ho Chi Minh, the Party Central Committee and the Government, Minister of Health Pham Ngoc Thach traveled in disguise to the southern battlefield in late August 1968; as the first sitting minister to serve in the South, he directly surveyed conditions and organized emergency care for wounded soldiers as well as health protection for troops and civilians in the liberated zones. [Source: Doctor Pham Ngoc Thach - former Minister of Health (Pham Ngoc Thach University of Medicine), https://www.pnt.edu.vn/vi/gioi-thieu/bac-si-pham-ngoc-thach]
+
+<!-- id: EVT-3478 -->
 *   **Aug. 2, 1968:** At the Saigon regime's Field Military Court of Tactical Zone 3, Saigon commando Vo Thi Thang was sentenced to 20 years of hard labor. Upon hearing the verdict, she indomitably smiled and boldly stated: *"Will your government survive 20 years to imprison me?"*. Captured by a Japanese photojournalist, the photograph titled *"The Smile of Victory"* became an immortal symbol of the unyielding spirit of the Vietnamese people. [Source: Tien Phong Newspaper - Farewell to Victory Smile Vo Thi Thang, https://tienphong.vn/vinh-biet-nu-cuoi-chien-thang-vo-thi-thang-post715222.tpo]
 
 <!-- id: EVT-2451 -->
@@ -8938,6 +8969,9 @@
 *   **Nov. 1, 1968:** The US was forced to completely and unconditionally end the bombing and strafing of the North. The North defeated the first war of destruction, shooting down 3,234 US aircraft. [Source: Ministry of Foreign Affairs, History of Vietnamese Diplomacy (1945 - 2000), National Political Publishing House, Hanoi, 2002; Nhan Dan Newspaper]
 
 <!-- id: EVT-2455 -->
+*   **Nov. 7, 1968:** Minister of Health Pham Ngoc Thach passed away in the Eastern Cochinchina resistance base (Tay Ninh, near the Vietnam - Cambodia border on the Vam Co Dong river) following a bout of malignant malaria compounded by biliary peritonitis, at the age of 59, only hours after assigning tasks for the following day; the Government held a solemn memorial service in Hanoi at which Prime Minister Pham Van Dong delivered the eulogy. [Source: Doctor Pham Ngoc Thach - the first Minister of Health, a doctor for the people (Vietnam News Agency), https://nvsk.vnanet.vn/print/bac-si-pham-ngoc-thach-bo-truong-y-te-dau-tien-nguoi-thay-thuoc-vi-nhan-dan-142101.vna; Doctor Pham Ngoc Thach - former Minister of Health (Pham Ngoc Thach University of Medicine), https://www.pnt.edu.vn/vi/gioi-thieu/bac-si-pham-ngoc-thach]
+
+<!-- id: EVT-3479 -->
 *   **Nov. 27, 1968:** During a devastating B-52 carpet bombing by the US Air Force in Tan Chau, Chau Doc (now An Giang), Ut Tich and her third daughter, Lam Thi Tho, were severely injured and subsequently sacrificed their lives. [Source: Nguyen Thi, The Mother with a Gun, Literature Publishing House, Hanoi, 1965; Military History Institute of Vietnam, Heroes of the People's Armed Forces]
 
 <!-- id: EVT-2456 -->
@@ -10657,6 +10691,9 @@
 * **1996:** Hero of the People's Armed Forces Tô Quyền (Đại tá Công an Nhân dân Việt Nam có công với Cách mạng) passed away. [Source: Hai Phong Police, History of Hai Phong People's Police (1945 - 2005), Public Security Publishing House, 2005; People's Public Security Newspaper]
 
 <!-- id: EVT-2945 -->
+*   **1996:** The State posthumously awarded the Ho Chi Minh Prize (first round) in Medical - Pharmaceutical Sciences to Doctor Pham Ngoc Thach for his body of work comprising 34 scientific studies on tuberculosis control in Vietnam and the five principles of the people health sector together with the building of grassroots and rural health networks. [Source: Doctor Pham Ngoc Thach - the first Minister of Health, a doctor for the people (Vietnam News Agency), https://nvsk.vnanet.vn/print/bac-si-pham-ngoc-thach-bo-truong-y-te-dau-tien-nguoi-thay-thuoc-vi-nhan-dan-142101.vna]
+
+<!-- id: EVT-3480 -->
 *   **Jan. 29, 1996:** The Party and State posthumously awarded Thiều Văn Chỏi the title Hero of the People's Armed Forces for his outstanding military exploits. [Source: Presidential Order No. 472-KT/CTN dated Jan. 29, 1996 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2946 -->
