@@ -1049,6 +1049,10 @@
 <!-- id: EVT-0263 -->
 *   **Jan. 18 - Feb. 28, 1077:** Battle of Nhu Nguyet River. The Song army (100,000 combat troops, 200,000 support) commanded by Guo Kui and Zhao Xie was halted at the Nhu Nguyet river defense line by Dai Viet forces. After Song attempts to cross failed, Dai Viet launched counter-attacks. Princes Hoang Chan and Chieu Van attacked Guo Kui's camp and died in battle, while Ly Thuong Kiet successfully ambushed Zhao Xie's camp. Song forces suffered 76,600 casualties and retreated, marking a decisive Dai Viet victory. [Source: 937th Anniversary of the Second Anti-Song Resistance Victory (National Museum of History), https://baotanglichsu.vn/vi/Articles/3097/16199/ky-niem-937-nam-cuoc-khang-chien-chong-quan-tong-lan-thu-hai-thang-loi-1077-2014.html]
 
+![Map of the Nhu Nguyet battle](images/event_20261014_194135.webp)
+
+*Source: Map of the Nhu Nguyet River battle, 1077: Ly Thuong Kiet Cau River defense line blocking the Song army under Guo Kui and Zhao Xie / Luu Ly / Wikimedia Commons (CC BY 3.0)*
+
 <!-- id: EVT-0264 -->
 *   **Sep. 1077:** Construction of the Nhu Nguyet River dike spanning 67,380 paces, a major state-led water management project. [Source: Red River Dike Saga - Part 1 (Tuoi Tre), https://tuoitre.vn/ky-tich-de-song-hong---ky-1-doi-do-va-dap-de-402349.htm]
 
@@ -1394,6 +1398,10 @@
 
 <!-- id: EVT-0372 -->
 *   **Oct. 1282:** King Tran Nhan Tong convened the **Binh Than Conference** to discuss strategies against the Yuan invasion. Hoai Van Hau **Tran Quoc Toan**, being too young (15 years old) to participate, crushed an orange in his hand out of frustration. He later mobilized over 1,000 domestic servants and relatives, raising a flag with six golden words: "**Pha cuong dich, bao hoang an**" (Destroy the strong enemy, repay the royal favor) to join the resistance. [Source: Tran Quoc Toan Orange (Thanh Nien), https://thanhnien.vn/qua-cam-tran-quoc-toan-18576375.htm]
+
+![Relief of Tran Quoc Toan](images/event_20261014_194134.webp)
+
+*Source: Relief of Hoai Van Hau Tran Quoc Toan at the Ho Chi Minh City Museum of History / Phuong Huy / Wikimedia Commons (CC BY-SA 4.0)*
 
 <!-- id: EVT-0373 -->
 *   **Dec. 1282:** Yuan forces under the command of Sogetu attacked Champa, initiating the plan to invade Dai Viet from the south. [Source: The Battle That Stunned the World (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/12006/tran-djanh-kinh-djong-ca-the-gioi-cua-nguoi-viet.html]
@@ -2448,6 +2456,10 @@
 <!-- id: EVT-0681 -->
 *   **Jun. 1471:** Le Thanh Tong personally led a campaign against Champa, capturing Do Ban Citadel and King Tra Toan. The 13th Thua Tuyen province, Quang Nam, was added. [Source: Quang Nam 1471 (National Museum of History), https://baotanglichsu.vn/vi/Articles/3101/73267/xu-quang-nam-xua-su-kien-lon-nam-1471.html]
 
+![Banh It towers](images/event_20261014_194135_1.webp)
+
+*Source: Banh It tower cluster (Tuy Phuoc, Binh Dinh), remaining Cham towers from the Vijaya (Do Ban) capital era / Dongson*vmvn / Wikimedia Commons (CC BY-SA 3.0)*
+
 <!-- id: EVT-0682 -->
 *   **1479:** The historical chronicle *Dai Viet sử ký toàn thư* (Complete History of Dai Viet) was first completed by Ngo Si Lien. [Source: Ngo Si Lien Compiles the Annals (VnExpress), https://vnexpress.net/vua-nao-nha-hau-le-tri-vi-lau-nhat-3577429-p11.html]
 
@@ -3216,6 +3228,10 @@
 
 <!-- id: EVT-0902 -->
 *   **Mid-Autumn 1773:** Nguyen Nhac held a flag-raising ceremony at An Khe Pass to officially launch the military campaign. [Source: Tay Son Heritage Spirit (Gia Lai News), https://baogialai.com.vn/noi-hai-mien-di-san-nhan-hao-khi-tay-son-post565438.html]
+
+![Statue of Nguyen Nhac](images/event_20261014_194135_2.webp)
+
+*Source: Statue of Nguyen Nhac at the Quang Trung Museum (Binh Dinh), the leader who held the flag-sacrifice ceremony at An Khe pass / Phan Minh Chau / Wikimedia Commons (CC BY-SA 3.0)*
 
 <!-- id: EVT-0903 -->
 *   **Mid-Sep. 1773:** The Tay Son army captured Quy Nhon Citadel from Governor Nguyen Khac Tuyen. This event involves the famous stratagem where Nguyen Nhac allegedly hid himself in a cage to enter the citadel as a prisoner, then broke out to open the gates for his troops (though some historians debate the specifics, it remains a popular account of the victory). [Source: Tay Son King and the Tiger Den (Dan Viet), https://danviet.vn/vua-tay-son-tu-nem-minh-vao-hang-cop-vi-nghiep-lon-7777704889-d461609.html]

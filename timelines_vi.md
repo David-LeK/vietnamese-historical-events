@@ -1049,6 +1049,10 @@
 <!-- id: EVT-0263 -->
 *   **18/01 - 28/02/1077:** Trận sông Như Nguyệt. Quân Tống (10 vạn quân chiến đấu, 20 vạn phu) do Quách Quỳ, Triệu Tiết chỉ huy bị chặn đứng bởi phòng tuyến của Đại Việt (6-10 vạn quân) do Lý Thường Kiệt chỉ huy. Sau hai đợt tiến công vượt sông thất bại, quân Đại Việt phản công. Hoằng Chân và Chiêu Văn tập kích doanh trại Quách Quỳ và hy sinh; Lý Thường Kiệt tập kích tiêu diệt doanh trại Triệu Tiết. Quân Tống thiệt hại 76.600 lính và 8 vạn phu, buộc phải giảng hòa và rút quân. [Nguồn: Kỷ niệm 937 năm kháng chiến chống quân Tống lần thứ hai thắng lợi (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3097/16199/ky-niem-937-nam-cuoc-khang-chien-chong-quan-tong-lan-thu-hai-thang-loi-1077-2014.html]
 
+![Bản đồ trận Như Nguyệt](images/event_20261014_194135.webp)
+
+*Nguồn: Bản đồ trận sông Như Nguyệt năm 1077: phòng tuyến sông Cầu của Lý Thường Kiệt chặn quân Tống do Quách Quỳ, Triệu Tiết chỉ huy / Lưu Ly / Wikimedia Commons (CC BY 3.0)*
+
 <!-- id: EVT-0264 -->
 *   **09/1077:** Đắp đê sông Như Nguyệt dài 67.380 bộ, một công trình trị thủy quy mô lớn của nhà nước. [Nguồn: Kỳ tích đê sông Hồng - Kỳ 1: Dời đô và đắp đê (Tuổi Trẻ), https://tuoitre.vn/ky-tich-de-song-hong---ky-1-doi-do-va-dap-de-402349.htm]
 
@@ -1394,6 +1398,10 @@
 
 <!-- id: EVT-0372 -->
 *   **10/1282:** Vua Trần Nhân Tông mở **Hội nghị Bình Than** để bàn kế sách chống quân Nguyên. Hoài Văn hầu **Trần Quốc Toản** vì còn nhỏ tuổi (15 tuổi) không được dự bàn, đã bóp nát quả cam trong tay vì phẫn chí. Sau đó, ông về huy động gia nô và thân thuộc hơn nghìn người, sắm vũ khí, đóng chiến thuyền, thêu lên cờ sáu chữ vàng: "**Phá cường địch, báo hoàng ân**" (Phá giặc mạnh, báo ơn vua) để tham gia kháng chiến. [Nguồn: Quả cam Trần Quốc Toản (Thanh Niên), https://thanhnien.vn/qua-cam-tran-quoc-toan-18576375.htm]
+
+![Chạm nổi Trần Quốc Toản](images/event_20261014_194134.webp)
+
+*Nguồn: Chạm nổi Hoài Văn hầu Trần Quốc Toản tại Bảo tàng Lịch sử Thành phố Hồ Chí Minh / Phương Huy / Wikimedia Commons (CC BY-SA 4.0)*
 
 <!-- id: EVT-0373 -->
 *   **12/1282:** Quân Nguyên do Toa Đô chỉ huy tấn công Champa, mở đầu cho kế hoạch xâm lược Đại Việt từ phía Nam. [Nguồn: Trận đánh kinh động cả thế giới của người Việt (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3096/12006/tran-djanh-kinh-djong-ca-the-gioi-cua-nguoi-viet.html]
@@ -2448,6 +2456,10 @@
 <!-- id: EVT-0681 -->
 *   **06/1471:** Lê Thánh Tông thân chinh đánh Champa, hạ thành Đồ Bàn, bắt vua Trà Toàn. Đặt thêm đạo Thừa tuyên thứ 13 là Quảng Nam. [Nguồn: Xứ Quảng Nam 1471 (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3101/73267/xu-quang-nam-xua-su-kien-lon-nam-1471.html]
 
+![Tháp Bánh Ít](images/event_20261014_194135_1.webp)
+
+*Nguồn: Cụm tháp Bánh Ít (Tuy Phước, Bình Định), di tích tháp Chăm còn lại từ thời kinh đô Vijaya (Đồ Bàn) / Dongson*vmvn / Wikimedia Commons (CC BY-SA 3.0)*
+
 <!-- id: EVT-0682 -->
 *   **1479:** Bộ sách *Đại Việt sử ký toàn thư* lần đầu được hoàn thành bởi Ngô Sĩ Liên. [Nguồn: Ngô Sĩ Liên biên soạn Toàn thư (VnExpress), https://vnexpress.net/vua-nao-nha-hau-le-tri-vi-lau-nhat-3577429-p11.html]
 
@@ -3216,6 +3228,10 @@
 
 <!-- id: EVT-0902 -->
 *   **Rằm tháng 8/1773:** Nguyễn Nhạc làm lễ tế cờ xuất quân tại đèo An Khê. [Nguồn: Nơi hội miền di sản hào khí Tây Sơn (Báo Gia Lai), https://baogialai.com.vn/noi-hai-mien-di-san-nhan-hao-khi-tay-son-post565438.html]
+
+![Tượng Nguyễn Nhạc](images/event_20261014_194135_2.webp)
+
+*Nguồn: Tượng Nguyễn Nhạc tại Bảo tàng Quang Trung (Bình Định), vị thủ lĩnh làm lễ tế cờ xuất quân tại đèo An Khê / Phan Minh Châu / Wikimedia Commons (CC BY-SA 3.0)*
 
 <!-- id: EVT-0903 -->
 *   **Trung tuần tháng 9/1773:** Nghĩa quân Tây Sơn hạ thành Quy Nhơn, Tuần vũ Nguyễn Khắc Tuyên bỏ chạy. Sự kiện này gắn liền với giai thoại về mưu kế của Nguyễn Nhạc, người đã tự ngồi vào cũi giả làm tù nhân để lọt vào thành rồi phá cũi mở cổng cho quân tiến vào. [Nguồn: Vua Tây Sơn ném mình vào hang cọp (Dân Việt), https://danviet.vn/vua-tay-son-tu-nem-minh-vao-hang-cop-vi-nghiep-lon-7777704889-d461609.html]
