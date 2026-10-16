@@ -6062,6 +6062,9 @@
 *   **Aug. 28, 1941:** French colonialists executed many prominent and steadfast revolutionary Party leaders in Hoc Mon (Gia Dinh), including comrades Ha Huy Tap and Nguyen Van Cu (former General Secretaries of the Party), Vo Van Tan and Phan Dang Luu (members of the Party Central Standing Committee), Nguyen Thi Minh Khai (Secretary of the Saigon - Cho Lon Municipal Party Committee), and Nguyen Huu Tien (creator of the national red flag with a yellow star). At the execution grounds of Nga Ba Giong and Gieng Nuoc Hospital, the communist fighters refused blindfolds and shouted revolutionary slogans until their final moments. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1679 -->
+*   **Apr. 26, 1942:** At Con Dao prison, Hero of the People's Armed Forces Vu Van Hieu (first Secretary of the Quang Ninh mining Special Zone) passes away after giving the shirt he was wearing to fellow inmate Le Duan with a message of serving the Party to his last breath. The act is later honored in poet To Huu's verse “Dying, still sharing shirts with each other, saving each morsel for those who come after” and commemorated by the “Shirt Offering” statue at Hang Duong Cemetery. [Source: 83rd Memorial of the Sacrifice of Hero Vu Van Hieu (Apr. 26, 1942 – Apr. 26, 2025) (Con Dao National Relics Preservation Center), https://trungtambaotonditichquocgiacondao.vn/le-tuong-niem-lan-thu-83-ngay-hy-sinh-ahllvtnd-vu-van-hieu-26-4-1942-26-4-2025/]
+
+<!-- id: EVT-1687 -->
 *   **Mid-1942:** Luu Tan Phat left his teaching career due to enemy surveillance and returned to My Tho to work as a watch repairer, using it as a cover for revolutionary activities. [Source: History of the Party Committee of Tien Giang Province (Vol. 1), National Political Publishing House, Hanoi]
 
 <!-- id: EVT-1680 -->
@@ -6091,9 +6094,6 @@
 *   **1943:** Nguyen Tuat was transferred to the Nha Trang Post Office, bringing his family, including the 11-year-old Nguyen Van Luom, with him. A bilingual (French-Vietnamese) identity card for Luom was issued this year to allow him to take the Franco-Vietnamese degree exams in Annam. Luom continued his studies in Nha Trang for two years. [Source: Dictionary of Literature (New Edition), The Gioi Publishers, Hanoi, 2004]
 
 <!-- id: EVT-1686 -->
-* **1943:** Hero of the People's Armed Forces Vũ Văn Hiếu (Bí thư đầu tiên của Đặc khu mỏ Quảng Ninh) passed away. [Source: Comrade Vu Van Hieu – Exemplary Staunch Communist (Nhan Dan Newspaper), https://nhandan.vn/dong-chi-vu-van-hieu-tam-guong-nguoi-chien-si-cong-san-kien-trung-post641230.html]
-
-<!-- id: EVT-1687 -->
 *   **Jan. 1, 1943:** The Dai Viet Populist Revolutionary Party was founded. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1688 -->

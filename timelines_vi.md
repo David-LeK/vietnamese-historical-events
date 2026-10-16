@@ -6062,6 +6062,9 @@
 *   **28/08/1941:** Thực dân Pháp xử bắn nhiều nhà lãnh đạo cách mạng tiền bối kiên trung của Đảng tại Hóc Môn (Gia Định), bao gồm các đồng chí: Hà Huy Tập, Nguyễn Văn Cừ (nguyên Tổng Bí thư Đảng), Võ Văn Tần, Phan Đăng Lưu (Ủy viên Ban Thường vụ Trung ương Đảng), Nguyễn Thị Minh Khai (Bí thư Thành ủy Sài Gòn - Chợ Lớn) và Nguyễn Hữu Tiến (tác giả lá cờ đỏ sao vàng). Trước pháp trường tại Ngã Ba Giồng và Nhà thương Giếng Nước, các chiến sĩ cộng sản kiên quyết từ chối bịt mắt và hô vang các khẩu hiệu cách mạng đến giây phút cuối cùng. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1679 -->
+*   **26/04/1942:** Tại nhà tù Côn Đảo, Anh hùng Lực lượng vũ trang nhân dân Vũ Văn Hiếu (Bí thư đầu tiên của Đặc khu mỏ Quảng Ninh) trút hơi thở cuối cùng sau khi cởi chiếc áo đang mặc trao cho đồng chí Lê Duẩn cùng lời nhắn cống hiến đến phút cuối cho Đảng. Hành động này sau đó được nhà thơ Tố Hữu ngợi ca qua câu thơ “Chết còn trút áo cho nhau, miếng cơm dành để người sau ấm lòng” và được tạc thành tượng đài “Trao áo” tại Nghĩa trang Hàng Dương. [Nguồn: Lễ tưởng niệm lần thứ 83 ngày hy sinh AHLLVTND Vũ Văn Hiếu (26/4/1942 – 26/4/2025) (Trung tâm Bảo tồn Di tích Quốc gia Côn Đảo), https://trungtambaotonditichquocgiacondao.vn/le-tuong-niem-lan-thu-83-ngay-hy-sinh-ahllvtnd-vu-van-hieu-26-4-1942-26-4-2025/]
+
+<!-- id: EVT-1687 -->
 *   **Giữa năm 1942:** Bị địch theo dõi, Lưu Tấn Phát nghỉ dạy học, trở về Mỹ Tho làm nghề sửa đồng hồ để làm vỏ bọc hoạt động cách mạng. [Nguồn: Lịch sử Đảng bộ tỉnh Tiền Giang (Tập 1), NXB Chính trị Quốc gia, Hà Nội]
 
 <!-- id: EVT-1680 -->
@@ -6091,9 +6094,6 @@
 *   **1943:** Ông Nguyễn Tuất chuyển vào làm việc tại Bưu điện Nha Trang, đưa gia đình và cậu con trai 11 tuổi Nguyễn Văn Lượm đi theo. Lượm tiếp tục học tại đây 2 năm. Giấy căn cước bằng song ngữ Pháp - Việt của Lượm được cấp trong năm này để ứng thí các bằng cấp Pháp - Việt ở Trung Kỳ. [Nguồn: Từ điển văn học (bộ mới), NXB Thế giới, Hà Nội, 2004]
 
 <!-- id: EVT-1686 -->
-* **1943:** Anh hùng Lực lượng vũ trang nhân dân Vũ Văn Hiếu (Bí thư đầu tiên của Đặc khu mỏ Quảng Ninh) từ trần. [Nguồn: Đồng chí Vũ Văn Hiếu – Tấm gương người chiến sĩ cộng sản kiên trung (Báo Nhân Dân), https://nhandan.vn/dong-chi-vu-van-hieu-tam-guong-nguoi-chien-si-cong-san-kien-trung-post641230.html]
-
-<!-- id: EVT-1687 -->
 *   **01/01/1943:** Đại Việt Duy dân Cách mệnh Đảng được thành lập. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1688 -->
