@@ -5,20 +5,20 @@ flowchart TD
     %% =========================================================================
     classDef ancient fill:#fef3c7,stroke:#d97706,stroke-width:2px,color:#000;
     classDef bth fill:#fee2e2,stroke:#ef4444,stroke-width:2px,color:#000;
-    classDef monarch fill:#fffbeb,stroke:#b45309,stroke-width:2px,color:#000;
+    classDef monarch fill:#fde68a,stroke:#b45309,stroke-width:2px,color:#000;
     classDef victory fill:#dcfce7,stroke:#16a34a,stroke-width:2px,font-weight:bold,color:#000;
     classDef war fill:#fee2e2,stroke:#dc2626,stroke-width:2px,color:#000;
-    classDef crisis fill:#f1f5f9,stroke:#64748b,stroke-width:2px,color:#000;
-    classDef mac fill:#f0fdf4,stroke:#16a34a,stroke-width:2px,color:#000;
-    classDef le_th fill:#fdf4ff,stroke:#c026d3,stroke-width:2px,color:#000;
-    classDef trinh fill:#f1f5f9,stroke:#475569,stroke-width:2px,color:#000;
-    classDef nguyen fill:#fffbeb,stroke:#b45309,stroke-width:2px,color:#000;
+    classDef crisis fill:#e2e8f0,stroke:#64748b,stroke-width:2px,color:#000;
+    classDef mac fill:#bbf7d0,stroke:#16a34a,stroke-width:2px,color:#000;
+    classDef le_th fill:#e9d5ff,stroke:#c026d3,stroke-width:2px,color:#000;
+    classDef trinh fill:#e2e8f0,stroke:#475569,stroke-width:2px,color:#000;
+    classDef nguyen fill:#fde68a,stroke:#b45309,stroke-width:2px,color:#000;
     classDef ts fill:#fef2f2,stroke:#b91c1c,stroke-width:2px,color:#000;
     classDef qt fill:#fee2e2,stroke:#991b1b,stroke-width:3px,font-weight:bold,color:#000;
     classDef campaign fill:#e0f2fe,stroke:#0284c7,stroke-width:2px,color:#000;
-    classDef treaty fill:#f8fafc,stroke:#475569,stroke-width:2px,color:#000;
+    classDef treaty fill:#cffafe,stroke:#0e7490,stroke-width:2px,color:#000;
     classDef hero fill:#fef08a,stroke:#ca8a04,stroke-width:2px,color:#000;
-    classDef modern fill:#f0fdf4,stroke:#059669,stroke-width:2px,font-weight:bold,color:#000;
+    classDef modern fill:#bbf7d0,stroke:#059669,stroke-width:2px,font-weight:bold,color:#000;
 
     %% =========================================================================
     %% 1. THỜI KỲ DỰNG NƯỚC: HỒNG BÀNG, VĂN LANG & ÂU LẠC (2879 TCN - 179 TCN)
@@ -203,7 +203,7 @@ flowchart TD
             --> MAC_2["MẠC HÀNG GIẢ NHÀ MINH (1540):<br>Nhà Minh đe dọa xâm lược; Mạc Đăng Dung lên ải Nam Quan chịu trói hàng giả, dâng biểu xưng thần và cắt đất biên giới nhằm tránh họa chiến tranh hủy diệt cho đất nước"]:::mac
             --> MAC_3["THỜI KỲ THỊNH TRỊ NHÀ MẠC TẠI THĂNG LONG:<br>Mạc Thái Tông (Đăng Doanh), Mạc Phúc Hải, Mạc Phúc Nguyên.<br>Trọng dụng hiền tài, khoa cử nở rộ (Trạng Trình Nguyễn Bỉnh Khiêm, Giáp Hải)"]:::mac
             --> MAC_4["MẠC MẬU HỢP BỊ DIỆT TẠI THĂNG LONG (1592):<br>Nhà Mạc suy đồi; quân Nam Triều do Trịnh Tùng chỉ huy đánh chiếm Thăng Long.<br>Mạc Mậu Hợp bị bắt và xử tử"]:::mac
-            --> MAC_5["TẠI SAO NHÀ MẠC CHẠY LÊN CAO BẰNG? (1592 - 1677):<br>Tàn quân họ Mạc (Mạc Kính Chỉ, Kính Cung, Kính Khoan, Kính Vũ) rút lên đất Cao Bằng hiểm trở lập phòng tuyến Bản Phủ.<br>Họ Mạc thần phục và triều cống nhà Minh, rồi sau đó là nhà Thanh sơ kỳ.<br>Minh và Thanh dùng nhà Mạc làm 'VÙNG ĐỆM BIÊN GIỚI' để kiềm chế chính quyền Lê - Trịnh, ép Trịnh không được đánh Cao Bằng"]:::mac
+            -->|"1592: Mạc rút lên Cao Bằng núp bóng nhà Minh/Thanh bảo trợ để làm vùng đệm kiềm chế Trịnh"| MAC_5["TẠI SAO NHÀ MẠC CHẠY LÊN CAO BẰNG? (1592 - 1677):<br>Tàn quân họ Mạc (Mạc Kính Chỉ, Kính Cung, Kính Khoan, Kính Vũ) rút lên đất Cao Bằng hiểm trở lập phòng tuyến Bản Phủ.<br>Họ Mạc thần phục và triều cống nhà Minh, rồi sau đó là nhà Thanh sơ kỳ.<br>Minh và Thanh dùng nhà Mạc làm 'VÙNG ĐỆM BIÊN GIỚI' để kiềm chế chính quyền Lê - Trịnh, ép Trịnh không được đánh Cao Bằng"]:::mac
             --> MAC_6["NHÀ MẠC BỊ TIÊU DIỆT HOÀN TOÀN (1677):<br>Nhân lúc nhà Thanh bận đối phó Loạn Tam Phiên (Ngô Tam Quế) mất khả năng bảo trợ cho Mạc, Chúa Trịnh Tạc sai Đinh Văn Tả tiến đánh giải phóng Cao Bằng, dẹp sạch Mạc Kính Vũ sau 150 năm tồn tại"]:::mac
         end
 
@@ -239,11 +239,10 @@ flowchart TD
 
         %% CÁC KẾT NỐI PARALLEL LIÊN NHÀ (CROSS-CONNECTORS GIỮA 4 NHÀ)
         MAC_1 -->|"1533: Nguyễn Kim sang Lào tôn Lê Duy Ninh lên làm vua Lê Trang Tông lập Nam triều 'Phù Lê diệt Mạc'"| LE_1
-        MAC_1 -->|"1545: Hàng tướng Mạc Dương Chấp Nhất đầu độc Nguyễn Kim; Trịnh Kiểm lên nắm trọn binh quyền"| TRINH_1
+        LE_1 -.->|"1545: Hàng tướng Mạc Dương Chấp Nhất đầu độc Nguyễn Kim; Trịnh Kiểm lên nắm trọn binh quyền"| TRINH_1
         TRINH_1 -->|"1558: Nguyễn Hoàng sợ Trịnh Kiểm ám hại, theo lời Trạng Trình xin vào trấn thủ Thuận Hóa"| NGUYEN_1
         TRINH_2 -->|"1592: Trịnh Tùng đánh Thăng Long chém Mạc Mậu Hợp; ép tàn dư họ Mạc chạy dạt lên cố thủ Cao Bằng"| MAC_4
         TRINH_2 -->|"1592: Trịnh Tùng rước vua Lê về Thăng Long, thiết lập Phủ Chúa thâu tóm mọi quyền lực thực tế"| LE_3
-        MAC_4 -->|"1592: Mạc rút lên Cao Bằng núp bóng nhà Minh/Thanh bảo trợ để làm vùng đệm kiềm chế Trịnh"| MAC_5
         NGUYEN_2 -->|"1627: Chúa Sãi cự tuyệt triều cống họ Trịnh, Đào Duy Từ đắp Lũy Thầy; Trịnh Tráng phát binh nam chinh"| TRINH_3
         TRINH_3 -.->|"1672: Bất phân thắng bại sau 7 lần giao tranh ác liệt; lấy SÔNG GIANH chia đôi non sông suốt hơn một thế kỷ"| NGUYEN_3
         TRINH_4 -->|"1677: Thừa dịp nhà Thanh bận dẹp Loạn Tam Phiên, Trịnh Tạc sai Đinh Văn Tả tiến đánh quét sạch Cao Bằng"| MAC_6
@@ -278,15 +277,15 @@ flowchart TD
         %% NHÁNH 2: VUA LÊ CHIÊU THỐNG & 29 VẠN QUÂN MÃN THANH (1786 - 1789)
         subgraph Sub8_LeThanhBranch ["2. VUA LÊ CHIÊU THỐNG CẦU VIỆN & QUÂN XÂM LƯỢC MÃN THANH"]
             LE_CT_START["LÊ CHIÊU THỐNG NỐI NGÔI TẠI THĂNG LONG (1786):<br>Sau khi Nguyễn Huệ rút quân về Nam, Chiêu Thống bất lực trước sự lộng hành của Trịnh Bồng và Nguyễn Hữu Chỉnh; kinh thành Thăng Long bị cướp bóc tàn phá"]:::crisis
-            --> LE_CT_CAUVIEN["CHIÊU THỐNG BỎ CHẠY SANG TÀU CẦU VIỆN NHÀ THANH (Cuối 1788):<br>Bỏ ngai vàng tháo chạy sang Quảng Tây dâng biểu cầu viện Hoàng đế Càn Long đem quân cứu viện phục ngôi"]:::crisis
-            --> LE_CT_BUNHIN["29 VẠN QUÂN THANH TRÀN VÀO THĂNG LONG (11/1788):<br>Tổng đốc Lưỡng Quảng Tôn Sĩ Nghị dẫn 29 vạn quân Thanh hộ tống Chiêu Thống chiếm đóng Thăng Long.<br>Chiêu Thống làm vua bù nhìn hà khắc, mượn bóng giặc tàn sát trả thù người trung nghĩa.<br>Quân Tây Sơn Ngô Thì Nhậm, Ngô Văn Sở tạm lui về phòng tuyến Tam Điệp - Biện Sơn"]:::war
+            -->|"1788: Chiêu Thống trốn khỏi kinh thành, chạy sang Trung Quốc cầu viện Càn Long"| LE_CT_CAUVIEN["CHIÊU THỐNG BỎ CHẠY SANG TÀU CẦU VIỆN NHÀ THANH (Cuối 1788):<br>Bỏ ngai vàng tháo chạy sang Quảng Tây dâng biểu cầu viện Hoàng đế Càn Long đem quân cứu viện phục ngôi"]:::crisis
+            -->|"Cuối 1788: Càn Long điều Tôn Sĩ Nghị mang 29 vạn quân Thanh chiếm đóng Thăng Long"| LE_CT_BUNHIN["29 VẠN QUÂN THANH TRÀN VÀO THĂNG LONG (11/1788):<br>Tổng đốc Lưỡng Quảng Tôn Sĩ Nghị dẫn 29 vạn quân Thanh hộ tống Chiêu Thống chiếm đóng Thăng Long.<br>Chiêu Thống làm vua bù nhìn hà khắc, mượn bóng giặc tàn sát trả thù người trung nghĩa.<br>Quân Tây Sơn Ngô Thì Nhậm, Ngô Văn Sở tạm lui về phòng tuyến Tam Điệp - Biện Sơn"]:::war
             --> LE_CT_DIETVONG["CHIÊU THỐNG THÁO CHẠY THỤC MẠNG SANG BẮC KINH (05 Tết 1789):<br>Bị Vua Quang Trung đánh tan tác trong trận Đống Đa, Tôn Sĩ Nghị cùng Chiêu Thống chạy trối chết sang biên giới.<br>Chiêu Thống lưu vong nhục nhã tại Bắc Kinh rồi uất hận chết xứ người (1793); TRIỀU HẬU LÊ CHÍNH THỨC DIỆT VONG"]:::bth
         end
 
         %% NHÁNH 3: PHE CHÚA NGUYỄN PHỤC HỒI - NGUYỄN ÁNH (1777 - 1802)
         subgraph Sub8_NguyenAnhBranch ["3. PHE NGUYỄN ÁNH: CỦNG CỐ GIA ĐỊNH & ĐẠI PHẢN CÔNG"]
             NA_BONTAL["NGUYỄN ÁNH BÔN TẨU & LÁNH NẠN (1777 - 1783):<br>Sống sót sau cuộc tàn sát của Tây Sơn tại Gia Định, tập hợp tàn quân kháng cự, nhiều lần lánh nạn ra đảo Phú Quốc"]:::nguyen
-            --> NA_CAUXIEM["NGUYỄN ÁNH CẦU VIỆN QUÂN XIÊM LA (1784 - 1785):<br>Sang Vọng Các cầu viện vua Xiêm Rama I mang 5 vạn quân sang xâm lược miền Tây Nam Bộ.<br>Bị Nguyễn Huệ quét sạch trong trận Rạch Gầm - Xoài Mút; Ánh lại phải chạy sang Xiêm lưu vong"]:::war
+            -->|"1784: Nguyễn Ánh rước 5 vạn quân Xiêm La vào xâm lược miền Tây"| NA_CAUXIEM["NGUYỄN ÁNH CẦU VIỆN QUÂN XIÊM LA (1784 - 1785):<br>Sang Vọng Các cầu viện vua Xiêm Rama I mang 5 vạn quân sang xâm lược miền Tây Nam Bộ.<br>Bị Nguyễn Huệ quét sạch trong trận Rạch Gầm - Xoài Mút; Ánh lại phải chạy sang Xiêm lưu vong"]:::war
             --> NA_TAICHIEMGD["NGUYỄN ÁNH TÁI CHIẾM GIA ĐỊNH (08/1788):<br>PARALLEL LÚC NGUYỄN HUỆ ĐANG Ở BẮC HÀ VÀ PHÚ XUÂN:<br>Nhân lúc Nguyễn Huệ bận lo việc Bắc Hà và Nguyễn Lữ bỏ chạy về Quy Nhơn, Nguyễn Ánh từ Xiêm trở về đánh chiếm lại toàn bộ Gia Định"]:::nguyen
             --> NA_CONGCOGD["CỦNG CỐ NAM HÀ & XÂY DỰNG LỰC LƯỢNG (1789 - 1799):<br>PARALLEL THỜI KỲ VUA QUANG TRUNG ĐẠI PHÁ QUÂN THANH & CANH TÂN:<br>Nguyễn Ánh xây thành Bát Quái Gia Định (1790), lập đồn điền tích thảo lương, thuê chuyên gia Pháp đúc súng đại bác, đóng tàu chiến bọc đồng kiểu phương Tây"]:::nguyen
             --> NA_DAICHIEN["ĐẠI PHẢN CÔNG TÂY SƠN (1799 - 1801):<br>- 1799 - 1801: Đại vây hãm thành Bình Định (Võ Tánh tự thiêu lầu Bát Giác, Ngô Tùng Châu tuẫn tiết).<br>- 02/1801: ĐẠI THỦY CHIẾN THỊ NẠI tiêu diệt hoàn toàn hạm đội Tây Sơn; Nguyễn Ánh đánh chiếm lại kinh đô Phú Xuân"]:::war
@@ -298,7 +297,6 @@ flowchart TD
         TS_GD1777 -->|"1777: Nguyễn Huệ hạ Gia Định giết 2 chúa Nguyễn; cơ nghiệp Chúa Nguyễn Đàng Trong hoàn toàn sụp đổ"| NGUYEN_6
         NGUYEN_6 -->|"1777: Hậu duệ duy nhất trốn thoát là Nguyễn Ánh bôn tẩu tìm đường khôi phục"| NA_BONTAL
 
-        NA_BONTAL -->|"1784: Nguyễn Ánh rước 5 vạn quân Xiêm La vào xâm lược miền Tây"| NA_CAUXIEM
         NA_CAUXIEM -->|"20/01/1785: Nguyễn Huệ đập tan 5 vạn giặc Xiêm tại Rạch Gầm - Xoài Mút; Nguyễn Ánh lưu vong sang Xiêm"| TS_RACM
 
         TS_BAC1786 -->|"07/1786: Nguyễn Huệ tiến ra Thăng Long đánh tan quân Trịnh; Trịnh Khải bị bắt cắt cổ tự vẫn; cơ nghiệp Chúa Trịnh sụp đổ"| TRINH_7
@@ -307,15 +305,11 @@ flowchart TD
 
         TS_TAMPHU -->|"1788: Nguyễn Lữ bỏ chạy; Nguyễn Ánh từ Xiêm về tái chiếm Gia Định trong lúc Nguyễn Huệ bận việc Bắc Hà"| NA_TAICHIEMGD
 
-        LE_CT_START -->|"1788: Chiêu Thống trốn khỏi kinh thành, chạy sang Trung Quốc cầu viện Càn Long"| LE_CT_CAUVIEN
-        LE_CT_CAUVIEN -->|"Cuối 1788: Càn Long điều Tôn Sĩ Nghị mang 29 vạn quân Thanh chiếm đóng Thăng Long"| LE_CT_BUNHIN
         LE_CT_BUNHIN -->|"20/12/1788: Ngô Thì Nhậm cấp báo về Phú Xuân; Nguyễn Huệ đăng quang Hoàng đế Quang Trung, thần tốc xuất binh"| TS_QT_DANGCO
         TS_QT_CHIENDICH -->|"Mùng 5 Tết 1789: Quang Trung đại phá quân Thanh; Chiêu Thống hoảng loạn chạy theo giặc sang Bắc Kinh; triều Hậu Lê diệt vong"| LE_CT_DIETVONG
 
         TS_QT_REFORMS -.->|"1789 - 1792: Vua Quang Trung canh tân phía Bắc; Nguyễn Ánh xây thành Gia Định, đúc súng, đóng tàu bọc đồng ở phía Nam"| NA_CONGCOGD
         TS_QUANGTOAN -->|"1799 - 1801: Triều Cảnh Thịnh nội bộ thanh trừng chia rẽ; Nguyễn Ánh mở đại phản công hạ Quy Nhơn và Phú Xuân"| NA_DAICHIEN
-        NA_CONGCOGD --> NA_DAICHIEN
-        NA_DAICHIEN --> NA_THONGNHAT
     end
 
     %% CHUYỂN GIAO THỜI KỲ TÂY SƠN - VƯƠNG TRIỀU NGUYỄN
@@ -355,13 +349,17 @@ flowchart TD
 
             F_DANANG -.-> RES_LIENTRI
             F_NAMKY -.-> RES_TRUONGDINH
-            RES_TRUONGDINH -.-> RES_TRUNGTRUC
             F_BACKY1 -.-> RES_CAUGIAY1
             F_BACKY2 -.-> RES_CAUGIAY2
         end
 
+        subgraph Sub9_MassacrePhap ["TỘI ÁC THẢM SÁT THỜI PHÁP THUỘC"]
+            MASS_HUE1885["THẢM SÁT KINH THÀNH HUẾ 04 - 05/07/1885:<br>Pháp phản công chiếm Kinh thành sau đòn tập kích của Tôn Thất Thuyết<br>Thảm sát hơn 1.500 binh lính và dân thường, cướp vàng bạc ấn tín<br>Mở đầu phong trào Cần Vương"]:::war
+        end
+
         VNGUYEN_4 --> F_DANANG
         VNGUYEN_4 --> RES_LIENTRI
+        F_THUANAN -.-> MASS_HUE1885
 
         %% PARALLEL TIẾP THEO: VUA BÙ NHÌN VS PHONG TRÀO CẦN VƯƠNG & KHÁNG PHÁP
         subgraph Sub9_CanVuongSplit ["PHONG TRÀO CẦN VƯƠNG & PHONG TRÀO ĐẤU TRANH ĐẦU TK XX (1885 - 1945)"]
@@ -400,6 +398,17 @@ flowchart TD
         --> P10_TOANQUOC["LỜI KÊU GỌI TOÀN QUỐC KHÁNG CHIẾN (19/12/1946):<br>'Chúng ta thà hy sinh tất cả chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ!'<br>Trận chiến 60 ngày đêm giam chân địch trong lòng Thủ đô Hà Nội của Trung đoàn Thủ đô"]:::victory
 
         %% Hai tuyến đối đầu song song: Chiến lược quân sự Pháp vs Đòn tiến công của VNDCCH
+        subgraph Sub10_PhapFull ["CHIẾN LƯỢC CHI TIẾT CỦA PHÁP 1945 - 1954"]
+            FR_DANHANH["1. ĐÁNH NHANH THẮNG NHANH 1946 - 1947:<br>Valluy gây hấn Hải Phòng - Hà Nội 12/1946<br>Đòi tước vũ khí Vệ quốc đoàn, chiếm Hà Nội trong vài tuần"]:::war
+            --> FR_LEA["2. CHIẾN DỊCH LEA + CEINTURE 07 - 12/1947:<br>12.000 quân dù và thủy bộ bao vây Việt Bắc<br>Nhảy dù Bắc Kạn, đánh Sông Lô - Đoan Hùng - Đèo Bông Lau"]:::war
+            --> FR_REVERS["3. KẾ HOẠCH RƠ-VE 1949 - 1950:<br>Lấy chiến tranh nuôi chiến tranh, dùng người Việt đánh người Việt<br>Khóa chặt biên giới Việt - Trung, lập hành lang Đông - Tây<br>Dựng Quốc gia Việt Nam, Hiệp định Elysee 1949 đưa Bảo Đại về"]:::war
+            --> FR_DELATTRE["4. KẾ HOẠCH DE LATTRE 1950 - 1952:<br>Xây Quân đội Quốc gia, vòng boong-ke thép gai quanh đồng bằng Bắc Bộ<br>Chiến thuật Tát nước bắt cá, giành lại quyền chủ động<br>Thất bại Hòa Bình 1951 - 1952, De Lattre qua đời 01/1952"]:::war
+            --> FR_NAVARRE["5. KẾ HOẠCH NAVARRE 1953 - 1954:<br>Mỹ viện trợ, quyết thắng trong 18 tháng<br>Tập trung khối cơ động, bình định đồng bằng, mở rộng chiếm đóng"]:::war
+            --> FR_ATLANTE["6. HÀNH QUÂN ATLANTE + CASTOR 1953 - 1954:<br>Atlante 01 - 05/1954 đánh Liên khu 5, bị bẻ gãy tại Đắk Pơ<br>Castor 11/1953 nhảy dù dựng tập đoàn cứ điểm Điện Biên Phủ 16.200 quân, 49 cứ điểm"]:::war
+        end
+        subgraph Sub10_MassPhap ["TỘI ÁC THẢM SÁT CỦA PHÁP"]
+            MASS_MYTRACH["THẢM SÁT MỸ TRẠCH 29/11/1947 QUẢNG BÌNH:<br>Quân viễn chinh dồn 326 thường dân ra chân cầu Mỹ Trạch xả súng máy<br>Thiêu rụi 300 nóc nhà, xóa sổ nhiều dòng họ"]:::war
+        end
         subgraph Sub10_ChienDichDoiDau ["CÁC KẾ HOẠCH QUÂN SỰ PHÁP BỊ ĐẬP TAN TRÊN CHIẾN TRƯỜNG"]
             P10_VB1947["BẺ GÃY KẾ HOẠCH LÉA - CHIẾN DỊCH VIỆT BẮC THU - ĐÔNG (1947):<br>Valluy điều 12.000 quân dù và thủy bộ bao vây Việt Bắc hòng xóa sổ đầu não kháng chiến.<br>Pháo binh Sông Lô, Đoan Hùng bắn chìm tàu chiến; Phục kích Đèo Bông Lau diệt xe cơ giới.<br>Bảo vệ an toàn cơ quan đầu não kháng chiến; Pháp phá sản chiến lược đánh nhanh thắng nhanh"]:::victory
             --> P10_BIENGIOI["PHÁ VỠ KẾ HOẠCH RƠ-VE - CHIẾN DỊCH BIÊN GIỚI THU - ĐÔNG (1950):<br>Tiêu diệt cụm cứ điểm Đông Khê (La Văn Cầu nhờ chặt cánh tay phá bom); tiêu diệt 2 binh đoàn Le Page & Charton tại Cốc Xá.<br>Giải phóng 750km biên giới Việt - Trung; giành hoàn toàn quyền chủ động chiến lược trên chiến trường chính Bắc Bộ"]:::victory
@@ -409,6 +418,11 @@ flowchart TD
         end
 
         P10_TOANQUOC --> P10_VB1947
+        FR_LEA -.-> P10_VB1947
+        FR_REVERS -.-> P10_BIENGIOI
+        FR_DELATTRE -.-> P10_TIENCONG
+        FR_NAVARRE -.-> P10_NAVARRE
+        P10_VB1947 -.-> MASS_MYTRACH
 
         P10_DBP --> P10_GENEVE["HIỆP ĐỊNH GENÈVE (21/07/1954):<br>Pháp công nhận độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ của Việt Nam.<br>Buộc quân đội Pháp rút hết; Miền Bắc hoàn toàn giải phóng; Vĩ tuyến 17 tạm thời làm giới tuyến quân sự"]:::treaty
     end
@@ -441,6 +455,37 @@ flowchart TD
             MN_CUCTBO -.->|"Tết Mậu Thân 1968 buộc Mỹ đàm phán; Mỹ điên cuồng ném bom miền Bắc trả đũa"| MB_CHONGPHASAN
         end
 
+        subgraph Sub11_USDetail ["CHIẾN LƯỢC CHI TIẾT CỦA MỸ 1954 - 1973"]
+            US_DONPHUONG["TỐ CỘNG + ĐẠO LUẬT 10-59 1954 - 1960:<br>Dựng Diệm xé Genève, lê máy chém<br>Kế hoạch Staley-Taylor 05/1961 bình định 18 tháng"]:::war
+            --> US_DACBIET_FULL["CHIẾN TRANH ĐẶC BIỆT 1961 - 1965:<br>Ấp chiến lược là xương sống, dồn dân tách du kích khỏi dân<br>Chopper 01/1962 thử trực thăng vận, Johnson-McNamara 03/1964 tăng cố vấn"]:::war
+            --> US_CUCBO_FULL["CHIẾN TRANH CỤC BỘ 1965 - 1968:<br>Tìm-diệt Search and Destroy, bình định, phản công mùa khô<br>Cedar Falls 01/1967 Tam giác sắt, Junction City 02 - 05/1967 Chiến khu C<br>Sấm Rền Rolling Thunder 1965 - 1968, Arc Light B-52 06/1965<br>Market Time 03/1965 phong tỏa biển, Hàng rào McNamara, Phượng Hoàng Phoenix"]:::war
+            --> US_VNHOA_FULL["VIỆT NAM HÓA 1969 - 1973:<br>Rút quân Mỹ, tăng VNCH, mở rộng sang Lào - Campuchia<br>Menu 1969 - 1970 ném bom Campuchia, Pocket Money 05/1972 phong tỏa Hải Phòng<br>Linebacker I 05/1972, Linebacker II 12/1972 rải thảm Hà Nội - Hải Phòng"]:::war
+        end
+        subgraph Sub11_VNCHDetail ["CHIẾN LƯỢC - HÀNH QUÂN CỦA VNCH"]
+            VNCH_AP["VNCH DỒN DÂN LẬP ẤP:<br>Khu trù mật, ấp chiến lược 1962, ấp tân sinh, ấp đời sống<br>Làm xương sống bình định, bị Đồng Khởi và Bình Giã - Ba Gia phá vỡ"]:::war
+            --> VNCH_LAMSON719["LAM SƠN 719 ĐƯỜNG 9 - NAM LÀO 02 - 03/1971:<br>21.000 quân Dù - TQLC - Thiết giáp cắt Trường Sơn tại Xê-pôn<br>Bị phản công Bản Đông đập tan, mất 71 tăng và hơn 100 trực thăng"]:::war
+            --> VNCH_LAMSON72["LAM SƠN 72 QUẢNG TRỊ 06 - 09/1972:<br>35.000 quân Dù - TQLC tái chiếm Thành cổ<br>Thị xã hứng 120.000 tấn bom, thương vong lớn hai bên"]:::war
+            --> VNCH_LANCHIEM["TRÀN NGẬP LÃNH THỔ 1973 - 1975:<br>Vi phạm Paris, bình định lấn chiếm<br>Mất Phước Long 01/1975, sụp Tây Nguyên - Huế - Đà Nẵng"]:::war
+        end
+        subgraph Sub11_Massacre ["CÁC VỤ THẢM SÁT CỦA MỸ VÀ ĐỒNG MINH 1958 - 1972"]
+            MASS_PHULOI["PHÚ LỢI 01/12/1958:<br>Mỹ - Diệm đầu độc hàng ngàn tù chính trị"]:::war
+            --> MASS_HAN3366["KIM TÀI 09/01/1966 37 DÂN + THÁI BÌNH 14/02/1966 65 DÂN:<br>Lính Hàn càn Bình Định"]:::war
+            --> MASS_BINHAN["BÌNH AN - GÒ DÀI 02 - 03/1966 BÌNH ĐỊNH:<br>Lính Hàn Mãnh Hổ tàn sát 1.004 dân, riêng Gò Dài 380 người ngày 26/02"]:::war
+            --> MASS_DIENNIEN["PHƯỚC BÌNH - DIÊN NIÊN 10/1966 180 DÂN + BÌNH HÒA 12/1966 HƠN 400 DÂN:<br>Lính Hàn Rồng Xanh tại Quảng Ngãi"]:::war
+            --> MASS_THUYBO["THỦY BỒ 31/01 - 01/02/1967 145 DÂN QUẢNG NAM:<br>Lính Mỹ ném lựu đạn xuống hầm, đốt nhà"]:::war
+            --> MASS_PHONGNHI["PHONG NHẤT - PHONG NHỊ 12/02/1968 + HÀ MY 21/02/1968:<br>Lính Hàn sát hại 69 - 79 dân và 135 dân Quảng Nam"]:::war
+            --> MASS_MYLAY["MỸ LAI - SƠN MỸ 16/03/1968 504 DÂN QUẢNG NGÃI:<br>Đại đội Charlie thảm sát, chấn động thế giới"]:::war
+            --> MASS_THANHPHONG["THẠNH PHONG 25/02/1969 21 DÂN + KHÁNH GIANG 17/04/1969 63 DÂN:<br>SEAL Bob Kerrey và Tiger Force Mỹ gây án tại Bến Tre - Quảng Ngãi"]:::war
+            --> MASS_KHAMTHIEN["KHÂM THIÊN 26/12/1972 287 DÂN + BẠCH MAI 22/12/1972 28 Y BÁC SĨ:<br>B-52 Linebacker II rải thảm Hà Nội"]:::war
+        end
+
+        MN_DONPHUONG -.-> US_DONPHUONG
+        MN_DACBIET -.-> VNCH_AP
+        MN_CUCTBO -.-> US_CUCBO_FULL
+        MN_VIETNAMHOA -.-> US_VNHOA_FULL
+        MN_DACBIET -.-> MASS_PHULOI
+        MB_DIENBIEN_AIR -.-> MASS_KHAMTHIEN
+
         MN_VIETNAMHOA --> P11_PARIS["HIỆP ĐỊNH PARIS (27/01/1973):<br>Mỹ cam kết tôn trọng độc lập, chủ quyền, toàn vẹn lãnh thổ Việt Nam; rút sạch quân viễn chinh về nước.<br>Hoàn thành mục tiêu 'ĐÁNH CHO MỸ CÚT'"]:::treaty
         MB_DIENBIEN_AIR --> P11_PARIS
 
@@ -459,6 +504,17 @@ flowchart TD
         --> P12_BAC1979["CUỘC CHIẾN ĐẤU BẢO VỆ BIÊN GIỚI PHÍA BẮC (17/02 - 18/03/1979):<br>Hơn 60 vạn quân tràn qua toàn tuyến biên giới 6 tỉnh phía Bắc: Lai Châu, Lào Cai, Hà Giang, Cao Bằng, Lạng Sơn, Quảng Ninh.<br>Quân và dân 6 tỉnh biên giới chiến đấu kiên cường tại Đồng Đăng, Trà Lĩnh, Phong Thổ; bẻ gãy kế hoạch đánh nhanh thắng nhanh.<br>05/03/1979: Chủ tịch nước Tôn Đức Thắng ra Lệnh Tổng động viên; đối phương tuyên bố rút quân"]:::war
         --> P12_VIXUYEN["MẶT TRẬN VỊ XUYÊN - HÀ GIANG 'LÒ VÔI THẾ KỶ' (1984 - 1989):<br>Chiến đấu ác liệt giữ vững từng tấc đất thiêng liêng ở các điểm cao 1509, 772, 685, Đồi Đài, Cửa khẩu Thanh Thủy.<br>Lời thề bất tử khắc trên báng súng của Liệt sĩ Nguyễn Viết Ninh: 'SỐNG BÁM ĐÁ ĐÁNH GIẶC, CHẾT HÓA ĐÁ BẤT TỬ'"]:::hero
         --> P12_GACMA["HẢI CHIẾN TRƯỜNG SA & 'VÒNG TRÒN BẤT TỬ' GẠC MA (14/03/1988):<br>Hải quân Trung Quốc nổ súng tấn công các chiến sĩ công binh tại cụm đảo chìm Gạc Ma, Cô Lin, Len Đao.<br>64 chiến sĩ Hải quân kết thành 'VÒNG TRÒN BẤT TỬ' bảo vệ lá cờ Tổ quốc và anh dũng hy sinh.<br>Thuyền trưởng Vũ Huy Lễ chỉ huy tàu HQ-505 ủi bãi giữ vững đảo Cô Lin; bảo vệ chủ quyền Cô Lin và Len Đao tại Quần đảo Trường Sa"]:::hero
+
+        subgraph Sub12_Massacre ["CÁC VỤ THẢM SÁT BIÊN GIỚI - BIỂN ĐẢO"]
+            MASS_LONNOL["LON NOL 04 - 05/1970 CAMPUCHIA:<br>Thảm sát hàng trăm đến hàng ngàn kiều dân Việt tại Prasot, Takeo, Svay Rieng<br>Thi thể trôi Mê Kông về Đồng Tháp - An Giang"]:::war
+            --> MASS_THOCHU["THỔ CHU 10/05/1975:<br>Pol Pot đổ bộ bắt và thảm sát hơn 500 dân"]:::war
+            --> MASS_TANLAP["TÂN LẬP 24 - 25/09/1977 TÂY NINH:<br>9 sư đoàn Pol Pot sát hại 592 dân, đốt trường Tân Thành"]:::war
+            --> MASS_BACHUC["BA CHÚC 18 - 30/04/1978 AN GIANG:<br>Khmer Đỏ thảm sát 3.157 dân, chỉ vài người sống sót"]:::war
+            --> MASS_TONGCHUP["TỔNG CHÚP 09/03/1979 CAO BẰNG + TIÊU THỔ 02 - 03/1979:<br>Quân Trung Quốc sát hại 43 dân vứt giếng cổ<br>San phẳng Lạng Sơn, Cao Bằng, Lào Cai, Cam Đường"]:::war
+        end
+        P12_TAYNAM -.-> MASS_THOCHU
+        P12_BAC1979 -.-> MASS_TONGCHUP
+        P12_UNIFY -.-> MASS_LONNOL
     end
 
     P11_DAITHANG1975 --> P12_UNIFY
@@ -474,4 +530,54 @@ flowchart TD
     end
 
     P12_GACMA -->|"Cùng với nhiệm vụ bảo vệ chủ quyền biên cương - biển đảo, Đại hội VI (12/1986) mở ra đường lối Đổi Mới toàn diện"| P13_DM1986
+
+    %% =========================================================================
+    %% MÀU NỀN & VIỀN ĐẬM CHO CÁC KHUNG SUBGRAPH (dễ nhìn, không lẫn connector)
+    %% Nguyên tắc chống trùng màu: khung lớn dùng tông ĐẬM (mức 200) khác hẳn
+    %% tông pastel nhạt (mức 50-100) của node bên trong; khung nhánh nhỏ dùng
+    %% nền TRẮNG + viền màu 3px nên mọi node pastel đều nổi rõ.
+    %% Khung thời kỳ lớn: viền 4px. Khung nhánh nhỏ: viền 3px.
+    %% =========================================================================
+    style Sub1_HongBang fill:#ddd6fe,stroke:#6d28d9,stroke-width:4px
+    style Sub2_BacThuoc fill:#bfdbfe,stroke:#1d4ed8,stroke-width:4px
+    style Sub3_NgoDinhLe fill:#fecdd3,stroke:#be123c,stroke-width:4px
+    style Sub4_Ly fill:#c7d2fe,stroke:#4338ca,stroke-width:4px
+    style Sub5_TranHo fill:#bfdbfe,stroke:#1e40af,stroke-width:4px
+    style Sub6_LeSo fill:#ddd6fe,stroke:#6d28d9,stroke-width:4px
+    style Sub7_PhanLiet fill:#bae6fd,stroke:#0369a1,stroke-width:4px
+    style Sub8_TaySonDaCuc fill:#c7d2fe,stroke:#4338ca,stroke-width:4px
+    style Sub9_TrieuNguyen fill:#ddd6fe,stroke:#6d28d9,stroke-width:4px
+    style Sub10_ChongPhap fill:#fed7aa,stroke:#c2410c,stroke-width:4px
+    style Sub11_ChongMy fill:#c7d2fe,stroke:#4338ca,stroke-width:4px
+    style Sub12_BienGioi fill:#bae6fd,stroke:#0369a1,stroke-width:4px
+    style Sub13_DoiMoi fill:#ddd6fe,stroke:#6d28d9,stroke-width:4px
+    style Sub2_VanXuanSplit fill:#ffffff,stroke:#64748b,stroke-width:3px
+    style Sub2_KieuNgoSplit fill:#ffffff,stroke:#64748b,stroke-width:3px
+    style Sub3_12SuQuan fill:#ffffff,stroke:#475569,stroke-width:3px
+    style Sub5_HauTranSplit fill:#ffffff,stroke:#78716c,stroke-width:3px
+    style Sub7_Mac fill:#ffffff,stroke:#16a34a,stroke-width:3px
+    style Sub7_Le fill:#ffffff,stroke:#c026d3,stroke-width:3px
+    style Sub7_Trinh fill:#ffffff,stroke:#475569,stroke-width:3px
+    style Sub7_Nguyen fill:#ffffff,stroke:#b45309,stroke-width:3px
+    style Sub8_TaySonBranch fill:#ffffff,stroke:#b91c1c,stroke-width:3px
+    style Sub8_LeThanhBranch fill:#ffffff,stroke:#64748b,stroke-width:3px
+    style Sub8_NguyenAnhBranch fill:#ffffff,stroke:#b45309,stroke-width:3px
+    style Sub9_CungCoThongNhat fill:#ffffff,stroke:#b45309,stroke-width:3px
+    style Sub9_PhapXamLuocSplit fill:#ffffff,stroke:#c2410c,stroke-width:3px
+    style Sub9_TrieuDinhDauHang fill:#ffffff,stroke:#475569,stroke-width:3px
+    style Sub9_NhanDanKhangChien fill:#ffffff,stroke:#16a34a,stroke-width:3px
+    style Sub9_MassacrePhap fill:#ffffff,stroke:#991b1b,stroke-width:3px
+    style Sub9_CanVuongSplit fill:#ffffff,stroke:#854d0e,stroke-width:3px
+    style Sub9_TrieuDinhBuNhin fill:#ffffff,stroke:#475569,stroke-width:3px
+    style Sub9_PhongTraoYeuNuoc fill:#ffffff,stroke:#a16207,stroke-width:3px
+    style Sub10_PhapFull fill:#ffffff,stroke:#c2410c,stroke-width:3px
+    style Sub10_MassPhap fill:#ffffff,stroke:#991b1b,stroke-width:3px
+    style Sub10_ChienDichDoiDau fill:#ffffff,stroke:#15803d,stroke-width:3px
+    style Sub11_HaiMienSplit fill:#ffffff,stroke:#854d0e,stroke-width:3px
+    style Sub11_MienBac fill:#ffffff,stroke:#15803d,stroke-width:4px
+    style Sub11_MienNam fill:#ffffff,stroke:#c2410c,stroke-width:4px
+    style Sub11_USDetail fill:#ffffff,stroke:#991b1b,stroke-width:3px
+    style Sub11_VNCHDetail fill:#ffffff,stroke:#334155,stroke-width:3px
+    style Sub11_Massacre fill:#ffffff,stroke:#7f1d1d,stroke-width:3px
+    style Sub12_Massacre fill:#ffffff,stroke:#7f1d1d,stroke-width:3px
 ```

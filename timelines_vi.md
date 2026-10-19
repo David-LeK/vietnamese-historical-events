@@ -4693,6 +4693,13 @@
 *Nguồn: Tranh cổ động của Pháp vinh danh cuộc chinh phục Bắc Kỳ / Wikimedia Commons*
 
 <!-- id: EVT-1301 -->
+*   **06/06/1884:** Sau khi ký kết Hòa ước Patenôtre, cùng với việc đã chiếm đoạt Nam Kỳ làm thuộc địa từ trước, thực dân Pháp chính thức hoàn tất việc chia cắt Việt Nam thành ba xứ với ba chế độ chính trị - pháp lý khác nhau: Bắc Kỳ (Tonkin) và Trung Kỳ (Annam) là hai xứ bảo hộ (triều đình nhà Nguyễn chỉ nắm quyền kiểm soát trên danh nghĩa), còn Nam Kỳ (Cochinchine) là xứ thuộc địa trực trị. Nhằm xóa bỏ tên gọi Việt Nam và triệt tiêu ý chí thống nhất của dân tộc, Pháp thi hành triệt để chính sách "chia để trị" xuyên suốt thời kỳ đô hộ; bộ máy cai trị ban đầu đặt Tổng công sứ Trung - Bắc Kỳ và Thống đốc Nam Kỳ, về sau hoàn thiện với Thống sứ (Bắc Kỳ), Khâm sứ (Trung Kỳ) và Thống đốc (Nam Kỳ) người Pháp. [Nguồn: Trung tâm Lưu trữ Quốc gia I - Kỳ II: Địa giới hành chính Việt Nam thời kỳ thuộc địa Pháp, https://archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/ky-ii-dia-gioi-hanh-chinh-viet-nam-thoi-ky-thuoc-dia-phap.htm; Bảo tàng Lịch sử Quốc gia - Triều đình Nguyễn ký Hòa ước Giáp Thân 1884 (Hòa ước Patenôtre) với thực dân Pháp, https://baotanglichsu.vn/vi/Articles/3097/14428/cach-djay-129-nam-6-6-1884-6-6-2013-trieu-djinh-nguyen-ky-hoa-uoc-giap-than-1884-con-co-ten-khac-la-hoa-uoc-patenotre-voi-thuc-dan-phap.html]
+
+![Hình ảnh tư liệu](images/event_20261019_223334.webp)
+
+*Nguồn: Bản đồ Đông Dương thuộc Pháp năm 1923 thể hiện ba xứ Bắc Kỳ (Tonkin), Trung Kỳ (Annam) và Nam Kỳ (Cochinchine) / Alexandre Meunier / Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3481 -->
 *   **23 - 24/06/1884:** Trận Bắc Lệ (Trận cầu Quan Âm). Một toán quân Pháp do Trung tá Dugenne chỉ huy trên đường lên tiếp quản Lạng Sơn theo Quy ước Thiên Tân đã bị liên quân Việt - Thanh phục kích tại khu vực Bắc Lệ. Quân Pháp thất bại thảm hại, thương vong nặng nề và phải rút chạy. Sự kiện này làm bùng nổ cuộc Chiến tranh Pháp - Thanh. [Nguồn: Viện Sử học, Lịch sử Việt Nam (Tập 6: 1858–1897), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1302 -->

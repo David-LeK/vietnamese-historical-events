@@ -4693,6 +4693,13 @@
 *Source: French propaganda poster honoring the conquest of Tonkin / Wikimedia Commons*
 
 <!-- id: EVT-1301 -->
+*   **Jun. 6, 1884:** Following the signing of the Patenôtre Treaty, combined with its prior colonization of Cochinchina, the French colonial administration formalized the partition of Vietnam into three distinct regions under separate political and legal regimes: Tonkin (Bac Ky) and Annam (Trung Ky) as protectorates (where the Nguyen court retained only nominal authority), and Cochinchina (Nam Ky) as a direct colony. Aimed at erasing the name of Vietnam and undermining national unity, France enforced a comprehensive "divide-and-rule" policy throughout the colonial period; colonial administration was initially led by the Resident-General of Annam-Tonkin alongside the Governor of Cochinchina, later fully organized under a French Resident-Superior in Tonkin, a Resident-Superior in Annam, and a Governor in Cochinchina. [Source: National Archives Center I - Part II: Vietnam's Administrative Boundaries during the French Colonial Period, https://archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/ky-ii-dia-gioi-hanh-chinh-viet-nam-thoi-ky-thuoc-dia-phap.htm; Vietnam National Museum of History - The Nguyen Court signs the Treaty of Giap Than 1884 (Patenôtre Treaty) with the French colonialists, https://baotanglichsu.vn/vi/Articles/3097/14428/cach-djay-129-nam-6-6-1884-6-6-2013-trieu-djinh-nguyen-ky-hoa-uoc-giap-than-1884-con-co-ten-khac-la-hoa-uoc-patenotre-voi-thuc-dan-phap.html]
+
+![Historical Image](images/event_20261019_223334.webp)
+
+*Source: Map of French Indochina (1923) showing the three parts Tonkin, Annam and Cochinchina / Alexandre Meunier / Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3481 -->
 *   **Jun. 23 - 24, 1884:** Battle of Bac Le. A French column marching to occupy Lang Son under the terms of the Tientsin Accord was ambushed by Qing and Vietnamese forces near the Quan Am bridge. The French suffered a severe defeat and retreated with heavy casualties, sparking the Sino-French War. [Source: Institute of History, History of Vietnam (Vol. 6: 1858–1897), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1302 -->
