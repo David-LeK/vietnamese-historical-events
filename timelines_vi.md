@@ -8652,6 +8652,13 @@
 *   **09 - 13/10/1966:** Lính Nam Triều Tiên (Lữ đoàn Rồng Xanh) thảm sát 180 thường dân tại thôn Phước Bình và Diên Niên (Tịnh Sơn, Quảng Ngãi). [Nguồn: Ủy ban Nhân dân tỉnh Quảng Ngãi, Di tích vụ thảm sát Diên Niên - Phước Bình; Báo Quảng Ngãi; Báo Tuổi Trẻ]
 
 <!-- id: EVT-2362 -->
+*   **21/10/1966:** **Vụ ném bom Trường cấp II Thụy Dân (Thái Bình):** Khoảng 10 giờ 30 phút, máy bay quân sự Mỹ bất ngờ ném hai loạt bom tàn khốc xuống khu vực Trường Phổ thông cấp II Thụy Dân (xã Thụy Dân, huyện Thụy Anh, tỉnh Thái Bình; nay thuộc xã Tây Thụy Anh), san phẳng toàn bộ ngôi trường và vùi lấp các giao thông hào. Cô giáo Bùi Thị Thanh Xuân (24 tuổi, khi đó đang mang thai) cùng 30 học sinh lớp 7 (từ 13 đến 16 tuổi) đã anh dũng hy sinh; khi tìm thấy, cô Xuân vẫn đang lấy thân mình che chở, ôm chặt hai học trò trong vòng tay. Sự kiện đau thương gây chấn động dư luận trong nước và quốc tế, thổi bùng làn sóng căm phẫn tội ác chiến tranh của đế quốc Mỹ. Phần mộ cô giáo và các em sau đó được quy tập xây dựng thành Nghĩa trang 21/10 với bố cục mô phỏng một "Lớp học vĩnh hằng", được Bộ Văn hóa, Thể thao và Du lịch xếp hạng Di tích lịch sử cấp quốc gia vào năm 2021. [Nguồn: Báo điện tử Dân trí, "Nghĩa trang 21/10 và lớp học vĩnh hằng của 31 cô trò", https://dantri.com.vn/thoi-su/nghia-trang-2110-va-lop-hoc-vinh-hang-cua-31-co-tro-20241120101208760.htm; Báo VietNamNet, "Lớp học vĩnh hằng của 31 cô trò ở Thái Bình", https://vietnamnet.vn/lop-hoc-vinh-hang-cua-31-co-tro-o-thai-binh-2346542.html]
+
+![Khu tưởng niệm 21/10 - Lớp học vĩnh hằng tại Thụy Dân, Thái Bình](images/event_20261021_173314.webp)
+
+*Nguồn: Toàn cảnh Nghĩa trang 21/10 ("Lớp học vĩnh hằng") tại xã Thụy Dân (Thái Bình) với phần mộ cô giáo Bùi Thị Thanh Xuân và 30 học sinh được quy tập mô phỏng một lớp học. Ảnh: Báo VietNamNet*
+
+<!-- id: EVT-3482 -->
 *   **25/10/1966:** Nữ cán bộ Mặt trận Dân tộc Giải phóng miền Nam Việt Nam Tô Thị Nâu (23 tuổi) bị bắt tại vùng núi Dinh cùng một máy điện đài và bị thẩm vấn trong lều tại căn cứ Núi Đất (tỉnh Phước Tuy) của Lực lượng Đặc nhiệm Úc số 1 bởi Phân đội 1 Đơn vị Tình báo Sư đoàn trong khoảng 30 phút trước khi bị bàn giao cho chính quyền Việt Nam Cộng hòa; trong quá trình thẩm vấn, sĩ quan phụ trách đã đe dọa dùng cái gọi là 'water treatment' nhằm hù dọa để khai thác tin, rồi cưỡng bức đổ nước vào miệng buộc cô nuốt khoảng một cốc nước (khác với việc uống nước bình thường) trước khi các sĩ quan khác can thiệp; do hành vi bị chặn sớm nên việc có cấu thành tra tấn bằng nước hay không còn gây nhiều tranh cãi. [Nguồn: Australian War Memorial, https://www.awm.gov.au/collection/C296337; https://www.awm.gov.au/collection/C296340]
 
 <!-- id: EVT-3468 -->
