@@ -6431,6 +6431,13 @@
 *   **Jan. 1946:** Huynh Tan Phat was elected as a representative for My Tho province in the First National Assembly of the Democratic Republic of Vietnam. [Source: Architect Huynh Tan Phat – Life and Career (Nhan Dan Newspaper), https://nhandan.vn/kien-truc-su-huynh-tan-phat-post738200.html]
 
 <!-- id: EVT-1772 -->
+*   **Jan. 1946:** Upon inadvertently seeing a portrait of President Ho Chi Minh (President of the Provisional Government of the Democratic Republic of Vietnam), Nguyen Sinh Khiem (courtesy name Nguyen Tat Dat, born 1888, the elder brother of Uncle Ho) recognized the familiar countenance of his younger brother Nguyen Sinh Cung (Nguyen Tat Thanh) after nearly 40 years of separation. Approximately three weeks before the 1946 Lunar New Year (Year of the Dog - Binh Tuat), he packed his bags and set off from his hometown in Nghe An to Hanoi to visit his brother. Along the journey and upon arriving at Hang Co railway station, his striking resemblance in appearance and demeanor to President Ho Chi Minh led crowds of citizens to gather around, believing the President was traveling incognito. The two brothers subsequently held an emotional and sacred reunion in the capital during the early days of national independence. [Source: Nghe An Newspaper - 'Cau ca Khiem' - elder brother of President Ho Chi Minh, https://baonghean.vn/cau-ca-khiem-anh-trai-chu-tich-ho-chi-minh-10273766.html]
+
+![Historical Image](images/event_20261022_174422.webp)
+
+*Source: Portrait of Nguyen Sinh Khiem (Nguyen Tat Dat, 1888–1950), elder brother of President Ho Chi Minh (Archival photo / Kim Lien Relic Site)*
+
+<!-- id: EVT-3483 -->
 *   **Jan. 1, 1946:** The Provisional Government was reformed into the Provisional Coalition Government, with added members from Viet Quoc and Viet Cach parties. [Source: Vietnam National Museum of History - The Provisional Coalition Government (January 1, 1946), https://baotanglichsu.vn/vi/Articles/3097/16617/chinh-phu-lien-hiep-lam-thoi-01-01-1946.html]
 
 <!-- id: EVT-1773 -->

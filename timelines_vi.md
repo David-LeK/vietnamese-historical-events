@@ -6431,6 +6431,13 @@
 *   **01/1946:** Huỳnh Tấn Phát được bầu làm đại biểu Quốc hội khóa I nước Việt Nam Dân chủ Cộng hòa, đại diện cho tỉnh Mỹ Tho. [Nguồn: Kiến trúc sư Huỳnh Tấn Phát – Cuộc đời và sự nghiệp (Báo Nhân Dân), https://nhandan.vn/kien-truc-su-huynh-tan-phat-post738200.html]
 
 <!-- id: EVT-1772 -->
+*   **01/1946:** Khi vô tình nhìn thấy bức ảnh Chủ tịch Hồ Chí Minh (Chủ tịch Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa), ông Nguyễn Sinh Khiêm (tự Nguyễn Tất Đạt, sinh năm 1888, anh ruột Bác Hồ) đã nhận ra diện mạo thân thuộc của người em trai Nguyễn Sinh Cung (Nguyễn Tất Thành) sau gần 40 năm xa cách biền biệt. Khoảng ba tuần trước Tết Bính Tuất (năm 1946), ông quyết định khăn gói lên đường từ quê nhà Nghệ An ra Thủ đô Hà Nội để thăm em. Trên đường đi và tại ga Hàng Cỏ, do phong thái và diện mạo đặc biệt giống Bác Hồ, ông khiến đông đảo đồng bào xúc động vây quanh vì ngỡ là Chủ tịch Hồ Chí Minh vi hành. Hai anh em sau đó đã có cuộc hội ngộ thiêng liêng, nghẹn ngào tại Thủ đô trong những ngày đầu của nền độc lập. [Nguồn: Báo Nghệ An - 'Cậu cả Khiêm' - anh trai Chủ tịch Hồ Chí Minh, https://baonghean.vn/cau-ca-khiem-anh-trai-chu-tich-ho-chi-minh-10273766.html]
+
+![Hình ảnh tư liệu](images/event_20261022_174422.webp)
+
+*Nguồn: Chân dung cụ Nguyễn Sinh Khiêm (Nguyễn Tất Đạt, 1888–1950), anh ruột Chủ tịch Hồ Chí Minh (Ảnh tư liệu / Khu di tích Kim Liên)*
+
+<!-- id: EVT-3483 -->
 *   **01/01/1946:** Chính phủ lâm thời cải tổ thành Chính phủ liên hiệp lâm thời, có thêm thành viên của Việt Quốc và Việt Cách. [Nguồn: Bảo tàng Lịch sử Quốc gia - Chính phủ liên hiệp lâm thời (01/01/1946), https://baotanglichsu.vn/vi/Articles/3097/16617/chinh-phu-lien-hiep-lam-thoi-01-01-1946.html]
 
 <!-- id: EVT-1773 -->
