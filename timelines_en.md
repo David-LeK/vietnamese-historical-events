@@ -7646,6 +7646,12 @@
 *Source: Portrait of Major General Vu Ngoc Nha (Vu Xuan Nha, 1928–2002, known as "The Advisor"), who infiltrated the Saigon Presidential Palace under the cover of a Phat Diem Catholic migrant during the 1954 "Bac 54" migration and led the A22 strategic intelligence network (archival portrait, Wikimedia Commons, CC0).*
 
 <!-- id: EVT-3486 -->
+*   **Late 1954:** Executing orders from the Research Department (General Staff), military intelligence officer Dang Tran Duc (alias Ba Quoc, born 1922 in Thanh Tri, Hanoi) sacrificed personal happiness, leaving behind his young wife and two small children in Hanoi to secretly migrate to the South under a new identity as Dang Van Duy (later changed to Nguyen Van Ta). Employing exceptional intellect and sharp tradecraft, he systematically established a solid cover to infiltrate the South Vietnamese Presidential Office's Social and Political Research Service (headed by Tran Kim Tuyen), embarking on a legendary deep-cover, single-operative intelligence mission that spanned over 20 years at the very core of the Saigon regime. [Source: Nhan Dan Newspaper - Intelligence Operative Dang Tran Duc: A Lifetime of Rekindling Flames, https://nhandan.vn/nha-tinh-bao-dang-tran-duc-mot-doi-thoi-lua-post581699.html; People's Police Newspaper - Major General Dang Tran Duc: Legendary Feats, https://cand.com.vn/Nhung-tam-guong-sang/Thieu-tuong-Dang-Tran-Duc-Nhung-chien-cong-huyen-thoai-i294247/]
+
+<!-- id: EVT-3491 -->
+*   **Late 1954:** Comrade Tran Quoc Huong (Muoi Huong, born Tran Ngoc Ban, former secretary to General Secretary Truong Chinh) was directly assigned by President Ho Chi Minh and the Party Central Secretariat to travel to the South to organize and lead the strategic intelligence network under the Southern Party Committee's Enemy Intelligence Department. With sharp political acumen and exceptional organizational talent, he served as the "chief architect" and mentor who personally scouted, enlightened, nurtured, and directed legendary Vietnamese intelligence operatives such as Pham Xuan An (Hai Trung), Vu Ngoc Nha (Hai Long), and Le Huu Thuy... operating steadfastly and deeply infiltrating enemy high-command nerve centers. [Source: Nhan Dan Newspaper - Comrade Tran Quoc Huong, a Staunch and Pure Heart, https://nhandan.vn/dong-chi-tran-quoc-huong-mot-tam-long-kien-trung-trong-sang-post605481.html; People's Police Newspaper - Muoi Huong: Mentor of Legendary Intelligence Operatives, https://cand.com.vn/Phong-su-Tu-lieu/Muoi-Huong-Nguoi-thay-cua-nhung-nha-tinh-bao-huyen-thoai-i435987/]
+
+<!-- id: EVT-3492 -->
 *   **Dec. 29, 1954:** France signed a treaty transferring all administrative authority in South Vietnam to Ngo Dinh Diem. [Source: Vietnam National Museum of History - France Signs the Treaty Transferring Power over South Vietnam (December 29, 1954), https://baotanglichsu.vn/vi/Articles/3097/16688/phap-ky-hiep-uoc-trao-quyen-mien-nam-29-12-1954.html]
 
 <!-- id: EVT-2088 -->
@@ -7850,6 +7856,9 @@
 *   **1958:** Alang Bhuoch volunteered for the front-line civilian (dan cong hoa tuyen) caravan launched by Tay Giang district; although first refused because he was blind in both eyes, he persuaded the district secretary Brieu Brame and the caravan commander A Lang Bhoc with the words "my eyes are dead, but I am not", and began carrying food and weapons from Ta Coo stream to the Plach station (A Vuong commune), opening a 14-year period of civilian service on the Truong Son. [Source: Bao Cong An Nhan Dan - "A Lang Buoc carried dozens of tons of cargo with his bamboo-staff eyes", 07/06/2009, https://cand.vn/a-lang-bhuoch-cong-hang-chuc-tan-hang-voi-con-mat-gay-tre-post295586.html]
 
 <!-- id: EVT-3462 -->
+*   **1958:** Operating within the Saigon regime's Social and Political Research Service, strategic intelligence operative Dang Tran Duc (Ba Quoc) resourcefully accessed a top-secret file cabinet in Situation Section Chief Nguyen Van Giau's office, discovering the classified dossier titled "Stay behind in North Vietnam" detailing the networks, operatives, and spy rings planted by the US and Saigon regime in North Vietnam after 1954. Lacking a camera on-site, he meticulously hand-copied the entire file over multiple days and secretly relayed it to the revolutionary base, enabling security and intelligence forces of the Democratic Republic of Vietnam to completely dismantle and neutralize the enemy's planted espionage networks. [Source: People's Police Newspaper - Major General Ba Quoc and the Unforgettable Journey, https://cand.com.vn/Tu-lieu-quoc-te/Vi-tuong-tinh-bao-Ba-Quoc-va-chuyen-di-khong-the-nao-quen-i435985/; People's Police Newspaper - Major General Dang Tran Duc: Legendary Feats, https://cand.com.vn/Nhung-tam-guong-sang/Thieu-tuong-Dang-Tran-Duc-Nhung-chien-cong-huyen-thoai-i294247/]
+
+<!-- id: EVT-3494 -->
 *   **Feb. 1958:** Chinese fishermen attempted to settle on the western part of the Paracel Islands but were unsuccessful. [Source: Resolution No. 15-NQ/TW of the 2nd Party Central Committee; Party Documents, Vol. 20, National Political Publishing House, Hanoi, 2002]
 
 <!-- id: EVT-2141 -->
@@ -7866,6 +7875,13 @@
 *   **May 5, 1958:** A "Fatherland Acknowledges the Merit" (Bang To quoc ghi cong) certificate was issued for the martyr Nguyen Van Luom, officially recognizing his sacrifice for the nation. [Source: Military History Institute of Vietnam, History of the Resistance War against the US (1954 - 1975), Vol. 1, National Political Publishing House, Hanoi, 2013]
 
 <!-- id: EVT-2144 -->
+*   **Jun. 1958:** Comrade Tran Quoc Huong (Muoi Huong, born Tran Ngoc Ban, director of the strategic intelligence network in the South) was arrested in Saigon by Ngo Dinh Can's Central Special Action Team and subsequently transferred to the Toa Kham prison and Chin Ham ("Nine Bunkers") in Hue - known as an "earthly hell" under the Ngo family regime. Despite brutal torture and repeated personal interrogations and co-optation attempts by Ngo Dinh Nhu and Ngo Dinh Can, he steadfastly maintained communist integrity under the alias Tran Ngoc Tri, refusing to disclose any organizational connections and successfully shielding the entire strategic intelligence network and key operatives (including Pham Xuan An, Vu Ngoc Nha...). [Source: Nhan Dan Newspaper - Comrade Tran Quoc Huong, a Staunch and Pure Heart, https://nhandan.vn/dong-chi-tran-quoc-huong-mot-tam-long-kien-trung-trong-sang-post605481.html; People's Police Newspaper - Strategic Intelligence Operative Muoi Huong and His Courage in US-Diem Prisons, https://cand.com.vn/Phong-su-Tu-lieu/Nha-tinh-bao-chien-luoc-Muoi-Huong-va-ban-linh-trong-lao-tu-My---Diem-i392576/]
+
+![Historical Image](images/event_20261027_100204.webp)
+
+*Source: Remains of bunker number 8 at the Chin Ham ("Nine Bunkers") historical site (Hue) - where the Ngo Dinh Can regime imprisoned and tortured intelligence operative Tran Quoc Huong (Muoi Huong) and staunch revolutionaries / Luu Ly / Wikimedia Commons (CC BY 3.0)*
+
+<!-- id: EVT-3493 -->
 *   **Jul. 1958:** At the second National Congress of Heroes and Emulation Fighters of workers, peasants and soldiers, Doctor Pham Ngoc Thach was proclaimed a Hero of Labor, becoming the first Hero of Labor in the health sector. [Source: Doctor Pham Ngoc Thach - the first Minister of Health, a doctor for the people (Vietnam News Agency), https://nvsk.vnanet.vn/print/bac-si-pham-ngoc-thach-bo-truong-y-te-dau-tien-nguoi-thay-thuoc-vi-nhan-dan-142101.vna]
 
 <!-- id: EVT-3476 -->
@@ -11076,7 +11092,11 @@
 *   **Jan. 30, 2004:** VAVA filed a landmark class-action lawsuit in a US federal court against 37 US chemical companies for producing the toxic defoliants, including Agent Orange, used during the Vietnam War, seeking justice and compensation for millions of Vietnamese victims. [Source: Lawsuit filed by VAVA at the US District Court for the Eastern District of New York, Jan. 30, 2004; Nhan Dan Newspaper, Feb. 1, 2004]
 
 <!-- id: EVT-3038 -->
-*   **Mar. 26, 2004:** Major General and Hero of the People's Armed Forces Dang Tran Duc (alias Ba Quoc, former Director of Department 12 - General Department of Military Intelligence, legendary strategic spy who deeply infiltrated the Central Intelligence Organization and the Political and Social Research Service of South Vietnam) passed away in Hanoi at the age of 82. [Source: Communique of the Ministry of National Defense and General Department of Defense Intelligence, Mar. 26, 2004; People's Army Newspaper, Mar. 28, 2004; Nhan Dan Newspaper]
+*   **Mar. 26, 2004:** Major General and Hero of the People's Armed Forces Dang Tran Duc (alias Ba Quoc, former Director of Department 12 - General Department of Military Intelligence, legendary strategic spy who deeply infiltrated the Central Intelligence Organization and the Political and Social Research Service of the Saigon regime) passed away in Hanoi at the age of 82. [Source: Communique of the Ministry of National Defense and General Department of Defense Intelligence, Mar. 26, 2004; People's Army Newspaper, Mar. 28, 2004; Nhan Dan Newspaper]
+
+![Historical Image](images/event_20261027_100203.webp)
+
+*Source: Portrait of Major General and Hero of the People's Armed Forces Dang Tran Duc (Ba Quoc) / Andylahistory / Wikimedia Commons (CC0)*
 
 <!-- id: EVT-3039 -->
 *   **Apr. 10 - 11, 2004:** Large-scale unrest and demonstrations by Montagnards resurfaced in Dak Lak and Gia Lai during Easter weekend demanding land rights and the establishment of a self-styled "Degar State." [Source: Reports of Gia Lai and Dak Lak Provincial People's Committees on Security and Order, April 2004; Nhan Dan Newspaper, Apr. 14, 2004; People's Public Security Newspaper]
@@ -11934,6 +11954,13 @@
 *   **Early 2020:** During the initial outbreak of the COVID-19 pandemic, Cuba immediately donated medicine to treat 1,000 patients in Vietnam and sent medical experts to assist. Cuba also offered to transfer COVID-19 vaccine technology to Vietnam. [Source: Ministry of Health, Reception of Interferon Alfa 2B Medicine Donated by Cuba; Ministry of Foreign Affairs, 60 Years of Special Relations, 2020; Nhan Dan Newspaper]
 
 <!-- id: EVT-3282 -->
+*   **Jun. 11, 2020:** Comrade Tran Quoc Huong (born Tran Ngoc Ban, alias Muoi Huong; born Dec. 20, 1924, in Binh Luc district, Ha Nam province), former Secretary of the Central Committee of the Communist Party of Vietnam (6th tenure), former Head of the Central Internal Affairs Commission, former Standing Deputy Secretary of Ho Chi Minh City and Hanoi Party Committees, a veteran revolutionary leader and the "mentor of Vietnamese intelligence legends" (who personally scouted, nurtured, and directed Pham Xuan An, Vu Ngoc Nha, Le Huu Thuy...), passed away at Thong Nhat Hospital (Ho Chi Minh City) at the age of 95. A State-level funeral was solemnized in his honor. [Source: Special Communique of the Central Committee of the Communist Party, National Assembly, State President, Government, Central Committee of the Fatherland Front on Jun. 12, 2020; VietnamPlus - Comrade Tran Quoc Huong passes away, https://www.vietnamplus.vn/dong-chi-tran-quoc-huong-tu-tran-post645859.vnp; Nhan Dan Newspaper - Comrade Tran Quoc Huong, a Staunch and Pure Heart, https://nhandan.vn/dong-chi-tran-quoc-huong-mot-tam-long-kien-trung-trong-sang-post605481.html]
+
+![Historical Image](images/event_20261027_100204_1.webp)
+
+*Source: Portrait of Comrade Tran Quoc Huong (Muoi Huong), former Secretary of the Party Central Committee, former Head of the Central Internal Affairs Commission, veteran revolutionary leader and legendary commander of Vietnamese intelligence / Vietnam News Agency / VTV*
+
+<!-- id: EVT-3495 -->
 *   **Aug. 1, 2020:** The EVFTA Agreement officially took effect. [Source: Joint Communique of Ministry of Industry and Trade and EU Delegation on EVFTA Entering into Force, Aug. 1, 2020; Nhan Dan Newspaper]
 
 <!-- id: EVT-3283 -->

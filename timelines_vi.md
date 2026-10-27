@@ -7646,6 +7646,12 @@
 *Nguồn: Chân dung Thiếu tướng tình báo Vũ Ngọc Nhạ (Vũ Xuân Nhã, 1928–2002, biệt danh "Ông Cố vấn"), người đã mang vỏ bọc giáo dân Công giáo Phát Diệm di cư trong làn sóng "Bắc 54" để thâm nhập vào Phủ Tổng thống Sài Gòn và chỉ huy lưới tình báo chiến lược A22 (ảnh tư liệu lịch sử, Wikimedia Commons, CC0).*
 
 <!-- id: EVT-3486 -->
+*   **Cuối năm 1954:** Chấp hành chỉ thị của Cục Nghiên cứu (Bộ Tổng Tham mưu), cán bộ tình báo quân sự Đặng Trần Đức (bí danh Ba Quốc, sinh năm 1922 tại Thanh Trì, Hà Nội) gác lại hạnh phúc gia đình, chia tay người vợ trẻ và hai con nhỏ ở hậu phương để một mình bí mật di cư vào Nam với thân phận mới mang tên Đặng Văn Duy (sau đổi thành Nguyễn Văn Tá). Bằng sự mưu trí và nghiệp vụ sắc bén, ông từng bước xây dựng vỏ bọc thâm nhập vào Sở Nghiên cứu Chính trị - Xã hội của Phủ Tổng thống ngụy (do Trần Kim Tuyến đứng đầu), khởi đầu sứ mệnh điệp báo đơn tuyến huyền thoại kéo dài hơn 20 năm ngay trong lòng sào huyệt ngụy quyền Sài Gòn. [Nguồn: Báo Nhân Dân - Nhà tình báo Đặng Trần Đức: Một đời thổi lửa, https://nhandan.vn/nha-tinh-bao-dang-tran-duc-mot-doi-thoi-lua-post581699.html; Báo Công an nhân dân - Thiếu tướng Đặng Trần Đức: Những chiến công huyền thoại, https://cand.com.vn/Nhung-tam-guong-sang/Thieu-tuong-Dang-Tran-Duc-Nhung-chien-cong-huyen-thoai-i294247/]
+
+<!-- id: EVT-3491 -->
+*   **Cuối năm 1954:** Đồng chí Trần Quốc Hương (Mười Hương, tên thật là Trần Ngọc Ban, nguyên Thư ký của Tổng Bí thư Trường Chinh) được Chủ tịch Hồ Chí Minh và Ban Bí thư Trung ương Đảng trực tiếp giao nhiệm vụ vào Nam Bộ để tổ chức và chỉ đạo mạng lưới tình báo chiến lược trực thuộc Ban Địch tình Xứ ủy Nam Bộ. Bằng nhãn quan chính trị sắc bén và tài năng tổ chức kiệt xuất, ông được coi là "kiến trúc sư trưởng", người thầy trực tiếp phát hiện, giác ngộ, bồi dưỡng và chỉ đạo các nhà tình báo huyền thoại của cách mạng Việt Nam như Phạm Xuân Ẩn (Hai Trung), Vũ Ngọc Nhạ (Hai Long), Lê Hữu Thúy... hoạt động bền bỉ, cài cắm sâu vào các cơ quan đầu não ngụy quân, ngụy quyền Sài Gòn và bộ máy tình báo đối phương. [Nguồn: Báo Nhân Dân - Đồng chí Trần Quốc Hương, một tấm lòng kiên trung, trong sáng, https://nhandan.vn/dong-chi-tran-quoc-huong-mot-tam-long-kien-trung-trong-sang-post605481.html; Báo Công an nhân dân - Mười Hương: Người thầy của những nhà tình báo huyền thoại, https://cand.com.vn/Phong-su-Tu-lieu/Muoi-Huong-Nguoi-thay-cua-nhung-nha-tinh-bao-huyen-thoai-i435987/]
+
+<!-- id: EVT-3492 -->
 *   **29/12/1954:** Pháp ký hiệp ước trao toàn bộ quyền hành chính ở miền Nam Việt Nam cho Ngô Đình Diệm. [Nguồn: Bảo tàng Lịch sử Quốc gia - Pháp ký hiệp ước trao quyền miền Nam (29/12/1954), https://baotanglichsu.vn/vi/Articles/3097/16688/phap-ky-hiep-uoc-trao-quyen-mien-nam-29-12-1954.html]
 
 <!-- id: EVT-2088 -->
@@ -7850,6 +7856,9 @@
 *   **1958:** Alăng Bhuôch xin tham gia đoàn dân công hỏa tuyến do huyện Tây Giang phát động; dẫu bị từ chối ban đầu vì mù cả hai mắt, ông đã thuyết phục được Bí thư Huyện ủy Bríu Brăm và chỉ huy đoàn dân công A Lăng Bhốc bằng câu nói "cái mắt mình chết, nhưng mình không chết", rồi bắt đầu gùi lương thực, vũ khí từ khe Tà Coo về trạm suối Plách (xã A Vương), mở đầu 14 năm phục vụ dân công trên Trường Sơn. [Nguồn: Báo Công an nhân dân, "A Lăng Bhuốch cõng hàng chục tấn hàng với con mắt gậy tre", 07/06/2009, https://cand.vn/a-lang-bhuoch-cong-hang-chuc-tan-hang-voi-con-mat-gay-tre-post295586.html]
 
 <!-- id: EVT-3462 -->
+*   **1958:** Tại cơ quan mật vụ Sở Nghiên cứu Chính trị - Xã hội ngụy, nhà tình báo Đặng Trần Đức (Ba Quốc) đã mưu trí mở tủ tài liệu tuyệt mật trong phòng làm việc của Trưởng phòng Tình hình Nguyễn Văn Giàu, phát hiện tập hồ sơ tối mật mang tên "Stay behind in North Vietnam" ghi danh sách chi tiết các mạng lưới, điệp viên và tổ chức gián điệp do Mỹ và ngụy quyền Sài Gòn cài cắm lại miền Bắc sau năm 1954. Do không có máy ảnh tại chỗ, ông kiên trì chép tay từng phần toàn bộ hồ sơ trong nhiều ngày rồi chuyển an toàn ra căn cứ cách mạng, giúp lực lượng an ninh và tình báo Việt Nam Dân chủ Cộng hòa kịp thời bóc gỡ, triệt phá toàn bộ các mạng lưới gián điệp, biệt kích cài lại của ngụy quân, ngụy quyền. [Nguồn: Báo Công an nhân dân - Vị tướng tình báo Ba Quốc và chuyến đi không thể nào quên, https://cand.com.vn/Tu-lieu-quoc-te/Vi-tuong-tinh-bao-Ba-Quoc-va-chuyen-di-khong-the-nao-quen-i435985/; Báo Công an nhân dân - Thiếu tướng Đặng Trần Đức: Những chiến công huyền thoại, https://cand.com.vn/Nhung-tam-guong-sang/Thieu-tuong-Dang-Tran-Duc-Nhung-chien-cong-huyen-thoai-i294247/]
+
+<!-- id: EVT-3494 -->
 *   **02/1958:** Ngư dân Trung Quốc cố gắng đến định cư ở phần phía Tây của quần đảo Hoàng Sa nhưng không thành công. [Nguồn: Nghị quyết số 15-NQ/TW của Ban Chấp hành Trung ương Đảng khóa II; Văn kiện Đảng Toàn tập, tập 20, NXB Chính trị quốc gia, Hà Nội, 2002]
 
 <!-- id: EVT-2141 -->
@@ -7866,6 +7875,13 @@
 *   **05/05/1958:** Bằng Tổ quốc ghi công được cấp cho liệt sĩ Nguyễn Văn Lượm, chính thức ghi nhận sự hy sinh anh dũng của ông cho nền độc lập của đất nước. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Kháng chiến chống Mỹ cứu nước (1954 - 1975), tập 1, NXB Chính trị quốc gia, Hà Nội, 2013]
 
 <!-- id: EVT-2144 -->
+*   **06/1958:** Đồng chí Trần Quốc Hương (Mười Hương, tên thật là Trần Ngọc Ban, cán bộ phụ trách mạng lưới tình báo chiến lược miền Nam) bị Đoàn Công tác Đặc biệt Miền Trung của Ngô Đình Cẩn bắt giữ tại Sài Gòn, sau đó bị áp giải ra giam tại Tòa Khâm và Trại giam Chín Hầm (Huế) - nơi được mệnh danh là "địa ngục trần gian" của chế độ ngụy quyền gia đình trị họ Ngô. Dưới các đòn tra tấn dã man và nhiều lần trực tiếp bị Ngô Đình Nhu, Ngô Đình Cẩn thẩm vấn, dụ dỗ, ông kiên cường giữ trọn khí tiết người cộng sản dưới tên giả Trần Ngọc Trí, không hé lộ bất cứ đầu mối tổ chức nào, bảo vệ an toàn tuyệt đối cho toàn bộ mạng lưới tình báo chiến lược và các điệp viên chủ chốt (trong đó có Phạm Xuân Ẩn, Vũ Ngọc Nhạ...). [Nguồn: Báo Nhân Dân - Đồng chí Trần Quốc Hương, một tấm lòng kiên trung, trong sáng, https://nhandan.vn/dong-chi-tran-quoc-huong-mot-tam-long-kien-trung-trong-sang-post605481.html; Báo Công an nhân dân - Nhà tình báo chiến lược Mười Hương và bản lĩnh trong lao tù Mỹ - Diệm, https://cand.com.vn/Phong-su-Tu-lieu/Nha-tinh-bao-chien-luoc-Muoi-Huong-va-ban-linh-trong-lao-tu-My---Diem-i392576/]
+
+![Hình ảnh tư liệu](images/event_20261027_100204.webp)
+
+*Nguồn: Di tích hầm số 8 tại Khu chứng tích Chín Hầm (Huế) - nơi ngụy quyền Ngô Đình Cẩn giam giữ, đày ải nhà tình báo Trần Quốc Hương (Mười Hương) và các chiến sĩ cách mạng kiên trung / Lưu Ly / Wikimedia Commons (CC BY 3.0)*
+
+<!-- id: EVT-3493 -->
 *   **07/1958:** Tại Đại hội liên hoan Anh hùng, chiến sĩ thi đua công-nông-binh lần thứ II, bác sĩ Phạm Ngọc Thạch được tuyên dương danh hiệu Anh hùng Lao động, trở thành Anh hùng Lao động đầu tiên của ngành y tế. [Nguồn: Bác sĩ Phạm Ngọc Thạch - Bộ trưởng Y tế đầu tiên, người thầy thuốc vì nhân dân (TTXVN), https://nvsk.vnanet.vn/print/bac-si-pham-ngoc-thach-bo-truong-y-te-dau-tien-nguoi-thay-thuoc-vi-nhan-dan-142101.vna]
 
 <!-- id: EVT-3476 -->
@@ -11076,7 +11092,11 @@
 *   **30/01/2004:** Hội VAVA thay mặt các nạn nhân đệ đơn kiện 37 công ty hóa chất Hoa Kỳ đã sản xuất chất độc da cam/dioxin sử dụng trong chiến tranh tại Việt Nam lên tòa án liên bang Mỹ, nhằm đòi công lý và bồi thường cho hàng triệu nạn nhân. [Nguồn: Đơn kiện của Hội Nạn nhân chất độc da cam/dioxin Việt Nam tại Tòa án Sơ thẩm Liên bang Quận Đông New York ngày 30/01/2004; Báo Nhân Dân số ra ngày 01/02/2004]
 
 <!-- id: EVT-3038 -->
-*   **26/03/2004:** Thiếu tướng, Anh hùng Lực lượng vũ trang nhân dân Đặng Trần Đức (bí danh Ba Quốc, nguyên Cục trưởng Cục 12 - Tổng cục Tình báo Quốc phòng, nhà tình báo chiến lược huyền thoại từng thâm nhập sâu vào Phủ Đặc ủy Trung ương Tình báo và Sở Nghiên cứu Chính trị - Xã hội của Việt Nam Cộng hòa) từ trần tại Hà Nội, thọ 82 tuổi. [Nguồn: Thông cáo của Bộ Quốc phòng và Tổng cục Tình báo Quốc phòng ngày 26/03/2004; Báo Quân đội nhân dân số ra ngày 28/03/2004; Báo Nhân Dân]
+*   **26/03/2004:** Thiếu tướng, Anh hùng Lực lượng vũ trang nhân dân Đặng Trần Đức (bí danh Ba Quốc, nguyên Cục trưởng Cục 12 - Tổng cục Tình báo Quốc phòng, nhà tình báo chiến lược huyền thoại từng thâm nhập sâu vào Phủ Đặc ủy Trung ương Tình báo và Sở Nghiên cứu Chính trị - Xã hội của ngụy quyền Sài Gòn) từ trần tại Hà Nội, thọ 82 tuổi. [Nguồn: Thông cáo của Bộ Quốc phòng và Tổng cục Tình báo Quốc phòng ngày 26/03/2004; Báo Quân đội nhân dân số ra ngày 28/03/2004; Báo Nhân Dân]
+
+![Hình ảnh tư liệu](images/event_20261027_100203.webp)
+
+*Nguồn: Chân dung Thiếu tướng, Anh hùng Lực lượng vũ trang nhân dân Đặng Trần Đức (Ba Quốc) / Andylahistory / Wikimedia Commons (CC0)*
 
 <!-- id: EVT-3039 -->
 *   **10 - 11/04/2004:** Tái diễn các cuộc biểu tình gây rối quy mô lớn của người Thượng tại Đắk Lắk và Gia Lai vào dịp Lễ Phục sinh đòi đất đai và thành lập cái gọi là "Nhà nước Đề Ga". [Nguồn: Báo cáo của UBND tỉnh Gia Lai và Đắk Lắk về tình hình an ninh trật tự tháng 04/2004; Báo Nhân Dân số ra ngày 14/04/2004; Báo Công an nhân dân]
@@ -11934,6 +11954,13 @@
 *   **Đầu năm 2020:** Trong bối cảnh đại dịch COVID-19 bùng phát, Cuba lập tức gửi tặng Việt Nam lô thuốc điều trị đủ cho 1.000 bệnh nhân và cử chuyên gia y tế sang hỗ trợ. Cuba cũng sẵn sàng chuyển giao công nghệ sản xuất vaccine COVID-19 cho Việt Nam. [Nguồn: Bộ Y tế, Lễ tiếp nhận thuốc Interferon Alfa 2B do Chính phủ Cuba trao tặng Việt Nam; Bộ Ngoại giao, 60 năm quan hệ đặc biệt Việt Nam - Cuba, 2020; Báo Nhân Dân]
 
 <!-- id: EVT-3282 -->
+*   **11/06/2020:** Đồng chí Trần Quốc Hương (tên thật là Trần Ngọc Ban, bí danh Mười Hương; sinh ngày 20/12/1924 tại huyện Bình Lục, tỉnh Hà Nam), nguyên Bí thư Trung ương Đảng khóa VI, nguyên Trưởng Ban Nội chính Trung ương, nguyên Phó Bí thư Thường trực Thành ủy TP. Hồ Chí Minh và Hà Nội, nhà cách mạng tiền bối và "người thầy của những huyền thoại tình báo" Việt Nam (người trực tiếp phát hiện, bồi dưỡng và chỉ đạo Phạm Xuân Ẩn, Vũ Ngọc Nhạ, Lê Hữu Thúy...), từ trần tại Bệnh viện Thống Nhất (TP. Hồ Chí Minh), thọ 95 tuổi (hưởng thọ 97 tuổi). Lễ tang được tổ chức trọng thể theo nghi thức Lễ tang cấp Nhà nước. [Nguồn: Thông cáo đặc biệt của Ban Chấp hành Trung ương Đảng, Quốc hội, Chủ tịch nước, Chính phủ, Ủy ban Trung ương MTTQ Việt Nam ngày 12/06/2020; VietnamPlus - Đồng chí Trần Quốc Hương từ trần, https://www.vietnamplus.vn/dong-chi-tran-quoc-huong-tu-tran-post645859.vnp; Báo Nhân Dân - Đồng chí Trần Quốc Hương, một tấm lòng kiên trung, trong sáng, https://nhandan.vn/dong-chi-tran-quoc-huong-mot-tam-long-kien-trung-trong-sang-post605481.html]
+
+![Hình ảnh tư liệu](images/event_20261027_100204_1.webp)
+
+*Nguồn: Chân dung đồng chí Trần Quốc Hương (Mười Hương), nguyên Bí thư Trung ương Đảng, nguyên Trưởng Ban Nội chính Trung ương, nhà cách mạng tiền bối và người chỉ huy huyền thoại của ngành tình báo Việt Nam / Thông tấn xã Việt Nam / VTV*
+
+<!-- id: EVT-3495 -->
 *   **01/08/2020:** Hiệp định EVFTA chính thức có hiệu lực. [Nguồn: Thông cáo của Bộ Công Thương và Phái đoàn Liên minh châu Âu tại Việt Nam về việc Hiệp định EVFTA chính thức có hiệu lực từ ngày 01/08/2020; Báo Nhân Dân]
 
 <!-- id: EVT-3283 -->
