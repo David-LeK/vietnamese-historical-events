@@ -303,6 +303,16 @@
 *Nguồn: Tượng quan Thái thú Tô Định thời Đông Hán. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-0061 -->
+*   **Khoảng năm 38:** Nữ tướng Lê Chân (người làng Vẻn, An Biên, huyện Đông Triều) do kiên quyết cự tuyệt làm thiếp cho quan lại nhà Đông Hán và sau khi cha mẹ bị sát hại, đã cùng thân quyến và nghĩa dân xuôi dòng sông Cấm về vùng bãi bồi duyên hải khai hoang, quai đê lấn biển lập nên trang An Biên (tiền thân của thành phố Hải Phòng ngày nay). Tại đây, bà phát triển nông - ngư nghiệp, chiêu mộ dân lưu tán, tích lũy lương thảo và bí mật rèn đúc vũ khí, tập hợp nghĩa binh chờ ngày dấy cờ chống lại ách đô hộ của nhà Đông Hán. [Nguồn: Khai mạc Lễ hội truyền thống Nữ tướng Lê Chân tại thành phố Hải Phòng, https://www.vietnamplus.vn/khai-mac-le-hoi-truyen-thong-nu-tuong-le-chan-tai-thanh-pho-hai-phong-post935084.vnp]
+
+![Tượng đài Nữ tướng Lê Chân](images/event_20261029_121405.webp)
+
+*Nguồn: Tượng đài Nữ tướng Lê Chân tại dải trung tâm thành phố Hải Phòng. Ảnh: Tycho / Wikimedia Commons (CC BY-SA 3.0)*
+
+<!-- id: EVT-3532 -->
+*   **Năm 39:** Thái thú quận Giao Chỉ là Tô Định dùng mưu sát hại Thi Sách (con trai Lạc tướng huyện Chu Diên, chồng của Trưng Trắc) nhằm đàn áp phong trào phản kháng và bẻ gãy khối liên minh chống Hán của các thủ lĩnh Lạc tướng người Lạc Việt. Hành vi bạo ngược của Tô Định đã trở thành ngòi nổ trực tiếp thổi bùng ngọn lửa căm thù, thôi thúc Trưng Trắc cùng em gái là Trưng Nhị quyết tâm phất cờ khởi nghĩa đền nợ nước, trả thù nhà. [Nguồn: Hoàng thành Thăng Long, Chuyện kể về Hai Bà Trưng, https://hoangthanhthanglong.vn/chuyen-ke-ve-hai-ba-trung/]
+
+<!-- id: EVT-3533 -->
 *   **40:** Hai Bà Trưng dấy binh khởi nghĩa, giành lại độc lập. Trưng Trắc lên ngôi vua, đóng đô ở Mê Linh. [Nguồn: Khởi nghĩa Hai Bà Trưng và kháng chiến chống Đông Hán (40-43), https://nvsk.vnanet.vn/khoi-nghia-hai-ba-trung-va-khang-chien-chong-dong-han-40-43-1-34961.vna]
 
 ![Hình ảnh tư liệu](images/event_20260923_122130.webp)
@@ -324,6 +334,9 @@
 *Nguồn: Đền thờ Hai Bà Trưng (Mê Linh, Hà Nội) / Origin Vietnam*
 
 <!-- id: EVT-0064 -->
+*   **13/07/43:** Sau khi Hai Bà Trưng tuẫn tiết trên sông Hát trước cuộc tấn công áp đảo của quân xâm lược Đông Hán do Mã Viện chỉ huy, Nữ tướng Lê Chân dẫn nghĩa quân lui về vùng rừng núi hiểm trở Lạt Sơn (nay thuộc huyện Kim Bảng, tỉnh Hà Nam) củng cố căn cứ địa phòng thủ và tổ chức các trận đánh chặn tiêu hao sinh lực địch. Khi bị giặc dốc toàn lực bao vây và thế cùng lực kiệt, Nữ tướng Lê Chân cùng các nghĩa binh trung kiên đã kiên cường chiến đấu đến cùng rồi gieo mình xuống vực núi Giát Dâu (núi Giát) tuẫn tiết vào ngày 13 tháng 7 năm Quý Mão để giữ trọn khí tiết anh hùng. [Nguồn: Báo Nhân Dân, Di tích lịch sử căn cứ địa Lạt Sơn đón nhận Bằng xếp hạng Di tích cấp quốc gia, https://nhandan.vn/di-tich-lich-su-can-cu-dia-lat-son-don-nhan-bang-xep-hang-di-tich-cap-quoc-gia-post769457.html]
+
+<!-- id: EVT-3534 -->
 *   **Năm 44:** Sau khi đàn áp cuộc khởi nghĩa Hai Bà Trưng, Mã Viện tiến hành bãi bỏ chế độ thế tập của các Lạc tướng, đàn áp các cuộc nổi dậy còn sót lại của người Lạc Việt tại huyện Tây Vu, đồng thời chia Tây Vu thành hai huyện Phong Khê và Vọng Hải nhằm siết chặt chế độ cai trị trực tiếp của nhà Đông Hán. [Nguồn: Truyền thuyết về cột đồng Mã Viện ở núi Lam Thành là hoang đường, https://vusta.vn/truyen-thuyet-ve-cot-dong-ma-vien-o-nui-lam-thanh-la-hoang-duong-p73044.html]
 
 <!-- id: EVT-0065 -->

@@ -303,6 +303,16 @@
 *Source: Statue of Han governor To Dinh. Photo: Wikimedia Commons*
 
 <!-- id: EVT-0061 -->
+*   **c. 38:** Female general Le Chan (from Ven village, An Bien, Dong Trieu district), having resolutely refused to become a concubine to an Eastern Han official and suffered the tragic execution of her parents, led her relatives and followers down the Cam River to coastal mudflats to reclaim marshes, build dikes against the sea, and establish An Bien estate (the historical predecessor of modern Hai Phong). There, she developed agriculture and fishing, recruited refugees, accumulated provisions, and covertly forged weapons to train a volunteer militia for eventual resistance against Eastern Han rule. [Source: Traditional festival dedicated to female general Le Chan opens in Hai Phong, https://www.vietnamplus.vn/khai-mac-le-hoi-truyen-thong-nu-tuong-le-chan-tai-thanh-pho-hai-phong-post935084.vnp]
+
+![Monument to female general Le Chan](images/event_20261029_121405.webp)
+
+*Source: Monument to female general Le Chan in downtown Hai Phong. Photo: Tycho / Wikimedia Commons (CC BY-SA 3.0)*
+
+<!-- id: EVT-3532 -->
+*   **39:** Su Ding, the Eastern Han governor of Jiaozhi, plotted and executed Thi Sach (son of the Lac general of Chu Dien and husband of Trung Trac) to suppress growing unrest and break the anti-Han alliance forged among local Lac lord families. However, Su Ding's brutality failed to intimidate the Lac Viet people; instead, it served as the direct catalyst that ignited widespread outrage, spurring Trung Trac and her sister Trung Nhi to raise the banner of rebellion to avenge both national sovereignty and family honor. [Source: Imperial Citadel of Thang Long, The Story of the Trung Sisters, https://hoangthanhthanglong.vn/chuyen-ke-ve-hai-ba-trung/]
+
+<!-- id: EVT-3533 -->
 *   **40:** The Trung Sisters launched an uprising, regaining independence. Trung Trac ascended to the throne as queen, establishing the capital at Me Linh. [Source: Trung Sisters (d. 43 CE), https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/trung-sisters-d-43-ce]
 
 ![Historical Image](images/event_20260923_122130.webp)
@@ -324,6 +334,9 @@
 *Source: Hai Ba Trung Temple (Me Linh, Hanoi) / Origin Vietnam*
 
 <!-- id: EVT-0064 -->
+*   **July 13, 43:** Following the martyrdom of the Trung Sisters in the Hat River amidst the overwhelming assault by Eastern Han invasion forces led by Ma Yuan, female general Le Chan led her troops to the rugged mountain stronghold of Lat Son (present-day Kim Bang district, Ha Nam province) to fortify a defense perimeter and conduct persistent resistance. Heavily surrounded and facing insurmountable odds, Le Chan and her loyal fighters resisted to the last before she leaped from the precipice of Giat Dau Mountain (Mount Giat) on July 13 of the Quy Mao year (43 AD) to preserve her unyielding honor. [Source: Nhan Dan Newspaper, Lat Son Base historical relic site receives National Relic ranking Certificate, https://nhandan.vn/di-tich-lich-su-can-cu-dia-lat-son-don-nhan-bang-xep-hang-di-tich-cap-quoc-gia-post769457.html]
+
+<!-- id: EVT-3534 -->
 *   **44:** Following the suppression of the Trung Sisters' uprising, Ma Yuan abolished the hereditary rule of the Lac generals (Lac lords), crushed remaining Lac Viet insurgencies in Tay Vu county, and divided Tay Vu into Phong Khe and Vong Hai counties to enforce direct Han imperial administration. [Source: On the Legend of Ma Yuan Bronze Pillar at Lam Thanh Mountain, https://vusta.vn/truyen-thuyet-ve-cot-dong-ma-vien-o-nui-lam-thanh-la-hoang-duong-p73044.html]
 
 <!-- id: EVT-0065 -->
