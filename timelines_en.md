@@ -5489,6 +5489,9 @@
 *   **Jun. 30, 1925:** Phan Boi Chau was kidnapped by French colonialists in Shanghai. [Source: Vietnam National Museum of History - Solemn 84th Anniversary Memorial of Patriot Phan Boi Chau, https://baotanglichsu.vn/vi/Articles/3091/75017/trang-trong-le-gio-lan-thu-84-cua-chi-si-yeu-nuoc-phan-boi-chau.html]
 
 <!-- id: EVT-1512 -->
+*   **Jul. 14, 1925:** At Quyet Mountain (Vinh, Nghe An province), Comrade Ton Quang Phiet alongside patriotic youth and intellectuals (Dang Thai Mai, Le Van Huan, Tran Phu) clandestinely founded the Phuc Viet Association (later renamed Hung Nam, predecessor of the Tan Viet Revolutionary Party), mobilizing youth and students to campaign for Phan Boi Chau's release and organize memorials for Phan Chau Trinh. [Source: Vietnam National Museum of History - Comrade Ton Quang Phiet, https://baotanglichsu.vn/vi/Articles/3096/13065/ton-quang-phiet.html]
+
+<!-- id: EVT-3497 -->
 *   **Aug. 1925:** A strike by over 1,000 workers at the Ba Son shipyard (Saigon), led by Ton Duc Thang, delayed the repair of the French battleship Jules Michelet. [Source: The 1925 Ba Son Strike (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13907/bai-cong-ba-son.html]
 
 <!-- id: EVT-1513 -->
@@ -5612,7 +5615,7 @@
 *   **Feb. 9, 1929:** The labor recruiter Bazin was assassinated in Hanoi by a member of the Vietnamese Nationalist Party, leading to a wave of white terror. [Source: History of Vietnam (Vol. 8: 1919–1930), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1549 -->
-*   **Mar. 1929:** The first Communist cell was established at 5D Ham Long Street, Hanoi. [Source: Vietnam National Museum of History - Revolutionary Relic at 5D Ham Long: Site of the First Communist Cell in Vietnam, March 1929, https://baotanglichsu.vn/vi/Articles/3097/15896/di-tich-cach-mang-nha-so-5d-ham-long-noi-thanh-lap-chi-bo-cong-san-djau-tien-o-viet-nam-vao-thang-3-nam-1929.html]
+*   **Mar. 1929:** The first Communist cell in Vietnam was established at 5D Ham Long Street (Hanoi) comprising seven prominent members of the Tonkin regional branch of the Vietnamese Revolutionary Youth League (Trinh Dinh Cuu, Ngo Gia Tu, Tran Van Cung, Nguyen Duc Canh, Do Ngoc Du, Duong Hac Dinh, and Nguyen Tuan; with Tran Van Cung as secretary), initiating a historic turning point toward the formation of a proletarian vanguard party. [Source: Vietnam National Museum of History - Revolutionary Relic at 5D Ham Long: Site of the First Communist Cell in Vietnam, March 1929, https://baotanglichsu.vn/vi/Articles/3097/15896/di-tich-cach-mang-nha-so-5d-ham-long-noi-thanh-lap-chi-bo-cong-san-djau-tien-o-viet-nam-vao-thang-3-nam-1929.html]
 
 <!-- id: EVT-1550 -->
 *   **May 1-9, 1929:** The first congress of the Vietnamese Revolutionary Youth League was held in Hong Kong. [Source: History of Vietnam (Vol. 8: 1919–1930), Social Sciences Publishing House, Hanoi, 2017]
@@ -5621,6 +5624,13 @@
 *   **Jun. 17, 1929:** The Indochinese Communist Party was founded in Hanoi. [Source: Vietnam National Museum of History - June 17, 1929: Establishment of the Indochinese Communist Party, https://baotanglichsu.vn/vi/Articles/3097/19278/17-6-1929-thanh-lap-djong-duong-cong-san-djang.html]
 
 <!-- id: EVT-1552 -->
+*   **Jul. 28, 1929:** At 15 Hang Non Street (Hanoi), the founding Congress of the Tonkin Red Trade Union Federation (predecessor of the Vietnam General Confederation of Labour) was convened, chaired by Comrade Nguyen Duc Canh; the Congress elected a Provisional Executive Committee with Nguyen Duc Canh as its first General Secretary, adopted its charter, and decided to publish the Lao Dong (Labour) newspaper and Cong hoi Do (Red Trade Union) journal, marking a pivotal milestone in the Vietnamese workers' movement (July 28 subsequently became the traditional National Trade Union Day). [Source: Vietnam National Museum of History - July 28, 1929: Founding of the Tonkin Red Trade Union Federation, https://baotanglichsu.vn/vi/Articles/3097/19329/28-7-1929-thanh-lap-tong-cong-hoi-djo-bac-ky.html]
+
+![Historical Image](images/event_20261029_104247.webp)
+
+*Source: Portrait of Comrade Nguyen Duc Canh (1908–1932), first General Secretary of the Tonkin Red Trade Union Federation. Photo: Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3498 -->
 *   **Nov. 15, 1929:** The Annamese Communist Party was founded in Cochinchina. [Source: Vietnam National Museum of History - 84th Anniversary of the Founding of the Annamese Communist Party (Sep. 1929-Sep. 2013), https://baotanglichsu.vn/vi/Articles/3097/15139/ky-niem-84-nam-thanh-lap-an-nam-cong-san-djang-9-1929-9-2013.html]
 
 <!-- id: EVT-1553 -->
@@ -5656,7 +5666,7 @@
 *   **Feb. 2, 1930:** Tran Tu Binh led the uprising of over 5,000 rubber plantation workers in Phu Rieng ("Red Phu Rieng"), one of the first major strike movements of the working class led by a communist cell. [Source: https://antg.cand.com.vn/Phong-su/bai-1-phu-rieng-do-i782702]
 
 <!-- id: EVT-1561 -->
-*   **Feb. 3-7, 1930:** The Unification Conference of Vietnamese communist organizations took place in Kowloon (Hong Kong) chaired by Comrade Nguyen Ai Quoc (representing the Comintern), establishing the **Communist Party of Vietnam** and adopting foundational documents drafted by him: the Brief Political Platform, Brief Strategy, Brief Program, and Brief Statutes. [Source: https://baotanglichsu.vn/VI/Articles/3097/17673/djang-cong-san-viet-nam-ra-djoi-buoc-ngoat-lich-su-cua-cach-mang-viet-nam.html]
+*   **Feb. 3-7, 1930:** The Unification Conference of Vietnamese communist organizations convened in Kowloon (Hong Kong) chaired by Comrade Nguyen Ai Quoc (representing the Comintern), with four delegates attending: Trinh Dinh Cuu and Nguyen Duc Canh (representing the Communist Party of Indochina), Chau Van Liem and Nguyen Thieu (representing the Communist Party of Annam). The conference decided to establish the **Communist Party of Vietnam**, adopted the foundational documents drafted by Nguyen Ai Quoc, and appointed a Provisional Central Committee headed by Comrade Trinh Dinh Cuu (serving until October 1930). [Source: Vietnam National Museum of History - The Birth of the Communist Party of Vietnam: A Historic Turning Point, https://baotanglichsu.vn/vi/Articles/3097/17673/djang-cong-san-viet-nam-ra-djoi-buoc-ngoat-lich-su-cua-cach-mang-viet-nam.html]
 
 ![Historical Image](images/event_20260923_125502.webp)
 
@@ -5678,6 +5688,9 @@
 *   **Apr. 13, 1930:** The Governor-General of Indochina dispatched the dispatch boat *La Malicieuse* to the Spratly Islands, where the crew raised the French flag on a high point. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1567 -->
+*   **May 1930:** Following the CPV Unification Conference in Kowloon, Comrade Nguyen Thieu (delegate of the Communist Party of Annam) was dispatched to southern Vietnam, directly organizing and establishing the first Communist cell in Vinh Long province at Long Ho Junction (comprising comrades Nguyen Thieu, Nguyen Van Nhung, and Nguyen Van Thiet; with Nguyen Van Nhung as secretary), initiating a vibrant revolutionary movement across Vinh Long. [Source: Vietnam National Museum of History - Comrade Nguyen Thieu, https://baotanglichsu.vn/vi/Articles/3096/13068/nguyen-thieu.html]
+
+<!-- id: EVT-3499 -->
 *   **May 1, 1930:** For the first time, widespread struggles of workers and peasants broke out across the country to celebrate International Workers' Day, marking the beginning of the 1930-1931 revolutionary high tide. [Source: https://nhandan.vn/suc-soi-mot-phong-trao-cach-mang-post414408.html]
 
 <!-- id: EVT-1568 -->
@@ -5687,6 +5700,13 @@
 *   **May 31, 1930:** The French government issued a decree confirming the gold standard for the Indochinese piaster, ending the silver standard. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1570 -->
+*   **Jun. 4, 1930:** Comrade Chau Van Liem (former delegate of the Communist Party of Annam at the CPV Founding Conference, Secretary of the Gia Dinh Provincial Party Committee) directly led a historic demonstration of over 1,000 peasants in Duc Hoa district (Cho Lon province) marching on the district office to demand tax reductions and debt relief; confronting the mass mobilization, French colonial authorities opened fire violently, and Comrade Chau Van Liem heroically sacrificed his life on the front line at Giong Lon junction, exemplifying unwavering communist courage. [Source: Long An Newspaper - The June 4, 1930 Demonstration in Duc Hoa and the Revolutionary Flame in Long An, https://baolongan.vn/cuoc-bieu-tinh-ngay-04-6-1930-o-duc-hoa-va-ngon-lua-cach-mang-tai-long-an-a96489.html]
+
+![Historical Image](images/event_20261029_104248.webp)
+
+*Source: Monument to Comrade Chau Van Liem in O Mon, Can Tho. Photo: Wikimedia Commons (CC BY-SA 4.0)*
+
+<!-- id: EVT-3500 -->
 *   **Jun. 17, 1930:** Nguyen Thai Hoc and 12 other comrades of the Vietnamese Nationalist Party were executed in Yen Bai. [Source: https://baophutho.vn/nho-nguyen-thai-hoc-nguoi-da-thanh-nhan-247446.htm]
 
 ![Historical Image](images/event_20260923_225159.webp)
@@ -5775,6 +5795,9 @@
 *   **Jul. 21, 1932:** The Tong Van So Case achieved a decisive legal victory before the Judicial Committee of the Privy Council in London. Thanks to the dedicated and tireless defense mounted by British lawyer Francis Henry Loseby and progressive barristers, the Privy Council rejected the French extradition request and accepted a settlement, compelling Hong Kong authorities to release Tong Van So and allow his safe departure from the colony. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1592 -->
+*   **Jul. 31, 1932:** At Hai Phong Prison, French colonial authorities executed by guillotine two resolute pioneer Party leaders, Comrade Nguyen Duc Canh (Standing Committee Member of the Tonkin Regional Party Committee, Secretary of the Annam Regional Party Committee, former General Secretary of the Tonkin Red Trade Union Federation) and Comrade Ho Ngoc Lan; before the guillotine blade, Nguyen Duc Canh heroically shouted revolutionary slogans, preserving unabated communist integrity until his final breath. [Source: Lao Dong Newspaper - Comrade Nguyen Duc Canh: Exemplary Model of Steadfast Communist Integrity, https://laodong.vn/cong-doan/dong-chi-nguyen-duc-canh-tam-guong-nguoi-cong-san-kien-trung-1008082.ldo]
+
+<!-- id: EVT-3501 -->
 *   **Aug. 16, 1932:** Emperor Bao Dai returned to the country to take up his reign after studying in France. [Source: Vietnam National Museum of History - Bao Dai: The Last Emperor of the Nguyen Dynasty, https://baotanglichsu.vn/vi/Articles/3098/15282/bao-djia-vi-vua-cuoi-cung-cua-trieu-nguyen.html]
 
 <!-- id: EVT-1593 -->
@@ -5816,6 +5839,9 @@
 *   **Dec. 21, 1933:** Governor of Cochinchina Jean-Félix Krautheimer signed **Decree No. 4702-CP** officially annexing the Spratly Islands (including Itu Aba, Southwest Cay, Northeast Cay, Thitu, Loaita, Namyit, and adjacent reefs) into Ba Ria Province. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagoes, Hanoi, 1982]
 
 <!-- id: EVT-1603 -->
+*   **Dec. 24, 1933:** At the Xuan Lieu execution grounds (Nam Dan district, Nghe An province), French colonial authorities executed pioneer revolutionary Le Hong Son (founding member of Tam Tam Xa, Central Committee member of the Vietnamese Revolutionary Youth League, and Whampoa Military Academy graduate); following years of overseas revolutionary activism and brutal torture in colonial prisons, he remained unwaveringly steadfast in his patriotic devotion before falling. [Source: Vietnam National Museum of History - Comrade Le Hong Son, https://baotanglichsu.vn/vi/Articles/3096/13058/le-hong-son.html]
+
+<!-- id: EVT-3502 -->
 *   **1934 - 1935:** Nguyen Son (Hong Thuy) became the only Vietnamese soldier to participate in the historic 10,000 km Long March of the Chinese People's Liberation Army. [Source: Ministry of National Defense, Two-Nation General Nguyen Son, People's Army Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-1604 -->
@@ -6030,7 +6056,7 @@
 *   **11/11/1940:** Gifted poet Hàn Mặc Tử passed away from leprosy at the Quy Hòa leprosarium (Quy Nhơn, Bình Định) at the age of 28, leaving behind immortal poetic masterpieces including *Đau thương* (*Mad Poetry*), *Xuân như ý*, *Đây thôn Vĩ Dạ*, and *Mùa xuân chín*. [Source: Dictionary of Literature (New Edition), The Gioi Publishers, Hanoi, 2004]
 
 <!-- id: EVT-1670 -->
-*   **Nov. 23, 1940:** The Nam Ky Uprising broke out across many southern provinces but was brutally suppressed by the French colonialists. Amid the fervor of the uprising, the red flag with a five-pointed gold star (designed by revolutionary fighter Nguyen Huu Tien) made its first public appearance, fluttering proudly atop a tree in front of Long Hung communal house (Chau Thanh, My Tho - now Tien Giang, headquarters of the Uprising Committee), becoming a sacred symbol summoning the indomitable revolutionary spirit of the nation. [Source: The Nam Ky Uprising (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13911/khoi-nghia-nam-ky.html]
+*   **Nov. 23, 1940:** The Nam Ky Uprising erupted simultaneously across southern provinces. In My Tho, female revolutionary leader Nguyen Thi Thap directly commanded insurgent forces storming enemy posts in Cho Gao and defending the base; amid the fighting, the five-pointed yellow-starred red flag (designed by Nguyen Huu Tien) was hoisted publicly for the first time atop the banyan tree before Long Hung communal house (My Tho), becoming a sacred rallying symbol of the Vietnamese revolution. [Source: Vietnam National Museum of History - The Nam Ky Uprising, https://baotanglichsu.vn/vi/Articles/3098/13911/khoi-nghia-nam-ky.html]
 
 <!-- id: EVT-1671 -->
 *   **1941:** Architect Huynh Tan Phat won first prize in the design competition for the Indochina Exhibition Center in Saigon. [Source: Architect Huynh Tan Phat – Life and Career (Nhan Dan Newspaper), https://nhandan.vn/kien-truc-su-huynh-tan-phat-post738200.html]
@@ -6053,6 +6079,9 @@
 *Source: Mrs. Hoang Thi Khin (center) recounting memories of cooking and delivering rice in bamboo tubes to Coc Bo Cave and Khuoi Nam hut to shelter Uncle Ho ("Old Man Thu" / "Ong Ke") in 1941 to tour guides of the Pac Bo Special National Historical Relic Site, Cao Bang province (Photo: People's Army Newspaper / Dan Tri Newspaper).*
 
 <!-- id: EVT-3487 -->
+*   **Feb. 14, 1941:** In the Khuoi Noi forest (Vu Le commune, Bac Son district, Lang Son province), the 1st National Salvation Army (Cuu Quoc Quan I) — one of the earliest armed predecessors of the Vietnam People's Army — was formally established from veteran guerrilla fighters of the Bac Son Uprising; the 32-member unit was led by Luong Van Tri as commander and Chu Van Tan as deputy commander (later becoming commander), pioneering the development of revolutionary armed resistance bases. [Source: Vietnam National Museum of History - Feb. 14, 1941: Establishment of the 1st National Salvation Army, https://baotanglichsu.vn/vi/Articles/3097/19124/14-2-1941-thanh-lap-djoi-cuu-quoc-quan-i.html]
+
+<!-- id: EVT-3503 -->
 *   **May 10 - 19, 1941:** The 8th Conference of the Party Central Committee in Pac Bo (Cao Bang), chaired by Nguyen Ai Quoc, completed the national liberation line, established the Viet Minh Front, and elected Comrade Truong Chinh as General Secretary. The conference also officially decided to adopt the red flag with a five-pointed gold star as the emblem of the Viet Minh Front, determining that upon national victory it would serve as the National Flag of the future Democratic Republic of Vietnam. At the conference, Comrade Phung Chi Kien was re-elected to the Central Committee and appointed Chief Commander of the Bac Son Base Area, forming and commanding National Rescue Army Unit 1 (Cứu quốc quân 1). [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 ![Historical Image](images/event_20260923_213625.webp)
@@ -6152,9 +6181,22 @@
 *   **Jan. 14, 1944 (Quy Mui year):** Former Emperor Ham Nghi (Nguyen Phuc Ung Lich) – the iconic rallying figure of the patriotic Can Vuong resistance movement – passed away from stomach cancer at Villa Gia Long in El Biar (Algiers, Algeria) after 55 years of dignified anti-colonial exile, aged 72. [Source: Emperor Ham Nghi (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13772/vua-ham-nghi.html]
 
 <!-- id: EVT-1699 -->
+*   **Jan. 29, 1944:** Pioneer female revolutionary Nguyen Thi Quang Thai (younger sister of Nguyen Thi Minh Khai and first wife of General Vo Nguyen Giap) heroically passed away at Hoa Lo Prison (Hanoi) at age 29 due to severe illness under brutal colonial isolation; throughout years of harsh imprisonment and torture since 1942, she preserved absolute revolutionary integrity, safeguarding Party secrets and comrades. [Source: Nhan Dan Newspaper - Revolutionary Female Soldier Nguyen Thi Quang Thai, https://nhandan.vn/nu-chien-si-cach-mang-nguyen-thi-quang-thai-post618950.html]
+
+<!-- id: EVT-3504 -->
 *   **Early 1944:** The Dai Viet National Alliance (Dai Viet Quoc Gia Lien Minh) was formed, comprised of various nationalist parties such as the Dai Viet National Socialist Party, Dai Viet Nationalist Party, and Dai Viet Democratic Party. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1700 -->
+*   **Mar. 7, 1944:** At Son La Prison, Comrade To Hieu (former Standing Committee Member of the Tonkin Regional Party Committee, Secretary of the Hai Phong Municipal Party Committee, and Secretary of the Son La Prison Party Cell) passed away at age 32 from severe pulmonary tuberculosis exacerbated by brutal colonial torture and harsh penal confinement; the peach tree he nurtured by the cell wall ("To Hieu Peach Tree") blossomed vibrantly, becoming an enduring symbol of unyielding revolutionary spirit and indomitable communist conviction. [Source: Vietnam National Museum of History - Comrade To Hieu, https://baotanglichsu.vn/vi/Articles/3096/13059/to-hieu.html]
+
+<!-- id: EVT-3505 -->
+*   **May 24, 1944:** At the Tuong Mai firing grounds (Hanoi), French colonial authorities executed Comrade Hoang Van Thu (Standing Committee Member of the Party Central Committee, Secretary of the Tonkin Regional Party Committee, leader of the Bac Son Uprising and founder of the 1st National Salvation Army); facing the execution squad, the resolute revolutionary refused absolution and a blindfold, proudly asserting: "In this life-and-death struggle between us, who have lost our country, and you, the robbers of our country, the sacrifice of people like me is completely natural," before chanting slogans for the Communist Party and national independence. [Source: Vietnam National Museum of History - Comrade Hoang Van Thu: Steadfast and Indomitable Communist Soldier, https://baotanglichsu.vn/vi/Articles/3096/13057/dong-chi-hoang-van-thu-nguoi-chien-si-cong-san-kien-trung-bat-khuat.html]
+
+![Historical Image](images/event_20261029_104249.webp)
+
+*Source: Portrait of Comrade Hoang Van Thu (1909–1944), Standing Committee Member of the Party Central Committee. Photo: Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3506 -->
 *   **Jun. 30, 1944:** The Vietnam Democratic Party was founded, gathering intellectuals and national bourgeoisie to join the Viet Minh Front. [Source: History of the Democratic Party of Vietnam, National Political Publishing House, Hanoi, 2004]
 
 <!-- id: EVT-1701 -->
@@ -6285,6 +6327,13 @@
 *Source: Sheet music of Tien Quan Ca by composer Van Cao, written in 1944, now the national anthem / Performing Arts Department, Ministry of Culture, Sports and Tourism via the Government Portal / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-1733 -->
+*   **Aug. 17, 1945:** Imperial Commissioner for Tonkin Phan Ke Toai formally resigned and relinquished official duties, cooperating with the Hanoi Insurrection Committee; moved by patriotism and respect for the Viet Minh front, he had conducted clandestine dialogues with revolutionary representatives and firmly refused Japanese demands to suppress mass demonstrations, facilitating a swift, bloodless victory for the August Revolution in Hanoi (he later joined the resistance and served as Vice Premier of the Democratic Republic of Vietnam for 18 years). [Source: Nhan Dan Newspaper - Noted Scholar Phan Ke Toai, https://nhandan.vn/nhan-si-phan-ke-toai-post711200.html]
+
+![Historical Image](images/event_20261029_104251.webp)
+
+*Source: Imperial Commissioner for Tonkin Phan Ke Toai (1892–1973), who later served as Vice Premier of the Democratic Republic of Vietnam. Photo: Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3507 -->
 *   **Aug. 19, 1945:** The General Uprising succeeded in Hanoi (August Revolution). [Source: https://nhandan.vn/ngay-1981945-cach-mang-thang-tam-thanh-cong-tai-thu-do-ha-noi-post900562.html]
 
 ![Historical Image](images/event_20260923_123037.webp)
@@ -6311,7 +6360,7 @@
 *Source: President Ho Chi Minh and comrade Vo Nguyen Giap, 1945 / Public domain*
 
 <!-- id: EVT-1739 -->
-*   **Aug. 30, 1945:** Emperor Bao Dai read the Abdication Edict in Hue, ending the feudal regime in Vietnam. [Source: https://nhandan.vn/ngay-3081945-vua-bao-dai-thoai-vi-post902540.html]
+*   **Aug. 30, 1945:** At the Ngo Mon Gate in Hue, before tens of thousands of citizens, Emperor Bao Dai proclaimed his Abdication Edict (drafted by Chief of the Imperial Cabinet Pham Khac Hoe) with the historic declaration "I would rather be a citizen of an independent country than king of an enslaved nation," and formally handed over the imperial gold seal and jade sword to the delegation of the Provisional Revolutionary Government led by Comrade Tran Huy Lieu (alongside Cu Huy Can and Nguyen Luong Bang), officially ending the Nguyen Dynasty and thousands of years of monarchical rule in Vietnam. [Source: Nhan Dan Newspaper - August 30, 1945: Emperor Bao Dai Abdicates, https://nhandan.vn/ngay-3081945-vua-bao-dai-thoai-vi-post902540.html]
 
 ![Historical Image](images/event_20260923_104916.webp)
 
@@ -6412,6 +6461,13 @@
 *   **Oct. 25, 1945:** The Party Committee of the South held a cadres' conference in Thien Ho (My Tho), setting out the direction for a long-term resistance. [Source: History of the Southern Party Committee (Vol. 1), National Political Publishing House, Hanoi, 2015]
 
 <!-- id: EVT-1761 -->
+*   **Oct. 25, 1945:** Carrying out President Ho Chi Minh's directive, the Intelligence Department of the General Staff of the Vietnam National Army was officially established, marking the birth of Vietnam's first military intelligence agency (traditional day of Vietnam Defense Intelligence); 22-year-old comrade Hoang Minh Dao (Dao Phuc Loc) was entrusted as its first department chief, organizing the initial strategic intelligence and reconnaissance networks supporting national defense. [Source: Vietnam National Museum of History - Comrade Hoang Minh Dao, https://baotanglichsu.vn/vi/Articles/3096/13062/hoang-minh-dao.html]
+
+![Historical Image](images/event_20261029_104252.webp)
+
+*Source: Comrade Hoang Minh Dao (Dao Phuc Loc, 1923–1969), first Chief of the Military Intelligence Department of the VPA. Photo taken in 1957: Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3508 -->
 *   **Nov. 11, 1945:** The Indochinese Communist Party announced its "self-dissolution," in reality going underground. [Source: Vietnam National Museum of History - The Party Declares "Self-Dissolution" (November 11, 1945), https://baotanglichsu.vn/vi/Articles/3097/16611/djang-tuyen-bo-tu-giai-tan-11-11-1945.html]
 
 <!-- id: EVT-1762 -->
@@ -6638,6 +6694,13 @@
 *   **Nov. 7, 1946:** President Ho Chi Minh issued the *"Notice on Adopting the Children of Martyrs"*, declaring that on behalf of the Fatherland and the people, he would sponsor and foster all orphaned children of martyrs who sacrificed their lives for national independence, instructing local authorities to compile lists and ensure full welfare support for the nation's young generation. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1817 -->
+*   **Nov. 9, 1946:** At the 2nd Session of the 1st National Assembly at the Hanoi Opera House, noted patriot and scholar Bui Bang Doan (former Minister of Justice of the Nguyen court) was elected Head of the Standing Committee of the National Assembly of the Democratic Republic of Vietnam, succeeding Nguyen Van To; embodying national unity, he worked closely alongside President Ho Chi Minh and dedicated himself to constitutional and legislative leadership throughout the arduous resistance years. [Source: Government of Vietnam Portal - Scholar Bui Bang Doan: Great Personality, Bright Example of Patriotism, https://baochinhphu.vn/cu-bui-bang-doan-mot-nhan-cach-lon-tam-guong-sang-ve-tinh-than-yeu-nuoc-102264627.htm]
+
+![Historical Image](images/event_20261029_104253.webp)
+
+*Source: Scholar Bui Bang Doan (1889–1955), Head of the Standing Committee of the 1st National Assembly of the DRV. Photo: Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3509 -->
 *   **Nov. 20, 1946:** A major conflict broke out in Haiphong (the Haiphong Incident) when French troops demanded control of customs. [Source: Vietnam National Museum of History - The Haiphong Incident (November 20, 1946), https://baotanglichsu.vn/vi/Articles/3097/16638/su-kien-hai-phong-20-11-1946.html]
 
 <!-- id: EVT-1818 -->
@@ -6699,6 +6762,9 @@
 *Source: Manuscript of President Ho Chi Minh's Appeal for National Resistance, Dec. 19, 1946 / Ministry of Culture, Sports and Tourism*
 
 <!-- id: EVT-1832 -->
+*   **Dec. 19, 1946:** President Ho Chi Minh issued the Nationwide Appeal for Resistance; in Hanoi, Comrade Nguyen Van Tran, serving as Municipal Party Secretary and Chairman of the Hanoi Resistance Committee (Chairman of the Capital Defense Committee), directly commanded military and self-defense forces in 60 heroic days and nights of urban warfare, pinning down and depleting French forces while safeguarding the secure evacuation of the Party Central Committee and Government to the Viet Bac resistance base. [Source: Nhan Dan Newspaper - Comrade Nguyen Van Tran: Outstanding Leader of the Capital, https://nhandan.vn/dong-chi-nguyen-van-tran-nguoi-lanh-dao-kiet-xuat-cua-thu-do-post321450.html]
+
+<!-- id: EVT-3510 -->
 *   **Dec. 20, 1946:** Martyr Lê Gia Đỉnh (Political Commissar of Company 1, Battalion 101 of the National Guard, hailed as Hanoi's "Suicide Fighter No. 1") ordered his comrades to withdraw safely while remaining behind alone, heroically using a lunge mine in a suicide attack against advancing French tanks defending the Tonkin Palace, destroying the armored vehicle and sacrificing his life at age 26. [Source: Heroic Martyr Le Gia Dinh (Nhan Dan Newspaper), https://nhandan.vn/anh-hung-cam-tu-le-gia-dinh-post632160.html]
 
 <!-- id: EVT-1833 -->
@@ -6778,6 +6844,9 @@
 *   **Feb. 25 - Jul. 4, 1947:** France and the Republic of China held negotiations in Paris regarding the sovereignty of the Paracel Islands. China demanded the withdrawal of French troops from Pattle Island as a precondition and strictly rejected France's proposal for international arbitration. The talks ended without a resolution. [Source: Ministry of Foreign Affairs of Vietnam, White Paper: Vietnam's Sovereignty over the Hoang Sa and Truong Sa Archipelagos, Hanoi, 1982]
 
 <!-- id: EVT-1856 -->
+*   **Feb. 28, 1947:** On the Ninh Thuan battlefield, Comrade Hoang Dinh Giong (nom de guerre Vu Duc, of Tay ethnicity, founding Secretary of Cao Bang's first Party cell, Commander of the March to the South expeditionary corps, and Commander of Military Zone 6) heroically fell in battle while directing frontline troops resisting a major French sweep; he was a pioneering military leader of the Vietnam People's Army and an illustrious son of Cao Bang (posthumously awarded the Hero of the Armed Forces title in 2009). [Source: Vietnam National Museum of History - Comrade Hoang Dinh Giong: Outstanding Son of Cao Bang, https://baotanglichsu.vn/vi/Articles/3096/13054/dong-chi-hoang-dinh-giong-nguoi-con-uu-tu-cua-que-huong-cao-bang.html]
+
+<!-- id: EVT-3511 -->
 *   **Mar. - Apr. 1947:** Vietnamese forces launched counter-attacks against French positions in Hai Phong (Mar. 22), Ha Dong (Mar. 20 and Apr. 13), and the Vietnam Student Quarter (Viet Nam Hoc Xa) in Hanoi (Apr. 20). [Source: History of the General Staff in the Resistance War against French Colonialism (1945 - 1954), People's Army Publishing House, Hanoi, 1991]
 
 <!-- id: EVT-1857 -->
@@ -6787,6 +6856,9 @@
 *   **Mar. 4, 1947:** General Secretary Truong Chinh began publishing the classic treatise series "The Resistance Will Win" in *Su That* (Truth) newspaper (later published as a book in September 1947), comprehensively and scientifically articulating the all-people, comprehensive, long-term, and self-reliant resistance line of the Vietnamese people, defining three necessary stages of the war: defensive, equilibrium, and counter-offensive. [Source: Vietnam National Museum of History - Truong Chinh's "The Resistance Will Win", https://baotanglichsu.vn/vi/Articles/3097/15850/khang-chien-nhat-dinh-thang-cua-truong-chinh.html]
 
 <!-- id: EVT-1859 -->
+*   **Mar. 14, 1947:** President Ho Chi Minh signed Decree No. 32/SL appointing scholar Hoang Minh Giam (former Chief of Cabinet of the Ministry of the Interior) as Minister of Foreign Affairs of the Democratic Republic of Vietnam, succeeding Ho Chi Minh; heading the diplomatic corps throughout the arduous anti-French resistance from 1947 to 1954, he made outstanding contributions to building revolutionary diplomacy, consolidating international ties, and defending national sovereignty. [Source: Government of Vietnam Portal - Comrade Hoang Minh Giam: Patriotic Intellectual and Outstanding Diplomat, https://baochinhphu.vn/dong-chi-hoang-minh-giam-nha-tri-thuc-yeu-nuoc-nha-ngoai-giao-xuat-sac-102196621.htm]
+
+<!-- id: EVT-3512 -->
 *   **Apr. 1947:** Ngo May volunteered for the army and was assigned to the "quyet tu" (death-defying) company of Battalion 50, Regiment 94 (later Regiment 108). [Source: Department of Propaganda and Training, Heroes of the People's Armed Forces in the Resistance against French Colonialism, People's Army Publishing House, Hanoi, 1996]
 
 <!-- id: EVT-1860 -->
@@ -6944,6 +7016,9 @@
 *   **1949:** Comrade Tran Dang Ninh (Head of the Central Inspection Commission) directly traveled to Inter-zone IV to inspect and clarify the truth regarding the "Southern Chemicals" (Hóa chất miền Nam) case, successfully clearing the name of an arms depot director—an overseas Vietnamese patriotic engineer who had returned from France with President Ho Chi Minh to join the resistance but had been falsely accused. Through rigorous, objective, and impartial on-site investigation, he completely exonerated the patriotic intellectual, cementing the profound trust of overseas intellectuals in the Party and the resistance cause. [Source: Central Party Secretariat, Comrade Tran Dang Ninh - Eminent Pioneer Leader of the Party and Vietnamese Revolution, National Political Publishing House, Hanoi, 2010]
 
 <!-- id: EVT-1906 -->
+*   **1949:** In the Viet Bac resistance base, Director of the Ordnance Department Tran Dai Nghia and ordnance engineers successfully designed and manufactured SKZ recoilless guns and shells (60mm, 81mm, and 120mm calibers); possessing immense kinetic penetration capable of pulverizing reinforced concrete watchtowers and bunkers of the French expeditionary corps (making a crushing combat debut at the Pho Rang and Pho Lu battles), the SKZ completely dismantled French fortified outpost doctrine across Indochina. [Source: Vietnam National Museum of History - Professor and Academician Tran Dai Nghia, https://baotanglichsu.vn/vi/Articles/3098/14892/giao-su-vien-si-tran-dai-nghia.html]
+
+<!-- id: EVT-3513 -->
 *   **Jan. 20, 1949:** The Lao Issara Army (precursor to the Lao People's Army) was founded. [Source: Vietnam National Museum of History - Establishment of the Lao Itsala Army (January 20, 1949), https://baotanglichsu.vn/vi/Articles/3097/16662/quan-doi-lao-itsala-thanh-lap-20-01-1949.html]
 
 <!-- id: EVT-1907 -->
@@ -7185,6 +7260,9 @@
 *   **Sep. 29, 1951:** Lieutenant General Nguyen Binh was killed while traveling north to report on the situation to the Party Central Committee and President Ho Chi Minh. [Source: Ministry of National Defense, Lieutenant General Nguyen Binh (1904 - 1951), People's Army Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-1973 -->
+*   **Oct. 1951:** During an ambush against a French sweeping operation in Tan Thuat commune (Kien Xuong district, Thai Binh province), female guerrilla platoon leader Nguyen Thi Chien displayed extraordinary bravery, single-handedly disarming and capturing a French captain commanding the unit along with six soldiers; this outstanding combat feat led to her becoming the first female Hero of the People's Armed Forces of the Vietnam People's Army, commended by President Ho Chi Minh at the 1952 National Emulation Congress. [Source: Vietnam National Museum of History - Heroine Nguyen Thi Chien, https://baotanglichsu.vn/vi/Articles/3098/14890/nu-anh-hung-nguyen-thi-chien.html]
+
+<!-- id: EVT-3514 -->
 *   **Nov. 10 - 14, 1951:** French forces launched Operation Tulipe (capturing Cho Ben) and Operation Lotus (capturing Hoa Binh town) in an attempt to cut off Vietnamese supply lines and force a pitched battle. [Source: Military History Institute of Vietnam, The Hoa Binh Campaign (1951 - 1952), People's Army Publishing House, Hanoi, 2001]
 
 <!-- id: EVT-1974 -->
@@ -7494,6 +7572,9 @@
 * **08/04/1954:** Martyr Nguyen Ngoc Bao (Deputy Battalion Commander, Military Intelligence Department, who led the raid capturing French maps of Dien Bien Phu) heroically sacrificed his life at Dien Bien Phu. [Source: Ho Chi Minh Complete Works, Vol. 8 (1953 - 1954), National Political Publishing House, Hanoi, 2011, p. 446; Military History Institute of Vietnam]
 
 <!-- id: EVT-2060 -->
+*   **Apr. 23, 1954:** During the Battle of Dien Bien Phu, at the Hill E1 position, 75mm Mountain Artillery Gun Crew Leader Phung Van Khau (Company 755, Regiment 675, Division 351) tenaciously provided fire support for infantry assault operations; when all crew members became casualties and the optical sight was shattered by enemy bombardment, he steadfastly aimed directly through the gun barrel, single-handedly loading and firing to destroy five 105mm artillery pieces, six heavy machine guns, and multiple French bunkers. [Source: Government of Vietnam Portal - Farewell to Dien Bien Phu Hero Phung Van Khau, https://baochinhphu.vn/vinh-biet-nguoi-anh-hung-dien-bien-phu-phung-van-khau-102298150.htm]
+
+<!-- id: EVT-3515 -->
 *   **May 1954:** Following the victory of Dien Bien Phu, President Ho Chi Minh adopted Stefan Kubiak—a Polish-born soldier in the French Foreign Legion who defected to join the Vietnam People's Army and fought during the campaign—giving him the Vietnamese name Ho Chi Toan (bearing the President's surname). He subsequently settled with a family in Hanoi and received extensive support from the Vietnamese government. [Source: Military Region 5 High Command, History of the People's Armed Forces of Military Region 5 (1945 - 2005), People's Army Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2061 -->
@@ -7504,6 +7585,9 @@
 *Source: Troops raising the victory flag over the French command bunker, May 7, 1954 / Army Museum (Wikimedia Commons, Public domain)*
 
 <!-- id: EVT-2062 -->
+*   **May 6, 1954:** On the night of May 6 to early morning May 7, 1954, during the Battle of Dien Bien Phu, Company Commander Le Van Dy (Company 828, Battalion 249, Regiment 174, Division 316) received the direct command and ignited the massive nearly one-ton explosive charge buried deep inside the tunnel underneath Hill A1 (Eliane 2); the earth-shattering blast ripped apart the enemy's most fortified subterranean bunker, serving as the battle signal launching the all-out final offensive that crushed the Dien Bien Phu entrenched camp. [Source: Nhan Dan Newspaper - The Hill A1 Explosive Block, https://nhandan.vn/khoi-boc-pha-doi-a1-post807180.html]
+
+<!-- id: EVT-3516 -->
 *   **May 7, 1954:** At 17:30, under the leadership and operational command of Commander-in-Chief Senior General Vo Nguyen Giap, Captain Ta Quoc Luat (Company 360, Regiment 209, Division 312) led an assault team into the headquarters bunker, capturing General Christian de Castries and the entire French staff, hoisting the "Determined to Fight, Determined to Win" victory flag atop the bunker. **The Dien Bien Phu Campaign won complete victory**, ending 55 days and nights of fierce fighting, destroying France's mightiest stronghold in Indochina and resounding across the world. [Source: https://special.nhandan.vn/ngay-7-5-1954-chien-dich-Dien-Bien-Phu/index.html]
 
 ![Historical Image](images/event_20260923_103549.webp)
@@ -7518,6 +7602,13 @@
 *Source: Tombstone of Hero Tran Can at the Dien Bien Phu Martyrs Cemetery, inscribed with home district Yen Thanh – Nghe An and sacrifice date May 7, 1954 / Hoang Van Thai / Wikimedia Commons (CC BY-SA 3.0)*
 
 <!-- id: EVT-2064 -->
+*   **May 7, 1954:** Commander of the 312th Division Le Trong Tan commanded assault regiments overrunning the central Muong Thanh sector; at 5:30 PM, the assault team of Company 360 (Battalion 130, Regiment 209) led by Captain Ta Quoc Luat stormed into the bunker and captured Brigadier General Christian de Castries along with the entire general staff of the Dien Bien Phu entrenched camp, hoisting the "Determined to Fight, Determined to Win" banner atop the command bunker. [Source: Vietnam National Museum of History - General Le Trong Tan, https://baotanglichsu.vn/vi/Articles/3096/13060/dai-tuong-le-trong-tan.html]
+
+![Historical Image](images/event_20261029_104253_1.webp)
+
+*Source: Commander of the 312th Division Le Trong Tan at the Dien Bien Phu front, May 1954. Photo: Trieu Dai / Vietnam News Agency / Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3517 -->
 *   **May 8, 1954:** The **Geneva Conference** began its first session to discuss the restoration of peace in Indochina. [Source: Vietnam National Museum of History - The Geneva Conference (1954), https://baotanglichsu.vn/vi/Articles/3097/15714/hoi-nghi-gionevo-1954.html]
 
 <!-- id: EVT-2065 -->
@@ -8197,6 +8288,9 @@
 *   **Feb. 18, 1962:** The DRV Government issued a statement condemning the establishment of MACV and increased US aggression in the South. [Source: Ministry of Foreign Affairs, History of Vietnamese Diplomacy (1945 - 2000), National Political Publishing House, Hanoi, 2002]
 
 <!-- id: EVT-2220 -->
+*   **Jul. 23, 1962:** At the Palais des Nations in Geneva (Switzerland), Minister of Foreign Affairs Ung Van Khiem, representing the Government of the Democratic Republic of Vietnam, formally signed the Declaration on the Neutrality of Laos and its accompanying Protocol (1962 Geneva Agreements on Laos) alongside representatives of 13 other nations, affirming strict respect for the independence, sovereignty, and territorial integrity of neighboring Laos. [Source: Government of Vietnam Portal - Comrade Ung Van Khiem: Steadfast Communist Soldier, https://baochinhphu.vn/dong-chi-ung-van-khiem-nguoi-chien-si-cong-san-kien-cuong-102198754.htm]
+
+<!-- id: EVT-3518 -->
 *   **Jul. 24, 1962:** Speaking at the Conference of High-Ranking Cadres of the Party and State, President Ho Chi Minh launched a campaign to enhance the sense of responsibility, strengthen economic and financial management, and combat corruption, waste, and bureaucracy. He described corruption as an "ulcer" left by the old society that must be completely eliminated to ensure a healthy body for the nation. [Source: Ho Chi Minh Complete Works, Vol. 13 (1961 - 1962), National Political Publishing House, Hanoi, 2011, pp. 418-425]
 
 <!-- id: EVT-2221 -->
@@ -8501,6 +8595,9 @@
 *   **Apr. 4, 1965:** The US Air Force mobilized hundreds of aircraft sorties in a fierce bombing raid against Cầu Dài bridge and Đồng Hới town (Quảng Bình); militiawoman Trần Thị Lý courageously rowed a boat ferrying local leaders across the river under bombardment to direct combat operations, persistently defended anti-aircraft positions protecting vital transport arteries, and dug out comrades and civilians buried by bomb debris (later awarded the title of Hero of the People's Armed Forces in 1967). [Source: Quang Binh Newspaper, "Heroine Tran Thi Ly Resolute at Cau Dai"; People's Army Newspaper]
 
 <!-- id: EVT-2299 -->
+*   **Apr. 4, 1965:** On the second day of the fierce battle defending Ham Rong Bridge (Thanh Hoa) against massive US aerial bombardments, 19-year-old Nam Ngan female militia member Ngo Thi Tuyen (weighing only 42 kg) exhibited extraordinary courage by carrying two anti-aircraft ammunition crates weighing 98 kg across trenches and bomb craters to replenish artillery positions, shooting down enemy aircraft and becoming an enduring legend of Vietnamese revolutionary heroism. [Source: Nhan Dan Newspaper - Heroine Ngo Thi Tuyen: The Feat of Carrying 98kg of Ammunition at Ham Rong Bridge, https://nhandan.vn/nu-anh-hung-ngo-thi-tuyen-ky-tich-vac-98kg-dan-ben-cau-ham-rong-post641290.html]
+
+<!-- id: EVT-3519 -->
 *   **Apr. 8, 1965:** The government of the Democratic Republic of Vietnam announced its 4-point position as a basis for resolving the Vietnam issue. [Source: Ministry of Foreign Affairs, History of Vietnamese Diplomacy (1945 - 2000), National Political Publishing House, Hanoi, 2002; Nhan Dan Newspaper, April 9, 1965 issue]
 
 <!-- id: EVT-2300 -->
@@ -8665,6 +8762,9 @@
 *   **Feb. 14, 1966:** South Korean troops of the Tiger Division committed the Thai Binh Massacre, brutally killing 65 unarmed civilians (mostly elderly people, women, and children) in Thai Binh village (now Canh Hoa commune, Van Canh district, Binh Dinh province). [Source: Quang Ngai Provincial Party Committee, War Crimes of the US Military and Allies in Quang Ngai, Quang Ngai Publishing House, 2005]
 
 <!-- id: EVT-2347 -->
+*   **Mar. 4, 1966:** Pilot Nguyen Hong Nhi (1st Company, 921st Air Regiment) piloting a MiG-21 interceptor shot down a US Air Force high-altitude unmanned reconnaissance drone Ryan 147 Firebee over Cam Pha (Quang Ninh); this marked the historic first aerial kill achieved by the MiG-21 fighter jet in the history of the Vietnam People's Air Force, commencing the illustrious roll of victories for Vietnamese interceptor pilots. [Source: People's Public Security Newspaper - Silver Swallows in the Skies of Hanoi, https://cand.com.vn/Phong-su/Nhung-canh-en-bac-tren-bau-troi-Ha-Noi-i582910/]
+
+<!-- id: EVT-3520 -->
 *   **Mar. 9 - 10, 1966:** The Battle of A Shau (Trận A Sầu) took place at the A Shau Special Forces Camp in the A Shau Valley (Thua Thien province). Established by the US to interdict the Ho Chi Minh Trail, the camp was defended by US Special Forces and Civilian Irregular Defense Group (CIDG) personnel. Following intense artillery bombardments and infantry assaults by the Liberation Army, combined with severe weather conditions that limited air support, the camp was overrun. US and allied forces suffered heavy casualties and were forced to evacuate on March 10, allowing the Liberation Army to secure a crucial strategic point on the supply route. [Source: Military History Institute of Vietnam, History of the Resistance War against the US (1954 - 1975), Vol. 3, National Political Publishing House, Hanoi, 2013]
 
 <!-- id: EVT-2348 -->
@@ -8684,6 +8784,9 @@
 * **28/05/1966:** Martyr Nguyen Van Lich (Scout Squad Leader of the Di An District Local Forces) though heavily wounded bravely used grenades to destroy enemy troops and heroically sacrificed his life. [Source: Binh Duong Provincial Military Command, History of the People's Armed Forces of Binh Duong (1945 - 2005), People's Army Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2352 -->
+*   **Jun. 24, 1966:** MiG-17 pilot Nguyen Van Bay (923rd Air Regiment) scored an outstanding aerial victory by shooting down a modern US Navy F-4 Phantom II fighter over North Vietnam; utilizing only cannons aboard the subsonic MiG-17, he achieved a legendary total of seven confirmed supersonic US aircraft kills during the war, becoming one of only three MiG-17 pilots worldwide to attain fighter Ace status. [Source: Government of Vietnam Portal - Farewell to Colonel and Pilot Hero Nguyen Van Bay, https://baochinhphu.vn/vinh-biet-dai-ta-anh-hung-phi-cong-nguyen-van-bay-102262791.htm]
+
+<!-- id: EVT-3521 -->
 * **26/06/1966:** Martyr Dong Phuoc Huyen (Squad Leader, 72nd Local Battalion of Quang Nam Province) heroically sacrificed his life during a counter-sweep battle in Quang Nam. [Source: Quang Nam Provincial Military Command, History of the People's Armed Forces of Quang Nam (1945 - 2005), People's Army Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2353 -->
@@ -8761,7 +8864,7 @@
 *   **1967:** Le Thi Tuyet (Quang Tri) served as a nurse for the Hai Lang district military unit, operating secretly in ru Thi Ong and ru Tra Loc, areas considered as rear bases for guerrillas and wounded soldiers. [Source: Central Committee of Vietnam Women's Union, Mother Suot - Transport Heroine, Women's Publishing House, Hanoi, 1999; Nhan Dan Newspaper]
 
 <!-- id: EVT-2373 -->
-*   **1967:** Trinh To Tam was awarded the title Hero of the Armed Forces at age 22, holding a record 53 times earning the title "American-Killing Hero" on the Route 9 - Quang Tri battlefield. [Source: Department of Propaganda and Training, Heroes of the People's Armed Forces in the Anti-US Resistance, People's Army Publishing House, Hanoi, 1996]
+*   **1967:** Comrade Trinh To Tam was awarded the title Hero of the People's Armed Forces at age 22, holding a record 53 times earning the title "American-Killing Hero"; as Commander of the 16th Engineer Company in Thua Thien province, he was renowned as the "Mine King of Hai Van Pass," bravely orchestrating mine ambushes that derailed 58 enemy military trains along the strategic Hue - Da Nang railway line. [Source: Department of Propaganda and Training, Heroes of the People's Armed Forces in the Anti-US Resistance, People's Army Publishing House, Hanoi, 1996]
 
 <!-- id: EVT-2374 -->
 *   **1967:** The memoir *"Bất khuất"* (Indomitable) by revolutionary fighter Nguyễn Đức Thuận (ghostwritten by journalist Trần Đĩnh) was first published in North Vietnam. Documenting his unflinching resilience through eight years of imprisonment and brutal torture in colonial and imperialist prisons (notably Con Dao Prison), the book became a profound literary-historical sensation and a symbol of the unyielding spirit of Vietnamese revolutionaries. [Source: Nguyen Duc Thuan, Indomitable (Memoir), Youth Publishing House, Hanoi, 1967; Vietnam Writers Association; Nhan Dan Newspaper]
@@ -8813,6 +8916,9 @@
 *   **Mar. 1967:** Captain Pham Van Dinh (Republic of Vietnam), Commander of the 52nd Battalion and District Chief of Quang Dien, secretly used his position to protect a captured Viet Cong cadre named Ky from torture and facilitated his escape. [Source: Thua Thien Hue Provincial Party Committee, History of Quang Dien District Party Committee; Thua Thien Hue Newspaper]
 
 <!-- id: EVT-2389 -->
+*   **Apr. 28, 1967:** MiG-21 pilot Mai Van Cuong (921st Air Regiment) scrambled and shot down a US Air Force F-105D Thunderchief fighter-bomber over Hoa Binh province; throughout the anti-US resistance, he shot down eight US aircraft, ranking among the foremost fighter Aces of the Vietnam People's Air Force. [Source: People's Public Security Newspaper - Legends of Vietnamese Aerial Combat, https://cand.com.vn/Phong-su/Huyen-thoai-khong-chien-Viet-Nam-i519450/]
+
+<!-- id: EVT-3522 -->
 *   **May 9, 1967:** Protesters held a vigil for Norman Morrison in the United States, which culminated in a four-day occupation of the Pentagon to protest the Vietnam War. [Source: Ho Chi Minh Complete Works, Vol. 15 (1966 - 1969), National Political Publishing House, Hanoi, 2011, pp. 301-304; Nhan Dan Newspaper]
 
 <!-- id: EVT-2390 -->
@@ -8863,6 +8969,9 @@
 *Source: A U.S. Army 105 mm howitzer battery firing in support in the Central Highlands during the Battle of Dak To, November 1967. Photo: George L. MacGarrigle / U.S. Army Center of Military History / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-2403 -->
+*   **Nov. 18, 1967:** A MiG-21 flight comprising Pham Thanh Ngan and Nguyen Van Coc scrambled to intercept US aircraft intruding into northern airspace; employing aggressive tactical surprise, pilot Pham Thanh Ngan shot down a US Air Force F-105 Thunderchief fighter-bomber over Vinh Phu; over the course of the war, he downed eight US aircraft (later rising to Senior Lieutenant General and Director of the General Political Department of the VPA). [Source: Nhan Dan Newspaper - Senior Lieutenant General Pham Thanh Ngan, https://nhandan.vn/thuong-tuong-pham-thanh-ngan-post625890.html]
+
+<!-- id: EVT-3523 -->
 *   **Nov. 27, 1967:** The Central Military Commission established the Command of Group 559 (Truong Son Troops Command) under Senior Colonel Dong Si Nguyen as Commander. This marked a pivotal transition shifting the Truong Son logistics route from manual methods to large-scale mechanized transport and combined-arms operations, turning the Ho Chi Minh Trail into a robust network overcoming enemy aerial interdiction. [Source: Nhan Dan Newspaper - Lieutenant General Dong Si Nguyen - Legendary Commander of the Truong Son Trail, https://nhandan.vn/special/Trung-tuong-Dong-Sy-Nguyen-Tu-lenh-Duong-Truong-Son-huyen-thoai/index.html]
 
 ![Historical image](images/event_20260930_105124.webp)
@@ -9031,12 +9140,18 @@
 *   **May 4, 1968:** The second wave of the Tet Offensive commenced in Saigon despite compromised plans. The fierce attacks dealt a massive psychological blow to the US, contributing to General William Westmoreland's dismissal and President Lyndon B. Johnson's decision not to seek re-election, pushing the US toward peace negotiations. [Source: Military History Institute of Vietnam, History of the 1968 Tet Offensive and Uprising, People's Army Publishing House, Hanoi, 2008; People's Army Newspaper]
 
 <!-- id: EVT-2446 -->
-*   **May 13, 1968:** Official negotiations between the delegations of the Democratic Republic of Vietnam and the US began in Paris. [Source: Armored Cavalry High Command, History of the Armored Branch (1959 - 2009), People's Army Publishing House, Hanoi, 2009]
+*   **May 7, 1968:** MiG-21 pilot Nguyen Van Coc (921st Air Regiment) achieved a prominent aerial victory by shooting down a US Air Force F-4D Phantom II over Do Luong (Nghe An), capturing the pilot; with nine confirmed manned US aircraft kills and one unmanned Firebee drone shootdown, he became the highest-scoring fighter Ace of the entire Vietnam War (the war's Top Ace). [Source: Vietnam National Museum of History - Pilot Nguyen Van Coc, https://baotanglichsu.vn/vi/Articles/3098/14895/phi-cong-nguyen-van-coc.html]
+
+<!-- id: EVT-3524 -->
+*   **May 13, 1968:** At the International Conference Center on Avenue Kléber (Paris), official bilateral peace negotiations between the Democratic Republic of Vietnam and the United States commenced; Minister Xuan Thuy, Head of the DRV delegation, delivered a firm opening address demanding that the US unconditionally cease the bombing and all other acts of war against North Vietnam, initiating nearly five years of tenacious diplomatic struggle culminating in the 1973 Paris Peace Accords. [Source: Nhan Dan Newspaper - Diplomatic Imprint at the Paris Conference, https://nhandan.vn/dau-an-ngoai-giao-tai-hoi-nghi-paris-post734188.html]
 
 <!-- id: EVT-2447 -->
 *   **July 5, 1968:** In the morning, Le Thi Tuyet (Quang Tri) was captured by the puppet 4th Marine Battalion at Ben Thi Ong and subjected to severe torture, including having soapy water mixed with chili powder poured into her mouth. In the afternoon, refusing to confess, she was tied to a jackfruit tree, brutally mutilated (her breasts and ears were cut, her abdomen opened, and her liver extracted), and buried alive up to her neck. Ten enemy soldiers sliced her liver into 11 pieces and cooked it in front of witnesses. She survived in the hole for two days and two nights before passing away. [Source: Quang Tri Provincial Party Committee, History of Quang Tri Provincial Party Committee, Vol. 2, National Political Publishing House, Hanoi, 2007]
 
 <!-- id: EVT-2448 -->
+*   **Jul. 7, 1968:** During the Route 9 - Khe Sanh Campaign, Battalion Commander Vu Xuan Dai (2nd Battalion, 9th Regiment, 304th Division) bravely led assault forces seizing Hill 689 — a crucial fortified outpost held by US Marines; despite being wounded eight times amid intense close-quarters combat, he remained at his command post directing troops to repulse furious enemy counter-attacks and secure the heights (later awarded the Hero of the Armed Forces title). [Source: People's Public Security Newspaper - The Hero Wounded Eight Times, https://cand.com.vn/Phong-su/Nguoi-anh-hung-8-lan-bi-thuong-i524180/]
+
+<!-- id: EVT-3525 -->
 *   **Jul. 24, 1968:** At 16:00, 10 female Youth Volunteers belonging to Squad 4, Company 552, General Squad 55 died heroically at Dong Loc Junction (Ha Tinh). While they were sheltering in an A-shaped bunker after leveling bomb craters to ensure the traffic artery for the southern battlefield, a US bomb directly hit their position. The youngest was 17, and the three oldest were 24. Their sacrifice became an immortal epic of the Vietnamese youth's indomitable spirit. [Source: Thanh Hoa Newspaper - On this day (Jul. 24): 10 youth volunteers sacrificed at Dong Loc Junction, https://vhds.baothanhhoa.vn/ngay-nay-nam-xua-24-7-10-nu-thanh-nien-xung-phong-anh-dung-hy-sinh-tai-nga-ba-dong-loc-44444.htm]
 
 ![Memorial graves of 10 female martyrs at Dong Loc Junction](images/event_20260928_190011.webp)
@@ -9426,6 +9541,9 @@
 *   **Apr. 6, 1972:** The US conducted its second war of destruction against the North (Operation Linebacker I). [Source: Department of Propaganda and Training, Heroes of the People's Armed Forces, People's Army Publishing House, Hanoi, 1996]
 
 <!-- id: EVT-2552 -->
+*   **Apr. 14, 1972:** During the North Central Highlands Campaign (Dak To - Tan Canh Front 1972), Major Le Quang Loc, Commander of the 1st Battalion, 48th Regiment (320A Dong Bang Division) led assault troops capturing Base Charlie (Hill 1049), destroying the strategic fortified position along the heights west of the Po Ko River and neutralizing the South Vietnamese 11th Airborne Battalion under Lieutenant Colonel Nguyen Dinh Bao; on April 21, 1972, he heroically fell at Hill 1015 (Delta) and was posthumously awarded the Hero of the Armed Forces title. [Source: People's Public Security Newspaper - The Legendary Battle of Charlie Hill, https://cand.com.vn/Phong-su/Tran-danh-huyen-thoai-doi-Sac-Ly-i518760/]
+
+<!-- id: EVT-3526 -->
 *   **Apr. 17, 1972:** Female nurse Lê Thị Ngọc Tiến and medical assistant Lê Thị Lệ Chi heroically sacrificed their lives in Hòa Định commune (Chợ Gạo district, Tiền Giang province) to protect 18 severely wounded soldiers in a secret bunker. Captured and tortured but refusing to confess, when threatened with disembowelment by a US bayonet by a ruthless scout platoon leader at 5:00 AM, Tiến courageously defied him: *"If you dare, do it, don't threaten me, you will never get me to confess!"*. The enemy savagely disemboweled her and hung her body on a tamarind tree to terrorize the local resistance. [Source: Department of Propaganda and Training, Heroes of the People's Armed Forces, People's Army Publishing House, Hanoi, 1996]
 
 <!-- id: EVT-2553 -->
@@ -9452,6 +9570,9 @@
 *Source: Wreck of a PT-76 amphibious tank from the Indochina Wars in northern Laos / Gavilan1644 / Wikimedia Commons (CC BY 3.0)*
 
 <!-- id: EVT-3460 -->
+*   **May 23, 1972:** MiG-21 pilot Nguyen Duc Soat (3rd Company, 927th Air Regiment) intercepted and shot down a US Navy A-7 Corsair II attack aircraft over Bac Giang, capturing the pilot; during 1972 (Operations Linebacker I and II), he scored six confirmed kills against modern US aircraft, becoming a legendary Ace of the Vietnam People's Air Force (later Lieutenant General and Deputy Chief of the General Staff). [Source: Nhan Dan Newspaper - Aerial Combat Diary of Pilot Nguyen Duc Soat, https://nhandan.vn/nhat-ky-khong-chien-cua-phi-cong-nguyen-duc-soat-post628100.html]
+
+<!-- id: EVT-3527 -->
 *   **Jun. 1, 1972:** The Politburo issued Resolution No. 220-NQ/TW on shifting and promoting tasks in the North, transitioning the economy to wartime conditions to continue defeating the US aggressors. [Source: Party Central Committee, Party Documents, Vol. 33, National Political Publishing House, Hanoi, 2004]
 
 <!-- id: EVT-2558 -->
@@ -9487,6 +9608,9 @@
 *   **Oct. 12, 1972:** First Secretary Le Duan sent a telegram to the Central Office for South Vietnam (COSVN) outlining urgent tasks upon the potential announcement of a peace agreement, emphasizing the need to seize control of rural areas, establish local revolutionary administrations, and combine political and military struggles to secure a favorable position ("land grab and flag planting"). [Source: Ministry of Foreign Affairs, The Diplomatic Front and the Paris Negotiations, National Political Publishing House, Hanoi, 2004]
 
 <!-- id: EVT-2566 -->
+*   **Oct. 15, 1972:** MiG-21 pilot Dang Ngoc Ngu (921st Air Regiment) bravely engaged a flight of US Air Force F-4 Phantoms in aerial combat defending the airspace over Hanoi; after intense dogfighting, he heroically sacrificed his life; with seven confirmed aerial victories against US aircraft, fallen pilot Dang Ngoc Ngu was an outstanding fighter Ace posthumously honored as a Hero of the Armed Forces. [Source: People's Public Security Newspaper - Courageous Pilots, https://cand.com.vn/Tu-lieu-cong-an/Nhung-phi-cong-qua-cam-i503210/]
+
+<!-- id: EVT-3528 -->
 *   **Oct. 26, 1972:** After the Nixon administration reneged on the agreed schedule—using objections from the Saigon government to delay signing and demanding 69 amendments—the Government of the Democratic Republic of Vietnam issued a public declaration disclosing the entire text of the secret agreement and agreed timetable, exposing the breach of faith to world public opinion. Put on the defensive just 12 days before the U.S. presidential election, National Security Advisor Henry Kissinger held an urgent White House press conference, delivering the famous declaration: *"Peace is at hand"* (*Hòa bình đang ở trong tầm tay*). The statement was essentially a political psychological maneuver designed to reassure American voters that the war was practically over, securing Richard Nixon's landslide reelection on November 7, while serving as a diplomatic stalling tactic for the US to prepare its massive December 1972 B-52 strategic bombing campaign in a bid to coerce concessions from Hanoi. [Source: Ministry of Foreign Affairs, The Diplomatic Front and the Paris Negotiations, National Political Publishing House, Hanoi, 2004]
 
 ![Historical image](images/event_20260930_214520_2.webp)
@@ -9602,7 +9726,7 @@
 *   **Oct. 13, 1973:** The Party Central Committee issued Resolution No. 227-NQ/TW (21st Plenum), defining the basic task of the Southern revolution in the new stage as continuing the national people's democratic revolution and using revolutionary violence to seize power. [Source: Ministry of National Defense, History of the General Staff in the Anti-US Resistance (1954 - 1975), People's Army Publishing House, Hanoi, 1997]
 
 <!-- id: EVT-2598 -->
-*   **Dec. 3, 1973:** Eight commandos from Team 5 (Group 10 Rung Sac) attacked the Shell fuel depot at Nha Be, destroying 35 million gallons of gasoline and oil, and many facilities of the enemy. [Source: Command of Military Region 7, History of the 10th Rung Sac Commando Regiment (1966 - 2006), People's Army Publishing House; People's Army Newspaper]
+*   **Dec. 3, 1973:** Under the direct command of Regiment Commander and Political Commissar Le Ba Uoc (Bay Uoc) of the 10th Rung Sac Commando Regiment, eight commandos from Team 5 covertly infiltrated deep into the Nha Be Shell fuel depot (the largest strategic fuel storage facility of the US and Saigon regime), detonating timed charges that incinerated over 250 million liters of gasoline and oil (approx. 35 million gallons) and triggering fires that raged for 12 days and nights. [Source: People's Public Security Newspaper - The Attack on Nha Be Fuel Depot and the Legend of Rung Sac Commandos, https://cand.com.vn/Truyen-thong/Tran-danh-kho-xang-Nha-Be-va-huyen-thoai-Dac-cong-Rung-Sac-i716492/]
 
 <!-- id: EVT-2599 -->
 * **03/12/1973:** Martyr Nguyen Cong Bao (Sergeant Major, suicide squad platoon leader, 5th Company, 10th Rung Sac Commando Group) heroically sacrificed his life after raiding and destroying the Nha Be Fuel Depot. [Source: Quang Ninh Newspaper - Heroes of the Rung Sac Commandos, https://baoquangninh.vn/nhung-anh-hung-dac-cong-rung-sac-post3354090.html; People's Army Newspaper, https://ct.qdnd.vn/phong-su-dieu-tra/bai-3-tang-hinh-tap-kich-dich-528024]
@@ -9702,7 +9826,7 @@
 *Source: Photo: TTXVN / Hue - Da Nang Campaign, 1975*
 
 <!-- id: EVT-2626 -->
-*   **Mar. 10, 1975:** The Liberation Army launched a surprise assault on Buon Ma Thuot, initiating the decisive pivotal strike of the Central Highlands Campaign. After over 30 hours of fierce combat, revolutionary forces took full control of the town on March 11, dealing a crushing blow that triggered the collapse of the ARVN defensive network in the Central Highlands and creating a strategic turning point for the 1975 Spring General Offensive. [Source: Nhan Dan Newspaper - March 10, 1975: The Battle of Buon Ma Thuot begins, https://nhandan.vn/ngay-1031975-tran-buon-ma-thuot-mo-man-post864024.html]
+*   **Mar. 10, 1975:** Under the direct command of Lieutenant General Hoang Minh Thao, Commander of the Central Highlands Campaign, the Liberation Army of South Vietnam launched a surprise strategic blow against Buon Ma Thuot town. After more than 30 hours of fierce combat, revolutionary forces overran the headquarters of the South Vietnamese 23rd Division and secured full control on March 11, collapsing the enemy's defensive network and triggering the decisive turning point of the 1975 Spring General Offensive. [Source: Nhan Dan Newspaper - March 10, 1975: The Buon Ma Thuot Battle Opens, https://nhandan.vn/ngay-1031975-tran-buon-ma-thuot-mo-man-post864024.html]
 
 ![Historical Image](images/event_20260924_120723.webp)
 
@@ -9998,7 +10122,7 @@
 *   **Jul. 20, 1977:** The UN Security Council adopted Resolution 413 recommending that the General Assembly admit Vietnam to the United Nations after the United States abandoned its veto. [Source: United Nations Security Council, Resolution 413 (1977) dated July 20, 1977; Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, National Political Publishing House, Hanoi, 2002]
 
 <!-- id: EVT-2704 -->
-*   **Sep. 20, 1977:** The 32nd Session of the United Nations General Assembly unanimously adopted Resolution 32/2, officially admitting the Socialist Republic of Vietnam as the 149th member of the United Nations, followed by a flag-raising ceremony at the UN headquarters in New York. [Source: United Nations General Assembly, Resolution 32/2 dated Sept. 20, 1977; Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, National Political Publishing House, Hanoi, 2002; Nhan Dan Newspaper]
+*   **Sep. 20, 1977:** The 32nd Session of the United Nations General Assembly unanimously adopted Resolution 32/2, officially admitting the Socialist Republic of Vietnam as the 149th member of the United Nations, marking a major diplomatic achievement shaped by the dedicated negotiating team led by Pham Ngac (Director-General of International Organizations Department) and the delegation headed by Foreign Minister Nguyen Duy Trinh; the Vietnamese national flag was solemnly hoisted at UN Headquarters in New York. [Source: United Nations General Assembly, Resolution 32/2 dated Sept. 20, 1977; Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, National Political Publishing House, Hanoi, 2002; Nhan Dan Newspaper]
 
 <!-- id: EVT-2705 -->
 *   **Sept. 24 - 25, 1977:** Nine main-force Khmer Rouge divisions launched a massive offensive across the Southwestern border into Tay Ninh, An Giang, Kien Giang, Long An, and Dong Thap provinces. On the night of Sept. 24–25, Pol Pot forces raided Tan Lap commune (Tan Bien district, Tay Ninh), committing a barbaric massacre that slaughtered 592 innocent civilians (including all teachers at Tan Thanh Primary School and entire families) and torched hundreds of homes and schools. [Source: Military Region 7 Command, History of the Armed Forces of Military Region 7 (1945 - 2005), People's Army Publishing House, Hanoi, 2005, pp. 410-425; Nhan Dan Newspaper]
@@ -10056,6 +10180,9 @@
 *Source: Ba Dinh Square, Hanoi. Photo: Wikimedia Commons*
 
 <!-- id: EVT-2722 -->
+*   **Nov. 6, 1978:** Mother Pham Thi Ngu (Ham Liem commune, Ham Thuan Bac district, Binh Thuan province) was awarded the title Hero of the People's Armed Forces by presidential decree; all eight of her only sons enlisted and heroically fell for the Fatherland, while she personally dug concealed shelters to harbor revolutionary cadres and soldiers, becoming an illustrious model in Binh Thuan honored both as a Hero of the Armed Forces and as a Vietnamese Heroic Mother (1994). [Source: Binh Thuan Newspaper - Mother with Eight Fallen Sons, https://baobinhthuan.com.vn/nguoi-me-co-8-nguoi-con-liet-si-102145.html]
+
+<!-- id: EVT-3529 -->
 * **16/11/1978:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Lê Thị Pha (Đại đội trưởng Đại đội nữ Pháo binh Y2 Đại Lào, Bảo Lộc (Tỉnh Lâm Đồng)). [Source: Presidential Decision posthumously awarding Hero of the People's Armed Forces dated Nov. 16, 1978; Lam Dong Provincial Party Committee Commission for Propaganda, History of Women of Lam Dong Province]
 
 <!-- id: EVT-2723 -->
@@ -10519,6 +10646,9 @@
 *   **Sep. 22 - Oct. 7, 1990:** At the invitation of the Chinese Government, Vice Chairman of the Council of Ministers Senior General Vo Nguyen Giap led the Vietnamese delegation to attend the 11th Asian Games (ASIAD 11) in Beijing as an honored guest. General Giap's presence and high-level diplomatic exchanges ("General Giap's diplomacy") shortly after the Chengdu Summit helped break the ice and significantly accelerated the normalization of diplomatic relations between Vietnam and China. [Source: Vietnam News Agency (VNA), News Bulletin of Sept. 24, 1990; General Vo Nguyen Giap's Complete Memoirs, People's Army Publishing House, 2011; Nhan Dan Newspaper]
 
 <!-- id: EVT-2862 -->
+*   **Sep. 29, 1990:** At the US Mission to the United Nations in New York, Foreign Minister of the Socialist Republic of Vietnam Nguyen Co Thach held a historic 90-minute meeting with US Secretary of State James Baker; this marked the first ministerial-level meeting between the two nations since the end of the war in 1975, establishing a decisive diplomatic breakthrough that set in motion the normalization of US-Vietnam relations and unlocked a comprehensive political settlement on Cambodia. [Source: Government of Vietnam Portal - Comrade Nguyen Co Thach: Talented and Innovative Diplomat, https://baochinhphu.vn/dong-chi-nguyen-co-thach-nha-ngoai-giao-tai-ba-doi-moi-102294158.htm]
+
+<!-- id: EVT-3530 -->
 *   **Oct. 22, 1990:** The European Community (EC), the precursor to the European Union (EU), officially established diplomatic relations with Vietnam. [Source: Joint Communique on the Establishment of Diplomatic Relations between the SRV and the European Community (EC), Oct. 22, 1990; Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, 2002; Nhan Dan Newspaper]
 
 <!-- id: EVT-2863 -->
@@ -10708,6 +10838,13 @@
 *Source: Ha Long Bay seen from above. Photo: Wikimedia Commons*
 
 <!-- id: EVT-2920 -->
+*   **Dec. 17, 1994:** At the Presidential Palace in Hanoi, the State solemnly held the inaugural conferment and posthumous award ceremony of the State Honorary Title "Vietnamese Heroic Mother" for exemplary mothers nationwide: Mother Nguyen Thi Thu (Dien Ban, Quang Nam; 9 biological sons, 1 son-in-law, and 2 grandsons sacrificed), Mother Tran Thi Mit (Hai Lang, Quang Tri; 9 children sacrificed), Mother Le Thi Tu (Dien Ban, Quang Nam; 9 children sacrificed), Mother Van Thi Thua (Dien Ban, Quang Nam; husband and 9 children sacrificed), Mother Nguyen Thi Nghi (Cu Chi, Ho Chi Minh City; husband and 7 children sacrificed), and Mother Le Thi Sau (Dien Ban, Quang Nam; 8 children sacrificed), honoring the immeasurable sacrifices of Vietnamese mothers in the cause of national independence. [Source: Government of Vietnam Portal - Mother Nguyen Thi Thu: Great Symbol of the Vietnamese Heroic Mother, https://baochinhphu.vn/me-nguyen-thi-thu-bieu-tuong-vi-dai-cua-nguoi-me-viet-nam-anh-hung-10283921.htm]
+
+![Historical Image](images/event_20261029_104254.webp)
+
+*Source: The Monument to the Vietnamese Heroic Mother modeled after Mother Nguyen Thi Thu at Cam Mountain, Tam Ky City, Quang Nam province. Photo: Wikimedia Commons (CC BY-SA 4.0)*
+
+<!-- id: EVT-3531 -->
 *   **Dec. 20, 1994:** Lò Văn Giá was posthumously awarded the title Hero of the People's Armed Forces by the Party and State, acknowledging his immense contributions to the national liberation struggle. [Source: Presidential Decision posthumously conferring Hero of the People's Armed Forces dated Dec. 20, 1994; Son La Provincial Party Committee Commission for Propaganda, History of Son La Provincial Party Organization, 2005]
 
 <!-- id: EVT-2921 -->

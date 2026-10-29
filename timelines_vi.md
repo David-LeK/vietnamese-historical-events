@@ -5489,6 +5489,9 @@
 *   **30/06/1925:** Phan Bội Châu bị thực dân Pháp bắt cóc tại Thượng Hải. [Nguồn: Bảo tàng Lịch sử Quốc gia - Trang trọng lễ giỗ lần thứ 84 của chí sĩ yêu nước Phan Bội Châu, https://baotanglichsu.vn/vi/Articles/3091/75017/trang-trong-le-gio-lan-thu-84-cua-chi-si-yeu-nuoc-phan-boi-chau.html]
 
 <!-- id: EVT-1512 -->
+*   **14/07/1925:** Tại núi Quyết (thị xã Vinh, tỉnh Nghệ An), đồng chí Tôn Quang Phiệt cùng các thanh niên trí thức yêu nước (Đặng Thai Mai, Lê Văn Huân, Trần Phú...) bí mật thành lập Hội Phục Việt (sau đổi tên thành Hội Hưng Nam, tiền thân của Tân Việt Cách mạng Đảng), tập hợp lực lượng thanh niên, học sinh đấu tranh đòi thả chí sĩ Phan Bội Châu và tổ chức lễ truy điệu cụ Phan Châu Trinh. [Nguồn: Bảo tàng Lịch sử Quốc gia - Đồng chí Tôn Quang Phiệt, https://baotanglichsu.vn/vi/Articles/3096/13065/ton-quang-phiet.html]
+
+<!-- id: EVT-3497 -->
 *   **08/1925:** Cuộc bãi công của hơn 1.000 công nhân xưởng Ba Son (Sài Gòn) do Tôn Đức Thắng lãnh đạo, trì hoãn việc sửa chữa chiến hạm Jules Michelet của Pháp. [Nguồn: Cuộc bãi công Ba Son năm 1925 (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13907/bai-cong-ba-son.html]
 
 <!-- id: EVT-1513 -->
@@ -5612,7 +5615,7 @@
 *   **09/02/1929:** Trùm mộ phu Bazin bị đảng viên Việt Nam Quốc dân Đảng ám sát tại Hà Nội, dẫn đến một đợt khủng bố trắng. [Nguồn: Lịch sử Việt Nam (Tập 8: 1919–1930), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1549 -->
-*   **03/1929:** Chi bộ Cộng sản đầu tiên được thành lập tại số nhà 5D Hàm Long, Hà Nội. [Nguồn: Bảo tàng Lịch sử Quốc gia - Di tích cách mạng nhà số 5D Hàm Long - Nơi thành lập Chi bộ Cộng sản đầu tiên ở Việt Nam vào tháng 3 năm 1929, https://baotanglichsu.vn/vi/Articles/3097/15896/di-tich-cach-mang-nha-so-5d-ham-long-noi-thanh-lap-chi-bo-cong-san-djau-tien-o-viet-nam-vao-thang-3-nam-1929.html]
+*   **03/1929:** Chi bộ Cộng sản đầu tiên tại Việt Nam được thành lập tại số nhà 5D Hàm Long (Hà Nội) gồm 7 đồng chí ưu tú của Kỳ bộ Bắc Kỳ Hội Việt Nam Cách mạng Thanh niên (Trịnh Đình Cửu, Ngô Gia Tự, Trần Văn Cung, Nguyễn Đức Cảnh, Đỗ Ngọc Du, Dương Hạc Đính và Nguyễn Tuân; do Trần Văn Cung làm Bí thư chi bộ), mở đầu bước ngoặt lịch sử tiến tới thành lập chính đảng vô sản của dân tộc. [Nguồn: Bảo tàng Lịch sử Quốc gia - Di tích cách mạng nhà số 5D Hàm Long - Nơi thành lập Chi bộ Cộng sản đầu tiên ở Việt Nam vào tháng 3 năm 1929, https://baotanglichsu.vn/vi/Articles/3097/15896/di-tich-cach-mang-nha-so-5d-ham-long-noi-thanh-lap-chi-bo-cong-san-djau-tien-o-viet-nam-vao-thang-3-nam-1929.html]
 
 <!-- id: EVT-1550 -->
 *   **01-09/05/1929:** Đại hội lần thứ nhất của Hội Việt Nam Cách mạng Thanh niên diễn ra tại Hương Cảng. [Nguồn: Lịch sử Việt Nam (Tập 8: 1919–1930), NXB Khoa học Xã hội, Hà Nội, 2017]
@@ -5621,6 +5624,13 @@
 *   **17/06/1929:** Đông Dương Cộng sản Đảng được thành lập tại Hà Nội. [Nguồn: Bảo tàng Lịch sử Quốc gia - 17-6-1929: Thành lập Đông Dương Cộng sản Đảng, https://baotanglichsu.vn/vi/Articles/3097/19278/17-6-1929-thanh-lap-djong-duong-cong-san-djang.html]
 
 <!-- id: EVT-1552 -->
+*   **28/07/1929:** Tại số nhà 15 phố Hàng Nón (Hà Nội), Đại hội thành lập Tổng Công hội Đỏ Bắc Kỳ (tiền thân của Tổng Liên đoàn Lao động Việt Nam) chính thức khai mạc do đồng chí Nguyễn Đức Cảnh chủ trì; Đại hội đã bầu Ban Chấp hành lâm thời do đồng chí Nguyễn Đức Cảnh làm Tổng Thư ký và thông qua Điều lệ, quyết định xuất bản báo Lao Động và tạp chí Công hội Đỏ, đánh dấu bước ngoặt trưởng thành vượt bậc của phong trào công nhân Việt Nam (ngày 28/7 sau này được lấy làm Ngày truyền thống của Công đoàn Việt Nam). [Nguồn: Bảo tàng Lịch sử Quốc gia - 28/7/1929: Thành lập Tổng Công hội Đỏ Bắc Kỳ, https://baotanglichsu.vn/vi/Articles/3097/19329/28-7-1929-thanh-lap-tong-cong-hoi-djo-bac-ky.html]
+
+![Hình ảnh tư liệu](images/event_20261029_104247.webp)
+
+*Nguồn: Chân dung đồng chí Nguyễn Đức Cảnh (1908–1932), Tổng Thư ký đầu tiên của Tổng Công hội Đỏ Bắc Kỳ. Ảnh: Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3498 -->
 *   **15/11/1929:** An Nam Cộng sản Đảng được thành lập tại Sài Gòn. [Nguồn: Bảo tàng Lịch sử Quốc gia - Kỷ niệm 84 năm thành lập An Nam Cộng sản Đảng (9/1929-9/2013), https://baotanglichsu.vn/vi/Articles/3097/15139/ky-niem-84-nam-thanh-lap-an-nam-cong-san-djang-9-1929-9-2013.html]
 
 <!-- id: EVT-1553 -->
@@ -5656,7 +5666,7 @@
 *   **02/02/1930:** Trần Tử Bình lãnh đạo cuộc khởi nghĩa của hơn 5.000 công nhân cao su Phú Riềng ("Phú Riềng Đỏ"), một trong những phong trào bãi công lớn đầu tiên của giai cấp công nhân do chi bộ cộng sản lãnh đạo. [Nguồn: https://antg.cand.com.vn/Phong-su/bai-1-phu-rieng-do-i782702]
 
 <!-- id: EVT-1561 -->
-*   **03-07/02/1930:** Hội nghị hợp nhất các tổ chức cộng sản Việt Nam diễn ra tại Cửu Long (Hương Cảng, Trung Quốc) dưới sự chủ trì của đồng chí Nguyễn Ái Quốc (đại diện Quốc tế Cộng sản), quyết định thành lập **Đảng Cộng sản Việt Nam** và thông qua các văn kiện nền tảng: Chánh cương vắn tắt, Sách lược vắn tắt, Chương trình tóm tắt và Điều lệ vắn tắt của Đảng do Người trực tiếp soạn thảo. [Nguồn: https://baotanglichsu.vn/VI/Articles/3097/17673/djang-cong-san-viet-nam-ra-djoi-buoc-ngoat-lich-su-cua-cach-mang-viet-nam.html]
+*   **03-07/02/1930:** Hội nghị hợp nhất các tổ chức cộng sản Việt Nam diễn ra tại Cửu Long (Hương Cảng, Trung Quốc) dưới sự chủ trì của đồng chí Nguyễn Ái Quốc (đại diện Quốc tế Cộng sản), với sự tham dự của 4 đại biểu: Trịnh Đình Cửu và Nguyễn Đức Cảnh (đại diện Đông Dương Cộng sản Đảng), Châu Văn Liêm và Nguyễn Thiệu (đại diện An Nam Cộng sản Đảng). Hội nghị quyết định thành lập **Đảng Cộng sản Việt Nam**, thông qua Chánh cương vắn tắt, Sách lược vắn tắt, Chương trình tóm tắt và Điều lệ vắn tắt của Đảng, đồng thời cử Ban Chấp hành Trung ương lâm thời do đồng chí Trịnh Đình Cửu phụ trách (đến tháng 10/1930). [Nguồn: Bảo tàng Lịch sử Quốc gia - Đảng Cộng sản Việt Nam ra đời - Bước ngoặt lịch sử của cách mạng Việt Nam, https://baotanglichsu.vn/vi/Articles/3097/17673/djang-cong-san-viet-nam-ra-djoi-buoc-ngoat-lich-su-cua-cach-mang-viet-nam.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_125502.webp)
 
@@ -5678,6 +5688,9 @@
 *   **13/04/1930:** Toàn quyền Đông Dương phái thông báo hạm *La Malicieuse* tới quần đảo Trường Sa, nơi thủy thủ đoàn đã kéo quốc kỳ Pháp trên một điểm cao. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1567 -->
+*   **05/1930:** Sau Hội nghị hợp nhất thành lập Đảng ở Cửu Long, đồng chí Nguyễn Thiệu (đại biểu An Nam Cộng sản Đảng) được phân công về Nam Kỳ hoạt động, trực tiếp về Vĩnh Long tuyên truyền, giác ngộ và thành lập Chi bộ cộng sản đầu tiên của tỉnh Vĩnh Long tại Ngã tư Long Hồ (gồm các đồng chí Nguyễn Thiệu, Nguyễn Văn Nhung và Nguyễn Văn Thiệt; do đồng chí Nguyễn Văn Nhung làm Bí thư chi bộ), mở đầu phong trào cách mạng sôi nổi của Đảng bộ và nhân dân Vĩnh Long. [Nguồn: Bảo tàng Lịch sử Quốc gia - Đồng chí Nguyễn Thiệu, https://baotanglichsu.vn/vi/Articles/3096/13068/nguyen-thieu.html]
+
+<!-- id: EVT-3499 -->
 *   **01/05/1930:** Lần đầu tiên, các cuộc đấu tranh của công nhân và nông dân nổ ra rầm rộ trên cả nước để kỷ niệm ngày Quốc tế Lao động, mở đầu cho cao trào cách mạng 1930-1931. [Nguồn: https://nhandan.vn/suc-soi-mot-phong-trao-cach-mang-post414408.html]
 
 <!-- id: EVT-1568 -->
@@ -5687,6 +5700,13 @@
 *   **31/05/1930:** Chính phủ Pháp ra sắc lệnh xác nhận chế độ kim bản vị (Gold Standard) cho đồng bạc Đông Dương, chấm dứt bản vị bạc. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1570 -->
+*   **04/06/1930:** Đồng chí Châu Văn Liêm (nguyên đại biểu An Nam Cộng sản Đảng tại Hội nghị thành lập Đảng, Bí thư Tỉnh ủy Gia Định) trực tiếp lãnh đạo cuộc biểu tình lịch sử của hơn 1.000 nông dân quận Đức Hòa (tỉnh Chợ Lớn) tiến thẳng vào Dinh quận đòi giảm sưu, hoãn thuế và bãi bỏ các thứ thuế vô lý; trước khí thế sục sôi của quần chúng, thực dân Pháp ra lệnh nổ súng đàn áp dã man, đồng chí Châu Văn Liêm đã anh dũng hy sinh ngay tại trận tiền ở ngã ba Giồng Lớn, nêu cao tấm gương kiên trung bất khuất của người chiến sĩ cộng sản. [Nguồn: Báo Long An - Cuộc biểu tình ngày 04/6/1930 ở Đức Hòa, https://baolongan.vn/cuoc-bieu-tinh-ngay-04-6-1930-o-duc-hoa-va-ngon-lua-cach-mang-tai-long-an-a96489.html]
+
+![Hình ảnh tư liệu](images/event_20261029_104248.webp)
+
+*Nguồn: Tượng đài đồng chí Châu Văn Liêm tại thị trấn Ô Môn, Cần Thơ. Ảnh: Wikimedia Commons (CC BY-SA 4.0)*
+
+<!-- id: EVT-3500 -->
 *   **17/06/1930:** Nguyễn Thái Học cùng 12 đồng chí khác của Việt Nam Quốc dân Đảng bị hành quyết tại Yên Bái. [Nguồn: https://baophutho.vn/nho-nguyen-thai-hoc-nguoi-da-thanh-nhan-247446.htm]
 
 ![Hình ảnh tư liệu](images/event_20260923_225159.webp)
@@ -5775,6 +5795,9 @@
 *   **21/07/1932:** Vụ án Tống Văn Sơ giành thắng lợi pháp lý quyết định trước Ủy ban Tư pháp Viện Cơ mật Hoàng gia Anh tại London. Nhờ sự bào chữa tận tụy và kiên định của Luật sư Francis Henry Loseby cùng các luật sư tiến bộ người Anh, Cơ mật viện Anh đã bác bỏ yêu cầu dẫn độ của thực dân Pháp và chấp thuận giải pháp hòa giải, buộc chính quyền Hồng Kông phải phóng thích Tống Văn Sơ và tạo điều kiện cho ông rời khỏi thuộc địa an toàn. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1592 -->
+*   **31/07/1932:** Tại đề lao Hải Phòng, thực dân Pháp thi hành án chém dã man đối với hai nhà lãnh đạo tiền bối kiên trung của Đảng là đồng chí Nguyễn Đức Cảnh (Ủy viên Ban Thường vụ Xứ ủy Bắc Kỳ, Bí thư Xứ ủy Trung Kỳ, nguyên Tổng Thư ký Tổng Công hội Đỏ Bắc Kỳ) và đồng chí Hồ Ngọc Lân; trước lưỡi máy chém của kẻ thù, đồng chí Nguyễn Đức Cảnh vẫn hiên ngang hô vang khẩu hiệu cách mạng, giữ trọn khí tiết của người cộng sản cho đến hơi thở cuối cùng. [Nguồn: Báo Lao Động - Đồng chí Nguyễn Đức Cảnh - Tấm gương người cộng sản kiên trung, https://laodong.vn/cong-doan/dong-chi-nguyen-duc-canh-tam-guong-nguoi-cong-san-kien-trung-1008082.ldo]
+
+<!-- id: EVT-3501 -->
 *   **16/08/1932:** Vua Bảo Đại lên đường về nước để chấp chính sau thời gian du học tại Pháp. [Nguồn: Bảo tàng Lịch sử Quốc gia - Bảo Đại: vị vua cuối cùng của triều Nguyễn, https://baotanglichsu.vn/vi/Articles/3098/15282/bao-djia-vi-vua-cuoi-cung-cua-trieu-nguyen.html]
 
 <!-- id: EVT-1593 -->
@@ -5816,6 +5839,9 @@
 *   **21/12/1933:** Thống đốc Nam Kỳ Jean-Félix Krautheimer ký **Nghị định số 4702-CP** chính thức sáp nhập toàn bộ các đảo thuộc quần đảo Trường Sa (gồm đảo Ba Bình, Song Tử Tây, Song Tử Đông, Thị Tứ, Loaita, Nam Yết, Cồn San Hô và các đảo phụ cận) vào địa hạt tỉnh Bà Rịa. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1603 -->
+*   **24/12/1933:** Tại trường bắn Xuân Liễu (huyện Nam Đàn, tỉnh Nghệ An), thực dân Pháp xử bắn nhà cách mạng tiền bối Lê Hồng Sơn (nguyên sáng lập viên Tâm Tâm Xã, Ủy viên Tổng bộ Hội Việt Nam Cách mạng Thanh niên, sĩ quan tốt nghiệp Trường Quân sự Hoàng Phố); sau nhiều năm hoạt động ở hải ngoại và bị địch giam cầm, tra tấn tàn khốc, ông vẫn giữ vững lòng trung kiên bất khuất với Tổ quốc trước lúc ngã xuống. [Nguồn: Bảo tàng Lịch sử Quốc gia - Đồng chí Lê Hồng Sơn, https://baotanglichsu.vn/vi/Articles/3096/13058/le-hong-son.html]
+
+<!-- id: EVT-3502 -->
 *   **1934 - 1935:** Nguyễn Sơn (Hồng Thủy) trở thành chiến sĩ người Việt duy nhất tham gia cuộc Vạn lý Trường chinh lịch sử 10.000 km của Quân giải phóng Nhân dân Trung Quốc. [Nguồn: Bộ Quốc phòng, Lưỡng quốc Tướng quân Nguyễn Sơn, NXB Quân đội Nhân dân, Hà Nội, 2008]
 
 <!-- id: EVT-1604 -->
@@ -6030,7 +6056,7 @@
 *   **11/11/1940:** Thi sĩ tài hoa Hàn Mặc Tử qua đời vì bệnh phong tại trại phong Quy Hòa (Quy Nhơn, Bình Định) khi mới 28 tuổi, để lại những kiệt tác thơ ca bất hủ như *Đau thương* (*Thơ Điên*), *Xuân như ý*, *Đây thôn Vĩ Dạ*, *Mùa xuân chín*. [Nguồn: Từ điển văn học (bộ mới), NXB Thế giới, Hà Nội, 2004]
 
 <!-- id: EVT-1670 -->
-*   **23/11/1940:** Cuộc khởi nghĩa Nam Kỳ bùng nổ đồng loạt tại nhiều tỉnh Nam Bộ nhưng bị thực dân Pháp đàn áp dã man. Trong khói lửa khởi nghĩa, lá cờ đỏ sao vàng năm cánh (do chiến sĩ cách mạng Nguyễn Hữu Tiến thiết kế) lần đầu tiên xuất hiện công khai và kiêu hãnh tung bay trên ngọn bàng trước đình Long Hưng (Châu Thành, Mỹ Tho - nay thuộc Tiền Giang, nơi đặt trụ sở Ủy ban Khởi nghĩa), trở thành biểu tượng thiêng liêng hiệu triệu tinh thần quật khởi của toàn dân tộc. [Nguồn: Khởi nghĩa Nam Kỳ (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13911/khoi-nghia-nam-ky.html]
+*   **23/11/1940:** Cuộc khởi nghĩa Nam Kỳ bùng nổ đồng loạt tại nhiều tỉnh Nam Bộ. Tại Mỹ Tho, nữ chiến sĩ cách mạng Nguyễn Thị Thập (Mười Thập) trực tiếp chỉ huy lực lượng khởi nghĩa tiến công đánh chiếm đồn bốt giặc ở Chợ Gạo và bảo vệ căn cứ; trong khói lửa đấu tranh, lá cờ đỏ sao vàng năm cánh (do chiến sĩ Nguyễn Hữu Tiến thiết kế) lần đầu tiên xuất hiện công khai và kiêu hãnh tung bay trên ngọn bàng trước đình Long Hưng (Châu Thành, Mỹ Tho), trở thành biểu tượng thiêng liêng hiệu triệu tinh thần quật khởi của toàn dân tộc. [Nguồn: Khởi nghĩa Nam Kỳ (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13911/khoi-nghia-nam-ky.html]
 
 <!-- id: EVT-1671 -->
 *   **1941:** Kiến trúc sư Huỳnh Tấn Phát đoạt giải nhất cuộc thi thiết kế khu Trung tâm Hội chợ Triển lãm Đông Dương tại Sài Gòn. [Nguồn: Kiến trúc sư Huỳnh Tấn Phát – Cuộc đời và sự nghiệp (Báo Nhân Dân), https://nhandan.vn/kien-truc-su-huynh-tan-phat-post738200.html]
@@ -6053,6 +6079,9 @@
 *Nguồn: Cụ Hoàng Thị Khìn (giữa) trò chuyện, kể lại kỷ niệm những ngày nấu cơm, đưa cơm bằng ống tre vào hang Cốc Bó và lán Khuổi Nặm nuôi giấu Bác Hồ ("Già Thu" / "Ông Ké") năm 1941 cho các cán bộ thuyết minh Khu di tích Quốc gia đặc biệt Pác Bó, tỉnh Cao Bằng (Ảnh: Báo Quân đội nhân dân / Báo Dân trí).*
 
 <!-- id: EVT-3487 -->
+*   **14/02/1941:** Tại khu rừng Khuổi Nọi (xã Vũ Lễ, huyện Bắc Sơn, tỉnh Lạng Sơn), Đội Cứu quốc quân I - một trong những lực lượng vũ trang tiền thân đầu tiên của Quân đội nhân dân Việt Nam - chính thức được thành lập trên cơ sở các chiến sĩ du kích khởi nghĩa Bắc Sơn; đơn vị gồm 32 cán bộ, chiến sĩ do đồng chí Lương Văn Tri làm Chỉ huy trưởng và đồng chí Chu Văn Tấn làm Chỉ huy phó (sau đó Chu Văn Tấn đảm nhiệm Chỉ huy trưởng), mở đầu trang sử xây dựng các căn cứ địa kháng chiến và phát triển lực lượng vũ trang cách mạng dưới sự lãnh đạo của Đảng. [Nguồn: Bảo tàng Lịch sử Quốc gia - 14-2-1941: Thành lập Đội Cứu quốc quân I, https://baotanglichsu.vn/vi/Articles/3097/19124/14-2-1941-thanh-lap-djoi-cuu-quoc-quan-i.html]
+
+<!-- id: EVT-3503 -->
 *   **10 - 19/05/1941:** Hội nghị Ban Chấp hành Trung ương Đảng lần thứ VIII tại Pắc Bó (Cao Bằng) do Nguyễn Ái Quốc chủ trì, hoàn chỉnh đường lối giải phóng dân tộc, quyết định thành lập Mặt trận Việt Nam Độc lập Đồng minh (Việt Minh) và bầu đồng chí Trường Chinh làm Tổng Bí thư. Hội nghị cũng chính thức quyết định chọn lá cờ đỏ sao vàng năm cánh làm hiệu kỳ của Mặt trận Việt Minh và xác định sau khi giành chính quyền sẽ dùng làm Quốc kỳ của nước Việt Nam Dân chủ Cộng hòa. Tại hội nghị, đồng chí Phùng Chí Kiên tiếp tục được bầu vào Ban Chấp hành Trung ương, được cử làm Tổng chỉ huy Khu căn cứ Bắc Sơn và thành lập, làm Chỉ huy trưởng Đội Cứu quốc quân 1. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 ![Hình ảnh tư liệu](images/event_20260923_213625.webp)
@@ -6152,9 +6181,22 @@
 *   **14/01/1944 (Quý Mùi):** Cựu hoàng Hàm Nghi (Nguyễn Phúc Ưng Lịch) – ngọn cờ đầu và linh hồn của phong trào kháng chiến Cần Vương yêu nước – qua đời vì bệnh dạ dày tại biệt thự Gia Long ở El Biar (Algiers, Algérie) sau 55 năm sống kiên cường bất khuất trong cảnh lưu đày biệt xứ, hưởng thọ 72 tuổi. [Nguồn: Vua Hàm Nghi (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13772/vua-ham-nghi.html]
 
 <!-- id: EVT-1699 -->
+*   **29/01/1944:** Nữ chiến sĩ cách mạng tiền bối Nguyễn Thị Quang Thái (em ruột đồng chí Nguyễn Thị Minh Khai, người vợ đầu tiên của đồng chí Võ Nguyên Giáp) anh dũng trút hơi thở cuối cùng tại Nhà tù Hỏa Lò (Hà Nội) ở tuổi 29 do bị biệt giam và bệnh tật trong điều kiện lao tù tàn khốc của thực dân Pháp; suốt thời gian bị giam cầm tra tấn dã man từ năm 1942, bà giữ trọn khí tiết kiên trinh, một lòng bảo vệ bí mật cơ sở Đảng và đồng chí. [Nguồn: Báo Nhân Dân - Nữ chiến sĩ cách mạng Nguyễn Thị Quang Thái, https://nhandan.vn/nu-chien-si-cach-mang-nguyen-thi-quang-thai-post618950.html]
+
+<!-- id: EVT-3504 -->
 *   **Đầu năm 1944:** Đại Việt Quốc gia Liên minh được thành lập, bao gồm Đại Việt Quốc xã, Đại Việt Quốc dân Đảng và Đại Việt Dân chính Đảng. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1700 -->
+*   **07/03/1944:** Tại Nhà tù Sơn La, đồng chí Tô Hiệu (nguyên Thường vụ Xứ ủy Bắc Kỳ, Bí thư Thành ủy Hải Phòng, Bí thư Chi bộ Nhà tù Sơn La) trút hơi thở cuối cùng ở tuổi 32 do bệnh lao phổi tái phát nặng sau những đòn tra tấn và chế độ đày ải khắc nghiệt của thực dân Pháp; cây đào do đồng chí tự tay ươm trồng bên bờ tường xà lim ("Cây đào Tô Hiệu") vẫn nở hoa rực rỡ, trở thành biểu tượng bất diệt cho khí tiết kiên cường, tràn đầy niềm tin tất thắng của những người cộng sản Việt Nam. [Nguồn: Bảo tàng Lịch sử Quốc gia - Đồng chí Tô Hiệu, https://baotanglichsu.vn/vi/Articles/3096/13059/to-hieu.html]
+
+<!-- id: EVT-3505 -->
+*   **24/05/1944:** Tại trường bắn Tương Mai (Hà Nội), thực dân Pháp xử bắn đồng chí Hoàng Văn Thụ (Ủy viên Ban Thường vụ Trung ương Đảng, Bí thư Xứ ủy Bắc Kỳ, lãnh đạo khởi nghĩa Bắc Sơn và sáng lập Đội Cứu quốc quân I); trước họng súng quân thù, người chiến sĩ cách mạng kiên trung từ chối rửa tội và bịt mắt, hiên ngang dõng dạc khẳng định: "Trong cuộc đấu tranh sinh tử giữa chúng tôi, những người mất nước và các ông, những kẻ cướp nước, sự hy sinh của những người như tôi là lẽ dĩ nhiên", rồi hô vang khẩu hiệu ủng hộ Đảng Cộng sản và độc lập dân tộc. [Nguồn: Bảo tàng Lịch sử Quốc gia - Đồng chí Hoàng Văn Thụ - Người chiến sĩ cộng sản kiên trung bất khuất, https://baotanglichsu.vn/vi/Articles/3096/13057/dong-chi-hoang-van-thu-nguoi-chien-si-cong-san-kien-trung-bat-khuat.html]
+
+![Hình ảnh tư liệu](images/event_20261029_104249.webp)
+
+*Nguồn: Chân dung đồng chí Hoàng Văn Thụ (1909–1944), Ủy viên Ban Thường vụ Trung ương Đảng. Ảnh: Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3506 -->
 *   **30/06/1944:** Đảng Dân chủ Việt Nam được thành lập, tập hợp tầng lớp tư sản dân tộc và trí thức yêu nước tham gia Mặt trận Việt Minh. [Nguồn: Lịch sử Đảng Dân chủ Việt Nam, NXB Chính trị Quốc gia, Hà Nội, 2004]
 
 <!-- id: EVT-1701 -->
@@ -6285,6 +6327,13 @@
 *Nguồn: Bản nhạc bài Tiến quân ca của nhạc sĩ Văn Cao, sáng tác năm 1944, nay là Quốc ca / Cục Nghệ thuật biểu diễn, Bộ Văn hóa, Thể thao và Du lịch qua Cổng Thông tin Chính phủ / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-1733 -->
+*   **17/08/1945:** Khâm sai đại thần Bắc Kỳ Phan Kế Toại tuyên bố từ chức và bàn giao công việc cho Ủy ban Khởi nghĩa Hà Nội; trước đó, với lòng yêu nước và sự cảm phục Mặt trận Việt Minh, ông đã nhiều lần bí mật tiếp xúc với đại diện cách mạng, khước từ yêu cầu đàn áp phong trào quần chúng của quân Nhật, tạo điều kiện thuận lợi mang tính quyết định để cuộc Tổng khởi nghĩa Tháng Tám tại Hà Nội diễn ra thắng lợi nhanh chóng và hoàn toàn không đổ máu (sau này ông đi theo kháng chiến và giữ chức Phó Thủ tướng Chính phủ nước Việt Nam Dân chủ Cộng hòa suốt 18 năm). [Nguồn: Báo Nhân Dân - Nhân sĩ Phan Kế Toại, https://nhandan.vn/nhan-si-phan-ke-toai-post711200.html]
+
+![Hình ảnh tư liệu](images/event_20261029_104251.webp)
+
+*Nguồn: Khâm sai đại thần Bắc Kỳ Phan Kế Toại (1892–1973), người sau này giữ chức Phó Thủ tướng Chính phủ nước Việt Nam Dân chủ Cộng hòa. Ảnh: Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3507 -->
 *   **19/08/1945:** Tổng khởi nghĩa thắng lợi ở Hà Nội (Cách mạng tháng Tám). [Nguồn: https://nhandan.vn/ngay-1981945-cach-mang-thang-tam-thanh-cong-tai-thu-do-ha-noi-post900562.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_123037.webp)
@@ -6311,7 +6360,7 @@
 *Nguồn: Chủ tịch Hồ Chí Minh và đồng chí Võ Nguyên Giáp, năm 1945 / Public domain*
 
 <!-- id: EVT-1739 -->
-*   **30/08/1945:** Vua Bảo Đại đọc Chiếu thoái vị tại Huế, chấm dứt chế độ phong kiến ở Việt Nam. [Nguồn: https://nhandan.vn/ngay-3081945-vua-bao-dai-thoai-vi-post902540.html]
+*   **30/08/1945:** Tại lầu Ngọ Môn (Huế), trước hàng vạn quần chúng nhân dân, Hoàng đế Bảo Đại tuyên đọc Chiếu thoái vị (do Đổng lý Ngự tiền Văn phòng Phạm Khắc Hòe khởi thảo) với tuyên ngôn lịch sử "Trẫm thà làm dân một nước độc lập hơn làm vua một nước nô lệ", rồi long trọng trao ấn vàng "Hoàng đế chi bảo" và kiếm ngọc cho Phái đoàn đại biểu Chính phủ Cách mạng lâm thời do đồng chí Trần Huy Liệu làm Trưởng đoàn (cùng Cù Huy Cận và Nguyễn Lương Bằng), chính thức chấm dứt triều đại nhà Nguyễn và khép lại hàng nghìn năm chế độ quân chủ phong kiến tại Việt Nam. [Nguồn: Báo Nhân Dân - Ngày 30/8/1945: Vua Bảo Đại thoái vị, https://nhandan.vn/ngay-3081945-vua-bao-dai-thoai-vi-post902540.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_104916.webp)
 
@@ -6412,6 +6461,13 @@
 *   **25/10/1945:** Xứ ủy Nam Bộ họp hội nghị cán bộ ở Thiên Hộ (Mỹ Tho), đề ra phương hướng kháng chiến lâu dài. [Nguồn: Lịch sử Đảng bộ Miền Nam (Tập 1), NXB Chính trị Quốc gia, Hà Nội, 2015]
 
 <!-- id: EVT-1761 -->
+*   **25/10/1945:** Chấp hành chỉ thị của Chủ tịch Hồ Chí Minh, Phòng Tình báo thuộc Bộ Tổng Tham mưu Quân đội Quốc gia Việt Nam (Quân ủy Hội) được thành lập, đánh dấu sự ra đời của cơ quan Tình báo quân sự đầu tiên của cách mạng Việt Nam (ngày truyền thống của Tình báo Quốc phòng Việt Nam); đồng chí Hoàng Minh Đạo (Đào Phúc Lộc) khi mới 22 tuổi được tin cậy giao trọng trách làm Trưởng phòng Tình báo đầu tiên, trực tiếp xây dựng mạng lưới trinh sát và tình báo chiến lược phục vụ kháng chiến. [Nguồn: Bảo tàng Lịch sử Quốc gia - Đồng chí Hoàng Minh Đạo, https://baotanglichsu.vn/vi/Articles/3096/13062/hoang-minh-dao.html]
+
+![Hình ảnh tư liệu](images/event_20261029_104252.webp)
+
+*Nguồn: Đồng chí Hoàng Minh Đạo (Đào Phúc Lộc, 1923–1969), Trưởng phòng Tình báo đầu tiên của Quân đội nhân dân Việt Nam. Ảnh chụp năm 1957: Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3508 -->
 *   **11/11/1945:** Đảng Cộng sản Đông Dương tuyên bố "tự giải tán", thực chất là rút vào hoạt động bí mật. [Nguồn: Bảo tàng Lịch sử Quốc gia - Đảng tuyên bố "tự giải tán" (11/11/1945), https://baotanglichsu.vn/vi/Articles/3097/16611/djang-tuyen-bo-tu-giai-tan-11-11-1945.html]
 
 <!-- id: EVT-1762 -->
@@ -6638,6 +6694,13 @@
 *   **07/11/1946:** Chủ tịch Hồ Chí Minh ban hành bản *"Thông báo về việc nhận con các liệt sĩ làm con nuôi"*. Người khẳng định thay mặt Tổ quốc và toàn dân nhận đỡ đầu và nuôi dưỡng tất cả con mồ côi của các liệt sĩ đã anh dũng hy sinh vì độc lập dân tộc, đồng thời chỉ đạo các địa phương lập danh sách và giao Bộ Xã hội cùng chính quyền các cấp chăm lo chu đáo cho thế hệ mầm non của Tổ quốc. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1817 -->
+*   **09/11/1946:** Tại Kỳ họp thứ 2 Quốc hội khóa I họp tại Nhà hát Lớn Hà Nội, Cụ Bùi Bằng Đoàn (nguyên Thượng thư Bộ Hình triều Nguyễn, một nhân sĩ yêu nước có uy tín lớn) được Quốc hội tín nhiệm bầu giữ chức Trưởng Ban Thường trực Quốc hội nước Việt Nam Dân chủ Cộng hòa thay Cụ Nguyễn Văn Tố; Cụ đã nêu cao tinh thần đại đoàn kết dân tộc, gắn bó sâu sắc với Chủ tịch Hồ Chí Minh và tận tụy cống hiến cho công tác lập hiến, lập pháp của nước nhà suốt những năm tháng kháng chiến trường kỳ. [Nguồn: Cổng Thông tin điện tử Chính phủ - Cụ Bùi Bằng Đoàn: Một nhân cách lớn, tấm gương sáng về tinh thần yêu nước, https://baochinhphu.vn/cu-bui-bang-doan-mot-nhan-cach-lon-tam-guong-sang-ve-tinh-than-yeu-nuoc-102264627.htm]
+
+![Hình ảnh tư liệu](images/event_20261029_104253.webp)
+
+*Nguồn: Cụ Bùi Bằng Đoàn (1889–1955), Trưởng Ban Thường trực Quốc hội khóa I nước Việt Nam Dân chủ Cộng hòa. Ảnh: Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3509 -->
 *   **20/11/1946:** Xung đột lớn nổ ra tại Hải Phòng (Sự kiện Hải Phòng) khi quân Pháp đòi quyền kiểm soát thuế quan. [Nguồn: Bảo tàng Lịch sử Quốc gia - Sự kiện Hải Phòng (20/11/1946), https://baotanglichsu.vn/vi/Articles/3097/16638/su-kien-hai-phong-20-11-1946.html]
 
 <!-- id: EVT-1818 -->
@@ -6699,6 +6762,9 @@
 *Nguồn: Bản thảo Lời kêu gọi Toàn quốc kháng chiến của Chủ tịch Hồ Chí Minh, 19/12/1946 / Bộ VHTTDL*
 
 <!-- id: EVT-1832 -->
+*   **19/12/1946:** Lời kêu gọi Toàn quốc kháng chiến của Chủ tịch Hồ Chí Minh vang dội khắp non sông; tại Hà Nội, đồng chí Nguyễn Văn Trân trên cương vị Bí thư Thành ủy kiêm Chủ tịch Ủy ban Kháng chiến Hà Nội (Chủ tịch Ủy ban Bảo vệ Thủ đô) đã trực tiếp lãnh đạo quân dân Thủ đô mở màn cuộc chiến đấu anh dũng kiên cường suốt 60 ngày đêm trong vòng vây của giặc, giam chân và tiêu hao nhiều sinh lực quân Pháp, bảo vệ an toàn cho Trung ương Đảng, Chính phủ và các cơ quan đầu não rút lên chiến khu Việt Bắc an toàn. [Nguồn: Báo Nhân Dân - Đồng chí Nguyễn Văn Trân: Người lãnh đạo kiệt xuất của Thủ đô, https://nhandan.vn/dong-chi-nguyen-van-tran-nguoi-lanh-dao-kiet-xuat-cua-thu-do-post321450.html]
+
+<!-- id: EVT-3510 -->
 *   **20/12/1946:** Liệt sĩ Lê Gia Đỉnh (Chính trị viên Đại đội 1, Tiểu đoàn 101 Vệ quốc đoàn, người được vinh danh là "Cảm tử quân số 1" của Thủ đô) đã ra lệnh cho đồng đội rút lui an toàn rồi một mình ở lại dùng bom ba càng quyết tử lao thẳng vào xe tăng Pháp bảo vệ Bắc Bộ Phủ, phá hủy xe cơ giới địch và anh dũng hy sinh ở tuổi 26. [Nguồn: Liệt sĩ Lê Gia Đỉnh – Anh hùng cảm tử bảo vệ Bắc Bộ Phủ (Báo Nhân Dân), https://nhandan.vn/anh-hung-cam-tu-le-gia-dinh-post632160.html]
 
 <!-- id: EVT-1833 -->
@@ -6778,6 +6844,9 @@
 *   **25/02 - 04/07/1947:** Pháp và Trung Hoa Dân quốc tiến hành đàm phán tại Paris về chủ quyền quần đảo Hoàng Sa. Trung Quốc đưa ra điều kiện tiên quyết là Pháp phải rút quân khỏi đảo Hoàng Sa (Pattle) và kịch liệt bác bỏ đề nghị của Pháp về việc đưa ra trọng tài quốc tế. Các cuộc thảo luận kết thúc mà không đạt được thỏa thuận nào. [Nguồn: Bộ Ngoại giao Việt Nam, Sách trắng: Chủ quyền của Việt Nam đối với Hoàng Sa và Trường Sa, Hà Nội, 1982]
 
 <!-- id: EVT-1856 -->
+*   **28/02/1947:** Tại mặt trận Ninh Thuận, đồng chí Hoàng Đình Giong (Vũ Đức, người dân tộc Tày, Bí thư Chi bộ Đảng đầu tiên của tỉnh Cao Bằng, Chỉ huy trưởng đoàn quân Nam tiến, Tư lệnh Khu 9 rồi Tư lệnh Khu 6) đã anh dũng hy sinh khi trực tiếp ra tuyến trước chỉ huy bộ đội chiến đấu chặn đánh cuộc càn quét lớn của quân viễn chinh Pháp; ông là vị tướng tiền bối tiêu biểu của Quân đội nhân dân Việt Nam, người con ưu tú của quê hương cách mạng Cao Bằng (được truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 2009). [Nguồn: Bảo tàng Lịch sử Quốc gia - Đồng chí Hoàng Đình Giong - Người con ưu tú của quê hương Cao Bằng, https://baotanglichsu.vn/vi/Articles/3096/13054/dong-chi-hoang-dinh-giong-nguoi-con-uu-tu-cua-que-huong-cao-bang.html]
+
+<!-- id: EVT-3511 -->
 *   **03 - 04/1947:** Quân đội Việt Nam phản công tại Hải Phòng (22/03), Hà Đông (20/03 và 13/04), và khu Việt Nam Học xá ở Hà Nội (20/04). [Nguồn: Lịch sử Bộ Tổng tham mưu trong kháng chiến chống thực dân Pháp (1945 - 1954), Ban Tổng kết biên soạn lịch sử, NXB Quân đội nhân dân, Hà Nội, 1991]
 
 <!-- id: EVT-1857 -->
@@ -6787,6 +6856,9 @@
 *   **04/03/1947:** Tổng Bí thư Trường Chinh bắt đầu công bố loạt bài chuyên luận kinh điển "Kháng chiến nhất định thắng lợi" trên báo *Sự Thật* (sau đó xuất bản thành sách vào tháng 9/1947), luận giải một cách toàn diện và khoa học đường lối kháng chiến toàn dân, toàn diện, trường kỳ và tự lực cánh sinh của nhân dân Việt Nam, vạch ra ba giai đoạn tất yếu của cuộc kháng chiến: phòng ngự, cầm cự và phản công. [Nguồn: Bảo tàng Lịch sử Quốc gia - "Kháng chiến nhất định thắng" của Trường Chinh, https://baotanglichsu.vn/vi/Articles/3097/15850/khang-chien-nhat-dinh-thang-cua-truong-chinh.html]
 
 <!-- id: EVT-1859 -->
+*   **14/03/1947:** Chủ tịch Hồ Chí Minh ký Sắc lệnh số 32/SL bổ nhiệm học giả Hoàng Minh Giám (nguyên Đổng lý Văn phòng Bộ Nội vụ, Phó Trưởng ban Thường trực Quốc hội) giữ chức Bộ trưởng Bộ Ngoại giao nước Việt Nam Dân chủ Cộng hòa kế nhiệm Chủ tịch Hồ Chí Minh; trên cương vị người đứng đầu ngành ngoại giao kháng chiến suốt từ năm 1947 đến năm 1954, ông đã có những đóng góp xuất sắc trong việc xây dựng nền ngoại giao cách mạng, củng cố quan hệ quốc tế và bảo vệ chủ quyền quốc gia. [Nguồn: Cổng Thông tin điện tử Chính phủ - Đồng chí Hoàng Minh Giám: Nhà trí thức yêu nước, nhà ngoại giao xuất sắc, https://baochinhphu.vn/dong-chi-hoang-minh-giam-nha-tri-thuc-yeu-nuoc-nha-ngoai-giao-xuat-sac-102196621.htm]
+
+<!-- id: EVT-3512 -->
 *   **04/1947:** Ngô Mây xung phong nhập ngũ và được biên chế vào Đại đội Quyết tử của Tiểu đoàn 50, Trung đoàn 94 (sau đổi thành Trung đoàn 108). [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân trong kháng chiến chống thực dân Pháp, NXB Quân đội nhân dân, Hà Nội, 1996]
 
 <!-- id: EVT-1860 -->
@@ -6944,6 +7016,9 @@
 *   **1949:** Đồng chí Trần Đăng Ninh (Trưởng Ban Kiểm tra Trung ương) trực tiếp vào Liên khu IV để chỉ đạo kiểm tra, làm rõ sự thật về vụ án "Hóa chất miền Nam", giải oan cho một giám đốc Binh công xưởng là kỹ sư trí thức Việt kiều theo Chủ tịch Hồ Chí Minh từ Pháp trở về nước tham gia kháng chiến bị nghi ngờ và tố cáo sai sự thật. Bằng phương pháp thẩm tra thực tế, thận trọng và chí công vô tư, ông đã minh oan trọn vẹn và bảo vệ uy tín cho cán bộ trí thức yêu nước, củng cố niềm tin vững chắc của đội ngũ trí thức kiều bào đối với Đảng và cuộc kháng chiến. [Nguồn: Ban Bí thư Trung ương Đảng, Đồng chí Trần Đăng Ninh - Nhà lãnh đạo tiền bối tiêu biểu của Đảng và cách mạng Việt Nam, NXB Chính trị quốc gia Sự thật, Hà Nội, 2010]
 
 <!-- id: EVT-1906 -->
+*   **1949:** Tại chiến khu Việt Bắc, Cục trưởng Cục Quân giới Trần Đại Nghĩa cùng các kỹ sư và công nhân quân giới Việt Nam nghiên cứu và chế tạo thành công súng và đạn không giật SKZ (các cỡ 60mm, 81mm và 120mm); với sức công phá uy lực xuyên thủng các tháp canh bê tông cốt thép dày kiên cố của quân đội viễn chinh Pháp (lần đầu xung trận giòn giã tại trận Phố Ràng và phố Lu), súng không giật SKZ đã giáng đòn hủy diệt chiến thuật đồn bốt tháp canh của thực dân Pháp trên chiến trường Đông Dương. [Nguồn: Bảo tàng Lịch sử Quốc gia - Giáo sư, Viện sĩ Trần Đại Nghĩa, https://baotanglichsu.vn/vi/Articles/3098/14892/giao-su-vien-si-tran-dai-nghia.html]
+
+<!-- id: EVT-3513 -->
 *   **20/01/1949:** Quân đội Lào Ítxala (tiền thân của Quân đội Nhân dân Lào) được thành lập. [Nguồn: Bảo tàng Lịch sử Quốc gia - Quân đội Lào Ítxala thành lập (20/01/1949), https://baotanglichsu.vn/vi/Articles/3097/16662/quan-doi-lao-itsala-thanh-lap-20-01-1949.html]
 
 <!-- id: EVT-1907 -->
@@ -7185,6 +7260,9 @@
 *   **29/09/1951:** Trung tướng Nguyễn Bình hy sinh trên đường ra Bắc báo cáo tình hình với Trung ương Đảng và Chủ tịch Hồ Chí Minh. [Nguồn: Bộ Quốc phòng, Trung tướng Nguyễn Bình (1904 - 1951), NXB Quân đội nhân dân, Hà Nội, 2008]
 
 <!-- id: EVT-1973 -->
+*   **10/1951:** Trong trận phục kích chống địch càn quét tại xã Tán Thuật (huyện Kiến Xương, tỉnh Thái Bình), nữ trung đội trưởng du kích Nguyễn Thị Chiên đã mưu trí, dũng cảm cùng đồng đội chia cắt đội hình địch, một mình dùng súng kíp và tay không tước súng, bắt sống viên quan ba Pháp chỉ huy cùng 6 lính địch; chiến công xuất sắc này đã đưa bà trở thành Nữ Anh hùng Lực lượng vũ trang nhân dân đầu tiên của Quân đội nhân dân Việt Nam được Chủ tịch Hồ Chí Minh biểu dương tại Đại hội Chiến sĩ thi đua toàn quốc năm 1952. [Nguồn: Bảo tàng Lịch sử Quốc gia - Nữ anh hùng Nguyễn Thị Chiên, https://baotanglichsu.vn/vi/Articles/3098/14890/nu-anh-hung-nguyen-thi-chien.html]
+
+<!-- id: EVT-3514 -->
 *   **10 - 14/11/1951:** Quân Pháp mở cuộc hành quân Hoa Tuylíp (đánh chiếm Chợ Bến) và Hoa Sen (chiếm thị xã Hòa Bình) nhằm lập phòng tuyến ngăn chặn liên lạc của Việt Minh. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Chiến dịch Hòa Bình (1951 - 1952), NXB Quân đội nhân dân, Hà Nội, 2001]
 
 <!-- id: EVT-1974 -->
@@ -7494,6 +7572,9 @@
 * **08/04/1954:** Liệt sĩ Nguyễn Ngọc Bảo (Tiểu đoàn phó thuộc Cục Quân báo, Bộ Tổng Tham mưu, người chỉ huy trận đánh thu bản đồ Điện Biên Phủ của Pháp) anh dũng hy sinh tại Điện Biên Phủ. [Nguồn: Hồ Chí Minh Toàn tập, tập 8 (1953 - 1954), NXB Chính trị quốc gia, Hà Nội, 2011, tr. 446; Viện Lịch sử Quân sự Việt Nam]
 
 <!-- id: EVT-2060 -->
+*   **23/04/1954:** Trong Chiến dịch Điện Biên Phủ, tại trận địa đồi E1, Khẩu đội trưởng Phùng Văn Khầu (Đại đội 755, Trung đoàn 675, Đại đoàn 351) chỉ huy khẩu đội sơn pháo 75mm kiên cường chi viện cho bộ binh đánh chiếm các cao điểm; khi các pháo thủ trong khẩu đội đều thương vong và kính ngắm pháo bị bom địch phá hỏng, một mình ông kiên trì ngắm bắn trực tiếp qua nòng pháo, nạp đạn và khai hỏa chính xác phá hủy 5 khẩu pháo 105mm, 6 đại liên và nhiều lô cốt của quân Pháp, giữ vững trận địa phòng ngự. [Nguồn: Cổng Thông tin điện tử Chính phủ - Vĩnh biệt người Anh hùng Điện Biên Phủ Phùng Văn Khầu, https://baochinhphu.vn/vinh-biet-nguoi-anh-hung-dien-bien-phu-phung-van-khau-102298150.htm]
+
+<!-- id: EVT-3515 -->
 *   **05/1954:** Sau chiến thắng Điện Biên Phủ, Chủ tịch Hồ Chí Minh đã nhận Stefan Kubiak (quân nhân lê dương Pháp gốc Ba Lan giác ngộ và gia nhập hàng ngũ Quân đội nhân dân Việt Nam tham gia chiến đấu trong chiến dịch) làm con nuôi và đặt tên Việt Nam là Hồ Chí Toán (mang họ của Người). Ông sau đó lập gia đình tại Hà Nội và được Đảng, Nhà nước tạo mọi điều kiện công tác và sinh sống. [Nguồn: Bộ Tư lệnh Quân khu 5, Lịch sử Lực lượng vũ trang nhân dân Quân khu 5 (1945 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005]
 
 <!-- id: EVT-2061 -->
@@ -7504,6 +7585,9 @@
 *Nguồn: Bộ đội cắm cờ chiến thắng trên hầm chỉ huy Pháp, 07/05/1954 / Bảo tàng Quân đội (Wikimedia Commons, Public domain)*
 
 <!-- id: EVT-2062 -->
+*   **06/05/1954:** Đêm ngày 6 rạng sáng 7/5/1954 tại Chiến dịch Điện Biên Phủ, Đại đội trưởng Lê Văn Dỵ (Đại đội 828, Tiểu đoàn 249, Trung đoàn 174, Đại đoàn 316) nhận mệnh lệnh từ cấp chỉ huy và trực tiếp phát lệnh châm ngòi khối bộc phá gần 1 tấn thuốc nổ đặt sâu trong đường hầm lòng đồi A1; tiếng nổ rung chuyển đất trời Mường Thanh xé toạc hầm ngầm cố thủ kiên cố nhất của địch, làm hiệu lệnh mở màn đợt tổng công kích quyết định trên toàn mặt trận đập tan hoàn toàn tập đoàn cứ điểm Điện Biên Phủ. [Nguồn: Báo Nhân Dân - Khối bộc phá đồi A1, https://nhandan.vn/khoi-boc-pha-doi-a1-post807180.html]
+
+<!-- id: EVT-3516 -->
 *   **07/05/1954:** Đúng 17 giờ 30 phút, dưới sự chỉ đạo và chỉ huy của Tổng Tư lệnh Đại tướng Võ Nguyên Giáp, Đại đội trưởng Tạ Quốc Luật (Đại đội 360, Trung đoàn 209, Đại đoàn 312) dẫn đầu tổ xung kích xông vào hầm chỉ huy bắt sống Tướng Christian de Castries cùng toàn bộ Bộ Tham mưu địch và phất cao lá cờ "Quyết chiến quyết thắng" trên nóc hầm. **Chiến dịch Điện Biên Phủ toàn thắng**, kết thúc 55 ngày đêm chiến đấu kiên cường, đập tan tập đoàn cứ điểm mạnh nhất Đông Dương của thực dân Pháp, "lừng lẫy năm châu, chấn động địa cầu". [Nguồn: https://special.nhandan.vn/ngay-7-5-1954-chien-dich-Dien-Bien-Phu/index.html]
 
 ![Hình ảnh tư liệu](images/event_20260923_103549.webp)
@@ -7518,6 +7602,13 @@
 *Nguồn: Bia mộ Anh hùng Trần Can tại Nghĩa trang liệt sĩ Điện Biên Phủ, khắc quê quán Yên Thành – Nghệ An và ngày hy sinh 07-05-1954 / Hoàng Văn Thái / Wikimedia Commons (CC BY-SA 3.0)*
 
 <!-- id: EVT-2064 -->
+*   **07/05/1954:** Đại đoàn trưởng Đại đoàn 312 Lê Trọng Tấn chỉ huy các trung đoàn tiến công đánh chiếm toàn bộ khu trung tâm Mường Thanh; lúc 17 giờ 30 phút, tổ xung kích của Đại đội 360 (Tiểu đoàn 130, Trung đoàn 209) do Đại đội trưởng Tạ Quốc Luật dẫn đầu tiến thẳng vào hầm ngầm bắt sống Chuẩn tướng Christian de Castries cùng toàn bộ Bộ Tham mưu tập đoàn cứ điểm Điện Biên Phủ, lá cờ "Quyết chiến Quyết thắng" tung bay hiên ngang trên nóc hầm chỉ huy của địch. [Nguồn: Bảo tàng Lịch sử Quốc gia - Đại tướng Lê Trọng Tấn, https://baotanglichsu.vn/vi/Articles/3096/13060/dai-tuong-le-trong-tan.html]
+
+![Hình ảnh tư liệu](images/event_20261029_104253_1.webp)
+
+*Nguồn: Đại đoàn trưởng Đại đoàn 312 Lê Trọng Tấn tại mặt trận Điện Biên Phủ, tháng 5/1954. Ảnh: Triệu Đại / Thông tấn xã Việt Nam / Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3517 -->
 *   **08/05/1954:** **Hội nghị Giơnevơ** bắt đầu phiên họp đầu tiên bàn về vấn đề lập lại hòa bình ở Đông Dương. [Nguồn: Bảo tàng Lịch sử Quốc gia - Hội nghị Giơnevơ (1954), https://baotanglichsu.vn/vi/Articles/3097/15714/hoi-nghi-gionevo-1954.html]
 
 <!-- id: EVT-2065 -->
@@ -8197,6 +8288,9 @@
 *   **18/02/1962:** Chính phủ Việt Nam Dân chủ Cộng hòa ra tuyên bố lên án việc Mỹ tăng cường can thiệp và xâm lược miền Nam Việt Nam. [Nguồn: Bộ Ngoại giao, Lịch sử Ngoại giao Việt Nam (1945 - 2000), NXB Chính trị quốc gia, Hà Nội, 2002]
 
 <!-- id: EVT-2220 -->
+*   **23/07/1962:** Tại Cung Quốc gia Geneva (Thụy Sĩ), Bộ trưởng Bộ Ngoại giao Ung Văn Khiêm đại diện Chính phủ nước Việt Nam Dân chủ Cộng hòa long trọng ký kết Tuyên bố về nền trung lập của Lào và Nghị định thư kèm theo (Hiệp định Geneva năm 1962 về Lào) cùng đại diện 13 quốc gia khác, khẳng định sự tôn trọng nền độc lập, chủ quyền và toàn vẹn lãnh thổ của nước láng giềng anh em Lào. [Nguồn: Cổng Thông tin điện tử Chính phủ - Đồng chí Ung Văn Khiêm: Người chiến sĩ cộng sản kiên cường, https://baochinhphu.vn/dong-chi-ung-van-khiem-nguoi-chien-si-cong-san-kien-cuong-102198754.htm]
+
+<!-- id: EVT-3518 -->
 *   **24/07/1962:** Nói chuyện tại Hội nghị cán bộ cao cấp của Đảng và Nhà nước, Chủ tịch Hồ Chí Minh đã phát động cuộc vận động nâng cao ý thức trách nhiệm, tăng cường quản lý kinh tế tài chính, chống tham ô, lãng phí, quan liêu. Người coi tệ tham ô, lãng phí, quan liêu là cái ung nhọt do xã hội cũ để lại cần phải gạt bỏ cho thật sạch để cơ thể đất nước ngày càng khỏe mạnh. [Nguồn: Hồ Chí Minh Toàn tập, tập 13 (1961 - 1962), NXB Chính trị quốc gia, Hà Nội, 2011, tr. 418-425]
 
 <!-- id: EVT-2221 -->
@@ -8501,6 +8595,9 @@
 *   **04/04/1965:** Không quân Mỹ huy động hàng trăm lượt máy bay đánh phá ác liệt Cầu Dài và thị xã Đồng Hới (Quảng Bình); nữ dân quân Trần Thị Lý dũng cảm chèo đò chở cán bộ vượt sông dưới bom đạn để chỉ đạo chiến đấu, kiên cường bám trụ trận địa phòng không bảo vệ huyết mạch giao thông, đào hầm cứu đồng đội và nhân dân bị bom vùi (sau này được phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân năm 1967). [Nguồn: Báo Quảng Bình, "Nữ anh hùng Trần Thị Lý kiên cường bên Cầu Dài"; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2299 -->
+*   **04/04/1965:** Trong ngày thứ hai của trận chiến ác liệt bảo vệ cầu Hàm Rồng (Thanh Hóa) trước đợt oanh tạc dữ dội của hàng trăm máy bay Mỹ, nữ dân quân Nam Ngạn Ngô Thị Tuyển (khi ấy 19 tuổi, thể trọng chỉ 42kg) đã thể hiện tinh thần quả cảm phi thường khi vác hai hòm đạn pháo cao xạ nặng tới 98kg vượt qua hào sâu, bom đạn tiếp tế kịp thời cho trận địa pháo cao xạ bắn rơi máy bay đối phương, trở thành biểu tượng huyền thoại về chủ nghĩa anh hùng cách mạng của phụ nữ Việt Nam. [Nguồn: Báo Nhân Dân - Nữ anh hùng Ngô Thị Tuyển: Kỳ tích vác 98kg đạn bên cầu Hàm Rồng, https://nhandan.vn/nu-anh-hung-ngo-thi-tuyen-ky-tich-vac-98kg-dan-ben-cau-ham-rong-post641290.html]
+
+<!-- id: EVT-3519 -->
 *   **08/04/1965:** Chính phủ Việt Nam Dân chủ Cộng hòa công bố Lập trường 4 điểm làm cơ sở cho việc giải quyết vấn đề Việt Nam. [Nguồn: Bộ Ngoại giao, Lịch sử Ngoại giao Việt Nam (1945 - 2000), NXB Chính trị quốc gia, Hà Nội, 2002; Báo Nhân Dân số ra ngày 09/04/1965]
 
 <!-- id: EVT-2300 -->
@@ -8665,6 +8762,9 @@
 *   **14/02/1966:** Lính thuộc Sư đoàn Mãnh Hổ (Hàn Quốc) gây ra vụ thảm sát Thái Bình, sát hại dã man 65 thường dân vô tội không có vũ khí (phần lớn là người già, phụ nữ và trẻ em) tại làng Thái Bình (nay thuộc xã Canh Hòa, huyện Vân Canh, tỉnh Bình Định). [Nguồn: Tỉnh ủy - UBND tỉnh Quảng Ngãi, Tội ác chiến tranh của quân đội Mỹ và đồng minh tại Quảng Ngãi, NXB Quảng Ngãi, 2005]
 
 <!-- id: EVT-2347 -->
+*   **04/03/1966:** Phi công Nguyễn Hồng Nhị (Đại đội 1, Trung đoàn không quân 921) điều khiển tiêm kích MiG-21 xuất kích và bắn tên lửa tiêu diệt chiếc máy bay trinh sát không người lái tầm cao Ryan 147 Firebee của không quân Mỹ trên vùng trời Cẩm Phả (Quảng Ninh); đây là chiến công bắn rơi máy bay đầu tiên của dòng tiêm kích phản lực MiG-21 trong lịch sử Không quân nhân dân Việt Nam, mở đầu bảng vàng chiến công của các phi công tiêm kích đánh chặn Việt Nam. [Nguồn: Báo Công an Nhân dân - Những cánh én bạc trên bầu trời Hà Nội, https://cand.com.vn/Phong-su/Nhung-canh-en-bac-tren-bau-troi-Ha-Noi-i582910/]
+
+<!-- id: EVT-3520 -->
 *   **09 - 10/03/1966:** Trận A Sầu diễn ra tại Căn cứ Đặc biệt A Sầu nằm trong thung lũng A Sầu (tỉnh Thừa Thiên). Căn cứ do quân đội Mỹ thiết lập nhằm ngăn chặn tuyến đường mòn Hồ Chí Minh, được phòng thủ bởi Lực lượng Đặc biệt Mỹ và Dân sự Chiến đấu (CIDG). Sau các đợt pháo kích và tấn công bộ binh dữ dội của Quân Giải phóng, cộng với thời tiết xấu làm hạn chế không kích yểm trợ, căn cứ đã thất thủ. Lực lượng Mỹ và đồng minh chịu thương vong nặng nề và buộc phải triệt thoái vào ngày 10 tháng 3, giúp Quân Giải phóng kiểm soát được một cứ điểm yết hầu trên tuyến vận tải chiến lược. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử Kháng chiến chống Mỹ cứu nước (1954 - 1975), tập 3, NXB Chính trị quốc gia, Hà Nội, 2013]
 
 <!-- id: EVT-2348 -->
@@ -8684,6 +8784,9 @@
 * **28/05/1966:** Liệt sĩ Nguyễn Văn Lịch (Tiểu đội trưởng trinh sát bộ đội địa phương quận Dĩ An) bị thương nặng vẫn kiên cường dùng lựu đạn tiêu diệt giặc và anh dũng hy sinh. [Nguồn: Bộ Chỉ huy Quân sự tỉnh Bình Dương, Lịch sử Lực lượng vũ trang nhân dân tỉnh Bình Dương (1945 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005]
 
 <!-- id: EVT-2352 -->
+*   **24/06/1966:** Phi công MiG-17 Nguyễn Văn Bảy (thuộc Trung đoàn không quân 923) lập chiến công xuất sắc khi bắn rơi 1 chiếc tiêm kích hiện đại F-4 Phantom II của hải quân Mỹ trên bầu trời miền Bắc; chỉ dùng súng pháo không đối không trên tiêm kích cận âm MiG-17, ông đã lập kỷ lục bắn hạ tổng cộng 7 máy bay siêu âm tối tân của không quân và hải quân Mỹ trong suốt cuộc kháng chiến chống Mỹ cứu nước, trở thành 1 trong 3 phi công MiG-17 huyền thoại đạt danh hiệu Át (Ace) của thế giới. [Nguồn: Cổng Thông tin điện tử Chính phủ - Vĩnh biệt Đại tá, Anh hùng phi công Nguyễn Văn Bảy, https://baochinhphu.vn/vinh-biet-dai-ta-anh-hung-phi-cong-nguyen-van-bay-102262791.htm]
+
+<!-- id: EVT-3521 -->
 * **26/06/1966:** Liệt sĩ Đồng Phước Huyến (Tiểu đội trưởng thuộc Tiểu đoàn 72 bộ đội địa phương tỉnh Quảng Nam) anh dũng hy sinh trong trận chống càn tại Quảng Nam. [Nguồn: Bộ Chỉ huy Quân sự tỉnh Quảng Nam, Lịch sử Lực lượng vũ trang nhân dân tỉnh Quảng Nam (1945 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005]
 
 <!-- id: EVT-2353 -->
@@ -8761,7 +8864,7 @@
 *   **1967:** Lê Thị Tuyết (Quảng Trị) làm y tá Huyện đội Hải Lăng, thường xuyên hoạt động bí mật tại khu vực rú Thi Ông, rú Trà Lộc, nơi được coi là hậu cứ của bộ đội và du kích. [Nguồn: Trung ương Hội Liên hiệp Phụ nữ Việt Nam, Mẹ Suốt - Anh hùng ngành Giao thông Vận tải, NXB Phụ nữ, Hà Nội, 1999; Báo Nhân Dân]
 
 <!-- id: EVT-2373 -->
-*   **1967:** Trịnh Tố Tâm được phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ở tuổi 22 với kỷ lục 53 lần đạt danh hiệu "Dũng sĩ diệt Mỹ" trên chiến trường Đường 9 - Quảng Trị. [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân trong kháng chiến chống Mỹ cứu nước, NXB Quân đội nhân dân, Hà Nội, 1996]
+*   **1967:** Đồng chí Trịnh Tố Tâm được phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ở tuổi 22 với kỷ lục 53 lần đạt danh hiệu "Dũng sĩ diệt Mỹ"; trên cương vị Đại đội trưởng Đại đội 16 công binh tỉnh Thừa Thiên, ông được mệnh danh là "Vua mìn đèo Hải Vân" khi dũng cảm, mưu trí chỉ huy đánh mìn lật nhào 58 đoàn tàu quân sự của địch trên tuyến đường sắt chiến lược Huế - Đà Nẵng, phá hủy hàng trăm toa xe và tiêu diệt nhiều sinh lực đối phương. [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân trong kháng chiến chống Mỹ cứu nước, NXB Quân đội nhân dân, Hà Nội, 1996]
 
 <!-- id: EVT-2374 -->
 *   **1967:** Tác phẩm *"Bất khuất"* - tập hồi ký của nhà cách mạng Nguyễn Đức Thuận (với sự hỗ trợ chấp bút của nhà báo Trần Đĩnh) được xuất bản lần đầu tại miền Bắc. Cuốn sách ghi lại hành trình kiên trung, bất khuất của ông qua 8 năm bị tù đày, tra tấn dã man tại các nhà tù thực dân và đế quốc (đặc biệt là Côn Đảo), trở thành một hiện tượng văn học - lịch sử gây xúc động sâu sắc và là biểu tượng cho khí tiết của người chiến sĩ cách mạng Việt Nam. [Nguồn: Nguyễn Đức Thuận, Bất khuất (Hồi ký), NXB Thanh niên, Hà Nội, 1967; Hội Nhà văn Việt Nam; Báo Nhân Dân]
@@ -8813,6 +8916,9 @@
 *   **03/1967:** Đại úy Phạm Văn Đính (ngụy quân Sài Gòn), Tiểu đoàn trưởng Tiểu đoàn 52 kiêm Quận trưởng Quảng Điền, đã bí mật dùng quyền hạn của mình để bảo vệ và giúp đỡ một cán bộ Việt Cộng tên Kỳ bị bắt giam không bị tra tấn và trốn thoát thành công. [Nguồn: Ban Tuyên giáo Tỉnh ủy Thừa Thiên Huế, Lịch sử Đảng bộ huyện Quảng Điền; Báo Thừa Thiên Huế]
 
 <!-- id: EVT-2389 -->
+*   **28/04/1967:** Phi công MiG-21 Mãi Văn Cương (thuộc Trung đoàn không quân 921) xuất kích đánh chặn và bắn rơi 1 chiếc tiêm kích bom F-105D Thunderchief của không quân Mỹ trên vùng trời tỉnh Hòa Bình; trong cuộc kháng chiến chống Mỹ cứu nước, ông đã bắn rơi 8 máy bay Mỹ, trở thành một trong những phi công tiêm kích Át (Ace) hàng đầu của Không quân nhân dân Việt Nam. [Nguồn: Báo Công an Nhân dân - Huyền thoại không chiến Việt Nam, https://cand.com.vn/Phong-su/Huyen-thoai-khong-chien-Viet-Nam-i519450/]
+
+<!-- id: EVT-3522 -->
 *   **09/05/1967:** Những người biểu tình phản chiến tại Mỹ đã tổ chức lễ thức tưởng niệm Norman Morrison, sau đó xông vào chiếm giữ Lầu Năm Góc trong 4 ngày để phản đối chiến tranh tại Việt Nam. [Nguồn: Hồ Chí Minh Toàn tập, tập 15 (1966 - 1969), NXB Chính trị quốc gia, Hà Nội, 2011, tr. 301-304; Báo Nhân Dân]
 
 <!-- id: EVT-2390 -->
@@ -8863,6 +8969,9 @@
 *Nguồn: Trận địa pháo 105mm của quân đội Mỹ bắn chi viện trên chiến trường Tây Nguyên trong Chiến dịch Đắk Tô, tháng 11/1967. Ảnh: George L. MacGarrigle / U.S. Army Center of Military History / Wikimedia Commons (Public domain)*
 
 <!-- id: EVT-2403 -->
+*   **18/11/1967:** Biên đội tiêm kích MiG-21 gồm Phạm Thanh Ngân và Nguyễn Văn Cốc cất cánh đánh chặn biên đội máy bay Mỹ xâm phạm vùng trời miền Bắc; với lối đánh bất ngờ, quả cảm, phi công Phạm Thanh Ngân đã bắn rơi tại chỗ 1 chiếc tiêm kích bom F-105 Thunderchief của không quân Mỹ trên vùng trời Vĩnh Phú; trong toàn bộ cuộc kháng chiến chống Mỹ, ông bắn hạ 8 máy bay Mỹ (sau này được thăng quân hàm Thượng tướng, Chủ nhiệm Tổng cục Chính trị QĐND Việt Nam). [Nguồn: Báo Nhân Dân - Thượng tướng Phạm Thanh Ngân, https://nhandan.vn/thuong-tuong-pham-thanh-ngan-post625890.html]
+
+<!-- id: EVT-3523 -->
 *   **27/11/1967:** Quân ủy Trung ương thành lập Bộ Tư lệnh Đoàn 559 (Bộ Tư lệnh Bộ đội Trường Sơn) do Đại tá Đồng Sĩ Nguyên làm Tư lệnh. Đây là mốc chuyển biến bước ngoặt đưa tuyến vận tải chi viện Trường Sơn từ phương thức thô sơ sang vận tải cơ giới quy mô lớn và tác chiến hiệp đồng binh chủng, biến Đường mòn Hồ Chí Minh thành mạng lưới liên hoàn đánh bại mọi chiến dịch đánh phá ác liệt của địch. [Nguồn: Báo Nhân Dân - Trung tướng Đồng Sỹ Nguyên - Tư lệnh đường Trường Sơn huyền thoại, https://nhandan.vn/special/Trung-tuong-Dong-Sy-Nguyen-Tu-lenh-Duong-Truong-Son-huyen-thoai/index.html]
 
 ![Hình ảnh tư liệu](images/event_20260930_105124.webp)
@@ -9031,12 +9140,18 @@
 *   **04/05/1968:** Đợt 2 của cuộc Tổng tiến công Mậu Thân nổ ra rền vang khắp Sài Gòn bất chấp kế hoạch bị lộ. Cú đánh bồi này đã giáng một đòn tâm lý tàn khốc, góp phần khiến tướng Westmoreland mất chức và Tổng thống Mỹ Lyndon B. Johnson từ bỏ ý định tái tranh cử, đẩy Mỹ vào bàn đàm phán hòa bình. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Lịch sử cuộc Tổng tiến công và nổi dậy Tết Mậu Thân 1968, NXB Quân đội nhân dân, Hà Nội, 2008; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2446 -->
-*   **13/05/1968:** Cuộc đàm phán chính thức giữa phái đoàn Việt Nam Dân chủ Cộng hòa và Mỹ bắt đầu tại Paris. [Nguồn: Bộ Tư lệnh Binh chủng Tăng - Thiết giáp, Lịch sử Bộ đội Tăng - Thiết giáp Quân đội nhân dân Việt Nam (1959 - 2009), NXB Quân đội nhân dân, Hà Nội, 2009]
+*   **07/05/1968:** Phi công MiG-21 Nguyễn Văn Cốc (Trung đoàn không quân 921) lập chiến công xuất sắc khi bắn rơi 1 chiếc tiêm kích F-4D Phantom II của không quân Mỹ trên vùng trời Đô Lương (Nghệ An), bắt sống phi công đối phương; với thành tích bắn hạ 9 máy bay có người lái của quân đội Mỹ và 1 máy bay trinh sát không người lái Firebee, ông trở thành phi công tiêm kích bắn rơi nhiều máy bay Mỹ nhất trong toàn bộ cuộc kháng chiến chống Mỹ cứu nước (Top Ace của cuộc kháng chiến). [Nguồn: Bảo tàng Lịch sử Quốc gia - Phi công Nguyễn Văn Cốc, https://baotanglichsu.vn/vi/Articles/3098/14895/phi-cong-nguyen-van-coc.html]
+
+<!-- id: EVT-3524 -->
+*   **13/05/1968:** Tại Trung tâm Hội nghị quốc tế phố Kléber (Paris, Pháp), cuộc đàm phán chính thức giữa phái đoàn Chính phủ Việt Nam Dân chủ Cộng hòa và phái đoàn chính phủ Hoa Kỳ chính thức khai mạc; Bộ trưởng Xuân Thủy - Trưởng đoàn đại biểu Việt Nam Dân chủ Cộng hòa - phát biểu tuyên bố đanh thép, yêu cầu phía Mỹ phải chấm dứt vô điều kiện các cuộc ném bom bắn phá và mọi hành động chiến tranh khác chống nước Việt Nam Dân chủ Cộng hòa, mở đầu cuộc đấu tranh ngoại giao bền bỉ gần 5 năm đi tới Hiệp định Paris 1973. [Nguồn: Báo Nhân Dân - Dấu ấn ngoại giao tại Hội nghị Paris, https://nhandan.vn/dau-an-ngoai-giao-tai-hoi-nghi-paris-post734188.html]
 
 <!-- id: EVT-2447 -->
 *   **05/07/1968:** Sáng ngày 5/7, Lê Thị Tuyết (Quảng Trị) bị lính thủy đánh bộ Tiểu đoàn 4 ngụy bắt tại bến Thi Ông và bị tra tấn tàn khốc bằng nước xà phòng pha ớt bột. Buổi chiều cùng ngày, do kiên quyết không khai báo, bà bị trói vào cây mít, chịu những đòn tra tấn man rợ (cắt vú, xẻo tai, mổ bụng, moi gan) và bị chôn sống hở đầu. 10 tên lính địch đã xẻ gan bà làm 11 miếng và ăn nhậu ngay trước mặt người dân. Bà thoi thóp suốt 2 ngày 2 đêm rồi mới trút hơi thở cuối cùng. [Nguồn: Ban Tuyên giáo Tỉnh ủy Quảng Trị, Lịch sử Đảng bộ tỉnh Quảng Trị, tập 2, NXB Chính trị quốc gia, Hà Nội, 2007]
 
 <!-- id: EVT-2448 -->
+*   **07/07/1968:** Trong Chiến dịch Đường 9 - Khe Sanh, Tiểu đoàn trưởng Vũ Xuân Đài (Tiểu đoàn 2, Trung đoàn 9, Sư đoàn 304) mưu trí, dũng cảm chỉ huy đơn vị công kiên đánh chiếm Điểm cao 689 - chốt điểm kiên cố chiến lược then chốt của lính thủy đánh bộ Mỹ; dù 8 lần bị thương trong các đợt giao tranh ác liệt, ông vẫn kiên cường bám trụ sở chỉ huy, chỉ huy bộ đội đánh lui các đợt phản kích điên cuồng của đối phương, giữ vững điểm cao (sau này ông được phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân). [Nguồn: Báo Công an Nhân dân - Người anh hùng 8 lần bị thương, https://cand.com.vn/Phong-su/Nguoi-anh-hung-8-lan-bi-thuong-i524180/]
+
+<!-- id: EVT-3525 -->
 *   **24/07/1968:** Lúc 16 giờ, 10 nữ thanh niên xung phong thuộc Tiểu đội 4, Đại đội 552, Tổng đội 55 đã anh dũng hy sinh tại Ngã ba Đồng Lộc (Hà Tĩnh). Khi các chị đang tránh bom trong căn hầm chữ A sau khi làm nhiệm vụ san lấp hố bom để bảo đảm mạch máu giao thông chi viện cho chiến trường miền Nam, một quả bom của không quân Mỹ đã nổ trúng hầm. Người trẻ nhất mới 17 tuổi, ba người lớn nhất 24 tuổi. Sự hy sinh của 10 cô gái đã dệt nên khúc tráng ca bất tử về tinh thần kiên cường, bất khuất của lực lượng thanh niên xung phong. [Nguồn: Báo Thanh Hóa - Ngày này năm xưa (24/7): 10 nữ thanh niên xung phong hy sinh tại Ngã ba Đồng Lộc, https://vhds.baothanhhoa.vn/ngay-nay-nam-xua-24-7-10-nu-thanh-nien-xung-phong-anh-dung-hy-sinh-tai-nga-ba-dong-loc-44444.htm]
 
 ![Khu mộ 10 nữ liệt sĩ Ngã ba Đồng Lộc](images/event_20260928_190011.webp)
@@ -9426,6 +9541,9 @@
 *   **06/04/1972:** Mỹ tiến hành cuộc chiến tranh phá hoại miền Bắc lần thứ hai (Chiến dịch Linebacker I). [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân, NXB Quân đội nhân dân, Hà Nội, 1996]
 
 <!-- id: EVT-2552 -->
+*   **14/04/1972:** Trong Chiến dịch Bắc Tây Nguyên (Mặt trận Đắk Tô - Tân Cảnh 1972), Thiếu tá Lê Quang Lộc - Tiểu đoàn trưởng Tiểu đoàn 1, Trung đoàn 48 (Sư đoàn 320A Đồng Bằng) trực tiếp chỉ huy tiểu đoàn dũng mãnh công kiên đánh chiếm Căn cứ Charlie (Đồi Sạc Ly - Điểm cao 1049), đập tan cứ điểm then chốt trên dãy ngọn đồi chiến lược phía tây sông Pô Kô, tiêu diệt hoàn toàn Tiểu đoàn 11 dù ngụy quân Sài Gòn do Trung tá Nguyễn Đình Bảo chỉ huy; ngày 21/04/1972, đồng chí anh dũng hy sinh tại điểm cao 1015 (Delta) và được truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân. [Nguồn: Báo Công an Nhân dân - Trận đánh huyền thoại đồi Sạc Ly, https://cand.com.vn/Phong-su/Tran-danh-huyen-thoai-doi-Sac-Ly-i518760/]
+
+<!-- id: EVT-3526 -->
 *   **17/04/1972:** Nữ y tá Lê Thị Ngọc Tiến cùng y sĩ Lê Thị Lệ Chi anh dũng hy sinh tại xã Hòa Định (huyện Chợ Gạo, tỉnh Tiền Giang) để bảo vệ 18 thương binh nặng dưới hầm bí mật. Bị địch bắt và tra tấn dã man nhưng nhất quyết không khai báo, đến 5 giờ sáng, trước lời đe dọa mổ bụng bằng dao lê Mỹ của tên trung đội trưởng thám báo, chị Tiến đã hiên ngang đáp trả: *"Có giỏi thì làm, mày đừng hù, đừng hòng tao khai!"*. Kẻ thù dã man đã mổ bụng, moi gan và treo thi hài chị lên cây me để hòng uy hiếp cách mạng. [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân, NXB Quân đội nhân dân, Hà Nội, 1996]
 
 <!-- id: EVT-2553 -->
@@ -9452,6 +9570,9 @@
 *Nguồn: Xác xe tăng lội nước PT-76 từ thời chiến tranh Đông Dương ở Bắc Lào / Gavilan1644 / Wikimedia Commons (CC BY 3.0)*
 
 <!-- id: EVT-3460 -->
+*   **23/05/1972:** Phi công MiG-21 Nguyễn Đức Soát (Đại đội 3, Trung đoàn không quân 927) xuất kích đánh chặn và bắn rơi 1 chiếc máy bay cường kích A-7 Corsair II của hải quân Mỹ trên bầu trời Bắc Giang, bắt sống viên phi công đối phương; trong năm 1972 (Chiến dịch Linebacker I và II), ông lập chiến công bắn hạ 6 máy bay hiện đại của Mỹ, trở thành phi công Ace huyền thoại của Không quân nhân dân Việt Nam (sau này là Trung tướng, Phó Tổng Tham mưu trưởng QĐND Việt Nam). [Nguồn: Báo Nhân Dân - Nhật ký không chiến của phi công Nguyễn Đức Soát, https://nhandan.vn/nhat-ky-khong-chien-cua-phi-cong-nguyen-duc-soat-post628100.html]
+
+<!-- id: EVT-3527 -->
 *   **01/06/1972:** Bộ Chính trị ra Nghị quyết số 220-NQ/TW về chuyển hướng và đẩy mạnh công tác ở miền Bắc, chuyển nền kinh tế sang thời chiến để tiếp tục đánh thắng giặc Mỹ. [Nguồn: Ban Chấp hành Trung ương Đảng, Văn kiện Đảng Toàn tập, tập 33, NXB Chính trị quốc gia, Hà Nội, 2004]
 
 <!-- id: EVT-2558 -->
@@ -9487,6 +9608,9 @@
 *   **12/10/1972:** Bí thư thứ nhất Lê Duẩn gửi điện cho Trung ương Cục miền Nam về "Nhiệm vụ cấp bách khi công bố Hiệp định Pari", chỉ đạo tranh thủ thời cơ giành quyền làm chủ ở nông thôn và các vùng ven đô thị, hình thành thế "da báo" có lợi cho cách mạng. [Nguồn: Bộ Ngoại giao, Mặt trận Ngoại giao với Cuộc đàm phán Paris, NXB Chính trị quốc gia, Hà Nội, 2004]
 
 <!-- id: EVT-2566 -->
+*   **15/10/1972:** Phi công MiG-21 Đặng Ngọc Ngự (Trung đoàn không quân 921) một mình dũng cảm lao vào không chiến với tốp máy bay tiêm kích F-4 của không quân Mỹ để bảo vệ vùng trời Thủ đô Hà Nội; sau những vòng lượn quần nhau quyết liệt trên không, ông đã anh dũng hy sinh; với chiến công xuất sắc bắn rơi tổng cộng 7 máy bay Mỹ trong các cuộc không chiến, liệt sĩ Đặng Ngọc Ngự là một trong những phi công tiêm kích Át (Ace) ưu tú được Nhà nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân. [Nguồn: Báo Công an Nhân dân - Những phi công quả cảm, https://cand.com.vn/Tu-lieu-cong-an/Nhung-phi-cong-qua-cam-i503210/]
+
+<!-- id: EVT-3528 -->
 *   **26/10/1972:** Sau khi chính quyền Nixon lật lọng, viện cớ ngụy quyền Sài Gòn phản đối để trì hoãn ký kết và đòi sửa đổi 69 điều khoản, Chính phủ Việt Nam Dân chủ Cộng hòa ra Tuyên bố công khai toàn bộ nội dung thỏa thuận ngầm và thời gian biểu đã thống nhất, vạch trần hành động nuốt lời của Mỹ trước dư luận quốc tế. Bị dồn vào thế lúng túng khi chỉ còn 12 ngày trước cuộc bầu cử Tổng thống Mỹ, Cố vấn An ninh Quốc gia Henry Kissinger buộc phải tổ chức họp báo khẩn cấp tại Nhà Trắng và đưa ra phát ngôn lịch sử: *"Hòa bình đang ở trong tầm tay"* (*"Peace is at hand"*). Tuyên bố này thực chất là đòn tâm lý chính trị nhằm trấn an dư luận và cử tri Mỹ rằng chiến tranh sắp chấm dứt để bảo đảm chiến thắng áp đảo cho Richard Nixon trong ngày bầu cử 07/11, đồng thời là thủ thuật ngoại giao hoãn binh để Mỹ chuẩn bị mở cuộc tập kích chiến lược rải thảm B-52 vào tháng 12/1972 nhằm gây sức ép buộc Hà Nội nhượng bộ. [Nguồn: Bộ Ngoại giao, Mặt trận Ngoại giao với Cuộc đàm phán Paris, NXB Chính trị quốc gia, Hà Nội, 2004]
 
 ![Hình ảnh tư liệu](images/event_20260930_214520_2.webp)
@@ -9602,7 +9726,7 @@
 *   **13/10/1973:** Ban Chấp hành Trung ương Đảng ban hành Nghị quyết số 227-NQ/TW (Hội nghị lần thứ 21), xác định nhiệm vụ cơ bản của cách mạng miền Nam trong giai đoạn mới là tiếp tục thực hiện chiến lược cách mạng dân tộc dân chủ nhân dân, dùng bạo lực cách mạng để giành chính quyền. [Nguồn: Bộ Quốc phòng, Lịch sử Bộ Tổng tham mưu trong kháng chiến chống Mỹ (1954 - 1975), NXB Quân đội nhân dân, Hà Nội, 1997]
 
 <!-- id: EVT-2598 -->
-*   **03/12/1973:** 8 chiến sĩ đặc công thuộc Đội 5 (Đoàn 10 Rừng Sác) tập kích kho xăng Nhà Bè, thiêu hủy 35 triệu gallon xăng dầu và nhiều cơ sở vật chất của địch. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Trung đoàn 10 Đặc công Rừng Sác (1966 - 2006), NXB Quân đội nhân dân; Báo Quân đội nhân dân]
+*   **03/12/1973:** Dưới sự chỉ huy trực tiếp của Trung đoàn trưởng kiêm Chính ủy Đoàn 10 Đặc công Rừng Sác Lê Bá Ước (Bảy Ước), 8 chiến sĩ đặc công Đội 5 bí mật tiềm nhập luồn sâu vào Tổng kho xăng dầu Nhà Bè (kho dự trữ nhiên liệu chiến lược lớn nhất của quân đội Mỹ và ngụy quyền Sài Gòn), gài khối nổ hẹn giờ thiêu rụi hơn 250 triệu lít xăng dầu (khoảng 35 triệu gallon) cùng hàng loạt bồn bể, kho tàng cháy ngùn ngụt suốt 12 ngày đêm. [Nguồn: Báo Công an Nhân dân - Trận đánh kho xăng Nhà Bè và huyền thoại Đặc công Rừng Sác, https://cand.com.vn/Truyen-thong/Tran-danh-kho-xang-Nha-Be-va-huyen-thoai-Dac-cong-Rung-Sac-i716492/]
 
 <!-- id: EVT-2599 -->
 * **03/12/1973:** Liệt sĩ Nguyễn Công Bao (Thượng sĩ, Trung đội trưởng chiến sĩ cảm tử Đại đội 5, Đoàn 10 Đặc công Rừng Sác) anh dũng hy sinh sau trận tập kích thiêu hủy Tổng kho xăng dầu Nhà Bè. [Nguồn: Báo Quảng Ninh - Những anh hùng đặc công Rừng Sác, https://baoquangninh.vn/nhung-anh-hung-dac-cong-rung-sac-post3354090.html; Báo Quân đội nhân dân, https://ct.qdnd.vn/phong-su-dieu-tra/bai-3-tang-hinh-tap-kich-dich-528024]
@@ -9702,7 +9826,7 @@
 *Nguồn: Ảnh: TTXVN / Chiến dịch Huế - Đà Nẵng 1975*
 
 <!-- id: EVT-2626 -->
-*   **10/03/1975:** Quân Giải phóng miền Nam Việt Nam nổ súng tiến công thị xã Buôn Ma Thuột, mở màn đòn then chốt quyết định của Chiến dịch Tây Nguyên. Sau hơn 30 giờ chiến đấu dũng mãnh, quân Giải phóng làm chủ hoàn toàn thị xã vào ngày 11/03, giáng đòn sấm sét làm rung chuyển toàn bộ hệ thống phòng thủ của địch, tạo bước ngoặt đột biến cho cuộc Tổng tiến công mùa Xuân 1975. [Nguồn: Báo Nhân Dân - Ngày 10/3/1975: Trận Buôn Ma Thuột mở màn, https://nhandan.vn/ngay-1031975-tran-buon-ma-thuot-mo-man-post864024.html]
+*   **10/03/1975:** Dưới sự chỉ huy trực tiếp của Trung tướng Hoàng Minh Thảo - Tư lệnh Chiến dịch Tây Nguyên, Quân Giải phóng miền Nam Việt Nam bất ngờ nổ súng đánh đòn "điểm huyệt" chiến lược tiến công thị xã Buôn Ma Thuột. Sau hơn 30 giờ chiến đấu dũng mãnh, quân ta tiêu diệt Sở chỉ huy Sư đoàn 23 ngụy và làm chủ hoàn toàn thị xã vào ngày 11/03, làm rung chuyển toàn bộ hệ thống phòng thủ của địch, tạo bước ngoặt đột biến mở màn cuộc Tổng tiến công và nổi dậy mùa Xuân 1975. [Nguồn: Báo Nhân Dân - Ngày 10/3/1975: Trận Buôn Ma Thuột mở màn, https://nhandan.vn/ngay-1031975-tran-buon-ma-thuot-mo-man-post864024.html]
 
 ![Hình ảnh tư liệu](images/event_20260924_120723.webp)
 
@@ -9998,7 +10122,7 @@
 *   **20/07/1977:** Hội đồng Bảo an Liên Hợp Quốc thông qua Nghị quyết 413 khuyến nghị Đại hội đồng kết nạp Việt Nam vào Liên Hợp Quốc sau khi Hoa Kỳ quyết định từ bỏ quyền phủ quyết. [Nguồn: Hội đồng Bảo an Liên Hợp Quốc, Nghị quyết số 413 (1977) ngày 20/07/1977; Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, NXB Chính trị quốc gia, Hà Nội, 2002]
 
 <!-- id: EVT-2704 -->
-*   **20/09/1977:** Đại hội đồng Liên Hợp Quốc khóa 32 nhất trí thông qua Nghị quyết 32/2, chính thức kết nạp nước Cộng hòa Xã hội Chủ nghĩa Việt Nam làm thành viên thứ 149 của Liên Hợp Quốc. Lễ thượng cờ Việt Nam diễn ra trang trọng tại trụ sở Liên Hợp Quốc ở New York. [Nguồn: Đại hội đồng Liên Hợp Quốc, Nghị quyết số 32/2 ngày 20/09/1977; Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, NXB Chính trị quốc gia, Hà Nội, 2002; Báo Nhân Dân]
+*   **20/09/1977:** Đại hội đồng Liên Hợp Quốc khóa 32 nhất trí thông qua Nghị quyết 32/2, chính thức kết nạp nước Cộng hòa Xã hội Chủ nghĩa Việt Nam làm thành viên thứ 149 của Liên Hợp Quốc, ghi dấu thắng lợi ngoại giao to lớn với sự đóng góp tích cực của Trưởng đoàn đàm phán chuyên trách Phạm Ngạc (Vụ trưởng Vụ Các tổ chức quốc tế) và phái đoàn ngoại giao Việt Nam do Bộ trưởng Ngoại giao Nguyễn Duy Trinh dẫn đầu; lễ thượng cờ Tổ quốc diễn ra trang trọng tại trụ sở Liên Hợp Quốc ở New York. [Nguồn: Đại hội đồng Liên Hợp Quốc, Nghị quyết số 32/2 ngày 20/09/1977; Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, NXB Chính trị quốc gia, Hà Nội, 2002; Báo Nhân Dân]
 
 <!-- id: EVT-2705 -->
 *   **24 - 25/09/1977:** 9 sư đoàn chủ lực Khmer Đỏ ồ ạt mở cuộc tiến công xâm lấn biên giới Tây Nam vào các tỉnh Tây Ninh, An Giang, Kiên Giang, Long An và Đồng Tháp. Trong đêm 24 rạng sáng 25/09, quân Pol Pot tràn vào xã Tân Lập (huyện Tân Biên, Tây Ninh) gây ra vụ thảm sát man rợ, sát hại 592 thường dân vô tội (bao gồm toàn bộ thầy cô giáo tại Trường Tiểu học Tân Thành và nhiều gia đình), đốt phá hàng trăm nóc nhà và trường học. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Lực lượng vũ trang Quân khu 7 (1945 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005, tr. 410-425; Báo Nhân Dân]
@@ -10056,6 +10180,9 @@
 *Nguồn: Quảng trường Ba Đình, Hà Nội. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-2722 -->
+*   **06/11/1978:** Mẹ Phạm Thị Ngự (xã Hàm Liêm, huyện Hàm Thuận Bắc, tỉnh Bình Thuận) được Chủ tịch nước ký quyết định phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân; Mẹ có 8 người con trai duy nhất đều tòng quân đánh giặc và cả 8 người con của Mẹ đều anh dũng hy sinh vì Tổ quốc, bản thân Mẹ tự tay đào hầm bí mật nuôi giấu cán bộ, bộ đội, trở thành tấm gương sáng ngời của người phụ nữ Bình Thuận vừa là Anh hùng Lực lượng vũ trang nhân dân vừa được phong tặng danh hiệu Bà mẹ Việt Nam anh hùng (1994). [Nguồn: Báo Bình Thuận - Người mẹ có 8 người con liệt sĩ, https://baobinhthuan.com.vn/nguoi-me-co-8-nguoi-con-liet-si-102145.html]
+
+<!-- id: EVT-3529 -->
 * **16/11/1978:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Lê Thị Pha (Đại đội trưởng Đại đội nữ Pháo binh Y2 Đại Lào, Bảo Lộc (Tỉnh Lâm Đồng)). [Nguồn: Quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ngày 16/11/1978 của Chủ tịch nước; Ban Tuyên giáo Tỉnh ủy Lâm Đồng, Lịch sử Phụ nữ tỉnh Lâm Đồng]
 
 <!-- id: EVT-2723 -->
@@ -10519,6 +10646,9 @@
 *   **22/09 - 07/10/1990:** Nhận lời mời của Chính phủ Trung Quốc, Phó Chủ tịch Hội đồng Bộ trưởng Đại tướng Võ Nguyên Giáp dẫn đầu đoàn đại biểu Việt Nam tham dự Đại hội Thể thao châu Á lần thứ 11 (ASIAD 11) tại Bắc Kinh với tư cách khách mời danh dự đặc biệt. Sự hiện diện và các cuộc tiếp xúc cấp cao của Đại tướng ("ngoại giao Tướng Giáp") ngay sau Hội nghị Thành Đô đã góp phần phá băng quan hệ, đẩy nhanh tiến trình bình thường hóa quan hệ ngoại giao giữa Việt Nam và Trung Quốc. [Nguồn: Thông tấn xã Việt Nam (TTXVN), Bản tin ngày 24/09/1990; Tổng tập Hồi ký Đại tướng Võ Nguyên Giáp, NXB Quân đội nhân dân, 2011; Báo Nhân Dân]
 
 <!-- id: EVT-2862 -->
+*   **29/09/1990:** Tại trụ sở Phái đoàn đại diện thường trực Mỹ tại Liên Hợp Quốc (New York), Bộ trưởng Ngoại giao nước Cộng hòa Xã hội Chủ nghĩa Việt Nam Nguyễn Cơ Thạch có cuộc hội đàm lịch sử kéo dài 90 phút với Ngoại trưởng Hoa Kỳ James Baker; đây là cuộc tiếp xúc chính thức cấp Bộ trưởng Ngoại giao đầu tiên giữa hai nước kể từ khi cuộc kháng chiến chống Mỹ kết thúc năm 1975, đánh dấu bước đột phá ngoại giao quyết định mở ra tiến trình bình thường hóa quan hệ Việt - Mỹ và tháo gỡ bế tắc cho giải pháp hòa bình về vấn đề Campuchia. [Nguồn: Cổng Thông tin điện tử Chính phủ - Đồng chí Nguyễn Cơ Thạch: Nhà ngoại giao tài ba, đổi mới, https://baochinhphu.vn/dong-chi-nguyen-co-thach-nha-ngoai-giao-tai-ba-doi-moi-102294158.htm]
+
+<!-- id: EVT-3530 -->
 *   **22/10/1990:** Cộng đồng châu Âu (EC), tiền thân của Liên minh châu Âu (EU), chính thức thiết lập quan hệ ngoại giao với Việt Nam. [Nguồn: Tuyên bố chung thiết lập quan hệ ngoại giao giữa CHXHCN Việt Nam và Cộng đồng Châu Âu (EC) ngày 22/10/1990; Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, 2002; Báo Nhân Dân]
 
 <!-- id: EVT-2863 -->
@@ -10708,6 +10838,13 @@
 *Nguồn: Vịnh Hạ Long nhìn từ trên cao. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-2920 -->
+*   **17/12/1994:** Tại Phủ Chủ tịch ở Hà Nội, Nhà nước long trọng tổ chức Lễ phong tặng và truy tặng danh hiệu vinh dự Nhà nước "Bà mẹ Việt Nam anh hùng" đợt đầu tiên cho các bà mẹ tiêu biểu cả nước: Mẹ Nguyễn Thị Thứ (Điện Bàn, Quảng Nam; có 9 con ruột, 1 con rể và 2 cháu ngoại hy sinh), Mẹ Trần Thị Mít (Hải Lăng, Quảng Trị; có 9 người con hy sinh), Mẹ Lê Thị Tự (Điện Bàn, Quảng Nam; có 9 con hy sinh), Mẹ Văn Thị Thừa (Điện Bàn, Quảng Nam; có chồng và 9 con hy sinh), Mẹ Nguyễn Thị Nghị (Củ Chi, TP. Hồ Chí Minh; có chồng và 7 con hy sinh) và Mẹ Lê Thị Sáu (Điện Bàn, Quảng Nam; có 8 con hy sinh), tôn vinh đức hy sinh vô bờ bến và tượng đài bất tử của những người Mẹ Việt Nam trong sự nghiệp bảo vệ và giải phóng Tổ quốc. [Nguồn: Cổng Thông tin điện tử Chính phủ - Mẹ Nguyễn Thị Thứ: Biểu tượng vĩ đại của Bà mẹ Việt Nam anh hùng, https://baochinhphu.vn/me-nguyen-thi-thu-bieu-tuong-vi-dai-cua-nguoi-me-viet-nam-anh-hung-10283921.htm]
+
+![Hình ảnh tư liệu](images/event_20261029_104254.webp)
+
+*Nguồn: Tượng đài Bà mẹ Việt Nam anh hùng lấy nguyên mẫu từ Mẹ Nguyễn Thị Thứ tại Núi Cấm, thành phố Tam Kỳ, tỉnh Quảng Nam. Ảnh: Wikimedia Commons (CC BY-SA 4.0)*
+
+<!-- id: EVT-3531 -->
 *   **20/12/1994:** Lò Văn Giá được Đảng và Nhà nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân nhằm ghi nhận những công lao to lớn của ông trong sự nghiệp đấu tranh giải phóng dân tộc. [Nguồn: Quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ngày 20/12/1994 của Chủ tịch nước; Ban Tuyên giáo Tỉnh ủy Sơn La, Lịch sử Đảng bộ tỉnh Sơn La, NXB Chính trị quốc gia, 2005]
 
 <!-- id: EVT-2921 -->
