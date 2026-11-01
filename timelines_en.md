@@ -7762,6 +7762,13 @@
 *   **Jan. 8, 1955:** The Ngo Dinh Diem administration issued Ordinance No. 2 and Ordinance No. 7 (Feb. 3, 1955) regarding land reform, aiming to reclaim land distributed to peasants during the resistance. [Source: Institute of History, History of Vietnam, Vol. 11 (1954 - 1965), Social Sciences Publishing House, Hanoi, 2014]
 
 <!-- id: EVT-2089 -->
+*   **Jan. 21, 1955:** On the night of the 28th day of the 12th lunar month, three days before Tet, the Saigon regime headed by Ngo Dinh Diem in Duy Xuyen district announced that prisoners would be released to spend Tet with their families, then took 37 detainees — mostly grassroots cadres who had joined the anti-French resistance, including a pregnant woman — to the Vinh Trinh dam in Duy Xuyen district, Quang Nam province. There, escort troops beat the victims with rifle butts, cut off their noses and ears and gouged out their eyes, tied stones to their bodies and threw them into the deep reservoir to destroy the evidence. The massacre of 37 people, representing 38 lives including the unborn child, was denounced to the International Control Commission and before world opinion, becoming one of the defining atrocities of the "denounce and destroy communists" policy in the South; after 1975, a memorial with 38 lotus flowers was built beside the dam and the site was classified as a national historical relic in 2011. [Source: Da Nang City Portal - Vinh Trinh Massacre Relic Site, https://danang.gov.vn/vi/w/khu-di-tich-vu-tham-sat-vinh-trinh; Da Nang Police Newspaper - 60th Anniversary of the Vinh Trinh Massacre, https://cadn.com.vn/ky-niem-60-nam-tham-sat-vinh-trinh-post126684.html]
+
+![Historical Image](images/event_20261101_112432.webp)
+
+*Source: Administrative map of Duy Xuyen District (Quang Nam), 2020, showing the Vinh Trinh reservoir where the massacre took place, at the junction of Duy Hoa, Duy Son and Duy Trinh communes / Trinh Quoc Viet / Wikimedia Commons (CC BY-SA 4.0)*
+
+<!-- id: EVT-3538 -->
 *   **Mar. 1955:** The 7th Conference of the Central Committee of the Vietnam Workers' Party set out the tasks of consolidating the North and conducting political struggle in the South. [Source: Ministry of National Defense, General Vo Nguyen Giap and the Anti-French Resistance, People's Army Publishing House, Hanoi, 2011; Vietnam Military History Museum]
 
 <!-- id: EVT-2090 -->

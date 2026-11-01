@@ -7762,6 +7762,13 @@
 *   **08/01/1955:** Chính quyền Ngô Đình Diệm ban hành Dụ số 2 và Dụ số 7 (03/02/1955) về cải cách điền địa, thực chất là cướp lại ruộng đất mà cách mạng đã chia cho nông dân, khôi phục giai cấp địa chủ. [Nguồn: Viện Sử học, Lịch sử Việt Nam, tập 11 (1954 - 1965), NXB Khoa học Xã hội, Hà Nội, 2014]
 
 <!-- id: EVT-2089 -->
+*   **21/01/1955:** Đêm 28 tháng Chạp, ba ngày trước Tết Ất Mùi, ngụy quyền Sài Gòn do Ngô Đình Diệm đứng đầu, tại quận Duy Xuyên, cho người thông báo sẽ trả tự do cho các tù nhân để về ăn Tết, rồi đưa 37 người đang bị giam — phần lớn là cán bộ cơ sở từng tham gia kháng chiến chống Pháp, trong đó có một phụ nữ mang thai — ra đập Vĩnh Trinh thuộc huyện Duy Xuyên, tỉnh Quảng Nam. Tại đây, toán lính hộ tống dùng báng súng đánh đập, xẻo mũi, cắt tai, móc mắt các nạn nhân, buộc đá vào người rồi ném xuống lòng hồ sâu để phi tang. Vụ thảm sát 37 người, tương ứng 38 sinh mạng kể cả thai nhi chưa chào đời, được nhân dân tố cáo trước Ủy ban Quốc tế giám sát đình chiến và dư luận quốc tế, trở thành một trong những tội ác điển hình của chính sách "tố cộng, diệt cộng" ở miền Nam; sau năm 1975, khu tưởng niệm Vĩnh Trinh được xây bên đập với 38 đóa sen tưởng nhớ các nạn nhân và được xếp hạng di tích lịch sử cấp quốc gia năm 2011. [Nguồn: Cổng Thông tin điện tử thành phố Đà Nẵng - Khu di tích vụ thảm sát Vĩnh Trinh, https://danang.gov.vn/vi/w/khu-di-tich-vu-tham-sat-vinh-trinh; Báo Công an Đà Nẵng - Kỷ niệm 60 năm thảm sát Vĩnh Trinh, https://cadn.com.vn/ky-niem-60-nam-tham-sat-vinh-trinh-post126684.html]
+
+![Hình ảnh tư liệu](images/event_20261101_112432.webp)
+
+*Nguồn: Bản đồ hành chính huyện Duy Xuyên (Quảng Nam) năm 2020, vị trí hồ Vĩnh Trinh nơi xảy ra vụ thảm sát, ở vùng giáp ranh các xã Duy Hòa, Duy Sơn và Duy Trinh / Trịnh Quốc Việt / Wikimedia Commons (CC BY-SA 4.0)*
+
+<!-- id: EVT-3538 -->
 *   **03/1955:** Hội nghị lần thứ 7 Ban Chấp hành Trung ương Đảng Lao động Việt Nam đề ra nhiệm vụ củng cố miền Bắc và đấu tranh chính trị ở miền Nam. [Nguồn: Bộ Quốc phòng, Đại tướng Võ Nguyên Giáp với cuộc kháng chiến chống thực dân Pháp, NXB Quân đội nhân dân, Hà Nội, 2011; Bảo tàng Lịch sử Quân sự Việt Nam]
 
 <!-- id: EVT-2090 -->
