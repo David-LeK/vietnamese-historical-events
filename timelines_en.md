@@ -3050,6 +3050,13 @@
 *   **1687:** Lord Nguyen Phuc Tan passed away. His son, Nguyen Phuc Tran (Lord Nghia), succeeded him. [Source: 1643 Naval Battle (Tuoi Tre), https://tuoitre.vn/nld/van-nghe/nhung-nguoi-giu-dat-the-tu-nguyen-phuc-tan-va-tran-hai-chien-nam-1643-20230225200055584.htm]
 
 <!-- id: EVT-0845 -->
+*   **July 5, 1687:** Sir Isaac Newton published his landmark treatise *Philosophiæ Naturalis Principia Mathematica* (Mathematical Principles of Natural Philosophy). In Book III, Newton directly cited observations of the unique diurnal tide regime (one high tide and one low tide per day) at the port of Batsha (modern-day Do Son, Hai Phong) recorded by English navigator Francis Davenport in 1678 to validate and substantiate his law of universal gravitation. [Source: Dan Tri News - A Vietnamese port once included by Isaac Newton in his classical work, https://dantri.com.vn/khoa-hoc/mot-cang-bien-viet-nam-tung-duoc-isaac-newton-dua-vao-cong-trinh-kinh-dien-20261102113507219.htm]
+
+![Title page of Isaac Newton's Principia Mathematica, 1687](images/event_20261102_204003.webp)
+
+*Source: Title page of the 1687 first edition of Isaac Newton's "Philosophiæ Naturalis Principia Mathematica" (Wikimedia Commons/Public domain)*
+
+<!-- id: EVT-3539 -->
 *   **1691:** Lord Nguyen Phuc Tran passed away. His son, Nguyen Phuc Chu (Lord Minh), succeeded him. [Source: Nguyen Phuc Chu (National Museum of History), https://baotanglichsu.vn/vi/Articles/3101/69489/quoc-chua-nguyen-phuc-chu-va-nhung-bai-tho-vinh-canh-sacvung-thuan-quang-tren-djo-su-ky-kieu.html]
 
 <!-- id: EVT-0846 -->

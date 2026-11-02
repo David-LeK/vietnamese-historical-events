@@ -3050,6 +3050,13 @@
 *   **1687:** Chúa Nguyễn Phúc Tần mất, con là Nguyễn Phúc Trăn lên nối ngôi (Nghĩa Vương). [Nguồn: Hải chiến 1643 (Tuổi Trẻ), https://tuoitre.vn/nld/van-nghe/nhung-nguoi-giu-dat-the-tu-nguyen-phuc-tan-va-tran-hai-chien-nam-1643-20230225200055584.htm]
 
 <!-- id: EVT-0845 -->
+*   **05/07/1687:** Nhà bác học Isaac Newton xuất bản tác phẩm kinh điển *Philosophiæ Naturalis Principia Mathematica* (Các nguyên lý toán học của triết học tự nhiên). Trong Quyển III, Newton đã dẫn chứng số liệu quan trắc chế độ nhật triều đặc biệt (mỗi ngày chỉ có một lần nước lên và một lần nước xuống) tại cảng Batsha (nay thuộc Đồ Sơn, Hải Phòng) do nhà hàng hải Francis Davenport ghi nhận năm 1678 để kiểm chứng và chứng minh Thuyết vạn vật hấp dẫn. [Nguồn: Báo Dân trí - Một cảng biển Việt Nam từng được Isaac Newton đưa vào công trình kinh điển, https://dantri.com.vn/khoa-hoc/mot-cang-bien-viet-nam-tung-duoc-isaac-newton-dua-vao-cong-trinh-kinh-dien-20261102113507219.htm]
+
+![Trang bìa tác phẩm Principia Mathematica của Isaac Newton năm 1687](images/event_20261102_204003.webp)
+
+*Nguồn: Trang bìa ấn bản đầu tiên của tác phẩm "Philosophiæ Naturalis Principia Mathematica" (1687) của Isaac Newton (Wikimedia Commons/Public domain)*
+
+<!-- id: EVT-3539 -->
 *   **1691:** Chúa Nguyễn Phúc Trăn mất, con là Nguyễn Phúc Chu lên nối ngôi (Minh Vương). [Nguồn: Nguyễn Phúc Chu (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3101/69489/quoc-chua-nguyen-phuc-chu-va-nhung-bai-tho-vinh-canh-sacvung-thuan-quang-tren-djo-su-ky-kieu.html]
 
 <!-- id: EVT-0846 -->
