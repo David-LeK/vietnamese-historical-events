@@ -10380,6 +10380,13 @@
 *   **18/12/1980:** Quốc hội khóa VI thông qua Hiến pháp năm 1980, Hiến pháp của thời kỳ quá độ lên chủ nghĩa xã hội. [Nguồn: Hiến pháp nước Cộng hòa Xã hội Chủ nghĩa Việt Nam năm 1980; Văn kiện Quốc hội Toàn tập, tập 5 (1976 - 1981), NXB Chính trị quốc gia, Hà Nội, 2008]
 
 <!-- id: EVT-2769 -->
+*   **1981:** Kiến trúc sư, nhà bảo tồn người Ba Lan Kazimierz Kwiatkowski (thường được gọi thân mật là Kazik) bắt đầu khảo sát, nghiên cứu phố cổ Hội An trong thời gian tham gia chương trình hợp tác Việt Nam - Ba Lan về bảo tồn di tích Mỹ Sơn. Ông nhận diện những giá trị đặc biệt của đô thị cổ, vận động chính quyền địa phương gìn giữ, trùng tu các ngôi nhà gỗ và giới thiệu Hội An với giới nghiên cứu, bạn bè quốc tế, góp phần đặt nền móng để Hội An và Mỹ Sơn được UNESCO ghi danh Di sản Văn hóa Thế giới năm 1999. [Nguồn: Cổng thông tin điện tử thành phố Đà Nẵng, "Cố kiến trúc sư Kazik – dấu son hữu nghị Việt Nam và Ba Lan", https://danang.gov.vn/vi/web/dng/w/co-kien-truc-su-kazik-dau-son-huu-nghi-viet-nam-va-ba-lan; Báo Người Lao Động, "Hội An kỷ niệm 25 năm ngày mất cố kiến trúc sư người Ba Lan Kazik", https://tuoitre.vn/nld/thoi-su/hoi-an-ky-niem-25-nam-ngay-mat-co-kien-truc-su-nguoi-ba-lan-kazik-20220318121108852.htm]
+
+![Nhà cổ Tân Ký ở phố cổ Hội An](images/event_20261104_135304.webp)
+
+*Nguồn: Nhà cổ Tân Ký ở phố cổ Hội An, tiêu biểu cho những ngôi nhà gỗ mà kiến trúc sư Kazik vận động bảo tồn. Ảnh: P. Hughes / Wikimedia Commons, CC BY 4.0*
+
+<!-- id: EVT-3541 -->
 *   **13/01/1981:** Ban Bí thư ra Chỉ thị số 100/CT-TƯ ("Khoán 100") về việc cải tiến công tác khoán, mở rộng khoán sản phẩm đến nhóm và người lao động trong hợp tác xã nông nghiệp. [Nguồn: Chỉ thị số 100-CT/TW ngày 13/01/1981 của Ban Bí thư Trung ương Đảng; Văn kiện Đảng Toàn tập, tập 42 (1981), NXB Chính trị quốc gia, Hà Nội, 2005]
 
 <!-- id: EVT-2770 -->
@@ -11008,6 +11015,13 @@
 * **1997:** Anh hùng Lực lượng vũ trang nhân dân Trần Hải Phụng (Hai Phụng) (Thiếu tướng, nguyên Tư lệnh Quân khu Sài Gòn – Gia Định, Phó Tư lệnh Quân khu 7. Phó Trưởng đoàn chuyên gia 385 đặc trách về công tác phòng thủ đô thị cho Cuba) từ trần. [Nguồn: Bộ Tư lệnh Quân khu 7, Thiếu tướng Trần Hải Phụng - Cuộc đời và sự nghiệp, NXB Quân đội nhân dân, 2003; Báo Quân khu 7]
 
 <!-- id: EVT-2954 -->
+*   **19/03/1997:** Kiến trúc sư Kazimierz Kwiatkowski qua đời tại Huế ở tuổi 52 sau 16 năm gắn bó với di sản Việt Nam, trong đó có công tác bảo tồn, trùng tu Hoàng thành Huế. Ông được ghi nhận có đóng góp lớn cho việc bảo tồn Hội An, Mỹ Sơn và Cố đô Huế nhưng không sống được đến ngày Hội An và Mỹ Sơn được UNESCO ghi danh Di sản Văn hóa Thế giới (1999); năm 2007, Hội An xây dựng Công viên Kazik và dựng tượng tưởng niệm ông tại trung tâm phố cổ. [Nguồn: Cổng thông tin điện tử thành phố Đà Nẵng, "Cố kiến trúc sư Kazik – dấu son hữu nghị Việt Nam và Ba Lan", https://danang.gov.vn/vi/web/dng/w/co-kien-truc-su-kazik-dau-son-huu-nghi-viet-nam-va-ba-lan; Báo Người Lao Động, "Hội An kỷ niệm 25 năm ngày mất cố kiến trúc sư người Ba Lan Kazik", https://tuoitre.vn/nld/thoi-su/hoi-an-ky-niem-25-nam-ngay-mat-co-kien-truc-su-nguoi-ba-lan-kazik-20220318121108852.htm]
+
+![Tượng đài kiến trúc sư Kazik tại phố cổ Hội An](images/event_20261104_135304_1.webp)
+
+*Nguồn: Tượng đài kiến trúc sư Kazimierz Kwiatkowski (Kazik) tại Công viên Kazik, phố cổ Hội An. Ảnh: SerChevalerie / Wikimedia Commons, CC0*
+
+<!-- id: EVT-3542 -->
 *   **07/04/1997:** Tại Hà Nội, Bộ trưởng Tài chính Việt Nam Nguyễn Sinh Hùng và Bộ trưởng Tài chính Hoa Kỳ Robert Rubin ký kết Hiệp định song phương về giải quyết nợ. Phía Mỹ đặt điều kiện tiên quyết buộc Việt Nam phải kế thừa và thanh toán toàn bộ khoản nợ khoảng 145 triệu USD (gồm 76 triệu USD nợ gốc và 69 triệu USD lãi tích lũy) của chính quyền Việt Nam Cộng hòa vay trước năm 1975, đổi lại Mỹ mới dỡ bỏ phong tỏa tài sản, mở đường cho Việt Nam tiếp cận các tổ chức tài chính quốc tế (WB, IMF, Ngân hàng Xuất Nhập khẩu Hoa Kỳ) và đàm phán Hiệp định Thương mại song phương (BTA). Dù phải gánh chịu đòi hỏi bất công khi phải trả nợ cho chính các khoản vay của chế độ do Mỹ dựng lên và tài trợ trong cuộc chiến tàn phá đất nước mà không nhận được bất kỳ khoản bồi thường chiến tranh nào (như Mỹ từng cam kết tại Điều 21 Hiệp định Paris 1973), Việt Nam đã chấp thuận vì mục tiêu hòa bình, bình thường hóa quan hệ và hội nhập quốc tế; toàn bộ khoản nợ đã được hoàn tất thanh toán vào ngày 31/12/2019. [Nguồn: Hiệp định dàn xếp nợ song phương giữa Chính phủ CHXHCN Việt Nam và Chính phủ Hợp chúng quốc Hoa Kỳ ký ngày 07/04/1997 tại Hà Nội; Bộ Tài chính; Báo Nhân Dân]
 
 <!-- id: EVT-2955 -->

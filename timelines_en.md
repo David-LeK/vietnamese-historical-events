@@ -10380,6 +10380,13 @@
 *   **Dec. 18, 1980:** The 6th National Assembly passed the 1980 Constitution, the constitution of the period of transition to socialism. [Source: Constitution of the Socialist Republic of Vietnam (1980); National Assembly Documents, Vol. 5 (1976 - 1981), National Political Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-2769 -->
+*   **1981:** Kazimierz Kwiatkowski, a Polish architect and conservationist known affectionately as Kazik, began surveying and studying Hội An while working under a Vietnamese–Polish programme to conserve the Mỹ Sơn sanctuary. He recognised the ancient town's exceptional heritage values, urged local authorities to preserve and restore its wooden houses, and introduced Hội An to researchers and international friends, helping to lay the groundwork for the UNESCO World Heritage inscription of Hội An and Mỹ Sơn in 1999. [Source: Da Nang City Portal, "Late architect Kazik – a bright mark in Vietnam–Poland friendship", https://danang.gov.vn/vi/web/dng/w/co-kien-truc-su-kazik-dau-son-huu-nghi-viet-nam-va-ba-lan; Nguoi Lao Dong Newspaper, "Hoi An marks 25th anniversary of Polish architect Kazik's death", https://tuoitre.vn/nld/thoi-su/hoi-an-ky-niem-25-nam-ngay-mat-co-kien-truc-su-nguoi-ba-lan-kazik-20220318121108852.htm; Viet Nam News, "Viet Nam pays tribute to Polish architect Kazik", https://vietnamnews.vn/life-style/373104/viet-nam-pays-tribute-to-polish-architect-kazik.html]
+
+![Tan Ky Old House in Hoi An](images/event_20261104_135304.webp)
+
+*Source: Tan Ky Old House in Hoi An, representative of the wooden houses that architect Kazik urged to preserve. Photo: P. Hughes / Wikimedia Commons, CC BY 4.0*
+
+<!-- id: EVT-3541 -->
 *   **Jan. 13, 1981:** The Party Secretariat issued Directive No. 100/CT-TU ("Contract 100") on improving the contract system, extending product-based contracts to groups and individual laborers in agricultural cooperatives. [Source: Secretariat Directive No. 100-CT/TW dated Jan. 13, 1981; Complete Party Documents, Vol. 42 (1981), National Political Publishing House, Hanoi, 2005]
 
 <!-- id: EVT-2770 -->
@@ -11008,6 +11015,13 @@
 * **1997:** Hero of the People's Armed Forces Trần Hải Phụng (Hai Phụng) (Thiếu tướng, nguyên Tư lệnh Quân khu Sài Gòn – Gia Định, Phó Tư lệnh Quân khu 7. Phó Trưởng đoàn chuyên gia 385 đặc trách về công tác phòng thủ đô thị cho Cuba) passed away. [Source: Military Region 7 Command, Major General Tran Hai Phung - Life and Career, People's Army Publishing House, 2003; Military Region 7 Newspaper]
 
 <!-- id: EVT-2954 -->
+*   **Mar. 19, 1997:** Kazimierz Kwiatkowski died in Huế at the age of 52 after 16 years devoted to Vietnam's heritage, including conservation and restoration work at the Imperial City of Huế. He is remembered for his major contributions to the preservation of Hội An, Mỹ Sơn and the Huế Imperial City, but did not live to see Hội An and Mỹ Sơn inscribed as UNESCO World Heritage Sites in 1999; in 2007 Hội An created Kazik Park and erected a memorial to him in the old town centre. [Source: Da Nang City Portal, "Late architect Kazik – a bright mark in Vietnam–Poland friendship", https://danang.gov.vn/vi/web/dng/w/co-kien-truc-su-kazik-dau-son-huu-nghi-viet-nam-va-ba-lan; Nguoi Lao Dong Newspaper, "Hoi An marks 25th anniversary of Polish architect Kazik's death", https://tuoitre.vn/nld/thoi-su/hoi-an-ky-niem-25-nam-ngay-mat-co-kien-truc-su-nguoi-ba-lan-kazik-20220318121108852.htm; Viet Nam News, "Viet Nam pays tribute to Polish architect Kazik", https://vietnamnews.vn/life-style/373104/viet-nam-pays-tribute-to-polish-architect-kazik.html]
+
+![Kazik memorial in Hoi An Ancient Town](images/event_20261104_135304_1.webp)
+
+*Source: Memorial to architect Kazimierz Kwiatkowski (Kazik) in Kazik Park, Hoi An Ancient Town. Photo: SerChevalerie / Wikimedia Commons, CC0*
+
+<!-- id: EVT-3542 -->
 *   **Apr. 7, 1997:** In Hanoi, Vietnamese Minister of Finance Nguyễn Sinh Hùng and US Treasury Secretary Robert Rubin signed a bilateral debt settlement agreement. The US set a prerequisite requiring Vietnam to assume and repay approximately $145 million (including $76 million in principal and $69 million in accrued interest) borrowed by the former Republic of Vietnam before 1975 in exchange for unfreezing Vietnamese assets, opening access to international financial institutions (World Bank, IMF, US Ex-Im Bank), and negotiating the Bilateral Trade Agreement (BTA). Despite the unjust burden of repaying debts incurred by the US-backed regime during a destructive war for which Vietnam received no war reparations (contrary to Article 21 of the 1973 Paris Peace Accords), Vietnam accepted the agreement for the sake of peace, economic development, and international integration; the debt was fully repaid by December 31, 2019. [Source: Bilateral Debt Settlement Agreement between the Government of the SRV and the Government of the USA signed Apr. 7, 1997 in Hanoi; Ministry of Finance; Nhan Dan Newspaper]
 
 <!-- id: EVT-2955 -->
