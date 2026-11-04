@@ -6922,6 +6922,13 @@
 *   **09/10/1947:** Bộ đội Việt Nam bắn rơi một máy bay Ju-52 của Pháp tại Cao Bằng, tiêu diệt 12 sĩ quan tham mưu và thu được bản kế hoạch tiến công Việt Bắc của địch. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Chiến dịch Việt Bắc Thu - Đông 1947, NXB Quân đội nhân dân, Hà Nội, 1997]
 
 <!-- id: EVT-1872 -->
+*   **13/10/1947:** Chiến sĩ liên lạc Nguyễn Danh Lộc, sau 4 ngày 3 đêm chạy bộ xuyên rừng từ Cao Bằng về tới trạm liên lạc Quán Vuông (Định Hóa, Thái Nguyên), mang theo bản "Kế hoạch Léa" thu được từ chiếc máy bay Ju-52 chở thiếu tá Lambert, đặc phái viên Bộ chỉ huy quân viễn chinh Pháp ở Bắc Đông Dương, bị bắn rơi trên vùng trời Cao Bằng ngày 09/10/1947. Anh chỉ kịp báo cáo rồi lăn ra ngủ, không kịp ăn bát cháo mà anh nuôi của trạm nấu vội. Ngay đêm đó, Tổng Tham mưu trưởng Hoàng Văn Thái triệu tập cán bộ nghiên cứu gấp tập tài liệu, làm rõ hai bước tiến công Léa và Cloclo của địch. [Nguồn: Trần Trọng Trung, "Những ngày bận rộn trong chiến dịch", Báo Quân đội nhân dân - Câu chuyện thời hoa lửa, https://sknc.qdnd.vn/thu-nhat-ki-chien-tranh/nhung-ngay-ban-ron-trong-chien-dich-500743]
+
+![Máy bay vận tải Amiot AAC.1 Toucan](images/event_20261104_115606.webp)
+
+*Nguồn: Máy bay vận tải Amiot AAC.1 Toucan, phiên bản do Pháp chế tạo của Junkers Ju 52 — loại máy bay chở thiếu tá Lambert bị bắn rơi trên vùng trời Cao Bằng ngày 09/10/1947. Ảnh: Wikimedia Commons (CC BY-SA 4.0)*
+
+<!-- id: EVT-3540 -->
 *   **24/10/1947:** Pháo binh Việt Nam phục kích bắn chìm 2 tàu chiến Pháp trên sông Lô tại Đoan Hùng, cắt đứt tuyến đường thủy của địch. [Nguồn: Bộ Tư lệnh Binh chủng Pháo binh, Lịch sử Binh chủng Pháo binh (1946 - 2006), NXB Quân đội nhân dân, Hà Nội, 2006]
 
 <!-- id: EVT-1873 -->

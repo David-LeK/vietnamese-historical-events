@@ -1,5 +1,5 @@
 {
-  "git_commit_id": "53ecdf9a7a6f909efd96bfac653254ea8075dd9f",
+  "git_commit_id": "352e0ab7f84fd986bd545215cd246f9e59dd3836",
   "last_lines": [
     "### **Thời kỳ Tiền sử và Sơ sử (Trước năm 800 TCN)** \u0000 ### **Prehistoric and Protohistoric Period (Before 800 BC)**",
     " \u0000 ",
@@ -6925,6 +6925,13 @@
     "*   **09/10/1947:** Bộ đội Việt Nam bắn rơi một máy bay Ju-52 của Pháp tại Cao Bằng, tiêu diệt 12 sĩ quan tham mưu và thu được bản kế hoạch tiến công Việt Bắc của địch. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Chiến dịch Việt Bắc Thu - Đông 1947, NXB Quân đội nhân dân, Hà Nội, 1997] \u0000 *   **Oct. 9, 1947:** Vietnamese forces shot down a French Ju-52 transport plane in Cao Bang, killing 12 staff officers and capturing the French offensive plan for Viet Bac. [Source: Military History Institute of Vietnam, The Viet Bac Autumn-Winter Campaign 1947, People's Army Publishing House, Hanoi, 1997]",
     " \u0000 ",
     "<!-- id: EVT-1872 --> \u0000 <!-- id: EVT-1872 -->",
+    "*   **13/10/1947:** Chiến sĩ liên lạc Nguyễn Danh Lộc, sau 4 ngày 3 đêm chạy bộ xuyên rừng từ Cao Bằng về tới trạm liên lạc Quán Vuông (Định Hóa, Thái Nguyên), mang theo bản \"Kế hoạch Léa\" thu được từ chiếc máy bay Ju-52 chở thiếu tá Lambert, đặc phái viên Bộ chỉ huy quân viễn chinh Pháp ở Bắc Đông Dương, bị bắn rơi trên vùng trời Cao Bằng ngày 09/10/1947. Anh chỉ kịp báo cáo rồi lăn ra ngủ, không kịp ăn bát cháo mà anh nuôi của trạm nấu vội. Ngay đêm đó, Tổng Tham mưu trưởng Hoàng Văn Thái triệu tập cán bộ nghiên cứu gấp tập tài liệu, làm rõ hai bước tiến công Léa và Cloclo của địch. [Nguồn: Trần Trọng Trung, \"Những ngày bận rộn trong chiến dịch\", Báo Quân đội nhân dân - Câu chuyện thời hoa lửa, https://sknc.qdnd.vn/thu-nhat-ki-chien-tranh/nhung-ngay-ban-ron-trong-chien-dich-500743] \u0000 *   **Oct. 13, 1947:** Liaison soldier Nguyen Danh Loc, after running four days and three nights through the jungle from Cao Bang, reached the Quan Vuong liaison station (Dinh Hoa, Thai Nguyen), carrying the \"Lea Plan\" recovered from the Ju-52 that was carrying Major Lambert, special envoy of the French Expeditionary Corps command in northern Indochina, and was shot down over Cao Bang on October 9, 1947. He barely managed to report before collapsing into sleep, without touching the bowl of rice porridge the station cook had hurriedly prepared. That same night, Chief of the General Staff Hoang Van Thai summoned officers to urgently study the documents, which revealed the enemy's two-phase offensive, Lea and Cloclo. [Source: Tran Trong Trung, \"Busy Days in the Campaign\", People's Army Newspaper - Wartime Stories, https://sknc.qdnd.vn/thu-nhat-ki-chien-tranh/nhung-ngay-ban-ron-trong-chien-dich-500743]",
+    " \u0000 ",
+    "![Máy bay vận tải Amiot AAC.1 Toucan](images/event_20261104_115606.webp) \u0000 ![Amiot AAC.1 Toucan transport aircraft](images/event_20261104_115606.webp)",
+    " \u0000 ",
+    "*Nguồn: Máy bay vận tải Amiot AAC.1 Toucan, phiên bản do Pháp chế tạo của Junkers Ju 52 — loại máy bay chở thiếu tá Lambert bị bắn rơi trên vùng trời Cao Bằng ngày 09/10/1947. Ảnh: Wikimedia Commons (CC BY-SA 4.0)* \u0000 *Source: Amiot AAC.1 Toucan transport aircraft, the French-built version of the Junkers Ju 52 — the aircraft type carrying Major Lambert that was shot down over Cao Bang on October 9, 1947. Photo: Wikimedia Commons (CC BY-SA 4.0)*",
+    " \u0000 ",
+    "<!-- id: EVT-3540 --> \u0000 <!-- id: EVT-3540 -->",
     "*   **24/10/1947:** Pháo binh Việt Nam phục kích bắn chìm 2 tàu chiến Pháp trên sông Lô tại Đoan Hùng, cắt đứt tuyến đường thủy của địch. [Nguồn: Bộ Tư lệnh Binh chủng Pháo binh, Lịch sử Binh chủng Pháo binh (1946 - 2006), NXB Quân đội nhân dân, Hà Nội, 2006] \u0000 *   **Oct. 24, 1947:** Vietnamese artillery ambushed a French naval convoy on the Lo River at Doan Hung, sinking two ships and cutting off the enemy's river supply route. [Source: Artillery High Command, History of the Artillery Branch (1946 - 2006), People's Army Publishing House, Hanoi, 2006]",
     " \u0000 ",
     "<!-- id: EVT-1873 --> \u0000 <!-- id: EVT-1873 -->",
@@ -14406,787 +14413,793 @@
         "source": "Bản đồ cuộc tấn công của quân đội Pháp lên chiến khu Việt Bắc trong Chiến dịch Thu - Đông 1947. Ảnh: Wikimedia Commons, CC BY-SA 3.0"
       }
     ],
-    "6943": [
+    "6925": [
+      {
+        "path": "images/event_20261104_115606.webp",
+        "source": "Máy bay vận tải Amiot AAC.1 Toucan, phiên bản do Pháp chế tạo của Junkers Ju 52 — loại máy bay chở thiếu tá Lambert bị bắn rơi trên vùng trời Cao Bằng ngày 09/10/1947. Ảnh: Wikimedia Commons (CC BY-SA 4.0)"
+      }
+    ],
+    "6950": [
       {
         "path": "images/event_20261002_163121_2.webp",
         "source": "Tượng đài Anh hùng Ngô Mây (ảnh hiện đại) / Wikimedia Commons (CC BY-SA 4.0)"
       }
     ],
-    "6950": [
+    "6957": [
       {
         "path": "images/event_20261008_143349.webp",
         "source": "Nhà bia tưởng niệm các nạn nhân vụ thảm sát Mỹ Trạch ngày 29/11/1947 tại xã Mỹ Thủy, huyện Lệ Thủy, Quảng Bình. Ảnh: Wikimedia Commons (Public domain)"
       }
     ],
-    "6981": [
+    "6988": [
       {
         "path": "images/event_20260930_104712.webp",
         "source": "Trận địa pháo Pháp tại Điện Biên Phủ. Ảnh: Wikimedia Commons"
       }
     ],
-    "7051": [
+    "7058": [
       {
         "path": "images/event_20260930_214520_1.webp",
         "source": "Cựu hoàng Bảo Đại. Ảnh: Wikimedia Commons"
       }
     ],
-    "7100": [
+    "7107": [
       {
         "path": "images/event_20261008_143349_1.webp",
         "source": "Tượng liệt sĩ Trần Văn Ơn (1931–1950) tại Công viên Bách Tùng Diệp, Quận 1, TP. Hồ Chí Minh. Ảnh: Phương Huy/Wikimedia Commons (CC BY-SA 4.0)"
       }
     ],
-    "7128": [
+    "7135": [
       {
         "path": "images/event_20261008_143350.webp",
         "source": "Raymonde Dien tại Berlin, tháng 8/1951 — một năm sau hành động nằm trên đường ray chặn đoàn tàu vũ khí sang Đông Dương. Ảnh: Horst Sturm/Lưu trữ Liên bang Đức (CC BY-SA 3.0, qua Wikimedia Commons)"
       }
     ],
-    "7156": [
+    "7163": [
       {
         "path": "images/event_20260924_111653.webp",
         "source": "Đại tướng Võ Nguyên Giáp, 1951 / Wikimedia Commons (Public domain)"
       }
     ],
-    "7163": [
+    "7170": [
       {
         "path": "images/event_20261025_210509.webp",
         "source": "Chân dung Hồng y Francis Spellman (1889–1967), Tổng Giám mục Tổng giáo phận New York, người đã trực tiếp bảo trợ Ngô Đình Diệm lưu trú tại chủng viện Maryknoll (1950–1953) và vận động giới chính khách Hoa Kỳ đưa Diệm về nắm quyền nhằm thiết lập chế độ Công giáo chống cộng tại miền Nam Việt Nam (ảnh chụp năm 1946, Lưu trữ Quốc gia Hà Lan / Wikimedia Commons, CC0)."
       }
     ],
-    "7173": [
+    "7180": [
       {
         "path": "images/event_20260923_123321.webp",
         "source": "Chủ tịch Hồ Chí Minh quan sát mặt trận Đông Khê (núi Báo Đông), Chiến dịch Biên giới Thu Đông 1950 (Ảnh: Vũ Năng An / TTXVN / Public domain)"
       }
     ],
-    "7267": [
+    "7274": [
       {
         "path": "images/event_20260930_214526_4.webp",
         "source": "Cầu Cổng Vàng, San Francisco. Ảnh: Wikimedia Commons"
       }
     ],
-    "7349": [
+    "7356": [
       {
         "path": "images/event_20261008_143350_1.webp",
         "source": "Chân dung nữ liệt sĩ Võ Thị Sáu (1933–1952). Ảnh: Wikimedia Commons (Public domain)"
       }
     ],
-    "7368": [
+    "7375": [
       {
         "path": "images/event_20261002_163121_3.webp",
         "source": "Đại tá, Anh hùng Lực lượng vũ trang nhân dân La Văn Cầu năm 2009 / Lương Văn Phúc (CC BY 2.0)"
       }
     ],
-    "7381": [
+    "7388": [
       {
         "path": "images/event_20261008_163113.webp",
         "source": "Mô hình phục dựng bếp Hoàng Cầm tại Chiến khu Đ, bếp dã chiến không khói mang tên chiến sĩ nuôi quân Hoàng Cầm / Phương Huy / Wikimedia Commons (CC BY-SA 4.0)"
       }
     ],
-    "7388": [
+    "7395": [
       {
         "path": "images/event_20260930_104254_4.webp",
         "source": "Núi rừng Tây Bắc. Ảnh: Wikimedia Commons"
       }
     ],
-    "7467": [
+    "7474": [
       {
         "path": "images/event_20260930_104257.webp",
         "source": "Tù binh Pháp tại Điện Biên Phủ 1954. Ảnh: Wikimedia Commons"
       }
     ],
-    "7480": [
+    "7487": [
       {
         "path": "images/event_20260930_104254_5.webp",
         "source": "Lán Tỉn Keo, Định Hóa, Thái Nguyên. Ảnh: Wikimedia Commons"
       }
     ],
-    "7505": [
+    "7512": [
       {
         "path": "images/event_20260930_214518_1.webp",
         "source": "Nhà tù Côn Đảo. Ảnh: Wikimedia Commons"
       }
     ],
-    "7536": [
+    "7543": [
       {
         "path": "images/event_20260930_104257_1.webp",
         "source": "Xe tăng Pháp bị tịch thu tại hầm De Castries, Điện Biên Phủ. Ảnh: Wikimedia Commons"
       }
     ],
-    "7543": [
+    "7550": [
       {
         "path": "images/event_20261008_163113_1.webp",
         "source": "Bia mộ Anh hùng Tô Vĩnh Diện tại Nghĩa trang liệt sĩ Điện Biên Phủ, khắc quê quán Nông Cống – Thanh Hóa và ngày hy sinh 21-01-1954 / Hoàng Văn Thái / Wikimedia Commons (CC BY 3.0)"
       }
     ],
-    "7556": [
+    "7563": [
       {
         "path": "images/event_20261008_150644.webp",
         "source": "Bản đồ tình huống trận Điện Biên Phủ (20/11/1953–07/05/1954) với vị trí các đại đoàn 308, 312, 351 của Việt Minh / Tác giả không rõ / Wikimedia Commons (CC0)"
       }
     ],
-    "7566": [
+    "7573": [
       {
         "path": "images/event_20261008_163114.webp",
         "source": "Tem bưu chính Việt Nam Dân chủ Cộng hòa phát hành năm 1970 khắc họa chân dung và chiến công lấp lỗ châu mai của anh hùng Phan Đình Giót / Wikimedia Commons (CC BY-SA 4.0)"
       }
     ],
-    "7576": [
+    "7583": [
       {
         "path": "images/event_20260930_214516_4.webp",
         "source": "Cựu hoàng Thành Thái. Ảnh: Wikimedia Commons"
       }
     ],
-    "7601": [
+    "7608": [
       {
         "path": "images/event_20260924_111654.webp",
         "source": "Bộ đội cắm cờ chiến thắng trên hầm chỉ huy Pháp, 07/05/1954 / Bảo tàng Quân đội (Wikimedia Commons, Public domain)"
       }
     ],
-    "7611": [
+    "7618": [
       {
         "path": "images/event_20260923_103549.webp",
         "source": "Ảnh: Triệu Đại / TTXVN"
       }
     ],
-    "7618": [
+    "7625": [
       {
         "path": "images/event_20261008_163114_1.webp",
         "source": "Bia mộ Anh hùng Trần Can tại Nghĩa trang liệt sĩ Điện Biên Phủ, khắc quê quán Yên Thành – Nghệ An và ngày hy sinh 07-05-1954 / Hoàng Văn Thái / Wikimedia Commons (CC BY-SA 3.0)"
       }
     ],
-    "7625": [
+    "7632": [
       {
         "path": "images/event_20261029_104253_1.webp",
         "source": "Đại đoàn trưởng Đại đoàn 312 Lê Trọng Tấn tại mặt trận Điện Biên Phủ, tháng 5/1954. Ảnh: Triệu Đại / Thông tấn xã Việt Nam / Wikimedia Commons (Public domain)"
       }
     ],
-    "7635": [
+    "7642": [
       {
         "path": "images/event_20260930_104711.webp",
         "source": "Chủ tịch Hồ Chí Minh cùng Đội OSS Deer Team năm 1945. Ảnh: Wikimedia Commons, Public domain"
       }
     ],
-    "7648": [
+    "7655": [
       {
         "path": "images/event_20261008_163114_2.webp",
         "source": "Chân dung họa sĩ Tô Ngọc Vân trong sách Souverains et notabilités d'Indochine xuất bản năm 1943 / Phủ Toàn quyền Đông Dương / Wikimedia Commons (Public domain)"
       }
     ],
-    "7658": [
+    "7665": [
       {
         "path": "images/event_20260923_104715.webp",
         "source": "Ảnh tư liệu / Báo Thế giới & Việt Nam (Bộ Ngoại giao)"
       }
     ],
-    "7670": [
+    "7677": [
       {
         "path": "images/event_20261008_150046_4.webp",
         "source": "Giáo sư Tạ Quang Bửu, đại diện Bộ Tổng Tư lệnh ký Hiệp định Giơnevơ / Nguyễn Xuân Hãn / Wikimedia Commons (CC BY-SA 4.0)"
       }
     ],
-    "7677": [
+    "7684": [
       {
         "path": "images/event_20260924_111656.webp",
         "source": "Hội nghị Giơ-ne-vơ 1954 / Quân đội Hoa Kỳ (Wikimedia Commons, Public domain)"
       }
     ],
-    "7684": [
+    "7691": [
       {
         "path": "images/event_20260930_214518_2.webp",
         "source": "Cầu Long Biên, Hà Nội năm 1954. Ảnh: Wikimedia Commons"
       }
     ],
-    "7691": [
+    "7698": [
       {
         "path": "images/event_20261025_210509_1.webp",
         "source": "Người di cư miền Bắc xuống tàu đổ bộ USS LST-901 của Hải quân Hoa Kỳ tại cảng Hải Phòng để vào Sài Gòn trong Chiến dịch \"Con đường đến Tự do\" (Operation Passage to Freedom, tháng 10/1954), bên dưới biểu ngữ tuyên truyền tâm lý chiến \"ĐÂY LÀ CON ĐƯỜNG TỰ DO CỦA BẠN\" đặt cạnh tượng Đức Mẹ Maria (ảnh: Hải quân Hoa Kỳ / Cục Lưu trữ Quốc gia Mỹ, 80-G-647057, Wikimedia Commons, Public domain)."
       }
     ],
-    "7713": [
+    "7720": [
       {
         "path": "images/event_20261002_163121_4.webp",
         "source": "Bác Hồ nói chuyện với các chiến sĩ Đại đoàn 308 / VietnamNet (Public domain)"
       }
     ],
-    "7726": [
+    "7733": [
       {
         "path": "images/event_20260928_185653.webp",
         "source": "Cầu Hiền Lương bắc qua sông Bến Hải (Quảng Trị), ranh giới quân sự tạm thời vĩ tuyến 17 từ năm 1954. Ảnh: Bút Chiến / Wikimedia Commons, CC BY-SA 3.0"
       }
     ],
-    "7736": [
+    "7743": [
       {
         "path": "images/event_20260923_104751.webp",
         "source": "Ảnh tư liệu TTXVN / Báo Nhân Dân"
       }
     ],
-    "7743": [
+    "7750": [
       {
         "path": "images/event_20260924_103214.webp",
         "source": "Bìa tạp chí TIME số ra ngày 22/11/1954 / TIME"
       }
     ],
-    "7753": [
+    "7760": [
       {
         "path": "images/event_20261025_210509_2.webp",
         "source": "Chân dung Thiếu tướng tình báo Vũ Ngọc Nhạ (Vũ Xuân Nhã, 1928–2002, biệt danh \"Ông Cố vấn\"), người đã mang vỏ bọc giáo dân Công giáo Phát Diệm di cư trong làn sóng \"Bắc 54\" để thâm nhập vào Phủ Tổng thống Sài Gòn và chỉ huy lưới tình báo chiến lược A22 (ảnh tư liệu lịch sử, Wikimedia Commons, CC0)."
       }
     ],
-    "7772": [
+    "7779": [
       {
         "path": "images/event_20261101_112432.webp",
         "source": "Bản đồ hành chính huyện Duy Xuyên (Quảng Nam) năm 2020, vị trí hồ Vĩnh Trinh nơi xảy ra vụ thảm sát, ở vùng giáp ranh các xã Duy Hòa, Duy Sơn và Duy Trinh / Trịnh Quốc Việt / Wikimedia Commons (CC BY-SA 4.0)"
       }
     ],
-    "7791": [
+    "7798": [
       {
         "path": "images/event_20260924_103218.webp",
         "source": "Chủ tịch Mao Trạch Đông và Chủ tịch Hồ Chí Minh tại Bắc Kinh năm 1955 / Bảo tàng Hồ Chí Minh"
       }
     ],
-    "7801": [
+    "7808": [
       {
         "path": "images/event_20260924_103220.webp",
         "source": "Chủ tịch Hồ Chí Minh thăm chính thức Liên Xô tháng 07/1955 / Báo Nhân Dân"
       }
     ],
-    "7808": [
+    "7815": [
       {
         "path": "images/event_20261008_163114_3.webp",
         "source": "Tổng thống ngụy Ngô Đình Diệm bắt tay Tổng thống Mỹ Eisenhower tại sân bay Washington ngày 08/05/1957, trong chuyến thăm Hoa Kỳ / Không quân Hoa Kỳ, Lưu trữ Quốc gia Hoa Kỳ / Wikimedia Commons (Public domain)"
       }
     ],
-    "7869": [
+    "7876": [
       {
         "path": "images/event_20260930_214527.webp",
         "source": "Nghĩa trang liệt sĩ Điện Biên Phủ. Ảnh: Wikimedia Commons"
       }
     ],
-    "7879": [
+    "7886": [
       {
         "path": "images/event_20260924_103222.webp",
         "source": "Học sinh Trường Trưng Vương chúc mừng sinh nhật Bác ngày 19/05/1956 / Thông tấn xã Việt Nam"
       }
     ],
-    "7913": [
+    "7920": [
       {
         "path": "images/event_20260930_214530_4.webp",
         "source": "Tòa Đô chính Sài Gòn (nay là UBND TP.HCM). Ảnh: Wikimedia Commons"
       }
     ],
-    "7941": [
+    "7948": [
       {
         "path": "images/event_20260924_103223.webp",
         "source": "Bác Hồ chụp ảnh cùng bé Vương Tiểu Hồng ngày 20/05/1957 tại Hà Nội / Báo Thương hiệu và Công luận"
       }
     ],
-    "7954": [
+    "7961": [
       {
         "path": "images/event_20260924_103225.webp",
         "source": "Chủ tịch Hồ Chí Minh và Thủ tướng Kim Nhật Thành cùng nâng ly năm 1957 / Tư liệu"
       }
     ],
-    "7961": [
+    "7968": [
       {
         "path": "images/event_20260924_103228.webp",
         "source": "Chủ tịch Hồ Chí Minh và Chủ tịch Mao Trạch Đông nâng ly chúc tình hữu nghị tháng 08/1957 / Bảo tàng Hồ Chí Minh"
       }
     ],
-    "7983": [
+    "7990": [
       {
         "path": "images/event_20261002_163121_5.webp",
         "source": "Chủ tịch Hồ Chí Minh được Tổng thống Rajendra Prasad (trái) và Thủ tướng Jawaharlal Nehru (phải) đón tại New Delhi, năm 1958 / Public domain"
       }
     ],
-    "7996": [
+    "8003": [
       {
         "path": "images/event_20261027_100204.webp",
         "source": "Di tích hầm số 8 tại Khu chứng tích Chín Hầm (Huế) - nơi ngụy quyền Ngô Đình Cẩn giam giữ, đày ải nhà tình báo Trần Quốc Hương (Mười Hương) và các chiến sĩ cách mạng kiên trung / Lưu Ly / Wikimedia Commons (CC BY 3.0)"
       }
     ],
-    "8015": [
+    "8022": [
       {
         "path": "images/event_20261008_143350_2.webp",
         "source": "Bác sĩ chăm sóc vết thương cho chị Trần Thị Lý tại Bệnh viện Hữu nghị Việt – Xô, năm 1958. Ảnh: Bảo tàng Lịch sử Quốc gia"
       }
     ],
-    "8031": [
+    "8038": [
       {
         "path": "images/event_20260924_120719.webp",
         "source": "Bà Nguyễn Thị Định (giữa) cùng chồng và bạn bè tại Bến Tre, 1939 / Wikimedia Commons (Public domain)"
       }
     ],
-    "8044": [
+    "8051": [
       {
         "path": "images/event_20260924_103229.webp",
         "source": "Chủ tịch Hồ Chí Minh dự khán hoạt động thể thao quần chúng / Wikimedia Commons (Public domain)"
       }
     ],
-    "8063": [
+    "8070": [
       {
         "path": "images/event_20260923_123514.webp",
         "source": "Vận chuyển vũ khí, lương thực chi viện chiến trường trên Đường mòn Hồ Chí Minh / Wikimedia Commons (Public domain)"
       }
     ],
-    "8085": [
+    "8092": [
       {
         "path": "images/event_20261002_163121_6.webp",
         "source": "Sắc lệnh 01-SL ngày 01/01/1960 của Chủ tịch Hồ Chí Minh công bố Hiến pháp năm 1959 / Chính phủ Việt Nam Dân chủ Cộng hòa (Public domain)"
       }
     ],
-    "8104": [
+    "8111": [
       {
         "path": "images/event_20260923_123921.webp",
         "source": "Nữ tướng Nguyễn Thị Định cùng các nữ chiến sĩ cách mạng miền Nam tại căn cứ kháng chiến / Wikimedia Commons (Public domain)"
       }
     ],
-    "8117": [
+    "8124": [
       {
         "path": "images/event_20260924_103207.webp",
         "source": "Chủ tịch Hồ Chí Minh đón gia đình Luật sư Loseby tại Hà Nội tháng 01/1960 / Tư liệu Bộ Ngoại giao Anh"
       }
     ],
-    "8133": [
+    "8140": [
       {
         "path": "images/event_20260930_102848_3.webp",
         "source": "Đồng khởi Củ Chi năm 1960. Ảnh: Wikimedia Commons"
       }
     ],
-    "8146": [
+    "8153": [
       {
         "path": "images/event_20260930_214527_1.webp",
         "source": "Sài Gòn năm 1960. Ảnh: Wikimedia Commons"
       }
     ],
-    "8162": [
+    "8169": [
       {
         "path": "images/event_20261008_150047_1.webp",
         "source": "Luật sư Nguyễn Hữu Thọ năm 1932, Chủ tịch Mặt trận Dân tộc Giải phóng miền Nam Việt Nam / Tác giả không rõ / Wikimedia Commons (Public domain)"
       }
     ],
-    "8196": [
+    "8203": [
       {
         "path": "images/event_20261025_211707_1.webp",
         "source": "Các chiến sĩ vận tải, giao liên Bộ đội Trường Sơn (Đoàn 559) gùi hàng hóa, vũ khí nặng trĩu trên lưng vượt qua những bậc thang gỗ dựng đứng giữa địa hình rừng núi hiểm trở trên tuyến đường Trường Sơn (ảnh tư liệu lịch sử, Wikimedia Commons, Public domain)."
       }
     ],
-    "8212": [
+    "8219": [
       {
         "path": "images/event_20260930_214527_2.webp",
         "source": "Đền tưởng niệm Bến Dược, Củ Chi. Ảnh: Wikimedia Commons"
       }
     ],
-    "8219": [
+    "8226": [
       {
         "path": "images/event_20261008_163115_2.webp",
         "source": "Rừng Mã Đà tại Chiến khu Đ (Đồng Nai), căn cứ nơi Quân Giải phóng miền Nam Việt Nam ra mắt ngày 15/02/1961 / Phương Huy / Wikimedia Commons (CC BY-SA 4.0)"
       }
     ],
-    "8235": [
+    "8242": [
       {
         "path": "images/event_20260930_214528.webp",
         "source": "Đảo Phú Lâm, Hoàng Sa. Ảnh: Wikimedia Commons"
       }
     ],
-    "8245": [
+    "8252": [
       {
         "path": "images/event_20261008_143350_3.webp",
         "source": "Máy bay C-123 của Không quân Mỹ rải chất độc hóa học xuống rừng miền Nam trong Chiến dịch Ranch Hand. Ảnh: Quân đội Mỹ (Public domain, qua Wikimedia Commons)"
       }
     ],
-    "8255": [
+    "8262": [
       {
         "path": "images/event_20260930_214518_3.webp",
         "source": "Tàu không số của Đoàn 759. Ảnh: Wikimedia Commons"
       }
     ],
-    "8286": [
+    "8293": [
       {
         "path": "images/event_20260924_103231_1.webp",
         "source": "Chủ tịch Hồ Chí Minh chỉ huy dàn nhạc khoảng năm 1962 / Getty Images"
       }
     ],
-    "8299": [
+    "8306": [
       {
         "path": "images/event_20260924_103231.webp",
         "source": "Bác Hồ và Anh hùng vũ trụ Titov thăm Vịnh Hạ Long ngày 22/01/1962 / Báo Quảng Ninh"
       }
     ],
-    "8339": [
+    "8346": [
       {
         "path": "images/event_20260924_111702.webp",
         "source": "Xác trực thăng UH-1 Mỹ bị bắn rơi tại Ấp Bắc, 01/1963 / Quân đội Hoa Kỳ (Wikimedia Commons, Public domain)"
       }
     ],
-    "8349": [
+    "8356": [
       {
         "path": "images/event_20261008_143350_4.webp",
         "source": "Đài Kỷ niệm Thánh tử đạo tại Huế, tưởng nhớ các nạn nhân vụ xả súng lễ Phật Đản ngày 08/05/1963. Ảnh: Chainwit./Wikimedia Commons (CC BY 4.0)"
       }
     ],
-    "8356": [
+    "8363": [
       {
         "path": "images/event_20261008_143351.webp",
         "source": "Hòa thượng Thích Quảng Đức tự thiêu tại ngã tư Phan Đình Phùng – Lê Văn Duyệt, Sài Gòn, ngày 11/06/1963. Ảnh: Malcolm Browne/AP (Public domain tại Mỹ)"
       }
     ],
-    "8363": [
+    "8370": [
       {
         "path": "images/event_20260930_214518_4.webp",
         "source": "Chùa Xá Lợi, Sài Gòn. Ảnh: Wikimedia Commons"
       }
     ],
-    "8373": [
+    "8380": [
       {
         "path": "images/event_20261008_143351_1.webp",
         "source": "Tượng bán thân Quách Thị Trang tại bùng binh trước chợ Bến Thành, TP. Hồ Chí Minh. Ảnh: Bùi Thụy Đào Nguyên/Wikimedia Commons (CC BY-SA 3.0)"
       }
     ],
-    "8386": [
+    "8393": [
       {
         "path": "images/event_20260930_102849.webp",
         "source": "Dinh Độc Lập, Sài Gòn. Ảnh: Wikimedia Commons"
       }
     ],
-    "8411": [
+    "8418": [
       {
         "path": "images/event_20260928_220030.webp",
         "source": "Mẹ Suốt chèo đò trên sông Nhật Lệ, Quảng Bình (Ảnh tư liệu / Wikimedia Commons, Public domain)"
       }
     ],
-    "8454": [
+    "8461": [
       {
         "path": "images/event_20260924_124301.webp",
         "source": "Tàu phóng lôi P-4 trúng đạn pháo từ tàu khu trục USS Maddox ngày 02/08/1964 (Ảnh: Hải quân Hoa Kỳ / Public domain)"
       }
     ],
-    "8491": [
+    "8498": [
       {
         "path": "images/event_20261002_163121_7.webp",
         "source": "Bản sao tượng đồng \"Nguyễn Văn Trỗi\" của nhà điêu khắc Nguyễn Hải (1994), hiện lưu tại Bảo tàng Mỹ thuật Thành phố Hồ Chí Minh / Wikimedia Commons (CC BY 4.0)"
       }
     ],
-    "8516": [
+    "8523": [
       {
         "path": "images/event_20261008_163114_5.webp",
         "source": "Tượng đài Chiến thắng Bình Giã tại huyện Châu Đức, Bà Rịa – Vũng Tàu / TuanUt / Wikimedia Commons (CC BY-SA 3.0)"
       }
     ],
-    "8532": [
+    "8539": [
       {
         "path": "images/event_20260930_214519_1.webp",
         "source": "Chợ Bến Thành, Sài Gòn. Ảnh: Wikimedia Commons"
       }
     ],
-    "8545": [
+    "8552": [
       {
         "path": "images/event_20261008_163115.webp",
         "source": "Quốc trưởng Campuchia Norodom Sihanouk năm 1983 / Rob Croes cho Anefo / Wikimedia Commons (CC0)"
       }
     ],
-    "8570": [
+    "8577": [
       {
         "path": "images/event_20260928_220030_1.webp",
         "source": "Anh hùng Nguyễn Thị Suốt trên bến đò sông Nhật Lệ (Ảnh tư liệu / Báo Phụ nữ Việt Nam)"
       }
     ],
-    "8589": [
+    "8596": [
       {
         "path": "images/event_20260924_124311.webp",
         "source": "Thủy quân lục chiến Mỹ đổ bộ từ tàu đổ bộ xuống Đà Nẵng ngày 08/03/1965 (Ảnh: USMC Archives / CC BY 2.0)"
       }
     ],
-    "8596": [
+    "8603": [
       {
         "path": "images/event_20261008_163115_1.webp",
         "source": "Tàu tuần duyên Mỹ USCGC Owasco (WHEC-39) đang tiếp nhiên liệu từ tàu USS Guadalupe trong chuyến tuần tra Market Time ngoài khơi Việt Nam, 1968–1969 / Hải quân Hoa Kỳ / Wikimedia Commons (Public domain)"
       }
     ],
-    "8615": [
+    "8622": [
       {
         "path": "images/event_20260928_194706.webp",
         "source": "Cầu Hàm Rồng bắc qua sông Mã (Thanh Hóa), biểu tượng kiên cường bất khuất của quân và dân trong kháng chiến chống Mỹ. Ảnh: Rolers.FTU / Wikimedia Commons, CC BY-SA 3.0"
       }
     ],
-    "8631": [
+    "8638": [
       {
         "path": "images/event_20260930_214519_2.webp",
         "source": "Cờ Mặt trận Dân tộc Giải phóng. Ảnh: Wikimedia Commons"
       }
     ],
-    "8683": [
+    "8690": [
       {
         "path": "images/event_20260928_185657.webp",
         "source": "Bản đồ cuộc hành quân Starlite của Thủy quân lục chiến Mỹ tại Vạn Tường (Quảng Ngãi) ngày 18 - 19/08/1965. Ảnh: Thủy quân lục chiến Hoa Kỳ / Wikimedia Commons, Public domain"
       }
     ],
-    "8696": [
+    "8703": [
       {
         "path": "images/event_20261008_143351_2.webp",
         "source": "Chân dung Norman Morrison, người Mỹ tự thiêu phản đối chiến tranh Việt Nam ngày 02/11/1965. Ảnh: Bảo tàng Lịch sử Quốc gia"
       }
     ],
-    "8763": [
+    "8770": [
       {
         "path": "images/event_20260930_102849_1.webp",
         "source": "Cửa hầm địa đạo Củ Chi. Ảnh: Wikimedia Commons"
       }
     ],
-    "8782": [
+    "8789": [
       {
         "path": "images/event_20261008_143351_3.webp",
         "source": "Lễ dâng hương tưởng niệm nạn nhân vụ thảm sát Bình An tại Khu chứng tích Gò Dài, xã Tây Vinh, huyện Tây Sơn, Bình Định. Ảnh: VietnamPlus/TTXVN"
       }
     ],
-    "8798": [
+    "8805": [
       {
         "path": "images/event_20261008_143352.webp",
         "source": "Xe quân sự Mỹ đi qua dãy bàn thờ Phật được đưa ra chặn giữa đường ở Huế trong Biến động Miền Trung năm 1966. Ảnh: NARA (Public domain, qua Wikimedia Commons)"
       }
     ],
-    "8847": [
+    "8854": [
       {
         "path": "images/event_20261021_173314.webp",
         "source": "Toàn cảnh Nghĩa trang 21/10 (\"Lớp học vĩnh hằng\") tại xã Thụy Dân (Thái Bình) với phần mộ cô giáo Bùi Thị Thanh Xuân và 30 học sinh được quy tập mô phỏng một lớp học. Ảnh: Báo VietNamNet"
       }
     ],
-    "8875": [
+    "8882": [
       {
         "path": "images/event_20261008_143352_3.webp",
         "source": "Nhà bia tưởng niệm các nạn nhân vụ thảm sát Bình Hòa (03–06/12/1966) tại xã Bình Hòa, huyện Bình Sơn, Quảng Ngãi. Ảnh: Sở Văn hóa, Thể thao và Du lịch tỉnh Quảng Ngãi"
       }
     ],
-    "8933": [
+    "8940": [
       {
         "path": "images/event_20261008_143352_1.webp",
         "source": "Tượng đài tưởng niệm 145 nạn nhân vụ thảm sát Thủy Bồ (1967) giữa cánh đồng thôn Thủy Bồ, xã Điện Thọ, thị xã Điện Bàn, Quảng Nam. Ảnh: Báo Tiền Phong"
       }
     ],
-    "8955": [
+    "8962": [
       {
         "path": "images/event_20261008_143352_2.webp",
         "source": "Ni chúng chùa Từ Nghiêm (Sài Gòn) trong thập niên 1960 – ngôi chùa nơi Ni sư Nhất Chi Mai tự thiêu ngày 16/05/1967. Ảnh: Tạp chí Nghiên cứu Phật học"
       }
     ],
-    "8995": [
+    "9002": [
       {
         "path": "images/event_20261029_095237.webp",
         "source": "Trận địa pháo 105mm của quân đội Mỹ bắn chi viện trên chiến trường Tây Nguyên trong Chiến dịch Đắk Tô, tháng 11/1967. Ảnh: George L. MacGarrigle / U.S. Army Center of Military History / Wikimedia Commons (Public domain)"
       }
     ],
-    "9005": [
+    "9012": [
       {
         "path": "images/event_20260930_105124.webp",
         "source": "Xe tải GMC của lực lượng Trường Sơn. Ảnh: Wikimedia Commons, Public domain"
       }
     ],
-    "9012": [
+    "9019": [
       {
         "path": "images/event_20260930_214519_3.webp",
         "source": "Sân bay Tân Sơn Nhất. Ảnh: Wikimedia Commons"
       }
     ],
-    "9064": [
+    "9071": [
       {
         "path": "images/event_20260930_104255_1.webp",
         "source": "Căn cứ Khe Sanh, Quảng Trị. Ảnh: Wikimedia Commons"
       }
     ],
-    "9071": [
+    "9078": [
       {
         "path": "images/event_20260923_125749.webp",
         "source": "Lực lượng Biệt động nghiên cứu bản đồ tác chiến chuẩn bị cho Tổng tiến công Tết Mậu Thân 1968 / Wikimedia Commons (Public domain)"
       }
     ],
-    "9081": [
+    "9088": [
       {
         "path": "images/event_20260930_104255_2.webp",
         "source": "Đường phố Sài Gòn Tết Mậu Thân 1968. Ảnh: Wikimedia Commons"
       }
     ],
-    "9094": [
+    "9101": [
       {
         "path": "images/event_20260928_185700.webp",
         "source": "Bức tường rào Tòa Đại sứ Mỹ tại Sài Gòn bị Đội 11 Biệt động Sài Gòn phá thủng trong cuộc tập kích sáng 31/01/1968. Ảnh: J.T. Luscan và L.R. Robinson / Wikimedia Commons, Public domain"
       }
     ],
-    "9101": [
+    "9108": [
       {
         "path": "images/event_20260923_225156.webp",
         "source": "Dinh Độc Lập, Sài Gòn, 03/1969 / Wikimedia Commons (Public domain)"
       }
     ],
-    "9123": [
+    "9130": [
       {
         "path": "images/event_20260930_102849_2.webp",
         "source": "Di tích cứ điểm Làng Vây, Quảng Trị. Ảnh: Wikimedia Commons"
       }
     ],
-    "9136": [
+    "9143": [
       {
         "path": "images/event_20260924_111703.webp",
         "source": "Hiện trường vụ thảm sát Mỹ Lai, 16/03/1968 / Ronald L. Haeberle, Quân đội Hoa Kỳ (Wikimedia Commons, Public domain)"
       }
     ],
-    "9188": [
+    "9195": [
       {
         "path": "images/event_20260928_190011.webp",
         "source": "Khu mộ tưởng niệm 10 nữ liệt sĩ thanh niên xung phong tại Ngã ba Đồng Lộc (Hà Tĩnh). Ảnh: Khoitran1957 / Wikimedia Commons, CC BY-SA 4.0"
       }
     ],
-    "9267": [
+    "9274": [
       {
         "path": "images/event_20261008_143352_4.webp",
         "source": "Bia tưởng niệm 21 nạn nhân vụ thảm sát Thạnh Phong ngày 25/02/1969 tại ấp Thạnh Hòa, Bến Tre. Ảnh: Báo Lao Động (qua Soha)"
       }
     ],
-    "9307": [
+    "9314": [
       {
         "path": "images/event_20260923_225153.webp",
         "source": "Chân dung Chủ tịch Hồ Chí Minh / Wikimedia Commons (Public domain)"
       }
     ],
-    "9323": [
+    "9330": [
       {
         "path": "images/event_20261009_143232.webp",
         "source": "Cổng Khu di tích Nhà tù Phú Quốc ngày nay / Bùi Thụy Đào Nguyên / Wikimedia Commons (CC BY-SA 3.0)"
       }
     ],
-    "9345": [
+    "9352": [
       {
         "path": "images/event_20260930_214528_1.webp",
         "source": "Nữ tướng Nguyễn Thị Định. Ảnh: Wikimedia Commons"
       }
     ],
-    "9394": [
+    "9401": [
       {
         "path": "images/event_20261008_143352_6.webp",
         "source": "Nhạc sĩ Tôn Thất Lập (thứ hai từ phải sang) cùng các đồng nghiệp trong phong trào “Hát cho đồng bào tôi nghe” cuối thập niên 1960. Ảnh tư liệu: Báo Hà Nội Mới"
       }
     ],
-    "9434": [
+    "9441": [
       {
         "path": "images/event_20261008_143352_5.webp",
         "source": "Bài phóng sự “The Tiger Cages” trên tạp chí Life số ra ngày 17/07/1970 với ảnh tù nhân trong chuồng cọp ngầm Côn Đảo do Tom Harkin chụp. Ảnh: Life/VOV"
       }
     ],
-    "9450": [
+    "9457": [
       {
         "path": "images/event_20260930_214521_2.webp",
         "source": "Luật sư Ngô Bá Thành. Ảnh: Wikimedia Commons"
       }
     ],
-    "9475": [
+    "9482": [
       {
         "path": "images/event_20260930_214519_4.webp",
         "source": "Quốc lộ 9, Quảng Trị. Ảnh: Wikimedia Commons"
       }
     ],
-    "9509": [
+    "9516": [
       {
         "path": "images/event_20260930_214520.webp",
         "source": "Chùa Ấn Quang, Sài Gòn. Ảnh: Wikimedia Commons"
       }
     ],
-    "9519": [
+    "9526": [
       {
         "path": "images/event_20261003_104426.webp",
         "source": "Những chum đá tại Cánh Đồng Chum, Xiêng Khoảng (Lào) / Spolloman / Wikimedia Commons (CC BY-SA 2.5)"
       }
     ],
-    "9547": [
+    "9554": [
       {
         "path": "images/event_20261029_095238.webp",
         "source": "Đoàn xe vận tải quân sự ngụy trang di chuyển trên tuyến chi viện Trường Sơn. Ảnh: U.S. Navy / Wikimedia Commons (Public domain)"
       }
     ],
-    "9560": [
+    "9567": [
       {
         "path": "images/event_20260930_214528_2.webp",
         "source": "Sông Thạch Hãn, Quảng Trị. Ảnh: Wikimedia Commons"
       }
     ],
-    "9567": [
+    "9574": [
       {
         "path": "images/event_20260930_214528_3.webp",
         "source": "Căn cứ Carroll, Quảng Trị. Ảnh: Wikimedia Commons"
       }
     ],
-    "9583": [
+    "9590": [
       {
         "path": "images/event_20261029_095237_1.webp",
         "source": "Tượng đài Chiến thắng Đắk Tô - Tân Cảnh với Xe tăng 377 (Bảo vật Quốc gia) tại thị trấn Đắk Tô, tỉnh Kon Tum. Ảnh: Vinnie Cartabiano / Wikimedia Commons (CC BY 2.0)"
       }
     ],
-    "9599": [
+    "9606": [
       {
         "path": "images/event_20261003_104428.webp",
         "source": "Xác xe tăng lội nước PT-76 từ thời chiến tranh Đông Dương ở Bắc Lào / Gavilan1644 / Wikimedia Commons (CC BY 3.0)"
       }
     ],
-    "9615": [
+    "9622": [
       {
         "path": "images/event_20260923_130911.webp",
         "source": "Nụ cười chiến thắng bên Thành cổ Quảng Trị trong trận chiến 81 ngày đêm năm 1972 (Ảnh: Đoàn Công Tính / Báo Quân đội Nhân dân)"
       }
     ],
-    "9625": [
+    "9632": [
       {
         "path": "images/event_20260930_102849_3.webp",
         "source": "Thành cổ Quảng Trị. Ảnh: Wikimedia Commons"
       }
     ],
-    "9647": [
+    "9654": [
       {
         "path": "images/event_20260930_214520_2.webp",
         "source": "Tháp Eiffel, Paris. Ảnh: Wikimedia Commons"
       }
     ],
-    "9654": [
+    "9661": [
       {
         "path": "images/event_20260923_110125.webp",
         "source": "Ảnh tư liệu TTXVN"
       }
     ],
-    "9703": [
+    "9710": [
       {
         "path": "images/event_20260923_104849.webp",
         "source": "Ảnh tư liệu / Báo Tiền Phong"
       }
     ],
-    "9749": [
+    "9756": [
       {
         "path": "images/event_20260924_111742.webp",
         "source": "Cố vấn Lê Đức Thọ tại sân bay Orly, Paris 1972 / Associated Press (Wikimedia Commons, Public domain)"
       }
     ],
-    "9795": [
+    "9802": [
       {
         "path": "images/event_20260930_214529.webp",
         "source": "Hải chiến Hoàng Sa 1974. Ảnh: Wikimedia Commons"
       }
     ],
-    "9802": [
+    "9809": [
       {
         "path": "images/event_20260930_214520_3.webp",
         "source": "Thành phố Đài Bắc. Ảnh: Wikimedia Commons"
       }
     ],
-    "9848": [
+    "9855": [
       {
         "path": "images/event_20260923_213621.webp",
         "source": "Ảnh tư liệu chiến dịch giải phóng Buôn Ma Thuột 03/1975 / Dân Việt"
       }
     ],
-    "9855": [
+    "9862": [
       {
         "path": "images/event_20260923_213620.webp",
         "source": "Ảnh: TTXVN / Chiến dịch Huế - Đà Nẵng 1975"
       }
     ],
-    "9862": [
+    "9869": [
       {
         "path": "images/event_20260924_120723.webp",
         "source": "Tượng đài chiến thắng Tây Nguyên / Canpark (Wikimedia Commons, Public domain)"
@@ -15196,409 +15209,409 @@
         "source": "Xe tăng Quân Giải phóng tiến công Buôn Ma Thuột, 10/03/1975"
       }
     ],
-    "9883": [
+    "9890": [
       {
         "path": "images/event_20260930_214521.webp",
         "source": "Phu Văn Lâu, Huế. Ảnh: Wikimedia Commons"
       }
     ],
-    "9893": [
+    "9900": [
       {
         "path": "images/event_20260924_120801.webp",
         "source": "Bộ binh và xe tăng Quân Giải phóng tiến vào Đà Nẵng ngày 29/03/1975 / TTXVN"
       }
     ],
-    "9912": [
+    "9919": [
       {
         "path": "images/event_20260928_194709.webp",
         "source": "Cột mốc chủ quyền thiêng liêng trên đảo Trường Sa Lớn thuộc Quần đảo Trường Sa của Việt Nam. Ảnh: Châu Hà / Wikimedia Commons, Public domain"
       }
     ],
-    "9940": [
+    "9947": [
       {
         "path": "images/event_20260930_102849_4.webp",
         "source": "Cầu Rạch Chiếc, Sài Gòn. Ảnh: Wikimedia Commons"
       }
     ],
-    "9950": [
+    "9957": [
       {
         "path": "images/event_20261008_150047_2.webp",
         "source": "Hai trực thăng CH-53 hạ cánh xuống khu nhà Tùy viên Quốc phòng trong Chiến dịch Gió Lốc, binh sĩ Mỹ làm nhiệm vụ bảo vệ, ngày 29–30/04/1975 / Dirck Halstead / Wikimedia Commons (Public domain)"
       }
     ],
-    "9957": [
+    "9964": [
       {
         "path": "images/event_20260923_103617.webp",
         "source": "Ảnh: Françoise Demulder / Báo Sài Gòn Giải Phóng"
       }
     ],
-    "9968": [
+    "9975": [
       {
         "path": "images/event_20261008_163116.webp",
         "source": "Bản đồ tổng Phú Quốc, hạt Hà Tiên do Pháp lập năm 1897 / Barrère và Renouard / Wikimedia Commons (Public domain)"
       }
     ],
-    "9987": [
+    "9994": [
       {
         "path": "images/event_20260930_214521_1.webp",
         "source": "Đảo Song Tử Tây, Trường Sa. Ảnh: Wikimedia Commons"
       }
     ],
-    "10015": [
+    "10022": [
       {
         "path": "images/event_20260930_102850.webp",
         "source": "Lăng Chủ tịch Hồ Chí Minh, Hà Nội. Ảnh: Wikimedia Commons"
       }
     ],
-    "10091": [
+    "10098": [
       {
         "path": "images/event_20260924_124312.webp",
         "source": "Hội trường Ba Đình, Hà Nội (Ảnh: Hector Garcia / CC BY-SA 2.0)"
       }
     ],
-    "10209": [
+    "10216": [
       {
         "path": "images/event_20260930_214529_1.webp",
         "source": "Quảng trường Ba Đình, Hà Nội. Ảnh: Wikimedia Commons"
       }
     ],
-    "10282": [
+    "10289": [
       {
         "path": "images/event_20260923_132056.webp",
         "source": "Bộ đội Việt Nam trên đường hành quân lên biên giới phía Bắc bảo vệ Tổ quốc, tháng 2/1979 (Ảnh tư liệu)"
       }
     ],
-    "10331": [
+    "10338": [
       {
         "path": "images/event_20260928_194716.webp",
         "source": "Nhà máy Thủy điện Hòa Bình trên sông Đà, công trình thủy điện thế kỷ biểu tượng cho tình hữu nghị Việt - Xô khởi công năm 1979. Ảnh: Tycho / Wikimedia Commons, CC BY-SA 3.0"
       }
     ],
-    "10356": [
+    "10363": [
       {
         "path": "images/event_20261002_163122.webp",
         "source": "Thư của Xứ ủy miền Nam gửi Hồ Thị Bi (tức Ba Bi), năm 1951, hiện vật trưng bày tại Bảo tàng Phụ nữ Việt Nam, Hà Nội / Daderot (CC0)"
       }
     ],
-    "10366": [
+    "10373": [
       {
         "path": "images/event_20260923_105022.webp",
         "source": "Ảnh tư liệu chuyến bay Soyuz 37 (1980) / Wikimedia Commons"
       }
     ],
-    "10412": [
+    "10419": [
       {
         "path": "images/event_20260930_214522.webp",
         "source": "Bán đảo Sơn Trà, Đà Nẵng. Ảnh: Wikimedia Commons"
       }
     ],
-    "10440": [
+    "10447": [
       {
         "path": "images/event_20260930_102850_1.webp",
         "source": "Thành phố Đà Lạt thập niên 1980. Ảnh: Wikimedia Commons"
       }
     ],
-    "10519": [
+    "10526": [
       {
         "path": "images/event_20260923_124055.webp",
         "source": "Tổng Bí thư Nguyễn Văn Linh tại Đại hội VI của Đảng năm 1986 khởi xướng công cuộc Đổi Mới (Ảnh: AP / Public domain)"
       }
     ],
-    "10547": [
+    "10554": [
       {
         "path": "images/event_20260930_104257_2.webp",
         "source": "Trụ sở UNESCO tại Paris. Ảnh: Wikimedia Commons"
       }
     ],
-    "10575": [
+    "10582": [
       {
         "path": "images/event_20260928_185704.webp",
         "source": "Cụm tượng đài \"Những người nằm lại phía chân trời\" tại Khu tưởng niệm Chiến sĩ Gạc Ma (Cam Ranh, Khánh Hòa). Ảnh: Vinhtantran / Wikimedia Commons, CC BY 4.0"
       }
     ],
-    "10612": [
+    "10619": [
       {
         "path": "images/event_20260930_214522_1.webp",
         "source": "Học giả Trương Vĩnh Ký. Ảnh: Wikimedia Commons"
       }
     ],
-    "10793": [
+    "10800": [
       {
         "path": "images/event_20260930_214522_2.webp",
         "source": "Máy bay Vietnam Airlines. Ảnh: Wikimedia Commons"
       }
     ],
-    "10818": [
+    "10825": [
       {
         "path": "images/event_20260930_101732_2.webp",
         "source": "Ngọ Môn, Kinh thành Huế. Ảnh: Wikimedia Commons"
       }
     ],
-    "10870": [
+    "10877": [
       {
         "path": "images/event_20260930_101732_3.webp",
         "source": "Vịnh Hạ Long nhìn từ trên cao. Ảnh: Wikimedia Commons"
       }
     ],
-    "10877": [
+    "10884": [
       {
         "path": "images/event_20261029_104254.webp",
         "source": "Tượng đài Bà mẹ Việt Nam anh hùng lấy nguyên mẫu từ Mẹ Nguyễn Thị Thứ tại Núi Cấm, thành phố Tam Kỳ, tỉnh Quảng Nam. Ảnh: Wikimedia Commons (CC BY-SA 4.0)"
       }
     ],
-    "10893": [
+    "10900": [
       {
         "path": "images/event_20261002_163122_1.webp",
         "source": "Tượng đài Nguyễn Văn Trỗi tại Quận 3, Thành phố Hồ Chí Minh / Phương Huy (Public domain)"
       }
     ],
-    "10927": [
+    "10934": [
       {
         "path": "images/event_20260923_105829.webp",
         "source": "Ảnh tư liệu Nhà Trắng / Báo Tuổi Trẻ"
       }
     ],
-    "10934": [
+    "10941": [
       {
         "path": "images/event_20260923_105715.webp",
         "source": "Ảnh: Trần Sơn – TTXVN"
       }
     ],
-    "11013": [
+    "11020": [
       {
         "path": "images/event_20260930_214530.webp",
         "source": "Núi Bà Đen, Tây Ninh. Ảnh: Wikimedia Commons"
       }
     ],
-    "11098": [
+    "11105": [
       {
         "path": "images/event_20260930_104255_3.webp",
         "source": "Tháp Chăm tại Thánh địa Mỹ Sơn. Ảnh: Wikimedia Commons"
       }
     ],
-    "11153": [
+    "11160": [
       {
         "path": "images/event_20260930_101732_4.webp",
         "source": "Du thuyền trên Vịnh Hạ Long. Ảnh: Wikimedia Commons"
       }
     ],
-    "11238": [
+    "11245": [
       {
         "path": "images/event_20260930_101732_5.webp",
         "source": "Sông Son trong Vườn quốc gia Phong Nha – Kẻ Bàng. Ảnh: Wikimedia Commons"
       }
     ],
-    "11245": [
+    "11252": [
       {
         "path": "images/event_20260924_124310.webp",
         "source": "Tượng Mẹ Suốt bên sông Nhật Lệ, Đồng Hới, Quảng Bình (Ảnh: Linhcandng / CC BY-SA 3.0)"
       }
     ],
-    "11252": [
+    "11259": [
       {
         "path": "images/event_20260930_214530_1.webp",
         "source": "Nhã nhạc cung đình Huế. Ảnh: Wikimedia Commons"
       }
     ],
-    "11283": [
+    "11290": [
       {
         "path": "images/event_20261027_100203.webp",
         "source": "Chân dung Thiếu tướng, Anh hùng Lực lượng vũ trang nhân dân Đặng Trần Đức (Ba Quốc) / Andylahistory / Wikimedia Commons (CC0)"
       }
     ],
-    "11335": [
+    "11342": [
       {
         "path": "images/event_20260928_190015.webp",
         "source": "Nghệ nhân biểu diễn cồng chiêng trong lễ hội truyền thống Tây Nguyên. Ảnh: Đỗ Tuấn Hưng / Wikimedia Commons, CC BY-SA 3.0"
       }
     ],
-    "11369": [
+    "11376": [
       {
         "path": "images/event_20260923_105920.webp",
         "source": "Ảnh tư liệu WTO / Báo Công Thương"
       }
     ],
-    "11388": [
+    "11395": [
       {
         "path": "images/event_20260930_214522_3.webp",
         "source": "Nhà hát Lớn Hà Nội. Ảnh: Wikimedia Commons"
       }
     ],
-    "11440": [
+    "11447": [
       {
         "path": "images/event_20260930_101733.webp",
         "source": "Kệ lưu giữ mộc bản triều Nguyễn. Ảnh: Wikimedia Commons"
       }
     ],
-    "11447": [
+    "11454": [
       {
         "path": "images/event_20260930_101733_1.webp",
         "source": "Liền anh liền chị Quan họ trên thuyền rồng. Ảnh: Wikimedia Commons"
       }
     ],
-    "11457": [
+    "11464": [
       {
         "path": "images/event_20260930_101733_2.webp",
         "source": "Nghệ nhân biểu diễn Ca trù. Ảnh: Wikimedia Commons"
       }
     ],
-    "11500": [
+    "11507": [
       {
         "path": "images/event_20260930_101733_3.webp",
         "source": "Cổng Văn Miếu – Quốc Tử Giám, Hà Nội. Ảnh: Wikimedia Commons"
       }
     ],
-    "11516": [
+    "11523": [
       {
         "path": "images/event_20260928_194720.webp",
         "source": "Khu di tích Trung tâm Hoàng thành Thăng Long (Hà Nội), Di sản Văn hóa Thế giới được UNESCO vinh danh năm 2010. Ảnh: katiebordner / Wikimedia Commons, CC BY 2.0"
       }
     ],
-    "11532": [
+    "11539": [
       {
         "path": "images/event_20260930_102850_2.webp",
         "source": "Hội Gióng tại Sóc Sơn, Hà Nội. Ảnh: Wikimedia Commons"
       }
     ],
-    "11548": [
+    "11555": [
       {
         "path": "images/event_20261002_163122_2.webp",
         "source": "Chân dung Anh hùng Hồ Thị Bi, năm 1969 / CalCoWSpiBudSu (CC BY-SA 4.0)"
       }
     ],
-    "11591": [
+    "11598": [
       {
         "path": "images/event_20260930_102851.webp",
         "source": "Hát Xoan tại đình Phú Thọ. Ảnh: Wikimedia Commons"
       }
     ],
-    "11619": [
+    "11626": [
       {
         "path": "images/event_20261025_211708.webp",
         "source": "Chân dung Đại tá, Anh hùng Lực lượng vũ trang nhân dân Nguyễn Viết Sinh (sinh năm 1940, quê huyện Nam Đàn, tỉnh Nghệ An) — \"Kiện tướng gùi hàng trên đường Trường Sơn\" với kỳ tích gùi hơn 55 tấn hàng đi bộ qua quãng đường 41.025 km tương đương một vòng Trái Đất (Ảnh: VTV / Báo VietNamNet)."
       }
     ],
-    "11635": [
+    "11642": [
       {
         "path": "images/event_20261003_120729.webp",
         "source": "Anh hùng Alăng Bhuôch (giữa) trong một lần gặp gỡ Bí thư Thành ủy TP. Hồ Chí Minh Lê Thanh Hải / Báo Quảng Nam"
       }
     ],
-    "11648": [
+    "11655": [
       {
         "path": "images/event_20260930_104256.webp",
         "source": "Lễ rước kiệu Giỗ Tổ Hùng Vương. Ảnh: Wikimedia Commons"
       }
     ],
-    "11682": [
+    "11689": [
       {
         "path": "images/event_20260928_194723.webp",
         "source": "Cầu Rồng bắc qua sông Hàn (Đà Nẵng), công trình cầu thép hiện đại độc đáo khánh thành năm 2013. Ảnh: Person-with-No Name / Wikimedia Commons, CC BY 2.0"
       }
     ],
-    "11701": [
+    "11708": [
       {
         "path": "images/event_20260930_104257_4.webp",
         "source": "Bia mộ Đại tướng Võ Nguyên Giáp tại Vũng Chùa. Ảnh: Wikimedia Commons"
       }
     ],
-    "11708": [
+    "11715": [
       {
         "path": "images/event_20260930_104256_1.webp",
         "source": "Lễ quốc tang tại Hà Nội 2013. Ảnh: Wikimedia Commons"
       }
     ],
-    "11748": [
+    "11755": [
       {
         "path": "images/event_20260930_104256_2.webp",
         "source": "Nhạc cụ Đờn ca tài tử Nam Bộ. Ảnh: Wikimedia Commons"
       }
     ],
-    "11770": [
+    "11777": [
       {
         "path": "images/event_20260930_104256_3.webp",
         "source": "Châu bản triều Nguyễn. Ảnh: Wikimedia Commons"
       }
     ],
-    "11780": [
+    "11787": [
       {
         "path": "images/event_20260928_194728.webp",
         "source": "Quần thể danh thắng Tràng An (Ninh Bình), Di sản Thế giới hỗn hợp đầu tiên của Việt Nam được UNESCO ghi danh năm 2014. Ảnh: Jakub Hałun / Wikimedia Commons, CC BY 4.0"
       }
     ],
-    "11790": [
+    "11797": [
       {
         "path": "images/event_20261002_163123.webp",
         "source": "Bà Võ Thị Thắng, Tổng cục trưởng Tổng cục Du lịch, tại phiên họp với phía Ấn Độ ở New Delhi, ngày 18/10/2004 / Government of India (GODL-India)"
       }
     ],
-    "11863": [
+    "11870": [
       {
         "path": "images/event_20261003_120729_1.webp",
         "source": "Anh hùng Alăng Bhuôch / Báo Thanh Niên"
       }
     ],
-    "11930": [
+    "11937": [
       {
         "path": "images/event_20260930_214530_2.webp",
         "source": "Thế Tổ Miếu, Kinh thành Huế. Ảnh: Wikimedia Commons"
       }
     ],
-    "11967": [
+    "11974": [
       {
         "path": "images/event_20260930_102851_1.webp",
         "source": "Đền thờ Mẫu Tam phủ. Ảnh: Wikimedia Commons"
       }
     ],
-    "12001": [
+    "12008": [
       {
         "path": "images/event_20260930_102851_2.webp",
         "source": "Lễ hội Bài chòi Trung Bộ. Ảnh: Wikimedia Commons"
       }
     ],
-    "12113": [
+    "12120": [
       {
         "path": "images/event_20260930_102852.webp",
         "source": "Hát Then với đàn tính. Ảnh: Wikimedia Commons"
       }
     ],
-    "12126": [
+    "12133": [
       {
         "path": "images/event_20260924_124313.webp",
         "source": "Bộ đội hóa học phun khử khuẩn Bệnh viện Bạch Mai tháng 03/2020 (Ảnh: Truyền Hình Pháp Luật / CC BY 3.0)"
       }
     ],
-    "12145": [
+    "12152": [
       {
         "path": "images/event_20261027_100204_1.webp",
         "source": "Chân dung đồng chí Trần Quốc Hương (Mười Hương), nguyên Bí thư Trung ương Đảng, nguyên Trưởng Ban Nội chính Trung ương, nhà cách mạng tiền bối và người chỉ huy huyền thoại của ngành tình báo Việt Nam / Thông tấn xã Việt Nam / VTV"
       }
     ],
-    "12197": [
+    "12204": [
       {
         "path": "images/event_20260930_214522_4.webp",
         "source": "Nghĩa trang liệt sĩ TP.HCM. Ảnh: Wikimedia Commons"
       }
     ],
-    "12225": [
+    "12232": [
       {
         "path": "images/event_20260930_214530_3.webp",
         "source": "Vũ điệu Xòe Thái, Sơn La. Ảnh: Báo Pháp Luật"
       }
     ],
-    "12259": [
+    "12266": [
       {
         "path": "images/event_20261025_211708_1.webp",
         "source": "Chân dung cụ Hoàng Thị Khìn (1920–2022), cán bộ lão thành cách mạng người dân tộc Nùng tại bản Pác Bó (xã Trường Hà, huyện Hà Quảng, tỉnh Cao Bằng), nhân chứng lịch sử cuối cùng từng trực tiếp đưa cơm nuôi giấu Bác Hồ ở Pác Bó năm 1941 (Ảnh tư liệu gia đình / Báo Dân trí)."
       }
     ],
-    "12628": [
+    "12635": [
       {
         "path": "images/event_20260930_214522_5.webp",
         "source": "Nghĩa trang Trường Sơn. Ảnh: Wikimedia Commons"
       }
     ],
-    "12689": [
+    "12696": [
       {
         "path": "images/event_20260930_104257_3.webp",
         "source": "Cung điện Élysée tại Paris. Ảnh: Wikimedia Commons"

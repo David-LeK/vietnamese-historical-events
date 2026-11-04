@@ -6922,6 +6922,13 @@
 *   **Oct. 9, 1947:** Vietnamese forces shot down a French Ju-52 transport plane in Cao Bang, killing 12 staff officers and capturing the French offensive plan for Viet Bac. [Source: Military History Institute of Vietnam, The Viet Bac Autumn-Winter Campaign 1947, People's Army Publishing House, Hanoi, 1997]
 
 <!-- id: EVT-1872 -->
+*   **Oct. 13, 1947:** Liaison soldier Nguyen Danh Loc, after running four days and three nights through the jungle from Cao Bang, reached the Quan Vuong liaison station (Dinh Hoa, Thai Nguyen), carrying the "Lea Plan" recovered from the Ju-52 that was carrying Major Lambert, special envoy of the French Expeditionary Corps command in northern Indochina, and was shot down over Cao Bang on October 9, 1947. He barely managed to report before collapsing into sleep, without touching the bowl of rice porridge the station cook had hurriedly prepared. That same night, Chief of the General Staff Hoang Van Thai summoned officers to urgently study the documents, which revealed the enemy's two-phase offensive, Lea and Cloclo. [Source: Tran Trong Trung, "Busy Days in the Campaign", People's Army Newspaper - Wartime Stories, https://sknc.qdnd.vn/thu-nhat-ki-chien-tranh/nhung-ngay-ban-ron-trong-chien-dich-500743]
+
+![Amiot AAC.1 Toucan transport aircraft](images/event_20261104_115606.webp)
+
+*Source: Amiot AAC.1 Toucan transport aircraft, the French-built version of the Junkers Ju 52 — the aircraft type carrying Major Lambert that was shot down over Cao Bang on October 9, 1947. Photo: Wikimedia Commons (CC BY-SA 4.0)*
+
+<!-- id: EVT-3540 -->
 *   **Oct. 24, 1947:** Vietnamese artillery ambushed a French naval convoy on the Lo River at Doan Hung, sinking two ships and cutting off the enemy's river supply route. [Source: Artillery High Command, History of the Artillery Branch (1946 - 2006), People's Army Publishing House, Hanoi, 2006]
 
 <!-- id: EVT-1873 -->
