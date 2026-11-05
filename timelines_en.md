@@ -9232,6 +9232,13 @@
 *   **Dec. 1968 - May 1969:** The US 9th Infantry Division conducted Operation Speedy Express, a ruthless counterinsurgency sweep across the Mekong Delta (primarily in Ben Tre/Kien Hoa). Utilizing overwhelming destructive firepower from artillery, helicopter gunships, and night airstrikes in free-fire zones, the operation resulted in the deaths of thousands of unarmed civilians (US forces reported 10,889 enemy dead but recovered only 748 weapons, later exposed by international journalists as a systematic civilian bloodbath). [Source: Alex Kershaw, The Bloodiest Year; Kevin Buckley, "Pacification's Deadly Price", Newsweek (June 19, 1972); Dong Khoi Newspaper (Ben Tre)]
 
 <!-- id: EVT-2458 -->
+*   **Late December 1968:** Political prisoner Vu Minh Tang (from Vinh Hao Commune, Vu Ban District, Nam Dinh Province), held at Phu Quoc Prison of the Saigon regime from March 3, 1967, was taken by jailer Bay Nhu (Tran Van Nhu) and military police from Camp A2B2 to the prison administration office for torture: each kneecap was smashed with 70 blows of a mallet, three nails were driven into each knee, and nine teeth were broken and forced down his throat together with his blood; he was then confined in the "tiger cage" A2. He recovered eight teeth from his own excrement, sewed them into his waistband and kept them through 600 days of imprisonment; he later donated the teeth to the Museum of Revolutionary Soldiers Imprisoned by the Enemy in Phu Xuyen (Hanoi). [Source: Vietnam Law Newspaper - Vu Minh Tang, the resilient former Phu Quoc prisoner, https://baophapluat.vn/vu-minh-tang-nguoi-cuu-tu-phu-quoc-kien-cuong-post32072.html; People's Public Security Newspaper - The man who returned from "hell", https://cand.vn/nguoi-tro-ve-tu-dia-nguc-post439957.html]
+
+![Models of the tiger cages at the Phu Quoc Prison Memorial Site](images/event_20261105_180936.webp)
+
+*Source: Models of the "tiger cages" at the Phu Quoc Prison Memorial Site (Kien Giang), where the enemy held political prisoners deemed most dangerous / Genghiskhan / Wikimedia Commons (CC BY-SA 3.0)*
+
+<!-- id: EVT-3543 -->
 * **26/12/1968:** Martyr Nguyen Van Giai (Warrant Officer, leader of cryptographic team B49, Intelligence Department of the South J22) heroically sacrificed his life countering an enemy sweep in Trang Bang, Tay Ninh. [Source: Government Cipher Committee, History of the Vietnam Cipher Branch (1945 - 2015), People's Army Publishing House, Hanoi; Information Security Magazine]
 
 <!-- id: EVT-2459 -->
@@ -11557,6 +11564,13 @@
 *Source: Giong Festival at Soc Son, Hanoi. Photo: Wikimedia Commons*
 
 <!-- id: EVT-3109 -->
+*   **Early December 2010:** Former Phu Quoc prisoner Vu Minh Tang - released on September 3, 1973, weighing only 23 kg - returned to Phu Quoc Island after more than 40 years and met Bay Nhu (Tran Van Nhu), the jailer who had tortured him. The former prisoner forgave Bay Nhu and gave him some money for medicine; Bay Nhu apologized and acknowledged that he had abused prisoners, but denied mixing human waste into their rice and blamed his subordinates. The press called the encounter a "historic meeting" between a prisoner and the most notorious jailer of Phu Quoc Prison. [Source: Dan Tri Newspaper (via Lao Dong) - "I am grateful to Mr. Tang for forgiving me...", https://dantri.com.vn/thoi-su/toi-biet-on-ong-tang-da-tha-thu-cho-toi-1292165019.htm]
+
+![Former prisoner Vu Minh Tang and former jailer Bay Nhu meet on Phu Quoc](images/event_20261105_180936_1.webp)
+
+*Source: Former prisoner Vu Minh Tang (right) and former jailer Bay Nhu at their meeting on Phu Quoc Island in early December 2010 / Photo: Do Doan Hoang / Lao Dong Newspaper (via Dan Tri)*
+
+<!-- id: EVT-3544 -->
 
 ### **Period of Legal Consolidation, East Sea Tensions, and Environmental Fluctuations (2011 - 2016)**
 

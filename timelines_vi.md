@@ -9232,6 +9232,13 @@
 *   **12/1968 - 05/1969:** Sư đoàn 9 Bộ binh Mỹ tiến hành Chiến dịch Speedy Express càn quét khốc liệt ở đồng bằng sông Cửu Long (chủ yếu tại Bến Tre và Kiến Hòa cũ). Lực lượng Mỹ áp dụng triệt để hỏa lực hủy diệt từ pháo binh, trực thăng vũ trang và không kích ném bom vào các "vùng bắn tự do", sát hại hàng ngàn thường dân vô tội không có vũ khí (quân đội Mỹ báo cáo tiêu diệt 10.889 đối phương nhưng chỉ thu được 748 vũ khí, vụ việc bị báo chí quốc tế phanh phui là một chiến dịch tàn sát dân thường có hệ thống). [Nguồn: Alex Kershaw, The Bloodiest Year; Kevin Buckley, "Pacification's Deadly Price", Newsweek (19/06/1972); Báo Đồng Khởi (Bến Tre)]
 
 <!-- id: EVT-2458 -->
+*   **Cuối tháng 12/1968:** Tù chính trị Vũ Minh Tằng (quê xã Vĩnh Hào, huyện Vụ Bản, tỉnh Nam Định), bị giam tại nhà tù Phú Quốc của ngụy quyền Sài Gòn từ ngày 03/03/1967, bị cai ngục Bảy Nhu (Trần Văn Nhu) cùng quân cảnh ngụy quyền Sài Gòn dẫn từ trại A2B2 lên nhà điều hành trại giam để tra tấn: mỗi đầu gối bị đập 70 phát vồ đến nát vụn, đóng 3 chiếc đinh vào mỗi đầu gối, 9 chiếc răng bị bẻ gãy và buộc nuốt cả răng lẫn máu; sau đó ông bị giam trong "chuồng cọp" A2. Ông bới phân tìm lại 8 chiếc răng, khâu vào cạp quần giữ suốt 600 ngày tù; sau này ông hiến tặng những chiếc răng cho Bảo tàng Chiến sĩ Cách mạng bị địch bắt tù đày ở Phú Xuyên (Hà Nội). [Nguồn: Báo Pháp luật Việt Nam - Vũ Minh Tằng, người cựu tù Phú Quốc kiên cường, https://baophapluat.vn/vu-minh-tang-nguoi-cuu-tu-phu-quoc-kien-cuong-post32072.html; Báo Công an nhân dân - Người trở về từ "địa ngục", https://cand.vn/nguoi-tro-ve-tu-dia-nguc-post439957.html]
+
+![Mô hình chuồng cọp tại Khu di tích Nhà tù Phú Quốc](images/event_20261105_180936.webp)
+
+*Nguồn: Mô hình "chuồng cọp" tại Khu di tích Nhà tù Phú Quốc (Kiên Giang), nơi giam giữ những tù chính trị bị địch coi là nguy hiểm nhất / Genghiskhan / Wikimedia Commons (CC BY-SA 3.0)*
+
+<!-- id: EVT-3543 -->
 * **26/12/1968:** Liệt sĩ Nguyễn Văn Giai (Chuẩn úy, Tổ trưởng cơ yếu B49 Phòng Tình báo Miền J22) anh dũng hy sinh khi chiến đấu chống địch càn quét tại An Tịnh, huyện Trảng Bàng, tỉnh Tây Ninh. [Nguồn: Ban Cơ yếu Chính phủ, Lịch sử ngành Cơ yếu Việt Nam (1945 - 2015), NXB Quân đội nhân dân, Hà Nội; Tạp chí An toàn Thông tin]
 
 <!-- id: EVT-2459 -->
@@ -11557,6 +11564,13 @@
 *Nguồn: Hội Gióng tại Sóc Sơn, Hà Nội. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-3109 -->
+*   **Đầu tháng 12/2010:** Cựu tù Phú Quốc Vũ Minh Tằng - người ra tù ngày 03/09/1973 với thân hình chỉ còn 23 kg - trở lại đảo Phú Quốc sau hơn 40 năm và có cuộc gặp với Bảy Nhu (Trần Văn Nhu), viên cai ngục từng tra tấn ông. Người tù năm xưa đã tha thứ và tặng Bảy Nhu một ít tiền để mua thuốc; Bảy Nhu xin lỗi, nhận mình từng hành hạ tù nhân nhưng phủ nhận việc trộn phân vào cơm và cho rằng cấp dưới tự làm. Cuộc gặp được báo chí gọi là "cuộc gặp lịch sử" giữa người tù và viên cai ngục tàn ác nhất nhà tù Phú Quốc. [Nguồn: Báo Dân trí (theo Lao Động) - "Tôi biết ơn ông Tằng đã tha thứ cho tôi...", https://dantri.com.vn/thoi-su/toi-biet-on-ong-tang-da-tha-thu-cho-toi-1292165019.htm]
+
+![Cựu tù Vũ Minh Tằng và cựu cai ngục Bảy Nhu gặp nhau tại Phú Quốc](images/event_20261105_180936_1.webp)
+
+*Nguồn: Cựu tù Vũ Minh Tằng (phải) và cựu cai ngục Bảy Nhu trong cuộc gặp tại Phú Quốc đầu tháng 12/2010 / Ảnh: Đỗ Doãn Hoàng / Báo Lao Động (qua Dân trí)*
+
+<!-- id: EVT-3544 -->
 
 ### **Thời kỳ Củng cố Pháp lý, Căng thẳng Biển Đông và Biến động Môi trường (2011 - 2016)**
 
