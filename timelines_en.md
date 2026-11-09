@@ -4835,6 +4835,9 @@
 *   **1892:** The Bai Say Uprising disintegrated. Tong Duy Tan (leader of the Hung Linh Uprising) was captured. [Source: Tong Duy Tan and the Hung Linh Uprising (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13902/tong-duy-tan-va-khoi-nghia-hung-linh.html]
 
 <!-- id: EVT-1334 -->
+*   **1893:** Phan Phat Sanh (courtesy name Lac), later known as Phan Xich Long, was born in Cho Lon, the son of Phan Nui, a police clerk of Chinese descent. He became the leader of the Cochinchinese secret-society movement, proclaimed himself emperor and launched uprisings against French colonial rule in the early 20th century. [Source: Vietnam National Museum of History, "Legends of the Ong Dao Leaders Who Organized Anti-French Resistance in the Western South" (Part 1), September 23, 2013, https://baotanglichsu.vn/vi/Articles/2001/66629/huyen-thoai-ve-cac-ong-djao-to-chuc-khang-phap-o-mien-tay-nam-bo-phan-1.html]
+
+<!-- id: EVT-3548 -->
 *   **Jun. 21, 1893:** Dr. Alexandre Yersin discovered the Lang Biang plateau during his expedition in the Lam Vien region, paving the way for Governor-General Paul Doumer to later designate this site for the development of the resort city of Da Lat. [Source: Lam Dong Provincial Portal - Monograph of Da Lat: Alexandre Yersin, https://lamdong.gov.vn/sites/book/diachidalat/Tongluan/bai7.htm]
 
 ![Portrait of Dr. Alexandre Yersin](images/event_20260928_194655.webp)
@@ -5137,6 +5140,13 @@
 *   **May 1912:** Phan Boi Chau founded the Viet Nam Quang Phuc Hoi (Vietnam Restoration League) in Guangzhou (China), shifting from a constitutional monarchy stance to a democratic republic. [Source: Vietnam National Museum of History - Duy Tan Hoi: An Anti-French Organization in Early 20th Century Vietnam, https://baotanglichsu.vn/vi/Articles/2001/68013/duy-tan-hoi-mot-to-chuc-chong-phap-nhung-nam-djau-the-ky-xx-o-viet-nam.html]
 
 <!-- id: EVT-1410 -->
+*   **Oct. 1912:** After the death of Nguyen Van Ke, who had been proclaimed a "living Buddha", Phan Phat Sanh was enthroned by Nguyen Huu Tri and Nguyen Van Hiep in Cho Lon as emperor under the name Phan Xich Long, claiming to be a son of Emperor Ham Nghi. The event marked the transformation of the Cochinchinese secret-society movement into an organized anti-French force that rallied peasants and underworld figures. [Source: Thanh Nien Newspaper, "The Uprising of 'Emperor' Phan Xich Long", June 8, 2022, https://thanhnien.vn/viet-nam-nhung-chuyen-bien-dau-the-ky-20-cuoc-noi-day-cua-hoang-de-phan-xich-long-1851466389.htm]
+
+![Historical image](images/event_20261109_131021.webp)
+
+*Source: Phan Xich Long in imperial robes (photographed before 1917). Image: Wikimedia Commons*
+
+<!-- id: EVT-3549 -->
 *   **Late 1912:** Nguyen Tat Thanh arrived in the United States, living and working in New York and Boston. He worked as a pastry cook at the Omni Parker House Hotel in Boston, studied the 1776 US Declaration of Independence, and observed the civil rights struggles of African Americans in Harlem (New York). [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 ![Historical image](images/event_20260930_214517.webp)
@@ -5157,12 +5167,25 @@
 *   **Feb. 10, 1913:** Hoang Hoa Tham (De Tham), leader of the Yen The Uprising, was assassinated by agents of French colonialists, marking the end of the most enduring armed peasant uprising against French colonial rule (1884–1913). [Source: https://tuoitre.vn/sach-giai-ma-nhieu-bi-an-trong-cuoc-doi-hoang-hoa-tham-594552.htm]
 
 <!-- id: EVT-1414 -->
+*   **Mar. 23, 1913:** On the night of March 23-24, 1913, secret-society members of Phan Xich Long placed eight homemade time bombs at government offices in Saigon and Cho Lon, while distributing leaflets and proclamations calling for an uprising. French forces discovered and defused the bombs and hunted down the rebels before the devices could explode, foiling the plan to seize the colonial administration's headquarters. [Source: Vietnam National Museum of History, "Legends of the Ong Dao Leaders Who Organized Anti-French Resistance in the Western South" (Part 1), September 23, 2013, https://baotanglichsu.vn/vi/Articles/2001/66629/huyen-thoai-ve-cac-ong-djao-to-chuc-khang-phap-o-mien-tay-nam-bo-phan-1.html]
+
+<!-- id: EVT-3550 -->
+*   **Mar. 28, 1913:** On March 28, 1913, hundreds of secret-society members nevertheless gathered in Saigon and Cho Lon, wearing white shirts, black trousers and white scarves and mostly unarmed, and marched on French administrative headquarters under the command of Nguyen Huu Tri. The uprising was quickly suppressed; many were arrested, while Phan Xich Long had already been captured at Phan Thiet and imprisoned in Saigon's Central Prison. [Source: Sai Gon Giai Phong Newspaper, "Biography of the Historical Figure Phan Xich Long", April 22, 2005, https://www.sggp.org.vn/tieu-su-nhan-vat-lich-su-phan-xich-long-post129321.html]
+
+<!-- id: EVT-3551 -->
 *   **Apr. 12, 1913:** A member of the Vietnam Restoration League assassinated the governor of Thai Binh, Nguyen Duy Han. [Source: History of Vietnam (Vol. 7: 1897–1918), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1415 -->
 *   **Apr. 26, 1913:** Another bombing occurred at the Hanoi Hotel, killing two French officers. [Source: History of Vietnam (Vol. 7: 1897–1918), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1416 -->
+*   **Nov. 1913:** The Saigon criminal court tried the Phan Xich Long case. Phan Xich Long, along with Nguyen Van Hiep and Nguyen Van Ngo, was sentenced to life imprisonment at hard labour, while many other society members received prison terms of varying length. The verdict returned Phan Xich Long to Saigon's Central Prison, where he remained until the secret societies mounted a rescue attempt in 1916. [Source: Sai Gon Giai Phong Newspaper, "Biography of the Historical Figure Phan Xich Long", April 22, 2005, https://www.sggp.org.vn/tieu-su-nhan-vat-lich-su-phan-xich-long-post129321.html]
+
+![Historical image](images/event_20261109_131021_1.webp)
+
+*Source: Cover of "Truyen Phan Xich Long – Hoang de va binh tuong bi xu tai Toa Dai hinh Sai Gon" (Story of Phan Xich Long – the Emperor and His Generals Tried at the Saigon Criminal Court), published in Saigon in 1913. Image: Wikimedia Commons*
+
+<!-- id: EVT-3552 -->
 *   **Dec. 24, 1913:** Phan Boi Chau was arrested in Guangdong, China. [Source: Phan Boi Chau (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13903/phan-boi-chau-nha-chi-si-yeu-nuoc.html]
 
 <!-- id: EVT-1417 -->
@@ -5199,9 +5222,16 @@
 *   **1916:** Poet Tản Đà (Nguyễn Khắc Hiếu) published the poetry volume *Khối tình con I* (Little Love Block I) and *Giấc mộng con I*, creating a major literary phenomenon in the early 20th century that bridged classical literature and modern Vietnamese poetry. [Source: Dictionary of Literature (New Edition), The Gioi Publishers, Hanoi, 2004]
 
 <!-- id: EVT-1427 -->
-*   **Feb. 15, 1916:** Secret societies in Cochinchina organized a major riot in Saigon, attempting to break into the Central Prison to rescue Phan Xich Long, but it failed. [Source: History of Vietnam (Vol. 7: 1897–1918), Social Sciences Publishing House, Hanoi, 2017]
+*   **Feb. 15, 1916:** On the night of February 14-15, 1916, about 300 members of secret societies from Gia Dinh, Cho Lon, Bien Hoa, Thu Dau Mot, Can Giuoc, Can Duoc and other localities assembled on merchant boats moored on the Ong Lanh canal, split into three columns and attacked the Governor's Palace and Saigon Central Prison, shouting "Save the Big Brother" in an attempt to free Phan Xich Long. French troops repelled the assault, killing six men on the spot, including leader Nguyen Huu Tri, and arresting many others. [Source: Vietnam National Museum of History, "Legends of the Ong Dao Leaders Who Organized Anti-French Resistance in the Western South" (Part 1), September 23, 2013, https://baotanglichsu.vn/vi/Articles/2001/66629/huyen-thoai-ve-cac-ong-djao-to-chuc-khang-phap-o-mien-tay-nam-bo-phan-1.html]
+
+![Historical image](images/event_20261109_131021_2.webp)
+
+*Source: Saigon Central Prison (Maison Centrale) in the early 20th century. Image: Wikimedia Commons*
 
 <!-- id: EVT-1428 -->
+*   **Feb. 22, 1916:** Following the raid on the Central Prison, Phan Xich Long was executed by firing squad at Dong Tap Tran (Plaine des Tombeaux) together with 37 comrades, aged only 23. On March 16, 1916, the colonial authorities executed 13 more. The victims were buried at Dat Thanh Cha cemetery, in what is now the Vo Thi Sau Street – Tan Dinh Market area of Ho Chi Minh City. [Source: Sai Gon Giai Phong Newspaper, "Biography of the Historical Figure Phan Xich Long", April 22, 2005, https://www.sggp.org.vn/tieu-su-nhan-vat-lich-su-phan-xich-long-post129321.html]
+
+<!-- id: EVT-3553 -->
 *   **May 3, 1916:** The uprising led by King Duy Tan along with Thai Phien and Tran Cao Van was discovered and failed. King Duy Tan was arrested and exiled to Réunion Island. [Source: Emperor Duy Tan and the 1916 Uprising (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13775/vua-duy-tan.html]
 
 <!-- id: EVT-1429 -->

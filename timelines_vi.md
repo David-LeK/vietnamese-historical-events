@@ -4835,6 +4835,9 @@
 *   **1892:** Khởi nghĩa Bãi Sậy tan rã. Tống Duy Tân (lãnh đạo khởi nghĩa Hùng Lĩnh) bị bắt. [Nguồn: Tống Duy Tân và cuộc khởi nghĩa Hùng Lĩnh (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13902/tong-duy-tan-va-khoi-nghia-hung-linh.html]
 
 <!-- id: EVT-1334 -->
+*   **1893:** Phan Phát Sanh (tự Lạc), người về sau được biết đến với tên gọi Phan Xích Long, sinh ra tại Chợ Lớn, là con trai của Phan Núi, một viên chức cảnh sát gốc Hoa. Ông trở thành thủ lĩnh phong trào hội kín Nam Kỳ, tự xưng hoàng đế và phát động các cuộc nổi dậy chống thực dân Pháp đầu thế kỷ XX. [Nguồn: Bảo tàng Lịch sử Quốc gia, "Huyền thoại về các ông Đạo tổ chức kháng Pháp ở miền Tây Nam bộ (phần 1)", 23/09/2013, https://baotanglichsu.vn/vi/Articles/2001/66629/huyen-thoai-ve-cac-ong-djao-to-chuc-khang-phap-o-mien-tay-nam-bo-phan-1.html]
+
+<!-- id: EVT-3548 -->
 *   **21/06/1893:** Bác sĩ Alexandre Yersin phát hiện ra cao nguyên Lang Biang trong chuyến thám hiểm thung lũng Lâm Viên, mở đường cho Toàn quyền Paul Doumer sau này chọn vùng đất này để xây dựng thành phố nghỉ dưỡng Đà Lạt. [Nguồn: Cổng thông tin điện tử tỉnh Lâm Đồng - Địa chí Đà Lạt: Alexandre Yersin, https://lamdong.gov.vn/sites/book/diachidalat/Tongluan/bai7.htm]
 
 ![Chân dung bác sĩ Alexandre Yersin](images/event_20260928_194655.webp)
@@ -5137,6 +5140,13 @@
 *   **05/1912:** Phan Bội Châu thành lập Hội Việt Nam Quang Phục tại Quảng Châu (Trung Quốc), chuyển từ chủ trương quân chủ lập hiến sang dân chủ cộng hòa. [Nguồn: Bảo tàng Lịch sử Quốc gia - Duy Tân hội - Một tổ chức chống Pháp những năm đầu thế kỷ XX ở Việt Nam, https://baotanglichsu.vn/vi/Articles/2001/68013/duy-tan-hoi-mot-to-chuc-chong-phap-nhung-nam-djau-the-ky-xx-o-viet-nam.html]
 
 <!-- id: EVT-1410 -->
+*   **10/1912:** Sau khi người được tôn làm "Phật sống" là Nguyễn Văn Kế qua đời, Phan Phát Sanh được Nguyễn Hữu Trí và Nguyễn Văn Hiệp tôn lên làm hoàng đế tại Chợ Lớn, lấy hiệu Phan Xích Long và tự nhận là con vua Hàm Nghi. Sự kiện đánh dấu bước phát triển của phong trào hội kín Nam Kỳ thành một lực lượng chống thực dân Pháp có tổ chức, tập hợp đông đảo nông dân và giới giang hồ. [Nguồn: Báo Thanh Niên, "Cuộc nổi dậy của 'hoàng đế' Phan Xích Long", 08/06/2022, https://thanhnien.vn/viet-nam-nhung-chuyen-bien-dau-the-ky-20-cuoc-noi-day-cua-hoang-de-phan-xich-long-1851466389.htm]
+
+![Hình ảnh tư liệu](images/event_20261109_131021.webp)
+
+*Nguồn: Phan Xích Long trong triều phục hoàng đế (ảnh chụp trước năm 1917). Ảnh: Wikimedia Commons*
+
+<!-- id: EVT-3549 -->
 *   **Cuối năm 1912:** Nguyễn Tất Thành đến Hợp chúng quốc Hoa Kỳ, sinh sống và làm việc tại New York và Boston. Người làm thợ làm bánh tại Khách sạn Omni Parker House (Boston), tìm hiểu bản Tuyên ngôn Độc lập năm 1776 của Mỹ và theo dõi phong trào đấu tranh đòi quyền bình đẳng của người da màu tại khu Harlem (New York). [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 ![Hình ảnh tư liệu](images/event_20260930_214517.webp)
@@ -5157,12 +5167,25 @@
 *   **10/02/1913:** Thủ lĩnh phong trào khởi nghĩa Yên Thế Hoàng Hoa Thám (Đề Thám) bị tay sai của thực dân Pháp sát hại, đánh dấu sự kết thúc của cuộc khởi nghĩa vũ trang nông dân bền bỉ nhất chống ách đô hộ của Pháp (1884 - 1913). [Nguồn: https://tuoitre.vn/sach-giai-ma-nhieu-bi-an-trong-cuoc-doi-hoang-hoa-tham-594552.htm]
 
 <!-- id: EVT-1414 -->
+*   **23/03/1913:** Đêm 23 rạng sáng 24/03/1913, các hội viên hội kín của Phan Xích Long đặt 8 trái bom tự tạo có hẹn giờ tại một số cơ quan chính quyền ở Sài Gòn và Chợ Lớn, đồng thời rải truyền đơn và dán hịch kêu gọi khởi nghĩa. Quân Pháp phát hiện, tháo gỡ bom và lùng bắt nghĩa quân trước giờ nổ, làm thất bại kế hoạch đánh chiếm các cơ quan đầu não của chính quyền thuộc địa. [Nguồn: Bảo tàng Lịch sử Quốc gia, "Huyền thoại về các ông Đạo tổ chức kháng Pháp ở miền Tây Nam bộ (phần 1)", 23/09/2013, https://baotanglichsu.vn/vi/Articles/2001/66629/huyen-thoai-ve-cac-ong-djao-to-chuc-khang-phap-o-mien-tay-nam-bo-phan-1.html]
+
+<!-- id: EVT-3550 -->
+*   **28/03/1913:** Ngày 28/03/1913, hàng trăm hội viên hội kín vẫn tập hợp tại Sài Gòn và Chợ Lớn, mặc áo trắng quần đen, khăn trắng quấn cổ, phần lớn không mang vũ khí, tiến về các cơ quan đầu não của Pháp dưới sự chỉ huy của Nguyễn Hữu Trí. Cuộc nổi dậy bị quân Pháp đàn áp nhanh chóng; nhiều người bị bắt, trong khi Phan Xích Long đã bị bắt tại Phan Thiết và giam ở Khám Lớn Sài Gòn. [Nguồn: Báo Sài Gòn Giải Phóng, "Tiểu sử nhân vật lịch sử Phan Xích Long", 22/04/2005, https://www.sggp.org.vn/tieu-su-nhan-vat-lich-su-phan-xich-long-post129321.html]
+
+<!-- id: EVT-3551 -->
 *   **19/04/1913:** Thành viên của Việt Nam Quang Phục Hội (Phạm Văn Tráng) ám sát Tuần phủ Thái Bình Nguyễn Duy Hàn. [Nguồn: Lịch sử Việt Nam (Tập 7: 1897–1918), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1415 -->
 *   **26/04/1913:** Một vụ ném bom khác xảy ra tại Khách sạn Hà Nội, giết chết 2 sĩ quan Pháp. [Nguồn: Lịch sử Việt Nam (Tập 7: 1897–1918), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1416 -->
+*   **11/1913:** Tòa đại hình Sài Gòn xét xử vụ án Phan Xích Long. Phan Xích Long cùng Nguyễn Văn Hiệp và Nguyễn Văn Ngọ bị kết án khổ sai chung thân; nhiều hội viên khác cũng bị kết án tù với mức án khác nhau. Bản án đưa Phan Xích Long trở lại Khám Lớn Sài Gòn, nơi ông bị giam giữ cho đến khi các hội kín tổ chức cuộc giải cứu vào năm 1916. [Nguồn: Báo Sài Gòn Giải Phóng, "Tiểu sử nhân vật lịch sử Phan Xích Long", 22/04/2005, https://www.sggp.org.vn/tieu-su-nhan-vat-lich-su-phan-xich-long-post129321.html]
+
+![Hình ảnh tư liệu](images/event_20261109_131021_1.webp)
+
+*Nguồn: Bìa cuốn "Truyện Phan Xích Long – Hoàng đế và binh tướng bị xử tại Tòa Đại hình Sài Gòn", in tại Sài Gòn năm 1913. Ảnh: Wikimedia Commons*
+
+<!-- id: EVT-3552 -->
 *   **24/12/1913:** Phan Bội Châu bị bắt tại Quảng Đông, Trung Quốc. [Nguồn: Phan Bội Châu (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13903/phan-boi-chau-nha-chi-si-yeu-nuoc.html]
 
 <!-- id: EVT-1417 -->
@@ -5199,9 +5222,16 @@
 *   **1916:** Nhà thơ Tản Đà (Nguyễn Khắc Hiếu) xuất bản tập thơ *Khối tình con I* và tác phẩm *Giấc mộng con I*, tạo nên một hiện tượng văn học lớn đầu thế kỷ XX, được xem là gạch nối mở đường cho sự chuyển biến từ văn học cổ điển sang thi ca hiện đại Việt Nam. [Nguồn: Từ điển văn học (bộ mới), NXB Thế giới, Hà Nội, 2004]
 
 <!-- id: EVT-1427 -->
-*   **15/02/1916:** Các hội kín ở Nam Kỳ tổ chức cuộc bạo động lớn tại Sài Gòn, mưu đồ phá Khám lớn để giải cứu Phan Xích Long nhưng thất bại. [Nguồn: Lịch sử Việt Nam (Tập 7: 1897–1918), NXB Khoa học Xã hội, Hà Nội, 2017]
+*   **15/02/1916:** Đêm 14 rạng sáng 15/02/1916, khoảng 300 hội viên các hội kín ở Gia Định, Chợ Lớn, Biên Hòa, Thủ Dầu Một, Cần Giuộc, Cần Đước... tập kết trên các thuyền buôn đậu ở sông cầu Ông Lãnh, chia thành ba mũi tấn công Dinh Thống đốc và Khám Lớn Sài Gòn, hô vang khẩu hiệu "Cứu Đại ca" nhằm giải cứu Phan Xích Long. Quân Pháp đánh lui cuộc tấn công, giết tại trận 6 người (trong đó có thủ lĩnh Nguyễn Hữu Trí) và bắt giữ nhiều người. [Nguồn: Bảo tàng Lịch sử Quốc gia, "Huyền thoại về các ông Đạo tổ chức kháng Pháp ở miền Tây Nam bộ (phần 1)", 23/09/2013, https://baotanglichsu.vn/vi/Articles/2001/66629/huyen-thoai-ve-cac-ong-djao-to-chuc-khang-phap-o-mien-tay-nam-bo-phan-1.html]
+
+![Hình ảnh tư liệu](images/event_20261109_131021_2.webp)
+
+*Nguồn: Khám Lớn Sài Gòn (Maison Centrale) đầu thế kỷ XX. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-1428 -->
+*   **22/02/1916:** Sau cuộc tấn công Khám Lớn, Phan Xích Long bị xử bắn tại Đồng Tập Trận (Plaine des Tombeaux) cùng 37 đồng đội, khi mới 23 tuổi. Ngày 16/03/1916, thực dân Pháp xử bắn thêm 13 người. Thi hài các nạn nhân được chôn tại nghĩa địa Đất Thánh Chà, khu vực nay thuộc đường Võ Thị Sáu – chợ Tân Định, TP. Hồ Chí Minh. [Nguồn: Báo Sài Gòn Giải Phóng, "Tiểu sử nhân vật lịch sử Phan Xích Long", 22/04/2005, https://www.sggp.org.vn/tieu-su-nhan-vat-lich-su-phan-xich-long-post129321.html]
+
+<!-- id: EVT-3553 -->
 *   **03/05/1916:** Cuộc khởi nghĩa do vua Duy Tân cùng Thái Phiên, Trần Cao Vân lãnh đạo bị bại lộ và thất bại. Vua Duy Tân bị bắt và bị đày sang đảo Réunion. [Nguồn: Vua Duy Tân và cuộc khởi nghĩa năm 1916 (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13775/vua-duy-tan.html]
 
 <!-- id: EVT-1429 -->
