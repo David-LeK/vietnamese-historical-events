@@ -7083,6 +7083,9 @@
 *   **1949:** In the Viet Bac resistance base, Director of the Ordnance Department Tran Dai Nghia and ordnance engineers successfully designed and manufactured SKZ recoilless guns and shells (60mm, 81mm, and 120mm calibers); possessing immense kinetic penetration capable of pulverizing reinforced concrete watchtowers and bunkers of the French expeditionary corps (making a crushing combat debut at the Pho Rang and Pho Lu battles), the SKZ completely dismantled French fortified outpost doctrine across Indochina. [Source: Vietnam National Museum of History - Professor and Academician Tran Dai Nghia, https://baotanglichsu.vn/vi/Articles/3098/14892/giao-su-vien-si-tran-dai-nghia.html]
 
 <!-- id: EVT-3513 -->
+*   **1949:** Lam Quoc Dung (alias Dung Rau, also known to his comrades as Dung Quan truong) was born in 1949 in the Cu Chi area of Gia Dinh province (now part of Ho Chi Minh City) into a family with a revolutionary tradition. At the age of 14, he overstated his age by one year to enlist and joined the resistance base; he initially served in the Political Department of the Saigon - Cho Lon - Gia Dinh Military Region and was sent to learn wood engraving. [Source: Ho Chi Minh City Police Newspaper, "The 'Treasure' of the Military Region", May 29, 2023, https://congan.com.vn/doi-song/bau-vat-cua-quan-khu_147702.html; Tien Phong Newspaper, "'Dung Quan truong' - the Silent Hero of the Saigon Commandos", Aug. 7, 2026, https://tienphong.vn/dung-quan-truong-nguoi-hung-tham-lang-cua-biet-dong-sai-gon-post1865669.tpo]
+
+<!-- id: EVT-3554 -->
 *   **Jan. 20, 1949:** The Lao Issara Army (precursor to the Lao People's Army) was founded. [Source: Vietnam National Museum of History - Establishment of the Lao Itsala Army (January 20, 1949), https://baotanglichsu.vn/vi/Articles/3097/16662/quan-doi-lao-itsala-thanh-lap-20-01-1949.html]
 
 <!-- id: EVT-1907 -->
@@ -8824,6 +8827,9 @@
 *   **1966 - Early 1967:** Le Thi Tuyet (Quang Tri) participated with the district armed forces in fighting sweep operations in the Xuan - Vinh cluster, eliminating two enemies. She was subsequently sent to study nursing. [Source: Quang Tri Provincial Party Committee, History of Quang Tri Provincial Party Committee, Vol. 2, National Political Publishing House, Hanoi, 2007]
 
 <!-- id: EVT-2343 -->
+*   **Early 1966:** Lam Quoc Dung was received by the military intelligence agency of the Saigon - Gia Dinh Military Region and assigned to forge documents of the Saigon regime, including identity cards, draft deferment papers, discharge certificates, rehabilitation certificates and leave passes. With only a typewriter, a set of carving knives, a camera and a small supply of paper and ink at the resistance base, he personally handled every stage - typing, photography, seal engraving, signature forgery and plastic lamination - making the papers match the ink strokes and signature styles of each district chief. [Source: Ho Chi Minh City Police Newspaper, "The 'Treasure' of the Military Region", May 29, 2023, https://congan.com.vn/doi-song/bau-vat-cua-quan-khu_147702.html]
+
+<!-- id: EVT-3555 -->
 * **08/02/1966:** Martyr Nguyen Van Quang (Deputy Squad Leader, 2nd Company, 303rd Battalion, Southwestern Main Force) heroically sacrificed his life in a counter-sweep battle at Co Tuat canal. [Source: Foreign Relations of the United States (FRUS), 1964–1968, Vol. IV, Vietnam; Institute of History, Hanoi, 2014]
 
 <!-- id: EVT-2344 -->
@@ -9116,6 +9122,9 @@
 *   **Jan. 1968:** The 14th Conference of the Party Central Committee (3rd tenure) passed the resolution on the General Offensive and Uprising (Tet Mau Than) to deal a decisive blow to the US will of aggression. [Source: Department of Propaganda and Training, Heroes of the People's Armed Forces, People's Army Publishing House, Hanoi, 1996]
 
 <!-- id: EVT-2419 -->
+*   **Jan. 1968:** Before the 1968 Tet Offensive, about 200 cadres, commandos, military intelligence personnel and couriers needed legal papers to enter downtown Saigon secretly, and about 50 of them still lacked travel documents. Lam Quoc Dung worked day and night and completed the papers in about a week; in that period alone he produced nearly 200 identity cards and some 300 documents of various kinds, enabling the forces to pass checkpoints and enter the city safely. After the offensive, the forged papers fell into enemy hands; the Saigon regime's Metropolitan Police detected them and put Dung Rau on its wanted list, regarding him as the second most dangerous man after "commando chief" Tu Chu. [Source: Ho Chi Minh City Police Newspaper, "The 'Treasure' of the Military Region", May 29, 2023, https://congan.com.vn/doi-song/bau-vat-cua-quan-khu_147702.html; Thanh Nien Newspaper, "Meeting 'Dung Rau', the Man Who Made 'Papers' for Saigon Commandos During the 1968 Tet Offensive", Aug. 10, 2026, https://thanhnien.vn/gap-dung-rau-nguoi-lam-giay-to-gia-cho-biet-dong-sai-gon-tet-mau-than-1968-185260806162454657.htm; Dan Tri Newspaper, "Saigon Commandos Had a Trade... Being 'District Chief'", Apr. 30, 2024, https://dantri.com.vn/lao-dong-viec-lam/chien-si-biet-dong-sai-gon-co-nghe-lam-quan-truong-20240429183521724.htm]
+
+<!-- id: EVT-3556 -->
 *   **January 6, 1968:** Nguyen Van Bach, the eldest son of Le Thi Tuyet (Tra Cu), joined the revolution. He later became a Platoon Leader in the 306th Battalion. [Source: Department of Propaganda and Training, Heroes of the People's Armed Forces in the Anti-US Resistance, People's Army Publishing House, Hanoi, 1996]
 
 <!-- id: EVT-2420 -->
@@ -9314,6 +9323,9 @@
 * **1969:** Hero of the People's Armed Forces Điểu Cải (Xã đội trưởng Đội du kích Đồng Nai) passed away. [Source: Military Region 7 High Command, History of the Eastern Nam Bo Armed Forces (1945 - 2005), People's Army Publishing House, Hanoi, 2005; Military History Institute of Vietnam, Heroes of the People's Armed Forces]
 
 <!-- id: EVT-2465 -->
+*   **1969:** When the Saigon regime introduced "Green Dragon" identity cards printed with US technology and bearing a dragon image that glowed under inspection, Lam Quoc Dung used tracing paper and ink to redraw the dragon over nearly a week; according to his recollections, the first fake Green Dragon cards were taken into the city and used for a time before being recalled because of exposure risks. He then switched to forging identity-card receipts - temporary documents valid while new cards were being issued - helping sustain secret commando operations in 1969-1971. [Source: Thanh Nien Newspaper, "Meeting 'Dung Rau', the Man Who Made 'Papers' for Saigon Commandos During the 1968 Tet Offensive", Aug. 10, 2026, https://thanhnien.vn/gap-dung-rau-nguoi-lam-giay-to-gia-cho-biet-dong-sai-gon-tet-mau-than-1968-185260806162454657.htm; Dan Tri Newspaper, "Saigon Commandos Had a Trade... Being 'District Chief'", Apr. 30, 2024, https://dantri.com.vn/lao-dong-viec-lam/chien-si-biet-dong-sai-gon-co-nghe-lam-quan-truong-20240429183521724.htm]
+
+<!-- id: EVT-3557 -->
 *   **Jan. 19, 1969:** Raising the NLF Flag atop Notre-Dame Cathedral in Paris (France): On the eve of the opening preparatory session of the four-party Paris Peace Talks on Vietnam, three young Swiss peace activists (Bernard Bachelard, Olivier Parriaux, and Noé Graff) secretly scaled the nearly 100-meter spire of Notre-Dame de Paris to hoist the Liberation flag (half red, half blue with a gold star) measuring nearly 10 square meters. The flag fluttered proudly over Paris all day, creating a worldwide media sensation and focusing international public opinion in solidarity with the just resistance of the Vietnamese people. [Source: Tuoi Tre Newspaper - Raising the Vietnamese flag atop Notre-Dame Cathedral in Paris in 1969 deeply cherished, https://tuoitre.vn/hanh-dong-treo-co-viet-nam-o-nha-tho-duc-ba-paris-nam-1969-rat-dang-tran-trong-20241117185131924.htm]
 
 <!-- id: EVT-2467 -->
@@ -9578,6 +9590,9 @@
 *Source: An Quang Pagoda, Saigon. Photo: Wikimedia Commons*
 
 <!-- id: EVT-2540 -->
+*   **Late 1971:** After repeated efforts, the "Green Dragon" identity card was successfully counterfeited by sending a sample abroad for high-technology printing and then bringing it back to Vietnam for names and fingerprints to be added; the fake cards continued to be issued to cadres and commandos operating inside Saigon. [Source: Dan Tri Newspaper, "Saigon Commandos Had a Trade... Being 'District Chief'", Apr. 30, 2024, https://dantri.com.vn/lao-dong-viec-lam/chien-si-biet-dong-sai-gon-co-nghe-lam-quan-truong-20240429183521724.htm]
+
+<!-- id: EVT-3558 -->
 *   **Dec. 1971:** The 3rd Congress of the Vietnam Fatherland Front was held in Hanoi. [Source: Department of Propaganda and Training, Heroes of the People's Armed Forces, People's Army Publishing House, Hanoi, 1996]
 
 <!-- id: EVT-2541 -->
@@ -12409,6 +12424,9 @@
 *   **Jul. 24, 2023:** Writer Hoang Phu Ngoc Tuong passed away in Ho Chi Minh City at the age of 86. Born in 1937, he was a highly distinguished author in modern Vietnamese literature, widely known for his poetic and erudite essays, including the famous work "Who Named the River?". [Source: Vietnam Writers Association and Thua Thien Hue Arts Association Communique, July 24, 2023; Van Nghe Newspaper; Tuoi Tre Newspaper, July 25, 2023]
 
 <!-- id: EVT-3334 -->
+*   **Aug. 27, 2023:** The Saigon - Gia Dinh Commandos Museum at 145 Tran Quang Khai Street, Tan Dinh Ward, District 1, Ho Chi Minh City, was inaugurated. On this occasion, Lam Quoc Dung donated to the museum the set of document-forging tools he had used since 1966, including carving knives, pens, rulers and other simple implements, for display and in recognition of the silent contributions of Saigon's military intelligence and commando forces. [Source: Dan Tri Newspaper, "Saigon Commandos Had a Trade... Being 'District Chief'", Apr. 30, 2024, https://dantri.com.vn/lao-dong-viec-lam/chien-si-biet-dong-sai-gon-co-nghe-lam-quan-truong-20240429183521724.htm]
+
+<!-- id: EVT-3559 -->
 *   **Sep. 10, 2023:** U.S. President Joe Biden paid a state visit to Vietnam at the invitation of General Secretary Nguyen Phu Trong. Both leaders held talks and adopted a Joint Statement upgrading Vietnam - U.S. relations to a Comprehensive Strategic Partnership for Peace, Cooperation and Sustainable Development. [Source: Joint Leaders' Statement on Elevating United States - Vietnam Relations to Comprehensive Strategic Partnership, Sept. 10, 2023; Ministry of Foreign Affairs; Nhan Dan Newspaper]
 
 <!-- id: EVT-3335 -->

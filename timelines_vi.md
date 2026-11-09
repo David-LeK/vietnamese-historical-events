@@ -7083,6 +7083,9 @@
 *   **1949:** Tại chiến khu Việt Bắc, Cục trưởng Cục Quân giới Trần Đại Nghĩa cùng các kỹ sư và công nhân quân giới Việt Nam nghiên cứu và chế tạo thành công súng và đạn không giật SKZ (các cỡ 60mm, 81mm và 120mm); với sức công phá uy lực xuyên thủng các tháp canh bê tông cốt thép dày kiên cố của quân đội viễn chinh Pháp (lần đầu xung trận giòn giã tại trận Phố Ràng và phố Lu), súng không giật SKZ đã giáng đòn hủy diệt chiến thuật đồn bốt tháp canh của thực dân Pháp trên chiến trường Đông Dương. [Nguồn: Bảo tàng Lịch sử Quốc gia - Giáo sư, Viện sĩ Trần Đại Nghĩa, https://baotanglichsu.vn/vi/Articles/3098/14892/giao-su-vien-si-tran-dai-nghia.html]
 
 <!-- id: EVT-3513 -->
+*   **1949:** Lâm Quốc Dũng (bí danh Dũng Râu, còn được đồng đội gọi là Dũng Quận trưởng) sinh năm 1949 tại vùng Củ Chi, tỉnh Gia Định (nay thuộc TP. Hồ Chí Minh), trong một gia đình có truyền thống cách mạng. Năm 14 tuổi, ông khai tăng một tuổi để được nhập ngũ, vào chiến khu hoạt động; ban đầu ông thuộc Phòng Chính trị Quân khu Sài Gòn - Chợ Lớn - Gia Định và được cử học nghề điêu khắc gỗ. [Nguồn: Báo Công an TP. Hồ Chí Minh, bài "Báu vật của Quân khu", 29/05/2023, https://congan.com.vn/doi-song/bau-vat-cua-quan-khu_147702.html; Báo Tiền Phong, bài "'Dũng Quận trưởng' - người hùng thầm lặng của Biệt động Sài Gòn", 07/08/2026, https://tienphong.vn/dung-quan-truong-nguoi-hung-tham-lang-cua-biet-dong-sai-gon-post1865669.tpo]
+
+<!-- id: EVT-3554 -->
 *   **20/01/1949:** Quân đội Lào Ítxala (tiền thân của Quân đội Nhân dân Lào) được thành lập. [Nguồn: Bảo tàng Lịch sử Quốc gia - Quân đội Lào Ítxala thành lập (20/01/1949), https://baotanglichsu.vn/vi/Articles/3097/16662/quan-doi-lao-itsala-thanh-lap-20-01-1949.html]
 
 <!-- id: EVT-1907 -->
@@ -8824,6 +8827,9 @@
 *   **1966 - Đầu 1967:** Lê Thị Tuyết (Quảng Trị) tham gia cùng lực lượng vũ trang huyện đánh chống càn ở cụm Xuân - Vĩnh, tiêu diệt 2 tên địch. Sau đó, bà được cử đi học lớp y tá. [Nguồn: Ban Tuyên giáo Tỉnh ủy Quảng Trị, Lịch sử Đảng bộ tỉnh Quảng Trị, tập 2, NXB Chính trị quốc gia, Hà Nội, 2007]
 
 <!-- id: EVT-2343 -->
+*   **Đầu năm 1966:** Lâm Quốc Dũng được cơ quan quân báo Quân khu Sài Gòn - Gia Định tiếp nhận và giao nhiệm vụ chế tác giấy tờ giả của ngụy quyền Sài Gòn, gồm căn cước, giấy hoãn dịch, giấy chứng nhận giải ngũ, giấy chứng nhận hoàn lương và giấy nghỉ phép. Trong điều kiện chiến khu chỉ có máy đánh chữ, bộ dao khắc, máy ảnh cùng ít giấy, mực, ông tự thực hiện toàn bộ các công đoạn đánh máy, chụp ảnh, khắc dấu, giả chữ ký và ép nhựa, bảo đảm giấy tờ giống thật đến từng nét mực và kiểu chữ ký của từng quận trưởng. [Nguồn: Báo Công an TP. Hồ Chí Minh, bài "Báu vật của Quân khu", 29/05/2023, https://congan.com.vn/doi-song/bau-vat-cua-quan-khu_147702.html]
+
+<!-- id: EVT-3555 -->
 * **08/02/1966:** Liệt sĩ Nguyễn Văn Quang (Tiểu đội phó thuộc Đại đội 2, Tiểu đoàn 303, bộ đội chủ lực Tây Nam Bộ) anh dũng hy sinh trong trận chống càn tại khu vực kênh xáng Cò Tuất. [Nguồn: Foreign Relations of the United States (FRUS), 1964–1968, Vol. IV, Vietnam; Viện Sử học, Hà Nội, 2014]
 
 <!-- id: EVT-2344 -->
@@ -9116,6 +9122,9 @@
 *   **01/1968:** Hội nghị Trung ương lần thứ 14 thông qua nghị quyết về Tổng công kích và nổi dậy (Tết Mậu Thân), giáng đòn quyết định vào ý chí xâm lược của Mỹ. [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân, NXB Quân đội nhân dân, Hà Nội, 1996]
 
 <!-- id: EVT-2419 -->
+*   **01/1968:** Trước Tết Mậu Thân 1968, khoảng 200 cán bộ, chiến sĩ biệt động, quân báo và giao liên cần giấy tờ hợp pháp để bí mật vào nội đô Sài Gòn, trong đó khoảng 50 người chưa có giấy thông hành. Lâm Quốc Dũng làm việc ngày đêm, hoàn tất giấy tờ trong khoảng một tuần; riêng đợt này ông làm gần 200 thẻ căn cước và khoảng 300 giấy tờ các loại, giúp các lực lượng vượt qua các chốt kiểm soát và vào thành an toàn. Sau chiến dịch, giấy tờ giả lọt vào tay đối phương; Nha Cảnh sát Đô thành của ngụy quyền Sài Gòn phát hiện và truy nã Dũng Râu, coi ông là nhân vật nguy hiểm thứ hai sau "trùm biệt động" Tư Chu. [Nguồn: Báo Công an TP. Hồ Chí Minh, bài "Báu vật của Quân khu", 29/05/2023, https://congan.com.vn/doi-song/bau-vat-cua-quan-khu_147702.html; Báo Thanh Niên, bài "Gặp 'Dũng Râu', người làm 'giấy tờ' cho biệt động Sài Gòn Tết Mậu Thân 1968", 10/08/2026, https://thanhnien.vn/gap-dung-rau-nguoi-lam-giay-to-gia-cho-biet-dong-sai-gon-tet-mau-than-1968-185260806162454657.htm; Báo Dân trí, bài "Chiến sĩ biệt động Sài Gòn có nghề… làm 'quận trưởng'", 30/04/2024, https://dantri.com.vn/lao-dong-viec-lam/chien-si-biet-dong-sai-gon-co-nghe-lam-quan-truong-20240429183521724.htm]
+
+<!-- id: EVT-3556 -->
 *   **06/01/1968:** Nguyễn Văn Bạch, con trai lớn của bà Lê Thị Tuyết (Trà Cú), tham gia cách mạng. Ông sau này trở thành Trung đội trưởng thuộc Tiểu đoàn 306. [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân trong kháng chiến chống Mỹ cứu nước, NXB Quân đội nhân dân, Hà Nội, 1996]
 
 <!-- id: EVT-2420 -->
@@ -9314,6 +9323,9 @@
 * **1969:** Anh hùng Lực lượng vũ trang nhân dân Điểu Cải (Xã đội trưởng Đội du kích Đồng Nai) từ trần. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Lực lượng vũ trang miền Đông Nam Bộ (1945 - 2005), NXB Quân đội nhân dân, Hà Nội, 2005; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân]
 
 <!-- id: EVT-2465 -->
+*   **1969:** Khi ngụy quyền Sài Gòn đưa vào sử dụng loại căn cước "Rồng Xanh" in bằng công nghệ Mỹ, có hình rồng phát quang khi kiểm tra, Lâm Quốc Dũng dùng giấy can và mực để vẽ lại hình rồng trong gần một tuần; theo hồi ký của ông, những thẻ Rồng Xanh giả đầu tiên đã được đưa vào nội đô sử dụng, rồi bị thu hồi sau một thời gian vì nguy cơ bị lộ. Sau đó, ông chuyển sang làm giả giấy biên nhận căn cước - loại giấy tạm thời có giá trị thay thế trong thời gian chờ cấp thẻ mới - qua đó giúp duy trì hoạt động bí mật của biệt động trong giai đoạn 1969 - 1971. [Nguồn: Báo Thanh Niên, bài "Gặp 'Dũng Râu', người làm 'giấy tờ' cho biệt động Sài Gòn Tết Mậu Thân 1968", 10/08/2026, https://thanhnien.vn/gap-dung-rau-nguoi-lam-giay-to-gia-cho-biet-dong-sai-gon-tet-mau-than-1968-185260806162454657.htm; Báo Dân trí, bài "Chiến sĩ biệt động Sài Gòn có nghề… làm 'quận trưởng'", 30/04/2024, https://dantri.com.vn/lao-dong-viec-lam/chien-si-biet-dong-sai-gon-co-nghe-lam-quan-truong-20240429183521724.htm]
+
+<!-- id: EVT-3557 -->
 *   **19/01/1969:** Sự kiện cắm cờ Mặt trận Dân tộc Giải phóng miền Nam Việt Nam trên đỉnh Nhà thờ Đức Bà Paris (Pháp): Đúng rạng sáng trước ngày khai mạc phiên họp trù bị Hội nghị Paris 4 bên về Việt Nam, ba thanh niên Thụy Sĩ yêu chuộng hòa bình (Bernard Bachelard, Olivier Parriaux và Noé Graff) đã bí mật leo lên ngọn tháp chóp cao gần 100m của Nhà thờ Đức Bà Paris và treo lá cờ giải phóng nửa đỏ nửa xanh sao vàng rộng gần 10m². Lá cờ kiêu hãnh tung bay trên bầu trời Paris suốt cả ngày, gây chấn động truyền thông thế giới và thu hút sự chú ý của dư luận quốc tế ủng hộ cuộc đấu tranh chính nghĩa của nhân dân Việt Nam. [Nguồn: Báo Tuổi Trẻ - Hành động treo cờ Việt Nam ở nhà thờ Đức Bà Paris năm 1969 rất đáng trân trọng, https://tuoitre.vn/hanh-dong-treo-co-viet-nam-o-nha-tho-duc-ba-paris-nam-1969-rat-dang-tran-trong-20241117185131924.htm]
 
 <!-- id: EVT-2467 -->
@@ -9578,6 +9590,9 @@
 *Nguồn: Chùa Ấn Quang, Sài Gòn. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-2540 -->
+*   **Cuối năm 1971:** Sau nhiều nỗ lực, loại căn cước "Rồng Xanh" được làm giả thành công bằng cách gửi mẫu ra nước ngoài in bằng công nghệ cao, sau đó đưa về nước ghi tên và lăn tay; những thẻ giả này tiếp tục được cấp cho cán bộ, chiến sĩ biệt động hoạt động trong nội đô Sài Gòn. [Nguồn: Báo Dân trí, bài "Chiến sĩ biệt động Sài Gòn có nghề… làm 'quận trưởng'", 30/04/2024, https://dantri.com.vn/lao-dong-viec-lam/chien-si-biet-dong-sai-gon-co-nghe-lam-quan-truong-20240429183521724.htm]
+
+<!-- id: EVT-3558 -->
 *   **12/1971:** Đại hội lần thứ ba của Mặt trận Tổ quốc Việt Nam được tổ chức tại Hà Nội. [Nguồn: Cục Tuyên huấn - Tổng cục Chính trị, Các Anh hùng Lực lượng vũ trang nhân dân, NXB Quân đội nhân dân, Hà Nội, 1996]
 
 <!-- id: EVT-2541 -->
@@ -12409,6 +12424,9 @@
 *   **24/07/2023:** Nhà văn Hoàng Phủ Ngọc Tường qua đời tại TP. Hồ Chí Minh, hưởng thọ 86 tuổi. Sinh năm 1937 tại Huế, ông là một cây bút giàu dấu ấn của văn học Việt Nam hiện đại, nổi tiếng với phong cách tài hoa, uyên bác qua các tác phẩm bút ký tiêu biểu như "Ai đã đặt tên cho dòng sông?". [Nguồn: Thông cáo của Hội Nhà văn Việt Nam và Hội Liên hiệp VHNT Thừa Thiên Huế ngày 24/07/2023; Báo Văn Nghệ; Báo Tuổi Trẻ số ra ngày 25/07/2023]
 
 <!-- id: EVT-3334 -->
+*   **27/08/2023:** Bảo tàng Biệt động Sài Gòn - Gia Định tại số 145 đường Trần Quang Khải, phường Tân Định, Quận 1, TP. Hồ Chí Minh khánh thành. Dịp này, Lâm Quốc Dũng trao tặng bảo tàng bộ dụng cụ làm giấy tờ giả gắn bó với ông từ năm 1966, gồm dao khắc, bút viết, thước kẻ và nhiều vật dụng thô sơ khác, để trưng bày và ghi nhận những đóng góp thầm lặng của lực lượng quân báo, biệt động Sài Gòn. [Nguồn: Báo Dân trí, bài "Chiến sĩ biệt động Sài Gòn có nghề… làm 'quận trưởng'", 30/04/2024, https://dantri.com.vn/lao-dong-viec-lam/chien-si-biet-dong-sai-gon-co-nghe-lam-quan-truong-20240429183521724.htm]
+
+<!-- id: EVT-3559 -->
 *   **10/09/2023:** Tổng thống Hoa Kỳ Joe Biden thăm cấp Nhà nước tới Việt Nam theo lời mời của Tổng Bí thư Nguyễn Phú Trọng. Hai nhà lãnh đạo đã hội đàm và thông qua Tuyên bố chung nâng cấp quan hệ Việt Nam - Hoa Kỳ lên Đối tác Chiến lược Toàn diện vì hòa bình, hợp tác và phát triển bền vững. [Nguồn: Tuyên bố chung về việc nâng cấp quan hệ Việt Nam - Hoa Kỳ lên Đối tác Chiến lược Toàn diện ngày 10/09/2023 tại Hà Nội; Bộ Ngoại giao; Báo Nhân Dân số ra ngày 11/09/2023]
 
 <!-- id: EVT-3335 -->
