@@ -9839,6 +9839,13 @@
 *   **13/10/1973:** Ban Chấp hành Trung ương Đảng ban hành Nghị quyết số 227-NQ/TW (Hội nghị lần thứ 21), xác định nhiệm vụ cơ bản của cách mạng miền Nam trong giai đoạn mới là tiếp tục thực hiện chiến lược cách mạng dân tộc dân chủ nhân dân, dùng bạo lực cách mạng để giành chính quyền. [Nguồn: Bộ Quốc phòng, Lịch sử Bộ Tổng tham mưu trong kháng chiến chống Mỹ (1954 - 1975), NXB Quân đội nhân dân, Hà Nội, 1997]
 
 <!-- id: EVT-2598 -->
+*   **Tháng 12/1973:** Nữ ca sĩ phản chiến Nhật Bản Yokoi Kumiko (1944 - 2021) biểu diễn tại miền Bắc Việt Nam trong chuyến lưu diễn cuối năm, với các buổi hát tại rạp Hồng Hà (Hà Nội), Bệnh viện Bạch Mai và trận địa pháo Quảng Bình. Gắn với phong trào phản đối cuộc chiến tranh của Mỹ tại Việt Nam, bà nổi tiếng với ca khúc "Hãy chặn chiến xa lại" (Sensha wa ugokenai, còn được dịch là "Hãy dừng chiến xa lại"), ra đời trong cuộc phong tỏa xe tăng M48 của quân đội Mỹ tại Sagamihara năm 1972. Ca khúc do bà biểu diễn sau đó được Đài Tiếng nói Việt Nam và Đài Phát thanh Hà Nội thu âm, phát sóng nhiều lần. [Nguồn: Báo Tuổi Trẻ - Yokoi Kumiko và ước nguyện VN (06/05/2005), https://tuoitre.vn/yokoi-kumiko-va-uoc-nguyen-vn-77380.htm; Báo Tuổi Trẻ - Duyên kỳ ngộ (28/01/2009), https://tuoitre.vn/duyen-ky-ngo-297303.htm; Báo Thanh Niên - Vĩnh biệt danh ca Nhật từng hát ở chiến trường Bình Trị Thiên (19/01/2021), https://thanhnien.vn/vinh-biet-danh-ca-nhat-tung-hat-o-chien-truong-tri-thien-1851030099.htm]
+
+![Nữ ca sĩ Yokoi Kumiko hát cùng bộ đội Việt Nam](images/event_20261111_124811.webp)
+
+*Nguồn: Yokoi Kumiko ôm đàn guitar hát tặng bộ đội Việt Nam tại trận địa pháo Quảng Bình, năm 1973. Ảnh tư liệu: Yokoi Kumiko / Báo Tuổi Trẻ.*
+
+<!-- id: EVT-3560 -->
 *   **03/12/1973:** Dưới sự chỉ huy trực tiếp của Trung đoàn trưởng kiêm Chính ủy Đoàn 10 Đặc công Rừng Sác Lê Bá Ước (Bảy Ước), 8 chiến sĩ đặc công Đội 5 bí mật tiềm nhập luồn sâu vào Tổng kho xăng dầu Nhà Bè (kho dự trữ nhiên liệu chiến lược lớn nhất của quân đội Mỹ và ngụy quyền Sài Gòn), gài khối nổ hẹn giờ thiêu rụi hơn 250 triệu lít xăng dầu (khoảng 35 triệu gallon) cùng hàng loạt bồn bể, kho tàng cháy ngùn ngụt suốt 12 ngày đêm. [Nguồn: Báo Công an Nhân dân - Trận đánh kho xăng Nhà Bè và huyền thoại Đặc công Rừng Sác, https://cand.com.vn/Truyen-thong/Tran-danh-kho-xang-Nha-Be-va-huyen-thoai-Dac-cong-Rung-Sac-i716492/]
 
 <!-- id: EVT-2599 -->
@@ -10890,6 +10897,13 @@
 *   **06/1993:** Hội nghị lần thứ 5 Ban Chấp hành Trung ương Đảng (khóa VII) ra nghị quyết về tiếp tục đổi mới và phát triển kinh tế - xã hội nông thôn. [Nguồn: Nghị quyết Hội nghị lần thứ 5 Ban Chấp hành Trung ương Đảng (khóa VII) ngày 11/06/1993; Văn kiện Đảng Toàn tập, tập 52 (1992 - 1993), NXB Chính trị quốc gia, Hà Nội, 2007]
 
 <!-- id: EVT-2899 -->
+*   **Mùa hè 1993:** Nữ sinh viên năm thứ ba khoa Quan hệ quốc tế Trường Đại học Meiji Gakuin (Nhật Bản) Takahashi Junko (1973 - 1993) cùng một người bạn thực hiện chuyến đi kéo dài một tháng tại Việt Nam, qua Hà Nội, Đà Nẵng, Hội An và Thành phố Hồ Chí Minh để tìm hiểu văn hóa và tình hình đầu tư của doanh nghiệp Nhật Bản. Chứng kiến cảnh nghèo và nhiều trẻ em lang thang thay vì đến trường, cô ghi vào cuốn nhật ký luôn mang theo ước nguyện trở lại giúp trẻ em Việt Nam có môi trường học tập tốt hơn. [Nguồn: Báo Tuổi Trẻ - Ngôi trường xứ Quảng mang tên cô gái Nhật (29/04/2019), https://tuoitre.vn/ngoi-truong-xu-quang-mang-ten-co-gai-nhat-20190429222611062.htm; Báo Dân trí - Câu chuyện cảm động của ngôi trường mang tên nữ sinh Nhật Bản (07/03/2020), https://dantri.com.vn/giao-duc/cau-chuyen-cam-dong-cua-ngoi-truong-mang-ten-nu-sinh-nhat-ban-20200307121459666.htm]
+
+![Di ảnh Takahashi Junko](images/event_20261111_130038.webp)
+
+*Nguồn: Di ảnh Takahashi Junko tại Trường Tiểu học Junko, xã Điện Phước, huyện Điện Bàn, tỉnh Quảng Nam. Ảnh: Đoàn Cường / Báo Tuổi Trẻ.*
+
+<!-- id: EVT-3562 -->
 *   **02/07/1993:** Mỹ tuyên bố không còn phản đối các nước và tổ chức tài chính quốc tế cho Việt Nam vay vốn để trả nợ, một bước đi quan trọng tiến tới dỡ bỏ cấm vận. [Nguồn: Tuyên bố của Tổng thống Hoa Kỳ Bill Clinton ngày 02/07/1993; Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, NXB Chính trị quốc gia, 2002; Báo Nhân Dân]
 
 <!-- id: EVT-2900 -->
@@ -10902,6 +10916,9 @@
 *   **06/10/1993:** Với khoản tài trợ và cho vay bắc cầu từ "Nhóm những người bạn của Việt Nam" gồm 15 quốc gia do Pháp và Nhật Bản đồng chủ trì, Việt Nam đã thanh toán dứt điểm khoản nợ quá hạn 140 triệu USD của chính quyền Việt Nam Cộng hòa để lại tại Quỹ Tiền tệ Quốc tế (IMF). Việc xóa bỏ nợ quá hạn đã mở đường cho IMF, Ngân hàng Thế giới (WB) và Ngân hàng Phát triển Châu Á (ADB) chính thức dỡ bỏ lệnh đình chỉ tín dụng kéo dài gần 20 năm, tái lập các chương trình cho vay tái thiết và phát triển cơ sở hạ tầng cho Việt Nam. [Nguồn: Quỹ Tiền tệ Quốc tế (IMF), Thông cáo báo chí số 93/43 ngày 06/10/1993; Ngân hàng Nhà nước Việt Nam; Báo Nhân Dân số ra ngày 08/10/1993]
 
 <!-- id: EVT-2903 -->
+*   **09/12/1993:** Takahashi Junko qua đời ở tuổi 20 trong một vụ tai nạn giao thông tại Nhật Bản, ba tháng sau khi từ Việt Nam trở về. Đọc cuốn nhật ký của con gái, cha mẹ cô là ông bà Horotaro Takahashi quyết định dùng tiền bồi thường bảo hiểm, tiền phúng điếu và khoản tiết kiệm dành cho đám cưới tương lai của cô để xây một ngôi trường học cho trẻ em Việt Nam. [Nguồn: Báo Tuổi Trẻ - Ngôi trường xứ Quảng mang tên cô gái Nhật (29/04/2019), https://tuoitre.vn/ngoi-truong-xu-quang-mang-ten-co-gai-nhat-20190429222611062.htm; Báo Thanh Niên - Đại sứ Nhật Bản đến thăm ngôi trường mang tên cô gái Nhật Junko (06/03/2020), https://thanhnien.vn/dai-su-nhat-ban-den-tham-ngoi-truong-mang-ten-co-gai-nhat-junko-185932099.htm]
+
+<!-- id: EVT-3563 -->
 *   **11/12/1993:** Quần thể di tích Cố đô Huế được công nhận là Di sản Văn hóa Thế giới. [Nguồn: UNESCO, Quyết định của Ủy ban Di sản Thế giới tại kỳ họp thứ 17 (Cartagena, 1993); Trung tâm Bảo tồn Di tích Cố đô Huế; Báo Nhân Dân]
 
 ![Ngọ Môn Huế](images/event_20260930_101732_2.webp)
@@ -11034,6 +11051,13 @@
 * **30/08/1995:** Nhà nước Việt Nam quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân cho Nguyễn Thị Nê (Nữ du kích Củ Chi, huyện đội phó huyện đội Nam Củ Chi, người được thay mặt Đại hội Anh hùng chiến sĩ thi đua toàn Miền Nam lần thứ 2 (1967) viết thư gửi Bác Hồ để báo cáo tình hình hoạt động cách mạng của lực lượng du kích Củ Chi). [Nguồn: Lệnh số 445-KT/CTN ngày 30/08/1995 của Chủ tịch nước truy tặng danh hiệu Anh hùng LLVTND; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2938 -->
+*   **04/9/1995:** Ngôi trường hai tầng gồm 8 phòng học, nhà đa năng và công trình vệ sinh do gia đình Takahashi Junko tài trợ bằng 100.000 USD (hơn 1 tỉ đồng thời điểm đó) được khánh thành, đưa vào sử dụng tại xã Điện Phước, huyện Điện Bàn, tỉnh Quảng Nam, trên diện tích đất ruộng hơn 3.000 m² do chính quyền và nhân dân địa phương hiến tặng. Ban đầu trường là phân hiệu của Trường Tiểu học Hoàng Hoa Thám; ngày 27/8/2003, địa phương đổi tên trường thành Trường Tiểu học Junko để tri ân cô gái Nhật Bản quá cố. [Nguồn: Báo Tuổi Trẻ - Ngôi trường xứ Quảng mang tên cô gái Nhật (29/04/2019), https://tuoitre.vn/ngoi-truong-xu-quang-mang-ten-co-gai-nhat-20190429222611062.htm; Báo VietnamPlus - Trường tiểu học Junko - dấu ấn tình yêu Việt Nam của cô gái Nhật (21/08/2015), https://www.vietnamplus.vn/truong-tieu-hoc-junko-dau-an-tinh-yeu-viet-nam-cua-co-gai-nhat-post339421.vnp; Cổng thông tin điện tử xã Điện Bàn Tây - Trường Tiểu học Junko tổ chức Lễ kỷ niệm 30 năm Ngày khánh thành (04/9/2025), https://dienbantay.danang.gov.vn/chi-tiet-tin/group/119/nid/4346/truong-tieu-hoc-junko-to-chuc-le-ky-niem-3-nam-ngay-khanh-thanh]
+
+![Trường Tiểu học Junko](images/event_20261111_130038_1.webp)
+
+*Nguồn: Trường Tiểu học Junko tại xã Điện Phước, huyện Điện Bàn, tỉnh Quảng Nam, năm 2019. Ảnh: Đoàn Cường / Báo Tuổi Trẻ.*
+
+<!-- id: EVT-3564 -->
 *   **Cuối năm 1995:** Đại tá, Anh hùng tình báo Đinh Thị Vân từ trần tại Hà Nội, hưởng thọ 79 tuổi. Bà là một huyền thoại của ngành tình báo quốc phòng, người đã hy sinh hạnh phúc riêng tư vì Tổ quốc, và sau này được đặt tên cho các con đường tại Nam Định và Đà Nẵng. [Nguồn: Tổng cục Tình báo Quốc phòng, Lịch sử Tình báo Quốc phòng Việt Nam (1945 - 2005), NXB Quân đội nhân dân, 2005; Báo Quân đội nhân dân]
 
 <!-- id: EVT-2939 -->
@@ -12292,6 +12316,9 @@
 * **2021:** Anh hùng Lực lượng vũ trang nhân dân Trần Thận (Nguyên Ủy viên Khu ủy Khu 5, nguyên Bí thư Tỉnh ủy Quảng Nam) từ trần. [Nguồn: Thành ủy Đà Nẵng và Tỉnh ủy Quảng Nam, Đồng chí Trần Thận - Người cán bộ kiên trung của Khu 5; Báo Đà Nẵng số ra ngày 05/10/2021]
 
 <!-- id: EVT-3295 -->
+*   **14/01/2021:** Nữ danh ca phản chiến Nhật Bản Yokoi Kumiko qua đời tại Tokyo ở tuổi 76. Bà gắn bó với Việt Nam từ chuyến lưu diễn cuối năm 1973 và sau đó trở lại nhiều lần để biểu diễn gây quỹ, vận động ủng hộ các nạn nhân chất độc da cam/dioxin. Năm 2005, Nhà nước Việt Nam trao tặng bà Huân chương Hữu nghị nhân dịp kỷ niệm 30 năm Ngày Giải phóng miền Nam, thống nhất đất nước. [Nguồn: Báo Thanh Niên - Vĩnh biệt danh ca Nhật từng hát ở chiến trường Bình Trị Thiên (19/01/2021), https://thanhnien.vn/vinh-biet-danh-ca-nhat-tung-hat-o-chien-truong-tri-thien-1851030099.htm; Báo Tuổi Trẻ - Duyên kỳ ngộ (28/01/2009), https://tuoitre.vn/duyen-ky-ngo-297303.htm]
+
+<!-- id: EVT-3561 -->
 *   **25/01 - 01/02/2021:** Đại hội đại biểu toàn quốc lần thứ XIII của Đảng Cộng sản Việt Nam diễn ra tại Hà Nội, bầu đồng chí Nguyễn Phú Trọng tiếp tục giữ chức Tổng Bí thư Ban Chấp hành Trung ương Đảng khóa XIII; xác định mục tiêu đến năm 2030 Việt Nam là nước đang phát triển có công nghiệp hiện đại, thu nhập trung bình cao, và đến năm 2045 trở thành nước phát triển, thu nhập cao; khẳng định bản sắc đối ngoại "Cây tre Việt Nam". [Nguồn: Báo cáo chính trị của Ban Chấp hành Trung ương Đảng khóa XII tại Đại hội đại biểu toàn quốc lần thứ XIII; Văn kiện Đại hội đại biểu toàn quốc lần thứ XIII, NXB Chính trị quốc gia Sự thật, Hà Nội, 2021]
 
 <!-- id: EVT-3296 -->
@@ -12609,6 +12636,13 @@
 *   **03/09/2025:** Tác phẩm sơn mài lớn nhất thế giới là bức tranh "Bác Hồ đọc Tuyên ngôn Độc lập" của họa sĩ trẻ Chu Nhật Quang, được Tổ chức Kỷ lục Guinness Thế giới công nhận. [Nguồn: Tổ chức Kỷ lục Việt Nam và Liên minh Kỷ lục Thế giới, Công nhận bức tranh sơn mài lớn nhất thế giới ngày 03/09/2025; Báo Văn Hóa; Báo Tuổi Trẻ]
 
 <!-- id: EVT-3393 -->
+*   **04/9/2025:** Trường Tiểu học Junko, nay thuộc xã Điện Bàn Tây, thành phố Đà Nẵng, kỷ niệm 30 năm ngày khánh thành với sự tham dự của Phó Tổng Lãnh sự Nhật Bản tại Đà Nẵng Shimonishi Kiyoshi; sau nhiều lần mở rộng và được đầu tư, nhà trường nhiều năm liền đạt chuẩn quốc gia mức độ 2 và kiểm định chất lượng giáo dục cấp độ 3, trở thành biểu tượng hữu nghị giữa nhân dân Việt Nam và Nhật Bản. [Nguồn: Cổng thông tin điện tử xã Điện Bàn Tây - Trường Tiểu học Junko tổ chức Lễ kỷ niệm 30 năm Ngày khánh thành (04/9/2025), https://dienbantay.danang.gov.vn/chi-tiet-tin/group/119/nid/4346/truong-tieu-hoc-junko-to-chuc-le-ky-niem-3-nam-ngay-khanh-thanh; Báo Đà Nẵng - Phó Tổng Lãnh sự Nhật Bản tại Đà Nẵng dự kỷ niệm 30 năm thành lập Trường Tiểu học Junko (04/9/2025), https://baodanang.vn/pho-tong-lanh-su-nhat-ban-tai-da-nang-du-ky-niem-30-nam-thanh-lap-truong-tieu-hoc-junko-3301043.html]
+
+![Học sinh dâng hoa tưởng niệm Takahashi Junko](images/event_20261111_130038_2.webp)
+
+*Nguồn: Học sinh Trường Tiểu học Junko dâng hoa tưởng niệm Takahashi Junko tại lễ kỷ niệm 30 năm khánh thành trường, ngày 04/9/2025. Ảnh: Hoàng Liên / Báo Đà Nẵng.*
+
+<!-- id: EVT-3565 -->
 *   **25/09 - 06/12/2025:** Đợt "Đại hồng thủy 2025" tàn phá miền Bắc và miền Trung Việt Nam. Do ảnh hưởng của 5 cơn bão liên tiếp (số 9 đến số 13) và bão số 15, lũ lịch sử đã xuất hiện trên 20 con sông lớn. Đỉnh Bạch Mã (Huế) ghi nhận lượng mưa 24 giờ kỷ lục 1.739,6mm. Bộ Công an báo cáo năm 2025 thiên tai đã làm 415 người chết, mất tích, 728 người bị thương, thiệt hại hơn 91.000 tỷ đồng. "Chiến dịch Quang Trung" đang được đẩy mạnh để hỗ trợ xây dựng nhà ở cho người dân vùng lũ. [Nguồn: Ban Chỉ đạo Quốc gia về Phòng chống thiên tai, Báo cáo khắc phục hậu quả thiên tai lũ lụt cuối năm 2025; Báo Nhân Dân; Báo Quân đội nhân dân]
 
 <!-- id: EVT-3394 -->

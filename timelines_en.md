@@ -9839,6 +9839,13 @@
 *   **Oct. 13, 1973:** The Party Central Committee issued Resolution No. 227-NQ/TW (21st Plenum), defining the basic task of the Southern revolution in the new stage as continuing the national people's democratic revolution and using revolutionary violence to seize power. [Source: Ministry of National Defense, History of the General Staff in the Anti-US Resistance (1954 - 1975), People's Army Publishing House, Hanoi, 1997]
 
 <!-- id: EVT-2598 -->
+*   **Dec. 1973:** Japanese anti-war singer Yokoi Kumiko (1944-2021) performed in North Vietnam during a year-end tour, appearing at the Hong Ha Theatre in Hanoi, Bach Mai Hospital and an artillery position in Quang Binh. Associated with Japan's movement against the American war in Vietnam, she was known for "Sensha wa ugokenai" ("The Tanks Cannot Move"), written during the 1972 blockade of US M48 tanks at Sagamihara. Her rendition of the song was recorded by Voice of Vietnam and Hanoi Radio and broadcast repeatedly. [Source: Tuoi Tre Newspaper - Yokoi Kumiko and her wish for Vietnam (May 6, 2005), https://tuoitre.vn/yokoi-kumiko-va-uoc-nguyen-vn-77380.htm; Tuoi Tre Newspaper - A Fateful Encounter (Jan. 28, 2009), https://tuoitre.vn/duyen-ky-ngo-297303.htm; Thanh Nien Newspaper - Farewell to the Japanese diva who sang on the Binh Tri Thien battlefield (Jan. 19, 2021), https://thanhnien.vn/vinh-biet-danh-ca-nhat-tung-hat-o-chien-truong-tri-thien-1851030099.htm]
+
+![Singer Yokoi Kumiko singing for Vietnamese soldiers](images/event_20261111_124811.webp)
+
+*Source: Yokoi Kumiko plays guitar and sings for Vietnamese soldiers at an artillery position in Quang Binh, 1973. Photo: Yokoi Kumiko archive / Tuoi Tre Newspaper.*
+
+<!-- id: EVT-3560 -->
 *   **Dec. 3, 1973:** Under the direct command of Regiment Commander and Political Commissar Le Ba Uoc (Bay Uoc) of the 10th Rung Sac Commando Regiment, eight commandos from Team 5 covertly infiltrated deep into the Nha Be Shell fuel depot (the largest strategic fuel storage facility of the US and Saigon regime), detonating timed charges that incinerated over 250 million liters of gasoline and oil (approx. 35 million gallons) and triggering fires that raged for 12 days and nights. [Source: People's Public Security Newspaper - The Attack on Nha Be Fuel Depot and the Legend of Rung Sac Commandos, https://cand.com.vn/Truyen-thong/Tran-danh-kho-xang-Nha-Be-va-huyen-thoai-Dac-cong-Rung-Sac-i716492/]
 
 <!-- id: EVT-2599 -->
@@ -10890,6 +10897,13 @@
 *   **Jun. 1993:** The 5th Conference of the Party Central Committee (7th tenure) issued a resolution on continuing the renewal and development of the rural socio-economy. [Source: Resolution of the 5th Plenum of the Party Central Committee (7th Tenure), June 11, 1993; Complete Party Documents, Vol. 52 (1992 - 1993), National Political Publishing House, Hanoi, 2007]
 
 <!-- id: EVT-2899 -->
+*   **Summer 1993:** Takahashi Junko (1973-1993), a third-year student of international relations at Meiji Gakuin University in Japan, made a one-month trip to Vietnam with a friend, travelling through Hanoi, Da Nang, Hoi An and Ho Chi Minh City to learn about local culture and the investment activities of Japanese companies. Moved by the poverty she witnessed and by children who roamed the streets instead of going to school, she wrote in the diary she carried throughout the journey her wish to return and give Vietnamese children a better learning environment. [Source: Tuoi Tre Newspaper - The school in Quang Nam named after a Japanese girl (Apr. 29, 2019), https://tuoitre.vn/ngoi-truong-xu-quang-mang-ten-co-gai-nhat-20190429222611062.htm; Dan Tri Newspaper - The moving story of the school named after a Japanese student (Mar. 7, 2020), https://dantri.com.vn/giao-duc/cau-chuyen-cam-dong-cua-ngoi-truong-mang-ten-nu-sinh-nhat-ban-20200307121459666.htm]
+
+![Portrait of Takahashi Junko](images/event_20261111_130038.webp)
+
+*Source: Portrait of Takahashi Junko at Junko Primary School in Dien Phuoc Commune, Dien Ban District, Quang Nam Province. Photo: Doan Cuong / Tuoi Tre Newspaper.*
+
+<!-- id: EVT-3562 -->
 *   **Jul. 2, 1993:** The US announced it no longer opposed other countries and international financial institutions lending to Vietnam to repay its debts, a crucial step towards lifting the embargo. [Source: Statement by US President Bill Clinton, July 2, 1993; Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, National Political Publishing House, 2002; Nhan Dan Newspaper]
 
 <!-- id: EVT-2900 -->
@@ -10902,6 +10916,9 @@
 *   **Oct. 6, 1993:** Supported by commercial and bilateral bridge financing from the 15-nation "Friends of Vietnam" group co-chaired by France and Japan, Vietnam cleared all 140 million USD in arrears inherited from the Republic of Vietnam at the International Monetary Fund (IMF). Clearing these arrears enabled the IMF, the World Bank, and the Asian Development Bank (ADB) to formally lift their nearly two-decade lending moratorium, resuming vital development and infrastructure loans to Vietnam. [Source: International Monetary Fund (IMF), Press Release No. 93/43, Oct. 6, 1993; State Bank of Vietnam; Nhan Dan Newspaper, Oct. 8, 1993]
 
 <!-- id: EVT-2903 -->
+*   **Dec. 9, 1993:** Takahashi Junko died aged 20 in a traffic accident in Japan, three months after returning from Vietnam. Reading their daughter's diary, her parents Horotaro Takahashi and his wife decided to use her insurance compensation, condolence money and the savings set aside for her future wedding to build a school for Vietnamese children. [Source: Tuoi Tre Newspaper - The school in Quang Nam named after a Japanese girl (Apr. 29, 2019), https://tuoitre.vn/ngoi-truong-xu-quang-mang-ten-co-gai-nhat-20190429222611062.htm; Thanh Nien Newspaper - Japanese ambassador visits the school named after Japanese girl Junko (Mar. 6, 2020), https://thanhnien.vn/dai-su-nhat-ban-den-tham-ngoi-truong-mang-ten-co-gai-nhat-junko-185932099.htm]
+
+<!-- id: EVT-3563 -->
 *   **Dec. 11, 1993:** The complex of monuments of the former imperial capital of Hue was recognized as a World Cultural Heritage site. [Source: UNESCO, Decision of the World Heritage Committee at its 17th Session (Cartagena, 1993); Hue Monuments Conservation Center; Nhan Dan Newspaper]
 
 ![Ngo Mon Gate Hue](images/event_20260930_101732_2.webp)
@@ -11034,6 +11051,13 @@
 * **30/08/1995:** The State of Vietnam posthumously awarded the title of Hero of the People's Armed Forces to Nguyễn Thị Nê (Nữ du kích Củ Chi, huyện đội phó huyện đội Nam Củ Chi, người được thay mặt Đại hội Anh hùng chiến sĩ thi đua toàn Miền Nam lần thứ 2 (1967) viết thư gửi Bác Hồ để báo cáo tình hình hoạt động cách mạng của lực lượng du kích Củ Chi). [Source: Presidential Order No. 445-KT/CTN dated Aug. 30, 1995 posthumously conferring Hero of the People's Armed Forces; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2938 -->
+*   **Sep. 4, 1995:** The two-storey school with eight classrooms, a multi-purpose hall and a sanitation block, funded by Takahashi Junko's family with 100,000 USD (more than VND 1 billion at the time), was inaugurated and put into use in Dien Phuoc Commune, Dien Ban District, Quang Nam Province, on more than 3,000 square metres of rice land donated by the local authorities and residents. It initially operated as a branch of Hoang Hoa Tham Primary School; on Aug. 27, 2003 the local authorities renamed it Junko Primary School in tribute to the late Japanese student. [Source: Tuoi Tre Newspaper - The school in Quang Nam named after a Japanese girl (Apr. 29, 2019), https://tuoitre.vn/ngoi-truong-xu-quang-mang-ten-co-gai-nhat-20190429222611062.htm; VietnamPlus - Junko Primary School, a mark of a Japanese girl's love for Vietnam (Aug. 21, 2015), https://www.vietnamplus.vn/truong-tieu-hoc-junko-dau-an-tinh-yeu-viet-nam-cua-co-gai-nhat-post339421.vnp; Dien Ban Tay Commune portal - Junko Primary School celebrates the 30th anniversary of its inauguration (Sep. 4, 2025), https://dienbantay.danang.gov.vn/chi-tiet-tin/group/119/nid/4346/truong-tieu-hoc-junko-to-chuc-le-ky-niem-3-nam-ngay-khanh-thanh]
+
+![Junko Primary School](images/event_20261111_130038_1.webp)
+
+*Source: Junko Primary School in Dien Phuoc Commune, Dien Ban District, Quang Nam Province, 2019. Photo: Doan Cuong / Tuoi Tre Newspaper.*
+
+<!-- id: EVT-3564 -->
 *   **Late 1995:** Colonel and intelligence Hero Dinh Thi Van passed away in Hanoi at the age of 79. She was a legendary figure in Vietnam's military intelligence who sacrificed her personal happiness for her country, and was later honored by having streets named after her in Nam Dinh and Da Nang. [Source: General Department of Defense Intelligence, History of Vietnam Defense Intelligence (1945 - 2005), People's Army Publishing House, 2005; People's Army Newspaper]
 
 <!-- id: EVT-2939 -->
@@ -12292,6 +12316,9 @@
 * **2021:** Hero of the People's Armed Forces Trần Thận (Nguyên Ủy viên Khu ủy Khu 5, nguyên Bí thư Tỉnh ủy Quảng Nam) passed away. [Source: Da Nang Party Committee and Quang Nam Party Committee, Comrade Tran Than - Steadfast Cadre of Zone 5; Da Nang Newspaper, Oct. 5, 2021]
 
 <!-- id: EVT-3295 -->
+*   **Jan. 14, 2021:** Japanese anti-war singer Yokoi Kumiko died in Tokyo at the age of 76. She had been associated with Vietnam since her 1973 tour of the North and returned repeatedly to give charity concerts and campaign for Agent Orange/dioxin victims. In 2005 the Vietnamese state awarded her the Friendship Order on the 30th anniversary of the liberation and reunification of the South. [Source: Thanh Nien Newspaper - Farewell to the Japanese diva who sang on the Binh Tri Thien battlefield (Jan. 19, 2021), https://thanhnien.vn/vinh-biet-danh-ca-nhat-tung-hat-o-chien-truong-tri-thien-1851030099.htm; Tuoi Tre Newspaper - A Fateful Encounter (Jan. 28, 2009), https://tuoitre.vn/duyen-ky-ngo-297303.htm]
+
+<!-- id: EVT-3561 -->
 *   **Jan. 25 - Feb. 1, 2021:** The 13th National Congress of the Communist Party of Vietnam took place in Hanoi, re-electing Comrade Nguyen Phu Trong as General Secretary of the 13th Party Central Committee; setting targets for Vietnam to become a developing country with modern industry and upper-middle income by 2030, and a developed, high-income country by 2045; affirming the "Vietnamese Bamboo" diplomatic doctrine. [Source: Political Report of the 12th Party Central Committee at the 13th National Congress; Documents of the 13th National Congress, National Political Publishing House, Hanoi, 2021]
 
 <!-- id: EVT-3296 -->
@@ -12609,6 +12636,13 @@
 *   **Sep. 03, 2025:** The world's largest lacquer painting is "President Ho Chi Minh Reading the Declaration of Independence" by young artist Chu Nhat Quang, which has been recognized by the Guinness World Records organization. [Source: Vietnam Records Organization and World Records Union, Recognition of World's Largest Lacquer Painting, Sept. 3, 2025; Van Hoa; Tuoi Tre Newspaper]
 
 <!-- id: EVT-3393 -->
+*   **Sep. 4, 2025:** Junko Primary School, now in Dien Ban Tay Commune, Da Nang City, marked the 30th anniversary of its inauguration in a ceremony attended by Shimonishi Kiyoshi, Deputy Consul General of Japan in Da Nang; after several expansions and investments, the school has for many years met national standard level 2 and quality accreditation level 3, becoming a symbol of friendship between the people of Vietnam and Japan. [Source: Dien Ban Tay Commune portal - Junko Primary School celebrates the 30th anniversary of its inauguration (Sep. 4, 2025), https://dienbantay.danang.gov.vn/chi-tiet-tin/group/119/nid/4346/truong-tieu-hoc-junko-to-chuc-le-ky-niem-3-nam-ngay-khanh-thanh; Da Nang Newspaper - Japanese Deputy Consul General attends the 30th anniversary of Junko Primary School (Sep. 4, 2025), https://baodanang.vn/pho-tong-lanh-su-nhat-ban-tai-da-nang-du-ky-niem-30-nam-thanh-lap-truong-tieu-hoc-junko-3301043.html]
+
+![Students lay flowers in memory of Takahashi Junko](images/event_20261111_130038_2.webp)
+
+*Source: Students of Junko Primary School lay flowers in memory of Takahashi Junko at the school's 30th anniversary ceremony, Sep. 4, 2025. Photo: Hoang Lien / Da Nang Newspaper.*
+
+<!-- id: EVT-3565 -->
 *   **Sep. 25 - Dec. 6, 2025:** The "Great Flood of 2025" devastated Northern and Central Vietnam due to the impact of five consecutive typhoons (No. 9 to No. 13) and Typhoon No. 15. Historical flood records were broken on 20 major rivers. Notably, Bach Ma (Hue) recorded a 24-hour rainfall of 1,739.6 mm, the highest ever in Vietnam. The Ministry of Public Security reported that in 2025, natural disasters left 415 people dead or missing, 728 injured, and caused over 91 trillion VND in damage. The "Quang Trung Campaign" is actively being implemented to build homes for flood victims. [Source: National Steering Committee for Disaster Management, Final Report on Late 2025 Flood Relief and Recovery; Nhan Dan; People's Army Newspaper]
 
 <!-- id: EVT-3394 -->
