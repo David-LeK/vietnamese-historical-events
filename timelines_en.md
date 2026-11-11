@@ -12837,3 +12837,73 @@
 *   **Sep. 17, 2026:** In Hanoi, Division 308 (12th Corps) solemnly held a ceremony to posthumously award the title Hero of the People's Armed Forces for the anti-French resistance war to Captain Hoàng Cầm (birth name Đỗ Văn Cầm, 1916–1996, former mess squad leader of the Surgical Team, Medical Department, Division 308), creator of the Hoàng Cầm stove. The noble title represented the worthy recognition of the Party and State for his ingenious logistical invention and exceptional contributions to the Vietnam People's Army in the struggle for national liberation. [Source: 12th Corps, 77th Anniversary Celebration of the 308th Quan Tien Phong Division (1949 - 2026), Sept. 17, 2026 in Hanoi; People's Army Newspaper, Sept. 18, 2026]
 
 <!-- id: EVT-3455 -->
+*   **Sep. 19 - Oct. 4, 2026:** The 20th Asian Games (Aichi-Nagoya 2026) were held in Japan with 43 sports, 71 disciplines and 469 medal events. Vietnam's delegation finished with 25 medals (3 gold, 3 silver and 19 bronze), placing 20th in the medal table; the first gold came in the women's team kata on September 22, followed by women's doubles sepak takraw on September 29 and women's four sepak takraw on October 3. [Source: Government of Vietnam e-newspaper, "ASIAD 2026 medal table", https://xaydungchinhsach.chinhphu.vn/bang-tong-sap-huy-chuong-asiad-2026-119260922150708808.htm; VOV, "Closing ceremony of ASIAD 2026 in Japan", https://vov.vn/the-thao/toan-canh-le-be-mac-asiad-2026-tai-nhat-ban-post1338468.vov]
+
+![Historical Image](images/event_20261111_133413.webp)
+
+*Source: Mizuho Stadium (Paloma Mizuho Stadium) in Nagoya, Japan during the 2026 Asian Games, September 2026 / Aspere / Wikimedia Commons (CC0)*
+
+<!-- id: EVT-3566 -->
+*   **Sep. 21, 2026:** Vietnam's stock market was officially reclassified by FTSE Russell from a frontier market to a secondary emerging market after nearly eight years on its watch list. The reclassification took effect on September 21, 2026 and is being phased in four tranches, expected to be completed by September 2027, marking the first time Vietnam's capital market has been included in FTSE Russell's emerging market index system. [Source: Government of Vietnam e-newspaper, "Stock market upgrade, raising the economy's standards", https://baochinhphu.vn/nang-hang-thi-truong-chung-khoan-nang-chuan-nen-kinh-te-10226091922045122.htm]
+
+![Historical Image](images/event_20261111_133414.webp)
+
+*Source: Ho Chi Minh Stock Exchange (HOSE) / Syced / Wikimedia Commons (CC0)*
+
+<!-- id: EVT-3567 -->
+*   **Sep. 24 - 25, 2026:** General Secretary and President Tô Lâm paid a state visit to Canada at the invitation of Governor General Louise Arbour - the first visit by the General Secretary of the Communist Party of Vietnam to Canada since the two countries established diplomatic relations in 1973. During the visit, the two countries issued a joint statement upgrading relations to a Strategic Partnership built on eight pillars, with economic, trade, investment and financial cooperation as an important driver, while expanding cooperation in digital transformation, artificial intelligence, advanced technology, energy and climate response. [Source: Government of Vietnam e-newspaper, "Joint statement on the Vietnam-Canada Strategic Partnership", https://baochinhphu.vn/tuyen-bo-chung-ve-quan-he-doi-tac-chien-luoc-giua-viet-nam-va-canada-102260925071804546.htm]
+
+![Historical Image](images/event_20261111_133414_1.webp)
+
+*Source: Rideau Hall in Ottawa, where the Governor General of Canada receives heads of state on state visits / Concierge.2C / Wikimedia Commons (CC BY-SA 3.0)*
+
+<!-- id: EVT-3568 -->
+*   **Oct. 5 - 8, 2026:** The fourth plenum of the 14th Party Central Committee met in Hanoi, adopting Resolution No. 28-NQ/TW and other key resolutions and regulations on strengthening the Party and the political system; renewing the Party's leadership and governing methods; building the contingent of cadres; inspection, supervision and discipline; Party members' participation in investment and business; and attracting and honoring talent. The plenum also agreed to rename the Party Committee of the Fatherland Front and central mass organizations as the Party Committee for Mass Mobilization, the Fatherland Front and Central Mass Organizations, and elected an additional member of the Central Inspection Commission. [Source: Full text of Resolution No. 28-NQ/TW of the fourth plenum of the 14th Party Central Committee, https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-28-nq-tw-hoi-nghi-lan-thu-tu-ban-chap-hanh-trung-uong-dang-khoa-xiv-119261010071500703.htm]
+
+![Historical Image](images/event_20261111_133414_2.webp)
+
+*Source: Headquarters of the Office of the Communist Party of Vietnam Central Committee in Hanoi / U.S. Department of State / Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3569 -->
+*   **Oct. 10, 2026:** On October 10, 2026, Foreign Ministry spokesperson Phạm Thu Hằng said Vietnam welcomed the European Union's decision to remove Vietnam from its list of non-cooperative tax jurisdictions. Vietnam appreciated the EU's recognition of its improvements in tax laws and policies and their effective implementation, and affirmed its readiness to continue working with the EU and international partners to promote tax transparency and a fair, sustainable investment and business environment. [Source: Government of Vietnam e-newspaper, "Vietnam welcomes EU removal from non-cooperative tax list", https://baochinhphu.vn/hoan-nghenh-eu-dua-viet-nam-ra-khoi-danh-sach-cac-quoc-gia-khong-hop-tac-ve-thue-102261010202549703.htm]
+
+![Historical Image](images/event_20261111_133415.webp)
+
+*Source: European Commission headquarters (Berlaymont) in Brussels, Belgium / EmDee / Wikimedia Commons (CC BY-SA 4.0)*
+
+<!-- id: EVT-3570 -->
+*   **Oct. 19 - 24, 2026:** General Secretary and President Tô Lâm paid a state visit to Denmark and official visits to the European Union and Belgium. In Denmark, on the 55th anniversary of diplomatic relations, the two countries issued a joint statement upgrading relations to a Comprehensive Strategic Partnership focused on green transition, renewable energy and sustainable development. In Brussels, Vietnamese and EU leaders committed to deepening the Comprehensive Strategic Partnership, fully implementing the Vietnam-EU Free Trade Agreement (EVFTA), ratifying the Investment Protection Agreement (EVIPA) soon, and promoting cooperation under Global Gateway and the Just Energy Transition Partnership (JETP). In Belgium, the two sides adopted a joint statement and agreed to deepen cooperation in defense, agriculture, semiconductors and innovation. [Source: Government of Vietnam e-newspaper, "Joint statement on the establishment of the Vietnam-Denmark Comprehensive Strategic Partnership", https://baochinhphu.vn/tuyen-bo-chung-ve-viec-thiet-lap-quan-he-doi-tac-chien-luoc-toan-dien-giua-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam-va-dan-mach-102261020235339179.htm; Government of Vietnam e-newspaper, "Joint press release on the official visit to the European Union by General Secretary and President Tô Lâm", https://baochinhphu.vn/thong-cao-bao-chi-chung-ve-chuyen-tham-chinh-thuc-lien-minh-chau-au-cua-tong-bi-thu-chu-tich-nuoc-to-lam-102261022220637474.htm]
+
+![Historical Image](images/event_20261111_133415_1.webp)
+
+*Source: General Secretary and President Tô Lâm and European Commission President Ursula von der Leyen in Brussels, October 22, 2026 / Bogdan Hoyaux / European Commission / Wikimedia Commons (CC BY 4.0)*
+
+<!-- id: EVT-3571 -->
+*   **Oct. 24 - 26, 2026:** Polish Prime Minister Donald Tusk paid an official visit to Vietnam at the invitation of Prime Minister Lê Minh Hưng. On October 26, the two prime ministers adopted a joint statement establishing a Strategic Partnership and an action plan for 2026-2030, agreeing to strengthen political trust and promote trade and investment, higher education and tourism, with a target of raising bilateral trade to 6 billion USD by 2030. [Source: Government of Vietnam e-newspaper, "Vietnam and Poland establish a strategic partnership", https://baochinhphu.vn/viet-nam-ba-lan-thiet-lap-quan-he-doi-tac-chien-luoc-102261026130846461.htm]
+
+![Historical Image](images/event_20261111_133415_2.webp)
+
+*Source: Polish Prime Minister Donald Tusk, official portrait / gov.pl / Wikimedia Commons (CC BY 3.0 PL)*
+
+<!-- id: EVT-3572 -->
+*   **Nov. 3, 2026:** According to the Statistics Office (Ministry of Finance) report on October and the first ten months of 2026, Vietnam's total goods trade exceeded 1 trillion USD for the first time, reaching 1,010.55 billion USD in ten months, up 32.3% year on year. Exports reached 499.24 billion USD (up 27.5%) and imports 511.31 billion USD, with a trade deficit of 12.07 billion USD; the United States was the largest export market at 159.4 billion USD and China the largest import market at 212.46 billion USD. [Source: Government of Vietnam e-newspaper, "Trade turnover surpasses 1 trillion USD, setting an all-time high", https://baochinhphu.vn/vuot-moc-1000-ty-usd-kim-ngach-xuat-nhap-khau-xac-lap-muc-cao-nhat-tu-truoc-toi-nay-102261103135046083.htm]
+
+![Historical Image](images/event_20261111_133416.webp)
+
+*Source: Cat Lai Port in Ho Chi Minh City, one of Vietnam's major trade gateways / Bem photography / Wikimedia Commons (CC BY 2.0)*
+
+<!-- id: EVT-3573 -->
+*   **Nov. 6, 2026:** At the Dien Hong Hall of the National Assembly, the National Assembly held a solemn ceremony marking the 80th anniversary of its adoption of Vietnam's first Constitution (November 9, 1946 - November 9, 2026). In his address, General Secretary and President Tô Lâm stressed that the 1946 Constitution affirmed that state power belongs to the people and laid the legal foundation for the Democratic Republic of Vietnam; he said the present generation must continue building a clean, action-oriented socialist rule-of-law state that creates development and serves the people. [Source: Government of Vietnam e-newspaper, "80th anniversary of the National Assembly's adoption of the first Constitution", https://baochinhphu.vn/ky-niem-80-nam-ngay-quoc-hoi-viet-nam-thong-qua-ban-hien-phap-dau-tien-102261106095354403.htm]
+
+![Historical Image](images/event_20261111_133416_1.webp)
+
+*Source: Vietnam National Assembly building in Hanoi, venue of the 80th anniversary ceremony of the first Constitution / RThiele / Wikimedia Commons (CC BY-SA 4.0)*
+
+<!-- id: EVT-3574 -->
+*   **Nov. 8 - 11, 2026:** General Secretary and President Tô Lâm paid an official visit to Japan at the invitation of Prime Minister Takaichi Sanae. On November 9, the two leaders adopted the Vietnam-Japan Joint Vision Statement to elevate the Comprehensive Strategic Partnership under the spirit of "partners accompanying and co-creating together for mutual benefit, high-quality growth, strategic autonomy and resilience", agreeing to promote cooperation in science and technology, artificial intelligence, semiconductors, space technology and high-tech agriculture. The two sides also signed three ODA documents for the Vietnam-Japan University, the O Mon III thermal power plant and the facilitation of Japanese grant projects. [Source: VNA/BNEWS, "General Secretary and President Tô Lâm concludes official visit to Japan", https://bnews.vn/tong-bi-thu-chu-tich-nuoc-to-lam-va-phu-nhan-ket-thuc-tot-dep-chuyen-tham-chinh-thuc-nhat-ban/443934.html; Government of Vietnam e-newspaper, "Vietnam and Japan step up cooperation in energy and essential infrastructure", https://baochinhphu.vn/viet-nam-va-nhat-ban-day-manh-phoi-hop-phat-trien-nang-luong-ha-tang-thiet-yeu-102261111105424351.htm]
+
+![Historical Image](images/event_20261111_133416_2.webp)
+
+*Source: General Secretary and President Tô Lâm and Japanese Prime Minister Takaichi Sanae in Tokyo, November 9, 2026 / Naikaku Sōri Daijin Kantei / Wikimedia Commons (CC BY 4.0)*
+
+<!-- id: EVT-3575 -->
