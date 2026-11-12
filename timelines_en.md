@@ -5079,6 +5079,13 @@
 *   **Aug. 1909 - Jan. 1910:** The uprising of the Muong people in Hoa Binh, led by Doc Bang and Tong Kiem. [Source: History of the Party Committee of Hoa Binh Province (Vol. 1), National Political Publishing House, Hanoi]
 
 <!-- id: EVT-1399 -->
+*   **December 1, 1909:** During a massive punitive campaign by French colonial forces aimed at destroying the Phon Xuong stronghold of the Yen The Uprising, Mrs. **Dang Thi Nhu** (also known as Dang Thi Nho, 1876–1910, commonly referred to as **Ba Ba Can** or Ba Ba De Tham) and her young daughter Hoang Thi The were captured by French troops near Cho Go post (Yen The, Bac Giang). She was the third wife and the most capable military strategist, quartermaster, and confidante of leader Hoang Hoa Tham. She personally organized supply chains, procured munitions, established a female militia unit, and participated in planning major military operations as well as the 1908 Hanoi Poisoning Plot. Following her capture, French authorities sentenced her to penal deportation to French Guiana (South America); on November 25, 1910, she heroically chose martyrdom en route into exile to preserve the unyielding dignity of a female commander of the Yen The uprising. [Source: Vietnam National Museum of History - General Hoang Hoa Tham - Soul of the Yen The Uprising, https://baotanglichsu.vn/vi/Articles/3098/15307/tuong-quan-hoang-hoa-tham-linh-hon-cua-cuoc-khoi-nghia-yen-the.html; Culture and Development Magazine - Ba Ba Can: Talented Female General of the Yen The Uprising, https://vanhoavaphattrien.vn/ba-ba-can-nu-tuong-tai-ba-cua-phong-trao-khoi-nghia-yen-the-a18545.html]
+
+![Portrait of Mrs. Dang Thi Nhu (Ba Ba Can)](images/event_20261112_191115.webp)
+
+*Source: Portrait of Mrs. Dang Thi Nhu (commonly known as Ba Ba Can; 1876–1910) – female commander and steadfast partner of leader Hoang Hoa Tham in the Yen The Uprising. Source: Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3577 -->
 *   **Sep. 1910:** After teaching and promoting patriotic values at Duc Thanh School (Phan Thiet), teacher Nguyen Tat Thanh left Duc Thanh, traveling by Lien Thanh company boat to Saigon, where he stayed at company premises and worked while preparing to journey abroad for national salvation. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 ![Historical image](images/event_20260930_104256_5.webp)
@@ -9073,6 +9080,13 @@
 *   **Nov. 18, 1967:** A MiG-21 flight comprising Pham Thanh Ngan and Nguyen Van Coc scrambled to intercept US aircraft intruding into northern airspace; employing aggressive tactical surprise, pilot Pham Thanh Ngan shot down a US Air Force F-105 Thunderchief fighter-bomber over Vinh Phu; over the course of the war, he downed eight US aircraft (later rising to Senior Lieutenant General and Director of the General Political Department of the VPA). [Source: Nhan Dan Newspaper - Senior Lieutenant General Pham Thanh Ngan, https://nhandan.vn/thuong-tuong-pham-thanh-ngan-post625890.html]
 
 <!-- id: EVT-3523 -->
+*   **November 20, 1967:** The **Ngu Thuy All-Female Militia Artillery Company** (affectionately called "Xe gai", based in Ngu Thuy commune, Le Thuy district, Quang Binh province) was established, comprising 37 young female militia fighters aged 16 to 22, equipped with four 85mm field artillery pieces to defend the coast against raiding U.S. warships. Less than three months after establishment, on the afternoon of February 7, 1968, the company scored a remarkable victory by setting a U.S. Navy destroyer on fire, becoming the first all-female militia artillery unit to successfully hit and damage an American warship, earning a personal commendation letter from President Ho Chi Minh. Throughout the war of resistance against the U.S., the Ngu Thuy artillerywomen tenaciously defended their coastal sand dunes, independently fighting 8 battles and setting U.S. warships ablaze 5 times. On August 25, 1970, the company was awarded the title of Hero of the People's Armed Forces, and their heroic deeds inspired the classic documentary film *"The Girls of Ngu Thuy"* (1969). [Source: Nhan Dan Newspaper - 50th Anniversary of the Ngu Thuy Female Artillery Company, https://nhandan.vn/ky-niem-50-nam-thanh-lap-dai-doi-nu-phao-binh-ngu-thuy-post309765.html; Nhan Dan Newspaper - "Two Good" Emulation Movement in Quang Binh, https://special.nhandan.vn/phong-trao-thi-dua-hai-gioi-o-Quang-Binh-bieu-tuong-suc-manh-doan-ket-toan-dan/index.html]
+
+![Female artillery fighters of Ngu Thuy courageously on their gun position](images/event_20261112_191115_1.webp)
+
+*Source: Militia members of the Ngu Thuy All-Female Artillery Company (Quang Binh) courageously operating an 85mm artillery position against U.S. warships. Source: Photo by war correspondent and martyr Luong Nghia Dung / VNA*
+
+<!-- id: EVT-3578 -->
 *   **Nov. 27, 1967:** The Central Military Commission established the Command of Group 559 (Truong Son Troops Command) under Senior Colonel Dong Si Nguyen as Commander. This marked a pivotal transition shifting the Truong Son logistics route from manual methods to large-scale mechanized transport and combined-arms operations, turning the Ho Chi Minh Trail into a robust network overcoming enemy aerial interdiction. [Source: Nhan Dan Newspaper - Lieutenant General Dong Si Nguyen - Legendary Commander of the Truong Son Trail, https://nhandan.vn/special/Trung-tuong-Dong-Sy-Nguyen-Tu-lenh-Duong-Truong-Son-huyen-thoai/index.html]
 
 ![Historical image](images/event_20260930_105124.webp)

@@ -5079,6 +5079,13 @@
 *   **08/1909 - 01/1910:** Cuộc khởi nghĩa của đồng bào Mường ở Hòa Bình do Đốc Bang và Tổng Kiêm lãnh đạo. [Nguồn: Lịch sử Đảng bộ tỉnh Hòa Bình (Tập 1), NXB Chính trị Quốc gia, Hà Nội]
 
 <!-- id: EVT-1399 -->
+*   **01/12/1909:** Trong đợt tổng tấn công càn quét quy mô lớn của thực dân Pháp nhằm triệt hạ căn cứ Phồn Xương của cuộc Khởi nghĩa Yên Thế, bà **Đặng Thị Nhu** (còn gọi là Đặng Thị Nho, 1876 – 1910, tục gọi **Bà Ba Cẩn** hay Bà Ba Đề Thám) cùng con gái Hoàng Thị Thế bị quân Pháp bắt giữ gần đồn Chợ Gồ (Yên Thế, Bắc Giang). Bà là người vợ thứ ba, đồng thời là một nữ tướng mưu lược, chỉ huy hậu cần và tham mưu quân sự đắc lực nhất của thủ lĩnh Hoàng Hoa Thám. Bà trực tiếp xây dựng căn cứ, mua sắm vũ khí, tổ chức đội nữ binh và tham gia vạch kế hoạch các trận đánh lớn cũng như vụ binh biến Hà Thành đầu độc (1908). Sau khi bị bắt, thực dân Pháp kết án đày bà sang thuộc địa Guyane (Nam Mỹ); ngày 25/11/1910, bà kiên trinh tuẫn tiết trên đường lưu đày để giữ tròn khí tiết của người nữ tướng nghĩa quân Yên Thế. [Nguồn: Bảo tàng Lịch sử Quốc gia - Tướng quân Hoàng Hoa Thám - linh hồn của cuộc khởi nghĩa Yên Thế, https://baotanglichsu.vn/vi/Articles/3098/15307/tuong-quan-hoang-hoa-tham-linh-hon-cua-cuoc-khoi-nghia-yen-the.html; Báo Văn hóa và Phát triển - Bà Ba Cẩn: Nữ tướng tài ba của phong trào khởi nghĩa Yên Thế, https://vanhoavaphattrien.vn/ba-ba-can-nu-tuong-tai-ba-cua-phong-trao-khoi-nghia-yen-the-a18545.html]
+
+![Chân dung bà Đặng Thị Nhu (Bà Ba Cẩn)](images/event_20261112_191115.webp)
+
+*Nguồn: Chân dung bà Đặng Thị Nhu (tục gọi Bà Ba Cẩn; 1876 – 1910) – nữ tướng và người bạn đời kiên trung của thủ lĩnh Hoàng Hoa Thám trong cuộc Khởi nghĩa Yên Thế. Nguồn: Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3577 -->
 *   **09/1910:** Sau thời gian dạy học truyền bá tư tưởng yêu nước tại Trường Dục Thanh (Phan Thiết), thầy giáo Nguyễn Tất Thành rời Dục Thanh, đi ghe bầu của Công ty Liên Thành vào Sài Gòn, lưu trú tại các cơ sở của công ty và làm việc để chuẩn bị cho hành trình ra nước ngoài tìm đường cứu nước. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 ![Hình ảnh tư liệu](images/event_20260930_104256_5.webp)
@@ -9073,6 +9080,13 @@
 *   **18/11/1967:** Biên đội tiêm kích MiG-21 gồm Phạm Thanh Ngân và Nguyễn Văn Cốc cất cánh đánh chặn biên đội máy bay Mỹ xâm phạm vùng trời miền Bắc; với lối đánh bất ngờ, quả cảm, phi công Phạm Thanh Ngân đã bắn rơi tại chỗ 1 chiếc tiêm kích bom F-105 Thunderchief của không quân Mỹ trên vùng trời Vĩnh Phú; trong toàn bộ cuộc kháng chiến chống Mỹ, ông bắn hạ 8 máy bay Mỹ (sau này được thăng quân hàm Thượng tướng, Chủ nhiệm Tổng cục Chính trị QĐND Việt Nam). [Nguồn: Báo Nhân Dân - Thượng tướng Phạm Thanh Ngân, https://nhandan.vn/thuong-tuong-pham-thanh-ngan-post625890.html]
 
 <!-- id: EVT-3523 -->
+*   **20/11/1967:** Thành lập **Đại đội nữ pháo binh dân quân Ngư Thủy** (thường gọi thân mật là "Xê gái pháo binh", đóng tại xã Ngư Thủy, huyện Lệ Thủy, tỉnh Quảng Bình) gồm 37 nữ dân quân tuổi đời từ 16 đến 22, được trang bị 4 khẩu pháo mặt đất 85 ly nhằm đánh trả tàu chiến Mỹ xâm phạm vùng biển miền Bắc. Chỉ chưa đầy 3 tháng sau khi thành lập, chiều ngày 07/02/1968, đại đội lập chiến công xuất sắc khi bắn cháy 1 tàu khu trục của hải quân Mỹ, trở thành đơn vị nữ dân quân đầu tiên bắn cháy tàu chiến Mỹ và vinh dự được Chủ tịch Hồ Chí Minh gửi thư khen ngợi. Trong suốt cuộc kháng chiến chống Mỹ cứu nước, các nữ pháo thủ Ngư Thủy đã kiên cường bám trụ trận địa cát trắng, độc lập tác chiến 8 trận và 5 lần bắn cháy, bắn chìm tàu chiến hiện đại của hải quân Mỹ. Ngày 25/08/1970, Đại đội nữ pháo binh Ngư Thủy được Nhà nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân; chiến công và hình tượng bất khuất của đơn vị trở thành nguồn cảm hứng cho bộ phim tài liệu kinh điển *"Những cô gái Ngư Thủy"* (1969). [Nguồn: Báo Nhân Dân - Kỷ niệm 50 năm thành lập Đại đội nữ pháo binh Ngư Thủy, https://nhandan.vn/ky-niem-50-nam-thanh-lap-dai-doi-nu-phao-binh-ngu-thuy-post309765.html; Báo Nhân Dân - Phong trào thi đua "Hai giỏi" ở Quảng Bình, https://special.nhandan.vn/phong-trao-thi-dua-hai-gioi-o-Quang-Binh-bieu-tuong-suc-manh-doan-ket-toan-dan/index.html]
+
+![Các nữ pháo thủ Đại đội nữ pháo binh Ngư Thủy anh dũng trên mâm pháo](images/event_20261112_191115_1.webp)
+
+*Nguồn: Các nữ pháo thủ Đại đội nữ pháo binh Ngư Thủy (Quảng Bình) anh dũng vận hành trận địa pháo 85mm đánh trả tàu chiến Mỹ. Nguồn: Ảnh của nhà báo, liệt sĩ Lương Nghĩa Dũng / TTXVN*
+
+<!-- id: EVT-3578 -->
 *   **27/11/1967:** Quân ủy Trung ương thành lập Bộ Tư lệnh Đoàn 559 (Bộ Tư lệnh Bộ đội Trường Sơn) do Đại tá Đồng Sĩ Nguyên làm Tư lệnh. Đây là mốc chuyển biến bước ngoặt đưa tuyến vận tải chi viện Trường Sơn từ phương thức thô sơ sang vận tải cơ giới quy mô lớn và tác chiến hiệp đồng binh chủng, biến Đường mòn Hồ Chí Minh thành mạng lưới liên hoàn đánh bại mọi chiến dịch đánh phá ác liệt của địch. [Nguồn: Báo Nhân Dân - Trung tướng Đồng Sỹ Nguyên - Tư lệnh đường Trường Sơn huyền thoại, https://nhandan.vn/special/Trung-tuong-Dong-Sy-Nguyen-Tu-lenh-Duong-Truong-Son-huyen-thoai/index.html]
 
 ![Hình ảnh tư liệu](images/event_20260930_105124.webp)
