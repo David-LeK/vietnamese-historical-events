@@ -6343,6 +6343,13 @@
 *   **04/06/1945:** Khu Giải phóng Việt Bắc chính thức được thành lập. [Nguồn: https://baotintuc.vn/giai-mat/thanh-lap-khu-giai-phong-viet-bac-20140603111600345.htm]
 
 <!-- id: EVT-1721 -->
+*   **07/1945:** Nhạc sĩ Văn Cao, khi đó là đội viên Đội Danh dự Việt Minh, được giao nhiệm vụ trở về Hải Phòng trừ khử Đỗ Đức Phin — nguyên giáo viên tiếng Nhật ra làm thông ngôn và chỉ điểm cho hiến binh Nhật, khiến nhiều cơ sở cách mạng tại Hải Phòng bị vây bắt vào cuối tháng 06/1945. Với sự phối hợp trinh sát của Trần Liễn và các cơ sở nội thành, Văn Cao cải trang tiếp cận tiệm hút thuốc phiện ở góc phố Phan Bội Châu (Hải Phòng); khi khẩu súng côn bị hóc đạn, ông rút khẩu Browning dự phòng bắn gục Đỗ Đức Phin rồi rút lui an toàn trở lại Hà Nội. [Nguồn: Báo Công an Nhân dân - Văn Cao với Đội danh dự Việt Minh, https://cand.vn/van-cao-voi-doi-danh-du-viet-minh-post363289.html; Cổng Thông tin điện tử thành phố Hải Phòng - Văn Cao (1923–1995), https://haiphong.gov.vn/danh-nhan/van-cao-1923-1995-622060]
+
+![Hình ảnh tư liệu](images/event_20261114_180540.webp)
+
+*Nguồn: Nhạc sĩ Văn Cao thời kỳ hoạt động cách mạng và kháng chiến (Ảnh: Trần Văn Lưu / Wikimedia Commons / Public domain)*
+
+<!-- id: EVT-3581 -->
 *   **17/07 - 02/08/1945:** Hội nghị Pôtxđam quyết định quân Đồng minh sẽ vào Việt Nam giải giáp quân đội Nhật. [Nguồn: Bảo tàng Lịch sử Quốc gia - Hội nghị Potsdam (17/7-2/8/1945), https://baotanglichsu.vn/vi/Articles/3097/16501/hoi-nghi-potxdam-17-7-2-8-1945.html]
 
 <!-- id: EVT-1722 -->
@@ -6450,6 +6457,13 @@
 *   **01/09/1945:** Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa ban hành Sắc lệnh số 01/SL tuyên bố lấy múi giờ 7 làm giờ chính thức. Từ đó, miền Bắc và miền Trung sử dụng múi giờ 7. [Nguồn: Bảo tàng Lịch sử Quốc gia - Sắc lệnh số 1 của Chính phủ lâm thời (1/9/1945), https://baotanglichsu.vn/vi/Articles/3097/16633/sac-lenh-so-1-cua-chinh-phu-lam-thoi-1-9-1945.html]
 
 <!-- id: EVT-1743 -->
+*   **01/09/1945:** Kiến trúc sư Ngô Huy Quỳnh (sinh năm 1920, tốt nghiệp Khoa Kiến trúc Trường Cao đẳng Mỹ thuật Đông Dương khóa 1938–1943, Ủy viên Ban Chấp hành Hội Văn hóa Cứu quốc) nhận trọng trách từ tổ chức Văn hóa Cứu quốc thiết kế và trực tiếp chỉ đạo thi công Lễ đài Độc lập tại Quảng trường Ba Đình (Hà Nội) để chuẩn bị cho Lễ Tuyên ngôn Độc lập ngày 02/09/1945. Khởi công từ 12 giờ trưa ngày 01/09 và hoàn thành lúc 3 giờ sáng ngày 02/09 bằng khung gỗ, ván và vải lụa vàng, đỏ mượn từ nhân dân Hà Nội, công trình mang bố cục trang nghiêm giữa quảng trường, trở thành nơi Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn Độc lập khai sinh nước Việt Nam Dân chủ Cộng hòa. [Nguồn: Báo Điện tử Chính phủ - Người thiết kế Lễ đài Độc lập trên Quảng trường Ba Đình ngày 2/9/1945, https://baochinhphu.vn/nguoi-thiet-ke-le-dai-doc-lap-tren-quang-truong-ba-dinh-ngay-2-9-1945-102101240.htm; Báo Tuổi Trẻ - Hồi ức người thiết kế Lễ đài Độc lập, https://tuoitre.vn/Cuoc-doi-Su-nghiep-Tu-tuong/276511/Hoi-uc-nguoi-thiet-ke-Le-dai-Doc-lap.html]
+
+![Hình ảnh tư liệu](images/event_20261114_175711.webp)
+
+*Nguồn: Toàn cảnh Lễ đài Độc lập tại Quảng trường Ba Đình, Hà Nội ngày 02/09/1945 (Ảnh: Trung tâm Lưu trữ Quốc gia III / Wikimedia Commons / Public domain)*
+
+<!-- id: EVT-3579 -->
 *   **02/09/1945:** Tại Quảng trường Ba Đình (Hà Nội), Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn Độc lập, khai sinh nước Việt Nam Dân chủ Cộng hòa trước biển người rực rỡ cờ đỏ sao vàng. Trước giờ đọc Tuyên ngôn, lễ thượng cờ quốc gia đầu tiên được cử hành trọng thể khi lá cờ đỏ sao vàng được hai nữ chiến sĩ giải phóng quân Đàm Thị Loan và Lê Thi (Dương Thị Thêu) kéo lên đỉnh cột cờ trong giai điệu hào hùng của bài *Tiến quân ca*. Trong buổi lễ, Bộ trưởng Bộ Nội vụ Võ Nguyên Giáp thay mặt Chính phủ lâm thời đọc báo cáo chính trị quan trọng về đối nội, đối ngoại, kêu gọi quốc dân đồng bào kiên quyết bảo vệ nền độc lập vừa giành được. [Nguồn: https://baochinhphu.vn/tuyen-ngon-doc-lap-va-nha-nuoc-phap-quyen-102299509.htm]
 
 ![Hình ảnh tư liệu](images/event_20260923_102957.webp)
@@ -10308,7 +10322,11 @@
 *   **08/1978:** Nguyên Bộ trưởng Tư pháp Chính phủ Cách mạng Lâm thời **Trương Như Tảng** rời Việt Nam bằng thuyền do bất đồng quan điểm. [Nguồn: Truong Nhu Tang, A Vietcong Memoir: An Inside Account of the Vietnam War and Its Aftermath, Harcourt Brace Jovanovich, 1985]
 
 <!-- id: EVT-2719 -->
-*   **25/08/1978:** Lê Đình Chinh, người chiến sĩ 18 tuổi, đã bị sát hại bởi những kẻ côn đồ và lính Trung Quốc mặc thường phục, trở thành người lính đầu tiên ngã xuống trên mặt trận bảo vệ biên giới phía Bắc. [Nguồn: Báo Nhân Dân số ra ngày 27/08/1978; Bộ Tư lệnh Bộ đội Biên phòng, Lịch sử Bộ đội Biên phòng Việt Nam (1959 - 2009), NXB Quân đội nhân dân, Hà Nội, 2009; Bảo tàng Lịch sử Quân sự Việt Nam]
+*   **25/08/1978:** Thượng sĩ, Tiểu đội trưởng **Lê Đình Chinh** (sinh năm 1960, quê xã Hoằng Quang, huyện Hoằng Hóa, tỉnh Thanh Hóa; nhập ngũ năm 1975 khi 15 tuổi, thuộc Đại đội 6, Tiểu đoàn 2, Trung đoàn 12 Công an nhân dân vũ trang — Đoàn Thanh Xuyên; từng chiến đấu bảo vệ biên giới Tây Nam trước khi được điều động lên Lạng Sơn) anh dũng hy sinh ở tuổi 18 tại khu vực đồi Pù Tèo Hào gần cửa khẩu Hữu Nghị (huyện Cao Lộc, tỉnh Lạng Sơn). Sáng hôm đó, khi đoàn cán bộ dân vận liên ngành Việt Nam đến vận động giải tỏa hàng nghìn người Hoa ùn ứ tại khu vực biên giới từ sau lệnh đóng cửa biên giới ngày 12/07/1978, một nhóm côn đồ cùng hàng chục công an biên phòng Trung Quốc mặc thường phục đã tràn qua mốc số 0 dùng gậy gộc, dao quắm và gạch đá hành hung đoàn công tác. Chiến đấu tay không để mở đường cho đoàn cán bộ rút lui, Lê Đình Chinh đã giải cứu đồng đội và cán bộ phụ nữ bị ngất trước khi hy sinh lúc 10 giờ 30 phút, trở thành chiến sĩ đầu tiên ngã xuống trên mặt trận bảo vệ biên giới phía Bắc. Ngày 30/08/1978, ông được Nhà nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân; Trung ương Đoàn TNCS Hồ Chí Minh truy tặng Huy hiệu *"Vì thế hệ trẻ"* và phát động phong trào *"Sống, chiến đấu rực lửa anh hùng như Lê Đình Chinh"*; đến tháng 01/2013, hài cốt ông được quy tập từ Lạng Sơn về an táng tại Nghĩa trang Liệt sĩ Hàm Rồng (Thanh Hóa). [Nguồn: Báo Nhân Dân số ra ngày 27/08/1978; Bộ Tư lệnh Bộ đội Biên phòng, Lịch sử Bộ đội Biên phòng Việt Nam (1959 - 2009), NXB Quân đội nhân dân, Hà Nội, 2009; Báo VnExpress - Người lính đầu tiên hy sinh ở mặt trận biên giới phía Bắc, https://vnexpress.net/nguoi-linh-dau-tien-hy-sinh-o-mat-tran-bien-gioi-phia-bac-2949422.html; Báo Thanh Niên - Xúc động lễ an táng hài cốt Anh hùng liệt sĩ Lê Đình Chinh, https://thanhnien.vn/xuc-dong-le-an-tang-hai-cot-anh-hung-liet-si-le-dinh-chinh-18542154.htm]
+
+![Hình ảnh tư liệu](images/event_20261114_181047.webp)
+
+*Nguồn: Chân dung Anh hùng Lực lượng vũ trang nhân dân Lê Đình Chinh (Ảnh tư liệu)*
 
 <!-- id: EVT-2720 -->
 *   **03/11/1978:** Việt Nam và Liên Xô ký kết Hiệp ước hữu nghị và hợp tác tại Matxcơva. [Nguồn: Hiệp ước hữu nghị và hợp tác giữa CHXHCN Việt Nam và Liên bang CHXHCN Xô Viết, ký ngày 03/11/1978; Báo Nhân Dân; Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, 2002]
@@ -11374,6 +11392,13 @@
 *   **Cuối tháng 04 - 05/2003:** Việt Nam trở thành quốc gia đầu tiên trên thế giới khống chế thành công dịch SARS (được WHO chính thức công nhận vào tháng 5/2003) sau hơn 2 tuần không ghi nhận ca mới. Trong đợt dịch này, đã có 6 y bác sĩ tại Bệnh viện Việt Pháp (gồm 4 người Việt Nam và 2 người Pháp) anh dũng hy sinh khi chăm sóc bệnh nhân. [Nguồn: Tổ chức Y tế Thế giới (WHO), Tuyên bố chính thức của Tổng Giám đốc WHO Gro Harlem Brundtland ngày 28/04/2003; Báo Nhân Dân số ra ngày 29/04/2003]
 
 <!-- id: EVT-3027 -->
+*   **30/05/2003:** Giáo sư, Kiến trúc sư Ngô Huy Quỳnh (sinh ngày 15/05/1920 tại Hưng Yên) từ trần tại Hà Nội, hưởng thọ 83 tuổi. Là một trong những gương mặt đặt nền móng cho nền kiến trúc hiện đại Việt Nam, ông từng trực tiếp thiết kế Lễ đài Độc lập tại Quảng trường Ba Đình (09/1945), tham gia sáng lập Đoàn Kiến trúc sư Việt Nam (1948), chủ trì và tham gia nhiều đồ án quy hoạch lớn như quy hoạch Thủ đô Hà Nội và Tiểu khu nhà ở Kim Liên, đồng thời trực tiếp giảng dạy các thế hệ kiến trúc sư đầu tiên tại Đại học Bách khoa Hà Nội, Đại học Xây dựng và Đại học Kiến trúc. Ông được phong hàm Giáo sư (1984), trao tặng Giải thưởng Nhà nước về Văn học Nghệ thuật (2001) cho công trình *Lịch sử Kiến trúc Việt Nam* và Huân chương Độc lập hạng Ba (2002). [Nguồn: Thông tấn xã Việt Nam (TTXVN) - Giáo sư, kiến trúc sư Ngô Huy Quỳnh, https://nvsk.vnanet.vn/ngo-huy-quynh-7152.vna; Báo Quân đội nhân dân - Chuyện về kiến trúc sư Ngô Huy Quỳnh, https://sknc.qdnd.vn/nhan-vat/chuyen-ve-kien-truc-su-ngo-huy-quynh-503935]
+
+![Hình ảnh tư liệu](images/event_20261114_175712.webp)
+
+*Nguồn: Chân dung Giáo sư, Kiến trúc sư Ngô Huy Quỳnh (Ảnh: Thông tấn xã Việt Nam)*
+
+<!-- id: EVT-3580 -->
 *   **03/07/2003:** Vườn Quốc gia Phong Nha - Kẻ Bàng được UNESCO công nhận lần đầu về địa chất, địa mạo. [Nguồn: UNESCO, Quyết định của Ủy ban Di sản Thế giới tại kỳ họp thứ 27 (Paris, 2003); Ban Quản lý Vườn Quốc gia Phong Nha - Kẻ Bàng; Báo Nhân Dân]
 
 ![Sông Son Phong Nha](images/event_20260930_101732_5.webp)

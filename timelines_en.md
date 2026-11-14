@@ -6343,6 +6343,13 @@
 *   **Jun. 4, 1945:** The Viet Bac Liberated Zone was officially established. [Source: https://baotintuc.vn/giai-mat/thanh-lap-khu-giai-phong-viet-bac-20140603111600345.htm]
 
 <!-- id: EVT-1721 -->
+*   **Jul. 1945:** Composer Van Cao, then a member of the Viet Minh Honor Squad, was assigned to return to Hai Phong to assassinate Do Duc Phin, a former Japanese-language teacher serving as an interpreter and informant for the Japanese military police whose tip-offs had led to widespread arrests of revolutionary bases in Hai Phong in late June 1945. With reconnaissance support from Tran Lien and local underground networks, Van Cao disguised himself and entered an opium den at the corner of Phan Boi Chau Street (Hai Phong); when his Colt pistol jammed, he drew a backup Browning pistol, fatally shot Do Duc Phin, and withdrew safely back to Hanoi. [Source: People's Public Security Newspaper - Van Cao and the Viet Minh Honor Squad, https://cand.vn/van-cao-voi-doi-danh-du-viet-minh-post363289.html; Hai Phong City Portal - Van Cao (1923–1995), https://haiphong.gov.vn/danh-nhan/van-cao-1923-1995-622060]
+
+![Historical Image](images/event_20261114_180540.webp)
+
+*Source: Composer Van Cao during his revolutionary and resistance years (Photo: Tran Van Luu / Wikimedia Commons / Public domain)*
+
+<!-- id: EVT-3581 -->
 *   **Jul. 17 - Aug. 2, 1945:** The Potsdam Conference decided that Allied forces would enter Vietnam to disarm the Japanese army. [Source: Vietnam National Museum of History - The Potsdam Conference (July 17 - August 2, 1945), https://baotanglichsu.vn/vi/Articles/3097/16501/hoi-nghi-potxdam-17-7-2-8-1945.html]
 
 <!-- id: EVT-1722 -->
@@ -6450,6 +6457,13 @@
 *   **Sep. 1, 1945:** The provisional government of the Democratic Republic of Vietnam issued Decree No. 01/SL, declaring time zone 7 as the official time. From then on, the North and Central regions used time zone 7. [Source: Vietnam National Museum of History - Decree No. 1 of the Provisional Government (September 1, 1945), https://baotanglichsu.vn/vi/Articles/3097/16633/sac-lenh-so-1-cua-chinh-phu-lam-thoi-1-9-1945.html]
 
 <!-- id: EVT-1743 -->
+*   **Sep. 1, 1945:** Architect Ngo Huy Quynh (born 1920, graduate of the Architecture Department at the Indochina College of Fine Arts, 1938–1943, and Executive Committee member of the National Salvation Culture Association) was entrusted by the National Salvation Culture Association with designing and supervising the construction of the Independence Platform at Ba Dinh Square (Hanoi) for the September 2, 1945 Declaration of Independence. Built from noon on September 1 to 3:00 a.m. on September 2 using timber, planks, and yellow and red silk borrowed from Hanoi residents, the solemn structure became the podium where President Ho Chi Minh read the Declaration of Independence establishing the Democratic Republic of Vietnam. [Source: Government News Portal - The designer of the Independence Platform at Ba Dinh Square on September 2, 1945, https://baochinhphu.vn/nguoi-thiet-ke-le-dai-doc-lap-tren-quang-truong-ba-dinh-ngay-2-9-1945-102101240.htm; Tuoi Tre Newspaper - Memoirs of the designer of the Independence Platform, https://tuoitre.vn/Cuoc-doi-Su-nghiep-Tu-tuong/276511/Hoi-uc-nguoi-thiet-ke-Le-dai-Doc-lap.html]
+
+![Historical Image](images/event_20261114_175711.webp)
+
+*Source: Panoramic view of the Independence Platform at Ba Dinh Square, Hanoi on September 2, 1945 (Photo: National Archives Center III / Wikimedia Commons / Public domain)*
+
+<!-- id: EVT-3579 -->
 *   **Sep. 2, 1945:** At Ba Dinh Square (Hanoi), President Ho Chi Minh read the Declaration of Independence, proclaiming the birth of the Democratic Republic of Vietnam before a sea of people under red flags with yellow stars. Prior to the declaration, the first national flag-raising ceremony was conducted by liberation army combatants Dam Thi Loan and Le Thi (Duong Thi Theu) to the melody of "Tien Quan Ca". During the ceremony, Minister of the Interior Vo Nguyen Giap delivered a major political report on domestic and foreign policy, calling upon the entire nation to fiercely safeguard newly won independence. [Source: https://baochinhphu.vn/tuyen-ngon-doc-lap-va-nha-nuoc-phap-quyen-102299509.htm]
 
 ![Historical Image](images/event_20260923_102957.webp)
@@ -10308,7 +10322,11 @@
 *   **Aug. 1978:** Former PRG Minister of Justice **Truong Nhu Tang** left Vietnam by boat due to post-war disagreements. [Source: Truong Nhu Tang, A Vietcong Memoir: An Inside Account of the Vietnam War and Its Aftermath, Harcourt Brace Jovanovich, 1985]
 
 <!-- id: EVT-2719 -->
-*   **Aug. 25, 1978:** Le Dinh Chinh, an 18-year-old soldier, was assassinated by enemy forces in civilian clothing, becoming the first Vietnamese soldier to sacrifice his life on the northern border front. [Source: Nhan Dan Newspaper, Aug. 27, 1978; Border Guard Command, History of the Vietnam Border Guard (1959 - 2009), People's Army Publishing House, Hanoi, 2009; Vietnam Military History Museum]
+*   **Aug. 25, 1978:** Senior Sergeant and Squad Leader **Le Dinh Chinh** (born 1960 in Hoang Quang, Hoang Hoa, Thanh Hoa; enlisted in 1975 at age 15 in Company 6, Battalion 2, Regiment 12 of the People's Armed Police — Thanh Xuyen Group; a veteran of the Southwestern border defense before deploying to Lang Son) sacrificed his life at age 18 at Pu Teo Hao Hill near the Huu Nghi border gate (Cao Loc district, Lang Son province). That morning, while a Vietnamese interagency civilian outreach delegation was persuading thousands of Hoa people stranded at the border following China's July 12, 1978 border closure to return home, a mob backed by dozens of plainclothes Chinese border police crossed Kilometre Zero with clubs, machetes, and stones to assault the delegation. Fighting unarmed to cover the delegation's withdrawal, Le Dinh Chinh rescued a fainted female cadre and fellow soldiers before falling at 10:30 a.m., becoming the first Vietnamese soldier to die on the northern border defense front. On August 30, 1978, he was posthumously awarded the title Hero of the People's Armed Forces, and the Ho Chi Minh Communist Youth Union Central Committee posthumously conferred the *"For the Young Generation"* badge and launched the emulation movement *"Live and Fight with Heroic Flame Like Le Dinh Chinh"*; in January 2013, his remains were reinterred from Lang Son to Ham Rong Martyrs' Cemetery in Thanh Hoa. [Source: Nhan Dan Newspaper, Aug. 27, 1978; Border Guard Command, History of the Vietnam Border Guard (1959 - 2009), People's Army Publishing House, Hanoi, 2009; VnExpress - The first soldier to sacrifice on the northern border front, https://vnexpress.net/nguoi-linh-dau-tien-hy-sinh-o-mat-tran-bien-gioi-phia-bac-2949422.html; Thanh Nien Newspaper - Moving burial ceremony for Hero and Martyr Le Dinh Chinh, https://thanhnien.vn/xuc-dong-le-an-tang-hai-cot-anh-hung-liet-si-le-dinh-chinh-18542154.htm]
+
+![Historical Image](images/event_20261114_181047.webp)
+
+*Source: Portrait of Hero of the People's Armed Forces Le Dinh Chinh (Archival photo)*
 
 <!-- id: EVT-2720 -->
 *   **Nov. 3, 1978:** Vietnam and the Soviet Union signed a Treaty of Friendship and Cooperation in Moscow. [Source: Treaty of Friendship and Cooperation between the SRV and the USSR, signed Nov. 3, 1978; Nhan Dan Newspaper; Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, 2002]
@@ -11374,6 +11392,13 @@
 *   **Late Apr. - May 2003:** Vietnam became the first country in the world to successfully contain the SARS epidemic (officially recognized by WHO in May 2003) after more than two weeks with no new cases. During the outbreak, six medical professionals at the French Hospital in Hanoi (four Vietnamese and two French) sacrificed their lives caring for patients. [Source: World Health Organization (WHO), Official Declaration by Director-General Gro Harlem Brundtland, Apr. 28, 2003; Nhan Dan Newspaper, Apr. 29, 2003]
 
 <!-- id: EVT-3027 -->
+*   **May 30, 2003:** Professor and Architect Ngo Huy Quynh (born May 15, 1920 in Hung Yen) passed away in Hanoi at the age of 83. A founding figure of modern Vietnamese architecture, he designed the Independence Platform at Ba Dinh Square (September 1945), co-founded the Vietnam Architects Group (1948), contributed to major urban plans including Hanoi's master plan and the Kim Lien residential complex, and taught the first generations of architects at Hanoi University of Science and Technology, the University of Civil Engineering, and Hanoi Architectural University. He was conferred the title of Professor (1984) and awarded the State Prize for Literature and Arts (2001) for *History of Vietnamese Architecture* as well as the Third-class Independence Order (2002). [Source: Vietnam News Agency (VNA) - Professor and Architect Ngo Huy Quynh, https://nvsk.vnanet.vn/ngo-huy-quynh-7152.vna; People's Army Newspaper - Story of architect Ngo Huy Quynh, https://sknc.qdnd.vn/nhan-vat/chuyen-ve-kien-truc-su-ngo-huy-quynh-503935]
+
+![Historical Image](images/event_20261114_175712.webp)
+
+*Source: Portrait of Professor and Architect Ngo Huy Quynh (Photo: Vietnam News Agency)*
+
+<!-- id: EVT-3580 -->
 *   **03/07/2003:** Phong Nha - Ke Bang National Park was first recognized by UNESCO for its geological and geomorphological features. [Source: UNESCO, Decision of the World Heritage Committee at its 27th Session (Paris, 2003); Phong Nha - Ke Bang National Park Management Board; Nhan Dan Newspaper]
 
 ![Son River Phong Nha](images/event_20260930_101732_5.webp)
