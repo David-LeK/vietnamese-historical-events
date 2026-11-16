@@ -10921,6 +10921,13 @@
 *   **Nov. 20, 1992:** Hero of the People's Armed Forces Trần Thị Lý (born Trần Thị Nhâm, born in 1933 in Điện Quang commune, Điện Bàn district, Quảng Nam province; the revolutionary heroine renowned for her unyielding resilience against brutal torture by the US-backed Diệm regime and the inspiration for Tố Hữu's renowned poem *"Người con gái Việt Nam"*) passed away in Đà Nẵng at the age of 59. [Source: Da Nang Newspaper, Nov. 22, 1992; Vietnam Women's Union; Vietnam Military History Institute, Heroes of the People's Armed Forces, 1996]
 
 <!-- id: EVT-2891 -->
+*   **Dec. 25, 1992:** Veteran revolutionary leader **Hoang Quoc Viet** (born Ha Ba Cang in 1905 in Bac Ninh) passed away in Hanoi at the age of 87. Joining the revolutionary movement in 1925, he was elected to the Provisional Central Committee upon the founding of the Communist Party of Vietnam (1930), imprisoned on Con Dao Island by French colonial authorities (1930 - 1936), and later held key leadership posts including Secretary of the Tonkin Regional Party Committee, Member of the Standing Committee of the Party Central Committee, Politburo Member (2nd tenure), President of the Vietnam General Confederation of Labor (1950 - 1978), the first Prosecutor General of the Supreme People's Procuracy (1960 - 1976), and President of the Presidium of the Vietnam Fatherland Front Central Committee (1977 - 1983); he was awarded the Gold Star Order. [Source: Vietnam National Museum of History - Hoang Quoc Viet, a persistent revolutionary of the Party, https://baotanglichsu.vn/VI/Articles/3098/17178/hoang-quoc-viet-mot-nha-cach-mang-hoat-djong-ben-bi-cua-djang-ta.html; Nhan Dan Newspaper, https://nhandan.vn/mai-toa-sang-tinh-than-va-dao-duc-cach-mang-cua-nguoi-chien-si-cong-san-kien-trung-post882815.html]
+
+![President Ho Chi Minh, Ton Duc Thang, and Hoang Quoc Viet at the Safe Zone in 1947](images/event_20261116_175931.webp)
+
+*Source: President Ho Chi Minh (center) discussing work with Ton Duc Thang (left) and Hoang Quoc Viet (right) at the Safe Zone (ATK) in 1947 (Wikimedia Commons, Public domain)*
+
+<!-- id: EVT-3585 -->
 * **1993:** Hero of the People's Armed Forces Đặng Quang Cầm (Trung đội phó thuộc đội vũ trang tuyên truyền Liên khu 5) passed away. [Source: Vietnam Military History Institute, Heroes of the People's Armed Forces, Vol. I, People's Army Publishing House, Hanoi, 1996; Nghe An Provincial Military Command]
 
 <!-- id: EVT-2892 -->

@@ -10921,6 +10921,13 @@
 *   **20/11/1992:** Anh hùng Lực lượng vũ trang nhân dân Trần Thị Lý (tên khai sinh Trần Thị Nhâm, sinh năm 1933 tại xã Điện Quang, huyện Điện Bàn, tỉnh Quảng Nam; người nữ chiến sĩ kiên trung bất khuất trước các cực hình tra tấn của chế độ Mỹ - Diệm, nguyên mẫu hình tượng người con gái trong bài thơ *"Người con gái Việt Nam"* của nhà thơ Tố Hữu) từ trần tại Đà Nẵng, hưởng thọ 59 tuổi. [Nguồn: Báo Đà Nẵng số ra ngày 22/11/1992; Hội Liên hiệp Phụ nữ Việt Nam; Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, 1996]
 
 <!-- id: EVT-2891 -->
+*   **25/12/1992:** Nhà lãnh đạo cách mạng tiền bối tiêu biểu **Hoàng Quốc Việt** (tên thật Hạ Bá Cang, sinh năm 1905 tại Bắc Ninh) từ trần tại Hà Nội, hưởng thọ 87 tuổi. Tham gia cách mạng từ năm 1925, ông là Ủy viên Ban Chấp hành Trung ương lâm thời khi Đảng Cộng sản Việt Nam thành lập (1930), từng bị thực dân Pháp đày ra Côn Đảo (1930 - 1936), sau đó giữ nhiều trọng trách như Bí thư Xứ ủy Bắc Kỳ, Ủy viên Thường vụ Trung ương Đảng, Ủy viên Bộ Chính trị (khóa II), Chủ tịch Tổng Công đoàn Việt Nam (1950 - 1978), Viện trưởng Viện Kiểm sát nhân dân tối cao đầu tiên (1960 - 1976) và Chủ tịch Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam (1977 - 1983); ông được trao tặng Huân chương Sao Vàng. [Nguồn: Bảo tàng Lịch sử Quốc gia - Hoàng Quốc Việt - một nhà cách mạng hoạt động bền bỉ của Đảng ta, https://baotanglichsu.vn/VI/Articles/3098/17178/hoang-quoc-viet-mot-nha-cach-mang-hoat-djong-ben-bi-cua-djang-ta.html; Báo Nhân Dân, https://nhandan.vn/mai-toa-sang-tinh-than-va-dao-duc-cach-mang-cua-nguoi-chien-si-cong-san-kien-trung-post882815.html]
+
+![Chủ tịch Hồ Chí Minh, Tôn Đức Thắng và Hoàng Quốc Việt tại An toàn khu năm 1947](images/event_20261116_175931.webp)
+
+*Nguồn: Chủ tịch Hồ Chí Minh (giữa) trao đổi công việc với đồng chí Tôn Đức Thắng (trái) và đồng chí Hoàng Quốc Việt (phải) tại An toàn khu năm 1947 (Wikimedia Commons, Public domain)*
+
+<!-- id: EVT-3585 -->
 * **1993:** Anh hùng Lực lượng vũ trang nhân dân Đặng Quang Cầm (Trung đội phó thuộc đội vũ trang tuyên truyền Liên khu 5) từ trần. [Nguồn: Viện Lịch sử Quân sự Việt Nam, Anh hùng Lực lượng vũ trang nhân dân, tập I, NXB Quân đội nhân dân, Hà Nội, 1996; Bộ Chỉ huy Quân sự tỉnh Nghệ An]
 
 <!-- id: EVT-2892 -->
