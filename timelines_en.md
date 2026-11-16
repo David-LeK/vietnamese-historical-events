@@ -3398,7 +3398,7 @@
 *   **Winter 1784:** Bishop Pigneau de Béhaine (Bá Đa Lộc) represented Nguyen Anh in going to France to ask for help. [Source: Short-Lived Nguyen Prince (Dan Viet), https://danviet.vn/mot-hoang-tu-vuong-trieu-nha-nguyen-yeu-menh-so-phan-long-dong-gian-truan-dau-don-ong-la-ai-20241105225453868-d1193481.html]
 
 <!-- id: EVT-0945 -->
-*   **1785:** Amid the chaotic retreat following defeat, Le Van Duyet fought valiantly to protect Lord Nguyen Phuc Anh (Nguyen Anh), helping him escape safely to Ha Tien and then to Siam. [Source: Biographies of Dai Nam – Le Van Duyet, https://en.wikipedia.org/wiki/L%C3%AA_V%C4%83n_Duy%E1%BB%87t]
+*   **1785:** Amid the chaotic retreat following the defeat of the Siamese–Nguyen coalition (after Nguyen Anh had called on Siamese forces to intervene in Gia Dinh) at Rach Gam - Xoai Mut, Le Van Duyet fought to protect Lord Nguyen Phuc Anh (Nguyen Anh), helping him escape to Ha Tien and into exile in Siam. [Source: Biographies of Dai Nam – Le Van Duyet, https://en.wikipedia.org/wiki/L%C3%AA_V%C4%83n_Duy%E1%BB%87t]
 
 <!-- id: EVT-0946 -->
 *   **1785:** An Son Temple (Lady Temple) was constructed on Con Dao Island to honor Madam Phi Yen (Le Thi Ram), a secondary consort of Lord Nguyen Phuc Anh. Legend holds that she was imprisoned after warning the Lord against seeking French military assistance. [Source: An Son Temple (Lady Phi Yen Shrine) in Con Dao, https://baotanglichsu.vn]
@@ -3875,7 +3875,7 @@
 *   **Feb. 1814:** Empress Thua Thien (wife of Emperor Gia Long) passed away. [Source: Secrets of Thien Tho Tomb (Tuoi Tre), https://tuoitre.vn/bi-an-nghin-thu-thien-tho-lang-ky-1-giac-ngu-nghin-thu-giua-trung-son-20211101084841142.htm]
 
 <!-- id: EVT-1065 -->
-*   **1815:** The case of Nguyen Van Thanh began, involving a poem written by his son Nguyen Van Thuyen. This political purge led to the forced suicide of the meritorious official Nguyen Van Thanh in 1817, reflecting Gia Long's consolidation of absolute power. [Source: Teacher Nguyen Van Thanh (SCOV), https://scov.gov.vn/ban-sac-van-hoa/viet-su-giai-thoai/thuong-hai-thay-nguyen-van-thanh.html]
+*   **1815:** The case of Nguyen Van Thanh began, involving a poem written by his son Nguyen Van Thuyen. Harboring a longstanding personal feud with Nguyen Van Thanh, Le Van Duyet submitted the denounced poem to Emperor Gia Long and later directly interrogated Thuyen, extracting a confession. This political purge led to Thuyen's execution and the forced suicide of the meritorious official Nguyen Van Thanh in 1817, reflecting Gia Long's consolidation of absolute power. [Source: Teacher Nguyen Van Thanh (SCOV), https://scov.gov.vn/ban-sac-van-hoa/viet-su-giai-thoai/thuong-hai-thay-nguyen-van-thanh.html]
 
 <!-- id: EVT-1066 -->
 *   **1815:** Emperor Gia Long dispatched a naval unit commanded by Pham Quang Anh to explore the archipelagos and map their sea routes. [Source: Gia Long Sent Troops to Hoang Sa 3 Times (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/8306/vua-gia-long-3-lan-phai-quan-ra-hoang-sa.html]
@@ -3944,6 +3944,9 @@
 *   **1820:** Grand Scholar Trinh Hoai Duc completed and presented to Emperor Minh Mang the 6-volume "Gia Dinh Thanh Thong Chi" (Monograph of Gia Dinh Citadel) – a monumental geographical, historical, and cultural gazetteer providing comprehensive documentation of Southern Vietnam. [Source: Gia Dinh Thanh Thong Chi (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Gia_%C4%90%E1%BB%8Bnh_th%C3%A0nh_th%C3%B4ng_ch%C3%AD]
 
 <!-- id: EVT-1084 -->
+*   **1820 - 1832:** During his second term as Governor-General of Gia Dinh Citadel, alongside maintaining security and developing Southern Vietnam, Le Van Duyet wielded sweeping military, administrative, judicial, and diplomatic authority as a semi-autonomous viceroy. He repeatedly bypassed the central court—exercising arbitrary capital punishment without imperial sanction, harboring former rebels and trusted retainers (such as Le Van Khoi), conducting unauthorized foreign contacts, and retaining documents stamped with the imperial seal—sparking sharp conflict with Emperor Minh Mang's centralization policy. [Source: Most Powerful Governor of the Nguyen Era (Thanh Nien), https://thanhnien.vn/tong-tran-quyen-luc-nhat-trong-lich-su-nha-nguyen-185251027233047685.htm; A Unique Execution in History (National Museum of History), https://baotanglichsu.vn/vi/Articles/2001/66647/cuoc-hanh-hinh-co-mot-khong-hai-trong-lich-su-vn.html]
+
+<!-- id: EVT-3584 -->
 *   **Feb. 3, 1820:** Emperor Gia Long passed away. [Source: Gia Long, First Nguyen Emperor (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/15241/gia-long-vi-hoang-dje-djau-tien-sang-lap-vuong-trieu-nguyen-trieu-djai-phong-kien-cuoi-cung-trong-lich-su-viet-nam.html]
 
 <!-- id: EVT-1085 -->
@@ -3964,7 +3967,7 @@
 *   **Jul. 1820:** Emperor Minh Mang issued an edict prohibiting opium, marking the first official ban on this drug due to its harmful effects on the administration and populace. [Source: Emperor Minh Mang's Opium Ban (People's Police Newspaper), https://cand.vn/Phong-su-tu-lieu/Vinh-biet-nhung-mua-hoa-thuoc-phien-i8698/]
 
 <!-- id: EVT-1088 -->
-*   **Sep. 1820:** Le Van Duyet ordered the execution of Deputy Governor Huynh Cong Ly (Emperor Minh Mang's father-in-law) for corruption and oppressing the people during the digging of the Tau Hu canal. This event demonstrated the strict enforcement of the law regardless of royal connections but also deepened the rift between Le Van Duyet and Emperor Minh Mang. [Source: Marshal Le Van Duyet (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/9271/ta-quan-le-van-duyet-than-thai-giam-lam-nen-nghiep-lon.html]
+*   **Sep. 1820:** Le Van Duyet ordered the execution of Deputy Governor Huynh Cong Ly (Emperor Minh Mang's father-in-law) for corruption and oppressing the people during the digging of the Tau Hu canal. While demonstrating his strict stance against corruption, executing a senior official and royal in-law without awaiting imperial approval from Hue was viewed by the central court as an act of arrogance and overreach, deeply widening the rift between Le Van Duyet and Emperor Minh Mang. [Source: Marshal Le Van Duyet (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/9271/ta-quan-le-van-duyet-than-thai-giam-lam-nen-nghiep-lon.html]
 
 <!-- id: EVT-1089 -->
 *   **16/09/1820 (August 10 of the Year of the Metal Dragon):** The great national poet Nguyễn Du passed away in the imperial capital of Huế while preparing to lead his second diplomatic mission to the Qing Dynasty. In 1965, the World Peace Council honoured him; in 2013, UNESCO passed a resolution honoring him as a World Cultural Celebrity. [Source: Nguyen Du Brings Vietnamese Poem to New High (VietnamPlus English), https://en.vietnamplus.vn/nguyen-du-who-brings-vietnamese-poem-to-new-high-post85260.vnp]
@@ -4099,7 +4102,7 @@
 *   **1833 - 1835:** The uprising of ethnic minorities in the north led by Nong Van Van. [Source: Nong Van Van Uprising (Cao Bang News), https://baocaobang.vn/nong-van-van-tiet-che-thuong-tuong-quan-cung-dan-dong-long-khoi-nghia-3166075.html]
 
 <!-- id: EVT-1124 -->
-*   **1833 - 1835:** The mutiny at Phien An Citadel (Gia Dinh) led by Le Van Khoi. [Source: Rebel Leader Le Van Khoi (Thanh Nien), https://thanhnien.vn/ve-nhan-vat-noi-day-le-van-khoi-185241230225618664.htm]
+*   **1833 - 1835:** The mutiny at Phien An Citadel (Gia Dinh) led by Le Van Khoi (originally Nguyen Huu Khoi, a former rebel leader whom Le Van Duyet had pardoned, recruited as a trusted aide, and treated like an adopted son), sparked after Emperor Minh Mang abolished the Gia Dinh Governor-Generalship and purged Duyet's former retainers. Lasting over two years, the rebels sought foreign intervention from both Siam (triggering the Vietnamese–Siamese War) and France (through Catholic missionary Joseph Marchand), causing severe devastation across Southern Vietnam and directly triggering the court's posthumous prosecution of Le Van Duyet. [Source: Rebel Leader Le Van Khoi (Thanh Nien), https://thanhnien.vn/ve-nhan-vat-noi-day-le-van-khoi-185241230225618664.htm]
 
 <!-- id: EVT-1125 -->
 *   **1833 - 1843:** The peasant uprising led by Ba Nhan and Tien Bot in the northern midlands. [Source: Ba Nhan, Tien Bot Uprising (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_n%E1%BB%95i_d%E1%BA%ADy_Ba_Nh%C3%A0n,_Ti%E1%BB%81n_B%E1%BB%99t]
@@ -4121,7 +4124,7 @@
 *   **1834:** The Vietnamese army, commanded by Truong Minh Giang and Nguyen Xuan, defeated the Siamese forces at the Co Ho River and Thuan Cang, recapturing Ha Tien, Chau Doc, and Nam Vang (Phnom Penh), successfully ending the war. Emperor Minh Mang ordered the minting of "Minh Mang Phi Long" silver coins. [Source: Victory Against Foreign Invaders (Can Tho News), https://baocantho.com.vn/them-mot-dau-son-chien-thang-ngoai-xam-a172735.html]
 
 <!-- id: EVT-1130 -->
-*   **1835:** Following the suppression of the Le Van Khoi revolt, Emperor Minh Mang ordered the desecration of Le Van Duyet's tomb. The grave was leveled, a stone stele inscribed with "Here lies the eunuch who abused power" was erected, and the tomb was bound with iron chains. [Source: A Unique Execution in History (National Museum of History), https://baotanglichsu.vn/vi/Articles/2001/66647/cuoc-hanh-hinh-co-mot-khong-hai-trong-lich-su-vn.html]
+*   **1835:** Following the suppression of the Le Van Khoi revolt, acting on charges brought by Censorate official Phan Ba Dat and the court council, Emperor Minh Mang issued an edict condemning Le Van Duyet on seven capital counts punishable by beheading and two by strangulation—including conducting unauthorized diplomacy with Burma, requesting British ships at Gia Dinh to display personal power, seeking the execution of Imperial Guard Tran Van Tinh to silence dissent, defying imperial edicts on official appointments, forming political cliques, secretly keeping documents stamped with the imperial seal, and using royal-reserved terms such as calling his ancestors' graves "tombs" (lang) and referring to himself as "co"—alongside responsibility for harboring Le Van Khoi. The court ordered his grave leveled and bound with iron chains, erecting a stone stele inscribed with "Here lies the eunuch who abused power." [Source: A Unique Execution in History (National Museum of History), https://baotanglichsu.vn/vi/Articles/2001/66647/cuoc-hanh-hinh-co-mot-khong-hai-trong-lich-su-vn.html]
 
 <!-- id: EVT-1131 -->
 *   **1835:** The Cuu Yen River was excavated in Hung Yen to divert Red River floods (it was later filled in 1842 due to causing floods in Khoai Chau). [Source: Nine Seals on the Nine Urns (Nhan Dan), https://nhandan.vn/cuu-an-con-song-khac-tren-cuu-dinh-kinh-thanh-hue-post710709.html]

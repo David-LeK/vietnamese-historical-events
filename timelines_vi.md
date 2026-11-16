@@ -3398,7 +3398,7 @@
 *   **Mùa đông 1784:** Nguyễn Ánh cử Hoàng tử Cảnh đi cùng Giám mục Pigneau de Béhaine (Bá Đa Lộc) sang Pháp cầu viện. [Nguồn: Hoàng tử yểu mệnh nhà Nguyễn (Dân Việt), https://danviet.vn/mot-hoang-tu-vuong-trieu-nha-nguyen-yeu-menh-so-phan-long-dong-gian-truan-dau-don-ong-la-ai-20241105225453868-d1193481.html]
 
 <!-- id: EVT-0945 -->
-*   **1785:** Trong cuộc rút lui hỗn loạn sau thất bại, Lê Văn Duyệt đã chiến đấu dũng cảm để bảo vệ Chúa Nguyễn Phúc Ánh (Nguyễn Ánh), giúp ông thoát về Hà Tiên rồi sang Xiêm. [Nguồn: Đại Nam liệt truyện – Lê Văn Duyệt, https://vi.wikipedia.org/wiki/L%C3%AA_V%C4%83n_Duy%E1%BB%87t]
+*   **1785:** Trong cuộc rút lui hỗn loạn sau thất bại của liên quân Xiêm - Nguyễn (do Nguyễn Ánh cầu viện quân Xiêm tiến vào Gia Định) tại Rạch Gầm - Xoài Mút, Lê Văn Duyệt đã chiến đấu bảo vệ Chúa Nguyễn Phúc Ánh (Nguyễn Ánh) thoát về Hà Tiên rồi sang lưu vong tại Xiêm. [Nguồn: Đại Nam liệt truyện – Lê Văn Duyệt, https://vi.wikipedia.org/wiki/L%C3%AA_V%C4%83n_Duy%E1%BB%87t]
 
 <!-- id: EVT-0946 -->
 *   **1785:** Miếu An Sơn (miếu Bà) được xây dựng tại Côn Đảo để thờ bà Phi Yến (Lê Thị Răm), thứ phi của chúa Nguyễn Phúc Ánh. Giai thoại kể rằng bà đã can ngăn chúa Nguyễn cầu viện Pháp và bị giam cầm. [Nguồn: Di tích Miếu An Sơn (miếu Bà Phi Yến) tại Côn Đảo, https://baotanglichsu.vn]
@@ -3875,7 +3875,7 @@
 *   **02/1814:** Thừa Thiên Cao Hoàng hậu (Tống Thị Lan) băng hà. [Nguồn: Bí ẩn Thiên Thọ lăng (Tuổi Trẻ), https://tuoitre.vn/bi-an-nghin-thu-thien-tho-lang-ky-1-giac-ngu-nghin-thu-giua-trung-son-20211101084841142.htm]
 
 <!-- id: EVT-1065 -->
-*   **1815:** Vụ án Nguyễn Văn Thành bắt đầu từ bài thơ của người con trai là Nguyễn Văn Thuyên. Vụ án này dẫn đến cái chết của đại công thần Nguyễn Văn Thành vào năm 1817, đánh dấu cuộc thanh trừng nội bộ để củng cố quyền lực của vua Gia Long. [Nguồn: Thương Hải thầy Nguyễn Văn Thành (SCOV), https://scov.gov.vn/ban-sac-van-hoa/viet-su-giai-thoai/thuong-hai-thay-nguyen-van-thanh.html]
+*   **1815:** Vụ án Nguyễn Văn Thành bắt đầu từ bài thơ của người con trai là Nguyễn Văn Thuyên. Vốn có hiềm khích cá nhân với Nguyễn Văn Thành từ trước, Lê Văn Duyệt đã dâng bài thơ bị tố cáo lên vua Gia Long và sau đó trực tiếp tra xét vụ án khiến Thuyên nhận tội. Vụ án dẫn đến việc Thuyên bị xử tử và đại công thần Nguyễn Văn Thành bị bức tử vào năm 1817, đánh dấu cuộc thanh trừng nội bộ khốc liệt để củng cố quyền lực của vua Gia Long. [Nguồn: Thương Hải thầy Nguyễn Văn Thành (SCOV), https://scov.gov.vn/ban-sac-van-hoa/viet-su-giai-thoai/thuong-hai-thay-nguyen-van-thanh.html]
 
 <!-- id: EVT-1066 -->
 *   **1815:** Vua Gia Long cử Phạm Quang Ảnh chỉ huy một đơn vị hải quân đi thăm dò các quần đảo và vẽ bản đồ thủy trình tại đó. [Nguồn: Vua Gia Long 3 lần phái quân ra Hoàng Sa (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3096/8306/vua-gia-long-3-lan-phai-quan-ra-hoang-sa.html]
@@ -3944,6 +3944,9 @@
 *   **1820:** Hiệp biện Đại học sĩ kiêm Tổng tài Quốc sử quán Trịnh Hoài Đức hoàn thành và dâng lên vua Minh Mạng bộ sách "Gia Định thành thông chí" gồm 6 quyển – công trình địa chí, lịch sử và văn hóa đồ sộ bậc nhất phản ánh toàn diện về địa lý, con người và vùng đất Nam Bộ thời bấy giờ. [Nguồn: Gia Định thành thông chí (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Gia_%C4%90%E1%BB%8Bnh_th%C3%A0nh_th%C3%B4ng_ch%C3%AD]
 
 <!-- id: EVT-1084 -->
+*   **1820 - 1832:** Trong nhiệm kỳ Tổng trấn Gia Định thành lần thứ hai, bên cạnh công lao giữ yên trị an và phát triển kinh tế Nam Bộ, Lê Văn Duyệt nắm thực quyền quân sự, hành chính, tư pháp và ngoại giao như một thế lực bán tự trị. Ông nhiều lần chuyên quyền, tự ý dụng hình xử tử không chờ lệnh triều đình, thu nạp và dung túng thân tín từng làm phản (như Lê Văn Khôi), tự ý giao thiệp với nước ngoài và cất giữ giấy tờ có ấn ngự bảo, tạo ra xung đột gay gắt với chủ trương trung ương tập quyền của vua Minh Mạng. [Nguồn: Tổng trấn quyền lực nhất nhà Nguyễn (Thanh Niên), https://thanhnien.vn/tong-tran-quyen-luc-nhat-trong-lich-su-nha-nguyen-185251027233047685.htm; Cuộc hành hình có một không hai (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/2001/66647/cuoc-hanh-hinh-co-mot-khong-hai-trong-lich-su-vn.html]
+
+<!-- id: EVT-3584 -->
 *   **03/02/1820 (19/12 năm Kỷ Mão):** Vua Gia Long băng hà. [Nguồn: Gia Long, vị hoàng đế đầu tiên triều Nguyễn (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/15241/gia-long-vi-hoang-dje-djau-tien-sang-lap-vuong-trieu-nguyen-trieu-djai-phong-kien-cuoi-cung-trong-lich-su-viet-nam.html]
 
 <!-- id: EVT-1085 -->
@@ -3964,7 +3967,7 @@
 *   **07/1820:** Vua Minh Mạng xuống chiếu nghiêm cấm thuốc phiện. Đây là lần đầu tiên triều đình ban hành lệnh cấm này do tác hại của nó đối với quan lại và dân chúng. [Nguồn: Lệnh cấm thuốc phiện thời vua Minh Mạng (Báo Công an Nhân dân), https://cand.vn/Phong-su-tu-lieu/Vinh-biet-nhung-mua-hoa-thuoc-phien-i8698/]
 
 <!-- id: EVT-1088 -->
-*   **09/1820:** Tổng trấn Lê Văn Duyệt ra lệnh xử trảm Phó Tổng trấn Huỳnh Công Lý (cha vợ của vua Minh Mạng) vì tội tham nhũng và nhũng nhiễu dân chúng trong khi đào kênh Tàu Hủ. Sự kiện này thể hiện tính nghiêm minh "pháp bất vị thân" của Lê Văn Duyệt nhưng cũng làm gia tăng mâu thuẫn giữa ông và triều đình. [Nguồn: Tả quân Lê Văn Duyệt (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3096/9271/ta-quan-le-van-duyet-than-thai-giam-lam-nen-nghiep-lon.html]
+*   **09/1820:** Tổng trấn Lê Văn Duyệt ra lệnh xử trảm Phó Tổng trấn Huỳnh Công Lý (cha vợ của vua Minh Mạng) vì tội tham nhũng và nhũng nhiễu dân chúng trong khi đào kênh Tàu Hủ. Dù thể hiện sự nghiêm minh trị tham nhũng, việc tự ý xử tử đại thần và nhạc phụ nhà vua khi chưa có lệnh chuẩn y từ kinh đô bị triều đình Huế xem là hành vi chuyên quyền vượt phép, làm gia tăng sâu sắc mâu thuẫn giữa Lê Văn Duyệt và vua Minh Mạng. [Nguồn: Tả quân Lê Văn Duyệt (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3096/9271/ta-quan-le-van-duyet-than-thai-giam-lam-nen-nghiep-lon.html]
 
 <!-- id: EVT-1089 -->
 *   **16/09/1820 (10/08 năm Canh Thìn):** Đại thi hào dân tộc Nguyễn Du qua đời tại kinh thành Huế khi đang chuẩn bị làm Chánh sứ đi sứ nhà Thanh lần thứ hai. Năm 1965, Hội đồng Hòa bình thế giới vinh danh ông; năm 2013, UNESCO thông qua nghị quyết vinh danh ông là Danh nhân văn hóa thế giới. [Nguồn: Nguyễn Du 1765-1820 (Báo Hà Tĩnh), https://baohatinh.vn/nguyen-du-1765-1820-post47585.html]
@@ -4099,7 +4102,7 @@
 *   **1833 - 1835:** Cuộc nổi dậy của các dân tộc thiểu số phía Bắc do Nông Văn Vân lãnh đạo. [Nguồn: Nông Văn Vân khởi nghĩa (Báo Cao Bằng), https://baocaobang.vn/nong-van-van-tiet-che-thuong-tuong-quan-cung-dan-dong-long-khoi-nghia-3166075.html]
 
 <!-- id: EVT-1124 -->
-*   **1833 - 1835:** Cuộc binh biến ở thành Phiên An (Gia Định) do Lê Văn Khôi lãnh đạo. [Nguồn: Nhân vật nổi dậy Lê Văn Khôi (Thanh Niên), https://thanhnien.vn/ve-nhan-vat-noi-day-le-van-khoi-185241230225618664.htm]
+*   **1833 - 1835:** Cuộc binh biến ở thành Phiên An (Gia Định) do Lê Văn Khôi (nguyên là Nguyễn Hựu Khôi, một thủ lĩnh nổi dậy từng được Lê Văn Duyệt thu phục, xin tha tội và tin dùng như con nuôi) lãnh đạo sau khi triều đình Minh Mạng bãi bỏ chức Tổng trấn Gia Định và truy xét các thuộc hạ cũ của ông. Cuộc nổi dậy kéo dài hơn hai năm; để chống lại triều đình, phe nổi dậy đã cầu viện quân Xiêm can thiệp và tìm cách liên hệ cầu viện Pháp thông qua giáo sĩ Joseph Marchand (Cố Du), gây tổn thất nặng nề cho Nam Bộ và trở thành nguyên nhân trực tiếp dẫn đến việc triều đình truy tội Lê Văn Duyệt. [Nguồn: Nhân vật nổi dậy Lê Văn Khôi (Thanh Niên), https://thanhnien.vn/ve-nhan-vat-noi-day-le-van-khoi-185241230225618664.htm]
 
 <!-- id: EVT-1125 -->
 *   **1833 - 1843:** Cuộc nổi dậy của nông dân do Ba Nhàn và Tiền Bột lãnh đạo ở vùng trung du Bắc Bộ. [Nguồn: Khởi nghĩa Ba Nhàn, Tiền Bột (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Cu%E1%BB%99c_n%E1%BB%95i_d%E1%BA%ADy_Ba_Nh%C3%A0n,_Ti%E1%BB%81n_B%E1%BB%99t]
@@ -4121,7 +4124,7 @@
 *   **1834:** Quân đội triều đình do Trương Minh Giảng và Nguyễn Xuân chỉ huy đánh bại quân Xiêm tại sông Cổ Hỗ và Thuận Cảng, thu hồi Hà Tiên, Châu Đốc và Nam Vang. Vua Minh Mạng cho đúc tiền bạc "Minh Mạng Phi Long". [Nguồn: Dấu son chiến thắng ngoại xâm (Báo Cần Thơ), https://baocantho.com.vn/them-mot-dau-son-chien-thang-ngoai-xam-a172735.html]
 
 <!-- id: EVT-1130 -->
-*   **1835:** Sau khi dẹp xong loạn Lê Văn Khôi, vua Minh Mạng ra chỉ dụ kết tội Lê Văn Duyệt, sai san phẳng mộ, dựng bia đá khắc 8 chữ "Quyền yêm Lê Văn Duyệt phục pháp xứ" (Hoạn quan lộng quyền Lê Văn Duyệt chịu tội chết) và xiềng xích lại. [Nguồn: Cuộc hành hình có một không hai (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/2001/66647/cuoc-hanh-hinh-co-mot-khong-hai-trong-lich-su-vn.html]
+*   **1835:** Sau khi dẹp xong loạn Lê Văn Khôi, theo sớ hặc của Phan Bá Đạt và nghị án của đình thần, vua Minh Mạng ra chỉ dụ kết tội Lê Văn Duyệt với 7 tội đáng chém và 2 tội đáng thắt cổ (như tự ý sai người sang Diến Điện ngoại giao ngầm, xin đưa thuyền Anh vào Gia Định để tỏ uy quyền, xin giết thị vệ Trần Văn Tình để bịt miệng, kháng chỉ giữ quan, kết bè đảng, cất giữ giấy đóng sẵn ấn ngự bảo, gọi mộ cha mẹ là "lăng" và tự xưng "cô"), cùng trách nhiệm dung túng mầm mống phản loạn Lê Văn Khôi. Triều đình sai san phẳng mộ ông, xiềng xích lại và dựng bia đá khắc 8 chữ "Quyền yêm Lê Văn Duyệt phục pháp xứ" (Hoạn quan lộng quyền Lê Văn Duyệt chịu tội chết). [Nguồn: Cuộc hành hình có một không hai (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/2001/66647/cuoc-hanh-hinh-co-mot-khong-hai-trong-lich-su-vn.html]
 
 <!-- id: EVT-1131 -->
 *   **1835 (Năm Minh Mạng thứ 16):** Đào sông Cửu Yên (Hưng Yên) để giảm thế nước sông Hồng (sau bị lấp bỏ vào năm 1842 do gây ngập lụt). [Nguồn: Cửu ấn khắc trên Cửu Đỉnh (Nhân Dân), https://nhandan.vn/cuu-an-con-song-khac-tren-cuu-dinh-kinh-thanh-hue-post710709.html]
