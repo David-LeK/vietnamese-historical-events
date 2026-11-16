@@ -9682,6 +9682,13 @@
 *   **Feb. 14, 1972:** Female guerrilla liaison Nguyen Thi Tu (wife of Vinh Hung commune guerrilla commander Le Van Dong, known as Nam Dong) heroically sacrificed her life in Vinh Hung commune (Vinh Loi district, Bac Lieu province). Captured alongside her 10-month-old daughter and brutally tortured to force her to reveal the secret bunkers and resistance forces of her husband, she steadfastly refused to yield; before being executed, she courageously asked to breastfeed her baby daughter for the last time. Her unyielding sacrifice and sacred maternal love became the prototype for the renowned vọng cổ work "Giọt sữa cuối cùng" (The Last Drop of Milk) by playwright Trọng Nguyễn. [Source: Ben Tre Women's Union, The Long-Haired Army of Ben Tre in the Anti-US Resistance, Ben Tre Publishing House, 2000]
 
 <!-- id: EVT-2548 -->
+*   **Mar. 1972:** Amid U.S. President Richard Nixon's visit to China (February 1972), Chinese Premier Zhou Enlai met First Secretary (later General Secretary) **Le Duan** in Gia Lam (Hanoi) and stated that Beijing would discuss the Vietnam issue with the United States. According to Le Kien Thanh (son of the late General Secretary Le Duan), Le Duan responded firmly, asserting Vietnam's independent and self-reliant stance: *"If the United States wants to talk about Vietnam, it should come to Hanoi to talk. The Vietnamese people decide their own destiny, and no one can do that for us."* The statement underscored Hanoi's refusal to accept major-power bargaining over Vietnam's sovereignty and fate. [Source: VietNamNet - Conversation with the son of the late General Secretary Le Duan, https://vietnamnet.vn/tro-chuyen-voi-con-trai-co-tong-bi-thu-le-duan-2218867.html; Wilson Center (CWIHP), https://www.wilsoncenter.org/sites/default/files/media/documents/publication/ACFB2E.pdf]
+
+![Portrait of Le Duan](images/event_20261116_194737.webp)
+
+*Source: Portrait of Le Duan, First Secretary and later General Secretary of the Communist Party of Vietnam (Wikimedia Commons, Public domain)*
+
+<!-- id: EVT-3586 -->
 *   **Mar. 30, 1972:** The Liberation Army launched a massive artillery bombardment on Camp Carroll (Tan Lam base), a major military base in Quang Tri defended by the 56th Regiment under Pham Van Dinh. [Source: Quang Tri Provincial Party Committee, History of Quang Tri Provincial Party Committee, Vol. 2, National Political Publishing House, Hanoi, 2007]
 
 <!-- id: EVT-2549 -->

@@ -9682,6 +9682,13 @@
 *   **14/02/1972:** Nữ giao liên du kích Nguyễn Thị Tư (vợ của Xã đội trưởng du kích xã Vĩnh Hưng Lê Văn Dõng, tức Năm Dõng) anh dũng hy sinh tại xã Vĩnh Hưng (huyện Vĩnh Lợi, tỉnh Bạc Liêu). Bị địch bắt giữ cùng con gái 10 tháng tuổi và tra tấn dã man hòng truy tìm hầm bí mật cùng lực lượng kháng chiến của chồng, bà kiên quyết không khai báo; trước khi bị xử bắn, bà đã hiên ngang xin cho con bú những giọt sữa mẹ cuối cùng. Sự hy sinh bất khuất và tình mẫu tử thiêng liêng của bà đã trở thành nguyên mẫu cho bài vọng cổ nổi tiếng "Giọt sữa cuối cùng" của soạn giả Trọng Nguyễn. [Nguồn: Hội Liên hiệp Phụ nữ tỉnh Bến Tre, Đội quân tóc dài Bến Tre trong kháng chiến chống Mỹ, NXB Bến Tre, 2000]
 
 <!-- id: EVT-2548 -->
+*   **03/1972:** Trong bối cảnh Tổng thống Mỹ Richard Nixon thăm Trung Quốc (02/1972), Thủ tướng Trung Quốc Chu Ân Lai sang gặp Bí thư thứ nhất (sau là Tổng Bí thư) **Lê Duẩn** tại Gia Lâm (Hà Nội) và đề cập việc Bắc Kinh sẽ bàn về vấn đề Việt Nam với phía Mỹ. Theo lời kể của ông Lê Kiên Thành (con trai cố Tổng Bí thư Lê Duẩn), đồng chí Lê Duẩn đã phản hồi gay gắt và khẳng định lập trường độc lập, tự chủ của Việt Nam: *"Mỹ muốn nói về Việt Nam thì sang Hà Nội nói chuyện. Người Việt Nam tự quyết định vận mệnh của mình và không ai có thể làm điều đó thay chúng tôi."* Phát ngôn này thể hiện quyết tâm không chấp nhận sự dàn xếp hay thỏa hiệp giữa các nước lớn trên vận mệnh dân tộc Việt Nam. [Nguồn: Báo VietNamNet - Trò chuyện với con trai cố Tổng Bí thư Lê Duẩn, https://vietnamnet.vn/tro-chuyen-voi-con-trai-co-tong-bi-thu-le-duan-2218867.html; Trung tâm Wilson (CWIHP), https://www.wilsoncenter.org/sites/default/files/media/documents/publication/ACFB2E.pdf]
+
+![Chân dung đồng chí Lê Duẩn](images/event_20261116_194737.webp)
+
+*Nguồn: Chân dung đồng chí Lê Duẩn, Bí thư thứ nhất rồi Tổng Bí thư Ban Chấp hành Trung ương Đảng (Wikimedia Commons, Public domain)*
+
+<!-- id: EVT-3586 -->
 *   **30/03/1972:** Quân Giải phóng mở đợt tấn công bằng pháo binh ác liệt vào căn cứ Camp Carroll (Tân Lâm), cứ điểm phòng ngự kiên cố nhất ở Quảng Trị do Trung đoàn 56 của Phạm Văn Đính chốt giữ. [Nguồn: Ban Tuyên giáo Tỉnh ủy Quảng Trị, Lịch sử Đảng bộ tỉnh Quảng Trị, tập 2, NXB Chính trị quốc gia, Hà Nội, 2007]
 
 <!-- id: EVT-2549 -->
