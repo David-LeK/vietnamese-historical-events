@@ -1456,6 +1456,9 @@
 *   **01/1285:** Quân Nguyên do Thoát Hoan chỉ huy bắt đầu cuộc xâm lược Đại Việt lần thứ hai. [Nguồn: Đại Việt đánh bại quân Nguyên Mông lần thứ hai (Nghiên cứu Quốc tế), https://nghiencuuquocte.org/2020/10/25/dai-viet-danh-bai-quan-nguyen-mong-lan-thu-hai]
 
 <!-- id: EVT-0382 -->
+*   **26/02/1285 (21 tháng Giêng năm Ất Dậu):** Trong cuộc kháng chiến chống quân Nguyên lần thứ hai, danh tướng **Trần Bình Trọng** chỉ huy một đội quân chặn đánh quân địch tại bãi Thiên Mạc để bảo vệ các vua Trần rút lui an toàn. Khi bị bắt và quân Nguyên dụ dỗ phong tước vương, ông khảng khái nói *"Ta thà làm quỷ nước Nam, chứ không thèm làm vương đất Bắc"* rồi anh dũng hy sinh ở tuổi 26, được triều đình truy phong tước Bảo Nghĩa vương. [Nguồn: Bảo tàng Lịch sử Quốc gia - Trần Bình Trọng: Danh tướng khí tiết, https://baotanglichsu.vn/vi/Articles/3096/6830/tran-binh-trong-danh-tuong-khi-tiet.html]
+
+<!-- id: EVT-3615 -->
 *   **03/1285:** Vua Trần Thánh Tông dùng kế mỹ nhân, sai người đưa Công chúa **An Tư** (em gái út của vua) đến trại quân Nguyên dâng cho Thoát Hoan để làm chậm tốc độ tiến quân của giặc, tạo thời gian quý báu cho quân Trần rút lui và củng cố lực lượng. [Nguồn: Kế mỹ nhân của công chúa lừng danh nước Việt (VUSTA), https://vusta.vn/ke-my-nhan-noi-tieng-cua-cong-chua-lung-danh-nuoc-viet-p67570.html]
 
 <!-- id: EVT-0383 -->
@@ -4421,6 +4424,9 @@
 *   **16/12/1862:** Nghĩa quân Trương Định mở cuộc tổng phản công bất ngờ đồng loạt tập kích các đồn bốt của quân Pháp trên khắp ba tỉnh miền Đông Nam Kỳ (Gia Định, Định Tường, Biên Hòa), phục kích tiêu diệt Thiếu úy Pháp Theron tại Rạch Tra, gây cho quân Pháp nhiều thiệt hại nặng nề và đẩy quân viễn chinh vào thế bị động, lúng túng. [Nguồn: Khởi nghĩa Trương Định (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%C6%B0%C6%A1ng_%C4%90%E1%BB%8Bnh]
 
 <!-- id: EVT-1209 -->
+*   **1863:** Trí thức, nhà canh tân **Nguyễn Trường Tộ** gửi các bản điều trần chiến lược đầu tiên lên vua Tự Đức (gồm *Tế cấp luận*, *Giáo môn luận* và *Thiên hạ phân hợp đại thế luận*), khởi đầu gần 60 bản điều trần (1863–1871) đề xuất cải cách toàn diện về kinh tế, khai mỏ, mở cửa giao thương, cử người đi du học, phát triển thực học và hiện đại hóa quân sự. [Nguồn: Bảo tàng Lịch sử Quốc gia - Nguyễn Trường Tộ: Một nhà canh tân yêu nước cuối thế kỷ XIX, https://baotanglichsu.vn/vi/Articles/3098/14773/nguyen-truong-to-mot-nha-canh-tan-yeu-nuoc-cuoi-tk-xix.html]
+
+<!-- id: EVT-3616 -->
 *   **02/1863:** Đô đốc Bonard và Đại tá Palanca (Tây Ban Nha) đến Huế để trao đổi việc phê chuẩn Hòa ước Nhâm Tuất. [Nguồn: Đại Nam thực lục – Chính biên (Đệ tứ kỷ, Quyển 29)]
 
 <!-- id: EVT-1210 -->
@@ -4545,6 +4551,9 @@
 *   **1871 - 1872:** Theo phân công của Tổng đốc Hải - Yên Phạm Phú Thứ, **Bùi Viện** trực tiếp chỉ huy khai hoang vùng đầm lầy ven sông Cấm, xây dựng **bến Ninh Hải** và hệ thống thương điếm thu thuế, đặt nền móng đầu tiên cho sự hình thành thương cảng và thành phố Hải Phòng sau này. [Nguồn: Cổng thông tin Lịch sử Đảng bộ thành phố Hải Phòng - Bùi Viện, https://lichsudangbo.haiphong.gov.vn/nhan-vat-lich-su-cach-mang-tieu-bieu-cua-hai-phong/bui-vien-2953]
 
 <!-- id: EVT-3599 -->
+*   **22/11/1871:** Nhà canh tân **Nguyễn Trường Tộ** qua đời tại quê nhà Xã Đoài (Nghệ An), hưởng dương 41 tuổi. [Nguồn: Cổng thông tin điện tử huyện Hưng Nguyên - Nguyễn Trường Tộ và khát vọng canh tân đất nước, https://hungnguyen.nghean.gov.vn/dat-va-nguoi-hung-nguyen/nguyen-truong-to-va-khat-vong-canh-tan-dat-nuoc-365560]
+
+<!-- id: EVT-3617 -->
 *   **11/1872:** Jean Dupuis, một lái buôn người Pháp, bắt đầu gây rối ở Bắc Kỳ, lấy cớ vận chuyển hàng hóa lên Vân Nam. [Nguồn: Jean Dupuis (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Jean_Dupuis]
 
 <!-- id: EVT-1243 -->

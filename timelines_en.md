@@ -1456,6 +1456,9 @@
 *   **Jan. 1285:** Yuan forces under the command of Toghon began the second invasion of Dai Viet. [Source: Dai Viet Second Defeat of the Mongols (International Studies), https://nghiencuuquocte.org/2020/10/25/dai-viet-danh-bai-quan-nguyen-mong-lan-thu-hai]
 
 <!-- id: EVT-0382 -->
+*   **February 26, 1285:** During the second Mongol invasion, Tran general **Tran Binh Trong** led a rearguard force at Thien Mac sandbar to cover the safe withdrawal of the Tran emperors. Captured and offered a northern kingship by the Mongols, he famously declared *"I would rather be a ghost in the Southern country than a king in the Northern land"* before being executed at age 26, and was posthumously titled Prince Bao Nghia. [Source: National Museum of History - Tran Binh Trong: A general of steadfast integrity, https://baotanglichsu.vn/vi/Articles/3096/6830/tran-binh-trong-danh-tuong-khi-tiet.html]
+
+<!-- id: EVT-3615 -->
 *   **Mar. 1285:** To delay the Mongol advance and buy time for the army to retreat and regroup, Princess **An Tu** (youngest sister of King Tran Thanh Tong) was sent to the Mongol general Toghon as part of a "beauty trap" stratagem. [Source: The Beauty-Trap of Vietnam Renowned Princess (VUSTA), https://vusta.vn/ke-my-nhan-noi-tieng-cua-cong-chua-lung-danh-nuoc-viet-p67570.html]
 
 <!-- id: EVT-0383 -->
@@ -4421,6 +4424,9 @@
 *   **Dec. 16, 1862:** Trương Định's righteous army launched a surprise general counter-offensive against French outposts across the three eastern provinces of Cochinchina (Gia Định, Định Tường, Biên Hòa), killing French Sub-Lieutenant Theron in an ambush at Rạch Tra, inflicting heavy losses on French forces and throwing the expeditionary army on the defensive. [Source: Truong Dinh Rebellion (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Tr%C6%B0%C6%A1ng_%C4%90%E1%BB%8Bnh]
 
 <!-- id: EVT-1209 -->
+*   **1863:** Reformer and scholar **Nguyen Truong To** submitted his first major reform memorials to Emperor Tu Duc (*Te Cap Luan*, *Giao Mon Luan*, and *Thien Ha Phan Hop Dai The Luan*), launching a series of nearly 60 reform petitions (1863–1871) proposing economic development, mining, foreign trade, overseas study, practical education, and military modernization. [Source: National Museum of History - Nguyen Truong To: A patriotic reformer of the late 19th century, https://baotanglichsu.vn/vi/Articles/3098/14773/nguyen-truong-to-mot-nha-canh-tan-yeu-nuoc-cuoi-tk-xix.html]
+
+<!-- id: EVT-3616 -->
 *   **Feb. 1863:** Admiral Bonard and Colonel Palanca visited Hue to exchange the ratified Treaty of Nham Tuat. [Source: Veritable Records of Dai Nam – Main Part (Fourth Chronicle, Vol. 29)]
 
 <!-- id: EVT-1210 -->
@@ -4545,6 +4551,9 @@
 *   **1871 - 1872:** Assigned by Hai-Yen Governor-General Pham Phu Thu, **Bui Vien** directed the reclamation of coastal marshlands along the Cam River, constructing **Ninh Hai landing** and tax-collecting trading posts that laid the foundation for the port and city of Hai Phong. [Source: Hai Phong City Party Committee History Portal - Bui Vien, https://lichsudangbo.haiphong.gov.vn/nhan-vat-lich-su-cach-mang-tieu-bieu-cua-hai-phong/bui-vien-2953]
 
 <!-- id: EVT-3599 -->
+*   **November 22, 1871:** Reformer **Nguyen Truong To** passed away in his hometown of Xa Doai (Nghe An) at age 41. [Source: Hung Nguyen District Portal - Nguyen Truong To and the aspiration for national reform, https://hungnguyen.nghean.gov.vn/dat-va-nguoi-hung-nguyen/nguyen-truong-to-va-khat-vong-canh-tan-dat-nuoc-365560]
+
+<!-- id: EVT-3617 -->
 *   **Nov. 1872:** Jean Dupuis, a French merchant, began causing disturbances in Tonkin (Bac Ky), under the pretext of transporting goods to Yunnan. [Source: Jean Dupuis (Wikipedia), https://en.wikipedia.org/wiki/Jean_Dupuis]
 
 <!-- id: EVT-1243 -->
