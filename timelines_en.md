@@ -1667,6 +1667,9 @@
 *   **1358:** Ngo Be's forces recovered and rebelled again at Yen Phu mountain, occupying a large area from Thien Lieu to Chi Linh. [Source: Dai Viet Under Tran Du Tong (International Studies), https://nghiencuuquocte.org/2021/03/28/dai-viet-duoi-thoi-vua-tran-du-tong-1341-1369]
 
 <!-- id: EVT-0442 -->
+*   **1358 - 1369:** During the reign of Emperor Tran Du Tong, Imperial Academy Rector **Chu Van An** submitted the ***Seven-Beheading Memorial*** (*That Tram So*) urging the execution of seven corrupt officials. When the emperor declined, he resigned and retired to teach on Phuong Hoang Mountain (Chi Linh, Hai Duong), exemplifying Confucian scholarly integrity. [Source: National Museum of History - Chu Van An, author of the Seven-Beheading Memorial, https://baotanglichsu.vn/VI/Articles/3098/14580/con-mai-tam-guong-mot-nguoi-thay-nguoi-viet-that-tram-so-noi-tieng-trong-lich-su-viet-nam.html]
+
+<!-- id: EVT-3618 -->
 *   **1360:** Che Bong Nga ascended the throne as the King of Champa. [Source: Traces of Che Bong Nga (International Studies), https://nghiencuuquocte.org/2015/12/20/dau-vet-che-bong-nga/]
 
 <!-- id: EVT-0443 -->
@@ -1712,6 +1715,9 @@
 *   **Nov. 1370:** Duong Nhat Le was deposed and killed. Tran Phu (later Tran Nghe Tong) ascended the throne. Le Quy Ly entered the court as Chief Commander of the Imperial Guards. [Source: Who Was Duong Nhat Le? (Dan Viet), https://danviet.vn/duong-nhat-le-la-ai-ma-duoc-vua-tran-du-tong-truyen-ngoi-20230425182906137-d1089851.html]
 
 <!-- id: EVT-0457 -->
+*   **November 1370:** Educator and scholar **Chu Van An** passed away on Phuong Hoang Mountain (Chi Linh, Hai Duong) at age 78; Emperor Tran Nghe Tong posthumously granted him the title Duke Van Trinh and enshrined him at the Temple of Literature. [Source: Nhan Dan - Commemorating the 650th death anniversary of teacher Chu Van An (1370–2020), https://nhandan.vn/ha-noi-ky-niem-650-nam-ngay-mat-thay-giao-chu-van-an-1370-2020-post625226.html]
+
+<!-- id: EVT-3619 -->
 *   **Dec. 14, 1370:** Tran Phu (later Tran Nghe Tong) ascended the throne after Duong Nhat Le was deposed. [Source: Interesting Facts About King Tran Nghe Tong (National Museum of History), https://baotanglichsu.vn/vi/Articles/3096/12795/nhung-djieu-thu-vi-ve-vua-tran-nghe-tong.html]
 
 <!-- id: EVT-0458 -->
@@ -3260,6 +3266,9 @@
 *   **1773:** Generals Le Van Hung, Tran Quang Dieu, and Vo Van Dung commanded Tay Son forces to capture Bong Son and Phu Ly, paving the way for the attack on Quy Nhon. The Tay Son army captured Tuy Vien district and then Quy Nhon Citadel (using the stratagem of Nguyen Nhac hiding himself in a cage to enter the citadel as a prisoner). [Source: Spring 1771 Tay Son Uprising (National Museum of History), https://baotanglichsu.vn/vi/Articles/2001/68148/mua-xuan-nam-1771-khoi-nghia-nong-dan-tay-son-bung-no.html]
 
 <!-- id: EVT-0901 -->
+*   **1773:** Polymath **Le Quy Don** completed the Classical Chinese encyclopedia ***Van Dai Loai Ngu*** (alongside his earlier biographical-annalistic history *Dai Viet Thong Su*, 1749–1759), systematizing 18th-century Vietnamese knowledge across philosophy, history, geography, astronomy, literature, and agriculture. [Source: Van Dai Loai Ngu (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/V%C3%A2n_%C4%91%C3%A0i_lo%E1%BA%A1i_ng%E1%BB%AF]
+
+<!-- id: EVT-3620 -->
 *   **Spring 1773:** A small army comprising highland ethnic groups and lowland peasants from the An Khe plateau, led by Nguyen Nhac, descended to attack the provincial capital of Quy Nhon. [Source: Spring 1771 Tay Son Uprising (National Museum of History), https://baotanglichsu.vn/vi/Articles/2001/68148/mua-xuan-nam-1771-khoi-nghia-nong-dan-tay-son-bung-no.html]
 
 <!-- id: EVT-0902 -->

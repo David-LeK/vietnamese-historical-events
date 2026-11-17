@@ -1667,6 +1667,9 @@
 *   **1358 (Mậu Tuất):** Lực lượng của Ngô Bệ phục hồi, nổi lên ở núi Yên Phụ, chiếm giữ từ Thiên Liêu đến Chí Linh. [Nguồn: Đại Việt dưới thời Trần Dụ Tông (Nghiên cứu Quốc tế), https://nghiencuuquocte.org/2021/03/28/dai-viet-duoi-thoi-vua-tran-du-tong-1341-1369]
 
 <!-- id: EVT-0442 -->
+*   **1358 - 1369:** Dưới triều vua Trần Dụ Tông, Quốc tử giám Tư nghiệp **Chu Văn An** dâng ***Thất trảm sớ*** xin chém bảy gian thần lộng quyền nhưng không được chấp thuận. Ông bèn treo ấn từ quan, về ở ẩn dạy học tại núi Phượng Hoàng (Chí Linh, Hải Dương), nêu cao khí phách thanh cao, cương trực của bậc trí thức. [Nguồn: Bảo tàng Lịch sử Quốc gia - Còn mãi tấm gương một người thầy, người viết 'Thất trảm sớ' nổi tiếng trong lịch sử Việt Nam, https://baotanglichsu.vn/VI/Articles/3098/14580/con-mai-tam-guong-mot-nguoi-thay-nguoi-viet-that-tram-so-noi-tieng-trong-lich-su-viet-nam.html]
+
+<!-- id: EVT-3618 -->
 *   **1360:** Chế Bồng Nga lên ngôi vua Chiêm Thành. [Nguồn: Dấu vết Chế Bồng Nga (Nghiên cứu Quốc tế), https://nghiencuuquocte.org/2015/12/20/dau-vet-che-bong-nga/]
 
 <!-- id: EVT-0443 -->
@@ -1712,6 +1715,9 @@
 *   **11/1370 (Canh Tuất):** Dương Nhật Lễ bị phế và giết. Trần Phủ lên ngôi (Trần Nghệ Tông). Lê Quý Ly bắt đầu có mặt ở triều đình với chức Chi hậu tứ cục Chánh chưởng. [Nguồn: Dương Nhật Lễ là ai? (Dân Việt), https://danviet.vn/duong-nhat-le-la-ai-ma-duoc-vua-tran-du-tong-truyen-ngoi-20230425182906137-d1089851.html]
 
 <!-- id: EVT-0457 -->
+*   **11/1370:** Nhà giáo, danh nhân văn hóa **Chu Văn An** qua đời tại núi Phượng Hoàng (Chí Linh, Hải Dương), thọ 78 tuổi; được vua Trần Nghệ Tông truy phong tước Văn Trinh công và cho tòng tự tại Văn Miếu. [Nguồn: Báo Nhân Dân - Hà Nội kỷ niệm 650 năm ngày mất thầy giáo Chu Văn An (1370–2020), https://nhandan.vn/ha-noi-ky-niem-650-nam-ngay-mat-thay-giao-chu-van-an-1370-2020-post625226.html]
+
+<!-- id: EVT-3619 -->
 *   **14/12/1370:** Trần Phủ (sau là Trần Nghệ Tông) lên ngôi sau khi Dương Nhật Lễ bị phế truất. [Nguồn: Những điều thú vị về Vua Trần Nghệ Tông (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3096/12795/nhung-djieu-thu-vi-ve-vua-tran-nghe-tong.html]
 
 <!-- id: EVT-0458 -->
@@ -3260,6 +3266,9 @@
 *   **1773:** Các tướng Lê Văn Hưng, Trần Quang Diệu và Võ Văn Dũng chỉ huy quân Tây Sơn đánh chiếm Bồng Sơn và Phù Ly, mở đường cho việc hạ thành Quy Nhơn. Nghĩa quân Tây Sơn chiếm huyện lỵ Tuy Viễn và hạ thành Quy Nhơn (dùng mưu Nguyễn Nhạc ngồi trong cũi giả làm tù nhân). [Nguồn: Mùa xuân 1771 khởi nghĩa Tây Sơn bùng nổ (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/2001/68148/mua-xuan-nam-1771-khoi-nghia-nong-dan-tay-son-bung-no.html]
 
 <!-- id: EVT-0901 -->
+*   **1773:** Nhà bác học **Lê Quý Đôn** hoàn thành bộ bách khoa thư chữ Hán ***Vân đài loại ngữ*** (bên cạnh bộ sử *Đại Việt thông sử* viết theo thể kỷ truyện từ giai đoạn 1749–1759), hệ thống hóa tri thức sâu rộng về triết học, lịch sử, địa lý, thiên văn, văn học và nông nghiệp Việt Nam thế kỷ XVIII. [Nguồn: Vân đài loại ngữ (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/V%C3%A2n_%C4%91%C3%A0i_lo%E1%BA%A1i_ng%E1%BB%AF]
+
+<!-- id: EVT-3620 -->
 *   **Mùa xuân 1773:** Một toán quân nhỏ gồm các nhóm dân tộc vùng cao và nông dân vùng đồng bằng từ An Khê, dưới sự chỉ huy của Nguyễn Nhạc, đã tràn xuống tấn công thủ phủ Quy Nhơn. [Nguồn: Mùa xuân 1771 khởi nghĩa Tây Sơn bùng nổ (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/2001/68148/mua-xuan-nam-1771-khoi-nghia-nong-dan-tay-son-bung-no.html]
 
 <!-- id: EVT-0902 -->
