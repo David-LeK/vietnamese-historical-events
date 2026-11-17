@@ -10544,6 +10544,13 @@
 * **1982:** Hero of the People's Armed Forces Lê Văn Một (Thuyền trưởng tàu không số đầu tiên của tuyến Đường mòn Hồ Chí Minh trên biển) passed away. [Source: Naval Command, Legend of the Ho Chi Minh Sea Trail, People's Army Publishing House, Hanoi, 2011; Naval Museum]
 
 <!-- id: EVT-2774 -->
+*   **1982:** After 9 years of military service along the Truong Son trail (having enlisted at age 17 during the resistance war against the United States, been severely wounded twice, and suffered from Agent Orange exposure), former military medic **Luong Thi Than** (born 1956 in Tien Hai district, Thai Binh province) was discharged from the army and entered Buddhist monastic life under the dharma name **Thich Dam Than** (commonly known as **Venerable Than**), later serving as abbess of Dong Am Pagoda (Kien Xuong district, Thai Binh province). At the pagoda, she held daily prayers for fallen soldiers and cared for children with disabilities affected by Agent Orange; her life story became the real-life inspiration for writer Minh Chuyen's acclaimed literary reportage *"Returning to the Pagoda"* (*Vao chua gap lai*). [Source: Giac Ngo Newspaper - Taking Refuge in Buddhism, https://giacngo.vn/phong-su-nuong-nho-cua-phat-post15309.html; People's Army Newspaper - A Repository of Post-War Works, https://ct.qdnd.vn/van-hoa-xa-hoi/noi-luu-giu-tac-pham-hau-chien-tranh-529550]
+
+![Venerable Thich Dam Than (Luong Thi Than)](images/event_20261117_100032.webp)
+
+*Source: Venerable Thich Dam Than (Luong Thi Than) at Dong Am Pagoda (Thai Binh province), archival photo on Giac Ngo Newspaper*
+
+<!-- id: EVT-3589 -->
 *   **Early 1982:** Despite severe infrastructure destruction from the 1979 war, military units stationed at the Cao Bang border actively assisted local residents in restoring agricultural production and rebuilding schools. [Source: Ministry of Transport, History of Vietnamese Transport (1945 - 2005), Transport Publishing House, Hanoi, 2005; Nhan Dan Newspaper]
 
 <!-- id: EVT-2775 -->
@@ -11279,6 +11286,13 @@
 *   **June 11, 1999:** Martyr Nguyen Thi Tuyet (Thuong Tin) was posthumously awarded the title Hero of the People's Armed Forces by the State. [Source: Presidential Decision posthumously conferring Hero of the People's Armed Forces dated June 11, 1999; Thuong Tin District Party Committee Commission for Propaganda, History of Thuong Tin District Party Organization]
 
 <!-- id: EVT-2983 -->
+*   **Jul. 1, 1999:** Lieutenant General **Vu Nam Long** (birth name **Doan Van Uu**, also known as **Nam Long**, of Tay ethnicity, born in 1921 in Cao Bang) passed away. He was one of the 34 founding soldiers of the Vietnam Propaganda Liberation Army (1944) and served as company commander of the unit guarding President Ho Chi Minh at Tan Trao, leading the escort that protected him on the journey back to Hanoi during the August Revolution (1945). He later commanded the 3rd Southward Advance Detachment ("Nam Long Detachment"), served as Chief of Staff and then Commander of Division 304 during the Dien Bien Phu Campaign (1954), Commander of Military Region 4, Deputy Director of the Senior Military Academy, and was awarded the Ho Chi Minh Order. [Source: Tuoi Tre News - Remembering Lieutenant General Nam Long, who protected Uncle Ho from Cao Bang to Hanoi, https://tuoitre.vn/nho-trung-tuong-nam-long-nguoi-bao-ve-bac-ho-tu-cao-bang-ve-ha-noi-20250819075123408.htm; Wikipedia - Nam Long (Lieutenant General), https://vi.wikipedia.org/wiki/Nam_Long_(trung_t%C6%B0%E1%BB%9Bng)]
+
+![Portrait of Lieutenant General Vu Nam Long](images/event_20261117_095242.webp)
+
+*Source: Portrait of Lieutenant General Vu Nam Long (Nam Long), archival image on Vietnamese Wikipedia (File:Trung tướng Nam Long.jpg)*
+
+<!-- id: EVT-3588 -->
 *   **Oct. 1999:** During drainage excavation for the restoration of the Quang Tri Ancient Citadel Special National Monument, workers uncovered a fortified underground bunker buried by bombs since 1972 containing the remains of Senior Lieutenant Le Binh Chung and his comrades. His leather satchel remained intact, preserving personal diaries and poignant wartime letters sent from the rear by his wife Phan Thi Bien Khoi, becoming a deeply moving symbol of revolutionary heroism and enduring wartime love. [Source: Institute of Archaeology, Report on the Excavation of the Dan Xa Tac Altar (Hanoi), Social Sciences Publishing House, 2000; Nhan Dan Newspaper; Ha Noi Moi Newspaper]
 
 <!-- id: EVT-2984 -->

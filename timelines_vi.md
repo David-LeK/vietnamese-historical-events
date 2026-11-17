@@ -10544,6 +10544,13 @@
 * **1982:** Anh hùng Lực lượng vũ trang nhân dân Lê Văn Một (Thuyền trưởng tàu không số đầu tiên của tuyến Đường mòn Hồ Chí Minh trên biển) từ trần. [Nguồn: Bộ Tư lệnh Quân chủng Hải quân, Huyền thoại Đường Hồ Chí Minh trên biển, NXB Quân đội nhân dân, Hà Nội, 2011; Bảo tàng Hải quân]
 
 <!-- id: EVT-2774 -->
+*   **1982:** Sau 9 năm phục vụ trong quân ngũ trên tuyến lửa Trường Sơn (nhập ngũ năm 17 tuổi trong cuộc kháng chiến chống Mỹ, hai lần bị thương nặng và mang di chứng chất độc da cam), nữ quân y **Lương Thị Thân** (sinh năm 1956, quê tại huyện Tiền Hải, tỉnh Thái Bình) xuất ngũ và xuất gia tu hành với pháp danh **Thích Đàm Thân** (thường gọi là **Sư Thân**), sau trở thành trụ trì chùa Đông Am (huyện Kiến Xương, tỉnh Thái Bình). Tại đây, bà tụng kinh cầu siêu cho các anh hùng liệt sĩ, đồng đội đã hy sinh và cưu mang nhiều trẻ em khuyết tật bị ảnh hưởng bởi chất độc da cam; cuộc đời bà trở thành nguyên mẫu nhân vật chính trong tác phẩm truyện ký *"Vào chùa gặp lại"* của nhà văn Minh Chuyên. [Nguồn: Báo Giác Ngộ - Nương nhờ cửa Phật, https://giacngo.vn/phong-su-nuong-nho-cua-phat-post15309.html; Báo Quân đội nhân dân - Nơi lưu giữ tác phẩm hậu chiến tranh, https://ct.qdnd.vn/van-hoa-xa-hoi/noi-luu-giu-tac-pham-hau-chien-tranh-529550]
+
+![Sư thầy Thích Đàm Thân (Lương Thị Thân)](images/event_20261117_100032.webp)
+
+*Nguồn: Sư thầy Thích Đàm Thân (Lương Thị Thân) tại chùa Đông Am (tỉnh Thái Bình), ảnh tư liệu trên Báo Giác Ngộ*
+
+<!-- id: EVT-3589 -->
 *   **Đầu năm 1982:** Bất chấp cơ sở hạ tầng bị tàn phá nặng nề sau cuộc chiến năm 1979, các đơn vị quân đội đóng quân tại biên giới Cao Bằng đã tích cực giúp nhân dân khôi phục sản xuất nông nghiệp và ổn định đời sống. [Nguồn: Bộ Giao thông Vận tải, Lịch sử Giao thông vận tải Việt Nam (1945 - 2005), NXB Giao thông Vận tải, Hà Nội, 2005; Báo Nhân Dân]
 
 <!-- id: EVT-2775 -->
@@ -11279,6 +11286,13 @@
 *   **11/06/1999:** Liệt sĩ Nguyễn Thị Tuyết (Thường Tín) được Nhà nước truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân. [Nguồn: Quyết định truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân ngày 11/06/1999 của Chủ tịch nước; Ban Tuyên giáo Huyện ủy Thường Tín, Lịch sử Đảng bộ huyện Thường Tín]
 
 <!-- id: EVT-2983 -->
+*   **01/07/1999:** Trung tướng **Vũ Nam Long** (tên thật **Đoàn Văn Ưu**, còn gọi là **Nam Long**, dân tộc Tày, sinh năm 1921 tại Cao Bằng) từ trần. Ông là một trong 34 chiến sĩ đầu tiên của Đội Việt Nam Tuyên truyền Giải phóng quân (1944), từng đảm nhiệm trọng trách Đại đội trưởng đơn vị bảo vệ Chủ tịch Hồ Chí Minh tại Tân Trào và chỉ huy đội cận vệ đưa Người về Hà Nội trong Cách mạng Tháng Tám (1945). Sau đó, ông giữ chức Chi đội trưởng Chi đội 3 Nam tiến (thường gọi là "Chi đội Nam Long"), Tham mưu trưởng rồi Sư đoàn trưởng Sư đoàn 304 tham gia Chiến dịch Điện Biên Phủ (1954), Tư lệnh Quân khu 4, Phó Giám đốc Học viện Quân sự cấp cao và được tặng thưởng Huân chương Hồ Chí Minh. [Nguồn: Báo Tuổi Trẻ - Nhớ Trung tướng Nam Long - người bảo vệ Bác Hồ từ Cao Bằng về Hà Nội, https://tuoitre.vn/nho-trung-tuong-nam-long-nguoi-bao-ve-bac-ho-tu-cao-bang-ve-ha-noi-20250819075123408.htm; Wikipedia - Nam Long (trung tướng), https://vi.wikipedia.org/wiki/Nam_Long_(trung_t%C6%B0%E1%BB%9Bng)]
+
+![Chân dung Trung tướng Vũ Nam Long](images/event_20261117_095242.webp)
+
+*Nguồn: Chân dung Trung tướng Vũ Nam Long (Nam Long), tư liệu trên Wikipedia tiếng Việt (Tập tin:Trung tướng Nam Long.jpg)*
+
+<!-- id: EVT-3588 -->
 *   **10/1999:** Trong quá trình thi công nâng cấp hệ thống thoát nước phục vụ tôn tạo Di tích Quốc gia đặc biệt Thành cổ Quảng Trị, công nhân phát hiện căn hầm ngầm kiên cố bị bom đạn vùi lấp từ năm 1972 chứa hài cốt của Thượng úy Lê Binh Chủng cùng các đồng đội. Chiếc xắc cốt da của ông vẫn còn nguyên vẹn, lưu giữ những trang nhật ký và các bức thư chan chứa nghĩa tình gửi từ hậu phương của người vợ Phan Thị Biển Khơi, trở thành biểu tượng xúc động sâu sắc về chủ nghĩa anh hùng cách mạng và tình yêu bất tử thời chiến. [Nguồn: Viện Khảo cổ học, Báo cáo khai quật di tích Đàn Xã Tắc (Hà Nội), NXB Khoa học Xã hội, 2000; Báo Nhân Dân; Báo Hà Nội Mới]
 
 <!-- id: EVT-2984 -->
