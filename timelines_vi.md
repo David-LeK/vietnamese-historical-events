@@ -5109,6 +5109,9 @@
 *   **12/1908:** Thực dân Pháp ra lệnh đóng cửa trường Đông Kinh Nghĩa thục và đàn áp những người tham gia. [Nguồn: Đông Kinh Nghĩa Thục (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13904/dong-kinh-nghia-thuc.html]
 
 <!-- id: EVT-1394 -->
+*   **1909:** Doanh nhân **Bạch Thái Bưởi** bắt đầu bước vào lĩnh vực vận tải đường thủy bằng việc thuê ba chiếc tàu (*Phi Phụng*, *Phi Long*, *Khoái Tử Long*) chạy tuyến Nam Định – Hà Nội và Nam Định – Bến Thủy, mở đầu cuộc cạnh tranh phá vỡ thế độc quyền hàng hải của chủ tàu Pháp và Hoa kiều tại Bắc Kỳ. [Nguồn: Cục Văn thư và Lưu trữ nhà nước - Bạch Thái Bưởi: Doanh nhân khởi xướng phong trào 'Người Việt dùng hàng Việt' 100 năm trước, https://www.archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/bach-thai-buoi-doanh-nhan-khoi-xuong-phong-trao-nguoi-viet-dung-hang-viet-100-nam-truoc.htm]
+
+<!-- id: EVT-3608 -->
 *   **05/02/1909 (Rằm tháng Giêng năm Kỷ Dậu):** Nhà thơ lớn Nguyễn Khuyến (Tam Nguyên Yên Đổ) qua đời tại quê nhà Yên Đổ (Hà Nam), thọ 74 tuổi, để lại di sản thơ văn Hán - Nôm đồ sộ phản ánh sâu sắc đời sống nông thôn và nỗi đau mất nước. [Nguồn: Từ điển văn học (bộ mới), NXB Thế giới, Hà Nội, 2004]
 
 <!-- id: EVT-1395 -->
@@ -5234,6 +5237,13 @@
 *   **26/04/1913:** Một vụ ném bom khác xảy ra tại Khách sạn Hà Nội, giết chết 2 sĩ quan Pháp. [Nguồn: Lịch sử Việt Nam (Tập 7: 1897–1918), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1416 -->
+*   **15/05/1913:** Tờ ***Đông Dương tạp chí*** ra mắt số đầu tiên tại Hà Nội do nhà báo, dịch giả **Nguyễn Văn Vĩnh** làm chủ bút (F.H. Schneider làm chủ nhiệm). Với quan điểm *"Nước Nam ta mai sau này hay dở cũng ở như chữ Quốc ngữ"*, tờ báo đăng tải nhiều bài viết khai trí và tác phẩm dịch thuật văn học thế giới, góp phần quan trọng vào việc phổ biến chữ Quốc ngữ và phát triển báo chí hiện đại Việt Nam. [Nguồn: Báo Nhân Dân - Đông Dương tạp chí: Ánh khai minh còn sáng, https://nhandan.vn/dong-duong-tap-chi-anh-khai-minh-con-sang-post970678.html]
+
+![Chân dung Nguyễn Văn Vĩnh](images/event_20261117_183626.webp)
+
+*Nguồn: Chân dung nhà báo, dịch giả Nguyễn Văn Vĩnh / Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3609 -->
 *   **11/1913:** Tòa đại hình Sài Gòn xét xử vụ án Phan Xích Long. Phan Xích Long cùng Nguyễn Văn Hiệp và Nguyễn Văn Ngọ bị kết án khổ sai chung thân; nhiều hội viên khác cũng bị kết án tù với mức án khác nhau. Bản án đưa Phan Xích Long trở lại Khám Lớn Sài Gòn, nơi ông bị giam giữ cho đến khi các hội kín tổ chức cuộc giải cứu vào năm 1916. [Nguồn: Báo Sài Gòn Giải Phóng, "Tiểu sử nhân vật lịch sử Phan Xích Long", 22/04/2005, https://www.sggp.org.vn/tieu-su-nhan-vat-lich-su-phan-xich-long-post129321.html]
 
 ![Hình ảnh tư liệu](images/event_20261109_131021_1.webp)
@@ -5287,6 +5297,13 @@
 *   **22/02/1916:** Sau cuộc tấn công Khám Lớn, Phan Xích Long bị xử bắn tại Đồng Tập Trận (Plaine des Tombeaux) cùng 37 đồng đội, khi mới 23 tuổi. Ngày 16/03/1916, thực dân Pháp xử bắn thêm 13 người. Thi hài các nạn nhân được chôn tại nghĩa địa Đất Thánh Chà, khu vực nay thuộc đường Võ Thị Sáu – chợ Tân Định, TP. Hồ Chí Minh. [Nguồn: Báo Sài Gòn Giải Phóng, "Tiểu sử nhân vật lịch sử Phan Xích Long", 22/04/2005, https://www.sggp.org.vn/tieu-su-nhan-vat-lich-su-phan-xich-long-post129321.html]
 
 <!-- id: EVT-3553 -->
+*   **04/1916:** Doanh nhân **Bạch Thái Bưởi** chính thức thành lập **Giang hải luân thuyền Bạch Thái công ty** với cờ hiệu riêng, mở rộng hạm đội tàu thủy và phát động phong trào ***"Người Việt Nam đi tàu Việt Nam"***, vươn lên làm chủ nhiều tuyến vận tải thủy Bắc – Nam và được mệnh danh là "Chúa sông Bắc Kỳ". [Nguồn: Thông tấn xã Việt Nam (Nhân vật sự kiện) - Bạch Thái Bưởi (1874–1932), https://nvsk.vnanet.vn/ho-so/bach-thai-buoi-1874-1932-3-125862.vna]
+
+![Chân dung Bạch Thái Bưởi](images/event_20261117_183628.webp)
+
+*Nguồn: Chân dung doanh nhân Bạch Thái Bưởi / Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3610 -->
 *   **03/05/1916:** Cuộc khởi nghĩa do vua Duy Tân cùng Thái Phiên, Trần Cao Vân lãnh đạo bị bại lộ và thất bại. Vua Duy Tân bị bắt và bị đày sang đảo Réunion. [Nguồn: Vua Duy Tân và cuộc khởi nghĩa năm 1916 (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13775/vua-duy-tan.html]
 
 <!-- id: EVT-1429 -->
@@ -5907,6 +5924,9 @@
 *   **21/07/1932:** Vụ án Tống Văn Sơ giành thắng lợi pháp lý quyết định trước Ủy ban Tư pháp Viện Cơ mật Hoàng gia Anh tại London. Nhờ sự bào chữa tận tụy và kiên định của Luật sư Francis Henry Loseby cùng các luật sư tiến bộ người Anh, Cơ mật viện Anh đã bác bỏ yêu cầu dẫn độ của thực dân Pháp và chấp thuận giải pháp hòa giải, buộc chính quyền Hồng Kông phải phóng thích Tống Văn Sơ và tạo điều kiện cho ông rời khỏi thuộc địa an toàn. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1592 -->
+*   **22/07/1932:** Doanh nhân **Bạch Thái Bưởi** qua đời tại Hải Phòng sau một cơn đau tim, hưởng dương 58 tuổi, để lại dấu ấn tiêu biểu về tinh thần tự lực kinh doanh của giới công thương Việt Nam đầu thế kỷ XX. [Nguồn: Cổng thông tin điện tử TP. Hải Phòng - Thân thế và sự nghiệp của doanh nhân Bạch Thái Bưởi (1874–1932), https://haiphong.gov.vn/danh-nhan/than-the-va-su-nghiep-cua-doanh-nhan-bach-thai-buoi-1874-1932-622772]
+
+<!-- id: EVT-3611 -->
 *   **31/07/1932:** Tại đề lao Hải Phòng, thực dân Pháp thi hành án chém dã man đối với hai nhà lãnh đạo tiền bối kiên trung của Đảng là đồng chí Nguyễn Đức Cảnh (Ủy viên Ban Thường vụ Xứ ủy Bắc Kỳ, Bí thư Xứ ủy Trung Kỳ, nguyên Tổng Thư ký Tổng Công hội Đỏ Bắc Kỳ) và đồng chí Hồ Ngọc Lân; trước lưỡi máy chém của kẻ thù, đồng chí Nguyễn Đức Cảnh vẫn hiên ngang hô vang khẩu hiệu cách mạng, giữ trọn khí tiết của người cộng sản cho đến hơi thở cuối cùng. [Nguồn: Báo Lao Động - Đồng chí Nguyễn Đức Cảnh - Tấm gương người cộng sản kiên trung, https://laodong.vn/cong-doan/dong-chi-nguyen-duc-canh-tam-guong-nguoi-cong-san-kien-trung-1008082.ldo]
 
 <!-- id: EVT-3501 -->
@@ -6006,6 +6026,9 @@
 *   **1936:** Nhà thơ Hàn Mặc Tử (Nguyễn Trọng Trí) xuất bản tập thơ đầu tay *Gái quê* và cùng Chế Lan Viên, Yến Lan, Quách Tấn sáng lập nhóm "Bàn Thành Tứ Hữu" (Trường thơ Loạn) tại Bình Định, tạo nên một trường phái thơ tượng trưng - siêu thực độc đáo và mãnh liệt trong phong trào Thơ mới. [Nguồn: Từ điển văn học (bộ mới), NXB Thế giới, Hà Nội, 2004]
 
 <!-- id: EVT-1616 -->
+*   **02/05/1936:** Nhà báo, dịch giả **Nguyễn Văn Vĩnh** qua đời tại vùng Sê Pôn (Lào) trong chuyến đi khảo sát thực địa, hưởng dương 54 tuổi. [Nguồn: Bảo tàng Lịch sử Quốc gia - Những dấu mốc lịch sử ban đầu của báo chí Hà Nội, https://baotanglichsu.vn/vi/Articles/3096/18396/nhung-dau-moc-lich-su-ban-djau-cua-bao-chi-ha-noi.html]
+
+<!-- id: EVT-3612 -->
 *   **03/05/1936:** Mặt trận Nhân dân Pháp do Léon Blum đứng đầu thắng cử, mở ra một thời kỳ thuận lợi cho phong trào dân chủ ở các thuộc địa. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1617 -->
@@ -8479,6 +8502,13 @@
 *   **1963 - 1968:** Trần Văn Lai hoạt động biệt động tại Sài Gòn dưới vỏ bọc nhà thầu khoán. Ông xâm nhập các cơ quan đầu não như Dinh Độc Lập và cơ quan viện trợ hậu cần Mỹ (USOM), thu thập tình báo và bí mật vẽ bản đồ hệ thống cống ngầm Sài Gòn cho Quân Giải phóng. [Nguồn: Bộ Tư lệnh Quân khu 7, Lịch sử Biệt động Sài Gòn - Gia Định (1945 - 1975), NXB Quân đội nhân dân, Hà Nội, 2010]
 
 <!-- id: EVT-2226 -->
+*   **1963:** Sau các ca phẫu thuật đột phá tại Bệnh viện Việt Đức (tiêu biểu là ca mổ ngày 07/01/1961), Giáo sư **Tôn Thất Tùng** công bố công trình về phương pháp **cắt gan khô** (kỹ thuật Tôn Thất Tùng) trên tạp chí y khoa *The Lancet*, rút ngắn thời gian cắt gan từ hàng giờ xuống chỉ còn vài phút và được y học thế giới công nhận, áp dụng rộng rãi. [Nguồn: Thông tấn xã Việt Nam - Tôn Thất Tùng: 'Cha đẻ' phương pháp mổ gan khô khiến thế giới kinh ngạc, https://nvsk.vnanet.vn/ton-that-tung-39cha-de39-phuong-phap-mo-gan-kho-khien-the-gioi-kinh-ngac-1-142295.vna]
+
+![Chân dung Giáo sư Tôn Thất Tùng](images/event_20261117_183629.webp)
+
+*Nguồn: Chân dung Giáo sư, bác sĩ Tôn Thất Tùng năm 1947 / Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3613 -->
 *   **02/01/1963:** **Trận Ấp Bắc (Mỹ Tho):** Khoảng 350 quân của Quân Giải phóng miền Nam Việt Nam đã đánh bại cuộc hành quân càn quét quy mô lớn "Đức Thắng 01-1963" của gần 1.800 ngụy quân VNCH do cố vấn Mỹ chỉ huy. Dù đối phương sử dụng chiến thuật "trực thăng vận" và "thiết xa vận" tân kỳ, Quân Giải phóng đã gây thiệt hại nặng nề (hơn 80 lính ngụy chết, bắn rơi 5 trực thăng, bắn cháy nhiều xe thiết giáp M113). Đây là chiến thắng lớn đầu tiên của Quân Giải phóng trước ngụy quân chính quy VNCH, đánh dấu sự thất bại bước đầu của chiến lược "Chiến tranh đặc biệt". [Nguồn: Báo Nhân Dân - Chiến thắng Ấp Bắc, https://nhandan.vn/chien-thang-ap-bac-danh-dau-that-bai-chien-thuat-truc-thang-van-thiet-xa-van-cua-my-nguy-post220168.html]
 
 ![Hình ảnh tư liệu](images/event_20260924_111702.webp)
@@ -10621,6 +10651,9 @@
 *   **27 - 31/03/1982:** Đại hội đại biểu toàn quốc lần thứ V của Đảng Cộng sản Việt Nam họp tại Hà Nội, tái bầu đồng chí Lê Duẩn làm Tổng Bí thư Ban Chấp hành Trung ương Đảng; đề ra Kế hoạch phát triển kinh tế - xã hội 5 năm lần thứ ba (1981 - 1985) và bước đầu điều chỉnh cơ cấu đầu tư, xác định nông nghiệp là mặt trận hàng đầu. [Nguồn: Báo cáo chính trị của Ban Chấp hành Trung ương Đảng tại Đại hội đại biểu toàn quốc lần thứ V; Văn kiện Đảng Toàn tập, tập 43 (1982), NXB Chính trị quốc gia, Hà Nội, 2006]
 
 <!-- id: EVT-2776 -->
+*   **07/05/1982:** Giáo sư, Viện sĩ **Tôn Thất Tùng** (sinh ngày 10/05/1912) qua đời tại Hà Nội, thọ 70 tuổi. [Nguồn: Báo VnExpress - Bác sĩ Tôn Thất Tùng: Cha đẻ phương pháp mổ gan siêu nhanh của thế giới, https://vnexpress.net/bac-si-ton-that-tung-cha-de-phuong-phap-mo-gan-sieu-nhanh-cua-the-gioi-4923813.html]
+
+<!-- id: EVT-3614 -->
 *   **06/1982:** Huỳnh Tấn Phát được bầu làm Phó Chủ tịch Hội đồng Nhà nước. [Nguồn: Nghị quyết của Quốc hội khóa VII tại Kỳ họp thứ 3, tháng 06/1982; Văn kiện Quốc hội Toàn tập, tập 6 (1981 - 1987), NXB Chính trị quốc gia, Hà Nội, 2008]
 
 <!-- id: EVT-2777 -->

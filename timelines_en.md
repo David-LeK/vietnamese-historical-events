@@ -5109,6 +5109,9 @@
 *   **Dec. 1908:** The French colonialists ordered the closure of the Dong Kinh Nghia Thuc school and suppressed its participants. [Source: Dong Kinh Nghia Thuc (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13904/dong-kinh-nghia-thuc.html]
 
 <!-- id: EVT-1394 -->
+*   **1909:** Entrepreneur **Bach Thai Buoi** entered the river-shipping industry by chartering three steamships (*Phi Phung*, *Phi Long*, and *Khoai Tu Long*) on the Nam Dinh–Hanoi and Nam Dinh–Ben Thuy routes, initiating his challenge to the French and Chinese shipping monopoly in Tonkin. [Source: State Records and Archives Department of Vietnam - Bach Thai Buoi: Pioneer of the Vietnamese goods movement, https://www.archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/bach-thai-buoi-doanh-nhan-khoi-xuong-phong-trao-nguoi-viet-dung-hang-viet-100-nam-truoc.htm]
+
+<!-- id: EVT-3608 -->
 *   **05/02/1909 (15th day of the 1st lunar month, Year of the Earth Rooster):** Prominent poet Nguyễn Khuyến (Tam Nguyên Yên Đổ) passed away in his hometown of Yên Đổ (Hà Nam) at age 74, leaving an extensive Sino-Vietnamese and Nôm literary heritage depicting rural life and sorrow over national subjugation. [Source: Dictionary of Literature (New Edition), The Gioi Publishers, Hanoi, 2004]
 
 <!-- id: EVT-1395 -->
@@ -5234,6 +5237,13 @@
 *   **Apr. 26, 1913:** Another bombing occurred at the Hanoi Hotel, killing two French officers. [Source: History of Vietnam (Vol. 7: 1897–1918), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1416 -->
+*   **May 15, 1913:** The first issue of ***Dong Duong Tap Chi*** (*Indochina Review*) was published in Hanoi with journalist and translator **Nguyen Van Vinh** as editor-in-chief (and F.H. Schneider as publisher). Guided by his conviction that Vietnam's future depended on the Quoc Ngu script, the journal published essays and translations of world literature that helped popularize Quoc Ngu and modern Vietnamese journalism. [Source: Nhan Dan - Dong Duong Tap Chi: Enduring light of enlightenment, https://nhandan.vn/dong-duong-tap-chi-anh-khai-minh-con-sang-post970678.html]
+
+![Portrait of Nguyen Van Vinh](images/event_20261117_183626.webp)
+
+*Source: Portrait of journalist and translator Nguyen Van Vinh / Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3609 -->
 *   **Nov. 1913:** The Saigon criminal court tried the Phan Xich Long case. Phan Xich Long, along with Nguyen Van Hiep and Nguyen Van Ngo, was sentenced to life imprisonment at hard labour, while many other society members received prison terms of varying length. The verdict returned Phan Xich Long to Saigon's Central Prison, where he remained until the secret societies mounted a rescue attempt in 1916. [Source: Sai Gon Giai Phong Newspaper, "Biography of the Historical Figure Phan Xich Long", April 22, 2005, https://www.sggp.org.vn/tieu-su-nhan-vat-lich-su-phan-xich-long-post129321.html]
 
 ![Historical image](images/event_20261109_131021_1.webp)
@@ -5287,6 +5297,13 @@
 *   **Feb. 22, 1916:** Following the raid on the Central Prison, Phan Xich Long was executed by firing squad at Dong Tap Tran (Plaine des Tombeaux) together with 37 comrades, aged only 23. On March 16, 1916, the colonial authorities executed 13 more. The victims were buried at Dat Thanh Cha cemetery, in what is now the Vo Thi Sau Street – Tan Dinh Market area of Ho Chi Minh City. [Source: Sai Gon Giai Phong Newspaper, "Biography of the Historical Figure Phan Xich Long", April 22, 2005, https://www.sggp.org.vn/tieu-su-nhan-vat-lich-su-phan-xich-long-post129321.html]
 
 <!-- id: EVT-3553 -->
+*   **April 1916:** Entrepreneur **Bach Thai Buoi** formally established the **Bach Thai River and Maritime Steamship Company** under his own house flag, expanding his fleet and rallying public support through the *"Vietnamese travel on Vietnamese ships"* movement, earning the moniker "King of Tonkin's Rivers". [Source: Vietnam News Agency (Figures & Events) - Bach Thai Buoi (1874–1932), https://nvsk.vnanet.vn/ho-so/bach-thai-buoi-1874-1932-3-125862.vna]
+
+![Portrait of Bach Thai Buoi](images/event_20261117_183628.webp)
+
+*Source: Portrait of entrepreneur Bach Thai Buoi / Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3610 -->
 *   **May 3, 1916:** The uprising led by King Duy Tan along with Thai Phien and Tran Cao Van was discovered and failed. King Duy Tan was arrested and exiled to Réunion Island. [Source: Emperor Duy Tan and the 1916 Uprising (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13775/vua-duy-tan.html]
 
 <!-- id: EVT-1429 -->
@@ -5907,6 +5924,9 @@
 *   **Jul. 21, 1932:** The Tong Van So Case achieved a decisive legal victory before the Judicial Committee of the Privy Council in London. Thanks to the dedicated and tireless defense mounted by British lawyer Francis Henry Loseby and progressive barristers, the Privy Council rejected the French extradition request and accepted a settlement, compelling Hong Kong authorities to release Tong Van So and allow his safe departure from the colony. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1592 -->
+*   **July 22, 1932:** Entrepreneur **Bach Thai Buoi** passed away in Hai Phong from a heart attack at age 58, leaving an enduring legacy of Vietnamese entrepreneurial self-reliance in the early 20th century. [Source: Hai Phong City Portal - Life and career of entrepreneur Bach Thai Buoi (1874–1932), https://haiphong.gov.vn/danh-nhan/than-the-va-su-nghiep-cua-doanh-nhan-bach-thai-buoi-1874-1932-622772]
+
+<!-- id: EVT-3611 -->
 *   **Jul. 31, 1932:** At Hai Phong Prison, French colonial authorities executed by guillotine two resolute pioneer Party leaders, Comrade Nguyen Duc Canh (Standing Committee Member of the Tonkin Regional Party Committee, Secretary of the Annam Regional Party Committee, former General Secretary of the Tonkin Red Trade Union Federation) and Comrade Ho Ngoc Lan; before the guillotine blade, Nguyen Duc Canh heroically shouted revolutionary slogans, preserving unabated communist integrity until his final breath. [Source: Lao Dong Newspaper - Comrade Nguyen Duc Canh: Exemplary Model of Steadfast Communist Integrity, https://laodong.vn/cong-doan/dong-chi-nguyen-duc-canh-tam-guong-nguoi-cong-san-kien-trung-1008082.ldo]
 
 <!-- id: EVT-3501 -->
@@ -6006,6 +6026,9 @@
 *   **1936:** Poet Hàn Mặc Tử (Nguyễn Trọng Trí) published his debut collection *Gái quê* (Country Girl) and co-founded the "Bàn Thành Tứ Hữu" (Four Friends of Bàn Thành / School of Disordered Poetry) with Chế Lan Viên, Yến Lan, and Quách Tấn in Bình Định, introducing a uniquely intense symbolist and surrealist style to the New Poetry Movement. [Source: Dictionary of Literature (New Edition), The Gioi Publishers, Hanoi, 2004]
 
 <!-- id: EVT-1616 -->
+*   **May 2, 1936:** Journalist and translator **Nguyen Van Vinh** passed away near Sepon (Laos) during a field expedition at age 54. [Source: National Museum of History - Early historical milestones of Hanoi journalism, https://baotanglichsu.vn/vi/Articles/3096/18396/nhung-dau-moc-lich-su-ban-djau-cua-bao-chi-ha-noi.html]
+
+<!-- id: EVT-3612 -->
 *   **May 3, 1936:** The French Popular Front, led by Léon Blum, won the election, opening a favorable period for the democratic movement in the colonies. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1617 -->
@@ -8479,6 +8502,13 @@
 *   **1963 - 1968:** Tran Van Lai operated as a commando in Saigon under the guise of a wealthy contractor. He infiltrated key enemy institutions like the Independence Palace and USOM, gathering critical intelligence and secretly mapping the entire Saigon sewer system for the Liberation Army's use. [Source: Military Region 7 High Command, History of the Saigon - Gia Dinh Commandos (1945 - 1975), People's Army Publishing House, Hanoi, 2010]
 
 <!-- id: EVT-2226 -->
+*   **1963:** Following landmark operations at Viet Duc Hospital (notably on January 7, 1961), Professor **Ton That Tung** published his **dry liver resection** technique (the Ton That Tung technique) in *The Lancet*, reducing liver resection times from hours to minutes and gaining international medical adoption. [Source: Vietnam News Agency - Ton That Tung: Pioneer of the dry liver resection technique, https://nvsk.vnanet.vn/ton-that-tung-39cha-de39-phuong-phap-mo-gan-kho-khien-the-gioi-kinh-ngac-1-142295.vna]
+
+![Portrait of Professor Ton That Tung](images/event_20261117_183629.webp)
+
+*Source: Portrait of Professor and surgeon Ton That Tung in 1947 / Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3613 -->
 *   **Jan. 2, 1963:** **Battle of Ap Bac (My Tho):** A force of approximately 350 troops from the Liberation Army of South Vietnam defeated a major sweep operation ("Duc Thang 01-1963") by nearly 1,800 Republic of Vietnam troops commanded by US advisors. Utilizing modern tactics like helicopterborne and armored assaults, the US-ARVN forces suffered heavy casualties (over 80 killed, 5 helicopters shot down, and several M-113 armored vehicles destroyed). This marked the first major victory of the Liberation Army against regular ARVN forces, signaling the potential defeat of the US "Special War" strategy. [Source: Nhan Dan Newspaper - The Ap Bac Victory, https://nhandan.vn/chien-thang-ap-bac-danh-dau-that-bai-chien-thuat-truc-thang-van-thiet-xa-van-cua-my-nguy-post220168.html]
 
 ![Historical Image](images/event_20260924_111702.webp)
@@ -10621,6 +10651,9 @@
 *   **Mar. 27 - 31, 1982:** The 5th National Congress of the Communist Party of Vietnam convened in Hanoi, re-electing Comrade Le Duan as General Secretary of the Party Central Committee; setting out the Third Five-Year Socio-Economic Plan (1981–1985) and taking initial steps to adjust investment structure, identifying agriculture as the frontline priority. [Source: Political Report of the Party Central Committee at the 5th National Congress; Complete Party Documents, Vol. 43 (1982), National Political Publishing House, Hanoi, 2006]
 
 <!-- id: EVT-2776 -->
+*   **May 7, 1982:** Professor and academician **Ton That Tung** (born May 10, 1912) passed away in Hanoi at age 70. [Source: VnExpress - Dr. Ton That Tung: Pioneer of rapid liver surgery, https://vnexpress.net/bac-si-ton-that-tung-cha-de-phuong-phap-mo-gan-sieu-nhanh-cua-the-gioi-4923813.html]
+
+<!-- id: EVT-3614 -->
 *   **Jun. 1982:** Huynh Tan Phat was elected Vice President of the Council of State. [Source: Resolution of the 7th National Assembly at its 3rd Session, June 1982; National Assembly Documents, Vol. 6 (1981 - 1987), National Political Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-2777 -->
