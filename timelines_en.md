@@ -2394,6 +2394,13 @@
 *   **1437:** King Lê Thái Tông promulgated 14 strict Military Orders to regulate military discipline, tactical maneuvers, and severely punish the harassment or mistreatment of civilians. [Source: Complete Annals of Dai Viet – Le Dynasty (Emperor Le Thai Tong, military orders), https://en.wikipedia.org/wiki/L%C3%AA_Th%C3%A1i_T%C3%B4ng]
 
 <!-- id: EVT-0662 -->
+*   **1437 - 1441:** Vietnamese architect and hydraulic engineer **Nguyen An** (taken to China by the Ming dynasty in 1407) served as chief architect overseeing the reconstruction of major palaces inside the Forbidden City and the nine city gate towers of Beijing (including Zhengyangmen). [Source: People's Army Newspaper - Nguyen An, chief architect of ancient Beijing, http://sknc.qdnd.vn/chuyen-xua-nay/nguyen-an-tong-cong-trinh-su-xay-dung-thanh-co-bac-kinh-500515]
+
+![Zhengyangmen gate in Beijing](images/event_20261117_173713.webp)
+
+*Source: Zhengyangmen in Beijing (1900 archival photograph), one of the nine city gates rebuilt under Nguyen An's supervision in 1437–1441 / Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3594 -->
 *   **1442:** The Le court held the first doctoral examination, passing 33 people, including Trang Nguyen (First Laureate) Nguyen Truc. The practice of erecting doctoral stelae at the Temple of Literature began. [Source: First Laureate Honored at the Temple of Literature (Dan Viet), https://danviet.vn/vi-trang-nguyen-dau-tien-duoc-dung-bia-tien-si-o-van-mieu-7777759045-d510757.html]
 
 ![Khue Van pavilion at the Temple of Literature](images/event_20261008_150046_6.webp)
@@ -2417,6 +2424,9 @@
 *   **1443 - 1459:** Phan Phu Tien compiled the *Đại Việt sử ký tục biên* (Continued History of Dai Viet) from Le Van Huu's *Đại Việt sử ký* (History of Dai Viet). [Source: Historian Phan Phu Tien (Nhan Dan), https://nhandan.vn/nha-su-hoc-phan-phu-tien-post470328.html]
 
 <!-- id: EVT-0667 -->
+*   **July 1446:** **Ho Nguyen Trung** (courtesy name Manh Nguyen, pen name Nam Ong) passed away in Beijing under the Ming dynasty at age 73. Taken to China in 1407, he was esteemed by the Ming court for his expertise in manufacturing Than Co firearms and warships, rose to Minister of Works in 1445, and authored the Classical Chinese memoir *Nam Ong Mong Luc* recording figures and anecdotes of the Ly, Tran, and Ho dynasties. [Source: Vietnam Book of Records - Ho Nguyen Trung, pioneer of Vietnamese cannon casting, https://kyluc.vn/tin-tuc/to-nghe/ho-nguyen-trung-ong-to-cua-nghe-duc-sung-than-cong-viet-nam]
+
+<!-- id: EVT-3595 -->
 *   **Nov. 1448:** King Le Nhan Tong married his eldest sister, Princess Ve Quoc (who suffered from mutism), to Le Quat, son of Grand Commander Le Thu. Le Thu used this wedding to solicit bribes from local officials, causing public resentment. [Source: The 10-Year-Old Mute Princess (National Museum of History), https://baotanglichsu.vn/vi/Articles/2001/66541/cong-chua-cam-10-tuoi-va-le-cuoi-chan-djong-thang-long.html]
 
 <!-- id: EVT-0668 -->
@@ -2427,6 +2437,9 @@
 *Source: Dien Ninh coins of Le Nhan Tong era. Photo: Wikimedia Commons*
 
 <!-- id: EVT-0669 -->
+*   **1453:** Chief architect **Nguyen An** passed away while on a flood-control mission along the Yellow River in China. Beyond his architectural planning in Beijing and the Forbidden City, he directed major hydraulic engineering works on the Yellow River and is recorded in Ming chronicles for his integrity and dedication. [Source: Dan Viet - Story of the Vietnamese chief architect who built the Forbidden City, https://danviet.vn/chuyen-kien-truc-su-truong-nguoi-viet-xay-tu-cam-thanh-7777903552-d645814.html]
+
+<!-- id: EVT-3596 -->
 *   **Oct. 28, 1459:** Prince of Lang Son Le Nghi Dan and his followers scaled the forbidden palace walls at night, staging a coup d'état that assassinated King Le Nhan Tong and Empress Dowager Nguyen Thi Anh, usurping the throne and declaring the Thien Hung era. [Source: Le King Murdered by His Brother? (Dan Viet), https://danviet.vn/vi-vua-tai-ba-nao-cua-nha-le-bi-anh-ruot-sat-hai-cuop-ngoi-20250129200625785-d1208262.html]
 
 <!-- id: EVT-0670 -->
@@ -4460,6 +4473,13 @@
 *   **1867 (Dinh Mao year, Tu Duc 20):** Bui Phung passed the Cu Nhan (master's) examination. [Source: Bui Vien (Wikipedia), https://en.wikipedia.org/wiki/Bui_Vien]
 
 <!-- id: EVT-1225 -->
+*   **1867:** Reformer **Dang Huy Tru** served as Commissioner of Commerce (Binh chuan su), establishing the Binh Chuan Ty (Office of Commerce) and trading posts in Hanoi to promote trade, shipbuilding, and mining, generate state revenue, and procure modern weapons and technical equipment for the Nguyen court. [Source: Da Nang Newspaper - Dang Huy Tru's legacy in Quang Nam, https://baodanang.vn/dau-an-dang-huy-tru-o-quang-nam-3034900.html]
+
+![Portrait of Dang Huy Tru](images/event_20261117_173714.webp)
+
+*Source: Portrait of cultural figure and reformer Dang Huy Tru (1865 painting) / Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3597 -->
 *   **Jun. 20, 1867:** French forces led by De Lagrandière arrived at Vinh Long Citadel. Viceroy Phan Thanh Gian surrendered the citadel unconditionally to avoid bloodshed. [Source: Phan Thanh Gian (Wikipedia), https://en.wikipedia.org/wiki/Phan_Thanh_Gian]
 
 <!-- id: EVT-1226 -->
@@ -4500,6 +4520,9 @@
 *   **Feb. 1869:** Chữ Quốc ngữ was mandated for use in official documents in Cochinchina, replacing chữ Nho (classical Chinese characters), according to a decree by Vice Admiral Marie Gustave Hector Ohier. [Source: History of the Vietnamese Alphabet (Wikipedia), https://en.wikipedia.org/wiki/Vietnamese_alphabet]
 
 <!-- id: EVT-1237 -->
+*   **March 14, 1869:** **Dang Huy Tru** opened the **Cam Hieu Duong** photography studio on Thanh Ha Street in Hanoi using camera equipment and supplies brought back from Hong Kong. It was Vietnam's first photography studio, marking the birth of Vietnamese photography. [Source: Photography and Life Magazine - Dang Huy Tru's 1869 Cam Hieu Duong studio advertisement, https://nhiepanhdoisong.vn/bai-quang-cao-hieu-anh-cam-hieu-duong-nam-1869-cua-danh-nhan-van-hoa-dang-huy-tru-1021.html]
+
+<!-- id: EVT-3598 -->
 *   **May 16, 1869:** Cochinchina Governor Ohier signed a decree transferring management of the *Gia Định báo* newspaper to Trương Vĩnh Ký as Director and Huỳnh Tịnh Của as Editor-in-Chief. This marked the milestone of *Gia Định báo* becoming the first newspaper managed by Vietnamese intellectuals, transforming it from an administrative gazette into a socio-cultural publication that decisively popularized and standardized chữ Quốc ngữ. [Source: Gia Dinh Bao (National Museum of History), https://baotanglichsu.vn/VI/Articles/3097/13409/gia-djinh-bao-to-bao-chu-quoc-ngu-djau-tien-o-viet-nam.html]
 
 <!-- id: EVT-1238 -->
@@ -4519,6 +4542,9 @@
 *   **1871:** Patriotic Confucian scholar Nguyễn Khuyến achieved first place across all three imperial examination tiers—Regional (Giải nguyên in 1864), Metropolitan (Hội nguyên), and Palace (Đình nguyên - Hoàng giáp) exams—under Emperor Tự Đức, earning the illustrious title "Tam Nguyên Yên Đổ" in Vietnamese academic history. [Source: Nguyen Khuyen (Wikipedia), https://en.wikipedia.org/wiki/Nguyen_Khuyen]
 
 <!-- id: EVT-1242 -->
+*   **1871 - 1872:** Assigned by Hai-Yen Governor-General Pham Phu Thu, **Bui Vien** directed the reclamation of coastal marshlands along the Cam River, constructing **Ninh Hai landing** and tax-collecting trading posts that laid the foundation for the port and city of Hai Phong. [Source: Hai Phong City Party Committee History Portal - Bui Vien, https://lichsudangbo.haiphong.gov.vn/nhan-vat-lich-su-cach-mang-tieu-bieu-cua-hai-phong/bui-vien-2953]
+
+<!-- id: EVT-3599 -->
 *   **Nov. 1872:** Jean Dupuis, a French merchant, began causing disturbances in Tonkin (Bac Ky), under the pretext of transporting goods to Yunnan. [Source: Jean Dupuis (Wikipedia), https://en.wikipedia.org/wiki/Jean_Dupuis]
 
 <!-- id: EVT-1243 -->
@@ -4549,15 +4575,28 @@
 *   **1874:** The uprising of Tran Tan and Dang Nhu Mai broke out in Nghe An and Ha Tinh with the slogan "Sat Ta" (Kill the Heretics), opposing the Treaty of Giap Tuat and the spread of Catholicism. [Source: Tran Tan (Vietnamese Wikipedia), https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_T%E1%BA%A5n]
 
 <!-- id: EVT-1252 -->
+*   **1874 - 1878:** Serving as Governor-General of Hai-Yen (Hai Duong and Quang Yen) and Chief Commissioner of Commerce, **Pham Phu Thu** led famine relief, land reclamation, and irrigation works while organizing the printing and dissemination of Western scientific, technical, and legal works (such as *Bac Vat Tan Bien*, *Khai Moi Yeu Phap*, *Hang Hai Kim Cham*, and *Van Quoc Cong Phap*) to champion national modernization. [Source: Da Nang Newspaper - Pham Phu Thu's contributions to Hai Duong and Quang Yen, https://baodanang.vn/dong-gop-cua-pham-phu-thu-doi-voi-hai-duong-va-quang-yen-3234743.html]
+
+![Portrait of Pham Phu Thu](images/event_20261117_173716.webp)
+
+*Source: Portrait of Nguyen dynasty official and reformer Pham Phu Thu photographed in Paris in 1863 / Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3601 -->
 *   **Feb. 1874:** French forces withdrew from Hanoi and the other occupied cities in Tonkin. [Source: Francis Garnier (Wikipedia), https://en.wikipedia.org/wiki/Francis_Garnier]
 
 <!-- id: EVT-1253 -->
 *   **Mar. 15, 1874:** The Hue court (represented by Le Tuan and Nguyen Van Tuong) signed the Treaty of Giap Tuat with France (represented by Rear Admiral Dupré), recognizing France's permanent sovereignty over the six provinces of Cochinchina and agreeing to open Tonkin to French trade and the stationing of a Consul. [Source: Treaty of Saigon 1874 (Wikipedia), https://en.wikipedia.org/wiki/Treaty_of_Saigon_(1874)]
 
 <!-- id: EVT-1254 -->
+*   **August 7, 1874:** Reformer and poet **Dang Huy Tru** passed away at the Dong Vang base (present-day Hanoi) while participating in the resistance movement against French colonialism alongside Governor-General Hoang Ke Viem. [Source: Da Nang Newspaper - Dang Huy Tru's legacy in Quang Nam, https://baodanang.vn/dau-an-dang-huy-tru-o-quang-nam-3034900.html]
+
+<!-- id: EVT-3600 -->
 *   **Aug. 31, 1874:** The Commercial Treaty was signed in Saigon, regulating trade duties and regulations at the newly opened ports of Thi Nai (Binh Dinh), Ninh Hai (Hai Duong), and Hanoi. [Source: Commercial Treaty of Saigon 1874 (Wikipedia), https://en.wikipedia.org/wiki/Treaty_of_Saigon_(1874)]
 
 <!-- id: EVT-1255 -->
+*   **1875:** **Bui Vien** undertook a second diplomatic mission to the United States carrying official credentials from Emperor Tu Duc to seek diplomatic ties and support against French encroachment, though the mission did not succeed amid unfavorable international circumstances (modern historians note that certain details of his U.S. missions remain subject to further archival verification). [Source: Dan Viet - Bui Vien: The first Vietnamese envoy to the United States, https://danviet.vn/bui-vien-su-gia-viet-dau-tien-den-hoa-ky-bi-phap-dau-doc-chet-20220923143840801-d1045297.html]
+
+<!-- id: EVT-3602 -->
 *   **Late 1875:** The Hue court established the **Coastal Defense Office** (Nha Hai Phong) at Thuan An estuary and the **Patrol and Transport Office** (Nha Tuan Tai) to strengthen coastal defense and manage water transport. [Source: First Cruiser Fleet and Patrol Office (Voice of Vietnam), https://vov.gov.vn/doi-tuan-duong-quan-dau-tien-cua-viet-nam-dtnew-388799]
 
 <!-- id: EVT-1256 -->
@@ -4613,6 +4652,9 @@
 *Source: Dai Nam Nhat Thong Chi gazetteer. Photo: Wikimedia Commons*
 
 <!-- id: EVT-1272 -->
+*   **1882:** Reformer and senior official **Pham Phu Thu** (deputy envoy on the 1863–1864 diplomatic mission to France and Spain and author of *Tay Hanh Nhat Ky*) passed away in his home province of Quang Nam, receiving the posthumous title Van Y Cong from Emperor Tu Duc. [Source: Department of Cultural Heritage - Tomb of Pham Phu Thu, Quang Nam province, https://dsvh.gov.vn/mo-pham-phu-thu-tinh-quang-nam-22325]
+
+<!-- id: EVT-3603 -->
 *   **Jan. 1, 1882:** All official dispatches and public notices were required to be written in chữ Quốc ngữ. Concurrently, only those literate in chữ Quốc ngữ could be appointed to administrative bodies (at the prefecture, district, and canton levels) or be considered for promotion. [Source: Chữ Quốc ngữ in French Language Policy in Cochinchina (VietNamNet), https://vietnamnet.vn/chu-quoc-ngu-trong-chinh-sach-ngon-ngu-cua-nguoi-phap-o-nam-ky-728860.html]
 
 <!-- id: EVT-1273 -->
@@ -4756,6 +4798,9 @@
 *Source: Portrait of Emperor Ham Nghi / Wikimedia Commons*
 
 <!-- id: EVT-1308 -->
+*   **Aug. 29, 1885:** Imperial Academy Reader **Dang Huu Pho** (born 1854 in Bac Vong village, Quang Dien district, Thua Thien Hue; passed the Master's examination in 1878, son of Prince Consort Dang Huy Cat and Princess Tinh Hoa) was executed by French colonial forces at Quai Vac ferry landing (Quang Dien). Earlier, responding to the pro-war faction at the Hue court led by Ton That Thuyet, on the night of July 4–5, 1885, Dang Huu Pho and his father led the "Doan Kiet" insurgent unit in an attack on the Quang Dien district office; after the uprising failed and they were captured, he refused all offers of surrender, took full responsibility to spare his father, and died with unwavering integrity. [Source: Hue Today Newspaper - Visiting the Thi Doc Shrine in Bac Vong, https://huengaynay.vn/du-lich/di-san-van-hoa/ve-bac-vong-tham-mieu-thi-doc-3330.html; Wikipedia - Dang Huu Pho, https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B7ng_H%E1%BB%AFu_Ph%E1%BB%95]
+
+<!-- id: EVT-3592 -->
 *   **Sep. 1885:** Nguyen Ba Loan led the Quang Ngai Righteous Association in response to the Can Vuong Edict. [Source: Nguyen Ba Loan and the Quang Ngai Righteous Association (Quang Ngai Newspaper), https://baoquangngai.vn/van-hoa-van-nghe/202107/chi-si-nguyen-ba-loan-nguoi-khoi-xuong-nghia-hoi-quang-ngai-3067160/]
 
 <!-- id: EVT-1309 -->
@@ -5918,6 +5963,13 @@
 *   **1934:** After studying at Hanoi Medical University from 1928, Pham Ngoc Thach continued his training in France and graduated as a Doctor of Medicine in Paris; thanks to his outstanding record, he was retained as an assistant at the Paris Faculty of Medicine specializing in tuberculosis and pulmonary diseases while also serving as an assistant at Laennec Hospital for two years, and from 1936 he was the only member in Indochina of the French Society for Tuberculosis Research. [Source: Doctor Pham Ngoc Thach - former Minister of Health (Pham Ngoc Thach University of Medicine), https://www.pnt.edu.vn/vi/gioi-thieu/bac-si-pham-ngoc-thach]
 
 <!-- id: EVT-3471 -->
+*   **1934:** **Nguyen Van Huyen** successfully defended his doctoral dissertation in Letters at the University of Sorbonne (Paris, France), becoming the first Vietnamese scholar to earn a doctorate at the institution. [Source: Nhan Dan - A towering figure of modern Vietnamese social sciences and humanities, https://special.nhandan.vn/cay-dai-thu-cua-khoa-hoc-xa-hoi-nhan-van-viet-nam-hien-dai/index.html]
+
+![Portrait of Nguyen Van Huyen](images/event_20261117_173717.webp)
+
+*Source: Portrait of Professor Nguyen Van Huyen as a young scholar in France / Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3604 -->
 *   **Mar. 1934:** Under the guidance of the Communist International, the **Overseas Command Bureau of the Indochinese Communist Party** was established in Macao with Comrade Le Hong Phong as Secretary; functioning as a provisional Central Committee, this body led the restoration of shattered Party networks and preparations for the 1st National Congress. [Source: History of Vietnam (Vol. 9: 1930–1945), Social Sciences Publishing House, Hanoi, 2017]
 
 <!-- id: EVT-1606 -->
@@ -6779,6 +6831,9 @@
 *Source: The 1946 Constitution of the Democratic Republic of Vietnam*
 
 <!-- id: EVT-1816 -->
+*   **November 3, 1946:** At the second session of the First National Assembly, Professor **Nguyen Van Huyen** was appointed **Minister of National Education** by President Ho Chi Minh. Serving continuously for nearly 29 years (1946–1975), he directed the Popular Education literacy campaign, established Vietnamese as the primary language of university instruction, and built Vietnam's general education system through two resistance wars. [Source: VnExpress - Professor Nguyen Van Huyen, the Minister who brought literacy to the people, https://vnexpress.net/giao-su-nguyen-van-huyen-vi-bo-truong-chia-chu-cho-dan-4926612.html]
+
+<!-- id: EVT-3605 -->
 *   **Nov. 7, 1946:** President Ho Chi Minh issued the *"Notice on Adopting the Children of Martyrs"*, declaring that on behalf of the Fatherland and the people, he would sponsor and foster all orphaned children of martyrs who sacrificed their lives for national independence, instructing local authorities to compile lists and ensure full welfare support for the nation's young generation. [Source: Biography of President Ho Chi Minh (Ho Chi Minh Museum), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1817 -->
@@ -8782,6 +8837,9 @@
 *Source: Map of US Marine Operation Starlite at Van Tuong (Quang Ngai) on August 18–19, 1965. Photo: United States Marine Corps / Wikimedia Commons, Public domain*
 
 <!-- id: EVT-2317 -->
+*   **October 1, 1965:** Professor **Ta Quang Buu** (who had previously overseen the development of Bazooka anti-tank rockets in the Viet Bac base in 1947 and served as Minister of National Defense in 1947–1948) was appointed the first Minister of **Higher and Vocational Education** (1965–1976), leading university evacuations and the training of scientific and technical personnel during the Vietnam War. [Source: Ho Chi Minh City Party Committee Portal - Ta Quang Buu: Revolutionary intellectual and talented scientist, https://hcmcpv.org.vn/tin-tap-chi/so-tay-xay-dung-dang-7-2016/ta-quang-buu-nha-tri-thuc-cach-mang-nha-khoa-hoc-tai-nang-1471493466]
+
+<!-- id: EVT-3606 -->
 *   **Oct. 15, 1965:** Exactly one year after Nguyễn Văn Trỗi's martyrdom, Phan Thị Quyên presented their wedding photograph to Trần Độ (Chín Vinh), Member of the Central Office for South Vietnam and Deputy Political Commissar of the Liberation Army. [Source: Propaganda and Training Commission of the Ho Chi Minh City Party Committee; Memoir "Live like Him" by Tran Dinh Van; Tuoi Tre Newspaper]
 
 <!-- id: EVT-2318 -->
@@ -10188,6 +10246,9 @@
 *   **Oct. 11, 1975:** In Tokyo, the Government of Japan and the Government of the Democratic Republic of Vietnam signed an agreement providing a non-refundable grant of 8.5 billion Yen (approx. 28 million USD) for fiscal year 1975 for economic reconstruction and development. This served as a compromise diplomatic formula ("de facto reparations"): as Tokyo declined to officially use the term "war reparations" after having concluded an agreement with Saigon in 1959, this reconstruction grant functioned as substantive compensation for wartime devastation and the 1945 famine in the North. [Source: Ministry of Foreign Affairs, Vietnamese Diplomacy 1945 - 2000, National Political Publishing House, Hanoi, 2002; Ministry of Foreign Affairs of Japan (MOFA), Diplomatic Bluebook 1976]
 
 <!-- id: EVT-2670 -->
+*   **October 19, 1975:** Professor **Nguyen Van Huyen** passed away in Hanoi while still serving as Minister of Education, completing the longest ministerial tenure in the history of Vietnamese education. [Source: Nhan Dan - A towering figure of modern Vietnamese social sciences and humanities, https://special.nhandan.vn/cay-dai-thu-cua-khoa-hoc-xa-hoi-nhan-van-viet-nam-hien-dai/index.html]
+
+<!-- id: EVT-3607 -->
 *   **Nov. 5, 1975:** Former Mayor of Hanoi, Doctor Tran Van Lai, passed away at the age of 81. [Source: Ha Noi Moi Newspaper; Vietnam Association of Historical Sciences; Hanoi People's Committee E-Portal]
 
 <!-- id: EVT-2671 -->
@@ -11220,6 +11281,13 @@
 *   **Aug. 1, 1997 (Dinh Suu year):** Former Emperor Bao Dai (Nguyen Phuc Vinh Thuy), the last reigning emperor of imperial Vietnam, passed away at the Val-de-Grâce military hospital in Paris (France) at the age of 83, bringing a definitive close to Vietnam's monarchical era. [Source: Bao Dai, Le Dragon d'Annam (Memoirs), Plon, Paris, 1980; Le Monde, Aug. 2, 1997; AFP News Agency]
 
 <!-- id: EVT-2959 -->
+*   **Aug. 9, 1997:** Major General, Professor, Academician, and Labor Hero **Tran Dai Nghia** (birth name **Pham Quang Le**, born September 13, 1913) passed away in Ho Chi Minh City at the age of 83. In 1946, he gave up a lucrative career in France to return to Vietnam with President Ho Chi Minh and join the resistance against French colonialism, serving as Director of the Ordnance Department. Despite severe shortages of machinery and raw materials, he and his colleagues successfully designed and manufactured Bazooka rounds (1947), SKZ recoilless guns (1949), and flying bombs, enabling Vietnamese forces to destroy enemy tanks and reinforced concrete bunkers; he was awarded the first Ho Chi Minh Prize in 1996. [Source: Vietnam News Agency (Historical Figures & Events) - Tran Dai Nghia (1913–1997), https://nvsk.vnanet.vn/ho-so/tran-dai-nghia-1913-1997-3-124842.vna; VnExpress - Tran Dai Nghia, Vietnam's Weapons Pioneer, https://vnexpress.net/tran-dai-nghia-ong-vua-vu-khi-viet-nam-2878702.html; Vietnam National Museum of History, https://baotanglichsu.vn/vi/Articles/3098/14892/giao-su-vien-si-tran-dai-nghia.html]
+
+![Portrait of Professor Tran Dai Nghia](images/event_20261117_172557.webp)
+
+*Source: Portrait of Major General, Professor, Academician Tran Dai Nghia, archival image on Vietnamese Wikipedia (File:Thiếu tướng, GS.VS, AHLĐ Trần Đại Nghĩa (1913-1997).jpg)*
+
+<!-- id: EVT-3593 -->
 *   **Sep. 24, 1997:** The 1st session of the 10th National Assembly elected Comrade Tran Duc Luong as State President and Comrade Phan Van Khai as Prime Minister of the Socialist Republic of Vietnam (on September 25, 1997). Both leaders served as heads of state and government for two consecutive terms (1997–2006), successfully steering the national economy through the Asian Financial Crisis and into comprehensive global integration. [Source: Resolution of the 10th National Assembly at its First Session, Sept. 24, 1997; National Assembly Documents, Vol. 9 (1997 - 2002), National Political Publishing House, Hanoi, 2008]
 
 <!-- id: EVT-2960 -->

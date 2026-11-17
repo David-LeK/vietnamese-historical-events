@@ -2394,6 +2394,13 @@
 *   **1437:** Vua Lê Thái Tông ban hành 14 điều Quân lệnh nghiêm ngặt nhằm chấn chỉnh kỷ luật quân ngũ, quy định thao diễn chiến thuật và xử phạt nghiêm khắc các hành vi ức hiếp, nhũng nhiễu bách tính. [Nguồn: Đại Việt sử ký toàn thư – Kỷ nhà Lê (Thái Tông hoàng đế, 14 điều Quân lệnh), https://vi.wikipedia.org/wiki/L%C3%AA_Th%C3%A1i_T%C3%B4ng]
 
 <!-- id: EVT-0662 -->
+*   **1437 - 1441:** Kiến trúc sư, kỹ sư thủy lợi người Việt **Nguyễn An** (bị nhà Minh bắt đưa sang Trung Quốc năm 1407) giữ vai trò tổng công trình sư chỉ đạo tu sửa các cung điện trọng yếu trong Tử Cấm Thành và xây dựng lại hệ thống 9 tòa tháp cổng thành của kinh đô Bắc Kinh (trong đó có Chính Dương Môn). [Nguồn: Báo Quân đội nhân dân - Nguyễn An, tổng công trình sư xây dựng thành cổ Bắc Kinh, http://sknc.qdnd.vn/chuyen-xua-nay/nguyen-an-tong-cong-trinh-su-xay-dung-thanh-co-bac-kinh-500515]
+
+![Chính Dương Môn ở Bắc Kinh](images/event_20261117_173713.webp)
+
+*Nguồn: Chính Dương Môn ở Bắc Kinh (ảnh tư liệu năm 1900), một trong chín cổng thành do Nguyễn An chỉ đạo xây dựng lại giai đoạn 1437–1441 / Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3594 -->
 *   **1442:** Triều Lê tổ chức khoa thi Tiến sĩ đầu tiên, lấy đỗ 33 người, trong đó có Trạng nguyên Nguyễn Trực. Bắt đầu cho dựng bia Tiến sĩ ở Văn Miếu. [Nguồn: Trạng nguyên đầu tiên có bia ở Văn Miếu (Dân Việt), https://danviet.vn/vi-trang-nguyen-dau-tien-duoc-dung-bia-tien-si-o-van-mieu-7777759045-d510757.html]
 
 ![Gác Khuê Văn tại Văn Miếu](images/event_20261008_150046_6.webp)
@@ -2417,6 +2424,9 @@
 *   **1443 - 1459:** Phan Phu Tiên biên soạn *Đại Việt sử ký tục biên* từ *Đại Việt sử ký* của Lê Văn Hưu. [Nguồn: Nhà sử học Phan Phu Tiên (Nhân Dân), https://nhandan.vn/nha-su-hoc-phan-phu-tien-post470328.html]
 
 <!-- id: EVT-0667 -->
+*   **07/1446:** **Hồ Nguyên Trừng** (tự Mạnh Nguyên, hiệu Nam Ông) qua đời tại Bắc Kinh dưới triều nhà Minh, thọ 73 tuổi. Sau khi bị bắt sang Trung Quốc năm 1407, nhờ tài chế tạo súng Thần cơ (Thần cơ sang pháo) và đóng chiến thuyền, ông được triều Minh trọng dụng, thăng đến chức Thượng thư Bộ Công (năm 1445) và biên soạn tập ký sự chữ Hán *Nam Ông mộng lục* ghi lại nhiều nhân vật, sự tích thời Lý – Trần – Hồ. [Nguồn: Tổ chức Kỷ lục Việt Nam - Hồ Nguyên Trừng: Ông tổ của nghề đúc súng thần công Việt Nam, https://kyluc.vn/tin-tuc/to-nghe/ho-nguyen-trung-ong-to-cua-nghe-duc-sung-than-cong-viet-nam]
+
+<!-- id: EVT-3595 -->
 *   **11/1448:** Vua Lê Nhân Tông gả chị cả là Vệ Quốc Trưởng Công chúa (bị câm) cho Lê Quát, con trai Thái úy Lê Thụ. Lê Thụ nhân dịp này đã sách nhiễu, đòi hỏi lễ vật của các trấn, lộ khiến dư luận bất bình. [Nguồn: Công chúa câm 10 tuổi (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/2001/66541/cong-chua-cam-10-tuoi-va-le-cuoi-chan-djong-thang-long.html]
 
 <!-- id: EVT-0668 -->
@@ -2427,6 +2437,9 @@
 *Nguồn: Tiền Diên Ninh thời Lê Nhân Tông. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-0669 -->
+*   **1453:** Tổng công trình sư **Nguyễn An** qua đời trên đường đi làm nhiệm vụ trị thủy sông Hoàng Hà tại Trung Quốc. Bên cạnh dấu ấn quy hoạch kinh thành Bắc Kinh và Tử Cấm Thành, ông còn chỉ huy nhiều công trình trị thủy sông Hoàng Hà, sông Tái Dương và được sử sách nhà Minh ghi nhận về đức tính thanh liêm, tận tụy. [Nguồn: Báo Dân Việt - Chuyện kiến trúc sư trưởng người Việt xây Tử Cấm Thành, https://danviet.vn/chuyen-kien-truc-su-truong-nguoi-viet-xay-tu-cam-thanh-7777903552-d645814.html]
+
+<!-- id: EVT-3596 -->
 *   **28/10/1459:** Lạng Sơn vương Lê Nghi Dân cùng thuộc hạ đang đêm bắc thang trèo tường vào cấm cung làm binh biến sát hại vua Lê Nhân Tông và Hoàng thái hậu Nguyễn Thị Anh, cướp ngôi và đặt niên hiệu Thiên Hưng. [Nguồn: Vua Lê bị anh sát hại cướp ngôi? (Dân Việt), https://danviet.vn/vi-vua-tai-ba-nao-cua-nha-le-bi-anh-ruot-sat-hai-cuop-ngoi-20250129200625785-d1208262.html]
 
 <!-- id: EVT-0670 -->
@@ -4460,6 +4473,13 @@
 *   **Năm 1867 (Đinh Mão, Tự Đức thứ 20):** Bùi Phủng thi đỗ cử nhân. [Nguồn: Bùi Viện (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/B%C3%B9i_Vi%E1%BB%87n]
 
 <!-- id: EVT-1225 -->
+*   **1867:** Nhà cải cách **Đặng Huy Trứ** đảm nhiệm chức Bình chuẩn sứ, thành lập Ty Bình Chuẩn (Bình Chuẩn Ty) và các thương điếm tại Hà Nội nhằm phát triển thương mại, đóng tàu thủy, khai thác mỏ, tạo nguồn tài chính và mua sắm vũ khí, thiết bị kỹ thuật cho triều đình nhà Nguyễn. [Nguồn: Báo Đà Nẵng - Dấu ấn Đặng Huy Trứ ở Quảng Nam, https://baodanang.vn/dau-an-dang-huy-tru-o-quang-nam-3034900.html]
+
+![Chân dung Đặng Huy Trứ](images/event_20261117_173714.webp)
+
+*Nguồn: Chân dung danh nhân văn hóa Đặng Huy Trứ (tranh truyền thần năm 1865) / Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3597 -->
 *   **20/06/1867:** Quân Pháp do La Grandière chỉ huy tiến đến trước thành Vĩnh Long. Kinh lược sứ Phan Thanh Giản quyết định trao thành không điều kiện để tránh đổ máu. [Nguồn: Phan Thanh Giản (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Phan_Thanh_Gi%E1%BA%A3n]
 
 <!-- id: EVT-1226 -->
@@ -4500,6 +4520,9 @@
 *   **02/1869:** Chữ quốc ngữ được quy định dùng bắt buộc thay chữ Nho trong công văn ở Nam Kỳ, theo nghị định của Phó đô đốc Marie Gustave Hector Ohier. [Nguồn: Lịch sử chữ Quốc ngữ (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Ch%E1%BB%AF_Qu%E1%BB%91c_ng%E1%BB%AF]
 
 <!-- id: EVT-1237 -->
+*   **14/03/1869:** **Đặng Huy Trứ** khai trương hiệu ảnh **Cảm Hiếu Đường** tại phố Thanh Hà (Hà Nội) bằng máy ảnh và vật tư đưa từ Hương Cảng về. Đây là hiệu ảnh đầu tiên ở Việt Nam, đánh dấu sự ra đời của ngành nhiếp ảnh Việt Nam. [Nguồn: Tạp chí Nhiếp ảnh và Đời sống - Bài quảng cáo hiệu ảnh Cảm Hiếu Đường năm 1869 của danh nhân văn hóa Đặng Huy Trứ, https://nhiepanhdoisong.vn/bai-quang-cao-hieu-anh-cam-hieu-duong-nam-1869-cua-danh-nhan-van-hoa-dang-huy-tru-1021.html]
+
+<!-- id: EVT-3598 -->
 *   **16/05/1869:** Thống đốc Nam Kỳ Ohier ký nghị định chuyển giao tờ báo *Gia Định báo* cho Trương Vĩnh Ký làm Giám đốc (Chánh tổng tài) cùng Huỳnh Tịnh Của làm Chủ bút. Đây là mốc lịch sử đưa *Gia Định báo* trở thành cơ quan ngôn luận đầu tiên do người Việt điều hành, chuyển từ tính chất công báo hành chính sang tờ báo văn hóa - xã hội, góp phần quyết định vào việc truyền bá và chuẩn hóa chữ Quốc ngữ. [Nguồn: Gia Định báo (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/VI/Articles/3097/13409/gia-djinh-bao-to-bao-chu-quoc-ngu-djau-tien-o-viet-nam.html]
 
 <!-- id: EVT-1238 -->
@@ -4519,6 +4542,9 @@
 *   **1871:** Nhà nho yêu nước Nguyễn Khuyến đỗ đầu cả ba kỳ thi Hương (Giải nguyên năm 1864), thi Hội (Hội nguyên) và thi Đình (Đình nguyên - Hoàng giáp) dưới triều vua Tự Đức, trở thành vị "Tam Nguyên Yên Đổ" lừng danh trong lịch sử khoa bảng Việt Nam. [Nguồn: Nguyễn Khuyến (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Khuy%E1%BA%BFn]
 
 <!-- id: EVT-1242 -->
+*   **1871 - 1872:** Theo phân công của Tổng đốc Hải - Yên Phạm Phú Thứ, **Bùi Viện** trực tiếp chỉ huy khai hoang vùng đầm lầy ven sông Cấm, xây dựng **bến Ninh Hải** và hệ thống thương điếm thu thuế, đặt nền móng đầu tiên cho sự hình thành thương cảng và thành phố Hải Phòng sau này. [Nguồn: Cổng thông tin Lịch sử Đảng bộ thành phố Hải Phòng - Bùi Viện, https://lichsudangbo.haiphong.gov.vn/nhan-vat-lich-su-cach-mang-tieu-bieu-cua-hai-phong/bui-vien-2953]
+
+<!-- id: EVT-3599 -->
 *   **11/1872:** Jean Dupuis, một lái buôn người Pháp, bắt đầu gây rối ở Bắc Kỳ, lấy cớ vận chuyển hàng hóa lên Vân Nam. [Nguồn: Jean Dupuis (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Jean_Dupuis]
 
 <!-- id: EVT-1243 -->
@@ -4549,15 +4575,28 @@
 *   **1874:** Cuộc khởi nghĩa của Trần Tấn và Đặng Như Mai nổ ra ở Nghệ An và Hà Tĩnh với khẩu hiệu "Sát Tả", phản đối Hòa ước Giáp Tuất và sự lan truyền của đạo Thiên Chúa. [Nguồn: Trần Tấn (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_T%E1%BA%A5n]
 
 <!-- id: EVT-1252 -->
+*   **1874 - 1878:** Trên cương vị Tổng đốc Hải - Yên (Hải Dương và Quảng Yên) kiêm Tổng lý thương chánh đại thần, **Phạm Phú Thứ** đẩy mạnh cứu đói, khai hoang thủy lợi và tổ chức khắc in, phổ biến nhiều tân thư khoa học, kỹ thuật và luật pháp phương Tây (như *Bác vật tân biên*, *Khai môi yếu pháp*, *Hàng hải kim châm*, *Vạn quốc công pháp*) nhằm cổ vũ công cuộc canh tân đất nước. [Nguồn: Báo Đà Nẵng - Đóng góp của Phạm Phú Thứ đối với Hải Dương và Quảng Yên, https://baodanang.vn/dong-gop-cua-pham-phu-thu-doi-voi-hai-duong-va-quang-yen-3234743.html]
+
+![Chân dung Phạm Phú Thứ](images/event_20261117_173716.webp)
+
+*Nguồn: Chân dung đại thần, nhà cải cách Phạm Phú Thứ chụp tại Paris năm 1863 / Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3601 -->
 *   **02/1874:** Quân Pháp rút khỏi Hà Nội và các tỉnh thành đã chiếm ở Bắc Kỳ. [Nguồn: Francis Garnier (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/Francis_Garnier]
 
 <!-- id: EVT-1253 -->
 *   **15/03/1874:** Triều đình Huế (đại diện là Lê Tuấn và Nguyễn Văn Tường) ký Hòa ước Giáp Tuất với Pháp (đại diện là Thiếu tướng Dupré), công nhận chủ quyền vĩnh viễn của Pháp ở 6 tỉnh Nam Kỳ, chấp nhận để Pháp mở cửa thông thương ở Bắc Kỳ và đặt Lãnh sự. Chính thức mở các cửa biển Thị Nại (Bình Định), Ninh Hải (Hải Dương) và thành phố Hà Nội cho thương nhân nước ngoài. [Nguồn: Hòa ước Giáp Tuất 1874 (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/H%C3%B2a_%C6%B0%E1%BB%9Bc_Gi%C3%A1p_Tu%E1%BA%A5t_(1874)]
 
 <!-- id: EVT-1254 -->
+*   **07/08/1874:** Nhà cải cách, nhà thơ **Đặng Huy Trứ** qua đời tại căn cứ Đồn Vàng (nay thuộc Hà Nội) trong lúc tham gia phong trào kháng chiến chống thực dân Pháp cùng Tổng đốc Hoàng Kế Viêm. [Nguồn: Báo Đà Nẵng - Dấu ấn Đặng Huy Trứ ở Quảng Nam, https://baodanang.vn/dau-an-dang-huy-tru-o-quang-nam-3034900.html]
+
+<!-- id: EVT-3600 -->
 *   **31/08/1874:** Ký kết Thương ước giữa Đại Nam và Pháp tại Sài Gòn, quy định chi tiết về thuế quan và quy chế thương mại tại các cửa biển mới mở. [Nguồn: Thương ước Pháp - Nam 1874 (Wikipedia tiếng Việt), https://vi.wikipedia.org/wiki/H%C3%B2a_%C6%B0%E1%BB%9Bc_Gi%C3%A1p_Tu%E1%BA%A5t_(1874)]
 
 <!-- id: EVT-1255 -->
+*   **1875:** **Bùi Viện** thực hiện chuyến đi sứ sang Hoa Kỳ lần thứ hai với quốc thư chính thức của vua Tự Đức nhằm tìm kiếm quan hệ ngoại giao và sự ủng hộ đối trọng với thực dân Pháp, tuy nhiên sứ mệnh không đạt kết quả do bối cảnh quốc tế bất lợi (một số sử liệu hiện đại lưu ý các chi tiết về hành trình sang Mỹ này còn cần tiếp tục đối chiếu thêm). [Nguồn: Báo Dân Việt - Bùi Viện: Sứ giả Việt đầu tiên đến Hoa Kỳ, https://danviet.vn/bui-vien-su-gia-viet-dau-tien-den-hoa-ky-bi-phap-dau-doc-chet-20220923143840801-d1045297.html]
+
+<!-- id: EVT-3602 -->
 *   **Cuối 1875:** Triều đình thành lập **Nha Hải phòng** tại cửa biển Thuận An và **Nha Tuần tải** để tăng cường phòng thủ bờ biển và quản lý vận tải đường thủy. [Nguồn: Đội tuần dương quân và Nha Tuần tải (Đài Tiếng nói Việt Nam), https://vov.gov.vn/doi-tuan-duong-quan-dau-tien-cua-viet-nam-dtnew-388799]
 
 <!-- id: EVT-1256 -->
@@ -4613,6 +4652,9 @@
 *Nguồn: Bộ sách Đại Nam nhất thống chí. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-1272 -->
+*   **1882:** Nhà cải cách, đại thần **Phạm Phú Thứ** (Phó sứ trong phái đoàn đi Pháp và Tây Ban Nha năm 1863–1864, tác giả *Tây hành nhật ký*) qua đời tại quê nhà Quảng Nam, được vua Tự Đức ban thụy hiệu Văn Ý công. [Nguồn: Cục Di sản văn hóa - Mộ Phạm Phú Thứ, tỉnh Quảng Nam, https://dsvh.gov.vn/mo-pham-phu-thu-tinh-quang-nam-22325]
+
+<!-- id: EVT-3603 -->
 *   **01/01/1882:** Mọi công văn, văn bản niêm yết đều phải viết bằng chữ quốc ngữ. Đồng thời, chỉ người biết chữ quốc ngữ mới được bổ nhiệm vào cơ quan cai trị (cấp phủ, huyện, tổng) hoặc được xét tăng trật. [Nguồn: Chữ Quốc ngữ trong chính sách của người Pháp ở Nam Kỳ (Báo VietNamNet), https://vietnamnet.vn/chu-quoc-ngu-trong-chinh-sach-ngon-ngu-cua-nguoi-phap-o-nam-ky-728860.html]
 
 <!-- id: EVT-1273 -->
@@ -4756,6 +4798,9 @@
 *Nguồn: Chân dung vua Hàm Nghi / Wikimedia Commons*
 
 <!-- id: EVT-1308 -->
+*   **29/08/1885:** Thị độc Học sĩ Hàn lâm viện **Đặng Hữu Phổ** (sinh năm 1854 tại làng Bác Vọng, huyện Quảng Điền, tỉnh Thừa Thiên Huế; đỗ Cử nhân năm 1878, là con trai Phò mã Đặng Huy Cát và Công chúa Tĩnh Hòa) bị thực dân Pháp xử tử tại bến đò Quai Vạc (Quảng Điền). Trước đó, hưởng ứng phe chủ chiến trong triều đình Huế do Tôn Thất Thuyết đứng đầu, đêm mồng 4 rạng sáng ngày 05/07/1885, hai cha con Đặng Huy Cát – Đặng Hữu Phổ đã chỉ huy đội nghĩa quân "Đoàn kiệt" tập kích huyện nha Quảng Điền nhưng bất thành và bị bắt; khi bị dụ hàng, ông kiên quyết giữ trọn khí tiết, nhận hết trách nhiệm để cứu cha và anh dũng hy sinh. [Nguồn: Báo Huế Ngày Nay - Về Bác Vọng thăm miếu Thị Độc, https://huengaynay.vn/du-lich/di-san-van-hoa/ve-bac-vong-tham-mieu-thi-doc-3330.html; Wikipedia - Đặng Hữu Phổ, https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B7ng_H%E1%BB%AFu_Ph%E1%BB%95]
+
+<!-- id: EVT-3592 -->
 *   **09/1885:** Nguyễn Bá Loan lãnh đạo Nghĩa hội Quảng Ngãi hưởng ứng Dụ Cần Vương. [Nguồn: Chí sĩ Nguyễn Bá Loan – Người khởi xướng Nghĩa hội Quảng Ngãi (Báo Quảng Ngãi), https://baoquangngai.vn/van-hoa-van-nghe/202107/chi-si-nguyen-ba-loan-nguoi-khoi-xuong-nghia-hoi-quang-ngai-3067160/]
 
 <!-- id: EVT-1309 -->
@@ -5918,6 +5963,13 @@
 *   **1934:** Sau khi theo học Trường Đại học Y khoa Hà Nội từ năm 1928, Phạm Ngọc Thạch sang Pháp học tiếp và tốt nghiệp bác sĩ Y khoa tại Paris; nhờ thành tích xuất sắc, ông được giữ làm trợ lý tại Trường Đại học Y khoa Paris chuyên ngành lao và bệnh phổi đồng thời là trợ lý tại Bệnh viện Laennec trong 2 năm, và từ năm 1936 là hội viên duy nhất ở Đông Dương của Hội Nghiên cứu bệnh lao Pháp. [Nguồn: Bác sĩ Phạm Ngọc Thạch - Nguyên cố Bộ trưởng Bộ Y tế (Trường Đại học Y khoa Phạm Ngọc Thạch), https://www.pnt.edu.vn/vi/gioi-thieu/bac-si-pham-ngoc-thach]
 
 <!-- id: EVT-3471 -->
+*   **1934:** **Nguyễn Văn Huyên** bảo vệ thành công xuất sắc luận án Tiến sĩ Văn khoa tại Đại học Sorbonne (Paris, Pháp), trở thành người Việt Nam đầu tiên đạt học vị Tiến sĩ tại ngôi trường này. [Nguồn: Báo Nhân Dân - Cây đại thụ của khoa học xã hội nhân văn Việt Nam hiện đại, https://special.nhandan.vn/cay-dai-thu-cua-khoa-hoc-xa-hoi-nhan-van-viet-nam-hien-dai/index.html]
+
+![Chân dung Nguyễn Văn Huyên](images/event_20261117_173717.webp)
+
+*Nguồn: Chân dung Giáo sư, Tiến sĩ Nguyễn Văn Huyên thời trẻ tại Pháp / Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3604 -->
 *   **03/1934:** Dưới sự chỉ đạo của Quốc tế Cộng sản, **Ban Chỉ huy Hải ngoại của Đảng Cộng sản Đông Dương** được thành lập tại Ma Cao do đồng chí Lê Hồng Phong làm Thư ký (Bí thư); cơ quan này đảm trách vai trò như Ban Chấp hành Trung ương lâm thời nhằm khôi phục các cơ sở Đảng bị tàn phá sau khủng bố trắng và chuẩn bị Đại hội đại biểu toàn quốc lần thứ I. [Nguồn: Lịch sử Việt Nam (Tập 9: 1930–1945), NXB Khoa học Xã hội, Hà Nội, 2017]
 
 <!-- id: EVT-1606 -->
@@ -6779,6 +6831,9 @@
 *Nguồn: Hiến pháp năm 1946 nước Việt Nam Dân chủ Cộng hòa*
 
 <!-- id: EVT-1816 -->
+*   **03/11/1946:** Tại kỳ họp thứ 2 Quốc hội khóa I, Giáo sư, Tiến sĩ **Nguyễn Văn Huyên** được Chủ tịch Hồ Chí Minh tin tưởng giao giữ chức **Bộ trưởng Bộ Quốc gia Giáo dục**. Ông đảm nhiệm cương vị này liên tục gần 29 năm (1946–1975), chỉ đạo phong trào Bình dân học vụ xóa nạn mù chữ, đưa tiếng Việt trở thành ngôn ngữ giảng dạy chính thức ở bậc đại học và xây dựng hệ thống giáo dục phổ thông Việt Nam qua hai cuộc kháng chiến. [Nguồn: Báo VnExpress - Giáo sư Nguyễn Văn Huyên, vị Bộ trưởng 'chia chữ cho dân', https://vnexpress.net/giao-su-nguyen-van-huyen-vi-bo-truong-chia-chu-cho-dan-4926612.html]
+
+<!-- id: EVT-3605 -->
 *   **07/11/1946:** Chủ tịch Hồ Chí Minh ban hành bản *"Thông báo về việc nhận con các liệt sĩ làm con nuôi"*. Người khẳng định thay mặt Tổ quốc và toàn dân nhận đỡ đầu và nuôi dưỡng tất cả con mồ côi của các liệt sĩ đã anh dũng hy sinh vì độc lập dân tộc, đồng thời chỉ đạo các địa phương lập danh sách và giao Bộ Xã hội cùng chính quyền các cấp chăm lo chu đáo cho thế hệ mầm non của Tổ quốc. [Nguồn: Tiểu sử Chủ tịch Hồ Chí Minh (Bảo tàng Hồ Chí Minh), https://baotanghochiminh.vn/tieu-su-chu-tich-ho-chi-minh.htm]
 
 <!-- id: EVT-1817 -->
@@ -8782,6 +8837,9 @@
 *Nguồn: Bản đồ cuộc hành quân Starlite của Thủy quân lục chiến Mỹ tại Vạn Tường (Quảng Ngãi) ngày 18 - 19/08/1965. Ảnh: Thủy quân lục chiến Hoa Kỳ / Wikimedia Commons, Public domain*
 
 <!-- id: EVT-2317 -->
+*   **01/10/1965:** Giáo sư **Tạ Quang Bửu** (người từng tham gia chỉ đạo nghiên cứu, chế tạo đạn chống tăng Bazooka tại chiến khu Việt Bắc năm 1947 và giữ chức Bộ trưởng Bộ Quốc phòng giai đoạn 1947–1948) được bổ nhiệm làm Bộ trưởng đầu tiên của **Bộ Đại học và Trung học chuyên nghiệp** (nhiệm kỳ 1965–1976), lãnh đạo công tác sơ tán các trường đại học và đào tạo đội ngũ cán bộ khoa học kỹ thuật trong cuộc kháng chiến chống Mỹ cứu nước. [Nguồn: Trang tin điện tử Đảng bộ TP. Hồ Chí Minh - Tạ Quang Bửu: Nhà trí thức cách mạng, nhà khoa học tài năng, https://hcmcpv.org.vn/tin-tap-chi/so-tay-xay-dung-dang-7-2016/ta-quang-buu-nha-tri-thuc-cach-mang-nha-khoa-hoc-tai-nang-1471493466]
+
+<!-- id: EVT-3606 -->
 *   **15/10/1965:** Tròn 1 năm ngày Nguyễn Văn Trỗi hy sinh, bà Phan Thị Quyên trao tặng bức ảnh cưới của hai vợ chồng cho ông Trần Độ (Chín Vinh), Ủy viên Trung ương Cục, Phó Bí thư Quân ủy Miền, Phó Chính ủy Quân Giải phóng miền Nam. [Nguồn: Ban Tuyên giáo Thành ủy TP. Hồ Chí Minh; Hồi ký "Sống như Anh" của Trần Đình Vân; Báo Tuổi Trẻ]
 
 <!-- id: EVT-2318 -->
@@ -10188,6 +10246,9 @@
 *   **11/10/1975:** Tại Tokyo, Chính phủ Nhật Bản và Chính phủ Việt Nam Dân chủ Cộng hòa ký kết Hiệp định cung cấp khoản viện trợ không hoàn lại trị giá 8,5 tỷ Yên (khoảng 28 triệu USD) cho năm tài khóa 1975 nhằm phục hồi và phát triển kinh tế. Đây là công thức ngoại giao thỏa hiệp ("bồi thường trên thực tế"): do Tokyo từ chối ký thỏa thuận mang tên "bồi thường chiến tranh" vì đã từng bồi thường cho chính quyền Sài Gòn năm 1959, khoản viện trợ tái thiết không hoàn lại này được sử dụng như giải pháp đền bù thực chất cho những mất mát to lớn trong Thế chiến II và nạn đói năm 1945 tại miền Bắc. [Nguồn: Bộ Ngoại giao, Ngoại giao Việt Nam 1945 - 2000, NXB Chính trị quốc gia, Hà Nội, 2002; Bộ Ngoại giao Nhật Bản (MOFA), Diplomatic Bluebook 1976]
 
 <!-- id: EVT-2670 -->
+*   **19/10/1975:** Giáo sư, Tiến sĩ **Nguyễn Văn Huyên** qua đời tại Hà Nội khi đang đương chức Bộ trưởng Bộ Giáo dục (vị Bộ trưởng giữ cương vị lâu nhất trong lịch sử giáo dục Việt Nam). [Nguồn: Báo Nhân Dân - Cây đại thụ của khoa học xã hội nhân văn Việt Nam hiện đại, https://special.nhandan.vn/cay-dai-thu-cua-khoa-hoc-xa-hoi-nhan-van-viet-nam-hien-dai/index.html]
+
+<!-- id: EVT-3607 -->
 *   **05/11/1975:** Cựu Thị trưởng Hà Nội, Bác sĩ Trần Văn Lai qua đời, hưởng thọ 81 tuổi. [Nguồn: Báo Hà Nội Mới; Hội Khoa học Lịch sử Việt Nam; Cổng thông tin điện tử UBND Thành phố Hà Nội]
 
 <!-- id: EVT-2671 -->
@@ -11220,6 +11281,13 @@
 *   **01/08/1997 (Đinh Sửu):** Cựu hoàng Bảo Đại (Nguyễn Phúc Vĩnh Thụy), vị hoàng đế cuối cùng của chế độ quân chủ chuyên chế trong lịch sử Việt Nam, qua đời tại bệnh viện quân y Val-de-Grâce ở Paris (Pháp), hưởng thọ 83 tuổi, khép lại trọn vẹn chương sử phong kiến dân tộc. [Nguồn: Bảo Đại, Con rồng Việt Nam (Mémoires), Plon, Paris, 1980; Le Monde số ra ngày 02/08/1997; Thông tấn xã AFP]
 
 <!-- id: EVT-2959 -->
+*   **09/08/1997:** Thiếu tướng, Giáo sư, Viện sĩ, Anh hùng Lao động **Trần Đại Nghĩa** (tên thật **Phạm Quang Lễ**, sinh ngày 13/09/1913) qua đời tại Thành phố Hồ Chí Minh, hưởng thọ 83 tuổi. Năm 1946, ông từ bỏ cuộc sống và mức đãi ngộ cao tại Pháp để theo Chủ tịch Hồ Chí Minh về nước tham gia kháng chiến chống thực dân Pháp, đảm nhiệm cương vị Cục trưởng Cục Quân giới. Trong điều kiện thiếu thốn máy móc và nguyên liệu, ông cùng các cộng sự đã nghiên cứu, chế tạo thành công súng Bazooka (1947), súng không giật SKZ (1949) và bom bay, góp phần quan trọng giúp quân đội Việt Nam phá hủy xe tăng và hệ thống lô cốt kiên cố của đối phương; ông được Nhà nước tặng thưởng Giải thưởng Hồ Chí Minh đợt I năm 1996. [Nguồn: Thông tấn xã Việt Nam (Nhân vật sự kiện) - Trần Đại Nghĩa (1913–1997), https://nvsk.vnanet.vn/ho-so/tran-dai-nghia-1913-1997-3-124842.vna; VnExpress - Trần Đại Nghĩa - 'ông vua vũ khí' Việt Nam, https://vnexpress.net/tran-dai-nghia-ong-vua-vu-khi-viet-nam-2878702.html; Bảo tàng Lịch sử Quốc gia, https://baotanglichsu.vn/vi/Articles/3098/14892/giao-su-vien-si-tran-dai-nghia.html]
+
+![Chân dung Giáo sư Trần Đại Nghĩa](images/event_20261117_172557.webp)
+
+*Nguồn: Chân dung Thiếu tướng, Giáo sư, Viện sĩ Trần Đại Nghĩa, tư liệu trên Wikipedia tiếng Việt (Tập tin:Thiếu tướng, GS.VS, AHLĐ Trần Đại Nghĩa (1913-1997).jpg)*
+
+<!-- id: EVT-3593 -->
 *   **24/09/1997:** Kỳ họp thứ nhất Quốc hội khóa X đã bầu đồng chí Trần Đức Lương làm Chủ tịch nước và bầu đồng chí Phan Văn Khải làm Thủ tướng Chính phủ nước CHXHCN Việt Nam (ngày 25/09/1997). Cả hai đồng chí đều đảm nhiệm cương vị người đứng đầu Nhà nước và Chính phủ trong hai nhiệm kỳ liên tiếp (1997 - 2006), chèo lái nền kinh tế vượt qua Khủng hoảng tài chính châu Á và hội nhập quốc tế sâu rộng. [Nguồn: Nghị quyết của Quốc hội khóa X tại Kỳ họp thứ nhất, ngày 24/09/1997; Văn kiện Quốc hội Toàn tập, tập 9 (1997 - 2002), NXB Chính trị quốc gia, Hà Nội, 2008]
 
 <!-- id: EVT-2960 -->
