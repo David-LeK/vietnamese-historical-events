@@ -9710,6 +9710,13 @@
 *Nguồn: Quốc lộ 9, Quảng Trị. Ảnh: Wikimedia Commons*
 
 <!-- id: EVT-2530 -->
+*   **20/02/1971:** Liệt sĩ **Đặng Hồng Sơn** (tên thật là **Đặng Thái Lập**, quê Hà Nội; nguyên học sinh Trường Trung học phổ thông Chu Văn An, xung phong nhập ngũ khi mới 17 tuổi trong kháng chiến chống Mỹ cứu nước, chiến đấu thuộc lực lượng Đặc công thủy tại chiến trường miền Nam qua các khu vực cầu Bình Lợi, Hàng Xanh, Thủ Đức, Củ Chi) anh dũng hy sinh tại phân khu B4, Trại giam tù binh Phú Quốc của ngụy quyền Sài Gòn. Năm 1968, ông bị đối phương bắt giữ tại Sài Gòn - Gia Định, bị giam tại Trại giam Hố Nai (Biên Hòa) rồi đày ra Phú Quốc dưới tên Đặng Hồng Sơn (số tù 513.3278). Trong tù, ông làm Bí thư Chi bộ và được giao phụ trách đào hầm vượt ngục; sau khi lần đào hầm thứ hai hoàn thành đầu năm 1971 bị chỉ điểm bại lộ, ông cùng các đồng đội trong tổ đào hầm tình nguyện đứng ra nhận trách nhiệm và bản thân ông nhận làm chủ mưu để bảo vệ tổ chức đảng cùng tập thể tù binh. Trước những đòn tra tấn tàn bạo của cai ngục ngụy quyền Sài Gòn - lần lượt đóng 9 chiếc đinh dài vào cơ thể (mu bàn chân, mu bàn tay, đầu gối, bả vai và trán) - ông vẫn giữ vững khí tiết, khẳng định "Còn sống tao còn vượt ngục" và hô vang "Đả đảo đế quốc Mỹ" trước khi hy sinh. Sự hy sinh của ông làm bùng lên làn sóng đấu tranh của tù binh toàn trại B4 và các phân khu khác đòi làm lễ truy điệu, chấm dứt đánh đập và cải thiện điều kiện giam giữ; về sau hình tượng của ông trở thành nguyên mẫu trưng bày tại Bảo tàng Chiến sĩ cách mạng bị địch bắt tù đày (Phú Xuyên, Hà Nội) và nhiều bảo tàng, di tích lịch sử. [Nguồn: Báo Quân đội nhân dân Cuối tuần - Người tù bị đóng 9 đinh lên cơ thể, https://ct.qdnd.vn/phong-su-dieu-tra/nguoi-tu-bi-dong-9-dinh-len-co-the-527071; Báo Đại biểu Nhân dân - 50 năm giải phóng miền Nam: "Khúc ca hòa bình", https://daibieunhandan.vn/50-nam-giai-phong-mien-nam-khuc-ca-hoa-binh-10370315.html; Báo Tuổi Trẻ - Chuyện hang Tám Cô gây xúc động tại di tích Nhà tù Hỏa Lò, https://tuoitre.vn/chuyen-hang-tam-co-gay-xuc-dong-tai-di-tich-nha-tu-hoa-lo-20250501202815997.htm]
+
+![Chân dung liệt sĩ Đặng Hồng Sơn](images/event_20261118_141024.webp)
+
+*Nguồn: Chân dung liệt sĩ Đặng Hồng Sơn (Đặng Thái Lập) / Báo Quân đội nhân dân*
+
+<!-- id: EVT-3621 -->
 *   **20/04/1971:** Bộ Ngoại giao Việt Nam Cộng hòa đưa ra lời phản kháng đối với Malaysia về các vấn đề lãnh thổ, đồng thời nhân dịp này khẳng định lại chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa. [Nguồn: TS. Nguyễn Nhã, Chủ quyền lãnh thổ của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, NXB Tri thức, Hà Nội, 2013]
 
 <!-- id: EVT-2531 -->
@@ -12848,6 +12855,13 @@
 *   **02/09/2025:** Kỷ niệm 80 năm Ngày Quốc khánh nước Cộng hòa xã hội chủ nghĩa Việt Nam. [Nguồn: Lễ mít tinh, diễu binh, diễu hành kỷ niệm 80 năm Cách mạng Tháng Tám và Quốc khánh 2/9 tại Quảng trường Ba Đình ngày 02/09/2025; Thông tấn xã Việt Nam; Báo Nhân Dân]
 
 <!-- id: EVT-3392 -->
+*   **02/09/2025:** Cựu chiến binh Lê Bình (sinh năm 1927, quê Thanh Chương, Nghệ An; cư trú tại Hà Nội), từng tham gia giành chính quyền Tháng Tám 1945, chiến đấu tại Chiến dịch Điện Biên Phủ năm 1954 và gần 10 năm làm nhiệm vụ cảnh vệ bảo vệ Chủ tịch Hồ Chí Minh, tham dự Lễ kỷ niệm, diễu binh, diễu hành 80 năm Cách mạng Tháng Tám và Quốc khánh tại Quảng trường Ba Đình ở tuổi 98. Năm 1949, ông xung phong vào Vệ quốc đoàn, trở thành chiến sĩ Trung đoàn 57 (Sư đoàn 304) chiến đấu ở mặt trận Thượng Lào, bám trụ 56 ngày đêm trong tổ xạ thủ bắn tỉa tại Điện Biên Phủ và cùng đơn vị tiến vào tiếp quản Thủ đô Hà Nội (10/1954). Từ năm 1955 đến năm 1963, ông được tuyển chọn vào Trung đoàn 600 (Bộ Tư lệnh Cảnh vệ, Bộ Công an) bảo vệ Phủ Chủ tịch và Chủ tịch Hồ Chí Minh, được tặng thưởng Huy chương Chiến thắng hạng Nhất (1958), Huân chương Chiến sĩ vẻ vang hạng Ba (03/1963) và Huân chương Kháng chiến hạng Nhất (1985); dịp Đại lễ 02/09/2025 dù phải chạy thận định kỳ, ông nhận thư mời của Văn phòng Tổng Bí thư và được Công an Thành phố Hà Nội hỗ trợ dự lễ trực tiếp tại Ba Đình. [Nguồn: Báo Lao Động - Người cảnh vệ của Bác Hồ xúc động khi chứng kiến lễ diễu binh lịch sử ở Ba Đình (02/09/2025), https://laodong.vn/xa-hoi/nguoi-canh-ve-cua-bac-ho-xuc-dong-khi-chung-kien-le-dieu-binh-lich-su-o-ba-dinh-1567812.ldo; Báo VnExpress - Những người lính già và lễ diễu binh 'có lẽ cuối cùng' (01/09/2025), https://vnexpress.net/nhung-nguoi-linh-gia-va-le-dieu-binh-co-le-cuoi-cung-4933833.html; Báo VietNamNet - Cách dạy con không lời của cựu chiến binh 99 tuổi, từng làm cảnh vệ Phủ Chủ tịch (29/04/2026), https://vietnamnet.vn/cach-day-con-khong-loi-cua-cuu-chien-binh-99-tuoi-tung-lam-canh-ve-phu-chu-tich-2507159.html; TTXVN / Chính sách và Cuộc sống - Lan tỏa đạo lý "uống nước nhớ nguồn" trong Đại lễ A80 (02/09/2025), https://chinhsachcuocsong.vnanet.vn/lan-toa-dao-ly-uong-nuoc-nho-nguon-trong-dai-le-a80/69397.html]
+
+![Cựu chiến binh Lê Bình tại Quảng trường Ba Đình sáng 02/09/2025](images/event_20261118_150216.webp)
+
+*Nguồn: Cựu chiến binh Lê Bình gặp gỡ các cựu chiến binh trước giờ diễn ra Lễ diễu binh, diễu hành tại Quảng trường Ba Đình sáng 02/09/2025. Ảnh: Lê Thường / Báo Lao Động*
+
+<!-- id: EVT-3622 -->
 *   **03/09/2025:** Tác phẩm sơn mài lớn nhất thế giới là bức tranh "Bác Hồ đọc Tuyên ngôn Độc lập" của họa sĩ trẻ Chu Nhật Quang, được Tổ chức Kỷ lục Guinness Thế giới công nhận. [Nguồn: Tổ chức Kỷ lục Việt Nam và Liên minh Kỷ lục Thế giới, Công nhận bức tranh sơn mài lớn nhất thế giới ngày 03/09/2025; Báo Văn Hóa; Báo Tuổi Trẻ]
 
 <!-- id: EVT-3393 -->
