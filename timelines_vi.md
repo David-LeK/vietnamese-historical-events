@@ -4663,6 +4663,9 @@
 *   **02/1881:** Thành lập **Cục Thuyền chính** để chuyên trách quản lý tàu thuyền và vận tải đường thủy của nhà nước. [Nguồn: Đại Nam thực lục chính biên (Đệ tứ kỷ, quyển 65)]
 
 <!-- id: EVT-1271 -->
+*   **12/1881:** Học giả Trương Vĩnh Ký viết bức thư dài 18 trang bằng tiếng Pháp (*"Lettres relatives à la question de la naturalisation"*) gửi nghị sĩ Nam Kỳ Jules Blancsubé, chính thức từ chối nhập quốc tịch Pháp. Trong thư, ông phân tích ba trụ cột của định chế gia đình An Nam (thờ cúng tổ tiên, quyền uy của người cha và người thầy, lòng hiếu thảo của con cái) cùng lịch sử hơn một thiên niên kỷ chống đồng hóa phương Bắc để lý giải vì sao người Việt Nam kiên quyết giữ bản sắc dân tộc và không chấp nhận chuyển sang quốc tịch Pháp. [Nguồn: Nghiên Cứu Lịch Sử - Sự nghiệp học thuật của Trương Vĩnh Ký qua nhận xét của Nguyễn Văn Tố, https://nghiencuulichsu.com/2024/07/04/su-nghiep-hoc-thuat-cua-truong-vinh-ky-qua-nhan-xet-cua-nguyen-van-to-tiep-theo/]
+
+<!-- id: EVT-3623 -->
 *   **1882:** Bộ sách dư địa chí chính thống *Đại Nam Nhất Thống Chí* do Quốc Sử Quán triều Nguyễn biên soạn hoàn tất (ấn hành thời vua Đồng Khánh), ghi chép tường tận về địa lý, tài nguyên và khẳng định chủ quyền của Việt Nam đối với quần đảo Hoàng Sa và Vạn Lý Trường Sa thuộc địa hạt tỉnh Quảng Ngãi. [Nguồn: Quốc sử quán triều Nguyễn, Đại Nam nhất thống chí (Tập 1), NXB Thuận Hóa, Huế, 2006]
 
 ![Hình ảnh tư liệu](images/event_20260930_214526_1.webp)
@@ -4858,6 +4861,13 @@
 *   **01/1887:** Căn cứ Ba Đình thất thủ sau các cuộc tấn công ác liệt của quân Pháp. [Nguồn: Bảo tàng Lịch sử Quốc gia - Địa danh Ba Đình và Quảng trường Ba Đình, Hà Nội, https://baotanglichsu.vn/vi/Articles/3096/14937/djia-danh-ba-djinh-va-quang-truong-ba-djinh-ha-noi.html]
 
 <!-- id: EVT-1321 -->
+*   **03/1887:** Giám mục Paul-François Puginier (Đại diện Tông tòa Tây Đàng Ngoài tại Hà Nội) soạn thảo tài liệu *"Notes sur le Tonkin"* cùng các bản kiến nghị gửi giới chức thực dân Pháp nhằm định hướng chính sách củng cố ách bảo hộ tại Bắc Kỳ. Trong các văn kiện này, Puginier đề xuất bãi bỏ dần chữ Hán và chữ Nôm để thay thế bằng chữ Quốc ngữ (rồi tiến tới tiếng Pháp), coi đây là biện pháp chính trị hữu hiệu nhằm cắt đứt ảnh hưởng của tầng lớp sĩ phu Nho học kháng Pháp và tạo dựng ảnh hưởng lâu dài cho chính quyền thuộc địa. [Nguồn: Nghiên Cứu Lịch Sử - Người Pháp dạy chữ Quốc ngữ cho người Việt để làm gì?, https://nghiencuulichsu.com/2026/10/28/nguoi-phap-day-chu-quoc-ngu-cho-nguoi-viet-de-lam-gi/; Viện Nghiên cứu Pháp - Á (IRFA) - Tiểu sử Paul-François Puginier, https://irfa.paris/en/missionnaire/0720-puginier-paul/]
+
+![Chân dung Giám mục Paul-François Puginier năm 1888](images/event_20261121_121742.webp)
+
+*Nguồn: Chân dung Giám mục Paul-François Puginier (1888), ảnh chụp của Xavier Brau de Saint-Pol Lias. Nguồn ảnh: Thư viện Quốc gia Pháp (BNF Gallica) / Wikimedia Commons, Public domain*
+
+<!-- id: EVT-3624 -->
 *   **07/06/1887:** Lãnh tụ phong trào Cần Vương kháng Pháp tại Bình Định – Bình Tây Đại nguyên soái Mai Xuân Thưởng bị thực dân Pháp xử tử tại Gò Chàm sau khi các căn cứ kháng chiến bị triệt hạ, biểu tượng cho khí tiết kiên trung, bất khuất của nghĩa sĩ miền Trung. [Nguồn: Mai Xuân Thưởng – Anh hùng phong trào Cần Vương ở Bình Định (Bảo tàng Lịch sử Quốc gia), https://baotanglichsu.vn/vi/Articles/3098/13901/mai-xuan-thuong-nguoi-anh-hung-phong-trao-can-vuong-o-binh-dinh.html]
 
 <!-- id: EVT-1322 -->

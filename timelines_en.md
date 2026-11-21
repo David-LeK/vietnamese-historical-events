@@ -4663,6 +4663,9 @@
 *   **Feb. 1881:** The **Ship Administration Bureau** (Cuc Thuyen Chinh) was established to manage state vessels and water transport. [Source: Veritable Records of Dai Nam – Main Part (Fourth Chronicle, Vol. 65)]
 
 <!-- id: EVT-1271 -->
+*   **December 1881:** Scholar Truong Vinh Ky wrote an 18-page French letter (*"Lettres relatives à la question de la naturalisation"*) to Cochinchina Deputy Jules Blancsubé, formally declining French naturalization. In the letter, he analyzed the three pillars of the Vietnamese family institution (ancestor veneration, the authority of father and teacher, and filial piety) alongside over a millennium of resistance against northern assimilation to explain why Vietnamese people steadfastly preserved their national identity rather than adopting French citizenship. [Source: Nghiên Cứu Lịch Sử - Truong Vinh Ky's Academic Career Through Nguyen Van To's Review, https://nghiencuulichsu.com/2024/07/04/su-nghiep-hoc-thuat-cua-truong-vinh-ky-qua-nhan-xet-cua-nguyen-van-to-tiep-theo/]
+
+<!-- id: EVT-3623 -->
 *   **1882:** The official gazetteer *Dai Nam Nhat Thong Chi* (Gazetteer of Imperial Dai Nam), compiled by the Nguyen Dynasty's National Bureau of History, was completed, meticulously detailing the geography and resources of the Paracel and Spratly Islands (Van Ly Truong Sa) as integral parts of Quang Ngai Province. [Source: National History Office of the Nguyen Dynasty, Dai Nam Nhat Thong Chi (Vol. 1), Thuan Hoa Publishing House, Hue, 2006]
 
 ![Historical image](images/event_20260930_214526_1.webp)
@@ -4858,6 +4861,13 @@
 *   **Jan. 1887:** The Ba Dinh base fell after fierce attacks by French forces. [Source: Vietnam National Museum of History - The Place Name Ba Dinh and Ba Dinh Square, Hanoi, https://baotanglichsu.vn/vi/Articles/3096/14937/djia-danh-ba-djinh-va-quang-truong-ba-djinh-ha-noi.html]
 
 <!-- id: EVT-1321 -->
+*   **March 1887:** Bishop Paul-François Puginier (Vicar Apostolic of Western Tonkin in Hanoi) drafted *"Notes sur le Tonkin"* and political memorandums to French colonial authorities outlining strategies to consolidate the protectorate in Tonkin. In these documents, Puginier advocated gradually abolishing classical Chinese and Nôm scripts in favor of Romanized Quốc ngữ (and eventually French), viewing it as an effective political measure to weaken the influence of anti-French Confucian scholar-gentry and entrench colonial rule. [Source: Nghiên Cứu Lịch Sử - Why Did the French Teach Quốc Ngữ to Vietnamese?, https://nghiencuulichsu.com/2026/10/28/nguoi-phap-day-chu-quoc-ngu-cho-nguoi-viet-de-lam-gi/; Institut de recherche France-Asie (IRFA) - Biography of Paul-François Puginier, https://irfa.paris/en/missionnaire/0720-puginier-paul/]
+
+![Portrait of Bishop Paul-François Puginier in 1888](images/event_20261121_121742.webp)
+
+*Source: Portrait of Bishop Paul-François Puginier (1888), photograph by Xavier Brau de Saint-Pol Lias. Photo: Bibliothèque nationale de France (BNF Gallica) / Wikimedia Commons, Public domain*
+
+<!-- id: EVT-3624 -->
 *   **June 7, 1887:** Leader of the Can Vuong anti-French resistance movement in Binh Dinh – Grand Commander Mai Xuan Thuong was executed by French colonial forces at Go Cham after rebel strongholds fell, epitomizing the unyielding patriotic spirit of Central Vietnam's resistance fighters. [Source: Mai Xuan Thuong – Can Vuong Leader in Binh Dinh (National Museum of History), https://baotanglichsu.vn/vi/Articles/3098/13901/mai-xuan-thuong-nguoi-anh-hung-phong-trao-can-vuong-o-binh-dinh.html]
 
 <!-- id: EVT-1322 -->
