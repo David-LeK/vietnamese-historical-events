@@ -1688,6 +1688,17 @@
 *   **01/1362 (Nhâm Dần):** Vua Dụ Tông ra lệnh cho các vương hầu, công chúa dâng các trò tạp hý. [Nguồn: Đại Việt dưới thời Trần Dụ Tông (Nghiên cứu Quốc tế), https://nghiencuuquocte.org/2021/03/28/dai-viet-duoi-thoi-vua-tran-du-tong-1341-1369]
 
 <!-- id: EVT-0448 -->
+*   **1363 (Theo lạc khoản):** Hoàn thành bức trường quyển thủy mặc kết hợp thư pháp ***Trúc Lâm đại sĩ xuất sơn chi đồ*** (hay *Trúc Lâm đại sĩ xuất sơn đồ*, chữ Hán: 竹林大士出山圖) trên giấy xuyến (phần họa phẩm dài khoảng 316 × 28 cm, toàn cuộn kèm lời đề bạt dài 961 × 28 cm). Tác phẩm khắc họa 82 nhân vật trong cảnh Thái thượng hoàng Trần Nhân Tông (Trúc Lâm Đại Sĩ, 1258–1308) rời hành cung Vũ Lâm (Ninh Bình) xuống núi với đoàn tùy tùng, đạo sĩ Lâm Thời Vũ, tăng nhân Ấn Độ, hạc dẫn đường và voi trắng chở kinh sách, được vua Trần Anh Tông cùng văn võ bá quan cung nghênh trọng thể — qua đó phản ánh tinh thần "Tam giáo đồng tôn" và là tư liệu trực quan quý giá về chân dung, y phục, nghi trượng triều Trần. Dù lạc khoản trên tranh đề năm Chí Chính thứ 23 (1363) của họa sĩ Trần Giám Như, các giám định hiện đại (của Bảo tàng tỉnh Liêu Ninh và các học giả như Trần Quang Đức, Phan Huy Lê) chỉ ra dòng lạc khoản này do người đời sau thêm vào và bức họa nhiều khả năng do họa sĩ Đại Việt sáng tác vào cuối thời Trần – đầu thế kỷ XV trước khi được Trần Quang Chỉ đưa sang Trung Quốc và xin các danh sĩ triều Minh đề bạt năm 1420–1423. Từng là bảo vật trong Cố Cung nhà Thanh trước khi bị Phổ Nghi đưa ra ngoài năm 1922, nguyên bản tác phẩm hiện được lưu giữ tại Bảo tàng tỉnh Liêu Ninh (Thẩm Dương, Trung Quốc). [Nguồn: Bảo tàng Lịch sử Quốc gia – Trúc Lâm đại sĩ xuất sơn chi đồ - chìm và nổi, https://baotanglichsu.vn/vi/Articles/3092/12545/truc-lam-djai-si-xuat-son-chi-djo-chim-va-noi.html; Báo Dân Việt – Ai thật sự đã vẽ "Trúc Lâm đại sĩ xuất sơn chi đồ"?, https://danviet.vn/ai-that-su-da-ve-truc-lam-dai-si-xuat-son-chi-do-d1392883.html; VietNamNet – Bức tranh đặc biệt Hội Lịch sử tặng Chủ tịch nước Trần Đại Quang, https://vietnamnet.vn/buc-tranh-dac-biet-hoi-lich-su-tang-chu-tich-nuoc-tran-dai-quang-342614.html]
+
+![Trích đoạn Trúc Lâm đại sĩ xuất sơn chi đồ - Phật hoàng Trần Nhân Tông xuống núi](images/event_20261125_101631.webp)
+
+*Nguồn: Trích đoạn trường quyển "Trúc Lâm đại sĩ xuất sơn chi đồ" mô tả Phật hoàng Trần Nhân Tông (Trúc Lâm Đại sĩ) ngồi kiệu võng từ động Vũ Lâm xuống núi cùng đoàn tùy tùng và hạc dẫn đường (bản gốc lưu tại Bảo tàng tỉnh Liêu Ninh, Trung Quốc) / Wikimedia Commons (Public domain)*
+
+![Trích đoạn Trúc Lâm đại sĩ xuất sơn chi đồ - Vua Trần Anh Tông và triều thần nghênh đón](images/event_20261125_101632.webp)
+
+*Nguồn: Trích đoạn trường quyển "Trúc Lâm đại sĩ xuất sơn chi đồ" mô tả vua Trần Anh Tông cùng văn võ bá quan và nghi trượng cung nghênh Thượng hoàng Trần Nhân Tông (bản gốc lưu tại Bảo tàng tỉnh Liêu Ninh, Trung Quốc) / Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3627 -->
 *   **03/1366 (Bính Ngọ):** Chiêm Thành tấn công Lâm Bình, bị đánh bại. [Nguồn: Đại Việt dưới thời Trần Dụ Tông (Nghiên cứu Quốc tế), https://nghiencuuquocte.org/2021/03/28/dai-viet-duoi-thoi-vua-tran-du-tong-1341-1369]
 
 <!-- id: EVT-0449 -->

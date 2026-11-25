@@ -1688,6 +1688,17 @@
 *   **Jan. 1362:** Emperor Du Tong ordered nobles and princesses to present various forms of entertainment. [Source: Dai Viet Under Tran Du Tong (International Studies), https://nghiencuuquocte.org/2021/03/28/dai-viet-duoi-thoi-vua-tran-du-tong-1341-1369]
 
 <!-- id: EVT-0448 -->
+*   **1363 (Traditional colophon):** Creation of the ink-on-paper handscroll painting and calligraphy masterpiece ***The Mahasattva of Truc Lam Coming out of the Mountain*** (*Trúc Lâm đại sĩ xuất sơn chi đồ* or *Trúc Lâm đại sĩ xuất sơn đồ*, 竹林大士出山圖; painted core approx. 316 × 28 cm, total scroll 961 × 28 cm with colophons). Featuring 82 figures, the scroll depicts Retired Emperor Tran Nhan Tong (Truc Lam Dai Si, 1258–1308) descending from his hermitage at Vu Lam (Ninh Binh) accompanied by disciples, Daoist master Lam Thoi Vu, foreign Buddhist monks, a guiding crane, and a sutra-bearing white elephant, solemnly welcomed by reigning Emperor Tran Anh Tong and court officials—reflecting the Tran dynasty's "Three Teachings Harmonized" ethos and preserving rare visual evidence of Tran-era portraiture, attire, and ceremonial regalia. Although a later inscription attributes the work to Yuan artist Chen Jianru (Tran Giam Nhu) in 1363, modern art-historical and textual appraisals (including those by the Liaoning Provincial Museum and Vietnamese historians Tran Quang Duc and Phan Huy Le) indicate that the signature was added later and the painting was likely executed by a Vietnamese artist in the late 14th to early 15th century before being brought to China by Tran Quang Chi and inscribed with Ming literati colophons in 1420–1423. Held in the Qing imperial collection until removed from the Forbidden City by Puyi in 1922, the original scroll is preserved at the Liaoning Provincial Museum in Shenyang, China. [Source: Harvard-Yenching Institute – Lecture by Nam Nguyen on The Mahasattva Truc Lam Coming Out of the Mountains, https://www.harvard-yenching.org/2012-2013-hyi-past-events/; Vietnam National Museum of History – Truc Lam Dai Si Xuat Son Chi Do, https://baotanglichsu.vn/vi/Articles/3092/12545/truc-lam-djai-si-xuat-son-chi-djo-chim-va-noi.html; VietNamNet – Special painting presented by Vietnam Historical Science Association, https://vietnamnet.vn/buc-tranh-dac-biet-hoi-lich-su-tang-chu-tich-nuoc-tran-dai-quang-342614.html]
+
+![Detail of The Mahasattva of Truc Lam Coming out of the Mountain - Tran Nhan Tong descending](images/event_20261125_101631.webp)
+
+*Source: Detail from the handscroll "The Mahasattva of Truc Lam Coming out of the Mountain" depicting Retired Emperor Tran Nhan Tong (Truc Lam Dai Si) in a hammock palanquin leaving Vu Lam Cave with attendants and a guiding crane (original at Liaoning Provincial Museum, China) / Wikimedia Commons (Public domain)*
+
+![Detail of The Mahasattva of Truc Lam Coming out of the Mountain - Emperor Tran Anh Tong welcoming](images/event_20261125_101632.webp)
+
+*Source: Detail from the handscroll "The Mahasattva of Truc Lam Coming out of the Mountain" depicting Emperor Tran Anh Tong with court officials and royal palanquin bearers welcoming Retired Emperor Tran Nhan Tong (original at Liaoning Provincial Museum, China) / Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3627 -->
 *   **Mar. 1366:** Champa forces attacked Lam Binh but were defeated. [Source: Dai Viet Under Tran Du Tong (International Studies), https://nghiencuuquocte.org/2021/03/28/dai-viet-duoi-thoi-vua-tran-du-tong-1341-1369]
 
 <!-- id: EVT-0449 -->
