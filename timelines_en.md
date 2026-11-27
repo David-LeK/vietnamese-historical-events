@@ -6897,6 +6897,9 @@
 *Source: The 1946 Constitution of the Democratic Republic of Vietnam*
 
 <!-- id: EVT-1816 -->
+*   **Nov. 1946:** Ahead of the cabinet reorganization at the second session of the First National Assembly (Nov. 3, 1946), President Ho Chi Minh met with Professor Nguy Nhu Kon Tum (then Director of Secondary Education) and offered to appoint him Minister of National Education. Professor Nguy Nhu Kon Tum respectfully declined, citing his background in the natural sciences, and recommended Professor Nguyen Van Huyen as the most suitable candidate for the post, while he continued his work building the secondary education system and teacher training during the resistance war. [Source: Journal of Party History - President Ho Chi Minh and Minister of National Education Nguyen Van Huyen, https://tapchilichsudang.vn/chu-tich-ho-chi-minh-voi-bo-truong-bo-quoc-gia-giao-duc-nguyen-van-huyen.html; VNU University of Science - Professor Nguy Nhu Kon Tum, the first and longest-serving Rector of Hanoi University, https://hus.vnu.edu.vn/tin-tuc-su-kien/tin-tuc-chung/giao-su-nguy-nhu-kon-tum-hieu-truong-dau-tien-va-lau-nhat-cua-dai-hoc-tong-hop-ha-noi-145844]
+
+<!-- id: EVT-3634 -->
 *   **November 3, 1946:** At the second session of the First National Assembly, Professor **Nguyen Van Huyen** was appointed **Minister of National Education** by President Ho Chi Minh. Serving continuously for nearly 29 years (1946–1975), he directed the Popular Education literacy campaign, established Vietnamese as the primary language of university instruction, and built Vietnam's general education system through two resistance wars. [Source: VnExpress - Professor Nguyen Van Huyen, the Minister who brought literacy to the people, https://vnexpress.net/giao-su-nguyen-van-huyen-vi-bo-truong-chia-chu-cho-dan-4926612.html]
 
 <!-- id: EVT-3605 -->
@@ -11055,6 +11058,13 @@
 *   **Mar. 17, 1991:** A referendum on the preservation of the USSR was held, with 76.4% of voters supporting the maintenance of the Union. [Source: Central Election Commission of the USSR, Results of the All-Union Referendum, Mar. 17, 1991; Nhan Dan Newspaper; Archie Brown, The Rise and Fall of Communism, 2009]
 
 <!-- id: EVT-2866 -->
+*   **Mar. 28, 1991:** Professor and People's Teacher Nguy Nhu Kon Tum (born May 3, 1913 in Kon Tum, ancestral hometown in Thua Thien Hue) passed away in Hanoi at the age of 77. A pioneering physicist and prominent educator of modern Vietnam, he earned three baccalaureate degrees simultaneously in 1932, studied at the University of Sorbonne (France), and conducted research at nuclear physicist Frédéric Joliot-Curie's laboratory before returning to serve Vietnam in 1939. During the resistance war against French colonialism, he served as General Director of Secondary Education and Chief of Staff of the Ministry of National Education, as well as Director of the Advanced Pedagogical School. From 1956 to 1982, he served as the founding Rector of Hanoi University (the predecessor of Vietnam National University, Hanoi), was a National Assembly deputy in the 3rd and 4th terms, and was conferred the title of People's Teacher in 1990. [Source: Vietnam National University, Hanoi - Vietnam's first Master of Physics leaves France to teach at home, https://vnu.edu.vn/-post38707.html; People's Deputies Newspaper - Professor Nguy Nhu Kon Tum, an exemplary teacher, https://daibieunhandan.vn/giao-su-nguy-nhu-kon-tum-nguoi-thay-mau-muc-10292321.html]
+
+![Historical Image](images/event_20261127_112256.webp)
+
+*Source: Portrait of Professor Nguy Nhu Kon Tum in 1940. Photo: Archival / Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3633 -->
 *   **Jun. 24 - 27, 1991:** The 7th National Congress of the Communist Party of Vietnam approved the **"Platform for National Construction in the Period of Transition to Socialism"** and the **"Strategy for Socio-Economic Stability and Development until 2000,"** officially affirming that the Party takes Marxism-Leninism and Ho Chi Minh Thought as its ideological foundation and compass for action. At the Congress, General Secretary Nguyen Van Linh voluntarily stepped down for health reasons to facilitate leadership transition and was appointed Senior Advisor to the Party Central Committee; the Congress elected Do Muoi as General Secretary. [Source: Platform for National Construction in the Transition to Socialism (1991 Platform); Complete Party Documents, Vol. 51 (1991), National Political Publishing House, Hanoi, 2007]
 
 <!-- id: EVT-2867 -->

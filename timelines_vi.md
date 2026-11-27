@@ -6897,6 +6897,9 @@
 *Nguồn: Hiến pháp năm 1946 nước Việt Nam Dân chủ Cộng hòa*
 
 <!-- id: EVT-1816 -->
+*   **11/1946:** Trước thềm kiện toàn Chính phủ mới tại kỳ họp thứ 2 Quốc hội khóa I (03/11/1946), Chủ tịch Hồ Chí Minh mời Giáo sư Ngụy Như Kon Tum (lúc đó là Giám đốc Trung học vụ) đến gặp và ngỏ ý giao cho ông giữ chức Bộ trưởng Bộ Quốc gia Giáo dục. Giáo sư Ngụy Như Kon Tum đã khiêm tốn xin từ chối vì bản thân làm khoa học tự nhiên và tiến cử Giáo sư, Tiến sĩ Nguyễn Văn Huyên là người phù hợp nhất đảm nhận trọng trách này, còn ông tiếp tục đảm nhiệm công tác xây dựng hệ thống giáo dục trung học và đào tạo sư phạm trong kháng chiến. [Nguồn: Tạp chí Lịch sử Đảng - Chủ tịch Hồ Chí Minh với Bộ trưởng Bộ Quốc gia Giáo dục Nguyễn Văn Huyên, https://tapchilichsudang.vn/chu-tich-ho-chi-minh-voi-bo-truong-bo-quoc-gia-giao-duc-nguyen-van-huyen.html; Trường Đại học Khoa học Tự nhiên (ĐHQGHN) - Giáo sư Ngụy Như Kon Tum - Hiệu trưởng đầu tiên và lâu nhất của Đại học Tổng hợp Hà Nội, https://hus.vnu.edu.vn/tin-tuc-su-kien/tin-tuc-chung/giao-su-nguy-nhu-kon-tum-hieu-truong-dau-tien-va-lau-nhat-cua-dai-hoc-tong-hop-ha-noi-145844]
+
+<!-- id: EVT-3634 -->
 *   **03/11/1946:** Tại kỳ họp thứ 2 Quốc hội khóa I, Giáo sư, Tiến sĩ **Nguyễn Văn Huyên** được Chủ tịch Hồ Chí Minh tin tưởng giao giữ chức **Bộ trưởng Bộ Quốc gia Giáo dục**. Ông đảm nhiệm cương vị này liên tục gần 29 năm (1946–1975), chỉ đạo phong trào Bình dân học vụ xóa nạn mù chữ, đưa tiếng Việt trở thành ngôn ngữ giảng dạy chính thức ở bậc đại học và xây dựng hệ thống giáo dục phổ thông Việt Nam qua hai cuộc kháng chiến. [Nguồn: Báo VnExpress - Giáo sư Nguyễn Văn Huyên, vị Bộ trưởng 'chia chữ cho dân', https://vnexpress.net/giao-su-nguyen-van-huyen-vi-bo-truong-chia-chu-cho-dan-4926612.html]
 
 <!-- id: EVT-3605 -->
@@ -11055,6 +11058,13 @@
 *   **17/03/1991:** Cuộc trưng cầu dân ý toàn Liên bang Xô viết được tổ chức, với 76,4% cử tri ủng hộ việc duy trì Liên bang Xô viết. [Nguồn: Ủy ban Bầu cử Trung ương Liên Xô, Kết quả Trưng cầu dân ý toàn Liên bang ngày 17/03/1991; Báo Nhân Dân; Archie Brown, The Rise and Fall of Communism, 2009]
 
 <!-- id: EVT-2866 -->
+*   **28/03/1991:** Giáo sư, Nhà giáo Nhân dân Ngụy Như Kon Tum (sinh ngày 03/05/1913 tại Kon Tum, quê gốc tại Thừa Thiên Huế) qua đời tại Hà Nội, hưởng thọ 77 tuổi. Là một trong những nhà vật lý học đầu ngành và nhà giáo dục tiêu biểu của Việt Nam hiện đại, ông từng đỗ liền ba bằng Tú tài năm 1932, du học tại Đại học Sorbonne (Pháp) và nghiên cứu tại phòng thí nghiệm của nhà vật lý hạt nhân Frédéric Joliot-Curie trước khi về nước phục vụ Tổ quốc năm 1939. Trong kháng chiến chống Pháp, ông giữ chức Tổng Giám đốc Trung học vụ kiêm Đổng lý sự vụ Bộ Quốc gia Giáo dục và Giám đốc Trường Sư phạm cao cấp. Từ năm 1956 đến năm 1982, ông đảm nhiệm cương vị Hiệu trưởng đầu tiên của Trường Đại học Tổng hợp Hà Nội (tiền thân của Đại học Quốc gia Hà Nội ngày nay), đồng thời là Đại biểu Quốc hội khóa III và IV, được phong tặng danh hiệu Nhà giáo Nhân dân năm 1990. [Nguồn: Đại học Quốc gia Hà Nội - Thạc sĩ Vật lý đầu tiên của Việt Nam rời Pháp về nước dạy học, https://vnu.edu.vn/-post38707.html; Báo Đại biểu Nhân dân - Giáo sư Ngụy Như Kon Tum - người thầy mẫu mực, https://daibieunhandan.vn/giao-su-nguy-nhu-kon-tum-nguoi-thay-mau-muc-10292321.html]
+
+![Hình ảnh tư liệu](images/event_20261127_112256.webp)
+
+*Nguồn: Chân dung Giáo sư Ngụy Như Kon Tum năm 1940. Ảnh: Tư liệu / Wikimedia Commons (Public domain)*
+
+<!-- id: EVT-3633 -->
 *   **24-27/06/1991:** Đại hội đại biểu toàn quốc lần thứ VII của Đảng Cộng sản Việt Nam thông qua **"Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội"** và **"Chiến lược ổn định và phát triển kinh tế - xã hội đến năm 2000"**, chính thức khẳng định Đảng lấy chủ nghĩa Mác-Lênin và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng, kim chỉ nam cho hành động. Tại Đại hội, đồng chí Nguyễn Văn Linh chủ động rút lui khỏi cương vị Tổng Bí thư để chuyển giao thế hệ lãnh đạo và được cử làm Cố vấn Ban Chấp hành Trung ương Đảng; Đại hội bầu đồng chí Đỗ Mười làm Tổng Bí thư. [Nguồn: Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (Cương lĩnh 1991); Văn kiện Đảng Toàn tập, tập 51 (1991), NXB Chính trị quốc gia, Hà Nội, 2007]
 
 <!-- id: EVT-2867 -->
